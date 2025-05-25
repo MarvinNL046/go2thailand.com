@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "asean-night-bazaar",
+  "name": {
+    "en": "ASEAN Night Bazaar",
+    "nl": "ASEAN Nachtbazaar"
+  },
+  "type": "market",
+  "city_slug": "hat-yai",
+  "address": "Niphat Uthit 3 Road, Hat Yai District",
+  "location": {
+    "lat": 7.0086,
+    "lng": 100.4747
+  },
+  "opening_hours": "18:00-24:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Large night market with shopping dining and entertainment for locals and tourists",
+    "nl": "Grote nachtmarkt met winkelen dineren en entertainment voor locals en toeristen"
+  },
+  "highlights": [
+    "Night shopping",
+    "Local dining",
+    "Entertainment",
+    "Tourist hub"
+  ],
+  "image": "/images/attractions/hat-yai/asean-bazaar.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "ASEAN Night Bazaar - Top Attraction in Hat Yai | Go2Thailand",
+      "nl": "ASEAN Nachtbazaar - Top Attractie in Hat Yai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover ASEAN Night Bazaar in Hat Yai. Large night market with shopping dining and entertainment for locals and tourists...",
+      "nl": "Ontdek ASEAN Nachtbazaar in Hat Yai. Grote nachtmarkt met winkelen dineren en entertainment voor locals en toeristen..."
+    }
+  },
+  "tags": [
+    "market",
+    "hat-yai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

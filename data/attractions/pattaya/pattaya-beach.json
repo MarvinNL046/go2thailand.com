@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "pattaya-beach",
+  "name": {
+    "en": "Pattaya Beach",
+    "nl": "Pattaya Beach"
+  },
+  "type": "beach",
+  "city_slug": "pattaya",
+  "address": "Pattaya Beach Road, Bang Lamung District",
+  "location": {
+    "lat": 12.9236,
+    "lng": 100.8825
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Main beach strip with water sports beach activities and beachfront dining",
+    "nl": "Hoofdstrand strip met watersport strand activiteiten en restaurants aan het strand"
+  },
+  "highlights": [
+    "Main beach",
+    "Water sports",
+    "Beachfront dining",
+    "Parasailing"
+  ],
+  "image": "/images/attractions/pattaya/pattaya-beach.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Pattaya Beach - Top Attraction in Pattaya | Go2Thailand",
+      "nl": "Pattaya Beach - Top Attractie in Pattaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Pattaya Beach in Pattaya. Main beach strip with water sports beach activities and beachfront dining...",
+      "nl": "Ontdek Pattaya Beach in Pattaya. Hoofdstrand strip met watersport strand activiteiten en restaurants aan het strand..."
+    }
+  },
+  "tags": [
+    "beach",
+    "pattaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

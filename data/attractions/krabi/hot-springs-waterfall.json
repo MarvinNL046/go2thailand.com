@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "hot-springs-waterfall",
+  "name": {
+    "en": "Hot Springs Waterfall",
+    "nl": "Warmwaterbron Waterval"
+  },
+  "type": "nature",
+  "city_slug": "krabi",
+  "address": "Khlong Thom District, Krabi",
+  "location": {
+    "lat": 7.9167,
+    "lng": 99.2667
+  },
+  "opening_hours": "08:00-18:00",
+  "entrance_fee": {
+    "thb": 90,
+    "usd": 3
+  },
+  "description": {
+    "en": "Natural hot springs cascading down limestone rocks creating warm pools",
+    "nl": "Natuurlijke warmwaterbronnen die over kalkstenen rotsen stromen en warme poelen vormen"
+  },
+  "highlights": [
+    "Natural hot springs",
+    "Limestone cascades",
+    "Warm pools",
+    "Relaxation"
+  ],
+  "image": "/images/attractions/krabi/hot-springs.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Hot Springs Waterfall - Top Attraction in Krabi | Go2Thailand",
+      "nl": "Warmwaterbron Waterval - Top Attractie in Krabi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Hot Springs Waterfall in Krabi. Natural hot springs cascading down limestone rocks creating warm pools...",
+      "nl": "Ontdek Warmwaterbron Waterval in Krabi. Natuurlijke warmwaterbronnen die over kalkstenen rotsen stromen en warme poelen vormen..."
+    }
+  },
+  "tags": [
+    "nature",
+    "krabi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

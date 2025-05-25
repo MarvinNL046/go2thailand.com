@@ -1,0 +1,239 @@
+{
+  "city_slug": "hat-yai",
+  "city_name": "Hat Yai",
+  "total_attractions": 10,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "kim-yong-market",
+      "name": {
+        "en": "Kim Yong Market",
+        "nl": "Kim Yong Markt"
+      },
+      "type": "market",
+      "image": "/images/attractions/hat-yai/kim-yong-market.webp",
+      "description": {
+        "en": "Historic covered market famous for local products dried seafood and traditional goods",
+        "nl": "Historische overdekte markt beroemd om lokale producten gedroogde zeevruchten en traditionele goederen"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Historic market",
+        "Dried seafood",
+        "Local products"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "hat-yai-floating-market",
+      "name": {
+        "en": "Hat Yai Floating Market",
+        "nl": "Hat Yai Drijvende Markt"
+      },
+      "type": "market",
+      "image": "/images/attractions/hat-yai/floating-market.webp",
+      "description": {
+        "en": "Evening floating market with local food boat rides and cultural performances",
+        "nl": "Avond drijvende markt met lokaal eten boottochten en culturele optredens"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Evening market",
+        "Boat rides",
+        "Local food"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "hat-yai-municipal-park",
+      "name": {
+        "en": "Hat Yai Municipal Park",
+        "nl": "Hat Yai Gemeentelijk Park"
+      },
+      "type": "park",
+      "image": "/images/attractions/hat-yai/municipal-park.webp",
+      "description": {
+        "en": "City park with cable car golden Buddha statue and panoramic city views",
+        "nl": "Stadspark met kabelbaan gouden Boeddhabeeld en panoramisch uitzicht over de stad"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Cable car",
+        "Golden Buddha",
+        "City views"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "asean-night-bazaar",
+      "name": {
+        "en": "ASEAN Night Bazaar",
+        "nl": "ASEAN Nachtbazaar"
+      },
+      "type": "market",
+      "image": "/images/attractions/hat-yai/asean-bazaar.webp",
+      "description": {
+        "en": "Large night market with shopping dining and entertainment for locals and tourists",
+        "nl": "Grote nachtmarkt met winkelen dineren en entertainment voor locals en toeristen"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Night shopping",
+        "Local dining",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "wat-hat-yai-nai",
+      "name": {
+        "en": "Wat Hat Yai Nai",
+        "nl": "Wat Hat Yai Nai"
+      },
+      "type": "temple",
+      "image": "/images/attractions/hat-yai/wat-hat-yai-nai.webp",
+      "description": {
+        "en": "Temple famous for massive 35-meter long reclining Buddha statue",
+        "nl": "Tempel beroemd om massaal 35 meter lang liggend Boeddhabeeld"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "35m reclining Buddha",
+        "Massive statue",
+        "Buddhist temple"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "central-festival-hat-yai",
+      "name": {
+        "en": "Central Festival Hat Yai",
+        "nl": "Central Festival Hat Yai"
+      },
+      "type": "shopping",
+      "image": "/images/attractions/hat-yai/central-festival.webp",
+      "description": {
+        "en": "Modern shopping mall with international brands restaurants and entertainment",
+        "nl": "Modern winkelcentrum met internationale merken restaurants en entertainment"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Modern shopping",
+        "International brands",
+        "Dining"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "songkhla-old-town",
+      "name": {
+        "en": "Songkhla Old Town",
+        "nl": "Songkhla Oude Stad"
+      },
+      "type": "historic",
+      "image": "/images/attractions/hat-yai/songkhla-old-town.webp",
+      "description": {
+        "en": "Historic town with Sino-Portuguese architecture museums and cultural sites",
+        "nl": "Historische stad met Sino-Portugese architectuur musea en culturele locaties"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Sino-Portuguese architecture",
+        "Historic buildings",
+        "Museums"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "lee-garden-plaza",
+      "name": {
+        "en": "Lee Garden Plaza",
+        "nl": "Lee Garden Plaza"
+      },
+      "type": "shopping",
+      "image": "/images/attractions/hat-yai/lee-garden.webp",
+      "description": {
+        "en": "Popular shopping center with local and international brands and food court",
+        "nl": "Populair winkelcentrum met lokale en internationale merken en food court"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Shopping center",
+        "Local brands",
+        "Food court"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "ton-nga-chang-waterfall",
+      "name": {
+        "en": "Ton Nga Chang Waterfall",
+        "nl": "Ton Nga Chang Waterval"
+      },
+      "type": "nature",
+      "image": "/images/attractions/hat-yai/ton-nga-chang.webp",
+      "description": {
+        "en": "Seven-tiered waterfall in wildlife sanctuary perfect for nature lovers",
+        "nl": "Zeven-traps waterval in wildreservaat perfect voor natuurliefhebbers"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Seven-tiered waterfall",
+        "Wildlife sanctuary",
+        "Nature hiking"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "hat-yai-ice-dome",
+      "name": {
+        "en": "Hat Yai Ice Dome",
+        "nl": "Hat Yai IJs Dome"
+      },
+      "type": "attraction",
+      "image": "/images/attractions/hat-yai/ice-dome.webp",
+      "description": {
+        "en": "Indoor ice attraction with sculptures slides and sub-zero temperatures",
+        "nl": "Indoor ijs attractie met sculpturen glijbanen en temperaturen onder nul"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Ice sculptures",
+        "Indoor attraction",
+        "Sub-zero experience"
+      ]
+    }
+  ],
+  "enhanced_at": "2025-05-25T22:48:44.099Z",
+  "enhanced_count": 10
+}

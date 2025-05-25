@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "slug": "big-buddha-hill",
+  "name": {
+    "en": "Big Buddha Hill (Wat Phra Yai)",
+    "nl": "Grote Boeddha Heuvel (Wat Phra Yai)"
+  },
+  "type": "temple",
+  "city_slug": "pattaya",
+  "address": "Pratumnak Hill, Bang Lamung District",
+  "location": {
+    "lat": 12.9167,
+    "lng": 100.8667
+  },
+  "opening_hours": "06:00-19:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Hilltop temple with large golden Buddha statue and panoramic city views",
+    "nl": "Heuvel tempel met groot gouden Boeddhabeeld en panoramisch uitzicht over de stad"
+  },
+  "highlights": [
+    "Golden Buddha statue",
+    "Panoramic views",
+    "Hilltop temple",
+    "Sunset spot"
+  ],
+  "image": "/images/attractions/pattaya/big-buddha-hill.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Big Buddha Hill (Wat Phra Yai) - Top Attraction in Pattaya | Go2Thailand",
+      "nl": "Grote Boeddha Heuvel (Wat Phra Yai) - Top Attractie in Pattaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Big Buddha Hill (Wat Phra Yai) in Pattaya. Hilltop temple with large golden Buddha statue and panoramic city views...",
+      "nl": "Ontdek Grote Boeddha Heuvel (Wat Phra Yai) in Pattaya. Heuvel tempel met groot gouden Boeddhabeeld en panoramisch uitzicht over de stad..."
+    }
+  },
+  "tags": [
+    "temple",
+    "pattaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

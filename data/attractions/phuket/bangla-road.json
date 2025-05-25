@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "bangla-road",
+  "name": {
+    "en": "Bangla Road",
+    "nl": "Bangla Road"
+  },
+  "type": "entertainment",
+  "city_slug": "phuket",
+  "address": "Bangla Road, Patong, Kathu District",
+  "location": {
+    "lat": 7.8967,
+    "lng": 98.2967
+  },
+  "opening_hours": "20:00-02:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Famous nightlife street with bars clubs go-go bars and street performances",
+    "nl": "Beroemde uitgaansstraat met bars clubs go-go bars en straatoptredens"
+  },
+  "highlights": [
+    "Nightlife hub",
+    "Go-go bars",
+    "Street performances",
+    "Party atmosphere"
+  ],
+  "image": "/images/attractions/phuket/bangla-road.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Bangla Road - Top Attraction in Phuket | Go2Thailand",
+      "nl": "Bangla Road - Top Attractie in Phuket | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Bangla Road in Phuket. Famous nightlife street with bars clubs go-go bars and street performances...",
+      "nl": "Ontdek Bangla Road in Phuket. Beroemde uitgaansstraat met bars clubs go-go bars en straatoptredens..."
+    }
+  },
+  "tags": [
+    "entertainment",
+    "phuket",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

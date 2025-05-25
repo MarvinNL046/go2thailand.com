@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "walking-street",
+  "name": {
+    "en": "Walking Street",
+    "nl": "Walking Street"
+  },
+  "type": "entertainment",
+  "city_slug": "pattaya",
+  "address": "Walking Street, Bang Lamung District, Chonburi",
+  "location": {
+    "lat": 12.9236,
+    "lng": 100.8825
+  },
+  "opening_hours": "20:00-02:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Famous nightlife street with bars clubs restaurants and street performances",
+    "nl": "Beroemde uitgaansstraat met bars clubs restaurants en straatoptredens"
+  },
+  "highlights": [
+    "Nightlife hub",
+    "Go-go bars",
+    "Street food",
+    "Live music"
+  ],
+  "image": "/images/attractions/pattaya/walking-street.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Walking Street - Top Attraction in Pattaya | Go2Thailand",
+      "nl": "Walking Street - Top Attractie in Pattaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Walking Street in Pattaya. Famous nightlife street with bars clubs restaurants and street performances...",
+      "nl": "Ontdek Walking Street in Pattaya. Beroemde uitgaansstraat met bars clubs restaurants en straatoptredens..."
+    }
+  },
+  "tags": [
+    "entertainment",
+    "pattaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

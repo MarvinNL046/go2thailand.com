@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "tiger-cave-temple",
+  "name": {
+    "en": "Tiger Cave Temple (Wat Tham Suea)",
+    "nl": "Tijger Grot Tempel (Wat Tham Suea)"
+  },
+  "type": "temple",
+  "city_slug": "krabi",
+  "address": "Krabi Town, Muang Krabi District",
+  "location": {
+    "lat": 8.1167,
+    "lng": 98.9167
+  },
+  "opening_hours": "05:00-18:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Buddhist temple complex with challenging climb to summit offering panoramic views",
+    "nl": "Boeddhistische tempelcomplex met uitdagende klim naar top met panoramisch uitzicht"
+  },
+  "highlights": [
+    "1237 steps climb",
+    "Panoramic views",
+    "Buddhist temple",
+    "Physical challenge"
+  ],
+  "image": "/images/attractions/krabi/tiger-cave.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Tiger Cave Temple (Wat Tham Suea) - Top Attraction in Krabi | Go2Thailand",
+      "nl": "Tijger Grot Tempel (Wat Tham Suea) - Top Attractie in Krabi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Tiger Cave Temple (Wat Tham Suea) in Krabi. Buddhist temple complex with challenging climb to summit offering panoramic views...",
+      "nl": "Ontdek Tijger Grot Tempel (Wat Tham Suea) in Krabi. Boeddhistische tempelcomplex met uitdagende klim naar top met panoramisch uitzicht..."
+    }
+  },
+  "tags": [
+    "temple",
+    "krabi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

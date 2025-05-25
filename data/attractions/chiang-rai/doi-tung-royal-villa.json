@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "doi-tung-royal-villa",
+  "name": {
+    "en": "Doi Tung Royal Villa",
+    "nl": "Doi Tung Koninklijke Villa"
+  },
+  "type": "palace",
+  "city_slug": "chiang-rai",
+  "address": "Mae Fa Luang District, Chiang Rai",
+  "location": {
+    "lat": 20.3167,
+    "lng": 99.8333
+  },
+  "opening_hours": "08:30-17:30",
+  "entrance_fee": {
+    "thb": 90,
+    "usd": 3
+  },
+  "description": {
+    "en": "Former residence of Princess Mother with beautiful gardens and mountain views",
+    "nl": "Voormalige residentie van Prinses Moeder met prachtige tuinen en bergzicht"
+  },
+  "highlights": [
+    "Royal residence",
+    "Mountain views",
+    "Beautiful gardens",
+    "Royal history"
+  ],
+  "image": "/images/attractions/chiang-rai/doi-tung.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Doi Tung Royal Villa - Top Attraction in Chiang Rai | Go2Thailand",
+      "nl": "Doi Tung Koninklijke Villa - Top Attractie in Chiang Rai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Doi Tung Royal Villa in Chiang Rai. Former residence of Princess Mother with beautiful gardens and mountain views...",
+      "nl": "Ontdek Doi Tung Koninklijke Villa in Chiang Rai. Voormalige residentie van Prinses Moeder met prachtige tuinen en bergzicht..."
+    }
+  },
+  "tags": [
+    "palace",
+    "chiang-rai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

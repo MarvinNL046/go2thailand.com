@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "james-bond-island",
+  "name": {
+    "en": "James Bond Island",
+    "nl": "James Bond Eiland"
+  },
+  "type": "island",
+  "city_slug": "phuket",
+  "address": "Phang Nga Bay, Phang Nga Province",
+  "location": {
+    "lat": 8.2756,
+    "lng": 98.5019
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 300,
+    "usd": 9
+  },
+  "description": {
+    "en": "Famous limestone pinnacle featured in James Bond movie with sea kayaking",
+    "nl": "Beroemde kalkstenen spits uit James Bond film met zeekajak mogelijkheden"
+  },
+  "highlights": [
+    "Movie location",
+    "Limestone formations",
+    "Sea kayaking",
+    "Phang Nga Bay"
+  ],
+  "image": "/images/attractions/phuket/james-bond-island.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "James Bond Island - Top Attraction in Phuket | Go2Thailand",
+      "nl": "James Bond Eiland - Top Attractie in Phuket | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover James Bond Island in Phuket. Famous limestone pinnacle featured in James Bond movie with sea kayaking...",
+      "nl": "Ontdek James Bond Eiland in Phuket. Beroemde kalkstenen spits uit James Bond film met zeekajak mogelijkheden..."
+    }
+  },
+  "tags": [
+    "island",
+    "phuket",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

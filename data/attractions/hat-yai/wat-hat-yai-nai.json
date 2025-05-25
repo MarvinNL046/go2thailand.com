@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "wat-hat-yai-nai",
+  "name": {
+    "en": "Wat Hat Yai Nai",
+    "nl": "Wat Hat Yai Nai"
+  },
+  "type": "temple",
+  "city_slug": "hat-yai",
+  "address": "Hat Yai Nai, Hat Yai District, Songkhla",
+  "location": {
+    "lat": 7.0167,
+    "lng": 100.4667
+  },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Temple famous for massive 35-meter long reclining Buddha statue",
+    "nl": "Tempel beroemd om massaal 35 meter lang liggend Boeddhabeeld"
+  },
+  "highlights": [
+    "35m reclining Buddha",
+    "Massive statue",
+    "Buddhist temple",
+    "Religious site"
+  ],
+  "image": "/images/attractions/hat-yai/wat-hat-yai-nai.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Hat Yai Nai - Top Attraction in Hat Yai | Go2Thailand",
+      "nl": "Wat Hat Yai Nai - Top Attractie in Hat Yai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Hat Yai Nai in Hat Yai. Temple famous for massive 35-meter long reclining Buddha statue...",
+      "nl": "Ontdek Wat Hat Yai Nai in Hat Yai. Tempel beroemd om massaal 35 meter lang liggend Boeddhabeeld..."
+    }
+  },
+  "tags": [
+    "temple",
+    "hat-yai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "night-bazaar",
+  "name": {
+    "en": "Chiang Mai Night Bazaar",
+    "nl": "Chiang Mai Nachtbazaar"
+  },
+  "type": "market",
+  "city_slug": "chiang-mai",
+  "address": "Chang Khlan Road, Muang Chiang Mai",
+  "location": {
+    "lat": 18.7881,
+    "lng": 98.9917
+  },
+  "opening_hours": "18:00-24:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Bustling night market with souvenirs clothing and local street food",
+    "nl": "Bruisende nachtmarkt met souvenirs kleding en lokaal straatvoedsel"
+  },
+  "highlights": [
+    "Night shopping",
+    "Souvenirs",
+    "Street food",
+    "Local crafts"
+  ],
+  "image": "/images/attractions/chiang-mai/night-bazaar.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Chiang Mai Night Bazaar - Top Attraction in Chiang Mai | Go2Thailand",
+      "nl": "Chiang Mai Nachtbazaar - Top Attractie in Chiang Mai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Chiang Mai Night Bazaar in Chiang Mai. Bustling night market with souvenirs clothing and local street food...",
+      "nl": "Ontdek Chiang Mai Nachtbazaar in Chiang Mai. Bruisende nachtmarkt met souvenirs kleding en lokaal straatvoedsel..."
+    }
+  },
+  "tags": [
+    "market",
+    "chiang-mai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

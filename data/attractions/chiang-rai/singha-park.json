@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "slug": "singha-park",
+  "name": {
+    "en": "Singha Park",
+    "nl": "Singha Park"
+  },
+  "type": "nature",
+  "city_slug": "chiang-rai",
+  "address": "99 Moo 1, Mae Kon, Chiang Rai",
+  "location": {
+    "lat": 19.8167,
+    "lng": 99.7833
+  },
+  "opening_hours": "09:00-18:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Large agricultural park with tea plantations balloon rides and outdoor activities",
+    "nl": "Groot landbouwpark met theeplantages ballonvaarten en buitenactiviteiten"
+  },
+  "highlights": [
+    "Tea plantations",
+    "Hot air balloons",
+    "Outdoor activities",
+    "Agricultural tourism"
+  ],
+  "image": "/images/attractions/chiang-rai/singha-park.webp",
+  "official_website": "https://www.singhaparkchiangrai.com",
+  "seo": {
+    "metaTitle": {
+      "en": "Singha Park - Top Attraction in Chiang Rai | Go2Thailand",
+      "nl": "Singha Park - Top Attractie in Chiang Rai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Singha Park in Chiang Rai. Large agricultural park with tea plantations balloon rides and outdoor activities...",
+      "nl": "Ontdek Singha Park in Chiang Rai. Groot landbouwpark met theeplantages ballonvaarten en buitenactiviteiten..."
+    }
+  },
+  "tags": [
+    "nature",
+    "chiang-rai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

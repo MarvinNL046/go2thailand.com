@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "white-temple",
+  "name": {
+    "en": "White Temple (Wat Rong Khun)",
+    "nl": "Witte Tempel (Wat Rong Khun)"
+  },
+  "type": "temple",
+  "city_slug": "chiang-rai",
+  "address": "Pa O Don Chai Road, A. Muang, Chiang Rai",
+  "location": {
+    "lat": 19.8242,
+    "lng": 99.7633
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Stunning contemporary white temple with intricate mirror work and modern Buddhist art",
+    "nl": "Prachtige hedendaagse witte tempel met ingewikkeld spiegelwerk en moderne boeddhistische kunst"
+  },
+  "highlights": [
+    "Contemporary design",
+    "Mirror work",
+    "Modern Buddhist art",
+    "Unique architecture"
+  ],
+  "image": "/images/attractions/chiang-rai/white-temple.webp",
+  "official_website": "https://www.watrongkhun.org",
+  "seo": {
+    "metaTitle": {
+      "en": "White Temple (Wat Rong Khun) - Top Attraction in Chiang Rai | Go2Thailand",
+      "nl": "Witte Tempel (Wat Rong Khun) - Top Attractie in Chiang Rai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover White Temple (Wat Rong Khun) in Chiang Rai. Stunning contemporary white temple with intricate mirror work and modern Buddhist art...",
+      "nl": "Ontdek Witte Tempel (Wat Rong Khun) in Chiang Rai. Prachtige hedendaagse witte tempel met ingewikkeld spiegelwerk en moderne boeddhistische kunst..."
+    }
+  },
+  "tags": [
+    "temple",
+    "chiang-rai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

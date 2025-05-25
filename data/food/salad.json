@@ -1,0 +1,137 @@
+[
+  {
+    "id": 2,
+    "slug": "som-tam",
+    "name": {
+      "en": "Som Tam",
+      "nl": "Som Tam",
+      "thai": "ส้มตำ"
+    },
+    "category": "salad",
+    "region": "northeastern",
+    "spice_level": "medium",
+    "description": {
+      "en": "Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts",
+      "nl": "Pittige groene papajasalade met tomaten limoensap vissaus en pinda's"
+    },
+    "ingredients": [
+      "green papaya",
+      "tomatoes",
+      "lime juice",
+      "fish sauce",
+      "peanuts",
+      "chili"
+    ],
+    "allergens": [
+      "nuts"
+    ],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "image": "/images/food/som-tam.webp",
+    "preparation_time": "10 minutes",
+    "difficulty": "easy",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Som Tam Recipe | Authentic Thai salad",
+        "nl": "Som Tam Recept | Authentieke Thaise salad"
+      },
+      "metaDescription": {
+        "en": "Learn about Som Tam (ส้มตำ) - Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts...",
+        "nl": "Leer over Som Tam (ส้มตำ) - Pittige groene papajasalade met tomaten limoensap vissaus en pinda's..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "salad",
+      "northeastern",
+      "medium",
+      "easy",
+      "budget",
+      "green-papaya",
+      "tomatoes",
+      "lime-juice"
+    ],
+    "cooking": {
+      "preparation_time": "10 minutes",
+      "difficulty": "easy",
+      "spice_level": "medium",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "nuts"
+      ],
+      "dietary": [
+        "vegetarian option"
+      ],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 8,
+    "slug": "larb",
+    "name": {
+      "en": "Larb",
+      "nl": "Larb",
+      "thai": "ลาบ"
+    },
+    "category": "salad",
+    "region": "northeastern",
+    "spice_level": "hot",
+    "description": {
+      "en": "Spicy meat salad with herbs lime juice and toasted rice powder",
+      "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder"
+    },
+    "ingredients": [
+      "minced pork",
+      "mint",
+      "cilantro",
+      "lime juice",
+      "fish sauce",
+      "chili",
+      "toasted rice"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/larb.webp",
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Larb Recipe | Authentic Thai salad",
+        "nl": "Larb Recept | Authentieke Thaise salad"
+      },
+      "metaDescription": {
+        "en": "Learn about Larb (ลาบ) - Spicy meat salad with herbs lime juice and toasted rice powder...",
+        "nl": "Leer over Larb (ลาบ) - Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "salad",
+      "northeastern",
+      "hot",
+      "easy",
+      "budget",
+      "minced-pork",
+      "mint",
+      "cilantro"
+    ],
+    "cooking": {
+      "preparation_time": "15 minutes",
+      "difficulty": "easy",
+      "spice_level": "hot",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  }
+]

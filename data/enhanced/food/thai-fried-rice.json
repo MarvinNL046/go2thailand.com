@@ -1,0 +1,181 @@
+{
+  "id": 10,
+  "slug": "thai-fried-rice",
+  "name": {
+    "en": "Thai Fried Rice",
+    "nl": "Thaise Gebakken Rijst",
+    "thai": "ข้าวผัด"
+  },
+  "category": "main-dish",
+  "region": "central",
+  "spice_level": "mild",
+  "description": {
+    "en": "Fragrant fried rice with jasmine rice fish sauce and fresh vegetables",
+    "nl": "Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten"
+  },
+  "ingredients": [
+    "jasmine rice",
+    "fish sauce",
+    "garlic",
+    "onion",
+    "tomato",
+    "cucumber",
+    "lime"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian option"
+  ],
+  "image": "/images/food/thai-fried-rice.webp",
+  "preparation_time": "12 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Thai Fried Rice Recipe | Authentic Thai main dish",
+      "nl": "Thaise Gebakken Rijst Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Thai Fried Rice (ข้าวผัด) - Fragrant fried rice with jasmine rice fish sauce and fresh vegetables...",
+      "nl": "Leer over Thaise Gebakken Rijst (ข้าวผัด) - Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "central",
+    "mild",
+    "easy",
+    "budget",
+    "jasmine-rice",
+    "fish-sauce",
+    "garlic"
+  ],
+  "cooking": {
+    "preparation_time": "12 minutes",
+    "difficulty": "easy",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Fragrant fried rice with jasmine rice fish sauce and fresh vegetables",
+  "detailed_ingredients": [
+    {
+      "name": "jasmine rice",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "fish sauce",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "garlic",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "onion",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "tomato",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "cucumber",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "lime",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying",
+    "steps_overview": "Traditional Thai cooking method for Thai Fried Rice",
+    "cooking_tips": [
+      "Use high heat for stir-frying",
+      "Balance sweet, sour, salty, and spicy flavors"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Thai Fried Rice is a traditional Thai dish from the central region",
+    "cultural_importance": "Popular dish in Thai cuisine",
+    "traditional_occasions": [
+      "Daily meals",
+      "Family gatherings"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Regional Thai Fried Rice",
+      "description": "Traditional central style preparation"
+    },
+    {
+      "name": "Modern Thai Fried Rice",
+      "description": "Contemporary interpretation with modern techniques"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables"
+    ],
+    "presentation": "Served hot in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "Varies by preparation",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Balanced flavors"
+    ],
+    "dietary_notes": [
+      "vegetarian option"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local Thai restaurants",
+      "Traditional eateries"
+    ],
+    "street_food_areas": [
+      "Thai street food markets",
+      "Food courts"
+    ],
+    "price_ranges": {
+      "street_food": "$2-5",
+      "restaurant": "$8-15",
+      "upscale": "$15-25"
+    }
+  },
+  "enhanced_at": "2025-05-25T21:53:24.213Z",
+  "ai_generated": true
+}

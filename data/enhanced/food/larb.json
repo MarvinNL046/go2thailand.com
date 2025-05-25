@@ -1,0 +1,177 @@
+{
+  "id": 8,
+  "slug": "larb",
+  "name": {
+    "en": "Larb",
+    "nl": "Larb",
+    "thai": "ลาบ"
+  },
+  "category": "salad",
+  "region": "northeastern",
+  "spice_level": "hot",
+  "description": {
+    "en": "Spicy meat salad with herbs lime juice and toasted rice powder",
+    "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder"
+  },
+  "ingredients": [
+    "minced pork",
+    "mint",
+    "cilantro",
+    "lime juice",
+    "fish sauce",
+    "chili",
+    "toasted rice"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/larb.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Larb Recipe | Authentic Thai salad",
+      "nl": "Larb Recept | Authentieke Thaise salad"
+    },
+    "metaDescription": {
+      "en": "Learn about Larb (ลาบ) - Spicy meat salad with herbs lime juice and toasted rice powder...",
+      "nl": "Leer over Larb (ลาบ) - Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "salad",
+    "northeastern",
+    "hot",
+    "easy",
+    "budget",
+    "minced-pork",
+    "mint",
+    "cilantro"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Spicy meat salad with herbs lime juice and toasted rice powder",
+  "detailed_ingredients": [
+    {
+      "name": "minced pork",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "mint",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "cilantro",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "lime juice",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "fish sauce",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "chili",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "toasted rice",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying",
+    "steps_overview": "Traditional Thai cooking method for Larb",
+    "cooking_tips": [
+      "Use high heat for stir-frying",
+      "Balance sweet, sour, salty, and spicy flavors"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Larb is a traditional Thai dish from the northeastern region",
+    "cultural_importance": "Popular dish in Thai cuisine",
+    "traditional_occasions": [
+      "Daily meals",
+      "Family gatherings"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Regional Larb",
+      "description": "Traditional northeastern style preparation"
+    },
+    {
+      "name": "Modern Larb",
+      "description": "Contemporary interpretation with modern techniques"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables"
+    ],
+    "presentation": "Served hot in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "Varies by preparation",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Balanced flavors"
+    ],
+    "dietary_notes": [
+      "Contains traditional Thai ingredients"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local Thai restaurants",
+      "Traditional eateries"
+    ],
+    "street_food_areas": [
+      "Thai street food markets",
+      "Food courts"
+    ],
+    "price_ranges": {
+      "street_food": "$2-5",
+      "restaurant": "$8-15",
+      "upscale": "$15-25"
+    }
+  },
+  "enhanced_at": "2025-05-25T21:52:46.386Z",
+  "ai_generated": true
+}

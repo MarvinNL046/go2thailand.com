@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "wat-sa-si",
+  "name": {
+    "en": "Wat Sa Si",
+    "nl": "Wat Sa Si"
+  },
+  "type": "temple",
+  "city_slug": "sukhothai",
+  "address": "Sukhothai Historical Park Central Zone",
+  "location": {
+    "lat": 17.0078,
+    "lng": 99.8237
+  },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Picturesque temple on small island surrounded by lotus pond",
+    "nl": "Pittoreske tempel op klein eiland omringd door lotusvijver"
+  },
+  "highlights": [
+    "Island temple",
+    "Lotus pond",
+    "Picturesque setting",
+    "Peaceful atmosphere"
+  ],
+  "image": "/images/attractions/sukhothai/wat-sa-si.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Sa Si - Top Attraction in Sukhothai | Go2Thailand",
+      "nl": "Wat Sa Si - Top Attractie in Sukhothai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Sa Si in Sukhothai. Picturesque temple on small island surrounded by lotus pond...",
+      "nl": "Ontdek Wat Sa Si in Sukhothai. Pittoreske tempel op klein eiland omringd door lotusvijver..."
+    }
+  },
+  "tags": [
+    "temple",
+    "sukhothai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

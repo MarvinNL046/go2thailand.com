@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "surat-thani-night-market",
+  "name": {
+    "en": "Surat Thani Night Market",
+    "nl": "Surat Thani Nachtmarkt"
+  },
+  "type": "market",
+  "city_slug": "surat-thani",
+  "address": "Talat Kaset Road, Surat Thani",
+  "location": {
+    "lat": 9.14,
+    "lng": 99.3331
+  },
+  "opening_hours": "17:00-23:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Local night market with southern Thai cuisine fresh seafood and local products",
+    "nl": "Lokale nachtmarkt met Zuid-Thaise keuken verse zeevruchten en lokale producten"
+  },
+  "highlights": [
+    "Southern Thai cuisine",
+    "Fresh seafood",
+    "Local products",
+    "Night market"
+  ],
+  "image": "/images/attractions/surat-thani/night-market.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Surat Thani Night Market - Top Attraction in Surat Thani | Go2Thailand",
+      "nl": "Surat Thani Nachtmarkt - Top Attractie in Surat Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Surat Thani Night Market in Surat Thani. Local night market with southern Thai cuisine fresh seafood and local products...",
+      "nl": "Ontdek Surat Thani Nachtmarkt in Surat Thani. Lokale nachtmarkt met Zuid-Thaise keuken verse zeevruchten en lokale producten..."
+    }
+  },
+  "tags": [
+    "market",
+    "surat-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

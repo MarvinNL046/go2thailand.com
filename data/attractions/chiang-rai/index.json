@@ -1,0 +1,237 @@
+{
+  "city_slug": "chiang-rai",
+  "city_name": "Chiang Rai",
+  "total_attractions": 10,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "white-temple",
+      "name": {
+        "en": "White Temple (Wat Rong Khun)",
+        "nl": "Witte Tempel (Wat Rong Khun)"
+      },
+      "type": "temple",
+      "image": "/images/attractions/chiang-rai/white-temple.webp",
+      "description": {
+        "en": "Stunning contemporary white temple with intricate mirror work and modern Buddhist art",
+        "nl": "Prachtige hedendaagse witte tempel met ingewikkeld spiegelwerk en moderne boeddhistische kunst"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Contemporary design",
+        "Mirror work",
+        "Modern Buddhist art"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "blue-temple",
+      "name": {
+        "en": "Blue Temple (Wat Rong Suea Ten)",
+        "nl": "Blauwe Tempel (Wat Rong Suea Ten)"
+      },
+      "type": "temple",
+      "image": "/images/attractions/chiang-rai/blue-temple.webp",
+      "description": {
+        "en": "Magnificent blue temple with golden Buddha statue and intricate blue and gold decorations",
+        "nl": "Prachtige blauwe tempel met gouden Boeddhabeeld en ingewikkelde blauwe en gouden decoraties"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Blue and gold design",
+        "Golden Buddha",
+        "Intricate decorations"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "golden-triangle",
+      "name": {
+        "en": "Golden Triangle",
+        "nl": "Gouden Driehoek"
+      },
+      "type": "historic",
+      "image": "/images/attractions/chiang-rai/golden-triangle.webp",
+      "description": {
+        "en": "Historic confluence of Thailand Laos and Myanmar rivers with opium museum",
+        "nl": "Historische samenvloeiing van Thailand Laos en Myanmar rivieren met opium museum"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Three countries meeting",
+        "Mekong River",
+        "Opium history"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "chiang-rai-night-bazaar",
+      "name": {
+        "en": "Chiang Rai Night Bazaar",
+        "nl": "Chiang Rai Nachtbazaar"
+      },
+      "type": "market",
+      "image": "/images/attractions/chiang-rai/night-bazaar.webp",
+      "description": {
+        "en": "Local night market with handicrafts street food and cultural performances",
+        "nl": "Lokale nachtmarkt met handwerk straatvoedsel en culturele optredens"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Local handicrafts",
+        "Street food",
+        "Cultural performances"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "wat-phra-kaew",
+      "name": {
+        "en": "Wat Phra Kaew Chiang Rai",
+        "nl": "Wat Phra Kaew Chiang Rai"
+      },
+      "type": "temple",
+      "image": "/images/attractions/chiang-rai/wat-phra-kaew.webp",
+      "description": {
+        "en": "Historic temple where the famous Emerald Buddha was discovered",
+        "nl": "Historische tempel waar de beroemde Smaragd Boeddha werd ontdekt"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Emerald Buddha history",
+        "Lanna architecture",
+        "Historic temple"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "mae-fah-luang-garden",
+      "name": {
+        "en": "Mae Fah Luang Art and Culture Park",
+        "nl": "Mae Fah Luang Kunst en Cultuur Park"
+      },
+      "type": "garden",
+      "image": "/images/attractions/chiang-rai/mae-fah-luang.webp",
+      "description": {
+        "en": "Beautiful botanical garden with Lanna architecture and cultural exhibitions",
+        "nl": "Prachtige botanische tuin met Lanna architectuur en culturele tentoonstellingen"
+      },
+      "entrance_fee": {
+        "thb": 90,
+        "usd": 3
+      },
+      "highlights": [
+        "Botanical gardens",
+        "Lanna architecture",
+        "Cultural exhibitions"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "doi-tung-royal-villa",
+      "name": {
+        "en": "Doi Tung Royal Villa",
+        "nl": "Doi Tung Koninklijke Villa"
+      },
+      "type": "palace",
+      "image": "/images/attractions/chiang-rai/doi-tung.webp",
+      "description": {
+        "en": "Former residence of Princess Mother with beautiful gardens and mountain views",
+        "nl": "Voormalige residentie van Prinses Moeder met prachtige tuinen en bergzicht"
+      },
+      "entrance_fee": {
+        "thb": 90,
+        "usd": 3
+      },
+      "highlights": [
+        "Royal residence",
+        "Mountain views",
+        "Beautiful gardens"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "singha-park",
+      "name": {
+        "en": "Singha Park",
+        "nl": "Singha Park"
+      },
+      "type": "nature",
+      "image": "/images/attractions/chiang-rai/singha-park.webp",
+      "description": {
+        "en": "Large agricultural park with tea plantations balloon rides and outdoor activities",
+        "nl": "Groot landbouwpark met theeplantages ballonvaarten en buitenactiviteiten"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Tea plantations",
+        "Hot air balloons",
+        "Outdoor activities"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "black-house",
+      "name": {
+        "en": "Black House (Baan Dam Museum)",
+        "nl": "Zwart Huis (Baan Dam Museum)"
+      },
+      "type": "museum",
+      "image": "/images/attractions/chiang-rai/black-house.webp",
+      "description": {
+        "en": "Unique dark art museum showcasing unconventional art and architecture",
+        "nl": "Uniek donker kunst museum met onconventionele kunst en architectuur"
+      },
+      "entrance_fee": {
+        "thb": 80,
+        "usd": 2
+      },
+      "highlights": [
+        "Dark art museum",
+        "Unconventional architecture",
+        "Artistic collection"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "hill-tribe-villages",
+      "name": {
+        "en": "Hill Tribe Villages",
+        "nl": "Bergstam Dorpen"
+      },
+      "type": "cultural",
+      "image": "/images/attractions/chiang-rai/hill-tribes.webp",
+      "description": {
+        "en": "Cultural tours to authentic hill tribe villages experiencing traditional lifestyles",
+        "nl": "Culturele tours naar authentieke bergstam dorpen met traditionele levensstijlen"
+      },
+      "entrance_fee": {
+        "thb": 500,
+        "usd": 15
+      },
+      "highlights": [
+        "Hill tribe culture",
+        "Traditional lifestyles",
+        "Cultural immersion"
+      ]
+    }
+  ]
+}

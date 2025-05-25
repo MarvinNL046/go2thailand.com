@@ -1,0 +1,64 @@
+{
+  "id": 8,
+  "slug": "larb",
+  "name": {
+    "en": "Larb",
+    "nl": "Larb",
+    "thai": "ลาบ"
+  },
+  "category": "salad",
+  "region": "northeastern",
+  "spice_level": "hot",
+  "description": {
+    "en": "Spicy meat salad with herbs lime juice and toasted rice powder",
+    "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder"
+  },
+  "ingredients": [
+    "minced pork",
+    "mint",
+    "cilantro",
+    "lime juice",
+    "fish sauce",
+    "chili",
+    "toasted rice"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/larb.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Larb Recipe | Authentic Thai salad",
+      "nl": "Larb Recept | Authentieke Thaise salad"
+    },
+    "metaDescription": {
+      "en": "Learn about Larb (ลาบ) - Spicy meat salad with herbs lime juice and toasted rice powder...",
+      "nl": "Leer over Larb (ลาบ) - Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "salad",
+    "northeastern",
+    "hot",
+    "easy",
+    "budget",
+    "minced-pork",
+    "mint",
+    "cilantro"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

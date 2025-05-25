@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "wat-phra-singh",
+  "name": {
+    "en": "Wat Phra Singh",
+    "nl": "Wat Phra Singh"
+  },
+  "type": "temple",
+  "city_slug": "chiang-mai",
+  "address": "2 Samlarn Road, Phra Singh, Muang Chiang Mai",
+  "location": {
+    "lat": 18.7886,
+    "lng": 98.9814
+  },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": {
+    "thb": 20,
+    "usd": 1
+  },
+  "description": {
+    "en": "Most revered temple in Chiang Mai housing the sacred Phra Singh Buddha",
+    "nl": "Meest geëerde tempel in Chiang Mai met de heilige Phra Singh Boeddha"
+  },
+  "highlights": [
+    "Sacred Buddha image",
+    "Lanna architecture",
+    "Ancient murals",
+    "Religious ceremonies"
+  ],
+  "image": "/images/attractions/chiang-mai/wat-phra-singh.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Phra Singh - Top Attraction in Chiang Mai | Go2Thailand",
+      "nl": "Wat Phra Singh - Top Attractie in Chiang Mai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Phra Singh in Chiang Mai. Most revered temple in Chiang Mai housing the sacred Phra Singh Buddha...",
+      "nl": "Ontdek Wat Phra Singh in Chiang Mai. Meest geëerde tempel in Chiang Mai met de heilige Phra Singh Boeddha..."
+    }
+  },
+  "tags": [
+    "temple",
+    "chiang-mai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

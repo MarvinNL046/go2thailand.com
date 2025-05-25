@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "wat-si-chum",
+  "name": {
+    "en": "Wat Si Chum",
+    "nl": "Wat Si Chum"
+  },
+  "type": "temple",
+  "city_slug": "sukhothai",
+  "address": "Sukhothai Historical Park West Zone",
+  "location": {
+    "lat": 17.0167,
+    "lng": 99.8167
+  },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Famous temple housing massive seated Buddha statue visible through narrow opening",
+    "nl": "Beroemde tempel met massaal zittend Boeddhabeeld zichtbaar door smalle opening"
+  },
+  "highlights": [
+    "Massive seated Buddha",
+    "Narrow opening",
+    "Iconic temple",
+    "Ancient architecture"
+  ],
+  "image": "/images/attractions/sukhothai/wat-si-chum.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Si Chum - Top Attraction in Sukhothai | Go2Thailand",
+      "nl": "Wat Si Chum - Top Attractie in Sukhothai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Si Chum in Sukhothai. Famous temple housing massive seated Buddha statue visible through narrow opening...",
+      "nl": "Ontdek Wat Si Chum in Sukhothai. Beroemde tempel met massaal zittend Boeddhabeeld zichtbaar door smalle opening..."
+    }
+  },
+  "tags": [
+    "temple",
+    "sukhothai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

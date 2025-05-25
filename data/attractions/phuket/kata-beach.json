@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "kata-beach",
+  "name": {
+    "en": "Kata Beach",
+    "nl": "Kata Beach"
+  },
+  "type": "beach",
+  "city_slug": "phuket",
+  "address": "Kata, Muang Phuket District",
+  "location": {
+    "lat": 7.8167,
+    "lng": 98.2833
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Beautiful curved beach perfect for swimming surfing and family activities",
+    "nl": "Prachtig gebogen strand perfect voor zwemmen surfen en familie activiteiten"
+  },
+  "highlights": [
+    "Family-friendly",
+    "Surfing",
+    "Clear waters",
+    "Beachfront dining"
+  ],
+  "image": "/images/attractions/phuket/kata-beach.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Kata Beach - Top Attraction in Phuket | Go2Thailand",
+      "nl": "Kata Beach - Top Attractie in Phuket | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Kata Beach in Phuket. Beautiful curved beach perfect for swimming surfing and family activities...",
+      "nl": "Ontdek Kata Beach in Phuket. Prachtig gebogen strand perfect voor zwemmen surfen en familie activiteiten..."
+    }
+  },
+  "tags": [
+    "beach",
+    "phuket",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

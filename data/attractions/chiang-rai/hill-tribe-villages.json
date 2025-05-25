@@ -1,0 +1,50 @@
+{
+  "id": 10,
+  "slug": "hill-tribe-villages",
+  "name": {
+    "en": "Hill Tribe Villages",
+    "nl": "Bergstam Dorpen"
+  },
+  "type": "cultural",
+  "city_slug": "chiang-rai",
+  "address": "Various locations around Chiang Rai",
+  "location": {
+    "lat": 19.9105,
+    "lng": 99.8406
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 500,
+    "usd": 15
+  },
+  "description": {
+    "en": "Cultural tours to authentic hill tribe villages experiencing traditional lifestyles",
+    "nl": "Culturele tours naar authentieke bergstam dorpen met traditionele levensstijlen"
+  },
+  "highlights": [
+    "Hill tribe culture",
+    "Traditional lifestyles",
+    "Cultural immersion",
+    "Authentic villages"
+  ],
+  "image": "/images/attractions/chiang-rai/hill-tribes.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Hill Tribe Villages - Top Attraction in Chiang Rai | Go2Thailand",
+      "nl": "Bergstam Dorpen - Top Attractie in Chiang Rai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Hill Tribe Villages in Chiang Rai. Cultural tours to authentic hill tribe villages experiencing traditional lifestyles...",
+      "nl": "Ontdek Bergstam Dorpen in Chiang Rai. Culturele tours naar authentieke bergstam dorpen met traditionele levensstijlen..."
+    }
+  },
+  "tags": [
+    "cultural",
+    "chiang-rai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

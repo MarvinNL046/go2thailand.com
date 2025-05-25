@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "slug": "krabi-town-night-market",
+  "name": {
+    "en": "Krabi Town Night Market",
+    "nl": "Krabi Stad Nachtmarkt"
+  },
+  "type": "market",
+  "city_slug": "krabi",
+  "address": "Maharaj Road, Krabi Town",
+  "location": {
+    "lat": 8.0863,
+    "lng": 98.9063
+  },
+  "opening_hours": "17:00-22:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Local night market with authentic Thai street food and local atmosphere",
+    "nl": "Lokale nachtmarkt met authentiek Thais straatvoedsel en lokale sfeer"
+  },
+  "highlights": [
+    "Street food",
+    "Local atmosphere",
+    "Night market",
+    "Authentic cuisine"
+  ],
+  "image": "/images/attractions/krabi/night-market.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Krabi Town Night Market - Top Attraction in Krabi | Go2Thailand",
+      "nl": "Krabi Stad Nachtmarkt - Top Attractie in Krabi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Krabi Town Night Market in Krabi. Local night market with authentic Thai street food and local atmosphere...",
+      "nl": "Ontdek Krabi Stad Nachtmarkt in Krabi. Lokale nachtmarkt met authentiek Thais straatvoedsel en lokale sfeer..."
+    }
+  },
+  "tags": [
+    "market",
+    "krabi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

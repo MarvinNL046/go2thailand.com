@@ -1,0 +1,239 @@
+{
+  "city_slug": "krabi",
+  "city_name": "Krabi",
+  "total_attractions": 10,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "railay-beach",
+      "name": {
+        "en": "Railay Beach",
+        "nl": "Railay Beach"
+      },
+      "type": "beach",
+      "image": "/images/attractions/krabi/railay-beach.webp",
+      "description": {
+        "en": "Stunning peninsula beach accessible only by boat with limestone cliffs and rock climbing",
+        "nl": "Prachtig schiereiland strand alleen bereikbaar per boot met kalkstenen kliffen en rotsklimmen"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Limestone cliffs",
+        "Rock climbing",
+        "Boat access only"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "ao-nang-beach",
+      "name": {
+        "en": "Ao Nang Beach",
+        "nl": "Ao Nang Beach"
+      },
+      "type": "beach",
+      "image": "/images/attractions/krabi/ao-nang.webp",
+      "description": {
+        "en": "Popular beach town with restaurants shops and gateway to island hopping tours",
+        "nl": "Populaire badplaats met restaurants winkels en toegangspoort tot eilandhopping tours"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Beach town",
+        "Island hopping",
+        "Restaurants"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "emerald-pool",
+      "name": {
+        "en": "Emerald Pool (Sa Morakot)",
+        "nl": "Smaragd Zwembad (Sa Morakot)"
+      },
+      "type": "nature",
+      "image": "/images/attractions/krabi/emerald-pool.webp",
+      "description": {
+        "en": "Natural hot spring pool with crystal clear emerald-colored water in rainforest",
+        "nl": "Natuurlijke warmwaterbron met kristalhelder smaragdkleurig water in regenwoud"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Natural hot springs",
+        "Emerald water",
+        "Rainforest setting"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "tiger-cave-temple",
+      "name": {
+        "en": "Tiger Cave Temple (Wat Tham Suea)",
+        "nl": "Tijger Grot Tempel (Wat Tham Suea)"
+      },
+      "type": "temple",
+      "image": "/images/attractions/krabi/tiger-cave.webp",
+      "description": {
+        "en": "Buddhist temple complex with challenging climb to summit offering panoramic views",
+        "nl": "Boeddhistische tempelcomplex met uitdagende klim naar top met panoramisch uitzicht"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "1237 steps climb",
+        "Panoramic views",
+        "Buddhist temple"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "four-islands-tour",
+      "name": {
+        "en": "Four Islands Tour",
+        "nl": "Vier Eilanden Tour"
+      },
+      "type": "island",
+      "image": "/images/attractions/krabi/four-islands.webp",
+      "description": {
+        "en": "Popular boat tour visiting Phra Nang Cave Chicken Island Tup Island and Poda Island",
+        "nl": "Populaire boottour naar Phra Nang Grot Kip Eiland Tup Eiland en Poda Eiland"
+      },
+      "entrance_fee": {
+        "thb": 1200,
+        "usd": 35
+      },
+      "highlights": [
+        "Island hopping",
+        "Snorkeling",
+        "Cave exploration"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "hot-springs-waterfall",
+      "name": {
+        "en": "Hot Springs Waterfall",
+        "nl": "Warmwaterbron Waterval"
+      },
+      "type": "nature",
+      "image": "/images/attractions/krabi/hot-springs.webp",
+      "description": {
+        "en": "Natural hot springs cascading down limestone rocks creating warm pools",
+        "nl": "Natuurlijke warmwaterbronnen die over kalkstenen rotsen stromen en warme poelen vormen"
+      },
+      "entrance_fee": {
+        "thb": 90,
+        "usd": 3
+      },
+      "highlights": [
+        "Natural hot springs",
+        "Limestone cascades",
+        "Warm pools"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "phi-phi-islands-krabi",
+      "name": {
+        "en": "Phi Phi Islands from Krabi",
+        "nl": "Phi Phi Eilanden vanuit Krabi"
+      },
+      "type": "island",
+      "image": "/images/attractions/krabi/phi-phi-krabi.webp",
+      "description": {
+        "en": "Day trip to famous Phi Phi Islands with Maya Bay snorkeling and stunning scenery",
+        "nl": "Dagtocht naar beroemde Phi Phi Eilanden met Maya Bay snorkelen en prachtige landschappen"
+      },
+      "entrance_fee": {
+        "thb": 400,
+        "usd": 12
+      },
+      "highlights": [
+        "Maya Bay",
+        "Snorkeling",
+        "Day trips"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "krabi-town-night-market",
+      "name": {
+        "en": "Krabi Town Night Market",
+        "nl": "Krabi Stad Nachtmarkt"
+      },
+      "type": "market",
+      "image": "/images/attractions/krabi/night-market.webp",
+      "description": {
+        "en": "Local night market with authentic Thai street food and local atmosphere",
+        "nl": "Lokale nachtmarkt met authentiek Thais straatvoedsel en lokale sfeer"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Street food",
+        "Local atmosphere",
+        "Night market"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "klong-thom-hot-springs",
+      "name": {
+        "en": "Klong Thom Hot Springs",
+        "nl": "Klong Thom Warmwaterbronnen"
+      },
+      "type": "nature",
+      "image": "/images/attractions/krabi/klong-thom.webp",
+      "description": {
+        "en": "Natural geothermal springs in tropical forest setting perfect for relaxation",
+        "nl": "Natuurlijke geothermische bronnen in tropisch bos perfect voor ontspanning"
+      },
+      "entrance_fee": {
+        "thb": 90,
+        "usd": 3
+      },
+      "highlights": [
+        "Geothermal springs",
+        "Tropical forest",
+        "Natural pools"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "thung-teao-forest-park",
+      "name": {
+        "en": "Thung Teao Forest Natural Park",
+        "nl": "Thung Teao Bos Natuurpark"
+      },
+      "type": "nature",
+      "image": "/images/attractions/krabi/thung-teao.webp",
+      "description": {
+        "en": "Protected rainforest with nature trails hot springs and diverse wildlife",
+        "nl": "Beschermd regenwoud met natuurpaden warmwaterbronnen en diverse wilde dieren"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Rainforest trails",
+        "Wildlife watching",
+        "Hot springs"
+      ]
+    }
+  ],
+  "enhanced_at": "2025-05-25T22:41:53.415Z",
+  "enhanced_count": 10
+}

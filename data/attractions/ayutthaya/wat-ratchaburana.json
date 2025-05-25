@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "slug": "wat-ratchaburana",
+  "name": {
+    "en": "Wat Ratchaburana",
+    "nl": "Wat Ratchaburana"
+  },
+  "type": "temple",
+  "city_slug": "ayutthaya",
+  "address": "Chikun Road, Phra Nakhon Si Ayutthaya",
+  "location": {
+    "lat": 14.3569,
+    "lng": 100.5681
+  },
+  "opening_hours": "08:00-18:00",
+  "entrance_fee": {
+    "thb": 50,
+    "usd": 1
+  },
+  "description": {
+    "en": "Ancient temple with well-preserved prang and underground crypt with murals",
+    "nl": "Oude tempel met goed bewaarde prang en ondergrondse crypte met muurschilderingen"
+  },
+  "highlights": [
+    "Well-preserved prang",
+    "Underground crypt",
+    "Ancient murals",
+    "Historical temple"
+  ],
+  "image": "/images/attractions/ayutthaya/wat-ratchaburana.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Ratchaburana - Top Attraction in Ayutthaya | Go2Thailand",
+      "nl": "Wat Ratchaburana - Top Attractie in Ayutthaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Ratchaburana in Ayutthaya. Ancient temple with well-preserved prang and underground crypt with murals...",
+      "nl": "Ontdek Wat Ratchaburana in Ayutthaya. Oude tempel met goed bewaarde prang en ondergrondse crypte met muurschilderingen..."
+    }
+  },
+  "tags": [
+    "temple",
+    "ayutthaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 10,
+  "slug": "ban-don-bay",
+  "name": {
+    "en": "Ban Don Bay",
+    "nl": "Ban Don Baai"
+  },
+  "type": "nature",
+  "city_slug": "surat-thani",
+  "address": "Ban Don District, Surat Thani Province",
+  "location": {
+    "lat": 9.2833,
+    "lng": 99.1167
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Scenic coastal bay with mangrove forests fishing villages and bird watching",
+    "nl": "Schilderachtige kustbaai met mangrovebossen vissersdorpen en vogels kijken"
+  },
+  "highlights": [
+    "Coastal bay",
+    "Mangrove forests",
+    "Fishing villages",
+    "Bird watching"
+  ],
+  "image": "/images/attractions/surat-thani/ban-don-bay.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Ban Don Bay - Top Attraction in Surat Thani | Go2Thailand",
+      "nl": "Ban Don Baai - Top Attractie in Surat Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Ban Don Bay in Surat Thani. Scenic coastal bay with mangrove forests fishing villages and bird watching...",
+      "nl": "Ontdek Ban Don Baai in Surat Thani. Schilderachtige kustbaai met mangrovebossen vissersdorpen en vogels kijken..."
+    }
+  },
+  "tags": [
+    "nature",
+    "surat-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

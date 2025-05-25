@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "songkhla-old-town",
+  "name": {
+    "en": "Songkhla Old Town",
+    "nl": "Songkhla Oude Stad"
+  },
+  "type": "historic",
+  "city_slug": "hat-yai",
+  "address": "Songkhla Old Town, Songkhla Province",
+  "location": {
+    "lat": 7.2,
+    "lng": 100.6
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Historic town with Sino-Portuguese architecture museums and cultural sites",
+    "nl": "Historische stad met Sino-Portugese architectuur musea en culturele locaties"
+  },
+  "highlights": [
+    "Sino-Portuguese architecture",
+    "Historic buildings",
+    "Museums",
+    "Cultural heritage"
+  ],
+  "image": "/images/attractions/hat-yai/songkhla-old-town.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Songkhla Old Town - Top Attraction in Hat Yai | Go2Thailand",
+      "nl": "Songkhla Oude Stad - Top Attractie in Hat Yai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Songkhla Old Town in Hat Yai. Historic town with Sino-Portuguese architecture museums and cultural sites...",
+      "nl": "Ontdek Songkhla Oude Stad in Hat Yai. Historische stad met Sino-Portugese architectuur musea en culturele locaties..."
+    }
+  },
+  "tags": [
+    "historic",
+    "hat-yai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

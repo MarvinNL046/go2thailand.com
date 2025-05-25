@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "old-city-chiang-mai",
+  "name": {
+    "en": "Chiang Mai Old City",
+    "nl": "Chiang Mai Oude Stad"
+  },
+  "type": "historic",
+  "city_slug": "chiang-mai",
+  "address": "Old City, Muang Chiang Mai District",
+  "location": {
+    "lat": 18.7883,
+    "lng": 98.9853
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Historic walled city center with ancient temples moats and traditional architecture",
+    "nl": "Historisch ommuurde stadscentrum met oude tempels grachten en traditionele architectuur"
+  },
+  "highlights": [
+    "Ancient walls",
+    "Historic temples",
+    "Traditional markets",
+    "Cultural heritage"
+  ],
+  "image": "/images/attractions/chiang-mai/old-city.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Chiang Mai Old City - Top Attraction in Chiang Mai | Go2Thailand",
+      "nl": "Chiang Mai Oude Stad - Top Attractie in Chiang Mai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Chiang Mai Old City in Chiang Mai. Historic walled city center with ancient temples moats and traditional architecture...",
+      "nl": "Ontdek Chiang Mai Oude Stad in Chiang Mai. Historisch ommuurde stadscentrum met oude tempels grachten en traditionele architectuur..."
+    }
+  },
+  "tags": [
+    "historic",
+    "chiang-mai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

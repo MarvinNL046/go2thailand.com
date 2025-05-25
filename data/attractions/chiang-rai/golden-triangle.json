@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "golden-triangle",
+  "name": {
+    "en": "Golden Triangle",
+    "nl": "Gouden Driehoek"
+  },
+  "type": "historic",
+  "city_slug": "chiang-rai",
+  "address": "Golden Triangle, Chiang Saen District",
+  "location": {
+    "lat": 20.3533,
+    "lng": 100.0833
+  },
+  "opening_hours": "08:00-18:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Historic confluence of Thailand Laos and Myanmar rivers with opium museum",
+    "nl": "Historische samenvloeiing van Thailand Laos en Myanmar rivieren met opium museum"
+  },
+  "highlights": [
+    "Three countries meeting",
+    "Mekong River",
+    "Opium history",
+    "Border region"
+  ],
+  "image": "/images/attractions/chiang-rai/golden-triangle.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Golden Triangle - Top Attraction in Chiang Rai | Go2Thailand",
+      "nl": "Gouden Driehoek - Top Attractie in Chiang Rai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Golden Triangle in Chiang Rai. Historic confluence of Thailand Laos and Myanmar rivers with opium museum...",
+      "nl": "Ontdek Gouden Driehoek in Chiang Rai. Historische samenvloeiing van Thailand Laos en Myanmar rivieren met opium museum..."
+    }
+  },
+  "tags": [
+    "historic",
+    "chiang-rai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

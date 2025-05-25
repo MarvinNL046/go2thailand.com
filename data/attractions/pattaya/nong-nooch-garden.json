@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "nong-nooch-garden",
+  "name": {
+    "en": "Nong Nooch Tropical Garden",
+    "nl": "Nong Nooch Tropische Tuin"
+  },
+  "type": "garden",
+  "city_slug": "pattaya",
+  "address": "34/1 Moo 7, Na Jomtien, Sattahip District",
+  "location": {
+    "lat": 12.7667,
+    "lng": 100.9333
+  },
+  "opening_hours": "08:00-18:00",
+  "entrance_fee": {
+    "thb": 500,
+    "usd": 15
+  },
+  "description": {
+    "en": "Spectacular botanical garden with cultural shows elephant performances and themed gardens",
+    "nl": "Spectaculaire botanische tuin met culturele shows olifantenoptredens en thematuinen"
+  },
+  "highlights": [
+    "Botanical gardens",
+    "Cultural shows",
+    "Elephant performances",
+    "Themed landscapes"
+  ],
+  "image": "/images/attractions/pattaya/nong-nooch.webp",
+  "official_website": "https://www.nongnoochtropicalgarden.com",
+  "seo": {
+    "metaTitle": {
+      "en": "Nong Nooch Tropical Garden - Top Attraction in Pattaya | Go2Thailand",
+      "nl": "Nong Nooch Tropische Tuin - Top Attractie in Pattaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Nong Nooch Tropical Garden in Pattaya. Spectacular botanical garden with cultural shows elephant performances and themed gardens...",
+      "nl": "Ontdek Nong Nooch Tropische Tuin in Pattaya. Spectaculaire botanische tuin met culturele shows olifantenoptredens en thematuinen..."
+    }
+  },
+  "tags": [
+    "garden",
+    "pattaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "total_cities": 10,
+  "total_attractions": 100,
+  "cities": [
+    {
+      "city_slug": "bangkok",
+      "city_name": "Bangkok",
+      "attraction_count": 10,
+      "output_dir": "C:\\Users\\M_Smi\\OneDrive\\Documenten\\go2\\go2thailand.com\\data\\attractions\\bangkok"
+    },
+    {
+      "city_slug": "chiang-mai",
+      "city_name": "Chiang Mai",
+      "attraction_count": 10,
+      "output_dir": "C:\\Users\\M_Smi\\OneDrive\\Documenten\\go2\\go2thailand.com\\data\\attractions\\chiang-mai"
+    },
+    {
+      "city_slug": "phuket",
+      "city_name": "Phuket",
+      "attraction_count": 10,
+      "output_dir": "C:\\Users\\M_Smi\\OneDrive\\Documenten\\go2\\go2thailand.com\\data\\attractions\\phuket"
+    },
+    {
+      "city_slug": "pattaya",
+      "city_name": "Pattaya",
+      "attraction_count": 10,
+      "output_dir": "C:\\Users\\M_Smi\\OneDrive\\Documenten\\go2\\go2thailand.com\\data\\attractions\\pattaya"
+    },
+    {
+      "city_slug": "ayutthaya",
+      "city_name": "Ayutthaya",
+      "attraction_count": 10,
+      "output_dir": "C:\\Users\\M_Smi\\OneDrive\\Documenten\\go2\\go2thailand.com\\data\\attractions\\ayutthaya"
+    },
+    {
+      "city_slug": "krabi",
+      "city_name": "Krabi",
+      "attraction_count": 10,
+      "output_dir": "C:\\Users\\M_Smi\\OneDrive\\Documenten\\go2\\go2thailand.com\\data\\attractions\\krabi"
+    },
+    {
+      "city_slug": "chiang-rai",
+      "city_name": "Chiang Rai",
+      "attraction_count": 10,
+      "output_dir": "C:\\Users\\M_Smi\\OneDrive\\Documenten\\go2\\go2thailand.com\\data\\attractions\\chiang-rai"
+    },
+    {
+      "city_slug": "hat-yai",
+      "city_name": "Hat Yai",
+      "attraction_count": 10,
+      "output_dir": "C:\\Users\\M_Smi\\OneDrive\\Documenten\\go2\\go2thailand.com\\data\\attractions\\hat-yai"
+    },
+    {
+      "city_slug": "sukhothai",
+      "city_name": "Sukhothai",
+      "attraction_count": 10,
+      "output_dir": "C:\\Users\\M_Smi\\OneDrive\\Documenten\\go2\\go2thailand.com\\data\\attractions\\sukhothai"
+    },
+    {
+      "city_slug": "surat-thani",
+      "city_name": "Surat Thani",
+      "attraction_count": 10,
+      "output_dir": "C:\\Users\\M_Smi\\OneDrive\\Documenten\\go2\\go2thailand.com\\data\\attractions\\surat-thani"
+    }
+  ]
+}

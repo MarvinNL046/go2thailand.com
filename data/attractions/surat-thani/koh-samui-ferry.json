@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "koh-samui-ferry",
+  "name": {
+    "en": "Koh Samui Ferry Terminal",
+    "nl": "Koh Samui Veerboot Terminal"
+  },
+  "type": "transport",
+  "city_slug": "surat-thani",
+  "address": "Don Sak Pier, Surat Thani Province",
+  "location": {
+    "lat": 9.3167,
+    "lng": 99.7167
+  },
+  "opening_hours": "05:00-20:00",
+  "entrance_fee": {
+    "thb": 150,
+    "usd": 4
+  },
+  "description": {
+    "en": "Main ferry terminal for trips to Koh Samui Koh Phangan and Koh Tao",
+    "nl": "Hoofdveerbootterminal voor reizen naar Koh Samui Koh Phangan en Koh Tao"
+  },
+  "highlights": [
+    "Island gateway",
+    "Ferry services",
+    "Island hopping",
+    "Transport hub"
+  ],
+  "image": "/images/attractions/surat-thani/ferry-terminal.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Samui Ferry Terminal - Top Attraction in Surat Thani | Go2Thailand",
+      "nl": "Koh Samui Veerboot Terminal - Top Attractie in Surat Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Koh Samui Ferry Terminal in Surat Thani. Main ferry terminal for trips to Koh Samui Koh Phangan and Koh Tao...",
+      "nl": "Ontdek Koh Samui Veerboot Terminal in Surat Thani. Hoofdveerbootterminal voor reizen naar Koh Samui Koh Phangan en Koh Tao..."
+    }
+  },
+  "tags": [
+    "transport",
+    "surat-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

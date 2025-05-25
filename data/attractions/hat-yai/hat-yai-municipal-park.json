@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "hat-yai-municipal-park",
+  "name": {
+    "en": "Hat Yai Municipal Park",
+    "nl": "Hat Yai Gemeentelijk Park"
+  },
+  "type": "park",
+  "city_slug": "hat-yai",
+  "address": "Hat Yai Park Road, Hat Yai District",
+  "location": {
+    "lat": 7.0167,
+    "lng": 100.4833
+  },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "City park with cable car golden Buddha statue and panoramic city views",
+    "nl": "Stadspark met kabelbaan gouden Boeddhabeeld en panoramisch uitzicht over de stad"
+  },
+  "highlights": [
+    "Cable car",
+    "Golden Buddha",
+    "City views",
+    "Recreation area"
+  ],
+  "image": "/images/attractions/hat-yai/municipal-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Hat Yai Municipal Park - Top Attraction in Hat Yai | Go2Thailand",
+      "nl": "Hat Yai Gemeentelijk Park - Top Attractie in Hat Yai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Hat Yai Municipal Park in Hat Yai. City park with cable car golden Buddha statue and panoramic city views...",
+      "nl": "Ontdek Hat Yai Gemeentelijk Park in Hat Yai. Stadspark met kabelbaan gouden Boeddhabeeld en panoramisch uitzicht over de stad..."
+    }
+  },
+  "tags": [
+    "park",
+    "hat-yai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

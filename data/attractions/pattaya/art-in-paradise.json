@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "slug": "art-in-paradise",
+  "name": {
+    "en": "Art in Paradise",
+    "nl": "Art in Paradise"
+  },
+  "type": "museum",
+  "city_slug": "pattaya",
+  "address": "78/34 Moo 9, 2nd Road, Nong Prue, Bang Lamung",
+  "location": {
+    "lat": 12.9167,
+    "lng": 100.8833
+  },
+  "opening_hours": "09:00-21:00",
+  "entrance_fee": {
+    "thb": 420,
+    "usd": 12
+  },
+  "description": {
+    "en": "Interactive 3D art museum with optical illusions and photo opportunities",
+    "nl": "Interactief 3D kunst museum met optische illusies en foto mogelijkheden"
+  },
+  "highlights": [
+    "3D art museum",
+    "Interactive exhibits",
+    "Photo opportunities",
+    "Optical illusions"
+  ],
+  "image": "/images/attractions/pattaya/art-paradise.webp",
+  "official_website": "https://www.artinparadise.co.th",
+  "seo": {
+    "metaTitle": {
+      "en": "Art in Paradise - Top Attraction in Pattaya | Go2Thailand",
+      "nl": "Art in Paradise - Top Attractie in Pattaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Art in Paradise in Pattaya. Interactive 3D art museum with optical illusions and photo opportunities...",
+      "nl": "Ontdek Art in Paradise in Pattaya. Interactief 3D kunst museum met optische illusies en foto mogelijkheden..."
+    }
+  },
+  "tags": [
+    "museum",
+    "pattaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

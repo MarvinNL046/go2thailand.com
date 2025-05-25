@@ -1,0 +1,65 @@
+{
+  "id": 1,
+  "slug": "pad-krapow",
+  "name": {
+    "en": "Pad Krapow",
+    "nl": "Pad Krapow",
+    "thai": "ผัดกะเพรา"
+  },
+  "category": "main-dish",
+  "region": "central",
+  "spice_level": "hot",
+  "description": {
+    "en": "Stir-fried Thai basil with minced pork or chicken served over rice with a fried egg",
+    "nl": "Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei"
+  },
+  "ingredients": [
+    "thai basil",
+    "minced pork",
+    "garlic",
+    "chili",
+    "fish sauce",
+    "soy sauce",
+    "rice",
+    "egg"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/pad-krapow.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Pad Krapow Recipe | Authentic Thai main dish",
+      "nl": "Pad Krapow Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Pad Krapow (ผัดกะเพรา) - Stir-fried Thai basil with minced pork or chicken served over rice with a fried egg...",
+      "nl": "Leer over Pad Krapow (ผัดกะเพรา) - Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "central",
+    "hot",
+    "easy",
+    "budget",
+    "thai-basil",
+    "minced-pork",
+    "garlic"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

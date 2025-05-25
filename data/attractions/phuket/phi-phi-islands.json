@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "phi-phi-islands",
+  "name": {
+    "en": "Phi Phi Islands",
+    "nl": "Phi Phi Eilanden"
+  },
+  "type": "island",
+  "city_slug": "phuket",
+  "address": "Phi Phi Islands, Krabi Province",
+  "location": {
+    "lat": 7.7407,
+    "lng": 98.7784
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 400,
+    "usd": 12
+  },
+  "description": {
+    "en": "Stunning limestone islands famous for Maya Bay and crystal clear waters",
+    "nl": "Prachtige kalkstenen eilanden beroemd om Maya Bay en kristalhelder water"
+  },
+  "highlights": [
+    "Maya Bay",
+    "Snorkeling",
+    "Limestone cliffs",
+    "Day trips"
+  ],
+  "image": "/images/attractions/phuket/phi-phi-islands.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Phi Phi Islands - Top Attraction in Phuket | Go2Thailand",
+      "nl": "Phi Phi Eilanden - Top Attractie in Phuket | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Phi Phi Islands in Phuket. Stunning limestone islands famous for Maya Bay and crystal clear waters...",
+      "nl": "Ontdek Phi Phi Eilanden in Phuket. Prachtige kalkstenen eilanden beroemd om Maya Bay en kristalhelder water..."
+    }
+  },
+  "tags": [
+    "island",
+    "phuket",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

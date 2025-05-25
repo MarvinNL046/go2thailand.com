@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "four-islands-tour",
+  "name": {
+    "en": "Four Islands Tour",
+    "nl": "Vier Eilanden Tour"
+  },
+  "type": "island",
+  "city_slug": "krabi",
+  "address": "Phra Nang Cave Beach, Railay Peninsula",
+  "location": {
+    "lat": 8.0167,
+    "lng": 98.8333
+  },
+  "opening_hours": "09:00-16:00",
+  "entrance_fee": {
+    "thb": 1200,
+    "usd": 35
+  },
+  "description": {
+    "en": "Popular boat tour visiting Phra Nang Cave Chicken Island Tup Island and Poda Island",
+    "nl": "Populaire boottour naar Phra Nang Grot Kip Eiland Tup Eiland en Poda Eiland"
+  },
+  "highlights": [
+    "Island hopping",
+    "Snorkeling",
+    "Cave exploration",
+    "Boat tour"
+  ],
+  "image": "/images/attractions/krabi/four-islands.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Four Islands Tour - Top Attraction in Krabi | Go2Thailand",
+      "nl": "Vier Eilanden Tour - Top Attractie in Krabi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Four Islands Tour in Krabi. Popular boat tour visiting Phra Nang Cave Chicken Island Tup Island and Poda Island...",
+      "nl": "Ontdek Vier Eilanden Tour in Krabi. Populaire boottour naar Phra Nang Grot Kip Eiland Tup Eiland en Poda Eiland..."
+    }
+  },
+  "tags": [
+    "island",
+    "krabi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

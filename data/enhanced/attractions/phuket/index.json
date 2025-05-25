@@ -1,0 +1,239 @@
+{
+  "city_slug": "phuket",
+  "city_name": "Phuket",
+  "total_attractions": 10,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "patong-beach",
+      "name": {
+        "en": "Patong Beach",
+        "nl": "Patong Beach"
+      },
+      "type": "beach",
+      "image": "/images/attractions/phuket/patong-beach.webp",
+      "description": {
+        "en": "Most famous beach in Phuket with vibrant nightlife water sports and restaurants",
+        "nl": "Beroemdste strand van Phuket met bruisend nachtleven watersport en restaurants"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Vibrant nightlife",
+        "Water sports",
+        "Beach clubs"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "big-buddha-phuket",
+      "name": {
+        "en": "Big Buddha Phuket",
+        "nl": "Grote Boeddha Phuket"
+      },
+      "type": "temple",
+      "image": "/images/attractions/phuket/big-buddha.webp",
+      "description": {
+        "en": "Massive 45-meter tall Buddha statue with panoramic island views",
+        "nl": "Massaal 45 meter hoog Boeddhabeeld met panoramisch uitzicht over het eiland"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "45m Buddha statue",
+        "Panoramic views",
+        "Sunset spot"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "phi-phi-islands",
+      "name": {
+        "en": "Phi Phi Islands",
+        "nl": "Phi Phi Eilanden"
+      },
+      "type": "island",
+      "image": "/images/attractions/phuket/phi-phi-islands.webp",
+      "description": {
+        "en": "Stunning limestone islands famous for Maya Bay and crystal clear waters",
+        "nl": "Prachtige kalkstenen eilanden beroemd om Maya Bay en kristalhelder water"
+      },
+      "entrance_fee": {
+        "thb": 400,
+        "usd": 12
+      },
+      "highlights": [
+        "Maya Bay",
+        "Snorkeling",
+        "Limestone cliffs"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "phuket-old-town",
+      "name": {
+        "en": "Phuket Old Town",
+        "nl": "Phuket Oude Stad"
+      },
+      "type": "historic",
+      "image": "/images/attractions/phuket/old-town.webp",
+      "description": {
+        "en": "Historic quarter with Sino-Portuguese architecture colorful buildings and local culture",
+        "nl": "Historische wijk met Sino-Portugese architectuur kleurrijke gebouwen en lokale cultuur"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Sino-Portuguese architecture",
+        "Colorful buildings",
+        "Local markets"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "kata-beach",
+      "name": {
+        "en": "Kata Beach",
+        "nl": "Kata Beach"
+      },
+      "type": "beach",
+      "image": "/images/attractions/phuket/kata-beach.webp",
+      "description": {
+        "en": "Beautiful curved beach perfect for swimming surfing and family activities",
+        "nl": "Prachtig gebogen strand perfect voor zwemmen surfen en familie activiteiten"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Family-friendly",
+        "Surfing",
+        "Clear waters"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "james-bond-island",
+      "name": {
+        "en": "James Bond Island",
+        "nl": "James Bond Eiland"
+      },
+      "type": "island",
+      "image": "/images/attractions/phuket/james-bond-island.webp",
+      "description": {
+        "en": "Famous limestone pinnacle featured in James Bond movie with sea kayaking",
+        "nl": "Beroemde kalkstenen spits uit James Bond film met zeekajak mogelijkheden"
+      },
+      "entrance_fee": {
+        "thb": 300,
+        "usd": 9
+      },
+      "highlights": [
+        "Movie location",
+        "Limestone formations",
+        "Sea kayaking"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "bangla-road",
+      "name": {
+        "en": "Bangla Road",
+        "nl": "Bangla Road"
+      },
+      "type": "entertainment",
+      "image": "/images/attractions/phuket/bangla-road.webp",
+      "description": {
+        "en": "Famous nightlife street with bars clubs go-go bars and street performances",
+        "nl": "Beroemde uitgaansstraat met bars clubs go-go bars en straatoptredens"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Nightlife hub",
+        "Go-go bars",
+        "Street performances"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "wat-chalong",
+      "name": {
+        "en": "Wat Chalong",
+        "nl": "Wat Chalong"
+      },
+      "type": "temple",
+      "image": "/images/attractions/phuket/wat-chalong.webp",
+      "description": {
+        "en": "Most important Buddhist temple in Phuket with beautiful architecture and relics",
+        "nl": "Belangrijkste boeddhistische tempel van Phuket met prachtige architectuur en relieken"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Sacred temple",
+        "Buddhist relics",
+        "Traditional architecture"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "karon-beach",
+      "name": {
+        "en": "Karon Beach",
+        "nl": "Karon Beach"
+      },
+      "type": "beach",
+      "image": "/images/attractions/phuket/karon-beach.webp",
+      "description": {
+        "en": "Long sandy beach with fewer crowds perfect for relaxation and water sports",
+        "nl": "Lang zandstrand met minder drukte perfect voor ontspanning en watersport"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Less crowded",
+        "Long sandy beach",
+        "Water sports"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "phuket-fantasea",
+      "name": {
+        "en": "Phuket FantaSea",
+        "nl": "Phuket FantaSea"
+      },
+      "type": "entertainment",
+      "image": "/images/attractions/phuket/fantasea.webp",
+      "description": {
+        "en": "Cultural theme park with spectacular shows featuring Thai culture and mythology",
+        "nl": "Cultureel themapark met spectaculaire shows over Thaise cultuur en mythologie"
+      },
+      "entrance_fee": {
+        "thb": 1800,
+        "usd": 53
+      },
+      "highlights": [
+        "Cultural shows",
+        "Thai mythology",
+        "Elephant performances"
+      ]
+    }
+  ],
+  "enhanced_at": "2025-05-25T22:31:35.024Z",
+  "enhanced_count": 10
+}

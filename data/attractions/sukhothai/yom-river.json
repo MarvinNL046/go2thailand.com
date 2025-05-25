@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "slug": "yom-river",
+  "name": {
+    "en": "Yom River",
+    "nl": "Yom Rivier"
+  },
+  "type": "nature",
+  "city_slug": "sukhothai",
+  "address": "Yom River, Sukhothai Province",
+  "location": {
+    "lat": 17.0078,
+    "lng": 99.8237
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Scenic river perfect for boat trips cycling along banks and sunset views",
+    "nl": "Schilderachtige rivier perfect voor boottochten fietsen langs oevers en zonsondergang"
+  },
+  "highlights": [
+    "Scenic river",
+    "Boat trips",
+    "Cycling paths",
+    "Sunset views"
+  ],
+  "image": "/images/attractions/sukhothai/yom-river.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Yom River - Top Attraction in Sukhothai | Go2Thailand",
+      "nl": "Yom Rivier - Top Attractie in Sukhothai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Yom River in Sukhothai. Scenic river perfect for boat trips cycling along banks and sunset views...",
+      "nl": "Ontdek Yom Rivier in Sukhothai. Schilderachtige rivier perfect voor boottochten fietsen langs oevers en zonsondergang..."
+    }
+  },
+  "tags": [
+    "nature",
+    "sukhothai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

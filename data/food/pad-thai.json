@@ -1,0 +1,72 @@
+{
+  "id": 4,
+  "slug": "pad-thai",
+  "name": {
+    "en": "Pad Thai",
+    "nl": "Pad Thai",
+    "thai": "ผัดไทย"
+  },
+  "category": "main-dish",
+  "region": "central",
+  "spice_level": "mild",
+  "description": {
+    "en": "Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce",
+    "nl": "Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus"
+  },
+  "ingredients": [
+    "rice noodles",
+    "tofu",
+    "bean sprouts",
+    "tamarind",
+    "fish sauce",
+    "peanuts",
+    "lime"
+  ],
+  "allergens": [
+    "nuts"
+  ],
+  "dietary": [
+    "vegetarian option"
+  ],
+  "image": "/images/food/pad-thai.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Pad Thai Recipe | Authentic Thai main dish",
+      "nl": "Pad Thai Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Pad Thai (ผัดไทย) - Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce...",
+      "nl": "Leer over Pad Thai (ผัดไทย) - Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "central",
+    "mild",
+    "medium",
+    "budget",
+    "rice-noodles",
+    "tofu",
+    "bean-sprouts"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "nuts"
+    ],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "price_range": "budget"
+  }
+}

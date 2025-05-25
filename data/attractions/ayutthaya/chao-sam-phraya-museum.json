@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "slug": "chao-sam-phraya-museum",
+  "name": {
+    "en": "Chao Sam Phraya National Museum",
+    "nl": "Chao Sam Phraya Nationaal Museum"
+  },
+  "type": "museum",
+  "city_slug": "ayutthaya",
+  "address": "Rochana Road, Pratu Chai, Phra Nakhon Si Ayutthaya",
+  "location": {
+    "lat": 14.3542,
+    "lng": 100.5542
+  },
+  "opening_hours": "09:00-16:00",
+  "entrance_fee": {
+    "thb": 150,
+    "usd": 4
+  },
+  "description": {
+    "en": "Museum showcasing Ayutthaya artifacts including golden Buddha images and royal treasures",
+    "nl": "Museum met Ayutthaya artefacten inclusief gouden Boeddhabeelden en koninklijke schatten"
+  },
+  "highlights": [
+    "Golden Buddha images",
+    "Royal treasures",
+    "Historical artifacts",
+    "Cultural museum"
+  ],
+  "image": "/images/attractions/ayutthaya/chao-sam-phraya.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Chao Sam Phraya National Museum - Top Attraction in Ayutthaya | Go2Thailand",
+      "nl": "Chao Sam Phraya Nationaal Museum - Top Attractie in Ayutthaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Chao Sam Phraya National Museum in Ayutthaya. Museum showcasing Ayutthaya artifacts including golden Buddha images and royal treasures...",
+      "nl": "Ontdek Chao Sam Phraya Nationaal Museum in Ayutthaya. Museum met Ayutthaya artefacten inclusief gouden Boeddhabeelden en koninklijke schatten..."
+    }
+  },
+  "tags": [
+    "museum",
+    "ayutthaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

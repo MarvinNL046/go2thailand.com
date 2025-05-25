@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "tapee-river",
+  "name": {
+    "en": "Tapee River",
+    "nl": "Tapee Rivier"
+  },
+  "type": "nature",
+  "city_slug": "surat-thani",
+  "address": "Tapee River, Surat Thani City",
+  "location": {
+    "lat": 9.14,
+    "lng": 99.3331
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Scenic river running through the city perfect for boat trips and riverside walks",
+    "nl": "Schilderachtige rivier door de stad perfect voor boottochten en wandelingen langs de rivier"
+  },
+  "highlights": [
+    "Scenic river",
+    "Boat trips",
+    "Riverside walks",
+    "City waterway"
+  ],
+  "image": "/images/attractions/surat-thani/tapee-river.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Tapee River - Top Attraction in Surat Thani | Go2Thailand",
+      "nl": "Tapee Rivier - Top Attractie in Surat Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Tapee River in Surat Thani. Scenic river running through the city perfect for boat trips and riverside walks...",
+      "nl": "Ontdek Tapee Rivier in Surat Thani. Schilderachtige rivier door de stad perfect voor boottochten en wandelingen langs de rivier..."
+    }
+  },
+  "tags": [
+    "nature",
+    "surat-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

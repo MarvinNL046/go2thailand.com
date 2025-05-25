@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "wat-phra-si-sanphet",
+  "name": {
+    "en": "Wat Phra Si Sanphet",
+    "nl": "Wat Phra Si Sanphet"
+  },
+  "type": "temple",
+  "city_slug": "ayutthaya",
+  "address": "Si Sanphet Road, Phra Nakhon Si Ayutthaya",
+  "location": {
+    "lat": 14.3556,
+    "lng": 100.5581
+  },
+  "opening_hours": "08:00-18:00",
+  "entrance_fee": {
+    "thb": 50,
+    "usd": 1
+  },
+  "description": {
+    "en": "Former royal temple with three iconic chedis housing royal ashes",
+    "nl": "Voormalige koninklijke tempel met drie iconische chedi's met koninklijke as"
+  },
+  "highlights": [
+    "Three iconic chedis",
+    "Royal temple",
+    "Former palace grounds",
+    "Historical significance"
+  ],
+  "image": "/images/attractions/ayutthaya/wat-phra-si-sanphet.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Phra Si Sanphet - Top Attraction in Ayutthaya | Go2Thailand",
+      "nl": "Wat Phra Si Sanphet - Top Attractie in Ayutthaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Phra Si Sanphet in Ayutthaya. Former royal temple with three iconic chedis housing royal ashes...",
+      "nl": "Ontdek Wat Phra Si Sanphet in Ayutthaya. Voormalige koninklijke tempel met drie iconische chedi's met koninklijke as..."
+    }
+  },
+  "tags": [
+    "temple",
+    "ayutthaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "bang-pa-in-palace",
+  "name": {
+    "en": "Bang Pa-In Royal Palace",
+    "nl": "Bang Pa-In Koninklijk Paleis"
+  },
+  "type": "palace",
+  "city_slug": "ayutthaya",
+  "address": "Bang Pa-in District, Phra Nakhon Si Ayutthaya",
+  "location": {
+    "lat": 14.2333,
+    "lng": 100.5833
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Beautiful royal summer palace with mix of Thai European and Chinese architecture",
+    "nl": "Prachtig koninklijk zomerpaleis met mix van Thaise Europese en Chinese architectuur"
+  },
+  "highlights": [
+    "Royal summer palace",
+    "Mixed architecture",
+    "Beautiful gardens",
+    "Cultural heritage"
+  ],
+  "image": "/images/attractions/ayutthaya/bang-pa-in.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Bang Pa-In Royal Palace - Top Attraction in Ayutthaya | Go2Thailand",
+      "nl": "Bang Pa-In Koninklijk Paleis - Top Attractie in Ayutthaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Bang Pa-In Royal Palace in Ayutthaya. Beautiful royal summer palace with mix of Thai European and Chinese architecture...",
+      "nl": "Ontdek Bang Pa-In Koninklijk Paleis in Ayutthaya. Prachtig koninklijk zomerpaleis met mix van Thaise Europese en Chinese architectuur..."
+    }
+  },
+  "tags": [
+    "palace",
+    "ayutthaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

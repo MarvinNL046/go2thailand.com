@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "slug": "saturday-night-market",
+  "name": {
+    "en": "Saturday Night Market",
+    "nl": "Zaterdag Nachtmarkt"
+  },
+  "type": "market",
+  "city_slug": "chiang-mai",
+  "address": "Wua Lai Road, Hai Ya, Muang Chiang Mai",
+  "location": {
+    "lat": 18.7825,
+    "lng": 98.9889
+  },
+  "opening_hours": "17:00-23:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Local walking street market known for silver handicrafts and authentic atmosphere",
+    "nl": "Lokale wandelmarkt bekend om zilveren handwerk en authentieke sfeer"
+  },
+  "highlights": [
+    "Silver handicrafts",
+    "Local atmosphere",
+    "Traditional crafts",
+    "Street food"
+  ],
+  "image": "/images/attractions/chiang-mai/saturday-market.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Saturday Night Market - Top Attraction in Chiang Mai | Go2Thailand",
+      "nl": "Zaterdag Nachtmarkt - Top Attractie in Chiang Mai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Saturday Night Market in Chiang Mai. Local walking street market known for silver handicrafts and authentic atmosphere...",
+      "nl": "Ontdek Zaterdag Nachtmarkt in Chiang Mai. Lokale wandelmarkt bekend om zilveren handwerk en authentieke sfeer..."
+    }
+  },
+  "tags": [
+    "market",
+    "chiang-mai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

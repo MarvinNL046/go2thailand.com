@@ -1,0 +1,50 @@
+{
+  "id": 10,
+  "slug": "thung-teao-forest-park",
+  "name": {
+    "en": "Thung Teao Forest Natural Park",
+    "nl": "Thung Teao Bos Natuurpark"
+  },
+  "type": "nature",
+  "city_slug": "krabi",
+  "address": "Khlong Thom District, Krabi",
+  "location": {
+    "lat": 7.9167,
+    "lng": 99.2667
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "Protected rainforest with nature trails hot springs and diverse wildlife",
+    "nl": "Beschermd regenwoud met natuurpaden warmwaterbronnen en diverse wilde dieren"
+  },
+  "highlights": [
+    "Rainforest trails",
+    "Wildlife watching",
+    "Hot springs",
+    "Nature conservation"
+  ],
+  "image": "/images/attractions/krabi/thung-teao.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Thung Teao Forest Natural Park - Top Attraction in Krabi | Go2Thailand",
+      "nl": "Thung Teao Bos Natuurpark - Top Attractie in Krabi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Thung Teao Forest Natural Park in Krabi. Protected rainforest with nature trails hot springs and diverse wildlife...",
+      "nl": "Ontdek Thung Teao Bos Natuurpark in Krabi. Beschermd regenwoud met natuurpaden warmwaterbronnen en diverse wilde dieren..."
+    }
+  },
+  "tags": [
+    "nature",
+    "krabi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

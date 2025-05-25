@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "wat-chaiwatthanaram",
+  "name": {
+    "en": "Wat Chaiwatthanaram",
+    "nl": "Wat Chaiwatthanaram"
+  },
+  "type": "temple",
+  "city_slug": "ayutthaya",
+  "address": "U Thong Road, Ban Pom, Phra Nakhon Si Ayutthaya",
+  "location": {
+    "lat": 14.3431,
+    "lng": 100.5397
+  },
+  "opening_hours": "08:00-18:00",
+  "entrance_fee": {
+    "thb": 50,
+    "usd": 1
+  },
+  "description": {
+    "en": "Magnificent temple complex with central prang and surrounding chedis",
+    "nl": "Prachtig tempelcomplex met centrale prang en omringende chedi's"
+  },
+  "highlights": [
+    "Central prang",
+    "Khmer architecture",
+    "Sunset views",
+    "Royal temple"
+  ],
+  "image": "/images/attractions/ayutthaya/wat-chaiwatthanaram.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Chaiwatthanaram - Top Attraction in Ayutthaya | Go2Thailand",
+      "nl": "Wat Chaiwatthanaram - Top Attractie in Ayutthaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Chaiwatthanaram in Ayutthaya. Magnificent temple complex with central prang and surrounding chedis...",
+      "nl": "Ontdek Wat Chaiwatthanaram in Ayutthaya. Prachtig tempelcomplex met centrale prang en omringende chedi's..."
+    }
+  },
+  "tags": [
+    "temple",
+    "ayutthaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

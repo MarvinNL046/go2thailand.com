@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "slug": "wat-chang-lom",
+  "name": {
+    "en": "Wat Chang Lom",
+    "nl": "Wat Chang Lom"
+  },
+  "type": "temple",
+  "city_slug": "sukhothai",
+  "address": "Si Satchanalai Historical Park",
+  "location": {
+    "lat": 17.2833,
+    "lng": 99.7667
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Temple famous for elephant-supported chedi in Sri Lankan style",
+    "nl": "Tempel beroemd om olifant-ondersteunde chedi in Sri Lankaanse stijl"
+  },
+  "highlights": [
+    "Elephant-supported chedi",
+    "Sri Lankan style",
+    "Unique architecture",
+    "Ancient temple"
+  ],
+  "image": "/images/attractions/sukhothai/wat-chang-lom.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Chang Lom - Top Attraction in Sukhothai | Go2Thailand",
+      "nl": "Wat Chang Lom - Top Attractie in Sukhothai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Chang Lom in Sukhothai. Temple famous for elephant-supported chedi in Sri Lankan style...",
+      "nl": "Ontdek Wat Chang Lom in Sukhothai. Tempel beroemd om olifant-ondersteunde chedi in Sri Lankaanse stijl..."
+    }
+  },
+  "tags": [
+    "temple",
+    "sukhothai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "emerald-pool",
+  "name": {
+    "en": "Emerald Pool (Sa Morakot)",
+    "nl": "Smaragd Zwembad (Sa Morakot)"
+  },
+  "type": "nature",
+  "city_slug": "krabi",
+  "address": "Thung Teao Forest Natural Park, Khlong Thom District",
+  "location": {
+    "lat": 7.9167,
+    "lng": 99.2667
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "Natural hot spring pool with crystal clear emerald-colored water in rainforest",
+    "nl": "Natuurlijke warmwaterbron met kristalhelder smaragdkleurig water in regenwoud"
+  },
+  "highlights": [
+    "Natural hot springs",
+    "Emerald water",
+    "Rainforest setting",
+    "Swimming"
+  ],
+  "image": "/images/attractions/krabi/emerald-pool.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Emerald Pool (Sa Morakot) - Top Attraction in Krabi | Go2Thailand",
+      "nl": "Smaragd Zwembad (Sa Morakot) - Top Attractie in Krabi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Emerald Pool (Sa Morakot) in Krabi. Natural hot spring pool with crystal clear emerald-colored water in rainforest...",
+      "nl": "Ontdek Smaragd Zwembad (Sa Morakot) in Krabi. Natuurlijke warmwaterbron met kristalhelder smaragdkleurig water in regenwoud..."
+    }
+  },
+  "tags": [
+    "nature",
+    "krabi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

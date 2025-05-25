@@ -1,0 +1,239 @@
+{
+  "city_slug": "chiang-mai",
+  "city_name": "Chiang Mai",
+  "total_attractions": 10,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "doi-suthep",
+      "name": {
+        "en": "Doi Suthep Temple",
+        "nl": "Doi Suthep Tempel"
+      },
+      "type": "temple",
+      "image": "/images/attractions/chiang-mai/doi-suthep.webp",
+      "description": {
+        "en": "Sacred temple on mountain top with panoramic city views and golden chedi",
+        "nl": "Heilige tempel op bergtop met panoramisch uitzicht over de stad en gouden chedi"
+      },
+      "entrance_fee": {
+        "thb": 50,
+        "usd": 1
+      },
+      "highlights": [
+        "Mountain temple",
+        "City views",
+        "Golden chedi"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "old-city-chiang-mai",
+      "name": {
+        "en": "Chiang Mai Old City",
+        "nl": "Chiang Mai Oude Stad"
+      },
+      "type": "historic",
+      "image": "/images/attractions/chiang-mai/old-city.webp",
+      "description": {
+        "en": "Historic walled city center with ancient temples moats and traditional architecture",
+        "nl": "Historisch ommuurde stadscentrum met oude tempels grachten en traditionele architectuur"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Ancient walls",
+        "Historic temples",
+        "Traditional markets"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "sunday-night-market",
+      "name": {
+        "en": "Sunday Night Market",
+        "nl": "Zondag Nachtmarkt"
+      },
+      "type": "market",
+      "image": "/images/attractions/chiang-mai/sunday-market.webp",
+      "description": {
+        "en": "Famous walking street market with local handicrafts food and live music",
+        "nl": "Beroemde wandelmarkt met lokale handwerk eten en live muziek"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Walking street",
+        "Local handicrafts",
+        "Street food"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "elephant-nature-park",
+      "name": {
+        "en": "Elephant Nature Park",
+        "nl": "Olifanten Natuurpark"
+      },
+      "type": "sanctuary",
+      "image": "/images/attractions/chiang-mai/elephant-park.webp",
+      "description": {
+        "en": "Ethical elephant sanctuary focused on rescue rehabilitation and conservation",
+        "nl": "Ethisch olifantensanctuarium gericht op redding rehabilitatie en behoud"
+      },
+      "entrance_fee": {
+        "thb": 2500,
+        "usd": 74
+      },
+      "highlights": [
+        "Elephant rescue",
+        "Ethical tourism",
+        "Conservation"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "wat-phra-singh",
+      "name": {
+        "en": "Wat Phra Singh",
+        "nl": "Wat Phra Singh"
+      },
+      "type": "temple",
+      "image": "/images/attractions/chiang-mai/wat-phra-singh.webp",
+      "description": {
+        "en": "Most revered temple in Chiang Mai housing the sacred Phra Singh Buddha",
+        "nl": "Meest geëerde tempel in Chiang Mai met de heilige Phra Singh Boeddha"
+      },
+      "entrance_fee": {
+        "thb": 20,
+        "usd": 1
+      },
+      "highlights": [
+        "Sacred Buddha image",
+        "Lanna architecture",
+        "Ancient murals"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "night-bazaar",
+      "name": {
+        "en": "Chiang Mai Night Bazaar",
+        "nl": "Chiang Mai Nachtbazaar"
+      },
+      "type": "market",
+      "image": "/images/attractions/chiang-mai/night-bazaar.webp",
+      "description": {
+        "en": "Bustling night market with souvenirs clothing and local street food",
+        "nl": "Bruisende nachtmarkt met souvenirs kleding en lokaal straatvoedsel"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Night shopping",
+        "Souvenirs",
+        "Street food"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "wat-chedi-luang",
+      "name": {
+        "en": "Wat Chedi Luang",
+        "nl": "Wat Chedi Luang"
+      },
+      "type": "temple",
+      "image": "/images/attractions/chiang-mai/wat-chedi-luang.webp",
+      "description": {
+        "en": "Ancient temple with massive ruined chedi and monk chat program",
+        "nl": "Oude tempel met massieve geruïneerde chedi en monnik chat programma"
+      },
+      "entrance_fee": {
+        "thb": 40,
+        "usd": 1
+      },
+      "highlights": [
+        "Ancient ruins",
+        "Massive chedi",
+        "Monk chat"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "doi-inthanon",
+      "name": {
+        "en": "Doi Inthanon National Park",
+        "nl": "Doi Inthanon Nationaal Park"
+      },
+      "type": "nature",
+      "image": "/images/attractions/chiang-mai/doi-inthanon.webp",
+      "description": {
+        "en": "Thailand's highest peak with waterfalls twin pagodas and cool climate",
+        "nl": "Thailand's hoogste piek met watervallen twin pagoda's en koel klimaat"
+      },
+      "entrance_fee": {
+        "thb": 300,
+        "usd": 9
+      },
+      "highlights": [
+        "Highest peak",
+        "Twin pagodas",
+        "Waterfalls"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "saturday-night-market",
+      "name": {
+        "en": "Saturday Night Market",
+        "nl": "Zaterdag Nachtmarkt"
+      },
+      "type": "market",
+      "image": "/images/attractions/chiang-mai/saturday-market.webp",
+      "description": {
+        "en": "Local walking street market known for silver handicrafts and authentic atmosphere",
+        "nl": "Lokale wandelmarkt bekend om zilveren handwerk en authentieke sfeer"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Silver handicrafts",
+        "Local atmosphere",
+        "Traditional crafts"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "bua-thong-waterfalls",
+      "name": {
+        "en": "Bua Thong Sticky Waterfalls",
+        "nl": "Bua Thong Kleverige Watervallen"
+      },
+      "type": "nature",
+      "image": "/images/attractions/chiang-mai/sticky-waterfalls.webp",
+      "description": {
+        "en": "Unique limestone waterfalls you can climb without slipping",
+        "nl": "Unieke kalkstenen watervallen die je kunt beklimmen zonder uit te glijden"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Climbable waterfalls",
+        "Limestone formations",
+        "Natural pools"
+      ]
+    }
+  ],
+  "enhanced_at": "2025-05-25T22:27:54.195Z",
+  "enhanced_count": 10
+}

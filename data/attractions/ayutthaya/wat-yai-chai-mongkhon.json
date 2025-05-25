@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "wat-yai-chai-mongkhon",
+  "name": {
+    "en": "Wat Yai Chai Mongkhon",
+    "nl": "Wat Yai Chai Mongkhon"
+  },
+  "type": "temple",
+  "city_slug": "ayutthaya",
+  "address": "9 Moo 1, Khlong Suan Phlu, Phra Nakhon Si Ayutthaya",
+  "location": {
+    "lat": 14.3333,
+    "lng": 100.5833
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 20,
+    "usd": 1
+  },
+  "description": {
+    "en": "Active temple with towering chedi and rows of Buddha statues",
+    "nl": "Actieve tempel met torenhoge chedi en rijen Boeddhabeelden"
+  },
+  "highlights": [
+    "Towering chedi",
+    "Active temple",
+    "Buddha statues",
+    "Climbing stairs"
+  ],
+  "image": "/images/attractions/ayutthaya/wat-yai-chai-mongkhon.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Yai Chai Mongkhon - Top Attraction in Ayutthaya | Go2Thailand",
+      "nl": "Wat Yai Chai Mongkhon - Top Attractie in Ayutthaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Yai Chai Mongkhon in Ayutthaya. Active temple with towering chedi and rows of Buddha statues...",
+      "nl": "Ontdek Wat Yai Chai Mongkhon in Ayutthaya. Actieve tempel met torenhoge chedi en rijen Boeddhabeelden..."
+    }
+  },
+  "tags": [
+    "temple",
+    "ayutthaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

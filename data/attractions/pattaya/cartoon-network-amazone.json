@@ -1,0 +1,50 @@
+{
+  "id": 10,
+  "slug": "cartoon-network-amazone",
+  "name": {
+    "en": "Cartoon Network Amazone",
+    "nl": "Cartoon Network Amazone"
+  },
+  "type": "waterpark",
+  "city_slug": "pattaya",
+  "address": "888 Moo 8, Sukhumvit Road, Na Jomtien, Sattahip",
+  "location": {
+    "lat": 12.7333,
+    "lng": 100.9333
+  },
+  "opening_hours": "10:00-18:00",
+  "entrance_fee": {
+    "thb": 990,
+    "usd": 29
+  },
+  "description": {
+    "en": "Cartoon-themed water park with slides pools and character meet-and-greets",
+    "nl": "Cartoon-thema waterpark met glijbanen zwembaden en karakter ontmoetingen"
+  },
+  "highlights": [
+    "Water slides",
+    "Cartoon characters",
+    "Family fun",
+    "Themed attractions"
+  ],
+  "image": "/images/attractions/pattaya/cartoon-network.webp",
+  "official_website": "https://www.cartoonnetworkamazonepark.com",
+  "seo": {
+    "metaTitle": {
+      "en": "Cartoon Network Amazone - Top Attraction in Pattaya | Go2Thailand",
+      "nl": "Cartoon Network Amazone - Top Attractie in Pattaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Cartoon Network Amazone in Pattaya. Cartoon-themed water park with slides pools and character meet-and-greets...",
+      "nl": "Ontdek Cartoon Network Amazone in Pattaya. Cartoon-thema waterpark met glijbanen zwembaden en karakter ontmoetingen..."
+    }
+  },
+  "tags": [
+    "waterpark",
+    "pattaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

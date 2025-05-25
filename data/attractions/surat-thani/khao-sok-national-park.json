@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "slug": "khao-sok-national-park",
+  "name": {
+    "en": "Khao Sok National Park",
+    "nl": "Khao Sok Nationaal Park"
+  },
+  "type": "nature",
+  "city_slug": "surat-thani",
+  "address": "Khao Sok National Park, Surat Thani Province",
+  "location": {
+    "lat": 8.9167,
+    "lng": 98.5333
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 300,
+    "usd": 9
+  },
+  "description": {
+    "en": "Ancient rainforest with diverse wildlife limestone cliffs and jungle trekking",
+    "nl": "Oud regenwoud met diverse wilde dieren kalkstenen kliffen en jungle trekking"
+  },
+  "highlights": [
+    "Ancient rainforest",
+    "Diverse wildlife",
+    "Limestone cliffs",
+    "Jungle trekking"
+  ],
+  "image": "/images/attractions/surat-thani/khao-sok.webp",
+  "official_website": "https://portal.dnp.go.th",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Sok National Park - Top Attraction in Surat Thani | Go2Thailand",
+      "nl": "Khao Sok Nationaal Park - Top Attractie in Surat Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Khao Sok National Park in Surat Thani. Ancient rainforest with diverse wildlife limestone cliffs and jungle trekking...",
+      "nl": "Ontdek Khao Sok Nationaal Park in Surat Thani. Oud regenwoud met diverse wilde dieren kalkstenen kliffen en jungle trekking..."
+    }
+  },
+  "tags": [
+    "nature",
+    "surat-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

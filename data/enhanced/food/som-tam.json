@@ -1,0 +1,177 @@
+{
+  "id": 2,
+  "slug": "som-tam",
+  "name": {
+    "en": "Som Tam",
+    "nl": "Som Tam",
+    "thai": "ส้มตำ"
+  },
+  "category": "salad",
+  "region": "northeastern",
+  "spice_level": "medium",
+  "description": {
+    "en": "Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts",
+    "nl": "Pittige groene papajasalade met tomaten limoensap vissaus en pinda's"
+  },
+  "ingredients": [
+    "green papaya",
+    "tomatoes",
+    "lime juice",
+    "fish sauce",
+    "peanuts",
+    "chili"
+  ],
+  "allergens": [
+    "nuts"
+  ],
+  "dietary": [
+    "vegetarian option"
+  ],
+  "image": "/images/food/som-tam.webp",
+  "preparation_time": "10 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Som Tam Recipe | Authentic Thai salad",
+      "nl": "Som Tam Recept | Authentieke Thaise salad"
+    },
+    "metaDescription": {
+      "en": "Learn about Som Tam (ส้มตำ) - Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts...",
+      "nl": "Leer over Som Tam (ส้มตำ) - Pittige groene papajasalade met tomaten limoensap vissaus en pinda's..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "salad",
+    "northeastern",
+    "medium",
+    "easy",
+    "budget",
+    "green-papaya",
+    "tomatoes",
+    "lime-juice"
+  ],
+  "cooking": {
+    "preparation_time": "10 minutes",
+    "difficulty": "easy",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "nuts"
+    ],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts",
+  "detailed_ingredients": [
+    {
+      "name": "green papaya",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "tomatoes",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "lime juice",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "fish sauce",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "peanuts",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "chili",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying",
+    "steps_overview": "Traditional Thai cooking method for Som Tam",
+    "cooking_tips": [
+      "Use high heat for stir-frying",
+      "Balance sweet, sour, salty, and spicy flavors"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Som Tam is a traditional Thai dish from the northeastern region",
+    "cultural_importance": "Popular dish in Thai cuisine",
+    "traditional_occasions": [
+      "Daily meals",
+      "Family gatherings"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Regional Som Tam",
+      "description": "Traditional northeastern style preparation"
+    },
+    {
+      "name": "Modern Som Tam",
+      "description": "Contemporary interpretation with modern techniques"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables"
+    ],
+    "presentation": "Served hot in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "Varies by preparation",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Balanced flavors"
+    ],
+    "dietary_notes": [
+      "vegetarian option"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local Thai restaurants",
+      "Traditional eateries"
+    ],
+    "street_food_areas": [
+      "Thai street food markets",
+      "Food courts"
+    ],
+    "price_ranges": {
+      "street_food": "$2-5",
+      "restaurant": "$8-15",
+      "upscale": "$15-25"
+    }
+  },
+  "enhanced_at": "2025-05-25T21:51:02.697Z",
+  "ai_generated": true
+}

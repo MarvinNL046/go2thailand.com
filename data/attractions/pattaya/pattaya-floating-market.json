@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "pattaya-floating-market",
+  "name": {
+    "en": "Pattaya Floating Market",
+    "nl": "Pattaya Drijvende Markt"
+  },
+  "type": "market",
+  "city_slug": "pattaya",
+  "address": "451/304 Moo 12, Sukhumvit Road, Nong Prue",
+  "location": {
+    "lat": 12.8833,
+    "lng": 100.9167
+  },
+  "opening_hours": "09:00-20:00",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "Traditional floating market experience with local food crafts and boat rides",
+    "nl": "Traditionele drijvende markt ervaring met lokaal eten handwerk en boottochten"
+  },
+  "highlights": [
+    "Floating market",
+    "Traditional boats",
+    "Local crafts",
+    "Cultural experience"
+  ],
+  "image": "/images/attractions/pattaya/floating-market.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Pattaya Floating Market - Top Attraction in Pattaya | Go2Thailand",
+      "nl": "Pattaya Drijvende Markt - Top Attractie in Pattaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Pattaya Floating Market in Pattaya. Traditional floating market experience with local food crafts and boat rides...",
+      "nl": "Ontdek Pattaya Drijvende Markt in Pattaya. Traditionele drijvende markt ervaring met lokaal eten handwerk en boottochten..."
+    }
+  },
+  "tags": [
+    "market",
+    "pattaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

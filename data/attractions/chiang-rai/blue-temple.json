@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "blue-temple",
+  "name": {
+    "en": "Blue Temple (Wat Rong Suea Ten)",
+    "nl": "Blauwe Tempel (Wat Rong Suea Ten)"
+  },
+  "type": "temple",
+  "city_slug": "chiang-rai",
+  "address": "306 Moo 2, Rim Kok, Muang Chiang Rai",
+  "location": {
+    "lat": 19.8833,
+    "lng": 99.8167
+  },
+  "opening_hours": "07:00-20:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Magnificent blue temple with golden Buddha statue and intricate blue and gold decorations",
+    "nl": "Prachtige blauwe tempel met gouden Boeddhabeeld en ingewikkelde blauwe en gouden decoraties"
+  },
+  "highlights": [
+    "Blue and gold design",
+    "Golden Buddha",
+    "Intricate decorations",
+    "Modern temple"
+  ],
+  "image": "/images/attractions/chiang-rai/blue-temple.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Blue Temple (Wat Rong Suea Ten) - Top Attraction in Chiang Rai | Go2Thailand",
+      "nl": "Blauwe Tempel (Wat Rong Suea Ten) - Top Attractie in Chiang Rai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Blue Temple (Wat Rong Suea Ten) in Chiang Rai. Magnificent blue temple with golden Buddha statue and intricate blue and gold decorations...",
+      "nl": "Ontdek Blauwe Tempel (Wat Rong Suea Ten) in Chiang Rai. Prachtige blauwe tempel met gouden Boeddhabeeld en ingewikkelde blauwe en gouden decoraties..."
+    }
+  },
+  "tags": [
+    "temple",
+    "chiang-rai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

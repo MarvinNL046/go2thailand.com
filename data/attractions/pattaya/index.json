@@ -1,0 +1,237 @@
+{
+  "city_slug": "pattaya",
+  "city_name": "Pattaya",
+  "total_attractions": 10,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "walking-street",
+      "name": {
+        "en": "Walking Street",
+        "nl": "Walking Street"
+      },
+      "type": "entertainment",
+      "image": "/images/attractions/pattaya/walking-street.webp",
+      "description": {
+        "en": "Famous nightlife street with bars clubs restaurants and street performances",
+        "nl": "Beroemde uitgaansstraat met bars clubs restaurants en straatoptredens"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Nightlife hub",
+        "Go-go bars",
+        "Street food"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "sanctuary-of-truth",
+      "name": {
+        "en": "Sanctuary of Truth",
+        "nl": "Heiligdom van de Waarheid"
+      },
+      "type": "temple",
+      "image": "/images/attractions/pattaya/sanctuary-truth.webp",
+      "description": {
+        "en": "Magnificent all-wood temple showcasing traditional Thai craftsmanship and philosophy",
+        "nl": "Prachtige volledig houten tempel die traditioneel Thais vakmanschap en filosofie toont"
+      },
+      "entrance_fee": {
+        "thb": 500,
+        "usd": 15
+      },
+      "highlights": [
+        "All-wood construction",
+        "Traditional craftsmanship",
+        "Philosophical art"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "jomtien-beach",
+      "name": {
+        "en": "Jomtien Beach",
+        "nl": "Jomtien Beach"
+      },
+      "type": "beach",
+      "image": "/images/attractions/pattaya/jomtien-beach.webp",
+      "description": {
+        "en": "Quieter beach alternative to Pattaya with water sports and family-friendly atmosphere",
+        "nl": "Rustiger strand alternatief voor Pattaya met watersport en familie-vriendelijke sfeer"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Family-friendly",
+        "Water sports",
+        "Quieter atmosphere"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "coral-island",
+      "name": {
+        "en": "Coral Island (Koh Larn)",
+        "nl": "Koraal Eiland (Koh Larn)"
+      },
+      "type": "island",
+      "image": "/images/attractions/pattaya/coral-island.webp",
+      "description": {
+        "en": "Beautiful island getaway with pristine beaches and crystal clear waters",
+        "nl": "Prachtige eiland uitje met ongerepte stranden en kristalhelder water"
+      },
+      "entrance_fee": {
+        "thb": 30,
+        "usd": 1
+      },
+      "highlights": [
+        "Pristine beaches",
+        "Snorkeling",
+        "Day trips"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "nong-nooch-garden",
+      "name": {
+        "en": "Nong Nooch Tropical Garden",
+        "nl": "Nong Nooch Tropische Tuin"
+      },
+      "type": "garden",
+      "image": "/images/attractions/pattaya/nong-nooch.webp",
+      "description": {
+        "en": "Spectacular botanical garden with cultural shows elephant performances and themed gardens",
+        "nl": "Spectaculaire botanische tuin met culturele shows olifantenoptredens en thematuinen"
+      },
+      "entrance_fee": {
+        "thb": 500,
+        "usd": 15
+      },
+      "highlights": [
+        "Botanical gardens",
+        "Cultural shows",
+        "Elephant performances"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "pattaya-floating-market",
+      "name": {
+        "en": "Pattaya Floating Market",
+        "nl": "Pattaya Drijvende Markt"
+      },
+      "type": "market",
+      "image": "/images/attractions/pattaya/floating-market.webp",
+      "description": {
+        "en": "Traditional floating market experience with local food crafts and boat rides",
+        "nl": "Traditionele drijvende markt ervaring met lokaal eten handwerk en boottochten"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Floating market",
+        "Traditional boats",
+        "Local crafts"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "pattaya-beach",
+      "name": {
+        "en": "Pattaya Beach",
+        "nl": "Pattaya Beach"
+      },
+      "type": "beach",
+      "image": "/images/attractions/pattaya/pattaya-beach.webp",
+      "description": {
+        "en": "Main beach strip with water sports beach activities and beachfront dining",
+        "nl": "Hoofdstrand strip met watersport strand activiteiten en restaurants aan het strand"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Main beach",
+        "Water sports",
+        "Beachfront dining"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "art-in-paradise",
+      "name": {
+        "en": "Art in Paradise",
+        "nl": "Art in Paradise"
+      },
+      "type": "museum",
+      "image": "/images/attractions/pattaya/art-paradise.webp",
+      "description": {
+        "en": "Interactive 3D art museum with optical illusions and photo opportunities",
+        "nl": "Interactief 3D kunst museum met optische illusies en foto mogelijkheden"
+      },
+      "entrance_fee": {
+        "thb": 420,
+        "usd": 12
+      },
+      "highlights": [
+        "3D art museum",
+        "Interactive exhibits",
+        "Photo opportunities"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "big-buddha-hill",
+      "name": {
+        "en": "Big Buddha Hill (Wat Phra Yai)",
+        "nl": "Grote Boeddha Heuvel (Wat Phra Yai)"
+      },
+      "type": "temple",
+      "image": "/images/attractions/pattaya/big-buddha-hill.webp",
+      "description": {
+        "en": "Hilltop temple with large golden Buddha statue and panoramic city views",
+        "nl": "Heuvel tempel met groot gouden Boeddhabeeld en panoramisch uitzicht over de stad"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Golden Buddha statue",
+        "Panoramic views",
+        "Hilltop temple"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "cartoon-network-amazone",
+      "name": {
+        "en": "Cartoon Network Amazone",
+        "nl": "Cartoon Network Amazone"
+      },
+      "type": "waterpark",
+      "image": "/images/attractions/pattaya/cartoon-network.webp",
+      "description": {
+        "en": "Cartoon-themed water park with slides pools and character meet-and-greets",
+        "nl": "Cartoon-thema waterpark met glijbanen zwembaden en karakter ontmoetingen"
+      },
+      "entrance_fee": {
+        "thb": 990,
+        "usd": 29
+      },
+      "highlights": [
+        "Water slides",
+        "Cartoon characters",
+        "Family fun"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "big-buddha-phuket",
+  "name": {
+    "en": "Big Buddha Phuket",
+    "nl": "Grote Boeddha Phuket"
+  },
+  "type": "temple",
+  "city_slug": "phuket",
+  "address": "Karon, Muang Phuket District",
+  "location": {
+    "lat": 7.8242,
+    "lng": 98.3089
+  },
+  "opening_hours": "06:00-19:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Massive 45-meter tall Buddha statue with panoramic island views",
+    "nl": "Massaal 45 meter hoog Boeddhabeeld met panoramisch uitzicht over het eiland"
+  },
+  "highlights": [
+    "45m Buddha statue",
+    "Panoramic views",
+    "Sunset spot",
+    "Sacred site"
+  ],
+  "image": "/images/attractions/phuket/big-buddha.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Big Buddha Phuket - Top Attraction in Phuket | Go2Thailand",
+      "nl": "Grote Boeddha Phuket - Top Attractie in Phuket | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Big Buddha Phuket in Phuket. Massive 45-meter tall Buddha statue with panoramic island views...",
+      "nl": "Ontdek Grote Boeddha Phuket in Phuket. Massaal 45 meter hoog Boeddhabeeld met panoramisch uitzicht over het eiland..."
+    }
+  },
+  "tags": [
+    "temple",
+    "phuket",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

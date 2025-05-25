@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "ao-nang-beach",
+  "name": {
+    "en": "Ao Nang Beach",
+    "nl": "Ao Nang Beach"
+  },
+  "type": "beach",
+  "city_slug": "krabi",
+  "address": "Ao Nang, Muang Krabi District",
+  "location": {
+    "lat": 8.0333,
+    "lng": 98.8167
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Popular beach town with restaurants shops and gateway to island hopping tours",
+    "nl": "Populaire badplaats met restaurants winkels en toegangspoort tot eilandhopping tours"
+  },
+  "highlights": [
+    "Beach town",
+    "Island hopping",
+    "Restaurants",
+    "Shopping"
+  ],
+  "image": "/images/attractions/krabi/ao-nang.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Ao Nang Beach - Top Attraction in Krabi | Go2Thailand",
+      "nl": "Ao Nang Beach - Top Attractie in Krabi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Ao Nang Beach in Krabi. Popular beach town with restaurants shops and gateway to island hopping tours...",
+      "nl": "Ontdek Ao Nang Beach in Krabi. Populaire badplaats met restaurants winkels en toegangspoort tot eilandhopping tours..."
+    }
+  },
+  "tags": [
+    "beach",
+    "krabi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

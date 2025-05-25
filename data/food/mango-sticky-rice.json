@@ -1,0 +1,65 @@
+{
+  "id": 6,
+  "slug": "mango-sticky-rice",
+  "name": {
+    "en": "Mango Sticky Rice",
+    "nl": "Mango Sticky Rice",
+    "thai": "ข้าวเหนียวมะม่วง"
+  },
+  "category": "dessert",
+  "region": "central",
+  "spice_level": "none",
+  "description": {
+    "en": "Sweet sticky rice served with fresh mango slices and coconut cream",
+    "nl": "Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom"
+  },
+  "ingredients": [
+    "sticky rice",
+    "mango",
+    "coconut milk",
+    "palm sugar",
+    "salt"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian"
+  ],
+  "image": "/images/food/mango-sticky-rice.webp",
+  "preparation_time": "30 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Mango Sticky Rice Recipe | Authentic Thai dessert",
+      "nl": "Mango Sticky Rice Recept | Authentieke Thaise dessert"
+    },
+    "metaDescription": {
+      "en": "Learn about Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Sweet sticky rice served with fresh mango slices and coconut cream...",
+      "nl": "Leer over Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "dessert",
+    "central",
+    "easy",
+    "budget",
+    "sticky-rice",
+    "mango",
+    "coconut-milk"
+  ],
+  "cooking": {
+    "preparation_time": "30 minutes",
+    "difficulty": "easy",
+    "spice_level": "none",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian"
+    ],
+    "price_range": "budget"
+  }
+}

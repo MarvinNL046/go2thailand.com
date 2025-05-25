@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "ramkhamhaeng-national-museum",
+  "name": {
+    "en": "Ramkhamhaeng National Museum",
+    "nl": "Ramkhamhaeng Nationaal Museum"
+  },
+  "type": "museum",
+  "city_slug": "sukhothai",
+  "address": "Sukhothai Historical Park, Sukhothai Province",
+  "location": {
+    "lat": 17.0078,
+    "lng": 99.8237
+  },
+  "opening_hours": "09:00-16:00",
+  "entrance_fee": {
+    "thb": 150,
+    "usd": 4
+  },
+  "description": {
+    "en": "Museum showcasing Sukhothai artifacts including the famous Ramkhamhaeng inscription",
+    "nl": "Museum met Sukhothai artefacten inclusief de beroemde Ramkhamhaeng inscriptie"
+  },
+  "highlights": [
+    "Ramkhamhaeng inscription",
+    "Sukhothai artifacts",
+    "Historical museum",
+    "Cultural heritage"
+  ],
+  "image": "/images/attractions/sukhothai/ramkhamhaeng-museum.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Ramkhamhaeng National Museum - Top Attraction in Sukhothai | Go2Thailand",
+      "nl": "Ramkhamhaeng Nationaal Museum - Top Attractie in Sukhothai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Ramkhamhaeng National Museum in Sukhothai. Museum showcasing Sukhothai artifacts including the famous Ramkhamhaeng inscription...",
+      "nl": "Ontdek Ramkhamhaeng Nationaal Museum in Sukhothai. Museum met Sukhothai artefacten inclusief de beroemde Ramkhamhaeng inscriptie..."
+    }
+  },
+  "tags": [
+    "museum",
+    "sukhothai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

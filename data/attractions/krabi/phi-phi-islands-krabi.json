@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "phi-phi-islands-krabi",
+  "name": {
+    "en": "Phi Phi Islands from Krabi",
+    "nl": "Phi Phi Eilanden vanuit Krabi"
+  },
+  "type": "island",
+  "city_slug": "krabi",
+  "address": "Phi Phi Islands, Krabi Province",
+  "location": {
+    "lat": 7.7407,
+    "lng": 98.7784
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 400,
+    "usd": 12
+  },
+  "description": {
+    "en": "Day trip to famous Phi Phi Islands with Maya Bay snorkeling and stunning scenery",
+    "nl": "Dagtocht naar beroemde Phi Phi Eilanden met Maya Bay snorkelen en prachtige landschappen"
+  },
+  "highlights": [
+    "Maya Bay",
+    "Snorkeling",
+    "Day trips",
+    "Stunning scenery"
+  ],
+  "image": "/images/attractions/krabi/phi-phi-krabi.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Phi Phi Islands from Krabi - Top Attraction in Krabi | Go2Thailand",
+      "nl": "Phi Phi Eilanden vanuit Krabi - Top Attractie in Krabi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Phi Phi Islands from Krabi in Krabi. Day trip to famous Phi Phi Islands with Maya Bay snorkeling and stunning scenery...",
+      "nl": "Ontdek Phi Phi Eilanden vanuit Krabi in Krabi. Dagtocht naar beroemde Phi Phi Eilanden met Maya Bay snorkelen en prachtige landschappen..."
+    }
+  },
+  "tags": [
+    "island",
+    "krabi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

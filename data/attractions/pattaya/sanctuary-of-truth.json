@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "sanctuary-of-truth",
+  "name": {
+    "en": "Sanctuary of Truth",
+    "nl": "Heiligdom van de Waarheid"
+  },
+  "type": "temple",
+  "city_slug": "pattaya",
+  "address": "206/2 Moo 5, Soi Naklua 12, Na Kluea, Bang Lamung",
+  "location": {
+    "lat": 12.9667,
+    "lng": 100.8833
+  },
+  "opening_hours": "08:00-18:00",
+  "entrance_fee": {
+    "thb": 500,
+    "usd": 15
+  },
+  "description": {
+    "en": "Magnificent all-wood temple showcasing traditional Thai craftsmanship and philosophy",
+    "nl": "Prachtige volledig houten tempel die traditioneel Thais vakmanschap en filosofie toont"
+  },
+  "highlights": [
+    "All-wood construction",
+    "Traditional craftsmanship",
+    "Philosophical art",
+    "Cultural heritage"
+  ],
+  "image": "/images/attractions/pattaya/sanctuary-truth.webp",
+  "official_website": "https://www.sanctuaryoftruth.com",
+  "seo": {
+    "metaTitle": {
+      "en": "Sanctuary of Truth - Top Attraction in Pattaya | Go2Thailand",
+      "nl": "Heiligdom van de Waarheid - Top Attractie in Pattaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Sanctuary of Truth in Pattaya. Magnificent all-wood temple showcasing traditional Thai craftsmanship and philosophy...",
+      "nl": "Ontdek Heiligdom van de Waarheid in Pattaya. Prachtige volledig houten tempel die traditioneel Thais vakmanschap en filosofie toont..."
+    }
+  },
+  "tags": [
+    "temple",
+    "pattaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

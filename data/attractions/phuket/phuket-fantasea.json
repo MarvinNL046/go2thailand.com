@@ -1,0 +1,50 @@
+{
+  "id": 10,
+  "slug": "phuket-fantasea",
+  "name": {
+    "en": "Phuket FantaSea",
+    "nl": "Phuket FantaSea"
+  },
+  "type": "entertainment",
+  "city_slug": "phuket",
+  "address": "99 Moo 3, Kamala Beach, Kathu District",
+  "location": {
+    "lat": 7.9667,
+    "lng": 98.2833
+  },
+  "opening_hours": "17:30-23:30",
+  "entrance_fee": {
+    "thb": 1800,
+    "usd": 53
+  },
+  "description": {
+    "en": "Cultural theme park with spectacular shows featuring Thai culture and mythology",
+    "nl": "Cultureel themapark met spectaculaire shows over Thaise cultuur en mythologie"
+  },
+  "highlights": [
+    "Cultural shows",
+    "Thai mythology",
+    "Elephant performances",
+    "Theme park"
+  ],
+  "image": "/images/attractions/phuket/fantasea.webp",
+  "official_website": "https://www.phuket-fantasea.com",
+  "seo": {
+    "metaTitle": {
+      "en": "Phuket FantaSea - Top Attraction in Phuket | Go2Thailand",
+      "nl": "Phuket FantaSea - Top Attractie in Phuket | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Phuket FantaSea in Phuket. Cultural theme park with spectacular shows featuring Thai culture and mythology...",
+      "nl": "Ontdek Phuket FantaSea in Phuket. Cultureel themapark met spectaculaire shows over Thaise cultuur en mythologie..."
+    }
+  },
+  "tags": [
+    "entertainment",
+    "phuket",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": 9,
+  "slug": "pad-see-ew",
+  "name": {
+    "en": "Pad See Ew",
+    "nl": "Pad See Ew",
+    "thai": "ผัดซีอิ๊ว"
+  },
+  "category": "main-dish",
+  "region": "central",
+  "spice_level": "mild",
+  "description": {
+    "en": "Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg",
+    "nl": "Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei"
+  },
+  "ingredients": [
+    "wide rice noodles",
+    "dark soy sauce",
+    "chinese broccoli",
+    "egg",
+    "pork or chicken"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/pad-see-ew.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Pad See Ew Recipe | Authentic Thai main dish",
+      "nl": "Pad See Ew Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Pad See Ew (ผัดซีอิ๊ว) - Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg...",
+      "nl": "Leer over Pad See Ew (ผัดซีอิ๊ว) - Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "central",
+    "mild",
+    "easy",
+    "budget",
+    "wide-rice noodles",
+    "dark-soy sauce",
+    "chinese-broccoli"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg",
+  "detailed_ingredients": [
+    {
+      "name": "wide rice noodles",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "dark soy sauce",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "chinese broccoli",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "egg",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "pork or chicken",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying",
+    "steps_overview": "Traditional Thai cooking method for Pad See Ew",
+    "cooking_tips": [
+      "Use high heat for stir-frying",
+      "Balance sweet, sour, salty, and spicy flavors"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Pad See Ew is a traditional Thai dish from the central region",
+    "cultural_importance": "Popular dish in Thai cuisine",
+    "traditional_occasions": [
+      "Daily meals",
+      "Family gatherings"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Regional Pad See Ew",
+      "description": "Traditional central style preparation"
+    },
+    {
+      "name": "Modern Pad See Ew",
+      "description": "Contemporary interpretation with modern techniques"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables"
+    ],
+    "presentation": "Served hot in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "Varies by preparation",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Balanced flavors"
+    ],
+    "dietary_notes": [
+      "Contains traditional Thai ingredients"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local Thai restaurants",
+      "Traditional eateries"
+    ],
+    "street_food_areas": [
+      "Thai street food markets",
+      "Food courts"
+    ],
+    "price_ranges": {
+      "street_food": "$2-5",
+      "restaurant": "$8-15",
+      "upscale": "$15-25"
+    }
+  },
+  "enhanced_at": "2025-05-25T21:53:04.374Z",
+  "ai_generated": true
+}

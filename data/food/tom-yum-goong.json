@@ -1,0 +1,68 @@
+{
+  "id": 3,
+  "slug": "tom-yum-goong",
+  "name": {
+    "en": "Tom Yum Goong",
+    "nl": "Tom Yum Goong",
+    "thai": "ต้มยำกุ้ง"
+  },
+  "category": "soup",
+  "region": "central",
+  "spice_level": "hot",
+  "description": {
+    "en": "Spicy and sour Thai soup with shrimp lemongrass and lime leaves",
+    "nl": "Pittige en zure Thaise soep met garnalen citroengras en limoenbladeren"
+  },
+  "ingredients": [
+    "shrimp",
+    "lemongrass",
+    "lime leaves",
+    "chili",
+    "lime juice",
+    "fish sauce",
+    "mushrooms"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/tom-yum-goong.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "medium",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Tom Yum Goong Recipe | Authentic Thai soup",
+      "nl": "Tom Yum Goong Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Tom Yum Goong (ต้มยำกุ้ง) - Spicy and sour Thai soup with shrimp lemongrass and lime leaves...",
+      "nl": "Leer over Tom Yum Goong (ต้มยำกุ้ง) - Pittige en zure Thaise soep met garnalen citroengras en limoenbladeren..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "soup",
+    "central",
+    "hot",
+    "medium",
+    "mid-range",
+    "shrimp",
+    "lemongrass",
+    "lime-leaves"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "mid-range"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "id": 4,
+  "slug": "pad-thai",
+  "name": {
+    "en": "Pad Thai",
+    "nl": "Pad Thai",
+    "thai": "ผัดไทย"
+  },
+  "category": "main-dish",
+  "region": "central",
+  "spice_level": "mild",
+  "description": {
+    "en": "Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce",
+    "nl": "Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus"
+  },
+  "ingredients": [
+    "rice noodles",
+    "tofu",
+    "bean sprouts",
+    "tamarind",
+    "fish sauce",
+    "peanuts",
+    "lime"
+  ],
+  "allergens": [
+    "nuts"
+  ],
+  "dietary": [
+    "vegetarian option"
+  ],
+  "image": "/images/food/pad-thai.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Pad Thai Recipe | Authentic Thai main dish",
+      "nl": "Pad Thai Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Pad Thai (ผัดไทย) - Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce...",
+      "nl": "Leer over Pad Thai (ผัดไทย) - Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "central",
+    "mild",
+    "medium",
+    "budget",
+    "rice-noodles",
+    "tofu",
+    "bean-sprouts"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "nuts"
+    ],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce",
+  "detailed_ingredients": [
+    {
+      "name": "rice noodles",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "tofu",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "bean sprouts",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "tamarind",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "fish sauce",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "peanuts",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "lime",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying",
+    "steps_overview": "Traditional Thai cooking method for Pad Thai",
+    "cooking_tips": [
+      "Use high heat for stir-frying",
+      "Balance sweet, sour, salty, and spicy flavors"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Pad Thai is a traditional Thai dish from the central region",
+    "cultural_importance": "Popular dish in Thai cuisine",
+    "traditional_occasions": [
+      "Daily meals",
+      "Family gatherings"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Regional Pad Thai",
+      "description": "Traditional central style preparation"
+    },
+    {
+      "name": "Modern Pad Thai",
+      "description": "Contemporary interpretation with modern techniques"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables"
+    ],
+    "presentation": "Served hot in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "Varies by preparation",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Balanced flavors"
+    ],
+    "dietary_notes": [
+      "vegetarian option"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local Thai restaurants",
+      "Traditional eateries"
+    ],
+    "street_food_areas": [
+      "Thai street food markets",
+      "Food courts"
+    ],
+    "price_ranges": {
+      "street_food": "$2-5",
+      "restaurant": "$8-15",
+      "upscale": "$15-25"
+    }
+  },
+  "enhanced_at": "2025-05-25T21:49:44.615Z",
+  "ai_generated": true
+}

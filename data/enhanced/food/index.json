@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "slug": "pad-krapow",
+    "name": {
+      "en": "Pad Krapow",
+      "nl": "Pad Krapow",
+      "thai": "ผัดกะเพรา"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "hot",
+    "image": "/images/food/pad-krapow.webp",
+    "difficulty": "easy",
+    "preparation_time": "15 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "thai basil",
+      "minced pork",
+      "garlic"
+    ],
+    "enhanced": true,
+    "enhanced_at": "2025-05-25T21:50:37.969Z",
+    "ai_generated": true
+  },
+  {
+    "id": 2,
+    "slug": "som-tam",
+    "name": {
+      "en": "Som Tam",
+      "nl": "Som Tam",
+      "thai": "ส้มตำ"
+    },
+    "category": "salad",
+    "region": "northeastern",
+    "spice_level": "medium",
+    "image": "/images/food/som-tam.webp",
+    "difficulty": "easy",
+    "preparation_time": "10 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "green papaya",
+      "tomatoes",
+      "lime juice"
+    ],
+    "enhanced": true,
+    "enhanced_at": "2025-05-25T21:51:02.697Z",
+    "ai_generated": true
+  },
+  {
+    "id": 3,
+    "slug": "tom-yum-goong",
+    "name": {
+      "en": "Tom Yum Goong",
+      "nl": "Tom Yum Goong",
+      "thai": "ต้มยำกุ้ง"
+    },
+    "category": "soup",
+    "region": "central",
+    "spice_level": "hot",
+    "image": "/images/food/tom-yum-goong.webp",
+    "difficulty": "medium",
+    "preparation_time": "20 minutes",
+    "price_range": "mid-range",
+    "ingredients": [
+      "shrimp",
+      "lemongrass",
+      "lime leaves"
+    ],
+    "enhanced": true,
+    "enhanced_at": "2025-05-25T21:51:23.818Z",
+    "ai_generated": true
+  },
+  {
+    "id": 4,
+    "slug": "pad-thai",
+    "name": {
+      "en": "Pad Thai",
+      "nl": "Pad Thai",
+      "thai": "ผัดไทย"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "mild",
+    "image": "/images/food/pad-thai.webp",
+    "difficulty": "medium",
+    "preparation_time": "15 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "rice noodles",
+      "tofu",
+      "bean sprouts"
+    ],
+    "enhanced": true,
+    "enhanced_at": "2025-05-25T21:49:44.615Z",
+    "ai_generated": true
+  },
+  {
+    "id": 5,
+    "slug": "green-curry",
+    "name": {
+      "en": "Green Curry",
+      "nl": "Groene Curry",
+      "thai": "แกงเขียวหวาน"
+    },
+    "category": "curry",
+    "region": "central",
+    "spice_level": "hot",
+    "image": "/images/food/green-curry.webp",
+    "difficulty": "medium",
+    "preparation_time": "25 minutes",
+    "price_range": "mid-range",
+    "ingredients": [
+      "green curry paste",
+      "coconut milk",
+      "thai eggplant"
+    ],
+    "enhanced": true,
+    "enhanced_at": "2025-05-25T21:51:45.741Z",
+    "ai_generated": true
+  },
+  {
+    "id": 6,
+    "slug": "mango-sticky-rice",
+    "name": {
+      "en": "Mango Sticky Rice",
+      "nl": "Mango Sticky Rice",
+      "thai": "ข้าวเหนียวมะม่วง"
+    },
+    "category": "dessert",
+    "region": "central",
+    "spice_level": "none",
+    "image": "/images/food/mango-sticky-rice.webp",
+    "difficulty": "easy",
+    "preparation_time": "30 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "sticky rice",
+      "mango",
+      "coconut milk"
+    ],
+    "enhanced": true,
+    "enhanced_at": "2025-05-25T21:52:03.357Z",
+    "ai_generated": true
+  },
+  {
+    "id": 7,
+    "slug": "massaman-curry",
+    "name": {
+      "en": "Massaman Curry",
+      "nl": "Massaman Curry",
+      "thai": "แกงมัสมั่น"
+    },
+    "category": "curry",
+    "region": "southern",
+    "spice_level": "medium",
+    "image": "/images/food/massaman-curry.webp",
+    "difficulty": "medium",
+    "preparation_time": "45 minutes",
+    "price_range": "mid-range",
+    "ingredients": [
+      "massaman paste",
+      "coconut milk",
+      "beef"
+    ],
+    "enhanced": true,
+    "enhanced_at": "2025-05-25T21:52:21.686Z",
+    "ai_generated": true
+  },
+  {
+    "id": 8,
+    "slug": "larb",
+    "name": {
+      "en": "Larb",
+      "nl": "Larb",
+      "thai": "ลาบ"
+    },
+    "category": "salad",
+    "region": "northeastern",
+    "spice_level": "hot",
+    "image": "/images/food/larb.webp",
+    "difficulty": "easy",
+    "preparation_time": "15 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "minced pork",
+      "mint",
+      "cilantro"
+    ],
+    "enhanced": true,
+    "enhanced_at": "2025-05-25T21:52:46.386Z",
+    "ai_generated": true
+  },
+  {
+    "id": 9,
+    "slug": "pad-see-ew",
+    "name": {
+      "en": "Pad See Ew",
+      "nl": "Pad See Ew",
+      "thai": "ผัดซีอิ๊ว"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "mild",
+    "image": "/images/food/pad-see-ew.webp",
+    "difficulty": "easy",
+    "preparation_time": "15 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "wide rice noodles",
+      "dark soy sauce",
+      "chinese broccoli"
+    ],
+    "enhanced": true,
+    "enhanced_at": "2025-05-25T21:53:04.374Z",
+    "ai_generated": true
+  },
+  {
+    "id": 10,
+    "slug": "thai-fried-rice",
+    "name": {
+      "en": "Thai Fried Rice",
+      "nl": "Thaise Gebakken Rijst",
+      "thai": "ข้าวผัด"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "mild",
+    "image": "/images/food/thai-fried-rice.webp",
+    "difficulty": "easy",
+    "preparation_time": "12 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "jasmine rice",
+      "fish sauce",
+      "garlic"
+    ],
+    "enhanced": true,
+    "enhanced_at": "2025-05-25T21:53:24.213Z",
+    "ai_generated": true
+  }
+]

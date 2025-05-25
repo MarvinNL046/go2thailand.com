@@ -1,0 +1,173 @@
+{
+  "id": 5,
+  "slug": "green-curry",
+  "name": {
+    "en": "Green Curry",
+    "nl": "Groene Curry",
+    "thai": "แกงเขียวหวาน"
+  },
+  "category": "curry",
+  "region": "central",
+  "spice_level": "hot",
+  "description": {
+    "en": "Spicy green curry with coconut milk Thai eggplant and basil",
+    "nl": "Pittige groene curry met kokosmelk Thaise aubergine en basilicum"
+  },
+  "ingredients": [
+    "green curry paste",
+    "coconut milk",
+    "thai eggplant",
+    "basil",
+    "fish sauce",
+    "palm sugar"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian option"
+  ],
+  "image": "/images/food/green-curry.webp",
+  "preparation_time": "25 minutes",
+  "difficulty": "medium",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Green Curry Recipe | Authentic Thai curry",
+      "nl": "Groene Curry Recept | Authentieke Thaise curry"
+    },
+    "metaDescription": {
+      "en": "Learn about Green Curry (แกงเขียวหวาน) - Spicy green curry with coconut milk Thai eggplant and basil...",
+      "nl": "Leer over Groene Curry (แกงเขียวหวาน) - Pittige groene curry met kokosmelk Thaise aubergine en basilicum..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "curry",
+    "central",
+    "hot",
+    "medium",
+    "mid-range",
+    "green-curry paste",
+    "coconut-milk",
+    "thai-eggplant"
+  ],
+  "cooking": {
+    "preparation_time": "25 minutes",
+    "difficulty": "medium",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "price_range": "mid-range"
+  },
+  "enhanced_description": "Spicy green curry with coconut milk Thai eggplant and basil",
+  "detailed_ingredients": [
+    {
+      "name": "green curry paste",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "coconut milk",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "thai eggplant",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "basil",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "fish sauce",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "palm sugar",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Simmering",
+    "steps_overview": "Traditional Thai cooking method for Green Curry",
+    "cooking_tips": [
+      "Use high heat for stir-frying",
+      "Balance sweet, sour, salty, and spicy flavors"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Green Curry is a traditional Thai dish from the central region",
+    "cultural_importance": "Popular dish in Thai cuisine",
+    "traditional_occasions": [
+      "Daily meals",
+      "Family gatherings"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Regional Green Curry",
+      "description": "Traditional central style preparation"
+    },
+    {
+      "name": "Modern Green Curry",
+      "description": "Contemporary interpretation with modern techniques"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables"
+    ],
+    "presentation": "Served hot in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "Varies by preparation",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Balanced flavors"
+    ],
+    "dietary_notes": [
+      "vegetarian option"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local Thai restaurants",
+      "Traditional eateries"
+    ],
+    "street_food_areas": [
+      "Thai street food markets",
+      "Food courts"
+    ],
+    "price_ranges": {
+      "street_food": "$2-5",
+      "restaurant": "$8-15",
+      "upscale": "$15-25"
+    }
+  },
+  "enhanced_at": "2025-05-25T21:51:45.741Z",
+  "ai_generated": true
+}

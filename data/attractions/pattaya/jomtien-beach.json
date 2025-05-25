@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "jomtien-beach",
+  "name": {
+    "en": "Jomtien Beach",
+    "nl": "Jomtien Beach"
+  },
+  "type": "beach",
+  "city_slug": "pattaya",
+  "address": "Jomtien Beach Road, Bang Lamung District",
+  "location": {
+    "lat": 12.8833,
+    "lng": 100.8833
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Quieter beach alternative to Pattaya with water sports and family-friendly atmosphere",
+    "nl": "Rustiger strand alternatief voor Pattaya met watersport en familie-vriendelijke sfeer"
+  },
+  "highlights": [
+    "Family-friendly",
+    "Water sports",
+    "Quieter atmosphere",
+    "Beachfront dining"
+  ],
+  "image": "/images/attractions/pattaya/jomtien-beach.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Jomtien Beach - Top Attraction in Pattaya | Go2Thailand",
+      "nl": "Jomtien Beach - Top Attractie in Pattaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Jomtien Beach in Pattaya. Quieter beach alternative to Pattaya with water sports and family-friendly atmosphere...",
+      "nl": "Ontdek Jomtien Beach in Pattaya. Rustiger strand alternatief voor Pattaya met watersport en familie-vriendelijke sfeer..."
+    }
+  },
+  "tags": [
+    "beach",
+    "pattaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

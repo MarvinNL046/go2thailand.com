@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "wat-mahathat",
+  "name": {
+    "en": "Wat Mahathat",
+    "nl": "Wat Mahathat"
+  },
+  "type": "temple",
+  "city_slug": "ayutthaya",
+  "address": "Chikun Road, Phra Nakhon Si Ayutthaya",
+  "location": {
+    "lat": 14.3569,
+    "lng": 100.5681
+  },
+  "opening_hours": "08:00-18:00",
+  "entrance_fee": {
+    "thb": 50,
+    "usd": 1
+  },
+  "description": {
+    "en": "Famous temple ruins with Buddha head entwined in tree roots",
+    "nl": "Beroemde tempelruïnes met Boeddhahoofd verweven in boomwortels"
+  },
+  "highlights": [
+    "Buddha head in tree",
+    "Ancient ruins",
+    "Iconic photo spot",
+    "Historical temple"
+  ],
+  "image": "/images/attractions/ayutthaya/wat-mahathat.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Mahathat - Top Attraction in Ayutthaya | Go2Thailand",
+      "nl": "Wat Mahathat - Top Attractie in Ayutthaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Mahathat in Ayutthaya. Famous temple ruins with Buddha head entwined in tree roots...",
+      "nl": "Ontdek Wat Mahathat in Ayutthaya. Beroemde tempelruïnes met Boeddhahoofd verweven in boomwortels..."
+    }
+  },
+  "tags": [
+    "temple",
+    "ayutthaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

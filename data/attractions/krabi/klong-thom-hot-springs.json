@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "slug": "klong-thom-hot-springs",
+  "name": {
+    "en": "Klong Thom Hot Springs",
+    "nl": "Klong Thom Warmwaterbronnen"
+  },
+  "type": "nature",
+  "city_slug": "krabi",
+  "address": "Klong Thom District, Krabi",
+  "location": {
+    "lat": 7.9167,
+    "lng": 99.2667
+  },
+  "opening_hours": "08:00-18:00",
+  "entrance_fee": {
+    "thb": 90,
+    "usd": 3
+  },
+  "description": {
+    "en": "Natural geothermal springs in tropical forest setting perfect for relaxation",
+    "nl": "Natuurlijke geothermische bronnen in tropisch bos perfect voor ontspanning"
+  },
+  "highlights": [
+    "Geothermal springs",
+    "Tropical forest",
+    "Natural pools",
+    "Therapeutic waters"
+  ],
+  "image": "/images/attractions/krabi/klong-thom.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Klong Thom Hot Springs - Top Attraction in Krabi | Go2Thailand",
+      "nl": "Klong Thom Warmwaterbronnen - Top Attractie in Krabi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Klong Thom Hot Springs in Krabi. Natural geothermal springs in tropical forest setting perfect for relaxation...",
+      "nl": "Ontdek Klong Thom Warmwaterbronnen in Krabi. Natuurlijke geothermische bronnen in tropisch bos perfect voor ontspanning..."
+    }
+  },
+  "tags": [
+    "nature",
+    "krabi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "wat-mahathat-sukhothai",
+  "name": {
+    "en": "Wat Mahathat Sukhothai",
+    "nl": "Wat Mahathat Sukhothai"
+  },
+  "type": "temple",
+  "city_slug": "sukhothai",
+  "address": "Sukhothai Historical Park Central Zone",
+  "location": {
+    "lat": 17.0078,
+    "lng": 99.8237
+  },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Main temple of Sukhothai with iconic lotus-bud chedi and Buddha statues",
+    "nl": "Hoofdtempel van Sukhothai met iconische lotus-knop chedi en Boeddhabeelden"
+  },
+  "highlights": [
+    "Lotus-bud chedi",
+    "Buddha statues",
+    "Main temple",
+    "Sukhothai architecture"
+  ],
+  "image": "/images/attractions/sukhothai/wat-mahathat.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Mahathat Sukhothai - Top Attraction in Sukhothai | Go2Thailand",
+      "nl": "Wat Mahathat Sukhothai - Top Attractie in Sukhothai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Mahathat Sukhothai in Sukhothai. Main temple of Sukhothai with iconic lotus-bud chedi and Buddha statues...",
+      "nl": "Ontdek Wat Mahathat Sukhothai in Sukhothai. Hoofdtempel van Sukhothai met iconische lotus-knop chedi en Boeddhabeelden..."
+    }
+  },
+  "tags": [
+    "temple",
+    "sukhothai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

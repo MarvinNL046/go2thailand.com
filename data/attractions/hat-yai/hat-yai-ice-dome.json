@@ -1,0 +1,50 @@
+{
+  "id": 10,
+  "slug": "hat-yai-ice-dome",
+  "name": {
+    "en": "Hat Yai Ice Dome",
+    "nl": "Hat Yai IJs Dome"
+  },
+  "type": "attraction",
+  "city_slug": "hat-yai",
+  "address": "Central Festival Hat Yai, 4th Floor",
+  "location": {
+    "lat": 7.0167,
+    "lng": 100.4833
+  },
+  "opening_hours": "10:00-21:00",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "Indoor ice attraction with sculptures slides and sub-zero temperatures",
+    "nl": "Indoor ijs attractie met sculpturen glijbanen en temperaturen onder nul"
+  },
+  "highlights": [
+    "Ice sculptures",
+    "Indoor attraction",
+    "Sub-zero experience",
+    "Family fun"
+  ],
+  "image": "/images/attractions/hat-yai/ice-dome.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Hat Yai Ice Dome - Top Attraction in Hat Yai | Go2Thailand",
+      "nl": "Hat Yai IJs Dome - Top Attractie in Hat Yai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Hat Yai Ice Dome in Hat Yai. Indoor ice attraction with sculptures slides and sub-zero temperatures...",
+      "nl": "Ontdek Hat Yai IJs Dome in Hat Yai. Indoor ijs attractie met sculpturen glijbanen en temperaturen onder nul..."
+    }
+  },
+  "tags": [
+    "attraction",
+    "hat-yai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

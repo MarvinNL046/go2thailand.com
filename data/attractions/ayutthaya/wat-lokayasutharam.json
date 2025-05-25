@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "wat-lokayasutharam",
+  "name": {
+    "en": "Wat Lokayasutharam",
+    "nl": "Wat Lokayasutharam"
+  },
+  "type": "temple",
+  "city_slug": "ayutthaya",
+  "address": "Pratuchai Subdistrict, Phra Nakhon Si Ayutthaya",
+  "location": {
+    "lat": 14.3542,
+    "lng": 100.5542
+  },
+  "opening_hours": "08:00-18:00",
+  "entrance_fee": {
+    "thb": 20,
+    "usd": 1
+  },
+  "description": {
+    "en": "Temple famous for massive 42-meter long reclining Buddha statue",
+    "nl": "Tempel beroemd om massaal 42 meter lang liggend Boeddhabeeld"
+  },
+  "highlights": [
+    "42m reclining Buddha",
+    "Outdoor statue",
+    "Ancient temple",
+    "Peaceful atmosphere"
+  ],
+  "image": "/images/attractions/ayutthaya/wat-lokayasutharam.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Lokayasutharam - Top Attraction in Ayutthaya | Go2Thailand",
+      "nl": "Wat Lokayasutharam - Top Attractie in Ayutthaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Lokayasutharam in Ayutthaya. Temple famous for massive 42-meter long reclining Buddha statue...",
+      "nl": "Ontdek Wat Lokayasutharam in Ayutthaya. Tempel beroemd om massaal 42 meter lang liggend Boeddhabeeld..."
+    }
+  },
+  "tags": [
+    "temple",
+    "ayutthaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

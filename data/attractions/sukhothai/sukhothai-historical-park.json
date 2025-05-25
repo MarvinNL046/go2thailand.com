@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "sukhothai-historical-park",
+  "name": {
+    "en": "Sukhothai Historical Park",
+    "nl": "Sukhothai Historisch Park"
+  },
+  "type": "historic",
+  "city_slug": "sukhothai",
+  "address": "Sukhothai Historical Park, Sukhothai Province",
+  "location": {
+    "lat": 17.0078,
+    "lng": 99.8237
+  },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "UNESCO World Heritage site with ruins of Thailand's first capital and ancient temples",
+    "nl": "UNESCO Werelderfgoed met ruïnes van Thailand's eerste hoofdstad en oude tempels"
+  },
+  "highlights": [
+    "UNESCO World Heritage",
+    "First Thai capital",
+    "Ancient temples",
+    "Historical ruins"
+  ],
+  "image": "/images/attractions/sukhothai/historical-park.webp",
+  "official_website": "https://www.sukhothai.go.th",
+  "seo": {
+    "metaTitle": {
+      "en": "Sukhothai Historical Park - Top Attraction in Sukhothai | Go2Thailand",
+      "nl": "Sukhothai Historisch Park - Top Attractie in Sukhothai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Sukhothai Historical Park in Sukhothai. UNESCO World Heritage site with ruins of Thailand's first capital and ancient temples...",
+      "nl": "Ontdek Sukhothai Historisch Park in Sukhothai. UNESCO Werelderfgoed met ruïnes van Thailand's eerste hoofdstad en oude tempels..."
+    }
+  },
+  "tags": [
+    "historic",
+    "sukhothai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

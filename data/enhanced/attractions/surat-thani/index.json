@@ -1,0 +1,239 @@
+{
+  "city_slug": "surat-thani",
+  "city_name": "Surat Thani",
+  "total_attractions": 10,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "koh-samui-ferry",
+      "name": {
+        "en": "Koh Samui Ferry Terminal",
+        "nl": "Koh Samui Veerboot Terminal"
+      },
+      "type": "transport",
+      "image": "/images/attractions/surat-thani/ferry-terminal.webp",
+      "description": {
+        "en": "Main ferry terminal for trips to Koh Samui Koh Phangan and Koh Tao",
+        "nl": "Hoofdveerbootterminal voor reizen naar Koh Samui Koh Phangan en Koh Tao"
+      },
+      "entrance_fee": {
+        "thb": 150,
+        "usd": 4
+      },
+      "highlights": [
+        "Island gateway",
+        "Ferry services",
+        "Island hopping"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "surat-thani-city-pillar-shrine",
+      "name": {
+        "en": "Surat Thani City Pillar Shrine",
+        "nl": "Surat Thani Stadspilaar Heiligdom"
+      },
+      "type": "temple",
+      "image": "/images/attractions/surat-thani/city-pillar.webp",
+      "description": {
+        "en": "Important city shrine dedicated to the guardian spirit of Surat Thani",
+        "nl": "Belangrijk stadsheiligdom gewijd aan de beschermgeest van Surat Thani"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "City guardian spirit",
+        "Local shrine",
+        "Cultural significance"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "tapee-river",
+      "name": {
+        "en": "Tapee River",
+        "nl": "Tapee Rivier"
+      },
+      "type": "nature",
+      "image": "/images/attractions/surat-thani/tapee-river.webp",
+      "description": {
+        "en": "Scenic river running through the city perfect for boat trips and riverside walks",
+        "nl": "Schilderachtige rivier door de stad perfect voor boottochten en wandelingen langs de rivier"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Scenic river",
+        "Boat trips",
+        "Riverside walks"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "surat-thani-night-market",
+      "name": {
+        "en": "Surat Thani Night Market",
+        "nl": "Surat Thani Nachtmarkt"
+      },
+      "type": "market",
+      "image": "/images/attractions/surat-thani/night-market.webp",
+      "description": {
+        "en": "Local night market with southern Thai cuisine fresh seafood and local products",
+        "nl": "Lokale nachtmarkt met Zuid-Thaise keuken verse zeevruchten en lokale producten"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Southern Thai cuisine",
+        "Fresh seafood",
+        "Local products"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "chaiya-national-museum",
+      "name": {
+        "en": "Chaiya National Museum",
+        "nl": "Chaiya Nationaal Museum"
+      },
+      "type": "museum",
+      "image": "/images/attractions/surat-thani/chaiya-museum.webp",
+      "description": {
+        "en": "Museum showcasing ancient Srivijaya kingdom artifacts and local history",
+        "nl": "Museum met oude Srivijaya koninkrijk artefacten en lokale geschiedenis"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Srivijaya artifacts",
+        "Ancient kingdom",
+        "Local history"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "wat-phra-borommathat-chaiya",
+      "name": {
+        "en": "Wat Phra Borommathat Chaiya",
+        "nl": "Wat Phra Borommathat Chaiya"
+      },
+      "type": "temple",
+      "image": "/images/attractions/surat-thani/wat-chaiya.webp",
+      "description": {
+        "en": "Ancient temple with 1200-year-old chedi from Srivijaya period",
+        "nl": "Oude tempel met 1200 jaar oude chedi uit de Srivijaya periode"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "1200-year-old chedi",
+        "Srivijaya period",
+        "Ancient temple"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "ratchaprapha-dam",
+      "name": {
+        "en": "Ratchaprapha Dam (Cheow Lan Lake)",
+        "nl": "Ratchaprapha Dam (Cheow Lan Meer)"
+      },
+      "type": "nature",
+      "image": "/images/attractions/surat-thani/ratchaprapha-dam.webp",
+      "description": {
+        "en": "Stunning emerald lake with limestone karsts floating bungalows and wildlife",
+        "nl": "Prachtig smaragdgroen meer met kalkstenen karst drijvende bungalows en wilde dieren"
+      },
+      "entrance_fee": {
+        "thb": 300,
+        "usd": 9
+      },
+      "highlights": [
+        "Emerald lake",
+        "Limestone karsts",
+        "Floating bungalows"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "khao-sok-national-park",
+      "name": {
+        "en": "Khao Sok National Park",
+        "nl": "Khao Sok Nationaal Park"
+      },
+      "type": "nature",
+      "image": "/images/attractions/surat-thani/khao-sok.webp",
+      "description": {
+        "en": "Ancient rainforest with diverse wildlife limestone cliffs and jungle trekking",
+        "nl": "Oud regenwoud met diverse wilde dieren kalkstenen kliffen en jungle trekking"
+      },
+      "entrance_fee": {
+        "thb": 300,
+        "usd": 9
+      },
+      "highlights": [
+        "Ancient rainforest",
+        "Diverse wildlife",
+        "Limestone cliffs"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "surat-thani-walking-street",
+      "name": {
+        "en": "Surat Thani Walking Street",
+        "nl": "Surat Thani Wandelstraat"
+      },
+      "type": "market",
+      "image": "/images/attractions/surat-thani/walking-street.webp",
+      "description": {
+        "en": "Weekend walking street market with local food handicrafts and live music",
+        "nl": "Weekend wandelstraatmarkt met lokaal eten handwerk en live muziek"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Weekend market",
+        "Local food",
+        "Handicrafts"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "ban-don-bay",
+      "name": {
+        "en": "Ban Don Bay",
+        "nl": "Ban Don Baai"
+      },
+      "type": "nature",
+      "image": "/images/attractions/surat-thani/ban-don-bay.webp",
+      "description": {
+        "en": "Scenic coastal bay with mangrove forests fishing villages and bird watching",
+        "nl": "Schilderachtige kustbaai met mangrovebossen vissersdorpen en vogels kijken"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Coastal bay",
+        "Mangrove forests",
+        "Fishing villages"
+      ]
+    }
+  ],
+  "enhanced_at": "2025-05-25T22:55:47.778Z",
+  "enhanced_count": 10
+}

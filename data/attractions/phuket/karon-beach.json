@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "slug": "karon-beach",
+  "name": {
+    "en": "Karon Beach",
+    "nl": "Karon Beach"
+  },
+  "type": "beach",
+  "city_slug": "phuket",
+  "address": "Karon, Muang Phuket District",
+  "location": {
+    "lat": 7.8167,
+    "lng": 98.2833
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Long sandy beach with fewer crowds perfect for relaxation and water sports",
+    "nl": "Lang zandstrand met minder drukte perfect voor ontspanning en watersport"
+  },
+  "highlights": [
+    "Less crowded",
+    "Long sandy beach",
+    "Water sports",
+    "Beachfront resorts"
+  ],
+  "image": "/images/attractions/phuket/karon-beach.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Karon Beach - Top Attraction in Phuket | Go2Thailand",
+      "nl": "Karon Beach - Top Attractie in Phuket | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Karon Beach in Phuket. Long sandy beach with fewer crowds perfect for relaxation and water sports...",
+      "nl": "Ontdek Karon Beach in Phuket. Lang zandstrand met minder drukte perfect voor ontspanning en watersport..."
+    }
+  },
+  "tags": [
+    "beach",
+    "phuket",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 10,
+  "slug": "ayutthaya-elephant-palace",
+  "name": {
+    "en": "Ayutthaya Elephant Palace",
+    "nl": "Ayutthaya Olifanten Paleis"
+  },
+  "type": "attraction",
+  "city_slug": "ayutthaya",
+  "address": "99 Moo 4, Tambon Samphao Lom, Phra Nakhon Si Ayutthaya",
+  "location": {
+    "lat": 14.3167,
+    "lng": 100.5833
+  },
+  "opening_hours": "08:30-17:30",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "Elephant camp offering rides and shows in historical setting",
+    "nl": "Olifantenkamp met ritten en shows in historische omgeving"
+  },
+  "highlights": [
+    "Elephant rides",
+    "Cultural shows",
+    "Historical setting",
+    "Traditional experience"
+  ],
+  "image": "/images/attractions/ayutthaya/elephant-palace.webp",
+  "official_website": "https://www.elephantpalace.com",
+  "seo": {
+    "metaTitle": {
+      "en": "Ayutthaya Elephant Palace - Top Attraction in Ayutthaya | Go2Thailand",
+      "nl": "Ayutthaya Olifanten Paleis - Top Attractie in Ayutthaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Ayutthaya Elephant Palace in Ayutthaya. Elephant camp offering rides and shows in historical setting...",
+      "nl": "Ontdek Ayutthaya Olifanten Paleis in Ayutthaya. Olifantenkamp met ritten en shows in historische omgeving..."
+    }
+  },
+  "tags": [
+    "attraction",
+    "ayutthaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

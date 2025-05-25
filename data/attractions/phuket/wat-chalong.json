@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "slug": "wat-chalong",
+  "name": {
+    "en": "Wat Chalong",
+    "nl": "Wat Chalong"
+  },
+  "type": "temple",
+  "city_slug": "phuket",
+  "address": "70 Chao Fah Tawan Tok Road, Chalong, Muang Phuket",
+  "location": {
+    "lat": 7.8311,
+    "lng": 98.3378
+  },
+  "opening_hours": "07:00-17:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Most important Buddhist temple in Phuket with beautiful architecture and relics",
+    "nl": "Belangrijkste boeddhistische tempel van Phuket met prachtige architectuur en relieken"
+  },
+  "highlights": [
+    "Sacred temple",
+    "Buddhist relics",
+    "Traditional architecture",
+    "Spiritual site"
+  ],
+  "image": "/images/attractions/phuket/wat-chalong.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Chalong - Top Attraction in Phuket | Go2Thailand",
+      "nl": "Wat Chalong - Top Attractie in Phuket | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Chalong in Phuket. Most important Buddhist temple in Phuket with beautiful architecture and relics...",
+      "nl": "Ontdek Wat Chalong in Phuket. Belangrijkste boeddhistische tempel van Phuket met prachtige architectuur en relieken..."
+    }
+  },
+  "tags": [
+    "temple",
+    "phuket",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

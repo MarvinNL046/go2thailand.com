@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "patong-beach",
+  "name": {
+    "en": "Patong Beach",
+    "nl": "Patong Beach"
+  },
+  "type": "beach",
+  "city_slug": "phuket",
+  "address": "Patong, Kathu District, Phuket",
+  "location": {
+    "lat": 7.8967,
+    "lng": 98.2967
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Most famous beach in Phuket with vibrant nightlife water sports and restaurants",
+    "nl": "Beroemdste strand van Phuket met bruisend nachtleven watersport en restaurants"
+  },
+  "highlights": [
+    "Vibrant nightlife",
+    "Water sports",
+    "Beach clubs",
+    "Shopping"
+  ],
+  "image": "/images/attractions/phuket/patong-beach.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Patong Beach - Top Attraction in Phuket | Go2Thailand",
+      "nl": "Patong Beach - Top Attractie in Phuket | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Patong Beach in Phuket. Most famous beach in Phuket with vibrant nightlife water sports and restaurants...",
+      "nl": "Ontdek Patong Beach in Phuket. Beroemdste strand van Phuket met bruisend nachtleven watersport en restaurants..."
+    }
+  },
+  "tags": [
+    "beach",
+    "phuket",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

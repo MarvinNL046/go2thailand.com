@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "railay-beach",
+  "name": {
+    "en": "Railay Beach",
+    "nl": "Railay Beach"
+  },
+  "type": "beach",
+  "city_slug": "krabi",
+  "address": "Railay Peninsula, Ao Nang, Muang Krabi",
+  "location": {
+    "lat": 8.0167,
+    "lng": 98.8333
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Stunning peninsula beach accessible only by boat with limestone cliffs and rock climbing",
+    "nl": "Prachtig schiereiland strand alleen bereikbaar per boot met kalkstenen kliffen en rotsklimmen"
+  },
+  "highlights": [
+    "Limestone cliffs",
+    "Rock climbing",
+    "Boat access only",
+    "Pristine beaches"
+  ],
+  "image": "/images/attractions/krabi/railay-beach.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Railay Beach - Top Attraction in Krabi | Go2Thailand",
+      "nl": "Railay Beach - Top Attractie in Krabi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Railay Beach in Krabi. Stunning peninsula beach accessible only by boat with limestone cliffs and rock climbing...",
+      "nl": "Ontdek Railay Beach in Krabi. Prachtig schiereiland strand alleen bereikbaar per boot met kalkstenen kliffen en rotsklimmen..."
+    }
+  },
+  "tags": [
+    "beach",
+    "krabi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

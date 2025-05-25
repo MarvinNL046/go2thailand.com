@@ -1,0 +1,269 @@
+[
+  {
+    "id": 1,
+    "slug": "pad-krapow",
+    "name": {
+      "en": "Pad Krapow",
+      "nl": "Pad Krapow",
+      "thai": "ผัดกะเพรา"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "hot",
+    "description": {
+      "en": "Stir-fried Thai basil with minced pork or chicken served over rice with a fried egg",
+      "nl": "Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei"
+    },
+    "ingredients": [
+      "thai basil",
+      "minced pork",
+      "garlic",
+      "chili",
+      "fish sauce",
+      "soy sauce",
+      "rice",
+      "egg"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/pad-krapow.webp",
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Pad Krapow Recipe | Authentic Thai main dish",
+        "nl": "Pad Krapow Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Pad Krapow (ผัดกะเพรา) - Stir-fried Thai basil with minced pork or chicken served over rice with a fried egg...",
+        "nl": "Leer over Pad Krapow (ผัดกะเพรา) - Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "central",
+      "hot",
+      "easy",
+      "budget",
+      "thai-basil",
+      "minced-pork",
+      "garlic"
+    ],
+    "cooking": {
+      "preparation_time": "15 minutes",
+      "difficulty": "easy",
+      "spice_level": "hot",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 4,
+    "slug": "pad-thai",
+    "name": {
+      "en": "Pad Thai",
+      "nl": "Pad Thai",
+      "thai": "ผัดไทย"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "mild",
+    "description": {
+      "en": "Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce",
+      "nl": "Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus"
+    },
+    "ingredients": [
+      "rice noodles",
+      "tofu",
+      "bean sprouts",
+      "tamarind",
+      "fish sauce",
+      "peanuts",
+      "lime"
+    ],
+    "allergens": [
+      "nuts"
+    ],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "image": "/images/food/pad-thai.webp",
+    "preparation_time": "15 minutes",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Pad Thai Recipe | Authentic Thai main dish",
+        "nl": "Pad Thai Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Pad Thai (ผัดไทย) - Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce...",
+        "nl": "Leer over Pad Thai (ผัดไทย) - Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "central",
+      "mild",
+      "medium",
+      "budget",
+      "rice-noodles",
+      "tofu",
+      "bean-sprouts"
+    ],
+    "cooking": {
+      "preparation_time": "15 minutes",
+      "difficulty": "medium",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "nuts"
+      ],
+      "dietary": [
+        "vegetarian option"
+      ],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 9,
+    "slug": "pad-see-ew",
+    "name": {
+      "en": "Pad See Ew",
+      "nl": "Pad See Ew",
+      "thai": "ผัดซีอิ๊ว"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "mild",
+    "description": {
+      "en": "Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg",
+      "nl": "Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei"
+    },
+    "ingredients": [
+      "wide rice noodles",
+      "dark soy sauce",
+      "chinese broccoli",
+      "egg",
+      "pork or chicken"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/pad-see-ew.webp",
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Pad See Ew Recipe | Authentic Thai main dish",
+        "nl": "Pad See Ew Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Pad See Ew (ผัดซีอิ๊ว) - Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg...",
+        "nl": "Leer over Pad See Ew (ผัดซีอิ๊ว) - Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "central",
+      "mild",
+      "easy",
+      "budget",
+      "wide-rice noodles",
+      "dark-soy sauce",
+      "chinese-broccoli"
+    ],
+    "cooking": {
+      "preparation_time": "15 minutes",
+      "difficulty": "easy",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 10,
+    "slug": "thai-fried-rice",
+    "name": {
+      "en": "Thai Fried Rice",
+      "nl": "Thaise Gebakken Rijst",
+      "thai": "ข้าวผัด"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "mild",
+    "description": {
+      "en": "Fragrant fried rice with jasmine rice fish sauce and fresh vegetables",
+      "nl": "Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten"
+    },
+    "ingredients": [
+      "jasmine rice",
+      "fish sauce",
+      "garlic",
+      "onion",
+      "tomato",
+      "cucumber",
+      "lime"
+    ],
+    "allergens": [],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "image": "/images/food/thai-fried-rice.webp",
+    "preparation_time": "12 minutes",
+    "difficulty": "easy",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Thai Fried Rice Recipe | Authentic Thai main dish",
+        "nl": "Thaise Gebakken Rijst Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Thai Fried Rice (ข้าวผัด) - Fragrant fried rice with jasmine rice fish sauce and fresh vegetables...",
+        "nl": "Leer over Thaise Gebakken Rijst (ข้าวผัด) - Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "central",
+      "mild",
+      "easy",
+      "budget",
+      "jasmine-rice",
+      "fish-sauce",
+      "garlic"
+    ],
+    "cooking": {
+      "preparation_time": "12 minutes",
+      "difficulty": "easy",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [
+        "vegetarian option"
+      ],
+      "price_range": "budget"
+    }
+  }
+]

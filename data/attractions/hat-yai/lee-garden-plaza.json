@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "slug": "lee-garden-plaza",
+  "name": {
+    "en": "Lee Garden Plaza",
+    "nl": "Lee Garden Plaza"
+  },
+  "type": "shopping",
+  "city_slug": "hat-yai",
+  "address": "29 Thamnoonvithi Road, Hat Yai District",
+  "location": {
+    "lat": 7.0086,
+    "lng": 100.4747
+  },
+  "opening_hours": "10:00-21:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Popular shopping center with local and international brands and food court",
+    "nl": "Populair winkelcentrum met lokale en internationale merken en food court"
+  },
+  "highlights": [
+    "Shopping center",
+    "Local brands",
+    "Food court",
+    "City center location"
+  ],
+  "image": "/images/attractions/hat-yai/lee-garden.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Lee Garden Plaza - Top Attraction in Hat Yai | Go2Thailand",
+      "nl": "Lee Garden Plaza - Top Attractie in Hat Yai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Lee Garden Plaza in Hat Yai. Popular shopping center with local and international brands and food court...",
+      "nl": "Ontdek Lee Garden Plaza in Hat Yai. Populair winkelcentrum met lokale en internationale merken en food court..."
+    }
+  },
+  "tags": [
+    "shopping",
+    "hat-yai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

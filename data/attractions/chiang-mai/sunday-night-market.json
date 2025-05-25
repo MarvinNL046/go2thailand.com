@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "sunday-night-market",
+  "name": {
+    "en": "Sunday Night Market",
+    "nl": "Zondag Nachtmarkt"
+  },
+  "type": "market",
+  "city_slug": "chiang-mai",
+  "address": "Ratchadamnoen Road, Phra Singh, Muang Chiang Mai",
+  "location": {
+    "lat": 18.7883,
+    "lng": 98.9853
+  },
+  "opening_hours": "17:00-23:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Famous walking street market with local handicrafts food and live music",
+    "nl": "Beroemde wandelmarkt met lokale handwerk eten en live muziek"
+  },
+  "highlights": [
+    "Walking street",
+    "Local handicrafts",
+    "Street food",
+    "Live music"
+  ],
+  "image": "/images/attractions/chiang-mai/sunday-market.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Sunday Night Market - Top Attraction in Chiang Mai | Go2Thailand",
+      "nl": "Zondag Nachtmarkt - Top Attractie in Chiang Mai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Sunday Night Market in Chiang Mai. Famous walking street market with local handicrafts food and live music...",
+      "nl": "Ontdek Zondag Nachtmarkt in Chiang Mai. Beroemde wandelmarkt met lokale handwerk eten en live muziek..."
+    }
+  },
+  "tags": [
+    "market",
+    "chiang-mai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

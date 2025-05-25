@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "phuket-old-town",
+  "name": {
+    "en": "Phuket Old Town",
+    "nl": "Phuket Oude Stad"
+  },
+  "type": "historic",
+  "city_slug": "phuket",
+  "address": "Thalang Road, Muang Phuket District",
+  "location": {
+    "lat": 7.8804,
+    "lng": 98.3923
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Historic quarter with Sino-Portuguese architecture colorful buildings and local culture",
+    "nl": "Historische wijk met Sino-Portugese architectuur kleurrijke gebouwen en lokale cultuur"
+  },
+  "highlights": [
+    "Sino-Portuguese architecture",
+    "Colorful buildings",
+    "Local markets",
+    "Cultural heritage"
+  ],
+  "image": "/images/attractions/phuket/old-town.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Phuket Old Town - Top Attraction in Phuket | Go2Thailand",
+      "nl": "Phuket Oude Stad - Top Attractie in Phuket | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Phuket Old Town in Phuket. Historic quarter with Sino-Portuguese architecture colorful buildings and local culture...",
+      "nl": "Ontdek Phuket Oude Stad in Phuket. Historische wijk met Sino-Portugese architectuur kleurrijke gebouwen en lokale cultuur..."
+    }
+  },
+  "tags": [
+    "historic",
+    "phuket",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

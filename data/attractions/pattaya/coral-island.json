@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "coral-island",
+  "name": {
+    "en": "Coral Island (Koh Larn)",
+    "nl": "Koraal Eiland (Koh Larn)"
+  },
+  "type": "island",
+  "city_slug": "pattaya",
+  "address": "Koh Larn, Bang Lamung District, Chonburi",
+  "location": {
+    "lat": 12.9167,
+    "lng": 100.7667
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 30,
+    "usd": 1
+  },
+  "description": {
+    "en": "Beautiful island getaway with pristine beaches and crystal clear waters",
+    "nl": "Prachtige eiland uitje met ongerepte stranden en kristalhelder water"
+  },
+  "highlights": [
+    "Pristine beaches",
+    "Snorkeling",
+    "Day trips",
+    "Crystal clear waters"
+  ],
+  "image": "/images/attractions/pattaya/coral-island.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Coral Island (Koh Larn) - Top Attraction in Pattaya | Go2Thailand",
+      "nl": "Koraal Eiland (Koh Larn) - Top Attractie in Pattaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Coral Island (Koh Larn) in Pattaya. Beautiful island getaway with pristine beaches and crystal clear waters...",
+      "nl": "Ontdek Koraal Eiland (Koh Larn) in Pattaya. Prachtige eiland uitje met ongerepte stranden en kristalhelder water..."
+    }
+  },
+  "tags": [
+    "island",
+    "pattaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

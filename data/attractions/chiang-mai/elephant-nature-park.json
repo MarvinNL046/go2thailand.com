@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "elephant-nature-park",
+  "name": {
+    "en": "Elephant Nature Park",
+    "nl": "Olifanten Natuurpark"
+  },
+  "type": "sanctuary",
+  "city_slug": "chiang-mai",
+  "address": "209/2 Sridom Chai Road, Mae Rim District",
+  "location": {
+    "lat": 19.0297,
+    "lng": 98.8414
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 2500,
+    "usd": 74
+  },
+  "description": {
+    "en": "Ethical elephant sanctuary focused on rescue rehabilitation and conservation",
+    "nl": "Ethisch olifantensanctuarium gericht op redding rehabilitatie en behoud"
+  },
+  "highlights": [
+    "Elephant rescue",
+    "Ethical tourism",
+    "Conservation",
+    "Educational tours"
+  ],
+  "image": "/images/attractions/chiang-mai/elephant-park.webp",
+  "official_website": "https://www.elephantnaturepark.org",
+  "seo": {
+    "metaTitle": {
+      "en": "Elephant Nature Park - Top Attraction in Chiang Mai | Go2Thailand",
+      "nl": "Olifanten Natuurpark - Top Attractie in Chiang Mai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Elephant Nature Park in Chiang Mai. Ethical elephant sanctuary focused on rescue rehabilitation and conservation...",
+      "nl": "Ontdek Olifanten Natuurpark in Chiang Mai. Ethisch olifantensanctuarium gericht op redding rehabilitatie en behoud..."
+    }
+  },
+  "tags": [
+    "sanctuary",
+    "chiang-mai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

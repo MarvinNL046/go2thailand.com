@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "central-festival-hat-yai",
+  "name": {
+    "en": "Central Festival Hat Yai",
+    "nl": "Central Festival Hat Yai"
+  },
+  "type": "shopping",
+  "city_slug": "hat-yai",
+  "address": "99/9 Moo 4, Kho Hong, Hat Yai District",
+  "location": {
+    "lat": 7.0167,
+    "lng": 100.4833
+  },
+  "opening_hours": "10:00-22:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Modern shopping mall with international brands restaurants and entertainment",
+    "nl": "Modern winkelcentrum met internationale merken restaurants en entertainment"
+  },
+  "highlights": [
+    "Modern shopping",
+    "International brands",
+    "Dining",
+    "Entertainment"
+  ],
+  "image": "/images/attractions/hat-yai/central-festival.webp",
+  "official_website": "https://www.centralfestival.co.th",
+  "seo": {
+    "metaTitle": {
+      "en": "Central Festival Hat Yai - Top Attraction in Hat Yai | Go2Thailand",
+      "nl": "Central Festival Hat Yai - Top Attractie in Hat Yai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Central Festival Hat Yai in Hat Yai. Modern shopping mall with international brands restaurants and entertainment...",
+      "nl": "Ontdek Central Festival Hat Yai in Hat Yai. Modern winkelcentrum met internationale merken restaurants en entertainment..."
+    }
+  },
+  "tags": [
+    "shopping",
+    "hat-yai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

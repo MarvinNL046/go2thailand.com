@@ -1,0 +1,239 @@
+{
+  "city_slug": "ayutthaya",
+  "city_name": "Ayutthaya",
+  "total_attractions": 10,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "ayutthaya-historical-park",
+      "name": {
+        "en": "Ayutthaya Historical Park",
+        "nl": "Ayutthaya Historisch Park"
+      },
+      "type": "historic",
+      "image": "/images/attractions/ayutthaya/historical-park.webp",
+      "description": {
+        "en": "UNESCO World Heritage site with ancient temple ruins from former Siamese capital",
+        "nl": "UNESCO Werelderfgoed met oude tempelruïnes van voormalige Siamese hoofdstad"
+      },
+      "entrance_fee": {
+        "thb": 50,
+        "usd": 1
+      },
+      "highlights": [
+        "UNESCO World Heritage",
+        "Ancient ruins",
+        "Former capital"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "wat-mahathat",
+      "name": {
+        "en": "Wat Mahathat",
+        "nl": "Wat Mahathat"
+      },
+      "type": "temple",
+      "image": "/images/attractions/ayutthaya/wat-mahathat.webp",
+      "description": {
+        "en": "Famous temple ruins with Buddha head entwined in tree roots",
+        "nl": "Beroemde tempelruïnes met Boeddhahoofd verweven in boomwortels"
+      },
+      "entrance_fee": {
+        "thb": 50,
+        "usd": 1
+      },
+      "highlights": [
+        "Buddha head in tree",
+        "Ancient ruins",
+        "Iconic photo spot"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "wat-chaiwatthanaram",
+      "name": {
+        "en": "Wat Chaiwatthanaram",
+        "nl": "Wat Chaiwatthanaram"
+      },
+      "type": "temple",
+      "image": "/images/attractions/ayutthaya/wat-chaiwatthanaram.webp",
+      "description": {
+        "en": "Magnificent temple complex with central prang and surrounding chedis",
+        "nl": "Prachtig tempelcomplex met centrale prang en omringende chedi's"
+      },
+      "entrance_fee": {
+        "thb": 50,
+        "usd": 1
+      },
+      "highlights": [
+        "Central prang",
+        "Khmer architecture",
+        "Sunset views"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "wat-phra-si-sanphet",
+      "name": {
+        "en": "Wat Phra Si Sanphet",
+        "nl": "Wat Phra Si Sanphet"
+      },
+      "type": "temple",
+      "image": "/images/attractions/ayutthaya/wat-phra-si-sanphet.webp",
+      "description": {
+        "en": "Former royal temple with three iconic chedis housing royal ashes",
+        "nl": "Voormalige koninklijke tempel met drie iconische chedi's met koninklijke as"
+      },
+      "entrance_fee": {
+        "thb": 50,
+        "usd": 1
+      },
+      "highlights": [
+        "Three iconic chedis",
+        "Royal temple",
+        "Former palace grounds"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "wat-lokayasutharam",
+      "name": {
+        "en": "Wat Lokayasutharam",
+        "nl": "Wat Lokayasutharam"
+      },
+      "type": "temple",
+      "image": "/images/attractions/ayutthaya/wat-lokayasutharam.webp",
+      "description": {
+        "en": "Temple famous for massive 42-meter long reclining Buddha statue",
+        "nl": "Tempel beroemd om massaal 42 meter lang liggend Boeddhabeeld"
+      },
+      "entrance_fee": {
+        "thb": 20,
+        "usd": 1
+      },
+      "highlights": [
+        "42m reclining Buddha",
+        "Outdoor statue",
+        "Ancient temple"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "wat-yai-chai-mongkhon",
+      "name": {
+        "en": "Wat Yai Chai Mongkhon",
+        "nl": "Wat Yai Chai Mongkhon"
+      },
+      "type": "temple",
+      "image": "/images/attractions/ayutthaya/wat-yai-chai-mongkhon.webp",
+      "description": {
+        "en": "Active temple with towering chedi and rows of Buddha statues",
+        "nl": "Actieve tempel met torenhoge chedi en rijen Boeddhabeelden"
+      },
+      "entrance_fee": {
+        "thb": 20,
+        "usd": 1
+      },
+      "highlights": [
+        "Towering chedi",
+        "Active temple",
+        "Buddha statues"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "bang-pa-in-palace",
+      "name": {
+        "en": "Bang Pa-In Royal Palace",
+        "nl": "Bang Pa-In Koninklijk Paleis"
+      },
+      "type": "palace",
+      "image": "/images/attractions/ayutthaya/bang-pa-in.webp",
+      "description": {
+        "en": "Beautiful royal summer palace with mix of Thai European and Chinese architecture",
+        "nl": "Prachtig koninklijk zomerpaleis met mix van Thaise Europese en Chinese architectuur"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Royal summer palace",
+        "Mixed architecture",
+        "Beautiful gardens"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "chao-sam-phraya-museum",
+      "name": {
+        "en": "Chao Sam Phraya National Museum",
+        "nl": "Chao Sam Phraya Nationaal Museum"
+      },
+      "type": "museum",
+      "image": "/images/attractions/ayutthaya/chao-sam-phraya.webp",
+      "description": {
+        "en": "Museum showcasing Ayutthaya artifacts including golden Buddha images and royal treasures",
+        "nl": "Museum met Ayutthaya artefacten inclusief gouden Boeddhabeelden en koninklijke schatten"
+      },
+      "entrance_fee": {
+        "thb": 150,
+        "usd": 4
+      },
+      "highlights": [
+        "Golden Buddha images",
+        "Royal treasures",
+        "Historical artifacts"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "wat-ratchaburana",
+      "name": {
+        "en": "Wat Ratchaburana",
+        "nl": "Wat Ratchaburana"
+      },
+      "type": "temple",
+      "image": "/images/attractions/ayutthaya/wat-ratchaburana.webp",
+      "description": {
+        "en": "Ancient temple with well-preserved prang and underground crypt with murals",
+        "nl": "Oude tempel met goed bewaarde prang en ondergrondse crypte met muurschilderingen"
+      },
+      "entrance_fee": {
+        "thb": 50,
+        "usd": 1
+      },
+      "highlights": [
+        "Well-preserved prang",
+        "Underground crypt",
+        "Ancient murals"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "ayutthaya-elephant-palace",
+      "name": {
+        "en": "Ayutthaya Elephant Palace",
+        "nl": "Ayutthaya Olifanten Paleis"
+      },
+      "type": "attraction",
+      "image": "/images/attractions/ayutthaya/elephant-palace.webp",
+      "description": {
+        "en": "Elephant camp offering rides and shows in historical setting",
+        "nl": "Olifantenkamp met ritten en shows in historische omgeving"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Elephant rides",
+        "Cultural shows",
+        "Historical setting"
+      ]
+    }
+  ],
+  "enhanced_at": "2025-05-25T22:38:36.097Z",
+  "enhanced_count": 10
+}

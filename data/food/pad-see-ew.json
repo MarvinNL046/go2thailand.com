@@ -1,0 +1,62 @@
+{
+  "id": 9,
+  "slug": "pad-see-ew",
+  "name": {
+    "en": "Pad See Ew",
+    "nl": "Pad See Ew",
+    "thai": "ผัดซีอิ๊ว"
+  },
+  "category": "main-dish",
+  "region": "central",
+  "spice_level": "mild",
+  "description": {
+    "en": "Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg",
+    "nl": "Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei"
+  },
+  "ingredients": [
+    "wide rice noodles",
+    "dark soy sauce",
+    "chinese broccoli",
+    "egg",
+    "pork or chicken"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/pad-see-ew.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Pad See Ew Recipe | Authentic Thai main dish",
+      "nl": "Pad See Ew Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Pad See Ew (ผัดซีอิ๊ว) - Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg...",
+      "nl": "Leer over Pad See Ew (ผัดซีอิ๊ว) - Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "central",
+    "mild",
+    "easy",
+    "budget",
+    "wide-rice noodles",
+    "dark-soy sauce",
+    "chinese-broccoli"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

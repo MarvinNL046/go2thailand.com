@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "wat-saphan-hin",
+  "name": {
+    "en": "Wat Saphan Hin",
+    "nl": "Wat Saphan Hin"
+  },
+  "type": "temple",
+  "city_slug": "sukhothai",
+  "address": "Sukhothai Historical Park West Zone",
+  "location": {
+    "lat": 17.0167,
+    "lng": 99.8167
+  },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Hilltop temple with standing Buddha statue and panoramic views of the plains",
+    "nl": "Heuvel tempel met staand Boeddhabeeld en panoramisch uitzicht over de vlaktes"
+  },
+  "highlights": [
+    "Hilltop temple",
+    "Standing Buddha",
+    "Panoramic views",
+    "Stone bridge"
+  ],
+  "image": "/images/attractions/sukhothai/wat-saphan-hin.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Saphan Hin - Top Attraction in Sukhothai | Go2Thailand",
+      "nl": "Wat Saphan Hin - Top Attractie in Sukhothai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Saphan Hin in Sukhothai. Hilltop temple with standing Buddha statue and panoramic views of the plains...",
+      "nl": "Ontdek Wat Saphan Hin in Sukhothai. Heuvel tempel met staand Boeddhabeeld en panoramisch uitzicht over de vlaktes..."
+    }
+  },
+  "tags": [
+    "temple",
+    "sukhothai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "chaiya-national-museum",
+  "name": {
+    "en": "Chaiya National Museum",
+    "nl": "Chaiya Nationaal Museum"
+  },
+  "type": "museum",
+  "city_slug": "surat-thani",
+  "address": "Chaiya District, Surat Thani Province",
+  "location": {
+    "lat": 9.4167,
+    "lng": 99.1833
+  },
+  "opening_hours": "09:00-16:00",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Museum showcasing ancient Srivijaya kingdom artifacts and local history",
+    "nl": "Museum met oude Srivijaya koninkrijk artefacten en lokale geschiedenis"
+  },
+  "highlights": [
+    "Srivijaya artifacts",
+    "Ancient kingdom",
+    "Local history",
+    "Cultural museum"
+  ],
+  "image": "/images/attractions/surat-thani/chaiya-museum.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Chaiya National Museum - Top Attraction in Surat Thani | Go2Thailand",
+      "nl": "Chaiya Nationaal Museum - Top Attractie in Surat Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Chaiya National Museum in Surat Thani. Museum showcasing ancient Srivijaya kingdom artifacts and local history...",
+      "nl": "Ontdek Chaiya Nationaal Museum in Surat Thani. Museum met oude Srivijaya koninkrijk artefacten en lokale geschiedenis..."
+    }
+  },
+  "tags": [
+    "museum",
+    "surat-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

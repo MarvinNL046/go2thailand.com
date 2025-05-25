@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "hat-yai-floating-market",
+  "name": {
+    "en": "Hat Yai Floating Market",
+    "nl": "Hat Yai Drijvende Markt"
+  },
+  "type": "market",
+  "city_slug": "hat-yai",
+  "address": "Klong Hae, Hat Yai District, Songkhla",
+  "location": {
+    "lat": 6.9833,
+    "lng": 100.4833
+  },
+  "opening_hours": "16:00-21:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Evening floating market with local food boat rides and cultural performances",
+    "nl": "Avond drijvende markt met lokaal eten boottochten en culturele optredens"
+  },
+  "highlights": [
+    "Evening market",
+    "Boat rides",
+    "Local food",
+    "Cultural performances"
+  ],
+  "image": "/images/attractions/hat-yai/floating-market.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Hat Yai Floating Market - Top Attraction in Hat Yai | Go2Thailand",
+      "nl": "Hat Yai Drijvende Markt - Top Attractie in Hat Yai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Hat Yai Floating Market in Hat Yai. Evening floating market with local food boat rides and cultural performances...",
+      "nl": "Ontdek Hat Yai Drijvende Markt in Hat Yai. Avond drijvende markt met lokaal eten boottochten en culturele optredens..."
+    }
+  },
+  "tags": [
+    "market",
+    "hat-yai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

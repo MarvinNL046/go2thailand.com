@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "doi-suthep",
+  "name": {
+    "en": "Doi Suthep Temple",
+    "nl": "Doi Suthep Tempel"
+  },
+  "type": "temple",
+  "city_slug": "chiang-mai",
+  "address": "Huay Kaew Road, Suthep, Muang Chiang Mai",
+  "location": {
+    "lat": 18.8047,
+    "lng": 98.9216
+  },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": {
+    "thb": 50,
+    "usd": 1
+  },
+  "description": {
+    "en": "Sacred temple on mountain top with panoramic city views and golden chedi",
+    "nl": "Heilige tempel op bergtop met panoramisch uitzicht over de stad en gouden chedi"
+  },
+  "highlights": [
+    "Mountain temple",
+    "City views",
+    "Golden chedi",
+    "Sacred site"
+  ],
+  "image": "/images/attractions/chiang-mai/doi-suthep.webp",
+  "official_website": "https://www.doisuthep.com",
+  "seo": {
+    "metaTitle": {
+      "en": "Doi Suthep Temple - Top Attraction in Chiang Mai | Go2Thailand",
+      "nl": "Doi Suthep Tempel - Top Attractie in Chiang Mai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Doi Suthep Temple in Chiang Mai. Sacred temple on mountain top with panoramic city views and golden chedi...",
+      "nl": "Ontdek Doi Suthep Tempel in Chiang Mai. Heilige tempel op bergtop met panoramisch uitzicht over de stad en gouden chedi..."
+    }
+  },
+  "tags": [
+    "temple",
+    "chiang-mai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

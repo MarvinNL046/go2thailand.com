@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "ayutthaya-historical-park",
+  "name": {
+    "en": "Ayutthaya Historical Park",
+    "nl": "Ayutthaya Historisch Park"
+  },
+  "type": "historic",
+  "city_slug": "ayutthaya",
+  "address": "Ayutthaya Historical Park, Phra Nakhon Si Ayutthaya",
+  "location": {
+    "lat": 14.3532,
+    "lng": 100.5689
+  },
+  "opening_hours": "08:00-18:00",
+  "entrance_fee": {
+    "thb": 50,
+    "usd": 1
+  },
+  "description": {
+    "en": "UNESCO World Heritage site with ancient temple ruins from former Siamese capital",
+    "nl": "UNESCO Werelderfgoed met oude tempelruïnes van voormalige Siamese hoofdstad"
+  },
+  "highlights": [
+    "UNESCO World Heritage",
+    "Ancient ruins",
+    "Former capital",
+    "Historical significance"
+  ],
+  "image": "/images/attractions/ayutthaya/historical-park.webp",
+  "official_website": "https://www.ayutthaya-history.com",
+  "seo": {
+    "metaTitle": {
+      "en": "Ayutthaya Historical Park - Top Attraction in Ayutthaya | Go2Thailand",
+      "nl": "Ayutthaya Historisch Park - Top Attractie in Ayutthaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Ayutthaya Historical Park in Ayutthaya. UNESCO World Heritage site with ancient temple ruins from former Siamese capital...",
+      "nl": "Ontdek Ayutthaya Historisch Park in Ayutthaya. UNESCO Werelderfgoed met oude tempelruïnes van voormalige Siamese hoofdstad..."
+    }
+  },
+  "tags": [
+    "historic",
+    "ayutthaya",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

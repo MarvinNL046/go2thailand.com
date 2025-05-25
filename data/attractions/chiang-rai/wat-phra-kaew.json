@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "wat-phra-kaew",
+  "name": {
+    "en": "Wat Phra Kaew Chiang Rai",
+    "nl": "Wat Phra Kaew Chiang Rai"
+  },
+  "type": "temple",
+  "city_slug": "chiang-rai",
+  "address": "Trairat Road, Wiang, Muang Chiang Rai",
+  "location": {
+    "lat": 19.9105,
+    "lng": 99.8406
+  },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Historic temple where the famous Emerald Buddha was discovered",
+    "nl": "Historische tempel waar de beroemde Smaragd Boeddha werd ontdekt"
+  },
+  "highlights": [
+    "Emerald Buddha history",
+    "Lanna architecture",
+    "Historic temple",
+    "Cultural significance"
+  ],
+  "image": "/images/attractions/chiang-rai/wat-phra-kaew.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Phra Kaew Chiang Rai - Top Attraction in Chiang Rai | Go2Thailand",
+      "nl": "Wat Phra Kaew Chiang Rai - Top Attractie in Chiang Rai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Phra Kaew Chiang Rai in Chiang Rai. Historic temple where the famous Emerald Buddha was discovered...",
+      "nl": "Ontdek Wat Phra Kaew Chiang Rai in Chiang Rai. Historische tempel waar de beroemde Smaragd Boeddha werd ontdekt..."
+    }
+  },
+  "tags": [
+    "temple",
+    "chiang-rai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

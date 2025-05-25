@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "slug": "surat-thani-walking-street",
+  "name": {
+    "en": "Surat Thani Walking Street",
+    "nl": "Surat Thani Wandelstraat"
+  },
+  "type": "market",
+  "city_slug": "surat-thani",
+  "address": "Na Muang Road, Surat Thani",
+  "location": {
+    "lat": 9.14,
+    "lng": 99.3331
+  },
+  "opening_hours": "17:00-22:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Weekend walking street market with local food handicrafts and live music",
+    "nl": "Weekend wandelstraatmarkt met lokaal eten handwerk en live muziek"
+  },
+  "highlights": [
+    "Weekend market",
+    "Local food",
+    "Handicrafts",
+    "Live music"
+  ],
+  "image": "/images/attractions/surat-thani/walking-street.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Surat Thani Walking Street - Top Attraction in Surat Thani | Go2Thailand",
+      "nl": "Surat Thani Wandelstraat - Top Attractie in Surat Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Surat Thani Walking Street in Surat Thani. Weekend walking street market with local food handicrafts and live music...",
+      "nl": "Ontdek Surat Thani Wandelstraat in Surat Thani. Weekend wandelstraatmarkt met lokaal eten handwerk en live muziek..."
+    }
+  },
+  "tags": [
+    "market",
+    "surat-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

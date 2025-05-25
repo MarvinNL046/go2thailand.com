@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "chiang-rai-night-bazaar",
+  "name": {
+    "en": "Chiang Rai Night Bazaar",
+    "nl": "Chiang Rai Nachtbazaar"
+  },
+  "type": "market",
+  "city_slug": "chiang-rai",
+  "address": "Phahonyothin Road, Wiang, Muang Chiang Rai",
+  "location": {
+    "lat": 19.9105,
+    "lng": 99.8406
+  },
+  "opening_hours": "18:00-23:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Local night market with handicrafts street food and cultural performances",
+    "nl": "Lokale nachtmarkt met handwerk straatvoedsel en culturele optredens"
+  },
+  "highlights": [
+    "Local handicrafts",
+    "Street food",
+    "Cultural performances",
+    "Night shopping"
+  ],
+  "image": "/images/attractions/chiang-rai/night-bazaar.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Chiang Rai Night Bazaar - Top Attraction in Chiang Rai | Go2Thailand",
+      "nl": "Chiang Rai Nachtbazaar - Top Attractie in Chiang Rai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Chiang Rai Night Bazaar in Chiang Rai. Local night market with handicrafts street food and cultural performances...",
+      "nl": "Ontdek Chiang Rai Nachtbazaar in Chiang Rai. Lokale nachtmarkt met handwerk straatvoedsel en culturele optredens..."
+    }
+  },
+  "tags": [
+    "market",
+    "chiang-rai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

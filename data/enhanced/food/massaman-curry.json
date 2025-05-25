@@ -1,0 +1,173 @@
+{
+  "id": 7,
+  "slug": "massaman-curry",
+  "name": {
+    "en": "Massaman Curry",
+    "nl": "Massaman Curry",
+    "thai": "แกงมัสมั่น"
+  },
+  "category": "curry",
+  "region": "southern",
+  "spice_level": "medium",
+  "description": {
+    "en": "Rich and mild curry with Persian influences containing potatoes and peanuts",
+    "nl": "Rijke en milde curry met Perzische invloeden met aardappelen en pinda's"
+  },
+  "ingredients": [
+    "massaman paste",
+    "coconut milk",
+    "beef",
+    "potatoes",
+    "peanuts",
+    "tamarind"
+  ],
+  "allergens": [
+    "nuts"
+  ],
+  "dietary": [],
+  "image": "/images/food/massaman-curry.webp",
+  "preparation_time": "45 minutes",
+  "difficulty": "medium",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Massaman Curry Recipe | Authentic Thai curry",
+      "nl": "Massaman Curry Recept | Authentieke Thaise curry"
+    },
+    "metaDescription": {
+      "en": "Learn about Massaman Curry (แกงมัสมั่น) - Rich and mild curry with Persian influences containing potatoes and peanuts...",
+      "nl": "Leer over Massaman Curry (แกงมัสมั่น) - Rijke en milde curry met Perzische invloeden met aardappelen en pinda's..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "curry",
+    "southern",
+    "medium",
+    "medium",
+    "mid-range",
+    "massaman-paste",
+    "coconut-milk",
+    "beef"
+  ],
+  "cooking": {
+    "preparation_time": "45 minutes",
+    "difficulty": "medium",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "nuts"
+    ],
+    "dietary": [],
+    "price_range": "mid-range"
+  },
+  "enhanced_description": "Rich and mild curry with Persian influences containing potatoes and peanuts",
+  "detailed_ingredients": [
+    {
+      "name": "massaman paste",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "coconut milk",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "beef",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "potatoes",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "peanuts",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    },
+    {
+      "name": "tamarind",
+      "purpose": "Essential ingredient for authentic flavor",
+      "substitutes": [
+        "Available at Asian grocery stores"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Simmering",
+    "steps_overview": "Traditional Thai cooking method for Massaman Curry",
+    "cooking_tips": [
+      "Use high heat for stir-frying",
+      "Balance sweet, sour, salty, and spicy flavors"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Massaman Curry is a traditional Thai dish from the southern region",
+    "cultural_importance": "Popular dish in Thai cuisine",
+    "traditional_occasions": [
+      "Daily meals",
+      "Family gatherings"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Regional Massaman Curry",
+      "description": "Traditional southern style preparation"
+    },
+    {
+      "name": "Modern Massaman Curry",
+      "description": "Contemporary interpretation with modern techniques"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables"
+    ],
+    "presentation": "Served hot in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "Varies by preparation",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Balanced flavors"
+    ],
+    "dietary_notes": [
+      "Contains traditional Thai ingredients"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local Thai restaurants",
+      "Traditional eateries"
+    ],
+    "street_food_areas": [
+      "Thai street food markets",
+      "Food courts"
+    ],
+    "price_ranges": {
+      "street_food": "$2-5",
+      "restaurant": "$8-15",
+      "upscale": "$15-25"
+    }
+  },
+  "enhanced_at": "2025-05-25T21:52:21.686Z",
+  "ai_generated": true
+}

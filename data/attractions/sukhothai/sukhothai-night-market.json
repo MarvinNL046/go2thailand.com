@@ -1,0 +1,50 @@
+{
+  "id": 10,
+  "slug": "sukhothai-night-market",
+  "name": {
+    "en": "Sukhothai Night Market",
+    "nl": "Sukhothai Nachtmarkt"
+  },
+  "type": "market",
+  "city_slug": "sukhothai",
+  "address": "Charot Withi Thong Road, Sukhothai",
+  "location": {
+    "lat": 17.0078,
+    "lng": 99.8237
+  },
+  "opening_hours": "17:00-22:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Local night market with traditional food handicrafts and cultural atmosphere",
+    "nl": "Lokale nachtmarkt met traditioneel eten handwerk en culturele sfeer"
+  },
+  "highlights": [
+    "Traditional food",
+    "Local handicrafts",
+    "Cultural atmosphere",
+    "Night market"
+  ],
+  "image": "/images/attractions/sukhothai/night-market.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Sukhothai Night Market - Top Attraction in Sukhothai | Go2Thailand",
+      "nl": "Sukhothai Nachtmarkt - Top Attractie in Sukhothai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Sukhothai Night Market in Sukhothai. Local night market with traditional food handicrafts and cultural atmosphere...",
+      "nl": "Ontdek Sukhothai Nachtmarkt in Sukhothai. Lokale nachtmarkt met traditioneel eten handwerk en culturele sfeer..."
+    }
+  },
+  "tags": [
+    "market",
+    "sukhothai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

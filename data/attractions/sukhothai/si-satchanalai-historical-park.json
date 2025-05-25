@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "si-satchanalai-historical-park",
+  "name": {
+    "en": "Si Satchanalai Historical Park",
+    "nl": "Si Satchanalai Historisch Park"
+  },
+  "type": "historic",
+  "city_slug": "sukhothai",
+  "address": "Si Satchanalai District, Sukhothai Province",
+  "location": {
+    "lat": 17.2833,
+    "lng": 99.7667
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Sister city ruins with well-preserved temples and ancient kilns",
+    "nl": "Zusterstad ruïnes met goed bewaarde tempels en oude ovens"
+  },
+  "highlights": [
+    "Sister city ruins",
+    "Ancient kilns",
+    "Well-preserved temples",
+    "Historical significance"
+  ],
+  "image": "/images/attractions/sukhothai/si-satchanalai.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Si Satchanalai Historical Park - Top Attraction in Sukhothai | Go2Thailand",
+      "nl": "Si Satchanalai Historisch Park - Top Attractie in Sukhothai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Si Satchanalai Historical Park in Sukhothai. Sister city ruins with well-preserved temples and ancient kilns...",
+      "nl": "Ontdek Si Satchanalai Historisch Park in Sukhothai. Zusterstad ruïnes met goed bewaarde tempels en oude ovens..."
+    }
+  },
+  "tags": [
+    "historic",
+    "sukhothai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

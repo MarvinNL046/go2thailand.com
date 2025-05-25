@@ -1,0 +1,237 @@
+{
+  "city_slug": "sukhothai",
+  "city_name": "Sukhothai",
+  "total_attractions": 10,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "sukhothai-historical-park",
+      "name": {
+        "en": "Sukhothai Historical Park",
+        "nl": "Sukhothai Historisch Park"
+      },
+      "type": "historic",
+      "image": "/images/attractions/sukhothai/historical-park.webp",
+      "description": {
+        "en": "UNESCO World Heritage site with ruins of Thailand's first capital and ancient temples",
+        "nl": "UNESCO Werelderfgoed met ruïnes van Thailand's eerste hoofdstad en oude tempels"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "UNESCO World Heritage",
+        "First Thai capital",
+        "Ancient temples"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "wat-mahathat-sukhothai",
+      "name": {
+        "en": "Wat Mahathat Sukhothai",
+        "nl": "Wat Mahathat Sukhothai"
+      },
+      "type": "temple",
+      "image": "/images/attractions/sukhothai/wat-mahathat.webp",
+      "description": {
+        "en": "Main temple of Sukhothai with iconic lotus-bud chedi and Buddha statues",
+        "nl": "Hoofdtempel van Sukhothai met iconische lotus-knop chedi en Boeddhabeelden"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Lotus-bud chedi",
+        "Buddha statues",
+        "Main temple"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "wat-si-chum",
+      "name": {
+        "en": "Wat Si Chum",
+        "nl": "Wat Si Chum"
+      },
+      "type": "temple",
+      "image": "/images/attractions/sukhothai/wat-si-chum.webp",
+      "description": {
+        "en": "Famous temple housing massive seated Buddha statue visible through narrow opening",
+        "nl": "Beroemde tempel met massaal zittend Boeddhabeeld zichtbaar door smalle opening"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Massive seated Buddha",
+        "Narrow opening",
+        "Iconic temple"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "wat-sa-si",
+      "name": {
+        "en": "Wat Sa Si",
+        "nl": "Wat Sa Si"
+      },
+      "type": "temple",
+      "image": "/images/attractions/sukhothai/wat-sa-si.webp",
+      "description": {
+        "en": "Picturesque temple on small island surrounded by lotus pond",
+        "nl": "Pittoreske tempel op klein eiland omringd door lotusvijver"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Island temple",
+        "Lotus pond",
+        "Picturesque setting"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "ramkhamhaeng-national-museum",
+      "name": {
+        "en": "Ramkhamhaeng National Museum",
+        "nl": "Ramkhamhaeng Nationaal Museum"
+      },
+      "type": "museum",
+      "image": "/images/attractions/sukhothai/ramkhamhaeng-museum.webp",
+      "description": {
+        "en": "Museum showcasing Sukhothai artifacts including the famous Ramkhamhaeng inscription",
+        "nl": "Museum met Sukhothai artefacten inclusief de beroemde Ramkhamhaeng inscriptie"
+      },
+      "entrance_fee": {
+        "thb": 150,
+        "usd": 4
+      },
+      "highlights": [
+        "Ramkhamhaeng inscription",
+        "Sukhothai artifacts",
+        "Historical museum"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "wat-saphan-hin",
+      "name": {
+        "en": "Wat Saphan Hin",
+        "nl": "Wat Saphan Hin"
+      },
+      "type": "temple",
+      "image": "/images/attractions/sukhothai/wat-saphan-hin.webp",
+      "description": {
+        "en": "Hilltop temple with standing Buddha statue and panoramic views of the plains",
+        "nl": "Heuvel tempel met staand Boeddhabeeld en panoramisch uitzicht over de vlaktes"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Hilltop temple",
+        "Standing Buddha",
+        "Panoramic views"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "si-satchanalai-historical-park",
+      "name": {
+        "en": "Si Satchanalai Historical Park",
+        "nl": "Si Satchanalai Historisch Park"
+      },
+      "type": "historic",
+      "image": "/images/attractions/sukhothai/si-satchanalai.webp",
+      "description": {
+        "en": "Sister city ruins with well-preserved temples and ancient kilns",
+        "nl": "Zusterstad ruïnes met goed bewaarde tempels en oude ovens"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Sister city ruins",
+        "Ancient kilns",
+        "Well-preserved temples"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "wat-chang-lom",
+      "name": {
+        "en": "Wat Chang Lom",
+        "nl": "Wat Chang Lom"
+      },
+      "type": "temple",
+      "image": "/images/attractions/sukhothai/wat-chang-lom.webp",
+      "description": {
+        "en": "Temple famous for elephant-supported chedi in Sri Lankan style",
+        "nl": "Tempel beroemd om olifant-ondersteunde chedi in Sri Lankaanse stijl"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Elephant-supported chedi",
+        "Sri Lankan style",
+        "Unique architecture"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "yom-river",
+      "name": {
+        "en": "Yom River",
+        "nl": "Yom Rivier"
+      },
+      "type": "nature",
+      "image": "/images/attractions/sukhothai/yom-river.webp",
+      "description": {
+        "en": "Scenic river perfect for boat trips cycling along banks and sunset views",
+        "nl": "Schilderachtige rivier perfect voor boottochten fietsen langs oevers en zonsondergang"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Scenic river",
+        "Boat trips",
+        "Cycling paths"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "sukhothai-night-market",
+      "name": {
+        "en": "Sukhothai Night Market",
+        "nl": "Sukhothai Nachtmarkt"
+      },
+      "type": "market",
+      "image": "/images/attractions/sukhothai/night-market.webp",
+      "description": {
+        "en": "Local night market with traditional food handicrafts and cultural atmosphere",
+        "nl": "Lokale nachtmarkt met traditioneel eten handwerk en culturele sfeer"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Traditional food",
+        "Local handicrafts",
+        "Cultural atmosphere"
+      ]
+    }
+  ]
+}

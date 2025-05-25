@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "wat-chedi-luang",
+  "name": {
+    "en": "Wat Chedi Luang",
+    "nl": "Wat Chedi Luang"
+  },
+  "type": "temple",
+  "city_slug": "chiang-mai",
+  "address": "103 King Prajadhipok Road, Phra Singh, Muang Chiang Mai",
+  "location": {
+    "lat": 18.7871,
+    "lng": 98.9856
+  },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": {
+    "thb": 40,
+    "usd": 1
+  },
+  "description": {
+    "en": "Ancient temple with massive ruined chedi and monk chat program",
+    "nl": "Oude tempel met massieve geruïneerde chedi en monnik chat programma"
+  },
+  "highlights": [
+    "Ancient ruins",
+    "Massive chedi",
+    "Monk chat",
+    "Historical significance"
+  ],
+  "image": "/images/attractions/chiang-mai/wat-chedi-luang.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Chedi Luang - Top Attraction in Chiang Mai | Go2Thailand",
+      "nl": "Wat Chedi Luang - Top Attractie in Chiang Mai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Chedi Luang in Chiang Mai. Ancient temple with massive ruined chedi and monk chat program...",
+      "nl": "Ontdek Wat Chedi Luang in Chiang Mai. Oude tempel met massieve geruïneerde chedi en monnik chat programma..."
+    }
+  },
+  "tags": [
+    "temple",
+    "chiang-mai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

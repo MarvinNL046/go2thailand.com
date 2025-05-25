@@ -1,0 +1,67 @@
+{
+  "id": 5,
+  "slug": "green-curry",
+  "name": {
+    "en": "Green Curry",
+    "nl": "Groene Curry",
+    "thai": "แกงเขียวหวาน"
+  },
+  "category": "curry",
+  "region": "central",
+  "spice_level": "hot",
+  "description": {
+    "en": "Spicy green curry with coconut milk Thai eggplant and basil",
+    "nl": "Pittige groene curry met kokosmelk Thaise aubergine en basilicum"
+  },
+  "ingredients": [
+    "green curry paste",
+    "coconut milk",
+    "thai eggplant",
+    "basil",
+    "fish sauce",
+    "palm sugar"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian option"
+  ],
+  "image": "/images/food/green-curry.webp",
+  "preparation_time": "25 minutes",
+  "difficulty": "medium",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Green Curry Recipe | Authentic Thai curry",
+      "nl": "Groene Curry Recept | Authentieke Thaise curry"
+    },
+    "metaDescription": {
+      "en": "Learn about Green Curry (แกงเขียวหวาน) - Spicy green curry with coconut milk Thai eggplant and basil...",
+      "nl": "Leer over Groene Curry (แกงเขียวหวาน) - Pittige groene curry met kokosmelk Thaise aubergine en basilicum..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "curry",
+    "central",
+    "hot",
+    "medium",
+    "mid-range",
+    "green-curry paste",
+    "coconut-milk",
+    "thai-eggplant"
+  ],
+  "cooking": {
+    "preparation_time": "25 minutes",
+    "difficulty": "medium",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "price_range": "mid-range"
+  }
+}

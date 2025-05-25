@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "ratchaprapha-dam",
+  "name": {
+    "en": "Ratchaprapha Dam (Cheow Lan Lake)",
+    "nl": "Ratchaprapha Dam (Cheow Lan Meer)"
+  },
+  "type": "nature",
+  "city_slug": "surat-thani",
+  "address": "Khao Sok National Park, Surat Thani",
+  "location": {
+    "lat": 8.8833,
+    "lng": 98.8333
+  },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": {
+    "thb": 300,
+    "usd": 9
+  },
+  "description": {
+    "en": "Stunning emerald lake with limestone karsts floating bungalows and wildlife",
+    "nl": "Prachtig smaragdgroen meer met kalkstenen karst drijvende bungalows en wilde dieren"
+  },
+  "highlights": [
+    "Emerald lake",
+    "Limestone karsts",
+    "Floating bungalows",
+    "Wildlife watching"
+  ],
+  "image": "/images/attractions/surat-thani/ratchaprapha-dam.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Ratchaprapha Dam (Cheow Lan Lake) - Top Attraction in Surat Thani | Go2Thailand",
+      "nl": "Ratchaprapha Dam (Cheow Lan Meer) - Top Attractie in Surat Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Ratchaprapha Dam (Cheow Lan Lake) in Surat Thani. Stunning emerald lake with limestone karsts floating bungalows and wildlife...",
+      "nl": "Ontdek Ratchaprapha Dam (Cheow Lan Meer) in Surat Thani. Prachtig smaragdgroen meer met kalkstenen karst drijvende bungalows en wilde dieren..."
+    }
+  },
+  "tags": [
+    "nature",
+    "surat-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}
