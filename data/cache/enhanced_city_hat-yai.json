@@ -1,0 +1,189 @@
+{
+  "key": "hat-yai",
+  "type": "enhanced_city",
+  "content": {
+    "id": 8,
+    "slug": "hat-yai",
+    "name": {
+      "en": "Hat Yai",
+      "nl": "Hat Yai"
+    },
+    "region": "Southern",
+    "province": "Songkhla",
+    "description": {
+      "en": "Southern Thailand’s largest city, shopping hub and gateway to Malaysia.",
+      "nl": "Grootste stad van Zuid-Thailand, winkelstad en poort naar Maleisië."
+    },
+    "population": 157000,
+    "highlights": [
+      "Kim Yong Market",
+      "Floating Market",
+      "Hat Yai Park",
+      "Asean Night Bazaar"
+    ],
+    "location": {
+      "lat": 7.0086,
+      "lng": 100.4747
+    },
+    "image": "https://images.unsplash.com/photo-1454023492550-5696f8ff10e1",
+    "seo": {
+      "metaTitle": {
+        "en": "Discover Hat Yai | What to do in Hat Yai?",
+        "nl": "Ontdek Hat Yai | Wat te doen in Hat Yai?"
+      },
+      "metaDescription": {
+        "en": "Your guide to Hat Yai, Thailand – tips, highlights, food, hotels.",
+        "nl": "Jouw gids voor Hat Yai, Thailand – tips, highlights, eten, hotels."
+      }
+    },
+    "categories": {
+      "food": {
+        "en": "Best restaurants and street food in Hat Yai",
+        "nl": "Beste restaurants en streetfood in Hat Yai"
+      },
+      "hotels": {
+        "en": "Top hotels in Hat Yai | Tips & deals",
+        "nl": "Beste hotels in Hat Yai | Tips & aanbiedingen"
+      },
+      "attractions": {
+        "en": "Top attractions in Hat Yai",
+        "nl": "Top bezienswaardigheden in Hat Yai"
+      }
+    },
+    "tags": [
+      "southern",
+      "songkhla",
+      "thailand",
+      "travel",
+      "tourism",
+      "guide"
+    ],
+    "enhanced_description": "Hat Yai, the largest city in Southern Thailand, serves as a vibrant shopping hub and a bustling gateway to Malaysia. Known for its lively atmosphere, this city offers an eclectic mix of Thai and Malaysian cultures, making it a melting pot of experiences. Visitors can immerse themselves in the local lifestyle by exploring the bustling markets, where they can find everything from fresh produce to unique souvenirs. The city's rich cultural heritage is showcased through its temples and parks, providing a perfect blend of relaxation and exploration. Hat Yai is particularly famous for its street food scene, with vendors serving up mouthwatering dishes that reflect the region's culinary diversity. The city is also an ideal base for day trips to nearby attractions, including beautiful beaches and national parks, making it a perfect destination for both leisure travelers and adventure seekers alike.",
+    "top_attractions": [
+      {
+        "name": "Kim Yong Market",
+        "description": "A bustling market known for its wide array of products, including fresh produce, clothing, and local snacks. It's a great place to experience local culture and shop for souvenirs."
+      },
+      {
+        "name": "Floating Market",
+        "description": "A unique market experience where vendors sell their goods from boats. Visitors can enjoy local delicacies and shop for handmade crafts while enjoying the scenic canals."
+      },
+      {
+        "name": "Hat Yai Park",
+        "description": "A serene park featuring beautiful landscapes, a large lake, and a hilltop Buddha statue. It's perfect for leisurely walks and offers stunning views of the city."
+      },
+      {
+        "name": "Asean Night Bazaar",
+        "description": "A vibrant night market showcasing food, clothing, and handicrafts from various Southeast Asian countries. It's a great place to taste local street food and shop for unique items."
+      },
+      {
+        "name": "Wat Hat Yai Nai",
+        "description": "Home to one of the largest reclining Buddha statues in Thailand, this temple is an important spiritual site and a popular tourist destination."
+      },
+      {
+        "name": "Central Festival Hat Yai",
+        "description": "The largest shopping mall in southern Thailand, featuring a wide range of shops, restaurants, and entertainment options, including a cinema and an arcade."
+      },
+      {
+        "name": "Songkhla Lake",
+        "description": "A picturesque lake located nearby, ideal for day trips. Visitors can enjoy boat rides and explore the tranquil surroundings."
+      },
+      {
+        "name": "Hatyai Ice Dome",
+        "description": "A unique ice sculpture exhibition featuring intricate ice carvings in a chilled environment, providing a cool escape from the tropical heat."
+      }
+    ],
+    "top_restaurants": [
+      {
+        "name": "Chao Sadao",
+        "cuisine": "Thai",
+        "description": "A popular restaurant known for its authentic Thai dishes, particularly the spicy seafood curries that reflect the region's culinary heritage."
+      },
+      {
+        "name": "Siam Oriental",
+        "cuisine": "Thai",
+        "description": "Offers a diverse menu of traditional Thai cuisine in a cozy setting, famous for its pad thai and tom yum soup."
+      },
+      {
+        "name": "The Basil",
+        "cuisine": "Thai",
+        "description": "Specializes in grilled dishes and stir-fried specialties, known for its fresh ingredients and flavorful sauces."
+      },
+      {
+        "name": "Hatyai Khao Man Gai",
+        "cuisine": "Thai",
+        "description": "Renowned for its khao man gai (chicken rice), this eatery attracts both locals and tourists with its delectable dishes."
+      },
+      {
+        "name": "Hatyai Koong",
+        "cuisine": "Seafood",
+        "description": "A seafood lover's paradise, this restaurant serves fresh catches daily, prepared with local herbs and spices."
+      },
+      {
+        "name": "Khanom Jeen Namya",
+        "cuisine": "Thai",
+        "description": "Famous for its khanom jeen (rice noodles) served with a variety of spicy curries, perfect for those looking to try local flavors."
+      },
+      {
+        "name": "Tao Kae Noi",
+        "cuisine": "Snacks",
+        "description": "A casual spot offering a range of Thai snacks and street food, including fried seaweed and spicy fish cakes."
+      }
+    ],
+    "top_hotels": [
+      {
+        "name": "Lee Gardens Plaza Hotel",
+        "price_range": "$$$",
+        "description": "A modern hotel located in the heart of Hat Yai, offering comfortable rooms, a swimming pool, and easy access to shopping and attractions."
+      },
+      {
+        "name": "Centara Hotel Hat Yai",
+        "price_range": "$$$",
+        "description": "This luxurious hotel features well-appointed rooms, a spa, and multiple dining options, making it a perfect choice for travelers seeking comfort."
+      },
+      {
+        "name": "The Regency Hotel Hatyai",
+        "price_range": "$$",
+        "description": "Offers a range of accommodations with modern amenities, a swimming pool, and is conveniently located near shopping areas."
+      },
+      {
+        "name": "Hatyai Paradise Hotel",
+        "price_range": "$$",
+        "description": "A family-friendly hotel with spacious rooms and a children's pool, situated close to local attractions and dining options."
+      },
+      {
+        "name": "New Season Square Hotel",
+        "price_range": "$",
+        "description": "A budget-friendly hotel offering clean and comfortable rooms with essential amenities, ideal for travelers looking for economical stays."
+      },
+      {
+        "name": "Renaissance Hatyai Hotel",
+        "price_range": "$$$$",
+        "description": "A high-end hotel known for its elegant design, exceptional service, and a rooftop bar with stunning views of the city."
+      }
+    ],
+    "travel_tips": [
+      "Bargain at local markets to get the best deals on souvenirs and food.",
+      "Try to learn a few basic Thai phrases to enhance your interactions with locals.",
+      "Stay hydrated and use sunscreen, as the tropical sun can be intense.",
+      "Use public transportation or tuk-tuks for convenient travel around the city.",
+      "Plan your visit around local festivals to experience authentic cultural events."
+    ],
+    "best_time_to_visit": {
+      "season": "November to February",
+      "weather": "Cool and dry",
+      "reasons": "Ideal weather for outdoor activities and exploration."
+    },
+    "budget_info": {
+      "daily_budget": {
+        "budget": "$20-30",
+        "mid": "$50-100",
+        "luxury": "$150+"
+      }
+    },
+    "enhanced_at": "2025-05-25T19:46:43.404Z",
+    "ai_generated": true
+  },
+  "cached_at": "2025-05-25T19:46:43.404Z",
+  "expires_at": "2025-05-26T19:46:43.404Z"
+}

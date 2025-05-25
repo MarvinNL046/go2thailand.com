@@ -1,0 +1,57 @@
+{
+  "id": 5,
+  "slug": "ayutthaya",
+  "name": {
+    "en": "Ayutthaya",
+    "nl": "Ayutthaya"
+  },
+  "region": "Central",
+  "province": "Ayutthaya",
+  "description": {
+    "en": "Historic former capital, UNESCO World Heritage, with ancient temples and ruins.",
+    "nl": "Historische oude hoofdstad, UNESCO Werelderfgoed, met oude tempels en ruïnes."
+  },
+  "population": 52000,
+  "highlights": [
+    "Ayutthaya Historical Park",
+    "Wat Mahathat",
+    "Wat Chaiwatthanaram"
+  ],
+  "location": {
+    "lat": 14.3532,
+    "lng": 100.5689
+  },
+  "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Ayutthaya | What to do in Ayutthaya?",
+      "nl": "Ontdek Ayutthaya | Wat te doen in Ayutthaya?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Ayutthaya, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Ayutthaya, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Ayutthaya",
+      "nl": "Beste restaurants en streetfood in Ayutthaya"
+    },
+    "hotels": {
+      "en": "Top hotels in Ayutthaya | Tips & deals",
+      "nl": "Beste hotels in Ayutthaya | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Ayutthaya",
+      "nl": "Top bezienswaardigheden in Ayutthaya"
+    }
+  },
+  "tags": [
+    "central",
+    "ayutthaya",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

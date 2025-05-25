@@ -1,0 +1,49 @@
+{
+  "id": 3,
+  "slug": "chatuchak-market",
+  "name": {
+    "en": "Chatuchak Weekend Market",
+    "nl": "Chatuchak Weekend Market"
+  },
+  "type": "market",
+  "city_slug": "bangkok",
+  "address": "587, 10 Kamphaeng Phet 2 Rd, Chatuchak",
+  "location": {
+    "lat": 13.7998,
+    "lng": 100.5522
+  },
+  "opening_hours": "09:00-18:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "One of the world's largest weekend markets with over 15000 stalls",
+    "nl": "Een van 's werelds grootste weekendmarkten met meer dan 15000 kraampjes"
+  },
+  "highlights": [
+    "15000+ stalls",
+    "Vintage clothing",
+    "Local handicrafts"
+  ],
+  "image": "/images/attractions/bangkok/chatuchak-market.webp",
+  "official_website": "https://www.chatuchakmarket.org",
+  "seo": {
+    "metaTitle": {
+      "en": "Chatuchak Weekend Market - Top Attraction in Bangkok | Go2Thailand",
+      "nl": "Chatuchak Weekend Market - Top Attractie in Bangkok | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Chatuchak Weekend Market in Bangkok. One of the world's largest weekend markets with over 15000 stalls...",
+      "nl": "Ontdek Chatuchak Weekend Market in Bangkok. Een van 's werelds grootste weekendmarkten met meer dan 15000 kraampjes..."
+    }
+  },
+  "tags": [
+    "market",
+    "bangkok",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

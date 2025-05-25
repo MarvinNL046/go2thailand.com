@@ -1,0 +1,179 @@
+{
+  "key": "sukhothai",
+  "type": "enhanced_city",
+  "content": {
+    "id": 9,
+    "slug": "sukhothai",
+    "name": {
+      "en": "Sukhothai",
+      "nl": "Sukhothai"
+    },
+    "region": "Northern",
+    "province": "Sukhothai",
+    "description": {
+      "en": "Famous for Sukhothai Historical Park, ruins of Thailand’s first capital.",
+      "nl": "Beroemd om Sukhothai Historical Park, ruïnes van de eerste Thaise hoofdstad."
+    },
+    "population": 37000,
+    "highlights": [
+      "Historical Park",
+      "Wat Mahathat",
+      "Wat Si Chum",
+      "Yom River"
+    ],
+    "location": {
+      "lat": 17.0078,
+      "lng": 99.8237
+    },
+    "image": "https://images.unsplash.com/photo-1509228468518-c5eeecbff44a",
+    "seo": {
+      "metaTitle": {
+        "en": "Discover Sukhothai | What to do in Sukhothai?",
+        "nl": "Ontdek Sukhothai | Wat te doen in Sukhothai?"
+      },
+      "metaDescription": {
+        "en": "Your guide to Sukhothai, Thailand – tips, highlights, food, hotels.",
+        "nl": "Jouw gids voor Sukhothai, Thailand – tips, highlights, eten, hotels."
+      }
+    },
+    "categories": {
+      "food": {
+        "en": "Best restaurants and street food in Sukhothai",
+        "nl": "Beste restaurants en streetfood in Sukhothai"
+      },
+      "hotels": {
+        "en": "Top hotels in Sukhothai | Tips & deals",
+        "nl": "Beste hotels in Sukhothai | Tips & aanbiedingen"
+      },
+      "attractions": {
+        "en": "Top attractions in Sukhothai",
+        "nl": "Top bezienswaardigheden in Sukhothai"
+      }
+    },
+    "tags": [
+      "northern",
+      "sukhothai",
+      "thailand",
+      "travel",
+      "tourism",
+      "guide"
+    ],
+    "enhanced_description": "Sukhothai, a UNESCO World Heritage Site, is a captivating city that serves as a portal to Thailand's rich historical past. As the first capital of the Kingdom of Siam in the 13th century, Sukhothai boasts an impressive array of ancient ruins, with the Sukhothai Historical Park being the crown jewel. This expansive park features well-preserved temples, stupas, and Buddha statues that reflect the architectural brilliance of the Sukhothai period. Visitors can stroll through serene pathways, enjoying the tranquil beauty of lotus-filled ponds and the majestic backdrop of the ruins. Wat Mahathat, with its iconic seated Buddha and intricate carvings, stands as a testament to the artistic prowess of the time. Nearby, Wat Si Chum houses a monumental Buddha statue, providing a breathtaking sight that leaves visitors in awe. The Yom River flows gracefully through the city, offering picturesque views and opportunities for leisurely boat rides. Beyond the historical aspects, Sukhothai also serves as a gateway to explore the natural beauty of the surrounding region, including national parks and rural landscapes. With a vibrant local culture, delicious street food, and friendly residents, Sukhothai invites travelers to immerse themselves in a truly unique Thai experience.",
+    "top_attractions": [
+      {
+        "name": "Sukhothai Historical Park",
+        "description": "A vast archaeological site featuring the ruins of the ancient city of Sukhothai, including temples, stupas, and Buddha statues set in a beautifully landscaped park."
+      },
+      {
+        "name": "Wat Mahathat",
+        "description": "The most important temple in Sukhothai, known for its iconic seated Buddha statue and impressive architecture that exemplifies the Sukhothai style."
+      },
+      {
+        "name": "Wat Si Chum",
+        "description": "Famous for its giant Buddha statue, Phra Achana, this temple also features remarkable architectural design and is surrounded by serene gardens."
+      },
+      {
+        "name": "Ramkhamhaeng National Museum",
+        "description": "This museum showcases artifacts from the Sukhothai era, providing insights into the history and culture of the ancient kingdom."
+      },
+      {
+        "name": "Wat Sra Si",
+        "description": "Set on an island in a large lotus pond, this temple features a beautiful stupa and offers picturesque views, especially during sunrise."
+      },
+      {
+        "name": "Yom River",
+        "description": "A tranquil river perfect for boat rides, offering scenic views of the historical park and the surrounding landscape."
+      },
+      {
+        "name": "Phra Mae Ya Shrine",
+        "description": "An important shrine dedicated to the goddess of rice, reflecting the agricultural heritage of the region."
+      },
+      {
+        "name": "Sukhothai Night Market",
+        "description": "A lively market featuring local street food, souvenirs, and handicrafts, ideal for experiencing the local culture and cuisine."
+      }
+    ],
+    "top_restaurants": [
+      {
+        "name": "Baan Niyom",
+        "cuisine": "Thai",
+        "description": "A charming restaurant offering authentic Thai dishes made from fresh, local ingredients in a cozy setting."
+      },
+      {
+        "name": "Sukhothai Kitchen",
+        "cuisine": "Thai",
+        "description": "Known for its traditional Sukhothai noodles and curries, this eatery provides a delightful dining experience with a local twist."
+      },
+      {
+        "name": "Phae Mueang",
+        "cuisine": "Thai",
+        "description": "A popular spot for both locals and tourists, specializing in a variety of Thai dishes, including vegetarian options."
+      },
+      {
+        "name": "Krua Sukhothai",
+        "cuisine": "Thai",
+        "description": "Offers a menu rich in local flavors, with a focus on fresh seafood and traditional recipes in a warm atmosphere."
+      },
+      {
+        "name": "Sukhothai Pizza",
+        "cuisine": "Italian",
+        "description": "This unique fusion restaurant serves delicious pizzas and pastas, providing a break from traditional Thai cuisine."
+      },
+      {
+        "name": "Café de Sukhothai",
+        "cuisine": "Coffee Shop",
+        "description": "A cozy café known for its aromatic coffee and a selection of pastries and light meals, perfect for a quick break."
+      }
+    ],
+    "top_hotels": [
+      {
+        "name": "Sukhothai Heritage Resort",
+        "price_range": "$$$",
+        "description": "A luxurious resort designed in traditional Thai style, offering elegant rooms, a spa, and beautiful gardens."
+      },
+      {
+        "name": "The Legendha Sukhothai",
+        "price_range": "$$",
+        "description": "A charming hotel located near the historical park, featuring comfortable rooms and a lovely pool area."
+      },
+      {
+        "name": "Sukhothai Treasure Resort & Spa",
+        "price_range": "$$$",
+        "description": "This upscale resort offers modern amenities, a relaxing spa, and access to cultural activities in the area."
+      },
+      {
+        "name": "Sukhothai City Resort",
+        "price_range": "$",
+        "description": "A budget-friendly hotel with clean rooms and friendly service, located conveniently close to local attractions."
+      },
+      {
+        "name": "Ruean Phae Guesthouse",
+        "price_range": "$",
+        "description": "A homely guesthouse with a welcoming atmosphere, perfect for budget travelers looking for a local experience."
+      }
+    ],
+    "travel_tips": [
+      "Rent a bicycle to explore the Sukhothai Historical Park for a more immersive experience.",
+      "Visit early in the morning or late afternoon to avoid the heat and enjoy stunning lighting for photography.",
+      "Try the local delicacy, Sukhothai noodles, at one of the street vendors.",
+      "Bring sunscreen and a hat, as the sun can be quite strong during the day.",
+      "Learn a few basic Thai phrases to enhance your interaction with locals."
+    ],
+    "best_time_to_visit": {
+      "season": "November to February",
+      "weather": "Cool and dry",
+      "reasons": "This period offers the most pleasant temperatures and minimal rainfall, ideal for exploring outdoor attractions."
+    },
+    "budget_info": {
+      "daily_budget": {
+        "budget": "$25-50",
+        "mid": "$50-150",
+        "luxury": "$150+"
+      }
+    },
+    "enhanced_at": "2025-05-25T19:47:05.129Z",
+    "ai_generated": true
+  },
+  "cached_at": "2025-05-25T19:47:05.129Z",
+  "expires_at": "2025-05-26T19:47:05.129Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 5,
+  "slug": "wat-arun",
+  "name": {
+    "en": "Wat Arun",
+    "nl": "Wat Arun"
+  },
+  "type": "temple",
+  "city_slug": "bangkok",
+  "address": "158 Thanon Wang Doem, Wat Arun, Bangkok Yai",
+  "location": {
+    "lat": 13.7437,
+    "lng": 100.4887
+  },
+  "opening_hours": "08:00-18:00",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Temple of Dawn famous for its towering spires and intricate ceramic details",
+    "nl": "Tempel van de Dageraad beroemd om zijn torenhoge spitsen en ingewikkelde keramische details"
+  },
+  "highlights": [
+    "Temple of Dawn",
+    "Ceramic spires",
+    "Sunset views"
+  ],
+  "image": "/images/attractions/bangkok/wat-arun.webp",
+  "official_website": "https://www.watarun.org",
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Arun - Top Attraction in Bangkok | Go2Thailand",
+      "nl": "Wat Arun - Top Attractie in Bangkok | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Arun in Bangkok. Temple of Dawn famous for its towering spires and intricate ceramic details...",
+      "nl": "Ontdek Wat Arun in Bangkok. Tempel van de Dageraad beroemd om zijn torenhoge spitsen en ingewikkelde keramische details..."
+    }
+  },
+  "tags": [
+    "temple",
+    "bangkok",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ],
+  "enhanced_description": "Wat Arun, known as the Temple of Dawn, is one of Bangkok's most iconic landmarks, renowned for its stunning architectural beauty and intricate ceramic details. This temple, which sits majestically by the Chao Phraya River, is characterized by its towering spires that reach up to 82 meters, symbolizing Mount Meru, the center of the universe in Buddhist cosmology. Visitors can explore the complex adorned with colorful porcelain and Chinese porcelain, which creates a dazzling spectacle, especially when illuminated at dusk. The temple is a significant religious site, representing the dawn and the arrival of fresh beginnings. As you ascend the steep steps of the central spire, you'll be rewarded with breathtaking views of the river and the city skyline, making it a must-visit for photographers and sunset seekers alike. With an entrance fee of just ฿100, Wat Arun offers a rich cultural experience and an opportunity to immerse yourself in Thailand's spiritual heritage, making it well worth the trip.",
+  "detailed_history": "Wat Arun has its roots in the early Ayutthaya period and was originally known as Wat Makok. It gained prominence during the reign of King Rama II, who renamed it after the Hindu god Aruna, symbolizing the dawn. The temple was later renovated by King Rama III, and its distinctive central spire was completed in the mid-19th century. The temple's design reflects the influence of Khmer architecture, and its intricate porcelain decoration is a testament to the exceptional craftsmanship of Thai artisans. Wat Arun is not only a place of worship but also a symbol of Thai resilience and artistry, representing the country's rich cultural heritage and history.",
+  "visitor_experience": "When visiting Wat Arun, guests can expect to explore a sprawling temple complex that is both serene and vibrant. The main area features the towering central prang surrounded by smaller prangs and beautifully decorated halls. Visitors typically spend about 1-2 hours exploring the temple grounds, taking in the stunning architecture and serene atmosphere. Be prepared to climb steep steps for the best views, and enjoy wandering through the intricately designed walkways that showcase the temple's history and artistic significance.",
+  "best_time_to_visit": {
+    "time_of_day": "Evening, as the temple is beautifully illuminated during sunset, providing a breathtaking backdrop for photographs.",
+    "duration": "Recommended visit duration is 1-2 hours.",
+    "crowd_level": "Crowd levels peak during mid-morning and late afternoon; visiting early in the morning or just before closing can help avoid the crowds."
+  },
+  "photography_tips": [
+    "Best photo spots include the base of the central spire and the elevated platforms for panoramic views.",
+    "Golden hour lighting enhances the temple's beauty, particularly at sunrise and sunset.",
+    "The area around the river provides stunning reflections of the temple, perfect for Instagram shots.",
+    "Be mindful of photography restrictions in certain areas, especially within the inner sanctum."
+  ],
+  "practical_info": {
+    "how_to_get_there": "Wat Arun is accessible by ferry from the Tha Tien Pier, which is a short walk from the Grand Palace. Alternatively, taxis and tuk-tuks are widely available.",
+    "nearby_attractions": "Nearby attractions include Wat Pho (Temple of the Reclining Buddha), the Grand Palace, and the National Museum.",
+    "food_options": "Local eateries and street food stalls are available near the entrance, offering traditional Thai dishes and snacks.",
+    "shopping": "Souvenir shops are located within the temple complex, selling handmade crafts and religious artifacts."
+  },
+  "insider_tips": [
+    "Visit early in the morning for a quieter experience and cooler temperatures.",
+    "Climb the central spire for a unique perspective of the temple and the surrounding area.",
+    "Many tourists miss the small museum at the temple, which offers insights into its history.",
+    "Dress modestly, covering shoulders and knees, as it is a place of worship."
+  ],
+  "seasonal_considerations": "Thailand's dry season (November to February) is the best time to visit, offering cooler temperatures and clear skies. The rainy season (May to October) can result in muddy paths and less visibility.",
+  "accessibility": "The temple has uneven surfaces and steep steps, which may pose challenges for visitors with mobility issues. However, there are areas accessible by wheelchair around the complex.",
+  "cultural_significance": "Wat Arun is a vital representation of Thai culture and Buddhist beliefs. It symbolizes the transition from darkness to light, mirroring the spiritual journey of many practitioners.",
+  "fun_facts": [
+    "Wat Arun's central spire is often said to be inspired by the Khmer temple of Angkor Wat.",
+    "The temple is featured on the reverse of the Thai 10 baht coin.",
+    "It was the first temple to be built in the Rattanakosin period, marking the beginning of Bangkok as the capital of Thailand."
+  ],
+  "enhanced_at": "2025-05-25T20:46:22.011Z",
+  "ai_generated": true
+}

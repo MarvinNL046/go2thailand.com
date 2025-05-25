@@ -1,0 +1,49 @@
+{
+  "id": 10,
+  "slug": "damnoen-saduak",
+  "name": {
+    "en": "Damnoen Saduak Floating Market",
+    "nl": "Damnoen Saduak Floating Market"
+  },
+  "type": "market",
+  "city_slug": "bangkok",
+  "address": "Damnoen Saduak District, Ratchaburi Province",
+  "location": {
+    "lat": 13.5186,
+    "lng": 99.9547
+  },
+  "opening_hours": "07:00-17:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Traditional floating market experience with vendors selling from boats",
+    "nl": "Traditionele drijvende marktervaring met verkopers die vanaf boten verkopen"
+  },
+  "highlights": [
+    "Floating market",
+    "Traditional boats",
+    "Local produce"
+  ],
+  "image": "/images/attractions/bangkok/damnoen-saduak.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Damnoen Saduak Floating Market - Top Attraction in Bangkok | Go2Thailand",
+      "nl": "Damnoen Saduak Floating Market - Top Attractie in Bangkok | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Damnoen Saduak Floating Market in Bangkok. Traditional floating market experience with vendors selling from boats...",
+      "nl": "Ontdek Damnoen Saduak Floating Market in Bangkok. Traditionele drijvende marktervaring met verkopers die vanaf boten verkopen..."
+    }
+  },
+  "tags": [
+    "market",
+    "bangkok",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

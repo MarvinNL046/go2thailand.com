@@ -1,0 +1,49 @@
+{
+  "id": 4,
+  "slug": "khao-san-road",
+  "name": {
+    "en": "Khao San Road",
+    "nl": "Khao San Road"
+  },
+  "type": "street",
+  "city_slug": "bangkok",
+  "address": "Khao San Road, Banglamphu, Phra Nakhon",
+  "location": {
+    "lat": 13.7589,
+    "lng": 100.4978
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Famous backpacker street with budget accommodations and vibrant nightlife",
+    "nl": "Beroemde backpackersstraat met budgetaccommodaties en bruisend nachtleven"
+  },
+  "highlights": [
+    "Backpacker hub",
+    "Street food",
+    "Nightlife"
+  ],
+  "image": "/images/attractions/bangkok/khao-san-road.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Khao San Road - Top Attraction in Bangkok | Go2Thailand",
+      "nl": "Khao San Road - Top Attractie in Bangkok | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Khao San Road in Bangkok. Famous backpacker street with budget accommodations and vibrant nightlife...",
+      "nl": "Ontdek Khao San Road in Bangkok. Beroemde backpackersstraat met budgetaccommodaties en bruisend nachtleven..."
+    }
+  },
+  "tags": [
+    "street",
+    "bangkok",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "key": "pattaya",
+  "type": "enhanced_city",
+  "content": {
+    "id": 4,
+    "slug": "pattaya",
+    "name": {
+      "en": "Pattaya",
+      "nl": "Pattaya"
+    },
+    "region": "Central",
+    "province": "Chonburi",
+    "description": {
+      "en": "Lively coastal city close to Bangkok, known for beaches, nightlife, and family attractions.",
+      "nl": "Levendige kuststad nabij Bangkok, bekend om stranden, uitgaan en attracties."
+    },
+    "population": 119000,
+    "highlights": [
+      "Walking Street",
+      "Sanctuary of Truth",
+      "Jomtien Beach",
+      "Floating Market"
+    ],
+    "location": {
+      "lat": 12.9236,
+      "lng": 100.8825
+    },
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368",
+    "seo": {
+      "metaTitle": {
+        "en": "Discover Pattaya | What to do in Pattaya?",
+        "nl": "Ontdek Pattaya | Wat te doen in Pattaya?"
+      },
+      "metaDescription": {
+        "en": "Your guide to Pattaya, Thailand – tips, highlights, food, hotels.",
+        "nl": "Jouw gids voor Pattaya, Thailand – tips, highlights, eten, hotels."
+      }
+    },
+    "categories": {
+      "food": {
+        "en": "Best restaurants and street food in Pattaya",
+        "nl": "Beste restaurants en streetfood in Pattaya"
+      },
+      "hotels": {
+        "en": "Top hotels in Pattaya | Tips & deals",
+        "nl": "Beste hotels in Pattaya | Tips & aanbiedingen"
+      },
+      "attractions": {
+        "en": "Top attractions in Pattaya",
+        "nl": "Top bezienswaardigheden in Pattaya"
+      }
+    },
+    "tags": [
+      "central",
+      "chonburi",
+      "thailand",
+      "travel",
+      "tourism",
+      "guide"
+    ],
+    "enhanced_description": "Pattaya, a vibrant coastal city located just a short drive from Bangkok, is renowned for its stunning beaches, exhilarating nightlife, and diverse family-friendly attractions. Once a quiet fishing village, Pattaya has transformed into a bustling resort town that caters to a wide range of travelers. Visitors can enjoy sunbathing on the golden sands of Jomtien Beach, partake in thrilling water sports, or delve into the cultural richness of the Sanctuary of Truth, an intricate wooden temple that showcases traditional Thai craftsmanship. The city's nightlife is legendary, with Walking Street offering an electrifying atmosphere filled with bars, nightclubs, and entertainment venues. For those seeking a more tranquil experience, the Pattaya Floating Market provides a glimpse into local culture, where visitors can shop for handicrafts and enjoy delicious Thai street food while taking in the picturesque canals. Whether you're looking for adventure, relaxation, or cultural exploration, Pattaya offers a unique blend of experiences that make it a must-visit destination in Thailand.",
+    "top_attractions": [
+      {
+        "name": "Walking Street",
+        "description": "A lively street famous for its nightlife, featuring numerous bars, clubs, and entertainment options that come alive after sunset."
+      },
+      {
+        "name": "Sanctuary of Truth",
+        "description": "An architectural marvel made entirely of wood, this temple showcases intricate carvings and is dedicated to philosophy, art, and culture."
+      },
+      {
+        "name": "Jomtien Beach",
+        "description": "A beautiful beach ideal for families, offering water sports, beachside dining, and a more relaxed atmosphere compared to Pattaya Beach."
+      },
+      {
+        "name": "Pattaya Floating Market",
+        "description": "A cultural market where visitors can explore traditional Thai crafts, enjoy local cuisine, and experience the charm of boats navigating the canals."
+      },
+      {
+        "name": "Nong Nooch Tropical Botanical Garden",
+        "description": "A stunning 500-acre garden showcasing a wide variety of plants, flowers, and cultural shows, perfect for a day of exploration."
+      },
+      {
+        "name": "Art in Paradise",
+        "description": "An interactive 3D art museum where visitors can engage in creative photo opportunities with optical illusion artworks."
+      },
+      {
+        "name": "Pattaya Viewpoint",
+        "description": "Offering panoramic views of Pattaya Bay, this viewpoint is a popular spot for photography, especially during sunset."
+      },
+      {
+        "name": "Tiffany's Show",
+        "description": "A world-renowned cabaret show featuring extravagant performances by talented transgender artists, known for its colorful costumes and spectacular stage design."
+      }
+    ],
+    "top_restaurants": [
+      {
+        "name": "Cabbages & Condoms",
+        "cuisine": "Thai",
+        "description": "A unique dining experience that promotes safe sex awareness while serving delicious Thai cuisine with a beautiful sea view."
+      },
+      {
+        "name": "The Glass House",
+        "cuisine": "Seafood/International",
+        "description": "Located on the beach, this restaurant offers a relaxed atmosphere with a menu featuring fresh seafood and international dishes."
+      },
+      {
+        "name": "Moom Talay",
+        "cuisine": "Thai/Seafood",
+        "description": "A beachfront restaurant known for its fresh seafood and authentic Thai flavors, making it a favorite among locals and tourists alike."
+      },
+      {
+        "name": "Pattaya Beer Garden",
+        "cuisine": "International",
+        "description": "A casual dining spot known for its extensive menu and stunning views of the beach, perfect for enjoying a meal with a cold drink."
+      },
+      {
+        "name": "Siam Lounge",
+        "cuisine": "Thai/International",
+        "description": "An elegant restaurant offering a mix of traditional Thai dishes and international cuisine, set in a luxurious environment."
+      },
+      {
+        "name": "Benihana",
+        "cuisine": "Japanese",
+        "description": "A teppanyaki restaurant that delivers an entertaining dining experience with skilled chefs preparing fresh meals right in front of you."
+      },
+      {
+        "name": "Krua Nha Bann",
+        "cuisine": "Thai",
+        "description": "A hidden gem that serves authentic Thai dishes, known for its home-cooked flavors and cozy atmosphere."
+      }
+    ],
+    "top_hotels": [
+      {
+        "name": "Hilton Pattaya",
+        "price_range": "$$$$",
+        "description": "Luxurious hotel situated in the heart of Pattaya, offering stunning ocean views, modern amenities, and an infinity pool."
+      },
+      {
+        "name": "Centara Grand Mirage Beach Resort",
+        "price_range": "$$$$",
+        "description": "A family-friendly resort with a water park, private beach access, and various dining options, perfect for both relaxation and fun."
+      },
+      {
+        "name": "Dusit Thani Pattaya",
+        "price_range": "$$$",
+        "description": "A five-star hotel featuring elegant rooms, lush gardens, and direct beach access, along with multiple dining options."
+      },
+      {
+        "name": "Holiday Inn Pattaya",
+        "price_range": "$$$",
+        "description": "Ideal for families and business travelers, this hotel offers modern rooms, a kids' club, and a beautiful pool area."
+      },
+      {
+        "name": "Avani Pattaya Resort",
+        "price_range": "$$$",
+        "description": "A tranquil resort located on the beach, providing spacious accommodations, a full-service spa, and various recreational activities."
+      },
+      {
+        "name": "The Bayview Hotel Pattaya",
+        "price_range": "$$",
+        "description": "A mid-range hotel offering comfortable rooms with sea views, a swimming pool, and easy access to local attractions."
+      },
+      {
+        "name": "Ibis Pattaya",
+        "price_range": "$",
+        "description": "An economical option providing clean, modern rooms and located close to the beach and local nightlife."
+      }
+    ],
+    "travel_tips": [
+      "Always negotiate prices when shopping at local markets.",
+      "Use public transport or songthaews for affordable travel around the city.",
+      "Stay hydrated and wear sunscreen, especially during the hot months.",
+      "Respect local customs and dress appropriately when visiting temples.",
+      "Be cautious when partaking in nightlife activities; stay in groups and watch your belongings."
+    ],
+    "best_time_to_visit": {
+      "season": "November to February",
+      "weather": "Cool and dry",
+      "reasons": "This period offers pleasant temperatures and lower humidity, making it ideal for beach activities and outdoor excursions."
+    },
+    "budget_info": {
+      "daily_budget": {
+        "budget": "$30-$50",
+        "mid": "$50-$150",
+        "luxury": "$150+"
+      }
+    },
+    "enhanced_at": "2025-05-25T19:45:15.894Z",
+    "ai_generated": true
+  },
+  "cached_at": "2025-05-25T19:45:15.894Z",
+  "expires_at": "2025-05-26T19:45:15.894Z"
+}

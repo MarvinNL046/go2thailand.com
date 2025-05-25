@@ -1,0 +1,510 @@
+import { GetStaticProps, GetStaticPaths } from 'next';
+import Head from 'next/head';
+import Image from 'next/image';
+import Link from 'next/link';
+import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getRelatedCities, getCityImageForSection } from '../../../lib/cities';
+import Breadcrumbs from '../../../components/Breadcrumbs';
+import CityCard from '../../../components/CityCard';
+import EzoicAd from '../../../components/EzoicAd';
+import { AD_PLACEMENTS } from '../../../lib/ads/ezoic-config';
+
+interface City {
+  id: number;
+  slug: string;
+  name: {
+    en: string;
+    nl: string;
+  };
+  region: string;
+  province: string;
+  description: {
+    en: string;
+    nl: string;
+  };
+  population: number;
+  highlights: string[];
+  location: {
+    lat: number;
+    lng: number;
+  };
+  image: string;
+  images?: {
+    hero?: string;
+    attractions?: string;
+    restaurants?: string;
+    hotels?: string;
+    food?: string;
+  };
+  seo: {
+    metaTitle: {
+      en: string;
+      nl: string;
+    };
+    metaDescription: {
+      en: string;
+      nl: string;
+    };
+  };
+  categories: {
+    food: {
+      en: string;
+      nl: string;
+    };
+    hotels: {
+      en: string;
+      nl: string;
+    };
+    attractions: {
+      en: string;
+      nl: string;
+    };
+  };
+  tags: string[];
+  // Enhanced content
+  enhanced_description?: string;
+  top_attractions?: Array<{
+    name: string;
+    description: string;
+  }>;
+  top_restaurants?: Array<{
+    name: string;
+    cuisine?: string;
+    description: string;
+  }>;
+  top_hotels?: Array<{
+    name: string;
+    price_range?: string;
+    description: string;
+  }>;
+  travel_tips?: string[];
+  best_time_to_visit?: {
+    season: string;
+    weather: string;
+    reasons: string;
+  };
+  budget_info?: {
+    daily_budget?: {
+      budget: string;
+      mid: string;
+      luxury: string;
+    };
+  };
+  ai_generated?: boolean;
+}
+
+interface CityPageProps {
+  city: City;
+  relatedCities: any[];
+}
+
+export default function CityPage({ city, relatedCities }: CityPageProps) {
+  if (!city) {
+    return <div>City not found</div>;
+  }
+
+  const breadcrumbs = generateBreadcrumbs(city);
+  const metadata = generateCityMetadata(city);
+
+  return (
+    <>
+      <Head>
+        <title>{metadata.title}</title>
+        <meta name="description" content={metadata.description} />
+        <meta name="keywords" content={metadata.keywords} />
+        <meta property="og:title" content={metadata.openGraph?.title || metadata.title} />
+        <meta property="og:description" content={metadata.openGraph?.description || metadata.description} />
+        <meta property="og:image" content={metadata.openGraph?.images?.[0]?.url || getCityImageForSection(city, 'hero')} />
+        <meta property="og:type" content={metadata.openGraph?.type || 'website'} />
+        <link rel="canonical" href={`https://go2-thailand.com/city/${city.slug}/`} />
+      </Head>
+
+      <div className="bg-gray-50 min-h-screen">
+        {/* Hero Section */}
+        <section className="relative h-96 lg:h-[500px] overflow-hidden">
+          <div className="absolute inset-0">
+            <Image
+              src={getCityImageForSection(city, 'hero')}
+              alt={`${city.name.en}, Thailand`}
+              fill
+              className="object-cover"
+              priority
+            />
+            <div className="absolute inset-0 bg-black bg-opacity-50"></div>
+          </div>
+          
+          <div className="relative z-10 h-full flex items-end">
+            <div className="container-custom pb-12 text-white">
+              <div className="max-w-4xl">
+                <div className="flex items-center mb-4">
+                  <span className="bg-thailand-red text-white px-3 py-1 rounded text-sm font-semibold mr-3">
+                    {city.region}
+                  </span>
+                  <span className="text-gray-200 text-sm">
+                    {city.province} Province
+                  </span>
+                </div>
+                <h1 className="text-4xl lg:text-6xl font-bold mb-4">
+                  {city.name.en}
+                </h1>
+                <p className="text-xl lg:text-2xl text-gray-200 max-w-3xl">
+                  {city.enhanced_description 
+                    ? city.enhanced_description.substring(0, 200) + '...'
+                    : city.description.en}
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Header Banner Ad */}
+        <section className="bg-white py-4">
+          <div className="container-custom">
+            <EzoicAd {...AD_PLACEMENTS.HEADER_BANNER} />
+          </div>
+        </section>
+
+        {/* Content */}
+        <section className="bg-white">
+          <div className="container-custom py-8">
+            <Breadcrumbs items={breadcrumbs} />
+            
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
+              {/* Main Content */}
+              <div className="lg:col-span-2">
+                {/* City Description */}
+                <div className="mb-12">
+                  <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                    About {city.name.en}
+                  </h2>
+                  <div className="prose prose-lg max-w-none">
+                    <p className="text-gray-700 leading-relaxed mb-6">
+                      {city.enhanced_description || city.description.en}
+                    </p>
+                    <div className="grid grid-cols-2 gap-6 my-8 p-6 bg-gray-50 rounded-lg">
+                      <div>
+                        <h4 className="font-semibold text-gray-900 mb-2">Population</h4>
+                        <p className="text-2xl font-bold text-thailand-blue">
+                          {city.population.toLocaleString()}
+                        </p>
+                      </div>
+                      <div>
+                        <h4 className="font-semibold text-gray-900 mb-2">Region</h4>
+                        <p className="text-2xl font-bold text-thailand-blue">
+                          {city.region}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Top Attractions */}
+                {city.top_attractions && city.top_attractions.length > 0 && (
+                  <div className="mb-12">
+                    <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                      Top Attractions
+                    </h2>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                      {city.top_attractions.slice(0, 6).map((attraction, index) => (
+                        <div key={index} className="card hover:shadow-lg transition-shadow">
+                          <div className="flex items-start">
+                            <div className="flex-shrink-0 w-8 h-8 bg-thailand-blue rounded-full flex items-center justify-center mr-4 mt-1">
+                              <span className="text-white font-bold text-sm">{index + 1}</span>
+                            </div>
+                            <div>
+                              <h3 className="font-bold text-gray-900 mb-2">{attraction.name}</h3>
+                              <p className="text-gray-600 text-sm">{attraction.description}</p>
+                            </div>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {/* In-Content Ad */}
+                <div className="mb-12">
+                  <EzoicAd {...AD_PLACEMENTS.IN_CONTENT} />
+                </div>
+
+                {/* Top Restaurants */}
+                {city.top_restaurants && city.top_restaurants.length > 0 && (
+                  <div className="mb-12">
+                    <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                      Best Restaurants
+                    </h2>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                      {city.top_restaurants.slice(0, 6).map((restaurant, index) => (
+                        <div key={index} className="card hover:shadow-lg transition-shadow">
+                          <div>
+                            <div className="flex items-center justify-between mb-2">
+                              <h3 className="font-bold text-gray-900">{restaurant.name}</h3>
+                              {restaurant.cuisine && (
+                                <span className="bg-thailand-blue text-white px-2 py-1 rounded text-xs">
+                                  {restaurant.cuisine}
+                                </span>
+                              )}
+                            </div>
+                            <p className="text-gray-600 text-sm">{restaurant.description}</p>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {/* Top Hotels */}
+                {city.top_hotels && city.top_hotels.length > 0 && (
+                  <div className="mb-12">
+                    <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                      Recommended Hotels
+                    </h2>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                      {city.top_hotels.slice(0, 4).map((hotel, index) => (
+                        <div key={index} className="card hover:shadow-lg transition-shadow">
+                          <div>
+                            <div className="flex items-center justify-between mb-2">
+                              <h3 className="font-bold text-gray-900">{hotel.name}</h3>
+                              {hotel.price_range && (
+                                <span className="bg-green-100 text-green-800 px-2 py-1 rounded text-xs font-medium">
+                                  {hotel.price_range}
+                                </span>
+                              )}
+                            </div>
+                            <p className="text-gray-600 text-sm">{hotel.description}</p>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {/* Travel Tips */}
+                {city.travel_tips && city.travel_tips.length > 0 && (
+                  <div className="mb-12">
+                    <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                      Travel Tips
+                    </h2>
+                    <div className="bg-blue-50 border border-blue-200 rounded-lg p-6">
+                      <ul className="space-y-3">
+                        {city.travel_tips.map((tip, index) => (
+                          <li key={index} className="flex items-start">
+                            <div className="flex-shrink-0 w-5 h-5 bg-blue-500 rounded-full flex items-center justify-center mr-3 mt-0.5">
+                              <svg className="w-3 h-3 text-white" fill="currentColor" viewBox="0 0 20 20">
+                                <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                              </svg>
+                            </div>
+                            <span className="text-gray-700">{tip}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  </div>
+                )}
+
+                {/* Categories */}
+                <div className="mb-12">
+                  <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                    Explore {city.name.en}
+                  </h2>
+                  <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                    {/* Food */}
+                    <Link href={`/city/${city.slug}/food/`}>
+                      <div className="card hover:shadow-xl transition-shadow duration-300 cursor-pointer">
+                        <div className="text-center">
+                          <div className="w-16 h-16 bg-thailand-blue rounded-full flex items-center justify-center mx-auto mb-4">
+                            <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                            </svg>
+                          </div>
+                          <h3 className="text-xl font-bold text-gray-900 mb-2">Food & Dining</h3>
+                          <p className="text-gray-600 text-sm mb-4">
+                            {city.categories.food.en}
+                          </p>
+                          <span className="text-thailand-blue font-medium">
+                            Explore Food →
+                          </span>
+                        </div>
+                      </div>
+                    </Link>
+
+                    {/* Hotels */}
+                    <Link href={`/city/${city.slug}/hotels/`}>
+                      <div className="card hover:shadow-xl transition-shadow duration-300 cursor-pointer">
+                        <div className="text-center">
+                          <div className="w-16 h-16 bg-thailand-blue rounded-full flex items-center justify-center mx-auto mb-4">
+                            <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                            </svg>
+                          </div>
+                          <h3 className="text-xl font-bold text-gray-900 mb-2">Hotels & Stay</h3>
+                          <p className="text-gray-600 text-sm mb-4">
+                            {city.categories.hotels.en}
+                          </p>
+                          <span className="text-thailand-blue font-medium">
+                            Find Hotels →
+                          </span>
+                        </div>
+                      </div>
+                    </Link>
+
+                    {/* Attractions */}
+                    <Link href={`/city/${city.slug}/attractions/`}>
+                      <div className="card hover:shadow-xl transition-shadow duration-300 cursor-pointer">
+                        <div className="text-center">
+                          <div className="w-16 h-16 bg-thailand-blue rounded-full flex items-center justify-center mx-auto mb-4">
+                            <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                            </svg>
+                          </div>
+                          <h3 className="text-xl font-bold text-gray-900 mb-2">Attractions</h3>
+                          <p className="text-gray-600 text-sm mb-4">
+                            {city.categories.attractions.en}
+                          </p>
+                          <span className="text-thailand-blue font-medium">
+                            See Attractions →
+                          </span>
+                        </div>
+                      </div>
+                    </Link>
+                  </div>
+                </div>
+              </div>
+
+              {/* Sidebar */}
+              <div className="lg:col-span-1">
+                {/* Quick Facts */}
+                <div className="card mb-8">
+                  <h3 className="text-xl font-bold text-gray-900 mb-4">Quick Facts</h3>
+                  <div className="space-y-3">
+                    <div className="flex justify-between">
+                      <span className="text-gray-600">Region:</span>
+                      <span className="font-medium">{city.region}</span>
+                    </div>
+                    <div className="flex justify-between">
+                      <span className="text-gray-600">Province:</span>
+                      <span className="font-medium">{city.province}</span>
+                    </div>
+                    <div className="flex justify-between">
+                      <span className="text-gray-600">Population:</span>
+                      <span className="font-medium">{city.population.toLocaleString()}</span>
+                    </div>
+                    <div className="flex justify-between">
+                      <span className="text-gray-600">Coordinates:</span>
+                      <span className="font-medium text-sm">
+                        {city.location.lat.toFixed(4)}, {city.location.lng.toFixed(4)}
+                      </span>
+                    </div>
+                  </div>
+                </div>
+
+                {/* 💰 SIDEBAR AD - THE MONEY MAKER! */}
+                <EzoicAd {...AD_PLACEMENTS.CITY_SIDEBAR} />
+
+                {/* Best Time to Visit */}
+                {city.best_time_to_visit && (
+                  <div className="card mb-8">
+                    <h3 className="text-xl font-bold text-gray-900 mb-4">Best Time to Visit</h3>
+                    <div className="space-y-3">
+                      <div>
+                        <span className="font-medium text-thailand-blue">{city.best_time_to_visit.season}</span>
+                        <p className="text-sm text-gray-600 mt-1">{city.best_time_to_visit.weather}</p>
+                      </div>
+                      <p className="text-sm text-gray-700">{city.best_time_to_visit.reasons}</p>
+                    </div>
+                  </div>
+                )}
+
+                {/* Budget Info */}
+                {city.budget_info?.daily_budget && (
+                  <div className="card mb-8">
+                    <h3 className="text-xl font-bold text-gray-900 mb-4">Daily Budget</h3>
+                    <div className="space-y-3">
+                      <div className="flex justify-between">
+                        <span className="text-gray-600">Budget:</span>
+                        <span className="font-medium text-green-600">{city.budget_info.daily_budget.budget}</span>
+                      </div>
+                      <div className="flex justify-between">
+                        <span className="text-gray-600">Mid-range:</span>
+                        <span className="font-medium text-blue-600">{city.budget_info.daily_budget.mid}</span>
+                      </div>
+                      <div className="flex justify-between">
+                        <span className="text-gray-600">Luxury:</span>
+                        <span className="font-medium text-purple-600">{city.budget_info.daily_budget.luxury}</span>
+                      </div>
+                    </div>
+                  </div>
+                )}
+
+                {/* Tags */}
+                {city.tags && city.tags.length > 0 && (
+                  <div className="card mb-8">
+                    <h3 className="text-xl font-bold text-gray-900 mb-4">Tags</h3>
+                    <div className="flex flex-wrap gap-2">
+                      {city.tags.map((tag, index) => (
+                        <span 
+                          key={index}
+                          className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm"
+                        >
+                          {tag}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Related Cities */}
+        {relatedCities && relatedCities.length > 0 && (
+          <section className="section-padding bg-gray-50">
+            <div className="container-custom">
+              <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+                More Cities in {city.region} Thailand
+              </h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                {relatedCities.map((relatedCity) => (
+                  <CityCard key={relatedCity.id} city={relatedCity} />
+                ))}
+              </div>
+            </div>
+          </section>
+        )}
+
+        {/* Mobile Sticky Ad */}
+        <EzoicAd {...AD_PLACEMENTS.MOBILE_STICKY} />
+      </div>
+    </>
+  );
+}
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const paths = getCityStaticPaths();
+  
+  return {
+    paths,
+    fallback: false,
+  };
+};
+
+export const getStaticProps: GetStaticProps = async ({ params }) => {
+  const slug = params?.slug as string;
+  const city = getCityBySlug(slug);
+  
+  if (!city) {
+    return {
+      notFound: true,
+    };
+  }
+
+  const relatedCities = getRelatedCities(city, 3);
+  
+  return {
+    props: {
+      city,
+      relatedCities,
+    },
+  };
+};

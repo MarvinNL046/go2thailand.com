@@ -1,0 +1,178 @@
+{
+  "id": 3,
+  "slug": "phuket",
+  "name": {
+    "en": "Phuket",
+    "nl": "Phuket"
+  },
+  "region": "Southern",
+  "province": "Phuket",
+  "description": {
+    "en": "Thailand’s largest island, famous for beaches, nightlife, water sports and island hopping.",
+    "nl": "Het grootste eiland van Thailand, beroemd om stranden, uitgaan, watersport en eilandhoppen."
+  },
+  "population": 443000,
+  "highlights": [
+    "Patong Beach",
+    "Big Buddha",
+    "Old Town",
+    "Phi Phi Islands"
+  ],
+  "location": {
+    "lat": 7.8804,
+    "lng": 98.3923
+  },
+  "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Phuket | What to do in Phuket?",
+      "nl": "Ontdek Phuket | Wat te doen in Phuket?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Phuket, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Phuket, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Phuket",
+      "nl": "Beste restaurants en streetfood in Phuket"
+    },
+    "hotels": {
+      "en": "Top hotels in Phuket | Tips & deals",
+      "nl": "Beste hotels in Phuket | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Phuket",
+      "nl": "Top bezienswaardigheden in Phuket"
+    }
+  },
+  "tags": [
+    "southern",
+    "phuket",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ],
+  "enhanced_description": "Phuket, Thailand's largest island, is a vibrant paradise known for its stunning beaches, bustling nightlife, and rich cultural heritage. Located in the Andaman Sea, Phuket offers a diverse range of experiences, from tranquil beach getaways to exhilarating water sports. The island's coastline is dotted with picturesque bays and crystal-clear waters, making it a haven for sun-seekers and adventure enthusiasts alike. Visitors can explore the lively streets of Patong, indulge in sumptuous local cuisine, or immerse themselves in the island's history by visiting landmarks such as the Big Buddha and the charming Old Town. For nature lovers, island hopping to nearby gems like the Phi Phi Islands provides breathtaking scenery and opportunities for snorkeling and diving. As the sun sets, the island transforms into a vibrant nightlife hub, with beach clubs, bars, and night markets that cater to every taste. Whether you seek relaxation or adventure, Phuket promises unforgettable experiences in a tropical paradise.",
+  "top_attractions": [
+    {
+      "name": "Patong Beach",
+      "description": "The most famous beach on the island, known for its lively atmosphere, water sports, and vibrant nightlife."
+    },
+    {
+      "name": "Big Buddha",
+      "description": "A 45-meter tall statue located atop Nakkerd Hill, offering panoramic views of the island and a serene atmosphere."
+    },
+    {
+      "name": "Old Town",
+      "description": "A historical area filled with Sino-Portuguese architecture, colorful buildings, local shops, and charming cafes."
+    },
+    {
+      "name": "Phi Phi Islands",
+      "description": "A stunning group of islands known for their dramatic cliffs, crystal-clear waters, and vibrant marine life, ideal for snorkeling and diving."
+    },
+    {
+      "name": "Phuket Elephant Sanctuary",
+      "description": "An ethical elephant sanctuary where visitors can observe rescued elephants in a natural environment and learn about conservation."
+    },
+    {
+      "name": "Similan Islands",
+      "description": "A national park famous for its incredible diving spots, showcasing vibrant coral reefs and diverse marine species."
+    },
+    {
+      "name": "Bangla Road",
+      "description": "The heart of Phuket's nightlife, featuring an array of bars, clubs, and entertainment options, perfect for night owls."
+    },
+    {
+      "name": "Wat Chalong",
+      "description": "The largest and most important Buddhist temple in Phuket, adorned with beautiful architecture and rich cultural significance."
+    }
+  ],
+  "top_restaurants": [
+    {
+      "name": "Blue Elephant",
+      "cuisine": "Thai",
+      "description": "An upscale restaurant offering authentic Thai cuisine in a beautifully restored colonial mansion."
+    },
+    {
+      "name": "Seafood @ Trisara",
+      "cuisine": "Seafood",
+      "description": "A beachfront restaurant known for its fresh seafood dishes and stunning ocean views."
+    },
+    {
+      "name": "Ka Jok See",
+      "cuisine": "International",
+      "description": "A lively dining venue that transforms into a party atmosphere, serving a mix of international dishes and cocktails."
+    },
+    {
+      "name": "Suay Restaurant",
+      "cuisine": "Thai",
+      "description": "A modern Thai restaurant known for its creative dishes and warm ambiance."
+    },
+    {
+      "name": "The Cliff Bar & Grill",
+      "cuisine": "International",
+      "description": "Perched on a cliff, this restaurant provides breathtaking sunset views and a diverse menu of international favorites."
+    },
+    {
+      "name": "Siam Supper Club",
+      "cuisine": "International",
+      "description": "A stylish venue offering a menu of gourmet dishes and an extensive wine list in a sophisticated setting."
+    }
+  ],
+  "top_hotels": [
+    {
+      "name": "The Nai Harn",
+      "price_range": "$$$$",
+      "description": "A luxurious beachfront hotel offering stunning views, elegant rooms, and a world-class spa."
+    },
+    {
+      "name": "Amari Phuket",
+      "price_range": "$$$",
+      "description": "A family-friendly resort with spacious rooms, multiple dining options, and direct beach access."
+    },
+    {
+      "name": "The Surin Phuket",
+      "price_range": "$$$$",
+      "description": "A serene resort nestled among coconut palms, featuring private cottages and an exclusive beachfront."
+    },
+    {
+      "name": "Holiday Inn Resort Phuket",
+      "price_range": "$$",
+      "description": "A well-known resort offering comfortable accommodations, kid-friendly facilities, and various dining options."
+    },
+    {
+      "name": "Baan Laimai Beach Resort",
+      "price_range": "$$",
+      "description": "A beachfront property providing a relaxed atmosphere, large pools, and easy access to local attractions."
+    },
+    {
+      "name": "Deevana Patong Resort & Spa",
+      "price_range": "$$",
+      "description": "An affordable resort set in a lush tropical garden, offering a peaceful oasis close to Patong Beach."
+    }
+  ],
+  "travel_tips": [
+    "Always negotiate prices when shopping in markets.",
+    "Respect local customs and dress modestly when visiting temples.",
+    "Stay hydrated and use sunscreen while exploring the beaches.",
+    "Consider renting a scooter for convenient island transportation.",
+    "Be cautious of strong currents when swimming in the sea."
+  ],
+  "best_time_to_visit": {
+    "season": "November to February",
+    "weather": "Cool and dry, with temperatures averaging 24-30°C (75-86°F)",
+    "reasons": "Ideal beach weather, perfect for outdoor activities and sightseeing."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$30-50",
+      "mid": "$50-150",
+      "luxury": "$150+"
+    }
+  },
+  "enhanced_at": "2025-05-25T19:44:50.274Z",
+  "ai_generated": true
+}

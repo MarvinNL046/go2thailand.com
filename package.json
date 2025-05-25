@@ -1,0 +1,57 @@
+{
+  "name": "go2-thailand",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "npm run data:generate && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "npm run build && next export",
+    
+    "data:cities": "node lib/convert-cities-data.js",
+    "data:attractions": "node lib/convert-attractions-data.js",
+    "data:enhance-cities": "node lib/enhance-content.js",
+    "data:enhance-attractions": "node lib/enhance-attractions.js",
+    "data:sitemap": "node lib/sitemap.js",
+    "data:verify": "node lib/verify-data.js",
+    "data:generate": "npm run data:cities && npm run data:attractions && npm run data:enhance-cities && npm run data:enhance-attractions && npm run data:sitemap",
+    "data:generate-quick": "npm run data:cities && npm run data:attractions && npm run data:sitemap",
+    
+    "prebuild": "npm run data:generate",
+    "prebuild-quick": "npm run data:generate-quick",
+    
+    "convert-data": "npm run data:cities",
+    "generate-sitemap": "npm run data:sitemap",
+    "enhance": "npm run data:enhance-cities",
+    "enhance-full": "node lib/enhance-content.js full",
+    "enhance-quick": "node lib/enhance-content.js quick",
+    "enhance-stats": "node lib/enhance-content.js stats",
+    "enhance-clear": "node lib/enhance-content.js clear",
+    
+    "build-enhanced": "npm run data:generate && next build",
+    "build-quick": "npm run data:generate-quick && next build",
+    "build-production": "npm run data:verify && npm run data:generate && next build && npm run data:verify",
+    
+    "deploy-prep": "npm run lint && npm run build-production"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.5.0",
+    "next": "14.2.23",
+    "openai": "^4.103.0",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.23",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}

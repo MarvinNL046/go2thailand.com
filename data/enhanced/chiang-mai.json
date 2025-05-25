@@ -1,0 +1,178 @@
+{
+  "id": 2,
+  "slug": "chiang-mai",
+  "name": {
+    "en": "Chiang Mai",
+    "nl": "Chiang Mai"
+  },
+  "region": "Northern",
+  "province": "Chiang Mai",
+  "description": {
+    "en": "Northern Thailand’s cultural hub, known for its old city, night markets, temples, and nearby mountains.",
+    "nl": "Het culturele hart van Noord-Thailand, bekend om de oude stad, markten, tempels en bergen."
+  },
+  "population": 127000,
+  "highlights": [
+    "Doi Suthep",
+    "Old City",
+    "Sunday Night Market",
+    "Elephant Sanctuary"
+  ],
+  "location": {
+    "lat": 18.7883,
+    "lng": 98.9853
+  },
+  "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Chiang Mai | What to do in Chiang Mai?",
+      "nl": "Ontdek Chiang Mai | Wat te doen in Chiang Mai?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Chiang Mai, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Chiang Mai, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Chiang Mai",
+      "nl": "Beste restaurants en streetfood in Chiang Mai"
+    },
+    "hotels": {
+      "en": "Top hotels in Chiang Mai | Tips & deals",
+      "nl": "Beste hotels in Chiang Mai | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Chiang Mai",
+      "nl": "Top bezienswaardigheden in Chiang Mai"
+    }
+  },
+  "tags": [
+    "northern",
+    "chiang mai",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ],
+  "enhanced_description": "Chiang Mai, often dubbed as the cultural capital of Northern Thailand, is a mesmerizing city that beautifully blends ancient traditions with modern allure. Nestled in the mountainous region, its old city walls and moat evoke a sense of history, while the numerous temples, such as Wat Phra That Doi Suthep, offer spiritual solace and breathtaking views. The city is vibrant with its lively night markets, particularly the Sunday Night Market, where local artisans display their crafts and street food stalls entice visitors with tantalizing flavors. The surrounding mountains provide ample opportunities for outdoor adventures, including trekking, zip-lining, and visits to ethical elephant sanctuaries. Chiang Mai is not just a destination; it's an experience that embodies the warmth of Thai culture, making it a must-visit for travelers seeking a blend of relaxation and exploration.",
+  "top_attractions": [
+    {
+      "name": "Doi Suthep",
+      "description": "An iconic mountain temple offering stunning views over the city and a glimpse into the spiritual heart of Buddhism."
+    },
+    {
+      "name": "Old City",
+      "description": "A charming area filled with ancient temples, colonial architecture, and quaint cafés, perfect for leisurely exploration."
+    },
+    {
+      "name": "Sunday Night Market",
+      "description": "A vibrant market where you can find unique handicrafts, local food, and live performances, providing an authentic cultural experience."
+    },
+    {
+      "name": "Elephant Sanctuary",
+      "description": "A sanctuary dedicated to the rescue and rehabilitation of elephants, offering visitors a chance to learn about and interact with these gentle giants in an ethical manner."
+    },
+    {
+      "name": "Wat Chedi Luang",
+      "description": "A historic temple featuring a massive chedi, which was once the tallest structure in ancient Chiang Mai, reflecting the city's rich history."
+    },
+    {
+      "name": "Chiang Mai Night Bazaar",
+      "description": "An expansive market featuring a variety of goods from handicrafts to clothing, along with delicious street food options."
+    },
+    {
+      "name": "Wat Phra Singh",
+      "description": "A beautiful temple known for its impressive Lanna architecture and the revered Phra Singh Buddha statue."
+    },
+    {
+      "name": "Bua Thong Sticky Waterfalls",
+      "description": "Unique waterfalls where visitors can climb the limestone rocks and enjoy a refreshing dip in the crystal-clear waters."
+    }
+  ],
+  "top_restaurants": [
+    {
+      "name": "Khao Soi Khun Yai",
+      "cuisine": "Northern Thai",
+      "description": "Famous for its Khao Soi, a curry noodle soup, this small eatery offers an authentic taste of Northern Thailand."
+    },
+    {
+      "name": "Dash! Teak House",
+      "cuisine": "Thai",
+      "description": "Set in a beautiful teak house, this restaurant serves traditional Thai dishes with a modern twist in a serene garden setting."
+    },
+    {
+      "name": "The Riverside",
+      "cuisine": "International",
+      "description": "Overlooking the river, this restaurant offers a diverse menu, including Thai and international dishes, and features live music in the evenings."
+    },
+    {
+      "name": "SP Chicken",
+      "cuisine": "Thai",
+      "description": "Known for its grilled chicken and flavorful sauces, this casual spot is a favorite among locals and visitors alike."
+    },
+    {
+      "name": "Huen Phen",
+      "cuisine": "Northern Thai",
+      "description": "A popular restaurant specializing in traditional Northern Thai cuisine, offering a cozy atmosphere and generous portions."
+    },
+    {
+      "name": "Tamarind Village Restaurant",
+      "cuisine": "Thai",
+      "description": "Nestled in a boutique hotel, this restaurant serves authentic Thai dishes made from fresh, local ingredients in a tranquil setting."
+    }
+  ],
+  "top_hotels": [
+    {
+      "name": "Anantara Chiang Mai Resort",
+      "price_range": "$$$$",
+      "description": "A luxury riverside resort offering elegant accommodations, a spa, and fine dining options amidst lush gardens."
+    },
+    {
+      "name": "Rimping Village",
+      "price_range": "$$",
+      "description": "A boutique hotel with traditional Lanna-style architecture, located near the Old City, providing comfortable rooms and a welcoming atmosphere."
+    },
+    {
+      "name": "U Nimman Chiang Mai",
+      "price_range": "$$$",
+      "description": "A modern hotel in the trendy Nimmanhaemin area, featuring contemporary rooms, a rooftop pool, and easy access to local attractions."
+    },
+    {
+      "name": "Yaang Come Village",
+      "price_range": "$$",
+      "description": "This charming hotel combines traditional Thai decor with modern amenities, set in a peaceful environment close to the Night Bazaar."
+    },
+    {
+      "name": "Baan Orapin",
+      "price_range": "$$",
+      "description": "A quaint guesthouse set in a lush garden, offering personalized service and well-appointed rooms in a serene location."
+    },
+    {
+      "name": "The Empress Hotel",
+      "price_range": "$$",
+      "description": "A well-established hotel with spacious rooms, a large swimming pool, and convenient access to shopping and dining areas."
+    }
+  ],
+  "travel_tips": [
+    "Dress modestly when visiting temples; shoulders and knees should be covered.",
+    "Bargain at markets, but do so respectfully; it's part of the culture.",
+    "Try local dishes and street food for an authentic culinary experience.",
+    "Use public transportation or rent a bicycle to explore the city efficiently.",
+    "Stay hydrated and protect yourself from the sun, especially during the hot season."
+  ],
+  "best_time_to_visit": {
+    "season": "November to February",
+    "weather": "Cool and dry",
+    "reasons": "The weather is pleasant for outdoor activities and festivals, such as Yi Peng and Loy Krathong."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$30-50",
+      "mid": "$50-150",
+      "luxury": "$150+"
+    }
+  },
+  "enhanced_at": "2025-05-25T19:44:05.224Z",
+  "ai_generated": true
+}

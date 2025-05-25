@@ -1,0 +1,58 @@
+{
+  "id": 6,
+  "slug": "krabi",
+  "name": {
+    "en": "Krabi",
+    "nl": "Krabi"
+  },
+  "region": "Southern",
+  "province": "Krabi",
+  "description": {
+    "en": "Famous for stunning limestone cliffs, beaches, and island hopping (Railay, Ao Nang, Koh Phi Phi).",
+    "nl": "Bekend om de kalkstenen kliffen, stranden en eilanden zoals Railay en Phi Phi."
+  },
+  "population": 36000,
+  "highlights": [
+    "Railay Beach",
+    "Ao Nang",
+    "Emerald Pool",
+    "Tiger Cave Temple"
+  ],
+  "location": {
+    "lat": 8.0863,
+    "lng": 98.9063
+  },
+  "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Krabi | What to do in Krabi?",
+      "nl": "Ontdek Krabi | Wat te doen in Krabi?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Krabi, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Krabi, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Krabi",
+      "nl": "Beste restaurants en streetfood in Krabi"
+    },
+    "hotels": {
+      "en": "Top hotels in Krabi | Tips & deals",
+      "nl": "Beste hotels in Krabi | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Krabi",
+      "nl": "Top bezienswaardigheden in Krabi"
+    }
+  },
+  "tags": [
+    "southern",
+    "krabi",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

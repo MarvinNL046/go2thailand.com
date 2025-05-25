@@ -1,0 +1,49 @@
+{
+  "id": 7,
+  "slug": "siam-paragon",
+  "name": {
+    "en": "Siam Paragon",
+    "nl": "Siam Paragon"
+  },
+  "type": "shopping",
+  "city_slug": "bangkok",
+  "address": "991/1 Rama 1 Road, Pathum Wan",
+  "location": {
+    "lat": 13.7465,
+    "lng": 100.5343
+  },
+  "opening_hours": "10:00-22:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Luxury shopping mall with high-end brands aquarium and cinema",
+    "nl": "Luxe winkelcentrum met high-end merken aquarium en bioscoop"
+  },
+  "highlights": [
+    "Luxury shopping",
+    "SEA LIFE Aquarium",
+    "Fine dining"
+  ],
+  "image": "/images/attractions/bangkok/siam-paragon.webp",
+  "official_website": "https://www.siamparagon.co.th",
+  "seo": {
+    "metaTitle": {
+      "en": "Siam Paragon - Top Attraction in Bangkok | Go2Thailand",
+      "nl": "Siam Paragon - Top Attractie in Bangkok | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Siam Paragon in Bangkok. Luxury shopping mall with high-end brands aquarium and cinema...",
+      "nl": "Ontdek Siam Paragon in Bangkok. Luxe winkelcentrum met high-end merken aquarium en bioscoop..."
+    }
+  },
+  "tags": [
+    "shopping",
+    "bangkok",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://go2-thailand.com/sitemap.xml
+
+# Block common bot paths
+Disallow: /_next/
+Disallow: /api/
+Disallow: *.json$
+
+# Allow specific paths
+Allow: /city/
+Allow: /
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "slug": "bangkok",
+    "name": {
+      "en": "Bangkok",
+      "nl": "Bangkok"
+    },
+    "region": "Central",
+    "province": "Bangkok",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
+    "highlights": [
+      "Grand Palace",
+      "Khao San Road"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "chiang-mai",
+    "name": {
+      "en": "Chiang Mai",
+      "nl": "Chiang Mai"
+    },
+    "region": "Northern",
+    "province": "Chiang Mai",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "highlights": [
+      "Doi Suthep",
+      "Old City"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "phuket",
+    "name": {
+      "en": "Phuket",
+      "nl": "Phuket"
+    },
+    "region": "Southern",
+    "province": "Phuket",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "highlights": [
+      "Patong Beach",
+      "Big Buddha"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "pattaya",
+    "name": {
+      "en": "Pattaya",
+      "nl": "Pattaya"
+    },
+    "region": "Central",
+    "province": "Chonburi",
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368",
+    "highlights": [
+      "Walking Street",
+      "Sanctuary of Truth"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "ayutthaya",
+    "name": {
+      "en": "Ayutthaya",
+      "nl": "Ayutthaya"
+    },
+    "region": "Central",
+    "province": "Ayutthaya",
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+    "highlights": [
+      "Ayutthaya Historical Park",
+      "Wat Mahathat"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "krabi",
+    "name": {
+      "en": "Krabi",
+      "nl": "Krabi"
+    },
+    "region": "Southern",
+    "province": "Krabi",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+    "highlights": [
+      "Railay Beach",
+      "Ao Nang"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "chiang-rai",
+    "name": {
+      "en": "Chiang Rai",
+      "nl": "Chiang Rai"
+    },
+    "region": "Northern",
+    "province": "Chiang Rai",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d",
+    "highlights": [
+      "White Temple",
+      "Blue Temple"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "hat-yai",
+    "name": {
+      "en": "Hat Yai",
+      "nl": "Hat Yai"
+    },
+    "region": "Southern",
+    "province": "Songkhla",
+    "image": "https://images.unsplash.com/photo-1454023492550-5696f8ff10e1",
+    "highlights": [
+      "Kim Yong Market",
+      "Floating Market"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "sukhothai",
+    "name": {
+      "en": "Sukhothai",
+      "nl": "Sukhothai"
+    },
+    "region": "Northern",
+    "province": "Sukhothai",
+    "image": "https://images.unsplash.com/photo-1509228468518-c5eeecbff44a",
+    "highlights": [
+      "Historical Park",
+      "Wat Mahathat"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "surat-thani",
+    "name": {
+      "en": "Surat Thani",
+      "nl": "Surat Thani"
+    },
+    "region": "Southern",
+    "province": "Surat Thani",
+    "image": "https://images.unsplash.com/photo-1505672678657-cc7037095e2c",
+    "highlights": [
+      "Koh Samui Pier",
+      "Surat Thani City Pillar Shrine"
+    ]
+  }
+]

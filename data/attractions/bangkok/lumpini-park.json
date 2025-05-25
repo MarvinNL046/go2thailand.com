@@ -1,0 +1,49 @@
+{
+  "id": 9,
+  "slug": "lumpini-park",
+  "name": {
+    "en": "Lumpini Park",
+    "nl": "Lumpini Park"
+  },
+  "type": "park",
+  "city_slug": "bangkok",
+  "address": "Lumphini, Pathum Wan, Bangkok",
+  "location": {
+    "lat": 13.7307,
+    "lng": 100.5418
+  },
+  "opening_hours": "04:30-21:00",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Large green space in central Bangkok perfect for jogging and relaxation",
+    "nl": "Grote groene ruimte in het centrum van Bangkok perfect voor joggen en ontspanning"
+  },
+  "highlights": [
+    "City park",
+    "Monitor lizards",
+    "Outdoor activities"
+  ],
+  "image": "/images/attractions/bangkok/lumpini-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Lumpini Park - Top Attraction in Bangkok | Go2Thailand",
+      "nl": "Lumpini Park - Top Attractie in Bangkok | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Lumpini Park in Bangkok. Large green space in central Bangkok perfect for jogging and relaxation...",
+      "nl": "Ontdek Lumpini Park in Bangkok. Grote groene ruimte in het centrum van Bangkok perfect voor joggen en ontspanning..."
+    }
+  },
+  "tags": [
+    "park",
+    "bangkok",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

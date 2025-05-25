@@ -1,0 +1,58 @@
+{
+  "id": 3,
+  "slug": "phuket",
+  "name": {
+    "en": "Phuket",
+    "nl": "Phuket"
+  },
+  "region": "Southern",
+  "province": "Phuket",
+  "description": {
+    "en": "Thailand’s largest island, famous for beaches, nightlife, water sports and island hopping.",
+    "nl": "Het grootste eiland van Thailand, beroemd om stranden, uitgaan, watersport en eilandhoppen."
+  },
+  "population": 443000,
+  "highlights": [
+    "Patong Beach",
+    "Big Buddha",
+    "Old Town",
+    "Phi Phi Islands"
+  ],
+  "location": {
+    "lat": 7.8804,
+    "lng": 98.3923
+  },
+  "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Phuket | What to do in Phuket?",
+      "nl": "Ontdek Phuket | Wat te doen in Phuket?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Phuket, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Phuket, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Phuket",
+      "nl": "Beste restaurants en streetfood in Phuket"
+    },
+    "hotels": {
+      "en": "Top hotels in Phuket | Tips & deals",
+      "nl": "Beste hotels in Phuket | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Phuket",
+      "nl": "Top bezienswaardigheden in Phuket"
+    }
+  },
+  "tags": [
+    "southern",
+    "phuket",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

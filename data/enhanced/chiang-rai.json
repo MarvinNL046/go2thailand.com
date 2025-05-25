@@ -1,0 +1,183 @@
+{
+  "id": 7,
+  "slug": "chiang-rai",
+  "name": {
+    "en": "Chiang Rai",
+    "nl": "Chiang Rai"
+  },
+  "region": "Northern",
+  "province": "Chiang Rai",
+  "description": {
+    "en": "Gateway to the Golden Triangle, famous for the White Temple and hill tribe culture.",
+    "nl": "Poort tot de Gouden Driehoek, bekend om de Witte Tempel en bergstammen."
+  },
+  "population": 200000,
+  "highlights": [
+    "White Temple",
+    "Blue Temple",
+    "Night Bazaar",
+    "Golden Triangle"
+  ],
+  "location": {
+    "lat": 19.9105,
+    "lng": 99.8406
+  },
+  "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Chiang Rai | What to do in Chiang Rai?",
+      "nl": "Ontdek Chiang Rai | Wat te doen in Chiang Rai?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Chiang Rai, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Chiang Rai, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Chiang Rai",
+      "nl": "Beste restaurants en streetfood in Chiang Rai"
+    },
+    "hotels": {
+      "en": "Top hotels in Chiang Rai | Tips & deals",
+      "nl": "Beste hotels in Chiang Rai | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Chiang Rai",
+      "nl": "Top bezienswaardigheden in Chiang Rai"
+    }
+  },
+  "tags": [
+    "northern",
+    "chiang rai",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ],
+  "enhanced_description": "Chiang Rai, the northernmost province of Thailand, is a cultural and historical treasure trove, often regarded as the gateway to the famed Golden Triangle. This vibrant city is steeped in rich hill tribe culture and showcases a blend of ancient traditions and modern artistry. Chiang Rai is best known for its stunning temples, particularly the iconic White Temple (Wat Rong Khun), which captivates visitors with its surreal architecture and intricate detailing. The city's atmosphere is further enriched by its bustling night bazaars, where visitors can immerse themselves in local crafts and delicious street food. The surrounding mountainous landscape, home to various hill tribes, offers unique opportunities for cultural exchange and exploration. As you wander through Chiang Rai, you will discover a harmonious blend of nature and spirituality, making it a must-visit destination for travelers seeking both adventure and tranquility.",
+  "top_attractions": [
+    {
+      "name": "White Temple (Wat Rong Khun)",
+      "description": "A contemporary, unconventional temple designed by artist Chalermchai Kositpipat, known for its striking white façade and intricate carvings symbolizing the path to enlightenment."
+    },
+    {
+      "name": "Blue Temple (Wat Rong Suea Ten)",
+      "description": "Famous for its vibrant blue color and detailed murals, this temple showcases a unique modern design and is a stunning contrast to the White Temple."
+    },
+    {
+      "name": "Golden Triangle",
+      "description": "The meeting point of Thailand, Laos, and Myanmar, offering breathtaking views and a chance to learn about the opium trade history of the region."
+    },
+    {
+      "name": "Night Bazaar",
+      "description": "A lively marketplace filled with local handicrafts, street food, and live performances, perfect for experiencing Chiang Rai's vibrant nightlife."
+    },
+    {
+      "name": "Baan Dam Museum (Black House)",
+      "description": "An artistic complex featuring a collection of dark, intricate buildings that showcase the work of artist Thawan Duchanee, reflecting themes of death and spirituality."
+    },
+    {
+      "name": "Wat Phra Kaew",
+      "description": "An ancient temple known as the original home of the Emerald Buddha, this site offers historical significance and beautiful architecture."
+    },
+    {
+      "name": "Doi Tung Royal Villa",
+      "description": "The former royal residence set in a lush garden, showcasing stunning views and insights into the life of the late Princess Mother."
+    },
+    {
+      "name": "Wat Huay Pla Kang",
+      "description": "A large temple complex featuring a massive statue of Guan Yin, the Goddess of Mercy, and beautifully landscaped gardens."
+    }
+  ],
+  "top_restaurants": [
+    {
+      "name": "Chao Fah Restaurant",
+      "cuisine": "Thai",
+      "description": "Offers traditional Thai dishes with a focus on fresh, local ingredients in a cozy setting, perfect for families."
+    },
+    {
+      "name": "Barrab Restaurant",
+      "cuisine": "International",
+      "description": "A fusion eatery serving a mix of Thai and Western dishes, known for its friendly atmosphere and excellent service."
+    },
+    {
+      "name": "Café de Nimman",
+      "cuisine": "Coffee and Desserts",
+      "description": "A charming café famous for its artisanal coffee and delectable desserts, ideal for a relaxing afternoon break."
+    },
+    {
+      "name": "Khrua Apsorn",
+      "cuisine": "Thai",
+      "description": "Specializes in Northern Thai cuisine, offering authentic flavors in a rustic, homey setting."
+    },
+    {
+      "name": "Khao Soi Khun Yai",
+      "cuisine": "Thai/Northern",
+      "description": "Renowned for its Khao Soi, a traditional Northern Thai curry noodle soup, this spot is a local favorite."
+    },
+    {
+      "name": "The Wanderer Cafe & Restaurant",
+      "cuisine": "International",
+      "description": "A trendy spot offering a diverse menu of international dishes and a great selection of beverages, perfect for travelers."
+    },
+    {
+      "name": "Siam Rice Thai Cookery School",
+      "cuisine": "Cooking Class",
+      "description": "Not just a restaurant, but an interactive experience where you can learn to cook traditional Thai dishes with expert chefs."
+    }
+  ],
+  "top_hotels": [
+    {
+      "name": "The Legend Chiang Rai Boutique River Resort & Spa",
+      "price_range": "$$$",
+      "description": "A luxury resort along the river, offering spacious villas, a spa, and stunning views, perfect for a relaxing getaway."
+    },
+    {
+      "name": "Le Meridien Chiang Rai Resort",
+      "price_range": "$$$",
+      "description": "A contemporary hotel featuring elegant rooms, a beautiful swimming pool, and direct access to the river, ideal for families and couples."
+    },
+    {
+      "name": "Nak Nakara Hotel",
+      "price_range": "$$",
+      "description": "A boutique hotel with a blend of traditional and modern design, offering comfortable rooms and a convenient location near the city center."
+    },
+    {
+      "name": "Rasa Boutique Hotel",
+      "price_range": "$$",
+      "description": "A charming hotel with personalized service, featuring stylish rooms and a rooftop terrace with panoramic views of the city."
+    },
+    {
+      "name": "Wiang Inn Hotel",
+      "price_range": "$$",
+      "description": "Located in the heart of Chiang Rai, this hotel offers comfortable accommodations and easy access to local attractions."
+    },
+    {
+      "name": "Amarin Resort Chiang Rai",
+      "price_range": "$",
+      "description": "A budget-friendly resort with basic amenities, surrounded by nature, perfect for travelers looking for simplicity."
+    }
+  ],
+  "travel_tips": [
+    "Respect local customs and dress modestly when visiting temples.",
+    "Try to learn a few basic Thai phrases to enhance your interactions with locals.",
+    "Use local transportation, such as tuk-tuks or songthaews, for an authentic experience.",
+    "Bargain at markets, but do so politely to ensure a friendly transaction.",
+    "Stay hydrated and wear sunscreen, as the sun can be intense, especially during the dry season."
+  ],
+  "best_time_to_visit": {
+    "season": "November to February",
+    "weather": "Cool and dry with temperatures ranging from 15°C to 25°C (59°F to 77°F)",
+    "reasons": "Ideal weather for outdoor activities and exploring the temples, with many local festivals taking place during this time."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$25-$50",
+      "mid": "$51-$150",
+      "luxury": "$151 and above"
+    }
+  },
+  "enhanced_at": "2025-05-25T19:46:18.565Z",
+  "ai_generated": true
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1,
+  "slug": "bangkok",
+  "name": {
+    "en": "Bangkok",
+    "nl": "Bangkok"
+  },
+  "region": "Central",
+  "province": "Bangkok",
+  "description": {
+    "en": "The bustling capital of Thailand, famous for street food, nightlife, temples, and markets.",
+    "nl": "De bruisende hoofdstad van Thailand, beroemd om streetfood, uitgaansleven, tempels en markten."
+  },
+  "population": 10539000,
+  "highlights": [
+    "Grand Palace",
+    "Khao San Road",
+    "Chatuchak Market",
+    "Wat Pho"
+  ],
+  "location": {
+    "lat": 13.7563,
+    "lng": 100.5018
+  },
+  "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Bangkok | What to do in Bangkok?",
+      "nl": "Ontdek Bangkok | Wat te doen in Bangkok?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Bangkok, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Bangkok, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Bangkok",
+      "nl": "Beste restaurants en streetfood in Bangkok"
+    },
+    "hotels": {
+      "en": "Top hotels in Bangkok | Tips & deals",
+      "nl": "Beste hotels in Bangkok | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Bangkok",
+      "nl": "Top bezienswaardigheden in Bangkok"
+    }
+  },
+  "tags": [
+    "central",
+    "bangkok",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

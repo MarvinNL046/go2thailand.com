@@ -1,0 +1,57 @@
+{
+  "id": 10,
+  "slug": "surat-thani",
+  "name": {
+    "en": "Surat Thani",
+    "nl": "Surat Thani"
+  },
+  "region": "Southern",
+  "province": "Surat Thani",
+  "description": {
+    "en": "Transport hub to islands like Koh Samui, Koh Phangan, and Koh Tao.",
+    "nl": "Vervoersknooppunt naar eilanden als Koh Samui, Koh Phangan en Koh Tao."
+  },
+  "population": 132000,
+  "highlights": [
+    "Koh Samui Pier",
+    "Surat Thani City Pillar Shrine",
+    "Tapee River"
+  ],
+  "location": {
+    "lat": 9.14,
+    "lng": 99.3331
+  },
+  "image": "https://images.unsplash.com/photo-1505672678657-cc7037095e2c",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Surat Thani | What to do in Surat Thani?",
+      "nl": "Ontdek Surat Thani | Wat te doen in Surat Thani?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Surat Thani, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Surat Thani, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Surat Thani",
+      "nl": "Beste restaurants en streetfood in Surat Thani"
+    },
+    "hotels": {
+      "en": "Top hotels in Surat Thani | Tips & deals",
+      "nl": "Beste hotels in Surat Thani | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Surat Thani",
+      "nl": "Top bezienswaardigheden in Surat Thani"
+    }
+  },
+  "tags": [
+    "southern",
+    "surat thani",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

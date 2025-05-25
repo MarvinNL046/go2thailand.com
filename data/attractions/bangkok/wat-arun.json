@@ -1,0 +1,49 @@
+{
+  "id": 5,
+  "slug": "wat-arun",
+  "name": {
+    "en": "Wat Arun",
+    "nl": "Wat Arun"
+  },
+  "type": "temple",
+  "city_slug": "bangkok",
+  "address": "158 Thanon Wang Doem, Wat Arun, Bangkok Yai",
+  "location": {
+    "lat": 13.7437,
+    "lng": 100.4887
+  },
+  "opening_hours": "08:00-18:00",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Temple of Dawn famous for its towering spires and intricate ceramic details",
+    "nl": "Tempel van de Dageraad beroemd om zijn torenhoge spitsen en ingewikkelde keramische details"
+  },
+  "highlights": [
+    "Temple of Dawn",
+    "Ceramic spires",
+    "Sunset views"
+  ],
+  "image": "/images/attractions/bangkok/wat-arun.webp",
+  "official_website": "https://www.watarun.org",
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Arun - Top Attraction in Bangkok | Go2Thailand",
+      "nl": "Wat Arun - Top Attractie in Bangkok | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Arun in Bangkok. Temple of Dawn famous for its towering spires and intricate ceramic details...",
+      "nl": "Ontdek Wat Arun in Bangkok. Tempel van de Dageraad beroemd om zijn torenhoge spitsen en ingewikkelde keramische details..."
+    }
+  },
+  "tags": [
+    "temple",
+    "bangkok",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

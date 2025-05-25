@@ -1,0 +1,49 @@
+{
+  "id": 1,
+  "slug": "grand-palace",
+  "name": {
+    "en": "Grand Palace",
+    "nl": "Grand Palace"
+  },
+  "type": "temple",
+  "city_slug": "bangkok",
+  "address": "Na Phra Lan Rd, Phra Borom Maha Ratchawang, Phra Nakhon",
+  "location": {
+    "lat": 13.75,
+    "lng": 100.4915
+  },
+  "opening_hours": "08:30-15:30",
+  "entrance_fee": {
+    "thb": 500,
+    "usd": 15
+  },
+  "description": {
+    "en": "Historic palace complex that served as the official residence of the Kings of Siam",
+    "nl": "Historisch paleiscomplex dat diende als de officiële residentie van de koningen van Siam"
+  },
+  "highlights": [
+    "Royal residence",
+    "Emerald Buddha",
+    "Intricate architecture"
+  ],
+  "image": "/images/attractions/bangkok/grand-palace.webp",
+  "official_website": "https://www.royalgrandpalace.th",
+  "seo": {
+    "metaTitle": {
+      "en": "Grand Palace - Top Attraction in Bangkok | Go2Thailand",
+      "nl": "Grand Palace - Top Attractie in Bangkok | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Grand Palace in Bangkok. Historic palace complex that served as the official residence of the Kings of Siam...",
+      "nl": "Ontdek Grand Palace in Bangkok. Historisch paleiscomplex dat diende als de officiële residentie van de koningen van Siam..."
+    }
+  },
+  "tags": [
+    "temple",
+    "bangkok",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

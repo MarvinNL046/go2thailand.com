@@ -1,0 +1,49 @@
+{
+  "id": 6,
+  "slug": "jim-thompson-house",
+  "name": {
+    "en": "Jim Thompson House",
+    "nl": "Jim Thompson House"
+  },
+  "type": "museum",
+  "city_slug": "bangkok",
+  "address": "6 Soi Kasemsan 2, Rama 1 Road, Wang Mai, Pathum Wan",
+  "location": {
+    "lat": 13.7439,
+    "lng": 100.5351
+  },
+  "opening_hours": "09:00-18:00",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "Former home of American businessman who revitalized Thai silk industry",
+    "nl": "Voormalig huis van Amerikaanse zakenman die de Thaise zijde-industrie nieuw leven inblies"
+  },
+  "highlights": [
+    "Thai silk history",
+    "Traditional architecture",
+    "Art collection"
+  ],
+  "image": "/images/attractions/bangkok/jim-thompson-house.webp",
+  "official_website": "https://www.jimthompsonhouse.com",
+  "seo": {
+    "metaTitle": {
+      "en": "Jim Thompson House - Top Attraction in Bangkok | Go2Thailand",
+      "nl": "Jim Thompson House - Top Attractie in Bangkok | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Jim Thompson House in Bangkok. Former home of American businessman who revitalized Thai silk industry...",
+      "nl": "Ontdek Jim Thompson House in Bangkok. Voormalig huis van Amerikaanse zakenman die de Thaise zijde-industrie nieuw leven inblies..."
+    }
+  },
+  "tags": [
+    "museum",
+    "bangkok",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

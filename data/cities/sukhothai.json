@@ -1,0 +1,58 @@
+{
+  "id": 9,
+  "slug": "sukhothai",
+  "name": {
+    "en": "Sukhothai",
+    "nl": "Sukhothai"
+  },
+  "region": "Northern",
+  "province": "Sukhothai",
+  "description": {
+    "en": "Famous for Sukhothai Historical Park, ruins of Thailand’s first capital.",
+    "nl": "Beroemd om Sukhothai Historical Park, ruïnes van de eerste Thaise hoofdstad."
+  },
+  "population": 37000,
+  "highlights": [
+    "Historical Park",
+    "Wat Mahathat",
+    "Wat Si Chum",
+    "Yom River"
+  ],
+  "location": {
+    "lat": 17.0078,
+    "lng": 99.8237
+  },
+  "image": "https://images.unsplash.com/photo-1509228468518-c5eeecbff44a",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Sukhothai | What to do in Sukhothai?",
+      "nl": "Ontdek Sukhothai | Wat te doen in Sukhothai?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Sukhothai, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Sukhothai, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Sukhothai",
+      "nl": "Beste restaurants en streetfood in Sukhothai"
+    },
+    "hotels": {
+      "en": "Top hotels in Sukhothai | Tips & deals",
+      "nl": "Beste hotels in Sukhothai | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Sukhothai",
+      "nl": "Top bezienswaardigheden in Sukhothai"
+    }
+  },
+  "tags": [
+    "northern",
+    "sukhothai",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

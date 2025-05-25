@@ -1,0 +1,58 @@
+{
+  "id": 4,
+  "slug": "pattaya",
+  "name": {
+    "en": "Pattaya",
+    "nl": "Pattaya"
+  },
+  "region": "Central",
+  "province": "Chonburi",
+  "description": {
+    "en": "Lively coastal city close to Bangkok, known for beaches, nightlife, and family attractions.",
+    "nl": "Levendige kuststad nabij Bangkok, bekend om stranden, uitgaan en attracties."
+  },
+  "population": 119000,
+  "highlights": [
+    "Walking Street",
+    "Sanctuary of Truth",
+    "Jomtien Beach",
+    "Floating Market"
+  ],
+  "location": {
+    "lat": 12.9236,
+    "lng": 100.8825
+  },
+  "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Pattaya | What to do in Pattaya?",
+      "nl": "Ontdek Pattaya | Wat te doen in Pattaya?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Pattaya, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Pattaya, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Pattaya",
+      "nl": "Beste restaurants en streetfood in Pattaya"
+    },
+    "hotels": {
+      "en": "Top hotels in Pattaya | Tips & deals",
+      "nl": "Beste hotels in Pattaya | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Pattaya",
+      "nl": "Top bezienswaardigheden in Pattaya"
+    }
+  },
+  "tags": [
+    "central",
+    "chonburi",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

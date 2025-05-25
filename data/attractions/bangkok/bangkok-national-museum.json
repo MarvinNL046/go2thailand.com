@@ -1,0 +1,49 @@
+{
+  "id": 8,
+  "slug": "bangkok-national-museum",
+  "name": {
+    "en": "Bangkok National Museum",
+    "nl": "Bangkok National Museum"
+  },
+  "type": "museum",
+  "city_slug": "bangkok",
+  "address": "Na Phra That Road, Phra Borom Maha Ratchawang, Phra Nakhon",
+  "location": {
+    "lat": 13.7564,
+    "lng": 100.493
+  },
+  "opening_hours": "09:00-16:00",
+  "entrance_fee": {
+    "thb": 30,
+    "usd": 1
+  },
+  "description": {
+    "en": "Thailand's main museum showcasing rich history and cultural artifacts",
+    "nl": "Het hoofdmuseum van Thailand dat de rijke geschiedenis en culturele artefacten toont"
+  },
+  "highlights": [
+    "Cultural artifacts",
+    "Thai history",
+    "Royal regalia"
+  ],
+  "image": "/images/attractions/bangkok/bangkok-national-museum.webp",
+  "official_website": "https://www.nationalmuseums.go.th",
+  "seo": {
+    "metaTitle": {
+      "en": "Bangkok National Museum - Top Attraction in Bangkok | Go2Thailand",
+      "nl": "Bangkok National Museum - Top Attractie in Bangkok | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Bangkok National Museum in Bangkok. Thailand's main museum showcasing rich history and cultural artifacts...",
+      "nl": "Ontdek Bangkok National Museum in Bangkok. Het hoofdmuseum van Thailand dat de rijke geschiedenis en culturele artefacten toont..."
+    }
+  },
+  "tags": [
+    "museum",
+    "bangkok",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

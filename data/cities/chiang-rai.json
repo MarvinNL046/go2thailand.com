@@ -1,0 +1,58 @@
+{
+  "id": 7,
+  "slug": "chiang-rai",
+  "name": {
+    "en": "Chiang Rai",
+    "nl": "Chiang Rai"
+  },
+  "region": "Northern",
+  "province": "Chiang Rai",
+  "description": {
+    "en": "Gateway to the Golden Triangle, famous for the White Temple and hill tribe culture.",
+    "nl": "Poort tot de Gouden Driehoek, bekend om de Witte Tempel en bergstammen."
+  },
+  "population": 200000,
+  "highlights": [
+    "White Temple",
+    "Blue Temple",
+    "Night Bazaar",
+    "Golden Triangle"
+  ],
+  "location": {
+    "lat": 19.9105,
+    "lng": 99.8406
+  },
+  "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Chiang Rai | What to do in Chiang Rai?",
+      "nl": "Ontdek Chiang Rai | Wat te doen in Chiang Rai?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Chiang Rai, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Chiang Rai, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Chiang Rai",
+      "nl": "Beste restaurants en streetfood in Chiang Rai"
+    },
+    "hotels": {
+      "en": "Top hotels in Chiang Rai | Tips & deals",
+      "nl": "Beste hotels in Chiang Rai | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Chiang Rai",
+      "nl": "Top bezienswaardigheden in Chiang Rai"
+    }
+  },
+  "tags": [
+    "northern",
+    "chiang rai",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

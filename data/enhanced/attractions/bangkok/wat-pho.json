@@ -1,0 +1,86 @@
+{
+  "id": 2,
+  "slug": "wat-pho",
+  "name": {
+    "en": "Wat Pho",
+    "nl": "Wat Pho"
+  },
+  "type": "temple",
+  "city_slug": "bangkok",
+  "address": "2 Sanamchai Road, Grand Palace Subdistrict, Phra Nakhon",
+  "location": {
+    "lat": 13.7468,
+    "lng": 100.4926
+  },
+  "opening_hours": "08:00-18:30",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "Home to the famous Reclining Buddha and traditional Thai massage school",
+    "nl": "Huis van de beroemde Liggende Boeddha en traditionele Thaise massageschool"
+  },
+  "highlights": [
+    "Reclining Buddha",
+    "Thai massage",
+    "Ancient murals"
+  ],
+  "image": "/images/attractions/bangkok/wat-pho.webp",
+  "official_website": "https://www.watpho.com",
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Pho - Top Attraction in Bangkok | Go2Thailand",
+      "nl": "Wat Pho - Top Attractie in Bangkok | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Pho in Bangkok. Home to the famous Reclining Buddha and traditional Thai massage school...",
+      "nl": "Ontdek Wat Pho in Bangkok. Huis van de beroemde Liggende Boeddha en traditionele Thaise massageschool..."
+    }
+  },
+  "tags": [
+    "temple",
+    "bangkok",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ],
+  "enhanced_description": "Wat Pho, also known as the Temple of the Reclining Buddha, is one of Bangkok's oldest and largest temples, dating back to the 16th century. It is renowned for its stunning 46-meter-long reclining Buddha statue, covered in gold leaf and adorned with mother-of-pearl inlays on the feet, representing the 108 auspicious characters of Buddha. Beyond the iconic statue, Wat Pho also serves as a traditional Thai massage school, where visitors can experience authentic massage therapies rooted in ancient practices. The temple complex is a treasure trove of ancient murals and intricate architecture that showcase the beauty of Thai artistry. Visitors can immerse themselves in the serene atmosphere, taking in the lush gardens and the exquisite details that tell stories of Buddhist teachings. This spiritual oasis is not just a feast for the eyes but also a glimpse into Thailand's rich cultural heritage, making it a must-visit destination for anyone exploring Bangkok.",
+  "detailed_history": "Wat Pho was established in the 16th century, during the reign of King Rama I, who also founded Bangkok as the capital. It was later expanded and renovated by King Rama III in the 19th century, who adorned the temple with magnificent murals and sculptures. The temple is named after the monastery in India where Buddha is said to have attained enlightenment. Wat Pho is also significant for being the birthplace of traditional Thai massage, which is woven into the temple's history and practice. The establishment of the massage school in 1955 helped to preserve this ancient healing art, making it an essential part of Thailand's cultural identity. As one of the six temples in Thailand that houses a higher ordination hall, Wat Pho has been a crucial center for Buddhist education.",
+  "visitor_experience": "Upon entering Wat Pho, visitors are greeted by a vast courtyard surrounded by beautifully landscaped gardens and ornate buildings. The main attraction, the Reclining Buddha, is housed in a large hall that showcases the statue's incredible size and detail. Visitors can stroll through the temple grounds, exploring smaller chapels and impressive murals depicting Buddhist teachings. The layout is easy to navigate, and a typical visit lasts about one to two hours, allowing ample time to soak in the spiritual ambiance. Don't forget to explore the traditional Thai massage school located within the temple grounds, where you can book a massage for an authentic experience.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning is the best time to visit to avoid the heat and crowds, allowing for a more peaceful experience.",
+    "duration": "A recommended visit duration is about 1.5 to 2 hours.",
+    "crowd_level": "Crowd levels can be high during weekends and public holidays; visiting on a weekday early in the morning is ideal to avoid large groups."
+  },
+  "photography_tips": [
+    "Best photo spots include the Reclining Buddha from different angles, the intricate murals, and the temple's exterior.",
+    "Lighting conditions are best in the morning when the sun illuminates the golden Buddha beautifully.",
+    "Instagram-worthy locations are the Reclining Buddha and the temple's ornate chedis.",
+    "Photography restrictions apply in certain areas, especially inside the main hall; always check for signs."
+  ],
+  "practical_info": {
+    "how_to_get_there": "Wat Pho is easily accessible by public transport. Take the BTS Skytrain to Saphan Taksin, then hop on a Chao Phraya River ferry to Tha Tien Pier. It's a short walk from there.",
+    "nearby_attractions": "Nearby attractions include the Grand Palace, Wat Phra Kaew (Temple of the Emerald Buddha), and the National Museum.",
+    "food_options": "Dining options near Wat Pho include local street food stalls and restaurants offering Thai cuisine.",
+    "shopping": "Souvenir shops are located within the temple complex, and you can find markets nearby, such as the Tha Tien Market."
+  },
+  "insider_tips": [
+    "Look out for the hidden meditation areas within the temple grounds for a quiet retreat.",
+    "Consider visiting the massage school for a traditional Thai massage, but book in advance as slots fill up quickly.",
+    "Many tourists miss the smaller chapels with unique murals; take time to explore these.",
+    "Dress respectfully, covering shoulders and knees; sarongs are available for rent if needed."
+  ],
+  "seasonal_considerations": "The experience at Wat Pho remains relatively consistent throughout the year, but visiting during the cooler months from November to February is more comfortable due to mild weather.",
+  "accessibility": "The temple grounds are mostly flat, making it accessible for visitors with mobility issues. However, some areas may have uneven surfaces.",
+  "cultural_significance": "Wat Pho is an important site for Thai culture and history as it represents the fusion of spiritual practice and healing arts, reflecting the deep-rooted Buddhist traditions in Thailand.",
+  "fun_facts": [
+    "The Reclining Buddha's feet are 3 meters long and adorned with 108 auspicious symbols.",
+    "Wat Pho is home to over 1,000 Buddha images, making it one of the richest collections in Thailand.",
+    "The temple is also a UNESCO World Heritage Site, recognized for its architectural and cultural significance.",
+    "King Rama III commissioned the creation of the temple's famous massage school to preserve traditional massage techniques."
+  ],
+  "enhanced_at": "2025-05-25T20:45:25.428Z",
+  "ai_generated": true
+}

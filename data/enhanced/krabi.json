@@ -1,0 +1,178 @@
+{
+  "id": 6,
+  "slug": "krabi",
+  "name": {
+    "en": "Krabi",
+    "nl": "Krabi"
+  },
+  "region": "Southern",
+  "province": "Krabi",
+  "description": {
+    "en": "Famous for stunning limestone cliffs, beaches, and island hopping (Railay, Ao Nang, Koh Phi Phi).",
+    "nl": "Bekend om de kalkstenen kliffen, stranden en eilanden zoals Railay en Phi Phi."
+  },
+  "population": 36000,
+  "highlights": [
+    "Railay Beach",
+    "Ao Nang",
+    "Emerald Pool",
+    "Tiger Cave Temple"
+  ],
+  "location": {
+    "lat": 8.0863,
+    "lng": 98.9063
+  },
+  "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Krabi | What to do in Krabi?",
+      "nl": "Ontdek Krabi | Wat te doen in Krabi?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Krabi, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Krabi, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Krabi",
+      "nl": "Beste restaurants en streetfood in Krabi"
+    },
+    "hotels": {
+      "en": "Top hotels in Krabi | Tips & deals",
+      "nl": "Beste hotels in Krabi | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Krabi",
+      "nl": "Top bezienswaardigheden in Krabi"
+    }
+  },
+  "tags": [
+    "southern",
+    "krabi",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ],
+  "enhanced_description": "Krabi, a province on the Andaman coast, is a paradise renowned for its breathtaking limestone cliffs, crystal-clear waters, and vibrant marine life. The region is a gateway to some of Thailand's most stunning islands, including the famous Koh Phi Phi, a hotspot for snorkeling, diving, and vibrant nightlife. Railay Beach, accessible only by boat, boasts dramatic cliffs and is a climber's haven. The area is also home to lush jungles and serene waterfalls like the Emerald Pool, offering refreshing dips in natural hot springs. Krabi is not just a destination for beach lovers; it is rich in culture and spirituality, exemplified by the majestic Tiger Cave Temple, which features a challenging climb to panoramic views. Whether you're seeking adventure, relaxation, or cultural experiences, Krabi offers a perfect blend that caters to all types of travelers.",
+  "top_attractions": [
+    {
+      "name": "Railay Beach",
+      "description": "Known for its stunning rock formations and clear waters, Railay Beach is ideal for rock climbing, sunbathing, and exploring hidden lagoons."
+    },
+    {
+      "name": "Ao Nang",
+      "description": "A bustling beach town with a vibrant nightlife, Ao Nang serves as a launch point for island-hopping tours and offers a variety of dining and shopping options."
+    },
+    {
+      "name": "Emerald Pool",
+      "description": "Located in the Thung Teao Forest Natural Park, this natural hot spring features turquoise waters ideal for swimming and relaxation amidst lush greenery."
+    },
+    {
+      "name": "Tiger Cave Temple",
+      "description": "This sacred Buddhist site is famous for its challenging stair climb of 1,237 steps, leading to a stunning viewpoint overlooking Krabi."
+    },
+    {
+      "name": "Hong Islands",
+      "description": "A collection of uninhabited islands offering pristine beaches, incredible snorkeling opportunities, and picturesque lagoons."
+    },
+    {
+      "name": "Koh Phi Phi",
+      "description": "Known for its vibrant nightlife and stunning beaches, this island group offers activities ranging from diving to hiking the viewpoint for breathtaking vistas."
+    },
+    {
+      "name": "Four Islands Tour",
+      "description": "A popular day trip that takes you to Phra Nang Cave Beach, Chicken Island, Tup Island, and Poda Island for snorkeling and sunbathing."
+    },
+    {
+      "name": "Krabi Town Night Market",
+      "description": "Experience local culture through food, crafts, and entertainment at this vibrant night market, ideal for sampling authentic Thai street food."
+    }
+  ],
+  "top_restaurants": [
+    {
+      "name": "Jungle Kitchen",
+      "cuisine": "Thai",
+      "description": "A local favorite known for its authentic Thai dishes made with fresh ingredients and a beautiful jungle setting."
+    },
+    {
+      "name": "The Grotto",
+      "cuisine": "International",
+      "description": "Located in a cave by the beach, this unique dining experience offers a blend of Thai and international flavors amidst stunning views."
+    },
+    {
+      "name": "Ao Nang Boat Noodle",
+      "cuisine": "Thai",
+      "description": "Famous for its boat noodles, this eatery offers a variety of noodle dishes and is known for its affordable prices."
+    },
+    {
+      "name": "Lae Lay Grill",
+      "cuisine": "Seafood",
+      "description": "A hillside restaurant offering fresh seafood and Thai cuisine with panoramic views of Ao Nang Beach."
+    },
+    {
+      "name": "Tandoori Night",
+      "cuisine": "Indian",
+      "description": "A popular spot for Indian cuisine, known for its flavorful curries and tandoori dishes, served in a cozy atmosphere."
+    },
+    {
+      "name": "Roti Pa",
+      "cuisine": "Desserts",
+      "description": "Famous for its delicious roti (Thai-style pancakes), this street stall offers a variety of sweet and savory options."
+    }
+  ],
+  "top_hotels": [
+    {
+      "name": "Rayavadee Resort",
+      "price_range": "$$$$",
+      "description": "This luxurious resort is set amidst stunning limestone cliffs and offers private beach access, fine dining, and wellness facilities."
+    },
+    {
+      "name": "Krabi Resort",
+      "price_range": "$$",
+      "description": "Located on Ao Nang Beach, this hotel features comfortable accommodations, an outdoor pool, and easy access to local attractions."
+    },
+    {
+      "name": "Phulay Bay, a Ritz-Carlton Reserve",
+      "price_range": "$$$$",
+      "description": "A high-end resort offering exquisite villas, personalized service, and a stunning beachfront location, perfect for a romantic getaway."
+    },
+    {
+      "name": "Krabi Resort Hotel",
+      "price_range": "$$",
+      "description": "A beachfront property with modern amenities, swimming pools, and close proximity to shopping and dining options."
+    },
+    {
+      "name": "Bamboo Lodge",
+      "price_range": "$",
+      "description": "A budget-friendly option offering cozy bungalows surrounded by nature, perfect for backpackers and budget travelers."
+    },
+    {
+      "name": "Krabi Heritage Hotel",
+      "price_range": "$$",
+      "description": "Located near the beach, this hotel features spacious rooms and a relaxing atmosphere, ideal for families and couples."
+    }
+  ],
+  "travel_tips": [
+    "Consider traveling during the shoulder seasons (April to June and September to October) for fewer crowds and better prices.",
+    "Always carry cash, as many local shops and eateries do not accept credit cards.",
+    "Dress modestly when visiting temples and cultural sites; covering shoulders and knees is advisable.",
+    "Stay hydrated and use sunscreen, as the tropical sun can be intense.",
+    "Negotiate prices when shopping at markets, as haggling is common and expected."
+  ],
+  "best_time_to_visit": {
+    "season": "November to March",
+    "weather": "Cool and dry season with average temperatures ranging from 24-30°C (75-86°F).",
+    "reasons": "This period is ideal for beach activities, outdoor excursions, and enjoying the natural beauty of Krabi."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$30-50",
+      "mid": "$50-150",
+      "luxury": "$150+"
+    }
+  },
+  "enhanced_at": "2025-05-25T19:46:00.030Z",
+  "ai_generated": true
+}

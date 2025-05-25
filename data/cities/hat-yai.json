@@ -1,0 +1,58 @@
+{
+  "id": 8,
+  "slug": "hat-yai",
+  "name": {
+    "en": "Hat Yai",
+    "nl": "Hat Yai"
+  },
+  "region": "Southern",
+  "province": "Songkhla",
+  "description": {
+    "en": "Southern Thailand’s largest city, shopping hub and gateway to Malaysia.",
+    "nl": "Grootste stad van Zuid-Thailand, winkelstad en poort naar Maleisië."
+  },
+  "population": 157000,
+  "highlights": [
+    "Kim Yong Market",
+    "Floating Market",
+    "Hat Yai Park",
+    "Asean Night Bazaar"
+  ],
+  "location": {
+    "lat": 7.0086,
+    "lng": 100.4747
+  },
+  "image": "https://images.unsplash.com/photo-1454023492550-5696f8ff10e1",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Hat Yai | What to do in Hat Yai?",
+      "nl": "Ontdek Hat Yai | Wat te doen in Hat Yai?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Hat Yai, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Hat Yai, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Hat Yai",
+      "nl": "Beste restaurants en streetfood in Hat Yai"
+    },
+    "hotels": {
+      "en": "Top hotels in Hat Yai | Tips & deals",
+      "nl": "Beste hotels in Hat Yai | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Hat Yai",
+      "nl": "Top bezienswaardigheden in Hat Yai"
+    }
+  },
+  "tags": [
+    "southern",
+    "songkhla",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

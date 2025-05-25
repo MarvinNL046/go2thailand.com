@@ -1,0 +1,49 @@
+{
+  "id": 2,
+  "slug": "wat-pho",
+  "name": {
+    "en": "Wat Pho",
+    "nl": "Wat Pho"
+  },
+  "type": "temple",
+  "city_slug": "bangkok",
+  "address": "2 Sanamchai Road, Grand Palace Subdistrict, Phra Nakhon",
+  "location": {
+    "lat": 13.7468,
+    "lng": 100.4926
+  },
+  "opening_hours": "08:00-18:30",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "Home to the famous Reclining Buddha and traditional Thai massage school",
+    "nl": "Huis van de beroemde Liggende Boeddha en traditionele Thaise massageschool"
+  },
+  "highlights": [
+    "Reclining Buddha",
+    "Thai massage",
+    "Ancient murals"
+  ],
+  "image": "/images/attractions/bangkok/wat-pho.webp",
+  "official_website": "https://www.watpho.com",
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Pho - Top Attraction in Bangkok | Go2Thailand",
+      "nl": "Wat Pho - Top Attractie in Bangkok | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Pho in Bangkok. Home to the famous Reclining Buddha and traditional Thai massage school...",
+      "nl": "Ontdek Wat Pho in Bangkok. Huis van de beroemde Liggende Boeddha en traditionele Thaise massageschool..."
+    }
+  },
+  "tags": [
+    "temple",
+    "bangkok",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

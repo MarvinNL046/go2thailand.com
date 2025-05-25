@@ -1,0 +1,177 @@
+{
+  "id": 5,
+  "slug": "ayutthaya",
+  "name": {
+    "en": "Ayutthaya",
+    "nl": "Ayutthaya"
+  },
+  "region": "Central",
+  "province": "Ayutthaya",
+  "description": {
+    "en": "Historic former capital, UNESCO World Heritage, with ancient temples and ruins.",
+    "nl": "Historische oude hoofdstad, UNESCO Werelderfgoed, met oude tempels en ruïnes."
+  },
+  "population": 52000,
+  "highlights": [
+    "Ayutthaya Historical Park",
+    "Wat Mahathat",
+    "Wat Chaiwatthanaram"
+  ],
+  "location": {
+    "lat": 14.3532,
+    "lng": 100.5689
+  },
+  "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Ayutthaya | What to do in Ayutthaya?",
+      "nl": "Ontdek Ayutthaya | Wat te doen in Ayutthaya?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Ayutthaya, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Ayutthaya, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Ayutthaya",
+      "nl": "Beste restaurants en streetfood in Ayutthaya"
+    },
+    "hotels": {
+      "en": "Top hotels in Ayutthaya | Tips & deals",
+      "nl": "Beste hotels in Ayutthaya | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Ayutthaya",
+      "nl": "Top bezienswaardigheden in Ayutthaya"
+    }
+  },
+  "tags": [
+    "central",
+    "ayutthaya",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ],
+  "enhanced_description": "Ayutthaya, the historic former capital of Thailand, is a captivating city that boasts a rich tapestry of history and culture. Established in the 14th century, it flourished as the center of the Kingdom of Siam until the late 18th century. Today, it stands as a UNESCO World Heritage Site, showcasing magnificent ruins and ancient temples that hint at its glorious past. Visitors can wander through the expansive Ayutthaya Historical Park, where they will find impressive structures like the iconic Wat Mahathat, famous for its Buddha head entwined in tree roots. The city's layout is unique, with an island surrounded by rivers, creating a picturesque backdrop for exploration. Each temple, from Wat Phra Si Sanphet to Wat Chaiwatthanaram, tells a story of architectural brilliance and spiritual significance. Ayutthaya is not just a destination for history enthusiasts; it offers vibrant local markets, traditional Thai cuisine, and a glimpse into the local way of life. The warm hospitality of its residents and the serene ambiance of the ancient ruins make Ayutthaya a must-visit for anyone seeking to immerse themselves in Thailand's heritage.",
+  "top_attractions": [
+    {
+      "name": "Ayutthaya Historical Park",
+      "description": "A UNESCO World Heritage Site, this park encompasses the ruins of temples and palaces, showcasing the grandeur of the ancient capital."
+    },
+    {
+      "name": "Wat Mahathat",
+      "description": "Famous for the Buddha head entwined in tree roots, this temple is a symbol of Ayutthaya and offers stunning architecture and historical significance."
+    },
+    {
+      "name": "Wat Chaiwatthanaram",
+      "description": "This temple is known for its impressive Khmer-style architecture and scenic location by the river, making it perfect for sunset views."
+    },
+    {
+      "name": "Wat Phra Si Sanphet",
+      "description": "Once the holiest temple in the kingdom, it features three large chedis and is a stunning example of Ayutthaya's architectural prowess."
+    },
+    {
+      "name": "Bang Pa-In Palace",
+      "description": "Also known as the Summer Palace, this site combines Thai, Chinese, and European architectural styles set within beautiful gardens."
+    },
+    {
+      "name": "Wat Ratchaburana",
+      "description": "This temple features a large central prang and offers insight into the ancient burial practices of the Ayutthaya period."
+    },
+    {
+      "name": "Ayutthaya Floating Market",
+      "description": "A vibrant market set on water, offering a variety of local foods, crafts, and souvenirs, perfect for a cultural immersion."
+    },
+    {
+      "name": "Ayutthaya Elephant Palace & Royal Kraal",
+      "description": "A unique attraction where visitors can learn about the role of elephants in Thai culture and enjoy elephant rides."
+    }
+  ],
+  "top_restaurants": [
+    {
+      "name": "Roti Sai Mai",
+      "cuisine": "Thai, Street Food",
+      "description": "Famous for its sweet cotton candy roti, this local favorite offers a unique treat that's a must-try for visitors."
+    },
+    {
+      "name": "Krua Nakhon Luang",
+      "cuisine": "Thai",
+      "description": "Known for its authentic Thai dishes, especially the boat noodles, served in a cozy, traditional setting."
+    },
+    {
+      "name": "The Summer House",
+      "cuisine": "International, Thai",
+      "description": "A charming café that serves a mix of Thai and Western dishes, ideal for brunch or a light meal in a relaxed atmosphere."
+    },
+    {
+      "name": "Baan Kao Nhom",
+      "cuisine": "Desserts, Thai",
+      "description": "A delightful dessert shop specializing in traditional Thai sweets, perfect for a sweet treat after exploring the ruins."
+    },
+    {
+      "name": "Siam Suki",
+      "cuisine": "Thai, Hot Pot",
+      "description": "Offers a delicious hot pot experience with fresh ingredients and a variety of dipping sauces, popular among locals."
+    },
+    {
+      "name": "Ban Khun Ya",
+      "cuisine": "Thai",
+      "description": "A well-regarded restaurant serving classic Thai dishes with fresh ingredients and a welcoming atmosphere."
+    }
+  ],
+  "top_hotels": [
+    {
+      "name": "Sala Ayutthaya",
+      "price_range": "$$$",
+      "description": "A luxurious riverside hotel offering stunning views of the ancient ruins, with modern amenities and an on-site restaurant."
+    },
+    {
+      "name": "Ayutthaya Place Hotel",
+      "price_range": "$$",
+      "description": "A comfortable hotel with spacious rooms, located conveniently near major attractions, ideal for both families and solo travelers."
+    },
+    {
+      "name": "Krungsri River Hotel",
+      "price_range": "$$",
+      "description": "Overlooking the river, this hotel features comfortable accommodations, a swimming pool, and easy access to historical sites."
+    },
+    {
+      "name": "Baan Thai House",
+      "price_range": "$",
+      "description": "A charming boutique hotel with traditional Thai decor, offering a warm atmosphere and personalized service."
+    },
+    {
+      "name": "The Colonial Hotel",
+      "price_range": "$$",
+      "description": "A quaint hotel with colonial architecture and a garden, providing a peaceful retreat after a day of exploring."
+    },
+    {
+      "name": "Nornyaowarat",
+      "price_range": "$",
+      "description": "A budget-friendly guesthouse with clean rooms and a friendly vibe, perfect for backpackers and budget travelers."
+    }
+  ],
+  "travel_tips": [
+    "Wear comfortable shoes as you'll be walking a lot while exploring the ruins.",
+    "Stay hydrated and carry water, especially during the hot months.",
+    "Consider renting a bicycle to easily navigate between attractions.",
+    "Respect the cultural significance of the temples; dress appropriately.",
+    "Visit early in the morning or late afternoon to avoid crowds and heat."
+  ],
+  "best_time_to_visit": {
+    "season": "November to February",
+    "weather": "Cool and dry",
+    "reasons": "This period offers pleasant temperatures and less humidity, making it ideal for outdoor exploration of historical sites."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$20-40",
+      "mid": "$40-100",
+      "luxury": "$100+"
+    }
+  },
+  "enhanced_at": "2025-05-25T19:45:38.120Z",
+  "ai_generated": true
+}
