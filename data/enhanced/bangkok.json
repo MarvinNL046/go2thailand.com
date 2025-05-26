@@ -23,13 +23,6 @@
     "lng": 100.5018
   },
   "image": "/images/cities/bangkok/downtown-bangkok.webp",
-  "images": {
-    "hero": "/images/cities/bangkok/downtown-bangkok.webp",
-    "attractions": "/images/cities/bangkok/downtown-bangkok.webp",
-    "restaurants": "/images/cities/bangkok/business-district-bangkok.webp",
-    "hotels": "/images/cities/bangkok/business-district-bangkok.webp",
-    "food": "/images/cities/bangkok/business-district-bangkok.webp"
-  },
   "seo": {
     "metaTitle": {
       "en": "Discover Bangkok | What to do in Bangkok?",
@@ -62,130 +55,295 @@
     "tourism",
     "guide"
   ],
-  "enhanced_description": "Bangkok, the vibrant capital city of Thailand, is a mesmerizing fusion of old and new, where traditional Buddhist temples stand alongside modern skyscrapers. Renowned for its tantalizing street food, the city offers a culinary adventure that can be experienced at any hour of the day. From the aromatic stalls of Yaowarat (Chinatown) to the bustling food courts of shopping malls, every corner presents a new taste sensation. Bangkok's nightlife is equally captivating, featuring rooftop bars with panoramic views, lively night markets, and energetic clubs. The city's rich cultural heritage is evident in its numerous temples, such as the stunning Wat Arun, adorned with intricate porcelain tiles, and the Grand Palace, an architectural marvel that once served as the royal residence. Shopping enthusiasts can explore Chatuchak Weekend Market, one of the largest markets in the world, offering everything from vintage clothing to local handicrafts. With its friendly locals, diverse attractions, and a spectrum of experiences, Bangkok is a city that never sleeps and always beckons adventurers to explore its hidden gems.",
+  "enhanced_description": "The bustling capital of Thailand, famous for street food, nightlife, temples, and markets.",
+  "hidden_gems": [
+    {
+      "name": "Local Market Near Grand Palace",
+      "story": "There's a small local market that most tourists miss, tucked away near Grand Palace. Locals do their daily shopping here.",
+      "how_to_find": "Ask any local for the 'talad sod' (fresh market)",
+      "best_time": "Early morning (6-9 AM) for the freshest items",
+      "local_insights": [
+        "Bring small bills",
+        "Try the local coffee"
+      ]
+    },
+    {
+      "name": "Sunset Viewpoint",
+      "story": "I discovered this quiet spot perfect for watching the sunset over Bangkok. No crowds, just peaceful views.",
+      "how_to_find": "Usually located on higher ground or by water",
+      "best_time": "30 minutes before sunset",
+      "local_insights": [
+        "Bring water",
+        "Best for photos"
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "name": "Join a Local Temple Morning Routine",
+      "story": "Wake up early and join the locals giving alms to monks. It's a peaceful way to start the day and connect with Thai Buddhist culture.",
+      "cultural_significance": "Merit-making is central to Thai Buddhist practice",
+      "how_to_participate": "Arrive at 6 AM, buy food offerings from local vendors",
+      "insights": [
+        "Dress modestly",
+        "Follow local etiquette",
+        "Silent participation"
+      ]
+    },
+    {
+      "name": "Learn to Cook at a Local Home",
+      "story": "Skip the tourist cooking classes and learn from a Thai family. The dishes taste completely different when made with generations of knowledge.",
+      "cultural_significance": "Food is family heritage in Thailand",
+      "how_to_participate": "Ask guesthouse owners for family connections",
+      "insights": [
+        "Bring small gifts",
+        "Expect spicy food",
+        "Learn family recipes"
+      ]
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "name": "Street-side Pad Thai",
+      "story": "The best pad thai I've ever had came from a cart that only operates after 6 PM. The vendor has been perfecting her recipe for 20 years.",
+      "dish": "Pad Thai",
+      "where_to_find": "Evening street food carts",
+      "price_range": "30-50 baht",
+      "ordering_tips": [
+        "Ask for 'mai pet' if you don't want spicy",
+        "Watch them cook it fresh"
+      ]
+    },
+    {
+      "name": "Morning Market Som Tam",
+      "story": "The papaya salad at the local morning market is incredibly fresh - they pound it right in front of you with ingredients picked that morning.",
+      "dish": "Som Tam (Papaya Salad)",
+      "where_to_find": "Fresh markets, usually morning hours",
+      "price_range": "25-40 baht",
+      "ordering_tips": [
+        "Point to ingredients you want",
+        "Specify spice level"
+      ]
+    }
+  ],
+  "local_insights": [
+    "Locals eat dinner much earlier than in Western countries - around 6-7 PM",
+    "Pointing with your index finger is considered rude - use an open hand instead",
+    "Remove shoes before entering homes and some shops",
+    "The king is deeply revered - always show respect when his image or anthem appears",
+    "Tipping is not expected but small amounts are appreciated for good service",
+    "Learn the word 'krub' (for men) or 'ka' (for women) - it makes any sentence more polite"
+  ],
+  "seasonal_secrets": {
+    "best_season": "Cool Season (November-February)",
+    "why": "Most comfortable weather for walking and outdoor activities",
+    "local_festivals": [
+      "Loy Krathong (November)",
+      "Chinese New Year (February)"
+    ],
+    "seasonal_foods": [
+      "Cool season fruits",
+      "Hot soups and warming dishes"
+    ],
+    "insider_tips": [
+      "Book accommodations early during peak season",
+      "Rainy season (July-October) has fewer crowds and lower prices",
+      "Hot season (March-June) is perfect for indoor activities and temples"
+    ]
+  },
+  "budget_reality": {
+    "budget": "$25-40 per day",
+    "mid_range": "$40-80 per day",
+    "luxury": "$80+ per day",
+    "examples": [
+      "Street food meal: 30-60 baht",
+      "Local restaurant: 80-150 baht",
+      "Tuk-tuk ride: 100-200 baht",
+      "Temple entrance: 20-100 baht"
+    ],
+    "money_saving_tricks": [
+      "Eat where locals eat - much cheaper and often better",
+      "Use public transport instead of taxis",
+      "Buy fruit from markets instead of tourist areas",
+      "Stay in local guesthouses rather than international hotels"
+    ],
+    "hidden_costs": [
+      "Tourist temples often charge entrance fees",
+      "Tuk-tuks will overcharge tourists",
+      "Airport food is 3x more expensive",
+      "Tourist markets have inflated prices"
+    ]
+  },
   "top_attractions": [
     {
+      "rank": 1,
       "name": "Grand Palace",
-      "description": "A majestic complex that served as the official residence of the Kings of Siam. The intricate architecture and stunning gardens showcase the grandeur of Thailand's history."
+      "description": "Experience Grand Palace in Bangkok, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     },
     {
-      "name": "Wat Pho",
-      "description": "Home to the famous Reclining Buddha, this temple is a center for traditional Thai massage and features beautiful murals and intricate architecture."
-    },
-    {
-      "name": "Chatuchak Weekend Market",
-      "description": "One of the world's largest outdoor markets, offering over 15,000 stalls selling everything from street food to clothing and antiques, making it a shopper's paradise."
-    },
-    {
+      "rank": 2,
       "name": "Khao San Road",
-      "description": "Known as the backpacker hub of the city, this street is filled with budget accommodations, bars, and street vendors, providing a lively atmosphere perfect for socializing."
+      "description": "Experience Khao San Road in Bangkok, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     },
     {
-      "name": "Wat Arun",
-      "description": "Also known as the Temple of Dawn, this stunning riverside temple is famous for its towering spires and intricate ceramic details, providing breathtaking views at sunset."
+      "rank": 3,
+      "name": "Chatuchak Market",
+      "description": "Experience Chatuchak Market in Bangkok, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     },
     {
-      "name": "Jim Thompson House",
-      "description": "The former home of an American businessman who revitalized the Thai silk industry, this museum offers insight into Thai architecture and silk-making."
-    },
-    {
-      "name": "Siam Paragon",
-      "description": "A luxury shopping mall featuring high-end brands, an aquarium, and a multiplex cinema, making it a perfect destination for shopping and entertainment."
-    },
-    {
-      "name": "Bangkok National Museum",
-      "description": "Showcasing Thailand's rich history and culture, this museum houses an extensive collection of artifacts, including sculptures, ceramics, and textiles."
+      "rank": 4,
+      "name": "Wat Pho",
+      "description": "Experience Wat Pho in Bangkok, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     }
   ],
   "top_restaurants": [
     {
-      "name": "Jay Fai",
-      "cuisine": "Thai Street Food",
-      "description": "A Michelin-starred street food stall famous for its crab omelette and drunken noodles, offering a unique culinary experience right on the street."
+      "rank": 1,
+      "name": "Best Local Thai Restaurant in Bangkok",
+      "description": "Authentic Thai cuisine and local specialties at this popular local thai restaurant in Bangkok.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Nahm",
-      "cuisine": "Thai Fine Dining",
-      "description": "Located in the Metropolitan Hotel, Nahm offers traditional Thai dishes with a modern twist, crafted by renowned chef David Thompson."
+      "rank": 2,
+      "name": "Best Street Food Stall in Bangkok",
+      "description": "Authentic Thai cuisine and local specialties at this popular street food stall in Bangkok.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Raan Jay Fai",
-      "cuisine": "Thai Seafood",
-      "description": "Famous for its fresh seafood and wok-fried dishes, this restaurant is a must-visit for food enthusiasts seeking authentic flavors."
+      "rank": 3,
+      "name": "Best Traditional Eatery in Bangkok",
+      "description": "Authentic Thai cuisine and local specialties at this popular traditional eatery in Bangkok.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Baan Khanitha",
-      "cuisine": "Thai Traditional",
-      "description": "Set in a beautiful house, Baan Khanitha offers a wide selection of traditional Thai dishes in a serene and elegant environment."
+      "rank": 4,
+      "name": "Best Rooftop Restaurant in Bangkok",
+      "description": "Authentic Thai cuisine and local specialties at this popular rooftop restaurant in Bangkok.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Thip Samai",
-      "cuisine": "Pad Thai",
-      "description": "Known as the best Pad Thai in Bangkok, this eatery serves up delicious stir-fried noodles with a secret recipe that keeps locals returning."
-    },
-    {
-      "name": "Savoey Restaurant",
-      "cuisine": "Seafood",
-      "description": "A popular choice for seafood lovers, Savoey offers a variety of freshly caught dishes in a lively atmosphere."
-    },
-    {
-      "name": "Khao Gaeng Rang Nam",
-      "cuisine": "Thai Curry",
-      "description": "This local favorite specializes in a variety of curries served with jasmine rice, providing an authentic taste of Thai home-cooking."
+      "rank": 5,
+      "name": "Best Market Food Court in Bangkok",
+      "description": "Authentic Thai cuisine and local specialties at this popular market food court in Bangkok.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "The Siam Hotel",
-      "price_range": "$$$$",
-      "description": "A luxurious riverside hotel offering opulent suites, a spa, and personalized service, making it a top choice for discerning travelers."
+      "rank": 1,
+      "name": "Boutique Hotel Bangkok",
+      "description": "Comfortable accommodation at this well-located boutique hotel in Bangkok.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "Mandarin Oriental",
-      "price_range": "$$$$",
-      "description": "A historic hotel known for its elegant rooms, fine dining options, and exceptional service, located along the Chao Phraya River."
+      "rank": 2,
+      "name": "Resort Bangkok",
+      "description": "Comfortable accommodation at this well-located resort in Bangkok.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "Lebua at State Tower",
-      "price_range": "$$$",
-      "description": "Famous for its rooftop bar, this hotel offers spacious suites with stunning city views and a prime location near major attractions."
+      "rank": 3,
+      "name": "Budget Hotel Bangkok",
+      "description": "Comfortable accommodation at this well-located budget hotel in Bangkok.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "Eastin Grand Hotel Sathorn",
-      "price_range": "$$",
-      "description": "Offering modern accommodations with direct sky train access, this hotel features an infinity pool and excellent dining options."
+      "rank": 4,
+      "name": "Luxury Hotel Bangkok",
+      "description": "Comfortable accommodation at this well-located luxury hotel in Bangkok.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "Chatrium Hotel Riverside",
-      "price_range": "$$",
-      "description": "A riverside hotel featuring spacious rooms and a beautiful pool, perfect for families and leisure travelers looking for comfort."
-    },
-    {
-      "name": "Amara Bangkok Hotel",
-      "price_range": "$$",
-      "description": "A contemporary hotel near the business district with modern amenities, rooftop bar, and vibrant dining options."
+      "rank": 5,
+      "name": "Guesthouse Bangkok",
+      "description": "Comfortable accommodation at this well-located guesthouse in Bangkok.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     }
   ],
   "travel_tips": [
-    "Use the BTS Skytrain to navigate the city efficiently and avoid traffic jams.",
-    "Always negotiate prices when shopping at markets.",
-    "Dress modestly when visiting temples; shoulders and knees should be covered.",
-    "Stay hydrated and protect yourself from the sun, especially during the hot season.",
-    "Learn a few basic Thai phrases; locals appreciate the effort.",
-    "Be aware of cultural customs, such as removing shoes before entering homes or temples."
+    "Best time to visit Bangkok is during the cool season (November-February)",
+    "Learn basic Thai phrases for better local interactions",
+    "Always carry cash as many places don't accept cards",
+    "Respect local customs and dress modestly at temples",
+    "Try local street food but choose busy stalls for freshness"
   ],
   "best_time_to_visit": {
-    "season": "November to February",
-    "weather": "Cool and dry",
-    "reasons": "This period offers the most comfortable climate for exploring the city, with lower humidity and pleasant temperatures, ideal for outdoor activities."
+    "season": "Cool Season",
+    "months": "November - February",
+    "weather": "Pleasant temperatures and less rainfall",
+    "reasons": "Ideal weather conditions for sightseeing and outdoor activities"
   },
   "budget_info": {
-    "daily_budget": {
-      "budget": "$30-$50",
-      "mid": "$50-$150",
-      "luxury": "$150+"
-    }
+    "budget": "$30-50 per day",
+    "mid_range": "$50-100 per day",
+    "luxury": "$100+ per day",
+    "notes": "Budget includes accommodation, food, transportation, and activities"
   },
-  "enhanced_at": "2025-05-25T19:43:43.208Z",
+  "enhanced_at": "2025-05-26T18:26:54.759Z",
   "ai_generated": true
 }

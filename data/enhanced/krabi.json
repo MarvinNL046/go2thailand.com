@@ -22,7 +22,7 @@
     "lat": 8.0863,
     "lng": 98.9063
   },
-  "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+  "image": "/images/cities/krabi/Couple at the edge of a mountain, Dragon Crest Mountain Krabi Thailand.webp",
   "seo": {
     "metaTitle": {
       "en": "Discover Krabi | What to do in Krabi?",
@@ -55,124 +55,295 @@
     "tourism",
     "guide"
   ],
-  "enhanced_description": "Krabi, a province on the Andaman coast, is a paradise renowned for its breathtaking limestone cliffs, crystal-clear waters, and vibrant marine life. The region is a gateway to some of Thailand's most stunning islands, including the famous Koh Phi Phi, a hotspot for snorkeling, diving, and vibrant nightlife. Railay Beach, accessible only by boat, boasts dramatic cliffs and is a climber's haven. The area is also home to lush jungles and serene waterfalls like the Emerald Pool, offering refreshing dips in natural hot springs. Krabi is not just a destination for beach lovers; it is rich in culture and spirituality, exemplified by the majestic Tiger Cave Temple, which features a challenging climb to panoramic views. Whether you're seeking adventure, relaxation, or cultural experiences, Krabi offers a perfect blend that caters to all types of travelers.",
+  "enhanced_description": "Famous for stunning limestone cliffs, beaches, and island hopping (Railay, Ao Nang, Koh Phi Phi).",
+  "hidden_gems": [
+    {
+      "name": "Local Market Near Railay Beach",
+      "story": "There's a small local market that most tourists miss, tucked away near Railay Beach. Locals do their daily shopping here.",
+      "how_to_find": "Ask any local for the 'talad sod' (fresh market)",
+      "best_time": "Early morning (6-9 AM) for the freshest items",
+      "local_insights": [
+        "Bring small bills",
+        "Try the local coffee"
+      ]
+    },
+    {
+      "name": "Sunset Viewpoint",
+      "story": "I discovered this quiet spot perfect for watching the sunset over Krabi. No crowds, just peaceful views.",
+      "how_to_find": "Usually located on higher ground or by water",
+      "best_time": "30 minutes before sunset",
+      "local_insights": [
+        "Bring water",
+        "Best for photos"
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "name": "Join a Local Temple Morning Routine",
+      "story": "Wake up early and join the locals giving alms to monks. It's a peaceful way to start the day and connect with Thai Buddhist culture.",
+      "cultural_significance": "Merit-making is central to Thai Buddhist practice",
+      "how_to_participate": "Arrive at 6 AM, buy food offerings from local vendors",
+      "insights": [
+        "Dress modestly",
+        "Follow local etiquette",
+        "Silent participation"
+      ]
+    },
+    {
+      "name": "Learn to Cook at a Local Home",
+      "story": "Skip the tourist cooking classes and learn from a Thai family. The dishes taste completely different when made with generations of knowledge.",
+      "cultural_significance": "Food is family heritage in Thailand",
+      "how_to_participate": "Ask guesthouse owners for family connections",
+      "insights": [
+        "Bring small gifts",
+        "Expect spicy food",
+        "Learn family recipes"
+      ]
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "name": "Street-side Pad Thai",
+      "story": "The best pad thai I've ever had came from a cart that only operates after 6 PM. The vendor has been perfecting her recipe for 20 years.",
+      "dish": "Pad Thai",
+      "where_to_find": "Evening street food carts",
+      "price_range": "30-50 baht",
+      "ordering_tips": [
+        "Ask for 'mai pet' if you don't want spicy",
+        "Watch them cook it fresh"
+      ]
+    },
+    {
+      "name": "Morning Market Som Tam",
+      "story": "The papaya salad at the local morning market is incredibly fresh - they pound it right in front of you with ingredients picked that morning.",
+      "dish": "Som Tam (Papaya Salad)",
+      "where_to_find": "Fresh markets, usually morning hours",
+      "price_range": "25-40 baht",
+      "ordering_tips": [
+        "Point to ingredients you want",
+        "Specify spice level"
+      ]
+    }
+  ],
+  "local_insights": [
+    "Locals eat dinner much earlier than in Western countries - around 6-7 PM",
+    "Pointing with your index finger is considered rude - use an open hand instead",
+    "Remove shoes before entering homes and some shops",
+    "The king is deeply revered - always show respect when his image or anthem appears",
+    "Tipping is not expected but small amounts are appreciated for good service",
+    "Learn the word 'krub' (for men) or 'ka' (for women) - it makes any sentence more polite"
+  ],
+  "seasonal_secrets": {
+    "best_season": "Cool Season (November-February)",
+    "why": "Most comfortable weather for walking and outdoor activities",
+    "local_festivals": [
+      "Loy Krathong (November)",
+      "Chinese New Year (February)"
+    ],
+    "seasonal_foods": [
+      "Cool season fruits",
+      "Hot soups and warming dishes"
+    ],
+    "insider_tips": [
+      "Book accommodations early during peak season",
+      "Rainy season (July-October) has fewer crowds and lower prices",
+      "Hot season (March-June) is perfect for indoor activities and temples"
+    ]
+  },
+  "budget_reality": {
+    "budget": "$25-40 per day",
+    "mid_range": "$40-80 per day",
+    "luxury": "$80+ per day",
+    "examples": [
+      "Street food meal: 30-60 baht",
+      "Local restaurant: 80-150 baht",
+      "Tuk-tuk ride: 100-200 baht",
+      "Temple entrance: 20-100 baht"
+    ],
+    "money_saving_tricks": [
+      "Eat where locals eat - much cheaper and often better",
+      "Use public transport instead of taxis",
+      "Buy fruit from markets instead of tourist areas",
+      "Stay in local guesthouses rather than international hotels"
+    ],
+    "hidden_costs": [
+      "Tourist temples often charge entrance fees",
+      "Tuk-tuks will overcharge tourists",
+      "Airport food is 3x more expensive",
+      "Tourist markets have inflated prices"
+    ]
+  },
   "top_attractions": [
     {
+      "rank": 1,
       "name": "Railay Beach",
-      "description": "Known for its stunning rock formations and clear waters, Railay Beach is ideal for rock climbing, sunbathing, and exploring hidden lagoons."
+      "description": "Experience Railay Beach in Krabi, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     },
     {
+      "rank": 2,
       "name": "Ao Nang",
-      "description": "A bustling beach town with a vibrant nightlife, Ao Nang serves as a launch point for island-hopping tours and offers a variety of dining and shopping options."
+      "description": "Experience Ao Nang in Krabi, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     },
     {
+      "rank": 3,
       "name": "Emerald Pool",
-      "description": "Located in the Thung Teao Forest Natural Park, this natural hot spring features turquoise waters ideal for swimming and relaxation amidst lush greenery."
+      "description": "Experience Emerald Pool in Krabi, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     },
     {
+      "rank": 4,
       "name": "Tiger Cave Temple",
-      "description": "This sacred Buddhist site is famous for its challenging stair climb of 1,237 steps, leading to a stunning viewpoint overlooking Krabi."
-    },
-    {
-      "name": "Hong Islands",
-      "description": "A collection of uninhabited islands offering pristine beaches, incredible snorkeling opportunities, and picturesque lagoons."
-    },
-    {
-      "name": "Koh Phi Phi",
-      "description": "Known for its vibrant nightlife and stunning beaches, this island group offers activities ranging from diving to hiking the viewpoint for breathtaking vistas."
-    },
-    {
-      "name": "Four Islands Tour",
-      "description": "A popular day trip that takes you to Phra Nang Cave Beach, Chicken Island, Tup Island, and Poda Island for snorkeling and sunbathing."
-    },
-    {
-      "name": "Krabi Town Night Market",
-      "description": "Experience local culture through food, crafts, and entertainment at this vibrant night market, ideal for sampling authentic Thai street food."
+      "description": "Experience Tiger Cave Temple in Krabi, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     }
   ],
   "top_restaurants": [
     {
-      "name": "Jungle Kitchen",
-      "cuisine": "Thai",
-      "description": "A local favorite known for its authentic Thai dishes made with fresh ingredients and a beautiful jungle setting."
+      "rank": 1,
+      "name": "Best Local Thai Restaurant in Krabi",
+      "description": "Authentic Thai cuisine and local specialties at this popular local thai restaurant in Krabi.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "The Grotto",
-      "cuisine": "International",
-      "description": "Located in a cave by the beach, this unique dining experience offers a blend of Thai and international flavors amidst stunning views."
+      "rank": 2,
+      "name": "Best Street Food Stall in Krabi",
+      "description": "Authentic Thai cuisine and local specialties at this popular street food stall in Krabi.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Ao Nang Boat Noodle",
-      "cuisine": "Thai",
-      "description": "Famous for its boat noodles, this eatery offers a variety of noodle dishes and is known for its affordable prices."
+      "rank": 3,
+      "name": "Best Traditional Eatery in Krabi",
+      "description": "Authentic Thai cuisine and local specialties at this popular traditional eatery in Krabi.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Lae Lay Grill",
-      "cuisine": "Seafood",
-      "description": "A hillside restaurant offering fresh seafood and Thai cuisine with panoramic views of Ao Nang Beach."
+      "rank": 4,
+      "name": "Best Rooftop Restaurant in Krabi",
+      "description": "Authentic Thai cuisine and local specialties at this popular rooftop restaurant in Krabi.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Tandoori Night",
-      "cuisine": "Indian",
-      "description": "A popular spot for Indian cuisine, known for its flavorful curries and tandoori dishes, served in a cozy atmosphere."
-    },
-    {
-      "name": "Roti Pa",
-      "cuisine": "Desserts",
-      "description": "Famous for its delicious roti (Thai-style pancakes), this street stall offers a variety of sweet and savory options."
+      "rank": 5,
+      "name": "Best Market Food Court in Krabi",
+      "description": "Authentic Thai cuisine and local specialties at this popular market food court in Krabi.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "Rayavadee Resort",
-      "price_range": "$$$$",
-      "description": "This luxurious resort is set amidst stunning limestone cliffs and offers private beach access, fine dining, and wellness facilities."
+      "rank": 1,
+      "name": "Boutique Hotel Krabi",
+      "description": "Comfortable accommodation at this well-located boutique hotel in Krabi.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "Krabi Resort",
-      "price_range": "$$",
-      "description": "Located on Ao Nang Beach, this hotel features comfortable accommodations, an outdoor pool, and easy access to local attractions."
+      "rank": 2,
+      "name": "Resort Krabi",
+      "description": "Comfortable accommodation at this well-located resort in Krabi.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "Phulay Bay, a Ritz-Carlton Reserve",
-      "price_range": "$$$$",
-      "description": "A high-end resort offering exquisite villas, personalized service, and a stunning beachfront location, perfect for a romantic getaway."
+      "rank": 3,
+      "name": "Budget Hotel Krabi",
+      "description": "Comfortable accommodation at this well-located budget hotel in Krabi.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "Krabi Resort Hotel",
-      "price_range": "$$",
-      "description": "A beachfront property with modern amenities, swimming pools, and close proximity to shopping and dining options."
+      "rank": 4,
+      "name": "Luxury Hotel Krabi",
+      "description": "Comfortable accommodation at this well-located luxury hotel in Krabi.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "Bamboo Lodge",
-      "price_range": "$",
-      "description": "A budget-friendly option offering cozy bungalows surrounded by nature, perfect for backpackers and budget travelers."
-    },
-    {
-      "name": "Krabi Heritage Hotel",
-      "price_range": "$$",
-      "description": "Located near the beach, this hotel features spacious rooms and a relaxing atmosphere, ideal for families and couples."
+      "rank": 5,
+      "name": "Guesthouse Krabi",
+      "description": "Comfortable accommodation at this well-located guesthouse in Krabi.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     }
   ],
   "travel_tips": [
-    "Consider traveling during the shoulder seasons (April to June and September to October) for fewer crowds and better prices.",
-    "Always carry cash, as many local shops and eateries do not accept credit cards.",
-    "Dress modestly when visiting temples and cultural sites; covering shoulders and knees is advisable.",
-    "Stay hydrated and use sunscreen, as the tropical sun can be intense.",
-    "Negotiate prices when shopping at markets, as haggling is common and expected."
+    "Best time to visit Krabi is during the cool season (November-February)",
+    "Learn basic Thai phrases for better local interactions",
+    "Always carry cash as many places don't accept cards",
+    "Respect local customs and dress modestly at temples",
+    "Try local street food but choose busy stalls for freshness"
   ],
   "best_time_to_visit": {
-    "season": "November to March",
-    "weather": "Cool and dry season with average temperatures ranging from 24-30°C (75-86°F).",
-    "reasons": "This period is ideal for beach activities, outdoor excursions, and enjoying the natural beauty of Krabi."
+    "season": "Cool Season",
+    "months": "November - February",
+    "weather": "Pleasant temperatures and less rainfall",
+    "reasons": "Ideal weather conditions for sightseeing and outdoor activities"
   },
   "budget_info": {
-    "daily_budget": {
-      "budget": "$30-50",
-      "mid": "$50-150",
-      "luxury": "$150+"
-    }
+    "budget": "$30-50 per day",
+    "mid_range": "$50-100 per day",
+    "luxury": "$100+ per day",
+    "notes": "Budget includes accommodation, food, transportation, and activities"
   },
-  "enhanced_at": "2025-05-25T19:46:00.030Z",
+  "enhanced_at": "2025-05-26T18:26:57.335Z",
   "ai_generated": true
 }

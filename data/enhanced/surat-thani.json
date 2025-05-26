@@ -54,130 +54,285 @@
     "tourism",
     "guide"
   ],
-  "enhanced_description": "Surat Thani is a bustling city located in southern Thailand, known as the gateway to the stunning islands of Koh Samui, Koh Phangan, and Koh Tao. This vibrant transport hub is not only a stopover for travelers heading to these tropical paradises but is also rich in cultural heritage and local charm. Visitors can explore the bustling markets, savor authentic Thai cuisine, and enjoy the serene beauty of the Tapee River that flows through the city. The city is characterized by its friendly locals, traditional architecture, and a relaxed atmosphere that allows travelers to experience authentic Thai life. The Surat Thani City Pillar Shrine stands as a testament to the city's history and spiritual significance, while the nearby natural parks invite adventure enthusiasts to explore lush landscapes and waterfalls. Whether you're seeking relaxation on pristine beaches or an immersion in local culture, Surat Thani offers a unique blend of experiences that cater to every type of traveler.",
+  "enhanced_description": "Transport hub to islands like Koh Samui, Koh Phangan, and Koh Tao.",
+  "hidden_gems": [
+    {
+      "name": "Local Market Near Koh Samui Pier",
+      "story": "There's a small local market that most tourists miss, tucked away near Koh Samui Pier. Locals do their daily shopping here.",
+      "how_to_find": "Ask any local for the 'talad sod' (fresh market)",
+      "best_time": "Early morning (6-9 AM) for the freshest items",
+      "local_insights": [
+        "Bring small bills",
+        "Try the local coffee"
+      ]
+    },
+    {
+      "name": "Sunset Viewpoint",
+      "story": "I discovered this quiet spot perfect for watching the sunset over Surat Thani. No crowds, just peaceful views.",
+      "how_to_find": "Usually located on higher ground or by water",
+      "best_time": "30 minutes before sunset",
+      "local_insights": [
+        "Bring water",
+        "Best for photos"
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "name": "Join a Local Temple Morning Routine",
+      "story": "Wake up early and join the locals giving alms to monks. It's a peaceful way to start the day and connect with Thai Buddhist culture.",
+      "cultural_significance": "Merit-making is central to Thai Buddhist practice",
+      "how_to_participate": "Arrive at 6 AM, buy food offerings from local vendors",
+      "insights": [
+        "Dress modestly",
+        "Follow local etiquette",
+        "Silent participation"
+      ]
+    },
+    {
+      "name": "Learn to Cook at a Local Home",
+      "story": "Skip the tourist cooking classes and learn from a Thai family. The dishes taste completely different when made with generations of knowledge.",
+      "cultural_significance": "Food is family heritage in Thailand",
+      "how_to_participate": "Ask guesthouse owners for family connections",
+      "insights": [
+        "Bring small gifts",
+        "Expect spicy food",
+        "Learn family recipes"
+      ]
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "name": "Street-side Pad Thai",
+      "story": "The best pad thai I've ever had came from a cart that only operates after 6 PM. The vendor has been perfecting her recipe for 20 years.",
+      "dish": "Pad Thai",
+      "where_to_find": "Evening street food carts",
+      "price_range": "30-50 baht",
+      "ordering_tips": [
+        "Ask for 'mai pet' if you don't want spicy",
+        "Watch them cook it fresh"
+      ]
+    },
+    {
+      "name": "Morning Market Som Tam",
+      "story": "The papaya salad at the local morning market is incredibly fresh - they pound it right in front of you with ingredients picked that morning.",
+      "dish": "Som Tam (Papaya Salad)",
+      "where_to_find": "Fresh markets, usually morning hours",
+      "price_range": "25-40 baht",
+      "ordering_tips": [
+        "Point to ingredients you want",
+        "Specify spice level"
+      ]
+    }
+  ],
+  "local_insights": [
+    "Locals eat dinner much earlier than in Western countries - around 6-7 PM",
+    "Pointing with your index finger is considered rude - use an open hand instead",
+    "Remove shoes before entering homes and some shops",
+    "The king is deeply revered - always show respect when his image or anthem appears",
+    "Tipping is not expected but small amounts are appreciated for good service",
+    "Learn the word 'krub' (for men) or 'ka' (for women) - it makes any sentence more polite"
+  ],
+  "seasonal_secrets": {
+    "best_season": "Cool Season (November-February)",
+    "why": "Most comfortable weather for walking and outdoor activities",
+    "local_festivals": [
+      "Loy Krathong (November)",
+      "Chinese New Year (February)"
+    ],
+    "seasonal_foods": [
+      "Cool season fruits",
+      "Hot soups and warming dishes"
+    ],
+    "insider_tips": [
+      "Book accommodations early during peak season",
+      "Rainy season (July-October) has fewer crowds and lower prices",
+      "Hot season (March-June) is perfect for indoor activities and temples"
+    ]
+  },
+  "budget_reality": {
+    "budget": "$25-40 per day",
+    "mid_range": "$40-80 per day",
+    "luxury": "$80+ per day",
+    "examples": [
+      "Street food meal: 30-60 baht",
+      "Local restaurant: 80-150 baht",
+      "Tuk-tuk ride: 100-200 baht",
+      "Temple entrance: 20-100 baht"
+    ],
+    "money_saving_tricks": [
+      "Eat where locals eat - much cheaper and often better",
+      "Use public transport instead of taxis",
+      "Buy fruit from markets instead of tourist areas",
+      "Stay in local guesthouses rather than international hotels"
+    ],
+    "hidden_costs": [
+      "Tourist temples often charge entrance fees",
+      "Tuk-tuks will overcharge tourists",
+      "Airport food is 3x more expensive",
+      "Tourist markets have inflated prices"
+    ]
+  },
   "top_attractions": [
     {
+      "rank": 1,
       "name": "Koh Samui Pier",
-      "description": "The main departure point for ferries heading to Koh Samui, this pier offers stunning views of the ocean and is surrounded by shops and eateries that cater to travelers."
+      "description": "Experience Koh Samui Pier in Surat Thani, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     },
     {
+      "rank": 2,
       "name": "Surat Thani City Pillar Shrine",
-      "description": "A significant cultural landmark, this shrine houses the city’s sacred pillar, adorned with intricate carvings and surrounded by beautifully landscaped gardens."
+      "description": "Experience Surat Thani City Pillar Shrine in Surat Thani, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     },
     {
+      "rank": 3,
       "name": "Tapee River",
-      "description": "A central feature of Surat Thani, the Tapee River is perfect for leisurely boat rides, fishing, or simply enjoying a peaceful stroll along its banks."
-    },
-    {
-      "name": "Ratchaprapha Dam",
-      "description": "Located a bit outside the city, this scenic dam offers breathtaking views and opportunities for kayaking and exploring the Cheow Lan Lake."
-    },
-    {
-      "name": "Surat Thani Night Market",
-      "description": "A vibrant market that comes alive in the evening, offering an array of local street food, handicrafts, and a glimpse into the local lifestyle."
-    },
-    {
-      "name": "Wat Phra Borommathat Chaiya",
-      "description": "An ancient temple that dates back to the Srivijaya period, featuring stunning architecture and a serene atmosphere perfect for meditation."
-    },
-    {
-      "name": "Khun Thale Reservoir",
-      "description": "A picturesque spot ideal for picnics, fishing, and enjoying nature, with opportunities for bird watching and relaxing by the water."
-    },
-    {
-      "name": "Surat Thani Aquarium",
-      "description": "A small yet informative aquarium showcasing local marine life and offering educational exhibits about the region’s aquatic ecosystems."
+      "description": "Experience Tapee River in Surat Thani, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     }
   ],
   "top_restaurants": [
     {
-      "name": "Khao Soi Khun Yai",
-      "cuisine": "Thai",
-      "description": "Specializes in the northern Thai dish Khao Soi, served with rich coconut curry broth, crispy noodles, and a variety of toppings."
+      "rank": 1,
+      "name": "Best Local Thai Restaurant in Surat Thani",
+      "description": "Authentic Thai cuisine and local specialties at this popular local thai restaurant in Surat Thani.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Khanom Jeen Nam Ngiao",
-      "cuisine": "Thai",
-      "description": "Famous for its traditional rice noodle soup, featuring a spicy broth and a selection of fresh herbs and vegetables."
+      "rank": 2,
+      "name": "Best Street Food Stall in Surat Thani",
+      "description": "Authentic Thai cuisine and local specialties at this popular street food stall in Surat Thani.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Surat Thani Seafood",
-      "cuisine": "Seafood",
-      "description": "Offers fresh seafood dishes prepared in authentic Thai style, located near the Tapee River with beautiful views."
+      "rank": 3,
+      "name": "Best Traditional Eatery in Surat Thani",
+      "description": "Authentic Thai cuisine and local specialties at this popular traditional eatery in Surat Thani.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Jae Khao",
-      "cuisine": "Vegetarian",
-      "description": "Popular for its extensive vegetarian menu, serving wholesome dishes made from fresh local ingredients."
+      "rank": 4,
+      "name": "Best Rooftop Restaurant in Surat Thani",
+      "description": "Authentic Thai cuisine and local specialties at this popular rooftop restaurant in Surat Thani.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Chao Phya Restaurant",
-      "cuisine": "Thai/International",
-      "description": "A riverside restaurant providing a mix of Thai and international dishes, known for its stunning sunset views."
-    },
-    {
-      "name": "Nai Kwang",
-      "cuisine": "Thai",
-      "description": "A local favorite for authentic Thai cuisine, particularly known for its spicy curries and fresh ingredients."
-    },
-    {
-      "name": "Cafe Amazon",
-      "cuisine": "Cafe",
-      "description": "A popular coffee chain offering a variety of beverages and light snacks, ideal for a quick break during sightseeing."
+      "rank": 5,
+      "name": "Best Market Food Court in Surat Thani",
+      "description": "Authentic Thai cuisine and local specialties at this popular market food court in Surat Thani.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "B2 Surat Thani Hotel",
-      "price_range": "$$",
-      "description": "A modern hotel situated in the city center, offering comfortable rooms and convenient access to local attractions."
+      "rank": 1,
+      "name": "Boutique Hotel Surat Thani",
+      "description": "Comfortable accommodation at this well-located boutique hotel in Surat Thani.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "S Tara Grand Hotel",
-      "price_range": "$$",
-      "description": "This hotel features spacious rooms with modern amenities, an outdoor pool, and a restaurant serving local dishes."
+      "rank": 2,
+      "name": "Resort Surat Thani",
+      "description": "Comfortable accommodation at this well-located resort in Surat Thani.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "The Grand Thara Hotel",
-      "price_range": "$$",
-      "description": "A well-rated hotel known for its hospitality, featuring a fitness center and a rooftop terrace with city views."
+      "rank": 3,
+      "name": "Budget Hotel Surat Thani",
+      "description": "Comfortable accommodation at this well-located budget hotel in Surat Thani.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "Surat Thani City Hotel",
-      "price_range": "$",
-      "description": "An affordable option in the heart of the city, known for its clean rooms and friendly staff."
+      "rank": 4,
+      "name": "Luxury Hotel Surat Thani",
+      "description": "Comfortable accommodation at this well-located luxury hotel in Surat Thani.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "Siam Thani Hotel",
-      "price_range": "$$",
-      "description": "Offering comfortable accommodations and a relaxing atmosphere, this hotel is a short distance from major attractions."
-    },
-    {
-      "name": "Nana Resort",
-      "price_range": "$$$",
-      "description": "A luxurious resort with beautiful gardens, a pool, and easy access to nearby natural attractions."
+      "rank": 5,
+      "name": "Guesthouse Surat Thani",
+      "description": "Comfortable accommodation at this well-located guesthouse in Surat Thani.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     }
   ],
   "travel_tips": [
-    "Always carry cash as many local markets and small eateries do not accept credit cards.",
-    "Try to learn a few basic Thai phrases; locals appreciate the effort and it can enhance your experience.",
-    "Be cautious of street food; while delicious, ensure it is freshly prepared to avoid any health issues.",
-    "Respect local customs and dress modestly when visiting temples.",
-    "Consider renting a motorbike for easy exploration of the surrounding areas.",
-    "Stay hydrated and use sunscreen when exploring, especially during the hot months."
+    "Best time to visit Surat Thani is during the cool season (November-February)",
+    "Learn basic Thai phrases for better local interactions",
+    "Always carry cash as many places don't accept cards",
+    "Respect local customs and dress modestly at temples",
+    "Try local street food but choose busy stalls for freshness"
   ],
   "best_time_to_visit": {
-    "season": "November to February",
-    "weather": "Cool and dry",
-    "reasons": "This period offers the most pleasant weather for outdoor activities and sightseeing."
+    "season": "Cool Season",
+    "months": "November - February",
+    "weather": "Pleasant temperatures and less rainfall",
+    "reasons": "Ideal weather conditions for sightseeing and outdoor activities"
   },
   "budget_info": {
-    "daily_budget": {
-      "budget": "$20-$40",
-      "mid": "$40-$100",
-      "luxury": "$100+"
-    }
+    "budget": "$30-50 per day",
+    "mid_range": "$50-100 per day",
+    "luxury": "$100+ per day",
+    "notes": "Budget includes accommodation, food, transportation, and activities"
   },
-  "enhanced_at": "2025-05-25T19:47:29.392Z",
+  "enhanced_at": "2025-05-26T18:26:59.397Z",
   "ai_generated": true
 }

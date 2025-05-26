@@ -55,124 +55,295 @@
     "tourism",
     "guide"
   ],
-  "enhanced_description": "Chiang Mai, often dubbed as the cultural capital of Northern Thailand, is a mesmerizing city that beautifully blends ancient traditions with modern allure. Nestled in the mountainous region, its old city walls and moat evoke a sense of history, while the numerous temples, such as Wat Phra That Doi Suthep, offer spiritual solace and breathtaking views. The city is vibrant with its lively night markets, particularly the Sunday Night Market, where local artisans display their crafts and street food stalls entice visitors with tantalizing flavors. The surrounding mountains provide ample opportunities for outdoor adventures, including trekking, zip-lining, and visits to ethical elephant sanctuaries. Chiang Mai is not just a destination; it's an experience that embodies the warmth of Thai culture, making it a must-visit for travelers seeking a blend of relaxation and exploration.",
+  "enhanced_description": "Northern Thailand’s cultural hub, known for its old city, night markets, temples, and nearby mountains.",
+  "hidden_gems": [
+    {
+      "name": "Local Market Near Doi Suthep",
+      "story": "There's a small local market that most tourists miss, tucked away near Doi Suthep. Locals do their daily shopping here.",
+      "how_to_find": "Ask any local for the 'talad sod' (fresh market)",
+      "best_time": "Early morning (6-9 AM) for the freshest items",
+      "local_insights": [
+        "Bring small bills",
+        "Try the local coffee"
+      ]
+    },
+    {
+      "name": "Sunset Viewpoint",
+      "story": "I discovered this quiet spot perfect for watching the sunset over Chiang Mai. No crowds, just peaceful views.",
+      "how_to_find": "Usually located on higher ground or by water",
+      "best_time": "30 minutes before sunset",
+      "local_insights": [
+        "Bring water",
+        "Best for photos"
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "name": "Join a Local Temple Morning Routine",
+      "story": "Wake up early and join the locals giving alms to monks. It's a peaceful way to start the day and connect with Thai Buddhist culture.",
+      "cultural_significance": "Merit-making is central to Thai Buddhist practice",
+      "how_to_participate": "Arrive at 6 AM, buy food offerings from local vendors",
+      "insights": [
+        "Dress modestly",
+        "Follow local etiquette",
+        "Silent participation"
+      ]
+    },
+    {
+      "name": "Learn to Cook at a Local Home",
+      "story": "Skip the tourist cooking classes and learn from a Thai family. The dishes taste completely different when made with generations of knowledge.",
+      "cultural_significance": "Food is family heritage in Thailand",
+      "how_to_participate": "Ask guesthouse owners for family connections",
+      "insights": [
+        "Bring small gifts",
+        "Expect spicy food",
+        "Learn family recipes"
+      ]
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "name": "Street-side Pad Thai",
+      "story": "The best pad thai I've ever had came from a cart that only operates after 6 PM. The vendor has been perfecting her recipe for 20 years.",
+      "dish": "Pad Thai",
+      "where_to_find": "Evening street food carts",
+      "price_range": "30-50 baht",
+      "ordering_tips": [
+        "Ask for 'mai pet' if you don't want spicy",
+        "Watch them cook it fresh"
+      ]
+    },
+    {
+      "name": "Morning Market Som Tam",
+      "story": "The papaya salad at the local morning market is incredibly fresh - they pound it right in front of you with ingredients picked that morning.",
+      "dish": "Som Tam (Papaya Salad)",
+      "where_to_find": "Fresh markets, usually morning hours",
+      "price_range": "25-40 baht",
+      "ordering_tips": [
+        "Point to ingredients you want",
+        "Specify spice level"
+      ]
+    }
+  ],
+  "local_insights": [
+    "Locals eat dinner much earlier than in Western countries - around 6-7 PM",
+    "Pointing with your index finger is considered rude - use an open hand instead",
+    "Remove shoes before entering homes and some shops",
+    "The king is deeply revered - always show respect when his image or anthem appears",
+    "Tipping is not expected but small amounts are appreciated for good service",
+    "Learn the word 'krub' (for men) or 'ka' (for women) - it makes any sentence more polite"
+  ],
+  "seasonal_secrets": {
+    "best_season": "Cool Season (November-February)",
+    "why": "Most comfortable weather for walking and outdoor activities",
+    "local_festivals": [
+      "Loy Krathong (November)",
+      "Chinese New Year (February)"
+    ],
+    "seasonal_foods": [
+      "Cool season fruits",
+      "Hot soups and warming dishes"
+    ],
+    "insider_tips": [
+      "Book accommodations early during peak season",
+      "Rainy season (July-October) has fewer crowds and lower prices",
+      "Hot season (March-June) is perfect for indoor activities and temples"
+    ]
+  },
+  "budget_reality": {
+    "budget": "$25-40 per day",
+    "mid_range": "$40-80 per day",
+    "luxury": "$80+ per day",
+    "examples": [
+      "Street food meal: 30-60 baht",
+      "Local restaurant: 80-150 baht",
+      "Tuk-tuk ride: 100-200 baht",
+      "Temple entrance: 20-100 baht"
+    ],
+    "money_saving_tricks": [
+      "Eat where locals eat - much cheaper and often better",
+      "Use public transport instead of taxis",
+      "Buy fruit from markets instead of tourist areas",
+      "Stay in local guesthouses rather than international hotels"
+    ],
+    "hidden_costs": [
+      "Tourist temples often charge entrance fees",
+      "Tuk-tuks will overcharge tourists",
+      "Airport food is 3x more expensive",
+      "Tourist markets have inflated prices"
+    ]
+  },
   "top_attractions": [
     {
+      "rank": 1,
       "name": "Doi Suthep",
-      "description": "An iconic mountain temple offering stunning views over the city and a glimpse into the spiritual heart of Buddhism."
+      "description": "Experience Doi Suthep in Chiang Mai, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     },
     {
+      "rank": 2,
       "name": "Old City",
-      "description": "A charming area filled with ancient temples, colonial architecture, and quaint cafés, perfect for leisurely exploration."
+      "description": "Experience Old City in Chiang Mai, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     },
     {
+      "rank": 3,
       "name": "Sunday Night Market",
-      "description": "A vibrant market where you can find unique handicrafts, local food, and live performances, providing an authentic cultural experience."
+      "description": "Experience Sunday Night Market in Chiang Mai, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     },
     {
+      "rank": 4,
       "name": "Elephant Sanctuary",
-      "description": "A sanctuary dedicated to the rescue and rehabilitation of elephants, offering visitors a chance to learn about and interact with these gentle giants in an ethical manner."
-    },
-    {
-      "name": "Wat Chedi Luang",
-      "description": "A historic temple featuring a massive chedi, which was once the tallest structure in ancient Chiang Mai, reflecting the city's rich history."
-    },
-    {
-      "name": "Chiang Mai Night Bazaar",
-      "description": "An expansive market featuring a variety of goods from handicrafts to clothing, along with delicious street food options."
-    },
-    {
-      "name": "Wat Phra Singh",
-      "description": "A beautiful temple known for its impressive Lanna architecture and the revered Phra Singh Buddha statue."
-    },
-    {
-      "name": "Bua Thong Sticky Waterfalls",
-      "description": "Unique waterfalls where visitors can climb the limestone rocks and enjoy a refreshing dip in the crystal-clear waters."
+      "description": "Experience Elephant Sanctuary in Chiang Mai, one of the top attractions in this beautiful Thai destination.",
+      "location": "City Center",
+      "highlights": [
+        "Must-see attraction",
+        "Great for photos"
+      ]
     }
   ],
   "top_restaurants": [
     {
-      "name": "Khao Soi Khun Yai",
-      "cuisine": "Northern Thai",
-      "description": "Famous for its Khao Soi, a curry noodle soup, this small eatery offers an authentic taste of Northern Thailand."
+      "rank": 1,
+      "name": "Best Local Thai Restaurant in Chiang Mai",
+      "description": "Authentic Thai cuisine and local specialties at this popular local thai restaurant in Chiang Mai.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Dash! Teak House",
-      "cuisine": "Thai",
-      "description": "Set in a beautiful teak house, this restaurant serves traditional Thai dishes with a modern twist in a serene garden setting."
+      "rank": 2,
+      "name": "Best Street Food Stall in Chiang Mai",
+      "description": "Authentic Thai cuisine and local specialties at this popular street food stall in Chiang Mai.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "The Riverside",
-      "cuisine": "International",
-      "description": "Overlooking the river, this restaurant offers a diverse menu, including Thai and international dishes, and features live music in the evenings."
+      "rank": 3,
+      "name": "Best Traditional Eatery in Chiang Mai",
+      "description": "Authentic Thai cuisine and local specialties at this popular traditional eatery in Chiang Mai.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "SP Chicken",
-      "cuisine": "Thai",
-      "description": "Known for its grilled chicken and flavorful sauces, this casual spot is a favorite among locals and visitors alike."
+      "rank": 4,
+      "name": "Best Rooftop Restaurant in Chiang Mai",
+      "description": "Authentic Thai cuisine and local specialties at this popular rooftop restaurant in Chiang Mai.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Huen Phen",
-      "cuisine": "Northern Thai",
-      "description": "A popular restaurant specializing in traditional Northern Thai cuisine, offering a cozy atmosphere and generous portions."
-    },
-    {
-      "name": "Tamarind Village Restaurant",
-      "cuisine": "Thai",
-      "description": "Nestled in a boutique hotel, this restaurant serves authentic Thai dishes made from fresh, local ingredients in a tranquil setting."
+      "rank": 5,
+      "name": "Best Market Food Court in Chiang Mai",
+      "description": "Authentic Thai cuisine and local specialties at this popular market food court in Chiang Mai.",
+      "cuisine_type": "Thai",
+      "price_range": "$10-30",
+      "highlights": [
+        "Authentic cuisine",
+        "Local favorite"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "Anantara Chiang Mai Resort",
-      "price_range": "$$$$",
-      "description": "A luxury riverside resort offering elegant accommodations, a spa, and fine dining options amidst lush gardens."
+      "rank": 1,
+      "name": "Boutique Hotel Chiang Mai",
+      "description": "Comfortable accommodation at this well-located boutique hotel in Chiang Mai.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "Rimping Village",
-      "price_range": "$$",
-      "description": "A boutique hotel with traditional Lanna-style architecture, located near the Old City, providing comfortable rooms and a welcoming atmosphere."
+      "rank": 2,
+      "name": "Resort Chiang Mai",
+      "description": "Comfortable accommodation at this well-located resort in Chiang Mai.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "U Nimman Chiang Mai",
-      "price_range": "$$$",
-      "description": "A modern hotel in the trendy Nimmanhaemin area, featuring contemporary rooms, a rooftop pool, and easy access to local attractions."
+      "rank": 3,
+      "name": "Budget Hotel Chiang Mai",
+      "description": "Comfortable accommodation at this well-located budget hotel in Chiang Mai.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "Yaang Come Village",
-      "price_range": "$$",
-      "description": "This charming hotel combines traditional Thai decor with modern amenities, set in a peaceful environment close to the Night Bazaar."
+      "rank": 4,
+      "name": "Luxury Hotel Chiang Mai",
+      "description": "Comfortable accommodation at this well-located luxury hotel in Chiang Mai.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "Baan Orapin",
-      "price_range": "$$",
-      "description": "A quaint guesthouse set in a lush garden, offering personalized service and well-appointed rooms in a serene location."
-    },
-    {
-      "name": "The Empress Hotel",
-      "price_range": "$$",
-      "description": "A well-established hotel with spacious rooms, a large swimming pool, and convenient access to shopping and dining areas."
+      "rank": 5,
+      "name": "Guesthouse Chiang Mai",
+      "description": "Comfortable accommodation at this well-located guesthouse in Chiang Mai.",
+      "price_range": "$30-150",
+      "highlights": [
+        "Good location",
+        "Comfortable rooms"
+      ]
     }
   ],
   "travel_tips": [
-    "Dress modestly when visiting temples; shoulders and knees should be covered.",
-    "Bargain at markets, but do so respectfully; it's part of the culture.",
-    "Try local dishes and street food for an authentic culinary experience.",
-    "Use public transportation or rent a bicycle to explore the city efficiently.",
-    "Stay hydrated and protect yourself from the sun, especially during the hot season."
+    "Best time to visit Chiang Mai is during the cool season (November-February)",
+    "Learn basic Thai phrases for better local interactions",
+    "Always carry cash as many places don't accept cards",
+    "Respect local customs and dress modestly at temples",
+    "Try local street food but choose busy stalls for freshness"
   ],
   "best_time_to_visit": {
-    "season": "November to February",
-    "weather": "Cool and dry",
-    "reasons": "The weather is pleasant for outdoor activities and festivals, such as Yi Peng and Loy Krathong."
+    "season": "Cool Season",
+    "months": "November - February",
+    "weather": "Pleasant temperatures and less rainfall",
+    "reasons": "Ideal weather conditions for sightseeing and outdoor activities"
   },
   "budget_info": {
-    "daily_budget": {
-      "budget": "$30-50",
-      "mid": "$50-150",
-      "luxury": "$150+"
-    }
+    "budget": "$30-50 per day",
+    "mid_range": "$50-100 per day",
+    "luxury": "$100+ per day",
+    "notes": "Budget includes accommodation, food, transportation, and activities"
   },
-  "enhanced_at": "2025-05-25T19:44:05.224Z",
+  "enhanced_at": "2025-05-26T18:26:26.906Z",
   "ai_generated": true
 }
