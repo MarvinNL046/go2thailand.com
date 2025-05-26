@@ -89,6 +89,45 @@ interface City {
       luxury: string;
     };
   };
+  // New engaging content types
+  hidden_gems?: Array<{
+    name: string;
+    story: string;
+    how_to_find?: string;
+    best_time?: string;
+    local_insights?: string[];
+  }>;
+  authentic_experiences?: Array<{
+    name: string;
+    story: string;
+    cultural_significance?: string;
+    how_to_participate?: string;
+    insights?: string[];
+  }>;
+  foodie_adventures?: Array<{
+    name: string;
+    story: string;
+    dish?: string;
+    where_to_find?: string;
+    price_range?: string;
+    ordering_tips?: string[];
+  }>;
+  local_insights?: string[];
+  seasonal_secrets?: {
+    best_season?: string;
+    why?: string;
+    local_festivals?: string[];
+    seasonal_foods?: string[];
+    insider_tips?: string[];
+  };
+  budget_reality?: {
+    budget?: string;
+    mid_range?: string;
+    luxury?: string;
+    examples?: string[];
+    money_saving_tricks?: string[];
+    hidden_costs?: string[];
+  };
   ai_generated?: boolean;
 }
 
@@ -197,6 +236,116 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                   </div>
                 </div>
 
+                {/* Hidden Gems */}
+                {city.hidden_gems && city.hidden_gems.length > 0 && (
+                  <div className="mb-12">
+                    <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                      🏰 Hidden Gems
+                    </h2>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                      {city.hidden_gems.map((gem, index) => (
+                        <div key={index} className="bg-gradient-to-br from-purple-50 to-pink-50 border border-purple-200 rounded-xl p-6 hover:shadow-lg transition-shadow">
+                          <div className="flex items-start mb-4">
+                            <div className="flex-shrink-0 w-10 h-10 bg-purple-500 rounded-full flex items-center justify-center mr-4">
+                              <svg className="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20">
+                                <path fillRule="evenodd" d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z" clipRule="evenodd" />
+                              </svg>
+                            </div>
+                            <div className="flex-1">
+                              <h3 className="text-xl font-bold text-gray-900 mb-2">{gem.name}</h3>
+                            </div>
+                          </div>
+                          
+                          <div className="space-y-4">
+                            <p className="text-gray-700 italic leading-relaxed">"{gem.story}"</p>
+                            
+                            {gem.how_to_find && (
+                              <div className="bg-white bg-opacity-60 rounded-lg p-3">
+                                <p className="text-sm text-gray-600">
+                                  <span className="font-medium">How to find:</span> {gem.how_to_find}
+                                </p>
+                              </div>
+                            )}
+                            
+                            {gem.best_time && (
+                              <div className="bg-white bg-opacity-60 rounded-lg p-3">
+                                <p className="text-sm text-gray-600">
+                                  <span className="font-medium">Best time:</span> {gem.best_time}
+                                </p>
+                              </div>
+                            )}
+                            
+                            {gem.local_insights && gem.local_insights.length > 0 && (
+                              <div className="flex flex-wrap gap-2">
+                                {gem.local_insights.map((insight, i) => (
+                                  <span key={i} className="bg-purple-100 text-purple-800 px-2 py-1 rounded text-xs font-medium">
+                                    {insight}
+                                  </span>
+                                ))}
+                              </div>
+                            )}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {/* Authentic Experiences */}
+                {city.authentic_experiences && city.authentic_experiences.length > 0 && (
+                  <div className="mb-12">
+                    <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                      🎭 Authentic Experiences
+                    </h2>
+                    <div className="space-y-6">
+                      {city.authentic_experiences.map((experience, index) => (
+                        <div key={index} className="bg-gradient-to-r from-orange-50 to-red-50 border border-orange-200 rounded-xl p-6 hover:shadow-lg transition-shadow">
+                          <div className="flex items-start mb-4">
+                            <div className="flex-shrink-0 w-12 h-12 bg-orange-500 rounded-full flex items-center justify-center mr-4">
+                              <svg className="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
+                                <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                              </svg>
+                            </div>
+                            <div className="flex-1">
+                              <h3 className="text-2xl font-bold text-gray-900 mb-3">{experience.name}</h3>
+                              <p className="text-gray-700 text-lg leading-relaxed mb-4">"{experience.story}"</p>
+                              
+                              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                {experience.cultural_significance && (
+                                  <div className="bg-white bg-opacity-70 rounded-lg p-4">
+                                    <h4 className="font-semibold text-gray-900 mb-2">Cultural Significance</h4>
+                                    <p className="text-sm text-gray-600">{experience.cultural_significance}</p>
+                                  </div>
+                                )}
+                                
+                                {experience.how_to_participate && (
+                                  <div className="bg-white bg-opacity-70 rounded-lg p-4">
+                                    <h4 className="font-semibold text-gray-900 mb-2">How to Participate</h4>
+                                    <p className="text-sm text-gray-600">{experience.how_to_participate}</p>
+                                  </div>
+                                )}
+                              </div>
+                              
+                              {experience.insights && experience.insights.length > 0 && (
+                                <div className="mt-4">
+                                  <h4 className="font-semibold text-gray-900 mb-2">Insider Tips</h4>
+                                  <div className="flex flex-wrap gap-2">
+                                    {experience.insights.map((insight, i) => (
+                                      <span key={i} className="bg-orange-100 text-orange-800 px-3 py-1 rounded-full text-sm font-medium">
+                                        {insight}
+                                      </span>
+                                    ))}
+                                  </div>
+                                </div>
+                              )}
+                            </div>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
                 {/* Top Attractions */}
                 {city.top_attractions && city.top_attractions.length > 0 && (
                   <div className="mb-12">
@@ -225,6 +374,71 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                 <div className="mb-12">
                   <EzoicAd {...AD_PLACEMENTS.IN_CONTENT} />
                 </div>
+
+                {/* Foodie Adventures */}
+                {city.foodie_adventures && city.foodie_adventures.length > 0 && (
+                  <div className="mb-12">
+                    <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                      🍜 Foodie Adventures
+                    </h2>
+                    <div className="space-y-8">
+                      {city.foodie_adventures.map((food, index) => (
+                        <div key={index} className="bg-gradient-to-r from-yellow-50 to-orange-50 border border-yellow-200 rounded-xl p-6 hover:shadow-lg transition-shadow">
+                          <div className="flex items-start">
+                            <div className="flex-shrink-0 w-12 h-12 bg-yellow-500 rounded-full flex items-center justify-center mr-4">
+                              <svg className="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
+                                <path fillRule="evenodd" d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />
+                              </svg>
+                            </div>
+                            <div className="flex-1">
+                              <div className="flex items-center justify-between mb-3">
+                                <h3 className="text-2xl font-bold text-gray-900">{food.name}</h3>
+                                {food.price_range && (
+                                  <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
+                                    {food.price_range}
+                                  </span>
+                                )}
+                              </div>
+                              
+                              <p className="text-gray-700 text-lg leading-relaxed mb-4 italic">"{food.story}"</p>
+                              
+                              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+                                {food.dish && (
+                                  <div className="bg-white bg-opacity-70 rounded-lg p-3">
+                                    <p className="text-sm text-gray-600">
+                                      <span className="font-medium">Dish:</span> {food.dish}
+                                    </p>
+                                  </div>
+                                )}
+                                
+                                {food.where_to_find && (
+                                  <div className="bg-white bg-opacity-70 rounded-lg p-3">
+                                    <p className="text-sm text-gray-600">
+                                      <span className="font-medium">Where to find:</span> {food.where_to_find}
+                                    </p>
+                                  </div>
+                                )}
+                              </div>
+                              
+                              {food.ordering_tips && food.ordering_tips.length > 0 && (
+                                <div>
+                                  <h4 className="font-semibold text-gray-900 mb-2">Ordering Tips</h4>
+                                  <div className="flex flex-wrap gap-2">
+                                    {food.ordering_tips.map((tip, i) => (
+                                      <span key={i} className="bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm">
+                                        {tip}
+                                      </span>
+                                    ))}
+                                  </div>
+                                </div>
+                              )}
+                            </div>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
 
                 {/* Top Restaurants */}
                 {city.top_restaurants && city.top_restaurants.length > 0 && (
@@ -274,6 +488,39 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                           </div>
                         </div>
                       ))}
+                    </div>
+                  </div>
+                )}
+
+                {/* Local Insights */}
+                {city.local_insights && city.local_insights.length > 0 && (
+                  <div className="mb-12">
+                    <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                      🤝 Local Insights
+                    </h2>
+                    <div className="bg-gradient-to-r from-teal-50 to-cyan-50 border border-teal-200 rounded-xl p-6">
+                      <div className="flex items-center mb-4">
+                        <div className="w-8 h-8 bg-teal-500 rounded-full flex items-center justify-center mr-3">
+                          <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
+                            <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-6-3a2 2 0 11-4 0 2 2 0 014 0zm-2 4a5 5 0 00-4.546 2.916A5.986 5.986 0 0010 16a5.986 5.986 0 004.546-2.084A5 5 0 0010 11z" clipRule="evenodd" />
+                          </svg>
+                        </div>
+                        <h3 className="text-lg font-semibold text-gray-900">What Locals Want You to Know</h3>
+                      </div>
+                      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        {city.local_insights.map((insight, index) => (
+                          <div key={index} className="bg-white bg-opacity-70 rounded-lg p-4 border border-teal-100">
+                            <div className="flex items-start">
+                              <div className="flex-shrink-0 w-6 h-6 bg-teal-400 rounded-full flex items-center justify-center mr-3 mt-0.5">
+                                <svg className="w-3 h-3 text-white" fill="currentColor" viewBox="0 0 20 20">
+                                  <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                                </svg>
+                              </div>
+                              <p className="text-gray-700 text-sm leading-relaxed">{insight}</p>
+                            </div>
+                          </div>
+                        ))}
+                      </div>
                     </div>
                   </div>
                 )}
