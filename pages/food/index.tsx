@@ -1,6 +1,7 @@
 import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
+import Image from 'next/image';
 import { getAllDishes } from '../../lib/food';
 
 interface Dish {
@@ -112,24 +113,33 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
               {dishes.map((dish) => (
                 <Link key={dish.id} href={`/food/${dish.slug}`} className="group">
                   <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
-                    <div className="w-full h-48 bg-gradient-to-br from-thailand-blue to-thailand-gold flex items-center justify-center">
-                      <div className="text-white text-center">
-                        <div className="text-4xl mb-2">🍽️</div>
-                        <div className="text-lg font-semibold">{dish.name.en}</div>
-                        <div className="text-sm opacity-90">{dish.name.thai}</div>
+                    <div className="relative w-full h-48 overflow-hidden">
+                      <Image
+                        src={dish.image}
+                        alt={dish.name.en}
+                        fill
+                        className="object-cover group-hover:scale-105 transition-transform duration-300"
+                      />
+                      <div className="absolute inset-0 bg-black bg-opacity-20 group-hover:bg-opacity-10 transition-opacity duration-300"></div>
+                      <div className="absolute top-3 left-3">
+                        <span className={`px-2 py-1 rounded-full text-xs font-medium ${getSpiceLevelColor(dish.spice_level)}`}>
+                          🌶️ {dish.spice_level === 'none' ? 'Not Spicy' : dish.spice_level}
+                        </span>
+                      </div>
+                      <div className="absolute top-3 right-3">
+                        <span className="bg-white bg-opacity-90 text-thailand-blue px-2 py-1 rounded-full text-xs font-medium">
+                          {dish.preparation_time}
+                        </span>
                       </div>
                     </div>
                     <div className="p-6">
-                      <div className="flex items-center justify-between mb-3">
+                      <div className="flex items-center mb-3">
                         <div className="flex items-center text-thailand-blue">
                           {getCategoryIcon(dish.category)}
                           <span className="ml-2 text-sm font-medium capitalize">
                             {dish.category.replace('-', ' ')}
                           </span>
                         </div>
-                        <span className={`px-2 py-1 rounded-full text-xs font-medium ${getSpiceLevelColor(dish.spice_level)}`}>
-                          {dish.spice_level === 'none' ? 'Not Spicy' : dish.spice_level}
-                        </span>
                       </div>
                       
                       <h3 className="text-xl font-bold text-gray-900 mb-2 group-hover:text-thailand-blue transition-colors">
