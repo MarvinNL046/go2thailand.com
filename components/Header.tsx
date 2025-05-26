@@ -14,12 +14,12 @@ const Header = () => {
           <div className="flex items-center">
             <Link href="/" className="flex items-center group">
               <div className="relative">
-                <div className="h-12 w-auto relative transform transition-transform group-hover:scale-110">
+                <div className="h-9 w-9 relative transform transition-transform group-hover:scale-110">
                   <Image
                     src="/images/go2thailand-logo.png"
                     alt="Go2Thailand - Your Ultimate Thailand Travel Guide"
-                    height={48}
-                    width={200}
+                    height={36}
+                    width={36}
                     className="object-contain"
                     priority
                   />
