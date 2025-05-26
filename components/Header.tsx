@@ -12,24 +12,17 @@ const Header = () => {
         <div className="flex justify-between items-center h-18">
           {/* Logo Section */}
           <div className="flex items-center">
-            <Link href="/" className="flex items-center space-x-3 group">
+            <Link href="/" className="flex items-center group">
               <div className="relative">
-                <div className="w-12 h-12 relative transform transition-transform group-hover:scale-110">
+                <div className="h-12 w-auto relative transform transition-transform group-hover:scale-110">
                   <Image
                     src="/images/go2thailand-logo.png"
-                    alt="Go2Thailand Logo"
-                    fill
+                    alt="Go2Thailand - Your Ultimate Thailand Travel Guide"
+                    height={48}
+                    width={200}
                     className="object-contain"
                     priority
                   />
-                </div>
-              </div>
-              <div className="flex flex-col">
-                <div className="text-2xl font-bold bg-gradient-to-r from-thailand-blue to-thailand-red bg-clip-text text-transparent">
-                  Go2Thailand
-                </div>
-                <div className="text-xs text-thailand-blue-400 hidden sm:block">
-                  Your Ultimate Thailand Travel Guide
                 </div>
               </div>
             </Link>
