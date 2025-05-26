@@ -55,221 +55,431 @@
     "tourism",
     "guide"
   ],
-  "enhanced_description": "Famous for stunning limestone cliffs, beaches, and island hopping (Railay, Ao Nang, Koh Phi Phi).",
+  "enhanced_description": "Picture this: It's 6 AM and the city awakens slowly, a gentle symphony of roosters crowing, the distant hum of fishing boats preparing for the day, and the faint aroma of street food beginning to sizzle. The sun peeks over the jagged limestone cliffs, casting a golden hue over the emerald waters of Ao Nang Bay. I still remember my first morning in Krabi, the way the salty breeze brushed against my skin as I strolled along the beach, coffee in hand from a local vendor. There’s something about Krabi that feels both exhilarating and serene, a reminder that nature and culture coexist beautifully. \n\nUnlike the hustle of Bangkok or the party scene of Phuket, Krabi offers a more laid-back charm, perfect for those looking to escape the tourist traps. The locals, with their warm smiles and welcoming gestures, have a way of making you feel at home. I often found myself sitting at a beachside café, exchanging stories with fishermen who shared tales of the sea while I savored a bowl of tom yum. \n\nOne of the most breathtaking experiences was my first visit to Railay Beach. I had hiked through the jungle, the air thick with humidity and the sweet scent of frangipani flowers. As I emerged from the trees, the sight of the towering cliffs framing the beach took my breath away. I spent hours there, swimming in the turquoise waters and soaking up the sun, feeling a profound sense of peace. Railay is not just a beach; it’s a slice of paradise where time slows down, and the worries of the world fade away. \n\nAnd then there’s the Emerald Pool, hidden deep within the jungle. I remember the thrill of discovering this natural hot spring, the water a vibrant shade of blue. I arrived early in the morning, a time when the sunlight creates a magical glow, illuminating the surrounding foliage. I floated in the warm water, surrounded by the sounds of nature—the rustle of leaves, the chirping of birds—and felt utterly blissful.\n\nKrabi is special because it invites you to connect with nature and the local way of life in ways that other destinations often overlook. It’s where you can share a meal with a family in a small roadside eatery, discovering dishes crafted from generations of tradition. There’s a sense of authenticity here that resonates deeply with every visitor. Whether it’s the spiritual climb to the Tiger Cave Temple, where a view of the lush landscape awaits at the top, or the simple joy of a sunset picnic on the beach, Krabi offers experiences that linger long after you’ve left. \n\nAs the sun sets, painting the sky in shades of orange and purple, I often made my way to the night market in Krabi Town. The sounds of laughter and sizzling woks filled the air, and the vibrant stalls were brimming with local delicacies. I would wander from stall to stall, sampling everything from spicy papaya salad to sweet mango sticky rice. Each bite told a story, a testament to the rich culinary heritage of this region. \n\nIn Krabi, every corner holds a memory, every face a story. It’s not just a place to visit, but a place to truly experience life, to breathe in the beauty around you, and to leave a piece of your heart behind.",
   "hidden_gems": [
     {
-      "name": "Local Market Near Railay Beach",
-      "story": "There's a small local market that most tourists miss, tucked away near Railay Beach. Locals do their daily shopping here.",
-      "how_to_find": "Ask any local for the 'talad sod' (fresh market)",
-      "best_time": "Early morning (6-9 AM) for the freshest items",
-      "local_insights": [
-        "Bring small bills",
-        "Try the local coffee"
-      ]
+      "name": "Koh Hong",
+      "description": "A lesser-known island that boasts stunning lagoons and secluded beaches. I stumbled upon Koh Hong during a boat tour, where we were the only group there. The tranquility of the place was captivating, and I spent hours exploring the hidden lagoons. The best time to visit is early morning to avoid any crowds.",
+      "how_to_find": "Take a long-tail boat from Ao Nang or a tour that includes this destination. The locals usually know the best times to go.",
+      "personal_experience": "I chatted with a local fisherman who showed me how to spot the unique bird species that inhabit the lagoons."
     },
     {
-      "name": "Sunset Viewpoint",
-      "story": "I discovered this quiet spot perfect for watching the sunset over Krabi. No crowds, just peaceful views.",
-      "how_to_find": "Usually located on higher ground or by water",
-      "best_time": "30 minutes before sunset",
-      "local_insights": [
-        "Bring water",
-        "Best for photos"
-      ]
+      "name": "Klong Thom Hot Springs",
+      "description": "These natural hot springs are tucked away in the jungle, offering a unique, rejuvenating experience. I visited on a weekday and was pleasantly surprised by the tranquility. The warm water felt heavenly against my skin after a day of hiking.",
+      "how_to_find": "Located near the Emerald Pool, you can easily combine both visits. A scooter ride through the lush greenery is recommended.",
+      "personal_experience": "I met a group of local teenagers who shared their favorite swimming spots in the area, making the experience feel more personal."
+    },
+    {
+      "name": "Ao Thalane",
+      "description": "Famous for its mangroves and kayaking, Ao Thalane is a hidden gem for those looking to explore nature. I rented a kayak and spent the day paddling through the serene waters, surrounded by towering cliffs and vibrant wildlife.",
+      "how_to_find": "Hire a kayak from one of the local vendors. The best time to go is during high tide for the most scenic views.",
+      "personal_experience": "I encountered a friendly local guide who taught me about the ecosystem and the importance of preserving it."
+    },
+    {
+      "name": "Wat Tham Sua (Tiger Cave Temple)",
+      "description": "While this temple is known, few venture beyond the initial climb. The view from the top is unparalleled, but I found beauty in the lower caves where monks meditate. The atmosphere was peaceful and spiritual.",
+      "how_to_find": "Located about 20 minutes from Krabi Town, it involves a climb, but the journey is worth it. Visit during early morning or late afternoon to avoid the heat.",
+      "personal_experience": "I met a monk who shared his story of devotion and tranquility, making my visit truly memorable."
+    },
+    {
+      "name": "Koh Poda",
+      "description": "A small island just off Railay, celebrated for its white sandy beaches and crystal-clear waters. I visited after a rainstorm, and the colors were surreal. It felt like having a private beach.",
+      "how_to_find": "Take a long-tail boat from Ao Nang. The best time to visit is just after the rainy season when the island is less crowded.",
+      "personal_experience": "I struck up a conversation with a local tour operator who shared the island's history and its ecological significance."
     }
   ],
   "authentic_experiences": [
     {
-      "name": "Join a Local Temple Morning Routine",
-      "story": "Wake up early and join the locals giving alms to monks. It's a peaceful way to start the day and connect with Thai Buddhist culture.",
-      "cultural_significance": "Merit-making is central to Thai Buddhist practice",
-      "how_to_participate": "Arrive at 6 AM, buy food offerings from local vendors",
-      "insights": [
-        "Dress modestly",
-        "Follow local etiquette",
-        "Silent participation"
-      ]
+      "activity": "Join a Muay Thai class",
+      "description": "I was nervous at first, but joining a local Muay Thai class became one of my favorite experiences. It’s not just a workout; it’s a glimpse into Thai culture. The camaraderie among the students, both locals and expats, made me feel welcome.",
+      "cultural_insight": "Muay Thai is deeply intertwined with Thai identity, and learning it offers insights into the discipline and respect that define Thai culture."
     },
     {
-      "name": "Learn to Cook at a Local Home",
-      "story": "Skip the tourist cooking classes and learn from a Thai family. The dishes taste completely different when made with generations of knowledge.",
-      "cultural_significance": "Food is family heritage in Thailand",
-      "how_to_participate": "Ask guesthouse owners for family connections",
-      "insights": [
-        "Bring small gifts",
-        "Expect spicy food",
-        "Learn family recipes"
-      ]
+      "activity": "Attend a traditional Thai cooking class",
+      "description": "I took a cooking class with a local chef who shared family recipes passed down through generations. Preparing dishes like green curry and pad thai while learning the nuances of Thai flavors was unforgettable.",
+      "cultural_insight": "Food in Thailand is about balance—spicy, sweet, salty, and sour. Understanding this helped me appreciate the cuisine on a deeper level."
+    },
+    {
+      "activity": "Participate in a local festival",
+      "description": "I was fortunate to experience the Loi Krathong festival in Krabi, where locals made beautiful floating lanterns. The joy and togetherness during this celebration were palpable.",
+      "cultural_insight": "Festivals like Loi Krathong highlight the Thai respect for nature and the importance of community."
+    },
+    {
+      "activity": "Volunteer at an animal rescue center",
+      "description": "I spent time volunteering with rescued elephants, which was one of the most rewarding experiences. Learning about their stories and helping care for them gave me a unique perspective on conservation efforts.",
+      "cultural_insight": "Thai culture places a strong emphasis on caring for animals, and participating in these efforts connects you with the local community."
+    },
+    {
+      "activity": "Explore the local markets",
+      "description": "Wandering through local markets became a weekly ritual. I loved interacting with vendors, learning about their products, and discovering unique handmade crafts.",
+      "cultural_insight": "Markets are not just for shopping; they are social hubs where you can connect with locals and learn about their daily lives."
+    },
+    {
+      "activity": "Visit a local school",
+      "description": "I had the opportunity to visit a local school where I engaged with students. Their enthusiasm for learning was infectious, and it was enlightening to see their perspective on education.",
+      "cultural_insight": "Education in Thailand is highly valued, and visiting a school gave me insight into the aspirations of the younger generation."
     }
   ],
   "foodie_adventures": [
     {
-      "name": "Street-side Pad Thai",
-      "story": "The best pad thai I've ever had came from a cart that only operates after 6 PM. The vendor has been perfecting her recipe for 20 years.",
       "dish": "Pad Thai",
-      "where_to_find": "Evening street food carts",
-      "price_range": "30-50 baht",
-      "ordering_tips": [
-        "Ask for 'mai pet' if you don't want spicy",
-        "Watch them cook it fresh"
-      ]
+      "location": "Thung Teao Restaurant in Ao Nang",
+      "story": "The first bite of Pad Thai at this small restaurant was heavenly. The balance of flavors and the crunch of peanuts made it unforgettable.",
+      "cultural_significance": "Pad Thai is considered a national dish and reflects Thailand’s culinary heritage.",
+      "price": "60 baht",
+      "ordering_tips": "Ask for it spicy to experience the full flavor!"
     },
     {
-      "name": "Morning Market Som Tam",
-      "story": "The papaya salad at the local morning market is incredibly fresh - they pound it right in front of you with ingredients picked that morning.",
-      "dish": "Som Tam (Papaya Salad)",
-      "where_to_find": "Fresh markets, usually morning hours",
-      "price_range": "25-40 baht",
-      "ordering_tips": [
-        "Point to ingredients you want",
-        "Specify spice level"
-      ]
+      "dish": "Som Tum (Papaya Salad)",
+      "location": "Street vendors in Krabi Town",
+      "story": "I watched as the vendor expertly pounded the ingredients together. The freshness of the papaya, combined with the tangy dressing, was a burst of flavor.",
+      "cultural_significance": "This dish is a staple in Thai cuisine, showcasing the importance of fresh ingredients.",
+      "price": "40 baht",
+      "ordering_tips": "Specify the level of spiciness—Thai spicy is no joke!"
+    },
+    {
+      "dish": "Khao Soi",
+      "location": "Auntie’s Kitchen in Krabi Town",
+      "story": "This northern Thai dish was a delightful surprise. The creamy coconut curry and crispy noodles were comforting.",
+      "cultural_significance": "Khao Soi reflects the blend of cultures in Northern Thailand.",
+      "price": "80 baht",
+      "ordering_tips": "Don’t forget to squeeze the lime for an extra zing!"
+    },
+    {
+      "dish": "Mango Sticky Rice",
+      "location": "Night market in Krabi Town",
+      "story": "I savored this dessert while watching the sunset. The sweet mango paired with sticky rice and coconut sauce was a heavenly combination.",
+      "cultural_significance": "This dish is a traditional Thai dessert, often enjoyed during festivals.",
+      "price": "50 baht",
+      "ordering_tips": "Look for freshly made options for the best taste!"
+    },
+    {
+      "dish": "Tom Yum Goong",
+      "location": "Local seafood restaurant in Ao Nang",
+      "story": "The aroma of lemongrass and shrimp filled the air as I took my first sip. The flavors were vibrant and unforgettable.",
+      "cultural_significance": "A famous Thai soup that showcases the country’s love for bold flavors.",
+      "price": "120 baht",
+      "ordering_tips": "Ask for extra chilies if you can handle the heat!"
+    },
+    {
+      "dish": "Grilled Seafood",
+      "location": "Ao Nang Beach stalls",
+      "story": "The sight of fresh seafood sizzling on the grill was irresistible. I tried prawns and squid, seasoned to perfection.",
+      "cultural_significance": "Seafood is a staple in coastal regions of Thailand, reflecting the local fishing culture.",
+      "price": "200-300 baht",
+      "ordering_tips": "Negotiate prices with the vendors for a better deal!"
+    },
+    {
+      "dish": "Roti",
+      "location": "Street stalls near the beach",
+      "story": "I enjoyed a sweet roti filled with banana and drizzled with condensed milk. It was a perfect late-night snack after a long day.",
+      "cultural_significance": "Roti reflects the influence of Indian cuisine in Thailand.",
+      "price": "30 baht",
+      "ordering_tips": "Try it with chocolate for a decadent treat!"
+    },
+    {
+      "dish": "Larb",
+      "location": "Local eateries in Krabi Town",
+      "story": "This spicy minced meat salad was a flavor explosion. The freshness of herbs and lime made it a standout dish.",
+      "cultural_significance": "Larb is a traditional dish from Northern Thailand, showcasing the regional diversity.",
+      "price": "70 baht",
+      "ordering_tips": "Order it with sticky rice for a complete meal."
     }
   ],
   "local_insights": [
-    "Locals eat dinner much earlier than in Western countries - around 6-7 PM",
-    "Pointing with your index finger is considered rude - use an open hand instead",
-    "Remove shoes before entering homes and some shops",
-    "The king is deeply revered - always show respect when his image or anthem appears",
-    "Tipping is not expected but small amounts are appreciated for good service",
-    "Learn the word 'krub' (for men) or 'ka' (for women) - it makes any sentence more polite"
+    {
+      "observation": "Community spirit",
+      "tip": "Krabi locals are incredibly friendly and helpful. Engaging with them often leads to wonderful conversations and insights about the area."
+    },
+    {
+      "observation": "Respect for nature",
+      "tip": "You’ll notice a strong emphasis on preserving the environment. Participate in beach clean-ups or nature conservation activities to connect with the community."
+    },
+    {
+      "observation": "Slow-paced lifestyle",
+      "tip": "Embrace the laid-back vibe. Don’t rush through your activities; take the time to enjoy your surroundings and engage with locals."
+    },
+    {
+      "observation": "Cultural diversity",
+      "tip": "Krabi is a melting pot of cultures. Take the time to learn a few phrases in Thai; locals appreciate the effort."
+    },
+    {
+      "observation": "Traditional values",
+      "tip": "Respect local customs and traditions, especially in religious sites. Dressing appropriately and being mindful of behavior goes a long way."
+    },
+    {
+      "observation": "Food as a social experience",
+      "tip": "Sharing meals is common. Join a table at local eateries to experience the communal aspect of dining."
+    },
+    {
+      "observation": "Family-oriented",
+      "tip": "Family plays a central role in Thai culture. Engage with local families whenever possible to gain deeper insights into their lives."
+    },
+    {
+      "observation": "Hospitality",
+      "tip": "Thais are known for their hospitality. If invited to a local home, it’s customary to bring a small gift, like fruit or snacks."
+    }
   ],
   "seasonal_secrets": {
-    "best_season": "Cool Season (November-February)",
-    "why": "Most comfortable weather for walking and outdoor activities",
+    "best_times": {
+      "high_season": {
+        "months": [
+          "November",
+          "December",
+          "January",
+          "February"
+        ],
+        "experiences": "Ideal for beach activities and clear waters.",
+        "insider_tips": "Book accommodations in advance as this is peak tourist season."
+      },
+      "shoulder_season": {
+        "months": [
+          "March",
+          "April",
+          "May"
+        ],
+        "experiences": "Great for hiking and exploring the national parks.",
+        "insider_tips": "You may find fewer crowds and better prices."
+      },
+      "low_season": {
+        "months": [
+          "June",
+          "July",
+          "August",
+          "September",
+          "October"
+        ],
+        "experiences": "Experience the lush green scenery and fewer tourists.",
+        "insider_tips": "Embrace the rain; it often comes in short bursts and can lead to stunning landscapes."
+      }
+    },
     "local_festivals": [
-      "Loy Krathong (November)",
-      "Chinese New Year (February)"
+      {
+        "festival": "Loi Krathong",
+        "date": "November",
+        "description": "A beautiful festival of lights, celebrated by floating krathongs on water. The atmosphere is magical."
+      },
+      {
+        "festival": "Songkran",
+        "date": "April",
+        "description": "The Thai New Year water festival, where everyone participates in friendly water fights."
+      }
     ],
     "seasonal_foods": [
-      "Cool season fruits",
-      "Hot soups and warming dishes"
+      {
+        "food": "Tropical fruits",
+        "season": "Year-round",
+        "description": "Mangoes, durians, and rambutan are a must-try, especially during the summer months."
+      },
+      {
+        "food": "Seafood",
+        "season": "October to March",
+        "description": "Best enjoyed during this time when it's fresh and plentiful."
+      }
     ],
-    "insider_tips": [
-      "Book accommodations early during peak season",
-      "Rainy season (July-October) has fewer crowds and lower prices",
-      "Hot season (March-June) is perfect for indoor activities and temples"
-    ]
+    "activities": {
+      "rainy_season": "Take part in cooking classes or visit local markets.",
+      "dry_season": "Perfect for island hopping and beach days."
+    }
   },
   "budget_reality": {
-    "budget": "$25-40 per day",
-    "mid_range": "$40-80 per day",
-    "luxury": "$80+ per day",
-    "examples": [
-      "Street food meal: 30-60 baht",
-      "Local restaurant: 80-150 baht",
-      "Tuk-tuk ride: 100-200 baht",
-      "Temple entrance: 20-100 baht"
-    ],
+    "daily_costs": {
+      "breakfast": {
+        "example": "Breakfast at local stall: 40 baht",
+        "description": "A delicious bowl of jok (rice porridge) with fried egg."
+      },
+      "lunch": {
+        "example": "Lunch at a local eatery: 60 baht",
+        "description": "Pad Thai with a refreshing iced tea."
+      },
+      "dinner": {
+        "example": "Dinner at a seafood restaurant: 200 baht",
+        "description": "Grilled fish with sticky rice and a side of som tum."
+      },
+      "transport": {
+        "example": "Songthaew ride: 20-30 baht",
+        "description": "Shared taxi that’s a great way to get around town."
+      },
+      "activities": {
+        "example": "Entry to national parks: 200 baht",
+        "description": "A small fee for exploring Krabi’s natural beauty."
+      }
+    },
     "money_saving_tricks": [
-      "Eat where locals eat - much cheaper and often better",
-      "Use public transport instead of taxis",
-      "Buy fruit from markets instead of tourist areas",
-      "Stay in local guesthouses rather than international hotels"
+      "Eat where the locals eat; street food is both delicious and affordable.",
+      "Use public transportation instead of taxis to save on costs.",
+      "Look for free activities like hiking or visiting temples."
     ],
+    "splurge_vs_save": {
+      "splurge": "Consider splurging on a day trip to the Phi Phi Islands for an unforgettable experience.",
+      "save": "Save on accommodations by staying in guesthouses or hostels."
+    },
     "hidden_costs": [
-      "Tourist temples often charge entrance fees",
-      "Tuk-tuks will overcharge tourists",
-      "Airport food is 3x more expensive",
-      "Tourist markets have inflated prices"
+      "Be cautious of tourist traps with overpriced food or tours.",
+      "Sometimes, national park fees are not included in tour packages."
     ]
   },
   "top_attractions": [
     {
       "rank": 1,
-      "name": "Railay Beach",
-      "description": "Experience Railay Beach in Krabi, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Koh Hong",
+      "description": "A lesser-known island that boasts stunning lagoons and secluded beaches. I stumbled upon Koh Hong during a boat tour, where we were the only group there. The tranquility of the place was captivating, and I spent hours exploring the hidden lagoons. The best time to visit is early morning to avoid any crowds.",
+      "location": "Take a long-tail boat from Ao Nang or a tour that includes this destination. The locals usually know the best times to go.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 2,
-      "name": "Ao Nang",
-      "description": "Experience Ao Nang in Krabi, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Klong Thom Hot Springs",
+      "description": "These natural hot springs are tucked away in the jungle, offering a unique, rejuvenating experience. I visited on a weekday and was pleasantly surprised by the tranquility. The warm water felt heavenly against my skin after a day of hiking.",
+      "location": "Located near the Emerald Pool, you can easily combine both visits. A scooter ride through the lush greenery is recommended.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 3,
-      "name": "Emerald Pool",
-      "description": "Experience Emerald Pool in Krabi, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Ao Thalane",
+      "description": "Famous for its mangroves and kayaking, Ao Thalane is a hidden gem for those looking to explore nature. I rented a kayak and spent the day paddling through the serene waters, surrounded by towering cliffs and vibrant wildlife.",
+      "location": "Hire a kayak from one of the local vendors. The best time to go is during high tide for the most scenic views.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 4,
-      "name": "Tiger Cave Temple",
-      "description": "Experience Tiger Cave Temple in Krabi, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Wat Tham Sua (Tiger Cave Temple)",
+      "description": "While this temple is known, few venture beyond the initial climb. The view from the top is unparalleled, but I found beauty in the lower caves where monks meditate. The atmosphere was peaceful and spiritual.",
+      "location": "Located about 20 minutes from Krabi Town, it involves a climb, but the journey is worth it. Visit during early morning or late afternoon to avoid the heat.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Koh Poda",
+      "description": "A small island just off Railay, celebrated for its white sandy beaches and crystal-clear waters. I visited after a rainstorm, and the colors were surreal. It felt like having a private beach.",
+      "location": "Take a long-tail boat from Ao Nang. The best time to visit is just after the rainy season when the island is less crowded.",
+      "highlights": [
+        "Hidden gem",
+        "Local favorite"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Join a Muay Thai class",
+      "description": "I was nervous at first, but joining a local Muay Thai class became one of my favorite experiences. It’s not just a workout; it’s a glimpse into Thai culture. The camaraderie among the students, both locals and expats, made me feel welcome.",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Attend a traditional Thai cooking class",
+      "description": "I took a cooking class with a local chef who shared family recipes passed down through generations. Preparing dishes like green curry and pad thai while learning the nuances of Thai flavors was unforgettable.",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Participate in a local festival",
+      "description": "I was fortunate to experience the Loi Krathong festival in Krabi, where locals made beautiful floating lanterns. The joy and togetherness during this celebration were palpable.",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
       ]
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Best Local Thai Restaurant in Krabi",
-      "description": "Authentic Thai cuisine and local specialties at this popular local thai restaurant in Krabi.",
+      "name": "Pad Thai",
+      "description": "The first bite of Pad Thai at this small restaurant was heavenly. The balance of flavors and the crunch of peanuts made it unforgettable.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Pad Thai is considered a national dish and reflects Thailand’s culinary heritage."
       ]
     },
     {
       "rank": 2,
-      "name": "Best Street Food Stall in Krabi",
-      "description": "Authentic Thai cuisine and local specialties at this popular street food stall in Krabi.",
+      "name": "Som Tum (Papaya Salad)",
+      "description": "I watched as the vendor expertly pounded the ingredients together. The freshness of the papaya, combined with the tangy dressing, was a burst of flavor.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "This dish is a staple in Thai cuisine, showcasing the importance of fresh ingredients."
       ]
     },
     {
       "rank": 3,
-      "name": "Best Traditional Eatery in Krabi",
-      "description": "Authentic Thai cuisine and local specialties at this popular traditional eatery in Krabi.",
+      "name": "Khao Soi",
+      "description": "This northern Thai dish was a delightful surprise. The creamy coconut curry and crispy noodles were comforting.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Khao Soi reflects the blend of cultures in Northern Thailand."
       ]
     },
     {
       "rank": 4,
-      "name": "Best Rooftop Restaurant in Krabi",
-      "description": "Authentic Thai cuisine and local specialties at this popular rooftop restaurant in Krabi.",
+      "name": "Mango Sticky Rice",
+      "description": "I savored this dessert while watching the sunset. The sweet mango paired with sticky rice and coconut sauce was a heavenly combination.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "This dish is a traditional Thai dessert, often enjoyed during festivals."
       ]
     },
     {
       "rank": 5,
-      "name": "Best Market Food Court in Krabi",
-      "description": "Authentic Thai cuisine and local specialties at this popular market food court in Krabi.",
+      "name": "Tom Yum Goong",
+      "description": "The aroma of lemongrass and shrimp filled the air as I took my first sip. The flavors were vibrant and unforgettable.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "A famous Thai soup that showcases the country’s love for bold flavors."
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Grilled Seafood",
+      "description": "The sight of fresh seafood sizzling on the grill was irresistible. I tried prawns and squid, seasoned to perfection.",
+      "cuisine_type": "Thai",
+      "price_range": "$5-20",
+      "highlights": [
+        "Seafood is a staple in coastal regions of Thailand, reflecting the local fishing culture."
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Roti",
+      "description": "I enjoyed a sweet roti filled with banana and drizzled with condensed milk. It was a perfect late-night snack after a long day.",
+      "cuisine_type": "Thai",
+      "price_range": "$5-20",
+      "highlights": [
+        "Roti reflects the influence of Indian cuisine in Thailand."
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Larb",
+      "description": "This spicy minced meat salad was a flavor explosion. The freshness of herbs and lime made it a standout dish.",
+      "cuisine_type": "Thai",
+      "price_range": "$5-20",
+      "highlights": [
+        "Larb is a traditional dish from Northern Thailand, showcasing the regional diversity."
       ]
     }
   ],
@@ -326,17 +536,18 @@
     }
   ],
   "travel_tips": [
-    "Best time to visit Krabi is during the cool season (November-February)",
-    "Learn basic Thai phrases for better local interactions",
-    "Always carry cash as many places don't accept cards",
-    "Respect local customs and dress modestly at temples",
-    "Try local street food but choose busy stalls for freshness"
+    "Krabi locals are incredibly friendly and helpful. Engaging with them often leads to wonderful conversations and insights about the area.",
+    "You’ll notice a strong emphasis on preserving the environment. Participate in beach clean-ups or nature conservation activities to connect with the community.",
+    "Embrace the laid-back vibe. Don’t rush through your activities; take the time to enjoy your surroundings and engage with locals.",
+    "Krabi is a melting pot of cultures. Take the time to learn a few phrases in Thai; locals appreciate the effort.",
+    "Respect local customs and traditions, especially in religious sites. Dressing appropriately and being mindful of behavior goes a long way.",
+    "Sharing meals is common. Join a table at local eateries to experience the communal aspect of dining."
   ],
   "best_time_to_visit": {
     "season": "Cool Season",
     "months": "November - February",
-    "weather": "Pleasant temperatures and less rainfall",
-    "reasons": "Ideal weather conditions for sightseeing and outdoor activities"
+    "weather": "Pleasant conditions",
+    "reasons": "Ideal weather for activities"
   },
   "budget_info": {
     "budget": "$30-50 per day",
@@ -344,6 +555,6 @@
     "luxury": "$100+ per day",
     "notes": "Budget includes accommodation, food, transportation, and activities"
   },
-  "enhanced_at": "2025-05-26T18:26:57.335Z",
+  "enhanced_at": "2025-05-26T18:46:41.696Z",
   "ai_generated": true
 }

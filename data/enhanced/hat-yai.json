@@ -55,221 +55,372 @@
     "tourism",
     "guide"
   ],
-  "enhanced_description": "Southern Thailand’s largest city, shopping hub and gateway to Malaysia.",
+  "enhanced_description": "Picture this: It's 6 AM and the city awakens with a symphony of sounds—the distant calls of street vendors setting up their stalls, the gentle hum of motorbikes weaving through the streets, and the tantalizing aroma of freshly brewed coffee mingling with the spicy scent of pad krapow wafting from a nearby eatery. Hat Yai, the largest city in Southern Thailand, is not just a bustling shopping hub; it's a vibrant tapestry woven with culture, flavors, and warm smiles. \n\nAs I meander through the narrow alleys of Kim Yong Market, I can’t help but feel a sense of belonging. The market is a sensory overload, alive with colorful stalls overflowing with exotic fruits, fragrant spices, and handmade crafts. I remember my first visit, overwhelmed by the sheer variety. A friendly vendor noticed my confusion and insisted I try a ripe mangosteen. The juicy sweetness burst in my mouth, and in that moment, I understood the phrase 'nature's candy' like never before. \n\nThe charm of Hat Yai lies in its laid-back vibe, a stark contrast to the tourist-heavy destinations like Phuket or Bangkok. Here, the pace is slower, and the locals are genuinely welcoming. One evening, I found myself at Asean Night Bazaar, enchanted by the twinkling fairy lights and the laughter of families indulging in street food. I struck up a conversation with a group of locals over skewers of grilled pork, and they shared stories of their lives, their dreams, and the beautiful traditions of this region. \n\nHat Yai Park is another hidden gem, a lush oasis right in the midst of the urban hustle. I remember hiking up to the top of the hill, panting but exhilarated, only to be rewarded with a breathtaking panoramic view of the city below. The park is dotted with serene ponds and charming temples, a perfect place to escape the heat and find tranquility. It’s the kind of place where time stands still, and you can almost hear the whispers of history in the rustling leaves. \n\nWhat makes Hat Yai special is its unique blend of cultures. As a gateway to Malaysia, you can feel the fusion in the food and the festivals. I vividly recall celebrating the Chinese New Year here, surrounded by vibrant dragon dances and the intoxicating smell of incense. The atmosphere was electric, and I felt grateful to be part of something so beautiful. \n\nAs the sun sets, the streets come alive again. The Floating Market is a spectacle of color and sound, with vendors paddling their boats laden with tropical fruits and local delicacies. I remember the thrill of bargaining for fresh coconuts while the sun dipped below the horizon, painting the sky in shades of orange and pink. It’s moments like these—simple yet profound—that make Hat Yai a city that captures your heart. \n\nHat Yai is more than just a stopover; it's a destination that invites you to linger, to explore, and to indulge in the simple joys of life. Whether you’re sipping iced Thai tea in a hidden café or getting lost in the winding streets, every experience here is steeped in authenticity. As I reflect on my time in this city, I realize that it’s these little moments, shared with warm-hearted locals and fellow travelers, that create the most vivid memories. So come, lose yourself in Hat Yai, and let its magic weave its way into your soul.",
   "hidden_gems": [
     {
-      "name": "Local Market Near Kim Yong Market",
-      "story": "There's a small local market that most tourists miss, tucked away near Kim Yong Market. Locals do their daily shopping here.",
-      "how_to_find": "Ask any local for the 'talad sod' (fresh market)",
-      "best_time": "Early morning (6-9 AM) for the freshest items",
-      "local_insights": [
-        "Bring small bills",
-        "Try the local coffee"
-      ]
+      "name": "Sangthong Restaurant",
+      "description": "A small, family-run eatery that serves the best tom yum soup I’ve ever had. The owner, a sweet elderly lady, always greets you with a warm smile and a story about each dish.",
+      "how_to_find": "Located on a quiet side street, it’s easy to miss but ask any local, and they’ll point you in the right direction. Best time to visit is around lunch when the locals flock there.",
+      "personal_experience": "I sat there one afternoon, and she shared her secret ingredient for the soup—a hint of lime leaf that made all the difference. You can taste the love in every spoonful."
     },
     {
-      "name": "Sunset Viewpoint",
-      "story": "I discovered this quiet spot perfect for watching the sunset over Hat Yai. No crowds, just peaceful views.",
-      "how_to_find": "Usually located on higher ground or by water",
-      "best_time": "30 minutes before sunset",
-      "local_insights": [
-        "Bring water",
-        "Best for photos"
-      ]
+      "name": "The Secret Garden Café",
+      "description": "A hidden café surrounded by lush greenery, perfect for a chilled afternoon. The atmosphere is serene, with the soft sound of water trickling from a fountain.",
+      "how_to_find": "Tucked away in a residential area, it’s a bit tricky to locate. Look for a small wooden sign, and you’ll feel like you’ve stumbled upon a secret hideaway.",
+      "personal_experience": "I spent countless mornings here, sipping on homemade herbal tea and watching the world go by. It felt like my little sanctuary."
+    },
+    {
+      "name": "Koh Hong Island",
+      "description": "Not typically on tourists’ radar, this small island offers stunning beaches and crystal-clear waters.",
+      "how_to_find": "Take a local boat from Hat Yai pier, usually a 30-minute ride. The best time is early morning when the water is calm.",
+      "personal_experience": "I remember the thrill of jumping off the boat into the turquoise water, discovering a hidden cove where I was the only one there. Pure bliss!"
+    },
+    {
+      "name": "Hatyai Vichakarn School",
+      "description": "An art school where local students display their work and sometimes sell it at incredibly low prices.",
+      "how_to_find": "Just ask around; locals will be happy to direct you. Visit during their open house events for the best experience.",
+      "personal_experience": "I bought a stunning painting from a talented young artist who shared her inspiration with me. It now hangs in my home, a piece of Hat Yai I cherish."
+    },
+    {
+      "name": "Moo Pa Restaurant",
+      "description": "This local favorite is known for its spicy papaya salad and grilled chicken, served family-style.",
+      "how_to_find": "Located near the train station, it’s popular with locals. Go for dinner to enjoy the lively atmosphere.",
+      "personal_experience": "I was invited to join a family at their table one night, and we shared stories over delicious food—one of the best nights of my life."
     }
   ],
   "authentic_experiences": [
     {
-      "name": "Join a Local Temple Morning Routine",
-      "story": "Wake up early and join the locals giving alms to monks. It's a peaceful way to start the day and connect with Thai Buddhist culture.",
-      "cultural_significance": "Merit-making is central to Thai Buddhist practice",
-      "how_to_participate": "Arrive at 6 AM, buy food offerings from local vendors",
-      "insights": [
-        "Dress modestly",
-        "Follow local etiquette",
-        "Silent participation"
-      ]
+      "activity": "Join a Muay Thai class",
+      "description": "Experience the art of Muay Thai with local trainers. It’s not just a sport; it’s a way of life here.",
+      "personal_story": "I was hesitant at first, but after one class, I felt empowered. The trainers were patient, and by the end, I had made new friends and learned a few impressive moves."
     },
     {
-      "name": "Learn to Cook at a Local Home",
-      "story": "Skip the tourist cooking classes and learn from a Thai family. The dishes taste completely different when made with generations of knowledge.",
-      "cultural_significance": "Food is family heritage in Thailand",
-      "how_to_participate": "Ask guesthouse owners for family connections",
-      "insights": [
-        "Bring small gifts",
-        "Expect spicy food",
-        "Learn family recipes"
-      ]
+      "activity": "Participate in a local cooking class",
+      "description": "Learn to cook traditional Southern Thai dishes from a local chef in their home.",
+      "personal_story": "I attended a class where the chef showed me how to make green curry from scratch. We even harvested ingredients from her garden, adding a personal touch to the experience."
+    },
+    {
+      "activity": "Visit a local temple during a festival",
+      "description": "Immerse yourself in the local culture by visiting a temple during one of its vibrant festivals.",
+      "personal_story": "Attending the Loy Krathong festival was magical. I joined locals in making krathongs and releasing them into the water, a beautiful way to honor the spirits."
+    },
+    {
+      "activity": "Volunteer at a community project",
+      "description": "Get involved with a local charity or project to give back and connect with the community.",
+      "personal_story": "I volunteered at a local orphanage, and the joy on the children's faces was priceless. It opened my eyes to a different side of life in Hat Yai."
+    },
+    {
+      "activity": "Explore the local night markets",
+      "description": "Experience the vibrant night markets where you can find everything from clothes to delicious street food.",
+      "personal_story": "I discovered a stall selling handmade jewelry and ended up chatting with the artisan, who shared her story of creating each piece. It made shopping feel personal."
+    },
+    {
+      "activity": "Attend a traditional Thai massage workshop",
+      "description": "Learn the art of Thai massage from skilled practitioners. It’s a cultural experience that’s both relaxing and educational.",
+      "personal_story": "I took a workshop and was amazed at how much I learned about the techniques. The best part? I got to practice on a fellow traveler, and we both left feeling rejuvenated."
     }
   ],
   "foodie_adventures": [
     {
-      "name": "Street-side Pad Thai",
-      "story": "The best pad thai I've ever had came from a cart that only operates after 6 PM. The vendor has been perfecting her recipe for 20 years.",
-      "dish": "Pad Thai",
-      "where_to_find": "Evening street food carts",
-      "price_range": "30-50 baht",
-      "ordering_tips": [
-        "Ask for 'mai pet' if you don't want spicy",
-        "Watch them cook it fresh"
-      ]
+      "dish": "Khao Yum (Southern Thai Rice Salad)",
+      "location": "Khao Yum Rim Klong",
+      "description": "A vibrant salad made with rice, herbs, and fresh vegetables, bursting with flavor.",
+      "cultural_significance": "This dish is often enjoyed during family gatherings and celebrations.",
+      "price": "60 baht",
+      "ordering_tips": "Ask for extra lime for that zesty kick!"
     },
     {
-      "name": "Morning Market Som Tam",
-      "story": "The papaya salad at the local morning market is incredibly fresh - they pound it right in front of you with ingredients picked that morning.",
-      "dish": "Som Tam (Papaya Salad)",
-      "where_to_find": "Fresh markets, usually morning hours",
-      "price_range": "25-40 baht",
-      "ordering_tips": [
-        "Point to ingredients you want",
-        "Specify spice level"
-      ]
+      "dish": "Pad Krapow Moo Sap (Stir-fried Basil Pork)",
+      "location": "Sangthong Restaurant",
+      "description": "Stir-fried ground pork with holy basil, served over jasmine rice and topped with a fried egg.",
+      "cultural_significance": "A staple dish that’s fast, flavorful, and found everywhere in Thailand.",
+      "price": "50 baht",
+      "ordering_tips": "Specify 'pet nit noy' (a little spicy) or 'pet mak' (very spicy) based on your tolerance."
+    },
+    {
+      "dish": "Som Tum (Papaya Salad)",
+      "location": "Som Tum Khun Khao",
+      "description": "A spicy salad made from shredded green papaya, tomatoes, and peanuts.",
+      "cultural_significance": "Often served during gatherings, it embodies the balance of sweet, sour, spicy, and salty.",
+      "price": "40 baht",
+      "ordering_tips": "Try it with grilled chicken for the perfect combination!"
+    },
+    {
+      "dish": "Roti (Thai Pancake)",
+      "location": "Street vendors near Hat Yai Park",
+      "description": "A crispy, flaky pancake filled with banana and condensed milk, a sweet treat!",
+      "cultural_significance": "Popular as a snack or dessert, enjoyed by all ages.",
+      "price": "30 baht",
+      "ordering_tips": "Ask for 'roti with egg' for an extra protein boost."
+    },
+    {
+      "dish": "Hainanese Chicken Rice",
+      "location": "Chinatown",
+      "description": "Tender chicken served with fragrant rice and a side of chili sauce.",
+      "cultural_significance": "This dish reflects the influence of Chinese cuisine in Southern Thailand.",
+      "price": "70 baht",
+      "ordering_tips": "Don’t forget to drizzle the chicken with soy sauce for extra flavor."
+    },
+    {
+      "dish": "Bua Loy (Sticky Rice Balls in Coconut Milk)",
+      "location": "Local dessert stalls",
+      "description": "Colorful sticky rice balls served in sweet coconut milk, perfect for dessert.",
+      "cultural_significance": "A traditional dessert often enjoyed during festivals.",
+      "price": "30 baht",
+      "ordering_tips": "Try the different colored balls—they’re made with natural ingredients!"
+    },
+    {
+      "dish": "Larb (Spicy minced meat salad)",
+      "location": "Larb Moo Restaurant",
+      "description": "A spicy salad made with minced pork, herbs, and lime juice.",
+      "cultural_significance": "Commonly enjoyed at gatherings, it’s a dish that brings people together.",
+      "price": "50 baht",
+      "ordering_tips": "Order it with sticky rice for an authentic experience."
+    },
+    {
+      "dish": "Thai Iced Tea",
+      "location": "Any local café",
+      "description": "Sweet, creamy, and refreshing, the perfect drink for the hot weather.",
+      "cultural_significance": "A beloved beverage enjoyed by locals throughout the day.",
+      "price": "30 baht",
+      "ordering_tips": "Ask for it 'less sweet' if you prefer a lighter taste."
     }
   ],
   "local_insights": [
-    "Locals eat dinner much earlier than in Western countries - around 6-7 PM",
-    "Pointing with your index finger is considered rude - use an open hand instead",
-    "Remove shoes before entering homes and some shops",
-    "The king is deeply revered - always show respect when his image or anthem appears",
-    "Tipping is not expected but small amounts are appreciated for good service",
-    "Learn the word 'krub' (for men) or 'ka' (for women) - it makes any sentence more polite"
+    {
+      "observation": "The warmth of the people",
+      "tip": "Smile and greet locals with 'Sawasdee krub/ka' (Hello) to break the ice."
+    },
+    {
+      "observation": "Food is central to social life",
+      "tip": "Don't hesitate to share food when dining with locals; it symbolizes friendship."
+    },
+    {
+      "observation": "Respect for traditions",
+      "tip": "When visiting temples, dress modestly and remove your shoes."
+    },
+    {
+      "observation": "Bargaining is an art",
+      "tip": "Haggle politely at markets; it’s part of the culture and can lead to great deals."
+    },
+    {
+      "observation": "Family is everything",
+      "tip": "Engage in conversations about family; it opens doors to deeper connections."
+    },
+    {
+      "observation": "Slow down and enjoy life",
+      "tip": "Take your time at meals and don’t rush; savor each moment like the locals do."
+    },
+    {
+      "observation": "Festivals are a big part of culture",
+      "tip": "Plan your visit around local festivals for a more immersive experience."
+    },
+    {
+      "observation": "Language barriers can be bridged with kindness",
+      "tip": "Even a few Thai phrases can go a long way in connecting with locals."
+    }
   ],
   "seasonal_secrets": {
-    "best_season": "Cool Season (November-February)",
-    "why": "Most comfortable weather for walking and outdoor activities",
-    "local_festivals": [
-      "Loy Krathong (November)",
-      "Chinese New Year (February)"
-    ],
-    "seasonal_foods": [
-      "Cool season fruits",
-      "Hot soups and warming dishes"
-    ],
-    "insider_tips": [
-      "Book accommodations early during peak season",
-      "Rainy season (July-October) has fewer crowds and lower prices",
-      "Hot season (March-June) is perfect for indoor activities and temples"
-    ]
+    "best_times": {
+      "November-February": {
+        "experiences": "Ideal for outdoor activities and exploring markets.",
+        "festivals": "Loy Krathong and Chinese New Year celebrations are vibrant and memorable.",
+        "seasonal_foods": "Enjoy fresh fruits like durian and mangosteen in their prime."
+      },
+      "March-May": {
+        "experiences": "Perfect for beach trips to nearby islands before the rain hits.",
+        "festivals": "Songkran (Thai New Year) is celebrated with water fights and festivities.",
+        "seasonal_foods": "Taste sweet mangoes and sticky rice during the hot months."
+      },
+      "June-October": {
+        "experiences": "Great for experiencing the lush greenery and fewer crowds.",
+        "festivals": "Vegetarian Festival is a unique cultural experience.",
+        "seasonal_foods": "Enjoy warming soups as the rain cools the air."
+      }
+    },
+    "insider_tips": {
+      "November-February": "Book accommodations in advance; it’s peak season.",
+      "March-May": "Stay hydrated; the heat can be intense.",
+      "June-October": "Don’t let rain deter you; it’s usually short-lived and refreshing."
+    }
   },
   "budget_reality": {
-    "budget": "$25-40 per day",
-    "mid_range": "$40-80 per day",
-    "luxury": "$80+ per day",
-    "examples": [
-      "Street food meal: 30-60 baht",
-      "Local restaurant: 80-150 baht",
-      "Tuk-tuk ride: 100-200 baht",
-      "Temple entrance: 20-100 baht"
-    ],
-    "money_saving_tricks": [
-      "Eat where locals eat - much cheaper and often better",
-      "Use public transport instead of taxis",
-      "Buy fruit from markets instead of tourist areas",
-      "Stay in local guesthouses rather than international hotels"
-    ],
-    "hidden_costs": [
-      "Tourist temples often charge entrance fees",
-      "Tuk-tuks will overcharge tourists",
-      "Airport food is 3x more expensive",
-      "Tourist markets have inflated prices"
-    ]
+    "daily_costs": {
+      "breakfast": "40 baht for a local stall breakfast of rice soup.",
+      "lunch": "60 baht for a street-side pad krapow.",
+      "dinner": "100 baht at a local restaurant for a full meal.",
+      "snacks": "30 baht for tasty roti from street vendors.",
+      "transport": "20 baht for a short tuk-tuk ride.",
+      "total": "Approx. 250 baht per day."
+    },
+    "money_saving_tricks": "Eat where the locals eat; it's often much cheaper and more delicious.",
+    "splurge_vs_save": {
+      "splurge": "Spend a little more on unique dining experiences or cooking classes.",
+      "save": "Use public transport and eat street food to keep costs low."
+    },
+    "hidden_costs": "Be prepared for extra charges at tourist attractions; always check ahead."
   },
   "top_attractions": [
     {
       "rank": 1,
-      "name": "Kim Yong Market",
-      "description": "Experience Kim Yong Market in Hat Yai, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Sangthong Restaurant",
+      "description": "A small, family-run eatery that serves the best tom yum soup I’ve ever had. The owner, a sweet elderly lady, always greets you with a warm smile and a story about each dish.",
+      "location": "Located on a quiet side street, it’s easy to miss but ask any local, and they’ll point you in the right direction. Best time to visit is around lunch when the locals flock there.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 2,
-      "name": "Floating Market",
-      "description": "Experience Floating Market in Hat Yai, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "The Secret Garden Café",
+      "description": "A hidden café surrounded by lush greenery, perfect for a chilled afternoon. The atmosphere is serene, with the soft sound of water trickling from a fountain.",
+      "location": "Tucked away in a residential area, it’s a bit tricky to locate. Look for a small wooden sign, and you’ll feel like you’ve stumbled upon a secret hideaway.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 3,
-      "name": "Hat Yai Park",
-      "description": "Experience Hat Yai Park in Hat Yai, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Koh Hong Island",
+      "description": "Not typically on tourists’ radar, this small island offers stunning beaches and crystal-clear waters.",
+      "location": "Take a local boat from Hat Yai pier, usually a 30-minute ride. The best time is early morning when the water is calm.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 4,
-      "name": "Asean Night Bazaar",
-      "description": "Experience Asean Night Bazaar in Hat Yai, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Hatyai Vichakarn School",
+      "description": "An art school where local students display their work and sometimes sell it at incredibly low prices.",
+      "location": "Just ask around; locals will be happy to direct you. Visit during their open house events for the best experience.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Moo Pa Restaurant",
+      "description": "This local favorite is known for its spicy papaya salad and grilled chicken, served family-style.",
+      "location": "Located near the train station, it’s popular with locals. Go for dinner to enjoy the lively atmosphere.",
+      "highlights": [
+        "Hidden gem",
+        "Local favorite"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Join a Muay Thai class",
+      "description": "Experience the art of Muay Thai with local trainers. It’s not just a sport; it’s a way of life here.",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Participate in a local cooking class",
+      "description": "Learn to cook traditional Southern Thai dishes from a local chef in their home.",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Visit a local temple during a festival",
+      "description": "Immerse yourself in the local culture by visiting a temple during one of its vibrant festivals.",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
       ]
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Best Local Thai Restaurant in Hat Yai",
-      "description": "Authentic Thai cuisine and local specialties at this popular local thai restaurant in Hat Yai.",
+      "name": "Khao Yum (Southern Thai Rice Salad)",
+      "description": "A vibrant salad made with rice, herbs, and fresh vegetables, bursting with flavor.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "This dish is often enjoyed during family gatherings and celebrations."
       ]
     },
     {
       "rank": 2,
-      "name": "Best Street Food Stall in Hat Yai",
-      "description": "Authentic Thai cuisine and local specialties at this popular street food stall in Hat Yai.",
+      "name": "Pad Krapow Moo Sap (Stir-fried Basil Pork)",
+      "description": "Stir-fried ground pork with holy basil, served over jasmine rice and topped with a fried egg.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "A staple dish that’s fast, flavorful, and found everywhere in Thailand."
       ]
     },
     {
       "rank": 3,
-      "name": "Best Traditional Eatery in Hat Yai",
-      "description": "Authentic Thai cuisine and local specialties at this popular traditional eatery in Hat Yai.",
+      "name": "Som Tum (Papaya Salad)",
+      "description": "A spicy salad made from shredded green papaya, tomatoes, and peanuts.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Often served during gatherings, it embodies the balance of sweet, sour, spicy, and salty."
       ]
     },
     {
       "rank": 4,
-      "name": "Best Rooftop Restaurant in Hat Yai",
-      "description": "Authentic Thai cuisine and local specialties at this popular rooftop restaurant in Hat Yai.",
+      "name": "Roti (Thai Pancake)",
+      "description": "A crispy, flaky pancake filled with banana and condensed milk, a sweet treat!",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Popular as a snack or dessert, enjoyed by all ages."
       ]
     },
     {
       "rank": 5,
-      "name": "Best Market Food Court in Hat Yai",
-      "description": "Authentic Thai cuisine and local specialties at this popular market food court in Hat Yai.",
+      "name": "Hainanese Chicken Rice",
+      "description": "Tender chicken served with fragrant rice and a side of chili sauce.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "This dish reflects the influence of Chinese cuisine in Southern Thailand."
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Bua Loy (Sticky Rice Balls in Coconut Milk)",
+      "description": "Colorful sticky rice balls served in sweet coconut milk, perfect for dessert.",
+      "cuisine_type": "Thai",
+      "price_range": "$5-20",
+      "highlights": [
+        "A traditional dessert often enjoyed during festivals."
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Larb (Spicy minced meat salad)",
+      "description": "A spicy salad made with minced pork, herbs, and lime juice.",
+      "cuisine_type": "Thai",
+      "price_range": "$5-20",
+      "highlights": [
+        "Commonly enjoyed at gatherings, it’s a dish that brings people together."
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Thai Iced Tea",
+      "description": "Sweet, creamy, and refreshing, the perfect drink for the hot weather.",
+      "cuisine_type": "Thai",
+      "price_range": "$5-20",
+      "highlights": [
+        "A beloved beverage enjoyed by locals throughout the day."
       ]
     }
   ],
@@ -326,17 +477,18 @@
     }
   ],
   "travel_tips": [
-    "Best time to visit Hat Yai is during the cool season (November-February)",
-    "Learn basic Thai phrases for better local interactions",
-    "Always carry cash as many places don't accept cards",
-    "Respect local customs and dress modestly at temples",
-    "Try local street food but choose busy stalls for freshness"
+    "Smile and greet locals with 'Sawasdee krub/ka' (Hello) to break the ice.",
+    "Don't hesitate to share food when dining with locals; it symbolizes friendship.",
+    "When visiting temples, dress modestly and remove your shoes.",
+    "Haggle politely at markets; it’s part of the culture and can lead to great deals.",
+    "Engage in conversations about family; it opens doors to deeper connections.",
+    "Take your time at meals and don’t rush; savor each moment like the locals do."
   ],
   "best_time_to_visit": {
     "season": "Cool Season",
     "months": "November - February",
-    "weather": "Pleasant temperatures and less rainfall",
-    "reasons": "Ideal weather conditions for sightseeing and outdoor activities"
+    "weather": "Pleasant conditions",
+    "reasons": "Ideal weather for activities"
   },
   "budget_info": {
     "budget": "$30-50 per day",
@@ -344,6 +496,6 @@
     "luxury": "$100+ per day",
     "notes": "Budget includes accommodation, food, transportation, and activities"
   },
-  "enhanced_at": "2025-05-26T18:26:58.373Z",
+  "enhanced_at": "2025-05-26T18:48:32.304Z",
   "ai_generated": true
 }

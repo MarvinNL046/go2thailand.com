@@ -55,221 +55,395 @@
     "tourism",
     "guide"
   ],
-  "enhanced_description": "The bustling capital of Thailand, famous for street food, nightlife, temples, and markets.",
+  "enhanced_description": "Picture this: It's 6 AM and the city awakens with a symphony of sounds – the distant honking of tuk-tuks, the melodic calls of street vendors setting up their stalls, and the sizzling of stir-fried noodles wafting through the air. As I step out of my small apartment in the bustling neighborhood of Thonglor, the sun begins to peek over the horizon, illuminating the intricate architecture of the temples that dot the skyline. Bangkok is alive, vibrant, and intoxicating, a kaleidoscope of culture that pulls you in and refuses to let go.\n\nUnlike the serene beaches of Phuket or the lush jungles of Chiang Mai, Bangkok is an exhilarating urban playground where tradition and modernity collide. I remember my first visit to the Grand Palace, a place that feels like stepping into a fairytale. The intricate golden spires glimmering in the morning sun left me breathless. I spent hours wandering through the ornate halls, each one telling stories of kings and queens, of a rich history that pulses through the streets.\n\nYet, it’s not just the monumental sites that captivate; it’s the everyday magic that unfolds in the alleyways and markets. I stumbled upon Khao San Road on a Saturday night, the air thick with laughter and the smell of pad thai. Young backpackers mingled with local vendors, and I found myself sharing a table with a spirited traveler from Spain. We swapped stories over a plate of mango sticky rice, the sweet, creamy flavor melting in my mouth, while the sounds of live music and laughter created a backdrop that felt almost surreal.\n\nThen there’s Wat Pho, home of the Reclining Buddha. I’ll never forget the first time I saw it – the sheer size and the intricate details left me in awe. I watched as locals came to pay their respects, their faces serene and reverent. It reminded me that while Bangkok is a city of chaos, it’s also a place of deep spirituality and connection. There’s a sense of community here that is palpable if you take the time to look.\n\nAnd let’s not forget the markets! Chatuchak, the weekend market, is a labyrinth of stalls overflowing with everything from handwoven textiles to quirky souvenirs. I spent an entire afternoon lost in its maze, haggling with vendors who treated me like family. I still remember the scent of fresh coconut ice cream that lured me in; it was a hot day, and the cool, creamy treat was pure bliss. The friendly banter with the local shopkeepers taught me about the art of negotiation and left me with a treasure trove of unique finds.\n\nBangkok is unlike any other destination in Thailand. It’s a city where you can experience the clash of ancient and modern life in real-time. One night, I found myself at a rooftop bar overlooking the Chao Phraya River, watching the sunset paint the sky in hues of orange and purple while sipping on a refreshing Thai basil mojito. It struck me then how this city is a juxtaposition of the fast-paced life and peaceful moments, a reality I had come to love.\n\nAs I share my experiences, I invite you to dive into the heart of Bangkok, to not just be a spectator but to become part of its rhythm. Whether you’re savoring street food, exploring hidden alleys, or engaging with the warm-hearted locals, Bangkok’s allure will wrap around you like a cozy blanket, making you feel at home even in the chaos. This city is not just a destination; it’s a feeling, a pulse that will linger long after you leave.",
   "hidden_gems": [
     {
-      "name": "Local Market Near Grand Palace",
-      "story": "There's a small local market that most tourists miss, tucked away near Grand Palace. Locals do their daily shopping here.",
-      "how_to_find": "Ask any local for the 'talad sod' (fresh market)",
-      "best_time": "Early morning (6-9 AM) for the freshest items",
-      "local_insights": [
-        "Bring small bills",
-        "Try the local coffee"
-      ]
+      "name": "Talad Rot Fai",
+      "story": "This vintage market is a treasure trove of quirky finds, from retro clothing to antique furniture. I stumbled in one evening, drawn by the twinkling fairy lights and the sound of live music wafting through the air.",
+      "how_to_find": "Located in Srinakarin, it's best visited on weekends after sunset when the vibe is electric.",
+      "personal_experience": "I found an old vinyl record of Thai pop music and ended up chatting with the vendor for hours, exchanging stories about music and culture."
     },
     {
-      "name": "Sunset Viewpoint",
-      "story": "I discovered this quiet spot perfect for watching the sunset over Bangkok. No crowds, just peaceful views.",
-      "how_to_find": "Usually located on higher ground or by water",
-      "best_time": "30 minutes before sunset",
-      "local_insights": [
-        "Bring water",
-        "Best for photos"
-      ]
+      "name": "Bang Krachao",
+      "story": "Often dubbed the 'Green Lung' of Bangkok, this lush area is a breath of fresh air. I rented a bike and spent the day exploring the winding paths lined with coconut trees, a stark contrast to the city's hustle.",
+      "how_to_find": "Catch a ferry from Bang Na to the island, best visited early morning before the heat sets in.",
+      "personal_experience": "I came across a local family having a picnic by the river, and they invited me to join them for homemade curry and sticky rice."
+    },
+    {
+      "name": "Erawan Museum",
+      "story": "While the Grand Palace is on everyone's list, Erawan Museum feels like a hidden sanctuary adorned with stunning sculptures. It’s quiet, contemplative, and offers unique insights into Thai spirituality.",
+      "how_to_find": "Located in Samut Prakan, it’s a short drive from central Bangkok. Go during weekdays for a quieter experience.",
+      "personal_experience": "I had a profound conversation with a monk who was visiting; he shared stories of his life and the significance of the artifacts in the museum."
+    },
+    {
+      "name": "Suan Pakkad Palace",
+      "story": "Once the residence of Thai royalty, this museum is often overlooked. The intricately decorated pavilions filled with art and antiques took me back in time.",
+      "how_to_find": "Just a short walk from Phaya Thai station, visit on a weekday to avoid crowds.",
+      "personal_experience": "I spent an afternoon sketching the gardens and struck up a conversation with an art student who was doing the same."
+    },
+    {
+      "name": "Baan Suan Plearn",
+      "story": "This charming little café and garden center is a perfect hideaway. The atmosphere is serene, with plants everywhere and lovely spots to sit and reflect.",
+      "how_to_find": "Nestled in the Sukhumvit area, it’s best visited on weekends for the full experience.",
+      "personal_experience": "I met a local artist here who invited me to her exhibition, and we connected over our shared love for creativity."
     }
   ],
   "authentic_experiences": [
     {
-      "name": "Join a Local Temple Morning Routine",
-      "story": "Wake up early and join the locals giving alms to monks. It's a peaceful way to start the day and connect with Thai Buddhist culture.",
-      "cultural_significance": "Merit-making is central to Thai Buddhist practice",
-      "how_to_participate": "Arrive at 6 AM, buy food offerings from local vendors",
-      "insights": [
-        "Dress modestly",
-        "Follow local etiquette",
-        "Silent participation"
-      ]
+      "activity": "Muay Thai Training",
+      "insight": "Join a local gym for an authentic Muay Thai training session. It’s not just about fitness; it’s about understanding a significant part of Thai culture.",
+      "personal_story": "I spent a month training, and the camaraderie with the trainers and fellow students became a highlight of my time in Bangkok."
     },
     {
-      "name": "Learn to Cook at a Local Home",
-      "story": "Skip the tourist cooking classes and learn from a Thai family. The dishes taste completely different when made with generations of knowledge.",
-      "cultural_significance": "Food is family heritage in Thailand",
-      "how_to_participate": "Ask guesthouse owners for family connections",
-      "insights": [
-        "Bring small gifts",
-        "Expect spicy food",
-        "Learn family recipes"
-      ]
+      "activity": "Thai Cooking Class",
+      "insight": "Learn to make classic dishes like Pad Thai and Tom Yum from a local chef in their home kitchen.",
+      "personal_story": "I still remember the aroma of lemongrass and galangal as we prepared our meals together, followed by a shared feast that felt like family."
+    },
+    {
+      "activity": "Volunteer at a Local School",
+      "insight": "Engage with the community by teaching English or sharing your skills with local children; it’s a rewarding way to connect.",
+      "personal_story": "I volunteered at a small school on weekends and formed beautiful friendships with the kids, who taught me just as much as I taught them."
+    },
+    {
+      "activity": "Join a Local Festival",
+      "insight": "Participate in unique local festivals like Loy Krathong or Songkran to experience Thai culture at its finest.",
+      "personal_story": "During Songkran, I joined a water fight in the streets, laughing and splashing with locals and tourists alike; it was pure joy."
+    },
+    {
+      "activity": "Explore Local Art Galleries",
+      "insight": "Bangkok has a growing art scene; explore galleries showcasing contemporary Thai artists.",
+      "personal_story": "I discovered a small gallery in Chinatown that displayed the work of emerging artists, leading to insightful conversations about art and society."
     }
   ],
   "foodie_adventures": [
     {
-      "name": "Street-side Pad Thai",
-      "story": "The best pad thai I've ever had came from a cart that only operates after 6 PM. The vendor has been perfecting her recipe for 20 years.",
       "dish": "Pad Thai",
-      "where_to_find": "Evening street food carts",
-      "price_range": "30-50 baht",
-      "ordering_tips": [
-        "Ask for 'mai pet' if you don't want spicy",
-        "Watch them cook it fresh"
-      ]
+      "location": "Thip Samai",
+      "details": "Known as the best Pad Thai in Bangkok, it’s made with fresh ingredients and served with a wedge of lime.",
+      "story": "Watching the chefs prepare the dish is an experience in itself; the aroma fills the air, and the taste is nothing short of spectacular.",
+      "price_range": "60-80 baht"
     },
     {
-      "name": "Morning Market Som Tam",
-      "story": "The papaya salad at the local morning market is incredibly fresh - they pound it right in front of you with ingredients picked that morning.",
-      "dish": "Som Tam (Papaya Salad)",
-      "where_to_find": "Fresh markets, usually morning hours",
-      "price_range": "25-40 baht",
-      "ordering_tips": [
-        "Point to ingredients you want",
-        "Specify spice level"
-      ]
+      "dish": "Boat Noodles",
+      "location": "Victory Monument",
+      "details": "These tiny bowls of noodles are packed with flavor, typically served with beef or pork.",
+      "story": "I remember slurping these noodles while sitting on a small stool at a street vendor, surrounded by locals enjoying their meals.",
+      "price_range": "20-30 baht per bowl"
+    },
+    {
+      "dish": "Mango Sticky Rice",
+      "location": "Mango Tango",
+      "details": "This dessert is a sweet treat made with ripe mango, coconut milk, and sticky rice.",
+      "story": "The first bite was pure bliss; it’s a must-try during mango season!",
+      "price_range": "50-70 baht"
+    },
+    {
+      "dish": "Som Tum (Papaya Salad)",
+      "location": "Som Tum Nua",
+      "details": "A spicy, tangy salad made with shredded green papaya and a mix of herbs.",
+      "story": "I was introduced to this dish by a local friend, and the explosion of flavors was unforgettable.",
+      "price_range": "40-60 baht"
+    },
+    {
+      "dish": "Khao Soi",
+      "location": "Khao Soi Mae Sai",
+      "details": "A Northern Thai coconut curry noodle soup that’s rich and fragrant.",
+      "story": "I discovered this dish during a trip to Chiang Mai and was thrilled to find it in Bangkok; it felt like a comforting hug on a rainy day.",
+      "price_range": "60-80 baht"
+    },
+    {
+      "dish": "Roti Gluay (Banana Pancake)",
+      "location": "Street vendors around Khao San Road",
+      "details": "A sweet, crispy pancake filled with banana and drizzled with condensed milk.",
+      "story": "After a night out, this late-night snack became a ritual for me and my friends; it’s the ultimate comfort food.",
+      "price_range": "30-50 baht"
+    },
+    {
+      "dish": "Tom Yum Goong",
+      "location": "Pha Pha",
+      "details": "This spicy shrimp soup is a staple of Thai cuisine, bursting with flavor.",
+      "story": "Each spoonful reminded me of the warmth of Thai hospitality; it’s a dish that brings people together.",
+      "price_range": "80-120 baht"
+    },
+    {
+      "dish": "Grilled Pork Skewers (Moo Yang)",
+      "location": "Street vendors in Silom",
+      "details": "Marinated pork grilled to perfection, often served with a spicy dipping sauce.",
+      "story": "I’d grab these skewers on my way home from work; they were the perfect snack to tide me over until dinner.",
+      "price_range": "10-20 baht each"
     }
   ],
   "local_insights": [
-    "Locals eat dinner much earlier than in Western countries - around 6-7 PM",
-    "Pointing with your index finger is considered rude - use an open hand instead",
-    "Remove shoes before entering homes and some shops",
-    "The king is deeply revered - always show respect when his image or anthem appears",
-    "Tipping is not expected but small amounts are appreciated for good service",
-    "Learn the word 'krub' (for men) or 'ka' (for women) - it makes any sentence more polite"
+    {
+      "observation": "Respect for Monks",
+      "tip": "When you see a monk, it’s customary to step aside and allow them to pass. If you're female, avoid physical contact.",
+      "surprise": "I was surprised by the deep respect and reverence locals have for monks; it’s a beautiful part of their culture."
+    },
+    {
+      "observation": "Tuk-tuk Etiquette",
+      "tip": "Always negotiate the fare before starting your ride. It’s part of the experience.",
+      "surprise": "I learned that the tuk-tuk drivers are often very friendly and love to share stories about the city."
+    },
+    {
+      "observation": "Dining Culture",
+      "tip": "Sharing dishes is common; don’t be afraid to order a variety and share with your table.",
+      "surprise": "The sense of community during meals created bonds that felt deeply enriching."
+    },
+    {
+      "observation": "Dress Modestly at Temples",
+      "tip": "Always wear respectful clothing; shoulders and knees should be covered.",
+      "surprise": "I witnessed many tourists turn away from temples because of improper attire; it’s worth the effort to dress appropriately."
+    },
+    {
+      "observation": "The Importance of Wai",
+      "tip": "The traditional greeting involves a slight bow with your palms pressed together; it shows respect.",
+      "surprise": "I found that using the Wai created an instant connection with locals, allowing for deeper interactions."
+    },
+    {
+      "observation": "Traffic Patterns",
+      "tip": "Avoid peak hours if you can; the traffic can be overwhelming.",
+      "surprise": "I learned to navigate the city using the BTS Skytrain, which made getting around much easier!"
+    },
+    {
+      "observation": "Markets as Social Hubs",
+      "tip": "Visit local markets not just for shopping, but for socializing and experiencing daily life.",
+      "surprise": "I enjoyed engaging with vendors who shared their stories and local tips; it was a highlight of my time in Bangkok."
+    },
+    {
+      "observation": "Smile and Be Patient",
+      "tip": "A smile goes a long way; patience is key in the bustling city.",
+      "surprise": "I found that being friendly and open made my experiences much more enjoyable."
+    }
   ],
   "seasonal_secrets": {
-    "best_season": "Cool Season (November-February)",
-    "why": "Most comfortable weather for walking and outdoor activities",
-    "local_festivals": [
-      "Loy Krathong (November)",
-      "Chinese New Year (February)"
-    ],
-    "seasonal_foods": [
-      "Cool season fruits",
-      "Hot soups and warming dishes"
-    ],
-    "insider_tips": [
-      "Book accommodations early during peak season",
-      "Rainy season (July-October) has fewer crowds and lower prices",
-      "Hot season (March-June) is perfect for indoor activities and temples"
-    ]
+    "best_times": {
+      "cool_dry": {
+        "month_range": "November to February",
+        "experiences": "Perfect for exploring outdoor markets and temples.",
+        "festivals": "Loy Krathong, where you can float your own krathong down the river."
+      },
+      "hot": {
+        "month_range": "March to May",
+        "experiences": "Ideal for water activities; hit the local pools or take a day trip to nearby waterfalls.",
+        "festivals": "Songkran, the Thai New Year water festival, is an unforgettable experience."
+      },
+      "rainy": {
+        "month_range": "June to October",
+        "experiences": "Great for indoor activities like cooking classes or visiting museums.",
+        "festivals": "The Vegetarian Festival in October offers a unique cultural experience."
+      }
+    },
+    "seasonal_foods": {
+      "cool_dry": [
+        "Mango Sticky Rice",
+        "Grilled Fish"
+      ],
+      "hot": [
+        "Coconut Ice Cream",
+        "Fresh Fruit Shakes"
+      ],
+      "rainy": [
+        "Hot Soups",
+        "Spicy Curries"
+      ]
+    },
+    "insider_tips": {
+      "cool_dry": "Book accommodation in advance; it’s peak tourist season.",
+      "hot": "Stay hydrated and take breaks; the heat can be intense.",
+      "rainy": "Embrace the rain; it often brings cooler temperatures and fewer crowds."
+    }
   },
   "budget_reality": {
-    "budget": "$25-40 per day",
-    "mid_range": "$40-80 per day",
-    "luxury": "$80+ per day",
-    "examples": [
-      "Street food meal: 30-60 baht",
-      "Local restaurant: 80-150 baht",
-      "Tuk-tuk ride: 100-200 baht",
-      "Temple entrance: 20-100 baht"
-    ],
+    "daily_costs": {
+      "breakfast": "Breakfast at local stall: 40 baht",
+      "lunch": "Lunch at a street vendor: 60 baht",
+      "dinner": "Dinner at a local restaurant: 150 baht",
+      "transport": "BTS fare: 30 baht",
+      "total": "Approximately 280 baht per day"
+    },
     "money_saving_tricks": [
-      "Eat where locals eat - much cheaper and often better",
-      "Use public transport instead of taxis",
-      "Buy fruit from markets instead of tourist areas",
-      "Stay in local guesthouses rather than international hotels"
+      "Eat where the locals eat; street food is delicious and affordable.",
+      "Use public transport to avoid high taxi fares.",
+      "Negotiate prices at markets; it’s expected."
+    ],
+    "where_to_splurge": [
+      "Fancy rooftop bars for cocktails with a view.",
+      "Dining at a Michelin-starred restaurant for a unique culinary experience."
     ],
     "hidden_costs": [
-      "Tourist temples often charge entrance fees",
-      "Tuk-tuks will overcharge tourists",
-      "Airport food is 3x more expensive",
-      "Tourist markets have inflated prices"
+      "Tourist attractions often have hidden fees for cameras or guides.",
+      "Tips are appreciated, so budget for that in restaurants."
     ]
   },
   "top_attractions": [
     {
       "rank": 1,
-      "name": "Grand Palace",
-      "description": "Experience Grand Palace in Bangkok, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Talad Rot Fai",
+      "description": "This vintage market is a treasure trove of quirky finds, from retro clothing to antique furniture. I stumbled in one evening, drawn by the twinkling fairy lights and the sound of live music wafting through the air.",
+      "location": "Located in Srinakarin, it's best visited on weekends after sunset when the vibe is electric.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 2,
-      "name": "Khao San Road",
-      "description": "Experience Khao San Road in Bangkok, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Bang Krachao",
+      "description": "Often dubbed the 'Green Lung' of Bangkok, this lush area is a breath of fresh air. I rented a bike and spent the day exploring the winding paths lined with coconut trees, a stark contrast to the city's hustle.",
+      "location": "Catch a ferry from Bang Na to the island, best visited early morning before the heat sets in.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 3,
-      "name": "Chatuchak Market",
-      "description": "Experience Chatuchak Market in Bangkok, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Erawan Museum",
+      "description": "While the Grand Palace is on everyone's list, Erawan Museum feels like a hidden sanctuary adorned with stunning sculptures. It’s quiet, contemplative, and offers unique insights into Thai spirituality.",
+      "location": "Located in Samut Prakan, it’s a short drive from central Bangkok. Go during weekdays for a quieter experience.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 4,
-      "name": "Wat Pho",
-      "description": "Experience Wat Pho in Bangkok, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Suan Pakkad Palace",
+      "description": "Once the residence of Thai royalty, this museum is often overlooked. The intricately decorated pavilions filled with art and antiques took me back in time.",
+      "location": "Just a short walk from Phaya Thai station, visit on a weekday to avoid crowds.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Baan Suan Plearn",
+      "description": "This charming little café and garden center is a perfect hideaway. The atmosphere is serene, with plants everywhere and lovely spots to sit and reflect.",
+      "location": "Nestled in the Sukhumvit area, it’s best visited on weekends for the full experience.",
+      "highlights": [
+        "Hidden gem",
+        "Local favorite"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Muay Thai Training",
+      "description": "An authentic local experience.",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Thai Cooking Class",
+      "description": "An authentic local experience.",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Volunteer at a Local School",
+      "description": "An authentic local experience.",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
       ]
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Best Local Thai Restaurant in Bangkok",
-      "description": "Authentic Thai cuisine and local specialties at this popular local thai restaurant in Bangkok.",
+      "name": "Pad Thai",
+      "description": "Watching the chefs prepare the dish is an experience in itself; the aroma fills the air, and the taste is nothing short of spectacular.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "60-80 baht",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
       ]
     },
     {
       "rank": 2,
-      "name": "Best Street Food Stall in Bangkok",
-      "description": "Authentic Thai cuisine and local specialties at this popular street food stall in Bangkok.",
+      "name": "Boat Noodles",
+      "description": "I remember slurping these noodles while sitting on a small stool at a street vendor, surrounded by locals enjoying their meals.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "20-30 baht per bowl",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
       ]
     },
     {
       "rank": 3,
-      "name": "Best Traditional Eatery in Bangkok",
-      "description": "Authentic Thai cuisine and local specialties at this popular traditional eatery in Bangkok.",
+      "name": "Mango Sticky Rice",
+      "description": "The first bite was pure bliss; it’s a must-try during mango season!",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "50-70 baht",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
       ]
     },
     {
       "rank": 4,
-      "name": "Best Rooftop Restaurant in Bangkok",
-      "description": "Authentic Thai cuisine and local specialties at this popular rooftop restaurant in Bangkok.",
+      "name": "Som Tum (Papaya Salad)",
+      "description": "I was introduced to this dish by a local friend, and the explosion of flavors was unforgettable.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "40-60 baht",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
       ]
     },
     {
       "rank": 5,
-      "name": "Best Market Food Court in Bangkok",
-      "description": "Authentic Thai cuisine and local specialties at this popular market food court in Bangkok.",
+      "name": "Khao Soi",
+      "description": "I discovered this dish during a trip to Chiang Mai and was thrilled to find it in Bangkok; it felt like a comforting hug on a rainy day.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "60-80 baht",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Roti Gluay (Banana Pancake)",
+      "description": "After a night out, this late-night snack became a ritual for me and my friends; it’s the ultimate comfort food.",
+      "cuisine_type": "Thai",
+      "price_range": "30-50 baht",
+      "highlights": [
+        "Local favorite",
+        "Authentic taste"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Tom Yum Goong",
+      "description": "Each spoonful reminded me of the warmth of Thai hospitality; it’s a dish that brings people together.",
+      "cuisine_type": "Thai",
+      "price_range": "80-120 baht",
+      "highlights": [
+        "Local favorite",
+        "Authentic taste"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Grilled Pork Skewers (Moo Yang)",
+      "description": "I’d grab these skewers on my way home from work; they were the perfect snack to tide me over until dinner.",
+      "cuisine_type": "Thai",
+      "price_range": "10-20 baht each",
+      "highlights": [
+        "Local favorite",
+        "Authentic taste"
       ]
     }
   ],
@@ -326,17 +500,18 @@
     }
   ],
   "travel_tips": [
-    "Best time to visit Bangkok is during the cool season (November-February)",
-    "Learn basic Thai phrases for better local interactions",
-    "Always carry cash as many places don't accept cards",
-    "Respect local customs and dress modestly at temples",
-    "Try local street food but choose busy stalls for freshness"
+    "When you see a monk, it’s customary to step aside and allow them to pass. If you're female, avoid physical contact.",
+    "Always negotiate the fare before starting your ride. It’s part of the experience.",
+    "Sharing dishes is common; don’t be afraid to order a variety and share with your table.",
+    "Always wear respectful clothing; shoulders and knees should be covered.",
+    "The traditional greeting involves a slight bow with your palms pressed together; it shows respect.",
+    "Avoid peak hours if you can; the traffic can be overwhelming."
   ],
   "best_time_to_visit": {
     "season": "Cool Season",
     "months": "November - February",
-    "weather": "Pleasant temperatures and less rainfall",
-    "reasons": "Ideal weather conditions for sightseeing and outdoor activities"
+    "weather": "Pleasant conditions",
+    "reasons": "Ideal weather for activities"
   },
   "budget_info": {
     "budget": "$30-50 per day",
@@ -344,6 +519,6 @@
     "luxury": "$100+ per day",
     "notes": "Budget includes accommodation, food, transportation, and activities"
   },
-  "enhanced_at": "2025-05-26T18:26:54.759Z",
+  "enhanced_at": "2025-05-26T18:41:25.130Z",
   "ai_generated": true
 }

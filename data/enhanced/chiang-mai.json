@@ -55,221 +55,366 @@
     "tourism",
     "guide"
   ],
-  "enhanced_description": "Northern Thailand’s cultural hub, known for its old city, night markets, temples, and nearby mountains.",
+  "enhanced_description": "Picture this: It's 6 AM and the city awakens, the sky still painted in soft pastels as the first rays of sunlight spill over the mountains. The sounds of distant gongs echo as the monks make their early morning alms rounds, their saffron robes glowing against the cool morning air. The aroma of fresh khao soy wafts from a nearby stall, a tantalizing mix of coconut milk and spices that beckons you to the streets. Chiang Mai is a sensory wonderland, a tapestry of culture, history, and natural beauty woven together with its vibrant local life.\n\nHaving lived in this enchanting city, I can tell you that what sets Chiang Mai apart from other Thai destinations isn’t just its stunning temples or bustling night markets; it’s the warmth of its people and the palpable sense of community. I remember my first visit to Wat Phra That Doi Suthep, one of the most revered temples perched on a mountain. The climb was steep, but the view from the top was worth every step. Standing there, overlooking the city with the mist swirling around me, I felt a deep connection to the land and its history. Locals believe that the temple houses a relic of the Buddha, and you can feel the reverence in the air.\n\nAs day transitions to night, the city transforms into a vibrant marketplace. The Sunday Night Market is a must-see, but don’t just stop at the food stalls; wander into the back alleys where local artisans showcase their crafts. One night, I stumbled upon a small booth where an elderly woman was weaving intricate patterns in silk. Her hands moved with a grace that told stories of generations past. I ended up spending hours there, listening to her tales about how her family had been weaving for over a century. Those are the moments that linger in your heart long after you leave.\n\nChiang Mai is also a gateway to some of the most breathtaking landscapes in Thailand. Just a short drive from the city, the mountains are dotted with elephant sanctuaries, where you can spend memorable days learning about these majestic creatures while ensuring they’re well cared for. I’ll never forget my first encounter, splashing water on a gentle giant named Waan. The joy on her face as she trumpeted a greeting was infectious, and it solidified my love for this place.\n\nWhat makes Chiang Mai truly special is that it feels like home. The locals are incredibly welcoming, and there’s a sense of belonging that envelops you. I often found myself at a small noodle shop where the owner greeted me by name and had my favorite dish ready before I even ordered. It’s these little connections that make Chiang Mai not just a destination, but a cherished memory that calls you back again and again.",
   "hidden_gems": [
     {
-      "name": "Local Market Near Doi Suthep",
-      "story": "There's a small local market that most tourists miss, tucked away near Doi Suthep. Locals do their daily shopping here.",
-      "how_to_find": "Ask any local for the 'talad sod' (fresh market)",
-      "best_time": "Early morning (6-9 AM) for the freshest items",
-      "local_insights": [
-        "Bring small bills",
-        "Try the local coffee"
-      ]
+      "name": "Wat Umong",
+      "description": "A serene forest temple that feels like a world away from the bustling city. The ancient tunnels and beautiful murals tell stories of meditation and reflection. I found solace here, often escaping the city noise. Best visited in the early morning when the sunlight filters through the trees and the atmosphere is peaceful.",
+      "how_to_find": "Located just outside the old city, take a red songthaew to the temple entrance.",
+      "personal_experience": "I met a monk here who shared insights about meditation practices, forever changing my perspective on mindfulness."
     },
     {
-      "name": "Sunset Viewpoint",
-      "story": "I discovered this quiet spot perfect for watching the sunset over Chiang Mai. No crowds, just peaceful views.",
-      "how_to_find": "Usually located on higher ground or by water",
-      "best_time": "30 minutes before sunset",
-      "local_insights": [
-        "Bring water",
-        "Best for photos"
-      ]
+      "name": "Bua Thong Waterfalls (Sticky Waterfalls)",
+      "description": "These unique waterfalls allow you to climb up their limestone surface without slipping, a fun and exhilarating experience. I spent a whole afternoon here, laughing and splashing around with friends.",
+      "how_to_find": "A bit off the beaten path, it's best to rent a scooter or take a guided tour to reach them.",
+      "personal_experience": "I’ll never forget the joy of seeing a group of children playing, their laughter echoing through the trees."
+    },
+    {
+      "name": "Ban Phor Liang Meun",
+      "description": "A hidden gem known for its handmade silver jewelry. The artisans here are incredibly talented, and I loved watching them at work. I ended up buying a couple of pieces that now hold a special place in my heart.",
+      "how_to_find": "Nestled in the old city, just ask locals for directions or follow the signs.",
+      "personal_experience": "The artisan even made a custom piece for me on the spot, a memory I'll cherish forever."
+    },
+    {
+      "name": "Art in Paradise",
+      "description": "An interactive 3D art museum where you can pose with amazing optical illusions. It’s a fun way to spend an afternoon away from temples and markets.",
+      "how_to_find": "Located near Nimmanhaemin, it’s easily reachable by taxi.",
+      "personal_experience": "I spent hours here with friends, creating ridiculous photos that still make us laugh."
+    },
+    {
+      "name": "Sankampaeng Hot Springs",
+      "description": "A relaxing spot to soak in natural hot springs. I often visited after a long week, enjoying the therapeutic waters while surrounded by lush greenery.",
+      "how_to_find": "About 30 minutes from the city center; best accessed via a rented car or scooter.",
+      "personal_experience": "The locals often bring their own food for picnics, and I loved joining in on the communal vibe."
     }
   ],
   "authentic_experiences": [
     {
-      "name": "Join a Local Temple Morning Routine",
-      "story": "Wake up early and join the locals giving alms to monks. It's a peaceful way to start the day and connect with Thai Buddhist culture.",
-      "cultural_significance": "Merit-making is central to Thai Buddhist practice",
-      "how_to_participate": "Arrive at 6 AM, buy food offerings from local vendors",
-      "insights": [
-        "Dress modestly",
-        "Follow local etiquette",
-        "Silent participation"
-      ]
+      "activity": "Participate in a local cooking class",
+      "description": "Learn to make traditional dishes like som tam (green papaya salad) and pad thai. I took a class with a local family, and it felt like a true cultural exchange.",
+      "personal_story": "The joy of cooking together, sharing stories, and then enjoying the meal we prepared was unforgettable."
     },
     {
-      "name": "Learn to Cook at a Local Home",
-      "story": "Skip the tourist cooking classes and learn from a Thai family. The dishes taste completely different when made with generations of knowledge.",
-      "cultural_significance": "Food is family heritage in Thailand",
-      "how_to_participate": "Ask guesthouse owners for family connections",
-      "insights": [
-        "Bring small gifts",
-        "Expect spicy food",
-        "Learn family recipes"
-      ]
+      "activity": "Join a Muay Thai class",
+      "description": "Experience the art of Thai boxing firsthand. I found a local gym that welcomed beginners, and the energy was electric.",
+      "personal_story": "The camaraderie with fellow students and the encouragement from trainers made it a highlight of my stay."
+    },
+    {
+      "activity": "Attend a traditional Lanna festival",
+      "description": "If you’re lucky enough to be in Chiang Mai during Yi Peng or Songkran, brace yourself for a sensory explosion of lanterns and water fights.",
+      "personal_story": "I released a lantern into the night sky, feeling a connection to the stories and traditions of the people."
+    },
+    {
+      "activity": "Volunteer at an elephant sanctuary",
+      "description": "Spend a day learning about and caring for rescued elephants. It’s an emotional and rewarding experience.",
+      "personal_story": "I formed a bond with an elephant named Bambi, who nuzzled me for treats; it was a day I will never forget."
+    },
+    {
+      "activity": "Take part in a meditation retreat",
+      "description": "Embrace tranquility in a local monastery. I spent a few days learning about self-reflection and mindfulness.",
+      "personal_story": "The peace I found during those days changed my approach to life back home."
     }
   ],
   "foodie_adventures": [
     {
-      "name": "Street-side Pad Thai",
-      "story": "The best pad thai I've ever had came from a cart that only operates after 6 PM. The vendor has been perfecting her recipe for 20 years.",
-      "dish": "Pad Thai",
-      "where_to_find": "Evening street food carts",
-      "price_range": "30-50 baht",
-      "ordering_tips": [
-        "Ask for 'mai pet' if you don't want spicy",
-        "Watch them cook it fresh"
-      ]
+      "dish": "Khao Soi",
+      "location": "Khao Soi Khun Yai",
+      "description": "This coconut curry noodle dish is a Northern specialty. The blend of spices and creamy coconut is out of this world.",
+      "personal_story": "I remember the first sip I took; it felt like a warm hug on a chilly day.",
+      "price_range": "60-80 baht"
     },
     {
-      "name": "Morning Market Som Tam",
-      "story": "The papaya salad at the local morning market is incredibly fresh - they pound it right in front of you with ingredients picked that morning.",
-      "dish": "Som Tam (Papaya Salad)",
-      "where_to_find": "Fresh markets, usually morning hours",
-      "price_range": "25-40 baht",
-      "ordering_tips": [
-        "Point to ingredients you want",
-        "Specify spice level"
-      ]
+      "dish": "Sai Oua (Northern Thai Sausage)",
+      "location": "Sai Oua vendor at the Sunday Market",
+      "description": "A fragrant blend of herbs and spices, grilled to perfection. It’s a must-try for meat lovers.",
+      "personal_story": "The vendor handed me a sample, and I was hooked instantly! The flavor was unlike anything I had tasted before.",
+      "price_range": "40 baht per stick"
+    },
+    {
+      "dish": "Nam Prik Ong",
+      "location": "Local food stall in Nimmanhaemin",
+      "description": "A tomato-based chili dip served with fresh vegetables and sticky rice. It’s the quintessential Northern appetizer.",
+      "personal_story": "Sharing a plate with locals while swapping stories was one of my favorite dining experiences.",
+      "price_range": "50 baht"
+    },
+    {
+      "dish": "Mango Sticky Rice",
+      "location": "Mango Tango",
+      "description": "The perfect dessert, sweet and creamy. It’s a delight to savor on a hot day.",
+      "personal_story": "I often indulged after meals, feeling like I was treating myself to a slice of paradise.",
+      "price_range": "60-70 baht"
+    },
+    {
+      "dish": "Khan Toke Dinner",
+      "location": "Old Chiang Mai Cultural Center",
+      "description": "A traditional Lanna dining experience with local dishes served on a wooden platter. It’s accompanied by cultural performances.",
+      "personal_story": "The rhythm of traditional music while enjoying dinner was a magical experience.",
+      "price_range": "300-500 baht"
+    },
+    {
+      "dish": "Sticky Rice with Grilled Chicken",
+      "location": "Street vendor near the Night Bazaar",
+      "description": "Simple yet satisfying, this dish is perfect for a late-night snack.",
+      "personal_story": "I loved grabbing this after a night out, savoring the smoky flavor while wandering the streets.",
+      "price_range": "40 baht"
+    },
+    {
+      "dish": "Larb (Spicy Meat Salad)",
+      "location": "Local market stall",
+      "description": "A zesty and spicy salad that packs a punch. It’s refreshing and perfect for hot days.",
+      "personal_story": "The first time I tried it, my taste buds were dancing; it's a dish that truly represents the local palate.",
+      "price_range": "50-60 baht"
+    },
+    {
+      "dish": "Roti",
+      "location": "Street vendor in the Old City",
+      "description": "A flaky, crispy pancake that can be filled with sweet or savory options. I always opted for banana and condensed milk.",
+      "personal_story": "Late-night roti runs became a cherished ritual for me and my friends.",
+      "price_range": "30-50 baht"
     }
   ],
   "local_insights": [
-    "Locals eat dinner much earlier than in Western countries - around 6-7 PM",
-    "Pointing with your index finger is considered rude - use an open hand instead",
-    "Remove shoes before entering homes and some shops",
-    "The king is deeply revered - always show respect when his image or anthem appears",
-    "Tipping is not expected but small amounts are appreciated for good service",
-    "Learn the word 'krub' (for men) or 'ka' (for women) - it makes any sentence more polite"
+    {
+      "observation": "The pace of life is slower here; it encourages you to slow down and appreciate each moment.",
+      "tip": "Don’t rush your meals; dining is a social event."
+    },
+    {
+      "observation": "Chiang Mai has a strong sense of community; festivals and events are often attended by locals and visitors alike.",
+      "tip": "Join in on community events; they’re a great way to connect with people."
+    },
+    {
+      "observation": "Locals are incredibly friendly but may be shy at first.",
+      "tip": "A simple smile can go a long way to break the ice."
+    },
+    {
+      "observation": "The importance of respect for traditions and customs is woven into daily life.",
+      "tip": "When visiting temples, dress modestly and remove your shoes."
+    },
+    {
+      "observation": "Language barriers exist, but gestures and smiles often bridge the gap.",
+      "tip": "Learning a few Thai phrases can enhance your experience."
+    },
+    {
+      "observation": "Sunday is a family day; many locals spend it at the market or parks.",
+      "tip": "Visit the Sunday Market for a lively atmosphere."
+    },
+    {
+      "observation": "Chiang Mai has a creative spirit, reflected in its art and music scenes.",
+      "tip": "Check out local galleries and live music events; they’re often free or donation-based."
+    },
+    {
+      "observation": "Street food is a way of life, and the best meals are often found in local stalls.",
+      "tip": "Follow the locals; they know the best spots."
+    }
   ],
   "seasonal_secrets": {
-    "best_season": "Cool Season (November-February)",
-    "why": "Most comfortable weather for walking and outdoor activities",
+    "best_times": {
+      "November": "Ideal for experiencing Yi Peng Lantern Festival; thousands of lanterns fill the night sky.",
+      "February": "Perfect for the flower festival, showcasing the city’s floral beauty.",
+      "April": "Great for Songkran, the water festival; be ready for epic water fights!"
+    },
     "local_festivals": [
-      "Loy Krathong (November)",
-      "Chinese New Year (February)"
+      "Yi Peng Festival (November) - Don't miss the stunning lanterns lighting up the night sky.",
+      "Songkran (April) - Experience the traditional Thai New Year with water fights and festivities."
     ],
-    "seasonal_foods": [
-      "Cool season fruits",
-      "Hot soups and warming dishes"
-    ],
-    "insider_tips": [
-      "Book accommodations early during peak season",
-      "Rainy season (July-October) has fewer crowds and lower prices",
-      "Hot season (March-June) is perfect for indoor activities and temples"
-    ]
+    "seasonal_foods": {
+      "November": "Enjoy seasonal fruits like lychee and mangosteen.",
+      "April": "Try cooling dishes like som tam to beat the heat."
+    },
+    "insider_tips": {
+      "November": "Book accommodation early for Yi Peng; it's a popular time.",
+      "April": "Stay hydrated and protect your electronics during Songkran festivities."
+    }
   },
   "budget_reality": {
-    "budget": "$25-40 per day",
-    "mid_range": "$40-80 per day",
-    "luxury": "$80+ per day",
-    "examples": [
-      "Street food meal: 30-60 baht",
-      "Local restaurant: 80-150 baht",
-      "Tuk-tuk ride: 100-200 baht",
-      "Temple entrance: 20-100 baht"
-    ],
+    "daily_costs": {
+      "Breakfast": "Local stall: 40 baht for a bowl of rice soup.",
+      "Lunch": "Street vendor: 50 baht for a serving of pad thai.",
+      "Dinner": "Mid-range restaurant: 200 baht for a meal with drinks.",
+      "Transportation": "Red songthaew: 30 baht for a ride across town.",
+      "Total": "Expect to spend around 400-600 baht daily if you eat local and explore."
+    },
     "money_saving_tricks": [
-      "Eat where locals eat - much cheaper and often better",
-      "Use public transport instead of taxis",
-      "Buy fruit from markets instead of tourist areas",
-      "Stay in local guesthouses rather than international hotels"
+      "Eat where the locals eat; street food is delicious and affordable.",
+      "Use public transport or walk to save on transportation costs."
+    ],
+    "where_to_splurge": [
+      "Consider splurging on a cooking class or a unique cultural experience; it’s worth the investment."
     ],
     "hidden_costs": [
-      "Tourist temples often charge entrance fees",
-      "Tuk-tuks will overcharge tourists",
-      "Airport food is 3x more expensive",
-      "Tourist markets have inflated prices"
+      "Be aware of entry fees at some attractions and plan accordingly.",
+      "Tipping is appreciated but not mandatory; 10% is common in restaurants."
     ]
   },
   "top_attractions": [
     {
       "rank": 1,
-      "name": "Doi Suthep",
-      "description": "Experience Doi Suthep in Chiang Mai, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Wat Umong",
+      "description": "A serene forest temple that feels like a world away from the bustling city. The ancient tunnels and beautiful murals tell stories of meditation and reflection. I found solace here, often escaping the city noise. Best visited in the early morning when the sunlight filters through the trees and the atmosphere is peaceful.",
+      "location": "Located just outside the old city, take a red songthaew to the temple entrance.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 2,
-      "name": "Old City",
-      "description": "Experience Old City in Chiang Mai, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Bua Thong Waterfalls (Sticky Waterfalls)",
+      "description": "These unique waterfalls allow you to climb up their limestone surface without slipping, a fun and exhilarating experience. I spent a whole afternoon here, laughing and splashing around with friends.",
+      "location": "A bit off the beaten path, it's best to rent a scooter or take a guided tour to reach them.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 3,
-      "name": "Sunday Night Market",
-      "description": "Experience Sunday Night Market in Chiang Mai, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Ban Phor Liang Meun",
+      "description": "A hidden gem known for its handmade silver jewelry. The artisans here are incredibly talented, and I loved watching them at work. I ended up buying a couple of pieces that now hold a special place in my heart.",
+      "location": "Nestled in the old city, just ask locals for directions or follow the signs.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 4,
-      "name": "Elephant Sanctuary",
-      "description": "Experience Elephant Sanctuary in Chiang Mai, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Art in Paradise",
+      "description": "An interactive 3D art museum where you can pose with amazing optical illusions. It’s a fun way to spend an afternoon away from temples and markets.",
+      "location": "Located near Nimmanhaemin, it’s easily reachable by taxi.",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Sankampaeng Hot Springs",
+      "description": "A relaxing spot to soak in natural hot springs. I often visited after a long week, enjoying the therapeutic waters while surrounded by lush greenery.",
+      "location": "About 30 minutes from the city center; best accessed via a rented car or scooter.",
+      "highlights": [
+        "Hidden gem",
+        "Local favorite"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Participate in a local cooking class",
+      "description": "Learn to make traditional dishes like som tam (green papaya salad) and pad thai. I took a class with a local family, and it felt like a true cultural exchange.",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Join a Muay Thai class",
+      "description": "Experience the art of Thai boxing firsthand. I found a local gym that welcomed beginners, and the energy was electric.",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Attend a traditional Lanna festival",
+      "description": "If you’re lucky enough to be in Chiang Mai during Yi Peng or Songkran, brace yourself for a sensory explosion of lanterns and water fights.",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
       ]
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Best Local Thai Restaurant in Chiang Mai",
-      "description": "Authentic Thai cuisine and local specialties at this popular local thai restaurant in Chiang Mai.",
+      "name": "Khao Soi",
+      "description": "This coconut curry noodle dish is a Northern specialty. The blend of spices and creamy coconut is out of this world.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "60-80 baht",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
       ]
     },
     {
       "rank": 2,
-      "name": "Best Street Food Stall in Chiang Mai",
-      "description": "Authentic Thai cuisine and local specialties at this popular street food stall in Chiang Mai.",
+      "name": "Sai Oua (Northern Thai Sausage)",
+      "description": "A fragrant blend of herbs and spices, grilled to perfection. It’s a must-try for meat lovers.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "40 baht per stick",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
       ]
     },
     {
       "rank": 3,
-      "name": "Best Traditional Eatery in Chiang Mai",
-      "description": "Authentic Thai cuisine and local specialties at this popular traditional eatery in Chiang Mai.",
+      "name": "Nam Prik Ong",
+      "description": "A tomato-based chili dip served with fresh vegetables and sticky rice. It’s the quintessential Northern appetizer.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "50 baht",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
       ]
     },
     {
       "rank": 4,
-      "name": "Best Rooftop Restaurant in Chiang Mai",
-      "description": "Authentic Thai cuisine and local specialties at this popular rooftop restaurant in Chiang Mai.",
+      "name": "Mango Sticky Rice",
+      "description": "The perfect dessert, sweet and creamy. It’s a delight to savor on a hot day.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "60-70 baht",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
       ]
     },
     {
       "rank": 5,
-      "name": "Best Market Food Court in Chiang Mai",
-      "description": "Authentic Thai cuisine and local specialties at this popular market food court in Chiang Mai.",
+      "name": "Khan Toke Dinner",
+      "description": "A traditional Lanna dining experience with local dishes served on a wooden platter. It’s accompanied by cultural performances.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "300-500 baht",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Sticky Rice with Grilled Chicken",
+      "description": "Simple yet satisfying, this dish is perfect for a late-night snack.",
+      "cuisine_type": "Thai",
+      "price_range": "40 baht",
+      "highlights": [
+        "Local favorite",
+        "Authentic taste"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Larb (Spicy Meat Salad)",
+      "description": "A zesty and spicy salad that packs a punch. It’s refreshing and perfect for hot days.",
+      "cuisine_type": "Thai",
+      "price_range": "50-60 baht",
+      "highlights": [
+        "Local favorite",
+        "Authentic taste"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Roti",
+      "description": "A flaky, crispy pancake that can be filled with sweet or savory options. I always opted for banana and condensed milk.",
+      "cuisine_type": "Thai",
+      "price_range": "30-50 baht",
+      "highlights": [
+        "Local favorite",
+        "Authentic taste"
       ]
     }
   ],
@@ -326,17 +471,18 @@
     }
   ],
   "travel_tips": [
-    "Best time to visit Chiang Mai is during the cool season (November-February)",
-    "Learn basic Thai phrases for better local interactions",
-    "Always carry cash as many places don't accept cards",
-    "Respect local customs and dress modestly at temples",
-    "Try local street food but choose busy stalls for freshness"
+    "Don’t rush your meals; dining is a social event.",
+    "Join in on community events; they’re a great way to connect with people.",
+    "A simple smile can go a long way to break the ice.",
+    "When visiting temples, dress modestly and remove your shoes.",
+    "Learning a few Thai phrases can enhance your experience.",
+    "Visit the Sunday Market for a lively atmosphere."
   ],
   "best_time_to_visit": {
     "season": "Cool Season",
     "months": "November - February",
-    "weather": "Pleasant temperatures and less rainfall",
-    "reasons": "Ideal weather conditions for sightseeing and outdoor activities"
+    "weather": "Pleasant conditions",
+    "reasons": "Ideal weather for activities"
   },
   "budget_info": {
     "budget": "$30-50 per day",
@@ -344,6 +490,6 @@
     "luxury": "$100+ per day",
     "notes": "Budget includes accommodation, food, transportation, and activities"
   },
-  "enhanced_at": "2025-05-26T18:26:26.906Z",
+  "enhanced_at": "2025-05-26T18:42:13.745Z",
   "ai_generated": true
 }

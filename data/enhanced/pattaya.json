@@ -55,221 +55,340 @@
     "tourism",
     "guide"
   ],
-  "enhanced_description": "Lively coastal city close to Bangkok, known for beaches, nightlife, and family attractions.",
+  "enhanced_description": "Picture this: It's 6 AM and the city awakens, the sun casting golden rays over the turquoise waters of Pattaya Bay. The salty breeze kisses your skin as you stroll along the nearly deserted Jomtien Beach, where only a few early risers jog by, their feet splashing in the gentle waves. The beach umbrellas, colorful and vibrant, stand like soldiers awaiting the day's guests, but for now, it's just you and the rhythmic sound of the waves crashing against the shore. The air is infused with the earthy scent of fresh coconuts being cracked open by a local vendor, and you can't resist grabbing one to sip on as you watch the world slowly wake up around you.\n\nAs the sun climbs higher, Pattaya transforms from a sleepy coastal town into a bustling hub of activity. You head to the Sanctuary of Truth, a mesmerizing wooden temple that seems to rise out of the earth itself. Each intricate carving tells a story of Thai mythology and philosophy, and you find yourself wandering in awe, wondering how such beauty could come from the hands of artisans. I remember spending hours there, engaged in conversation with a monk who shared his insights on life and spirituality—an experience that felt truly special amidst the tourists.\n\nPattaya is known for its vibrant nightlife, but it’s so much more than just the raucous parties of Walking Street. Sure, you can find plenty of bars and clubs there, but what truly sets this city apart is its ability to cater to every kind of traveler. Take a stroll down the beach at dusk, and you’ll be enveloped by the sound of local musicians strumming their guitars while families gather for a picnic, the smell of grilled seafood wafting through the air. It’s a scene that feels so alive, yet so intimate.\n\nOn weekends, the Pattaya Floating Market is a must-visit. Navigating the labyrinth of wooden walkways, you’ll discover local artisans peddling handmade crafts and food stalls offering mouthwatering delicacies. I remember trying the grilled squid, cooked to perfection and seasoned with a spicy dip that made my taste buds dance. The best part? The locals are incredibly friendly, ready to share their stories and food recommendations—it’s a slice of Thai culture wrapped in a festive atmosphere.\n\nWhat I love most about Pattaya is the balance it strikes between relaxation and adventure. One day, I’d be lounging on the gorgeous sands of Wong Amat Beach, the next, I’d be soaring high on a parasail, taking in breathtaking views of the coastline. The laid-back vibe offers you the chance to recharge before diving headfirst into the myriad of activities available.\n\nIn essence, Pattaya isn’t just a destination; it’s an experience that captivates your senses and stays with you long after you leave. From the tranquil beaches to the vibrant markets and the rich tapestry of culture, it’s a place that invites you to explore and discover, making it unlike any other spot in Thailand. With every corner turned, there’s a story waiting to unfold, a friendship to be made, and a memory to cherish. That’s the magic of Pattaya, and I can’t wait to share it with you.",
   "hidden_gems": [
     {
-      "name": "Local Market Near Walking Street",
-      "story": "There's a small local market that most tourists miss, tucked away near Walking Street. Locals do their daily shopping here.",
-      "how_to_find": "Ask any local for the 'talad sod' (fresh market)",
-      "best_time": "Early morning (6-9 AM) for the freshest items",
-      "local_insights": [
-        "Bring small bills",
-        "Try the local coffee"
-      ]
+      "name": "Koh Larn (Coral Island)",
+      "description": "Just a short boat ride from Pattaya, this island feels like a hidden paradise. I discovered it on a whim, and the moment I stepped onto its sandy shores, I knew I had stumbled upon something special. The water is crystal clear, perfect for snorkeling, and the local beach shacks serve the freshest seafood. Visit early in the morning to beat the crowds and soak in the tranquility before the day-trippers arrive."
     },
     {
-      "name": "Sunset Viewpoint",
-      "story": "I discovered this quiet spot perfect for watching the sunset over Pattaya. No crowds, just peaceful views.",
-      "how_to_find": "Usually located on higher ground or by water",
-      "best_time": "30 minutes before sunset",
-      "local_insights": [
-        "Bring water",
-        "Best for photos"
-      ]
+      "name": "Art in Paradise",
+      "description": "This interactive 3D art museum is a playful escape. I spent hours here, taking silly photos with the art that seemed to jump off the walls. It's not just for kids; locals often visit for a fun day out. Best time to go? Weekdays, when it’s less crowded, and you can truly enjoy the creativity without the hustle and bustle."
+    },
+    {
+      "name": "Thepprasit Night Market",
+      "description": "A local favorite, this market comes alive every weekend. The aroma of street food fills the air—try the Pad Thai from the vendor in the corner, it's a game-changer! I loved wandering through the stalls, haggling for handmade crafts and chatting with locals. Arrive just before sunset for the best atmosphere and a chance to see the vibrant lights come to life."
+    },
+    {
+      "name": "Pattaya Elephant Village",
+      "description": "A sanctuary for rescued elephants, this place is a beautiful escape from the city. I took part in an elephant feeding session and learned about their care from the locals. It’s a heartwarming experience that offers insight into the relationships between these magnificent creatures and their keepers. Go in the morning when the elephants are most active."
+    },
+    {
+      "name": "Dinosaur Park",
+      "description": "A quirky spot that’s fun for families but often overlooked by travelers. I stumbled upon it one day while exploring and found myself laughing at the lifelike dinosaur models. The park is small, but it’s a delightful way to spend an afternoon away from the beach. Visit in the late afternoon to catch the sunset views over the park."
     }
   ],
   "authentic_experiences": [
     {
-      "name": "Join a Local Temple Morning Routine",
-      "story": "Wake up early and join the locals giving alms to monks. It's a peaceful way to start the day and connect with Thai Buddhist culture.",
-      "cultural_significance": "Merit-making is central to Thai Buddhist practice",
-      "how_to_participate": "Arrive at 6 AM, buy food offerings from local vendors",
-      "insights": [
-        "Dress modestly",
-        "Follow local etiquette",
-        "Silent participation"
-      ]
+      "activity": "Thai Cooking Class",
+      "description": "Dive into the vibrant world of Thai cuisine with a local chef. I took a class in a small, family-run kitchen and learned how to make my own green curry. The best part was visiting the local market to pick out fresh ingredients—it was a feast for the senses!"
     },
     {
-      "name": "Learn to Cook at a Local Home",
-      "story": "Skip the tourist cooking classes and learn from a Thai family. The dishes taste completely different when made with generations of knowledge.",
-      "cultural_significance": "Food is family heritage in Thailand",
-      "how_to_participate": "Ask guesthouse owners for family connections",
-      "insights": [
-        "Bring small gifts",
-        "Expect spicy food",
-        "Learn family recipes"
-      ]
+      "activity": "Muay Thai Training Session",
+      "description": "Experience the art of Muay Thai at a local gym. I was nervous at first, but the trainers welcomed me with open arms. It was an exhilarating way to learn about this traditional sport, and I left with sore muscles and a sense of accomplishment."
+    },
+    {
+      "activity": "Visit a Local Temple",
+      "description": "While the Sanctuary of Truth is stunning, I found peace at Wat Phra Yai, home to the giant Buddha statue. I spent hours meditating and observing locals praying, soaking in the spirituality of the place."
+    },
+    {
+      "activity": "Join a Beach Clean-Up",
+      "description": "Give back to the community by participating in a beach clean-up. I joined a local group one Saturday morning, and it was a rewarding experience. Not only did I meet like-minded individuals, but I also felt a deeper connection to the beautiful beaches I loved."
+    },
+    {
+      "activity": "Fishing Trip with Locals",
+      "description": "I went on a fishing trip with some local fishermen and learned the traditional techniques they use. Not only did I catch my dinner, but I also heard incredible stories about their lives on the water."
     }
   ],
   "foodie_adventures": [
     {
-      "name": "Street-side Pad Thai",
-      "story": "The best pad thai I've ever had came from a cart that only operates after 6 PM. The vendor has been perfecting her recipe for 20 years.",
-      "dish": "Pad Thai",
-      "where_to_find": "Evening street food carts",
-      "price_range": "30-50 baht",
-      "ordering_tips": [
-        "Ask for 'mai pet' if you don't want spicy",
-        "Watch them cook it fresh"
-      ]
+      "dish": "Som Tum (Papaya Salad)",
+      "location": "Pattaya Beach Road",
+      "story": "I was introduced to this spicy salad by a street vendor who made it right in front of me. The crunch of the papaya mixed with the heat of the chilies was electric. It’s a staple here, and you can customize the spice level to your liking."
     },
     {
-      "name": "Morning Market Som Tam",
-      "story": "The papaya salad at the local morning market is incredibly fresh - they pound it right in front of you with ingredients picked that morning.",
-      "dish": "Som Tam (Papaya Salad)",
-      "where_to_find": "Fresh markets, usually morning hours",
-      "price_range": "25-40 baht",
-      "ordering_tips": [
-        "Point to ingredients you want",
-        "Specify spice level"
-      ]
+      "dish": "Tom Yum Goong (Spicy Shrimp Soup)",
+      "location": "The Glass House",
+      "story": "Sipping on this tangy soup while watching the sunset was pure bliss. The balance of flavors—spicy, sour, and savory—made it unforgettable. The restaurant is styled right on the beach, perfect for a romantic evening."
+    },
+    {
+      "dish": "Khao Soi (Curry Noodle Soup)",
+      "location": "Khao Soi Khun Yai",
+      "story": "I discovered this northern Thai delicacy while exploring Pattaya’s food scene. The creamy coconut broth paired with crispy noodles is a comfort food that warms you from the inside out. The owner shared family recipes with me—it felt like a true home-cooked meal."
+    },
+    {
+      "dish": "Mango Sticky Rice",
+      "location": "Local Market",
+      "story": "After a long day of exploring, I indulged in this sweet treat. The sticky rice is perfectly cooked and paired with ripe mango, drizzled with coconut milk. It’s the perfect way to cool down on a hot day!"
+    },
+    {
+      "dish": "Pad See Ew (Stir-Fried Noodles)",
+      "location": "Auntie’s Noodle Shop",
+      "story": "I stumbled upon this little shop while wandering the streets. The auntie who ran it was a character, always laughing and sharing stories. Her Pad See Ew was the best I’ve ever had, and it was so affordable!"
+    },
+    {
+      "dish": "Grilled Seafood",
+      "location": "Jomtien Beach",
+      "story": "Nothing compares to the fresh seafood grilled right on the beach. I spent an evening here, chatting with locals while indulging in prawns and calamari, all cooked to perfection. The experience of eating with your hands while the waves crash nearby is unforgettable."
+    },
+    {
+      "dish": "Khanom Jeen (Fermented Rice Noodles)",
+      "location": "Local Breakfast Stalls",
+      "story": "These noodles, served with various curries and fresh veggies, were a delicious surprise. I loved how locals enjoyed them for breakfast, and the flavors were unlike anything else I had tried. It’s an adventure for your palate!"
+    },
+    {
+      "dish": "Roti (Thai Pancake)",
+      "location": "Street Vendors",
+      "story": "Late-night snacks never tasted so good. I would often grab a roti from the street vendors, crispy on the outside and stuffed with banana and condensed milk. It’s my guilty pleasure after a night out!"
     }
   ],
   "local_insights": [
-    "Locals eat dinner much earlier than in Western countries - around 6-7 PM",
-    "Pointing with your index finger is considered rude - use an open hand instead",
-    "Remove shoes before entering homes and some shops",
-    "The king is deeply revered - always show respect when his image or anthem appears",
-    "Tipping is not expected but small amounts are appreciated for good service",
-    "Learn the word 'krub' (for men) or 'ka' (for women) - it makes any sentence more polite"
+    {
+      "observation": "Time is fluid in Pattaya.",
+      "tip": "Don't be surprised if locals arrive late for appointments. Embrace the relaxed pace of life here—it's part of the charm!"
+    },
+    {
+      "observation": "Respect for the monarchy is paramount.",
+      "tip": "Stand up during the national anthem, played frequently in public spaces. It’s a sign of respect that goes a long way with locals."
+    },
+    {
+      "observation": "Smiles and gestures speak volumes.",
+      "tip": "A simple smile can break barriers. Learn a few Thai phrases; locals appreciate the effort and are more likely to engage."
+    },
+    {
+      "observation": "Street food is a way of life.",
+      "tip": "Be adventurous! Try food from vendors—it's often fresher and tastier than in restaurants. Just look for busy stalls; they’re a good sign."
+    },
+    {
+      "observation": "Dress codes vary.",
+      "tip": "While casual beachwear is fine, cover up when visiting temples. It shows respect for local customs."
+    },
+    {
+      "observation": "Bargaining is part of the shopping experience.",
+      "tip": "Don’t be afraid to haggle at markets. It’s expected and can lead to good deals (and smiles)!"
+    },
+    {
+      "observation": "Pattaya’s nightlife is diverse.",
+      "tip": "Explore beyond Walking Street; check out local bars and live music venues for a different vibe."
+    },
+    {
+      "observation": "Family life is cherished.",
+      "tip": "You’ll see families enjoying parks and beaches. Join in the fun—pick up a game of beach volleyball or frisbee!"
+    }
   ],
   "seasonal_secrets": {
-    "best_season": "Cool Season (November-February)",
-    "why": "Most comfortable weather for walking and outdoor activities",
-    "local_festivals": [
-      "Loy Krathong (November)",
-      "Chinese New Year (February)"
-    ],
-    "seasonal_foods": [
-      "Cool season fruits",
-      "Hot soups and warming dishes"
-    ],
-    "insider_tips": [
-      "Book accommodations early during peak season",
-      "Rainy season (July-October) has fewer crowds and lower prices",
-      "Hot season (March-June) is perfect for indoor activities and temples"
-    ]
+    "best_times": {
+      "beaches": "November to February, when the weather is cool and dry.",
+      "nightlife": "All year round, but the energy peaks during high season (December to January).",
+      "cultural_events": "Songkran in April, the Thai New Year, is a must-see with water fights and celebrations."
+    },
+    "local_festivals": {
+      "event": "Loy Krathong",
+      "date": "November",
+      "description": "Witness the magical sight of lanterns lighting up the sky. Join locals in floating Krathongs on the water—it's an experience you won't forget."
+    },
+    "seasonal_foods": {
+      "season": "Mango Season",
+      "months": "April to June",
+      "foods": [
+        "Mango Sticky Rice",
+        "Green Mango Salad"
+      ]
+    },
+    "insider_tips": {
+      "tip": "Visit during the rainy season (May to October) for fewer crowds and lower prices. Don't let the rain deter you; the city still buzzes with life!"
+    }
   },
   "budget_reality": {
-    "budget": "$25-40 per day",
-    "mid_range": "$40-80 per day",
-    "luxury": "$80+ per day",
-    "examples": [
-      "Street food meal: 30-60 baht",
-      "Local restaurant: 80-150 baht",
-      "Tuk-tuk ride: 100-200 baht",
-      "Temple entrance: 20-100 baht"
-    ],
+    "daily_costs": {
+      "breakfast": "40 baht at a local stall for a bowl of noodles.",
+      "lunch": "70 baht for a plate of fried rice at a nearby eatery.",
+      "dinner": "150 baht for a seafood feast at the beach.",
+      "transport": "10-20 baht for a songthaew (shared taxi) ride around town."
+    },
     "money_saving_tricks": [
-      "Eat where locals eat - much cheaper and often better",
-      "Use public transport instead of taxis",
-      "Buy fruit from markets instead of tourist areas",
-      "Stay in local guesthouses rather than international hotels"
+      "Eat like a local; street food is both delicious and cheap.",
+      "Use public transport instead of taxis to cut costs.",
+      "Shop at local markets for souvenirs instead of tourist shops."
     ],
+    "splurge_vs_save": {
+      "splurge": "Dining at a beachfront restaurant for a memorable meal.",
+      "save": "Enjoying drinks at local bars instead of pricey clubs."
+    },
     "hidden_costs": [
-      "Tourist temples often charge entrance fees",
-      "Tuk-tuks will overcharge tourists",
-      "Airport food is 3x more expensive",
-      "Tourist markets have inflated prices"
+      "Expect small entry fees at various attractions.",
+      "Keep in mind that some activities may require additional costs for gear or guides."
     ]
   },
   "top_attractions": [
     {
       "rank": 1,
-      "name": "Walking Street",
-      "description": "Experience Walking Street in Pattaya, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Koh Larn (Coral Island)",
+      "description": "Just a short boat ride from Pattaya, this island feels like a hidden paradise. I discovered it on a whim, and the moment I stepped onto its sandy shores, I knew I had stumbled upon something special. The water is crystal clear, perfect for snorkeling, and the local beach shacks serve the freshest seafood. Visit early in the morning to beat the crowds and soak in the tranquility before the day-trippers arrive.",
+      "location": "Local area",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 2,
-      "name": "Sanctuary of Truth",
-      "description": "Experience Sanctuary of Truth in Pattaya, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Art in Paradise",
+      "description": "This interactive 3D art museum is a playful escape. I spent hours here, taking silly photos with the art that seemed to jump off the walls. It's not just for kids; locals often visit for a fun day out. Best time to go? Weekdays, when it’s less crowded, and you can truly enjoy the creativity without the hustle and bustle.",
+      "location": "Local area",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 3,
-      "name": "Jomtien Beach",
-      "description": "Experience Jomtien Beach in Pattaya, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Thepprasit Night Market",
+      "description": "A local favorite, this market comes alive every weekend. The aroma of street food fills the air—try the Pad Thai from the vendor in the corner, it's a game-changer! I loved wandering through the stalls, haggling for handmade crafts and chatting with locals. Arrive just before sunset for the best atmosphere and a chance to see the vibrant lights come to life.",
+      "location": "Local area",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
       ]
     },
     {
       "rank": 4,
-      "name": "Floating Market",
-      "description": "Experience Floating Market in Pattaya, one of the top attractions in this beautiful Thai destination.",
-      "location": "City Center",
+      "name": "Pattaya Elephant Village",
+      "description": "A sanctuary for rescued elephants, this place is a beautiful escape from the city. I took part in an elephant feeding session and learned about their care from the locals. It’s a heartwarming experience that offers insight into the relationships between these magnificent creatures and their keepers. Go in the morning when the elephants are most active.",
+      "location": "Local area",
       "highlights": [
-        "Must-see attraction",
-        "Great for photos"
+        "Hidden gem",
+        "Local favorite"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Dinosaur Park",
+      "description": "A quirky spot that’s fun for families but often overlooked by travelers. I stumbled upon it one day while exploring and found myself laughing at the lifelike dinosaur models. The park is small, but it’s a delightful way to spend an afternoon away from the beach. Visit in the late afternoon to catch the sunset views over the park.",
+      "location": "Local area",
+      "highlights": [
+        "Hidden gem",
+        "Local favorite"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Thai Cooking Class",
+      "description": "Dive into the vibrant world of Thai cuisine with a local chef. I took a class in a small, family-run kitchen and learned how to make my own green curry. The best part was visiting the local market to pick out fresh ingredients—it was a feast for the senses!",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Muay Thai Training Session",
+      "description": "Experience the art of Muay Thai at a local gym. I was nervous at first, but the trainers welcomed me with open arms. It was an exhilarating way to learn about this traditional sport, and I left with sore muscles and a sense of accomplishment.",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Visit a Local Temple",
+      "description": "While the Sanctuary of Truth is stunning, I found peace at Wat Phra Yai, home to the giant Buddha statue. I spent hours meditating and observing locals praying, soaking in the spirituality of the place.",
+      "location": "City area",
+      "highlights": [
+        "Authentic experience",
+        "Cultural activity"
       ]
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Best Local Thai Restaurant in Pattaya",
-      "description": "Authentic Thai cuisine and local specialties at this popular local thai restaurant in Pattaya.",
+      "name": "Som Tum (Papaya Salad)",
+      "description": "I was introduced to this spicy salad by a street vendor who made it right in front of me. The crunch of the papaya mixed with the heat of the chilies was electric. It’s a staple here, and you can customize the spice level to your liking.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
       ]
     },
     {
       "rank": 2,
-      "name": "Best Street Food Stall in Pattaya",
-      "description": "Authentic Thai cuisine and local specialties at this popular street food stall in Pattaya.",
+      "name": "Tom Yum Goong (Spicy Shrimp Soup)",
+      "description": "Sipping on this tangy soup while watching the sunset was pure bliss. The balance of flavors—spicy, sour, and savory—made it unforgettable. The restaurant is styled right on the beach, perfect for a romantic evening.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
       ]
     },
     {
       "rank": 3,
-      "name": "Best Traditional Eatery in Pattaya",
-      "description": "Authentic Thai cuisine and local specialties at this popular traditional eatery in Pattaya.",
+      "name": "Khao Soi (Curry Noodle Soup)",
+      "description": "I discovered this northern Thai delicacy while exploring Pattaya’s food scene. The creamy coconut broth paired with crispy noodles is a comfort food that warms you from the inside out. The owner shared family recipes with me—it felt like a true home-cooked meal.",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
       ]
     },
     {
       "rank": 4,
-      "name": "Best Rooftop Restaurant in Pattaya",
-      "description": "Authentic Thai cuisine and local specialties at this popular rooftop restaurant in Pattaya.",
+      "name": "Mango Sticky Rice",
+      "description": "After a long day of exploring, I indulged in this sweet treat. The sticky rice is perfectly cooked and paired with ripe mango, drizzled with coconut milk. It’s the perfect way to cool down on a hot day!",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
       ]
     },
     {
       "rank": 5,
-      "name": "Best Market Food Court in Pattaya",
-      "description": "Authentic Thai cuisine and local specialties at this popular market food court in Pattaya.",
+      "name": "Pad See Ew (Stir-Fried Noodles)",
+      "description": "I stumbled upon this little shop while wandering the streets. The auntie who ran it was a character, always laughing and sharing stories. Her Pad See Ew was the best I’ve ever had, and it was so affordable!",
       "cuisine_type": "Thai",
-      "price_range": "$10-30",
+      "price_range": "$5-20",
       "highlights": [
-        "Authentic cuisine",
-        "Local favorite"
+        "Local favorite",
+        "Authentic taste"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Grilled Seafood",
+      "description": "Nothing compares to the fresh seafood grilled right on the beach. I spent an evening here, chatting with locals while indulging in prawns and calamari, all cooked to perfection. The experience of eating with your hands while the waves crash nearby is unforgettable.",
+      "cuisine_type": "Thai",
+      "price_range": "$5-20",
+      "highlights": [
+        "Local favorite",
+        "Authentic taste"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Khanom Jeen (Fermented Rice Noodles)",
+      "description": "These noodles, served with various curries and fresh veggies, were a delicious surprise. I loved how locals enjoyed them for breakfast, and the flavors were unlike anything else I had tried. It’s an adventure for your palate!",
+      "cuisine_type": "Thai",
+      "price_range": "$5-20",
+      "highlights": [
+        "Local favorite",
+        "Authentic taste"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Roti (Thai Pancake)",
+      "description": "Late-night snacks never tasted so good. I would often grab a roti from the street vendors, crispy on the outside and stuffed with banana and condensed milk. It’s my guilty pleasure after a night out!",
+      "cuisine_type": "Thai",
+      "price_range": "$5-20",
+      "highlights": [
+        "Local favorite",
+        "Authentic taste"
       ]
     }
   ],
@@ -326,17 +445,18 @@
     }
   ],
   "travel_tips": [
-    "Best time to visit Pattaya is during the cool season (November-February)",
-    "Learn basic Thai phrases for better local interactions",
-    "Always carry cash as many places don't accept cards",
-    "Respect local customs and dress modestly at temples",
-    "Try local street food but choose busy stalls for freshness"
+    "Don't be surprised if locals arrive late for appointments. Embrace the relaxed pace of life here—it's part of the charm!",
+    "Stand up during the national anthem, played frequently in public spaces. It’s a sign of respect that goes a long way with locals.",
+    "A simple smile can break barriers. Learn a few Thai phrases; locals appreciate the effort and are more likely to engage.",
+    "Be adventurous! Try food from vendors—it's often fresher and tastier than in restaurants. Just look for busy stalls; they’re a good sign.",
+    "While casual beachwear is fine, cover up when visiting temples. It shows respect for local customs.",
+    "Don’t be afraid to haggle at markets. It’s expected and can lead to good deals (and smiles)!"
   ],
   "best_time_to_visit": {
     "season": "Cool Season",
     "months": "November - February",
-    "weather": "Pleasant temperatures and less rainfall",
-    "reasons": "Ideal weather conditions for sightseeing and outdoor activities"
+    "weather": "Pleasant conditions",
+    "reasons": "Ideal weather for activities"
   },
   "budget_info": {
     "budget": "$30-50 per day",
@@ -344,6 +464,6 @@
     "luxury": "$100+ per day",
     "notes": "Budget includes accommodation, food, transportation, and activities"
   },
-  "enhanced_at": "2025-05-26T18:26:56.304Z",
+  "enhanced_at": "2025-05-26T18:44:23.562Z",
   "ai_generated": true
 }
