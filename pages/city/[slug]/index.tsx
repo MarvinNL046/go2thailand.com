@@ -112,7 +112,11 @@ interface City {
     price_range?: string;
     ordering_tips?: string[];
   }>;
-  local_insights?: string[];
+  local_insights?: (string | {
+    observation?: string;
+    tip?: string;
+    surprise?: string;
+  })[];
   seasonal_secrets?: {
     best_season?: string;
     why?: string;
@@ -216,9 +220,19 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                     About {city.name.en}
                   </h2>
                   <div className="prose prose-lg max-w-none">
-                    <p className="text-gray-700 leading-relaxed mb-6">
-                      {city.enhanced_description || city.description.en}
-                    </p>
+                    {city.enhanced_description ? (
+                      <div className="space-y-4">
+                        {city.enhanced_description.split('\n\n').map((paragraph, index) => (
+                          <p key={index} className="text-gray-700 leading-relaxed">
+                            {paragraph}
+                          </p>
+                        ))}
+                      </div>
+                    ) : (
+                      <p className="text-gray-700 leading-relaxed mb-6">
+                        {city.description.en}
+                      </p>
+                    )}
                     <div className="grid grid-cols-2 gap-6 my-8 p-6 bg-gray-50 rounded-lg">
                       <div>
                         <h4 className="font-semibold text-gray-900 mb-2">Population</h4>
@@ -516,7 +530,23 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                                   <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                                 </svg>
                               </div>
-                              <p className="text-gray-700 text-sm leading-relaxed">{insight}</p>
+                              <div className="flex-1">
+                                {typeof insight === 'string' ? (
+                                  <p className="text-gray-700 text-sm leading-relaxed">{insight}</p>
+                                ) : (
+                                  <div className="space-y-2">
+                                    {insight.observation && (
+                                      <h4 className="font-semibold text-gray-900 text-sm">{insight.observation}</h4>
+                                    )}
+                                    {insight.tip && (
+                                      <p className="text-gray-700 text-sm leading-relaxed">{insight.tip}</p>
+                                    )}
+                                    {insight.surprise && (
+                                      <p className="text-teal-600 text-xs italic mt-1">💡 {insight.surprise}</p>
+                                    )}
+                                  </div>
+                                )}
+                              </div>
                             </div>
                           </div>
                         ))}
