@@ -1,5 +1,6 @@
 'use client';
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState } from 'react';
 
 const Header = () => {
@@ -13,10 +14,15 @@ const Header = () => {
           <div className="flex items-center">
             <Link href="/" className="flex items-center space-x-3 group">
               <div className="relative">
-                <div className="w-10 h-10 bg-gradient-to-br from-thailand-red to-thailand-blue rounded-lg flex items-center justify-center transform transition-transform group-hover:scale-110">
-                  <span className="text-white font-bold text-xl">T</span>
+                <div className="w-12 h-12 relative transform transition-transform group-hover:scale-110">
+                  <Image
+                    src="/images/go2thailand-logo.png"
+                    alt="Go2Thailand Logo"
+                    fill
+                    className="object-contain"
+                    priority
+                  />
                 </div>
-                <div className="absolute -top-1 -right-1 w-3 h-3 bg-thailand-gold rounded-full animate-bounce-soft"></div>
               </div>
               <div className="flex flex-col">
                 <div className="text-2xl font-bold bg-gradient-to-r from-thailand-blue to-thailand-red bg-clip-text text-transparent">

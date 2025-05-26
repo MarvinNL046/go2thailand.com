@@ -22,7 +22,8 @@ export default function App({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/go2thailand-faviocon.png" />
+        <link rel="apple-touch-icon" href="/go2thailand-faviocon.png" />
         
         {/* Google Tag Manager */}
         {isProduction && (
