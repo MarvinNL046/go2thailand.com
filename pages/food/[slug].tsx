@@ -2,6 +2,8 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import { getEnhancedDishBySlug, getDishStaticPaths, generateDishMetadata, getRelatedDishes, generateFoodBreadcrumbs } from '../../lib/food';
+import EzoicAd from '../../components/EzoicAd';
+import { AD_PLACEMENTS, EZOIC_AD_UNITS } from '../../lib/ads/ezoic-config';
 
 interface EnhancedDish {
   id: number;
@@ -178,6 +180,18 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
           </div>
         </section>
 
+        {/* 💰 FOOD DETAIL HEADER AD - HIGH VISIBILITY */}
+        <section className="bg-white py-6">
+          <div className="container-custom">
+            <EzoicAd 
+              adUnit={EZOIC_AD_UNITS.FOOD_BANNER}
+              size="banner"
+              className="mx-auto"
+              lazy={false}
+            />
+          </div>
+        </section>
+
         {/* Content Sections */}
         <section className="section-padding">
           <div className="container-custom">
@@ -286,6 +300,14 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
 
               {/* Sidebar */}
               <div className="space-y-8">
+                {/* 💰 FOOD SIDEBAR AD - HIGH VALUE PLACEMENT */}
+                <EzoicAd 
+                  adUnit="go2thailand_food_sidebar_rect"
+                  size="rectangle"
+                  className="mx-auto sticky top-4"
+                  lazy={true}
+                />
+
                 {/* Quick Info */}
                 <div className="bg-white rounded-lg shadow-lg p-6">
                   <h3 className="text-xl font-bold text-gray-900 mb-4">Quick Info</h3>
