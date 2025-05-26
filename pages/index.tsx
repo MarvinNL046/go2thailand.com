@@ -350,7 +350,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             <div className="card hover:shadow-xl transition-shadow duration-300">
               <div className="relative h-48 mb-4 rounded-lg overflow-hidden">
                 <Image
-                  src="https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+                  src="/images/food/northern.webp"
                   alt="Northern Thailand"
                   fill
                   className="object-cover"
@@ -369,7 +369,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             <div className="card hover:shadow-xl transition-shadow duration-300">
               <div className="relative h-48 mb-4 rounded-lg overflow-hidden">
                 <Image
-                  src="https://images.unsplash.com/photo-1464983953574-0892a716854b"
+                  src="/images/food/central.webp"
                   alt="Central Thailand"
                   fill
                   className="object-cover"
@@ -388,7 +388,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             <div className="card hover:shadow-xl transition-shadow duration-300">
               <div className="relative h-48 mb-4 rounded-lg overflow-hidden">
                 <Image
-                  src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+                  src="/images/food/southern.webp"
                   alt="Southern Thailand"
                   fill
                   className="object-cover"
