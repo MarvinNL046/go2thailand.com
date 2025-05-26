@@ -4,6 +4,8 @@ import { useState } from 'react';
 import { getAllCities } from '../../lib/cities';
 import CityCard from '../../components/CityCard';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import EzoicAd from '../../components/EzoicAd';
+import { EZOIC_AD_UNITS } from '../../lib/ads/ezoic-config';
 
 interface City {
   id: number;
@@ -113,6 +115,18 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
           </div>
         </section>
 
+        {/* 💰 CITIES INDEX HEADER AD - HIGH VISIBILITY */}
+        <section className="bg-white py-6">
+          <div className="container-custom">
+            <EzoicAd 
+              adUnit={EZOIC_AD_UNITS.CITY_INDEX_BANNER}
+              size="banner"
+              className="mx-auto"
+              lazy={false}
+            />
+          </div>
+        </section>
+
         {/* Cities Grid */}
         <section className="section-padding">
           <div className="container-custom">
@@ -127,11 +141,35 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
 
             {/* Cities Grid */}
             {filteredCities.length > 0 ? (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                {filteredCities.map((city) => (
-                  <CityCard key={city.id} city={city} />
-                ))}
-              </div>
+              <>
+                {/* First batch of cities */}
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+                  {filteredCities.slice(0, 6).map((city) => (
+                    <CityCard key={city.id} city={city} />
+                  ))}
+                </div>
+
+                {/* 💰 MID-CONTENT AD - STRATEGIC PLACEMENT */}
+                {filteredCities.length > 6 && (
+                  <div className="mb-12">
+                    <EzoicAd 
+                      adUnit={EZOIC_AD_UNITS.CITY_INDEX_GRID}
+                      size="rectangle"
+                      className="mx-auto"
+                      lazy={true}
+                    />
+                  </div>
+                )}
+
+                {/* Remaining cities */}
+                {filteredCities.length > 6 && (
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    {filteredCities.slice(6).map((city) => (
+                      <CityCard key={city.id} city={city} />
+                    ))}
+                  </div>
+                )}
+              </>
             ) : (
               <div className="text-center py-12">
                 <svg className="mx-auto h-12 w-12 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
