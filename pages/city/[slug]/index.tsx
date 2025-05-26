@@ -648,8 +648,74 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                 {/* 💰 SIDEBAR AD - THE MONEY MAKER! */}
                 <EzoicAd {...AD_PLACEMENTS.CITY_SIDEBAR} />
 
-                {/* Best Time to Visit */}
-                {city.best_time_to_visit && (
+                {/* Enhanced Seasonal Secrets */}
+                {city.seasonal_secrets ? (
+                  <div className="card mb-8">
+                    <div className="flex items-center mb-4">
+                      <div className="w-8 h-8 bg-blue-500 rounded-full flex items-center justify-center mr-3">
+                        <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
+                          <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clipRule="evenodd" />
+                        </svg>
+                      </div>
+                      <h3 className="text-xl font-bold text-gray-900">🌅 Best Time to Visit</h3>
+                    </div>
+                    
+                    <div className="space-y-4">
+                      <div className="bg-blue-50 rounded-lg p-4">
+                        <div className="flex items-center justify-between mb-2">
+                          <span className="font-bold text-blue-800">{city.seasonal_secrets.best_season || 'Cool Season'}</span>
+                          <span className="text-sm bg-blue-100 text-blue-700 px-2 py-1 rounded">Recommended</span>
+                        </div>
+                        <p className="text-sm text-blue-700 mb-2">{city.seasonal_secrets.why || 'Most comfortable weather'}</p>
+                      </div>
+
+                      {city.seasonal_secrets.local_festivals && city.seasonal_secrets.local_festivals.length > 0 && (
+                        <div>
+                          <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
+                            <span className="text-sm mr-2">🎊</span> Local Festivals
+                          </h4>
+                          <div className="space-y-1">
+                            {city.seasonal_secrets.local_festivals.map((festival, i) => (
+                              <span key={i} className="block text-sm text-gray-600 bg-gray-50 px-2 py-1 rounded">
+                                {festival}
+                              </span>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+
+                      {city.seasonal_secrets.seasonal_foods && city.seasonal_secrets.seasonal_foods.length > 0 && (
+                        <div>
+                          <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
+                            <span className="text-sm mr-2">🍎</span> Seasonal Foods
+                          </h4>
+                          <div className="flex flex-wrap gap-1">
+                            {city.seasonal_secrets.seasonal_foods.map((food, i) => (
+                              <span key={i} className="text-xs bg-orange-100 text-orange-700 px-2 py-1 rounded">
+                                {food}
+                              </span>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+
+                      {city.seasonal_secrets.insider_tips && city.seasonal_secrets.insider_tips.length > 0 && (
+                        <div>
+                          <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
+                            <span className="text-sm mr-2">💡</span> Insider Tips
+                          </h4>
+                          <div className="space-y-1">
+                            {city.seasonal_secrets.insider_tips.slice(0, 2).map((tip, i) => (
+                              <p key={i} className="text-xs text-gray-600 bg-yellow-50 p-2 rounded border-l-2 border-yellow-400">
+                                {tip}
+                              </p>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                ) : city.best_time_to_visit ? (
                   <div className="card mb-8">
                     <h3 className="text-xl font-bold text-gray-900 mb-4">Best Time to Visit</h3>
                     <div className="space-y-3">
@@ -660,10 +726,84 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                       <p className="text-sm text-gray-700">{city.best_time_to_visit.reasons}</p>
                     </div>
                   </div>
-                )}
+                ) : null}
 
-                {/* Budget Info */}
-                {city.budget_info?.daily_budget && (
+                {/* Enhanced Budget Reality */}
+                {city.budget_reality ? (
+                  <div className="card mb-8">
+                    <div className="flex items-center mb-4">
+                      <div className="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center mr-3">
+                        <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
+                          <path d="M4 4a2 2 0 00-2 2v4a2 2 0 002 2V6h10a2 2 0 00-2-2H4zm2 6a2 2 0 012-2h8a2 2 0 012 2v4a2 2 0 01-2 2H8a2 2 0 01-2-2v-4zm6 4a2 2 0 100-4 2 2 0 000 4z" />
+                        </svg>
+                      </div>
+                      <h3 className="text-xl font-bold text-gray-900">💰 Budget Reality</h3>
+                    </div>
+                    
+                    <div className="space-y-4">
+                      <div className="grid grid-cols-1 gap-2">
+                        <div className="flex justify-between p-2 bg-green-50 rounded">
+                          <span className="text-sm text-gray-600">Budget:</span>
+                          <span className="font-bold text-green-700">{city.budget_reality.budget || '$25-40/day'}</span>
+                        </div>
+                        <div className="flex justify-between p-2 bg-blue-50 rounded">
+                          <span className="text-sm text-gray-600">Mid-range:</span>
+                          <span className="font-bold text-blue-700">{city.budget_reality.mid_range || '$40-80/day'}</span>
+                        </div>
+                        <div className="flex justify-between p-2 bg-purple-50 rounded">
+                          <span className="text-sm text-gray-600">Luxury:</span>
+                          <span className="font-bold text-purple-700">{city.budget_reality.luxury || '$80+/day'}</span>
+                        </div>
+                      </div>
+
+                      {city.budget_reality.examples && city.budget_reality.examples.length > 0 && (
+                        <div>
+                          <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
+                            <span className="text-sm mr-2">📊</span> Real Prices
+                          </h4>
+                          <div className="space-y-1">
+                            {city.budget_reality.examples.slice(0, 3).map((example, i) => (
+                              <div key={i} className="text-xs text-gray-600 bg-gray-50 p-2 rounded flex justify-between">
+                                <span>{example.split(':')[0]}:</span>
+                                <span className="font-medium">{example.split(':')[1]}</span>
+                              </div>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+
+                      {city.budget_reality.money_saving_tricks && city.budget_reality.money_saving_tricks.length > 0 && (
+                        <div>
+                          <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
+                            <span className="text-sm mr-2">💡</span> Money-Saving Tricks
+                          </h4>
+                          <div className="space-y-1">
+                            {city.budget_reality.money_saving_tricks.slice(0, 2).map((trick, i) => (
+                              <p key={i} className="text-xs text-green-700 bg-green-50 p-2 rounded border-l-2 border-green-400">
+                                {trick}
+                              </p>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+
+                      {city.budget_reality.hidden_costs && city.budget_reality.hidden_costs.length > 0 && (
+                        <div>
+                          <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
+                            <span className="text-sm mr-2">⚠️</span> Hidden Costs
+                          </h4>
+                          <div className="space-y-1">
+                            {city.budget_reality.hidden_costs.slice(0, 2).map((cost, i) => (
+                              <p key={i} className="text-xs text-red-700 bg-red-50 p-2 rounded border-l-2 border-red-400">
+                                {cost}
+                              </p>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                ) : city.budget_info?.daily_budget ? (
                   <div className="card mb-8">
                     <h3 className="text-xl font-bold text-gray-900 mb-4">Daily Budget</h3>
                     <div className="space-y-3">
@@ -681,7 +821,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                       </div>
                     </div>
                   </div>
-                )}
+                ) : null}
 
                 {/* Tags */}
                 {city.tags && city.tags.length > 0 && (
