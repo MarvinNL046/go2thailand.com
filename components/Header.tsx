@@ -52,6 +52,54 @@ const Header = () => {
                 Food
                 <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
               </Link>
+
+              {/* Top 10 Guides Dropdown */}
+              <div className="relative group">
+                <button className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 flex items-center space-x-1 relative">
+                  <span>🏆 Top 10</span>
+                  <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
+                  </svg>
+                  <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
+                </button>
+                
+                <div className="absolute left-0 mt-2 w-64 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-thailand-blue-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
+                  <div className="py-2">
+                    <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider border-b border-gray-100">
+                      By Category
+                    </div>
+                    <Link href="/top-10/restaurants/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <span className="mr-3">🍽️</span>
+                      Restaurant Guides
+                    </Link>
+                    <Link href="/top-10/hotels/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <span className="mr-3">🏨</span>
+                      Hotel Guides
+                    </Link>
+                    <Link href="/top-10/attractions/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <span className="mr-3">🎯</span>
+                      Attraction Guides
+                    </Link>
+                    <div className="border-t border-gray-100 mt-2 pt-2">
+                      <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">
+                        Popular Cities
+                      </div>
+                      <Link href="/city/bangkok/top-10-restaurants/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                        <span className="mr-3">📍</span>
+                        Bangkok Top 10
+                      </Link>
+                      <Link href="/city/phuket/top-10-hotels/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                        <span className="mr-3">📍</span>
+                        Phuket Top 10
+                      </Link>
+                      <Link href="/city/chiang-mai/top-10-attractions/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                        <span className="mr-3">📍</span>
+                        Chiang Mai Top 10
+                      </Link>
+                    </div>
+                  </div>
+                </div>
+              </div>
               
               {/* Regions Dropdown */}
               <div className="relative group">
@@ -140,6 +188,31 @@ const Header = () => {
             >
               🍜 Food
             </Link>
+            
+            <div className="border-t border-thailand-blue-100 pt-2 mt-2">
+              <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">🏆 Top 10 Guides</div>
+              <Link 
+                href="/top-10/restaurants/" 
+                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
+                onClick={() => setIsMobileMenuOpen(false)}
+              >
+                🍽️ Restaurant Guides
+              </Link>
+              <Link 
+                href="/top-10/hotels/" 
+                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
+                onClick={() => setIsMobileMenuOpen(false)}
+              >
+                🏨 Hotel Guides
+              </Link>
+              <Link 
+                href="/top-10/attractions/" 
+                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
+                onClick={() => setIsMobileMenuOpen(false)}
+              >
+                🎯 Attraction Guides
+              </Link>
+            </div>
             
             <div className="border-t border-thailand-blue-100 pt-2 mt-2">
               <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">Regions</div>

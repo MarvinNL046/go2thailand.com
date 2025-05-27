@@ -125,6 +125,9 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
               <Link href="#featured" className="btn-secondary bg-white text-thailand-blue hover:bg-gray-100 shadow-lg">
                 Featured Destinations
               </Link>
+              <Link href="#top10" className="bg-gradient-to-r from-thailand-red to-thailand-red-600 text-white px-6 py-3 rounded-lg font-semibold hover:from-thailand-red-600 hover:to-thailand-red-700 transition-all shadow-lg">
+                🏆 Top 10 Guides
+              </Link>
             </div>
           </div>
         </div>
@@ -243,8 +246,143 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         </div>
       </section>
 
+      {/* Top 10 Travel Guides Section */}
+      <section id="top10" className="section-padding bg-white">
+        <div className="container-custom">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+              🏆 Top 10 Travel <span className="text-thailand-red">Guides</span>
+            </h2>
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-6">
+              Get the latest recommendations with current prices, insider tips, and local insights. 
+              Our AI-enhanced guides combine real-time data with authentic local experiences.
+            </p>
+            
+            {/* Current Data Features */}
+            <div className="flex justify-center items-center gap-4 text-sm text-gray-500 mb-8">
+              <span className="bg-green-100 text-green-700 px-3 py-2 rounded-full font-medium">
+                📊 Current 2025 Data
+              </span>
+              <span className="bg-blue-100 text-blue-700 px-3 py-2 rounded-full font-medium">
+                🤖 AI Enhanced
+              </span>
+              <span className="bg-purple-100 text-purple-700 px-3 py-2 rounded-full font-medium">
+                💰 Local Prices
+              </span>
+            </div>
+          </div>
+          
+          {/* Top 10 Category Cards */}
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+            {/* Restaurant Guides */}
+            <Link href="/top-10/restaurants/" className="group">
+              <div className="bg-gradient-to-br from-thailand-red-50 to-thailand-red-100 rounded-xl p-8 hover:shadow-xl transition-all duration-300 transform group-hover:scale-105 border border-thailand-red-200">
+                <div className="text-center">
+                  <div className="text-5xl mb-4">🍽️</div>
+                  <h3 className="text-2xl font-bold text-gray-900 mb-3 group-hover:text-thailand-red transition-colors">
+                    Restaurant Guides
+                  </h3>
+                  <p className="text-gray-600 mb-4">
+                    Discover where locals actually eat with current pricing and authentic recommendations
+                  </p>
+                  <div className="bg-thailand-red text-white px-4 py-2 rounded-lg font-medium group-hover:bg-thailand-red-600 transition-colors">
+                    View Restaurant Guides →
+                  </div>
+                </div>
+              </div>
+            </Link>
+
+            {/* Hotel Guides */}
+            <Link href="/top-10/hotels/" className="group">
+              <div className="bg-gradient-to-br from-thailand-blue-50 to-thailand-blue-100 rounded-xl p-8 hover:shadow-xl transition-all duration-300 transform group-hover:scale-105 border border-thailand-blue-200">
+                <div className="text-center">
+                  <div className="text-5xl mb-4">🏨</div>
+                  <h3 className="text-2xl font-bold text-gray-900 mb-3 group-hover:text-thailand-blue transition-colors">
+                    Hotel Guides
+                  </h3>
+                  <p className="text-gray-600 mb-4">
+                    Find the perfect stay with updated rates, guest reviews, and booking recommendations
+                  </p>
+                  <div className="bg-thailand-blue text-white px-4 py-2 rounded-lg font-medium group-hover:bg-thailand-blue-600 transition-colors">
+                    View Hotel Guides →
+                  </div>
+                </div>
+              </div>
+            </Link>
+
+            {/* Attraction Guides */}
+            <Link href="/top-10/attractions/" className="group">
+              <div className="bg-gradient-to-br from-green-50 to-green-100 rounded-xl p-8 hover:shadow-xl transition-all duration-300 transform group-hover:scale-105 border border-green-200">
+                <div className="text-center">
+                  <div className="text-5xl mb-4">🎯</div>
+                  <h3 className="text-2xl font-bold text-gray-900 mb-3 group-hover:text-green-600 transition-colors">
+                    Attraction Guides
+                  </h3>
+                  <p className="text-gray-600 mb-4">
+                    Must-see attractions with current entrance fees, opening hours, and visitor tips
+                  </p>
+                  <div className="bg-green-600 text-white px-4 py-2 rounded-lg font-medium group-hover:bg-green-700 transition-colors">
+                    View Attraction Guides →
+                  </div>
+                </div>
+              </div>
+            </Link>
+          </div>
+
+          {/* Trending Top 10 Guides */}
+          <div className="bg-gray-50 rounded-xl p-8">
+            <div className="text-center mb-8">
+              <h3 className="text-2xl font-bold text-gray-900 mb-2">
+                🔥 Trending Now
+              </h3>
+              <p className="text-gray-600">
+                Most popular guides updated with latest information
+              </p>
+            </div>
+            
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <Link href="/city/bangkok/top-10-restaurants/" className="bg-white rounded-lg p-6 hover:shadow-lg transition-shadow group">
+                <div className="flex items-center space-x-4">
+                  <div className="text-2xl">🍽️</div>
+                  <div>
+                    <h4 className="font-semibold text-gray-900 group-hover:text-thailand-red transition-colors">
+                      Bangkok Restaurants
+                    </h4>
+                    <p className="text-sm text-gray-500">Current prices • Local favorites</p>
+                  </div>
+                </div>
+              </Link>
+              
+              <Link href="/city/phuket/top-10-hotels/" className="bg-white rounded-lg p-6 hover:shadow-lg transition-shadow group">
+                <div className="flex items-center space-x-4">
+                  <div className="text-2xl">🏨</div>
+                  <div>
+                    <h4 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">
+                      Phuket Hotels
+                    </h4>
+                    <p className="text-sm text-gray-500">Beach resorts • Updated rates</p>
+                  </div>
+                </div>
+              </Link>
+              
+              <Link href="/city/chiang-mai/top-10-attractions/" className="bg-white rounded-lg p-6 hover:shadow-lg transition-shadow group">
+                <div className="flex items-center space-x-4">
+                  <div className="text-2xl">🎯</div>
+                  <div>
+                    <h4 className="font-semibold text-gray-900 group-hover:text-green-600 transition-colors">
+                      Chiang Mai Attractions
+                    </h4>
+                    <p className="text-sm text-gray-500">Temples • Nature • Culture</p>
+                  </div>
+                </div>
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Authentic Thai Cuisine Section */}
-      <section className="section-padding bg-white">
+      <section className="section-padding bg-gray-50">
         <div className="container-custom">
           <div className="text-center mb-12">
             <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">

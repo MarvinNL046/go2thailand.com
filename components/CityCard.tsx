@@ -70,19 +70,37 @@ const CityCard: React.FC<CityCardProps> = ({ city }) => {
           </div>
         )}
         
-        <div className="flex space-x-2">
-          <Link 
-            href={`/city/${city.slug}/`}
-            className="flex-1 bg-thailand-blue text-white text-center py-2 px-4 rounded hover:bg-thailand-red transition-colors text-sm font-medium"
-          >
-            Explore City
-          </Link>
-          <Link 
-            href={`/city/${city.slug}/attractions/`}
-            className="flex-1 border border-thailand-blue text-thailand-blue text-center py-2 px-4 rounded hover:bg-thailand-blue hover:text-white transition-colors text-sm font-medium"
-          >
-            Attractions
-          </Link>
+        <div className="space-y-2">
+          <div className="flex space-x-2">
+            <Link 
+              href={`/city/${city.slug}/`}
+              className="flex-1 bg-thailand-blue text-white text-center py-2 px-4 rounded hover:bg-thailand-red transition-colors text-sm font-medium"
+            >
+              Explore City
+            </Link>
+            <Link 
+              href={`/city/${city.slug}/attractions/`}
+              className="flex-1 border border-thailand-blue text-thailand-blue text-center py-2 px-4 rounded hover:bg-thailand-blue hover:text-white transition-colors text-sm font-medium"
+            >
+              Attractions
+            </Link>
+          </div>
+          
+          {/* Top 10 Guides Row */}
+          <div className="flex space-x-2">
+            <Link 
+              href={`/city/${city.slug}/top-10-restaurants/`}
+              className="flex-1 bg-gradient-to-r from-thailand-red to-thailand-red-600 text-white text-center py-2 px-2 rounded hover:from-thailand-red-600 hover:to-thailand-red-700 transition-all text-xs font-medium"
+            >
+              🍽️ Top 10 Food
+            </Link>
+            <Link 
+              href={`/city/${city.slug}/top-10-hotels/`}
+              className="flex-1 bg-gradient-to-r from-thailand-blue to-thailand-blue-600 text-white text-center py-2 px-2 rounded hover:from-thailand-blue-600 hover:to-thailand-blue-700 transition-all text-xs font-medium"
+            >
+              🏨 Top 10 Hotels
+            </Link>
+          </div>
         </div>
       </div>
     </div>

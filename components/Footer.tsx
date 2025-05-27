@@ -6,9 +6,9 @@ const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white">
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
           {/* Brand */}
-          <div className="col-span-1 md:col-span-2">
+          <div className="col-span-1 md:col-span-2 lg:col-span-2">
             <Link href="/" className="flex items-center space-x-2 mb-4">
               <div className="text-2xl font-bold text-thailand-red">
                 Go2Thailand
@@ -78,6 +78,40 @@ const Footer = () => {
               <li>
                 <Link href="/city/pattaya/" className="text-gray-300 hover:text-white text-sm transition-colors">
                   Pattaya
+                </Link>
+              </li>
+            </ul>
+          </div>
+
+          {/* Top 10 Guides */}
+          <div>
+            <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase mb-4">
+              🏆 Top 10 Guides
+            </h3>
+            <ul className="space-y-2">
+              <li>
+                <Link href="/top-10/restaurants/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Restaurant Guides
+                </Link>
+              </li>
+              <li>
+                <Link href="/top-10/hotels/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Hotel Guides
+                </Link>
+              </li>
+              <li>
+                <Link href="/top-10/attractions/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Attraction Guides
+                </Link>
+              </li>
+              <li>
+                <Link href="/city/bangkok/top-10-restaurants/" className="text-gray-300 hover:text-thailand-red text-sm transition-colors">
+                  Bangkok Top 10
+                </Link>
+              </li>
+              <li>
+                <Link href="/city/phuket/top-10-hotels/" className="text-gray-300 hover:text-thailand-red text-sm transition-colors">
+                  Phuket Top 10
                 </Link>
               </li>
             </ul>
