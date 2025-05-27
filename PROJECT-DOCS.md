@@ -8,9 +8,15 @@
 - **Framework**: Next.js 14.2.23 (App Router)
 - **Styling**: Tailwind CSS + Shadcn/UI
 - **Data**: CSV → JSON → Enhanced JSON
-- **AI**: OpenAI GPT-4 for content enhancement
+- **AI**: OpenAI GPT-4 for content enhancement + Perplexity for real-time data
 - **Ads**: Ezoic integration
 - **Deployment**: Static generation ready
+
+### **🆕 AI-Powered Content System**
+- **Hybrid AI Approach**: Perplexity API (current 2025 data) + OpenAI (storytelling)
+- **Real-Time Data**: Current prices, hours, ratings via Perplexity
+- **Cost Effective**: 30 complete guides for only $0.065
+- **Quality Content**: Authentic local stories with current practical info
 
 ---
 
@@ -49,6 +55,17 @@ data/                   # Processed JSON data
 │   ├── hat-yai/        # 10 Hat Yai attractions
 │   ├── sukhothai/      # 10 Sukhothai attractions
 │   └── surat-thani/    # 10 Surat Thani attractions
+├── top10/              # 🆕 AI-generated Top 10 guides (30 total)
+│   ├── bangkok-restaurants.json     # Bangkok top 10 restaurants
+│   ├── bangkok-hotels.json          # Bangkok top 10 hotels  
+│   ├── bangkok-attractions.json     # Bangkok top 10 attractions
+│   ├── chiang-mai-restaurants.json  # Chiang Mai top 10 restaurants
+│   ├── chiang-mai-hotels.json       # Chiang Mai top 10 hotels
+│   ├── chiang-mai-attractions.json  # Chiang Mai top 10 attractions
+│   ├── phuket-restaurants.json      # Phuket top 10 restaurants
+│   ├── phuket-hotels.json           # Phuket top 10 hotels
+│   ├── phuket-attractions.json      # Phuket top 10 attractions
+│   └── [+21 more city-category files] # All 10 cities × 3 categories
 └── enhanced/           # AI-enhanced content
     ├── [city].json     # Enhanced city data (10 cities)
     ├── food/           # Enhanced food data (11 dishes)
@@ -71,6 +88,13 @@ pages/                  # Generated pages
 ├── city/[slug]/        # Individual city pages
 ├── city/[slug]/attractions/  # Attraction overview pages
 ├── city/[slug]/attractions/[attraction]/  # Individual attraction pages
+├── city/[slug]/top-10-restaurants/  # 🆕 City Top 10 restaurants guide
+├── city/[slug]/top-10-hotels/       # 🆕 City Top 10 hotels guide
+├── city/[slug]/top-10-attractions/  # 🆕 City Top 10 attractions guide
+├── top-10/             # 🆕 Top 10 category overview pages
+│   ├── restaurants/    # All cities restaurants overview
+│   ├── hotels/         # All cities hotels overview
+│   └── attractions/    # All cities attractions overview
 ├── food/               # Food overview page
 └── food/[slug]/        # Individual food pages
 ```
@@ -172,6 +196,56 @@ node lib/verify-data.js
 npm run build
 ```
 
+### **🆕 2. Generating Top 10 Guides with AI**
+
+#### **Step 1: Generate Single Top 10 Guide**
+```bash
+# Generate specific city + category combination
+node lib/enhance-content.js top10 bangkok restaurants
+node lib/enhance-content.js top10 chiang-mai hotels
+node lib/enhance-content.js top10 phuket attractions
+```
+
+#### **Step 2: Mass Generate All Top 10 Guides**
+```bash
+# Generate all 30 guides at once (10 cities × 3 categories)
+node scripts/mass-generate-top10.js
+
+# Cost: ~$0.065 for all 30 guides
+# Time: ~5 minutes for complete generation
+# Output: 30 JSON files in data/top10/
+```
+
+#### **Step 3: Check Top 10 Status**
+```bash
+# Check which guides exist and which are missing
+node scripts/check-top10-status.js
+
+# Sample output:
+# ✅ bangkok-restaurants.json
+# ✅ bangkok-hotels.json  
+# ❌ bangkok-attractions.json (MISSING)
+```
+
+#### **Step 4: Refresh Specific Guides**
+```bash
+# Refresh guides with outdated data
+node scripts/refresh-top10.js
+
+# Refreshes guides older than 30 days automatically
+# Uses Perplexity for current 2025 data
+```
+
+#### **Step 5: Test & Deploy**
+```bash
+npm run build  # Build includes sitemap update (189 URLs)
+npm run dev    # Test locally
+
+# New URL structure:
+# http://localhost:3000/top-10/restaurants/
+# http://localhost:3000/city/bangkok/top-10-restaurants/
+```
+
 ### **2. Adding Attractions for Cities**
 
 #### **Step 1: Create CSV Files**
@@ -254,6 +328,17 @@ node lib/enhance-food.js                          # Enhance food data
 node lib/enhance-all-attractions.js               # Enhance all attractions (100 total)
 node lib/enhance-all-attractions.js [city]        # Enhance single city attractions
 
+# 🆕 Top 10 Guides Generation
+node lib/enhance-content.js top10 [city] [category]  # Generate single Top 10 guide
+node scripts/mass-generate-top10.js                  # Generate all 30 Top 10 guides
+node scripts/check-top10-status.js                   # Check which guides exist
+node scripts/refresh-top10.js                        # Refresh outdated guides
+
+# 🆕 Testing & Demo Scripts
+node scripts/test-perplexity-integration.js          # Test Perplexity API connection
+node scripts/demo-real-perplexity.js                 # Demo real Perplexity call
+node scripts/demo-complete-workflow.js               # Full workflow demonstration
+
 # Verify data integrity
 node lib/verify-data.js
 ```
@@ -279,17 +364,39 @@ http://localhost:3000/city/bangkok/attractions/grand-palace/  # Attraction detai
 - `lib/convert-food-data.js` - CSV to JSON converter for food
 - `lib/convert-all-attractions-data.js` - CSV to JSON converter for all attractions
 - `lib/convert-attractions-data.js` - CSV to JSON converter for single city attractions
-- `lib/enhance-content.js` - AI content enhancement for cities
+- `lib/enhance-content.js` - AI content enhancement for cities + Top 10 generation
 - `lib/enhance-food.js` - AI content enhancement for food
 - `lib/enhance-all-attractions.js` - AI content enhancement for all attractions
 - `lib/enhance-attractions.js` - AI content enhancement for single city attractions
 - `lib/verify-data.js` - Data validation
+- `lib/sitemap.js` - Dynamic sitemap generation (189 URLs)
+
+### **🆕 AI Integration**
+- `lib/ai/openai-client.js` - OpenAI GPT-4 client for storytelling
+- `lib/ai/perplexity-client.js` - Perplexity API client for real-time data
+- `lib/ai/content-enhancer.js` - Unified AI content enhancement
+
+### **🆕 Scripts & Automation**
+- `scripts/mass-generate-top10.js` - Generate all 30 Top 10 guides
+- `scripts/check-top10-status.js` - Check which guides exist/missing
+- `scripts/refresh-top10.js` - Refresh outdated guides
+- `scripts/test-perplexity-integration.js` - Test Perplexity connection
+- `scripts/demo-real-perplexity.js` - Demo real Perplexity API call
+- `scripts/demo-complete-workflow.js` - Full workflow demonstration
 
 ### **Page Templates**
 - `pages/city/index.tsx` - Cities overview page
 - `pages/city/[slug]/index.tsx` - Individual city page
 - `pages/city/[slug]/attractions.tsx` - City attractions overview
 - `pages/city/[slug]/attractions/[attraction].tsx` - Attraction detail page
+
+### **🆕 Top 10 Page Templates**
+- `pages/top-10/restaurants.tsx` - All cities restaurants overview
+- `pages/top-10/hotels.tsx` - All cities hotels overview  
+- `pages/top-10/attractions.tsx` - All cities attractions overview
+- `pages/city/[slug]/top-10-restaurants.tsx` - City-specific restaurant guide
+- `pages/city/[slug]/top-10-hotels.tsx` - City-specific hotel guide
+- `pages/city/[slug]/top-10-attractions.tsx` - City-specific attraction guide
 
 ### **Components**
 - `components/Header.tsx` - Site navigation
@@ -357,12 +464,20 @@ npm run dev
 - [x] Cities system (10 Thailand cities with AI enhancement)
 - [x] Attractions system (100 attractions across all 10 cities with AI enhancement)
 - [x] Food system (11 Thai dishes with AI enhancement)
+- [x] 🆕 **Top 10 Guides System (30 complete guides with real 2025 data)**
+  - [x] Bangkok, Chiang Mai, Phuket, Pattaya, Ayutthaya Top 10s
+  - [x] Krabi, Chiang Rai, Hat Yai, Sukhothai, Surat Thani Top 10s
+  - [x] Restaurants, Hotels, Attractions for all 10 cities
+  - [x] Real-time Perplexity API integration for current data
+  - [x] Hybrid AI approach (Perplexity facts + OpenAI storytelling)
+- [x] 🆕 **Enhanced Sitemap (189 URLs total, +33 from Top 10 system)**
+- [x] 🆕 **Mass Content Generation Scripts (cost: $0.065 for 30 guides)**
 - [x] Programmatic page generation for all content types
-- [x] SEO metadata generation
-- [x] Responsive design
-- [x] Ezoic ad integration
+- [x] SEO metadata generation with structured data
+- [x] Responsive design with mobile-first approach
+- [x] Ezoic ad integration with strategic placements
 - [x] Complete data conversion and enhancement workflows
-- [x] Comprehensive documentation
+- [x] Comprehensive documentation and troubleshooting guides
 
 ### **🚧 In Progress**
 - [ ] Hotel accommodation system
@@ -407,6 +522,7 @@ npm run dev
 ```bash
 # .env.local
 OPENAI_API_KEY=sk-...          # For AI content enhancement
+PERPLEXITY_API_KEY=pplx-...    # 🆕 For real-time Top 10 data generation
 EZOIC_AD_CLIENT_ID=ca-pub-...  # For ad monetization
 ```
 
