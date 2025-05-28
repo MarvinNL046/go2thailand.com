@@ -255,7 +255,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-6">
               Get the latest recommendations with current prices, insider tips, and local insights. 
-              Our AI-enhanced guides combine real-time data with authentic local experiences.
+              Our expertly curated guides combine real-time data with authentic local experiences.
             </p>
             
             {/* Current Data Features */}
@@ -264,7 +264,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                 📊 Current 2025 Data
               </span>
               <span className="bg-blue-100 text-blue-700 px-3 py-2 rounded-full font-medium">
-                🤖 AI Enhanced
+                ✨ Expert Curated
               </span>
               <span className="bg-purple-100 text-purple-700 px-3 py-2 rounded-full font-medium">
                 💰 Local Prices

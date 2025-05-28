@@ -93,7 +93,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
                   📊 Current 2025 Data
                 </span>
                 <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
-                  🤖 AI Enhanced
+                  ✨ Expert Curated
                 </span>
                 <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
                   💰 Local Prices

@@ -156,7 +156,7 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                   </span>
                   {attractionsData.hybrid && (
                     <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full">
-                      🤖 AI Enhanced
+                      🤖 Expert Curated
                     </span>
                   )}
                   {attractionsData.last_perplexity_update && (

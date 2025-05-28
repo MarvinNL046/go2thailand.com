@@ -156,7 +156,7 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
                   </span>
                   {hotelsData.hybrid && (
                     <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full">
-                      🤖 AI Enhanced
+                      🤖 Expert Curated
                     </span>
                   )}
                   {hotelsData.last_perplexity_update && (

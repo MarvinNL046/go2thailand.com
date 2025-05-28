@@ -156,7 +156,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
                   </span>
                   {restaurantsData.hybrid && (
                     <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full">
-                      🤖 AI Enhanced
+                      🤖 Expert Curated
                     </span>
                   )}
                   {restaurantsData.last_perplexity_update && (
