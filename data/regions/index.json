@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "slug": "northern",
+    "name": {
+      "en": "Northern Thailand",
+      "nl": "Noord-Thailand"
+    },
+    "description": {
+      "en": "Mountainous region known for ancient temples, hill tribes, cooler climate, and cultural heritage.",
+      "nl": "Bergachtige regio bekend om oude tempels, bergstammen, koeler klimaat en cultureel erfgoed."
+    },
+    "image": "/images/regions/northern-thailand.webp",
+    "cities": [
+      "Chiang Mai",
+      "Chiang Rai",
+      "Sukhothai"
+    ],
+    "highlights": [
+      "Ancient temples",
+      "Hill tribes",
+      "Cooler climate"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "central",
+    "name": {
+      "en": "Central Thailand",
+      "nl": "Centraal-Thailand"
+    },
+    "description": {
+      "en": "The heart of Thailand with bustling Bangkok, historic Ayutthaya, and easy access to beaches.",
+      "nl": "Het hart van Thailand met het bruisende Bangkok, historisch Ayutthaya en gemakkelijke toegang tot stranden."
+    },
+    "image": "/images/regions/central-thailand.webp",
+    "cities": [
+      "Bangkok",
+      "Ayutthaya",
+      "Pattaya"
+    ],
+    "highlights": [
+      "Capital city Bangkok",
+      "Historic sites",
+      "Easy transportation"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "southern",
+    "name": {
+      "en": "Southern Thailand",
+      "nl": "Zuid-Thailand"
+    },
+    "description": {
+      "en": "Tropical paradise with stunning beaches, islands, marine life, and vibrant nightlife.",
+      "nl": "Tropisch paradijs met prachtige stranden, eilanden, zeeleven en bruisend nachtleven."
+    },
+    "image": "/images/regions/southern-thailand.webp",
+    "cities": [
+      "Phuket",
+      "Krabi",
+      "Hat Yai",
+      "Surat Thani"
+    ],
+    "highlights": [
+      "Beautiful beaches",
+      "Island hopping",
+      "Marine activities"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "isaan",
+    "name": {
+      "en": "Isaan (Northeast Thailand)",
+      "nl": "Isaan (Noordoost-Thailand)"
+    },
+    "description": {
+      "en": "Authentic rural Thailand with unique Lao-influenced culture, spicy cuisine, and traditional festivals.",
+      "nl": "Authentiek ruraal Thailand met unieke Lao-beïnvloede cultuur, pittig eten en traditionele festivals."
+    },
+    "image": "/images/regions/isaan-thailand.webp",
+    "cities": [
+      "Khon Kaen",
+      "Udon Thani",
+      "Nakhon Ratchasima",
+      "Ubon Ratchathani"
+    ],
+    "highlights": [
+      "Authentic culture",
+      "Spicy cuisine",
+      "Traditional festivals"
+    ]
+  }
+]

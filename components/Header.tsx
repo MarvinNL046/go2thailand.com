@@ -139,6 +139,10 @@ const Header = () => {
                       <div className="w-2 h-2 bg-thailand-red rounded-full mr-3"></div>
                       Southern Thailand
                     </Link>
+                    <Link href="/region/isaan/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <div className="w-2 h-2 bg-green-500 rounded-full mr-3"></div>
+                      Isaan (Northeast)
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -264,6 +268,13 @@ const Header = () => {
                 onClick={() => setIsMobileMenuOpen(false)}
               >
                 🏖️ Southern Thailand
+              </Link>
+              <Link 
+                href="/region/isaan/" 
+                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
+                onClick={() => setIsMobileMenuOpen(false)}
+              >
+                🌾 Isaan (Northeast)
               </Link>
             </div>
 

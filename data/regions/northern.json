@@ -1,0 +1,79 @@
+{
+  "id": 1,
+  "slug": "northern",
+  "name": {
+    "en": "Northern Thailand",
+    "nl": "Noord-Thailand"
+  },
+  "description": {
+    "en": "Mountainous region known for ancient temples, hill tribes, cooler climate, and cultural heritage.",
+    "nl": "Bergachtige regio bekend om oude tempels, bergstammen, koeler klimaat en cultureel erfgoed."
+  },
+  "highlights": [
+    "Ancient temples",
+    "Hill tribes",
+    "Cooler climate",
+    "Cultural heritage",
+    "Mountain trekking"
+  ],
+  "cities": [
+    "Chiang Mai",
+    "Chiang Rai",
+    "Sukhothai"
+  ],
+  "climate": "Cool and dry (Nov-Feb), Hot (Mar-May), Rainy (Jun-Oct)",
+  "bestTimeToVisit": "November to February",
+  "image": "/images/regions/northern-thailand.webp",
+  "geography": "Mountainous terrain with peaks reaching over 2000m. Dense forests, river valleys, and hill tribe villages. Borders Myanmar and Laos.",
+  "culture": "Rich Lanna heritage with distinct architecture, crafts, and traditions. Home to various hill tribes including Hmong, Karen, and Akha peoples.",
+  "cuisine": "Khao Soi curry noodles, Sai Oua sausage, sticky rice, northern curries. Influenced by Burmese and Lao cuisine.",
+  "transportation": "Domestic flights to Chiang Mai/Chiang Rai. Buses connect cities. Songthaews and tuk-tuks locally. Motorbike rentals popular.",
+  "budgetInfo": "Budget: $25-40/day. Mid-range: $40-80/day. Luxury: $80+/day. Accommodation cheaper than Bangkok.",
+  "topActivities": [
+    "Temple hopping, hill tribe trekking, cooking classes, elephant sanctuaries, zip-lining, white water rafting, hot springs"
+  ],
+  "hiddenGems": [
+    "Pai canyon, Mae Hong Son loop, Doi Mae Salong tea plantations, Sangkhlaburi, Mon Bridge"
+  ],
+  "localFestivals": [
+    "Loi Krathong (November), Songkran (April), Yi Peng Lantern Festival (November), Flower Festival (February)"
+  ],
+  "travelTips": [
+    "Pack warm clothes for evenings. Respect hill tribe customs. Book tours through reputable operators. Learn basic Thai phrases."
+  ],
+  "whatToPack": [
+    "Warm jacket, comfortable walking shoes, insect repellent, sunscreen, modest clothing for temples, rain jacket"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Northern Thailand | Complete Travel Guide",
+      "nl": "Ontdek Noord-Thailand | Complete Reisgids"
+    },
+    "metaDescription": {
+      "en": "Complete guide to Northern Thailand - best cities, attractions, climate, and travel tips.",
+      "nl": "Complete gids voor Noord-Thailand - beste steden, attracties, klimaat en reistips."
+    }
+  },
+  "categories": {
+    "attractions": {
+      "en": "Top attractions in Northern Thailand",
+      "nl": "Top bezienswaardigheden in Noord-Thailand"
+    },
+    "cities": {
+      "en": "Best cities to visit in Northern Thailand",
+      "nl": "Beste steden om te bezoeken in Noord-Thailand"
+    },
+    "climate": {
+      "en": "Climate and weather in Northern Thailand",
+      "nl": "Klimaat en weer in Noord-Thailand"
+    }
+  },
+  "tags": [
+    "thailand",
+    "region",
+    "travel",
+    "tourism",
+    "guide",
+    "northern"
+  ]
+}

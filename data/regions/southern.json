@@ -1,0 +1,80 @@
+{
+  "id": 3,
+  "slug": "southern",
+  "name": {
+    "en": "Southern Thailand",
+    "nl": "Zuid-Thailand"
+  },
+  "description": {
+    "en": "Tropical paradise with stunning beaches, islands, marine life, and vibrant nightlife.",
+    "nl": "Tropisch paradijs met prachtige stranden, eilanden, zeeleven en bruisend nachtleven."
+  },
+  "highlights": [
+    "Beautiful beaches",
+    "Island hopping",
+    "Marine activities",
+    "Tropical climate",
+    "Seafood cuisine"
+  ],
+  "cities": [
+    "Phuket",
+    "Krabi",
+    "Hat Yai",
+    "Surat Thani"
+  ],
+  "climate": "Hot and humid year-round, Dry (Dec-Apr), Rainy (May-Nov)",
+  "bestTimeToVisit": "December to April",
+  "image": "/images/regions/southern-thailand.webp",
+  "geography": "Two coastlines: Andaman Sea (west) and Gulf of Thailand (east). Limestone karsts, pristine beaches, and tropical islands.",
+  "culture": "Relaxed beach culture mixed with Muslim influences in the south. Fishing communities and tourism-focused areas.",
+  "cuisine": "Fresh seafood, southern curries, coconut-based dishes, tropical fruits. Spicier than northern cuisine with Malay influences.",
+  "transportation": "Domestic flights to Phuket/Krabi/Surat Thani. Ferries to islands. Buses along coast. Longtail boats and speedboats.",
+  "budgetInfo": "Budget: $20-35/day. Mid-range: $35-70/day. Luxury: $70+/day. Island prices higher, especially Phuket.",
+  "topActivities": [
+    "Beach hopping, snorkeling, diving, island tours, rock climbing, sea kayaking, sunset cruises, beach parties"
+  ],
+  "hiddenGems": [
+    "Koh Lipe, Koh Tao diving, Railay Beach climbing, Khao Sok National Park, James Bond Island, Similan Islands"
+  ],
+  "localFestivals": [
+    "Full Moon Party (monthly), Songkran (April), Chak Phra Festival (Oct), Vegetarian Festival (Oct), Loi Krathong (Nov)"
+  ],
+  "travelTips": [
+    "Book island transport in advance. Respect marine life. Stay hydrated. Use reef-safe sunscreen. Check weather conditions."
+  ],
+  "whatToPack": [
+    "Swimwear, reef-safe sunscreen, water shoes, quick-dry clothes, rain jacket, snorkeling gear, light evening wear, mosquito spray"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Southern Thailand | Complete Travel Guide",
+      "nl": "Ontdek Zuid-Thailand | Complete Reisgids"
+    },
+    "metaDescription": {
+      "en": "Complete guide to Southern Thailand - best cities, attractions, climate, and travel tips.",
+      "nl": "Complete gids voor Zuid-Thailand - beste steden, attracties, klimaat en reistips."
+    }
+  },
+  "categories": {
+    "attractions": {
+      "en": "Top attractions in Southern Thailand",
+      "nl": "Top bezienswaardigheden in Zuid-Thailand"
+    },
+    "cities": {
+      "en": "Best cities to visit in Southern Thailand",
+      "nl": "Beste steden om te bezoeken in Zuid-Thailand"
+    },
+    "climate": {
+      "en": "Climate and weather in Southern Thailand",
+      "nl": "Klimaat en weer in Zuid-Thailand"
+    }
+  },
+  "tags": [
+    "thailand",
+    "region",
+    "travel",
+    "tourism",
+    "guide",
+    "southern"
+  ]
+}

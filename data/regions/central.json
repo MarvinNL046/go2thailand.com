@@ -1,0 +1,79 @@
+{
+  "id": 2,
+  "slug": "central",
+  "name": {
+    "en": "Central Thailand",
+    "nl": "Centraal-Thailand"
+  },
+  "description": {
+    "en": "The heart of Thailand with bustling Bangkok, historic Ayutthaya, and easy access to beaches.",
+    "nl": "Het hart van Thailand met het bruisende Bangkok, historisch Ayutthaya en gemakkelijke toegang tot stranden."
+  },
+  "highlights": [
+    "Capital city Bangkok",
+    "Historic sites",
+    "Easy transportation",
+    "Cultural attractions",
+    "Mix of urban and historic"
+  ],
+  "cities": [
+    "Bangkok",
+    "Ayutthaya",
+    "Pattaya"
+  ],
+  "climate": "Hot (Mar-May), Rainy (Jun-Oct), Cool and dry (Nov-Feb)",
+  "bestTimeToVisit": "November to February",
+  "image": "/images/regions/central-thailand.webp",
+  "geography": "Flat river delta plains along the Chao Phraya River. Urban sprawl around Bangkok with historic sites and floating markets.",
+  "culture": "Mix of traditional Thai culture and modern cosmopolitan lifestyle. Royal heritage and Buddhist temples alongside skyscrapers.",
+  "cuisine": "Pad Thai, Tom Yum, Green Curry, Mango Sticky Rice. Street food capital with diverse international cuisine in Bangkok.",
+  "transportation": "Excellent BTS/MRT in Bangkok. Trains to Ayutthaya. Buses and taxis widely available. Don Mueang and Suvarnabhumi airports.",
+  "budgetInfo": "Budget: $30-50/day. Mid-range: $50-100/day. Luxury: $100+/day. Bangkok more expensive than other regions.",
+  "topActivities": [
+    "Grand Palace visits, floating markets, temple tours, street food tours, shopping, river cruises, day trips to Ayutthaya"
+  ],
+  "hiddenGems": [
+    "Amphawa floating market, Bang Krachao green lung, Train Market Maeklong, Wat Paknam glass chedi, Khlong Lat Mayom"
+  ],
+  "localFestivals": [
+    "Songkran (April), Loi Krathong (November), Chinese New Year (Jan/Feb), Royal ceremonies, Golden Mount Fair"
+  ],
+  "travelTips": [
+    "Use BTS/MRT to avoid traffic. Negotiate taxi fares. Stay hydrated. Dress modestly for temples. Beware of scams."
+  ],
+  "whatToPack": [
+    "Light breathable clothing, comfortable walking shoes, rain jacket, modest temple attire, air pollution mask, hand sanitizer"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Central Thailand | Complete Travel Guide",
+      "nl": "Ontdek Centraal-Thailand | Complete Reisgids"
+    },
+    "metaDescription": {
+      "en": "Complete guide to Central Thailand - best cities, attractions, climate, and travel tips.",
+      "nl": "Complete gids voor Centraal-Thailand - beste steden, attracties, klimaat en reistips."
+    }
+  },
+  "categories": {
+    "attractions": {
+      "en": "Top attractions in Central Thailand",
+      "nl": "Top bezienswaardigheden in Centraal-Thailand"
+    },
+    "cities": {
+      "en": "Best cities to visit in Central Thailand",
+      "nl": "Beste steden om te bezoeken in Centraal-Thailand"
+    },
+    "climate": {
+      "en": "Climate and weather in Central Thailand",
+      "nl": "Klimaat en weer in Centraal-Thailand"
+    }
+  },
+  "tags": [
+    "thailand",
+    "region",
+    "travel",
+    "tourism",
+    "guide",
+    "central"
+  ]
+}

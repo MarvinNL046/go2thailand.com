@@ -483,12 +483,12 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             </p>
           </div>
           
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {/* Northern Thailand */}
             <div className="card hover:shadow-xl transition-shadow duration-300">
               <div className="relative h-48 mb-4 rounded-lg overflow-hidden">
                 <Image
-                  src="/images/food/northern.webp"
+                  src="/images/regions/northern-thailand.webp"
                   alt="Northern Thailand"
                   fill
                   className="object-cover"
@@ -507,7 +507,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             <div className="card hover:shadow-xl transition-shadow duration-300">
               <div className="relative h-48 mb-4 rounded-lg overflow-hidden">
                 <Image
-                  src="/images/food/central.webp"
+                  src="/images/regions/central-thailand.webp"
                   alt="Central Thailand"
                   fill
                   className="object-cover"
@@ -526,7 +526,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             <div className="card hover:shadow-xl transition-shadow duration-300">
               <div className="relative h-48 mb-4 rounded-lg overflow-hidden">
                 <Image
-                  src="/images/food/southern.webp"
+                  src="/images/regions/southern-thailand.webp"
                   alt="Southern Thailand"
                   fill
                   className="object-cover"
@@ -538,6 +538,25 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
               </p>
               <Link href="/region/southern/" className="text-thailand-blue hover:text-thailand-red font-medium">
                 Explore Southern Thailand →
+              </Link>
+            </div>
+
+            {/* Isaan (Northeast Thailand) */}
+            <div className="card hover:shadow-xl transition-shadow duration-300">
+              <div className="relative h-48 mb-4 rounded-lg overflow-hidden">
+                <Image
+                  src="/images/regions/isaan-thailand.webp"
+                  alt="Isaan (Northeast Thailand)"
+                  fill
+                  className="object-cover"
+                />
+              </div>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">Isaan (Northeast)</h3>
+              <p className="text-gray-600 mb-4">
+                Authentic rural Thailand with unique Lao-influenced culture, spicy cuisine, and traditional festivals.
+              </p>
+              <Link href="/region/isaan/" className="text-thailand-blue hover:text-thailand-red font-medium">
+                Explore Isaan →
               </Link>
             </div>
           </div>
