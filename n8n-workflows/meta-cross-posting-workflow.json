@@ -1,0 +1,378 @@
+{
+  "name": "Thailand Travel - Meta Cross-Posting",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 3
+            }
+          ]
+        }
+      },
+      "id": "schedule-trigger",
+      "name": "Every 3 Hours",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.1,
+      "position": [250, 300]
+    },
+    {
+      "parameters": {
+        "url": "https://go2-thailand.com/api/social-media/posts",
+        "options": {
+          "headers": {
+            "parameters": [
+              {
+                "name": "X-Webhook-Key",
+                "value": "your-secure-webhook-key-here"
+              }
+            ]
+          }
+        }
+      },
+      "id": "fetch-content",
+      "name": "Fetch Website Content",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [450, 300]
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "// Select a random post from the fetched content\nconst posts = $input.item.json.posts;\nconst randomPost = posts[Math.floor(Math.random() * posts.length)];\n\n// Prepare content for both platforms\nconst content = {\n  // Facebook specific\n  facebook: {\n    message: randomPost.caption.facebook || randomPost.caption.default,\n    link: randomPost.link\n  },\n  // Instagram specific (requires media)\n  instagram: {\n    caption: randomPost.caption.instagram || randomPost.caption.default,\n    image_url: randomPost.image,\n    // Instagram requires a permanent image URL\n    media_type: \"IMAGE\"\n  },\n  // Shared data\n  hashtags: randomPost.hashtags.join(' '),\n  link: randomPost.link,\n  image: randomPost.image\n};\n\n// Add hashtags to both captions\ncontent.facebook.message += '\\n\\n' + content.hashtags;\ncontent.instagram.caption += '\\n\\n' + content.hashtags;\n\nreturn {\n  json: content\n};"
+      },
+      "id": "prepare-content",
+      "name": "Prepare Content",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [650, 300]
+    },
+    {
+      "parameters": {
+        "url": "https://graph.facebook.com/v18.0/{{$node[\"Credentials\"].json[\"facebook_page_id\"]}}/photos",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpQueryAuth",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "access_token",
+              "value": "={{$node[\"Credentials\"].json[\"facebook_access_token\"]}}"
+            },
+            {
+              "name": "message",
+              "value": "={{$json.facebook.message}}"
+            },
+            {
+              "name": "url",
+              "value": "={{$json.image}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "post-facebook",
+      "name": "Post to Facebook",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [850, 200]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://graph.facebook.com/v18.0/{{$node[\"Credentials\"].json[\"instagram_account_id\"]}}/media",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "access_token",
+              "value": "={{$node[\"Credentials\"].json[\"instagram_access_token\"]}}"
+            },
+            {
+              "name": "image_url",
+              "value": "={{$json.instagram.image_url}}"
+            },
+            {
+              "name": "caption",
+              "value": "={{$json.instagram.caption}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "create-instagram-media",
+      "name": "Create Instagram Media",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [850, 400]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://graph.facebook.com/v18.0/{{$node[\"Credentials\"].json[\"instagram_account_id\"]}}/media_publish",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "access_token",
+              "value": "={{$node[\"Credentials\"].json[\"instagram_access_token\"]}}"
+            },
+            {
+              "name": "creation_id",
+              "value": "={{$json.id}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "publish-instagram",
+      "name": "Publish Instagram Post",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [1050, 400]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "name": "facebook_page_id",
+              "value": "YOUR_FACEBOOK_PAGE_ID"
+            },
+            {
+              "name": "facebook_access_token",
+              "value": "YOUR_FACEBOOK_ACCESS_TOKEN"
+            },
+            {
+              "name": "instagram_account_id",
+              "value": "YOUR_INSTAGRAM_BUSINESS_ACCOUNT_ID"
+            },
+            {
+              "name": "instagram_access_token",
+              "value": "YOUR_INSTAGRAM_ACCESS_TOKEN"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "credentials",
+      "name": "Credentials",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.2,
+      "position": [250, 500]
+    },
+    {
+      "parameters": {
+        "content": "## Meta Cross-Posting Workflow\n\n### Setup Instructions:\n\n1. **Get Facebook Page Access Token:**\n   - Go to https://developers.facebook.com/\n   - Create an app if you haven't\n   - Add Facebook Login and Instagram Basic Display\n   - Get Page Access Token with these permissions:\n     - pages_show_list\n     - pages_manage_posts\n     - pages_read_engagement\n     - instagram_basic\n     - instagram_content_publish\n\n2. **Get Instagram Business Account ID:**\n   - Your Instagram account must be a Business account\n   - Link it to your Facebook Page\n   - Find ID via Graph API Explorer\n\n3. **Configure the Credentials node:**\n   - Add your Facebook Page ID\n   - Add your Facebook Access Token\n   - Add your Instagram Business Account ID\n   - Use the same token for Instagram (if using Page token)\n\n4. **Important Notes:**\n   - Images must be publicly accessible URLs\n   - Instagram only accepts JPEG images\n   - Min size: 320x320px, Max: 1080x1080px\n   - Facebook and Instagram use the same Meta token",
+        "height": 464.6439622057707,
+        "width": 393.58172165340577
+      },
+      "id": "setup-notes",
+      "name": "Setup Instructions",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [180, 100]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
+            {
+              "id": "facebook-success",
+              "leftValue": "={{ $node[\"Post to Facebook\"].json.error }}",
+              "rightValue": "",
+              "operator": {
+                "type": "object",
+                "operation": "empty"
+              }
+            },
+            {
+              "id": "instagram-success",
+              "leftValue": "={{ $node[\"Publish Instagram Post\"].json.error }}",
+              "rightValue": "",
+              "operator": {
+                "type": "object",
+                "operation": "empty"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "check-success",
+      "name": "Check Success",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1250, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "YOUR_WEBHOOK_URL_HERE",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "status",
+              "value": "success"
+            },
+            {
+              "name": "facebook_post_id",
+              "value": "={{$node[\"Post to Facebook\"].json.id}}"
+            },
+            {
+              "name": "instagram_post_id",
+              "value": "={{$node[\"Publish Instagram Post\"].json.id}}"
+            },
+            {
+              "name": "timestamp",
+              "value": "={{new Date().toISOString()}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "log-success",
+      "name": "Log Success",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [1450, 250]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "YOUR_ERROR_WEBHOOK_URL_HERE",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "status",
+              "value": "error"
+            },
+            {
+              "name": "error_message",
+              "value": "={{$json.error.message || 'Unknown error occurred'}}"
+            },
+            {
+              "name": "timestamp",
+              "value": "={{new Date().toISOString()}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "log-error",
+      "name": "Log Error",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [1450, 350]
+    }
+  ],
+  "connections": {
+    "Every 3 Hours": {
+      "main": [
+        [
+          {
+            "node": "Fetch Website Content",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch Website Content": {
+      "main": [
+        [
+          {
+            "node": "Prepare Content",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Prepare Content": {
+      "main": [
+        [
+          {
+            "node": "Post to Facebook",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Create Instagram Media",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Instagram Media": {
+      "main": [
+        [
+          {
+            "node": "Publish Instagram Post",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Post to Facebook": {
+      "main": [
+        [
+          {
+            "node": "Check Success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Publish Instagram Post": {
+      "main": [
+        [
+          {
+            "node": "Check Success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check Success": {
+      "main": [
+        [
+          {
+            "node": "Log Success",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Log Error",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {},
+  "versionId": "1",
+  "meta": {
+    "instanceId": "thailand-travel-meta-posting"
+  },
+  "id": "meta-cross-posting",
+  "tags": []
+}
