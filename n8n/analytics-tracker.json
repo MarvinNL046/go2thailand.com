@@ -1,0 +1,147 @@
+{
+  "name": "Social Media Analytics Tracker",
+  "description": "Tracks engagement metrics from Facebook and Instagram posts",
+  "nodes": [
+    {
+      "id": "daily-check",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "name": "Daily Analytics Check",
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 24,
+              "triggerAtHour": 10
+            }
+          ]
+        }
+      },
+      "position": [240, 300]
+    },
+    {
+      "id": "get-recent-posts",
+      "type": "n8n-nodes-base.googleSheets",
+      "name": "Get Recent Posts",
+      "parameters": {
+        "authentication": "oAuth2",
+        "operation": "read",
+        "sheetId": "{{$credentials.socialMediaLogSheet}}",
+        "range": "PostLog!A:J",
+        "options": {
+          "returnAllMatches": true
+        }
+      },
+      "position": [460, 300]
+    },
+    {
+      "id": "fetch-fb-metrics",
+      "type": "n8n-nodes-base.facebookGraphApi",
+      "name": "Fetch Facebook Metrics",
+      "parameters": {
+        "resource": "postInsight",
+        "postId": "={{$json.facebookPostId}}",
+        "metrics": [
+          "post_impressions",
+          "post_engaged_users",
+          "post_reactions_by_type_total",
+          "post_clicks",
+          "post_comments",
+          "post_shares"
+        ]
+      },
+      "position": [680, 200]
+    },
+    {
+      "id": "fetch-ig-metrics",
+      "type": "n8n-nodes-base.instagram",
+      "name": "Fetch Instagram Metrics",
+      "parameters": {
+        "resource": "mediaInsight",
+        "mediaId": "={{$json.instagramMediaId}}",
+        "metrics": [
+          "impressions",
+          "reach",
+          "likes",
+          "comments",
+          "saves",
+          "shares"
+        ]
+      },
+      "position": [680, 400]
+    },
+    {
+      "id": "calculate-metrics",
+      "type": "n8n-nodes-base.code",
+      "name": "Calculate Performance Metrics",
+      "parameters": {
+        "jsCode": "// Combine metrics from both platforms\nconst posts = $input.all();\n\nconst analytics = posts.map(post => {\n  const fbData = post.json.facebook || {};\n  const igData = post.json.instagram || {};\n  \n  // Calculate engagement rates\n  const fbEngagementRate = fbData.impressions > 0 \n    ? ((fbData.engaged_users / fbData.impressions) * 100).toFixed(2)\n    : 0;\n    \n  const igEngagementRate = igData.reach > 0\n    ? (((igData.likes + igData.comments) / igData.reach) * 100).toFixed(2)\n    : 0;\n  \n  // Performance scoring\n  const performanceScore = calculatePerformanceScore({\n    fb: fbEngagementRate,\n    ig: igEngagementRate,\n    shares: (fbData.shares || 0) + (igData.shares || 0),\n    clicks: fbData.clicks || 0\n  });\n  \n  return {\n    postId: post.json.postId,\n    contentType: post.json.contentType,\n    postDate: post.json.postedAt,\n    platform: post.json.platform,\n    metrics: {\n      facebook: {\n        impressions: fbData.impressions || 0,\n        engagement: fbData.engaged_users || 0,\n        engagementRate: fbEngagementRate,\n        reactions: fbData.reactions || 0,\n        comments: fbData.comments || 0,\n        shares: fbData.shares || 0,\n        clicks: fbData.clicks || 0\n      },\n      instagram: {\n        impressions: igData.impressions || 0,\n        reach: igData.reach || 0,\n        engagementRate: igEngagementRate,\n        likes: igData.likes || 0,\n        comments: igData.comments || 0,\n        saves: igData.saves || 0,\n        shares: igData.shares || 0\n      }\n    },\n    performanceScore,\n    insights: generateInsights(post.json, performanceScore)\n  };\n});\n\n// Helper functions\nfunction calculatePerformanceScore(data) {\n  const weights = {\n    fbEngagement: 0.3,\n    igEngagement: 0.3,\n    shares: 0.25,\n    clicks: 0.15\n  };\n  \n  let score = 0;\n  score += data.fb * weights.fbEngagement;\n  score += data.ig * weights.igEngagement;\n  score += Math.min(data.shares * 5, 25) * weights.shares;\n  score += Math.min(data.clicks * 0.5, 25) * weights.clicks;\n  \n  return Math.round(score);\n}\n\nfunction generateInsights(post, score) {\n  const insights = [];\n  \n  if (score > 80) {\n    insights.push('🌟 High performer! Consider similar content.');\n  }\n  if (post.contentType === 'food' && score > 60) {\n    insights.push('🍜 Food content performing well!');\n  }\n  if (post.platform === 'instagram' && post.instagram?.saves > 50) {\n    insights.push('📌 High saves - valuable content!');\n  }\n  \n  return insights;\n}\n\nreturn analytics;"
+      },
+      "position": [900, 300]
+    },
+    {
+      "id": "update-analytics",
+      "type": "n8n-nodes-base.googleSheets",
+      "name": "Update Analytics Sheet",
+      "parameters": {
+        "authentication": "oAuth2",
+        "operation": "update",
+        "sheetId": "{{$credentials.analyticsSheetId}}",
+        "range": "Analytics!A:K",
+        "options": {
+          "valueInputMode": "USER_ENTERED"
+        },
+        "dataMode": "autoMapInputData"
+      },
+      "position": [1120, 300]
+    },
+    {
+      "id": "generate-report",
+      "type": "n8n-nodes-base.code",
+      "name": "Generate Weekly Report",
+      "parameters": {
+        "jsCode": "// Generate weekly performance report\nconst analytics = $input.all();\nconst today = new Date();\nconst weekAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);\n\nconst weeklyPosts = analytics.filter(post => {\n  const postDate = new Date(post.json.postDate);\n  return postDate >= weekAgo && postDate <= today;\n});\n\n// Calculate weekly stats\nconst weeklyStats = {\n  totalPosts: weeklyPosts.length,\n  avgEngagementFB: average(weeklyPosts.map(p => parseFloat(p.json.metrics.facebook.engagementRate))),\n  avgEngagementIG: average(weeklyPosts.map(p => parseFloat(p.json.metrics.instagram.engagementRate))),\n  totalImpressions: sum(weeklyPosts.map(p => p.json.metrics.facebook.impressions + p.json.metrics.instagram.impressions)),\n  topPerformer: weeklyPosts.sort((a, b) => b.json.performanceScore - a.json.performanceScore)[0],\n  contentBreakdown: getContentBreakdown(weeklyPosts)\n};\n\n// Create report\nconst report = {\n  reportDate: today.toISOString(),\n  period: 'weekly',\n  stats: weeklyStats,\n  recommendations: generateRecommendations(weeklyStats),\n  nextWeekFocus: suggestContentFocus(weeklyStats)\n};\n\nfunction average(numbers) {\n  return numbers.length > 0 ? (sum(numbers) / numbers.length).toFixed(2) : 0;\n}\n\nfunction sum(numbers) {\n  return numbers.reduce((a, b) => a + b, 0);\n}\n\nfunction getContentBreakdown(posts) {\n  const breakdown = {};\n  posts.forEach(post => {\n    const type = post.json.contentType;\n    if (!breakdown[type]) {\n      breakdown[type] = { count: 0, avgScore: 0, scores: [] };\n    }\n    breakdown[type].count++;\n    breakdown[type].scores.push(post.json.performanceScore);\n  });\n  \n  Object.keys(breakdown).forEach(type => {\n    breakdown[type].avgScore = average(breakdown[type].scores);\n    delete breakdown[type].scores;\n  });\n  \n  return breakdown;\n}\n\nfunction generateRecommendations(stats) {\n  const recommendations = [];\n  \n  if (stats.avgEngagementIG > stats.avgEngagementFB * 1.5) {\n    recommendations.push('📸 Instagram performing better - increase IG-first content');\n  }\n  \n  if (stats.contentBreakdown.food?.avgScore > 70) {\n    recommendations.push('🍜 Food content is hot! Post more Thai dishes');\n  }\n  \n  if (stats.totalPosts < 10) {\n    recommendations.push('📈 Increase posting frequency for better reach');\n  }\n  \n  return recommendations;\n}\n\nfunction suggestContentFocus(stats) {\n  const topTypes = Object.entries(stats.contentBreakdown)\n    .sort((a, b) => b[1].avgScore - a[1].avgScore)\n    .slice(0, 3)\n    .map(([type]) => type);\n    \n  return {\n    focus: topTypes,\n    reason: 'Based on this week\\'s performance metrics'\n  };\n}\n\nreturn [report];"
+      },
+      "position": [1340, 300]
+    },
+    {
+      "id": "send-report",
+      "type": "n8n-nodes-base.emailSend",
+      "name": "Email Weekly Report",
+      "parameters": {
+        "fromEmail": "social@go2-thailand.com",
+        "toEmail": "marketing@go2-thailand.com",
+        "subject": "📊 Weekly Social Media Performance Report",
+        "html": true,
+        "htmlBody": "<h2>Weekly Social Media Report</h2>\n<p>Period: {{$json.period}}</p>\n<h3>Key Metrics:</h3>\n<ul>\n<li>Total Posts: {{$json.stats.totalPosts}}</li>\n<li>Total Impressions: {{$json.stats.totalImpressions}}</li>\n<li>Avg FB Engagement: {{$json.stats.avgEngagementFB}}%</li>\n<li>Avg IG Engagement: {{$json.stats.avgEngagementIG}}%</li>\n</ul>\n<h3>Recommendations:</h3>\n<ul>\n{{#each $json.recommendations}}\n<li>{{this}}</li>\n{{/each}}\n</ul>"
+      },
+      "position": [1560, 300]
+    }
+  ],
+  "connections": {
+    "daily-check": {
+      "main": [[{"node": "get-recent-posts", "type": "main", "index": 0}]]
+    },
+    "get-recent-posts": {
+      "main": [[
+        {"node": "fetch-fb-metrics", "type": "main", "index": 0},
+        {"node": "fetch-ig-metrics", "type": "main", "index": 0}
+      ]]
+    },
+    "fetch-fb-metrics": {
+      "main": [[{"node": "calculate-metrics", "type": "main", "index": 0}]]
+    },
+    "fetch-ig-metrics": {
+      "main": [[{"node": "calculate-metrics", "type": "main", "index": 0}]]
+    },
+    "calculate-metrics": {
+      "main": [[{"node": "update-analytics", "type": "main", "index": 0}]]
+    },
+    "update-analytics": {
+      "main": [[{"node": "generate-report", "type": "main", "index": 0}]]
+    },
+    "generate-report": {
+      "main": [[{"node": "send-report", "type": "main", "index": 0}]]
+    }
+  }
+}

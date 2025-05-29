@@ -1,0 +1,97 @@
+[
+  {
+    "id": "city-001",
+    "type": "city",
+    "title": "Bangkok - The City That Never Sleeps",
+    "caption": {
+      "default": "🏙️ Bangkok: Where ancient temples meet modern skyscrapers! From street food to rooftop bars, golden palaces to floating markets - Thailand's capital has it all! 🛺",
+      "facebook": "🏙️ BANGKOK - Thailand's Incredible Capital! 🇹🇭\n\nA city of contrasts where tradition meets modernity!\n\n✨ Must-do experiences:\n• Grand Palace & Wat Pho morning tour\n• Street food crawl in Chinatown\n• Sunset drinks at a rooftop bar\n• Chatuchak Weekend Market shopping\n• Chao Phraya river cruise\n\n🛺 Getting around:\n• BTS Skytrain & MRT - easy & cool\n• Tuk-tuks - fun but negotiate first!\n• Grab - reliable app-based transport\n\n💡 Insider tip: Many temples close at 3:30 PM!\n🏨 Stay near BTS for easy exploration\n\n📸 Best skyline views: Lebua, Vertigo, or Octave rooftop bars!",
+      "instagram": "🏙️ BANGKOK VIBES 🛺\n\nThe city that never sleeps! 🇹🇭\n\n✨ Bangkok essentials:\n• Temple hop 🛕\n• Street food crawl 🍜\n• Rooftop sunset 🌆\n• Market madness 🛍️\n• River cruise 🚤\n\n📸 Insta spots:\n• Wat Arun sunset\n• Chinatown neon\n• Skybar views\n\n💡 BTS = your best friend!"
+    },
+    "imageUrl": "/images/cities/bangkok/downtown-bangkok.webp",
+    "imageAlt": "Bangkok skyline temples and skyscrapers",
+    "link": "/city/bangkok/",
+    "hashtags": ["#Bangkok", "#Thailand", "#CityLife", "#TempleCity", "#StreetFood", "#Skyline", "#TravelBangkok", "#ThailandTravel", "#Go2Thailand"],
+    "location": "Bangkok, Thailand",
+    "cta": {
+      "text": "🏙️ Explore Bangkok neighborhoods",
+      "link": "https://go2-thailand.com/city/bangkok/"
+    }
+  },
+  {
+    "id": "city-002",
+    "type": "city",
+    "title": "Chiang Mai - Thailand's Cultural Heart",
+    "caption": {
+      "default": "🏔️ Chiang Mai: Where mountains meet culture! Over 300 temples, elephant sanctuaries, night markets, and the coolest weather in Thailand. The perfect escape from city life! 🐘",
+      "facebook": "🏔️ CHIANG MAI - The Rose of the North! 🌹\n\nThailand's cultural capital in the mountains!\n\n🛺 Old City treasures:\n• 300+ temples to explore\n• Sunday Walking Street market\n• Traditional Thai cooking classes\n• Authentic khao soi noodles\n\n🐘 Ethical experiences:\n• Elephant Nature Park\n• Doi Inthanon National Park\n• Mountain tribe villages\n• Zip-lining adventures\n\n🌡️ Best weather: Nov-Feb (cool!)\n🛵 Rent a scooter to explore\n☕ Digital nomad paradise\n\n💡 Don't miss: Yi Peng Lantern Festival (November)\n📸 Sunrise at Doi Suthep Temple = magical!",
+      "instagram": "🏔️ CHIANG MAI MAGIC 🐘\n\nMountain vibes & culture! 🇹🇭\n\n✨ CM bucketlist:\n• Temple hop Old City\n• Ethical elephant time\n• Mountain sunrise\n• Night market feast\n• Coffee culture ☕\n\n📸 Photo ops:\n• Doi Suthep views\n• Lantern festivals\n• Elephant sanctuary\n\n🌡️ Cool weather Nov-Feb!"
+    },
+    "imageUrl": "/images/cities/chiangmai/chiang-mai-park.webp",
+    "imageAlt": "Chiang Mai temples and mountains",
+    "link": "/city/chiang-mai/",
+    "hashtags": ["#ChiangMai", "#NorthernThailand", "#DigitalNomad", "#ElephantSanctuary", "#ThaiCulture", "#MountainCity", "#TempleCity", "#ThailandTravel", "#Go2Thailand"],
+    "location": "Chiang Mai, Thailand",
+    "cta": {
+      "text": "🏔️ Discover Chiang Mai experiences",
+      "link": "https://go2-thailand.com/city/chiang-mai/"
+    }
+  },
+  {
+    "id": "city-003",
+    "type": "city",
+    "title": "Phuket - Thailand's Island Playground",
+    "caption": {
+      "default": "🏝️ Phuket: Thailand's largest island offers everything! Stunning beaches, island hopping, vibrant nightlife, old town charm, and world-class resorts. Paradise found! 🌴",
+      "facebook": "🏝️ PHUKET - Island Paradise Awaits! 🌴\n\nThailand's premier island destination!\n\n🏖️ Beach life:\n• Patong - Party central\n• Kata/Karon - Family friendly\n• Surin - Upscale vibes\n• Freedom Beach - Hidden gem\n\n🚤 Island adventures:\n• Phi Phi day trips\n• James Bond Island\n• Similan diving (Nov-Apr)\n• Phang Nga Bay kayaking\n\n🌃 More than beaches:\n• Old Town Sino-Portuguese charm\n• Big Buddha viewpoint\n• Bangla Road nightlife\n• Simon Cabaret shows\n\n✈️ Direct international flights\n💡 Rent a car for freedom\n📸 Promthep Cape = best sunset!",
+      "instagram": "🏝️ PHUKET PARADISE 🌴\n\nIsland life at its best! 🇹🇭\n\n🏖️ Beach hop:\n• Party ➡️ Patong\n• Chill ➡️ Kata\n• Luxury ➡️ Surin\n• Secret ➡️ Freedom\n\n📸 Can't miss:\n• Big Buddha views\n• Old Town colors\n• Promthep sunset\n• Island hopping\n\n✈️ Fly direct!"
+    },
+    "imageUrl": "/images/cities/phuket/phuket-old-town.webp",
+    "imageAlt": "Phuket beaches and Old Town architecture",
+    "link": "/city/phuket/",
+    "hashtags": ["#Phuket", "#IslandLife", "#ThailandBeaches", "#PhuketOldTown", "#BeachParadise", "#IslandHopping", "#AndamanSea", "#ThailandIslands", "#Go2Thailand"],
+    "location": "Phuket, Thailand",
+    "cta": {
+      "text": "🏝️ Plan your Phuket adventure",
+      "link": "https://go2-thailand.com/city/phuket/"
+    }
+  },
+  {
+    "id": "city-004",
+    "type": "city",
+    "title": "Krabi - Nature's Playground",
+    "caption": {
+      "default": "🏔️ Krabi: Where limestone cliffs meet turquoise seas! Rock climbing paradise, island hopping base, and home to Thailand's most beautiful beaches. Adventure awaits! 🧗‍♀️",
+      "facebook": "🏔️ KRABI - Adventure Paradise! 🏖️\n\nStunning limestone cliffs & pristine beaches!\n\n🧗‍♀️ Adventure capital:\n• World-class rock climbing at Railay\n• Island hopping to Phi Phi\n• Kayaking through mangroves\n• Emerald Pool & Hot Springs\n• Tiger Cave Temple (1,237 steps!)\n\n🏖️ Beach bliss:\n• Railay - Only by boat\n• Ao Nang - Island hub\n• Tubkaek - Luxury escape\n• Klong Muang - Family perfect\n\n🚤 Must-do: 4 Islands Tour\n🌅 Best: November-April\n✈️ Fly direct from Bangkok\n\n💡 Stay in Ao Nang for convenience\n📸 Phra Nang Cave Beach = stunning!",
+      "instagram": "🏔️ KRABI ADVENTURES 🧗‍♀️\n\nLimestone cliffs & beaches! 🇹🇭\n\n✨ Krabi musts:\n• Railay rock climbing\n• 4 Islands tour\n• Emerald Pool swim\n• Tiger Cave climb\n• Phi Phi day trip\n\n📸 Epic shots:\n• Railay viewpoint\n• Phra Nang cave\n• Island hopping\n\n🚤 Boats everywhere!"
+    },
+    "imageUrl": "/images/cities/krabi/krabi-mountain-view.webp",
+    "imageAlt": "Krabi limestone cliffs and beaches",
+    "link": "/city/krabi/",
+    "hashtags": ["#Krabi", "#RockClimbing", "#Railay", "#IslandHopping", "#AdventureTravel", "#ThailandNature", "#LimestoneCliffs", "#BeachLife", "#Go2Thailand"],
+    "location": "Krabi Province, Thailand",
+    "cta": {
+      "text": "🧗‍♀️ Explore Krabi adventures",
+      "link": "https://go2-thailand.com/city/krabi/"
+    }
+  },
+  {
+    "id": "city-005",
+    "type": "city",
+    "title": "Ayutthaya - Ancient Kingdom Ruins",
+    "caption": {
+      "default": "🏛️ Ayutthaya: Step into Thailand's glorious past! This UNESCO World Heritage site was once the world's largest city. Now, magnificent temple ruins tell stories of ancient Siam! 🛕",
+      "facebook": "🏛️ AYUTTHAYA - Thailand's Ancient Capital! 🛕\n\nA UNESCO World Heritage site just 80km from Bangkok!\n\n📜 700 years of history:\n• Capital of Siam (1350-1767)\n• Once the world's largest city\n• Destroyed by Burmese in 1767\n• Now hauntingly beautiful ruins\n\n🛺 Must-see temples:\n• Wat Mahathat - Buddha in tree\n• Wat Phra Si Sanphet - 3 chedis\n• Wat Chaiwatthanaram - Riverside\n• Wat Yai Chai Mongkhon - Giant Buddha\n\n🚲 Best by bicycle (50 THB/day)\n🚂 Train from Bangkok (15 THB!)\n🌅 Magical at sunset\n\n💡 Stay overnight for temple lights!\n📸 Hire traditional Thai costume for photos!",
+      "instagram": "🏛️ AYUTTHAYA RUINS 🛕\n\nAncient capital vibes! 🇹🇭\n\n📸 Instagram gold:\n• Buddha head in tree\n• 3 iconic chedis\n• Sunset silhouettes\n• Thai costume photos\n\n🚲 Bike around ruins\n🚂 1.5hr from Bangkok\n💰 Budget friendly!\n\n✨ Stay for night lights!"
+    },
+    "imageUrl": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+    "imageAlt": "Ayutthaya ancient temple ruins",
+    "link": "/city/ayutthaya/",
+    "hashtags": ["#Ayutthaya", "#UNESCO", "#AncientCapital", "#ThaiHistory", "#TempleRuins", "#DayTrip", "#SiamKingdom", "#ThailandHeritage", "#Go2Thailand"],
+    "location": "Ayutthaya, Thailand",
+    "cta": {
+      "text": "🏛️ Plan your historical journey",
+      "link": "https://go2-thailand.com/city/ayutthaya/"
+    }
+  }
+]

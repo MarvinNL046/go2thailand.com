@@ -1,0 +1,168 @@
+{
+  "name": "Go2Thailand Social Media Automation",
+  "nodes": [
+    {
+      "id": "start",
+      "type": "n8n-nodes-base.start",
+      "name": "Start",
+      "position": [240, 300]
+    },
+    {
+      "id": "schedule",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "name": "Daily Schedule",
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 24
+            }
+          ]
+        }
+      },
+      "position": [460, 300]
+    },
+    {
+      "id": "contentSelector",
+      "type": "n8n-nodes-base.code",
+      "name": "Select Content Type",
+      "parameters": {
+        "jsCode": "// Determine which content type to post based on day of week\nconst dayOfWeek = new Date().getDay();\nconst contentTypes = {\n  1: 'food',      // Monday\n  2: 'attraction', // Tuesday\n  3: 'city',      // Wednesday\n  4: 'beach',     // Thursday\n  5: 'top10',     // Friday\n  6: 'temple',    // Saturday\n  0: 'culture'    // Sunday\n};\n\nreturn [{\n  contentType: contentTypes[dayOfWeek],\n  dayOfWeek: dayOfWeek\n}];"
+      },
+      "position": [680, 300]
+    },
+    {
+      "id": "loadContent",
+      "type": "n8n-nodes-base.readBinaryFiles",
+      "name": "Load Content Data",
+      "parameters": {
+        "fileSelector": "data/social-media/{{$node[\"contentSelector\"].json[\"contentType\"]}}.json"
+      },
+      "position": [900, 300]
+    },
+    {
+      "id": "selectRandom",
+      "type": "n8n-nodes-base.code",
+      "name": "Select Random Post",
+      "parameters": {
+        "jsCode": "// Select random post from loaded content\nconst items = $input.all();\nconst posts = JSON.parse(items[0].json.data);\nconst randomIndex = Math.floor(Math.random() * posts.length);\nconst selectedPost = posts[randomIndex];\n\n// Add tracking info\nselectedPost.postedAt = new Date().toISOString();\nselectedPost.source = 'n8n-automation';\n\nreturn [selectedPost];"
+      },
+      "position": [1120, 300]
+    },
+    {
+      "id": "formatForFacebook",
+      "type": "n8n-nodes-base.code",
+      "name": "Format for Facebook",
+      "parameters": {
+        "jsCode": "const post = $input.first().json;\n\n// Format post for Facebook\nconst fbPost = {\n  message: post.caption.facebook || post.caption.default,\n  link: post.link ? `https://go2-thailand.com${post.link}` : undefined,\n  hashtags: post.hashtags.join(' '),\n  imageUrl: post.imageUrl ? `https://go2-thailand.com${post.imageUrl}` : undefined\n};\n\n// Add call-to-action\nif (post.cta) {\n  fbPost.message += `\\n\\n${post.cta.text} 👉 ${post.cta.link}`;\n}\n\nreturn [fbPost];"
+      },
+      "position": [1340, 200]
+    },
+    {
+      "id": "formatForInstagram",
+      "type": "n8n-nodes-base.code",
+      "name": "Format for Instagram",
+      "parameters": {
+        "jsCode": "const post = $input.first().json;\n\n// Format post for Instagram\nconst igPost = {\n  caption: post.caption.instagram || post.caption.default,\n  imageUrl: post.imageUrl ? `https://go2-thailand.com${post.imageUrl}` : undefined,\n  hashtags: post.hashtags.slice(0, 30).join(' '), // Instagram max 30 hashtags\n  altText: post.imageAlt || post.title\n};\n\n// Add location tag if available\nif (post.location) {\n  igPost.location = post.location;\n}\n\n// Format caption with hashtags\nigPost.fullCaption = `${igPost.caption}\\n\\n${igPost.hashtags}\\n\\n🔗 Link in bio for more Thailand travel tips!`;\n\nreturn [igPost];"
+      },
+      "position": [1340, 400]
+    },
+    {
+      "id": "postToFacebook",
+      "type": "n8n-nodes-base.facebookGraphApi",
+      "name": "Post to Facebook",
+      "parameters": {
+        "resource": "post",
+        "operation": "create",
+        "pageId": "{{$credentials.facebookPageId}}",
+        "message": "={{$json[\"message\"]}}",
+        "link": "={{$json[\"link\"]}}",
+        "additionalFields": {
+          "imageUrl": "={{$json[\"imageUrl\"]}}"
+        }
+      },
+      "position": [1560, 200],
+      "credentials": {
+        "facebookGraphApi": {
+          "id": "1",
+          "name": "Facebook Graph API"
+        }
+      }
+    },
+    {
+      "id": "postToInstagram",
+      "type": "n8n-nodes-base.instagram",
+      "name": "Post to Instagram",
+      "parameters": {
+        "resource": "media",
+        "operation": "create",
+        "businessAccountId": "{{$credentials.instagramBusinessAccountId}}",
+        "caption": "={{$json[\"fullCaption\"]}}",
+        "imageUrl": "={{$json[\"imageUrl\"]}}"
+      },
+      "position": [1560, 400],
+      "credentials": {
+        "instagramApi": {
+          "id": "2",
+          "name": "Instagram Business API"
+        }
+      }
+    },
+    {
+      "id": "logResults",
+      "type": "n8n-nodes-base.googleSheets",
+      "name": "Log to Google Sheets",
+      "parameters": {
+        "operation": "append",
+        "sheetId": "{{$credentials.socialMediaLogSheet}}",
+        "range": "A:G",
+        "options": {
+          "valueInputMode": "USER_ENTERED"
+        },
+        "dataMode": "autoMapInputData"
+      },
+      "position": [1780, 300],
+      "credentials": {
+        "googleSheetsApi": {
+          "id": "3",
+          "name": "Google Sheets API"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "schedule": {
+      "main": [[{"node": "contentSelector", "type": "main", "index": 0}]]
+    },
+    "contentSelector": {
+      "main": [[{"node": "loadContent", "type": "main", "index": 0}]]
+    },
+    "loadContent": {
+      "main": [[{"node": "selectRandom", "type": "main", "index": 0}]]
+    },
+    "selectRandom": {
+      "main": [[
+        {"node": "formatForFacebook", "type": "main", "index": 0},
+        {"node": "formatForInstagram", "type": "main", "index": 0}
+      ]]
+    },
+    "formatForFacebook": {
+      "main": [[{"node": "postToFacebook", "type": "main", "index": 0}]]
+    },
+    "formatForInstagram": {
+      "main": [[{"node": "postToInstagram", "type": "main", "index": 0}]]
+    },
+    "postToFacebook": {
+      "main": [[{"node": "logResults", "type": "main", "index": 0}]]
+    },
+    "postToInstagram": {
+      "main": [[{"node": "logResults", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true,
+    "callerPolicy": "workflowsFromSameOwner"
+  }
+}
