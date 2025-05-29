@@ -4,7 +4,8 @@
       "Bash(rg:*)",
       "Bash(find:*)",
       "Bash(mkdir:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(npm run:*)"
     ],
     "deny": []
   }

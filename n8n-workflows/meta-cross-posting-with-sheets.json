@@ -1,0 +1,443 @@
+{
+  "name": "Thailand Travel - Meta Cross-Posting with Content Tracking",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 3
+            }
+          ]
+        }
+      },
+      "id": "schedule-trigger",
+      "name": "Every 3 Hours",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.1,
+      "position": [250, 300]
+    },
+    {
+      "parameters": {
+        "url": "https://go2-thailand.com/api/social-media/posts",
+        "options": {
+          "headers": {
+            "parameters": [
+              {
+                "name": "X-Webhook-Key",
+                "value": "your-secure-webhook-key-here"
+              }
+            ]
+          }
+        }
+      },
+      "id": "fetch-content",
+      "name": "Fetch Website Content",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [450, 300]
+    },
+    {
+      "parameters": {
+        "documentId": "YOUR_GOOGLE_SHEET_ID",
+        "sheetName": "Content_Tracking",
+        "options": {}
+      },
+      "id": "read-posted-content",
+      "name": "Read Posted Content from Sheets",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4,
+      "position": [650, 300]
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "// Get all previously posted content IDs from Google Sheets\nconst previouslyPosted = $input.all().slice(1).map(item => {\n  const data = item.json;\n  if (data && data[0]) { // First column contains content ID\n    return data[0];\n  }\n  return null;\n}).filter(Boolean);\n\n// Get current content from API\nconst posts = $node[\"Fetch Website Content\"].json.posts;\n\n// Filter out already posted content\nconst availablePosts = posts.filter(post => {\n  return !previouslyPosted.includes(post.id);\n});\n\nif (availablePosts.length === 0) {\n  return {\n    json: {\n      message: \"No new content available\",\n      skip: true\n    }\n  };\n}\n\n// Select a random post from available content\nconst selectedPost = availablePosts[Math.floor(Math.random() * availablePosts.length)];\n\n// Prepare content for both platforms\nconst content = {\n  // Post data\n  postId: selectedPost.id,\n  postType: selectedPost.type,\n  postTitle: selectedPost.title,\n  \n  // Facebook specific\n  facebook: {\n    message: selectedPost.caption.facebook || selectedPost.caption.default,\n    link: selectedPost.link\n  },\n  \n  // Instagram specific\n  instagram: {\n    caption: selectedPost.caption.instagram || selectedPost.caption.default,\n    image_url: selectedPost.image || selectedPost.imageUrl,\n    media_type: \"IMAGE\"\n  },\n  \n  // Shared data\n  hashtags: selectedPost.hashtags ? selectedPost.hashtags.join(' ') : '',\n  link: selectedPost.link,\n  image: selectedPost.image || selectedPost.imageUrl,\n  location: selectedPost.location || '',\n  \n  // Tracking data\n  timestamp: new Date().toISOString(),\n  sourceFile: selectedPost.sourceFile || 'unknown'\n};\n\n// Add hashtags to both captions\nif (content.hashtags) {\n  content.facebook.message += '\\n\\n' + content.hashtags;\n  content.instagram.caption += '\\n\\n' + content.hashtags;\n}\n\nreturn {\n  json: content\n};"
+      },
+      "id": "check-duplicates-prepare-content",
+      "name": "Check Duplicates & Prepare Content",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [850, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
+            {
+              "id": "not-skip",
+              "leftValue": "={{ $json.skip }}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "notEqual"
+              }
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "check-content-available",
+      "name": "Check Content Available",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1050, 300]
+    },
+    {
+      "parameters": {
+        "url": "https://graph.facebook.com/v18.0/{{$node[\"Credentials\"].json[\"facebook_page_id\"]}}/photos",
+        "method": "POST",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "access_token",
+              "value": "={{$node[\"Credentials\"].json[\"facebook_access_token\"]}}"
+            },
+            {
+              "name": "message",
+              "value": "={{$json.facebook.message}}"
+            },
+            {
+              "name": "url",
+              "value": "={{$json.image}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "post-facebook",
+      "name": "Post to Facebook",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [1250, 200]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://graph.facebook.com/v18.0/{{$node[\"Credentials\"].json[\"instagram_account_id\"]}}/media",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "access_token",
+              "value": "={{$node[\"Credentials\"].json[\"instagram_access_token\"]}}"
+            },
+            {
+              "name": "image_url",
+              "value": "={{$json.instagram.image_url}}"
+            },
+            {
+              "name": "caption",
+              "value": "={{$json.instagram.caption}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "create-instagram-media",
+      "name": "Create Instagram Media",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [1250, 400]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://graph.facebook.com/v18.0/{{$node[\"Credentials\"].json[\"instagram_account_id\"]}}/media_publish",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "access_token",
+              "value": "={{$node[\"Credentials\"].json[\"instagram_access_token\"]}}"
+            },
+            {
+              "name": "creation_id",
+              "value": "={{$json.id}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "publish-instagram",
+      "name": "Publish Instagram Post",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [1450, 400]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "name": "facebook_page_id",
+              "value": "YOUR_FACEBOOK_PAGE_ID"
+            },
+            {
+              "name": "facebook_access_token",
+              "value": "YOUR_FACEBOOK_ACCESS_TOKEN"
+            },
+            {
+              "name": "instagram_account_id",
+              "value": "YOUR_INSTAGRAM_BUSINESS_ACCOUNT_ID"
+            },
+            {
+              "name": "instagram_access_token",
+              "value": "YOUR_INSTAGRAM_ACCESS_TOKEN"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "credentials",
+      "name": "Credentials",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.2,
+      "position": [250, 500]
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "// Prepare data for Google Sheets logging\nconst facebook = $node[\"Post to Facebook\"].json;\nconst instagram = $node[\"Publish Instagram Post\"].json;\nconst originalData = $node[\"Check Duplicates & Prepare Content\"].json;\n\nconst sheetData = [\n  originalData.postId,\n  originalData.postType,\n  originalData.postTitle,\n  originalData.timestamp,\n  facebook.id || 'FAILED',\n  instagram.id || 'FAILED',\n  originalData.hashtags,\n  originalData.location,\n  originalData.sourceFile,\n  facebook.error ? 'ERROR: ' + facebook.error.message : 'SUCCESS',\n  instagram.error ? 'ERROR: ' + instagram.error.message : 'SUCCESS'\n];\n\nreturn {\n  json: {\n    sheetData: sheetData\n  }\n};"
+      },
+      "id": "prepare-sheet-data",
+      "name": "Prepare Sheet Data",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1650, 300]
+    },
+    {
+      "parameters": {
+        "documentId": "YOUR_GOOGLE_SHEET_ID",
+        "sheetName": "Content_Tracking",
+        "columnRow": "A:K",
+        "values": "={{$json.sheetData}}",
+        "options": {
+          "valueInputMode": "USER_ENTERED"
+        }
+      },
+      "id": "log-to-sheets",
+      "name": "Log to Google Sheets",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4,
+      "position": [1850, 300]
+    },
+    {
+      "parameters": {
+        "content": "## Google Sheets Setup\n\n### Required Columns (A-K):\n\n1. **A: Content_ID** - Unique identifier\n2. **B: Content_Type** - food, city, attraction, etc.\n3. **C: Content_Title** - Post title\n4. **D: Post_Date** - When posted\n5. **E: Facebook_Post_ID** - FB post ID\n6. **F: Instagram_Post_ID** - IG post ID\n7. **G: Hashtags** - Used hashtags\n8. **H: Location** - Post location\n9. **I: Source_File** - JSON source file\n10. **J: Facebook_Status** - SUCCESS/ERROR\n11. **K: Instagram_Status** - SUCCESS/ERROR\n\n### Setup Steps:\n1. Create Google Sheet with headers\n2. Share with n8n service account\n3. Copy Sheet ID to workflow\n4. Test with manual run",
+        "height": 464.6439622057707,
+        "width": 393.58172165340577
+      },
+      "id": "sheets-setup",
+      "name": "Google Sheets Setup Guide",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [180, 650]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "YOUR_SUCCESS_WEBHOOK_URL",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "status",
+              "value": "success"
+            },
+            {
+              "name": "content_id",
+              "value": "={{$node[\"Check Duplicates & Prepare Content\"].json.postId}}"
+            },
+            {
+              "name": "facebook_post_id",
+              "value": "={{$node[\"Post to Facebook\"].json.id}}"
+            },
+            {
+              "name": "instagram_post_id",
+              "value": "={{$node[\"Publish Instagram Post\"].json.id}}"
+            },
+            {
+              "name": "timestamp",
+              "value": "={{new Date().toISOString()}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "notify-success",
+      "name": "Notify Success",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [2050, 250]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "YOUR_ERROR_WEBHOOK_URL",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "status",
+              "value": "no_content"
+            },
+            {
+              "name": "message",
+              "value": "No new content available - all recent posts already shared"
+            },
+            {
+              "name": "timestamp",
+              "value": "={{new Date().toISOString()}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "notify-no-content",
+      "name": "Notify No Content",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [1250, 500]
+    }
+  ],
+  "connections": {
+    "Every 3 Hours": {
+      "main": [
+        [
+          {
+            "node": "Fetch Website Content",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch Website Content": {
+      "main": [
+        [
+          {
+            "node": "Read Posted Content from Sheets",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read Posted Content from Sheets": {
+      "main": [
+        [
+          {
+            "node": "Check Duplicates & Prepare Content",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check Duplicates & Prepare Content": {
+      "main": [
+        [
+          {
+            "node": "Check Content Available",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check Content Available": {
+      "main": [
+        [
+          {
+            "node": "Post to Facebook",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Create Instagram Media",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Notify No Content",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Post to Facebook": {
+      "main": [
+        [
+          {
+            "node": "Prepare Sheet Data",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Instagram Media": {
+      "main": [
+        [
+          {
+            "node": "Publish Instagram Post",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Publish Instagram Post": {
+      "main": [
+        [
+          {
+            "node": "Prepare Sheet Data",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Prepare Sheet Data": {
+      "main": [
+        [
+          {
+            "node": "Log to Google Sheets",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Log to Google Sheets": {
+      "main": [
+        [
+          {
+            "node": "Notify Success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {},
+  "versionId": "2",
+  "meta": {
+    "instanceId": "thailand-travel-meta-sheets"
+  },
+  "id": "meta-cross-posting-sheets",
+  "tags": []
+}
