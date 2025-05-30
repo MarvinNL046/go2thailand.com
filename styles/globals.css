@@ -5,58 +5,150 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
 /* Ezoic Cookie Consent Banner Customization */
-/* Make the cookie banner more subtle and less overwhelming */
+/* Make the cookie banner MUCH more subtle and less overwhelming */
+
+/* Target ALL possible consent modal containers */
 .ez__cmp-wrapper,
 .ez__cmp-modal,
-[class*="cmp-"] {
+[class*="cmp-wrapper"],
+[class*="consent-wrapper"],
+[class*="consent-modal"],
+[class*="cookie-banner"],
+[class*="cookie-modal"],
+[class*="gdpr"],
+#gdpr-consent-tool-wrapper,
+.gdpr-consent-tool-wrapper {
   z-index: 9999 !important; /* Lower from default very high z-index */
 }
 
-/* Make the overlay less dark */
+/* Make the overlay much lighter or remove it */
 .ez__cmp-overlay,
-[class*="cmp-overlay"] {
-  background-color: rgba(0, 0, 0, 0.3) !important; /* Lighter overlay */
+[class*="cmp-overlay"],
+[class*="consent-overlay"],
+[class*="modal-backdrop"] {
+  background-color: rgba(0, 0, 0, 0.1) !important; /* Very light overlay */
+  backdrop-filter: blur(2px) !important;
 }
 
-/* Make the consent modal smaller and more subtle */
+/* Make the consent modal MUCH smaller and position it at bottom corner */
 .ez__cmp-modal-content,
 [class*="cmp-modal-content"],
-[class*="cmp-container"] {
-  max-width: 450px !important;
-  margin: auto !important;
+[class*="cmp-container"],
+[class*="consent-container"],
+[class*="consent-content"],
+[class*="cookie-content"],
+[class*="gdpr-content"],
+.gdpr-consent-tool {
+  max-width: 350px !important;
+  width: 90% !important;
+  max-height: 300px !important;
+  position: fixed !important;
+  bottom: 20px !important;
+  right: 20px !important;
+  left: auto !important;
+  top: auto !important;
+  margin: 0 !important;
+  transform: none !important;
   border-radius: 12px !important;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+  font-size: 13px !important;
+  overflow-y: auto !important;
 }
 
-/* Reduce padding in the modal */
+/* Mobile adjustments */
+@media (max-width: 640px) {
+  .ez__cmp-modal-content,
+  [class*="cmp-modal-content"],
+  [class*="cmp-container"],
+  [class*="consent-container"],
+  [class*="consent-content"],
+  [class*="cookie-content"],
+  [class*="gdpr-content"],
+  .gdpr-consent-tool {
+    max-width: calc(100% - 20px) !important;
+    width: calc(100% - 20px) !important;
+    bottom: 10px !important;
+    right: 10px !important;
+    left: 10px !important;
+  }
+}
+
+/* Reduce ALL padding */
 .ez__cmp-modal-body,
 [class*="cmp-body"],
-[class*="cmp-content"] {
-  padding: 1.5rem !important;
+[class*="cmp-content"],
+[class*="consent-body"],
+[class*="gdpr-body"],
+div[class*="padding"] {
+  padding: 1rem !important;
+  margin: 0 !important;
 }
 
-/* Make buttons more subtle */
+/* Make ALL buttons smaller */
 .ez__cmp-button,
-[class*="cmp-button"] {
-  padding: 0.5rem 1.5rem !important;
-  font-size: 14px !important;
+[class*="cmp-button"],
+[class*="consent-button"],
+[class*="cookie-button"],
+[class*="gdpr-button"],
+button[class*="accept"],
+button[class*="reject"],
+button[class*="save"] {
+  padding: 0.4rem 1rem !important;
+  font-size: 13px !important;
   border-radius: 6px !important;
+  min-height: auto !important;
+  line-height: 1.2 !important;
 }
 
-/* Make the text smaller */
+/* Make ALL text smaller */
 .ez__cmp-text,
 [class*="cmp-text"],
-[class*="cmp-description"] {
-  font-size: 14px !important;
-  line-height: 1.5 !important;
+[class*="cmp-description"],
+[class*="consent-text"],
+[class*="consent-description"],
+[class*="gdpr-text"],
+p {
+  font-size: 13px !important;
+  line-height: 1.4 !important;
+  margin-bottom: 0.5rem !important;
 }
 
-/* Make the title smaller */
+/* Make titles smaller */
 .ez__cmp-title,
 [class*="cmp-title"],
-[class*="cmp-heading"] {
-  font-size: 18px !important;
-  margin-bottom: 1rem !important;
+[class*="cmp-heading"],
+[class*="consent-title"],
+[class*="consent-heading"],
+[class*="gdpr-title"],
+h1, h2, h3, h4 {
+  font-size: 16px !important;
+  margin-bottom: 0.75rem !important;
+  font-weight: 600 !important;
+}
+
+/* Hide unnecessary elements */
+[class*="cmp-logo"],
+[class*="consent-logo"],
+[class*="powered-by"],
+[class*="vendor-list"],
+[class*="show-vendors"] {
+  display: none !important;
+}
+
+/* Compact the button container */
+[class*="button-container"],
+[class*="cmp-buttons"],
+[class*="consent-buttons"],
+[class*="action-buttons"] {
+  display: flex !important;
+  gap: 0.5rem !important;
+  margin-top: 0.75rem !important;
+}
+
+/* Force smaller spacing everywhere */
+* {
+  --cmp-spacing: 0.5rem !important;
+  --cmp-gap: 0.5rem !important;
 }
 
 @layer base {
