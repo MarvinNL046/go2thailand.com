@@ -526,6 +526,7 @@ export const getStaticProps: GetStaticProps = async () => {
       rating: 4.5,
       dealText: "Get $3 off with code THAILAND"
     },
+    /* Temporarily disabled - waiting for affiliate approval
     {
       id: 2,
       name: "Holafly",
@@ -620,6 +621,7 @@ export const getStaticProps: GetStaticProps = async () => {
       affiliateLink: "https://affiliate-link-simoptions.com",
       rating: 4.0
     }
+    */ // End of temporarily disabled providers
   ];
 
   return {
