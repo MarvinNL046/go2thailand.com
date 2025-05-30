@@ -245,13 +245,13 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                             <p className="font-semibold mb-1">📱 Scan with your phone</p>
                             <p className="text-xs">Quick access to {provider.name}</p>
                           </div>
-                          <div className="relative w-24 h-24 bg-white rounded-lg overflow-hidden shadow-sm border border-gray-200">
+                          <div className="relative w-32 h-32 bg-white rounded-lg overflow-hidden shadow-md border border-gray-200">
                             <Image
                               src={provider.qrCodeImage}
                               alt={`${provider.name} QR Code`}
-                              width={96}
-                              height={96}
-                              className="object-contain"
+                              width={128}
+                              height={128}
+                              className="object-contain p-2"
                             />
                           </div>
                         </div>
