@@ -484,7 +484,7 @@ export const getStaticProps: GetStaticProps = async () => {
         "No unlimited plans",
         "Can be pricey for long stays"
       ],
-      affiliateLink: "https://affiliate-link-airalo.com",
+      affiliateLink: "https://airalo.tp.st/U13cYHox",
       rating: 4.5,
       dealText: "Get $3 off with code THAILAND"
     },
