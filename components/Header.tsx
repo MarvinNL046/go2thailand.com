@@ -16,7 +16,7 @@ const Header = () => {
               <div className="relative">
                 <div className="h-24 w-24 relative transform transition-transform group-hover:scale-110">
                   <Image
-                    src="/images/go2thailand-logo-original.png"
+                    src="/images/go2thailand-logo-original.webp"
                     alt="Go2Thailand - Your Ultimate Thailand Travel Guide"
                     height={96}
                     width={96}
