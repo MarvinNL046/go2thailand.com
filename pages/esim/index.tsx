@@ -23,6 +23,7 @@ interface ESIMProvider {
   cons: string[];
   affiliateLink: string;
   mobileAppLink?: string;
+  qrCodeImage?: string;
   rating: number;
   dealText?: string;
 }
@@ -235,6 +236,27 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                         </a>
                       )}
                     </div>
+
+                    {/* QR Code for mobile scanning */}
+                    {provider.qrCodeImage && (
+                      <div className="mt-4 pt-4 border-t border-gray-200">
+                        <div className="flex items-center justify-between">
+                          <div className="text-sm text-gray-600">
+                            <p className="font-semibold mb-1">📱 Scan with your phone</p>
+                            <p className="text-xs">Quick access to {provider.name}</p>
+                          </div>
+                          <div className="relative w-24 h-24 bg-white rounded-lg overflow-hidden shadow-sm border border-gray-200">
+                            <Image
+                              src={provider.qrCodeImage}
+                              alt={`${provider.name} QR Code`}
+                              width={96}
+                              height={96}
+                              className="object-contain"
+                            />
+                          </div>
+                        </div>
+                      </div>
+                    )}
                   </div>
                 </div>
               ))}
@@ -500,6 +522,7 @@ export const getStaticProps: GetStaticProps = async () => {
       ],
       affiliateLink: "https://airalo.tp.st/r8TriO5V",
       mobileAppLink: "https://airalo.tp.st/vG2gKDGp",
+      qrCodeImage: "/affiliate-qrcodes/airalo/tp-airalo-qr-code.jpeg",
       rating: 4.5,
       dealText: "Get $3 off with code THAILAND"
     },
