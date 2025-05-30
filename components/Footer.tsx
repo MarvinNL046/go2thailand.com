@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white">
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-8">
           {/* Brand */}
           <div className="col-span-1 md:col-span-2 lg:col-span-2">
             <Link href="/" className="flex items-center space-x-2 mb-4">
@@ -78,6 +78,35 @@ const Footer = () => {
               <li>
                 <Link href="/city/pattaya/" className="text-gray-300 hover:text-white text-sm transition-colors">
                   Pattaya
+                </Link>
+              </li>
+            </ul>
+          </div>
+
+          {/* Travel Resources */}
+          <div>
+            <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase mb-4">
+              Travel Resources
+            </h3>
+            <ul className="space-y-2">
+              <li>
+                <Link href="/esim/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Thailand eSIM
+                </Link>
+              </li>
+              <li>
+                <Link href="/travel-insurance/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Travel Insurance
+                </Link>
+              </li>
+              <li>
+                <Link href="/travel-gear/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Travel Gear
+                </Link>
+              </li>
+              <li>
+                <Link href="/food/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Thai Food Guide
                 </Link>
               </li>
             </ul>

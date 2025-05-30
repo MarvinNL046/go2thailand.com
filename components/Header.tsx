@@ -60,6 +60,20 @@ const Header = () => {
                 <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
               </Link>
               <Link 
+                href="/travel-insurance/" 
+                className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
+              >
+                Insurance
+                <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
+              </Link>
+              <Link 
+                href="/travel-gear/" 
+                className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
+              >
+                Gear
+                <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
+              </Link>
+              <Link 
                 href="/social/" 
                 className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
               >
@@ -212,6 +226,20 @@ const Header = () => {
               onClick={() => setIsMobileMenuOpen(false)}
             >
               📱 eSIM
+            </Link>
+            <Link 
+              href="/travel-insurance/" 
+              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              🛡️ Travel Insurance
+            </Link>
+            <Link 
+              href="/travel-gear/" 
+              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              🎒 Travel Gear
             </Link>
             <Link 
               href="/social/" 

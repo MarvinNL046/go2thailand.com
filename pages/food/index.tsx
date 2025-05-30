@@ -5,6 +5,7 @@ import Image from 'next/image';
 import { getAllDishes } from '../../lib/food';
 import EzoicAd from '../../components/EzoicAd';
 import { EZOIC_PLACEMENT_IDS } from '../../lib/ads/ezoic-config';
+import Breadcrumbs from '../../components/Breadcrumbs';
 
 interface Dish {
   id: number;
@@ -117,6 +118,16 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
               className="mx-auto"
               lazy={false}
             />
+          </div>
+        </section>
+
+        {/* Breadcrumbs */}
+        <section className="bg-white">
+          <div className="container-custom py-6">
+            <Breadcrumbs items={[
+              { name: 'Home', href: '/' },
+              { name: 'Thai Food Guide', href: '/food' }
+            ]} />
           </div>
         </section>
 

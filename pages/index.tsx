@@ -191,17 +191,6 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         </div>
       </section>
 
-      {/* 💰 AD BETWEEN STATS AND FEATURED */}
-      <section className="bg-gray-50 py-6">
-        <div className="container-custom">
-          <EzoicAd 
-            placementId={102}
-            size="rectangle"
-            className="mx-auto"
-            lazy={true}
-          />
-        </div>
-      </section>
 
       {/* Featured Cities */}
       <section id="featured" className="section-padding bg-gray-50">

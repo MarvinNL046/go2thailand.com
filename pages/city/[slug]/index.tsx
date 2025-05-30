@@ -6,7 +6,9 @@ import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadc
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import CityCard from '../../../components/CityCard';
 import EzoicAd from '../../../components/EzoicAd';
+import Sidebar from '../../../components/Sidebar';
 import { AD_PLACEMENTS } from '../../../lib/ads/ezoic-config';
+import { useEffect } from 'react';
 
 interface City {
   id: number;
@@ -147,6 +149,26 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
 
   const breadcrumbs = generateBreadcrumbs(city);
   const metadata = generateCityMetadata(city);
+  
+  // Load Trip.com widget on client side
+  useEffect(() => {
+    const script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://tpembd.com/content?trs=384595&shmarker=602467&locale=en&curr=USD&powered_by=true&border_radius=0&plain=true&color_button=%232681ff&color_button_text=%23ffffff&color_border=%232681ff&promo_id=4132&campaign_id=121';
+    script.charset = 'utf-8';
+    
+    const widgetContainer = document.getElementById('trip-com-widget');
+    if (widgetContainer && widgetContainer.children.length === 0) {
+      widgetContainer.appendChild(script);
+    }
+    
+    // Cleanup
+    return () => {
+      if (widgetContainer && script.parentNode) {
+        widgetContainer.removeChild(script);
+      }
+    };
+  }, []);
 
   return (
     <>
@@ -383,6 +405,155 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                     </div>
                   </div>
                 )}
+
+                {/* Where to Stay Section */}
+                <div className="mb-12">
+                  <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                    🏨 Where to Stay in {city.name.en}
+                  </h2>
+                  <div className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-6 border border-blue-200">
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
+                      {/* Budget Hotels */}
+                      <div className="bg-white rounded-lg p-4 shadow-sm">
+                        <h3 className="font-semibold text-lg mb-2 text-gray-900">💰 Budget Hotels</h3>
+                        <p className="text-gray-600 text-sm mb-3">Great value accommodations from $10-30/night</p>
+                        <a 
+                          href={`https://trip.tp.st/yeelXIdE`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-blue-600 hover:text-blue-800 font-medium text-sm"
+                        >
+                          View Budget Options →
+                        </a>
+                      </div>
+                      
+                      {/* Mid-Range Hotels */}
+                      <div className="bg-white rounded-lg p-4 shadow-sm">
+                        <h3 className="font-semibold text-lg mb-2 text-gray-900">⭐ Mid-Range Hotels</h3>
+                        <p className="text-gray-600 text-sm mb-3">Comfortable stays from $30-80/night</p>
+                        <a 
+                          href={`https://trip.tp.st/yeelXIdE`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-blue-600 hover:text-blue-800 font-medium text-sm"
+                        >
+                          View Mid-Range →
+                        </a>
+                      </div>
+                      
+                      {/* Luxury Hotels */}
+                      <div className="bg-white rounded-lg p-4 shadow-sm">
+                        <h3 className="font-semibold text-lg mb-2 text-gray-900">✨ Luxury Hotels</h3>
+                        <p className="text-gray-600 text-sm mb-3">Premium experiences from $80+/night</p>
+                        <a 
+                          href={`https://trip.tp.st/yeelXIdE`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-blue-600 hover:text-blue-800 font-medium text-sm"
+                        >
+                          View Luxury Hotels →
+                        </a>
+                      </div>
+                    </div>
+                    
+                    {/* Trip.com CTA */}
+                    <div className="text-center">
+                      <a 
+                        href={`https://trip.tp.st/yeelXIdE`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+                      >
+                        🔍 Search All {city.name.en} Hotels on Trip.com
+                      </a>
+                      <p className="text-xs text-gray-600 mt-2">
+                        💡 We earn a commission when you book through our links at no extra cost to you
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Travel Services Section */}
+                <div className="mb-12">
+                  <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                    ✈️ Complete Travel Services for {city.name.en}
+                  </h2>
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+                    {/* Hotel + Flight Bundle */}
+                    <div className="bg-gradient-to-br from-purple-50 to-indigo-50 rounded-lg p-4 border border-purple-200 hover:shadow-lg transition-shadow">
+                      <div className="text-center">
+                        <div className="text-3xl mb-2">✈️🏨</div>
+                        <h3 className="font-semibold text-gray-900 mb-2">Flight + Hotel</h3>
+                        <p className="text-sm text-gray-600 mb-3">Save up to 20% with bundles</p>
+                        <a 
+                          href="https://trip.tp.st/DrPeHSFI"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="inline-block bg-purple-600 text-white px-4 py-2 rounded text-sm font-medium hover:bg-purple-700 transition-colors"
+                        >
+                          Book Bundle →
+                        </a>
+                      </div>
+                    </div>
+                    
+                    {/* Airport Transfers */}
+                    <div className="bg-gradient-to-br from-green-50 to-emerald-50 rounded-lg p-4 border border-green-200 hover:shadow-lg transition-shadow">
+                      <div className="text-center">
+                        <div className="text-3xl mb-2">🚕</div>
+                        <h3 className="font-semibold text-gray-900 mb-2">Airport Transfers</h3>
+                        <p className="text-sm text-gray-600 mb-3">Door-to-door convenience</p>
+                        <a 
+                          href="https://trip.tp.st/h4kJjHv9"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="inline-block bg-green-600 text-white px-4 py-2 rounded text-sm font-medium hover:bg-green-700 transition-colors"
+                        >
+                          Book Transfer →
+                        </a>
+                      </div>
+                    </div>
+                    
+                    {/* Car Rental */}
+                    <div className="bg-gradient-to-br from-orange-50 to-red-50 rounded-lg p-4 border border-orange-200 hover:shadow-lg transition-shadow">
+                      <div className="text-center">
+                        <div className="text-3xl mb-2">🚗</div>
+                        <h3 className="font-semibold text-gray-900 mb-2">Car Rental</h3>
+                        <p className="text-sm text-gray-600 mb-3">Explore at your own pace</p>
+                        <a 
+                          href="https://trip.tp.st/oLwZ3h1y"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="inline-block bg-orange-600 text-white px-4 py-2 rounded text-sm font-medium hover:bg-orange-700 transition-colors"
+                        >
+                          Rent a Car →
+                        </a>
+                      </div>
+                    </div>
+                    
+                    {/* Hotels (repeat for balance) */}
+                    <div className="bg-gradient-to-br from-blue-50 to-cyan-50 rounded-lg p-4 border border-blue-200 hover:shadow-lg transition-shadow">
+                      <div className="text-center">
+                        <div className="text-3xl mb-2">🏨</div>
+                        <h3 className="font-semibold text-gray-900 mb-2">Hotels</h3>
+                        <p className="text-sm text-gray-600 mb-3">1.2M+ properties worldwide</p>
+                        <a 
+                          href="https://trip.tp.st/yeelXIdE"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="inline-block bg-blue-600 text-white px-4 py-2 rounded text-sm font-medium hover:bg-blue-700 transition-colors"
+                        >
+                          Find Hotels →
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  
+                  <div className="mt-4 text-center">
+                    <p className="text-xs text-gray-500">
+                      💡 Book with confidence - 24/7 customer support & best price guarantee
+                    </p>
+                  </div>
+                </div>
 
                 {/* In-Content Ad */}
                 <div className="mb-12">
@@ -649,9 +820,9 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
               </div>
 
               {/* Sidebar */}
-              <div className="lg:col-span-1">
+              <Sidebar>
                 {/* Quick Facts */}
-                <div className="card mb-8">
+                <div className="card">
                   <h3 className="text-xl font-bold text-gray-900 mb-4">Quick Facts</h3>
                   <div className="space-y-3">
                     <div className="flex justify-between">
@@ -671,6 +842,53 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                       <span className="font-medium text-sm">
                         {city.location.lat.toFixed(4)}, {city.location.lng.toFixed(4)}
                       </span>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Trip.com Search Widget */}
+                <div className="card mb-8">
+                  <h3 className="text-xl font-bold text-gray-900 mb-4">🔍 Search Hotels & Flights</h3>
+                  
+                  {/* Trip.com Widget */}
+                  <div className="mb-4">
+                    <div id="trip-com-widget" className="min-h-[200px]" />
+                  </div>
+                  
+                  {/* Quick Links */}
+                  <div className="border-t pt-4">
+                    <p className="text-xs text-gray-600 mb-3">Or search directly:</p>
+                    <a 
+                      href="https://trip.tp.st/yeelXIdE"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block w-full bg-blue-600 text-white text-center py-2 rounded font-medium hover:bg-blue-700 transition-colors mb-2"
+                    >
+                      🏨 Browse All Hotels
+                    </a>
+                  </div>
+                  
+                  {/* Trip.com Features */}
+                  <div className="border-t pt-4 mt-4">
+                    <div className="text-xs text-gray-600 space-y-1">
+                      <div className="flex items-center">
+                        <svg className="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                          <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                        </svg>
+                        <span>24/7 Customer Service</span>
+                      </div>
+                      <div className="flex items-center">
+                        <svg className="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                          <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                        </svg>
+                        <span>Best Price Guarantee</span>
+                      </div>
+                      <div className="flex items-center">
+                        <svg className="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                          <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                        </svg>
+                        <span>1.2M+ Hotels Worldwide</span>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -869,7 +1087,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                     </div>
                   </div>
                 )}
-              </div>
+              </Sidebar>
             </div>
           </div>
         </section>

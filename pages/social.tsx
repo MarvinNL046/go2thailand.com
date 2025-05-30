@@ -5,6 +5,7 @@ import Image from 'next/image';
 import { useState } from 'react';
 import EzoicAd from '../components/EzoicAd';
 import { EZOIC_AD_UNITS } from '../lib/ads/ezoic-config';
+import Breadcrumbs from '../components/Breadcrumbs';
 
 interface SocialPost {
   id: string;
@@ -100,6 +101,16 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                 </a>
               </div>
             </div>
+          </div>
+        </section>
+
+        {/* Breadcrumbs */}
+        <section className="bg-white">
+          <div className="container-custom py-6">
+            <Breadcrumbs items={[
+              { name: 'Home', href: '/' },
+              { name: 'Social Media', href: '/social' }
+            ]} />
           </div>
         </section>
 

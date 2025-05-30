@@ -10,13 +10,23 @@
   }
   
   body {
-    @apply bg-gray-50 overflow-x-hidden;
+    @apply bg-gray-50;
   }
   
-  /* Prevent horizontal scroll on mobile */
-  html, body {
-    max-width: 100%;
+  /* Prevent horizontal scroll on mobile while allowing sticky positioning */
+  html {
     overflow-x: hidden;
+  }
+  
+  body {
+    overflow-x: hidden;
+    /* Allow vertical scrolling for sticky elements */
+    overflow-y: auto;
+  }
+  
+  /* Ensure proper width constraint */
+  body > * {
+    max-width: 100%;
   }
 }
 

@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import EzoicAd from '../../components/EzoicAd';
 import { EZOIC_AD_UNITS } from '../../lib/ads/ezoic-config';
+import Breadcrumbs from '../../components/Breadcrumbs';
 
 interface ESIMProvider {
   id: number;
@@ -77,6 +78,25 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
               className="mx-auto"
               lazy={false}
             />
+          </div>
+        </section>
+
+        {/* Breadcrumbs */}
+        <section className="bg-white">
+          <div className="container-custom py-6">
+            <Breadcrumbs items={[
+              { name: 'Home', href: '/' },
+              { name: 'Thailand eSIM', href: '/esim' }
+            ]} />
+            
+            {/* Affiliate Notice */}
+            <div className="bg-orange-50 border border-orange-200 rounded-lg mt-4">
+              <div className="px-4 py-3">
+                <p className="text-sm text-center text-orange-800">
+                  💡 This page contains affiliate links. We may earn a commission at no extra cost to you when you purchase through our links. 😊
+                </p>
+              </div>
+            </div>
           </div>
         </section>
 
