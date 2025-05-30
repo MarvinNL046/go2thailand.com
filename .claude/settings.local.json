@@ -12,7 +12,9 @@
       "Bash(curl:*)",
       "Bash(grep:*)",
       "Bash(sed:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "WebFetch(domain:go2-thailand.com)",
+      "Bash(git commit:*)"
     ],
     "deny": []
   }

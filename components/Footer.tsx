@@ -120,9 +120,20 @@ const Footer = () => {
 
         <div className="mt-8 pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-gray-400 text-sm">
-              © {currentYear} Go2Thailand.com. All rights reserved.
-            </p>
+            <div className="flex flex-col md:flex-row items-center gap-4">
+              <p className="text-gray-400 text-sm">
+                © {currentYear} Go2Thailand.com. All rights reserved.
+              </p>
+              <div className="flex items-center gap-4 text-sm">
+                <Link href="/privacy" className="text-gray-400 hover:text-white transition-colors">
+                  Privacy Policy
+                </Link>
+                <span className="text-gray-600">|</span>
+                <Link href="/terms" className="text-gray-400 hover:text-white transition-colors">
+                  Terms of Service
+                </Link>
+              </div>
+            </div>
             <div className="mt-4 md:mt-0">
               <p className="text-xs text-gray-500">
                 Travel information is for reference only. Please verify details before your trip.
