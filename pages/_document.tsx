@@ -9,6 +9,15 @@ export default function Document() {
         {/* Ezoic Site Verification */}
         <meta name="ezoic-site-verification" content="LQx1WNnvCxOQ8XYZnNU5Fp6M2D5BBV" />
         
+        {/* Google AdSense - Only in production */}
+        {isProduction && (
+          <script 
+            async 
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9667530069853985"
+            crossOrigin="anonymous"
+          />
+        )}
+        
         {/* Ezoic Privacy Scripts - Only in production */}
         {isProduction && (
           <>
