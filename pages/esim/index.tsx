@@ -22,6 +22,7 @@ interface ESIMProvider {
   pros: string[];
   cons: string[];
   affiliateLink: string;
+  mobileAppLink?: string;
   rating: number;
   dealText?: string;
 }
@@ -212,15 +213,28 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                       </div>
                     </div>
 
-                    {/* CTA Button */}
-                    <a 
-                      href={provider.affiliateLink}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="block w-full bg-thailand-blue text-white text-center py-3 rounded-lg font-semibold hover:bg-thailand-blue-dark transition-colors"
-                    >
-                      Get {provider.name} eSIM →
-                    </a>
+                    {/* CTA Buttons */}
+                    <div className="flex gap-3">
+                      <a 
+                        href={provider.affiliateLink}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex-1 bg-thailand-blue text-white text-center py-3 rounded-lg font-semibold hover:bg-thailand-blue-dark transition-colors"
+                      >
+                        Get {provider.name} eSIM →
+                      </a>
+                      {provider.mobileAppLink && (
+                        <a 
+                          href={provider.mobileAppLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="px-4 py-3 bg-gray-800 text-white rounded-lg font-semibold hover:bg-gray-700 transition-colors flex items-center gap-2"
+                          title="Download Mobile App"
+                        >
+                          📱 App
+                        </a>
+                      )}
+                    </div>
                   </div>
                 </div>
               ))}
@@ -484,7 +498,8 @@ export const getStaticProps: GetStaticProps = async () => {
         "No unlimited plans",
         "Can be pricey for long stays"
       ],
-      affiliateLink: "https://airalo.tp.st/U13cYHox",
+      affiliateLink: "https://airalo.tp.st/r8TriO5V",
+      mobileAppLink: "https://airalo.tp.st/vG2gKDGp",
       rating: 4.5,
       dealText: "Get $3 off with code THAILAND"
     },
