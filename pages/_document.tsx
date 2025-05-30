@@ -6,6 +6,9 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
+        {/* Ezoic Site Verification */}
+        <meta name="ezoic-site-verification" content="LQx1WNnvCxOQ8XYZnNU5Fp6M2D5BBV" />
+        
         {/* Ezoic Privacy Scripts - Only in production */}
         {isProduction && (
           <>
