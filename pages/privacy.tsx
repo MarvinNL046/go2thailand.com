@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
+import { useEffect } from 'react';
 import Breadcrumbs from '../components/Breadcrumbs';
 
 export default function PrivacyPolicy() {
@@ -7,6 +8,23 @@ export default function PrivacyPolicy() {
     { name: 'Home', href: '/' },
     { name: 'Privacy Policy', href: '/privacy' }
   ];
+
+  useEffect(() => {
+    // Load Ezoic privacy policy content
+    const script = document.createElement('script');
+    script.src = 'https://g.ezoic.net/privacy/go2-thailand.com.js';
+    script.async = true;
+    
+    // Add script to page
+    document.body.appendChild(script);
+    
+    // Cleanup on unmount
+    return () => {
+      if (document.body.contains(script)) {
+        document.body.removeChild(script);
+      }
+    };
+  }, []);
 
   return (
     <>
@@ -69,6 +87,25 @@ export default function PrivacyPolicy() {
                     Google Privacy Policy
                   </a>.
                 </p>
+                
+                {/* Ezoic Privacy Policy Embed */}
+                <div className="mt-6 p-4 bg-gray-50 rounded-lg">
+                  <h3 className="text-lg font-semibold mb-3">Ezoic Privacy Policy</h3>
+                  <span id="ezoic-privacy-policy-embed"></span>
+                  <div className="mt-3 text-sm text-gray-600">
+                    <p>
+                      For detailed information about how Ezoic and its partners use data, please visit:{' '}
+                      <a 
+                        href="http://g.ezoic.net/privacy/go2-thailand.com" 
+                        target="_blank" 
+                        rel="noopener noreferrer" 
+                        className="text-thailand-blue hover:underline"
+                      >
+                        Ezoic Privacy Disclosures for Go2Thailand.com
+                      </a>
+                    </p>
+                  </div>
+                </div>
               </section>
 
               <section className="mb-8">
