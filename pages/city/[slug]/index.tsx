@@ -235,7 +235,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
             
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
               {/* Main Content */}
-              <div className="lg:col-span-2">
+              <div className="lg:col-span-2 order-last lg:order-first">
                 {/* City Description */}
                 <div className="mb-12">
                   <h2 className="text-3xl font-bold text-gray-900 mb-6">
@@ -820,7 +820,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
               </div>
 
               {/* Sidebar */}
-              <Sidebar>
+              <Sidebar mobilePosition="top">
                 {/* Quick Facts */}
                 <div className="card">
                   <h3 className="text-xl font-bold text-gray-900 mb-4">Quick Facts</h3>
