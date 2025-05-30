@@ -56,9 +56,22 @@ export default function App({ Component, pageProps }: AppProps) {
         <link rel="icon" href="/go2thailand-faviocon.webp" />
         <link rel="apple-touch-icon" href="/go2thailand-faviocon.webp" />
         
-        {/* Google Tag Manager */}
-        {isProduction && (
-          <script
+        
+        {/* Ezoic Meta Tags */}
+        {isProduction && AD_CONFIG.SITE_KEY && (
+          <>
+            <meta name="ezoic-site-verification" content={AD_CONFIG.SITE_KEY} />
+          </>
+        )}
+      </Head>
+
+      {/* Analytics and Ad Scripts - Only in production */}
+      {isProduction && (
+        <>
+          {/* Google Tag Manager - Load with lazyOnload for better performance */}
+          <Script
+            id="gtm-script"
+            strategy="lazyOnload"
             dangerouslySetInnerHTML={{
               __html: `
                 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -69,32 +82,42 @@ export default function App({ Component, pageProps }: AppProps) {
               `
             }}
           />
-        )}
-        
-        {/* Ezoic Meta Tags */}
-        {isProduction && AD_CONFIG.SITE_KEY && (
-          <>
-            <meta name="ezoic-site-verification" content={AD_CONFIG.SITE_KEY} />
-            <meta name="google-adsense-account" content="ca-pub-your-publisher-id" />
-          </>
-        )}
-      </Head>
-
-      {/* Ezoic Script - Only in production */}
-      {isProduction && (
-        <>
+          
+          {/* Gatekeeper Consent Scripts - Load after page is interactive */}
+          <Script
+            id="gatekeeper-min"
+            strategy="afterInteractive"
+            src="https://cmp.gatekeeperconsent.com/min.js"
+            data-cfasync="false"
+          />
+          
+          <Script
+            id="gatekeeper-cmp"
+            strategy="afterInteractive"
+            src="https://the.gatekeeperconsent.com/cmp.min.js"
+            data-cfasync="false"
+          />
+          
+          {/* Ezoic Scripts - Load with lazyOnload for better performance */}
+          <Script
+            id="ezoic-sa"
+            strategy="lazyOnload"
+            src="//www.ezojs.com/ezoic/sa.min.js"
+          />
+          
           <Script
             id="ezoic-main"
-            strategy="afterInteractive"
+            strategy="lazyOnload"
             src="//go.ezoic.net/detroitchicago/spacer.gif"
           />
           
           <Script
             id="ezoic-standalone"
-            strategy="afterInteractive"
+            strategy="lazyOnload"
             dangerouslySetInnerHTML={{
               __html: `
                 window.ezstandalone = window.ezstandalone || {};
+                window.ezstandalone.cmd = window.ezstandalone.cmd || [];
                 window.ezstandalone.define = window.ezstandalone.define || function(slot) {
                   return true;
                 };

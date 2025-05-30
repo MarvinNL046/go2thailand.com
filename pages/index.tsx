@@ -80,6 +80,14 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         <meta property="og:description" content="Discover amazing destinations across Thailand. Explore cities, attractions, food, and culture in the Land of Smiles." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://go2-thailand.com/" />
+        
+        {/* Preload the first hero image for better LCP */}
+        <link
+          rel="preload"
+          as="image"
+          href="/images/homepageHero/business-district-bangkok.webp"
+          type="image/webp"
+        />
       </Head>
 
       {/* Hero Section with Auto-Rotating Slider */}
@@ -99,7 +107,11 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                 fill
                 className="object-cover"
                 priority={index === 0} // Only prioritize first image
-                quality={90}
+                loading={index === 0 ? "eager" : "lazy"} // Eager load first image
+                quality={75} // Lower quality for faster load
+                sizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, 100vw" // Responsive sizes
+                placeholder="blur" // Add blur placeholder
+                blurDataURL="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAABAAEDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAhEAACAQMDBQAAAAAAAAAAAAABAgMABAUGIWEREiMxUf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEgMRkf/aAAwDAQACEQMRAD8AltJagyeH0AthI5xdrLcNM91BF5pX2HaH9bcfaSXWGaRmknyJckliyjqTzSlT54b6bk+h0R//2Q=="
               />
             </div>
           ))}

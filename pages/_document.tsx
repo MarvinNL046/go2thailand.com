@@ -6,33 +6,44 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
+        {/* Preconnect to external origins for better performance */}
+        {isProduction && (
+          <>
+            {/* Google Tag Manager */}
+            <link rel="preconnect" href="https://www.googletagmanager.com" />
+            <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+            
+            {/* Google Ads/AdSense */}
+            <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
+            <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+            
+            {/* Ezoic */}
+            <link rel="preconnect" href="https://go.ezoic.net" />
+            <link rel="dns-prefetch" href="https://go.ezoic.net" />
+            
+            {/* Gatekeeper Consent */}
+            <link rel="preconnect" href="https://cmp.gatekeeperconsent.com" />
+            <link rel="dns-prefetch" href="https://cmp.gatekeeperconsent.com" />
+            <link rel="preconnect" href="https://the.gatekeeperconsent.com" />
+            <link rel="dns-prefetch" href="https://the.gatekeeperconsent.com" />
+          </>
+        )}
+        
         {/* Ezoic Site Verification */}
         <meta name="ezoic-site-verification" content="LQx1WNnvCxOQ8XYZnNU5Fp6M2D5BBV" />
         
-        {/* Google AdSense - Only in production */}
-        {isProduction && (
-          <script 
-            async 
-            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9667530069853985"
-            crossOrigin="anonymous"
-          />
-        )}
+        {/* Google AdSense - Removed to improve performance (using Ezoic instead) */}
         
-        {/* Ezoic Privacy Scripts - Only in production */}
+        {/* Ezoic initialization script - moved consent scripts to _app.tsx for better performance */}
         {isProduction && (
-          <>
-            <script src="https://cmp.gatekeeperconsent.com/min.js" data-cfasync="false"></script>
-            <script src="https://the.gatekeeperconsent.com/cmp.min.js" data-cfasync="false"></script>
-            <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
-            <script
-              dangerouslySetInnerHTML={{
-                __html: `
-                  window.ezstandalone = window.ezstandalone || {};
-                  ezstandalone.cmd = ezstandalone.cmd || [];
-                `,
-              }}
-            />
-          </>
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+                window.ezstandalone = window.ezstandalone || {};
+                ezstandalone.cmd = ezstandalone.cmd || [];
+              `,
+            }}
+          />
         )}
       </Head>
       <body>

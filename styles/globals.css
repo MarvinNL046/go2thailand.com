@@ -4,6 +4,61 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
+/* Ezoic Cookie Consent Banner Customization */
+/* Make the cookie banner more subtle and less overwhelming */
+.ez__cmp-wrapper,
+.ez__cmp-modal,
+[class*="cmp-"] {
+  z-index: 9999 !important; /* Lower from default very high z-index */
+}
+
+/* Make the overlay less dark */
+.ez__cmp-overlay,
+[class*="cmp-overlay"] {
+  background-color: rgba(0, 0, 0, 0.3) !important; /* Lighter overlay */
+}
+
+/* Make the consent modal smaller and more subtle */
+.ez__cmp-modal-content,
+[class*="cmp-modal-content"],
+[class*="cmp-container"] {
+  max-width: 450px !important;
+  margin: auto !important;
+  border-radius: 12px !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Reduce padding in the modal */
+.ez__cmp-modal-body,
+[class*="cmp-body"],
+[class*="cmp-content"] {
+  padding: 1.5rem !important;
+}
+
+/* Make buttons more subtle */
+.ez__cmp-button,
+[class*="cmp-button"] {
+  padding: 0.5rem 1.5rem !important;
+  font-size: 14px !important;
+  border-radius: 6px !important;
+}
+
+/* Make the text smaller */
+.ez__cmp-text,
+[class*="cmp-text"],
+[class*="cmp-description"] {
+  font-size: 14px !important;
+  line-height: 1.5 !important;
+}
+
+/* Make the title smaller */
+.ez__cmp-title,
+[class*="cmp-title"],
+[class*="cmp-heading"] {
+  font-size: 18px !important;
+  margin-bottom: 1rem !important;
+}
+
 @layer base {
   html {
     font-family: 'Inter', system-ui, sans-serif;
