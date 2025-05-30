@@ -2,13 +2,16 @@ import type { AppProps } from 'next/app';
 import Head from 'next/head';
 import Script from 'next/script';
 import { useEffect } from 'react';
+import { useRouter } from 'next/router';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import EzoicDebugger from '../components/EzoicDebugger';
 import { AD_CONFIG } from '../lib/ads/ezoic-config';
 import '../styles/globals.css';
 
 export default function App({ Component, pageProps }: AppProps) {
   const isProduction = process.env.NODE_ENV === 'production';
+  const router = useRouter();
 
   useEffect(() => {
     // Initialize Ezoic in production
@@ -17,6 +20,35 @@ export default function App({ Component, pageProps }: AppProps) {
       console.log('Ezoic ads initialized');
     }
   }, [isProduction]);
+
+  // Handle route changes for Ezoic ads
+  useEffect(() => {
+    const handleRouteChangeStart = () => {
+      // Optionally destroy all ads before route change
+      if (typeof window !== 'undefined' && window.ezstandalone?.destroyAll) {
+        window.ezstandalone.cmd?.push(() => {
+          window.ezstandalone.destroyAll();
+        });
+      }
+    };
+
+    const handleRouteChangeComplete = () => {
+      // Refresh ads after route change
+      if (typeof window !== 'undefined' && window.ezstandalone?.showAds) {
+        window.ezstandalone.cmd?.push(() => {
+          window.ezstandalone.showAds();
+        });
+      }
+    };
+
+    router.events.on('routeChangeStart', handleRouteChangeStart);
+    router.events.on('routeChangeComplete', handleRouteChangeComplete);
+
+    return () => {
+      router.events.off('routeChangeStart', handleRouteChangeStart);
+      router.events.off('routeChangeComplete', handleRouteChangeComplete);
+    };
+  }, [router.events]);
 
   return (
     <>
@@ -88,6 +120,7 @@ export default function App({ Component, pageProps }: AppProps) {
           <Component {...pageProps} />
         </main>
         <Footer />
+        <EzoicDebugger />
       </div>
     </>
   );

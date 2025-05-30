@@ -1,8 +1,9 @@
 import React, { useEffect, useRef, useState } from 'react';
+import { useRouter } from 'next/router';
 
 export interface EzoicAdProps {
-  /** Unique ad unit identifier */
-  adUnit: string;
+  /** Unique ad placement ID (e.g., 101, 102, etc.) */
+  placementId: number;
   /** Ad size/type */
   size?: 'banner' | 'rectangle' | 'skyscraper' | 'mobile-banner' | 'responsive';
   /** Custom className for styling */
@@ -14,7 +15,7 @@ export interface EzoicAdProps {
 }
 
 const EzoicAd: React.FC<EzoicAdProps> = ({ 
-  adUnit, 
+  placementId, 
   size = 'rectangle', 
   className = '', 
   lazy = true,
@@ -23,7 +24,9 @@ const EzoicAd: React.FC<EzoicAdProps> = ({
   const adRef = useRef<HTMLDivElement>(null);
   const [isMounted, setIsMounted] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
+  const [isAdLoaded, setIsAdLoaded] = useState(false);
   const isProduction = process.env.NODE_ENV === 'production';
+  const router = useRouter();
 
   // Ad size configurations
   type AdSize = {
@@ -57,15 +60,44 @@ const EzoicAd: React.FC<EzoicAdProps> = ({
     return () => window.removeEventListener('resize', checkMobile);
   }, []);
 
+  // Cleanup function to destroy placeholder on unmount
+  useEffect(() => {
+    return () => {
+      if (isAdLoaded && typeof window !== 'undefined' && window.ezstandalone && window.ezstandalone.destroyPlaceholders) {
+        window.ezstandalone.cmd?.push(function() {
+          window.ezstandalone.destroyPlaceholders(placementId);
+        });
+      }
+    };
+  }, [isAdLoaded, placementId]);
+
+  // Handle router changes to refresh ads
+  useEffect(() => {
+    const handleRouteChange = () => {
+      if (isAdLoaded && typeof window !== 'undefined' && window.ezstandalone) {
+        window.ezstandalone.cmd?.push(function() {
+          window.ezstandalone.showAds();
+        });
+      }
+    };
+
+    router.events.on('routeChangeComplete', handleRouteChange);
+    return () => {
+      router.events.off('routeChangeComplete', handleRouteChange);
+    };
+  }, [router.events, isAdLoaded]);
+
   useEffect(() => {
     // Only load Ezoic ads in production
     if (!isProduction) return;
 
     const loadEzoicAd = () => {
-      if (typeof window !== 'undefined' && window.ezstandalone) {
-        // Ezoic ad loading logic
-        window.ezstandalone.define(adUnit);
-        window.ezstandalone.display(adUnit);
+      if (typeof window !== 'undefined' && window.ezstandalone && window.ezstandalone.cmd) {
+        // Use the new showAds method
+        window.ezstandalone.cmd.push(function() {
+          window.ezstandalone.showAds(placementId);
+        });
+        setIsAdLoaded(true);
       }
     };
 
@@ -91,7 +123,7 @@ const EzoicAd: React.FC<EzoicAdProps> = ({
     } else {
       loadEzoicAd();
     }
-  }, [adUnit, lazy, isProduction]);
+  }, [placementId, lazy, isProduction]);
 
   // Get display size based on mounted state and device
   const getDisplaySize = (): AdSize => {
@@ -122,7 +154,7 @@ const EzoicAd: React.FC<EzoicAdProps> = ({
       >
         <div className="text-center">
           <div className="text-sm font-bold">Ezoic Ad</div>
-          <div className="text-xs">{adUnit}</div>
+          <div className="text-xs">Placement ID: {placementId}</div>
           <div className="text-xs">{size} ({displaySize.width}x{displaySize.height})</div>
         </div>
       </div>
@@ -139,8 +171,8 @@ const EzoicAd: React.FC<EzoicAdProps> = ({
       <div 
         ref={adRef}
         className={`ezoic-ad mx-auto ${className}`}
-        id={adUnit}
-        data-ad-unit={adUnit}
+        id={`ezoic-pub-ad-placeholder-${placementId}`}
+        data-placement-id={placementId}
         data-ad-size={size}
         style={{ 
           width: displaySize.width, 
@@ -161,9 +193,13 @@ export default EzoicAd;
 declare global {
   interface Window {
     ezstandalone?: {
-      define: (adUnit: string) => void;
-      display: (adUnit: string) => void;
-      refresh: (adUnit: string) => void;
+      cmd?: Array<() => void>;
+      showAds: (...placementIds: number[]) => void;
+      destroyPlaceholders: (...placementIds: number[]) => void;
+      destroyAll: () => void;
+      define?: (adUnit: string) => void;
+      display?: (adUnit: string) => void;
+      refresh?: (adUnit: string) => void;
     };
   }
 }
