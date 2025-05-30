@@ -4,8 +4,8 @@ import Breadcrumbs from '../components/Breadcrumbs';
 
 export default function PrivacyPolicy() {
   const breadcrumbs = [
-    { label: 'Home', href: '/' },
-    { label: 'Privacy Policy', href: '/privacy' }
+    { name: 'Home', href: '/' },
+    { name: 'Privacy Policy', href: '/privacy' }
   ];
 
   return (

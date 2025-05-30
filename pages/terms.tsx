@@ -4,8 +4,8 @@ import Breadcrumbs from '../components/Breadcrumbs';
 
 export default function TermsOfService() {
   const breadcrumbs = [
-    { label: 'Home', href: '/' },
-    { label: 'Terms of Service', href: '/terms' }
+    { name: 'Home', href: '/' },
+    { name: 'Terms of Service', href: '/terms' }
   ];
 
   return (
