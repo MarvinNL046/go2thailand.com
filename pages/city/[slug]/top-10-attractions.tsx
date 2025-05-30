@@ -374,7 +374,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       attractionsData = JSON.parse(fileContent);
     }
   } catch (error) {
-    console.log(`No top 10 attractions data found for ${slug}`);
+    // No top 10 attractions data found for this city
   }
 
   return { 

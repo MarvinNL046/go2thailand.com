@@ -144,6 +144,13 @@ interface CityPageProps {
 
 export default function CityPage({ city, relatedCities }: CityPageProps) {
   const [showFullDescription, setShowFullDescription] = useState(false);
+  const [showAllHiddenGems, setShowAllHiddenGems] = useState(false);
+  const [showAllExperiences, setShowAllExperiences] = useState(false);
+  const [showAllFoodAdventures, setShowAllFoodAdventures] = useState(false);
+  const [showAllLocalInsights, setShowAllLocalInsights] = useState(false);
+  const [showAllTravelTips, setShowAllTravelTips] = useState(false);
+  const [showAllAttractions, setShowAllAttractions] = useState(false);
+  const [showAllRestaurants, setShowAllRestaurants] = useState(false);
   
   if (!city) {
     return <div>City not found</div>;
@@ -323,7 +330,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                       🏰 Hidden Gems
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                      {city.hidden_gems.map((gem, index) => (
+                      {(showAllHiddenGems ? city.hidden_gems : city.hidden_gems.slice(0, 2)).map((gem, index) => (
                         <div key={index} className="bg-gradient-to-br from-purple-50 to-pink-50 border border-purple-200 rounded-xl p-6 hover:shadow-lg transition-shadow">
                           <div className="flex items-start mb-4">
                             <div className="flex-shrink-0 w-10 h-10 bg-purple-500 rounded-full flex items-center justify-center mr-4">
@@ -368,6 +375,19 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                         </div>
                       ))}
                     </div>
+                    {city.hidden_gems.length > 2 && (
+                      <div className="text-center mt-6">
+                        <button
+                          onClick={() => setShowAllHiddenGems(!showAllHiddenGems)}
+                          className="text-purple-600 hover:text-purple-800 font-medium flex items-center gap-2 mx-auto"
+                        >
+                          {showAllHiddenGems ? 'Show less' : `Discover ${city.hidden_gems.length - 2} more hidden gems`}
+                          <svg className={`w-4 h-4 transition-transform ${showAllHiddenGems ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                          </svg>
+                        </button>
+                      </div>
+                    )}
                   </div>
                 )}
 
@@ -378,7 +398,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                       🎭 Authentic Experiences
                     </h2>
                     <div className="space-y-6">
-                      {city.authentic_experiences.map((experience, index) => (
+                      {(showAllExperiences ? city.authentic_experiences : city.authentic_experiences.slice(0, 1)).map((experience, index) => (
                         <div key={index} className="bg-gradient-to-r from-orange-50 to-red-50 border border-orange-200 rounded-xl p-6 hover:shadow-lg transition-shadow">
                           <div className="flex items-start mb-4">
                             <div className="flex-shrink-0 w-12 h-12 bg-orange-500 rounded-full flex items-center justify-center mr-4">
@@ -423,6 +443,19 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                         </div>
                       ))}
                     </div>
+                    {city.authentic_experiences.length > 1 && (
+                      <div className="text-center mt-6">
+                        <button
+                          onClick={() => setShowAllExperiences(!showAllExperiences)}
+                          className="text-orange-600 hover:text-orange-800 font-medium flex items-center gap-2 mx-auto"
+                        >
+                          {showAllExperiences ? 'Show less' : `Explore ${city.authentic_experiences.length - 1} more experiences`}
+                          <svg className={`w-4 h-4 transition-transform ${showAllExperiences ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                          </svg>
+                        </button>
+                      </div>
+                    )}
                   </div>
                 )}
 
@@ -433,7 +466,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                       Top Attractions
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                      {city.top_attractions.slice(0, 6).map((attraction, index) => (
+                      {(showAllAttractions ? city.top_attractions.slice(0, 6) : city.top_attractions.slice(0, 3)).map((attraction, index) => (
                         <div key={index} className="card hover:shadow-lg transition-shadow">
                           <div className="flex items-start">
                             <div className="flex-shrink-0 w-8 h-8 bg-thailand-blue rounded-full flex items-center justify-center mr-4 mt-1">
@@ -447,6 +480,19 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                         </div>
                       ))}
                     </div>
+                    {city.top_attractions.length > 3 && (
+                      <div className="text-center mt-6">
+                        <button
+                          onClick={() => setShowAllAttractions(!showAllAttractions)}
+                          className="text-thailand-blue hover:text-thailand-red font-medium flex items-center gap-2 mx-auto"
+                        >
+                          {showAllAttractions ? 'Show less' : `View ${showAllAttractions ? 0 : Math.min(3, city.top_attractions.length - 3)} more attractions`}
+                          <svg className={`w-4 h-4 transition-transform ${showAllAttractions ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                          </svg>
+                        </button>
+                      </div>
+                    )}
                   </div>
                 )}
 
@@ -611,7 +657,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                       🍜 Foodie Adventures
                     </h2>
                     <div className="space-y-8">
-                      {city.foodie_adventures.map((food, index) => (
+                      {(showAllFoodAdventures ? city.foodie_adventures : city.foodie_adventures.slice(0, 2)).map((food, index) => (
                         <div key={index} className="bg-gradient-to-r from-yellow-50 to-orange-50 border border-yellow-200 rounded-xl p-6 hover:shadow-lg transition-shadow">
                           <div className="flex items-start">
                             <div className="flex-shrink-0 w-12 h-12 bg-yellow-500 rounded-full flex items-center justify-center mr-4">
@@ -666,6 +712,19 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                         </div>
                       ))}
                     </div>
+                    {city.foodie_adventures.length > 2 && (
+                      <div className="text-center mt-6">
+                        <button
+                          onClick={() => setShowAllFoodAdventures(!showAllFoodAdventures)}
+                          className="text-yellow-600 hover:text-yellow-800 font-medium flex items-center gap-2 mx-auto"
+                        >
+                          {showAllFoodAdventures ? 'Show less' : `Discover ${city.foodie_adventures.length - 2} more foodie adventures`}
+                          <svg className={`w-4 h-4 transition-transform ${showAllFoodAdventures ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                          </svg>
+                        </button>
+                      </div>
+                    )}
                   </div>
                 )}
 
@@ -737,7 +796,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                         <h3 className="text-lg font-semibold text-gray-900">What Locals Want You to Know</h3>
                       </div>
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        {city.local_insights.map((insight, index) => (
+                        {(showAllLocalInsights ? city.local_insights : city.local_insights.slice(0, 4)).map((insight, index) => (
                           <div key={index} className="bg-white bg-opacity-70 rounded-lg p-4 border border-teal-100">
                             <div className="flex items-start">
                               <div className="flex-shrink-0 w-6 h-6 bg-teal-400 rounded-full flex items-center justify-center mr-3 mt-0.5">
@@ -766,6 +825,19 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                           </div>
                         ))}
                       </div>
+                      {city.local_insights.length > 4 && (
+                        <div className="text-center mt-6">
+                          <button
+                            onClick={() => setShowAllLocalInsights(!showAllLocalInsights)}
+                            className="text-teal-600 hover:text-teal-800 font-medium flex items-center gap-2 mx-auto"
+                          >
+                            {showAllLocalInsights ? 'Show less' : `Discover ${city.local_insights.length - 4} more insights`}
+                            <svg className={`w-4 h-4 transition-transform ${showAllLocalInsights ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                          </button>
+                        </div>
+                      )}
                     </div>
                   </div>
                 )}
@@ -778,7 +850,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                     </h2>
                     <div className="bg-blue-50 border border-blue-200 rounded-lg p-6">
                       <ul className="space-y-3">
-                        {city.travel_tips.map((tip, index) => (
+                        {(showAllTravelTips ? city.travel_tips : city.travel_tips.slice(0, 3)).map((tip, index) => (
                           <li key={index} className="flex items-start">
                             <div className="flex-shrink-0 w-5 h-5 bg-blue-500 rounded-full flex items-center justify-center mr-3 mt-0.5">
                               <svg className="w-3 h-3 text-white" fill="currentColor" viewBox="0 0 20 20">
@@ -789,6 +861,19 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                           </li>
                         ))}
                       </ul>
+                      {city.travel_tips.length > 3 && (
+                        <div className="text-center mt-6">
+                          <button
+                            onClick={() => setShowAllTravelTips(!showAllTravelTips)}
+                            className="text-blue-600 hover:text-blue-800 font-medium flex items-center gap-2 mx-auto"
+                          >
+                            {showAllTravelTips ? 'Show less' : `View ${city.travel_tips.length - 3} more tips`}
+                            <svg className={`w-4 h-4 transition-transform ${showAllTravelTips ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                          </button>
+                        </div>
+                      )}
                     </div>
                   </div>
                 )}

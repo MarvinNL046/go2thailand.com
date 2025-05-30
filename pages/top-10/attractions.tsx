@@ -364,7 +364,7 @@ export const getStaticProps: GetStaticProps = async () => {
         }
       }
     } catch (error) {
-      console.log(`Error reading top 10 attractions data for ${city.slug}:`, error);
+      // Error reading top 10 attractions data for this city
     }
   }
 

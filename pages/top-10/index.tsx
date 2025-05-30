@@ -230,7 +230,7 @@ export const getStaticProps: GetStaticProps = async () => {
       });
     }
   } catch (error) {
-    console.warn('Could not count top10 guides:', error);
+    // Could not count top10 guides
   }
 
   return {

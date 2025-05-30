@@ -371,7 +371,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       hotelsData = JSON.parse(fileContent);
     }
   } catch (error) {
-    console.log(`No top 10 hotels data found for ${slug}`);
+    // No top 10 hotels data found for this city
   }
 
   return { 

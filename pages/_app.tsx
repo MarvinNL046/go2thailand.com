@@ -17,7 +17,6 @@ export default function App({ Component, pageProps }: AppProps) {
     // Initialize Ezoic in production
     if (isProduction && typeof window !== 'undefined') {
       // Add any additional Ezoic initialization here
-      console.log('Ezoic ads initialized');
     }
   }, [isProduction]);
 
@@ -88,9 +87,6 @@ export default function App({ Component, pageProps }: AppProps) {
             id="ezoic-main"
             strategy="afterInteractive"
             src="//go.ezoic.net/detroitchicago/spacer.gif"
-            onLoad={() => {
-              console.log('Ezoic script loaded');
-            }}
           />
           
           <Script
