@@ -340,7 +340,7 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
 
         {/* Mobile Sticky Ad */}
         <EzoicAd 
-          adUnit="go2thailand_top10_mobile_sticky"
+          placementId={133}
           size="mobile-banner"
           className="fixed bottom-0 left-0 right-0 z-50 md:hidden"
           lazy={false}

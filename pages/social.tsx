@@ -153,7 +153,7 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
             {/* 💰 SOCIAL MEDIA AD */}
             <div className="mb-12">
               <EzoicAd 
-                adUnit="go2thailand_social_mid_content"
+                placementId={137}
                 size="rectangle"
                 className="mx-auto"
                 lazy={true}

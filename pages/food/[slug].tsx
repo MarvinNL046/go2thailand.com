@@ -3,7 +3,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { getEnhancedDishBySlug, getDishStaticPaths, generateDishMetadata, getRelatedDishes, generateFoodBreadcrumbs } from '../../lib/food';
 import EzoicAd from '../../components/EzoicAd';
-import { AD_PLACEMENTS, EZOIC_AD_UNITS } from '../../lib/ads/ezoic-config';
+import { AD_PLACEMENTS, EZOIC_PLACEMENT_IDS } from '../../lib/ads/ezoic-config';
 
 interface EnhancedDish {
   id: number;
@@ -184,7 +184,7 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
         <section className="bg-white py-6">
           <div className="container-custom">
             <EzoicAd 
-              adUnit={EZOIC_AD_UNITS.FOOD_BANNER}
+              placementId={EZOIC_PLACEMENT_IDS.FOOD_BANNER}
               size="banner"
               className="mx-auto"
               lazy={false}
@@ -302,7 +302,7 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
               <div className="space-y-8">
                 {/* 💰 FOOD SIDEBAR AD - HIGH VALUE PLACEMENT */}
                 <EzoicAd 
-                  adUnit="go2thailand_food_sidebar_rect"
+                  placementId={108}
                   size="rectangle"
                   className="mx-auto sticky top-4"
                   lazy={true}

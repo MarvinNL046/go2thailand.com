@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { getAllDishes } from '../../lib/food';
 import EzoicAd from '../../components/EzoicAd';
-import { EZOIC_AD_UNITS } from '../../lib/ads/ezoic-config';
+import { EZOIC_PLACEMENT_IDS } from '../../lib/ads/ezoic-config';
 
 interface Dish {
   id: number;
@@ -112,7 +112,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         <section className="bg-white py-6">
           <div className="container-custom">
             <EzoicAd 
-              adUnit={EZOIC_AD_UNITS.FOOD_BANNER}
+              placementId={EZOIC_PLACEMENT_IDS.FOOD_BANNER}
               size="banner"
               className="mx-auto"
               lazy={false}
@@ -192,7 +192,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
             {dishes.length > 6 && (
               <div className="mb-12">
                 <EzoicAd 
-                  adUnit="go2thailand_food_mid_content"
+                  placementId={110}
                   size="rectangle"
                   className="mx-auto"
                   lazy={true}

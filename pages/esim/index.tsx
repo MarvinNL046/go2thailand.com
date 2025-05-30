@@ -70,7 +70,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         <section className="bg-white py-6">
           <div className="container-custom">
             <EzoicAd 
-              adUnit="go2thailand_esim_banner"
+              placementId={135}
               size="banner"
               className="mx-auto"
               lazy={false}
@@ -230,7 +230,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
             {providers.length > 4 && (
               <div className="mb-12">
                 <EzoicAd 
-                  adUnit="go2thailand_esim_mid_content"
+                  placementId={136}
                   size="rectangle"
                   className="mx-auto"
                   lazy={true}

@@ -1,4 +1,56 @@
 // Ezoic Ad Unit Configurations for Go2Thailand
+// TODO: Replace these with actual numeric placement IDs from Ezoic dashboard
+export const EZOIC_PLACEMENT_IDS = {
+  // Homepage ads
+  HOMEPAGE_HEADER: 101,
+  HOMEPAGE_FEATURED: 102,
+  HOMEPAGE_MID_CONTENT: 103,
+  HOMEPAGE_BOTTOM: 104,
+  
+  // City index page ads
+  CITY_INDEX_BANNER: 105,
+  CITY_INDEX_GRID: 106,
+  
+  // City detail page ads (the money makers! 💰)
+  CITY_HEADER_BANNER: 107,
+  CITY_SIDEBAR_RECTANGLE: 108,  // Your favorite!
+  CITY_SIDEBAR_SKYSCRAPER: 109,
+  CITY_IN_CONTENT_1: 110,
+  CITY_IN_CONTENT_2: 111,
+  CITY_BOTTOM_BANNER: 112,
+  
+  // Category page ads
+  ATTRACTIONS_BANNER: 113,
+  FOOD_BANNER: 114,
+  HOTELS_BANNER: 115,
+  
+  // Top 10 Page Ad Units - Revenue optimized! 💰
+  TOP10_RESTAURANTS_HEADER: 116,
+  TOP10_RESTAURANTS_IN_CONTENT_1: 117,
+  TOP10_RESTAURANTS_IN_CONTENT_2: 118,
+  TOP10_RESTAURANTS_SIDEBAR: 119,
+  TOP10_RESTAURANTS_BOTTOM: 120,
+  
+  TOP10_HOTELS_HEADER: 121,
+  TOP10_HOTELS_IN_CONTENT_1: 122,
+  TOP10_HOTELS_IN_CONTENT_2: 123,
+  TOP10_HOTELS_SIDEBAR: 124,
+  TOP10_HOTELS_BOTTOM: 125,
+  
+  TOP10_ATTRACTIONS_HEADER: 126,
+  TOP10_ATTRACTIONS_IN_CONTENT_1: 127,
+  TOP10_ATTRACTIONS_IN_CONTENT_2: 128,
+  TOP10_ATTRACTIONS_SIDEBAR: 129,
+  TOP10_ATTRACTIONS_BOTTOM: 130,
+  
+  // Mobile specific
+  MOBILE_STICKY_BOTTOM: 131,
+  MOBILE_IN_CONTENT: 132,
+  TOP10_MOBILE_STICKY: 133,
+  TOP10_MOBILE_INTERSTITIAL: 134
+} as const;
+
+// Legacy string-based ad units (kept for reference)
 export const EZOIC_AD_UNITS = {
   // Homepage ads
   HOMEPAGE_HEADER: 'go2thailand_homepage_header',
@@ -53,7 +105,7 @@ export const EZOIC_AD_UNITS = {
 export const AD_PLACEMENTS = {
   // High-value sidebar placement for city details
   CITY_SIDEBAR: {
-    adUnit: EZOIC_AD_UNITS.CITY_SIDEBAR_RECTANGLE,
+    placementId: EZOIC_PLACEMENT_IDS.CITY_SIDEBAR_RECTANGLE,
     size: 'rectangle' as const,
     className: 'mb-8 mx-auto sticky top-4',
     lazy: true
@@ -61,7 +113,7 @@ export const AD_PLACEMENTS = {
   
   // Header banners
   HEADER_BANNER: {
-    adUnit: EZOIC_AD_UNITS.CITY_HEADER_BANNER,
+    placementId: EZOIC_PLACEMENT_IDS.CITY_HEADER_BANNER,
     size: 'banner' as const,
     className: 'my-6 mx-auto',
     lazy: false
@@ -69,7 +121,7 @@ export const AD_PLACEMENTS = {
   
   // In-content ads between sections
   IN_CONTENT: {
-    adUnit: EZOIC_AD_UNITS.CITY_IN_CONTENT_1,
+    placementId: EZOIC_PLACEMENT_IDS.CITY_IN_CONTENT_1,
     size: 'rectangle' as const,
     className: 'my-8 mx-auto',
     lazy: true
@@ -77,14 +129,14 @@ export const AD_PLACEMENTS = {
   
   // Homepage specific placements
   HOMEPAGE_HEADER: {
-    adUnit: EZOIC_AD_UNITS.HOMEPAGE_HEADER,
+    placementId: EZOIC_PLACEMENT_IDS.HOMEPAGE_HEADER,
     size: 'banner' as const,
     className: 'mx-auto',
     lazy: false
   },
   
   HOMEPAGE_FEATURED: {
-    adUnit: EZOIC_AD_UNITS.HOMEPAGE_FEATURED,
+    placementId: EZOIC_PLACEMENT_IDS.HOMEPAGE_FEATURED,
     size: 'rectangle' as const,
     className: 'mx-auto',
     lazy: true
@@ -92,7 +144,7 @@ export const AD_PLACEMENTS = {
   
   // Mobile sticky bottom
   MOBILE_STICKY: {
-    adUnit: EZOIC_AD_UNITS.MOBILE_STICKY_BOTTOM,
+    placementId: EZOIC_PLACEMENT_IDS.MOBILE_STICKY_BOTTOM,
     size: 'mobile-banner' as const,
     className: 'fixed bottom-0 left-0 right-0 z-50 md:hidden',
     lazy: false
@@ -130,7 +182,7 @@ export const AD_PLACEMENTS = {
   },
   
   TOP10_MOBILE_STICKY: {
-    adUnit: EZOIC_AD_UNITS.TOP10_MOBILE_STICKY,
+    placementId: EZOIC_PLACEMENT_IDS.TOP10_MOBILE_STICKY,
     size: 'mobile-banner' as const,
     className: 'fixed bottom-0 left-0 right-0 z-50 md:hidden',
     lazy: false
@@ -164,42 +216,42 @@ export function getAdUnitForPage(pageType: string, position: string): string {
   return EZOIC_AD_UNITS[key] || EZOIC_AD_UNITS.CITY_SIDEBAR_RECTANGLE;
 }
 
-// Helper function to get Top 10 ad units for specific category
-export function getTop10AdUnits(category: 'restaurants' | 'hotels' | 'attractions') {
+// Helper function to get Top 10 ad placement IDs for specific category
+export function getTop10PlacementIds(category: 'restaurants' | 'hotels' | 'attractions') {
   const categoryUpper = category.toUpperCase();
   return {
-    header: EZOIC_AD_UNITS[`TOP10_${categoryUpper}_HEADER` as keyof typeof EZOIC_AD_UNITS],
-    sidebar: EZOIC_AD_UNITS[`TOP10_${categoryUpper}_SIDEBAR` as keyof typeof EZOIC_AD_UNITS],
-    inContent1: EZOIC_AD_UNITS[`TOP10_${categoryUpper}_IN_CONTENT_1` as keyof typeof EZOIC_AD_UNITS],
-    inContent2: EZOIC_AD_UNITS[`TOP10_${categoryUpper}_IN_CONTENT_2` as keyof typeof EZOIC_AD_UNITS],
-    bottom: EZOIC_AD_UNITS[`TOP10_${categoryUpper}_BOTTOM` as keyof typeof EZOIC_AD_UNITS],
+    header: EZOIC_PLACEMENT_IDS[`TOP10_${categoryUpper}_HEADER` as keyof typeof EZOIC_PLACEMENT_IDS],
+    sidebar: EZOIC_PLACEMENT_IDS[`TOP10_${categoryUpper}_SIDEBAR` as keyof typeof EZOIC_PLACEMENT_IDS],
+    inContent1: EZOIC_PLACEMENT_IDS[`TOP10_${categoryUpper}_IN_CONTENT_1` as keyof typeof EZOIC_PLACEMENT_IDS],
+    inContent2: EZOIC_PLACEMENT_IDS[`TOP10_${categoryUpper}_IN_CONTENT_2` as keyof typeof EZOIC_PLACEMENT_IDS],
+    bottom: EZOIC_PLACEMENT_IDS[`TOP10_${categoryUpper}_BOTTOM` as keyof typeof EZOIC_PLACEMENT_IDS],
   };
 }
 
-// Top 10 page ad placements with dynamic ad units
+// Top 10 page ad placements with dynamic placement IDs
 export function getTop10AdPlacements(category: 'restaurants' | 'hotels' | 'attractions') {
-  const adUnits = getTop10AdUnits(category);
+  const placementIds = getTop10PlacementIds(category);
   
   return {
     header: {
       ...AD_PLACEMENTS.TOP10_HEADER_BANNER,
-      adUnit: adUnits.header
+      placementId: placementIds.header
     },
     sidebar: {
       ...AD_PLACEMENTS.TOP10_SIDEBAR,
-      adUnit: adUnits.sidebar
+      placementId: placementIds.sidebar
     },
     inContent1: {
       ...AD_PLACEMENTS.TOP10_IN_CONTENT_1,
-      adUnit: adUnits.inContent1
+      placementId: placementIds.inContent1
     },
     inContent2: {
       ...AD_PLACEMENTS.TOP10_IN_CONTENT_2,
-      adUnit: adUnits.inContent2
+      placementId: placementIds.inContent2
     },
     bottom: {
       ...AD_PLACEMENTS.TOP10_BOTTOM_BANNER,
-      adUnit: adUnits.bottom
+      placementId: placementIds.bottom
     }
   };
 }

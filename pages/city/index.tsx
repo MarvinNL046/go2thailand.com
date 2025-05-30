@@ -5,7 +5,7 @@ import { getAllCities } from '../../lib/cities';
 import CityCard from '../../components/CityCard';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import EzoicAd from '../../components/EzoicAd';
-import { EZOIC_AD_UNITS } from '../../lib/ads/ezoic-config';
+import { EZOIC_PLACEMENT_IDS } from '../../lib/ads/ezoic-config';
 
 interface City {
   id: number;
@@ -119,7 +119,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
         <section className="bg-white py-6">
           <div className="container-custom">
             <EzoicAd 
-              adUnit={EZOIC_AD_UNITS.CITY_INDEX_BANNER}
+              placementId={EZOIC_PLACEMENT_IDS.CITY_INDEX_BANNER}
               size="banner"
               className="mx-auto"
               lazy={false}
@@ -153,7 +153,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
                 {filteredCities.length > 6 && (
                   <div className="mb-12">
                     <EzoicAd 
-                      adUnit={EZOIC_AD_UNITS.CITY_INDEX_GRID}
+                      placementId={EZOIC_PLACEMENT_IDS.CITY_INDEX_GRID}
                       size="rectangle"
                       className="mx-auto"
                       lazy={true}

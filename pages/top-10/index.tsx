@@ -3,7 +3,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import EzoicAd from '../../components/EzoicAd';
-import { EZOIC_AD_UNITS } from '../../lib/ads/ezoic-config';
+import { EZOIC_PLACEMENT_IDS } from '../../lib/ads/ezoic-config';
 
 interface Top10IndexProps {
   totalGuides: {
@@ -85,7 +85,7 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
         <section className="bg-white py-6">
           <div className="container-custom">
             <EzoicAd 
-              adUnit={EZOIC_AD_UNITS.CITY_INDEX_BANNER}
+              placementId={EZOIC_PLACEMENT_IDS.CITY_INDEX_BANNER}
               size="banner"
               className="mx-auto"
               lazy={false}
@@ -127,7 +127,7 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
             {/* Mid-Content Ad */}
             <div className="mb-12">
               <EzoicAd 
-                adUnit={EZOIC_AD_UNITS.CITY_INDEX_GRID}
+                placementId={EZOIC_PLACEMENT_IDS.CITY_INDEX_GRID}
                 size="rectangle"
                 className="mx-auto"
                 lazy={true}

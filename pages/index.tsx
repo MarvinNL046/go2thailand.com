@@ -151,7 +151,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
       <section className="bg-white py-6">
         <div className="container-custom">
           <EzoicAd 
-            adUnit="go2thailand_homepage_header"
+            placementId={101}
             size="banner"
             className="mx-auto"
             lazy={false}
@@ -195,7 +195,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
       <section className="bg-gray-50 py-6">
         <div className="container-custom">
           <EzoicAd 
-            adUnit="go2thailand_homepage_featured"
+            placementId={102}
             size="rectangle"
             className="mx-auto"
             lazy={true}
@@ -225,7 +225,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
           {/* 💰 MID-CONTENT AD - STRATEGIC PLACEMENT */}
           <div className="mb-8">
             <EzoicAd 
-              adUnit="go2thailand_homepage_mid_content"
+              placementId={103}
               size="banner"
               className="mx-auto"
               lazy={true}
@@ -575,7 +575,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             </p>
           </div>
           <EzoicAd 
-            adUnit="go2thailand_homepage_bottom"
+            placementId={104}
             size="banner"
             className="mx-auto mb-6"
             lazy={true}
