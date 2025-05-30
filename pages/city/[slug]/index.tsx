@@ -8,7 +8,7 @@ import CityCard from '../../../components/CityCard';
 import EzoicAd from '../../../components/EzoicAd';
 import Sidebar from '../../../components/Sidebar';
 import { AD_PLACEMENTS } from '../../../lib/ads/ezoic-config';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 
 interface City {
   id: number;
@@ -143,6 +143,8 @@ interface CityPageProps {
 }
 
 export default function CityPage({ city, relatedCities }: CityPageProps) {
+  const [showFullDescription, setShowFullDescription] = useState(false);
+  
   if (!city) {
     return <div>City not found</div>;
   }
@@ -244,11 +246,53 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                   <div className="prose prose-lg max-w-none">
                     {city.enhanced_description ? (
                       <div className="space-y-4">
-                        {city.enhanced_description.split('\n\n').map((paragraph, index) => (
-                          <p key={index} className="text-gray-700 leading-relaxed">
-                            {paragraph}
-                          </p>
-                        ))}
+                        {(() => {
+                          const paragraphs = city.enhanced_description.split('\n\n');
+                          const firstParagraph = paragraphs[0];
+                          const hasMoreContent = paragraphs.length > 1;
+                          
+                          if (!showFullDescription) {
+                            return (
+                              <>
+                                <p className="text-gray-700 leading-relaxed">
+                                  {firstParagraph.length > 300 
+                                    ? firstParagraph.substring(0, 300) + '...' 
+                                    : firstParagraph}
+                                </p>
+                                {(hasMoreContent || firstParagraph.length > 300) && (
+                                  <button
+                                    onClick={() => setShowFullDescription(true)}
+                                    className="text-thailand-blue hover:text-thailand-red font-medium flex items-center gap-2 mt-4"
+                                  >
+                                    Read more about {city.name.en}
+                                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                  </button>
+                                )}
+                              </>
+                            );
+                          }
+                          
+                          return (
+                            <>
+                              {paragraphs.map((paragraph, index) => (
+                                <p key={index} className="text-gray-700 leading-relaxed">
+                                  {paragraph}
+                                </p>
+                              ))}
+                              <button
+                                onClick={() => setShowFullDescription(false)}
+                                className="text-thailand-blue hover:text-thailand-red font-medium flex items-center gap-2 mt-4"
+                              >
+                                Show less
+                                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 15l7-7 7 7" />
+                                </svg>
+                              </button>
+                            </>
+                          );
+                        })()}
                       </div>
                     ) : (
                       <p className="text-gray-700 leading-relaxed mb-6">

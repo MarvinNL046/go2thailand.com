@@ -83,7 +83,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
       </Head>
 
       {/* Hero Section with Auto-Rotating Slider */}
-      <section className="relative h-96 lg:h-[600px] overflow-hidden">
+      <section className="relative h-[500px] sm:h-96 lg:h-[600px] overflow-hidden">
         <div className="absolute inset-0">
           {/* Background Images */}
           {heroImages.map((image, index) => (
@@ -110,7 +110,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         
         {/* Hero Content */}
         <div className="relative z-10 h-full flex items-center justify-center text-center">
-          <div className="max-w-4xl mx-auto px-4">
+          <div className="max-w-4xl mx-auto px-4 py-12 sm:py-8">
             <h1 className="text-4xl lg:text-6xl font-bold text-white mb-6 drop-shadow-lg">
               Discover <span className="text-thailand-red">Thailand</span>
             </h1>
