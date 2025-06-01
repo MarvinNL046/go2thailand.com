@@ -6,9 +6,9 @@ const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white">
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-8 gap-8">
           {/* Brand */}
-          <div className="col-span-1 md:col-span-2 lg:col-span-2">
+          <div className="col-span-1 md:col-span-2 xl:col-span-2">
             <Link href="/" className="flex items-center space-x-2 mb-4">
               <div className="text-2xl font-bold text-thailand-red">
                 Go2Thailand
@@ -78,6 +78,60 @@ const Footer = () => {
               <li>
                 <Link href="/city/pattaya/" className="text-gray-300 hover:text-white text-sm transition-colors">
                   Pattaya
+                </Link>
+              </li>
+            </ul>
+          </div>
+
+          {/* Weather & Climate */}
+          <div>
+            <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase mb-4">
+              🌤️ Weather Guide
+            </h3>
+            <ul className="space-y-2">
+              <li>
+                <Link href="/weather/" className="text-gray-300 hover:text-white font-medium text-sm transition-colors">
+                  All Weather Guides →
+                </Link>
+              </li>
+              <li className="pt-1">
+                <Link href="/thailand-in/january/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Thailand in January
+                </Link>
+              </li>
+              <li>
+                <Link href="/thailand-in/april/" className="text-gray-300 hover:text-thailand-red text-sm transition-colors">
+                  Songkran Season 🎉
+                </Link>
+              </li>
+              <li>
+                <Link href="/thailand-in/november/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Loy Krathong Month
+                </Link>
+              </li>
+              <li className="pt-2 border-t border-gray-700">
+                <Link href="/city/bangkok/weather/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Bangkok Weather
+                </Link>
+              </li>
+              <li>
+                <Link href="/city/chiang-mai/weather/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Chiang Mai Weather
+                </Link>
+              </li>
+              <li>
+                <Link href="/city/phuket/weather/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Phuket Weather
+                </Link>
+              </li>
+              <li>
+                <Link href="/city/krabi/weather/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Krabi Weather
+                </Link>
+              </li>
+              <li className="pt-2">
+                <Link href="/city/pattaya/weather/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  More Cities →
                 </Link>
               </li>
             </ul>

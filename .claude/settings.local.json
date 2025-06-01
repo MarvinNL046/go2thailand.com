@@ -16,7 +16,10 @@
       "WebFetch(domain:go2-thailand.com)",
       "Bash(git commit:*)",
       "Bash(npx tsc:*)",
-      "WebFetch(domain:docs.ezoic.com)"
+      "WebFetch(domain:docs.ezoic.com)",
+      "Bash(pkill:*)",
+      "Bash(killall:*)",
+      "Bash(true)"
     ],
     "deny": []
   }

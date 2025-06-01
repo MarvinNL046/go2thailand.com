@@ -1,0 +1,1339 @@
+{
+  "bangkok": {
+    "city": "Bangkok",
+    "slug": "bangkok",
+    "climate_overview": "Bangkok has a tropical monsoon climate with hot weather year-round. The city experiences three distinct seasons with high humidity throughout the year.",
+    "best_months": ["November", "December", "January", "February"],
+    "avoid_months": ["April", "September"],
+    "monthly_weather": {
+      "january": {
+        "temp_high": 32,
+        "temp_low": 21,
+        "rainfall_mm": 10,
+        "rainfall_days": 1,
+        "humidity": 65,
+        "description": "Perfect weather with cool evenings and sunny days. Peak tourist season.",
+        "what_to_expect": "Clear skies, comfortable temperatures, and minimal rain make January ideal for exploring temples and markets.",
+        "events": ["New Year celebrations continue", "Children's Day"],
+        "pros": ["Best weather", "All attractions open", "Cool evenings"],
+        "cons": ["Peak prices", "Crowded attractions"]
+      },
+      "february": {
+        "temp_high": 33,
+        "temp_low": 23,
+        "rainfall_mm": 20,
+        "rainfall_days": 2,
+        "humidity": 70,
+        "description": "Excellent weather continues with Chinese New Year celebrations.",
+        "what_to_expect": "Chinatown comes alive with festivities. Still dry and comfortable for sightseeing.",
+        "events": ["Chinese New Year", "Valentine's Day", "Makha Bucha Day"],
+        "pros": ["Great weather", "Cultural festivals", "Romantic atmosphere"],
+        "cons": ["Busy Chinatown", "Higher prices"]
+      },
+      "march": {
+        "temp_high": 35,
+        "temp_low": 25,
+        "rainfall_mm": 30,
+        "rainfall_days": 3,
+        "humidity": 75,
+        "description": "Temperatures rising but still manageable. Fewer tourists.",
+        "what_to_expect": "Hot afternoons require air-conditioned breaks. Great hotel deals available.",
+        "events": ["National Muay Thai Day"],
+        "pros": ["Fewer crowds", "Better prices", "Still dry"],
+        "cons": ["Getting hot", "Humid afternoons"]
+      },
+      "april": {
+        "temp_high": 36,
+        "temp_low": 26,
+        "rainfall_mm": 65,
+        "rainfall_days": 6,
+        "humidity": 80,
+        "description": "Hottest month but Songkran water festival provides relief.",
+        "what_to_expect": "Extreme heat but the city turns into a giant water fight zone during Songkran.",
+        "events": ["Songkran Water Festival"],
+        "pros": ["Amazing festival", "Cultural experience", "Fun atmosphere"],
+        "cons": ["Extremely hot", "Difficult to stay dry", "Some closures"]
+      },
+      "may": {
+        "temp_high": 35,
+        "temp_low": 26,
+        "rainfall_mm": 190,
+        "rainfall_days": 16,
+        "humidity": 85,
+        "description": "Rainy season begins with afternoon thunderstorms.",
+        "what_to_expect": "Usually dry mornings with heavy afternoon showers. Good for indoor activities.",
+        "events": ["Visakha Bucha Day", "Royal Ploughing Ceremony"],
+        "pros": ["Lower prices", "Fewer tourists", "Dramatic skies"],
+        "cons": ["Daily rain", "High humidity", "Some flooding"]
+      },
+      "june": {
+        "temp_high": 33,
+        "temp_low": 26,
+        "rainfall_mm": 150,
+        "rainfall_days": 16,
+        "humidity": 85,
+        "description": "Rainy season continues with regular afternoon showers.",
+        "what_to_expect": "Plan indoor activities for afternoons. Morning temple visits still pleasant.",
+        "events": [],
+        "pros": ["Low season prices", "Green parks", "Fewer crowds"],
+        "cons": ["Daily rain", "Traffic jams", "Limited outdoor time"]
+      },
+      "july": {
+        "temp_high": 33,
+        "temp_low": 26,
+        "rainfall_mm": 155,
+        "rainfall_days": 18,
+        "humidity": 85,
+        "description": "Peak rainy season but manageable with planning.",
+        "what_to_expect": "Rain usually in short, heavy bursts. Shopping malls and museums ideal.",
+        "events": ["Asahna Bucha Day", "Buddhist Lent begins"],
+        "pros": ["Cultural events", "Best deals", "Authentic experience"],
+        "cons": ["Frequent rain", "High humidity", "Possible flooding"]
+      },
+      "august": {
+        "temp_high": 33,
+        "temp_low": 26,
+        "rainfall_mm": 180,
+        "rainfall_days": 19,
+        "humidity": 85,
+        "description": "Continued rainy season with occasional flooding.",
+        "what_to_expect": "Have backup plans for outdoor activities. Great time for spa treatments.",
+        "events": ["Queen Mother's Birthday"],
+        "pros": ["Excellent prices", "Green city", "Less pollution"],
+        "cons": ["Heavy rain", "Flooding risk", "Transport delays"]
+      },
+      "september": {
+        "temp_high": 32,
+        "temp_low": 25,
+        "rainfall_mm": 220,
+        "rainfall_days": 21,
+        "humidity": 90,
+        "description": "Wettest month with frequent downpours.",
+        "what_to_expect": "Most challenging month for weather but cheapest prices and no crowds.",
+        "events": [],
+        "pros": ["Lowest prices", "No queues", "Lush gardens"],
+        "cons": ["Heavy rain", "Many floods", "Limited activities"]
+      },
+      "october": {
+        "temp_high": 32,
+        "temp_low": 24,
+        "rainfall_mm": 230,
+        "rainfall_days": 17,
+        "humidity": 85,
+        "description": "Rain decreasing toward month end. Weather improving.",
+        "what_to_expect": "First half still wet, but conditions improve. Tourist season approaching.",
+        "events": ["Ok Phansa", "Vegetarian Festival"],
+        "pros": ["Weather improving", "Still good prices", "Festivals"],
+        "cons": ["Early month rain", "Humidity high", "Prices rising"]
+      },
+      "november": {
+        "temp_high": 31,
+        "temp_low": 23,
+        "rainfall_mm": 50,
+        "rainfall_days": 5,
+        "humidity": 70,
+        "description": "Excellent weather returns with Loy Krathong festival.",
+        "what_to_expect": "Cool season begins. Perfect for all activities. Book early for festival.",
+        "events": ["Loy Krathong Festival"],
+        "pros": ["Great weather", "Amazing festival", "Perfect temperatures"],
+        "cons": ["Prices increasing", "Getting busier", "Book ahead"]
+      },
+      "december": {
+        "temp_high": 31,
+        "temp_low": 21,
+        "rainfall_mm": 10,
+        "rainfall_days": 1,
+        "humidity": 65,
+        "description": "Peak season with perfect weather and holiday festivities.",
+        "what_to_expect": "Cool mornings, sunny days. Christmas and New Year widely celebrated.",
+        "events": ["King's Birthday", "Christmas", "New Year's Eve"],
+        "pros": ["Best weather", "Festive atmosphere", "Cool evenings"],
+        "cons": ["Highest prices", "Very crowded", "Book early"]
+      }
+    }
+  },
+  "chiang-mai": {
+    "city": "Chiang Mai",
+    "slug": "chiang-mai",
+    "climate_overview": "Chiang Mai enjoys a cooler climate than Bangkok due to its northern mountain location. The city has distinct hot, rainy, and cool seasons.",
+    "best_months": ["November", "December", "January", "February"],
+    "avoid_months": ["March", "April", "September"],
+    "monthly_weather": {
+      "january": {
+        "temp_high": 29,
+        "temp_low": 14,
+        "rainfall_mm": 5,
+        "rainfall_days": 1,
+        "humidity": 60,
+        "description": "Cool season at its best with chilly mornings requiring light jackets.",
+        "what_to_expect": "Perfect weather for trekking and temple visits. Clear mountain views.",
+        "events": ["New Year temple visits"],
+        "pros": ["Cool weather", "Clear skies", "Perfect for outdoors"],
+        "cons": ["Cold mornings", "Peak season crowds"]
+      },
+      "february": {
+        "temp_high": 32,
+        "temp_low": 15,
+        "rainfall_mm": 5,
+        "rainfall_days": 1,
+        "humidity": 55,
+        "description": "Ideal weather continues with the famous Flower Festival.",
+        "what_to_expect": "City blooms with flowers. Still cool mornings but warming up.",
+        "events": ["Chiang Mai Flower Festival", "Makha Bucha Day"],
+        "pros": ["Flower festival", "Perfect weather", "Low humidity"],
+        "cons": ["Tourist crowds", "Higher prices"]
+      },
+      "march": {
+        "temp_high": 35,
+        "temp_low": 19,
+        "rainfall_mm": 15,
+        "rainfall_days": 2,
+        "humidity": 60,
+        "description": "Hot season begins with burning season affecting air quality.",
+        "what_to_expect": "Hazy skies from agricultural burning. Hot afternoons but cool evenings.",
+        "events": [],
+        "pros": ["Fewer tourists", "Cool evenings", "Lower prices"],
+        "cons": ["Poor air quality", "Very hot days", "Limited views"]
+      },
+      "april": {
+        "temp_high": 36,
+        "temp_low": 22,
+        "rainfall_mm": 50,
+        "rainfall_days": 6,
+        "humidity": 70,
+        "description": "Hottest month but epic Songkran celebrations.",
+        "what_to_expect": "Extreme heat but the best Songkran water fights in Thailand.",
+        "events": ["Songkran Water Festival - biggest in Thailand"],
+        "pros": ["Amazing Songkran", "Cultural immersion", "Fun atmosphere"],
+        "cons": ["Extremely hot", "Very crowded", "Air quality issues"]
+      },
+      "may": {
+        "temp_high": 34,
+        "temp_low": 23,
+        "rainfall_mm": 160,
+        "rainfall_days": 15,
+        "humidity": 80,
+        "description": "Rainy season starts, clearing the air and cooling temperatures.",
+        "what_to_expect": "Welcome rain clears smoke. Afternoons wet but mornings nice.",
+        "events": ["Inthakin Festival"],
+        "pros": ["Air clears", "Cooler", "Green mountains"],
+        "cons": ["Daily rain", "Some trek closures", "Muddy trails"]
+      },
+      "june": {
+        "temp_high": 32,
+        "temp_low": 23,
+        "rainfall_mm": 130,
+        "rainfall_days": 16,
+        "humidity": 85,
+        "description": "Green season with lush landscapes and waterfalls flowing.",
+        "what_to_expect": "Beautiful green mountains. Rain usually in afternoon bursts.",
+        "events": [],
+        "pros": ["Lush scenery", "Waterfalls full", "Few tourists"],
+        "cons": ["Trek limitations", "Daily rain", "High humidity"]
+      },
+      "july": {
+        "temp_high": 31,
+        "temp_low": 23,
+        "rainfall_mm": 160,
+        "rainfall_days": 20,
+        "humidity": 85,
+        "description": "Peak rainy season but still manageable.",
+        "what_to_expect": "Morning activities best. Cooking classes and temples between showers.",
+        "events": ["Asahna Bucha Day candlelight processions"],
+        "pros": ["Cultural experiences", "Low prices", "Peaceful temples"],
+        "cons": ["Frequent rain", "Limited trekking", "Muddy conditions"]
+      },
+      "august": {
+        "temp_high": 31,
+        "temp_low": 23,
+        "rainfall_mm": 210,
+        "rainfall_days": 21,
+        "humidity": 90,
+        "description": "Wettest month but incredibly green and peaceful.",
+        "what_to_expect": "Daily rain but breaks between. City quiet and authentic.",
+        "events": ["Queen Mother's Birthday"],
+        "pros": ["Very green", "Authentic feel", "Best prices"],
+        "cons": ["Heavy rain", "Trek closures", "Limited activities"]
+      },
+      "september": {
+        "temp_high": 31,
+        "temp_low": 22,
+        "rainfall_mm": 230,
+        "rainfall_days": 21,
+        "humidity": 90,
+        "description": "Maximum rainfall but beautiful misty mountains.",
+        "what_to_expect": "Challenging weather but mystical mountain atmosphere.",
+        "events": [],
+        "pros": ["Lowest prices", "No crowds", "Mystical beauty"],
+        "cons": ["Heaviest rain", "Many closures", "Transport issues"]
+      },
+      "october": {
+        "temp_high": 31,
+        "temp_low": 21,
+        "rainfall_mm": 120,
+        "rainfall_days": 13,
+        "humidity": 80,
+        "description": "Rain decreasing, cool season approaching.",
+        "what_to_expect": "Weather improving daily. Tourist season beginning.",
+        "events": ["Ok Phansa", "Tak Bat Devo ceremony"],
+        "pros": ["Improving weather", "Still green", "Festivals returning"],
+        "cons": ["Some rain", "Prices rising", "Booking needed"]
+      },
+      "november": {
+        "temp_high": 29,
+        "temp_low": 18,
+        "rainfall_mm": 25,
+        "rainfall_days": 4,
+        "humidity": 70,
+        "description": "Perfect weather returns with Yi Peng lantern festival.",
+        "what_to_expect": "Cool season begins. Thousands of lanterns fill the sky during Yi Peng.",
+        "events": ["Yi Peng Lantern Festival", "Loy Krathong"],
+        "pros": ["Amazing festivals", "Perfect weather", "Clear skies"],
+        "cons": ["Very crowded", "Book months ahead", "Peak prices"]
+      },
+      "december": {
+        "temp_high": 28,
+        "temp_low": 15,
+        "rainfall_mm": 10,
+        "rainfall_days": 2,
+        "humidity": 65,
+        "description": "Cool season peak with possible frost in mountains.",
+        "what_to_expect": "Cold mornings requiring warm clothes. Perfect days for all activities.",
+        "events": ["King's Birthday", "Christmas celebrations"],
+        "pros": ["Best weather", "Clear mountain views", "Festive mood"],
+        "cons": ["Cold mornings", "Peak crowds", "Highest prices"]
+      }
+    }
+  },
+  "phuket": {
+    "city": "Phuket",
+    "slug": "phuket",
+    "climate_overview": "Phuket has a tropical climate with two main seasons: dry (November-April) and wet (May-October). Being an island, it enjoys sea breezes year-round.",
+    "best_months": ["December", "January", "February", "March"],
+    "avoid_months": ["September", "October"],
+    "monthly_weather": {
+      "january": {
+        "temp_high": 32,
+        "temp_low": 24,
+        "rainfall_mm": 30,
+        "rainfall_days": 4,
+        "humidity": 75,
+        "description": "High season with perfect beach weather and calm seas.",
+        "what_to_expect": "Crystal clear water ideal for diving and island hopping. Book ahead.",
+        "events": ["New Year beach parties"],
+        "pros": ["Perfect weather", "Calm seas", "Great visibility"],
+        "cons": ["Peak prices", "Crowded beaches", "Book early"]
+      },
+      "february": {
+        "temp_high": 33,
+        "temp_low": 24,
+        "rainfall_mm": 25,
+        "rainfall_days": 3,
+        "humidity": 75,
+        "description": "Ideal conditions continue with Valentine's romance.",
+        "what_to_expect": "Perfect for all water activities. Romantic sunset dinners.",
+        "events": ["Valentine's Day", "Chinese New Year"],
+        "pros": ["Best weather", "All activities", "Romantic atmosphere"],
+        "cons": ["Highest prices", "Very busy", "Traffic jams"]
+      },
+      "march": {
+        "temp_high": 34,
+        "temp_low": 25,
+        "rainfall_mm": 40,
+        "rainfall_days": 5,
+        "humidity": 75,
+        "description": "Still excellent weather but getting warmer.",
+        "what_to_expect": "Hot afternoons but sea breezes help. Water temperature perfect.",
+        "events": [],
+        "pros": ["Great weather", "Warm sea", "Less crowded"],
+        "cons": ["Getting hot", "Prices still high", "Sunburn risk"]
+      },
+      "april": {
+        "temp_high": 34,
+        "temp_low": 25,
+        "rainfall_mm": 120,
+        "rainfall_days": 11,
+        "humidity": 80,
+        "description": "Transition month with increasing rain but still good.",
+        "what_to_expect": "Brief afternoon showers starting. Songkran brings water fights to beaches.",
+        "events": ["Songkran Water Festival"],
+        "pros": ["Songkran fun", "Warm water", "Prices dropping"],
+        "cons": ["Very hot", "Increasing rain", "Humidity rising"]
+      },
+      "may": {
+        "temp_high": 32,
+        "temp_low": 25,
+        "rainfall_mm": 270,
+        "rainfall_days": 20,
+        "humidity": 85,
+        "description": "Monsoon season begins with rough seas on west coast.",
+        "what_to_expect": "Swimming dangerous on west beaches. East coast still calmer.",
+        "events": [],
+        "pros": ["Low season prices", "Fewer tourists", "Dramatic waves"],
+        "cons": ["Dangerous swimming", "Daily rain", "Some closures"]
+      },
+      "june": {
+        "temp_high": 31,
+        "temp_low": 25,
+        "rainfall_mm": 240,
+        "rainfall_days": 19,
+        "humidity": 85,
+        "description": "Full monsoon with spectacular storms.",
+        "what_to_expect": "Surfing season begins. Indoor activities and spas popular.",
+        "events": [],
+        "pros": ["Surfing waves", "Empty beaches", "Great deals"],
+        "cons": ["Swimming prohibited", "Heavy rain", "Boat cancellations"]
+      },
+      "july": {
+        "temp_high": 31,
+        "temp_low": 25,
+        "rainfall_mm": 260,
+        "rainfall_days": 20,
+        "humidity": 85,
+        "description": "Continued monsoon but manageable with planning.",
+        "what_to_expect": "Morning often dry. Beach clubs and restaurants still lively.",
+        "events": ["Asahna Bucha Day"],
+        "pros": ["Surfing season", "Local prices", "Green island"],
+        "cons": ["Limited swimming", "Frequent rain", "Rough seas"]
+      },
+      "august": {
+        "temp_high": 31,
+        "temp_low": 25,
+        "rainfall_mm": 270,
+        "rainfall_days": 20,
+        "humidity": 85,
+        "description": "Peak monsoon but island still beautiful.",
+        "what_to_expect": "Dramatic seascapes. East coast beaches safer than west.",
+        "events": ["Queen Mother's Birthday"],
+        "pros": ["Dramatic nature", "Peaceful island", "Low prices"],
+        "cons": ["Heavy rain", "Many closures", "Limited activities"]
+      },
+      "september": {
+        "temp_high": 30,
+        "temp_low": 24,
+        "rainfall_mm": 360,
+        "rainfall_days": 23,
+        "humidity": 90,
+        "description": "Wettest month with spectacular storms.",
+        "what_to_expect": "Most challenging weather. Many businesses close or reduce hours.",
+        "events": ["Vegetarian Festival preparation"],
+        "pros": ["Lowest prices", "Authentic experience", "Dramatic storms"],
+        "cons": ["Constant rain", "Many closures", "Dangerous seas"]
+      },
+      "october": {
+        "temp_high": 31,
+        "temp_low": 24,
+        "rainfall_mm": 300,
+        "rainfall_days": 22,
+        "humidity": 85,
+        "description": "Still wet but Vegetarian Festival brings excitement.",
+        "what_to_expect": "Unique cultural experience. Weather improving late month.",
+        "events": ["Vegetarian Festival with extreme rituals"],
+        "pros": ["Unique festival", "Improving weather", "Cultural immersion"],
+        "cons": ["Still rainy", "Limited beaches", "Some closures"]
+      },
+      "november": {
+        "temp_high": 31,
+        "temp_low": 24,
+        "rainfall_mm": 160,
+        "rainfall_days": 15,
+        "humidity": 80,
+        "description": "Transition to high season with improving weather.",
+        "what_to_expect": "Seas calming, rain decreasing. Tourist facilities reopening.",
+        "events": ["Loy Krathong", "Laguna Phuket Triathlon"],
+        "pros": ["Weather improving", "Festivals", "Prices still reasonable"],
+        "cons": ["Some rain", "Beaches recovering", "Getting busier"]
+      },
+      "december": {
+        "temp_high": 31,
+        "temp_low": 24,
+        "rainfall_mm": 60,
+        "rainfall_days": 9,
+        "humidity": 75,
+        "description": "High season returns with holiday festivities.",
+        "what_to_expect": "Beach weather returns. Christmas and New Year huge celebrations.",
+        "events": ["King's Birthday", "Christmas", "New Year beach parties"],
+        "pros": ["Great weather", "Festive atmosphere", "All activities open"],
+        "cons": ["Peak prices", "Very crowded", "Traffic issues"]
+      }
+    }
+  },
+  "ayutthaya": {
+    "january": {
+      "temperature": { "high": 32, "low": 19 },
+      "rainfall": 5,
+      "rainyDays": 1,
+      "humidity": 65,
+      "description": "Cool and dry weather perfect for exploring ancient temples. Pleasant temperatures throughout the day.",
+      "events": ["New Year celebrations at temples"],
+      "pros": ["Ideal weather", "Cool mornings", "Clear skies for photography"],
+      "cons": ["Peak tourist season", "Higher accommodation prices"]
+    },
+    "february": {
+      "temperature": { "high": 34, "low": 21 },
+      "rainfall": 15,
+      "rainyDays": 2,
+      "humidity": 70,
+      "description": "Excellent weather continues with minimal rain. Days getting warmer but still comfortable.",
+      "events": ["Makha Bucha Day at temples"],
+      "pros": ["Great weather", "Perfect for cycling", "Less crowded than January"],
+      "cons": ["Temperatures rising", "Dry and dusty conditions"]
+    },
+    "march": {
+      "temperature": { "high": 36, "low": 24 },
+      "rainfall": 30,
+      "rainyDays": 4,
+      "humidity": 75,
+      "description": "Hot season begins. Early morning temple visits recommended to avoid afternoon heat.",
+      "events": [],
+      "pros": ["Fewer tourists", "Lower prices", "Still mostly dry"],
+      "cons": ["Very hot afternoons", "Limited comfortable touring hours"]
+    },
+    "april": {
+      "temperature": { "high": 37, "low": 26 },
+      "rainfall": 55,
+      "rainyDays": 6,
+      "humidity": 75,
+      "description": "Hottest month but Songkran festivities make it special. Traditional celebrations at historical sites.",
+      "events": ["Songkran Water Festival at historical park"],
+      "pros": ["Unique Songkran experience", "Cultural activities", "Cooling water fights"],
+      "cons": ["Extreme heat", "Crowded during festival", "Limited shade at ruins"]
+    },
+    "may": {
+      "temperature": { "high": 35, "low": 25 },
+      "rainfall": 160,
+      "rainyDays": 14,
+      "humidity": 80,
+      "description": "Rainy season starts bringing relief from heat. Afternoon thunderstorms common.",
+      "events": ["Royal Ploughing Ceremony"],
+      "pros": ["Cooler temperatures", "Fewer crowds", "Lush greenery"],
+      "cons": ["Daily rain", "Muddy temple grounds", "Humidity high"]
+    },
+    "june": {
+      "temperature": { "high": 33, "low": 25 },
+      "rainfall": 120,
+      "rainyDays": 13,
+      "humidity": 85,
+      "description": "Rainy season continues. Morning visits best before afternoon showers.",
+      "events": [],
+      "pros": ["Low season prices", "Green landscapes", "Peaceful temples"],
+      "cons": ["Regular rain", "Some flooding", "Photography challenges"]
+    },
+    "july": {
+      "temperature": { "high": 33, "low": 25 },
+      "rainfall": 130,
+      "rainyDays": 15,
+      "humidity": 85,
+      "description": "Steady rainfall but historical sites remain accessible. Umbrella essential.",
+      "events": ["Asahna Bucha Day ceremonies"],
+      "pros": ["Cultural experiences", "Few tourists", "Dramatic skies"],
+      "cons": ["Frequent rain", "Slippery surfaces", "Limited outdoor time"]
+    },
+    "august": {
+      "temperature": { "high": 32, "low": 25 },
+      "rainfall": 150,
+      "rainyDays": 16,
+      "humidity": 85,
+      "description": "Peak rainy season. Indoor museums good alternative to outdoor ruins.",
+      "events": ["Queen Mother's Birthday"],
+      "pros": ["Lowest prices", "Authentic atmosphere", "Cool temperatures"],
+      "cons": ["Heavy rain", "Possible flooding", "Transport disruptions"]
+    },
+    "september": {
+      "temperature": { "high": 32, "low": 24 },
+      "rainfall": 200,
+      "rainyDays": 18,
+      "humidity": 90,
+      "description": "Wettest month with frequent flooding around historical areas.",
+      "events": [],
+      "pros": ["Very few tourists", "Dramatic photography", "Cooler weather"],
+      "cons": ["Flooding common", "Access restrictions", "Heavy rainfall"]
+    },
+    "october": {
+      "temperature": { "high": 31, "low": 23 },
+      "rainfall": 180,
+      "rainyDays": 14,
+      "humidity": 85,
+      "description": "Rain decreasing but flooding risk continues early in month.",
+      "events": ["Ok Phansa", "Boat racing festivals"],
+      "pros": ["Weather improving", "Festivals returning", "Green surroundings"],
+      "cons": ["Still wet", "Muddy conditions", "Mosquitoes"]
+    },
+    "november": {
+      "temperature": { "high": 30, "low": 21 },
+      "rainfall": 35,
+      "rainyDays": 4,
+      "humidity": 70,
+      "description": "Cool season begins. Perfect weather returns for temple exploration.",
+      "events": ["Loy Krathong at historical park"],
+      "pros": ["Excellent weather", "Beautiful festival", "Comfortable temperatures"],
+      "cons": ["Tourist numbers increasing", "Accommodation booking essential"]
+    },
+    "december": {
+      "temperature": { "high": 30, "low": 18 },
+      "rainfall": 5,
+      "rainyDays": 1,
+      "humidity": 65,
+      "description": "Peak cool season with perfect conditions. Chilly mornings warm to pleasant days.",
+      "events": ["King's Birthday", "New Year countdown"],
+      "pros": ["Best weather", "Cool mornings", "Festival atmosphere"],
+      "cons": ["Peak prices", "Crowded sites", "Book well ahead"]
+    }
+  },
+  "chiang-rai": {
+    "january": {
+      "temperature": { "high": 28, "low": 11 },
+      "rainfall": 10,
+      "rainyDays": 2,
+      "humidity": 65,
+      "description": "Cool season at its peak. Morning mist creates mystical temple views. Jacket needed for mornings.",
+      "events": ["Hill tribe New Year celebrations"],
+      "pros": ["Cool weather", "Clear mountain views", "Morning mist beauty"],
+      "cons": ["Cold mornings", "Frost possible in mountains"]
+    },
+    "february": {
+      "temperature": { "high": 31, "low": 13 },
+      "rainfall": 10,
+      "rainyDays": 2,
+      "humidity": 60,
+      "description": "Perfect weather with cherry blossoms in the mountains. Ideal for all activities.",
+      "events": ["Cherry Blossom Festival at Doi Mae Salong"],
+      "pros": ["Cherry blossoms", "Perfect temperatures", "Clear skies"],
+      "cons": ["Popular season", "Mountain roads busy"]
+    },
+    "march": {
+      "temperature": { "high": 34, "low": 17 },
+      "rainfall": 25,
+      "rainyDays": 3,
+      "humidity": 65,
+      "description": "Warming up but still pleasant. Burning season affects air quality some days.",
+      "events": [],
+      "pros": ["Good weather", "Fewer tourists", "Warm evenings"],
+      "cons": ["Air quality issues", "Hazy views", "Getting hot"]
+    },
+    "april": {
+      "temperature": { "high": 35, "low": 21 },
+      "rainfall": 80,
+      "rainyDays": 8,
+      "humidity": 70,
+      "description": "Hot season peaks. Traditional Songkran celebrated by hill tribes.",
+      "events": ["Songkran Water Festival", "Hill tribe ceremonies"],
+      "pros": ["Cultural festivals", "Unique Songkran", "Evening relief"],
+      "cons": ["Very hot days", "Poor air quality", "Crowded during festival"]
+    },
+    "may": {
+      "temperature": { "high": 33, "low": 23 },
+      "rainfall": 200,
+      "rainyDays": 17,
+      "humidity": 80,
+      "description": "Rainy season brings relief. Air clears and mountains turn green.",
+      "events": [],
+      "pros": ["Air quality improves", "Cooler", "Waterfalls flowing"],
+      "cons": ["Daily rain", "Mountain roads slippery", "Trek limitations"]
+    },
+    "june": {
+      "temperature": { "high": 31, "low": 23 },
+      "rainfall": 180,
+      "rainyDays": 18,
+      "humidity": 85,
+      "description": "Green season in full swing. Rice paddies at their most beautiful.",
+      "events": [],
+      "pros": ["Lush landscapes", "Rice terraces green", "Cool temperatures"],
+      "cons": ["Frequent rain", "Some road closures", "Limited trekking"]
+    },
+    "july": {
+      "temperature": { "high": 30, "low": 23 },
+      "rainfall": 220,
+      "rainyDays": 21,
+      "humidity": 85,
+      "description": "Peak rainy season. Hill tribe villages shrouded in mist.",
+      "events": ["Asahna Bucha Day"],
+      "pros": ["Mystical atmosphere", "Few tourists", "Cultural immersion"],
+      "cons": ["Heavy rain", "Transport challenges", "Muddy conditions"]
+    },
+    "august": {
+      "temperature": { "high": 30, "low": 23 },
+      "rainfall": 280,
+      "rainyDays": 23,
+      "humidity": 90,
+      "description": "Wettest month. Indoor attractions and cultural centers best options.",
+      "events": ["Queen Mother's Birthday"],
+      "pros": ["Authentic experience", "Lowest prices", "Peaceful temples"],
+      "cons": ["Constant rain", "Many closures", "Flooding possible"]
+    },
+    "september": {
+      "temperature": { "high": 30, "low": 22 },
+      "rainfall": 250,
+      "rainyDays": 20,
+      "humidity": 85,
+      "description": "Still very wet but beautiful misty mountain scenery.",
+      "events": [],
+      "pros": ["Dramatic landscapes", "No crowds", "Cool weather"],
+      "cons": ["Heavy rainfall", "Limited activities", "Road conditions"]
+    },
+    "october": {
+      "temperature": { "high": 30, "low": 20 },
+      "rainfall": 120,
+      "rainyDays": 11,
+      "humidity": 80,
+      "description": "Rain decreasing rapidly. Cool season approaching with clearer skies.",
+      "events": ["Ok Phansa", "Local festivals"],
+      "pros": ["Weather improving", "Still green", "Festivals starting"],
+      "cons": ["Some rain", "Roads recovering", "Booking needed"]
+    },
+    "november": {
+      "temperature": { "high": 28, "low": 16 },
+      "rainfall": 40,
+      "rainyDays": 5,
+      "humidity": 70,
+      "description": "Beautiful cool season weather returns. Perfect for all activities.",
+      "events": ["Yi Peng Lantern Festival", "Loy Krathong"],
+      "pros": ["Perfect weather", "Amazing festivals", "Clear views"],
+      "cons": ["Getting busy", "Prices rising", "Festival crowds"]
+    },
+    "december": {
+      "temperature": { "high": 27, "low": 12 },
+      "rainfall": 15,
+      "rainyDays": 2,
+      "humidity": 65,
+      "description": "Cool season peak. Morning frost possible, days crisp and clear.",
+      "events": ["King's Birthday", "Christmas celebrations", "Hill tribe festivals"],
+      "pros": ["Best weather", "Crystal clear skies", "Perfect temperatures"],
+      "cons": ["Very cold mornings", "Peak season", "Highest prices"]
+    }
+  },
+  "hat-yai": {
+    "january": {
+      "temperature": { "high": 30, "low": 23 },
+      "rainfall": 70,
+      "rainyDays": 8,
+      "humidity": 75,
+      "description": "Relatively dry month for Hat Yai. Good weather for exploring markets and temples.",
+      "events": ["Chinese New Year preparations"],
+      "pros": ["Drier weather", "Comfortable temperatures", "Vibrant markets"],
+      "cons": ["Some rain", "Weekend crowds from Malaysia"]
+    },
+    "february": {
+      "temperature": { "high": 31, "low": 23 },
+      "rainfall": 40,
+      "rainyDays": 5,
+      "humidity": 75,
+      "description": "Driest month of the year. Chinese New Year brings colorful celebrations.",
+      "events": ["Chinese New Year celebrations"],
+      "pros": ["Best weather", "Cultural festivities", "Great shopping"],
+      "cons": ["Busy during CNY", "Higher prices during festival"]
+    },
+    "march": {
+      "temperature": { "high": 32, "low": 24 },
+      "rainfall": 80,
+      "rainyDays": 9,
+      "humidity": 80,
+      "description": "Weather warming up with occasional afternoon showers. Still good for sightseeing.",
+      "events": [],
+      "pros": ["Good weather", "Less crowded", "Local prices"],
+      "cons": ["Getting hotter", "Humidity increasing"]
+    },
+    "april": {
+      "temperature": { "high": 33, "low": 24 },
+      "rainfall": 120,
+      "rainyDays": 12,
+      "humidity": 80,
+      "description": "Hot with increasing rain. Songkran celebrated with local traditions.",
+      "events": ["Songkran Water Festival"],
+      "pros": ["Cultural experience", "Cooling rain", "Local atmosphere"],
+      "cons": ["Very hot", "Increasing rain", "High humidity"]
+    },
+    "may": {
+      "temperature": { "high": 32, "low": 24 },
+      "rainfall": 160,
+      "rainyDays": 16,
+      "humidity": 85,
+      "description": "Rainy season begins. Shopping malls and indoor markets popular.",
+      "events": [],
+      "pros": ["Cooler with rain", "Great mall shopping", "Fewer tourists"],
+      "cons": ["Daily rain", "Outdoor limitations", "Very humid"]
+    },
+    "june": {
+      "temperature": { "high": 31, "low": 24 },
+      "rainfall": 140,
+      "rainyDays": 15,
+      "humidity": 85,
+      "description": "Steady rainfall but city life continues normally. Good food scene thrives.",
+      "events": [],
+      "pros": ["Authentic experience", "Great food", "Low prices"],
+      "cons": ["Regular rain", "Limited outdoor time", "Some flooding"]
+    },
+    "july": {
+      "temperature": { "high": 31, "low": 24 },
+      "rainfall": 150,
+      "rainyDays": 16,
+      "humidity": 85,
+      "description": "Rainy season continues. Morning market visits before afternoon rain.",
+      "events": ["Asahna Bucha Day"],
+      "pros": ["Cultural events", "Cooler weather", "Local life"],
+      "cons": ["Frequent rain", "High humidity", "Transport delays"]
+    },
+    "august": {
+      "temperature": { "high": 31, "low": 24 },
+      "rainfall": 160,
+      "rainyDays": 17,
+      "humidity": 85,
+      "description": "Consistent rainfall. Indoor attractions and food tours popular.",
+      "events": ["Queen Mother's Birthday"],
+      "pros": ["Food paradise", "Shopping deals", "Cool temperatures"],
+      "cons": ["Heavy rain", "Flooding risk", "Outdoor challenges"]
+    },
+    "september": {
+      "temperature": { "high": 30, "low": 23 },
+      "rainfall": 200,
+      "rainyDays": 19,
+      "humidity": 85,
+      "description": "One of the wettest months. City experiences regular flooding.",
+      "events": ["Vegetarian Festival"],
+      "pros": ["Unique festival", "Very few tourists", "Authentic atmosphere"],
+      "cons": ["Heavy rainfall", "Flooding common", "Limited activities"]
+    },
+    "october": {
+      "temperature": { "high": 30, "low": 23 },
+      "rainfall": 280,
+      "rainyDays": 21,
+      "humidity": 85,
+      "description": "Peak rainfall month. Flooding most common but city adapted to conditions.",
+      "events": ["Chak Phra Festival"],
+      "pros": ["Local festivals", "Lowest prices", "Cultural immersion"],
+      "cons": ["Heaviest rain", "Frequent floods", "Transport issues"]
+    },
+    "november": {
+      "temperature": { "high": 29, "low": 23 },
+      "rainfall": 240,
+      "rainyDays": 18,
+      "humidity": 85,
+      "description": "Still wet but improving. Tourist season slowly beginning.",
+      "events": ["Loy Krathong"],
+      "pros": ["Festival season", "Weather improving", "Still quiet"],
+      "cons": ["Still rainy", "Flooding possible", "High humidity"]
+    },
+    "december": {
+      "temperature": { "high": 29, "low": 23 },
+      "rainfall": 150,
+      "rainyDays": 12,
+      "humidity": 80,
+      "description": "Weather improving significantly. Holiday season brings festivities.",
+      "events": ["King's Birthday", "Christmas", "New Year"],
+      "pros": ["Better weather", "Festive atmosphere", "Great shopping"],
+      "cons": ["Getting busier", "Some rain", "Weekend crowds"]
+    }
+  },
+  "krabi": {
+    "january": {
+      "temperature": { "high": 32, "low": 23 },
+      "rainfall": 35,
+      "rainyDays": 5,
+      "humidity": 75,
+      "seaTemperature": 28,
+      "description": "High season perfection. Calm seas ideal for island hopping and rock climbing.",
+      "events": ["New Year beach celebrations"],
+      "pros": ["Perfect weather", "Calm Andaman Sea", "All activities available"],
+      "cons": ["Peak prices", "Crowded beaches", "Book early essential"]
+    },
+    "february": {
+      "temperature": { "high": 33, "low": 23 },
+      "rainfall": 25,
+      "rainyDays": 3,
+      "humidity": 75,
+      "seaTemperature": 28,
+      "description": "Ideal conditions continue. Perfect for beach activities and island tours.",
+      "events": ["Krabi Boek Fa Andaman Festival"],
+      "pros": ["Best weather", "Festival atmosphere", "Excellent diving"],
+      "cons": ["Highest prices", "Very crowded", "Limited availability"]
+    },
+    "march": {
+      "temperature": { "high": 34, "low": 24 },
+      "rainfall": 50,
+      "rainyDays": 6,
+      "humidity": 75,
+      "seaTemperature": 29,
+      "description": "Still excellent but getting hotter. Sea temperature at its warmest.",
+      "events": [],
+      "pros": ["Warm sea", "Great weather", "Slightly less crowded"],
+      "cons": ["Very hot midday", "Prices still high", "Sun intensity"]
+    },
+    "april": {
+      "temperature": { "high": 34, "low": 25 },
+      "rainfall": 120,
+      "rainyDays": 11,
+      "humidity": 80,
+      "seaTemperature": 30,
+      "description": "Transition month. Brief afternoon showers starting but still good for beaches.",
+      "events": ["Songkran Water Festival"],
+      "pros": ["Warm water", "Songkran fun", "Prices dropping"],
+      "cons": ["Very hot", "Increasing rain", "Some rough seas"]
+    },
+    "may": {
+      "temperature": { "high": 32, "low": 25 },
+      "rainfall": 250,
+      "rainyDays": 19,
+      "humidity": 85,
+      "seaTemperature": 29,
+      "description": "Monsoon season begins. West-facing beaches have rough seas.",
+      "events": [],
+      "pros": ["Low season prices", "Fewer tourists", "Dramatic seascapes"],
+      "cons": ["Rough seas", "Island trips cancelled", "Limited swimming"]
+    },
+    "june": {
+      "temperature": { "high": 31, "low": 25 },
+      "rainfall": 210,
+      "rainyDays": 18,
+      "humidity": 85,
+      "seaTemperature": 29,
+      "description": "Full monsoon. East coast beaches like Ao Nang more sheltered.",
+      "events": [],
+      "pros": ["Empty beaches", "Great deals", "Surfing possible"],
+      "cons": ["Heavy rain", "Many boats cancelled", "Limited activities"]
+    },
+    "july": {
+      "temperature": { "high": 31, "low": 25 },
+      "rainfall": 230,
+      "rainyDays": 19,
+      "humidity": 85,
+      "seaTemperature": 28,
+      "description": "Monsoon continues. Rock climbing still possible between showers.",
+      "events": ["Asahna Bucha Day"],
+      "pros": ["Rock climbing", "Peaceful", "Jungle waterfalls full"],
+      "cons": ["Daily rain", "Rough seas", "Beach limitations"]
+    },
+    "august": {
+      "temperature": { "high": 31, "low": 25 },
+      "rainfall": 260,
+      "rainyDays": 20,
+      "humidity": 85,
+      "seaTemperature": 28,
+      "description": "Peak monsoon but Railay still accessible. Indoor activities popular.",
+      "events": ["Queen Mother's Birthday"],
+      "pros": ["Dramatic weather", "Very quiet", "Best prices"],
+      "cons": ["Heavy rain", "Most boats cancelled", "Beach debris"]
+    },
+    "september": {
+      "temperature": { "high": 30, "low": 24 },
+      "rainfall": 330,
+      "rainyDays": 22,
+      "humidity": 90,
+      "seaTemperature": 28,
+      "description": "Wettest month. Many island services suspended.",
+      "events": [],
+      "pros": ["Lowest prices", "Authentic local life", "Powerful nature"],
+      "cons": ["Constant rain", "Most tours closed", "Dangerous seas"]
+    },
+    "october": {
+      "temperature": { "high": 30, "low": 24 },
+      "rainfall": 300,
+      "rainyDays": 22,
+      "humidity": 85,
+      "seaTemperature": 28,
+      "description": "Still very wet but late month sees improvement.",
+      "events": ["Chak Phra Festival"],
+      "pros": ["Local festivals", "Weather improving", "Nature lush"],
+      "cons": ["Heavy rain", "Limited services", "Muddy trails"]
+    },
+    "november": {
+      "temperature": { "high": 30, "low": 24 },
+      "rainfall": 160,
+      "rainyDays": 14,
+      "humidity": 80,
+      "seaTemperature": 28,
+      "description": "Transition to high season. Weather improving daily.",
+      "events": ["Loy Krathong", "Krabi Rock and Fire Festival"],
+      "pros": ["Improving weather", "Festivals", "Services reopening"],
+      "cons": ["Some rain", "Seas still rough early", "Prices rising"]
+    },
+    "december": {
+      "temperature": { "high": 31, "low": 23 },
+      "rainfall": 70,
+      "rainyDays": 9,
+      "humidity": 75,
+      "seaTemperature": 28,
+      "description": "High season returns. Perfect conditions for all activities.",
+      "events": ["King's Birthday", "Christmas", "New Year celebrations"],
+      "pros": ["Great weather", "Festive season", "Everything open"],
+      "cons": ["Peak prices returning", "Getting crowded", "Book ahead"]
+    }
+  },
+  "pattaya": {
+    "january": {
+      "temperature": { "high": 31, "low": 22 },
+      "rainfall": 20,
+      "rainyDays": 3,
+      "humidity": 70,
+      "seaTemperature": 27,
+      "description": "Perfect beach weather with cool breezes. Ideal for all activities.",
+      "events": ["New Year celebrations", "Pattaya International Fireworks Festival"],
+      "pros": ["Best weather", "Major events", "Cool evenings"],
+      "cons": ["Peak prices", "Very crowded", "Traffic jams"]
+    },
+    "february": {
+      "temperature": { "high": 32, "low": 23 },
+      "rainfall": 25,
+      "rainyDays": 3,
+      "humidity": 70,
+      "seaTemperature": 27,
+      "description": "Excellent conditions continue. Valentine's adds romantic atmosphere.",
+      "events": ["Chinese New Year", "Valentine's Day"],
+      "pros": ["Perfect weather", "Romantic season", "All attractions open"],
+      "cons": ["High prices", "Busy beaches", "Crowded attractions"]
+    },
+    "march": {
+      "temperature": { "high": 33, "low": 25 },
+      "rainfall": 40,
+      "rainyDays": 5,
+      "humidity": 75,
+      "seaTemperature": 28,
+      "description": "Getting warmer but still pleasant. Beach activities excellent.",
+      "events": ["Pattaya International Music Festival"],
+      "pros": ["Great weather", "Music festival", "Warm sea"],
+      "cons": ["Getting hot", "Still pricey", "Crowded weekends"]
+    },
+    "april": {
+      "temperature": { "high": 34, "low": 26 },
+      "rainfall": 60,
+      "rainyDays": 7,
+      "humidity": 75,
+      "seaTemperature": 29,
+      "description": "Hot but Songkran brings relief. Wan Lai extends celebrations.",
+      "events": ["Songkran", "Wan Lai (Pattaya's extended Songkran)"],
+      "pros": ["Epic water fights", "Festival atmosphere", "Warm water"],
+      "cons": ["Very hot", "Extremely crowded", "Impossible to stay dry"]
+    },
+    "may": {
+      "temperature": { "high": 33, "low": 26 },
+      "rainfall": 150,
+      "rainyDays": 14,
+      "humidity": 80,
+      "seaTemperature": 30,
+      "description": "Low season begins with afternoon rains. Fewer tourists arrive.",
+      "events": [],
+      "pros": ["Lower prices", "Less crowded", "Warm sea"],
+      "cons": ["Daily rain", "Some closures", "High humidity"]
+    },
+    "june": {
+      "temperature": { "high": 32, "low": 26 },
+      "rainfall": 120,
+      "rainyDays": 13,
+      "humidity": 80,
+      "seaTemperature": 29,
+      "description": "Rainy season but beaches still enjoyable between showers.",
+      "events": [],
+      "pros": ["Quiet beaches", "Good deals", "Warm water"],
+      "cons": ["Regular rain", "Overcast skies", "Limited island trips"]
+    },
+    "july": {
+      "temperature": { "high": 31, "low": 26 },
+      "rainfall": 130,
+      "rainyDays": 14,
+      "humidity": 80,
+      "seaTemperature": 29,
+      "description": "Steady rain but nightlife and attractions operate normally.",
+      "events": ["Asahna Bucha Day"],
+      "pros": ["Low prices", "Authentic feel", "Less touristy"],
+      "cons": ["Frequent rain", "Beach days limited", "Choppy seas"]
+    },
+    "august": {
+      "temperature": { "high": 31, "low": 26 },
+      "rainfall": 140,
+      "rainyDays": 15,
+      "humidity": 85,
+      "seaTemperature": 29,
+      "description": "Rainy but city attractions unaffected. Good for nightlife focus.",
+      "events": ["Queen Mother's Birthday"],
+      "pros": ["Cheapest prices", "No crowds", "Nightlife thriving"],
+      "cons": ["Daily rain", "Beach weather poor", "Some flooding"]
+    },
+    "september": {
+      "temperature": { "high": 31, "low": 25 },
+      "rainfall": 220,
+      "rainyDays": 18,
+      "humidity": 85,
+      "seaTemperature": 28,
+      "description": "Wettest month but city designed for all-weather entertainment.",
+      "events": [],
+      "pros": ["Rock bottom prices", "No queues", "Local atmosphere"],
+      "cons": ["Heavy rain", "Flooding possible", "Beach activities limited"]
+    },
+    "october": {
+      "temperature": { "high": 31, "low": 24 },
+      "rainfall": 230,
+      "rainyDays": 17,
+      "humidity": 85,
+      "seaTemperature": 28,
+      "description": "Still wet but improving late month. Tourist facilities preparing.",
+      "events": ["Pattaya International Boat Show"],
+      "pros": ["Still quiet", "Prices low", "Weather improving"],
+      "cons": ["Still rainy", "Beach conditions variable", "Early month floods"]
+    },
+    "november": {
+      "temperature": { "high": 31, "low": 23 },
+      "rainfall": 90,
+      "rainyDays": 8,
+      "humidity": 75,
+      "seaTemperature": 28,
+      "description": "High season approaching. Weather improving significantly.",
+      "events": ["Loy Krathong", "Pattaya International Fireworks Festival"],
+      "pros": ["Good weather returning", "Major events", "Still reasonable prices"],
+      "cons": ["Getting busier", "Some rain", "Prices rising"]
+    },
+    "december": {
+      "temperature": { "high": 31, "low": 22 },
+      "rainfall": 25,
+      "rainyDays": 3,
+      "humidity": 70,
+      "seaTemperature": 27,
+      "description": "High season returns with perfect weather and festive atmosphere.",
+      "events": ["Christmas", "New Year countdown", "Pattaya Countdown"],
+      "pros": ["Excellent weather", "Festive season", "Major events"],
+      "cons": ["Peak prices", "Very crowded", "Traffic terrible"]
+    }
+  },
+  "sukhothai": {
+    "january": {
+      "temperature": { "high": 32, "low": 17 },
+      "rainfall": 5,
+      "rainyDays": 1,
+      "humidity": 65,
+      "description": "Cool season ideal for cycling around historical parks. Misty mornings create atmospheric temple views.",
+      "events": ["New Year merit-making at temples"],
+      "pros": ["Perfect weather", "Cool for cycling", "Beautiful mornings"],
+      "cons": ["Chilly mornings", "Peak season crowds"]
+    },
+    "february": {
+      "temperature": { "high": 35, "low": 19 },
+      "rainfall": 10,
+      "rainyDays": 1,
+      "humidity": 60,
+      "description": "Excellent weather continues. Ideal for exploring both old and new Sukhothai.",
+      "events": ["Makha Bucha Day ceremonies"],
+      "pros": ["Great weather", "Perfect visibility", "Comfortable cycling"],
+      "cons": ["Getting warmer", "Dry and dusty"]
+    },
+    "march": {
+      "temperature": { "high": 37, "low": 23 },
+      "rainfall": 20,
+      "rainyDays": 3,
+      "humidity": 65,
+      "description": "Hot season begins. Early morning and late afternoon best for sightseeing.",
+      "events": [],
+      "pros": ["Fewer tourists", "Clear skies", "Lower prices"],
+      "cons": ["Very hot midday", "Limited comfortable hours", "Shade scarce"]
+    },
+    "april": {
+      "temperature": { "high": 38, "low": 25 },
+      "rainfall": 45,
+      "rainyDays": 5,
+      "humidity": 70,
+      "description": "Extremely hot but Songkran brings traditional celebrations at historical sites.",
+      "events": ["Songkran at Sukhothai Historical Park"],
+      "pros": ["Traditional Songkran", "Cultural ceremonies", "Evening relief"],
+      "cons": ["Extreme heat", "Challenging cycling", "Very crowded during festival"]
+    },
+    "may": {
+      "temperature": { "high": 35, "low": 25 },
+      "rainfall": 140,
+      "rainyDays": 12,
+      "humidity": 75,
+      "description": "Rains bring relief from heat. Historical park less crowded.",
+      "events": [],
+      "pros": ["Cooler temperatures", "Green landscapes", "Peaceful parks"],
+      "cons": ["Afternoon rain", "Muddy paths", "Cycling challenges"]
+    },
+    "june": {
+      "temperature": { "high": 33, "low": 25 },
+      "rainfall": 110,
+      "rainyDays": 11,
+      "humidity": 80,
+      "description": "Rainy season established. Morning visits recommended.",
+      "events": [],
+      "pros": ["Few tourists", "Lush surroundings", "Dramatic skies"],
+      "cons": ["Regular rain", "Slippery surfaces", "Limited photography"]
+    },
+    "july": {
+      "temperature": { "high": 32, "low": 24 },
+      "rainfall": 120,
+      "rainyDays": 13,
+      "humidity": 85,
+      "description": "Steady rainfall but historical sites remain accessible.",
+      "events": ["Asahna Bucha Day at temples"],
+      "pros": ["Cultural experiences", "Cool weather", "Authentic atmosphere"],
+      "cons": ["Daily rain", "Mosquitoes", "Wet conditions"]
+    },
+    "august": {
+      "temperature": { "high": 32, "low": 24 },
+      "rainfall": 150,
+      "rainyDays": 15,
+      "humidity": 85,
+      "description": "Peak rainy season. Museums good wet weather option.",
+      "events": ["Queen Mother's Birthday"],
+      "pros": ["Very quiet", "Best prices", "Cool temperatures"],
+      "cons": ["Heavy rain", "Limited cycling", "Some flooding"]
+    },
+    "september": {
+      "temperature": { "high": 32, "low": 24 },
+      "rainfall": 200,
+      "rainyDays": 17,
+      "humidity": 85,
+      "description": "Wettest month. Indoor activities and covered areas best.",
+      "events": [],
+      "pros": ["No crowds", "Mystical atmosphere", "Low prices"],
+      "cons": ["Frequent rain", "Flooding risk", "Photography difficult"]
+    },
+    "october": {
+      "temperature": { "high": 32, "low": 23 },
+      "rainfall": 150,
+      "rainyDays": 12,
+      "humidity": 80,
+      "description": "Rain decreasing. Historical park preparing for high season.",
+      "events": ["Ok Phansa"],
+      "pros": ["Weather improving", "Still quiet", "Green scenery"],
+      "cons": ["Some rain", "Muddy areas", "Humidity high"]
+    },
+    "november": {
+      "temperature": { "high": 31, "low": 20 },
+      "rainfall": 30,
+      "rainyDays": 4,
+      "humidity": 70,
+      "description": "Cool season returns. Loy Krathong spectacular at historical park.",
+      "events": ["Loy Krathong and light show at historical park"],
+      "pros": ["Excellent weather", "Amazing festival", "Perfect cycling"],
+      "cons": ["Tourist numbers rising", "Festival crowds", "Accommodation scarce"]
+    },
+    "december": {
+      "temperature": { "high": 30, "low": 17 },
+      "rainfall": 5,
+      "rainyDays": 1,
+      "humidity": 65,
+      "description": "Peak cool season. Perfect conditions for exploring ancient ruins.",
+      "events": ["King's Birthday", "New Year celebrations"],
+      "pros": ["Best weather", "Cool mornings", "Clear skies"],
+      "cons": ["Cold early mornings", "Peak prices", "Crowded parks"]
+    }
+  },
+  "surat-thani": {
+    "january": {
+      "temperature": { "high": 29, "low": 23 },
+      "rainfall": 90,
+      "rainyDays": 9,
+      "humidity": 75,
+      "description": "Relatively dry for Surat Thani. Good weather for island transfers and city exploration.",
+      "events": ["New Year celebrations"],
+      "pros": ["Drier weather", "Good for transfers", "Pleasant temperatures"],
+      "cons": ["Some rain", "Busy ferry terminals"]
+    },
+    "february": {
+      "temperature": { "high": 30, "low": 23 },
+      "rainfall": 40,
+      "rainyDays": 5,
+      "humidity": 75,
+      "description": "Driest month. Ideal for exploring city and nearby attractions.",
+      "events": ["Chinese New Year in city"],
+      "pros": ["Best weather", "Easy island access", "City festivals"],
+      "cons": ["Crowded transport hubs", "Higher accommodation prices"]
+    },
+    "march": {
+      "temperature": { "high": 32, "low": 24 },
+      "rainfall": 60,
+      "rainyDays": 7,
+      "humidity": 75,
+      "description": "Weather warming. Still good for travel connections and sightseeing.",
+      "events": [],
+      "pros": ["Good weather", "Less crowded", "Smooth transfers"],
+      "cons": ["Getting hotter", "Humidity rising"]
+    },
+    "april": {
+      "temperature": { "high": 33, "low": 25 },
+      "rainfall": 90,
+      "rainyDays": 9,
+      "humidity": 80,
+      "description": "Hot with increasing rain. Songkran celebrated throughout city.",
+      "events": ["Songkran Water Festival"],
+      "pros": ["Local Songkran experience", "Cultural immersion", "Cooling rain"],
+      "cons": ["Very hot", "Transport disruptions during festival"]
+    },
+    "may": {
+      "temperature": { "high": 32, "low": 25 },
+      "rainfall": 150,
+      "rainyDays": 15,
+      "humidity": 85,
+      "description": "Rainy season begins. City life continues normally despite rain.",
+      "events": [],
+      "pros": ["Fewer tourists", "Authentic city life", "Lower prices"],
+      "cons": ["Daily rain", "Some ferry cancellations", "High humidity"]
+    },
+    "june": {
+      "temperature": { "high": 31, "low": 24 },
+      "rainfall": 130,
+      "rainyDays": 14,
+      "humidity": 85,
+      "description": "Steady rainfall. Good base for rainy season island visits.",
+      "events": [],
+      "pros": ["Quiet city", "Local prices", "Less touristy"],
+      "cons": ["Regular rain", "Weather-dependent ferries", "Limited activities"]
+    },
+    "july": {
+      "temperature": { "high": 31, "low": 24 },
+      "rainfall": 140,
+      "rainyDays": 15,
+      "humidity": 85,
+      "description": "Rainy season continues. Morning activities before afternoon rain.",
+      "events": ["Asahna Bucha Day"],
+      "pros": ["Cultural events", "Cool temperatures", "Peaceful city"],
+      "cons": ["Frequent rain", "Transport delays", "High humidity"]
+    },
+    "august": {
+      "temperature": { "high": 31, "low": 24 },
+      "rainfall": 150,
+      "rainyDays": 16,
+      "humidity": 85,
+      "description": "Consistent rainfall. City's covered markets popular.",
+      "events": ["Queen Mother's Birthday"],
+      "pros": ["Authentic experience", "Best prices", "Cool weather"],
+      "cons": ["Heavy rain", "Limited outdoor options", "Ferry disruptions"]
+    },
+    "september": {
+      "temperature": { "high": 30, "low": 24 },
+      "rainfall": 180,
+      "rainyDays": 18,
+      "humidity": 85,
+      "description": "Peak rainfall but city infrastructure handles it well.",
+      "events": [],
+      "pros": ["Very quiet", "Lowest prices", "Local atmosphere"],
+      "cons": ["Heavy rain", "Flooding possible", "Many ferry cancellations"]
+    },
+    "october": {
+      "temperature": { "high": 30, "low": 24 },
+      "rainfall": 250,
+      "rainyDays": 20,
+      "humidity": 85,
+      "description": "Wettest month for region. City experiences regular flooding.",
+      "events": ["Chak Phra Festival"],
+      "pros": ["Local festivals", "Cultural immersion", "Very few tourists"],
+      "cons": ["Heaviest rain", "Flooding common", "Transport challenges"]
+    },
+    "november": {
+      "temperature": { "high": 29, "low": 23 },
+      "rainfall": 200,
+      "rainyDays": 16,
+      "humidity": 85,
+      "description": "Still wet but improving. Tourist season slowly starting.",
+      "events": ["Loy Krathong on Tapi River"],
+      "pros": ["Beautiful festival", "Weather improving", "Still peaceful"],
+      "cons": ["Still rainy", "Some flooding", "Ferry schedules variable"]
+    },
+    "december": {
+      "temperature": { "high": 29, "low": 23 },
+      "rainfall": 130,
+      "rainyDays": 11,
+      "humidity": 80,
+      "description": "Weather improving. Holiday season brings festive atmosphere.",
+      "events": ["King's Birthday", "Christmas", "New Year"],
+      "pros": ["Better weather", "Festive mood", "Easier island access"],
+      "cons": ["Getting busier", "Some rain persists", "Rising prices"]
+    }
+  }
+}
