@@ -98,38 +98,7 @@ export default function App({ Component, pageProps }: AppProps) {
             data-cfasync="false"
           />
           
-          {/* Ezoic Scripts - Load with lazyOnload for better performance */}
-          <Script
-            id="ezoic-sa"
-            strategy="lazyOnload"
-            src="//www.ezojs.com/ezoic/sa.min.js"
-          />
-          
-          <Script
-            id="ezoic-main"
-            strategy="lazyOnload"
-            src="//go.ezoic.net/detroitchicago/spacer.gif"
-          />
-          
-          <Script
-            id="ezoic-standalone"
-            strategy="lazyOnload"
-            dangerouslySetInnerHTML={{
-              __html: `
-                window.ezstandalone = window.ezstandalone || {};
-                window.ezstandalone.cmd = window.ezstandalone.cmd || [];
-                window.ezstandalone.define = window.ezstandalone.define || function(slot) {
-                  return true;
-                };
-                window.ezstandalone.display = window.ezstandalone.display || function(slot) {
-                  return true;
-                };
-                window.ezstandalone.refresh = window.ezstandalone.refresh || function(slot) {
-                  return true;
-                };
-              `
-            }}
-          />
+          {/* Ezoic scripts are now in _document.tsx for proper JavaScript integration */}
         </>
       )}
 

@@ -34,16 +34,19 @@ export default function Document() {
         
         {/* Google AdSense - Removed to improve performance (using Ezoic instead) */}
         
-        {/* Ezoic initialization script - moved consent scripts to _app.tsx for better performance */}
+        {/* Ezoic Scripts for JavaScript Integration */}
         {isProduction && (
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `
-                window.ezstandalone = window.ezstandalone || {};
-                ezstandalone.cmd = ezstandalone.cmd || [];
-              `,
-            }}
-          />
+          <>
+            <script
+              dangerouslySetInnerHTML={{
+                __html: `
+                  window.ezstandalone = window.ezstandalone || {};
+                  ezstandalone.cmd = ezstandalone.cmd || [];
+                `,
+              }}
+            />
+            <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
+          </>
         )}
       </Head>
       <body>

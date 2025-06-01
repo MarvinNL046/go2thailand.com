@@ -15,7 +15,8 @@
       "Bash(git add:*)",
       "WebFetch(domain:go2-thailand.com)",
       "Bash(git commit:*)",
-      "Bash(npx tsc:*)"
+      "Bash(npx tsc:*)",
+      "WebFetch(domain:docs.ezoic.com)"
     ],
     "deny": []
   }
