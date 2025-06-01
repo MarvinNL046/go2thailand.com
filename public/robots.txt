@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://go2-thailand.com/sitemap.xml
+Sitemap: https://go2-thailand.com/sitemap-index.xml
 
 # Block common bot paths
 Disallow: /_next/

@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "home": "首页",
+    "cities": "城市",
+    "food": "美食",
+    "planTrip": "行程规划",
+    "weather": "天气指南",
+    "transport": "交通路线",
+    "esim": "泰国eSIM",
+    "insurance": "旅游保险",
+    "gear": "旅行装备",
+    "social": "社交媒体工具",
+    "top10": "十大推荐",
+    "regions": "地区",
+    "exploreNow": "立即探索"
+  },
+  "hero": {
+    "title": "发现泰国",
+    "subtitle": "您的终极旅行指南",
+    "description": "探索迷人的城市、隐藏的宝藏、美味的食物和难忘的体验"
+  },
+  "buttons": {
+    "viewAll": "查看全部",
+    "learnMore": "了解更多",
+    "bookNow": "立即预订",
+    "readMore": "阅读更多",
+    "search": "搜索"
+  },
+  "labels": {
+    "from": "出发地",
+    "to": "目的地",
+    "selectCity": "选择城市",
+    "popularRoutes": "热门路线",
+    "allRoutes": "所有路线",
+    "weather": "天气",
+    "transport": "交通",
+    "attractions": "景点",
+    "hotels": "酒店",
+    "restaurants": "餐厅"
+  },
+  "footer": {
+    "aboutTitle": "Go2泰国",
+    "aboutText": "您探索泰国的终极指南。在微笑之国发现迷人的城市、隐藏的宝藏、美味的食物和难忘的体验。",
+    "quickLinks": "快速链接",
+    "popularCities": "热门城市",
+    "travelResources": "旅行资源",
+    "rights": "版权所有",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  }
+}

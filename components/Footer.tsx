@@ -6,25 +6,7 @@ const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white">
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-8 gap-8">
-          {/* Brand */}
-          <div className="col-span-1 md:col-span-2 xl:col-span-2">
-            <Link href="/" className="flex items-center space-x-2 mb-4">
-              <div className="text-2xl font-bold text-thailand-red">
-                Go2Thailand
-              </div>
-            </Link>
-            <p className="text-gray-400 text-sm leading-6 max-w-md">
-              Your ultimate guide to exploring Thailand. Discover amazing cities, hidden gems, 
-              delicious food, and unforgettable experiences across the Land of Smiles.
-            </p>
-            <div className="mt-6">
-              <p className="text-xs text-gray-500">
-                Built with Next.js and Tailwind CSS
-              </p>
-            </div>
-          </div>
-
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Quick Links */}
           <div>
             <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase mb-4">
@@ -166,6 +148,40 @@ const Footer = () => {
             </ul>
           </div>
 
+          {/* Transport Routes */}
+          <div>
+            <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase mb-4">
+              🚌 Transport Routes
+            </h3>
+            <ul className="space-y-2">
+              <li>
+                <Link href="/transport/" className="text-gray-300 hover:text-white font-medium text-sm transition-colors">
+                  All Routes →
+                </Link>
+              </li>
+              <li className="pt-1">
+                <Link href="/transport/bangkok-to-chiang-mai/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Bangkok to Chiang Mai
+                </Link>
+              </li>
+              <li>
+                <Link href="/transport/bangkok-to-phuket/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Bangkok to Phuket
+                </Link>
+              </li>
+              <li>
+                <Link href="/transport/bangkok-to-krabi/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Bangkok to Krabi
+                </Link>
+              </li>
+              <li className="pt-2">
+                <Link href="/transport/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  More Routes →
+                </Link>
+              </li>
+            </ul>
+          </div>
+
           {/* Top 10 Guides */}
           <div>
             <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase mb-4">
@@ -198,6 +214,24 @@ const Footer = () => {
                 </Link>
               </li>
             </ul>
+          </div>
+
+          {/* Brand - Bottom Right */}
+          <div>
+            <Link href="/" className="flex items-center space-x-2 mb-4">
+              <div className="text-2xl font-bold text-thailand-red">
+                Go2Thailand
+              </div>
+            </Link>
+            <p className="text-gray-400 text-sm leading-6">
+              Your ultimate guide to exploring Thailand. Discover amazing cities, hidden gems, 
+              delicious food, and unforgettable experiences across the Land of Smiles.
+            </p>
+            <div className="mt-6">
+              <p className="text-xs text-gray-500">
+                Built with Next.js and Tailwind CSS
+              </p>
+            </div>
           </div>
         </div>
 

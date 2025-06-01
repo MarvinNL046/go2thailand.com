@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "home": "Home",
+    "cities": "Cities",
+    "food": "Food",
+    "planTrip": "Plan Trip",
+    "weather": "Weather Guide",
+    "transport": "Transport Routes",
+    "esim": "Thailand eSIM",
+    "insurance": "Travel Insurance",
+    "gear": "Travel Gear",
+    "social": "Social Media Tools",
+    "top10": "Top 10",
+    "regions": "Regions",
+    "exploreNow": "Explore Now"
+  },
+  "hero": {
+    "title": "Discover Thailand",
+    "subtitle": "Your Ultimate Travel Guide",
+    "description": "Explore amazing cities, hidden gems, delicious food, and unforgettable experiences"
+  },
+  "buttons": {
+    "viewAll": "View All",
+    "learnMore": "Learn More",
+    "bookNow": "Book Now",
+    "readMore": "Read More",
+    "search": "Search"
+  },
+  "labels": {
+    "from": "From",
+    "to": "To",
+    "selectCity": "Select city",
+    "popularRoutes": "Popular Routes",
+    "allRoutes": "All Routes",
+    "weather": "Weather",
+    "transport": "Transport",
+    "attractions": "Attractions",
+    "hotels": "Hotels",
+    "restaurants": "Restaurants"
+  },
+  "footer": {
+    "aboutTitle": "Go2Thailand",
+    "aboutText": "Your ultimate guide to exploring Thailand. Discover amazing cities, hidden gems, delicious food, and unforgettable experiences across the Land of Smiles.",
+    "quickLinks": "Quick Links",
+    "popularCities": "Popular Cities",
+    "travelResources": "Travel Resources",
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

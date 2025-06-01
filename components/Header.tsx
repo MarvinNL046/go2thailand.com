@@ -2,9 +2,12 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
+import LanguageSwitcher from './LanguageSwitcher';
+import { useTranslation } from '../hooks/useTranslation';
 
 const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const { t, locale } = useTranslation('common');
 
   return (
     <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b-2 border-thailand-red shadow-lg">
@@ -35,58 +38,70 @@ const Header = () => {
                 href="/" 
                 className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
               >
-                Home
+                {t('nav.home')}
                 <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
               </Link>
               <Link 
                 href="/city/" 
                 className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
               >
-                Cities
+                {t('nav.cities')}
                 <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
               </Link>
               <Link 
                 href="/food/" 
                 className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
               >
-                Food
+                {t('nav.food')}
                 <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
               </Link>
-              <Link 
-                href="/esim/" 
-                className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
-              >
-                eSIM
-                <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-              </Link>
-              <Link 
-                href="/travel-insurance/" 
-                className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
-              >
-                Insurance
-                <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-              </Link>
-              <Link 
-                href="/travel-gear/" 
-                className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
-              >
-                Gear
-                <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-              </Link>
-              <Link 
-                href="/weather/" 
-                className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
-              >
-                Weather
-                <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-              </Link>
-              <Link 
-                href="/social/" 
-                className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
-              >
-                Social
-                <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-              </Link>
+
+              {/* Plan Your Trip Dropdown */}
+              <div className="relative group">
+                <button className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 flex items-center space-x-1 relative">
+                  <span>Plan Trip</span>
+                  <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
+                  </svg>
+                  <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
+                </button>
+                
+                <div className="absolute left-0 mt-2 w-full max-w-[14rem] sm:w-56 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-thailand-blue-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
+                  <div className="py-2">
+                    <Link href="/weather/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <span className="mr-3">🌤️</span>
+                      Weather Guide
+                    </Link>
+                    <Link href="/transport/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <span className="mr-3">🚌</span>
+                      Transport Routes
+                    </Link>
+                    <div className="border-t border-gray-100 mt-2 pt-2">
+                      <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">
+                        Travel Essentials
+                      </div>
+                      <Link href="/esim/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                        <span className="mr-3">📱</span>
+                        Thailand eSIM
+                      </Link>
+                      <Link href="/travel-insurance/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                        <span className="mr-3">🛡️</span>
+                        Travel Insurance
+                      </Link>
+                      <Link href="/travel-gear/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                        <span className="mr-3">🎒</span>
+                        Travel Gear
+                      </Link>
+                    </div>
+                    <div className="border-t border-gray-100 mt-2 pt-2">
+                      <Link href="/social/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                        <span className="mr-3">📸</span>
+                        Social Media Tools
+                      </Link>
+                    </div>
+                  </div>
+                </div>
+              </div>
 
               {/* Top 10 Guides Dropdown */}
               <div className="relative group">
@@ -168,13 +183,18 @@ const Header = () => {
                 </div>
               </div>
 
+              {/* Language Switcher */}
+              <div className="ml-2">
+                <LanguageSwitcher />
+              </div>
+
               {/* CTA Button */}
-              <div className="ml-4 pl-4 border-l border-thailand-blue-200">
+              <div className="ml-2 pl-4 border-l border-thailand-blue-200">
                 <Link 
                   href="/city/" 
                   className="bg-gradient-to-r from-thailand-red to-thailand-red-600 text-white px-6 py-2 rounded-lg text-sm font-semibold hover:from-thailand-red-600 hover:to-thailand-red-700 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
                 >
-                  Explore Now
+                  {t('nav.exploreNow')}
                 </Link>
               </div>
             </div>
@@ -254,6 +274,13 @@ const Header = () => {
               onClick={() => setIsMobileMenuOpen(false)}
             >
               🌤️ Weather Guide
+            </Link>
+            <Link 
+              href="/transport/" 
+              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              🚌 Transport Routes
             </Link>
             <Link 
               href="/social/" 

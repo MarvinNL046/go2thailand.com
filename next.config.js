@@ -3,6 +3,11 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   trailingSlash: true,
+  i18n: {
+    locales: ['en', 'zh', 'de', 'fr', 'ru', 'ja', 'ko'],
+    defaultLocale: 'en',
+    localeDetection: false, // We want full control over language selection
+  },
   images: {
     // Optimized for local images only
     formats: ['image/webp', 'image/avif'],

@@ -5,7 +5,7 @@ export interface EzoicAdProps {
   /** Unique ad placement ID (e.g., 101, 102, etc.) */
   placementId: number;
   /** Ad size/type */
-  size?: 'banner' | 'rectangle' | 'skyscraper' | 'mobile-banner' | 'responsive';
+  size?: 'banner' | 'rectangle' | 'skyscraper' | 'mobile-banner' | 'responsive' | 'leaderboard';
   /** Custom className for styling */
   className?: string;
   /** Enable lazy loading */
@@ -37,6 +37,7 @@ const EzoicAd: React.FC<EzoicAdProps> = ({
   
   const adSizes: Record<string, AdSize> = {
     banner: { width: 728, height: 90, mobileFallback: { width: 320, height: 50 } },
+    leaderboard: { width: 728, height: 90, mobileFallback: { width: 320, height: 50 } },
     rectangle: { width: 300, height: 250 },
     skyscraper: { width: 300, height: 600 },
     'mobile-banner': { width: 320, height: 100 },
@@ -146,16 +147,16 @@ const EzoicAd: React.FC<EzoicAdProps> = ({
         ref={adRef}
         className={`bg-gray-100 border-2 border-dashed border-gray-300 flex items-center justify-center text-gray-500 font-medium ${className}`}
         style={{ 
-          width: displaySize.width, 
-          height: displaySize.height,
+          width: displaySize?.width || 728, 
+          height: displaySize?.height || 90,
           maxWidth: '100%',
-          minHeight: typeof displaySize.height === 'number' ? `${displaySize.height}px` : '250px'
+          minHeight: typeof displaySize?.height === 'number' ? `${displaySize.height}px` : '250px'
         }}
       >
         <div className="text-center">
           <div className="text-sm font-bold">Ezoic Ad</div>
           <div className="text-xs">Placement ID: {placementId}</div>
-          <div className="text-xs">{size} ({displaySize.width}x{displaySize.height})</div>
+          <div className="text-xs">{size} ({displaySize?.width || 728}x{displaySize?.height || 90})</div>
         </div>
       </div>
     );
@@ -175,10 +176,10 @@ const EzoicAd: React.FC<EzoicAdProps> = ({
         data-placement-id={placementId}
         data-ad-size={size}
         style={{ 
-          width: displaySize.width, 
-          height: displaySize.height,
+          width: displaySize?.width || 728, 
+          height: displaySize?.height || 90,
           maxWidth: '100%',
-          minHeight: typeof displaySize.height === 'number' ? `${displaySize.height}px` : '250px'
+          minHeight: typeof displaySize?.height === 'number' ? `${displaySize.height}px` : '250px'
         }}
       >
         {/* Ezoic will inject ad content here */}

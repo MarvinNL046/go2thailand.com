@@ -1,0 +1,251 @@
+{
+  "routes": [
+    {
+      "from": "bangkok",
+      "to": "phuket",
+      "slug": "bangkok-to-phuket",
+      "distance": "840 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "12-14 hours",
+        "car": "10-12 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
+      "to": "chiang-mai",
+      "slug": "bangkok-to-chiang-mai",
+      "distance": "690 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "10-12 hours",
+        "train": "12-15 hours",
+        "car": "9-10 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
+      "to": "pattaya",
+      "slug": "bangkok-to-pattaya",
+      "distance": "150 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "1.5-2 hours",
+        "car": "1.5-2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
+      "to": "ayutthaya",
+      "slug": "bangkok-to-ayutthaya",
+      "distance": "80 km",
+      "duration": {
+        "bus": "1.5-2 hours",
+        "train": "1.5-2 hours",
+        "taxi": "1-1.5 hours",
+        "car": "1-1.5 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
+      "to": "krabi",
+      "slug": "bangkok-to-krabi",
+      "distance": "780 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "11-13 hours",
+        "car": "10-11 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "phuket",
+      "to": "krabi",
+      "slug": "phuket-to-krabi",
+      "distance": "160 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2.5-3 hours",
+        "ferry": "2-3 hours",
+        "car": "2.5-3 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-mai",
+      "to": "chiang-rai",
+      "slug": "chiang-mai-to-chiang-rai",
+      "distance": "185 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "3 hours",
+        "car": "3 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
+      "to": "sukhothai",
+      "slug": "bangkok-to-sukhothai",
+      "distance": "430 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "7-8 hours",
+        "car": "6-7 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "surat-thani",
+      "slug": "bangkok-to-surat-thani",
+      "distance": "650 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "10-11 hours",
+        "train": "11-13 hours",
+        "car": "8-9 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "phuket",
+      "to": "bangkok",
+      "slug": "phuket-to-bangkok",
+      "distance": "840 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "12-14 hours",
+        "car": "10-12 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-mai",
+      "to": "bangkok",
+      "slug": "chiang-mai-to-bangkok",
+      "distance": "690 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "10-12 hours",
+        "train": "12-15 hours",
+        "car": "9-10 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "pattaya",
+      "to": "bangkok",
+      "slug": "pattaya-to-bangkok",
+      "distance": "150 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "1.5-2 hours",
+        "car": "1.5-2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
+      "to": "hat-yai",
+      "slug": "bangkok-to-hat-yai",
+      "distance": "950 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "13-15 hours",
+        "train": "15-17 hours",
+        "car": "11-12 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "krabi",
+      "to": "bangkok",
+      "slug": "krabi-to-bangkok",
+      "distance": "780 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "11-13 hours",
+        "car": "10-11 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "ayutthaya",
+      "to": "bangkok",
+      "slug": "ayutthaya-to-bangkok",
+      "distance": "80 km",
+      "duration": {
+        "bus": "1.5-2 hours",
+        "train": "1.5-2 hours",
+        "taxi": "1-1.5 hours",
+        "car": "1-1.5 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "phuket",
+      "to": "pattaya",
+      "slug": "phuket-to-pattaya",
+      "distance": "990 km",
+      "duration": {
+        "flight": "2-3 hours (via Bangkok)",
+        "bus": "15-18 hours",
+        "car": "12-14 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-mai",
+      "to": "phuket",
+      "slug": "chiang-mai-to-phuket",
+      "distance": "1200 km",
+      "duration": {
+        "flight": "2 hours",
+        "bus": "20-24 hours",
+        "car": "16-18 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "krabi",
+      "to": "phuket",
+      "slug": "krabi-to-phuket",
+      "distance": "160 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2.5-3 hours",
+        "ferry": "2-3 hours",
+        "car": "2.5-3 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "pattaya",
+      "to": "phuket",
+      "slug": "pattaya-to-phuket",
+      "distance": "990 km",
+      "duration": {
+        "flight": "2-3 hours (via Bangkok)",
+        "bus": "15-18 hours",
+        "car": "12-14 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-mai",
+      "to": "sukhothai",
+      "slug": "chiang-mai-to-sukhothai",
+      "distance": "300 km",
+      "duration": {
+        "bus": "5-6 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    }
+  ]
+}

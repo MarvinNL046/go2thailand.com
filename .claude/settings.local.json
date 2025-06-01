@@ -19,7 +19,9 @@
       "WebFetch(domain:docs.ezoic.com)",
       "Bash(pkill:*)",
       "Bash(killall:*)",
-      "Bash(true)"
+      "Bash(true)",
+      "Bash(npm i:*)",
+      "Bash(sudo npm i -g @anthropic-ai/claude-code)"
     ],
     "deny": []
   }
