@@ -24,5 +24,6 @@
       "Bash(sudo npm i -g @anthropic-ai/claude-code)"
     ],
     "deny": []
-  }
+  },
+  "enableAllProjectMcpServers": false
 }

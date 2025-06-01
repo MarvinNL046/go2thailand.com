@@ -9,6 +9,7 @@ import CityCard from '../components/CityCard';
 import EzoicAd from '../components/EzoicAd';
 import TripcomWidget from '../components/TripcomWidget';
 import { AD_PLACEMENTS } from '../lib/ads/ezoic-config';
+import { useTranslation } from '../hooks/useTranslation';
 
 interface City {
   id: number;
@@ -48,6 +49,8 @@ interface HomeProps {
 }
 
 export default function Home({ cities, featuredCities, popularDishes }: HomeProps) {
+  const { t } = useTranslation('common');
+  
   // Hero slider state and logic
   const heroImages = [
     '/images/homepageHero/business-district-bangkok.webp',

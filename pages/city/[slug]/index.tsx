@@ -10,6 +10,10 @@ import Sidebar from '../../../components/Sidebar';
 import TripcomWidget from '../../../components/TripcomWidget';
 import { AD_PLACEMENTS } from '../../../lib/ads/ezoic-config';
 import { useEffect, useState } from 'react';
+import { useTranslatedContent } from '../../../hooks/useTranslatedContent';
+import { useRouter } from 'next/router';
+import { formatNumber, formatPopulation } from '../../../utils/formatNumber';
+import DebugContent from '../../../components/DebugContent';
 
 interface City {
   id: number;
@@ -144,6 +148,8 @@ interface CityPageProps {
 }
 
 export default function CityPage({ city, relatedCities }: CityPageProps) {
+  const router = useRouter();
+  const { locale = 'en' } = router;
   const [showFullDescription, setShowFullDescription] = useState(false);
   const [showAllHiddenGems, setShowAllHiddenGems] = useState(false);
   const [showAllExperiences, setShowAllExperiences] = useState(false);
@@ -153,9 +159,45 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
   const [showAllAttractions, setShowAllAttractions] = useState(false);
   const [showAllRestaurants, setShowAllRestaurants] = useState(false);
   
+  // Load translated content
+  const { content: translatedContent, loading: translationLoading } = useTranslatedContent('city', city?.slug);
+  
   if (!city) {
     return <div>City not found</div>;
   }
+
+  // Merge translated content with base city data
+  const displayCity = translatedContent || city;
+  
+  // Ensure we always get strings, not objects
+  let cityName: string;
+  let cityDescription: string;
+  
+  // Handle city name
+  if (typeof translatedContent?.name === 'string') {
+    cityName = translatedContent.name;
+  } else if (typeof city.name === 'object' && city.name.en) {
+    cityName = city.name.en;
+  } else if (typeof city.name === 'string') {
+    cityName = city.name;
+  } else {
+    cityName = 'Unknown City'; // Fallback
+  }
+  
+  // Handle city description
+  if (typeof translatedContent?.description === 'string') {
+    cityDescription = translatedContent.description;
+  } else if (typeof city.description === 'object' && city.description.en) {
+    cityDescription = city.description.en;
+  } else if (typeof city.description === 'string') {
+    cityDescription = city.description;
+  } else {
+    cityDescription = ''; // Fallback
+  }
+  
+  const cityHighlights = Array.isArray(translatedContent?.highlights) 
+    ? translatedContent.highlights 
+    : city.highlights;
 
   const breadcrumbs = generateBreadcrumbs(city);
   const metadata = generateCityMetadata(city);
@@ -194,12 +236,26 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
       </Head>
 
       <div className="bg-gray-50 min-h-screen">
+        {/* Debug component - only shows in development */}
+        <DebugContent 
+          data={{
+            locale,
+            cityName,
+            cityDescription,
+            translatedContent: translatedContent ? {
+              name: translatedContent.name,
+              description: translatedContent.description,
+              hasTranslation: true
+            } : { hasTranslation: false }
+          }}
+          title="Translation Debug"
+        />
         {/* Hero Section */}
         <section className="relative h-96 lg:h-[500px] overflow-hidden">
           <div className="absolute inset-0">
             <Image
               src={getCityImageForSection(city, 'hero')}
-              alt={`${city.name.en}, Thailand`}
+              alt={`${cityName}, Thailand`}
               fill
               className="object-cover"
               priority
@@ -219,12 +275,12 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                   </span>
                 </div>
                 <h1 className="text-4xl lg:text-6xl font-bold mb-4">
-                  {city.name.en}
+                  {cityName}
                 </h1>
                 <p className="text-xl lg:text-2xl text-gray-200 max-w-3xl">
                   {city.enhanced_description 
                     ? city.enhanced_description.substring(0, 200) + '...'
-                    : city.description.en}
+                    : cityDescription}
                 </p>
               </div>
             </div>
@@ -311,7 +367,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                       <div>
                         <h4 className="font-semibold text-gray-900 mb-2">Population</h4>
                         <p className="text-2xl font-bold text-thailand-blue">
-                          {city.population.toLocaleString()}
+                          {formatNumber(city.population)}
                         </p>
                       </div>
                       <div>
@@ -965,7 +1021,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                     </div>
                     <div className="flex justify-between">
                       <span className="text-gray-600">Population:</span>
-                      <span className="font-medium">{city.population.toLocaleString()}</span>
+                      <span className="font-medium">{formatNumber(city.population)}</span>
                     </div>
                     <div className="flex justify-between">
                       <span className="text-gray-600">Coordinates:</span>
@@ -1239,7 +1295,19 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = getCityStaticPaths();
+  const cities = getCityStaticPaths();
+  const locales = ['en', 'zh', 'de', 'fr', 'ru', 'ja', 'ko'];
+  
+  // Generate paths for all locales
+  const paths = [];
+  for (const city of cities) {
+    for (const locale of locales) {
+      paths.push({
+        params: { slug: city.params.slug },
+        locale: locale
+      });
+    }
+  }
   
   return {
     paths,

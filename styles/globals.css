@@ -107,7 +107,10 @@ button[class*="save"] {
 [class*="consent-text"],
 [class*="consent-description"],
 [class*="gdpr-text"],
-p {
+.ez__cmp-modal-content p,
+[class*="cmp-modal-content"] p,
+[class*="consent-container"] p,
+[class*="gdpr-content"] p {
   font-size: 13px !important;
   line-height: 1.4 !important;
   margin-bottom: 0.5rem !important;
@@ -120,7 +123,14 @@ p {
 [class*="consent-title"],
 [class*="consent-heading"],
 [class*="gdpr-title"],
-h1, h2, h3, h4 {
+.ez-modal h1, 
+.ez-modal h2, 
+.ez-modal h3, 
+.ez-modal h4,
+[class*="consent"] h1,
+[class*="consent"] h2,
+[class*="consent"] h3,
+[class*="consent"] h4 {
   font-size: 16px !important;
   margin-bottom: 0.75rem !important;
   font-weight: 600 !important;

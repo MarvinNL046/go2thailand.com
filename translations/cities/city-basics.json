@@ -1,0 +1,101 @@
+{
+  "bangkok": {
+    "name": {
+      "en": "Bangkok"
+    },
+    "description": {
+      "en": "Thailand's vibrant capital city where ancient temples meet modern skyscrapers",
+      "zh": "泰国充满活力的首都城市，古老的寺庙与现代摩天大楼交相辉映。",
+      "de": "Thailands pulsierende Hauptstadt, wo alte Tempel auf moderne Wolkenkratzer treffen.",
+      "fr": "La vibrante capitale de la Thaïlande où les temples anciens rencontrent les gratte-ciel modernes."
+    },
+    "highlights": {
+      "en": [
+        "Grand Palace and Wat Phra Kaew",
+        "Street food paradise",
+        "Floating markets"
+      ],
+      "zh": [
+        "大皇宫和玉佛寺",
+        "街头美食天堂",
+        "水上市场"
+      ],
+      "de": [
+        "Großer Palast und Wat Phra Kaew",
+        "Street Food Paradies",
+        "Schwimmende Märkte"
+      ],
+      "fr": [
+        "Grand Palais et Wat Phra Kaew",
+        "Paradis de la street food",
+        "Marchés flottants"
+      ]
+    }
+  },
+  "chiang-mai": {
+    "name": {
+      "en": "Chiang Mai"
+    },
+    "description": {
+      "en": "Northern Thailand's cultural heart surrounded by mountains and temples",
+      "zh": "泰国北部的文化中心，环绕在山脉和寺庙之间。",
+      "de": "Das kulturelle Herz Nordthailands, umgeben von Bergen und Tempeln.",
+      "fr": "Le cœur culturel du nord de la Thaïlande, entouré de montagnes et de temples."
+    },
+    "highlights": {
+      "en": [
+        "Over 300 Buddhist temples",
+        "Night markets and handicrafts",
+        "Elephant sanctuaries"
+      ],
+      "zh": [
+        "超过300座佛教寺庙",
+        "夜市和手工艺品",
+        "大象保护区"
+      ],
+      "de": [
+        "Über 300 buddhistische Tempel",
+        "Nachtmärkte und Handwerkskunst",
+        "Elefanten-Schutzgebiete"
+      ],
+      "fr": [
+        "Plus de 300 temples bouddhistes",
+        "Marchés de nuit et artisanat",
+        "Sanctuaires pour éléphants"
+      ]
+    }
+  },
+  "phuket": {
+    "name": {
+      "en": "Phuket"
+    },
+    "description": {
+      "en": "Thailand's largest island famous for stunning beaches and vibrant nightlife",
+      "zh": "泰国最大的岛屿，以迷人的海滩和热闹的夜生活而闻名。",
+      "de": "Thailands größte Insel, berühmt für atemberaubende Strände und lebhaftes Nachtleben.",
+      "fr": "La plus grande île de Thaïlande, célèbre pour ses plages magnifiques et sa vie nocturne animée."
+    },
+    "highlights": {
+      "en": [
+        "Beautiful beaches",
+        "Island hopping tours",
+        "Old Town architecture"
+      ],
+      "zh": [
+        "美丽的海滩",
+        "岛屿跳跃游览",
+        "老城区建筑"
+      ],
+      "de": [
+        "Schöne Strände",
+        "Inselhopping-Touren",
+        "Altstadtarchitektur"
+      ],
+      "fr": [
+        "Plages magnifiques",
+        "Excursions d'île en île",
+        "L'architecture de la vieille ville"
+      ]
+    }
+  }
+}
