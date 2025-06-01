@@ -1,6 +1,7 @@
 import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
+import Image from 'next/image';
 import { getAllCities } from '../../lib/cities';
 import EzoicAd from '../../components/EzoicAd';
 import { getTop10AdPlacements } from '../../lib/ads/ezoic-config';
@@ -159,10 +160,14 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
                 {featuredGuides.map((guide) => (
                   <Link key={guide.city.slug} href={`/city/${guide.city.slug}/top-10-attractions/`} className="group">
                     <div className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300 transform group-hover:scale-105 border border-gray-100">
-                      <div className="relative h-48 bg-gradient-to-br from-green-50 to-green-100">
-                        <div className="absolute inset-0 flex items-center justify-center">
-                          <div className="text-6xl opacity-20">🎯</div>
-                        </div>
+                      <div className="relative h-48">
+                        <Image
+                          src={guide.city.image}
+                          alt={`${guide.city.name.en} attractions`}
+                          layout="fill"
+                          objectFit="cover"
+                          className="brightness-90"
+                        />
                         <div className="absolute top-4 left-4">
                           <span className="bg-green-600 text-white px-3 py-1 rounded-full text-sm font-semibold">
                             {guide.city.region}

@@ -1,0 +1,304 @@
+{
+  "bangkok": {
+    "areas": [
+      {
+        "name": "Sukhumvit",
+        "best_for": ["business", "luxury", "nightlife", "expats"],
+        "description": "Bangkok's modern district with excellent BTS access, international dining, and vibrant nightlife",
+        "price_range": "mid-range/luxury",
+        "pros": ["Excellent public transport", "International restaurants", "Shopping malls", "Nightlife options"],
+        "cons": ["Heavy traffic", "Can be touristy", "Higher prices", "Far from historical sites"]
+      },
+      {
+        "name": "Riverside",
+        "best_for": ["luxury", "couples", "sightseeing"],
+        "description": "Historic area along the Chao Phraya River with luxury hotels and easy access to major temples",
+        "price_range": "luxury",
+        "pros": ["River views", "Close to attractions", "Luxury hotels", "Romantic atmosphere"],
+        "cons": ["Limited BTS/MRT access", "Expensive", "Need boat transport", "Less nightlife"]
+      },
+      {
+        "name": "Banglamphu/Khao San Road",
+        "best_for": ["backpackers", "budget travelers", "first-timers"],
+        "description": "Bangkok's backpacker hub with budget accommodation and proximity to major temples",
+        "price_range": "budget",
+        "pros": ["Budget-friendly", "Near Grand Palace", "Vibrant atmosphere", "Street food"],
+        "cons": ["Noisy", "Party atmosphere", "No BTS/MRT", "Can be seedy"]
+      },
+      {
+        "name": "Siam Square",
+        "best_for": ["shopping", "families", "central location"],
+        "description": "Central shopping district with major malls and excellent transport connections",
+        "price_range": "mid-range/luxury",
+        "pros": ["Central location", "Shopping paradise", "BTS interchange", "Entertainment options"],
+        "cons": ["Crowded", "Commercial feel", "Higher prices", "Heavy traffic"]
+      },
+      {
+        "name": "Chinatown",
+        "best_for": ["foodies", "culture seekers", "budget travelers"],
+        "description": "Historic Chinese quarter famous for street food and gold shops",
+        "price_range": "budget/mid-range",
+        "pros": ["Amazing street food", "Cultural experience", "MRT access", "Authentic atmosphere"],
+        "cons": ["Crowded", "Hot and busy", "Limited English", "Narrow streets"]
+      },
+      {
+        "name": "Silom/Sathorn",
+        "best_for": ["business", "nightlife", "LGBTQ+ travelers"],
+        "description": "Business district by day, entertainment hub by night with diverse dining and nightlife",
+        "price_range": "mid-range/luxury",
+        "pros": ["BTS and MRT access", "Business facilities", "Nightlife variety", "Lumpini Park nearby"],
+        "cons": ["Dead after office hours", "Limited weekend atmosphere", "Can be sleazy", "Traffic jams"]
+      }
+    ],
+    "booking_tips": [
+      "Book early for November to February peak season",
+      "Choose BTS/MRT accessible areas to avoid traffic",
+      "Consider river hotels for a unique experience",
+      "Check for pool and breakfast inclusion"
+    ],
+    "peak_season": "November to February"
+  },
+  "chiang-mai": {
+    "areas": [
+      {
+        "name": "Old City",
+        "best_for": ["culture seekers", "families", "first-timers"],
+        "description": "Historic walled city with numerous temples, traditional architecture, and walking distance to attractions",
+        "price_range": "budget/mid-range",
+        "pros": ["Walking distance to temples", "Authentic atmosphere", "Sunday Walking Street", "Quiet evenings"],
+        "cons": ["Limited nightlife", "Can be touristy", "Hot during day", "Fewer modern amenities"]
+      },
+      {
+        "name": "Nimmanhemin",
+        "best_for": ["digital nomads", "young travelers", "foodies"],
+        "description": "Trendy area with cafes, co-working spaces, boutique shops, and modern restaurants",
+        "price_range": "mid-range",
+        "pros": ["Hip cafes and restaurants", "Co-working spaces", "Modern amenities", "University area vibe"],
+        "cons": ["Far from Old City", "More expensive", "Less traditional", "Traffic during rush hours"]
+      },
+      {
+        "name": "Night Bazaar",
+        "best_for": ["shoppers", "nightlife", "convenient location"],
+        "description": "Commercial area with easy access to markets, restaurants, and entertainment",
+        "price_range": "mid-range",
+        "pros": ["Central location", "Shopping nearby", "Restaurant variety", "Tour pickups"],
+        "cons": ["Touristy", "Noisy", "Less authentic", "Higher prices"]
+      },
+      {
+        "name": "Riverside",
+        "best_for": ["luxury", "couples", "relaxation"],
+        "description": "Peaceful area along the Ping River with boutique resorts and natural settings",
+        "price_range": "mid-range/luxury",
+        "pros": ["Peaceful atmosphere", "River views", "Boutique hotels", "Natural surroundings"],
+        "cons": ["Need transport", "Limited dining options", "Far from center", "Mosquitoes"]
+      }
+    ],
+    "booking_tips": [
+      "Book early for Songkran (April) and Loy Krathong (November)",
+      "Consider location based on your interests - culture vs nightlife",
+      "Many hotels offer free bicycles",
+      "Check for mosquito nets if staying riverside"
+    ],
+    "peak_season": "November to February"
+  },
+  "phuket": {
+    "areas": [
+      {
+        "name": "Patong",
+        "best_for": ["nightlife", "beach activities", "first-timers"],
+        "description": "Phuket's most developed beach with extensive nightlife, shopping, and tourist facilities",
+        "price_range": "all ranges",
+        "pros": ["Vibrant nightlife", "Many restaurants", "Shopping options", "Water sports"],
+        "cons": ["Very touristy", "Crowded beach", "Expensive", "Seedy nightlife areas"]
+      },
+      {
+        "name": "Kata/Karon",
+        "best_for": ["families", "couples", "beach lovers"],
+        "description": "More relaxed beaches south of Patong with family-friendly atmosphere",
+        "price_range": "mid-range",
+        "pros": ["Beautiful beaches", "Family-friendly", "Good restaurants", "Less hectic than Patong"],
+        "cons": ["Limited nightlife", "Spread out area", "Need transport", "Can be crowded in high season"]
+      },
+      {
+        "name": "Old Town",
+        "best_for": ["culture seekers", "foodies", "photographers"],
+        "description": "Historic center with Sino-Portuguese architecture, local markets, and authentic restaurants",
+        "price_range": "budget/mid-range",
+        "pros": ["Cultural experience", "Authentic food", "Instagram-worthy", "Local atmosphere"],
+        "cons": ["No beach", "Limited nightlife", "Need transport to beaches", "Hot during day"]
+      }
+    ],
+    "booking_tips": [
+      "Book 2-3 months ahead for December-January",
+      "Consider location based on beach vs culture preferences",
+      "Check for shuttle services to beaches",
+      "Avoid Patong if seeking quiet relaxation"
+    ],
+    "peak_season": "November to April"
+  },
+  "pattaya": {
+    "areas": [
+      {
+        "name": "Beach Road",
+        "best_for": ["beach access", "nightlife", "convenience"],
+        "description": "Main beachfront area with easy access to beach activities and entertainment",
+        "price_range": "all ranges",
+        "pros": ["Beach access", "Central location", "Many restaurants", "Entertainment nearby"],
+        "cons": ["Noisy", "Crowded", "Seedy reputation", "Beach quality varies"]
+      },
+      {
+        "name": "Central Pattaya",
+        "best_for": ["shopping", "dining", "central location"],
+        "description": "City center with shopping malls, restaurants, and good transport links",
+        "price_range": "mid-range",
+        "pros": ["Shopping malls", "Restaurant variety", "Central location", "Good value"],
+        "cons": ["No direct beach access", "Traffic", "Less scenic", "Urban environment"]
+      }
+    ],
+    "booking_tips": [
+      "Book early for Chinese New Year period",
+      "Consider Jomtien for quieter beach experience",
+      "Check reviews carefully due to varying standards",
+      "Many hotels cater to specific nationalities"
+    ],
+    "peak_season": "November to February"
+  },
+  "krabi": {
+    "areas": [
+      {
+        "name": "Ao Nang",
+        "best_for": ["beach lovers", "island hopping", "families"],
+        "description": "Main tourist beach with easy access to islands and tourist facilities",
+        "price_range": "mid-range",
+        "pros": ["Beach access", "Island tours", "Restaurant variety", "Tourist facilities"],
+        "cons": ["Touristy", "Crowded beach", "Higher prices", "Less authentic"]
+      },
+      {
+        "name": "Krabi Town",
+        "best_for": ["budget travelers", "authentic experience", "transit"],
+        "description": "Provincial capital with local markets, authentic restaurants, and budget accommodation",
+        "price_range": "budget",
+        "pros": ["Authentic atmosphere", "Budget-friendly", "Local markets", "Transport hub"],
+        "cons": ["No beach", "Limited tourist facilities", "Need transport", "Less English spoken"]
+      }
+    ],
+    "booking_tips": [
+      "Book early for December-January peak season",
+      "Consider Railay Beach for unique experience (boat access only)",
+      "Many hotels offer island tour packages",
+      "Check for tsunami evacuation routes"
+    ],
+    "peak_season": "November to April"
+  },
+  "ayutthaya": {
+    "areas": [
+      {
+        "name": "City Center",
+        "best_for": ["sightseeing", "history buffs", "convenience"],
+        "description": "Central area near historical park with easy access to temples and ruins",
+        "price_range": "budget/mid-range",
+        "pros": ["Walking distance to sites", "Local restaurants", "Bike rental nearby", "Authentic atmosphere"],
+        "cons": ["Basic facilities", "Limited nightlife", "Hot during day", "Mosquitoes"]
+      }
+    ],
+    "booking_tips": [
+      "Book guesthouses near the historical park",
+      "Many hotels offer bicycle rentals",
+      "Consider staying overnight to avoid day-trip crowds",
+      "Air conditioning essential due to heat"
+    ],
+    "peak_season": "November to February"
+  },
+  "sukhothai": {
+    "areas": [
+      {
+        "name": "New Sukhothai",
+        "best_for": ["budget travelers", "local experience"],
+        "description": "Modern town with local markets and budget accommodation",
+        "price_range": "budget",
+        "pros": ["Budget-friendly", "Local atmosphere", "Good restaurants", "Transport links"],
+        "cons": ["12km from historical park", "Basic facilities", "Limited tourist services", "Need transport to park"]
+      },
+      {
+        "name": "Near Historical Park",
+        "best_for": ["convenience", "history buffs"],
+        "description": "Area close to the historical park entrance with resort-style accommodation",
+        "price_range": "mid-range",
+        "pros": ["Close to ruins", "Bicycle access", "Peaceful setting", "Resort facilities"],
+        "cons": ["Limited dining options", "More expensive", "Isolated location", "Need transport for town"]
+      }
+    ],
+    "booking_tips": [
+      "Choose location based on budget and convenience needs",
+      "Book resorts near park for easy sunrise visits",
+      "Many hotels offer bicycle rentals",
+      "Consider package deals including park entry"
+    ],
+    "peak_season": "November to February"
+  },
+  "chiang-rai": {
+    "areas": [
+      {
+        "name": "City Center",
+        "best_for": ["convenience", "first-timers", "budget travelers"],
+        "description": "Downtown area with night bazaar, restaurants, and tour operators",
+        "price_range": "budget/mid-range",
+        "pros": ["Central location", "Walking distance to night bazaar", "Restaurant variety", "Tour pickups"],
+        "cons": ["Urban environment", "Limited charm", "Traffic noise", "Basic hotels"]
+      },
+      {
+        "name": "Riverside",
+        "best_for": ["relaxation", "nature lovers"],
+        "description": "Peaceful area along the Kok River with boutique resorts",
+        "price_range": "mid-range",
+        "pros": ["River views", "Peaceful atmosphere", "Nature setting", "Boutique properties"],
+        "cons": ["Need transport", "Limited dining", "Mosquitoes", "Far from attractions"]
+      }
+    ],
+    "booking_tips": [
+      "Book early for Chinese New Year when Chinese tourists arrive",
+      "Consider location based on self-drive vs tour plans",
+      "Many hotels offer temple tour packages",
+      "December-January can be cold, check for heating"
+    ],
+    "peak_season": "November to February"
+  },
+  "hat-yai": {
+    "areas": [
+      {
+        "name": "City Center",
+        "best_for": ["business", "shopping", "transit"],
+        "description": "Commercial center with shopping, dining, and business hotels",
+        "price_range": "budget/mid-range",
+        "pros": ["Shopping nearby", "Restaurant variety", "Transport links", "Modern amenities"],
+        "cons": ["No tourist attractions", "Traffic", "Limited English", "Business hotel atmosphere"]
+      }
+    ],
+    "booking_tips": [
+      "Popular with Malaysian and Singaporean tourists",
+      "Book early for weekends and Malaysian holidays",
+      "Many hotels cater to Muslim travelers",
+      "Consider as base for exploring deep south"
+    ],
+    "peak_season": "December to February"
+  },
+  "surat-thani": {
+    "areas": [
+      {
+        "name": "City Center",
+        "best_for": ["transit", "budget travelers"],
+        "description": "Provincial capital mainly used as transit point to islands",
+        "price_range": "budget",
+        "pros": ["Budget accommodation", "Transport hub", "Local atmosphere", "24-hour facilities"],
+        "cons": ["No attractions", "Basic facilities", "Transit town feel", "Limited English"]
+      }
+    ],
+    "booking_tips": [
+      "Most travelers only stay for ferry connections",
+      "Book near bus/train station for early departures",
+      "Check ferry schedules before booking",
+      "Consider going directly to islands instead"
+    ],
+    "peak_season": "December to March"
+  }
+}

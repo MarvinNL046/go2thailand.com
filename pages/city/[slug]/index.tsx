@@ -7,6 +7,7 @@ import Breadcrumbs from '../../../components/Breadcrumbs';
 import CityCard from '../../../components/CityCard';
 import EzoicAd from '../../../components/EzoicAd';
 import Sidebar from '../../../components/Sidebar';
+import TripcomWidget from '../../../components/TripcomWidget';
 import { AD_PLACEMENTS } from '../../../lib/ads/ezoic-config';
 import { useEffect, useState } from 'react';
 
@@ -976,47 +977,40 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                 </div>
 
                 {/* Trip.com Search Widget */}
-                <div className="card mb-8">
-                  <h3 className="text-xl font-bold text-gray-900 mb-4">🔍 Search Hotels & Flights</h3>
-                  
-                  {/* Trip.com Widget */}
-                  <div className="mb-4">
-                    <div id="trip-com-widget" className="min-h-[200px]" />
-                  </div>
-                  
-                  {/* Quick Links */}
-                  <div className="border-t pt-4">
-                    <p className="text-xs text-gray-600 mb-3">Or search directly:</p>
-                    <a 
-                      href="https://trip.tp.st/yeelXIdE"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="block w-full bg-blue-600 text-white text-center py-2 rounded font-medium hover:bg-blue-700 transition-colors mb-2"
-                    >
-                      🏨 Browse All Hotels
-                    </a>
-                  </div>
+                <div className="mb-8">
+                  <TripcomWidget 
+                    city={city.name.en} 
+                    type="searchbox" 
+                    className=""
+                  />
                   
                   {/* Trip.com Features */}
-                  <div className="border-t pt-4 mt-4">
-                    <div className="text-xs text-gray-600 space-y-1">
+                  <div className="card mt-4">
+                    <h4 className="text-sm font-semibold text-gray-900 mb-3">Why Book with Trip.com?</h4>
+                    <div className="text-xs text-gray-600 space-y-2">
                       <div className="flex items-center">
-                        <svg className="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                        <svg className="w-4 h-4 text-green-500 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                         </svg>
                         <span>24/7 Customer Service</span>
                       </div>
                       <div className="flex items-center">
-                        <svg className="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                        <svg className="w-4 h-4 text-green-500 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                         </svg>
                         <span>Best Price Guarantee</span>
                       </div>
                       <div className="flex items-center">
-                        <svg className="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                        <svg className="w-4 h-4 text-green-500 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                         </svg>
                         <span>1.2M+ Hotels Worldwide</span>
+                      </div>
+                      <div className="flex items-center">
+                        <svg className="w-4 h-4 text-green-500 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                          <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                        </svg>
+                        <span>Secure Booking Process</span>
                       </div>
                     </div>
                   </div>

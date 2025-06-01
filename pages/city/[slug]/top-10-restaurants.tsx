@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import EzoicAd from '../../../components/EzoicAd';
+import TripcomWidget from '../../../components/TripcomWidget';
 import { getTop10AdPlacements } from '../../../lib/ads/ezoic-config';
 import fs from 'fs';
 import path from 'path';
@@ -302,6 +303,16 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
                   {/* Bottom Banner Ad */}
                   <div className="mt-12">
                     <EzoicAd {...adPlacements.bottom} showInDev={true} />
+                  </div>
+
+                  {/* Trip.com Bundle Widget */}
+                  <div className="mt-12">
+                    <TripcomWidget 
+                      city={city.name.en}
+                      type="bundle"
+                      customTitle="Stay Near These Top Restaurants"
+                      className="max-w-3xl mx-auto"
+                    />
                   </div>
 
                   {/* Call to Action */}

@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getCityImageForSection, getEnhancedAttractionsByCity } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import EzoicAd from '../../../components/EzoicAd';
+import TripcomWidget from '../../../components/TripcomWidget';
 import { AD_PLACEMENTS } from '../../../lib/ads/ezoic-config';
 
 interface Attraction {
@@ -160,6 +161,19 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                         : `Explore the top attractions in ${city.name.en}, from ancient temples to modern landmarks. Each destination offers unique insights into Thai culture and history.`
                       }
                     </p>
+                  </div>
+
+                  {/* Trip.com Hotels Widget */}
+                  <div className="mb-12">
+                    <div className="bg-white rounded-xl shadow-lg p-8">
+                      <h3 className="text-2xl font-bold text-thailand-blue-900 mb-4 text-center">
+                        📍 Book Your Stay Near These Attractions
+                      </h3>
+                      <p className="text-gray-600 text-center mb-6">
+                        Find the perfect hotel close to {city.name.en}'s top attractions
+                      </p>
+                      <TripcomWidget city={city.name.en} type="hotels" />
+                    </div>
                   </div>
 
                   {/* Attractions Grid */}

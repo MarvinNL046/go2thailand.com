@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { getCityBySlug, getAttractionBySlug, generateAttractionMetadata, generateAttractionBreadcrumbs, getAllAttractionStaticPaths } from '../../../../lib/cities';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import EzoicAd from '../../../../components/EzoicAd';
+import TripcomWidget from '../../../../components/TripcomWidget';
 import { AD_PLACEMENTS } from '../../../../lib/ads/ezoic-config';
 
 interface Attraction {
@@ -332,6 +333,17 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                   </div>
                 )}
 
+                {/* Trip.com Bundle Widget */}
+                <div className="bg-gradient-to-r from-thailand-blue-50 to-thailand-red-50 rounded-xl p-8">
+                  <h3 className="text-2xl font-bold text-thailand-blue-900 mb-4 text-center">
+                    ✈️ Save on Hotels & Flights
+                  </h3>
+                  <p className="text-gray-700 text-center mb-6">
+                    Bundle your {city.name.en} hotel and flight for the best deals
+                  </p>
+                  <TripcomWidget city={city.name.en} type="bundle" />
+                </div>
+
                 {/* Navigation */}
                 <div className="bg-white rounded-xl shadow-lg p-8">
                   <div className="flex flex-col sm:flex-row gap-4">
@@ -427,6 +439,20 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       <p className="text-sm text-gray-600">Interactive map coming soon</p>
                     </div>
                   </div>
+                </div>
+
+                {/* Trip.com Search Widget */}
+                <div className="bg-white rounded-xl shadow-lg p-6 mb-8">
+                  <h3 className="text-lg font-bold text-thailand-blue-900 mb-4 flex items-center">
+                    <svg className="w-5 h-5 mr-2 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clipRule="evenodd" />
+                    </svg>
+                    Plan Your Visit
+                  </h3>
+                  <p className="text-sm text-gray-600 mb-4">
+                    Search for hotels, flights, and activities in {city.name.en}
+                  </p>
+                  <TripcomWidget city={city.name.en} type="searchbox" />
                 </div>
 
                 {/* Sidebar Ad */}

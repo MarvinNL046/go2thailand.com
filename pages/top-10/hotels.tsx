@@ -1,8 +1,10 @@
 import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
+import Image from 'next/image';
 import { getAllCities } from '../../lib/cities';
 import EzoicAd from '../../components/EzoicAd';
+import TripcomWidget from '../../components/TripcomWidget';
 import { getTop10AdPlacements } from '../../lib/ads/ezoic-config';
 import fs from 'fs';
 import path from 'path';
@@ -142,6 +144,18 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
           </div>
         </section>
 
+        {/* Trip.com Search Widget */}
+        <section className="py-8 bg-gray-50">
+          <div className="container-custom">
+            <TripcomWidget 
+              city="Thailand"
+              type="searchbox"
+              customTitle="Search Hotels Across Thailand"
+              className="max-w-4xl mx-auto"
+            />
+          </div>
+        </section>
+
         {/* Featured Guides */}
         {featuredGuides.length > 0 && (
           <section className="section-padding bg-white">
@@ -159,10 +173,14 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
                 {featuredGuides.map((guide) => (
                   <Link key={guide.city.slug} href={`/city/${guide.city.slug}/top-10-hotels/`} className="group">
                     <div className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300 transform group-hover:scale-105 border border-gray-100">
-                      <div className="relative h-48 bg-gradient-to-br from-thailand-blue-50 to-thailand-blue-100">
-                        <div className="absolute inset-0 flex items-center justify-center">
-                          <div className="text-6xl opacity-20">🏨</div>
-                        </div>
+                      <div className="relative h-48">
+                        <Image
+                          src={guide.city.image}
+                          alt={`${guide.city.name.en} hotels`}
+                          layout="fill"
+                          objectFit="cover"
+                          className="brightness-90"
+                        />
                         <div className="absolute top-4 left-4">
                           <span className="bg-thailand-blue text-white px-3 py-1 rounded-full text-sm font-semibold">
                             {guide.city.region}

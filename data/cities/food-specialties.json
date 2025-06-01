@@ -1,0 +1,329 @@
+{
+  "bangkok": {
+    "specialties": [
+      "Pad Thai",
+      "Tom Yum Goong",
+      "Boat Noodles",
+      "Mango Sticky Rice",
+      "Pad Krapow",
+      "Som Tam",
+      "Khao Mun Gai",
+      "Pad See Ew"
+    ],
+    "markets": [
+      {
+        "name": "Jodd Fairs",
+        "location": "Rama 9",
+        "hours": "4:00 PM - 12:00 AM",
+        "specialty": "Trendy street food and seafood"
+      },
+      {
+        "name": "Wang Lang Market",
+        "location": "Near Siriraj Hospital",
+        "hours": "8:00 AM - 6:00 PM",
+        "specialty": "Traditional Thai snacks and student food"
+      },
+      {
+        "name": "Khlong Toei Fresh Market",
+        "location": "Khlong Toei District",
+        "hours": "24 hours",
+        "specialty": "Fresh seafood and local ingredients"
+      },
+      {
+        "name": "Chinatown (Yaowarat)",
+        "location": "Yaowarat Road",
+        "hours": "11:00 AM - 2:00 AM",
+        "specialty": "Chinese-Thai fusion, seafood, bird's nest soup"
+      },
+      {
+        "name": "Chatuchak Weekend Market",
+        "location": "Chatuchak District",
+        "hours": "Saturday-Sunday 9:00 AM - 6:00 PM",
+        "specialty": "Coconut ice cream, grilled seafood"
+      }
+    ],
+    "street_food_areas": [
+      {
+        "name": "Yaowarat (Chinatown)",
+        "description": "Famous for seafood, dim sum, and Chinese-Thai delicacies"
+      },
+      {
+        "name": "Sukhumvit Soi 38",
+        "description": "Popular late-night street food hub"
+      },
+      {
+        "name": "Victory Monument",
+        "description": "Boat noodles and local favorites"
+      }
+    ],
+    "vegetarian_friendly": true
+  },
+  "chiang-mai": {
+    "specialties": [
+      "Khao Soi",
+      "Sai Ua (Northern Thai Sausage)",
+      "Nam Prik Ong",
+      "Kanom Jeen Nam Ngiao",
+      "Larb Kua",
+      "Gaeng Hang Lay",
+      "Nam Prik Num",
+      "Khanom Krok"
+    ],
+    "markets": [
+      {
+        "name": "Sunday Walking Street",
+        "location": "Ratchadamnoen Road",
+        "hours": "Sunday 4:00 PM - 10:00 PM",
+        "specialty": "Northern Thai dishes, Khao Soi, local snacks"
+      },
+      {
+        "name": "Saturday Walking Street",
+        "location": "Wua Lai Road",
+        "hours": "Saturday 4:00 PM - 10:00 PM",
+        "specialty": "Traditional Lanna food, grilled meats"
+      },
+      {
+        "name": "Chiang Mai Night Bazaar",
+        "location": "Chang Khlan Road",
+        "hours": "Daily 6:00 PM - 11:00 PM",
+        "specialty": "Tourist-friendly Thai dishes"
+      },
+      {
+        "name": "Warorot Market",
+        "location": "Near Ping River",
+        "hours": "Daily 4:00 AM - 6:00 PM",
+        "specialty": "Local ingredients, northern Thai snacks"
+      },
+      {
+        "name": "Talat Pratu Chiang Mai",
+        "location": "North of Old City",
+        "hours": "Daily 5:00 PM - 11:00 PM",
+        "specialty": "Local street food favorites"
+      }
+    ],
+    "street_food_areas": [
+      {
+        "name": "Nimman Area",
+        "description": "Modern street food and trendy cafes"
+      },
+      {
+        "name": "Chang Phueak Gate",
+        "description": "Famous for Khao Kha Moo (pork leg rice)"
+      },
+      {
+        "name": "Santitham Area",
+        "description": "Authentic local food for students"
+      }
+    ],
+    "vegetarian_friendly": true
+  },
+  "phuket": {
+    "specialties": [
+      "Mee Hokkien",
+      "Oh Aew (Phuket Ice Dessert)",
+      "Moo Hong",
+      "Kanom Jeen",
+      "Fresh Seafood",
+      "Dim Sum",
+      "Roti",
+      "Satay"
+    ],
+    "markets": [
+      {
+        "name": "Phuket Weekend Market (Naka Market)",
+        "location": "Near Phuket Town",
+        "hours": "Saturday-Sunday 4:00 PM - 10:00 PM",
+        "specialty": "Local Phuket dishes and seafood"
+      },
+      {
+        "name": "Chillva Market",
+        "location": "Near Phuket Town",
+        "hours": "Daily 5:00 PM - 11:00 PM",
+        "specialty": "Trendy food stalls and live music"
+      },
+      {
+        "name": "Malin Plaza Patong",
+        "location": "Patong Beach",
+        "hours": "Daily 4:00 PM - 11:00 PM",
+        "specialty": "Tourist-friendly seafood and Thai dishes"
+      },
+      {
+        "name": "Phuket Walking Street (Lard Yai)",
+        "location": "Thalang Road, Old Town",
+        "hours": "Sunday 4:00 PM - 10:00 PM",
+        "specialty": "Traditional Phuket cuisine"
+      }
+    ],
+    "street_food_areas": [
+      {
+        "name": "Phuket Old Town",
+        "description": "Traditional Hokkien-influenced dishes"
+      },
+      {
+        "name": "Rawai Seafood Market",
+        "description": "Fresh seafood you can have cooked on-site"
+      },
+      {
+        "name": "Patong Beach Road",
+        "description": "Beachside seafood and international options"
+      }
+    ],
+    "vegetarian_friendly": false
+  },
+  "pattaya": {
+    "specialties": [
+      "Fresh Seafood",
+      "Som Tam",
+      "Grilled Fish",
+      "Seafood BBQ"
+    ],
+    "markets": [
+      {
+        "name": "Thepprasit Night Market",
+        "location": "Thepprasit Road",
+        "hours": "Friday-Sunday 5:00 PM - 11:00 PM",
+        "specialty": "Local street food and seafood"
+      }
+    ],
+    "street_food_areas": [
+      {
+        "name": "Walking Street",
+        "description": "Seafood restaurants and street vendors"
+      }
+    ],
+    "vegetarian_friendly": false
+  },
+  "krabi": {
+    "specialties": [
+      "Fresh Seafood",
+      "Southern Thai Curry",
+      "Roti",
+      "Tom Yum"
+    ],
+    "markets": [
+      {
+        "name": "Krabi Night Walking Street",
+        "location": "Krabi Town",
+        "hours": "Friday-Sunday 5:00 PM - 10:00 PM",
+        "specialty": "Local southern Thai dishes"
+      }
+    ],
+    "street_food_areas": [
+      {
+        "name": "Ao Nang Beach Road",
+        "description": "Beachside seafood stalls"
+      }
+    ],
+    "vegetarian_friendly": false
+  },
+  "ayutthaya": {
+    "specialties": [
+      "Boat Noodles",
+      "Roti Sai Mai",
+      "Grilled River Prawns"
+    ],
+    "markets": [
+      {
+        "name": "Ayutthaya Night Market",
+        "location": "Near Ayutthaya Historical Park",
+        "hours": "Daily 5:00 PM - 10:00 PM",
+        "specialty": "Traditional Thai sweets and boat noodles"
+      }
+    ],
+    "street_food_areas": [
+      {
+        "name": "Bang Ian Night Market",
+        "description": "Local favorites and river seafood"
+      }
+    ],
+    "vegetarian_friendly": false
+  },
+  "sukhothai": {
+    "specialties": [
+      "Sukhothai Noodles",
+      "Kanom Pang"
+    ],
+    "markets": [
+      {
+        "name": "Sukhothai Night Market",
+        "location": "Near Historical Park",
+        "hours": "Daily 5:00 PM - 10:00 PM",
+        "specialty": "Local noodle dishes"
+      }
+    ],
+    "street_food_areas": [
+      {
+        "name": "Old City Area",
+        "description": "Traditional Sukhothai cuisine"
+      }
+    ],
+    "vegetarian_friendly": false
+  },
+  "chiang-rai": {
+    "specialties": [
+      "Khao Soi",
+      "Sai Ua",
+      "Northern Thai dishes"
+    ],
+    "markets": [
+      {
+        "name": "Chiang Rai Night Bazaar",
+        "location": "City Center",
+        "hours": "Daily 6:00 PM - 11:00 PM",
+        "specialty": "Northern Thai specialties"
+      }
+    ],
+    "street_food_areas": [
+      {
+        "name": "Walking Street",
+        "description": "Local Lanna cuisine"
+      }
+    ],
+    "vegetarian_friendly": true
+  },
+  "hat-yai": {
+    "specialties": [
+      "Dim Sum",
+      "Fried Chicken",
+      "Roti",
+      "Thai-Muslim fusion dishes"
+    ],
+    "markets": [
+      {
+        "name": "Greenway Night Market",
+        "location": "Near Central Festival",
+        "hours": "Daily 5:00 PM - 11:00 PM",
+        "specialty": "Southern Thai and Malaysian influenced food"
+      }
+    ],
+    "street_food_areas": [
+      {
+        "name": "Kim Yong Market Area",
+        "description": "Local street food and dim sum"
+      }
+    ],
+    "vegetarian_friendly": false
+  },
+  "surat-thani": {
+    "specialties": [
+      "Fresh Oysters",
+      "Southern Thai Curry",
+      "Seafood"
+    ],
+    "markets": [
+      {
+        "name": "Surat Thani Night Market",
+        "location": "City Center",
+        "hours": "Daily 5:00 PM - 10:00 PM",
+        "specialty": "Local southern dishes"
+      }
+    ],
+    "street_food_areas": [
+      {
+        "name": "Ban Don Bay",
+        "description": "Famous for fresh oysters"
+      }
+    ],
+    "vegetarian_friendly": false
+  }
+}

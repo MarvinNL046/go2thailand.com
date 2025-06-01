@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import EzoicAd from '../../../components/EzoicAd';
+import TripcomWidget from '../../../components/TripcomWidget';
 import { getTop10AdPlacements } from '../../../lib/ads/ezoic-config';
 import fs from 'fs';
 import path from 'path';
@@ -172,6 +173,18 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
             <div className="mt-8">
               <EzoicAd {...adPlacements.header} showInDev={true} />
             </div>
+          </div>
+        </section>
+
+        {/* Trip.com Hotels Widget */}
+        <section className="py-8 bg-gray-50">
+          <div className="container-custom">
+            <TripcomWidget 
+              city={city.name.en}
+              type="hotels"
+              customTitle={`Book Your Hotel in ${city.name.en}`}
+              className="max-w-4xl mx-auto"
+            />
           </div>
         </section>
 

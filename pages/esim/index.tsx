@@ -399,6 +399,80 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
           </div>
         </section>
 
+        {/* Quick Comparison Table */}
+        <section className="bg-gray-100 section-padding">
+          <div className="container-custom">
+            <div className="max-w-5xl mx-auto">
+              <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+                Quick Comparison: Airalo vs Yesim
+              </h2>
+              <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div className="overflow-x-auto">
+                  <table className="w-full">
+                    <thead className="bg-thailand-blue text-white">
+                      <tr>
+                        <th className="px-6 py-4 text-left">Feature</th>
+                        <th className="px-6 py-4 text-center">Airalo</th>
+                        <th className="px-6 py-4 text-center">Yesim</th>
+                      </tr>
+                    </thead>
+                    <tbody className="divide-y divide-gray-200">
+                      <tr>
+                        <td className="px-6 py-4 font-medium">Best For</td>
+                        <td className="px-6 py-4 text-center">Short trips (1-2GB)</td>
+                        <td className="px-6 py-4 text-center">Heavy users (5GB+)</td>
+                      </tr>
+                      <tr className="bg-gray-50">
+                        <td className="px-6 py-4 font-medium">Starting Price</td>
+                        <td className="px-6 py-4 text-center">$5 for 1GB/7 days</td>
+                        <td className="px-6 py-4 text-center">$25 for Unlimited/7 days</td>
+                      </tr>
+                      <tr>
+                        <td className="px-6 py-4 font-medium">Networks</td>
+                        <td className="px-6 py-4 text-center">AIS, TrueMove, dtac</td>
+                        <td className="px-6 py-4 text-center">AIS, dtac</td>
+                      </tr>
+                      <tr className="bg-gray-50">
+                        <td className="px-6 py-4 font-medium">Unlimited Plans</td>
+                        <td className="px-6 py-4 text-center">❌ No</td>
+                        <td className="px-6 py-4 text-center">✅ Yes</td>
+                      </tr>
+                      <tr>
+                        <td className="px-6 py-4 font-medium">Free VPN</td>
+                        <td className="px-6 py-4 text-center">❌ No</td>
+                        <td className="px-6 py-4 text-center">✅ Yes (iOS)</td>
+                      </tr>
+                      <tr className="bg-gray-50">
+                        <td className="px-6 py-4 font-medium">Customer Rating</td>
+                        <td className="px-6 py-4 text-center">4.5/5 ⭐</td>
+                        <td className="px-6 py-4 text-center">4.3/5 ⭐</td>
+                      </tr>
+                      <tr>
+                        <td className="px-6 py-4 font-medium">Support Speed</td>
+                        <td className="px-6 py-4 text-center">~22 minutes</td>
+                        <td className="px-6 py-4 text-center">~2 minutes</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <div className="p-6 bg-thailand-blue-50">
+                  <h3 className="font-semibold text-thailand-blue-900 mb-3">🎯 Our Recommendation:</h3>
+                  <div className="space-y-2 text-sm">
+                    <p className="flex items-start">
+                      <span className="text-green-600 mr-2">✓</span>
+                      <span><strong>Choose Airalo</strong> if you need just 1-2GB for a short trip or want the most network options.</span>
+                    </p>
+                    <p className="flex items-start">
+                      <span className="text-green-600 mr-2">✓</span>
+                      <span><strong>Choose Yesim</strong> if you want unlimited data, need 5GB+, or value the free VPN for security.</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* How to Install Guide */}
         <section className="bg-white section-padding">
           <div className="container-custom">
@@ -545,6 +619,40 @@ export const getStaticProps: GetStaticProps = async () => {
       qrCodeImage: "/affiliate-qrcodes/airalo/tp-airalo-qr-code.jpeg",
       rating: 4.5,
       dealText: "Get $3 off with code THAILAND"
+    },
+    {
+      id: 2,
+      name: "Yesim",
+      slug: "yesim",
+      logo: "/images/esim/yesim-logo.png",
+      description: "Leading eSIM provider with 200+ destinations, offering flexible data plans and unlimited options for Thailand. Includes free VPN for iOS users.",
+      features: [
+        "Free VPN included",
+        "Unlimited data plans",
+        "5G/4G coverage",
+        "Pay As You Go option"
+      ],
+      plans: [
+        { duration: "7 days", data: "Unlimited", price: "$25", priceUSD: 25 },
+        { duration: "15 days", data: "Unlimited", price: "$44", priceUSD: 44 },
+        { duration: "30 days", data: "20GB", price: "$34", priceUSD: 34 }
+      ],
+      coverage: ["AIS", "dtac"],
+      pros: [
+        "Free VPN for security",
+        "Unlimited data options",
+        "Better value for 5GB+",
+        "Fast customer support"
+      ],
+      cons: [
+        "No small data plans",
+        "Minimum 5GB packages"
+      ],
+      affiliateLink: "https://yesim.tp.st/i9QU4Xm6",
+      mobileAppLink: "https://yesim.tp.st/YXSla7MO",
+      qrCodeImage: "/affiliate-qrcodes/airalo/tp-yesim-qr-code.jpeg",
+      rating: 4.3,
+      dealText: "Best for unlimited data"
     },
     /* Temporarily disabled - waiting for affiliate approval
     {

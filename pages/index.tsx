@@ -7,6 +7,7 @@ import { getAllCities } from '../lib/cities';
 import { getPopularDishes } from '../lib/food';
 import CityCard from '../components/CityCard';
 import EzoicAd from '../components/EzoicAd';
+import TripcomWidget from '../components/TripcomWidget';
 import { AD_PLACEMENTS } from '../lib/ads/ezoic-config';
 
 interface City {
@@ -156,6 +157,27 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
               }`}
             />
           ))}
+        </div>
+      </section>
+
+      {/* Trip.com Search Widget - Strategic Placement After Hero */}
+      <section className="bg-gradient-to-b from-white to-gray-50 py-12">
+        <div className="container-custom">
+          <div className="text-center mb-8">
+            <h2 className="text-2xl lg:text-3xl font-bold text-gray-900 mb-3">
+              Find Your Perfect Stay in Thailand
+            </h2>
+            <p className="text-lg text-gray-600">
+              Search and compare the best hotel deals across Thailand
+            </p>
+          </div>
+          <div className="max-w-4xl mx-auto">
+            <TripcomWidget 
+              city="Thailand"
+              type="searchbox"
+              className="shadow-xl"
+            />
+          </div>
         </div>
       </section>
 
@@ -378,6 +400,43 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                 </div>
               </Link>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Trip.com Bundle Widget - Strategic Placement for High Conversion */}
+      <section className="bg-gradient-to-b from-white to-thailand-blue-50 py-16">
+        <div className="container-custom">
+          <div className="text-center mb-10">
+            <h2 className="text-2xl lg:text-3xl font-bold text-gray-900 mb-3">
+              💸 Save Big on Your Thailand Trip
+            </h2>
+            <p className="text-lg text-gray-600 mb-2">
+              Book flight + hotel together and save up to 40%
+            </p>
+            <div className="flex justify-center items-center gap-3 text-sm">
+              <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full font-medium">
+                ✈️ Exclusive Bundle Deals
+              </span>
+              <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full font-medium">
+                🏨 Trusted by Millions
+              </span>
+              <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full font-medium">
+                🛡️ Best Price Guarantee
+              </span>
+            </div>
+          </div>
+          <div className="max-w-5xl mx-auto">
+            <TripcomWidget 
+              city="Thailand"
+              type="bundle"
+              className="shadow-2xl"
+            />
+          </div>
+          <div className="mt-8 text-center">
+            <p className="text-sm text-gray-600 mb-3">
+              💡 <strong>Pro Tip:</strong> Bundle deals often include free cancellation and exclusive perks
+            </p>
           </div>
         </div>
       </section>
