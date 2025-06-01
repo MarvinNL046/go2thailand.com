@@ -61,82 +61,69 @@
     "dietary": [],
     "price_range": "budget"
   },
-  "enhanced_description": "Spicy meat salad with herbs lime juice and toasted rice powder",
+  "enhanced_description": "Larb is Laos and Northeastern Thailand's national dish - a meat salad that's actually more like deconstructed sausage. This zesty, herbaceous 'salad' combines toasted rice powder, fresh herbs, and lime juice with minced meat, creating an explosion of textures and flavors. It's eaten with sticky rice and raw vegetables, embodying the Isaan way of eating: communal, balanced, and boldly flavored.",
   "detailed_ingredients": [
     {
-      "name": "minced pork",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Toasted Rice Powder (Khao Khua)",
+      "purpose": "Adds nutty flavor and unique grainy texture - the signature element",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Toast your own rice",
+        "Crushed rice crackers",
+        "Quinoa flakes toasted"
       ]
     },
     {
-      "name": "mint",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Fresh Mint",
+      "purpose": "Provides cooling contrast to the meat and spice",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Thai basil",
+        "Cilantro",
+        "Shiso leaves"
       ]
     },
     {
-      "name": "cilantro",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Shallots",
+      "purpose": "Adds sharp, sweet crunch",
       "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "lime juice",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "fish sauce",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "chili",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "toasted rice",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
+        "Red onion",
+        "Spring onions",
+        "Leeks (finely sliced)"
       ]
     }
   ],
   "cooking_method": {
-    "technique": "Stir-frying",
-    "steps_overview": "Traditional Thai cooking method for Larb",
+    "technique": "Quick cooking and fresh mixing",
+    "steps_overview": "Meat is quickly cooked (or left raw for traditional versions), then immediately mixed with herbs and seasonings while warm. The residual heat slightly wilts the herbs, releasing their oils. Everything is tossed together just before serving.",
     "cooking_tips": [
-      "Use high heat for stir-frying",
-      "Balance sweet, sour, salty, and spicy flavors"
+      "Don't overcook the meat - it continues cooking when mixed",
+      "Toast rice until golden and fragrant",
+      "Add herbs at the last moment to preserve freshness",
+      "Taste and adjust - should be sour, spicy, and salty",
+      "Serve immediately - it doesn't keep well"
     ]
   },
   "cultural_significance": {
-    "origin_story": "Larb is a traditional Thai dish from the northeastern region",
-    "cultural_importance": "Popular dish in Thai cuisine",
+    "origin_story": "Ancient Lao dish that predates written history. Originally made with raw meat and blood, it was a ceremonial dish for special occasions. The word 'larb' means 'good fortune' in Lao.",
+    "cultural_importance": "Larb is served at every important Isaan ceremony - births, deaths, weddings, and New Year. It represents community and sharing, always eaten with sticky rice rolled into balls.",
     "traditional_occasions": [
-      "Daily meals",
-      "Family gatherings"
+      "Baci ceremonies",
+      "Temple festivals",
+      "New Year celebrations",
+      "Welcome parties for honored guests"
     ]
   },
   "variations": [
     {
-      "name": "Regional Larb",
-      "description": "Traditional northeastern style preparation"
+      "name": "Larb Dip",
+      "description": "Raw beef version with blood - traditional Isaan style"
     },
     {
-      "name": "Modern Larb",
-      "description": "Contemporary interpretation with modern techniques"
+      "name": "Larb Pla",
+      "description": "Fish version popular along the Mekong River"
+    },
+    {
+      "name": "Larb Moo",
+      "description": "Cooked pork version - most common and safest"
     }
   ],
   "serving_suggestions": {
@@ -159,19 +146,21 @@
   },
   "where_to_find": {
     "best_restaurants": [
-      "Local Thai restaurants",
-      "Traditional eateries"
+      "Som Tam Jay So (Bangkok) - Authentic Isaan flavors",
+      "Larb Loi (Bangkok) - Specialized larb restaurant",
+      "Any Isaan restaurant with mor lam music playing"
     ],
     "street_food_areas": [
-      "Thai street food markets",
-      "Food courts"
+      "Huai Khwang Night Market",
+      "JJ Green Night Market",
+      "Saphan Phut Night Market"
     ],
     "price_ranges": {
-      "street_food": "$2-5",
-      "restaurant": "$8-15",
-      "upscale": "$15-25"
+      "street_food": "40-70 THB ($1.20-$2.10)",
+      "restaurant": "80-150 THB ($2.40-$4.50)",
+      "upscale": "200-400 THB ($6-$12)"
     }
   },
   "enhanced_at": "2025-05-25T21:52:46.386Z",
-  "ai_generated": true
+  "ai_generated": false
 }

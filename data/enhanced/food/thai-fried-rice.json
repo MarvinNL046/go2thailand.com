@@ -65,82 +65,68 @@
     ],
     "price_range": "budget"
   },
-  "enhanced_description": "Fragrant fried rice with jasmine rice fish sauce and fresh vegetables",
+  "enhanced_description": "Khao Pad (Thai Fried Rice) is the ultimate Thai comfort food - yesterday's rice transformed into today's satisfaction. Unlike Chinese fried rice, the Thai version is lighter, more aromatic, and often served with fresh accompaniments. Every grain should be separate and lightly coated with sauce, achieving the perfect balance of wok hei and fresh flavors.",
   "detailed_ingredients": [
     {
-      "name": "jasmine rice",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Day-old Jasmine Rice",
+      "purpose": "Dried out rice fries better and doesn't clump",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Fresh rice spread and cooled",
+        "Any long-grain rice",
+        "Cauliflower rice for low-carb"
       ]
     },
     {
-      "name": "fish sauce",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Thai Thin Soy Sauce",
+      "purpose": "Lighter than Chinese soy sauce, adds salt without color",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Light soy sauce",
+        "Fish sauce diluted",
+        "Tamari for gluten-free"
       ]
     },
     {
-      "name": "garlic",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "White Pepper",
+      "purpose": "Distinctive Thai seasoning that adds heat without color",
       "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "onion",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "tomato",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "cucumber",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "lime",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
+        "Black pepper (changes appearance)",
+        "Ground Sichuan pepper"
       ]
     }
   ],
   "cooking_method": {
-    "technique": "Stir-frying",
-    "steps_overview": "Traditional Thai cooking method for Thai Fried Rice",
+    "technique": "High-heat wok frying with proper rice preparation",
+    "steps_overview": "Success depends on preparation - rice must be dry, wok must be hot, and ingredients ready. Everything happens fast, with rice added last and tossed constantly to prevent sticking while developing smoky flavor.",
     "cooking_tips": [
-      "Use high heat for stir-frying",
-      "Balance sweet, sour, salty, and spicy flavors"
+      "Break up rice clumps before cooking",
+      "Use the highest heat possible",
+      "Keep rice moving constantly",
+      "Add sauces around the wok edge, not directly on rice",
+      "Finish with fresh cucumber and lime"
     ]
   },
   "cultural_significance": {
-    "origin_story": "Thai Fried Rice is a traditional Thai dish from the central region",
-    "cultural_importance": "Popular dish in Thai cuisine",
+    "origin_story": "Evolved from Chinese immigrants' fried rice but adapted to Thai tastes with lighter seasonings and fresh accompaniments. Became popular as a way to use leftover rice in Thai households.",
+    "cultural_importance": "Khao Pad is Thailand's everyday hero - found everywhere from street carts to hotel breakfast buffets. It represents Thai practicality and the ability to make something delicious from simple ingredients.",
     "traditional_occasions": [
-      "Daily meals",
-      "Family gatherings"
+      "Quick breakfast",
+      "Late-night street food",
+      "Leftover transformation",
+      "Children's favorite meal"
     ]
   },
   "variations": [
     {
-      "name": "Regional Thai Fried Rice",
-      "description": "Traditional central style preparation"
+      "name": "Khao Pad Poo",
+      "description": "Crab fried rice - the luxury version"
     },
     {
-      "name": "Modern Thai Fried Rice",
-      "description": "Contemporary interpretation with modern techniques"
+      "name": "Khao Pad American",
+      "description": "With ketchup, hot dogs, and raisins - Thai interpretation of 'American' food"
+    },
+    {
+      "name": "Khao Pad Sapparot",
+      "description": "Served in a pineapple with cashews - tourist favorite"
     }
   ],
   "serving_suggestions": {
@@ -163,19 +149,21 @@
   },
   "where_to_find": {
     "best_restaurants": [
-      "Local Thai restaurants",
-      "Traditional eateries"
+      "Thip Samai (Bangkok) - Famous for pad thai but great fried rice",
+      "Raan Jay Fai (Bangkok) - Crab fried rice worth the wait",
+      "Any street vendor with a well-worn wok"
     ],
     "street_food_areas": [
-      "Thai street food markets",
-      "Food courts"
+      "Literally every street corner in Thailand",
+      "Night markets everywhere",
+      "24-hour spots near hospitals and universities"
     ],
     "price_ranges": {
-      "street_food": "$2-5",
-      "restaurant": "$8-15",
-      "upscale": "$15-25"
+      "street_food": "40-60 THB ($1.20-$1.80)",
+      "restaurant": "80-150 THB ($2.40-$4.50)",
+      "upscale": "200-500 THB ($6-$15) for crab version"
     }
   },
   "enhanced_at": "2025-05-25T21:53:24.213Z",
-  "ai_generated": true
+  "ai_generated": false
 }

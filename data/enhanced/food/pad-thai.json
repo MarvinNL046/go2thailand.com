@@ -69,82 +69,77 @@
     ],
     "price_range": "budget"
   },
-  "enhanced_description": "Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce",
+  "enhanced_description": "Pad Thai is Thailand's most iconic dish, a perfect harmony of sweet, sour, and salty flavors wrapped around silky rice noodles. Born from a 1930s nationalism campaign, this stir-fried noodle dish has become the global ambassador of Thai cuisine. The secret lies in the tamarind-based sauce and the wok hei (breath of the wok) that only comes from expert high-heat cooking.",
   "detailed_ingredients": [
     {
-      "name": "rice noodles",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Rice Noodles (Sen Lek)",
+      "purpose": "The foundation - flat rice noodles that soak up all the flavors",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Fresh rice noodles",
+        "Linguine (in emergencies)",
+        "Zucchini noodles for low-carb"
       ]
     },
     {
-      "name": "tofu",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Tamarind Paste",
+      "purpose": "Provides the signature tangy-sweet flavor that defines authentic Pad Thai",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Lime juice with brown sugar",
+        "Rice vinegar with date syrup"
       ]
     },
     {
-      "name": "bean sprouts",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Palm Sugar",
+      "purpose": "Adds caramel sweetness that balances the sour tamarind",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Brown sugar",
+        "Coconut sugar",
+        "White sugar with molasses"
       ]
     },
     {
-      "name": "tamarind",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Dried Shrimp",
+      "purpose": "Adds umami depth and authentic flavor",
       "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "fish sauce",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "peanuts",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "lime",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
+        "Fish sauce (increase amount)",
+        "Anchovy paste",
+        "Miso paste for vegetarian"
       ]
     }
   ],
   "cooking_method": {
-    "technique": "Stir-frying",
-    "steps_overview": "Traditional Thai cooking method for Pad Thai",
+    "technique": "Wok stir-frying with proper sequencing",
+    "steps_overview": "Pad Thai is all about timing and technique. Each ingredient enters the wok at precisely the right moment. The noodles must be soft but not mushy, the egg ribboned through, and everything tossed with enough force to combine but gentle enough not to break the noodles.",
     "cooking_tips": [
-      "Use high heat for stir-frying",
-      "Balance sweet, sour, salty, and spicy flavors"
+      "Soak noodles in room temperature water, not hot - prevents mushiness",
+      "Keep ingredients moving constantly in the wok",
+      "Push ingredients up the sides of the wok to create cooking zones",
+      "The sauce should caramelize slightly on the noodles",
+      "Add bean sprouts at the very end for crunch"
     ]
   },
   "cultural_significance": {
-    "origin_story": "Pad Thai is a traditional Thai dish from the central region",
-    "cultural_importance": "Popular dish in Thai cuisine",
+    "origin_story": "Created in the 1930s as part of Prime Minister Plaek Phibunsongkhram's nation-building campaign. He wanted a national dish that would unify Thailand and reduce rice consumption during World War II. The name literally means 'Thai-style stir-fry'.",
+    "cultural_importance": "Pad Thai represents Thai culinary diplomacy. It's often the first Thai dish foreigners try and has become synonymous with Thai cuisine globally. In Thailand, the quality of a cook is often judged by their Pad Thai.",
     "traditional_occasions": [
-      "Daily meals",
-      "Family gatherings"
+      "Street food staple",
+      "Late-night snack",
+      "Festival food",
+      "Tourist introduction to Thai cuisine"
     ]
   },
   "variations": [
     {
-      "name": "Regional Pad Thai",
-      "description": "Traditional central style preparation"
+      "name": "Pad Thai Goong Sod",
+      "description": "Fresh shrimp version - the most luxurious traditional variant"
     },
     {
-      "name": "Modern Pad Thai",
-      "description": "Contemporary interpretation with modern techniques"
+      "name": "Pad Thai Woonsen",
+      "description": "Made with glass noodles instead of rice noodles"
+    },
+    {
+      "name": "Pad Thai Ho Kai",
+      "description": "Wrapped in a thin egg omelet - restaurant style presentation"
     }
   ],
   "serving_suggestions": {
@@ -167,19 +162,21 @@
   },
   "where_to_find": {
     "best_restaurants": [
-      "Local Thai restaurants",
-      "Traditional eateries"
+      "Thip Samai (Bangkok) - The legendary 'Pad Thai King'",
+      "Pad Thai Fai Ta Lu (Bangkok) - Famous for wok hei",
+      "Baan Phadthai (Bangkok) - Upscale interpretations"
     ],
     "street_food_areas": [
-      "Thai street food markets",
-      "Food courts"
+      "Chinatown Bangkok - Try the vendors near Wat Traimit",
+      "Khao San Road - Tourist-friendly versions",
+      "Or Tor Kor Market - High-quality ingredients"
     ],
     "price_ranges": {
-      "street_food": "$2-5",
-      "restaurant": "$8-15",
-      "upscale": "$15-25"
+      "street_food": "40-60 THB ($1.20-$1.80)",
+      "restaurant": "100-200 THB ($3-$6)",
+      "upscale": "250-500 THB ($7.50-$15)"
     }
   },
   "enhanced_at": "2025-05-25T21:49:44.615Z",
-  "ai_generated": true
+  "ai_generated": false
 }

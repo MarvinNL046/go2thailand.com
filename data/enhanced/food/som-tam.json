@@ -68,75 +68,71 @@
     ],
     "price_range": "budget"
   },
-  "enhanced_description": "Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts",
+  "enhanced_description": "Som Tam (Green Papaya Salad) is Isaan's gift to the world - a explosive combination of flavors that attacks all your taste buds simultaneously. This pounded salad originated in Laos and northeastern Thailand, where the rhythmic 'pok pok' sound of the mortar and pestle is the soundtrack of every market. It's refreshing, spicy, funky, and addictive - the perfect balance of textures and tastes.",
   "detailed_ingredients": [
     {
-      "name": "green papaya",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Green Papaya",
+      "purpose": "Provides crisp texture and mild flavor that absorbs the dressing",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Green mango",
+        "Cucumber and carrot mix",
+        "Kohlrabi",
+        "Green apple for sweetness"
       ]
     },
     {
-      "name": "tomatoes",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Pla Ra (Fermented Fish)",
+      "purpose": "The funky, umami heart of Isaan-style som tam",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Fish sauce (milder flavor)",
+        "Shrimp paste",
+        "Anchovies",
+        "Soy sauce for vegetarian"
       ]
     },
     {
-      "name": "lime juice",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Thai Chilies",
+      "purpose": "Brings the heat that makes this salad legendary",
       "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "fish sauce",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "peanuts",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "chili",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
+        "Serrano peppers",
+        "Bird's eye chilies",
+        "Jalapeños (much milder)"
       ]
     }
   ],
   "cooking_method": {
-    "technique": "Stir-frying",
-    "steps_overview": "Traditional Thai cooking method for Som Tam",
+    "technique": "Pounding in a clay mortar (khrok)",
+    "steps_overview": "The magic happens in the mortar. Each ingredient is bruised, not crushed, releasing flavors while maintaining texture. The pounding order matters - garlic and chilies first, then seasonings, finally the papaya, all while tossing with a spoon.",
     "cooking_tips": [
-      "Use high heat for stir-frying",
-      "Balance sweet, sour, salty, and spicy flavors"
+      "Use a clay mortar, not wood - it grips ingredients better",
+      "Pound and fold, don't mash - preserve the texture",
+      "Taste constantly and adjust - every batch is unique",
+      "The papaya should be bruised but still crunchy",
+      "Make it spicier than you think - the sweetness balances it"
     ]
   },
   "cultural_significance": {
-    "origin_story": "Som Tam is a traditional Thai dish from the northeastern region",
-    "cultural_importance": "Popular dish in Thai cuisine",
+    "origin_story": "Originated in Laos and spread throughout Isaan (northeastern Thailand). Rural communities created it as a way to use unripe papaya and preserve fish. The dish represents the resourcefulness of Isaan people.",
+    "cultural_importance": "Som Tam is more than food - it's a social ritual. Groups gather around the som tam vendor, customizing their order and sharing plates. It's the most ordered dish in Thailand, eaten daily by millions.",
     "traditional_occasions": [
-      "Daily meals",
-      "Family gatherings"
+      "Lunch staple with sticky rice",
+      "Drinking food with beer",
+      "Harvest celebrations",
+      "Temple festivals"
     ]
   },
   "variations": [
     {
-      "name": "Regional Som Tam",
-      "description": "Traditional northeastern style preparation"
+      "name": "Som Tam Thai",
+      "description": "The 'safe' version with dried shrimp, peanuts, and fish sauce"
     },
     {
-      "name": "Modern Som Tam",
-      "description": "Contemporary interpretation with modern techniques"
+      "name": "Som Tam Poo Pla Ra",
+      "description": "Isaan style with fermented fish and field crabs - for brave souls"
+    },
+    {
+      "name": "Som Tam Ponlamai",
+      "description": "Fruit salad version with apples, grapes, and peanuts"
     }
   ],
   "serving_suggestions": {
@@ -159,19 +155,21 @@
   },
   "where_to_find": {
     "best_restaurants": [
-      "Local Thai restaurants",
-      "Traditional eateries"
+      "Som Tam Nua (Bangkok) - Modern Isaan restaurant chain",
+      "Laab Ubon (Bangkok) - Authentic Isaan flavors",
+      "Any Isaan restaurant with plastic stools"
     ],
     "street_food_areas": [
-      "Thai street food markets",
-      "Food courts"
+      "Soi 38 Night Market, Bangkok",
+      "JJ Green Night Market",
+      "Any construction site at lunch (follow the workers)"
     ],
     "price_ranges": {
-      "street_food": "$2-5",
-      "restaurant": "$8-15",
-      "upscale": "$15-25"
+      "street_food": "30-50 THB ($0.90-$1.50)",
+      "restaurant": "60-120 THB ($1.80-$3.60)",
+      "upscale": "150-300 THB ($4.50-$9)"
     }
   },
   "enhanced_at": "2025-05-25T21:51:02.697Z",
-  "ai_generated": true
+  "ai_generated": false
 }

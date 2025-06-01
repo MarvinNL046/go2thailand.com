@@ -59,68 +59,68 @@
     "dietary": [],
     "price_range": "budget"
   },
-  "enhanced_description": "Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg",
+  "enhanced_description": "Pad See Ew is the darker, smokier cousin of Pad Thai - a Chinese-influenced stir-fry that showcases the art of wok hei (breath of the wok). These silky rice noodles are kissed by flames, creating slightly charred edges while sweet dark soy sauce caramelizes into perfection. It's comfort food at its finest - simple ingredients transformed by technique and blazing heat.",
   "detailed_ingredients": [
     {
-      "name": "wide rice noodles",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Fresh Wide Rice Noodles",
+      "purpose": "Wide surface area to catch wok hei and absorb sauce",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Dried wide rice noodles",
+        "Fresh ho fun noodles",
+        "Fettuccine (emergency only)"
       ]
     },
     {
-      "name": "dark soy sauce",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Dark Sweet Soy Sauce",
+      "purpose": "Creates the signature dark color and sweet-savory flavor",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Regular soy sauce with palm sugar",
+        "Kecap manis"
       ]
     },
     {
-      "name": "chinese broccoli",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Chinese Broccoli",
+      "purpose": "Adds slight bitterness and crunch to balance richness",
       "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "egg",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "pork or chicken",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
+        "Regular broccoli",
+        "Bok choy",
+        "Kale"
       ]
     }
   ],
   "cooking_method": {
-    "technique": "Stir-frying",
-    "steps_overview": "Traditional Thai cooking method for Pad See Ew",
+    "technique": "High-heat wok charring",
+    "steps_overview": "The wok must be screaming hot - so hot it seems dangerous. Noodles are added in small batches, allowed to char slightly before tossing. The whole process takes under 3 minutes but requires constant motion and split-second timing.",
     "cooking_tips": [
-      "Use high heat for stir-frying",
-      "Balance sweet, sour, salty, and spicy flavors"
+      "If your wok isn't smoking, it's not hot enough",
+      "Work in small batches - overcrowding kills wok hei",
+      "Let noodles sit and char before first toss",
+      "Keep ingredients moving with a scooping motion",
+      "If it's not slightly smoky, you're doing it wrong"
     ]
   },
   "cultural_significance": {
-    "origin_story": "Pad See Ew is a traditional Thai dish from the central region",
-    "cultural_importance": "Popular dish in Thai cuisine",
+    "origin_story": "Brought by Teochew Chinese immigrants to Thailand. The dish evolved from Chinese chow fun, adapted with Thai ingredients and sweeter flavor profile to suit local tastes.",
+    "cultural_importance": "Pad See Ew represents the Thai-Chinese fusion that defines much of Bangkok's food culture. It's working-class fuel - cheap, filling, and available 24/7 from street carts.",
     "traditional_occasions": [
-      "Daily meals",
-      "Family gatherings"
+      "Late-night drinking food",
+      "Quick lunch for workers",
+      "Comfort food for homesick Chinese-Thais",
+      "Street food staple"
     ]
   },
   "variations": [
     {
-      "name": "Regional Pad See Ew",
-      "description": "Traditional central style preparation"
+      "name": "Pad See Ew Moo",
+      "description": "Pork version - the most common and traditional"
     },
     {
-      "name": "Modern Pad See Ew",
-      "description": "Contemporary interpretation with modern techniques"
+      "name": "Pad See Ew Talay",
+      "description": "Seafood version with squid and shrimp"
+    },
+    {
+      "name": "Pad See Ew Sen Yai",
+      "description": "Extra-wide noodles for maximum wok hei"
     }
   ],
   "serving_suggestions": {
@@ -143,19 +143,21 @@
   },
   "where_to_find": {
     "best_restaurants": [
-      "Local Thai restaurants",
-      "Traditional eateries"
+      "Jay Fai (Bangkok) - Michelin-starred street food",
+      "Soei Restaurant (Bangkok) - Old-school perfection",
+      "Any shophouse with a jet engine wok burner"
     ],
     "street_food_areas": [
-      "Thai street food markets",
-      "Food courts"
+      "Chinatown after dark",
+      "Silom Soi 20 food stalls",
+      "Victory Monument street vendors"
     ],
     "price_ranges": {
-      "street_food": "$2-5",
-      "restaurant": "$8-15",
-      "upscale": "$15-25"
+      "street_food": "40-60 THB ($1.20-$1.80)",
+      "restaurant": "80-150 THB ($2.40-$4.50)",
+      "upscale": "200-400 THB ($6-$12)"
     }
   },
   "enhanced_at": "2025-05-25T21:53:04.374Z",
-  "ai_generated": true
+  "ai_generated": false
 }

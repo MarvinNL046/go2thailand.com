@@ -62,68 +62,67 @@
     ],
     "price_range": "budget"
   },
-  "enhanced_description": "Sweet sticky rice served with fresh mango slices and coconut cream",
+  "enhanced_description": "Khao Niao Mamuang (Mango Sticky Rice) is Thailand's most beloved dessert - a seemingly simple combination that achieves perfection through quality ingredients and precise technique. Sweet coconut-dressed sticky rice paired with perfectly ripe mango creates a harmony of flavors and textures that captures the essence of Thai desserts: not too sweet, naturally flavored, and seasonally dependent.",
   "detailed_ingredients": [
     {
-      "name": "sticky rice",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Nam Dok Mai Mango",
+      "purpose": "The premium Thai mango variety - sweet, smooth, and fiberless",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Ok Rong mango",
+        "Ataulfo mango",
+        "Any ripe, sweet mango"
       ]
     },
     {
-      "name": "mango",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Glutinous Rice",
+      "purpose": "Special sticky rice that becomes creamy when cooked",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "No real substitute - regular rice won't work",
+        "Japanese mochi rice (different texture)"
       ]
     },
     {
-      "name": "coconut milk",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Coconut Cream",
+      "purpose": "Rich topping that brings everything together",
       "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "palm sugar",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "salt",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
+        "Thick coconut milk",
+        "Cashew cream for lighter version"
       ]
     }
   ],
   "cooking_method": {
-    "technique": "Stir-frying",
-    "steps_overview": "Traditional Thai cooking method for Mango Sticky Rice",
+    "technique": "Steaming and careful timing",
+    "steps_overview": "Sticky rice is soaked overnight then steamed in bamboo baskets. While warm, it's mixed with sweetened coconut milk, absorbing the flavors. The mango must be at perfect ripeness - firm enough to slice but sweet and aromatic.",
     "cooking_tips": [
-      "Use high heat for stir-frying",
-      "Balance sweet, sour, salty, and spicy flavors"
+      "Soak rice for at least 8 hours - overnight is best",
+      "Steam in bamboo for authentic flavor",
+      "Mix coconut sauce while rice is still warm",
+      "Choose mangoes that smell sweet at the stem",
+      "Serve at room temperature, not cold"
     ]
   },
   "cultural_significance": {
-    "origin_story": "Mango Sticky Rice is a traditional Thai dish from the central region",
-    "cultural_importance": "Popular dish in Thai cuisine",
+    "origin_story": "Originated in the royal courts where the best mangoes were reserved for nobility. The dish celebrates mango season (April-May), coinciding with Thai New Year (Songkran).",
+    "cultural_importance": "This dessert represents Thai agricultural abundance and the importance of seasonality. It's one of the few Thai dishes that hasn't been adapted or available year-round - you eat it when mangoes are ready.",
     "traditional_occasions": [
-      "Daily meals",
-      "Family gatherings"
+      "Songkran festival",
+      "Mango season celebration",
+      "Temple offerings",
+      "Special occasion dessert"
     ]
   },
   "variations": [
     {
-      "name": "Regional Mango Sticky Rice",
-      "description": "Traditional central style preparation"
+      "name": "Khao Niao Thurian",
+      "description": "Durian version - for hardcore fruit lovers"
     },
     {
-      "name": "Modern Mango Sticky Rice",
-      "description": "Contemporary interpretation with modern techniques"
+      "name": "Khao Niao Dam",
+      "description": "Made with black sticky rice - nuttier flavor"
+    },
+    {
+      "name": "Khao Niao Moon",
+      "description": "With additional pandan-flavored custard"
     }
   ],
   "serving_suggestions": {
@@ -146,19 +145,21 @@
   },
   "where_to_find": {
     "best_restaurants": [
-      "Local Thai restaurants",
-      "Traditional eateries"
+      "Mae Varee (Bangkok) - Most famous mango sticky rice shop",
+      "Kor Panich (Bangkok) - Since 1947",
+      "After You Dessert Cafe - Modern interpretation"
     ],
     "street_food_areas": [
-      "Thai street food markets",
-      "Food courts"
+      "Thonglor Street vendors (April-June)",
+      "Chatuchak Weekend Market",
+      "Any fresh market during mango season"
     ],
     "price_ranges": {
-      "street_food": "$2-5",
-      "restaurant": "$8-15",
-      "upscale": "$15-25"
+      "street_food": "50-80 THB ($1.50-$2.40)",
+      "restaurant": "120-200 THB ($3.60-$6)",
+      "upscale": "250-400 THB ($7.50-$12)"
     }
   },
   "enhanced_at": "2025-05-25T21:52:03.357Z",
-  "ai_generated": true
+  "ai_generated": false
 }

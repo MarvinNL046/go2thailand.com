@@ -64,75 +64,76 @@
     ],
     "price_range": "mid-range"
   },
-  "enhanced_description": "Spicy green curry with coconut milk Thai eggplant and basil",
+  "enhanced_description": "Green Curry (Gaeng Keow Wan) is Thai cuisine's emerald jewel - a coconut curry that perfectly balances creamy richness with herbaceous heat. Unlike its red and yellow cousins, green curry gets its color and flavor from fresh green chilies and herbs, making it bright, aromatic, and surprisingly complex. The name literally means 'sweet green curry' but don't be fooled - it packs serious heat.",
   "detailed_ingredients": [
     {
-      "name": "green curry paste",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Green Curry Paste",
+      "purpose": "The soul of the dish - fresh herbs and chilies ground together",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Store-bought paste (Mae Ploy brand)",
+        "Make from scratch (best option)"
       ]
     },
     {
-      "name": "coconut milk",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Thai Eggplant",
+      "purpose": "Adds texture and absorbs the curry flavors",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Regular eggplant cut smaller",
+        "Zucchini",
+        "Green beans"
       ]
     },
     {
-      "name": "thai eggplant",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Thai Basil",
+      "purpose": "Fresh aromatic finish that brightens the rich curry",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Sweet basil",
+        "Holy basil",
+        "Mint (different but works)"
       ]
     },
     {
-      "name": "basil",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Coconut Cream",
+      "purpose": "Creates the rich base and tempers the heat",
       "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "fish sauce",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "palm sugar",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
+        "Full-fat coconut milk",
+        "Cashew cream for lighter version"
       ]
     }
   ],
   "cooking_method": {
-    "technique": "Simmering",
-    "steps_overview": "Traditional Thai cooking method for Green Curry",
+    "technique": "Paste frying and slow simmering",
+    "steps_overview": "The secret is 'cracking' the coconut cream - heating it until the oil separates, then frying the curry paste in this oil. This blooming process is crucial for developing deep flavors before adding liquids.",
     "cooking_tips": [
-      "Use high heat for stir-frying",
-      "Balance sweet, sour, salty, and spicy flavors"
+      "Fry curry paste until incredibly fragrant - this is key",
+      "Use the thick part of coconut milk first",
+      "Don't boil vigorously - gentle simmer preserves color",
+      "Add vegetables by cooking time - hardest first",
+      "Finish with basil off the heat"
     ]
   },
   "cultural_significance": {
-    "origin_story": "Green Curry is a traditional Thai dish from the central region",
-    "cultural_importance": "Popular dish in Thai cuisine",
+    "origin_story": "Developed in Central Thailand's royal kitchens, green curry represents the sophistication of palace cuisine. The use of fresh herbs instead of dried spices shows the abundance of Thailand's herbs.",
+    "cultural_importance": "Green curry is a test of a cook's skill - balancing heat, sweetness, and salt while maintaining the bright green color. It's considered more refined than red curry and is often served at important dinners.",
     "traditional_occasions": [
-      "Daily meals",
-      "Family gatherings"
+      "Buddhist festivals",
+      "Royal ceremonies",
+      "Wedding banquets",
+      "Welcoming honored guests"
     ]
   },
   "variations": [
     {
-      "name": "Regional Green Curry",
-      "description": "Traditional central style preparation"
+      "name": "Gaeng Keow Wan Gai",
+      "description": "Classic chicken version with Thai eggplant"
     },
     {
-      "name": "Modern Green Curry",
-      "description": "Contemporary interpretation with modern techniques"
+      "name": "Gaeng Keow Wan Luk Chin Pla",
+      "description": "Fish ball version - popular street food variant"
+    },
+    {
+      "name": "Vegetarian Green Curry",
+      "description": "With tofu and mixed vegetables, no fish sauce"
     }
   ],
   "serving_suggestions": {
@@ -155,19 +156,21 @@
   },
   "where_to_find": {
     "best_restaurants": [
-      "Local Thai restaurants",
-      "Traditional eateries"
+      "Krua Apsorn (Bangkok) - Royal Thai cuisine",
+      "The Local (Bangkok) - Traditional recipes",
+      "Any Muslim-Thai restaurant for unique versions"
     ],
     "street_food_areas": [
-      "Thai street food markets",
-      "Food courts"
+      "Or Tor Kor Market food court",
+      "Saphan Phut night market",
+      "University canteens for cheap authentic versions"
     ],
     "price_ranges": {
-      "street_food": "$2-5",
-      "restaurant": "$8-15",
-      "upscale": "$15-25"
+      "street_food": "40-70 THB ($1.20-$2.10)",
+      "restaurant": "120-250 THB ($3.60-$7.50)",
+      "upscale": "350-600 THB ($10.50-$18)"
     }
   },
   "enhanced_at": "2025-05-25T21:51:45.741Z",
-  "ai_generated": true
+  "ai_generated": false
 }

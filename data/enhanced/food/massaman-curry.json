@@ -64,75 +64,75 @@
     "dietary": [],
     "price_range": "mid-range"
   },
-  "enhanced_description": "Rich and mild curry with Persian influences containing potatoes and peanuts",
+  "enhanced_description": "Massaman Curry is Thailand's most complex curry, a magnificent fusion of Thai and Indian-Persian flavors that tells the story of ancient trade routes. This rich, mild curry combines warming spices like cardamom and cinnamon with Thai ingredients, creating a dish that's both exotic and comforting. CNN once named it the world's most delicious food, and one taste explains why.",
   "detailed_ingredients": [
     {
-      "name": "massaman paste",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Massaman Curry Paste",
+      "purpose": "Complex spice blend including unusual Thai ingredients like nutmeg",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Store-bought (Maesri brand recommended)",
+        "Indian garam masala with Thai elements"
       ]
     },
     {
-      "name": "coconut milk",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Whole Spices",
+      "purpose": "Cardamom, cinnamon, star anise add Persian influence",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Ground versions (less aromatic)",
+        "Chinese five-spice blend"
       ]
     },
     {
-      "name": "beef",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Tamarind Paste",
+      "purpose": "Provides tangy sweetness characteristic of the dish",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Lime juice with palm sugar",
+        "Worcestershire sauce"
       ]
     },
     {
-      "name": "potatoes",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Peanuts",
+      "purpose": "Adds texture and nutty richness",
       "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "peanuts",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "tamarind",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
+        "Cashews",
+        "Almonds",
+        "Skip for allergies"
       ]
     }
   ],
   "cooking_method": {
-    "technique": "Simmering",
-    "steps_overview": "Traditional Thai cooking method for Massaman Curry",
+    "technique": "Slow braising and spice toasting",
+    "steps_overview": "Massaman requires patience - it's a slow-cooked curry where tough cuts of meat become tender and spices meld into complex harmony. Whole spices are toasted, paste is fried, and everything simmers gently for hours.",
     "cooking_tips": [
-      "Use high heat for stir-frying",
-      "Balance sweet, sour, salty, and spicy flavors"
+      "Toast whole spices before adding to release oils",
+      "Use tough cuts of beef - they become incredibly tender",
+      "Cook low and slow - rushing ruins it",
+      "Balance sweet, sour, and salty throughout cooking",
+      "Let it rest overnight - even better the next day"
     ]
   },
   "cultural_significance": {
-    "origin_story": "Massaman Curry is a traditional Thai dish from the southern region",
-    "cultural_importance": "Popular dish in Thai cuisine",
+    "origin_story": "Arrived in Thailand through Persian-Indian Muslim traders in the 17th century. The name comes from 'Mussulman,' an archaic term for Muslims. Thai palace cooks adapted it using local ingredients.",
+    "cultural_importance": "Massaman represents Thailand's openness to foreign influences while maintaining Thai identity. It's served at diplomatic dinners and represents Thai culinary sophistication.",
     "traditional_occasions": [
-      "Daily meals",
-      "Family gatherings"
+      "Eid celebrations in Southern Thailand",
+      "Royal banquets",
+      "Wedding feasts",
+      "Important business dinners"
     ]
   },
   "variations": [
     {
-      "name": "Regional Massaman Curry",
-      "description": "Traditional southern style preparation"
+      "name": "Massaman Nuea",
+      "description": "Beef version - the most traditional and popular"
     },
     {
-      "name": "Modern Massaman Curry",
-      "description": "Contemporary interpretation with modern techniques"
+      "name": "Massaman Gai",
+      "description": "Chicken version - quicker cooking for everyday meals"
+    },
+    {
+      "name": "Massaman Lamb",
+      "description": "Luxurious version popular in upscale restaurants"
     }
   ],
   "serving_suggestions": {
@@ -155,19 +155,21 @@
   },
   "where_to_find": {
     "best_restaurants": [
-      "Local Thai restaurants",
-      "Traditional eateries"
+      "Nahm (Bangkok) - Michelin-starred perfection",
+      "Blue Elephant (Bangkok) - Royal Thai cuisine",
+      "Muslim restaurants on Charoen Krung Road"
     ],
     "street_food_areas": [
-      "Thai street food markets",
-      "Food courts"
+      "Rarely found as street food due to long cooking time",
+      "Some vendors at Or Tor Kor Market",
+      "Muslim food centers in Bangkok"
     ],
     "price_ranges": {
-      "street_food": "$2-5",
-      "restaurant": "$8-15",
-      "upscale": "$15-25"
+      "street_food": "80-120 THB ($2.40-$3.60) when available",
+      "restaurant": "200-400 THB ($6-$12)",
+      "upscale": "500-1200 THB ($15-$36)"
     }
   },
   "enhanced_at": "2025-05-25T21:52:21.686Z",
-  "ai_generated": true
+  "ai_generated": false
 }

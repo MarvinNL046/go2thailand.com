@@ -29,6 +29,134 @@
   "preparation_time": "15 minutes",
   "difficulty": "easy",
   "price_range": "budget",
+  "enhanced_description": "Pad Krapow is Thailand's ultimate comfort food - a fiery, aromatic stir-fry that perfectly balances the peppery punch of holy basil with savory minced meat. This lightning-fast dish is a staple at street stalls and restaurants across Thailand, beloved for its bold flavors and satisfying simplicity. The magic lies in the holy basil (bai krapow), which releases its distinctive clove-like aroma when hit by the scorching wok, creating a dish that's instantly recognizable by its intoxicating scent alone.",
+  "detailed_ingredients": [
+    {
+      "name": "Holy Basil (Bai Krapow)",
+      "purpose": "The star ingredient that gives this dish its name and distinctive peppery, clove-like flavor",
+      "substitutes": [
+        "Thai basil (less authentic but acceptable)",
+        "Italian basil mixed with mint (emergency substitute)"
+      ]
+    },
+    {
+      "name": "Thai Bird's Eye Chilies",
+      "purpose": "Provides the essential heat that makes this dish authentically spicy",
+      "substitutes": [
+        "Serrano peppers",
+        "Fresh red chilies",
+        "Chili flakes (adjust quantity)"
+      ]
+    },
+    {
+      "name": "Minced Pork or Chicken",
+      "purpose": "Traditional protein base that absorbs all the flavors",
+      "substitutes": [
+        "Ground beef",
+        "Crumbled tofu",
+        "Minced mushrooms for vegetarian"
+      ]
+    },
+    {
+      "name": "Fish Sauce",
+      "purpose": "Adds umami depth and authentic Thai flavor",
+      "substitutes": [
+        "Light soy sauce with a pinch of salt",
+        "Vegetarian mushroom sauce"
+      ]
+    },
+    {
+      "name": "Dark Soy Sauce",
+      "purpose": "Provides color and a subtle sweetness to balance the heat",
+      "substitutes": [
+        "Regular soy sauce with a touch of molasses"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "High-heat wok stir-frying",
+    "steps_overview": "The key to perfect Pad Krapow is extreme heat and speed. Everything happens in under 5 minutes once you start cooking. The wok should be smoking hot, creating the coveted 'wok hei' (breath of the wok) that gives the dish its characteristic smoky flavor.",
+    "cooking_tips": [
+      "Use the highest heat your stove can produce - this dish needs serious fire",
+      "Have all ingredients prepped and within arm's reach before you start",
+      "Don't overcook the holy basil - add it at the very end to preserve its flavor",
+      "The meat should sizzle violently when it hits the wok",
+      "For authentic flavor, pound garlic and chilies in a mortar and pestle",
+      "The fried egg should have crispy edges but a runny yolk"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Pad Krapow emerged from Thailand's street food culture, where quick, affordable meals were needed for busy workers. The dish gained popularity in the 1960s as urbanization increased and street vendors needed dishes that could be cooked quickly over portable gas burners.",
+    "cultural_importance": "This is Thailand's go-to comfort food, equivalent to a grilled cheese sandwich in America. It's the dish Thais crave when homesick, order when hungover, and teach their children to cook first. The phrase 'pad krapow kai dao' (with fried egg) is as Thai as it gets.",
+    "traditional_occasions": [
+      "Late-night street food",
+      "Quick lunch for office workers",
+      "Student budget meals",
+      "Comfort food when feeling unwell"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Pad Krapow Moo Krob",
+      "description": "Made with crispy pork belly instead of minced meat for extra richness and texture"
+    },
+    {
+      "name": "Pad Krapow Talay",
+      "description": "Seafood version with shrimp, squid, and fish - popular in coastal areas"
+    },
+    {
+      "name": "Pad Krapow Kai",
+      "description": "Chicken version, often preferred by those seeking a lighter option"
+    },
+    {
+      "name": "Vegetarian Pad Krapow",
+      "description": "Made with tofu, mushrooms, or mixed vegetables, using vegetarian stir-fry sauce"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice (essential - never serve without it)",
+      "Fried egg with runny yolk (kai dao)",
+      "Fresh cucumber slices",
+      "Fish sauce with chilies (prik nam pla)",
+      "Cold Thai iced tea to combat the heat"
+    ],
+    "presentation": "Served on a plate with rice on one side, the stir-fry on the other, topped with a fried egg. The yolk should be broken and mixed with the rice and meat.",
+    "eating_etiquette": "Eaten with a spoon in the right hand and fork in the left. The fork is used to push food onto the spoon. Breaking the egg yolk and letting it coat the rice is part of the experience."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "450-550 calories (with rice and egg)",
+    "health_benefits": [
+      "Holy basil has anti-inflammatory properties",
+      "High in protein from meat and egg",
+      "Garlic and chilies boost immune system",
+      "Quick cooking preserves nutrients"
+    ],
+    "dietary_notes": [
+      "High in sodium - use less soy sauce if needed",
+      "Can be made healthier with lean meat",
+      "Add more vegetables for extra nutrition"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Jay Fai (Bangkok) - Michelin-starred version",
+      "Soei Restaurant (Bangkok) - Local favorite",
+      "Any street food stall with a queue of locals"
+    ],
+    "street_food_areas": [
+      "Chinatown (Yaowarat), Bangkok",
+      "Victory Monument area, Bangkok",
+      "Chiang Mai Night Bazaar",
+      "Phuket Weekend Market"
+    ],
+    "price_ranges": {
+      "street_food": "40-60 THB ($1.20-$1.80)",
+      "restaurant": "80-150 THB ($2.40-$4.50)",
+      "upscale": "200-400 THB ($6-$12)"
+    }
+  },
+  "ai_generated": false,
   "seo": {
     "metaTitle": {
       "en": "Pad Krapow Recipe | Authentic Thai main dish",
@@ -61,125 +189,5 @@
     "allergens": [],
     "dietary": [],
     "price_range": "budget"
-  },
-  "enhanced_description": "Stir-fried Thai basil with minced pork or chicken served over rice with a fried egg",
-  "detailed_ingredients": [
-    {
-      "name": "thai basil",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "minced pork",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "garlic",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "chili",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "fish sauce",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "soy sauce",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "rice",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "egg",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    }
-  ],
-  "cooking_method": {
-    "technique": "Stir-frying",
-    "steps_overview": "Traditional Thai cooking method for Pad Krapow",
-    "cooking_tips": [
-      "Use high heat for stir-frying",
-      "Balance sweet, sour, salty, and spicy flavors"
-    ]
-  },
-  "cultural_significance": {
-    "origin_story": "Pad Krapow is a traditional Thai dish from the central region",
-    "cultural_importance": "Popular dish in Thai cuisine",
-    "traditional_occasions": [
-      "Daily meals",
-      "Family gatherings"
-    ]
-  },
-  "variations": [
-    {
-      "name": "Regional Pad Krapow",
-      "description": "Traditional central style preparation"
-    },
-    {
-      "name": "Modern Pad Krapow",
-      "description": "Contemporary interpretation with modern techniques"
-    }
-  ],
-  "serving_suggestions": {
-    "traditional_accompaniments": [
-      "Jasmine rice",
-      "Fresh vegetables"
-    ],
-    "presentation": "Served hot in traditional Thai style",
-    "eating_etiquette": "Enjoyed with fork and spoon"
-  },
-  "nutritional_info": {
-    "calories_per_serving": "Varies by preparation",
-    "health_benefits": [
-      "Rich in Thai herbs and spices",
-      "Balanced flavors"
-    ],
-    "dietary_notes": [
-      "Contains traditional Thai ingredients"
-    ]
-  },
-  "where_to_find": {
-    "best_restaurants": [
-      "Local Thai restaurants",
-      "Traditional eateries"
-    ],
-    "street_food_areas": [
-      "Thai street food markets",
-      "Food courts"
-    ],
-    "price_ranges": {
-      "street_food": "$2-5",
-      "restaurant": "$8-15",
-      "upscale": "$15-25"
-    }
-  },
-  "enhanced_at": "2025-05-25T21:50:37.969Z",
-  "ai_generated": true
+  }
 }

@@ -65,82 +65,74 @@
     "dietary": [],
     "price_range": "mid-range"
   },
-  "enhanced_description": "Spicy and sour Thai soup with shrimp lemongrass and lime leaves",
+  "enhanced_description": "Tom Yum Goong is Thailand in a bowl - a fierce and fragrant soup that embodies the Thai philosophy of balanced extremes. This hot and sour prawn soup is a masterclass in layering flavors: the citrusy punch of lemongrass, the floral notes of galangal, the heat of chilies, all swimming in a broth that's simultaneously comforting and invigorating. It's medicinal, magical, and absolutely unmistakable.",
   "detailed_ingredients": [
     {
-      "name": "shrimp",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Lemongrass",
+      "purpose": "Provides the signature citrus aroma and antibacterial properties",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Lemon zest (won't be the same)",
+        "Preserved lemongrass paste"
       ]
     },
     {
-      "name": "lemongrass",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Galangal",
+      "purpose": "Adds sharp, peppery notes distinct from ginger",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Fresh ginger (different flavor profile)",
+        "Frozen galangal"
       ]
     },
     {
-      "name": "lime leaves",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Kaffir Lime Leaves",
+      "purpose": "Contributes floral citrus notes and aromatic oils",
       "substitutes": [
-        "Available at Asian grocery stores"
+        "Lime zest",
+        "Bay leaves with lime juice"
       ]
     },
     {
-      "name": "chili",
-      "purpose": "Essential ingredient for authentic flavor",
+      "name": "Nam Prik Pao (Chili Oil)",
+      "purpose": "Adds depth, color, and umami to the clear version",
       "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "lime juice",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "fish sauce",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
-      ]
-    },
-    {
-      "name": "mushrooms",
-      "purpose": "Essential ingredient for authentic flavor",
-      "substitutes": [
-        "Available at Asian grocery stores"
+        "Chili paste",
+        "Sambal oelek with sugar"
       ]
     }
   ],
   "cooking_method": {
-    "technique": "Stir-frying",
-    "steps_overview": "Traditional Thai cooking method for Tom Yum Goong",
+    "technique": "Aromatic infusion and quick cooking",
+    "steps_overview": "Tom Yum is about building layers of flavor. Aromatics are bruised and infused, proteins quickly cooked, and finishing touches added off heat. The key is not overboiling the herbs, which would make them bitter.",
     "cooking_tips": [
-      "Use high heat for stir-frying",
-      "Balance sweet, sour, salty, and spicy flavors"
+      "Bruise lemongrass and galangal to release oils",
+      "Never boil the herbs too long - infuse and remove",
+      "Add lime juice off the heat to preserve vitamin C",
+      "Use shell-on prawns for more flavor",
+      "The broth should make you cough slightly - that's perfect heat"
     ]
   },
   "cultural_significance": {
-    "origin_story": "Tom Yum Goong is a traditional Thai dish from the central region",
-    "cultural_importance": "Popular dish in Thai cuisine",
+    "origin_story": "Originated in Central Thailand along the Chao Phraya River where prawns were abundant. The soup evolved from ancient Thai medicinal broths designed to ward off illness.",
+    "cultural_importance": "Tom Yum is Thailand's chicken soup - eaten when sick, sad, or celebrating. During the 1997 Asian Financial Crisis, 'Tom Yum Goong Crisis' became the nickname, showing how deeply embedded it is in Thai culture.",
     "traditional_occasions": [
-      "Daily meals",
-      "Family gatherings"
+      "Remedy for colds and flu",
+      "Hangover cure",
+      "Welcoming dish for guests",
+      "Comfort food during monsoon season"
     ]
   },
   "variations": [
     {
-      "name": "Regional Tom Yum Goong",
-      "description": "Traditional central style preparation"
+      "name": "Tom Yum Nam Khon",
+      "description": "Creamy version with evaporated milk - modern Bangkok style"
     },
     {
-      "name": "Modern Tom Yum Goong",
-      "description": "Contemporary interpretation with modern techniques"
+      "name": "Tom Yum Nam Sai",
+      "description": "Clear broth version - the original and purist's choice"
+    },
+    {
+      "name": "Tom Yum Talay",
+      "description": "Mixed seafood version - popular in coastal areas"
     }
   ],
   "serving_suggestions": {
@@ -163,19 +155,21 @@
   },
   "where_to_find": {
     "best_restaurants": [
-      "Local Thai restaurants",
-      "Traditional eateries"
+      "Pe Aor (Bangkok) - Famous for tom yum noodles",
+      "Pee Aor (Bangkok) - Different place, equally famous",
+      "Any riverside restaurant for authentic versions"
     ],
     "street_food_areas": [
-      "Thai street food markets",
-      "Food courts"
+      "Chatuchak Weekend Market",
+      "Wang Lang Market near Siriraj Hospital",
+      "Chinatown evening stalls"
     ],
     "price_ranges": {
-      "street_food": "$2-5",
-      "restaurant": "$8-15",
-      "upscale": "$15-25"
+      "street_food": "60-100 THB ($1.80-$3)",
+      "restaurant": "150-300 THB ($4.50-$9)",
+      "upscale": "400-800 THB ($12-$24)"
     }
   },
   "enhanced_at": "2025-05-25T21:51:23.818Z",
-  "ai_generated": true
+  "ai_generated": false
 }
