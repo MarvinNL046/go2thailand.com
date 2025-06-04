@@ -58,27 +58,34 @@ const Header = () => {
                 {t('nav.food')}
                 <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
               </Link>
-              <Link 
-                href="/esim/" 
-                className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
-              >
-                {t('nav.esim')}
-                <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-              </Link>
-              <Link 
-                href="/travel-insurance/" 
-                className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
-              >
-                {t('nav.insurance')}
-                <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-              </Link>
-              <Link 
-                href="/travel-gear/" 
-                className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
-              >
-                {t('nav.gear')}
-                <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-              </Link>
+
+              {/* Travel Needs Dropdown */}
+              <div className="relative group">
+                <button className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 flex items-center space-x-1 relative">
+                  <span>💼 {t('nav.travelNeeds')}</span>
+                  <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
+                  </svg>
+                  <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
+                </button>
+                
+                <div className="absolute left-0 mt-2 w-full max-w-[14rem] sm:w-56 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-thailand-blue-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
+                  <div className="py-2">
+                    <Link href="/esim/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <span className="mr-3">📱</span>
+                      {t('nav.esim')}
+                    </Link>
+                    <Link href="/travel-insurance/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <span className="mr-3">🛡️</span>
+                      {t('nav.insurance')}
+                    </Link>
+                    <Link href="/travel-gear/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <span className="mr-3">🎒</span>
+                      {t('nav.gear')}
+                    </Link>
+                  </div>
+                </div>
+              </div>
 
               {/* Plan Your Trip Dropdown */}
               <div className="relative group">

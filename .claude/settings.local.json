@@ -21,7 +21,8 @@
       "Bash(killall:*)",
       "Bash(true)",
       "Bash(npm i:*)",
-      "Bash(sudo npm i -g @anthropic-ai/claude-code)"
+      "Bash(sudo npm i -g @anthropic-ai/claude-code)",
+      "Bash(git push:*)"
     ],
     "deny": []
   },
