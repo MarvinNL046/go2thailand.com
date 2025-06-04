@@ -1,0 +1,51 @@
+{
+  "id": 15,
+  "slug": "sugarcane-juice",
+  "name": {
+    "en": "Sugarcane Juice",
+    "nl": "Suikerriet Sap",
+    "thai": "น้ำอ้อย"
+  },
+  "category": "juice",
+  "type": "cold",
+  "description": {
+    "en": "Fresh pressed sugarcane juice",
+    "nl": "Vers geperst suikerriet sap"
+  },
+  "ingredients": [
+    "sugarcane"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan"
+  ],
+  "image": "/images/drinks/sugarcane-juice.webp",
+  "temperature": "cold",
+  "alcohol_content": "none",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "all",
+  "occasions": [
+    "street food",
+    "energy"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Sugarcane Juice Recipe | Authentic Thai juice",
+      "nl": "Suikerriet Sap Recept | Authentieke Thaise juice"
+    },
+    "metaDescription": {
+      "en": "Learn about Sugarcane Juice (น้ำอ้อย) - Fresh pressed sugarcane juice",
+      "nl": "Leer over Suikerriet Sap (น้ำอ้อย) - Vers geperst suikerriet sap"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "juice",
+    "cold",
+    "cold",
+    "street-food",
+    "energy"
+  ]
+}

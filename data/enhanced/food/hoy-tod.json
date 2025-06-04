@@ -1,0 +1,175 @@
+{
+  "id": 22,
+  "slug": "hoy-tod",
+  "name": {
+    "en": "Hoy Tod",
+    "nl": "Hoy Tod",
+    "thai": "หอยทอด"
+  },
+  "category": "main-dish",
+  "region": "central",
+  "spice_level": "mild",
+  "description": {
+    "en": "Crispy mussel or oyster pancake with bean sprouts",
+    "nl": "Knapperige mossel- of oesterpannenkoek met taugé"
+  },
+  "ingredients": [
+    "mussels or oysters",
+    "flour",
+    "egg",
+    "bean sprouts",
+    "chinese chives"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/hoy-tod.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Hoy Tod Recipe | Authentic Thai main dish",
+      "nl": "Hoy Tod Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Hoy Tod (หอยทอด) - Crispy mussel or oyster pancake with bean sprouts...",
+      "nl": "Leer over Hoy Tod (หอยทอด) - Knapperige mossel- of oesterpannenkoek met taugé..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "central",
+    "mild",
+    "medium",
+    "budget",
+    "mussels-or oysters",
+    "flour",
+    "egg"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Hoy Tod is a beloved hearty and satisfying main course from central Thailand that with a subtle warmth. Crispy mussel or oyster pancake with bean sprouts. This medium recipe takes about 15 minutes to prepare and represents the authentic flavors of Central Thai cuisine balances sweet, sour, salty and spicy flavors perfectly. The combination of mussels or oysters, flour, egg creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Mussels or oysters",
+      "purpose": "Essential for authentic Hoy Tod flavor",
+      "substitutes": [
+        "Fresh mussels or oysters",
+        "Dried mussels or oysters",
+        "mussels or oysters paste"
+      ]
+    },
+    {
+      "name": "Flour",
+      "purpose": "Essential for authentic Hoy Tod flavor",
+      "substitutes": [
+        "Fresh flour",
+        "Dried flour",
+        "flour paste"
+      ]
+    },
+    {
+      "name": "Egg",
+      "purpose": "Essential for authentic Hoy Tod flavor",
+      "substitutes": [
+        "Fresh egg",
+        "Dried egg",
+        "egg paste"
+      ]
+    },
+    {
+      "name": "Bean sprouts",
+      "purpose": "Essential for authentic Hoy Tod flavor",
+      "substitutes": [
+        "Fresh bean sprouts",
+        "Dried bean sprouts",
+        "bean sprouts paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying or grilling",
+    "steps_overview": "Preparing Hoy Tod requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh mussels or oysters for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Hoy Tod has been a staple of central Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of central Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Hoy Tod Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Hoy Tod Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Hoy Tod",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local central Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

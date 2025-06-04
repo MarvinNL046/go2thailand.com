@@ -1,0 +1,53 @@
+{
+  "id": 6,
+  "slug": "nam-matoom",
+  "name": {
+    "en": "Bael Fruit Juice",
+    "nl": "Bael Vruchtensap",
+    "thai": "น้ำมะตูม"
+  },
+  "category": "herbal",
+  "type": "both",
+  "description": {
+    "en": "Traditional herbal drink from bael fruit",
+    "nl": "Traditionele kruidendrank van bael fruit"
+  },
+  "ingredients": [
+    "dried bael fruit",
+    "sugar",
+    "water"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan"
+  ],
+  "image": "/images/drinks/nam-matoom.webp",
+  "temperature": "both",
+  "alcohol_content": "none",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "central",
+  "occasions": [
+    "digestive aid",
+    "health"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Bael Fruit Juice Recipe | Authentic Thai herbal",
+      "nl": "Bael Vruchtensap Recept | Authentieke Thaise herbal"
+    },
+    "metaDescription": {
+      "en": "Learn about Bael Fruit Juice (น้ำมะตูม) - Traditional herbal drink from bael fruit",
+      "nl": "Leer over Bael Vruchtensap (น้ำมะตูม) - Traditionele kruidendrank van bael fruit"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "herbal",
+    "both",
+    "both",
+    "digestive-aid",
+    "health"
+  ]
+}

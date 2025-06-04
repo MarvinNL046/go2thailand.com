@@ -1,0 +1,52 @@
+{
+  "id": 19,
+  "slug": "lemongrass-tea",
+  "name": {
+    "en": "Lemongrass Tea",
+    "nl": "Citroengras Thee",
+    "thai": "ชาตะไคร้"
+  },
+  "category": "herbal",
+  "type": "hot",
+  "description": {
+    "en": "Aromatic herbal tea from lemongrass",
+    "nl": "Aromatische kruidenthee van citroengras"
+  },
+  "ingredients": [
+    "lemongrass",
+    "honey"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan"
+  ],
+  "image": "/images/drinks/lemongrass-tea.webp",
+  "temperature": "hot",
+  "alcohol_content": "none",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "all",
+  "occasions": [
+    "digestion",
+    "relaxation"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Lemongrass Tea Recipe | Authentic Thai herbal",
+      "nl": "Citroengras Thee Recept | Authentieke Thaise herbal"
+    },
+    "metaDescription": {
+      "en": "Learn about Lemongrass Tea (ชาตะไคร้) - Aromatic herbal tea from lemongrass",
+      "nl": "Leer over Citroengras Thee (ชาตะไคร้) - Aromatische kruidenthee van citroengras"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "herbal",
+    "hot",
+    "hot",
+    "digestion",
+    "relaxation"
+  ]
+}

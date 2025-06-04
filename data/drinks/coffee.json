@@ -1,0 +1,23 @@
+{
+  "category": "coffee",
+  "drinks": [
+    {
+      "id": 2,
+      "slug": "thai-iced-coffee",
+      "name": {
+        "en": "Thai Iced Coffee",
+        "nl": "Thaise IJskoffie",
+        "thai": "กาแฟเย็น"
+      }
+    },
+    {
+      "id": 23,
+      "slug": "oliang",
+      "name": {
+        "en": "Thai Black Coffee",
+        "nl": "Thaise Zwarte Koffie",
+        "thai": "โอเลี้ยง"
+      }
+    }
+  ]
+}

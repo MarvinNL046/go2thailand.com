@@ -1,0 +1,56 @@
+{
+  "id": 24,
+  "slug": "nom-yen",
+  "name": {
+    "en": "Pink Milk",
+    "nl": "Roze Melk",
+    "thai": "นมเย็น"
+  },
+  "category": "milk",
+  "type": "cold",
+  "description": {
+    "en": "Sweet pink milk drink",
+    "nl": "Zoete roze melkdrank"
+  },
+  "ingredients": [
+    "milk",
+    "sala syrup",
+    "sugar",
+    "ice"
+  ],
+  "allergens": [
+    "dairy"
+  ],
+  "dietary": [
+    "vegetarian"
+  ],
+  "image": "/images/drinks/nom-yen.webp",
+  "temperature": "cold",
+  "alcohol_content": "none",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "central",
+  "occasions": [
+    "children",
+    "sweet treat"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Pink Milk Recipe | Authentic Thai milk",
+      "nl": "Roze Melk Recept | Authentieke Thaise milk"
+    },
+    "metaDescription": {
+      "en": "Learn about Pink Milk (นมเย็น) - Sweet pink milk drink",
+      "nl": "Leer over Roze Melk (นมเย็น) - Zoete roze melkdrank"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "milk",
+    "cold",
+    "cold",
+    "children",
+    "sweet-treat"
+  ]
+}

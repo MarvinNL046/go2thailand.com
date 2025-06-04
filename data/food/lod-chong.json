@@ -1,0 +1,65 @@
+{
+  "id": 46,
+  "slug": "lod-chong",
+  "name": {
+    "en": "Lod Chong",
+    "nl": "Lod Chong",
+    "thai": "ลอดช่อง"
+  },
+  "category": "dessert",
+  "region": "southern",
+  "spice_level": "none",
+  "description": {
+    "en": "Pandan jelly noodles in coconut milk",
+    "nl": "Pandan gelei noedels in kokosmelk"
+  },
+  "ingredients": [
+    "rice flour",
+    "pandan juice",
+    "coconut milk",
+    "palm sugar",
+    "ice"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian"
+  ],
+  "image": "/images/food/lod-chong.webp",
+  "preparation_time": "30 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Lod Chong Recipe | Authentic Thai dessert",
+      "nl": "Lod Chong Recept | Authentieke Thaise dessert"
+    },
+    "metaDescription": {
+      "en": "Learn about Lod Chong (ลอดช่อง) - Pandan jelly noodles in coconut milk...",
+      "nl": "Leer over Lod Chong (ลอดช่อง) - Pandan gelei noedels in kokosmelk..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "dessert",
+    "southern",
+    "medium",
+    "budget",
+    "rice-flour",
+    "pandan-juice",
+    "coconut-milk"
+  ],
+  "cooking": {
+    "preparation_time": "30 minutes",
+    "difficulty": "medium",
+    "spice_level": "none",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian"
+    ],
+    "price_range": "budget"
+  }
+}

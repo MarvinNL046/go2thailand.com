@@ -1,0 +1,64 @@
+{
+  "id": 13,
+  "slug": "khao-soi",
+  "name": {
+    "en": "Khao Soi",
+    "nl": "Khao Soi",
+    "thai": "ข้าวซอย"
+  },
+  "category": "soup",
+  "region": "northern",
+  "spice_level": "medium",
+  "description": {
+    "en": "Creamy coconut curry noodle soup with crispy noodles on top",
+    "nl": "Romige kokoscurry-noedelsoep met krokante noedels bovenop"
+  },
+  "ingredients": [
+    "egg noodles",
+    "coconut milk",
+    "curry paste",
+    "chicken",
+    "shallots",
+    "lime",
+    "pickled mustard"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/khao-soi.webp",
+  "preparation_time": "35 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Soi Recipe | Authentic Thai soup",
+      "nl": "Khao Soi Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Khao Soi (ข้าวซอย) - Creamy coconut curry noodle soup with crispy noodles on top...",
+      "nl": "Leer over Khao Soi (ข้าวซอย) - Romige kokoscurry-noedelsoep met krokante noedels bovenop..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "soup",
+    "northern",
+    "medium",
+    "medium",
+    "budget",
+    "egg-noodles",
+    "coconut-milk",
+    "curry-paste"
+  ],
+  "cooking": {
+    "preparation_time": "35 minutes",
+    "difficulty": "medium",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

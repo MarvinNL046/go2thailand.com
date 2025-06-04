@@ -1,0 +1,63 @@
+{
+  "id": 12,
+  "slug": "boat-noodles",
+  "name": {
+    "en": "Boat Noodles",
+    "nl": "Boot Noedels",
+    "thai": "ก๋วยเตี๋ยวเรือ"
+  },
+  "category": "soup",
+  "region": "central",
+  "spice_level": "medium",
+  "description": {
+    "en": "Rich pork or beef noodle soup traditionally served in small portions",
+    "nl": "Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties"
+  },
+  "ingredients": [
+    "rice noodles",
+    "pork or beef",
+    "dark soy sauce",
+    "chinese five spice",
+    "morning glory",
+    "bean sprouts"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/boat-noodles.webp",
+  "preparation_time": "30 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Boat Noodles Recipe | Authentic Thai soup",
+      "nl": "Boot Noedels Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Boat Noodles (ก๋วยเตี๋ยวเรือ) - Rich pork or beef noodle soup traditionally served in small portions...",
+      "nl": "Leer over Boot Noedels (ก๋วยเตี๋ยวเรือ) - Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "soup",
+    "central",
+    "medium",
+    "medium",
+    "budget",
+    "rice-noodles",
+    "pork-or beef",
+    "dark-soy sauce"
+  ],
+  "cooking": {
+    "preparation_time": "30 minutes",
+    "difficulty": "medium",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": 33,
+  "slug": "nam-ngiao",
+  "name": {
+    "en": "Nam Ngiao",
+    "nl": "Nam Ngiao",
+    "thai": "น้ำเงี้ยว"
+  },
+  "category": "soup",
+  "region": "northern",
+  "spice_level": "medium",
+  "description": {
+    "en": "Northern noodle soup with pork blood and tomatoes",
+    "nl": "Noordelijke noedelsoep met varkensbloed en tomaten"
+  },
+  "ingredients": [
+    "rice noodles",
+    "pork ribs",
+    "tomatoes",
+    "fermented soybeans",
+    "pork blood",
+    "dried chili"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/nam-ngiao.webp",
+  "preparation_time": "45 minutes",
+  "difficulty": "hard",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Nam Ngiao Recipe | Authentic Thai soup",
+      "nl": "Nam Ngiao Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Nam Ngiao (น้ำเงี้ยว) - Northern noodle soup with pork blood and tomatoes...",
+      "nl": "Leer over Nam Ngiao (น้ำเงี้ยว) - Noordelijke noedelsoep met varkensbloed en tomaten..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "soup",
+    "northern",
+    "medium",
+    "hard",
+    "budget",
+    "rice-noodles",
+    "pork-ribs",
+    "tomatoes"
+  ],
+  "cooking": {
+    "preparation_time": "45 minutes",
+    "difficulty": "hard",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Nam Ngiao is a beloved soul-warming soup from northern Thailand that with a pleasant kick of heat. Northern noodle soup with pork blood and tomatoes. This hard recipe takes about 45 minutes to prepare and represents the authentic flavors of Northern Thai cuisine is characterized by milder flavors, sticky rice, and herbs. The combination of rice noodles, pork ribs, tomatoes creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Rice noodles",
+      "purpose": "Essential for authentic Nam Ngiao flavor",
+      "substitutes": [
+        "Fresh rice noodles",
+        "Dried rice noodles",
+        "rice noodles paste"
+      ]
+    },
+    {
+      "name": "Pork ribs",
+      "purpose": "Essential for authentic Nam Ngiao flavor",
+      "substitutes": [
+        "Fresh pork ribs",
+        "Dried pork ribs",
+        "pork ribs paste"
+      ]
+    },
+    {
+      "name": "Tomatoes",
+      "purpose": "Essential for authentic Nam Ngiao flavor",
+      "substitutes": [
+        "Fresh tomatoes",
+        "Dried tomatoes",
+        "tomatoes paste"
+      ]
+    },
+    {
+      "name": "Fermented soybeans",
+      "purpose": "Essential for authentic Nam Ngiao flavor",
+      "substitutes": [
+        "Fresh fermented soybeans",
+        "Dried fermented soybeans",
+        "fermented soybeans paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Simmering and layering flavors",
+    "steps_overview": "Preparing Nam Ngiao requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh rice noodles for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Nam Ngiao has been a staple of northern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of northern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Nam Ngiao Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Nam Ngiao Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Nam Ngiao",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served in a bowl in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local northern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

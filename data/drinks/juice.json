@@ -1,0 +1,32 @@
+{
+  "category": "juice",
+  "drinks": [
+    {
+      "id": 3,
+      "slug": "nam-manao",
+      "name": {
+        "en": "Fresh Lime Juice",
+        "nl": "Verse Limoensap",
+        "thai": "น้ำมะนาว"
+      }
+    },
+    {
+      "id": 15,
+      "slug": "sugarcane-juice",
+      "name": {
+        "en": "Sugarcane Juice",
+        "nl": "Suikerriet Sap",
+        "thai": "น้ำอ้อย"
+      }
+    },
+    {
+      "id": 22,
+      "slug": "nam-oy",
+      "name": {
+        "en": "Sugarcane Water",
+        "nl": "Suikerriet Water",
+        "thai": "น้ำอ้อย"
+      }
+    }
+  ]
+}

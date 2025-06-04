@@ -1,0 +1,67 @@
+{
+  "id": 32,
+  "slug": "khao-yam",
+  "name": {
+    "en": "Khao Yam",
+    "nl": "Khao Yam",
+    "thai": "ข้าวยำ"
+  },
+  "category": "salad",
+  "region": "southern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Southern Thai rice salad with herbs and coconut",
+    "nl": "Zuidelijke Thaise rijstsalade met kruiden en kokos"
+  },
+  "ingredients": [
+    "rice",
+    "coconut",
+    "herbs",
+    "dried shrimp",
+    "fish sauce",
+    "lime"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/khao-yam.webp",
+  "preparation_time": "30 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Yam Recipe | Authentic Thai salad",
+      "nl": "Khao Yam Recept | Authentieke Thaise salad"
+    },
+    "metaDescription": {
+      "en": "Learn about Khao Yam (ข้าวยำ) - Southern Thai rice salad with herbs and coconut...",
+      "nl": "Leer over Khao Yam (ข้าวยำ) - Zuidelijke Thaise rijstsalade met kruiden en kokos..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "salad",
+    "southern",
+    "mild",
+    "medium",
+    "budget",
+    "rice",
+    "coconut",
+    "herbs"
+  ],
+  "cooking": {
+    "preparation_time": "30 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

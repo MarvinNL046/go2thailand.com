@@ -1,0 +1,183 @@
+{
+  "id": 18,
+  "slug": "oh-aew",
+  "name": {
+    "en": "Oh Aew",
+    "nl": "Oh Aew",
+    "thai": "โอ้เอ๋ว"
+  },
+  "category": "dessert",
+  "region": "southern",
+  "spice_level": "none",
+  "description": {
+    "en": "Shaved ice dessert with jelly made from banana flour",
+    "nl": "IJsdessert met gelei van bananenmeel"
+  },
+  "ingredients": [
+    "banana flour jelly",
+    "shaved ice",
+    "syrup",
+    "coconut milk"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian"
+  ],
+  "image": "/images/food/oh-aew.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Oh Aew Recipe | Authentic Thai dessert",
+      "nl": "Oh Aew Recept | Authentieke Thaise dessert"
+    },
+    "metaDescription": {
+      "en": "Learn about Oh Aew (โอ้เอ๋ว) - Shaved ice dessert with jelly made from banana flour...",
+      "nl": "Leer over Oh Aew (โอ้เอ๋ว) - IJsdessert met gelei van bananenmeel..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "dessert",
+    "southern",
+    "easy",
+    "budget",
+    "banana-flour jelly",
+    "shaved-ice",
+    "syrup"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "spice_level": "none",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian"
+    ],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Oh Aew is Phuket's most beloved traditional dessert, a refreshing shaved ice treat that perfectly captures the essence of Southern Thai sweets. This colorful dessert features delicate jelly cubes made from banana flour (or sometimes rice flour), creating a unique chewy texture that contrasts beautifully with the fine shaved ice. The jellies are traditionally dyed in vibrant colors - red, green, and yellow - making it as visually appealing as it is delicious. Topped with sweet syrup and creamy coconut milk, Oh Aew offers a perfect balance of textures and a gentle sweetness that's never overwhelming. It's the ultimate cooling dessert for Phuket's tropical climate, often enjoyed at local markets or beachside stalls where the rhythmic sound of ice being shaved adds to the authentic experience.",
+  "detailed_ingredients": [
+    {
+      "name": "Banana Flour Jelly",
+      "purpose": "The signature component - creates chewy, translucent cubes with a subtle banana flavor",
+      "substitutes": [
+        "Rice flour jelly",
+        "Tapioca starch jelly",
+        "Agar jelly (different texture)"
+      ]
+    },
+    {
+      "name": "Shaved Ice",
+      "purpose": "Provides the cooling element and fluffy texture",
+      "substitutes": [
+        "Crushed ice (less fluffy)",
+        "Ice cream (modern variation)"
+      ]
+    },
+    {
+      "name": "Palm Sugar Syrup",
+      "purpose": "Adds caramel-like sweetness that complements the coconut",
+      "substitutes": [
+        "Simple syrup",
+        "Coconut sugar syrup",
+        "Honey (different flavor)"
+      ]
+    },
+    {
+      "name": "Coconut Milk",
+      "purpose": "Adds richness and creamy texture",
+      "substitutes": [
+        "Coconut cream (richer)",
+        "Evaporated milk (less traditional)",
+        "Condensed milk (sweeter)"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Boiling and setting jelly, then assembling with shaved ice",
+    "steps_overview": "Making Oh Aew requires patience for the jelly-making process. The banana flour is mixed with water and food coloring, then slowly cooked while stirring constantly to prevent lumps. Once thickened, it's poured into trays and left to set. The magic happens during assembly - the jellies are cut into small cubes and layered with freshly shaved ice.",
+    "cooking_tips": [
+      "Stir the flour mixture constantly to prevent lumps",
+      "Use natural food coloring from pandan or butterfly pea flowers",
+      "Let jelly cool completely before cutting for clean edges",
+      "Shave ice just before serving for best texture",
+      "Drizzle syrup evenly for consistent sweetness"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Oh Aew originated in Phuket over a century ago, brought by Hokkien Chinese immigrants who adapted their traditional desserts to local ingredients. The name 'Oh Aew' comes from the Hokkien dialect, reflecting Phuket's unique Peranakan heritage.",
+    "cultural_importance": "This dessert represents Phuket's multicultural identity, blending Chinese dessert-making techniques with Thai ingredients. It's a symbol of the island's Baba-Nyonya culture and remains a must-try for visitors wanting to taste authentic Phuket cuisine beyond the tourist areas.",
+    "traditional_occasions": [
+      "Vegetarian Festival treat",
+      "Summer afternoon refreshment",
+      "Local market specialty",
+      "School children's after-class snack"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Oh Aew Boran (Traditional)",
+      "description": "Made with only red and green jellies, using traditional banana flour"
+    },
+    {
+      "name": "Rainbow Oh Aew",
+      "description": "Modern version with multiple colored jellies for Instagram appeal"
+    },
+    {
+      "name": "Oh Aew Nam Kathi",
+      "description": "Extra rich version with coconut cream instead of milk"
+    },
+    {
+      "name": "Oh Aew Bingsu",
+      "description": "Fusion style with Korean shaved ice techniques and toppings"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Red beans (additional topping)",
+      "Grass jelly",
+      "Sweet corn kernels",
+      "Jackfruit strips"
+    ],
+    "presentation": "Served in a tall glass or bowl to show colorful layers, eaten with a spoon and straw",
+    "eating_etiquette": "Mix gently before eating to distribute syrup, best enjoyed immediately while ice is fluffy"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "150-200 calories",
+    "health_benefits": [
+      "Low in fat",
+      "Provides quick energy from natural sugars",
+      "Coconut milk contains beneficial MCTs",
+      "Hydrating in hot weather"
+    ],
+    "dietary_notes": [
+      "Naturally gluten-free",
+      "Vegan-friendly",
+      "Can reduce sugar for healthier version"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Phuket Old Town markets",
+      "Lock Tien Food Court",
+      "Chillva Market",
+      "Weekend Walking Street"
+    ],
+    "street_food_areas": [
+      "Ranong Road fresh market",
+      "Dowroong School area",
+      "Local neighborhood dessert carts"
+    ],
+    "price_ranges": {
+      "street_vendor": "20-30 THB",
+      "market_stall": "25-35 THB",
+      "restaurant": "40-60 THB"
+    }
+  }
+}

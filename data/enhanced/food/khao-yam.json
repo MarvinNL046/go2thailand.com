@@ -1,0 +1,176 @@
+{
+  "id": 32,
+  "slug": "khao-yam",
+  "name": {
+    "en": "Khao Yam",
+    "nl": "Khao Yam",
+    "thai": "ข้าวยำ"
+  },
+  "category": "salad",
+  "region": "southern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Southern Thai rice salad with herbs and coconut",
+    "nl": "Zuidelijke Thaise rijstsalade met kruiden en kokos"
+  },
+  "ingredients": [
+    "rice",
+    "coconut",
+    "herbs",
+    "dried shrimp",
+    "fish sauce",
+    "lime"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/khao-yam.webp",
+  "preparation_time": "30 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Yam Recipe | Authentic Thai salad",
+      "nl": "Khao Yam Recept | Authentieke Thaise salad"
+    },
+    "metaDescription": {
+      "en": "Learn about Khao Yam (ข้าวยำ) - Southern Thai rice salad with herbs and coconut...",
+      "nl": "Leer over Khao Yam (ข้าวยำ) - Zuidelijke Thaise rijstsalade met kruiden en kokos..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "salad",
+    "southern",
+    "mild",
+    "medium",
+    "budget",
+    "rice",
+    "coconut",
+    "herbs"
+  ],
+  "cooking": {
+    "preparation_time": "30 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Khao Yam is a beloved fresh and vibrant salad from southern Thailand that with a subtle warmth. Southern Thai rice salad with herbs and coconut. This medium recipe takes about 30 minutes to prepare and represents the authentic flavors of Southern Thai cuisine features intense spices, seafood, and coconut-based curries. The combination of rice, coconut, herbs creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Rice",
+      "purpose": "Essential for authentic Khao Yam flavor",
+      "substitutes": [
+        "Fresh rice",
+        "Dried rice",
+        "rice paste"
+      ]
+    },
+    {
+      "name": "Coconut",
+      "purpose": "Essential for authentic Khao Yam flavor",
+      "substitutes": [
+        "Fresh coconut",
+        "Dried coconut",
+        "coconut paste"
+      ]
+    },
+    {
+      "name": "Herbs",
+      "purpose": "Essential for authentic Khao Yam flavor",
+      "substitutes": [
+        "Fresh herbs",
+        "Dried herbs",
+        "herbs paste"
+      ]
+    },
+    {
+      "name": "Dried shrimp",
+      "purpose": "Essential for authentic Khao Yam flavor",
+      "substitutes": [
+        "Fresh dried shrimp",
+        "Dried dried shrimp",
+        "dried shrimp paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Fresh preparation and mixing",
+    "steps_overview": "Preparing Khao Yam requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh rice for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Khao Yam has been a staple of southern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of southern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Khao Yam Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Khao Yam Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Khao Yam",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local southern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": 30,
+  "slug": "tom-som-pla",
+  "name": {
+    "en": "Tom Som Pla",
+    "nl": "Tom Som Pla",
+    "thai": "ต้มส้มปลา"
+  },
+  "category": "soup",
+  "region": "southern",
+  "spice_level": "medium",
+  "description": {
+    "en": "Sour and spicy fish soup with turmeric",
+    "nl": "Zure en pittige vissoep met kurkuma"
+  },
+  "ingredients": [
+    "fish",
+    "turmeric",
+    "tamarind",
+    "chili",
+    "shallots",
+    "lemongrass"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/tom-som-pla.webp",
+  "preparation_time": "25 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Tom Som Pla Recipe | Authentic Thai soup",
+      "nl": "Tom Som Pla Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Tom Som Pla (ต้มส้มปลา) - Sour and spicy fish soup with turmeric...",
+      "nl": "Leer over Tom Som Pla (ต้มส้มปลา) - Zure en pittige vissoep met kurkuma..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "soup",
+    "southern",
+    "medium",
+    "medium",
+    "budget",
+    "fish",
+    "turmeric",
+    "tamarind"
+  ],
+  "cooking": {
+    "preparation_time": "25 minutes",
+    "difficulty": "medium",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

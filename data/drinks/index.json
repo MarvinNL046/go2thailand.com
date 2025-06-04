@@ -1,0 +1,299 @@
+{
+  "total": 25,
+  "categories": [
+    "tea",
+    "coffee",
+    "juice",
+    "herbal",
+    "alcohol",
+    "natural",
+    "mocktail",
+    "soda",
+    "milk"
+  ],
+  "types": [
+    "cold",
+    "both",
+    "neat",
+    "mixed",
+    "room",
+    "hot"
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "slug": "thai-iced-tea",
+      "name": {
+        "en": "Thai Iced Tea",
+        "nl": "Thaise IJsthee",
+        "thai": "ชาเย็น"
+      },
+      "category": "tea",
+      "type": "cold"
+    },
+    {
+      "id": 2,
+      "slug": "thai-iced-coffee",
+      "name": {
+        "en": "Thai Iced Coffee",
+        "nl": "Thaise IJskoffie",
+        "thai": "กาแฟเย็น"
+      },
+      "category": "coffee",
+      "type": "cold"
+    },
+    {
+      "id": 3,
+      "slug": "nam-manao",
+      "name": {
+        "en": "Fresh Lime Juice",
+        "nl": "Verse Limoensap",
+        "thai": "น้ำมะนาว"
+      },
+      "category": "juice",
+      "type": "cold"
+    },
+    {
+      "id": 4,
+      "slug": "nam-bai-makrut",
+      "name": {
+        "en": "Kaffir Lime Juice",
+        "nl": "Kaffir Limoensap",
+        "thai": "น้ำใบมะกรูด"
+      },
+      "category": "herbal",
+      "type": "cold"
+    },
+    {
+      "id": 5,
+      "slug": "nam-krajiab",
+      "name": {
+        "en": "Roselle Juice",
+        "nl": "Hibiscus Sap",
+        "thai": "น้ำกระเจี๊ยบ"
+      },
+      "category": "herbal",
+      "type": "both"
+    },
+    {
+      "id": 6,
+      "slug": "nam-matoom",
+      "name": {
+        "en": "Bael Fruit Juice",
+        "nl": "Bael Vruchtensap",
+        "thai": "น้ำมะตูม"
+      },
+      "category": "herbal",
+      "type": "both"
+    },
+    {
+      "id": 7,
+      "slug": "nam-anchan",
+      "name": {
+        "en": "Butterfly Pea Tea",
+        "nl": "Vlindererwt Thee",
+        "thai": "น้ำอัญชัน"
+      },
+      "category": "herbal",
+      "type": "both"
+    },
+    {
+      "id": 8,
+      "slug": "singha-beer",
+      "name": {
+        "en": "Singha Beer",
+        "nl": "Singha Bier",
+        "thai": "เบียร์สิงห์"
+      },
+      "category": "alcohol",
+      "type": "cold"
+    },
+    {
+      "id": 9,
+      "slug": "chang-beer",
+      "name": {
+        "en": "Chang Beer",
+        "nl": "Chang Bier",
+        "thai": "เบียร์ช้าง"
+      },
+      "category": "alcohol",
+      "type": "cold"
+    },
+    {
+      "id": 10,
+      "slug": "leo-beer",
+      "name": {
+        "en": "Leo Beer",
+        "nl": "Leo Bier",
+        "thai": "เบียร์ลีโอ"
+      },
+      "category": "alcohol",
+      "type": "cold"
+    },
+    {
+      "id": 11,
+      "slug": "mekong-whisky",
+      "name": {
+        "en": "Mekong Whisky",
+        "nl": "Mekong Whisky",
+        "thai": "แม่โขง"
+      },
+      "category": "alcohol",
+      "type": "neat"
+    },
+    {
+      "id": 12,
+      "slug": "sangsom-rum",
+      "name": {
+        "en": "SangSom Rum",
+        "nl": "SangSom Rum",
+        "thai": "แสงโสม"
+      },
+      "category": "alcohol",
+      "type": "mixed"
+    },
+    {
+      "id": 13,
+      "slug": "sato",
+      "name": {
+        "en": "Sato Rice Wine",
+        "nl": "Sato Rijstwijn",
+        "thai": "สาโท"
+      },
+      "category": "alcohol",
+      "type": "room"
+    },
+    {
+      "id": 14,
+      "slug": "coconut-water",
+      "name": {
+        "en": "Fresh Coconut Water",
+        "nl": "Vers Kokoswater",
+        "thai": "น้ำมะพร้าว"
+      },
+      "category": "natural",
+      "type": "cold"
+    },
+    {
+      "id": 15,
+      "slug": "sugarcane-juice",
+      "name": {
+        "en": "Sugarcane Juice",
+        "nl": "Suikerriet Sap",
+        "thai": "น้ำอ้อย"
+      },
+      "category": "juice",
+      "type": "cold"
+    },
+    {
+      "id": 16,
+      "slug": "nam-dok-anchan-manao",
+      "name": {
+        "en": "Blue Lemonade",
+        "nl": "Blauwe Limonade",
+        "thai": "น้ำดอกอัญชันมะนาว"
+      },
+      "category": "mocktail",
+      "type": "cold"
+    },
+    {
+      "id": 17,
+      "slug": "thai-milk-tea",
+      "name": {
+        "en": "Thai Milk Tea",
+        "nl": "Thaise Melkthee",
+        "thai": "ชานม"
+      },
+      "category": "tea",
+      "type": "hot"
+    },
+    {
+      "id": 18,
+      "slug": "ginger-tea",
+      "name": {
+        "en": "Ginger Tea",
+        "nl": "Gember Thee",
+        "thai": "ชาขิง"
+      },
+      "category": "herbal",
+      "type": "hot"
+    },
+    {
+      "id": 19,
+      "slug": "lemongrass-tea",
+      "name": {
+        "en": "Lemongrass Tea",
+        "nl": "Citroengras Thee",
+        "thai": "ชาตะไคร้"
+      },
+      "category": "herbal",
+      "type": "hot"
+    },
+    {
+      "id": 20,
+      "slug": "chrysanthemum-tea",
+      "name": {
+        "en": "Chrysanthemum Tea",
+        "nl": "Chrysanten Thee",
+        "thai": "ชาเก๊กฮวย"
+      },
+      "category": "herbal",
+      "type": "both"
+    },
+    {
+      "id": 21,
+      "slug": "sala-syrup-soda",
+      "name": {
+        "en": "Sala Syrup Soda",
+        "nl": "Sala Siroop Soda",
+        "thai": "น้ำแดงโซดา"
+      },
+      "category": "soda",
+      "type": "cold"
+    },
+    {
+      "id": 22,
+      "slug": "nam-oy",
+      "name": {
+        "en": "Sugarcane Water",
+        "nl": "Suikerriet Water",
+        "thai": "น้ำอ้อย"
+      },
+      "category": "juice",
+      "type": "cold"
+    },
+    {
+      "id": 23,
+      "slug": "oliang",
+      "name": {
+        "en": "Thai Black Coffee",
+        "nl": "Thaise Zwarte Koffie",
+        "thai": "โอเลี้ยง"
+      },
+      "category": "coffee",
+      "type": "both"
+    },
+    {
+      "id": 24,
+      "slug": "nom-yen",
+      "name": {
+        "en": "Pink Milk",
+        "nl": "Roze Melk",
+        "thai": "นมเย็น"
+      },
+      "category": "milk",
+      "type": "cold"
+    },
+    {
+      "id": 25,
+      "slug": "manao-soda",
+      "name": {
+        "en": "Lime Soda",
+        "nl": "Limoen Soda",
+        "thai": "มะนาวโซดา"
+      },
+      "category": "soda",
+      "type": "cold"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 13,
+  "slug": "sato",
+  "name": {
+    "en": "Sato Rice Wine",
+    "nl": "Sato Rijstwijn",
+    "thai": "สาโท"
+  },
+  "category": "alcohol",
+  "type": "room",
+  "description": {
+    "en": "Traditional northeastern rice wine",
+    "nl": "Traditionele noordoostelijke rijstwijn"
+  },
+  "ingredients": [
+    "glutinous rice",
+    "yeast herbs"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/drinks/sato.webp",
+  "temperature": "room",
+  "alcohol_content": "10-15%",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "northeastern",
+  "occasions": [
+    "festivals",
+    "ceremonies"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Sato Rice Wine Recipe | Authentic Thai alcohol",
+      "nl": "Sato Rijstwijn Recept | Authentieke Thaise alcohol"
+    },
+    "metaDescription": {
+      "en": "Learn about Sato Rice Wine (สาโท) - Traditional northeastern rice wine",
+      "nl": "Leer over Sato Rijstwijn (สาโท) - Traditionele noordoostelijke rijstwijn"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "alcohol",
+    "room",
+    "room",
+    "festivals",
+    "ceremonies"
+  ]
+}

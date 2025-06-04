@@ -1,0 +1,67 @@
+{
+  "id": 25,
+  "slug": "khao-pad-sapparot",
+  "name": {
+    "en": "Khao Pad Sapparot",
+    "nl": "Khao Pad Sapparot",
+    "thai": "ข้าวผัดสับปะรด"
+  },
+  "category": "main-dish",
+  "region": "central",
+  "spice_level": "mild",
+  "description": {
+    "en": "Pineapple fried rice served in pineapple shell",
+    "nl": "Ananas gebakken rijst geserveerd in ananasschil"
+  },
+  "ingredients": [
+    "rice",
+    "pineapple",
+    "shrimp",
+    "cashew nuts",
+    "curry powder",
+    "raisins"
+  ],
+  "allergens": [
+    "nuts seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/khao-pad-sapparot.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "medium",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Pad Sapparot Recipe | Authentic Thai main dish",
+      "nl": "Khao Pad Sapparot Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Khao Pad Sapparot (ข้าวผัดสับปะรด) - Pineapple fried rice served in pineapple shell...",
+      "nl": "Leer over Khao Pad Sapparot (ข้าวผัดสับปะรด) - Ananas gebakken rijst geserveerd in ananasschil..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "central",
+    "mild",
+    "medium",
+    "mid-range",
+    "rice",
+    "pineapple",
+    "shrimp"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "nuts seafood"
+    ],
+    "dietary": [],
+    "price_range": "mid-range"
+  }
+}

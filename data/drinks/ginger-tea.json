@@ -1,0 +1,53 @@
+{
+  "id": 18,
+  "slug": "ginger-tea",
+  "name": {
+    "en": "Ginger Tea",
+    "nl": "Gember Thee",
+    "thai": "ชาขิง"
+  },
+  "category": "herbal",
+  "type": "hot",
+  "description": {
+    "en": "Spicy ginger tea for digestion and cold relief",
+    "nl": "Pittige gemberthee voor spijsvertering en verkoudheid"
+  },
+  "ingredients": [
+    "fresh ginger",
+    "honey",
+    "lime"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan"
+  ],
+  "image": "/images/drinks/ginger-tea.webp",
+  "temperature": "hot",
+  "alcohol_content": "none",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "all",
+  "occasions": [
+    "health",
+    "cold weather"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Ginger Tea Recipe | Authentic Thai herbal",
+      "nl": "Gember Thee Recept | Authentieke Thaise herbal"
+    },
+    "metaDescription": {
+      "en": "Learn about Ginger Tea (ชาขิง) - Spicy ginger tea for digestion and cold relief",
+      "nl": "Leer over Gember Thee (ชาขิง) - Pittige gemberthee voor spijsvertering en verkoudheid"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "herbal",
+    "hot",
+    "hot",
+    "health",
+    "cold-weather"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 16,
+  "slug": "nam-dok-anchan-manao",
+  "name": {
+    "en": "Blue Lemonade",
+    "nl": "Blauwe Limonade",
+    "thai": "น้ำดอกอัญชันมะนาว"
+  },
+  "category": "mocktail",
+  "type": "cold",
+  "description": {
+    "en": "Butterfly pea flower lemonade that changes color",
+    "nl": "Vlindererwt bloem limonade die van kleur verandert"
+  },
+  "ingredients": [
+    "butterfly pea flowers",
+    "lime juice",
+    "sugar",
+    "soda water"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan"
+  ],
+  "image": "/images/drinks/blue-lemonade.webp",
+  "temperature": "cold",
+  "alcohol_content": "none",
+  "caffeine": "none",
+  "price_range": "mid-range",
+  "region": "modern",
+  "occasions": [
+    "instagram",
+    "trendy cafes"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Blue Lemonade Recipe | Authentic Thai mocktail",
+      "nl": "Blauwe Limonade Recept | Authentieke Thaise mocktail"
+    },
+    "metaDescription": {
+      "en": "Learn about Blue Lemonade (น้ำดอกอัญชันมะนาว) - Butterfly pea flower lemonade that changes color",
+      "nl": "Leer over Blauwe Limonade (น้ำดอกอัญชันมะนาว) - Vlindererwt bloem limonade die van kleur verandert"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "mocktail",
+    "cold",
+    "cold",
+    "instagram",
+    "trendy-cafes"
+  ]
+}

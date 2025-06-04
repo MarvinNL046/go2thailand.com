@@ -1,0 +1,54 @@
+{
+  "id": 4,
+  "slug": "nam-bai-makrut",
+  "name": {
+    "en": "Kaffir Lime Juice",
+    "nl": "Kaffir Limoensap",
+    "thai": "น้ำใบมะกรูด"
+  },
+  "category": "herbal",
+  "type": "cold",
+  "description": {
+    "en": "Refreshing drink made from kaffir lime leaves",
+    "nl": "Verfrissende drank gemaakt van kaffir limoenbladeren"
+  },
+  "ingredients": [
+    "kaffir lime leaves",
+    "sugar",
+    "water",
+    "ice"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan"
+  ],
+  "image": "/images/drinks/nam-bai-makrut.webp",
+  "temperature": "cold",
+  "alcohol_content": "none",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "central",
+  "occasions": [
+    "health drink",
+    "detox"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Kaffir Lime Juice Recipe | Authentic Thai herbal",
+      "nl": "Kaffir Limoensap Recept | Authentieke Thaise herbal"
+    },
+    "metaDescription": {
+      "en": "Learn about Kaffir Lime Juice (น้ำใบมะกรูด) - Refreshing drink made from kaffir lime leaves",
+      "nl": "Leer over Kaffir Limoensap (น้ำใบมะกรูด) - Verfrissende drank gemaakt van kaffir limoenbladeren"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "herbal",
+    "cold",
+    "cold",
+    "health-drink",
+    "detox"
+  ]
+}

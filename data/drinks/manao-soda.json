@@ -1,0 +1,55 @@
+{
+  "id": 25,
+  "slug": "manao-soda",
+  "name": {
+    "en": "Lime Soda",
+    "nl": "Limoen Soda",
+    "thai": "มะนาวโซดา"
+  },
+  "category": "soda",
+  "type": "cold",
+  "description": {
+    "en": "Fresh lime juice with soda water",
+    "nl": "Vers limoensap met sodawater"
+  },
+  "ingredients": [
+    "lime juice",
+    "soda water",
+    "sugar",
+    "salt",
+    "ice"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan"
+  ],
+  "image": "/images/drinks/manao-soda.webp",
+  "temperature": "cold",
+  "alcohol_content": "none",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "all",
+  "occasions": [
+    "meals",
+    "refreshment"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Lime Soda Recipe | Authentic Thai soda",
+      "nl": "Limoen Soda Recept | Authentieke Thaise soda"
+    },
+    "metaDescription": {
+      "en": "Learn about Lime Soda (มะนาวโซดา) - Fresh lime juice with soda water",
+      "nl": "Leer over Limoen Soda (มะนาวโซดา) - Vers limoensap met sodawater"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "soda",
+    "cold",
+    "cold",
+    "meals",
+    "refreshment"
+  ]
+}

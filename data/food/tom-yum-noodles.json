@@ -1,0 +1,67 @@
+{
+  "id": 27,
+  "slug": "tom-yum-noodles",
+  "name": {
+    "en": "Tom Yum Noodles",
+    "nl": "Tom Yum Noedels",
+    "thai": "ก๋วยเตี๋ยวต้มยำ"
+  },
+  "category": "soup",
+  "region": "central",
+  "spice_level": "hot",
+  "description": {
+    "en": "Spicy and sour noodle soup with fish balls",
+    "nl": "Pittige en zure noedelsoep met visballen"
+  },
+  "ingredients": [
+    "rice noodles",
+    "fish balls",
+    "lime juice",
+    "chili",
+    "lemongrass",
+    "mushrooms"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/tom-yum-noodles.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Tom Yum Noodles Recipe | Authentic Thai soup",
+      "nl": "Tom Yum Noedels Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Tom Yum Noodles (ก๋วยเตี๋ยวต้มยำ) - Spicy and sour noodle soup with fish balls...",
+      "nl": "Leer over Tom Yum Noedels (ก๋วยเตี๋ยวต้มยำ) - Pittige en zure noedelsoep met visballen..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "soup",
+    "central",
+    "hot",
+    "easy",
+    "budget",
+    "rice-noodles",
+    "fish-balls",
+    "lime-juice"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

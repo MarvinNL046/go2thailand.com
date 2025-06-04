@@ -1,0 +1,63 @@
+{
+  "id": 31,
+  "slug": "gai-tod-hat-yai",
+  "name": {
+    "en": "Gai Tod Hat Yai",
+    "nl": "Gai Tod Hat Yai",
+    "thai": "ไก่ทอดหาดใหญ่"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Hat Yai style fried chicken with crispy shallots",
+    "nl": "Hat Yai stijl gefrituurde kip met krokante sjalotten"
+  },
+  "ingredients": [
+    "chicken",
+    "shallots",
+    "garlic",
+    "white pepper",
+    "fish sauce",
+    "rice flour"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/gai-tod-hat-yai.webp",
+  "preparation_time": "40 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Gai Tod Hat Yai Recipe | Authentic Thai main dish",
+      "nl": "Gai Tod Hat Yai Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai style fried chicken with crispy shallots...",
+      "nl": "Leer over Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai stijl gefrituurde kip met krokante sjalotten..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "mild",
+    "medium",
+    "budget",
+    "chicken",
+    "shallots",
+    "garlic"
+  ],
+  "cooking": {
+    "preparation_time": "40 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

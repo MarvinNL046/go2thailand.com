@@ -1,0 +1,68 @@
+{
+  "category": "herbal",
+  "drinks": [
+    {
+      "id": 4,
+      "slug": "nam-bai-makrut",
+      "name": {
+        "en": "Kaffir Lime Juice",
+        "nl": "Kaffir Limoensap",
+        "thai": "น้ำใบมะกรูด"
+      }
+    },
+    {
+      "id": 5,
+      "slug": "nam-krajiab",
+      "name": {
+        "en": "Roselle Juice",
+        "nl": "Hibiscus Sap",
+        "thai": "น้ำกระเจี๊ยบ"
+      }
+    },
+    {
+      "id": 6,
+      "slug": "nam-matoom",
+      "name": {
+        "en": "Bael Fruit Juice",
+        "nl": "Bael Vruchtensap",
+        "thai": "น้ำมะตูม"
+      }
+    },
+    {
+      "id": 7,
+      "slug": "nam-anchan",
+      "name": {
+        "en": "Butterfly Pea Tea",
+        "nl": "Vlindererwt Thee",
+        "thai": "น้ำอัญชัน"
+      }
+    },
+    {
+      "id": 18,
+      "slug": "ginger-tea",
+      "name": {
+        "en": "Ginger Tea",
+        "nl": "Gember Thee",
+        "thai": "ชาขิง"
+      }
+    },
+    {
+      "id": 19,
+      "slug": "lemongrass-tea",
+      "name": {
+        "en": "Lemongrass Tea",
+        "nl": "Citroengras Thee",
+        "thai": "ชาตะไคร้"
+      }
+    },
+    {
+      "id": 20,
+      "slug": "chrysanthemum-tea",
+      "name": {
+        "en": "Chrysanthemum Tea",
+        "nl": "Chrysanten Thee",
+        "thai": "ชาเก๊กฮวย"
+      }
+    }
+  ]
+}

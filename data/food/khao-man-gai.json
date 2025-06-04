@@ -1,0 +1,64 @@
+{
+  "id": 11,
+  "slug": "khao-man-gai",
+  "name": {
+    "en": "Khao Man Gai",
+    "nl": "Khao Man Gai",
+    "thai": "ข้าวมันไก่"
+  },
+  "category": "main-dish",
+  "region": "central",
+  "spice_level": "mild",
+  "description": {
+    "en": "Steamed chicken with rice cooked in chicken broth and ginger-chili sauce",
+    "nl": "Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus"
+  },
+  "ingredients": [
+    "chicken",
+    "rice",
+    "ginger",
+    "garlic",
+    "coriander",
+    "cucumber",
+    "soybean paste"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/khao-man-gai.webp",
+  "preparation_time": "45 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Man Gai Recipe | Authentic Thai main dish",
+      "nl": "Khao Man Gai Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Khao Man Gai (ข้าวมันไก่) - Steamed chicken with rice cooked in chicken broth and ginger-chili sauce...",
+      "nl": "Leer over Khao Man Gai (ข้าวมันไก่) - Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "central",
+    "mild",
+    "medium",
+    "budget",
+    "chicken",
+    "rice",
+    "ginger"
+  ],
+  "cooking": {
+    "preparation_time": "45 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

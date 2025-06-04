@@ -1,0 +1,68 @@
+{
+  "id": 24,
+  "slug": "yam-woon-sen",
+  "name": {
+    "en": "Yam Woon Sen",
+    "nl": "Yam Woon Sen",
+    "thai": "ยำวุ้นเส้น"
+  },
+  "category": "salad",
+  "region": "central",
+  "spice_level": "medium",
+  "description": {
+    "en": "Glass noodle salad with shrimp and ground pork",
+    "nl": "Glasnoedelsalade met garnalen en varkensgehakt"
+  },
+  "ingredients": [
+    "glass noodles",
+    "shrimp",
+    "ground pork",
+    "tomatoes",
+    "onion",
+    "cilantro",
+    "lime juice"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/yam-woon-sen.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Yam Woon Sen Recipe | Authentic Thai salad",
+      "nl": "Yam Woon Sen Recept | Authentieke Thaise salad"
+    },
+    "metaDescription": {
+      "en": "Learn about Yam Woon Sen (ยำวุ้นเส้น) - Glass noodle salad with shrimp and ground pork...",
+      "nl": "Leer over Yam Woon Sen (ยำวุ้นเส้น) - Glasnoedelsalade met garnalen en varkensgehakt..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "salad",
+    "central",
+    "medium",
+    "easy",
+    "budget",
+    "glass-noodles",
+    "shrimp",
+    "ground-pork"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "easy",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

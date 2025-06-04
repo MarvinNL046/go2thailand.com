@@ -132,5 +132,140 @@
       "dietary": [],
       "price_range": "mid-range"
     }
+  },
+  {
+    "id": 16,
+    "slug": "gaeng-hang-lay",
+    "name": {
+      "en": "Gaeng Hang Lay",
+      "nl": "Gaeng Hang Lay",
+      "thai": "แกงฮังเล"
+    },
+    "category": "curry",
+    "region": "northern",
+    "spice_level": "mild",
+    "description": {
+      "en": "Mild curry with pork belly and Burmese influences",
+      "nl": "Milde curry met varkensbuik en Birmese invloeden"
+    },
+    "ingredients": [
+      "pork belly",
+      "shallots",
+      "garlic",
+      "ginger",
+      "tamarind",
+      "peanuts",
+      "palm sugar"
+    ],
+    "allergens": [
+      "nuts"
+    ],
+    "dietary": [],
+    "image": "/images/food/gaeng-hang-lay.webp",
+    "preparation_time": "90 minutes",
+    "difficulty": "medium",
+    "price_range": "mid-range",
+    "seo": {
+      "metaTitle": {
+        "en": "Gaeng Hang Lay Recipe | Authentic Thai curry",
+        "nl": "Gaeng Hang Lay Recept | Authentieke Thaise curry"
+      },
+      "metaDescription": {
+        "en": "Learn about Gaeng Hang Lay (แกงฮังเล) - Mild curry with pork belly and Burmese influences...",
+        "nl": "Leer over Gaeng Hang Lay (แกงฮังเล) - Milde curry met varkensbuik en Birmese invloeden..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "curry",
+      "northern",
+      "mild",
+      "medium",
+      "mid-range",
+      "pork-belly",
+      "shallots",
+      "garlic"
+    ],
+    "cooking": {
+      "preparation_time": "90 minutes",
+      "difficulty": "medium",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "nuts"
+      ],
+      "dietary": [],
+      "price_range": "mid-range"
+    }
+  },
+  {
+    "id": 44,
+    "slug": "gaeng-tai-pla",
+    "name": {
+      "en": "Gaeng Tai Pla",
+      "nl": "Gaeng Tai Pla",
+      "thai": "แกงไตปลา"
+    },
+    "category": "curry",
+    "region": "southern",
+    "spice_level": "very hot",
+    "description": {
+      "en": "Intensely spicy southern fish organ curry",
+      "nl": "Intens pittige zuidelijke visorganen curry"
+    },
+    "ingredients": [
+      "fish organs",
+      "chili",
+      "lemongrass",
+      "turmeric",
+      "vegetables",
+      "fish sauce"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/gaeng-tai-pla.webp",
+    "preparation_time": "40 minutes",
+    "difficulty": "hard",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Gaeng Tai Pla Recipe | Authentic Thai curry",
+        "nl": "Gaeng Tai Pla Recept | Authentieke Thaise curry"
+      },
+      "metaDescription": {
+        "en": "Learn about Gaeng Tai Pla (แกงไตปลา) - Intensely spicy southern fish organ curry...",
+        "nl": "Leer over Gaeng Tai Pla (แกงไตปลา) - Intens pittige zuidelijke visorganen curry..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "curry",
+      "southern",
+      "very hot",
+      "hard",
+      "budget",
+      "fish-organs",
+      "chili",
+      "lemongrass"
+    ],
+    "cooking": {
+      "preparation_time": "40 minutes",
+      "difficulty": "hard",
+      "spice_level": "very hot",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "seafood"
+      ],
+      "dietary": [],
+      "price_range": "budget"
+    }
   }
 ]

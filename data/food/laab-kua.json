@@ -1,0 +1,62 @@
+{
+  "id": 34,
+  "slug": "laab-kua",
+  "name": {
+    "en": "Laab Kua",
+    "nl": "Laab Kua",
+    "thai": "ลาบคั่ว"
+  },
+  "category": "salad",
+  "region": "northern",
+  "spice_level": "hot",
+  "description": {
+    "en": "Northern style meat salad with spices and herbs",
+    "nl": "Noordelijke stijl vleessalade met specerijen en kruiden"
+  },
+  "ingredients": [
+    "minced pork or beef",
+    "dried spices",
+    "herbs",
+    "lime juice",
+    "fish sauce"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/laab-kua.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Laab Kua Recipe | Authentic Thai salad",
+      "nl": "Laab Kua Recept | Authentieke Thaise salad"
+    },
+    "metaDescription": {
+      "en": "Learn about Laab Kua (ลาบคั่ว) - Northern style meat salad with spices and herbs...",
+      "nl": "Leer over Laab Kua (ลาบคั่ว) - Noordelijke stijl vleessalade met specerijen en kruiden..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "salad",
+    "northern",
+    "hot",
+    "medium",
+    "budget",
+    "minced-pork or beef",
+    "dried-spices",
+    "herbs"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

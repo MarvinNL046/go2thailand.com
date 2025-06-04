@@ -1,0 +1,67 @@
+{
+  "id": 44,
+  "slug": "gaeng-tai-pla",
+  "name": {
+    "en": "Gaeng Tai Pla",
+    "nl": "Gaeng Tai Pla",
+    "thai": "แกงไตปลา"
+  },
+  "category": "curry",
+  "region": "southern",
+  "spice_level": "very hot",
+  "description": {
+    "en": "Intensely spicy southern fish organ curry",
+    "nl": "Intens pittige zuidelijke visorganen curry"
+  },
+  "ingredients": [
+    "fish organs",
+    "chili",
+    "lemongrass",
+    "turmeric",
+    "vegetables",
+    "fish sauce"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/gaeng-tai-pla.webp",
+  "preparation_time": "40 minutes",
+  "difficulty": "hard",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Gaeng Tai Pla Recipe | Authentic Thai curry",
+      "nl": "Gaeng Tai Pla Recept | Authentieke Thaise curry"
+    },
+    "metaDescription": {
+      "en": "Learn about Gaeng Tai Pla (แกงไตปลา) - Intensely spicy southern fish organ curry...",
+      "nl": "Leer over Gaeng Tai Pla (แกงไตปลา) - Intens pittige zuidelijke visorganen curry..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "curry",
+    "southern",
+    "very hot",
+    "hard",
+    "budget",
+    "fish-organs",
+    "chili",
+    "lemongrass"
+  ],
+  "cooking": {
+    "preparation_time": "40 minutes",
+    "difficulty": "hard",
+    "spice_level": "very hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

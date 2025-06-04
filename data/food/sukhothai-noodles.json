@@ -1,0 +1,67 @@
+{
+  "id": 39,
+  "slug": "sukhothai-noodles",
+  "name": {
+    "en": "Sukhothai Noodles",
+    "nl": "Sukhothai Noedels",
+    "thai": "ก๋วยเตี๋ยวสุโขทัย"
+  },
+  "category": "soup",
+  "region": "northern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Sukhothai style noodles with ground peanuts",
+    "nl": "Sukhothai stijl noedels met gemalen pinda's"
+  },
+  "ingredients": [
+    "rice noodles",
+    "pork",
+    "ground peanuts",
+    "green beans",
+    "lime",
+    "fish sauce"
+  ],
+  "allergens": [
+    "nuts"
+  ],
+  "dietary": [],
+  "image": "/images/food/sukhothai-noodles.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Sukhothai Noodles Recipe | Authentic Thai soup",
+      "nl": "Sukhothai Noedels Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Sukhothai Noodles (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai style noodles with ground peanuts...",
+      "nl": "Leer over Sukhothai Noedels (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai stijl noedels met gemalen pinda's..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "soup",
+    "northern",
+    "mild",
+    "easy",
+    "budget",
+    "rice-noodles",
+    "pork",
+    "ground-peanuts"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "easy",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "nuts"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

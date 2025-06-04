@@ -208,5 +208,761 @@
       "fish sauce",
       "garlic"
     ]
+  },
+  {
+    "id": 11,
+    "slug": "khao-man-gai",
+    "name": {
+      "en": "Khao Man Gai",
+      "nl": "Khao Man Gai",
+      "thai": "ข้าวมันไก่"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "mild",
+    "image": "/images/food/khao-man-gai.webp",
+    "difficulty": "medium",
+    "preparation_time": "45 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "chicken",
+      "rice",
+      "ginger"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "boat-noodles",
+    "name": {
+      "en": "Boat Noodles",
+      "nl": "Boot Noedels",
+      "thai": "ก๋วยเตี๋ยวเรือ"
+    },
+    "category": "soup",
+    "region": "central",
+    "spice_level": "medium",
+    "image": "/images/food/boat-noodles.webp",
+    "difficulty": "medium",
+    "preparation_time": "30 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "rice noodles",
+      "pork or beef",
+      "dark soy sauce"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "khao-soi",
+    "name": {
+      "en": "Khao Soi",
+      "nl": "Khao Soi",
+      "thai": "ข้าวซอย"
+    },
+    "category": "soup",
+    "region": "northern",
+    "spice_level": "medium",
+    "image": "/images/food/khao-soi.webp",
+    "difficulty": "medium",
+    "preparation_time": "35 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "egg noodles",
+      "coconut milk",
+      "curry paste"
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "sai-ua",
+    "name": {
+      "en": "Sai Ua",
+      "nl": "Sai Ua",
+      "thai": "ไส้อั่ว"
+    },
+    "category": "main-dish",
+    "region": "northern",
+    "spice_level": "hot",
+    "image": "/images/food/sai-ua.webp",
+    "difficulty": "hard",
+    "preparation_time": "60 minutes",
+    "price_range": "mid-range",
+    "ingredients": [
+      "pork",
+      "lemongrass",
+      "kaffir lime leaves"
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "nam-prik-ong",
+    "name": {
+      "en": "Nam Prik Ong",
+      "nl": "Nam Prik Ong",
+      "thai": "น้ำพริกอ่อง"
+    },
+    "category": "main-dish",
+    "region": "northern",
+    "spice_level": "medium",
+    "image": "/images/food/nam-prik-ong.webp",
+    "difficulty": "easy",
+    "preparation_time": "25 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "tomatoes",
+      "minced pork",
+      "shallots"
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "gaeng-hang-lay",
+    "name": {
+      "en": "Gaeng Hang Lay",
+      "nl": "Gaeng Hang Lay",
+      "thai": "แกงฮังเล"
+    },
+    "category": "curry",
+    "region": "northern",
+    "spice_level": "mild",
+    "image": "/images/food/gaeng-hang-lay.webp",
+    "difficulty": "medium",
+    "preparation_time": "90 minutes",
+    "price_range": "mid-range",
+    "ingredients": [
+      "pork belly",
+      "shallots",
+      "garlic"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "mee-hokkien",
+    "name": {
+      "en": "Mee Hokkien",
+      "nl": "Mee Hokkien",
+      "thai": "หมี่ฮกเกี้ยน"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "mild",
+    "image": "/images/food/mee-hokkien.webp",
+    "difficulty": "medium",
+    "preparation_time": "20 minutes",
+    "price_range": "mid-range",
+    "ingredients": [
+      "yellow noodles",
+      "shrimp",
+      "squid"
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "oh-aew",
+    "name": {
+      "en": "Oh Aew",
+      "nl": "Oh Aew",
+      "thai": "โอ้เอ๋ว"
+    },
+    "category": "dessert",
+    "region": "southern",
+    "spice_level": "none",
+    "image": "/images/food/oh-aew.webp",
+    "difficulty": "easy",
+    "preparation_time": "15 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "banana flour jelly",
+      "shaved ice",
+      "syrup"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "nam-prik-goong-siap",
+    "name": {
+      "en": "Nam Prik Goong Siap",
+      "nl": "Nam Prik Goong Siap",
+      "thai": "น้ำพริกกุ้งเสียบ"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "hot",
+    "image": "/images/food/nam-prik-goong-siap.webp",
+    "difficulty": "easy",
+    "preparation_time": "20 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "dried shrimp",
+      "chili",
+      "garlic"
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "moo-hong",
+    "name": {
+      "en": "Moo Hong",
+      "nl": "Moo Hong",
+      "thai": "หมูฮ้อง"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "mild",
+    "image": "/images/food/moo-hong.webp",
+    "difficulty": "medium",
+    "preparation_time": "90 minutes",
+    "price_range": "mid-range",
+    "ingredients": [
+      "pork belly",
+      "soy sauce",
+      "palm sugar"
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "kanom-jeen-nam-ya",
+    "name": {
+      "en": "Kanom Jeen Nam Ya",
+      "nl": "Kanom Jeen Nam Ya",
+      "thai": "ขนมจีนน้ำยา"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "medium",
+    "image": "/images/food/kanom-jeen-nam-ya.webp",
+    "difficulty": "hard",
+    "preparation_time": "45 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "fermented rice noodles",
+      "fish",
+      "lemongrass"
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "hoy-tod",
+    "name": {
+      "en": "Hoy Tod",
+      "nl": "Hoy Tod",
+      "thai": "หอยทอด"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "mild",
+    "image": "/images/food/hoy-tod.webp",
+    "difficulty": "medium",
+    "preparation_time": "15 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "mussels or oysters",
+      "flour",
+      "egg"
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "pla-pao",
+    "name": {
+      "en": "Pla Pao",
+      "nl": "Pla Pao",
+      "thai": "ปลาเผา"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "mild",
+    "image": "/images/food/pla-pao.webp",
+    "difficulty": "medium",
+    "preparation_time": "40 minutes",
+    "price_range": "mid-range",
+    "ingredients": [
+      "whole fish",
+      "coarse salt",
+      "lemongrass"
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "yam-woon-sen",
+    "name": {
+      "en": "Yam Woon Sen",
+      "nl": "Yam Woon Sen",
+      "thai": "ยำวุ้นเส้น"
+    },
+    "category": "salad",
+    "region": "central",
+    "spice_level": "medium",
+    "image": "/images/food/yam-woon-sen.webp",
+    "difficulty": "easy",
+    "preparation_time": "20 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "glass noodles",
+      "shrimp",
+      "ground pork"
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "khao-pad-sapparot",
+    "name": {
+      "en": "Khao Pad Sapparot",
+      "nl": "Khao Pad Sapparot",
+      "thai": "ข้าวผัดสับปะรด"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "mild",
+    "image": "/images/food/khao-pad-sapparot.webp",
+    "difficulty": "medium",
+    "preparation_time": "20 minutes",
+    "price_range": "mid-range",
+    "ingredients": [
+      "rice",
+      "pineapple",
+      "shrimp"
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "roti-sai-mai",
+    "name": {
+      "en": "Roti Sai Mai",
+      "nl": "Roti Sai Mai",
+      "thai": "โรตีสายไหม"
+    },
+    "category": "dessert",
+    "region": "central",
+    "spice_level": "none",
+    "image": "/images/food/roti-sai-mai.webp",
+    "difficulty": "hard",
+    "preparation_time": "30 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "food coloring"
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "tom-yum-noodles",
+    "name": {
+      "en": "Tom Yum Noodles",
+      "nl": "Tom Yum Noedels",
+      "thai": "ก๋วยเตี๋ยวต้มยำ"
+    },
+    "category": "soup",
+    "region": "central",
+    "spice_level": "hot",
+    "image": "/images/food/tom-yum-noodles.webp",
+    "difficulty": "easy",
+    "preparation_time": "15 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "rice noodles",
+      "fish balls",
+      "lime juice"
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "khao-mok-gai",
+    "name": {
+      "en": "Khao Mok Gai",
+      "nl": "Khao Mok Gai",
+      "thai": "ข้าวหมกไก่"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "mild",
+    "image": "/images/food/khao-mok-gai.webp",
+    "difficulty": "medium",
+    "preparation_time": "60 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "chicken",
+      "rice",
+      "turmeric"
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "goong-pad-makham",
+    "name": {
+      "en": "Goong Pad Makham",
+      "nl": "Goong Pad Makham",
+      "thai": "กุ้งผัดมะขาม"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "mild",
+    "image": "/images/food/goong-pad-makham.webp",
+    "difficulty": "easy",
+    "preparation_time": "15 minutes",
+    "price_range": "mid-range",
+    "ingredients": [
+      "prawns",
+      "tamarind paste",
+      "palm sugar"
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "tom-som-pla",
+    "name": {
+      "en": "Tom Som Pla",
+      "nl": "Tom Som Pla",
+      "thai": "ต้มส้มปลา"
+    },
+    "category": "soup",
+    "region": "southern",
+    "spice_level": "medium",
+    "image": "/images/food/tom-som-pla.webp",
+    "difficulty": "medium",
+    "preparation_time": "25 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "fish",
+      "turmeric",
+      "tamarind"
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "gai-tod-hat-yai",
+    "name": {
+      "en": "Gai Tod Hat Yai",
+      "nl": "Gai Tod Hat Yai",
+      "thai": "ไก่ทอดหาดใหญ่"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "mild",
+    "image": "/images/food/gai-tod-hat-yai.webp",
+    "difficulty": "medium",
+    "preparation_time": "40 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "chicken",
+      "shallots",
+      "garlic"
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "khao-yam",
+    "name": {
+      "en": "Khao Yam",
+      "nl": "Khao Yam",
+      "thai": "ข้าวยำ"
+    },
+    "category": "salad",
+    "region": "southern",
+    "spice_level": "mild",
+    "image": "/images/food/khao-yam.webp",
+    "difficulty": "medium",
+    "preparation_time": "30 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "rice",
+      "coconut",
+      "herbs"
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "nam-ngiao",
+    "name": {
+      "en": "Nam Ngiao",
+      "nl": "Nam Ngiao",
+      "thai": "น้ำเงี้ยว"
+    },
+    "category": "soup",
+    "region": "northern",
+    "spice_level": "medium",
+    "image": "/images/food/nam-ngiao.webp",
+    "difficulty": "hard",
+    "preparation_time": "45 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "rice noodles",
+      "pork ribs",
+      "tomatoes"
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "laab-kua",
+    "name": {
+      "en": "Laab Kua",
+      "nl": "Laab Kua",
+      "thai": "ลาบคั่ว"
+    },
+    "category": "salad",
+    "region": "northern",
+    "spice_level": "hot",
+    "image": "/images/food/laab-kua.webp",
+    "difficulty": "medium",
+    "preparation_time": "20 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "minced pork or beef",
+      "dried spices",
+      "herbs"
+    ]
+  },
+  {
+    "id": 35,
+    "slug": "tam-khanun",
+    "name": {
+      "en": "Tam Khanun",
+      "nl": "Tam Khanun",
+      "thai": "ตำขนุน"
+    },
+    "category": "salad",
+    "region": "northern",
+    "spice_level": "hot",
+    "image": "/images/food/tam-khanun.webp",
+    "difficulty": "medium",
+    "preparation_time": "20 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "young jackfruit",
+      "chili",
+      "garlic"
+    ]
+  },
+  {
+    "id": 36,
+    "slug": "khao-kan-jin",
+    "name": {
+      "en": "Khao Kan Jin",
+      "nl": "Khao Kan Jin",
+      "thai": "ข้าวกั้นจิ๊น"
+    },
+    "category": "main-dish",
+    "region": "northern",
+    "spice_level": "mild",
+    "image": "/images/food/khao-kan-jin.webp",
+    "difficulty": "hard",
+    "preparation_time": "60 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "rice",
+      "pork blood",
+      "garlic"
+    ]
+  },
+  {
+    "id": 37,
+    "slug": "roti-canai",
+    "name": {
+      "en": "Roti Canai",
+      "nl": "Roti Canai",
+      "thai": "โรตีกะหรี่"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "mild",
+    "image": "/images/food/roti-canai.webp",
+    "difficulty": "medium",
+    "preparation_time": "20 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "flour",
+      "ghee",
+      "egg"
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "bua-loy",
+    "name": {
+      "en": "Bua Loy",
+      "nl": "Bua Loy",
+      "thai": "บัวลอย"
+    },
+    "category": "dessert",
+    "region": "southern",
+    "spice_level": "none",
+    "image": "/images/food/bua-loy.webp",
+    "difficulty": "easy",
+    "preparation_time": "30 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "rice flour",
+      "coconut milk",
+      "palm sugar"
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "sukhothai-noodles",
+    "name": {
+      "en": "Sukhothai Noodles",
+      "nl": "Sukhothai Noedels",
+      "thai": "ก๋วยเตี๋ยวสุโขทัย"
+    },
+    "category": "soup",
+    "region": "northern",
+    "spice_level": "mild",
+    "image": "/images/food/sukhothai-noodles.webp",
+    "difficulty": "easy",
+    "preparation_time": "20 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "rice noodles",
+      "pork",
+      "ground peanuts"
+    ]
+  },
+  {
+    "id": 40,
+    "slug": "kaeng-liang",
+    "name": {
+      "en": "Kaeng Liang",
+      "nl": "Kaeng Liang",
+      "thai": "แกงเลียง"
+    },
+    "category": "soup",
+    "region": "northern",
+    "spice_level": "medium",
+    "image": "/images/food/kaeng-liang.webp",
+    "difficulty": "easy",
+    "preparation_time": "25 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "mixed vegetables",
+      "shrimp",
+      "shrimp paste"
+    ]
+  },
+  {
+    "id": 41,
+    "slug": "moo-palo",
+    "name": {
+      "en": "Moo Palo",
+      "nl": "Moo Palo",
+      "thai": "หมูพะโล้"
+    },
+    "category": "main-dish",
+    "region": "northern",
+    "spice_level": "mild",
+    "image": "/images/food/moo-palo.webp",
+    "difficulty": "medium",
+    "preparation_time": "90 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "pork belly",
+      "eggs",
+      "soy sauce"
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "nam-prik-noom",
+    "name": {
+      "en": "Nam Prik Noom",
+      "nl": "Nam Prik Noom",
+      "thai": "น้ำพริกหนุ่ม"
+    },
+    "category": "main-dish",
+    "region": "northern",
+    "spice_level": "medium",
+    "image": "/images/food/nam-prik-noom.webp",
+    "difficulty": "easy",
+    "preparation_time": "25 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "green chili",
+      "garlic",
+      "shallots"
+    ]
+  },
+  {
+    "id": 43,
+    "slug": "nam-prik-kapi",
+    "name": {
+      "en": "Nam Prik Kapi",
+      "nl": "Nam Prik Kapi",
+      "thai": "น้ำพริกกะปิ"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "hot",
+    "image": "/images/food/nam-prik-kapi.webp",
+    "difficulty": "easy",
+    "preparation_time": "15 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "shrimp paste",
+      "chili",
+      "garlic"
+    ]
+  },
+  {
+    "id": 44,
+    "slug": "gaeng-tai-pla",
+    "name": {
+      "en": "Gaeng Tai Pla",
+      "nl": "Gaeng Tai Pla",
+      "thai": "แกงไตปลา"
+    },
+    "category": "curry",
+    "region": "southern",
+    "spice_level": "very hot",
+    "image": "/images/food/gaeng-tai-pla.webp",
+    "difficulty": "hard",
+    "preparation_time": "40 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "fish organs",
+      "chili",
+      "lemongrass"
+    ]
+  },
+  {
+    "id": 45,
+    "slug": "goong-pad-sator",
+    "name": {
+      "en": "Goong Pad Sator",
+      "nl": "Goong Pad Sator",
+      "thai": "กุ้งผัดสะตอ"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "medium",
+    "image": "/images/food/goong-pad-sator.webp",
+    "difficulty": "easy",
+    "preparation_time": "15 minutes",
+    "price_range": "mid-range",
+    "ingredients": [
+      "prawns",
+      "stink beans",
+      "shrimp paste"
+    ]
+  },
+  {
+    "id": 46,
+    "slug": "lod-chong",
+    "name": {
+      "en": "Lod Chong",
+      "nl": "Lod Chong",
+      "thai": "ลอดช่อง"
+    },
+    "category": "dessert",
+    "region": "southern",
+    "spice_level": "none",
+    "image": "/images/food/lod-chong.webp",
+    "difficulty": "medium",
+    "preparation_time": "30 minutes",
+    "price_range": "budget",
+    "ingredients": [
+      "rice flour",
+      "pandan juice",
+      "coconut milk"
+    ]
   }
 ]

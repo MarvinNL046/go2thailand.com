@@ -1,0 +1,177 @@
+{
+  "id": 24,
+  "slug": "yam-woon-sen",
+  "name": {
+    "en": "Yam Woon Sen",
+    "nl": "Yam Woon Sen",
+    "thai": "ยำวุ้นเส้น"
+  },
+  "category": "salad",
+  "region": "central",
+  "spice_level": "medium",
+  "description": {
+    "en": "Glass noodle salad with shrimp and ground pork",
+    "nl": "Glasnoedelsalade met garnalen en varkensgehakt"
+  },
+  "ingredients": [
+    "glass noodles",
+    "shrimp",
+    "ground pork",
+    "tomatoes",
+    "onion",
+    "cilantro",
+    "lime juice"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/yam-woon-sen.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Yam Woon Sen Recipe | Authentic Thai salad",
+      "nl": "Yam Woon Sen Recept | Authentieke Thaise salad"
+    },
+    "metaDescription": {
+      "en": "Learn about Yam Woon Sen (ยำวุ้นเส้น) - Glass noodle salad with shrimp and ground pork...",
+      "nl": "Leer over Yam Woon Sen (ยำวุ้นเส้น) - Glasnoedelsalade met garnalen en varkensgehakt..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "salad",
+    "central",
+    "medium",
+    "easy",
+    "budget",
+    "glass-noodles",
+    "shrimp",
+    "ground-pork"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "easy",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Yam Woon Sen is a beloved fresh and vibrant salad from central Thailand that with a pleasant kick of heat. Glass noodle salad with shrimp and ground pork. This easy recipe takes about 20 minutes to prepare and represents the authentic flavors of Central Thai cuisine balances sweet, sour, salty and spicy flavors perfectly. The combination of glass noodles, shrimp, ground pork creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Glass noodles",
+      "purpose": "Essential for authentic Yam Woon Sen flavor",
+      "substitutes": [
+        "Fresh glass noodles",
+        "Dried glass noodles",
+        "glass noodles paste"
+      ]
+    },
+    {
+      "name": "Shrimp",
+      "purpose": "Essential for authentic Yam Woon Sen flavor",
+      "substitutes": [
+        "Fresh shrimp",
+        "Dried shrimp",
+        "shrimp paste"
+      ]
+    },
+    {
+      "name": "Ground pork",
+      "purpose": "Essential for authentic Yam Woon Sen flavor",
+      "substitutes": [
+        "Fresh ground pork",
+        "Dried ground pork",
+        "ground pork paste"
+      ]
+    },
+    {
+      "name": "Tomatoes",
+      "purpose": "Essential for authentic Yam Woon Sen flavor",
+      "substitutes": [
+        "Fresh tomatoes",
+        "Dried tomatoes",
+        "tomatoes paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Fresh preparation and mixing",
+    "steps_overview": "Preparing Yam Woon Sen requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh glass noodles for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Yam Woon Sen has been a staple of central Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of central Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Yam Woon Sen Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Yam Woon Sen Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Yam Woon Sen",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local central Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 10,
+  "slug": "leo-beer",
+  "name": {
+    "en": "Leo Beer",
+    "nl": "Leo Bier",
+    "thai": "เบียร์ลีโอ"
+  },
+  "category": "alcohol",
+  "type": "cold",
+  "description": {
+    "en": "Smooth and easy-drinking Thai beer",
+    "nl": "Zacht en makkelijk drinkbaar Thais bier"
+  },
+  "ingredients": [
+    "barley",
+    "hops",
+    "water"
+  ],
+  "allergens": [
+    "gluten"
+  ],
+  "dietary": [],
+  "image": "/images/drinks/leo-beer.webp",
+  "temperature": "cold",
+  "alcohol_content": "5%",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "all",
+  "occasions": [
+    "social",
+    "meals"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Leo Beer Recipe | Authentic Thai alcohol",
+      "nl": "Leo Bier Recept | Authentieke Thaise alcohol"
+    },
+    "metaDescription": {
+      "en": "Learn about Leo Beer (เบียร์ลีโอ) - Smooth and easy-drinking Thai beer",
+      "nl": "Leer over Leo Bier (เบียร์ลีโอ) - Zacht en makkelijk drinkbaar Thais bier"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "alcohol",
+    "cold",
+    "cold",
+    "social",
+    "meals"
+  ]
+}

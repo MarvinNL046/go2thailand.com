@@ -1,0 +1,177 @@
+{
+  "id": 16,
+  "slug": "gaeng-hang-lay",
+  "name": {
+    "en": "Gaeng Hang Lay",
+    "nl": "Gaeng Hang Lay",
+    "thai": "แกงฮังเล"
+  },
+  "category": "curry",
+  "region": "northern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Mild curry with pork belly and Burmese influences",
+    "nl": "Milde curry met varkensbuik en Birmese invloeden"
+  },
+  "ingredients": [
+    "pork belly",
+    "shallots",
+    "garlic",
+    "ginger",
+    "tamarind",
+    "peanuts",
+    "palm sugar"
+  ],
+  "allergens": [
+    "nuts"
+  ],
+  "dietary": [],
+  "image": "/images/food/gaeng-hang-lay.webp",
+  "preparation_time": "90 minutes",
+  "difficulty": "medium",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Gaeng Hang Lay Recipe | Authentic Thai curry",
+      "nl": "Gaeng Hang Lay Recept | Authentieke Thaise curry"
+    },
+    "metaDescription": {
+      "en": "Learn about Gaeng Hang Lay (แกงฮังเล) - Mild curry with pork belly and Burmese influences...",
+      "nl": "Leer over Gaeng Hang Lay (แกงฮังเล) - Milde curry met varkensbuik en Birmese invloeden..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "curry",
+    "northern",
+    "mild",
+    "medium",
+    "mid-range",
+    "pork-belly",
+    "shallots",
+    "garlic"
+  ],
+  "cooking": {
+    "preparation_time": "90 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "nuts"
+    ],
+    "dietary": [],
+    "price_range": "mid-range"
+  },
+  "enhanced_description": "Gaeng Hang Lay is a beloved rich and aromatic curry from northern Thailand that with a subtle warmth. Mild curry with pork belly and Burmese influences. This medium recipe takes about 90 minutes to prepare and represents the authentic flavors of Northern Thai cuisine is characterized by milder flavors, sticky rice, and herbs. The combination of pork belly, shallots, garlic creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking reasonably priced authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Pork belly",
+      "purpose": "Essential for authentic Gaeng Hang Lay flavor",
+      "substitutes": [
+        "Fresh pork belly",
+        "Dried pork belly",
+        "pork belly paste"
+      ]
+    },
+    {
+      "name": "Shallots",
+      "purpose": "Essential for authentic Gaeng Hang Lay flavor",
+      "substitutes": [
+        "Fresh shallots",
+        "Dried shallots",
+        "shallots paste"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Essential for authentic Gaeng Hang Lay flavor",
+      "substitutes": [
+        "Fresh garlic",
+        "Dried garlic",
+        "garlic paste"
+      ]
+    },
+    {
+      "name": "Ginger",
+      "purpose": "Essential for authentic Gaeng Hang Lay flavor",
+      "substitutes": [
+        "Fresh ginger",
+        "Dried ginger",
+        "ginger paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Curry paste frying and coconut milk reduction",
+    "steps_overview": "Preparing Gaeng Hang Lay requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh pork belly for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Gaeng Hang Lay has been a staple of northern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of northern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Gaeng Hang Lay Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Gaeng Hang Lay Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Gaeng Hang Lay",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local northern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "50-80 THB",
+      "market_stall": "60-100 THB",
+      "restaurant": "100-200 THB"
+    }
+  }
+}

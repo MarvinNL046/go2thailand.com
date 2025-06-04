@@ -133,5 +133,269 @@
       "dietary": [],
       "price_range": "budget"
     }
+  },
+  {
+    "id": 24,
+    "slug": "yam-woon-sen",
+    "name": {
+      "en": "Yam Woon Sen",
+      "nl": "Yam Woon Sen",
+      "thai": "ยำวุ้นเส้น"
+    },
+    "category": "salad",
+    "region": "central",
+    "spice_level": "medium",
+    "description": {
+      "en": "Glass noodle salad with shrimp and ground pork",
+      "nl": "Glasnoedelsalade met garnalen en varkensgehakt"
+    },
+    "ingredients": [
+      "glass noodles",
+      "shrimp",
+      "ground pork",
+      "tomatoes",
+      "onion",
+      "cilantro",
+      "lime juice"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/yam-woon-sen.webp",
+    "preparation_time": "20 minutes",
+    "difficulty": "easy",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Yam Woon Sen Recipe | Authentic Thai salad",
+        "nl": "Yam Woon Sen Recept | Authentieke Thaise salad"
+      },
+      "metaDescription": {
+        "en": "Learn about Yam Woon Sen (ยำวุ้นเส้น) - Glass noodle salad with shrimp and ground pork...",
+        "nl": "Leer over Yam Woon Sen (ยำวุ้นเส้น) - Glasnoedelsalade met garnalen en varkensgehakt..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "salad",
+      "central",
+      "medium",
+      "easy",
+      "budget",
+      "glass-noodles",
+      "shrimp",
+      "ground-pork"
+    ],
+    "cooking": {
+      "preparation_time": "20 minutes",
+      "difficulty": "easy",
+      "spice_level": "medium",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "seafood"
+      ],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 32,
+    "slug": "khao-yam",
+    "name": {
+      "en": "Khao Yam",
+      "nl": "Khao Yam",
+      "thai": "ข้าวยำ"
+    },
+    "category": "salad",
+    "region": "southern",
+    "spice_level": "mild",
+    "description": {
+      "en": "Southern Thai rice salad with herbs and coconut",
+      "nl": "Zuidelijke Thaise rijstsalade met kruiden en kokos"
+    },
+    "ingredients": [
+      "rice",
+      "coconut",
+      "herbs",
+      "dried shrimp",
+      "fish sauce",
+      "lime"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/khao-yam.webp",
+    "preparation_time": "30 minutes",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Khao Yam Recipe | Authentic Thai salad",
+        "nl": "Khao Yam Recept | Authentieke Thaise salad"
+      },
+      "metaDescription": {
+        "en": "Learn about Khao Yam (ข้าวยำ) - Southern Thai rice salad with herbs and coconut...",
+        "nl": "Leer over Khao Yam (ข้าวยำ) - Zuidelijke Thaise rijstsalade met kruiden en kokos..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "salad",
+      "southern",
+      "mild",
+      "medium",
+      "budget",
+      "rice",
+      "coconut",
+      "herbs"
+    ],
+    "cooking": {
+      "preparation_time": "30 minutes",
+      "difficulty": "medium",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "seafood"
+      ],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 34,
+    "slug": "laab-kua",
+    "name": {
+      "en": "Laab Kua",
+      "nl": "Laab Kua",
+      "thai": "ลาบคั่ว"
+    },
+    "category": "salad",
+    "region": "northern",
+    "spice_level": "hot",
+    "description": {
+      "en": "Northern style meat salad with spices and herbs",
+      "nl": "Noordelijke stijl vleessalade met specerijen en kruiden"
+    },
+    "ingredients": [
+      "minced pork or beef",
+      "dried spices",
+      "herbs",
+      "lime juice",
+      "fish sauce"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/laab-kua.webp",
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Laab Kua Recipe | Authentic Thai salad",
+        "nl": "Laab Kua Recept | Authentieke Thaise salad"
+      },
+      "metaDescription": {
+        "en": "Learn about Laab Kua (ลาบคั่ว) - Northern style meat salad with spices and herbs...",
+        "nl": "Leer over Laab Kua (ลาบคั่ว) - Noordelijke stijl vleessalade met specerijen en kruiden..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "salad",
+      "northern",
+      "hot",
+      "medium",
+      "budget",
+      "minced-pork or beef",
+      "dried-spices",
+      "herbs"
+    ],
+    "cooking": {
+      "preparation_time": "20 minutes",
+      "difficulty": "medium",
+      "spice_level": "hot",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 35,
+    "slug": "tam-khanun",
+    "name": {
+      "en": "Tam Khanun",
+      "nl": "Tam Khanun",
+      "thai": "ตำขนุน"
+    },
+    "category": "salad",
+    "region": "northern",
+    "spice_level": "hot",
+    "description": {
+      "en": "Spicy young jackfruit salad",
+      "nl": "Pittige jonge jackfruit salade"
+    },
+    "ingredients": [
+      "young jackfruit",
+      "chili",
+      "garlic",
+      "lime juice",
+      "fish sauce",
+      "tomatoes"
+    ],
+    "allergens": [],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "image": "/images/food/tam-khanun.webp",
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Tam Khanun Recipe | Authentic Thai salad",
+        "nl": "Tam Khanun Recept | Authentieke Thaise salad"
+      },
+      "metaDescription": {
+        "en": "Learn about Tam Khanun (ตำขนุน) - Spicy young jackfruit salad...",
+        "nl": "Leer over Tam Khanun (ตำขนุน) - Pittige jonge jackfruit salade..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "salad",
+      "northern",
+      "hot",
+      "medium",
+      "budget",
+      "young-jackfruit",
+      "chili",
+      "garlic"
+    ],
+    "cooking": {
+      "preparation_time": "20 minutes",
+      "difficulty": "medium",
+      "spice_level": "hot",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [
+        "vegetarian option"
+      ],
+      "price_range": "budget"
+    }
   }
 ]

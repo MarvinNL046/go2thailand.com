@@ -1,0 +1,67 @@
+{
+  "id": 29,
+  "slug": "goong-pad-makham",
+  "name": {
+    "en": "Goong Pad Makham",
+    "nl": "Goong Pad Makham",
+    "thai": "กุ้งผัดมะขาม"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Prawns stir-fried in tangy tamarind sauce",
+    "nl": "Garnalen geroerbakt in pittige tamarindesaus"
+  },
+  "ingredients": [
+    "prawns",
+    "tamarind paste",
+    "palm sugar",
+    "fish sauce",
+    "shallots",
+    "dried chili"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/goong-pad-makham.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Goong Pad Makham Recipe | Authentic Thai main dish",
+      "nl": "Goong Pad Makham Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Goong Pad Makham (กุ้งผัดมะขาม) - Prawns stir-fried in tangy tamarind sauce...",
+      "nl": "Leer over Goong Pad Makham (กุ้งผัดมะขาม) - Garnalen geroerbakt in pittige tamarindesaus..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "mild",
+    "easy",
+    "mid-range",
+    "prawns",
+    "tamarind-paste",
+    "palm-sugar"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "mid-range"
+  }
+}

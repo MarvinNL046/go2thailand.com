@@ -1,0 +1,172 @@
+{
+  "id": 31,
+  "slug": "gai-tod-hat-yai",
+  "name": {
+    "en": "Gai Tod Hat Yai",
+    "nl": "Gai Tod Hat Yai",
+    "thai": "ไก่ทอดหาดใหญ่"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Hat Yai style fried chicken with crispy shallots",
+    "nl": "Hat Yai stijl gefrituurde kip met krokante sjalotten"
+  },
+  "ingredients": [
+    "chicken",
+    "shallots",
+    "garlic",
+    "white pepper",
+    "fish sauce",
+    "rice flour"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/gai-tod-hat-yai.webp",
+  "preparation_time": "40 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Gai Tod Hat Yai Recipe | Authentic Thai main dish",
+      "nl": "Gai Tod Hat Yai Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai style fried chicken with crispy shallots...",
+      "nl": "Leer over Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai stijl gefrituurde kip met krokante sjalotten..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "mild",
+    "medium",
+    "budget",
+    "chicken",
+    "shallots",
+    "garlic"
+  ],
+  "cooking": {
+    "preparation_time": "40 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Gai Tod Hat Yai is a beloved hearty and satisfying main course from southern Thailand that with a subtle warmth. Hat Yai style fried chicken with crispy shallots. This medium recipe takes about 40 minutes to prepare and represents the authentic flavors of Southern Thai cuisine features intense spices, seafood, and coconut-based curries. The combination of chicken, shallots, garlic creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Chicken",
+      "purpose": "Essential for authentic Gai Tod Hat Yai flavor",
+      "substitutes": [
+        "Fresh chicken",
+        "Dried chicken",
+        "chicken paste"
+      ]
+    },
+    {
+      "name": "Shallots",
+      "purpose": "Essential for authentic Gai Tod Hat Yai flavor",
+      "substitutes": [
+        "Fresh shallots",
+        "Dried shallots",
+        "shallots paste"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Essential for authentic Gai Tod Hat Yai flavor",
+      "substitutes": [
+        "Fresh garlic",
+        "Dried garlic",
+        "garlic paste"
+      ]
+    },
+    {
+      "name": "White pepper",
+      "purpose": "Essential for authentic Gai Tod Hat Yai flavor",
+      "substitutes": [
+        "Fresh white pepper",
+        "Dried white pepper",
+        "white pepper paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying or grilling",
+    "steps_overview": "Preparing Gai Tod Hat Yai requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh chicken for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Gai Tod Hat Yai has been a staple of southern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of southern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Gai Tod Hat Yai Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Gai Tod Hat Yai Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Gai Tod Hat Yai",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local southern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

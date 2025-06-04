@@ -1,0 +1,175 @@
+{
+  "id": 45,
+  "slug": "goong-pad-sator",
+  "name": {
+    "en": "Goong Pad Sator",
+    "nl": "Goong Pad Sator",
+    "thai": "กุ้งผัดสะตอ"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "medium",
+  "description": {
+    "en": "Prawns stir-fried with stink beans",
+    "nl": "Garnalen geroerbakt met stinkbonen"
+  },
+  "ingredients": [
+    "prawns",
+    "stink beans",
+    "shrimp paste",
+    "chili",
+    "garlic"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/goong-pad-sator.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Goong Pad Sator Recipe | Authentic Thai main dish",
+      "nl": "Goong Pad Sator Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Goong Pad Sator (กุ้งผัดสะตอ) - Prawns stir-fried with stink beans...",
+      "nl": "Leer over Goong Pad Sator (กุ้งผัดสะตอ) - Garnalen geroerbakt met stinkbonen..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "medium",
+    "easy",
+    "mid-range",
+    "prawns",
+    "stink-beans",
+    "shrimp-paste"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "mid-range"
+  },
+  "enhanced_description": "Goong Pad Sator is a beloved hearty and satisfying main course from southern Thailand that with a pleasant kick of heat. Prawns stir-fried with stink beans. This easy recipe takes about 15 minutes to prepare and represents the authentic flavors of Southern Thai cuisine features intense spices, seafood, and coconut-based curries. The combination of prawns, stink beans, shrimp paste creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking reasonably priced authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Prawns",
+      "purpose": "Essential for authentic Goong Pad Sator flavor",
+      "substitutes": [
+        "Fresh prawns",
+        "Dried prawns",
+        "prawns paste"
+      ]
+    },
+    {
+      "name": "Stink beans",
+      "purpose": "Essential for authentic Goong Pad Sator flavor",
+      "substitutes": [
+        "Fresh stink beans",
+        "Dried stink beans",
+        "stink beans paste"
+      ]
+    },
+    {
+      "name": "Shrimp paste",
+      "purpose": "Essential for authentic Goong Pad Sator flavor",
+      "substitutes": [
+        "Fresh shrimp paste",
+        "Dried shrimp paste",
+        "shrimp paste paste"
+      ]
+    },
+    {
+      "name": "Chili",
+      "purpose": "Essential for authentic Goong Pad Sator flavor",
+      "substitutes": [
+        "Fresh chili",
+        "Dried chili",
+        "chili paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying or grilling",
+    "steps_overview": "Preparing Goong Pad Sator requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh prawns for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Goong Pad Sator has been a staple of southern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of southern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Goong Pad Sator Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Goong Pad Sator Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Goong Pad Sator",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local southern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "50-80 THB",
+      "market_stall": "60-100 THB",
+      "restaurant": "100-200 THB"
+    }
+  }
+}

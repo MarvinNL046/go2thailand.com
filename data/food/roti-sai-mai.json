@@ -1,0 +1,65 @@
+{
+  "id": 26,
+  "slug": "roti-sai-mai",
+  "name": {
+    "en": "Roti Sai Mai",
+    "nl": "Roti Sai Mai",
+    "thai": "โรตีสายไหม"
+  },
+  "category": "dessert",
+  "region": "central",
+  "spice_level": "none",
+  "description": {
+    "en": "Thai cotton candy wrapped in thin roti from Ayutthaya",
+    "nl": "Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya"
+  },
+  "ingredients": [
+    "flour",
+    "sugar",
+    "food coloring",
+    "water",
+    "salt"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian"
+  ],
+  "image": "/images/food/roti-sai-mai.webp",
+  "preparation_time": "30 minutes",
+  "difficulty": "hard",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Roti Sai Mai Recipe | Authentic Thai dessert",
+      "nl": "Roti Sai Mai Recept | Authentieke Thaise dessert"
+    },
+    "metaDescription": {
+      "en": "Learn about Roti Sai Mai (โรตีสายไหม) - Thai cotton candy wrapped in thin roti from Ayutthaya...",
+      "nl": "Leer over Roti Sai Mai (โรตีสายไหม) - Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "dessert",
+    "central",
+    "hard",
+    "budget",
+    "flour",
+    "sugar",
+    "food-coloring"
+  ],
+  "cooking": {
+    "preparation_time": "30 minutes",
+    "difficulty": "hard",
+    "spice_level": "none",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian"
+    ],
+    "price_range": "budget"
+  }
+}

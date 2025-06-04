@@ -1,0 +1,59 @@
+{
+  "category": "alcohol",
+  "drinks": [
+    {
+      "id": 8,
+      "slug": "singha-beer",
+      "name": {
+        "en": "Singha Beer",
+        "nl": "Singha Bier",
+        "thai": "เบียร์สิงห์"
+      }
+    },
+    {
+      "id": 9,
+      "slug": "chang-beer",
+      "name": {
+        "en": "Chang Beer",
+        "nl": "Chang Bier",
+        "thai": "เบียร์ช้าง"
+      }
+    },
+    {
+      "id": 10,
+      "slug": "leo-beer",
+      "name": {
+        "en": "Leo Beer",
+        "nl": "Leo Bier",
+        "thai": "เบียร์ลีโอ"
+      }
+    },
+    {
+      "id": 11,
+      "slug": "mekong-whisky",
+      "name": {
+        "en": "Mekong Whisky",
+        "nl": "Mekong Whisky",
+        "thai": "แม่โขง"
+      }
+    },
+    {
+      "id": 12,
+      "slug": "sangsom-rum",
+      "name": {
+        "en": "SangSom Rum",
+        "nl": "SangSom Rum",
+        "thai": "แสงโสม"
+      }
+    },
+    {
+      "id": 13,
+      "slug": "sato",
+      "name": {
+        "en": "Sato Rice Wine",
+        "nl": "Sato Rijstwijn",
+        "thai": "สาโท"
+      }
+    }
+  ]
+}

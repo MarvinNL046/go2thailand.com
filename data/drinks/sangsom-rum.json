@@ -1,0 +1,49 @@
+{
+  "id": 12,
+  "slug": "sangsom-rum",
+  "name": {
+    "en": "SangSom Rum",
+    "nl": "SangSom Rum",
+    "thai": "แสงโสม"
+  },
+  "category": "alcohol",
+  "type": "mixed",
+  "description": {
+    "en": "Thai rum often mixed with cola",
+    "nl": "Thaise rum vaak gemixt met cola"
+  },
+  "ingredients": [
+    "sugarcane"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/drinks/sangsom-rum.webp",
+  "temperature": "mixed",
+  "alcohol_content": "40%",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "all",
+  "occasions": [
+    "parties",
+    "nightlife"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "SangSom Rum Recipe | Authentic Thai alcohol",
+      "nl": "SangSom Rum Recept | Authentieke Thaise alcohol"
+    },
+    "metaDescription": {
+      "en": "Learn about SangSom Rum (แสงโสม) - Thai rum often mixed with cola",
+      "nl": "Leer over SangSom Rum (แสงโสม) - Thaise rum vaak gemixt met cola"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "alcohol",
+    "mixed",
+    "mixed",
+    "parties",
+    "nightlife"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": 21,
+  "slug": "kanom-jeen-nam-ya",
+  "name": {
+    "en": "Kanom Jeen Nam Ya",
+    "nl": "Kanom Jeen Nam Ya",
+    "thai": "ขนมจีนน้ำยา"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "medium",
+  "description": {
+    "en": "Fermented rice noodles with fish curry sauce",
+    "nl": "Gefermenteerde rijstnoedels met viscurrysaus"
+  },
+  "ingredients": [
+    "fermented rice noodles",
+    "fish",
+    "lemongrass",
+    "galangal",
+    "chili",
+    "coconut milk"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/kanom-jeen-nam-ya.webp",
+  "preparation_time": "45 minutes",
+  "difficulty": "hard",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Kanom Jeen Nam Ya Recipe | Authentic Thai main dish",
+      "nl": "Kanom Jeen Nam Ya Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Fermented rice noodles with fish curry sauce...",
+      "nl": "Leer over Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Gefermenteerde rijstnoedels met viscurrysaus..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "medium",
+    "hard",
+    "budget",
+    "fermented-rice noodles",
+    "fish",
+    "lemongrass"
+  ],
+  "cooking": {
+    "preparation_time": "45 minutes",
+    "difficulty": "hard",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Kanom Jeen Nam Ya is a beloved hearty and satisfying main course from southern Thailand that with a pleasant kick of heat. Fermented rice noodles with fish curry sauce. This hard recipe takes about 45 minutes to prepare and represents the authentic flavors of Southern Thai cuisine features intense spices, seafood, and coconut-based curries. The combination of fermented rice noodles, fish, lemongrass creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Fermented rice noodles",
+      "purpose": "Essential for authentic Kanom Jeen Nam Ya flavor",
+      "substitutes": [
+        "Fresh fermented rice noodles",
+        "Dried fermented rice noodles",
+        "fermented rice noodles paste"
+      ]
+    },
+    {
+      "name": "Fish",
+      "purpose": "Essential for authentic Kanom Jeen Nam Ya flavor",
+      "substitutes": [
+        "Fresh fish",
+        "Dried fish",
+        "fish paste"
+      ]
+    },
+    {
+      "name": "Lemongrass",
+      "purpose": "Essential for authentic Kanom Jeen Nam Ya flavor",
+      "substitutes": [
+        "Fresh lemongrass",
+        "Dried lemongrass",
+        "lemongrass paste"
+      ]
+    },
+    {
+      "name": "Galangal",
+      "purpose": "Essential for authentic Kanom Jeen Nam Ya flavor",
+      "substitutes": [
+        "Fresh galangal",
+        "Dried galangal",
+        "galangal paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying or grilling",
+    "steps_overview": "Preparing Kanom Jeen Nam Ya requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh fermented rice noodles for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Kanom Jeen Nam Ya has been a staple of southern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of southern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Kanom Jeen Nam Ya Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Kanom Jeen Nam Ya Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Kanom Jeen Nam Ya",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local southern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

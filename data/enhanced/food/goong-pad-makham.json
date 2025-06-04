@@ -1,0 +1,176 @@
+{
+  "id": 29,
+  "slug": "goong-pad-makham",
+  "name": {
+    "en": "Goong Pad Makham",
+    "nl": "Goong Pad Makham",
+    "thai": "กุ้งผัดมะขาม"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Prawns stir-fried in tangy tamarind sauce",
+    "nl": "Garnalen geroerbakt in pittige tamarindesaus"
+  },
+  "ingredients": [
+    "prawns",
+    "tamarind paste",
+    "palm sugar",
+    "fish sauce",
+    "shallots",
+    "dried chili"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/goong-pad-makham.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Goong Pad Makham Recipe | Authentic Thai main dish",
+      "nl": "Goong Pad Makham Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Goong Pad Makham (กุ้งผัดมะขาม) - Prawns stir-fried in tangy tamarind sauce...",
+      "nl": "Leer over Goong Pad Makham (กุ้งผัดมะขาม) - Garnalen geroerbakt in pittige tamarindesaus..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "mild",
+    "easy",
+    "mid-range",
+    "prawns",
+    "tamarind-paste",
+    "palm-sugar"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "mid-range"
+  },
+  "enhanced_description": "Goong Pad Makham is a beloved hearty and satisfying main course from southern Thailand that with a subtle warmth. Prawns stir-fried in tangy tamarind sauce. This easy recipe takes about 15 minutes to prepare and represents the authentic flavors of Southern Thai cuisine features intense spices, seafood, and coconut-based curries. The combination of prawns, tamarind paste, palm sugar creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking reasonably priced authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Prawns",
+      "purpose": "Essential for authentic Goong Pad Makham flavor",
+      "substitutes": [
+        "Fresh prawns",
+        "Dried prawns",
+        "prawns paste"
+      ]
+    },
+    {
+      "name": "Tamarind paste",
+      "purpose": "Essential for authentic Goong Pad Makham flavor",
+      "substitutes": [
+        "Fresh tamarind paste",
+        "Dried tamarind paste",
+        "tamarind paste paste"
+      ]
+    },
+    {
+      "name": "Palm sugar",
+      "purpose": "Essential for authentic Goong Pad Makham flavor",
+      "substitutes": [
+        "Fresh palm sugar",
+        "Dried palm sugar",
+        "palm sugar paste"
+      ]
+    },
+    {
+      "name": "Fish sauce",
+      "purpose": "Essential for authentic Goong Pad Makham flavor",
+      "substitutes": [
+        "Fresh fish sauce",
+        "Dried fish sauce",
+        "fish sauce paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying or grilling",
+    "steps_overview": "Preparing Goong Pad Makham requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh prawns for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Goong Pad Makham has been a staple of southern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of southern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Goong Pad Makham Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Goong Pad Makham Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Goong Pad Makham",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local southern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "50-80 THB",
+      "market_stall": "60-100 THB",
+      "restaurant": "100-200 THB"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 38,
+  "slug": "bua-loy",
+  "name": {
+    "en": "Bua Loy",
+    "nl": "Bua Loy",
+    "thai": "บัวลอย"
+  },
+  "category": "dessert",
+  "region": "southern",
+  "spice_level": "none",
+  "description": {
+    "en": "Rice flour balls in sweet coconut milk",
+    "nl": "Rijstmeelballetjes in zoete kokosmelk"
+  },
+  "ingredients": [
+    "rice flour",
+    "coconut milk",
+    "palm sugar",
+    "salt",
+    "pandan"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian"
+  ],
+  "image": "/images/food/bua-loy.webp",
+  "preparation_time": "30 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Bua Loy Recipe | Authentic Thai dessert",
+      "nl": "Bua Loy Recept | Authentieke Thaise dessert"
+    },
+    "metaDescription": {
+      "en": "Learn about Bua Loy (บัวลอย) - Rice flour balls in sweet coconut milk...",
+      "nl": "Leer over Bua Loy (บัวลอย) - Rijstmeelballetjes in zoete kokosmelk..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "dessert",
+    "southern",
+    "easy",
+    "budget",
+    "rice-flour",
+    "coconut-milk",
+    "palm-sugar"
+  ],
+  "cooking": {
+    "preparation_time": "30 minutes",
+    "difficulty": "easy",
+    "spice_level": "none",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian"
+    ],
+    "price_range": "budget"
+  }
+}

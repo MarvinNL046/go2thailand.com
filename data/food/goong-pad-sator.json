@@ -1,0 +1,66 @@
+{
+  "id": 45,
+  "slug": "goong-pad-sator",
+  "name": {
+    "en": "Goong Pad Sator",
+    "nl": "Goong Pad Sator",
+    "thai": "กุ้งผัดสะตอ"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "medium",
+  "description": {
+    "en": "Prawns stir-fried with stink beans",
+    "nl": "Garnalen geroerbakt met stinkbonen"
+  },
+  "ingredients": [
+    "prawns",
+    "stink beans",
+    "shrimp paste",
+    "chili",
+    "garlic"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/goong-pad-sator.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Goong Pad Sator Recipe | Authentic Thai main dish",
+      "nl": "Goong Pad Sator Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Goong Pad Sator (กุ้งผัดสะตอ) - Prawns stir-fried with stink beans...",
+      "nl": "Leer over Goong Pad Sator (กุ้งผัดสะตอ) - Garnalen geroerbakt met stinkbonen..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "medium",
+    "easy",
+    "mid-range",
+    "prawns",
+    "stink-beans",
+    "shrimp-paste"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "mid-range"
+  }
+}

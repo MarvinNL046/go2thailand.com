@@ -66,5 +66,462 @@
       "dietary": [],
       "price_range": "mid-range"
     }
+  },
+  {
+    "id": 12,
+    "slug": "boat-noodles",
+    "name": {
+      "en": "Boat Noodles",
+      "nl": "Boot Noedels",
+      "thai": "ก๋วยเตี๋ยวเรือ"
+    },
+    "category": "soup",
+    "region": "central",
+    "spice_level": "medium",
+    "description": {
+      "en": "Rich pork or beef noodle soup traditionally served in small portions",
+      "nl": "Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties"
+    },
+    "ingredients": [
+      "rice noodles",
+      "pork or beef",
+      "dark soy sauce",
+      "chinese five spice",
+      "morning glory",
+      "bean sprouts"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/boat-noodles.webp",
+    "preparation_time": "30 minutes",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Boat Noodles Recipe | Authentic Thai soup",
+        "nl": "Boot Noedels Recept | Authentieke Thaise soup"
+      },
+      "metaDescription": {
+        "en": "Learn about Boat Noodles (ก๋วยเตี๋ยวเรือ) - Rich pork or beef noodle soup traditionally served in small portions...",
+        "nl": "Leer over Boot Noedels (ก๋วยเตี๋ยวเรือ) - Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "soup",
+      "central",
+      "medium",
+      "medium",
+      "budget",
+      "rice-noodles",
+      "pork-or beef",
+      "dark-soy sauce"
+    ],
+    "cooking": {
+      "preparation_time": "30 minutes",
+      "difficulty": "medium",
+      "spice_level": "medium",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 13,
+    "slug": "khao-soi",
+    "name": {
+      "en": "Khao Soi",
+      "nl": "Khao Soi",
+      "thai": "ข้าวซอย"
+    },
+    "category": "soup",
+    "region": "northern",
+    "spice_level": "medium",
+    "description": {
+      "en": "Creamy coconut curry noodle soup with crispy noodles on top",
+      "nl": "Romige kokoscurry-noedelsoep met krokante noedels bovenop"
+    },
+    "ingredients": [
+      "egg noodles",
+      "coconut milk",
+      "curry paste",
+      "chicken",
+      "shallots",
+      "lime",
+      "pickled mustard"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/khao-soi.webp",
+    "preparation_time": "35 minutes",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Khao Soi Recipe | Authentic Thai soup",
+        "nl": "Khao Soi Recept | Authentieke Thaise soup"
+      },
+      "metaDescription": {
+        "en": "Learn about Khao Soi (ข้าวซอย) - Creamy coconut curry noodle soup with crispy noodles on top...",
+        "nl": "Leer over Khao Soi (ข้าวซอย) - Romige kokoscurry-noedelsoep met krokante noedels bovenop..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "soup",
+      "northern",
+      "medium",
+      "medium",
+      "budget",
+      "egg-noodles",
+      "coconut-milk",
+      "curry-paste"
+    ],
+    "cooking": {
+      "preparation_time": "35 minutes",
+      "difficulty": "medium",
+      "spice_level": "medium",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 27,
+    "slug": "tom-yum-noodles",
+    "name": {
+      "en": "Tom Yum Noodles",
+      "nl": "Tom Yum Noedels",
+      "thai": "ก๋วยเตี๋ยวต้มยำ"
+    },
+    "category": "soup",
+    "region": "central",
+    "spice_level": "hot",
+    "description": {
+      "en": "Spicy and sour noodle soup with fish balls",
+      "nl": "Pittige en zure noedelsoep met visballen"
+    },
+    "ingredients": [
+      "rice noodles",
+      "fish balls",
+      "lime juice",
+      "chili",
+      "lemongrass",
+      "mushrooms"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/tom-yum-noodles.webp",
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Tom Yum Noodles Recipe | Authentic Thai soup",
+        "nl": "Tom Yum Noedels Recept | Authentieke Thaise soup"
+      },
+      "metaDescription": {
+        "en": "Learn about Tom Yum Noodles (ก๋วยเตี๋ยวต้มยำ) - Spicy and sour noodle soup with fish balls...",
+        "nl": "Leer over Tom Yum Noedels (ก๋วยเตี๋ยวต้มยำ) - Pittige en zure noedelsoep met visballen..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "soup",
+      "central",
+      "hot",
+      "easy",
+      "budget",
+      "rice-noodles",
+      "fish-balls",
+      "lime-juice"
+    ],
+    "cooking": {
+      "preparation_time": "15 minutes",
+      "difficulty": "easy",
+      "spice_level": "hot",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "seafood"
+      ],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 30,
+    "slug": "tom-som-pla",
+    "name": {
+      "en": "Tom Som Pla",
+      "nl": "Tom Som Pla",
+      "thai": "ต้มส้มปลา"
+    },
+    "category": "soup",
+    "region": "southern",
+    "spice_level": "medium",
+    "description": {
+      "en": "Sour and spicy fish soup with turmeric",
+      "nl": "Zure en pittige vissoep met kurkuma"
+    },
+    "ingredients": [
+      "fish",
+      "turmeric",
+      "tamarind",
+      "chili",
+      "shallots",
+      "lemongrass"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/tom-som-pla.webp",
+    "preparation_time": "25 minutes",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Tom Som Pla Recipe | Authentic Thai soup",
+        "nl": "Tom Som Pla Recept | Authentieke Thaise soup"
+      },
+      "metaDescription": {
+        "en": "Learn about Tom Som Pla (ต้มส้มปลา) - Sour and spicy fish soup with turmeric...",
+        "nl": "Leer over Tom Som Pla (ต้มส้มปลา) - Zure en pittige vissoep met kurkuma..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "soup",
+      "southern",
+      "medium",
+      "medium",
+      "budget",
+      "fish",
+      "turmeric",
+      "tamarind"
+    ],
+    "cooking": {
+      "preparation_time": "25 minutes",
+      "difficulty": "medium",
+      "spice_level": "medium",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "seafood"
+      ],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 33,
+    "slug": "nam-ngiao",
+    "name": {
+      "en": "Nam Ngiao",
+      "nl": "Nam Ngiao",
+      "thai": "น้ำเงี้ยว"
+    },
+    "category": "soup",
+    "region": "northern",
+    "spice_level": "medium",
+    "description": {
+      "en": "Northern noodle soup with pork blood and tomatoes",
+      "nl": "Noordelijke noedelsoep met varkensbloed en tomaten"
+    },
+    "ingredients": [
+      "rice noodles",
+      "pork ribs",
+      "tomatoes",
+      "fermented soybeans",
+      "pork blood",
+      "dried chili"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/nam-ngiao.webp",
+    "preparation_time": "45 minutes",
+    "difficulty": "hard",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Nam Ngiao Recipe | Authentic Thai soup",
+        "nl": "Nam Ngiao Recept | Authentieke Thaise soup"
+      },
+      "metaDescription": {
+        "en": "Learn about Nam Ngiao (น้ำเงี้ยว) - Northern noodle soup with pork blood and tomatoes...",
+        "nl": "Leer over Nam Ngiao (น้ำเงี้ยว) - Noordelijke noedelsoep met varkensbloed en tomaten..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "soup",
+      "northern",
+      "medium",
+      "hard",
+      "budget",
+      "rice-noodles",
+      "pork-ribs",
+      "tomatoes"
+    ],
+    "cooking": {
+      "preparation_time": "45 minutes",
+      "difficulty": "hard",
+      "spice_level": "medium",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 39,
+    "slug": "sukhothai-noodles",
+    "name": {
+      "en": "Sukhothai Noodles",
+      "nl": "Sukhothai Noedels",
+      "thai": "ก๋วยเตี๋ยวสุโขทัย"
+    },
+    "category": "soup",
+    "region": "northern",
+    "spice_level": "mild",
+    "description": {
+      "en": "Sukhothai style noodles with ground peanuts",
+      "nl": "Sukhothai stijl noedels met gemalen pinda's"
+    },
+    "ingredients": [
+      "rice noodles",
+      "pork",
+      "ground peanuts",
+      "green beans",
+      "lime",
+      "fish sauce"
+    ],
+    "allergens": [
+      "nuts"
+    ],
+    "dietary": [],
+    "image": "/images/food/sukhothai-noodles.webp",
+    "preparation_time": "20 minutes",
+    "difficulty": "easy",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Sukhothai Noodles Recipe | Authentic Thai soup",
+        "nl": "Sukhothai Noedels Recept | Authentieke Thaise soup"
+      },
+      "metaDescription": {
+        "en": "Learn about Sukhothai Noodles (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai style noodles with ground peanuts...",
+        "nl": "Leer over Sukhothai Noedels (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai stijl noedels met gemalen pinda's..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "soup",
+      "northern",
+      "mild",
+      "easy",
+      "budget",
+      "rice-noodles",
+      "pork",
+      "ground-peanuts"
+    ],
+    "cooking": {
+      "preparation_time": "20 minutes",
+      "difficulty": "easy",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "nuts"
+      ],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 40,
+    "slug": "kaeng-liang",
+    "name": {
+      "en": "Kaeng Liang",
+      "nl": "Kaeng Liang",
+      "thai": "แกงเลียง"
+    },
+    "category": "soup",
+    "region": "northern",
+    "spice_level": "medium",
+    "description": {
+      "en": "Spicy vegetable soup with shrimp",
+      "nl": "Pittige groentesoep met garnalen"
+    },
+    "ingredients": [
+      "mixed vegetables",
+      "shrimp",
+      "shrimp paste",
+      "shallots",
+      "white pepper"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/kaeng-liang.webp",
+    "preparation_time": "25 minutes",
+    "difficulty": "easy",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Kaeng Liang Recipe | Authentic Thai soup",
+        "nl": "Kaeng Liang Recept | Authentieke Thaise soup"
+      },
+      "metaDescription": {
+        "en": "Learn about Kaeng Liang (แกงเลียง) - Spicy vegetable soup with shrimp...",
+        "nl": "Leer over Kaeng Liang (แกงเลียง) - Pittige groentesoep met garnalen..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "soup",
+      "northern",
+      "medium",
+      "easy",
+      "budget",
+      "mixed-vegetables",
+      "shrimp",
+      "shrimp-paste"
+    ],
+    "cooking": {
+      "preparation_time": "25 minutes",
+      "difficulty": "easy",
+      "spice_level": "medium",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "seafood"
+      ],
+      "dietary": [],
+      "price_range": "budget"
+    }
   }
 ]

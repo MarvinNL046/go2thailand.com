@@ -1,0 +1,178 @@
+{
+  "id": 35,
+  "slug": "tam-khanun",
+  "name": {
+    "en": "Tam Khanun",
+    "nl": "Tam Khanun",
+    "thai": "ตำขนุน"
+  },
+  "category": "salad",
+  "region": "northern",
+  "spice_level": "hot",
+  "description": {
+    "en": "Spicy young jackfruit salad",
+    "nl": "Pittige jonge jackfruit salade"
+  },
+  "ingredients": [
+    "young jackfruit",
+    "chili",
+    "garlic",
+    "lime juice",
+    "fish sauce",
+    "tomatoes"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian option"
+  ],
+  "image": "/images/food/tam-khanun.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Tam Khanun Recipe | Authentic Thai salad",
+      "nl": "Tam Khanun Recept | Authentieke Thaise salad"
+    },
+    "metaDescription": {
+      "en": "Learn about Tam Khanun (ตำขนุน) - Spicy young jackfruit salad...",
+      "nl": "Leer over Tam Khanun (ตำขนุน) - Pittige jonge jackfruit salade..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "salad",
+    "northern",
+    "hot",
+    "medium",
+    "budget",
+    "young-jackfruit",
+    "chili",
+    "garlic"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Tam Khanun is a beloved fresh and vibrant salad from northern Thailand that fiery and bold. Spicy young jackfruit salad. This medium recipe takes about 20 minutes to prepare and represents the authentic flavors of Northern Thai cuisine is characterized by milder flavors, sticky rice, and herbs. The combination of young jackfruit, chili, garlic creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Young jackfruit",
+      "purpose": "Essential for authentic Tam Khanun flavor",
+      "substitutes": [
+        "Fresh young jackfruit",
+        "Dried young jackfruit",
+        "young jackfruit paste"
+      ]
+    },
+    {
+      "name": "Chili",
+      "purpose": "Essential for authentic Tam Khanun flavor",
+      "substitutes": [
+        "Fresh chili",
+        "Dried chili",
+        "chili paste"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Essential for authentic Tam Khanun flavor",
+      "substitutes": [
+        "Fresh garlic",
+        "Dried garlic",
+        "garlic paste"
+      ]
+    },
+    {
+      "name": "Lime juice",
+      "purpose": "Essential for authentic Tam Khanun flavor",
+      "substitutes": [
+        "Fresh lime juice",
+        "Dried lime juice",
+        "lime juice paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Fresh preparation and mixing",
+    "steps_overview": "Preparing Tam Khanun requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh young jackfruit for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Tam Khanun has been a staple of northern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of northern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Tam Khanun Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Tam Khanun Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Tam Khanun",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": [
+      "vegetarian option"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local northern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

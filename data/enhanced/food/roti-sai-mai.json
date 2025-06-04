@@ -1,0 +1,176 @@
+{
+  "id": 26,
+  "slug": "roti-sai-mai",
+  "name": {
+    "en": "Roti Sai Mai",
+    "nl": "Roti Sai Mai",
+    "thai": "โรตีสายไหม"
+  },
+  "category": "dessert",
+  "region": "central",
+  "spice_level": "none",
+  "description": {
+    "en": "Thai cotton candy wrapped in thin roti from Ayutthaya",
+    "nl": "Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya"
+  },
+  "ingredients": [
+    "flour",
+    "sugar",
+    "food coloring",
+    "water",
+    "salt"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian"
+  ],
+  "image": "/images/food/roti-sai-mai.webp",
+  "preparation_time": "30 minutes",
+  "difficulty": "hard",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Roti Sai Mai Recipe | Authentic Thai dessert",
+      "nl": "Roti Sai Mai Recept | Authentieke Thaise dessert"
+    },
+    "metaDescription": {
+      "en": "Learn about Roti Sai Mai (โรตีสายไหม) - Thai cotton candy wrapped in thin roti from Ayutthaya...",
+      "nl": "Leer over Roti Sai Mai (โรตีสายไหม) - Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "dessert",
+    "central",
+    "hard",
+    "budget",
+    "flour",
+    "sugar",
+    "food-coloring"
+  ],
+  "cooking": {
+    "preparation_time": "30 minutes",
+    "difficulty": "hard",
+    "spice_level": "none",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian"
+    ],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Roti Sai Mai is a beloved delightful sweet treat from central Thailand that gentle on the palate. Thai cotton candy wrapped in thin roti from Ayutthaya. This hard recipe takes about 30 minutes to prepare and represents the authentic flavors of Central Thai cuisine balances sweet, sour, salty and spicy flavors perfectly. The combination of flour, sugar, food coloring creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Flour",
+      "purpose": "Essential for authentic Roti Sai Mai flavor",
+      "substitutes": [
+        "Fresh flour",
+        "Dried flour",
+        "flour paste"
+      ]
+    },
+    {
+      "name": "Sugar",
+      "purpose": "Essential for authentic Roti Sai Mai flavor",
+      "substitutes": [
+        "Fresh sugar",
+        "Dried sugar",
+        "sugar paste"
+      ]
+    },
+    {
+      "name": "Food coloring",
+      "purpose": "Essential for authentic Roti Sai Mai flavor",
+      "substitutes": [
+        "Fresh food coloring",
+        "Dried food coloring",
+        "food coloring paste"
+      ]
+    },
+    {
+      "name": "Water",
+      "purpose": "Essential for authentic Roti Sai Mai flavor",
+      "substitutes": [
+        "Fresh water",
+        "Dried water",
+        "water paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Traditional preparation",
+    "steps_overview": "Preparing Roti Sai Mai requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh flour for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Roti Sai Mai has been a staple of central Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of central Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Roti Sai Mai Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Roti Sai Mai Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Roti Sai Mai",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "200-300 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": [
+      "vegetarian"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local central Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

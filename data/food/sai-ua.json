@@ -1,0 +1,64 @@
+{
+  "id": 14,
+  "slug": "sai-ua",
+  "name": {
+    "en": "Sai Ua",
+    "nl": "Sai Ua",
+    "thai": "ไส้อั่ว"
+  },
+  "category": "main-dish",
+  "region": "northern",
+  "spice_level": "hot",
+  "description": {
+    "en": "Spicy northern Thai sausage with herbs and spices",
+    "nl": "Pittige noordelijke Thaise worst met kruiden en specerijen"
+  },
+  "ingredients": [
+    "pork",
+    "lemongrass",
+    "kaffir lime leaves",
+    "shallots",
+    "garlic",
+    "chili",
+    "galangal"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/sai-ua.webp",
+  "preparation_time": "60 minutes",
+  "difficulty": "hard",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Sai Ua Recipe | Authentic Thai main dish",
+      "nl": "Sai Ua Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Sai Ua (ไส้อั่ว) - Spicy northern Thai sausage with herbs and spices...",
+      "nl": "Leer over Sai Ua (ไส้อั่ว) - Pittige noordelijke Thaise worst met kruiden en specerijen..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "northern",
+    "hot",
+    "hard",
+    "mid-range",
+    "pork",
+    "lemongrass",
+    "kaffir-lime leaves"
+  ],
+  "cooking": {
+    "preparation_time": "60 minutes",
+    "difficulty": "hard",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "mid-range"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 7,
+  "slug": "nam-anchan",
+  "name": {
+    "en": "Butterfly Pea Tea",
+    "nl": "Vlindererwt Thee",
+    "thai": "น้ำอัญชัน"
+  },
+  "category": "herbal",
+  "type": "both",
+  "description": {
+    "en": "Beautiful blue tea from butterfly pea flowers",
+    "nl": "Mooie blauwe thee van vlindererwt bloemen"
+  },
+  "ingredients": [
+    "butterfly pea flowers",
+    "sugar",
+    "lime juice"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan"
+  ],
+  "image": "/images/drinks/nam-anchan.webp",
+  "temperature": "both",
+  "alcohol_content": "none",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "all",
+  "occasions": [
+    "health drink",
+    "instagram"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Butterfly Pea Tea Recipe | Authentic Thai herbal",
+      "nl": "Vlindererwt Thee Recept | Authentieke Thaise herbal"
+    },
+    "metaDescription": {
+      "en": "Learn about Butterfly Pea Tea (น้ำอัญชัน) - Beautiful blue tea from butterfly pea flowers",
+      "nl": "Leer over Vlindererwt Thee (น้ำอัญชัน) - Mooie blauwe thee van vlindererwt bloemen"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "herbal",
+    "both",
+    "both",
+    "health-drink",
+    "instagram"
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": 11,
+  "slug": "khao-man-gai",
+  "name": {
+    "en": "Khao Man Gai",
+    "nl": "Khao Man Gai",
+    "thai": "ข้าวมันไก่"
+  },
+  "category": "main-dish",
+  "region": "central",
+  "spice_level": "mild",
+  "description": {
+    "en": "Steamed chicken with rice cooked in chicken broth and ginger-chili sauce",
+    "nl": "Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus"
+  },
+  "ingredients": [
+    "chicken",
+    "rice",
+    "ginger",
+    "garlic",
+    "coriander",
+    "cucumber",
+    "soybean paste"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/khao-man-gai.webp",
+  "preparation_time": "45 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Man Gai Recipe | Authentic Thai main dish",
+      "nl": "Khao Man Gai Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Khao Man Gai (ข้าวมันไก่) - Steamed chicken with rice cooked in chicken broth and ginger-chili sauce...",
+      "nl": "Leer over Khao Man Gai (ข้าวมันไก่) - Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "central",
+    "mild",
+    "medium",
+    "budget",
+    "chicken",
+    "rice",
+    "ginger"
+  ],
+  "cooking": {
+    "preparation_time": "45 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Khao Man Gai is a beloved hearty and satisfying main course from central Thailand that with a subtle warmth. Steamed chicken with rice cooked in chicken broth and ginger-chili sauce. This medium recipe takes about 45 minutes to prepare and represents the authentic flavors of Central Thai cuisine balances sweet, sour, salty and spicy flavors perfectly. The combination of chicken, rice, ginger creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Chicken",
+      "purpose": "Essential for authentic Khao Man Gai flavor",
+      "substitutes": [
+        "Fresh chicken",
+        "Dried chicken",
+        "chicken paste"
+      ]
+    },
+    {
+      "name": "Rice",
+      "purpose": "Essential for authentic Khao Man Gai flavor",
+      "substitutes": [
+        "Fresh rice",
+        "Dried rice",
+        "rice paste"
+      ]
+    },
+    {
+      "name": "Ginger",
+      "purpose": "Essential for authentic Khao Man Gai flavor",
+      "substitutes": [
+        "Fresh ginger",
+        "Dried ginger",
+        "ginger paste"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Essential for authentic Khao Man Gai flavor",
+      "substitutes": [
+        "Fresh garlic",
+        "Dried garlic",
+        "garlic paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying or grilling",
+    "steps_overview": "Preparing Khao Man Gai requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh chicken for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Khao Man Gai has been a staple of central Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of central Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Khao Man Gai Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Khao Man Gai Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Khao Man Gai",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local central Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

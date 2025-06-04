@@ -1,0 +1,23 @@
+{
+  "category": "soda",
+  "drinks": [
+    {
+      "id": 21,
+      "slug": "sala-syrup-soda",
+      "name": {
+        "en": "Sala Syrup Soda",
+        "nl": "Sala Siroop Soda",
+        "thai": "น้ำแดงโซดา"
+      }
+    },
+    {
+      "id": 25,
+      "slug": "manao-soda",
+      "name": {
+        "en": "Lime Soda",
+        "nl": "Limoen Soda",
+        "thai": "มะนาวโซดา"
+      }
+    }
+  ]
+}

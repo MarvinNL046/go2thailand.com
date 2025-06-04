@@ -1,0 +1,66 @@
+{
+  "id": 43,
+  "slug": "nam-prik-kapi",
+  "name": {
+    "en": "Nam Prik Kapi",
+    "nl": "Nam Prik Kapi",
+    "thai": "น้ำพริกกะปิ"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "hot",
+  "description": {
+    "en": "Shrimp paste chili dip with fresh vegetables",
+    "nl": "Garnalenpasta chili dip met verse groenten"
+  },
+  "ingredients": [
+    "shrimp paste",
+    "chili",
+    "garlic",
+    "lime juice",
+    "palm sugar"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/nam-prik-kapi.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Nam Prik Kapi Recipe | Authentic Thai main dish",
+      "nl": "Nam Prik Kapi Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Nam Prik Kapi (น้ำพริกกะปิ) - Shrimp paste chili dip with fresh vegetables...",
+      "nl": "Leer over Nam Prik Kapi (น้ำพริกกะปิ) - Garnalenpasta chili dip met verse groenten..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "hot",
+    "easy",
+    "budget",
+    "shrimp-paste",
+    "chili",
+    "garlic"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

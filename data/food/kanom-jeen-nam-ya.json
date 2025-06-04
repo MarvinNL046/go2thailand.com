@@ -1,0 +1,67 @@
+{
+  "id": 21,
+  "slug": "kanom-jeen-nam-ya",
+  "name": {
+    "en": "Kanom Jeen Nam Ya",
+    "nl": "Kanom Jeen Nam Ya",
+    "thai": "ขนมจีนน้ำยา"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "medium",
+  "description": {
+    "en": "Fermented rice noodles with fish curry sauce",
+    "nl": "Gefermenteerde rijstnoedels met viscurrysaus"
+  },
+  "ingredients": [
+    "fermented rice noodles",
+    "fish",
+    "lemongrass",
+    "galangal",
+    "chili",
+    "coconut milk"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/kanom-jeen-nam-ya.webp",
+  "preparation_time": "45 minutes",
+  "difficulty": "hard",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Kanom Jeen Nam Ya Recipe | Authentic Thai main dish",
+      "nl": "Kanom Jeen Nam Ya Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Fermented rice noodles with fish curry sauce...",
+      "nl": "Leer over Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Gefermenteerde rijstnoedels met viscurrysaus..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "medium",
+    "hard",
+    "budget",
+    "fermented-rice noodles",
+    "fish",
+    "lemongrass"
+  ],
+  "cooking": {
+    "preparation_time": "45 minutes",
+    "difficulty": "hard",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

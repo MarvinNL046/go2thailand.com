@@ -1,0 +1,172 @@
+{
+  "id": 15,
+  "slug": "nam-prik-ong",
+  "name": {
+    "en": "Nam Prik Ong",
+    "nl": "Nam Prik Ong",
+    "thai": "น้ำพริกอ่อง"
+  },
+  "category": "main-dish",
+  "region": "northern",
+  "spice_level": "medium",
+  "description": {
+    "en": "Tomato and minced pork chili dip served with vegetables",
+    "nl": "Tomaten-chili dip met varkensgehakt geserveerd met groenten"
+  },
+  "ingredients": [
+    "tomatoes",
+    "minced pork",
+    "shallots",
+    "garlic",
+    "dried chili",
+    "shrimp paste"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/nam-prik-ong.webp",
+  "preparation_time": "25 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Nam Prik Ong Recipe | Authentic Thai main dish",
+      "nl": "Nam Prik Ong Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Nam Prik Ong (น้ำพริกอ่อง) - Tomato and minced pork chili dip served with vegetables...",
+      "nl": "Leer over Nam Prik Ong (น้ำพริกอ่อง) - Tomaten-chili dip met varkensgehakt geserveerd met groenten..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "northern",
+    "medium",
+    "easy",
+    "budget",
+    "tomatoes",
+    "minced-pork",
+    "shallots"
+  ],
+  "cooking": {
+    "preparation_time": "25 minutes",
+    "difficulty": "easy",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Nam Prik Ong is a beloved hearty and satisfying main course from northern Thailand that with a pleasant kick of heat. Tomato and minced pork chili dip served with vegetables. This easy recipe takes about 25 minutes to prepare and represents the authentic flavors of Northern Thai cuisine is characterized by milder flavors, sticky rice, and herbs. The combination of tomatoes, minced pork, shallots creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Tomatoes",
+      "purpose": "Essential for authentic Nam Prik Ong flavor",
+      "substitutes": [
+        "Fresh tomatoes",
+        "Dried tomatoes",
+        "tomatoes paste"
+      ]
+    },
+    {
+      "name": "Minced pork",
+      "purpose": "Essential for authentic Nam Prik Ong flavor",
+      "substitutes": [
+        "Fresh minced pork",
+        "Dried minced pork",
+        "minced pork paste"
+      ]
+    },
+    {
+      "name": "Shallots",
+      "purpose": "Essential for authentic Nam Prik Ong flavor",
+      "substitutes": [
+        "Fresh shallots",
+        "Dried shallots",
+        "shallots paste"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Essential for authentic Nam Prik Ong flavor",
+      "substitutes": [
+        "Fresh garlic",
+        "Dried garlic",
+        "garlic paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying or grilling",
+    "steps_overview": "Preparing Nam Prik Ong requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh tomatoes for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Nam Prik Ong has been a staple of northern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of northern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Nam Prik Ong Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Nam Prik Ong Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Nam Prik Ong",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local northern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

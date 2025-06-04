@@ -1,0 +1,176 @@
+{
+  "id": 39,
+  "slug": "sukhothai-noodles",
+  "name": {
+    "en": "Sukhothai Noodles",
+    "nl": "Sukhothai Noedels",
+    "thai": "ก๋วยเตี๋ยวสุโขทัย"
+  },
+  "category": "soup",
+  "region": "northern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Sukhothai style noodles with ground peanuts",
+    "nl": "Sukhothai stijl noedels met gemalen pinda's"
+  },
+  "ingredients": [
+    "rice noodles",
+    "pork",
+    "ground peanuts",
+    "green beans",
+    "lime",
+    "fish sauce"
+  ],
+  "allergens": [
+    "nuts"
+  ],
+  "dietary": [],
+  "image": "/images/food/sukhothai-noodles.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Sukhothai Noodles Recipe | Authentic Thai soup",
+      "nl": "Sukhothai Noedels Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Sukhothai Noodles (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai style noodles with ground peanuts...",
+      "nl": "Leer over Sukhothai Noedels (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai stijl noedels met gemalen pinda's..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "soup",
+    "northern",
+    "mild",
+    "easy",
+    "budget",
+    "rice-noodles",
+    "pork",
+    "ground-peanuts"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "easy",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "nuts"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Sukhothai Noodles is a beloved soul-warming soup from northern Thailand that with a subtle warmth. Sukhothai style noodles with ground peanuts. This easy recipe takes about 20 minutes to prepare and represents the authentic flavors of Northern Thai cuisine is characterized by milder flavors, sticky rice, and herbs. The combination of rice noodles, pork, ground peanuts creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Rice noodles",
+      "purpose": "Essential for authentic Sukhothai Noodles flavor",
+      "substitutes": [
+        "Fresh rice noodles",
+        "Dried rice noodles",
+        "rice noodles paste"
+      ]
+    },
+    {
+      "name": "Pork",
+      "purpose": "Essential for authentic Sukhothai Noodles flavor",
+      "substitutes": [
+        "Fresh pork",
+        "Dried pork",
+        "pork paste"
+      ]
+    },
+    {
+      "name": "Ground peanuts",
+      "purpose": "Essential for authentic Sukhothai Noodles flavor",
+      "substitutes": [
+        "Fresh ground peanuts",
+        "Dried ground peanuts",
+        "ground peanuts paste"
+      ]
+    },
+    {
+      "name": "Green beans",
+      "purpose": "Essential for authentic Sukhothai Noodles flavor",
+      "substitutes": [
+        "Fresh green beans",
+        "Dried green beans",
+        "green beans paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Simmering and layering flavors",
+    "steps_overview": "Preparing Sukhothai Noodles requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh rice noodles for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Sukhothai Noodles has been a staple of northern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of northern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Sukhothai Noodles Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Sukhothai Noodles Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Sukhothai Noodles",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served in a bowl in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local northern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

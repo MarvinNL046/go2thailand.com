@@ -1,0 +1,177 @@
+{
+  "id": 17,
+  "slug": "mee-hokkien",
+  "name": {
+    "en": "Mee Hokkien",
+    "nl": "Mee Hokkien",
+    "thai": "หมี่ฮกเกี้ยน"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Stir-fried Hokkien noodles with seafood Phuket style",
+    "nl": "Gebakken Hokkien-noedels met zeevruchten Phuket stijl"
+  },
+  "ingredients": [
+    "yellow noodles",
+    "shrimp",
+    "squid",
+    "pork",
+    "soy sauce",
+    "chinese kale",
+    "egg"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/mee-hokkien.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "medium",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Mee Hokkien Recipe | Authentic Thai main dish",
+      "nl": "Mee Hokkien Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Mee Hokkien (หมี่ฮกเกี้ยน) - Stir-fried Hokkien noodles with seafood Phuket style...",
+      "nl": "Leer over Mee Hokkien (หมี่ฮกเกี้ยน) - Gebakken Hokkien-noedels met zeevruchten Phuket stijl..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "mild",
+    "medium",
+    "mid-range",
+    "yellow-noodles",
+    "shrimp",
+    "squid"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "mid-range"
+  },
+  "enhanced_description": "Mee Hokkien is a beloved hearty and satisfying main course from southern Thailand that with a subtle warmth. Stir-fried Hokkien noodles with seafood Phuket style. This medium recipe takes about 20 minutes to prepare and represents the authentic flavors of Southern Thai cuisine features intense spices, seafood, and coconut-based curries. The combination of yellow noodles, shrimp, squid creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking reasonably priced authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Yellow noodles",
+      "purpose": "Essential for authentic Mee Hokkien flavor",
+      "substitutes": [
+        "Fresh yellow noodles",
+        "Dried yellow noodles",
+        "yellow noodles paste"
+      ]
+    },
+    {
+      "name": "Shrimp",
+      "purpose": "Essential for authentic Mee Hokkien flavor",
+      "substitutes": [
+        "Fresh shrimp",
+        "Dried shrimp",
+        "shrimp paste"
+      ]
+    },
+    {
+      "name": "Squid",
+      "purpose": "Essential for authentic Mee Hokkien flavor",
+      "substitutes": [
+        "Fresh squid",
+        "Dried squid",
+        "squid paste"
+      ]
+    },
+    {
+      "name": "Pork",
+      "purpose": "Essential for authentic Mee Hokkien flavor",
+      "substitutes": [
+        "Fresh pork",
+        "Dried pork",
+        "pork paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying or grilling",
+    "steps_overview": "Preparing Mee Hokkien requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh yellow noodles for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Mee Hokkien has been a staple of southern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of southern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Mee Hokkien Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Mee Hokkien Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Mee Hokkien",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local southern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "50-80 THB",
+      "market_stall": "60-100 THB",
+      "restaurant": "100-200 THB"
+    }
+  }
+}

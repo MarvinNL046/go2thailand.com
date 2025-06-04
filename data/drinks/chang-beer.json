@@ -1,0 +1,53 @@
+{
+  "id": 9,
+  "slug": "chang-beer",
+  "name": {
+    "en": "Chang Beer",
+    "nl": "Chang Bier",
+    "thai": "เบียร์ช้าง"
+  },
+  "category": "alcohol",
+  "type": "cold",
+  "description": {
+    "en": "Popular Thai beer with elephant logo",
+    "nl": "Populair Thais bier met olifant logo"
+  },
+  "ingredients": [
+    "barley",
+    "hops",
+    "water"
+  ],
+  "allergens": [
+    "gluten"
+  ],
+  "dietary": [],
+  "image": "/images/drinks/chang-beer.webp",
+  "temperature": "cold",
+  "alcohol_content": "5%",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "all",
+  "occasions": [
+    "social",
+    "casual"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Chang Beer Recipe | Authentic Thai alcohol",
+      "nl": "Chang Bier Recept | Authentieke Thaise alcohol"
+    },
+    "metaDescription": {
+      "en": "Learn about Chang Beer (เบียร์ช้าง) - Popular Thai beer with elephant logo",
+      "nl": "Leer over Chang Bier (เบียร์ช้าง) - Populair Thais bier met olifant logo"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "alcohol",
+    "cold",
+    "cold",
+    "social",
+    "casual"
+  ]
+}

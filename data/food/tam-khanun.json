@@ -1,0 +1,67 @@
+{
+  "id": 35,
+  "slug": "tam-khanun",
+  "name": {
+    "en": "Tam Khanun",
+    "nl": "Tam Khanun",
+    "thai": "ตำขนุน"
+  },
+  "category": "salad",
+  "region": "northern",
+  "spice_level": "hot",
+  "description": {
+    "en": "Spicy young jackfruit salad",
+    "nl": "Pittige jonge jackfruit salade"
+  },
+  "ingredients": [
+    "young jackfruit",
+    "chili",
+    "garlic",
+    "lime juice",
+    "fish sauce",
+    "tomatoes"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian option"
+  ],
+  "image": "/images/food/tam-khanun.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Tam Khanun Recipe | Authentic Thai salad",
+      "nl": "Tam Khanun Recept | Authentieke Thaise salad"
+    },
+    "metaDescription": {
+      "en": "Learn about Tam Khanun (ตำขนุน) - Spicy young jackfruit salad...",
+      "nl": "Leer over Tam Khanun (ตำขนุน) - Pittige jonge jackfruit salade..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "salad",
+    "northern",
+    "hot",
+    "medium",
+    "budget",
+    "young-jackfruit",
+    "chili",
+    "garlic"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "price_range": "budget"
+  }
+}

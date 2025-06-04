@@ -1,0 +1,173 @@
+{
+  "id": 28,
+  "slug": "khao-mok-gai",
+  "name": {
+    "en": "Khao Mok Gai",
+    "nl": "Khao Mok Gai",
+    "thai": "ข้าวหมกไก่"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Thai-style biryani with chicken and fragrant yellow rice",
+    "nl": "Thaise biryani met kip en geurige gele rijst"
+  },
+  "ingredients": [
+    "chicken",
+    "rice",
+    "turmeric",
+    "bay leaves",
+    "cinnamon",
+    "cardamom",
+    "raisins"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/khao-mok-gai.webp",
+  "preparation_time": "60 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Mok Gai Recipe | Authentic Thai main dish",
+      "nl": "Khao Mok Gai Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Khao Mok Gai (ข้าวหมกไก่) - Thai-style biryani with chicken and fragrant yellow rice...",
+      "nl": "Leer over Khao Mok Gai (ข้าวหมกไก่) - Thaise biryani met kip en geurige gele rijst..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "mild",
+    "medium",
+    "budget",
+    "chicken",
+    "rice",
+    "turmeric"
+  ],
+  "cooking": {
+    "preparation_time": "60 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Khao Mok Gai is a beloved hearty and satisfying main course from southern Thailand that with a subtle warmth. Thai-style biryani with chicken and fragrant yellow rice. This medium recipe takes about 60 minutes to prepare and represents the authentic flavors of Southern Thai cuisine features intense spices, seafood, and coconut-based curries. The combination of chicken, rice, turmeric creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Chicken",
+      "purpose": "Essential for authentic Khao Mok Gai flavor",
+      "substitutes": [
+        "Fresh chicken",
+        "Dried chicken",
+        "chicken paste"
+      ]
+    },
+    {
+      "name": "Rice",
+      "purpose": "Essential for authentic Khao Mok Gai flavor",
+      "substitutes": [
+        "Fresh rice",
+        "Dried rice",
+        "rice paste"
+      ]
+    },
+    {
+      "name": "Turmeric",
+      "purpose": "Essential for authentic Khao Mok Gai flavor",
+      "substitutes": [
+        "Fresh turmeric",
+        "Dried turmeric",
+        "turmeric paste"
+      ]
+    },
+    {
+      "name": "Bay leaves",
+      "purpose": "Essential for authentic Khao Mok Gai flavor",
+      "substitutes": [
+        "Fresh bay leaves",
+        "Dried bay leaves",
+        "bay leaves paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying or grilling",
+    "steps_overview": "Preparing Khao Mok Gai requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh chicken for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Khao Mok Gai has been a staple of southern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of southern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Khao Mok Gai Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Khao Mok Gai Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Khao Mok Gai",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local southern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

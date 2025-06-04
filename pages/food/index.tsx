@@ -2,6 +2,7 @@ import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
+import { useState } from 'react';
 import { getAllDishes } from '../../lib/food';
 import EzoicAd from '../../components/EzoicAd';
 import { EZOIC_PLACEMENT_IDS } from '../../lib/ads/ezoic-config';
@@ -27,6 +28,29 @@ interface FoodIndexPageProps {
 }
 
 export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps) {
+  // Start with 12 dishes or all dishes if less than 12
+  const initialLoad = Math.min(12, dishes.length);
+  const [visibleDishes, setVisibleDishes] = useState(initialLoad);
+  const [isLoading, setIsLoading] = useState(false);
+  const dishesPerLoad = 12; // Load 12 more each time
+
+  const handleShowMore = () => {
+    setIsLoading(true);
+    // Simulate loading delay for better UX
+    setTimeout(() => {
+      setVisibleDishes(prev => {
+        // Ensure we're adding exactly dishesPerLoad or the remaining dishes
+        const remaining = dishes.length - prev;
+        const toAdd = Math.min(dishesPerLoad, remaining);
+        return prev + toAdd;
+      });
+      setIsLoading(false);
+    }, 300);
+  };
+
+  // Calculate how many dishes are left to show
+  const remainingDishes = dishes.length - visibleDishes;
+
   const getSpiceLevelColor = (level: string) => {
     switch (level) {
       case 'mild': return 'bg-green-100 text-green-800';
@@ -131,12 +155,57 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
           </div>
         </section>
 
+        {/* Category Navigation */}
+        <section className="bg-gray-50 py-8">
+          <div className="container-custom">
+            <h2 className="text-2xl font-bold text-center mb-6">Browse by Category</h2>
+            <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+              <Link href="/food/category/main-dish/" className="group">
+                <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-thailand-red">
+                  <div className="text-4xl mb-2">🍛</div>
+                  <h3 className="font-semibold text-gray-900 group-hover:text-thailand-red">Main Dishes</h3>
+                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'main-dish').length} recipes</p>
+                </div>
+              </Link>
+              <Link href="/food/category/soup/" className="group">
+                <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-thailand-blue">
+                  <div className="text-4xl mb-2">🍜</div>
+                  <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue">Soups</h3>
+                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'soup').length} recipes</p>
+                </div>
+              </Link>
+              <Link href="/food/category/curry/" className="group">
+                <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-yellow-500">
+                  <div className="text-4xl mb-2">🍛</div>
+                  <h3 className="font-semibold text-gray-900 group-hover:text-yellow-600">Curries</h3>
+                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'curry').length} recipes</p>
+                </div>
+              </Link>
+              <Link href="/food/category/salad/" className="group">
+                <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-green-500">
+                  <div className="text-4xl mb-2">🥗</div>
+                  <h3 className="font-semibold text-gray-900 group-hover:text-green-600">Salads</h3>
+                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'salad').length} recipes</p>
+                </div>
+              </Link>
+              <Link href="/food/category/dessert/" className="group">
+                <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-pink-500">
+                  <div className="text-4xl mb-2">🍨</div>
+                  <h3 className="font-semibold text-gray-900 group-hover:text-pink-600">Desserts</h3>
+                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'dessert').length} recipes</p>
+                </div>
+              </Link>
+            </div>
+          </div>
+        </section>
+
         {/* Dishes Grid */}
         <section className="section-padding">
           <div className="container-custom">
-            {/* First batch of dishes */}
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
-              {dishes.slice(0, 6).map((dish) => (
+            <h2 className="text-3xl font-bold text-center mb-8">All Thai Dishes</h2>
+            
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              {dishes.slice(0, visibleDishes).map((dish) => (
                 <Link key={dish.id} href={`/food/${dish.slug}`} className="group">
                   <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
                     <div className="relative w-full h-48 overflow-hidden">
@@ -200,8 +269,8 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
             </div>
 
             {/* 💰 MID-CONTENT AD - FOOD ENGAGEMENT */}
-            {dishes.length > 6 && (
-              <div className="mb-12">
+            {visibleDishes >= 12 && (
+              <div className="my-12">
                 <EzoicAd 
                   placementId={110}
                   size="rectangle"
@@ -211,70 +280,41 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
               </div>
             )}
 
-            {/* Remaining dishes */}
-            {dishes.length > 6 && (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                {dishes.slice(6).map((dish) => (
-                  <Link key={dish.id} href={`/food/${dish.slug}`} className="group">
-                    <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
-                      <div className="relative w-full h-48 overflow-hidden">
-                        <Image
-                          src={dish.image}
-                          alt={dish.name.en}
-                          fill
-                          className="object-cover group-hover:scale-105 transition-transform duration-300"
-                        />
-                        <div className="absolute inset-0 bg-black bg-opacity-20 group-hover:bg-opacity-10 transition-opacity duration-300"></div>
-                        <div className="absolute top-3 left-3">
-                          <span className={`px-2 py-1 rounded-full text-xs font-medium ${getSpiceLevelColor(dish.spice_level)}`}>
-                            🌶️ {dish.spice_level === 'none' ? 'Not Spicy' : dish.spice_level}
-                          </span>
-                        </div>
-                        <div className="absolute top-3 right-3">
-                          <span className="bg-white bg-opacity-90 text-thailand-blue px-2 py-1 rounded-full text-xs font-medium">
-                            {dish.preparation_time}
-                          </span>
-                        </div>
-                      </div>
-                      <div className="p-6">
-                        <div className="flex items-center mb-3">
-                          <div className="flex items-center text-thailand-blue">
-                            {getCategoryIcon(dish.category)}
-                            <span className="ml-2 text-sm font-medium capitalize">
-                              {dish.category.replace('-', ' ')}
-                            </span>
-                          </div>
-                        </div>
-                        
-                        <h3 className="text-xl font-bold text-gray-900 mb-2 group-hover:text-thailand-blue transition-colors">
-                          {dish.name.en}
-                        </h3>
-                        <p className="text-gray-600 text-sm mb-3">
-                          {dish.name.thai}
-                        </p>
-                        
-                        <div className="flex items-center justify-between text-sm text-gray-500 mb-4">
-                          <span>⏱️ {dish.preparation_time}</span>
-                          <span>📍 {dish.region}</span>
-                          <span>💰 {dish.price_range}</span>
-                        </div>
-                        
-                        <div className="flex flex-wrap gap-1">
-                          {dish.ingredients.slice(0, 3).map((ingredient, index) => (
-                            <span key={index} className="bg-gray-100 text-gray-600 px-2 py-1 rounded text-xs">
-                              {ingredient}
-                            </span>
-                          ))}
-                          {dish.ingredients.length > 3 && (
-                            <span className="bg-gray-100 text-gray-600 px-2 py-1 rounded text-xs">
-                              +{dish.ingredients.length - 3} more
-                            </span>
-                          )}
-                        </div>
-                      </div>
-                    </div>
-                  </Link>
-                ))}
+            {/* Show More Button */}
+            {visibleDishes < dishes.length && (
+              <div className="text-center mt-12">
+                <button
+                  onClick={handleShowMore}
+                  disabled={isLoading}
+                  className="bg-thailand-blue text-white px-8 py-3 rounded-lg font-semibold hover:bg-thailand-red transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl disabled:opacity-50 disabled:cursor-not-allowed"
+                >
+                  {isLoading ? (
+                    <span className="flex items-center">
+                      <svg className="animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                        <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                      </svg>
+                      Loading...
+                    </span>
+                  ) : (
+                    `Show More Dishes (${remainingDishes} remaining)`
+                  )}
+                </button>
+              </div>
+            )}
+
+            {/* Show message when all dishes are displayed */}
+            {visibleDishes >= dishes.length && (
+              <div className="text-center mt-12 p-6 bg-gray-50 rounded-lg">
+                <p className="text-gray-600 mb-4">
+                  You've reached the end! That's all {dishes.length} Thai dishes we have.
+                </p>
+                <Link 
+                  href="/food/category/"
+                  className="text-thailand-blue hover:text-thailand-red font-semibold underline"
+                >
+                  Browse by Category →
+                </Link>
               </div>
             )}
           </div>

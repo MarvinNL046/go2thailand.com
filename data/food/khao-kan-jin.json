@@ -1,0 +1,63 @@
+{
+  "id": 36,
+  "slug": "khao-kan-jin",
+  "name": {
+    "en": "Khao Kan Jin",
+    "nl": "Khao Kan Jin",
+    "thai": "ข้าวกั้นจิ๊น"
+  },
+  "category": "main-dish",
+  "region": "northern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Steamed rice with pork blood in banana leaf",
+    "nl": "Gestoomde rijst met varkensbloed in bananenblad"
+  },
+  "ingredients": [
+    "rice",
+    "pork blood",
+    "garlic",
+    "shallots",
+    "lemongrass",
+    "banana leaves"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/khao-kan-jin.webp",
+  "preparation_time": "60 minutes",
+  "difficulty": "hard",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Kan Jin Recipe | Authentic Thai main dish",
+      "nl": "Khao Kan Jin Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Khao Kan Jin (ข้าวกั้นจิ๊น) - Steamed rice with pork blood in banana leaf...",
+      "nl": "Leer over Khao Kan Jin (ข้าวกั้นจิ๊น) - Gestoomde rijst met varkensbloed in bananenblad..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "northern",
+    "mild",
+    "hard",
+    "budget",
+    "rice",
+    "pork-blood",
+    "garlic"
+  ],
+  "cooking": {
+    "preparation_time": "60 minutes",
+    "difficulty": "hard",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

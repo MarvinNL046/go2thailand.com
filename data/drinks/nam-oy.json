@@ -1,0 +1,53 @@
+{
+  "id": 22,
+  "slug": "nam-oy",
+  "name": {
+    "en": "Sugarcane Water",
+    "nl": "Suikerriet Water",
+    "thai": "น้ำอ้อย"
+  },
+  "category": "juice",
+  "type": "cold",
+  "description": {
+    "en": "Fresh sugarcane juice sometimes with added flavors",
+    "nl": "Vers suikerriet sap soms met toegevoegde smaken"
+  },
+  "ingredients": [
+    "sugarcane",
+    "lime",
+    "salt"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan"
+  ],
+  "image": "/images/drinks/nam-oy.webp",
+  "temperature": "cold",
+  "alcohol_content": "none",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "all",
+  "occasions": [
+    "energy boost",
+    "street"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Sugarcane Water Recipe | Authentic Thai juice",
+      "nl": "Suikerriet Water Recept | Authentieke Thaise juice"
+    },
+    "metaDescription": {
+      "en": "Learn about Sugarcane Water (น้ำอ้อย) - Fresh sugarcane juice sometimes with added flavors",
+      "nl": "Leer over Suikerriet Water (น้ำอ้อย) - Vers suikerriet sap soms met toegevoegde smaken"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "juice",
+    "cold",
+    "cold",
+    "energy-boost",
+    "street"
+  ]
+}

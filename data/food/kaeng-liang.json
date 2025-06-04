@@ -1,0 +1,66 @@
+{
+  "id": 40,
+  "slug": "kaeng-liang",
+  "name": {
+    "en": "Kaeng Liang",
+    "nl": "Kaeng Liang",
+    "thai": "แกงเลียง"
+  },
+  "category": "soup",
+  "region": "northern",
+  "spice_level": "medium",
+  "description": {
+    "en": "Spicy vegetable soup with shrimp",
+    "nl": "Pittige groentesoep met garnalen"
+  },
+  "ingredients": [
+    "mixed vegetables",
+    "shrimp",
+    "shrimp paste",
+    "shallots",
+    "white pepper"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/kaeng-liang.webp",
+  "preparation_time": "25 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Kaeng Liang Recipe | Authentic Thai soup",
+      "nl": "Kaeng Liang Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Kaeng Liang (แกงเลียง) - Spicy vegetable soup with shrimp...",
+      "nl": "Leer over Kaeng Liang (แกงเลียง) - Pittige groentesoep met garnalen..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "soup",
+    "northern",
+    "medium",
+    "easy",
+    "budget",
+    "mixed-vegetables",
+    "shrimp",
+    "shrimp-paste"
+  ],
+  "cooking": {
+    "preparation_time": "25 minutes",
+    "difficulty": "easy",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

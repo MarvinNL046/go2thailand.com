@@ -1,0 +1,66 @@
+{
+  "id": 23,
+  "slug": "pla-pao",
+  "name": {
+    "en": "Pla Pao",
+    "nl": "Pla Pao",
+    "thai": "ปลาเผา"
+  },
+  "category": "main-dish",
+  "region": "central",
+  "spice_level": "mild",
+  "description": {
+    "en": "Grilled fish in salt crust served with spicy seafood sauce",
+    "nl": "Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus"
+  },
+  "ingredients": [
+    "whole fish",
+    "coarse salt",
+    "lemongrass",
+    "lime leaves",
+    "seafood dipping sauce"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/pla-pao.webp",
+  "preparation_time": "40 minutes",
+  "difficulty": "medium",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Pla Pao Recipe | Authentic Thai main dish",
+      "nl": "Pla Pao Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Pla Pao (ปลาเผา) - Grilled fish in salt crust served with spicy seafood sauce...",
+      "nl": "Leer over Pla Pao (ปลาเผา) - Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "central",
+    "mild",
+    "medium",
+    "mid-range",
+    "whole-fish",
+    "coarse-salt",
+    "lemongrass"
+  ],
+  "cooking": {
+    "preparation_time": "40 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "mid-range"
+  }
+}

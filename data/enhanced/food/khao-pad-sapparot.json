@@ -1,0 +1,176 @@
+{
+  "id": 25,
+  "slug": "khao-pad-sapparot",
+  "name": {
+    "en": "Khao Pad Sapparot",
+    "nl": "Khao Pad Sapparot",
+    "thai": "ข้าวผัดสับปะรด"
+  },
+  "category": "main-dish",
+  "region": "central",
+  "spice_level": "mild",
+  "description": {
+    "en": "Pineapple fried rice served in pineapple shell",
+    "nl": "Ananas gebakken rijst geserveerd in ananasschil"
+  },
+  "ingredients": [
+    "rice",
+    "pineapple",
+    "shrimp",
+    "cashew nuts",
+    "curry powder",
+    "raisins"
+  ],
+  "allergens": [
+    "nuts seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/khao-pad-sapparot.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "medium",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Pad Sapparot Recipe | Authentic Thai main dish",
+      "nl": "Khao Pad Sapparot Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Khao Pad Sapparot (ข้าวผัดสับปะรด) - Pineapple fried rice served in pineapple shell...",
+      "nl": "Leer over Khao Pad Sapparot (ข้าวผัดสับปะรด) - Ananas gebakken rijst geserveerd in ananasschil..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "central",
+    "mild",
+    "medium",
+    "mid-range",
+    "rice",
+    "pineapple",
+    "shrimp"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "nuts seafood"
+    ],
+    "dietary": [],
+    "price_range": "mid-range"
+  },
+  "enhanced_description": "Khao Pad Sapparot is a beloved hearty and satisfying main course from central Thailand that with a subtle warmth. Pineapple fried rice served in pineapple shell. This medium recipe takes about 20 minutes to prepare and represents the authentic flavors of Central Thai cuisine balances sweet, sour, salty and spicy flavors perfectly. The combination of rice, pineapple, shrimp creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking reasonably priced authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Rice",
+      "purpose": "Essential for authentic Khao Pad Sapparot flavor",
+      "substitutes": [
+        "Fresh rice",
+        "Dried rice",
+        "rice paste"
+      ]
+    },
+    {
+      "name": "Pineapple",
+      "purpose": "Essential for authentic Khao Pad Sapparot flavor",
+      "substitutes": [
+        "Fresh pineapple",
+        "Dried pineapple",
+        "pineapple paste"
+      ]
+    },
+    {
+      "name": "Shrimp",
+      "purpose": "Essential for authentic Khao Pad Sapparot flavor",
+      "substitutes": [
+        "Fresh shrimp",
+        "Dried shrimp",
+        "shrimp paste"
+      ]
+    },
+    {
+      "name": "Cashew nuts",
+      "purpose": "Essential for authentic Khao Pad Sapparot flavor",
+      "substitutes": [
+        "Fresh cashew nuts",
+        "Dried cashew nuts",
+        "cashew nuts paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying or grilling",
+    "steps_overview": "Preparing Khao Pad Sapparot requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh rice for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Khao Pad Sapparot has been a staple of central Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of central Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Khao Pad Sapparot Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Khao Pad Sapparot Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Khao Pad Sapparot",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local central Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "50-80 THB",
+      "market_stall": "60-100 THB",
+      "restaurant": "100-200 THB"
+    }
+  }
+}

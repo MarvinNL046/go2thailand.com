@@ -1,0 +1,176 @@
+{
+  "id": 44,
+  "slug": "gaeng-tai-pla",
+  "name": {
+    "en": "Gaeng Tai Pla",
+    "nl": "Gaeng Tai Pla",
+    "thai": "แกงไตปลา"
+  },
+  "category": "curry",
+  "region": "southern",
+  "spice_level": "very hot",
+  "description": {
+    "en": "Intensely spicy southern fish organ curry",
+    "nl": "Intens pittige zuidelijke visorganen curry"
+  },
+  "ingredients": [
+    "fish organs",
+    "chili",
+    "lemongrass",
+    "turmeric",
+    "vegetables",
+    "fish sauce"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/gaeng-tai-pla.webp",
+  "preparation_time": "40 minutes",
+  "difficulty": "hard",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Gaeng Tai Pla Recipe | Authentic Thai curry",
+      "nl": "Gaeng Tai Pla Recept | Authentieke Thaise curry"
+    },
+    "metaDescription": {
+      "en": "Learn about Gaeng Tai Pla (แกงไตปลา) - Intensely spicy southern fish organ curry...",
+      "nl": "Leer over Gaeng Tai Pla (แกงไตปลา) - Intens pittige zuidelijke visorganen curry..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "curry",
+    "southern",
+    "very hot",
+    "hard",
+    "budget",
+    "fish-organs",
+    "chili",
+    "lemongrass"
+  ],
+  "cooking": {
+    "preparation_time": "40 minutes",
+    "difficulty": "hard",
+    "spice_level": "very hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Gaeng Tai Pla is a beloved rich and aromatic curry from southern Thailand that intensely spicy for true chili lovers. Intensely spicy southern fish organ curry. This hard recipe takes about 40 minutes to prepare and represents the authentic flavors of Southern Thai cuisine features intense spices, seafood, and coconut-based curries. The combination of fish organs, chili, lemongrass creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Fish organs",
+      "purpose": "Essential for authentic Gaeng Tai Pla flavor",
+      "substitutes": [
+        "Fresh fish organs",
+        "Dried fish organs",
+        "fish organs paste"
+      ]
+    },
+    {
+      "name": "Chili",
+      "purpose": "Essential for authentic Gaeng Tai Pla flavor",
+      "substitutes": [
+        "Fresh chili",
+        "Dried chili",
+        "chili paste"
+      ]
+    },
+    {
+      "name": "Lemongrass",
+      "purpose": "Essential for authentic Gaeng Tai Pla flavor",
+      "substitutes": [
+        "Fresh lemongrass",
+        "Dried lemongrass",
+        "lemongrass paste"
+      ]
+    },
+    {
+      "name": "Turmeric",
+      "purpose": "Essential for authentic Gaeng Tai Pla flavor",
+      "substitutes": [
+        "Fresh turmeric",
+        "Dried turmeric",
+        "turmeric paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Curry paste frying and coconut milk reduction",
+    "steps_overview": "Preparing Gaeng Tai Pla requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh fish organs for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Gaeng Tai Pla has been a staple of southern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of southern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Gaeng Tai Pla Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Gaeng Tai Pla Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Gaeng Tai Pla",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local southern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

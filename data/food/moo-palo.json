@@ -1,0 +1,63 @@
+{
+  "id": 41,
+  "slug": "moo-palo",
+  "name": {
+    "en": "Moo Palo",
+    "nl": "Moo Palo",
+    "thai": "หมูพะโล้"
+  },
+  "category": "main-dish",
+  "region": "northern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Pork belly stewed in sweet soy sauce with eggs",
+    "nl": "Varkensbuik gestoofd in zoete sojasaus met eieren"
+  },
+  "ingredients": [
+    "pork belly",
+    "eggs",
+    "soy sauce",
+    "palm sugar",
+    "chinese five spice",
+    "coriander root"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/moo-palo.webp",
+  "preparation_time": "90 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Moo Palo Recipe | Authentic Thai main dish",
+      "nl": "Moo Palo Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Moo Palo (หมูพะโล้) - Pork belly stewed in sweet soy sauce with eggs...",
+      "nl": "Leer over Moo Palo (หมูพะโล้) - Varkensbuik gestoofd in zoete sojasaus met eieren..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "northern",
+    "mild",
+    "medium",
+    "budget",
+    "pork-belly",
+    "eggs",
+    "soy-sauce"
+  ],
+  "cooking": {
+    "preparation_time": "90 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

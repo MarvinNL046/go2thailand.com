@@ -1,0 +1,64 @@
+{
+  "id": 28,
+  "slug": "khao-mok-gai",
+  "name": {
+    "en": "Khao Mok Gai",
+    "nl": "Khao Mok Gai",
+    "thai": "ข้าวหมกไก่"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Thai-style biryani with chicken and fragrant yellow rice",
+    "nl": "Thaise biryani met kip en geurige gele rijst"
+  },
+  "ingredients": [
+    "chicken",
+    "rice",
+    "turmeric",
+    "bay leaves",
+    "cinnamon",
+    "cardamom",
+    "raisins"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/khao-mok-gai.webp",
+  "preparation_time": "60 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Mok Gai Recipe | Authentic Thai main dish",
+      "nl": "Khao Mok Gai Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Khao Mok Gai (ข้าวหมกไก่) - Thai-style biryani with chicken and fragrant yellow rice...",
+      "nl": "Leer over Khao Mok Gai (ข้าวหมกไก่) - Thaise biryani met kip en geurige gele rijst..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "mild",
+    "medium",
+    "budget",
+    "chicken",
+    "rice",
+    "turmeric"
+  ],
+  "cooking": {
+    "preparation_time": "60 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

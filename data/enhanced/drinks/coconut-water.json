@@ -1,0 +1,51 @@
+{
+  "id": 14,
+  "slug": "coconut-water",
+  "name": {
+    "en": "Fresh Coconut Water",
+    "nl": "Vers Kokoswater",
+    "thai": "น้ำมะพร้าว"
+  },
+  "category": "natural",
+  "type": "cold",
+  "description": {
+    "en": "Natural isotonic drink straight from coconut",
+    "nl": "Natuurlijke isotone drank direct uit kokosnoot"
+  },
+  "ingredients": [
+    "coconut water"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan"
+  ],
+  "image": "/images/drinks/coconut-water.webp",
+  "temperature": "cold",
+  "alcohol_content": "none",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "all",
+  "occasions": [
+    "beach",
+    "hot weather"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Fresh Coconut Water Recipe | Authentic Thai natural",
+      "nl": "Vers Kokoswater Recept | Authentieke Thaise natural"
+    },
+    "metaDescription": {
+      "en": "Learn about Fresh Coconut Water (น้ำมะพร้าว) - Natural isotonic drink straight from coconut",
+      "nl": "Leer over Vers Kokoswater (น้ำมะพร้าว) - Natuurlijke isotone drank direct uit kokosnoot"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "natural",
+    "cold",
+    "cold",
+    "beach",
+    "hot-weather"
+  ]
+}

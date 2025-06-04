@@ -1,0 +1,64 @@
+{
+  "id": 18,
+  "slug": "oh-aew",
+  "name": {
+    "en": "Oh Aew",
+    "nl": "Oh Aew",
+    "thai": "โอ้เอ๋ว"
+  },
+  "category": "dessert",
+  "region": "southern",
+  "spice_level": "none",
+  "description": {
+    "en": "Shaved ice dessert with jelly made from banana flour",
+    "nl": "IJsdessert met gelei van bananenmeel"
+  },
+  "ingredients": [
+    "banana flour jelly",
+    "shaved ice",
+    "syrup",
+    "coconut milk"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian"
+  ],
+  "image": "/images/food/oh-aew.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Oh Aew Recipe | Authentic Thai dessert",
+      "nl": "Oh Aew Recept | Authentieke Thaise dessert"
+    },
+    "metaDescription": {
+      "en": "Learn about Oh Aew (โอ้เอ๋ว) - Shaved ice dessert with jelly made from banana flour...",
+      "nl": "Leer over Oh Aew (โอ้เอ๋ว) - IJsdessert met gelei van bananenmeel..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "dessert",
+    "southern",
+    "easy",
+    "budget",
+    "banana-flour jelly",
+    "shaved-ice",
+    "syrup"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "spice_level": "none",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian"
+    ],
+    "price_range": "budget"
+  }
+}

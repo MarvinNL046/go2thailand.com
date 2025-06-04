@@ -265,5 +265,1244 @@
       ],
       "price_range": "budget"
     }
+  },
+  {
+    "id": 11,
+    "slug": "khao-man-gai",
+    "name": {
+      "en": "Khao Man Gai",
+      "nl": "Khao Man Gai",
+      "thai": "ข้าวมันไก่"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "mild",
+    "description": {
+      "en": "Steamed chicken with rice cooked in chicken broth and ginger-chili sauce",
+      "nl": "Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus"
+    },
+    "ingredients": [
+      "chicken",
+      "rice",
+      "ginger",
+      "garlic",
+      "coriander",
+      "cucumber",
+      "soybean paste"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/khao-man-gai.webp",
+    "preparation_time": "45 minutes",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Khao Man Gai Recipe | Authentic Thai main dish",
+        "nl": "Khao Man Gai Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Khao Man Gai (ข้าวมันไก่) - Steamed chicken with rice cooked in chicken broth and ginger-chili sauce...",
+        "nl": "Leer over Khao Man Gai (ข้าวมันไก่) - Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "central",
+      "mild",
+      "medium",
+      "budget",
+      "chicken",
+      "rice",
+      "ginger"
+    ],
+    "cooking": {
+      "preparation_time": "45 minutes",
+      "difficulty": "medium",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 14,
+    "slug": "sai-ua",
+    "name": {
+      "en": "Sai Ua",
+      "nl": "Sai Ua",
+      "thai": "ไส้อั่ว"
+    },
+    "category": "main-dish",
+    "region": "northern",
+    "spice_level": "hot",
+    "description": {
+      "en": "Spicy northern Thai sausage with herbs and spices",
+      "nl": "Pittige noordelijke Thaise worst met kruiden en specerijen"
+    },
+    "ingredients": [
+      "pork",
+      "lemongrass",
+      "kaffir lime leaves",
+      "shallots",
+      "garlic",
+      "chili",
+      "galangal"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/sai-ua.webp",
+    "preparation_time": "60 minutes",
+    "difficulty": "hard",
+    "price_range": "mid-range",
+    "seo": {
+      "metaTitle": {
+        "en": "Sai Ua Recipe | Authentic Thai main dish",
+        "nl": "Sai Ua Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Sai Ua (ไส้อั่ว) - Spicy northern Thai sausage with herbs and spices...",
+        "nl": "Leer over Sai Ua (ไส้อั่ว) - Pittige noordelijke Thaise worst met kruiden en specerijen..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "northern",
+      "hot",
+      "hard",
+      "mid-range",
+      "pork",
+      "lemongrass",
+      "kaffir-lime leaves"
+    ],
+    "cooking": {
+      "preparation_time": "60 minutes",
+      "difficulty": "hard",
+      "spice_level": "hot",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "mid-range"
+    }
+  },
+  {
+    "id": 15,
+    "slug": "nam-prik-ong",
+    "name": {
+      "en": "Nam Prik Ong",
+      "nl": "Nam Prik Ong",
+      "thai": "น้ำพริกอ่อง"
+    },
+    "category": "main-dish",
+    "region": "northern",
+    "spice_level": "medium",
+    "description": {
+      "en": "Tomato and minced pork chili dip served with vegetables",
+      "nl": "Tomaten-chili dip met varkensgehakt geserveerd met groenten"
+    },
+    "ingredients": [
+      "tomatoes",
+      "minced pork",
+      "shallots",
+      "garlic",
+      "dried chili",
+      "shrimp paste"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/nam-prik-ong.webp",
+    "preparation_time": "25 minutes",
+    "difficulty": "easy",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Nam Prik Ong Recipe | Authentic Thai main dish",
+        "nl": "Nam Prik Ong Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Nam Prik Ong (น้ำพริกอ่อง) - Tomato and minced pork chili dip served with vegetables...",
+        "nl": "Leer over Nam Prik Ong (น้ำพริกอ่อง) - Tomaten-chili dip met varkensgehakt geserveerd met groenten..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "northern",
+      "medium",
+      "easy",
+      "budget",
+      "tomatoes",
+      "minced-pork",
+      "shallots"
+    ],
+    "cooking": {
+      "preparation_time": "25 minutes",
+      "difficulty": "easy",
+      "spice_level": "medium",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 17,
+    "slug": "mee-hokkien",
+    "name": {
+      "en": "Mee Hokkien",
+      "nl": "Mee Hokkien",
+      "thai": "หมี่ฮกเกี้ยน"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "mild",
+    "description": {
+      "en": "Stir-fried Hokkien noodles with seafood Phuket style",
+      "nl": "Gebakken Hokkien-noedels met zeevruchten Phuket stijl"
+    },
+    "ingredients": [
+      "yellow noodles",
+      "shrimp",
+      "squid",
+      "pork",
+      "soy sauce",
+      "chinese kale",
+      "egg"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/mee-hokkien.webp",
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "price_range": "mid-range",
+    "seo": {
+      "metaTitle": {
+        "en": "Mee Hokkien Recipe | Authentic Thai main dish",
+        "nl": "Mee Hokkien Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Mee Hokkien (หมี่ฮกเกี้ยน) - Stir-fried Hokkien noodles with seafood Phuket style...",
+        "nl": "Leer over Mee Hokkien (หมี่ฮกเกี้ยน) - Gebakken Hokkien-noedels met zeevruchten Phuket stijl..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "southern",
+      "mild",
+      "medium",
+      "mid-range",
+      "yellow-noodles",
+      "shrimp",
+      "squid"
+    ],
+    "cooking": {
+      "preparation_time": "20 minutes",
+      "difficulty": "medium",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "seafood"
+      ],
+      "dietary": [],
+      "price_range": "mid-range"
+    }
+  },
+  {
+    "id": 19,
+    "slug": "nam-prik-goong-siap",
+    "name": {
+      "en": "Nam Prik Goong Siap",
+      "nl": "Nam Prik Goong Siap",
+      "thai": "น้ำพริกกุ้งเสียบ"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "hot",
+    "description": {
+      "en": "Spicy dip with smoked dried shrimp",
+      "nl": "Pittige dipsaus met gerookte gedroogde garnalen"
+    },
+    "ingredients": [
+      "dried shrimp",
+      "chili",
+      "garlic",
+      "shallots",
+      "lime juice",
+      "palm sugar"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/nam-prik-goong-siap.webp",
+    "preparation_time": "20 minutes",
+    "difficulty": "easy",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Nam Prik Goong Siap Recipe | Authentic Thai main dish",
+        "nl": "Nam Prik Goong Siap Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Spicy dip with smoked dried shrimp...",
+        "nl": "Leer over Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Pittige dipsaus met gerookte gedroogde garnalen..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "southern",
+      "hot",
+      "easy",
+      "budget",
+      "dried-shrimp",
+      "chili",
+      "garlic"
+    ],
+    "cooking": {
+      "preparation_time": "20 minutes",
+      "difficulty": "easy",
+      "spice_level": "hot",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "seafood"
+      ],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 20,
+    "slug": "moo-hong",
+    "name": {
+      "en": "Moo Hong",
+      "nl": "Moo Hong",
+      "thai": "หมูฮ้อง"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "mild",
+    "description": {
+      "en": "Braised pork belly in sweet soy sauce Phuket style",
+      "nl": "Gestoofd varkensbuik in zoete sojasaus Phuket stijl"
+    },
+    "ingredients": [
+      "pork belly",
+      "soy sauce",
+      "palm sugar",
+      "garlic",
+      "white pepper",
+      "coriander root"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/moo-hong.webp",
+    "preparation_time": "90 minutes",
+    "difficulty": "medium",
+    "price_range": "mid-range",
+    "seo": {
+      "metaTitle": {
+        "en": "Moo Hong Recipe | Authentic Thai main dish",
+        "nl": "Moo Hong Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Moo Hong (หมูฮ้อง) - Braised pork belly in sweet soy sauce Phuket style...",
+        "nl": "Leer over Moo Hong (หมูฮ้อง) - Gestoofd varkensbuik in zoete sojasaus Phuket stijl..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "southern",
+      "mild",
+      "medium",
+      "mid-range",
+      "pork-belly",
+      "soy-sauce",
+      "palm-sugar"
+    ],
+    "cooking": {
+      "preparation_time": "90 minutes",
+      "difficulty": "medium",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "mid-range"
+    }
+  },
+  {
+    "id": 21,
+    "slug": "kanom-jeen-nam-ya",
+    "name": {
+      "en": "Kanom Jeen Nam Ya",
+      "nl": "Kanom Jeen Nam Ya",
+      "thai": "ขนมจีนน้ำยา"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "medium",
+    "description": {
+      "en": "Fermented rice noodles with fish curry sauce",
+      "nl": "Gefermenteerde rijstnoedels met viscurrysaus"
+    },
+    "ingredients": [
+      "fermented rice noodles",
+      "fish",
+      "lemongrass",
+      "galangal",
+      "chili",
+      "coconut milk"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/kanom-jeen-nam-ya.webp",
+    "preparation_time": "45 minutes",
+    "difficulty": "hard",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Kanom Jeen Nam Ya Recipe | Authentic Thai main dish",
+        "nl": "Kanom Jeen Nam Ya Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Fermented rice noodles with fish curry sauce...",
+        "nl": "Leer over Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Gefermenteerde rijstnoedels met viscurrysaus..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "southern",
+      "medium",
+      "hard",
+      "budget",
+      "fermented-rice noodles",
+      "fish",
+      "lemongrass"
+    ],
+    "cooking": {
+      "preparation_time": "45 minutes",
+      "difficulty": "hard",
+      "spice_level": "medium",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "seafood"
+      ],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 22,
+    "slug": "hoy-tod",
+    "name": {
+      "en": "Hoy Tod",
+      "nl": "Hoy Tod",
+      "thai": "หอยทอด"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "mild",
+    "description": {
+      "en": "Crispy mussel or oyster pancake with bean sprouts",
+      "nl": "Knapperige mossel- of oesterpannenkoek met taugé"
+    },
+    "ingredients": [
+      "mussels or oysters",
+      "flour",
+      "egg",
+      "bean sprouts",
+      "chinese chives"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/hoy-tod.webp",
+    "preparation_time": "15 minutes",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Hoy Tod Recipe | Authentic Thai main dish",
+        "nl": "Hoy Tod Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Hoy Tod (หอยทอด) - Crispy mussel or oyster pancake with bean sprouts...",
+        "nl": "Leer over Hoy Tod (หอยทอด) - Knapperige mossel- of oesterpannenkoek met taugé..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "central",
+      "mild",
+      "medium",
+      "budget",
+      "mussels-or oysters",
+      "flour",
+      "egg"
+    ],
+    "cooking": {
+      "preparation_time": "15 minutes",
+      "difficulty": "medium",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "seafood"
+      ],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 23,
+    "slug": "pla-pao",
+    "name": {
+      "en": "Pla Pao",
+      "nl": "Pla Pao",
+      "thai": "ปลาเผา"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "mild",
+    "description": {
+      "en": "Grilled fish in salt crust served with spicy seafood sauce",
+      "nl": "Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus"
+    },
+    "ingredients": [
+      "whole fish",
+      "coarse salt",
+      "lemongrass",
+      "lime leaves",
+      "seafood dipping sauce"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/pla-pao.webp",
+    "preparation_time": "40 minutes",
+    "difficulty": "medium",
+    "price_range": "mid-range",
+    "seo": {
+      "metaTitle": {
+        "en": "Pla Pao Recipe | Authentic Thai main dish",
+        "nl": "Pla Pao Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Pla Pao (ปลาเผา) - Grilled fish in salt crust served with spicy seafood sauce...",
+        "nl": "Leer over Pla Pao (ปลาเผา) - Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "central",
+      "mild",
+      "medium",
+      "mid-range",
+      "whole-fish",
+      "coarse-salt",
+      "lemongrass"
+    ],
+    "cooking": {
+      "preparation_time": "40 minutes",
+      "difficulty": "medium",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "seafood"
+      ],
+      "dietary": [],
+      "price_range": "mid-range"
+    }
+  },
+  {
+    "id": 25,
+    "slug": "khao-pad-sapparot",
+    "name": {
+      "en": "Khao Pad Sapparot",
+      "nl": "Khao Pad Sapparot",
+      "thai": "ข้าวผัดสับปะรด"
+    },
+    "category": "main-dish",
+    "region": "central",
+    "spice_level": "mild",
+    "description": {
+      "en": "Pineapple fried rice served in pineapple shell",
+      "nl": "Ananas gebakken rijst geserveerd in ananasschil"
+    },
+    "ingredients": [
+      "rice",
+      "pineapple",
+      "shrimp",
+      "cashew nuts",
+      "curry powder",
+      "raisins"
+    ],
+    "allergens": [
+      "nuts seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/khao-pad-sapparot.webp",
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "price_range": "mid-range",
+    "seo": {
+      "metaTitle": {
+        "en": "Khao Pad Sapparot Recipe | Authentic Thai main dish",
+        "nl": "Khao Pad Sapparot Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Khao Pad Sapparot (ข้าวผัดสับปะรด) - Pineapple fried rice served in pineapple shell...",
+        "nl": "Leer over Khao Pad Sapparot (ข้าวผัดสับปะรด) - Ananas gebakken rijst geserveerd in ananasschil..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "central",
+      "mild",
+      "medium",
+      "mid-range",
+      "rice",
+      "pineapple",
+      "shrimp"
+    ],
+    "cooking": {
+      "preparation_time": "20 minutes",
+      "difficulty": "medium",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "nuts seafood"
+      ],
+      "dietary": [],
+      "price_range": "mid-range"
+    }
+  },
+  {
+    "id": 28,
+    "slug": "khao-mok-gai",
+    "name": {
+      "en": "Khao Mok Gai",
+      "nl": "Khao Mok Gai",
+      "thai": "ข้าวหมกไก่"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "mild",
+    "description": {
+      "en": "Thai-style biryani with chicken and fragrant yellow rice",
+      "nl": "Thaise biryani met kip en geurige gele rijst"
+    },
+    "ingredients": [
+      "chicken",
+      "rice",
+      "turmeric",
+      "bay leaves",
+      "cinnamon",
+      "cardamom",
+      "raisins"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/khao-mok-gai.webp",
+    "preparation_time": "60 minutes",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Khao Mok Gai Recipe | Authentic Thai main dish",
+        "nl": "Khao Mok Gai Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Khao Mok Gai (ข้าวหมกไก่) - Thai-style biryani with chicken and fragrant yellow rice...",
+        "nl": "Leer over Khao Mok Gai (ข้าวหมกไก่) - Thaise biryani met kip en geurige gele rijst..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "southern",
+      "mild",
+      "medium",
+      "budget",
+      "chicken",
+      "rice",
+      "turmeric"
+    ],
+    "cooking": {
+      "preparation_time": "60 minutes",
+      "difficulty": "medium",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 29,
+    "slug": "goong-pad-makham",
+    "name": {
+      "en": "Goong Pad Makham",
+      "nl": "Goong Pad Makham",
+      "thai": "กุ้งผัดมะขาม"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "mild",
+    "description": {
+      "en": "Prawns stir-fried in tangy tamarind sauce",
+      "nl": "Garnalen geroerbakt in pittige tamarindesaus"
+    },
+    "ingredients": [
+      "prawns",
+      "tamarind paste",
+      "palm sugar",
+      "fish sauce",
+      "shallots",
+      "dried chili"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/goong-pad-makham.webp",
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "price_range": "mid-range",
+    "seo": {
+      "metaTitle": {
+        "en": "Goong Pad Makham Recipe | Authentic Thai main dish",
+        "nl": "Goong Pad Makham Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Goong Pad Makham (กุ้งผัดมะขาม) - Prawns stir-fried in tangy tamarind sauce...",
+        "nl": "Leer over Goong Pad Makham (กุ้งผัดมะขาม) - Garnalen geroerbakt in pittige tamarindesaus..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "southern",
+      "mild",
+      "easy",
+      "mid-range",
+      "prawns",
+      "tamarind-paste",
+      "palm-sugar"
+    ],
+    "cooking": {
+      "preparation_time": "15 minutes",
+      "difficulty": "easy",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "seafood"
+      ],
+      "dietary": [],
+      "price_range": "mid-range"
+    }
+  },
+  {
+    "id": 31,
+    "slug": "gai-tod-hat-yai",
+    "name": {
+      "en": "Gai Tod Hat Yai",
+      "nl": "Gai Tod Hat Yai",
+      "thai": "ไก่ทอดหาดใหญ่"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "mild",
+    "description": {
+      "en": "Hat Yai style fried chicken with crispy shallots",
+      "nl": "Hat Yai stijl gefrituurde kip met krokante sjalotten"
+    },
+    "ingredients": [
+      "chicken",
+      "shallots",
+      "garlic",
+      "white pepper",
+      "fish sauce",
+      "rice flour"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/gai-tod-hat-yai.webp",
+    "preparation_time": "40 minutes",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Gai Tod Hat Yai Recipe | Authentic Thai main dish",
+        "nl": "Gai Tod Hat Yai Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai style fried chicken with crispy shallots...",
+        "nl": "Leer over Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai stijl gefrituurde kip met krokante sjalotten..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "southern",
+      "mild",
+      "medium",
+      "budget",
+      "chicken",
+      "shallots",
+      "garlic"
+    ],
+    "cooking": {
+      "preparation_time": "40 minutes",
+      "difficulty": "medium",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 36,
+    "slug": "khao-kan-jin",
+    "name": {
+      "en": "Khao Kan Jin",
+      "nl": "Khao Kan Jin",
+      "thai": "ข้าวกั้นจิ๊น"
+    },
+    "category": "main-dish",
+    "region": "northern",
+    "spice_level": "mild",
+    "description": {
+      "en": "Steamed rice with pork blood in banana leaf",
+      "nl": "Gestoomde rijst met varkensbloed in bananenblad"
+    },
+    "ingredients": [
+      "rice",
+      "pork blood",
+      "garlic",
+      "shallots",
+      "lemongrass",
+      "banana leaves"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/khao-kan-jin.webp",
+    "preparation_time": "60 minutes",
+    "difficulty": "hard",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Khao Kan Jin Recipe | Authentic Thai main dish",
+        "nl": "Khao Kan Jin Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Khao Kan Jin (ข้าวกั้นจิ๊น) - Steamed rice with pork blood in banana leaf...",
+        "nl": "Leer over Khao Kan Jin (ข้าวกั้นจิ๊น) - Gestoomde rijst met varkensbloed in bananenblad..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "northern",
+      "mild",
+      "hard",
+      "budget",
+      "rice",
+      "pork-blood",
+      "garlic"
+    ],
+    "cooking": {
+      "preparation_time": "60 minutes",
+      "difficulty": "hard",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 37,
+    "slug": "roti-canai",
+    "name": {
+      "en": "Roti Canai",
+      "nl": "Roti Canai",
+      "thai": "โรตีกะหรี่"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "mild",
+    "description": {
+      "en": "Malaysian-Thai flatbread served with curry",
+      "nl": "Maleisisch-Thais platbrood geserveerd met curry"
+    },
+    "ingredients": [
+      "flour",
+      "ghee",
+      "egg",
+      "salt",
+      "curry for dipping"
+    ],
+    "allergens": [],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "image": "/images/food/roti-canai.webp",
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Roti Canai Recipe | Authentic Thai main dish",
+        "nl": "Roti Canai Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Roti Canai (โรตีกะหรี่) - Malaysian-Thai flatbread served with curry...",
+        "nl": "Leer over Roti Canai (โรตีกะหรี่) - Maleisisch-Thais platbrood geserveerd met curry..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "southern",
+      "mild",
+      "medium",
+      "budget",
+      "flour",
+      "ghee",
+      "egg"
+    ],
+    "cooking": {
+      "preparation_time": "20 minutes",
+      "difficulty": "medium",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [
+        "vegetarian option"
+      ],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 41,
+    "slug": "moo-palo",
+    "name": {
+      "en": "Moo Palo",
+      "nl": "Moo Palo",
+      "thai": "หมูพะโล้"
+    },
+    "category": "main-dish",
+    "region": "northern",
+    "spice_level": "mild",
+    "description": {
+      "en": "Pork belly stewed in sweet soy sauce with eggs",
+      "nl": "Varkensbuik gestoofd in zoete sojasaus met eieren"
+    },
+    "ingredients": [
+      "pork belly",
+      "eggs",
+      "soy sauce",
+      "palm sugar",
+      "chinese five spice",
+      "coriander root"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/moo-palo.webp",
+    "preparation_time": "90 minutes",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Moo Palo Recipe | Authentic Thai main dish",
+        "nl": "Moo Palo Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Moo Palo (หมูพะโล้) - Pork belly stewed in sweet soy sauce with eggs...",
+        "nl": "Leer over Moo Palo (หมูพะโล้) - Varkensbuik gestoofd in zoete sojasaus met eieren..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "northern",
+      "mild",
+      "medium",
+      "budget",
+      "pork-belly",
+      "eggs",
+      "soy-sauce"
+    ],
+    "cooking": {
+      "preparation_time": "90 minutes",
+      "difficulty": "medium",
+      "spice_level": "mild",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 42,
+    "slug": "nam-prik-noom",
+    "name": {
+      "en": "Nam Prik Noom",
+      "nl": "Nam Prik Noom",
+      "thai": "น้ำพริกหนุ่ม"
+    },
+    "category": "main-dish",
+    "region": "northern",
+    "spice_level": "medium",
+    "description": {
+      "en": "Northern green chili dip with grilled vegetables",
+      "nl": "Noordelijke groene chili dip met gegrilde groenten"
+    },
+    "ingredients": [
+      "green chili",
+      "garlic",
+      "shallots",
+      "tomatoes",
+      "coriander"
+    ],
+    "allergens": [],
+    "dietary": [
+      "vegetarian"
+    ],
+    "image": "/images/food/nam-prik-noom.webp",
+    "preparation_time": "25 minutes",
+    "difficulty": "easy",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Nam Prik Noom Recipe | Authentic Thai main dish",
+        "nl": "Nam Prik Noom Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Nam Prik Noom (น้ำพริกหนุ่ม) - Northern green chili dip with grilled vegetables...",
+        "nl": "Leer over Nam Prik Noom (น้ำพริกหนุ่ม) - Noordelijke groene chili dip met gegrilde groenten..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "northern",
+      "medium",
+      "easy",
+      "budget",
+      "green-chili",
+      "garlic",
+      "shallots"
+    ],
+    "cooking": {
+      "preparation_time": "25 minutes",
+      "difficulty": "easy",
+      "spice_level": "medium",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [
+        "vegetarian"
+      ],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 43,
+    "slug": "nam-prik-kapi",
+    "name": {
+      "en": "Nam Prik Kapi",
+      "nl": "Nam Prik Kapi",
+      "thai": "น้ำพริกกะปิ"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "hot",
+    "description": {
+      "en": "Shrimp paste chili dip with fresh vegetables",
+      "nl": "Garnalenpasta chili dip met verse groenten"
+    },
+    "ingredients": [
+      "shrimp paste",
+      "chili",
+      "garlic",
+      "lime juice",
+      "palm sugar"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/nam-prik-kapi.webp",
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Nam Prik Kapi Recipe | Authentic Thai main dish",
+        "nl": "Nam Prik Kapi Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Nam Prik Kapi (น้ำพริกกะปิ) - Shrimp paste chili dip with fresh vegetables...",
+        "nl": "Leer over Nam Prik Kapi (น้ำพริกกะปิ) - Garnalenpasta chili dip met verse groenten..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "southern",
+      "hot",
+      "easy",
+      "budget",
+      "shrimp-paste",
+      "chili",
+      "garlic"
+    ],
+    "cooking": {
+      "preparation_time": "15 minutes",
+      "difficulty": "easy",
+      "spice_level": "hot",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "seafood"
+      ],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 45,
+    "slug": "goong-pad-sator",
+    "name": {
+      "en": "Goong Pad Sator",
+      "nl": "Goong Pad Sator",
+      "thai": "กุ้งผัดสะตอ"
+    },
+    "category": "main-dish",
+    "region": "southern",
+    "spice_level": "medium",
+    "description": {
+      "en": "Prawns stir-fried with stink beans",
+      "nl": "Garnalen geroerbakt met stinkbonen"
+    },
+    "ingredients": [
+      "prawns",
+      "stink beans",
+      "shrimp paste",
+      "chili",
+      "garlic"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "image": "/images/food/goong-pad-sator.webp",
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "price_range": "mid-range",
+    "seo": {
+      "metaTitle": {
+        "en": "Goong Pad Sator Recipe | Authentic Thai main dish",
+        "nl": "Goong Pad Sator Recept | Authentieke Thaise main dish"
+      },
+      "metaDescription": {
+        "en": "Learn about Goong Pad Sator (กุ้งผัดสะตอ) - Prawns stir-fried with stink beans...",
+        "nl": "Leer over Goong Pad Sator (กุ้งผัดสะตอ) - Garnalen geroerbakt met stinkbonen..."
+      }
+    },
+    "tags": [
+      "thai-food",
+      "thailand",
+      "main-dish",
+      "southern",
+      "medium",
+      "easy",
+      "mid-range",
+      "prawns",
+      "stink-beans",
+      "shrimp-paste"
+    ],
+    "cooking": {
+      "preparation_time": "15 minutes",
+      "difficulty": "easy",
+      "spice_level": "medium",
+      "serves": "2-4 people"
+    },
+    "nutrition": {
+      "allergens": [
+        "seafood"
+      ],
+      "dietary": [],
+      "price_range": "mid-range"
+    }
   }
 ]

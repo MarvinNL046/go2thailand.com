@@ -1,0 +1,175 @@
+{
+  "id": 43,
+  "slug": "nam-prik-kapi",
+  "name": {
+    "en": "Nam Prik Kapi",
+    "nl": "Nam Prik Kapi",
+    "thai": "น้ำพริกกะปิ"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "hot",
+  "description": {
+    "en": "Shrimp paste chili dip with fresh vegetables",
+    "nl": "Garnalenpasta chili dip met verse groenten"
+  },
+  "ingredients": [
+    "shrimp paste",
+    "chili",
+    "garlic",
+    "lime juice",
+    "palm sugar"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/nam-prik-kapi.webp",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Nam Prik Kapi Recipe | Authentic Thai main dish",
+      "nl": "Nam Prik Kapi Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Nam Prik Kapi (น้ำพริกกะปิ) - Shrimp paste chili dip with fresh vegetables...",
+      "nl": "Leer over Nam Prik Kapi (น้ำพริกกะปิ) - Garnalenpasta chili dip met verse groenten..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "hot",
+    "easy",
+    "budget",
+    "shrimp-paste",
+    "chili",
+    "garlic"
+  ],
+  "cooking": {
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Nam Prik Kapi is a beloved hearty and satisfying main course from southern Thailand that fiery and bold. Shrimp paste chili dip with fresh vegetables. This easy recipe takes about 15 minutes to prepare and represents the authentic flavors of Southern Thai cuisine features intense spices, seafood, and coconut-based curries. The combination of shrimp paste, chili, garlic creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Shrimp paste",
+      "purpose": "Essential for authentic Nam Prik Kapi flavor",
+      "substitutes": [
+        "Fresh shrimp paste",
+        "Dried shrimp paste",
+        "shrimp paste paste"
+      ]
+    },
+    {
+      "name": "Chili",
+      "purpose": "Essential for authentic Nam Prik Kapi flavor",
+      "substitutes": [
+        "Fresh chili",
+        "Dried chili",
+        "chili paste"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Essential for authentic Nam Prik Kapi flavor",
+      "substitutes": [
+        "Fresh garlic",
+        "Dried garlic",
+        "garlic paste"
+      ]
+    },
+    {
+      "name": "Lime juice",
+      "purpose": "Essential for authentic Nam Prik Kapi flavor",
+      "substitutes": [
+        "Fresh lime juice",
+        "Dried lime juice",
+        "lime juice paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying or grilling",
+    "steps_overview": "Preparing Nam Prik Kapi requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh shrimp paste for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Nam Prik Kapi has been a staple of southern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of southern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Nam Prik Kapi Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Nam Prik Kapi Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Nam Prik Kapi",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local southern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

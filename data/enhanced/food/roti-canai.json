@@ -1,0 +1,177 @@
+{
+  "id": 37,
+  "slug": "roti-canai",
+  "name": {
+    "en": "Roti Canai",
+    "nl": "Roti Canai",
+    "thai": "โรตีกะหรี่"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Malaysian-Thai flatbread served with curry",
+    "nl": "Maleisisch-Thais platbrood geserveerd met curry"
+  },
+  "ingredients": [
+    "flour",
+    "ghee",
+    "egg",
+    "salt",
+    "curry for dipping"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian option"
+  ],
+  "image": "/images/food/roti-canai.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Roti Canai Recipe | Authentic Thai main dish",
+      "nl": "Roti Canai Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Roti Canai (โรตีกะหรี่) - Malaysian-Thai flatbread served with curry...",
+      "nl": "Leer over Roti Canai (โรตีกะหรี่) - Maleisisch-Thais platbrood geserveerd met curry..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "mild",
+    "medium",
+    "budget",
+    "flour",
+    "ghee",
+    "egg"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Roti Canai is a beloved hearty and satisfying main course from southern Thailand that with a subtle warmth. Malaysian-Thai flatbread served with curry. This medium recipe takes about 20 minutes to prepare and represents the authentic flavors of Southern Thai cuisine features intense spices, seafood, and coconut-based curries. The combination of flour, ghee, egg creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Flour",
+      "purpose": "Essential for authentic Roti Canai flavor",
+      "substitutes": [
+        "Fresh flour",
+        "Dried flour",
+        "flour paste"
+      ]
+    },
+    {
+      "name": "Ghee",
+      "purpose": "Essential for authentic Roti Canai flavor",
+      "substitutes": [
+        "Fresh ghee",
+        "Dried ghee",
+        "ghee paste"
+      ]
+    },
+    {
+      "name": "Egg",
+      "purpose": "Essential for authentic Roti Canai flavor",
+      "substitutes": [
+        "Fresh egg",
+        "Dried egg",
+        "egg paste"
+      ]
+    },
+    {
+      "name": "Salt",
+      "purpose": "Essential for authentic Roti Canai flavor",
+      "substitutes": [
+        "Fresh salt",
+        "Dried salt",
+        "salt paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying or grilling",
+    "steps_overview": "Preparing Roti Canai requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh flour for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Roti Canai has been a staple of southern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of southern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Roti Canai Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Roti Canai Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Roti Canai",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": [
+      "vegetarian option"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local southern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

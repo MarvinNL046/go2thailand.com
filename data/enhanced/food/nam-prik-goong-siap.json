@@ -1,0 +1,176 @@
+{
+  "id": 19,
+  "slug": "nam-prik-goong-siap",
+  "name": {
+    "en": "Nam Prik Goong Siap",
+    "nl": "Nam Prik Goong Siap",
+    "thai": "น้ำพริกกุ้งเสียบ"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "hot",
+  "description": {
+    "en": "Spicy dip with smoked dried shrimp",
+    "nl": "Pittige dipsaus met gerookte gedroogde garnalen"
+  },
+  "ingredients": [
+    "dried shrimp",
+    "chili",
+    "garlic",
+    "shallots",
+    "lime juice",
+    "palm sugar"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/nam-prik-goong-siap.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Nam Prik Goong Siap Recipe | Authentic Thai main dish",
+      "nl": "Nam Prik Goong Siap Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Spicy dip with smoked dried shrimp...",
+      "nl": "Leer over Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Pittige dipsaus met gerookte gedroogde garnalen..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "hot",
+    "easy",
+    "budget",
+    "dried-shrimp",
+    "chili",
+    "garlic"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "easy",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Nam Prik Goong Siap is a beloved hearty and satisfying main course from southern Thailand that fiery and bold. Spicy dip with smoked dried shrimp. This easy recipe takes about 20 minutes to prepare and represents the authentic flavors of Southern Thai cuisine features intense spices, seafood, and coconut-based curries. The combination of dried shrimp, chili, garlic creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Dried shrimp",
+      "purpose": "Essential for authentic Nam Prik Goong Siap flavor",
+      "substitutes": [
+        "Fresh dried shrimp",
+        "Dried dried shrimp",
+        "dried shrimp paste"
+      ]
+    },
+    {
+      "name": "Chili",
+      "purpose": "Essential for authentic Nam Prik Goong Siap flavor",
+      "substitutes": [
+        "Fresh chili",
+        "Dried chili",
+        "chili paste"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Essential for authentic Nam Prik Goong Siap flavor",
+      "substitutes": [
+        "Fresh garlic",
+        "Dried garlic",
+        "garlic paste"
+      ]
+    },
+    {
+      "name": "Shallots",
+      "purpose": "Essential for authentic Nam Prik Goong Siap flavor",
+      "substitutes": [
+        "Fresh shallots",
+        "Dried shallots",
+        "shallots paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stir-frying or grilling",
+    "steps_overview": "Preparing Nam Prik Goong Siap requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh dried shrimp for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Nam Prik Goong Siap has been a staple of southern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of southern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Nam Prik Goong Siap Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Nam Prik Goong Siap Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Nam Prik Goong Siap",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local southern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}

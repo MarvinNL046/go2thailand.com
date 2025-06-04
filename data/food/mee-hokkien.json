@@ -1,0 +1,68 @@
+{
+  "id": 17,
+  "slug": "mee-hokkien",
+  "name": {
+    "en": "Mee Hokkien",
+    "nl": "Mee Hokkien",
+    "thai": "หมี่ฮกเกี้ยน"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Stir-fried Hokkien noodles with seafood Phuket style",
+    "nl": "Gebakken Hokkien-noedels met zeevruchten Phuket stijl"
+  },
+  "ingredients": [
+    "yellow noodles",
+    "shrimp",
+    "squid",
+    "pork",
+    "soy sauce",
+    "chinese kale",
+    "egg"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/mee-hokkien.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "medium",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Mee Hokkien Recipe | Authentic Thai main dish",
+      "nl": "Mee Hokkien Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Mee Hokkien (หมี่ฮกเกี้ยน) - Stir-fried Hokkien noodles with seafood Phuket style...",
+      "nl": "Leer over Mee Hokkien (หมี่ฮกเกี้ยน) - Gebakken Hokkien-noedels met zeevruchten Phuket stijl..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "mild",
+    "medium",
+    "mid-range",
+    "yellow-noodles",
+    "shrimp",
+    "squid"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "mid-range"
+  }
+}

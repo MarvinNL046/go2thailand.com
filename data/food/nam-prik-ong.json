@@ -1,0 +1,63 @@
+{
+  "id": 15,
+  "slug": "nam-prik-ong",
+  "name": {
+    "en": "Nam Prik Ong",
+    "nl": "Nam Prik Ong",
+    "thai": "น้ำพริกอ่อง"
+  },
+  "category": "main-dish",
+  "region": "northern",
+  "spice_level": "medium",
+  "description": {
+    "en": "Tomato and minced pork chili dip served with vegetables",
+    "nl": "Tomaten-chili dip met varkensgehakt geserveerd met groenten"
+  },
+  "ingredients": [
+    "tomatoes",
+    "minced pork",
+    "shallots",
+    "garlic",
+    "dried chili",
+    "shrimp paste"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/nam-prik-ong.webp",
+  "preparation_time": "25 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Nam Prik Ong Recipe | Authentic Thai main dish",
+      "nl": "Nam Prik Ong Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Nam Prik Ong (น้ำพริกอ่อง) - Tomato and minced pork chili dip served with vegetables...",
+      "nl": "Leer over Nam Prik Ong (น้ำพริกอ่อง) - Tomaten-chili dip met varkensgehakt geserveerd met groenten..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "northern",
+    "medium",
+    "easy",
+    "budget",
+    "tomatoes",
+    "minced-pork",
+    "shallots"
+  ],
+  "cooking": {
+    "preparation_time": "25 minutes",
+    "difficulty": "easy",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

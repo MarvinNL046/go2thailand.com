@@ -1,0 +1,68 @@
+{
+  "id": 16,
+  "slug": "gaeng-hang-lay",
+  "name": {
+    "en": "Gaeng Hang Lay",
+    "nl": "Gaeng Hang Lay",
+    "thai": "แกงฮังเล"
+  },
+  "category": "curry",
+  "region": "northern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Mild curry with pork belly and Burmese influences",
+    "nl": "Milde curry met varkensbuik en Birmese invloeden"
+  },
+  "ingredients": [
+    "pork belly",
+    "shallots",
+    "garlic",
+    "ginger",
+    "tamarind",
+    "peanuts",
+    "palm sugar"
+  ],
+  "allergens": [
+    "nuts"
+  ],
+  "dietary": [],
+  "image": "/images/food/gaeng-hang-lay.webp",
+  "preparation_time": "90 minutes",
+  "difficulty": "medium",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Gaeng Hang Lay Recipe | Authentic Thai curry",
+      "nl": "Gaeng Hang Lay Recept | Authentieke Thaise curry"
+    },
+    "metaDescription": {
+      "en": "Learn about Gaeng Hang Lay (แกงฮังเล) - Mild curry with pork belly and Burmese influences...",
+      "nl": "Leer over Gaeng Hang Lay (แกงฮังเล) - Milde curry met varkensbuik en Birmese invloeden..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "curry",
+    "northern",
+    "mild",
+    "medium",
+    "mid-range",
+    "pork-belly",
+    "shallots",
+    "garlic"
+  ],
+  "cooking": {
+    "preparation_time": "90 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "nuts"
+    ],
+    "dietary": [],
+    "price_range": "mid-range"
+  }
+}

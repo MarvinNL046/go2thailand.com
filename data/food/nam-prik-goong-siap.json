@@ -1,0 +1,67 @@
+{
+  "id": 19,
+  "slug": "nam-prik-goong-siap",
+  "name": {
+    "en": "Nam Prik Goong Siap",
+    "nl": "Nam Prik Goong Siap",
+    "thai": "น้ำพริกกุ้งเสียบ"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "hot",
+  "description": {
+    "en": "Spicy dip with smoked dried shrimp",
+    "nl": "Pittige dipsaus met gerookte gedroogde garnalen"
+  },
+  "ingredients": [
+    "dried shrimp",
+    "chili",
+    "garlic",
+    "shallots",
+    "lime juice",
+    "palm sugar"
+  ],
+  "allergens": [
+    "seafood"
+  ],
+  "dietary": [],
+  "image": "/images/food/nam-prik-goong-siap.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Nam Prik Goong Siap Recipe | Authentic Thai main dish",
+      "nl": "Nam Prik Goong Siap Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Spicy dip with smoked dried shrimp...",
+      "nl": "Leer over Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Pittige dipsaus met gerookte gedroogde garnalen..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "hot",
+    "easy",
+    "budget",
+    "dried-shrimp",
+    "chili",
+    "garlic"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "easy",
+    "spice_level": "hot",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [
+      "seafood"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

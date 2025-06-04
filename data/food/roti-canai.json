@@ -1,0 +1,66 @@
+{
+  "id": 37,
+  "slug": "roti-canai",
+  "name": {
+    "en": "Roti Canai",
+    "nl": "Roti Canai",
+    "thai": "โรตีกะหรี่"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Malaysian-Thai flatbread served with curry",
+    "nl": "Maleisisch-Thais platbrood geserveerd met curry"
+  },
+  "ingredients": [
+    "flour",
+    "ghee",
+    "egg",
+    "salt",
+    "curry for dipping"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian option"
+  ],
+  "image": "/images/food/roti-canai.webp",
+  "preparation_time": "20 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Roti Canai Recipe | Authentic Thai main dish",
+      "nl": "Roti Canai Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Roti Canai (โรตีกะหรี่) - Malaysian-Thai flatbread served with curry...",
+      "nl": "Leer over Roti Canai (โรตีกะหรี่) - Maleisisch-Thais platbrood geserveerd met curry..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "mild",
+    "medium",
+    "budget",
+    "flour",
+    "ghee",
+    "egg"
+  ],
+  "cooking": {
+    "preparation_time": "20 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian option"
+    ],
+    "price_range": "budget"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": 33,
+  "slug": "nam-ngiao",
+  "name": {
+    "en": "Nam Ngiao",
+    "nl": "Nam Ngiao",
+    "thai": "น้ำเงี้ยว"
+  },
+  "category": "soup",
+  "region": "northern",
+  "spice_level": "medium",
+  "description": {
+    "en": "Northern noodle soup with pork blood and tomatoes",
+    "nl": "Noordelijke noedelsoep met varkensbloed en tomaten"
+  },
+  "ingredients": [
+    "rice noodles",
+    "pork ribs",
+    "tomatoes",
+    "fermented soybeans",
+    "pork blood",
+    "dried chili"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/nam-ngiao.webp",
+  "preparation_time": "45 minutes",
+  "difficulty": "hard",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Nam Ngiao Recipe | Authentic Thai soup",
+      "nl": "Nam Ngiao Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Nam Ngiao (น้ำเงี้ยว) - Northern noodle soup with pork blood and tomatoes...",
+      "nl": "Leer over Nam Ngiao (น้ำเงี้ยว) - Noordelijke noedelsoep met varkensbloed en tomaten..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "soup",
+    "northern",
+    "medium",
+    "hard",
+    "budget",
+    "rice-noodles",
+    "pork-ribs",
+    "tomatoes"
+  ],
+  "cooking": {
+    "preparation_time": "45 minutes",
+    "difficulty": "hard",
+    "spice_level": "medium",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  }
+}

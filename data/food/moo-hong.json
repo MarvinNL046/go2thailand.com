@@ -1,0 +1,63 @@
+{
+  "id": 20,
+  "slug": "moo-hong",
+  "name": {
+    "en": "Moo Hong",
+    "nl": "Moo Hong",
+    "thai": "หมูฮ้อง"
+  },
+  "category": "main-dish",
+  "region": "southern",
+  "spice_level": "mild",
+  "description": {
+    "en": "Braised pork belly in sweet soy sauce Phuket style",
+    "nl": "Gestoofd varkensbuik in zoete sojasaus Phuket stijl"
+  },
+  "ingredients": [
+    "pork belly",
+    "soy sauce",
+    "palm sugar",
+    "garlic",
+    "white pepper",
+    "coriander root"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/moo-hong.webp",
+  "preparation_time": "90 minutes",
+  "difficulty": "medium",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": {
+      "en": "Moo Hong Recipe | Authentic Thai main dish",
+      "nl": "Moo Hong Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Moo Hong (หมูฮ้อง) - Braised pork belly in sweet soy sauce Phuket style...",
+      "nl": "Leer over Moo Hong (หมูฮ้อง) - Gestoofd varkensbuik in zoete sojasaus Phuket stijl..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "main-dish",
+    "southern",
+    "mild",
+    "medium",
+    "mid-range",
+    "pork-belly",
+    "soy-sauce",
+    "palm-sugar"
+  ],
+  "cooking": {
+    "preparation_time": "90 minutes",
+    "difficulty": "medium",
+    "spice_level": "mild",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "mid-range"
+  }
+}

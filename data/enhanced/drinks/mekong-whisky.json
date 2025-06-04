@@ -1,0 +1,50 @@
+{
+  "id": 11,
+  "slug": "mekong-whisky",
+  "name": {
+    "en": "Mekong Whisky",
+    "nl": "Mekong Whisky",
+    "thai": "แม่โขง"
+  },
+  "category": "alcohol",
+  "type": "neat",
+  "description": {
+    "en": "Traditional Thai rice whisky",
+    "nl": "Traditionele Thaise rijst whisky"
+  },
+  "ingredients": [
+    "rice",
+    "sugarcane"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/drinks/mekong-whisky.webp",
+  "temperature": "neat",
+  "alcohol_content": "35%",
+  "caffeine": "none",
+  "price_range": "budget",
+  "region": "all",
+  "occasions": [
+    "celebrations",
+    "social"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Mekong Whisky Recipe | Authentic Thai alcohol",
+      "nl": "Mekong Whisky Recept | Authentieke Thaise alcohol"
+    },
+    "metaDescription": {
+      "en": "Learn about Mekong Whisky (แม่โขง) - Traditional Thai rice whisky",
+      "nl": "Leer over Mekong Whisky (แม่โขง) - Traditionele Thaise rijst whisky"
+    }
+  },
+  "tags": [
+    "thai-drinks",
+    "thailand",
+    "alcohol",
+    "neat",
+    "neat",
+    "celebrations",
+    "social"
+  ]
+}

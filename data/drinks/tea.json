@@ -1,0 +1,23 @@
+{
+  "category": "tea",
+  "drinks": [
+    {
+      "id": 1,
+      "slug": "thai-iced-tea",
+      "name": {
+        "en": "Thai Iced Tea",
+        "nl": "Thaise IJsthee",
+        "thai": "ชาเย็น"
+      }
+    },
+    {
+      "id": 17,
+      "slug": "thai-milk-tea",
+      "name": {
+        "en": "Thai Milk Tea",
+        "nl": "Thaise Melkthee",
+        "thai": "ชานม"
+      }
+    }
+  ]
+}

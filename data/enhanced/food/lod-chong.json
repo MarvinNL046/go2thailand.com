@@ -1,0 +1,176 @@
+{
+  "id": 46,
+  "slug": "lod-chong",
+  "name": {
+    "en": "Lod Chong",
+    "nl": "Lod Chong",
+    "thai": "ลอดช่อง"
+  },
+  "category": "dessert",
+  "region": "southern",
+  "spice_level": "none",
+  "description": {
+    "en": "Pandan jelly noodles in coconut milk",
+    "nl": "Pandan gelei noedels in kokosmelk"
+  },
+  "ingredients": [
+    "rice flour",
+    "pandan juice",
+    "coconut milk",
+    "palm sugar",
+    "ice"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarian"
+  ],
+  "image": "/images/food/lod-chong.webp",
+  "preparation_time": "30 minutes",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Lod Chong Recipe | Authentic Thai dessert",
+      "nl": "Lod Chong Recept | Authentieke Thaise dessert"
+    },
+    "metaDescription": {
+      "en": "Learn about Lod Chong (ลอดช่อง) - Pandan jelly noodles in coconut milk...",
+      "nl": "Leer over Lod Chong (ลอดช่อง) - Pandan gelei noedels in kokosmelk..."
+    }
+  },
+  "tags": [
+    "thai-food",
+    "thailand",
+    "dessert",
+    "southern",
+    "medium",
+    "budget",
+    "rice-flour",
+    "pandan-juice",
+    "coconut-milk"
+  ],
+  "cooking": {
+    "preparation_time": "30 minutes",
+    "difficulty": "medium",
+    "spice_level": "none",
+    "serves": "2-4 people"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarian"
+    ],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Lod Chong is a beloved delightful sweet treat from southern Thailand that gentle on the palate. Pandan jelly noodles in coconut milk. This medium recipe takes about 30 minutes to prepare and represents the authentic flavors of Southern Thai cuisine features intense spices, seafood, and coconut-based curries. The combination of rice flour, pandan juice, coconut milk creates a harmonious blend that has made this dish a favorite among locals and visitors alike. Perfect for those seeking affordable authentic Thai cuisine.",
+  "detailed_ingredients": [
+    {
+      "name": "Rice flour",
+      "purpose": "Essential for authentic Lod Chong flavor",
+      "substitutes": [
+        "Fresh rice flour",
+        "Dried rice flour",
+        "rice flour paste"
+      ]
+    },
+    {
+      "name": "Pandan juice",
+      "purpose": "Essential for authentic Lod Chong flavor",
+      "substitutes": [
+        "Fresh pandan juice",
+        "Dried pandan juice",
+        "pandan juice paste"
+      ]
+    },
+    {
+      "name": "Coconut milk",
+      "purpose": "Essential for authentic Lod Chong flavor",
+      "substitutes": [
+        "Fresh coconut milk",
+        "Dried coconut milk",
+        "coconut milk paste"
+      ]
+    },
+    {
+      "name": "Palm sugar",
+      "purpose": "Essential for authentic Lod Chong flavor",
+      "substitutes": [
+        "Fresh palm sugar",
+        "Dried palm sugar",
+        "palm sugar paste"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Traditional preparation",
+    "steps_overview": "Preparing Lod Chong requires attention to detail and proper timing. The key is to balance all flavors while maintaining the texture of each ingredient. Traditional methods passed down through generations ensure authentic taste.",
+    "cooking_tips": [
+      "Use fresh rice flour for best results",
+      "Adjust spice level to your preference",
+      "Don't overcook to maintain texture",
+      "Taste and adjust seasoning before serving"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Lod Chong has been a staple of southern Thai cuisine for generations, reflecting the region's unique culinary traditions and local ingredients.",
+    "cultural_importance": "This dish represents the heart of southern Thai cooking, showcasing the balance and harmony that Thai cuisine is famous for worldwide.",
+    "traditional_occasions": [
+      "Family gatherings",
+      "Local festivals",
+      "Street food markets",
+      "Special celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Lod Chong Classic",
+      "description": "The traditional version as served in local homes"
+    },
+    {
+      "name": "Lod Chong Modern",
+      "description": "Contemporary twist with premium ingredients"
+    },
+    {
+      "name": "Vegetarian Lod Chong",
+      "description": "Plant-based version using tofu or mushrooms"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmine rice",
+      "Fresh vegetables",
+      "Thai herbs"
+    ],
+    "presentation": "Served on a plate in traditional Thai style",
+    "eating_etiquette": "Enjoyed with fork and spoon as per Thai custom"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "200-300 calories",
+    "health_benefits": [
+      "Rich in Thai herbs and spices",
+      "Source of protein and vegetables",
+      "Balanced flavors and nutrients"
+    ],
+    "dietary_notes": [
+      "vegetarian"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Local southern Thai restaurants",
+      "Authentic street food stalls",
+      "Traditional markets",
+      "Family-run eateries"
+    ],
+    "street_food_areas": [
+      "Night markets",
+      "Morning fresh markets",
+      "Local food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  }
+}
