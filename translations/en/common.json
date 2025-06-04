@@ -12,19 +12,46 @@
     "social": "Social Media Tools",
     "top10": "Top 10",
     "regions": "Regions",
-    "exploreNow": "Explore Now"
+    "exploreNow": "Explore Now",
+    "travelEssentials": "Travel Essentials",
+    "byCategory": "By Category",
+    "popularCities": "Popular Cities",
+    "restaurantGuides": "Restaurant Guides",
+    "hotelGuides": "Hotel Guides",
+    "attractionGuides": "Attraction Guides",
+    "bangkokTop10": "Bangkok Top 10",
+    "phuketTop10": "Phuket Top 10",
+    "chiangMaiTop10": "Chiang Mai Top 10",
+    "northernThailand": "Northern Thailand",
+    "centralThailand": "Central Thailand",
+    "southernThailand": "Southern Thailand",
+    "isaanNortheast": "Isaan (Northeast)",
+    "exploreThailandNow": "Explore Thailand Now",
+    "openMainMenu": "Open main menu"
   },
   "hero": {
-    "title": "Discover Thailand",
-    "subtitle": "Your Ultimate Travel Guide",
-    "description": "Explore amazing cities, hidden gems, delicious food, and unforgettable experiences"
+    "title": "Thailand Travel Guide 2025",
+    "subtitle": "Your Complete Guide to Thailand",
+    "description": "Explore amazing cities, hidden gems, delicious food, and unforgettable experiences",
+    "landOfSmiles": "Your ultimate guide to exploring the Land of Smiles. From bustling cities to pristine beaches, discover the best of Thailand.",
+    "exploreTitle": "Explore Cities",
+    "featuredDestinations": "Featured Destinations",
+    "seoIntro": "Welcome to the most comprehensive Thailand travel guide for 2025. Whether you're planning to explore Bangkok's vibrant street life, relax on Phuket's pristine beaches, or discover Chiang Mai's ancient temples, we've got you covered with up-to-date information, insider tips, and expert recommendations."
   },
   "buttons": {
     "viewAll": "View All",
     "learnMore": "Learn More",
     "bookNow": "Book Now",
     "readMore": "Read More",
-    "search": "Search"
+    "search": "Search",
+    "viewAllCities": "View All Cities",
+    "exploreCities": "Explore Cities",
+    "exploreCity": "Explore City",
+    "viewRestaurantGuides": "View Restaurant Guides",
+    "viewHotelGuides": "View Hotel Guides",
+    "viewAttractionGuides": "View Attraction Guides",
+    "exploreAllThaiDishes": "Explore All Thai Dishes",
+    "startExploringThailand": "Start Exploring Thailand"
   },
   "labels": {
     "from": "From",
@@ -36,7 +63,82 @@
     "transport": "Transport",
     "attractions": "Attractions",
     "hotels": "Hotels",
-    "restaurants": "Restaurants"
+    "restaurants": "Restaurants",
+    "learnRecipe": "Learn Recipe",
+    "difficulty": "Difficulty",
+    "easy": "easy",
+    "medium": "medium",
+    "hard": "hard",
+    "hot": "hot",
+    "mild": "mild",
+    "more": "more",
+    "province": "Province",
+    "highlights": "Highlights",
+    "food": "Food"
+  },
+  "stats": {
+    "citiesCovered": "Cities Covered",
+    "regions": "Regions",
+    "attractions": "Attractions",
+    "travelTips": "Travel Tips"
+  },
+  "search": {
+    "findPerfectStay": "Find Your Perfect Stay in Thailand",
+    "searchCompareHotels": "Search and compare the best hotel deals across Thailand",
+    "saveBig": "Save Big on Your Thailand Trip",
+    "bookFlightHotel": "Book flight + hotel together and save up to 40%",
+    "exclusiveBundleDeals": "Exclusive Bundle Deals",
+    "trustedByMillions": "Trusted by Millions",
+    "bestPriceGuarantee": "Best Price Guarantee",
+    "proTip": "Pro Tip",
+    "bundleDealsInfo": "Bundle deals often include free cancellation and exclusive perks"
+  },
+  "sections": {
+    "featuredDestinations": "Top Thailand Destinations & Cities to Visit",
+    "featuredDescription": "Start your journey with these must-visit cities that showcase the best of Thailand",
+    "top10Guides": "Thailand Top 10 Travel Guides 2025",
+    "top10Description": "Get the latest recommendations with current prices, insider tips, and local insights. Our expertly curated guides combine real-time data with authentic local experiences.",
+    "authenticThaiCuisine": "Authentic Thai Food Guide - Traditional Dishes",
+    "cuisineDescription": "Discover the incredible flavors of Thailand. From street food to fine dining, explore traditional recipes and cooking techniques.",
+    "exploreByRegion": "Thailand Travel Regions - Where to Go",
+    "regionDescription": "Each region of Thailand offers unique experiences, culture, and attractions",
+    "planPerfectTrip": "Plan Your Perfect Thailand Trip",
+    "planTripDescription": "Get the latest travel tips, destination guides, and exclusive offers"
+  },
+  "badges": {
+    "current2025Data": "Current 2025 Data",
+    "expertCurated": "Expert Curated",
+    "localPrices": "Local Prices"
+  },
+  "trending": {
+    "trendingNow": "Trending Now",
+    "trendingDescription": "Most popular guides updated with latest information",
+    "bangkokRestaurants": "Bangkok Restaurants",
+    "currentPricesLocalFavorites": "Current prices • Local favorites",
+    "phuketHotels": "Phuket Hotels",
+    "beachResortsUpdatedRates": "Beach resorts • Updated rates",
+    "chiangMaiAttractions": "Chiang Mai Attractions",
+    "templesNatureCulture": "Temples • Nature • Culture"
+  },
+  "categories": {
+    "restaurantGuidesDesc": "Discover where locals actually eat with current pricing and authentic recommendations",
+    "hotelGuidesDesc": "Find the perfect stay with updated rates, guest reviews, and booking recommendations",
+    "attractionGuidesDesc": "Must-see attractions with current entrance fees, opening hours, and visitor tips"
+  },
+  "regions": {
+    "northernDesc": "Mountains, temples, and rich cultural heritage. Experience traditional hill tribes and ancient cities.",
+    "centralDesc": "Home to Bangkok and historical sites. The heart of Thailand's political and economic center.",
+    "southernDesc": "Pristine beaches, tropical islands, and crystal-clear waters. Paradise for beach lovers and divers.",
+    "isaanDesc": "Authentic rural Thailand with unique Lao-influenced culture, spicy cuisine, and traditional festivals.",
+    "exploreNorthern": "Explore Northern Thailand",
+    "exploreCentral": "Explore Central Thailand",
+    "exploreSouthern": "Explore Southern Thailand",
+    "exploreIsaan": "Explore Isaan"
+  },
+  "meta": {
+    "mainTitle": "Thailand Travel Guide 2025 - Complete Guide to Thailand | Go2Thailand",
+    "mainDescription": "Plan your perfect Thailand trip with our comprehensive 2025 travel guide. Explore Bangkok, Phuket, Chiang Mai & more. Get insider tips, current prices, best hotels, restaurants & attractions.",
+    "mainKeywords": "Thailand travel guide 2025, Thailand travel, Bangkok travel guide, Phuket travel guide, Chiang Mai travel guide, Thailand tourism, Thai food guide, Thailand attractions, Thailand hotels, Thailand weather"
   },
   "footer": {
     "aboutTitle": "Go2Thailand",
@@ -46,6 +148,31 @@
     "travelResources": "Travel Resources",
     "rights": "All rights reserved",
     "privacy": "Privacy Policy",
-    "terms": "Terms of Service"
+    "terms": "Terms of Service",
+    "allCities": "All Cities",
+    "allWeatherGuides": "All Weather Guides",
+    "thailandInJanuary": "Thailand in January",
+    "songkranSeason": "Songkran Season",
+    "loyKrathongMonth": "Loy Krathong Month",
+    "bangkokWeather": "Bangkok Weather",
+    "chiangMaiWeather": "Chiang Mai Weather",
+    "phuketWeather": "Phuket Weather",
+    "krabiWeather": "Krabi Weather",
+    "moreCities": "More Cities",
+    "thaiFoodGuide": "Thai Food Guide",
+    "transportRoutes": "Transport Routes",
+    "allRoutes": "All Routes",
+    "bangkokToChiangMai": "Bangkok to Chiang Mai",
+    "bangkokToPhuket": "Bangkok to Phuket",
+    "bangkokToKrabi": "Bangkok to Krabi",
+    "moreRoutes": "More Routes",
+    "top10Guides": "Top 10 Guides",
+    "builtWith": "Built with Next.js and Tailwind CSS",
+    "travelDisclaimer": "Travel information is for reference only. Please verify details before your trip.",
+    "weatherGuide": "Weather Guide",
+    "bangkok": "Bangkok",
+    "chiangMai": "Chiang Mai",
+    "phuket": "Phuket",
+    "pattaya": "Pattaya"
   }
 }

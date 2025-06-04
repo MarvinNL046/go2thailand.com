@@ -8,6 +8,9 @@ import { getPopularDishes } from '../lib/food';
 import CityCard from '../components/CityCard';
 import EzoicAd from '../components/EzoicAd';
 import TripcomWidget from '../components/TripcomWidget';
+import TypewriterText from '../components/TypewriterText';
+import FadeInText from '../components/FadeInText';
+import HighlightedText from '../components/HighlightedText';
 import { AD_PLACEMENTS } from '../lib/ads/ezoic-config';
 import { useTranslation } from '../hooks/useTranslation';
 
@@ -74,14 +77,14 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
   return (
     <>
       <Head>
-        <title>Go2Thailand - Your Ultimate Thailand Travel Guide</title>
+        <title>{t('meta.mainTitle')}</title>
         <meta 
           name="description" 
-          content="Discover amazing destinations across Thailand. Explore cities, attractions, food, and culture in the Land of Smiles. Your complete travel guide to Thailand." 
+          content={t('meta.mainDescription')} 
         />
-        <meta name="keywords" content="Thailand travel, Thailand cities, Bangkok, Chiang Mai, Phuket, Thailand tourism, Thai culture, Thailand attractions" />
-        <meta property="og:title" content="Go2Thailand - Your Ultimate Thailand Travel Guide" />
-        <meta property="og:description" content="Discover amazing destinations across Thailand. Explore cities, attractions, food, and culture in the Land of Smiles." />
+        <meta name="keywords" content={t('meta.mainKeywords')} />
+        <meta property="og:title" content={t('meta.mainTitle')} />
+        <meta property="og:description" content={t('meta.mainDescription')} />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://go2-thailand.com/" />
         
@@ -128,21 +131,32 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         <div className="relative z-10 h-full flex items-center justify-center text-center">
           <div className="max-w-4xl mx-auto px-4 py-12 sm:py-8">
             <h1 className="text-4xl lg:text-6xl font-bold text-white mb-6 drop-shadow-lg">
-              Discover <span className="text-thailand-red">Thailand</span>
+              <TypewriterText text={t('hero.title')} speed={80} className="text-white" />
             </h1>
-            <p className="text-xl lg:text-2xl text-gray-200 mb-8 max-w-2xl mx-auto drop-shadow-md">
-              Your ultimate guide to exploring the Land of Smiles. From bustling cities to pristine beaches, 
-              discover the best of Thailand.
-            </p>
+            <FadeInText delay={2000} duration={800}>
+              <p className="text-xl lg:text-2xl text-gray-200 mb-4 max-w-2xl mx-auto drop-shadow-md">
+                {t('hero.subtitle')}
+              </p>
+            </FadeInText>
+            <FadeInText delay={2500} duration={800}>
+              <p className="text-lg text-gray-200 mb-8 max-w-3xl mx-auto drop-shadow-md">
+                <HighlightedText 
+                  text={t('hero.seoIntro')}
+                  highlightWords={['Bangkok', 'Phuket', 'Chiang Mai', '2025']}
+                  highlightClassName="text-thailand-red font-bold"
+                  animationType="glow"
+                />
+              </p>
+            </FadeInText>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/city/" className="btn-primary shadow-lg">
-                Explore Cities
+                {t('buttons.exploreCities')}
               </Link>
               <Link href="#featured" className="btn-secondary bg-white text-thailand-blue hover:bg-gray-100 shadow-lg">
-                Featured Destinations
+                {t('hero.featuredDestinations')}
               </Link>
               <Link href="#top10" className="bg-gradient-to-r from-thailand-red to-thailand-red-600 text-white px-6 py-3 rounded-lg font-semibold hover:from-thailand-red-600 hover:to-thailand-red-700 transition-all shadow-lg">
-                🏆 Top 10 Guides
+                🏆 {t('nav.top10')} {t('sections.top10Guides').split(' ').slice(2).join(' ')}
               </Link>
             </div>
           </div>
@@ -168,10 +182,10 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         <div className="container-custom">
           <div className="text-center mb-8">
             <h2 className="text-2xl lg:text-3xl font-bold text-gray-900 mb-3">
-              Find Your Perfect Stay in Thailand
+              {t('search.findPerfectStay')}
             </h2>
             <p className="text-lg text-gray-600">
-              Search and compare the best hotel deals across Thailand
+              {t('search.searchCompareHotels')}
             </p>
           </div>
           <div className="max-w-4xl mx-auto">
@@ -204,25 +218,25 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
               <div className="text-3xl lg:text-4xl font-bold text-thailand-blue mb-2">
                 {cities.length}+
               </div>
-              <div className="text-gray-600">Cities Covered</div>
+              <div className="text-gray-600">{t('stats.citiesCovered')}</div>
             </div>
             <div>
               <div className="text-3xl lg:text-4xl font-bold text-thailand-blue mb-2">
                 3
               </div>
-              <div className="text-gray-600">Regions</div>
+              <div className="text-gray-600">{t('stats.regions')}</div>
             </div>
             <div>
               <div className="text-3xl lg:text-4xl font-bold text-thailand-blue mb-2">
                 100+
               </div>
-              <div className="text-gray-600">Attractions</div>
+              <div className="text-gray-600">{t('stats.attractions')}</div>
             </div>
             <div>
               <div className="text-3xl lg:text-4xl font-bold text-thailand-blue mb-2">
                 24/7
               </div>
-              <div className="text-gray-600">Travel Tips</div>
+              <div className="text-gray-600">{t('stats.travelTips')}</div>
             </div>
           </div>
         </div>
@@ -233,12 +247,21 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
       <section id="featured" className="section-padding bg-gray-50">
         <div className="container-custom">
           <div className="text-center mb-12">
-            <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-              Featured Destinations
-            </h2>
-            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Start your journey with these must-visit cities that showcase the best of Thailand
-            </p>
+            <FadeInText>
+              <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+                <HighlightedText 
+                  text={t('sections.featuredDestinations')}
+                  highlightWords={['Thailand', 'Destinations']}
+                  highlightClassName="text-thailand-red"
+                  animationType="underline"
+                />
+              </h2>
+            </FadeInText>
+            <FadeInText delay={200}>
+              <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+                {t('sections.featuredDescription')}
+              </p>
+            </FadeInText>
           </div>
           
           {/* Grid with ad placement strategy */}
@@ -266,7 +289,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
           
           <div className="text-center">
             <Link href="/city/" className="btn-primary">
-              View All Cities
+              {t('buttons.viewAllCities')}
             </Link>
           </div>
         </div>
@@ -276,24 +299,32 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
       <section id="top10" className="section-padding bg-white">
         <div className="container-custom">
           <div className="text-center mb-12">
-            <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-              🏆 Top 10 Travel <span className="text-thailand-red">Guides</span>
-            </h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-6">
-              Get the latest recommendations with current prices, insider tips, and local insights. 
-              Our expertly curated guides combine real-time data with authentic local experiences.
-            </p>
+            <FadeInText>
+              <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+                🏆 <HighlightedText 
+                  text={t('sections.top10Guides')}
+                  highlightWords={['Thailand', 'Top 10', '2025']}
+                  highlightClassName="text-thailand-red"
+                  animationType="fade"
+                />
+              </h2>
+            </FadeInText>
+            <FadeInText delay={200}>
+              <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-6">
+                {t('sections.top10Description')}
+              </p>
+            </FadeInText>
             
             {/* Current Data Features */}
             <div className="flex justify-center items-center gap-4 text-sm text-gray-500 mb-8">
               <span className="bg-green-100 text-green-700 px-3 py-2 rounded-full font-medium">
-                📊 Current 2025 Data
+                📊 {t('badges.current2025Data')}
               </span>
               <span className="bg-blue-100 text-blue-700 px-3 py-2 rounded-full font-medium">
-                ✨ Expert Curated
+                ✨ {t('badges.expertCurated')}
               </span>
               <span className="bg-purple-100 text-purple-700 px-3 py-2 rounded-full font-medium">
-                💰 Local Prices
+                💰 {t('badges.localPrices')}
               </span>
             </div>
           </div>
@@ -306,13 +337,13 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                 <div className="text-center">
                   <div className="text-5xl mb-4">🍽️</div>
                   <h3 className="text-2xl font-bold text-gray-900 mb-3 group-hover:text-thailand-red transition-colors">
-                    Restaurant Guides
+                    {t('nav.restaurantGuides')}
                   </h3>
                   <p className="text-gray-600 mb-4">
-                    Discover where locals actually eat with current pricing and authentic recommendations
+                    {t('categories.restaurantGuidesDesc')}
                   </p>
                   <div className="bg-thailand-red text-white px-4 py-2 rounded-lg font-medium group-hover:bg-thailand-red-600 transition-colors">
-                    View Restaurant Guides →
+                    {t('buttons.viewRestaurantGuides')} →
                   </div>
                 </div>
               </div>
@@ -324,13 +355,13 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                 <div className="text-center">
                   <div className="text-5xl mb-4">🏨</div>
                   <h3 className="text-2xl font-bold text-gray-900 mb-3 group-hover:text-thailand-blue transition-colors">
-                    Hotel Guides
+                    {t('nav.hotelGuides')}
                   </h3>
                   <p className="text-gray-600 mb-4">
-                    Find the perfect stay with updated rates, guest reviews, and booking recommendations
+                    {t('categories.hotelGuidesDesc')}
                   </p>
                   <div className="bg-thailand-blue text-white px-4 py-2 rounded-lg font-medium group-hover:bg-thailand-blue-600 transition-colors">
-                    View Hotel Guides →
+                    {t('buttons.viewHotelGuides')} →
                   </div>
                 </div>
               </div>
@@ -342,13 +373,13 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                 <div className="text-center">
                   <div className="text-5xl mb-4">🎯</div>
                   <h3 className="text-2xl font-bold text-gray-900 mb-3 group-hover:text-green-600 transition-colors">
-                    Attraction Guides
+                    {t('nav.attractionGuides')}
                   </h3>
                   <p className="text-gray-600 mb-4">
-                    Must-see attractions with current entrance fees, opening hours, and visitor tips
+                    {t('categories.attractionGuidesDesc')}
                   </p>
                   <div className="bg-green-600 text-white px-4 py-2 rounded-lg font-medium group-hover:bg-green-700 transition-colors">
-                    View Attraction Guides →
+                    {t('buttons.viewAttractionGuides')} →
                   </div>
                 </div>
               </div>
@@ -359,10 +390,10 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
           <div className="bg-gray-50 rounded-xl p-8">
             <div className="text-center mb-8">
               <h3 className="text-2xl font-bold text-gray-900 mb-2">
-                🔥 Trending Now
+                🔥 {t('trending.trendingNow')}
               </h3>
               <p className="text-gray-600">
-                Most popular guides updated with latest information
+                {t('trending.trendingDescription')}
               </p>
             </div>
             
@@ -372,9 +403,9 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                   <div className="text-2xl">🍽️</div>
                   <div>
                     <h4 className="font-semibold text-gray-900 group-hover:text-thailand-red transition-colors">
-                      Bangkok Restaurants
+                      {t('trending.bangkokRestaurants')}
                     </h4>
-                    <p className="text-sm text-gray-500">Current prices • Local favorites</p>
+                    <p className="text-sm text-gray-500">{t('trending.currentPricesLocalFavorites')}</p>
                   </div>
                 </div>
               </Link>
@@ -384,9 +415,9 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                   <div className="text-2xl">🏨</div>
                   <div>
                     <h4 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">
-                      Phuket Hotels
+                      {t('trending.phuketHotels')}
                     </h4>
-                    <p className="text-sm text-gray-500">Beach resorts • Updated rates</p>
+                    <p className="text-sm text-gray-500">{t('trending.beachResortsUpdatedRates')}</p>
                   </div>
                 </div>
               </Link>
@@ -396,9 +427,9 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                   <div className="text-2xl">🎯</div>
                   <div>
                     <h4 className="font-semibold text-gray-900 group-hover:text-green-600 transition-colors">
-                      Chiang Mai Attractions
+                      {t('trending.chiangMaiAttractions')}
                     </h4>
-                    <p className="text-sm text-gray-500">Temples • Nature • Culture</p>
+                    <p className="text-sm text-gray-500">{t('trending.templesNatureCulture')}</p>
                   </div>
                 </div>
               </Link>
@@ -412,20 +443,20 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         <div className="container-custom">
           <div className="text-center mb-10">
             <h2 className="text-2xl lg:text-3xl font-bold text-gray-900 mb-3">
-              💸 Save Big on Your Thailand Trip
+              💸 {t('search.saveBig')}
             </h2>
             <p className="text-lg text-gray-600 mb-2">
-              Book flight + hotel together and save up to 40%
+              {t('search.bookFlightHotel')}
             </p>
             <div className="flex justify-center items-center gap-3 text-sm">
               <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full font-medium">
-                ✈️ Exclusive Bundle Deals
+                ✈️ {t('search.exclusiveBundleDeals')}
               </span>
               <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full font-medium">
-                🏨 Trusted by Millions
+                🏨 {t('search.trustedByMillions')}
               </span>
               <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full font-medium">
-                🛡️ Best Price Guarantee
+                🛡️ {t('search.bestPriceGuarantee')}
               </span>
             </div>
           </div>
@@ -438,7 +469,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
           </div>
           <div className="mt-8 text-center">
             <p className="text-sm text-gray-600 mb-3">
-              💡 <strong>Pro Tip:</strong> Bundle deals often include free cancellation and exclusive perks
+              💡 <strong>{t('search.proTip')}:</strong> {t('search.bundleDealsInfo')}
             </p>
           </div>
         </div>
@@ -448,12 +479,21 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
       <section className="section-padding bg-gray-50">
         <div className="container-custom">
           <div className="text-center mb-12">
-            <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-              Authentic Thai <span className="text-thailand-red">Cuisine</span>
-            </h2>
-            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Discover the incredible flavors of Thailand. From street food to fine dining, explore traditional recipes and cooking techniques.
-            </p>
+            <FadeInText>
+              <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+                <HighlightedText 
+                  text={t('sections.authenticThaiCuisine')}
+                  highlightWords={['Thai Food', 'Traditional']}
+                  highlightClassName="text-thailand-red font-bold"
+                  animationType="glow"
+                />
+              </h2>
+            </FadeInText>
+            <FadeInText delay={200}>
+              <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+                {t('sections.cuisineDescription')}
+              </p>
+            </FadeInText>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
@@ -514,10 +554,10 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                         dish.difficulty === 'easy' ? 'text-green-600' :
                         dish.difficulty === 'medium' ? 'text-orange-600' : 'text-red-600'
                       }`}>
-                        Difficulty: {dish.difficulty}
+                        {t('labels.difficulty')}: {dish.difficulty}
                       </span>
                       <span className="text-thailand-blue group-hover:text-thailand-red transition-colors font-medium">
-                        Learn Recipe →
+                        {t('labels.learnRecipe')} →
                       </span>
                     </div>
                   </div>
@@ -528,7 +568,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
           
           <div className="text-center">
             <Link href="/food/" className="btn-primary">
-              Explore All Thai Dishes
+              {t('buttons.exploreAllThaiDishes')}
             </Link>
           </div>
         </div>
@@ -539,10 +579,10 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         <div className="container-custom">
           <div className="text-center mb-12">
             <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-              Explore by Region
+              {t('sections.exploreByRegion')}
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Each region of Thailand offers unique experiences, culture, and attractions
+              {t('sections.regionDescription')}
             </p>
           </div>
           
@@ -557,12 +597,12 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                   className="object-cover"
                 />
               </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-2">Northern Thailand</h3>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">{t('nav.northernThailand')}</h3>
               <p className="text-gray-600 mb-4">
-                Mountains, temples, and rich cultural heritage. Experience traditional hill tribes and ancient cities.
+                {t('regions.northernDesc')}
               </p>
               <Link href="/region/northern/" className="text-thailand-blue hover:text-thailand-red font-medium">
-                Explore Northern Thailand →
+                {t('regions.exploreNorthern')} →
               </Link>
             </div>
 
@@ -576,12 +616,12 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                   className="object-cover"
                 />
               </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-2">Central Thailand</h3>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">{t('nav.centralThailand')}</h3>
               <p className="text-gray-600 mb-4">
-                Home to Bangkok and historical sites. The heart of Thailand's political and economic center.
+                {t('regions.centralDesc')}
               </p>
               <Link href="/region/central/" className="text-thailand-blue hover:text-thailand-red font-medium">
-                Explore Central Thailand →
+                {t('regions.exploreCentral')} →
               </Link>
             </div>
 
@@ -595,12 +635,12 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                   className="object-cover"
                 />
               </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-2">Southern Thailand</h3>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">{t('nav.southernThailand')}</h3>
               <p className="text-gray-600 mb-4">
-                Pristine beaches, tropical islands, and crystal-clear waters. Paradise for beach lovers and divers.
+                {t('regions.southernDesc')}
               </p>
               <Link href="/region/southern/" className="text-thailand-blue hover:text-thailand-red font-medium">
-                Explore Southern Thailand →
+                {t('regions.exploreSouthern')} →
               </Link>
             </div>
 
@@ -614,12 +654,12 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                   className="object-cover"
                 />
               </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-2">Isaan (Northeast)</h3>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">{t('nav.isaanNortheast')}</h3>
               <p className="text-gray-600 mb-4">
-                Authentic rural Thailand with unique Lao-influenced culture, spicy cuisine, and traditional festivals.
+                {t('regions.isaanDesc')}
               </p>
               <Link href="/region/isaan/" className="text-thailand-blue hover:text-thailand-red font-medium">
-                Explore Isaan →
+                {t('regions.exploreIsaan')} →
               </Link>
             </div>
           </div>
@@ -631,10 +671,10 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         <div className="container-custom">
           <div className="text-center mb-6">
             <h3 className="text-2xl font-bold text-gray-900 mb-2">
-              Plan Your Perfect Thailand Trip
+              {t('sections.planPerfectTrip')}
             </h3>
             <p className="text-gray-600">
-              Get the latest travel tips, destination guides, and exclusive offers
+              {t('sections.planTripDescription')}
             </p>
           </div>
           <EzoicAd 
@@ -645,7 +685,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
           />
           <div className="text-center">
             <Link href="/city/" className="btn-primary">
-              Start Exploring Thailand
+              {t('buttons.startExploringThailand')}
             </Link>
           </div>
         </div>

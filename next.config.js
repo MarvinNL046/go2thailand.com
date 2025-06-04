@@ -4,7 +4,7 @@ const nextConfig = {
   swcMinify: true,
   trailingSlash: true,
   i18n: {
-    locales: ['en', 'zh', 'de', 'fr', 'ru', 'ja', 'ko'],
+    locales: ['en', 'nl', 'zh', 'de', 'fr', 'ru', 'ja', 'ko'],
     defaultLocale: 'en',
     localeDetection: false, // We want full control over language selection
   },
