@@ -28,15 +28,8 @@ const nextConfig = {
   async rewrites() {
     return []
   },
-  // Redirect for ads.txt to Ezoic
   async redirects() {
-    return [
-      {
-        source: '/ads.txt',
-        destination: 'https://srv.adstxtmanager.com/19390/go2-thailand.com',
-        permanent: true,
-      },
-    ]
+    return []
   },
   // Optimize for Vercel deployment
   experimental: {

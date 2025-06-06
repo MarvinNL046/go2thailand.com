@@ -3,7 +3,6 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { GetStaticProps } from 'next';
 import Breadcrumbs from '../../components/Breadcrumbs';
-import EzoicAd from '../../components/EzoicAd';
 import transportRoutes from '../../data/transport-routes.json';
 import citiesData from '../../data/cities/index.json';
 
@@ -185,7 +184,6 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
           </div>
         </section>
 
-        <EzoicAd placementId={139} size="leaderboard" />
 
         {/* All Routes by Region */}
         <section>
@@ -268,7 +266,6 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
           </div>
         </section>
 
-        <EzoicAd placementId={140} size="rectangle" />
       </main>
     </div>
   );

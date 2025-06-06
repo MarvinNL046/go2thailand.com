@@ -2,8 +2,6 @@ import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
-import EzoicAd from '../../components/EzoicAd';
-import { EZOIC_AD_UNITS } from '../../lib/ads/ezoic-config';
 import Breadcrumbs from '../../components/Breadcrumbs';
 
 interface ESIMProvider {
@@ -69,17 +67,6 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
           </div>
         </section>
 
-        {/* 💰 ESIM HEADER AD - HIGH VISIBILITY */}
-        <section className="bg-white py-6">
-          <div className="container-custom">
-            <EzoicAd 
-              placementId={135}
-              size="banner"
-              className="mx-auto"
-              lazy={false}
-            />
-          </div>
-        </section>
 
         {/* Breadcrumbs */}
         <section className="bg-white">
@@ -282,17 +269,6 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
               ))}
             </div>
 
-            {/* 💰 MID-CONTENT AD - ESIM ENGAGEMENT */}
-            {providers.length > 4 && (
-              <div className="mb-12">
-                <EzoicAd 
-                  placementId={136}
-                  size="rectangle"
-                  className="mx-auto"
-                  lazy={true}
-                />
-              </div>
-            )}
 
             {/* Remaining providers */}
             {providers.length > 4 && (

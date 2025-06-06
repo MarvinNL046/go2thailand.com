@@ -2,8 +2,6 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import { getEnhancedDishBySlug, getDishStaticPaths, generateDishMetadata, getRelatedDishes, generateFoodBreadcrumbs } from '../../lib/food';
-import EzoicAd from '../../components/EzoicAd';
-import { AD_PLACEMENTS, EZOIC_PLACEMENT_IDS } from '../../lib/ads/ezoic-config';
 
 interface EnhancedDish {
   id: number;
@@ -180,17 +178,6 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
           </div>
         </section>
 
-        {/* 💰 FOOD DETAIL HEADER AD - HIGH VISIBILITY */}
-        <section className="bg-white py-6">
-          <div className="container-custom">
-            <EzoicAd 
-              placementId={EZOIC_PLACEMENT_IDS.FOOD_BANNER}
-              size="banner"
-              className="mx-auto"
-              lazy={false}
-            />
-          </div>
-        </section>
 
         {/* Content Sections */}
         <section className="section-padding">
@@ -300,13 +287,6 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
 
               {/* Sidebar */}
               <div className="space-y-8">
-                {/* 💰 FOOD SIDEBAR AD - HIGH VALUE PLACEMENT */}
-                <EzoicAd 
-                  placementId={108}
-                  size="rectangle"
-                  className="mx-auto sticky top-4"
-                  lazy={true}
-                />
 
                 {/* Quick Info */}
                 <div className="bg-white rounded-lg shadow-lg p-6">

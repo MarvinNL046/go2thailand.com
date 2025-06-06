@@ -2,7 +2,6 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
-import EzoicAd from '../../components/EzoicAd';
 import Breadcrumbs from '../../components/Breadcrumbs';
 
 interface BlogPost {
@@ -140,12 +139,6 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                     </nav>
                   </div>
 
-                  {/* Ad Placement */}
-                  <EzoicAd 
-                    placementId={109}
-                    size="rectangle"
-                    className="mx-auto"
-                  />
                 </div>
               </aside>
 
@@ -307,12 +300,6 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                   </div>
                 </div>
 
-                {/* Ad Placement */}
-                <EzoicAd 
-                  placementId={110}
-                  size="rectangle"
-                  className="mx-auto sticky top-4"
-                />
               </aside>
             </div>
           </div>

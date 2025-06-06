@@ -3,8 +3,6 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { useState } from 'react';
 import Breadcrumbs from '../../components/Breadcrumbs';
-import EzoicAd from '../../components/EzoicAd';
-import { EZOIC_PLACEMENT_IDS } from '../../lib/ads/ezoic-config';
 
 interface Region {
   id: number;
@@ -64,17 +62,6 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
           </div>
         </section>
 
-        {/* 💰 REGIONS INDEX HEADER AD - HIGH VISIBILITY */}
-        <section className="bg-white py-6">
-          <div className="container-custom">
-            <EzoicAd 
-              placementId={EZOIC_PLACEMENT_IDS.CITY_INDEX_BANNER}
-              size="banner"
-              className="mx-auto"
-              lazy={false}
-            />
-          </div>
-        </section>
 
         {/* Regions Grid */}
         <section className="section-padding">
@@ -148,17 +135,6 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
           </div>
         </section>
 
-        {/* 💰 MID-CONTENT AD */}
-        <section className="bg-white py-8">
-          <div className="container-custom">
-            <EzoicAd 
-              placementId={EZOIC_PLACEMENT_IDS.CITY_INDEX_GRID}
-              size="rectangle"
-              className="mx-auto"
-              lazy={true}
-            />
-          </div>
-        </section>
 
         {/* Regional Comparison */}
         <section className="bg-white py-12">

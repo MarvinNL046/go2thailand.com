@@ -17,35 +17,11 @@ export default function Document() {
             <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
             <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
             
-            {/* Ezoic */}
-            <link rel="preconnect" href="https://go.ezoic.net" />
-            <link rel="dns-prefetch" href="https://go.ezoic.net" />
-            
             {/* Gatekeeper Consent */}
             <link rel="preconnect" href="https://cmp.gatekeeperconsent.com" />
             <link rel="dns-prefetch" href="https://cmp.gatekeeperconsent.com" />
             <link rel="preconnect" href="https://the.gatekeeperconsent.com" />
             <link rel="dns-prefetch" href="https://the.gatekeeperconsent.com" />
-          </>
-        )}
-        
-        {/* Ezoic Site Verification */}
-        <meta name="ezoic-site-verification" content="LQx1WNnvCxOQ8XYZnNU5Fp6M2D5BBV" />
-        
-        {/* Google AdSense - Removed to improve performance (using Ezoic instead) */}
-        
-        {/* Ezoic Scripts for JavaScript Integration */}
-        {isProduction && (
-          <>
-            <script
-              dangerouslySetInnerHTML={{
-                __html: `
-                  window.ezstandalone = window.ezstandalone || {};
-                  ezstandalone.cmd = ezstandalone.cmd || [];
-                `,
-              }}
-            />
-            <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
           </>
         )}
       </Head>

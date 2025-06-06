@@ -3,7 +3,6 @@ import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
-import EzoicAd from '../../components/EzoicAd';
 import citiesData from '../../data/cities/index.json';
 
 interface WeatherIndexProps {
@@ -92,7 +91,6 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
               </div>
             </section>
 
-            <EzoicAd placementId={135} size="rectangle" />
 
             {/* Cities by Region */}
             <section className="bg-white rounded-lg shadow-md p-6">
@@ -204,7 +202,6 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
               </ul>
             </div>
 
-            <EzoicAd placementId={136} size="rectangle" />
           </aside>
         </div>
       </main>

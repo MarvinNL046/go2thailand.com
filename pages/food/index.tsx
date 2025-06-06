@@ -4,8 +4,6 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
 import { getAllDishes } from '../../lib/food';
-import EzoicAd from '../../components/EzoicAd';
-import { EZOIC_PLACEMENT_IDS } from '../../lib/ads/ezoic-config';
 import Breadcrumbs from '../../components/Breadcrumbs';
 
 interface Dish {
@@ -133,17 +131,6 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
           </div>
         </section>
 
-        {/* 💰 FOOD HEADER AD - HIGH VISIBILITY */}
-        <section className="bg-white py-6">
-          <div className="container-custom">
-            <EzoicAd 
-              placementId={EZOIC_PLACEMENT_IDS.FOOD_BANNER}
-              size="banner"
-              className="mx-auto"
-              lazy={false}
-            />
-          </div>
-        </section>
 
         {/* Breadcrumbs */}
         <section className="bg-white">
@@ -268,17 +255,6 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
               ))}
             </div>
 
-            {/* 💰 MID-CONTENT AD - FOOD ENGAGEMENT */}
-            {visibleDishes >= 12 && (
-              <div className="my-12">
-                <EzoicAd 
-                  placementId={110}
-                  size="rectangle"
-                  className="mx-auto"
-                  lazy={true}
-                />
-              </div>
-            )}
 
             {/* Show More Button */}
             {visibleDishes < dishes.length && (

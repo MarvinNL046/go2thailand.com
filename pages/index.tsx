@@ -6,12 +6,10 @@ import { useState, useEffect } from 'react';
 import { getAllCities } from '../lib/cities';
 import { getPopularDishes } from '../lib/food';
 import CityCard from '../components/CityCard';
-import EzoicAd from '../components/EzoicAd';
 import TripcomWidget from '../components/TripcomWidget';
 import TypewriterText from '../components/TypewriterText';
 import FadeInText from '../components/FadeInText';
 import HighlightedText from '../components/HighlightedText';
-import { AD_PLACEMENTS } from '../lib/ads/ezoic-config';
 import { useTranslation } from '../hooks/useTranslation';
 
 interface City {
@@ -198,17 +196,6 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         </div>
       </section>
 
-      {/* 💰 HOMEPAGE HEADER AD - HIGH VISIBILITY */}
-      <section className="bg-white py-6">
-        <div className="container-custom">
-          <EzoicAd 
-            placementId={101}
-            size="banner"
-            className="mx-auto"
-            lazy={false}
-          />
-        </div>
-      </section>
 
       {/* Stats Section */}
       <section className="bg-white py-12">
@@ -271,15 +258,6 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             ))}
           </div>
 
-          {/* 💰 MID-CONTENT AD - STRATEGIC PLACEMENT */}
-          <div className="mb-8">
-            <EzoicAd 
-              placementId={103}
-              size="banner"
-              className="mx-auto"
-              lazy={true}
-            />
-          </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
             {featuredCities.slice(3, 6).map((city) => (
@@ -666,7 +644,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         </div>
       </section>
 
-      {/* 💰 BOTTOM SECTION AD */}
+      {/* Bottom CTA Section */}
       <section className="bg-gray-50 py-8">
         <div className="container-custom">
           <div className="text-center mb-6">
@@ -677,12 +655,6 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
               {t('sections.planTripDescription')}
             </p>
           </div>
-          <EzoicAd 
-            placementId={104}
-            size="banner"
-            className="mx-auto mb-6"
-            lazy={true}
-          />
           <div className="text-center">
             <Link href="/city/" className="btn-primary">
               {t('buttons.startExploringThailand')}
@@ -691,8 +663,6 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         </div>
       </section>
 
-      {/* Mobile Sticky Ad */}
-      <EzoicAd {...AD_PLACEMENTS.MOBILE_STICKY} />
     </>
   );
 }

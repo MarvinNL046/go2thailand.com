@@ -3,8 +3,6 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import { getAllCities } from '../../lib/cities';
-import EzoicAd from '../../components/EzoicAd';
-import { getTop10AdPlacements } from '../../lib/ads/ezoic-config';
 import fs from 'fs';
 import path from 'path';
 
@@ -32,7 +30,6 @@ interface Top10AttractionsIndexProps {
 }
 
 export default function Top10AttractionsIndex({ availableGuides, featuredGuides }: Top10AttractionsIndexProps) {
-  const adPlacements = getTop10AdPlacements('attractions');
 
   return (
     <>
@@ -107,7 +104,6 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
         {/* Header Ad */}
         <section className="bg-white py-6">
           <div className="container-custom">
-            <EzoicAd {...adPlacements.header} showInDev={true} />
           </div>
         </section>
 
@@ -208,7 +204,6 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
 
               {/* Mid-content Ad */}
               <div className="mb-8">
-                <EzoicAd {...adPlacements.inContent1} showInDev={true} />
               </div>
             </div>
           </section>
@@ -321,19 +316,10 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
               </div>
 
               {/* Bottom Ad */}
-              <EzoicAd {...adPlacements.bottom} showInDev={true} />
             </div>
           </div>
         </section>
 
-        {/* Mobile Sticky Ad */}
-        <EzoicAd 
-          placementId={133}
-          size="mobile-banner"
-          className="fixed bottom-0 left-0 right-0 z-50 md:hidden"
-          lazy={false}
-          showInDev={true}
-        />
       </div>
     </>
   );

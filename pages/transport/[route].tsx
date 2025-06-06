@@ -3,7 +3,6 @@ import { GetStaticPaths, GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
-import EzoicAd from '../../components/EzoicAd';
 import TripcomWidget from '../../components/TripcomWidget';
 import transportRoutes from '../../data/transport-routes.json';
 import citiesData from '../../data/cities/index.json';
@@ -151,7 +150,6 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
               ))}
             </section>
 
-            <EzoicAd placementId={137} size="rectangle" />
 
             {/* Travel Tips */}
             <section className="bg-white rounded-lg shadow-md p-6 mb-8">
@@ -283,7 +281,6 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
               </ul>
             </div>
 
-            <EzoicAd placementId={138} size="rectangle" />
           </aside>
         </div>
       </main>

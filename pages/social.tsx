@@ -3,8 +3,6 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
-import EzoicAd from '../components/EzoicAd';
-import { EZOIC_AD_UNITS } from '../lib/ads/ezoic-config';
 import Breadcrumbs from '../components/Breadcrumbs';
 
 interface SocialPost {
@@ -161,15 +159,6 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
               ))}
             </div>
 
-            {/* 💰 SOCIAL MEDIA AD */}
-            <div className="mb-12">
-              <EzoicAd 
-                placementId={137}
-                size="rectangle"
-                className="mx-auto"
-                lazy={true}
-              />
-            </div>
 
             {/* Filter Tabs */}
             <div className="mb-8">

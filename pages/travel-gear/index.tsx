@@ -2,7 +2,6 @@ import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
-import EzoicAd from '../../components/EzoicAd';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { useState } from 'react';
 
@@ -79,17 +78,6 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
           </div>
         </section>
 
-        {/* 💰 TOP AD PLACEMENT */}
-        <section className="bg-white py-4">
-          <div className="container-custom">
-            <EzoicAd 
-              placementId={135}
-              size="banner"
-              className="mx-auto"
-              lazy={false}
-            />
-          </div>
-        </section>
 
         {/* Breadcrumbs and Affiliate Notice */}
         <section className="bg-white">
@@ -244,16 +232,6 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
             </div>
 
             {/* 💰 MID-CONTENT AD */}
-            {filteredItems.length > 6 && (
-              <div className="my-12">
-                <EzoicAd 
-                  placementId={136}
-                  size="rectangle"
-                  className="mx-auto"
-                  lazy={true}
-                />
-              </div>
-            )}
           </div>
         </section>
 

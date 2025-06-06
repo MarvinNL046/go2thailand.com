@@ -3,9 +3,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
-import EzoicAd from '../../../components/EzoicAd';
 import TripcomWidget from '../../../components/TripcomWidget';
-import { getTop10AdPlacements } from '../../../lib/ads/ezoic-config';
 import fs from 'fs';
 import path from 'path';
 
@@ -60,9 +58,6 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
     ...generateBreadcrumbs(city),
     { name: 'Top 10 Restaurants', href: `/city/${city.slug}/top-10-restaurants/` }
   ];
-
-  // Get ad placements for restaurants
-  const adPlacements = getTop10AdPlacements('restaurants');
 
   // If no data, show coming soon
   if (!restaurantsData) {
@@ -171,7 +166,6 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
 
             {/* Header Banner Ad */}
             <div className="mt-8">
-              <EzoicAd {...adPlacements.header} showInDev={true} />
             </div>
           </div>
         </section>
@@ -185,7 +179,6 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
               <aside className="hidden lg:block lg:col-span-3">
                 <div className="sticky top-4 space-y-6">
                   {/* Sticky Sidebar Ad */}
-                  <EzoicAd {...adPlacements.sidebar} showInDev={true} />
                   
                   {/* Quick Navigation */}
                   <div className="bg-white rounded-lg shadow-lg p-6">
@@ -288,13 +281,11 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
                       {/* Ad Placements */}
                       {index === 2 && (
                         <div className="my-8">
-                          <EzoicAd {...adPlacements.inContent1} showInDev={true} />
                         </div>
                       )}
                       
                       {index === 6 && (
                         <div className="my-8">
-                          <EzoicAd {...adPlacements.inContent2} showInDev={true} />
                         </div>
                       )}
                     </div>
@@ -302,7 +293,6 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
 
                   {/* Bottom Banner Ad */}
                   <div className="mt-12">
-                    <EzoicAd {...adPlacements.bottom} showInDev={true} />
                   </div>
 
                   {/* Trip.com Bundle Widget */}
@@ -338,14 +328,6 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
           </div>
         </section>
 
-        {/* Mobile Sticky Ad */}
-        <EzoicAd 
-          placementId={133}
-          size="mobile-banner"
-          className="fixed bottom-0 left-0 right-0 z-50 md:hidden"
-          lazy={false}
-          showInDev={true}
-        />
       </div>
     </>
   );

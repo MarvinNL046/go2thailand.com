@@ -4,9 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getCityImageForSection, getEnhancedAttractionsByCity } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
-import EzoicAd from '../../../components/EzoicAd';
 import TripcomWidget from '../../../components/TripcomWidget';
-import { AD_PLACEMENTS } from '../../../lib/ads/ezoic-config';
 
 interface Attraction {
   id: number;
@@ -132,7 +130,6 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
         {/* Header Banner Ad */}
         <section className="bg-white py-4">
           <div className="container-custom">
-            <EzoicAd {...AD_PLACEMENTS.HEADER_BANNER} />
           </div>
         </section>
 
@@ -283,7 +280,6 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
 
                 {/* In-Content Ad */}
                 <div className="mb-12">
-                  <EzoicAd {...AD_PLACEMENTS.IN_CONTENT} />
                 </div>
 
                 {/* Travel Tips for Attractions */}
@@ -423,7 +419,6 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                 </div>
 
                 {/* Sidebar Ad */}
-                <EzoicAd {...AD_PLACEMENTS.CITY_SIDEBAR} />
 
                 {/* Travel Tips */}
                 <div className="bg-gradient-to-br from-thailand-gold-50 to-thailand-blue-50 rounded-xl p-6 mt-8">
@@ -444,7 +439,6 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
         </section>
 
         {/* Mobile Sticky Ad */}
-        <EzoicAd {...AD_PLACEMENTS.MOBILE_STICKY} />
       </div>
     </>
   );

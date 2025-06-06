@@ -5,10 +5,9 @@ import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getRelatedCities, getCityImageForSection } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import CityCard from '../../../components/CityCard';
-import EzoicAd from '../../../components/EzoicAd';
 import Sidebar from '../../../components/Sidebar';
 import TripcomWidget from '../../../components/TripcomWidget';
-import { AD_PLACEMENTS } from '../../../lib/ads/ezoic-config';
+import FeedbackForm from '../../../components/FeedbackForm';
 import { useEffect, useState } from 'react';
 import { useTranslatedContent } from '../../../hooks/useTranslatedContent';
 import { useRouter } from 'next/router';
@@ -287,12 +286,6 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
           </div>
         </section>
 
-        {/* Header Banner Ad */}
-        <section className="bg-white py-4">
-          <div className="container-custom">
-            <EzoicAd {...AD_PLACEMENTS.HEADER_BANNER} />
-          </div>
-        </section>
 
         {/* Content */}
         <section className="bg-white">
@@ -704,7 +697,6 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
 
                 {/* In-Content Ad */}
                 <div className="mb-12">
-                  <EzoicAd {...AD_PLACEMENTS.IN_CONTENT} />
                 </div>
 
                 {/* Foodie Adventures */}
@@ -1073,7 +1065,6 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                 </div>
 
                 {/* 💰 SIDEBAR AD - THE MONEY MAKER! */}
-                <EzoicAd {...AD_PLACEMENTS.CITY_SIDEBAR} />
 
                 {/* Enhanced Seasonal Secrets */}
                 {city.seasonal_secrets ? (
@@ -1271,6 +1262,16 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
           </div>
         </section>
 
+        {/* Feedback Form */}
+        <section className="section-padding">
+          <div className="container-custom max-w-3xl mx-auto">
+            <FeedbackForm 
+              pageTitle={`${city.name.en} Travel Guide`}
+              pageUrl={`/city/${city.slug}`}
+            />
+          </div>
+        </section>
+
         {/* Related Cities */}
         {relatedCities && relatedCities.length > 0 && (
           <section className="section-padding bg-gray-50">
@@ -1288,7 +1289,6 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
         )}
 
         {/* Mobile Sticky Ad */}
-        <EzoicAd {...AD_PLACEMENTS.MOBILE_STICKY} />
       </div>
     </>
   );

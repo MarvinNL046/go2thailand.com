@@ -4,9 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { getCityBySlug, getAttractionBySlug, generateAttractionMetadata, generateAttractionBreadcrumbs, getAllAttractionStaticPaths } from '../../../../lib/cities';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
-import EzoicAd from '../../../../components/EzoicAd';
 import TripcomWidget from '../../../../components/TripcomWidget';
-import { AD_PLACEMENTS } from '../../../../lib/ads/ezoic-config';
 
 interface Attraction {
   id: number;
@@ -166,7 +164,6 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
         {/* Header Banner Ad */}
         <section className="bg-white py-4">
           <div className="container-custom">
-            <EzoicAd {...AD_PLACEMENTS.HEADER_BANNER} />
           </div>
         </section>
 
@@ -260,7 +257,6 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 )}
 
                 {/* In-Content Ad */}
-                <EzoicAd {...AD_PLACEMENTS.IN_CONTENT} />
 
                 {/* Photography Tips */}
                 {attraction.photography_tips && attraction.photography_tips.length > 0 && (
@@ -456,14 +452,12 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 </div>
 
                 {/* Sidebar Ad */}
-                <EzoicAd {...AD_PLACEMENTS.CITY_SIDEBAR} />
               </div>
             </div>
           </div>
         </section>
 
         {/* Mobile Sticky Ad */}
-        <EzoicAd {...AD_PLACEMENTS.MOBILE_STICKY} />
       </div>
     </>
   );

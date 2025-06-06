@@ -4,7 +4,6 @@ import Link from 'next/link';
 import Image from 'next/image';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
-import EzoicAd from '../../components/EzoicAd';
 import monthlyGuides from '../../data/monthly-guides.json';
 import { getAllCities } from '../../lib/cities';
 
@@ -304,11 +303,6 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                     </div>
                   </div>
 
-                  {/* Ezoic Ad */}
-                  <EzoicAd 
-                    placementId={140}
-                    size="rectangle"
-                  />
 
                   {/* Other Months */}
                   <div className="bg-white rounded-lg shadow-lg p-6">

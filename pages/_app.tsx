@@ -5,49 +5,15 @@ import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import EzoicDebugger from '../components/EzoicDebugger';
-import { AD_CONFIG } from '../lib/ads/ezoic-config';
+import CookieConsent from '../components/CookieConsent';
+import GoogleConsent from '../components/GoogleConsent';
+import FeedbackRibbon from '../components/FeedbackRibbon';
 import '../styles/globals.css';
 
 export default function App({ Component, pageProps }: AppProps) {
   const isProduction = process.env.NODE_ENV === 'production';
   const router = useRouter();
 
-  useEffect(() => {
-    // Initialize Ezoic in production
-    if (isProduction && typeof window !== 'undefined') {
-      // Add any additional Ezoic initialization here
-    }
-  }, [isProduction]);
-
-  // Handle route changes for Ezoic ads
-  useEffect(() => {
-    const handleRouteChangeStart = () => {
-      // Optionally destroy all ads before route change
-      if (typeof window !== 'undefined' && window.ezstandalone?.destroyAll) {
-        window.ezstandalone.cmd?.push(() => {
-          window.ezstandalone.destroyAll();
-        });
-      }
-    };
-
-    const handleRouteChangeComplete = () => {
-      // Refresh ads after route change
-      if (typeof window !== 'undefined' && window.ezstandalone?.showAds) {
-        window.ezstandalone.cmd?.push(() => {
-          window.ezstandalone.showAds();
-        });
-      }
-    };
-
-    router.events.on('routeChangeStart', handleRouteChangeStart);
-    router.events.on('routeChangeComplete', handleRouteChangeComplete);
-
-    return () => {
-      router.events.off('routeChangeStart', handleRouteChangeStart);
-      router.events.off('routeChangeComplete', handleRouteChangeComplete);
-    };
-  }, [router.events]);
 
   return (
     <>
@@ -55,14 +21,6 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/go2thailand-faviocon.webp" />
         <link rel="apple-touch-icon" href="/go2thailand-faviocon.webp" />
-        
-        
-        {/* Ezoic Meta Tags */}
-        {isProduction && AD_CONFIG.SITE_KEY && (
-          <>
-            <meta name="ezoic-site-verification" content={AD_CONFIG.SITE_KEY} />
-          </>
-        )}
       </Head>
 
       {/* Analytics and Ad Scripts - Only in production */}
@@ -98,17 +56,18 @@ export default function App({ Component, pageProps }: AppProps) {
             data-cfasync="false"
           />
           
-          {/* Ezoic scripts are now in _document.tsx for proper JavaScript integration */}
         </>
       )}
 
+      <GoogleConsent />
       <div className="min-h-screen flex flex-col overflow-x-hidden">
         <Header />
         <main className="flex-grow overflow-x-hidden">
           <Component {...pageProps} />
         </main>
         <Footer />
-        <EzoicDebugger />
+        <CookieConsent />
+        <FeedbackRibbon />
       </div>
     </>
   );

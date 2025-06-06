@@ -4,8 +4,6 @@ import Image from 'next/image';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import CityCard from '../../components/CityCard';
-import EzoicAd from '../../components/EzoicAd';
-import { EZOIC_PLACEMENT_IDS, EZOIC_AD_UNITS } from '../../lib/ads/ezoic-config';
 import { getAllCities } from '../../lib/cities';
 
 interface Region {
@@ -147,17 +145,6 @@ export default function RegionPage({ region, cities }: RegionPageProps) {
           </div>
         </section>
 
-        {/* Header Banner Ad */}
-        <section className="bg-white py-4">
-          <div className="container-custom">
-            <EzoicAd 
-              placementId={EZOIC_PLACEMENT_IDS.CITY_INDEX_BANNER}
-              size="banner"
-              className="mx-auto"
-              lazy={false}
-            />
-          </div>
-        </section>
 
         {/* Content */}
         <section className="bg-white">
@@ -337,15 +324,6 @@ export default function RegionPage({ region, cities }: RegionPageProps) {
                   </div>
                 </div>
 
-                {/* In-Content Ad */}
-                <div className="mb-12">
-                  <EzoicAd 
-                    placementId={EZOIC_PLACEMENT_IDS.CITY_INDEX_GRID}
-                    size="rectangle"
-                    className="mx-auto"
-                    lazy={true}
-                  />
-                </div>
 
                 {/* Cities in Region */}
                 <div className="mb-12">
@@ -596,15 +574,6 @@ export default function RegionPage({ region, cities }: RegionPageProps) {
                   </div>
                 )}
 
-                {/* Sidebar Ad */}
-                <div className="mb-8">
-                  <EzoicAd 
-                    placementId={EZOIC_PLACEMENT_IDS.CITY_INDEX_GRID}
-                    size="rectangle"
-                    className="mx-auto"
-                    lazy={true}
-                  />
-                </div>
 
                 {/* Regional Highlights */}
                 <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6 mb-8">

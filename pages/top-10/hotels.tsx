@@ -3,9 +3,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import { getAllCities } from '../../lib/cities';
-import EzoicAd from '../../components/EzoicAd';
 import TripcomWidget from '../../components/TripcomWidget';
-import { getTop10AdPlacements } from '../../lib/ads/ezoic-config';
 import fs from 'fs';
 import path from 'path';
 
@@ -33,7 +31,6 @@ interface Top10HotelsIndexProps {
 }
 
 export default function Top10HotelsIndex({ availableGuides, featuredGuides }: Top10HotelsIndexProps) {
-  const adPlacements = getTop10AdPlacements('hotels');
 
   return (
     <>
@@ -108,7 +105,6 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
         {/* Header Ad */}
         <section className="bg-white py-6">
           <div className="container-custom">
-            <EzoicAd {...adPlacements.header} showInDev={true} />
           </div>
         </section>
 
@@ -221,7 +217,6 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
 
               {/* Mid-content Ad */}
               <div className="mb-8">
-                <EzoicAd {...adPlacements.inContent1} showInDev={true} />
               </div>
             </div>
           </section>
@@ -334,19 +329,10 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
               </div>
 
               {/* Bottom Ad */}
-              <EzoicAd {...adPlacements.bottom} showInDev={true} />
             </div>
           </div>
         </section>
 
-        {/* Mobile Sticky Ad */}
-        <EzoicAd 
-          placementId={133}
-          size="mobile-banner"
-          className="fixed bottom-0 left-0 right-0 z-50 md:hidden"
-          lazy={false}
-          showInDev={true}
-        />
       </div>
     </>
   );

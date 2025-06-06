@@ -2,8 +2,6 @@ import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
-import EzoicAd from '../../components/EzoicAd';
-import { EZOIC_PLACEMENT_IDS } from '../../lib/ads/ezoic-config';
 
 interface Top10IndexProps {
   totalGuides: {
@@ -81,17 +79,6 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
           </div>
         </section>
 
-        {/* Header Banner Ad */}
-        <section className="bg-white py-6">
-          <div className="container-custom">
-            <EzoicAd 
-              placementId={EZOIC_PLACEMENT_IDS.CITY_INDEX_BANNER}
-              size="banner"
-              className="mx-auto"
-              lazy={false}
-            />
-          </div>
-        </section>
 
         {/* Categories Grid */}
         <section className="section-padding">
@@ -124,15 +111,6 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
               ))}
             </div>
 
-            {/* Mid-Content Ad */}
-            <div className="mb-12">
-              <EzoicAd 
-                placementId={EZOIC_PLACEMENT_IDS.CITY_INDEX_GRID}
-                size="rectangle"
-                className="mx-auto"
-                lazy={true}
-              />
-            </div>
 
             {/* What Makes Our Guides Special */}
             <div className="bg-white rounded-xl shadow-lg p-8 mb-12">

@@ -4,8 +4,6 @@ import { useState } from 'react';
 import { getAllCities } from '../../lib/cities';
 import CityCard from '../../components/CityCard';
 import Breadcrumbs from '../../components/Breadcrumbs';
-import EzoicAd from '../../components/EzoicAd';
-import { EZOIC_PLACEMENT_IDS } from '../../lib/ads/ezoic-config';
 
 interface City {
   id: number;
@@ -115,17 +113,6 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
           </div>
         </section>
 
-        {/* 💰 CITIES INDEX HEADER AD - HIGH VISIBILITY */}
-        <section className="bg-white py-6">
-          <div className="container-custom">
-            <EzoicAd 
-              placementId={EZOIC_PLACEMENT_IDS.CITY_INDEX_BANNER}
-              size="banner"
-              className="mx-auto"
-              lazy={false}
-            />
-          </div>
-        </section>
 
         {/* Cities Grid */}
         <section className="section-padding">
@@ -149,17 +136,6 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
                   ))}
                 </div>
 
-                {/* 💰 MID-CONTENT AD - STRATEGIC PLACEMENT */}
-                {filteredCities.length > 6 && (
-                  <div className="mb-12">
-                    <EzoicAd 
-                      placementId={EZOIC_PLACEMENT_IDS.CITY_INDEX_GRID}
-                      size="rectangle"
-                      className="mx-auto"
-                      lazy={true}
-                    />
-                  </div>
-                )}
 
                 {/* Remaining cities */}
                 {filteredCities.length > 6 && (

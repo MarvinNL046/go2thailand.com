@@ -32,9 +32,11 @@
     "deploy-prep": "npm run lint && npm run build-production"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.49.10",
     "critters": "^0.0.25",
     "csv-parser": "^3.0.0",
     "dotenv": "^16.5.0",
+    "lucide-react": "^0.513.0",
     "next": "^14.2.29",
     "openai": "^4.103.0",
     "react": "^18",

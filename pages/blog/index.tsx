@@ -3,7 +3,6 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
-import EzoicAd from '../../components/EzoicAd';
 import Breadcrumbs from '../../components/Breadcrumbs';
 
 // Mock blog post type (will be replaced with actual data structure)
@@ -244,12 +243,6 @@ export default function BlogPage({ posts, categories, popularPosts }: BlogPagePr
 
               {/* Sidebar */}
               <aside className="space-y-8">
-                {/* Ad Placement */}
-                <EzoicAd 
-                  placementId={108}
-                  size="rectangle"
-                  className="mx-auto sticky top-20"
-                />
 
                 {/* Popular Posts */}
                 <div className="bg-white rounded-lg shadow-lg p-6">

@@ -3,7 +3,6 @@ import { GetStaticPaths, GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
-import EzoicAd from '../../../../components/EzoicAd';
 import TripcomWidget from '../../../../components/TripcomWidget';
 import cityWeatherData from '../../../../data/city-weather.json';
 import citiesData from '../../../../data/cities/index.json';
@@ -124,7 +123,6 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
               )}
             </section>
 
-            <EzoicAd placementId={131} size="rectangle" />
 
             {/* Pros and Cons */}
             <section className="bg-white rounded-lg shadow-md p-6 mb-8">
@@ -266,7 +264,6 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
               </ul>
             </div>
 
-            <EzoicAd placementId={132} size="rectangle" />
           </aside>
         </div>
       </main>
