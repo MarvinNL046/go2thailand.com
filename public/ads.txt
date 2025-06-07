@@ -1,0 +1,8 @@
+# Ads.txt file for go2-thailand.com
+# This file lists authorized digital sellers for this domain
+
+# Google AdSense
+google.com, pub-9667530069853985, DIRECT, f08c47fec0942fa0
+
+# Add other ad networks here as needed
+# Format: <domain>, <publisher_id>, <relationship>, <certification_authority_id>
