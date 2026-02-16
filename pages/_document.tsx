@@ -16,12 +16,6 @@ export default function Document() {
             {/* Google Ads/AdSense */}
             <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
             <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
-            
-            {/* Gatekeeper Consent */}
-            <link rel="preconnect" href="https://cmp.gatekeeperconsent.com" />
-            <link rel="dns-prefetch" href="https://cmp.gatekeeperconsent.com" />
-            <link rel="preconnect" href="https://the.gatekeeperconsent.com" />
-            <link rel="dns-prefetch" href="https://the.gatekeeperconsent.com" />
           </>
         )}
       </Head>

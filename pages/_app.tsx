@@ -57,21 +57,6 @@ export default function App({ Component, pageProps }: AppProps) {
             }}
           />
 
-          {/* Gatekeeper Consent Scripts - Load after page is interactive */}
-          <Script
-            id="gatekeeper-min"
-            strategy="afterInteractive"
-            src="https://cmp.gatekeeperconsent.com/min.js"
-            data-cfasync="false"
-          />
-          
-          <Script
-            id="gatekeeper-cmp"
-            strategy="afterInteractive"
-            src="https://the.gatekeeperconsent.com/cmp.min.js"
-            data-cfasync="false"
-          />
-          
         </>
       )}
 
