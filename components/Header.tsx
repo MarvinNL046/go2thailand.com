@@ -116,6 +116,15 @@ const Header = () => {
                       <span className="mr-3">🎒</span>
                       {t('nav.gear')}
                     </Link>
+                    <div className="border-t border-gray-100 my-2"></div>
+                    <Link href="/activities/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <span className="mr-3">🎯</span>
+                      {t('nav.activities')}
+                    </Link>
+                    <Link href="/travel-security/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <span className="mr-3">🔒</span>
+                      {t('nav.vpnSecurity')}
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -314,12 +323,26 @@ const Header = () => {
             >
               🛡️ {t('nav.insurance')}
             </Link>
-            <Link 
-              href="/travel-gear/" 
+            <Link
+              href="/travel-gear/"
               className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
               onClick={() => setIsMobileMenuOpen(false)}
             >
               🎒 {t('nav.gear')}
+            </Link>
+            <Link
+              href="/activities/"
+              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              🎯 {t('nav.activities')}
+            </Link>
+            <Link
+              href="/travel-security/"
+              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              🔒 {t('nav.vpnSecurity')}
             </Link>
             <Link 
               href="/weather/" 

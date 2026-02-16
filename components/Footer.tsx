@@ -145,6 +145,16 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
+                <Link href="/activities/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  {t('nav.activities')}
+                </Link>
+              </li>
+              <li>
+                <Link href="/travel-security/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  {t('nav.vpnSecurity')}
+                </Link>
+              </li>
+              <li>
                 <Link href="/food/" className="text-gray-300 hover:text-white text-sm transition-colors">
                   {t('footer.thaiFoodGuide')}
                 </Link>

@@ -379,7 +379,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
           <div className="container-custom">
             <div className="max-w-5xl mx-auto">
               <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
-                Quick Comparison: Airalo vs Yesim
+                Quick Comparison: Airalo vs Yesim vs Saily
               </h2>
               <div className="bg-white rounded-lg shadow-lg overflow-hidden">
                 <div className="overflow-x-auto">
@@ -389,6 +389,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                         <th className="px-6 py-4 text-left">Feature</th>
                         <th className="px-6 py-4 text-center">Airalo</th>
                         <th className="px-6 py-4 text-center">Yesim</th>
+                        <th className="px-6 py-4 text-center">Saily</th>
                       </tr>
                     </thead>
                     <tbody className="divide-y divide-gray-200">
@@ -396,36 +397,43 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                         <td className="px-6 py-4 font-medium">Best For</td>
                         <td className="px-6 py-4 text-center">Short trips (1-2GB)</td>
                         <td className="px-6 py-4 text-center">Heavy users (5GB+)</td>
+                        <td className="px-6 py-4 text-center">Security-minded travelers</td>
                       </tr>
                       <tr className="bg-gray-50">
                         <td className="px-6 py-4 font-medium">Starting Price</td>
                         <td className="px-6 py-4 text-center">$5 for 1GB/7 days</td>
                         <td className="px-6 py-4 text-center">$25 for Unlimited/7 days</td>
+                        <td className="px-6 py-4 text-center">$4 for 1GB/7 days</td>
                       </tr>
                       <tr>
                         <td className="px-6 py-4 font-medium">Networks</td>
                         <td className="px-6 py-4 text-center">AIS, TrueMove, dtac</td>
                         <td className="px-6 py-4 text-center">AIS, dtac</td>
+                        <td className="px-6 py-4 text-center">AIS, TrueMove</td>
                       </tr>
                       <tr className="bg-gray-50">
                         <td className="px-6 py-4 font-medium">Unlimited Plans</td>
                         <td className="px-6 py-4 text-center">❌ No</td>
                         <td className="px-6 py-4 text-center">✅ Yes</td>
+                        <td className="px-6 py-4 text-center">❌ No</td>
                       </tr>
                       <tr>
-                        <td className="px-6 py-4 font-medium">Free VPN</td>
+                        <td className="px-6 py-4 font-medium">Security Brand</td>
                         <td className="px-6 py-4 text-center">❌ No</td>
-                        <td className="px-6 py-4 text-center">✅ Yes (iOS)</td>
+                        <td className="px-6 py-4 text-center">✅ Yes (Free VPN iOS)</td>
+                        <td className="px-6 py-4 text-center">✅ By NordVPN</td>
                       </tr>
                       <tr className="bg-gray-50">
                         <td className="px-6 py-4 font-medium">Customer Rating</td>
                         <td className="px-6 py-4 text-center">4.5/5 ⭐</td>
                         <td className="px-6 py-4 text-center">4.3/5 ⭐</td>
+                        <td className="px-6 py-4 text-center">4.4/5 ⭐</td>
                       </tr>
                       <tr>
                         <td className="px-6 py-4 font-medium">Support Speed</td>
                         <td className="px-6 py-4 text-center">~22 minutes</td>
                         <td className="px-6 py-4 text-center">~2 minutes</td>
+                        <td className="px-6 py-4 text-center">24/7 support</td>
                       </tr>
                     </tbody>
                   </table>
@@ -440,6 +448,10 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                     <p className="flex items-start">
                       <span className="text-green-600 mr-2">✓</span>
                       <span><strong>Choose Yesim</strong> if you want unlimited data, need 5GB+, or value the free VPN for security.</span>
+                    </p>
+                    <p className="flex items-start">
+                      <span className="text-green-600 mr-2">✓</span>
+                      <span><strong>Choose Saily</strong> if you value cybersecurity expertise (made by NordVPN) and want competitive pricing.</span>
                     </p>
                   </div>
                 </div>
@@ -628,6 +640,38 @@ export const getStaticProps: GetStaticProps = async () => {
       qrCodeImage: "/affiliate-qrcodes/airalo/tp-yesim-qr-code.jpeg",
       rating: 4.3,
       dealText: "Best for unlimited data"
+    },
+    {
+      id: 3,
+      name: "Saily",
+      slug: "saily",
+      logo: "/images/partners/saily.svg",
+      description: "Built by the makers of NordVPN, Saily offers reliable eSIM connectivity in 150+ countries. Affordable plans with easy app-based setup and trusted cybersecurity expertise.",
+      features: [
+        "Built by NordVPN team",
+        "150+ countries covered",
+        "Easy app-based setup",
+        "Trusted security brand"
+      ],
+      plans: [
+        { duration: "7 days", data: "1GB", price: "$4", priceUSD: 4 },
+        { duration: "15 days", data: "3GB", price: "$10", priceUSD: 10 },
+        { duration: "30 days", data: "5GB", price: "$16", priceUSD: 16 }
+      ],
+      coverage: ["AIS", "TrueMove"],
+      pros: [
+        "Backed by NordVPN security",
+        "Competitive pricing",
+        "Reliable connections",
+        "User-friendly app"
+      ],
+      cons: [
+        "Newer provider",
+        "Fewer plan options than competitors"
+      ],
+      affiliateLink: "https://saily.tpo.lv/rf9lidnE",
+      rating: 4.4,
+      dealText: "By the makers of NordVPN"
     },
     /* Temporarily disabled - waiting for affiliate approval
     {
