@@ -3,6 +3,10 @@
     "home": "Accueil",
     "cities": "Villes",
     "food": "Cuisine",
+    "foodDrinks": "Cuisine & Boissons",
+    "drinks": "Boissons",
+    "thaiFood": "Cuisine Thaïlandaise",
+    "thaiDrinks": "Boissons Thaïlandaises",
     "planTrip": "Planifier votre voyage",
     "weather": "Guide météo",
     "transport": "Itinéraires de transport",
@@ -14,6 +18,7 @@
     "regions": "Régions",
     "exploreNow": "Explorer maintenant",
     "travelEssentials": "Essentiels de voyage",
+    "travelNeeds": "Besoins de voyage",
     "byCategory": "Par catégorie",
     "popularCities": "Villes populaires",
     "restaurantGuides": "Guides restaurants",
@@ -35,7 +40,8 @@
     "description": "Explorez des villes incroyables, des joyaux cachés, une cuisine délicieuse et des expériences inoubliables",
     "landOfSmiles": "Votre guide ultime pour explorer le Pays du Sourire. Des villes animées aux plages immaculées, découvrez le meilleur de la Thaïlande.",
     "exploreTitle": "Explorer les villes",
-    "featuredDestinations": "Destinations vedettes"
+    "featuredDestinations": "Destinations vedettes",
+    "seoIntro": "Bienvenue dans le guide de voyage le plus complet de Thaïlande pour 2026. Que vous prévoyiez d'explorer la vie animée de Bangkok, de vous détendre sur les plages immaculées de Phuket ou de découvrir les temples anciens de Chiang Mai, nous avons des informations actualisées, des conseils d'initiés et des recommandations d'experts."
   },
   "buttons": {
     "viewAll": "Voir tout",

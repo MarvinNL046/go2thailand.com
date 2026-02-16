@@ -3,6 +3,10 @@
     "home": "홈",
     "cities": "도시",
     "food": "음식",
+    "foodDrinks": "음식 & 음료",
+    "drinks": "음료",
+    "thaiFood": "태국 음식",
+    "thaiDrinks": "태국 음료",
     "planTrip": "여행 계획",
     "weather": "날씨 가이드",
     "transport": "교통 경로",
@@ -14,6 +18,7 @@
     "regions": "지역",
     "exploreNow": "지금 탐험하기",
     "travelEssentials": "여행 필수품",
+    "travelNeeds": "여행 필요품",
     "byCategory": "카테고리별",
     "popularCities": "인기 도시",
     "restaurantGuides": "레스토랑 가이드",
@@ -35,7 +40,8 @@
     "description": "놀라운 도시, 숨겨진 보석, 맛있는 음식, 잊을 수 없는 경험을 탐험하세요",
     "landOfSmiles": "미소의 나라를 탐험하는 최고의 가이드. 번화한 도시부터 깨끗한 해변까지, 태국의 최고를 발견하세요.",
     "exploreTitle": "도시 탐험",
-    "featuredDestinations": "추천 여행지"
+    "featuredDestinations": "추천 여행지",
+    "seoIntro": "2026년 가장 포괄적인 태국 여행 가이드에 오신 것을 환영합니다. 방콕의 활기찬 거리를 탐험하거나, 푸켓의 아름다운 해변에서 휴식하거나, 치앙마이의 고대 사원을 발견하든 — 최신 정보, 내부자 팁, 전문가 추천을 제공합니다."
   },
   "buttons": {
     "viewAll": "모두 보기",

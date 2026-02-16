@@ -3,6 +3,10 @@
     "home": "ホーム",
     "cities": "都市",
     "food": "料理",
+    "foodDrinks": "料理 & ドリンク",
+    "drinks": "ドリンク",
+    "thaiFood": "タイ料理",
+    "thaiDrinks": "タイのドリンク",
     "planTrip": "旅行計画",
     "weather": "天気ガイド",
     "transport": "交通ルート",
@@ -14,6 +18,7 @@
     "regions": "地域",
     "exploreNow": "今すぐ探索",
     "travelEssentials": "旅行必需品",
+    "travelNeeds": "旅の必需品",
     "byCategory": "カテゴリー別",
     "popularCities": "人気の都市",
     "restaurantGuides": "レストランガイド",
@@ -35,7 +40,8 @@
     "description": "素晴らしい都市、隠れた宝石、美味しい料理、忘れられない体験を探索しましょう",
     "landOfSmiles": "微笑みの国を探索するための究極のガイド。賑やかな都市から手つかずのビーチまで、タイの最高を発見しましょう。",
     "exploreTitle": "都市を探索",
-    "featuredDestinations": "注目の目的地"
+    "featuredDestinations": "注目の目的地",
+    "seoIntro": "2026年最も包括的なタイ旅行ガイドへようこそ。バンコクの活気ある街並みを探索したり、プーケットの美しいビーチでリラックスしたり、チェンマイの古代寺院を発見したり——最新の情報、インサイダーのヒント、専門家のおすすめをお届けします。"
   },
   "buttons": {
     "viewAll": "すべて見る",
