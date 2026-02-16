@@ -2,6 +2,11 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import AffiliateWidget from '../../components/AffiliateWidget';
+
+const KLOOK_WIDGET = '<script async src="https://tpembd.com/content?currency=USD&trs=421888&shmarker=602467&locale=en&category=4&amount=3&powered_by=true&campaign_id=137&promo_id=4497" charset="utf-8"></script>';
+const GYG_POPULAR_TOURS = '<script async src="https://tpembd.com/content?trs=421888&shmarker=602467&place=Thailand&items=3&locale=en&powered_by=true&campaign_id=108&promo_id=4039" charset="utf-8"></script>';
+const GYG_CITY_WIDGET = '<script async src="https://tpembd.com/content?trs=421888&shmarker=602467&locale=en-US&powered_by=true&campaign_id=108&promo_id=4040" charset="utf-8"></script>';
 
 const activities = [
   {
@@ -164,6 +169,43 @@ export default function ActivitiesPage() {
                   Browse Thailand on GetYourGuide →
                 </a>
               </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Klook & GYG Embed Widgets */}
+        <section className="section-padding bg-gray-50">
+          <div className="container-custom">
+            <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+              Browse & Book Instantly
+            </h2>
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 max-w-5xl mx-auto">
+              <div className="bg-white rounded-lg shadow-md p-6">
+                <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
+                  <Image src="/images/partners/klook.svg" alt="Klook" width={80} height={24} className="mr-2" />
+                  Activities
+                </h3>
+                <AffiliateWidget scriptContent={KLOOK_WIDGET} className="mb-4" minHeight="250px" />
+                <a href="https://klook.tpo.lv/aq6ZFxvc" target="_blank" rel="noopener noreferrer"
+                  className="block w-full bg-orange-500 text-white text-center py-2 rounded-lg font-medium hover:bg-orange-600 transition-colors text-sm">
+                  View All on Klook →
+                </a>
+              </div>
+              <div className="bg-white rounded-lg shadow-md p-6">
+                <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
+                  <Image src="/images/partners/getyourguide.svg" alt="GetYourGuide" width={120} height={24} className="mr-2" />
+                  Tours
+                </h3>
+                <AffiliateWidget scriptContent={GYG_POPULAR_TOURS} className="mb-4" minHeight="250px" />
+                <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer"
+                  className="block w-full bg-blue-700 text-white text-center py-2 rounded-lg font-medium hover:bg-blue-800 transition-colors text-sm">
+                  View All on GetYourGuide →
+                </a>
+              </div>
+            </div>
+            <div className="mt-8 max-w-3xl mx-auto">
+              <h3 className="text-xl font-bold text-gray-900 mb-4 text-center">Things to Do in Thailand</h3>
+              <AffiliateWidget scriptContent={GYG_CITY_WIDGET} minHeight="200px" />
             </div>
           </div>
         </section>

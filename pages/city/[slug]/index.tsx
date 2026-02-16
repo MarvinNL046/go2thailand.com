@@ -694,8 +694,70 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                   </div>
                 </div>
 
-                {/* In-Content Ad */}
+                {/* Activities & Tours Section */}
                 <div className="mb-12">
+                  <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                    🎯 Activities & Tours in {cityName}
+                  </h2>
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+                    <a
+                      href={(() => {
+                        const klookLinks: Record<string, string> = {
+                          bangkok: 'https://klook.tpo.lv/FXwAY84o',
+                          phuket: 'https://klook.tpo.lv/7Dt6WApj',
+                          'chiang-mai': 'https://klook.tpo.lv/SrPrBanh',
+                          krabi: 'https://klook.tpo.lv/aq6ZFxvc',
+                          pattaya: 'https://klook.tpo.lv/aq6ZFxvc',
+                        };
+                        return klookLinks[city.slug] || 'https://klook.tpo.lv/aq6ZFxvc';
+                      })()}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="bg-gradient-to-br from-orange-50 to-yellow-50 rounded-lg p-6 border border-orange-200 hover:shadow-lg transition-shadow block"
+                    >
+                      <div className="flex items-center mb-3">
+                        <div className="text-2xl mr-3">🎯</div>
+                        <h3 className="font-bold text-gray-900">Klook Activities</h3>
+                      </div>
+                      <p className="text-sm text-gray-600 mb-3">
+                        Book tours, experiences & attraction tickets in {cityName} with instant confirmation
+                      </p>
+                      <span className="inline-block bg-orange-500 text-white px-4 py-2 rounded text-sm font-medium hover:bg-orange-600 transition-colors">
+                        Browse {cityName} on Klook →
+                      </span>
+                    </a>
+                    <a
+                      href={(() => {
+                        const gygLinks: Record<string, string> = {
+                          bangkok: 'https://getyourguide.tpo.lv/PHh5hvej',
+                          phuket: 'https://getyourguide.tpo.lv/8d41f2Fq',
+                          'chiang-mai': 'https://getyourguide.tpo.lv/8d41f2Fq',
+                          krabi: 'https://getyourguide.tpo.lv/GuAFfGGK',
+                          pattaya: 'https://getyourguide.tpo.lv/GuAFfGGK',
+                        };
+                        return gygLinks[city.slug] || 'https://getyourguide.tpo.lv/GuAFfGGK';
+                      })()}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-lg p-6 border border-blue-200 hover:shadow-lg transition-shadow block"
+                    >
+                      <div className="flex items-center mb-3">
+                        <div className="text-2xl mr-3">🗺️</div>
+                        <h3 className="font-bold text-gray-900">GetYourGuide Tours</h3>
+                      </div>
+                      <p className="text-sm text-gray-600 mb-3">
+                        Expert-guided tours and curated experiences in {cityName} with free cancellation
+                      </p>
+                      <span className="inline-block bg-blue-700 text-white px-4 py-2 rounded text-sm font-medium hover:bg-blue-800 transition-colors">
+                        Browse {cityName} on GetYourGuide →
+                      </span>
+                    </a>
+                  </div>
+                  <div className="text-center">
+                    <Link href="/activities/" className="text-thailand-blue hover:text-thailand-red text-sm font-medium transition-colors">
+                      View all Thailand activities & tours →
+                    </Link>
+                  </div>
                 </div>
 
                 {/* Foodie Adventures */}
