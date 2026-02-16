@@ -41,6 +41,22 @@ export default function App({ Component, pageProps }: AppProps) {
             }}
           />
           
+          {/* Travelpayouts Drive - AI-powered monetization */}
+          <Script
+            id="travelpayouts-drive"
+            strategy="afterInteractive"
+            dangerouslySetInnerHTML={{
+              __html: `
+                (function () {
+                    var script = document.createElement("script");
+                    script.async = 1;
+                    script.src = 'https://emrldco.com/NDIxODg4.js?t=421888';
+                    document.head.appendChild(script);
+                })();
+              `
+            }}
+          />
+
           {/* Gatekeeper Consent Scripts - Load after page is interactive */}
           <Script
             id="gatekeeper-min"
