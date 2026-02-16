@@ -205,7 +205,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
   useEffect(() => {
     const script = document.createElement('script');
     script.async = true;
-    script.src = 'https://tpembd.com/content?trs=384595&shmarker=602467&locale=en&curr=USD&powered_by=true&border_radius=0&plain=true&color_button=%232681ff&color_button_text=%23ffffff&color_border=%232681ff&promo_id=4132&campaign_id=121';
+    script.src = 'https://tpembd.com/content?trs=421888&shmarker=602467&locale=en&curr=USD&powered_by=true&border_radius=0&plain=true&color_button=%232681ff&color_button_text=%23ffffff&color_border=%232681ff&promo_id=4132&campaign_id=121';
     script.charset = 'utf-8';
     
     const widgetContainer = document.getElementById('trip-com-widget');
@@ -557,7 +557,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                         <h3 className="font-semibold text-lg mb-2 text-gray-900">💰 Budget Hotels</h3>
                         <p className="text-gray-600 text-sm mb-3">Great value accommodations from $10-30/night</p>
                         <a 
-                          href={`https://trip.tp.st/yeelXIdE`}
+                          href={`https://trip.tpo.lv/TmObooZ5`}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="text-blue-600 hover:text-blue-800 font-medium text-sm"
@@ -571,7 +571,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                         <h3 className="font-semibold text-lg mb-2 text-gray-900">⭐ Mid-Range Hotels</h3>
                         <p className="text-gray-600 text-sm mb-3">Comfortable stays from $30-80/night</p>
                         <a 
-                          href={`https://trip.tp.st/yeelXIdE`}
+                          href={`https://trip.tpo.lv/TmObooZ5`}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="text-blue-600 hover:text-blue-800 font-medium text-sm"
@@ -585,7 +585,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                         <h3 className="font-semibold text-lg mb-2 text-gray-900">✨ Luxury Hotels</h3>
                         <p className="text-gray-600 text-sm mb-3">Premium experiences from $80+/night</p>
                         <a 
-                          href={`https://trip.tp.st/yeelXIdE`}
+                          href={`https://trip.tpo.lv/TmObooZ5`}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="text-blue-600 hover:text-blue-800 font-medium text-sm"
@@ -598,7 +598,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                     {/* Trip.com CTA */}
                     <div className="text-center">
                       <a 
-                        href={`https://trip.tp.st/yeelXIdE`}
+                        href={`https://trip.tpo.lv/TmObooZ5`}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
@@ -625,7 +625,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                         <h3 className="font-semibold text-gray-900 mb-2">Flight + Hotel</h3>
                         <p className="text-sm text-gray-600 mb-3">Save up to 20% with bundles</p>
                         <a 
-                          href="https://trip.tp.st/DrPeHSFI"
+                          href="https://trip.tpo.lv/iP1HSint"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-block bg-purple-600 text-white px-4 py-2 rounded text-sm font-medium hover:bg-purple-700 transition-colors"
@@ -642,7 +642,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                         <h3 className="font-semibold text-gray-900 mb-2">Airport Transfers</h3>
                         <p className="text-sm text-gray-600 mb-3">Door-to-door convenience</p>
                         <a 
-                          href="https://trip.tp.st/h4kJjHv9"
+                          href="https://trip.tpo.lv/iP1HSint"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-block bg-green-600 text-white px-4 py-2 rounded text-sm font-medium hover:bg-green-700 transition-colors"
@@ -659,7 +659,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                         <h3 className="font-semibold text-gray-900 mb-2">Car Rental</h3>
                         <p className="text-sm text-gray-600 mb-3">Explore at your own pace</p>
                         <a 
-                          href="https://trip.tp.st/oLwZ3h1y"
+                          href="https://trip.tpo.lv/fzIWyBhW"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-block bg-orange-600 text-white px-4 py-2 rounded text-sm font-medium hover:bg-orange-700 transition-colors"
@@ -676,7 +676,7 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                         <h3 className="font-semibold text-gray-900 mb-2">Hotels</h3>
                         <p className="text-sm text-gray-600 mb-3">1.2M+ properties worldwide</p>
                         <a 
-                          href="https://trip.tp.st/yeelXIdE"
+                          href="https://trip.tpo.lv/TmObooZ5"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-block bg-blue-600 text-white px-4 py-2 rounded text-sm font-medium hover:bg-blue-700 transition-colors"

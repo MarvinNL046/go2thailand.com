@@ -14,7 +14,7 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
     // Load Trip.com widget script
     if (widgetRef.current) {
       const script = document.createElement('script');
-      script.src = 'https://tpembd.com/content?trs=384595&shmarker=602467&locale=en&curr=USD&powered_by=true&border_radius=0&plain=true&color_button=%232681ff&color_button_text=%23ffffff&color_border=%232681ff&promo_id=4132&campaign_id=121';
+      script.src = 'https://tpembd.com/content?trs=421888&shmarker=602467&locale=en&curr=USD&powered_by=true&border_radius=0&plain=true&color_button=%232681ff&color_button_text=%23ffffff&color_border=%232681ff&promo_id=4132&campaign_id=121';
       script.async = true;
       script.charset = 'utf-8';
       widgetRef.current.appendChild(script);
@@ -30,10 +30,10 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
 
   // Affiliate links for different services
   const affiliateLinks = {
-    main: 'https://trip.tp.st/yeelXIdE',
-    bundle: 'https://trip.tp.st/DrPeHSFI',
-    transfers: 'https://trip.tp.st/h4kJjHv9',
-    'car-rental': 'https://trip.tp.st/oLwZ3h1y'
+    main: 'https://trip.tpo.lv/TmObooZ5',
+    bundle: 'https://trip.tpo.lv/iP1HSint',
+    transfers: 'https://trip.tpo.lv/iP1HSint',
+    'car-rental': 'https://trip.tpo.lv/fzIWyBhW'
   };
 
   const getServiceInfo = () => {
