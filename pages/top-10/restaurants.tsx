@@ -89,7 +89,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
               {/* Trust badges */}
               <div className="flex justify-center items-center gap-4 text-sm mb-8">
                 <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
-                  📊 Current 2025 Data
+                  📊 Current 2026 Data
                 </span>
                 <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
                   ✨ Expert Curated

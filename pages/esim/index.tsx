@@ -35,7 +35,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
   return (
     <>
       <Head>
-        <title>Best eSIM for Thailand 2025 | Compare Prices & Data Plans</title>
+        <title>Best eSIM for Thailand 2026 | Compare Prices & Data Plans</title>
         <meta name="description" content="Find the best eSIM for Thailand travel. Compare data plans, prices, and coverage from top providers. Stay connected without expensive roaming charges." />
         <meta name="keywords" content="Thailand eSIM, best eSIM Thailand, Thailand travel SIM, mobile data Thailand, eSIM providers Thailand, Thailand internet" />
         <link rel="canonical" href="https://go2-thailand.com/esim/" />

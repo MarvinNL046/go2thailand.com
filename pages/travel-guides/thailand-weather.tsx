@@ -31,7 +31,7 @@ export default function ThailandWeatherPage({ months }: ThailandWeatherPageProps
   return (
     <>
       <Head>
-        <title>Thailand Weather by Month - Complete Climate Guide 2025</title>
+        <title>Thailand Weather by Month - Complete Climate Guide 2026</title>
         <meta name="description" content="Plan your trip with our Thailand weather guide. Monthly climate breakdown, best time to visit, rainfall patterns, and seasonal travel tips." />
         <meta name="keywords" content="Thailand weather, Thailand climate, best time to visit Thailand, Thailand seasons, Thailand rainfall" />
         <link rel="canonical" href="https://go2-thailand.com/travel-guides/thailand-weather/" />

@@ -348,7 +348,7 @@ export const getStaticProps: GetStaticProps = async () => {
     {
       id: '3',
       slug: 'island-hopping-southern-thailand',
-      title: 'Island Hopping in Southern Thailand: Complete 2025 Guide',
+      title: 'Island Hopping in Southern Thailand: Complete 2026 Guide',
       excerpt: 'Plan your perfect island hopping adventure in Southern Thailand. From Phuket to Koh Lipe, we cover everything you need to know.',
       author: { name: 'Emma Wilson' },
       publishedAt: 'December 5, 2024',

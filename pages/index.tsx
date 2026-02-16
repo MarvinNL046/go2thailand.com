@@ -140,7 +140,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
               <p className="text-lg text-gray-200 mb-8 max-w-3xl mx-auto drop-shadow-md">
                 <HighlightedText 
                   text={t('hero.seoIntro')}
-                  highlightWords={['Bangkok', 'Phuket', 'Chiang Mai', '2025']}
+                  highlightWords={['Bangkok', 'Phuket', 'Chiang Mai', '2026']}
                   highlightClassName="text-thailand-red font-bold"
                   animationType="glow"
                 />
@@ -281,7 +281,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
               <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
                 🏆 <HighlightedText 
                   text={t('sections.top10Guides')}
-                  highlightWords={['Thailand', 'Top 10', '2025']}
+                  highlightWords={['Thailand', 'Top 10', '2026']}
                   highlightClassName="text-thailand-red"
                   animationType="fade"
                 />
@@ -296,7 +296,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             {/* Current Data Features */}
             <div className="flex justify-center items-center gap-4 text-sm text-gray-500 mb-8">
               <span className="bg-green-100 text-green-700 px-3 py-2 rounded-full font-medium">
-                📊 {t('badges.current2025Data')}
+                📊 {t('badges.current2026Data')}
               </span>
               <span className="bg-blue-100 text-blue-700 px-3 py-2 rounded-full font-medium">
                 ✨ {t('badges.expertCurated')}
