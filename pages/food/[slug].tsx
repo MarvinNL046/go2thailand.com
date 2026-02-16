@@ -95,7 +95,6 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
         <title>{metadata.title}</title>
         <meta name="description" content={metadata.description} />
         <meta name="keywords" content={metadata.keywords} />
-        <link rel="canonical" href={`https://go2-thailand.com/food/${dish.slug}/`} />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">

@@ -50,7 +50,6 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
         <title>Thailand Weather Guide - All Cities & Monthly Climate | Go2 Thailand</title>
         <meta name="description" content="Complete Thailand weather guide. Check weather conditions, temperature, and rainfall for all major Thai cities. Plan your trip with monthly climate information." />
         <meta name="keywords" content="Thailand weather, Thailand climate, Thai cities weather, best time visit Thailand, Thailand seasons, Thailand temperature" />
-        <link rel="canonical" href="https://go2-thailand.com/weather" />
       </Head>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

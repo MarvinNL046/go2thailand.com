@@ -69,7 +69,6 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
         <title>{`${city.name.en} Weather in ${monthName} - Temperature, Rainfall & Travel Tips | Go2 Thailand`}</title>
         <meta name="description" content={`Planning to visit ${city.name.en} in ${monthName}? Get detailed weather information including temperature (${weatherData.temperature.high}°C/${weatherData.temperature.low}°C), rainfall, humidity, and expert travel tips.`} />
         <meta name="keywords" content={`${city.name.en} weather ${monthName}, ${city.name.en} temperature ${monthName}, ${city.name.en} rainfall ${monthName}, ${city.name.en} climate ${monthName}, visit ${city.name.en} ${monthName}`} />
-        <link rel="canonical" href={`https://go2-thailand.com/city/${city.slug}/weather/${month}`} />
       </Head>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

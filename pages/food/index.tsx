@@ -106,7 +106,6 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         <title>Thai Food Guide | Authentic Thai Dishes & Recipes</title>
         <meta name="description" content="Discover authentic Thai dishes, from Pad Thai to Tom Yum. Learn about ingredients, cooking methods, and cultural significance of Thailand's most beloved foods." />
         <meta name="keywords" content="Thai food, Thai cuisine, Thai recipes, Pad Thai, Tom Yum, Green Curry, Thai dishes, authentic Thai cooking" />
-        <link rel="canonical" href="https://go2-thailand.com/food/" />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">

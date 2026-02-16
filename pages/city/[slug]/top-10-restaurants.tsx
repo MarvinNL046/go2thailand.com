@@ -66,7 +66,6 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
         <Head>
           <title>Top 10 Restaurants in {city.name.en} | Go2Thailand</title>
           <meta name="description" content={`Discover the best restaurants in ${city.name.en}, Thailand. Current prices, local recommendations, and insider tips.`} />
-          <link rel="canonical" href={`https://go2-thailand.com/city/${city.slug}/top-10-restaurants/`} />
         </Head>
 
         <div className="bg-gray-50 min-h-screen">
@@ -97,8 +96,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
         <title>{restaurantsData.title} | Go2Thailand</title>
         <meta name="description" content={restaurantsData.meta_description} />
         <meta name="keywords" content={`${city.name.en} restaurants, Thailand dining, local food, ${city.name.en} cuisine, restaurant guide`} />
-        <link rel="canonical" href={`https://go2-thailand.com/city/${city.slug}/top-10-restaurants/`} />
-        
+
         {/* OpenGraph for social sharing */}
         <meta property="og:title" content={restaurantsData.title} />
         <meta property="og:description" content={restaurantsData.meta_description} />

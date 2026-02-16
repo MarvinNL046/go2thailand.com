@@ -47,7 +47,6 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
         <title>Best Travel Insurance for Thailand 2026 | Compare Coverage & Prices</title>
         <meta name="description" content="Find the best travel insurance for Thailand. Compare medical coverage, COVID-19 protection, and adventure sports coverage from trusted providers." />
         <meta name="keywords" content="Thailand travel insurance, best travel insurance Thailand, medical coverage Thailand, travel protection, SafetyWing Thailand" />
-        <link rel="canonical" href="https://go2-thailand.com/travel-insurance/" />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">

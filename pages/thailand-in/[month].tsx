@@ -56,7 +56,6 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
         <title>{guide.title}</title>
         <meta name="description" content={guide.meta_description} />
         <meta name="keywords" content={`Thailand ${guide.month}, ${guide.month} weather Thailand, ${guide.month} festivals Thailand, visit Thailand ${guide.month}`} />
-        <link rel="canonical" href={`https://go2-thailand.com/thailand-in/${guide.slug}/`} />
         
         {/* OpenGraph */}
         <meta property="og:title" content={guide.title} />

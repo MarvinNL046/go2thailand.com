@@ -38,7 +38,6 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
         <title>Top 10 Hotel Guides | Best Accommodation in Thailand | Go2Thailand</title>
         <meta name="description" content="Find the best hotels in Thailand with our comprehensive Top 10 guides. Current rates, guest reviews, and booking tips in Bangkok, Phuket, Chiang Mai and more." />
         <meta name="keywords" content="Thailand hotels, top 10 hotels, accommodation, hotel booking, Bangkok hotels, Phuket resorts, Chiang Mai hotels, Thailand accommodation" />
-        <link rel="canonical" href="https://go2-thailand.com/top-10/hotels/" />
         
         {/* OpenGraph for social sharing */}
         <meta property="og:title" content="Top 10 Hotel Guides | Best Accommodation in Thailand" />

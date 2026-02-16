@@ -66,7 +66,6 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
         <Head>
           <title>Top 10 Hotels in {city.name.en} | Go2Thailand</title>
           <meta name="description" content={`Find the best hotels in ${city.name.en}, Thailand. Current prices, guest reviews, and booking recommendations.`} />
-          <link rel="canonical" href={`https://go2-thailand.com/city/${city.slug}/top-10-hotels/`} />
         </Head>
 
         <div className="bg-gray-50 min-h-screen">
@@ -97,8 +96,7 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
         <title>{hotelsData.title} | Go2Thailand</title>
         <meta name="description" content={hotelsData.meta_description} />
         <meta name="keywords" content={`${city.name.en} hotels, Thailand accommodation, ${city.name.en} resorts, hotel booking, where to stay`} />
-        <link rel="canonical" href={`https://go2-thailand.com/city/${city.slug}/top-10-hotels/`} />
-        
+
         {/* OpenGraph for social sharing */}
         <meta property="og:title" content={hotelsData.title} />
         <meta property="og:description" content={hotelsData.meta_description} />

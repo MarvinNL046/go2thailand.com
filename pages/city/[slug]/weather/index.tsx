@@ -65,7 +65,6 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
         <title>{`${city.name.en} Weather by Month - Complete Climate Guide | Go2 Thailand`}</title>
         <meta name="description" content={`Plan your trip to ${city.name.en} with our complete monthly weather guide. Temperature, rainfall, humidity, and travel tips for each month of the year.`} />
         <meta name="keywords" content={`${city.name.en} weather, ${city.name.en} climate, ${city.name.en} temperature, ${city.name.en} rainfall, ${city.name.en} best time to visit, ${city.name.en} seasons`} />
-        <link rel="canonical" href={`https://go2-thailand.com/city/${city.slug}/weather`} />
       </Head>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

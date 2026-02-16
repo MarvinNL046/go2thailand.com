@@ -55,7 +55,6 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
         <title>{`${fromCity.name.en} to ${toCity.name.en} - Travel Options & Transport Guide | Go2 Thailand`}</title>
         <meta name="description" content={`Complete guide for traveling from ${fromCity.name.en} to ${toCity.name.en}. Compare flights, buses, trains, and taxis. Distance: ${route.distance}. Get prices, duration, and booking tips.`} />
         <meta name="keywords" content={`${fromCity.name.en} to ${toCity.name.en}, transport ${fromCity.name.en} ${toCity.name.en}, how to get from ${fromCity.name.en} to ${toCity.name.en}, ${fromCity.name.en} ${toCity.name.en} bus, ${fromCity.name.en} ${toCity.name.en} flight`} />
-        <link rel="canonical" href={`https://go2-thailand.com/transport/${route.slug}`} />
       </Head>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

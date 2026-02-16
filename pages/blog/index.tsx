@@ -60,7 +60,6 @@ export default function BlogPage({ posts, categories, popularPosts }: BlogPagePr
         <title>Thailand Travel Blog | Tips, Guides & Stories | Go2Thailand</title>
         <meta name="description" content="Explore Thailand through our travel blog. Get insider tips, destination guides, food recommendations, and travel stories from the Land of Smiles." />
         <meta name="keywords" content="Thailand travel blog, Thailand tips, Thailand guides, Thai culture, Thailand stories" />
-        <link rel="canonical" href="https://go2-thailand.com/blog/" />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">

@@ -23,7 +23,6 @@ export default function TravelGuidesIndex() {
       <Head>
         <title>Thailand Travel Guides | Go2Thailand</title>
         <meta name="description" content="Comprehensive travel guides for Thailand including weather, transportation, culture, and travel tips." />
-        <link rel="canonical" href="https://go2-thailand.com/travel-guides/" />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">

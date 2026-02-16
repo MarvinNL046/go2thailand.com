@@ -37,7 +37,6 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
         <title>Top 10 Attraction Guides | Must-See Places in Thailand | Go2Thailand</title>
         <meta name="description" content="Discover Thailand's must-see attractions with our comprehensive Top 10 guides. Current entrance fees, opening hours, and visitor tips in Bangkok, Phuket, Chiang Mai and more." />
         <meta name="keywords" content="Thailand attractions, top 10 attractions, sightseeing, tourist attractions, Bangkok attractions, Phuket activities, Chiang Mai temples, Thailand tourism" />
-        <link rel="canonical" href="https://go2-thailand.com/top-10/attractions/" />
         
         {/* OpenGraph for social sharing */}
         <meta property="og:title" content="Top 10 Attraction Guides | Must-See Places in Thailand" />

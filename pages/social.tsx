@@ -60,7 +60,6 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
         <title>Go2Thailand on Social Media | Follow Our Journey</title>
         <meta name="description" content="Follow Go2Thailand on Facebook and Instagram for daily travel inspiration, Thai food discoveries, and insider tips for exploring the Land of Smiles!" />
         <meta name="keywords" content="Go2Thailand social media, Thailand travel Instagram, Thailand Facebook, travel inspiration, Thai food posts" />
-        <link rel="canonical" href="https://go2-thailand.com/social/" />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">

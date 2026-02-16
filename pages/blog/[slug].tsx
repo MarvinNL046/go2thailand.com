@@ -54,7 +54,6 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
         <title>{post.title} | Go2Thailand Blog</title>
         <meta name="description" content={post.excerpt} />
         <meta name="keywords" content={post.tags.join(', ')} />
-        <link rel="canonical" href={`https://go2-thailand.com/blog/${post.slug}/`} />
         
         {/* Open Graph */}
         <meta property="og:title" content={post.title} />

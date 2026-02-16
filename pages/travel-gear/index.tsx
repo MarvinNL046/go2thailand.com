@@ -49,7 +49,6 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
         <title>Essential Travel Gear for Thailand 2026 | Packing List & Reviews</title>
         <meta name="description" content="The ultimate Thailand packing list. Find the best travel gear including backpacks, mosquito repellent, rain gear, and electronics for your Thailand adventure." />
         <meta name="keywords" content="Thailand travel gear, Thailand packing list, best backpack Thailand, mosquito repellent Thailand, travel essentials" />
-        <link rel="canonical" href="https://go2-thailand.com/travel-gear/" />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">

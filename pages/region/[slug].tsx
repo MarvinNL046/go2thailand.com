@@ -106,7 +106,6 @@ export default function RegionPage({ region, cities }: RegionPageProps) {
         <meta property="og:description" content={region.seo.metaDescription.en} />
         <meta property="og:image" content={region.image} />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href={`https://go2-thailand.com/region/${region.slug}/`} />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">

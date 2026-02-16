@@ -93,7 +93,6 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
         <title>Thailand Transport Routes - Flights, Buses, Trains & Ferry Guide | Go2 Thailand</title>
         <meta name="description" content="Complete guide to traveling between Thai cities. Compare transport options, prices, and duration for flights, buses, trains, and ferries. Plan your Thailand journey with confidence." />
         <meta name="keywords" content="thailand transport, thailand bus routes, thailand flights, thailand trains, bangkok to chiang mai, bangkok to phuket, transport in thailand" />
-        <link rel="canonical" href="https://go2-thailand.com/transport" />
       </Head>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

@@ -58,7 +58,6 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
         <meta name="keywords" content="Thailand top 10, best attractions Thailand, top restaurants Thailand, best hotels Thailand, Thailand travel guides" />
         <meta property="og:title" content="Top 10 Guides - Best of Thailand | Go2Thailand" />
         <meta property="og:description" content="Comprehensive Top 10 guides for Thailand's best attractions, restaurants, and hotels." />
-        <link rel="canonical" href="https://go2-thailand.com/top-10/" />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">

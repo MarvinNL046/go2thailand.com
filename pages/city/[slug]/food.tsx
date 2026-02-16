@@ -103,7 +103,6 @@ export default function CityFoodPage({ city, cityFoodData }: CityFoodPageProps) 
         <title>{metadata.title}</title>
         <meta name="description" content={metadata.description} />
         <meta name="keywords" content={metadata.keywords} />
-        <link rel="canonical" href={`https://go2-thailand.com/city/${city.slug}/food/`} />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">

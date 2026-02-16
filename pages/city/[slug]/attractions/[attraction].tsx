@@ -86,7 +86,6 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
         <meta property="og:title" content={metadata.openGraph?.title || metadata.title} />
         <meta property="og:description" content={metadata.openGraph?.description || metadata.description} />
         <meta property="og:image" content={attraction.image} />
-        <link rel="canonical" href={`https://go2-thailand.com/city/${city.slug}/attractions/${attraction.slug}/`} />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">

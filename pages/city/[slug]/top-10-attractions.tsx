@@ -65,7 +65,6 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
         <Head>
           <title>Top 10 Attractions in {city.name.en} | Go2Thailand</title>
           <meta name="description" content={`Discover the must-see attractions in ${city.name.en}, Thailand. Current entrance fees, opening hours, and visitor tips.`} />
-          <link rel="canonical" href={`https://go2-thailand.com/city/${city.slug}/top-10-attractions/`} />
         </Head>
 
         <div className="bg-gray-50 min-h-screen">
@@ -96,8 +95,7 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
         <title>{attractionsData.title} | Go2Thailand</title>
         <meta name="description" content={attractionsData.meta_description} />
         <meta name="keywords" content={`${city.name.en} attractions, Thailand tourism, ${city.name.en} sightseeing, things to do, tourist attractions`} />
-        <link rel="canonical" href={`https://go2-thailand.com/city/${city.slug}/top-10-attractions/`} />
-        
+
         {/* OpenGraph for social sharing */}
         <meta property="og:title" content={attractionsData.title} />
         <meta property="og:description" content={attractionsData.meta_description} />

@@ -231,7 +231,6 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
         <meta property="og:description" content={metadata.openGraph?.description || metadata.description} />
         <meta property="og:image" content={metadata.openGraph?.images?.[0]?.url || getCityImageForSection(city, 'hero')} />
         <meta property="og:type" content={metadata.openGraph?.type || 'website'} />
-        <link rel="canonical" href={`https://go2-thailand.com/city/${city.slug}/`} />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">
