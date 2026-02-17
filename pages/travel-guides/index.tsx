@@ -59,6 +59,42 @@ export default function TravelGuidesIndex() {
             </div>
           </div>
         </section>
+
+        {/* Book Your Trip - Cross-sell Section */}
+        <section className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark py-12">
+          <div className="container-custom">
+            <h2 className="text-3xl font-bold text-white text-center mb-3">Book Your Trip</h2>
+            <p className="text-white/80 text-center mb-8 max-w-2xl mx-auto">
+              Ready to go? Book everything you need for your Thailand adventure
+            </p>
+            <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+              <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="group">
+                <div className="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
+                  <div className="text-4xl mb-3">🏨</div>
+                  <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Hotels & Resorts</h3>
+                  <p className="text-gray-600 text-sm">Find great deals on Thailand accommodation on Trip.com</p>
+                </div>
+              </a>
+              <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer" className="group">
+                <div className="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
+                  <div className="text-4xl mb-3">🚂</div>
+                  <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Transport</h3>
+                  <p className="text-gray-600 text-sm">Book trains, buses, ferries, and flights via 12Go Asia</p>
+                </div>
+              </a>
+              <Link href="/activities/" className="group">
+                <div className="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
+                  <div className="text-4xl mb-3">🎯</div>
+                  <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Activities & Tours</h3>
+                  <p className="text-gray-600 text-sm">Discover the best tours, excursions, and experiences</p>
+                </div>
+              </Link>
+            </div>
+            <p className="text-white/50 text-xs text-center mt-6">
+              Some links are affiliate links. We may earn a commission at no extra cost to you.
+            </p>
+          </div>
+        </section>
       </div>
     </>
   );

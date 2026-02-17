@@ -305,6 +305,45 @@ export default function BlogPage({ posts, categories, popularPosts }: BlogPagePr
             </div>
           </div>
         </section>
+
+        {/* Plan Your Thailand Trip - Cross-sell Banner */}
+        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold">
+          <div className="container-custom py-8">
+            <div className="flex flex-col md:flex-row items-center justify-between gap-6">
+              <div className="text-white">
+                <h2 className="text-2xl font-bold mb-1">Plan Your Thailand Trip</h2>
+                <p className="opacity-90 text-sm">Book hotels, transport, activities, and get connected with an eSIM</p>
+              </div>
+              <div className="flex flex-wrap justify-center gap-3">
+                <a
+                  href="https://trip.tpo.lv/TmObooZ5"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
+                >
+                  Hotels
+                </a>
+                <Link href="/activities/" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">
+                  Activities
+                </Link>
+                <a
+                  href="https://12go.tpo.lv/tNA80urD"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
+                >
+                  Transport
+                </a>
+                <Link href="/esim/" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">
+                  eSIM
+                </Link>
+              </div>
+            </div>
+            <p className="text-white/70 text-xs text-center mt-4">
+              Some links are affiliate links. We may earn a commission at no extra cost to you.
+            </p>
+          </div>
+        </section>
       </div>
     </>
   );

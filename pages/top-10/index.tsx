@@ -165,7 +165,7 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
               <h2 className="text-3xl font-bold text-gray-900 mb-6 text-center">
                 Popular Destination Guides
               </h2>
-              
+
               <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4">
                 {['Bangkok', 'Phuket', 'Chiang Mai', 'Pattaya', 'Krabi', 'Chiang Rai', 'Ayutthaya', 'Hat Yai', 'Sukhothai', 'Surat Thani'].map((city) => (
                   <Link key={city} href={`/city/${city.toLowerCase().replace(' ', '-')}/`}>
@@ -176,6 +176,56 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
                   </Link>
                 ))}
               </div>
+            </div>
+
+            {/* Book Your Thailand Experience - Affiliate Section */}
+            <div className="bg-gradient-to-r from-thailand-blue-50 to-thailand-red-50 rounded-xl p-8 mt-12">
+              <h2 className="text-3xl font-bold text-gray-900 mb-4 text-center">
+                Book Your Thailand Experience
+              </h2>
+              <p className="text-lg text-gray-600 max-w-2xl mx-auto text-center mb-8">
+                Ready to experience the best of Thailand? Book hotels, tours, and activities now.
+              </p>
+
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+                <a
+                  href="https://trip.tpo.lv/TmObooZ5"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center justify-center px-6 py-4 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl text-center"
+                >
+                  <svg className="w-5 h-5 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                  </svg>
+                  Search Hotels on Trip.com
+                </a>
+
+                <a
+                  href="https://klook.tpo.lv/aq6ZFxvc"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center justify-center px-6 py-4 bg-orange-500 text-white font-semibold rounded-lg hover:bg-orange-600 transition-colors shadow-lg hover:shadow-xl text-center"
+                >
+                  <svg className="w-5 h-5 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z" />
+                  </svg>
+                  Book Activities on Klook
+                </a>
+
+                <Link
+                  href="/activities/"
+                  className="flex items-center justify-center px-6 py-4 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition-colors shadow-lg hover:shadow-xl text-center"
+                >
+                  <svg className="w-5 h-5 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  </svg>
+                  Browse All Activities
+                </Link>
+              </div>
+
+              <p className="text-xs text-gray-500 text-center mt-6">
+                Affiliate disclosure: We may earn a commission when you book through our partner links, at no extra cost to you.
+              </p>
             </div>
           </div>
         </section>

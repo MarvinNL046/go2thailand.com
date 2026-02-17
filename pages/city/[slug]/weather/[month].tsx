@@ -167,6 +167,43 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
               </section>
             )}
 
+            {/* Book Your Trip - Affiliate CTA */}
+            <div className="bg-gradient-to-r from-blue-50 to-green-50 rounded-lg shadow-md p-6 mb-8">
+              <h3 className="text-xl font-bold text-gray-900 mb-3 text-center">
+                Book Your Trip to {city.name.en}
+              </h3>
+              <p className="text-sm text-gray-600 text-center mb-4">
+                Plan your {monthName} visit with the best deals on hotels and transport.
+              </p>
+              <div className="flex flex-col sm:flex-row gap-4">
+                <a
+                  href="https://trip.tpo.lv/TmObooZ5"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex-1 inline-flex items-center justify-center px-5 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-md"
+                >
+                  <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                  </svg>
+                  Hotels on Trip.com
+                </a>
+                <a
+                  href="https://12go.tpo.lv/tNA80urD"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex-1 inline-flex items-center justify-center px-5 py-3 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition-colors shadow-md"
+                >
+                  <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
+                  </svg>
+                  Transport on 12Go
+                </a>
+              </div>
+              <p className="text-xs text-gray-500 text-center mt-3">
+                Affiliate disclosure: We may earn a commission when you book through our partner links, at no extra cost to you.
+              </p>
+            </div>
+
             {/* Navigation */}
             <nav className="flex justify-between items-center bg-white rounded-lg shadow-md p-6">
               {prevMonth ? (

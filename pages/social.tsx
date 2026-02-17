@@ -276,6 +276,26 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
           </div>
         </section>
 
+        {/* Planning Your Trip - Compact Cross-sell Banner */}
+        <section className="bg-gray-100 py-8">
+          <div className="container-custom">
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-4 text-center sm:text-left">
+              <p className="text-gray-700 font-semibold">Planning your trip?</p>
+              <div className="flex flex-wrap justify-center gap-3">
+                <Link href="/esim/" className="bg-thailand-blue text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-thailand-blue-dark transition-colors">
+                  Get an eSIM
+                </Link>
+                <Link href="/activities/" className="bg-thailand-blue text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-thailand-blue-dark transition-colors">
+                  Book Activities
+                </Link>
+                <Link href="/travel-security/" className="bg-thailand-blue text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-thailand-blue-dark transition-colors">
+                  Stay Secure
+                </Link>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* CTA Section */}
         <section className="bg-gradient-to-r from-thailand-gold to-thailand-blue text-white section-padding">
           <div className="container-custom text-center">

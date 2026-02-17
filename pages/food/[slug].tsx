@@ -422,6 +422,55 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
           </section>
         )}
 
+        {/* Affiliate: Book a Thai Cooking Class */}
+        <section className="bg-gradient-to-b from-white to-orange-50 section-padding">
+          <div className="container-custom">
+            <div className="text-center mb-10">
+              <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+                Book a Thai Cooking Class
+              </h2>
+              <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+                Learn to cook authentic Thai dishes with expert local chefs — from street food favorites to royal Thai cuisine
+              </p>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+              <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-orange-100">
+                <div className="text-5xl mb-4">👨‍🍳</div>
+                <h3 className="text-xl font-bold text-gray-900 mb-2">Cooking Classes &amp; Food Tours</h3>
+                <p className="text-gray-600 mb-6">
+                  Cooking classes and food tours across Thailand
+                </p>
+                <a
+                  href="https://klook.tpo.lv/aq6ZFxvc"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block bg-orange-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-orange-600 transition-colors"
+                >
+                  Browse on Klook
+                </a>
+              </div>
+              <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-blue-100">
+                <div className="text-5xl mb-4">🍜</div>
+                <h3 className="text-xl font-bold text-gray-900 mb-2">Food Walking Tours</h3>
+                <p className="text-gray-600 mb-6">
+                  Guided food walking tours
+                </p>
+                <a
+                  href="https://getyourguide.tpo.lv/GuAFfGGK"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block bg-blue-700 text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-800 transition-colors"
+                >
+                  Browse on GetYourGuide
+                </a>
+              </div>
+            </div>
+            <p className="text-center text-xs text-gray-400 mt-6">
+              We may earn a commission when you book through our links, at no extra cost to you. This helps us keep Go2Thailand running.
+            </p>
+          </div>
+        </section>
+
         {/* CTA Section */}
         <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold text-white section-padding">
           <div className="container-custom text-center">

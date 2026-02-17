@@ -339,10 +339,47 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                   <TripcomWidget city={city.name.en} type="bundle" />
                 </div>
 
+                {/* Book This Experience - Affiliate Section */}
+                <div className="bg-gradient-to-r from-orange-50 to-blue-50 rounded-xl p-8">
+                  <h3 className="text-2xl font-bold text-gray-900 mb-4 text-center">
+                    Book This Experience
+                  </h3>
+                  <p className="text-gray-600 text-center mb-6">
+                    Find tours, tickets, and activities for {attraction.name.en} and other attractions in {city.name.en}.
+                  </p>
+                  <div className="flex flex-col sm:flex-row gap-4">
+                    <a
+                      href="https://klook.tpo.lv/aq6ZFxvc"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-1 inline-flex items-center justify-center px-6 py-4 bg-orange-500 text-white font-semibold rounded-lg hover:bg-orange-600 transition-colors shadow-lg hover:shadow-xl"
+                    >
+                      <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z" />
+                      </svg>
+                      Book on Klook
+                    </a>
+                    <a
+                      href="https://getyourguide.tpo.lv/GuAFfGGK"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-1 inline-flex items-center justify-center px-6 py-4 bg-blue-700 text-white font-semibold rounded-lg hover:bg-blue-800 transition-colors shadow-lg hover:shadow-xl"
+                    >
+                      <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                      </svg>
+                      Book on GetYourGuide
+                    </a>
+                  </div>
+                  <p className="text-xs text-gray-500 text-center mt-4">
+                    Affiliate disclosure: We may earn a commission when you book through our partner links, at no extra cost to you.
+                  </p>
+                </div>
+
                 {/* Navigation */}
                 <div className="bg-white rounded-xl shadow-lg p-8">
                   <div className="flex flex-col sm:flex-row gap-4">
-                    <Link 
+                    <Link
                       href={`/city/${city.slug}/attractions/`}
                       className="flex-1 inline-flex items-center justify-center px-6 py-3 bg-gradient-to-r from-thailand-blue to-thailand-red text-white font-semibold rounded-lg hover:from-thailand-blue-600 hover:to-thailand-red-600 transition-all duration-300 shadow-lg hover:shadow-xl"
                     >
@@ -351,8 +388,8 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       </svg>
                       Back to Attractions
                     </Link>
-                    
-                    <Link 
+
+                    <Link
                       href={`/city/${city.slug}/`}
                       className="flex-1 inline-flex items-center justify-center px-6 py-3 border-2 border-thailand-blue text-thailand-blue font-semibold rounded-lg hover:bg-thailand-blue hover:text-white transition-all duration-300"
                     >

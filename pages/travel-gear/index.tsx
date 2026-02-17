@@ -291,6 +291,49 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
           </div>
         </section>
 
+        {/* More Travel Essentials - Cross-sell Section */}
+        <section className="py-12 bg-gradient-to-r from-gray-50 to-gray-100">
+          <div className="container-custom">
+            <h2 className="text-3xl font-bold text-center mb-3">More Travel Essentials</h2>
+            <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
+              Beyond gear -- make sure you are fully prepared for Thailand with these essential services
+            </p>
+            <div className="grid md:grid-cols-4 gap-6 max-w-5xl mx-auto">
+              <Link href="/esim/" className="group">
+                <div className="bg-white rounded-lg shadow-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
+                  <div className="text-4xl mb-4">📱</div>
+                  <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Thailand eSIM</h3>
+                  <p className="text-gray-600 text-sm">Stay connected with affordable data plans. No physical SIM needed.</p>
+                </div>
+              </Link>
+              <Link href="/travel-insurance/" className="group">
+                <div className="bg-white rounded-lg shadow-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
+                  <div className="text-4xl mb-4">🛡️</div>
+                  <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Travel Insurance</h3>
+                  <p className="text-gray-600 text-sm">Protect your trip with comprehensive coverage for Thailand.</p>
+                </div>
+              </Link>
+              <Link href="/travel-security/" className="group">
+                <div className="bg-white rounded-lg shadow-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
+                  <div className="text-4xl mb-4">🔒</div>
+                  <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">VPN & Security</h3>
+                  <p className="text-gray-600 text-sm">Stay safe online with a reliable VPN for public Wi-Fi in Thailand.</p>
+                </div>
+              </Link>
+              <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="group">
+                <div className="bg-white rounded-lg shadow-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
+                  <div className="text-4xl mb-4">🏨</div>
+                  <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Book Hotels</h3>
+                  <p className="text-gray-600 text-sm">Find great deals on Thailand hotels and resorts on Trip.com.</p>
+                </div>
+              </a>
+            </div>
+            <p className="text-gray-400 text-xs text-center mt-6">
+              Some links are affiliate links. We may earn a commission at no extra cost to you.
+            </p>
+          </div>
+        </section>
+
         {/* Amazon Associates Disclaimer */}
         <section className="py-8 bg-gray-100">
           <div className="container-custom">
