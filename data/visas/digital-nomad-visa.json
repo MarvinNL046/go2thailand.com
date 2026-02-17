@@ -1,0 +1,103 @@
+{
+  "slug": "digital-nomad-visa",
+  "title": { "en": "Digital Nomad Visa (DTV)", "nl": "Digitale Nomaden Visum (DTV)" },
+  "icon": "💻",
+  "category": "work",
+  "description": {
+    "en": "The Destination Thailand Visa (DTV), commonly known as the Digital Nomad Visa, was introduced in June 2024 to attract remote workers, freelancers, and digital nomads. It is a 5-year multiple-entry visa that allows stays of up to 180 days per entry, with the option to extend each stay by another 180 days. This visa legally permits remote work for foreign employers or your own overseas business while living in Thailand.",
+    "nl": "Het Destination Thailand Visa (DTV), algemeen bekend als het Digitale Nomaden Visum, werd in juni 2024 geintroduceerd om thuiswerkers, freelancers en digitale nomaden aan te trekken. Het is een 5-jarig visum met meervoudige binnenkomst dat verblijven tot 180 dagen per binnenkomst toestaat, met de optie om elk verblijf met nog eens 180 dagen te verlengen. Dit visum staat wettelijk toe om op afstand te werken voor buitenlandse werkgevers of je eigen overzeese bedrijf terwijl je in Thailand woont."
+  },
+  "requirements": [
+    {
+      "item": { "en": "Valid passport", "nl": "Geldig paspoort" },
+      "detail": { "en": "Must have at least 6 months validity remaining", "nl": "Moet minimaal 6 maanden geldig zijn" }
+    },
+    {
+      "item": { "en": "Proof of remote work or freelance activity", "nl": "Bewijs van werk op afstand of freelance activiteit" },
+      "detail": { "en": "Employment contract with a foreign company, client contracts, business registration, or portfolio of freelance work", "nl": "Arbeidscontract met een buitenlands bedrijf, klantcontracten, bedrijfsregistratie of portfolio van freelancewerk" }
+    },
+    {
+      "item": { "en": "Financial proof", "nl": "Financieel bewijs" },
+      "detail": { "en": "Bank statements or income proof showing at least 500,000 THB (~$14,500 USD) in savings or annual income", "nl": "Bankafschriften of inkomensbewijs met minimaal 500.000 THB (~$14.500 USD) aan spaargeld of jaarinkomen" }
+    },
+    {
+      "item": { "en": "Health insurance", "nl": "Zorgverzekering" },
+      "detail": { "en": "Health insurance with coverage of at least $50,000 USD valid in Thailand", "nl": "Zorgverzekering met een dekking van minimaal $50.000 USD geldig in Thailand" }
+    },
+    {
+      "item": { "en": "Passport-sized photos", "nl": "Pasfoto's" },
+      "detail": { "en": "Two recent photos (4x6 cm) with white background", "nl": "Twee recente foto's (4x6 cm) met witte achtergrond" }
+    }
+  ],
+  "duration": {
+    "initial": "180 days per entry",
+    "extensions": {
+      "en": "Each 180-day stay can be extended once for another 180 days at an immigration office (1,900 THB). The visa itself is valid for 5 years with unlimited entries, giving you maximum flexibility. After 360 days total, you must exit and re-enter Thailand.",
+      "nl": "Elk verblijf van 180 dagen kan eenmalig verlengd worden met nog eens 180 dagen bij een immigratiekantoor (1.900 THB). Het visum zelf is 5 jaar geldig met onbeperkte binnenkomsten, wat je maximale flexibiliteit geeft. Na in totaal 360 dagen moet je Thailand verlaten en opnieuw binnenkomen."
+    }
+  },
+  "cost": {
+    "entry": "10,000 THB (~$290 USD)",
+    "extension": "1,900 THB (~$55 USD) per 180-day extension"
+  },
+  "process": {
+    "steps": [
+      {
+        "step": 1,
+        "title": { "en": "Apply Online or at Embassy", "nl": "Online of bij Ambassade Aanvragen" },
+        "description": { "en": "Apply through the Thai e-Visa system at thaievisa.go.th or visit your nearest Thai embassy. Upload all required documents including proof of remote work and financial evidence.", "nl": "Vraag aan via het Thaise e-Visum systeem op thaievisa.go.th of bezoek je dichtstbijzijnde Thaise ambassade. Upload alle vereiste documenten inclusief bewijs van werk op afstand en financieel bewijs." }
+      },
+      {
+        "step": 2,
+        "title": { "en": "Pay the Visa Fee", "nl": "Betaal de Visumkosten" },
+        "description": { "en": "Pay 10,000 THB via credit card (e-Visa) or as instructed by the embassy. This is a one-time fee for the full 5-year visa validity.", "nl": "Betaal 10.000 THB via creditcard (e-Visum) of zoals aangegeven door de ambassade. Dit is een eenmalige betaling voor de volledige 5-jarige geldigheid van het visum." }
+      },
+      {
+        "step": 3,
+        "title": { "en": "Receive Approval", "nl": "Ontvang Goedkeuring" },
+        "description": { "en": "Processing typically takes 10-15 business days. You will receive your e-Visa approval via email or collect the visa sticker from the embassy.", "nl": "Verwerking duurt doorgaans 10-15 werkdagen. Je ontvangt je e-Visum goedkeuring per e-mail of haalt de visumsticker op bij de ambassade." }
+      },
+      {
+        "step": 4,
+        "title": { "en": "Enter Thailand", "nl": "Reis Thailand Binnen" },
+        "description": { "en": "Present your DTV visa at immigration upon arrival. You will receive a 180-day stamp. You can work remotely legally from day one.", "nl": "Presenteer je DTV-visum bij immigratie bij aankomst. Je ontvangt een stempel voor 180 dagen. Je kunt vanaf dag een legaal op afstand werken." }
+      }
+    ]
+  },
+  "eligible_countries": [
+    "All nationalities can apply for the DTV visa"
+  ],
+  "faqs": [
+    {
+      "question": { "en": "Can I work for a Thai company on the DTV visa?", "nl": "Kan ik werken voor een Thais bedrijf met het DTV-visum?" },
+      "answer": { "en": "No, the DTV visa only permits remote work for foreign employers or your own overseas business. Working for a Thai company or earning income from Thai sources requires a separate work permit and a Non-B visa.", "nl": "Nee, het DTV-visum staat alleen werk op afstand toe voor buitenlandse werkgevers of je eigen overzeese bedrijf. Werken voor een Thais bedrijf of inkomsten verdienen uit Thaise bronnen vereist een aparte werkvergunning en een Non-B visum." }
+    },
+    {
+      "question": { "en": "Do I need to pay taxes in Thailand on the DTV?", "nl": "Moet ik belasting betalen in Thailand met het DTV?" },
+      "answer": { "en": "Thailand taxes income based on residency rules. If you stay more than 180 days in a calendar year, you may be considered a tax resident. However, income from foreign sources that is not remitted to Thailand is generally not taxed. Consult a tax advisor for your specific situation, as international tax treaties (including the Netherlands-Thailand treaty) may apply.", "nl": "Thailand belast inkomen op basis van verblijfsregels. Als je meer dan 180 dagen in een kalenderjaar verblijft, kun je als fiscaal ingezetene worden beschouwd. Inkomen uit buitenlandse bronnen dat niet naar Thailand wordt overgemaakt, wordt echter over het algemeen niet belast. Raadpleeg een belastingadviseur voor je specifieke situatie, aangezien internationale belastingverdragen (inclusief het verdrag Nederland-Thailand) van toepassing kunnen zijn." }
+    },
+    {
+      "question": { "en": "Can my family join me on the DTV visa?", "nl": "Kan mijn gezin meekomen met het DTV-visum?" },
+      "answer": { "en": "Yes, your spouse and children under 20 can apply for their own DTV visas as dependents. Each family member needs to submit a separate application with the same financial requirements, plus proof of the family relationship (marriage certificate, birth certificates).", "nl": "Ja, je echtgeno(o)t(e) en kinderen onder de 20 kunnen hun eigen DTV-visum aanvragen als gezinsleden. Elk gezinslid moet een apart aanvraag indienen met dezelfde financiele vereisten, plus bewijs van de familierelatie (huwelijksakte, geboorteaktes)." }
+    },
+    {
+      "question": { "en": "What qualifies as proof of remote work?", "nl": "Wat geldt als bewijs van werk op afstand?" },
+      "answer": { "en": "Acceptable proof includes: an employment contract showing remote work arrangement with a foreign company, freelance platform profiles with earnings history (Upwork, Fiverr, etc.), foreign business registration documents, client contracts, or a letter from your employer confirming remote work arrangement.", "nl": "Acceptabel bewijs omvat: een arbeidscontract met een regeling voor werk op afstand bij een buitenlands bedrijf, freelance platformprofielen met verdiengeschiedenis (Upwork, Fiverr, etc.), buitenlandse bedrijfsregistratiedocumenten, klantcontracten, of een brief van je werkgever die de thuiswerkregeling bevestigt." }
+    },
+    {
+      "question": { "en": "Can I convert my visa-free entry to a DTV visa from inside Thailand?", "nl": "Kan ik mijn visumvrije toegang omzetten naar een DTV-visum vanuit Thailand?" },
+      "answer": { "en": "No, the DTV visa must be applied for outside of Thailand, either at a Thai embassy or through the e-Visa system. You cannot convert a visa-free entry or any other visa type to a DTV from within Thailand.", "nl": "Nee, het DTV-visum moet buiten Thailand worden aangevraagd, hetzij bij een Thaise ambassade of via het e-Visum systeem. Je kunt een visumvrije toegang of een ander visumtype niet omzetten naar een DTV vanuit Thailand." }
+    }
+  ],
+  "tips": [
+    { "en": "The DTV visa is one of the best deals for long-term stays - at just 10,000 THB for 5 years, it costs far less than most other long-stay visas.", "nl": "Het DTV-visum is een van de beste opties voor langverblijf - voor slechts 10.000 THB voor 5 jaar kost het veel minder dan de meeste andere langverblijfsvisa." },
+    { "en": "Popular digital nomad hubs in Thailand include Chiang Mai, Bangkok (especially co-working areas in Sathorn and Ekkamai), Koh Lanta, and Koh Phangan.", "nl": "Populaire digitale nomadenhubs in Thailand zijn Chiang Mai, Bangkok (vooral co-working gebieden in Sathorn en Ekkamai), Koh Lanta en Koh Phangan." },
+    { "en": "Keep records of your remote work activities and income sources - immigration may ask for proof during extensions.", "nl": "Bewaar overzichten van je werkactiviteiten op afstand en inkomstenbronnen - immigratie kan om bewijs vragen bij verlengingen." },
+    { "en": "Consider getting a Thai bank account once you have the DTV - some banks accept DTV holders, which makes daily life much easier.", "nl": "Overweeg een Thaise bankrekening te openen zodra je het DTV hebt - sommige banken accepteren DTV-houders, wat het dagelijks leven veel makkelijker maakt." }
+  ],
+  "last_updated": "2026-02-17",
+  "seo": {
+    "metaTitle": { "en": "Thailand Digital Nomad Visa (DTV) 2026: Complete Guide", "nl": "Thailand Digitale Nomaden Visum (DTV) 2026: Complete Gids" },
+    "metaDescription": { "en": "Everything about Thailand's Digital Nomad Visa (DTV) in 2026. 5-year visa for remote workers, 180 days per stay, requirements, costs and application process.", "nl": "Alles over het Thailand Digitale Nomaden Visum (DTV) in 2026. 5-jarig visum voor thuiswerkers, 180 dagen per verblijf, vereisten, kosten en aanvraagproces." }
+  }
+}

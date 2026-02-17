@@ -1,0 +1,103 @@
+{
+  "slug": "education-visa",
+  "title": { "en": "Education Visa (Non-ED)", "nl": "Studievisum (Non-ED)" },
+  "icon": "🎓",
+  "category": "long-stay",
+  "description": {
+    "en": "The Thailand Education Visa (Non-Immigrant ED) is designed for foreigners who wish to study in Thailand. This includes Thai language courses, Muay Thai training, cooking schools, university programs, and other accredited educational programs. The visa is initially valid for 90 days and can be extended to 1 year, with further renewals possible as long as you remain enrolled in an approved course.",
+    "nl": "Het Thailand Studievisum (Non-Immigrant ED) is bedoeld voor buitenlanders die in Thailand willen studeren. Dit omvat Thaise taalcursussen, Muay Thai training, kookscholen, universitaire programma's en andere geaccrediteerde opleidingsprogramma's. Het visum is aanvankelijk 90 dagen geldig en kan verlengd worden tot 1 jaar, met verdere verlengingen mogelijk zolang je ingeschreven blijft bij een goedgekeurde opleiding."
+  },
+  "requirements": [
+    {
+      "item": { "en": "Valid passport", "nl": "Geldig paspoort" },
+      "detail": { "en": "Must have at least 6 months validity remaining", "nl": "Moet minimaal 6 maanden geldig zijn" }
+    },
+    {
+      "item": { "en": "Acceptance letter from school", "nl": "Acceptatiebrief van school" },
+      "detail": { "en": "Official acceptance or enrollment letter from a Thai Ministry of Education approved school or institution", "nl": "Officiele acceptatie- of inschrijvingsbrief van een door het Thaise Ministerie van Onderwijs goedgekeurde school of instelling" }
+    },
+    {
+      "item": { "en": "School registration documents", "nl": "Schoolregistratiedocumenten" },
+      "detail": { "en": "Copy of school license, curriculum details, and course schedule", "nl": "Kopie van schoolvergunning, lesplandetails en cursusschema" }
+    },
+    {
+      "item": { "en": "Passport-sized photos", "nl": "Pasfoto's" },
+      "detail": { "en": "Two recent photos (4x6 cm) with white background", "nl": "Twee recente foto's (4x6 cm) met witte achtergrond" }
+    },
+    {
+      "item": { "en": "Proof of finances", "nl": "Bewijs van financien" },
+      "detail": { "en": "Bank statement or proof of funds to support yourself during studies", "nl": "Bankafschrift of bewijs van financiele middelen om jezelf te onderhouden tijdens de studie" }
+    },
+    {
+      "item": { "en": "Completed visa application form", "nl": "Ingevuld visumaanvraagformulier" },
+      "detail": { "en": "Available from the Thai embassy or e-Visa website", "nl": "Verkrijgbaar bij de Thaise ambassade of op de e-Visum website" }
+    }
+  ],
+  "duration": {
+    "initial": "90 days",
+    "extensions": {
+      "en": "Can be extended in 90-day increments up to 1 year at an immigration office. Extensions require proof of ongoing attendance and progress at the school. After 1 year, you can renew if still enrolled in the program. Cost is 1,900 THB per extension.",
+      "nl": "Kan verlengd worden in stappen van 90 dagen tot maximaal 1 jaar bij een immigratiekantoor. Verlengingen vereisen bewijs van voortdurende aanwezigheid en voortgang op school. Na 1 jaar kun je verlengen als je nog steeds ingeschreven bent. De kosten zijn 1.900 THB per verlenging."
+    }
+  },
+  "cost": {
+    "entry": "2,000 THB (~$58 USD) for single entry visa",
+    "extension": "1,900 THB (~$55 USD) per 90-day extension"
+  },
+  "process": {
+    "steps": [
+      {
+        "step": 1,
+        "title": { "en": "Enroll in an Approved School", "nl": "Schrijf je in bij een Goedgekeurde School" },
+        "description": { "en": "Choose a school approved by the Thai Ministry of Education. Popular options include Thai language schools (like AUA, Pro Language, or Union Language), Muay Thai camps, and international universities. The school will provide the documents needed for your visa application.", "nl": "Kies een school die is goedgekeurd door het Thaise Ministerie van Onderwijs. Populaire opties zijn Thaise taalscholen (zoals AUA, Pro Language of Union Language), Muay Thai kampen en internationale universiteiten. De school levert de documenten die nodig zijn voor je visumaanvraag." }
+      },
+      {
+        "step": 2,
+        "title": { "en": "Apply for the Visa", "nl": "Vraag het Visum aan" },
+        "description": { "en": "Apply at a Thai embassy or consulate outside Thailand, or through the e-Visa system. Submit the school's acceptance letter, registration documents, and all other required paperwork.", "nl": "Vraag aan bij een Thaise ambassade of consulaat buiten Thailand, of via het e-Visum systeem. Dien de acceptatiebrief van de school, registratiedocumenten en alle andere vereiste papieren in." }
+      },
+      {
+        "step": 3,
+        "title": { "en": "Enter Thailand and Begin Studies", "nl": "Reis Thailand Binnen en Begin met Studie" },
+        "description": { "en": "Enter Thailand on your ED visa (90-day initial stamp). Begin attending classes as scheduled - attendance records are important for visa extensions.", "nl": "Reis Thailand binnen op je ED-visum (90 dagen initiele stempel). Begin met het bijwonen van lessen zoals gepland - aanwezigheidsregistraties zijn belangrijk voor visumverlengingen." }
+      },
+      {
+        "step": 4,
+        "title": { "en": "Extend Every 90 Days", "nl": "Verleng Elke 90 Dagen" },
+        "description": { "en": "Visit immigration before your 90 days expire with proof of enrollment and attendance from your school. The school usually helps prepare extension documents.", "nl": "Bezoek immigratie voordat je 90 dagen verlopen met bewijs van inschrijving en aanwezigheid van je school. De school helpt meestal bij het voorbereiden van verlengingsdocumenten." }
+      }
+    ]
+  },
+  "eligible_countries": [
+    "All nationalities can apply for an Education Visa"
+  ],
+  "faqs": [
+    {
+      "question": { "en": "What types of study qualify for an ED visa?", "nl": "Welke soorten studie komen in aanmerking voor een ED-visum?" },
+      "answer": { "en": "Approved programs include: Thai language courses, Muay Thai training, Thai cooking courses, university degree programs (bachelor's, master's, PhD), vocational training, international school enrollment for children, and cultural study programs like traditional Thai massage. The school must be approved by the Ministry of Education.", "nl": "Goedgekeurde programma's zijn onder meer: Thaise taalcursussen, Muay Thai training, Thaise kookcursussen, universitaire opleidingen (bachelor, master, PhD), beroepsopleidingen, internationale schoolinschrijving voor kinderen, en culturele studieprogramma's zoals traditionele Thaise massage. De school moet goedgekeurd zijn door het Ministerie van Onderwijs." }
+    },
+    {
+      "question": { "en": "Can I work while on an Education Visa?", "nl": "Kan ik werken terwijl ik een studievisum heb?" },
+      "answer": { "en": "No, the Education Visa does not permit any form of employment. Working without authorization can result in visa cancellation, fines, and deportation. Some university programs may allow limited internships with special permission.", "nl": "Nee, het studievisum staat geen enkele vorm van werk toe. Werken zonder toestemming kan leiden tot annulering van het visum, boetes en uitzetting. Sommige universitaire programma's staan beperkte stages toe met speciale toestemming." }
+    },
+    {
+      "question": { "en": "How much do Thai language courses cost?", "nl": "Hoeveel kosten Thaise taalcursussen?" },
+      "answer": { "en": "Thai language courses for ED visa holders typically cost 25,000-35,000 THB per year at established schools like AUA or Pro Language. This usually includes 2-4 hours of classes per week. Cheaper options exist but may have less reliable visa support.", "nl": "Thaise taalcursussen voor ED-visumhouders kosten doorgaans 25.000-35.000 THB per jaar bij gevestigde scholen zoals AUA of Pro Language. Dit omvat meestal 2-4 uur les per week. Goedkopere opties bestaan maar hebben mogelijk minder betrouwbare visumondersteuning." }
+    },
+    {
+      "question": { "en": "Do I actually have to attend classes?", "nl": "Moet ik daadwerkelijk lessen bijwonen?" },
+      "answer": { "en": "Yes, attendance is mandatory and monitored. Thai immigration has cracked down on ED visa abuse in recent years. Schools must report student attendance, and immigration may conduct spot checks. Poor attendance can lead to visa cancellation. Take your studies seriously.", "nl": "Ja, aanwezigheid is verplicht en wordt gecontroleerd. De Thaise immigratiedienst heeft de afgelopen jaren strenger opgetreden tegen ED-visummisbruik. Scholen moeten de aanwezigheid van studenten rapporteren en immigratie kan onaangekondigde controles uitvoeren. Slechte aanwezigheid kan leiden tot annulering van het visum. Neem je studie serieus." }
+    }
+  ],
+  "tips": [
+    { "en": "Learning Thai is genuinely rewarding and makes your time in Thailand much richer - the ED visa is a great way to commit to it.", "nl": "Thai leren is oprecht lonend en maakt je tijd in Thailand veel rijker - het ED-visum is een geweldige manier om je eraan te committeren." },
+    { "en": "Choose a well-established school with a good reputation for visa support - ask in expat forums for recommendations.", "nl": "Kies een gevestigde school met een goede reputatie voor visumondersteuning - vraag in expat-forums om aanbevelingen." },
+    { "en": "Muay Thai ED visas are popular but some camps have had visa issues - verify the camp is MoE-approved before paying.", "nl": "Muay Thai ED-visa zijn populair maar sommige kampen hebben visumproblemen gehad - controleer of het kamp MoE-goedgekeurd is voordat je betaalt." },
+    { "en": "Keep all receipts and attendance records - you may need them for visa extensions or if questioned by immigration.", "nl": "Bewaar alle bonnen en aanwezigheidsregistraties - je kunt ze nodig hebben voor visumverlengingen of als immigratie vragen stelt." }
+  ],
+  "last_updated": "2026-02-17",
+  "seo": {
+    "metaTitle": { "en": "Thailand Education Visa 2026: Study Thai, Muay Thai & More", "nl": "Thailand Studievisum 2026: Leer Thai, Muay Thai & Meer" },
+    "metaDescription": { "en": "Guide to Thailand's Education Visa (Non-ED) in 2026. Study Thai language, Muay Thai, or cooking. Requirements, approved schools, costs and extension process.", "nl": "Gids voor het Thailand Studievisum (Non-ED) in 2026. Leer Thai, Muay Thai of koken. Vereisten, goedgekeurde scholen, kosten en verlengingsproces." }
+  }
+}

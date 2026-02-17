@@ -1,0 +1,105 @@
+{
+  "slug": "visa-free-entry",
+  "title": { "en": "Visa-Free Entry (60 Days)", "nl": "Visumvrije Toegang (60 Dagen)" },
+  "icon": "🛂",
+  "category": "tourist",
+  "description": {
+    "en": "Citizens of 93 countries can enter Thailand without a visa for up to 60 days. This visa exemption was permanently extended from 30 to 60 days in 2024, making Thailand one of the most accessible destinations in Southeast Asia. You simply need a valid passport and proof of onward travel to enjoy two months in the Land of Smiles.",
+    "nl": "Burgers van 93 landen kunnen Thailand binnenkomen zonder visum voor maximaal 60 dagen. Deze visumvrijstelling werd in 2024 permanent verlengd van 30 naar 60 dagen, waardoor Thailand een van de meest toegankelijke bestemmingen in Zuidoost-Azie is. Je hebt simpelweg een geldig paspoort en bewijs van doorreis nodig om twee maanden te genieten in het Land van de Glimlach."
+  },
+  "requirements": [
+    {
+      "item": { "en": "Valid passport", "nl": "Geldig paspoort" },
+      "detail": { "en": "Must have at least 6 months validity remaining from the date of entry", "nl": "Moet minimaal 6 maanden geldig zijn vanaf de datum van binnenkomst" }
+    },
+    {
+      "item": { "en": "Return or onward ticket", "nl": "Retour- of doorvliegticket" },
+      "detail": { "en": "Proof of confirmed travel out of Thailand within 60 days", "nl": "Bewijs van bevestigde reis uit Thailand binnen 60 dagen" }
+    },
+    {
+      "item": { "en": "Proof of accommodation", "nl": "Bewijs van accommodatie" },
+      "detail": { "en": "Hotel booking or address where you will stay (may be asked at immigration)", "nl": "Hotelboeking of adres waar je verblijft (kan gevraagd worden bij immigratie)" }
+    },
+    {
+      "item": { "en": "Sufficient funds", "nl": "Voldoende financiele middelen" },
+      "detail": { "en": "20,000 THB per person or 40,000 THB per family (rarely checked but required by law)", "nl": "20.000 THB per persoon of 40.000 THB per gezin (zelden gecontroleerd maar wettelijk vereist)" }
+    }
+  ],
+  "duration": {
+    "initial": "60 days",
+    "extensions": {
+      "en": "Can be extended once for 30 days at any immigration office in Thailand. Cost is 1,900 THB. This gives you a maximum total stay of 90 days.",
+      "nl": "Kan eenmalig verlengd worden met 30 dagen bij elk immigratiekantoor in Thailand. De kosten zijn 1.900 THB. Dit geeft je een maximaal totaalverblijf van 90 dagen."
+    }
+  },
+  "cost": {
+    "entry": "Free",
+    "extension": "1,900 THB (~$55 USD)"
+  },
+  "process": {
+    "steps": [
+      {
+        "step": 1,
+        "title": { "en": "Arrive at Immigration", "nl": "Aankomst bij Immigratie" },
+        "description": { "en": "Present your passport at immigration control upon arrival at any Thai international airport or land border checkpoint.", "nl": "Presenteer je paspoort bij de immigratiecontrole bij aankomst op een Thaise internationale luchthaven of grensovergang." }
+      },
+      {
+        "step": 2,
+        "title": { "en": "Complete Arrival Card", "nl": "Vul Aankomstkaart in" },
+        "description": { "en": "Fill out the digital arrival card (or paper TM6 form if required at your port of entry). Since 2024, most major airports use digital arrival cards.", "nl": "Vul de digitale aankomstkaart in (of het papieren TM6-formulier indien vereist bij je aankomstpunt). Sinds 2024 gebruiken de meeste grote luchthavens digitale aankomstkaarten." }
+      },
+      {
+        "step": 3,
+        "title": { "en": "Receive Entry Stamp", "nl": "Ontvang Inreisstempel" },
+        "description": { "en": "The immigration officer will stamp your passport with a 60-day entry permit. Verify the date stamp is correct before leaving.", "nl": "De immigratieambtenaar stempelt je paspoort met een 60-dagenverblijfsvergunning. Controleer of de datumstempel correct is voordat je weggaat." }
+      },
+      {
+        "step": 4,
+        "title": { "en": "Optional: Extend Your Stay", "nl": "Optioneel: Verleng je Verblijf" },
+        "description": { "en": "Visit any immigration office before your 60 days expire to apply for a 30-day extension. Bring your passport, a passport photo, 1,900 THB, and a completed TM.7 form.", "nl": "Bezoek een willekeurig immigratiekantoor voordat je 60 dagen verlopen om een verlenging van 30 dagen aan te vragen. Neem je paspoort, een pasfoto, 1.900 THB en een ingevuld TM.7-formulier mee." }
+      }
+    ]
+  },
+  "eligible_countries": [
+    "Netherlands", "Belgium", "Germany", "Luxembourg", "France", "United Kingdom",
+    "United States", "Canada", "Australia", "New Zealand", "Japan", "South Korea",
+    "Singapore", "Malaysia", "Indonesia", "Austria", "Switzerland", "Italy", "Spain",
+    "Portugal", "Sweden", "Norway", "Denmark", "Finland", "Ireland", "Poland",
+    "Czech Republic", "Hungary", "Israel", "South Africa", "Brazil", "Argentina",
+    "Chile", "Peru", "Turkey", "United Arab Emirates", "Saudi Arabia", "Qatar",
+    "Kuwait", "Bahrain", "Oman"
+  ],
+  "faqs": [
+    {
+      "question": { "en": "Can I work in Thailand on visa-free entry?", "nl": "Kan ik werken in Thailand met visumvrije toegang?" },
+      "answer": { "en": "No, visa-free entry does not permit any form of employment in Thailand. Working without a work permit is illegal and can result in fines, detention, and deportation. If you want to work remotely, consider the Digital Nomad Visa (DTV) instead.", "nl": "Nee, visumvrije toegang staat geen enkele vorm van werk toe in Thailand. Werken zonder werkvergunning is illegaal en kan leiden tot boetes, detentie en uitzetting. Als je op afstand wilt werken, overweeg dan het Digitale Nomaden Visum (DTV)." }
+    },
+    {
+      "question": { "en": "Can I do back-to-back visa-free entries?", "nl": "Kan ik meerdere visumvrije toegangen achter elkaar doen?" },
+      "answer": { "en": "While there is no official limit on the number of visa-free entries per year, immigration officers may deny entry if they suspect you are living in Thailand on tourist entries. Frequent back-to-back entries, especially via land borders, may be flagged. If you plan to stay long-term, apply for an appropriate long-stay visa.", "nl": "Hoewel er geen officiele limiet is op het aantal visumvrije binnenkomsten per jaar, kunnen immigratieambtenaren toegang weigeren als ze vermoeden dat je in Thailand woont op toeristenbasis. Frequente opeenvolgende binnenkomsten, vooral via landinsgrenzen, kunnen worden opgemerkt. Als je van plan bent langdurig te verblijven, vraag dan een geschikt langverblijfsvisum aan." }
+    },
+    {
+      "question": { "en": "Do I need travel insurance for visa-free entry?", "nl": "Heb ik een reisverzekering nodig voor visumvrije toegang?" },
+      "answer": { "en": "Travel insurance is not mandatory for visa-free entry, but it is highly recommended. Medical costs in Thailand can be expensive, and hospitals often require proof of insurance or upfront payment. A good travel insurance policy typically costs $30-50 for a 60-day trip.", "nl": "Een reisverzekering is niet verplicht voor visumvrije toegang, maar wordt sterk aanbevolen. Medische kosten in Thailand kunnen hoog zijn en ziekenhuizen vereisen vaak bewijs van verzekering of vooruitbetaling. Een goede reisverzekering kost doorgaans $30-50 voor een reis van 60 dagen." }
+    },
+    {
+      "question": { "en": "What happens if I overstay my visa-free entry?", "nl": "Wat gebeurt er als ik langer blijf dan mijn visumvrije toegang?" },
+      "answer": { "en": "Overstaying is a serious offense in Thailand. The fine is 500 THB per day (maximum 20,000 THB). If caught during a police check, you may be detained, deported, and banned from re-entering Thailand for 1-10 years depending on the length of overstay. Always extend your stay before the deadline.", "nl": "Langer blijven dan toegestaan is een serieus vergrijp in Thailand. De boete is 500 THB per dag (maximaal 20.000 THB). Als je betrapt wordt tijdens een politiecontrole, kun je vastgehouden, gedeporteerd en voor 1-10 jaar de toegang tot Thailand ontzegd worden, afhankelijk van de duur van de overstay. Verleng je verblijf altijd voor de deadline." }
+    },
+    {
+      "question": { "en": "Is the 60-day visa-free entry available at land borders?", "nl": "Is de 60-dagenvisumvrije toegang beschikbaar bij landsgrenzen?" },
+      "answer": { "en": "Yes, since the 2024 update, the 60-day visa-free entry applies at all ports of entry including international airports and land border checkpoints with Myanmar, Laos, Cambodia, and Malaysia.", "nl": "Ja, sinds de update van 2024 geldt de 60-dagenvisumvrije toegang bij alle aankomstpunten, inclusief internationale luchthavens en grensovergangen met Myanmar, Laos, Cambodja en Maleisie." }
+    }
+  ],
+  "tips": [
+    { "en": "Always carry a copy of your passport and entry stamp - you may need it at hotels or police checkpoints.", "nl": "Draag altijd een kopie van je paspoort en inreisstempel bij je - je kunt het nodig hebben bij hotels of politiecontroles." },
+    { "en": "Take a photo of your entry stamp right after immigration - the ink can fade over time.", "nl": "Maak direct na immigratie een foto van je inreisstempel - de inkt kan na verloop van tijd vervagen." },
+    { "en": "Apply for your 30-day extension at least a week before your 60 days expire - immigration offices can be busy.", "nl": "Vraag je 30-dagenverlenging minstens een week voor het verlopen van je 60 dagen aan - immigratiekantoren kunnen druk zijn." },
+    { "en": "Download the TM6 digital arrival card app before your flight to save time at immigration.", "nl": "Download de TM6 digitale aankomstkaart-app voor je vlucht om tijd te besparen bij immigratie." }
+  ],
+  "last_updated": "2026-02-17",
+  "seo": {
+    "metaTitle": { "en": "Thailand Visa-Free Entry 2026: 60 Days Without Visa", "nl": "Thailand Visumvrij 2026: 60 Dagen Zonder Visum" },
+    "metaDescription": { "en": "Complete guide to Thailand's visa-free entry in 2026. 60 days free for 93 countries, extension options, requirements and tips for hassle-free travel.", "nl": "Complete gids voor visumvrije toegang tot Thailand in 2026. 60 dagen gratis voor 93 landen, verlengingsopties, vereisten en tips voor zorgeloos reizen." }
+  }
+}

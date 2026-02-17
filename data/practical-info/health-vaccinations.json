@@ -1,0 +1,119 @@
+{
+  "slug": "health-vaccinations",
+  "title": { "en": "Thailand Health & Vaccinations Guide", "nl": "Thailand Gezondheid & Vaccinaties Gids" },
+  "icon": "💉",
+  "description": {
+    "en": "Thailand has excellent healthcare facilities, especially in Bangkok, Chiang Mai, and Phuket, with modern private hospitals that rival those in Western countries. However, preparation is key to staying healthy. This guide covers recommended vaccinations, common health concerns, healthcare costs, and what to do if you get sick in Thailand. Most travelers have no health issues, but being informed helps you travel with confidence.",
+    "nl": "Thailand heeft uitstekende gezondheidszorgfaciliteiten, vooral in Bangkok, Chiang Mai en Phuket, met moderne particuliere ziekenhuizen die vergelijkbaar zijn met die in westerse landen. Voorbereiding is echter essentieel om gezond te blijven. Deze gids behandelt aanbevolen vaccinaties, veelvoorkomende gezondheidsproblemen, zorgkosten en wat te doen als je ziek wordt in Thailand. De meeste reizigers hebben geen gezondheidsproblemen, maar goed geinformeerd zijn helpt je met vertrouwen te reizen."
+  },
+  "sections": [
+    {
+      "title": { "en": "Recommended Vaccinations", "nl": "Aanbevolen Vaccinaties" },
+      "items": [
+        {
+          "name": { "en": "Routine Vaccinations", "nl": "Routine Vaccinaties" },
+          "description": { "en": "Ensure your routine vaccinations are up to date: DTP (diphtheria, tetanus, pertussis/whooping cough), MMR (measles, mumps, rubella), and polio. In the Netherlands, these are part of the Rijksvaccinatieprogramma. Check with your huisarts or GGD if you are unsure about your vaccination status.", "nl": "Zorg dat je routine vaccinaties actueel zijn: DTP (difterie, tetanus, kinkhoest), BMR (bof, mazelen, rodehond) en polio. In Nederland zijn deze onderdeel van het Rijksvaccinatieprogramma. Controleer bij je huisarts of GGD als je twijfelt over je vaccinatiestatus." },
+          "how_to_avoid": { "en": "Visit your doctor or GGD travel clinic at least 6-8 weeks before departure for a vaccination consult.", "nl": "Bezoek je huisarts of GGD-reizigersvaccinatiebureau minstens 6-8 weken voor vertrek voor een vaccinatieconsult." }
+        },
+        {
+          "name": { "en": "Hepatitis A", "nl": "Hepatitis A" },
+          "description": { "en": "Strongly recommended for all travelers to Thailand. Hepatitis A is transmitted through contaminated food and water. The vaccine consists of 2 doses (the second 6-12 months after the first) and provides protection for at least 25 years. A single dose provides protection for about 1 year.", "nl": "Sterk aanbevolen voor alle reizigers naar Thailand. Hepatitis A wordt overgedragen via besmet voedsel en water. Het vaccin bestaat uit 2 doses (de tweede 6-12 maanden na de eerste) en biedt bescherming voor minimaal 25 jaar. Een enkele dosis biedt bescherming voor ongeveer 1 jaar." },
+          "how_to_avoid": { "en": "Get vaccinated at least 2 weeks before departure for the first dose to be effective.", "nl": "Laat je vaccineren minstens 2 weken voor vertrek zodat de eerste dosis effectief is." }
+        },
+        {
+          "name": { "en": "Hepatitis B", "nl": "Hepatitis B" },
+          "description": { "en": "Recommended for travelers who may have sexual contact, get tattoos or piercings, or require medical treatment in Thailand. Transmitted through blood and bodily fluids. The standard vaccination is 3 doses over 6 months, but an accelerated schedule is available.", "nl": "Aanbevolen voor reizigers die mogelijk seksueel contact hebben, tatoeages of piercings laten zetten, of medische behandeling nodig hebben in Thailand. Wordt overgedragen via bloed en lichaamsvloeistoffen. De standaard vaccinatie is 3 doses over 6 maanden, maar een versneld schema is beschikbaar." },
+          "how_to_avoid": { "en": "Many Dutch people born after 2011 received Hepatitis B vaccination as part of the national program. Check your vaccination booklet.", "nl": "Veel Nederlanders geboren na 2011 hebben een Hepatitis B-vaccinatie gekregen als onderdeel van het nationaal programma. Controleer je vaccinatieboekje." }
+        },
+        {
+          "name": { "en": "Typhoid", "nl": "Tyfus" },
+          "description": { "en": "Recommended for travelers who will eat street food frequently or visit rural areas. Typhoid is spread through contaminated food and water. Available as a single injection (effective for 3 years) or oral capsules (effective for 1-3 years).", "nl": "Aanbevolen voor reizigers die vaak straatvoedsel eten of landelijke gebieden bezoeken. Tyfus wordt verspreid via besmet voedsel en water. Beschikbaar als een enkele injectie (effectief voor 3 jaar) of orale capsules (effectief voor 1-3 jaar)." },
+          "how_to_avoid": { "en": "The injection is the most common choice - simple, one dose, and provides good protection.", "nl": "De injectie is de meest voorkomende keuze - eenvoudig, een dosis en biedt goede bescherming." }
+        },
+        {
+          "name": { "en": "Rabies", "nl": "Rabies" },
+          "description": { "en": "Consider if you plan to spend time in rural areas, around animals, or adventure travel. Thailand has stray dogs and monkeys that occasionally bite tourists. The preventive vaccination is 3 doses over 21-28 days. Note: even if vaccinated, you still need post-exposure treatment after an animal bite, but it is simpler and more readily available.", "nl": "Overweeg als je tijd doorbrengt in landelijke gebieden, in de buurt van dieren, of avontuurlijk reist. Thailand heeft zwerfhonden en apen die af en toe toeristen bijten. De preventieve vaccinatie bestaat uit 3 doses over 21-28 dagen. Let op: ook als je gevaccineerd bent, heb je na een dierenbeet nog steeds postexpositiebehandeling nodig, maar deze is eenvoudiger en makkelijker verkrijgbaar." },
+          "how_to_avoid": { "en": "If bitten by an animal in Thailand, seek medical treatment immediately regardless of vaccination status. The Thai Red Cross in Bangkok is a leading rabies treatment center.", "nl": "Als je gebeten wordt door een dier in Thailand, zoek onmiddellijk medische behandeling ongeacht je vaccinatiestatus. Het Thaise Rode Kruis in Bangkok is een toonaangevend behandelcentrum voor rabies." }
+        },
+        {
+          "name": { "en": "Japanese Encephalitis", "nl": "Japanse Encefalitis" },
+          "description": { "en": "Recommended for travelers staying longer than 1 month, especially in rural or agricultural areas. Transmitted by mosquitoes, primarily in rural areas near rice paddies and pig farms. The vaccine is 2 doses, 28 days apart.", "nl": "Aanbevolen voor reizigers die langer dan 1 maand verblijven, vooral in landelijke of agrarische gebieden. Wordt overgedragen door muggen, voornamelijk in landelijke gebieden nabij rijstvelden en varkensboerderijen. Het vaccin bestaat uit 2 doses, 28 dagen uit elkaar." },
+          "how_to_avoid": { "en": "Mainly a concern for extended rural stays. Most short-term tourists in cities and beach areas have very low risk.", "nl": "Vooral een zorg bij langdurig verblijf op het platteland. De meeste kortverblijvende toeristen in steden en strandgebieden hebben een zeer laag risico." }
+        }
+      ]
+    },
+    {
+      "title": { "en": "Common Health Concerns", "nl": "Veelvoorkomende Gezondheidsproblemen" },
+      "items": [
+        {
+          "name": { "en": "Traveler's Diarrhea", "nl": "Reizigersdiarree" },
+          "description": { "en": "The most common health issue for tourists in Thailand. Usually caused by unfamiliar bacteria in food and water. Symptoms typically last 2-3 days. Stay hydrated with bottled water and rehydration salts (ORS), available at any pharmacy. Anti-diarrhea medication (loperamide/Imodium) provides symptom relief.", "nl": "Het meest voorkomende gezondheidsprobleem voor toeristen in Thailand. Meestal veroorzaakt door onbekende bacterien in voedsel en water. Symptomen duren doorgaans 2-3 dagen. Blijf gehydrateerd met flessenwater en rehydratatiezouten (ORS), verkrijgbaar bij elke apotheek. Anti-diarreemedicatie (loperamide/Imodium) biedt symptoomverlichting." },
+          "how_to_avoid": { "en": "Drink only bottled or filtered water. Avoid ice from unknown sources (though most restaurants use factory ice which is safe). Eat at busy stalls where food turnover is high. Wash hands frequently.", "nl": "Drink alleen flessenwater of gefilterd water. Vermijd ijs van onbekende bronnen (hoewel de meeste restaurants fabrieksijs gebruiken dat veilig is). Eet bij drukke kraampjes waar de voedselomloop hoog is. Was je handen regelmatig." }
+        },
+        {
+          "name": { "en": "Dengue Fever", "nl": "Dengue Koorts" },
+          "description": { "en": "Dengue is transmitted by Aedes mosquitoes that bite during the day, particularly around dawn and dusk. Symptoms include high fever, severe headache, joint and muscle pain, and rash. There is no specific treatment - only symptom management. Peak season is during and just after the rainy season (June-November).", "nl": "Dengue wordt overgedragen door Aedes-muggen die overdag bijten, vooral rond zonsopgang en zonsondergang. Symptomen zijn hoge koorts, ernstige hoofdpijn, gewrichts- en spierpijn en huiduitslag. Er is geen specifieke behandeling - alleen symptoombestrijding. Het piekseizoen is tijdens en net na het regenseizoen (juni-november)." },
+          "how_to_avoid": { "en": "Use insect repellent with DEET, especially during daytime. Wear long sleeves and pants at dawn and dusk. Stay in accommodation with screens or air conditioning. There is no vaccine widely available for travelers yet.", "nl": "Gebruik insectenwerend middel met DEET, vooral overdag. Draag lange mouwen en broeken bij zonsopgang en zonsondergang. Verblijf in accommodatie met horren of airconditioning. Er is nog geen vaccin breed beschikbaar voor reizigers." }
+        },
+        {
+          "name": { "en": "Sunburn & Heat-Related Illness", "nl": "Zonnebrand & Hittegerelateerde Klachten" },
+          "description": { "en": "Many tourists underestimate the tropical sun. Severe sunburn, heat exhaustion, and heatstroke are common, especially in the first few days. The UV index in Thailand regularly reaches 11+ (extreme). The combination of heat and humidity makes dehydration a serious risk.", "nl": "Veel toeristen onderschatten de tropische zon. Ernstige zonnebrand, hitte-uitputting en zonnesteek komen vaak voor, vooral in de eerste dagen. De UV-index in Thailand bereikt regelmatig 11+ (extreem). De combinatie van hitte en luchtvochtigheid maakt uitdroging een serieus risico." },
+          "how_to_avoid": { "en": "Apply SPF 50+ sunscreen every 2 hours. Wear a hat and sunglasses. Drink at least 2-3 liters of water daily. Take breaks in shade or air-conditioned spaces during peak sun hours (11 AM - 3 PM). Acclimatize gradually - do not plan strenuous activities for your first day.", "nl": "Breng elke 2 uur SPF 50+ zonnebrandcreme aan. Draag een hoed en zonnebril. Drink dagelijks minstens 2-3 liter water. Neem pauzes in de schaduw of in ruimtes met airconditioning tijdens piekzonuren (11:00 - 15:00). Acclimatiseer geleidelijk - plan geen zware activiteiten voor je eerste dag." }
+        },
+        {
+          "name": { "en": "Motorbike Injuries", "nl": "Motorletsels" },
+          "description": { "en": "The number one cause of serious tourist injuries and deaths in Thailand. Many tourists rent scooters without experience, proper licenses, or helmets. Thai roads can be chaotic, especially for those not used to driving on the left side. Many travel insurance policies do not cover motorbike accidents without a valid license.", "nl": "De nummer een oorzaak van ernstige verwondingen en sterfgevallen onder toeristen in Thailand. Veel toeristen huren scooters zonder ervaring, geldig rijbewijs of helm. Thaise wegen kunnen chaotisch zijn, vooral voor wie niet gewend is aan links rijden. Veel reisverzekeringen dekken geen motorongelukken zonder geldig rijbewijs." },
+          "how_to_avoid": { "en": "Only ride if experienced and properly licensed (International Driving Permit). Always wear a helmet. Do not drink and drive. Check that your travel insurance covers motorbike accidents. Consider using Grab instead - it is cheap and safe.", "nl": "Rijd alleen als je ervaren bent en een geldig rijbewijs hebt (Internationaal Rijbewijs). Draag altijd een helm. Drink niet en rijd niet. Controleer of je reisverzekering motorongelukken dekt. Overweeg in plaats daarvan Grab te gebruiken - het is goedkoop en veilig." }
+        }
+      ]
+    },
+    {
+      "title": { "en": "Healthcare in Thailand", "nl": "Gezondheidszorg in Thailand" },
+      "items": [
+        {
+          "name": { "en": "Private Hospitals", "nl": "Particuliere Ziekenhuizen" },
+          "description": { "en": "Thailand's private hospitals are world-class and a major medical tourism destination. Bumrungrad International Hospital (Bangkok), Bangkok Hospital Group, and Samitivej Hospital offer excellent English-speaking care with modern facilities. Costs are much lower than in Western countries but can still be significant without insurance.", "nl": "Thailand's particuliere ziekenhuizen zijn van wereldklasse en een belangrijke bestemming voor medisch toerisme. Bumrungrad International Hospital (Bangkok), Bangkok Hospital Group en Samitivej Hospital bieden uitstekende Engelstalige zorg met moderne faciliteiten. De kosten zijn veel lager dan in westerse landen maar kunnen zonder verzekering nog steeds aanzienlijk zijn." },
+          "how_to_avoid": { "en": "Always have travel insurance that covers medical treatment. Keep the insurance company's emergency number accessible at all times.", "nl": "Zorg altijd voor een reisverzekering die medische behandeling dekt. Houd het noodnummer van de verzekeringsmaatschappij altijd toegankelijk." }
+        },
+        {
+          "name": { "en": "Pharmacies", "nl": "Apotheken" },
+          "description": { "en": "Thai pharmacies (look for green cross signs) are well-stocked and pharmacists can recommend over-the-counter medications for common ailments. Many medications that require a prescription in the Netherlands are available over the counter in Thailand, including antibiotics and some pain medications. Boots and Watsons are reliable pharmacy chains.", "nl": "Thaise apotheken (zoek naar groene kruistekens) zijn goed bevoorraad en apothekers kunnen vrij verkrijgbare medicijnen aanbevelen voor veelvoorkomende kwalen. Veel medicijnen waarvoor in Nederland een recept nodig is, zijn in Thailand vrij verkrijgbaar, waaronder antibiotica en sommige pijnstillers. Boots en Watsons zijn betrouwbare apotheekketens." },
+          "how_to_avoid": { "en": "When buying medication, check the expiry date and ensure packaging is sealed. Ask the pharmacist about proper dosage.", "nl": "Controleer bij het kopen van medicijnen de houdbaarheidsdatum en zorg dat de verpakking verzegeld is. Vraag de apotheker naar de juiste dosering." }
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": { "en": "Do I need malaria tablets for Thailand?", "nl": "Heb ik malariatabletten nodig voor Thailand?" },
+      "answer": { "en": "For most tourists visiting popular destinations (Bangkok, Chiang Mai, Phuket, Krabi, Koh Samui, Pattaya), malaria prophylaxis is not necessary. Malaria risk exists mainly in remote border areas with Myanmar, Laos, and Cambodia. Consult with a travel health specialist (GGD in the Netherlands) based on your specific itinerary. Dengue prevention (insect repellent) is more important for most travelers.", "nl": "Voor de meeste toeristen die populaire bestemmingen bezoeken (Bangkok, Chiang Mai, Phuket, Krabi, Koh Samui, Pattaya) zijn malariatabletten niet nodig. Malariarisico bestaat voornamelijk in afgelegen grensgebieden met Myanmar, Laos en Cambodja. Raadpleeg een reisgezondheidspecialist (GGD in Nederland) op basis van je specifieke reisplan. Dengue-preventie (insectenwerend middel) is voor de meeste reizigers belangrijker." }
+    },
+    {
+      "question": { "en": "Is the tap water safe to drink in Thailand?", "nl": "Is het kraanwater veilig om te drinken in Thailand?" },
+      "answer": { "en": "No, do not drink tap water in Thailand. Always drink bottled water or filtered water. Bottled water is cheap (7-15 THB for 1.5 liters) and available everywhere. Ice in restaurants and bars is generally safe as it is produced commercially from purified water (you can tell by the cylindrical shape with a hole in the middle). Avoid ice made from tap water (irregular chunks).", "nl": "Nee, drink geen kraanwater in Thailand. Drink altijd flessenwater of gefilterd water. Flessenwater is goedkoop (7-15 THB voor 1,5 liter) en overal verkrijgbaar. IJs in restaurants en bars is over het algemeen veilig omdat het commercieel wordt geproduceerd van gezuiverd water (herkenbaar aan de cilindervorm met een gat in het midden). Vermijd ijs gemaakt van kraanwater (onregelmatige brokken)." }
+    },
+    {
+      "question": { "en": "How much does a hospital visit cost in Thailand?", "nl": "Hoeveel kost een ziekenhuisbezoek in Thailand?" },
+      "answer": { "en": "At a private hospital, a basic consultation costs 500-1,500 THB ($15-45). Simple treatments (stitches, X-rays) range from 2,000-10,000 THB. Hospitalization can cost 10,000-50,000+ THB per day. Emergency surgery or serious injuries can quickly reach hundreds of thousands of THB. Travel insurance is essential - without it, you will need to pay upfront as hospitals require payment or insurance guarantee before treatment.", "nl": "Bij een particulier ziekenhuis kost een basisconsult 500-1.500 THB ($15-45). Eenvoudige behandelingen (hechtingen, rontgenfoto's) varieren van 2.000-10.000 THB. Ziekenhuisopname kan 10.000-50.000+ THB per dag kosten. Spoedoperaties of ernstige verwondingen kunnen snel honderdduizenden THB bereiken. Een reisverzekering is essentieel - zonder moet je vooraf betalen omdat ziekenhuizen betaling of verzekeringsgarantie vereisen voor behandeling." }
+    },
+    {
+      "question": { "en": "What should I do if I get bitten by a monkey or dog?", "nl": "Wat moet ik doen als ik gebeten word door een aap of hond?" },
+      "answer": { "en": "Immediately wash the wound thoroughly with soap and running water for at least 15 minutes - this is the most important first step. Apply antiseptic if available. Then go to the nearest hospital or clinic for rabies post-exposure treatment. Do not wait - rabies is almost always fatal once symptoms appear. Treatment is available throughout Thailand. If you were pre-vaccinated, you need only 2 booster doses. If not pre-vaccinated, you need 4-5 doses plus immunoglobulin.", "nl": "Was de wond onmiddellijk grondig met zeep en stromend water gedurende minstens 15 minuten - dit is de belangrijkste eerste stap. Breng antisepticum aan indien beschikbaar. Ga dan naar het dichtstbijzijnde ziekenhuis of kliniek voor rabies postexpositiebehandeling. Wacht niet - rabies is vrijwel altijd dodelijk zodra de symptomen verschijnen. Behandeling is beschikbaar in heel Thailand. Als je vooraf gevaccineerd was, heb je slechts 2 boosterdoses nodig. Zo niet, dan heb je 4-5 doses plus immunoglobuline nodig." }
+    },
+    {
+      "question": { "en": "Where can I get vaccinations in the Netherlands before my trip?", "nl": "Waar kan ik vaccinaties krijgen in Nederland voor mijn reis?" },
+      "answer": { "en": "Visit a GGD travel health clinic (Reizigersadvies en Vaccinatiebureau). You can find the nearest one at ggdreisvaccinaties.nl. Make an appointment 6-8 weeks before departure. They provide personalized advice based on your destination, duration, and activities. Costs are typically 50-150 EUR for consultation plus vaccine costs. Some health insurance policies partially reimburse travel vaccinations.", "nl": "Bezoek een GGD-reizigersvaccinatiebureau. Je kunt de dichtstbijzijnde vinden op ggdreisvaccinaties.nl. Maak 6-8 weken voor vertrek een afspraak. Ze bieden persoonlijk advies op basis van je bestemming, verblijfsduur en activiteiten. De kosten zijn doorgaans 50-150 EUR voor consult plus vaccinkosten. Sommige zorgverzekeringen vergoeden reisvaccinaties gedeeltelijk." }
+    }
+  ],
+  "tips": [
+    { "en": "Visit the GGD travel clinic at least 6-8 weeks before departure - some vaccinations need time to become effective.", "nl": "Bezoek het GGD-reizigersadviesbureau minstens 6-8 weken voor vertrek - sommige vaccinaties hebben tijd nodig om effectief te worden." },
+    { "en": "Bring your vaccination booklet (yellow international certificate) to Thailand in case you need medical treatment.", "nl": "Neem je vaccinatieboekje (geel internationaal certificaat) mee naar Thailand voor het geval je medische behandeling nodig hebt." },
+    { "en": "Download the 'BKK Hospital' or 'Bangkok Hospital' app to find the nearest quality hospital wherever you are in Thailand.", "nl": "Download de 'BKK Hospital' of 'Bangkok Hospital' app om het dichtstbijzijnde kwaliteitsziekenhuis te vinden waar je ook bent in Thailand." },
+    { "en": "Keep a card in your wallet with your blood type, allergies, and emergency contact information in both English and Thai.", "nl": "Bewaar een kaartje in je portemonnee met je bloedgroep, allergieen en noodcontactinformatie in zowel Engels als Thai." }
+  ],
+  "last_updated": "2026-02-17",
+  "seo": {
+    "metaTitle": { "en": "Thailand Health & Vaccinations Guide 2026: What You Need", "nl": "Thailand Gezondheid & Vaccinaties Gids 2026: Wat Je Nodig Hebt" },
+    "metaDescription": { "en": "Complete health guide for Thailand in 2026. Recommended vaccinations, malaria advice, common health risks, healthcare quality, and insurance tips.", "nl": "Complete gezondheidsgids voor Thailand in 2026. Aanbevolen vaccinaties, malaria-advies, veelvoorkomende gezondheidsrisico's, zorgkwaliteit en verzekertips." }
+  }
+}

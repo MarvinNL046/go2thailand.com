@@ -1,0 +1,194 @@
+{
+  "slug": "koh-phi-phi",
+  "name": { "en": "Koh Phi Phi", "nl": "Koh Phi Phi" },
+  "region": "Andaman Sea",
+  "province": "Krabi",
+  "image": "/images/islands/koh-phi-phi.webp",
+  "description": {
+    "en": "The Phi Phi Islands are among the most visually stunning destinations in Southeast Asia, with dramatic limestone cliffs rising from turquoise waters. The archipelago consists of six islands, with Phi Phi Don being the only inhabited one. Made world-famous by the movie 'The Beach' (2000), Maya Bay on Phi Phi Leh remains one of Thailand's most iconic sights. The islands are car-free, giving them a unique laid-back island atmosphere despite their popularity.",
+    "nl": "De Phi Phi Eilanden behoren tot de meest visueel adembenemende bestemmingen in Zuidoost-Azië, met dramatische kalkstenen kliffen die uit turquoise water oprijzen. De archipel bestaat uit zes eilanden, waarvan Phi Phi Don het enige bewoonde eiland is. Wereldberoemd geworden door de film 'The Beach' (2000), blijft Maya Bay op Phi Phi Leh een van de meest iconische bezienswaardigheden van Thailand. De eilanden zijn autovrij, wat ze een unieke ontspannen eilandsfeer geeft ondanks hun populariteit."
+  },
+  "beaches": [
+    {
+      "name": "Maya Bay",
+      "description": {
+        "en": "The world-famous bay on Phi Phi Leh, surrounded by towering limestone cliffs. After being closed from 2018 to 2022 for ecological recovery, it reopened with strict visitor limits (no swimming, limited time slots, max 300 visitors at a time). The coral and marine life have made a remarkable recovery.",
+        "nl": "De wereldberoemde baai op Phi Phi Leh, omringd door torenhoge kalkstenen kliffen. Na een sluiting van 2018 tot 2022 voor ecologisch herstel, is de baai heropend met strikte bezoekerslimieten (niet zwemmen, beperkte tijdslots, maximaal 300 bezoekers tegelijk). Het koraal en zeeleven hebben een opmerkelijk herstel doorgemaakt."
+      },
+      "best_for": ["sightseeing", "photography", "snorkeling nearby"]
+    },
+    {
+      "name": "Long Beach (Haad Yao)",
+      "description": {
+        "en": "A beautiful stretch of white sand on the southeast coast of Phi Phi Don with excellent snorkeling, including frequent blacktip reef shark sightings in the shallows. Less crowded than Tonsai and accessible by longtail boat or a 20-minute walk.",
+        "nl": "Een prachtig stuk wit zand aan de zuidoostkust van Phi Phi Don met uitstekend snorkelen, inclusief frequente waarnemingen van zwartpuntrifhaaien in het ondiepe water. Minder druk dan Tonsai en bereikbaar per longtailboot of een wandeling van 20 minuten."
+      },
+      "best_for": ["snorkeling", "swimming", "relaxation"]
+    },
+    {
+      "name": "Tonsai Bay",
+      "description": {
+        "en": "The main arrival point and central beach of Phi Phi Don. While not the prettiest beach for swimming, it's the heart of the island with all the shops, restaurants, dive centers, and nightlife concentrated here.",
+        "nl": "Het belangrijkste aankomstpunt en centrale strand van Phi Phi Don. Hoewel het niet het mooiste strand is om te zwemmen, is het het hart van het eiland met alle winkels, restaurants, duikcentra en nachtleven hier geconcentreerd."
+      },
+      "best_for": ["nightlife", "dining", "convenience"]
+    },
+    {
+      "name": "Loh Dalum Bay",
+      "description": {
+        "en": "Just over the narrow isthmus from Tonsai, this wide, shallow bay offers stunning views, especially at low tide when you can walk far out on the exposed sandbar. At night, the beach transforms into an open-air party zone with fire shows and beach bars.",
+        "nl": "Net aan de andere kant van de smalle landtong vanaf Tonsai biedt deze brede, ondiepe baai adembenemende uitzichten, vooral bij eb wanneer je ver over de blootliggende zandbank kunt lopen. 's Nachts verandert het strand in een openlucht feestzone met vuurshows en strandbars."
+      },
+      "best_for": ["views", "nightlife", "fire shows", "photography"]
+    },
+    {
+      "name": "Laem Tong Beach",
+      "description": {
+        "en": "The most exclusive beach on Phi Phi Don, located on the northern tip and home to several luxury resorts. Completely separated from the main village, it offers peace, pristine water, and excellent snorkeling at nearby Bamboo Island.",
+        "nl": "Het meest exclusieve strand van Phi Phi Don, gelegen op de noordpunt en de thuisbasis van meerdere luxe resorts. Volledig gescheiden van het hoofddorp, biedt het rust, ongerept water en uitstekend snorkelen bij het nabijgelegen Bamboo Island."
+      },
+      "best_for": ["luxury", "seclusion", "snorkeling"]
+    }
+  ],
+  "activities": [
+    {
+      "name": "Phi Phi Viewpoint",
+      "type": "hiking",
+      "description": {
+        "en": "A must-do hike up 186 steps to the famous viewpoint overlooking both Tonsai Bay and Loh Dalum Bay, with the dramatic isthmus in between. Best visited early morning or late afternoon to avoid the midday heat. Entry fee ฿30.",
+        "nl": "Een niet-te-missen wandeling van 186 treden naar het beroemde uitzichtpunt met uitzicht op zowel Tonsai Bay als Loh Dalum Bay, met de dramatische landtong ertussen. Het best te bezoeken in de vroege ochtend of late namiddag om de middaghitte te vermijden. Toegangsprijs ฿30."
+      },
+      "price_range": "$"
+    },
+    {
+      "name": "Maya Bay & Phi Phi Leh Tour",
+      "type": "day_trip",
+      "description": {
+        "en": "Half-day and full-day longtail or speedboat tours to Phi Phi Leh visiting Maya Bay, Pileh Lagoon (where swimming is allowed), Viking Cave, and snorkeling spots. Early morning trips avoid the biggest crowds.",
+        "nl": "Halve dag en hele dag longtail- of speedboottochten naar Phi Phi Leh met bezoeken aan Maya Bay, Pileh Lagoon (waar zwemmen is toegestaan), Viking Cave en snorkelplekken. Vroege ochtendtochten vermijden de grootste drukte."
+      },
+      "price_range": "$$"
+    },
+    {
+      "name": "Scuba Diving",
+      "type": "diving",
+      "description": {
+        "en": "Excellent diving around the Phi Phi islands with sites suitable for all levels. Highlights include Shark Point (leopard sharks), Hin Daeng and Hin Muang (manta rays, seasonal), and the King Cruiser Wreck. Multiple dive shops in Tonsai offer courses and fun dives.",
+        "nl": "Uitstekend duiken rond de Phi Phi eilanden met locaties geschikt voor alle niveaus. Hoogtepunten zijn Shark Point (luipaardshaaien), Hin Daeng en Hin Muang (mantaroggen, seizoensgebonden) en het King Cruiser Wrak. Meerdere duikwinkels in Tonsai bieden cursussen en fun dives aan."
+      },
+      "price_range": "$$-$$$"
+    },
+    {
+      "name": "Bioluminescent Plankton Tour",
+      "type": "night_activity",
+      "description": {
+        "en": "Night boat tours to witness the magical bioluminescent plankton that light up the water with an ethereal blue glow when disturbed. Available during certain conditions, typically on dark, moonless nights. A truly unforgettable experience.",
+        "nl": "Nachtelijke boottochten om het magische bioluminescente plankton te bewonderen dat het water verlicht met een etherische blauwe gloed als het wordt verstoord. Beschikbaar onder bepaalde omstandigheden, meestal op donkere, maanloze nachten. Een werkelijk onvergetelijke ervaring."
+      },
+      "price_range": "$"
+    },
+    {
+      "name": "Rock Climbing at Tonsai Tower",
+      "type": "adventure",
+      "description": {
+        "en": "The limestone cliffs around Tonsai offer excellent rock climbing routes for beginners to advanced climbers. Several operators offer half-day introductory courses with all equipment provided. Deep water soloing is also available for experienced climbers.",
+        "nl": "De kalkstenen kliffen rond Tonsai bieden uitstekende rotsklimroutes voor beginners tot gevorderde klimmers. Verschillende aanbieders bieden halve dag introductiecursussen aan met alle uitrusting inbegrepen. Deep water soloing is ook beschikbaar voor ervaren klimmers."
+      },
+      "price_range": "$$"
+    }
+  ],
+  "getting_there": {
+    "from_bangkok": {
+      "options": [
+        {
+          "method": "Flight to Phuket + Ferry",
+          "duration": "3-4 hours",
+          "price": "฿2,000-5,000",
+          "description": {
+            "en": "Fly to Phuket (1.5 hours), then take a ferry from Rassada Pier (2 hours) to Phi Phi. Multiple airlines serve Phuket with frequent departures. Ferries run several times daily.",
+            "nl": "Vlieg naar Phuket (1,5 uur) en neem vervolgens een veerboot vanaf Rassada Pier (2 uur) naar Phi Phi. Meerdere luchtvaartmaatschappijen bedienen Phuket met frequente vertrekken. Veerboten varen meerdere keren per dag."
+          }
+        },
+        {
+          "method": "Flight to Krabi + Ferry",
+          "duration": "3-4 hours",
+          "price": "฿1,500-4,000",
+          "description": {
+            "en": "Fly to Krabi airport (1.5 hours), then transfer to Klong Jilad Pier for a 1.5-hour ferry to Phi Phi. Often cheaper than via Phuket and a shorter sea crossing.",
+            "nl": "Vlieg naar de luchthaven van Krabi (1,5 uur) en reis vervolgens naar Klong Jilad Pier voor een 1,5 uur durende veerboot naar Phi Phi. Vaak goedkoper dan via Phuket en een kortere zeeoversteek."
+          }
+        },
+        {
+          "method": "Bus to Krabi/Phuket + Ferry",
+          "duration": "14-16 hours",
+          "price": "฿700-1,200",
+          "description": {
+            "en": "Overnight bus from Bangkok to Krabi or Phuket, then morning ferry to Phi Phi. Budget-friendly option with combined tickets available from Bangkok travel agents.",
+            "nl": "Nachtbus van Bangkok naar Krabi of Phuket, vervolgens de ochtendveerboot naar Phi Phi. Budgetvriendelijke optie met gecombineerde tickets verkrijgbaar bij reisbureaus in Bangkok."
+          }
+        }
+      ]
+    }
+  },
+  "accommodation_tips": {
+    "areas": [
+      {
+        "name": "Tonsai Village",
+        "description": {
+          "en": "The main village with the widest range of accommodation, restaurants, and nightlife. Can be noisy but very convenient. Backpacker hostels start from ฿300/night.",
+          "nl": "Het hoofddorp met het breedste aanbod aan accommodatie, restaurants en nachtleven. Kan lawaaierig zijn maar zeer handig. Backpackerhostels beginnen vanaf ฿300/nacht."
+        },
+        "price_range": "$-$$$"
+      },
+      {
+        "name": "Long Beach",
+        "description": {
+          "en": "A short longtail ride from Tonsai, offering a more relaxed beach experience with good snorkeling. Mid-range bungalows and a few upscale resorts are available.",
+          "nl": "Een korte longtailrit vanaf Tonsai, met een meer ontspannen strandervaring en goed snorkelen. Bungalows in het middensegment en enkele luxe resorts zijn beschikbaar."
+        },
+        "price_range": "$$-$$$"
+      },
+      {
+        "name": "Laem Tong",
+        "description": {
+          "en": "Exclusive northern beach area with luxury resorts like Zeavola and Holiday Inn. Completely separate from the village chaos, requiring boat transfers. Best for honeymoons and luxury seekers.",
+          "nl": "Exclusief strandgebied in het noorden met luxe resorts zoals Zeavola en Holiday Inn. Volledig gescheiden van de dorpsdrukte, waarvoor boottransfers nodig zijn. Het beste voor huwelijksreizen en luxezoekers."
+        },
+        "price_range": "$$$-$$$$"
+      }
+    ]
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$25-45",
+      "mid": "$50-100",
+      "luxury": "$150+"
+    },
+    "currency_tips": {
+      "en": "ATMs are available in Tonsai Village but have high fees and sometimes run out of cash during peak season. Bring sufficient cash from Phuket or Krabi. Credit cards are accepted at larger establishments. Everything costs more on Phi Phi due to the island's remoteness.",
+      "nl": "Geldautomaten zijn beschikbaar in Tonsai Village maar hebben hoge kosten en zijn soms leeg tijdens het hoogseizoen. Neem voldoende contant geld mee vanaf Phuket of Krabi. Creditcards worden geaccepteerd bij grotere gelegenheden. Alles is duurder op Phi Phi vanwege de afgelegen ligging."
+    }
+  },
+  "best_time_to_visit": {
+    "high_season": "Nov-Apr",
+    "shoulder": "May, Oct",
+    "low_season": "Jun-Sep",
+    "avoid": "Jun-Aug",
+    "description": {
+      "en": "The Andaman coast has opposite seasons to the Gulf. November to April offers calm seas, sunny weather, and the best underwater visibility. The southwest monsoon (June-September) brings rough seas and rain, and ferries may be cancelled. Maya Bay may also close during monsoon season for environmental reasons.",
+      "nl": "De Andamankust heeft tegengestelde seizoenen ten opzichte van de Golf. November tot april biedt kalme zeeën, zonnig weer en het beste onderwaterzicht. De zuidwestmoesson (juni-september) brengt ruwe zee en regen, en veerboten kunnen worden geannuleerd. Maya Bay kan ook sluiten tijdens het moessonseizoen om milieuredenen."
+    }
+  },
+  "highlights": ["Maya Bay", "Phi Phi Viewpoint", "Pileh Lagoon", "Diving", "Bioluminescent Plankton"],
+  "tags": ["beach", "diving", "nightlife", "photography", "iconic", "backpacker", "adventure"],
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Phi Phi 2026: Maya Bay, Diving & Island Guide",
+      "nl": "Koh Phi Phi 2026: Maya Bay, Duiken & Eilandgids"
+    },
+    "metaDescription": {
+      "en": "Complete Koh Phi Phi guide 2026. Visit Maya Bay, best diving spots, viewpoint hike & nightlife. Everything for your Phi Phi island trip!",
+      "nl": "Complete Koh Phi Phi gids 2026. Bezoek Maya Bay, beste duikplekken, uitzichtpuntwandeling & nachtleven. Alles voor je Phi Phi eilandreis!"
+    }
+  }
+}

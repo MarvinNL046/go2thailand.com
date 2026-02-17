@@ -1,0 +1,195 @@
+{
+  "slug": "koh-lipe",
+  "name": { "en": "Koh Lipe", "nl": "Koh Lipe" },
+  "region": "Andaman Sea",
+  "province": "Satun",
+  "image": "/images/islands/koh-lipe.webp",
+  "description": {
+    "en": "Often called the 'Maldives of Thailand,' Koh Lipe is a tiny island in the far south of the Andaman Sea, within the Tarutao National Marine Park. Despite being just 2 kilometers wide, Lipe boasts some of Thailand's most pristine beaches and crystal-clear water teeming with marine life. The island is home to the Chao Leh (sea gypsy) community who have lived here for generations. Car-free and walkable in 20 minutes from one end to the other, Lipe offers a uniquely intimate tropical island experience.",
+    "nl": "Vaak de 'Malediven van Thailand' genoemd, is Koh Lipe een klein eilandje in het uiterste zuiden van de Andamanzee, binnen het Tarutao Nationaal Marien Park. Ondanks dat het slechts 2 kilometer breed is, heeft Lipe enkele van de meest ongerepte stranden en kristalhelder water vol zeeleven van Thailand. Het eiland is de thuisbasis van de Chao Leh (zeezigeuner) gemeenschap die hier al generaties lang woont. Autovrij en in 20 minuten van het ene einde naar het andere te lopen, biedt Lipe een uniek intieme tropische eilandervaring."
+  },
+  "beaches": [
+    {
+      "name": "Pattaya Beach",
+      "description": {
+        "en": "The main arrival beach and the longest on the island, with turquoise water and soft white sand. Speedboats dock here and the beach can get busy during the day, but the water clarity is consistently excellent. Great snorkeling directly from shore.",
+        "nl": "Het belangrijkste aankomststrand en het langste van het eiland, met turquoise water en zacht wit zand. Speedboten leggen hier aan en het strand kan overdag druk zijn, maar de helderheid van het water is constant uitstekend. Geweldig snorkelen direct vanaf de kust."
+      },
+      "best_for": ["snorkeling", "arrival point", "water clarity"]
+    },
+    {
+      "name": "Sunrise Beach",
+      "description": {
+        "en": "A stunning east-facing beach with some of the best snorkeling on the island right off the shore. As the name suggests, the sunrise views are spectacular. The beach is lined with resorts but feels less crowded than Pattaya Beach.",
+        "nl": "Een prachtig strand op het oosten met enkele van de beste snorkelmogelijkheden van het eiland direct vanaf de kust. Zoals de naam al doet vermoeden, zijn de uitzichten bij zonsopgang spectaculair. Het strand is omzoomd met resorts maar voelt minder druk aan dan Pattaya Beach."
+      },
+      "best_for": ["sunrise", "snorkeling", "relaxation", "romance"]
+    },
+    {
+      "name": "Sunset Beach (Haad Pramong)",
+      "description": {
+        "en": "A small, intimate beach on the west side perfect for watching the sun dip behind the Andaman Sea. Rocky at the edges with a sandy center, offering excellent snorkeling around the boulders. Less developed with a handful of beach bars.",
+        "nl": "Een klein, intiem strand aan de westzijde, perfect om te zien hoe de zon achter de Andamanzee ondergaat. Rotsachtig aan de randen met een zandig midden, met uitstekend snorkelen rond de rotsblokken. Minder ontwikkeld met een handvol strandbars."
+      },
+      "best_for": ["sunset", "snorkeling", "atmosphere"]
+    },
+    {
+      "name": "Karma Beach",
+      "description": {
+        "en": "A hidden gem on the northern tip of the island, accessible by a short trail. This secluded cove has crystal-clear water and excellent coral for snorkeling. Rarely crowded, making it ideal for those seeking solitude.",
+        "nl": "Een verborgen juweeltje aan de noordpunt van het eiland, bereikbaar via een kort pad. Deze afgelegen inham heeft kristalhelder water en uitstekend koraal om te snorkelen. Zelden druk, waardoor het ideaal is voor wie afzondering zoekt."
+      },
+      "best_for": ["seclusion", "snorkeling", "nature"]
+    }
+  ],
+  "activities": [
+    {
+      "name": "Island Hopping in Tarutao Marine Park",
+      "type": "day_trip",
+      "description": {
+        "en": "Full-day tours visit nearby islands including Koh Adang (with its viewpoint hike), Koh Rawi (pristine beaches), and Koh Jabang (stunning coral). The marine park protects some of Thailand's healthiest reef systems. Longtail boats can be chartered or join group tours.",
+        "nl": "Hele dag tours bezoeken nabijgelegen eilanden waaronder Koh Adang (met uitzichtpuntwandeling), Koh Rawi (ongerepte stranden) en Koh Jabang (prachtig koraal). Het mariene park beschermt enkele van de gezondste rifsystemen van Thailand. Longtailboten kunnen worden gehuurd of je kunt meedoen met groepstours."
+      },
+      "price_range": "$$"
+    },
+    {
+      "name": "Snorkeling",
+      "type": "water_sport",
+      "description": {
+        "en": "Some of the best snorkeling in Thailand is found right off Koh Lipe's beaches. No boat needed for amazing coral and fish at Sunrise Beach and Sunset Beach. For even better sites, half-day trips visit Koh Hin Ngam (with its unique stacked-stone beach), Koh Yang, and the famous 8-Mile Rock.",
+        "nl": "Enkele van de beste snorkelmogelijkheden in Thailand zijn te vinden direct voor de stranden van Koh Lipe. Geen boot nodig voor prachtig koraal en vissen bij Sunrise Beach en Sunset Beach. Voor nog betere plekken bezoeken halve dag tochten Koh Hin Ngam (met zijn unieke gestapelde stenen strand), Koh Yang en de beroemde 8-Mile Rock."
+      },
+      "price_range": "$-$$"
+    },
+    {
+      "name": "Walking Street",
+      "type": "food",
+      "description": {
+        "en": "The island's main 'road' connecting Pattaya Beach to Sunrise Beach, lined with restaurants, bars, dive shops, massage parlors, and small shops. The evening atmosphere is charming with fairy lights and the smell of fresh grilled seafood. Try the fresh fish barbecue stands.",
+        "nl": "De belangrijkste 'weg' van het eiland die Pattaya Beach met Sunrise Beach verbindt, omzoomd met restaurants, bars, duikwinkels, massagesalons en kleine winkels. De avondsfeer is charmant met lichtjes en de geur van vers gegrilde zeevruchten. Probeer de verse visgrill kramen."
+      },
+      "price_range": "$-$$"
+    },
+    {
+      "name": "Scuba Diving",
+      "type": "diving",
+      "description": {
+        "en": "The waters around Koh Lipe offer some of Thailand's best diving with sites like Stonehenge (dramatic rock formations), 8-Mile Rock (large pelagic fish), and soft coral gardens. Whale sharks and manta rays are occasionally spotted. Several PADI dive centers operate on the island.",
+        "nl": "De wateren rond Koh Lipe bieden enkele van de beste duikplekken van Thailand met locaties zoals Stonehenge (dramatische rotsformaties), 8-Mile Rock (grote pelagische vissen) en zachte koraaltuinen. Walvishaaien en mantaroggen worden af en toe gespot. Verschillende PADI duikcentra zijn actief op het eiland."
+      },
+      "price_range": "$$-$$$"
+    },
+    {
+      "name": "Koh Adang Viewpoint Hike",
+      "type": "hiking",
+      "description": {
+        "en": "A moderately challenging hike on neighboring Koh Adang (a 15-minute longtail ride from Lipe) leading to Chado Cliff viewpoint with breathtaking panoramic views of Koh Lipe and the surrounding islands. The hike takes about 45 minutes one way.",
+        "nl": "Een matig uitdagende wandeling op het naburige Koh Adang (15 minuten per longtailboot vanaf Lipe) die leidt naar het Chado Cliff uitzichtpunt met adembenemend panoramisch uitzicht op Koh Lipe en de omliggende eilanden. De wandeling duurt ongeveer 45 minuten enkele reis."
+      },
+      "price_range": "$"
+    }
+  ],
+  "getting_there": {
+    "from_bangkok": {
+      "options": [
+        {
+          "method": "Flight to Hat Yai + Minivan + Speedboat",
+          "duration": "5-6 hours",
+          "price": "฿2,000-4,500",
+          "description": {
+            "en": "Fly to Hat Yai airport (1.5 hours), then take a minivan to Pak Bara Pier (2 hours), then a speedboat to Koh Lipe (1.5 hours). This is the most common route. Combined tickets are available. Boats run from mid-October to May only.",
+            "nl": "Vlieg naar de luchthaven van Hat Yai (1,5 uur), neem vervolgens een minibus naar Pak Bara Pier (2 uur) en dan een speedboot naar Koh Lipe (1,5 uur). Dit is de meest gebruikelijke route. Gecombineerde tickets zijn beschikbaar. Boten varen alleen van half oktober tot mei."
+          }
+        },
+        {
+          "method": "Flight to Trang + Transfer + Speedboat",
+          "duration": "5-6 hours",
+          "price": "฿2,000-4,000",
+          "description": {
+            "en": "Fly to Trang airport, transfer to Pak Bara Pier, then speedboat to Koh Lipe. An alternative to Hat Yai with sometimes better flight prices. Nok Air and AirAsia serve Trang.",
+            "nl": "Vlieg naar de luchthaven van Trang, transfer naar Pak Bara Pier, vervolgens speedboot naar Koh Lipe. Een alternatief voor Hat Yai met soms betere vliegprijzen. Nok Air en AirAsia vliegen op Trang."
+          }
+        },
+        {
+          "method": "Langkawi (Malaysia) Ferry",
+          "duration": "1.5 hours from Langkawi",
+          "price": "฿800-1,200",
+          "description": {
+            "en": "International ferries connect Langkawi (Malaysia) to Koh Lipe during high season (October-May). Immigration is handled at a floating platform. A unique option for those traveling between Thailand and Malaysia.",
+            "nl": "Internationale veerboten verbinden Langkawi (Maleisië) met Koh Lipe tijdens het hoogseizoen (oktober-mei). Immigratie wordt afgehandeld op een drijvend platform. Een unieke optie voor reizigers tussen Thailand en Maleisië."
+          }
+        },
+        {
+          "method": "Overnight Bus/Train + Speedboat",
+          "duration": "16-18 hours",
+          "price": "฿800-1,500",
+          "description": {
+            "en": "Overnight bus or train from Bangkok to Hat Yai or Trang, then minivan to Pak Bara, then speedboat to Lipe. The budget option requiring patience. Sleeper trains to Hat Yai are comfortable.",
+            "nl": "Nachtbus of trein van Bangkok naar Hat Yai of Trang, vervolgens minibus naar Pak Bara en dan speedboot naar Lipe. De budget optie die geduld vereist. Slaaptreinen naar Hat Yai zijn comfortabel."
+          }
+        }
+      ]
+    }
+  },
+  "accommodation_tips": {
+    "areas": [
+      {
+        "name": "Sunrise Beach",
+        "description": {
+          "en": "The most popular area for mid-range and upscale stays, with the best snorkeling right off the beach. Resorts range from simple bungalows to luxury beachfront rooms. Book well in advance for peak season.",
+          "nl": "Het populairste gebied voor verblijf in het midden- en hogere segment, met het beste snorkelen direct voor het strand. Resorts variëren van eenvoudige bungalows tot luxe kamers aan het strand. Boek ruim van tevoren voor het hoogseizoen."
+        },
+        "price_range": "$$-$$$$"
+      },
+      {
+        "name": "Pattaya Beach",
+        "description": {
+          "en": "Convenient location near Walking Street and the main arrival point. Good range of budget to mid-range options. Can be noisy from boat arrivals during the day.",
+          "nl": "Handige locatie nabij Walking Street en het belangrijkste aankomstpunt. Goed aanbod van budget tot middensegment opties. Kan overdag lawaaierig zijn door aankomende boten."
+        },
+        "price_range": "$-$$$"
+      },
+      {
+        "name": "Sunset Beach",
+        "description": {
+          "en": "The most peaceful area with a handful of boutique resorts and bungalows. Perfect for romantic getaways. Limited dining options but Walking Street is just a short walk away.",
+          "nl": "Het meest rustige gebied met een handvol boetiekresorts en bungalows. Perfect voor romantische uitjes. Beperkte eetmogelijkheden maar Walking Street is slechts een korte wandeling verwijderd."
+        },
+        "price_range": "$$-$$$"
+      }
+    ]
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$30-50",
+      "mid": "$60-120",
+      "luxury": "$150+"
+    },
+    "currency_tips": {
+      "en": "There are a few ATMs on the island but they frequently run out of cash during peak season. Bring enough Thai baht from the mainland. Exchange rates on the island are poor. Some establishments accept credit cards but cash is king. Prices on Koh Lipe are higher than mainland Thailand due to transport costs.",
+      "nl": "Er zijn een paar geldautomaten op het eiland maar deze zijn tijdens het hoogseizoen regelmatig leeg. Neem genoeg Thaise baht mee vanaf het vasteland. Wisselkoersen op het eiland zijn ongunstig. Sommige gelegenheden accepteren creditcards maar contant geld is koning. Prijzen op Koh Lipe zijn hoger dan op het vasteland van Thailand vanwege transportkosten."
+    }
+  },
+  "best_time_to_visit": {
+    "high_season": "Nov-Apr",
+    "shoulder": "May, Oct",
+    "low_season": "Jun-Sep",
+    "avoid": "Jun-Sep",
+    "description": {
+      "en": "Koh Lipe is effectively a seasonal destination. Most speedboat services stop during the monsoon season (June-September), making the island difficult to reach. Many businesses close during this period. November to April offers perfect conditions with calm seas and excellent visibility. The island is busiest during Christmas/New Year and Chinese New Year.",
+      "nl": "Koh Lipe is in feite een seizoensbestemming. De meeste speedbootdiensten stoppen tijdens het moessonseizoen (juni-september), waardoor het eiland moeilijk bereikbaar is. Veel bedrijven sluiten tijdens deze periode. November tot april biedt perfecte omstandigheden met kalme zeeën en uitstekend zicht. Het eiland is het drukst tijdens kerst/nieuwjaar en Chinees Nieuwjaar."
+    }
+  },
+  "highlights": ["Pattaya Beach", "Tarutao Marine Park", "Sunrise Beach Snorkeling", "Walking Street", "Koh Adang"],
+  "tags": ["beach", "snorkeling", "diving", "romantic", "pristine", "remote"],
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Lipe 2026: Thailand's Maldives - Beaches & Snorkeling Guide",
+      "nl": "Koh Lipe 2026: De Malediven van Thailand - Stranden & Snorkelgids"
+    },
+    "metaDescription": {
+      "en": "Complete Koh Lipe guide 2026. Crystal-clear waters, best snorkeling spots, how to get there & where to stay. Discover Thailand's hidden paradise island!",
+      "nl": "Complete Koh Lipe gids 2026. Kristalhelder water, beste snorkelplekken, hoe er te komen & waar te verblijven. Ontdek het verborgen paradijseiland van Thailand!"
+    }
+  }
+}

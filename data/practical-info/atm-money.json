@@ -1,0 +1,114 @@
+{
+  "slug": "atm-money",
+  "title": { "en": "Thailand ATM & Money Guide", "nl": "Thailand Geldautomaat & Geldgids" },
+  "icon": "💰",
+  "description": {
+    "en": "Understanding how money works in Thailand will save you significant amounts on fees and exchange rates. This guide covers everything you need to know about ATMs, currency exchange, credit cards, mobile payments, and how to get the best exchange rates. The Thai currency is the Baht (THB), and knowing how to manage your money smartly can save you hundreds of euros over a typical trip.",
+    "nl": "Begrijpen hoe geld werkt in Thailand kan je aanzienlijke bedragen besparen op kosten en wisselkoersen. Deze gids behandelt alles wat je moet weten over geldautomaten, valutawissel, creditcards, mobiele betalingen en hoe je de beste wisselkoersen krijgt. De Thaise valuta is de Baht (THB), en slim omgaan met je geld kan je honderden euro's besparen tijdens een typische reis."
+  },
+  "sections": [
+    {
+      "title": { "en": "ATM Usage in Thailand", "nl": "Geldautomaat Gebruik in Thailand" },
+      "items": [
+        {
+          "name": { "en": "ATM Fees", "nl": "Geldautomaat Kosten" },
+          "description": { "en": "All Thai ATMs charge a flat fee of 220 THB (~$6.50 USD) per withdrawal for foreign cards. This is in addition to any fees your home bank charges. The maximum withdrawal per transaction is typically 20,000-30,000 THB depending on the bank and ATM.", "nl": "Alle Thaise geldautomaten rekenen een vast bedrag van 220 THB (~$6,50 USD) per opname voor buitenlandse kaarten. Dit is bovenop eventuele kosten die je thuisbank rekent. Het maximale opnamebedrag per transactie is doorgaans 20.000-30.000 THB afhankelijk van de bank en geldautomaat." },
+          "how_to_avoid": { "en": "Minimize ATM visits by withdrawing the maximum amount each time. Use a travel-friendly bank card that reimburses foreign ATM fees (like Wise, Revolut, or N26). The Aeon ATM machines inside AEON and some 7-Elevens do not charge the 220 THB fee for some foreign cards.", "nl": "Minimaliseer geldautomaat-bezoeken door het maximale bedrag per keer op te nemen. Gebruik een reisvriendelijke bankkaart die buitenlandse geldautomaatkosten vergoedt (zoals Wise, Revolut of N26). De Aeon-geldautomaten in AEON-winkels en sommige 7-Elevens rekenen voor sommige buitenlandse kaarten niet de 220 THB-toeslag." }
+        },
+        {
+          "name": { "en": "Dynamic Currency Conversion (DCC) Trap", "nl": "Dynamische Valutaomrekening (DCC) Val" },
+          "description": { "en": "When using an ATM, the machine will ask if you want to be charged in your home currency (EUR, USD, etc.) or in Thai Baht. This is called Dynamic Currency Conversion. If you choose your home currency, the ATM applies a terrible exchange rate with a markup of 3-5%, costing you significantly more.", "nl": "Bij gebruik van een geldautomaat vraagt de machine of je wilt afrekenen in je thuisvaluta (EUR, USD, etc.) of in Thaise Baht. Dit heet Dynamische Valutaomrekening. Als je je thuisvaluta kiest, past de geldautomaat een slechte wisselkoers toe met een opslag van 3-5%, waardoor je aanzienlijk meer betaalt." },
+          "how_to_avoid": { "en": "ALWAYS choose 'Thai Baht' or 'without conversion' when the ATM asks about currency. This lets your own bank handle the conversion at a much better rate. This applies to ATMs and credit card terminals in shops and restaurants too.", "nl": "Kies ALTIJD 'Thai Baht' of 'zonder conversie' wanneer de geldautomaat vraagt over valuta. Hierdoor handelt je eigen bank de conversie af tegen een veel betere koers. Dit geldt ook voor geldautomaten en creditcard terminals in winkels en restaurants." }
+        },
+        {
+          "name": { "en": "Best ATM Banks", "nl": "Beste Geldautomaat Banken" },
+          "description": { "en": "ATMs are everywhere in Thailand - in shopping malls, 7-Elevens, airports, and on main streets. Major Thai banks include Bangkok Bank (blue), Kasikorn Bank (green), SCB (purple), Krungthai (light blue), and Krungsri (yellow). All charge the same 220 THB foreign card fee.", "nl": "Geldautomaten zijn overal in Thailand - in winkelcentra, 7-Elevens, op luchthavens en aan hoofdstraten. Grote Thaise banken zijn Bangkok Bank (blauw), Kasikorn Bank (groen), SCB (paars), Krungthai (lichtblauw) en Krungsri (geel). Allemaal rekenen ze dezelfde 220 THB buitenlandse kaart-toeslag." },
+          "how_to_avoid": { "en": "Look for Aeon ATMs (often in AEON stores and some malls) which may waive the 220 THB fee. Alternatively, Citibank ATMs (found in Bangkok) also do not charge the local ATM fee, though they are less common.", "nl": "Zoek naar Aeon-geldautomaten (vaak in AEON-winkels en sommige winkelcentra) die de 220 THB-toeslag kunnen kwijtschelden. Als alternatief rekenen Citibank-geldautomaten (te vinden in Bangkok) ook geen lokale geldautomaatkosten, hoewel ze minder gebruikelijk zijn." }
+        }
+      ]
+    },
+    {
+      "title": { "en": "Currency Exchange", "nl": "Valutawissel" },
+      "items": [
+        {
+          "name": { "en": "Best Exchange Rates", "nl": "Beste Wisselkoersen" },
+          "description": { "en": "Exchange rates vary enormously between providers. Airport exchange booths offer the worst rates (5-10% below market rate). Banks offer moderate rates. The best rates are at licensed exchange offices in city centers, particularly SuperRich (green or orange), Vasu Exchange, and K79.", "nl": "Wisselkoersen varieren enorm tussen aanbieders. Wisselkantoren op de luchthaven bieden de slechtste koersen (5-10% onder de marktkoers). Banken bieden matige koersen. De beste koersen zijn bij gelicenseerde wisselkantoren in stadscentra, met name SuperRich (groen of oranje), Vasu Exchange en K79." },
+          "how_to_avoid": { "en": "Exchange only a small amount at the airport for immediate needs (taxi, SIM card). Exchange the bulk of your money at SuperRich or similar city exchange offices. Check rates at superrichthailand.com before visiting.", "nl": "Wissel slechts een klein bedrag op de luchthaven voor directe behoeften (taxi, SIM-kaart). Wissel het grootste deel van je geld bij SuperRich of vergelijkbare stadswisselkantoren. Controleer koersen op superrichthailand.com voordat je gaat." }
+        },
+        {
+          "name": { "en": "Exchanging Euros", "nl": "Euro's Wisselen" },
+          "description": { "en": "Euros are widely accepted at exchange offices throughout Thailand. As a major currency, EUR gets competitive rates. Bring clean, undamaged bills in large denominations (50 or 100 EUR notes) for the best rates - small or damaged bills may be refused or get lower rates.", "nl": "Euro's worden breed geaccepteerd bij wisselkantoren in heel Thailand. Als grote valuta krijgt de EUR concurrerende koersen. Neem schone, onbeschadigde biljetten mee in grote coupures (50 of 100 EUR biljetten) voor de beste koersen - kleine of beschadigde biljetten kunnen worden geweigerd of krijgen lagere koersen." },
+          "how_to_avoid": { "en": "Bring a mix of cash euros and a travel card like Wise. Euro notes should be crisp and unmarked for the best exchange rates at Thai exchange offices.", "nl": "Neem een mix van contante euro's en een reiskaart zoals Wise mee. Eurobiljetten moeten helder en ongemarkeerd zijn voor de beste wisselkoersen bij Thaise wisselkantoren." }
+        }
+      ]
+    },
+    {
+      "title": { "en": "Digital Payments & Cards", "nl": "Digitale Betalingen & Kaarten" },
+      "items": [
+        {
+          "name": { "en": "Credit & Debit Cards", "nl": "Credit- & Betaalkaarten" },
+          "description": { "en": "Visa and Mastercard are widely accepted in hotels, malls, large restaurants, and supermarkets. Many smaller shops, markets, and street food stalls are cash-only. Some merchants add a 2-3% surcharge for credit card payments. Contactless payments are becoming more common.", "nl": "Visa en Mastercard worden breed geaccepteerd in hotels, winkelcentra, grote restaurants en supermarkten. Veel kleinere winkels, markten en straatvoedselkramen accepteren alleen contant geld. Sommige handelaren rekenen een toeslag van 2-3% voor creditcardbetalingen. Contactloze betalingen worden steeds gebruikelijker." },
+          "how_to_avoid": { "en": "Always carry some cash (especially in smaller denominations) alongside your cards. Notify your bank before traveling to prevent card blocks. Use cards that do not charge foreign transaction fees (Wise, Revolut, N26, or bunq for Dutch travelers).", "nl": "Draag altijd wat contant geld bij je (vooral in kleinere coupures) naast je kaarten. Meld je bank voor je reist om kaartblokkeringen te voorkomen. Gebruik kaarten die geen buitenlandse transactiekosten rekenen (Wise, Revolut, N26 of bunq voor Nederlandse reizigers)." }
+        },
+        {
+          "name": { "en": "Wise Card (Recommended)", "nl": "Wise Kaart (Aanbevolen)" },
+          "description": { "en": "The Wise (formerly TransferWise) debit card is one of the best options for Thailand. It offers the real mid-market exchange rate with a small transparent fee, works at Thai ATMs, and reimburses or reduces ATM fees depending on your plan. You can hold Thai Baht in your account and convert at favorable rates.", "nl": "De Wise (voorheen TransferWise) betaalkaart is een van de beste opties voor Thailand. Het biedt de echte middenmarktkoers met een kleine transparante vergoeding, werkt bij Thaise geldautomaten en vergoedt of vermindert geldautomaatkosten afhankelijk van je abonnement. Je kunt Thaise Baht op je rekening houden en tegen gunstige koersen omwisselen." },
+          "how_to_avoid": { "en": "Order your Wise card at least 2 weeks before your trip. Load it with euros and convert to THB when the rate is favorable. Set up in the app before departure.", "nl": "Bestel je Wise kaart minstens 2 weken voor je reis. Laad het op met euro's en wissel om naar THB wanneer de koers gunstig is. Stel het in via de app voor vertrek." }
+        },
+        {
+          "name": { "en": "QR Payments & Thai Banking Apps", "nl": "QR Betalingen & Thaise Bank-apps" },
+          "description": { "en": "Thailand has a highly developed QR payment system called PromptPay, used by almost all Thai vendors. However, this requires a Thai bank account. Some international apps like Alipay and WeChat Pay are accepted at some tourist-oriented shops. Cash and international cards remain the best options for tourists.", "nl": "Thailand heeft een zeer ontwikkeld QR-betalingssysteem genaamd PromptPay, dat door bijna alle Thaise verkopers wordt gebruikt. Dit vereist echter een Thaise bankrekening. Sommige internationale apps zoals Alipay en WeChat Pay worden geaccepteerd bij sommige op toeristen gerichte winkels. Contant geld en internationale kaarten blijven de beste opties voor toeristen." },
+          "how_to_avoid": { "en": "If staying long-term, consider opening a Thai bank account (Bangkok Bank and Kasikorn are foreigner-friendly) to access PromptPay for seamless payments.", "nl": "Als je langdurig verblijft, overweeg een Thaise bankrekening te openen (Bangkok Bank en Kasikorn zijn buitenlander-vriendelijk) om toegang te krijgen tot PromptPay voor naadloze betalingen." }
+        }
+      ]
+    },
+    {
+      "title": { "en": "Tipping & Bargaining", "nl": "Fooien & Onderhandelen" },
+      "items": [
+        {
+          "name": { "en": "Tipping Culture", "nl": "Fooiencultuur" },
+          "description": { "en": "Tipping is not mandatory in Thailand but is appreciated. In restaurants, a 10% service charge is often included in the bill. If not, rounding up or leaving 20-50 THB is customary. For massages, a tip of 50-100 THB is standard. Taxi drivers do not expect tips but rounding up the fare is polite.", "nl": "Fooien zijn niet verplicht in Thailand maar worden gewaardeerd. In restaurants is een toeslag van 10% servicekosten vaak inbegrepen in de rekening. Als dat niet het geval is, is het gebruikelijk om af te ronden of 20-50 THB achter te laten. Voor massages is een fooi van 50-100 THB standaard. Taxichauffeurs verwachten geen fooi maar het afronden van het tarief is beleefd." },
+          "how_to_avoid": { "en": "Check if service charge is already included in your restaurant bill before tipping extra. Keep small bills for tips.", "nl": "Controleer of de servicekosten al in je restaurantrekening zijn opgenomen voordat je extra fooi geeft. Bewaar kleine biljetten voor fooien." }
+        },
+        {
+          "name": { "en": "Bargaining Tips", "nl": "Onderhandelingstips" },
+          "description": { "en": "Bargaining is expected at markets, street stalls, and tuk-tuk/taxi rides without meters. It is not appropriate in shopping malls, restaurants, convenience stores, or places with fixed prices. Start at 40-60% of the asking price and work toward a fair middle ground.", "nl": "Onderhandelen wordt verwacht op markten, straatkramen en bij tuk-tuk/taxiritten zonder meter. Het is niet gepast in winkelcentra, restaurants, gemakswinkels of plaatsen met vaste prijzen. Begin bij 40-60% van de vraagprijs en werk naar een eerlijk midden." },
+          "how_to_avoid": { "en": "Be friendly and smile while bargaining - it is a social interaction, not a confrontation. Walk away if the price is too high - the vendor will often call you back with a lower offer.", "nl": "Wees vriendelijk en glimlach tijdens het onderhandelen - het is een sociale interactie, geen confrontatie. Loop weg als de prijs te hoog is - de verkoper roept je vaak terug met een lager aanbod." }
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": { "en": "Should I bring cash euros or use a travel card?", "nl": "Moet ik contante euro's meenemen of een reiskaart gebruiken?" },
+      "answer": { "en": "Ideally both. Bring 200-300 EUR in cash (large denominations, clean bills) for exchange at SuperRich or similar offices at excellent rates. Use a Wise or Revolut card for ATM withdrawals and card payments as backup. This combination gives you the best rates and maximum flexibility.", "nl": "Ideaal gezien beide. Neem 200-300 EUR contant mee (grote coupures, schone biljetten) om te wisselen bij SuperRich of vergelijkbare kantoren tegen uitstekende koersen. Gebruik een Wise of Revolut kaart voor geldautomaat opnames en kaartbetalingen als back-up. Deze combinatie geeft je de beste koersen en maximale flexibiliteit." }
+    },
+    {
+      "question": { "en": "How much money should I budget per day in Thailand?", "nl": "Hoeveel geld moet ik per dag budgetteren in Thailand?" },
+      "answer": { "en": "Budget travelers can spend 800-1,500 THB/day ($25-45) using hostels, street food, and public transport. Mid-range travelers typically spend 2,000-4,000 THB/day ($60-115) with 3-star hotels, restaurants, and some activities. Luxury travelers can spend 6,000-15,000+ THB/day ($175-430+) at premium resorts with private tours and fine dining.", "nl": "Budgetreizigers kunnen 800-1.500 THB/dag ($25-45) uitgeven met hostels, straatvoedsel en openbaar vervoer. Middenklasse reizigers besteden doorgaans 2.000-4.000 THB/dag ($60-115) met 3-sterrenhotels, restaurants en enkele activiteiten. Luxe reizigers kunnen 6.000-15.000+ THB/dag ($175-430+) uitgeven in premium resorts met prive tours en fine dining." }
+    },
+    {
+      "question": { "en": "Can I use my Dutch debit card (Maestro) in Thailand?", "nl": "Kan ik mijn Nederlandse betaalpas (Maestro) gebruiken in Thailand?" },
+      "answer": { "en": "Maestro cards work at most Thai ATMs for cash withdrawals, but are rarely accepted for point-of-sale payments. Visa and Mastercard debit cards are more widely accepted. Many Dutch travelers use a Wise or Revolut card alongside their regular bank card. Check with your bank about foreign usage fees before traveling.", "nl": "Maestro-kaarten werken bij de meeste Thaise geldautomaten voor contant geld opnemen, maar worden zelden geaccepteerd voor betalingen in winkels. Visa en Mastercard betaalkaarten worden breder geaccepteerd. Veel Nederlandse reizigers gebruiken een Wise of Revolut kaart naast hun reguliere bankpas. Vraag bij je bank naar kosten voor buitenlands gebruik voor vertrek." }
+    },
+    {
+      "question": { "en": "Is it safe to use ATMs in Thailand?", "nl": "Is het veilig om geldautomaten te gebruiken in Thailand?" },
+      "answer": { "en": "Yes, ATMs in Thailand are generally safe. Use ATMs attached to bank branches or inside shopping malls for extra security. Cover the keypad when entering your PIN. Avoid standalone ATMs in dimly lit areas. Card skimming is rare but not unknown - check the card slot for anything unusual before inserting your card.", "nl": "Ja, geldautomaten in Thailand zijn over het algemeen veilig. Gebruik geldautomaten bij bankfilialen of in winkelcentra voor extra veiligheid. Bedek het toetsenbord bij het invoeren van je PIN. Vermijd losstaande geldautomaten in slecht verlichte gebieden. Kaartskimming is zeldzaam maar niet onbekend - controleer de kaartsleuf op iets ongebruikelijks voordat je je kaart insteekt." }
+    },
+    {
+      "question": { "en": "What denominations do Thai Baht come in?", "nl": "In welke coupures komt de Thaise Baht?" },
+      "answer": { "en": "Thai Baht banknotes come in 20 (green), 50 (blue), 100 (red), 500 (purple), and 1,000 (brown/grey) THB. Coins are 1, 2, 5, and 10 THB. Tip: Breaking 1,000 THB notes can be difficult at small shops and street stalls. Try to keep a supply of smaller bills for daily purchases.", "nl": "Thaise Baht bankbiljetten zijn er in 20 (groen), 50 (blauw), 100 (rood), 500 (paars) en 1.000 (bruin/grijs) THB. Munten zijn 1, 2, 5 en 10 THB. Tip: Biljetten van 1.000 THB wisselen kan moeilijk zijn bij kleine winkels en straatkramen. Probeer een voorraad kleinere biljetten te hebben voor dagelijkse aankopen." }
+    }
+  ],
+  "tips": [
+    { "en": "Always choose 'Thai Baht' when an ATM or card terminal asks about currency conversion - this saves you 3-5% every time.", "nl": "Kies altijd 'Thai Baht' wanneer een geldautomaat of kaart terminal vraagt over valutaconversie - dit bespaart je elke keer 3-5%." },
+    { "en": "Get a Wise or Revolut card before your trip - they offer the best exchange rates and lowest fees for Thailand.", "nl": "Neem een Wise of Revolut kaart voor je reis - ze bieden de beste wisselkoersen en laagste kosten voor Thailand." },
+    { "en": "Exchange your euros at SuperRich (green or orange branch) for the best rates in Bangkok and other major cities.", "nl": "Wissel je euro's bij SuperRich (groene of oranje vestiging) voor de beste koersen in Bangkok en andere grote steden." },
+    { "en": "Keep 1,000-2,000 THB in small bills (20s, 50s, 100s) in a separate pocket for daily expenses like food and transport.", "nl": "Bewaar 1.000-2.000 THB in kleine biljetten (20's, 50's, 100's) in een aparte zak voor dagelijkse uitgaven zoals eten en vervoer." }
+  ],
+  "last_updated": "2026-02-17",
+  "seo": {
+    "metaTitle": { "en": "Thailand ATM & Money Guide 2026: Best Cards, Exchange & Tips", "nl": "Thailand Geldautomaat & Geldgids 2026: Beste Kaarten, Wissel & Tips" },
+    "metaDescription": { "en": "Save money in Thailand with our 2026 ATM and currency guide. Best travel cards, avoiding ATM fees, exchange rate tips, and budgeting advice.", "nl": "Bespaar geld in Thailand met onze 2026 geldautomaat- en valutagids. Beste reiskaarten, geldautomaatkosten vermijden, wisselkoerstips en budgetadvies." }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "tourist-visa",
+  "title": { "en": "Tourist Visa (TR)", "nl": "Toeristenvisum (TR)" },
+  "icon": "✈️",
+  "category": "tourist",
+  "description": {
+    "en": "The Thailand Tourist Visa (TR) is a single or multiple-entry visa that allows you to stay in Thailand for 60 days per entry. It is ideal for travelers who want guaranteed entry or who come from countries not eligible for visa-free entry. The multiple-entry version is valid for 6 months and allows unlimited entries during that period.",
+    "nl": "Het Thailand Toeristenvisum (TR) is een visum voor enkele of meervoudige binnenkomst dat je toestaat om 60 dagen per binnenkomst in Thailand te verblijven. Het is ideaal voor reizigers die gegarandeerde toegang willen of uit landen komen die niet in aanmerking komen voor visumvrije toegang. De meervoudige versie is 6 maanden geldig en staat onbeperkt binnenkomsten toe gedurende die periode."
+  },
+  "requirements": [
+    {
+      "item": { "en": "Valid passport", "nl": "Geldig paspoort" },
+      "detail": { "en": "Must have at least 6 months validity and at least 2 blank pages", "nl": "Moet minimaal 6 maanden geldig zijn en minimaal 2 lege pagina's hebben" }
+    },
+    {
+      "item": { "en": "Completed visa application form", "nl": "Ingevuld visumaanvraagformulier" },
+      "detail": { "en": "Download from the Thai embassy website or apply online via the e-Visa system", "nl": "Download van de website van de Thaise ambassade of vraag online aan via het e-Visum systeem" }
+    },
+    {
+      "item": { "en": "Passport-sized photos", "nl": "Pasfoto's" },
+      "detail": { "en": "Two recent photos (4x6 cm) with white background", "nl": "Twee recente foto's (4x6 cm) met witte achtergrond" }
+    },
+    {
+      "item": { "en": "Proof of travel", "nl": "Reisbewijs" },
+      "detail": { "en": "Confirmed return or onward flight booking", "nl": "Bevestigde retour- of doorvluchtboeking" }
+    },
+    {
+      "item": { "en": "Proof of accommodation", "nl": "Bewijs van accommodatie" },
+      "detail": { "en": "Hotel reservation or invitation letter from a host in Thailand", "nl": "Hotelreservering of uitnodigingsbrief van een gastheer in Thailand" }
+    },
+    {
+      "item": { "en": "Financial proof", "nl": "Financieel bewijs" },
+      "detail": { "en": "Bank statement showing at least 20,000 THB equivalent per person", "nl": "Bankafschrift met minimaal het equivalent van 20.000 THB per persoon" }
+    }
+  ],
+  "duration": {
+    "initial": "60 days per entry",
+    "extensions": {
+      "en": "Each 60-day entry can be extended once for 30 days at an immigration office (1,900 THB). Multiple-entry visa is valid for 6 months from date of issue, allowing multiple 60-day stays.",
+      "nl": "Elke 60-dagenbinnenkomst kan eenmalig verlengd worden met 30 dagen bij een immigratiekantoor (1.900 THB). Het meervoudige visum is 6 maanden geldig vanaf de afgiftedatum en staat meerdere verblijven van 60 dagen toe."
+    }
+  },
+  "cost": {
+    "entry": "1,000 THB (~$30 USD) for single entry, 5,000 THB (~$145 USD) for multiple entry",
+    "extension": "1,900 THB (~$55 USD) per extension"
+  },
+  "process": {
+    "steps": [
+      {
+        "step": 1,
+        "title": { "en": "Apply at Embassy or Online", "nl": "Aanvragen bij Ambassade of Online" },
+        "description": { "en": "Submit your application at the nearest Thai embassy or consulate, or apply online through Thailand's e-Visa system (thaievisa.go.th). Processing takes 5-10 business days.", "nl": "Dien je aanvraag in bij de dichtstbijzijnde Thaise ambassade of consulaat, of vraag online aan via het Thaise e-Visum systeem (thaievisa.go.th). Verwerking duurt 5-10 werkdagen." }
+      },
+      {
+        "step": 2,
+        "title": { "en": "Pay the Visa Fee", "nl": "Betaal de Visumkosten" },
+        "description": { "en": "Pay the applicable fee. Payment methods vary by embassy - some accept only cash or bank transfer, while e-Visa accepts credit cards.", "nl": "Betaal de toepasselijke kosten. Betaalmethoden verschillen per ambassade - sommige accepteren alleen contant geld of bankoverschrijving, terwijl e-Visum creditcards accepteert." }
+      },
+      {
+        "step": 3,
+        "title": { "en": "Collect Your Visa", "nl": "Haal je Visum op" },
+        "description": { "en": "Pick up your passport with the visa sticker from the embassy, or receive your e-Visa approval via email.", "nl": "Haal je paspoort op met de visumsticker bij de ambassade, of ontvang je e-Visum goedkeuring per e-mail." }
+      },
+      {
+        "step": 4,
+        "title": { "en": "Enter Thailand", "nl": "Reis Thailand Binnen" },
+        "description": { "en": "Present your passport with the visa at immigration. You must enter Thailand within 90 days of visa issuance.", "nl": "Presenteer je paspoort met het visum bij immigratie. Je moet Thailand binnenkomen binnen 90 dagen na afgifte van het visum." }
+      }
+    ]
+  },
+  "eligible_countries": [
+    "All nationalities can apply for a Tourist Visa at a Thai embassy or consulate"
+  ],
+  "faqs": [
+    {
+      "question": { "en": "What is the difference between visa-free entry and a Tourist Visa?", "nl": "Wat is het verschil tussen visumvrije toegang en een toeristenvisum?" },
+      "answer": { "en": "Visa-free entry requires no advance application but is only available to citizens of 93 eligible countries. The Tourist Visa must be applied for in advance at an embassy but is available to all nationalities. Both allow 60 days per entry with a 30-day extension option. The Tourist Visa also offers a multiple-entry option valid for 6 months.", "nl": "Visumvrije toegang vereist geen voorafgaande aanvraag, maar is alleen beschikbaar voor burgers van 93 in aanmerking komende landen. Het toeristenvisum moet vooraf worden aangevraagd bij een ambassade, maar is beschikbaar voor alle nationaliteiten. Beide staan 60 dagen per binnenkomst toe met een verlengingsoptie van 30 dagen. Het toeristenvisum biedt ook een meervoudige binnenkomst-optie die 6 maanden geldig is." }
+    },
+    {
+      "question": { "en": "Can I apply for a Tourist Visa from inside Thailand?", "nl": "Kan ik een toeristenvisum aanvragen vanuit Thailand?" },
+      "answer": { "en": "No, Tourist Visas must be applied for at a Thai embassy or consulate outside of Thailand, or online through the e-Visa system before traveling. If you are already in Thailand and want to extend your stay, you can apply for a 30-day extension at an immigration office.", "nl": "Nee, toeristenvisa moeten worden aangevraagd bij een Thaise ambassade of consulaat buiten Thailand, of online via het e-Visum systeem voor vertrek. Als je al in Thailand bent en je verblijf wilt verlengen, kun je een verlenging van 30 dagen aanvragen bij een immigratiekantoor." }
+    },
+    {
+      "question": { "en": "How long does the e-Visa application take?", "nl": "Hoe lang duurt de e-Visum aanvraag?" },
+      "answer": { "en": "The e-Visa application typically takes 5-10 business days to process. During peak travel season (November-February) it may take longer. Apply at least 3-4 weeks before your planned departure date.", "nl": "De e-Visum aanvraag duurt doorgaans 5-10 werkdagen om te verwerken. Tijdens het hoogseizoen (november-februari) kan het langer duren. Vraag minstens 3-4 weken voor je geplande vertrekdatum aan." }
+    },
+    {
+      "question": { "en": "Do I need a Tourist Visa if my country has visa-free entry?", "nl": "Heb ik een toeristenvisum nodig als mijn land visumvrije toegang heeft?" },
+      "answer": { "en": "No, if your country is on the visa-free list (including Netherlands, Belgium, and most EU countries), you can enter Thailand without a visa for 60 days. The Tourist Visa is mainly useful for nationalities not on the visa-free list, or if you want the multiple-entry option for frequent visits.", "nl": "Nee, als je land op de visumvrije lijst staat (inclusief Nederland, Belgie en de meeste EU-landen), kun je Thailand binnenkomen zonder visum voor 60 dagen. Het toeristenvisum is vooral nuttig voor nationaliteiten die niet op de visumvrije lijst staan, of als je de meervoudige binnenkomst-optie wilt voor frequente bezoeken." }
+    }
+  ],
+  "tips": [
+    { "en": "Apply for the e-Visa online at thaievisa.go.th - it is faster and easier than visiting an embassy in person.", "nl": "Vraag het e-Visum online aan via thaievisa.go.th - het is sneller en makkelijker dan persoonlijk een ambassade bezoeken." },
+    { "en": "If you plan multiple trips to Thailand within 6 months, the multiple-entry Tourist Visa offers great value.", "nl": "Als je meerdere reizen naar Thailand plant binnen 6 maanden, biedt het meervoudige toeristenvisum een goede waarde." },
+    { "en": "Keep digital copies of all submitted documents in case the embassy requests additional information.", "nl": "Bewaar digitale kopieen van alle ingediende documenten voor het geval de ambassade aanvullende informatie nodig heeft." },
+    { "en": "The Thai embassy in The Hague processes visa applications for Dutch residents - check their website for current requirements.", "nl": "De Thaise ambassade in Den Haag verwerkt visumaanvragen voor Nederlandse ingezetenen - controleer hun website voor actuele vereisten." }
+  ],
+  "last_updated": "2026-02-17",
+  "seo": {
+    "metaTitle": { "en": "Thailand Tourist Visa 2026: Application, Cost & Requirements", "nl": "Thailand Toeristenvisum 2026: Aanvraag, Kosten & Vereisten" },
+    "metaDescription": { "en": "How to apply for a Thailand Tourist Visa in 2026. Single and multiple entry options, e-Visa process, costs, required documents and processing times explained.", "nl": "Hoe vraag je een Thailand Toeristenvisum aan in 2026. Enkele en meervoudige binnenkomst, e-Visum procedure, kosten, vereiste documenten en verwerkingstijden uitgelegd." }
+  }
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "slug": "visa-free-entry",
+    "title": { "en": "Visa-Free Entry (60 Days)", "nl": "Visumvrije Toegang (60 Dagen)" },
+    "icon": "🛂",
+    "duration": "60 days",
+    "cost": "Free",
+    "category": "tourist"
+  },
+  {
+    "id": 2,
+    "slug": "tourist-visa",
+    "title": { "en": "Tourist Visa (TR)", "nl": "Toeristenvisum (TR)" },
+    "icon": "✈️",
+    "duration": "60 days",
+    "cost": "1,000 THB",
+    "category": "tourist"
+  },
+  {
+    "id": 3,
+    "slug": "digital-nomad-visa",
+    "title": { "en": "Digital Nomad Visa (DTV)", "nl": "Digitale Nomaden Visum (DTV)" },
+    "icon": "💻",
+    "duration": "5 years (180 days per entry)",
+    "cost": "10,000 THB",
+    "category": "work"
+  },
+  {
+    "id": 4,
+    "slug": "retirement-visa",
+    "title": { "en": "Retirement Visa (Non-O-A / Non-O)", "nl": "Pensioenvisum (Non-O-A / Non-O)" },
+    "icon": "🏖️",
+    "duration": "1 year (renewable)",
+    "cost": "2,000 THB",
+    "category": "long-stay"
+  },
+  {
+    "id": 5,
+    "slug": "education-visa",
+    "title": { "en": "Education Visa (Non-ED)", "nl": "Studievisum (Non-ED)" },
+    "icon": "🎓",
+    "duration": "90 days (extendable to 1 year)",
+    "cost": "2,000 THB",
+    "category": "long-stay"
+  },
+  {
+    "id": 6,
+    "slug": "thailand-elite-visa",
+    "title": { "en": "Thailand Privilege Card (Elite Visa)", "nl": "Thailand Privilege Card (Elite Visum)" },
+    "icon": "💎",
+    "duration": "5-20 years",
+    "cost": "From 600,000 THB",
+    "category": "premium"
+  },
+  {
+    "id": 7,
+    "slug": "ltr-visa",
+    "title": { "en": "Long-Term Residence Visa (LTR)", "nl": "Langverblijfsvisum (LTR)" },
+    "icon": "🏠",
+    "duration": "10 years",
+    "cost": "50,000 THB",
+    "category": "premium"
+  },
+  {
+    "id": 8,
+    "slug": "visa-extension",
+    "title": { "en": "Visa Extensions & Border Runs", "nl": "Visumverlengingen & Border Runs" },
+    "icon": "🔄",
+    "duration": "Varies",
+    "cost": "1,900 THB per extension",
+    "category": "general"
+  },
+  {
+    "id": 9,
+    "slug": "digital-arrival-card",
+    "title": { "en": "Digital Arrival Card (TM6 Online)", "nl": "Digitale Aankomstkaart (TM6 Online)" },
+    "icon": "📱",
+    "duration": "N/A",
+    "cost": "Free",
+    "category": "general"
+  }
+]

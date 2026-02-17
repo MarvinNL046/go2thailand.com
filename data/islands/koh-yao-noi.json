@@ -1,0 +1,178 @@
+{
+  "slug": "koh-yao-noi",
+  "name": { "en": "Koh Yao Noi", "nl": "Koh Yao Noi" },
+  "region": "Andaman Sea",
+  "province": "Phang Nga",
+  "image": "/images/islands/koh-yao-noi.webp",
+  "description": {
+    "en": "Nestled in the heart of Phang Nga Bay between Phuket and Krabi, Koh Yao Noi is one of Thailand's best-kept secrets. This small, predominantly Muslim island has resisted mass tourism development, preserving its rural charm with rice paddies, rubber plantations, and traditional fishing villages. The island offers spectacular views of Phang Nga Bay's iconic limestone karsts and serves as an ideal base for kayaking and island-hopping. It is a refreshing antidote to the tourist crowds on nearby Phuket.",
+    "nl": "Genesteld in het hart van Phang Nga Bay tussen Phuket en Krabi, is Koh Yao Noi een van de best bewaarde geheimen van Thailand. Dit kleine, overwegend islamitische eiland heeft massatoerisme-ontwikkeling weerstaan en behoudt zijn landelijke charme met rijstvelden, rubberplantages en traditionele vissersdorpen. Het eiland biedt spectaculair uitzicht op de iconische kalkstenen karstbergen van Phang Nga Bay en is een ideale uitvalsbasis voor kajakken en eilandhoppen. Het is een verfrissend tegengif voor de toeristendrukte op het nabijgelegen Phuket."
+  },
+  "beaches": [
+    {
+      "name": "Tha Khao Bay",
+      "description": {
+        "en": "The main beach on the east side of the island with a long stretch of sand looking out at the stunning limestone karsts of Phang Nga Bay. The water is shallow and calm, perfect for kayaking. Several resorts and restaurants line the shore.",
+        "nl": "Het belangrijkste strand aan de oostkant van het eiland met een lang stuk zand met uitzicht op de prachtige kalkstenen karstbergen van Phang Nga Bay. Het water is ondiep en kalm, perfect om te kajakken. Verschillende resorts en restaurants liggen langs de kust."
+      },
+      "best_for": ["kayaking", "views", "relaxation"]
+    },
+    {
+      "name": "Pasai Beach",
+      "description": {
+        "en": "A quiet beach on the northeast coast accessible by a dirt road, offering pristine conditions and beautiful views. Low tide reveals a wide sandflat perfect for walking, while high tide provides comfortable swimming depth.",
+        "nl": "Een rustig strand aan de noordoostkust bereikbaar via een onverharde weg, met ongerepte omstandigheden en prachtig uitzicht. Bij eb onthult zich een breed zandvlak perfect om te wandelen, terwijl vloed een comfortabele zwemdiepte biedt."
+      },
+      "best_for": ["seclusion", "walking", "photography"]
+    },
+    {
+      "name": "Lam Haed Beach",
+      "description": {
+        "en": "A beautiful sandbar tip at the northeast point of the island that appears at low tide, connecting to a tiny islet. The turquoise water and white sand create a picture-perfect scene. Accessible by motorbike or bicycle.",
+        "nl": "Een prachtige zandtong aan de noordoostpunt van het eiland die bij eb verschijnt en verbindt met een klein eilandje. Het turquoise water en witte zand creëren een perfect plaatje. Bereikbaar per motor of fiets."
+      },
+      "best_for": ["photography", "swimming", "low tide exploration"]
+    }
+  ],
+  "activities": [
+    {
+      "name": "Phang Nga Bay Kayaking",
+      "type": "adventure",
+      "description": {
+        "en": "Explore the stunning limestone karsts, sea caves, and hidden lagoons of Phang Nga Bay by kayak. Multi-day and single-day tours are available from the island, or rent a kayak and explore at your own pace. The calm waters make this suitable for beginners.",
+        "nl": "Verken de prachtige kalkstenen karstbergen, zeegrottes en verborgen lagunes van Phang Nga Bay per kajak. Meerdaagse en eendaagse tours zijn beschikbaar vanaf het eiland, of huur een kajak en verken op je eigen tempo. Het kalme water maakt dit geschikt voor beginners."
+      },
+      "price_range": "$$"
+    },
+    {
+      "name": "Cycling Around the Island",
+      "type": "adventure",
+      "description": {
+        "en": "Rent a bicycle and explore the island's quiet roads winding through rice paddies, rubber plantations, and small villages. The flat terrain makes cycling easy and enjoyable. Stop at local tea shops and fruit stalls along the way. The full circuit takes about 2-3 hours.",
+        "nl": "Huur een fiets en verken de rustige wegen van het eiland die door rijstvelden, rubberplantages en kleine dorpen slingeren. Het vlakke terrein maakt fietsen makkelijk en aangenaam. Stop bij lokale theehuizen en fruitkramen onderweg. Het volledige rondje duurt ongeveer 2-3 uur."
+      },
+      "price_range": "$"
+    },
+    {
+      "name": "Rock Climbing",
+      "type": "adventure",
+      "description": {
+        "en": "The limestone cliffs on Koh Yao Noi and the surrounding karsts offer excellent rock climbing routes. The Mountain Shop on the island provides guided climbing for all levels, including deep water soloing over the sea. A unique alternative to the more famous Railay climbing scene.",
+        "nl": "De kalkstenen kliffen op Koh Yao Noi en de omliggende karstbergen bieden uitstekende rotsklimroutes. The Mountain Shop op het eiland biedt begeleid klimmen voor alle niveaus, inclusief deep water soloing boven de zee. Een uniek alternatief voor de bekendere klimscene bij Railay."
+      },
+      "price_range": "$$"
+    },
+    {
+      "name": "Cooking Class with Local Family",
+      "type": "cultural",
+      "description": {
+        "en": "Join a local Muslim-Thai family for an intimate cooking experience, learning to prepare southern Thai dishes using fresh local ingredients. These small-group classes offer genuine cultural exchange and insight into island life. Includes market visit and lunch.",
+        "nl": "Doe mee met een lokale islamitisch-Thaise familie voor een intieme kookervaring, waar je leert zuidelijke Thaise gerechten te bereiden met verse lokale ingrediënten. Deze kleinschalige lessen bieden een oprechte culturele uitwisseling en inzicht in het eilandleven. Inclusief marktbezoek en lunch."
+      },
+      "price_range": "$-$$"
+    },
+    {
+      "name": "James Bond Island & Hong Islands Tour",
+      "type": "day_trip",
+      "description": {
+        "en": "Day trips from Koh Yao Noi visit famous Phang Nga Bay sights including James Bond Island (Khao Phing Kan), Hong Islands, and Panak Island's sea caves. Being based on Koh Yao Noi means shorter boat rides and fewer crowds compared to tours from Phuket.",
+        "nl": "Dagtochten vanaf Koh Yao Noi bezoeken beroemde bezienswaardigheden in Phang Nga Bay, waaronder James Bond Island (Khao Phing Kan), Hong Islands en de zeegrottes van Panak Island. Verblijven op Koh Yao Noi betekent kortere boottochten en minder drukte vergeleken met tours vanuit Phuket."
+      },
+      "price_range": "$$"
+    }
+  ],
+  "getting_there": {
+    "from_bangkok": {
+      "options": [
+        {
+          "method": "Flight to Phuket + Speedboat",
+          "duration": "2.5-3 hours",
+          "price": "฿1,500-4,000",
+          "description": {
+            "en": "Fly to Phuket (1.5 hours), then take a speedboat from Bang Rong Pier on Phuket's east coast (20-30 minutes). Speedboats run several times daily during high season. The most convenient route.",
+            "nl": "Vlieg naar Phuket (1,5 uur), neem vervolgens een speedboot vanaf Bang Rong Pier aan de oostkust van Phuket (20-30 minuten). Speedboten varen meerdere keren per dag tijdens het hoogseizoen. De handigste route."
+          }
+        },
+        {
+          "method": "Flight to Krabi + Longtail/Speedboat",
+          "duration": "3-4 hours",
+          "price": "฿1,500-3,500",
+          "description": {
+            "en": "Fly to Krabi airport, then take a transfer to Tha Lane Pier or Noppharat Thara Pier for a longtail boat (45 minutes) to Koh Yao Noi. Less frequent boats but can be cheaper than via Phuket.",
+            "nl": "Vlieg naar de luchthaven van Krabi, neem vervolgens een transfer naar Tha Lane Pier of Noppharat Thara Pier voor een longtailboot (45 minuten) naar Koh Yao Noi. Minder frequente boten maar kan goedkoper zijn dan via Phuket."
+          }
+        },
+        {
+          "method": "Flight to Phuket + Public Longtail",
+          "duration": "3-4 hours",
+          "price": "฿1,300-3,500",
+          "description": {
+            "en": "Fly to Phuket, then take a taxi to Bang Rong Pier and catch a local longtail boat (45 minutes, ฿150). Longtails depart roughly every 90 minutes during daylight hours. The cheapest boat option.",
+            "nl": "Vlieg naar Phuket, neem een taxi naar Bang Rong Pier en pak een lokale longtailboot (45 minuten, ฿150). Longtails vertrekken ongeveer elke 90 minuten tijdens de daglichturen. De goedkoopste bootoptie."
+          }
+        }
+      ]
+    }
+  },
+  "accommodation_tips": {
+    "areas": [
+      {
+        "name": "Tha Khao Bay (East Coast)",
+        "description": {
+          "en": "The main tourist area with the best views of Phang Nga Bay's karsts. Home to several boutique resorts and eco-lodges. The Six Senses Yao Noi, one of Thailand's top luxury resorts, is located here.",
+          "nl": "Het belangrijkste toeristische gebied met het beste uitzicht op de karstbergen van Phang Nga Bay. Thuisbasis van verschillende boetiekresorts en eco-lodges. Het Six Senses Yao Noi, een van de top luxe resorts van Thailand, bevindt zich hier."
+        },
+        "price_range": "$$-$$$$$"
+      },
+      {
+        "name": "Klong Jark / Central",
+        "description": {
+          "en": "The interior villages offer authentic homestay experiences and the most affordable accommodation. Stay with local families to experience genuine island life. Basic but charming.",
+          "nl": "De binnenlandse dorpen bieden authentieke homestay-ervaringen en de meest betaalbare accommodatie. Verblijf bij lokale gezinnen om het echte eilandleven te ervaren. Basaal maar charmant."
+        },
+        "price_range": "$"
+      },
+      {
+        "name": "North Coast",
+        "description": {
+          "en": "Quieter area with a few mid-range resorts and stunning views. Perfect for travelers wanting complete peace and proximity to Lam Haed Beach.",
+          "nl": "Rustiger gebied met een paar resorts in het middensegment en prachtig uitzicht. Perfect voor reizigers die volledige rust willen en dicht bij Lam Haed Beach."
+        },
+        "price_range": "$$-$$$"
+      }
+    ]
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$20-40",
+      "mid": "$50-100",
+      "luxury": "$200+"
+    },
+    "currency_tips": {
+      "en": "There are very limited ATM facilities on the island, often just one or two machines that may run out of cash. Bring sufficient Thai baht from Phuket or Krabi. Few places accept credit cards outside of the larger resorts. The island is surprisingly affordable for food and basic accommodation.",
+      "nl": "Er zijn zeer beperkte geldautomaat-faciliteiten op het eiland, vaak slechts een of twee automaten die leeg kunnen raken. Neem voldoende Thaise baht mee vanuit Phuket of Krabi. Weinig plaatsen accepteren creditcards buiten de grotere resorts. Het eiland is verrassend betaalbaar voor eten en eenvoudige accommodatie."
+    }
+  },
+  "best_time_to_visit": {
+    "high_season": "Nov-Apr",
+    "shoulder": "May, Oct",
+    "low_season": "Jun-Sep",
+    "avoid": "Jul-Sep",
+    "description": {
+      "en": "Following the Andaman coast weather pattern, November to April offers the best conditions with calm seas and clear skies. The monsoon season (June-September) brings rain but the island remains accessible year-round from Phuket. The green season offers lower prices and fewer tourists, with rain typically coming in short afternoon bursts.",
+      "nl": "Volgens het weerpatroon van de Andamankust biedt november tot april de beste omstandigheden met kalme zeeën en heldere luchten. Het moessonseizoen (juni-september) brengt regen maar het eiland blijft het hele jaar door bereikbaar vanuit Phuket. Het groene seizoen biedt lagere prijzen en minder toeristen, waarbij regen doorgaans in korte middagbuien valt."
+    }
+  },
+  "highlights": ["Phang Nga Bay Views", "Rice Paddies", "Kayaking", "Six Senses Resort", "Cycling"],
+  "tags": ["eco-tourism", "nature", "kayaking", "cycling", "off-the-beaten-path", "luxury", "romantic"],
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Yao Noi 2026: Phang Nga Bay's Hidden Gem Island",
+      "nl": "Koh Yao Noi 2026: Het Verborgen Juweel van Phang Nga Bay"
+    },
+    "metaDescription": {
+      "en": "Complete Koh Yao Noi guide 2026. Phang Nga Bay kayaking, rice paddy cycling, eco-resorts & authentic island life. Thailand's best-kept secret!",
+      "nl": "Complete Koh Yao Noi gids 2026. Kajakken in Phang Nga Bay, fietsen langs rijstvelden, eco-resorts & authentiek eilandleven. Het best bewaarde geheim van Thailand!"
+    }
+  }
+}

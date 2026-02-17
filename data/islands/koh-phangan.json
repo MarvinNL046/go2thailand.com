@@ -1,0 +1,211 @@
+{
+  "slug": "koh-phangan",
+  "name": { "en": "Koh Phangan", "nl": "Koh Phangan" },
+  "region": "Gulf of Thailand",
+  "province": "Surat Thani",
+  "image": "/images/islands/koh-phangan.webp",
+  "description": {
+    "en": "Famous worldwide for its legendary Full Moon Party, Koh Phangan is much more than just a party island. The northern and eastern coasts shelter secluded beaches and yoga retreats, while the lush interior hides waterfalls and pristine jungle. Located just 20 minutes by speedboat from Koh Samui, Phangan appeals equally to party-goers, wellness seekers, and backpackers looking for an authentic island experience.",
+    "nl": "Wereldwijd beroemd om het legendarische Full Moon Party, Koh Phangan is veel meer dan alleen een feesteiland. De noorder- en oostkust herbergen afgelegen stranden en yogaretraites, terwijl het weelderige binnenland watervallen en ongerept oerwoud verbergt. Op slechts 20 minuten per speedboot van Koh Samui, trekt Phangan zowel feestvierders, wellnesszoekers als backpackers aan die op zoek zijn naar een authentieke eilandervaring."
+  },
+  "beaches": [
+    {
+      "name": "Haad Rin",
+      "description": {
+        "en": "The world-famous party beach on the southeastern tip of the island, home to the monthly Full Moon Party that attracts up to 30,000 revelers. Sunrise Beach (Haad Rin Nok) is the main party location, while Sunset Beach (Haad Rin Nai) on the other side is much calmer.",
+        "nl": "Het wereldberoemde feeststrand op de zuidoostelijke punt van het eiland, de thuisbasis van het maandelijkse Full Moon Party dat tot 30.000 feestvierders aantrekt. Sunrise Beach (Haad Rin Nok) is de belangrijkste feestlocatie, terwijl Sunset Beach (Haad Rin Nai) aan de andere kant veel rustiger is."
+      },
+      "best_for": ["nightlife", "full moon party", "backpackers"]
+    },
+    {
+      "name": "Bottle Beach (Haad Khuat)",
+      "description": {
+        "en": "One of the most beautiful and secluded beaches on the island, accessible only by boat or a challenging jungle hike. The crystal-clear water and soft white sand make it worth the effort. Basic bungalows and a few restaurants are available.",
+        "nl": "Een van de mooiste en meest afgelegen stranden van het eiland, alleen bereikbaar per boot of via een uitdagende junglewandeling. Het kristalheldere water en zachte witte zand maken de moeite meer dan waard. Er zijn eenvoudige bungalows en enkele restaurants beschikbaar."
+      },
+      "best_for": ["seclusion", "snorkeling", "nature lovers"]
+    },
+    {
+      "name": "Thong Nai Pan",
+      "description": {
+        "en": "Twin bays (Yai and Noi) on the northeast coast surrounded by jungle-covered hills. Thong Nai Pan Noi is the more developed of the two with upscale resorts, while Thong Nai Pan Yai offers a more backpacker-friendly scene. Both have excellent swimming.",
+        "nl": "Tweelingbaaien (Yai en Noi) aan de noordoostkust omringd door met jungle bedekte heuvels. Thong Nai Pan Noi is de meer ontwikkelde van de twee met luxe resorts, terwijl Thong Nai Pan Yai een meer backpackervriendelijke sfeer biedt. Beide zijn uitstekend om te zwemmen."
+      },
+      "best_for": ["swimming", "relaxation", "scenery"]
+    },
+    {
+      "name": "Haad Salad",
+      "description": {
+        "en": "A beautiful crescent-shaped beach on the northwest coast with calm, clear water perfect for snorkeling. The coral reef just offshore is home to colorful fish and sea life. A quieter alternative with good restaurants and mid-range accommodation.",
+        "nl": "Een prachtig halvemaanvormig strand aan de noordwestkust met kalm, helder water dat perfect is om te snorkelen. Het koraalrif vlak voor de kust herbergt kleurrijke vissen en zeeleven. Een rustiger alternatief met goede restaurants en accommodatie in het middensegment."
+      },
+      "best_for": ["snorkeling", "families", "relaxation"]
+    },
+    {
+      "name": "Haad Yao (Long Beach)",
+      "description": {
+        "en": "A long stretch of soft sand on the west coast offering stunning sunsets and a relaxed atmosphere. Popular with families and couples, it has a good selection of beachfront restaurants and resorts without feeling crowded.",
+        "nl": "Een lang stuk zacht zand aan de westkust met adembenemende zonsondergangen en een ontspannen sfeer. Populair bij gezinnen en stellen, met een goede selectie van restaurants en resorts aan het strand zonder dat het druk aanvoelt."
+      },
+      "best_for": ["sunsets", "families", "swimming"]
+    }
+  ],
+  "activities": [
+    {
+      "name": "Full Moon Party",
+      "type": "nightlife",
+      "description": {
+        "en": "The iconic monthly beach party at Haad Rin, held around every full moon since 1985. Expect neon body paint, fire-limbo, bucket drinks, and DJs playing until sunrise. Entry fee is ฿100-300. Half Moon and Black Moon parties are popular alternatives.",
+        "nl": "Het iconische maandelijkse strandfeest op Haad Rin, dat sinds 1985 rond elke volle maan wordt gehouden. Verwacht neon bodypaint, vuurlimbo, bucketdrinks en dj's die tot zonsopgang draaien. Toegangsprijs is ฿100-300. Half Moon en Black Moon feesten zijn populaire alternatieven."
+      },
+      "price_range": "$"
+    },
+    {
+      "name": "Thaan Sadet Waterfall",
+      "type": "nature",
+      "description": {
+        "en": "A sacred waterfall in Thaan Sadet National Park that has been visited by several Thai kings, whose royal initials are carved into the rocks. The series of cascades flows through lush jungle down to a secluded beach. Best visited after rainfall.",
+        "nl": "Een heilige waterval in Thaan Sadet Nationaal Park die door meerdere Thaise koningen is bezocht, wiens koninklijke initialen in de rotsen zijn gegraveerd. De reeks watervallen stroomt door weelderig oerwoud naar een afgelegen strand. Het best te bezoeken na regenval."
+      },
+      "price_range": "Free"
+    },
+    {
+      "name": "Yoga & Wellness Retreats",
+      "type": "wellness",
+      "description": {
+        "en": "Koh Phangan is Thailand's yoga capital, with dozens of retreat centers offering everything from drop-in classes to month-long teacher training courses. The Sanctuary on Haad Tien and Orion Healing Centre in Sri Thanu are among the most renowned.",
+        "nl": "Koh Phangan is de yogahoofdstad van Thailand, met tientallen retraitecentra die alles aanbieden van losse lessen tot maandenlange docentenopleidingen. The Sanctuary op Haad Tien en Orion Healing Centre in Sri Thanu behoren tot de bekendste."
+      },
+      "price_range": "$$-$$$"
+    },
+    {
+      "name": "Snorkeling at Sail Rock",
+      "type": "water_sport",
+      "description": {
+        "en": "Sail Rock (Hin Bai) is considered the best dive and snorkel site in the Gulf of Thailand. This massive underwater pinnacle rises from 40 meters depth and is home to whale sharks (seasonal), barracuda, and huge schools of fish. Day trips depart from Phangan.",
+        "nl": "Sail Rock (Hin Bai) wordt beschouwd als de beste duik- en snorkelplek in de Golf van Thailand. Deze enorme onderwaterrots rijst op vanuit 40 meter diepte en is de thuisbasis van walvishaaien (seizoensgebonden), barracuda's en enorme scholen vissen. Dagtochten vertrekken vanaf Phangan."
+      },
+      "price_range": "$$"
+    },
+    {
+      "name": "Phaeng Waterfall & Viewpoint",
+      "type": "nature",
+      "description": {
+        "en": "Located in Than Sadet-Ko Pha Ngan National Park, Phaeng Waterfall features two tiers and a spectacular viewpoint at the top offering panoramic island views. The hike to the viewpoint takes about 20 minutes through dense forest. Entry fee ฿100 for foreigners.",
+        "nl": "Gelegen in Than Sadet-Ko Pha Ngan Nationaal Park, heeft de Phaeng Waterval twee niveaus en een spectaculair uitzichtpunt aan de top met panoramisch uitzicht over het eiland. De wandeling naar het uitzichtpunt duurt ongeveer 20 minuten door dicht bos. Toegangsprijs ฿100 voor buitenlanders."
+      },
+      "price_range": "$"
+    }
+  ],
+  "getting_there": {
+    "from_bangkok": {
+      "options": [
+        {
+          "method": "Flight to Samui + Ferry",
+          "duration": "2-3 hours",
+          "price": "฿2,500-7,000",
+          "description": {
+            "en": "Fly to Koh Samui with Bangkok Airways, then take a 20-minute speedboat or 30-minute car ferry from Nathon or Big Buddha Pier to Thong Sala pier on Phangan.",
+            "nl": "Vlieg naar Koh Samui met Bangkok Airways en neem vervolgens een speedboot van 20 minuten of een autoveerboot van 30 minuten vanaf Nathon of Big Buddha Pier naar Thong Sala pier op Phangan."
+          }
+        },
+        {
+          "method": "Flight to Surat Thani + Bus + Ferry",
+          "duration": "4-5 hours",
+          "price": "฿1,200-2,500",
+          "description": {
+            "en": "Budget airlines fly to Surat Thani, then take a combined bus-ferry transfer direct to Koh Phangan. Lomprayah and Seatran Discovery operate high-speed catamarans.",
+            "nl": "Budgetluchtvaartmaatschappijen vliegen naar Surat Thani, waarna je een gecombineerde bus-veerboottransfer neemt direct naar Koh Phangan. Lomprayah en Seatran Discovery opereren hogesnelheidscatamarans."
+          }
+        },
+        {
+          "method": "Bus + Ferry",
+          "duration": "12-15 hours",
+          "price": "฿600-1,200",
+          "description": {
+            "en": "Overnight buses from Bangkok's Southern Bus Terminal to Surat Thani's Donsak Pier, then ferry to Thong Sala. Combined tickets available from travel agencies on Khao San Road.",
+            "nl": "Nachtbussen vanaf het zuidelijke busstation van Bangkok naar Donsak Pier in Surat Thani, vervolgens de veerboot naar Thong Sala. Gecombineerde tickets zijn verkrijgbaar bij reisbureaus op Khao San Road."
+          }
+        },
+        {
+          "method": "Train + Ferry",
+          "duration": "14-16 hours",
+          "price": "฿600-1,600",
+          "description": {
+            "en": "Overnight sleeper train to Surat Thani, then bus and ferry transfer to the island. A comfortable and scenic option that lets you sleep through most of the journey.",
+            "nl": "Nachtslaaptrein naar Surat Thani, vervolgens bus- en veerbottransfer naar het eiland. Een comfortabele en schilderachtige optie waarbij je het grootste deel van de reis kunt slapen."
+          }
+        }
+      ]
+    }
+  },
+  "accommodation_tips": {
+    "areas": [
+      {
+        "name": "Haad Rin",
+        "description": {
+          "en": "The party zone, best for Full Moon Party visitors. Budget hostels and party-oriented accommodation. Noisy during party nights but great atmosphere for young travelers.",
+          "nl": "De feestzone, het beste voor Full Moon Party bezoekers. Budgethostels en feestvriendelijke accommodatie. Lawaaierig tijdens feestnachten maar geweldige sfeer voor jonge reizigers."
+        },
+        "price_range": "$-$$"
+      },
+      {
+        "name": "Sri Thanu & Zen Beach",
+        "description": {
+          "en": "The wellness hub of the island, home to most yoga studios, health food cafes, and conscious community spaces. Perfect for digital nomads, yogis, and those seeking a holistic experience.",
+          "nl": "Het wellnesscentrum van het eiland, met de meeste yogastudio's, gezonde eetcafes en bewuste gemeenschapsruimtes. Perfect voor digitale nomaden, yogi's en mensen die een holistische ervaring zoeken."
+        },
+        "price_range": "$-$$"
+      },
+      {
+        "name": "Thong Nai Pan",
+        "description": {
+          "en": "Beautiful twin bays with a mix of budget and luxury options. More isolated but incredibly scenic. Ideal for couples and travelers seeking tranquility with access to great beaches.",
+          "nl": "Prachtige tweelingbaaien met een mix van budget- en luxe opties. Meer geïsoleerd maar ongelooflijk schilderachtig. Ideaal voor stellen en reizigers die rust zoeken met toegang tot prachtige stranden."
+        },
+        "price_range": "$$-$$$"
+      },
+      {
+        "name": "Thong Sala",
+        "description": {
+          "en": "The main town and ferry port with the most practical amenities: supermarkets, banks, pharmacies, and the Pantip night food market. Best for budget travelers and those wanting easy access to transport.",
+          "nl": "De hoofdplaats en veerhaven met de meeste praktische voorzieningen: supermarkten, banken, apotheken en de Pantip avondmarkt. Het beste voor budgetreizigers en mensen die makkelijke toegang tot transport willen."
+        },
+        "price_range": "$-$$"
+      }
+    ]
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$20-40",
+      "mid": "$40-80",
+      "luxury": "$100+"
+    },
+    "currency_tips": {
+      "en": "ATMs are available in Thong Sala, Haad Rin, and the larger beaches but charge ฿220 per withdrawal. Exchange rates are better on Samui, so change money before coming over. Many places are cash-only, especially in quieter areas.",
+      "nl": "Geldautomaten zijn beschikbaar in Thong Sala, Haad Rin en de grotere stranden maar rekenen ฿220 per opname. Wisselkoersen zijn beter op Samui, dus wissel geld voordat je oversteekt. Veel plaatsen accepteren alleen contant geld, vooral in rustigere gebieden."
+    }
+  },
+  "best_time_to_visit": {
+    "high_season": "Dec-Mar",
+    "shoulder": "Apr-Jun, Sep",
+    "low_season": "Jul-Aug, Oct-Nov",
+    "avoid": "Oct-Nov",
+    "description": {
+      "en": "Like neighboring Koh Samui, Phangan's driest and most pleasant months are December through March. The island follows the Gulf of Thailand weather pattern, meaning the wettest period is October to November. Full Moon Party dates should be checked in advance as they sometimes shift to avoid Buddhist holidays.",
+      "nl": "Net als buureiland Koh Samui zijn de droogste en aangenaamste maanden van Phangan december tot maart. Het eiland volgt het weerpatroon van de Golf van Thailand, wat betekent dat de natste periode oktober tot november is. Full Moon Party data moeten van tevoren worden gecontroleerd omdat ze soms verschuiven om boeddhistische feestdagen te vermijden."
+    }
+  },
+  "highlights": ["Full Moon Party", "Bottle Beach", "Thaan Sadet Waterfall", "Yoga Retreats", "Sail Rock"],
+  "tags": ["beach", "party", "nightlife", "yoga", "wellness", "backpacker", "diving"],
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Phangan 2026: Full Moon Party, Beaches & Yoga Retreats",
+      "nl": "Koh Phangan 2026: Full Moon Party, Stranden & Yogaretraites"
+    },
+    "metaDescription": {
+      "en": "Complete Koh Phangan guide 2026. Full Moon Party dates, best beaches, yoga retreats & budget tips. Everything you need for your island adventure!",
+      "nl": "Complete Koh Phangan gids 2026. Full Moon Party data, beste stranden, yogaretraites & budgettips. Alles wat je nodig hebt voor je eilandavontuur!"
+    }
+  }
+}

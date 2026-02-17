@@ -1,31 +1,23 @@
-import { GetStaticProps, GetStaticPaths } from 'next';
+import { GetStaticPaths, GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
+import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import { getAllPosts, getPostBySlug, getRelatedPosts } from '../../lib/blog';
 
 interface BlogPost {
-  id: string;
   slug: string;
   title: string;
-  excerpt: string;
-  content: string;
-  author: {
-    name: string;
-    bio?: string;
-    avatar?: string;
-  };
-  publishedAt: string;
-  updatedAt?: string;
-  readingTime: number;
-  featuredImage: {
-    url: string;
-    alt: string;
-    caption?: string;
-  };
-  categories: string[];
+  description: string;
+  date: string;
+  author: { name: string };
+  category: string;
   tags: string[];
-  relatedPosts?: BlogPost[];
+  image: string;
+  featured?: boolean;
+  readingTime: number;
+  contentHtml?: string;
 }
 
 interface BlogPostPageProps {
@@ -34,73 +26,100 @@ interface BlogPostPageProps {
 }
 
 export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) {
+  const { locale } = useRouter();
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Blog', href: '/blog' },
-    { name: post.title, href: `/blog/${post.slug}` }
+    { name: 'Blog', href: '/blog/' },
+    { name: post.title, href: `/blog/${post.slug}/` }
   ];
 
-  // Mock table of contents
-  const tableOfContents = [
-    { id: 'intro', title: 'Introduction' },
-    { id: 'section-1', title: 'Getting Started' },
-    { id: 'section-2', title: 'Best Practices' },
-    { id: 'section-3', title: 'Final Thoughts' }
-  ];
+  const articleJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": post.title,
+    "description": post.description,
+    "image": `https://go2-thailand.com${post.image}`,
+    "datePublished": post.date,
+    "author": {
+      "@type": "Person",
+      "name": post.author.name
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Go2Thailand",
+      "url": "https://go2-thailand.com"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `https://go2-thailand.com/blog/${post.slug}/`
+    }
+  };
+
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": breadcrumbs.map((crumb, index) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "name": crumb.name,
+      "item": `https://go2-thailand.com${crumb.href}`
+    }))
+  };
 
   return (
     <>
       <Head>
         <title>{post.title} | Go2Thailand Blog</title>
-        <meta name="description" content={post.excerpt} />
+        <meta name="description" content={post.description} />
         <meta name="keywords" content={post.tags.join(', ')} />
-        
-        {/* Open Graph */}
         <meta property="og:title" content={post.title} />
-        <meta property="og:description" content={post.excerpt} />
-        <meta property="og:image" content={post.featuredImage.url} />
+        <meta property="og:description" content={post.description} />
+        <meta property="og:image" content={`https://go2-thailand.com${post.image}`} />
         <meta property="og:type" content="article" />
-        
-        {/* Article metadata */}
-        <meta property="article:published_time" content={post.publishedAt} />
+        <meta property="article:published_time" content={post.date} />
         <meta property="article:author" content={post.author.name} />
-        {post.categories.map(category => (
-          <meta key={category} property="article:tag" content={category} />
+        {post.tags.map(tag => (
+          <meta key={tag} property="article:tag" content={tag} />
         ))}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+        />
       </Head>
 
       <article className="bg-gray-50 min-h-screen">
         {/* Hero Section */}
-        <section className="relative h-[400px] lg:h-[600px]">
+        <section className="relative h-[400px] lg:h-[500px]">
           <Image
-            src={post.featuredImage.url}
-            alt={post.featuredImage.alt}
+            src={post.image}
+            alt={post.title}
             fill
             className="object-cover"
             priority
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
-          
           <div className="absolute bottom-0 left-0 right-0 text-white">
-            <div className="container-custom pb-12">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
               <div className="max-w-4xl">
                 <div className="flex gap-2 mb-4">
-                  {post.categories.map(category => (
-                    <Link
-                      key={category}
-                      href={`/blog/category/${category.toLowerCase()}`}
-                      className="bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm hover:bg-white/30 transition-colors"
-                    >
-                      {category}
-                    </Link>
-                  ))}
+                  <Link
+                    href={`/blog/category/${post.category}/`}
+                    className="bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm hover:bg-white/30 transition-colors capitalize"
+                  >
+                    {post.category}
+                  </Link>
                 </div>
                 <h1 className="text-3xl lg:text-5xl font-bold mb-6">{post.title}</h1>
                 <div className="flex items-center gap-6 text-lg">
                   <span>{post.author.name}</span>
-                  <span>•</span>
-                  <span>{post.publishedAt}</span>
-                  <span>•</span>
+                  <span>-</span>
+                  <span>{post.date}</span>
+                  <span>-</span>
                   <span>{post.readingTime} min read</span>
                 </div>
               </div>
@@ -110,110 +129,26 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
 
         {/* Breadcrumbs */}
         <section className="bg-white border-b">
-          <div className="container-custom py-4">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <Breadcrumbs items={breadcrumbs} />
           </div>
         </section>
 
         {/* Main Content */}
         <section className="py-12">
-          <div className="container-custom">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid lg:grid-cols-12 gap-8">
-              {/* Sidebar - Table of Contents */}
-              <aside className="lg:col-span-3">
-                <div className="sticky top-4 space-y-6">
-                  {/* Table of Contents */}
-                  <div className="bg-white rounded-lg shadow-lg p-6 hidden lg:block">
-                    <h3 className="font-bold text-lg mb-4">Table of Contents</h3>
-                    <nav className="space-y-2">
-                      {tableOfContents.map(item => (
-                        <a
-                          key={item.id}
-                          href={`#${item.id}`}
-                          className="block text-gray-600 hover:text-thailand-blue transition-colors py-1 pl-4 border-l-2 border-gray-200 hover:border-thailand-blue"
-                        >
-                          {item.title}
-                        </a>
-                      ))}
-                    </nav>
-                  </div>
-
-                </div>
-              </aside>
-
               {/* Article Content */}
-              <div className="lg:col-span-6">
+              <div className="lg:col-span-8">
                 <div className="bg-white rounded-lg shadow-lg p-8 lg:p-12">
-                  {/* Article Body */}
-                  <div className="prose prose-lg max-w-none">
-                    {/* This is where the actual blog content would go */}
-                    <p className="text-xl text-gray-700 mb-8">
-                      {post.excerpt}
-                    </p>
-
-                    <h2 id="intro">Introduction</h2>
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                      Thailand offers incredible experiences for travelers, from bustling street markets to serene temples.
-                    </p>
-
-                    <Image
-                      src="/images/cities/bangkok/downtown-bangkok.webp"
-                      alt="Bangkok skyline"
-                      width={800}
-                      height={450}
-                      className="rounded-lg my-8"
+                  {post.contentHtml ? (
+                    <div
+                      className="prose prose-lg max-w-none prose-headings:text-gray-900 prose-a:text-thailand-blue prose-a:no-underline hover:prose-a:underline prose-img:rounded-lg"
+                      dangerouslySetInnerHTML={{ __html: post.contentHtml }}
                     />
-
-                    <h2 id="section-1">Getting Started</h2>
-                    <p>
-                      Planning your trip to Thailand requires some preparation. Here are the essential things you need to know:
-                    </p>
-                    
-                    <ul>
-                      <li>Best time to visit: November to February (cool season)</li>
-                      <li>Visa requirements: Most nationalities get 30-day visa on arrival</li>
-                      <li>Currency: Thai Baht (THB)</li>
-                      <li>Language: Thai (English widely spoken in tourist areas)</li>
-                    </ul>
-
-                    <blockquote>
-                      "Thailand is the only Southeast Asian country never colonized by Europeans, which has allowed it to maintain its unique cultural identity."
-                    </blockquote>
-
-                    <h2 id="section-2">Best Practices</h2>
-                    <p>
-                      To make the most of your Thailand adventure, follow these tips from experienced travelers:
-                    </p>
-
-                    <h3>Respect Local Culture</h3>
-                    <p>
-                      Thailand is known as the "Land of Smiles," but it's important to understand and respect local customs:
-                    </p>
-                    <ul>
-                      <li>Remove shoes before entering temples and homes</li>
-                      <li>Dress modestly when visiting religious sites</li>
-                      <li>Never touch someone's head or point feet at people</li>
-                      <li>Show respect for the Royal Family</li>
-                    </ul>
-
-                    <h3>Stay Safe and Healthy</h3>
-                    <p>
-                      While Thailand is generally safe for tourists, take these precautions:
-                    </p>
-                    <ul>
-                      <li>Drink bottled water only</li>
-                      <li>Use mosquito repellent to prevent dengue</li>
-                      <li>Be cautious when renting motorbikes</li>
-                      <li>Keep copies of important documents</li>
-                    </ul>
-
-                    <h2 id="section-3">Final Thoughts</h2>
-                    <p>
-                      Thailand offers something for every type of traveler. Whether you're seeking adventure, relaxation, cultural immersion, 
-                      or culinary delights, the Kingdom of Thailand will exceed your expectations. Start planning your journey today!
-                    </p>
-                  </div>
+                  ) : (
+                    <p className="text-gray-700">{post.description}</p>
+                  )}
 
                   {/* Author Bio */}
                   <div className="mt-12 pt-8 border-t">
@@ -226,7 +161,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                       <div>
                         <h3 className="font-bold text-lg">{post.author.name}</h3>
                         <p className="text-gray-600 mt-1">
-                          {post.author.bio || 'Travel writer and Thailand enthusiast sharing insights from years of exploring the Land of Smiles.'}
+                          Sharing travel insights and tips for exploring the Land of Smiles.
                         </p>
                       </div>
                     </div>
@@ -239,7 +174,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                       {post.tags.map(tag => (
                         <Link
                           key={tag}
-                          href={`/blog/tag/${tag}`}
+                          href={`/blog/tag/${tag}/`}
                           className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm hover:bg-thailand-blue hover:text-white transition-colors"
                         >
                           #{tag}
@@ -248,26 +183,10 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                     </div>
                   </div>
                 </div>
-
-                {/* Share Buttons */}
-                <div className="bg-white rounded-lg shadow-lg p-6 mt-8">
-                  <h3 className="font-bold mb-4">Share this article</h3>
-                  <div className="flex gap-4">
-                    <button className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors">
-                      Facebook
-                    </button>
-                    <button className="bg-sky-500 text-white px-4 py-2 rounded-lg hover:bg-sky-600 transition-colors">
-                      Twitter
-                    </button>
-                    <button className="bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition-colors">
-                      WhatsApp
-                    </button>
-                  </div>
-                </div>
               </div>
 
-              {/* Right Sidebar */}
-              <aside className="lg:col-span-3 space-y-6">
+              {/* Sidebar */}
+              <aside className="lg:col-span-4 space-y-6">
                 {/* Newsletter */}
                 <div className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark text-white rounded-lg p-6">
                   <h3 className="text-xl font-bold mb-2">Get Thailand Updates</h3>
@@ -283,75 +202,57 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                 </div>
 
                 {/* Related Posts */}
+                {relatedPosts.length > 0 && (
+                  <div className="bg-white rounded-lg shadow-lg p-6">
+                    <h3 className="font-bold text-lg mb-4">Related Articles</h3>
+                    <div className="space-y-4">
+                      {relatedPosts.map(relatedPost => (
+                        <article key={relatedPost.slug}>
+                          <Link href={`/blog/${relatedPost.slug}/`} className="group">
+                            <h4 className="font-medium group-hover:text-thailand-blue transition-colors line-clamp-2">
+                              {relatedPost.title}
+                            </h4>
+                            <p className="text-sm text-gray-600 mt-1">{relatedPost.readingTime} min read</p>
+                          </Link>
+                        </article>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {/* Explore */}
                 <div className="bg-white rounded-lg shadow-lg p-6">
-                  <h3 className="font-bold text-lg mb-4">Related Articles</h3>
-                  <div className="space-y-4">
-                    {relatedPosts.map(relatedPost => (
-                      <article key={relatedPost.id}>
-                        <Link href={`/blog/${relatedPost.slug}`} className="group">
-                          <h4 className="font-medium group-hover:text-thailand-blue transition-colors line-clamp-2">
-                            {relatedPost.title}
-                          </h4>
-                          <p className="text-sm text-gray-600 mt-1">{relatedPost.readingTime} min read</p>
-                        </Link>
-                      </article>
-                    ))}
+                  <h3 className="font-bold text-lg mb-4">Explore More</h3>
+                  <div className="space-y-2">
+                    <Link href="/islands/" className="block text-thailand-blue hover:underline text-sm">🏝️ Thailand Islands</Link>
+                    <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">🛂 Visa Guide</Link>
+                    <Link href="/food/" className="block text-thailand-blue hover:underline text-sm">🍜 Thai Food</Link>
+                    <Link href="/practical-info/" className="block text-thailand-blue hover:underline text-sm">📋 Practical Info</Link>
+                    <Link href="/blog/" className="block text-thailand-blue hover:underline text-sm">← All blog posts</Link>
                   </div>
                 </div>
-
               </aside>
             </div>
           </div>
         </section>
 
-        {/* Comments Section Placeholder */}
-        <section className="py-12 bg-white">
-          <div className="container-custom">
-            <div className="max-w-4xl mx-auto">
-              <h2 className="text-2xl font-bold mb-8">Comments</h2>
-              <div className="bg-gray-100 rounded-lg p-8 text-center">
-                <p className="text-gray-600">Comments section coming soon!</p>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Plan Your Thailand Trip - Cross-sell Banner */}
+        {/* Affiliate Banner */}
         <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold">
-          <div className="container-custom py-8">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="flex flex-col md:flex-row items-center justify-between gap-6">
               <div className="text-white">
                 <h2 className="text-2xl font-bold mb-1">Plan Your Thailand Trip</h2>
                 <p className="opacity-90 text-sm">Book hotels, transport, activities, and get connected with an eSIM</p>
               </div>
               <div className="flex flex-wrap justify-center gap-3">
-                <a
-                  href="https://trip.tpo.lv/TmObooZ5"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                >
-                  Hotels
-                </a>
-                <Link href="/activities/" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">
-                  Activities
-                </Link>
-                <a
-                  href="https://12go.tpo.lv/tNA80urD"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                >
-                  Transport
-                </a>
-                <Link href="/esim/" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">
-                  eSIM
-                </Link>
+                <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Booking.com</a>
+                <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Trip.com</a>
+                <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Activities</a>
+                <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Transport</a>
+                <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">eSIM</a>
               </div>
             </div>
-            <p className="text-white/70 text-xs text-center mt-4">
-              Some links are affiliate links. We may earn a commission at no extra cost to you.
-            </p>
+            <p className="text-white/70 text-xs text-center mt-4">Some links are affiliate links. We may earn a commission at no extra cost to you.</p>
           </div>
         </section>
       </article>
@@ -360,85 +261,40 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  // Mock slugs - replace with actual data fetching
-  const slugs = [
-    '10-hidden-gems-bangkok',
-    'thai-street-food-guide',
-    'island-hopping-southern-thailand'
-  ];
+  const posts = getAllPosts('en');
+  const paths = posts.map(post => ({
+    params: { slug: post.slug }
+  }));
 
   return {
-    paths: slugs.map(slug => ({ params: { slug } })),
+    paths,
     fallback: 'blocking'
   };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
+  const lang = locale === 'nl' ? 'nl' : 'en';
 
-  // Mock post data - replace with actual data fetching
-  const mockPost: BlogPost = {
-    id: '1',
-    slug: slug,
-    title: '10 Hidden Gems in Bangkok Only Locals Know About',
-    excerpt: 'Skip the tourist traps and discover Bangkok\'s best-kept secrets. From hidden temples to secret rooftop bars, these local favorites will show you a different side of the city.',
-    content: 'Full article content would go here...',
-    author: {
-      name: 'Sarah Chen',
-      bio: 'Travel writer and Thailand enthusiast with over 10 years of experience exploring Southeast Asia.'
-    },
-    publishedAt: 'December 15, 2024',
-    updatedAt: 'December 16, 2024',
-    readingTime: 8,
-    featuredImage: {
-      url: '/images/cities/bangkok/business-district-bangkok.webp',
-      alt: 'Hidden Bangkok temple',
-      caption: 'A serene temple hidden in the heart of Bangkok'
-    },
-    categories: ['Bangkok', 'Hidden Gems'],
-    tags: ['bangkok', 'hidden-gems', 'local-tips', 'temples', 'off-the-beaten-path']
-  };
+  const post = await getPostBySlug(slug, lang);
 
-  const relatedPosts: BlogPost[] = [
-    {
-      id: '2',
-      slug: 'bangkok-street-food-tour',
-      title: 'The Ultimate Bangkok Street Food Tour: Where Locals Really Eat',
-      excerpt: 'Discover the best street food spots in Bangkok...',
-      content: '',
-      author: { name: 'Mike Thompson' },
-      publishedAt: 'December 10, 2024',
-      readingTime: 10,
-      featuredImage: {
-        url: '/images/food/street-food.webp',
-        alt: 'Bangkok street food'
-      },
-      categories: ['Bangkok', 'Food'],
-      tags: ['street-food', 'bangkok']
-    },
-    {
-      id: '3',
-      slug: 'bangkok-temples-guide',
-      title: 'Beyond Wat Pho: Lesser-Known Temples in Bangkok',
-      excerpt: 'Explore Bangkok\'s hidden temple gems...',
-      content: '',
-      author: { name: 'Emma Wilson' },
-      publishedAt: 'December 5, 2024',
-      readingTime: 12,
-      featuredImage: {
-        url: '/images/cities/bangkok/downtown-bangkok.webp',
-        alt: 'Bangkok temples'
-      },
-      categories: ['Bangkok', 'Culture'],
-      tags: ['temples', 'bangkok', 'culture']
+  if (!post) {
+    // Try fallback to English if not found in requested locale
+    const fallbackPost = await getPostBySlug(slug, 'en');
+    if (!fallbackPost) {
+      return { notFound: true };
     }
-  ];
+    const relatedPosts = getRelatedPosts(slug, 'en', 3);
+    return {
+      props: { post: fallbackPost, relatedPosts },
+      revalidate: 86400
+    };
+  }
+
+  const relatedPosts = getRelatedPosts(slug, lang, 3);
 
   return {
-    props: {
-      post: mockPost,
-      relatedPosts
-    },
+    props: { post, relatedPosts },
     revalidate: 86400
   };
 };

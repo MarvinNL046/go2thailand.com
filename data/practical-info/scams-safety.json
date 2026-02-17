@@ -1,0 +1,120 @@
+{
+  "slug": "scams-safety",
+  "title": { "en": "Thailand Scams & Safety Guide", "nl": "Thailand Oplichting & Veiligheidsgids" },
+  "icon": "⚠️",
+  "description": {
+    "en": "Thailand is generally a very safe country for tourists, but like any popular destination, there are scams and safety issues to be aware of. This guide covers the most common tourist scams, how to avoid them, and practical safety advice to ensure you have a trouble-free trip. Being informed is your best protection.",
+    "nl": "Thailand is over het algemeen een zeer veilig land voor toeristen, maar zoals elke populaire bestemming zijn er oplichtingstrucs en veiligheidskwesties waar je je bewust van moet zijn. Deze gids behandelt de meest voorkomende toeristenzwendel, hoe je deze kunt vermijden en praktisch veiligheidsadvies voor een probleemloze reis. Goed geinformeerd zijn is je beste bescherming."
+  },
+  "sections": [
+    {
+      "title": { "en": "Common Tourist Scams", "nl": "Veelvoorkomende Toeristenzwendel" },
+      "items": [
+        {
+          "name": { "en": "Tuk-Tuk Gem Shop Scam", "nl": "Tuk-Tuk Juwelenwinketzwendel" },
+          "description": { "en": "Drivers offer an extremely cheap ride (10-20 THB) around Bangkok's temples, but insist on stopping at a gem or tailor shop. At the shop, you are pressured into buying overpriced, low-quality jewelry or suits with promises of huge resale profits. This is one of Bangkok's oldest and most persistent scams.", "nl": "Bestuurders bieden een extreem goedkope rit (10-20 THB) langs Bangkok's tempels aan, maar staan erop te stoppen bij een juwelen- of kleermakerszaak. In de winkel word je onder druk gezet om te dure, lage kwaliteit sieraden of pakken te kopen met beloftes van enorme doorverkoopwinsten. Dit is een van Bangkok's oudste en meest hardnekkige zwendels." },
+          "how_to_avoid": { "en": "Never accept suspiciously cheap tuk-tuk rides. Agree on a price and destination before getting in. Refuse any stops at shops. If the driver insists, get out and find another ride.", "nl": "Accepteer nooit verdacht goedkope tuk-tuk ritten. Spreek een prijs en bestemming af voordat je instapt. Weiger alle stops bij winkels. Als de bestuurder aandringt, stap uit en zoek een andere rit." }
+        },
+        {
+          "name": { "en": "Temple/Palace Closed Scam", "nl": "Tempel/Paleis Gesloten Zwendel" },
+          "description": { "en": "A friendly stranger near the Grand Palace or a major temple tells you it is closed today for a ceremony or holiday. They then helpfully suggest a different temple and offer to arrange a cheap tuk-tuk, which takes you to gem shops or overpriced attractions instead.", "nl": "Een vriendelijke vreemdeling bij het Grand Palace of een grote tempel vertelt je dat het vandaag gesloten is vanwege een ceremonie of feestdag. Ze stellen dan behulpzaam een andere tempel voor en bieden aan een goedkope tuk-tuk te regelen, die je in plaats daarvan naar juwelenwinkels of te dure attracties brengt." },
+          "how_to_avoid": { "en": "The Grand Palace and major temples are open every day. Ignore anyone outside telling you it is closed. Walk directly to the entrance and check yourself. If it truly is closed, the guards at the gate will tell you.", "nl": "Het Grand Palace en grote tempels zijn elke dag open. Negeer iedereen buiten die je vertelt dat het gesloten is. Loop direct naar de ingang en controleer het zelf. Als het echt gesloten is, vertellen de bewakers bij de poort je dat." }
+        },
+        {
+          "name": { "en": "Jet Ski Damage Scam", "nl": "Jetski Schadezwendel" },
+          "description": { "en": "Common in Phuket, Pattaya, and Koh Samui. After renting a jet ski, the operator claims you caused damage (often pre-existing) and demands an inflated repair fee of 10,000-30,000 THB. They may hold your passport or become aggressive.", "nl": "Veelvoorkomend op Phuket, Pattaya en Koh Samui. Na het huren van een jetski beweert de verhuurder dat je schade hebt veroorzaakt (vaak al bestaand) en eist een opgeblazen reparatiekosten van 10.000-30.000 THB. Ze kunnen je paspoort vasthouden of agressief worden." },
+          "how_to_avoid": { "en": "Take photos and videos of the jet ski from all angles before renting. Never leave your passport as a deposit - only leave a copy. Consider avoiding jet ski rental altogether, or use reputable operators recommended by your hotel.", "nl": "Maak foto's en video's van de jetski vanuit alle hoeken voordat je huurt. Laat nooit je paspoort achter als borg - laat alleen een kopie achter. Overweeg jetskiverhuur helemaal te vermijden, of gebruik betrouwbare verhuurders die door je hotel worden aanbevolen." }
+        },
+        {
+          "name": { "en": "Taxi Meter Refusal", "nl": "Taxi Meter Weigering" },
+          "description": { "en": "Taxi drivers, especially at airports and tourist areas, refuse to use the meter and quote inflated flat fares. A metered ride from Suvarnabhumi airport to central Bangkok should cost 250-400 THB, but some drivers demand 500-1,000 THB or more.", "nl": "Taxichauffeurs, vooral op luchthavens en toeristische gebieden, weigeren de meter te gebruiken en vragen opgeblazen vaste tarieven. Een rit met meter van Suvarnabhumi luchthaven naar het centrum van Bangkok zou 250-400 THB moeten kosten, maar sommige chauffeurs eisen 500-1.000 THB of meer." },
+          "how_to_avoid": { "en": "Always insist on using the meter. If the driver refuses, say 'meter please' or simply get out and find another taxi. Better yet, use Grab or Bolt app for transparent pricing. At airports, use the official taxi queue with metered taxis.", "nl": "Sta altijd op het gebruik van de meter. Als de chauffeur weigert, zeg 'meter please' of stap simpelweg uit en zoek een andere taxi. Gebruik nog beter de Grab of Bolt app voor transparante prijzen. Op luchthavens gebruik je de officiele taxirij met metertaxi's." }
+        },
+        {
+          "name": { "en": "Bar Bill Scam", "nl": "Barrekening Zwendel" },
+          "description": { "en": "In entertainment areas like Bangkok's Patpong or Pattaya's Walking Street, you may be lured into a bar with promises of cheap drinks, only to receive a massively inflated bill at the end. Security may prevent you from leaving until you pay.", "nl": "In uitgaansgebieden zoals Bangkok's Patpong of Pattaya's Walking Street kun je worden gelokt naar een bar met beloftes van goedkope drankjes, om vervolgens een enorm opgeblazen rekening te ontvangen. Beveiliging kan voorkomen dat je vertrekt totdat je betaalt." },
+          "how_to_avoid": { "en": "Check drink prices before ordering. Avoid bars with aggressive touts outside. Stick to reputable, well-reviewed venues. Keep track of what you order. If you feel unsafe, call the Tourist Police at 1155.", "nl": "Controleer drankprijzen voordat je bestelt. Vermijd bars met agressieve wervers buiten. Houd je aan betrouwbare, goed beoordeelde gelegenheden. Houd bij wat je bestelt. Als je je onveilig voelt, bel de Toeristenpolitie op 1155." }
+        },
+        {
+          "name": { "en": "Fake Travel Agencies", "nl": "Nep Reisbureaus" },
+          "description": { "en": "Unofficial travel agencies on Khao San Road and other tourist areas sell bus, train, or tour tickets at inflated prices, or sell tickets to substandard services. Some issue fake tickets that are not honored by the actual operator.", "nl": "Onofficicle reisbureaus op Khao San Road en andere toeristische gebieden verkopen bus-, trein- of tourtickets tegen opgeblazen prijzen, of verkopen tickets voor ondermaatse diensten. Sommige geven neptickets uit die niet worden geaccepteerd door de daadwerkelijke vervoerder." },
+          "how_to_avoid": { "en": "Book transport through official channels: trains at the SRT website, flights on airline websites, buses at official bus terminals. Use reputable booking platforms like 12Go Asia for verified operators.", "nl": "Boek vervoer via officiele kanalen: treinen op de SRT-website, vluchten op websites van luchtvaartmaatschappijen, bussen bij officiele busstations. Gebruik betrouwbare boekingsplatforms zoals 12Go Asia voor geverifieerde vervoerders." }
+        }
+      ]
+    },
+    {
+      "title": { "en": "General Safety Tips", "nl": "Algemene Veiligheidstips" },
+      "items": [
+        {
+          "name": { "en": "Road Safety", "nl": "Verkeersveiligheid" },
+          "description": { "en": "Thailand has one of the highest road accident rates in the world. Motorbike accidents are the leading cause of tourist injuries and deaths. Renting a scooter without experience, driving without a helmet, or driving under the influence are extremely dangerous.", "nl": "Thailand heeft een van de hoogste verkeersongevallenpercentages ter wereld. Motorongelukken zijn de belangrijkste oorzaak van verwondingen en overlijden onder toeristen. Een scooter huren zonder ervaring, rijden zonder helm of rijden onder invloed is extreem gevaarlijk." },
+          "how_to_avoid": { "en": "Always wear a helmet. Only rent a motorbike if you have experience and a valid license. Check your travel insurance covers motorbike accidents (many do not). Use Grab for safe transport in cities.", "nl": "Draag altijd een helm. Huur alleen een motorfiets als je ervaring hebt en een geldig rijbewijs. Controleer of je reisverzekering motorongelukken dekt (veel dekken dat niet). Gebruik Grab voor veilig vervoer in steden." }
+        },
+        {
+          "name": { "en": "Drink Spiking", "nl": "Gedrogeerde Drankjes" },
+          "description": { "en": "Cases of drink spiking have been reported in bars and nightclubs, particularly in party areas. This affects both men and women. Victims may wake up robbed or in dangerous situations.", "nl": "Gevallen van gedrogeerde drankjes zijn gemeld in bars en nachtclubs, vooral in feestgebieden. Dit treft zowel mannen als vrouwen. Slachtoffers kunnen beroofd wakker worden of in gevaarlijke situaties." },
+          "how_to_avoid": { "en": "Never leave your drink unattended. Watch your drink being poured or opened. Avoid accepting drinks from strangers. Travel with friends and look out for each other. If you feel unexpectedly intoxicated, seek help immediately.", "nl": "Laat je drankje nooit onbeheerd achter. Kijk toe terwijl je drankje wordt ingeschonken of geopend. Accepteer geen drankjes van vreemden. Reis met vrienden en let op elkaar. Als je je onverwacht bedwelmd voelt, zoek onmiddellijk hulp." }
+        },
+        {
+          "name": { "en": "Swimming and Water Safety", "nl": "Zwem- en Waterveiligheid" },
+          "description": { "en": "Strong currents, riptides, and jellyfish are hazards at many Thai beaches. Drowning is a leading cause of tourist deaths. Red flags on beaches indicate dangerous conditions. During monsoon season (May-October on the west coast), waves can be very powerful.", "nl": "Sterke stromingen, muistromen en kwallen zijn gevaren bij veel Thaise stranden. Verdrinking is een van de belangrijkste oorzaken van toeristische sterfgevallen. Rode vlaggen op stranden geven gevaarlijke omstandigheden aan. Tijdens het moessonseizoen (mei-oktober aan de westkust) kunnen golven zeer krachtig zijn." },
+          "how_to_avoid": { "en": "Always obey warning flags and signs. Do not swim alone or when intoxicated. Be cautious of currents, especially at beaches without lifeguards. Wear water shoes to protect against sea urchins and rocks.", "nl": "Gehoorzaam altijd waarschuwingsvlaggen en -borden. Zwem niet alleen of wanneer je gedronken hebt. Wees voorzichtig met stromingen, vooral op stranden zonder badmeesters. Draag waterschoenen ter bescherming tegen zee-egels en rotsen." }
+        }
+      ]
+    },
+    {
+      "title": { "en": "Emergency Contacts", "nl": "Noodnummers" },
+      "items": [
+        {
+          "name": { "en": "Tourist Police", "nl": "Toeristenpolitie" },
+          "description": { "en": "Call 1155 - Available 24/7 with English-speaking operators. They can assist with scams, theft, accidents, and any tourist-related issues. They also have a LINE app for non-emergency communication.", "nl": "Bel 1155 - 24/7 beschikbaar met Engelssprekende operators. Ze kunnen helpen bij zwendel, diefstal, ongelukken en alle toeristengerelateerde problemen. Ze hebben ook een LINE-app voor niet-spoedeisende communicatie." },
+          "how_to_avoid": { "en": "Save this number in your phone before your trip", "nl": "Sla dit nummer op in je telefoon voor je reis" }
+        },
+        {
+          "name": { "en": "Emergency Services", "nl": "Hulpdiensten" },
+          "description": { "en": "Police: 191. Ambulance/Medical: 1669. Fire: 199. These are Thai-language hotlines. For English assistance, call the Tourist Police at 1155 first.", "nl": "Politie: 191. Ambulance/Medisch: 1669. Brandweer: 199. Dit zijn Thaistalige hotlines. Voor Engelstalige hulp, bel eerst de Toeristenpolitie op 1155." },
+          "how_to_avoid": { "en": "Program all emergency numbers into your phone", "nl": "Programmeer alle noodnummers in je telefoon" }
+        },
+        {
+          "name": { "en": "Dutch Embassy in Bangkok", "nl": "Nederlandse Ambassade in Bangkok" },
+          "description": { "en": "Embassy of the Kingdom of the Netherlands: 15 Soi Tonson, Ploenchit Road, Lumpini, Bangkok 10330. Phone: +66 2 309 5200. For emergencies outside office hours: +31 247 247 247.", "nl": "Ambassade van het Koninkrijk der Nederlanden: 15 Soi Tonson, Ploenchit Road, Lumpini, Bangkok 10330. Telefoon: +66 2 309 5200. Voor noodgevallen buiten kantooruren: +31 247 247 247." },
+          "how_to_avoid": { "en": "Register your trip at informatieservice.nl before departure", "nl": "Registreer je reis op informatieservice.nl voor vertrek" }
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": { "en": "Is Thailand safe for solo female travelers?", "nl": "Is Thailand veilig voor vrouwelijke soloreizigers?" },
+      "answer": { "en": "Yes, Thailand is generally very safe for solo female travelers and is one of the most popular solo travel destinations in the world. Exercise the same common-sense precautions you would anywhere: avoid walking alone in dark areas late at night, be cautious with alcohol consumption, inform someone of your plans, and trust your instincts. The biggest risks are typically motorbike accidents and petty theft, not violent crime.", "nl": "Ja, Thailand is over het algemeen erg veilig voor vrouwelijke soloreizigers en is een van de populairste soloreisbestemmingen ter wereld. Neem dezelfde voorzorgsmaatregelen als overal: vermijd 's nachts alleen te lopen in donkere gebieden, wees voorzichtig met alcoholconsumptie, informeer iemand over je plannen en vertrouw op je intuitie. De grootste risico's zijn doorgaans motorongelukken en kleine diefstal, niet geweldsmisdrijven." }
+    },
+    {
+      "question": { "en": "Should I buy travel insurance for Thailand?", "nl": "Moet ik een reisverzekering kopen voor Thailand?" },
+      "answer": { "en": "Absolutely yes. Travel insurance is essential for Thailand. Medical care, especially at private hospitals, can be very expensive. A simple motorbike accident can result in bills of 100,000+ THB. Make sure your policy covers: medical evacuation, motorbike accidents (if you plan to ride), theft, and trip cancellation. Good policies cost $30-100 for a month of coverage.", "nl": "Absoluut ja. Een reisverzekering is essentieel voor Thailand. Medische zorg, vooral in particuliere ziekenhuizen, kan erg duur zijn. Een eenvoudig motorongeluk kan resulteren in rekeningen van 100.000+ THB. Zorg dat je polis dekt: medische evacuatie, motorongelukken (als je van plan bent te rijden), diefstal en reisannulering. Goede polissen kosten $30-100 voor een maand dekking." }
+    },
+    {
+      "question": { "en": "What is the Tourist Police and when should I call them?", "nl": "Wat is de Toeristenpolitie en wanneer moet ik ze bellen?" },
+      "answer": { "en": "The Tourist Police (1155) is a special police unit dedicated to helping foreign visitors. Call them if you are scammed, robbed, involved in an accident, have a dispute with a vendor, or need any assistance. They have English-speaking officers and can mediate disputes. They are generally more helpful and responsive than regular police for tourist issues.", "nl": "De Toeristenpolitie (1155) is een speciale politie-eenheid die zich richt op het helpen van buitenlandse bezoekers. Bel ze als je bent opgelicht, beroofd, betrokken bij een ongeluk, een geschil hebt met een verkoper, of hulp nodig hebt. Ze hebben Engelssprekende agenten en kunnen bemiddelen bij geschillen. Ze zijn over het algemeen behulpzamer en responsiever dan de reguliere politie bij toeristische kwesties." }
+    },
+    {
+      "question": { "en": "Are drugs really that dangerous in Thailand?", "nl": "Zijn drugs echt zo gevaarlijk in Thailand?" },
+      "answer": { "en": "Yes. Thailand has extremely strict drug laws. Possession of even small amounts of hard drugs can lead to lengthy prison sentences. Trafficking carries the death penalty. Cannabis was decriminalized in 2022, but as of 2025 new regulations re-restrict recreational use in public spaces. Never accept packages from strangers and be aware that some party areas may have undercover police. Thai prisons are harsh and your embassy has limited ability to help.", "nl": "Ja. Thailand heeft extreem strenge drugswetten. Bezit van zelfs kleine hoeveelheden harddrugs kan leiden tot langdurige gevangenisstraffen. Handel kan de doodstraf opleveren. Cannabis werd in 2022 gedecriminaliseerd, maar vanaf 2025 beperken nieuwe regels recreatief gebruik in openbare ruimtes weer. Accepteer nooit pakketten van vreemden en wees je ervan bewust dat in sommige feestgebieden undercover politie aanwezig kan zijn. Thaise gevangenissen zijn zwaar en je ambassade heeft beperkte mogelijkheden om te helpen." }
+    },
+    {
+      "question": { "en": "Is it safe to eat street food in Thailand?", "nl": "Is het veilig om straatvoedsel te eten in Thailand?" },
+      "answer": { "en": "Yes, Thai street food is generally safe and is one of the highlights of any trip. Look for stalls that are busy with locals (high turnover means fresh food), that cook food to order in front of you, and that appear clean. Avoid pre-cooked food that has been sitting out. Drink bottled water only. If you have a sensitive stomach, start gradually and avoid very spicy dishes in the first few days.", "nl": "Ja, Thais straatvoedsel is over het algemeen veilig en is een van de hoogtepunten van elke reis. Zoek kraampjes die druk bezocht worden door locals (hoge doorloop betekent vers voedsel), die eten voor je bereiden en die er schoon uitzien. Vermijd vooraf bereid voedsel dat lang heeft staan liggen. Drink alleen flessenwater. Als je een gevoelige maag hebt, begin geleidelijk en vermijd zeer pittige gerechten in de eerste paar dagen." }
+    }
+  ],
+  "tips": [
+    { "en": "Save the Tourist Police number (1155) in your phone before your trip.", "nl": "Sla het nummer van de Toeristenpolitie (1155) op in je telefoon voor je reis." },
+    { "en": "Use the Grab app for taxis instead of hailing taxis on the street - prices are fixed and rides are tracked.", "nl": "Gebruik de Grab-app voor taxi's in plaats van taxi's aan te houden op straat - prijzen zijn vast en ritten worden gevolgd." },
+    { "en": "Keep a photocopy of your passport separately from the original - it makes replacement much easier if stolen.", "nl": "Bewaar een kopie van je paspoort apart van het origineel - het maakt vervanging veel makkelijker als het gestolen wordt." },
+    { "en": "Be respectful of the Thai monarchy - lese-majeste laws are strictly enforced and carry heavy penalties.", "nl": "Wees respectvol tegenover de Thaise monarchie - majesteitsschenniswetten worden streng gehandhaafd en kennen zware straffen." },
+    { "en": "Register your trip with your embassy (informatieservice.nl for Dutch travelers) so they can contact you in emergencies.", "nl": "Registreer je reis bij je ambassade (informatieservice.nl voor Nederlandse reizigers) zodat ze je kunnen bereiken in noodgevallen." }
+  ],
+  "last_updated": "2026-02-17",
+  "seo": {
+    "metaTitle": { "en": "Thailand Scams & Safety Guide 2026: What to Watch Out For", "nl": "Thailand Oplichting & Veiligheid 2026: Waar Je Op Moet Letten" },
+    "metaDescription": { "en": "Stay safe in Thailand with our 2026 guide to common tourist scams, safety tips, emergency contacts, and practical advice for a trouble-free trip.", "nl": "Blijf veilig in Thailand met onze 2026 gids over veelvoorkomende toeristenzwendel, veiligheidstips, noodnummers en praktisch advies voor een probleemloze reis." }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "thailand-elite-visa",
+  "title": { "en": "Thailand Privilege Card (Elite Visa)", "nl": "Thailand Privilege Card (Elite Visum)" },
+  "icon": "💎",
+  "category": "premium",
+  "description": {
+    "en": "The Thailand Privilege Card (formerly known as the Thailand Elite Visa) is a premium membership program that grants long-term residence in Thailand for 5, 10, 15, or 20 years. Rebranded in 2023 under Thailand Privilege Card Co., Ltd. (a subsidiary of the Tourism Authority of Thailand), this program offers hassle-free living with VIP airport services, dedicated immigration lanes, and various lifestyle perks. It is the easiest way to secure long-term residence in Thailand without work, financial, or age requirements.",
+    "nl": "De Thailand Privilege Card (voorheen bekend als het Thailand Elite Visum) is een premium lidmaatschapsprogramma dat langverblijf in Thailand biedt voor 5, 10, 15 of 20 jaar. In 2023 hernoemd onder Thailand Privilege Card Co., Ltd. (een dochteronderneming van de Thaise Toerisme Autoriteit), dit programma biedt zorgeloos wonen met VIP-luchthavenservices, speciale immigratierijen en diverse lifestyle-voordelen. Het is de makkelijkste manier om langverblijf in Thailand te verkrijgen zonder werk-, financiele of leeftijdsvereisten."
+  },
+  "requirements": [
+    {
+      "item": { "en": "Valid passport", "nl": "Geldig paspoort" },
+      "detail": { "en": "Must have at least 18 months validity remaining", "nl": "Moet minimaal 18 maanden geldig zijn" }
+    },
+    {
+      "item": { "en": "Clean criminal record", "nl": "Schoon strafblad" },
+      "detail": { "en": "No criminal convictions in Thailand or home country. Background check is conducted during application.", "nl": "Geen strafrechtelijke veroordelingen in Thailand of thuisland. Antecedentenonderzoek wordt uitgevoerd tijdens de aanvraag." }
+    },
+    {
+      "item": { "en": "Not on blacklist", "nl": "Niet op zwarte lijst" },
+      "detail": { "en": "Must not be on Thailand's immigration blacklist or have previous overstay issues", "nl": "Mag niet op de Thaise immigratie-zwarte lijst staan of eerdere overstay-problemen hebben" }
+    },
+    {
+      "item": { "en": "Membership fee", "nl": "Lidmaatschapskosten" },
+      "detail": { "en": "One-time fee ranging from 600,000 THB to 2,140,000 THB depending on the chosen package", "nl": "Eenmalige vergoeding van 600.000 THB tot 2.140.000 THB afhankelijk van het gekozen pakket" }
+    }
+  ],
+  "duration": {
+    "initial": "5, 10, 15, or 20 years depending on package",
+    "extensions": {
+      "en": "Each entry allows a stay of up to 1 year, after which you simply exit and re-enter (or the Privilege Card team can assist with re-entry). No need to visit immigration offices for extensions. Membership is valid for the full term and includes unlimited entries.",
+      "nl": "Elke binnenkomst staat een verblijf van maximaal 1 jaar toe, waarna je simpelweg uitreist en weer binnenkomt (of het Privilege Card team kan helpen met hernieuwde binnenkomst). Geen bezoek aan immigratiekantoren nodig voor verlengingen. Het lidmaatschap is geldig voor de volledige termijn en omvat onbeperkte binnenkomsten."
+    }
+  },
+  "cost": {
+    "entry": "From 600,000 THB (~$17,400 USD) for the 5-year Gold package to 2,140,000 THB (~$62,000 USD) for the 20-year Diamond package",
+    "extension": "No extension fees - membership covers the full term"
+  },
+  "process": {
+    "steps": [
+      {
+        "step": 1,
+        "title": { "en": "Choose Your Package", "nl": "Kies je Pakket" },
+        "description": { "en": "Select from available packages: Gold (5 years, 600,000 THB), Platinum (10 years, 1,000,000 THB), Diamond (15 years, 1,500,000 THB), or Reserve (20 years, 2,140,000 THB). Each tier includes additional benefits.", "nl": "Kies uit beschikbare pakketten: Gold (5 jaar, 600.000 THB), Platinum (10 jaar, 1.000.000 THB), Diamond (15 jaar, 1.500.000 THB), of Reserve (20 jaar, 2.140.000 THB). Elke categorie bevat extra voordelen." }
+      },
+      {
+        "step": 2,
+        "title": { "en": "Submit Application", "nl": "Dien Aanvraag in" },
+        "description": { "en": "Apply online at thailandprivilege.com or through an authorized agent. Submit passport copy and application form. A background check will be conducted.", "nl": "Vraag online aan via thailandprivilege.com of via een geautoriseerde agent. Dien een kopie van je paspoort en aanvraagformulier in. Er wordt een antecedentenonderzoek uitgevoerd." }
+      },
+      {
+        "step": 3,
+        "title": { "en": "Pay Membership Fee", "nl": "Betaal Lidmaatschapskosten" },
+        "description": { "en": "Once approved (typically 2-4 weeks), pay the one-time membership fee via bank transfer or credit card.", "nl": "Na goedkeuring (doorgaans 2-4 weken), betaal de eenmalige lidmaatschapskosten via bankoverschrijving of creditcard." }
+      },
+      {
+        "step": 4,
+        "title": { "en": "Receive Your Privilege Card", "nl": "Ontvang je Privilege Card" },
+        "description": { "en": "You will receive your membership card and can begin using the VIP services immediately. Upon arrival at a Thai airport, a personal concierge meets you at the gate and escorts you through fast-track immigration.", "nl": "Je ontvangt je lidmaatschapskaart en kunt direct beginnen met het gebruik van de VIP-services. Bij aankomst op een Thaise luchthaven ontmoet een persoonlijke concienge je bij de gate en begeleidt je door de snelle immigratie." }
+      }
+    ]
+  },
+  "eligible_countries": [
+    "All nationalities (except Thai nationals)"
+  ],
+  "faqs": [
+    {
+      "question": { "en": "Can I work in Thailand with the Thailand Privilege Card?", "nl": "Kan ik werken in Thailand met de Thailand Privilege Card?" },
+      "answer": { "en": "The Privilege Card itself does not include a work permit. However, you can obtain a work permit separately if you have a Thai employer willing to sponsor you. Many Privilege Card holders combine it with the BOI (Board of Investment) work permit for their Thai businesses.", "nl": "De Privilege Card bevat zelf geen werkvergunning. Je kunt echter apart een werkvergunning verkrijgen als je een Thaise werkgever hebt die je wil sponsoren. Veel Privilege Card-houders combineren het met de BOI (Board of Investment) werkvergunning voor hun Thaise bedrijven." }
+    },
+    {
+      "question": { "en": "Is the Thailand Privilege Card refundable?", "nl": "Is de Thailand Privilege Card restitueerbaar?" },
+      "answer": { "en": "Membership can be cancelled, but the refund amount depends on the remaining term and is subject to an administrative fee. Generally, a partial refund is available for unused years minus a cancellation fee. Check the current terms and conditions at thailandprivilege.com.", "nl": "Het lidmaatschap kan worden geannuleerd, maar het restitutiebedrag hangt af van de resterende termijn en is onderhevig aan administratiekosten. Over het algemeen is een gedeeltelijke restitutie beschikbaar voor ongebruikte jaren minus een annuleringsvergoeding. Controleer de actuele voorwaarden op thailandprivilege.com." }
+    },
+    {
+      "question": { "en": "What VIP services are included?", "nl": "Welke VIP-services zijn inbegrepen?" },
+      "answer": { "en": "Services vary by tier but typically include: airport meet-and-greet with fast-track immigration, annual health check-up, VIP lounge access, limousine transfers (select packages), golf rounds at premium courses (select packages), spa treatments, and a 24/7 member contact center.", "nl": "Services varieren per categorie maar omvatten doorgaans: luchthaven meet-and-greet met snelle immigratie, jaarlijkse gezondheidscontrole, VIP-lounge toegang, limousinetransfers (geselecteerde pakketten), golfronden op premium banen (geselecteerde pakketten), spabehandelingen en een 24/7 ledencontactcentrum." }
+    },
+    {
+      "question": { "en": "Can I add family members to my Privilege Card?", "nl": "Kan ik gezinsleden toevoegen aan mijn Privilege Card?" },
+      "answer": { "en": "Each person needs their own Privilege Card membership. However, some packages offer family-friendly pricing or bundled options for couples and families. Children under 20 may qualify for dependent packages.", "nl": "Elke persoon heeft een eigen Privilege Card-lidmaatschap nodig. Sommige pakketten bieden echter gezinsvriendelijke prijzen of gebundelde opties voor koppels en gezinnen. Kinderen onder de 20 komen mogelijk in aanmerking voor gezinslidpakketten." }
+    }
+  ],
+  "tips": [
+    { "en": "The Gold package (5 years, 600,000 THB) offers the best value for testing long-term life in Thailand before committing to a longer term.", "nl": "Het Gold-pakket (5 jaar, 600.000 THB) biedt de beste waarde om langdurig leven in Thailand te testen voordat je je voor een langere termijn committeert." },
+    { "en": "The VIP airport service alone can save you 1-2 hours per arrival during peak season - well worth it for frequent travelers.", "nl": "De VIP-luchthavenservice alleen al kan je 1-2 uur per aankomst besparen tijdens het hoogseizoen - zeker de moeite waard voor frequente reizigers." },
+    { "en": "You can apply from anywhere in the world - no need to visit a Thai embassy.", "nl": "Je kunt overal ter wereld aanvragen - geen bezoek aan een Thaise ambassade nodig." },
+    { "en": "Consider authorized agents who sometimes offer additional perks or discounts on the membership fee.", "nl": "Overweeg geautoriseerde agenten die soms extra voordelen of kortingen op de lidmaatschapskosten bieden." }
+  ],
+  "last_updated": "2026-02-17",
+  "seo": {
+    "metaTitle": { "en": "Thailand Privilege Card (Elite Visa) 2026: Prices & Benefits", "nl": "Thailand Privilege Card (Elite Visum) 2026: Prijzen & Voordelen" },
+    "metaDescription": { "en": "Complete guide to the Thailand Privilege Card (formerly Elite Visa) in 2026. 5-20 year memberships from 600,000 THB, VIP services, application process explained.", "nl": "Complete gids voor de Thailand Privilege Card (voorheen Elite Visum) in 2026. 5-20 jaar lidmaatschappen vanaf 600.000 THB, VIP-services, aanvraagproces uitgelegd." }
+  }
+}

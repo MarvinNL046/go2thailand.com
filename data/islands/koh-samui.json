@@ -1,0 +1,211 @@
+{
+  "slug": "koh-samui",
+  "name": { "en": "Koh Samui", "nl": "Koh Samui" },
+  "region": "Gulf of Thailand",
+  "province": "Surat Thani",
+  "image": "/images/islands/koh-samui.webp",
+  "description": {
+    "en": "Thailand's second-largest island, Koh Samui offers a perfect blend of luxury resorts, beautiful beaches, and traditional Thai culture. With its own international airport, coconut palm-lined shores, and a well-developed tourism infrastructure, Samui is ideal for travelers seeking comfort without sacrificing tropical beauty. From the bustling nightlife of Chaweng to the serene temples dotting the hillsides, the island caters to honeymooners, families, and solo adventurers alike.",
+    "nl": "Het op een na grootste eiland van Thailand, Koh Samui biedt een perfecte mix van luxe resorts, prachtige stranden en traditionele Thaise cultuur. Met een eigen internationale luchthaven, met palmbomen omzoomde kusten en een goed ontwikkelde toeristische infrastructuur is Samui ideaal voor reizigers die comfort zoeken zonder tropische schoonheid op te offeren. Van het bruisende nachtleven van Chaweng tot de serene tempels op de heuvels, het eiland is geschikt voor stellen, gezinnen en solo-avonturiers."
+  },
+  "beaches": [
+    {
+      "name": "Chaweng Beach",
+      "description": {
+        "en": "The longest and most popular beach on Koh Samui, stretching over 7 kilometers with powdery white sand and crystal-clear water. The northern section is quieter, while the central part buzzes with beach clubs, restaurants, and water sports.",
+        "nl": "Het langste en populairste strand van Koh Samui, dat zich uitstrekt over 7 kilometer met poederachtig wit zand en kristalhelder water. Het noordelijke deel is rustiger, terwijl het centrale gedeelte bruist van de beachclubs, restaurants en watersporten."
+      },
+      "best_for": ["swimming", "nightlife", "water sports", "shopping"]
+    },
+    {
+      "name": "Lamai Beach",
+      "description": {
+        "en": "The island's second-largest beach with a more laid-back atmosphere than Chaweng. Known for its distinctive Hin Ta and Hin Yai (Grandmother and Grandfather) rock formations at the southern end and excellent swimming conditions.",
+        "nl": "Het op een na grootste strand van het eiland met een meer ontspannen sfeer dan Chaweng. Bekend om de kenmerkende Hin Ta en Hin Yai (Oma en Opa) rotsformaties aan de zuidkant en uitstekende zwemomstandigheden."
+      },
+      "best_for": ["swimming", "relaxation", "sightseeing"]
+    },
+    {
+      "name": "Bophut Beach (Fisherman's Village)",
+      "description": {
+        "en": "A charming beach along Fisherman's Village, featuring traditional wooden shophouses converted into boutique shops, restaurants, and bars. The famous Friday night walking street market takes place here.",
+        "nl": "Een charmant strand langs Fisherman's Village, met traditionele houten winkelpanden die zijn omgebouwd tot boetiekwinkels, restaurants en bars. De beroemde vrijdagavond walking street markt vindt hier plaats."
+      },
+      "best_for": ["dining", "culture", "shopping", "families"]
+    },
+    {
+      "name": "Maenam Beach",
+      "description": {
+        "en": "A peaceful 5-kilometer stretch of golden sand on the northern coast, popular with budget travelers and long-stay visitors. The calm waters make it great for swimming year-round, and the Thursday night market is a local favorite.",
+        "nl": "Een rustig 5 kilometer lang stuk goudkleurig zand aan de noordkust, populair bij budgetreizigers en langverblijvers. Het kalme water maakt het het hele jaar door geschikt om te zwemmen, en de donderdagavondmarkt is een favoriet bij de lokale bevolking."
+      },
+      "best_for": ["swimming", "budget travel", "long stays", "peace and quiet"]
+    },
+    {
+      "name": "Choeng Mon Beach",
+      "description": {
+        "en": "A small, sheltered bay in the northeast corner of the island known for its luxury resorts and family-friendly atmosphere. The shallow, calm waters and soft sand make it one of the best beaches for young children.",
+        "nl": "Een kleine, beschutte baai in de noordoosthoek van het eiland, bekend om zijn luxe resorts en gezinsvriendelijke sfeer. Het ondiepe, kalme water en zachte zand maken het een van de beste stranden voor jonge kinderen."
+      },
+      "best_for": ["families", "luxury", "swimming", "relaxation"]
+    }
+  ],
+  "activities": [
+    {
+      "name": "Big Buddha Temple (Wat Phra Yai)",
+      "type": "temple",
+      "description": {
+        "en": "An iconic 12-meter golden Buddha statue sitting atop a small island connected by a causeway. This is Samui's most famous landmark, offering panoramic views of the surrounding bay. Dress modestly when visiting.",
+        "nl": "Een iconisch 12 meter hoog gouden Boeddhabeeld op een klein eiland dat verbonden is door een dam. Dit is het beroemdste herkenningspunt van Samui, met panoramisch uitzicht over de omliggende baai. Kleed je bescheiden bij een bezoek."
+      },
+      "price_range": "Free"
+    },
+    {
+      "name": "Ang Thong National Marine Park",
+      "type": "day_trip",
+      "description": {
+        "en": "A stunning archipelago of 42 islands featuring emerald lakes, towering limestone cliffs, dense jungle, and pristine beaches. Day trips include kayaking, snorkeling, and hiking to breathtaking viewpoints. The park is closed from November to mid-December.",
+        "nl": "Een prachtige archipel van 42 eilanden met smaragdgroene meren, hoge kalkstenen kliffen, dicht oerwoud en ongerepte stranden. Dagtochten omvatten kajakken, snorkelen en wandelen naar adembenemende uitzichtpunten. Het park is gesloten van november tot half december."
+      },
+      "price_range": "$$"
+    },
+    {
+      "name": "Na Muang Waterfalls",
+      "type": "nature",
+      "description": {
+        "en": "Two beautiful waterfalls in the island's interior. Na Muang 1 is easily accessible with a natural pool for swimming, while Na Muang 2 requires a 30-minute jungle hike but rewards with a more secluded cascade. Best visited during the rainy season when water flow is strongest.",
+        "nl": "Twee prachtige watervallen in het binnenland van het eiland. Na Muang 1 is makkelijk bereikbaar met een natuurlijk zwembad, terwijl Na Muang 2 een 30 minuten durende junglewandeling vereist maar beloont met een meer afgelegen waterval. Het best te bezoeken tijdens het regenseizoen wanneer de waterstand het hoogst is."
+      },
+      "price_range": "Free"
+    },
+    {
+      "name": "Thai Boxing Stadium",
+      "type": "entertainment",
+      "description": {
+        "en": "Watch authentic Muay Thai fights at Chaweng Boxing Stadium, which hosts matches several nights a week. The atmosphere is electric, with both local and international fighters competing. Many gyms on the island also offer Muay Thai training courses for visitors.",
+        "nl": "Bekijk authentieke Muay Thai-gevechten in het Chaweng Boxing Stadium, dat meerdere avonden per week wedstrijden organiseert. De sfeer is elektrisch, met zowel lokale als internationale vechters. Veel sportscholen op het eiland bieden ook Muay Thai-trainingen aan voor bezoekers."
+      },
+      "price_range": "$$"
+    },
+    {
+      "name": "Secret Buddha Garden (Magic Garden)",
+      "type": "cultural",
+      "description": {
+        "en": "A mystical hillside garden hidden in the Samui highlands, created by a local fruit farmer in 1976. The garden features an eclectic collection of statues depicting deities, animals, and humans amid lush tropical vegetation. Accessible by 4WD vehicle only.",
+        "nl": "Een mystieke heuvelachtige tuin verborgen in de hooglanden van Samui, aangelegd door een lokale fruitboer in 1976. De tuin bevat een eclectische verzameling beelden van goden, dieren en mensen te midden van weelderige tropische vegetatie. Alleen bereikbaar met een 4WD-voertuig."
+      },
+      "price_range": "$"
+    }
+  ],
+  "getting_there": {
+    "from_bangkok": {
+      "options": [
+        {
+          "method": "Flight",
+          "duration": "1 hour",
+          "price": "฿2,000-6,000",
+          "description": {
+            "en": "Direct flights from Bangkok Suvarnabhumi with Bangkok Airways (the only airline operating to Samui's private airport). Flights are frequent but relatively expensive due to the airport monopoly. Book early for better rates.",
+            "nl": "Directe vluchten vanaf Bangkok Suvarnabhumi met Bangkok Airways (de enige luchtvaartmaatschappij die op de privéluchthaven van Samui vliegt). Vluchten zijn frequent maar relatief duur vanwege het luchthavenmonopolie. Boek vroeg voor betere tarieven."
+          }
+        },
+        {
+          "method": "Bus + Ferry",
+          "duration": "12-14 hours",
+          "price": "฿600-1,000",
+          "description": {
+            "en": "Overnight buses depart from Bangkok's Southern Bus Terminal (Sai Tai Mai) to Surat Thani, then transfer to a ferry. Combined tickets are available. Budget-friendly but a long journey.",
+            "nl": "Nachtbussen vertrekken vanaf het zuidelijke busstation van Bangkok (Sai Tai Mai) naar Surat Thani, waarna je overstapt op een veerboot. Gecombineerde tickets zijn beschikbaar. Budgetvriendelijk maar een lange reis."
+          }
+        },
+        {
+          "method": "Train + Ferry",
+          "duration": "13-15 hours",
+          "price": "฿500-1,500",
+          "description": {
+            "en": "Overnight sleeper trains from Bangkok's Hua Lamphong station to Surat Thani, then transfer to the ferry pier. A scenic and comfortable option with sleeper berths available.",
+            "nl": "Nachttreinen met slaapplaatsen vanaf het Hua Lamphong station in Bangkok naar Surat Thani, waarna je doorrijdt naar de veerpont. Een schilderachtige en comfortabele optie met slaapplaatsen beschikbaar."
+          }
+        },
+        {
+          "method": "Flight to Surat Thani + Ferry",
+          "duration": "2-3 hours",
+          "price": "฿1,200-3,000",
+          "description": {
+            "en": "Budget airlines (AirAsia, Nok Air, Thai Lion Air) fly to Surat Thani airport, then take a bus and ferry transfer to Samui. Much cheaper than flying direct to Samui.",
+            "nl": "Budgetluchtvaartmaatschappijen (AirAsia, Nok Air, Thai Lion Air) vliegen naar de luchthaven van Surat Thani, waarna je met een bus en veerboot naar Samui reist. Veel goedkoper dan direct naar Samui vliegen."
+          }
+        }
+      ]
+    }
+  },
+  "accommodation_tips": {
+    "areas": [
+      {
+        "name": "Chaweng",
+        "description": {
+          "en": "The busiest area with the best beach, nightlife, and shopping. Ideal for first-time visitors who want everything within walking distance. Accommodation ranges from party hostels to five-star resorts.",
+          "nl": "Het drukste gebied met het beste strand, nachtleven en winkelmogelijkheden. Ideaal voor eerste bezoekers die alles op loopafstand willen. Accommodatie varieert van feesthostels tot vijfsterrenresorts."
+        },
+        "price_range": "$$-$$$$"
+      },
+      {
+        "name": "Lamai",
+        "description": {
+          "en": "A great alternative to Chaweng with a more relaxed vibe but still plenty of restaurants and bars. Popular with couples and more mature travelers. Good value for money.",
+          "nl": "Een goed alternatief voor Chaweng met een meer ontspannen sfeer maar nog steeds genoeg restaurants en bars. Populair bij stellen en iets oudere reizigers. Goede prijs-kwaliteitverhouding."
+        },
+        "price_range": "$$-$$$"
+      },
+      {
+        "name": "Bophut (Fisherman's Village)",
+        "description": {
+          "en": "Charming area with boutique hotels and excellent dining. The Friday night walking street is a highlight. Perfect for those who want atmosphere without the party scene.",
+          "nl": "Charmant gebied met boetiekhotels en uitstekende eetgelegenheden. De vrijdagavond walking street is een hoogtepunt. Perfect voor wie sfeer wil zonder het feestcircuit."
+        },
+        "price_range": "$$-$$$$"
+      },
+      {
+        "name": "Maenam",
+        "description": {
+          "en": "The best area for budget travelers and long-stay visitors. Quiet, authentic, and home to some of the island's most affordable guesthouses and bungalows. Great for digital nomads.",
+          "nl": "Het beste gebied voor budgetreizigers en langverblijvers. Rustig, authentiek en de thuisbasis van enkele van de meest betaalbare pensions en bungalows op het eiland. Ideaal voor digitale nomaden."
+        },
+        "price_range": "$-$$"
+      }
+    ]
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$30-50",
+      "mid": "$60-120",
+      "luxury": "$200+"
+    },
+    "currency_tips": {
+      "en": "ATMs are widely available across the island but charge a ฿220 foreign card fee per withdrawal. Exchange booths in Chaweng and Lamai offer competitive rates. Credit cards are accepted at most hotels and larger restaurants but bring cash for market stalls and smaller shops.",
+      "nl": "Geldautomaten zijn overal op het eiland beschikbaar maar rekenen ฿220 aan buitenlandse opnamekosten per transactie. Wisselkantoren in Chaweng en Lamai bieden concurrerende tarieven. Creditcards worden geaccepteerd in de meeste hotels en grotere restaurants, maar neem contant geld mee voor marktkramen en kleinere winkels."
+    }
+  },
+  "best_time_to_visit": {
+    "high_season": "Dec-Mar",
+    "shoulder": "Apr-Jun",
+    "low_season": "Jul-Nov",
+    "avoid": "Oct-Nov",
+    "description": {
+      "en": "Koh Samui has a different weather pattern from Thailand's west coast. The driest months are December to March with pleasant temperatures around 28-32°C. October and November see the heaviest rainfall and occasional flooding. Unlike the Andaman coast, Samui can still be enjoyable during the southwest monsoon (Jul-Sep) with intermittent sunshine.",
+      "nl": "Koh Samui heeft een ander weerpatroon dan de westkust van Thailand. De droogste maanden zijn december tot maart met aangename temperaturen rond 28-32°C. Oktober en november kennen de zwaarste regenval en af en toe overstromingen. In tegenstelling tot de Andamankust kan Samui nog steeds aangenaam zijn tijdens de zuidwestmoesson (jul-sep) met af en toe zonneschijn."
+    }
+  },
+  "highlights": ["Chaweng Beach", "Big Buddha", "Ang Thong Marine Park", "Fisherman's Village", "Na Muang Waterfalls"],
+  "tags": ["beach", "luxury", "nightlife", "family", "honeymoon", "diving"],
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Samui 2026: Best Beaches, Hotels & Things to Do",
+      "nl": "Koh Samui 2026: Beste Stranden, Hotels & Bezienswaardigheden"
+    },
+    "metaDescription": {
+      "en": "Complete Koh Samui travel guide 2026. Best beaches, hotels from $30/night, activities & transport tips. Plan your perfect Thai island holiday!",
+      "nl": "Complete Koh Samui reisgids 2026. Beste stranden, hotels vanaf €25/nacht, activiteiten & transporttips. Plan je perfecte Thaise eilandvakantie!"
+    }
+  }
+}

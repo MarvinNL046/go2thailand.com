@@ -1,0 +1,203 @@
+{
+  "slug": "koh-tao",
+  "name": { "en": "Koh Tao", "nl": "Koh Tao" },
+  "region": "Gulf of Thailand",
+  "province": "Surat Thani",
+  "image": "/images/islands/koh-tao.webp",
+  "description": {
+    "en": "Koh Tao, meaning 'Turtle Island,' is one of the world's top destinations for learning to scuba dive. This small island (just 21 km²) offers some of the most affordable dive certifications on the planet, along with stunning snorkeling spots, boulder-strewn bays, and a lively backpacker social scene. Despite its tiny size, Koh Tao packs in world-class underwater experiences, dramatic viewpoints, and a welcoming community of divers and ocean lovers.",
+    "nl": "Koh Tao, wat 'Schildpadeiland' betekent, is een van de topbestemmingen ter wereld om te leren duiken. Dit kleine eiland (slechts 21 km²) biedt enkele van de meest betaalbare duikcertificeringen ter wereld, samen met prachtige snorkelplekken, met rotsblokken bezaaide baaien en een levendig backpackersleven. Ondanks zijn kleine omvang biedt Koh Tao wereldklasse onderwaterervaringen, spectaculaire uitzichtpunten en een gastvrije gemeenschap van duikers en oceaanliefhebbers."
+  },
+  "beaches": [
+    {
+      "name": "Sairee Beach",
+      "description": {
+        "en": "The longest beach on Koh Tao, stretching 1.7 kilometers along the west coast. This is the island's main hub with dive shops, beach bars, restaurants, and accommodation lining the shore. Great for sunset views and the social scene.",
+        "nl": "Het langste strand van Koh Tao, dat zich 1,7 kilometer uitstrekt langs de westkust. Dit is het belangrijkste centrum van het eiland met duikwinkels, strandbars, restaurants en accommodatie langs de kust. Geweldig voor zonsondergangen en het sociale leven."
+      },
+      "best_for": ["sunsets", "nightlife", "diving", "socializing"]
+    },
+    {
+      "name": "Shark Bay (Haad Tien)",
+      "description": {
+        "en": "Named after the harmless blacktip reef sharks that frequent the bay, this stunning beach offers exceptional snorkeling right from the shore. You can often spot sharks, turtles, and tropical fish in the clear shallow water.",
+        "nl": "Vernoemd naar de onschadelijke zwartpuntrifhaaien die de baai bezoeken, biedt dit prachtige strand uitzonderlijk snorkelen direct vanaf de kust. Je kunt vaak haaien, schildpadden en tropische vissen zien in het heldere ondiepe water."
+      },
+      "best_for": ["snorkeling", "wildlife", "swimming"]
+    },
+    {
+      "name": "Freedom Beach",
+      "description": {
+        "en": "A small, secluded beach accessible by a short hike or longtail boat. The coral reef just offshore makes it one of the best snorkeling spots on the island. Fewer visitors mean a more peaceful experience.",
+        "nl": "Een klein, afgelegen strand bereikbaar via een korte wandeling of longtailboot. Het koraalrif vlak voor de kust maakt het een van de beste snorkelplekken op het eiland. Minder bezoekers zorgen voor een rustigere ervaring."
+      },
+      "best_for": ["snorkeling", "seclusion", "nature"]
+    },
+    {
+      "name": "Tanote Bay",
+      "description": {
+        "en": "A picturesque bay on the east coast framed by large granite boulders that are perfect for cliff jumping. The snorkeling here is excellent with abundant marine life, and there are several restaurants perched on the hillside with panoramic views.",
+        "nl": "Een schilderachtige baai aan de oostkust omlijst door grote granieten rotsblokken die perfect zijn voor klif springen. Het snorkelen hier is uitstekend met overvloedig zeeleven, en er zijn verschillende restaurants op de heuvel met panoramisch uitzicht."
+      },
+      "best_for": ["snorkeling", "cliff jumping", "scenery"]
+    },
+    {
+      "name": "Mango Bay",
+      "description": {
+        "en": "A remote bay on the northern tip of the island with some of the best coral and marine life for snorkeling. Accessible by boat, longtail taxi, or a rugged road. The underwater visibility here is often the best on the island.",
+        "nl": "Een afgelegen baai op de noordpunt van het eiland met enkele van de beste koralen en zeeleven om te snorkelen. Bereikbaar per boot, longtailtaxi of een ruige weg. Het onderwaterzicht hier is vaak het beste van het eiland."
+      },
+      "best_for": ["snorkeling", "diving", "nature"]
+    }
+  ],
+  "activities": [
+    {
+      "name": "PADI Open Water Dive Course",
+      "type": "diving",
+      "description": {
+        "en": "Koh Tao is the cheapest place in the world to get PADI certified, with Open Water courses starting from around ฿9,800 (including accommodation). The course takes 3-4 days and includes theory, pool sessions, and four open water dives. Over 70 dive schools operate on the island.",
+        "nl": "Koh Tao is de goedkoopste plek ter wereld om PADI-gecertificeerd te raken, met Open Water cursussen vanaf ongeveer ฿9.800 (inclusief accommodatie). De cursus duurt 3-4 dagen en omvat theorie, zwembadsessies en vier open water duiken. Meer dan 70 duikscholen zijn actief op het eiland."
+      },
+      "price_range": "$$"
+    },
+    {
+      "name": "John-Suwan Viewpoint",
+      "type": "hiking",
+      "description": {
+        "en": "A moderately challenging hike through boulders and jungle to reach one of Koh Tao's most spectacular viewpoints, offering 360-degree views of Shark Bay and the southern coastline. The trail starts near Shark Bay and takes about 20 minutes.",
+        "nl": "Een matig uitdagende wandeling door rotsblokken en jungle naar een van de meest spectaculaire uitzichtpunten van Koh Tao, met 360-graden uitzicht over Shark Bay en de zuidkust. Het pad begint bij Shark Bay en duurt ongeveer 20 minuten."
+      },
+      "price_range": "Free"
+    },
+    {
+      "name": "Snorkeling Trip",
+      "type": "water_sport",
+      "description": {
+        "en": "Half-day and full-day snorkeling tours visit multiple spots around the island including Japanese Gardens, Hin Wong Bay, Aow Leuk, and the nearby Koh Nang Yuan. Equipment rental is included and no experience is needed.",
+        "nl": "Halve dag en hele dag snorkeltochten bezoeken meerdere plekken rond het eiland, waaronder Japanese Gardens, Hin Wong Bay, Aow Leuk en het nabijgelegen Koh Nang Yuan. Uitrusting is inbegrepen en er is geen ervaring nodig."
+      },
+      "price_range": "$-$$"
+    },
+    {
+      "name": "Koh Nang Yuan",
+      "type": "day_trip",
+      "description": {
+        "en": "Three small islands connected by a stunning white sandbar, located just a 10-minute boat ride from Koh Tao. The viewpoint offers one of Thailand's most photographed panoramas. Entry fee ฿100. No plastic bottles or fins allowed.",
+        "nl": "Drie kleine eilanden verbonden door een prachtige witte zandbank, op slechts 10 minuten varen van Koh Tao. Het uitzichtpunt biedt een van de meest gefotografeerde panorama's van Thailand. Toegangsprijs ฿100. Geen plastic flessen of zwemvliezen toegestaan."
+      },
+      "price_range": "$"
+    },
+    {
+      "name": "Muay Thai Training",
+      "type": "sports",
+      "description": {
+        "en": "Several gyms on the island offer drop-in Muay Thai classes and multi-day training packages, popular as a complement to the diving lifestyle. Monsoon Gym and Island Muay Thai are well-regarded options.",
+        "nl": "Verschillende sportscholen op het eiland bieden losse Muay Thai-lessen en meerdaagse trainingspakketten aan, populair als aanvulling op de duiklevensstijl. Monsoon Gym en Island Muay Thai zijn goed aangeschreven opties."
+      },
+      "price_range": "$-$$"
+    }
+  ],
+  "getting_there": {
+    "from_bangkok": {
+      "options": [
+        {
+          "method": "Flight to Samui + Ferry",
+          "duration": "3-4 hours",
+          "price": "฿3,000-7,500",
+          "description": {
+            "en": "Fly to Koh Samui with Bangkok Airways, then take a Lomprayah or Seatran high-speed catamaran (1.5-2 hours) to Koh Tao. The most comfortable but expensive option.",
+            "nl": "Vlieg naar Koh Samui met Bangkok Airways en neem vervolgens een Lomprayah of Seatran hogesnelheidscatamaran (1,5-2 uur) naar Koh Tao. De meest comfortabele maar duurste optie."
+          }
+        },
+        {
+          "method": "Flight to Surat Thani + Ferry",
+          "duration": "5-6 hours",
+          "price": "฿1,500-3,000",
+          "description": {
+            "en": "Budget airlines to Surat Thani airport, then combined bus-ferry transfer to Koh Tao. Lomprayah and Seatran offer package deals. The best value option for most travelers.",
+            "nl": "Budgetluchtvaartmaatschappijen naar de luchthaven van Surat Thani, vervolgens gecombineerde bus-veerbottransfer naar Koh Tao. Lomprayah en Seatran bieden pakketdeals. De beste optie qua prijs-kwaliteit voor de meeste reizigers."
+          }
+        },
+        {
+          "method": "Bus + Ferry",
+          "duration": "14-16 hours",
+          "price": "฿700-1,200",
+          "description": {
+            "en": "Overnight bus from Bangkok's Southern Bus Terminal to Chumphon, then a morning ferry to Koh Tao (1.5-3 hours depending on boat type). The cheapest option.",
+            "nl": "Nachtbus vanaf het zuidelijke busstation van Bangkok naar Chumphon, vervolgens een ochtendferry naar Koh Tao (1,5-3 uur afhankelijk van het boottype). De goedkoopste optie."
+          }
+        },
+        {
+          "method": "Flight to Chumphon + Ferry",
+          "duration": "3-4 hours",
+          "price": "฿1,500-2,500",
+          "description": {
+            "en": "Nok Air flies Bangkok to Chumphon, then take a Lomprayah catamaran (1.5 hours) to Koh Tao. Chumphon is the closest mainland town, making this a fast and affordable combination.",
+            "nl": "Nok Air vliegt van Bangkok naar Chumphon, neem vervolgens een Lomprayah catamaran (1,5 uur) naar Koh Tao. Chumphon is de dichtstbijzijnde stad op het vasteland, waardoor dit een snelle en betaalbare combinatie is."
+          }
+        }
+      ]
+    }
+  },
+  "accommodation_tips": {
+    "areas": [
+      {
+        "name": "Sairee Beach",
+        "description": {
+          "en": "The main area with the most dive shops, bars, and restaurants. Walk-in dive course deals often include free accommodation. Best for first-timers and social travelers.",
+          "nl": "Het hoofdgebied met de meeste duikwinkels, bars en restaurants. Instap-duikcursusaanbiedingen bevatten vaak gratis accommodatie. Het beste voor eerste bezoekers en sociale reizigers."
+        },
+        "price_range": "$-$$"
+      },
+      {
+        "name": "Mae Haad",
+        "description": {
+          "en": "The ferry port area with convenience stores, restaurants, and easy access to transport. A practical base with lower prices than Sairee. The beach here is underrated.",
+          "nl": "Het veerhaventerrein met gemakswinkels, restaurants en makkelijke toegang tot transport. Een praktische uitvalsbasis met lagere prijzen dan Sairee. Het strand hier is ondergewaardeerd."
+        },
+        "price_range": "$"
+      },
+      {
+        "name": "Chalok Baan Kao",
+        "description": {
+          "en": "A quieter bay in the south with a relaxed vibe, good snorkeling, and excellent viewpoint hikes nearby. Popular with couples and those wanting a more peaceful stay.",
+          "nl": "Een rustigere baai in het zuiden met een ontspannen sfeer, goed snorkelen en uitstekende uitzichtpuntwandelingen in de buurt. Populair bij stellen en mensen die een rustiger verblijf willen."
+        },
+        "price_range": "$-$$"
+      }
+    ]
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$15-30",
+      "mid": "$30-60",
+      "luxury": "$80+"
+    },
+    "currency_tips": {
+      "en": "ATMs are available but limited, mainly in Mae Haad and Sairee. The ฿220 foreign withdrawal fee applies. Many dive shops accept credit cards but add a 3% surcharge. Bring enough cash from the mainland as exchange rates on Koh Tao are poor.",
+      "nl": "Geldautomaten zijn beschikbaar maar beperkt, voornamelijk in Mae Haad en Sairee. De ฿220 buitenlandse opnamekosten zijn van toepassing. Veel duikwinkels accepteren creditcards maar rekenen 3% toeslag. Neem genoeg contant geld mee vanaf het vasteland, want de wisselkoersen op Koh Tao zijn ongunstig."
+    }
+  },
+  "best_time_to_visit": {
+    "high_season": "Dec-Mar",
+    "shoulder": "Apr-Jun, Sep",
+    "low_season": "Jul-Aug, Oct-Nov",
+    "avoid": "Oct-Nov",
+    "description": {
+      "en": "The best diving visibility (up to 40 meters) is typically from March to September. The driest weather is December to March. October and November bring the heaviest rain and rough seas that can disrupt ferry services. Whale sharks are most commonly spotted between March and May.",
+      "nl": "Het beste duikzicht (tot 40 meter) is doorgaans van maart tot september. Het droogste weer is van december tot maart. Oktober en november brengen de zwaarste regenval en ruwe zee die de veerdiensten kunnen verstoren. Walvishaaien worden het vaakst gespot tussen maart en mei."
+    }
+  },
+  "highlights": ["Scuba Diving", "Koh Nang Yuan", "Sairee Beach", "Shark Bay", "Snorkeling"],
+  "tags": ["diving", "snorkeling", "backpacker", "budget", "beach", "adventure"],
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Tao 2026: Diving, Snorkeling & Best Beaches Guide",
+      "nl": "Koh Tao 2026: Duiken, Snorkelen & Beste Stranden Gids"
+    },
+    "metaDescription": {
+      "en": "Complete Koh Tao guide 2026. PADI dive courses from $280, best snorkeling spots, beaches & nightlife. Plan your diving paradise holiday!",
+      "nl": "Complete Koh Tao gids 2026. PADI-duikcursussen vanaf €260, beste snorkelplekken, stranden & nachtleven. Plan je duikparadijs vakantie!"
+    }
+  }
+}

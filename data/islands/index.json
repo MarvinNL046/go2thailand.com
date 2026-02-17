@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "slug": "koh-samui",
+    "name": { "en": "Koh Samui", "nl": "Koh Samui" },
+    "region": "Gulf of Thailand",
+    "province": "Surat Thani",
+    "image": "/images/islands/koh-samui.webp",
+    "highlights": ["Chaweng Beach", "Big Buddha", "Ang Thong Marine Park"]
+  },
+  {
+    "id": 2,
+    "slug": "koh-phangan",
+    "name": { "en": "Koh Phangan", "nl": "Koh Phangan" },
+    "region": "Gulf of Thailand",
+    "province": "Surat Thani",
+    "image": "/images/islands/koh-phangan.webp",
+    "highlights": ["Full Moon Party", "Haad Rin Beach", "Thaan Sadet Waterfall"]
+  },
+  {
+    "id": 3,
+    "slug": "koh-tao",
+    "name": { "en": "Koh Tao", "nl": "Koh Tao" },
+    "region": "Gulf of Thailand",
+    "province": "Surat Thani",
+    "image": "/images/islands/koh-tao.webp",
+    "highlights": ["Diving & Snorkeling", "Sairee Beach", "Shark Island"]
+  },
+  {
+    "id": 4,
+    "slug": "koh-phi-phi",
+    "name": { "en": "Koh Phi Phi", "nl": "Koh Phi Phi" },
+    "region": "Andaman Sea",
+    "province": "Krabi",
+    "image": "/images/islands/koh-phi-phi.webp",
+    "highlights": ["Maya Bay", "Viewpoint Hike", "Phi Phi Leh"]
+  },
+  {
+    "id": 5,
+    "slug": "koh-lanta",
+    "name": { "en": "Koh Lanta", "nl": "Koh Lanta" },
+    "region": "Andaman Sea",
+    "province": "Krabi",
+    "image": "/images/islands/koh-lanta.webp",
+    "highlights": ["Long Beach", "Mu Ko Lanta National Park", "Old Town"]
+  },
+  {
+    "id": 6,
+    "slug": "koh-chang",
+    "name": { "en": "Koh Chang", "nl": "Koh Chang" },
+    "region": "Gulf of Thailand",
+    "province": "Trat",
+    "image": "/images/islands/koh-chang.webp",
+    "highlights": ["White Sand Beach", "Klong Plu Waterfall", "Lonely Beach"]
+  },
+  {
+    "id": 7,
+    "slug": "koh-lipe",
+    "name": { "en": "Koh Lipe", "nl": "Koh Lipe" },
+    "region": "Andaman Sea",
+    "province": "Satun",
+    "image": "/images/islands/koh-lipe.webp",
+    "highlights": ["Pattaya Beach", "Walking Street", "Tarutao Marine Park"]
+  },
+  {
+    "id": 8,
+    "slug": "koh-yao-noi",
+    "name": { "en": "Koh Yao Noi", "nl": "Koh Yao Noi" },
+    "region": "Andaman Sea",
+    "province": "Phang Nga",
+    "image": "/images/islands/koh-yao-noi.webp",
+    "highlights": ["Phang Nga Bay Views", "Rice Paddies", "Kayaking"]
+  },
+  {
+    "id": 9,
+    "slug": "koh-mak",
+    "name": { "en": "Koh Mak", "nl": "Koh Mak" },
+    "region": "Gulf of Thailand",
+    "province": "Trat",
+    "image": "/images/islands/koh-mak.webp",
+    "highlights": ["Ao Kao Beach", "Cycling", "Eco-Tourism"]
+  },
+  {
+    "id": 10,
+    "slug": "koh-samet",
+    "name": { "en": "Koh Samet", "nl": "Koh Samet" },
+    "region": "Gulf of Thailand",
+    "province": "Rayong",
+    "image": "/images/islands/koh-samet.webp",
+    "highlights": ["Sai Kaew Beach", "Fire Shows", "Weekend Getaway"]
+  }
+]

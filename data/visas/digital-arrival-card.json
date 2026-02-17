@@ -1,0 +1,95 @@
+{
+  "slug": "digital-arrival-card",
+  "title": { "en": "Digital Arrival Card (TM6 Online)", "nl": "Digitale Aankomstkaart (TM6 Online)" },
+  "icon": "📱",
+  "category": "general",
+  "description": {
+    "en": "Thailand has modernized its arrival process with the Digital Arrival Card, replacing the traditional paper TM6 arrival/departure card at most international airports. Since 2024, travelers arriving at Suvarnabhumi (BKK), Don Mueang (DMK), Phuket (HKT), and Chiang Mai (CNX) airports can complete their arrival card digitally before or upon arrival. This speeds up the immigration process significantly and eliminates the need for paper forms.",
+    "nl": "Thailand heeft het aankomstproces gemoderniseerd met de Digitale Aankomstkaart, die de traditionele papieren TM6 aankomst-/vertrekkaart op de meeste internationale luchthavens vervangt. Sinds 2024 kunnen reizigers die aankomen op de luchthavens Suvarnabhumi (BKK), Don Mueang (DMK), Phuket (HKT) en Chiang Mai (CNX) hun aankomstkaart digitaal invullen voor of bij aankomst. Dit versnelt het immigratieproces aanzienlijk en maakt papieren formulieren overbodig."
+  },
+  "requirements": [
+    {
+      "item": { "en": "Valid passport", "nl": "Geldig paspoort" },
+      "detail": { "en": "Your passport information must match exactly what you enter on the digital form", "nl": "Je paspoortgegevens moeten exact overeenkomen met wat je invult op het digitale formulier" }
+    },
+    {
+      "item": { "en": "Flight details", "nl": "Vluchtgegevens" },
+      "detail": { "en": "Flight number, airline, and arrival airport", "nl": "Vluchtnummer, luchtvaartmaatschappij en aankomstluchthaven" }
+    },
+    {
+      "item": { "en": "Accommodation address", "nl": "Accommodatie-adres" },
+      "detail": { "en": "Address of your hotel or place of stay in Thailand", "nl": "Adres van je hotel of verblijfplaats in Thailand" }
+    },
+    {
+      "item": { "en": "Smartphone or computer", "nl": "Smartphone of computer" },
+      "detail": { "en": "To access the online form at tdac.immigration.go.th or use the Thailand Digital Arrival Card mobile app", "nl": "Om het online formulier te openen op tdac.immigration.go.th of de Thailand Digital Arrival Card mobiele app te gebruiken" }
+    }
+  ],
+  "duration": {
+    "initial": "N/A - This is a one-time form per entry",
+    "extensions": {
+      "en": "The digital arrival card is a one-time requirement for each entry into Thailand. You need to complete a new one every time you enter the country. The form can be submitted up to 72 hours before your flight.",
+      "nl": "De digitale aankomstkaart is een eenmalige vereiste voor elke binnenkomst in Thailand. Je moet elke keer dat je het land binnenkomt een nieuwe invullen. Het formulier kan tot 72 uur voor je vlucht worden ingediend."
+    }
+  },
+  "cost": {
+    "entry": "Free",
+    "extension": "N/A"
+  },
+  "process": {
+    "steps": [
+      {
+        "step": 1,
+        "title": { "en": "Access the Digital Arrival Card", "nl": "Open de Digitale Aankomstkaart" },
+        "description": { "en": "Visit tdac.immigration.go.th up to 72 hours before your flight, or download the 'Thailand Digital Arrival Card' app from the App Store or Google Play. You can also complete the form at kiosks available in the airport arrival hall.", "nl": "Bezoek tdac.immigration.go.th tot 72 uur voor je vlucht, of download de 'Thailand Digital Arrival Card' app uit de App Store of Google Play. Je kunt het formulier ook invullen bij kiosken in de aankomsthal van de luchthaven." }
+      },
+      {
+        "step": 2,
+        "title": { "en": "Fill in Your Information", "nl": "Vul je Gegevens in" },
+        "description": { "en": "Enter your passport details, flight information, accommodation address in Thailand, and travel purpose. The form takes about 2-3 minutes to complete. Double-check all information matches your passport exactly.", "nl": "Vul je paspoortgegevens, vluchtinformatie, accommodatie-adres in Thailand en reisdoel in. Het formulier duurt ongeveer 2-3 minuten om in te vullen. Controleer of alle informatie exact overeenkomt met je paspoort." }
+      },
+      {
+        "step": 3,
+        "title": { "en": "Submit and Save Confirmation", "nl": "Indienen en Bevestiging Opslaan" },
+        "description": { "en": "Submit the form and save the QR code or confirmation number. You can screenshot it or save it to your phone's wallet. While immigration can look up your data electronically, having the QR code handy speeds things up.", "nl": "Dien het formulier in en sla de QR-code of het bevestigingsnummer op. Je kunt een screenshot maken of het opslaan in de wallet van je telefoon. Hoewel immigratie je gegevens elektronisch kan opzoeken, versnelt het hebben van de QR-code het proces." }
+      },
+      {
+        "step": 4,
+        "title": { "en": "Present at Immigration", "nl": "Toon bij Immigratie" },
+        "description": { "en": "At immigration control, present your passport. If you completed the digital card, the officer can see your information electronically. At some airports, there are dedicated lanes for travelers who completed the digital arrival card, offering faster processing.", "nl": "Toon bij de immigratiecontrole je paspoort. Als je de digitale kaart hebt ingevuld, kan de ambtenaar je gegevens elektronisch zien. Op sommige luchthavens zijn er speciale rijen voor reizigers die de digitale aankomstkaart hebben ingevuld, wat snellere verwerking biedt." }
+      }
+    ]
+  },
+  "eligible_countries": [
+    "All nationalities arriving at participating Thai airports"
+  ],
+  "faqs": [
+    {
+      "question": { "en": "Do I still need to fill out a paper TM6 form?", "nl": "Moet ik nog steeds een papieren TM6-formulier invullen?" },
+      "answer": { "en": "At the four major international airports (Suvarnabhumi, Don Mueang, Phuket, and Chiang Mai), the paper TM6 form has been replaced by the digital version. However, some smaller airports and land border crossings may still use paper forms. Check the latest information before your trip. When in doubt, the immigration officer will let you know.", "nl": "Op de vier grote internationale luchthavens (Suvarnabhumi, Don Mueang, Phuket en Chiang Mai) is het papieren TM6-formulier vervangen door de digitale versie. Sommige kleinere luchthavens en landsgrenzen gebruiken mogelijk nog papieren formulieren. Controleer de laatste informatie voor je reis. Bij twijfel zal de immigratieambtenaar je informeren." }
+    },
+    {
+      "question": { "en": "What if I forget to complete the digital arrival card before my flight?", "nl": "Wat als ik vergeet de digitale aankomstkaart voor mijn vlucht in te vullen?" },
+      "answer": { "en": "No problem. You can complete it at electronic kiosks in the airport arrival hall before going through immigration. Free Wi-Fi is available at all major Thai airports. The process only takes a few minutes at the kiosks.", "nl": "Geen probleem. Je kunt het invullen bij elektronische kiosken in de aankomsthal van de luchthaven voordat je door de immigratie gaat. Gratis Wi-Fi is beschikbaar op alle grote Thaise luchthavens. Het proces duurt slechts enkele minuten bij de kiosken." }
+    },
+    {
+      "question": { "en": "Do children need their own digital arrival card?", "nl": "Hebben kinderen een eigen digitale aankomstkaart nodig?" },
+      "answer": { "en": "Yes, every traveler regardless of age needs their own digital arrival card. Parents or guardians can complete the form on behalf of children. Each form is linked to a passport number.", "nl": "Ja, elke reiziger ongeacht leeftijd heeft een eigen digitale aankomstkaart nodig. Ouders of voogden kunnen het formulier invullen namens kinderen. Elk formulier is gekoppeld aan een paspoortnummer." }
+    },
+    {
+      "question": { "en": "Is the digital arrival card the same as an e-Visa?", "nl": "Is de digitale aankomstkaart hetzelfde als een e-Visum?" },
+      "answer": { "en": "No, they are completely different. The digital arrival card replaces the paper TM6 form and is required for all travelers entering Thailand. The e-Visa is an electronic visa application for those who need a visa before travel. You may need both if you are applying for a visa and entering at a major airport.", "nl": "Nee, ze zijn volledig verschillend. De digitale aankomstkaart vervangt het papieren TM6-formulier en is vereist voor alle reizigers die Thailand binnenkomen. Het e-Visum is een elektronische visumaanvraag voor wie een visum nodig heeft voor de reis. Je hebt mogelijk beide nodig als je een visum aanvraagt en aankomt op een grote luchthaven." }
+    }
+  ],
+  "tips": [
+    { "en": "Complete the digital arrival card in advance on your phone and save a screenshot of the QR code - airport Wi-Fi can be slow after a long flight.", "nl": "Vul de digitale aankomstkaart van tevoren in op je telefoon en sla een screenshot van de QR-code op - de luchthaven-Wi-Fi kan traag zijn na een lange vlucht." },
+    { "en": "Have your hotel booking confirmation open on your phone so you can easily copy the address into the form.", "nl": "Heb je hotelboekingsbevestiging open op je telefoon zodat je het adres makkelijk kunt kopieren in het formulier." },
+    { "en": "The form can be submitted up to 72 hours before arrival - do it while waiting at the gate for your connecting flight.", "nl": "Het formulier kan tot 72 uur voor aankomst worden ingediend - doe het terwijl je wacht bij de gate voor je overstapvlucht." },
+    { "en": "If traveling as a group, complete all forms together to save time - you need each person's passport details.", "nl": "Als je als groep reist, vul alle formulieren samen in om tijd te besparen - je hebt de paspoortgegevens van iedereen nodig." }
+  ],
+  "last_updated": "2026-02-17",
+  "seo": {
+    "metaTitle": { "en": "Thailand Digital Arrival Card 2026: TM6 Online Guide", "nl": "Thailand Digitale Aankomstkaart 2026: TM6 Online Gids" },
+    "metaDescription": { "en": "How to complete Thailand's Digital Arrival Card (TM6 Online) in 2026. Step-by-step guide, airport kiosks, mobile app and tips for fast immigration.", "nl": "Hoe vul je Thailand's Digitale Aankomstkaart (TM6 Online) in 2026. Stapsgewijze gids, luchthavenkiosken, mobiele app en tips voor snelle immigratie." }
+  }
+}

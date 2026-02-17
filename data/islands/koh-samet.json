@@ -1,0 +1,211 @@
+{
+  "slug": "koh-samet",
+  "name": { "en": "Koh Samet", "nl": "Koh Samet" },
+  "region": "Gulf of Thailand",
+  "province": "Rayong",
+  "image": "/images/islands/koh-samet.webp",
+  "description": {
+    "en": "Koh Samet is the closest major island to Bangkok, making it the capital's favorite weekend beach escape. Located just 200 kilometers southeast of Bangkok in the Gulf of Thailand, the island is part of Khao Laem Ya - Mu Ko Samet National Park. Its white sand beaches along the eastern coast are consistently sunny thanks to a microclimate that keeps it drier than the mainland, even during monsoon season. While popular with Thai weekenders, the island retains a more local feel than the southern islands and offers excellent beach-hopping along its east coast.",
+    "nl": "Koh Samet is het dichtstbijzijnde grote eiland bij Bangkok, waardoor het de favoriete weekendstrand-ontsnapping van de hoofdstad is. Op slechts 200 kilometer ten zuidoosten van Bangkok gelegen in de Golf van Thailand, maakt het eiland deel uit van het Khao Laem Ya - Mu Ko Samet Nationaal Park. De witte zandstranden langs de oostkust zijn consequent zonnig dankzij een microklimaat dat het droger houdt dan het vasteland, zelfs tijdens het moessonseizoen. Hoewel populair bij Thaise weekendgangers, behoudt het eiland een lokaler gevoel dan de zuidelijke eilanden en biedt uitstekende strandwandelingen langs de oostkust."
+  },
+  "beaches": [
+    {
+      "name": "Sai Kaew Beach (Diamond Beach)",
+      "description": {
+        "en": "The longest and most popular beach on Koh Samet, a 1-kilometer stretch of squeaky-white sand with clear turquoise water. The main hub with beachside restaurants, deck chairs, and nightly fire shows. Gets packed on weekends but quieter on weekdays.",
+        "nl": "Het langste en populairste strand van Koh Samet, een 1 kilometer lang stuk piepend wit zand met helder turquoise water. Het belangrijkste centrum met restaurants aan het strand, ligstoelen en nachtelijke vuurshows. Wordt druk in het weekend maar rustiger doordeweeks."
+      },
+      "best_for": ["swimming", "fire shows", "nightlife", "convenience"]
+    },
+    {
+      "name": "Ao Phai",
+      "description": {
+        "en": "A smaller beach just south of Sai Kaew with a good mix of budget and mid-range accommodation. The famous Naga Bar and Silver Sand are here, making it popular with younger travelers. Great swimming and a more relaxed vibe than Sai Kaew.",
+        "nl": "Een kleiner strand net ten zuiden van Sai Kaew met een goede mix van budget- en middensegment accommodatie. De beroemde Naga Bar en Silver Sand zijn hier, wat het populair maakt bij jongere reizigers. Geweldig zwemmen en een meer ontspannen sfeer dan Sai Kaew."
+      },
+      "best_for": ["backpackers", "nightlife", "swimming", "budget"]
+    },
+    {
+      "name": "Ao Wong Duan",
+      "description": {
+        "en": "A beautiful crescent-shaped bay with calm water, popular with Thai families and couples. Less party-oriented than the northern beaches with a more resort-like atmosphere. Water sports including banana boats and jet skis are available here.",
+        "nl": "Een prachtige halvemaanvormige baai met kalm water, populair bij Thaise gezinnen en stellen. Minder feestgericht dan de noordelijke stranden met een meer resort-achtige sfeer. Watersporten waaronder banaanboten en jetski's zijn hier beschikbaar."
+      },
+      "best_for": ["families", "couples", "water sports", "swimming"]
+    },
+    {
+      "name": "Ao Wai",
+      "description": {
+        "en": "A small, secluded beach on the southern part of the east coast, less developed and quieter than the main beaches. Crystal-clear water and good snorkeling around the rocks at either end. Only one resort and a restaurant operate here.",
+        "nl": "Een klein, afgelegen strand aan het zuidelijke deel van de oostkust, minder ontwikkeld en rustiger dan de hoofdstranden. Kristalhelder water en goed snorkelen rond de rotsen aan beide uiteinden. Slechts één resort en een restaurant zijn hier actief."
+      },
+      "best_for": ["seclusion", "snorkeling", "swimming"]
+    },
+    {
+      "name": "Ao Phrao (Paradise Beach)",
+      "description": {
+        "en": "The only developed beach on the west coast, offering stunning sunsets that the east coast beaches miss. Home to two upscale resorts (Le Vimarn and Ao Prao Resort), this beach has a more exclusive feel with excellent dining options.",
+        "nl": "Het enige ontwikkelde strand aan de westkust, met prachtige zonsondergangen die de stranden aan de oostkust missen. Thuisbasis van twee luxe resorts (Le Vimarn en Ao Prao Resort), dit strand heeft een exclusiever gevoel met uitstekende eetmogelijkheden."
+      },
+      "best_for": ["sunsets", "luxury", "dining", "romance"]
+    }
+  ],
+  "activities": [
+    {
+      "name": "Fire Shows on Sai Kaew Beach",
+      "type": "entertainment",
+      "description": {
+        "en": "Every evening, skilled fire dancers perform on Sai Kaew Beach, spinning flaming staffs, poi, and jumping through fire rings. The shows start around 9 PM and are free to watch from the beach. A magical experience under the stars with drinks from the beach bars.",
+        "nl": "Elke avond treden ervaren vuurdansers op het Sai Kaew Beach op, met draaiende vurige staven, poi en springen door vuurringen. De shows beginnen rond 21:00 uur en zijn gratis te bekijken vanaf het strand. Een magische ervaring onder de sterren met drankjes van de strandbars."
+      },
+      "price_range": "Free"
+    },
+    {
+      "name": "Snorkeling & Glass Bottom Boat",
+      "type": "water_sport",
+      "description": {
+        "en": "Half-day snorkeling tours visit the coral reefs around the southern tip of the island and nearby islets. For non-swimmers, glass bottom boat tours offer views of the underwater world without getting wet. Equipment rental available at most beaches.",
+        "nl": "Halve dag snorkeltochten bezoeken de koraalriffen rond de zuidpunt van het eiland en nabijgelegen eilandjes. Voor niet-zwemmers bieden glasbodemboot tours uitzicht op de onderwaterwereld zonder nat te worden. Uitrusting te huur op de meeste stranden."
+      },
+      "price_range": "$-$$"
+    },
+    {
+      "name": "Beach Hopping",
+      "type": "adventure",
+      "description": {
+        "en": "Walk the east coast trail connecting all the major beaches from Sai Kaew in the north to Ao Wai in the south. The trail passes through rocky headlands and jungle paths between beaches, offering a different character at each stop. Allow 2-3 hours for the full walk.",
+        "nl": "Wandel het pad langs de oostkust dat alle grote stranden verbindt, van Sai Kaew in het noorden tot Ao Wai in het zuiden. Het pad loopt over rotsachtige landtongen en junglepaden tussen de stranden, met een ander karakter bij elke stop. Reken op 2-3 uur voor de volledige wandeling."
+      },
+      "price_range": "Free"
+    },
+    {
+      "name": "Jet Skiing & Water Sports",
+      "type": "water_sport",
+      "description": {
+        "en": "Jet skis, banana boats, parasailing, and other water sports are available at Sai Kaew and Ao Wong Duan beaches. Prices are negotiable, especially on weekdays. Always check equipment condition and wear a life jacket.",
+        "nl": "Jetski's, banaanboten, parasailing en andere watersporten zijn beschikbaar op Sai Kaew en Ao Wong Duan stranden. Prijzen zijn onderhandelbaar, vooral doordeweeks. Controleer altijd de staat van de uitrusting en draag een reddingsvest."
+      },
+      "price_range": "$$"
+    },
+    {
+      "name": "Viewpoint & Mermaid Statue",
+      "type": "sightseeing",
+      "description": {
+        "en": "At the northern tip of the island near the ferry pier stands a golden mermaid statue, a tribute to the Phra Aphai Mani poem by Sunthorn Phu, one of Thailand's greatest poets who was from Rayong province. The viewpoint here offers nice views over Sai Kaew Beach.",
+        "nl": "Aan de noordpunt van het eiland bij de veerpier staat een gouden zeemeerminbeeld, een eerbetoon aan het Phra Aphai Mani gedicht van Sunthorn Phu, een van de grootste dichters van Thailand die uit de provincie Rayong kwam. Het uitzichtpunt hier biedt mooi uitzicht over Sai Kaew Beach."
+      },
+      "price_range": "Free"
+    }
+  ],
+  "getting_there": {
+    "from_bangkok": {
+      "options": [
+        {
+          "method": "Bus + Ferry",
+          "duration": "3.5-4 hours",
+          "price": "฿300-500",
+          "description": {
+            "en": "Take a bus from Bangkok's Eastern Bus Terminal (Ekkamai) to Ban Phe in Rayong (3 hours), then walk to the pier for a speedboat (15 minutes) or ferry (40 minutes) to Koh Samet. The easiest and cheapest option.",
+            "nl": "Neem een bus van het oostelijke busstation van Bangkok (Ekkamai) naar Ban Phe in Rayong (3 uur), loop vervolgens naar de pier voor een speedboot (15 minuten) of veerboot (40 minuten) naar Koh Samet. De makkelijkste en goedkoopste optie."
+          }
+        },
+        {
+          "method": "Minivan Direct",
+          "duration": "3-3.5 hours",
+          "price": "฿400-700",
+          "description": {
+            "en": "Private minivans operate from Bangkok (Khao San Road or hotel pickups) directly to Ban Phe pier, including the ferry crossing to Koh Samet. Door-to-island convenience at a reasonable price.",
+            "nl": "Privé minibussen rijden van Bangkok (Khao San Road of hotel ophaalservice) direct naar Ban Phe pier, inclusief de veerbotoversteek naar Koh Samet. Deur-tot-eiland gemak tegen een redelijke prijs."
+          }
+        },
+        {
+          "method": "Self-Drive",
+          "duration": "2.5-3 hours",
+          "price": "Ferry ฿100 + fuel/toll",
+          "description": {
+            "en": "Drive from Bangkok on the Motorway (Route 7) to Rayong, then follow signs to Ban Phe. Parking is available at the pier (฿50-100/day). Cars cannot be taken to the island. The drive is straightforward on modern highways.",
+            "nl": "Rijd vanuit Bangkok over de snelweg (Route 7) naar Rayong, volg daarna de borden naar Ban Phe. Parkeren is beschikbaar bij de pier (฿50-100/dag). Auto's kunnen niet mee naar het eiland. De rit is eenvoudig over moderne snelwegen."
+          }
+        },
+        {
+          "method": "Taxi / Private Transfer",
+          "duration": "2.5-3 hours",
+          "price": "฿2,000-3,000",
+          "description": {
+            "en": "Private taxi from Bangkok to Ban Phe pier. Comfortable and convenient for groups. Can be arranged through hotels or apps like Grab. The taxi will drop you at the pier where you take the ferry.",
+            "nl": "Privé taxi van Bangkok naar Ban Phe pier. Comfortabel en handig voor groepen. Kan worden geregeld via hotels of apps zoals Grab. De taxi zet je af bij de pier waar je de veerboot neemt."
+          }
+        }
+      ]
+    }
+  },
+  "accommodation_tips": {
+    "areas": [
+      {
+        "name": "Sai Kaew Beach",
+        "description": {
+          "en": "The main area with the most accommodation, restaurants, and nightlife. Best for first-time visitors. Prices spike significantly on weekends and Thai holidays. Book ahead for weekends.",
+          "nl": "Het hoofdgebied met de meeste accommodatie, restaurants en nachtleven. Het beste voor eerste bezoekers. Prijzen stijgen aanzienlijk in het weekend en tijdens Thaise feestdagen. Boek vooruit voor weekenden."
+        },
+        "price_range": "$$-$$$$"
+      },
+      {
+        "name": "Ao Phai / Ao Tubtim",
+        "description": {
+          "en": "More relaxed than Sai Kaew with a backpacker-friendly vibe and mid-range options. Ao Tubtim is particularly charming with wooden bungalows set among trees right on the beach.",
+          "nl": "Meer ontspannen dan Sai Kaew met een backpackervriendelijke sfeer en middensegment opties. Ao Tubtim is bijzonder charmant met houten bungalows tussen de bomen direct aan het strand."
+        },
+        "price_range": "$-$$$"
+      },
+      {
+        "name": "Ao Wong Duan",
+        "description": {
+          "en": "A popular alternative to Sai Kaew with a more resort-oriented atmosphere. Family-friendly with calmer nightlife. Several beachfront resorts offer good value packages, especially midweek.",
+          "nl": "Een populair alternatief voor Sai Kaew met een meer resort-achtige sfeer. Gezinsvriendelijk met rustiger nachtleven. Verschillende strandresorts bieden goede pakketten, vooral doordeweeks."
+        },
+        "price_range": "$$-$$$"
+      },
+      {
+        "name": "Ao Phrao (West Coast)",
+        "description": {
+          "en": "The premium side of the island with only two luxury resorts. Perfect for sunset lovers and those seeking exclusivity. Prices are higher but the experience is worth it for a special occasion.",
+          "nl": "De premium kant van het eiland met slechts twee luxe resorts. Perfect voor zonsondergangliefhebbers en wie exclusiviteit zoekt. Prijzen zijn hoger maar de ervaring is het waard voor een speciale gelegenheid."
+        },
+        "price_range": "$$$-$$$$"
+      }
+    ]
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$25-40",
+      "mid": "$50-100",
+      "luxury": "$150+"
+    },
+    "currency_tips": {
+      "en": "There are several ATMs on the island, mainly near the main pier and Sai Kaew Beach. Standard ฿220 foreign card fee applies. Many resorts accept credit cards. Weekend prices can be 50-100% higher than weekday prices for accommodation. Tip: visit midweek for the best value.",
+      "nl": "Er zijn meerdere geldautomaten op het eiland, voornamelijk bij de hoofdpier en Sai Kaew Beach. De standaard ฿220 buitenlandse kaartkosten zijn van toepassing. Veel resorts accepteren creditcards. Weekendprijzen kunnen 50-100% hoger zijn dan doordeweekse prijzen voor accommodatie. Tip: bezoek het eiland doordeweeks voor de beste waarde."
+    }
+  },
+  "best_time_to_visit": {
+    "high_season": "Nov-May",
+    "shoulder": "Jun, Oct",
+    "low_season": "Jul-Sep",
+    "avoid": "Weekends/Thai holidays for crowds",
+    "description": {
+      "en": "Thanks to its unique microclimate, Koh Samet receives significantly less rainfall than the mainland and other islands, making it a good year-round destination. Even during the official rainy season, the island often enjoys sunshine while the coast has rain. The biggest factor is not weather but crowds: avoid weekends and Thai public holidays when prices double and beaches fill up. Weekdays offer a completely different, quieter experience.",
+      "nl": "Dankzij het unieke microklimaat ontvangt Koh Samet aanzienlijk minder regenval dan het vasteland en andere eilanden, waardoor het een goede jaarronde bestemming is. Zelfs tijdens het officiële regenseizoen geniet het eiland vaak van zonneschijn terwijl de kust regen heeft. De belangrijkste factor is niet het weer maar de drukte: vermijd weekenden en Thaise feestdagen wanneer prijzen verdubbelen en stranden vollopen. Doordeweeks biedt een compleet andere, rustigere ervaring."
+    }
+  },
+  "highlights": ["Sai Kaew Beach", "Fire Shows", "Weekend Getaway", "Beach Hopping", "Ao Phrao Sunsets"],
+  "tags": ["beach", "weekend-getaway", "nightlife", "family", "close-to-bangkok", "water sports"],
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Samet 2026: Bangkok's Closest Beach Island Guide",
+      "nl": "Koh Samet 2026: Het Dichtstbijzijnde Strandeiland bij Bangkok"
+    },
+    "metaDescription": {
+      "en": "Complete Koh Samet guide 2026. Just 3 hours from Bangkok! Best beaches, fire shows, hotels & weekend tips. Plan your quick Thai island escape!",
+      "nl": "Complete Koh Samet gids 2026. Slechts 3 uur van Bangkok! Beste stranden, vuurshows, hotels & weekendtips. Plan je snelle Thaise eilandontsnapping!"
+    }
+  }
+}

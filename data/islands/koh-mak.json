@@ -1,0 +1,170 @@
+{
+  "slug": "koh-mak",
+  "name": { "en": "Koh Mak", "nl": "Koh Mak" },
+  "region": "Gulf of Thailand",
+  "province": "Trat",
+  "image": "/images/islands/koh-mak.webp",
+  "description": {
+    "en": "Koh Mak is a small, flat island in the Trat archipelago that has earned the distinction of being Thailand's first 'Low Carbon Destination.' With no jet skis, no big parties, and limited development, this coconut-plantation-covered island offers a genuinely peaceful escape. The island is only 16 km² with around 400 permanent residents, mostly descended from the five families who originally settled here. Koh Mak is perfect for travelers who want to unplug, cycle through palm groves, and enjoy uncrowded beaches.",
+    "nl": "Koh Mak is een klein, vlak eiland in de Trat-archipel dat de onderscheiding heeft verdiend als de eerste 'Low Carbon Destination' van Thailand. Zonder jetski's, zonder grote feesten en met beperkte ontwikkeling, biedt dit met kokosplantages bedekte eiland een oprecht vredige ontsnapping. Het eiland is slechts 16 km² groot met ongeveer 400 vaste bewoners, grotendeels afstammelingen van de vijf families die hier oorspronkelijk neerstreken. Koh Mak is perfect voor reizigers die willen ontkoppelen, door palmboomgaarden fietsen en genieten van rustige stranden."
+  },
+  "beaches": [
+    {
+      "name": "Ao Kao Beach",
+      "description": {
+        "en": "The most popular beach on Koh Mak, a beautiful crescent of white sand on the southwest coast with crystal-clear shallow water perfect for swimming. Most of the island's resorts line this beach, yet it never feels crowded.",
+        "nl": "Het populairste strand van Koh Mak, een prachtige halvemaan van wit zand aan de zuidwestkust met kristalhelder ondiep water perfect om te zwemmen. De meeste resorts van het eiland liggen langs dit strand, maar het voelt nooit druk aan."
+      },
+      "best_for": ["swimming", "relaxation", "families"]
+    },
+    {
+      "name": "Ao Suan Yai Beach",
+      "description": {
+        "en": "A long, quiet beach on the northwest coast with stunning sunset views over Koh Chang and Koh Kham. The shallow water stretches far out, making it safe for children. A few beach restaurants serve fresh seafood.",
+        "nl": "Een lang, rustig strand aan de noordwestkust met prachtige zonsondergangen over Koh Chang en Koh Kham. Het ondiepe water strekt zich ver uit, wat het veilig maakt voor kinderen. Een paar strandrestaurants serveren verse zeevruchten."
+      },
+      "best_for": ["sunsets", "families", "peace and quiet"]
+    },
+    {
+      "name": "Ao Khao Beach",
+      "description": {
+        "en": "A secluded beach on the south coast with a more rugged feel, flanked by mangroves and coconut palms. Less developed than the main beaches, offering a true castaway experience. The snorkeling off the rocks is decent.",
+        "nl": "Een afgelegen strand aan de zuidkust met een meer ruig gevoel, geflankeerd door mangroven en kokospalmen. Minder ontwikkeld dan de hoofdstranden, wat een echte Robinson Crusoë-ervaring biedt. Het snorkelen bij de rotsen is redelijk."
+      },
+      "best_for": ["seclusion", "nature", "snorkeling"]
+    }
+  ],
+  "activities": [
+    {
+      "name": "Cycling Around the Island",
+      "type": "adventure",
+      "description": {
+        "en": "The flat terrain and quiet roads make Koh Mak perfect for cycling. The full circuit takes about 2 hours, passing through coconut plantations, rubber tree groves, and charming villages. Most resorts offer free or cheap bicycle rental.",
+        "nl": "Het vlakke terrein en de rustige wegen maken Koh Mak perfect om te fietsen. Het volledige rondje duurt ongeveer 2 uur, langs kokosplantages, rubberboomplantages en charmante dorpjes. De meeste resorts bieden gratis of goedkope fietsverhuur."
+      },
+      "price_range": "Free-$"
+    },
+    {
+      "name": "Koh Kham Snorkeling Trip",
+      "type": "day_trip",
+      "description": {
+        "en": "A short longtail boat ride to nearby Koh Kham, a tiny private island with pristine coral reefs and incredibly clear water. The snorkeling here is among the best in the Trat archipelago. Some tours combine Koh Kham with Koh Rayang.",
+        "nl": "Een korte longtailbootrit naar het nabijgelegen Koh Kham, een klein privé-eiland met ongerepte koraalriffen en ongelooflijk helder water. Het snorkelen hier behoort tot het beste in de Trat-archipel. Sommige tours combineren Koh Kham met Koh Rayang."
+      },
+      "price_range": "$-$$"
+    },
+    {
+      "name": "Koh Mak Cooking Class",
+      "type": "cultural",
+      "description": {
+        "en": "Several small operators offer Thai cooking classes using fresh, locally sourced ingredients. The intimate setting on a small island makes these classes feel more personal than those in tourist hotspots. Learn to make pad thai, green curry, and mango sticky rice.",
+        "nl": "Verschillende kleine operators bieden Thaise kooklessen aan met verse, lokaal geproduceerde ingrediënten. De intieme setting op een klein eiland maakt deze lessen persoonlijker dan die op toeristische hotspots. Leer pad thai, groene curry en mango sticky rice maken."
+      },
+      "price_range": "$-$$"
+    },
+    {
+      "name": "Kayaking & Stand-Up Paddleboarding",
+      "type": "water_sport",
+      "description": {
+        "en": "The calm, shallow waters around Koh Mak are ideal for kayaking and SUP. Paddle along the coastline, explore mangrove channels, or cross to nearby islets. Most resorts offer complimentary kayaks and SUP boards for guests.",
+        "nl": "Het kalme, ondiepe water rond Koh Mak is ideaal voor kajakken en suppen. Peddel langs de kustlijn, verken mangrovekanalen of steek over naar nabijgelegen eilandjes. De meeste resorts bieden gratis kajaks en SUP-boards voor gasten."
+      },
+      "price_range": "Free-$"
+    }
+  ],
+  "getting_there": {
+    "from_bangkok": {
+      "options": [
+        {
+          "method": "Bus to Trat + Speedboat",
+          "duration": "6-7 hours",
+          "price": "฿500-900",
+          "description": {
+            "en": "Take a bus from Bangkok's Eastern Bus Terminal (Ekkamai) to Trat (4-5 hours), then transfer to Laem Ngop Pier for a speedboat to Koh Mak (1 hour). Combined tickets are available. Boats run 2-3 times daily in high season.",
+            "nl": "Neem een bus van het oostelijke busstation van Bangkok (Ekkamai) naar Trat (4-5 uur), reis vervolgens naar Laem Ngop Pier voor een speedboot naar Koh Mak (1 uur). Gecombineerde tickets zijn beschikbaar. Boten varen 2-3 keer per dag in het hoogseizoen."
+          }
+        },
+        {
+          "method": "Minivan + Speedboat",
+          "duration": "5-6 hours",
+          "price": "฿600-1,000",
+          "description": {
+            "en": "Private minivans from Bangkok to Laem Ngop Pier, then speedboat to Koh Mak. Slightly faster and more comfortable than public buses. Can be booked through travel agents or online.",
+            "nl": "Privé minibussen van Bangkok naar Laem Ngop Pier, vervolgens speedboot naar Koh Mak. Iets sneller en comfortabeler dan openbare bussen. Kan worden geboekt via reisbureaus of online."
+          }
+        },
+        {
+          "method": "Flight to Trat + Speedboat",
+          "duration": "2.5-3 hours",
+          "price": "฿2,500-5,000",
+          "description": {
+            "en": "Bangkok Airways flies daily to Trat airport (1 hour), then transfer to the pier for a speedboat to Koh Mak. The fastest option but flights are limited and relatively expensive.",
+            "nl": "Bangkok Airways vliegt dagelijks naar de luchthaven van Trat (1 uur), vervolgens transfer naar de pier voor een speedboot naar Koh Mak. De snelste optie maar vluchten zijn beperkt en relatief duur."
+          }
+        },
+        {
+          "method": "From Koh Chang",
+          "duration": "1-2 hours",
+          "price": "฿400-600",
+          "description": {
+            "en": "If already on Koh Chang, speedboats run to Koh Mak from Bang Bao Pier (1 hour). A great way to combine both islands in one trip. Service operates daily during high season.",
+            "nl": "Als je al op Koh Chang bent, varen speedboten naar Koh Mak vanaf Bang Bao Pier (1 uur). Een geweldige manier om beide eilanden in één reis te combineren. De dienst opereert dagelijks tijdens het hoogseizoen."
+          }
+        }
+      ]
+    }
+  },
+  "accommodation_tips": {
+    "areas": [
+      {
+        "name": "Ao Kao (Southwest)",
+        "description": {
+          "en": "The main tourist area with the best beach and most accommodation options. A good mix of mid-range resorts and simple bungalows. This is where most visitors stay and where the main pier is located.",
+          "nl": "Het belangrijkste toeristische gebied met het beste strand en de meeste accommodatiemogelijkheden. Een goede mix van resorts in het middensegment en eenvoudige bungalows. Hier verblijven de meeste bezoekers en hier bevindt zich de hoofdpier."
+        },
+        "price_range": "$$-$$$"
+      },
+      {
+        "name": "Ao Suan Yai (Northwest)",
+        "description": {
+          "en": "A quieter alternative with lovely sunset views and a handful of relaxed resorts. Ideal for couples and anyone wanting extra tranquility. A short motorbike ride to the main area.",
+          "nl": "Een rustiger alternatief met mooie zonsondergangen en een handvol ontspannen resorts. Ideaal voor stellen en iedereen die extra rust wil. Een korte motorrit naar het hoofdgebied."
+        },
+        "price_range": "$$"
+      }
+    ]
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$25-40",
+      "mid": "$50-80",
+      "luxury": "$100+"
+    },
+    "currency_tips": {
+      "en": "There is only one ATM on the island and it does not always work. Bring sufficient cash from the mainland (Trat) or Koh Chang. Some resorts accept credit cards but most small restaurants and shops are cash-only. Prices are reasonable compared to more popular islands.",
+      "nl": "Er is slechts één geldautomaat op het eiland en deze werkt niet altijd. Neem voldoende contant geld mee vanaf het vasteland (Trat) of Koh Chang. Sommige resorts accepteren creditcards maar de meeste kleine restaurants en winkels accepteren alleen contant geld. Prijzen zijn redelijk vergeleken met populairdere eilanden."
+    }
+  },
+  "best_time_to_visit": {
+    "high_season": "Nov-Apr",
+    "shoulder": "May, Oct",
+    "low_season": "Jun-Sep",
+    "avoid": "Jun-Aug",
+    "description": {
+      "en": "November to April offers the best weather with sunny skies and calm seas. The monsoon season from June to September brings rain and reduced boat services, with some resorts closing for the season. May and October can offer good value with decent weather. Koh Mak gets particularly busy during Thai public holidays, especially New Year and Songkran.",
+      "nl": "November tot april biedt het beste weer met zonnige luchten en kalme zeeën. Het moessonseizoen van juni tot september brengt regen en verminderde bootdiensten, waarbij sommige resorts sluiten voor het seizoen. Mei en oktober kunnen goede waarde bieden met redelijk weer. Koh Mak wordt bijzonder druk tijdens Thaise feestdagen, vooral nieuwjaar en Songkran."
+    }
+  },
+  "highlights": ["Ao Kao Beach", "Cycling", "Eco-Tourism", "Koh Kham Snorkeling", "Island Tranquility"],
+  "tags": ["eco-tourism", "cycling", "family", "relaxation", "off-the-beaten-path", "beach", "quiet"],
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Mak 2026: Thailand's Eco-Paradise Island Guide",
+      "nl": "Koh Mak 2026: Thailand's Eco-paradijs Eilandgids"
+    },
+    "metaDescription": {
+      "en": "Complete Koh Mak guide 2026. Thailand's Low Carbon Destination with pristine beaches, cycling & eco-tourism. Perfect for a peaceful island escape!",
+      "nl": "Complete Koh Mak gids 2026. Thailand's Low Carbon Destination met ongerepte stranden, fietsen & ecotoerisme. Perfect voor een rustige eilandontsnapping!"
+    }
+  }
+}

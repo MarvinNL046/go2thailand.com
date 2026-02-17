@@ -1,0 +1,103 @@
+{
+  "slug": "visa-extension",
+  "title": { "en": "Visa Extensions & Border Runs", "nl": "Visumverlengingen & Border Runs" },
+  "icon": "🔄",
+  "category": "general",
+  "description": {
+    "en": "If you want to stay longer in Thailand than your current visa or entry stamp allows, you have several options. The most common is applying for a visa extension at a Thai immigration office. Alternatively, some travelers do a 'border run' - leaving Thailand and immediately re-entering to get a fresh entry stamp. This guide covers all extension options, the border run process, and important rules to know.",
+    "nl": "Als je langer in Thailand wilt blijven dan je huidige visum of inreisstempel toestaat, heb je verschillende opties. De meest voorkomende is het aanvragen van een visumverlenging bij een Thais immigratiekantoor. Als alternatief doen sommige reizigers een 'border run' - Thailand verlaten en direct weer binnenkomen voor een nieuwe inreisstempel. Deze gids behandelt alle verlengingsopties, het border run-proces en belangrijke regels die je moet kennen."
+  },
+  "requirements": [
+    {
+      "item": { "en": "Valid passport", "nl": "Geldig paspoort" },
+      "detail": { "en": "Must have at least 6 months validity and blank pages for stamps", "nl": "Moet minimaal 6 maanden geldig zijn en lege pagina's hebben voor stempels" }
+    },
+    {
+      "item": { "en": "TM.7 application form", "nl": "TM.7 aanvraagformulier" },
+      "detail": { "en": "Available at immigration offices or downloadable from the immigration website", "nl": "Verkrijgbaar bij immigratiekantoren of te downloaden van de immigratiewebsite" }
+    },
+    {
+      "item": { "en": "Passport-sized photo", "nl": "Pasfoto" },
+      "detail": { "en": "One recent photo (4x6 cm) for the extension application", "nl": "Een recente foto (4x6 cm) voor de verlengingsaanvraag" }
+    },
+    {
+      "item": { "en": "Extension fee", "nl": "Verlengingskosten" },
+      "detail": { "en": "1,900 THB paid in cash at the immigration office", "nl": "1.900 THB contant betaald bij het immigratiekantoor" }
+    },
+    {
+      "item": { "en": "Proof of accommodation", "nl": "Bewijs van accommodatie" },
+      "detail": { "en": "TM.30 receipt showing your registered address in Thailand (your hotel or landlord should have filed this)", "nl": "TM.30-ontvangstbewijs met je geregistreerde adres in Thailand (je hotel of verhuurder zou dit moeten hebben ingediend)" }
+    }
+  ],
+  "duration": {
+    "initial": "Varies by original visa type",
+    "extensions": {
+      "en": "Visa-free entry: +30 days extension. Tourist Visa (TR): +30 days. DTV: +180 days. Non-O/O-A retirement: +1 year. Education Visa: +90 days increments. For border runs, you receive a fresh 60-day visa-free stamp upon re-entry (if eligible).",
+      "nl": "Visumvrije toegang: +30 dagen verlenging. Toeristenvisum (TR): +30 dagen. DTV: +180 dagen. Non-O/O-A pensioen: +1 jaar. Studievisum: +90 dagen stappen. Bij border runs ontvang je een nieuwe 60-dagenvisumvrije stempel bij hernieuwde binnenkomst (als je in aanmerking komt)."
+    }
+  },
+  "cost": {
+    "entry": "N/A",
+    "extension": "1,900 THB (~$55 USD) for standard 30-day extension"
+  },
+  "process": {
+    "steps": [
+      {
+        "step": 1,
+        "title": { "en": "Check Your Deadline", "nl": "Controleer je Deadline" },
+        "description": { "en": "Check the date stamp in your passport. You should apply for an extension at least a few days before it expires. Extensions can be applied for up to 45 days before expiry at some offices. Overstaying even one day results in a 500 THB/day fine.", "nl": "Controleer de datumstempel in je paspoort. Je moet minstens een paar dagen voor het verlopen een verlenging aanvragen. Bij sommige kantoren kun je tot 45 dagen voor het verlopen een verlenging aanvragen. Zelfs een dag overstay levert een boete op van 500 THB/dag." }
+      },
+      {
+        "step": 2,
+        "title": { "en": "Visit an Immigration Office", "nl": "Bezoek een Immigratiekantoor" },
+        "description": { "en": "Go to any Thai immigration office. Major offices are at Chaeng Wattana (Bangkok), Muang Thong Thani, Chiang Mai, Phuket, Pattaya, and Koh Samui. Arrive early - offices open at 8:30 AM and popular ones get very busy. Bring passport, photos, TM.7 form, and 1,900 THB cash.", "nl": "Ga naar een willekeurig Thais immigratiekantoor. Grote kantoren zijn bij Chaeng Wattana (Bangkok), Muang Thong Thani, Chiang Mai, Phuket, Pattaya en Koh Samui. Kom vroeg - kantoren openen om 8:30 en populaire kantoren worden erg druk. Neem paspoort, foto's, TM.7-formulier en 1.900 THB contant mee." }
+      },
+      {
+        "step": 3,
+        "title": { "en": "Submit Application", "nl": "Dien Aanvraag in" },
+        "description": { "en": "Submit your completed TM.7 form, passport, photo, and fee. The officer will review your documents. In most cases, the extension is granted the same day and stamped in your passport.", "nl": "Dien je ingevulde TM.7-formulier, paspoort, foto en kosten in. De ambtenaar zal je documenten beoordelen. In de meeste gevallen wordt de verlenging dezelfde dag verleend en in je paspoort gestempeld." }
+      },
+      {
+        "step": 4,
+        "title": { "en": "Alternative: Border Run", "nl": "Alternatief: Border Run" },
+        "description": { "en": "If you prefer a border run, travel to a neighboring country (Cambodia, Laos, Myanmar, or Malaysia) and re-enter Thailand. Popular border runs: Bangkok to Poipet (Cambodia), Chiang Mai to Mae Sai (Myanmar border), Hat Yai to Padang Besar (Malaysia). Note: frequent border runs may raise flags with immigration.", "nl": "Als je de voorkeur geeft aan een border run, reis naar een buurland (Cambodja, Laos, Myanmar of Maleisie) en keer terug naar Thailand. Populaire border runs: Bangkok naar Poipet (Cambodja), Chiang Mai naar Mae Sai (Myanmar-grens), Hat Yai naar Padang Besar (Maleisie). Let op: frequente border runs kunnen vragen oproepen bij immigratie." }
+      }
+    ]
+  },
+  "eligible_countries": [
+    "All visa holders and visa-free entry visitors can apply for extensions"
+  ],
+  "faqs": [
+    {
+      "question": { "en": "How many times can I extend my visa?", "nl": "Hoe vaak kan ik mijn visum verlengen?" },
+      "answer": { "en": "For visa-free entry and Tourist Visa holders, you can extend once for 30 days at immigration. After that, you would need to leave Thailand (border run) or apply for a different visa type. Retirement and education visas can be renewed annually and every 90 days respectively as long as requirements are met.", "nl": "Voor visumvrije toegang en toeristenvisumhouders kun je eenmalig 30 dagen verlengen bij immigratie. Daarna moet je Thailand verlaten (border run) of een ander visumtype aanvragen. Pensioen- en studievisa kunnen respectievelijk jaarlijks en elke 90 dagen verlengd worden zolang aan de vereisten wordt voldaan." }
+    },
+    {
+      "question": { "en": "Are border runs still allowed in 2026?", "nl": "Zijn border runs nog steeds toegestaan in 2026?" },
+      "answer": { "en": "Yes, border runs are legal. However, Thai immigration has become stricter with frequent border runners. If you do more than 2-3 border runs within a year, you may be questioned about your intentions or denied entry. Officers have discretion to deny entry to anyone they suspect of using tourist entries to live in Thailand long-term.", "nl": "Ja, border runs zijn legaal. Echter, de Thaise immigratiedienst is strenger geworden met frequente border runners. Als je meer dan 2-3 border runs doet binnen een jaar, kun je vragen krijgen over je intenties of de toegang geweigerd worden. Ambtenaren hebben de bevoegdheid om iedereen de toegang te weigeren van wie ze vermoeden dat die toeristenbinnenkomsten gebruikt om langdurig in Thailand te wonen." }
+    },
+    {
+      "question": { "en": "What if I overstay my visa?", "nl": "Wat als ik langer blijf dan mijn visum toestaat?" },
+      "answer": { "en": "Overstaying is fined at 500 THB per day, up to a maximum of 20,000 THB. If you voluntarily leave and pay the fine at the airport, you may face a short-term ban. If caught by police during an overstay, the consequences are more severe: detention, deportation, and a ban from re-entering Thailand for 1-10 years depending on the duration of overstay.", "nl": "Overstay wordt beboet met 500 THB per dag, tot maximaal 20.000 THB. Als je vrijwillig vertrekt en de boete betaalt op de luchthaven, kun je een kortdurend inreisverbod krijgen. Als je betrapt wordt door de politie tijdens een overstay, zijn de consequenties ernstiger: detentie, uitzetting en een inreisverbod voor Thailand van 1-10 jaar afhankelijk van de duur van de overstay." }
+    },
+    {
+      "question": { "en": "Can I extend my visa online?", "nl": "Kan ik mijn visum online verlengen?" },
+      "answer": { "en": "As of 2026, Thailand is rolling out online extension services for some visa types, but availability is limited. The 90-day reporting (TM.47) for long-stay visa holders can be done online. For the standard 30-day tourist extension, you still need to visit an immigration office in person in most cases.", "nl": "Vanaf 2026 rolt Thailand online verlengingsservices uit voor sommige visumtypen, maar de beschikbaarheid is beperkt. De 90-dagenmelding (TM.47) voor langverblijfsvisumhouders kan online worden gedaan. Voor de standaard 30-dagentoeristen verlenging moet je in de meeste gevallen nog persoonlijk een immigratiekantoor bezoeken." }
+    },
+    {
+      "question": { "en": "What is the cheapest border run from Bangkok?", "nl": "Wat is de goedkoopste border run vanuit Bangkok?" },
+      "answer": { "en": "The cheapest option is a minivan to the Cambodia border at Aranyaprathet/Poipet. Companies run day-trip services from Bangkok for around 1,500-2,500 THB including transport. You cross into Cambodia (may need a Cambodia e-visa or visa on arrival, ~$30 USD) and immediately re-enter Thailand. Total cost is approximately 2,500-4,000 THB. Alternatively, a budget flight to Kuala Lumpur or Vientiane can cost as little as 2,000-3,000 THB one-way.", "nl": "De goedkoopste optie is een minivan naar de Cambodjaanse grens bij Aranyaprathet/Poipet. Bedrijven bieden dagrittenservices vanuit Bangkok aan voor ongeveer 1.500-2.500 THB inclusief transport. Je steekt over naar Cambodja (mogelijk heb je een Cambodja e-visum of visum bij aankomst nodig, ~$30 USD) en keert direct terug naar Thailand. Totale kosten zijn ongeveer 2.500-4.000 THB. Als alternatief kan een budgetvlucht naar Kuala Lumpur of Vientiane slechts 2.000-3.000 THB kosten voor een enkele reis." }
+    }
+  ],
+  "tips": [
+    { "en": "The immigration office at Chaeng Wattana in Bangkok is the largest but also the busiest - arrive before 8:00 AM to avoid long waits.", "nl": "Het immigratiekantoor bij Chaeng Wattana in Bangkok is het grootste maar ook het drukste - kom voor 8:00 uur om lange wachttijden te vermijden." },
+    { "en": "Some immigration offices (like Koh Samui and Chiang Mai) are much faster and less crowded than Bangkok.", "nl": "Sommige immigratiekantoren (zoals Koh Samui en Chiang Mai) zijn veel sneller en minder druk dan Bangkok." },
+    { "en": "Always get a re-entry permit before leaving Thailand if you have a long-stay visa - otherwise your extension is cancelled.", "nl": "Haal altijd een re-entry permit voordat je Thailand verlaat als je een langverblijfsvisum hebt - anders wordt je verlenging geannuleerd." },
+    { "en": "Bring extra passport photos and copies of your passport - you may need them even if not listed in the requirements.", "nl": "Neem extra pasfoto's en kopieen van je paspoort mee - je kunt ze nodig hebben ook als ze niet in de vereisten staan." }
+  ],
+  "last_updated": "2026-02-17",
+  "seo": {
+    "metaTitle": { "en": "Thailand Visa Extension & Border Run Guide 2026", "nl": "Thailand Visumverlenging & Border Run Gids 2026" },
+    "metaDescription": { "en": "How to extend your Thailand visa in 2026. Step-by-step extension process, border run options, overstay penalties, and immigration office tips.", "nl": "Hoe verleng je je Thailand visum in 2026. Stapsgewijs verlengingsproces, border run opties, overstay-boetes en tips voor het immigratiekantoor." }
+  }
+}

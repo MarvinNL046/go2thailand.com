@@ -1,0 +1,115 @@
+{
+  "slug": "retirement-visa",
+  "title": { "en": "Retirement Visa (Non-O-A / Non-O)", "nl": "Pensioenvisum (Non-O-A / Non-O)" },
+  "icon": "🏖️",
+  "category": "long-stay",
+  "description": {
+    "en": "Thailand's retirement visa is one of the most popular long-stay options for retirees worldwide. Available to anyone aged 50 or older, it comes in two main forms: the Non-Immigrant O-A visa (applied for at an embassy abroad, valid for 1 year) and the Non-Immigrant O visa (applied for in Thailand on a retirement basis, initially 90 days but extendable to 1 year). Both require proof of financial means and allow you to live in Thailand year-round with annual renewals.",
+    "nl": "Het Thaise pensioenvisum is een van de populairste langverblijfsopties voor gepensioneerden wereldwijd. Beschikbaar voor iedereen van 50 jaar of ouder, het komt in twee hoofdvormen: het Non-Immigrant O-A visum (aangevraagd bij een ambassade in het buitenland, 1 jaar geldig) en het Non-Immigrant O visum (aangevraagd in Thailand op pensioenbasis, eerst 90 dagen maar verlengbaar tot 1 jaar). Beide vereisen bewijs van financiele middelen en staan je toe het hele jaar in Thailand te wonen met jaarlijkse verlengingen."
+  },
+  "requirements": [
+    {
+      "item": { "en": "Age requirement", "nl": "Leeftijdsvereiste" },
+      "detail": { "en": "Must be 50 years of age or older at the time of application", "nl": "Moet 50 jaar of ouder zijn op het moment van de aanvraag" }
+    },
+    {
+      "item": { "en": "Valid passport", "nl": "Geldig paspoort" },
+      "detail": { "en": "Must have at least 18 months validity (for O-A) or 6 months (for O)", "nl": "Moet minimaal 18 maanden geldig zijn (voor O-A) of 6 maanden (voor O)" }
+    },
+    {
+      "item": { "en": "Financial requirements (Option A)", "nl": "Financiele vereisten (Optie A)" },
+      "detail": { "en": "800,000 THB (~$23,000 USD) deposited in a Thai bank account for at least 2 months before application", "nl": "800.000 THB (~$23.000 USD) gestort op een Thaise bankrekening minimaal 2 maanden voor de aanvraag" }
+    },
+    {
+      "item": { "en": "Financial requirements (Option B)", "nl": "Financiele vereisten (Optie B)" },
+      "detail": { "en": "Monthly income of at least 65,000 THB (~$1,900 USD) from pension or other sources", "nl": "Maandelijks inkomen van minimaal 65.000 THB (~$1.900 USD) uit pensioen of andere bronnen" }
+    },
+    {
+      "item": { "en": "Financial requirements (Option C)", "nl": "Financiele vereisten (Optie C)" },
+      "detail": { "en": "Combination of bank deposit and annual income totaling at least 800,000 THB", "nl": "Combinatie van bankdeposito en jaarinkomen van in totaal minimaal 800.000 THB" }
+    },
+    {
+      "item": { "en": "Health insurance (Non-O-A only)", "nl": "Zorgverzekering (alleen Non-O-A)" },
+      "detail": { "en": "Insurance covering at least 40,000 THB outpatient and 400,000 THB inpatient treatment in Thailand", "nl": "Verzekering met dekking van minimaal 40.000 THB poliklinische en 400.000 THB klinische behandeling in Thailand" }
+    },
+    {
+      "item": { "en": "Criminal background check (Non-O-A only)", "nl": "Verklaring omtrent gedrag (alleen Non-O-A)" },
+      "detail": { "en": "Police clearance certificate from your home country, issued within 3 months", "nl": "Verklaring omtrent het gedrag (VOG) uit je thuisland, afgegeven binnen 3 maanden" }
+    },
+    {
+      "item": { "en": "Medical certificate (Non-O-A only)", "nl": "Medisch certificaat (alleen Non-O-A)" },
+      "detail": { "en": "Certificate stating you do not have prohibited diseases (leprosy, tuberculosis, elephantiasis, drug addiction, third-stage syphilis)", "nl": "Certificaat dat bevestigt dat je geen verboden ziekten hebt (lepra, tuberculose, elefantiasis, drugsverslaving, syfilis in het derde stadium)" }
+    }
+  ],
+  "duration": {
+    "initial": "1 year (Non-O-A) or 90 days extendable to 1 year (Non-O)",
+    "extensions": {
+      "en": "The retirement visa can be renewed annually in Thailand as long as you continue to meet the financial requirements. You must report your address to immigration every 90 days (TM.30/TM.47 reporting). The Non-O-A must be applied for abroad initially; subsequent renewals are done in Thailand as Non-O extensions.",
+      "nl": "Het pensioenvisum kan jaarlijks in Thailand worden verlengd zolang je aan de financiele vereisten blijft voldoen. Je moet elke 90 dagen je adres melden bij immigratie (TM.30/TM.47 melding). Het Non-O-A moet aanvankelijk in het buitenland worden aangevraagd; latere verlengingen worden in Thailand gedaan als Non-O verlengingen."
+    }
+  },
+  "cost": {
+    "entry": "2,000 THB (~$58 USD) for Non-O-A at embassy; Non-O visa varies by embassy",
+    "extension": "1,900 THB (~$55 USD) per annual extension"
+  },
+  "process": {
+    "steps": [
+      {
+        "step": 1,
+        "title": { "en": "Choose Your Visa Type", "nl": "Kies je Visumtype" },
+        "description": { "en": "Decide between Non-O-A (apply at embassy abroad for direct 1-year visa) or Non-O (enter on tourist entry, then convert to retirement visa in Thailand). The Non-O-A requires more documents but gives you a full year immediately.", "nl": "Kies tussen Non-O-A (aanvragen bij ambassade in het buitenland voor direct 1-jarig visum) of Non-O (binnenkomen als toerist, dan omzetten naar pensioenvisum in Thailand). Het Non-O-A vereist meer documenten maar geeft je direct een volledig jaar." }
+      },
+      {
+        "step": 2,
+        "title": { "en": "Prepare Financial Documents", "nl": "Bereid Financiele Documenten voor" },
+        "description": { "en": "Open a Thai bank account and deposit 800,000 THB, or prepare proof of monthly income of 65,000 THB. For the Non-O-A, embassy may accept home country bank statements. For in-country extensions, Thai bank account is required.", "nl": "Open een Thaise bankrekening en stort 800.000 THB, of bereid bewijs voor van een maandelijks inkomen van 65.000 THB. Voor het Non-O-A kan de ambassade bankafschriften uit je thuisland accepteren. Voor verlengingen in Thailand is een Thaise bankrekening vereist." }
+      },
+      {
+        "step": 3,
+        "title": { "en": "Submit Application", "nl": "Dien Aanvraag in" },
+        "description": { "en": "Apply at the Thai embassy (Non-O-A) or at your local immigration office in Thailand (Non-O extension). Bring all original documents and copies.", "nl": "Vraag aan bij de Thaise ambassade (Non-O-A) of bij je lokale immigratiekantoor in Thailand (Non-O verlenging). Neem alle originele documenten en kopieen mee." }
+      },
+      {
+        "step": 4,
+        "title": { "en": "Complete 90-Day Reporting", "nl": "Voltooi 90-dagenmelding" },
+        "description": { "en": "Once your visa is active, report to immigration every 90 days. This can be done in person, by mail, or online through the immigration website.", "nl": "Zodra je visum actief is, meld je elke 90 dagen bij immigratie. Dit kan persoonlijk, per post of online via de immigratiewebsite." }
+      }
+    ]
+  },
+  "eligible_countries": [
+    "All nationalities aged 50 and above"
+  ],
+  "faqs": [
+    {
+      "question": { "en": "Can I work in Thailand on a retirement visa?", "nl": "Kan ik werken in Thailand met een pensioenvisum?" },
+      "answer": { "en": "No, the retirement visa does not include a work permit. You are not allowed to work for a Thai or foreign employer while in Thailand on this visa. If you want to work remotely, consider the DTV (Digital Nomad Visa) instead, though note you must be 50+ for the retirement visa option.", "nl": "Nee, het pensioenvisum bevat geen werkvergunning. Je mag niet werken voor een Thaise of buitenlandse werkgever terwijl je in Thailand bent met dit visum. Als je op afstand wilt werken, overweeg dan het DTV (Digitale Nomaden Visum), hoewel je 50+ moet zijn voor de pensioenvisumoptie." }
+    },
+    {
+      "question": { "en": "Can I leave Thailand and re-enter on my retirement visa?", "nl": "Kan ik Thailand verlaten en weer binnenkomen met mijn pensioenvisum?" },
+      "answer": { "en": "Yes, but you must obtain a re-entry permit before leaving Thailand. A single re-entry permit costs 1,000 THB and a multiple re-entry permit costs 3,800 THB. Without a re-entry permit, your visa extension will be voided upon departure.", "nl": "Ja, maar je moet een re-entry permit verkrijgen voordat je Thailand verlaat. Een enkele re-entry permit kost 1.000 THB en een meervoudige re-entry permit kost 3.800 THB. Zonder re-entry permit vervalt je visumverlenging bij vertrek." }
+    },
+    {
+      "question": { "en": "How long must I keep 800,000 THB in my bank account?", "nl": "Hoe lang moet ik 800.000 THB op mijn bankrekening houden?" },
+      "answer": { "en": "The 800,000 THB must be in your Thai bank account for at least 2 months before your extension application and must remain there for at least 3 months after the extension is granted. After that, the balance must not drop below 400,000 THB for the rest of the year.", "nl": "De 800.000 THB moet minimaal 2 maanden voor je verlengingsaanvraag op je Thaise bankrekening staan en moet er minimaal 3 maanden na de verlening van de verlenging op blijven staan. Daarna mag het saldo de rest van het jaar niet onder de 400.000 THB dalen." }
+    },
+    {
+      "question": { "en": "Can my spouse join me on the retirement visa?", "nl": "Kan mijn echtgeno(o)t(e) meekomen met het pensioenvisum?" },
+      "answer": { "en": "Your spouse cannot be added to your retirement visa directly. However, if your spouse is also 50+, they can apply for their own retirement visa. If your spouse is younger, they may be able to apply for a Non-O visa as a dependent, though the requirements differ.", "nl": "Je echtgeno(o)t(e) kan niet direct aan je pensioenvisum worden toegevoegd. Als je echtgeno(o)t(e) ook 50+ is, kan diegene een eigen pensioenvisum aanvragen. Als je echtgeno(o)t(e) jonger is, kan diegene mogelijk een Non-O visum aanvragen als meereizend gezinslid, hoewel de vereisten verschillen." }
+    },
+    {
+      "question": { "en": "Is the AOW (Dutch state pension) enough to qualify?", "nl": "Is de AOW voldoende om in aanmerking te komen?" },
+      "answer": { "en": "The full AOW for a single person is approximately $1,400 USD per month, which is below the 65,000 THB (~$1,900 USD) monthly income requirement. However, you can supplement with other pension income, savings, or use the bank deposit option of 800,000 THB in a Thai bank account instead.", "nl": "De volledige AOW voor een alleenstaande is circa $1.400 USD per maand, wat onder de inkomenseis van 65.000 THB (~$1.900 USD) per maand ligt. Je kunt dit echter aanvullen met ander pensioeninkomen, spaargeld, of in plaats daarvan de bankdeposito-optie van 800.000 THB op een Thaise bankrekening gebruiken." }
+    }
+  ],
+  "tips": [
+    { "en": "Open a Bangkok Bank or Kasikorn Bank account as they are most experienced with retirement visa holders.", "nl": "Open een rekening bij Bangkok Bank of Kasikorn Bank, want zij hebben de meeste ervaring met pensioenvisumhouders." },
+    { "en": "Use an immigration agent for your first extension - costs around 5,000-10,000 THB but saves considerable hassle.", "nl": "Gebruik een immigratie-agent voor je eerste verlenging - kost rond 5.000-10.000 THB maar bespaart veel gedoe." },
+    { "en": "Set a calendar reminder for your 90-day reporting - late reporting incurs a 2,000 THB fine.", "nl": "Zet een agendaherinnering voor je 90-dagenmelding - te late melding levert een boete op van 2.000 THB." },
+    { "en": "The Non-O route (entering on tourist visa, then converting in Thailand) is often easier for first-timers.", "nl": "De Non-O route (binnenkomen als toerist, dan omzetten in Thailand) is vaak makkelijker voor beginners." }
+  ],
+  "last_updated": "2026-02-17",
+  "seo": {
+    "metaTitle": { "en": "Thailand Retirement Visa 2026: Complete Guide for Retirees", "nl": "Thailand Pensioenvisum 2026: Complete Gids voor Gepensioneerden" },
+    "metaDescription": { "en": "Complete guide to retiring in Thailand in 2026. Non-O-A and Non-O visa requirements, 800,000 THB financial proof, annual renewals and practical tips.", "nl": "Complete gids voor pensioen in Thailand in 2026. Non-O-A en Non-O visumvereisten, 800.000 THB financieel bewijs, jaarlijkse verlengingen en praktische tips." }
+  }
+}

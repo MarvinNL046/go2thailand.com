@@ -1,0 +1,130 @@
+{
+  "slug": "packing-list",
+  "title": { "en": "Packing List for Thailand", "nl": "Paklijst voor Thailand" },
+  "icon": "🎒",
+  "description": {
+    "en": "Packing for Thailand requires a balance between staying cool in tropical heat, being prepared for temple visits, and having the essentials for beaches and adventures. Thailand has a tropical climate with temperatures typically between 25-35°C year-round, and high humidity. This complete packing list covers everything you need, whether you are visiting for 2 weeks or 2 months.",
+    "nl": "Inpakken voor Thailand vereist een balans tussen koel blijven in tropische hitte, voorbereid zijn op tempelbezoeken en de essentials hebben voor stranden en avonturen. Thailand heeft een tropisch klimaat met temperaturen doorgaans tussen 25-35°C het hele jaar door en hoge luchtvochtigheid. Deze complete paklijst bevat alles wat je nodig hebt, of je nu 2 weken of 2 maanden op bezoek bent."
+  },
+  "sections": [
+    {
+      "title": { "en": "Clothing Essentials", "nl": "Kleding Essentials" },
+      "items": [
+        {
+          "name": { "en": "Lightweight, Breathable Clothing", "nl": "Lichtgewicht, Ademende Kleding" },
+          "description": { "en": "Pack light, loose-fitting clothing made from cotton, linen, or moisture-wicking fabrics. Think t-shirts, tank tops, shorts, and flowy pants. Light colors reflect heat. Pack for 4-5 days and plan to do laundry - services are cheap (30-60 THB/kg) and available everywhere.", "nl": "Pak lichte, loshangende kleding in van katoen, linnen of vochtafvoerende stoffen. Denk aan t-shirts, tanktops, korte broeken en wijde broeken. Lichte kleuren reflecteren warmte. Pak in voor 4-5 dagen en plan om was te laten doen - wasservices zijn goedkoop (30-60 THB/kg) en overal beschikbaar." },
+          "how_to_avoid": { "en": "Skip jeans and heavy fabrics - you will overheat. Bring at most one pair of long pants for temple visits and nice restaurants.", "nl": "Sla spijkerbroeken en zware stoffen over - je wordt oververhit. Neem maximaal een lange broek mee voor tempelbezoeken en nette restaurants." }
+        },
+        {
+          "name": { "en": "Temple-Appropriate Clothing", "nl": "Tempelgeschikte Kleding" },
+          "description": { "en": "Thai temples require covered shoulders and knees. Pack at least one outfit with long pants or a long skirt and a shirt that covers your shoulders. A sarong or large scarf is versatile - works as a temple cover-up, beach wrap, and airplane blanket.", "nl": "Thaise tempels vereisen bedekte schouders en knieen. Pak minstens een outfit in met een lange broek of lange rok en een shirt dat je schouders bedekt. Een sarong of grote sjaal is veelzijdig - werkt als tempel-cover-up, strandwrap en vliegtuigdeken." },
+          "how_to_avoid": { "en": "Some temples offer sarongs for rent, but it is better to have your own. Keep a sarong in your day bag at all times.", "nl": "Sommige tempels bieden sarongs te huur aan, maar het is beter om je eigen te hebben. Houd altijd een sarong in je dagtas." }
+        },
+        {
+          "name": { "en": "Swimwear", "nl": "Zwemkleding" },
+          "description": { "en": "Bring at least 2 swimsuits so one can dry while you wear the other. Quick-dry swim shorts double as regular shorts. A rash guard provides sun protection for snorkeling and water activities.", "nl": "Neem minstens 2 zwemkledingstukken mee zodat een kan drogen terwijl je de andere draagt. Sneldrogende zwemshorts zijn ook te dragen als gewone shorts. Een rash guard biedt zonbescherming bij snorkelen en wateractiviteiten." },
+          "how_to_avoid": { "en": "Cheap swimwear is readily available in Thailand if you need extras.", "nl": "Goedkope zwemkleding is overal verkrijgbaar in Thailand als je extra nodig hebt." }
+        },
+        {
+          "name": { "en": "Rain Jacket or Poncho", "nl": "Regenjack of Poncho" },
+          "description": { "en": "A lightweight, packable rain jacket is essential, especially during the rainy season (May-October). Even in dry season, brief afternoon showers are common. A compact poncho works well and takes minimal space.", "nl": "Een lichtgewicht, opvouwbaar regenjack is essentieel, vooral tijdens het regenseizoen (mei-oktober). Zelfs in het droge seizoen zijn korte middagbuien gebruikelijk. Een compacte poncho werkt goed en neemt minimale ruimte in." },
+          "how_to_avoid": { "en": "Cheap ponchos are available at any 7-Eleven for 40-80 THB if you forget yours.", "nl": "Goedkope poncho's zijn verkrijgbaar bij elke 7-Eleven voor 40-80 THB als je die van jou vergeet." }
+        }
+      ]
+    },
+    {
+      "title": { "en": "Footwear", "nl": "Schoeisel" },
+      "items": [
+        {
+          "name": { "en": "Comfortable Sandals or Flip-Flops", "nl": "Comfortabele Sandalen of Slippers" },
+          "description": { "en": "Your primary footwear in Thailand. Good quality flip-flops or sandals are perfect for beaches, temples (easy to slip on/off), and daily walking. Brands like Havaianas or Teva are ideal. You remove shoes constantly in Thailand - temples, homes, some shops.", "nl": "Je primaire schoeisel in Thailand. Goede kwaliteit slippers of sandalen zijn perfect voor stranden, tempels (makkelijk aan/uit te trekken) en dagelijks wandelen. Merken als Havaianas of Teva zijn ideaal. Je trekt in Thailand constant schoenen uit - tempels, huizen, sommige winkels." },
+          "how_to_avoid": { "en": "Break in new sandals before your trip to avoid blisters.", "nl": "Loop nieuwe sandalen in voor je reis om blaren te voorkomen." }
+        },
+        {
+          "name": { "en": "Lightweight Walking Shoes", "nl": "Lichtgewicht Wandelschoenen" },
+          "description": { "en": "If planning hikes, jungle treks, or extensive city walking, bring a pair of lightweight breathable sneakers or hiking sandals. Not necessary for beach-only trips.", "nl": "Als je wandelingen, jungletrekking of uitgebreid stadswandelen plant, neem een paar lichtgewicht ademende sneakers of wandelsandalen mee. Niet nodig voor alleen-strandreizen." },
+          "how_to_avoid": { "en": "Skip heavy hiking boots unless trekking in northern mountains during cool season.", "nl": "Sla zware wandelschoenen over tenzij je trekt in de noordelijke bergen tijdens het koele seizoen." }
+        }
+      ]
+    },
+    {
+      "title": { "en": "Health & Toiletries", "nl": "Gezondheid & Toiletartikelen" },
+      "items": [
+        {
+          "name": { "en": "Sunscreen (SPF 50+)", "nl": "Zonnebrandcreme (SPF 50+)" },
+          "description": { "en": "The tropical sun in Thailand is intense - much stronger than in the Netherlands. Bring a high SPF sunscreen and reapply frequently, especially near water. Reef-safe sunscreen is preferred if snorkeling.", "nl": "De tropische zon in Thailand is intens - veel sterker dan in Nederland. Neem een zonnebrandcreme met hoge SPF mee en breng frequent opnieuw aan, vooral bij water. Rifreindelijke zonnebrandcreme heeft de voorkeur bij snorkelen." },
+          "how_to_avoid": { "en": "Sunscreen in Thailand is more expensive than in the Netherlands - bring enough from home. Available at 7-Eleven and pharmacies if needed.", "nl": "Zonnebrandcreme in Thailand is duurder dan in Nederland - neem genoeg mee van huis. Verkrijgbaar bij 7-Eleven en apotheken indien nodig." }
+        },
+        {
+          "name": { "en": "Insect Repellent", "nl": "Insectenwerend Middel" },
+          "description": { "en": "Mosquitoes are present throughout Thailand, particularly at dawn and dusk. Dengue and malaria are risks in some areas. DEET-based repellent (20-30% DEET) is most effective. Apply to exposed skin in the evening.", "nl": "Muggen zijn aanwezig in heel Thailand, met name bij zonsopgang en zonsondergang. Dengue en malaria zijn risico's in sommige gebieden. DEET-gebaseerd middel (20-30% DEET) is het meest effectief. Breng aan op blote huid in de avond." },
+          "how_to_avoid": { "en": "Thai brand 'Soffell' is excellent and cheap locally. But bring DEET repellent from home for the first days.", "nl": "Het Thaise merk 'Soffell' is uitstekend en goedkoop lokaal. Maar neem DEET-middel mee van huis voor de eerste dagen." }
+        },
+        {
+          "name": { "en": "Basic First Aid & Medications", "nl": "Basis EHBO & Medicijnen" },
+          "description": { "en": "Pack: anti-diarrhea medicine (Imodium), rehydration salts, paracetamol, plasters/band-aids, antiseptic wipes, antihistamines for allergies, and any personal prescription medications. Pharmacies in Thailand are well-stocked and many medicines are available without prescription.", "nl": "Pak in: anti-diarreemedicijn (Imodium), rehydratatiezouten, paracetamol, pleisters, antiseptische doekjes, antihistaminica voor allergieen, en eventuele persoonlijke voorgeschreven medicijnen. Apotheken in Thailand zijn goed bevoorraad en veel medicijnen zijn zonder recept verkrijgbaar." },
+          "how_to_avoid": { "en": "Bring prescription medications in original packaging with the prescription, especially controlled substances.", "nl": "Neem voorgeschreven medicijnen mee in originele verpakking met het recept, vooral gereguleerde middelen." }
+        }
+      ]
+    },
+    {
+      "title": { "en": "Electronics & Gadgets", "nl": "Elektronica & Gadgets" },
+      "items": [
+        {
+          "name": { "en": "Power Adapter", "nl": "Stekkeradapter" },
+          "description": { "en": "Thailand uses Type A, B, and C power outlets (220V, 50Hz). Most European (Type C) two-pin plugs fit Thai outlets without an adapter. However, Type F grounded plugs (common in the Netherlands) may need a small adapter. Many modern Thai outlets accept multiple plug types.", "nl": "Thailand gebruikt Type A, B en C stopcontacten (220V, 50Hz). De meeste Europese (Type C) tweepolige stekkers passen in Thaise stopcontacten zonder adapter. Echter, Type F geaarde stekkers (gebruikelijk in Nederland) hebben mogelijk een kleine adapter nodig. Veel moderne Thaise stopcontacten accepteren meerdere stekkertypen." },
+          "how_to_avoid": { "en": "Bring a universal adapter to be safe. They are cheap and avoid hassle.", "nl": "Neem een universele adapter mee voor de zekerheid. Ze zijn goedkoop en voorkomen gedoe." }
+        },
+        {
+          "name": { "en": "Power Bank", "nl": "Powerbank" },
+          "description": { "en": "A portable power bank (10,000-20,000 mAh) is essential for long days of exploring when you are using your phone for maps, Grab, photos, and translation. Thailand's heat can drain batteries faster.", "nl": "Een draagbare powerbank (10.000-20.000 mAh) is essentieel voor lange dagen van verkennen wanneer je je telefoon gebruikt voor kaarten, Grab, foto's en vertaling. De hitte van Thailand kan batterijen sneller leeg maken." },
+          "how_to_avoid": { "en": "Cheap power banks are available at electronics shops and 7-Eleven in Thailand if you forget yours.", "nl": "Goedkope powerbanks zijn verkrijgbaar bij elektronicawinkels en 7-Eleven in Thailand als je die van jou vergeet." }
+        },
+        {
+          "name": { "en": "Waterproof Phone Pouch", "nl": "Waterdichte Telefoonhoes" },
+          "description": { "en": "Essential for boat trips, water activities, Songkran festival, and rainy season. A waterproof pouch protects your phone and lets you take underwater photos. Available cheaply in Thailand, but quality varies.", "nl": "Essentieel voor boottochten, wateractiviteiten, Songkran-festival en het regenseizoen. Een waterdichte hoes beschermt je telefoon en laat je onderwaterfoto's maken. Goedkoop verkrijgbaar in Thailand, maar de kwaliteit varieert." },
+          "how_to_avoid": { "en": "Buy a quality brand like OverBoard or Mpow before your trip - cheap market ones may leak.", "nl": "Koop een kwaliteitsmerk zoals OverBoard of Mpow voor je reis - goedkope marktversies kunnen lekken." }
+        }
+      ]
+    },
+    {
+      "title": { "en": "Travel Documents", "nl": "Reisdocumenten" },
+      "items": [
+        {
+          "name": { "en": "Essential Documents", "nl": "Essentiele Documenten" },
+          "description": { "en": "Passport (6+ months validity), flight tickets, hotel bookings, travel insurance documents, international driving permit (if renting vehicles), vaccination certificates (if applicable), and copies of all important documents stored separately and digitally.", "nl": "Paspoort (6+ maanden geldig), vliegtickets, hotelboekingen, reisverzekeringsdocumenten, internationaal rijbewijs (als je voertuigen huurt), vaccinatiebewijzen (indien van toepassing), en kopieen van alle belangrijke documenten apart en digitaal opgeslagen." },
+          "how_to_avoid": { "en": "Store digital copies in your email, cloud storage, and phone. Share copies with a trusted person at home.", "nl": "Bewaar digitale kopieen in je e-mail, cloudopslag en telefoon. Deel kopieen met een vertrouwd persoon thuis." }
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": { "en": "Can I buy most things in Thailand instead of packing them?", "nl": "Kan ik de meeste dingen in Thailand kopen in plaats van in te pakken?" },
+      "answer": { "en": "Yes! Thailand has excellent shopping and you can buy almost anything locally, often cheaper than at home. 7-Elevens are on every corner with toiletries, snacks, rain ponchos, and basic supplies. Markets sell cheap clothing. Only bring essentials: prescription medications, specific sunscreen brands, and quality electronics. This is especially useful for longer trips - pack light and buy locally.", "nl": "Ja! Thailand heeft uitstekende winkelmogelijkheden en je kunt bijna alles lokaal kopen, vaak goedkoper dan thuis. 7-Elevens zijn op elke hoek met toiletartikelen, snacks, regenponcho's en basisbenodigdheden. Markten verkopen goedkope kleding. Neem alleen essentials mee: voorgeschreven medicijnen, specifieke zonnebrandmerken en kwaliteitselektronica. Dit is vooral handig voor langere reizen - pak licht en koop lokaal." }
+    },
+    {
+      "question": { "en": "How much luggage should I bring?", "nl": "Hoeveel bagage moet ik meenemen?" },
+      "answer": { "en": "Travel as light as possible. A 40-50 liter backpack or a small suitcase is ideal for 2-4 weeks. If island hopping, a backpack is much more practical than a suitcase for boat transfers and unpaved roads. Remember: laundry services are everywhere and very cheap (30-60 THB/kg), so you do not need clothing for every day.", "nl": "Reis zo licht mogelijk. Een rugzak van 40-50 liter of een kleine koffer is ideaal voor 2-4 weken. Als je eilandhoppen doet, is een rugzak veel praktischer dan een koffer voor boottransfers en onverharde wegen. Onthoud: wasservices zijn overal en zeer goedkoop (30-60 THB/kg), dus je hebt geen kleding nodig voor elke dag." }
+    },
+    {
+      "question": { "en": "Do I need a money belt or hidden pouch?", "nl": "Heb ik een geldgordel of verborgen tasje nodig?" },
+      "answer": { "en": "A money belt is not strictly necessary in Thailand as violent theft is rare. However, a slim travel pouch worn under your clothes is good for keeping your passport and emergency cash secure, especially in crowded markets. For daily use, a crossbody bag or anti-theft backpack is sufficient.", "nl": "Een geldgordel is niet strikt noodzakelijk in Thailand omdat gewelddadige diefstal zeldzaam is. Een slanke reistas die je onder je kleding draagt is echter goed om je paspoort en noodgeld veilig te bewaren, vooral op drukke markten. Voor dagelijks gebruik is een schoudertas of anti-diefstaltugzak voldoende." }
+    },
+    {
+      "question": { "en": "What should I NOT pack for Thailand?", "nl": "Wat moet ik NIET inpakken voor Thailand?" },
+      "answer": { "en": "Skip: heavy jeans, sweaters (unless visiting northern mountains in December-January), formal clothes (Thailand is casual), too many shoes (one pair of sandals and optionally sneakers), expensive jewelry, full-size toiletries (travel size or buy locally), and heavy books (use e-reader).", "nl": "Sla over: zware spijkerbroeken, truien (tenzij je de noordelijke bergen bezoekt in december-januari), formele kleding (Thailand is casual), te veel schoenen (een paar sandalen en optioneel sneakers), dure sieraden, toiletartikelen in groot formaat (reisformaat of koop lokaal), en zware boeken (gebruik e-reader)." }
+    }
+  ],
+  "tips": [
+    { "en": "Pack a small day bag or foldable backpack for daily excursions - leave your main luggage at the hotel.", "nl": "Pak een kleine dagtas of opvouwbare rugzak in voor dagelijkse excursies - laat je hoofdbagage in het hotel." },
+    { "en": "Roll your clothes instead of folding them to save space and reduce wrinkles.", "nl": "Rol je kleding op in plaats van vouwen om ruimte te besparen en kreukels te verminderen." },
+    { "en": "Bring a reusable water bottle - you can refill at filtered water stations found outside many 7-Elevens for just 1 THB.", "nl": "Neem een herbruikbare waterfles mee - je kunt bijvullen bij gefilterde waterstations buiten veel 7-Elevens voor slechts 1 THB." },
+    { "en": "A dry bag (10-20 liters) is incredibly useful for boat trips and keeping electronics safe from water.", "nl": "Een drybag (10-20 liter) is ongelofelijk handig voor boottochten en het beschermen van elektronica tegen water." }
+  ],
+  "last_updated": "2026-02-17",
+  "seo": {
+    "metaTitle": { "en": "Thailand Packing List 2026: What to Bring & What to Skip", "nl": "Thailand Paklijst 2026: Wat Meenemen & Wat Thuislaten" },
+    "metaDescription": { "en": "Complete packing list for Thailand in 2026. Essential clothing, health items, electronics, and documents. Plus tips on what to buy locally instead.", "nl": "Complete paklijst voor Thailand in 2026. Essentiele kleding, gezondheidsartikelen, elektronica en documenten. Plus tips over wat je lokaal kunt kopen." }
+  }
+}

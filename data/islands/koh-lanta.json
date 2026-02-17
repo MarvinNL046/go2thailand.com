@@ -1,0 +1,202 @@
+{
+  "slug": "koh-lanta",
+  "name": { "en": "Koh Lanta", "nl": "Koh Lanta" },
+  "region": "Andaman Sea",
+  "province": "Krabi",
+  "image": "/images/islands/koh-lanta.webp",
+  "description": {
+    "en": "Koh Lanta is the Andaman coast's most laid-back island destination, beloved by families, couples, and anyone seeking beautiful beaches without the party scene. The island is actually two islands (Koh Lanta Noi and Koh Lanta Yai) connected by a bridge, with all tourist development on the larger Lanta Yai. Its long west coast features a string of gorgeous beaches, each quieter as you head south, culminating in the wild beauty of Mu Ko Lanta National Park. The charming Old Town on the east coast preserves the island's multicultural heritage.",
+    "nl": "Koh Lanta is de meest ontspannen eilandbestemming aan de Andamankust, geliefd bij gezinnen, stellen en iedereen die op zoek is naar prachtige stranden zonder feestscene. Het eiland bestaat eigenlijk uit twee eilanden (Koh Lanta Noi en Koh Lanta Yai) verbonden door een brug, met alle toeristische ontwikkeling op het grotere Lanta Yai. De lange westkust heeft een reeks prachtige stranden, die elk rustiger worden naarmate je naar het zuiden gaat, eindigend in de wilde schoonheid van Mu Ko Lanta Nationaal Park. De charmante Old Town aan de oostkust bewaart het multiculturele erfgoed van het eiland."
+  },
+  "beaches": [
+    {
+      "name": "Long Beach (Phra Ae)",
+      "description": {
+        "en": "The most popular beach on Koh Lanta with a wide strip of golden sand stretching for 4 kilometers. Well-developed with a good range of restaurants, beach bars, and accommodation, yet never feeling overcrowded. Great swimming and spectacular sunsets.",
+        "nl": "Het populairste strand van Koh Lanta met een brede strook goudkleurig zand dat zich uitstrekt over 4 kilometer. Goed ontwikkeld met een goed aanbod van restaurants, strandbars en accommodatie, maar voelt nooit overvol. Geweldig zwemmen en spectaculaire zonsondergangen."
+      },
+      "best_for": ["swimming", "sunsets", "families", "dining"]
+    },
+    {
+      "name": "Klong Dao Beach",
+      "description": {
+        "en": "The northernmost tourist beach, closest to the pier, with calm shallow water that's perfect for families with young children. The sand is soft and wide, and the sea is shallow enough to wade far out safely.",
+        "nl": "Het noordelijkste toeristenstrand, het dichtst bij de pier, met kalm ondiep water dat perfect is voor gezinnen met jonge kinderen. Het zand is zacht en breed, en de zee is ondiep genoeg om veilig ver het water in te waden."
+      },
+      "best_for": ["families", "swimming", "relaxation"]
+    },
+    {
+      "name": "Kantiang Bay",
+      "description": {
+        "en": "A stunning horseshoe-shaped bay in the south of the island, home to the luxury Pimalai Resort. The beach is beautifully framed by jungle-covered hills and offers excellent snorkeling at the rocky ends. One of Lanta's most photogenic spots.",
+        "nl": "Een prachtige hoefijzervormige baai in het zuiden van het eiland, de thuisbasis van het luxe Pimalai Resort. Het strand is prachtig omlijst door met jungle bedekte heuvels en biedt uitstekend snorkelen aan de rotsachtige uiteinden. Een van de meest fotogenieke plekken van Lanta."
+      },
+      "best_for": ["scenery", "snorkeling", "luxury", "romance"]
+    },
+    {
+      "name": "Bamboo Bay (Ao Mai Pai)",
+      "description": {
+        "en": "A remote, less-visited beach near the national park at the southern tip of the island. Backed by dense jungle with just a handful of rustic bungalow operations. The kind of untouched beach that is increasingly rare in Thailand.",
+        "nl": "Een afgelegen, minder bezocht strand nabij het nationaal park aan de zuidpunt van het eiland. Omgeven door dicht oerwoud met slechts een handvol rustieke bungalowcomplexen. Het soort ongerept strand dat steeds zeldzamer wordt in Thailand."
+      },
+      "best_for": ["seclusion", "nature", "budget"]
+    },
+    {
+      "name": "Klong Khong Beach",
+      "description": {
+        "en": "A bohemian-flavored beach popular with long-stay travelers and digital nomads. The rocky shore at low tide reveals interesting tide pools but makes swimming better at high tide. Known for reggae bars and a creative, alternative atmosphere.",
+        "nl": "Een boheems strand populair bij langverblijvers en digitale nomaden. De rotsachtige kust bij eb onthult interessante getijdenpoelen maar maakt zwemmen beter bij vloed. Bekend om reggaebars en een creatieve, alternatieve sfeer."
+      },
+      "best_for": ["atmosphere", "long stays", "budget", "digital nomads"]
+    }
+  ],
+  "activities": [
+    {
+      "name": "Mu Ko Lanta National Park",
+      "type": "nature",
+      "description": {
+        "en": "At the southern tip of the island, this national park features pristine beaches, a lighthouse with panoramic views, nature trails through old-growth forest, and a white sandy beach. Entry fee ฿200 for foreigners. Watch for monkeys near the entrance.",
+        "nl": "Aan de zuidpunt van het eiland heeft dit nationaal park ongerepte stranden, een vuurtoren met panoramisch uitzicht, natuurpaden door oeroud bos en een wit zandstrand. Toegangsprijs ฿200 voor buitenlanders. Let op apen bij de ingang."
+      },
+      "price_range": "$"
+    },
+    {
+      "name": "Four Islands Snorkeling Tour",
+      "type": "day_trip",
+      "description": {
+        "en": "Full-day longtail or speedboat trip to Koh Ngai, Koh Chuek, Koh Muk (including the famous Emerald Cave/Tham Morakot), and Koh Kradan. The Emerald Cave requires swimming through a dark tunnel to reach a hidden beach inside a limestone cavern.",
+        "nl": "Hele dag longtail- of speedboottocht naar Koh Ngai, Koh Chuek, Koh Muk (inclusief de beroemde Emerald Cave/Tham Morakot) en Koh Kradan. De Emerald Cave vereist dat je door een donkere tunnel zwemt om een verborgen strand in een kalkstenen grot te bereiken."
+      },
+      "price_range": "$$"
+    },
+    {
+      "name": "Lanta Old Town",
+      "type": "cultural",
+      "description": {
+        "en": "A charming waterfront community on the east coast showcasing Koh Lanta's heritage as a trading port. Wooden stilt houses line the main street, now housing cafes, art galleries, and souvenir shops. The mix of Thai, Chinese, and Sea Gypsy (Chao Leh) cultures is unique.",
+        "nl": "Een charmante gemeenschap aan het water aan de oostkust die het erfgoed van Koh Lanta als handelspost laat zien. Houten paalwoningen staan langs de hoofdstraat, nu met cafes, kunstgalerijen en souvenirwinkels. De mix van Thaise, Chinese en Zeezigeuner (Chao Leh) culturen is uniek."
+      },
+      "price_range": "Free"
+    },
+    {
+      "name": "Kayaking through Mangroves",
+      "type": "nature",
+      "description": {
+        "en": "Guided kayak tours through the mangrove forests on the east coast of Lanta, exploring the intricate root systems and spotting wildlife including monitor lizards, crabs, and various bird species. Half-day tours include instruction for beginners.",
+        "nl": "Begeleide kajaktochten door de mangrovebossen aan de oostkust van Lanta, waar je de ingewikkelde wortelsystemen verkent en wilde dieren spot, waaronder varanen, krabben en diverse vogelsoorten. Halve dag tours inclusief instructie voor beginners."
+      },
+      "price_range": "$-$$"
+    },
+    {
+      "name": "Thai Cooking Class",
+      "type": "cultural",
+      "description": {
+        "en": "Several operators offer cooking classes that begin with a visit to a local market to select fresh ingredients, followed by hands-on preparation of 4-5 Thai dishes. Time For Lime and Lanta Thai Cookery are highly rated options.",
+        "nl": "Verschillende aanbieders bieden kooklessen aan die beginnen met een bezoek aan een lokale markt om verse ingrediënten te selecteren, gevolgd door hands-on bereiding van 4-5 Thaise gerechten. Time For Lime en Lanta Thai Cookery zijn goed beoordeelde opties."
+      },
+      "price_range": "$$"
+    }
+  ],
+  "getting_there": {
+    "from_bangkok": {
+      "options": [
+        {
+          "method": "Flight to Krabi + Minivan/Ferry",
+          "duration": "3-4 hours",
+          "price": "฿1,800-4,000",
+          "description": {
+            "en": "Fly to Krabi airport (1.5 hours), then take a minivan and car ferry to Koh Lanta (1.5-2 hours). The most convenient option. During high season, direct minivans meet all arriving flights.",
+            "nl": "Vlieg naar de luchthaven van Krabi (1,5 uur), neem vervolgens een minibus en autoveerboot naar Koh Lanta (1,5-2 uur). De handigste optie. Tijdens het hoogseizoen staan directe minibussen klaar bij alle aankomende vluchten."
+          }
+        },
+        {
+          "method": "Flight to Phuket + Ferry/Minivan",
+          "duration": "5-6 hours",
+          "price": "฿2,000-4,500",
+          "description": {
+            "en": "Fly to Phuket, then take a ferry (seasonal, high season only) or minivan via Krabi to Koh Lanta. More flights but longer overland transfer than from Krabi.",
+            "nl": "Vlieg naar Phuket en neem vervolgens een veerboot (seizoensgebonden, alleen hoogseizoen) of minibus via Krabi naar Koh Lanta. Meer vluchten maar langere reis over land dan vanuit Krabi."
+          }
+        },
+        {
+          "method": "Bus + Minivan + Ferry",
+          "duration": "14-16 hours",
+          "price": "฿700-1,200",
+          "description": {
+            "en": "Overnight bus from Bangkok to Krabi, then minivan and car ferry to Koh Lanta. Budget-friendly with combined tickets available. The car ferries connect Lanta Noi to the mainland and Lanta Noi to Lanta Yai.",
+            "nl": "Nachtbus van Bangkok naar Krabi, vervolgens minibus en autoveerboot naar Koh Lanta. Budgetvriendelijk met gecombineerde tickets beschikbaar. De autoveerboten verbinden Lanta Noi met het vasteland en Lanta Noi met Lanta Yai."
+          }
+        }
+      ]
+    }
+  },
+  "accommodation_tips": {
+    "areas": [
+      {
+        "name": "Klong Dao",
+        "description": {
+          "en": "Best for families with the calmest swimming beach and closest to the pier. Good range of family-friendly resorts and guesthouses. Most restaurants and shops are within walking distance.",
+          "nl": "Het beste voor gezinnen met het rustigste zwemstrand en het dichtst bij de pier. Goed aanbod van gezinsvriendelijke resorts en pensions. De meeste restaurants en winkels zijn op loopafstand."
+        },
+        "price_range": "$$-$$$"
+      },
+      {
+        "name": "Long Beach (Phra Ae)",
+        "description": {
+          "en": "The best all-round area with the widest selection of accommodation, dining, and activities. Great for first-time visitors. A good mix of budget and mid-range options.",
+          "nl": "Het beste allround gebied met de breedste selectie accommodatie, eetgelegenheden en activiteiten. Geweldig voor eerste bezoekers. Een goede mix van budget- en middensegment opties."
+        },
+        "price_range": "$-$$$"
+      },
+      {
+        "name": "Kantiang Bay",
+        "description": {
+          "en": "The southern gem, home to the renowned Pimalai Resort & Spa. Quieter and more exclusive, ideal for romantic getaways. Limited dining outside the resorts.",
+          "nl": "De zuidelijke parel, thuisbasis van het gerenommeerde Pimalai Resort & Spa. Rustiger en exclusiever, ideaal voor romantische uitjes. Beperkte eetgelegenheden buiten de resorts."
+        },
+        "price_range": "$$$-$$$$"
+      },
+      {
+        "name": "Klong Khong",
+        "description": {
+          "en": "The bohemian area popular with long-stay travelers and backpackers. Cheapest accommodation on the island with a relaxed reggae vibe. Rocky at low tide but atmospheric.",
+          "nl": "Het bohemien gebied populair bij langverblijvers en backpackers. De goedkoopste accommodatie op het eiland met een ontspannen reggae-sfeer. Rotsachtig bij eb maar sfeervol."
+        },
+        "price_range": "$-$$"
+      }
+    ]
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$20-40",
+      "mid": "$40-80",
+      "luxury": "$120+"
+    },
+    "currency_tips": {
+      "en": "ATMs are available along the main road on the west coast, mainly near Klong Dao and Long Beach. Fewer options in the south, so withdraw cash before heading there. Most resorts accept credit cards, but small restaurants and beach bars prefer cash.",
+      "nl": "Geldautomaten zijn beschikbaar langs de hoofdweg aan de westkust, voornamelijk bij Klong Dao en Long Beach. Minder opties in het zuiden, dus neem contant geld op voordat je daarheen gaat. De meeste resorts accepteren creditcards, maar kleine restaurants en strandbars geven de voorkeur aan contant geld."
+    }
+  },
+  "best_time_to_visit": {
+    "high_season": "Nov-Mar",
+    "shoulder": "Apr-May, Oct",
+    "low_season": "Jun-Sep",
+    "avoid": "Jun-Aug",
+    "description": {
+      "en": "Koh Lanta follows the Andaman coast weather pattern. The dry season from November to March brings blue skies and calm seas. The southwest monsoon from June to September brings rain and rough seas, and some businesses close for the season. October and April/May offer good weather with fewer crowds and lower prices.",
+      "nl": "Koh Lanta volgt het weerpatroon van de Andamankust. Het droge seizoen van november tot maart brengt blauwe luchten en kalme zeeën. De zuidwestmoesson van juni tot september brengt regen en ruwe zee, en sommige bedrijven sluiten voor het seizoen. Oktober en april/mei bieden goed weer met minder drukte en lagere prijzen."
+    }
+  },
+  "highlights": ["Long Beach", "Mu Ko Lanta National Park", "Emerald Cave", "Old Town", "Kantiang Bay"],
+  "tags": ["beach", "family", "relaxation", "nature", "snorkeling", "culture"],
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Lanta 2026: Beaches, National Park & Relaxed Island Life",
+      "nl": "Koh Lanta 2026: Stranden, Nationaal Park & Ontspannen Eilandleven"
+    },
+    "metaDescription": {
+      "en": "Complete Koh Lanta guide 2026. Best beaches, snorkeling tours, Old Town & family-friendly resorts. Discover Thailand's most relaxing island!",
+      "nl": "Complete Koh Lanta gids 2026. Beste stranden, snorkeltochten, Old Town & gezinsvriendelijke resorts. Ontdek het meest ontspannen eiland van Thailand!"
+    }
+  }
+}

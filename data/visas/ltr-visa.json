@@ -1,0 +1,99 @@
+{
+  "slug": "ltr-visa",
+  "title": { "en": "Long-Term Residence Visa (LTR)", "nl": "Langverblijfsvisum (LTR)" },
+  "icon": "🏠",
+  "category": "premium",
+  "description": {
+    "en": "The Long-Term Residence (LTR) visa is a 10-year renewable visa introduced by the Thai government in September 2022 to attract high-potential individuals. It targets four categories: wealthy global citizens, wealthy pensioners, work-from-Thailand professionals, and highly skilled professionals. The LTR visa offers significant benefits including a reduced personal income tax rate of 17%, exemption from the 4:1 Thai-to-foreign worker ratio requirement, digital work permits, and fast-track airport services.",
+    "nl": "Het Langverblijfsvisum (LTR) is een verlengbaar 10-jarig visum dat in september 2022 door de Thaise overheid werd geintroduceerd om hoogwaardige individuen aan te trekken. Het richt zich op vier categorieen: vermogende wereldburgers, vermogende gepensioneerden, werk-vanuit-Thailand professionals en hoogopgeleide professionals. Het LTR-visum biedt aanzienlijke voordelen, waaronder een verlaagd inkomstenbelastingtarief van 17%, vrijstelling van de 4:1 Thais-naar-buitenlands werknemersverhouding, digitale werkvergunningen en snelle luchthavenservices."
+  },
+  "requirements": [
+    {
+      "item": { "en": "Valid passport", "nl": "Geldig paspoort" },
+      "detail": { "en": "Must have at least 12 months validity remaining", "nl": "Moet minimaal 12 maanden geldig zijn" }
+    },
+    {
+      "item": { "en": "Category-specific income requirement", "nl": "Categorie-specifieke inkomenseis" },
+      "detail": { "en": "Wealthy Global Citizens: $1M+ in assets with $80,000+ annual income. Wealthy Pensioners: $80,000+ annual pension income and $250,000+ in assets. Work-from-Thailand: $80,000+ annual income (or $40,000+ with master's degree/IP/Series A funding). Highly Skilled: $80,000+ annual income (or $40,000+ with master's degree/expertise in target industries).", "nl": "Vermogende Wereldburgers: $1M+ aan vermogen met $80.000+ jaarinkomen. Vermogende Gepensioneerden: $80.000+ jaarlijks pensioeninkomen en $250.000+ aan vermogen. Werk-vanuit-Thailand: $80.000+ jaarinkomen (of $40.000+ met masterdiploma/IE/Series A-financiering). Hoogopgeleide Professionals: $80.000+ jaarinkomen (of $40.000+ met masterdiploma/expertise in doelsectoren)." }
+    },
+    {
+      "item": { "en": "Health insurance", "nl": "Zorgverzekering" },
+      "detail": { "en": "Health insurance with coverage of at least $50,000 USD, or equivalent social security coverage from home country", "nl": "Zorgverzekering met een dekking van minimaal $50.000 USD, of gelijkwaardige sociale zekerheidsdekking uit het thuisland" }
+    },
+    {
+      "item": { "en": "Investment in Thailand (Wealthy Global Citizens)", "nl": "Investering in Thailand (Vermogende Wereldburgers)" },
+      "detail": { "en": "Must invest at least $500,000 in Thai government bonds, foreign direct investment in Thailand, or Thai property", "nl": "Moet minimaal $500.000 investeren in Thaise staatsobligaties, buitenlandse directe investeringen in Thailand of Thais onroerend goed" }
+    },
+    {
+      "item": { "en": "Clean criminal record", "nl": "Schoon strafblad" },
+      "detail": { "en": "No criminal record from home country or Thailand", "nl": "Geen strafblad uit thuisland of Thailand" }
+    }
+  ],
+  "duration": {
+    "initial": "10 years (renewable)",
+    "extensions": {
+      "en": "The LTR visa grants a 10-year stay with no need for annual extensions. You only need to report your address every 90 days (or yearly under certain conditions). The visa can be renewed after 10 years if you still qualify. Each entry allows a stay of up to 1 year, but re-entry is simple and unlimited.",
+      "nl": "Het LTR-visum verleent een verblijf van 10 jaar zonder jaarlijkse verlengingen. Je hoeft alleen elke 90 dagen je adres te melden (of jaarlijks onder bepaalde voorwaarden). Het visum kan na 10 jaar worden verlengd als je nog steeds in aanmerking komt. Elke binnenkomst staat een verblijf van maximaal 1 jaar toe, maar hernieuwde binnenkomst is eenvoudig en onbeperkt."
+    }
+  },
+  "cost": {
+    "entry": "50,000 THB (~$1,450 USD) for the 10-year visa",
+    "extension": "No annual extension fees"
+  },
+  "process": {
+    "steps": [
+      {
+        "step": 1,
+        "title": { "en": "Check Eligibility", "nl": "Controleer Geschiktheid" },
+        "description": { "en": "Determine which of the four LTR categories you qualify for on the BOI (Board of Investment) website at ltr.boi.go.th. Use their online eligibility checker.", "nl": "Bepaal voor welke van de vier LTR-categorieen je in aanmerking komt op de BOI (Board of Investment) website op ltr.boi.go.th. Gebruik hun online geschiktheidscheck." }
+      },
+      {
+        "step": 2,
+        "title": { "en": "Apply Online", "nl": "Vraag Online aan" },
+        "description": { "en": "Submit your application through the BOI online portal at ltr.boi.go.th. Upload all required documents including income proof, asset statements, and insurance. Processing takes approximately 20 business days.", "nl": "Dien je aanvraag in via het BOI online portaal op ltr.boi.go.th. Upload alle vereiste documenten inclusief inkomensbewijs, vermogensoverzichten en verzekering. Verwerking duurt ongeveer 20 werkdagen." }
+      },
+      {
+        "step": 3,
+        "title": { "en": "Receive Endorsement Letter", "nl": "Ontvang Goedkeuringsbrief" },
+        "description": { "en": "Once approved by BOI, you receive an endorsement letter. Take this to a Thai embassy abroad to obtain the LTR visa stamp, or apply at an immigration office if already in Thailand on another visa type.", "nl": "Na goedkeuring door BOI ontvang je een goedkeuringsbrief. Neem deze mee naar een Thaise ambassade in het buitenland voor de LTR-visumstempel, of vraag aan bij een immigratiekantoor als je al in Thailand bent met een ander visumtype." }
+      },
+      {
+        "step": 4,
+        "title": { "en": "Enter Thailand and Activate Benefits", "nl": "Reis Thailand Binnen en Activeer Voordelen" },
+        "description": { "en": "Enter Thailand on your LTR visa. You can immediately apply for a digital work permit through the BOI if needed. Enjoy fast-track immigration at designated airports and the reduced 17% income tax rate.", "nl": "Reis Thailand binnen met je LTR-visum. Je kunt direct een digitale werkvergunning aanvragen via de BOI indien nodig. Geniet van snelle immigratie op aangewezen luchthavens en het verlaagde inkomstenbelastingtarief van 17%." }
+      }
+    ]
+  },
+  "eligible_countries": [
+    "All nationalities who meet the financial and professional requirements"
+  ],
+  "faqs": [
+    {
+      "question": { "en": "What is the difference between the LTR visa and the Thailand Privilege Card?", "nl": "Wat is het verschil tussen het LTR-visum en de Thailand Privilege Card?" },
+      "answer": { "en": "The LTR visa (50,000 THB) is significantly cheaper than the Thailand Privilege Card (from 600,000 THB) but has much stricter eligibility requirements. The LTR offers tax benefits (17% flat rate) and work permit facilitation, which the Privilege Card does not. The Privilege Card is easier to qualify for (no income requirements) and includes VIP lifestyle perks. The LTR is better for high-earning professionals; the Privilege Card suits those who want hassle-free residence without working.", "nl": "Het LTR-visum (50.000 THB) is aanzienlijk goedkoper dan de Thailand Privilege Card (vanaf 600.000 THB) maar heeft veel strengere toelatingseisen. Het LTR biedt belastingvoordelen (17% vast tarief) en werkvergunningfacilitering, wat de Privilege Card niet biedt. De Privilege Card is makkelijker om voor in aanmerking te komen (geen inkomenseisen) en bevat VIP lifestyle-voordelen. Het LTR is beter voor goed verdienende professionals; de Privilege Card past bij wie zorgeloos wil verblijven zonder te werken." }
+    },
+    {
+      "question": { "en": "Can my family join me on the LTR visa?", "nl": "Kan mijn gezin meekomen met het LTR-visum?" },
+      "answer": { "en": "Yes, your spouse and children can apply for dependent LTR visas. Up to 4 dependents per LTR visa holder are allowed. Dependents receive the same 10-year visa and benefits. Each dependent application costs 50,000 THB.", "nl": "Ja, je echtgeno(o)t(e) en kinderen kunnen afhankelijke LTR-visa aanvragen. Maximaal 4 gezinsleden per LTR-visumhouder zijn toegestaan. Gezinsleden ontvangen hetzelfde 10-jarig visum en dezelfde voordelen. Elke aanvraag voor een gezinslid kost 50.000 THB." }
+    },
+    {
+      "question": { "en": "Do I need to live in Thailand full-time on the LTR?", "nl": "Moet ik fulltime in Thailand wonen met het LTR?" },
+      "answer": { "en": "No, there is no minimum stay requirement. You can enter and leave Thailand as often as you like. The visa allows unlimited entries and each entry permits a stay of up to 1 year before you need to exit and re-enter.", "nl": "Nee, er is geen minimale verblijfseis. Je kunt Thailand zo vaak binnenkomen en verlaten als je wilt. Het visum staat onbeperkte binnenkomsten toe en elke binnenkomst staat een verblijf van maximaal 1 jaar toe voordat je moet uitreizen en opnieuw binnenkomen." }
+    },
+    {
+      "question": { "en": "What are the target industries for Highly Skilled Professionals?", "nl": "Wat zijn de doelsectoren voor hoogopgeleide professionals?" },
+      "answer": { "en": "Target industries include: next-generation automotive, smart electronics, medical and wellness tourism, agriculture and biotechnology, food processing, robotics, aviation and logistics, biofuels and biochemicals, digital economy, medical hub, defense, and the development of the Eastern Economic Corridor (EEC).", "nl": "Doelsectoren zijn onder meer: volgende generatie automotive, slimme elektronica, medisch en wellness toerisme, landbouw en biotechnologie, voedselverwerking, robotica, luchtvaart en logistiek, biobrandstoffen en biochemicalien, digitale economie, medische hub, defensie en de ontwikkeling van de Eastern Economic Corridor (EEC)." }
+    }
+  ],
+  "tips": [
+    { "en": "The LTR visa is the best value long-stay visa in Thailand if you qualify - 50,000 THB for 10 years with tax benefits.", "nl": "Het LTR-visum is het beste langverblijfsvisum in Thailand qua prijs-kwaliteit als je in aanmerking komt - 50.000 THB voor 10 jaar met belastingvoordelen." },
+    { "en": "The 17% flat tax rate can save high earners significant money compared to Thailand's progressive rates (up to 35%).", "nl": "Het vaste belastingtarief van 17% kan mensen met hoge inkomens aanzienlijk geld besparen vergeleken met Thailand's progressieve tarieven (tot 35%)." },
+    { "en": "Work-from-Thailand professionals can combine the LTR visa with the digital work permit for fully legal remote work.", "nl": "Werk-vanuit-Thailand professionals kunnen het LTR-visum combineren met de digitale werkvergunning voor volledig legaal werken op afstand." },
+    { "en": "Start the application process well in advance - BOI processing can take 3-6 weeks plus embassy processing time.", "nl": "Begin het aanvraagproces ruim van tevoren - BOI-verwerking kan 3-6 weken duren plus verwerkingstijd bij de ambassade." }
+  ],
+  "last_updated": "2026-02-17",
+  "seo": {
+    "metaTitle": { "en": "Thailand LTR Visa 2026: 10-Year Long-Term Residence Guide", "nl": "Thailand LTR Visum 2026: 10-Jaar Langverblijfsgids" },
+    "metaDescription": { "en": "Complete guide to Thailand's LTR visa in 2026. 10-year residence for wealthy individuals and skilled professionals. 17% tax rate, requirements, costs explained.", "nl": "Complete gids voor het Thailand LTR-visum in 2026. 10 jaar verblijf voor vermogende personen en vakmensen. 17% belastingtarief, vereisten, kosten uitgelegd." }
+  }
+}

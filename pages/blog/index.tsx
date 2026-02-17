@@ -3,56 +3,63 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
+import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import { getAllPosts, getAllCategories } from '../../lib/blog';
 
-// Mock blog post type (will be replaced with actual data structure)
 interface BlogPost {
-  id: string;
   slug: string;
   title: string;
-  excerpt: string;
-  content?: string;
-  author: {
-    name: string;
-    avatar?: string;
-  };
-  publishedAt: string;
-  updatedAt?: string;
-  readingTime: number; // in minutes
-  featuredImage: {
-    url: string;
-    alt: string;
-  };
-  categories: string[];
+  description: string;
+  date: string;
+  author: { name: string };
+  category: string;
   tags: string[];
+  image: string;
   featured?: boolean;
+  readingTime: number;
 }
 
 interface BlogPageProps {
   posts: BlogPost[];
   categories: string[];
-  popularPosts: BlogPost[];
 }
 
-export default function BlogPage({ posts, categories, popularPosts }: BlogPageProps) {
+export default function BlogPage({ posts, categories }: BlogPageProps) {
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [searchQuery, setSearchQuery] = useState('');
+  const { locale } = useRouter();
+  const lang = locale === 'nl' ? 'nl' : 'en';
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Blog', href: '/blog' }
+    { name: 'Blog', href: '/blog/' }
   ];
 
-  // Filter posts based on category and search
   const filteredPosts = posts.filter(post => {
-    const matchesCategory = selectedCategory === 'all' || post.categories.includes(selectedCategory);
+    const matchesCategory = selectedCategory === 'all' || post.category === selectedCategory;
     const matchesSearch = post.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                         post.excerpt.toLowerCase().includes(searchQuery.toLowerCase());
+                         post.description.toLowerCase().includes(searchQuery.toLowerCase());
     return matchesCategory && matchesSearch;
   });
 
-  // Get featured post (first featured post or first post)
   const featuredPost = posts.find(post => post.featured) || posts[0];
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Blog",
+    "name": "Go2Thailand Travel Blog",
+    "description": "Thailand travel tips, guides, and stories",
+    "url": "https://go2-thailand.com/blog/",
+    "blogPost": posts.slice(0, 5).map(post => ({
+      "@type": "BlogPosting",
+      "headline": post.title,
+      "description": post.description,
+      "datePublished": post.date,
+      "author": { "@type": "Person", "name": post.author.name },
+      "url": `https://go2-thailand.com/blog/${post.slug}/`
+    }))
+  };
 
   return (
     <>
@@ -60,12 +67,16 @@ export default function BlogPage({ posts, categories, popularPosts }: BlogPagePr
         <title>Thailand Travel Blog | Tips, Guides & Stories | Go2Thailand</title>
         <meta name="description" content="Explore Thailand through our travel blog. Get insider tips, destination guides, food recommendations, and travel stories from the Land of Smiles." />
         <meta name="keywords" content="Thailand travel blog, Thailand tips, Thailand guides, Thai culture, Thailand stories" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}
         <section className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark text-white">
-          <div className="container-custom py-16">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
             <div className="text-center">
               <h1 className="text-4xl lg:text-6xl font-bold mb-6">
                 Thailand Travel Blog
@@ -79,11 +90,9 @@ export default function BlogPage({ posts, categories, popularPosts }: BlogPagePr
 
         {/* Breadcrumbs and Search */}
         <section className="bg-white border-b">
-          <div className="container-custom py-4">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
               <Breadcrumbs items={breadcrumbs} />
-              
-              {/* Search Bar */}
               <div className="relative w-full md:w-96">
                 <input
                   type="text"
@@ -102,7 +111,7 @@ export default function BlogPage({ posts, categories, popularPosts }: BlogPagePr
 
         {/* Category Filter */}
         <section className="bg-white border-b sticky top-0 z-40">
-          <div className="container-custom py-4">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <div className="flex gap-2 overflow-x-auto scrollbar-hide">
               <button
                 onClick={() => setSelectedCategory('all')}
@@ -118,7 +127,7 @@ export default function BlogPage({ posts, categories, popularPosts }: BlogPagePr
                 <button
                   key={category}
                   onClick={() => setSelectedCategory(category)}
-                  className={`px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-colors ${
+                  className={`px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-colors capitalize ${
                     selectedCategory === category
                       ? 'bg-thailand-blue text-white'
                       : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
@@ -133,18 +142,18 @@ export default function BlogPage({ posts, categories, popularPosts }: BlogPagePr
 
         {/* Main Content */}
         <section className="py-12">
-          <div className="container-custom">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid lg:grid-cols-3 gap-8">
               {/* Blog Posts */}
               <div className="lg:col-span-2">
                 {/* Featured Post */}
                 {featuredPost && selectedCategory === 'all' && !searchQuery && (
                   <article className="mb-12 bg-white rounded-lg shadow-lg overflow-hidden">
-                    <Link href={`/blog/${featuredPost.slug}`}>
+                    <Link href={`/blog/${featuredPost.slug}/`}>
                       <div className="relative h-96">
                         <Image
-                          src={featuredPost.featuredImage.url}
-                          alt={featuredPost.featuredImage.alt}
+                          src={featuredPost.image}
+                          alt={featuredPost.title}
                           fill
                           className="object-cover hover:scale-105 transition-transform duration-300"
                         />
@@ -156,26 +165,22 @@ export default function BlogPage({ posts, categories, popularPosts }: BlogPagePr
                     <div className="p-8">
                       <div className="flex items-center gap-4 text-sm text-gray-600 mb-4">
                         <span>{featuredPost.author.name}</span>
-                        <span>•</span>
-                        <span>{featuredPost.publishedAt}</span>
-                        <span>•</span>
+                        <span>-</span>
+                        <span>{featuredPost.date}</span>
+                        <span>-</span>
                         <span>{featuredPost.readingTime} min read</span>
                       </div>
                       <h2 className="text-3xl font-bold mb-4">
-                        <Link href={`/blog/${featuredPost.slug}`} className="hover:text-thailand-blue transition-colors">
+                        <Link href={`/blog/${featuredPost.slug}/`} className="hover:text-thailand-blue transition-colors">
                           {featuredPost.title}
                         </Link>
                       </h2>
-                      <p className="text-gray-700 mb-4 line-clamp-3">{featuredPost.excerpt}</p>
+                      <p className="text-gray-700 mb-4 line-clamp-3">{featuredPost.description}</p>
                       <div className="flex items-center justify-between">
-                        <div className="flex gap-2">
-                          {featuredPost.categories.map(category => (
-                            <span key={category} className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm">
-                              {category}
-                            </span>
-                          ))}
-                        </div>
-                        <Link href={`/blog/${featuredPost.slug}`} className="text-thailand-blue font-medium hover:underline">
+                        <span className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm capitalize">
+                          {featuredPost.category}
+                        </span>
+                        <Link href={`/blog/${featuredPost.slug}/`} className="text-thailand-blue font-medium hover:underline">
                           Read More →
                         </Link>
                       </div>
@@ -186,12 +191,12 @@ export default function BlogPage({ posts, categories, popularPosts }: BlogPagePr
                 {/* Regular Posts Grid */}
                 <div className="grid md:grid-cols-2 gap-6">
                   {filteredPosts.map(post => (
-                    <article key={post.id} className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
-                      <Link href={`/blog/${post.slug}`}>
+                    <article key={post.slug} className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
+                      <Link href={`/blog/${post.slug}/`}>
                         <div className="relative h-48">
                           <Image
-                            src={post.featuredImage.url}
-                            alt={post.featuredImage.alt}
+                            src={post.image}
+                            alt={post.title}
                             fill
                             className="object-cover hover:scale-105 transition-transform duration-300"
                           />
@@ -199,82 +204,38 @@ export default function BlogPage({ posts, categories, popularPosts }: BlogPagePr
                       </Link>
                       <div className="p-6">
                         <div className="flex items-center gap-3 text-sm text-gray-600 mb-3">
-                          <span>{post.publishedAt}</span>
-                          <span>•</span>
+                          <span>{post.date}</span>
+                          <span>-</span>
                           <span>{post.readingTime} min</span>
                         </div>
                         <h3 className="text-xl font-bold mb-3">
-                          <Link href={`/blog/${post.slug}`} className="hover:text-thailand-blue transition-colors">
+                          <Link href={`/blog/${post.slug}/`} className="hover:text-thailand-blue transition-colors">
                             {post.title}
                           </Link>
                         </h3>
-                        <p className="text-gray-700 mb-4 line-clamp-2">{post.excerpt}</p>
-                        <div className="flex gap-2">
-                          {post.categories.slice(0, 2).map(category => (
-                            <span key={category} className="bg-gray-100 text-gray-700 px-2 py-1 rounded text-xs">
-                              {category}
-                            </span>
-                          ))}
-                        </div>
+                        <p className="text-gray-700 mb-4 line-clamp-2">{post.description}</p>
+                        <span className="bg-gray-100 text-gray-700 px-2 py-1 rounded text-xs capitalize">
+                          {post.category}
+                        </span>
                       </div>
                     </article>
                   ))}
                 </div>
 
-                {/* No Results */}
                 {filteredPosts.length === 0 && (
                   <div className="text-center py-12 bg-white rounded-lg">
                     <p className="text-gray-600 text-lg">No posts found matching your criteria.</p>
                   </div>
                 )}
-
-                {/* Pagination Placeholder */}
-                <div className="mt-12 flex justify-center">
-                  <nav className="flex gap-2">
-                    <button className="px-4 py-2 bg-white border rounded-lg hover:bg-gray-50">Previous</button>
-                    <button className="px-4 py-2 bg-thailand-blue text-white rounded-lg">1</button>
-                    <button className="px-4 py-2 bg-white border rounded-lg hover:bg-gray-50">2</button>
-                    <button className="px-4 py-2 bg-white border rounded-lg hover:bg-gray-50">3</button>
-                    <button className="px-4 py-2 bg-white border rounded-lg hover:bg-gray-50">Next</button>
-                  </nav>
-                </div>
               </div>
 
               {/* Sidebar */}
               <aside className="space-y-8">
-
-                {/* Popular Posts */}
-                <div className="bg-white rounded-lg shadow-lg p-6">
-                  <h3 className="text-xl font-bold mb-4">Popular Posts</h3>
-                  <div className="space-y-4">
-                    {popularPosts.map((post, index) => (
-                      <article key={post.id} className="flex gap-4">
-                        <div className="flex-shrink-0 w-20 h-20 relative">
-                          <Image
-                            src={post.featuredImage.url}
-                            alt={post.featuredImage.alt}
-                            fill
-                            className="object-cover rounded-lg"
-                          />
-                        </div>
-                        <div className="flex-1">
-                          <h4 className="font-medium line-clamp-2">
-                            <Link href={`/blog/${post.slug}`} className="hover:text-thailand-blue transition-colors">
-                              {post.title}
-                            </Link>
-                          </h4>
-                          <p className="text-sm text-gray-600 mt-1">{post.publishedAt}</p>
-                        </div>
-                      </article>
-                    ))}
-                  </div>
-                </div>
-
                 {/* Newsletter Signup */}
                 <div className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark text-white rounded-lg p-6">
                   <h3 className="text-xl font-bold mb-2">Stay Updated</h3>
                   <p className="mb-4 opacity-90">Get the latest Thailand travel tips delivered to your inbox</p>
-                  <form className="space-y-3">
+                  <form className="space-y-3" onSubmit={e => e.preventDefault()}>
                     <input
                       type="email"
                       placeholder="Your email address"
@@ -290,15 +251,26 @@ export default function BlogPage({ posts, categories, popularPosts }: BlogPagePr
                 <div className="bg-white rounded-lg shadow-lg p-6">
                   <h3 className="text-xl font-bold mb-4">Popular Tags</h3>
                   <div className="flex flex-wrap gap-2">
-                    {['Bangkok', 'Street Food', 'Temples', 'Beaches', 'Islands', 'Culture', 'Budget Travel', 'Luxury', 'Adventure'].map(tag => (
+                    {['islands', 'food', 'budget', 'visa', 'beaches', 'planning', 'backpacking', 'bangkok', 'street-food'].map(tag => (
                       <Link
                         key={tag}
-                        href={`/blog/tag/${tag.toLowerCase().replace(' ', '-')}`}
-                        className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm hover:bg-thailand-blue hover:text-white transition-colors"
+                        href={`/blog/tag/${tag}/`}
+                        className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm hover:bg-thailand-blue hover:text-white transition-colors capitalize"
                       >
-                        {tag}
+                        {tag.replace('-', ' ')}
                       </Link>
                     ))}
+                  </div>
+                </div>
+
+                {/* Explore More */}
+                <div className="bg-white rounded-lg shadow-lg p-6">
+                  <h3 className="text-xl font-bold mb-4">Explore More</h3>
+                  <div className="space-y-2">
+                    <Link href="/islands/" className="block text-thailand-blue hover:underline">🏝️ Thailand Islands</Link>
+                    <Link href="/visa/" className="block text-thailand-blue hover:underline">🛂 Visa Guide</Link>
+                    <Link href="/food/" className="block text-thailand-blue hover:underline">🍜 Thai Food Guide</Link>
+                    <Link href="/practical-info/" className="block text-thailand-blue hover:underline">📋 Practical Info</Link>
                   </div>
                 </div>
               </aside>
@@ -306,42 +278,23 @@ export default function BlogPage({ posts, categories, popularPosts }: BlogPagePr
           </div>
         </section>
 
-        {/* Plan Your Thailand Trip - Cross-sell Banner */}
+        {/* Affiliate Banner */}
         <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold">
-          <div className="container-custom py-8">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="flex flex-col md:flex-row items-center justify-between gap-6">
               <div className="text-white">
                 <h2 className="text-2xl font-bold mb-1">Plan Your Thailand Trip</h2>
                 <p className="opacity-90 text-sm">Book hotels, transport, activities, and get connected with an eSIM</p>
               </div>
               <div className="flex flex-wrap justify-center gap-3">
-                <a
-                  href="https://trip.tpo.lv/TmObooZ5"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                >
-                  Hotels
-                </a>
-                <Link href="/activities/" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">
-                  Activities
-                </Link>
-                <a
-                  href="https://12go.tpo.lv/tNA80urD"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                >
-                  Transport
-                </a>
-                <Link href="/esim/" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">
-                  eSIM
-                </Link>
+                <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Booking.com</a>
+                <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Trip.com</a>
+                <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Activities</a>
+                <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Transport</a>
+                <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">eSIM</a>
               </div>
             </div>
-            <p className="text-white/70 text-xs text-center mt-4">
-              Some links are affiliate links. We may earn a commission at no extra cost to you.
-            </p>
+            <p className="text-white/70 text-xs text-center mt-4">Some links are affiliate links. We may earn a commission at no extra cost to you.</p>
           </div>
         </section>
       </div>
@@ -349,64 +302,15 @@ export default function BlogPage({ posts, categories, popularPosts }: BlogPagePr
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
-  // Mock data - replace with actual data fetching
-  const mockPosts: BlogPost[] = [
-    {
-      id: '1',
-      slug: '10-hidden-gems-bangkok',
-      title: '10 Hidden Gems in Bangkok Only Locals Know About',
-      excerpt: 'Skip the tourist traps and discover Bangkok\'s best-kept secrets. From hidden temples to secret rooftop bars, these local favorites will show you a different side of the city.',
-      author: { name: 'Sarah Chen' },
-      publishedAt: 'December 15, 2024',
-      readingTime: 8,
-      featuredImage: {
-        url: '/images/cities/bangkok/business-district-bangkok.webp',
-        alt: 'Hidden Bangkok temple'
-      },
-      categories: ['Bangkok', 'Hidden Gems'],
-      tags: ['bangkok', 'hidden-gems', 'local-tips'],
-      featured: true
-    },
-    {
-      id: '2',
-      slug: 'thai-street-food-guide',
-      title: 'The Ultimate Thai Street Food Guide for First-Timers',
-      excerpt: 'Navigate Thailand\'s vibrant street food scene like a pro. Learn what to eat, where to find it, and how to order without speaking Thai.',
-      author: { name: 'Mike Thompson' },
-      publishedAt: 'December 10, 2024',
-      readingTime: 12,
-      featuredImage: {
-        url: '/images/food/street-food.webp',
-        alt: 'Thai street food vendors'
-      },
-      categories: ['Food', 'Guides'],
-      tags: ['street-food', 'thai-food', 'beginner-guide']
-    },
-    {
-      id: '3',
-      slug: 'island-hopping-southern-thailand',
-      title: 'Island Hopping in Southern Thailand: Complete 2026 Guide',
-      excerpt: 'Plan your perfect island hopping adventure in Southern Thailand. From Phuket to Koh Lipe, we cover everything you need to know.',
-      author: { name: 'Emma Wilson' },
-      publishedAt: 'December 5, 2024',
-      readingTime: 15,
-      featuredImage: {
-        url: '/images/cities/phuket/phuket-old-town.webp',
-        alt: 'Southern Thailand islands'
-      },
-      categories: ['Islands', 'Guides'],
-      tags: ['islands', 'southern-thailand', 'beach']
-    }
-  ];
-
-  const categories = ['Bangkok', 'Islands', 'Food', 'Culture', 'Guides', 'Budget Travel', 'Luxury', 'Hidden Gems'];
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
+  const lang = locale === 'nl' ? 'nl' : 'en';
+  const posts = getAllPosts(lang);
+  const categories = getAllCategories(lang);
 
   return {
     props: {
-      posts: mockPosts,
-      categories,
-      popularPosts: mockPosts.slice(0, 3)
+      posts,
+      categories
     }
   };
 };

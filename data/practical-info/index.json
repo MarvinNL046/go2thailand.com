@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "slug": "scams-safety",
+    "title": { "en": "Scams & Safety Guide", "nl": "Oplichting & Veiligheidsgids" },
+    "icon": "⚠️"
+  },
+  {
+    "id": 2,
+    "slug": "atm-money",
+    "title": { "en": "ATM & Money Guide", "nl": "Geldautomaat & Geldgids" },
+    "icon": "💰"
+  },
+  {
+    "id": 3,
+    "slug": "packing-list",
+    "title": { "en": "Packing List for Thailand", "nl": "Paklijst voor Thailand" },
+    "icon": "🎒"
+  },
+  {
+    "id": 4,
+    "slug": "health-vaccinations",
+    "title": { "en": "Health & Vaccinations", "nl": "Gezondheid & Vaccinaties" },
+    "icon": "💉"
+  },
+  {
+    "id": 5,
+    "slug": "etiquette-culture",
+    "title": { "en": "Etiquette & Culture Tips", "nl": "Etiquette & Cultuurtips" },
+    "icon": "🙏"
+  }
+]

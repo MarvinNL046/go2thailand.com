@@ -1,0 +1,211 @@
+{
+  "slug": "koh-chang",
+  "name": { "en": "Koh Chang", "nl": "Koh Chang" },
+  "region": "Gulf of Thailand",
+  "province": "Trat",
+  "image": "/images/islands/koh-chang.webp",
+  "description": {
+    "en": "Thailand's third-largest island, Koh Chang (Elephant Island) is a mountainous, jungle-covered gem in the eastern Gulf near the Cambodian border. Unlike the more developed islands in the south, Koh Chang retains a wilder, more rugged character with dense rainforest covering its interior, dramatic waterfalls, and a less commercialized feel. The west coast offers a string of beaches from the bustling White Sand Beach to the bohemian Lonely Beach, while the undeveloped east coast features fishing villages and mangrove forests.",
+    "nl": "Het op twee na grootste eiland van Thailand, Koh Chang (Olifanteneiland) is een bergachtig, met jungle bedekt juweel in de oostelijke Golf nabij de Cambodjaanse grens. In tegenstelling tot de meer ontwikkelde eilanden in het zuiden behoudt Koh Chang een wilder, ruiger karakter met dicht regenwoud in het binnenland, spectaculaire watervallen en een minder commercieel gevoel. De westkust biedt een reeks stranden van het bruisende White Sand Beach tot het bohemien Lonely Beach, terwijl de onontgonnen oostkust vissersdorpen en mangrovebossen herbergt."
+  },
+  "beaches": [
+    {
+      "name": "White Sand Beach (Haad Sai Khao)",
+      "description": {
+        "en": "The longest and most developed beach on Koh Chang, stretching 2.5 kilometers with soft white sand. The northern end is quieter with luxury resorts, while the southern end has more budget accommodation, bars, and a lively evening scene.",
+        "nl": "Het langste en meest ontwikkelde strand van Koh Chang, dat zich 2,5 kilometer uitstrekt met zacht wit zand. Het noordelijke deel is rustiger met luxe resorts, terwijl het zuidelijke deel meer budgetaccommodatie, bars en een levendig avondleven heeft."
+      },
+      "best_for": ["swimming", "nightlife", "convenience", "water sports"]
+    },
+    {
+      "name": "Lonely Beach (Haad Tha Nam)",
+      "description": {
+        "en": "Despite its name, this beach has become the backpacker and party hub of Koh Chang. The small beach is framed by boulders and jungle, with a village of budget bungalows, bars, and tattoo shops behind it. The vibe is bohemian and youthful.",
+        "nl": "Ondanks de naam is dit strand het backpacker- en feestcentrum van Koh Chang geworden. Het kleine strand is omlijst door rotsblokken en jungle, met een dorpje van budgetbungalows, bars en tattooshops erachter. De sfeer is boheems en jeugdig."
+      },
+      "best_for": ["backpackers", "nightlife", "budget", "atmosphere"]
+    },
+    {
+      "name": "Klong Prao Beach",
+      "description": {
+        "en": "A long, quiet beach split by a river estuary, offering a more relaxed alternative to White Sand Beach. The southern section has lovely resorts set among coconut palms. Kayaking up the estuary at sunset is magical.",
+        "nl": "Een lang, rustig strand gesplitst door een riviermonding, dat een meer ontspannen alternatief biedt voor White Sand Beach. Het zuidelijke deel heeft mooie resorts tussen kokospalmen. Kajakken over de riviermonding bij zonsondergang is magisch."
+      },
+      "best_for": ["relaxation", "families", "kayaking", "romance"]
+    },
+    {
+      "name": "Kai Bae Beach",
+      "description": {
+        "en": "A medium-sized beach with a nice mix of accommodation options and a pleasant, not-too-busy atmosphere. The offshore island of Koh Man Nai is visible from the beach and reachable by kayak during low tide. Good for families.",
+        "nl": "Een middelgroot strand met een mooie mix van accommodatie-opties en een prettige, niet al te drukke sfeer. Het offshore eilandje Koh Man Nai is zichtbaar vanaf het strand en bereikbaar per kajak bij eb. Goed voor gezinnen."
+      },
+      "best_for": ["families", "kayaking", "swimming", "mid-range"]
+    },
+    {
+      "name": "Bailan Beach",
+      "description": {
+        "en": "A small, less-developed beach between Kai Bae and Lonely Beach, offering a tranquil escape. The beach is narrow but scenic, and the area is home to several wellness-oriented resorts and cooking schools.",
+        "nl": "Een klein, minder ontwikkeld strand tussen Kai Bae en Lonely Beach, dat een rustige ontsnapping biedt. Het strand is smal maar schilderachtig, en het gebied herbergt verschillende wellness-georiënteerde resorts en kookscholen."
+      },
+      "best_for": ["tranquility", "wellness", "nature"]
+    }
+  ],
+  "activities": [
+    {
+      "name": "Klong Plu Waterfall",
+      "type": "nature",
+      "description": {
+        "en": "The most accessible and popular waterfall on Koh Chang, located in a lush jungle setting within Mu Ko Chang National Park. A short walk from the parking area leads to a beautiful cascade with a natural swimming pool. Entry fee ฿200 for foreigners.",
+        "nl": "De meest toegankelijke en populaire waterval op Koh Chang, gelegen in een weelderige jungle-omgeving binnen Mu Ko Chang Nationaal Park. Een korte wandeling vanaf de parkeerplaats leidt naar een prachtige waterval met een natuurlijk zwembad. Toegangsprijs ฿200 voor buitenlanders."
+      },
+      "price_range": "$"
+    },
+    {
+      "name": "Snorkeling & Diving at Koh Rang",
+      "type": "water_sport",
+      "description": {
+        "en": "The Koh Rang archipelago, within the national marine park, offers some of the best snorkeling and diving in eastern Thailand. Day trips visit several uninhabited islands with pristine coral reefs. Visibility is best from November to May.",
+        "nl": "De Koh Rang archipel, binnen het nationaal marien park, biedt enkele van de beste snorkel- en duikplekken in oost-Thailand. Dagtochten bezoeken meerdere onbewoonde eilanden met ongerepte koraalriffen. Het zicht is het beste van november tot mei."
+      },
+      "price_range": "$$"
+    },
+    {
+      "name": "Jungle Trekking",
+      "type": "adventure",
+      "description": {
+        "en": "Koh Chang's mountainous interior is covered in primary rainforest, home to hornbills, macaques, and diverse wildlife. Guided treks range from half-day walks to challenging full-day hikes to the island's peaks. Always go with a guide as trails are poorly marked.",
+        "nl": "Het bergachtige binnenland van Koh Chang is bedekt met primair regenwoud, de thuisbasis van neushoornvogels, makaken en diverse wilde dieren. Begeleide trektochten variëren van halve dag wandelingen tot uitdagende hele dag hikes naar de pieken van het eiland. Ga altijd met een gids omdat de paden slecht gemarkeerd zijn."
+      },
+      "price_range": "$$"
+    },
+    {
+      "name": "Bang Bao Fishing Village",
+      "type": "cultural",
+      "description": {
+        "en": "A picturesque fishing village at the southern tip of the island, built entirely on stilts over the water. The wooden pier has been converted into a long walkway lined with souvenir shops, seafood restaurants, and dive operators. Boats to nearby islands depart from here.",
+        "nl": "Een schilderachtig vissersdorp aan de zuidpunt van het eiland, geheel gebouwd op palen boven het water. De houten pier is omgebouwd tot een lange promenade met souvenirwinkels, visrestaurants en duikoperators. Boten naar nabijgelegen eilanden vertrekken hier."
+      },
+      "price_range": "Free"
+    },
+    {
+      "name": "Night Market (White Sand Beach)",
+      "type": "food",
+      "description": {
+        "en": "A nightly food market near the southern end of White Sand Beach serving affordable Thai dishes, fresh seafood barbecue, smoothies, and snacks. A great way to experience local food culture and mingle with both travelers and locals.",
+        "nl": "Een avondlijke voedsmarkt nabij het zuidelijke uiteinde van White Sand Beach met betaalbare Thaise gerechten, verse zeevruchtenbarbecue, smoothies en snacks. Een geweldige manier om de lokale eetcultuur te ervaren en met zowel reizigers als lokale bevolking te mengen."
+      },
+      "price_range": "$"
+    }
+  ],
+  "getting_there": {
+    "from_bangkok": {
+      "options": [
+        {
+          "method": "Bus + Ferry",
+          "duration": "5-6 hours",
+          "price": "฿300-600",
+          "description": {
+            "en": "Direct buses from Bangkok's Eastern Bus Terminal (Ekkamai) or Mo Chit to Trat, then a short songthaew ride to Centerpoint Pier for the 30-minute car ferry crossing. The most popular and affordable option.",
+            "nl": "Directe bussen van het oostelijke busstation van Bangkok (Ekkamai) of Mo Chit naar Trat, vervolgens een korte songthaew-rit naar Centerpoint Pier voor de 30 minuten durende autoveerbootoversteek. De populairste en meest betaalbare optie."
+          }
+        },
+        {
+          "method": "Minivan",
+          "duration": "4.5-5.5 hours",
+          "price": "฿400-800",
+          "description": {
+            "en": "Private minivans operate from Bangkok directly to the Koh Chang ferry pier, offering door-to-pier convenience. Some include the ferry ticket. Faster and more comfortable than public buses.",
+            "nl": "Privé minibussen rijden van Bangkok rechtstreeks naar de Koh Chang veerpont, met deur-tot-pier gemak. Sommige includeren het veerbootticket. Sneller en comfortabeler dan openbare bussen."
+          }
+        },
+        {
+          "method": "Flight to Trat + Ferry",
+          "duration": "2-3 hours",
+          "price": "฿2,000-4,500",
+          "description": {
+            "en": "Bangkok Airways operates daily flights from Suvarnabhumi to Trat airport (1 hour), then a 20-minute transfer to the ferry pier. The fastest option but limited flight availability.",
+            "nl": "Bangkok Airways opereert dagelijkse vluchten van Suvarnabhumi naar de luchthaven van Trat (1 uur), vervolgens een 20 minuten durende transfer naar de veerpont. De snelste optie maar beperkte vliegbeschikbaarheid."
+          }
+        },
+        {
+          "method": "Self-drive",
+          "duration": "4-5 hours",
+          "price": "Ferry ฿120 + toll",
+          "description": {
+            "en": "Drive east from Bangkok on Route 344 and Highway 3 to Trat. The car ferry takes vehicles for about ฿120. Koh Chang has roads but they are hilly and winding, so drive carefully. Car rental is available in Trat.",
+            "nl": "Rijd naar het oosten vanuit Bangkok via Route 344 en snelweg 3 naar Trat. De autoveerboot neemt voertuigen mee voor ongeveer ฿120. Koh Chang heeft wegen maar ze zijn heuvelachtig en bochtig, dus rij voorzichtig. Autoverhuur is beschikbaar in Trat."
+          }
+        }
+      ]
+    }
+  },
+  "accommodation_tips": {
+    "areas": [
+      {
+        "name": "White Sand Beach",
+        "description": {
+          "en": "The main tourist hub with the widest range of accommodation, dining, and nightlife. Best for first-time visitors wanting convenience and a lively atmosphere.",
+          "nl": "Het belangrijkste toeristische centrum met het breedste aanbod aan accommodatie, eetgelegenheden en nachtleven. Het beste voor eerste bezoekers die gemak en een levendige sfeer willen."
+        },
+        "price_range": "$$-$$$$"
+      },
+      {
+        "name": "Klong Prao",
+        "description": {
+          "en": "A quieter, more spacious area with upscale resorts tucked among coconut groves along the estuary. Excellent for couples and families seeking tranquility with easy access to the rest of the island.",
+          "nl": "Een rustiger, ruimer gebied met luxe resorts verscholen tussen kokospalmgaarden langs de riviermonding. Uitstekend voor stellen en gezinnen die rust zoeken met makkelijke toegang tot de rest van het eiland."
+        },
+        "price_range": "$$-$$$$"
+      },
+      {
+        "name": "Lonely Beach",
+        "description": {
+          "en": "The backpacker zone with the cheapest accommodation on the island. Bungalows from ฿300/night and a fun social scene. Can be noisy at night during peak season.",
+          "nl": "De backpackerzone met de goedkoopste accommodatie op het eiland. Bungalows vanaf ฿300/nacht en een leuk sociaal leven. Kan 's nachts lawaaierig zijn tijdens het hoogseizoen."
+        },
+        "price_range": "$"
+      },
+      {
+        "name": "Kai Bae",
+        "description": {
+          "en": "A pleasant middle ground between busy White Sand Beach and bohemian Lonely Beach. Good value accommodation and a family-friendly atmosphere with enough restaurants and shops.",
+          "nl": "Een prettige middenweg tussen het drukke White Sand Beach en het bohemien Lonely Beach. Goede waar voor je geld qua accommodatie en een gezinsvriendelijke sfeer met voldoende restaurants en winkels."
+        },
+        "price_range": "$-$$$"
+      }
+    ]
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$20-35",
+      "mid": "$40-80",
+      "luxury": "$120+"
+    },
+    "currency_tips": {
+      "en": "ATMs and exchange booths are available along the west coast, mainly at White Sand Beach and Kai Bae. The 7-Elevens have ATMs. Credit cards are accepted at larger resorts and restaurants. Koh Chang is generally cheaper than the southern islands.",
+      "nl": "Geldautomaten en wisselkantoren zijn beschikbaar langs de westkust, voornamelijk bij White Sand Beach en Kai Bae. De 7-Elevens hebben geldautomaten. Creditcards worden geaccepteerd bij grotere resorts en restaurants. Koh Chang is over het algemeen goedkoper dan de zuidelijke eilanden."
+    }
+  },
+  "best_time_to_visit": {
+    "high_season": "Nov-Mar",
+    "shoulder": "Apr-May, Oct",
+    "low_season": "Jun-Sep",
+    "avoid": "Jun-Aug",
+    "description": {
+      "en": "November to February offers the best weather with comfortable temperatures and little rain. The southwest monsoon brings heavy rain from June to September, though the island remains open year-round. The waterfalls are at their most impressive during and just after the rainy season. Being close to Bangkok, Koh Chang gets crowded on Thai long weekends.",
+      "nl": "November tot februari biedt het beste weer met comfortabele temperaturen en weinig regen. De zuidwestmoesson brengt zware regenval van juni tot september, hoewel het eiland het hele jaar door open blijft. De watervallen zijn op hun indrukwekkendst tijdens en net na het regenseizoen. Door de nabijheid van Bangkok wordt Koh Chang druk op Thaise lange weekenden."
+    }
+  },
+  "highlights": ["White Sand Beach", "Klong Plu Waterfall", "Lonely Beach", "Bang Bao Village", "Jungle Trekking"],
+  "tags": ["beach", "nature", "jungle", "waterfalls", "backpacker", "family", "diving"],
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Chang 2026: Beaches, Waterfalls & Jungle Adventures",
+      "nl": "Koh Chang 2026: Stranden, Watervallen & Jungle-avonturen"
+    },
+    "metaDescription": {
+      "en": "Complete Koh Chang guide 2026. Best beaches, waterfalls, jungle trekking & how to get there from Bangkok. Discover Thailand's wild island paradise!",
+      "nl": "Complete Koh Chang gids 2026. Beste stranden, watervallen, jungletrekking & hoe je er komt vanuit Bangkok. Ontdek het wilde eilandparadijs van Thailand!"
+    }
+  }
+}
