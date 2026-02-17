@@ -34,7 +34,7 @@ export default async function handler(
   try {
     const {
       topic,
-      model = "gpt-4o-mini",
+      model = "gpt-5-nano",
       publish = false,
     } = req.body as {
       topic?: string;

@@ -151,7 +151,7 @@ function Dashboard({ pipelineKey, onLogout }: { pipelineKey: string; onLogout: (
 
   // --- Generate state ---
   const [topic, setTopic] = useState("");
-  const [model, setModel] = useState<"claude-haiku" | "gpt-4o-mini" | "gpt-5-nano">("gpt-4o-mini");
+  const [model, setModel] = useState<"claude-haiku" | "gpt-4o-mini" | "gpt-5-nano">("gpt-5-nano");
   const [generating, setGenerating] = useState(false);
   const [generateResult, setGenerateResult] = useState<GenerateResult | null>(null);
   const [generateError, setGenerateError] = useState("");
