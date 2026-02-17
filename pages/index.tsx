@@ -644,6 +644,136 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         </div>
       </section>
 
+      {/* Plan Your Complete Thailand Trip - Affiliate Cross-Sell */}
+      <section className="section-padding bg-white">
+        <div className="container-custom">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+              Plan Your Complete Thailand Trip
+            </h2>
+            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+              Everything you need to book, from hotels and tours to transport and connectivity — all in one place.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-10">
+            {/* Hotels Card */}
+            <div className="bg-gradient-to-br from-thailand-blue-50 to-white rounded-xl p-6 border border-thailand-blue-200 hover:shadow-xl transition-shadow duration-300">
+              <div className="text-4xl mb-4">🏨</div>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">Hotels &amp; Accommodation</h3>
+              <p className="text-gray-600 mb-5 text-sm">
+                Compare prices on thousands of hotels, hostels, and resorts across Thailand.
+              </p>
+              <div className="flex flex-col gap-3">
+                <a
+                  href="https://trip.tpo.lv/TmObooZ5"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block text-center bg-thailand-blue text-white px-4 py-2 rounded-lg font-medium hover:bg-thailand-blue-600 transition-colors text-sm"
+                >
+                  Search on Trip.com
+                </a>
+                <a
+                  href="https://booking.tpo.lv/2PT1kR82"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block text-center bg-blue-700 text-white px-4 py-2 rounded-lg font-medium hover:bg-blue-800 transition-colors text-sm"
+                >
+                  Search on Booking.com
+                </a>
+              </div>
+            </div>
+
+            {/* Activities & Tours Card */}
+            <div className="bg-gradient-to-br from-green-50 to-white rounded-xl p-6 border border-green-200 hover:shadow-xl transition-shadow duration-300">
+              <div className="text-4xl mb-4">🎯</div>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">Activities &amp; Tours</h3>
+              <p className="text-gray-600 mb-5 text-sm">
+                Book island hopping, temple tours, cooking classes, and unforgettable experiences.
+              </p>
+              <div className="flex flex-col gap-3">
+                <a
+                  href="https://klook.tpo.lv/aq6ZFxvc"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block text-center bg-orange-500 text-white px-4 py-2 rounded-lg font-medium hover:bg-orange-600 transition-colors text-sm"
+                >
+                  Browse on Klook
+                </a>
+                <a
+                  href="https://getyourguide.tpo.lv/GuAFfGGK"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block text-center bg-blue-600 text-white px-4 py-2 rounded-lg font-medium hover:bg-blue-700 transition-colors text-sm"
+                >
+                  Browse on GetYourGuide
+                </a>
+              </div>
+            </div>
+
+            {/* Transport Card */}
+            <div className="bg-gradient-to-br from-purple-50 to-white rounded-xl p-6 border border-purple-200 hover:shadow-xl transition-shadow duration-300">
+              <div className="text-4xl mb-4">🚌</div>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">Transport</h3>
+              <p className="text-gray-600 mb-5 text-sm">
+                Buses, trains, ferries, and flights between cities — book your routes in advance.
+              </p>
+              <div className="flex flex-col gap-3">
+                <a
+                  href="https://12go.tpo.lv/tNA80urD"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block text-center bg-purple-600 text-white px-4 py-2 rounded-lg font-medium hover:bg-purple-700 transition-colors text-sm"
+                >
+                  Book on 12Go Asia
+                </a>
+              </div>
+            </div>
+
+            {/* eSIM Card */}
+            <div className="bg-gradient-to-br from-cyan-50 to-white rounded-xl p-6 border border-cyan-200 hover:shadow-xl transition-shadow duration-300">
+              <div className="text-4xl mb-4">📱</div>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">eSIM &amp; Data</h3>
+              <p className="text-gray-600 mb-5 text-sm">
+                Stay connected with affordable eSIM plans — no physical SIM swap needed.
+              </p>
+              <div className="flex flex-col gap-3">
+                <Link
+                  href="/esim/"
+                  className="block text-center bg-cyan-600 text-white px-4 py-2 rounded-lg font-medium hover:bg-cyan-700 transition-colors text-sm"
+                >
+                  Compare eSIM Plans
+                </Link>
+              </div>
+            </div>
+
+            {/* VPN & Security Card */}
+            <div className="bg-gradient-to-br from-thailand-red-50 to-white rounded-xl p-6 border border-thailand-red-200 hover:shadow-xl transition-shadow duration-300">
+              <div className="text-4xl mb-4">🔒</div>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">VPN &amp; Security</h3>
+              <p className="text-gray-600 mb-5 text-sm">
+                Protect your data on public Wi-Fi and access your favorite services abroad.
+              </p>
+              <div className="flex flex-col gap-3">
+                <Link
+                  href="/travel-security/"
+                  className="block text-center bg-thailand-red text-white px-4 py-2 rounded-lg font-medium hover:bg-thailand-red-600 transition-colors text-sm"
+                >
+                  Travel Security Guide
+                </Link>
+              </div>
+            </div>
+          </div>
+
+          {/* Affiliate Disclosure */}
+          <div className="text-center">
+            <p className="text-xs text-gray-400 max-w-2xl mx-auto">
+              Some of the links above are affiliate links. If you make a booking through these links, we may earn a small commission at no extra cost to you. This helps us keep Go2Thailand free and up-to-date.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* Bottom CTA Section */}
       <section className="bg-gray-50 py-8">
         <div className="container-custom">

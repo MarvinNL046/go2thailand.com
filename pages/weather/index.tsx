@@ -203,6 +203,45 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
 
           </aside>
         </div>
+
+        {/* Ready to Book Section */}
+        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold rounded-lg p-8 text-white mt-12">
+          <h2 className="text-2xl font-bold text-center mb-4">Ready to Book Your Thailand Trip?</h2>
+          <p className="text-center mb-8 opacity-90 max-w-2xl mx-auto">
+            Now that you know the best time to visit, start planning your perfect Thailand getaway.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
+            <a
+              href="https://trip.tpo.lv/TmObooZ5"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-white text-thailand-blue rounded-lg p-6 text-center hover:shadow-lg transition-shadow block"
+            >
+              <div className="text-3xl mb-3">🏨</div>
+              <h3 className="font-semibold text-lg mb-1">Find Hotels</h3>
+              <p className="text-sm text-gray-600">Compare deals on Trip.com</p>
+            </a>
+            <Link
+              href="/esim/"
+              className="bg-white text-thailand-blue rounded-lg p-6 text-center hover:shadow-lg transition-shadow block"
+            >
+              <div className="text-3xl mb-3">📱</div>
+              <h3 className="font-semibold text-lg mb-1">Stay Connected</h3>
+              <p className="text-sm text-gray-600">Get an eSIM for Thailand</p>
+            </Link>
+            <Link
+              href="/travel-insurance/"
+              className="bg-white text-thailand-blue rounded-lg p-6 text-center hover:shadow-lg transition-shadow block"
+            >
+              <div className="text-3xl mb-3">🛡️</div>
+              <h3 className="font-semibold text-lg mb-1">Travel Insurance</h3>
+              <p className="text-sm text-gray-600">Protect your trip</p>
+            </Link>
+          </div>
+          <p className="text-xs text-center opacity-75">
+            External links are affiliate links. We may earn a small commission at no extra cost to you.
+          </p>
+        </section>
       </main>
     </div>
   );

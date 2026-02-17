@@ -328,8 +328,45 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
               </div>
             </div>
 
+            {/* Activities & Tours CTA */}
+            <div className="mt-12 bg-white rounded-lg shadow-lg p-8">
+              <h2 className="text-2xl font-bold text-gray-900 mb-4 text-center">
+                Book Activities for {guide.month}
+              </h2>
+              <p className="text-gray-600 text-center mb-6">
+                Discover the best tours, day trips, and experiences across Thailand.
+              </p>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+                <a
+                  href="https://klook.tpo.lv/aq6ZFxvc"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center justify-center bg-orange-500 text-white py-3 px-4 rounded-lg font-semibold hover:bg-orange-600 transition-colors text-sm"
+                >
+                  Browse Klook Activities
+                </a>
+                <a
+                  href="https://getyourguide.tpo.lv/GuAFfGGK"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center justify-center bg-blue-600 text-white py-3 px-4 rounded-lg font-semibold hover:bg-blue-700 transition-colors text-sm"
+                >
+                  Browse GetYourGuide
+                </a>
+                <Link
+                  href="/activities/"
+                  className="flex items-center justify-center bg-thailand-blue text-white py-3 px-4 rounded-lg font-semibold hover:opacity-90 transition-opacity text-sm"
+                >
+                  All Activities
+                </Link>
+              </div>
+              <p className="text-xs text-gray-500 text-center">
+                External links are affiliate links. We may earn a small commission at no extra cost to you.
+              </p>
+            </div>
+
             {/* Bottom CTA */}
-            <div className="mt-12 bg-gradient-to-r from-thailand-blue to-thailand-gold rounded-lg p-8 text-white text-center">
+            <div className="mt-8 bg-gradient-to-r from-thailand-blue to-thailand-gold rounded-lg p-8 text-white text-center">
               <h2 className="text-2xl font-bold mb-4">
                 Ready to Visit Thailand in {guide.month}?
               </h2>

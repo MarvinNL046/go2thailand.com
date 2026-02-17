@@ -267,6 +267,41 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
           </div>
         </section>
 
+        {/* Book a Food Experience - Affiliate CTA */}
+        <section className="py-12 bg-gradient-to-br from-orange-50 to-orange-100">
+          <div className="container-custom">
+            <div className="text-center max-w-2xl mx-auto">
+              <h3 className="text-2xl font-bold text-gray-900 mb-3">
+                🍳 Book a Food Experience in Thailand
+              </h3>
+              <p className="text-gray-600 mb-6">
+                Take your taste buds further with hands-on cooking classes and guided food tours across Thailand.
+              </p>
+              <div className="flex flex-col sm:flex-row gap-4 justify-center mb-4">
+                <a
+                  href="https://klook.tpo.lv/aq6ZFxvc"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block bg-orange-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-orange-600 transition-colors"
+                >
+                  Cooking Classes on Klook
+                </a>
+                <a
+                  href="https://getyourguide.tpo.lv/GuAFfGGK"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block bg-blue-700 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-800 transition-colors"
+                >
+                  Food Tours on GetYourGuide
+                </a>
+              </div>
+              <p className="text-xs text-gray-500">
+                We earn a commission at no extra cost to you
+              </p>
+            </div>
+          </div>
+        </section>
+
         {/* Call to Action */}
         <section className="section-padding bg-white">
           <div className="container-custom">
@@ -277,7 +312,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
               <p className="text-gray-600 mb-8">
                 Explore our complete collection of Top 10 guides for hotels and attractions too.
               </p>
-              
+
               <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
                 <Link href="/top-10/hotels/" className="bg-thailand-blue text-white px-6 py-3 rounded-lg font-semibold hover:bg-thailand-blue-600 transition-colors">
                   🏨 Hotel Guides

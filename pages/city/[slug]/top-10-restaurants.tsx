@@ -303,6 +303,37 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
                     />
                   </div>
 
+                  {/* Book a Food Experience - Affiliate CTA */}
+                  <div className="bg-gradient-to-br from-orange-50 to-orange-100 rounded-lg shadow-lg p-8 text-center border border-orange-200">
+                    <h3 className="text-2xl font-bold text-gray-900 mb-3">
+                      🍳 Book a Food Experience in {city.name.en}
+                    </h3>
+                    <p className="text-gray-600 mb-6">
+                      Take your taste buds further with hands-on cooking classes and guided food tours in {city.name.en}.
+                    </p>
+                    <div className="flex flex-col sm:flex-row gap-4 justify-center mb-4">
+                      <a
+                        href="https://klook.tpo.lv/aq6ZFxvc"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-block bg-orange-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-orange-600 transition-colors"
+                      >
+                        Cooking Classes on Klook
+                      </a>
+                      <a
+                        href="https://getyourguide.tpo.lv/GuAFfGGK"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-block bg-blue-700 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-800 transition-colors"
+                      >
+                        Food Tours on GetYourGuide
+                      </a>
+                    </div>
+                    <p className="text-xs text-gray-500">
+                      We earn a commission at no extra cost to you
+                    </p>
+                  </div>
+
                   {/* Call to Action */}
                   <div className="bg-white rounded-lg shadow-lg p-8 text-center">
                     <h3 className="text-2xl font-bold text-gray-900 mb-4">

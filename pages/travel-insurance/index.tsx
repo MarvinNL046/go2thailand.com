@@ -303,6 +303,41 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
           </div>
         </section>
 
+        {/* Cross-Sell Section */}
+        <section className="py-12 bg-gray-50">
+          <div className="container-custom">
+            <h2 className="text-3xl font-bold text-center mb-4">More Travel Essentials</h2>
+            <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
+              Complete your Thailand travel preparation with these helpful resources.
+            </p>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+              <Link href="/esim/" className="bg-white rounded-lg shadow-sm p-6 text-center hover:shadow-lg transition-shadow block">
+                <div className="text-4xl mb-3">📱</div>
+                <h3 className="font-semibold text-gray-900 mb-2">Thailand eSIM</h3>
+                <p className="text-gray-600 text-sm">Stay connected with affordable data plans throughout Thailand.</p>
+              </Link>
+              <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="bg-white rounded-lg shadow-sm p-6 text-center hover:shadow-lg transition-shadow block">
+                <div className="text-4xl mb-3">🏨</div>
+                <h3 className="font-semibold text-gray-900 mb-2">Book Hotels</h3>
+                <p className="text-gray-600 text-sm">Find the best hotel deals across Thailand on Trip.com.</p>
+              </a>
+              <Link href="/activities/" className="bg-white rounded-lg shadow-sm p-6 text-center hover:shadow-lg transition-shadow block">
+                <div className="text-4xl mb-3">🎯</div>
+                <h3 className="font-semibold text-gray-900 mb-2">Activities & Tours</h3>
+                <p className="text-gray-600 text-sm">Discover the best tours, day trips, and experiences in Thailand.</p>
+              </Link>
+              <Link href="/travel-security/" className="bg-white rounded-lg shadow-sm p-6 text-center hover:shadow-lg transition-shadow block">
+                <div className="text-4xl mb-3">🔒</div>
+                <h3 className="font-semibold text-gray-900 mb-2">VPN & Security</h3>
+                <p className="text-gray-600 text-sm">Protect your online privacy while traveling in Thailand.</p>
+              </Link>
+            </div>
+            <p className="text-xs text-gray-500 text-center mt-4">
+              Some links are affiliate links. We may earn a small commission at no extra cost to you.
+            </p>
+          </div>
+        </section>
+
         {/* FAQ Section */}
         <section className="py-12">
           <div className="container-custom">

@@ -306,6 +306,40 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                   <div className="mt-12">
                   </div>
 
+                  {/* Book Tickets & Tours - Affiliate CTA */}
+                  <div className="bg-gradient-to-br from-green-50 to-green-100 rounded-lg shadow-lg p-8 text-center border border-green-200">
+                    <h3 className="text-2xl font-bold text-gray-900 mb-3">
+                      🎟️ Book Tickets & Tours in {city.name.en}
+                    </h3>
+                    <p className="text-gray-600 mb-6">
+                      Skip the queues and book tickets, guided tours, and unique experiences in {city.name.en} online.
+                    </p>
+                    <div className="flex flex-col sm:flex-row gap-4 justify-center mb-4">
+                      <a
+                        href="https://klook.tpo.lv/aq6ZFxvc"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-block bg-orange-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-orange-600 transition-colors"
+                      >
+                        Book on Klook
+                      </a>
+                      <a
+                        href="https://getyourguide.tpo.lv/GuAFfGGK"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-block bg-blue-700 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-800 transition-colors"
+                      >
+                        Book on GetYourGuide
+                      </a>
+                    </div>
+                    <Link href="/activities/" className="text-sm text-thailand-blue hover:underline">
+                      Browse all activities in Thailand →
+                    </Link>
+                    <p className="text-xs text-gray-500 mt-2">
+                      We earn a commission at no extra cost to you
+                    </p>
+                  </div>
+
                   {/* Call to Action */}
                   <div className="bg-white rounded-lg shadow-lg p-8 text-center">
                     <h3 className="text-2xl font-bold text-gray-900 mb-4">

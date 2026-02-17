@@ -316,6 +316,37 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
                   <div className="mt-12">
                   </div>
 
+                  {/* Book Your Hotel - Affiliate CTA */}
+                  <div className="bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg shadow-lg p-8 text-center border border-blue-200">
+                    <h3 className="text-2xl font-bold text-gray-900 mb-3">
+                      🏨 Book Your Hotel in {city.name.en}
+                    </h3>
+                    <p className="text-gray-600 mb-6">
+                      Compare rates across top booking platforms and find the best deal for your stay in {city.name.en}.
+                    </p>
+                    <div className="flex flex-col sm:flex-row gap-4 justify-center mb-4">
+                      <a
+                        href="https://trip.tpo.lv/TmObooZ5"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+                      >
+                        Search on Trip.com
+                      </a>
+                      <a
+                        href="https://booking.tpo.lv/2PT1kR82"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-block bg-blue-800 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-900 transition-colors"
+                      >
+                        Search on Booking.com
+                      </a>
+                    </div>
+                    <p className="text-xs text-gray-500">
+                      We earn a commission at no extra cost to you
+                    </p>
+                  </div>
+
                   {/* Call to Action */}
                   <div className="bg-white rounded-lg shadow-lg p-8 text-center">
                     <h3 className="text-2xl font-bold text-gray-900 mb-4">

@@ -198,6 +198,37 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels }: City
               </div>
             )}
 
+            {/* Book Your Hotel - Affiliate Section */}
+            <div className="bg-white rounded-lg shadow-lg p-8 mb-8">
+              <h3 className="text-2xl font-bold text-gray-900 mb-4 text-center">
+                Book Your Hotel in {city.name.en}
+              </h3>
+              <p className="text-gray-600 text-center mb-6">
+                Compare prices across top booking platforms and find the best deal for your stay.
+              </p>
+              <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                <a
+                  href="https://trip.tpo.lv/TmObooZ5"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors"
+                >
+                  Search on Trip.com
+                </a>
+                <a
+                  href="https://booking.tpo.lv/2PT1kR82"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-blue-800 text-white font-semibold rounded-lg hover:bg-blue-900 transition-colors"
+                >
+                  Search on Booking.com
+                </a>
+              </div>
+              <p className="text-xs text-gray-400 text-center mt-4">
+                We may earn a commission when you book through our links, at no extra cost to you. This helps us keep the site running.
+              </p>
+            </div>
+
             <div className="bg-white rounded-lg shadow-lg p-8">
               <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">
                 Explore More of {city.name.en}

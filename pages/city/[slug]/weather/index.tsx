@@ -239,6 +239,34 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
 
           </aside>
         </div>
+
+        {/* Booking CTA */}
+        <section className="mt-12 bg-white rounded-lg shadow-md p-6">
+          <h2 className="text-xl font-bold text-gray-900 mb-4 text-center">
+            Book Your {city.name.en} Trip
+          </h2>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <a
+              href="https://trip.tpo.lv/TmObooZ5"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center bg-blue-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+            >
+              🏨 Book Hotels
+            </a>
+            <a
+              href="https://12go.tpo.lv/tNA80urD"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center bg-green-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-green-700 transition-colors"
+            >
+              🚌 Book Transport
+            </a>
+          </div>
+          <p className="text-xs text-gray-500 text-center mt-3">
+            Affiliate links. We may earn a small commission at no extra cost to you.
+          </p>
+        </section>
       </main>
     </div>
   );

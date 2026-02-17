@@ -658,8 +658,73 @@ export default function RegionPage({ region, cities }: RegionPageProps) {
           </div>
         </section>
 
-        {/* Quick Links */}
+        {/* Plan Your Trip */}
         <section className="bg-white py-12">
+          <div className="container-custom">
+            <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+              Plan Your Trip to {region.name.en}
+            </h2>
+            <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
+              Find the best deals on hotels, transport, and activities for your {region.name.en} adventure.
+            </p>
+
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-6">
+              {/* Hotels */}
+              <div className="bg-gradient-to-br from-blue-50 to-indigo-50 border border-blue-200 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
+                <div className="w-14 h-14 bg-blue-500 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <svg className="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                  </svg>
+                </div>
+                <h3 className="text-xl font-semibold text-gray-900 mb-2">Hotels & Accommodation</h3>
+                <p className="text-gray-600 text-sm mb-4">Compare prices on top booking platforms for {region.name.en}.</p>
+                <div className="space-y-2">
+                  <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="block bg-blue-600 text-white py-2 px-4 rounded-lg font-medium hover:bg-blue-700 transition-colors text-sm">
+                    Search on Trip.com
+                  </a>
+                  <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer" className="block bg-indigo-600 text-white py-2 px-4 rounded-lg font-medium hover:bg-indigo-700 transition-colors text-sm">
+                    Search on Booking.com
+                  </a>
+                </div>
+              </div>
+
+              {/* Transport */}
+              <div className="bg-gradient-to-br from-green-50 to-emerald-50 border border-green-200 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
+                <div className="w-14 h-14 bg-green-500 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <svg className="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                  </svg>
+                </div>
+                <h3 className="text-xl font-semibold text-gray-900 mb-2">Transport & Transfers</h3>
+                <p className="text-gray-600 text-sm mb-4">Book buses, trains, ferries, and flights across {region.name.en}.</p>
+                <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer" className="block bg-green-600 text-white py-2 px-4 rounded-lg font-medium hover:bg-green-700 transition-colors text-sm">
+                  Book on 12Go Asia
+                </a>
+              </div>
+
+              {/* Activities */}
+              <div className="bg-gradient-to-br from-orange-50 to-amber-50 border border-orange-200 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
+                <div className="w-14 h-14 bg-orange-500 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <svg className="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
+                  </svg>
+                </div>
+                <h3 className="text-xl font-semibold text-gray-900 mb-2">Tours & Activities</h3>
+                <p className="text-gray-600 text-sm mb-4">Discover the best things to do in {region.name.en}.</p>
+                <Link href="/activities/" className="block bg-orange-600 text-white py-2 px-4 rounded-lg font-medium hover:bg-orange-700 transition-colors text-sm">
+                  Browse Activities
+                </Link>
+              </div>
+            </div>
+
+            <p className="text-xs text-gray-500 text-center">
+              This section contains affiliate links. We may earn a small commission at no extra cost to you.
+            </p>
+          </div>
+        </section>
+
+        {/* Quick Links */}
+        <section className="bg-gray-50 py-12">
           <div className="container-custom">
             <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
               Explore More

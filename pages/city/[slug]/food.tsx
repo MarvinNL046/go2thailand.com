@@ -315,6 +315,49 @@ export default function CityFoodPage({ city, cityFoodData }: CityFoodPageProps) 
               </Link>
             </div>
 
+            {/* Book a Thai Cooking Class - Affiliate Section */}
+            <div className="bg-white rounded-lg shadow-lg p-8 mt-12">
+              <h3 className="text-2xl font-bold text-gray-900 mb-4 text-center">
+                Book a Thai Cooking Class in {city.name.en}
+              </h3>
+              <p className="text-gray-600 text-center mb-8">
+                Learn to cook authentic Thai dishes with local chefs and take the flavors home with you.
+              </p>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div className="border border-gray-200 rounded-lg p-6 text-center">
+                  <h4 className="text-lg font-bold text-gray-900 mb-2">Klook</h4>
+                  <p className="text-gray-600 text-sm mb-4">
+                    Cooking classes and food tours
+                  </p>
+                  <a
+                    href="https://klook.tpo.lv/aq6ZFxvc"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center justify-center w-full px-6 py-3 bg-orange-500 text-white font-semibold rounded-lg hover:bg-orange-600 transition-colors"
+                  >
+                    Browse on Klook
+                  </a>
+                </div>
+                <div className="border border-gray-200 rounded-lg p-6 text-center">
+                  <h4 className="text-lg font-bold text-gray-900 mb-2">GetYourGuide</h4>
+                  <p className="text-gray-600 text-sm mb-4">
+                    Food walking tours
+                  </p>
+                  <a
+                    href="https://getyourguide.tpo.lv/GuAFfGGK"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center justify-center w-full px-6 py-3 bg-blue-700 text-white font-semibold rounded-lg hover:bg-blue-800 transition-colors"
+                  >
+                    Browse on GetYourGuide
+                  </a>
+                </div>
+              </div>
+              <p className="text-xs text-gray-400 text-center mt-4">
+                We may earn a commission when you book through our links, at no extra cost to you. This helps us keep the site running.
+              </p>
+            </div>
+
             {/* Explore More Section */}
             <div className="mt-12">
               <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">
