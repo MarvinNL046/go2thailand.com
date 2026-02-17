@@ -278,7 +278,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
     params: { slug }
   }));
   
-  return { paths, fallback: false };
+  return { paths, fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps<CityWeatherIndexProps> = async ({ params }) => {

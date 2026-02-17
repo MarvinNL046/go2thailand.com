@@ -267,7 +267,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels }: City
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const paths = getCityStaticPaths();
-  return { paths, fallback: false };
+  return { paths, fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
@@ -282,5 +282,5 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const top10HotelsPath = path.join(process.cwd(), 'data', 'top10', `${slug}-hotels.json`);
   const hasTop10Hotels = fs.existsSync(top10HotelsPath);
   
-  return { props: { city, hotelData, hasTop10Hotels } };
+  return { props: { city, hotelData, hasTop10Hotels }, revalidate: 86400 };
 };

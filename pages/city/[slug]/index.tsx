@@ -232,6 +232,33 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
         <meta property="og:description" content={metadata.openGraph?.description || metadata.description} />
         <meta property="og:image" content={metadata.openGraph?.images?.[0]?.url || getCityImageForSection(city, 'hero')} />
         <meta property="og:type" content={metadata.openGraph?.type || 'website'} />
+        <meta name="twitter:title" content={metadata.title} />
+        <meta name="twitter:description" content={metadata.description} />
+        <meta name="twitter:image" content={metadata.openGraph?.images?.[0]?.url || getCityImageForSection(city, 'hero')} />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": ["Place", "TouristDestination"],
+              "name": city.name.en,
+              "description": city.enhanced_description?.substring(0, 300) || city.description.en,
+              "image": city.image?.startsWith('http') ? city.image : `https://go2-thailand.com${city.image}`,
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": city.location.lat,
+                "longitude": city.location.lng
+              },
+              "containedInPlace": {
+                "@type": "Country",
+                "name": "Thailand"
+              },
+              ...(city.population && { "population": city.population }),
+              "touristType": city.tags || [],
+              "url": `https://go2-thailand.com/city/${city.slug}`
+            })
+          }}
+        />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">
@@ -1407,7 +1434,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   
   return {
     paths,
-    fallback: false,
+    fallback: 'blocking',
   };
 };
 
@@ -1428,5 +1455,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       city,
       relatedCities,
     },
+    revalidate: 86400,
   };
 };

@@ -86,6 +86,46 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
         <meta property="og:title" content={metadata.openGraph?.title || metadata.title} />
         <meta property="og:description" content={metadata.openGraph?.description || metadata.description} />
         <meta property="og:image" content={attraction.image} />
+        <meta name="twitter:title" content={metadata.title} />
+        <meta name="twitter:description" content={metadata.description} />
+        <meta name="twitter:image" content={attraction.image} />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "TouristAttraction",
+              "name": attraction.name.en,
+              "description": attraction.enhanced_description || attraction.description.en,
+              "image": attraction.image?.startsWith('http') ? attraction.image : `https://go2-thailand.com${attraction.image}`,
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": attraction.address,
+                "addressCountry": "TH"
+              },
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": attraction.location.lat,
+                "longitude": attraction.location.lng
+              },
+              ...(attraction.opening_hours && { "openingHours": attraction.opening_hours }),
+              ...(attraction.entrance_fee.thb > 0 && {
+                "isAccessibleForFree": false,
+                "offers": {
+                  "@type": "Offer",
+                  "price": attraction.entrance_fee.thb,
+                  "priceCurrency": "THB"
+                }
+              }),
+              ...(attraction.entrance_fee.thb === 0 && { "isAccessibleForFree": true }),
+              "containedInPlace": {
+                "@type": "City",
+                "name": city.name.en
+              },
+              "url": `https://go2-thailand.com/city/${city.slug}/attractions/${attraction.slug}`
+            })
+          }}
+        />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">
@@ -504,7 +544,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   
   return {
     paths,
-    fallback: false,
+    fallback: 'blocking',
   };
 };
 
@@ -526,5 +566,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       city,
       attraction,
     },
+    revalidate: 86400,
   };
 };

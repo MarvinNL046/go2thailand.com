@@ -364,7 +364,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const paths = getCityStaticPaths();
-  return { paths, fallback: false };
+  return { paths, fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {

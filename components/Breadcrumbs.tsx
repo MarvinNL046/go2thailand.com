@@ -11,7 +11,23 @@ interface BreadcrumbsProps {
 
 const Breadcrumbs: React.FC<BreadcrumbsProps> = ({ items }) => {
   return (
-    <nav className="flex mb-6" aria-label="Breadcrumb">
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": items.map((item, i) => ({
+              "@type": "ListItem",
+              "position": i + 1,
+              "name": item.name,
+              "item": `https://go2-thailand.com${item.href}`
+            }))
+          })
+        }}
+      />
+      <nav className="flex mb-6" aria-label="Breadcrumb">
       <ol className="inline-flex items-center space-x-1 md:space-x-3">
         {items.map((item, index) => (
           <li key={index} className="inline-flex items-center">
@@ -45,6 +61,7 @@ const Breadcrumbs: React.FC<BreadcrumbsProps> = ({ items }) => {
         ))}
       </ol>
     </nav>
+    </>
   );
 };
 

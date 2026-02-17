@@ -397,7 +397,7 @@ export default function CityFoodPage({ city, cityFoodData }: CityFoodPageProps) 
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const paths = getCityStaticPaths();
-  return { paths, fallback: false };
+  return { paths, fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
@@ -408,5 +408,5 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   // Get city-specific food data
   const cityFoodData = (foodSpecialtiesData as Record<string, CityFoodData>)[slug] || null;
   
-  return { props: { city, cityFoodData } };
+  return { props: { city, cityFoodData }, revalidate: 86400 };
 };

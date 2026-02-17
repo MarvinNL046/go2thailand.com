@@ -53,6 +53,9 @@ export default function Hreflang() {
             : `${SITE_URL}/${currentLocale}${cleanPath}`
         }
       />
+      {/* Twitter Card */}
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:site" content="@go2thailand" />
     </Head>
   );
 }

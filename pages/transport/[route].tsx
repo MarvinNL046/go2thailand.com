@@ -50,12 +50,60 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
     { name: `${fromCity.name.en} to ${toCity.name.en}`, href: `/transport/${route.slug}` }
   ];
 
+  const faqs = [
+    {
+      question: `How do I get from ${fromCity.name.en} to ${toCity.name.en}?`,
+      answer: `You can travel from ${fromCity.name.en} to ${toCity.name.en} by ${transportOptions.map(o => o.method.toLowerCase()).join(', ')}. The distance is ${route.distance}.`
+    },
+    {
+      question: `How long does it take from ${fromCity.name.en} to ${toCity.name.en}?`,
+      answer: `Travel times vary: ${transportOptions.map(o => `${o.method}: ${o.duration}`).join(', ')}.`
+    },
+    {
+      question: `What is the cheapest way from ${fromCity.name.en} to ${toCity.name.en}?`,
+      answer: `The most budget-friendly option is ${transportOptions.reduce((cheapest, o) => {
+        const price = parseInt(o.price.replace(/[^0-9]/g, ''));
+        const cheapestPrice = parseInt(cheapest.price.replace(/[^0-9]/g, ''));
+        return price < cheapestPrice ? o : cheapest;
+      }).method.toLowerCase()} at ${transportOptions.reduce((cheapest, o) => {
+        const price = parseInt(o.price.replace(/[^0-9]/g, ''));
+        const cheapestPrice = parseInt(cheapest.price.replace(/[^0-9]/g, ''));
+        return price < cheapestPrice ? o : cheapest;
+      }).price}.`
+    },
+    {
+      question: `Can I fly from ${fromCity.name.en} to ${toCity.name.en}?`,
+      answer: route.duration.flight
+        ? `Yes, flights take approximately ${route.duration.flight} and are the fastest option.`
+        : `There are no direct flights. The best alternatives are ${transportOptions.map(o => o.method.toLowerCase()).join(' or ')}.`
+    }
+  ];
+
   return (
     <div className="min-h-screen bg-gray-50">
       <Head>
-        <title>{`${fromCity.name.en} to ${toCity.name.en} - Travel Options & Transport Guide | Go2 Thailand`}</title>
-        <meta name="description" content={`Complete guide for traveling from ${fromCity.name.en} to ${toCity.name.en}. Compare flights, buses, trains, and taxis. Distance: ${route.distance}. Get prices, duration, and booking tips.`} />
+        <title>{`${fromCity.name.en} to ${toCity.name.en}: Cheapest Routes & Prices (2026)`}</title>
+        <meta name="description" content={`✈️ Compare ${transportOptions.length} ways from ${fromCity.name.en} to ${toCity.name.en}. 🚌 Buses, 🚂 trains & flights. Prices from ${transportOptions.reduce((min, o) => { const p = parseInt(o.price.replace(/[^0-9]/g, '')); return p < min ? p : min; }, 99999).toLocaleString()} THB. Book online!`} />
         <meta name="keywords" content={`${fromCity.name.en} to ${toCity.name.en}, transport ${fromCity.name.en} ${toCity.name.en}, how to get from ${fromCity.name.en} to ${toCity.name.en}, ${fromCity.name.en} ${toCity.name.en} bus, ${fromCity.name.en} ${toCity.name.en} flight`} />
+        <meta name="twitter:title" content={`${fromCity.name.en} to ${toCity.name.en}: Cheapest Routes & Prices (2026)`} />
+        <meta name="twitter:description" content={`Compare ${transportOptions.length} ways from ${fromCity.name.en} to ${toCity.name.en}. Buses, trains & flights with prices.`} />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              "mainEntity": faqs.map(faq => ({
+                "@type": "Question",
+                "name": faq.question,
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": faq.answer
+                }
+              }))
+            })
+          }}
+        />
       </Head>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -187,6 +235,19 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                     purchased 1-2 days ahead, except during Thai holidays when advance booking is essential.
                   </p>
                 </div>
+              </div>
+            </section>
+
+            {/* FAQ Section */}
+            <section className="bg-white rounded-lg shadow-md p-6 mb-8">
+              <h2 className="text-2xl font-bold mb-6">Frequently Asked Questions</h2>
+              <div className="space-y-6">
+                {faqs.map((faq, index) => (
+                  <div key={index} className="border-b border-gray-100 pb-4 last:border-0">
+                    <h3 className="font-semibold text-gray-900 mb-2">{faq.question}</h3>
+                    <p className="text-gray-700">{faq.answer}</p>
+                  </div>
+                ))}
               </div>
             </section>
 
@@ -524,7 +585,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
     params: { route: route.slug }
   }));
   
-  return { paths, fallback: false };
+  return { paths, fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps<RoutePageProps> = async ({ params }) => {

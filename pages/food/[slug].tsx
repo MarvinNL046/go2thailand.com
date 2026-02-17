@@ -95,6 +95,38 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
         <title>{metadata.title}</title>
         <meta name="description" content={metadata.description} />
         <meta name="keywords" content={metadata.keywords} />
+        <meta name="twitter:title" content={metadata.title} />
+        <meta name="twitter:description" content={metadata.description} />
+        <meta name="twitter:image" content={dish.image?.startsWith('http') ? dish.image : `https://go2-thailand.com${dish.image}`} />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Recipe",
+              "name": dish.name.en,
+              "description": dish.enhanced_description || dish.description.en,
+              "recipeCuisine": "Thai",
+              "recipeCategory": dish.category.replace('-', ' '),
+              "image": dish.image.startsWith('http') ? dish.image : `https://go2-thailand.com${dish.image}`,
+              ...(dish.preparation_time && { "prepTime": `PT${dish.preparation_time.replace(/[^0-9]/g, '')}M` }),
+              ...(dish.ingredients && { "recipeIngredient": dish.ingredients }),
+              ...(dish.cooking_method && {
+                "recipeInstructions": [{
+                  "@type": "HowToStep",
+                  "text": dish.cooking_method.steps_overview
+                }]
+              }),
+              ...(dish.nutritional_info?.calories_per_serving && {
+                "nutrition": {
+                  "@type": "NutritionInformation",
+                  "calories": dish.nutritional_info.calories_per_serving
+                }
+              }),
+              "keywords": `${dish.name.en}, ${dish.name.thai}, Thai food, ${dish.category}`
+            })
+          }}
+        />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">
@@ -490,7 +522,7 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const paths = getDishStaticPaths();
-  return { paths, fallback: false };
+  return { paths, fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
@@ -500,10 +532,11 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   
   const relatedDishes = getRelatedDishes(dish, 4);
   
-  return { 
-    props: { 
+  return {
+    props: {
       dish,
       relatedDishes
-    } 
+    },
+    revalidate: 86400
   };
 };

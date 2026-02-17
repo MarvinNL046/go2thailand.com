@@ -805,7 +805,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
   return {
     paths,
-    fallback: false,
+    fallback: 'blocking',
   };
 };
 
@@ -853,5 +853,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       region,
       cities,
     },
+    revalidate: 86400,
   };
 };

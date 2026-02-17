@@ -85,13 +85,32 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         <meta property="og:description" content={t('meta.mainDescription')} />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://go2-thailand.com/" />
-        
+        <meta name="twitter:title" content={t('meta.mainTitle')} />
+        <meta name="twitter:description" content={t('meta.mainDescription')} />
+
         {/* Preload the first hero image for better LCP */}
         <link
           rel="preload"
           as="image"
           href="/images/homepageHero/business-district-bangkok.webp"
           type="image/webp"
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              "name": "Go2 Thailand",
+              "url": "https://go2-thailand.com",
+              "description": "Your complete Thailand travel guide with city guides, food, transport, and booking.",
+              "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://go2-thailand.com/search?q={search_term_string}",
+                "query-input": "required name=search_term_string"
+              }
+            })
+          }}
         />
       </Head>
 
