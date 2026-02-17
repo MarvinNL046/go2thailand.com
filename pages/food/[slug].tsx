@@ -57,6 +57,12 @@ interface EnhancedDish {
       upscale: string;
     };
   };
+  cooking?: {
+    preparation_time: string;
+    difficulty: string;
+    spice_level: string;
+    serves: string;
+  };
   ai_generated?: boolean;
 }
 
@@ -106,21 +112,37 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
               "@type": "Recipe",
               "name": dish.name.en,
               "description": dish.enhanced_description || dish.description.en,
+              "author": {
+                "@type": "Organization",
+                "name": "Go2Thailand.com",
+                "url": "https://go2-thailand.com"
+              },
               "recipeCuisine": "Thai",
               "recipeCategory": dish.category.replace('-', ' '),
               "image": dish.image.startsWith('http') ? dish.image : `https://go2-thailand.com${dish.image}`,
+              "recipeYield": dish.cooking?.serves || "2-4 servings",
               ...(dish.preparation_time && { "prepTime": `PT${dish.preparation_time.replace(/[^0-9]/g, '')}M` }),
+              ...(dish.preparation_time && { "cookTime": `PT${Math.max(parseInt(dish.preparation_time.replace(/[^0-9]/g, '')) * 2, 20)}M` }),
               ...(dish.ingredients && { "recipeIngredient": dish.ingredients }),
               ...(dish.cooking_method && {
-                "recipeInstructions": [{
-                  "@type": "HowToStep",
-                  "text": dish.cooking_method.steps_overview
-                }]
+                "recipeInstructions": [
+                  ...(dish.cooking_method.cooking_tips || []).map((tip: string, i: number) => ({
+                    "@type": "HowToStep",
+                    "name": `Step ${i + 1}`,
+                    "text": tip
+                  })),
+                  ...(dish.cooking_method.cooking_tips?.length ? [] : [{
+                    "@type": "HowToStep",
+                    "name": "Preparation",
+                    "text": dish.cooking_method.steps_overview
+                  }])
+                ]
               }),
-              ...(dish.nutritional_info?.calories_per_serving && {
+              ...(dish.nutritional_info?.calories_per_serving &&
+                /\d/.test(dish.nutritional_info.calories_per_serving) && {
                 "nutrition": {
                   "@type": "NutritionInformation",
-                  "calories": dish.nutritional_info.calories_per_serving
+                  "calories": dish.nutritional_info.calories_per_serving.replace(/[^0-9]/g, '') + " calories"
                 }
               }),
               "keywords": `${dish.name.en}, ${dish.name.thai}, Thai food, ${dish.category}`
