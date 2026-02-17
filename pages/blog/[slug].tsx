@@ -5,13 +5,22 @@ import Image from 'next/image';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
+import AuthorBio from '../../components/blog/AuthorBio';
+import Sources from '../../components/blog/Sources';
+import LastUpdated from '../../components/blog/LastUpdated';
 import { getAllPosts, getPostBySlug, getRelatedPosts } from '../../lib/blog';
+
+interface Source {
+  name: string;
+  url: string;
+}
 
 interface BlogPost {
   slug: string;
   title: string;
   description: string;
   date: string;
+  lastUpdated?: string;
   author: { name: string };
   category: string;
   tags: string[];
@@ -19,6 +28,7 @@ interface BlogPost {
   featured?: boolean;
   readingTime: number;
   contentHtml?: string;
+  sources?: Source[];
 }
 
 interface BlogPostPageProps {
@@ -42,6 +52,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
     "description": post.description,
     "image": `https://go2-thailand.com${post.image}`,
     "datePublished": post.date,
+    "dateModified": post.lastUpdated || post.date,
     "author": {
       "@type": "Person",
       "name": post.author.name
@@ -49,7 +60,11 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
     "publisher": {
       "@type": "Organization",
       "name": "Go2Thailand",
-      "url": "https://go2-thailand.com"
+      "url": "https://go2-thailand.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://go2-thailand.com/logo/go2thailand-logo.webp"
+      }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
@@ -128,10 +143,13 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
           </div>
         </section>
 
-        {/* Breadcrumbs */}
+        {/* Breadcrumbs + Last Updated */}
         <section className="bg-white border-b">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-            <Breadcrumbs items={breadcrumbs} />
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
+              <Breadcrumbs items={breadcrumbs} />
+              <LastUpdated date={post.lastUpdated || post.date} locale={locale} />
+            </div>
           </div>
         </section>
 
@@ -151,22 +169,13 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                     <p className="text-gray-700">{post.description}</p>
                   )}
 
+                  {/* Sources */}
+                  {post.sources && post.sources.length > 0 && (
+                    <Sources sources={post.sources} locale={locale} />
+                  )}
+
                   {/* Author Bio */}
-                  <div className="mt-12 pt-8 border-t">
-                    <div className="flex items-start gap-4">
-                      <div className="w-16 h-16 bg-gray-200 rounded-full flex items-center justify-center">
-                        <span className="text-2xl font-bold text-gray-600">
-                          {post.author.name.charAt(0)}
-                        </span>
-                      </div>
-                      <div>
-                        <h3 className="font-bold text-lg">{post.author.name}</h3>
-                        <p className="text-gray-600 mt-1">
-                          Sharing travel insights and tips for exploring the Land of Smiles.
-                        </p>
-                      </div>
-                    </div>
-                  </div>
+                  <AuthorBio name={post.author.name} locale={locale} />
 
                   {/* Tags */}
                   <div className="mt-8 pt-8 border-t">
