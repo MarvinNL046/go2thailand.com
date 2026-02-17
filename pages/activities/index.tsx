@@ -6,7 +6,7 @@ import AffiliateWidget from '../../components/AffiliateWidget';
 
 const KLOOK_WIDGET = '<script async src="https://tpembd.com/content?currency=USD&trs=421888&shmarker=602467&locale=en&category=4&amount=3&powered_by=true&campaign_id=137&promo_id=4497" charset="utf-8"></script>';
 const GYG_POPULAR_TOURS = '<script async src="https://tpembd.com/content?trs=421888&shmarker=602467&place=Thailand&items=3&locale=en&powered_by=true&campaign_id=108&promo_id=4039" charset="utf-8"></script>';
-const GYG_CITY_WIDGET = '<script async src="https://tpembd.com/content?trs=421888&shmarker=602467&locale=en-US&powered_by=true&campaign_id=108&promo_id=4040" charset="utf-8"></script>';
+const GYG_CITY_WIDGET = '<script async src="https://tpembd.com/content?trs=421888&shmarker=602467&locale=en-US&place=Bangkok&powered_by=true&campaign_id=108&promo_id=4040" charset="utf-8"></script>';
 
 const activities = [
   {
