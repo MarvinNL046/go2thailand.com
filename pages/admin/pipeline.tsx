@@ -151,7 +151,7 @@ function Dashboard({ pipelineKey, onLogout }: { pipelineKey: string; onLogout: (
 
   // --- Generate state ---
   const [topic, setTopic] = useState("");
-  const [model, setModel] = useState<"claude-haiku" | "gpt-4o-mini">("claude-haiku");
+  const [model, setModel] = useState<"claude-haiku" | "gpt-4o-mini" | "gpt-5-nano">("gpt-4o-mini");
   const [generating, setGenerating] = useState(false);
   const [generateResult, setGenerateResult] = useState<GenerateResult | null>(null);
   const [generateError, setGenerateError] = useState("");
@@ -416,12 +416,13 @@ function Dashboard({ pipelineKey, onLogout }: { pipelineKey: string; onLogout: (
                 <label className="block text-sm font-medium text-gray-700 mb-1">Model</label>
                 <select
                   value={model}
-                  onChange={(e) => setModel(e.target.value as "claude-haiku" | "gpt-4o-mini")}
+                  onChange={(e) => setModel(e.target.value as "claude-haiku" | "gpt-4o-mini" | "gpt-5-nano")}
                   disabled={generating}
                   className="w-full border border-gray-300 rounded-md px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 disabled:bg-gray-100"
                 >
-                  <option value="claude-haiku">claude-haiku</option>
                   <option value="gpt-4o-mini">gpt-4o-mini</option>
+                  <option value="gpt-5-nano">gpt-5-nano</option>
+                  <option value="claude-haiku">claude-haiku (needs Anthropic key)</option>
                 </select>
               </div>
             </div>

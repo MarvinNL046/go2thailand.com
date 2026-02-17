@@ -1,4 +1,4 @@
-export type AiModel = "claude-sonnet" | "claude-haiku" | "gpt-4o" | "gpt-4o-mini";
+export type AiModel = "claude-sonnet" | "claude-haiku" | "gpt-4o" | "gpt-4o-mini" | "gpt-5-nano";
 
 interface GenerateOptions {
   model?: AiModel;
@@ -37,8 +37,10 @@ export async function generateContent(
     try {
       if (model === "claude-sonnet" || model === "claude-haiku") {
         return await callClaude(prompt, model, maxTokens, temperature);
-      } else {
+      } else if (model === "gpt-4o" || model === "gpt-4o-mini" || model === "gpt-5-nano") {
         return await callOpenAI(prompt, model, maxTokens, temperature);
+      } else {
+        throw new Error(`Unknown model: ${model}`);
       }
     } catch (error) {
       lastError = error instanceof Error ? error : new Error(String(error));
@@ -107,14 +109,19 @@ async function callClaude(
 // OpenAI API — raw fetch, no SDK required
 async function callOpenAI(
   prompt: string,
-  model: "gpt-4o" | "gpt-4o-mini",
+  model: "gpt-4o" | "gpt-4o-mini" | "gpt-5-nano",
   maxTokens: number,
   temperature: number
 ): Promise<string> {
   const apiKey = process.env.OPENAI_API_KEY;
   if (!apiKey) throw new Error("OPENAI_API_KEY is not configured");
 
-  const modelId = model === "gpt-4o-mini" ? "gpt-4o-mini" : "gpt-4o";
+  const MODEL_MAP: Record<string, string> = {
+    "gpt-4o": "gpt-4o",
+    "gpt-4o-mini": "gpt-4o-mini",
+    "gpt-5-nano": "gpt-5-nano",
+  };
+  const modelId = MODEL_MAP[model] || "gpt-4o";
 
   const response = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
