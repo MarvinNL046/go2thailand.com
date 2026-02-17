@@ -3,8 +3,11 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { GetStaticProps } from 'next';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import AffiliateWidget from '../../components/AffiliateWidget';
 import transportRoutes from '../../data/transport-routes.json';
 import citiesData from '../../data/cities/index.json';
+
+const TWELVEGO_SEARCH_WIDGET = '<script async src="https://tpembd.com/content?trs=421888&shmarker=602467&locale=en&from=Bangkok&to=Phuket&from_en=Bangkok&to_en=Phuket&powered_by=true&color=black&border=1&campaign_id=44&promo_id=1506" charset="utf-8"></script>';
 
 interface Route {
   slug: string;
@@ -102,6 +105,14 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
         <p className="text-xl text-gray-600 mb-8">
           Find the best way to travel between Thai cities. Compare flights, buses, trains, and ferries.
         </p>
+
+        {/* 12Go Search Widget */}
+        <section className="bg-white rounded-lg shadow-md p-6 mb-8">
+          <h2 className="text-2xl font-bold mb-4">🚌 Book Buses, Trains & Ferries</h2>
+          <p className="text-gray-600 mb-4">Search and book transport across Thailand with 12Go — compare operators, prices, and schedules.</p>
+          <AffiliateWidget scriptContent={TWELVEGO_SEARCH_WIDGET} minHeight="300px" />
+          <p className="text-xs text-gray-500 mt-2 text-center">Powered by 12Go — we earn a commission at no extra cost to you</p>
+        </section>
 
         {/* Route Finder */}
         <section className="bg-white rounded-lg shadow-md p-6 mb-8">

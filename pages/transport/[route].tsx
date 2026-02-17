@@ -4,6 +4,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
+import AffiliateWidget from '../../components/AffiliateWidget';
 import transportRoutes from '../../data/transport-routes.json';
 import citiesData from '../../data/cities/index.json';
 
@@ -213,6 +214,15 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
 
           {/* Sidebar */}
           <aside className="space-y-6">
+            {/* 12Go Search Widget */}
+            <div className="bg-white rounded-lg shadow-md p-6">
+              <h3 className="text-lg font-semibold mb-3">🔍 Search Transport</h3>
+              <AffiliateWidget
+                scriptContent={`<script async src="https://tpembd.com/content?trs=421888&shmarker=602467&locale=en&from=${encodeURIComponent(fromCity.name.en)}&to=${encodeURIComponent(toCity.name.en)}&from_en=${encodeURIComponent(fromCity.name.en)}&to_en=${encodeURIComponent(toCity.name.en)}&powered_by=true&color=black&border=1&campaign_id=44&promo_id=1506" charset="utf-8"></script>`}
+                minHeight="250px"
+              />
+            </div>
+
             {/* 12Go Booking */}
             <div className="bg-gradient-to-br from-green-50 to-teal-50 rounded-lg shadow-md p-6 border border-green-200">
               <h3 className="text-lg font-semibold mb-3">🚌 Book Transport</h3>

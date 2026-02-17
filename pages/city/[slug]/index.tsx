@@ -13,6 +13,7 @@ import { useTranslatedContent } from '../../../hooks/useTranslatedContent';
 import { useRouter } from 'next/router';
 import { formatNumber, formatPopulation } from '../../../utils/formatNumber';
 import DebugContent from '../../../components/DebugContent';
+import AffiliateWidget from '../../../components/AffiliateWidget';
 
 interface City {
   id: number;
@@ -699,6 +700,32 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                     <p className="text-xs text-gray-500">
                       💡 Book with confidence - 24/7 customer support & best price guarantee
                     </p>
+                  </div>
+                </div>
+
+                {/* 12Go Transport Widget */}
+                <div className="mb-12">
+                  <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                    🚌 Book Transport from {cityName}
+                  </h2>
+                  <div className="bg-white rounded-lg shadow-md p-6 border border-green-200">
+                    <AffiliateWidget
+                      scriptContent={`<script async src="https://tpembd.com/content?currency=USD&trs=421888&shmarker=602467&powered_by=true&dafault_width=true&locale=en&header_color=%234b4b4b&text_color=%234b4b4b&background_color=%23ffffff&price_color=%234db84d&promo_id=8995&campaign_id=44" charset="utf-8"></script>`}
+                      minHeight="300px"
+                    />
+                    <div className="mt-4 text-center">
+                      <a
+                        href="https://12go.tpo.lv/tNA80urD"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-block bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors"
+                      >
+                        View All Routes on 12Go →
+                      </a>
+                      <p className="text-xs text-gray-500 mt-2">
+                        Buses, trains, ferries & transfers — powered by 12Go
+                      </p>
+                    </div>
                   </div>
                 </div>
 
