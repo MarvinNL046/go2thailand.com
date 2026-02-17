@@ -167,7 +167,7 @@ export async function selectTopic(
 export async function generateBlogPost(
   options: BlogPostOptions = {}
 ): Promise<GeneratedPost> {
-  const model = options.model || "claude-sonnet";
+  const model = options.model || "gpt-5-nano";
   const doScrape = options.scrapeContext !== false;
   const doImage = options.generateImage !== false;
 
@@ -206,7 +206,7 @@ export async function generateBlogPost(
   const rawResponse = await generateContent(prompt, {
     model,
     maxTokens: 16384,
-    temperature: 0.7,
+    temperature: 0.5, // Lower temp = more factual, less hallucination
   });
 
   // 5. Parse the generated Markdown + frontmatter
@@ -241,7 +241,7 @@ export async function generateBlogPost(
 export async function translatePost(
   post: GeneratedPost,
   targetLocale: TranslationLocale,
-  model: AiModel = "claude-haiku"
+  model: AiModel = "gpt-5-nano"
 ): Promise<TranslatedPost> {
   const localeNames: Record<TranslationLocale, string> = {
     nl: "Dutch",
@@ -286,7 +286,7 @@ ${post.content}`;
 // Translate a post to ALL 7 non-English locales
 export async function translatePostToAllLocales(
   post: GeneratedPost,
-  model: AiModel = "claude-haiku"
+  model: AiModel = "gpt-5-nano"
 ): Promise<TranslatedPost[]> {
   const results: TranslatedPost[] = [];
 
@@ -448,7 +448,11 @@ function buildPrompt(
   };
 
   const contextSection = scrapeData
-    ? `\nREFERENCE DATA (use for accuracy and cite real numbers — do NOT fabricate statistics):\n${scrapeData.slice(0, 4000)}\n`
+    ? `\nREFERENCE DATA — THIS IS YOUR PRIMARY SOURCE OF TRUTH:
+Use ONLY the facts, prices, statistics, and details from the data below. If a fact is NOT in this reference data, do NOT include it — leave it out rather than guess.
+Every price, statistic, and specific claim MUST come from this data or a cited external source. When in doubt, say "prices vary" rather than inventing a number.
+
+${scrapeData.slice(0, 6000)}\n`
     : "";
 
   return `You are a senior Thailand travel writer for go2-thailand.com, a comprehensive Thailand travel resource.
@@ -580,6 +584,20 @@ E-E-A-T SIGNALS (critical for Google trust):
 
 EXTERNAL LINKING:
 Include 3-5 credible external links (TAT, Lonely Planet, bangkokpost.com, tourismthailand.org, official venue websites).
+
+---
+
+ANTI-HALLUCINATION RULES (CRITICAL — FOLLOW EXACTLY):
+1. NEVER invent prices, statistics, percentages, or specific numbers. Use ONLY data from the REFERENCE DATA section below or well-known public facts.
+2. If you don't have a specific price from the reference data, write "prices vary" or "check the latest prices" with a link. Do NOT guess.
+3. NEVER fabricate quotes, testimonials, or specific venue details you're unsure about.
+4. Specific venue names, addresses, and operating hours MUST come from the reference data. If unsure, describe the area/neighborhood instead of naming a specific place.
+5. For historical facts and cultural context, use only widely known, verifiable information.
+6. If the reference data contradicts common assumptions, ALWAYS prefer the reference data.
+7. Every "Did You Know" callout MUST have a real, verifiable source link — not a made-up one.
+8. Be honest: "Based on our research..." is better than fabricating a firsthand experience you don't have data for.
+
+---
 
 TARGET LENGTH: 1800-2500 words of body content (excluding frontmatter).
 TONE: Knowledgeable, warm, practical — like advice from a well-traveled friend who knows Thailand deeply.

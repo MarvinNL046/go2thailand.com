@@ -2,6 +2,9 @@ const JINA_API_KEY = process.env.JINA_API_KEY;
 const JINA_READER_URL = "https://r.jina.ai";
 const JINA_SEARCH_URL = "https://s.jina.ai";
 
+const BRIGHT_DATA_API_KEY = process.env.BRIGHT_DATA_API_KEY;
+const BRIGHT_DATA_ZONE = process.env.BRIGHT_DATA_ZONE || "web_unlocker1";
+
 export interface ScrapedContent {
   url: string;
   content: string;
@@ -27,6 +30,32 @@ const TRAVEL_NEWS_SOURCES = [
 
 // Primary info source — scraped for latest Thailand news
 const THAILAND_BLOG_URL = "https://thailandblog.nl/en/";
+
+// Bright Data fallback — uses Web Unlocker to bypass blocks
+async function scrapeWithBrightData(url: string): Promise<string> {
+  if (!BRIGHT_DATA_API_KEY) {
+    throw new Error("BRIGHT_DATA_API_KEY is not configured");
+  }
+
+  const response = await fetch("https://api.brightdata.com/request", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${BRIGHT_DATA_API_KEY}`,
+    },
+    body: JSON.stringify({
+      zone: BRIGHT_DATA_ZONE,
+      url,
+      format: "raw",
+    }),
+  });
+
+  if (!response.ok) {
+    throw new Error(`Bright Data scrape failed for ${url}: ${response.status} ${response.statusText}`);
+  }
+
+  return response.text();
+}
 
 // Direct fetch fallback — strips HTML tags for plain text extraction
 async function directFetch(url: string): Promise<string> {
@@ -81,12 +110,23 @@ export async function scrapeUrl(url: string): Promise<string> {
         return content;
       }
     }
-    console.warn(`[scraper] Jina failed for ${url}, trying direct fetch...`);
+    console.warn(`[scraper] Jina failed for ${url}, trying Bright Data...`);
   } catch (e) {
     console.warn(`[scraper] Jina error for ${url}:`, e);
   }
 
-  // Fallback: direct fetch
+  // Fallback: Bright Data
+  try {
+    const content = await scrapeWithBrightData(url);
+    if (content && content.length >= 100) {
+      return content;
+    }
+    console.warn(`[scraper] Bright Data returned insufficient content for ${url}, trying direct fetch...`);
+  } catch (e) {
+    console.warn(`[scraper] Bright Data error for ${url}:`, e);
+  }
+
+  // Last resort: direct fetch
   return directFetch(url);
 }
 
@@ -174,33 +214,59 @@ export async function searchTopic(
 }
 
 // Scrape a batch of Thailand travel sources for a specific topic
-// Returns combined content for use as AI context
+// Returns combined content for use as AI context — the more high-quality data, the better
 export async function scrapeTopicContext(topic: string): Promise<string> {
   const year = new Date().getFullYear();
   const parts: string[] = [];
 
-  // Run searches and Thailand blog scrape in parallel
-  const [searchResults, blogContent] = await Promise.allSettled([
+  // Run multiple scrape strategies in parallel for maximum data
+  const [searchResults, detailedSearch, blogContent, newsContent] = await Promise.allSettled([
+    // 1. Primary topic search
     searchTopic(`${topic} Thailand ${year} travel guide`),
+    // 2. More specific search for prices, tips, and practical info
+    searchTopic(`${topic} Thailand prices tips ${year}`),
+    // 3. Thailand Blog as primary editorial source
     scrapeThailandBlog(),
+    // 4. Scrape one relevant travel news source for freshness
+    scrapeTravelNews().then((articles) => articles.slice(0, 3)),
   ]);
 
+  // Primary search results
   if (searchResults.status === "fulfilled" && searchResults.value.length > 0) {
     const searchText = searchResults.value
       .map((r) => `## ${r.title}\n${r.summary}\nSource: ${r.url}`)
       .join("\n\n");
-    parts.push(`SEARCH RESULTS:\n${searchText}`);
+    parts.push(`SEARCH RESULTS (primary):\n${searchText}`);
   } else if (searchResults.status === "rejected") {
-    console.warn("[scraper] Topic search failed:", searchResults.reason);
+    console.warn("[scraper] Primary topic search failed:", searchResults.reason);
   }
 
+  // Detailed/prices search results
+  if (detailedSearch.status === "fulfilled" && detailedSearch.value.length > 0) {
+    const detailedText = detailedSearch.value
+      .map((r) => `## ${r.title}\n${r.summary}\nSource: ${r.url}`)
+      .join("\n\n");
+    parts.push(`SEARCH RESULTS (prices & details):\n${detailedText}`);
+  }
+
+  // Thailand Blog
   if (blogContent.status === "fulfilled") {
     parts.push(
-      `THAILAND BLOG (thailandblog.nl) — Latest news:\n${blogContent.value.content}`
+      `THAILAND BLOG (thailandblog.nl) — Editorial source:\n${blogContent.value.content}`
     );
   } else {
     console.warn("[scraper] Thailand blog scrape failed:", blogContent.reason);
   }
 
-  return parts.join("\n\n---\n\n");
+  // Recent news for freshness
+  if (newsContent.status === "fulfilled" && newsContent.value.length > 0) {
+    const newsText = newsContent.value
+      .map((a) => `- ${a.title} (${a.source}): ${a.summary.slice(0, 300)}`)
+      .join("\n");
+    parts.push(`RECENT THAILAND NEWS:\n${newsText}`);
+  }
+
+  const combined = parts.join("\n\n---\n\n");
+  console.log(`[scraper] Total context gathered: ${combined.length} chars from ${parts.length} sources`);
+  return combined;
 }

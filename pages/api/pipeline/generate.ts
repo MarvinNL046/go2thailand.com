@@ -58,7 +58,7 @@ export default async function handler(
     const contentWithAffiliates = injectAffiliateLinks(post.content, {
       inlineLinks: true,
       ctaBoxes: true,
-      ctaCount: 2,
+      ctaCount: 3,
     });
 
     // Update post content with affiliate links
@@ -89,7 +89,7 @@ export default async function handler(
         const translatedWithAffiliates = injectAffiliateLinks(translation.content, {
           inlineLinks: true,
           ctaBoxes: true,
-          ctaCount: 2,
+          ctaCount: 3,
         });
 
         const localeFilePath = path.join(localeDir, `${post.slug}.md`);

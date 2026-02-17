@@ -3,7 +3,7 @@ import path from "path";
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const GEMINI_IMAGE_URL =
-  "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-preview-image-generation:generateContent";
+  "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-pro-image-preview:generateContent";
 
 // Image output directory relative to project root
 const IMAGE_OUTPUT_DIR = path.join(process.cwd(), "public", "images", "blog");
@@ -52,7 +52,7 @@ export async function generateImage(prompt: string): Promise<GeneratedImage> {
         },
       ],
       generationConfig: {
-        responseModalities: ["IMAGE", "TEXT"],
+        responseModalities: ["IMAGE"],
       },
     }),
   });

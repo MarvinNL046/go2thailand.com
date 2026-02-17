@@ -1,4 +1,4 @@
-export type AiModel = "claude-sonnet" | "claude-haiku" | "gpt-4o" | "gpt-4o-mini" | "gpt-5-nano";
+export type AiModel = "claude-haiku" | "gpt-5-nano";
 
 interface GenerateOptions {
   model?: AiModel;
@@ -21,9 +21,9 @@ export async function generateContent(
   let model = options.model;
   if (!model) {
     if (process.env.ANTHROPIC_API_KEY) {
-      model = "claude-sonnet";
+      model = "claude-haiku";
     } else if (process.env.OPENAI_API_KEY) {
-      model = "gpt-4o";
+      model = "gpt-5-nano";
     } else {
       throw new Error(
         "No AI API key configured. Set ANTHROPIC_API_KEY or OPENAI_API_KEY."
@@ -35,10 +35,10 @@ export async function generateContent(
 
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
-      if (model === "claude-sonnet" || model === "claude-haiku") {
-        return await callClaude(prompt, model, maxTokens, temperature);
-      } else if (model === "gpt-4o" || model === "gpt-4o-mini" || model === "gpt-5-nano") {
-        return await callOpenAI(prompt, model, maxTokens, temperature);
+      if (model === "claude-haiku") {
+        return await callClaude(prompt, maxTokens, temperature);
+      } else if (model === "gpt-5-nano") {
+        return await callOpenAI(prompt, maxTokens, temperature);
       } else {
         throw new Error(`Unknown model: ${model}`);
       }
@@ -63,17 +63,11 @@ export async function generateContent(
 // Claude API (Anthropic) — raw fetch, no SDK required
 async function callClaude(
   prompt: string,
-  model: "claude-sonnet" | "claude-haiku",
   maxTokens: number,
   temperature: number
 ): Promise<string> {
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) throw new Error("ANTHROPIC_API_KEY is not configured");
-
-  const modelId =
-    model === "claude-haiku"
-      ? "claude-haiku-4-5-20251001"
-      : "claude-sonnet-4-5-20251001";
 
   const response = await fetch("https://api.anthropic.com/v1/messages", {
     method: "POST",
@@ -83,7 +77,7 @@ async function callClaude(
       "anthropic-version": "2023-06-01",
     },
     body: JSON.stringify({
-      model: modelId,
+      model: "claude-haiku-4-5-20251001",
       max_tokens: maxTokens,
       temperature,
       messages: [{ role: "user", content: prompt }],
@@ -109,19 +103,11 @@ async function callClaude(
 // OpenAI API — raw fetch, no SDK required
 async function callOpenAI(
   prompt: string,
-  model: "gpt-4o" | "gpt-4o-mini" | "gpt-5-nano",
   maxTokens: number,
   temperature: number
 ): Promise<string> {
   const apiKey = process.env.OPENAI_API_KEY;
   if (!apiKey) throw new Error("OPENAI_API_KEY is not configured");
-
-  const MODEL_MAP: Record<string, string> = {
-    "gpt-4o": "gpt-4o",
-    "gpt-4o-mini": "gpt-4o-mini",
-    "gpt-5-nano": "gpt-5-nano",
-  };
-  const modelId = MODEL_MAP[model] || "gpt-4o";
 
   const response = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
@@ -130,7 +116,7 @@ async function callOpenAI(
       Authorization: `Bearer ${apiKey}`,
     },
     body: JSON.stringify({
-      model: modelId,
+      model: "gpt-5-nano-2025-08-07",
       max_tokens: maxTokens,
       temperature,
       messages: [{ role: "user", content: prompt }],
