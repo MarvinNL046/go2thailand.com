@@ -140,10 +140,18 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                     </ul>
                   </div>
 
-                  <div className="mt-4 bg-gray-50 p-3 rounded-lg">
+                  <div className="mt-4 bg-gray-50 p-3 rounded-lg flex items-center justify-between">
                     <span className="text-sm text-gray-600">
                       <strong>Frequency:</strong> {option.frequency}
                     </span>
+                    <a
+                      href="https://12go.tpo.lv/tNA80urD"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="bg-green-600 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-green-700 transition-colors"
+                    >
+                      Book on 12Go →
+                    </a>
                   </div>
                 </div>
               ))}
@@ -205,6 +213,32 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
 
           {/* Sidebar */}
           <aside className="space-y-6">
+            {/* 12Go Booking */}
+            <div className="bg-gradient-to-br from-green-50 to-teal-50 rounded-lg shadow-md p-6 border border-green-200">
+              <h3 className="text-lg font-semibold mb-3">🚌 Book Transport</h3>
+              <p className="text-sm text-gray-600 mb-4">
+                Book buses, trains, and ferries from {fromCity.name.en} to {toCity.name.en} on 12Go — Thailand&apos;s most popular transport booking platform.
+              </p>
+              <div className="space-y-2 mb-4">
+                {['Instant e-ticket confirmation', 'Compare all operators & prices', 'Free cancellation on most tickets', '24/7 customer support'].map((f, i) => (
+                  <div key={i} className="flex items-center text-xs text-gray-600">
+                    <span className="text-green-500 mr-2">✓</span>{f}
+                  </div>
+                ))}
+              </div>
+              <a
+                href="https://12go.tpo.lv/tNA80urD"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block w-full bg-green-600 text-white text-center py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors"
+              >
+                Search on 12Go →
+              </a>
+              <p className="text-xs text-gray-500 mt-2 text-center">
+                Affiliate link — we earn a small commission
+              </p>
+            </div>
+
             {/* Trip.com Widget */}
             <div className="bg-white rounded-lg shadow-md p-6">
               <h3 className="text-lg font-semibold mb-4">Book Your Journey</h3>

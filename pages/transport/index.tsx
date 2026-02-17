@@ -222,6 +222,43 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
           </div>
         </section>
 
+        {/* 12Go Booking CTA */}
+        <section className="mt-12 mb-12">
+          <div className="bg-gradient-to-r from-green-600 to-teal-700 rounded-lg shadow-lg p-8 text-white">
+            <div className="max-w-3xl mx-auto text-center">
+              <h2 className="text-3xl font-bold mb-4">Book Thailand Transport Online</h2>
+              <p className="text-lg mb-6 opacity-90">
+                Book buses, trains, ferries, and transfers across Thailand instantly with 12Go. Compare prices, read reviews, and get e-tickets delivered to your email.
+              </p>
+              <div className="flex flex-wrap justify-center gap-4 mb-6">
+                <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
+                  🚌 Buses & Minivans
+                </div>
+                <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
+                  🚂 Trains & Sleepers
+                </div>
+                <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
+                  ⛴️ Ferries & Speedboats
+                </div>
+                <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
+                  🚐 Airport Transfers
+                </div>
+              </div>
+              <a
+                href="https://12go.tpo.lv/tNA80urD"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block bg-white text-green-700 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors shadow-md"
+              >
+                Search Routes on 12Go →
+              </a>
+              <p className="text-xs mt-4 opacity-75">
+                We earn a commission when you book through our links at no extra cost to you
+              </p>
+            </div>
+          </div>
+        </section>
+
         {/* Transport Tips */}
         <section className="mt-12 bg-white rounded-lg shadow-md p-6">
           <h2 className="text-2xl font-bold mb-4">💡 Thailand Transport Tips</h2>

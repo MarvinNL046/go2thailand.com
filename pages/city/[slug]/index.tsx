@@ -595,20 +595,28 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                       </div>
                     </div>
                     
-                    {/* Trip.com CTA */}
-                    <div className="text-center">
-                      <a 
-                        href={`https://trip.tpo.lv/TmObooZ5`}
+                    {/* Hotel Booking CTAs */}
+                    <div className="flex flex-col sm:flex-row gap-3 justify-center">
+                      <a
+                        href="https://trip.tpo.lv/TmObooZ5"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-flex items-center bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+                        className="inline-flex items-center justify-center bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
                       >
-                        🔍 Search All {city.name.en} Hotels on Trip.com
+                        🔍 Search on Trip.com
                       </a>
-                      <p className="text-xs text-gray-600 mt-2">
-                        💡 We earn a commission when you book through our links at no extra cost to you
-                      </p>
+                      <a
+                        href="https://booking.tpo.lv/2PT1kR82"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center justify-center bg-blue-800 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-900 transition-colors"
+                      >
+                        🏨 Search on Booking.com
+                      </a>
                     </div>
+                    <p className="text-xs text-gray-600 mt-2 text-center">
+                      💡 We earn a commission when you book through our links at no extra cost to you
+                    </p>
                   </div>
                 </div>
 
@@ -669,19 +677,19 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                       </div>
                     </div>
                     
-                    {/* Hotels (repeat for balance) */}
-                    <div className="bg-gradient-to-br from-blue-50 to-cyan-50 rounded-lg p-4 border border-blue-200 hover:shadow-lg transition-shadow">
+                    {/* 12Go Transport */}
+                    <div className="bg-gradient-to-br from-green-50 to-teal-50 rounded-lg p-4 border border-green-200 hover:shadow-lg transition-shadow">
                       <div className="text-center">
-                        <div className="text-3xl mb-2">🏨</div>
-                        <h3 className="font-semibold text-gray-900 mb-2">Hotels</h3>
-                        <p className="text-sm text-gray-600 mb-3">1.2M+ properties worldwide</p>
-                        <a 
-                          href="https://trip.tpo.lv/TmObooZ5"
+                        <div className="text-3xl mb-2">🚌</div>
+                        <h3 className="font-semibold text-gray-900 mb-2">Bus, Train & Ferry</h3>
+                        <p className="text-sm text-gray-600 mb-3">Book transport on 12Go</p>
+                        <a
+                          href="https://12go.tpo.lv/tNA80urD"
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="inline-block bg-blue-600 text-white px-4 py-2 rounded text-sm font-medium hover:bg-blue-700 transition-colors"
+                          className="inline-block bg-green-600 text-white px-4 py-2 rounded text-sm font-medium hover:bg-green-700 transition-colors"
                         >
-                          Find Hotels →
+                          Book Transport →
                         </a>
                       </div>
                     </div>
