@@ -196,7 +196,8 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
               </div>
 
               {/* Sidebar */}
-              <aside className="lg:col-span-4 space-y-6">
+              <aside className="lg:col-span-4">
+                <div className="lg:sticky lg:top-4 space-y-6 lg:max-h-[calc(100vh-2rem)] lg:overflow-y-auto lg:scrollbar-thin">
                 {/* Newsletter */}
                 <div className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark text-white rounded-lg p-6">
                   <h3 className="text-xl font-bold mb-2">Get Thailand Updates</h3>
@@ -337,6 +338,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                   <Link href="/transport/" className="block text-thailand-blue text-center text-sm hover:underline">
                     View all routes →
                   </Link>
+                </div>
                 </div>
               </aside>
             </div>
