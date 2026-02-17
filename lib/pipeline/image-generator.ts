@@ -1,18 +1,12 @@
-import fs from "fs";
-import path from "path";
-
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const GEMINI_IMAGE_URL =
   "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-pro-image-preview:generateContent";
-
-// Image output directory relative to project root
-const IMAGE_OUTPUT_DIR = path.join(process.cwd(), "public", "images", "blog");
 
 export interface GeneratedImage {
   base64: string;
   mimeType: string;
   prompt: string;
-  filePath?: string; // Absolute path on disk after saving
+  filePath?: string; // Absolute path on disk after saving (if saved)
 }
 
 // Thailand travel category → visual style mapping
@@ -96,7 +90,8 @@ export async function generateImage(prompt: string): Promise<GeneratedImage> {
 }
 
 // Generate a Thailand travel blog featured image (16:9 landscape)
-// Saves the image to /public/images/blog/{slug}.webp and returns the GeneratedImage
+// Returns the GeneratedImage with base64 data and the publicPath.
+// Does NOT write to disk — the caller is responsible for committing via GitHub API.
 export async function generateBlogImage(
   title: string,
   category: string,
@@ -114,22 +109,12 @@ CRITICAL RULE: The image must contain ZERO text, ZERO letters, ZERO numbers, ZER
 
   const image = await generateImage(prompt);
 
-  // Save to disk as WebP file
   const publicPath = `/images/blog/${slug}.webp`;
-  const absolutePath = path.join(IMAGE_OUTPUT_DIR, `${slug}.webp`);
 
-  // Ensure output directory exists
-  fs.mkdirSync(IMAGE_OUTPUT_DIR, { recursive: true });
-
-  // Convert base64 to buffer and write
-  const buffer = Buffer.from(image.base64, "base64");
-  fs.writeFileSync(absolutePath, buffer);
-
-  console.log(`[image-generator] Saved blog image: ${absolutePath}`);
+  console.log(`[image-generator] Image generated for: ${slug} (not saved to disk — will be committed via GitHub API)`);
 
   return {
     ...image,
-    filePath: absolutePath,
     publicPath,
   };
 }

@@ -33,6 +33,7 @@ export interface GeneratedPost {
   category: PostCategory;
   tags: string[];
   image: string;
+  imageBase64?: string; // Base64-encoded image data for GitHub commit (not written to disk)
   description: string;
   featured: boolean;
   readingTime: number;
@@ -212,7 +213,7 @@ export async function generateBlogPost(
   // 5. Parse the generated Markdown + frontmatter
   const post = parseGeneratedPost(rawResponse, topic, category!);
 
-  // 6. Generate featured image (saved to disk)
+  // 6. Generate featured image (base64 stored on post; caller commits via GitHub API)
   if (doImage) {
     try {
       const imageResult = await generateBlogImage(
@@ -221,7 +222,8 @@ export async function generateBlogPost(
         post.slug
       );
       post.image = imageResult.publicPath;
-      console.log(`[content-generator] Image saved: ${imageResult.publicPath}`);
+      post.imageBase64 = imageResult.base64;
+      console.log(`[content-generator] Image generated: ${imageResult.publicPath}`);
     } catch (err) {
       console.warn("[content-generator] Image generation failed:", err);
       // Fallback image path — will be replaced manually
