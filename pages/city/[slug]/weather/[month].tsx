@@ -229,7 +229,8 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
           </div>
 
           {/* Sidebar */}
-          <aside className="space-y-6">
+          <aside>
+            <div className="lg:sticky lg:top-4 space-y-6 lg:max-h-[calc(100vh-2rem)] lg:overflow-y-auto">
             {/* City Weather Selector */}
             <div className="bg-white rounded-lg shadow-md p-6">
               <h3 className="text-lg font-semibold mb-4">🌍 Other Cities Weather</h3>
@@ -300,6 +301,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
               </ul>
             </div>
 
+            </div>
           </aside>
         </div>
       </main>

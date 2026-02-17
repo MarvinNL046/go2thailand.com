@@ -355,7 +355,8 @@ export default function IslandPage({ island, relatedIslands }: IslandPageProps) 
             </div>
 
             {/* Sidebar */}
-            <aside className="space-y-6">
+            <aside>
+              <div className="lg:sticky lg:top-4 space-y-6 lg:max-h-[calc(100vh-2rem)] lg:overflow-y-auto">
               {/* Best Time to Visit */}
               <div className="bg-white rounded-lg shadow-lg p-6">
                 <h3 className="text-xl font-bold mb-4">Best Time to Visit</h3>
@@ -525,6 +526,7 @@ export default function IslandPage({ island, relatedIslands }: IslandPageProps) 
                 <p className="text-white/60 text-xs mt-3">
                   Some links are affiliate links.
                 </p>
+              </div>
               </div>
             </aside>
           </div>

@@ -127,7 +127,8 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
           </div>
 
           {/* Sidebar */}
-          <aside className="space-y-6">
+          <aside>
+            <div className="lg:sticky lg:top-4 space-y-6 lg:max-h-[calc(100vh-2rem)] lg:overflow-y-auto">
             {/* Quick Tips */}
             <div className="bg-white rounded-lg shadow-md p-6">
               <h3 className="text-lg font-semibold mb-4">🌟 Quick Weather Tips</h3>
@@ -201,6 +202,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
               </ul>
             </div>
 
+            </div>
           </aside>
         </div>
 
