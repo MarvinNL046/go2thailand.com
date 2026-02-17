@@ -1,8 +1,6 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import {
   generateBlogPost,
-  translatePost,
-  type TranslationLocale,
 } from "../../../lib/pipeline/content-generator";
 import { injectAffiliateLinks } from "../../../lib/pipeline/affiliate-injector";
 import { commitFilesToGitHub } from "../../../lib/pipeline/github-commit";
@@ -18,10 +16,6 @@ function validatePipelineKey(req: NextApiRequest): boolean {
     req.headers["x-pipeline-key"] || req.headers["x-admin-key"];
   return key === process.env.PIPELINE_SECRET;
 }
-
-// Priority locales to translate (fits within the 5-min window)
-// Full set: nl, zh, de, fr, ru, ja, ko — we do the top 3 here
-const PRIORITY_LOCALES: TranslationLocale[] = ["nl", "de", "zh"];
 
 export default async function handler(
   req: NextApiRequest,
@@ -40,12 +34,10 @@ export default async function handler(
       topic,
       model = "gpt-5-nano",
       publish = false,
-      translateLocales,
     } = req.body as {
       topic?: string;
       model?: AiModel;
       publish?: boolean;
-      translateLocales?: TranslationLocale[];
     };
 
     console.log(`[pipeline/generate] Starting generation. Topic: "${topic || "auto"}", Model: ${model}`);
@@ -87,31 +79,9 @@ export default async function handler(
       console.log(`[pipeline/generate] Image queued for commit`);
     }
 
-    // 5. Translate to priority locales (3 instead of 7 to stay within time limit)
-    const localesToTranslate = translateLocales || PRIORITY_LOCALES;
+    // 5. Translations are handled separately via /api/pipeline/translate
+    // and the translate-blog cron job (runs 30 min after generate)
     const savedLocales: string[] = ["en"];
-
-    for (const locale of localesToTranslate) {
-      try {
-        console.log(`[pipeline/generate] Translating to ${locale}...`);
-        const translated = await translatePost(post, locale, model);
-        const translatedWithAffiliates = injectAffiliateLinks(translated.content, {
-          inlineLinks: true,
-          ctaBoxes: true,
-          ctaCount: 3,
-        });
-
-        filesToCommit.push({
-          path: `content/blog/${locale}/${post.slug}.md`,
-          content: translatedWithAffiliates,
-          encoding: "utf-8",
-        });
-        savedLocales.push(locale);
-      } catch (err) {
-        console.error(`[pipeline/generate] Translation to ${locale} failed:`, err);
-        // Continue with remaining locales
-      }
-    }
 
     // 6. Commit all files to GitHub in a single commit
     // This triggers a Vercel redeploy automatically
