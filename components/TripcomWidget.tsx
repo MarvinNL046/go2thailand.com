@@ -14,7 +14,7 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
     // Load Trip.com widget script
     if (widgetRef.current) {
       const script = document.createElement('script');
-      script.src = 'https://tpembd.com/content?trs=421888&shmarker=602467&locale=en&curr=USD&powered_by=true&border_radius=0&plain=true&color_button=%232681ff&color_button_text=%23ffffff&color_border=%232681ff&promo_id=4132&campaign_id=121';
+      script.src = 'https://tpembd.com/content?trs=384595&shmarker=602467&lang=www&layout=S10391&powered_by=true&campaign_id=121&promo_id=4038';
       script.async = true;
       script.charset = 'utf-8';
       widgetRef.current.appendChild(script);
