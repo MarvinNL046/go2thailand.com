@@ -531,7 +531,7 @@ Each section must have:
 - Numbered H2: ## 1. Section Title
 - 2 opening paragraphs with **bold keywords** on first mention
 - 2 H3 subheadings (### Subheading) with 1-2 paragraphs each
-- At least half the sections: a bullet list with 3-5 items, each starting with **Bold Label:**
+- At least half the sections: a bullet list with 3-5 items. Start each item with a bold descriptive label like: **Best Spot:** or **Pro Tip:** or **Budget Option:** (use a REAL descriptive label, NEVER write the literal words "Bold Label")
 - First-person experience signals ("When we visited...", "In our experience...", "During our time in...")
 
 5. DID YOU KNOW CALLOUTS (2-3 throughout the article):
@@ -699,11 +699,20 @@ function parseGeneratedPost(
     /^#+?\s*External links?:?\s*$/gim,
     // Strip trailing "Note:" lines about prices/hours (AI meta-commentary)
     /^Note:\s+Prices and opening hours.*$/gim,
+    // Strip "External links for further reading" and similar meta headers
+    /^#+?\s*External links?\s*(?:for further reading)?\s*$/gim,
+    // Strip "- Internal link:" prefixed lines (meta-commentary)
+    /^[-*]\s*Internal link:\s*/gim,
   ];
 
   for (const pattern of instructionPatterns) {
     content = content.replace(pattern, '');
   }
+
+  // Fix "Bold Label:" → just bold the label. AI sometimes writes literal "Bold Label:"
+  content = content.replace(/\*?\*?Bold Label:\s*/g, '**');
+  // Fix "- Bold Label: X:" → "- **X:**"
+  content = content.replace(/^([-*]\s*)Bold Label:\s*(.+?):\s*/gm, '$1**$2:** ');
 
   // Clean up excessive blank lines left by removals
   content = content.replace(/\n{4,}/g, '\n\n\n');
