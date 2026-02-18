@@ -254,7 +254,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
 
             {/* Sidebar */}
             <aside>
-              <div className="lg:sticky lg:top-4 space-y-6 lg:max-h-[calc(100vh-2rem)] lg:overflow-y-auto">
+              <div className="lg:sticky lg:top-4 space-y-6">
               {/* Tips */}
               <div className="bg-white rounded-lg shadow-lg p-6">
                 <h3 className="text-xl font-bold mb-4">

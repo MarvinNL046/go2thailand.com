@@ -433,7 +433,7 @@ function buildPrompt(
   const today = new Date().toISOString().split("T")[0];
   const year = new Date().getFullYear();
 
-  let widgetReference = '';
+  let widgetReference: string = '';
   try {
     const refPath = path.join(process.cwd(), 'content', 'writer-reference.md');
     if (fs.existsSync(refPath)) {
@@ -462,7 +462,7 @@ function buildPrompt(
       "Write a comprehensive island guide or comparison. Cover beaches, activities, accommodation options, how to get there, and who each island suits best.",
   };
 
-  const contextSection = scrapeData
+  const contextSection: string = scrapeData
     ? `\nREFERENCE DATA — THIS IS YOUR PRIMARY SOURCE OF TRUTH:
 Use ONLY the facts, prices, statistics, and details from the data below. If a fact is NOT in this reference data, do NOT include it — leave it out rather than guess.
 Every price, statistic, and specific claim MUST come from this data or a cited external source. When in doubt, say "prices vary" rather than inventing a number.
@@ -568,13 +568,13 @@ Place the widget on its own line, with a blank line above and below it. Example 
 ## 3. Next Section Title
 
 Available widgets (copy EXACTLY as shown, including the comment syntax):
-- `<!-- WIDGET:booking -->` — after mentioning hotels, accommodation, where to stay
-- `<!-- WIDGET:klook -->` — after mentioning tours, activities, cooking classes, day trips
-- `<!-- WIDGET:getyourguide -->` — after mentioning guided tours, food tours, walking tours
-- `<!-- WIDGET:12go -->` — after mentioning buses, trains, ferries, transport between cities
-- `<!-- WIDGET:saily -->` — after mentioning SIM cards, eSIM, internet, staying connected
-- `<!-- WIDGET:trip -->` — after mentioning flights, airports, flying
-- `<!-- WIDGET:tip:Your practical tip text here -->` — for non-commercial travel advice
+- <!-- WIDGET:booking --> — after mentioning hotels, accommodation, where to stay
+- <!-- WIDGET:klook --> — after mentioning tours, activities, cooking classes, day trips
+- <!-- WIDGET:getyourguide --> — after mentioning guided tours, food tours, walking tours
+- <!-- WIDGET:12go --> — after mentioning buses, trains, ferries, transport between cities
+- <!-- WIDGET:saily --> — after mentioning SIM cards, eSIM, internet, staying connected
+- <!-- WIDGET:trip --> — after mentioning flights, airports, flying
+- <!-- WIDGET:tip:Your practical tip text here --> — for non-commercial travel advice
 
 RULES:
 - Place widgets AFTER a relevant paragraph, before the next section

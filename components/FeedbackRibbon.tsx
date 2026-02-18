@@ -62,7 +62,7 @@ const FeedbackRibbon = () => {
       {/* Feedback Tab */}
       <button
         onClick={() => setIsOpen(true)}
-        className="fixed right-0 top-1/2 -translate-y-1/2 bg-blue-600 text-white px-3 py-6 rounded-l-lg shadow-lg hover:bg-blue-700 transition-colors z-40 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+        className="hidden md:flex fixed right-0 top-1/2 -translate-y-1/2 bg-blue-600 text-white px-3 py-6 rounded-l-lg shadow-lg hover:bg-blue-700 transition-colors z-40 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 flex-col items-center"
         aria-label="Give Feedback"
       >
         <MessageSquare className="w-5 h-5" />

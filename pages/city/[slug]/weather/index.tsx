@@ -160,7 +160,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
 
           {/* Sidebar */}
           <aside>
-            <div className="lg:sticky lg:top-4 space-y-6 lg:max-h-[calc(100vh-2rem)] lg:overflow-y-auto">
+            <div className="lg:sticky lg:top-4 space-y-6">
             {/* City Weather Selector */}
             <div className="bg-white rounded-lg shadow-md p-6">
               <h3 className="text-lg font-semibold mb-4">🌍 Other Cities Weather</h3>
