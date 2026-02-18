@@ -24,11 +24,9 @@ sources:
     url: "https://www.forbes.com/sites/kaitlynmcinnis/2026/01/22/the-best-night-markets-around-the-world-according-to-new-analysis/"
   - name: "Thailand Night Markets Guide" 
     url: "https://www.lonelyplanet.com/thailand/bangkok/night-markets"
-  - name: "Bangkok Night Markets — Travel Search" 
-    url: "https://www.bangkokpost.com/life/travel/217 wọnyi" 
+  - name: "Bangkok Night Markets — Travel Search"
+    url: "https://www.bangkokpost.com/life/travel"
 ---
-
-## Opening paragraph
 
 Bangkok after dark reveals a kaleidoscope of neon, steam, and sizzling street-food aromas. The **Best Night Markets in Bangkok 2026** are where locals and travelers collide for bargain bites, vintage finds, and mural-worthy moments. Ready to chase the glow? This guide breaks down markets by neighborhood, with practical tips, day-by-day itineraries, and honest advice from our team who’ve spent years chasing Bangkok’s night buzz.
 
@@ -240,28 +238,6 @@ Note: Prices vary across vendors and market sections; check latest prices on-sit
 
 ---
 
-## Affiliate Integration Points (naturally woven)
-
-- Hotel/accommodation recommendations: look for stays near each market cluster via Booking.com (in-text reference to Booking.com will be injected on publish).  
-- Tour/activity suggestions: consider night-market tours or food tastings on [Klook](https://klook.tpo.lv/7Dt6WApj)/GetYourGuide (links injected).  
-- Transport tips: practical transit help and longer-distance travel options via [12Go](https://12go.tpo.lv/tNA80urD) Asia (link injected).  
-- [eSIM](https://saily.tpo.lv/rf9lidnE)/SIM card tip: you can grab a local data plan via Saily (link injected).  
-
-Examples in context:
-- After a long day, you can book comfortable hotels near the Yaowarat area through our recommended listings.  
-- For a curated night-market food tour, explore options on Klook/GetYourGuide; you’ll find experiences tailored to Bangkok’s street-food scene.  
-- If you’re bouncing between neighborhoods, use transport planning tips from 12Go Asia to estimate travel times and ride options.  
-- If you need data on the move, Saily’s eSIM options are handy for staying connected.
-
-Internal linking woven through the article:
-- City: [Bangkok](https://go2-thailand.com/city/bangkok/)  
-- Food: [Thai Street Food Guide](https://go2-thailand.com/blog/thai-street-food-guide-2026/) and [Food](https://go2-thailand.com/food/)  
-- Hotels: [Hotels in Bangkok](https://go2-thailand.com/city/bangkok/hotels/)  
-- Attractions: [Bangkok Attractions](https://go2-thailand.com/city/bangkok/attractions/)  
-- Weather: [Bangkok Weather](https://go2-thailand.com/weather/)  
-- Islands: not used here, but see [Koh Samui](https://go2-thailand.com/islands/koh-samui/) for related trips if you extend your travel.
-
----
 
 ## Frequently Asked Questions
 
