@@ -1,4 +1,5 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
+import { useEffect } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -36,8 +37,55 @@ interface BlogPostPageProps {
   relatedPosts: BlogPost[];
 }
 
+// Travelpayouts embed script URLs — keyed by widget type matching data-widget attribute
+// Empty string means no script widget is available; the fallback CTA box will remain visible
+const WIDGET_SCRIPTS: Record<string, string> = {
+  booking: 'https://tpembd.com/content?trs=421888&shmarker=602467&locale=en&sustainable=false&deals=false&border_radius=5&plain=true&powered_by=true&promo_id=2693&campaign_id=84',
+  klook: 'https://tpembd.com/content?currency=USD&trs=421888&shmarker=602467&locale=en&category=4&amount=3&powered_by=true&campaign_id=137&promo_id=4497',
+  getyourguide: 'https://tpembd.com/content?trs=421888&shmarker=602467&locale=en-US&powered_by=true&campaign_id=108&promo_id=4039',
+  viator: 'https://tpembd.com/content?currency=usd&trs=421888&shmarker=602467&powered_by=true&locale=en&lowest_price=&highest_price=&min_lines=5&color_button=%23346A6C&promo_id=5850&campaign_id=47',
+  '12go': 'https://tpembd.com/content?trs=421888&shmarker=602467&locale=en&from=Bangkok&to=Phuket&from_en=Bangkok&to_en=Phuket&powered_by=true&color=black&border=1&campaign_id=44&promo_id=1506',
+  trip: 'https://tpembd.com/content?trs=421888&shmarker=602467&lang=www&layout=S10391&powered_by=true&campaign_id=121&promo_id=4038',
+  saily: '',     // No script widget available, fallback CTA box only
+  nordvpn: '',   // No script widget available, fallback CTA box only
+  nordpass: '',  // No script widget available, fallback CTA box only
+};
+
 export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) {
   const { locale } = useRouter();
+
+  // Hydrate widget placeholders with real Travelpayouts embed scripts on the client
+  useEffect(() => {
+    const contentEl = document.querySelector('[data-blog-content]');
+    if (!contentEl) return;
+
+    const widgetDivs = contentEl.querySelectorAll<HTMLElement>('[data-widget]');
+    widgetDivs.forEach((div) => {
+      const widgetType = div.getAttribute('data-widget');
+      if (!widgetType || !(widgetType in WIDGET_SCRIPTS)) return;
+
+      const scriptSrc = WIDGET_SCRIPTS[widgetType];
+      if (!scriptSrc) return; // No script widget for this type, keep fallback CTA box
+
+      // Create a container for the script widget above the fallback CTA box
+      const scriptContainer = document.createElement('div');
+      scriptContainer.style.margin = '0';
+
+      const script = document.createElement('script');
+      script.src = scriptSrc;
+      script.async = true;
+      script.charset = 'utf-8';
+
+      // When the script loads successfully, hide the fallback CTA box
+      script.onload = () => {
+        const fallback = div.querySelector('[data-widget-fallback]');
+        if (fallback) (fallback as HTMLElement).style.display = 'none';
+      };
+
+      scriptContainer.appendChild(script);
+      div.insertBefore(scriptContainer, div.firstChild);
+    });
+  }, []);
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -162,6 +210,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                 <div className="bg-white rounded-lg shadow-lg p-8 lg:p-12">
                   {post.contentHtml ? (
                     <div
+                      data-blog-content
                       className="prose prose-lg max-w-none prose-headings:text-gray-900 prose-a:text-thailand-blue prose-a:no-underline hover:prose-a:underline prose-img:rounded-lg"
                       dangerouslySetInnerHTML={{ __html: post.contentHtml }}
                     />

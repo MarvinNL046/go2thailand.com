@@ -29,6 +29,18 @@ Use after mentioning SIM cards, internet, staying connected, or data plans.
 `<!-- WIDGET:trip -->`
 Use after mentioning flights, airports, or flying to/within Thailand.
 
+### Popular Tours Widget (Viator)
+`<!-- WIDGET:viator -->`
+Use after mentioning popular tours, must-do experiences, or sightseeing.
+
+### VPN Widget
+`<!-- WIDGET:nordvpn -->`
+Use after mentioning online security, accessing content, VPN for travel.
+
+### Password Manager Widget
+`<!-- WIDGET:nordpass -->`
+Use after mentioning account security, passwords, or digital safety while traveling.
+
 ### Pro Tip Box (non-affiliate)
 `<!-- WIDGET:tip:Your tip text here -->`
 Use for practical travel tips, warnings, or insider advice.
@@ -51,3 +63,6 @@ Use for practical travel tips, warnings, or insider advice.
 | 12Go Asia | https://12go.tpo.lv/tNA80urD | Buses, trains, ferries |
 | Saily | https://saily.tpo.lv/rf9lidnE | eSIM, mobile data |
 | Trip.com | https://trip.tpo.lv/TmObooZ5 | Flights |
+| Viator | https://viator.tpo.lv/TUcQTS5u | Popular tours, sightseeing |
+| NordVPN | https://nordvpn.tpo.lv/ekHF1i55 | VPN for travel security |
+| NordPass | https://nordvpn.tpo.lv/tp12zNjC | Password manager |

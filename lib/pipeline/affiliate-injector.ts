@@ -8,6 +8,9 @@
 //   12Go Asia     → https://12go.tpo.lv/tNA80urD
 //   Saily eSIM    → https://saily.tpo.lv/rf9lidnE
 //   Trip.com      → https://trip.tpo.lv/TmObooZ5
+//   Viator        → https://viator.tpo.lv/TUcQTS5u
+//   NordVPN       → https://nordvpn.tpo.lv/ekHF1i55
+//   NordPass      → https://nordvpn.tpo.lv/tp12zNjC
 // -------------------------------------------------------------------
 
 export const AFFILIATE_LINKS = {
@@ -17,6 +20,9 @@ export const AFFILIATE_LINKS = {
   "12go": "https://12go.tpo.lv/tNA80urD",
   saily: "https://saily.tpo.lv/rf9lidnE",
   trip: "https://trip.tpo.lv/TmObooZ5",
+  viator: "https://viator.tpo.lv/TUcQTS5u",
+  nordvpn: "https://nordvpn.tpo.lv/ekHF1i55",
+  nordpass: "https://nordvpn.tpo.lv/tp12zNjC",
 } as const;
 
 export type AffiliatePartner = keyof typeof AFFILIATE_LINKS;
@@ -60,6 +66,12 @@ const AFFILIATE_RULES: AffiliateRule[] = [
       /\b(cooking class|snorkeling tour|snorkeling|diving course|scuba diving|day trip|elephant sanctuary|muay thai class|zip.?lin|kayak tour|Klook|boat tour|island tour|jungle trek)\b/i,
     partner: "klook",
     linkText: "Book on Klook",
+  },
+  // Activities: Viator/Tripadvisor tours → Viator
+  {
+    pattern: /\b(Viator|Tripadvisor tour|TripAdvisor experience)\b/i,
+    partner: "viator",
+    linkText: "Book on Viator",
   },
   // Activities: general tour/activity → GetYourGuide (secondary)
   {
@@ -131,6 +143,27 @@ const CTA_BOXES: CtaBox[] = [
     heading: "Find Flights to Thailand",
     body: "Search and compare flights to Bangkok, Phuket, Chiang Mai and Koh Samui at the best prices.",
     cta: "Search Flights on Trip.com →",
+  },
+  {
+    partner: "viator",
+    emoji: "🏛️",
+    heading: "Popular Tours by Viator",
+    body: "Browse top-rated Thailand tours and experiences curated by Tripadvisor's Viator.",
+    cta: "Explore Tours on Viator →",
+  },
+  {
+    partner: "nordvpn",
+    emoji: "🔒",
+    heading: "Stay Secure Online While Traveling",
+    body: "Protect your connection on public WiFi in Thailand. NordVPN keeps your data private wherever you are.",
+    cta: "Get NordVPN →",
+  },
+  {
+    partner: "nordpass",
+    emoji: "🔑",
+    heading: "Manage Your Passwords Safely",
+    body: "Travel stress-free with NordPass — a secure password manager that keeps all your accounts safe.",
+    cta: "Get NordPass →",
   },
 ];
 
@@ -276,11 +309,14 @@ function renderCtaBox(box: CtaBox): string {
     '12go': { bg: '#FFFBEB', border: '#F59E0B', btn: '#D97706', btnHover: '#B45309' },
     saily: { bg: '#FAF5FF', border: '#A855F7', btn: '#9333EA', btnHover: '#7E22CE' },
     trip: { bg: '#F0F9FF', border: '#0EA5E9', btn: '#0284C7', btnHover: '#0369A1' },
+    viator: { bg: '#F0FDF4', border: '#059669', btn: '#047857', btnHover: '#065F46' },
+    nordvpn: { bg: '#EFF6FF', border: '#4338CA', btn: '#4338CA', btnHover: '#3730A3' },
+    nordpass: { bg: '#FDF2F8', border: '#DB2777', btn: '#BE185D', btnHover: '#9D174D' },
   };
 
   const c = colors[box.partner];
 
-  return `<div style="background:${c.bg};border-left:4px solid ${c.border};border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  return `<div data-widget-fallback style="background:${c.bg};border-left:4px solid ${c.border};border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:12px;">
     <span style="font-size:28px;line-height:1;">${box.emoji}</span>
     <div style="flex:1;">
@@ -302,11 +338,14 @@ export function processWidgetPlaceholders(content: string): string {
 
   let processedBody = body;
 
-  // Replace partner widget placeholders
+  // Replace partner widget placeholders with data-widget div + fallback CTA
   for (const box of CTA_BOXES) {
     const placeholder = `<!-- WIDGET:${box.partner} -->`;
     if (processedBody.includes(placeholder)) {
-      processedBody = processedBody.replace(placeholder, renderCtaBox(box));
+      const fallbackHtml = renderCtaBox(box);
+      // Wrap in data-widget div so client-side JS can inject the real script widget
+      const widgetHtml = `<div data-widget="${box.partner}" style="margin:32px 0;">${fallbackHtml}</div>`;
+      processedBody = processedBody.replace(placeholder, widgetHtml);
     }
   }
 
