@@ -6,7 +6,6 @@ import {
   type TranslationLocale,
   type GeneratedPost,
 } from "../../../lib/pipeline/content-generator";
-import { injectAffiliateLinks } from "../../../lib/pipeline/affiliate-injector";
 import { commitFilesToGitHub } from "../../../lib/pipeline/github-commit";
 
 export const config = {
@@ -93,15 +92,12 @@ export default async function handler(
         try {
           console.log(`[cron/translate] Translating to ${locale}...`);
           const result = await translatePost(post, locale, "claude-haiku");
-          const translatedWithAffiliates = injectAffiliateLinks(result.content, {
-            inlineLinks: true,
-            ctaBoxes: true,
-            ctaCount: 3,
-          });
+          // Don't re-inject affiliate links — the English source already has them
+          // and the translator preserves all URLs as-is
 
           filesToCommit.push({
             path: `content/blog/${locale}/${slug}.md`,
-            content: translatedWithAffiliates,
+            content: result.content,
             encoding: "utf-8",
           });
           savedLocales.push(locale);
