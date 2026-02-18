@@ -1,0 +1,202 @@
+{
+  "slug": "phuket",
+  "name": { "en": "Phuket", "nl": "Phuket" },
+  "region": "Andaman Sea",
+  "province": "Phuket",
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "description": {
+    "en": "Thailand's largest island and one of Southeast Asia's most popular tropical destinations. Phuket offers everything from world-class beaches and vibrant nightlife to historic Old Town charm and stunning Andaman Sea views. Connected to the mainland by the Sarasin Bridge, this island province is a gateway to iconic destinations like Phi Phi Islands and Phang Nga Bay. Whether you're seeking luxury resorts on the western coast, budget-friendly stays in Phuket Town, or adventure-filled days of diving and island hopping, Phuket delivers an unforgettable Thai experience.",
+    "nl": "Het grootste eiland van Thailand en een van de populairste tropische bestemmingen van Zuidoost-Azië. Phuket biedt alles van wereldklasse stranden en bruisend nachtleven tot de charme van de historische oude stad en adembenemend uitzicht over de Andamanzee. Verbonden met het vasteland door de Sarasinbrug, is deze eilandprovincie een toegangspoort tot iconische bestemmingen zoals de Phi Phi-eilanden en Phang Nga Bay. Of je nu op zoek bent naar luxe resorts aan de westkust, budgetvriendelijk verblijf in Phuket Town, of avontuurlijke dagen vol duiken en eilandhoppen, Phuket biedt een onvergetelijke Thaise ervaring."
+  },
+  "beaches": [
+    {
+      "name": "Patong Beach",
+      "description": {
+        "en": "Phuket's most famous and busiest beach, a 3.5-kilometer crescent of golden sand backed by a wall of hotels, restaurants, and the legendary Bangla Road nightlife strip. The beach offers every water sport imaginable, from jet skiing to parasailing, and the sunsets are spectacular.",
+        "nl": "Het beroemdste en drukste strand van Phuket, een 3,5 kilometer lange halvemaanvormige strook goudkleurig zand met daarachter hotels, restaurants en de legendarische Bangla Road uitgaansstraat. Het strand biedt alle denkbare watersporten, van jetskiën tot parasailing, en de zonsondergangen zijn spectaculair."
+      },
+      "best_for": ["nightlife", "water sports", "shopping", "entertainment"]
+    },
+    {
+      "name": "Kata Beach",
+      "description": {
+        "en": "A beautiful family-friendly beach with soft white sand, clear turquoise water, and a more relaxed vibe than nearby Patong. Kata is excellent for surfing during the monsoon season (May-October) and offers great snorkeling around the rocky southern headland. The beach has a good range of restaurants and shops nearby.",
+        "nl": "Een prachtig gezinsvriendelijk strand met zacht wit zand, helder turquoise water en een meer ontspannen sfeer dan het nabijgelegen Patong. Kata is uitstekend voor surfen tijdens het moessonseizoen (mei-oktober) en biedt geweldig snorkelen rond de rotsachtige zuidelijke kaap. Het strand heeft een goed aanbod van restaurants en winkels in de buurt."
+      },
+      "best_for": ["families", "surfing", "snorkeling", "relaxation"]
+    },
+    {
+      "name": "Karon Beach",
+      "description": {
+        "en": "One of Phuket's longest beaches at over 3 kilometers, Karon offers a more peaceful alternative to Patong while still being close to amenities. The squeaky white sand is a distinctive feature, and the beach is wide enough to always find space even in high season. Great for long walks and swimming.",
+        "nl": "Een van de langste stranden van Phuket met meer dan 3 kilometer, Karon biedt een rustiger alternatief voor Patong terwijl het toch dicht bij voorzieningen ligt. Het piepende witte zand is een kenmerkend feature, en het strand is breed genoeg om altijd ruimte te vinden, zelfs in het hoogseizoen. Geweldig voor lange wandelingen en zwemmen."
+      },
+      "best_for": ["swimming", "walking", "relaxation", "families"]
+    },
+    {
+      "name": "Freedom Beach",
+      "description": {
+        "en": "A hidden gem accessible only by longtail boat or a steep jungle trail from Patong. This 300-meter stretch of pristine white sand and crystal-clear water is often rated as Phuket's most beautiful beach. Limited development means it stays relatively unspoiled, though it can get busy in high season.",
+        "nl": "Een verborgen juweeltje dat alleen bereikbaar is per longtailboot of via een steil junglepad vanuit Patong. Deze 300 meter lange strook ongerept wit zand en kristalhelder water wordt vaak beoordeeld als het mooiste strand van Phuket. Beperkte ontwikkeling betekent dat het relatief ongerept blijft, hoewel het druk kan worden in het hoogseizoen."
+      },
+      "best_for": ["snorkeling", "photography", "seclusion", "swimming"]
+    },
+    {
+      "name": "Nai Harn Beach",
+      "description": {
+        "en": "A locals' favorite in southern Phuket, Nai Harn is a gorgeous crescent bay surrounded by lush green hills. The beach is popular for swimming and sunbathing, with a tranquil lake behind it. During the monsoon season, it attracts surfers seeking moderate waves. The nearby Windmill Viewpoint offers some of the best sunset views on the island.",
+        "nl": "Een favoriet bij lokale bewoners in het zuiden van Phuket, Nai Harn is een prachtige halvemaanvormige baai omgeven door weelderige groene heuvels. Het strand is populair om te zwemmen en zonnen, met een rustig meer erachter. Tijdens het moessonseizoen trekt het surfers aan die op zoek zijn naar gematigde golven. Het nabijgelegen Windmill Viewpoint biedt een van de mooiste zonsondergangen op het eiland."
+      },
+      "best_for": ["swimming", "sunsets", "surfing", "local atmosphere"]
+    }
+  ],
+  "activities": [
+    {
+      "name": "Big Buddha (Phra Phutthamingmongkol Akenakkiri)",
+      "type": "temple",
+      "description": {
+        "en": "A 45-meter tall white marble Buddha statue sitting atop Nakkerd Hill, visible from much of southern Phuket. The viewpoint offers 360-degree panoramic views across the island, Chalong Bay, and Kata-Karon beaches. Dress modestly and enjoy the peaceful atmosphere with bells tinkling in the breeze.",
+        "nl": "Een 45 meter hoog wit marmeren Boeddhabeeld op de top van Nakkerd Hill, zichtbaar vanuit een groot deel van Zuid-Phuket. Het uitzichtpunt biedt 360-graden panoramisch uitzicht over het eiland, Chalong Bay en de stranden van Kata-Karon. Kleed je bescheiden en geniet van de vredige sfeer met belletjes die tinkelen in de bries."
+      },
+      "price_range": "Free"
+    },
+    {
+      "name": "Phuket Old Town",
+      "type": "cultural",
+      "description": {
+        "en": "A charming historic district featuring colorful Sino-Portuguese architecture, trendy cafes, street art, and local markets. Thalang Road and Soi Romanee are must-visit streets. The Sunday Walking Street Market transforms the area into a vibrant food and shopping paradise every weekend.",
+        "nl": "Een charmante historische wijk met kleurrijke Sino-Portugese architectuur, trendy cafés, straatkunst en lokale markten. Thalang Road en Soi Romanee zijn straten die je niet mag missen. De zondagse Walking Street Market transformeert het gebied elk weekend in een bruisend eet- en winkelparadijs."
+      },
+      "price_range": "Free"
+    },
+    {
+      "name": "Phi Phi Islands Day Trip",
+      "type": "day_trip",
+      "description": {
+        "en": "A full-day speedboat or longtail boat trip to the stunning Phi Phi Islands, including Maya Bay (made famous by the movie 'The Beach'), Pileh Lagoon, and Viking Cave. Most tours include snorkeling stops and lunch on Phi Phi Don. Book early as tours fill up fast in high season.",
+        "nl": "Een volledige dag speedboot- of longtailboottocht naar de prachtige Phi Phi-eilanden, inclusief Maya Bay (beroemd geworden door de film 'The Beach'), Pileh Lagoon en Viking Cave. De meeste tours bevatten snorkelstops en lunch op Phi Phi Don. Boek vroeg want tours zijn snel vol in het hoogseizoen."
+      },
+      "price_range": "$$"
+    },
+    {
+      "name": "Phang Nga Bay & James Bond Island",
+      "type": "day_trip",
+      "description": {
+        "en": "Explore the dramatic limestone karst landscape of Phang Nga Bay by longtail boat or sea canoe. Visit the iconic James Bond Island (Ko Tapu) from 'The Man with the Golden Gun', paddle through sea caves and mangrove forests, and stop at the floating Muslim village of Koh Panyee.",
+        "nl": "Verken het dramatische kalksteenkarstlandschap van Phang Nga Bay per longtailboot of zeekaak. Bezoek het iconische James Bond Island (Ko Tapu) uit 'The Man with the Golden Gun', peddel door zeegrotten en mangrovebossen, en stop bij het drijvende moslimvissersdorp Koh Panyee."
+      },
+      "price_range": "$$"
+    },
+    {
+      "name": "Wat Chalong",
+      "type": "temple",
+      "description": {
+        "en": "Phuket's most important and visited Buddhist temple, featuring ornate buildings and a 60-meter tall Grand Pagoda (Phra Mahathat Chedi). The temple houses a fragment of Lord Buddha's bone. The beautifully decorated interior walls depict the life of Buddha. Free admission.",
+        "nl": "De belangrijkste en meest bezochte boeddhistische tempel van Phuket, met sierlijke gebouwen en een 60 meter hoge Grote Pagode (Phra Mahathat Chedi). De tempel herbergt een fragment van het bot van Boeddha. De prachtig versierde binnenmuren beelden het leven van Boeddha af. Gratis toegang."
+      },
+      "price_range": "Free"
+    }
+  ],
+  "getting_there": {
+    "from_bangkok": {
+      "options": [
+        {
+          "method": "Flight",
+          "duration": "1.5 hours",
+          "price": "฿1,500-5,000",
+          "description": {
+            "en": "Multiple daily flights from Bangkok Suvarnabhumi and Don Mueang with Thai Airways, Bangkok Airways, AirAsia, Nok Air, and Thai Lion Air. Budget airlines from Don Mueang offer the best deals when booked in advance. Phuket International Airport is well-connected to all beach areas.",
+            "nl": "Meerdere dagelijkse vluchten vanaf Bangkok Suvarnabhumi en Don Mueang met Thai Airways, Bangkok Airways, AirAsia, Nok Air en Thai Lion Air. Budgetluchtvaartmaatschappijen vanaf Don Mueang bieden de beste deals bij vroeg boeken. Phuket International Airport is goed verbonden met alle strandgebieden."
+          }
+        },
+        {
+          "method": "Bus",
+          "duration": "12-14 hours",
+          "price": "฿500-1,000",
+          "description": {
+            "en": "VIP and first-class buses depart from Bangkok's Southern Bus Terminal (Sai Tai Mai) several times daily. VIP buses offer reclining seats, blankets, and meals. An overnight option that saves a night of accommodation. The bus terminal in Phuket Town connects to local transport.",
+            "nl": "VIP- en eersteklas bussen vertrekken meerdere keren per dag vanaf het zuidelijke busstation van Bangkok (Sai Tai Mai). VIP-bussen bieden verstelbare stoelen, dekens en maaltijden. Een nachtoptie die een overnachting bespaart. Het busstation in Phuket Town is verbonden met lokaal vervoer."
+          }
+        },
+        {
+          "method": "Train + Bus",
+          "duration": "14-16 hours",
+          "price": "฿600-1,500",
+          "description": {
+            "en": "Take an overnight sleeper train from Bangkok to Surat Thani (10 hours), then a connecting bus to Phuket (5-6 hours). A scenic but long journey. Alternatively, train to Phun Phin station near Surat Thani and transfer to a Phuket-bound bus.",
+            "nl": "Neem een nachtslaaptrein van Bangkok naar Surat Thani (10 uur), en dan een aansluitende bus naar Phuket (5-6 uur). Een schilderachtige maar lange reis. Als alternatief kun je de trein nemen naar Phun Phin station bij Surat Thani en overstappen op een bus richting Phuket."
+          }
+        }
+      ]
+    }
+  },
+  "accommodation_tips": {
+    "areas": [
+      {
+        "name": "Patong",
+        "description": {
+          "en": "The heart of Phuket's tourism with the widest range of hotels, from budget hostels to luxury beachfront resorts. Walking distance to Bangla Road nightlife, restaurants, and shopping. Can be noisy at night. Best for first-timers and nightlife lovers.",
+          "nl": "Het hart van het toerisme op Phuket met het breedste aanbod aan hotels, van budgethostels tot luxe strandresorts. Op loopafstand van het Bangla Road nachtleven, restaurants en winkels. Kan 's nachts luidruchtig zijn. Het beste voor eerste bezoekers en nachtleven-liefhebbers."
+        },
+        "price_range": "$$-$$$$"
+      },
+      {
+        "name": "Kata & Karon",
+        "description": {
+          "en": "Excellent mid-range area with beautiful beaches and a more relaxed atmosphere than Patong. Great for families with good restaurants and easy beach access. Well-connected by songthaew (local bus) to Patong and Phuket Town.",
+          "nl": "Uitstekend middenklasse gebied met prachtige stranden en een meer ontspannen sfeer dan Patong. Geweldig voor gezinnen met goede restaurants en makkelijke strandtoegang. Goed verbonden per songthaew (lokale bus) met Patong en Phuket Town."
+        },
+        "price_range": "$$-$$$"
+      },
+      {
+        "name": "Phuket Old Town",
+        "description": {
+          "en": "The cultural heart of the island with boutique hotels in converted Sino-Portuguese shophouses. Best for travelers who want to experience local culture, amazing street food, and a authentic Thai atmosphere away from the beach tourist crowds.",
+          "nl": "Het culturele hart van het eiland met boetiekhotels in verbouwde Sino-Portugese winkelpanden. Het beste voor reizigers die de lokale cultuur, geweldig straateten en een authentieke Thaise sfeer willen ervaren, weg van de strandtoeristenmassa's."
+        },
+        "price_range": "$$-$$$"
+      },
+      {
+        "name": "Rawai & Nai Harn",
+        "description": {
+          "en": "Southern Phuket's quietest area, popular with long-stay visitors and expats. Rawai's seafood market is legendary, and Nai Harn Beach is one of the island's best. Perfect for those who want peace and quiet with a local feel. Rent a scooter to explore.",
+          "nl": "Het rustigste deel van Zuid-Phuket, populair bij langverblijvers en expats. De vismarkt van Rawai is legendarisch, en Nai Harn Beach is een van de mooiste stranden van het eiland. Perfect voor wie rust en een lokale sfeer zoekt. Huur een scooter om te verkennen."
+        },
+        "price_range": "$-$$$"
+      }
+    ]
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "$25-45",
+      "mid": "$60-150",
+      "luxury": "$250+"
+    },
+    "currency_tips": {
+      "en": "ATMs are everywhere in tourist areas but charge a ฿220 foreign card fee per withdrawal. The best exchange rates are at SuperRich or dedicated exchange booths in Patong and Phuket Town, not at the airport. Credit cards are widely accepted at hotels, malls, and larger restaurants. Grab (ride-hailing) is a popular alternative to tuk-tuks, which are notoriously expensive on Phuket.",
+      "nl": "Geldautomaten zijn overal in toeristische gebieden maar rekenen ฿220 aan buitenlandse opnamekosten per transactie. De beste wisselkoersen vind je bij SuperRich of gespecialiseerde wisselkantoren in Patong en Phuket Town, niet op de luchthaven. Creditcards worden breed geaccepteerd in hotels, winkelcentra en grotere restaurants. Grab (taxi-app) is een populair alternatief voor tuk-tuks, die notoir duur zijn op Phuket."
+    }
+  },
+  "best_time_to_visit": {
+    "high_season": "Nov-Mar",
+    "shoulder": "Apr-May",
+    "low_season": "Jun-Oct",
+    "avoid": "Sep",
+    "description": {
+      "en": "Phuket's best weather runs from November to March with dry, sunny days and calm seas perfect for beach activities and diving. The southwest monsoon (June-October) brings rain and rougher seas on the west coast, but also lower prices and fewer crowds. September sees the most rainfall. Even in low season, mornings are often sunny with rain typically falling in the afternoon.",
+      "nl": "Het beste weer op Phuket is van november tot maart met droge, zonnige dagen en kalme zeeën, perfect voor strandactiviteiten en duiken. De zuidwestmoesson (juni-oktober) brengt regen en ruigere zee aan de westkust, maar ook lagere prijzen en minder drukte. September heeft de meeste regenval. Zelfs in het laagseizoen zijn ochtenden vaak zonnig met regen die meestal in de middag valt."
+    }
+  },
+  "highlights": ["Patong Beach", "Big Buddha", "Phuket Old Town", "Phi Phi Islands", "Phang Nga Bay"],
+  "tags": ["beach", "nightlife", "culture", "diving", "luxury", "family", "island hopping"],
+  "seo": {
+    "metaTitle": {
+      "en": "Phuket Island 2026: Best Beaches, Activities & Travel Guide",
+      "nl": "Phuket Eiland 2026: Beste Stranden, Activiteiten & Reisgids"
+    },
+    "metaDescription": {
+      "en": "Complete Phuket island guide 2026. Best beaches, day trips, nightlife, hotels from $25/night & transport tips. Plan your perfect Phuket holiday!",
+      "nl": "Complete Phuket eilandgids 2026. Beste stranden, dagtrips, nachtleven, hotels vanaf €22/nacht & transporttips. Plan je perfecte Phuket vakantie!"
+    }
+  }
+}
