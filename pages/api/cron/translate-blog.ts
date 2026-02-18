@@ -64,8 +64,8 @@ export default async function handler(
       const titleMatch = enContent.match(/^title:\s*["']?(.+?)["']?\s*$/m);
       const title = titleMatch?.[1] || slug;
 
-      // Translate up to 4 locales per run (to stay within 5 min)
-      const localesToTranslate = missingLocales.slice(0, 4);
+      // Translate up to 2 locales per run (each takes ~90s with Haiku)
+      const localesToTranslate = missingLocales.slice(0, 2);
 
       console.log(`[cron/translate] Translating "${title}" to: ${localesToTranslate.join(", ")}`);
 
