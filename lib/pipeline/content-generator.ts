@@ -701,8 +701,14 @@ function parseGeneratedPost(
     /^Note:\s+Prices and opening hours.*$/gim,
     // Strip "External links for further reading" and similar meta headers
     /^#+?\s*External links?\s*(?:for further reading)?\s*$/gim,
-    // Strip "- Internal link:" prefixed lines (meta-commentary)
-    /^[-*]\s*Internal link:\s*/gim,
+    // Strip "Internal link:" lines in any format (with or without dash prefix)
+    /^[-*]?\s*Internal links?(?:\s+to\b|\s*:).*$/gim,
+    // Strip standalone instruction text that leaks from prompt
+    /^Bold the primary keyword.*$/gim,
+    /^Respond with the complete.*$/gim,
+    /^Practical Info:\s*https?:\/\/.*$/gim,
+    // Strip bare URL-only lines (not inside links or sources)
+    /^(?:Pad Krapow|Khao Soi|Som Tam|Green Curry|Tom Yum).*https?:\/\/go2-thailand\.com.*$/gim,
   ];
 
   for (const pattern of instructionPatterns) {
@@ -713,6 +719,9 @@ function parseGeneratedPost(
   content = content.replace(/\*?\*?Bold Label:\s*/g, '**');
   // Fix "- Bold Label: X:" → "- **X:**"
   content = content.replace(/^([-*]\s*)Bold Label:\s*(.+?):\s*/gm, '$1**$2:** ');
+
+  // Unwrap opening paragraph from code blocks (AI wraps intro in ```markdown ... ```)
+  content = content.replace(/^(---[\s\S]*?---)\s*\n+```(?:markdown|md)?\s*\n/m, '$1\n\n');
 
   // Clean up excessive blank lines left by removals
   content = content.replace(/\n{4,}/g, '\n\n\n');
