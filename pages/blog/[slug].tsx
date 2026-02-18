@@ -197,7 +197,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
 
               {/* Sidebar */}
               <aside className="lg:col-span-4">
-                <div className="lg:sticky lg:top-4 space-y-6 lg:max-h-[calc(100vh-2rem)] lg:overflow-y-auto lg:scrollbar-thin">
+                <div className="lg:sticky lg:top-4 space-y-6">
                 {/* Newsletter */}
                 <div className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark text-white rounded-lg p-6">
                   <h3 className="text-xl font-bold mb-2">Get Thailand Updates</h3>
