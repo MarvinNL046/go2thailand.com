@@ -423,6 +423,17 @@ export function processWidgetPlaceholders(content: string): string {
 
   let processedBody = body;
 
+  // Normalize various widget placeholder formats the AI might use before the main replacement loop.
+  // The AI sometimes writes widgets in wrong formats (plain text, list items, etc.).
+  // - "- WIDGET:booking" or "* WIDGET:booking" → <!-- WIDGET:booking -->
+  processedBody = processedBody.replace(/^[-*]\s*WIDGET:(\w+)\s*$/gm, '<!-- WIDGET:$1 -->');
+  // - "WIDGET:booking" (plain text on a line, no dashes) → <!-- WIDGET:booking -->
+  processedBody = processedBody.replace(/^WIDGET:(\w+)\s*$/gm, '<!-- WIDGET:$1 -->');
+  // - "- WIDGET:[link text](url)" (AI wrapped widget name in a Markdown link) → remove entirely
+  processedBody = processedBody.replace(/^[-*]\s*WIDGET:\[.*?\]\(.*?\)\s*$/gm, '');
+  // - "- WIDGET:tip:text" → <!-- WIDGET:tip:text -->
+  processedBody = processedBody.replace(/^[-*]\s*WIDGET:tip:(.+)$/gm, '<!-- WIDGET:tip:$1 -->');
+
   // Replace partner widget placeholders with data-widget div + fallback CTA
   for (const box of CTA_BOXES) {
     const placeholder = `<!-- WIDGET:${box.partner} -->`;

@@ -553,14 +553,28 @@ Each section must have:
 Place these HTML comment placeholders in your output where you want a styled widget box to appear.
 They will be automatically replaced with beautiful styled components.
 
-Available widgets:
-- <!-- WIDGET:booking --> — after mentioning hotels, accommodation, where to stay
-- <!-- WIDGET:klook --> — after mentioning tours, activities, cooking classes, day trips
-- <!-- WIDGET:getyourguide --> — after mentioning guided tours, food tours, walking tours
-- <!-- WIDGET:12go --> — after mentioning buses, trains, ferries, transport between cities
-- <!-- WIDGET:saily --> — after mentioning SIM cards, eSIM, internet, staying connected
-- <!-- WIDGET:trip --> — after mentioning flights, airports, flying
-- <!-- WIDGET:tip:Your practical tip text here --> — for non-commercial travel advice
+CRITICAL FORMAT RULE: ALWAYS use EXACTLY the HTML comment syntax shown below.
+NEVER write WIDGET as plain text, a list item, or markdown. NEVER write "- WIDGET:booking" or "WIDGET:booking" on its own.
+The ONLY correct format is:
+
+<!-- WIDGET:booking -->
+
+Place the widget on its own line, with a blank line above and below it. Example of correct placement:
+
+...end of a paragraph about hotels in Chiang Mai.
+
+<!-- WIDGET:booking -->
+
+## 3. Next Section Title
+
+Available widgets (copy EXACTLY as shown, including the comment syntax):
+- `<!-- WIDGET:booking -->` — after mentioning hotels, accommodation, where to stay
+- `<!-- WIDGET:klook -->` — after mentioning tours, activities, cooking classes, day trips
+- `<!-- WIDGET:getyourguide -->` — after mentioning guided tours, food tours, walking tours
+- `<!-- WIDGET:12go -->` — after mentioning buses, trains, ferries, transport between cities
+- `<!-- WIDGET:saily -->` — after mentioning SIM cards, eSIM, internet, staying connected
+- `<!-- WIDGET:trip -->` — after mentioning flights, airports, flying
+- `<!-- WIDGET:tip:Your practical tip text here -->` — for non-commercial travel advice
 
 RULES:
 - Place widgets AFTER a relevant paragraph, before the next section
@@ -568,6 +582,7 @@ RULES:
 - Minimum: 1x booking + 1x activity (klook or getyourguide) + 1 other
 - Maximum: 5 widgets total
 - The tip widget text should be a short, practical piece of advice (1-2 sentences max)
+- ALWAYS use HTML comment syntax <!-- WIDGET:type --> — NEVER write WIDGET as plain text, list item, or markdown
 
 8. FAQ SECTION (end of article):
 \`\`\`markdown
@@ -589,6 +604,7 @@ Summarize key points, include a clear CTA linking to a relevant go2-thailand.com
 INTERNAL LINKING (critical for SEO — MANDATORY: include 5-8 internal links naturally woven throughout the body):
 - Spread links across the article — do NOT put all links in the conclusion
 - Use natural anchor text (e.g., "Bangkok" not "click here")
+- EVERY internal link MUST have a full URL. NEVER write [Link Text] without (https://go2-thailand.com/...). If you're unsure of the URL, use the closest match from the sitemap above or omit the link entirely.
 - Link city mentions to city guide pages: e.g., [Bangkok](https://go2-thailand.com/city/bangkok/)
 - Link food mentions to food pages: e.g., [Thai street food guide](https://go2-thailand.com/food/)
 - Link island mentions to island pages: e.g., [Koh Samui](https://go2-thailand.com/islands/koh-samui/)
@@ -676,6 +692,13 @@ function parseGeneratedPost(
     /^[-*]\s*(?:City|Food|Hotels|Attractions|Weather|Islands):\s*.+$/gim,
     /^Internal linking woven through the article:?\s*$/gim,
     /^Examples? in context:?\s*$/gim,
+    // Strip "Opening paragraph" headings/labels the AI sometimes outputs as visible text
+    /^#+\s*Opening paragraph\s*$/gim,
+    /^Opening paragraph\s*$/gim,
+    // Strip meta "External links:" section headers
+    /^#+?\s*External links?:?\s*$/gim,
+    // Strip trailing "Note:" lines about prices/hours (AI meta-commentary)
+    /^Note:\s+Prices and opening hours.*$/gim,
   ];
 
   for (const pattern of instructionPatterns) {
