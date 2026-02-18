@@ -196,24 +196,27 @@ async function getNextQueuedTopic(): Promise<(QueuedTopic & { category: PostCate
     });
 
     // Find first topic not yet published
-    // Match by targetKeyword since the AI may generate a shorter slug than the full title
+    // Match by significant words from targetKeyword (strip stop words like "in", "the", "a")
+    const STOP_WORDS = new Set(["in", "the", "a", "an", "of", "for", "to", "and", "or", "is", "vs", "at", "on"]);
     const existingSlugList = [...existingSlugs];
-    for (const item of sorted) {
-      const keywordSlug = item.targetKeyword
-        .toLowerCase()
-        .replace(/[^a-z0-9]+/g, "-")
-        .replace(/^-+|-+$/g, "");
 
-      // Check if any existing slug contains the keyword (fuzzy match)
-      const alreadyPublished = existingSlugList.some(
-        (s) => s.includes(keywordSlug) || keywordSlug.includes(s.replace(/-\d{4}$/, ""))
-      );
+    for (const item of sorted) {
+      // Extract significant words from keyword
+      const keywordWords = item.targetKeyword
+        .toLowerCase()
+        .split(/\s+/)
+        .filter((w) => !STOP_WORDS.has(w) && w.length > 1);
+
+      // Check if any existing slug contains ALL significant keyword words
+      const alreadyPublished = existingSlugList.some((slug) => {
+        return keywordWords.every((word) => slug.includes(word));
+      });
 
       if (!alreadyPublished) {
-        console.log(`[content-generator] Queue: "${item.topic}" not yet published (keyword: ${keywordSlug})`);
+        console.log(`[content-generator] Queue: "${item.topic}" not yet published (words: ${keywordWords.join(",")})`);
         return item;
       } else {
-        console.log(`[content-generator] Queue: "${item.topic}" already published (matched keyword: ${keywordSlug})`);
+        console.log(`[content-generator] Queue: "${item.topic}" already published (words: ${keywordWords.join(",")})`);
       }
     }
 
