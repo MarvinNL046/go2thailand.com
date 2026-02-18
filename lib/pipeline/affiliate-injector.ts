@@ -314,16 +314,37 @@ function renderCtaBox(box: CtaBox): string {
     nordpass: { bg: '#FDF2F8', border: '#DB2777', btn: '#BE185D', btnHover: '#9D174D' },
   };
 
+  const qrCodes: Record<AffiliatePartner, string> = {
+    booking: '/images/qrcodes/qrcode-booking.com.jpeg',
+    klook: '/images/qrcodes/qrcode-klook.jpeg',
+    getyourguide: '/images/qrcodes/qrcode-gyg-1.jpeg',
+    '12go': '/images/qrcodes/qrcode-12go.jpeg',
+    saily: '/images/qrcodes/qrcode-saily-1.jpeg',
+    trip: '',
+    viator: '/images/qrcodes/qrcode-viator.jpeg',
+    nordvpn: '/images/qrcodes/qrcode-nordvpn.jpeg',
+    nordpass: '/images/qrcodes/qrcode-nordpass.jpeg',
+  };
+
   const c = colors[box.partner];
+  const qr = qrCodes[box.partner];
+
+  const qrHtml = qr ? `
+    <a href="${url}" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+      <img src="${qr}" alt="Scan to visit ${box.heading}" style="width:72px;height:72px;border-radius:8px;border:1px solid ${c.border}33;" />
+      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
+    </a>` : '';
 
   return `<div data-widget-fallback style="background:${c.bg};border-left:4px solid ${c.border};border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:12px;">
-    <span style="font-size:28px;line-height:1;">${box.emoji}</span>
+  <div style="display:flex;align-items:flex-start;gap:16px;">
     <div style="flex:1;">
-      <strong style="font-size:18px;color:#1F2937;display:block;margin-bottom:6px;">${box.heading}</strong>
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+        <span style="font-size:28px;line-height:1;">${box.emoji}</span>
+        <strong style="font-size:18px;color:#1F2937;">${box.heading}</strong>
+      </div>
       <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">${box.body}</p>
-      <a href="${url}" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:${c.btn};color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;transition:background 0.2s;">${box.cta}</a>
-    </div>
+      <a href="${url}" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:${c.btn};color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">${box.cta}</a>
+    </div>${qrHtml}
   </div>
 </div>`;
 }
