@@ -230,6 +230,7 @@ export interface InjectionOptions {
   inlineLinks?: boolean;   // Inject inline affiliate links (default: true)
   ctaBoxes?: boolean;      // Inject CTA blockquote boxes (default: true)
   ctaCount?: number;       // Number of CTA boxes to inject (default: 2)
+  processWidgets?: boolean; // Process <!-- WIDGET:type --> placeholders (default: true)
 }
 
 export function injectAffiliateLinks(
@@ -240,9 +241,15 @@ export function injectAffiliateLinks(
     inlineLinks = true,
     ctaBoxes = true,
     ctaCount = 2,
+    processWidgets = true,
   } = options;
 
   let result = content;
+
+  // Process AI-placed widget placeholders first so they render before automatic CTA injection
+  if (processWidgets) {
+    result = processWidgetPlaceholders(result);
+  }
 
   if (inlineLinks) {
     result = injectInlineLinks(result);
@@ -261,7 +268,65 @@ export function injectAffiliateLinks(
 
 function renderCtaBox(box: CtaBox): string {
   const url = AFFILIATE_LINKS[box.partner];
-  return `> ${box.emoji} **${box.heading}**\n> ${box.body}\n> [${box.cta}](${url})`;
+
+  const colors: Record<AffiliatePartner, { bg: string; border: string; btn: string; btnHover: string }> = {
+    booking: { bg: '#EFF6FF', border: '#3B82F6', btn: '#2563EB', btnHover: '#1D4ED8' },
+    klook: { bg: '#F0FDF4', border: '#22C55E', btn: '#16A34A', btnHover: '#15803D' },
+    getyourguide: { bg: '#FFF7ED', border: '#F97316', btn: '#EA580C', btnHover: '#C2410C' },
+    '12go': { bg: '#FFFBEB', border: '#F59E0B', btn: '#D97706', btnHover: '#B45309' },
+    saily: { bg: '#FAF5FF', border: '#A855F7', btn: '#9333EA', btnHover: '#7E22CE' },
+    trip: { bg: '#F0F9FF', border: '#0EA5E9', btn: '#0284C7', btnHover: '#0369A1' },
+  };
+
+  const c = colors[box.partner];
+
+  return `<div style="background:${c.bg};border-left:4px solid ${c.border};border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:12px;">
+    <span style="font-size:28px;line-height:1;">${box.emoji}</span>
+    <div style="flex:1;">
+      <strong style="font-size:18px;color:#1F2937;display:block;margin-bottom:6px;">${box.heading}</strong>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">${box.body}</p>
+      <a href="${url}" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:${c.btn};color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;transition:background 0.2s;">${box.cta}</a>
+    </div>
+  </div>
+</div>`;
+}
+
+// -------------------------------------------------------------------
+// Widget placeholder processing
+// -------------------------------------------------------------------
+
+// Replace <!-- WIDGET:type --> and <!-- WIDGET:tip:text --> placeholders with styled HTML
+export function processWidgetPlaceholders(content: string): string {
+  const { frontmatter, body } = splitFrontmatter(content);
+
+  let processedBody = body;
+
+  // Replace partner widget placeholders
+  for (const box of CTA_BOXES) {
+    const placeholder = `<!-- WIDGET:${box.partner} -->`;
+    if (processedBody.includes(placeholder)) {
+      processedBody = processedBody.replace(placeholder, renderCtaBox(box));
+    }
+  }
+
+  // Replace tip widget placeholders: <!-- WIDGET:tip:Your tip text here -->
+  processedBody = processedBody.replace(
+    /<!-- WIDGET:tip:(.+?) -->/g,
+    (_, tipText) => {
+      return `<div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:12px;">
+    <span style="font-size:28px;line-height:1;">💡</span>
+    <div style="flex:1;">
+      <strong style="font-size:18px;color:#92400E;display:block;margin-bottom:6px;">Pro Tip</strong>
+      <p style="color:#78350F;margin:0;font-size:15px;line-height:1.5;">${tipText}</p>
+    </div>
+  </div>
+</div>`;
+    }
+  );
+
+  return frontmatter + processedBody;
 }
 
 // Select CTA boxes most relevant to the post content

@@ -433,6 +433,14 @@ function buildPrompt(
   const today = new Date().toISOString().split("T")[0];
   const year = new Date().getFullYear();
 
+  let widgetReference = '';
+  try {
+    const refPath = path.join(process.cwd(), 'content', 'writer-reference.md');
+    if (fs.existsSync(refPath)) {
+      widgetReference = fs.readFileSync(refPath, 'utf-8');
+    }
+  } catch { /* ignore */ }
+
   const categoryInstructions: Record<PostCategory, string> = {
     "city-guide":
       "Write an in-depth city/destination guide. Cover neighborhoods, top sights, where to eat, where to stay, and practical tips. Structure chronologically or by area. Include a 1-day and 3-day itinerary suggestion.",
@@ -536,13 +544,25 @@ Each section must have:
 | **Option B** | Description | THB X | ⭐⭐⭐⭐ |
 \`\`\`
 
-7. AFFILIATE INTEGRATION POINTS:
-The AI must naturally include references to:
-- Hotel/accommodation recommendations (Booking.com links will be injected)
-- Tour/activity suggestions (Klook/GetYourGuide links will be injected)
-- Transport tips (12Go Asia links will be injected)
-- eSIM/SIM card tip (Saily links will be injected)
-Write these mentions naturally within the content — the affiliate links will be automatically injected afterward.
+7. WIDGET PLACEMENT (MANDATORY — place 3-5 widgets throughout the article):
+Place these HTML comment placeholders in your output where you want a styled widget box to appear.
+They will be automatically replaced with beautiful styled components.
+
+Available widgets:
+- <!-- WIDGET:booking --> — after mentioning hotels, accommodation, where to stay
+- <!-- WIDGET:klook --> — after mentioning tours, activities, cooking classes, day trips
+- <!-- WIDGET:getyourguide --> — after mentioning guided tours, food tours, walking tours
+- <!-- WIDGET:12go --> — after mentioning buses, trains, ferries, transport between cities
+- <!-- WIDGET:saily --> — after mentioning SIM cards, eSIM, internet, staying connected
+- <!-- WIDGET:trip --> — after mentioning flights, airports, flying
+- <!-- WIDGET:tip:Your practical tip text here --> — for non-commercial travel advice
+
+RULES:
+- Place widgets AFTER a relevant paragraph, before the next section
+- Never place two widgets back-to-back — always have text between them
+- Minimum: 1x booking + 1x activity (klook or getyourguide) + 1 other
+- Maximum: 5 widgets total
+- The tip widget text should be a short, practical piece of advice (1-2 sentences max)
 
 8. FAQ SECTION (end of article):
 \`\`\`markdown
@@ -574,7 +594,7 @@ INTERNAL LINKING (critical for SEO — MANDATORY: include 5-8 internal links nat
 
 Available internal links (use the most relevant ones):
 ${sitemapLinks}
-
+${widgetReference ? `\nWRITER REFERENCE (additional context):\n${widgetReference}\n` : ''}
 ---
 
 E-E-A-T SIGNALS (critical for Google trust):
@@ -598,6 +618,8 @@ ANTI-HALLUCINATION RULES (CRITICAL — FOLLOW EXACTLY):
 6. If the reference data contradicts common assumptions, ALWAYS prefer the reference data.
 7. Every "Did You Know" callout MUST have a real, verifiable source link — not a made-up one.
 8. Be honest: "Based on our research..." is better than fabricating a firsthand experience you don't have data for.
+9. NEVER output meta-instructions, content strategy notes, or behind-the-scenes commentary. Your output must be ONLY the blog post that a reader would see. Do NOT include sections like "Affiliate Integration Points", "Internal linking notes", or "Examples in context".
+10. NEVER mention "Booking.com", "Klook", "GetYourGuide", "12Go Asia", "Saily", or "Trip.com" by brand name. Just describe the travel action naturally — the brand names and links are added automatically after your writing.
 
 ---
 
@@ -637,6 +659,26 @@ function parseGeneratedPost(
   // The AI sometimes wraps tables in fenced blocks which prevents rendering.
   // Pattern: ```[optional lang]\n<table content>\n```  → just <table content>
   content = content.replace(/```(?:markdown|md|)?\s*\n((?:[^\n]*\|[^\n]*\n)+)```/g, "$1");
+
+  // Strip leaked AI instructions / meta-commentary that shouldn't appear in published content
+  const instructionPatterns = [
+    /^#+\s*Affiliate Integration Points.*$/gim,
+    /^#+\s*Internal [Ll]inking.*$/gim,
+    /\((?:in-text reference|link[s]? injected|links? will be injected|naturally woven)[^)]*\)/gi,
+    /\([^)]*will be injected[^)]*\)/gi,
+    /\([^)]*injected on publish[^)]*\)/gi,
+    /^[-*]\s*(?:Hotel\/accommodation|Tour\/activity|Transport tips|eSIM\/SIM|City:|Food:|Hotels:|Attractions:|Weather:|Islands:)\s*:.*(?:injected|woven|links?).*$/gim,
+    /^[-*]\s*(?:City|Food|Hotels|Attractions|Weather|Islands):\s*.+$/gim,
+    /^Internal linking woven through the article:?\s*$/gim,
+    /^Examples? in context:?\s*$/gim,
+  ];
+
+  for (const pattern of instructionPatterns) {
+    content = content.replace(pattern, '');
+  }
+
+  // Clean up excessive blank lines left by removals
+  content = content.replace(/\n{4,}/g, '\n\n\n');
 
   // Extract YAML frontmatter
   const fmMatch = content.match(/^---\s*\n([\s\S]*?)\n---/);

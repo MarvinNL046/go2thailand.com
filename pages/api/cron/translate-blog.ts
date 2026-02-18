@@ -31,10 +31,15 @@ export default async function handler(
     const allLocales = ["nl", "zh", "de", "fr", "ru", "ja", "ko"];
     const enFiles = fs.readdirSync(enDir).filter((f) => f.endsWith(".md"));
 
-    // Check most recent files first
+    // Sort by frontmatter date (newest first) — mtime is unreliable on Vercel
     const sorted = enFiles
-      .map((f) => ({ name: f, mtime: fs.statSync(path.join(enDir, f)).mtimeMs }))
-      .sort((a, b) => b.mtime - a.mtime);
+      .map((f) => {
+        const content = fs.readFileSync(path.join(enDir, f), "utf-8");
+        const dateMatch = content.match(/^date:\s*["']?(\d{4}-\d{2}-\d{2})["']?\s*$/m);
+        const date = dateMatch?.[1] || "1970-01-01";
+        return { name: f, date };
+      })
+      .sort((a, b) => b.date.localeCompare(a.date));
 
     let translated = false;
 
