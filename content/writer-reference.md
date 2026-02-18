@@ -66,3 +66,15 @@ Use for practical travel tips, warnings, or insider advice.
 | Viator | https://viator.tpo.lv/TUcQTS5u | Popular tours, sightseeing |
 | NordVPN | https://nordvpn.tpo.lv/ekHF1i55 | VPN for travel security |
 | NordPass | https://nordvpn.tpo.lv/tp12zNjC | Password manager |
+
+## Specific Context Widgets
+
+These widgets are automatically matched, but you can encourage them by mentioning the right topics:
+
+| Context | Triggers | Affiliate |
+|---------|----------|-----------|
+| Car rental | "rent a car", "car rental" | Booking.com Car Rental |
+| Airport transfers | "airport transfer", "airport taxi" | Trip.com Transfers |
+| Train tickets | "train to Chiang Mai", "Thai railway" | Trip.com Trains |
+| Hotel deals | "hotel deals", "discount hotel" | Booking.com Deals |
+| Flight + hotel | "package deal", "hotel and flight" | Trip.com Bundles |

@@ -27,6 +27,19 @@ export const AFFILIATE_LINKS = {
 
 export type AffiliatePartner = keyof typeof AFFILIATE_LINKS;
 
+// Specific deep links for contextual matching
+export const SPECIFIC_AFFILIATE_LINKS = {
+  // Booking.com specific pages
+  "booking-deals": "https://booking.tpo.lv/pDNjHJA1",
+  "booking-flights": "https://booking.tpo.lv/LUkugxWF",
+  "booking-car-rental": "https://booking.tpo.lv/Nmm5XgwI",
+  // Trip.com specific pages
+  "trip-trains": "https://trip.tpo.lv/gNIdNBmi",
+  "trip-bundles": "https://trip.tpo.lv/L83mcBdE",
+  "trip-airport-transfers": "https://trip.tpo.lv/hY8hOUey",
+  "trip-car-rental": "https://trip.tpo.lv/zGKhdcce",
+} as const;
+
 // -------------------------------------------------------------------
 // Keyword → affiliate mapping
 // -------------------------------------------------------------------
@@ -36,10 +49,36 @@ interface AffiliateRule {
   partner: AffiliatePartner;
   // Text to use for the inline link anchor
   linkText: string;
+  overrideUrl?: string; // Use this URL instead of the generic partner URL
 }
 
 // Rules are evaluated in order — first match wins for inline injection
 const AFFILIATE_RULES: AffiliateRule[] = [
+  // Specific deep-link rules (evaluated first, before generic partner rules)
+  {
+    pattern: /\b(car rental|rent a car|hire a car|rental car)\b/i,
+    partner: "booking" as AffiliatePartner,
+    linkText: "Rent a Car on Booking.com",
+    overrideUrl: "https://booking.tpo.lv/Nmm5XgwI",
+  },
+  {
+    pattern: /\b(airport transfer|airport shuttle|airport taxi|airport pickup|airport drop)\b/i,
+    partner: "trip" as AffiliatePartner,
+    linkText: "Book Airport Transfer",
+    overrideUrl: "https://trip.tpo.lv/hY8hOUey",
+  },
+  {
+    pattern: /\b(train to|train from|Thai train|railway|train route|train station|Hua Lamphong|Bang Sue)\b/i,
+    partner: "trip" as AffiliatePartner,
+    linkText: "Book Train on Trip.com",
+    overrideUrl: "https://trip.tpo.lv/gNIdNBmi",
+  },
+  {
+    pattern: /\b(hotel.*deal|travel deal|best deal|discount hotel|cheap hotel|hotel offer|last.?minute)\b/i,
+    partner: "booking" as AffiliatePartner,
+    linkText: "See Deals on Booking.com",
+    overrideUrl: "https://booking.tpo.lv/pDNjHJA1",
+  },
   // eSIM / SIM Card → Saily
   {
     pattern: /\b(eSIM|e-SIM|SIM card|data SIM|travel SIM|mobile data|internet connection|stay connected)\b/i,
@@ -99,6 +138,7 @@ interface CtaBox {
   heading: string;
   body: string;
   cta: string;
+  overrideUrl?: string;
 }
 
 const CTA_BOXES: CtaBox[] = [
@@ -165,6 +205,30 @@ const CTA_BOXES: CtaBox[] = [
     body: "Travel stress-free with NordPass — a secure password manager that keeps all your accounts safe.",
     cta: "Get NordPass →",
   },
+  {
+    partner: "booking" as AffiliatePartner,
+    emoji: "🚗",
+    heading: "Rent a Car in Thailand",
+    body: "Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.",
+    cta: "Compare Car Rentals →",
+    overrideUrl: "https://booking.tpo.lv/Nmm5XgwI",
+  },
+  {
+    partner: "trip" as AffiliatePartner,
+    emoji: "🚂",
+    heading: "Book Train Tickets in Thailand",
+    body: "Thai railway tickets from Bangkok to Chiang Mai, Hua Hin, and beyond. Book online, skip the queue.",
+    cta: "Book Train Tickets →",
+    overrideUrl: "https://trip.tpo.lv/gNIdNBmi",
+  },
+  {
+    partner: "trip" as AffiliatePartner,
+    emoji: "🚕",
+    heading: "Airport Transfers in Thailand",
+    body: "Pre-book your airport pickup in Bangkok, Phuket, or Chiang Mai. No haggling, fixed prices.",
+    cta: "Book Airport Transfer →",
+    overrideUrl: "https://trip.tpo.lv/hY8hOUey",
+  },
 ];
 
 // -------------------------------------------------------------------
@@ -186,7 +250,7 @@ export function injectInlineLinks(content: string): string {
   for (const rule of AFFILIATE_RULES) {
     if (injected.has(rule.partner)) continue;
 
-    const url = AFFILIATE_LINKS[rule.partner];
+    const url = rule.overrideUrl || AFFILIATE_LINKS[rule.partner];
 
     // Find the first match in the body
     const match = rule.pattern.exec(processedBody);
@@ -300,7 +364,7 @@ export function injectAffiliateLinks(
 // -------------------------------------------------------------------
 
 function renderCtaBox(box: CtaBox): string {
-  const url = AFFILIATE_LINKS[box.partner];
+  const url = box.overrideUrl || AFFILIATE_LINKS[box.partner];
 
   const colors: Record<AffiliatePartner, { bg: string; border: string; btn: string; btnHover: string }> = {
     booking: { bg: '#EFF6FF', border: '#3B82F6', btn: '#2563EB', btnHover: '#1D4ED8' },

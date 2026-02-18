@@ -439,6 +439,11 @@ function buildPrompt(
     if (fs.existsSync(refPath)) {
       widgetReference = fs.readFileSync(refPath, 'utf-8');
     }
+    // Also load the full affiliate reference with all links and widget scripts
+    const affRefPath = path.join(process.cwd(), 'content', 'affiliate-reference.txt');
+    if (fs.existsSync(affRefPath)) {
+      widgetReference += '\n\n---\nFULL AFFILIATE & WIDGET REFERENCE:\n' + fs.readFileSync(affRefPath, 'utf-8');
+    }
   } catch { /* ignore */ }
 
   const categoryInstructions: Record<PostCategory, string> = {
