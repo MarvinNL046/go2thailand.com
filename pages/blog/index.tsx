@@ -231,7 +231,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
 
               {/* Sidebar */}
               <aside>
-                <div className="lg:sticky lg:top-16 space-y-8 lg:max-h-[calc(100vh-5rem)] lg:overflow-y-auto">
+                <div className="lg:sticky lg:top-16 space-y-8">
                 {/* Newsletter Signup */}
                 <div className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark text-white rounded-lg p-6">
                   <h3 className="text-xl font-bold mb-2">Stay Updated</h3>
@@ -407,6 +407,7 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
     props: {
       posts,
       categories
-    }
+    },
+    revalidate: 60, // ISR: revalidate every 60 seconds so new posts appear quickly
   };
 };
