@@ -37,7 +37,7 @@ export default async function handler(
       content,
       title,
       locales,
-      model = "gpt-5-nano",
+      model = "claude-haiku",
     } = req.body as {
       slug: string;
       content: string; // English Markdown content

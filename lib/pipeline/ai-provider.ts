@@ -55,8 +55,25 @@ export async function generateContent(
     }
   }
 
+  // Fallback: if Claude failed, try OpenAI (and vice versa)
+  if (model === "claude-haiku" && process.env.OPENAI_API_KEY) {
+    console.log("[ai-provider] Claude failed, falling back to GPT-5-nano");
+    try {
+      return await callOpenAI(prompt, maxTokens, 1); // GPT-5-nano only supports temp=1
+    } catch (fallbackErr) {
+      console.error("[ai-provider] OpenAI fallback also failed:", fallbackErr);
+    }
+  } else if (model === "gpt-5-nano" && process.env.ANTHROPIC_API_KEY) {
+    console.log("[ai-provider] OpenAI failed, falling back to Claude Haiku");
+    try {
+      return await callClaude(prompt, maxTokens, temperature);
+    } catch (fallbackErr) {
+      console.error("[ai-provider] Claude fallback also failed:", fallbackErr);
+    }
+  }
+
   throw new Error(
-    `AI generation failed after ${MAX_RETRIES} attempts: ${lastError?.message}`
+    `AI generation failed after ${MAX_RETRIES} attempts + fallback: ${lastError?.message}`
   );
 }
 

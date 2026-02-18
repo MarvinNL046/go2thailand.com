@@ -32,7 +32,7 @@ export default async function handler(
   try {
     const {
       topic,
-      model = "gpt-5-nano",
+      model = "claude-haiku",
       publish = false,
     } = req.body as {
       topic?: string;

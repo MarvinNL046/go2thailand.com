@@ -77,7 +77,7 @@ export default async function handler(
           content: enContent,
           title,
           locales: localesToTranslate,
-          model: "gpt-5-nano",
+          model: "claude-haiku",
         }),
       });
 

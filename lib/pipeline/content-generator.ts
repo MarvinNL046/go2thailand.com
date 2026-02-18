@@ -168,7 +168,7 @@ export async function selectTopic(
 export async function generateBlogPost(
   options: BlogPostOptions = {}
 ): Promise<GeneratedPost> {
-  const model = options.model || "gpt-5-nano";
+  const model = options.model || "claude-haiku";
   const doScrape = options.scrapeContext !== false;
   const doImage = options.generateImage !== false;
 
@@ -243,7 +243,7 @@ export async function generateBlogPost(
 export async function translatePost(
   post: GeneratedPost,
   targetLocale: TranslationLocale,
-  model: AiModel = "gpt-5-nano"
+  model: AiModel = "claude-haiku"
 ): Promise<TranslatedPost> {
   const localeNames: Record<TranslationLocale, string> = {
     nl: "Dutch",
@@ -288,7 +288,7 @@ ${post.content}`;
 // Translate a post to ALL 7 non-English locales
 export async function translatePostToAllLocales(
   post: GeneratedPost,
-  model: AiModel = "gpt-5-nano"
+  model: AiModel = "claude-haiku"
 ): Promise<TranslatedPost[]> {
   const results: TranslatedPost[] = [];
 

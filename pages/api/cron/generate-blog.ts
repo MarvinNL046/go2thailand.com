@@ -27,7 +27,7 @@ export default async function handler(
         "x-pipeline-key": process.env.PIPELINE_SECRET || "",
       },
       body: JSON.stringify({
-        model: "gpt-5-nano",
+        model: "claude-haiku",
         publish: true,
       }),
     });
