@@ -263,7 +263,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                   <span className="font-medium">Discover {toCity.name.en}</span>
                   <span className="text-orange-500">→</span>
                 </Link>
-                {route.from !== 'bangkok' && (
+                {route.from !== 'bangkok' && toCity.slug !== 'bangkok' && transportRoutes.routes.some(r => r.slug === `bangkok-to-${toCity.slug}`) && (
                   <Link href={`/transport/bangkok-to-${toCity.slug}`} className="flex items-center justify-between p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors">
                     <span className="font-medium">Bangkok to {toCity.name.en}</span>
                     <span className="text-orange-500">→</span>

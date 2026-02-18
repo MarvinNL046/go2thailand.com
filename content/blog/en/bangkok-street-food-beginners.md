@@ -26,13 +26,13 @@ sources:
 
 ## Bangkok Street Food for Beginners
 
-**Bangkok** is arguably the **street food capital of the world**. From sizzling woks on **Yaowarat Road** to humble noodle carts tucked into side streets, the city offers an overwhelming number of choices for every palate and budget. If you have never eaten from a **Thai street stall** before, this guide will help you navigate the experience with confidence. Whether you are planning your [first trip to Bangkok](/cities/bangkok/) or returning for another round, **Bangkok street food** is the single best reason to visit.
+**Bangkok** is arguably the **street food capital of the world**. From sizzling woks on **Yaowarat Road** to humble noodle carts tucked into side streets, the city offers an overwhelming number of choices for every palate and budget. If you have never eaten from a **Thai street stall** before, this guide will help you navigate the experience with confidence. Whether you are planning your [first trip to Bangkok](/city/bangkok/) or returning for another round, **Bangkok street food** is the single best reason to visit.
 
 ### Key Takeaways
 
 | Question | Key Answer |
 |----------|------------|
-| What makes Bangkok street food special? | **Michelin-quality dishes** from vendors who have perfected single recipes for decades -- all for **30-80 THB** per dish. See our full [Bangkok city guide](/cities/bangkok/) for more. |
+| What makes Bangkok street food special? | **Michelin-quality dishes** from vendors who have perfected single recipes for decades -- all for **30-80 THB** per dish. See our full [Bangkok city guide](/city/bangkok/) for more. |
 | What are the must-try dishes? | Start with **Pad Thai**, **Khao Man Gai**, and **Mango Sticky Rice** -- explore all signature dishes in our [Thai food section](/food/). |
 | Where are the best street food areas? | **Yaowarat (Chinatown)** for night market seafood, **Or Tor Kor Market** for premium quality, and **Victory Monument** for budget eats. |
 | Is Bangkok street food safe to eat? | Yes -- **millions of locals eat it daily**. Stick to busy stalls with high turnover and food cooked to order. Read our [safety tips](/practical-info/scams-safety/). |
@@ -92,7 +92,7 @@ The streets around **Silom Road** and Convent Road fill up at lunchtime with off
 
 The roundabout area has a dense concentration of **food stalls** serving everything from **boat noodles** to Thai-style crepes. A favourite among Bangkok university students and one of the best spots for **budget eating** in the city.
 
-Read our full [Bangkok city guide](/cities/bangkok/) for more neighbourhood recommendations.
+Read our full [Bangkok city guide](/city/bangkok/) for more neighbourhood recommendations.
 
 ## 4. How to Order Street Food
 
@@ -155,7 +155,7 @@ For more **budget tips** on accommodation, transport, and activities, check our 
 
 ## 8. Beyond Bangkok
 
-Once you have mastered **Bangkok's street food scene**, explore the **regional specialties** across Thailand. Northern Thai food in [Chiang Mai](/cities/chiang-mai/) features dishes like **khao soi** (curry noodles) and **sai oua** (herb sausage). Southern food near [Krabi](/cities/krabi/) and [Phuket](/islands/phuket/) leans heavier on turmeric, seafood, and fiery curries.
+Once you have mastered **Bangkok's street food scene**, explore the **regional specialties** across Thailand. Northern Thai food in [Chiang Mai](/city/chiang-mai/) features dishes like **khao soi** (curry noodles) and **sai oua** (herb sausage). Southern food near [Krabi](/city/krabi/) and [Phuket](/city/phuket/) leans heavier on turmeric, seafood, and fiery curries.
 
 The [Thai islands](/islands/) also have excellent seafood -- imagine freshly grilled prawns on the beach at sunset. Plan your route with our [island hopping guide](/blog/thailand-island-hopping-guide/) and check the [weather guide](/weather/) to pick the right season. Do not forget to grab a [Thailand eSIM](/esim/) so you can look up food recommendations on the go, even on remote islands.
 
@@ -165,4 +165,4 @@ Explore our full [food section](/food/) for dish guides, recipes, and regional r
 
 **Bangkok street food** is safe, delicious, cheap, and endlessly varied. Do not overthink it. Walk up to a stall, point at something that looks good, and enjoy one of the world's great **culinary traditions** for the price of a coffee back home. With the right [travel insurance](/travel-insurance/) and a sense of adventure, your stomach will thank you.
 
-Ready to plan your trip? Start with our [Bangkok city guide](/cities/bangkok/), figure out the [best time to visit](/blog/best-time-to-visit-thailand/), and explore [practical info](/practical-info/scams-safety/) to make your journey smooth from landing to your last bite of **mango sticky rice**.
+Ready to plan your trip? Start with our [Bangkok city guide](/city/bangkok/), figure out the [best time to visit](/blog/best-time-to-visit-thailand/), and explore [practical info](/practical-info/scams-safety/) to make your journey smooth from landing to your last bite of **mango sticky rice**.

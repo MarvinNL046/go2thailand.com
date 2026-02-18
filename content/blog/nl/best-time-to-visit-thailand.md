@@ -36,7 +36,7 @@ Het korte antwoord: **november tot en met februari** is het **hoogseizoen** met 
 | Wanneer is de goedkoopste tijd om te gaan? | **Juni tot oktober** tijdens het **regenseizoen** biedt de laagste prijzen voor vluchten, hotels en tours -- zie onze [backpacker budgetgids](/blog/thailand-budget-backpacker-guide/) |
 | Kun je tijdens de **moesson** nog naar de eilanden? | Ja -- de **Golfeilanden** zoals [Koh Samui](/islands/koh-samui/) en [Koh Tao](/islands/koh-tao/) hebben rustiger weer wanneer de Andaman-kust nat is |
 | Wanneer is het **beste eilandhop-seizoen**? | **December tot april** voor de Andamanse Zee ([Koh Phi Phi](/islands/koh-phi-phi/), [Koh Lanta](/islands/koh-lanta/), [Koh Lipe](/islands/koh-lipe/)); **januari tot augustus** voor de Golf -- ontdek alle [eilanden](/islands/) |
-| Wanneer zijn de grote festivals? | **Songkran** (Thais Nieuwjaar) in april en **Loy Krathong** (drijvende lantaarns) in november -- beide worden landsbreed gevierd, onder meer in [Bangkok](/cities/bangkok/) en [Chiang Mai](/cities/chiang-mai/) |
+| Wanneer zijn de grote festivals? | **Songkran** (Thais Nieuwjaar) in april en **Loy Krathong** (drijvende lantaarns) in november -- beide worden landsbreed gevierd, onder meer in [Bangkok](/city/bangkok/) en [Chiang Mai](/city/chiang-mai/) |
 | Heb ik een visum nodig? | De meeste nationaliteiten krijgen 60 dagen visumvrij; check onze [Thailand visumgids](/blog/thailand-visa-guide-2026/) voor alle details |
 | Wat moet ik inpakken voor het regenseizoen? | Een lichte regenjas, waterdicht telefoonhoesje en sneldrogende kleding -- zie onze [praktische reistips](/practical-info/) voor een volledige paklijst |
 
@@ -46,7 +46,7 @@ Thailand heeft niet de vier seizoenen die je gewend bent. In plaats daarvan is h
 
 ### Hete Seizoen (maart - mei)
 - Temperaturen bereiken regelmatig **35-40+ graden**, met april als de heetste maand
-- De luchtvochtigheid is hoog en de hitte kan uitputtend zijn, vooral in [Bangkok](/cities/bangkok/)
+- De luchtvochtigheid is hoog en de hitte kan uitputtend zijn, vooral in [Bangkok](/city/bangkok/)
 - Minder toeristen en betere hoteldeals
 - **Songkran** (Thais Nieuwjaar-waterfeest) in april is een groot hoogtepunt -- het grootste festival van het land
 - Uitstekende tijd voor **Golfkust**-stranden zoals [Koh Samui](/islands/koh-samui/) en [Koh Phangan](/islands/koh-phangan/)
@@ -66,21 +66,21 @@ Thailand heeft niet de vier seizoenen die je gewend bent. In plaats daarvan is h
 - **Hoogseizoen** -- hoogste prijzen en meeste drukte
 - Ideaal voor strandvakanties, **eilandhoppen** en buitenactiviteiten
 - Het **beste eilandhop-seizoen** loopt door deze hele periode -- zie onze [eilandhop-gids](/blog/thailand-island-hopping-guide/) voor routes en tips
-- Perfect weer om [Chiang Mai](/cities/chiang-mai/) en Noord-Thailand te voet te verkennen
+- Perfect weer om [Chiang Mai](/city/chiang-mai/) en Noord-Thailand te voet te verkennen
 
 ## 2. Maand-voor-Maand Gids
 
 ### Januari
 **Weer:** Koel en droog in het hele land. Een van de beste maanden over het algemeen.
-**Ideaal voor:** Stranden, **eilandhoppen**, steden verkennen in [Bangkok](/cities/bangkok/) en [Chiang Mai](/cities/chiang-mai/)
+**Ideaal voor:** Stranden, **eilandhoppen**, steden verkennen in [Bangkok](/city/bangkok/) en [Chiang Mai](/city/chiang-mai/)
 **Drukte:** **Hoogseizoen** -- boek accommodatie en [veerboten](/transport/) van tevoren
 **Evenementen:** Nieuwjaarsvieringen lopen door tot begin januari
 
 ### Februari
 **Weer:** Droog en aangenaam. Iets warmer dan januari.
-**Ideaal voor:** [Andaman-eilanden](/islands/) ([Koh Phi Phi](/islands/koh-phi-phi/), [Krabi](/cities/krabi/), [Koh Lanta](/islands/koh-lanta/)), trekking in het noorden
+**Ideaal voor:** [Andaman-eilanden](/islands/) ([Koh Phi Phi](/islands/koh-phi-phi/), [Krabi](/city/krabi/), [Koh Lanta](/islands/koh-lanta/)), trekking in het noorden
 **Drukte:** Nog steeds **hoogseizoen** maar iets minder intens dan december-januari
-**Evenementen:** Chinees Nieuwjaar in [Bangkoks](/cities/bangkok/) Chinatown en [Phuket](/cities/phuket/)
+**Evenementen:** Chinees Nieuwjaar in [Bangkoks](/city/bangkok/) Chinatown en [Phuket](/city/phuket/)
 
 ### Maart
 **Weer:** Het **hete seizoen** begint. Temperaturen stijgen naar 33-37 graden.
@@ -94,7 +94,7 @@ Thailand heeft niet de vier seizoenen die je gewend bent. In plaats daarvan is h
 **Drukte:** **Songkran**-week (13-15 april) is enorm druk voor binnenlands toerisme
 **Evenementen:** **Songkran** -- het grootste festival van Thailand. Massale watergevechten in elke stad. De [Thaise food scene](/food/) is op zijn best tijdens het festivalseizoen met speciale gerechten en streetfoodkraampjes overal.
 
-> **Pro Tip:** **Songkran** in [Chiang Mai](/cities/chiang-mai/) is het beroemdst en duurt bijna een hele week. [Bangkoks](/cities/bangkok/) Khao San Road en Silom Road zijn ook legendarisch. Bescherm je elektronica in waterdichte tassen -- je wordt sowieso doorweekt. Lees onze [praktische reistips](/practical-info/) voor meer advies over het overleven van **Songkran**.
+> **Pro Tip:** **Songkran** in [Chiang Mai](/city/chiang-mai/) is het beroemdst en duurt bijna een hele week. [Bangkoks](/city/bangkok/) Khao San Road en Silom Road zijn ook legendarisch. Bescherm je elektronica in waterdichte tassen -- je wordt sowieso doorweekt. Lees onze [praktische reistips](/practical-info/) voor meer advies over het overleven van **Songkran**.
 
 ### Mei
 **Weer:** Het **regenseizoen** begint aan de Andaman-kust. De Golfkust is nog grotendeels droog.
@@ -104,7 +104,7 @@ Thailand heeft niet de vier seizoenen die je gewend bent. In plaats daarvan is h
 
 ### Juni
 **Weer:** Regen neemt toe in het hele land. De **Andamanse Zee** kan ruw zijn.
-**Ideaal voor:** Golfeilanden (kalmere zee), Noord-Thailand inclusief [Chiang Mai](/cities/chiang-mai/) (koeler dan april-mei)
+**Ideaal voor:** Golfeilanden (kalmere zee), Noord-Thailand inclusief [Chiang Mai](/city/chiang-mai/) (koeler dan april-mei)
 **Drukte:** Laagseizoen -- zeer weinig toeristen
 **Evenementen:** Rustige maand qua festivals. Een prima moment om van [Thais eten](/food/) te genieten zonder drukte.
 
@@ -116,15 +116,15 @@ Thailand heeft niet de vier seizoenen die je gewend bent. In plaats daarvan is h
 
 ### Augustus
 **Weer:** Vergelijkbaar met juli. Zware regen aan de Andaman-kust; Golfkust is beter.
-**Ideaal voor:** [Koh Samui](/islands/koh-samui/) en Golfeilanden, [Chiang Mai](/cities/chiang-mai/) (groen en weelderig)
+**Ideaal voor:** [Koh Samui](/islands/koh-samui/) en Golfeilanden, [Chiang Mai](/city/chiang-mai/) (groen en weelderig)
 **Drukte:** Laagseizoen. Uitstekende waarde.
 **Evenementen:** Verjaardag van de Koningin / Moederdag (12 augustus)
 
 ### September
 **Weer:** De natste maand, vooral aan de Andaman-kust. Af en toe overstromingen in laaggelegen gebieden.
-**Ideaal voor:** Budgetreizigers die niet bang zijn voor regen, cultureel toerisme in [Bangkok](/cities/bangkok/)
+**Ideaal voor:** Budgetreizigers die niet bang zijn voor regen, cultureel toerisme in [Bangkok](/city/bangkok/)
 **Drukte:** Laagste van het jaar -- check onze [backpacker budgetgids](/blog/thailand-budget-backpacker-guide/) voor bespaartips
-**Evenementen:** Het Vegetarisch Festival in [Phuket](/cities/phuket/) (eind sep/begin okt) -- spectaculair en uniek
+**Evenementen:** Het Vegetarisch Festival in [Phuket](/city/phuket/) (eind sep/begin okt) -- spectaculair en uniek
 
 ### Oktober
 **Weer:** Regen begint af te nemen, vooral in de tweede helft. Overgangsmaand.
@@ -136,11 +136,11 @@ Thailand heeft niet de vier seizoenen die je gewend bent. In plaats daarvan is h
 **Weer:** Het **koele seizoen** begint. Regen stopt aan de Andaman-kust. Prachtig weer.
 **Ideaal voor:** **Eilandhoppen** aan beide kusten, buitenactiviteiten, duiken rondom [Koh Tao](/islands/koh-tao/) en [Koh Lipe](/islands/koh-lipe/)
 **Drukte:** Hoogseizoen begint -- boek vooruit voor populaire eilanden via [veerboot en vervoer](/transport/)
-**Evenementen:** **Loy Krathong** -- een van de meest magische festivals van Thailand. Drijvende lantaarns en krathongs (versierde drijvers) op rivieren en kanalen. [Chiang Mai's](/cities/chiang-mai/) Yi Peng-lantaarnfestival valt er vaak mee samen.
+**Evenementen:** **Loy Krathong** -- een van de meest magische festivals van Thailand. Drijvende lantaarns en krathongs (versierde drijvers) op rivieren en kanalen. [Chiang Mai's](/city/chiang-mai/) Yi Peng-lantaarnfestival valt er vaak mee samen.
 
 ### December
 **Weer:** Koel, droog en perfect in het grootste deel van het land.
-**Ideaal voor:** Alles -- stranden op [Koh Phi Phi](/islands/koh-phi-phi/) en [Koh Lanta](/islands/koh-lanta/), tempels, trekking bij [Chiang Mai](/cities/chiang-mai/), steden verkennen in [Bangkok](/cities/bangkok/)
+**Ideaal voor:** Alles -- stranden op [Koh Phi Phi](/islands/koh-phi-phi/) en [Koh Lanta](/islands/koh-lanta/), tempels, trekking bij [Chiang Mai](/city/chiang-mai/), steden verkennen in [Bangkok](/city/bangkok/)
 **Drukte:** **Hoogseizoen**. Kerst en Nieuwjaar brengen de hoogste prijzen en de meeste drukte.
 **Evenementen:** Verjaardag van de Koning / Vaderdag (5 dec), kerst- en nieuwjaarsvieringen
 
@@ -150,27 +150,27 @@ Het [weer](/weather/) in Thailand is niet overal hetzelfde. Zo verhouden de regi
 
 | Regio | Beste maanden | Vermijden |
 |-------|--------------|-----------|
-| [Bangkok](/cities/bangkok/) & Centraal | Nov - Feb | Apr (extreme hitte) |
-| Noord ([Chiang Mai](/cities/chiang-mai/), Chiang Rai) | Nov - Feb | Mrt - Apr (smogseizoen) |
+| [Bangkok](/city/bangkok/) & Centraal | Nov - Feb | Apr (extreme hitte) |
+| Noord ([Chiang Mai](/city/chiang-mai/), Chiang Rai) | Nov - Feb | Mrt - Apr (smogseizoen) |
 | Golfkust ([Koh Samui](/islands/koh-samui/), [Koh Phangan](/islands/koh-phangan/), [Koh Tao](/islands/koh-tao/)) | Jan - Aug | Okt - Nov (stormen) |
-| Andaman-kust ([Phuket](/cities/phuket/), [Koh Phi Phi](/islands/koh-phi-phi/), [Krabi](/cities/krabi/), [Koh Lanta](/islands/koh-lanta/)) | Nov - Apr | Mei - Okt (**moesson**) |
+| Andaman-kust ([Phuket](/city/phuket/), [Koh Phi Phi](/islands/koh-phi-phi/), [Krabi](/city/krabi/), [Koh Lanta](/islands/koh-lanta/)) | Nov - Apr | Mei - Okt (**moesson**) |
 
 De belangrijkste conclusie: **de Golf- en Andaman-kust hebben tegenovergestelde seizoenen**. Als het aan de ene kant regent, is de andere kant vaak droog. Dit betekent dat er vrijwel altijd een goede strandbestemming in Thailand is, ongeacht wanneer je reist. Bekijk al onze [eilandgidsen](/islands/) om de juiste match voor jouw reisdata te vinden.
 
 ### Een Opmerking over het Smogseizoen in Noord-Thailand
 
-Van eind februari tot april verbranden boeren in Noord-Thailand en buurlanden hun landbouwgronden. Dit veroorzaakt een dikke nevel die over [Chiang Mai](/cities/chiang-mai/) en omgeving hangt. De luchtkwaliteit kan ongezonde niveaus bereiken. Als je gevoelig bent voor luchtkwaliteit of luchtwegproblemen hebt, vermijd dan Noord-Thailand in deze periode. Check onze [weerpagina](/weather/) voor updates over luchtkwaliteit en onze [praktische reistips](/practical-info/) voor advies over het omgaan met het smogseizoen.
+Van eind februari tot april verbranden boeren in Noord-Thailand en buurlanden hun landbouwgronden. Dit veroorzaakt een dikke nevel die over [Chiang Mai](/city/chiang-mai/) en omgeving hangt. De luchtkwaliteit kan ongezonde niveaus bereiken. Als je gevoelig bent voor luchtkwaliteit of luchtwegproblemen hebt, vermijd dan Noord-Thailand in deze periode. Check onze [weerpagina](/weather/) voor updates over luchtkwaliteit en onze [praktische reistips](/practical-info/) voor advies over het omgaan met het smogseizoen.
 
 ## 4. Festivalkalender Snel Overzicht
 
 | Festival | Wanneer | Waar |
 |----------|---------|------|
-| Chinees Nieuwjaar | Jan/Feb | [Bangkok](/cities/bangkok/), [Phuket](/cities/phuket/) |
-| **Songkran** | 13-15 april | Landelijk (het best in [Chiang Mai](/cities/chiang-mai/) en [Bangkok](/cities/bangkok/)) |
+| Chinees Nieuwjaar | Jan/Feb | [Bangkok](/city/bangkok/), [Phuket](/city/phuket/) |
+| **Songkran** | 13-15 april | Landelijk (het best in [Chiang Mai](/city/chiang-mai/) en [Bangkok](/city/bangkok/)) |
 | Visakha Bucha | Mei (volle maan) | Landelijk |
-| Vegetarisch Festival | Sep/Okt | [Phuket](/cities/phuket/) |
+| Vegetarisch Festival | Sep/Okt | [Phuket](/city/phuket/) |
 | **Loy Krathong** | November (volle maan) | Landelijk |
-| Yi Peng Lantaarns | November | [Chiang Mai](/cities/chiang-mai/) |
+| Yi Peng Lantaarns | November | [Chiang Mai](/city/chiang-mai/) |
 
 ## 5. Welke Tijd Is het Beste voor Jou?
 
@@ -190,4 +190,4 @@ Er is eigenlijk geen slechte tijd om Thailand te bezoeken. Het **hoogseizoen** (
 
 Wanneer je ook gaat, zorg dat je de juiste [reisverzekering](/travel-insurance/) hebt, een betrouwbare [eSIM](/esim/) om verbonden te blijven en een duidelijk beeld van de [visumvereisten](/blog/thailand-visa-guide-2026/) voor jouw nationaliteit. Check onze [vervoersgids](/transport/) voor het reizen tussen bestemmingen en bekijk onze [praktische reistips](/practical-info/) voor alles wat je verder moet weten voordat je landt.
 
-Begin je reis te plannen met onze [Thailand eilandhop-gids](/blog/thailand-island-hopping-guide/) of ontdek [Thaise streetfood](/food/) om alvast je must-eat-lijst samen te stellen. Voor stadsspecifiek advies, duik in onze gidsen voor [Bangkok](/cities/bangkok/), [Chiang Mai](/cities/chiang-mai/), [Phuket](/cities/phuket/) en [Krabi](/cities/krabi/).
+Begin je reis te plannen met onze [Thailand eilandhop-gids](/blog/thailand-island-hopping-guide/) of ontdek [Thaise streetfood](/food/) om alvast je must-eat-lijst samen te stellen. Voor stadsspecifiek advies, duik in onze gidsen voor [Bangkok](/city/bangkok/), [Chiang Mai](/city/chiang-mai/), [Phuket](/city/phuket/) en [Krabi](/city/krabi/).

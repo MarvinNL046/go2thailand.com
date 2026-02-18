@@ -4,7 +4,7 @@ export default function Document() {
   const isProduction = process.env.NODE_ENV === 'production';
 
   return (
-    <Html lang="en">
+    <Html>
       <Head>
         {/* Preconnect to external origins for better performance */}
         {isProduction && (

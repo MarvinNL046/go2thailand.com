@@ -117,7 +117,7 @@ Read our complete [visa types overview](/visa/) for details on each option.
 
 - [Bangkok](/city/bangkok/) (Chaeng Wattana)
 - [Chiang Mai](/city/chiang-mai/) (Promenada Mall)
-- [Phuket](/islands/phuket/) (Phuket Town)
+- [Phuket](/city/phuket/) (Phuket Town)
 - Koh Samui (near Nathon)
 
 ### Extension Process

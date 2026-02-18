@@ -88,5 +88,14 @@
     "province": "Rayong",
     "image": "/images/islands/koh-samet.webp",
     "highlights": ["Sai Kaew Beach", "Fire Shows", "Weekend Getaway"]
+  },
+  {
+    "id": 11,
+    "slug": "phuket",
+    "name": { "en": "Phuket", "nl": "Phuket" },
+    "region": "Andaman Sea",
+    "province": "Phuket",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
+    "highlights": ["Patong Beach", "Big Buddha", "Phuket Old Town"]
   }
 ]

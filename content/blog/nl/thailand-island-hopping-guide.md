@@ -67,16 +67,16 @@ De eilanden in de **Andamanse Zee** zijn beroemd om hun spectaculaire landschapp
 
 Een klassieke Andaman-route:
 
-1. **Bangkok naar [Phuket](/islands/phuket/)** -- Rechtstreekse vlucht (1,5 uur) of bus (12 uur) -- zie [vervoersopties](/transport/)
+1. **Bangkok naar [Phuket](/city/phuket/)** -- Rechtstreekse vlucht (1,5 uur) of bus (12 uur) -- zie [vervoersopties](/transport/)
 2. **Phuket naar [Koh Phi Phi](/islands/koh-phi-phi/)** -- 2 uur met de **veerboot** (350-450 THB)
 3. **Koh Phi Phi naar [Koh Lanta](/islands/koh-lanta/)** -- 1 uur met de **veerboot** (300-400 THB)
-4. **Koh Lanta naar [Krabi](/cities/krabi/)** -- 2 uur met de **veerboot** of minivan (250-350 THB)
+4. **Koh Lanta naar [Krabi](/city/krabi/)** -- 2 uur met de **veerboot** of minivan (250-350 THB)
 
 **Hoogtepunten van deze route:**
 - Maya Bay op [Koh Phi Phi](/islands/koh-phi-phi/) (reservering verplicht)
 - Relaxte sfeer en **strand**bars op [Koh Lanta](/islands/koh-lanta/)
 - Rotsklimmen in Railay vanuit Krabi
-- **Snorkel**-dagtrips naar de Similan-eilanden vanuit [Phuket](/islands/phuket/) (alleen november-mei)
+- **Snorkel**-dagtrips naar de Similan-eilanden vanuit [Phuket](/city/phuket/) (alleen november-mei)
 
 > **Pro Tip:** Als je drie weken of meer hebt, kun je beide kusten combineren. Neem een **veerboot** van Koh Lanta naar Trang, steek over land over naar Surat Thani en pak daar een boot naar [Koh Samui](/islands/koh-samui/). Diverse [gecombineerde tickets](/transport/) dekken de hele reis voor zo'n 800-1.200 THB.
 
@@ -142,14 +142,14 @@ Licht reizen is cruciaal wanneer je van eiland naar eiland springt. **Veerboten*
 
 Hier is een suggestieroute die het beste van beide kusten combineert:
 
-- **Dag 1-2:** Aankomst in [Bangkok](/cities/bangkok/), stad verkennen en [straatvoedsel](/food/) proeven
+- **Dag 1-2:** Aankomst in [Bangkok](/city/bangkok/), stad verkennen en [straatvoedsel](/food/) proeven
 - **Dag 3-4:** Vliegen naar [Koh Samui](/islands/koh-samui/), **strand** en Ang Thong-dagtrip
 - **Dag 5-6:** **Veerboot** naar [Koh Phangan](/islands/koh-phangan/), Bottle Beach ontdekken
 - **Dag 7-8:** Veerboot naar [Koh Tao](/islands/koh-tao/), **duiken** of **snorkelen**
-- **Dag 9:** Veerboot naar Chumphon, vliegen naar [Phuket](/islands/phuket/)
-- **Dag 10-11:** [Phuket](/islands/phuket/) **stranden** en Old Town
+- **Dag 9:** Veerboot naar Chumphon, vliegen naar [Phuket](/city/phuket/)
+- **Dag 10-11:** [Phuket](/city/phuket/) **stranden** en Old Town
 - **Dag 12-13:** Veerboot naar [Koh Phi Phi](/islands/koh-phi-phi/), Maya Bay
-- **Dag 14:** Veerboot naar [Krabi](/cities/krabi/), vertrek
+- **Dag 14:** Veerboot naar [Krabi](/city/krabi/), vertrek
 
 Dit reisschema werkt het best in **januari tot maart**, wanneer beide kusten droog weer hebben. Gebruik de [weergids](/weather/) om je data te finetunen, en koop een [Thaise eSIM](/esim/) zodat je onderweg **veerboten** kunt omboeken en de omstandigheden kunt checken.
 

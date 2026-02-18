@@ -26,13 +26,13 @@ sources:
 
 ## Bangkok Street Food voor Beginners
 
-**Bangkok** is misschien wel de **street food-hoofdstad van de wereld**. Van sissende woks op **Yaowarat Road** tot bescheiden noedelkarren weggestopt in zijstraatjes -- de stad biedt een overweldigend aantal keuzes voor elke smaak en elk budget. Als je nog nooit van een **Thaise straatkraam** hebt gegeten, helpt deze gids je om met vertrouwen aan het avontuur te beginnen. Of je nu je [eerste trip naar Bangkok](/cities/bangkok/) plant of terugkomt voor nog een ronde, **Bangkok street food** is de beste reden om te gaan.
+**Bangkok** is misschien wel de **street food-hoofdstad van de wereld**. Van sissende woks op **Yaowarat Road** tot bescheiden noedelkarren weggestopt in zijstraatjes -- de stad biedt een overweldigend aantal keuzes voor elke smaak en elk budget. Als je nog nooit van een **Thaise straatkraam** hebt gegeten, helpt deze gids je om met vertrouwen aan het avontuur te beginnen. Of je nu je [eerste trip naar Bangkok](/city/bangkok/) plant of terugkomt voor nog een ronde, **Bangkok street food** is de beste reden om te gaan.
 
 ### Belangrijkste Punten
 
 | Vraag | Antwoord |
 |-------|----------|
-| Wat maakt Bangkok street food bijzonder? | **Michelin-waardige gerechten** van verkopers die al tientallen jaren een enkel recept perfectioneren -- allemaal voor **30-80 THB** per gerecht. Bekijk onze volledige [Bangkok stadsgids](/cities/bangkok/) voor meer. |
+| Wat maakt Bangkok street food bijzonder? | **Michelin-waardige gerechten** van verkopers die al tientallen jaren een enkel recept perfectioneren -- allemaal voor **30-80 THB** per gerecht. Bekijk onze volledige [Bangkok stadsgids](/city/bangkok/) voor meer. |
 | Wat zijn de must-try gerechten? | Begin met **Pad Thai**, **Khao Man Gai** en **Mango Sticky Rice** -- ontdek alle kenmerkende gerechten in onze [Thaise food-sectie](/food/). |
 | Waar zijn de beste street food-gebieden? | **Yaowarat (Chinatown)** voor nachtmarkt-zeevruchten, **Or Tor Kor Market** voor premiumkwaliteit en **Victory Monument** voor budgeteten. |
 | Is Bangkok street food veilig om te eten? | Ja -- **miljoenen locals eten het dagelijks**. Ga naar drukke kraampjes met hoge doorstroom en eten dat op bestelling wordt bereid. Lees onze [veiligheidstips](/practical-info/scams-safety/). |
@@ -92,7 +92,7 @@ De straten rond **Silom Road** en Convent Road stromen tijdens de lunch vol met 
 
 Het gebied rond de rotonde heeft een hoge concentratie **eetkramen** met alles van **boatnoedels** tot Thaise pannenkoeken. Een favoriet onder Bangkokse studenten en een van de beste plekken voor **budgeteten** in de stad.
 
-Lees onze volledige [Bangkok stadsgids](/cities/bangkok/) voor meer buurtaanbevelingen.
+Lees onze volledige [Bangkok stadsgids](/city/bangkok/) voor meer buurtaanbevelingen.
 
 ## 4. Hoe Bestel Je Street Food?
 
@@ -155,7 +155,7 @@ Meer **budgettips** over accommodatie, vervoer en activiteiten vind je in onze [
 
 ## 8. Buiten Bangkok
 
-Als je de **street food-scene van Bangkok** eenmaal onder de knie hebt, verken dan de **regionale specialiteiten** door het hele land. Noord-Thais eten in [Chiang Mai](/cities/chiang-mai/) biedt gerechten als **khao soi** (currynoedels) en **sai oua** (kruidenworst). Zuidelijk eten rond [Krabi](/cities/krabi/) en [Phuket](/islands/phuket/) leunt zwaarder op kurkuma, zeevruchten en vurige curry's.
+Als je de **street food-scene van Bangkok** eenmaal onder de knie hebt, verken dan de **regionale specialiteiten** door het hele land. Noord-Thais eten in [Chiang Mai](/city/chiang-mai/) biedt gerechten als **khao soi** (currynoedels) en **sai oua** (kruidenworst). Zuidelijk eten rond [Krabi](/city/krabi/) en [Phuket](/city/phuket/) leunt zwaarder op kurkuma, zeevruchten en vurige curry's.
 
 De [Thaise eilanden](/islands/) bieden ook uitstekende zeevruchten -- stel je voor: versgebakken garnalen op het strand bij zonsondergang. Plan je route met onze [eilandhoppinggids](/blog/thailand-island-hopping-guide/) en check de [weergids](/weather/) om het juiste seizoen te kiezen. Vergeet niet een [Thailand eSIM](/esim/) te nemen, zodat je onderweg eetaanbevelingen kunt opzoeken, zelfs op afgelegen eilanden.
 
@@ -165,4 +165,4 @@ Ontdek onze volledige [food-sectie](/food/) voor gerechteninfo, recepten en regi
 
 **Bangkok street food** is veilig, heerlijk, goedkoop en eindeloos gevarieerd. Denk er niet te lang over na. Loop naar een kraampje, wijs iets aan dat er lekker uitziet en geniet van een van de grootste **culinaire tradities** ter wereld -- voor de prijs van een kopje koffie thuis. Met de juiste [reisverzekering](/travel-insurance/) en een gezonde dosis avonturierszin zal je maag je dankbaar zijn.
 
-Klaar om je reis te plannen? Begin met onze [Bangkok stadsgids](/cities/bangkok/), bepaal het [beste moment om te gaan](/blog/best-time-to-visit-thailand/) en bekijk de [praktische info](/practical-info/scams-safety/) om je reis soepel te laten verlopen van landing tot je laatste hap **mango sticky rice**.
+Klaar om je reis te plannen? Begin met onze [Bangkok stadsgids](/city/bangkok/), bepaal het [beste moment om te gaan](/blog/best-time-to-visit-thailand/) en bekijk de [praktische info](/practical-info/scams-safety/) om je reis soepel te laten verlopen van landing tot je laatste hap **mango sticky rice**.

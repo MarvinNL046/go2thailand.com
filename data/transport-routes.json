@@ -246,6 +246,30 @@
         "car": "4-5 hours"
       },
       "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "koh-samui",
+      "slug": "bangkok-to-koh-samui",
+      "distance": "700 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "12-14 hours",
+        "train": "12-15 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
+      "to": "chiang-rai",
+      "slug": "bangkok-to-chiang-rai",
+      "distance": "785 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "10-12 hours",
+        "train": "15+ hours"
+      },
+      "popular": true
     }
   ]
 }

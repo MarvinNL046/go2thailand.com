@@ -117,7 +117,7 @@ Lees ons volledige [overzicht van alle visumtypes](/visa/) voor meer details ove
 
 - [Bangkok](/city/bangkok/) (Chaeng Wattana)
 - [Chiang Mai](/city/chiang-mai/) (Promenada Mall)
-- [Phuket](/islands/phuket/) (Phuket Town)
+- [Phuket](/city/phuket/) (Phuket Town)
 - Koh Samui (nabij Nathon)
 
 ### Verlengingsprocedure

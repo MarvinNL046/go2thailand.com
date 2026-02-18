@@ -29,7 +29,23 @@ const nextConfig = {
     return []
   },
   async redirects() {
-    return []
+    return [
+      {
+        source: '/cities/:slug*',
+        destination: '/city/:slug*',
+        permanent: true,
+      },
+      {
+        source: '/about',
+        destination: '/',
+        permanent: true,
+      },
+      {
+        source: '/transport/bangkok-to-bangkok',
+        destination: '/transport/',
+        permanent: true,
+      },
+    ]
   },
   // Optimize for Vercel deployment
   experimental: {

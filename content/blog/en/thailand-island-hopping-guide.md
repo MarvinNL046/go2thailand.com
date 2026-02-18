@@ -67,16 +67,16 @@ The **Andaman Sea** islands are famous for dramatic scenery, crystal-clear water
 
 A classic Andaman route:
 
-1. **Bangkok to [Phuket](/islands/phuket/)** -- Fly direct (1.5 hours) or bus (12 hours) -- see [transport options](/transport/)
+1. **Bangkok to [Phuket](/city/phuket/)** -- Fly direct (1.5 hours) or bus (12 hours) -- see [transport options](/transport/)
 2. **Phuket to [Koh Phi Phi](/islands/koh-phi-phi/)** -- 2-hour **ferry** (350-450 THB)
 3. **Koh Phi Phi to [Koh Lanta](/islands/koh-lanta/)** -- 1-hour ferry (300-400 THB)
-4. **Koh Lanta to [Krabi](/cities/krabi/)** -- 2-hour ferry or minivan (250-350 THB)
+4. **Koh Lanta to [Krabi](/city/krabi/)** -- 2-hour ferry or minivan (250-350 THB)
 
 **Highlights of this route:**
 - Maya Bay on [Koh Phi Phi](/islands/koh-phi-phi/) (reservation required)
 - Laid-back vibes and **beach** bars on [Koh Lanta](/islands/koh-lanta/)
 - Rock climbing in Railay from Krabi
-- Similan Islands **snorkelling** day trips from [Phuket](/islands/phuket/) (November-May only)
+- Similan Islands **snorkelling** day trips from [Phuket](/city/phuket/) (November-May only)
 
 > **Pro Tip:** If you have three weeks or more, you can connect the two coasts. Take a **ferry** from Koh Lanta to Trang, then cross overland to Surat Thani and catch a boat to [Koh Samui](/islands/koh-samui/). Several [joint tickets](/transport/) cover the whole journey for around 800-1,200 THB.
 
@@ -142,14 +142,14 @@ Travelling light is critical when you are hopping between islands. **Ferries**, 
 
 Here is a suggested route that covers the best of both coasts:
 
-- **Days 1-2:** Arrive in [Bangkok](/cities/bangkok/), explore the city and try the [street food](/food/)
+- **Days 1-2:** Arrive in [Bangkok](/city/bangkok/), explore the city and try the [street food](/food/)
 - **Days 3-4:** Fly to [Koh Samui](/islands/koh-samui/), **beach** time and Ang Thong day trip
 - **Days 5-6:** **Ferry** to [Koh Phangan](/islands/koh-phangan/), explore Bottle Beach
 - **Days 7-8:** Ferry to [Koh Tao](/islands/koh-tao/), **diving** or **snorkelling**
-- **Day 9:** Ferry to Chumphon, fly to [Phuket](/islands/phuket/)
-- **Days 10-11:** [Phuket](/islands/phuket/) **beaches** and Old Town
+- **Day 9:** Ferry to Chumphon, fly to [Phuket](/city/phuket/)
+- **Days 10-11:** [Phuket](/city/phuket/) **beaches** and Old Town
 - **Days 12-13:** Ferry to [Koh Phi Phi](/islands/koh-phi-phi/), Maya Bay
-- **Day 14:** Ferry to [Krabi](/cities/krabi/), depart
+- **Day 14:** Ferry to [Krabi](/city/krabi/), depart
 
 This itinerary works best in **January through March**, when both coasts enjoy dry weather. Use the [weather guide](/weather/) to fine-tune your dates, and pick up a [Thai eSIM](/esim/) so you can rebook **ferries** and check conditions on the fly.
 

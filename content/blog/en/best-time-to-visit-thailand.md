@@ -36,7 +36,7 @@ The short answer: **November through February** is **peak season** with the best
 | What is the cheapest time to visit? | **June to October** during the **rainy season** offers the lowest prices for flights, hotels, and tours -- see our [backpacker budget guide](/blog/thailand-budget-backpacker-guide/) |
 | Can you still visit islands in the **monsoon**? | Yes -- the **Gulf islands** like [Koh Samui](/islands/koh-samui/) and [Koh Tao](/islands/koh-tao/) have calmer weather when the Andaman coast is wet |
 | When is the **best island hopping season**? | **December to April** for the Andaman Sea ([Koh Phi Phi](/islands/koh-phi-phi/), [Koh Lanta](/islands/koh-lanta/), [Koh Lipe](/islands/koh-lipe/)); **January to August** for the Gulf -- explore all [islands](/islands/) |
-| When are the major festivals? | **Songkran** (Thai New Year) in April and **Loy Krathong** (floating lanterns) in November -- both celebrated nationwide including [Bangkok](/cities/bangkok/) and [Chiang Mai](/cities/chiang-mai/) |
+| When are the major festivals? | **Songkran** (Thai New Year) in April and **Loy Krathong** (floating lanterns) in November -- both celebrated nationwide including [Bangkok](/city/bangkok/) and [Chiang Mai](/city/chiang-mai/) |
 | Do I need a visa? | Most nationalities get 60 days visa-free; check our [Thailand visa guide](/blog/thailand-visa-guide-2026/) for full details |
 | What should I pack for rainy season? | A lightweight rain jacket, waterproof phone case, and quick-dry clothing -- see our [practical travel tips](/practical-info/) for a full packing list |
 
@@ -46,7 +46,7 @@ Thailand does not have the four seasons you might be used to. Instead, the year 
 
 ### Hot Season (March - May)
 - Temperatures regularly hit **35-40+C**, with April being the hottest month
-- Humidity is high and the heat can be exhausting, especially in [Bangkok](/cities/bangkok/)
+- Humidity is high and the heat can be exhausting, especially in [Bangkok](/city/bangkok/)
 - Lower tourist numbers and better hotel deals
 - **Songkran** (Thai New Year water festival) in April is a major highlight -- the biggest festival in the country
 - Great time for **Gulf coast** beaches like [Koh Samui](/islands/koh-samui/) and [Koh Phangan](/islands/koh-phangan/)
@@ -66,21 +66,21 @@ Thailand does not have the four seasons you might be used to. Instead, the year 
 - **Peak season** -- highest prices and biggest crowds
 - Ideal for beach holidays, **island hopping**, and outdoor activities
 - The **best island hopping season** runs through this entire period -- see our [island hopping guide](/blog/thailand-island-hopping-guide/) for routes and tips
-- Perfect weather for exploring [Chiang Mai](/cities/chiang-mai/) and northern Thailand on foot
+- Perfect weather for exploring [Chiang Mai](/city/chiang-mai/) and northern Thailand on foot
 
 ## 2. Month-by-Month Guide
 
 ### January
 **Weather:** Cool and dry across the country. One of the best months overall.
-**Best for:** Beaches, **island hopping**, city exploration in [Bangkok](/cities/bangkok/) and [Chiang Mai](/cities/chiang-mai/)
+**Best for:** Beaches, **island hopping**, city exploration in [Bangkok](/city/bangkok/) and [Chiang Mai](/city/chiang-mai/)
 **Crowds:** **Peak season** -- book accommodation and [ferries](/transport/) in advance
 **Events:** New Year celebrations carry into early January
 
 ### February
 **Weather:** Dry and pleasant. Slightly warmer than January.
-**Best for:** [Andaman islands](/islands/) ([Koh Phi Phi](/islands/koh-phi-phi/), [Krabi](/cities/krabi/), [Koh Lanta](/islands/koh-lanta/)), northern trekking
+**Best for:** [Andaman islands](/islands/) ([Koh Phi Phi](/islands/koh-phi-phi/), [Krabi](/city/krabi/), [Koh Lanta](/islands/koh-lanta/)), northern trekking
 **Crowds:** Still **peak season** but slightly less intense than December-January
-**Events:** Chinese New Year celebrations in [Bangkok's](/cities/bangkok/) Chinatown and [Phuket](/cities/phuket/)
+**Events:** Chinese New Year celebrations in [Bangkok's](/city/bangkok/) Chinatown and [Phuket](/city/phuket/)
 
 ### March
 **Weather:** **Hot season** begins. Temperatures climb to 33-37C.
@@ -94,7 +94,7 @@ Thailand does not have the four seasons you might be used to. Instead, the year 
 **Crowds:** **Songkran** week (13-15 April) is extremely busy domestically
 **Events:** **Songkran** -- Thailand's biggest festival. Massive water fights in every city. The [Thai food scene](/food/) is at its best during festival season with special dishes and street food stalls everywhere.
 
-> **Pro Tip:** **Songkran** in [Chiang Mai](/cities/chiang-mai/) is the most famous and lasts nearly a week. [Bangkok's](/cities/bangkok/) Khao San Road and Silom Road are also legendary. Protect your electronics in waterproof bags -- you will get soaked. Read our [practical travel tips](/practical-info/) for more advice on surviving **Songkran**.
+> **Pro Tip:** **Songkran** in [Chiang Mai](/city/chiang-mai/) is the most famous and lasts nearly a week. [Bangkok's](/city/bangkok/) Khao San Road and Silom Road are also legendary. Protect your electronics in waterproof bags -- you will get soaked. Read our [practical travel tips](/practical-info/) for more advice on surviving **Songkran**.
 
 ### May
 **Weather:** **Rainy season** starts on the Andaman coast. Gulf coast still mostly dry.
@@ -104,7 +104,7 @@ Thailand does not have the four seasons you might be used to. Instead, the year 
 
 ### June
 **Weather:** Rain increases across the country. **Andaman Sea** can be rough.
-**Best for:** Gulf islands (calmer seas), northern Thailand including [Chiang Mai](/cities/chiang-mai/) (cooler than April-May)
+**Best for:** Gulf islands (calmer seas), northern Thailand including [Chiang Mai](/city/chiang-mai/) (cooler than April-May)
 **Crowds:** Low season -- very few tourists
 **Events:** Quiet month festival-wise. A great time to enjoy [Thai food](/food/) without the crowds.
 
@@ -116,15 +116,15 @@ Thailand does not have the four seasons you might be used to. Instead, the year 
 
 ### August
 **Weather:** Similar to July. Heavy rain on the Andaman coast; Gulf coast fares better.
-**Best for:** [Koh Samui](/islands/koh-samui/) and Gulf islands, [Chiang Mai](/cities/chiang-mai/) (green and lush)
+**Best for:** [Koh Samui](/islands/koh-samui/) and Gulf islands, [Chiang Mai](/city/chiang-mai/) (green and lush)
 **Crowds:** Low season. Excellent value.
 **Events:** Queen's Birthday / Mother's Day (12 August)
 
 ### September
 **Weather:** The wettest month, especially on the Andaman coast. Occasional flooding in low-lying areas.
-**Best for:** Budget travellers who do not mind rain, cultural tourism in [Bangkok](/cities/bangkok/)
+**Best for:** Budget travellers who do not mind rain, cultural tourism in [Bangkok](/city/bangkok/)
 **Crowds:** Lowest of the year -- check our [budget backpacker guide](/blog/thailand-budget-backpacker-guide/) for money-saving tips
-**Events:** The Vegetarian Festival in [Phuket](/cities/phuket/) (late Sep/early Oct) -- dramatic and unique
+**Events:** The Vegetarian Festival in [Phuket](/city/phuket/) (late Sep/early Oct) -- dramatic and unique
 
 ### October
 **Weather:** Rain starts to ease, especially in the second half. Transition month.
@@ -136,11 +136,11 @@ Thailand does not have the four seasons you might be used to. Instead, the year 
 **Weather:** **Cool season** begins. Rain stops on the Andaman coast. Beautiful weather.
 **Best for:** **Island hopping** on both coasts, outdoor activities, diving around [Koh Tao](/islands/koh-tao/) and [Koh Lipe](/islands/koh-lipe/)
 **Crowds:** High season begins -- book ahead for popular islands via [ferry and transport](/transport/)
-**Events:** **Loy Krathong** -- one of Thailand's most magical festivals. Floating lanterns and krathong (decorated floats) on rivers and canals. [Chiang Mai's](/cities/chiang-mai/) Yi Peng lantern festival often coincides.
+**Events:** **Loy Krathong** -- one of Thailand's most magical festivals. Floating lanterns and krathong (decorated floats) on rivers and canals. [Chiang Mai's](/city/chiang-mai/) Yi Peng lantern festival often coincides.
 
 ### December
 **Weather:** Cool, dry, and perfect across most of the country.
-**Best for:** Everything -- beaches on [Koh Phi Phi](/islands/koh-phi-phi/) and [Koh Lanta](/islands/koh-lanta/), temples, trekking near [Chiang Mai](/cities/chiang-mai/), city exploration in [Bangkok](/cities/bangkok/)
+**Best for:** Everything -- beaches on [Koh Phi Phi](/islands/koh-phi-phi/) and [Koh Lanta](/islands/koh-lanta/), temples, trekking near [Chiang Mai](/city/chiang-mai/), city exploration in [Bangkok](/city/bangkok/)
 **Crowds:** **Peak season**. Christmas and New Year bring the highest prices and biggest crowds.
 **Events:** King's Birthday / Father's Day (5 Dec), Christmas and New Year celebrations
 
@@ -150,27 +150,27 @@ Thailand's [weather](/weather/) is not uniform. Here is how the regions compare:
 
 | Region | Best Months | Avoid |
 |--------|------------|-------|
-| [Bangkok](/cities/bangkok/) & Central | Nov - Feb | Apr (extreme heat) |
-| Northern ([Chiang Mai](/cities/chiang-mai/), Chiang Rai) | Nov - Feb | Mar - Apr (burning season haze) |
+| [Bangkok](/city/bangkok/) & Central | Nov - Feb | Apr (extreme heat) |
+| Northern ([Chiang Mai](/city/chiang-mai/), Chiang Rai) | Nov - Feb | Mar - Apr (burning season haze) |
 | Gulf Coast ([Koh Samui](/islands/koh-samui/), [Koh Phangan](/islands/koh-phangan/), [Koh Tao](/islands/koh-tao/)) | Jan - Aug | Oct - Nov (storms) |
-| Andaman Coast ([Phuket](/cities/phuket/), [Koh Phi Phi](/islands/koh-phi-phi/), [Krabi](/cities/krabi/), [Koh Lanta](/islands/koh-lanta/)) | Nov - Apr | May - Oct (**monsoon**) |
+| Andaman Coast ([Phuket](/city/phuket/), [Koh Phi Phi](/islands/koh-phi-phi/), [Krabi](/city/krabi/), [Koh Lanta](/islands/koh-lanta/)) | Nov - Apr | May - Oct (**monsoon**) |
 
 The key takeaway: **the Gulf and Andaman coasts have opposite seasons**. When one side is rainy, the other is often fine. This means there is almost always a good beach destination in Thailand regardless of when you visit. Browse all our [island guides](/islands/) to find the right match for your dates.
 
 ### A Note on Northern Thailand's Burning Season
 
-From late February through April, farmers in northern Thailand and neighbouring countries burn agricultural fields. This creates a thick haze that blankets [Chiang Mai](/cities/chiang-mai/) and surrounding areas. Air quality can reach unhealthy levels. If you are sensitive to air quality or have respiratory issues, avoid northern Thailand during this period. Check our [weather page](/weather/) for air quality updates and our [practical travel tips](/practical-info/) for advice on dealing with haze season.
+From late February through April, farmers in northern Thailand and neighbouring countries burn agricultural fields. This creates a thick haze that blankets [Chiang Mai](/city/chiang-mai/) and surrounding areas. Air quality can reach unhealthy levels. If you are sensitive to air quality or have respiratory issues, avoid northern Thailand during this period. Check our [weather page](/weather/) for air quality updates and our [practical travel tips](/practical-info/) for advice on dealing with haze season.
 
 ## 4. Festival Calendar Quick Reference
 
 | Festival | When | Where |
 |----------|------|-------|
-| Chinese New Year | Jan/Feb | [Bangkok](/cities/bangkok/), [Phuket](/cities/phuket/) |
-| **Songkran** | 13-15 April | Nationwide (best in [Chiang Mai](/cities/chiang-mai/) and [Bangkok](/cities/bangkok/)) |
+| Chinese New Year | Jan/Feb | [Bangkok](/city/bangkok/), [Phuket](/city/phuket/) |
+| **Songkran** | 13-15 April | Nationwide (best in [Chiang Mai](/city/chiang-mai/) and [Bangkok](/city/bangkok/)) |
 | Visakha Bucha | May (full moon) | Nationwide |
-| Vegetarian Festival | Sep/Oct | [Phuket](/cities/phuket/) |
+| Vegetarian Festival | Sep/Oct | [Phuket](/city/phuket/) |
 | **Loy Krathong** | November (full moon) | Nationwide |
-| Yi Peng Lanterns | November | [Chiang Mai](/cities/chiang-mai/) |
+| Yi Peng Lanterns | November | [Chiang Mai](/city/chiang-mai/) |
 
 ## 5. Which Time Is Best for You?
 
@@ -190,4 +190,4 @@ There is no truly bad time to visit Thailand. **Peak season** (November-February
 
 No matter when you go, make sure you have the right [travel insurance](/travel-insurance/), a reliable [eSIM](/esim/) for staying connected, and a clear picture of the [visa requirements](/blog/thailand-visa-guide-2026/) for your nationality. Check our [transport guide](/transport/) for getting between destinations, and browse our [practical travel tips](/practical-info/) for everything else you need to know before you land.
 
-Start planning your trip with our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) or explore [Thai street food](/food/) to start building your must-eat list. For city-specific advice, dive into our guides for [Bangkok](/cities/bangkok/), [Chiang Mai](/cities/chiang-mai/), [Phuket](/cities/phuket/), and [Krabi](/cities/krabi/).
+Start planning your trip with our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) or explore [Thai street food](/food/) to start building your must-eat list. For city-specific advice, dive into our guides for [Bangkok](/city/bangkok/), [Chiang Mai](/city/chiang-mai/), [Phuket](/city/phuket/), and [Krabi](/city/krabi/).

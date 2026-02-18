@@ -32,8 +32,8 @@ Thailand has been the **budget backpacker** gateway to Southeast Asia for decade
 
 | Question | Key Answer |
 |----------|------------|
-| How much does backpacking Thailand cost per day? | A **budget backpacker** spends **1,200-1,800 THB ($33-50) per day** on [accommodation](/cities/bangkok/), [food](/food/), and [transport](/transport/) |
-| What is the cheapest accommodation? | **Hostels** cost 200-500 THB/night; the best deals are in [Chiang Mai](/cities/chiang-mai/) at 200-350 THB |
+| How much does backpacking Thailand cost per day? | A **budget backpacker** spends **1,200-1,800 THB ($33-50) per day** on [accommodation](/city/bangkok/), [food](/food/), and [transport](/transport/) |
+| What is the cheapest accommodation? | **Hostels** cost 200-500 THB/night; the best deals are in [Chiang Mai](/city/chiang-mai/) at 200-350 THB |
 | How much does street food cost? | **Thai street food** runs 30-70 THB per meal -- see our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) for top dishes |
 | What about ATM fees and money? | **ATM withdrawals** cost 220 THB per transaction; use a Wise card to reduce fees -- read our [ATM & money guide](/practical-info/atm-money/) |
 | When is the cheapest time to visit? | **Shoulder season** (May-June, Sep-Oct) offers the lowest prices on everything -- check our [weather guide](/weather/) for details |
@@ -66,15 +66,15 @@ Most **budget backpackers** fall in the budget category and spend around **1,200
 
 **Hostels** are the backbone of budget travel in Thailand. A dorm bed in a clean, air-conditioned **hostel** costs:
 
-- **[Bangkok](/cities/bangkok/):** 250-400 THB
-- **[Chiang Mai](/cities/chiang-mai/):** 200-350 THB
+- **[Bangkok](/city/bangkok/):** 250-400 THB
+- **[Chiang Mai](/city/chiang-mai/):** 200-350 THB
 - **Islands ([Koh Tao](/islands/koh-tao/), [Koh Phangan](/islands/koh-phangan/)):** 300-500 THB
 
-Book through Hostelworld or Booking.com. Prices drop significantly if you book for a week or more. The cheapest **hostel** beds are typically found in [Chiang Mai](/cities/chiang-mai/) and smaller cities like Pai.
+Book through Hostelworld or Booking.com. Prices drop significantly if you book for a week or more. The cheapest **hostel** beds are typically found in [Chiang Mai](/city/chiang-mai/) and smaller cities like Pai.
 
 ### Guesthouses (400-800 THB/night)
 
-Private rooms in **guesthouses** offer more privacy at a modest price increase. Many include a fan (not AC), a private bathroom, and sometimes breakfast. Great value for couples splitting the cost. You will find excellent **cheap accommodation** in the Old City area of [Chiang Mai](/cities/chiang-mai/) and along the backpacker streets of [Bangkok's](/cities/bangkok/) Khao San Road.
+Private rooms in **guesthouses** offer more privacy at a modest price increase. Many include a fan (not AC), a private bathroom, and sometimes breakfast. Great value for couples splitting the cost. You will find excellent **cheap accommodation** in the Old City area of [Chiang Mai](/city/chiang-mai/) and along the backpacker streets of [Bangkok's](/city/bangkok/) Khao San Road.
 
 ### Budget Hotels (600-1,200 THB/night)
 
@@ -84,7 +84,7 @@ Air-conditioned rooms with an ensuite bathroom. Found everywhere on Booking.com 
 
 ### Free and Ultra-Cheap Options
 
-- **Couchsurfing** -- Still active in [Bangkok](/cities/bangkok/) and [Chiang Mai](/cities/chiang-mai/)
+- **Couchsurfing** -- Still active in [Bangkok](/city/bangkok/) and [Chiang Mai](/city/chiang-mai/)
 - **Work exchanges** -- Platforms like Worldpackers and Workaway list hostels offering free beds for 4-5 hours of work per day
 - **Temple stays** -- Some temples offer free accommodation in exchange for participation in meditation programs (Wat Pa Nanachat in Ubon Ratchathani is well-known)
 
@@ -135,7 +135,7 @@ Read our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) for d
 | [Bangkok to Chiang Mai](/transport/bangkok-to-chiang-mai/) | Bus (VIP) | 500-700 | 10 hrs |
 | [Bangkok to Chiang Mai](/transport/bangkok-to-chiang-mai/) | Budget airline | 800-2,000 | 1.5 hrs |
 | Bangkok to Surat Thani | Train (2nd class) | 400-600 | 9 hrs |
-| [Bangkok to Koh Samui](/transport/bangkok-to-koh-samui/) | Bus + ferry combo | 600-900 | 14 hrs |
+| [Bangkok to Koh Samui](/transport/) | Bus + ferry combo | 600-900 | 14 hrs |
 
 - **Trains** are the most scenic and comfortable budget option. Book sleeper trains at [12Go Asia](https://12go.asia) or at the station 2-3 days ahead. See our full [transport guide](/transport/) for all major routes.
 - **Buses** are cheap but can be uncomfortable for long hauls. VIP buses with reclining seats are worth the small premium.
@@ -143,13 +143,13 @@ Read our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) for d
 
 ### Within Cities
 
-- **Bangkok BTS/MRT:** 16-59 THB per ride. Get a Rabbit card for convenience. [Bangkok](/cities/bangkok/) public transit is the cheapest way to move around the capital.
-- **Songthaew (shared truck):** 20-30 THB per ride in [Chiang Mai](/cities/chiang-mai/)
+- **Bangkok BTS/MRT:** 16-59 THB per ride. Get a Rabbit card for convenience. [Bangkok](/city/bangkok/) public transit is the cheapest way to move around the capital.
+- **Songthaew (shared truck):** 20-30 THB per ride in [Chiang Mai](/city/chiang-mai/)
 - **Motorbike taxi:** 20-50 THB for short hops in Bangkok
 - **Grab (ride-hailing app):** Often cheaper than tuk-tuks. A 10-minute ride is typically 50-100 THB.
-- **Scooter rental:** 200-300 THB/day on [islands](/islands/) and in [Chiang Mai](/cities/chiang-mai/). Only if you are experienced -- Thai traffic is not forgiving. Make sure your [travel insurance](/travel-insurance/) covers **scooter rental** accidents.
+- **Scooter rental:** 200-300 THB/day on [islands](/islands/) and in [Chiang Mai](/city/chiang-mai/). Only if you are experienced -- Thai traffic is not forgiving. Make sure your [travel insurance](/travel-insurance/) covers **scooter rental** accidents.
 
-> **Pro Tip:** Never take a tuk-tuk without agreeing on the price first. In [Bangkok](/cities/bangkok/), tuk-tuks are often more expensive than a Grab car. They are fun for the experience, but not for your budget. Read our [scams & safety guide](/practical-info/scams-safety/) so you know the common **tourist traps** to avoid.
+> **Pro Tip:** Never take a tuk-tuk without agreeing on the price first. In [Bangkok](/city/bangkok/), tuk-tuks are often more expensive than a Grab car. They are fun for the experience, but not for your budget. Read our [scams & safety guide](/practical-info/scams-safety/) so you know the common **tourist traps** to avoid.
 
 ## 5. Activities: What Is Free and What Is Not
 
@@ -162,8 +162,8 @@ Thailand offers plenty of things to do at no cost:
 - **Beach days** on any public beach on the [Thai islands](/islands/)
 - Hike in national parks (park entrance is 100-300 THB for foreigners, but some trails outside parks are free)
 - Watch a sunset from a cliff or rooftop
-- Explore [Bangkok's](/cities/bangkok/) Chinatown, flower market, and canal-side walks
-- Wander the Old City in [Chiang Mai](/cities/chiang-mai/) -- temples, cafes, and street art everywhere
+- Explore [Bangkok's](/city/bangkok/) Chinatown, flower market, and canal-side walks
+- Wander the Old City in [Chiang Mai](/city/chiang-mai/) -- temples, cafes, and street art everywhere
 
 ### Paid Activities -- Typical Prices
 
@@ -191,7 +191,7 @@ Thailand is still largely a cash economy for **street food**, markets, and small
 
 - **ATM withdrawals** cost 220 THB per transaction (Thai bank fee) plus your home bank's foreign transaction fee. Withdraw larger amounts less frequently. Read our detailed [ATM & money guide](/practical-info/atm-money/) for the best strategies to minimise **ATM fees**.
 - **Wise (formerly TransferWise) card** is popular among **budget backpackers** for low-fee withdrawals and payments. It consistently offers the best exchange rates.
-- **Exchange rates** are best at SuperRich exchange counters in [Bangkok](/cities/bangkok/). Avoid airport exchanges -- the rates are significantly worse.
+- **Exchange rates** are best at SuperRich exchange counters in [Bangkok](/city/bangkok/). Avoid airport exchanges -- the rates are significantly worse.
 
 ### How Much Cash to Carry
 Keep 2,000-5,000 THB in cash on you for daily expenses. Store extra cash and backup cards in your **hostel** locker. Be aware of [common scams](/practical-info/scams-safety/) targeting tourists at ATMs and currency exchanges.
@@ -236,8 +236,8 @@ Note: This does not include international flights or **[travel insurance](/trave
 
 ## 10. Suggested Budget Itinerary (2 Weeks)
 
-- **Days 1-3:** [Bangkok](/cities/bangkok/) -- temples, [street food](/blog/bangkok-street-food-beginners/), Chinatown, canal boats
-- **Days 4-6:** Overnight train to [Chiang Mai](/cities/chiang-mai/) -- Old City temples, night market, cooking class
+- **Days 1-3:** [Bangkok](/city/bangkok/) -- temples, [street food](/blog/bangkok-street-food-beginners/), Chinatown, canal boats
+- **Days 4-6:** Overnight train to [Chiang Mai](/city/chiang-mai/) -- Old City temples, night market, cooking class
 - **Days 7-8:** Day trip to Doi Suthep, White Temple in Chiang Rai
 - **Day 9:** Fly to Surat Thani (budget airline), ferry to [Koh Tao](/islands/koh-tao/)
 - **Days 10-12:** [Koh Tao](/islands/koh-tao/) -- snorkelling, beach days, optional dive course

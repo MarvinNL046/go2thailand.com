@@ -32,8 +32,8 @@ Thailand is al decennialang de **budget backpacker** poort naar Zuidoost-Azie, e
 
 | Vraag | Antwoord |
 |-------|----------|
-| Hoeveel kost backpacken in Thailand per dag? | Een **budget backpacker** geeft **1.200-1.800 THB (32-48 euro) per dag** uit aan [accommodatie](/cities/bangkok/), [eten](/food/) en [vervoer](/transport/) |
-| Wat is de goedkoopste accommodatie? | **Hostels** kosten 200-500 THB/nacht; de beste deals vind je in [Chiang Mai](/cities/chiang-mai/) voor 200-350 THB |
+| Hoeveel kost backpacken in Thailand per dag? | Een **budget backpacker** geeft **1.200-1.800 THB (32-48 euro) per dag** uit aan [accommodatie](/city/bangkok/), [eten](/food/) en [vervoer](/transport/) |
+| Wat is de goedkoopste accommodatie? | **Hostels** kosten 200-500 THB/nacht; de beste deals vind je in [Chiang Mai](/city/chiang-mai/) voor 200-350 THB |
 | Hoeveel kost street food? | **Thais street food** kost 30-70 THB per maaltijd -- bekijk onze [Bangkok street food-gids](/blog/bangkok-street-food-beginners/) voor de beste gerechten |
 | Hoe zit het met pinkosten en geld? | **Pinautomaten** rekenen 220 THB per transactie; gebruik een Wise-kaart om kosten te beperken -- lees onze [pinautomaten- & geldgids](/practical-info/atm-money/) |
 | Wanneer is het goedkoopst om te gaan? | Het **tussenseizoen** (mei-juni, sep-okt) biedt de laagste prijzen op alles -- bekijk onze [weergids](/weather/) voor details |
@@ -66,15 +66,15 @@ De meeste **budget backpackers** vallen in de budgetcategorie en geven zo'n **1.
 
 **Hostels** zijn de ruggengraat van budgetreizen in Thailand. Een slaapzaalbed in een schoon **hostel** met airco kost:
 
-- **[Bangkok](/cities/bangkok/):** 250-400 THB
-- **[Chiang Mai](/cities/chiang-mai/):** 200-350 THB
+- **[Bangkok](/city/bangkok/):** 250-400 THB
+- **[Chiang Mai](/city/chiang-mai/):** 200-350 THB
 - **Eilanden ([Koh Tao](/islands/koh-tao/), [Koh Phangan](/islands/koh-phangan/)):** 300-500 THB
 
-Boek via Hostelworld of Booking.com. De prijzen dalen aanzienlijk als je voor een week of langer boekt. De goedkoopste **hostel**bedden vind je doorgaans in [Chiang Mai](/cities/chiang-mai/) en kleinere steden zoals Pai.
+Boek via Hostelworld of Booking.com. De prijzen dalen aanzienlijk als je voor een week of langer boekt. De goedkoopste **hostel**bedden vind je doorgaans in [Chiang Mai](/city/chiang-mai/) en kleinere steden zoals Pai.
 
 ### Gasthuizen (400-800 THB/nacht)
 
-Prive-kamers in **gasthuizen** bieden meer privacy tegen een bescheiden meerprijs. Veel hebben een ventilator (geen airco), een eigen badkamer en soms ontbijt. Uitstekende waarde voor stellen die de kosten delen. Je vindt uitstekende **goedkope accommodatie** in de Old City van [Chiang Mai](/cities/chiang-mai/) en langs de backpackersstraten van [Bangkoks](/cities/bangkok/) Khao San Road.
+Prive-kamers in **gasthuizen** bieden meer privacy tegen een bescheiden meerprijs. Veel hebben een ventilator (geen airco), een eigen badkamer en soms ontbijt. Uitstekende waarde voor stellen die de kosten delen. Je vindt uitstekende **goedkope accommodatie** in de Old City van [Chiang Mai](/city/chiang-mai/) en langs de backpackersstraten van [Bangkoks](/city/bangkok/) Khao San Road.
 
 ### Budgethotels (600-1.200 THB/nacht)
 
@@ -84,7 +84,7 @@ Kamers met airco en eigen badkamer. Overal te vinden op Booking.com en Agoda. Ag
 
 ### Gratis en Ultragoedkope Opties
 
-- **Couchsurfing** -- Nog steeds actief in [Bangkok](/cities/bangkok/) en [Chiang Mai](/cities/chiang-mai/)
+- **Couchsurfing** -- Nog steeds actief in [Bangkok](/city/bangkok/) en [Chiang Mai](/city/chiang-mai/)
 - **Work exchanges** -- Platforms als Worldpackers en Workaway vermelden hostels die gratis bedden aanbieden in ruil voor 4-5 uur werk per dag
 - **Tempelverblijven** -- Sommige tempels bieden gratis accommodatie in ruil voor deelname aan meditatieprogramma's (Wat Pa Nanachat in Ubon Ratchathani is een bekende plek)
 
@@ -135,7 +135,7 @@ Lees onze [Bangkok street food-gids](/blog/bangkok-street-food-beginners/) voor 
 | [Bangkok naar Chiang Mai](/transport/bangkok-to-chiang-mai/) | Bus (VIP) | 500-700 | 10 uur |
 | [Bangkok naar Chiang Mai](/transport/bangkok-to-chiang-mai/) | Budgetvlucht | 800-2.000 | 1,5 uur |
 | Bangkok naar Surat Thani | Trein (2e klas) | 400-600 | 9 uur |
-| [Bangkok naar Koh Samui](/transport/bangkok-to-koh-samui/) | Bus + veerboot combo | 600-900 | 14 uur |
+| [Bangkok naar Koh Samui](/transport/) | Bus + veerboot combo | 600-900 | 14 uur |
 
 - **Treinen** zijn de mooiste en comfortabelste budgetoptie. Boek slaaptreinen via [12Go Asia](https://12go.asia) of aan het station, 2-3 dagen van tevoren. Bekijk onze complete [vervoersgids](/transport/) voor alle belangrijke routes.
 - **Bussen** zijn goedkoop maar kunnen oncomfortabel zijn voor lange ritten. VIP-bussen met verstelbare stoelen zijn de kleine meerprijs waard.
@@ -143,13 +143,13 @@ Lees onze [Bangkok street food-gids](/blog/bangkok-street-food-beginners/) voor 
 
 ### Binnen Steden
 
-- **Bangkok BTS/MRT:** 16-59 THB per rit. Neem een Rabbit-kaart voor het gemak. Het openbaar vervoer in [Bangkok](/cities/bangkok/) is de goedkoopste manier om je door de hoofdstad te verplaatsen.
-- **Songthaew (gedeelde truck):** 20-30 THB per rit in [Chiang Mai](/cities/chiang-mai/)
+- **Bangkok BTS/MRT:** 16-59 THB per rit. Neem een Rabbit-kaart voor het gemak. Het openbaar vervoer in [Bangkok](/city/bangkok/) is de goedkoopste manier om je door de hoofdstad te verplaatsen.
+- **Songthaew (gedeelde truck):** 20-30 THB per rit in [Chiang Mai](/city/chiang-mai/)
 - **Motortaxi:** 20-50 THB voor korte ritten in Bangkok
 - **Grab (taxi-app):** Vaak goedkoper dan tuk-tuks. Een rit van 10 minuten kost meestal 50-100 THB.
-- **Scooter huren:** 200-300 THB/dag op [eilanden](/islands/) en in [Chiang Mai](/cities/chiang-mai/). Alleen als je ervaren bent -- Thais verkeer is niet vergevingsgezind. Zorg dat je **[reisverzekering](/travel-insurance/)** ongelukken met een **huurscooter** dekt.
+- **Scooter huren:** 200-300 THB/dag op [eilanden](/islands/) en in [Chiang Mai](/city/chiang-mai/). Alleen als je ervaren bent -- Thais verkeer is niet vergevingsgezind. Zorg dat je **[reisverzekering](/travel-insurance/)** ongelukken met een **huurscooter** dekt.
 
-> **Pro Tip:** Neem nooit een tuk-tuk zonder vooraf een prijs af te spreken. In [Bangkok](/cities/bangkok/) zijn tuk-tuks vaak duurder dan een Grab-auto. Ze zijn leuk voor de ervaring, maar niet voor je budget. Lees onze [oplichting- & veiligheidsgids](/practical-info/scams-safety/) zodat je de veelvoorkomende **toeristenvallen** kent.
+> **Pro Tip:** Neem nooit een tuk-tuk zonder vooraf een prijs af te spreken. In [Bangkok](/city/bangkok/) zijn tuk-tuks vaak duurder dan een Grab-auto. Ze zijn leuk voor de ervaring, maar niet voor je budget. Lees onze [oplichting- & veiligheidsgids](/practical-info/scams-safety/) zodat je de veelvoorkomende **toeristenvallen** kent.
 
 ## 5. Activiteiten: Wat Is Gratis en Wat Niet
 
@@ -162,8 +162,8 @@ Thailand biedt genoeg om te doen zonder iets uit te geven:
 - **Stranddagen** op elk openbaar strand op de [Thaise eilanden](/islands/)
 - Wandelen in nationale parken (parktoegang is 100-300 THB voor buitenlanders, maar sommige paden buiten de parken zijn gratis)
 - Zonsondergangen bekijken vanaf een klif of dakterras
-- [Bangkoks](/cities/bangkok/) Chinatown, bloemenmarkt en wandelingen langs de kanaaltjes verkennen
-- Rondstruinen door de Old City in [Chiang Mai](/cities/chiang-mai/) -- tempels, cafes en street art overal
+- [Bangkoks](/city/bangkok/) Chinatown, bloemenmarkt en wandelingen langs de kanaaltjes verkennen
+- Rondstruinen door de Old City in [Chiang Mai](/city/chiang-mai/) -- tempels, cafes en street art overal
 
 ### Betaalde Activiteiten -- Gangbare Prijzen
 
@@ -191,7 +191,7 @@ Thailand is nog grotendeels een contante-geld-economie voor **street food**, mar
 
 - **Pinautomaten** rekenen 220 THB per transactie (Thaise bankkosten) plus de buitenlandkosten van je eigen bank. Neem grotere bedragen in een keer op. Lees onze uitgebreide [pinautomaten- & geldgids](/practical-info/atm-money/) voor de beste strategieen om **pinkosten** te minimaliseren.
 - **Wise-kaart (voorheen TransferWise)** is populair onder **budget backpackers** vanwege de lage kosten voor opnames en betalingen. Deze biedt consequent de beste wisselkoersen.
-- **Wisselkoersen** zijn het beste bij SuperRich-wisselkantoren in [Bangkok](/cities/bangkok/). Vermijd luchthavenwissels -- de koersen zijn aanzienlijk slechter.
+- **Wisselkoersen** zijn het beste bij SuperRich-wisselkantoren in [Bangkok](/city/bangkok/). Vermijd luchthavenwissels -- de koersen zijn aanzienlijk slechter.
 
 ### Hoeveel Contant Geld Meenemen
 Houd 2.000-5.000 THB contant bij je voor dagelijkse uitgaven. Bewaar extra geld en reservepinpassen in het kluisje van je **hostel**. Wees alert op [veelvoorkomende oplichtingstrucs](/practical-info/scams-safety/) gericht op toeristen bij pinautomaten en wisselkantoren.
@@ -236,8 +236,8 @@ Let op: dit is exclusief internationale vluchten en **[reisverzekering](/travel-
 
 ## 10. Voorgesteld Budget-Reisschema (2 Weken)
 
-- **Dag 1-3:** [Bangkok](/cities/bangkok/) -- tempels, [street food](/blog/bangkok-street-food-beginners/), Chinatown, kanaalbootjes
-- **Dag 4-6:** Nachttrein naar [Chiang Mai](/cities/chiang-mai/) -- Old City-tempels, nachtmarkt, kookcursus
+- **Dag 1-3:** [Bangkok](/city/bangkok/) -- tempels, [street food](/blog/bangkok-street-food-beginners/), Chinatown, kanaalbootjes
+- **Dag 4-6:** Nachttrein naar [Chiang Mai](/city/chiang-mai/) -- Old City-tempels, nachtmarkt, kookcursus
 - **Dag 7-8:** Dagtrip naar Doi Suthep, Witte Tempel in Chiang Rai
 - **Dag 9:** Vliegen naar Surat Thani (budgetvlucht), veerboot naar [Koh Tao](/islands/koh-tao/)
 - **Dag 10-12:** [Koh Tao](/islands/koh-tao/) -- snorkelen, stranddagen, optionele duikcursus
