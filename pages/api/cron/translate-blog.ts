@@ -1,6 +1,13 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import fs from "fs";
 import path from "path";
+import {
+  translatePost,
+  type TranslationLocale,
+  type GeneratedPost,
+} from "../../../lib/pipeline/content-generator";
+import { injectAffiliateLinks } from "../../../lib/pipeline/affiliate-injector";
+import { commitFilesToGitHub } from "../../../lib/pipeline/github-commit";
 
 export const config = {
   maxDuration: 300,
@@ -18,17 +25,13 @@ export default async function handler(
   }
 
   try {
-    const baseUrl = process.env.VERCEL_URL
-      ? `https://${process.env.VERCEL_URL}`
-      : "http://localhost:3000";
-
     // Find the most recent English blog post that lacks translations
     const enDir = path.join(process.cwd(), "content", "blog", "en");
     if (!fs.existsSync(enDir)) {
       return res.status(200).json({ message: "No English blog posts found" });
     }
 
-    const allLocales = ["nl", "zh", "de", "fr", "ru", "ja", "ko"];
+    const allLocales: TranslationLocale[] = ["nl", "zh", "de", "fr", "ru", "ja", "ko"];
     const enFiles = fs.readdirSync(enDir).filter((f) => f.endsWith(".md"));
 
     // Sort by frontmatter date (newest first) — mtime is unreliable on Vercel
@@ -66,29 +69,55 @@ export default async function handler(
 
       console.log(`[cron/translate] Translating "${title}" to: ${localesToTranslate.join(", ")}`);
 
-      const response = await fetch(`${baseUrl}/api/pipeline/translate`, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "x-pipeline-key": process.env.PIPELINE_SECRET || "",
-        },
-        body: JSON.stringify({
-          slug,
-          content: enContent,
-          title,
-          locales: localesToTranslate,
-          model: "claude-haiku",
-        }),
-      });
+      // Build a minimal post object for the translator
+      const post: GeneratedPost = {
+        title,
+        slug,
+        date: new Date().toISOString().split("T")[0],
+        author: { name: "Go2Thailand Team" },
+        category: "city-guide",
+        tags: [],
+        image: `/images/blog/${slug}.webp`,
+        description: "",
+        featured: false,
+        readingTime: 8,
+        lastUpdated: new Date().toISOString().split("T")[0],
+        sources: [],
+        content: enContent,
+      };
 
-      const result = await response.json();
+      const filesToCommit: Array<{ path: string; content: string; encoding?: "utf-8" | "base64" }> = [];
+      const savedLocales: string[] = [];
 
-      if (response.ok) {
-        console.log(`[cron/translate] Success:`, result);
+      for (const locale of localesToTranslate) {
+        try {
+          console.log(`[cron/translate] Translating to ${locale}...`);
+          const result = await translatePost(post, locale, "claude-haiku");
+          const translatedWithAffiliates = injectAffiliateLinks(result.content, {
+            inlineLinks: true,
+            ctaBoxes: true,
+            ctaCount: 3,
+          });
+
+          filesToCommit.push({
+            path: `content/blog/${locale}/${slug}.md`,
+            content: translatedWithAffiliates,
+            encoding: "utf-8",
+          });
+          savedLocales.push(locale);
+        } catch (err) {
+          console.error(`[cron/translate] ${locale} failed:`, err);
+        }
+      }
+
+      if (filesToCommit.length > 0) {
+        const commitResult = await commitFilesToGitHub(
+          filesToCommit,
+          `Add translations for: ${title}\n\nLocales: ${savedLocales.join(", ")}`
+        );
+        console.log(`[cron/translate] Committed ${savedLocales.length} translations: ${commitResult.sha}`);
         translated = true;
         break; // One post per cron run
-      } else {
-        console.error(`[cron/translate] Failed:`, result);
       }
     }
 
