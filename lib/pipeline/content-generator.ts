@@ -196,15 +196,24 @@ async function getNextQueuedTopic(): Promise<(QueuedTopic & { category: PostCate
     });
 
     // Find first topic not yet published
+    // Match by targetKeyword since the AI may generate a shorter slug than the full title
+    const existingSlugList = [...existingSlugs];
     for (const item of sorted) {
-      const slug = item.topic
+      const keywordSlug = item.targetKeyword
         .toLowerCase()
         .replace(/[^a-z0-9]+/g, "-")
-        .replace(/^-+|-+$/g, "")
-        .slice(0, 80);
+        .replace(/^-+|-+$/g, "");
 
-      if (!existingSlugs.has(slug)) {
+      // Check if any existing slug contains the keyword (fuzzy match)
+      const alreadyPublished = existingSlugList.some(
+        (s) => s.includes(keywordSlug) || keywordSlug.includes(s.replace(/-\d{4}$/, ""))
+      );
+
+      if (!alreadyPublished) {
+        console.log(`[content-generator] Queue: "${item.topic}" not yet published (keyword: ${keywordSlug})`);
         return item;
+      } else {
+        console.log(`[content-generator] Queue: "${item.topic}" already published (matched keyword: ${keywordSlug})`);
       }
     }
 
