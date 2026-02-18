@@ -16,6 +16,9 @@ export default function Document() {
             {/* Google Ads/AdSense */}
             <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
             <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+
+            {/* Ahrefs Analytics */}
+            <script src="https://analytics.ahrefs.com/analytics.js" data-key="E+8IfL9xrF74c70Fe+NC7w" async />
           </>
         )}
       </Head>
