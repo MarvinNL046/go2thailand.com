@@ -1,0 +1,186 @@
+{
+  "topics": [
+    {
+      "topic": "Best Beaches in Thailand: 15 Stunning Shores for Every Traveler",
+      "category": "islands",
+      "targetKeyword": "best beaches in thailand",
+      "searchVolume": 393000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Phuket/350",
+        "https://www.tourismthailand.org/Destinations/Provinces/Krabi/344",
+        "https://www.tourismthailand.org/Destinations/Provinces/Ko-Phi-Phi/359"
+      ],
+      "priority": 1
+    },
+    {
+      "topic": "Chatuchak Market Bangkok: Complete Shopping and Food Guide 2026",
+      "category": "city-guide",
+      "targetKeyword": "chatuchak market",
+      "searchVolume": 26000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Shop/chatuchak-market"
+      ],
+      "priority": 1
+    },
+    {
+      "topic": "Jodd Fairs Bangkok: The Hottest Night Market Guide 2026",
+      "category": "food",
+      "targetKeyword": "jodd fairs",
+      "searchVolume": 15000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Attraction/jodd-fairs"
+      ],
+      "priority": 1
+    },
+    {
+      "topic": "Thailand Digital Arrival Card (TDAC): Complete Step-by-Step Guide",
+      "category": "practical",
+      "targetKeyword": "thailand digital arrival card",
+      "searchVolume": 18000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Articles/tdac"
+      ],
+      "priority": 1
+    },
+    {
+      "topic": "Loi Krathong Festival 2026: Where to See Thailand's Lantern Festival",
+      "category": "seasonal",
+      "targetKeyword": "loi krathong",
+      "searchVolume": 19000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Articles/loi-krathong-2025-all-area-en"
+      ],
+      "priority": 1
+    },
+    {
+      "topic": "Phuket Travel Guide 2026: Beaches, Temples and Hidden Gems",
+      "category": "city-guide",
+      "targetKeyword": "phuket",
+      "searchVolume": 89000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Phuket/350"
+      ],
+      "priority": 2
+    },
+    {
+      "topic": "Bangkok Travel Guide 2026: A Local's Complete Guide",
+      "category": "city-guide",
+      "targetKeyword": "bangkok",
+      "searchVolume": 86000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Bangkok/219"
+      ],
+      "priority": 2
+    },
+    {
+      "topic": "Krabi Travel Guide: Thailand's Adventure Coast",
+      "category": "city-guide",
+      "targetKeyword": "krabi",
+      "searchVolume": 21000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Krabi/344"
+      ],
+      "priority": 2
+    },
+    {
+      "topic": "Koh Tao Guide: Diving, Beaches and Budget Travel 2026",
+      "category": "islands",
+      "targetKeyword": "koh tao",
+      "searchVolume": 18000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Ko-Tao/361"
+      ],
+      "priority": 2
+    },
+    {
+      "topic": "Wat Arun Bangkok: The Temple of Dawn Complete Guide",
+      "category": "city-guide",
+      "targetKeyword": "wat arun",
+      "searchVolume": 36000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Attraction/wat-arun-ratchawararam-ratchawaramahawihan"
+      ],
+      "priority": 2
+    },
+    {
+      "topic": "Phi Phi Islands Guide: Beyond the Tourist Crowds",
+      "category": "islands",
+      "targetKeyword": "phi phi island",
+      "searchVolume": 21000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Ko-Phi-Phi/359"
+      ],
+      "priority": 2
+    },
+    {
+      "topic": "Doi Inthanon National Park: Thailand's Highest Peak Guide",
+      "category": "activities",
+      "targetKeyword": "doi inthanon",
+      "searchVolume": 11000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Attraction/doi-inthanon-national-park"
+      ],
+      "priority": 3
+    },
+    {
+      "topic": "Koh Chang Guide: Thailand's Underrated Eastern Island",
+      "category": "islands",
+      "targetKeyword": "koh chang",
+      "searchVolume": 13000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Ko-Chang/467"
+      ],
+      "priority": 3
+    },
+    {
+      "topic": "Sanctuary of Truth Pattaya: The Wooden Temple Marvel",
+      "category": "activities",
+      "targetKeyword": "sanctuary of truth",
+      "searchVolume": 12000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Attraction/the-sanctuary-of-truth"
+      ],
+      "priority": 3
+    },
+    {
+      "topic": "Grand Palace Bangkok: Complete Visitor's Guide 2026",
+      "category": "city-guide",
+      "targetKeyword": "grand palace bangkok",
+      "searchVolume": 11000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Attraction/the-grand-palace"
+      ],
+      "priority": 3
+    },
+    {
+      "topic": "Koh Samui vs Koh Phangan: Which Island Is Right for You?",
+      "category": "islands",
+      "targetKeyword": "koh samui",
+      "searchVolume": 63000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Phuket/350"
+      ],
+      "priority": 3
+    },
+    {
+      "topic": "Wat Pho Bangkok: Home of the Reclining Buddha",
+      "category": "city-guide",
+      "targetKeyword": "wat pho",
+      "searchVolume": 19000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Attraction/wat-phra-chetuphon-wimonmangkalaram-ratchaworamahawihan-or-wat-pho"
+      ],
+      "priority": 3
+    },
+    {
+      "topic": "Chiang Mai Travel Guide 2026: Temples, Markets and Mountains",
+      "category": "city-guide",
+      "targetKeyword": "chiang mai",
+      "searchVolume": 16000,
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Chiang-Mai/101"
+      ],
+      "priority": 3
+    }
+  ]
+}

@@ -23,6 +23,16 @@ export interface BlogPostOptions {
   model?: AiModel;
   generateImage?: boolean;
   scrapeContext?: boolean; // Whether to scrape live data for context
+  scrapeUrls?: string[]; // Specific URLs to scrape as priority sources
+}
+
+interface QueuedTopic {
+  topic: string;
+  category: PostCategory;
+  targetKeyword: string;
+  searchVolume: number;
+  scrapeUrls: string[];
+  priority: number;
 }
 
 export interface GeneratedPost {
@@ -127,6 +137,52 @@ const TRANSLATION_LOCALES = ["nl", "zh", "de", "fr", "ru", "ja", "ko"] as const;
 export type TranslationLocale = (typeof TRANSLATION_LOCALES)[number];
 
 // -------------------------------------------------------------------
+// Topic queue
+// -------------------------------------------------------------------
+
+function getNextQueuedTopic(): (QueuedTopic & { category: PostCategory }) | null {
+  try {
+    const queuePath = path.join(process.cwd(), "content", "topic-queue.json");
+    if (!fs.existsSync(queuePath)) return null;
+
+    const queue = JSON.parse(fs.readFileSync(queuePath, "utf-8")) as { topics: QueuedTopic[] };
+
+    // Read existing blog post slugs
+    const enDir = path.join(process.cwd(), "content", "blog", "en");
+    const existingSlugs = new Set<string>();
+    if (fs.existsSync(enDir)) {
+      for (const f of fs.readdirSync(enDir)) {
+        if (f.endsWith(".md")) existingSlugs.add(f.replace(".md", ""));
+      }
+    }
+
+    // Sort by priority (1 first), then by searchVolume (highest first)
+    const sorted = [...queue.topics].sort((a, b) => {
+      if (a.priority !== b.priority) return a.priority - b.priority;
+      return b.searchVolume - a.searchVolume;
+    });
+
+    // Find first topic not yet published
+    for (const item of sorted) {
+      const slug = item.topic
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, "-")
+        .replace(/^-+|-+$/g, "")
+        .slice(0, 80);
+
+      if (!existingSlugs.has(slug)) {
+        return item;
+      }
+    }
+
+    return null; // All queue topics published
+  } catch (err) {
+    console.warn("[content-generator] Failed to read topic queue:", err);
+    return null;
+  }
+}
+
+// -------------------------------------------------------------------
 // Topic selection
 // -------------------------------------------------------------------
 
@@ -134,7 +190,14 @@ export type TranslationLocale = (typeof TRANSLATION_LOCALES)[number];
 export async function selectTopic(
   existingTitles: string[] = [],
   preferredCategory?: PostCategory
-): Promise<{ topic: string; category: PostCategory }> {
+): Promise<{ topic: string; category: PostCategory; scrapeUrls?: string[] }> {
+  // Check priority queue first
+  const queued = getNextQueuedTopic();
+  if (queued) {
+    console.log(`[content-generator] Using queued topic: "${queued.topic}" (priority ${queued.priority}, volume: ${queued.searchVolume})`);
+    return { topic: queued.topic, category: queued.category, scrapeUrls: queued.scrapeUrls };
+  }
+
   const category =
     preferredCategory ||
     randomFrom(Object.keys(TOPIC_BANK) as PostCategory[]);
@@ -175,11 +238,13 @@ export async function generateBlogPost(
   // 1. Select topic
   let topic = options.topic;
   let category = options.category;
+  let scrapeUrls = options.scrapeUrls;
 
   if (!topic) {
     const selected = await selectTopic([], category);
     topic = selected.topic;
     category = selected.category;
+    if (selected.scrapeUrls) scrapeUrls = selected.scrapeUrls;
   } else if (!category) {
     category = detectCategory(topic);
   }
@@ -190,7 +255,7 @@ export async function generateBlogPost(
   let scrapeData: string | null = null;
   if (doScrape) {
     try {
-      scrapeData = await scrapeTopicContext(topic);
+      scrapeData = await scrapeTopicContext(topic, scrapeUrls);
       console.log(
         `[content-generator] Scraped ${scrapeData.length} chars of context`
       );

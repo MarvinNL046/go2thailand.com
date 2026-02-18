@@ -213,14 +213,38 @@ export async function searchTopic(
   return items;
 }
 
+// Scrape specific priority URLs (e.g. from topic queue)
+export async function scrapeSpecificUrls(urls: string[]): Promise<string> {
+  const settled = await Promise.allSettled(
+    urls.map(async (url) => {
+      const content = await scrapeUrl(url);
+      const hostname = new URL(url).hostname;
+      return `## Source: ${hostname}\nURL: ${url}\n\n${content.slice(0, 3000)}`;
+    })
+  );
+
+  const parts: string[] = [];
+  for (const r of settled) {
+    if (r.status === "fulfilled") {
+      parts.push(r.value);
+    }
+  }
+  return parts.join("\n\n---\n\n");
+}
+
 // Scrape a batch of Thailand travel sources for a specific topic
 // Returns combined content for use as AI context — the more high-quality data, the better
-export async function scrapeTopicContext(topic: string): Promise<string> {
+export async function scrapeTopicContext(topic: string, priorityUrls?: string[]): Promise<string> {
   const year = new Date().getFullYear();
   const parts: string[] = [];
 
+  // Scrape priority URLs in parallel with the standard searches (if provided)
+  const priorityUrlsPromise = priorityUrls && priorityUrls.length > 0
+    ? scrapeSpecificUrls(priorityUrls)
+    : Promise.resolve(null);
+
   // Run multiple scrape strategies in parallel for maximum data
-  const [searchResults, detailedSearch, blogContent, newsContent] = await Promise.allSettled([
+  const [searchResults, detailedSearch, blogContent, newsContent, priorityData] = await Promise.allSettled([
     // 1. Primary topic search
     searchTopic(`${topic} Thailand ${year} travel guide`),
     // 2. More specific search for prices, tips, and practical info
@@ -229,7 +253,16 @@ export async function scrapeTopicContext(topic: string): Promise<string> {
     scrapeThailandBlog(),
     // 4. Scrape one relevant travel news source for freshness
     scrapeTravelNews().then((articles) => articles.slice(0, 3)),
+    // 5. Priority URLs (from topic queue) — scraped in parallel
+    priorityUrlsPromise,
   ]);
+
+  // Priority reference data prepended first (authoritative sources from topic queue)
+  if (priorityData.status === "fulfilled" && priorityData.value) {
+    parts.unshift(`PRIORITY REFERENCE DATA (from authoritative sources):\n${priorityData.value}`);
+  } else if (priorityData.status === "rejected") {
+    console.warn("[scraper] Priority URL scrape failed:", priorityData.reason);
+  }
 
   // Primary search results
   if (searchResults.status === "fulfilled" && searchResults.value.length > 0) {
