@@ -1,5 +1,6 @@
 import { GetStaticProps } from 'next';
 import Head from 'next/head';
+import Link from 'next/link';
 import { useState } from 'react';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import IslandCard from '../../components/IslandCard';
@@ -84,6 +85,22 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
         <section className="bg-white border-b">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <Breadcrumbs items={breadcrumbs} />
+          </div>
+        </section>
+
+        {/* Best Beaches CTA */}
+        <section className="bg-gradient-to-r from-cyan-600 to-teal-500">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+            <Link href="/best-beaches-in-thailand" className="flex items-center justify-between group">
+              <div className="flex items-center gap-3 text-white">
+                <span className="text-2xl">🏖️</span>
+                <div>
+                  <span className="font-bold text-sm sm:text-base">Best Beaches in Thailand 2026</span>
+                  <span className="hidden sm:inline text-white/80 text-sm ml-2">— See our ranked guide of 25 top beaches</span>
+                </div>
+              </div>
+              <span className="text-white group-hover:translate-x-1 transition-transform text-xl">→</span>
+            </Link>
           </div>
         </section>
 
