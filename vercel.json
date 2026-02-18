@@ -7,6 +7,10 @@
     {
       "path": "/api/cron/translate-blog",
       "schedule": "30 6 * * *"
+    },
+    {
+      "path": "/api/cron/generate-comparisons",
+      "schedule": "0 7 * * *"
     }
   ]
 }

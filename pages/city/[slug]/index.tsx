@@ -2,7 +2,8 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Head from 'next/head';
 import Image from 'next/image';
 import Link from 'next/link';
-import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getRelatedCities, getCityImageForSection } from '../../../lib/cities';
+import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getRelatedCities, getCityImageForSection, getAllCities } from '../../../lib/cities';
+import { getComparisonsForItem, getComparisonPair } from '../../../lib/comparisons';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import CityCard from '../../../components/CityCard';
 import Sidebar from '../../../components/Sidebar';
@@ -142,12 +143,19 @@ interface City {
   ai_generated?: boolean;
 }
 
+interface CityComparisonLink {
+  slug: string;
+  otherName: { en: string; nl: string };
+  otherSlug: string;
+}
+
 interface CityPageProps {
   city: City;
   relatedCities: any[];
+  comparisons: CityComparisonLink[];
 }
 
-export default function CityPage({ city, relatedCities }: CityPageProps) {
+export default function CityPage({ city, relatedCities, comparisons }: CityPageProps) {
   const router = useRouter();
   const { locale = 'en' } = router;
   const [showFullDescription, setShowFullDescription] = useState(false);
@@ -1118,6 +1126,28 @@ export default function CityPage({ city, relatedCities }: CityPageProps) {
                     </Link>
                   </div>
                 </div>
+
+                {/* Compare with Other Cities */}
+                {comparisons && comparisons.length > 0 && (
+                  <div className="mb-12">
+                    <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                      Compare {city.name.en} with Other Cities
+                    </h2>
+                    <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
+                      {comparisons.map((comp: CityComparisonLink) => (
+                        <Link
+                          key={comp.slug}
+                          href={`/compare/${comp.slug}/`}
+                          className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-4 text-center"
+                        >
+                          <span className="text-sm font-medium text-gray-700">
+                            {city.name.en} <span className="text-gray-400">vs</span> {comp.otherName.en}
+                          </span>
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                )}
               </div>
 
               {/* Sidebar */}
@@ -1449,11 +1479,22 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   }
 
   const relatedCities = getRelatedCities(city, 3);
-  
+
+  const comparisonSlugs = getComparisonsForItem(slug, 'city');
+  const comparisons = comparisonSlugs.map((s: string) => {
+    const pair = getComparisonPair(s);
+    if (!pair) return null;
+    const otherSlug = pair.item1Slug === slug ? pair.item2Slug : pair.item1Slug;
+    const cities = getAllCities();
+    const other = cities.find((c: { slug: string }) => c.slug === otherSlug);
+    return other ? { slug: s, otherName: other.name, otherSlug: other.slug } : null;
+  }).filter(Boolean);
+
   return {
     props: {
       city,
       relatedCities,
+      comparisons,
     },
     revalidate: 86400,
   };

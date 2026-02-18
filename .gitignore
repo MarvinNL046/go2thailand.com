@@ -54,3 +54,4 @@ coverage/
 # Backup files
 *.bak
 *.tmp
+.env*.local

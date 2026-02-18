@@ -7,6 +7,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
 import AffiliateWidget from '../../components/AffiliateWidget';
 import { getAllIslands, getIslandBySlug, getRelatedIslands, generateIslandBreadcrumbs } from '../../lib/islands';
+import { getComparisonsForItem, getComparisonPair } from '../../lib/comparisons';
 
 interface Beach {
   name: string;
@@ -79,9 +80,16 @@ interface RelatedIsland {
   highlights: string[];
 }
 
+interface ComparisonLink {
+  slug: string;
+  otherName: { en: string; nl: string };
+  otherSlug: string;
+}
+
 interface IslandPageProps {
   island: Island;
   relatedIslands: RelatedIsland[];
+  comparisons: ComparisonLink[];
 }
 
 const getTransportIcon = (method: string) => {
@@ -94,7 +102,7 @@ const getTransportIcon = (method: string) => {
   return '🚐';
 };
 
-export default function IslandPage({ island, relatedIslands }: IslandPageProps) {
+export default function IslandPage({ island, relatedIslands, comparisons }: IslandPageProps) {
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
   const breadcrumbs = generateIslandBreadcrumbs(island);
@@ -352,6 +360,27 @@ export default function IslandPage({ island, relatedIslands }: IslandPageProps) 
                   <p className="w-full text-gray-500 text-xs mt-1">Affiliate links - we may earn a commission at no extra cost to you</p>
                 </div>
               </section>
+              {/* Compare with Other Islands */}
+              {comparisons.length > 0 && (
+                <section>
+                  <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                    Compare {island.name[lang]} with Other Islands
+                  </h2>
+                  <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
+                    {comparisons.map((comp: ComparisonLink) => (
+                      <Link
+                        key={comp.slug}
+                        href={`/compare/${comp.slug}/`}
+                        className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-4 text-center"
+                      >
+                        <span className="text-sm font-medium text-gray-700">
+                          {island.name[lang]} <span className="text-gray-400">vs</span> {comp.otherName[lang]}
+                        </span>
+                      </Link>
+                    ))}
+                  </div>
+                </section>
+              )}
             </div>
 
             {/* Sidebar */}
@@ -558,10 +587,21 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
   const relatedIslands = getRelatedIslands(island, 3);
 
+  const comparisonSlugs = getComparisonsForItem(slug, 'island');
+  const comparisons = comparisonSlugs.map((s: string) => {
+    const pair = getComparisonPair(s);
+    if (!pair) return null;
+    const otherSlug = pair.item1Slug === slug ? pair.item2Slug : pair.item1Slug;
+    const islands = getAllIslands();
+    const other = islands.find((i: { slug: string }) => i.slug === otherSlug);
+    return other ? { slug: s, otherName: other.name, otherSlug: other.slug } : null;
+  }).filter(Boolean);
+
   return {
     props: {
       island,
-      relatedIslands
+      relatedIslands,
+      comparisons
     },
     revalidate: 86400
   };
