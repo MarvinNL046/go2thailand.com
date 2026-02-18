@@ -39,7 +39,7 @@ export default function AuthorBio({ name, locale = 'en' }: AuthorBioProps) {
             {author.bio[lang]}
           </p>
           <Link
-            href="/about/"
+            href="/"
             className="text-thailand-blue text-sm hover:underline mt-2 inline-block"
           >
             {lang === 'nl' ? 'Meer over ons' : 'More about us'} &rarr;

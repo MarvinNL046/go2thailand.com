@@ -23,6 +23,11 @@ export default function Hreflang() {
   // Remove query string and hash from path
   const cleanPath = asPath.split('?')[0].split('#')[0];
 
+  const canonicalUrl =
+    currentLocale === 'en'
+      ? `${SITE_URL}${cleanPath}`
+      : `${SITE_URL}/${currentLocale}${cleanPath}`;
+
   return (
     <Head>
       {locales.map((locale) => {
@@ -44,18 +49,17 @@ export default function Hreflang() {
       {/* x-default points to the English (default) version */}
       <link rel="alternate" hrefLang="x-default" href={`${SITE_URL}${cleanPath}`} />
       {/* Canonical always points to current locale version */}
-      <link
-        key="canonical"
-        rel="canonical"
-        href={
-          currentLocale === 'en'
-            ? `${SITE_URL}${cleanPath}`
-            : `${SITE_URL}/${currentLocale}${cleanPath}`
-        }
-      />
+      <link key="canonical" rel="canonical" href={canonicalUrl} />
+      {/* Open Graph defaults - pages can override these with their own Head tags */}
+      <meta property="og:site_name" content="Go2Thailand" />
+      <meta property="og:type" content="website" />
+      <meta property="og:url" content={canonicalUrl} />
+      <meta property="og:image" content={`${SITE_URL}/og-default.webp`} />
+      <meta property="og:locale" content={currentLocale === 'en' ? 'en_US' : currentLocale} />
       {/* Twitter Card */}
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@go2thailand" />
+      <meta name="twitter:image" content={`${SITE_URL}/og-default.webp`} />
     </Head>
   );
 }
