@@ -140,21 +140,54 @@ export type TranslationLocale = (typeof TRANSLATION_LOCALES)[number];
 // Topic queue
 // -------------------------------------------------------------------
 
-function getNextQueuedTopic(): (QueuedTopic & { category: PostCategory }) | null {
+// Fetch existing blog slugs from GitHub (authoritative source, not stale filesystem)
+async function getExistingSlugsFromGitHub(): Promise<Set<string>> {
+  const slugs = new Set<string>();
+  try {
+    const token = process.env.GITHUB_TOKEN;
+    if (!token) throw new Error("No GITHUB_TOKEN");
+
+    const res = await fetch(
+      "https://api.github.com/repos/MarvinNL046/go2thailand.com/contents/content/blog/en",
+      {
+        headers: {
+          Authorization: `token ${token}`,
+          Accept: "application/vnd.github.v3+json",
+        },
+        signal: AbortSignal.timeout(8000),
+      }
+    );
+    if (!res.ok) throw new Error(`GitHub API: ${res.status}`);
+
+    const files = (await res.json()) as Array<{ name: string }>;
+    for (const f of files) {
+      if (f.name.endsWith(".md")) {
+        slugs.add(f.name.replace(".md", ""));
+      }
+    }
+    console.log(`[content-generator] Found ${slugs.size} existing slugs from GitHub`);
+  } catch (err) {
+    console.warn("[content-generator] GitHub slug check failed, falling back to filesystem:", err);
+    // Fallback to local filesystem
+    const enDir = path.join(process.cwd(), "content", "blog", "en");
+    if (fs.existsSync(enDir)) {
+      for (const f of fs.readdirSync(enDir)) {
+        if (f.endsWith(".md")) slugs.add(f.replace(".md", ""));
+      }
+    }
+  }
+  return slugs;
+}
+
+async function getNextQueuedTopic(): Promise<(QueuedTopic & { category: PostCategory }) | null> {
   try {
     const queuePath = path.join(process.cwd(), "content", "topic-queue.json");
     if (!fs.existsSync(queuePath)) return null;
 
     const queue = JSON.parse(fs.readFileSync(queuePath, "utf-8")) as { topics: QueuedTopic[] };
 
-    // Read existing blog post slugs
-    const enDir = path.join(process.cwd(), "content", "blog", "en");
-    const existingSlugs = new Set<string>();
-    if (fs.existsSync(enDir)) {
-      for (const f of fs.readdirSync(enDir)) {
-        if (f.endsWith(".md")) existingSlugs.add(f.replace(".md", ""));
-      }
-    }
+    // Check GitHub for existing slugs (not stale local filesystem)
+    const existingSlugs = await getExistingSlugsFromGitHub();
 
     // Sort by priority (1 first), then by searchVolume (highest first)
     const sorted = [...queue.topics].sort((a, b) => {
@@ -192,7 +225,7 @@ export async function selectTopic(
   preferredCategory?: PostCategory
 ): Promise<{ topic: string; category: PostCategory; scrapeUrls?: string[] }> {
   // Check priority queue first
-  const queued = getNextQueuedTopic();
+  const queued = await getNextQueuedTopic();
   if (queued) {
     console.log(`[content-generator] Using queued topic: "${queued.topic}" (priority ${queued.priority}, volume: ${queued.searchVolume})`);
     return { topic: queued.topic, category: queued.category, scrapeUrls: queued.scrapeUrls };
