@@ -61,7 +61,7 @@ const Header = () => {
               {/* Food & Drinks Dropdown */}
               <div className="relative group">
                 <button className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 flex items-center space-x-1 relative">
-                  <span>🍜 {t('nav.foodDrinks')}</span>
+                  <span>{t('nav.foodDrinks')}</span>
                   <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
                   </svg>
@@ -71,28 +71,22 @@ const Header = () => {
                 <div className="absolute left-0 mt-2 w-full max-w-[14rem] sm:w-56 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-thailand-blue-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
                   <div className="py-2">
                     <Link href="/food/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🍜</span>
                       {t('nav.thaiFood')}
                     </Link>
                     <Link href="/drinks/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🍹</span>
                       {t('nav.thaiDrinks')}
                     </Link>
                     <div className="border-t border-gray-100 my-2"></div>
                     <Link href="/food/category/main-dish/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🍛</span>
                       Main Dishes
                     </Link>
                     <Link href="/food/category/soup/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🍲</span>
                       Soups & Curries
                     </Link>
                     <Link href="/drinks/category/alcohol/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🍺</span>
                       Thai Beers & Spirits
                     </Link>
                     <Link href="/drinks/category/tea/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🫖</span>
                       Thai Teas & Coffee
                     </Link>
                   </div>
@@ -102,7 +96,7 @@ const Header = () => {
               {/* Travel Needs Dropdown */}
               <div className="relative group">
                 <button className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 flex items-center space-x-1 relative">
-                  <span>💼 {t('nav.travelNeeds')}</span>
+                  <span>{t('nav.travelNeeds')}</span>
                   <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
                   </svg>
@@ -112,36 +106,28 @@ const Header = () => {
                 <div className="absolute left-0 mt-2 w-full max-w-[14rem] sm:w-56 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-thailand-blue-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
                   <div className="py-2">
                     <Link href="/esim/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">📱</span>
                       {t('nav.esim')}
                     </Link>
                     <Link href="/travel-insurance/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🛡️</span>
                       {t('nav.insurance')}
                     </Link>
                     <Link href="/travel-gear/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🎒</span>
                       {t('nav.gear')}
                     </Link>
                     <div className="border-t border-gray-100 my-2"></div>
                     <Link href="/best-cooking-classes-in-thailand/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3 text-xs">&#x1F373;</span>
                       Cooking Classes
                     </Link>
                     <Link href="/best-muay-thai-in-thailand/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3 text-xs">&#x1F94A;</span>
                       Muay Thai
                     </Link>
                     <Link href="/best-elephant-sanctuaries-in-thailand/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3 text-xs">&#x1F418;</span>
                       Elephant Sanctuaries
                     </Link>
                     <Link href="/best-diving-snorkeling-in-thailand/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3 text-xs">&#x1F3CA;</span>
                       Diving &amp; Snorkeling
                     </Link>
                     <Link href="/travel-security/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🔒</span>
                       {t('nav.vpnSecurity')}
                     </Link>
                   </div>
@@ -151,7 +137,7 @@ const Header = () => {
               {/* Visa & Info Dropdown */}
               <div className="relative group">
                 <button className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 flex items-center space-x-1 relative">
-                  <span>🛂 {t('nav.visaInfo')}</span>
+                  <span>{t('nav.visaInfo')}</span>
                   <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
                   </svg>
@@ -161,28 +147,22 @@ const Header = () => {
                 <div className="absolute left-0 mt-2 w-full max-w-[14rem] sm:w-56 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-thailand-blue-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
                   <div className="py-2">
                     <Link href="/visa/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🛂</span>
                       {t('nav.visaGuide')}
                     </Link>
                     <Link href="/practical-info/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">📋</span>
                       {t('nav.practicalInfo')}
                     </Link>
                     <div className="border-t border-gray-100 my-2"></div>
                     <Link href="/visa/visa-free-entry/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">✈️</span>
                       {t('nav.visaFreeEntry')}
                     </Link>
                     <Link href="/practical-info/scams-safety/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">⚠️</span>
                       {t('nav.scamsSafety')}
                     </Link>
                     <Link href="/practical-info/atm-money/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">💰</span>
                       {t('nav.moneyGuide')}
                     </Link>
                     <Link href="/blog/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">📝</span>
                       {t('nav.blog')}
                     </Link>
                   </div>
@@ -202,16 +182,13 @@ const Header = () => {
                 <div className="absolute left-0 mt-2 w-full max-w-[14rem] sm:w-56 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-thailand-blue-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
                   <div className="py-2">
                     <Link href="/weather/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🌤️</span>
                       {t('nav.weather')}
                     </Link>
                     <Link href="/transport/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🚌</span>
                       {t('nav.transport')}
                     </Link>
                     <div className="border-t border-gray-100 mt-2 pt-2">
                       <Link href="/social/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                        <span className="mr-3">📸</span>
                         {t('nav.social')}
                       </Link>
                     </div>
@@ -222,7 +199,7 @@ const Header = () => {
               {/* Top 10 Guides Dropdown */}
               <div className="relative group">
                 <button className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 flex items-center space-x-1 relative">
-                  <span>🏆 {t('nav.top10')}</span>
+                  <span>{t('nav.top10')}</span>
                   <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
                   </svg>
@@ -235,15 +212,12 @@ const Header = () => {
                       {t('nav.byCategory')}
                     </div>
                     <Link href="/top-10/restaurants/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🍽️</span>
                       {t('nav.restaurantGuides')}
                     </Link>
                     <Link href="/top-10/hotels/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🏨</span>
                       {t('nav.hotelGuides')}
                     </Link>
                     <Link href="/top-10/attractions/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🎯</span>
                       {t('nav.attractionGuides')}
                     </Link>
                     <div className="border-t border-gray-100 mt-2 pt-2">
@@ -251,15 +225,12 @@ const Header = () => {
                         {t('nav.popularCities')}
                       </div>
                       <Link href="/city/bangkok/top-10-restaurants/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                        <span className="mr-3">📍</span>
                         {t('nav.bangkokTop10')}
                       </Link>
                       <Link href="/city/phuket/top-10-hotels/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                        <span className="mr-3">📍</span>
                         {t('nav.phuketTop10')}
                       </Link>
                       <Link href="/city/chiang-mai/top-10-attractions/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                        <span className="mr-3">📍</span>
                         {t('nav.chiangMaiTop10')}
                       </Link>
                     </div>
@@ -343,37 +314,37 @@ const Header = () => {
               className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              🏠 {t('nav.home')}
+              {t('nav.home')}
             </Link>
             <Link
               href="/city/"
               className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              🏙️ {t('nav.cities')}
+              {t('nav.cities')}
             </Link>
             <Link
               href="/islands/"
               className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              🏝️ {t('nav.islands')}
+              {t('nav.islands')}
             </Link>
             <div className="border-t border-thailand-blue-100 pt-2 mt-2">
-              <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">🍜 {t('nav.foodDrinks')}</div>
+              <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">{t('nav.foodDrinks')}</div>
               <Link 
                 href="/food/" 
                 className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                🍜 {t('nav.thaiFood')}
+                {t('nav.thaiFood')}
               </Link>
               <Link 
                 href="/drinks/" 
                 className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                🍹 {t('nav.thaiDrinks')}
+                {t('nav.thaiDrinks')}
               </Link>
             </div>
             <Link 
@@ -381,21 +352,21 @@ const Header = () => {
               className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              📱 eSIM
+              eSIM
             </Link>
             <Link 
               href="/travel-insurance/" 
               className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              🛡️ {t('nav.insurance')}
+              {t('nav.insurance')}
             </Link>
             <Link
               href="/travel-gear/"
               className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              🎒 {t('nav.gear')}
+              {t('nav.gear')}
             </Link>
             <div className="border-t border-gray-200 my-2 mx-4"></div>
             <Link
@@ -432,77 +403,77 @@ const Header = () => {
               className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              🔒 {t('nav.vpnSecurity')}
+              {t('nav.vpnSecurity')}
             </Link>
             <Link 
               href="/weather/" 
               className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              🌤️ {t('nav.weather')}
+              {t('nav.weather')}
             </Link>
             <Link 
               href="/transport/" 
               className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              🚌 {t('nav.transport')}
+              {t('nav.transport')}
             </Link>
             <Link 
               href="/social/" 
               className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              📸 {t('nav.social')}
+              {t('nav.social')}
             </Link>
             
             <div className="border-t border-thailand-blue-100 pt-2 mt-2">
-              <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">🛂 {t('nav.visaInfo')}</div>
+              <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">{t('nav.visaInfo')}</div>
               <Link
                 href="/visa/"
                 className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                🛂 {t('nav.visaGuide')}
+                {t('nav.visaGuide')}
               </Link>
               <Link
                 href="/practical-info/"
                 className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                📋 {t('nav.practicalInfo')}
+                {t('nav.practicalInfo')}
               </Link>
               <Link
                 href="/blog/"
                 className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                📝 {t('nav.blog')}
+                {t('nav.blog')}
               </Link>
             </div>
 
             <div className="border-t border-thailand-blue-100 pt-2 mt-2">
-              <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">🏆 {t('nav.top10')}</div>
+              <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">{t('nav.top10')}</div>
               <Link 
                 href="/top-10/restaurants/" 
                 className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                🍽️ {t('nav.restaurantGuides')}
+                {t('nav.restaurantGuides')}
               </Link>
               <Link 
                 href="/top-10/hotels/" 
                 className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                🏨 {t('nav.hotelGuides')}
+                {t('nav.hotelGuides')}
               </Link>
               <Link 
                 href="/top-10/attractions/" 
                 className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                🎯 {t('nav.attractionGuides')}
+                {t('nav.attractionGuides')}
               </Link>
             </div>
             
@@ -513,28 +484,28 @@ const Header = () => {
                 className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                🏔️ {t('nav.northernThailand')}
+                {t('nav.northernThailand')}
               </Link>
               <Link 
                 href="/region/central/" 
                 className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                🏛️ {t('nav.centralThailand')}
+                {t('nav.centralThailand')}
               </Link>
               <Link 
                 href="/region/southern/" 
                 className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                🏖️ {t('nav.southernThailand')}
+                {t('nav.southernThailand')}
               </Link>
               <Link 
                 href="/region/isaan/" 
                 className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                🌾 {t('nav.isaanNortheast')}
+                {t('nav.isaanNortheast')}
               </Link>
             </div>
 
@@ -544,7 +515,7 @@ const Header = () => {
                 className="bg-gradient-to-r from-thailand-red to-thailand-red-600 text-white block px-4 py-3 rounded-lg text-center font-semibold hover:from-thailand-red-600 hover:to-thailand-red-700 transition-all duration-300 shadow-lg"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                🚀 {t('nav.exploreThailandNow')}
+                {t('nav.exploreThailandNow')}
               </Link>
             </div>
           </div>

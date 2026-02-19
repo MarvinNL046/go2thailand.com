@@ -72,7 +72,7 @@ const Footer = () => {
           {/* Weather & Climate */}
           <div>
             <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase mb-4">
-              🌤️ {t('footer.weatherGuide')}
+              {t('footer.weatherGuide')}
             </h3>
             <ul className="space-y-2">
               <li>
@@ -87,7 +87,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link href="/thailand-in/april/" className="text-gray-300 hover:text-thailand-red text-sm transition-colors">
-                  {t('footer.songkranSeason')} 🎉
+                  {t('footer.songkranSeason')}
                 </Link>
               </li>
               <li>
@@ -180,7 +180,7 @@ const Footer = () => {
           {/* Transport Routes */}
           <div>
             <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase mb-4">
-              🚌 {t('footer.transportRoutes')}
+              {t('footer.transportRoutes')}
             </h3>
             <ul className="space-y-2">
               <li>
@@ -214,7 +214,7 @@ const Footer = () => {
           {/* Top 10 Guides */}
           <div>
             <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase mb-4">
-              🏆 {t('footer.top10Guides')}
+              {t('footer.top10Guides')}
             </h3>
             <ul className="space-y-2">
               <li>
