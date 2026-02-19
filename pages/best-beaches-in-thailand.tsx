@@ -52,7 +52,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
     { name: 'Home', href: '/' },
     {
       name: lang === 'nl' ? 'Beste Stranden in Thailand' : 'Best Beaches in Thailand',
-      href: '/best-beaches-in-thailand'
+      href: '/best-beaches-in-thailand/'
     }
   ];
 

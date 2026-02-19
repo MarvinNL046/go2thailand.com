@@ -1,9 +1,13 @@
 import { GetStaticProps } from 'next';
+import Head from 'next/head';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { getAllComparisons, getPopularComparisons } from '../../lib/comparisons';
+
+const SITE_URL = 'https://go2-thailand.com';
+const TRANSLATED_LOCALES = ['en', 'nl'];
 
 interface ComparisonName {
   en: string;
@@ -112,6 +116,9 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
     }
   };
 
+  const { locale: currentLocale } = useRouter();
+  const isTranslated = TRANSLATED_LOCALES.includes(currentLocale || 'en');
+
   return (
     <>
       <SEOHead
@@ -127,6 +134,12 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
       </SEOHead>
+      {/* Override canonical and hreflang for non-translated locales */}
+      {!isTranslated && (
+        <Head>
+          <link key="canonical" rel="canonical" href={`${SITE_URL}/compare/`} />
+        </Head>
+      )}
 
       <div className="bg-gray-50 min-h-screen">
 

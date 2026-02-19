@@ -1,4 +1,5 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
+import Head from 'next/head';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -8,6 +9,9 @@ import TripcomWidget from '../../components/TripcomWidget';
 import { getAllComparisons, getComparisonPair, getComparisonBySlug, getComparisonsForItem } from '../../lib/comparisons';
 import { getIslandBySlug } from '../../lib/islands';
 import { getCityBySlug } from '../../lib/cities';
+
+const SITE_URL = 'https://go2-thailand.com';
+const TRANSLATED_LOCALES = ['en', 'nl'];
 
 // ---- Type definitions ----
 
@@ -196,6 +200,7 @@ export default function ComparisonPage({
 }: ComparisonPageProps) {
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
+  const isTranslated = TRANSLATED_LOCALES.includes(locale || 'en');
   const t = translations[lang];
 
   const item1Name = item1.name[lang];
@@ -317,6 +322,12 @@ export default function ComparisonPage({
           />
         )}
       </SEOHead>
+      {/* Override canonical for non-translated locales to point to EN */}
+      {!isTranslated && (
+        <Head>
+          <link key="canonical" rel="canonical" href={`${SITE_URL}/compare/${slug}/`} />
+        </Head>
+      )}
 
       <div className="bg-gray-50 min-h-screen">
 

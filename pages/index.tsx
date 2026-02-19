@@ -140,8 +140,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         <div className="relative z-10 h-full flex items-center justify-center text-center">
           <div className="max-w-4xl mx-auto px-4 py-12 sm:py-8">
             <h1 className="text-4xl lg:text-6xl font-bold text-white mb-6 drop-shadow-lg">
-              <span className="sr-only">{t('hero.title')}</span>
-              <TypewriterText text={t('hero.title')} speed={80} className="text-white" aria-hidden="true" />
+              <TypewriterText text={t('hero.title')} speed={80} className="text-white" />
             </h1>
             <FadeInText delay={2000} duration={800}>
               <p className="text-xl lg:text-2xl text-gray-200 mb-4 max-w-2xl mx-auto drop-shadow-md">

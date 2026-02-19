@@ -30,24 +30,33 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      // Old URL patterns
       {
-        source: '/cities/:slug*',
-        destination: '/city/:slug*',
+        source: '/cities/:slug*/',
+        destination: '/city/:slug*/',
         permanent: true,
       },
       {
-        source: '/about',
+        source: '/about/',
         destination: '/',
         permanent: true,
       },
+      // Self-referencing transport route bug
       {
-        source: '/transport/bangkok-to-bangkok',
+        source: '/transport/bangkok-to-bangkok/',
         destination: '/transport/',
         permanent: true,
       },
+      // Koh Samui requires going through Surat Thani
       {
-        source: '/transport/bangkok-to-koh-samui',
+        source: '/transport/bangkok-to-koh-samui/',
         destination: '/transport/bangkok-to-surat-thani/',
+        permanent: true,
+      },
+      // Old island URL referenced in blog posts
+      {
+        source: '/islands/phuket/',
+        destination: '/city/phuket/',
         permanent: true,
       },
     ]
