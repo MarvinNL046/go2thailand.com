@@ -1,0 +1,37 @@
+{
+  "cities": [
+    {
+      "slug": "bangkok",
+      "name": { "en": "Bangkok", "nl": "Bangkok" },
+      "classCount": 8,
+      "priceRange": { "from": 16, "to": 82, "currency": "EUR" },
+      "topRating": 5.0,
+      "highlight": {
+        "en": "Home to Rajadamnern Stadium, the world's oldest Muay Thai venue. Bangkok offers both legendary live fights and beginner-friendly training sessions at professional gyms across the city.",
+        "nl": "Thuisbasis van Rajadamnern Stadium, de oudste Muay Thai-arena ter wereld. Bangkok biedt zowel legendarische live gevechten als beginnersvriendelijke trainingen bij professionele sportscholen door de hele stad."
+      }
+    },
+    {
+      "slug": "chiang-mai",
+      "name": { "en": "Chiang Mai", "nl": "Chiang Mai" },
+      "classCount": 7,
+      "priceRange": { "from": 16, "to": 69, "currency": "EUR" },
+      "topRating": 5.0,
+      "highlight": {
+        "en": "Chiang Mai has multiple boxing stadiums in the old city area, offering nightly fights and affordable training sessions. The Thapae and Kalare stadiums are the most popular for tourists.",
+        "nl": "Chiang Mai heeft meerdere boksstadions in het oude stadsgedeelte, met nachtelijke gevechten en betaalbare trainingen. De Thapae en Kalare stadions zijn het populairst bij toeristen."
+      }
+    },
+    {
+      "slug": "phuket",
+      "name": { "en": "Phuket", "nl": "Phuket" },
+      "classCount": 10,
+      "priceRange": { "from": 13, "to": 56, "currency": "EUR" },
+      "topRating": 4.9,
+      "highlight": {
+        "en": "Phuket is Thailand's Muay Thai training hub with world-class gyms like Sumalee and Tiger Muay Thai. Watch fights at Patong and Bangla stadiums, or train with professional coaches in Patong and Rawai.",
+        "nl": "Phuket is de Muay Thai-trainingshub van Thailand met sportscholen van wereldklasse zoals Sumalee en Tiger Muay Thai. Bekijk gevechten in Patong en Bangla stadions, of train met professionele coaches in Patong en Rawai."
+      }
+    }
+  ]
+}

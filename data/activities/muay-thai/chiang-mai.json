@@ -1,0 +1,131 @@
+{
+  "city": "chiang-mai",
+  "cityName": { "en": "Chiang Mai", "nl": "Chiang Mai" },
+  "intro": {
+    "en": "Chiang Mai's Muay Thai scene is centered around the old city, with several boxing stadiums hosting nightly fights. The Thapae Boxing Stadium and Kalare Night Bazaar Boxing Stadium are the most popular venues for tourists, offering exciting fights in an intimate atmosphere. For those wanting to try Muay Thai themselves, the city has excellent training gyms offering beginner-friendly sessions. Chiang Mai's affordable prices and relaxed vibe make it an ideal place to experience Thailand's national sport.",
+    "nl": "De Muay Thai-scene van Chiang Mai is gecentreerd rond de oude stad, met meerdere boksstadions die nachtelijke gevechten organiseren. Het Thapae Boxing Stadium en Kalare Night Bazaar Boxing Stadium zijn de populairste locaties voor toeristen, met spannende gevechten in een intieme sfeer. Voor wie zelf Muay Thai wil proberen, heeft de stad uitstekende trainingsgyms met beginnersvriendelijke sessies. De betaalbare prijzen en ontspannen sfeer van Chiang Mai maken het een ideale plek om de nationale sport van Thailand te ervaren."
+  },
+  "tips": {
+    "en": [
+      "Fights at Thapae and Kalare stadiums run most evenings — check schedules as they vary",
+      "Tickets are much cheaper than Bangkok — from EUR16 for standard seats",
+      "Training sessions are great for beginners — no experience needed",
+      "The Kalare Night Bazaar stadium combines fights with the popular night market",
+      "Book combo packages that include training, street food, and a live fight for best value"
+    ],
+    "nl": [
+      "Gevechten in Thapae en Kalare stadions zijn de meeste avonden — controleer schema's want ze variëren",
+      "Tickets zijn veel goedkoper dan Bangkok — vanaf EUR16 voor standaard stoelen",
+      "Trainingen zijn geweldig voor beginners — geen ervaring nodig",
+      "Het Kalare Night Bazaar stadium combineert gevechten met de populaire nachtmarkt",
+      "Boek combopakketten met training, straatvoedsel en een live gevecht voor de beste waarde"
+    ]
+  },
+  "classes": [
+    {
+      "name": "Chiang Mai Boxing Stadiums Ticket",
+      "slug": "chiang-mai-boxing-stadiums",
+      "provider": "GetYourGuide",
+      "type": "watch",
+      "rating": 4.7,
+      "reviews": 1343,
+      "priceFrom": 16,
+      "currency": "EUR",
+      "duration": "3 hours",
+      "groupSize": "group",
+      "includes": ["Stadium entry", "Multiple bouts", "Seat selection"],
+      "badge": "Top pick",
+      "gygPath": "/chiang-mai-l271/chiangmai-chiangmai-boxing-stadiums-ticket-t859999/"
+    },
+    {
+      "name": "Kalare Night Bazaar Boxing Stadium Muay Thai",
+      "slug": "kalare-night-bazaar-stadium",
+      "provider": "GetYourGuide",
+      "type": "watch",
+      "rating": 4.7,
+      "reviews": 505,
+      "priceFrom": 16,
+      "currency": "EUR",
+      "duration": "3 hours",
+      "groupSize": "group",
+      "includes": ["Night bazaar location", "Live fights", "Easy access"],
+      "badge": "Top rated",
+      "gygPath": "/chiang-mai-l271/chiang-mai-kalare-night-bazaar-boxing-stadium-muay-thai-t658280/"
+    },
+    {
+      "name": "Thapae Boxing Stadium Muay Thai Match Ticket",
+      "slug": "thapae-stadium-ticket",
+      "provider": "GetYourGuide",
+      "type": "watch",
+      "rating": 4.5,
+      "reviews": 456,
+      "priceFrom": 20,
+      "currency": "EUR",
+      "duration": "3 hours",
+      "groupSize": "group",
+      "includes": ["Skip the line", "Historic stadium", "Multiple bouts"],
+      "badge": "",
+      "gygPath": "/chiang-mai-l271/chiang-mai-thapae-boxing-stadium-muay-thai-match-ticket-t537490/"
+    },
+    {
+      "name": "Authentic Muay Thai Training Experience",
+      "slug": "authentic-training-experience",
+      "provider": "GetYourGuide",
+      "type": "train",
+      "rating": 4.8,
+      "reviews": 159,
+      "priceFrom": 23,
+      "currency": "EUR",
+      "duration": "1.5 hours",
+      "groupSize": "small group",
+      "includes": ["Professional trainers", "Equipment provided", "All levels"],
+      "badge": "Top rated",
+      "gygPath": "/chiang-mai-l271/chiangmai-muay-thai-training-academysting-club-t570485/"
+    },
+    {
+      "name": "Thaphae Boxing Stadium Muay Thai",
+      "slug": "thaphae-stadium-fights",
+      "provider": "GetYourGuide",
+      "type": "watch",
+      "rating": 4.6,
+      "reviews": 96,
+      "priceFrom": 16,
+      "currency": "EUR",
+      "duration": "3 hours",
+      "groupSize": "group",
+      "includes": ["Live fights", "Multiple weight classes", "Authentic atmosphere"],
+      "badge": "",
+      "gygPath": "/chiang-mai-l271/chiang-mai-thaphae-boxing-stadium-muay-thai-t658300/"
+    },
+    {
+      "name": "Muay Thai Class, Street Food & Show with Pickup",
+      "slug": "class-food-show-combo",
+      "provider": "GetYourGuide",
+      "type": "combo",
+      "rating": 4.8,
+      "reviews": 0,
+      "priceFrom": 67,
+      "currency": "EUR",
+      "duration": "8 hours",
+      "groupSize": "small group",
+      "includes": ["Training class", "Street food tour", "Live fight show", "Hotel pickup"],
+      "badge": "",
+      "gygPath": "/chiang-mai-l271/chiang-mai-muay-thai-class-street-food-show-with-pickup-t1054479/"
+    },
+    {
+      "name": "Muay Thai Boxing Experience",
+      "slug": "boxing-experience",
+      "provider": "GetYourGuide",
+      "type": "train",
+      "rating": 5.0,
+      "reviews": 7,
+      "priceFrom": 69,
+      "currency": "EUR",
+      "duration": "3 hours",
+      "groupSize": "group",
+      "includes": ["Full training session", "Hotel pickup", "Professional coaches"],
+      "badge": "",
+      "gygPath": "/chiang-mai-l271/chiang-mai-muay-thai-boxing-experience-t127112/"
+    }
+  ]
+}
