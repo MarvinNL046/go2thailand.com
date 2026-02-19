@@ -124,7 +124,6 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
           name="keywords"
           content="Thailand comparisons, Koh Samui vs Koh Phangan, Bangkok vs Chiang Mai, Thailand islands comparison, Thailand cities comparison"
         />
-        <link rel="canonical" href="https://go2-thailand.com/compare/" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}

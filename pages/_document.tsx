@@ -1,10 +1,20 @@
-import { Html, Head, Main, NextScript } from 'next/document';
+import Document, { Html, Head, Main, NextScript, DocumentContext, DocumentInitialProps } from 'next/document';
 
-export default function Document() {
-  const isProduction = process.env.NODE_ENV === 'production';
+interface MyDocumentProps extends DocumentInitialProps {
+  locale: string;
+}
 
-  return (
-    <Html>
+export default class MyDocument extends Document<MyDocumentProps> {
+  static async getInitialProps(ctx: DocumentContext): Promise<MyDocumentProps> {
+    const initialProps = await Document.getInitialProps(ctx);
+    return { ...initialProps, locale: ctx.locale || 'en' };
+  }
+
+  render() {
+    const isProduction = process.env.NODE_ENV === 'production';
+
+    return (
+      <Html lang={this.props.locale}>
       <Head>
         {/* Preconnect to external origins for better performance */}
         {isProduction && (
@@ -38,5 +48,6 @@ export default function Document() {
         <NextScript />
       </body>
     </Html>
-  );
+    );
+  }
 }

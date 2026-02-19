@@ -2,7 +2,7 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Head from 'next/head';
 import Image from 'next/image';
 import Link from 'next/link';
-import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getCityImageForSection, getEnhancedAttractionsByCity } from '../../../lib/cities';
+import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getCityImageForSection, getEnhancedAttractionsByCity, toAbsoluteImageUrl } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
 
@@ -87,7 +87,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
         <meta name="keywords" content={metadata.keywords} />
         <meta property="og:title" content={metadata.openGraph?.title || metadata.title} />
         <meta property="og:description" content={metadata.openGraph?.description || metadata.description} />
-        <meta property="og:image" content={metadata.openGraph?.images?.[0]?.url || getCityImageForSection(city, 'attractions')} />
+        <meta property="og:image" content={metadata.openGraph?.images?.[0]?.url || toAbsoluteImageUrl(getCityImageForSection(city, 'attractions'))} />
       </Head>
 
       <div className="bg-gray-50 min-h-screen">

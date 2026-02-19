@@ -42,7 +42,6 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
         {/* OpenGraph for social sharing */}
         <meta property="og:title" content="Top 10 Hotel Guides | Best Accommodation in Thailand" />
         <meta property="og:description" content="Find the best hotels in Thailand with current rates, guest reviews, and booking tips." />
-        <meta property="og:url" content="https://go2-thailand.com/top-10/hotels/" />
         <meta property="og:type" content="website" />
         
         {/* Structured data for SEO */}

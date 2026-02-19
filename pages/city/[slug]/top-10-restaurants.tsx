@@ -100,7 +100,6 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
         {/* OpenGraph for social sharing */}
         <meta property="og:title" content={restaurantsData.title} />
         <meta property="og:description" content={restaurantsData.meta_description} />
-        <meta property="og:url" content={`https://go2-thailand.com/city/${city.slug}/top-10-restaurants/`} />
         <meta property="og:type" content="article" />
         
         {/* Structured data for SEO */}

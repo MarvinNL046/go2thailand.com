@@ -100,7 +100,6 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
         {/* OpenGraph for social sharing */}
         <meta property="og:title" content={hotelsData.title} />
         <meta property="og:description" content={hotelsData.meta_description} />
-        <meta property="og:url" content={`https://go2-thailand.com/city/${city.slug}/top-10-hotels/`} />
         <meta property="og:type" content="article" />
         
         {/* Structured data for SEO */}

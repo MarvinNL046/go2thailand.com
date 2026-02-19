@@ -311,8 +311,6 @@ export default function ComparisonPage({
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={metaDescription} />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content={pageUrl} />
-        <link rel="canonical" href={pageUrl} />
         {faqJsonLd && (
           <script
             type="application/ld+json"

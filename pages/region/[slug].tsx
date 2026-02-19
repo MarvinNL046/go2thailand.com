@@ -4,7 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import CityCard from '../../components/CityCard';
-import { getAllCities } from '../../lib/cities';
+import { getAllCities, toAbsoluteImageUrl } from '../../lib/cities';
 
 interface Region {
   id: number;
@@ -104,7 +104,7 @@ export default function RegionPage({ region, cities }: RegionPageProps) {
         <meta name="keywords" content={`${region.name.en}, Thailand, ${region.cities.join(', ')}, travel guide, attractions, culture`} />
         <meta property="og:title" content={region.seo.metaTitle.en} />
         <meta property="og:description" content={region.seo.metaDescription.en} />
-        <meta property="og:image" content={region.image} />
+        <meta property="og:image" content={toAbsoluteImageUrl(region.image)} />
         <meta property="og:type" content="website" />
       </Head>
 

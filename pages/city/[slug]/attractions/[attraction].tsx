@@ -2,7 +2,7 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Head from 'next/head';
 import Image from 'next/image';
 import Link from 'next/link';
-import { getCityBySlug, getAttractionBySlug, generateAttractionMetadata, generateAttractionBreadcrumbs, getAllAttractionStaticPaths } from '../../../../lib/cities';
+import { getCityBySlug, getAttractionBySlug, generateAttractionMetadata, generateAttractionBreadcrumbs, getAllAttractionStaticPaths, toAbsoluteImageUrl } from '../../../../lib/cities';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import TripcomWidget from '../../../../components/TripcomWidget';
 
@@ -85,10 +85,10 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
         <meta name="keywords" content={metadata.keywords} />
         <meta property="og:title" content={metadata.openGraph?.title || metadata.title} />
         <meta property="og:description" content={metadata.openGraph?.description || metadata.description} />
-        <meta property="og:image" content={attraction.image} />
+        <meta property="og:image" content={toAbsoluteImageUrl(attraction.image)} />
         <meta name="twitter:title" content={metadata.title} />
         <meta name="twitter:description" content={metadata.description} />
-        <meta name="twitter:image" content={attraction.image} />
+        <meta name="twitter:image" content={toAbsoluteImageUrl(attraction.image)} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{

@@ -45,6 +45,11 @@ const nextConfig = {
         destination: '/transport/',
         permanent: true,
       },
+      {
+        source: '/transport/bangkok-to-koh-samui',
+        destination: '/transport/bangkok-to-surat-thani/',
+        permanent: true,
+      },
     ]
   },
   // Optimize for Vercel deployment

@@ -42,7 +42,6 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
         {/* OpenGraph for social sharing */}
         <meta property="og:title" content="Top 10 Restaurant Guides | Thailand's Best Local Dining" />
         <meta property="og:description" content="Discover the best restaurants in Thailand with current prices, insider tips, and local favorites." />
-        <meta property="og:url" content="https://go2-thailand.com/top-10/restaurants/" />
         <meta property="og:type" content="website" />
         
         {/* Structured data for SEO */}

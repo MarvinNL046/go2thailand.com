@@ -99,7 +99,6 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
         {/* OpenGraph for social sharing */}
         <meta property="og:title" content={attractionsData.title} />
         <meta property="og:description" content={attractionsData.meta_description} />
-        <meta property="og:url" content={`https://go2-thailand.com/city/${city.slug}/top-10-attractions/`} />
         <meta property="og:type" content="article" />
         
         {/* Structured data for SEO */}

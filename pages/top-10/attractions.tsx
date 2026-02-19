@@ -41,7 +41,6 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
         {/* OpenGraph for social sharing */}
         <meta property="og:title" content="Top 10 Attraction Guides | Must-See Places in Thailand" />
         <meta property="og:description" content="Discover Thailand's must-see attractions with current entrance fees, opening hours, and visitor tips." />
-        <meta property="og:url" content="https://go2-thailand.com/top-10/attractions/" />
         <meta property="og:type" content="website" />
         
         {/* Structured data for SEO */}

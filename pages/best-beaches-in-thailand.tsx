@@ -183,7 +183,6 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
           name="keywords"
           content="best beaches Thailand, Thailand beach guide, Maya Bay, Koh Lipe, Koh Phi Phi beaches, snorkeling Thailand, family beaches Thailand, Thailand beach ranking 2026"
         />
-        <link rel="canonical" href="https://go2-thailand.com/best-beaches-in-thailand" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(combinedSchema) }}

@@ -2,7 +2,7 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Head from 'next/head';
 import Image from 'next/image';
 import Link from 'next/link';
-import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getRelatedCities, getCityImageForSection, getAllCities } from '../../../lib/cities';
+import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getRelatedCities, getCityImageForSection, getAllCities, toAbsoluteImageUrl } from '../../../lib/cities';
 import { getComparisonsForItem, getComparisonPair } from '../../../lib/comparisons';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import CityCard from '../../../components/CityCard';
@@ -238,17 +238,17 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
         <meta name="keywords" content={metadata.keywords} />
         <meta property="og:title" content={metadata.openGraph?.title || metadata.title} />
         <meta property="og:description" content={metadata.openGraph?.description || metadata.description} />
-        <meta property="og:image" content={metadata.openGraph?.images?.[0]?.url || getCityImageForSection(city, 'hero')} />
+        <meta property="og:image" content={metadata.openGraph?.images?.[0]?.url || toAbsoluteImageUrl(getCityImageForSection(city, 'hero'))} />
         <meta property="og:type" content={metadata.openGraph?.type || 'website'} />
         <meta name="twitter:title" content={metadata.title} />
         <meta name="twitter:description" content={metadata.description} />
-        <meta name="twitter:image" content={metadata.openGraph?.images?.[0]?.url || getCityImageForSection(city, 'hero')} />
+        <meta name="twitter:image" content={metadata.openGraph?.images?.[0]?.url || toAbsoluteImageUrl(getCityImageForSection(city, 'hero'))} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
-              "@type": ["Place", "TouristDestination"],
+              "@type": "TouristDestination",
               "name": city.name.en,
               "description": city.enhanced_description?.substring(0, 300) || city.description.en,
               "image": city.image?.startsWith('http') ? city.image : `https://go2-thailand.com${city.image}`,
@@ -261,9 +261,11 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                 "@type": "Country",
                 "name": "Thailand"
               },
-              ...(city.population && { "population": city.population }),
-              "touristType": city.tags || [],
-              "url": `https://go2-thailand.com/city/${city.slug}`
+              "touristType": (city.tags || []).map((tag: string) => ({
+                "@type": "Audience",
+                "audienceType": tag
+              })),
+              "url": `https://go2-thailand.com/city/${city.slug}/`
             })
           }}
         />

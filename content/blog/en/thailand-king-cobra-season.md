@@ -23,7 +23,6 @@ sources:
   - name: "Lonely Planet Thailand"
     url: "https://www.lonelyplanet.com/thailand"
 ---
-## Thailand's King Cobra Season: What Travelers Need to Know
 
 Picture this: you're trekking through dense jungle in northern Thailand, the air thick with humidity, when your guide suddenly freezes and points ahead. There, coiled on a sun-warmed rock, is one of the world's most iconic—and dangerous—snakes. The **king cobra season** in Thailand transforms the landscape into a wildlife spectacle that draws adventure seekers from around the globe. But visiting during peak season requires preparation, respect for these magnificent creatures, and an understanding of when and where to encounter them safely.
 
