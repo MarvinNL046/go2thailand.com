@@ -10,7 +10,7 @@ import path from "path";
 
 export const INDEXNOW_KEY = "3fca2447f24ab81131b3c204ebd2ebdf";
 export const INDEXNOW_HOST = "go2-thailand.com";
-export const INDEXNOW_API = "https://api.indexnow.org/indexnow";
+export const INDEXNOW_API = "https://www.bing.com/indexnow";
 export const INDEXNOW_KEY_LOCATION = `https://${INDEXNOW_HOST}/${INDEXNOW_KEY}.txt`;
 export const BATCH_SIZE = 10_000;
 

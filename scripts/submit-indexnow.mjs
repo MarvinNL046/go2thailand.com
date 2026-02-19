@@ -20,7 +20,7 @@ const __dirname = path.dirname(__filename);
 
 const INDEXNOW_KEY = "3fca2447f24ab81131b3c204ebd2ebdf";
 const INDEXNOW_HOST = "go2-thailand.com";
-const INDEXNOW_API = "https://api.indexnow.org/indexnow";
+const INDEXNOW_API = "https://www.bing.com/indexnow";
 const INDEXNOW_KEY_LOCATION = `https://${INDEXNOW_HOST}/${INDEXNOW_KEY}.txt`;
 const BATCH_SIZE = 10_000;
 
