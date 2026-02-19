@@ -83,8 +83,8 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
   const divingActivities = divingData.classes.filter(c => c.type === 'diving');
   const snorkelingActivities = divingData.classes.filter(c => c.type === 'snorkeling');
 
-  const title = `Best Diving & Snorkeling in ${city.name.en} (2025) - Tours & Prices`;
-  const description = `Discover the ${divingData.classes.length} best diving and snorkeling experiences in ${city.name.en}. Compare prices from ${formatPrice(Math.min(...divingData.classes.map(c => c.priceFrom)), loc)}, read reviews, and book your underwater adventure.`;
+  const title = `Diving & Snorkeling in ${city.name.en} 2026 — Tours & Prices`;
+  const description = `Compare ${divingData.classes.length} diving and snorkeling tours in ${city.name.en} from ${formatPrice(Math.min(...divingData.classes.map(c => c.priceFrom)), loc)}. Reviews, prices, and booking info for 2026.`;
 
   const faqItems = [
     {

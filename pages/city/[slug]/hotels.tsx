@@ -43,7 +43,14 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels }: City
   if (!city) return <div>City not found</div>;
 
   const breadcrumbs = generateBreadcrumbs(city, 'hotels');
-  const metadata = generateCityMetadata(city, 'hotels');
+  const baseMetadata = generateCityMetadata(city, 'hotels');
+
+  // SEO-optimized title & description for hotels pages
+  const metadata = {
+    ...baseMetadata,
+    title: `Where to Stay in ${city.name.en} 2026 — Best Hotels & Areas`,
+    description: `Find the best hotels in ${city.name.en} for every budget. Compare neighborhoods, prices from $10/night, guest reviews, and booking tips. Updated guide for 2026.`,
+  };
 
   return (
     <>

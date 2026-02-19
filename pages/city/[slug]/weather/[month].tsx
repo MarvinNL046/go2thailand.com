@@ -66,8 +66,8 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
   return (
     <div className="min-h-screen bg-gray-50">
       <SEOHead
-        title={`${city.name.en} Weather in ${monthName} | Go2Thailand`}
-        description={`Planning to visit ${city.name.en} in ${monthName}? Get detailed weather information including temperature (${weatherData.temperature.high}°C/${weatherData.temperature.low}°C), rainfall, humidity, and expert travel tips.`}
+        title={`${city.name.en} Weather in ${monthName} 2026 — Travel Tips`}
+        description={`${city.name.en} in ${monthName}: expect ${weatherData.temperature.high}°C highs, ${weatherData.temperature.low}°C lows, and ${weatherData.rainfall}mm rain. Packing tips and travel advice for 2026.`}
       >
         <meta name="keywords" content={`${city.name.en} weather ${monthName}, ${city.name.en} temperature ${monthName}, ${city.name.en} rainfall ${monthName}, ${city.name.en} climate ${monthName}, visit ${city.name.en} ${monthName}`} />
       </SEOHead>

@@ -103,8 +103,8 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
   return (
     <>
       <SEOHead
-        title="Thai Food Guide | Authentic Thai Dishes & Recipes"
-        description="Discover authentic Thai dishes, from Pad Thai to Tom Yum. Learn about ingredients, cooking methods, and cultural significance of Thailand's most beloved foods."
+        title={`Thai Food Guide 2026 — ${dishes.length} Authentic Dishes & Recipes`}
+        description={`Explore ${dishes.length} authentic Thai dishes with recipes, street food tips and restaurant picks. From Pad Thai to Tom Yum — your complete Thai cuisine guide.`}
       >
         <meta name="keywords" content="Thai food, Thai cuisine, Thai recipes, Pad Thai, Tom Yum, Green Curry, Thai dishes, authentic Thai cooking" />
       </SEOHead>

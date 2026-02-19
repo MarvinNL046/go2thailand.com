@@ -29,6 +29,33 @@ const monthlyHighlights = [
   { month: 'december', name: 'December', description: 'Peak Cool Season', emoji: '🎄' }
 ];
 
+const weatherFaqs = [
+  {
+    question: 'What is the best month to visit Thailand?',
+    answer: 'The best months to visit Thailand are November through February, during the cool and dry season. December and January offer the most comfortable weather across the country with lower humidity and minimal rainfall.'
+  },
+  {
+    question: 'Does it rain every day during monsoon season in Thailand?',
+    answer: 'No, it does not rain all day during monsoon season (June-October). Typically you will experience short but heavy afternoon showers lasting 1-2 hours, with sunshine the rest of the day. Many travelers enjoy this season for fewer crowds and lower prices.'
+  },
+  {
+    question: 'What is the hottest month in Thailand?',
+    answer: 'April is the hottest month in Thailand, with temperatures regularly reaching 38-40°C (100-104°F) in central and northern regions. The Songkran water festival in mid-April helps cool things down, making it a fun time to visit despite the heat.'
+  },
+  {
+    question: 'Is Thailand weather the same everywhere?',
+    answer: 'No, Thailand has distinct regional weather patterns. Northern Thailand (Chiang Mai) has cooler winters and distinct seasons. Central Thailand (Bangkok) is hot year-round. The southern coasts have different monsoon seasons: the Andaman coast (Phuket, Krabi) is wettest June-October, while the Gulf coast (Koh Samui) is wettest October-December.'
+  },
+  {
+    question: 'Can I visit Thai islands during rainy season?',
+    answer: 'Yes, but choose your coast wisely. The Gulf islands (Koh Samui, Koh Phangan, Koh Tao) have their best weather from January to September, making them ideal during the traditional rainy season. The Andaman islands (Phuket, Koh Phi Phi, Koh Lanta) are best from November to April.'
+  },
+  {
+    question: 'What should I pack for Thailand weather?',
+    answer: 'Pack lightweight, breathable clothing year-round. Bring a light rain jacket or umbrella regardless of season. During the cool season (November-February), pack a light sweater for northern Thailand evenings. Sunscreen and a hat are essential in every season due to strong tropical UV rays.'
+  }
+];
+
 const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -51,6 +78,23 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
         description="Complete Thailand weather guide. Check weather conditions, temperature, and rainfall for all major Thai cities. Plan your trip with monthly climate information."
       >
         <meta name="keywords" content="Thailand weather, Thailand climate, Thai cities weather, best time visit Thailand, Thailand seasons, Thailand temperature" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              "mainEntity": weatherFaqs.map(faq => ({
+                "@type": "Question",
+                "name": faq.question,
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": faq.answer
+                }
+              }))
+            })
+          }}
+        />
       </SEOHead>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -95,7 +139,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
             {/* Cities by Region */}
             <section className="bg-white rounded-lg shadow-md p-6">
               <h2 className="text-2xl font-bold mb-6">City Weather Guides</h2>
-              
+
               {Object.entries(citiesByRegion).map(([region, regionCities]) => (
                 <div key={region} className="mb-8 last:mb-0">
                   <h3 className="text-xl font-semibold text-gray-800 mb-4 flex items-center">
@@ -124,6 +168,19 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
                   </div>
                 </div>
               ))}
+            </section>
+
+            {/* FAQ Section */}
+            <section className="bg-white rounded-lg shadow-md p-6 mt-8">
+              <h2 className="text-2xl font-bold text-gray-900 mb-6">Frequently Asked Questions</h2>
+              <div className="space-y-6">
+                {weatherFaqs.map((faq, index) => (
+                  <div key={index} className="border-b border-gray-100 pb-4 last:border-0">
+                    <h3 className="text-lg font-semibold text-gray-900 mb-2">{faq.question}</h3>
+                    <p className="text-gray-700">{faq.answer}</p>
+                  </div>
+                ))}
+              </div>
             </section>
           </div>
 

@@ -76,8 +76,8 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData }: Props) 
     { name: 'Elephant Sanctuaries', href: `/city/${city.slug}/elephant-sanctuaries/` }
   ];
 
-  const title = `Best Elephant Sanctuaries in ${city.name.en} (2025) - Ethical Experiences`;
-  const description = `Discover the ${sanctuaryData.classes.length} best elephant sanctuaries in ${city.name.en}. Compare ethical elephant experiences from ${formatPrice(sanctuaryData.classes[0]?.priceFrom || 0, loc)}, read reviews, and book your unforgettable elephant encounter.`;
+  const title = `Elephant Sanctuaries in ${city.name.en} 2026 — Ethical Tours`;
+  const description = `Visit the ${sanctuaryData.classes.length} best elephant sanctuaries in ${city.name.en}. Ethical experiences from ${formatPrice(sanctuaryData.classes[0]?.priceFrom || 0, loc)}, reviews, and 2026 booking info.`;
 
   const faqItems = [
     {

@@ -63,8 +63,8 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
     { name: 'Best Cooking Classes in Thailand', href: '/best-cooking-classes-in-thailand/' }
   ];
 
-  const title = 'Best Cooking Classes in Thailand (2025) - Top 5 Cities Compared';
-  const description = 'Compare the best Thai cooking classes across Chiang Mai, Bangkok, Phuket, Koh Samui, and Krabi. Prices, reviews, and insider tips to find your perfect cooking experience.';
+  const title = 'Best Cooking Classes in Thailand 2026 — 5 Cities Compared';
+  const description = 'Compare Thai cooking classes across Chiang Mai, Bangkok, Phuket, Koh Samui and Krabi. Prices from $25, 1,000+ reviews and booking links included.';
 
   const faqItems = [
     {

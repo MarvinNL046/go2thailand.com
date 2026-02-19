@@ -44,8 +44,8 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
   return (
     <>
       <SEOHead
-        title="Thailand Cities - Complete Travel Guide | Go2Thailand"
-        description="Explore all major cities in Thailand. From Bangkok to Chiang Mai, discover the best destinations, attractions, food, and culture across Thailand."
+        title="Thailand Cities Guide 2026 — Best Places to Visit"
+        description="Explore 10 top cities in Thailand for 2026. Bangkok, Chiang Mai, Phuket, Krabi and more — hotels, food, attractions, and travel tips for every budget."
       >
         <meta name="keywords" content="Thailand cities, Bangkok, Chiang Mai, Phuket, Pattaya, Krabi, Thailand destinations, Thai cities guide" />
       </SEOHead>

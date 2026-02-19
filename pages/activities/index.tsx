@@ -64,8 +64,8 @@ export default function ActivitiesPage({ activities }: Props) {
   return (
     <>
       <SEOHead
-        title="Things to Do in Thailand (2025) - Activities, Tours & Experiences"
-        description={`Discover ${totalActivities}+ activities in Thailand: cooking classes, Muay Thai, elephant sanctuaries, diving and snorkeling. Compare prices, read reviews, and book across ${activities.reduce((s, a) => s + a.cities.length, 0)} destinations.`}
+        title={`Things to Do in Thailand 2026 — ${totalActivities}+ Tours & Activities`}
+        description={`Compare ${totalActivities}+ activities across Thailand: cooking classes, Muay Thai, elephant sanctuaries and diving. Prices, reviews and instant booking.`}
       >
         <script
           type="application/ld+json"

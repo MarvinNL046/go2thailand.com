@@ -80,8 +80,8 @@ export default function DrinksPage({ drinks }: DrinksPageProps) {
   return (
     <>
       <SEOHead
-        title="Thai Drinks Guide 2026 | Go2Thailand"
-        description="Discover authentic Thai drinks from traditional teas and coffees to tropical juices and famous Thai beers. Your complete guide to beverages in Thailand."
+        title={`Thai Drinks Guide 2026 — ${drinks.length} Beverages You Must Try`}
+        description={`Discover ${drinks.length} authentic Thai drinks from Thai iced tea to Singha beer. Recipes, prices and where to find them across Thailand.`}
       >
         <meta name="keywords" content="Thai drinks, Thai tea, Thai coffee, Thai beer, Singha, Chang, Thai beverages, coconut water, Thai iced tea" />
       </SEOHead>

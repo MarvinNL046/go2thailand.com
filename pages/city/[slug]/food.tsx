@@ -68,7 +68,14 @@ export default function CityFoodPage({ city, cityFoodData }: CityFoodPageProps) 
   if (!city) return <div>City not found</div>;
 
   const breadcrumbs = generateBreadcrumbs(city, 'food');
-  const metadata = generateCityMetadata(city, 'food');
+  const baseMetadata = generateCityMetadata(city, 'food');
+
+  // SEO-optimized title & description for food pages
+  const metadata = {
+    ...baseMetadata,
+    title: `Best Food in ${city.name.en} 2026 — Street Food & Restaurants`,
+    description: `Discover the best food in ${city.name.en}: street food, local restaurants, night markets, and must-try Thai dishes. Updated prices and tips for 2026.`,
+  };
 
   // Get popular dishes (main dishes, soups, and curries)
   const popularDishes = (foodData as Food[]).filter(food => 

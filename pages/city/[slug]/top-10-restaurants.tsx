@@ -64,8 +64,8 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
     return (
       <>
         <SEOHead
-          title={`Top 10 Restaurants in ${city.name.en} | Go2Thailand`}
-          description={`Discover the best restaurants in ${city.name.en}, Thailand. Current prices, local recommendations, and insider tips.`}
+          title={`10 Best Restaurants in ${city.name.en} 2026 — Local Picks`}
+          description={`Discover the 10 best restaurants in ${city.name.en}, Thailand. Current prices, local favorites, and insider tips updated for 2026.`}
         />
 
         <div className="bg-gray-50 min-h-screen">
@@ -93,7 +93,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
   return (
     <>
       <SEOHead
-        title={`${restaurantsData.title} | Go2Thailand`}
+        title={`${restaurantsData.title} 2026 — ${city.name.en}`}
         description={restaurantsData.meta_description}
       >
         <meta name="keywords" content={`${city.name.en} restaurants, Thailand dining, local food, ${city.name.en} cuisine, restaurant guide`} />

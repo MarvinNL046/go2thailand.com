@@ -208,7 +208,15 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
     : city.highlights;
 
   const breadcrumbs = generateBreadcrumbs(city);
-  const metadata = generateCityMetadata(city);
+  const baseMetadata = generateCityMetadata(city);
+
+  // SEO-optimized title & description targeting high-volume keywords
+  const attractionCount = city.top_attractions?.length || 0;
+  const metadata = {
+    ...baseMetadata,
+    title: `${cityName} Travel Guide 2026 — Things to Do, Hotels & Tips`,
+    description: `Plan your ${cityName} trip: ${attractionCount > 0 ? `${attractionCount}+ attractions, ` : ''}hotels from $10/night, top restaurants, and insider tips for 2026. Your complete Thailand travel guide.`,
+  };
   
   // Load Trip.com widget on client side
   useEffect(() => {

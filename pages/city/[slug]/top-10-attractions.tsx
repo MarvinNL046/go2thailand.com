@@ -63,8 +63,8 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
     return (
       <>
         <SEOHead
-          title={`Top 10 Attractions in ${city.name.en} | Go2Thailand`}
-          description={`Discover the must-see attractions in ${city.name.en}, Thailand. Current entrance fees, opening hours, and visitor tips.`}
+          title={`10 Best Attractions in ${city.name.en} 2026 — Must-See`}
+          description={`Discover the 10 must-see attractions in ${city.name.en}, Thailand. Current entrance fees, opening hours, and visitor tips for 2026.`}
         />
 
         <div className="bg-gray-50 min-h-screen">
@@ -92,7 +92,7 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
   return (
     <>
       <SEOHead
-        title={`${attractionsData.title} | Go2Thailand`}
+        title={`${attractionsData.title} 2026 — ${city.name.en}`}
         description={attractionsData.meta_description}
       >
         <meta name="keywords" content={`${city.name.en} attractions, Thailand tourism, ${city.name.en} sightseeing, things to do, tourist attractions`} />

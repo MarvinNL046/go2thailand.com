@@ -64,8 +64,8 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
     return (
       <>
         <SEOHead
-          title={`Top 10 Hotels in ${city.name.en} | Go2Thailand`}
-          description={`Find the best hotels in ${city.name.en}, Thailand. Current prices, guest reviews, and booking recommendations.`}
+          title={`10 Best Hotels in ${city.name.en} 2026 — Prices & Reviews`}
+          description={`Find the 10 best hotels in ${city.name.en}, Thailand. Compare current prices, guest reviews, and booking tips updated for 2026.`}
         />
 
         <div className="bg-gray-50 min-h-screen">
@@ -93,7 +93,7 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
   return (
     <>
       <SEOHead
-        title={`${hotelsData.title} | Go2Thailand`}
+        title={`${hotelsData.title} 2026 — ${city.name.en}`}
         description={hotelsData.meta_description}
       >
         <meta name="keywords" content={`${city.name.en} hotels, Thailand accommodation, ${city.name.en} resorts, hotel booking, where to stay`} />

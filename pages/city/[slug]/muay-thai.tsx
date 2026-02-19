@@ -109,8 +109,8 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
   const trainActivities = muayThaiData.classes.filter(c => c.type === 'train');
   const comboActivities = muayThaiData.classes.filter(c => c.type === 'combo');
 
-  const title = `Muay Thai in ${city.name.en} (2025) - Fights, Training & Camps`;
-  const description = `Experience Muay Thai in ${city.name.en}: watch live fights from ${formatPrice(Math.min(...muayThaiData.classes.map(c => c.priceFrom)), loc)}, train at professional gyms, or combine both. ${muayThaiData.classes.length} activities compared with prices & reviews.`;
+  const title = `Muay Thai in ${city.name.en} 2026 — Fights, Training & Camps`;
+  const description = `Muay Thai in ${city.name.en}: live fights from ${formatPrice(Math.min(...muayThaiData.classes.map(c => c.priceFrom)), loc)}, training gyms, and camps. ${muayThaiData.classes.length} activities compared with 2026 prices.`;
 
   const faqItems = [
     {

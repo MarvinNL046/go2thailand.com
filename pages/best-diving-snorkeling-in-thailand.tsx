@@ -74,8 +74,8 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
     { name: 'Best Diving & Snorkeling in Thailand', href: '/best-diving-snorkeling-in-thailand/' }
   ];
 
-  const title = 'Best Diving & Snorkeling in Thailand (2025) - Top Destinations Compared';
-  const description = 'Compare the best diving and snorkeling experiences across Phuket and Krabi. From Similan Islands scuba diving to Phi Phi snorkeling — prices, reviews, and booking links.';
+  const title = 'Best Diving & Snorkeling in Thailand 2026 — Top Sites';
+  const description = 'Compare diving and snorkeling in Phuket and Krabi. Similan Islands, Phi Phi and more. Trips from $22, PADI courses and best-season tips included.';
 
   const faqItems = [
     {

@@ -76,8 +76,8 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
     { name: 'Cooking Classes', href: `/city/${city.slug}/cooking-classes/` }
   ];
 
-  const title = `Best Cooking Classes in ${city.name.en} (2025) - Prices & Reviews`;
-  const description = `Discover the ${cookingData.classes.length} best Thai cooking classes in ${city.name.en}. Compare prices from ${formatPrice(cookingData.classes[0]?.priceFrom || 0, loc)}, read reviews, and book your hands-on Thai cooking experience.`;
+  const title = `Best Cooking Classes in ${city.name.en} 2026 — Prices & Reviews`;
+  const description = `Discover the ${cookingData.classes.length} best Thai cooking classes in ${city.name.en}. Compare prices from ${formatPrice(cookingData.classes[0]?.priceFrom || 0, loc)}, read reviews, and book for 2026.`;
 
   const faqItems = [
     {

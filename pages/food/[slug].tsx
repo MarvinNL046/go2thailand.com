@@ -76,6 +76,12 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
 
   const metadata = generateDishMetadata(dish);
 
+  // Optimized SEO title and description (overrides lib defaults)
+  const categoryLabel = dish.category.replace('-', ' ');
+  const seoTitle = `${dish.name.en} — Authentic Recipe, Restaurants & Street Food`;
+  const descriptionBase = (dish.enhanced_description || dish.description.en).substring(0, 100);
+  const seoDescription = `${dish.name.en} (${dish.name.thai}) — ${descriptionBase}. Recipe, best restaurants and street food prices in Thailand.`;
+
   const getSpiceLevelColor = (level: string) => {
     switch (level) {
       case 'mild': return 'bg-green-100 text-green-800';
@@ -98,8 +104,8 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
   return (
     <>
       <SEOHead
-        title={metadata.title}
-        description={metadata.description}
+        title={seoTitle}
+        description={seoDescription}
         ogImage={dish.image?.startsWith('http') ? dish.image : `https://go2-thailand.com${dish.image}`}
       >
         <meta name="keywords" content={metadata.keywords} />

@@ -107,6 +107,46 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
   const breadcrumbs = generateIslandBreadcrumbs(island);
 
+  const faqs = [
+    {
+      question: `What is the best time to visit ${island.name.en}?`,
+      answer: `The best time to visit ${island.name.en} is during the high season (${island.best_time_to_visit.high_season}), when you can expect dry weather and calm seas. The shoulder season (${island.best_time_to_visit.shoulder}) offers fewer crowds and lower prices. Avoid visiting during ${island.best_time_to_visit.avoid} if possible.`
+    },
+    {
+      question: `How do I get to ${island.name.en} from Bangkok?`,
+      answer: `You can reach ${island.name.en} from Bangkok by ${island.getting_there.from_bangkok.options.map(o => o.method.toLowerCase()).join(', ')}. ${island.getting_there.from_bangkok.options[0]?.description?.en || `The most popular option is ${island.getting_there.from_bangkok.options[0]?.method}.`}`
+    },
+    {
+      question: `How much does it cost to visit ${island.name.en}?`,
+      answer: `Daily budgets on ${island.name.en} range from ${island.budget_info.daily_budget.budget} for budget travelers, ${island.budget_info.daily_budget.mid} for mid-range, and ${island.budget_info.daily_budget.luxury} for luxury stays. ${island.budget_info.currency_tips.en}`
+    },
+    {
+      question: `What are the best beaches on ${island.name.en}?`,
+      answer: `${island.name.en} has ${island.beaches.length} notable beaches. ${island.beaches.slice(0, 3).map(b => b.name).join(', ')} are among the most popular. Each beach offers a different vibe, from bustling party beaches to quiet, secluded coves.`
+    },
+    {
+      question: `What activities can I do on ${island.name.en}?`,
+      answer: `${island.name.en} offers ${island.activities.length} popular activities including ${island.activities.slice(0, 4).map(a => a.name.toLowerCase()).join(', ')}. Prices range from budget-friendly to premium experiences for all types of travelers.`
+    },
+    {
+      question: `Where should I stay on ${island.name.en}?`,
+      answer: `The best areas to stay on ${island.name.en} include ${island.accommodation_tips.areas.map(a => a.name).join(', ')}. ${island.accommodation_tips.areas[0]?.description?.en || 'Each area offers different price ranges and vibes to suit your travel style.'}`
+    }
+  ];
+
+  const faqJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqs.map(faq => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
+  };
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "TouristDestination",
@@ -152,6 +192,10 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
         />
       </SEOHead>
 
@@ -359,6 +403,21 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                   <p className="w-full text-gray-500 text-xs mt-1">Affiliate links - we may earn a commission at no extra cost to you</p>
                 </div>
               </section>
+              {/* FAQ Section */}
+              <section className="bg-white rounded-lg shadow-lg p-8">
+                <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                  Frequently Asked Questions about {island.name[lang]}
+                </h2>
+                <div className="space-y-6">
+                  {faqs.map((faq, index) => (
+                    <div key={index} className="border-b border-gray-100 pb-4 last:border-0">
+                      <h3 className="text-lg font-semibold text-gray-900 mb-2">{faq.question}</h3>
+                      <p className="text-gray-700">{faq.answer}</p>
+                    </div>
+                  ))}
+                </div>
+              </section>
+
               {/* Compare with Other Islands */}
               {comparisons.length > 0 && (
                 <section>

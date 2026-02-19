@@ -74,8 +74,8 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
     { name: 'Best Muay Thai in Thailand', href: '/best-muay-thai-in-thailand/' }
   ];
 
-  const title = 'Best Muay Thai in Thailand (2025) - Fights, Training & Camps Compared';
-  const description = 'Compare the best Muay Thai experiences across Bangkok, Chiang Mai, and Phuket. Watch live fights, train at professional gyms, and find your perfect Muay Thai adventure.';
+  const title = 'Best Muay Thai in Thailand 2026 — Fights, Training & Gyms';
+  const description = 'Compare Muay Thai fights, training camps and gyms in Bangkok, Chiang Mai and Phuket. Tickets from $13, 7 gyms reviewed and top stadium picks.';
 
   const faqItems = [
     {

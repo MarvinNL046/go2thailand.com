@@ -63,8 +63,8 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
     { name: 'Best Elephant Sanctuaries in Thailand', href: '/best-elephant-sanctuaries-in-thailand/' }
   ];
 
-  const title = 'Best Elephant Sanctuaries in Thailand (2025) - Ethical Experiences Compared';
-  const description = 'Compare the best ethical elephant sanctuaries across Chiang Mai, Phuket, and Krabi. Feeding, bathing, and care programs with prices, reviews, and booking links.';
+  const title = 'Best Elephant Sanctuaries in Thailand 2026 — Ethical Visits';
+  const description = 'Compare 80+ ethical elephant sanctuaries in Chiang Mai, Phuket and Krabi. Feeding, bathing and care programs from $18. Reviews and booking links.';
 
   const faqItems = [
     {

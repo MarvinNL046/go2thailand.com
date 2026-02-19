@@ -77,7 +77,14 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
   }
 
   const breadcrumbs = generateBreadcrumbs(city, 'attractions');
-  const metadata = generateCityMetadata(city, 'attractions');
+  const baseMetadata = generateCityMetadata(city, 'attractions');
+
+  // SEO-optimized title & description for attractions pages
+  const metadata = {
+    ...baseMetadata,
+    title: `Top Attractions in ${city.name.en} 2026 — Must-See Places`,
+    description: `Explore the best attractions in ${city.name.en}: temples, markets, landmarks, and hidden gems. Current entrance fees, opening hours, and insider tips for 2026.`,
+  };
 
   return (
     <>

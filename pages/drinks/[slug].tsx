@@ -36,10 +36,10 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
   return (
     <>
       <SEOHead
-        title={`${drink.name.en} - Thai Drink Recipe & Guide | Go2Thailand`}
-        description={drink.description.en.length >= 110 ? drink.description.en : `${drink.description.en}. Discover this authentic Thai ${drink.category} drink — where to find it, how it's made and why locals love it.`}
+        title={`${drink.name.en} — Recipe, Where to Try & History`}
+        description={`${drink.name.en} (${drink.name.thai}) — learn how it's made, where to find it and what makes this Thai ${drink.category} drink special. Prices from ${drink.price_range}.`}
       >
-        <meta name="keywords" content={`${drink.name.en}, ${drink.name.thai}, Thai ${drink.category}, Thai drinks, Thailand beverages`} />
+        <meta name="keywords" content={`${drink.name.en}, ${drink.name.thai}, Thai ${drink.category}, Thai drinks, Thailand beverages, ${drink.name.en} recipe`} />
       </SEOHead>
 
       <div className="min-h-screen bg-gray-50">

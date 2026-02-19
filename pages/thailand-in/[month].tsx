@@ -50,6 +50,48 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
     { name: `Thailand in ${guide.month}`, href: `/thailand-in/${guide.slug}` }
   ];
 
+  const faqs = [
+    {
+      question: `Is ${guide.month} a good time to visit Thailand?`,
+      answer: `${guide.weather.overview} ${guide.pros[0] ? `Key advantages include: ${guide.pros.slice(0, 2).join(', ').toLowerCase()}.` : ''} ${guide.cons[0] ? `However, keep in mind: ${guide.cons[0].toLowerCase()}.` : ''}`
+    },
+    {
+      question: `What is the weather like in Thailand in ${guide.month}?`,
+      answer: `In ${guide.month}, temperatures in central Thailand (Bangkok) average ${guide.weather.temperature.central}, while northern Thailand (Chiang Mai) sees ${guide.weather.temperature.north} and southern Thailand ${guide.weather.temperature.south}. Rainfall: ${guide.weather.rainfall.toLowerCase()}. Humidity is ${guide.weather.humidity.toLowerCase()}.`
+    },
+    {
+      question: `Where should I go in Thailand in ${guide.month}?`,
+      answer: `The best destinations in ${guide.month} include ${guide.best_destinations.map(d => `${d.name} (${d.reason.toLowerCase()})`).join(', ')}. Each offers unique experiences suited to the season.`
+    },
+    {
+      question: `Are there any festivals in Thailand in ${guide.month}?`,
+      answer: guide.festivals.length > 0
+        ? `Yes! ${guide.month} features ${guide.festivals.map(f => `${f.name} — ${f.description.toLowerCase()}`).join('. ')}. These events offer a wonderful glimpse into Thai culture.`
+        : `${guide.month} is a quieter month for major festivals, but you can still enjoy local temple fairs, night markets, and cultural events throughout the country.`
+    },
+    {
+      question: `What should I pack for Thailand in ${guide.month}?`,
+      answer: `For ${guide.month} in Thailand, pack lightweight breathable clothing, sunscreen, and comfortable walking shoes. ${guide.weather.humidity.toLowerCase().includes('high') || guide.weather.rainfall.toLowerCase().includes('heavy') || guide.weather.rainfall.toLowerCase().includes('frequent') ? 'Bring a compact rain jacket or umbrella as showers are likely.' : 'A light rain jacket is still recommended for unexpected showers.'} ${guide.weather.temperature.north.includes('15') || guide.weather.temperature.north.includes('16') || guide.weather.temperature.north.includes('17') || guide.weather.temperature.north.includes('18') ? 'Pack a sweater if visiting northern Thailand, as evenings can be cool.' : ''}`
+    },
+    {
+      question: `Is ${guide.month} peak season or low season in Thailand?`,
+      answer: `${guide.pros.some(p => p.toLowerCase().includes('peak') || p.toLowerCase().includes('high season')) ? `${guide.month} falls in Thailand's peak season (November-February). Expect higher prices and more tourists, but the best weather conditions.` : guide.pros.some(p => p.toLowerCase().includes('fewer') || p.toLowerCase().includes('budget') || p.toLowerCase().includes('low')) ? `${guide.month} is part of Thailand's low/shoulder season. You will benefit from lower prices, fewer crowds, and better hotel deals, though weather can be less predictable.` : `${guide.month} is a transitional period in Thailand's tourism calendar. Prices and crowds are moderate, offering a good balance of value and weather conditions.`}`
+    }
+  ];
+
+  const faqJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqs.map(faq => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
+  };
+
   return (
     <>
       <SEOHead
@@ -58,6 +100,10 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
       >
         <meta name="keywords" content={`Thailand ${guide.month}, ${guide.month} weather Thailand, ${guide.month} festivals Thailand, visit Thailand ${guide.month}`} />
         <meta property="og:type" content="article" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
       </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
@@ -265,6 +311,22 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                         </li>
                       ))}
                     </ul>
+                  </div>
+                </div>
+
+                {/* FAQ Section */}
+                <div className="bg-white rounded-lg shadow-lg p-8 mt-12">
+                  <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
+                    <span className="text-3xl mr-3">❓</span>
+                    Frequently Asked Questions
+                  </h2>
+                  <div className="space-y-6">
+                    {faqs.map((faq, index) => (
+                      <div key={index} className="border-b border-gray-100 pb-4 last:border-0">
+                        <h3 className="text-lg font-semibold text-gray-900 mb-2">{faq.question}</h3>
+                        <p className="text-gray-700">{faq.answer}</p>
+                      </div>
+                    ))}
                   </div>
                 </div>
               </div>
