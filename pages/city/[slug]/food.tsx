@@ -1,10 +1,10 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
+import SEOHead from '../../../components/SEOHead';
 import foodData from '../../../data/enhanced/food/index.json';
 import foodSpecialtiesData from '../../../data/cities/food-specialties.json';
 
@@ -99,11 +99,12 @@ export default function CityFoodPage({ city, cityFoodData }: CityFoodPageProps) 
 
   return (
     <>
-      <Head>
-        <title>{metadata.title}</title>
-        <meta name="description" content={metadata.description} />
+      <SEOHead
+        title={metadata.title}
+        description={metadata.description}
+      >
         <meta name="keywords" content={metadata.keywords} />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         <section className="bg-white shadow-sm">

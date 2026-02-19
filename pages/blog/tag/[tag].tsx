@@ -1,7 +1,7 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
+import SEOHead from '../../../components/SEOHead';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import { getAllTags, getPostsByTag } from '../../../lib/blog';
 
@@ -31,10 +31,10 @@ export default function BlogTagPage({ tag, posts }: TagPageProps) {
 
   return (
     <>
-      <Head>
-        <title>#{tag} Articles | Go2Thailand Blog</title>
-        <meta name="description" content={`Articles tagged with "${tag}" on Go2Thailand travel blog.`} />
-      </Head>
+      <SEOHead
+        title={`#${tag} Articles | Go2Thailand`}
+        description={`Browse all Thailand travel articles tagged "${tag}". Expert guides, local tips and insider knowledge to help you plan an unforgettable trip to Thailand.`}
+      />
 
       <div className="bg-gray-50 min-h-screen">
         <section className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark text-white">

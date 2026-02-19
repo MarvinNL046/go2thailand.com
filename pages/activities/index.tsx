@@ -1,4 +1,4 @@
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -53,11 +53,12 @@ const cities = [
 export default function ActivitiesPage() {
   return (
     <>
-      <Head>
-        <title>Best Thailand Activities & Tours 2026 | Book on Klook & GetYourGuide</title>
-        <meta name="description" content="Discover and book the best activities, tours, and experiences in Thailand. Compare Klook and GetYourGuide for temple tours, island hopping, cooking classes, and more." />
+      <SEOHead
+        title={`Thailand Activities & Tours 2026 | Go2Thailand`}
+        description="Discover and book the best activities, tours, and experiences in Thailand. Compare Klook and GetYourGuide for temple tours, island hopping, cooking classes, and more."
+      >
         <meta name="keywords" content="Thailand activities, Thailand tours, Bangkok tours, Phuket activities, Chiang Mai tours, Klook Thailand, GetYourGuide Thailand, Thailand things to do" />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

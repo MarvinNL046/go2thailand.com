@@ -1,5 +1,4 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
@@ -7,6 +6,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import FadeInText from '../../components/FadeInText';
 import { getDrink, getAllDrinks } from '../../lib/drinks';
 import { useTranslation } from '../../hooks/useTranslation';
+import SEOHead from '../../components/SEOHead';
 
 interface DrinkPageProps {
   drink: any; // Full drink data with enhanced content
@@ -35,14 +35,12 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
 
   return (
     <>
-      <Head>
-        <title>{drink.name.en} - Thai Drink Recipe & Guide | Go2Thailand</title>
-        <meta 
-          name="description" 
-          content={drink.description.en}
-        />
+      <SEOHead
+        title={`${drink.name.en} - Thai Drink Recipe & Guide | Go2Thailand`}
+        description={drink.description.en.length >= 110 ? drink.description.en : `${drink.description.en}. Discover this authentic Thai ${drink.category} drink — where to find it, how it's made and why locals love it.`}
+      >
         <meta name="keywords" content={`${drink.name.en}, ${drink.name.thai}, Thai ${drink.category}, Thai drinks, Thailand beverages`} />
-      </Head>
+      </SEOHead>
 
       <div className="min-h-screen bg-gray-50">
 

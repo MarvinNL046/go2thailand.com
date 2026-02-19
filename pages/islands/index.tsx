@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { useState } from 'react';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -53,15 +53,16 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
 
   return (
     <>
-      <Head>
-        <title>Thailand Islands Guide 2026: Best Islands, Beaches & Tips | Go2Thailand</title>
-        <meta name="description" content="Discover Thailand's most beautiful islands in 2026. Complete guides for Koh Samui, Koh Phi Phi, Koh Tao, Koh Lanta & more. Beaches, hotels, transport & budget tips." />
+      <SEOHead
+        title={`Thailand Islands Guide 2026 | Go2Thailand`}
+        description="Discover Thailand's most beautiful islands in 2026. Complete guides for Koh Samui, Koh Phi Phi, Koh Tao, Koh Lanta & more. Beaches, hotels, transport & budget tips."
+      >
         <meta name="keywords" content="Thailand islands, Koh Samui, Koh Phi Phi, Koh Tao, Koh Lanta, Koh Chang, Thai islands, best islands Thailand" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

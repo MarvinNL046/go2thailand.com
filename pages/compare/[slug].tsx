@@ -1,5 +1,5 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
@@ -305,11 +305,10 @@ export default function ComparisonPage({
 
   return (
     <>
-      <Head>
-        <title>{pageTitle}</title>
-        <meta name="description" content={metaDescription} />
-        <meta property="og:title" content={pageTitle} />
-        <meta property="og:description" content={metaDescription} />
+      <SEOHead
+        title={pageTitle}
+        description={metaDescription}
+      >
         <meta property="og:type" content="website" />
         {faqJsonLd && (
           <script
@@ -317,7 +316,7 @@ export default function ComparisonPage({
             dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
           />
         )}
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
 

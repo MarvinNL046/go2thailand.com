@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -27,7 +27,7 @@ interface CompareIndexProps {
 
 const translations = {
   en: {
-    pageTitle: 'Thailand Destination Comparisons 2026 — Islands & Cities | Go2Thailand',
+    pageTitle: 'Thailand Comparisons 2026 | Go2Thailand',
     metaDescription: 'Compare Thai islands and cities side by side. Koh Samui vs Koh Phangan, Bangkok vs Chiang Mai and 88 more detailed comparisons to help you choose.',
     heroH1: 'Thailand Destination Comparisons',
     heroSubtitle: (n: number) => `Compare ${n} Thai destinations side by side`,
@@ -52,7 +52,7 @@ const translations = {
     compare: 'Compare',
   },
   nl: {
-    pageTitle: 'Thailand Bestemmingen Vergelijken 2026 — Eilanden & Steden | Go2Thailand',
+    pageTitle: 'Thailand Vergelijkingen 2026 | Go2Thailand',
     metaDescription: 'Vergelijk Thaise eilanden en steden zij aan zij. Koh Samui vs Koh Phangan, Bangkok vs Chiang Mai en 88 meer gedetailleerde vergelijkingen om je te helpen kiezen.',
     heroH1: 'Thailand Bestemmingen Vergelijken',
     heroSubtitle: (n: number) => `Vergelijk ${n} Thaise bestemmingen zij aan zij`,
@@ -114,12 +114,10 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
 
   return (
     <>
-      <Head>
-        <title>{t.pageTitle}</title>
-        <meta
-          name="description"
-          content={t.metaDescription}
-        />
+      <SEOHead
+        title={t.pageTitle}
+        description={t.metaDescription}
+      >
         <meta
           name="keywords"
           content="Thailand comparisons, Koh Samui vs Koh Phangan, Bangkok vs Chiang Mai, Thailand islands comparison, Thailand cities comparison"
@@ -128,7 +126,7 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
 

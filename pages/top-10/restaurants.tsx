@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import { getAllCities } from '../../lib/cities';
@@ -34,17 +34,12 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
 
   return (
     <>
-      <Head>
-        <title>Top 10 Restaurant Guides | Thailand's Best Local Dining | Go2Thailand</title>
-        <meta name="description" content="Discover the best restaurants in Thailand with our comprehensive Top 10 guides. Current prices, insider tips, and local favorites in Bangkok, Phuket, Chiang Mai and more." />
+      <SEOHead
+        title={`Top 10 Restaurants in Thailand | Go2Thailand`}
+        description="Discover the best restaurants in Thailand with our comprehensive Top 10 guides. Current prices, insider tips, and local favorites in Bangkok, Phuket, Chiang Mai and more."
+      >
         <meta name="keywords" content="Thailand restaurants, top 10 restaurants, Thai food, local dining, restaurant guides, Bangkok restaurants, Phuket dining, Chiang Mai food" />
-        
-        {/* OpenGraph for social sharing */}
-        <meta property="og:title" content="Top 10 Restaurant Guides | Thailand's Best Local Dining" />
-        <meta property="og:description" content="Discover the best restaurants in Thailand with current prices, insider tips, and local favorites." />
         <meta property="og:type" content="website" />
-        
-        {/* Structured data for SEO */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -70,7 +65,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
             })
           }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 
@@ -49,16 +49,12 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
 
   return (
     <>
-      <Head>
-        <title>Top 10 Guides - Best Attractions, Restaurants & Hotels in Thailand | Go2Thailand</title>
-        <meta 
-          name="description" 
-          content="Comprehensive Top 10 guides for Thailand's best attractions, restaurants, and hotels. Current prices, opening hours, and insider tips for every major destination." 
-        />
+      <SEOHead
+        title={`Top 10 Thailand Guides 2026 | Go2Thailand`}
+        description="Comprehensive Top 10 guides for Thailand's best attractions, restaurants, and hotels. Current prices, opening hours, and insider tips for every major destination."
+      >
         <meta name="keywords" content="Thailand top 10, best attractions Thailand, top restaurants Thailand, best hotels Thailand, Thailand travel guides" />
-        <meta property="og:title" content="Top 10 Guides - Best of Thailand | Go2Thailand" />
-        <meta property="og:description" content="Comprehensive Top 10 guides for Thailand's best attractions, restaurants, and hotels." />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Header Section */}

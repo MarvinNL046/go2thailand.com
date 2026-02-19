@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import { getAllCities } from '../../lib/cities';
@@ -33,17 +33,12 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
 
   return (
     <>
-      <Head>
-        <title>Top 10 Attraction Guides | Must-See Places in Thailand | Go2Thailand</title>
-        <meta name="description" content="Discover Thailand's must-see attractions with our comprehensive Top 10 guides. Current entrance fees, opening hours, and visitor tips in Bangkok, Phuket, Chiang Mai and more." />
+      <SEOHead
+        title={`Top 10 Attraction Guides | Must-See Places in Thailand | Go2Thailand`}
+        description="Discover Thailand's must-see attractions with our comprehensive Top 10 guides. Current entrance fees, opening hours, and visitor tips in Bangkok, Phuket, Chiang Mai and more."
+      >
         <meta name="keywords" content="Thailand attractions, top 10 attractions, sightseeing, tourist attractions, Bangkok attractions, Phuket activities, Chiang Mai temples, Thailand tourism" />
-        
-        {/* OpenGraph for social sharing */}
-        <meta property="og:title" content="Top 10 Attraction Guides | Must-See Places in Thailand" />
-        <meta property="og:description" content="Discover Thailand's must-see attractions with current entrance fees, opening hours, and visitor tips." />
         <meta property="og:type" content="website" />
-        
-        {/* Structured data for SEO */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -69,7 +64,7 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
             })
           }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

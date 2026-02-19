@@ -1,9 +1,9 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
 import { useEffect } from 'react';
-import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
+import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
 import AuthorBio from '../../components/blog/AuthorBio';
@@ -133,13 +133,12 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
 
   return (
     <>
-      <Head>
-        <title>{post.title} | Go2Thailand Blog</title>
-        <meta name="description" content={post.description} />
+      <SEOHead
+        title={`${post.title} | Go2Thailand`}
+        description={post.description}
+        ogImage={`https://go2-thailand.com${post.image}`}
+      >
         <meta name="keywords" content={post.tags.join(', ')} />
-        <meta property="og:title" content={post.title} />
-        <meta property="og:description" content={post.description} />
-        <meta property="og:image" content={`https://go2-thailand.com${post.image}`} />
         <meta property="og:type" content="article" />
         <meta property="article:published_time" content={post.date} />
         <meta property="article:author" content={post.author.name} />
@@ -154,7 +153,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         />
-      </Head>
+      </SEOHead>
 
       <article className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

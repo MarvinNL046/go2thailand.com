@@ -1,7 +1,7 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import { getEnhancedDishBySlug, getDishStaticPaths, generateDishMetadata, getRelatedDishes, generateFoodBreadcrumbs } from '../../lib/food';
+import SEOHead from '../../components/SEOHead';
 
 interface EnhancedDish {
   id: number;
@@ -97,13 +97,12 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
 
   return (
     <>
-      <Head>
-        <title>{metadata.title}</title>
-        <meta name="description" content={metadata.description} />
+      <SEOHead
+        title={metadata.title}
+        description={metadata.description}
+        ogImage={dish.image?.startsWith('http') ? dish.image : `https://go2-thailand.com${dish.image}`}
+      >
         <meta name="keywords" content={metadata.keywords} />
-        <meta name="twitter:title" content={metadata.title} />
-        <meta name="twitter:description" content={metadata.description} />
-        <meta name="twitter:image" content={dish.image?.startsWith('http') ? dish.image : `https://go2-thailand.com${dish.image}`} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -149,7 +148,7 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
             })
           }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Breadcrumbs */}

@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -43,11 +43,12 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
 
   return (
     <>
-      <Head>
-        <title>Best Travel Insurance for Thailand 2026 | Compare Coverage & Prices</title>
-        <meta name="description" content="Find the best travel insurance for Thailand. Compare medical coverage, COVID-19 protection, and adventure sports coverage from trusted providers." />
+      <SEOHead
+        title={`Best Travel Insurance for Thailand 2026 | Compare Coverage & Prices`}
+        description="Find the best travel insurance for Thailand. Compare medical coverage, COVID-19 protection, and adventure sports coverage from trusted providers."
+      >
         <meta name="keywords" content="Thailand travel insurance, best travel insurance Thailand, medical coverage Thailand, travel protection, SafetyWing Thailand" />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

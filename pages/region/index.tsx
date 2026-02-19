@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { useState } from 'react';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -32,16 +32,12 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
 
   return (
     <>
-      <Head>
-        <title>Thailand Regions - Complete Travel Guide | Go2Thailand</title>
-        <meta 
-          name="description" 
-          content="Explore Thailand's three main regions: Northern, Central, and Southern Thailand. Discover unique attractions, climate, culture, and travel tips for each region." 
-        />
+      <SEOHead
+        title={`Thailand Regions - Complete Travel Guide | Go2Thailand`}
+        description="Explore Thailand's three main regions: Northern, Central, and Southern Thailand. Discover unique attractions, climate, culture, and travel tips for each region."
+      >
         <meta name="keywords" content="Thailand regions, Northern Thailand, Central Thailand, Southern Thailand, Thailand travel guide, Thai regions" />
-        <meta property="og:title" content="Thailand Regions - Complete Travel Guide | Go2Thailand" />
-        <meta property="og:description" content="Explore Thailand's three main regions: Northern, Central, and Southern Thailand. Discover unique attractions, climate, and culture." />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Header Section */}

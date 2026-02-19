@@ -1,9 +1,9 @@
 import React from 'react';
 import { GetStaticPaths, GetStaticProps } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import TripcomWidget from '../../../../components/TripcomWidget';
+import SEOHead from '../../../../components/SEOHead';
 import cityWeatherData from '../../../../data/city-weather.json';
 import citiesData from '../../../../data/cities/index.json';
 
@@ -61,11 +61,12 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <Head>
-        <title>{`${city.name.en} Weather by Month - Complete Climate Guide | Go2 Thailand`}</title>
-        <meta name="description" content={`Plan your trip to ${city.name.en} with our complete monthly weather guide. Temperature, rainfall, humidity, and travel tips for each month of the year.`} />
+      <SEOHead
+        title={`${city.name.en} Weather by Month - Complete Climate Guide | Go2 Thailand`}
+        description={`Plan your trip to ${city.name.en} with our complete monthly weather guide. Temperature, rainfall, humidity, and travel tips for each month of the year.`}
+      >
         <meta name="keywords" content={`${city.name.en} weather, ${city.name.en} climate, ${city.name.en} temperature, ${city.name.en} rainfall, ${city.name.en} best time to visit, ${city.name.en} seasons`} />
-      </Head>
+      </SEOHead>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />

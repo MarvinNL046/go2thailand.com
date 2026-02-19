@@ -1,5 +1,4 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -7,6 +6,7 @@ import FadeInText from '../../components/FadeInText';
 import HighlightedText from '../../components/HighlightedText';
 import { getAllDrinks } from '../../lib/drinks';
 import { useTranslation } from '../../hooks/useTranslation';
+import SEOHead from '../../components/SEOHead';
 
 interface Drink {
   id: number;
@@ -79,14 +79,12 @@ export default function DrinksPage({ drinks }: DrinksPageProps) {
 
   return (
     <>
-      <Head>
-        <title>Thai Drinks Guide - Traditional Beverages & Modern Favorites | Go2Thailand</title>
-        <meta 
-          name="description" 
-          content="Discover authentic Thai drinks from traditional teas and coffees to tropical juices and famous Thai beers. Your complete guide to beverages in Thailand."
-        />
+      <SEOHead
+        title="Thai Drinks Guide 2026 | Go2Thailand"
+        description="Discover authentic Thai drinks from traditional teas and coffees to tropical juices and famous Thai beers. Your complete guide to beverages in Thailand."
+      >
         <meta name="keywords" content="Thai drinks, Thai tea, Thai coffee, Thai beer, Singha, Chang, Thai beverages, coconut water, Thai iced tea" />
-      </Head>
+      </SEOHead>
 
       <div className="min-h-screen bg-gray-50">
 

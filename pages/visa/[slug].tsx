@@ -1,5 +1,5 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -85,11 +85,10 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
 
   return (
     <>
-      <Head>
-        <title>{visa.seo.metaTitle[lang]}</title>
-        <meta name="description" content={visa.seo.metaDescription[lang]} />
-        <meta property="og:title" content={visa.seo.metaTitle[lang]} />
-        <meta property="og:description" content={visa.seo.metaDescription[lang]} />
+      <SEOHead
+        title={visa.seo.metaTitle[lang]}
+        description={visa.seo.metaDescription[lang]}
+      >
         <meta property="og:type" content="article" />
         <script
           type="application/ld+json"
@@ -99,7 +98,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

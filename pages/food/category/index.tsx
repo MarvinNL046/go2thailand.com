@@ -1,8 +1,8 @@
-import Head from 'next/head';
 import Link from 'next/link';
 import FadeInText from '../../../components/FadeInText';
 import HighlightedText from '../../../components/HighlightedText';
 import { useTranslation } from '../../../hooks/useTranslation';
+import SEOHead from '../../../components/SEOHead';
 
 const categoryInfo = {
   'main-dish': {
@@ -47,14 +47,12 @@ export default function FoodCategoriesIndex() {
 
   return (
     <>
-      <Head>
-        <title>Thai Food Categories - Explore Dishes by Type | Go2Thailand</title>
-        <meta 
-          name="description" 
-          content="Browse Thai dishes by category. Explore main dishes, soups, curries, salads, and desserts. Find authentic recipes from all regions of Thailand."
-        />
+      <SEOHead
+        title="Thai Food Categories - Explore Dishes by Type | Go2Thailand"
+        description="Browse Thai dishes by category. Explore main dishes, soups, curries, salads, and desserts. Find authentic recipes from all regions of Thailand."
+      >
         <meta name="keywords" content="Thai food categories, Thai dishes, Thai recipes, Thai cuisine types, Thai main dishes, Thai soups, Thai curries" />
-      </Head>
+      </SEOHead>
 
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
         {/* Hero Section */}

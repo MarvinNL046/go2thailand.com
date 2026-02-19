@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { GetStaticProps } from 'next';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -92,11 +92,12 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <Head>
-        <title>Thailand Transport Routes - Flights, Buses, Trains & Ferry Guide | Go2 Thailand</title>
-        <meta name="description" content="Complete guide to traveling between Thai cities. Compare transport options, prices, and duration for flights, buses, trains, and ferries. Plan your Thailand journey with confidence." />
+      <SEOHead
+        title={`Thailand Transport Routes 2026 | Go2Thailand`}
+        description="Complete guide to traveling between Thai cities. Compare transport options, prices, and duration for flights, buses, trains, and ferries. Plan your Thailand journey with confidence."
+      >
         <meta name="keywords" content="thailand transport, thailand bus routes, thailand flights, thailand trains, bangkok to chiang mai, bangkok to phuket, transport in thailand" />
-      </Head>
+      </SEOHead>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />

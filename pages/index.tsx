@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState, useEffect } from 'react';
@@ -74,19 +74,12 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
 
   return (
     <>
-      <Head>
-        <title>{t('meta.mainTitle')}</title>
-        <meta 
-          name="description" 
-          content={t('meta.mainDescription')} 
-        />
+      <SEOHead
+        title={t('meta.mainTitle')}
+        description={t('meta.mainDescription')}
+      >
         <meta name="keywords" content={t('meta.mainKeywords')} />
-        <meta property="og:title" content={t('meta.mainTitle')} />
-        <meta property="og:description" content={t('meta.mainDescription')} />
         <meta property="og:type" content="website" />
-        <meta name="twitter:title" content={t('meta.mainTitle')} />
-        <meta name="twitter:description" content={t('meta.mainDescription')} />
-
         {/* Preload the first hero image for better LCP */}
         <link
           rel="preload"
@@ -111,7 +104,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             })
           }}
         />
-      </Head>
+      </SEOHead>
 
       {/* Hero Section with Auto-Rotating Slider */}
       <section className="relative h-[500px] sm:h-96 lg:h-[600px] overflow-hidden">

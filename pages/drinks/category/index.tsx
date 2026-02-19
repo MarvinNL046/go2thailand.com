@@ -1,10 +1,10 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import FadeInText from '../../../components/FadeInText';
 import HighlightedText from '../../../components/HighlightedText';
 import { getAllDrinks } from '../../../lib/drinks';
 import { useTranslation } from '../../../hooks/useTranslation';
+import SEOHead from '../../../components/SEOHead';
 
 interface DrinkCategoriesPageProps {
   categoryCounts: Record<string, number>;
@@ -72,14 +72,12 @@ export default function DrinkCategoriesIndex({ categoryCounts }: DrinkCategories
 
   return (
     <>
-      <Head>
-        <title>Thai Drink Categories - Browse by Type | Go2Thailand</title>
-        <meta 
-          name="description" 
-          content="Explore Thai drinks by category. From traditional teas and coffee to tropical juices and Thai beer. Find your perfect Thai beverage."
-        />
+      <SEOHead
+        title="Thai Drink Categories - Browse by Type | Go2Thailand"
+        description="Explore Thai drinks by category. From traditional teas and coffee to tropical juices and Thai beer. Find your perfect Thai beverage."
+      >
         <meta name="keywords" content="Thai drink categories, Thai beverages, Thai tea, Thai coffee, Thai beer, Thai juice, Thai drinks by type" />
-      </Head>
+      </SEOHead>
 
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
         {/* Hero Section */}

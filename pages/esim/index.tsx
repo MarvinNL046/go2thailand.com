@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -34,11 +34,12 @@ interface ESIMPageProps {
 export default function ESIMPage({ providers }: ESIMPageProps) {
   return (
     <>
-      <Head>
-        <title>Best eSIM for Thailand 2026 | Compare Prices & Data Plans</title>
-        <meta name="description" content="Find the best eSIM for Thailand travel. Compare data plans, prices, and coverage from top providers. Stay connected without expensive roaming charges." />
+      <SEOHead
+        title={`Best eSIM for Thailand 2026 | Compare Prices & Data Plans`}
+        description="Find the best eSIM for Thailand travel. Compare data plans, prices, and coverage from top providers. Stay connected without expensive roaming charges."
+      >
         <meta name="keywords" content="Thailand eSIM, best eSIM Thailand, Thailand travel SIM, mobile data Thailand, eSIM providers Thailand, Thailand internet" />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

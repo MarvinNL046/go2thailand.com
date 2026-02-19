@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
@@ -176,9 +176,10 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
 
   return (
     <>
-      <Head>
-        <title>{pageTitle}</title>
-        <meta name="description" content={pageDescription} />
+      <SEOHead
+        title={pageTitle}
+        description={pageDescription}
+      >
         <meta
           name="keywords"
           content="best beaches Thailand, Thailand beach guide, Maya Bay, Koh Lipe, Koh Phi Phi beaches, snorkeling Thailand, family beaches Thailand, Thailand beach ranking 2026"
@@ -187,7 +188,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(combinedSchema) }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

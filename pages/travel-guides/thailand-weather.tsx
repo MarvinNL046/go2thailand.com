@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import monthlyGuides from '../../data/monthly-guides.json';
@@ -30,11 +30,12 @@ export default function ThailandWeatherPage({ months }: ThailandWeatherPageProps
 
   return (
     <>
-      <Head>
-        <title>Thailand Weather by Month - Complete Climate Guide 2026</title>
-        <meta name="description" content="Plan your trip with our Thailand weather guide. Monthly climate breakdown, best time to visit, rainfall patterns, and seasonal travel tips." />
+      <SEOHead
+        title={`Thailand Weather by Month - Complete Climate Guide 2026`}
+        description="Plan your trip with our Thailand weather guide. Monthly climate breakdown, best time to visit, rainfall patterns, and seasonal travel tips."
+      >
         <meta name="keywords" content="Thailand weather, Thailand climate, best time to visit Thailand, Thailand seasons, Thailand rainfall" />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

@@ -1,6 +1,6 @@
 import React from 'react';
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import citiesData from '../../data/cities/index.json';
@@ -46,11 +46,12 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <Head>
-        <title>Thailand Weather Guide - All Cities & Monthly Climate | Go2 Thailand</title>
-        <meta name="description" content="Complete Thailand weather guide. Check weather conditions, temperature, and rainfall for all major Thai cities. Plan your trip with monthly climate information." />
+      <SEOHead
+        title={`Thailand Weather Guide 2026 | Go2Thailand`}
+        description="Complete Thailand weather guide. Check weather conditions, temperature, and rainfall for all major Thai cities. Plan your trip with monthly climate information."
+      >
         <meta name="keywords" content="Thailand weather, Thailand climate, Thai cities weather, best time visit Thailand, Thailand seasons, Thailand temperature" />
-      </Head>
+      </SEOHead>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />

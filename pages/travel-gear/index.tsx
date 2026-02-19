@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -45,11 +45,12 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
 
   return (
     <>
-      <Head>
-        <title>Essential Travel Gear for Thailand 2026 | Packing List & Reviews</title>
-        <meta name="description" content="The ultimate Thailand packing list. Find the best travel gear including backpacks, mosquito repellent, rain gear, and electronics for your Thailand adventure." />
+      <SEOHead
+        title={`Essential Travel Gear for Thailand 2026 | Packing List & Reviews`}
+        description="The ultimate Thailand packing list. Find the best travel gear including backpacks, mosquito repellent, rain gear, and electronics for your Thailand adventure."
+      >
         <meta name="keywords" content="Thailand travel gear, Thailand packing list, best backpack Thailand, mosquito repellent Thailand, travel essentials" />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

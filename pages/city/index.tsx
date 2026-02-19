@@ -1,10 +1,10 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import { useState } from 'react';
 import { getAllCities } from '../../lib/cities';
 import CityCard from '../../components/CityCard';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import SEOHead from '../../components/SEOHead';
 
 interface City {
   id: number;
@@ -43,16 +43,12 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
 
   return (
     <>
-      <Head>
-        <title>Thailand Cities - Complete Travel Guide | Go2Thailand</title>
-        <meta 
-          name="description" 
-          content="Explore all major cities in Thailand. From Bangkok to Chiang Mai, discover the best destinations, attractions, food, and culture across Thailand." 
-        />
+      <SEOHead
+        title="Thailand Cities - Complete Travel Guide | Go2Thailand"
+        description="Explore all major cities in Thailand. From Bangkok to Chiang Mai, discover the best destinations, attractions, food, and culture across Thailand."
+      >
         <meta name="keywords" content="Thailand cities, Bangkok, Chiang Mai, Phuket, Pattaya, Krabi, Thailand destinations, Thai cities guide" />
-        <meta property="og:title" content="Thailand Cities - Complete Travel Guide | Go2Thailand" />
-        <meta property="og:description" content="Explore all major cities in Thailand. From Bangkok to Chiang Mai, discover the best destinations, attractions, food, and culture." />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Header Section */}

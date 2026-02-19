@@ -1,10 +1,10 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
 import { getAllDishes } from '../../lib/food';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import SEOHead from '../../components/SEOHead';
 
 interface Dish {
   id: number;
@@ -102,11 +102,12 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
 
   return (
     <>
-      <Head>
-        <title>Thai Food Guide | Authentic Thai Dishes & Recipes</title>
-        <meta name="description" content="Discover authentic Thai dishes, from Pad Thai to Tom Yum. Learn about ingredients, cooking methods, and cultural significance of Thailand's most beloved foods." />
+      <SEOHead
+        title="Thai Food Guide | Authentic Thai Dishes & Recipes"
+        description="Discover authentic Thai dishes, from Pad Thai to Tom Yum. Learn about ingredients, cooking methods, and cultural significance of Thailand's most beloved foods."
+      >
         <meta name="keywords" content="Thai food, Thai cuisine, Thai recipes, Pad Thai, Tom Yum, Green Curry, Thai dishes, authentic Thai cooking" />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

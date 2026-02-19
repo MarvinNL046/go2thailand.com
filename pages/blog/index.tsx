@@ -1,9 +1,9 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
 import { useRouter } from 'next/router';
+import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { getAllPosts, getAllCategories } from '../../lib/blog';
 
@@ -63,15 +63,16 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
 
   return (
     <>
-      <Head>
-        <title>Thailand Travel Blog | Tips, Guides & Stories | Go2Thailand</title>
-        <meta name="description" content="Explore Thailand through our travel blog. Get insider tips, destination guides, food recommendations, and travel stories from the Land of Smiles." />
+      <SEOHead
+        title="Thailand Travel Blog | Tips, Guides & Stories | Go2Thailand"
+        description="Explore Thailand through our travel blog. Get insider tips, destination guides, food recommendations, and travel stories from the Land of Smiles."
+      >
         <meta name="keywords" content="Thailand travel blog, Thailand tips, Thailand guides, Thai culture, Thailand stories" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

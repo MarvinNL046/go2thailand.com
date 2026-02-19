@@ -1,7 +1,7 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
+import SEOHead from '../../../components/SEOHead';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import { getAllCategories, getPostsByCategory } from '../../../lib/blog';
 
@@ -31,10 +31,10 @@ export default function BlogCategoryPage({ category, posts }: CategoryPageProps)
 
   return (
     <>
-      <Head>
-        <title>{category.charAt(0).toUpperCase() + category.slice(1)} Articles | Go2Thailand Blog</title>
-        <meta name="description" content={`Read our ${category} articles about Thailand travel. Tips, guides and stories.`} />
-      </Head>
+      <SEOHead
+        title={`${category.charAt(0).toUpperCase() + category.slice(1)} Articles | Go2Thailand`}
+        description={`Explore our ${category} articles about Thailand. In-depth travel guides, expert tips, local insights and stories to help plan your perfect Thai trip.`}
+      />
 
       <div className="bg-gray-50 min-h-screen">
         <section className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark text-white">

@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -44,15 +44,16 @@ export default function PracticalInfoIndexPage({ items }: PracticalInfoPageProps
 
   return (
     <>
-      <Head>
-        <title>Thailand Practical Travel Info 2026: Safety, Money, Health & Tips | Go2Thailand</title>
-        <meta name="description" content="Essential Thailand travel info for 2026. Scam awareness, ATM & money tips, packing list, health & vaccinations, and Thai etiquette guide." />
+      <SEOHead
+        title={`Thailand Travel Tips & Info 2026 | Go2Thailand`}
+        description="Essential Thailand travel info for 2026. Scam awareness, ATM & money tips, packing list, health & vaccinations, and Thai etiquette guide."
+      >
         <meta name="keywords" content="Thailand travel tips, Thailand safety, Thailand money, Thailand packing list, Thailand vaccinations, Thai culture etiquette" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

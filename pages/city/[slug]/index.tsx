@@ -1,5 +1,4 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
-import Head from 'next/head';
 import Image from 'next/image';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getRelatedCities, getCityImageForSection, getAllCities, toAbsoluteImageUrl } from '../../../lib/cities';
@@ -9,6 +8,7 @@ import CityCard from '../../../components/CityCard';
 import Sidebar from '../../../components/Sidebar';
 import TripcomWidget from '../../../components/TripcomWidget';
 import FeedbackForm from '../../../components/FeedbackForm';
+import SEOHead from '../../../components/SEOHead';
 import { useEffect, useState } from 'react';
 import { useTranslatedContent } from '../../../hooks/useTranslatedContent';
 import { useRouter } from 'next/router';
@@ -232,17 +232,12 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
 
   return (
     <>
-      <Head>
-        <title>{metadata.title}</title>
-        <meta name="description" content={metadata.description} />
+      <SEOHead
+        title={metadata.title}
+        description={metadata.description}
+        ogImage={metadata.openGraph?.images?.[0]?.url || toAbsoluteImageUrl(getCityImageForSection(city, 'hero'))}
+      >
         <meta name="keywords" content={metadata.keywords} />
-        <meta property="og:title" content={metadata.openGraph?.title || metadata.title} />
-        <meta property="og:description" content={metadata.openGraph?.description || metadata.description} />
-        <meta property="og:image" content={metadata.openGraph?.images?.[0]?.url || toAbsoluteImageUrl(getCityImageForSection(city, 'hero'))} />
-        <meta property="og:type" content={metadata.openGraph?.type || 'website'} />
-        <meta name="twitter:title" content={metadata.title} />
-        <meta name="twitter:description" content={metadata.description} />
-        <meta name="twitter:image" content={metadata.openGraph?.images?.[0]?.url || toAbsoluteImageUrl(getCityImageForSection(city, 'hero'))} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -269,7 +264,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
             })
           }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Debug component - only shows in development */}

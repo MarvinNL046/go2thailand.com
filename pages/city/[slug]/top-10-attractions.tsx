@@ -1,8 +1,8 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
+import SEOHead from '../../../components/SEOHead';
 import fs from 'fs';
 import path from 'path';
 
@@ -62,10 +62,10 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
   if (!attractionsData) {
     return (
       <>
-        <Head>
-          <title>Top 10 Attractions in {city.name.en} | Go2Thailand</title>
-          <meta name="description" content={`Discover the must-see attractions in ${city.name.en}, Thailand. Current entrance fees, opening hours, and visitor tips.`} />
-        </Head>
+        <SEOHead
+          title={`Top 10 Attractions in ${city.name.en} | Go2Thailand`}
+          description={`Discover the must-see attractions in ${city.name.en}, Thailand. Current entrance fees, opening hours, and visitor tips.`}
+        />
 
         <div className="bg-gray-50 min-h-screen">
           <section className="bg-white shadow-sm">
@@ -91,17 +91,11 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
 
   return (
     <>
-      <Head>
-        <title>{attractionsData.title} | Go2Thailand</title>
-        <meta name="description" content={attractionsData.meta_description} />
+      <SEOHead
+        title={`${attractionsData.title} | Go2Thailand`}
+        description={attractionsData.meta_description}
+      >
         <meta name="keywords" content={`${city.name.en} attractions, Thailand tourism, ${city.name.en} sightseeing, things to do, tourist attractions`} />
-
-        {/* OpenGraph for social sharing */}
-        <meta property="og:title" content={attractionsData.title} />
-        <meta property="og:description" content={attractionsData.meta_description} />
-        <meta property="og:type" content="article" />
-        
-        {/* Structured data for SEO */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -123,7 +117,7 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
             })
           }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Header Section */}

@@ -1,9 +1,9 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
+import SEOHead from '../../../components/SEOHead';
 import hotelAreasData from '../../../data/cities/hotel-areas.json';
 import fs from 'fs';
 import path from 'path';
@@ -47,11 +47,12 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels }: City
 
   return (
     <>
-      <Head>
-        <title>{metadata.title}</title>
-        <meta name="description" content={metadata.description} />
+      <SEOHead
+        title={metadata.title}
+        description={metadata.description}
+      >
         <meta name="keywords" content={metadata.keywords} />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         <section className="bg-white shadow-sm">

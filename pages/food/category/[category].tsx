@@ -1,5 +1,4 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
@@ -7,6 +6,7 @@ import FadeInText from '../../../components/FadeInText';
 import HighlightedText from '../../../components/HighlightedText';
 import { getAllDishes } from '../../../lib/food';
 import { useTranslation } from '../../../hooks/useTranslation';
+import SEOHead from '../../../components/SEOHead';
 
 interface Dish {
   id: number;
@@ -93,14 +93,12 @@ export default function FoodCategoryPage({ category, dishes }: CategoryPageProps
 
   return (
     <>
-      <Head>
-        <title>{info.title} - Authentic Thai {category.replace('-', ' ')} Recipes | Go2Thailand</title>
-        <meta 
-          name="description" 
-          content={`Discover authentic Thai ${category.replace('-', ' ')} recipes. ${info.description} Learn to cook traditional dishes from all regions of Thailand.`}
-        />
+      <SEOHead
+        title={`${info.title} - Authentic Thai ${category.replace('-', ' ')} Recipes | Go2Thailand`}
+        description={`Discover authentic Thai ${category.replace('-', ' ')} recipes. ${info.description} Learn to cook traditional dishes from all regions of Thailand.`}
+      >
         <meta name="keywords" content={`Thai ${category}, ${category} recipes, Thai cooking, authentic Thai food, ${info.title.toLowerCase()}`} />
-      </Head>
+      </SEOHead>
 
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
         

@@ -1,5 +1,5 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -52,16 +52,13 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
 
   return (
     <>
-      <Head>
-        <title>{guide.title}</title>
-        <meta name="description" content={guide.meta_description} />
+      <SEOHead
+        title={guide.title}
+        description={guide.meta_description}
+      >
         <meta name="keywords" content={`Thailand ${guide.month}, ${guide.month} weather Thailand, ${guide.month} festivals Thailand, visit Thailand ${guide.month}`} />
-        
-        {/* OpenGraph */}
-        <meta property="og:title" content={guide.title} />
-        <meta property="og:description" content={guide.meta_description} />
         <meta property="og:type" content="article" />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

@@ -1,5 +1,4 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
@@ -8,6 +7,7 @@ import FadeInText from '../../../components/FadeInText';
 import HighlightedText from '../../../components/HighlightedText';
 import { getAllDrinks, getDrinkCategories } from '../../../lib/drinks';
 import { useTranslation } from '../../../hooks/useTranslation';
+import SEOHead from '../../../components/SEOHead';
 
 interface Drink {
   id: number;
@@ -130,14 +130,12 @@ export default function DrinkCategoryPage({ category, drinks }: CategoryPageProp
 
   return (
     <>
-      <Head>
-        <title>{info.title} - Thai {category} Drinks & Recipes | Go2Thailand</title>
-        <meta 
-          name="description" 
-          content={`Discover authentic Thai ${category} drinks and beverages. ${info.description} Learn recipes and find where to try them in Thailand.`}
-        />
+      <SEOHead
+        title={`${info.title} - Thai ${category} Drinks & Recipes | Go2Thailand`}
+        description={`Discover authentic Thai ${category} drinks and beverages. ${info.description} Learn recipes and find where to try them in Thailand.`}
+      >
         <meta name="keywords" content={`Thai ${category}, ${category} drinks Thailand, Thai beverages, ${info.title.toLowerCase()}`} />
-      </Head>
+      </SEOHead>
 
       <div className="min-h-screen bg-gray-50">
         {/* Breadcrumbs */}

@@ -1,4 +1,4 @@
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 
@@ -20,10 +20,10 @@ export default function TravelGuidesIndex() {
 
   return (
     <>
-      <Head>
-        <title>Thailand Travel Guides | Go2Thailand</title>
-        <meta name="description" content="Comprehensive travel guides for Thailand including weather, transportation, culture, and travel tips." />
-      </Head>
+      <SEOHead
+        title={`Thailand Travel Guides | Go2Thailand`}
+        description="Comprehensive travel guides for Thailand including weather, transportation, culture, and travel tips."
+      />
 
       <div className="bg-gray-50 min-h-screen">
         <section className="bg-white shadow-sm">

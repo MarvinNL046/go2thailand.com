@@ -1,5 +1,5 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
@@ -138,13 +138,12 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
 
   return (
     <>
-      <Head>
-        <title>{island.seo.metaTitle[lang]}</title>
-        <meta name="description" content={island.seo.metaDescription[lang]} />
+      <SEOHead
+        title={island.seo.metaTitle[lang]}
+        description={island.seo.metaDescription[lang]}
+        ogImage={`https://go2-thailand.com${island.image}`}
+      >
         <meta name="keywords" content={[island.name.en, island.region, island.province, ...island.tags].join(', ')} />
-        <meta property="og:title" content={island.seo.metaTitle[lang]} />
-        <meta property="og:description" content={island.seo.metaDescription[lang]} />
-        <meta property="og:image" content={`https://go2-thailand.com${island.image}`} />
         <meta property="og:type" content="website" />
         <script
           type="application/ld+json"
@@ -154,7 +153,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

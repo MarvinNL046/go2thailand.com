@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -55,15 +55,16 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
 
   return (
     <>
-      <Head>
-        <title>Thailand Visa Guide 2026: All Visa Types, Requirements & Tips | Go2Thailand</title>
-        <meta name="description" content="Complete Thailand visa guide 2026. Visa-free entry (60 days), tourist visa, digital nomad visa (DTV), retirement visa & more. Requirements, costs & step-by-step process." />
+      <SEOHead
+        title={`Thailand Visa Guide 2026 | Go2Thailand`}
+        description="Complete Thailand visa guide 2026. Visa-free entry (60 days), tourist visa, digital nomad visa (DTV), retirement visa & more. Requirements, costs & step-by-step process."
+      >
         <meta name="keywords" content="Thailand visa, Thailand visa 2026, visa free Thailand, tourist visa Thailand, digital nomad visa Thailand, DTV Thailand" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

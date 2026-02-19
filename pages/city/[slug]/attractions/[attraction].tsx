@@ -1,10 +1,10 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
-import Head from 'next/head';
 import Image from 'next/image';
 import Link from 'next/link';
 import { getCityBySlug, getAttractionBySlug, generateAttractionMetadata, generateAttractionBreadcrumbs, getAllAttractionStaticPaths, toAbsoluteImageUrl } from '../../../../lib/cities';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import TripcomWidget from '../../../../components/TripcomWidget';
+import SEOHead from '../../../../components/SEOHead';
 
 interface Attraction {
   id: number;
@@ -79,16 +79,12 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
 
   return (
     <>
-      <Head>
-        <title>{metadata.title}</title>
-        <meta name="description" content={metadata.description} />
+      <SEOHead
+        title={metadata.title}
+        description={metadata.description}
+        ogImage={toAbsoluteImageUrl(attraction.image)}
+      >
         <meta name="keywords" content={metadata.keywords} />
-        <meta property="og:title" content={metadata.openGraph?.title || metadata.title} />
-        <meta property="og:description" content={metadata.openGraph?.description || metadata.description} />
-        <meta property="og:image" content={toAbsoluteImageUrl(attraction.image)} />
-        <meta name="twitter:title" content={metadata.title} />
-        <meta name="twitter:description" content={metadata.description} />
-        <meta name="twitter:image" content={toAbsoluteImageUrl(attraction.image)} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -126,7 +122,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
             })
           }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

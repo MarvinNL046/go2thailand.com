@@ -1,9 +1,9 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
+import SEOHead from '../../../components/SEOHead';
 import fs from 'fs';
 import path from 'path';
 
@@ -63,10 +63,10 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
   if (!restaurantsData) {
     return (
       <>
-        <Head>
-          <title>Top 10 Restaurants in {city.name.en} | Go2Thailand</title>
-          <meta name="description" content={`Discover the best restaurants in ${city.name.en}, Thailand. Current prices, local recommendations, and insider tips.`} />
-        </Head>
+        <SEOHead
+          title={`Top 10 Restaurants in ${city.name.en} | Go2Thailand`}
+          description={`Discover the best restaurants in ${city.name.en}, Thailand. Current prices, local recommendations, and insider tips.`}
+        />
 
         <div className="bg-gray-50 min-h-screen">
           <section className="bg-white shadow-sm">
@@ -92,17 +92,11 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
 
   return (
     <>
-      <Head>
-        <title>{restaurantsData.title} | Go2Thailand</title>
-        <meta name="description" content={restaurantsData.meta_description} />
+      <SEOHead
+        title={`${restaurantsData.title} | Go2Thailand`}
+        description={restaurantsData.meta_description}
+      >
         <meta name="keywords" content={`${city.name.en} restaurants, Thailand dining, local food, ${city.name.en} cuisine, restaurant guide`} />
-
-        {/* OpenGraph for social sharing */}
-        <meta property="og:title" content={restaurantsData.title} />
-        <meta property="og:description" content={restaurantsData.meta_description} />
-        <meta property="og:type" content="article" />
-        
-        {/* Structured data for SEO */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -124,7 +118,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
             })
           }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Header Section */}

@@ -1,5 +1,5 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -71,11 +71,10 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
 
   return (
     <>
-      <Head>
-        <title>{info.seo.metaTitle[lang]}</title>
-        <meta name="description" content={info.seo.metaDescription[lang]} />
-        <meta property="og:title" content={info.seo.metaTitle[lang]} />
-        <meta property="og:description" content={info.seo.metaDescription[lang]} />
+      <SEOHead
+        title={info.seo.metaTitle[lang]}
+        description={info.seo.metaDescription[lang]}
+      >
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
@@ -84,7 +83,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

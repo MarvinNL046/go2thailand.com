@@ -1,5 +1,5 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Image from 'next/image';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -98,15 +98,14 @@ export default function RegionPage({ region, cities }: RegionPageProps) {
 
   return (
     <>
-      <Head>
-        <title>{region.seo.metaTitle.en}</title>
-        <meta name="description" content={region.seo.metaDescription.en} />
+      <SEOHead
+        title={region.seo.metaTitle.en}
+        description={region.seo.metaDescription.en || region.description.en}
+        ogImage={toAbsoluteImageUrl(region.image)}
+      >
         <meta name="keywords" content={`${region.name.en}, Thailand, ${region.cities.join(', ')}, travel guide, attractions, culture`} />
-        <meta property="og:title" content={region.seo.metaTitle.en} />
-        <meta property="og:description" content={region.seo.metaDescription.en} />
-        <meta property="og:image" content={toAbsoluteImageUrl(region.image)} />
         <meta property="og:type" content="website" />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

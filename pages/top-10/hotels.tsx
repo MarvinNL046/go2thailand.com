@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import Head from 'next/head';
+import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import { getAllCities } from '../../lib/cities';
@@ -34,17 +34,12 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
 
   return (
     <>
-      <Head>
-        <title>Top 10 Hotel Guides | Best Accommodation in Thailand | Go2Thailand</title>
-        <meta name="description" content="Find the best hotels in Thailand with our comprehensive Top 10 guides. Current rates, guest reviews, and booking tips in Bangkok, Phuket, Chiang Mai and more." />
+      <SEOHead
+        title={`Top 10 Hotel Guides | Best Accommodation in Thailand | Go2Thailand`}
+        description="Find the best hotels in Thailand with our comprehensive Top 10 guides. Current rates, guest reviews, and booking tips in Bangkok, Phuket, Chiang Mai and more."
+      >
         <meta name="keywords" content="Thailand hotels, top 10 hotels, accommodation, hotel booking, Bangkok hotels, Phuket resorts, Chiang Mai hotels, Thailand accommodation" />
-        
-        {/* OpenGraph for social sharing */}
-        <meta property="og:title" content="Top 10 Hotel Guides | Best Accommodation in Thailand" />
-        <meta property="og:description" content="Find the best hotels in Thailand with current rates, guest reviews, and booking tips." />
         <meta property="og:type" content="website" />
-        
-        {/* Structured data for SEO */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -70,7 +65,7 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
             })
           }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero Section */}

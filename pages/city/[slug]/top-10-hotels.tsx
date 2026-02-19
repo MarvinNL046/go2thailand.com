@@ -1,9 +1,9 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
-import Head from 'next/head';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
+import SEOHead from '../../../components/SEOHead';
 import fs from 'fs';
 import path from 'path';
 
@@ -63,10 +63,10 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
   if (!hotelsData) {
     return (
       <>
-        <Head>
-          <title>Top 10 Hotels in {city.name.en} | Go2Thailand</title>
-          <meta name="description" content={`Find the best hotels in ${city.name.en}, Thailand. Current prices, guest reviews, and booking recommendations.`} />
-        </Head>
+        <SEOHead
+          title={`Top 10 Hotels in ${city.name.en} | Go2Thailand`}
+          description={`Find the best hotels in ${city.name.en}, Thailand. Current prices, guest reviews, and booking recommendations.`}
+        />
 
         <div className="bg-gray-50 min-h-screen">
           <section className="bg-white shadow-sm">
@@ -92,17 +92,11 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
 
   return (
     <>
-      <Head>
-        <title>{hotelsData.title} | Go2Thailand</title>
-        <meta name="description" content={hotelsData.meta_description} />
+      <SEOHead
+        title={`${hotelsData.title} | Go2Thailand`}
+        description={hotelsData.meta_description}
+      >
         <meta name="keywords" content={`${city.name.en} hotels, Thailand accommodation, ${city.name.en} resorts, hotel booking, where to stay`} />
-
-        {/* OpenGraph for social sharing */}
-        <meta property="og:title" content={hotelsData.title} />
-        <meta property="og:description" content={hotelsData.meta_description} />
-        <meta property="og:type" content="article" />
-        
-        {/* Structured data for SEO */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -116,7 +110,7 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
                 "name": "Go2Thailand"
               },
               "publisher": {
-                "@type": "Organization", 
+                "@type": "Organization",
                 "name": "Go2Thailand"
               },
               "datePublished": hotelsData.generated_at,
@@ -124,7 +118,7 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
             })
           }}
         />
-      </Head>
+      </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
         {/* Header Section */}
