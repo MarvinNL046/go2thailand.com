@@ -1,0 +1,166 @@
+{
+  "city": "chiang-mai",
+  "cityName": { "en": "Chiang Mai", "nl": "Chiang Mai" },
+  "intro": {
+    "en": "Chiang Mai is the undisputed elephant sanctuary capital of Thailand. The lush mountains surrounding the city are home to over 50 ethical elephant sanctuaries and rescue centers, making it the best place in the country to have a meaningful, hands-on elephant experience. From feeding and bathing rescued elephants to overnight homestay programs where you wake up with elephants, Chiang Mai offers something for every traveler. Most sanctuaries focus on ethical, no-riding practices and support elephant rescue and rehabilitation efforts.",
+    "nl": "Chiang Mai is de onbetwiste olifantenopvang-hoofdstad van Thailand. De weelderige bergen rondom de stad herbergen meer dan 50 ethische olifantenopvangcentra en reddingscentra, waardoor het de beste plek in het land is voor een betekenisvolle, hands-on olifantenervaring. Van het voeren en baden van geredde olifanten tot overnachtingsprogramma's met homestays waar je wakker wordt bij olifanten, Chiang Mai biedt iets voor elke reiziger. De meeste opvangcentra richten zich op ethische, niet-rijden-praktijken en ondersteunen olifantenreddings- en revalidatie-inspanningen."
+  },
+  "tips": {
+    "en": [
+      "Book at least 1-2 days in advance as popular sanctuaries sell out quickly",
+      "All ethical sanctuaries include hotel pickup and drop-off — no need to arrange transport",
+      "Wear clothes you don't mind getting dirty — you'll be feeding and bathing elephants",
+      "Half-day programs (4-5 hours) are perfect if you're short on time",
+      "Look for sanctuaries certified by GetYourGuide or with 'no riding' policies for the most ethical experience"
+    ],
+    "nl": [
+      "Boek minstens 1-2 dagen van tevoren want populaire opvangcentra zijn snel vol",
+      "Alle ethische opvangcentra bieden hotel pick-up en drop-off — geen vervoer regelen nodig",
+      "Draag kleding die vuil mag worden — je gaat olifanten voeren en baden",
+      "Halfdaagse programma's (4-5 uur) zijn perfect als je weinig tijd hebt",
+      "Zoek opvangcentra gecertificeerd door GetYourGuide of met 'niet rijden'-beleid voor de meest ethische ervaring"
+    ]
+  },
+  "classes": [
+    {
+      "name": "Elephant Sanctuary, Waterfall & Bamboo Rafting",
+      "slug": "sanctuary-waterfall-rafting",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 9077,
+      "priceFrom": 48,
+      "currency": "EUR",
+      "duration": "9 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Elephant feeding & bathing", "Waterfall visit", "Bamboo rafting", "Lunch"],
+      "badge": "Top pick",
+      "gygPath": "/chiang-mai-l271/chiang-mai-elephant-sanctuary-waterfall-bamboo-rafting-t826521/"
+    },
+    {
+      "name": "Elephant Sanctuary & Waterfall Group Tour",
+      "slug": "sanctuary-waterfall-group",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 5773,
+      "priceFrom": 40,
+      "currency": "EUR",
+      "duration": "7 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Elephant care", "Waterfall hike", "Lunch"],
+      "badge": "Top rated",
+      "gygPath": "/chiang-mai-l271/chiang-mai-elephant-sanctuary-waterfall-group-tour-t430605/"
+    },
+    {
+      "name": "Elephant Sanctuary Feeding Program Half-Day",
+      "slug": "feeding-program-half-day",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 4453,
+      "priceFrom": 21,
+      "currency": "EUR",
+      "duration": "5 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Elephant feeding", "Learn about elephants"],
+      "badge": "",
+      "gygPath": "/chiang-mai-l271/chiang-mai-elephant-sanctuary-feeding-program-half-day-tour-t911878/"
+    },
+    {
+      "name": "Elephant Sanctuary, Long Neck & Sticky Waterfall",
+      "slug": "long-neck-sticky-waterfall",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 2242,
+      "priceFrom": 48,
+      "currency": "EUR",
+      "duration": "9 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Elephant care", "Long Neck village", "Sticky waterfall", "Lunch"],
+      "badge": "Top rated",
+      "gygPath": "/chiang-mai-l271/chiang-mai-elephant-sanctuary-long-neck-sticky-waterfall-t824369/"
+    },
+    {
+      "name": "Small Group Ethical Elephant Sanctuary Tour",
+      "slug": "small-group-ethical-tour",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 1570,
+      "priceFrom": 65,
+      "currency": "EUR",
+      "duration": "5-8.5 hours",
+      "groupSize": "small group",
+      "includes": ["Certified by GYG", "Small group", "Ethical sanctuary", "Feeding & bathing"],
+      "badge": "Certified",
+      "gygPath": "/chiang-mai-l271/ethical-choice-half-day-at-elephant-sanctuary-in-chiang-mai-t121815/"
+    },
+    {
+      "name": "Doi Inthanon and Elephant Sanctuary Tour",
+      "slug": "doi-inthanon-elephants",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 1079,
+      "priceFrom": 65,
+      "currency": "EUR",
+      "duration": "Full day",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Doi Inthanon National Park", "Elephant sanctuary", "Lunch"],
+      "badge": "Top rated",
+      "gygPath": "/chiang-mai-l271/chiang-mai-doi-inthanon-and-elephant-sanctuary-tour-t824375/"
+    },
+    {
+      "name": "Elephant Jungle Sanctuary with Lunch & Transfer",
+      "slug": "jungle-sanctuary-lunch",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 641,
+      "priceFrom": 51,
+      "currency": "EUR",
+      "duration": "3-6 hours",
+      "groupSize": "small group",
+      "includes": ["Small group", "Hotel pickup", "Elephant care", "Lunch"],
+      "badge": "Top rated",
+      "gygPath": "/chiang-mai-l271/chiang-mai-elephant-jungle-sanctuary-half-day-tour-t567401/"
+    },
+    {
+      "name": "Elephant Sanctuary, Monk Trail & Doi Suthep",
+      "slug": "monk-trail-doi-suthep",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 558,
+      "priceFrom": 48,
+      "currency": "EUR",
+      "duration": "Full day",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Elephant sanctuary", "Monk Trail hike", "Doi Suthep temple"],
+      "badge": "Certified",
+      "gygPath": "/chiang-mai-l271/chiang-mai-elephant-sanctuary-monk-trail-doi-suthep-tour-t778457/"
+    },
+    {
+      "name": "Elephant Dream Project Sanctuary - Half Day",
+      "slug": "dream-project-half-day",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 544,
+      "priceFrom": 43,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Elephant Dream Project", "Feeding & interaction"],
+      "badge": "Top rated",
+      "gygPath": "/chiang-mai-l271/chiang-mai-elephant-dream-project-sanctuary-half-day-t752430/"
+    },
+    {
+      "name": "2-Day Elephant & Overnight Homestay",
+      "slug": "overnight-homestay",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 219,
+      "priceFrom": 105,
+      "currency": "EUR",
+      "duration": "2 days",
+      "groupSize": "small group",
+      "includes": ["Small group", "Overnight homestay", "Multiple elephant sessions", "All meals"],
+      "badge": "Top rated",
+      "gygPath": "/chiang-mai-l271/chiang-mai-2-day-good-morning-elephant-overnight-homestay-t824380/"
+    }
+  ]
+}

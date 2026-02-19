@@ -1,0 +1,166 @@
+{
+  "city": "phuket",
+  "cityName": { "en": "Phuket", "nl": "Phuket" },
+  "intro": {
+    "en": "Phuket offers a wide variety of ethical elephant sanctuary experiences, from quick 1-hour feeding sessions to full-day programs with cooking classes. The island's sanctuaries range from the well-known Elephant Jungle Sanctuary chain to smaller, intimate reserves like Hidden Forest and Bukit Elephant Park. Many sanctuaries are located in the lush interior of the island, away from the busy beaches, providing a peaceful jungle setting for your elephant encounter. Hotel transfers are included with most experiences.",
+    "nl": "Phuket biedt een breed scala aan ethische olifantenopvang-ervaringen, van snelle 1-uur voedersessies tot volledige dagprogramma's met kooklessen. De opvangcentra op het eiland variëren van de bekende Elephant Jungle Sanctuary-keten tot kleinere, intieme reservaten zoals Hidden Forest en Bukit Elephant Park. Veel opvangcentra bevinden zich in het weelderige binnenland van het eiland, weg van de drukke stranden, en bieden een rustige jungle-omgeving voor uw olifantenontmoeting. Hoteltransfers zijn bij de meeste ervaringen inbegrepen."
+  },
+  "tips": {
+    "en": [
+      "Book at least 1-2 days ahead during peak season (November-March)",
+      "Short feeding experiences (1-1.5 hours) are great for families with young kids",
+      "Half-day programs offer the best balance of time and value",
+      "Bring a waterproof phone case if you want photos during bathing sessions",
+      "Some sanctuaries offer beach walks with elephants — a unique Phuket experience"
+    ],
+    "nl": [
+      "Boek minstens 1-2 dagen van tevoren tijdens het hoogseizoen (november-maart)",
+      "Korte voederervaringen (1-1,5 uur) zijn geweldig voor gezinnen met jonge kinderen",
+      "Halfdaagse programma's bieden de beste balans tussen tijd en waarde",
+      "Neem een waterdichte telefoonhoes mee als je foto's wilt tijdens badsessies",
+      "Sommige opvangcentra bieden strandwandelingen met olifanten — een unieke Phuket-ervaring"
+    ]
+  },
+  "classes": [
+    {
+      "name": "Elephant Jungle Sanctuary Ethical Feeding",
+      "slug": "jungle-sanctuary-feeding",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 4332,
+      "priceFrom": 24,
+      "currency": "EUR",
+      "duration": "Full day",
+      "groupSize": "group",
+      "includes": ["Skip the line", "Elephant feeding", "Ethical sanctuary"],
+      "badge": "Top pick",
+      "gygPath": "/phuket-l32123/phuket-elephant-jungle-sanctuary-ethical-feeding-experience-t567853/"
+    },
+    {
+      "name": "Elephant Sanctuary Guided Tour with Hotel Transfers",
+      "slug": "guided-tour-transfers",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 2005,
+      "priceFrom": 35,
+      "currency": "EUR",
+      "duration": "1 hour",
+      "groupSize": "small group",
+      "includes": ["Hotel pickup & drop-off", "Guided tour", "Elephant interaction"],
+      "badge": "Top rated",
+      "gygPath": "/patong-l93618/phuket-elephant-sanctuary-guided-tour-with-hotel-transfers-t569777/"
+    },
+    {
+      "name": "Elephant Save & Care Program Tour",
+      "slug": "save-care-program",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 1789,
+      "priceFrom": 70,
+      "currency": "EUR",
+      "duration": "2-3.5 hours",
+      "groupSize": "group",
+      "includes": ["Certified by GYG", "Elephant care", "Private option available", "Hotel pickup"],
+      "badge": "Certified",
+      "gygPath": "/phuket-l32123/phuket-elephant-save-care-program-t403039/"
+    },
+    {
+      "name": "Elephant Jungle Sanctuary Half-Day with Meal",
+      "slug": "jungle-sanctuary-half-day",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 1784,
+      "priceFrom": 75,
+      "currency": "EUR",
+      "duration": "3 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Elephant feeding & bathing", "Thai meal"],
+      "badge": "Top rated",
+      "gygPath": "/phuket-l32123/phuket-elephant-jungle-sanctuary-half-day-visit-t567839/"
+    },
+    {
+      "name": "Elephant Experience with Lunch or Dinner & Pickup",
+      "slug": "experience-lunch-dinner",
+      "provider": "GetYourGuide",
+      "rating": 4.7,
+      "reviews": 1387,
+      "priceFrom": 56,
+      "currency": "EUR",
+      "duration": "4.5 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Elephant interaction", "Lunch or dinner option"],
+      "badge": "Top rated",
+      "gygPath": "/phuket-city-l187/phuket-elephant-experience-with-lunch-or-dinner-and-pickup-t555527/"
+    },
+    {
+      "name": "Elephant Jungle Sanctuary Feed and Shower Trip",
+      "slug": "feed-and-shower",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 1046,
+      "priceFrom": 51,
+      "currency": "EUR",
+      "duration": "1.5 hours",
+      "groupSize": "group",
+      "includes": ["Certified by GYG", "Feed & shower elephants", "Hotel pickup"],
+      "badge": "Certified",
+      "gygPath": "/phuket-l32123/phuket-elephant-jungle-sanctuary-feed-and-shower-t567850/"
+    },
+    {
+      "name": "Beach Walk with Elephants (2.5 hours)",
+      "slug": "beach-walk-elephants",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 952,
+      "priceFrom": 49,
+      "currency": "EUR",
+      "duration": "2.5 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Beach walk", "Elephant care & rain shower"],
+      "badge": "Top rated",
+      "gygPath": "/phuket-l32123/phuketbeach-walk-with-elephants-rain-care-25-hours-t570333/"
+    },
+    {
+      "name": "Bukit Elephant Park Sanctuary Walk & Feed Tour",
+      "slug": "bukit-park-walk-feed",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 913,
+      "priceFrom": 43,
+      "currency": "EUR",
+      "duration": "1.5 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Walk & feed elephants", "Photo opportunities"],
+      "badge": "Top rated",
+      "gygPath": "/phuket-city-l187/phuket-bukit-elephant-park-sanctuary-walk-and-feed-tour-t868999/"
+    },
+    {
+      "name": "Elephant Sanctuary Tour, Cooking Class & Lunch",
+      "slug": "sanctuary-cooking-class",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 856,
+      "priceFrom": 86,
+      "currency": "EUR",
+      "duration": "7 hours",
+      "groupSize": "group",
+      "includes": ["Skip the line", "Elephant sanctuary", "Thai cooking class", "Lunch", "Hotel pickup"],
+      "badge": "Top rated",
+      "gygPath": "/phuket-l32123/ethical-choice-phuket-elephant-jungle-sanctuary-t157908/"
+    },
+    {
+      "name": "Phuket Elephant Care Sanctuary ECO Tour",
+      "slug": "elephant-care-eco-tour",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 671,
+      "priceFrom": 59,
+      "currency": "EUR",
+      "duration": "1.5 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Eco-friendly experience", "Elephant care"],
+      "badge": "Top rated",
+      "gygPath": "/phuket-city-l187/phuket-feed-and-spa-at-phuket-elephant-care-t509799/"
+    }
+  ]
+}

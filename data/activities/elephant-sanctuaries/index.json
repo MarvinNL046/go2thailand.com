@@ -1,0 +1,37 @@
+{
+  "cities": [
+    {
+      "slug": "chiang-mai",
+      "name": { "en": "Chiang Mai", "nl": "Chiang Mai" },
+      "classCount": 10,
+      "priceRange": { "from": 21, "to": 105, "currency": "EUR" },
+      "topRating": 4.9,
+      "highlight": {
+        "en": "Thailand's elephant sanctuary capital with 50+ ethical sanctuaries in the surrounding jungle. Home to famous programs like Elephant Jungle Sanctuary and Elephant Dream Project, offering feeding, bathing, and overnight experiences from EUR21.",
+        "nl": "De olifantenopvang-hoofdstad van Thailand met 50+ ethische opvangcentra in de omringende jungle. Thuisbasis van bekende programma's zoals Elephant Jungle Sanctuary en Elephant Dream Project, met voeren, baden en overnachtingservaringen vanaf EUR21."
+      }
+    },
+    {
+      "slug": "phuket",
+      "name": { "en": "Phuket", "nl": "Phuket" },
+      "classCount": 10,
+      "priceRange": { "from": 24, "to": 86, "currency": "EUR" },
+      "topRating": 5.0,
+      "highlight": {
+        "en": "Phuket offers diverse elephant sanctuary experiences from quick feeding sessions to full-day programs. Top sanctuaries include Elephant Jungle Sanctuary Phuket, Bukit Elephant Park, and Hidden Forest Elephant Reserve.",
+        "nl": "Phuket biedt diverse olifantenopvang-ervaringen van snelle voedersessies tot volledige dagprogramma's. Topopvangcentra zijn Elephant Jungle Sanctuary Phuket, Bukit Elephant Park en Hidden Forest Elephant Reserve."
+      }
+    },
+    {
+      "slug": "krabi",
+      "name": { "en": "Krabi", "nl": "Krabi" },
+      "classCount": 8,
+      "priceRange": { "from": 18, "to": 94, "currency": "EUR" },
+      "topRating": 4.9,
+      "highlight": {
+        "en": "Krabi's elephant sanctuaries offer intimate, small-group experiences in the Ao Nang and Krabi Town area. From quick feeding programs to half-day ethical care experiences with waterfall visits.",
+        "nl": "De olifantenopvangcentra van Krabi bieden intieme, kleine groepservaringen in het Ao Nang en Krabi Town gebied. Van snelle voederprogramma's tot halfdaagse ethische zorgervaringen met watervalbezoekencentra."
+      }
+    }
+  ]
+}

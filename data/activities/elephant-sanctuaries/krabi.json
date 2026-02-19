@@ -1,0 +1,138 @@
+{
+  "city": "krabi",
+  "cityName": { "en": "Krabi", "nl": "Krabi" },
+  "intro": {
+    "en": "Krabi's elephant sanctuaries offer intimate, small-group experiences in the stunning Ao Nang and Krabi Town area. From quick feeding programs starting at just EUR18 to comprehensive half-day ethical care experiences, Krabi provides a more relaxed alternative to the busier sanctuaries in Chiang Mai and Phuket. Many programs can be combined with visits to nearby waterfalls and temples, making it easy to fill an exciting full day. The Krabi Elephant Shelter and Love Elephant Sanctuary are among the most popular options.",
+    "nl": "De olifantenopvangcentra van Krabi bieden intieme, kleine groepservaringen in het prachtige Ao Nang en Krabi Town gebied. Van snelle voederprogramma's vanaf slechts EUR18 tot uitgebreide halfdaagse ethische zorgervaringen, Krabi biedt een meer ontspannen alternatief voor de drukkere opvangcentra in Chiang Mai en Phuket. Veel programma's kunnen gecombineerd worden met bezoeken aan nabijgelegen watervallen en tempels, waardoor het makkelijk is om een spannende volledige dag te vullen."
+  },
+  "tips": {
+    "en": [
+      "Quick feeding programs (30 min) are available from EUR18 — great for a brief stop",
+      "The Krabi Elephant Shelter is one of the most reviewed sanctuaries in the area",
+      "Combine elephant visits with Tiger Cave Temple for a full-day adventure",
+      "Some sanctuaries offer traditional Thai dress photoshoots with elephants",
+      "Ao Nang-based sanctuaries have the most convenient hotel pickup options"
+    ],
+    "nl": [
+      "Snelle voederprogramma's (30 min) zijn beschikbaar vanaf EUR18 — geweldig voor een korte stop",
+      "De Krabi Elephant Shelter is een van de meest beoordeelde opvangcentra in het gebied",
+      "Combineer olifantenbezoeken met Tiger Cave Temple voor een avontuur van een hele dag",
+      "Sommige opvangcentra bieden traditionele Thaise kledingfotoshoots met olifanten",
+      "Ao Nang-gebaseerde opvangcentra hebben de handigste hotel-ophaalopties"
+    ]
+  },
+  "classes": [
+    {
+      "name": "Elephant Bathing Session at Krabi Elephant Shelter",
+      "slug": "elephant-shelter-bathing",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 2005,
+      "priceFrom": 40,
+      "currency": "EUR",
+      "duration": "1.5 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Elephant bathing", "Feeding experience"],
+      "badge": "Top rated",
+      "gygPath": "/krabi-l2174/bathe-with-me-elephant-shower-or-bathing-t442369/"
+    },
+    {
+      "name": "Ao Nang Elephant Sanctuary Half-Day Tour",
+      "slug": "ao-nang-half-day",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 2060,
+      "priceFrom": 67,
+      "currency": "EUR",
+      "duration": "3 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Elephant care program", "Half-day experience"],
+      "badge": "Top rated",
+      "gygPath": "/krabi-l2174/krabi-ao-nang-elephant-sanctuary-half-day-tour-t275242/"
+    },
+    {
+      "name": "Elephant Care House with Hotel Transfers",
+      "slug": "elephant-care-house",
+      "provider": "GetYourGuide",
+      "rating": 4.7,
+      "reviews": 541,
+      "priceFrom": 48,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Elephant care", "Guided experience"],
+      "badge": "Top rated",
+      "gygPath": "/krabi-l2174/krabi-elephant-care-house-t445348/"
+    },
+    {
+      "name": "Love Elephant Sanctuary Tour",
+      "slug": "love-elephant-sanctuary",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 350,
+      "priceFrom": 43,
+      "currency": "EUR",
+      "duration": "2 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Elephant interaction", "Feeding experience"],
+      "badge": "Top pick",
+      "gygPath": "/krabi-l2174/krabi-love-elephant-sanctuary-tour-t845569/"
+    },
+    {
+      "name": "No-Touching Roaming Elephant Sanctuary Guided Tour",
+      "slug": "no-touching-roaming",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 139,
+      "priceFrom": 59,
+      "currency": "EUR",
+      "duration": "2 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Observe-only experience", "Roaming elephants"],
+      "badge": "Top rated",
+      "gygPath": "/krabi-l2174/krabi-no-touching-elephant-sanctuary-2hrs-mini-moments-t922257/"
+    },
+    {
+      "name": "Elephant Feeding Program with Traditional Thai Dress",
+      "slug": "feeding-thai-dress",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 124,
+      "priceFrom": 18,
+      "currency": "EUR",
+      "duration": "30 minutes",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Traditional Thai dress", "Elephant feeding", "Photo session"],
+      "badge": "Top rated",
+      "gygPath": "/ao-nang-l89867/krabi-elephant-feeding-program-with-traditional-thai-dress-t987354/"
+    },
+    {
+      "name": "Elephant Care House & Huay Tho Waterfall Trip",
+      "slug": "care-house-waterfall",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 107,
+      "priceFrom": 67,
+      "currency": "EUR",
+      "duration": "5.5 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Elephant care", "7-level waterfall", "Lunch"],
+      "badge": "Top rated",
+      "gygPath": "/krabi-l2174/krabi-elephant-care-house-7-level-huay-tho-waterfall-trip-t446684/"
+    },
+    {
+      "name": "Ethical Elephant Sanctuary Experience",
+      "slug": "ethical-experience",
+      "provider": "GetYourGuide",
+      "rating": 5.0,
+      "reviews": 10,
+      "priceFrom": 94,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Ethical care program", "Premium experience"],
+      "badge": "",
+      "gygPath": "/krabi-l2174/krabi-ethical-elephant-experience-t522393/"
+    }
+  ]
+}
