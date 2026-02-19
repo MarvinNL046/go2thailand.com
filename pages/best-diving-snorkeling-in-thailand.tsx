@@ -1,15 +1,15 @@
 import { GetStaticProps } from 'next';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import { getMuayThaiIndex, getMuayThaiByCity } from '../lib/muay-thai';
+import { getDivingSnorkelingIndex, getDivingSnorkelingByCity } from '../lib/diving-snorkeling';
 import { formatPrice } from '../lib/price';
 import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
 
-interface MuayThaiActivity {
+interface Activity {
   name: string;
   slug: string;
-  type: 'watch' | 'train' | 'combo';
+  type: 'diving' | 'snorkeling';
   rating: number;
   reviews: number;
   priceFrom: number;
@@ -28,16 +28,16 @@ interface CityEntry {
   highlight: { en: string; nl: string };
 }
 
-interface CityClasses {
+interface CityData {
   city: string;
   cityName: { en: string; nl: string };
   intro: { en: string; nl: string };
-  classes: MuayThaiActivity[];
+  classes: Activity[];
 }
 
 interface Props {
   cities: CityEntry[];
-  topActivities: { cityName: string; citySlug: string; cls: MuayThaiActivity }[];
+  topActivities: { cityName: string; citySlug: string; activity: Activity }[];
 }
 
 const GYG_AFFILIATE = 'https://getyourguide.tpo.lv/6HngJ5FC';
@@ -58,41 +58,41 @@ function StarRating({ rating }: { rating: number }) {
 
 function TypeBadge({ type }: { type: string }) {
   const config: Record<string, { label: string; color: string }> = {
-    watch: { label: 'Fights', color: 'bg-red-100 text-red-700' },
-    train: { label: 'Training', color: 'bg-blue-100 text-blue-700' },
-    combo: { label: 'Combo', color: 'bg-purple-100 text-purple-700' },
+    diving: { label: 'Diving', color: 'bg-blue-100 text-blue-700' },
+    snorkeling: { label: 'Snorkeling', color: 'bg-cyan-100 text-cyan-700' },
   };
-  const { label, color } = config[type] || config.watch;
+  const { label, color } = config[type] || config.snorkeling;
   return <span className={`text-xs font-semibold px-2 py-0.5 rounded ${color}`}>{label}</span>;
 }
 
-export default function BestMuayThaiPage({ cities, topActivities }: Props) {
+export default function BestDivingSnorkelingPage({ cities, topActivities }: Props) {
   const { locale } = useRouter();
   const loc = locale || 'en';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Best Muay Thai in Thailand', href: '/best-muay-thai-in-thailand/' }
+    { name: 'Best Diving & Snorkeling in Thailand', href: '/best-diving-snorkeling-in-thailand/' }
   ];
 
-  const title = 'Best Muay Thai in Thailand (2025) - Fights, Training & Camps Compared';
-  const description = 'Compare the best Muay Thai experiences across Bangkok, Chiang Mai, and Phuket. Watch live fights, train at professional gyms, and find your perfect Muay Thai adventure.';
+  const title = 'Best Diving & Snorkeling in Thailand (2025) - Top Destinations Compared';
+  const description = 'Compare the best diving and snorkeling experiences across Phuket and Krabi. From Similan Islands scuba diving to Phi Phi snorkeling — prices, reviews, and booking links.';
 
   const faqItems = [
     {
-      q: 'Where is the best place to watch Muay Thai in Thailand?',
-      a: 'Bangkok is the ultimate destination for watching Muay Thai, home to the legendary Rajadamnern Stadium (since 1945) with 10,000+ reviews. Phuket\'s Patong Boxing Stadium is a close second with 2,000+ reviews and a vibrant atmosphere.'
+      q: 'Where is the best diving in Thailand?',
+      a: 'Phuket is the top destination for scuba diving, with access to the Similan Islands, Racha Islands, and Phi Phi. The Similan Islands are considered some of the best dive sites in the world, with visibility up to 30+ meters and diverse marine life including manta rays and whale sharks.'
     },
     {
-      q: 'Can tourists train Muay Thai in Thailand?',
-      a: 'Absolutely! All major cities offer beginner-friendly training sessions at professional gyms. Sessions typically cost EUR13-48 per class, last 1-2 hours, and all equipment is provided. No experience needed.'
+      q: 'Where is the best snorkeling in Thailand?',
+      a: 'Krabi offers some of the most accessible and affordable snorkeling in Thailand. The 4 Islands, 7 Islands, and Hong Islands tours provide crystal-clear waters and vibrant coral reefs. Phuket also has excellent snorkeling at the Similan Islands and Phi Phi.'
     },
     {
-      q: 'How much do Muay Thai fight tickets cost?',
-      a: 'Fight tickets range from EUR16 in Chiang Mai to EUR56+ for VIP seats in Phuket. Bangkok\'s Rajadamnern Stadium offers tickets from EUR27. Ringside and VIP upgrades provide the best experience.'
+      q: 'How much does diving cost in Thailand?',
+      a: 'Snorkeling day trips start from as low as $22 in Krabi. Scuba diving experiences range from $47 for a shore dive to $173 for a premium 3-dive trip. PADI certification courses cost $450-600 for 3-day programs.'
     },
     {
-      q: 'What is the difference between watching and training?',
-      a: 'Watching means attending a live Muay Thai fight night with professional bouts — perfect for spectators. Training means you participate in a hands-on session at a gym, learning techniques from coaches. Some combo packages offer both.'
+      q: 'When is the best time for diving in Thailand?',
+      a: 'The best diving season on the Andaman coast (Phuket, Krabi) is November to April. The Similan Islands are only open November-May. During this period, seas are calm and visibility reaches 20-30+ meters. Avoid June-October when monsoon brings rough seas.'
     }
   ];
 
@@ -120,15 +120,15 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
 
       <div className="bg-gray-50 min-h-screen">
         {/* Hero */}
-        <section className="bg-gray-900 text-white">
+        <section className="bg-blue-900 text-white">
           <div className="container-custom py-12">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center mt-6">
               <h1 className="text-4xl lg:text-5xl font-bold mb-4">
-                Best Muay Thai in Thailand
+                Best Diving & Snorkeling in Thailand
               </h1>
-              <p className="text-xl max-w-3xl mx-auto text-gray-300">
-                From Bangkok&apos;s legendary Rajadamnern Stadium to Phuket&apos;s world-class training camps — compare fights, training, and combo experiences across Thailand&apos;s top destinations.
+              <p className="text-xl max-w-3xl mx-auto text-blue-100">
+                From Phuket&apos;s world-class dive sites at the Similan Islands to Krabi&apos;s stunning island-hopping snorkeling tours — find your perfect underwater adventure.
               </p>
             </div>
           </div>
@@ -139,13 +139,13 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
             {/* Quick Comparison Table */}
             <div className="bg-white rounded-lg shadow-lg overflow-hidden mb-12">
               <h2 className="text-2xl font-bold text-gray-900 p-6 pb-0">
-                City Comparison at a Glance
+                Destination Comparison at a Glance
               </h2>
               <div className="overflow-x-auto">
                 <table className="w-full text-left">
                   <thead className="bg-gray-50">
                     <tr>
-                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">City</th>
+                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">Destination</th>
                       <th className="px-6 py-4 text-sm font-semibold text-gray-600">Activities</th>
                       <th className="px-6 py-4 text-sm font-semibold text-gray-600">Price Range</th>
                       <th className="px-6 py-4 text-sm font-semibold text-gray-600">Best For</th>
@@ -156,7 +156,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                     {cities.map((city) => (
                       <tr key={city.slug} className="hover:bg-gray-50">
                         <td className="px-6 py-4">
-                          <Link href={`/city/${city.slug}/muay-thai/`} className="font-semibold text-red-600 hover:underline">
+                          <Link href={`/city/${city.slug}/diving-snorkeling/`} className="font-semibold text-blue-700 hover:underline">
                             {city.name.en}
                           </Link>
                         </td>
@@ -167,8 +167,8 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                         <td className="px-6 py-4 text-gray-600 text-sm">{city.highlight.en.split('.')[0]}</td>
                         <td className="px-6 py-4">
                           <Link
-                            href={`/city/${city.slug}/muay-thai/`}
-                            className="text-sm font-semibold text-red-500 hover:text-red-600"
+                            href={`/city/${city.slug}/diving-snorkeling/`}
+                            className="text-sm font-semibold text-blue-600 hover:text-blue-700"
                           >
                             View all &rarr;
                           </Link>
@@ -184,12 +184,12 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
             {cities.map((city, index) => (
               <div key={city.slug} className="bg-white rounded-lg shadow-lg p-8 mb-8">
                 <div className="flex items-center gap-3 mb-4">
-                  <span className="text-lg font-bold text-white bg-red-600 w-8 h-8 rounded-full flex items-center justify-center">
+                  <span className="text-lg font-bold text-white bg-blue-600 w-8 h-8 rounded-full flex items-center justify-center">
                     {index + 1}
                   </span>
                   <h2 className="text-2xl font-bold text-gray-900">
-                    <Link href={`/city/${city.slug}/muay-thai/`} className="hover:text-red-600">
-                      Muay Thai in {city.name.en}
+                    <Link href={`/city/${city.slug}/diving-snorkeling/`} className="hover:text-blue-700">
+                      Diving & Snorkeling in {city.name.en}
                     </Link>
                   </h2>
                 </div>
@@ -214,38 +214,38 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                 {/* Top 3 activities for this city */}
                 <div className="space-y-3 mb-6">
                   {topActivities
-                    .filter(tc => tc.citySlug === city.slug)
+                    .filter(ta => ta.citySlug === city.slug)
                     .slice(0, 3)
-                    .map((tc, i) => (
-                      <div key={tc.cls.slug} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                    .map((ta, i) => (
+                      <div key={ta.activity.slug} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
                         <div className="flex items-center gap-3">
                           <span className="text-sm font-bold text-gray-400">#{i + 1}</span>
                           <div>
                             <div className="font-medium text-gray-900 text-sm flex items-center gap-2">
-                              {tc.cls.name}
-                              <TypeBadge type={tc.cls.type} />
+                              {ta.activity.name}
+                              <TypeBadge type={ta.activity.type} />
                             </div>
                             <div className="flex items-center gap-2 text-xs text-gray-600">
-                              {tc.cls.rating > 0 && (
+                              {ta.activity.rating > 0 && (
                                 <>
-                                  <StarRating rating={tc.cls.rating} />
-                                  <span>{tc.cls.rating}</span>
-                                  {tc.cls.reviews > 0 && <span>({tc.cls.reviews.toLocaleString()})</span>}
+                                  <StarRating rating={ta.activity.rating} />
+                                  <span>{ta.activity.rating}</span>
+                                  {ta.activity.reviews > 0 && <span>({ta.activity.reviews.toLocaleString()})</span>}
                                 </>
                               )}
                             </div>
                           </div>
                         </div>
                         <div className="text-right">
-                          <div className="font-bold text-gray-900">{formatPrice(tc.cls.priceFrom, loc)}</div>
+                          <div className="font-bold text-gray-900">{formatPrice(ta.activity.priceFrom, loc)}</div>
                         </div>
                       </div>
                     ))}
                 </div>
 
                 <Link
-                  href={`/city/${city.slug}/muay-thai/`}
-                  className="inline-flex items-center text-red-500 font-semibold hover:text-red-600"
+                  href={`/city/${city.slug}/diving-snorkeling/`}
+                  className="inline-flex items-center text-blue-600 font-semibold hover:text-blue-700"
                 >
                   See all {city.classCount} activities in {city.name.en} &rarr;
                 </Link>
@@ -253,26 +253,16 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
             ))}
 
             {/* CTA */}
-            <div className="bg-gradient-to-r from-red-600 to-gray-900 rounded-lg p-8 mb-12 text-center text-white">
-              <h2 className="text-3xl font-bold mb-4">Ready to Experience Muay Thai?</h2>
+            <div className="bg-gradient-to-r from-blue-600 to-blue-900 rounded-lg p-8 mb-12 text-center text-white">
+              <h2 className="text-3xl font-bold mb-4">Ready to Explore Thailand&apos;s Underwater World?</h2>
               <p className="text-lg mb-6 opacity-90">
-                Browse Muay Thai fights, training sessions, and combo packages across Thailand.
+                Browse diving and snorkeling experiences across Thailand on these trusted booking platforms.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <a
-                  href={GYG_AFFILIATE}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-white text-red-600 font-semibold rounded-lg hover:bg-gray-100 transition-colors"
-                >
+                <a href={GYG_AFFILIATE} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-3 bg-white text-blue-700 font-semibold rounded-lg hover:bg-gray-100 transition-colors">
                   Browse on GetYourGuide
                 </a>
-                <a
-                  href={KLOOK_AFFILIATE}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-lg hover:bg-white/30 transition-colors border border-white/40"
-                >
+                <a href={KLOOK_AFFILIATE} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-lg hover:bg-white/30 transition-colors border border-white/40">
                   Browse on Klook
                 </a>
               </div>
@@ -283,9 +273,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
 
             {/* FAQ */}
             <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">
-                Frequently Asked Questions
-              </h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-6">Frequently Asked Questions</h2>
               <div className="space-y-6">
                 {faqItems.map((item, i) => (
                   <div key={i}>
@@ -303,19 +291,19 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-  const index = getMuayThaiIndex();
+  const index = getDivingSnorkelingIndex();
   if (!index) return { notFound: true };
 
-  const topActivities: { cityName: string; citySlug: string; cls: MuayThaiActivity }[] = [];
+  const topActivities: { cityName: string; citySlug: string; activity: Activity }[] = [];
 
   index.cities.forEach((city: CityEntry) => {
-    const data = getMuayThaiByCity(city.slug) as CityClasses | null;
+    const data = getDivingSnorkelingByCity(city.slug) as CityData | null;
     if (data) {
-      data.classes.slice(0, 3).forEach((cls: MuayThaiActivity) => {
+      data.classes.slice(0, 3).forEach((activity: Activity) => {
         topActivities.push({
           cityName: city.name.en,
           citySlug: city.slug,
-          cls
+          activity
         });
       });
     }

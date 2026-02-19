@@ -1,0 +1,26 @@
+{
+  "cities": [
+    {
+      "slug": "phuket",
+      "name": { "en": "Phuket", "nl": "Phuket" },
+      "classCount": 10,
+      "priceRange": { "from": 43, "to": 160, "currency": "EUR" },
+      "topRating": 5.0,
+      "highlight": {
+        "en": "Thailand's top scuba diving hub with access to Racha Islands, Similan Islands, and Phi Phi. From beginner discover dives to 3-day PADI certification, Phuket offers world-class underwater experiences year-round.",
+        "nl": "Thailand's top duikbestemming met toegang tot de Racha-eilanden, Similan-eilanden en Phi Phi. Van beginners-duiken tot 3-daagse PADI-certificering, Phuket biedt wereldklasse onderwaterervaringen het hele jaar door."
+      }
+    },
+    {
+      "slug": "krabi",
+      "name": { "en": "Krabi", "nl": "Krabi" },
+      "classCount": 10,
+      "priceRange": { "from": 20, "to": 100, "currency": "EUR" },
+      "topRating": 4.9,
+      "highlight": {
+        "en": "Krabi is a paradise for snorkeling and island hopping. Explore the stunning 4 Islands, 7 Islands, Hong Islands, and Phi Phi by longtail boat or speedboat with crystal-clear waters and vibrant marine life.",
+        "nl": "Krabi is een paradijs voor snorkelen en eilandhoppen. Verken de prachtige 4 Eilanden, 7 Eilanden, Hong Eilanden en Phi Phi per longtailboot of speedboot met kristalhelder water en levendig zeeleven."
+      }
+    }
+  ]
+}

@@ -1,7 +1,9 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import { getElephantSanctuariesByCity, getAllElephantSanctuaryCities } from '../../../lib/elephant-sanctuaries';
+import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 
@@ -65,6 +67,8 @@ function StarRating({ rating }: { rating: number }) {
 }
 
 export default function ElephantSanctuariesPage({ city, sanctuaryData }: Props) {
+  const { locale } = useRouter();
+  const loc = locale || 'en';
   if (!city || !sanctuaryData) return <div>Not found</div>;
 
   const breadcrumbs = [
@@ -73,12 +77,12 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData }: Props) 
   ];
 
   const title = `Best Elephant Sanctuaries in ${city.name.en} (2025) - Ethical Experiences`;
-  const description = `Discover the ${sanctuaryData.classes.length} best elephant sanctuaries in ${city.name.en}. Compare ethical elephant experiences from ${sanctuaryData.classes[0]?.currency || 'EUR'}${sanctuaryData.classes[0]?.priceFrom || ''}, read reviews, and book your unforgettable elephant encounter.`;
+  const description = `Discover the ${sanctuaryData.classes.length} best elephant sanctuaries in ${city.name.en}. Compare ethical elephant experiences from ${formatPrice(sanctuaryData.classes[0]?.priceFrom || 0, loc)}, read reviews, and book your unforgettable elephant encounter.`;
 
   const faqItems = [
     {
       q: `How much does an elephant sanctuary visit in ${city.name.en} cost?`,
-      a: `Elephant sanctuary experiences in ${city.name.en} range from ${sanctuaryData.classes[0]?.currency || 'EUR'}${Math.min(...sanctuaryData.classes.map(c => c.priceFrom))} to ${sanctuaryData.classes[0]?.currency || 'EUR'}${Math.max(...sanctuaryData.classes.map(c => c.priceFrom))} per person, depending on the program duration and inclusions like meals and hotel transfers.`
+      a: `Elephant sanctuary experiences in ${city.name.en} range from ${formatPrice(Math.min(...sanctuaryData.classes.map(c => c.priceFrom)), loc)} to ${formatPrice(Math.max(...sanctuaryData.classes.map(c => c.priceFrom)), loc)} per person, depending on the program duration and inclusions like meals and hotel transfers.`
     },
     {
       q: `Are elephant sanctuaries in ${city.name.en} ethical?`,
@@ -142,7 +146,7 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData }: Props) 
               </div>
               <div className="bg-white rounded-lg p-4 text-center shadow-sm">
                 <div className="text-3xl font-bold text-green-700">
-                  {sanctuaryData.classes[0]?.currency}{Math.min(...sanctuaryData.classes.map(c => c.priceFrom))}
+                  {formatPrice(Math.min(...sanctuaryData.classes.map(c => c.priceFrom)), loc)}
                 </div>
                 <div className="text-sm text-gray-600">Starting From</div>
               </div>
@@ -214,7 +218,7 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData }: Props) 
                       <div className="flex flex-col items-end gap-2">
                         <div className="text-right">
                           <div className="text-sm text-gray-500">From</div>
-                          <div className="text-2xl font-bold text-gray-900">{sanctuary.currency}{sanctuary.priceFrom}</div>
+                          <div className="text-2xl font-bold text-gray-900">{formatPrice(sanctuary.priceFrom, loc)}</div>
                           <div className="text-xs text-gray-500">per person</div>
                         </div>
                         <a

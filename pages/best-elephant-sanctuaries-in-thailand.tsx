@@ -1,6 +1,8 @@
 import { GetStaticProps } from 'next';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { getElephantSanctuariesIndex, getElephantSanctuariesByCity } from '../lib/elephant-sanctuaries';
+import { formatPrice } from '../lib/price';
 import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
 
@@ -54,6 +56,8 @@ function StarRating({ rating }: { rating: number }) {
 }
 
 export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: Props) {
+  const { locale } = useRouter();
+  const loc = locale || 'en';
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: 'Best Elephant Sanctuaries in Thailand', href: '/best-elephant-sanctuaries-in-thailand/' }
@@ -147,7 +151,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                         </td>
                         <td className="px-6 py-4 text-gray-700">{city.classCount}+</td>
                         <td className="px-6 py-4 text-gray-700">
-                          {city.priceRange.currency}{city.priceRange.from} - {city.priceRange.currency}{city.priceRange.to}
+                          {formatPrice(city.priceRange.from, loc)} - {formatPrice(city.priceRange.to, loc)}
                         </td>
                         <td className="px-6 py-4 text-gray-600 text-sm">{city.highlight.en.split('.')[0]}</td>
                         <td className="px-6 py-4">
@@ -186,7 +190,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                   </div>
                   <div className="bg-gray-50 rounded-lg p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">
-                      EUR{city.priceRange.from}+
+                      {formatPrice(city.priceRange.from, loc)}+
                     </div>
                     <div className="text-xs text-gray-600">Starting Price</div>
                   </div>
@@ -219,7 +223,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                           </div>
                         </div>
                         <div className="text-right">
-                          <div className="font-bold text-gray-900">{ts.sanctuary.currency}{ts.sanctuary.priceFrom}</div>
+                          <div className="font-bold text-gray-900">{formatPrice(ts.sanctuary.priceFrom, loc)}</div>
                         </div>
                       </div>
                     ))}

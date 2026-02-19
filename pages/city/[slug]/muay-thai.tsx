@@ -1,7 +1,9 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import { getMuayThaiByCity, getAllMuayThaiCities } from '../../../lib/muay-thai';
+import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 
@@ -76,6 +78,8 @@ function TypeBadge({ type }: { type: string }) {
 }
 
 export default function MuayThaiPage({ city, muayThaiData }: Props) {
+  const { locale } = useRouter();
+  const loc = locale || 'en';
   if (!city || !muayThaiData) return <div>Not found</div>;
 
   const breadcrumbs = [
@@ -88,12 +92,12 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
   const comboActivities = muayThaiData.classes.filter(c => c.type === 'combo');
 
   const title = `Muay Thai in ${city.name.en} (2025) - Fights, Training & Camps`;
-  const description = `Experience Muay Thai in ${city.name.en}: watch live fights from ${muayThaiData.classes[0]?.currency || 'EUR'}${Math.min(...muayThaiData.classes.map(c => c.priceFrom))}, train at professional gyms, or combine both. ${muayThaiData.classes.length} activities compared with prices & reviews.`;
+  const description = `Experience Muay Thai in ${city.name.en}: watch live fights from ${formatPrice(Math.min(...muayThaiData.classes.map(c => c.priceFrom)), loc)}, train at professional gyms, or combine both. ${muayThaiData.classes.length} activities compared with prices & reviews.`;
 
   const faqItems = [
     {
       q: `Where can I watch Muay Thai fights in ${city.name.en}?`,
-      a: `${city.name.en} has ${watchActivities.length} venues for watching live Muay Thai fights. Tickets start from ${muayThaiData.classes[0]?.currency || 'EUR'}${Math.min(...watchActivities.map(c => c.priceFrom))} for standard seats, with VIP and ringside options available.`
+      a: `${city.name.en} has ${watchActivities.length} venues for watching live Muay Thai fights. Tickets start from ${formatPrice(Math.min(...watchActivities.map(c => c.priceFrom)), loc)} for standard seats, with VIP and ringside options available.`
     },
     {
       q: `Can beginners try Muay Thai training in ${city.name.en}?`,
@@ -101,7 +105,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
     },
     {
       q: `How much does a Muay Thai experience cost in ${city.name.en}?`,
-      a: `Prices range from ${muayThaiData.classes[0]?.currency || 'EUR'}${Math.min(...muayThaiData.classes.map(c => c.priceFrom))} to ${muayThaiData.classes[0]?.currency || 'EUR'}${Math.max(...muayThaiData.classes.map(c => c.priceFrom))}. Fight tickets are the most affordable option, while private training sessions and combo packages cost more.`
+      a: `Prices range from ${formatPrice(Math.min(...muayThaiData.classes.map(c => c.priceFrom)), loc)} to ${formatPrice(Math.max(...muayThaiData.classes.map(c => c.priceFrom)), loc)}. Fight tickets are the most affordable option, while private training sessions and combo packages cost more.`
     },
     {
       q: `What should I wear to a Muay Thai fight or training session?`,
@@ -157,7 +161,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
               </div>
               <div className="bg-white rounded-lg p-4 text-center shadow-sm">
                 <div className="text-3xl font-bold text-red-600">
-                  {muayThaiData.classes[0]?.currency}{Math.min(...muayThaiData.classes.map(c => c.priceFrom))}
+                  {formatPrice(Math.min(...muayThaiData.classes.map(c => c.priceFrom)), loc)}
                 </div>
                 <div className="text-sm text-gray-600">Starting From</div>
               </div>
@@ -226,7 +230,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                           <div className="flex flex-col items-end gap-2">
                             <div className="text-right">
                               <div className="text-sm text-gray-500">From</div>
-                              <div className="text-2xl font-bold text-gray-900">{cls.currency}{cls.priceFrom}</div>
+                              <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
                               <div className="text-xs text-gray-500">per person</div>
                             </div>
                             <a
@@ -294,7 +298,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                           <div className="flex flex-col items-end gap-2">
                             <div className="text-right">
                               <div className="text-sm text-gray-500">From</div>
-                              <div className="text-2xl font-bold text-gray-900">{cls.currency}{cls.priceFrom}</div>
+                              <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
                               <div className="text-xs text-gray-500">per person</div>
                             </div>
                             <a
@@ -359,7 +363,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                           <div className="flex flex-col items-end gap-2">
                             <div className="text-right">
                               <div className="text-sm text-gray-500">From</div>
-                              <div className="text-2xl font-bold text-gray-900">{cls.currency}{cls.priceFrom}</div>
+                              <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
                               <div className="text-xs text-gray-500">per person</div>
                             </div>
                             <a

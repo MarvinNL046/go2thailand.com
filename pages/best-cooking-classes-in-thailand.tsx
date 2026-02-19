@@ -1,6 +1,8 @@
 import { GetStaticProps } from 'next';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { getCookingClassesIndex, getCookingClassesByCity } from '../lib/cooking-classes';
+import { formatPrice } from '../lib/price';
 import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
 
@@ -54,6 +56,8 @@ function StarRating({ rating }: { rating: number }) {
 }
 
 export default function BestCookingClassesPage({ cities, topClasses }: Props) {
+  const { locale } = useRouter();
+  const loc = locale || 'en';
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: 'Best Cooking Classes in Thailand', href: '/best-cooking-classes-in-thailand/' }
@@ -147,7 +151,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                         </td>
                         <td className="px-6 py-4 text-gray-700">{city.classCount}+</td>
                         <td className="px-6 py-4 text-gray-700">
-                          {city.priceRange.currency}{city.priceRange.from} - {city.priceRange.currency}{city.priceRange.to}
+                          {formatPrice(city.priceRange.from, loc)} - {formatPrice(city.priceRange.to, loc)}
                         </td>
                         <td className="px-6 py-4 text-gray-600 text-sm">{city.highlight.en.split(' — ')[0]}</td>
                         <td className="px-6 py-4">
@@ -186,7 +190,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                   </div>
                   <div className="bg-gray-50 rounded-lg p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">
-                      EUR{city.priceRange.from}+
+                      {formatPrice(city.priceRange.from, loc)}+
                     </div>
                     <div className="text-xs text-gray-600">Starting Price</div>
                   </div>
@@ -215,7 +219,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                           </div>
                         </div>
                         <div className="text-right">
-                          <div className="font-bold text-gray-900">{tc.cls.currency}{tc.cls.priceFrom}</div>
+                          <div className="font-bold text-gray-900">{formatPrice(tc.cls.priceFrom, loc)}</div>
                         </div>
                       </div>
                     ))}

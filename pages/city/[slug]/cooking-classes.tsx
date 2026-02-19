@@ -1,7 +1,9 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import { getCookingClassesByCity, getAllCookingClassCities } from '../../../lib/cooking-classes';
+import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 
@@ -65,6 +67,8 @@ function StarRating({ rating }: { rating: number }) {
 }
 
 export default function CookingClassesPage({ city, cookingData }: Props) {
+  const { locale } = useRouter();
+  const loc = locale || 'en';
   if (!city || !cookingData) return <div>Not found</div>;
 
   const breadcrumbs = [
@@ -73,12 +77,12 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
   ];
 
   const title = `Best Cooking Classes in ${city.name.en} (2025) - Prices & Reviews`;
-  const description = `Discover the ${cookingData.classes.length} best Thai cooking classes in ${city.name.en}. Compare prices from ${cookingData.classes[0]?.currency || 'EUR'}${cookingData.classes[0]?.priceFrom || ''}, read reviews, and book your hands-on Thai cooking experience.`;
+  const description = `Discover the ${cookingData.classes.length} best Thai cooking classes in ${city.name.en}. Compare prices from ${formatPrice(cookingData.classes[0]?.priceFrom || 0, loc)}, read reviews, and book your hands-on Thai cooking experience.`;
 
   const faqItems = [
     {
       q: `How much does a cooking class in ${city.name.en} cost?`,
-      a: `Cooking classes in ${city.name.en} typically cost between ${cookingData.classes[0]?.currency || 'EUR'}${Math.min(...cookingData.classes.map(c => c.priceFrom))} and ${cookingData.classes[0]?.currency || 'EUR'}${Math.max(...cookingData.classes.map(c => c.priceFrom))} per person, depending on the class duration and inclusions.`
+      a: `Cooking classes in ${city.name.en} typically cost between ${formatPrice(Math.min(...cookingData.classes.map(c => c.priceFrom)), loc)} and ${formatPrice(Math.max(...cookingData.classes.map(c => c.priceFrom)), loc)} per person, depending on the class duration and inclusions.`
     },
     {
       q: `How long is a typical cooking class in ${city.name.en}?`,
@@ -142,7 +146,7 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
               </div>
               <div className="bg-white rounded-lg p-4 text-center shadow-sm">
                 <div className="text-3xl font-bold text-thailand-blue">
-                  {cookingData.classes[0]?.currency}{Math.min(...cookingData.classes.map(c => c.priceFrom))}
+                  {formatPrice(Math.min(...cookingData.classes.map(c => c.priceFrom)), loc)}
                 </div>
                 <div className="text-sm text-gray-600">Starting From</div>
               </div>
@@ -212,7 +216,7 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
                       <div className="flex flex-col items-end gap-2">
                         <div className="text-right">
                           <div className="text-sm text-gray-500">From</div>
-                          <div className="text-2xl font-bold text-gray-900">{cls.currency}{cls.priceFrom}</div>
+                          <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
                           <div className="text-xs text-gray-500">per person</div>
                         </div>
                         <a
