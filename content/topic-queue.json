@@ -1,35 +1,59 @@
 {
   "topics": [
     {
-      "topic": "Best Beaches in Thailand: 15 Stunning Shores for Every Traveler",
-      "category": "islands",
-      "targetKeyword": "best beaches in thailand",
-      "searchVolume": 393000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Destinations/Provinces/Phuket/350",
-        "https://www.tourismthailand.org/Destinations/Provinces/Krabi/344",
-        "https://www.tourismthailand.org/Destinations/Provinces/Ko-Phi-Phi/359"
-      ],
-      "priority": 1
+      "topic": "Thailand Itinerary 2 Weeks: The Perfect 14-Day Route for 2026",
+      "category": "practical",
+      "targetKeyword": "thailand itinerary 2 weeks",
+      "searchVolume": 10000,
+      "priority": 1,
+      "outline": "Why 2 weeks is ideal. Week 1: Bangkok (3d) + Chiang Mai (3d) + Chiang Rai (1d). Week 2: Krabi (2d) + Koh Phi Phi (2d) + Phuket (3d). Alternative routes. Day-by-day budget. Transport links."
     },
     {
-      "topic": "Chatuchak Market Bangkok: Complete Shopping and Food Guide 2026",
+      "topic": "Is Thailand Safe? Honest Safety Guide for Tourists (2026)",
+      "category": "practical",
+      "targetKeyword": "is thailand safe",
+      "searchVolume": 20000,
+      "priority": 1,
+      "outline": "Overall safety assessment. Common scams. Safety by destination. Solo female travel. Health hazards. Emergency contacts and travel insurance."
+    },
+    {
+      "topic": "Thailand Budget 2026: Real Daily Costs for Every Travel Style",
+      "category": "budget",
+      "targetKeyword": "thailand budget per day",
+      "searchVolume": 10000,
+      "priority": 1,
+      "outline": "Budget breakdown: backpacker ($30-40/day), mid-range ($60-100/day), luxury ($200+/day). Costs by city. Food, transport, activities. Hidden costs. Sample 2-week budgets."
+    },
+    {
+      "topic": "Thailand for First-Time Visitors: 15 Essential Things to Know (2026)",
+      "category": "practical",
+      "targetKeyword": "thailand first time",
+      "searchVolume": 10000,
+      "priority": 1,
+      "outline": "Visa basics. Best time to visit. Where to go first. Money and ATM tips. Transport. Cultural dos and donts. Food ordering tips. Safety. Packing. SIM card."
+    },
+    {
+      "topic": "Where to Stay in Bangkok: Neighborhood Guide for Every Budget (2026)",
       "category": "city-guide",
-      "targetKeyword": "chatuchak market",
-      "searchVolume": 26000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Shop/chatuchak-market"
-      ],
-      "priority": 1
+      "targetKeyword": "where to stay in bangkok",
+      "searchVolume": 10000,
+      "priority": 1,
+      "outline": "Comparison table. Sukhumvit: nightlife. Silom/Sathorn: business. Khao San Road: backpackers. Riverside: luxury. Chinatown: food. Siam: shopping. Budget recs per area."
+    },
+    {
+      "topic": "Full Moon Party Koh Phangan: Complete Guide with 2026 Dates",
+      "category": "activities",
+      "targetKeyword": "full moon party koh phangan",
+      "searchVolume": 10000,
+      "priority": 1,
+      "outline": "What to expect. 2026 dates calendar. How to get there. Where to stay. Survival tips. Half Moon and Black Moon alternatives."
     },
     {
       "topic": "Jodd Fairs Bangkok: The Hottest Night Market Guide 2026",
       "category": "food",
       "targetKeyword": "jodd fairs",
       "searchVolume": 15000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Attraction/jodd-fairs"
-      ],
+      "scrapeUrls": ["https://www.tourismthailand.org/Attraction/jodd-fairs"],
       "priority": 1
     },
     {
@@ -37,29 +61,96 @@
       "category": "practical",
       "targetKeyword": "thailand digital arrival card",
       "searchVolume": 18000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Articles/tdac"
-      ],
+      "scrapeUrls": ["https://www.tourismthailand.org/Articles/tdac"],
       "priority": 1
     },
     {
-      "topic": "Loi Krathong Festival 2026: Where to See Thailand's Lantern Festival",
+      "topic": "Thailand Honeymoon Guide: 12 Most Romantic Destinations & Itineraries",
+      "category": "activities",
+      "targetKeyword": "thailand honeymoon",
+      "searchVolume": 5000,
+      "priority": 2,
+      "outline": "Why Thailand for honeymoon. Best romantic islands (Koh Lipe, Koh Yao Noi, Koh Samui). Best cities (Chiang Mai, Krabi). Luxury resorts. 7-day and 14-day itineraries. Budget honeymoon options."
+    },
+    {
+      "topic": "Digital Nomad Thailand 2026: DTV Visa, Costs & Best Cities to Work From",
+      "category": "practical",
+      "targetKeyword": "digital nomad thailand",
+      "searchVolume": 5000,
+      "priority": 2,
+      "outline": "DTV Visa explained. Best cities: Chiang Mai, Bangkok, Koh Phangan, Koh Lanta. Monthly costs by city. Coworking spaces. Tax and banking. Community."
+    },
+    {
+      "topic": "Thailand with Kids: The Complete Family Travel Guide (2026)",
+      "category": "practical",
+      "targetKeyword": "thailand with kids",
+      "searchVolume": 2000,
+      "priority": 2,
+      "outline": "Why Thailand for families. Best family destinations. Kid-friendly activities. Health and safety for children. Family accommodation. Sample 10-day itinerary."
+    },
+    {
+      "topic": "Songkran Festival 2026: Where to Celebrate Thailand's Water Festival",
+      "category": "seasonal",
+      "targetKeyword": "songkran festival",
+      "searchVolume": 10000,
+      "priority": 2,
+      "outline": "What is Songkran. 2026 dates (April 13-15). Best cities: Bangkok, Chiang Mai, Phuket, Pattaya. What to expect and wear. Dos and donts. Accommodation tips."
+    },
+    {
+      "topic": "15 Best Day Trips from Bangkok: Temples, Markets & Hidden Gems (2026)",
+      "category": "city-guide",
+      "targetKeyword": "day trips from bangkok",
+      "searchVolume": 5000,
+      "priority": 2,
+      "outline": "Ayutthaya. Floating markets. Kanchanaburi. Khao Yai. Pattaya. Erawan Falls. Muang Boran. Nakhon Pathom. Transport and booking tips."
+    },
+    {
+      "topic": "Thailand vs Vietnam: Which Country Should You Visit in 2026?",
+      "category": "practical",
+      "targetKeyword": "thailand vs vietnam",
+      "searchVolume": 5000,
+      "priority": 2,
+      "outline": "Comparison table. Budget. Beaches. Culture and temples. Food scene. Ease of travel. Nightlife. Verdict."
+    },
+    {
+      "topic": "Solo Female Travel in Thailand: Safety Tips & Best Destinations (2026)",
+      "category": "practical",
+      "targetKeyword": "solo female travel thailand",
+      "searchVolume": 2000,
+      "priority": 2,
+      "outline": "Is Thailand safe for solo women? Best destinations. Accommodation safety. Transport tips. Cultural awareness. Making friends. Emergency resources."
+    },
+    {
+      "topic": "Thailand in 7 Days: 3 Perfect One-Week Itineraries (2026)",
+      "category": "practical",
+      "targetKeyword": "thailand itinerary 7 days",
+      "searchVolume": 5000,
+      "priority": 2,
+      "outline": "Itinerary A: Bangkok + Beach. Itinerary B: Culture Route. Itinerary C: Island Hopper. Budget breakdowns. Transport logistics."
+    },
+    {
+      "topic": "Thai Massage Guide: Types, Prices & What to Expect (2026)",
+      "category": "activities",
+      "targetKeyword": "thai massage guide",
+      "searchVolume": 2000,
+      "priority": 2,
+      "outline": "History. Types of massage. Prices by city. Etiquette and tips. Best areas for massage. Red flags."
+    },
+    {
+      "topic": "Loi Krathong & Yi Peng 2026: Thailand's Stunning Lantern Festival Guide",
       "category": "seasonal",
       "targetKeyword": "loi krathong",
       "searchVolume": 19000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Articles/loi-krathong-2025-all-area-en"
-      ],
-      "priority": 1
+      "scrapeUrls": ["https://www.tourismthailand.org/Articles/loi-krathong-2025-all-area-en"],
+      "priority": 2,
+      "outline": "What is Loi Krathong. Yi Peng lantern festival. 2026 dates. Best locations: Chiang Mai, Bangkok, Sukhothai. How to participate. Cultural significance."
     },
     {
       "topic": "Phuket Travel Guide 2026: Beaches, Temples and Hidden Gems",
       "category": "city-guide",
       "targetKeyword": "phuket",
       "searchVolume": 89000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Destinations/Provinces/Phuket/350"
-      ],
+      "scrapeUrls": ["https://www.tourismthailand.org/Destinations/Provinces/Phuket/350"],
       "priority": 2
     },
     {
@@ -67,9 +158,7 @@
       "category": "city-guide",
       "targetKeyword": "bangkok",
       "searchVolume": 86000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Destinations/Provinces/Bangkok/219"
-      ],
+      "scrapeUrls": ["https://www.tourismthailand.org/Destinations/Provinces/Bangkok/219"],
       "priority": 2
     },
     {
@@ -77,9 +166,7 @@
       "category": "city-guide",
       "targetKeyword": "krabi",
       "searchVolume": 21000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Destinations/Provinces/Krabi/344"
-      ],
+      "scrapeUrls": ["https://www.tourismthailand.org/Destinations/Provinces/Krabi/344"],
       "priority": 2
     },
     {
@@ -87,9 +174,7 @@
       "category": "islands",
       "targetKeyword": "koh tao",
       "searchVolume": 18000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Destinations/Provinces/Ko-Tao/361"
-      ],
+      "scrapeUrls": ["https://www.tourismthailand.org/Destinations/Provinces/Ko-Tao/361"],
       "priority": 2
     },
     {
@@ -97,9 +182,7 @@
       "category": "city-guide",
       "targetKeyword": "wat arun",
       "searchVolume": 36000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Attraction/wat-arun-ratchawararam-ratchawaramahawihan"
-      ],
+      "scrapeUrls": ["https://www.tourismthailand.org/Attraction/wat-arun-ratchawararam-ratchawaramahawihan"],
       "priority": 2
     },
     {
@@ -107,19 +190,103 @@
       "category": "islands",
       "targetKeyword": "phi phi island",
       "searchVolume": 21000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Destinations/Provinces/Ko-Phi-Phi/359"
-      ],
+      "scrapeUrls": ["https://www.tourismthailand.org/Destinations/Provinces/Ko-Phi-Phi/359"],
       "priority": 2
+    },
+    {
+      "topic": "Where to Stay in Chiang Mai: Best Areas & Neighborhoods (2026)",
+      "category": "city-guide",
+      "targetKeyword": "where to stay in chiang mai",
+      "searchVolume": 5000,
+      "priority": 3,
+      "outline": "Old City. Nimmanhaemin. Riverside. Night Bazaar area. Santitham. Budget recs per area."
+    },
+    {
+      "topic": "Where to Stay in Phuket: Best Beaches & Areas for Every Budget (2026)",
+      "category": "city-guide",
+      "targetKeyword": "where to stay in phuket",
+      "searchVolume": 5000,
+      "priority": 3,
+      "outline": "Patong: nightlife. Kata: families. Karon: relaxation. Rawai: local vibes. Kamala: luxury. Bang Tao: resorts."
+    },
+    {
+      "topic": "Thailand Nightlife Guide: Best Bars, Clubs & Night Markets (2026)",
+      "category": "activities",
+      "targetKeyword": "thailand nightlife",
+      "searchVolume": 5000,
+      "priority": 3,
+      "outline": "Bangkok nightlife. Phuket nightlife. Pattaya nightlife. Chiang Mai nightlife. Night markets. Safety tips."
+    },
+    {
+      "topic": "12 Best Day Trips from Chiang Mai: Temples, Waterfalls & Mountains",
+      "category": "city-guide",
+      "targetKeyword": "day trips from chiang mai",
+      "searchVolume": 2000,
+      "priority": 3,
+      "outline": "Doi Inthanon. Doi Suthep. Elephant sanctuaries. White Temple day trip. Sticky Falls. Bua Tong. Mae Sa. Chiang Rai day trip."
+    },
+    {
+      "topic": "15 Best Day Trips from Phuket: Islands, Nature & Adventures",
+      "category": "city-guide",
+      "targetKeyword": "day trips from phuket",
+      "searchVolume": 2000,
+      "priority": 3,
+      "outline": "Phi Phi Islands. James Bond Island. Similan Islands. Koh Racha. Phang Nga Bay. Khao Sok. Krabi day trip."
+    },
+    {
+      "topic": "Thailand vs Bali: Honest Comparison for 2026 Travelers",
+      "category": "practical",
+      "targetKeyword": "thailand vs bali",
+      "searchVolume": 5000,
+      "priority": 3,
+      "outline": "Budget. Beaches. Culture. Food. Infrastructure. Nightlife. Activities. Visa. Verdict."
+    },
+    {
+      "topic": "Vegan & Vegetarian Food in Thailand: Complete Eating Guide (2026)",
+      "category": "food",
+      "targetKeyword": "vegan food thailand",
+      "searchVolume": 2000,
+      "priority": 3,
+      "outline": "Jay food culture. Best vegan dishes. How to order. Best cities for vegans. Restaurant recs. Cooking class options."
+    },
+    {
+      "topic": "Thailand in 10 Days: The Best 10-Day Itinerary for 2026",
+      "category": "practical",
+      "targetKeyword": "thailand itinerary 10 days",
+      "searchVolume": 5000,
+      "priority": 3,
+      "outline": "Route options. Bangkok (3d) + beach destination (4d) + culture stop (3d). Budget. Transport logistics."
+    },
+    {
+      "topic": "3 Weeks in Thailand: The Ultimate 21-Day Itinerary (2026)",
+      "category": "practical",
+      "targetKeyword": "thailand itinerary 3 weeks",
+      "searchVolume": 3000,
+      "priority": 3,
+      "outline": "Complete north-to-south route. Bangkok, Ayutthaya, Chiang Mai, Chiang Rai, Krabi, islands, Phuket. Day-by-day plan."
+    },
+    {
+      "topic": "Thailand Rainy Season: Should You Visit? Pros, Cons & Tips (2026)",
+      "category": "seasonal",
+      "targetKeyword": "thailand rainy season",
+      "searchVolume": 2000,
+      "priority": 3,
+      "outline": "When is rainy season. What to expect. Pros: fewer crowds, lower prices. Cons: some islands inaccessible. Best destinations in rainy season."
+    },
+    {
+      "topic": "25 Best Thai Dishes You Must Try: The Ultimate Food Ranking",
+      "category": "food",
+      "targetKeyword": "best thai food",
+      "searchVolume": 5000,
+      "priority": 3,
+      "outline": "Ranked list of 25 dishes with descriptions, spice level, where to find them. Links to individual food pages."
     },
     {
       "topic": "Doi Inthanon National Park: Thailand's Highest Peak Guide",
       "category": "activities",
       "targetKeyword": "doi inthanon",
       "searchVolume": 11000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Attraction/doi-inthanon-national-park"
-      ],
+      "scrapeUrls": ["https://www.tourismthailand.org/Attraction/doi-inthanon-national-park"],
       "priority": 3
     },
     {
@@ -127,9 +294,7 @@
       "category": "islands",
       "targetKeyword": "koh chang",
       "searchVolume": 13000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Destinations/Provinces/Ko-Chang/467"
-      ],
+      "scrapeUrls": ["https://www.tourismthailand.org/Destinations/Provinces/Ko-Chang/467"],
       "priority": 3
     },
     {
@@ -137,9 +302,7 @@
       "category": "activities",
       "targetKeyword": "sanctuary of truth",
       "searchVolume": 12000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Attraction/the-sanctuary-of-truth"
-      ],
+      "scrapeUrls": ["https://www.tourismthailand.org/Attraction/the-sanctuary-of-truth"],
       "priority": 3
     },
     {
@@ -147,19 +310,7 @@
       "category": "city-guide",
       "targetKeyword": "grand palace bangkok",
       "searchVolume": 11000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Attraction/the-grand-palace"
-      ],
-      "priority": 3
-    },
-    {
-      "topic": "Koh Samui vs Koh Phangan: Which Island Is Right for You?",
-      "category": "islands",
-      "targetKeyword": "koh samui",
-      "searchVolume": 63000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Destinations/Provinces/Phuket/350"
-      ],
+      "scrapeUrls": ["https://www.tourismthailand.org/Attraction/the-grand-palace"],
       "priority": 3
     },
     {
@@ -167,9 +318,7 @@
       "category": "city-guide",
       "targetKeyword": "wat pho",
       "searchVolume": 19000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Attraction/wat-phra-chetuphon-wimonmangkalaram-ratchaworamahawihan-or-wat-pho"
-      ],
+      "scrapeUrls": ["https://www.tourismthailand.org/Attraction/wat-phra-chetuphon-wimonmangkalaram-ratchaworamahawihan-or-wat-pho"],
       "priority": 3
     },
     {
@@ -177,10 +326,112 @@
       "category": "city-guide",
       "targetKeyword": "chiang mai",
       "searchVolume": 16000,
-      "scrapeUrls": [
-        "https://www.tourismthailand.org/Destinations/Provinces/Chiang-Mai/101"
-      ],
+      "scrapeUrls": ["https://www.tourismthailand.org/Destinations/Provinces/Chiang-Mai/101"],
       "priority": 3
+    },
+    {
+      "topic": "Bangkok to Chiang Mai: All Transport Options Compared (2026)",
+      "category": "practical",
+      "targetKeyword": "bangkok to chiang mai",
+      "searchVolume": 10000,
+      "priority": 4,
+      "outline": "Flight options and prices. Overnight train experience. Bus options. Comparison table. Personal recommendations."
+    },
+    {
+      "topic": "Bangkok to Phuket: Cheapest & Fastest Ways to Travel (2026)",
+      "category": "practical",
+      "targetKeyword": "bangkok to phuket",
+      "searchVolume": 10000,
+      "priority": 4,
+      "outline": "Flight options. Bus/van. Train + bus combo. Comparison table. Booking tips."
+    },
+    {
+      "topic": "Thailand SIM Card & eSIM Guide: Best Options for Tourists (2026)",
+      "category": "practical",
+      "targetKeyword": "thailand sim card",
+      "searchVolume": 2000,
+      "priority": 4,
+      "outline": "eSIM vs physical SIM. Provider comparison: AIS, DTAC, True. Airport SIM cards. Tourist packages. Setup guide."
+    },
+    {
+      "topic": "Thailand Visa Requirements 2026: Do You Need a Visa?",
+      "category": "practical",
+      "targetKeyword": "thailand visa requirements",
+      "searchVolume": 5000,
+      "priority": 4,
+      "outline": "Visa-free countries. Visa on arrival. Tourist visa. DTV visa. Extension options. Overstay penalties."
+    },
+    {
+      "topic": "Khao San Road Bangkok: Is It Still Worth Visiting? (2026 Guide)",
+      "category": "city-guide",
+      "targetKeyword": "khao san road bangkok",
+      "searchVolume": 2000,
+      "priority": 4,
+      "outline": "History. What to expect today. Best time to visit. Street food. Nearby temples. Accommodation. Honest verdict."
+    },
+    {
+      "topic": "20 Most Beautiful Temples in Thailand: A Photographer's Guide",
+      "category": "activities",
+      "targetKeyword": "thailand temples",
+      "searchVolume": 5000,
+      "priority": 4,
+      "outline": "Bangkok temples. Chiang Mai temples. Ayutthaya temples. Chiang Rai White Temple. Photography tips. Dress code. Opening hours."
+    },
+    {
+      "topic": "Halal Food in Thailand: Where to Find Muslim-Friendly Restaurants",
+      "category": "food",
+      "targetKeyword": "halal food thailand",
+      "searchVolume": 3000,
+      "priority": 4,
+      "outline": "Halal food scene overview. Best cities for halal. Bangkok halal areas. Southern Thailand. Muslim-friendly hotels. Apps and resources."
+    },
+    {
+      "topic": "Bangkok to Chiang Mai Night Train: Everything You Need to Know (2026)",
+      "category": "practical",
+      "targetKeyword": "night train bangkok chiang mai",
+      "searchVolume": 2000,
+      "priority": 4,
+      "outline": "The experience. Class options (1st, 2nd, 3rd). Prices. How to book. What to bring. Schedule. Tips."
+    },
+    {
+      "topic": "Best Thai Islands: Which One Is Right for You? (2026 Guide)",
+      "category": "islands",
+      "targetKeyword": "best thai islands",
+      "searchVolume": 5000,
+      "priority": 4,
+      "outline": "Island comparison table. Best for parties. Best for families. Best for diving. Best for budget. Best for luxury. How to choose."
+    },
+    {
+      "topic": "Thailand for Seniors & Retirees: Everything You Need to Know",
+      "category": "practical",
+      "targetKeyword": "thailand retirement",
+      "searchVolume": 1000,
+      "priority": 4,
+      "outline": "Retirement visa options. Cost of living. Healthcare. Best cities for retirees. Safety. Community. Banking."
+    },
+    {
+      "topic": "Bangkok Food Tour: 20 Must-Eat Dishes & Where to Find Them",
+      "category": "food",
+      "targetKeyword": "bangkok food tour",
+      "searchVolume": 2000,
+      "priority": 4,
+      "outline": "Self-guided food tour route. 20 must-eat dishes with locations. Chinatown food walk. Street food safety. Guided tour options."
+    },
+    {
+      "topic": "Thailand vs Philippines: Which Southeast Asian Paradise to Choose?",
+      "category": "practical",
+      "targetKeyword": "thailand vs philippines",
+      "searchVolume": 2000,
+      "priority": 4,
+      "outline": "Budget. Beaches. Diving. Food. Infrastructure. Visa. Safety. Nightlife. Verdict."
+    },
+    {
+      "topic": "Koh Samui vs Phuket: Which Thai Island Should You Choose?",
+      "category": "islands",
+      "targetKeyword": "koh samui vs phuket",
+      "searchVolume": 2000,
+      "priority": 4,
+      "outline": "Beaches. Activities. Nightlife. Accommodation. Food. Budget. Families vs couples. Access. Verdict."
     }
   ]
 }
