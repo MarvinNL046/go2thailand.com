@@ -1,0 +1,187 @@
+{
+  "runAt": "2026-02-19T19:09:02.031Z",
+  "sitemapPings": {
+    "google": {
+      "success": 0,
+      "failed": 9,
+      "total": 9
+    },
+    "bing": {
+      "success": 0,
+      "failed": 2,
+      "total": 2
+    }
+  },
+  "urlInspection": {
+    "total": 20,
+    "indexed": 0,
+    "notIndexed": 20,
+    "errors": 0,
+    "details": {
+      "indexed": [],
+      "notIndexed": [
+        {
+          "path": "/city/bangkok/",
+          "fullUrl": "https://go2-thailand.com/city/bangkok/",
+          "state": "URL is unknown to Google",
+          "lastCrawl": "",
+          "crawledAs": "",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/city/chiang-mai/",
+          "fullUrl": "https://go2-thailand.com/city/chiang-mai/",
+          "state": "Discovered - currently not indexed",
+          "lastCrawl": "",
+          "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/city/phuket/",
+          "fullUrl": "https://go2-thailand.com/city/phuket/",
+          "state": "Discovered - currently not indexed",
+          "lastCrawl": "",
+          "crawledAs": "MOBILE",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/food/",
+          "fullUrl": "https://go2-thailand.com/food/",
+          "state": "Crawled - currently not indexed",
+          "lastCrawl": "2025-12-05T13:28:02Z",
+          "crawledAs": "MOBILE",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/food/pad-thai/",
+          "fullUrl": "https://go2-thailand.com/food/pad-thai/",
+          "state": "URL is unknown to Google",
+          "lastCrawl": "",
+          "crawledAs": "",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/food/tom-yum-goong/",
+          "fullUrl": "https://go2-thailand.com/food/tom-yum-goong/",
+          "state": "Discovered - currently not indexed",
+          "lastCrawl": "",
+          "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/food/green-curry/",
+          "fullUrl": "https://go2-thailand.com/food/green-curry/",
+          "state": "URL is unknown to Google",
+          "lastCrawl": "",
+          "crawledAs": "",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/visa/",
+          "fullUrl": "https://go2-thailand.com/visa/",
+          "state": "Discovered - currently not indexed",
+          "lastCrawl": "",
+          "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/visa/digital-nomad-visa/",
+          "fullUrl": "https://go2-thailand.com/visa/digital-nomad-visa/",
+          "state": "URL is unknown to Google",
+          "lastCrawl": "",
+          "crawledAs": "",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/transport/",
+          "fullUrl": "https://go2-thailand.com/transport/",
+          "state": "Crawled - currently not indexed",
+          "lastCrawl": "2026-02-17T23:09:32Z",
+          "crawledAs": "MOBILE",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/islands/",
+          "fullUrl": "https://go2-thailand.com/islands/",
+          "state": "URL is unknown to Google",
+          "lastCrawl": "",
+          "crawledAs": "",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/blog/",
+          "fullUrl": "https://go2-thailand.com/blog/",
+          "state": "Discovered - currently not indexed",
+          "lastCrawl": "",
+          "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/city/pattaya/",
+          "fullUrl": "https://go2-thailand.com/city/pattaya/",
+          "state": "Discovered - currently not indexed",
+          "lastCrawl": "",
+          "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/city/krabi/",
+          "fullUrl": "https://go2-thailand.com/city/krabi/",
+          "state": "Crawled - currently not indexed",
+          "lastCrawl": "2026-02-18T06:40:50Z",
+          "crawledAs": "MOBILE",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/drinks/",
+          "fullUrl": "https://go2-thailand.com/drinks/",
+          "state": "Discovered - currently not indexed",
+          "lastCrawl": "",
+          "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/weather/",
+          "fullUrl": "https://go2-thailand.com/weather/",
+          "state": "URL is unknown to Google",
+          "lastCrawl": "",
+          "crawledAs": "",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/activities/",
+          "fullUrl": "https://go2-thailand.com/activities/",
+          "state": "URL is unknown to Google",
+          "lastCrawl": "",
+          "crawledAs": "",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/best-cooking-classes-in-thailand/",
+          "fullUrl": "https://go2-thailand.com/best-cooking-classes-in-thailand/",
+          "state": "URL is unknown to Google",
+          "lastCrawl": "",
+          "crawledAs": "",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/best-muay-thai-in-thailand/",
+          "fullUrl": "https://go2-thailand.com/best-muay-thai-in-thailand/",
+          "state": "URL is unknown to Google",
+          "lastCrawl": "",
+          "crawledAs": "",
+          "verdict": "NEUTRAL"
+        },
+        {
+          "path": "/best-elephant-sanctuaries-in-thailand/",
+          "fullUrl": "https://go2-thailand.com/best-elephant-sanctuaries-in-thailand/",
+          "state": "URL is unknown to Google",
+          "lastCrawl": "",
+          "crawledAs": "",
+          "verdict": "NEUTRAL"
+        }
+      ],
+      "errors": []
+    }
+  }
+}

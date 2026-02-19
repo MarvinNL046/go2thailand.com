@@ -1,0 +1,342 @@
+{
+  "fetchedAt": "2026-02-19T19:00:40.707Z",
+  "summary": {
+    "total": 56,
+    "indexed": 8,
+    "notIndexed": 48,
+    "errors": 0
+  },
+  "indexed": [
+    {
+      "path": "/",
+      "state": "Submitted and indexed",
+      "lastCrawl": "2026-02-19T05:21:01Z"
+    },
+    {
+      "path": "/city/ayutthaya/",
+      "state": "Submitted and indexed",
+      "lastCrawl": "2026-02-19T18:23:21Z"
+    },
+    {
+      "path": "/food/oh-aew/",
+      "state": "Submitted and indexed",
+      "lastCrawl": "2026-01-15T11:10:50Z"
+    },
+    {
+      "path": "/top-10/",
+      "state": "Submitted and indexed",
+      "lastCrawl": "2026-02-05T23:19:17Z"
+    },
+    {
+      "path": "/city/bangkok/top-10-restaurants/",
+      "state": "Submitted and indexed",
+      "lastCrawl": "2025-11-16T21:18:04Z"
+    },
+    {
+      "path": "/city/phuket/top-10-attractions/",
+      "state": "Submitted and indexed",
+      "lastCrawl": "2025-11-15T04:23:26Z"
+    },
+    {
+      "path": "/city/krabi/top-10-hotels/",
+      "state": "Submitted and indexed",
+      "lastCrawl": "2025-12-16T21:04:40Z"
+    },
+    {
+      "path": "/esim/",
+      "state": "Submitted and indexed",
+      "lastCrawl": "2025-11-28T12:49:43Z"
+    }
+  ],
+  "notIndexed": [
+    {
+      "path": "/city/",
+      "state": "Crawled - currently not indexed",
+      "lastCrawl": "2026-01-22T06:36:32Z",
+      "reason": "Crawled - currently not indexed"
+    },
+    {
+      "path": "/city/bangkok/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/city/chiang-mai/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/city/phuket/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/city/krabi/",
+      "state": "Crawled - currently not indexed",
+      "lastCrawl": "2026-02-18T06:40:50Z",
+      "reason": "Crawled - currently not indexed"
+    },
+    {
+      "path": "/city/pattaya/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/city/hat-yai/",
+      "state": "Crawled - currently not indexed",
+      "lastCrawl": "2025-09-11T23:27:28Z",
+      "reason": "Crawled - currently not indexed"
+    },
+    {
+      "path": "/city/chiang-rai/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/city/surat-thani/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/city/sukhothai/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/food/",
+      "state": "Crawled - currently not indexed",
+      "lastCrawl": "2025-12-05T13:28:02Z",
+      "reason": "Crawled - currently not indexed"
+    },
+    {
+      "path": "/food/pad-thai/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/food/tom-yum-goong/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/food/som-tam/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/food/green-curry/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/food/mango-sticky-rice/",
+      "state": "Crawled - currently not indexed",
+      "lastCrawl": "2025-08-25T00:37:08Z",
+      "reason": "Crawled - currently not indexed"
+    },
+    {
+      "path": "/drinks/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/drinks/thai-iced-tea/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/islands/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/islands/koh-samui/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/islands/koh-phi-phi/",
+      "state": "Crawled - currently not indexed",
+      "lastCrawl": "2026-02-19T09:41:45Z",
+      "reason": "Crawled - currently not indexed"
+    },
+    {
+      "path": "/islands/koh-lanta/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/islands/koh-tao/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/visa/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/visa/visa-free-entry/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/visa/tourist-visa/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/visa/digital-nomad-visa/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/transport/",
+      "state": "Crawled - currently not indexed",
+      "lastCrawl": "2026-02-17T23:09:32Z",
+      "reason": "Crawled - currently not indexed"
+    },
+    {
+      "path": "/transport/bangkok-to-chiang-mai/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/transport/bangkok-to-phuket/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/transport/bangkok-to-krabi/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/weather/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/thailand-in/january/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/thailand-in/december/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/blog/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/blog/best-time-to-visit-thailand/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/blog/thai-street-food-guide-2026/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/activities/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/best-cooking-classes-in-thailand/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/best-muay-thai-in-thailand/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/best-elephant-sanctuaries-in-thailand/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/best-diving-snorkeling-in-thailand/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/top-10/restaurants/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/travel-insurance/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/practical-info/scams-safety/",
+      "state": "URL is unknown to Google",
+      "lastCrawl": "",
+      "reason": "URL is unknown to Google"
+    },
+    {
+      "path": "/practical-info/atm-money/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/region/southern/",
+      "state": "Discovered - currently not indexed",
+      "lastCrawl": "",
+      "reason": "Discovered - currently not indexed"
+    },
+    {
+      "path": "/region/northern/",
+      "state": "Crawled - currently not indexed",
+      "lastCrawl": "2025-09-16T21:00:24Z",
+      "reason": "Crawled - currently not indexed"
+    }
+  ],
+  "errors": []
+}
