@@ -252,6 +252,128 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
               </div>
             ))}
 
+            {/* Best Training Gyms */}
+            <div className="bg-white rounded-lg shadow-lg p-8 mb-8">
+              <h2 className="text-2xl font-bold text-gray-900 mb-2">
+                Best Muay Thai Training Gyms in Southern Thailand
+              </h2>
+              <p className="text-gray-600 mb-6">
+                Looking to train seriously? These 7 gyms were independently reviewed and scored on facilities, cleanliness, class structure, and coaching quality (max 20 points). Whether you&apos;re a beginner or experienced fighter, these are the best places to train in the south.
+              </p>
+              <div className="space-y-4">
+                {[
+                  {
+                    name: 'Yakyai Muay Thai',
+                    location: 'Chalong, Phuket',
+                    score: 19,
+                    scores: { facilities: 5, cleanliness: 5, classStructure: 5, coachingQuality: 4 },
+                    highlight: 'American-owned with all-Thai coaches. Old school martial arts vibe on the \'fittest street in the world\' in Chalong. Welcoming atmosphere, great for beginners and experienced fighters alike.',
+                    features: ['All-Thai coaches', 'Beginner-friendly', 'Private lessons available'],
+                    dtvVisa: false,
+                    citySlug: 'phuket'
+                  },
+                  {
+                    name: 'Diamond Muay Thai',
+                    location: 'Koh Phangan',
+                    score: 18.5,
+                    scores: { facilities: 5, cleanliness: 4.5, classStructure: 5, coachingQuality: 4 },
+                    highlight: 'Family-run gym with bungalows on-site. Excellent clinch work and creative drills. The coaches live at the gym creating a true community atmosphere. May offer DTV (Muay Thai) visa.',
+                    features: ['On-site bungalows', 'Great clinch training', 'Community vibe'],
+                    dtvVisa: true,
+                    citySlug: null
+                  },
+                  {
+                    name: 'Lanta Muay Thai',
+                    location: 'Koh Lanta',
+                    score: 18,
+                    scores: { facilities: 4, cleanliness: 4, classStructure: 5, coachingQuality: 5 },
+                    highlight: 'Traditional Muay Thai — coaches will correct your kickboxing habits and teach you proper technique. The kind of gym that humbles you and makes you better. Tucked away from Koh Lanta\'s main street.',
+                    features: ['Traditional technique focus', 'Private lessons available', 'Quiet location'],
+                    dtvVisa: false,
+                    citySlug: null
+                  },
+                  {
+                    name: 'Kubird Muay Thai',
+                    location: 'Phuket',
+                    score: 18,
+                    scores: { facilities: 4, cleanliness: 4, classStructure: 5, coachingQuality: 5 },
+                    highlight: 'Private-lesson-only gym. Coach Kubird also teaches Muay Boran (the ancient art that birthed Muay Thai). Extremely thorough — focuses on fight IQ, movement, and reading opponents. YouTube: Mohawks and Muay Thai.',
+                    features: ['Private lessons only', 'Muay Boran classes', 'Fight IQ training'],
+                    dtvVisa: false,
+                    citySlug: 'phuket'
+                  },
+                  {
+                    name: 'Lamay Muay Thai',
+                    location: 'Koh Samui',
+                    score: 18,
+                    scores: { facilities: 5, cleanliness: 4, classStructure: 5, coachingQuality: 4 },
+                    highlight: 'Well-established gym that produces real fighters. 7-8 coaches for 30-40 students — they watch from all corners and correct mistakes. Great repetition of basics with clear explanations. May offer DTV visa.',
+                    features: ['Produces fighters', 'On-site accommodation', 'High coach-to-student ratio'],
+                    dtvVisa: true,
+                    citySlug: null
+                  },
+                  {
+                    name: 'Kunik Muay Thai',
+                    location: 'Ao Nang, Krabi',
+                    score: 17,
+                    scores: { facilities: 5, cleanliness: 5, classStructure: 3, coachingQuality: 4 },
+                    highlight: 'Stunning 4-story compound overlooking mountains, sea, and islands. Beautiful hostel, cafe, and pro shop. They hold a monthly beach training session at sunset — shadow boxing and drills on the sand.',
+                    features: ['Stunning views', 'On-site hostel & cafe', 'Monthly beach sessions'],
+                    dtvVisa: false,
+                    citySlug: null
+                  },
+                  {
+                    name: 'Dragon Muay Thai',
+                    location: 'Chalong, Phuket',
+                    score: 16,
+                    scores: { facilities: 4, cleanliness: 3.5, classStructure: 3.5, coachingQuality: 5 },
+                    highlight: 'Cool outdoor gym near Tiger Muay Thai with awesome wall artwork. Private lessons are recommended here — coaching quality is exceptional with personalized combinations and setups. Shares building with Tiwis Striking boxing gym.',
+                    features: ['Near Tiger Muay Thai', 'Private lessons recommended', 'Cool atmosphere'],
+                    dtvVisa: false,
+                    citySlug: 'phuket'
+                  }
+                ].map((gym, index) => (
+                  <div key={gym.name} className="flex items-start gap-4 p-4 bg-gray-50 rounded-lg">
+                    <div className="flex flex-col items-center min-w-[56px]">
+                      <div className="text-2xl font-bold text-yellow-600">{gym.score}</div>
+                      <div className="text-[10px] text-gray-500">/20</div>
+                    </div>
+                    <div className="flex-1">
+                      <div className="flex items-center gap-2 mb-1">
+                        <span className="text-sm font-bold text-gray-400">#{index + 1}</span>
+                        <h3 className="font-bold text-gray-900">{gym.name}</h3>
+                        {gym.dtvVisa && (
+                          <span className="text-[10px] font-semibold text-green-700 bg-green-100 px-1.5 py-0.5 rounded">
+                            DTV Visa
+                          </span>
+                        )}
+                      </div>
+                      <div className="text-xs text-gray-500 mb-1">{gym.location}</div>
+                      <p className="text-sm text-gray-700 mb-2">{gym.highlight}</p>
+                      <div className="flex flex-wrap gap-1.5">
+                        {gym.features.map((f, i) => (
+                          <span key={i} className="text-[10px] bg-white text-gray-600 px-1.5 py-0.5 rounded border border-gray-200">{f}</span>
+                        ))}
+                        <span className="text-[10px] text-gray-400 ml-1">
+                          Facilities {gym.scores.facilities} &middot; Clean {gym.scores.cleanliness} &middot; Structure {gym.scores.classStructure} &middot; Coaching {gym.scores.coachingQuality}
+                        </span>
+                      </div>
+                    </div>
+                    {gym.citySlug && (
+                      <Link href={`/city/${gym.citySlug}/muay-thai/`} className="text-xs text-red-500 hover:text-red-600 font-semibold whitespace-nowrap self-center">
+                        View &rarr;
+                      </Link>
+                    )}
+                  </div>
+                ))}
+              </div>
+              <div className="mt-6 p-4 bg-yellow-50 rounded-lg border border-yellow-200">
+                <p className="text-sm text-gray-700">
+                  <strong>DTV Visa tip:</strong> If you&apos;re planning a longer training stay, check if your chosen gym can sponsor a 6 or 12 month DTV (Destination Thailand Visa) for Muay Thai training. Lamay Muay Thai and Diamond Muay Thai are known to offer this.
+                </p>
+              </div>
+            </div>
+
             {/* CTA */}
             <div className="bg-gradient-to-r from-red-600 to-gray-900 rounded-lg p-8 mb-12 text-center text-white">
               <h2 className="text-3xl font-bold mb-4">Ready to Experience Muay Thai?</h2>

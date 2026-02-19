@@ -124,9 +124,21 @@ const Header = () => {
                       {t('nav.gear')}
                     </Link>
                     <div className="border-t border-gray-100 my-2"></div>
-                    <Link href="/activities/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <span className="mr-3">🎯</span>
-                      {t('nav.activities')}
+                    <Link href="/best-cooking-classes-in-thailand/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <span className="mr-3 text-xs">&#x1F373;</span>
+                      Cooking Classes
+                    </Link>
+                    <Link href="/best-muay-thai-in-thailand/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <span className="mr-3 text-xs">&#x1F94A;</span>
+                      Muay Thai
+                    </Link>
+                    <Link href="/best-elephant-sanctuaries-in-thailand/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <span className="mr-3 text-xs">&#x1F418;</span>
+                      Elephant Sanctuaries
+                    </Link>
+                    <Link href="/best-diving-snorkeling-in-thailand/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <span className="mr-3 text-xs">&#x1F3CA;</span>
+                      Diving &amp; Snorkeling
                     </Link>
                     <Link href="/travel-security/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
                       <span className="mr-3">🔒</span>
@@ -385,13 +397,36 @@ const Header = () => {
             >
               🎒 {t('nav.gear')}
             </Link>
+            <div className="border-t border-gray-200 my-2 mx-4"></div>
             <Link
-              href="/activities/"
+              href="/best-cooking-classes-in-thailand/"
               className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              🎯 {t('nav.activities')}
+              Cooking Classes
             </Link>
+            <Link
+              href="/best-muay-thai-in-thailand/"
+              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              Muay Thai
+            </Link>
+            <Link
+              href="/best-elephant-sanctuaries-in-thailand/"
+              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              Elephant Sanctuaries
+            </Link>
+            <Link
+              href="/best-diving-snorkeling-in-thailand/"
+              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              Diving &amp; Snorkeling
+            </Link>
+            <div className="border-t border-gray-200 my-2 mx-4"></div>
             <Link
               href="/travel-security/"
               className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"

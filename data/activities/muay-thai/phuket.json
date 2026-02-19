@@ -172,5 +172,64 @@
       "badge": "",
       "gygPath": "/thailand-l169040/phuket-muay-thai-training-academy-t944010/"
     }
+  ],
+  "trainingGyms": [
+    {
+      "name": "Yakyai Muay Thai",
+      "slug": "yakyai-muay-thai",
+      "location": { "en": "Chalong, Phuket", "nl": "Chalong, Phuket" },
+      "score": 19,
+      "maxScore": 20,
+      "scores": {
+        "facilities": 5,
+        "cleanliness": 5,
+        "classStructure": 5,
+        "coachingQuality": 4
+      },
+      "highlight": {
+        "en": "One of the best Muay Thai gyms in southern Thailand. American-owned with all-Thai coaches, located on the 'fittest street in the world' in Chalong. Old school martial arts vibe with wooden paneling, trophies, and Muay Boran uniforms on display. Tucked away from the busy road — quieter and more focused. Welcoming atmosphere that puts beginners at ease while still challenging experienced fighters.",
+        "nl": "Een van de beste Muay Thai gyms in Zuid-Thailand. Amerikaans eigendom met volledig Thaise coaches, gelegen aan de 'fitste straat ter wereld' in Chalong. Old school martial arts sfeer met houten panelen, trofeeën en Muay Boran uniformen. Afgezonderd van de drukke weg — rustiger en meer gefocust. Gastvrije sfeer die beginners op hun gemak stelt en tegelijkertijd ervaren vechters uitdaagt."
+      },
+      "features": ["All-Thai coaches", "Beginner-friendly", "Private lessons available", "Old school atmosphere"],
+      "dtvVisa": false
+    },
+    {
+      "name": "Kubird Muay Thai",
+      "slug": "kubird-muay-thai",
+      "location": { "en": "Phuket", "nl": "Phuket" },
+      "score": 18,
+      "maxScore": 20,
+      "scores": {
+        "facilities": 4,
+        "cleanliness": 4,
+        "classStructure": 5,
+        "coachingQuality": 5
+      },
+      "highlight": {
+        "en": "Private-lesson-only gym run by an experienced coach who also teaches Muay Boran (the ancient battlefield art that birthed Muay Thai). Kubird is thorough — he doesn't just give you a workout, he improves your fight IQ, movement, and ability to read opponents. He runs the YouTube channel 'Mohawks and Muay Thai' and has been training his daughter who is on her way to ONE Championship.",
+        "nl": "Gym met alleen privélessen, gerund door een ervaren coach die ook Muay Boran onderwijst (de oude vechtkunst waaruit Muay Thai is ontstaan). Kubird is grondig — hij geeft niet zomaar een workout, hij verbetert je vecht-IQ, beweging en vermogen om tegenstanders te lezen. Hij heeft het YouTube-kanaal 'Mohawks and Muay Thai' en traint zijn dochter die op weg is naar ONE Championship."
+      },
+      "features": ["Private lessons only", "Muay Boran classes", "Fight IQ training", "YouTube: Mohawks and Muay Thai"],
+      "dtvVisa": false
+    },
+    {
+      "name": "Dragon Muay Thai",
+      "slug": "dragon-muay-thai",
+      "location": { "en": "Chalong, Phuket", "nl": "Chalong, Phuket" },
+      "score": 16,
+      "maxScore": 20,
+      "scores": {
+        "facilities": 4,
+        "cleanliness": 3.5,
+        "classStructure": 3.5,
+        "coachingQuality": 5
+      },
+      "highlight": {
+        "en": "Cool outdoor gym near Tiger Muay Thai with awesome artwork on the walls. The facility is larger than it looks from the street, sharing the building with a boxing gym called Tiwis Striking. Private lessons are recommended over group classes here — the coaching quality in privates is exceptional, with coaches assessing your level and teaching customized combinations and setups.",
+        "nl": "Coole buitengym in de buurt van Tiger Muay Thai met gaaf artwork op de muren. De faciliteit is groter dan het lijkt vanaf de straat en deelt het gebouw met een boksschool genaamd Tiwis Striking. Privélessen worden hier aanbevolen boven groepslessen — de coachingkwaliteit bij privélessen is uitzonderlijk, waarbij coaches je niveau beoordelen en op maat gemaakte combinaties en setups onderwijzen."
+      },
+      "features": ["Near Tiger Muay Thai", "Shared facility with boxing gym", "Private lessons recommended", "Great artwork"],
+      "dtvVisa": false
+    }
   ]
 }

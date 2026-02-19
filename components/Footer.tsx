@@ -145,8 +145,23 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/activities/" className="text-gray-300 hover:text-white text-sm transition-colors">
-                  {t('nav.activities')}
+                <Link href="/best-cooking-classes-in-thailand/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Cooking Classes
+                </Link>
+              </li>
+              <li>
+                <Link href="/best-muay-thai-in-thailand/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Muay Thai
+                </Link>
+              </li>
+              <li>
+                <Link href="/best-elephant-sanctuaries-in-thailand/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Elephant Sanctuaries
+                </Link>
+              </li>
+              <li>
+                <Link href="/best-diving-snorkeling-in-thailand/" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  Diving &amp; Snorkeling
                 </Link>
               </li>
               <li>

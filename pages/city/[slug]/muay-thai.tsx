@@ -23,12 +23,30 @@ interface MuayThaiActivity {
   gygPath: string;
 }
 
+interface TrainingGym {
+  name: string;
+  slug: string;
+  location: { en: string; nl: string };
+  score: number;
+  maxScore: number;
+  scores: {
+    facilities: number;
+    cleanliness: number;
+    classStructure: number;
+    coachingQuality: number;
+  };
+  highlight: { en: string; nl: string };
+  features: string[];
+  dtvVisa: boolean;
+}
+
 interface CityData {
   city: string;
   cityName: { en: string; nl: string };
   intro: { en: string; nl: string };
   tips: { en: string[]; nl: string[] };
   classes: MuayThaiActivity[];
+  trainingGyms?: TrainingGym[];
 }
 
 interface City {
@@ -187,7 +205,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
             {watchActivities.length > 0 && (
               <>
                 <h2 className="text-3xl font-bold text-gray-900 mb-6 flex items-center gap-3">
-                  <span className="text-red-600">&#9733;</span> Watch Live Muay Thai Fights
+                  Watch Live Muay Thai Fights
                 </h2>
                 <div className="space-y-6 mb-12">
                   {watchActivities.map((cls, index) => (
@@ -254,7 +272,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
             {trainActivities.length > 0 && (
               <>
                 <h2 className="text-3xl font-bold text-gray-900 mb-6 flex items-center gap-3">
-                  <span className="text-blue-600">&#9889;</span> Muay Thai Training Classes
+                  Muay Thai Training Classes
                 </h2>
                 <div className="space-y-6 mb-12">
                   {trainActivities.map((cls, index) => (
@@ -322,7 +340,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
             {comboActivities.length > 0 && (
               <>
                 <h2 className="text-3xl font-bold text-gray-900 mb-6 flex items-center gap-3">
-                  <span className="text-purple-600">&#10024;</span> Combined Experiences
+                  Combined Experiences
                 </h2>
                 <div className="space-y-6 mb-12">
                   {comboActivities.map((cls, index) => (
@@ -374,6 +392,72 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                             >
                               View on GetYourGuide
                             </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </>
+            )}
+
+            {/* Training Gyms Section */}
+            {muayThaiData.trainingGyms && muayThaiData.trainingGyms.length > 0 && (
+              <>
+                <h2 className="text-3xl font-bold text-gray-900 mb-6 flex items-center gap-3">
+                  Top Training Gyms in {city.name.en}
+                </h2>
+                <p className="text-gray-600 mb-6">
+                  Looking for a serious training camp? These gyms in {city.name.en} have been independently reviewed and scored on facilities, cleanliness, class structure, and coaching quality (max 20 points).
+                </p>
+                <div className="space-y-6 mb-12">
+                  {muayThaiData.trainingGyms.map((gym, index) => (
+                    <div key={gym.slug} className="bg-white rounded-lg shadow-lg overflow-hidden border-l-4 border-yellow-400">
+                      <div className="p-6">
+                        <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4">
+                          <div className="flex-1">
+                            <div className="flex items-center gap-3 mb-2">
+                              <span className="text-sm font-bold text-yellow-600 bg-yellow-50 px-2 py-1 rounded">
+                                #{index + 1}
+                              </span>
+                              <span className="text-xs font-semibold text-gray-500">{gym.location.en}</span>
+                              {gym.dtvVisa && (
+                                <span className="text-xs font-semibold text-green-700 bg-green-100 px-2 py-1 rounded">
+                                  DTV Visa
+                                </span>
+                              )}
+                            </div>
+                            <h3 className="text-xl font-bold text-gray-900 mb-2">{gym.name}</h3>
+                            <p className="text-gray-700 text-sm mb-3">{gym.highlight.en}</p>
+                            <div className="flex flex-wrap gap-2 mb-3">
+                              {gym.features.map((feature, i) => (
+                                <span key={i} className="text-xs bg-gray-100 text-gray-700 px-2 py-1 rounded">
+                                  {feature}
+                                </span>
+                              ))}
+                            </div>
+                            <div className="grid grid-cols-4 gap-2 text-center">
+                              <div className="bg-gray-50 rounded p-2">
+                                <div className="text-sm font-bold text-gray-900">{gym.scores.facilities}/5</div>
+                                <div className="text-[10px] text-gray-500">Facilities</div>
+                              </div>
+                              <div className="bg-gray-50 rounded p-2">
+                                <div className="text-sm font-bold text-gray-900">{gym.scores.cleanliness}/5</div>
+                                <div className="text-[10px] text-gray-500">Clean</div>
+                              </div>
+                              <div className="bg-gray-50 rounded p-2">
+                                <div className="text-sm font-bold text-gray-900">{gym.scores.classStructure}/5</div>
+                                <div className="text-[10px] text-gray-500">Structure</div>
+                              </div>
+                              <div className="bg-gray-50 rounded p-2">
+                                <div className="text-sm font-bold text-gray-900">{gym.scores.coachingQuality}/5</div>
+                                <div className="text-[10px] text-gray-500">Coaching</div>
+                              </div>
+                            </div>
+                          </div>
+                          <div className="flex flex-col items-center gap-1 min-w-[80px]">
+                            <div className="text-3xl font-bold text-yellow-600">{gym.score}</div>
+                            <div className="text-sm text-gray-500">/ {gym.maxScore}</div>
                           </div>
                         </div>
                       </div>
