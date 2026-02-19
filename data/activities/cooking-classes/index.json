@@ -1,0 +1,68 @@
+{
+  "category": "cooking-classes",
+  "title": {
+    "en": "Thai Cooking Classes",
+    "nl": "Thaise Kooklessen"
+  },
+  "description": {
+    "en": "Learn to cook authentic Thai dishes with hands-on cooking classes across Thailand. From market tours to organic farm visits, these classes offer an unforgettable culinary experience.",
+    "nl": "Leer authentieke Thaise gerechten koken met hands-on kooklessen door heel Thailand. Van markttours tot bezoeken aan biologische boerderijen, deze lessen bieden een onvergetelijke culinaire ervaring."
+  },
+  "cities": [
+    {
+      "slug": "chiang-mai",
+      "name": { "en": "Chiang Mai", "nl": "Chiang Mai" },
+      "classCount": 10,
+      "priceRange": { "from": 24, "to": 41, "currency": "EUR" },
+      "topRating": 5.0,
+      "highlight": {
+        "en": "Thailand's cooking class capital — organic farms, market tours, and Northern Thai cuisine",
+        "nl": "De kookleshoofdstad van Thailand — biologische boerderijen, markttours en Noord-Thaise keuken"
+      }
+    },
+    {
+      "slug": "bangkok",
+      "name": { "en": "Bangkok", "nl": "Bangkok" },
+      "classCount": 10,
+      "priceRange": { "from": 22, "to": 121, "currency": "EUR" },
+      "topRating": 5.0,
+      "highlight": {
+        "en": "Urban cooking classes with market tours, rooftop kitchens, and famous cooking schools",
+        "nl": "Stedelijke kooklessen met markttours, dakterraskeukens en beroemde kookscholen"
+      }
+    },
+    {
+      "slug": "phuket",
+      "name": { "en": "Phuket", "nl": "Phuket" },
+      "classCount": 8,
+      "priceRange": { "from": 46, "to": 146, "currency": "EUR" },
+      "topRating": 5.0,
+      "highlight": {
+        "en": "Southern Thai flavors with beachside settings and Blue Elephant cooking school",
+        "nl": "Zuid-Thaise smaken met locaties aan het strand en Blue Elephant kookschool"
+      }
+    },
+    {
+      "slug": "koh-samui",
+      "name": { "en": "Koh Samui", "nl": "Koh Samui" },
+      "classCount": 4,
+      "priceRange": { "from": 67, "to": 105, "currency": "EUR" },
+      "topRating": 5.0,
+      "highlight": {
+        "en": "Island cooking classes with local families and seaside masterclasses",
+        "nl": "Eilandkooklessen met lokale families en masterclasses aan zee"
+      }
+    },
+    {
+      "slug": "krabi",
+      "name": { "en": "Krabi", "nl": "Krabi" },
+      "classCount": 10,
+      "priceRange": { "from": 24, "to": 78, "currency": "EUR" },
+      "topRating": 5.0,
+      "highlight": {
+        "en": "Ao Nang and Railay Beach cooking classes with Southern Thai specialties",
+        "nl": "Kooklessen in Ao Nang en Railay Beach met Zuid-Thaise specialiteiten"
+      }
+    }
+  ]
+}

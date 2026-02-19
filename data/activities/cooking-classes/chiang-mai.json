@@ -1,0 +1,166 @@
+{
+  "city": "chiang-mai",
+  "cityName": { "en": "Chiang Mai", "nl": "Chiang Mai" },
+  "intro": {
+    "en": "Chiang Mai is widely considered the best place in Thailand for cooking classes. With dozens of schools offering hands-on experiences, organic farm visits, and local market tours, it's a food lover's paradise. Most classes include hotel pickup, a visit to a fresh market, and you'll typically cook 4-6 dishes that you get to eat afterward.",
+    "nl": "Chiang Mai wordt algemeen beschouwd als de beste plek in Thailand voor kooklessen. Met tientallen scholen die hands-on ervaringen, bezoeken aan biologische boerderijen en lokale markttours aanbieden, is het een paradijs voor fijnproevers. De meeste lessen omvatten ophaalservice bij het hotel, een bezoek aan een verse markt, en je kookt doorgaans 4-6 gerechten die je daarna mag opeten."
+  },
+  "tips": {
+    "en": [
+      "Book morning classes to visit the fresh market when it's most lively",
+      "Most classes include hotel pickup — check before booking separate transport",
+      "Half-day classes (3-4 hours) are ideal for most visitors",
+      "Choose an organic farm class for a more immersive experience",
+      "Evening classes are less crowded and often include a market visit too"
+    ],
+    "nl": [
+      "Boek ochtendles om de verse markt te bezoeken wanneer het het levendigst is",
+      "De meeste lessen omvatten ophaalservice bij het hotel — controleer dit voordat je apart vervoer boekt",
+      "Halve dag lessen (3-4 uur) zijn ideaal voor de meeste bezoekers",
+      "Kies een les op een biologische boerderij voor een meer meeslepende ervaring",
+      "Avondlessen zijn minder druk en omvatten vaak ook een marktbezoek"
+    ]
+  },
+  "classes": [
+    {
+      "name": "Cooking Class, Market & Thai Herbs Garden Tour",
+      "slug": "cooking-class-market-herbs-garden",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 4776,
+      "priceFrom": 28,
+      "currency": "EUR",
+      "duration": "3.5 hours",
+      "groupSize": "group",
+      "includes": ["Market tour", "Thai herbs garden visit", "Hotel pickup", "4 dishes"],
+      "badge": "Top pick",
+      "gygPath": "/chiang-mai-l271/chiang-mai-cooking-class-market-thai-herbs-garden-tour-t633010/"
+    },
+    {
+      "name": "Authentic Cooking Class with Market & Farm Visit",
+      "slug": "authentic-class-market-farm",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 4533,
+      "priceFrom": 28,
+      "currency": "EUR",
+      "duration": "3.5-7 hours",
+      "groupSize": "group",
+      "includes": ["Fresh market tour", "Organic farm visit", "Hotel pickup", "5-6 dishes"],
+      "badge": "Top rated",
+      "gygPath": "/chiang-mai-l271/chiang-mai-authentic-cooking-class-with-market-farm-visit-t187629/"
+    },
+    {
+      "name": "Cooking Class with Market and Pickup",
+      "slug": "cooking-class-market-pickup",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 1353,
+      "priceFrom": 24,
+      "currency": "EUR",
+      "duration": "3.5 hours",
+      "groupSize": "small group",
+      "includes": ["Market visit", "Hotel pickup", "Recipe booklet"],
+      "badge": "Top rated",
+      "gygPath": "/chiang-mai-l271/chiang-mai-cooking-class-with-market-and-pickup-t698360/"
+    },
+    {
+      "name": "Cooking Class with Organic Farm at Mama Noi",
+      "slug": "mama-noi-organic-farm",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 1146,
+      "priceFrom": 27,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "small group",
+      "includes": ["Organic farm tour", "Hotel pickup", "4 dishes", "Recipe booklet"],
+      "badge": "Top rated",
+      "gygPath": "/chiang-mai-l271/cooking-class-with-organic-farm-in-chiang-mai-at-mama-noi-t567424/"
+    },
+    {
+      "name": "Evening Cooking Class and Local Market Visit",
+      "slug": "evening-class-market",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 647,
+      "priceFrom": 24,
+      "currency": "EUR",
+      "duration": "5 hours",
+      "groupSize": "group",
+      "includes": ["Evening market visit", "Skip the line", "Hotel pickup", "5 dishes"],
+      "badge": "Top rated",
+      "gygPath": "/chiang-mai-l271/chiang-mai-evening-cooking-class-visit-local-market-t482118/"
+    },
+    {
+      "name": "Thai Cooking Class at Grand Canyon & Market Tour",
+      "slug": "grand-canyon-market",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 243,
+      "priceFrom": 25,
+      "currency": "EUR",
+      "duration": "5 hours",
+      "groupSize": "group",
+      "includes": ["Grand Canyon location", "Market tour", "Hotel pickup"],
+      "badge": "",
+      "gygPath": "/chiang-mai-l271/chiang-mai-thai-cooking-class-at-grand-canyon-market-tour-t1116942/"
+    },
+    {
+      "name": "Asia Scenic Thai Cooking School",
+      "slug": "asia-scenic-cooking-school",
+      "provider": "GetYourGuide",
+      "rating": 5.0,
+      "reviews": 75,
+      "priceFrom": 35,
+      "currency": "EUR",
+      "duration": "4.5-6 hours",
+      "groupSize": "small group",
+      "includes": ["Skip the line", "Multiple sessions available"],
+      "badge": "",
+      "gygPath": "/chiang-mai-l271/chiang-mai-asia-scenic-thai-cooking-school-t627579/"
+    },
+    {
+      "name": "Traditional Thai Cooking Class with Market Tour",
+      "slug": "traditional-class-market",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 134,
+      "priceFrom": 27,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "group",
+      "includes": ["Market tour", "Hotel pickup", "Recipe booklet"],
+      "badge": "Top rated",
+      "gygPath": "/chiang-mai-l271/chiang-mai-traditional-thai-cooking-class-with-market-tour-t640506/"
+    },
+    {
+      "name": "Half Day Cooking Class at Organic Farm",
+      "slug": "half-day-organic-farm",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 94,
+      "priceFrom": 26,
+      "currency": "EUR",
+      "duration": "5 hours",
+      "groupSize": "small group",
+      "includes": ["Organic farm visit", "Hotel pickup", "City garden market"],
+      "badge": "",
+      "gygPath": "/chiang-mai-l271/half-day-cooking-class-at-organic-farm-city-gardenmarket-t818758/"
+    },
+    {
+      "name": "Local Northern Thai Cooking Class at Grandma's",
+      "slug": "grandmas-northern-thai",
+      "provider": "GetYourGuide",
+      "rating": 5.0,
+      "reviews": 33,
+      "priceFrom": 41,
+      "currency": "EUR",
+      "duration": "6 hours",
+      "groupSize": "group",
+      "includes": ["Northern Thai cuisine", "Home cooking experience", "Hotel pickup"],
+      "badge": "",
+      "gygPath": "/chiang-mai-l271/lanna-exotic-cooking-class-at-grandma-s-home-cooking-school-t463718/"
+    }
+  ]
+}

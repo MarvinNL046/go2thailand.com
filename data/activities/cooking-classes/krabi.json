@@ -1,0 +1,138 @@
+{
+  "city": "krabi",
+  "cityName": { "en": "Krabi", "nl": "Krabi" },
+  "intro": {
+    "en": "Krabi's cooking classes are centered around Ao Nang and Krabi Town, offering hands-on experiences with Southern Thai cuisine. The area is known for its distinctive flavors, including turmeric-rich curries, fresh seafood dishes, and spicy salads. Many classes include visits to local markets and some even offer scenic locations overlooking the famous limestone karsts.",
+    "nl": "De kooklessen van Krabi zijn gecentreerd rond Ao Nang en Krabi Town, en bieden hands-on ervaringen met de Zuid-Thaise keuken. Het gebied staat bekend om zijn onderscheidende smaken, waaronder kurkuma-rijke curry's, verse zeevruchtgerechten en pittige salades. Veel lessen omvatten bezoeken aan lokale markten en sommige bieden zelfs schilderachtige locaties met uitzicht op de beroemde kalksteenkarstformaties."
+  },
+  "tips": {
+    "en": [
+      "Ao Nang has the most cooking class options and is centrally located",
+      "Railay Beach has a unique cooking class if you're staying there",
+      "Southern Thai cuisine uses more turmeric and coconut than Central Thai food",
+      "Morning classes are the most popular — book at least a day in advance",
+      "Some classes offer street food cooking which is more affordable and casual"
+    ],
+    "nl": [
+      "Ao Nang heeft de meeste kooklesopties en is centraal gelegen",
+      "Railay Beach heeft een unieke kookles als je daar verblijft",
+      "De Zuid-Thaise keuken gebruikt meer kurkuma en kokos dan Centraal-Thais eten",
+      "Ochtendles zijn het populairst — boek minstens een dag van tevoren",
+      "Sommige lessen bieden straatvoedselkoken aan, wat betaalbaarder en informeler is"
+    ]
+  },
+  "classes": [
+    {
+      "name": "Traditional Thai Cooking Class with Local Chef",
+      "slug": "traditional-class-local-chef",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 524,
+      "priceFrom": 39,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "Local chef instruction", "4 dishes"],
+      "badge": "Top pick",
+      "gygPath": "/ao-nang-l89867/traditional-thai-cooking-class-by-smart-cook-krabi-t632799/"
+    },
+    {
+      "name": "Cooking Class at Thai Charm Cooking School",
+      "slug": "thai-charm-cooking-school",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 428,
+      "priceFrom": 42,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "small group",
+      "includes": ["Skip the line", "Small group", "Full meal included"],
+      "badge": "Top rated",
+      "gygPath": "/krabi-l2174/krabi-the-best-cooking-class-at-thai-charm-cooking-school-t529100/"
+    },
+    {
+      "name": "Hands-on Street Food Cooking in Ao Nang",
+      "slug": "ao-nang-street-food",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 407,
+      "priceFrom": 24,
+      "currency": "EUR",
+      "duration": "2.5 hours",
+      "groupSize": "group",
+      "includes": ["Street food focus", "3 popular dishes"],
+      "badge": "Top rated",
+      "gygPath": "/ao-nang-l89867/ao-nang-hands-on-learn-to-cook-3-popular-thai-s-street-food-t890920/"
+    },
+    {
+      "name": "Evening Thai Cooking Class at Ya's Cookery",
+      "slug": "yas-cookery-evening",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 152,
+      "priceFrom": 42,
+      "currency": "EUR",
+      "duration": "3 hours",
+      "groupSize": "group",
+      "includes": ["Evening class", "Hotel pickup", "3 dishes"],
+      "badge": "Top rated",
+      "gygPath": "/krabi-l2174/krabi-evening-thai-cooking-class-at-ya-s-cookery-t446722/"
+    },
+    {
+      "name": "Half-Day Thai Cooking Class Krabi Province",
+      "slug": "half-day-krabi-province",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 122,
+      "priceFrom": 35,
+      "currency": "EUR",
+      "duration": "2.5-4 hours",
+      "groupSize": "group",
+      "includes": ["Skip the line", "Hotel pickup", "4 dishes"],
+      "badge": "Top rated",
+      "gygPath": "/ao-nang-l89867/ao-nang-half-day-thai-cooking-class-krabi-province-t529468/"
+    },
+    {
+      "name": "Hands-On Thai Cooking Class at Railay Beach",
+      "slug": "railay-beach-cooking",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 30,
+      "priceFrom": 48,
+      "currency": "EUR",
+      "duration": "3.5 hours",
+      "groupSize": "group",
+      "includes": ["Railay Beach location", "Private option available"],
+      "badge": "",
+      "gygPath": "/krabi-l2174/railay-hands-on-thai-cooking-class-at-railay-beach-t926785/"
+    },
+    {
+      "name": "Morning or Afternoon Culinary Adventure at Smart Cook",
+      "slug": "smart-cook-culinary-adventure",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 35,
+      "priceFrom": 38,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "small group",
+      "includes": ["Flexible schedule", "Small group", "Hotel pickup"],
+      "badge": "",
+      "gygPath": "/ao-nang-l89867/krabi-morning-or-afternoon-culinary-adventure-at-smat-cook-t679889/"
+    },
+    {
+      "name": "Luxury Southern Thai Cooking Class by Chef Alice",
+      "slug": "chef-alice-luxury-class",
+      "provider": "GetYourGuide",
+      "rating": 5.0,
+      "reviews": 6,
+      "priceFrom": 78,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "group",
+      "includes": ["Chef-led class", "Southern Thai recipes", "Hotel pickup"],
+      "badge": "",
+      "gygPath": "/krabi-l2174/learn-southern-recipes-intimate-thai-cooking-class-in-krabi-t1105739/"
+    }
+  ]
+}

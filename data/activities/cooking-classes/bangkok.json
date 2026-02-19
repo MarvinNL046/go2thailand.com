@@ -1,0 +1,166 @@
+{
+  "city": "bangkok",
+  "cityName": { "en": "Bangkok", "nl": "Bangkok" },
+  "intro": {
+    "en": "Bangkok offers a vibrant cooking class scene with options ranging from street-side kitchens to elegant cooking schools in historic buildings. Classes here often include a tuk-tuk ride to a local market, and you'll learn to cook classic Thai dishes like Pad Thai, Tom Yum, and Green Curry. The city's central location makes it easy to fit a class into any Thailand itinerary.",
+    "nl": "Bangkok biedt een levendige kooklesscene met opties variërend van straatkeukens tot elegante kookscholen in historische gebouwen. Lessen hier omvatten vaak een tuktukrit naar een lokale markt, en je leert klassieke Thaise gerechten koken zoals Pad Thai, Tom Yum en Groene Curry. De centrale ligging van de stad maakt het makkelijk om een les in elk Thailand-reisschema te passen."
+  },
+  "tips": {
+    "en": [
+      "Classes near Silom and Sathon are easily accessible by BTS Skytrain",
+      "Book classes with market tours to learn about Thai ingredients",
+      "Tuk-tuk included classes add a fun Bangkok transport experience",
+      "Blue Elephant is premium but offers an exceptional high-end experience",
+      "Small group classes (max 10-12 people) offer more personal attention"
+    ],
+    "nl": [
+      "Lessen bij Silom en Sathon zijn makkelijk bereikbaar met de BTS Skytrain",
+      "Boek lessen met markttours om over Thaise ingrediënten te leren",
+      "Lessen inclusief tuktuk voegen een leuke Bangkokse transportervaring toe",
+      "Blue Elephant is premium maar biedt een uitzonderlijke high-end ervaring",
+      "Kleine groepslessen (max 10-12 personen) bieden meer persoonlijke aandacht"
+    ]
+  },
+  "classes": [
+    {
+      "name": "Hands-on Thai Cooking Class and Market Tour",
+      "slug": "hands-on-class-market-tour",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 1608,
+      "priceFrom": 37,
+      "currency": "EUR",
+      "duration": "3.5 hours",
+      "groupSize": "group",
+      "includes": ["Market tour", "4 dishes", "Recipe booklet"],
+      "badge": "Top pick",
+      "gygPath": "/bangkok-l169/bangkok-hands-on-thai-cooking-class-and-market-tour-t300531/"
+    },
+    {
+      "name": "Maliwan Thai Cooking Class with Market Tour",
+      "slug": "maliwan-cooking-class",
+      "provider": "GetYourGuide",
+      "rating": 5.0,
+      "reviews": 1367,
+      "priceFrom": 37,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "small group",
+      "includes": ["Market tour", "Small group", "4 dishes"],
+      "badge": "Top rated",
+      "gygPath": "/bangkok-l169/bangkok-maliwan-thai-cooking-class-with-market-tour-t29238/"
+    },
+    {
+      "name": "Tingly Thai Cooking School Half-Day Class",
+      "slug": "tingly-thai-cooking-school",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 1188,
+      "priceFrom": 35,
+      "currency": "EUR",
+      "duration": "3 hours",
+      "groupSize": "group",
+      "includes": ["Hands-on cooking", "Recipe booklet"],
+      "badge": "Top rated",
+      "gygPath": "/bangkok-l169/bangkok-tingly-thai-cooking-school-half-day-cooking-class-t463243/"
+    },
+    {
+      "name": "White Lotus Thai Cooking Class with Market Tour",
+      "slug": "white-lotus-cooking-class",
+      "provider": "GetYourGuide",
+      "rating": 5.0,
+      "reviews": 274,
+      "priceFrom": 29,
+      "currency": "EUR",
+      "duration": "3.5 hours",
+      "groupSize": "group",
+      "includes": ["Market tour", "4 dishes"],
+      "badge": "Top rated",
+      "gygPath": "/bangkok-l169/bangkok-white-lotus-thai-cooking-class-with-market-tour-t1066667/"
+    },
+    {
+      "name": "Sukhumvit: Hands-on Cooking Class & Market Tour",
+      "slug": "sukhumvit-hands-on-class",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 252,
+      "priceFrom": 37,
+      "currency": "EUR",
+      "duration": "3.5 hours",
+      "groupSize": "group",
+      "includes": ["Market tour", "Sukhumvit location", "4 dishes"],
+      "badge": "Top rated",
+      "gygPath": "/bangkok-l169/hands-on-thai-cooking-class-market-tour-in-sukhumvit-t499652/"
+    },
+    {
+      "name": "Favourite Thai Flavors by Smart Cook",
+      "slug": "smart-cook-thai-flavors",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 217,
+      "priceFrom": 27,
+      "currency": "EUR",
+      "duration": "2.5 hours",
+      "groupSize": "small group",
+      "includes": ["Small group", "Local ingredients"],
+      "badge": "Top rated",
+      "gygPath": "/bangkok-l169/bangkok-favourite-thai-flavors-cooking-class-by-smart-cook-t817738/"
+    },
+    {
+      "name": "Mango Cooking School Thai Cooking Class",
+      "slug": "mango-cooking-school",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 153,
+      "priceFrom": 22,
+      "currency": "EUR",
+      "duration": "3 hours",
+      "groupSize": "group",
+      "includes": ["Hands-on cooking", "Recipe booklet"],
+      "badge": "Top rated",
+      "gygPath": "/bangkok-l169/bangkok-mango-cooking-school-thai-cooking-class-t937875/"
+    },
+    {
+      "name": "Blue Elephant Thai Cooking Class",
+      "slug": "blue-elephant-cooking-class",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 124,
+      "priceFrom": 121,
+      "currency": "EUR",
+      "duration": "1 day",
+      "groupSize": "group",
+      "includes": ["Premium school", "Historic building", "Full day program"],
+      "badge": "Top rated",
+      "gygPath": "/bangkok-l169/bangkok-blue-elephant-thai-cooking-class-t280512/"
+    },
+    {
+      "name": "Traditional Thai Dishes & Market Trip",
+      "slug": "traditional-dishes-market",
+      "provider": "GetYourGuide",
+      "rating": 5.0,
+      "reviews": 106,
+      "priceFrom": 32,
+      "currency": "EUR",
+      "duration": "3 hours",
+      "groupSize": "small group",
+      "includes": ["Market trip", "Small group", "Traditional recipes"],
+      "badge": "Top rated",
+      "gygPath": "/bangkok-l169/bangkok-cooking-class-traditional-thai-dishesmarket-trip-t830800/"
+    },
+    {
+      "name": "Half-Day Thai Cooking Class in Bangrak District",
+      "slug": "bangrak-half-day-class",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 96,
+      "priceFrom": 38,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "group",
+      "includes": ["Bangrak location", "4 dishes"],
+      "badge": "",
+      "gygPath": "/bangkok-l169/bangkok-half-day-thai-cooking-class-in-bangrak-district-t187905/"
+    }
+  ]
+}

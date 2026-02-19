@@ -1,0 +1,82 @@
+{
+  "city": "koh-samui",
+  "cityName": { "en": "Koh Samui", "nl": "Koh Samui" },
+  "intro": {
+    "en": "Koh Samui's cooking classes offer an intimate island experience, often in beautiful tropical settings overlooking the sea. Classes here are smaller and more personal, with local families sharing their traditional recipes. While there are fewer options than in Chiang Mai or Bangkok, the quality is excellent and the setting is unbeatable.",
+    "nl": "De kooklessen op Koh Samui bieden een intieme eilandervaring, vaak in prachtige tropische omgevingen met uitzicht op zee. Lessen hier zijn kleiner en persoonlijker, met lokale families die hun traditionele recepten delen. Hoewel er minder opties zijn dan in Chiang Mai of Bangkok, is de kwaliteit uitstekend en de setting onverslaanbaar."
+  },
+  "tips": {
+    "en": [
+      "Book well in advance — Koh Samui has fewer classes that fill up quickly",
+      "Classes with local families offer the most authentic experience",
+      "The seaside masterclass option is unique to Koh Samui — highly recommended",
+      "Combine a cooking class with island exploring for a full day activity",
+      "Evening classes often include sunset views over the Gulf of Thailand"
+    ],
+    "nl": [
+      "Boek ruim van tevoren — Koh Samui heeft minder lessen die snel vol zitten",
+      "Lessen bij lokale families bieden de meest authentieke ervaring",
+      "De masterclass aan zee is uniek voor Koh Samui — sterk aanbevolen",
+      "Combineer een kookles met eilandverkenning voor een volledige dagactiviteit",
+      "Avondlessen omvatten vaak een zonsondergangzicht over de Golf van Thailand"
+    ]
+  },
+  "classes": [
+    {
+      "name": "Thai Cooking Class with Samui Local Family",
+      "slug": "local-family-cooking-class",
+      "provider": "GetYourGuide",
+      "rating": 5.0,
+      "reviews": 301,
+      "priceFrom": 67,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "small group",
+      "includes": ["Local family experience", "Small group", "Hotel pickup"],
+      "badge": "Top pick",
+      "gygPath": "/ko-samui-l898/koh-samui-thai-cooking-class-with-samui-local-family-t923010/"
+    },
+    {
+      "name": "Thai Cooking Masterclass by the Sea",
+      "slug": "masterclass-by-the-sea",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 145,
+      "priceFrom": 68,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "small group",
+      "includes": ["Seaside location", "Skip the line", "Small group", "4 dishes"],
+      "badge": "Top rated",
+      "gygPath": "/ko-samui-l898/koh-samui-thai-cooking-masterclass-by-the-sea-t707280/"
+    },
+    {
+      "name": "Thai Cooking Class with Local Market Tour",
+      "slug": "class-with-market-tour",
+      "provider": "GetYourGuide",
+      "rating": 4.7,
+      "reviews": 126,
+      "priceFrom": 79,
+      "currency": "EUR",
+      "duration": "3 hours",
+      "groupSize": "small group",
+      "includes": ["Local market tour", "Skip the line", "Small group"],
+      "badge": "Top rated",
+      "gygPath": "/ko-samui-l898/koh-samui-thai-cooking-class-with-local-market-tour-t519423/"
+    },
+    {
+      "name": "Evening Thai Cooking Class with Organic Garden",
+      "slug": "evening-class-organic-garden",
+      "provider": "GetYourGuide",
+      "rating": 5.0,
+      "reviews": 3,
+      "priceFrom": 105,
+      "currency": "EUR",
+      "duration": "4.5 hours",
+      "groupSize": "small group",
+      "includes": ["Organic garden visit", "Small group", "Evening experience"],
+      "badge": "",
+      "gygPath": "/surat-thani-province-l897/koh-samui-evening-thai-cooking-class-with-organic-garden-t1012865/"
+    }
+  ]
+}

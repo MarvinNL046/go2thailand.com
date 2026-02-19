@@ -1,0 +1,138 @@
+{
+  "city": "phuket",
+  "cityName": { "en": "Phuket", "nl": "Phuket" },
+  "intro": {
+    "en": "Phuket's cooking classes highlight Southern Thai cuisine with its bold flavors, fresh seafood, and signature dishes like Massaman Curry and Phuket-style Pad Thai. Classes here tend to be slightly more premium, with beautiful tropical settings and smaller group sizes. The island's Blue Elephant Cooking School is one of Thailand's most prestigious culinary experiences.",
+    "nl": "De kooklessen van Phuket benadrukken de Zuid-Thaise keuken met zijn krachtige smaken, verse zeevruchten en kenmerkende gerechten zoals Massaman Curry en Phuket-stijl Pad Thai. Lessen hier zijn over het algemeen iets meer premium, met prachtige tropische omgevingen en kleinere groepen. De Blue Elephant Cooking School op het eiland is een van Thailand's meest prestigieuze culinaire ervaringen."
+  },
+  "tips": {
+    "en": [
+      "Phuket classes are pricier than Chiang Mai/Bangkok — expect €50-80 per person",
+      "Morning classes include market tours at Phuket's colorful local markets",
+      "Choose classes in Phuket Old Town for a more authentic cultural experience",
+      "Some classes combine cooking with elephant sanctuary visits for a full day",
+      "Blue Elephant offers a luxury experience in a stunning colonial building"
+    ],
+    "nl": [
+      "Kooklessen op Phuket zijn duurder dan in Chiang Mai/Bangkok — reken op €50-80 per persoon",
+      "Ochtendles inclusief markttours op Phuket's kleurrijke lokale markten",
+      "Kies lessen in Phuket Old Town voor een authentiekere culturele ervaring",
+      "Sommige lessen combineren koken met bezoeken aan olifantenopvangcentra voor een volle dag",
+      "Blue Elephant biedt een luxe-ervaring in een prachtig koloniaal gebouw"
+    ]
+  },
+  "classes": [
+    {
+      "name": "Half Day Easy Thai Cooking Class & Local Market Tour",
+      "slug": "half-day-easy-class-market",
+      "provider": "GetYourGuide",
+      "rating": 4.9,
+      "reviews": 718,
+      "priceFrom": 58,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "small group",
+      "includes": ["Local market tour", "Small group", "Hotel pickup"],
+      "badge": "Top pick",
+      "gygPath": "/phuket-l32123/phuket-easy-4-hour-thai-cooking-class-t131058/"
+    },
+    {
+      "name": "Authentic Thai Cooking Class",
+      "slug": "authentic-thai-cooking",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 143,
+      "priceFrom": 59,
+      "currency": "EUR",
+      "duration": "3.5 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "4 dishes", "Recipe booklet"],
+      "badge": "Top rated",
+      "gygPath": "/phuket-l32123/phuket-half-day-thai-cooking-class-t56495/"
+    },
+    {
+      "name": "Half Day Authentic Thai Cooking Class & Market Tour",
+      "slug": "half-day-authentic-market",
+      "provider": "GetYourGuide",
+      "rating": 5.0,
+      "reviews": 49,
+      "priceFrom": 62,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "group",
+      "includes": ["Market tour", "Hotel pickup", "4 dishes"],
+      "badge": "",
+      "gygPath": "/phuket-city-l187/phuket-half-day-authentic-thai-cooking-class-market-tour-t20032/"
+    },
+    {
+      "name": "Naidee Thai Cooking Class with Chef Ern",
+      "slug": "naidee-chef-ern",
+      "provider": "GetYourGuide",
+      "rating": 5.0,
+      "reviews": 19,
+      "priceFrom": 46,
+      "currency": "EUR",
+      "duration": "2.5 hours",
+      "groupSize": "group",
+      "includes": ["Chef-led class", "3 dishes"],
+      "badge": "",
+      "gygPath": "/phuket-city-l187/phuket-naidee-thai-cooking-class-with-chef-ern-t1125871/"
+    },
+    {
+      "name": "Blue Elephant Thai Cooking Class with Market Tour",
+      "slug": "blue-elephant-phuket",
+      "provider": "GetYourGuide",
+      "rating": 5.0,
+      "reviews": 11,
+      "priceFrom": 146,
+      "currency": "EUR",
+      "duration": "4 hours",
+      "groupSize": "small group",
+      "includes": ["Skip the line", "Market tour", "Premium school"],
+      "badge": "",
+      "gygPath": "/phuket-city-l187/phuket-blue-elephant-thai-cooking-class-with-market-tour-t519378/"
+    },
+    {
+      "name": "Rawai Thai Cooking Class with Local Chef",
+      "slug": "rawai-local-chef",
+      "provider": "GetYourGuide",
+      "rating": 4.8,
+      "reviews": 23,
+      "priceFrom": 59,
+      "currency": "EUR",
+      "duration": "3 hours",
+      "groupSize": "group",
+      "includes": ["Local chef", "3 dishes"],
+      "badge": "",
+      "gygPath": "/thailand-l169040/phuket-rawai-thai-cooking-class-with-local-chef-t905715/"
+    },
+    {
+      "name": "Bukit Thai Cooking Class",
+      "slug": "bukit-cooking-class",
+      "provider": "GetYourGuide",
+      "rating": 5.0,
+      "reviews": 8,
+      "priceFrom": 59,
+      "currency": "EUR",
+      "duration": "3 hours",
+      "groupSize": "group",
+      "includes": ["Hotel pickup", "3 dishes"],
+      "badge": "",
+      "gygPath": "/patong-l93618/bukit-thai-cooking-class-in-phuket-t1107250/"
+    },
+    {
+      "name": "Pum Thai Cooking School with Meal",
+      "slug": "pum-thai-cooking-school",
+      "provider": "GetYourGuide",
+      "rating": 5.0,
+      "reviews": 3,
+      "priceFrom": 60,
+      "currency": "EUR",
+      "duration": "1.5-5 hours",
+      "groupSize": "group",
+      "includes": ["Skip the line", "Flexible schedule", "Full meal"],
+      "badge": "",
+      "gygPath": "/patong-l93618/phuket-pum-thai-cooking-school-with-meal-t950343/"
+    }
+  ]
+}
