@@ -73,7 +73,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
           <div className="container-custom py-16">
             <div className="text-center max-w-4xl mx-auto">
               <h1 className="text-4xl lg:text-6xl font-bold mb-6">
-                🍽️ Top 10 Restaurant <span className="text-yellow-300">Guides</span>
+                Top 10 Restaurant <span className="text-yellow-300">Guides</span>
               </h1>
               <p className="text-xl lg:text-2xl mb-8 opacity-90">
                 Discover where locals actually eat. Current prices, insider tips, and authentic flavors across Thailand.
@@ -82,13 +82,13 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
               {/* Trust badges */}
               <div className="flex justify-center items-center gap-4 text-sm mb-8">
                 <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
-                  📊 Current 2026 Data
+                  Current 2026 Data
                 </span>
                 <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
-                  ✨ Expert Curated
+                  Expert Curated
                 </span>
                 <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
-                  💰 Local Prices
+                  Local Prices
                 </span>
               </div>
             </div>
@@ -139,7 +139,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
             <div className="container-custom">
               <div className="text-center mb-12">
                 <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-                  🔥 Featured Restaurant Guides
+                  Featured Restaurant Guides
                 </h2>
                 <p className="text-xl text-gray-600 max-w-2xl mx-auto">
                   Most popular guides with the latest pricing and insider tips
@@ -166,7 +166,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
                         {guide.has_current_data && (
                           <div className="absolute top-4 right-4">
                             <span className="bg-green-500 text-white px-3 py-1 rounded-full text-sm font-semibold">
-                              📊 Current Data
+                              Current Data
                             </span>
                           </div>
                         )}
@@ -181,9 +181,9 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
                         </p>
                         
                         <div className="flex items-center justify-between text-sm text-gray-500 mb-4">
-                          <span>🍽️ {guide.item_count} restaurants</span>
+                          <span>{guide.item_count} restaurants</span>
                           {guide.last_updated && (
-                            <span>🔄 Updated {new Date(guide.last_updated).toLocaleDateString()}</span>
+                            <span>Updated {new Date(guide.last_updated).toLocaleDateString()}</span>
                           )}
                         </div>
                         
@@ -248,9 +248,9 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
                       </p>
                       
                       <div className="flex items-center justify-between text-sm text-gray-500">
-                        <span>🍽️ {guide.item_count} restaurants</span>
+                        <span>{guide.item_count} restaurants</span>
                         {guide.last_updated && (
-                          <span>🔄 {new Date(guide.last_updated).toLocaleDateString()}</span>
+                          <span>{new Date(guide.last_updated).toLocaleDateString()}</span>
                         )}
                       </div>
                     </div>
@@ -266,7 +266,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
           <div className="container-custom">
             <div className="text-center max-w-2xl mx-auto">
               <h3 className="text-2xl font-bold text-gray-900 mb-3">
-                🍳 Book a Food Experience in Thailand
+                Book a Food Experience in Thailand
               </h3>
               <p className="text-gray-600 mb-6">
                 Take your taste buds further with hands-on cooking classes and guided food tours across Thailand.
@@ -309,10 +309,10 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
 
               <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
                 <Link href="/top-10/hotels/" className="bg-thailand-blue text-white px-6 py-3 rounded-lg font-semibold hover:bg-thailand-blue-600 transition-colors">
-                  🏨 Hotel Guides
+                  Hotel Guides
                 </Link>
                 <Link href="/top-10/attractions/" className="bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors">
-                  🎯 Attraction Guides
+                  Attraction Guides
                 </Link>
               </div>
 

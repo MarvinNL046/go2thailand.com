@@ -8,35 +8,35 @@ const categoryInfo = {
   'main-dish': {
     title: 'Main Dishes',
     description: 'Hearty and satisfying Thai main courses that form the centerpiece of any meal',
-    icon: '🍛',
+    icon: '',
     color: 'bg-orange-50 border-orange-200 hover:border-orange-400',
     count: 15
   },
   'soup': {
     title: 'Thai Soups',
     description: 'Soul-warming broths and soups that showcase the complex flavors of Thai cuisine',
-    icon: '🍜',
+    icon: '',
     color: 'bg-blue-50 border-blue-200 hover:border-blue-400',
     count: 8
   },
   'curry': {
     title: 'Thai Curries',
     description: 'Rich and aromatic curry dishes featuring coconut milk and fragrant spices',
-    icon: '🍛',
+    icon: '',
     color: 'bg-yellow-50 border-yellow-200 hover:border-yellow-400',
     count: 10
   },
   'salad': {
     title: 'Thai Salads',
     description: 'Fresh and vibrant salads with bold flavors and exciting textures',
-    icon: '🥗',
+    icon: '',
     color: 'bg-green-50 border-green-200 hover:border-green-400',
     count: 7
   },
   'dessert': {
     title: 'Thai Desserts',
     description: 'Sweet treats and traditional desserts that perfectly end any Thai meal',
-    icon: '🍨',
+    icon: '',
     color: 'bg-pink-50 border-pink-200 hover:border-pink-400',
     count: 6
   }
@@ -118,21 +118,21 @@ export default function FoodCategoriesIndex() {
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div className="bg-white p-6 rounded-lg shadow">
-                  <div className="text-2xl mb-2">🌶️</div>
+                  <div className="text-2xl mb-2"></div>
                   <h3 className="font-semibold mb-2">Spice Levels</h3>
                   <p className="text-sm text-gray-600">
                     Most dishes can be adjusted from mild to very hot
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-lg shadow">
-                  <div className="text-2xl mb-2">🌍</div>
+                  <div className="text-2xl mb-2"></div>
                   <h3 className="font-semibold mb-2">Regional Variations</h3>
                   <p className="text-sm text-gray-600">
                     Each region has its own unique take on classic dishes
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-lg shadow">
-                  <div className="text-2xl mb-2">🥗</div>
+                  <div className="text-2xl mb-2"></div>
                   <h3 className="font-semibold mb-2">Fresh Ingredients</h3>
                   <p className="text-sm text-gray-600">
                     Thai cooking emphasizes fresh herbs and vegetables
@@ -156,7 +156,7 @@ export default function FoodCategoriesIndex() {
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-orange-100">
-                <div className="text-5xl mb-4">👨‍🍳</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Cooking Classes &amp; Food Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Cooking classes and food tours across Thailand
@@ -171,7 +171,7 @@ export default function FoodCategoriesIndex() {
                 </a>
               </div>
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-blue-100">
-                <div className="text-5xl mb-4">🍜</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Food Walking Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Guided food walking tours

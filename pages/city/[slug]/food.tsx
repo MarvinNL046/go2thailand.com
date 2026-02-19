@@ -85,12 +85,12 @@ export default function CityFoodPage({ city, cityFoodData }: CityFoodPageProps) 
   // Helper function to get spice level icon
   const getSpiceIcon = (level: string) => {
     const icons = {
-      mild: '🌶️',
-      medium: '🌶️🌶️',
-      hot: '🌶️🌶️🌶️',
-      'very hot': '🌶️🌶️🌶️🌶️'
+      mild: 'Mild',
+      medium: 'Medium',
+      hot: 'Hot',
+      'very hot': 'Very Hot'
     };
-    return icons[level as keyof typeof icons] || '🌶️';
+    return icons[level as keyof typeof icons] || 'Mild';
   };
 
   // Helper function to format price range
@@ -204,7 +204,7 @@ export default function CityFoodPage({ city, cityFoodData }: CityFoodPageProps) 
                   </div>
                   {cityFoodData.vegetarian_friendly && (
                     <div className="mt-6 p-4 bg-green-50 rounded-lg text-center">
-                      <span className="text-green-800 font-medium">🌱 This city is vegetarian-friendly!</span>
+                      <span className="text-green-800 font-medium">This city is vegetarian-friendly!</span>
                       <p className="text-green-700 text-sm mt-1">
                         You'll find plenty of vegetarian options at local restaurants and markets.
                       </p>

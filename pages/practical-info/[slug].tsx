@@ -169,7 +169,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                 <ul className="space-y-3">
                   {info.tips.map((tip, index) => (
                     <li key={index} className="flex items-start gap-2">
-                      <span className="text-yellow-500">💡</span>
+                      <span className="text-yellow-500"></span>
                       <span className="text-sm text-gray-700">{tip[lang]}</span>
                     </li>
                   ))}
@@ -182,16 +182,16 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                   {lang === 'nl' ? 'Gerelateerd' : 'Related'}
                 </h3>
                 <div className="space-y-2">
-                  <Link href="/visa/" className="block text-teal-600 hover:underline text-sm">🛂 {lang === 'nl' ? 'Visum Gids' : 'Visa Guide'}</Link>
-                  <Link href="/weather/" className="block text-teal-600 hover:underline text-sm">🌤️ {lang === 'nl' ? 'Weer Gids' : 'Weather Guide'}</Link>
-                  <Link href="/transport/" className="block text-teal-600 hover:underline text-sm">🚌 {lang === 'nl' ? 'Transport' : 'Transport'}</Link>
+                  <Link href="/visa/" className="block text-teal-600 hover:underline text-sm">{lang === 'nl' ? 'Visum Gids' : 'Visa Guide'}</Link>
+                  <Link href="/weather/" className="block text-teal-600 hover:underline text-sm">{lang === 'nl' ? 'Weer Gids' : 'Weather Guide'}</Link>
+                  <Link href="/transport/" className="block text-teal-600 hover:underline text-sm">{lang === 'nl' ? 'Transport' : 'Transport'}</Link>
                   <Link href="/practical-info/" className="block text-teal-600 hover:underline text-sm">← {lang === 'nl' ? 'Alle praktische info' : 'All practical info'}</Link>
                 </div>
               </div>
 
               {/* Travel Insurance */}
               <div className="bg-gradient-to-r from-teal-600 to-cyan-600 text-white rounded-lg p-6">
-                <h3 className="text-xl font-bold mb-2">🛡️ {lang === 'nl' ? 'Reisverzekering' : 'Travel Insurance'}</h3>
+                <h3 className="text-xl font-bold mb-2">{lang === 'nl' ? 'Reisverzekering' : 'Travel Insurance'}</h3>
                 <p className="text-sm opacity-90 mb-4">
                   {lang === 'nl'
                     ? 'Bescherm jezelf op reis. Vergelijk de beste reisverzekeringen.'
@@ -204,7 +204,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
 
               {/* eSIM */}
               <div className="bg-white rounded-lg shadow-lg p-6">
-                <h3 className="text-xl font-bold mb-2">📱 Thailand eSIM</h3>
+                <h3 className="text-xl font-bold mb-2">Thailand eSIM</h3>
                 <p className="text-sm text-gray-600 mb-4">
                   {lang === 'nl'
                     ? 'Blijf verbonden in Thailand. Bestel je eSIM vooraf.'

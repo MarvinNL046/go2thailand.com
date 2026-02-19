@@ -397,7 +397,7 @@ export default function ComparisonPage({
             <section className="mb-10">
               <div className="bg-blue-50 border border-blue-200 rounded-xl p-6">
                 <div className="flex items-start gap-4">
-                  <div className="text-3xl flex-shrink-0">🏆</div>
+                  <div className="text-3xl flex-shrink-0"></div>
                   <div>
                     <h2 className="text-xl font-bold text-blue-900 mb-2">{t.ourVerdict}</h2>
                     <p className="text-blue-800 leading-relaxed">{enrichedData.verdict[lang]}</p>

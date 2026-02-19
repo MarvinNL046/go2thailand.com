@@ -29,11 +29,11 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
   ];
 
   const categories = [
-    { key: 'tourist', label: { en: 'Tourist Visas', nl: 'Toeristenvisa' }, icon: '🏖️' },
-    { key: 'work', label: { en: 'Work & Digital Nomad', nl: 'Werk & Digitale Nomade' }, icon: '💻' },
-    { key: 'long-stay', label: { en: 'Long-Stay Visas', nl: 'Langverblijfvisa' }, icon: '🏠' },
-    { key: 'premium', label: { en: 'Premium Visas', nl: 'Premium Visa' }, icon: '⭐' },
-    { key: 'general', label: { en: 'Processes & Info', nl: 'Processen & Info' }, icon: '📋' }
+    { key: 'tourist', label: { en: 'Tourist Visas', nl: 'Toeristenvisa' }, icon: '' },
+    { key: 'work', label: { en: 'Work & Digital Nomad', nl: 'Werk & Digitale Nomade' }, icon: '' },
+    { key: 'long-stay', label: { en: 'Long-Stay Visas', nl: 'Langverblijfvisa' }, icon: '' },
+    { key: 'premium', label: { en: 'Premium Visas', nl: 'Premium Visa' }, icon: '' },
+    { key: 'general', label: { en: 'Processes & Info', nl: 'Processen & Info' }, icon: '' }
   ];
 
   const jsonLd = {
@@ -121,7 +121,7 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
               return (
                 <div key={category.key} className="mb-12">
                   <h2 className="text-2xl font-bold text-gray-900 mb-6">
-                    {category.icon} {category.label[lang]}
+                    {category.label[lang]}
                   </h2>
                   <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
                     {categoryVisas.map(visa => (

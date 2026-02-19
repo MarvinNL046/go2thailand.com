@@ -88,7 +88,7 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
             rel="noopener noreferrer nofollow"
             className="text-center px-4 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-sm font-medium"
           >
-            🏨 Hotels
+            Hotels
           </a>
           <a 
             href={affiliateLinks.bundle}
@@ -96,7 +96,7 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
             rel="noopener noreferrer nofollow"
             className="text-center px-4 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-sm font-medium"
           >
-            ✈️ Hotel + Flight
+            Hotel + Flight
           </a>
           <a 
             href={affiliateLinks.transfers}
@@ -104,7 +104,7 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
             rel="noopener noreferrer nofollow"
             className="text-center px-4 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-sm font-medium"
           >
-            🚗 Transfers
+            Transfers
           </a>
           <a 
             href={affiliateLinks['car-rental']}
@@ -112,7 +112,7 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
             rel="noopener noreferrer nofollow"
             className="text-center px-4 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-sm font-medium"
           >
-            🚙 Car Rental
+            Car Rental
           </a>
         </div>
         

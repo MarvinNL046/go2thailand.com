@@ -120,13 +120,13 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  🌡️ {guide.weather.temperature.central}
+                  {guide.weather.temperature.central}
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  💧 {guide.weather.rainfall}
+                  {guide.weather.rainfall}
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  💨 {guide.weather.humidity} humidity
+                  {guide.weather.humidity} humidity
                 </div>
               </div>
             </div>
@@ -173,7 +173,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                 {/* Weather Details */}
                 <div className="bg-white rounded-lg shadow-lg p-8">
                   <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
-                    <span className="text-3xl mr-3">🌤️</span>
+                    <span className="text-3xl mr-3"></span>
                     Weather in {guide.month}
                   </h2>
                   
@@ -212,7 +212,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                 {/* Highlights */}
                 <div className="bg-white rounded-lg shadow-lg p-8">
                   <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
-                    <span className="text-3xl mr-3">✨</span>
+                    <span className="text-3xl mr-3"></span>
                     {guide.month} Highlights
                   </h2>
                   <ul className="space-y-3">
@@ -231,7 +231,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                 {guide.festivals.length > 0 && (
                   <div className="bg-gradient-to-r from-purple-50 to-pink-50 rounded-lg p-8">
                     <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
-                      <span className="text-3xl mr-3">🎉</span>
+                      <span className="text-3xl mr-3"></span>
                       Festivals & Events
                     </h2>
                     <div className="space-y-4">
@@ -248,7 +248,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                 {/* Best Destinations */}
                 <div className="bg-white rounded-lg shadow-lg p-8">
                   <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
-                    <span className="text-3xl mr-3">📍</span>
+                    <span className="text-3xl mr-3"></span>
                     Best Places to Visit
                   </h2>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -264,7 +264,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                 {/* Travel Tips */}
                 <div className="bg-blue-50 rounded-lg p-8">
                   <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
-                    <span className="text-3xl mr-3">💡</span>
+                    <span className="text-3xl mr-3"></span>
                     Travel Tips for {guide.month}
                   </h2>
                   <ul className="space-y-2">
@@ -317,7 +317,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                 {/* FAQ Section */}
                 <div className="bg-white rounded-lg shadow-lg p-8 mt-12">
                   <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
-                    <span className="text-3xl mr-3">❓</span>
+                    <span className="text-3xl mr-3"></span>
                     Frequently Asked Questions
                   </h2>
                   <div className="space-y-6">
@@ -355,7 +355,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                           href={`/city/${city.slug}/`} 
                           className="block text-thailand-blue hover:underline"
                         >
-                          📍 {city.name.en}
+                          {city.name.en}
                         </Link>
                       ))}
                     </div>

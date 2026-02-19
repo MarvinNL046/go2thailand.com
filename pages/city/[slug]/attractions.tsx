@@ -118,7 +118,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                     {city.region} Thailand
                   </span>
                   <span className="text-gray-200 text-sm">
-                    🎯 Attractions Guide
+                    Attractions Guide
                   </span>
                 </div>
                 <h1 className="text-4xl lg:text-6xl font-bold mb-4">
@@ -155,7 +155,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                 <div className="mb-12">
                   <div className="bg-gradient-to-r from-thailand-blue-50 to-thailand-red-50 rounded-xl p-8 mb-8">
                     <h2 className="text-3xl font-bold text-thailand-blue-900 mb-4">
-                      🏛️ Must-Visit Attractions
+                      Must-Visit Attractions
                     </h2>
                     <p className="text-thailand-blue-700 text-lg leading-relaxed">
                       {city.enhanced_description 
@@ -169,7 +169,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                   <div className="mb-12">
                     <div className="bg-white rounded-xl shadow-lg p-8">
                       <h3 className="text-2xl font-bold text-thailand-blue-900 mb-4 text-center">
-                        📍 Book Your Stay Near These Attractions
+                        Book Your Stay Near These Attractions
                       </h3>
                       <p className="text-gray-600 text-center mb-6">
                         Find the perfect hotel close to {city.name.en}'s top attractions

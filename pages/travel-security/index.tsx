@@ -25,13 +25,13 @@ export default function TravelSecurityPage() {
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  🔒 Encrypt Your Connection
+                  Encrypt Your Connection
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  🛡️ Protect Passwords
+                  Protect Passwords
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  🌐 Access Home Content
+                  Access Home Content
                 </div>
               </div>
               <div className="flex flex-wrap justify-center gap-4 mt-8">
@@ -66,7 +66,7 @@ export default function TravelSecurityPage() {
             <div className="bg-orange-50 border border-orange-200 rounded-lg mt-4">
               <div className="px-4 py-3">
                 <p className="text-sm text-center text-orange-800">
-                  💡 This page contains affiliate links. We may earn a commission at no extra cost to you when you purchase through our links. 😊
+                  This page contains affiliate links. We may earn a commission at no extra cost to you when you purchase through our links.
                 </p>
               </div>
             </div>
@@ -86,7 +86,7 @@ export default function TravelSecurityPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div className="text-center">
                   <div className="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <span className="text-2xl">⚠️</span>
+                    <span className="text-2xl"></span>
                   </div>
                   <h3 className="font-semibold mb-2">Public Wi-Fi Risks</h3>
                   <p className="text-gray-600 text-sm">
@@ -95,7 +95,7 @@ export default function TravelSecurityPage() {
                 </div>
                 <div className="text-center">
                   <div className="w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <span className="text-2xl">🔑</span>
+                    <span className="text-2xl"></span>
                   </div>
                   <h3 className="font-semibold mb-2">Password Theft</h3>
                   <p className="text-gray-600 text-sm">
@@ -104,7 +104,7 @@ export default function TravelSecurityPage() {
                 </div>
                 <div className="text-center">
                   <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <span className="text-2xl">🛡️</span>
+                    <span className="text-2xl"></span>
                   </div>
                   <h3 className="font-semibold mb-2">Identity Protection</h3>
                   <p className="text-gray-600 text-sm">
@@ -138,7 +138,7 @@ export default function TravelSecurityPage() {
                       <div className="flex text-thailand-gold">★★★★★</div>
                       <span className="text-sm text-gray-600">(4.8/5)</span>
                       <span className="inline-block bg-thailand-red text-white px-3 py-1 rounded-full text-sm font-medium ml-2">
-                        🔥 Save up to 74%
+                        Save up to 74%
                       </span>
                     </div>
                     <p className="text-gray-600 mb-6">

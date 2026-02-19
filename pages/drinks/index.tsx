@@ -37,30 +37,30 @@ interface DrinksPageProps {
 // Helper function to get category icon
 function getCategoryIcon(category: string) {
   const icons: Record<string, string> = {
-    'tea': '🫖',
-    'coffee': '☕',
-    'juice': '🥤',
-    'herbal': '🌿',
-    'alcohol': '🍺',
-    'natural': '🥥',
-    'mocktail': '🍹',
-    'soda': '🥤',
-    'milk': '🥛'
+    'tea': '',
+    'coffee': '',
+    'juice': '',
+    'herbal': '',
+    'alcohol': '',
+    'natural': '',
+    'mocktail': '',
+    'soda': '',
+    'milk': ''
   };
-  return icons[category] || '🍹';
+  return icons[category] || '';
 }
 
 // Helper function to get temperature icon
 function getTemperatureIcon(temp: string) {
   const icons: Record<string, string> = {
-    'hot': '🔥',
-    'cold': '🧊',
-    'both': '🌡️',
-    'room': '🏠',
-    'neat': '🥃',
-    'mixed': '🍸'
+    'hot': '',
+    'cold': '',
+    'both': '',
+    'room': '',
+    'neat': '',
+    'mixed': ''
   };
-  return icons[temp] || '🌡️';
+  return icons[temp] || '';
 }
 
 export default function DrinksPage({ drinks }: DrinksPageProps) {
@@ -129,35 +129,35 @@ export default function DrinksPage({ drinks }: DrinksPageProps) {
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
               <Link href="/drinks/category/tea/" className="group">
                 <div className="bg-gray-50 p-4 rounded-lg text-center hover:bg-thailand-red-50 transition-all border-2 border-transparent hover:border-thailand-red">
-                  <div className="text-3xl mb-2">🫖</div>
+                  <div className="text-3xl mb-2"></div>
                   <h3 className="font-semibold group-hover:text-thailand-red">Thai Tea</h3>
                   <p className="text-sm text-gray-600">{drinksByCategory['tea']?.length || 0} drinks</p>
                 </div>
               </Link>
               <Link href="/drinks/category/coffee/" className="group">
                 <div className="bg-gray-50 p-4 rounded-lg text-center hover:bg-thailand-blue-50 transition-all border-2 border-transparent hover:border-thailand-blue">
-                  <div className="text-3xl mb-2">☕</div>
+                  <div className="text-3xl mb-2"></div>
                   <h3 className="font-semibold group-hover:text-thailand-blue">Coffee</h3>
                   <p className="text-sm text-gray-600">{drinksByCategory['coffee']?.length || 0} drinks</p>
                 </div>
               </Link>
               <Link href="/drinks/category/juice/" className="group">
                 <div className="bg-gray-50 p-4 rounded-lg text-center hover:bg-green-50 transition-all border-2 border-transparent hover:border-green-500">
-                  <div className="text-3xl mb-2">🥤</div>
+                  <div className="text-3xl mb-2"></div>
                   <h3 className="font-semibold group-hover:text-green-600">Fresh Juices</h3>
                   <p className="text-sm text-gray-600">{drinksByCategory['juice']?.length || 0} drinks</p>
                 </div>
               </Link>
               <Link href="/drinks/category/alcohol/" className="group">
                 <div className="bg-gray-50 p-4 rounded-lg text-center hover:bg-amber-50 transition-all border-2 border-transparent hover:border-amber-500">
-                  <div className="text-3xl mb-2">🍺</div>
+                  <div className="text-3xl mb-2"></div>
                   <h3 className="font-semibold group-hover:text-amber-600">Alcohol</h3>
                   <p className="text-sm text-gray-600">{drinksByCategory['alcohol']?.length || 0} drinks</p>
                 </div>
               </Link>
               <Link href="/drinks/category/herbal/" className="group">
                 <div className="bg-gray-50 p-4 rounded-lg text-center hover:bg-purple-50 transition-all border-2 border-transparent hover:border-purple-500">
-                  <div className="text-3xl mb-2">🌿</div>
+                  <div className="text-3xl mb-2"></div>
                   <h3 className="font-semibold group-hover:text-purple-600">Herbal</h3>
                   <p className="text-sm text-gray-600">{drinksByCategory['herbal']?.length || 0} drinks</p>
                 </div>
@@ -253,7 +253,7 @@ export default function DrinksPage({ drinks }: DrinksPageProps) {
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-orange-100">
-                <div className="text-5xl mb-4">🌙</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Street Food &amp; Night Market Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Street food &amp; night market tours
@@ -268,7 +268,7 @@ export default function DrinksPage({ drinks }: DrinksPageProps) {
                 </a>
               </div>
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-blue-100">
-                <div className="text-5xl mb-4">👨‍🍳</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Cooking &amp; Tasting Experiences</h3>
                 <p className="text-gray-600 mb-6">
                   Thai cooking &amp; tasting experiences
@@ -300,21 +300,21 @@ export default function DrinksPage({ drinks }: DrinksPageProps) {
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div className="bg-gray-50 p-6 rounded-lg">
-                  <div className="text-3xl mb-3">☀️</div>
+                  <div className="text-3xl mb-3"></div>
                   <h3 className="font-semibold mb-2">Morning Rituals</h3>
                   <p className="text-sm text-gray-600">
                     Start with Thai coffee (Oliang) or fresh fruit juice
                   </p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-lg">
-                  <div className="text-3xl mb-3">🌤️</div>
+                  <div className="text-3xl mb-3"></div>
                   <h3 className="font-semibold mb-2">Afternoon Cool Down</h3>
                   <p className="text-sm text-gray-600">
                     Thai iced tea and herbal drinks beat the heat
                   </p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-lg">
-                  <div className="text-3xl mb-3">🌙</div>
+                  <div className="text-3xl mb-3"></div>
                   <h3 className="font-semibold mb-2">Evening Social</h3>
                   <p className="text-sm text-gray-600">
                     Local beers and spirits for social gatherings

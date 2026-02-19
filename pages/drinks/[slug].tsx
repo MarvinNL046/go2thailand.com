@@ -23,12 +23,12 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
   // Helper function for temperature display
   const getTemperatureDisplay = (temp: string) => {
     const displays: Record<string, string> = {
-      'hot': '🔥 Served Hot',
-      'cold': '🧊 Served Cold',
-      'both': '🌡️ Hot or Cold',
-      'room': '🏠 Room Temperature',
-      'neat': '🥃 Served Neat',
-      'mixed': '🍸 Mixed Drink'
+      'hot': 'Served Hot',
+      'cold': 'Served Cold',
+      'both': 'Hot or Cold',
+      'room': 'Room Temperature',
+      'neat': 'Served Neat',
+      'mixed': 'Mixed Drink'
     };
     return displays[temp] || temp;
   };
@@ -72,12 +72,12 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
                 <div className="absolute top-4 left-4 flex flex-col gap-2">
                   {drink.alcohol_content !== 'none' && (
                     <span className="bg-amber-500 text-white px-3 py-1 rounded-full text-sm font-medium">
-                      🍺 {drink.alcohol_content} alcohol
+                      {drink.alcohol_content} alcohol
                     </span>
                   )}
                   {drink.caffeine !== 'none' && (
                     <span className="bg-purple-500 text-white px-3 py-1 rounded-full text-sm font-medium">
-                      ☕ {drink.caffeine} caffeine
+                      {drink.caffeine} caffeine
                     </span>
                   )}
                   <span className="bg-thailand-blue text-white px-3 py-1 rounded-full text-sm font-medium">
@@ -100,13 +100,13 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
                 <FadeInText delay={200}>
                   <div className="flex flex-wrap gap-2 mb-6">
                     <span className="bg-gray-100 px-3 py-1 rounded-full text-sm">
-                      📂 {drink.category}
+                      {drink.category}
                     </span>
                     <span className="bg-gray-100 px-3 py-1 rounded-full text-sm">
-                      💰 {drink.price_range}
+                      {drink.price_range}
                     </span>
                     <span className="bg-gray-100 px-3 py-1 rounded-full text-sm">
-                      📍 {drink.region === 'all' ? 'All Thailand' : `${drink.region} region`}
+                      {drink.region === 'all' ? 'All Thailand' : `${drink.region} region`}
                     </span>
                   </div>
                 </FadeInText>
@@ -291,7 +291,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-orange-100">
-                <div className="text-5xl mb-4">🌙</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Street Food &amp; Night Market Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Street food &amp; night market tours
@@ -306,7 +306,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
                 </a>
               </div>
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-blue-100">
-                <div className="text-5xl mb-4">👨‍🍳</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Cooking &amp; Tasting Experiences</h3>
                 <p className="text-gray-600 mb-6">
                   Thai cooking &amp; tasting experiences

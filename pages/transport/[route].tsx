@@ -29,18 +29,18 @@ interface RoutePageProps {
 
 const getTransportIcon = (method: string) => {
   switch(method.toLowerCase()) {
-    case 'flight': return '✈️';
-    case 'bus': return '🚌';
-    case 'train': return '🚂';
-    case 'taxi': return '🚖';
-    case 'car': return '🚗';
-    case 'ferry': return '⛴️';
-    default: return '🚐';
+    case 'flight': return '';
+    case 'bus': return '';
+    case 'train': return '';
+    case 'taxi': return '';
+    case 'car': return '';
+    case 'ferry': return '';
+    default: return '';
   }
 };
 
 const getComfortStars = (rating: number) => {
-  return '⭐'.repeat(rating) + '☆'.repeat(5 - rating);
+  return '*'.repeat(rating) + '-'.repeat(5 - rating);
 };
 
 const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity, transportOptions }) => {
@@ -181,7 +181,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                     <ul className="space-y-1">
                       {option.bookingTips.map((tip, idx) => (
                         <li key={idx} className="flex items-start">
-                          <span className="text-blue-500 mr-2">💡</span>
+                          <span className="text-blue-500 mr-2">Tip:</span>
                           <span className="text-sm text-gray-700">{tip}</span>
                         </li>
                       ))}
@@ -277,7 +277,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
             <div className="lg:sticky lg:top-4 space-y-6">
             {/* 12Go Search Widget */}
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-3">🔍 Search Transport</h3>
+              <h3 className="text-lg font-semibold mb-3">Search Transport</h3>
               <AffiliateWidget
                 scriptContent={`<script async src="https://tpembd.com/content?trs=421888&shmarker=602467&locale=en&from=${encodeURIComponent(fromCity.name.en)}&to=${encodeURIComponent(toCity.name.en)}&from_en=${encodeURIComponent(fromCity.name.en)}&to_en=${encodeURIComponent(toCity.name.en)}&powered_by=true&color=black&border=1&campaign_id=44&promo_id=1506" charset="utf-8"></script>`}
                 minHeight="250px"
@@ -286,7 +286,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
 
             {/* 12Go Booking */}
             <div className="bg-gradient-to-br from-green-50 to-teal-50 rounded-lg shadow-md p-6 border border-green-200">
-              <h3 className="text-lg font-semibold mb-3">🚌 Book Transport</h3>
+              <h3 className="text-lg font-semibold mb-3">Book Transport</h3>
               <p className="text-sm text-gray-600 mb-4">
                 Book buses, trains, and ferries from {fromCity.name.en} to {toCity.name.en} on 12Go — Thailand&apos;s most popular transport booking platform.
               </p>
@@ -318,7 +318,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
 
             {/* Other Routes Selector */}
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">🚌 Popular Routes</h3>
+              <h3 className="text-lg font-semibold mb-4">Popular Routes</h3>
               <select 
                 className="w-full p-2 border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-orange-500 mb-4"
                 value={route.slug}

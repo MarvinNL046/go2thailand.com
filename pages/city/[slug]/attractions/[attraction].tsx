@@ -367,7 +367,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 {/* Trip.com Bundle Widget */}
                 <div className="bg-gradient-to-r from-thailand-blue-50 to-thailand-red-50 rounded-xl p-8">
                   <h3 className="text-2xl font-bold text-thailand-blue-900 mb-4 text-center">
-                    ✈️ Save on Hotels & Flights
+                    Save on Hotels & Flights
                   </h3>
                   <p className="text-gray-700 text-center mb-6">
                     Bundle your {city.name.en} hotel and flight for the best deals

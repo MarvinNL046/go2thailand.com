@@ -107,16 +107,16 @@ export default function PracticalInfoIndexPage({ items }: PracticalInfoPageProps
             </h2>
             <div className="flex flex-wrap justify-center gap-4">
               <Link href="/visa/" className="bg-indigo-100 text-indigo-700 px-6 py-3 rounded-lg font-medium hover:bg-indigo-200 transition-colors">
-                🛂 {lang === 'nl' ? 'Visum Gids' : 'Visa Guide'}
+                {lang === 'nl' ? 'Visum Gids' : 'Visa Guide'}
               </Link>
               <Link href="/weather/" className="bg-blue-100 text-blue-700 px-6 py-3 rounded-lg font-medium hover:bg-blue-200 transition-colors">
-                🌤️ {lang === 'nl' ? 'Weer Gids' : 'Weather Guide'}
+                {lang === 'nl' ? 'Weer Gids' : 'Weather Guide'}
               </Link>
               <Link href="/transport/" className="bg-green-100 text-green-700 px-6 py-3 rounded-lg font-medium hover:bg-green-200 transition-colors">
-                🚌 {lang === 'nl' ? 'Transport' : 'Transport'}
+                {lang === 'nl' ? 'Transport' : 'Transport'}
               </Link>
               <Link href="/esim/" className="bg-purple-100 text-purple-700 px-6 py-3 rounded-lg font-medium hover:bg-purple-200 transition-colors">
-                📱 eSIM
+                eSIM
               </Link>
             </div>
           </div>

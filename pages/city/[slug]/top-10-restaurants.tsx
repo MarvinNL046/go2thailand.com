@@ -139,16 +139,16 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
               {restaurantsData.data_sources && (
                 <div className="flex justify-center items-center gap-2 text-sm text-gray-500 mb-6">
                   <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full">
-                    📊 Current Data
+                    Current Data
                   </span>
                   {restaurantsData.hybrid && (
                     <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full">
-                      🤖 Expert Curated
+                      Expert Curated
                     </span>
                   )}
                   {restaurantsData.last_perplexity_update && (
                     <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full">
-                      🔄 Updated {new Date(restaurantsData.last_perplexity_update).toLocaleDateString()}
+                      Updated {new Date(restaurantsData.last_perplexity_update).toLocaleDateString()}
                     </span>
                   )}
                 </div>
@@ -192,13 +192,13 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
                     <h3 className="text-lg font-semibold text-gray-900 mb-4">Explore More</h3>
                     <div className="space-y-3">
                       <Link href={`/city/${city.slug}/`} className="block text-thailand-blue hover:underline">
-                        📍 {city.name.en} Guide
+                        {city.name.en} Guide
                       </Link>
                       <Link href={`/city/${city.slug}/top-10-hotels/`} className="block text-thailand-blue hover:underline">
-                        🏨 Top 10 Hotels
+                        Top 10 Hotels
                       </Link>
                       <Link href={`/city/${city.slug}/top-10-attractions/`} className="block text-thailand-blue hover:underline">
-                        🎯 Top 10 Attractions
+                        Top 10 Attractions
                       </Link>
                     </div>
                   </div>
@@ -227,11 +227,11 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
                               </h2>
                               {restaurant.current_price && (
                                 <div className="text-lg text-green-600 font-semibold mb-2">
-                                  💰 {restaurant.current_price}
+                                  {restaurant.current_price}
                                 </div>
                               )}
                               <div className="text-gray-600 mb-2">
-                                📍 {restaurant.location}
+                                {restaurant.location}
                               </div>
                             </div>
                           </div>
@@ -299,7 +299,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
                   {/* Book a Food Experience - Affiliate CTA */}
                   <div className="bg-gradient-to-br from-orange-50 to-orange-100 rounded-lg shadow-lg p-8 text-center border border-orange-200">
                     <h3 className="text-2xl font-bold text-gray-900 mb-3">
-                      🍳 Book a Food Experience in {city.name.en}
+                      Book a Food Experience in {city.name.en}
                     </h3>
                     <p className="text-gray-600 mb-6">
                       Take your taste buds further with hands-on cooking classes and guided food tours in {city.name.en}.

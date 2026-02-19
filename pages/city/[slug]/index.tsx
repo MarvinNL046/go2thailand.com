@@ -417,7 +417,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                 {city.hidden_gems && city.hidden_gems.length > 0 && (
                   <div className="mb-12">
                     <h2 className="text-3xl font-bold text-gray-900 mb-6">
-                      🏰 Hidden Gems
+                      Hidden Gems
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                       {(showAllHiddenGems ? city.hidden_gems : city.hidden_gems.slice(0, 2)).map((gem, index) => (
@@ -485,7 +485,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                 {city.authentic_experiences && city.authentic_experiences.length > 0 && (
                   <div className="mb-12">
                     <h2 className="text-3xl font-bold text-gray-900 mb-6">
-                      🎭 Authentic Experiences
+                      Authentic Experiences
                     </h2>
                     <div className="space-y-6">
                       {(showAllExperiences ? city.authentic_experiences : city.authentic_experiences.slice(0, 1)).map((experience, index) => (
@@ -589,13 +589,13 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                 {/* Where to Stay Section */}
                 <div className="mb-12">
                   <h2 className="text-3xl font-bold text-gray-900 mb-6">
-                    🏨 Where to Stay in {city.name.en}
+                    Where to Stay in {city.name.en}
                   </h2>
                   <div className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-6 border border-blue-200">
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
                       {/* Budget Hotels */}
                       <div className="bg-white rounded-lg p-4 shadow-sm">
-                        <h3 className="font-semibold text-lg mb-2 text-gray-900">💰 Budget Hotels</h3>
+                        <h3 className="font-semibold text-lg mb-2 text-gray-900">Budget Hotels</h3>
                         <p className="text-gray-600 text-sm mb-3">Great value accommodations from $10-30/night</p>
                         <a 
                           href={`https://trip.tpo.lv/TmObooZ5`}
@@ -609,7 +609,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                       
                       {/* Mid-Range Hotels */}
                       <div className="bg-white rounded-lg p-4 shadow-sm">
-                        <h3 className="font-semibold text-lg mb-2 text-gray-900">⭐ Mid-Range Hotels</h3>
+                        <h3 className="font-semibold text-lg mb-2 text-gray-900">Mid-Range Hotels</h3>
                         <p className="text-gray-600 text-sm mb-3">Comfortable stays from $30-80/night</p>
                         <a 
                           href={`https://trip.tpo.lv/TmObooZ5`}
@@ -623,7 +623,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                       
                       {/* Luxury Hotels */}
                       <div className="bg-white rounded-lg p-4 shadow-sm">
-                        <h3 className="font-semibold text-lg mb-2 text-gray-900">✨ Luxury Hotels</h3>
+                        <h3 className="font-semibold text-lg mb-2 text-gray-900">Luxury Hotels</h3>
                         <p className="text-gray-600 text-sm mb-3">Premium experiences from $80+/night</p>
                         <a 
                           href={`https://trip.tpo.lv/TmObooZ5`}
@@ -644,7 +644,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                         rel="noopener noreferrer"
                         className="inline-flex items-center justify-center bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
                       >
-                        🔍 Search on Trip.com
+                        Search on Trip.com
                       </a>
                       <a
                         href="https://booking.tpo.lv/2PT1kR82"
@@ -652,11 +652,11 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                         rel="noopener noreferrer"
                         className="inline-flex items-center justify-center bg-blue-800 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-900 transition-colors"
                       >
-                        🏨 Search on Booking.com
+                        Search on Booking.com
                       </a>
                     </div>
                     <p className="text-xs text-gray-600 mt-2 text-center">
-                      💡 We earn a commission when you book through our links at no extra cost to you
+                      We earn a commission when you book through our links at no extra cost to you
                     </p>
                   </div>
                 </div>
@@ -664,13 +664,13 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                 {/* Travel Services Section */}
                 <div className="mb-12">
                   <h2 className="text-3xl font-bold text-gray-900 mb-6">
-                    ✈️ Complete Travel Services for {city.name.en}
+                    Complete Travel Services for {city.name.en}
                   </h2>
                   <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
                     {/* Hotel + Flight Bundle */}
                     <div className="bg-gradient-to-br from-purple-50 to-indigo-50 rounded-lg p-4 border border-purple-200 hover:shadow-lg transition-shadow">
                       <div className="text-center">
-                        <div className="text-3xl mb-2">✈️🏨</div>
+                        <div className="text-3xl mb-2"></div>
                         <h3 className="font-semibold text-gray-900 mb-2">Flight + Hotel</h3>
                         <p className="text-sm text-gray-600 mb-3">Save up to 20% with bundles</p>
                         <a 
@@ -687,7 +687,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                     {/* Airport Transfers */}
                     <div className="bg-gradient-to-br from-green-50 to-emerald-50 rounded-lg p-4 border border-green-200 hover:shadow-lg transition-shadow">
                       <div className="text-center">
-                        <div className="text-3xl mb-2">🚕</div>
+                        <div className="text-3xl mb-2"></div>
                         <h3 className="font-semibold text-gray-900 mb-2">Airport Transfers</h3>
                         <p className="text-sm text-gray-600 mb-3">Door-to-door convenience</p>
                         <a 
@@ -704,7 +704,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                     {/* Car Rental */}
                     <div className="bg-gradient-to-br from-orange-50 to-red-50 rounded-lg p-4 border border-orange-200 hover:shadow-lg transition-shadow">
                       <div className="text-center">
-                        <div className="text-3xl mb-2">🚗</div>
+                        <div className="text-3xl mb-2"></div>
                         <h3 className="font-semibold text-gray-900 mb-2">Car Rental</h3>
                         <p className="text-sm text-gray-600 mb-3">Explore at your own pace</p>
                         <a 
@@ -721,7 +721,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                     {/* 12Go Transport */}
                     <div className="bg-gradient-to-br from-green-50 to-teal-50 rounded-lg p-4 border border-green-200 hover:shadow-lg transition-shadow">
                       <div className="text-center">
-                        <div className="text-3xl mb-2">🚌</div>
+                        <div className="text-3xl mb-2"></div>
                         <h3 className="font-semibold text-gray-900 mb-2">Bus, Train & Ferry</h3>
                         <p className="text-sm text-gray-600 mb-3">Book transport on 12Go</p>
                         <a
@@ -738,7 +738,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                   
                   <div className="mt-4 text-center">
                     <p className="text-xs text-gray-500">
-                      💡 Book with confidence - 24/7 customer support & best price guarantee
+                      Book with confidence - 24/7 customer support & best price guarantee
                     </p>
                   </div>
                 </div>
@@ -746,7 +746,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                 {/* 12Go Transport Widget */}
                 <div className="mb-12">
                   <h2 className="text-3xl font-bold text-gray-900 mb-6">
-                    🚌 Book Transport from {cityName}
+                    Book Transport from {cityName}
                   </h2>
                   <div className="bg-white rounded-lg shadow-md p-6 border border-green-200">
                     <AffiliateWidget
@@ -772,7 +772,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                 {/* Activities & Tours Section */}
                 <div className="mb-12">
                   <h2 className="text-3xl font-bold text-gray-900 mb-6">
-                    🎯 Activities & Tours in {cityName}
+                    Activities & Tours in {cityName}
                   </h2>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <a
@@ -791,7 +791,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                       className="bg-gradient-to-br from-orange-50 to-yellow-50 rounded-lg p-6 border border-orange-200 hover:shadow-lg transition-shadow block"
                     >
                       <div className="flex items-center mb-3">
-                        <div className="text-2xl mr-3">🎯</div>
+                        <div className="text-2xl mr-3"></div>
                         <h3 className="font-bold text-gray-900">Klook Activities</h3>
                       </div>
                       <p className="text-sm text-gray-600 mb-3">
@@ -817,7 +817,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                       className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-lg p-6 border border-blue-200 hover:shadow-lg transition-shadow block"
                     >
                       <div className="flex items-center mb-3">
-                        <div className="text-2xl mr-3">🗺️</div>
+                        <div className="text-2xl mr-3"></div>
                         <h3 className="font-bold text-gray-900">GetYourGuide Tours</h3>
                       </div>
                       <p className="text-sm text-gray-600 mb-3">
@@ -839,7 +839,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                 {city.foodie_adventures && city.foodie_adventures.length > 0 && (
                   <div className="mb-12">
                     <h2 className="text-3xl font-bold text-gray-900 mb-6">
-                      🍜 Foodie Adventures
+                      Foodie Adventures
                     </h2>
                     <div className="space-y-8">
                       {(showAllFoodAdventures ? city.foodie_adventures : city.foodie_adventures.slice(0, 2)).map((food, index) => (
@@ -969,7 +969,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                 {city.local_insights && city.local_insights.length > 0 && (
                   <div className="mb-12">
                     <h2 className="text-3xl font-bold text-gray-900 mb-6">
-                      🤝 Local Insights
+                      Local Insights
                     </h2>
                     <div className="bg-gradient-to-r from-teal-50 to-cyan-50 border border-teal-200 rounded-xl p-6">
                       <div className="flex items-center mb-4">
@@ -1001,7 +1001,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                                       <p className="text-gray-700 text-sm leading-relaxed">{insight.tip}</p>
                                     )}
                                     {insight.surprise && (
-                                      <p className="text-teal-600 text-xs italic mt-1">💡 {insight.surprise}</p>
+                                      <p className="text-teal-600 text-xs italic mt-1">{insight.surprise}</p>
                                     )}
                                   </div>
                                 )}
@@ -1222,7 +1222,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                   </div>
                 </div>
 
-                {/* 💰 SIDEBAR AD - THE MONEY MAKER! */}
+                {/* SIDEBAR AD - THE MONEY MAKER! */}
 
                 {/* Enhanced Seasonal Secrets */}
                 {city.seasonal_secrets ? (
@@ -1233,7 +1233,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                           <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clipRule="evenodd" />
                         </svg>
                       </div>
-                      <h3 className="text-xl font-bold text-gray-900">🌅 Best Time to Visit</h3>
+                      <h3 className="text-xl font-bold text-gray-900">Best Time to Visit</h3>
                     </div>
                     
                     <div className="space-y-4">
@@ -1248,7 +1248,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                       {city.seasonal_secrets.local_festivals && city.seasonal_secrets.local_festivals.length > 0 && (
                         <div>
                           <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
-                            <span className="text-sm mr-2">🎊</span> Local Festivals
+                            Local Festivals
                           </h4>
                           <div className="space-y-1">
                             {city.seasonal_secrets.local_festivals.map((festival, i) => (
@@ -1263,7 +1263,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                       {city.seasonal_secrets.seasonal_foods && city.seasonal_secrets.seasonal_foods.length > 0 && (
                         <div>
                           <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
-                            <span className="text-sm mr-2">🍎</span> Seasonal Foods
+                            Seasonal Foods
                           </h4>
                           <div className="flex flex-wrap gap-1">
                             {city.seasonal_secrets.seasonal_foods.map((food, i) => (
@@ -1278,7 +1278,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                       {city.seasonal_secrets.insider_tips && city.seasonal_secrets.insider_tips.length > 0 && (
                         <div>
                           <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
-                            <span className="text-sm mr-2">💡</span> Insider Tips
+                            Insider Tips
                           </h4>
                           <div className="space-y-1">
                             {city.seasonal_secrets.insider_tips.slice(0, 2).map((tip, i) => (
@@ -1313,7 +1313,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                           <path d="M4 4a2 2 0 00-2 2v4a2 2 0 002 2V6h10a2 2 0 00-2-2H4zm2 6a2 2 0 012-2h8a2 2 0 012 2v4a2 2 0 01-2 2H8a2 2 0 01-2-2v-4zm6 4a2 2 0 100-4 2 2 0 000 4z" />
                         </svg>
                       </div>
-                      <h3 className="text-xl font-bold text-gray-900">💰 Budget Reality</h3>
+                      <h3 className="text-xl font-bold text-gray-900">Budget Reality</h3>
                     </div>
                     
                     <div className="space-y-4">
@@ -1335,7 +1335,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                       {city.budget_reality.examples && city.budget_reality.examples.length > 0 && (
                         <div>
                           <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
-                            <span className="text-sm mr-2">📊</span> Real Prices
+                            Real Prices
                           </h4>
                           <div className="space-y-1">
                             {city.budget_reality.examples.slice(0, 3).map((example, i) => (
@@ -1351,7 +1351,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                       {city.budget_reality.money_saving_tricks && city.budget_reality.money_saving_tricks.length > 0 && (
                         <div>
                           <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
-                            <span className="text-sm mr-2">💡</span> Money-Saving Tricks
+                            Money-Saving Tricks
                           </h4>
                           <div className="space-y-1">
                             {city.budget_reality.money_saving_tricks.slice(0, 2).map((trick, i) => (
@@ -1366,7 +1366,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                       {city.budget_reality.hidden_costs && city.budget_reality.hidden_costs.length > 0 && (
                         <div>
                           <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
-                            <span className="text-sm mr-2">⚠️</span> Hidden Costs
+                            Hidden Costs
                           </h4>
                           <div className="space-y-1">
                             {city.budget_reality.hidden_costs.slice(0, 2).map((cost, i) => (

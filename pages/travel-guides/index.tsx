@@ -13,7 +13,7 @@ export default function TravelGuidesIndex() {
       title: 'Thailand Weather by Month',
       href: '/travel-guides/thailand-weather/',
       description: 'Complete monthly weather guide with temperatures, rainfall, and best times to visit',
-      icon: '🌤️'
+      icon: ''
     },
     // More guides can be added here in the future
   ];
@@ -70,21 +70,21 @@ export default function TravelGuidesIndex() {
             <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
               <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="group">
                 <div className="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
-                  <div className="text-4xl mb-3">🏨</div>
+                  <div className="text-4xl mb-3"></div>
                   <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Hotels & Resorts</h3>
                   <p className="text-gray-600 text-sm">Find great deals on Thailand accommodation on Trip.com</p>
                 </div>
               </a>
               <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer" className="group">
                 <div className="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
-                  <div className="text-4xl mb-3">🚂</div>
+                  <div className="text-4xl mb-3"></div>
                   <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Transport</h3>
                   <p className="text-gray-600 text-sm">Book trains, buses, ferries, and flights via 12Go Asia</p>
                 </div>
               </a>
               <Link href="/activities/" className="group">
                 <div className="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
-                  <div className="text-4xl mb-3">🎯</div>
+                  <div className="text-4xl mb-3"></div>
                   <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Activities & Tours</h3>
                   <p className="text-gray-600 text-sm">Discover the best tours, excursions, and experiences</p>
                 </div>

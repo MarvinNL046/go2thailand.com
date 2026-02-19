@@ -41,55 +41,55 @@ const categoryInfo = {
   'tea': {
     title: 'Thai Tea',
     description: 'Traditional Thai teas including the famous Thai iced tea and herbal varieties',
-    icon: '🫖',
+    icon: '',
     color: 'amber'
   },
   'coffee': {
     title: 'Thai Coffee',
     description: 'Rich and aromatic Thai coffee drinks from traditional to modern styles',
-    icon: '☕',
+    icon: '',
     color: 'brown'
   },
   'juice': {
     title: 'Fresh Juices',
     description: 'Tropical fruit juices and refreshing blends made from exotic Thai fruits',
-    icon: '🥤',
+    icon: '',
     color: 'orange'
   },
   'herbal': {
     title: 'Herbal Drinks',
     description: 'Health-boosting herbal beverages and traditional Thai medicinal drinks',
-    icon: '🌿',
+    icon: '',
     color: 'green'
   },
   'alcohol': {
     title: 'Alcoholic Beverages',
     description: 'Thai beers, spirits, and traditional alcoholic drinks',
-    icon: '🍺',
+    icon: '',
     color: 'yellow'
   },
   'natural': {
     title: 'Natural Drinks',
     description: 'Coconut water and other natural Thai beverages',
-    icon: '🥥',
+    icon: '',
     color: 'blue'
   },
   'mocktail': {
     title: 'Mocktails',
     description: 'Non-alcoholic cocktails with Thai flavors and ingredients',
-    icon: '🍹',
+    icon: '',
     color: 'pink'
   },
   'soda': {
     title: 'Sodas & Soft Drinks',
     description: 'Thai sodas and carbonated beverages with unique local flavors',
-    icon: '🥤',
+    icon: '',
     color: 'purple'
   },
   'milk': {
     title: 'Milk-Based Drinks',
     description: 'Thai milk teas and creamy beverages',
-    icon: '🥛',
+    icon: '',
     color: 'gray'
   }
 };
@@ -97,12 +97,12 @@ const categoryInfo = {
 // Helper function to get temperature display
 const getTemperatureDisplay = (temp: string) => {
   const displays: Record<string, string> = {
-    'hot': '🔥 Hot',
-    'cold': '🧊 Cold',
-    'both': '🌡️ Hot/Cold',
-    'room': '🏠 Room temp',
-    'neat': '🥃 Neat',
-    'mixed': '🍸 Mixed'
+    'hot': 'Hot',
+    'cold': 'Cold',
+    'both': 'Hot/Cold',
+    'room': 'Room temp',
+    'neat': 'Neat',
+    'mixed': 'Mixed'
   };
   return displays[temp] || temp;
 };
@@ -115,7 +115,7 @@ export default function DrinkCategoryPage({ category, drinks }: CategoryPageProp
   const info = categoryInfo[category as keyof typeof categoryInfo] || {
     title: category.charAt(0).toUpperCase() + category.slice(1),
     description: `Browse all ${category} drinks`,
-    icon: '🍹',
+    icon: '',
     color: 'gray'
   };
 
@@ -348,7 +348,7 @@ export default function DrinkCategoryPage({ category, drinks }: CategoryPageProp
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-orange-100">
-                <div className="text-5xl mb-4">🌙</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Street Food &amp; Night Market Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Street food &amp; night market tours
@@ -363,7 +363,7 @@ export default function DrinkCategoryPage({ category, drinks }: CategoryPageProp
                 </a>
               </div>
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-blue-100">
-                <div className="text-5xl mb-4">👨‍🍳</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Cooking &amp; Tasting Experiences</h3>
                 <p className="text-gray-600 mb-6">
                   Thai cooking &amp; tasting experiences

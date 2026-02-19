@@ -283,10 +283,10 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                 <div className="bg-white rounded-lg shadow-lg p-6">
                   <h3 className="font-bold text-lg mb-4">Explore More</h3>
                   <div className="space-y-2">
-                    <Link href="/islands/" className="block text-thailand-blue hover:underline text-sm">🏝️ Thailand Islands</Link>
-                    <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">🛂 Visa Guide</Link>
-                    <Link href="/food/" className="block text-thailand-blue hover:underline text-sm">🍜 Thai Food</Link>
-                    <Link href="/practical-info/" className="block text-thailand-blue hover:underline text-sm">📋 Practical Info</Link>
+                    <Link href="/islands/" className="block text-thailand-blue hover:underline text-sm">Thailand Islands</Link>
+                    <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">Visa Guide</Link>
+                    <Link href="/food/" className="block text-thailand-blue hover:underline text-sm">Thai Food</Link>
+                    <Link href="/practical-info/" className="block text-thailand-blue hover:underline text-sm">Practical Info</Link>
                     <Link href="/blog/" className="block text-thailand-blue hover:underline text-sm">← All blog posts</Link>
                   </div>
                 </div>
@@ -344,7 +344,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
 
                 {/* eSIM */}
                 <div className="bg-white rounded-lg shadow-lg p-6">
-                  <h3 className="text-xl font-bold mb-2">📱 Thailand eSIM</h3>
+                  <h3 className="text-xl font-bold mb-2">Thailand eSIM</h3>
                   <p className="text-sm text-gray-600 mb-4">
                     Stay connected in Thailand. Order your eSIM before you go.
                   </p>
@@ -363,7 +363,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
 
                 {/* Travel Insurance */}
                 <div className="bg-gradient-to-r from-teal-600 to-cyan-600 text-white rounded-lg p-6">
-                  <h3 className="text-xl font-bold mb-2">🛡️ Travel Insurance</h3>
+                  <h3 className="text-xl font-bold mb-2">Travel Insurance</h3>
                   <p className="text-sm opacity-90 mb-4">
                     Protect yourself while traveling. Compare the best travel insurance.
                   </p>
@@ -374,7 +374,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
 
                 {/* Transport */}
                 <div className="bg-white rounded-lg shadow-lg p-6">
-                  <h3 className="text-xl font-bold mb-3">🚌 Transport</h3>
+                  <h3 className="text-xl font-bold mb-3">Transport</h3>
                   <a
                     href="https://12go.tpo.lv/tNA80urD"
                     target="_blank"

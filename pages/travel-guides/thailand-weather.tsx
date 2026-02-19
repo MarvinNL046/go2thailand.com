@@ -63,21 +63,21 @@ export default function ThailandWeatherPage({ months }: ThailandWeatherPageProps
               
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
                 <div className="bg-blue-50 rounded-lg p-6 text-center">
-                  <div className="text-4xl mb-3">❄️</div>
+                  <div className="text-4xl mb-3"></div>
                   <h3 className="font-semibold text-gray-900 mb-2">Cool Season</h3>
                   <p className="text-sm text-gray-600 mb-2">November - February</p>
                   <p className="text-gray-700">Best weather, minimal rain, peak tourist season</p>
                 </div>
                 
                 <div className="bg-orange-50 rounded-lg p-6 text-center">
-                  <div className="text-4xl mb-3">☀️</div>
+                  <div className="text-4xl mb-3"></div>
                   <h3 className="font-semibold text-gray-900 mb-2">Hot Season</h3>
                   <p className="text-sm text-gray-600 mb-2">March - May</p>
                   <p className="text-gray-700">High temperatures, Songkran festival, fewer tourists</p>
                 </div>
                 
                 <div className="bg-green-50 rounded-lg p-6 text-center">
-                  <div className="text-4xl mb-3">🌧️</div>
+                  <div className="text-4xl mb-3"></div>
                   <h3 className="font-semibold text-gray-900 mb-2">Rainy Season</h3>
                   <p className="text-sm text-gray-600 mb-2">June - October</p>
                   <p className="text-gray-700">Daily showers, lush landscapes, best deals</p>
@@ -108,8 +108,8 @@ export default function ThailandWeatherPage({ months }: ThailandWeatherPageProps
                       </h3>
                       
                       <div className="flex items-center justify-between mb-3 text-sm">
-                        <span className="text-gray-600">🌡️ {month.weather.temperature.central}</span>
-                        <span className="text-gray-600">💧 {month.weather.rainfall}</span>
+                        <span className="text-gray-600">{month.weather.temperature.central}</span>
+                        <span className="text-gray-600">{month.weather.rainfall}</span>
                       </div>
                       
                       <p className="text-gray-600 text-sm mb-4 line-clamp-2">
@@ -159,84 +159,84 @@ export default function ThailandWeatherPage({ months }: ThailandWeatherPageProps
                     <td className="px-6 py-4">January</td>
                     <td className="px-6 py-4 text-center">Cool</td>
                     <td className="px-6 py-4 text-center">20-32°C</td>
-                    <td className="px-6 py-4 text-center">⭐⭐⭐⭐⭐</td>
+                    <td className="px-6 py-4 text-center">*****</td>
                     <td className="px-6 py-4">Beach holidays, sightseeing</td>
                   </tr>
                   <tr className="bg-gray-50">
                     <td className="px-6 py-4">February</td>
                     <td className="px-6 py-4 text-center">Cool</td>
                     <td className="px-6 py-4 text-center">22-33°C</td>
-                    <td className="px-6 py-4 text-center">⭐⭐⭐⭐⭐</td>
+                    <td className="px-6 py-4 text-center">*****</td>
                     <td className="px-6 py-4">All activities</td>
                   </tr>
                   <tr>
                     <td className="px-6 py-4">March</td>
                     <td className="px-6 py-4 text-center">Hot</td>
                     <td className="px-6 py-4 text-center">25-36°C</td>
-                    <td className="px-6 py-4 text-center">⭐⭐⭐⭐</td>
+                    <td className="px-6 py-4 text-center">****</td>
                     <td className="px-6 py-4">Fewer crowds</td>
                   </tr>
                   <tr className="bg-gray-50">
                     <td className="px-6 py-4">April</td>
                     <td className="px-6 py-4 text-center">Hot</td>
                     <td className="px-6 py-4 text-center">28-39°C</td>
-                    <td className="px-6 py-4 text-center">⭐⭐⭐</td>
+                    <td className="px-6 py-4 text-center">***</td>
                     <td className="px-6 py-4">Songkran Festival</td>
                   </tr>
                   <tr>
                     <td className="px-6 py-4">May</td>
                     <td className="px-6 py-4 text-center">Hot/Rainy</td>
                     <td className="px-6 py-4 text-center">26-35°C</td>
-                    <td className="px-6 py-4 text-center">⭐⭐</td>
+                    <td className="px-6 py-4 text-center">**</td>
                     <td className="px-6 py-4">Budget travel</td>
                   </tr>
                   <tr className="bg-gray-50">
                     <td className="px-6 py-4">June</td>
                     <td className="px-6 py-4 text-center">Rainy</td>
                     <td className="px-6 py-4 text-center">26-33°C</td>
-                    <td className="px-6 py-4 text-center">⭐⭐</td>
+                    <td className="px-6 py-4 text-center">**</td>
                     <td className="px-6 py-4">Green landscapes</td>
                   </tr>
                   <tr>
                     <td className="px-6 py-4">July</td>
                     <td className="px-6 py-4 text-center">Rainy</td>
                     <td className="px-6 py-4 text-center">26-32°C</td>
-                    <td className="px-6 py-4 text-center">⭐⭐</td>
+                    <td className="px-6 py-4 text-center">**</td>
                     <td className="px-6 py-4">Cultural experiences</td>
                   </tr>
                   <tr className="bg-gray-50">
                     <td className="px-6 py-4">August</td>
                     <td className="px-6 py-4 text-center">Rainy</td>
                     <td className="px-6 py-4 text-center">26-32°C</td>
-                    <td className="px-6 py-4 text-center">⭐⭐</td>
+                    <td className="px-6 py-4 text-center">**</td>
                     <td className="px-6 py-4">Low prices</td>
                   </tr>
                   <tr>
                     <td className="px-6 py-4">September</td>
                     <td className="px-6 py-4 text-center">Rainy</td>
                     <td className="px-6 py-4 text-center">25-31°C</td>
-                    <td className="px-6 py-4 text-center">⭐</td>
+                    <td className="px-6 py-4 text-center">*</td>
                     <td className="px-6 py-4">Lowest prices</td>
                   </tr>
                   <tr className="bg-gray-50">
                     <td className="px-6 py-4">October</td>
                     <td className="px-6 py-4 text-center">Rainy/Cool</td>
                     <td className="px-6 py-4 text-center">25-32°C</td>
-                    <td className="px-6 py-4 text-center">⭐⭐⭐</td>
+                    <td className="px-6 py-4 text-center">***</td>
                     <td className="px-6 py-4">Shoulder season</td>
                   </tr>
                   <tr>
                     <td className="px-6 py-4">November</td>
                     <td className="px-6 py-4 text-center">Cool</td>
                     <td className="px-6 py-4 text-center">23-32°C</td>
-                    <td className="px-6 py-4 text-center">⭐⭐⭐⭐</td>
+                    <td className="px-6 py-4 text-center">****</td>
                     <td className="px-6 py-4">Loy Krathong</td>
                   </tr>
                   <tr className="bg-gray-50">
                     <td className="px-6 py-4">December</td>
                     <td className="px-6 py-4 text-center">Cool</td>
                     <td className="px-6 py-4 text-center">22-31°C</td>
-                    <td className="px-6 py-4 text-center">⭐⭐⭐⭐⭐</td>
+                    <td className="px-6 py-4 text-center">*****</td>
                     <td className="px-6 py-4">Holiday season</td>
                   </tr>
                 </tbody>
@@ -244,7 +244,7 @@ export default function ThailandWeatherPage({ months }: ThailandWeatherPageProps
             </div>
             
             <p className="text-center text-sm text-gray-600 mt-4">
-              ⭐ = Rainfall level (fewer stars = more rain)
+              * = Rainfall level (fewer stars = more rain)
             </p>
           </div>
         </section>

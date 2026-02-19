@@ -164,7 +164,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             <div className="lg:sticky lg:top-4 space-y-6">
             {/* City Weather Selector */}
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">🌍 Other Cities Weather</h3>
+              <h3 className="text-lg font-semibold mb-4">Other Cities Weather</h3>
               <select 
                 className="w-full p-2 border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-orange-500"
                 value={city.slug}
@@ -255,7 +255,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center bg-blue-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
             >
-              🏨 Book Hotels
+              Book Hotels
             </a>
             <a
               href="https://12go.tpo.lv/tNA80urD"
@@ -263,7 +263,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center bg-green-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-green-700 transition-colors"
             >
-              🚌 Book Transport
+              Book Transport
             </a>
           </div>
           <p className="text-xs text-gray-500 text-center mt-3">

@@ -160,7 +160,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
                 <ul className="space-y-3">
                   {weatherData.events.map((event, index) => (
                     <li key={index} className="flex items-start">
-                      <span className="text-orange-500 mr-3 text-xl">🎉</span>
+                      <span className="text-orange-500 mr-3 text-xl"></span>
                       <span className="text-gray-700">{event}</span>
                     </li>
                   ))}
@@ -234,7 +234,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
             <div className="lg:sticky lg:top-4 space-y-6">
             {/* City Weather Selector */}
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">🌍 Other Cities Weather</h3>
+              <h3 className="text-lg font-semibold mb-4">Other Cities Weather</h3>
               <select 
                 className="w-full p-2 border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-orange-500"
                 value={city.slug}

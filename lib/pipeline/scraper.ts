@@ -5,6 +5,14 @@ const JINA_SEARCH_URL = "https://s.jina.ai";
 const BRIGHT_DATA_API_KEY = process.env.BRIGHT_DATA_API_KEY;
 const BRIGHT_DATA_ZONE = process.env.BRIGHT_DATA_ZONE || "web_unlocker1";
 
+const FETCH_TIMEOUT_MS = 15_000; // 15 seconds per fetch call
+
+function fetchWithTimeout(url: string, options: RequestInit = {}, timeoutMs = FETCH_TIMEOUT_MS): Promise<Response> {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  return fetch(url, { ...options, signal: controller.signal }).finally(() => clearTimeout(timer));
+}
+
 export interface ScrapedContent {
   url: string;
   content: string;
@@ -37,7 +45,7 @@ async function scrapeWithBrightData(url: string): Promise<string> {
     throw new Error("BRIGHT_DATA_API_KEY is not configured");
   }
 
-  const response = await fetch("https://api.brightdata.com/request", {
+  const response = await fetchWithTimeout("https://api.brightdata.com/request", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -59,7 +67,7 @@ async function scrapeWithBrightData(url: string): Promise<string> {
 
 // Direct fetch fallback — strips HTML tags for plain text extraction
 async function directFetch(url: string): Promise<string> {
-  const response = await fetch(url, {
+  const response = await fetchWithTimeout(url, {
     headers: {
       "User-Agent":
         "Mozilla/5.0 (compatible; Go2ThailandBot/1.0; +https://go2-thailand.com)",
@@ -99,7 +107,7 @@ export async function scrapeUrl(url: string): Promise<string> {
       headers["Authorization"] = `Bearer ${JINA_API_KEY}`;
     }
 
-    const response = await fetch(`${JINA_READER_URL}/${url}`, {
+    const response = await fetchWithTimeout(`${JINA_READER_URL}/${url}`, {
       method: "GET",
       headers,
     });
@@ -187,7 +195,7 @@ export async function searchTopic(
   }
 
   const encodedQuery = encodeURIComponent(query);
-  const response = await fetch(`${JINA_SEARCH_URL}/${encodedQuery}`, {
+  const response = await fetchWithTimeout(`${JINA_SEARCH_URL}/${encodedQuery}`, {
     method: "GET",
     headers,
   });

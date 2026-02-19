@@ -149,35 +149,35 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
             <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
               <Link href="/food/category/main-dish/" className="group">
                 <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-thailand-red">
-                  <div className="text-4xl mb-2">🍛</div>
+                  <div className="text-4xl mb-2"></div>
                   <h3 className="font-semibold text-gray-900 group-hover:text-thailand-red">Main Dishes</h3>
                   <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'main-dish').length} recipes</p>
                 </div>
               </Link>
               <Link href="/food/category/soup/" className="group">
                 <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-thailand-blue">
-                  <div className="text-4xl mb-2">🍜</div>
+                  <div className="text-4xl mb-2"></div>
                   <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue">Soups</h3>
                   <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'soup').length} recipes</p>
                 </div>
               </Link>
               <Link href="/food/category/curry/" className="group">
                 <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-yellow-500">
-                  <div className="text-4xl mb-2">🍛</div>
+                  <div className="text-4xl mb-2"></div>
                   <h3 className="font-semibold text-gray-900 group-hover:text-yellow-600">Curries</h3>
                   <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'curry').length} recipes</p>
                 </div>
               </Link>
               <Link href="/food/category/salad/" className="group">
                 <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-green-500">
-                  <div className="text-4xl mb-2">🥗</div>
+                  <div className="text-4xl mb-2"></div>
                   <h3 className="font-semibold text-gray-900 group-hover:text-green-600">Salads</h3>
                   <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'salad').length} recipes</p>
                 </div>
               </Link>
               <Link href="/food/category/dessert/" className="group">
                 <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-pink-500">
-                  <div className="text-4xl mb-2">🍨</div>
+                  <div className="text-4xl mb-2"></div>
                   <h3 className="font-semibold text-gray-900 group-hover:text-pink-600">Desserts</h3>
                   <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'dessert').length} recipes</p>
                 </div>
@@ -205,7 +205,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                       <div className="absolute inset-0 bg-black bg-opacity-20 group-hover:bg-opacity-10 transition-opacity duration-300"></div>
                       <div className="absolute top-3 left-3">
                         <span className={`px-2 py-1 rounded-full text-xs font-medium ${getSpiceLevelColor(dish.spice_level)}`}>
-                          🌶️ {dish.spice_level === 'none' ? 'Not Spicy' : dish.spice_level}
+                          {dish.spice_level === 'none' ? 'Not Spicy' : dish.spice_level}
                         </span>
                       </div>
                       <div className="absolute top-3 right-3">
@@ -232,9 +232,9 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                       </p>
                       
                       <div className="flex items-center justify-between text-sm text-gray-500 mb-4">
-                        <span>⏱️ {dish.preparation_time}</span>
-                        <span>📍 {dish.region}</span>
-                        <span>💰 {dish.price_range}</span>
+                        <span>{dish.preparation_time}</span>
+                        <span>{dish.region}</span>
+                        <span>{dish.price_range}</span>
                       </div>
                       
                       <div className="flex flex-wrap gap-1">
@@ -344,7 +344,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-orange-100">
-                <div className="text-5xl mb-4">👨‍🍳</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Cooking Classes &amp; Food Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Cooking classes and food tours across Thailand
@@ -359,7 +359,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                 </a>
               </div>
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-blue-100">
-                <div className="text-5xl mb-4">🍜</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Food Walking Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Guided food walking tours

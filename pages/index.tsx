@@ -141,6 +141,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
           <div className="max-w-4xl mx-auto px-4 py-12 sm:py-8">
             <h1 className="text-4xl lg:text-6xl font-bold text-white mb-6 drop-shadow-lg">
               <TypewriterText text={t('hero.title')} speed={80} className="text-white" />
+              <noscript>{t('hero.title')}</noscript>
             </h1>
             <FadeInText delay={2000} duration={800}>
               <p className="text-xl lg:text-2xl text-gray-200 mb-4 max-w-2xl mx-auto drop-shadow-md">
@@ -165,7 +166,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                 {t('hero.featuredDestinations')}
               </Link>
               <Link href="#top10" className="bg-gradient-to-r from-thailand-red to-thailand-red-600 text-white px-6 py-3 rounded-lg font-semibold hover:from-thailand-red-600 hover:to-thailand-red-700 transition-all shadow-lg">
-                🏆 {t('nav.top10')} {t('sections.top10Guides').split(' ').slice(2).join(' ')}
+                {t('sections.top10Guides')}
               </Link>
             </div>
           </div>
@@ -220,7 +221,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             </div>
             <div>
               <div className="text-3xl lg:text-4xl font-bold text-thailand-blue mb-2">
-                3
+                4
               </div>
               <div className="text-gray-600">{t('stats.regions')}</div>
             </div>
@@ -290,7 +291,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
           <div className="text-center mb-12">
             <FadeInText>
               <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-                🏆 <HighlightedText 
+                <HighlightedText
                   text={t('sections.top10Guides')}
                   highlightWords={['Thailand', 'Top 10', '2026']}
                   highlightClassName="text-thailand-red"
@@ -307,13 +308,13 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             {/* Current Data Features */}
             <div className="flex justify-center items-center gap-4 text-sm text-gray-500 mb-8">
               <span className="bg-green-100 text-green-700 px-3 py-2 rounded-full font-medium">
-                📊 {t('badges.current2026Data')}
+                {t('badges.current2026Data')}
               </span>
               <span className="bg-blue-100 text-blue-700 px-3 py-2 rounded-full font-medium">
-                ✨ {t('badges.expertCurated')}
+                {t('badges.expertCurated')}
               </span>
               <span className="bg-purple-100 text-purple-700 px-3 py-2 rounded-full font-medium">
-                💰 {t('badges.localPrices')}
+                {t('badges.localPrices')}
               </span>
             </div>
           </div>
@@ -324,7 +325,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             <Link href="/top-10/restaurants/" className="group">
               <div className="bg-gradient-to-br from-thailand-red-50 to-thailand-red-100 rounded-xl p-8 hover:shadow-xl transition-all duration-300 transform group-hover:scale-105 border border-thailand-red-200">
                 <div className="text-center">
-                  <div className="text-5xl mb-4">🍽️</div>
+                  <div className="text-5xl mb-4"></div>
                   <h3 className="text-2xl font-bold text-gray-900 mb-3 group-hover:text-thailand-red transition-colors">
                     {t('nav.restaurantGuides')}
                   </h3>
@@ -342,7 +343,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             <Link href="/top-10/hotels/" className="group">
               <div className="bg-gradient-to-br from-thailand-blue-50 to-thailand-blue-100 rounded-xl p-8 hover:shadow-xl transition-all duration-300 transform group-hover:scale-105 border border-thailand-blue-200">
                 <div className="text-center">
-                  <div className="text-5xl mb-4">🏨</div>
+                  <div className="text-5xl mb-4"></div>
                   <h3 className="text-2xl font-bold text-gray-900 mb-3 group-hover:text-thailand-blue transition-colors">
                     {t('nav.hotelGuides')}
                   </h3>
@@ -360,7 +361,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             <Link href="/top-10/attractions/" className="group">
               <div className="bg-gradient-to-br from-green-50 to-green-100 rounded-xl p-8 hover:shadow-xl transition-all duration-300 transform group-hover:scale-105 border border-green-200">
                 <div className="text-center">
-                  <div className="text-5xl mb-4">🎯</div>
+                  <div className="text-5xl mb-4"></div>
                   <h3 className="text-2xl font-bold text-gray-900 mb-3 group-hover:text-green-600 transition-colors">
                     {t('nav.attractionGuides')}
                   </h3>
@@ -379,7 +380,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
           <div className="bg-gray-50 rounded-xl p-8">
             <div className="text-center mb-8">
               <h3 className="text-2xl font-bold text-gray-900 mb-2">
-                🔥 {t('trending.trendingNow')}
+                {t('trending.trendingNow')}
               </h3>
               <p className="text-gray-600">
                 {t('trending.trendingDescription')}
@@ -389,7 +390,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <Link href="/city/bangkok/top-10-restaurants/" className="bg-white rounded-lg p-6 hover:shadow-lg transition-shadow group">
                 <div className="flex items-center space-x-4">
-                  <div className="text-2xl">🍽️</div>
+                  <div className="text-2xl"></div>
                   <div>
                     <h4 className="font-semibold text-gray-900 group-hover:text-thailand-red transition-colors">
                       {t('trending.bangkokRestaurants')}
@@ -401,7 +402,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
               
               <Link href="/city/phuket/top-10-hotels/" className="bg-white rounded-lg p-6 hover:shadow-lg transition-shadow group">
                 <div className="flex items-center space-x-4">
-                  <div className="text-2xl">🏨</div>
+                  <div className="text-2xl"></div>
                   <div>
                     <h4 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">
                       {t('trending.phuketHotels')}
@@ -413,7 +414,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
               
               <Link href="/city/chiang-mai/top-10-attractions/" className="bg-white rounded-lg p-6 hover:shadow-lg transition-shadow group">
                 <div className="flex items-center space-x-4">
-                  <div className="text-2xl">🎯</div>
+                  <div className="text-2xl"></div>
                   <div>
                     <h4 className="font-semibold text-gray-900 group-hover:text-green-600 transition-colors">
                       {t('trending.chiangMaiAttractions')}
@@ -423,43 +424,6 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                 </div>
               </Link>
             </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Trip.com Bundle Widget - Strategic Placement for High Conversion */}
-      <section className="bg-gradient-to-b from-white to-thailand-blue-50 py-16">
-        <div className="container-custom">
-          <div className="text-center mb-10">
-            <h2 className="text-2xl lg:text-3xl font-bold text-gray-900 mb-3">
-              💸 {t('search.saveBig')}
-            </h2>
-            <p className="text-lg text-gray-600 mb-2">
-              {t('search.bookFlightHotel')}
-            </p>
-            <div className="flex justify-center items-center gap-3 text-sm">
-              <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full font-medium">
-                ✈️ {t('search.exclusiveBundleDeals')}
-              </span>
-              <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full font-medium">
-                🏨 {t('search.trustedByMillions')}
-              </span>
-              <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full font-medium">
-                🛡️ {t('search.bestPriceGuarantee')}
-              </span>
-            </div>
-          </div>
-          <div className="max-w-5xl mx-auto">
-            <TripcomWidget 
-              city="Thailand"
-              type="bundle"
-              className="shadow-2xl"
-            />
-          </div>
-          <div className="mt-8 text-center">
-            <p className="text-sm text-gray-600 mb-3">
-              💡 <strong>{t('search.proTip')}:</strong> {t('search.bundleDealsInfo')}
-            </p>
           </div>
         </div>
       </section>
@@ -502,7 +466,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                         dish.spice_level === 'medium' ? 'bg-orange-500' :
                         dish.spice_level === 'mild' ? 'bg-yellow-500' : 'bg-green-500'
                       }`}>
-                        🌶️ {dish.spice_level}
+                        {dish.spice_level}
                       </span>
                     </div>
                     <div className="absolute top-3 right-3">
@@ -670,7 +634,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-10">
             {/* Hotels Card */}
             <div className="bg-gradient-to-br from-thailand-blue-50 to-white rounded-xl p-6 border border-thailand-blue-200 hover:shadow-xl transition-shadow duration-300">
-              <div className="text-4xl mb-4">🏨</div>
+              <div className="text-4xl mb-4"></div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">Hotels &amp; Accommodation</h3>
               <p className="text-gray-600 mb-5 text-sm">
                 Compare prices on thousands of hotels, hostels, and resorts across Thailand.
@@ -697,7 +661,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
 
             {/* Activities & Tours Card */}
             <div className="bg-gradient-to-br from-green-50 to-white rounded-xl p-6 border border-green-200 hover:shadow-xl transition-shadow duration-300">
-              <div className="text-4xl mb-4">🎯</div>
+              <div className="text-4xl mb-4"></div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">Activities &amp; Tours</h3>
               <p className="text-gray-600 mb-5 text-sm">
                 Book island hopping, temple tours, cooking classes, and unforgettable experiences.
@@ -724,7 +688,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
 
             {/* Transport Card */}
             <div className="bg-gradient-to-br from-purple-50 to-white rounded-xl p-6 border border-purple-200 hover:shadow-xl transition-shadow duration-300">
-              <div className="text-4xl mb-4">🚌</div>
+              <div className="text-4xl mb-4"></div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">Transport</h3>
               <p className="text-gray-600 mb-5 text-sm">
                 Buses, trains, ferries, and flights between cities — book your routes in advance.
@@ -743,7 +707,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
 
             {/* eSIM Card */}
             <div className="bg-gradient-to-br from-cyan-50 to-white rounded-xl p-6 border border-cyan-200 hover:shadow-xl transition-shadow duration-300">
-              <div className="text-4xl mb-4">📱</div>
+              <div className="text-4xl mb-4"></div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">eSIM &amp; Data</h3>
               <p className="text-gray-600 mb-5 text-sm">
                 Stay connected with affordable eSIM plans — no physical SIM swap needed.
@@ -760,7 +724,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
 
             {/* VPN & Security Card */}
             <div className="bg-gradient-to-br from-thailand-red-50 to-white rounded-xl p-6 border border-thailand-red-200 hover:shadow-xl transition-shadow duration-300">
-              <div className="text-4xl mb-4">🔒</div>
+              <div className="text-4xl mb-4"></div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">VPN &amp; Security</h3>
               <p className="text-gray-600 mb-5 text-sm">
                 Protect your data on public Wi-Fi and access your favorite services abroad.

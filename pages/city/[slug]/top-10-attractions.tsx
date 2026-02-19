@@ -138,16 +138,16 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
               {attractionsData.data_sources && (
                 <div className="flex justify-center items-center gap-2 text-sm text-gray-500 mb-6">
                   <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full">
-                    📊 Current Info
+                    Current Info
                   </span>
                   {attractionsData.hybrid && (
                     <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full">
-                      🤖 Expert Curated
+                      Expert Curated
                     </span>
                   )}
                   {attractionsData.last_perplexity_update && (
                     <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full">
-                      🔄 Updated {new Date(attractionsData.last_perplexity_update).toLocaleDateString()}
+                      Updated {new Date(attractionsData.last_perplexity_update).toLocaleDateString()}
                     </span>
                   )}
                 </div>
@@ -188,7 +188,7 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
 
                   {/* Visitor Tips */}
                   <div className="bg-white rounded-lg shadow-lg p-6">
-                    <h3 className="text-lg font-semibold text-gray-900 mb-4">💡 Visitor Tips</h3>
+                    <h3 className="text-lg font-semibold text-gray-900 mb-4">Visitor Tips</h3>
                     <div className="space-y-3 text-sm text-gray-600">
                       <p>• Visit early morning to avoid crowds</p>
                       <p>• Check opening hours before going</p>
@@ -203,13 +203,13 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                     <h3 className="text-lg font-semibold text-gray-900 mb-4">Explore More</h3>
                     <div className="space-y-3">
                       <Link href={`/city/${city.slug}/`} className="block text-thailand-blue hover:underline">
-                        📍 {city.name.en} Guide
+                        {city.name.en} Guide
                       </Link>
                       <Link href={`/city/${city.slug}/top-10-restaurants/`} className="block text-thailand-blue hover:underline">
-                        🍽️ Top 10 Restaurants
+                        Top 10 Restaurants
                       </Link>
                       <Link href={`/city/${city.slug}/top-10-hotels/`} className="block text-thailand-blue hover:underline">
-                        🏨 Top 10 Hotels
+                        Top 10 Hotels
                       </Link>
                     </div>
                   </div>
@@ -238,11 +238,11 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                               </h2>
                               {attraction.current_price && (
                                 <div className="text-lg text-green-600 font-semibold mb-2">
-                                  🎫 {attraction.current_price}
+                                  {attraction.current_price}
                                 </div>
                               )}
                               <div className="text-gray-600 mb-2">
-                                📍 {attraction.location}
+                                {attraction.location}
                               </div>
                             </div>
                           </div>
@@ -302,7 +302,7 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                   {/* Book Tickets & Tours - Affiliate CTA */}
                   <div className="bg-gradient-to-br from-green-50 to-green-100 rounded-lg shadow-lg p-8 text-center border border-green-200">
                     <h3 className="text-2xl font-bold text-gray-900 mb-3">
-                      🎟️ Book Tickets & Tours in {city.name.en}
+                      Book Tickets & Tours in {city.name.en}
                     </h3>
                     <p className="text-gray-600 mb-6">
                       Skip the queues and book tickets, guided tours, and unique experiences in {city.name.en} online.

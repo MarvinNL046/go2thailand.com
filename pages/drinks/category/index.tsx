@@ -14,55 +14,55 @@ const categoryInfo = {
   'tea': {
     title: 'Thai Tea',
     description: 'Traditional Thai teas including the famous Thai iced tea and herbal varieties',
-    icon: '🫖',
+    icon: '',
     color: 'bg-amber-50 border-amber-200 hover:border-amber-400'
   },
   'coffee': {
     title: 'Thai Coffee',
     description: 'Rich and aromatic Thai coffee drinks from traditional to modern styles',
-    icon: '☕',
+    icon: '',
     color: 'bg-brown-50 border-brown-200 hover:border-brown-400'
   },
   'juice': {
     title: 'Fresh Juices',
     description: 'Tropical fruit juices and refreshing blends made from exotic Thai fruits',
-    icon: '🥤',
+    icon: '',
     color: 'bg-orange-50 border-orange-200 hover:border-orange-400'
   },
   'herbal': {
     title: 'Herbal Drinks',
     description: 'Health-boosting herbal beverages and traditional Thai medicinal drinks',
-    icon: '🌿',
+    icon: '',
     color: 'bg-green-50 border-green-200 hover:border-green-400'
   },
   'alcohol': {
     title: 'Alcoholic Beverages',
     description: 'Thai beers, spirits, and traditional alcoholic drinks',
-    icon: '🍺',
+    icon: '',
     color: 'bg-yellow-50 border-yellow-200 hover:border-yellow-400'
   },
   'natural': {
     title: 'Natural Drinks',
     description: 'Coconut water and other natural Thai beverages',
-    icon: '🥥',
+    icon: '',
     color: 'bg-blue-50 border-blue-200 hover:border-blue-400'
   },
   'mocktail': {
     title: 'Mocktails',
     description: 'Non-alcoholic cocktails with Thai flavors and ingredients',
-    icon: '🍹',
+    icon: '',
     color: 'bg-pink-50 border-pink-200 hover:border-pink-400'
   },
   'soda': {
     title: 'Sodas & Soft Drinks',
     description: 'Thai sodas and carbonated beverages with unique local flavors',
-    icon: '🥤',
+    icon: '',
     color: 'bg-purple-50 border-purple-200 hover:border-purple-400'
   },
   'milk': {
     title: 'Milk-Based Drinks',
     description: 'Thai milk teas and creamy beverages',
-    icon: '🥛',
+    icon: '',
     color: 'bg-gray-50 border-gray-200 hover:border-gray-400'
   }
 };
@@ -143,21 +143,21 @@ export default function DrinkCategoriesIndex({ categoryCounts }: DrinkCategories
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div className="bg-white p-6 rounded-lg shadow">
-                  <div className="text-2xl mb-2">🌡️</div>
+                  <div className="text-2xl mb-2"></div>
                   <h3 className="font-semibold mb-2">Climate Adapted</h3>
                   <p className="text-sm text-gray-600">
                     Drinks designed to cool down in tropical heat
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-lg shadow">
-                  <div className="text-2xl mb-2">🌿</div>
+                  <div className="text-2xl mb-2"></div>
                   <h3 className="font-semibold mb-2">Health Benefits</h3>
                   <p className="text-sm text-gray-600">
                     Many drinks have traditional medicinal properties
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-lg shadow">
-                  <div className="text-2xl mb-2">🎉</div>
+                  <div className="text-2xl mb-2"></div>
                   <h3 className="font-semibold mb-2">Social Traditions</h3>
                   <p className="text-sm text-gray-600">
                     Drinks are central to Thai social gatherings
@@ -181,7 +181,7 @@ export default function DrinkCategoriesIndex({ categoryCounts }: DrinkCategories
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-orange-100">
-                <div className="text-5xl mb-4">🌙</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Street Food &amp; Night Market Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Street food &amp; night market tours
@@ -196,7 +196,7 @@ export default function DrinkCategoriesIndex({ categoryCounts }: DrinkCategories
                 </a>
               </div>
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-blue-100">
-                <div className="text-5xl mb-4">👨‍🍳</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Cooking &amp; Tasting Experiences</h3>
                 <p className="text-gray-600 mb-6">
                   Thai cooking &amp; tasting experiences

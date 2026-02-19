@@ -200,22 +200,22 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
                 
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
                   <div className="bg-gray-50 rounded-lg p-4">
-                    <div className="text-2xl mb-2">⏱️</div>
+                    <div className="text-2xl mb-2"></div>
                     <div className="text-sm text-gray-600">Prep Time</div>
                     <div className="font-semibold">{dish.preparation_time}</div>
                   </div>
                   <div className="bg-gray-50 rounded-lg p-4">
-                    <div className="text-2xl mb-2">📍</div>
+                    <div className="text-2xl mb-2"></div>
                     <div className="text-sm text-gray-600">Region</div>
                     <div className="font-semibold capitalize">{dish.region}</div>
                   </div>
                   <div className="bg-gray-50 rounded-lg p-4">
-                    <div className="text-2xl mb-2">💰</div>
+                    <div className="text-2xl mb-2"></div>
                     <div className="text-sm text-gray-600">Price Range</div>
                     <div className="font-semibold capitalize">{dish.price_range}</div>
                   </div>
                   <div className="bg-gray-50 rounded-lg p-4">
-                    <div className="text-2xl mb-2">👨‍🍳</div>
+                    <div className="text-2xl mb-2"></div>
                     <div className="text-sm text-gray-600">Difficulty</div>
                     <div className="font-semibold capitalize">{dish.difficulty}</div>
                   </div>
@@ -494,7 +494,7 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-orange-100">
-                <div className="text-5xl mb-4">👨‍🍳</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Cooking Classes &amp; Food Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Cooking classes and food tours across Thailand
@@ -509,7 +509,7 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
                 </a>
               </div>
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-blue-100">
-                <div className="text-5xl mb-4">🍜</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Food Walking Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Guided food walking tours

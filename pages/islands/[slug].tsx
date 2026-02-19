@@ -94,12 +94,12 @@ interface IslandPageProps {
 
 const getTransportIcon = (method: string) => {
   const m = method.toLowerCase();
-  if (m.includes('flight') || m.includes('fly')) return '✈️';
-  if (m.includes('ferry') || m.includes('boat')) return '⛴️';
-  if (m.includes('bus')) return '🚌';
-  if (m.includes('train')) return '🚂';
-  if (m.includes('taxi') || m.includes('car')) return '🚗';
-  return '🚐';
+  if (m.includes('flight') || m.includes('fly')) return '';
+  if (m.includes('ferry') || m.includes('boat')) return '';
+  if (m.includes('bus')) return '';
+  if (m.includes('train')) return '';
+  if (m.includes('taxi') || m.includes('car')) return '';
+  return '';
 };
 
 export default function IslandPage({ island, relatedIslands, comparisons }: IslandPageProps) {
@@ -240,22 +240,22 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
               <div className="bg-blue-50 rounded-lg p-4 text-center">
-                <div className="text-2xl mb-1">🏖️</div>
+                <div className="text-2xl mb-1"></div>
                 <div className="text-sm text-gray-600">Beaches</div>
                 <div className="font-bold text-lg">{island.beaches.length}</div>
               </div>
               <div className="bg-green-50 rounded-lg p-4 text-center">
-                <div className="text-2xl mb-1">🎯</div>
+                <div className="text-2xl mb-1"></div>
                 <div className="text-sm text-gray-600">Activities</div>
                 <div className="font-bold text-lg">{island.activities.length}</div>
               </div>
               <div className="bg-orange-50 rounded-lg p-4 text-center">
-                <div className="text-2xl mb-1">☀️</div>
+                <div className="text-2xl mb-1"></div>
                 <div className="text-sm text-gray-600">Best Season</div>
                 <div className="font-bold text-lg">{island.best_time_to_visit.high_season}</div>
               </div>
               <div className="bg-purple-50 rounded-lg p-4 text-center">
-                <div className="text-2xl mb-1">💰</div>
+                <div className="text-2xl mb-1"></div>
                 <div className="text-sm text-gray-600">Daily Budget</div>
                 <div className="font-bold text-lg">{island.budget_info.daily_budget.budget}</div>
               </div>
@@ -473,15 +473,15 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                 <h3 className="text-xl font-bold mb-4">Daily Budget</h3>
                 <div className="space-y-3">
                   <div className="flex justify-between items-center">
-                    <span className="text-sm">🎒 Budget</span>
+                    <span className="text-sm">Budget</span>
                     <span className="font-bold text-green-600">{island.budget_info.daily_budget.budget}</span>
                   </div>
                   <div className="flex justify-between items-center">
-                    <span className="text-sm">🏨 Mid-Range</span>
+                    <span className="text-sm">Mid-Range</span>
                     <span className="font-bold text-blue-600">{island.budget_info.daily_budget.mid}</span>
                   </div>
                   <div className="flex justify-between items-center">
-                    <span className="text-sm">💎 Luxury</span>
+                    <span className="text-sm">Luxury</span>
                     <span className="font-bold text-purple-600">{island.budget_info.daily_budget.luxury}</span>
                   </div>
                 </div>
@@ -561,7 +561,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     rel="noopener noreferrer"
                     className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg text-sm transition-colors"
                   >
-                    ⛴️ Book Ferry Tickets
+                    Book Ferry Tickets
                   </a>
                   <a
                     href="https://booking.tpo.lv/2PT1kR82"
@@ -569,7 +569,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     rel="noopener noreferrer"
                     className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg text-sm transition-colors"
                   >
-                    🏨 Hotels (Booking.com)
+                    Hotels (Booking.com)
                   </a>
                   <a
                     href="https://trip.tpo.lv/TmObooZ5"
@@ -577,7 +577,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     rel="noopener noreferrer"
                     className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg text-sm transition-colors"
                   >
-                    🏨 Hotels (Trip.com)
+                    Hotels (Trip.com)
                   </a>
                   <a
                     href="https://klook.tpo.lv/7Dt6WApj"
@@ -585,13 +585,13 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     rel="noopener noreferrer"
                     className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg text-sm transition-colors"
                   >
-                    🎯 Tours & Activities (Klook)
+                    Tours & Activities (Klook)
                   </a>
                   <Link
                     href="/travel-insurance/"
                     className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg text-sm transition-colors"
                   >
-                    🛡️ Travel Insurance
+                    Travel Insurance
                   </Link>
                   <a
                     href="https://getyourguide.tpo.lv/GuAFfGGK"
@@ -599,7 +599,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     rel="noopener noreferrer"
                     className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg text-sm transition-colors"
                   >
-                    🎒 Tours (GetYourGuide)
+                    Tours (GetYourGuide)
                   </a>
                   <a
                     href="https://saily.tpo.lv/rf9lidnE"
@@ -607,7 +607,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     rel="noopener noreferrer"
                     className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg text-sm transition-colors"
                   >
-                    📱 Thailand eSIM
+                    Thailand eSIM
                   </a>
                 </div>
                 <p className="text-white/60 text-xs mt-3">

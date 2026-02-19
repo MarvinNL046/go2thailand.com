@@ -97,13 +97,13 @@ const CityCard: React.FC<CityCardProps> = ({ city }) => {
               href={`/city/${city.slug}/top-10-restaurants/`}
               className="flex-1 bg-gradient-to-r from-thailand-red to-thailand-red-600 text-white text-center py-2 px-2 rounded hover:from-thailand-red-600 hover:to-thailand-red-700 transition-all text-xs font-medium"
             >
-              🍽️ {t('nav.top10')} {t('labels.food') || 'Food'}
+              {t('nav.top10')} {t('labels.food') || 'Food'}
             </Link>
             <Link 
               href={`/city/${city.slug}/top-10-hotels/`}
               className="flex-1 bg-gradient-to-r from-thailand-blue to-thailand-blue-600 text-white text-center py-2 px-2 rounded hover:from-thailand-blue-600 hover:to-thailand-blue-700 transition-all text-xs font-medium"
             >
-              🏨 {t('nav.top10')} {t('labels.hotels')}
+              {t('nav.top10')} {t('labels.hotels')}
             </Link>
           </div>
         </div>

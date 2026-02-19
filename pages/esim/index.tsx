@@ -54,13 +54,13 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  📱 Instant Activation
+                  Instant Activation
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  🌐 Nationwide Coverage
+                  Nationwide Coverage
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  💰 From $5/week
+                  From $5/week
                 </div>
               </div>
             </div>
@@ -80,7 +80,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
             <div className="bg-orange-50 border border-orange-200 rounded-lg mt-4">
               <div className="px-4 py-3">
                 <p className="text-sm text-center text-orange-800">
-                  💡 This page contains affiliate links. We may earn a commission at no extra cost to you when you purchase through our links. 😊
+                  This page contains affiliate links. We may earn a commission at no extra cost to you when you purchase through our links.
                 </p>
               </div>
             </div>
@@ -97,7 +97,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
                 <div className="text-center">
                   <div className="w-16 h-16 bg-thailand-blue bg-opacity-10 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <span className="text-2xl">✈️</span>
+                    <span className="text-2xl"></span>
                   </div>
                   <h3 className="font-semibold mb-2">Activate Before You Fly</h3>
                   <p className="text-gray-600 text-sm">
@@ -106,7 +106,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                 </div>
                 <div className="text-center">
                   <div className="w-16 h-16 bg-thailand-gold bg-opacity-10 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <span className="text-2xl">💸</span>
+                    <span className="text-2xl"></span>
                   </div>
                   <h3 className="font-semibold mb-2">Save on Roaming</h3>
                   <p className="text-gray-600 text-sm">
@@ -115,7 +115,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                 </div>
                 <div className="text-center">
                   <div className="w-16 h-16 bg-thailand-red bg-opacity-10 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <span className="text-2xl">📲</span>
+                    <span className="text-2xl"></span>
                   </div>
                   <h3 className="font-semibold mb-2">Keep Your Number</h3>
                   <p className="text-gray-600 text-sm">
@@ -155,7 +155,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                         </div>
                         {provider.dealText && (
                           <span className="inline-block bg-thailand-red text-white px-3 py-1 rounded-full text-sm font-medium">
-                            🔥 {provider.dealText}
+                            {provider.dealText}
                           </span>
                         )}
                       </div>
@@ -239,7 +239,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                           className="px-4 py-3 bg-gray-800 text-white rounded-lg font-semibold hover:bg-gray-700 transition-colors flex items-center gap-2"
                           title="Download Mobile App"
                         >
-                          📱 App
+                          App
                         </a>
                       )}
                     </div>
@@ -249,7 +249,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                       <div className="mt-4 pt-4 border-t border-gray-200">
                         <div className="flex items-center justify-between">
                           <div className="text-sm text-gray-600">
-                            <p className="font-semibold mb-1">📱 Scan with your phone</p>
+                            <p className="font-semibold mb-1">Scan with your phone</p>
                             <p className="text-xs">Quick access to {provider.name}</p>
                           </div>
                           <div className="relative w-32 h-32 bg-white rounded-lg overflow-hidden shadow-md border border-gray-200">
@@ -292,7 +292,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                           </div>
                           {provider.dealText && (
                             <span className="inline-block bg-thailand-red text-white px-3 py-1 rounded-full text-sm font-medium">
-                              🔥 {provider.dealText}
+                              {provider.dealText}
                             </span>
                           )}
                         </div>
@@ -414,21 +414,21 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                       </tr>
                       <tr className="bg-gray-50">
                         <td className="px-6 py-4 font-medium">Unlimited Plans</td>
-                        <td className="px-6 py-4 text-center">❌ No</td>
-                        <td className="px-6 py-4 text-center">✅ Yes</td>
-                        <td className="px-6 py-4 text-center">❌ No</td>
+                        <td className="px-6 py-4 text-center">No</td>
+                        <td className="px-6 py-4 text-center">Yes</td>
+                        <td className="px-6 py-4 text-center">No</td>
                       </tr>
                       <tr>
                         <td className="px-6 py-4 font-medium">Security Brand</td>
-                        <td className="px-6 py-4 text-center">❌ No</td>
-                        <td className="px-6 py-4 text-center">✅ Yes (Free VPN iOS)</td>
-                        <td className="px-6 py-4 text-center">✅ By NordVPN</td>
+                        <td className="px-6 py-4 text-center">No</td>
+                        <td className="px-6 py-4 text-center">Yes (Free VPN iOS)</td>
+                        <td className="px-6 py-4 text-center">By NordVPN</td>
                       </tr>
                       <tr className="bg-gray-50">
                         <td className="px-6 py-4 font-medium">Customer Rating</td>
-                        <td className="px-6 py-4 text-center">4.5/5 ⭐</td>
-                        <td className="px-6 py-4 text-center">4.3/5 ⭐</td>
-                        <td className="px-6 py-4 text-center">4.4/5 ⭐</td>
+                        <td className="px-6 py-4 text-center">4.5/5</td>
+                        <td className="px-6 py-4 text-center">4.3/5</td>
+                        <td className="px-6 py-4 text-center">4.4/5</td>
                       </tr>
                       <tr>
                         <td className="px-6 py-4 font-medium">Support Speed</td>
@@ -440,7 +440,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                   </table>
                 </div>
                 <div className="p-6 bg-thailand-blue-50">
-                  <h3 className="font-semibold text-thailand-blue-900 mb-3">🎯 Our Recommendation:</h3>
+                  <h3 className="font-semibold text-thailand-blue-900 mb-3">Our Recommendation:</h3>
                   <div className="space-y-2 text-sm">
                     <p className="flex items-start">
                       <span className="text-green-600 mr-2">✓</span>

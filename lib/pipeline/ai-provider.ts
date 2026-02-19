@@ -8,6 +8,13 @@ interface GenerateOptions {
 
 const MAX_RETRIES = 3;
 const RETRY_DELAY_MS = 1000;
+const AI_TIMEOUT_MS = 60_000; // 60 seconds per AI call
+
+function fetchWithTimeout(url: string, options: RequestInit = {}, timeoutMs = AI_TIMEOUT_MS): Promise<Response> {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  return fetch(url, { ...options, signal: controller.signal }).finally(() => clearTimeout(timer));
+}
 
 // Unified AI content generation interface
 // Prefers Claude if ANTHROPIC_API_KEY is set, falls back to OpenAI
@@ -86,7 +93,7 @@ async function callClaude(
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) throw new Error("ANTHROPIC_API_KEY is not configured");
 
-  const response = await fetch("https://api.anthropic.com/v1/messages", {
+  const response = await fetchWithTimeout("https://api.anthropic.com/v1/messages", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -126,7 +133,7 @@ async function callOpenAI(
   const apiKey = process.env.OPENAI_API_KEY;
   if (!apiKey) throw new Error("OPENAI_API_KEY is not configured");
 
-  const response = await fetch("https://api.openai.com/v1/chat/completions", {
+  const response = await fetchWithTimeout("https://api.openai.com/v1/chat/completions", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",

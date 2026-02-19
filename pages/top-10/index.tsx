@@ -22,7 +22,7 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
       slug: 'attractions',
       title: 'Top 10 Attractions',
       description: 'Discover the must-see attractions and landmarks in each Thai city',
-      icon: '🎯',
+      icon: '',
       count: totalGuides.attractions,
       color: 'from-blue-500 to-blue-600',
       hoverColor: 'hover:from-blue-600 hover:to-blue-700'
@@ -31,7 +31,7 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
       slug: 'restaurants',
       title: 'Top 10 Restaurants',
       description: 'Find the best dining experiences and local food gems',
-      icon: '🍽️',
+      icon: '',
       count: totalGuides.restaurants,
       color: 'from-green-500 to-green-600',
       hoverColor: 'hover:from-green-600 hover:to-green-700'
@@ -40,7 +40,7 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
       slug: 'hotels',
       title: 'Top 10 Hotels',
       description: 'Discover the finest accommodations for every budget',
-      icon: '🏨',
+      icon: '',
       count: totalGuides.hotels,
       color: 'from-purple-500 to-purple-600',
       hoverColor: 'hover:from-purple-600 hover:to-purple-700'
@@ -64,7 +64,7 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
             
             <div className="text-center mb-8">
               <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
-                🏆 Top 10 Guides
+                Top 10 Guides
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
                 Discover Thailand's best attractions, restaurants, and hotels with our 

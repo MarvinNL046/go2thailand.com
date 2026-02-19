@@ -73,7 +73,7 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
           <div className="container-custom py-16">
             <div className="text-center max-w-4xl mx-auto">
               <h1 className="text-4xl lg:text-6xl font-bold mb-6">
-                🏨 Top 10 Hotel <span className="text-yellow-300">Guides</span>
+                Top 10 Hotel <span className="text-yellow-300">Guides</span>
               </h1>
               <p className="text-xl lg:text-2xl mb-8 opacity-90">
                 Find your perfect stay. Current rates, guest reviews, and insider booking tips across Thailand.
@@ -82,13 +82,13 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
               {/* Trust badges */}
               <div className="flex justify-center items-center gap-4 text-sm mb-8">
                 <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
-                  📊 Current Rates
+                  Current Rates
                 </span>
                 <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
-                  ✨ Expert Curated
+                  Expert Curated
                 </span>
                 <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
-                  💰 Best Deals
+                  Best Deals
                 </span>
               </div>
             </div>
@@ -151,7 +151,7 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
             <div className="container-custom">
               <div className="text-center mb-12">
                 <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-                  🔥 Featured Hotel Guides
+                  Featured Hotel Guides
                 </h2>
                 <p className="text-xl text-gray-600 max-w-2xl mx-auto">
                   Most popular guides with the latest rates and booking recommendations
@@ -178,7 +178,7 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
                         {guide.has_current_data && (
                           <div className="absolute top-4 right-4">
                             <span className="bg-green-500 text-white px-3 py-1 rounded-full text-sm font-semibold">
-                              📊 Current Rates
+                              Current Rates
                             </span>
                           </div>
                         )}
@@ -193,9 +193,9 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
                         </p>
                         
                         <div className="flex items-center justify-between text-sm text-gray-500 mb-4">
-                          <span>🏨 {guide.item_count} hotels</span>
+                          <span>{guide.item_count} hotels</span>
                           {guide.last_updated && (
-                            <span>🔄 Updated {new Date(guide.last_updated).toLocaleDateString()}</span>
+                            <span>Updated {new Date(guide.last_updated).toLocaleDateString()}</span>
                           )}
                         </div>
                         
@@ -220,7 +220,7 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
           <div className="container-custom">
             <div className="text-center mb-12">
               <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-                💡 Smart Booking Tips
+                Smart Booking Tips
               </h2>
               <p className="text-xl text-gray-600 max-w-2xl mx-auto">
                 Get the best deals and avoid common booking mistakes
@@ -229,25 +229,25 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
             
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
               <div className="bg-white rounded-lg p-6 shadow-md">
-                <div className="text-3xl mb-4">📅</div>
+                <div className="text-3xl mb-4"></div>
                 <h3 className="font-semibold text-gray-900 mb-2">Book Early</h3>
                 <p className="text-gray-600 text-sm">Reserve 2-3 months ahead for best rates, especially during peak season.</p>
               </div>
               
               <div className="bg-white rounded-lg p-6 shadow-md">
-                <div className="text-3xl mb-4">❌</div>
+                <div className="text-3xl mb-4"></div>
                 <h3 className="font-semibold text-gray-900 mb-2">Cancellation Policy</h3>
                 <p className="text-gray-600 text-sm">Always check cancellation terms before booking, especially for non-refundable rates.</p>
               </div>
               
               <div className="bg-white rounded-lg p-6 shadow-md">
-                <div className="text-3xl mb-4">💰</div>
+                <div className="text-3xl mb-4"></div>
                 <h3 className="font-semibold text-gray-900 mb-2">Compare Prices</h3>
                 <p className="text-gray-600 text-sm">Check multiple booking platforms and the hotel's direct website for best deals.</p>
               </div>
               
               <div className="bg-white rounded-lg p-6 shadow-md">
-                <div className="text-3xl mb-4">⭐</div>
+                <div className="text-3xl mb-4"></div>
                 <h3 className="font-semibold text-gray-900 mb-2">Read Reviews</h3>
                 <p className="text-gray-600 text-sm">Focus on recent reviews to get current insights about the hotel's condition and service.</p>
               </div>
@@ -288,9 +288,9 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
                       </p>
                       
                       <div className="flex items-center justify-between text-sm text-gray-500">
-                        <span>🏨 {guide.item_count} hotels</span>
+                        <span>{guide.item_count} hotels</span>
                         {guide.last_updated && (
-                          <span>🔄 {new Date(guide.last_updated).toLocaleDateString()}</span>
+                          <span>{new Date(guide.last_updated).toLocaleDateString()}</span>
                         )}
                       </div>
                     </div>
@@ -306,7 +306,7 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
           <div className="container-custom">
             <div className="text-center max-w-2xl mx-auto">
               <h3 className="text-2xl font-bold text-gray-900 mb-3">
-                🏨 Book Your Hotel in Thailand
+                Book Your Hotel in Thailand
               </h3>
               <p className="text-gray-600 mb-6">
                 Compare rates across top booking platforms and find the best deal for your Thailand trip.
@@ -349,10 +349,10 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
 
               <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
                 <Link href="/top-10/restaurants/" className="bg-thailand-red text-white px-6 py-3 rounded-lg font-semibold hover:bg-thailand-red-600 transition-colors">
-                  🍽️ Restaurant Guides
+                  Restaurant Guides
                 </Link>
                 <Link href="/top-10/attractions/" className="bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors">
-                  🎯 Attraction Guides
+                  Attraction Guides
                 </Link>
               </div>
 

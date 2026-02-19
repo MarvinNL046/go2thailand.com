@@ -29,13 +29,13 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
   const [filter, setFilter] = useState<string>('all');
   
   const categories = [
-    { id: 'all', label: 'All Posts', emoji: '✨' },
-    { id: 'food', label: 'Thai Food', emoji: '🍜' },
-    { id: 'city', label: 'Cities', emoji: '🏙️' },
-    { id: 'beach', label: 'Beaches', emoji: '🏖️' },
-    { id: 'temple', label: 'Temples', emoji: '🛕' },
-    { id: 'attraction', label: 'Attractions', emoji: '🎯' },
-    { id: 'culture', label: 'Culture', emoji: '🎭' }
+    { id: 'all', label: 'All Posts', emoji: '' },
+    { id: 'food', label: 'Thai Food', emoji: '' },
+    { id: 'city', label: 'Cities', emoji: '' },
+    { id: 'beach', label: 'Beaches', emoji: '' },
+    { id: 'temple', label: 'Temples', emoji: '' },
+    { id: 'attraction', label: 'Attractions', emoji: '' },
+    { id: 'culture', label: 'Culture', emoji: '' }
   ];
 
   const filteredPosts = filter === 'all' 
@@ -132,7 +132,7 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                       />
                       <div className="absolute top-3 left-3">
                         <span className={`px-3 py-1 rounded-full text-xs font-medium ${getTypeColor(post.type)}`}>
-                          {categories.find(c => c.id === post.type)?.emoji} {post.type}
+                          {post.type}
                         </span>
                       </div>
                     </div>
@@ -145,9 +145,9 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                       </p>
                       <div className="flex items-center justify-between text-sm text-gray-500">
                         <div className="flex items-center gap-3">
-                          <span>❤️ {post.engagement.likes}</span>
-                          <span>💬 {post.engagement.comments}</span>
-                          <span>🔄 {post.engagement.shares}</span>
+                          <span>{post.engagement.likes}</span>
+                          <span>{post.engagement.comments}</span>
+                          <span>{post.engagement.shares}</span>
                         </div>
                         <span className="text-thailand-blue font-medium">
                           Read more →
@@ -173,7 +173,7 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                         : 'bg-white text-gray-700 hover:bg-gray-100'
                     }`}
                   >
-                    {category.emoji} {category.label}
+                    {category.label}
                   </button>
                 ))}
               </div>
@@ -205,7 +205,7 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                           {post.type}
                         </span>
                         <div className="flex items-center gap-2 text-xs text-gray-500">
-                          <span>❤️ {post.engagement.likes}</span>
+                          <span>{post.engagement.likes}</span>
                         </div>
                       </div>
                       <p className="text-sm text-gray-600 line-clamp-2">

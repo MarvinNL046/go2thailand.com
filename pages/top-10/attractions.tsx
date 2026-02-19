@@ -72,7 +72,7 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
           <div className="container-custom py-16">
             <div className="text-center max-w-4xl mx-auto">
               <h1 className="text-4xl lg:text-6xl font-bold mb-6">
-                🎯 Top 10 Attraction <span className="text-yellow-300">Guides</span>
+                Top 10 Attraction <span className="text-yellow-300">Guides</span>
               </h1>
               <p className="text-xl lg:text-2xl mb-8 opacity-90">
                 Discover Thailand's must-see places. Current entrance fees, opening hours, and insider visitor tips.
@@ -81,13 +81,13 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
               {/* Trust badges */}
               <div className="flex justify-center items-center gap-4 text-sm mb-8">
                 <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
-                  📊 Current Info
+                  Current Info
                 </span>
                 <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
-                  🤖 Expert Curated
+                  Expert Curated
                 </span>
                 <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
-                  🎫 Updated Prices
+                  Updated Prices
                 </span>
               </div>
             </div>
@@ -138,7 +138,7 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
             <div className="container-custom">
               <div className="text-center mb-12">
                 <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-                  🔥 Featured Attraction Guides
+                  Featured Attraction Guides
                 </h2>
                 <p className="text-xl text-gray-600 max-w-2xl mx-auto">
                   Most popular guides with the latest information and visitor tips
@@ -165,7 +165,7 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
                         {guide.has_current_data && (
                           <div className="absolute top-4 right-4">
                             <span className="bg-blue-500 text-white px-3 py-1 rounded-full text-sm font-semibold">
-                              📊 Current Info
+                              Current Info
                             </span>
                           </div>
                         )}
@@ -180,9 +180,9 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
                         </p>
                         
                         <div className="flex items-center justify-between text-sm text-gray-500 mb-4">
-                          <span>🎯 {guide.item_count} attractions</span>
+                          <span>{guide.item_count} attractions</span>
                           {guide.last_updated && (
-                            <span>🔄 Updated {new Date(guide.last_updated).toLocaleDateString()}</span>
+                            <span>Updated {new Date(guide.last_updated).toLocaleDateString()}</span>
                           )}
                         </div>
                         
@@ -207,7 +207,7 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
           <div className="container-custom">
             <div className="text-center mb-12">
               <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-                💡 Smart Visitor Tips
+                Smart Visitor Tips
               </h2>
               <p className="text-xl text-gray-600 max-w-2xl mx-auto">
                 Make the most of your sightseeing with these insider tips
@@ -216,25 +216,25 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
             
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
               <div className="bg-white rounded-lg p-6 shadow-md">
-                <div className="text-3xl mb-4">🌅</div>
+                <div className="text-3xl mb-4"></div>
                 <h3 className="font-semibold text-gray-900 mb-2">Visit Early</h3>
                 <p className="text-gray-600 text-sm">Arrive early morning to avoid crowds and heat, especially at popular temples and landmarks.</p>
               </div>
               
               <div className="bg-white rounded-lg p-6 shadow-md">
-                <div className="text-3xl mb-4">🎫</div>
+                <div className="text-3xl mb-4"></div>
                 <h3 className="font-semibold text-gray-900 mb-2">Check Hours</h3>
                 <p className="text-gray-600 text-sm">Verify opening hours before visiting, as they can change for holidays and special events.</p>
               </div>
               
               <div className="bg-white rounded-lg p-6 shadow-md">
-                <div className="text-3xl mb-4">👕</div>
+                <div className="text-3xl mb-4"></div>
                 <h3 className="font-semibold text-gray-900 mb-2">Dress Code</h3>
                 <p className="text-gray-600 text-sm">Respect local customs and dress codes, especially when visiting temples and religious sites.</p>
               </div>
               
               <div className="bg-white rounded-lg p-6 shadow-md">
-                <div className="text-3xl mb-4">💧</div>
+                <div className="text-3xl mb-4"></div>
                 <h3 className="font-semibold text-gray-900 mb-2">Stay Hydrated</h3>
                 <p className="text-gray-600 text-sm">Bring sunscreen and water, especially for outdoor attractions in Thailand's tropical climate.</p>
               </div>
@@ -275,9 +275,9 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
                       </p>
                       
                       <div className="flex items-center justify-between text-sm text-gray-500">
-                        <span>🎯 {guide.item_count} attractions</span>
+                        <span>{guide.item_count} attractions</span>
                         {guide.last_updated && (
-                          <span>🔄 {new Date(guide.last_updated).toLocaleDateString()}</span>
+                          <span>{new Date(guide.last_updated).toLocaleDateString()}</span>
                         )}
                       </div>
                     </div>
@@ -293,7 +293,7 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
           <div className="container-custom">
             <div className="text-center max-w-2xl mx-auto">
               <h3 className="text-2xl font-bold text-gray-900 mb-3">
-                🎟️ Book Tickets & Tours in Thailand
+                Book Tickets & Tours in Thailand
               </h3>
               <p className="text-gray-600 mb-6">
                 Skip the queues and book tickets, guided tours, and unique experiences across Thailand online.
@@ -339,10 +339,10 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
 
               <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
                 <Link href="/top-10/restaurants/" className="bg-thailand-red text-white px-6 py-3 rounded-lg font-semibold hover:bg-thailand-red-600 transition-colors">
-                  🍽️ Restaurant Guides
+                  Restaurant Guides
                 </Link>
                 <Link href="/top-10/hotels/" className="bg-thailand-blue text-white px-6 py-3 rounded-lg font-semibold hover:bg-thailand-blue-600 transition-colors">
-                  🏨 Hotel Guides
+                  Hotel Guides
                 </Link>
               </div>
 

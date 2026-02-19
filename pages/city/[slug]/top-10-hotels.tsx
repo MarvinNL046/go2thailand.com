@@ -139,16 +139,16 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
               {hotelsData.data_sources && (
                 <div className="flex justify-center items-center gap-2 text-sm text-gray-500 mb-6">
                   <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full">
-                    📊 Current Rates
+                    Current Rates
                   </span>
                   {hotelsData.hybrid && (
                     <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full">
-                      🤖 Expert Curated
+                      Expert Curated
                     </span>
                   )}
                   {hotelsData.last_perplexity_update && (
                     <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full">
-                      🔄 Updated {new Date(hotelsData.last_perplexity_update).toLocaleDateString()}
+                      Updated {new Date(hotelsData.last_perplexity_update).toLocaleDateString()}
                     </span>
                   )}
                 </div>
@@ -201,7 +201,7 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
 
                   {/* Hotel Booking Tips */}
                   <div className="bg-white rounded-lg shadow-lg p-6">
-                    <h3 className="text-lg font-semibold text-gray-900 mb-4">💡 Booking Tips</h3>
+                    <h3 className="text-lg font-semibold text-gray-900 mb-4">Booking Tips</h3>
                     <div className="space-y-3 text-sm text-gray-600">
                       <p>• Book 2-3 months ahead for best rates</p>
                       <p>• Check cancellation policies</p>
@@ -215,13 +215,13 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
                     <h3 className="text-lg font-semibold text-gray-900 mb-4">Explore More</h3>
                     <div className="space-y-3">
                       <Link href={`/city/${city.slug}/`} className="block text-thailand-blue hover:underline">
-                        📍 {city.name.en} Guide
+                        {city.name.en} Guide
                       </Link>
                       <Link href={`/city/${city.slug}/top-10-restaurants/`} className="block text-thailand-blue hover:underline">
-                        🍽️ Top 10 Restaurants
+                        Top 10 Restaurants
                       </Link>
                       <Link href={`/city/${city.slug}/top-10-attractions/`} className="block text-thailand-blue hover:underline">
-                        🎯 Top 10 Attractions
+                        Top 10 Attractions
                       </Link>
                     </div>
                   </div>
@@ -250,11 +250,11 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
                               </h2>
                               {hotel.current_price && (
                                 <div className="text-lg text-green-600 font-semibold mb-2">
-                                  💰 {hotel.current_price}
+                                  {hotel.current_price}
                                 </div>
                               )}
                               <div className="text-gray-600 mb-2">
-                                📍 {hotel.location}
+                                {hotel.location}
                               </div>
                             </div>
                           </div>
@@ -312,7 +312,7 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
                   {/* Book Your Hotel - Affiliate CTA */}
                   <div className="bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg shadow-lg p-8 text-center border border-blue-200">
                     <h3 className="text-2xl font-bold text-gray-900 mb-3">
-                      🏨 Book Your Hotel in {city.name.en}
+                      Book Your Hotel in {city.name.en}
                     </h3>
                     <p className="text-gray-600 mb-6">
                       Compare rates across top booking platforms and find the best deal for your stay in {city.name.en}.

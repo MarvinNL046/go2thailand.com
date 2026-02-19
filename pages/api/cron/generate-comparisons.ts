@@ -89,8 +89,10 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       const slug = `${pair.i1}-vs-${pair.i2}`;
       const filePath = `data/comparisons/${pair.type}/${slug}.json`;
 
-      // Check if file exists on GitHub
+      // Check if file exists on GitHub (with timeout to prevent hanging)
       try {
+        const controller = new AbortController();
+        const timer = setTimeout(() => controller.abort(), 5000);
         const checkRes = await fetch(
           `https://api.github.com/repos/MarvinNL046/go2thailand.com/contents/${filePath}`,
           {
@@ -98,14 +100,16 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
               Authorization: `token ${process.env.GITHUB_TOKEN}`,
               Accept: "application/vnd.github.v3+json",
             },
+            signal: controller.signal,
           }
         );
+        clearTimeout(timer);
         if (checkRes.ok) {
           // File exists, skip
           continue;
         }
       } catch {
-        // Error checking, assume doesn't exist
+        // Error checking or timeout, assume doesn't exist
       }
 
       filesToGenerate.push(pair);

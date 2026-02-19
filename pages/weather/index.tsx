@@ -15,18 +15,18 @@ interface WeatherIndexProps {
 }
 
 const monthlyHighlights = [
-  { month: 'january', name: 'January', description: 'Cool & Dry - Peak Season', emoji: '❄️' },
-  { month: 'february', name: 'February', description: 'Perfect Weather', emoji: '☀️' },
-  { month: 'march', name: 'March', description: 'Getting Warmer', emoji: '🌤️' },
-  { month: 'april', name: 'April', description: 'Songkran Festival', emoji: '💦' },
-  { month: 'may', name: 'May', description: 'Rainy Season Begins', emoji: '🌧️' },
-  { month: 'june', name: 'June', description: 'Green Season', emoji: '🌿' },
-  { month: 'july', name: 'July', description: 'Peak Rainy Season', emoji: '⛈️' },
-  { month: 'august', name: 'August', description: 'Monsoon Season', emoji: '🌊' },
-  { month: 'september', name: 'September', description: 'Wettest Month', emoji: '🌧️' },
-  { month: 'october', name: 'October', description: 'Rain Decreasing', emoji: '🌦️' },
-  { month: 'november', name: 'November', description: 'Loy Krathong - Cool Returns', emoji: '🏮' },
-  { month: 'december', name: 'December', description: 'Peak Cool Season', emoji: '🎄' }
+  { month: 'january', name: 'January', description: 'Cool & Dry - Peak Season', emoji: '' },
+  { month: 'february', name: 'February', description: 'Perfect Weather', emoji: '' },
+  { month: 'march', name: 'March', description: 'Getting Warmer', emoji: '' },
+  { month: 'april', name: 'April', description: 'Songkran Festival', emoji: '' },
+  { month: 'may', name: 'May', description: 'Rainy Season Begins', emoji: '' },
+  { month: 'june', name: 'June', description: 'Green Season', emoji: '' },
+  { month: 'july', name: 'July', description: 'Peak Rainy Season', emoji: '' },
+  { month: 'august', name: 'August', description: 'Monsoon Season', emoji: '' },
+  { month: 'september', name: 'September', description: 'Wettest Month', emoji: '' },
+  { month: 'october', name: 'October', description: 'Rain Decreasing', emoji: '' },
+  { month: 'november', name: 'November', description: 'Loy Krathong - Cool Returns', emoji: '' },
+  { month: 'december', name: 'December', description: 'Peak Cool Season', emoji: '' }
 ];
 
 const weatherFaqs = [
@@ -101,7 +101,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
         <Breadcrumbs items={breadcrumbs} />
 
         <h1 className="text-4xl font-bold text-gray-900 mb-8">
-          Thailand Weather Guide 🌤️
+          Thailand Weather Guide
         </h1>
 
         {/* Introduction */}
@@ -144,9 +144,9 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
                 <div key={region} className="mb-8 last:mb-0">
                   <h3 className="text-xl font-semibold text-gray-800 mb-4 flex items-center">
                     <span className="mr-2">
-                      {region === 'Northern' && '🏔️'}
-                      {region === 'Central' && '🏛️'}
-                      {region === 'Southern' && '🏝️'}
+                      {region === 'Northern' && ''}
+                      {region === 'Central' && ''}
+                      {region === 'Southern' && ''}
                     </span>
                     {region} Thailand
                   </h3>
@@ -189,22 +189,22 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
             <div className="lg:sticky lg:top-4 space-y-6">
             {/* Quick Tips */}
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">🌟 Quick Weather Tips</h3>
+              <h3 className="text-lg font-semibold mb-4">Quick Weather Tips</h3>
               <ul className="space-y-3 text-sm">
                 <li className="flex items-start">
-                  <span className="text-blue-500 mr-2">❄️</span>
+                  <span className="text-blue-500 mr-2"></span>
                   <div>
                     <strong>Cool Season (Nov-Feb):</strong> Best weather, peak prices
                   </div>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-orange-500 mr-2">☀️</span>
+                  <span className="text-orange-500 mr-2"></span>
                   <div>
                     <strong>Hot Season (Mar-May):</strong> Very hot, Songkran in April
                   </div>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-green-500 mr-2">🌧️</span>
+                  <span className="text-green-500 mr-2"></span>
                   <div>
                     <strong>Rainy Season (Jun-Oct):</strong> Afternoon showers, fewer tourists
                   </div>
@@ -214,7 +214,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
 
             {/* Best Times to Visit */}
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">📅 Best Times to Visit</h3>
+              <h3 className="text-lg font-semibold mb-4">Best Times to Visit</h3>
               <div className="space-y-3 text-sm">
                 <div>
                   <h4 className="font-medium text-gray-800">For Perfect Weather:</h4>
@@ -239,7 +239,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
 
             {/* Regional Differences */}
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">🗺️ Regional Differences</h3>
+              <h3 className="text-lg font-semibold mb-4">Regional Differences</h3>
               <ul className="space-y-2 text-sm">
                 <li>
                   <strong className="text-gray-800">North:</strong>
@@ -277,7 +277,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
               rel="noopener noreferrer"
               className="bg-white text-thailand-blue rounded-lg p-6 text-center hover:shadow-lg transition-shadow block"
             >
-              <div className="text-3xl mb-3">🏨</div>
+              <div className="text-3xl mb-3"></div>
               <h3 className="font-semibold text-lg mb-1">Find Hotels</h3>
               <p className="text-sm text-gray-600">Compare deals on Trip.com</p>
             </a>
@@ -285,7 +285,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
               href="/esim/"
               className="bg-white text-thailand-blue rounded-lg p-6 text-center hover:shadow-lg transition-shadow block"
             >
-              <div className="text-3xl mb-3">📱</div>
+              <div className="text-3xl mb-3"></div>
               <h3 className="font-semibold text-lg mb-1">Stay Connected</h3>
               <p className="text-sm text-gray-600">Get an eSIM for Thailand</p>
             </Link>
@@ -293,7 +293,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
               href="/travel-insurance/"
               className="bg-white text-thailand-blue rounded-lg p-6 text-center hover:shadow-lg transition-shadow block"
             >
-              <div className="text-3xl mb-3">🛡️</div>
+              <div className="text-3xl mb-3"></div>
               <h3 className="font-semibold text-lg mb-1">Travel Insurance</h3>
               <p className="text-sm text-gray-600">Protect your trip</p>
             </Link>

@@ -262,7 +262,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                 <ul className="space-y-3">
                   {visa.tips.map((tip, index) => (
                     <li key={index} className="flex items-start gap-2">
-                      <span className="text-yellow-500">💡</span>
+                      <span className="text-yellow-500"></span>
                       <span className="text-sm text-gray-700">{tip[lang]}</span>
                     </li>
                   ))}
@@ -301,7 +301,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
 
               {/* eSIM CTA */}
               <div className="bg-white rounded-lg shadow-lg p-6">
-                <h3 className="text-xl font-bold mb-2">📱 Thailand eSIM</h3>
+                <h3 className="text-xl font-bold mb-2">Thailand eSIM</h3>
                 <p className="text-sm text-gray-600 mb-4">
                   {lang === 'nl'
                     ? 'Blijf verbonden zodra je landt in Thailand'

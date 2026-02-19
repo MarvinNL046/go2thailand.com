@@ -39,31 +39,31 @@ const categoryInfo = {
   'main-dish': {
     title: 'Main Dishes',
     description: 'Hearty and satisfying Thai main courses that form the centerpiece of any meal',
-    icon: '🍛',
+    icon: '',
     color: 'bg-orange-50 border-orange-200'
   },
   'soup': {
     title: 'Thai Soups',
     description: 'Soul-warming broths and soups that showcase the complex flavors of Thai cuisine',
-    icon: '🍜',
+    icon: '',
     color: 'bg-blue-50 border-blue-200'
   },
   'curry': {
     title: 'Thai Curries',
     description: 'Rich and aromatic curry dishes featuring coconut milk and fragrant spices',
-    icon: '🍛',
+    icon: '',
     color: 'bg-yellow-50 border-yellow-200'
   },
   'salad': {
     title: 'Thai Salads',
     description: 'Fresh and vibrant salads with bold flavors and exciting textures',
-    icon: '🥗',
+    icon: '',
     color: 'bg-green-50 border-green-200'
   },
   'dessert': {
     title: 'Thai Desserts',
     description: 'Sweet treats and traditional desserts that perfectly end any Thai meal',
-    icon: '🍨',
+    icon: '',
     color: 'bg-pink-50 border-pink-200'
   }
 };
@@ -149,10 +149,10 @@ export default function FoodCategoryPage({ category, dishes }: CategoryPageProps
                 >
                   <option value="all">All Levels</option>
                   <option value="none">No Spice</option>
-                  <option value="mild">Mild 🌶️</option>
-                  <option value="medium">Medium 🌶️🌶️</option>
-                  <option value="hot">Hot 🌶️🌶️🌶️</option>
-                  <option value="very hot">Very Hot 🌶️🌶️🌶️🌶️</option>
+                  <option value="mild">Mild</option>
+                  <option value="medium">Medium</option>
+                  <option value="hot">Hot</option>
+                  <option value="very hot">Very Hot</option>
                 </select>
               </div>
             </div>
@@ -190,11 +190,11 @@ export default function FoodCategoryPage({ category, dishes }: CategoryPageProps
                               dish.spice_level === 'medium' ? 'bg-orange-500' :
                               dish.spice_level === 'mild' ? 'bg-yellow-500' : 'bg-green-500'
                             }`}>
-                              {dish.spice_level === 'none' ? 'No spice' : 
-                               dish.spice_level === 'mild' ? '🌶️ Mild' :
-                               dish.spice_level === 'medium' ? '🌶️🌶️ Medium' :
-                               dish.spice_level === 'hot' ? '🌶️🌶️🌶️ Hot' :
-                               '🌶️🌶️🌶️🌶️ Very Hot'}
+                              {dish.spice_level === 'none' ? 'No spice' :
+                               dish.spice_level === 'mild' ? 'Mild' :
+                               dish.spice_level === 'medium' ? 'Medium' :
+                               dish.spice_level === 'hot' ? 'Hot' :
+                               'Very Hot'}
                             </span>
                           </div>
                           <div className="absolute top-3 right-3">
@@ -257,7 +257,7 @@ export default function FoodCategoryPage({ category, dishes }: CategoryPageProps
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-orange-100">
-                <div className="text-5xl mb-4">👨‍🍳</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Cooking Classes &amp; Food Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Cooking classes and food tours across Thailand
@@ -272,7 +272,7 @@ export default function FoodCategoryPage({ category, dishes }: CategoryPageProps
                 </a>
               </div>
               <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-blue-100">
-                <div className="text-5xl mb-4">🍜</div>
+                <div className="text-5xl mb-4"></div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Food Walking Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Guided food walking tours

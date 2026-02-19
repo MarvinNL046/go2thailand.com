@@ -9,7 +9,7 @@ const AnnouncementBar = () => {
     <div className="bg-gradient-to-r from-thailand-red to-thailand-red-600 text-white py-2 px-4 text-center relative">
       <div className="max-w-7xl mx-auto">
         <p className="text-sm md:text-base font-medium">
-          🎉 New content added regularly! Check back often for the latest Thailand travel guides and tips! 🌴
+          New content added regularly! Check back often for the latest Thailand travel guides and tips!
         </p>
       </div>
       <button

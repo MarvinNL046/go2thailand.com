@@ -65,13 +65,13 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  🎒 Tried & Tested
+                  Tried & Tested
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  🌴 Thailand Specific
+                  Thailand Specific
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  💰 Best Value
+                  Best Value
                 </div>
               </div>
             </div>
@@ -88,7 +88,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
             <div className="bg-orange-50 border border-orange-200 rounded-lg mt-4">
               <div className="px-4 py-3">
                 <p className="text-sm text-center text-orange-800">
-                  💡 This page contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you. 😊
+                  This page contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
                 </p>
               </div>
             </div>
@@ -101,28 +101,28 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
             <h2 className="text-3xl font-bold text-center mb-8">Thailand Travel Essentials</h2>
             <div className="grid md:grid-cols-4 gap-6 mb-12">
               <div className="text-center">
-                <div className="text-4xl mb-4">🦟</div>
+                <div className="text-4xl mb-4"></div>
                 <h3 className="font-semibold mb-2">Mosquito Protection</h3>
                 <p className="text-gray-600 text-sm">
                   DEET spray is essential, especially during rainy season
                 </p>
               </div>
               <div className="text-center">
-                <div className="text-4xl mb-4">☀️</div>
+                <div className="text-4xl mb-4"></div>
                 <h3 className="font-semibold mb-2">Sun Protection</h3>
                 <p className="text-gray-600 text-sm">
                   High SPF sunscreen and a good hat are must-haves
                 </p>
               </div>
               <div className="text-center">
-                <div className="text-4xl mb-4">🌧️</div>
+                <div className="text-4xl mb-4"></div>
                 <h3 className="font-semibold mb-2">Rain Gear</h3>
                 <p className="text-gray-600 text-sm">
                   Lightweight rain jacket or poncho for sudden downpours
                 </p>
               </div>
               <div className="text-center">
-                <div className="text-4xl mb-4">🔌</div>
+                <div className="text-4xl mb-4"></div>
                 <h3 className="font-semibold mb-2">Power Adapter</h3>
                 <p className="text-gray-600 text-sm">
                   Thailand uses Type A, B, C plugs - universal adapter needed
@@ -231,7 +231,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
               ))}
             </div>
 
-            {/* 💰 MID-CONTENT AD */}
+            {/* MID-CONTENT AD */}
           </div>
         </section>
 
@@ -242,7 +242,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
             <div className="max-w-3xl mx-auto grid md:grid-cols-2 gap-6">
               <div className="bg-blue-50 rounded-lg p-6">
                 <h3 className="font-semibold mb-3 flex items-center gap-2">
-                  <span className="text-2xl">🏝️</span>
+                  <span className="text-2xl"></span>
                   Island Hopping Essentials
                 </h3>
                 <ul className="space-y-2 text-sm text-gray-700">
@@ -254,7 +254,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
               </div>
               <div className="bg-green-50 rounded-lg p-6">
                 <h3 className="font-semibold mb-3 flex items-center gap-2">
-                  <span className="text-2xl">🏛️</span>
+                  <span className="text-2xl"></span>
                   Temple Visit Requirements
                 </h3>
                 <ul className="space-y-2 text-sm text-gray-700">
@@ -266,7 +266,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
               </div>
               <div className="bg-yellow-50 rounded-lg p-6">
                 <h3 className="font-semibold mb-3 flex items-center gap-2">
-                  <span className="text-2xl">🌡️</span>
+                  <span className="text-2xl"></span>
                   Hot Weather Hacks
                 </h3>
                 <ul className="space-y-2 text-sm text-gray-700">
@@ -278,7 +278,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
               </div>
               <div className="bg-purple-50 rounded-lg p-6">
                 <h3 className="font-semibold mb-3 flex items-center gap-2">
-                  <span className="text-2xl">🎒</span>
+                  <span className="text-2xl"></span>
                   Backpacking Must-Haves
                 </h3>
                 <ul className="space-y-2 text-sm text-gray-700">
@@ -302,28 +302,28 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
             <div className="grid md:grid-cols-4 gap-6 max-w-5xl mx-auto">
               <Link href="/esim/" className="group">
                 <div className="bg-white rounded-lg shadow-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
-                  <div className="text-4xl mb-4">📱</div>
+                  <div className="text-4xl mb-4"></div>
                   <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Thailand eSIM</h3>
                   <p className="text-gray-600 text-sm">Stay connected with affordable data plans. No physical SIM needed.</p>
                 </div>
               </Link>
               <Link href="/travel-insurance/" className="group">
                 <div className="bg-white rounded-lg shadow-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
-                  <div className="text-4xl mb-4">🛡️</div>
+                  <div className="text-4xl mb-4"></div>
                   <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Travel Insurance</h3>
                   <p className="text-gray-600 text-sm">Protect your trip with comprehensive coverage for Thailand.</p>
                 </div>
               </Link>
               <Link href="/travel-security/" className="group">
                 <div className="bg-white rounded-lg shadow-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
-                  <div className="text-4xl mb-4">🔒</div>
+                  <div className="text-4xl mb-4"></div>
                   <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">VPN & Security</h3>
                   <p className="text-gray-600 text-sm">Stay safe online with a reliable VPN for public Wi-Fi in Thailand.</p>
                 </div>
               </Link>
               <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="group">
                 <div className="bg-white rounded-lg shadow-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
-                  <div className="text-4xl mb-4">🏨</div>
+                  <div className="text-4xl mb-4"></div>
                   <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Book Hotels</h3>
                   <p className="text-gray-600 text-sm">Find great deals on Thailand hotels and resorts on Trip.com.</p>
                 </div>
@@ -341,11 +341,11 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
             <div className="max-w-3xl mx-auto text-center">
               <p className="text-sm text-gray-600 mb-2">
                 <strong>Affiliate Disclosure:</strong> As an Amazon Associate, I earn from qualifying purchases. 
-                This means I may receive a commission at no extra cost to you when you purchase through links on this page. 🙏
+                This means I may receive a commission at no extra cost to you when you purchase through links on this page.
               </p>
               <p className="text-xs text-gray-500">
                 All gear recommendations are based on personal experience traveling in Thailand and extensive research. 
-                Prices and availability are subject to change. 🎒✈️
+                Prices and availability are subject to change.
               </p>
             </div>
           </div>
@@ -357,11 +357,11 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
 
 export const getStaticProps: GetStaticProps = async () => {
   const categories: GearCategory[] = [
-    { id: 'backpacks', name: 'Backpacks', icon: '🎒', description: 'Travel backpacks and daypacks' },
-    { id: 'health', name: 'Health & Safety', icon: '🏥', description: 'First aid, mosquito protection' },
-    { id: 'electronics', name: 'Electronics', icon: '📱', description: 'Adapters, power banks, tech' },
-    { id: 'clothing', name: 'Clothing', icon: '👕', description: 'Weather appropriate clothes' },
-    { id: 'accessories', name: 'Accessories', icon: '🕶️', description: 'Travel accessories' }
+    { id: 'backpacks', name: 'Backpacks', icon: '', description: 'Travel backpacks and daypacks' },
+    { id: 'health', name: 'Health & Safety', icon: '', description: 'First aid, mosquito protection' },
+    { id: 'electronics', name: 'Electronics', icon: '', description: 'Adapters, power banks, tech' },
+    { id: 'clothing', name: 'Clothing', icon: '', description: 'Weather appropriate clothes' },
+    { id: 'accessories', name: 'Accessories', icon: '', description: 'Travel accessories' }
   ];
 
   const gearItems: GearItem[] = [

@@ -63,13 +63,13 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  🏥 Medical Coverage
+                  Medical Coverage
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  🦠 COVID-19 Protection
+                  COVID-19 Protection
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  🏍️ Adventure Sports
+                  Adventure Sports
                 </div>
               </div>
             </div>
@@ -86,7 +86,7 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
             <div className="bg-orange-50 border border-orange-200 rounded-lg mt-4">
               <div className="px-4 py-3">
                 <p className="text-sm text-center text-orange-800">
-                  💡 This page contains affiliate links. We may earn a commission at no extra cost to you when you purchase through our links. 😊
+                  This page contains affiliate links. We may earn a commission at no extra cost to you when you purchase through our links.
                 </p>
               </div>
             </div>
@@ -99,21 +99,21 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
             <h2 className="text-3xl font-bold text-center mb-8">Why You Need Travel Insurance for Thailand</h2>
             <div className="grid md:grid-cols-3 gap-6 mb-12">
               <div className="text-center">
-                <div className="text-4xl mb-4">🏥</div>
+                <div className="text-4xl mb-4"></div>
                 <h3 className="font-semibold mb-2">Medical Emergencies</h3>
                 <p className="text-gray-600 text-sm">
                   Thai hospitals require upfront payment. A simple ER visit can cost $500+
                 </p>
               </div>
               <div className="text-center">
-                <div className="text-4xl mb-4">🏍️</div>
+                <div className="text-4xl mb-4"></div>
                 <h3 className="font-semibold mb-2">Motorbike Accidents</h3>
                 <p className="text-gray-600 text-sm">
                   The #1 cause of tourist injuries. Make sure you're covered for scooter riding
                 </p>
               </div>
               <div className="text-center">
-                <div className="text-4xl mb-4">✈️</div>
+                <div className="text-4xl mb-4"></div>
                 <h3 className="font-semibold mb-2">Trip Disruptions</h3>
                 <p className="text-gray-600 text-sm">
                   Flight cancellations, lost baggage, and unexpected changes
@@ -279,21 +279,21 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
             <div className="max-w-3xl mx-auto">
               <div className="space-y-4">
                 <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4">
-                  <h3 className="font-semibold mb-2">⚠️ Motorbike Coverage</h3>
+                  <h3 className="font-semibold mb-2">Motorbike Coverage</h3>
                   <p className="text-gray-700">
                     Most standard policies don't cover motorbike accidents. Look for "adventure sports" 
                     or specific motorbike coverage if you plan to rent a scooter.
                   </p>
                 </div>
                 <div className="bg-blue-50 border-l-4 border-blue-400 p-4">
-                  <h3 className="font-semibold mb-2">💊 Pre-existing Conditions</h3>
+                  <h3 className="font-semibold mb-2">Pre-existing Conditions</h3>
                   <p className="text-gray-700">
                     Declare all pre-existing medical conditions. Some insurers offer coverage 
                     after a stability period (usually 90 days).
                   </p>
                 </div>
                 <div className="bg-green-50 border-l-4 border-green-400 p-4">
-                  <h3 className="font-semibold mb-2">🏥 Direct Billing Hospitals</h3>
+                  <h3 className="font-semibold mb-2">Direct Billing Hospitals</h3>
                   <p className="text-gray-700">
                     Choose insurers with direct billing agreements with Thai hospitals. 
                     This means you won't need to pay upfront for medical care.
@@ -313,22 +313,22 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
               <Link href="/esim/" className="bg-white rounded-lg shadow-sm p-6 text-center hover:shadow-lg transition-shadow block">
-                <div className="text-4xl mb-3">📱</div>
+                <div className="text-4xl mb-3"></div>
                 <h3 className="font-semibold text-gray-900 mb-2">Thailand eSIM</h3>
                 <p className="text-gray-600 text-sm">Stay connected with affordable data plans throughout Thailand.</p>
               </Link>
               <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="bg-white rounded-lg shadow-sm p-6 text-center hover:shadow-lg transition-shadow block">
-                <div className="text-4xl mb-3">🏨</div>
+                <div className="text-4xl mb-3"></div>
                 <h3 className="font-semibold text-gray-900 mb-2">Book Hotels</h3>
                 <p className="text-gray-600 text-sm">Find the best hotel deals across Thailand on Trip.com.</p>
               </a>
               <Link href="/activities/" className="bg-white rounded-lg shadow-sm p-6 text-center hover:shadow-lg transition-shadow block">
-                <div className="text-4xl mb-3">🎯</div>
+                <div className="text-4xl mb-3"></div>
                 <h3 className="font-semibold text-gray-900 mb-2">Activities & Tours</h3>
                 <p className="text-gray-600 text-sm">Discover the best tours, day trips, and experiences in Thailand.</p>
               </Link>
               <Link href="/travel-security/" className="bg-white rounded-lg shadow-sm p-6 text-center hover:shadow-lg transition-shadow block">
-                <div className="text-4xl mb-3">🔒</div>
+                <div className="text-4xl mb-3"></div>
                 <h3 className="font-semibold text-gray-900 mb-2">VPN & Security</h3>
                 <p className="text-gray-600 text-sm">Protect your online privacy while traveling in Thailand.</p>
               </Link>

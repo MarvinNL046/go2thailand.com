@@ -63,21 +63,21 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
     const fromCity = cities.find(c => c.slug === from);
     const toCity = cities.find(c => c.slug === to);
     
-    if (!fromCity || !toCity) return '🚌';
+    if (!fromCity || !toCity) return '';
     
     // Check if it's an island route
     if (['phuket', 'koh-samui', 'koh-phangan', 'koh-tao'].includes(from) || 
         ['phuket', 'koh-samui', 'koh-phangan', 'koh-tao'].includes(to)) {
-      return '⛴️';
+      return '';
     }
     
     // Check distance for flight icon
     const route = allRoutes.find(r => r.slug === `${from}-to-${to}`);
     if (route && parseInt(route.distance) > 500) {
-      return '✈️';
+      return '';
     }
     
-    return '🚌';
+    return '';
   };
 
   const groupedRoutes = allRoutes.reduce((acc, route) => {
@@ -109,7 +109,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
 
         {/* 12Go Search Widget */}
         <section className="bg-white rounded-lg shadow-md p-6 mb-8">
-          <h2 className="text-2xl font-bold mb-4">🚌 Book Buses, Trains & Ferries</h2>
+          <h2 className="text-2xl font-bold mb-4">Book Buses, Trains & Ferries</h2>
           <p className="text-gray-600 mb-4">Search and book transport across Thailand with 12Go — compare operators, prices, and schedules.</p>
           <AffiliateWidget scriptContent={TWELVEGO_SEARCH_WIDGET} minHeight="300px" />
           <p className="text-xs text-gray-500 mt-2 text-center">Powered by 12Go — we earn a commission at no extra cost to you</p>
@@ -117,7 +117,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
 
         {/* Route Finder */}
         <section className="bg-white rounded-lg shadow-md p-6 mb-8">
-          <h2 className="text-2xl font-bold mb-4">🔍 Find Your Route</h2>
+          <h2 className="text-2xl font-bold mb-4">Find Your Route</h2>
           <div className="grid md:grid-cols-3 gap-4">
             <div>
               <label htmlFor="from" className="block text-sm font-medium text-gray-700 mb-2">
@@ -165,7 +165,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
 
         {/* Popular Routes */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold mb-6">⭐ Popular Routes</h2>
+          <h2 className="text-3xl font-bold mb-6">Popular Routes</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
             {popularRoutes.map(route => {
               const from = cities.find(c => c.slug === route.from);
@@ -198,15 +198,11 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
 
         {/* All Routes by Region */}
         <section>
-          <h2 className="text-3xl font-bold mb-6">🗺️ All Routes by Region</h2>
+          <h2 className="text-3xl font-bold mb-6">All Routes by Region</h2>
           <div className="space-y-8">
             {Object.entries(groupedRoutes).map(([region, routes]) => (
               <div key={region} className="bg-white rounded-lg shadow-md p-6">
                 <h3 className="text-2xl font-semibold mb-4 capitalize">
-                  {region === 'north' && '🏔️'} 
-                  {region === 'central' && '🏛️'} 
-                  {region === 'south' && '🏝️'} 
-                  {region === 'isaan' && '🌾'} 
                   From {region} Thailand
                 </h3>
                 <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-3">
@@ -244,16 +240,16 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
               </p>
               <div className="flex flex-wrap justify-center gap-4 mb-6">
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  🚌 Buses & Minivans
+                  Buses & Minivans
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  🚂 Trains & Sleepers
+                  Trains & Sleepers
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  ⛴️ Ferries & Speedboats
+                  Ferries & Speedboats
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  🚐 Airport Transfers
+                  Airport Transfers
                 </div>
               </div>
               <a
@@ -273,7 +269,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
 
         {/* Transport Tips */}
         <section className="mt-12 bg-white rounded-lg shadow-md p-6">
-          <h2 className="text-2xl font-bold mb-4">💡 Thailand Transport Tips</h2>
+          <h2 className="text-2xl font-bold mb-4">Thailand Transport Tips</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <div>
               <h3 className="font-semibold mb-2">Best Transport by Distance</h3>

@@ -94,7 +94,7 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <Link href="/best-beaches-in-thailand" className="flex items-center justify-between group">
               <div className="flex items-center gap-3 text-white">
-                <span className="text-2xl">🏖️</span>
+                <span className="text-2xl"></span>
                 <div>
                   <span className="font-bold text-sm sm:text-base">Best Beaches in Thailand 2026</span>
                   <span className="hidden sm:inline text-white/80 text-sm ml-2">— See our ranked guide of 25 top beaches</span>
