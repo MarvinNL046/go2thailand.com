@@ -32,7 +32,7 @@ We've spent years living in and traveling through Thailand, and we've tested thi
 | Question | Answer |
 |----------|--------|
 | **What is the best time to visit?** | November–February (cool, dry season). Avoid May–September (monsoon). |
-| **How much does it cost?** | Budget: ฿25,000–35,000/day ($700–980 USD). Mid-range: ฿45,000–60,000/day ($1,250–1,670 USD). |
+| **How much does it cost?** | Budget: ฿25,000–35,000 total ($700–980 USD) for 2 weeks. Mid-range: ฿45,000–60,000 total ($1,250–1,670 USD) for 2 weeks. |
 | **How do I get there?** | Fly into [Bangkok](https://go2-thailand.com/city/bangkok/) (Suvarnabhumi Airport). Domestic flights or buses connect to other cities. |
 | **Is it safe?** | Yes. Thailand is generally safe for tourists. Avoid political gatherings and use common sense with valuables. |
 | **What should I book in advance?** | Flights, accommodation in peak season, cooking classes, and long-distance buses/trains. |
@@ -256,12 +256,7 @@ Expect to pay 20–30% more than mainland Thailand. A meal at a tourist restaura
 
 Try **fresh seafood grilled on the beach**, [tom yum goong](https://go2-thailand.com/food/tom-yum-goong/) (spicy shrimp soup), and tropical fruit smoothies.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
     <div style="flex:1;">
       <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
@@ -276,11 +271,14 @@ Try **fresh seafood grilled on the beach**, [tom yum goong](https://go2-thailand
       <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
     </a>
   </div>
-</div>
+</div></div>
 
+<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
+    <div style="flex:1;">
       <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
         <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE) in Thailand</strong>
+        <strong style="font-size:18px;color:#1F2937;">Stay Connected in Thailand</strong>
       </div>
       <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
       <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
