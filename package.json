@@ -14,9 +14,10 @@
     "data:enhance-cities": "node lib/enhance-content.js",
     "data:enhance-attractions": "node lib/enhance-attractions.js",
     "data:sitemap": "node lib/sitemap.js",
+    "generate:feed": "node lib/generate-feed.js",
     "data:verify": "node lib/verify-data.js",
-    "data:generate": "npm run data:cities && npm run data:attractions && npm run data:food && npm run data:enhance-cities && npm run data:enhance-attractions && npm run data:sitemap",
-    "data:generate-quick": "npm run data:cities && npm run data:attractions && npm run data:food && npm run data:sitemap",
+    "data:generate": "npm run data:cities && npm run data:attractions && npm run data:food && npm run data:enhance-cities && npm run data:enhance-attractions && npm run data:sitemap && npm run generate:feed",
+    "data:generate-quick": "npm run data:cities && npm run data:attractions && npm run data:food && npm run data:sitemap && npm run generate:feed",
     "prebuild": "npm run data:generate",
     "prebuild-quick": "npm run data:generate-quick",
     "convert-data": "npm run data:cities",
@@ -50,14 +51,14 @@
     "remark-html": "^16.0.1"
   },
   "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
+    "@types/node": "20.19.33",
+    "@types/react": "18.3.28",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.23",
     "postcss": "^8",
     "tailwindcss": "^3.3.0",
-    "typescript": "^5"
+    "typescript": "5.9.3"
   }
 }

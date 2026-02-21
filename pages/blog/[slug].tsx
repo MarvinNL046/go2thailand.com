@@ -9,6 +9,8 @@ import TripcomWidget from '../../components/TripcomWidget';
 import AuthorBio from '../../components/blog/AuthorBio';
 import Sources from '../../components/blog/Sources';
 import LastUpdated from '../../components/blog/LastUpdated';
+import RelatedPosts from '../../components/blog/RelatedPosts';
+import ShareButtons from '../../components/ShareButtons';
 import { getAllPosts, getPostBySlug, getRelatedPosts } from '../../lib/blog';
 
 interface Source {
@@ -120,6 +122,9 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
     }
   };
 
+  const shareUrl = `https://go2-thailand.com/blog/${post.slug}/`;
+  const shareImage = `https://go2-thailand.com${post.image}`;
+
   const breadcrumbJsonLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -201,12 +206,21 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
         </section>
 
         {/* Main Content */}
-        <section className="py-12">
+        <section className="py-12 pb-20 sm:pb-12">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid lg:grid-cols-12 gap-8">
               {/* Article Content */}
               <div className="lg:col-span-8">
                 <div className="bg-white rounded-lg shadow-lg p-8 lg:p-12">
+                  {/* Share Buttons - Top */}
+                  <div className="mb-8 pb-6 border-b border-gray-100">
+                    <ShareButtons
+                      url={shareUrl}
+                      title={post.title}
+                      description={post.description}
+                      image={shareImage}
+                    />
+                  </div>
                   {post.contentHtml ? (
                     <div
                       data-blog-content
@@ -239,6 +253,17 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                         </Link>
                       ))}
                     </div>
+                  </div>
+
+                  {/* Share Buttons - Bottom */}
+                  <div className="mt-8 pt-8 border-t border-gray-100">
+                    <h3 className="font-bold mb-4">Share this article</h3>
+                    <ShareButtons
+                      url={shareUrl}
+                      title={post.title}
+                      description={post.description}
+                      image={shareImage}
+                    />
                   </div>
                 </div>
               </div>
@@ -393,6 +418,9 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
           </div>
         </section>
 
+        {/* People Also Read */}
+        <RelatedPosts posts={relatedPosts} locale={locale} />
+
         {/* Affiliate Banner */}
         <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -441,14 +469,14 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     if (!fallbackPost) {
       return { notFound: true };
     }
-    const relatedPosts = getRelatedPosts(slug, 'en', 3);
+    const relatedPosts = getRelatedPosts(slug, 'en', 4);
     return {
       props: { post: fallbackPost, relatedPosts },
       revalidate: 86400
     };
   }
 
-  const relatedPosts = getRelatedPosts(slug, lang, 3);
+  const relatedPosts = getRelatedPosts(slug, lang, 4);
 
   return {
     props: { post, relatedPosts },

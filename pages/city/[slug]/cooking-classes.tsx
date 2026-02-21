@@ -111,12 +111,56 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
     }))
   };
 
+  const howToJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    'name': `How to Book a Thai Cooking Class in ${city.name.en}`,
+    'description': `Step-by-step guide to finding and booking the best cooking class in ${city.name.en}, Thailand. Compare ${cookingData.classes.length} classes with prices from ${formatPrice(Math.min(...cookingData.classes.map(c => c.priceFrom)), 'en')}.`,
+    'totalTime': 'PT10M',
+    'step': [
+      {
+        '@type': 'HowToStep',
+        'name': 'Browse available classes',
+        'text': `Compare the ${cookingData.classes.length} cooking classes available in ${city.name.en}. Check ratings, prices, duration, and what is included such as market tours and recipe booklets.`,
+        'position': 1
+      },
+      {
+        '@type': 'HowToStep',
+        'name': 'Compare prices and reviews',
+        'text': `Prices in ${city.name.en} range from ${formatPrice(Math.min(...cookingData.classes.map(c => c.priceFrom)), 'en')} to ${formatPrice(Math.max(...cookingData.classes.map(c => c.priceFrom)), 'en')} per person. Look for classes with high ratings and many reviews for the best experience.`,
+        'position': 2
+      },
+      {
+        '@type': 'HowToStep',
+        'name': 'Choose your preferred class type',
+        'text': 'Decide between half-day and full-day classes. Most classes last 3-5 hours and teach you to cook 4-6 dishes. Some include market visits and organic farm tours.',
+        'position': 3
+      },
+      {
+        '@type': 'HowToStep',
+        'name': 'Book through a trusted platform',
+        'text': 'Book your cooking class through trusted platforms like GetYourGuide or Klook. Book at least 2-3 days ahead, or 1 week during peak season (November-February).',
+        'position': 4
+      },
+      {
+        '@type': 'HowToStep',
+        'name': 'Prepare for your class',
+        'text': 'Mention any dietary requirements when booking. Wear comfortable clothes. All ingredients and equipment are provided. Bring a camera to capture your Thai cooking experience.',
+        'position': 5
+      }
+    ]
+  };
+
   return (
     <>
       <SEOHead title={title} description={description}>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(howToJsonLd) }}
         />
       </SEOHead>
 

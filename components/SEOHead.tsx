@@ -36,6 +36,7 @@ export default function SEOHead({ title, description, ogImage, children }: SEOHe
           <meta name="twitter:image" content={ogImage} />
         </>
       )}
+      <link rel="alternate" type="application/rss+xml" title="Go2 Thailand Blog RSS Feed" href="https://go2-thailand.com/feed.xml" />
       {children}
     </Head>
   );

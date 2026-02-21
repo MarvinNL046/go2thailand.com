@@ -1,0 +1,182 @@
+{
+  "slug": "3-days-bangkok",
+  "title": {
+    "en": "3 Days in Bangkok: The Perfect Short Trip",
+    "nl": "3 Dagen in Bangkok: De Perfecte Korte Trip"
+  },
+  "duration": 3,
+  "region": "central",
+  "budgetLevel": "all",
+  "description": {
+    "en": "Experience the best of Bangkok in just 3 days. From the glittering Grand Palace to world-famous street food and bustling markets, this itinerary covers all the must-see highlights of Thailand's vibrant capital.",
+    "nl": "Ervaar het beste van Bangkok in slechts 3 dagen. Van het glinsterende Grand Palace tot wereldberoemd straateten en bruisende markten, dit reisschema behandelt alle must-see hoogtepunten van de levendige hoofdstad van Thailand."
+  },
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "highlights": ["Grand Palace", "Wat Pho", "Chatuchak Market", "Khao San Road", "Chinatown Street Food"],
+  "cities": ["bangkok"],
+  "budget": {
+    "budget": { "total": "$150-200", "perDay": "$50-65", "currency": "THB", "totalThb": "5,000-7,000" },
+    "midrange": { "total": "$350-500", "perDay": "$115-165", "currency": "THB", "totalThb": "12,000-17,000" },
+    "luxury": { "total": "$800-1,200", "perDay": "$265-400", "currency": "THB", "totalThb": "28,000-42,000" }
+  },
+  "bestTimeToVisit": "November to February",
+  "days": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Arrive & Explore the Old City",
+        "nl": "Aankomst & Ontdek de Oude Stad"
+      },
+      "city": "bangkok",
+      "activities": [
+        {
+          "name": { "en": "Grand Palace & Wat Phra Kaew", "nl": "Grand Palace & Wat Phra Kaew" },
+          "duration": "2-3 hours",
+          "cost": "500 ($15)",
+          "type": "cultural",
+          "tip": { "en": "Arrive early (8:30 AM) to avoid crowds. Strict dress code: cover shoulders and knees. No tank tops or shorts allowed.", "nl": "Kom vroeg (8:30) om drukte te vermijden. Strikte dresscode: bedek schouders en knieen. Geen tanktops of korte broeken." }
+        },
+        {
+          "name": { "en": "Wat Pho (Temple of the Reclining Buddha)", "nl": "Wat Pho (Tempel van de Liggende Boeddha)" },
+          "duration": "1-2 hours",
+          "cost": "200 ($6)",
+          "type": "cultural",
+          "tip": { "en": "Just a 10-minute walk from the Grand Palace. Don't miss the traditional Thai massage school here.", "nl": "Slechts 10 minuten lopen van het Grand Palace. Mis de traditionele Thaise massageschool hier niet." }
+        },
+        {
+          "name": { "en": "Wat Arun (Temple of Dawn)", "nl": "Wat Arun (Tempel van de Dageraad)" },
+          "duration": "1 hour",
+          "cost": "100 ($3)",
+          "type": "cultural",
+          "tip": { "en": "Take the cross-river ferry (4 baht) from Wat Pho pier. Best photos at sunset.", "nl": "Neem de rivierboot (4 baht) vanaf de Wat Pho pier. Mooiste foto's bij zonsondergang." }
+        },
+        {
+          "name": { "en": "Chinatown (Yaowarat) Street Food Tour", "nl": "Chinatown (Yaowarat) Streetfood Tour" },
+          "duration": "2-3 hours",
+          "cost": "200-500 ($6-15)",
+          "type": "food",
+          "tip": { "en": "Yaowarat comes alive after dark. Try the famous seafood stalls on Soi Texas and the crispy pork at T&K Seafood.", "nl": "Yaowarat komt tot leven na zonsondergang. Probeer de beroemde zeevruchtenkraampjes op Soi Texas en het krokante varkensvlees bij T&K Seafood." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Hotel breakfast or local street vendor - try Jok (Thai rice porridge) for 40-60 baht", "nl": "Hotelontbijt of lokale straatverkoper - probeer Jok (Thaise rijstpap) voor 40-60 baht" },
+        "lunch": { "en": "Pad Thai at Thipsamai near the Old City (60-100 baht)", "nl": "Pad Thai bij Thipsamai bij de Oude Stad (60-100 baht)" },
+        "dinner": { "en": "Chinatown street food crawl - grilled seafood, dim sum, and mango sticky rice", "nl": "Chinatown streetfood tour - gegrilde zeevruchten, dim sum en mango sticky rice" }
+      },
+      "accommodation": {
+        "budget": { "en": "Hostel on Khao San Road (400-600/night)", "nl": "Hostel aan Khao San Road (400-600/nacht)" },
+        "midrange": { "en": "Boutique hotel in Banglamphu (1,500-3,000/night)", "nl": "Boetiekhotel in Banglamphu (1.500-3.000/nacht)" },
+        "luxury": { "en": "Mandarin Oriental or The Peninsula (8,000+/night)", "nl": "Mandarin Oriental of The Peninsula (8.000+/nacht)" }
+      },
+      "transport": { "en": "Airport Rail Link to BTS (45 baht), then BTS/MRT to your hotel. Taxi from airport: 200-400 baht + tolls.", "nl": "Airport Rail Link naar BTS (45 baht), dan BTS/MRT naar je hotel. Taxi vanaf vliegveld: 200-400 baht + tol." }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Markets, Modern Bangkok & Nightlife",
+        "nl": "Markten, Modern Bangkok & Nachtleven"
+      },
+      "city": "bangkok",
+      "activities": [
+        {
+          "name": { "en": "Chatuchak Weekend Market", "nl": "Chatuchak Weekendmarkt" },
+          "duration": "3-4 hours",
+          "cost": "Free entry (shopping budget varies)",
+          "type": "shopping",
+          "tip": { "en": "Over 15,000 stalls! Open Sat-Sun 9AM-6PM. Use the JJ Mall next door for air-conditioned shopping. Get a map at the entrance.", "nl": "Meer dan 15.000 kraampjes! Open za-zo 9:00-18:00. Gebruik JJ Mall ernaast voor winkelen met airco. Haal een kaart bij de ingang." }
+        },
+        {
+          "name": { "en": "Jim Thompson House Museum", "nl": "Jim Thompson Huis Museum" },
+          "duration": "1-1.5 hours",
+          "cost": "200 ($6)",
+          "type": "cultural",
+          "tip": { "en": "Beautiful Thai teak house with silk collection. Guided tours only, available in English every 20 minutes.", "nl": "Prachtig Thais teakhouten huis met zijdecollectie. Alleen rondleidingen, beschikbaar in het Engels elke 20 minuten." }
+        },
+        {
+          "name": { "en": "Lumpini Park", "nl": "Lumpini Park" },
+          "duration": "1 hour",
+          "cost": "Free",
+          "type": "nature",
+          "tip": { "en": "Bangkok's green lung. Watch for monitor lizards! Great for a late afternoon stroll after the heat.", "nl": "De groene long van Bangkok. Let op varanen! Ideaal voor een wandeling aan het einde van de middag na de hitte." }
+        },
+        {
+          "name": { "en": "Rooftop Bar Experience", "nl": "Rooftopbar Ervaring" },
+          "duration": "2 hours",
+          "cost": "300-800 ($9-24) per cocktail",
+          "type": "nightlife",
+          "tip": { "en": "Try Sky Bar at Lebua (from The Hangover movie) or Octave Rooftop at Marriott. Smart casual dress code required.", "nl": "Probeer Sky Bar bij Lebua (uit de film The Hangover) of Octave Rooftop bij Marriott. Smart casual dresscode vereist." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Coconut pancakes (Khanom Buang) at a street stall near Chatuchak", "nl": "Kokosnootpannenkoeken (Khanom Buang) bij een kraampje bij Chatuchak" },
+        "lunch": { "en": "Viva 8 or Chatuchak food stalls - try Som Tam (papaya salad) and grilled meats (80-150 baht)", "nl": "Viva 8 of Chatuchak eetkraampjes - probeer Som Tam (papajasalade) en gegrild vlees (80-150 baht)" },
+        "dinner": { "en": "Dinner at Somboon Seafood for their famous curry crab (800-1,200 baht for two)", "nl": "Diner bij Somboon Seafood voor hun beroemde currykrab (800-1.200 baht voor twee)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Hostel near BTS Sukhumvit line (400-700/night)", "nl": "Hostel bij BTS Sukhumvit lijn (400-700/nacht)" },
+        "midrange": { "en": "Hotel near Siam or Sukhumvit (1,500-3,500/night)", "nl": "Hotel bij Siam of Sukhumvit (1.500-3.500/nacht)" },
+        "luxury": { "en": "Siam Kempinski or SO/ Bangkok (6,000-12,000/night)", "nl": "Siam Kempinski of SO/ Bangkok (6.000-12.000/nacht)" }
+      },
+      "transport": { "en": "BTS Skytrain all day - get a 1-day pass (140 baht) or use Rabbit card.", "nl": "BTS Skytrain de hele dag - koop een dagpas (140 baht) of gebruik een Rabbit kaart." }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Floating Market & Khao San Road",
+        "nl": "Drijvende Markt & Khao San Road"
+      },
+      "city": "bangkok",
+      "activities": [
+        {
+          "name": { "en": "Damnoen Saduak Floating Market", "nl": "Damnoen Saduak Drijvende Markt" },
+          "duration": "3-4 hours (including transport)",
+          "cost": "200 ($6) boat ride + food",
+          "type": "cultural",
+          "tip": { "en": "Leave early (6-7 AM) to beat the tour groups. Alternatively, visit Amphawa Floating Market (weekends) for a more authentic experience.", "nl": "Vertrek vroeg (6-7 uur) om de toergroepen voor te zijn. Als alternatief, bezoek Amphawa Drijvende Markt (weekenden) voor een meer authentieke ervaring." }
+        },
+        {
+          "name": { "en": "Khao San Road", "nl": "Khao San Road" },
+          "duration": "2 hours",
+          "cost": "Free (shopping/food extra)",
+          "type": "nightlife",
+          "tip": { "en": "The legendary backpacker street. Great for people-watching, cheap clothes, and pad thai. Best atmosphere after 7 PM.", "nl": "De legendarische backpackerstraat. Geweldig voor mensen kijken, goedkope kleding en pad thai. Beste sfeer na 19:00." }
+        },
+        {
+          "name": { "en": "Thai Cooking Class", "nl": "Thaise Kookles" },
+          "duration": "3-4 hours",
+          "cost": "1,000-2,500 ($30-75)",
+          "type": "experience",
+          "tip": { "en": "Many classes include a market visit. Book through Cookly or Silom Thai Cooking School for reliable quality.", "nl": "Veel lessen omvatten een marktbezoek. Boek via Cookly of Silom Thai Cooking School voor betrouwbare kwaliteit." }
+        },
+        {
+          "name": { "en": "Traditional Thai Massage", "nl": "Traditionele Thaise Massage" },
+          "duration": "1-2 hours",
+          "cost": "300-600 ($9-18)",
+          "type": "wellness",
+          "tip": { "en": "Wat Pho offers the most authentic experience (420 baht/hour). Plenty of options on Khao San Road too.", "nl": "Wat Pho biedt de meest authentieke ervaring (420 baht/uur). Veel opties op Khao San Road ook." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Fresh fruit smoothie and toast at a cafe near your hotel (80-150 baht)", "nl": "Verse fruitsmoothie en toast bij een cafe bij je hotel (80-150 baht)" },
+        "lunch": { "en": "Boat noodles at Victory Monument area (15-40 baht per bowl - they're small, order several!)", "nl": "Boat noodles bij Victory Monument gebied (15-40 baht per kom - ze zijn klein, bestel er meerdere!)" },
+        "dinner": { "en": "Farewell dinner at a riverside restaurant - try Supanniga Eating Room (400-800 baht per person)", "nl": "Afscheidsdiner bij een restaurant aan de rivier - probeer Supanniga Eating Room (400-800 baht per persoon)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Hostel on Khao San Road (400-600/night)", "nl": "Hostel aan Khao San Road (400-600/nacht)" },
+        "midrange": { "en": "Boutique hotel in Banglamphu or Silom (1,500-3,000/night)", "nl": "Boetiekhotel in Banglamphu of Silom (1.500-3.000/nacht)" },
+        "luxury": { "en": "Shangri-La or Chatrium Riverside (7,000-15,000/night)", "nl": "Shangri-La of Chatrium Riverside (7.000-15.000/nacht)" }
+      },
+      "transport": { "en": "Taxi or minivan to floating market (arrange through hotel). BTS/MRT + tuk-tuk for the rest.", "nl": "Taxi of minibus naar drijvende markt (regelen via hotel). BTS/MRT + tuk-tuk voor de rest." }
+    }
+  ],
+  "transportBetweenCities": [],
+  "packingTips": {
+    "en": ["Comfortable walking shoes", "Light breathable clothing", "Sunscreen and hat", "Modest clothing for temples (cover shoulders and knees)", "Small umbrella for sudden rain showers", "Reusable water bottle"],
+    "nl": ["Comfortabele wandelschoenen", "Lichte ademende kleding", "Zonnebrand en hoed", "Bescheiden kleding voor tempels (bedek schouders en knieen)", "Kleine paraplu voor plotselinge regenbuien", "Herbruikbare waterfles"]
+  },
+  "seo": {
+    "metaTitle": { "en": "3 Days in Bangkok Itinerary 2026: Complete Guide", "nl": "3 Dagen Bangkok Reisschema 2026: Complete Gids" },
+    "metaDescription": { "en": "Perfect 3-day Bangkok itinerary for 2026. Day-by-day guide covering the Grand Palace, street food, markets, and nightlife with costs and tips.", "nl": "Perfect 3-daags Bangkok reisschema voor 2026. Dag-voor-dag gids met Grand Palace, straateten, markten en nachtleven met kosten en tips." }
+  },
+  "tags": ["bangkok", "3 days", "short trip", "city break", "temples", "street food", "markets"]
+}

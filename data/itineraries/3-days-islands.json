@@ -1,0 +1,185 @@
+{
+  "slug": "3-days-islands",
+  "title": {
+    "en": "3 Days Island Getaway: Phuket & Krabi",
+    "nl": "3 Dagen Eilandontsnapping: Phuket & Krabi"
+  },
+  "duration": 3,
+  "region": "southern",
+  "budgetLevel": "all",
+  "description": {
+    "en": "Sun, sand, and stunning limestone cliffs await on this 3-day island getaway. Split between Phuket's lively beach scene and Krabi's dramatic natural beauty, this trip packs maximum beach time into a short break.",
+    "nl": "Zon, zand en prachtige kalkstenen kliffen wachten op je tijdens deze 3-daagse eilandontsnapping. Verdeeld tussen Phuket's levendige strandscene en Krabi's dramatische natuurlijke schoonheid, biedt deze trip maximale strandtijd in een kort uitje."
+  },
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "highlights": ["Patong Beach", "Phi Phi Islands", "Railay Beach", "Big Buddha", "Ao Nang"],
+  "cities": ["phuket", "krabi"],
+  "budget": {
+    "budget": { "total": "$150-220", "perDay": "$50-75", "currency": "THB", "totalThb": "5,000-7,500" },
+    "midrange": { "total": "$400-600", "perDay": "$135-200", "currency": "THB", "totalThb": "14,000-21,000" },
+    "luxury": { "total": "$900-1,500", "perDay": "$300-500", "currency": "THB", "totalThb": "31,000-52,000" }
+  },
+  "bestTimeToVisit": "November to April",
+  "days": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Arrive in Phuket & Beach Day",
+        "nl": "Aankomst in Phuket & Stranddag"
+      },
+      "city": "phuket",
+      "activities": [
+        {
+          "name": { "en": "Patong Beach", "nl": "Patong Beach" },
+          "duration": "2-3 hours",
+          "cost": "Free (sunbed rental 200/day)",
+          "type": "beach",
+          "tip": { "en": "Phuket's most popular beach. Busy but fun with lots of water sports available. Go to the northern end for fewer crowds.", "nl": "Het populairste strand van Phuket. Druk maar leuk met veel watersporten beschikbaar. Ga naar het noordelijke uiteinde voor minder drukte." }
+        },
+        {
+          "name": { "en": "Big Buddha Phuket", "nl": "Big Buddha Phuket" },
+          "duration": "1-2 hours",
+          "cost": "Free (donation appreciated)",
+          "type": "cultural",
+          "tip": { "en": "45-meter marble Buddha statue with panoramic views. Best visited in late afternoon for sunset views. Cover shoulders and knees.", "nl": "45 meter hoog marmeren Boeddhabeeld met panoramisch uitzicht. Best te bezoeken in de late middag voor zonsonderganguitzicht. Bedek schouders en knieen." }
+        },
+        {
+          "name": { "en": "Phuket Old Town", "nl": "Phuket Old Town" },
+          "duration": "1.5 hours",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "Beautiful Sino-Portuguese architecture, colorful streets, and great local restaurants. Perfect for Instagram photos.", "nl": "Prachtige Sino-Portugese architectuur, kleurrijke straten en geweldige lokale restaurants. Perfect voor Instagram-foto's." }
+        },
+        {
+          "name": { "en": "Bangla Road Nightlife", "nl": "Bangla Road Nachtleven" },
+          "duration": "2 hours",
+          "cost": "200-500 ($6-15) for drinks",
+          "type": "nightlife",
+          "tip": { "en": "Phuket's famous party street in Patong. Live music, bars, and shows. Gets going after 10 PM.", "nl": "Phuket's beroemde feeststraat in Patong. Livemuziek, bars en shows. Komt op gang na 22:00." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Hotel breakfast or local Roti stall near the beach (30-60 baht)", "nl": "Hotelontbijt of lokaal Roti kraampje bij het strand (30-60 baht)" },
+        "lunch": { "en": "Seafood at a beachfront restaurant in Patong (200-400 baht)", "nl": "Zeevruchten bij een restaurant aan het strand in Patong (200-400 baht)" },
+        "dinner": { "en": "Local Thai food at One Chun in Old Town (150-300 baht per person)", "nl": "Lokaal Thais eten bij One Chun in Old Town (150-300 baht per persoon)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Hostel or guesthouse in Patong (400-800/night)", "nl": "Hostel of guesthouse in Patong (400-800/nacht)" },
+        "midrange": { "en": "Hotel in Kata or Karon Beach (1,500-3,500/night)", "nl": "Hotel in Kata of Karon Beach (1.500-3.500/nacht)" },
+        "luxury": { "en": "Banyan Tree Phuket or Trisara (10,000-30,000/night)", "nl": "Banyan Tree Phuket of Trisara (10.000-30.000/nacht)" }
+      },
+      "transport": { "en": "Airport taxi to Patong: 600-800 baht. Or use the airport bus (100 baht) to Phuket Town.", "nl": "Vliegveld taxi naar Patong: 600-800 baht. Of gebruik de luchthavenbus (100 baht) naar Phuket Town." }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Phi Phi Islands Day Trip",
+        "nl": "Phi Phi Eilanden Dagtrip"
+      },
+      "city": "phuket",
+      "activities": [
+        {
+          "name": { "en": "Phi Phi Islands Speedboat Tour", "nl": "Phi Phi Eilanden Speedboot Tour" },
+          "duration": "8-10 hours (full day)",
+          "cost": "1,500-3,500 ($45-105)",
+          "type": "adventure",
+          "tip": { "en": "Includes Maya Bay (from The Beach movie), Pileh Lagoon, snorkeling, and lunch. Book a speedboat for more time at each stop, or longtail for budget.", "nl": "Inclusief Maya Bay (uit de film The Beach), Pileh Lagoon, snorkelen en lunch. Boek een speedboot voor meer tijd bij elke stop, of longtail voor budget." }
+        },
+        {
+          "name": { "en": "Snorkeling at Bamboo Island", "nl": "Snorkelen bij Bamboo Island" },
+          "duration": "Included in tour",
+          "cost": "Included in tour",
+          "type": "adventure",
+          "tip": { "en": "Crystal clear water with colorful coral. Most tour packages include snorkeling equipment.", "nl": "Kristalhelder water met kleurrijk koraal. De meeste tourpakketten bevatten snorkeluitrusting." }
+        },
+        {
+          "name": { "en": "Sunset Drinks at Kata Beach", "nl": "Zonsondergang Drankjes bij Kata Beach" },
+          "duration": "1.5 hours",
+          "cost": "150-400 ($4.50-12) per drink",
+          "type": "beach",
+          "tip": { "en": "After returning from the island tour, relax at a beach bar. Ska Bar or After Beach Bar offer great sunset views.", "nl": "Na terugkeer van de eilandtour, ontspan bij een strandbar. Ska Bar of After Beach Bar bieden geweldig zonsonderganguitzicht." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Early breakfast at hotel before the tour (most tours depart 7-8 AM)", "nl": "Vroeg ontbijt in hotel voor de tour (de meeste tours vertrekken 7-8 uur)" },
+        "lunch": { "en": "Lunch included on Phi Phi Islands tour (usually buffet on the beach)", "nl": "Lunch inbegrepen bij Phi Phi Eilanden tour (meestal buffet op het strand)" },
+        "dinner": { "en": "Fresh seafood BBQ at a beach restaurant in Kata (300-600 baht)", "nl": "Verse zeevruchten BBQ bij een strandrestaurant in Kata (300-600 baht)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Hostel or guesthouse in Kata area (400-800/night)", "nl": "Hostel of guesthouse in Kata gebied (400-800/nacht)" },
+        "midrange": { "en": "Hotel in Kata Beach area (1,500-3,500/night)", "nl": "Hotel in Kata Beach gebied (1.500-3.500/nacht)" },
+        "luxury": { "en": "The Shore at Katathani or Kata Rocks (8,000-20,000/night)", "nl": "The Shore at Katathani of Kata Rocks (8.000-20.000/nacht)" }
+      },
+      "transport": { "en": "Tour includes hotel pickup and drop-off. Most tours depart from Rassada Pier.", "nl": "Tour inclusief hotel ophaal en terugbrengen. De meeste tours vertrekken vanaf Rassada Pier." }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Krabi: Railay Beach & Ao Nang",
+        "nl": "Krabi: Railay Beach & Ao Nang"
+      },
+      "city": "krabi",
+      "activities": [
+        {
+          "name": { "en": "Transfer to Krabi", "nl": "Transfer naar Krabi" },
+          "duration": "2.5-3 hours",
+          "cost": "300-600 ($9-18) by bus/minivan",
+          "type": "transport",
+          "tip": { "en": "Take the morning minivan from Phuket to Krabi (departs 8-9 AM). Or hire a private taxi for 2,000-2,500 baht.", "nl": "Neem de ochtend minibus van Phuket naar Krabi (vertrekt 8-9 uur). Of huur een privetaxi voor 2.000-2.500 baht." }
+        },
+        {
+          "name": { "en": "Railay Beach", "nl": "Railay Beach" },
+          "duration": "3-4 hours",
+          "cost": "200 ($6) longtail boat from Ao Nang",
+          "type": "beach",
+          "tip": { "en": "Only accessible by boat - no roads! Stunning limestone cliffs surround pristine beaches. Walk to Phra Nang Cave Beach for the best scenery.", "nl": "Alleen bereikbaar per boot - geen wegen! Prachtige kalkstenen kliffen omringen ongerepte stranden. Loop naar Phra Nang Cave Beach voor het mooiste uitzicht." }
+        },
+        {
+          "name": { "en": "Rock Climbing at Railay", "nl": "Rotsklimmen bij Railay" },
+          "duration": "2-3 hours",
+          "cost": "800-2,000 ($24-60) half-day course",
+          "type": "adventure",
+          "tip": { "en": "World-class rock climbing on limestone karsts. Beginners welcome - guides provide all equipment and instruction.", "nl": "Wereldklasse rotsklimmen op kalksteenkarsten. Beginners welkom - gidsen bieden alle uitrusting en instructie." }
+        },
+        {
+          "name": { "en": "Ao Nang Beach & Seafood Dinner", "nl": "Ao Nang Beach & Zeevruchtendiner" },
+          "duration": "2 hours",
+          "cost": "Free (dinner extra)",
+          "type": "beach",
+          "tip": { "en": "Ao Nang is Krabi's main tourist area. Walk along the beachfront promenade and choose from dozens of seafood restaurants.", "nl": "Ao Nang is Krabi's belangrijkste toeristengebied. Loop langs de strandboulevard en kies uit tientallen zeevruichtenrestaurants." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Quick breakfast in Phuket before departure (or eat on the road)", "nl": "Snel ontbijt in Phuket voor vertrek (of eten onderweg)" },
+        "lunch": { "en": "Fresh fruit shake and grilled fish at Railay Beach (150-300 baht)", "nl": "Verse fruitmilkshake en gegrilde vis bij Railay Beach (150-300 baht)" },
+        "dinner": { "en": "Seafood dinner at Ao Nang beachfront - try the grilled prawns (300-600 baht per person)", "nl": "Zeevruchtendiner aan het strand van Ao Nang - probeer de gegrilde garnalen (300-600 baht per persoon)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Guesthouse in Ao Nang (400-800/night)", "nl": "Guesthouse in Ao Nang (400-800/nacht)" },
+        "midrange": { "en": "Hotel in Ao Nang or Railay (1,500-4,000/night)", "nl": "Hotel in Ao Nang of Railay (1.500-4.000/nacht)" },
+        "luxury": { "en": "Rayavadee Resort at Railay (12,000-30,000/night)", "nl": "Rayavadee Resort bij Railay (12.000-30.000/nacht)" }
+      },
+      "transport": { "en": "Minivan Phuket to Krabi: 300-600 baht. Longtail boat Ao Nang to Railay: 200 baht return.", "nl": "Minibus Phuket naar Krabi: 300-600 baht. Longtailboot Ao Nang naar Railay: 200 baht retour." }
+    }
+  ],
+  "transportBetweenCities": [
+    {
+      "from": "phuket",
+      "to": "krabi",
+      "options": [
+        { "mode": "bus", "duration": "3-4 hours", "cost": "200-400" },
+        { "mode": "taxi", "duration": "2.5-3 hours", "cost": "2,000-2,500" },
+        { "mode": "ferry", "duration": "2-3 hours", "cost": "400-800" }
+      ]
+    }
+  ],
+  "packingTips": {
+    "en": ["Reef-safe sunscreen", "Swimsuit and rash guard", "Waterproof phone case", "Water shoes for rocky beaches", "Light coverup for restaurants", "Dry bag for boat trips"],
+    "nl": ["Rifvriendelijke zonnebrand", "Zwempak en rashguard", "Waterdicht telefoonhoesje", "Watershoenen voor rotsachtige stranden", "Lichte coverup voor restaurants", "Droge tas voor boottochten"]
+  },
+  "seo": {
+    "metaTitle": { "en": "3 Days in Phuket & Krabi Itinerary 2026: Island Getaway Guide", "nl": "3 Dagen Phuket & Krabi Reisschema 2026: Eilandvakantie Gids" },
+    "metaDescription": { "en": "3-day Phuket and Krabi island itinerary for 2026. Visit Phi Phi Islands, Railay Beach, and Patong with day-by-day costs and tips.", "nl": "3-daags Phuket en Krabi eiland reisschema voor 2026. Bezoek Phi Phi Eilanden, Railay Beach en Patong met dag-voor-dag kosten en tips." }
+  },
+  "tags": ["phuket", "krabi", "3 days", "islands", "beaches", "phi phi", "railay", "snorkeling"]
+}

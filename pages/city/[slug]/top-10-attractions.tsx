@@ -117,6 +117,24 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
             })
           }}
         />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "ItemList",
+              "name": attractionsData.title,
+              "description": attractionsData.meta_description,
+              "numberOfItems": attractionsData.items.length,
+              "itemListElement": attractionsData.items.map((item: AttractionItem) => ({
+                "@type": "ListItem",
+                "position": item.rank,
+                "name": item.name,
+                "url": `https://go2-thailand.com/city/${city.slug}/top-10-attractions/#attraction-${item.rank}`
+              }))
+            })
+          }}
+        />
       </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">

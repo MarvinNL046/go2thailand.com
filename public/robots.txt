@@ -4,6 +4,9 @@ Allow: /
 # Sitemaps
 Sitemap: https://go2-thailand.com/sitemap-index.xml
 
+# RSS Feed
+Feed: https://go2-thailand.com/feed.xml
+
 # Block common bot paths
 Disallow: /_next/
 Disallow: /api/

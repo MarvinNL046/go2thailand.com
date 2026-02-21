@@ -1,0 +1,268 @@
+{
+  "slug": "5-days-northern",
+  "title": {
+    "en": "5 Days Northern Adventure: Chiang Mai & Chiang Rai",
+    "nl": "5 Dagen Noordelijk Avontuur: Chiang Mai & Chiang Rai"
+  },
+  "duration": 5,
+  "region": "northern",
+  "budgetLevel": "all",
+  "description": {
+    "en": "Immerse yourself in Northern Thailand's rich culture and stunning nature over 5 days. From Chiang Mai's ancient temples and elephant sanctuaries to Chiang Rai's otherworldly White Temple and the Golden Triangle, this itinerary reveals the soul of the north.",
+    "nl": "Dompel jezelf onder in de rijke cultuur en prachtige natuur van Noord-Thailand gedurende 5 dagen. Van Chiang Mai's oude tempels en olifantenreservaten tot Chiang Rai's buitenaardse Witte Tempel en de Gouden Driehoek, dit reisschema onthult de ziel van het noorden."
+  },
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "highlights": ["Doi Suthep", "Elephant Sanctuary", "White Temple", "Golden Triangle", "Blue Temple", "Night Markets"],
+  "cities": ["chiang-mai", "chiang-rai"],
+  "budget": {
+    "budget": { "total": "$180-280", "perDay": "$36-56", "currency": "THB", "totalThb": "6,300-9,800" },
+    "midrange": { "total": "$450-700", "perDay": "$90-140", "currency": "THB", "totalThb": "15,750-24,500" },
+    "luxury": { "total": "$1,000-1,800", "perDay": "$200-360", "currency": "THB", "totalThb": "35,000-63,000" }
+  },
+  "bestTimeToVisit": "November to February",
+  "days": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Arrive in Chiang Mai & Old City Exploration",
+        "nl": "Aankomst in Chiang Mai & Oude Stad Verkenning"
+      },
+      "city": "chiang-mai",
+      "activities": [
+        {
+          "name": { "en": "Wat Phra Singh", "nl": "Wat Phra Singh" },
+          "duration": "1 hour",
+          "cost": "40 ($1.20)",
+          "type": "cultural",
+          "tip": { "en": "Start your Old City temple tour here. The Lai Kham chapel contains some of northern Thailand's finest murals.", "nl": "Begin je Oude Stad tempeltour hier. De Lai Kham kapel bevat enkele van de mooiste muurschilderingen van Noord-Thailand." }
+        },
+        {
+          "name": { "en": "Wat Chedi Luang", "nl": "Wat Chedi Luang" },
+          "duration": "1 hour",
+          "cost": "40 ($1.20)",
+          "type": "cultural",
+          "tip": { "en": "The massive ruined chedi was once 82 meters high. Join the free Monk Chat program to speak with Buddhist monks.", "nl": "De enorme geruineerde chedi was ooit 82 meter hoog. Doe mee aan het gratis Monk Chat programma om met boeddhistische monniken te praten." }
+        },
+        {
+          "name": { "en": "Explore Old City on Foot or Bicycle", "nl": "Verken de Oude Stad te Voet of per Fiets" },
+          "duration": "2 hours",
+          "cost": "Free on foot / 50-100 bike rental",
+          "type": "experience",
+          "tip": { "en": "The moated Old City is small enough to explore on foot. Duck into side streets (sois) for hidden temples and local eateries.", "nl": "De Oude Stad met gracht is klein genoeg om te voet te verkennen. Duik zijstraten (sois) in voor verborgen tempels en lokale eetgelegenheden." }
+        },
+        {
+          "name": { "en": "Sunday/Saturday Night Market", "nl": "Zondags/Zaterdagse Nachtmarkt" },
+          "duration": "2-3 hours",
+          "cost": "Free entry",
+          "type": "shopping",
+          "tip": { "en": "Sunday Walking Street on Ratchadamnoen Road is the best. Saturday Night Market runs on Wualai Road. Daily Night Bazaar on Chang Klan Road.", "nl": "Zondag Walking Street op Ratchadamnoen Road is het best. Zaterdagse Nachtmarkt op Wualai Road. Dagelijkse Night Bazaar op Chang Klan Road." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Khao Soi at Khao Soi Khun Yai on Faham Road (50-80 baht)", "nl": "Khao Soi bij Khao Soi Khun Yai op Faham Road (50-80 baht)" },
+        "lunch": { "en": "Kao Soy Nimman or SP Chicken near the Old City (60-120 baht)", "nl": "Kao Soy Nimman of SP Chicken bij de Oude Stad (60-120 baht)" },
+        "dinner": { "en": "Night market street food - Sai Ua, grilled meats, and mango sticky rice (100-200 baht)", "nl": "Nachtmarkt straateten - Sai Ua, gegrild vlees en mango sticky rice (100-200 baht)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Guesthouse in the Old City (300-500/night)", "nl": "Guesthouse in de Oude Stad (300-500/nacht)" },
+        "midrange": { "en": "Boutique hotel in Old City or Nimman (1,200-2,500/night)", "nl": "Boetiekhotel in Oude Stad of Nimman (1.200-2.500/nacht)" },
+        "luxury": { "en": "137 Pillars House (8,000-15,000/night)", "nl": "137 Pillars House (8.000-15.000/nacht)" }
+      },
+      "transport": { "en": "Taxi or songthaew from airport: 150-200 baht. Red songthaews around the city: 30-50 baht.", "nl": "Taxi of songthaew vanaf vliegveld: 150-200 baht. Rode songthaews door de stad: 30-50 baht." }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Doi Suthep & Cooking Class",
+        "nl": "Doi Suthep & Kookles"
+      },
+      "city": "chiang-mai",
+      "activities": [
+        {
+          "name": { "en": "Wat Phra That Doi Suthep", "nl": "Wat Phra That Doi Suthep" },
+          "duration": "2-3 hours",
+          "cost": "30 ($0.90) + transport 100-150",
+          "type": "cultural",
+          "tip": { "en": "Chiang Mai's most important temple sits at 1,055 meters above sea level. Climb 306 steps or take the funicular (50 baht). Morning visits offer clearer views.", "nl": "Chiang Mai's belangrijkste tempel ligt op 1.055 meter boven zeeniveau. Beklim 306 treden of neem de kabelbaan (50 baht). Ochtendbezoeken bieden helderder uitzicht." }
+        },
+        {
+          "name": { "en": "Thai Cooking Class (Half Day)", "nl": "Thaise Kookles (Halve Dag)" },
+          "duration": "4-5 hours",
+          "cost": "900-1,500 ($27-45)",
+          "type": "experience",
+          "tip": { "en": "Chiang Mai is Thailand's cooking class capital. Thai Farm Cooking School, Mama Noi, or Pantawan are all excellent. Most include market tour.", "nl": "Chiang Mai is de kookles hoofdstad van Thailand. Thai Farm Cooking School, Mama Noi of Pantawan zijn allemaal uitstekend. De meeste bevatten markttour." }
+        },
+        {
+          "name": { "en": "Nimman Road Evening", "nl": "Nimman Road Avond" },
+          "duration": "2 hours",
+          "cost": "Free (food/drinks extra)",
+          "type": "shopping",
+          "tip": { "en": "Trendy neighborhood with excellent cafes, bars, and restaurants. One Nimman complex has shops and eateries in one place.", "nl": "Trendy buurt met uitstekende cafes, bars en restaurants. One Nimman complex heeft winkels en eetgelegenheden op een plek." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Fresh pastries at Ristr8to coffee (Nimman) - award-winning latte art (100-200 baht)", "nl": "Verse gebakjes bij Ristr8to koffie (Nimman) - bekroonde latte art (100-200 baht)" },
+        "lunch": { "en": "Cooking class lunch - eat what you cook (included)", "nl": "Kookles lunch - eet wat je kookt (inbegrepen)" },
+        "dinner": { "en": "Huen Phen for authentic Northern Thai/Lanna cuisine (150-350 baht)", "nl": "Huen Phen voor authentieke Noord-Thaise/Lanna keuken (150-350 baht)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Guesthouse in the Old City (300-500/night)", "nl": "Guesthouse in de Oude Stad (300-500/nacht)" },
+        "midrange": { "en": "Boutique hotel in Nimman (1,200-2,500/night)", "nl": "Boetiekhotel in Nimman (1.200-2.500/nacht)" },
+        "luxury": { "en": "Akyra Manor Chiang Mai (5,000-10,000/night)", "nl": "Akyra Manor Chiang Mai (5.000-10.000/nacht)" }
+      },
+      "transport": { "en": "Songthaew to Doi Suthep: 50-80 baht/person shared. Grab available for everything else.", "nl": "Songthaew naar Doi Suthep: 50-80 baht/persoon gedeeld. Grab beschikbaar voor de rest." }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Elephant Sanctuary & Nature",
+        "nl": "Olifantenreservaat & Natuur"
+      },
+      "city": "chiang-mai",
+      "activities": [
+        {
+          "name": { "en": "Elephant Nature Park (Full Day)", "nl": "Elephant Nature Park (Hele Dag)" },
+          "duration": "8-9 hours",
+          "cost": "2,500-3,500 ($75-105)",
+          "type": "nature",
+          "tip": { "en": "The original ethical elephant sanctuary. Full day includes feeding, bathing, walking with elephants, and a vegetarian buffet lunch. Book 2-3 weeks ahead in peak season.", "nl": "Het originele ethische olifantenreservaat. Hele dag inclusief voeren, baden, wandelen met olifanten en een vegetarisch buffetlunch. Boek 2-3 weken vooruit in het hoogseizoen." }
+        },
+        {
+          "name": { "en": "Evening: Chiang Mai Night Bazaar", "nl": "Avond: Chiang Mai Night Bazaar" },
+          "duration": "2 hours",
+          "cost": "Free entry",
+          "type": "shopping",
+          "tip": { "en": "Open every night on Chang Klan Road. More commercial than the weekend markets but convenient any day of the week.", "nl": "Elke avond geopend op Chang Klan Road. Commercieler dan de weekendmarkten maar handig op elke dag van de week." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Early breakfast at hotel (elephant sanctuary pickup is around 8 AM)", "nl": "Vroeg ontbijt in hotel (olifantenreservaat pickup rond 8 uur)" },
+        "lunch": { "en": "Vegetarian buffet at Elephant Nature Park (included)", "nl": "Vegetarisch buffet bij Elephant Nature Park (inbegrepen)" },
+        "dinner": { "en": "Dash! Restaurant & Bar for creative Thai fusion (200-400 baht)", "nl": "Dash! Restaurant & Bar voor creatieve Thaise fusie (200-400 baht)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Guesthouse in the Old City (300-500/night)", "nl": "Guesthouse in de Oude Stad (300-500/nacht)" },
+        "midrange": { "en": "Hotel near Night Bazaar (1,200-2,500/night)", "nl": "Hotel bij Night Bazaar (1.200-2.500/nacht)" },
+        "luxury": { "en": "Dhara Dhevi Chiang Mai (10,000-25,000/night)", "nl": "Dhara Dhevi Chiang Mai (10.000-25.000/nacht)" }
+      },
+      "transport": { "en": "Elephant sanctuary includes hotel pickup and return. Songthaew for evening.", "nl": "Olifantenreservaat inclusief hotel ophalen en terugbrengen. Songthaew voor de avond." }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Travel to Chiang Rai & White Temple",
+        "nl": "Reis naar Chiang Rai & Witte Tempel"
+      },
+      "city": "chiang-rai",
+      "activities": [
+        {
+          "name": { "en": "Travel to Chiang Rai", "nl": "Reis naar Chiang Rai" },
+          "duration": "3-4 hours",
+          "cost": "200-350 ($6-10) by bus",
+          "type": "transport",
+          "tip": { "en": "Green Bus from Chiang Mai Bus Terminal 3 runs hourly. VIP buses (350 baht) have more legroom. Journey takes 3-4 hours through scenic mountains.", "nl": "Green Bus vanaf Chiang Mai Bus Terminal 3 rijdt elk uur. VIP bussen (350 baht) hebben meer beenruimte. Reis duurt 3-4 uur door schilderachtige bergen." }
+        },
+        {
+          "name": { "en": "Wat Rong Khun (White Temple)", "nl": "Wat Rong Khun (Witte Tempel)" },
+          "duration": "1.5 hours",
+          "cost": "100 ($3)",
+          "type": "cultural",
+          "tip": { "en": "Thailand's most unique temple - a contemporary art piece by artist Chalermchai Kositpipat. The white exterior symbolizes purity. No photos inside the main hall.", "nl": "Thailand's meest unieke tempel - een hedendaags kunstwerk van kunstenaar Chalermchai Kositpipat. Het witte exterieur symboliseert zuiverheid. Geen foto's in de grote zaal." }
+        },
+        {
+          "name": { "en": "Wat Rong Suea Ten (Blue Temple)", "nl": "Wat Rong Suea Ten (Blauwe Tempel)" },
+          "duration": "45 minutes",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "The stunning blue interior is mesmerizing. Less crowded than the White Temple. Created by a student of the White Temple's artist.", "nl": "Het prachtige blauwe interieur is betoverend. Minder druk dan de Witte Tempel. Gemaakt door een leerling van de kunstenaar van de Witte Tempel." }
+        },
+        {
+          "name": { "en": "Chiang Rai Night Bazaar", "nl": "Chiang Rai Night Bazaar" },
+          "duration": "2 hours",
+          "cost": "Free entry",
+          "type": "shopping",
+          "tip": { "en": "Smaller and more authentic than Chiang Mai's. Great hill tribe handicrafts and live traditional music performances nightly.", "nl": "Kleiner en authentieker dan die van Chiang Mai. Geweldige bergstammen handwerk en live traditionele muziekoptredens elke avond." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Grab breakfast in Chiang Mai before departure (60-100 baht)", "nl": "Haal ontbijt in Chiang Mai voor vertrek (60-100 baht)" },
+        "lunch": { "en": "Local restaurant near the White Temple or in Chiang Rai town (60-150 baht)", "nl": "Lokaal restaurant bij de Witte Tempel of in Chiang Rai stad (60-150 baht)" },
+        "dinner": { "en": "Night Bazaar food stalls - try Sai Ua and Khao Soi (80-150 baht)", "nl": "Night Bazaar eetkraampjes - probeer Sai Ua en Khao Soi (80-150 baht)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Guesthouse in Chiang Rai town center (300-500/night)", "nl": "Guesthouse in het centrum van Chiang Rai (300-500/nacht)" },
+        "midrange": { "en": "Le Meridien Chiang Rai or The Riverie (1,500-3,000/night)", "nl": "Le Meridien Chiang Rai of The Riverie (1.500-3.000/nacht)" },
+        "luxury": { "en": "Four Seasons Tented Camp Golden Triangle (25,000-50,000/night)", "nl": "Four Seasons Tented Camp Golden Triangle (25.000-50.000/nacht)" }
+      },
+      "transport": { "en": "Bus Chiang Mai to Chiang Rai: 200-350 baht (3-4 hours). Tuk-tuk in Chiang Rai: 20-60 baht.", "nl": "Bus Chiang Mai naar Chiang Rai: 200-350 baht (3-4 uur). Tuk-tuk in Chiang Rai: 20-60 baht." }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Golden Triangle & Black House",
+        "nl": "Gouden Driehoek & Zwarte Huis"
+      },
+      "city": "chiang-rai",
+      "activities": [
+        {
+          "name": { "en": "Golden Triangle Viewpoint", "nl": "Gouden Driehoek Uitzichtpunt" },
+          "duration": "1-2 hours",
+          "cost": "Free (boat ride 400)",
+          "type": "cultural",
+          "tip": { "en": "Where Thailand, Laos, and Myanmar meet at the Mekong River. Take a boat trip to a Laotian island (400 baht). Visit the Opium Museum nearby (200 baht).", "nl": "Waar Thailand, Laos en Myanmar samenkomen bij de Mekong Rivier. Maak een boottocht naar een Laotiaans eiland (400 baht). Bezoek het Opiummuseum in de buurt (200 baht)." }
+        },
+        {
+          "name": { "en": "Baan Dam (Black House/Museum)", "nl": "Baan Dam (Zwarte Huis/Museum)" },
+          "duration": "1.5 hours",
+          "cost": "80 ($2.40)",
+          "type": "cultural",
+          "tip": { "en": "The dark counterpart to the White Temple - a complex of 40 black buildings filled with art, animal bones, and crocodile skins by artist Thawan Duchanee.", "nl": "Het donkere tegenhanger van de Witte Tempel - een complex van 40 zwarte gebouwen gevuld met kunst, dierenbotten en krokodillenhuid door kunstenaar Thawan Duchanee." }
+        },
+        {
+          "name": { "en": "Singha Park", "nl": "Singha Park" },
+          "duration": "1.5 hours",
+          "cost": "Free entry (activities extra)",
+          "type": "nature",
+          "tip": { "en": "Beautiful tea and coffee plantation owned by Singha beer. Free to explore by bike or shuttle. Great cafe with fresh brews.", "nl": "Prachtige thee- en koffieplantage eigendom van Singha bier. Gratis te verkennen per fiets of shuttle. Geweldig cafe met verse brouwsels." }
+        },
+        {
+          "name": { "en": "Wat Phra Kaew Chiang Rai", "nl": "Wat Phra Kaew Chiang Rai" },
+          "duration": "45 minutes",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "The original home of the Emerald Buddha (now in Bangkok's Grand Palace). A peaceful and historically significant temple.", "nl": "Het oorspronkelijke huis van de Smaragden Boeddha (nu in het Grand Palace van Bangkok). Een vredige en historisch belangrijke tempel." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Hotel breakfast or local market (50-100 baht)", "nl": "Hotelontbijt of lokale markt (50-100 baht)" },
+        "lunch": { "en": "Lunch at Singha Park cafe or local restaurant near Golden Triangle (100-250 baht)", "nl": "Lunch bij Singha Park cafe of lokaal restaurant bij de Gouden Driehoek (100-250 baht)" },
+        "dinner": { "en": "Farewell dinner at Chivit Thamma Da Coffee House & bistro on the river (200-500 baht)", "nl": "Afscheidsdiner bij Chivit Thamma Da Coffee House & bistro aan de rivier (200-500 baht)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Guesthouse in Chiang Rai (300-500/night)", "nl": "Guesthouse in Chiang Rai (300-500/nacht)" },
+        "midrange": { "en": "Hotel in Chiang Rai center (1,500-3,000/night)", "nl": "Hotel in centrum Chiang Rai (1.500-3.000/nacht)" },
+        "luxury": { "en": "Anantara Golden Triangle Resort (15,000-35,000/night)", "nl": "Anantara Golden Triangle Resort (15.000-35.000/nacht)" }
+      },
+      "transport": { "en": "Hire a private car/driver for the day: 1,500-2,500 baht covers Golden Triangle + Black House. Or join a group tour: 800-1,200 baht.", "nl": "Huur een prive auto/chauffeur voor de dag: 1.500-2.500 baht voor Gouden Driehoek + Zwarte Huis. Of doe mee met een groepstour: 800-1.200 baht." }
+    }
+  ],
+  "transportBetweenCities": [
+    {
+      "from": "chiang-mai",
+      "to": "chiang-rai",
+      "options": [
+        { "mode": "bus", "duration": "3-4 hours", "cost": "200-350" },
+        { "mode": "taxi", "duration": "3 hours", "cost": "2,500-3,500" }
+      ]
+    }
+  ],
+  "packingTips": {
+    "en": ["Light layers (cooler temperatures in the mountains)", "Comfortable walking shoes", "Insect repellent", "Warm jacket for Doi Suthep and evenings", "Modest clothing for temples", "Clothes that can get dirty (elephant sanctuary)", "Rain jacket (if visiting in shoulder season)"],
+    "nl": ["Lichte lagen (koelere temperaturen in de bergen)", "Comfortabele wandelschoenen", "Insectenwerend middel", "Warme jas voor Doi Suthep en avonden", "Bescheiden kleding voor tempels", "Kleding die vies mag worden (olifantenreservaat)", "Regenjas (bij bezoek in tussenseizoen)"]
+  },
+  "seo": {
+    "metaTitle": { "en": "5 Days Chiang Mai & Chiang Rai Itinerary 2026: Northern Thailand", "nl": "5 Dagen Chiang Mai & Chiang Rai Reisschema 2026: Noord-Thailand" },
+    "metaDescription": { "en": "5-day Northern Thailand itinerary covering Chiang Mai and Chiang Rai. Visit Doi Suthep, White Temple, Golden Triangle, and elephant sanctuaries.", "nl": "5-daags Noord-Thailand reisschema met Chiang Mai en Chiang Rai. Bezoek Doi Suthep, Witte Tempel, Gouden Driehoek en olifantenreservaten." }
+  },
+  "tags": ["chiang mai", "chiang rai", "5 days", "northern thailand", "white temple", "golden triangle", "elephants", "temples"]
+}

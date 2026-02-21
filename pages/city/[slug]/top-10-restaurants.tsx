@@ -118,6 +118,24 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
             })
           }}
         />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "ItemList",
+              "name": restaurantsData.title,
+              "description": restaurantsData.meta_description,
+              "numberOfItems": restaurantsData.items.length,
+              "itemListElement": restaurantsData.items.map((item: RestaurantItem) => ({
+                "@type": "ListItem",
+                "position": item.rank,
+                "name": item.name,
+                "url": `https://go2-thailand.com/city/${city.slug}/top-10-restaurants/#restaurant-${item.rank}`
+              }))
+            })
+          }}
+        />
       </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">

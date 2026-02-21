@@ -98,12 +98,56 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
     }))
   };
 
+  const howToJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    'name': 'How to Find and Book a Thai Cooking Class in Thailand',
+    'description': 'A step-by-step guide to finding and booking the best Thai cooking class for your trip to Thailand.',
+    'totalTime': 'PT15M',
+    'step': [
+      {
+        '@type': 'HowToStep',
+        'name': 'Choose your city',
+        'text': 'Decide which city you want to take a cooking class in. Chiang Mai offers the best value with organic farm visits, Bangkok is convenient with urban kitchens, and Phuket and Koh Samui offer beach-side experiences.',
+        'position': 1
+      },
+      {
+        '@type': 'HowToStep',
+        'name': 'Compare classes and prices',
+        'text': 'Compare cooking classes by price, rating, duration, and group size. Prices range from EUR22-146 depending on location and class type. Look for classes that include market tours and recipe booklets.',
+        'position': 2
+      },
+      {
+        '@type': 'HowToStep',
+        'name': 'Check reviews and ratings',
+        'text': 'Read reviews from previous participants to find the best experience. Look for classes with high ratings (4.5+) and many reviews for the most reliable quality.',
+        'position': 3
+      },
+      {
+        '@type': 'HowToStep',
+        'name': 'Book in advance',
+        'text': 'Book your cooking class 2-3 days ahead, or 1 week during peak season (November-February). Popular classes sell out quickly. Book through trusted platforms like GetYourGuide or Klook.',
+        'position': 4
+      },
+      {
+        '@type': 'HowToStep',
+        'name': 'Prepare for your class',
+        'text': 'Mention any dietary requirements when booking. Wear comfortable clothes and closed-toe shoes. Most classes provide all ingredients and equipment. Bring a camera to capture your creations.',
+        'position': 5
+      }
+    ]
+  };
+
   return (
     <>
       <SEOHead title={title} description={description}>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(howToJsonLd) }}
         />
       </SEOHead>
 

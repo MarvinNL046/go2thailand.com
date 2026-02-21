@@ -1,0 +1,993 @@
+import { GetStaticPaths, GetStaticProps } from 'next';
+import { useState } from 'react';
+import Link from 'next/link';
+import Image from 'next/image';
+import SEOHead from '../../components/SEOHead';
+import Breadcrumbs from '../../components/Breadcrumbs';
+import TripcomWidget from '../../components/TripcomWidget';
+import {
+  getAllItineraries,
+  getItineraryBySlug,
+  getRelatedItineraries,
+  toAbsoluteImageUrl
+} from '../../lib/itineraries';
+
+// --- Type definitions ---
+
+interface Activity {
+  name: string;
+  description?: string;
+  cost?: string;
+  duration?: string;
+  type?: string;
+}
+
+interface MealRecommendation {
+  meal: string;
+  restaurant?: string;
+  cuisine?: string;
+  cost?: string;
+}
+
+interface Accommodation {
+  name: string;
+  price?: string;
+  link?: string;
+  description?: string;
+}
+
+interface DayPlan {
+  day: number;
+  title: string;
+  city?: string;
+  description?: string;
+  activities: Activity[];
+  meals?: MealRecommendation[];
+  accommodation?: {
+    budget?: Accommodation;
+    mid?: Accommodation;
+    luxury?: Accommodation;
+  };
+  transport?: string;
+}
+
+interface TransportSegment {
+  from: string;
+  to: string;
+  options: {
+    type: string;
+    duration?: string;
+    cost?: string;
+    bookingLink?: string;
+  }[];
+}
+
+interface BudgetBreakdown {
+  category: string;
+  budget: string;
+  mid: string;
+  luxury: string;
+}
+
+interface Itinerary {
+  slug: string;
+  title: string;
+  duration: number;
+  region: string;
+  image: string;
+  description: string;
+  highlights: string[];
+  cities?: string[];
+  bestTime?: string;
+  budget: {
+    budget: string;
+    mid: string;
+    luxury: string;
+  };
+  days: DayPlan[];
+  transport?: TransportSegment[];
+  budgetBreakdown?: BudgetBreakdown[];
+  packingTips?: string[];
+  faqs?: { question: string; answer: string }[];
+  tags?: string[];
+  seo?: {
+    metaTitle?: string;
+    metaDescription?: string;
+  };
+}
+
+interface ItineraryListItem {
+  slug: string;
+  title: string;
+  duration: number;
+  region: string;
+  image: string;
+  description: string;
+  highlights: string[];
+  budget: {
+    budget: string;
+    mid: string;
+    luxury: string;
+  };
+}
+
+interface ItineraryPageProps {
+  itinerary: Itinerary;
+  relatedItineraries: ItineraryListItem[];
+}
+
+// --- Activity type icons ---
+
+function getActivityIcon(type?: string) {
+  switch (type) {
+    case 'temple':
+    case 'culture':
+      return (
+        <svg className="w-5 h-5 text-purple-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 21h18M5 21V7l7-4 7 4v14M9 21v-6h6v6" />
+        </svg>
+      );
+    case 'food':
+    case 'dining':
+      return (
+        <svg className="w-5 h-5 text-orange-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+        </svg>
+      );
+    case 'beach':
+    case 'nature':
+      return (
+        <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064" />
+        </svg>
+      );
+    case 'shopping':
+    case 'market':
+      return (
+        <svg className="w-5 h-5 text-pink-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" />
+        </svg>
+      );
+    case 'transport':
+    case 'travel':
+      return (
+        <svg className="w-5 h-5 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+        </svg>
+      );
+    case 'nightlife':
+    case 'entertainment':
+      return (
+        <svg className="w-5 h-5 text-yellow-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
+        </svg>
+      );
+    default:
+      return (
+        <svg className="w-5 h-5 text-thailand-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+        </svg>
+      );
+  }
+}
+
+// --- Component ---
+
+export default function ItineraryPage({ itinerary, relatedItineraries }: ItineraryPageProps) {
+  const [activeAccomTab, setActiveAccomTab] = useState<'budget' | 'mid' | 'luxury'>('mid');
+
+  if (!itinerary) {
+    return <div>Itinerary not found</div>;
+  }
+
+  const breadcrumbs = [
+    { name: 'Home', href: '/' },
+    { name: 'Itineraries', href: '/itineraries/' },
+    { name: itinerary.title, href: `/itineraries/${itinerary.slug}/` }
+  ];
+
+  const seoTitle = itinerary.seo?.metaTitle || `${itinerary.title} | Go2Thailand`;
+  const seoDescription = itinerary.seo?.metaDescription || itinerary.description;
+
+  // Generate FAQs (auto-generated + from data)
+  const autoFaqs = [
+    {
+      question: `How much does ${itinerary.duration} days in Thailand cost?`,
+      answer: `A ${itinerary.duration}-day trip to Thailand costs approximately ${itinerary.budget.budget} on a budget, ${itinerary.budget.mid} for mid-range travel, and ${itinerary.budget.luxury} for a luxury experience. This includes accommodation, food, transport, and activities.`
+    },
+    {
+      question: `What is the best time to visit ${itinerary.region} Thailand?`,
+      answer: itinerary.bestTime
+        ? `The best time to visit ${itinerary.region} Thailand is ${itinerary.bestTime}. This period offers the most favorable weather and fewer crowds.`
+        : `The best time to visit Thailand is generally November to February during the cool, dry season. However, this can vary by region.`
+    },
+    {
+      question: `Is ${itinerary.duration} days enough for Thailand?`,
+      answer: `Yes, ${itinerary.duration} days is ${itinerary.duration <= 3 ? 'enough for a focused trip to one area' : itinerary.duration <= 7 ? 'a great amount of time to explore multiple destinations' : 'plenty of time for a comprehensive Thailand experience'}. This itinerary covers ${itinerary.cities?.join(', ') || itinerary.region} with a well-planned day-by-day schedule.`
+    }
+  ];
+  const allFaqs = [...autoFaqs, ...(itinerary.faqs || [])];
+
+  // JSON-LD schemas
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": breadcrumbs.map((crumb, index) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "name": crumb.name,
+      "item": `https://go2-thailand.com${crumb.href}`
+    }))
+  };
+
+  const travelActionJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "TravelAction",
+    "name": itinerary.title,
+    "description": itinerary.description,
+    "image": toAbsoluteImageUrl(itinerary.image),
+    "url": `https://go2-thailand.com/itineraries/${itinerary.slug}/`,
+    "toLocation": {
+      "@type": "Country",
+      "name": "Thailand"
+    }
+  };
+
+  const faqJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": allFaqs.map(faq => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
+  };
+
+  return (
+    <>
+      <SEOHead
+        title={seoTitle}
+        description={seoDescription}
+        ogImage={toAbsoluteImageUrl(itinerary.image)}
+      >
+        <meta name="keywords" content={`Thailand itinerary, ${itinerary.duration} days Thailand, ${itinerary.region}, ${(itinerary.tags || []).join(', ')}`} />
+        <meta property="og:type" content="article" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(travelActionJsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+      </SEOHead>
+
+      <div className="bg-gray-50 min-h-screen">
+        {/* Hero Section */}
+        <section className="relative h-[400px] lg:h-[500px] overflow-hidden">
+          <div className="absolute inset-0">
+            <Image
+              src={itinerary.image}
+              alt={itinerary.title}
+              fill
+              className="object-cover"
+              priority
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+          </div>
+
+          <div className="relative z-10 h-full flex items-end">
+            <div className="container-custom pb-12 text-white">
+              <div className="max-w-4xl">
+                <div className="flex flex-wrap items-center gap-2 mb-4">
+                  <span className="bg-thailand-red text-white px-3 py-1 rounded text-sm font-semibold">
+                    {itinerary.duration} Days
+                  </span>
+                  <span className="bg-thailand-blue text-white px-3 py-1 rounded text-sm font-semibold">
+                    {itinerary.region}
+                  </span>
+                  {itinerary.budget && (
+                    <span className="bg-white/20 backdrop-blur-sm text-white px-3 py-1 rounded text-sm font-semibold">
+                      From {itinerary.budget.budget}
+                    </span>
+                  )}
+                </div>
+                <h1 className="text-3xl lg:text-5xl font-bold mb-4">
+                  {itinerary.title}
+                </h1>
+                <p className="text-lg text-gray-200 max-w-3xl">
+                  {itinerary.description}
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Breadcrumbs */}
+        <section className="bg-white border-b">
+          <div className="container-custom py-4">
+            <Breadcrumbs items={breadcrumbs} />
+          </div>
+        </section>
+
+        {/* Main Content + Sidebar */}
+        <section className="py-12">
+          <div className="container-custom">
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
+              {/* Main Content (2/3) */}
+              <div className="lg:col-span-2">
+
+                {/* Overview & Key Stats */}
+                <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8 mb-8">
+                  <h2 className="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
+                  <p className="text-gray-700 leading-relaxed mb-6">{itinerary.description}</p>
+
+                  <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+                    <div className="bg-blue-50 rounded-lg p-4 text-center">
+                      <div className="text-2xl font-bold text-thailand-blue">{itinerary.duration}</div>
+                      <div className="text-sm text-gray-600">Days</div>
+                    </div>
+                    <div className="bg-red-50 rounded-lg p-4 text-center">
+                      <div className="text-2xl font-bold text-thailand-red">{itinerary.cities?.length || '-'}</div>
+                      <div className="text-sm text-gray-600">Cities</div>
+                    </div>
+                    <div className="bg-green-50 rounded-lg p-4 text-center">
+                      <div className="text-lg font-bold text-green-600">{itinerary.budget?.budget || '-'}</div>
+                      <div className="text-sm text-gray-600">Min Budget</div>
+                    </div>
+                    <div className="bg-purple-50 rounded-lg p-4 text-center">
+                      <div className="text-lg font-bold text-purple-600">{itinerary.highlights?.length || '-'}</div>
+                      <div className="text-sm text-gray-600">Highlights</div>
+                    </div>
+                  </div>
+
+                  {/* Highlights */}
+                  {itinerary.highlights && itinerary.highlights.length > 0 && (
+                    <div className="mt-6">
+                      <h3 className="text-lg font-semibold text-gray-900 mb-3">Trip Highlights</h3>
+                      <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
+                        {itinerary.highlights.map((highlight, idx) => (
+                          <div key={idx} className="flex items-center">
+                            <svg className="w-5 h-5 text-thailand-gold mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                              <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                            </svg>
+                            <span className="text-gray-700 text-sm">{highlight}</span>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </div>
+
+                {/* Day-by-Day Timeline */}
+                <div className="mb-8">
+                  <h2 className="text-3xl font-bold text-gray-900 mb-8">Day-by-Day Itinerary</h2>
+
+                  {itinerary.days && itinerary.days.map((day) => (
+                    <div key={day.day} className="relative mb-8">
+                      {/* Timeline connector */}
+                      <div className="absolute left-6 top-16 bottom-0 w-0.5 bg-gray-200" style={{ display: day.day === itinerary.days.length ? 'none' : 'block' }} />
+
+                      <div className="bg-white rounded-lg shadow-sm border border-gray-200 overflow-hidden">
+                        {/* Day Header */}
+                        <div className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark p-6 text-white">
+                          <div className="flex items-center gap-4">
+                            <div className="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center flex-shrink-0">
+                              <span className="text-xl font-bold">{day.day}</span>
+                            </div>
+                            <div>
+                              <h3 className="text-xl font-bold">{day.title}</h3>
+                              {day.city && (
+                                <p className="text-blue-200 text-sm mt-1">
+                                  <svg className="w-4 h-4 inline mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                                  </svg>
+                                  {day.city}
+                                </p>
+                              )}
+                            </div>
+                          </div>
+                        </div>
+
+                        <div className="p-6">
+                          {/* Day Description */}
+                          {day.description && (
+                            <p className="text-gray-700 mb-6 leading-relaxed">{day.description}</p>
+                          )}
+
+                          {/* Activities */}
+                          {day.activities && day.activities.length > 0 && (
+                            <div className="mb-6">
+                              <h4 className="font-semibold text-gray-900 mb-3 flex items-center">
+                                <svg className="w-5 h-5 text-thailand-blue mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+                                </svg>
+                                Activities
+                              </h4>
+                              <div className="space-y-3">
+                                {day.activities.map((activity, idx) => (
+                                  <div key={idx} className="flex items-start bg-gray-50 rounded-lg p-4">
+                                    <div className="flex-shrink-0 mr-3 mt-0.5">
+                                      {getActivityIcon(activity.type)}
+                                    </div>
+                                    <div className="flex-1">
+                                      <div className="flex items-center justify-between flex-wrap gap-2">
+                                        <h5 className="font-medium text-gray-900">{activity.name}</h5>
+                                        <div className="flex items-center gap-3 text-xs">
+                                          {activity.cost && (
+                                            <span className="bg-green-100 text-green-700 px-2 py-0.5 rounded font-medium">
+                                              {activity.cost}
+                                            </span>
+                                          )}
+                                          {activity.duration && (
+                                            <span className="bg-blue-100 text-blue-700 px-2 py-0.5 rounded font-medium">
+                                              {activity.duration}
+                                            </span>
+                                          )}
+                                        </div>
+                                      </div>
+                                      {activity.description && (
+                                        <p className="text-gray-600 text-sm mt-1">{activity.description}</p>
+                                      )}
+                                    </div>
+                                  </div>
+                                ))}
+                              </div>
+                            </div>
+                          )}
+
+                          {/* Meal Recommendations */}
+                          {day.meals && day.meals.length > 0 && (
+                            <div className="mb-6">
+                              <h4 className="font-semibold text-gray-900 mb-3 flex items-center">
+                                <svg className="w-5 h-5 text-orange-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                                </svg>
+                                Meals
+                              </h4>
+                              <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
+                                {day.meals.map((meal, idx) => (
+                                  <div key={idx} className="bg-orange-50 border border-orange-100 rounded-lg p-3">
+                                    <div className="text-xs font-semibold text-orange-600 uppercase mb-1">{meal.meal}</div>
+                                    {meal.restaurant && <div className="text-sm font-medium text-gray-900">{meal.restaurant}</div>}
+                                    {meal.cuisine && <div className="text-xs text-gray-600">{meal.cuisine}</div>}
+                                    {meal.cost && <div className="text-xs text-green-600 font-medium mt-1">{meal.cost}</div>}
+                                  </div>
+                                ))}
+                              </div>
+                            </div>
+                          )}
+
+                          {/* Accommodation */}
+                          {day.accommodation && (
+                            <div className="mb-4">
+                              <h4 className="font-semibold text-gray-900 mb-3 flex items-center">
+                                <svg className="w-5 h-5 text-indigo-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                                </svg>
+                                Where to Stay
+                              </h4>
+                              <div className="flex gap-1 mb-3">
+                                {(['budget', 'mid', 'luxury'] as const).map(tab => (
+                                  <button
+                                    key={tab}
+                                    onClick={() => setActiveAccomTab(tab)}
+                                    className={`px-4 py-1.5 rounded-full text-xs font-semibold transition-all ${
+                                      activeAccomTab === tab
+                                        ? 'bg-thailand-blue text-white'
+                                        : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                                    }`}
+                                  >
+                                    {tab === 'budget' ? 'Budget' : tab === 'mid' ? 'Mid-Range' : 'Luxury'}
+                                  </button>
+                                ))}
+                              </div>
+                              {day.accommodation[activeAccomTab] && (
+                                <div className="bg-indigo-50 border border-indigo-100 rounded-lg p-4">
+                                  <div className="font-medium text-gray-900">{day.accommodation[activeAccomTab]!.name}</div>
+                                  {day.accommodation[activeAccomTab]!.price && (
+                                    <div className="text-sm text-green-600 font-medium mt-1">{day.accommodation[activeAccomTab]!.price}</div>
+                                  )}
+                                  {day.accommodation[activeAccomTab]!.description && (
+                                    <div className="text-sm text-gray-600 mt-1">{day.accommodation[activeAccomTab]!.description}</div>
+                                  )}
+                                  {day.accommodation[activeAccomTab]!.link && (
+                                    <a
+                                      href={day.accommodation[activeAccomTab]!.link}
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                      className="inline-block mt-2 text-sm text-thailand-blue font-medium hover:underline"
+                                    >
+                                      Check availability &rarr;
+                                    </a>
+                                  )}
+                                </div>
+                              )}
+                            </div>
+                          )}
+
+                          {/* Day Transport Info */}
+                          {day.transport && (
+                            <div className="bg-blue-50 border border-blue-100 rounded-lg p-4">
+                              <div className="flex items-center">
+                                <svg className="w-5 h-5 text-blue-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                                </svg>
+                                <span className="text-sm text-gray-700">{day.transport}</span>
+                              </div>
+                            </div>
+                          )}
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+
+                {/* Transport Between Cities */}
+                {itinerary.transport && itinerary.transport.length > 0 && (
+                  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8 mb-8">
+                    <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                      Transport Between Cities
+                    </h2>
+                    <div className="space-y-4">
+                      {itinerary.transport.map((segment, idx) => (
+                        <div key={idx} className="border border-gray-100 rounded-lg p-5">
+                          <div className="flex items-center gap-3 mb-4">
+                            <span className="font-semibold text-gray-900">{segment.from}</span>
+                            <svg className="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                            </svg>
+                            <span className="font-semibold text-gray-900">{segment.to}</span>
+                          </div>
+                          <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+                            {segment.options.map((option, oidx) => (
+                              <div key={oidx} className="bg-gray-50 rounded-lg p-3 flex items-center justify-between">
+                                <div>
+                                  <div className="font-medium text-sm text-gray-900">{option.type}</div>
+                                  {option.duration && <div className="text-xs text-gray-500">{option.duration}</div>}
+                                </div>
+                                <div className="text-right">
+                                  {option.cost && <div className="text-sm font-semibold text-green-600">{option.cost}</div>}
+                                  {option.bookingLink && (
+                                    <a
+                                      href={option.bookingLink}
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                      className="text-xs text-thailand-blue hover:underline"
+                                    >
+                                      Book now
+                                    </a>
+                                  )}
+                                </div>
+                              </div>
+                            ))}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                    <div className="mt-4">
+                      <a
+                        href="https://12go.tpo.lv/tNA80urD"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-block bg-green-600 text-white px-6 py-2 rounded-lg font-semibold hover:bg-green-700 transition-colors text-sm"
+                      >
+                        Compare all routes on 12Go Asia
+                      </a>
+                      <p className="text-xs text-gray-500 mt-2">Affiliate link</p>
+                    </div>
+                  </div>
+                )}
+
+                {/* Budget Breakdown Table */}
+                {itinerary.budgetBreakdown && itinerary.budgetBreakdown.length > 0 && (
+                  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8 mb-8">
+                    <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                      Budget Breakdown
+                    </h2>
+                    <div className="overflow-x-auto">
+                      <table className="w-full text-sm">
+                        <thead>
+                          <tr className="border-b-2 border-gray-200">
+                            <th className="text-left py-3 pr-4 font-semibold text-gray-900">Category</th>
+                            <th className="text-center py-3 px-4 font-semibold text-green-600">Budget</th>
+                            <th className="text-center py-3 px-4 font-semibold text-blue-600">Mid-Range</th>
+                            <th className="text-center py-3 px-4 font-semibold text-purple-600">Luxury</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {itinerary.budgetBreakdown.map((row, idx) => (
+                            <tr key={idx} className="border-b border-gray-100">
+                              <td className="py-3 pr-4 font-medium text-gray-900">{row.category}</td>
+                              <td className="py-3 px-4 text-center text-gray-700">{row.budget}</td>
+                              <td className="py-3 px-4 text-center text-gray-700">{row.mid}</td>
+                              <td className="py-3 px-4 text-center text-gray-700">{row.luxury}</td>
+                            </tr>
+                          ))}
+                        </tbody>
+                        <tfoot>
+                          <tr className="border-t-2 border-gray-300 bg-gray-50">
+                            <td className="py-3 pr-4 font-bold text-gray-900">Total</td>
+                            <td className="py-3 px-4 text-center font-bold text-green-600">{itinerary.budget.budget}</td>
+                            <td className="py-3 px-4 text-center font-bold text-blue-600">{itinerary.budget.mid}</td>
+                            <td className="py-3 px-4 text-center font-bold text-purple-600">{itinerary.budget.luxury}</td>
+                          </tr>
+                        </tfoot>
+                      </table>
+                    </div>
+                  </div>
+                )}
+
+                {/* Packing Tips */}
+                {itinerary.packingTips && itinerary.packingTips.length > 0 && (
+                  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8 mb-8">
+                    <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                      Packing Tips
+                    </h2>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+                      {itinerary.packingTips.map((tip, idx) => (
+                        <div key={idx} className="flex items-center">
+                          <svg className="w-5 h-5 text-thailand-blue mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
+                          </svg>
+                          <span className="text-gray-700 text-sm">{tip}</span>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {/* FAQs */}
+                {allFaqs.length > 0 && (
+                  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8 mb-8">
+                    <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                      Frequently Asked Questions
+                    </h2>
+                    <div className="space-y-4">
+                      {allFaqs.map((faq, idx) => (
+                        <div key={idx} className="border-b border-gray-100 pb-4 last:border-0 last:pb-0">
+                          <h3 className="font-semibold text-gray-900 mb-2">{faq.question}</h3>
+                          <p className="text-gray-600 text-sm leading-relaxed">{faq.answer}</p>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </div>
+
+              {/* Sidebar (1/3) */}
+              <aside className="lg:col-span-1">
+                <div className="lg:sticky lg:top-4 space-y-6">
+
+                  {/* Quick Facts Card */}
+                  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+                    <h3 className="text-xl font-bold text-gray-900 mb-4">Quick Facts</h3>
+                    <div className="space-y-3">
+                      <div className="flex justify-between">
+                        <span className="text-gray-600">Duration:</span>
+                        <span className="font-medium">{itinerary.duration} Days</span>
+                      </div>
+                      {itinerary.cities && itinerary.cities.length > 0 && (
+                        <div className="flex justify-between">
+                          <span className="text-gray-600">Cities:</span>
+                          <span className="font-medium text-right text-sm">{itinerary.cities.join(', ')}</span>
+                        </div>
+                      )}
+                      <div className="flex justify-between">
+                        <span className="text-gray-600">Region:</span>
+                        <span className="font-medium">{itinerary.region}</span>
+                      </div>
+                      <div className="flex justify-between">
+                        <span className="text-gray-600">Budget:</span>
+                        <span className="font-medium text-green-600">{itinerary.budget?.budget}</span>
+                      </div>
+                      <div className="flex justify-between">
+                        <span className="text-gray-600">Mid-Range:</span>
+                        <span className="font-medium text-blue-600">{itinerary.budget?.mid}</span>
+                      </div>
+                      <div className="flex justify-between">
+                        <span className="text-gray-600">Luxury:</span>
+                        <span className="font-medium text-purple-600">{itinerary.budget?.luxury}</span>
+                      </div>
+                      {itinerary.bestTime && (
+                        <div className="flex justify-between">
+                          <span className="text-gray-600">Best Time:</span>
+                          <span className="font-medium text-sm">{itinerary.bestTime}</span>
+                        </div>
+                      )}
+                    </div>
+                  </div>
+
+                  {/* Book Your Trip Card */}
+                  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+                    <h3 className="text-xl font-bold text-gray-900 mb-3">Book Your Trip</h3>
+                    <p className="text-gray-600 text-sm mb-4">
+                      Get the best deals on hotels, transport, and activities for this itinerary.
+                    </p>
+                    <div className="space-y-3">
+                      <a
+                        href="https://booking.tpo.lv/2PT1kR82"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block bg-blue-700 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-blue-800 transition-colors text-sm"
+                      >
+                        Booking.com - Hotels
+                      </a>
+                      <a
+                        href="https://trip.tpo.lv/TmObooZ5"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block bg-blue-500 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-blue-600 transition-colors text-sm"
+                      >
+                        Trip.com - Hotels & Flights
+                      </a>
+                      <a
+                        href="https://12go.tpo.lv/tNA80urD"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block bg-green-600 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-green-700 transition-colors text-sm"
+                      >
+                        12Go Asia - Transport
+                      </a>
+                      <a
+                        href="https://klook.tpo.lv/7Dt6WApj"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block bg-orange-500 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-orange-600 transition-colors text-sm"
+                      >
+                        Klook - Activities & Tours
+                      </a>
+                    </div>
+                    <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
+                  </div>
+
+                  {/* Trip.com Widget */}
+                  <TripcomWidget city="Thailand" type="searchbox" customTitle="Search Thailand Hotels" />
+
+                  {/* Related Itineraries */}
+                  {relatedItineraries.length > 0 && (
+                    <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+                      <h3 className="text-xl font-bold text-gray-900 mb-4">Related Itineraries</h3>
+                      <div className="space-y-4">
+                        {relatedItineraries.map(related => (
+                          <Link
+                            key={related.slug}
+                            href={`/itineraries/${related.slug}/`}
+                            className="block group"
+                          >
+                            <div className="flex gap-3">
+                              <div className="relative w-20 h-16 rounded overflow-hidden flex-shrink-0">
+                                <Image
+                                  src={related.image}
+                                  alt={related.title}
+                                  fill
+                                  className="object-cover group-hover:scale-105 transition-transform"
+                                />
+                              </div>
+                              <div className="flex-1 min-w-0">
+                                <h4 className="text-sm font-medium text-gray-900 group-hover:text-thailand-blue transition-colors line-clamp-2">
+                                  {related.title}
+                                </h4>
+                                <div className="flex gap-2 mt-1">
+                                  <span className="text-xs text-gray-500">{related.duration} days</span>
+                                  <span className="text-xs text-gray-400">|</span>
+                                  <span className="text-xs text-gray-500">{related.region}</span>
+                                </div>
+                              </div>
+                            </div>
+                          </Link>
+                        ))}
+                      </div>
+                      <Link
+                        href="/itineraries/"
+                        className="block text-thailand-blue text-center text-sm hover:underline mt-4 font-medium"
+                      >
+                        View all itineraries &rarr;
+                      </Link>
+                    </div>
+                  )}
+
+                  {/* eSIM */}
+                  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+                    <h3 className="text-xl font-bold mb-2">Thailand eSIM</h3>
+                    <p className="text-sm text-gray-600 mb-4">
+                      Stay connected during your {itinerary.duration}-day trip. Order your eSIM before you go.
+                    </p>
+                    <a
+                      href="https://saily.tpo.lv/rf9lidnE"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-thailand-red transition-colors mb-2"
+                    >
+                      Saily eSIM
+                    </a>
+                    <Link href="/esim/" className="block text-thailand-blue text-center text-sm hover:underline">
+                      More eSIM options &rarr;
+                    </Link>
+                  </div>
+
+                  {/* Travel Insurance */}
+                  <div className="bg-gradient-to-r from-teal-600 to-cyan-600 text-white rounded-lg p-6">
+                    <h3 className="text-xl font-bold mb-2">Travel Insurance</h3>
+                    <p className="text-sm opacity-90 mb-4">
+                      Protect yourself while traveling Thailand. Compare the best travel insurance.
+                    </p>
+                    <Link href="/travel-insurance/" className="block bg-white text-teal-600 text-center px-4 py-2 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+                      Compare Now
+                    </Link>
+                  </div>
+                </div>
+              </aside>
+            </div>
+          </div>
+        </section>
+
+        {/* Affiliate Banner */}
+        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <div className="flex flex-col md:flex-row items-center justify-between gap-6">
+              <div className="text-white">
+                <h2 className="text-2xl font-bold mb-1">Plan Your Thailand Trip</h2>
+                <p className="opacity-90 text-sm">Book hotels, transport, activities, and get connected with an eSIM</p>
+              </div>
+              <div className="flex flex-wrap justify-center gap-3">
+                <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Booking.com</a>
+                <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Trip.com</a>
+                <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Activities</a>
+                <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Transport</a>
+                <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">eSIM</a>
+              </div>
+            </div>
+            <p className="text-white/70 text-xs text-center mt-4">Some links are affiliate links. We may earn a commission at no extra cost to you.</p>
+          </div>
+        </section>
+      </div>
+    </>
+  );
+}
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const itineraries = getAllItineraries();
+  const paths = itineraries.map(itinerary => ({
+    params: { slug: itinerary.slug }
+  }));
+
+  return {
+    paths,
+    fallback: 'blocking'
+  };
+};
+
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
+  const slug = params?.slug as string;
+  const lang = locale || 'en';
+
+  const rawItinerary = getItineraryBySlug(slug);
+
+  if (!rawItinerary) {
+    return {
+      notFound: true,
+    };
+  }
+
+  // Helper to resolve bilingual {en, nl} objects to a string
+  const t = (val: any): string => {
+    if (!val) return '';
+    if (typeof val === 'string') return val;
+    if (typeof val === 'object' && val[lang]) return val[lang];
+    if (typeof val === 'object' && val.en) return val.en;
+    return String(val);
+  };
+
+  // Transform bilingual data to locale-specific strings
+  const itinerary: Itinerary = {
+    slug: rawItinerary.slug,
+    title: t(rawItinerary.title),
+    duration: rawItinerary.duration,
+    region: rawItinerary.region,
+    image: rawItinerary.image,
+    description: t(rawItinerary.description),
+    highlights: rawItinerary.highlights || [],
+    cities: rawItinerary.cities || [],
+    bestTime: rawItinerary.bestTimeToVisit || rawItinerary.bestTime || '',
+    budget: {
+      budget: rawItinerary.budget?.budget?.total || '',
+      mid: rawItinerary.budget?.midrange?.total || rawItinerary.budget?.mid?.total || '',
+      luxury: rawItinerary.budget?.luxury?.total || '',
+    },
+    days: (rawItinerary.days || []).map((day: any) => ({
+      day: day.day,
+      title: t(day.title),
+      city: day.city || '',
+      description: t(day.description),
+      activities: (day.activities || []).map((act: any) => ({
+        name: t(act.name),
+        description: t(act.tip || act.description),
+        cost: act.cost || '',
+        duration: act.duration || '',
+        type: act.type || '',
+      })),
+      meals: day.meals
+        ? Object.entries(day.meals).map(([mealType, mealVal]: [string, any]) => ({
+            meal: mealType.charAt(0).toUpperCase() + mealType.slice(1),
+            restaurant: t(mealVal),
+            cuisine: '',
+            cost: '',
+          }))
+        : [],
+      accommodation: day.accommodation
+        ? {
+            budget: day.accommodation.budget
+              ? { name: t(day.accommodation.budget), price: '', link: '', description: '' }
+              : undefined,
+            mid: (day.accommodation.midrange || day.accommodation.mid)
+              ? { name: t(day.accommodation.midrange || day.accommodation.mid), price: '', link: '', description: '' }
+              : undefined,
+            luxury: day.accommodation.luxury
+              ? { name: t(day.accommodation.luxury), price: '', link: '', description: '' }
+              : undefined,
+          }
+        : undefined,
+      transport: t(day.transport),
+    })),
+    transport: (rawItinerary.transportBetweenCities || rawItinerary.transport || [])
+      .filter((seg: any) => seg && seg.from)
+      .map((seg: any) => ({
+        from: seg.from || '',
+        to: seg.to || '',
+        options: (seg.options || []).map((opt: any) => ({
+          type: opt.mode || opt.type || '',
+          duration: opt.duration || '',
+          cost: opt.cost || '',
+          bookingLink: opt.bookingLink || opt.link || '',
+        })),
+      })),
+    budgetBreakdown: rawItinerary.budgetBreakdown || [],
+    packingTips: rawItinerary.packingTips
+      ? (Array.isArray(rawItinerary.packingTips)
+          ? rawItinerary.packingTips
+          : (rawItinerary.packingTips[lang] || rawItinerary.packingTips.en || []))
+      : [],
+    faqs: rawItinerary.faqs || [],
+    tags: rawItinerary.tags || [],
+    seo: rawItinerary.seo
+      ? {
+          metaTitle: t(rawItinerary.seo.metaTitle),
+          metaDescription: t(rawItinerary.seo.metaDescription),
+        }
+      : undefined,
+  };
+
+  // Transform related itineraries (from index.json with bilingual data)
+  const rawRelated = getRelatedItineraries(slug, 3);
+  const relatedItineraries: ItineraryListItem[] = rawRelated.map((item: any) => ({
+    slug: item.slug,
+    title: typeof item.title === 'object' ? (item.title[lang] || item.title.en) : item.title,
+    duration: item.duration,
+    region: item.region,
+    image: item.image,
+    description: '',
+    highlights: item.highlights || [],
+    budget: {
+      budget: item.budgetRange || '',
+      mid: '',
+      luxury: '',
+    },
+  }));
+
+  return {
+    props: {
+      itinerary,
+      relatedItineraries,
+    },
+    revalidate: 86400,
+  };
+};

@@ -1,0 +1,175 @@
+{
+  "slug": "3-days-northern",
+  "title": {
+    "en": "3 Days in Chiang Mai: Northern Quick Escape",
+    "nl": "3 Dagen in Chiang Mai: Snelle Noordelijke Ontsnapping"
+  },
+  "duration": 3,
+  "region": "northern",
+  "budgetLevel": "all",
+  "description": {
+    "en": "Discover the cultural heart of Northern Thailand in 3 days. Explore ancient temples, visit an ethical elephant sanctuary, browse vibrant night markets, and enjoy the cooler mountain climate of Chiang Mai.",
+    "nl": "Ontdek het culturele hart van Noord-Thailand in 3 dagen. Verken oude tempels, bezoek een ethisch olifantenreservaat, loop over levendige nachtmarkten en geniet van het koelere bergklimaat van Chiang Mai."
+  },
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "highlights": ["Doi Suthep Temple", "Elephant Sanctuary", "Sunday Night Market", "Old City Temples", "Thai Cooking Class"],
+  "cities": ["chiang-mai"],
+  "budget": {
+    "budget": { "total": "$100-150", "perDay": "$35-50", "currency": "THB", "totalThb": "3,500-5,000" },
+    "midrange": { "total": "$250-400", "perDay": "$85-135", "currency": "THB", "totalThb": "9,000-14,000" },
+    "luxury": { "total": "$600-1,000", "perDay": "$200-335", "currency": "THB", "totalThb": "21,000-35,000" }
+  },
+  "bestTimeToVisit": "November to February",
+  "days": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Old City Temples & Night Market",
+        "nl": "Oude Stad Tempels & Nachtmarkt"
+      },
+      "city": "chiang-mai",
+      "activities": [
+        {
+          "name": { "en": "Wat Phra Singh", "nl": "Wat Phra Singh" },
+          "duration": "1 hour",
+          "cost": "40 ($1.20)",
+          "type": "cultural",
+          "tip": { "en": "One of Chiang Mai's most important temples. The Lai Kham chapel has stunning murals depicting daily life in the north.", "nl": "Een van Chiang Mai's belangrijkste tempels. De Lai Kham kapel heeft prachtige muurschilderingen van het dagelijks leven in het noorden." }
+        },
+        {
+          "name": { "en": "Wat Chedi Luang", "nl": "Wat Chedi Luang" },
+          "duration": "1 hour",
+          "cost": "40 ($1.20)",
+          "type": "cultural",
+          "tip": { "en": "The massive ruined chedi dates back to the 14th century. Free monk chats available daily from 9AM-12PM.", "nl": "De enorme geruineerde chedi dateert uit de 14e eeuw. Gratis gesprekken met monniken dagelijks van 9:00-12:00." }
+        },
+        {
+          "name": { "en": "Explore the Old City by Bicycle", "nl": "Verken de Oude Stad per Fiets" },
+          "duration": "2-3 hours",
+          "cost": "50-100 ($1.50-3) bike rental per day",
+          "type": "experience",
+          "tip": { "en": "The Old City is flat and compact - perfect for cycling. Rent a bike from your guesthouse or rental shops along Moon Muang Road.", "nl": "De Oude Stad is vlak en compact - perfect om te fietsen. Huur een fiets bij je guesthouse of verhuurwinkels langs Moon Muang Road." }
+        },
+        {
+          "name": { "en": "Sunday Night Market (Walking Street)", "nl": "Zondagse Nachtmarkt (Walking Street)" },
+          "duration": "2-3 hours",
+          "cost": "Free entry (shopping/food extra)",
+          "type": "shopping",
+          "tip": { "en": "Stretches along Ratchadamnoen Road from Tha Pae Gate. Best night market in Thailand! If not Sunday, try the Saturday Night Market on Wualai Road.", "nl": "Strekt zich uit langs Ratchadamnoen Road vanaf Tha Pae Gate. Beste nachtmarkt van Thailand! Als het geen zondag is, probeer de zaterdagse nachtmarkt op Wualai Road." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Khao Soi (northern curry noodles) at Khao Soi Khun Yai (50-80 baht)", "nl": "Khao Soi (noordelijke currynoodles) bij Khao Soi Khun Yai (50-80 baht)" },
+        "lunch": { "en": "Sai Ua (northern sausage) and sticky rice at a local market (60-100 baht)", "nl": "Sai Ua (noordelijke worst) en sticky rice op een lokale markt (60-100 baht)" },
+        "dinner": { "en": "Street food at the night market - try Khao Kha Moo (stewed pork leg) and mango sticky rice", "nl": "Straateten op de nachtmarkt - probeer Khao Kha Moo (gestoofde varkensham) en mango sticky rice" }
+      },
+      "accommodation": {
+        "budget": { "en": "Guesthouse inside the Old City moat (300-500/night)", "nl": "Guesthouse binnen de gracht van de Oude Stad (300-500/nacht)" },
+        "midrange": { "en": "Boutique hotel in Old City or Nimman area (1,200-2,500/night)", "nl": "Boetiekhotel in Oude Stad of Nimman gebied (1.200-2.500/nacht)" },
+        "luxury": { "en": "137 Pillars House or Dhara Dhevi (6,000-15,000/night)", "nl": "137 Pillars House of Dhara Dhevi (6.000-15.000/nacht)" }
+      },
+      "transport": { "en": "Red songthaew (shared truck taxi) around the Old City: 30-50 baht. From airport: 150-200 baht by taxi.", "nl": "Rode songthaew (gedeelde truck taxi) rond de Oude Stad: 30-50 baht. Vanaf vliegveld: 150-200 baht per taxi." }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Doi Suthep & Cooking Class",
+        "nl": "Doi Suthep & Kookles"
+      },
+      "city": "chiang-mai",
+      "activities": [
+        {
+          "name": { "en": "Wat Phra That Doi Suthep", "nl": "Wat Phra That Doi Suthep" },
+          "duration": "2-3 hours (including transport)",
+          "cost": "30 ($0.90) temple + 100-150 transport",
+          "type": "cultural",
+          "tip": { "en": "306 steps up (or take the funicular for 50 baht). Go early morning for clear views over the city. The golden chedi is spectacular.", "nl": "306 treden omhoog (of neem de kabelbaan voor 50 baht). Ga vroeg in de ochtend voor helder uitzicht over de stad. De gouden chedi is spectaculair." }
+        },
+        {
+          "name": { "en": "Thai Cooking Class", "nl": "Thaise Kookles" },
+          "duration": "4-5 hours",
+          "cost": "900-1,500 ($27-45)",
+          "type": "experience",
+          "tip": { "en": "Chiang Mai is the best place in Thailand for cooking classes. Try Thai Farm Cooking School or Mama Noi. Most include a market visit.", "nl": "Chiang Mai is de beste plek in Thailand voor kooklessen. Probeer Thai Farm Cooking School of Mama Noi. De meeste bevatten een marktbezoek." }
+        },
+        {
+          "name": { "en": "Nimman Road (Nimmanhaemin)", "nl": "Nimman Road (Nimmanhaemin)" },
+          "duration": "2 hours",
+          "cost": "Free (shopping/cafes extra)",
+          "type": "shopping",
+          "tip": { "en": "Chiang Mai's trendy neighborhood with hip cafes, art galleries, and boutique shops. Great coffee culture here.", "nl": "De trendy buurt van Chiang Mai met hippe cafes, kunstgalerijen en boetiekwinkels. Geweldige koffiecultuur hier." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Fresh fruit smoothie bowl at a Nimman cafe (120-200 baht)", "nl": "Verse fruitsmoothie bowl bij een Nimman cafe (120-200 baht)" },
+        "lunch": { "en": "Cooking class lunch - you eat what you cook! (included in class fee)", "nl": "Kookles lunch - je eet wat je kookt! (inbegrepen in lesprijs)" },
+        "dinner": { "en": "Huen Phen restaurant for authentic Lanna cuisine (150-300 baht per person)", "nl": "Huen Phen restaurant voor authentieke Lanna keuken (150-300 baht per persoon)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Guesthouse inside the Old City moat (300-500/night)", "nl": "Guesthouse binnen de gracht van de Oude Stad (300-500/nacht)" },
+        "midrange": { "en": "Boutique hotel in Nimman area (1,200-2,500/night)", "nl": "Boetiekhotel in Nimman gebied (1.200-2.500/nacht)" },
+        "luxury": { "en": "Akyra Manor or RatiLanna (5,000-10,000/night)", "nl": "Akyra Manor of RatiLanna (5.000-10.000/nacht)" }
+      },
+      "transport": { "en": "Songthaew to Doi Suthep from Old City: 50-80 baht per person (shared). Grab taxi available too.", "nl": "Songthaew naar Doi Suthep vanuit Oude Stad: 50-80 baht per persoon (gedeeld). Grab taxi ook beschikbaar." }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Elephant Sanctuary & Farewell",
+        "nl": "Olifantenreservaat & Afscheid"
+      },
+      "city": "chiang-mai",
+      "activities": [
+        {
+          "name": { "en": "Elephant Nature Park (Half-Day Visit)", "nl": "Elephant Nature Park (Halve Dag Bezoek)" },
+          "duration": "4-5 hours",
+          "cost": "2,500-3,500 ($75-105)",
+          "type": "nature",
+          "tip": { "en": "Book well in advance! This is an ethical no-riding sanctuary. You'll feed, bathe, and observe rescued elephants. Full-day options also available.", "nl": "Boek ruim van tevoren! Dit is een ethisch reservaat zonder rijden. Je voert, baadt en observeert geredde olifanten. Hele dag opties ook beschikbaar." }
+        },
+        {
+          "name": { "en": "Tha Pae Gate Area", "nl": "Tha Pae Gate Gebied" },
+          "duration": "1 hour",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "The iconic eastern gate of the Old City. Great photo spot and starting point for exploring the moat area.", "nl": "De iconische oostelijke poort van de Oude Stad. Mooie fotoplek en startpunt voor het verkennen van het grachtgebied." }
+        },
+        {
+          "name": { "en": "Traditional Thai Massage", "nl": "Traditionele Thaise Massage" },
+          "duration": "1-2 hours",
+          "cost": "200-400 ($6-12)",
+          "type": "wellness",
+          "tip": { "en": "Chiang Mai offers some of the best and cheapest massages in Thailand. Try Lila Thai Massage (run by former female prisoners learning a trade).", "nl": "Chiang Mai biedt enkele van de beste en goedkoopste massages in Thailand. Probeer Lila Thai Massage (gerund door voormalige vrouwelijke gevangenen die een vak leren)." }
+        },
+        {
+          "name": { "en": "Chiang Mai Night Bazaar", "nl": "Chiang Mai Night Bazaar" },
+          "duration": "2 hours",
+          "cost": "Free entry (shopping extra)",
+          "type": "shopping",
+          "tip": { "en": "Open every evening along Chang Klan Road. More tourist-oriented than the Sunday Market but still fun for souvenirs.", "nl": "Elke avond geopend langs Chang Klan Road. Meer toeristisch dan de zondagsmarkt maar nog steeds leuk voor souvenirs." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Fresh pastries and coffee at Graph Cafe in the Old City (100-200 baht)", "nl": "Verse gebakjes en koffie bij Graph Cafe in de Oude Stad (100-200 baht)" },
+        "lunch": { "en": "Lunch at the Elephant Nature Park (included in visit fee)", "nl": "Lunch bij het Elephant Nature Park (inbegrepen in bezoekprijs)" },
+        "dinner": { "en": "Khantoke dinner with traditional Lanna dance performance (600-900 baht)", "nl": "Khantoke diner met traditionele Lanna dansvoorstelling (600-900 baht)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Guesthouse inside the Old City moat (300-500/night)", "nl": "Guesthouse binnen de gracht van de Oude Stad (300-500/nacht)" },
+        "midrange": { "en": "Boutique hotel in Old City (1,200-2,500/night)", "nl": "Boetiekhotel in Oude Stad (1.200-2.500/nacht)" },
+        "luxury": { "en": "Four Seasons Resort Chiang Mai (12,000-25,000/night)", "nl": "Four Seasons Resort Chiang Mai (12.000-25.000/nacht)" }
+      },
+      "transport": { "en": "Elephant sanctuary includes hotel pickup. Songthaew or Grab for evening activities.", "nl": "Olifantenreservaat inclusief hotel pickup. Songthaew of Grab voor avondactiviteiten." }
+    }
+  ],
+  "transportBetweenCities": [],
+  "packingTips": {
+    "en": ["Comfortable walking shoes", "Light layers (cooler in the mountains, especially Nov-Feb)", "Insect repellent", "Modest clothing for temples", "Clothes you don't mind getting muddy (elephant sanctuary)", "Sunscreen"],
+    "nl": ["Comfortabele wandelschoenen", "Lichte lagen (koeler in de bergen, vooral nov-feb)", "Insectenwerend middel", "Bescheiden kleding voor tempels", "Kleding die vies mag worden (olifantenreservaat)", "Zonnebrand"]
+  },
+  "seo": {
+    "metaTitle": { "en": "3 Days in Chiang Mai Itinerary 2026: Northern Thailand Guide", "nl": "3 Dagen Chiang Mai Reisschema 2026: Noord-Thailand Gids" },
+    "metaDescription": { "en": "Perfect 3-day Chiang Mai itinerary for 2026. Visit Doi Suthep, elephant sanctuaries, night markets and take a cooking class. Budget tips included.", "nl": "Perfect 3-daags Chiang Mai reisschema voor 2026. Bezoek Doi Suthep, olifantenreservaten, nachtmarkten en volg een kookles. Budgettips inbegrepen." }
+  },
+  "tags": ["chiang mai", "3 days", "northern thailand", "temples", "elephants", "cooking class", "night market"]
+}

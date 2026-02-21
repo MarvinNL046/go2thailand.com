@@ -118,6 +118,24 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
             })
           }}
         />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "ItemList",
+              "name": hotelsData.title,
+              "description": hotelsData.meta_description,
+              "numberOfItems": hotelsData.items.length,
+              "itemListElement": hotelsData.items.map((item: HotelItem) => ({
+                "@type": "ListItem",
+                "position": item.rank,
+                "name": item.name,
+                "url": `https://go2-thailand.com/city/${city.slug}/top-10-hotels/#hotel-${item.rank}`
+              }))
+            })
+          }}
+        />
       </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
