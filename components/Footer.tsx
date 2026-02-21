@@ -174,6 +174,11 @@ const Footer = () => {
                   {t('footer.thaiFoodGuide')}
                 </Link>
               </li>
+              <li>
+                <a href="https://search.go2-thailand.com" className="text-gray-300 hover:text-white text-sm transition-colors">
+                  {t('nav.searchFlightsHotels')}
+                </a>
+              </li>
             </ul>
           </div>
 

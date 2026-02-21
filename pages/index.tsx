@@ -107,7 +107,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
       </SEOHead>
 
       {/* Hero Section with Auto-Rotating Slider */}
-      <section className="relative h-[500px] sm:h-96 lg:h-[600px] overflow-hidden">
+      <section className="relative min-h-[85vh] sm:min-h-[70vh] lg:min-h-[600px] overflow-hidden">
         <div className="absolute inset-0">
           {/* Background Images */}
           {heroImages.map((image, index) => (
@@ -199,7 +199,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
             </p>
           </div>
           <div className="max-w-4xl mx-auto">
-            <TripcomWidget 
+            <TripcomWidget
               city="Thailand"
               type="searchbox"
               className="shadow-xl"

@@ -70,10 +70,10 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
   return (
     <div className={`bg-white rounded-lg shadow-lg overflow-hidden ${className}`}>
       {/* Widget container */}
-      <div ref={widgetRef} className="trip-com-widget"></div>
-      
+      <div ref={widgetRef} className="trip-com-widget overflow-x-auto"></div>
+
       {/* Fallback content and additional links */}
-      <div className="p-6 border-t border-gray-200">
+      <div className="p-4 sm:p-6 border-t border-gray-200">
         <h3 className="text-lg font-semibold text-gray-900 mb-2">
           {customTitle || serviceInfo.title}
         </h3>
@@ -81,36 +81,36 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
           {serviceInfo.description}
         </p>
         
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
-          <a 
+        <div className="grid grid-cols-2 gap-2 sm:grid-cols-4 sm:gap-3">
+          <a
             href={affiliateLinks.main}
             target="_blank"
             rel="noopener noreferrer nofollow"
-            className="text-center px-4 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-sm font-medium"
+            className="text-center px-3 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-xs sm:text-sm font-medium"
           >
             Hotels
           </a>
-          <a 
+          <a
             href={affiliateLinks.bundle}
             target="_blank"
             rel="noopener noreferrer nofollow"
-            className="text-center px-4 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-sm font-medium"
+            className="text-center px-3 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-xs sm:text-sm font-medium"
           >
             Hotel + Flight
           </a>
-          <a 
+          <a
             href={affiliateLinks.transfers}
             target="_blank"
             rel="noopener noreferrer nofollow"
-            className="text-center px-4 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-sm font-medium"
+            className="text-center px-3 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-xs sm:text-sm font-medium"
           >
             Transfers
           </a>
-          <a 
+          <a
             href={affiliateLinks['car-rental']}
             target="_blank"
             rel="noopener noreferrer nofollow"
-            className="text-center px-4 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-sm font-medium"
+            className="text-center px-3 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-xs sm:text-sm font-medium"
           >
             Car Rental
           </a>
