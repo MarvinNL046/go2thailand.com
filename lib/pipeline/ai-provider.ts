@@ -6,9 +6,9 @@ interface GenerateOptions {
   temperature?: number;
 }
 
-const MAX_RETRIES = 3;
+const MAX_RETRIES = 2;
 const RETRY_DELAY_MS = 1000;
-const AI_TIMEOUT_MS = 60_000; // 60 seconds per AI call
+const AI_TIMEOUT_MS = 120_000; // 120 seconds per AI call (translations of large posts need more time)
 
 function fetchWithTimeout(url: string, options: RequestInit = {}, timeoutMs = AI_TIMEOUT_MS): Promise<Response> {
   const controller = new AbortController();
