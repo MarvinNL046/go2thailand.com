@@ -18,6 +18,11 @@ interface Source {
   url: string;
 }
 
+interface FaqItem {
+  question: string;
+  answer: string;
+}
+
 interface BlogPost {
   slug: string;
   title: string;
@@ -32,6 +37,7 @@ interface BlogPost {
   readingTime: number;
   contentHtml?: string;
   sources?: Source[];
+  faqItems?: FaqItem[];
 }
 
 interface BlogPostPageProps {
@@ -136,6 +142,19 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
     }))
   };
 
+  const faqJsonLd = post.faqItems && post.faqItems.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": post.faqItems.map(item => ({
+      "@type": "Question",
+      "name": item.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": item.answer
+      }
+    }))
+  } : null;
+
   return (
     <>
       <SEOHead
@@ -158,6 +177,12 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         />
+        {faqJsonLd && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+          />
+        )}
       </SEOHead>
 
       <article className="bg-gray-50 min-h-screen">

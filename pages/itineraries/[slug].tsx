@@ -247,6 +247,45 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
     }))
   };
 
+  // Extract numeric budget value from string like "$150-200" -> "150"
+  const budgetMatch = itinerary.budget?.budget?.match(/\$?([\d,]+)/);
+  const budgetValue = budgetMatch ? budgetMatch[1].replace(/,/g, '') : undefined;
+
+  const howToJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": `How to spend ${itinerary.duration} days in Thailand: ${itinerary.title}`,
+    "description": itinerary.description,
+    "totalTime": `P${itinerary.duration}D`,
+    "image": toAbsoluteImageUrl(itinerary.image),
+    "url": `https://go2-thailand.com/itineraries/${itinerary.slug}/`,
+    ...(budgetValue ? {
+      "estimatedCost": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": budgetValue
+      }
+    } : {}),
+    "step": itinerary.days?.map((day) => {
+      const activitiesSummary = day.activities
+        ?.map(a => a.name)
+        .join(', ');
+      const stepText = [
+        day.description,
+        activitiesSummary ? `Activities: ${activitiesSummary}.` : '',
+        day.transport ? `Transport: ${day.transport}.` : ''
+      ].filter(Boolean).join(' ');
+
+      return {
+        "@type": "HowToStep",
+        "name": `Day ${day.day}: ${day.title}${day.city ? ` (${day.city})` : ''}`,
+        "text": stepText || day.title,
+        "position": day.day,
+        "url": `https://go2-thailand.com/itineraries/${itinerary.slug}/#day-${day.day}`
+      };
+    }) || []
+  };
+
   return (
     <>
       <SEOHead
@@ -267,6 +306,10 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(howToJsonLd) }}
         />
       </SEOHead>
 
