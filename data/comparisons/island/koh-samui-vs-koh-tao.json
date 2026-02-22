@@ -1,0 +1,194 @@
+{
+  "slug": "koh-samui-vs-koh-tao",
+  "type": "island",
+  "item1": "koh-samui",
+  "item2": "koh-tao",
+  "summary": {
+    "en": "Koh Samui and Koh Tao are two distinct Thai islands catering to different traveler preferences. Koh Samui offers a more developed, upscale experience with excellent beaches and vibrant nightlife, while Koh Tao is a smaller, more laid-back destination renowned for world-class diving and a younger backpacker atmosphere.",
+    "nl": "Koh Samui en Koh Tao zijn twee verschillende Thaise eilanden die verschillende reizigers aantrekken. Koh Samui biedt een meer ontwikkelde, luxueuze ervaring met uitstekende stranden en levendig nachtleven, terwijl Koh Tao een kleiner, meer ontspannen eiland is dat beroemd is om zijn duiken en jonge backpackeratmosfeer."
+  },
+  "verdict": {
+    "en": "Choose Koh Samui if you seek a well-developed island with diverse accommodation options, upscale dining, beautiful beaches, and active nightlife—ideal for families, couples, and those wanting comfort. Select Koh Tao if you're a budget-conscious traveler, diving enthusiast, or young backpacker seeking a more authentic, relaxed island experience with a tight-knit community atmosphere.",
+    "nl": "Kies voor Koh Samui als je een goed ontwikkeld eiland zoekt met diverse accommodatieopties, luxe eten, mooie stranden en actief nachtleven—ideaal voor gezinnen, stellen en degenen die comfort willen. Kies Koh Tao als je een budgetbewuste reiziger bent, duikenthusiast of jonge backpacker die een meer authentieke, ontspannen eilandervaring zoekt met een hechte gemeenschapssfeer."
+  },
+  "categories": [
+    {
+      "name": "beaches",
+      "icon": "🏖️",
+      "winner": "koh-samui",
+      "item1_score": 9,
+      "item2_score": 7,
+      "item1_text": {
+        "en": "Koh Samui boasts pristine, well-maintained beaches with soft white sand and clear turquoise waters. Popular beaches like Chaweng and Lamai offer excellent facilities, water sports, and stunning sunset views.",
+        "nl": "Koh Samui beschikt over ongerepte, goed onderhouden stranden met zacht wit zand en helder turquoise water. Populaire stranden zoals Chaweng en Lamai bieden uitstekende faciliteiten, watersporten en prachtige zonsondergangen."
+      },
+      "item2_text": {
+        "en": "Koh Tao's beaches are smaller and less developed but offer a more tranquil, natural setting. The island's main beaches provide good swimming and are less crowded than Koh Samui's tourist hotspots.",
+        "nl": "De stranden van Koh Tao zijn kleiner en minder ontwikkeld, maar bieden een meer rustige, natuurlijke omgeving. De belangrijkste stranden van het eiland bieden goed zwemmen en zijn minder druk dan Koh Samui's toeristische hotspots."
+      }
+    },
+    {
+      "name": "nightlife",
+      "icon": "🎉",
+      "winner": "koh-samui",
+      "item1_score": 9,
+      "item2_score": 5,
+      "item1_text": {
+        "en": "Koh Samui features a vibrant nightlife scene with numerous bars, clubs, and entertainment venues, particularly around Chaweng Beach. The island hosts beach clubs, live music venues, and a lively atmosphere catering to various party preferences.",
+        "nl": "Koh Samui heeft een levendig nachtleven met talrijke bars, clubs en uitgaansgelegenheden, vooral rond Chaweng Beach. Het eiland heeft strandclubs, livemuziekvenues en een levendige sfeer voor verschillende feestvoorkeurs."
+      },
+      "item2_text": {
+        "en": "Koh Tao offers a more relaxed, casual nightlife focused on beach bars and social gathering spots. The scene is geared toward backpackers with laid-back vibes rather than high-energy clubbing.",
+        "nl": "Koh Tao biedt een meer ontspannen, informeel nachtleven gericht op strandbarren en sociale verzamelpunten. De sfeer is gericht op backpackers met een ontspannen vibe in plaats van high-energy clubbing."
+      }
+    },
+    {
+      "name": "diving-snorkeling",
+      "icon": "🤿",
+      "winner": "koh-tao",
+      "item1_score": 7,
+      "item2_score": 10,
+      "item1_text": {
+        "en": "Koh Samui offers decent diving and snorkeling opportunities with several dive shops and coral reefs. While suitable for recreational diving, the experience is not as exceptional as nearby Koh Tao.",
+        "nl": "Koh Samui biedt redelijke duik- en snorkelmogelijkheden met verschillende duikwinkels en koraalriffen. Hoewel geschikt voor recreatief duiken, is de ervaring niet zo uitzonderlijk als het nabijgelegen Koh Tao."
+      },
+      "item2_text": {
+        "en": "Koh Tao is world-renowned as a premier diving destination with exceptional coral reefs, abundant marine life, and excellent visibility. The island is famous for affordable PADI certification courses and is a diver's paradise.",
+        "nl": "Koh Tao staat wereldwijd bekend als een topduikbestemming met uitzonderlijke koraalriffen, rijke zeeëven en uitstekend zicht. Het eiland staat beroemd om betaalbare PADI-certificeringscursussen en is een paradijs voor duikers."
+      }
+    },
+    {
+      "name": "budget",
+      "icon": "💰",
+      "winner": "koh-tao",
+      "item1_score": 5,
+      "item2_score": 8,
+      "item1_text": {
+        "en": "Koh Samui is more expensive overall, with higher prices for accommodation, dining, and activities. The developed tourism infrastructure and upscale amenities come at a premium cost.",
+        "nl": "Koh Samui is over het algemeen duurder, met hogere prijzen voor accommodatie, eten en activiteiten. De ontwikkelde toerismeinfrastructuur en luxe voorzieningen komen met een premiumprijs."
+      },
+      "item2_text": {
+        "en": "Koh Tao is significantly more budget-friendly, offering affordable guesthouses, cheap eats, and reasonably priced activities. It's an excellent choice for backpackers and budget-conscious travelers seeking value.",
+        "nl": "Koh Tao is aanzienlijk budgetvriendelijker en biedt betaalbare gasthuizen, goedkoop eten en redelijk geprijsde activiteiten. Het is een uitstekende keuze voor backpackers en budgetbewuste reizigers die waarde zoeken."
+      }
+    },
+    {
+      "name": "accommodation",
+      "icon": "🏨",
+      "winner": "koh-samui",
+      "item1_score": 9,
+      "item2_score": 6,
+      "item1_text": {
+        "en": "Koh Samui offers extensive accommodation options ranging from luxury resorts to budget hotels. The island provides world-class facilities, spa services, and upscale amenities catering to all traveler types and budgets.",
+        "nl": "Koh Samui biedt uitgebreide accommodatieopties van luxeresorts tot budgethotels. Het eiland biedt wereldklasse faciliteiten, spafaciliteiten en luxe voorzieningen voor alle soorten reizigers en budgetten."
+      },
+      "item2_text": {
+        "en": "Koh Tao's accommodation is primarily geared toward backpackers with basic guesthouses and budget bungalows. While charming and adequate, options are limited compared to Koh Samui's diverse range.",
+        "nl": "De accommodatie op Koh Tao is vooral gericht op backpackers met basale gasthuizen en budgetbungalows. Hoewel charmant en adequaat, zijn de opties beperkt in vergelijking met Koh Samui's diverse aanbod."
+      }
+    },
+    {
+      "name": "food",
+      "icon": "🍜",
+      "winner": "koh-samui",
+      "item1_score": 8,
+      "item2_score": 6,
+      "item1_text": {
+        "en": "Koh Samui offers diverse culinary experiences including authentic Thai cuisine, international restaurants, and upscale dining establishments. The island caters to various tastes and dietary preferences with quality ingredients and skilled chefs.",
+        "nl": "Koh Samui biedt diverse culinaire ervaringen met authentieke Thaise keuken, internationale restaurants en luxe eetgelegenheden. Het eiland voorziet in verschillende smaken en voedingsvoorkeuren met kwaliteitsingrediënten en bekwame chefs."
+      },
+      "item2_text": {
+        "en": "Koh Tao provides good local Thai food and casual dining options at budget-friendly prices. While options are more limited and less upscale, the authenticity and affordability appeal to backpackers.",
+        "nl": "Koh Tao biedt goed lokaal Thais eten en informele eetgelegenheden tegen budgetvriendelijke prijzen. Hoewel de opties beperkter en minder luxe zijn, spreken de authenticiteit en betaalbaarheid backpackers aan."
+      }
+    },
+    {
+      "name": "accessibility",
+      "icon": "✈️",
+      "winner": "koh-samui",
+      "item1_score": 9,
+      "item2_score": 6,
+      "item1_text": {
+        "en": "Koh Samui has its own international airport with direct flights from major cities, making it highly accessible. The island also has excellent ferry connections and well-developed transportation infrastructure.",
+        "nl": "Koh Samui heeft zijn eigen internationale luchthaven met directe vluchten vanuit grote steden, wat het zeer toegankelijk maakt. Het eiland heeft ook uitstekende veerboten en goed ontwikkelde transportinfrastructuur."
+      },
+      "item2_text": {
+        "en": "Koh Tao is less accessible, requiring ferry travel from the mainland or connecting islands. While ferries are available, the journey is longer and less convenient than reaching Koh Samui.",
+        "nl": "Koh Tao is minder toegankelijk en vereist veertochten van het vasteland of verbindingseilanden. Hoewel veerboten beschikbaar zijn, is de reis langer en minder handig dan het bereiken van Koh Samui."
+      }
+    },
+    {
+      "name": "family-friendly",
+      "icon": "👨‍👩‍👧‍👦",
+      "winner": "koh-samui",
+      "item1_score": 8,
+      "item2_score": 5,
+      "item1_text": {
+        "en": "Koh Samui is excellent for families with safe beaches, diverse activities, quality accommodation, and family-oriented facilities. The island offers water sports, elephant sanctuaries, and entertainment suitable for all ages.",
+        "nl": "Koh Samui is uitstekend voor gezinnen met veilige stranden, diverse activiteiten, kwaliteitsaccommodatie en gezinsgerichte faciliteiten. Het eiland biedt watersporten, olifantensanctuaria en entertainment geschikt voor alle leeftijden."
+      },
+      "item2_text": {
+        "en": "Koh Tao is less family-oriented, catering primarily to young backpackers and divers. While not unsuitable for families, the limited amenities and backpacker atmosphere make it a less ideal family destination.",
+        "nl": "Koh Tao is minder gezinsgericht en richt zich vooral op jonge backpackers en duikers. Hoewel niet ongeschikt voor gezinnen, maken de beperkte voorzieningen en backpackeratmosfeer het een minder ideale gezinsbestemming."
+      }
+    }
+  ],
+  "faq": [
+    {
+      "question": {
+        "en": "Is Koh Samui or Koh Tao cheaper?",
+        "nl": "Is Koh Samui of Koh Tao goedkoper?"
+      },
+      "answer": {
+        "en": "Koh Tao is significantly cheaper than Koh Samui. Accommodation, food, and activities are more affordable on Koh Tao, making it ideal for budget-conscious travelers. Koh Samui's developed tourism infrastructure results in higher prices across all categories.",
+        "nl": "Koh Tao is aanzienlijk goedkoper dan Koh Samui. Accommodatie, eten en activiteiten zijn betaalbaarder op Koh Tao, wat het ideaal maakt voor budgetbewuste reizigers. De ontwikkelde toerismeinfrastructuur van Koh Samui resulteert in hogere prijzen in alle categorieën."
+      }
+    },
+    {
+      "question": {
+        "en": "Which island is better for diving?",
+        "nl": "Welk eiland is beter voor duiken?"
+      },
+      "answer": {
+        "en": "Koh Tao is undoubtedly the superior diving destination. It's world-renowned for exceptional coral reefs, abundant marine life, and excellent visibility. The island is famous for affordable PADI certification courses, attracting diving enthusiasts from around the globe.",
+        "nl": "Koh Tao is ongetwijfeld de superieure duikbestemming. Het staat wereldwijd bekend om uitzonderlijke koraalriffen, rijke zeeëven en uitstekend zicht. Het eiland staat beroemd om betaalbare PADI-certificeringscursussen en trekt duikenthusiaten van over de hele wereld aan."
+      }
+    },
+    {
+      "question": {
+        "en": "Which island is better for families?",
+        "nl": "Welk eiland is beter voor gezinnen?"
+      },
+      "answer": {
+        "en": "Koh Samui is the better choice for families. It offers safe beaches, diverse family-friendly activities, quality accommodation, and excellent amenities. The island has attractions like elephant sanctuaries, water sports, and varied dining options suitable for all ages.",
+        "nl": "Koh Samui is de betere keuze voor gezinnen. Het biedt veilige stranden, diverse gezinsgerichte activiteiten, kwaliteitsaccommodatie en uitstekende voorzieningen. Het eiland heeft attracties zoals olifantensanctuaria, watersporten en gevarieerde eetgelegenheden geschikt voor alle leeftijden."
+      }
+    },
+    {
+      "question": {
+        "en": "What's the atmosphere like on each island?",
+        "nl": "Hoe is de sfeer op elk eiland?"
+      },
+      "answer": {
+        "en": "Koh Samui has a vibrant, developed atmosphere with upscale resorts, busy beaches, and active nightlife. Koh Tao offers a more relaxed, laid-back backpacker vibe with a tight-knit community feel and focus on outdoor activities like diving and snorkeling.",
+        "nl": "Koh Samui heeft een levendige, ontwikkelde atmosfeer met luxeresorts, drukke stranden en actief nachtleven. Koh Tao biedt een meer ontspannen, relaxte backpackeratmosfeer met een hechte gemeenschapssfeer en focus op buitenactiviteiten zoals duiken en snorkelen."
+      }
+    },
+    {
+      "question": {
+        "en": "How do I get to each island?",
+        "nl": "Hoe kom ik op elk eiland?"
+      },
+      "answer": {
+        "en": "Koh Samui has its own international airport with direct flights from major cities worldwide, making it very accessible. Koh Tao is reached by ferry from the mainland or connecting islands like Koh Phangan, requiring more travel time and planning.",
+        "nl": "Koh Samui heeft zijn eigen internationale luchthaven met directe vluchten vanuit grote steden wereldwijd, wat het zeer toegankelijk maakt. Koh Tao wordt bereikt met de veerboot vanuit het vasteland of verbindingseilanden zoals Koh Phangan, wat meer reistijd en planning vereist."
+      }
+    }
+  ],
+  "generatedAt": "2026-02-22T07:00:57.803Z",
+  "sources": [
+    "https://www.traveltomtom.net/destinations/asia/thailand/koh-tao-or-koh-samui",
+    "https://girlonazebra.com/koh-tao-vs-koh-samui/",
+    "https://www.youtube.com/watch?v=b_q5lWsSsMQ"
+  ]
+}
