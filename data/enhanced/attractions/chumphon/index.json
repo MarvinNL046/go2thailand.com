@@ -16,8 +16,16 @@
         "en": "Chumphon's finest beach with a long crescent of golden sand, clear water, and excellent kiteboarding conditions",
         "nl": "Chumphon's mooiste strand met een lange halve maan van goudkleurig zand, helder water en uitstekende kiteboardomstandigheden"
       },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Golden sand beach", "Kiteboarding", "Snorkeling offshore"]
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Golden sand beach",
+        "Kiteboarding",
+        "Snorkeling offshore"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thung%20Wua%20Laen%20Beach%20Chumphon%20Thailand"
     },
     {
       "id": 2,
@@ -32,8 +40,16 @@
         "en": "Marine national park with offshore islands, coral reefs, and excellent diving and snorkeling opportunities",
         "nl": "Marien nationaal park met eilanden, koraalriffen en uitstekende duik- en snorkelmogelijkheden"
       },
-      "entrance_fee": { "thb": 200, "usd": 6 },
-      "highlights": ["Coral reefs", "Island hopping", "Diving"]
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Coral reefs",
+        "Island hopping",
+        "Diving"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mu%20Ko%20Chumphon%20National%20Park%20Chumphon%20Thailand"
     },
     {
       "id": 3,
@@ -48,8 +64,16 @@
         "en": "Fishing port and river estuary with seafood restaurants, ferry pier, and views of the Gulf of Thailand",
         "nl": "Vissershaven en riviermonding met visrestaurants, veerpier en uitzicht op de Golf van Thailand"
       },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Fishing port", "Seafood restaurants", "Ferry connections"]
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Fishing port",
+        "Seafood restaurants",
+        "Ferry connections"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pak%20Nam%20Chumphon%20Chumphon%20Thailand"
     },
     {
       "id": 4,
@@ -64,8 +88,16 @@
         "en": "A quiet beach north of Chumphon town known for clear water and the Prince of Chumphon shrine nearby",
         "nl": "Een rustig strand ten noorden van Chumphon stad bekend om helder water en het Prins van Chumphon heiligdom in de buurt"
       },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Clear water", "Prince of Chumphon shrine", "Quiet beach"]
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Clear water",
+        "Prince of Chumphon shrine",
+        "Quiet beach"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sapli%20Beach%20(Hat%20Sai%20Ri)%20Chumphon%20Thailand"
     },
     {
       "id": 5,
@@ -80,8 +112,16 @@
         "en": "A monument and shrine dedicated to Prince Abhakara Kiartivongse, the Father of the Royal Thai Navy",
         "nl": "Een monument en heiligdom gewijd aan Prins Abhakara Kiartivongse, de Vader van de Koninklijke Thaise Marine"
       },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Royal Thai Navy history", "Hilltop monument", "Sea views"]
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Royal Thai Navy history",
+        "Hilltop monument",
+        "Sea views"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prince%20of%20Chumphon%20Memorial%20Shrine%20Chumphon%20Thailand"
     },
     {
       "id": 6,
@@ -96,8 +136,16 @@
         "en": "Sheltered bay with fishing communities, waterfront seafood restaurants, and ferry pier for Koh Tao departures",
         "nl": "Beschutte baai met vissersgemeenschappen, waterkant visrestaurants en veerpier voor vertrek naar Koh Tao"
       },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Fresh seafood", "Koh Tao ferries", "Fishing village"]
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Fresh seafood",
+        "Koh Tao ferries",
+        "Fishing village"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ao%20Thung%20Makham%20Bay%20Chumphon%20Thailand"
     },
     {
       "id": 7,
@@ -112,8 +160,16 @@
         "en": "Hilltop viewpoint offering panoramic views of the coastline, river estuary, and offshore islands at sunset",
         "nl": "Heuvel-uitkijkpunt met panoramisch uitzicht over de kustlijn, riviermonding en eilanden bij zonsondergang"
       },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Panoramic sunset views", "Coastline views", "Photography spot"]
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Panoramic sunset views",
+        "Coastline views",
+        "Photography spot"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Matsee%20Viewpoint%20Chumphon%20Thailand"
     },
     {
       "id": 8,
@@ -128,8 +184,16 @@
         "en": "Scenic mangrove canal for kayaking through tunnels of overhanging trees with wildlife viewing opportunities",
         "nl": "Schilderachtig mangrovekanaal voor kajakken door tunnels van overhangende bomen met mogelijkheden voor wildobservatie"
       },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Kayaking tours", "Mangrove tunnels", "Wildlife spotting"]
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Kayaking tours",
+        "Mangrove tunnels",
+        "Wildlife spotting"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rab%20Ro%20Canal%20Mangrove%20Chumphon%20Thailand"
     }
   ]
 }

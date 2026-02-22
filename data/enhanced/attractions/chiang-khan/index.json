@@ -20,9 +20,15 @@
         "thb": 0,
         "usd": 0
       },
-      "highlights": ["Night market", "Local street food", "Traditional wooden houses", "Handmade crafts"],
+      "highlights": [
+        "Night market",
+        "Local street food",
+        "Traditional wooden houses",
+        "Handmade crafts"
+      ],
       "best_time": "evening",
-      "duration_hours": 2
+      "duration_hours": 2,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiang%20Khan%20Walking%20Street%20Chiang%20Khan%20Thailand"
     },
     {
       "id": 2,
@@ -41,9 +47,15 @@
         "thb": 0,
         "usd": 0
       },
-      "highlights": ["Mekong River views", "Riverside dining", "Views of Laos", "Rock formations"],
+      "highlights": [
+        "Mekong River views",
+        "Riverside dining",
+        "Views of Laos",
+        "Rock formations"
+      ],
       "best_time": "morning",
-      "duration_hours": 1.5
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaeng%20Khut%20Khu%20Rapids%20Chiang%20Khan%20Thailand"
     },
     {
       "id": 3,
@@ -62,9 +74,15 @@
         "thb": 30,
         "usd": 1
       },
-      "highlights": ["Sea of mist", "Sunrise viewing", "Mekong valley panorama", "Photography spot"],
+      "highlights": [
+        "Sea of mist",
+        "Sunrise viewing",
+        "Mekong valley panorama",
+        "Photography spot"
+      ],
       "best_time": "early morning",
-      "duration_hours": 2
+      "duration_hours": 2,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phu%20Thok%20Viewpoint%20Chiang%20Khan%20Thailand"
     },
     {
       "id": 4,
@@ -83,9 +101,15 @@
         "thb": 50,
         "usd": 1.5
       },
-      "highlights": ["Glass walkway", "Mekong panorama", "Cliff-edge views", "Photo opportunities"],
+      "highlights": [
+        "Glass walkway",
+        "Mekong panorama",
+        "Cliff-edge views",
+        "Photo opportunities"
+      ],
       "best_time": "morning",
-      "duration_hours": 1
+      "duration_hours": 1,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiang%20Khan%20Skywalk%20Chiang%20Khan%20Thailand"
     },
     {
       "id": 5,
@@ -104,9 +128,15 @@
         "thb": 0,
         "usd": 0
       },
-      "highlights": ["Buddhist tradition", "Cultural experience", "Early morning", "Monk procession"],
+      "highlights": [
+        "Buddhist tradition",
+        "Cultural experience",
+        "Early morning",
+        "Monk procession"
+      ],
       "best_time": "early morning",
-      "duration_hours": 1
+      "duration_hours": 1,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Morning%20Alms%20Giving%20Ceremony%20Chiang%20Khan%20Thailand"
     }
   ]
 }

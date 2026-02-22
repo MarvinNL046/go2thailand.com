@@ -4,94 +4,244 @@
   "total_attractions": 10,
   "attractions": [
     {
-      "id": 1, "slug": "koh-chang",
-      "name": { "en": "Koh Chang Island", "nl": "Koh Chang Eiland" },
+      "id": 1,
+      "slug": "koh-chang",
+      "name": {
+        "en": "Koh Chang Island",
+        "nl": "Koh Chang Eiland"
+      },
       "type": "nature",
       "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": { "en": "Thailand's second-largest island with mountainous jungle interior, white sand beaches, and vibrant nightlife", "nl": "Thailands op een na grootste eiland met bergachtig junglebinnenland, witte zandstranden en bruisend nachtleven" },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["White Sand Beach", "Jungle waterfalls", "Island nightlife"]
+      "description": {
+        "en": "Thailand's second-largest island with mountainous jungle interior, white sand beaches, and vibrant nightlife",
+        "nl": "Thailands op een na grootste eiland met bergachtig junglebinnenland, witte zandstranden en bruisend nachtleven"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "White Sand Beach",
+        "Jungle waterfalls",
+        "Island nightlife"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh%20Chang%20Island%20Trat%20Thailand"
     },
     {
-      "id": 2, "slug": "koh-kood",
-      "name": { "en": "Koh Kood (Koh Kut)", "nl": "Koh Kood (Koh Kut)" },
+      "id": 2,
+      "slug": "koh-kood",
+      "name": {
+        "en": "Koh Kood (Koh Kut)",
+        "nl": "Koh Kood (Koh Kut)"
+      },
       "type": "nature",
       "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": { "en": "Pristine, unspoiled island with crystal-clear waters, coconut plantations, and traditional fishing villages", "nl": "Ongerept eiland met kristalhelder water, kokosplantages en traditionele vissersdorpen" },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Crystal-clear waters", "Unspoiled beaches", "Fishing villages"]
+      "description": {
+        "en": "Pristine, unspoiled island with crystal-clear waters, coconut plantations, and traditional fishing villages",
+        "nl": "Ongerept eiland met kristalhelder water, kokosplantages en traditionele vissersdorpen"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Crystal-clear waters",
+        "Unspoiled beaches",
+        "Fishing villages"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh%20Kood%20(Koh%20Kut)%20Trat%20Thailand"
     },
     {
-      "id": 3, "slug": "klong-plu-waterfall",
-      "name": { "en": "Klong Plu Waterfall", "nl": "Klong Plu Waterval" },
+      "id": 3,
+      "slug": "klong-plu-waterfall",
+      "name": {
+        "en": "Klong Plu Waterfall",
+        "nl": "Klong Plu Waterval"
+      },
       "type": "nature",
       "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": { "en": "Koh Chang's most accessible waterfall with a refreshing natural pool surrounded by jungle", "nl": "Koh Chang's meest toegankelijke waterval met een verfrissend natuurlijk zwembad omgeven door jungle" },
-      "entrance_fee": { "thb": 200, "usd": 6 },
-      "highlights": ["Natural swimming pool", "Jungle setting", "Easy trail access"]
+      "description": {
+        "en": "Koh Chang's most accessible waterfall with a refreshing natural pool surrounded by jungle",
+        "nl": "Koh Chang's meest toegankelijke waterval met een verfrissend natuurlijk zwembad omgeven door jungle"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Natural swimming pool",
+        "Jungle setting",
+        "Easy trail access"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Klong%20Plu%20Waterfall%20Trat%20Thailand"
     },
     {
-      "id": 4, "slug": "trat-night-market",
-      "name": { "en": "Trat Night Market", "nl": "Trat Nachtmarkt" },
+      "id": 4,
+      "slug": "trat-night-market",
+      "name": {
+        "en": "Trat Night Market",
+        "nl": "Trat Nachtmarkt"
+      },
       "type": "market",
       "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": { "en": "Authentic canal-side night market in Trat town serving local street food to mostly Thai customers", "nl": "Authentieke nachtmarkt aan het kanaal in Trat-stad met lokale streetfood voor voornamelijk Thaise klanten" },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Authentic local food", "Canal-side setting", "Budget-friendly"]
+      "description": {
+        "en": "Authentic canal-side night market in Trat town serving local street food to mostly Thai customers",
+        "nl": "Authentieke nachtmarkt aan het kanaal in Trat-stad met lokale streetfood voor voornamelijk Thaise klanten"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Authentic local food",
+        "Canal-side setting",
+        "Budget-friendly"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trat%20Night%20Market%20Trat%20Thailand"
     },
     {
-      "id": 5, "slug": "white-sand-beach-koh-chang",
-      "name": { "en": "White Sand Beach (Hat Sai Khao)", "nl": "White Sand Beach (Hat Sai Khao)" },
+      "id": 5,
+      "slug": "white-sand-beach-koh-chang",
+      "name": {
+        "en": "White Sand Beach (Hat Sai Khao)",
+        "nl": "White Sand Beach (Hat Sai Khao)"
+      },
       "type": "beach",
       "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": { "en": "Koh Chang's longest and most popular beach with resorts, restaurants, and a lively evening scene", "nl": "Koh Chang's langste en populairste strand met resorts, restaurants en een levendig avondleven" },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Longest beach on Koh Chang", "Beachfront dining", "Sunset views"]
+      "description": {
+        "en": "Koh Chang's longest and most popular beach with resorts, restaurants, and a lively evening scene",
+        "nl": "Koh Chang's langste en populairste strand met resorts, restaurants en een levendig avondleven"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Longest beach on Koh Chang",
+        "Beachfront dining",
+        "Sunset views"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Sand%20Beach%20(Hat%20Sai%20Khao)%20Trat%20Thailand"
     },
     {
-      "id": 6, "slug": "lonely-beach-koh-chang",
-      "name": { "en": "Lonely Beach (Hat Tha Nam)", "nl": "Lonely Beach (Hat Tha Nam)" },
+      "id": 6,
+      "slug": "lonely-beach-koh-chang",
+      "name": {
+        "en": "Lonely Beach (Hat Tha Nam)",
+        "nl": "Lonely Beach (Hat Tha Nam)"
+      },
       "type": "beach",
       "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": { "en": "Koh Chang's backpacker hub with budget accommodation, beachside bars, and a bohemian atmosphere", "nl": "Koh Chang's backpackerhub met budgetaccommodatie, strandbars en een boheemse sfeer" },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Backpacker atmosphere", "Beach bars", "Budget-friendly"]
+      "description": {
+        "en": "Koh Chang's backpacker hub with budget accommodation, beachside bars, and a bohemian atmosphere",
+        "nl": "Koh Chang's backpackerhub met budgetaccommodatie, strandbars en een boheemse sfeer"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Backpacker atmosphere",
+        "Beach bars",
+        "Budget-friendly"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lonely%20Beach%20(Hat%20Tha%20Nam)%20Trat%20Thailand"
     },
     {
-      "id": 7, "slug": "trat-mangrove-forest",
-      "name": { "en": "Trat Community Mangrove Forest", "nl": "Trat Gemeenschaps Mangrovebos" },
+      "id": 7,
+      "slug": "trat-mangrove-forest",
+      "name": {
+        "en": "Trat Community Mangrove Forest",
+        "nl": "Trat Gemeenschaps Mangrovebos"
+      },
       "type": "nature",
       "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": { "en": "Peaceful boardwalk through pristine mangrove forest near Laem Ngop with interpretive nature trail", "nl": "Vredig wandelpad door ongerept mangrovebos bij Laem Ngop met natuur-interpretatiepad" },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Boardwalk trail", "Mangrove ecosystem", "Wildlife spotting"]
+      "description": {
+        "en": "Peaceful boardwalk through pristine mangrove forest near Laem Ngop with interpretive nature trail",
+        "nl": "Vredig wandelpad door ongerept mangrovebos bij Laem Ngop met natuur-interpretatiepad"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Boardwalk trail",
+        "Mangrove ecosystem",
+        "Wildlife spotting"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trat%20Community%20Mangrove%20Forest%20Trat%20Thailand"
     },
     {
-      "id": 8, "slug": "koh-mak",
-      "name": { "en": "Koh Mak Island", "nl": "Koh Mak Eiland" },
+      "id": 8,
+      "slug": "koh-mak",
+      "name": {
+        "en": "Koh Mak Island",
+        "nl": "Koh Mak Eiland"
+      },
       "type": "nature",
       "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": { "en": "Tiny car-free island with coconut plantations, quiet beaches, and a peaceful atmosphere for digital detox", "nl": "Klein autovrij eiland met kokosplantages, rustige stranden en een vredig sfeer voor digitale detox" },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Car-free island", "Coconut plantations", "Peace and quiet"]
+      "description": {
+        "en": "Tiny car-free island with coconut plantations, quiet beaches, and a peaceful atmosphere for digital detox",
+        "nl": "Klein autovrij eiland met kokosplantages, rustige stranden en een vredig sfeer voor digitale detox"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Car-free island",
+        "Coconut plantations",
+        "Peace and quiet"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh%20Mak%20Island%20Trat%20Thailand"
     },
     {
-      "id": 9, "slug": "than-mayom-waterfall",
-      "name": { "en": "Than Mayom Waterfall", "nl": "Than Mayom Waterval" },
+      "id": 9,
+      "slug": "than-mayom-waterfall",
+      "name": {
+        "en": "Than Mayom Waterfall",
+        "nl": "Than Mayom Waterval"
+      },
       "type": "nature",
       "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": { "en": "Historic waterfall on Koh Chang where King Rama V carved his initials during royal visits in the 1870s", "nl": "Historische waterval op Koh Chang waar Koning Rama V zijn initialen kerfde tijdens koninklijke bezoeken in de jaren 1870" },
-      "entrance_fee": { "thb": 200, "usd": 6 },
-      "highlights": ["Royal inscriptions", "Historic significance", "Jungle trail"]
+      "description": {
+        "en": "Historic waterfall on Koh Chang where King Rama V carved his initials during royal visits in the 1870s",
+        "nl": "Historische waterval op Koh Chang waar Koning Rama V zijn initialen kerfde tijdens koninklijke bezoeken in de jaren 1870"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Royal inscriptions",
+        "Historic significance",
+        "Jungle trail"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Than%20Mayom%20Waterfall%20Trat%20Thailand"
     },
     {
-      "id": 10, "slug": "trat-old-town",
-      "name": { "en": "Trat Old Town", "nl": "Trat Oude Stad" },
+      "id": 10,
+      "slug": "trat-old-town",
+      "name": {
+        "en": "Trat Old Town",
+        "nl": "Trat Oude Stad"
+      },
       "type": "cultural",
       "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": { "en": "Charming quarter of century-old wooden shophouses with small cafes, guesthouses, and gem trading shops", "nl": "Charmante wijk van eeuwenoude houten winkelpanden met kleine cafes, pensions en edelsteenwinkels" },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Wooden shophouses", "Gem trading", "Small-town charm"]
+      "description": {
+        "en": "Charming quarter of century-old wooden shophouses with small cafes, guesthouses, and gem trading shops",
+        "nl": "Charmante wijk van eeuwenoude houten winkelpanden met kleine cafes, pensions en edelsteenwinkels"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Wooden shophouses",
+        "Gem trading",
+        "Small-town charm"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trat%20Old%20Town%20Trat%20Thailand"
     }
   ]
 }

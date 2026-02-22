@@ -21,7 +21,12 @@
         "thb_foreigner": 200,
         "usd_foreigner": 6
       },
-      "highlights": ["Original furniture", "Hand-planted fruit gardens", "Vietnamese independence history", "Reconstructed wooden house"],
+      "highlights": [
+        "Original furniture",
+        "Hand-planted fruit gardens",
+        "Vietnamese independence history",
+        "Reconstructed wooden house"
+      ],
       "best_time": "morning",
       "duration_hours": 1.5,
       "googleMapsUrl": "https://maps.app.goo.gl/NCZ15bb4pxr76"
@@ -43,7 +48,12 @@
         "thb": 0,
         "usd": 0
       },
-      "highlights": ["Laotian mountain views", "Golden Naga statue", "Live music & festivals", "Morning fishermen with bamboo nets"],
+      "highlights": [
+        "Laotian mountain views",
+        "Golden Naga statue",
+        "Live music & festivals",
+        "Morning fishermen with bamboo nets"
+      ],
       "best_time": "late afternoon",
       "duration_hours": 2,
       "googleMapsUrl": "https://maps.app.goo.gl/SAs6hJStx8RtZ"
@@ -65,9 +75,15 @@
         "thb": 150,
         "usd": 4
       },
-      "highlights": ["Sunset over Laos", "Beer & food included", "Mekong River views", "Departs 5:30 PM daily"],
+      "highlights": [
+        "Sunset over Laos",
+        "Beer & food included",
+        "Mekong River views",
+        "Departs 5:30 PM daily"
+      ],
       "best_time": "late afternoon",
-      "duration_hours": 1.5
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mekong%20Sunset%20Boat%20Cruise%20Nakhon%20Phanom%20Thailand"
     },
     {
       "id": 4,
@@ -86,9 +102,15 @@
         "thb": 0,
         "usd": 0
       },
-      "highlights": ["Unique Lao-style architecture", "Golden pointed spires", "Mekong riverfront temples", "Symbolism of enlightenment"],
+      "highlights": [
+        "Unique Lao-style architecture",
+        "Golden pointed spires",
+        "Mekong riverfront temples",
+        "Symbolism of enlightenment"
+      ],
       "best_time": "morning",
-      "duration_hours": 1.5
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phra%20That%20Phanom%20Style%20Stupas%20Nakhon%20Phanom%20Thailand"
     },
     {
       "id": 5,
@@ -107,7 +129,12 @@
         "thb": 0,
         "usd": 0
       },
-      "highlights": ["Vietnamese pancakes & dumplings", "Rice congee with pork & banana", "Unique fusion flavors", "Authentic local breakfast culture"],
+      "highlights": [
+        "Vietnamese pancakes & dumplings",
+        "Rice congee with pork & banana",
+        "Unique fusion flavors",
+        "Authentic local breakfast culture"
+      ],
       "best_time": "morning",
       "duration_hours": 1.5,
       "googleMapsUrl": "https://maps.app.goo.gl/q3BmRPKgCP5ri"

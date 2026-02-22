@@ -21,7 +21,13 @@
         "usd": 0
       },
       "googleMapsUrl": "https://maps.app.goo.gl/kLKzoAEVtLkNc",
-      "highlights": ["Giant Naga statue", "White Big Buddha", "Panoramic Mekong views", "Free shuttle bus", "Red prayer ribbons"],
+      "highlights": [
+        "Giant Naga statue",
+        "White Big Buddha",
+        "Panoramic Mekong views",
+        "Free shuttle bus",
+        "Red prayer ribbons"
+      ],
       "best_time": "morning",
       "duration_hours": 2
     },
@@ -42,9 +48,15 @@
         "thb": 0,
         "usd": 0
       },
-      "highlights": ["Mekong River views", "Savannakhet (Laos) across the river", "Sunset watching", "Evening strolls"],
+      "highlights": [
+        "Mekong River views",
+        "Savannakhet (Laos) across the river",
+        "Sunset watching",
+        "Evening strolls"
+      ],
       "best_time": "evening",
-      "duration_hours": 1.5
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mekong%20Riverside%20Promenade%20Mukdahan%20Thailand"
     },
     {
       "id": 3,
@@ -63,9 +75,16 @@
         "thb": 20,
         "usd": 0.6
       },
-      "highlights": ["Full moon celebration", "Floating krathongs", "Family atmosphere", "Mekong riverside", "November tradition"],
+      "highlights": [
+        "Full moon celebration",
+        "Floating krathongs",
+        "Family atmosphere",
+        "Mekong riverside",
+        "November tradition"
+      ],
       "best_time": "evening",
-      "duration_hours": 3
+      "duration_hours": 3,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Loy%20Krathong%20on%20the%20Mekong%20Mukdahan%20Thailand"
     },
     {
       "id": 4,
@@ -84,9 +103,16 @@
         "thb": 0,
         "usd": 0
       },
-      "highlights": ["Craft beer tent", "Live music", "Isaan cuisine", "Mekong sunset views", "Laab and sticky rice"],
+      "highlights": [
+        "Craft beer tent",
+        "Live music",
+        "Isaan cuisine",
+        "Mekong sunset views",
+        "Laab and sticky rice"
+      ],
       "best_time": "evening",
-      "duration_hours": 2
+      "duration_hours": 2,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Riverside%20Craft%20Beer%20%26%20Dining%20Mukdahan%20Thailand"
     },
     {
       "id": 5,
@@ -106,7 +132,13 @@
         "usd": 0
       },
       "googleMapsUrl": "https://maps.app.goo.gl/dm2wzZSCB54re",
-      "highlights": ["Mekong riverside", "Garden bungalows", "Beanbags under trees", "Quiet atmosphere", "Budget-friendly"],
+      "highlights": [
+        "Mekong riverside",
+        "Garden bungalows",
+        "Beanbags under trees",
+        "Quiet atmosphere",
+        "Budget-friendly"
+      ],
       "best_time": "all day",
       "duration_hours": 0
     }

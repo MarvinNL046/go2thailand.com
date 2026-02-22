@@ -475,6 +475,18 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                               {activity.duration}
                                             </span>
                                           )}
+                                          <a
+                                            href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(activity.name + ' ' + (day.city || '') + ' Thailand')}`}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="flex items-center text-xs text-gray-500 hover:text-thailand-blue transition-colors"
+                                            title="View on Google Maps"
+                                          >
+                                            <svg className="w-3.5 h-3.5 mr-0.5" viewBox="0 0 24 24" fill="currentColor">
+                                              <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+                                            </svg>
+                                            Maps
+                                          </a>
                                         </div>
                                       </div>
                                       {activity.description && (

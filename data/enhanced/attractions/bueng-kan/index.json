@@ -20,7 +20,12 @@
         "thb": 600,
         "usd": 17
       },
-      "highlights": ["75-million-year-old formations", "Whale-shaped red sandstone", "Misty rainforest setting", "Panoramic Mekong views"],
+      "highlights": [
+        "75-million-year-old formations",
+        "Whale-shaped red sandstone",
+        "Misty rainforest setting",
+        "Panoramic Mekong views"
+      ],
       "best_time": "morning",
       "duration_hours": 3,
       "googleMapsUrl": "https://maps.app.goo.gl/b7mhSr8BRWnLz"
@@ -42,7 +47,12 @@
         "thb": 0,
         "usd": 0
       },
-      "highlights": ["Most beautiful and dangerous temple", "Wooden cliff walkways", "Panoramic summit views", "Free entry, opens 8 AM"],
+      "highlights": [
+        "Most beautiful and dangerous temple",
+        "Wooden cliff walkways",
+        "Panoramic summit views",
+        "Free entry, opens 8 AM"
+      ],
       "best_time": "morning",
       "duration_hours": 2,
       "googleMapsUrl": "https://maps.app.goo.gl/oUFiDC7LH7idx"
@@ -64,7 +74,12 @@
         "thb": 600,
         "usd": 17
       },
-      "highlights": ["Giant naga scale rock formations", "Golden stupa at summit", "Mandatory guided hike", "Incredible panoramic views"],
+      "highlights": [
+        "Giant naga scale rock formations",
+        "Golden stupa at summit",
+        "Mandatory guided hike",
+        "Incredible panoramic views"
+      ],
       "best_time": "morning",
       "duration_hours": 3,
       "googleMapsUrl": "https://maps.app.goo.gl/vtERbD8SMa468"
@@ -86,7 +101,12 @@
         "thb": 250,
         "usd": 7
       },
-      "highlights": ["Natural rock water slides", "Mini safari boat ride", "Lush forest setting", "Unique waterfall experience"],
+      "highlights": [
+        "Natural rock water slides",
+        "Mini safari boat ride",
+        "Lush forest setting",
+        "Unique waterfall experience"
+      ],
       "best_time": "morning",
       "duration_hours": 2,
       "googleMapsUrl": "https://maps.app.goo.gl/jFmmoYBKwGj5c"
@@ -108,9 +128,15 @@
         "thb": 0,
         "usd": 0
       },
-      "highlights": ["Lotus flower ponds", "Bamboo bridges", "Rice paddy landscapes", "Views to Laos"],
+      "highlights": [
+        "Lotus flower ponds",
+        "Bamboo bridges",
+        "Rice paddy landscapes",
+        "Views to Laos"
+      ],
       "best_time": "evening",
-      "duration_hours": 1.5
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bueng%20Kan%20Mekong%20Riverside%20Bueng%20Kan%20Thailand"
     }
   ]
 }

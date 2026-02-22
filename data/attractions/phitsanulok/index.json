@@ -6,92 +6,218 @@
     {
       "id": 1,
       "slug": "wat-phra-si-rattana-mahathat",
-      "name": { "en": "Wat Phra Si Rattana Mahathat (Wat Yai)", "nl": "Wat Phra Si Rattana Mahathat (Wat Yai)" },
+      "name": {
+        "en": "Wat Phra Si Rattana Mahathat (Wat Yai)",
+        "nl": "Wat Phra Si Rattana Mahathat (Wat Yai)"
+      },
       "type": "temple",
       "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": { "en": "Grand riverside temple housing the Phra Phuttha Chinnarat, widely considered Thailand's most beautiful Buddha image", "nl": "Groot riviertempel met de Phra Phuttha Chinnarat, algemeen beschouwd als het mooiste Boeddhabeeld van Thailand" },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Most beautiful Buddha image", "Riverside temple", "Active worship"]
+      "description": {
+        "en": "Grand riverside temple housing the Phra Phuttha Chinnarat, widely considered Thailand's most beautiful Buddha image",
+        "nl": "Groot riviertempel met de Phra Phuttha Chinnarat, algemeen beschouwd als het mooiste Boeddhabeeld van Thailand"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Most beautiful Buddha image",
+        "Riverside temple",
+        "Active worship"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20Si%20Rattana%20Mahathat%20(Wat%20Yai)%20Phitsanulok%20Thailand"
     },
     {
       "id": 2,
       "slug": "sergeant-major-thawee-folk-museum",
-      "name": { "en": "Sergeant Major Thawee Folk Museum", "nl": "Sergeant-Majoor Thawee Volkskundemuseum" },
+      "name": {
+        "en": "Sergeant Major Thawee Folk Museum",
+        "nl": "Sergeant-Majoor Thawee Volkskundemuseum"
+      },
       "type": "museum",
       "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": { "en": "Charming personal collection of rural Thai life artifacts assembled over decades by a retired military officer", "nl": "Charmante persoonlijke collectie van artefacten uit het Thaise plattelandsleven, verzameld door een gepensioneerd militair" },
-      "entrance_fee": { "thb": 50, "usd": 1 },
-      "highlights": ["Rural artifacts", "Personal collection", "Traditional crafts"]
+      "description": {
+        "en": "Charming personal collection of rural Thai life artifacts assembled over decades by a retired military officer",
+        "nl": "Charmante persoonlijke collectie van artefacten uit het Thaise plattelandsleven, verzameld door een gepensioneerd militair"
+      },
+      "entrance_fee": {
+        "thb": 50,
+        "usd": 1
+      },
+      "highlights": [
+        "Rural artifacts",
+        "Personal collection",
+        "Traditional crafts"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sergeant%20Major%20Thawee%20Folk%20Museum%20Phitsanulok%20Thailand"
     },
     {
       "id": 3,
       "slug": "nan-river-promenade",
-      "name": { "en": "Nan River Promenade", "nl": "Nan Rivier Promenade" },
+      "name": {
+        "en": "Nan River Promenade",
+        "nl": "Nan Rivier Promenade"
+      },
       "type": "nature",
       "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": { "en": "Scenic tree-lined riverside walkway between the bridges, popular for evening walks and dining", "nl": "Schilderachtig met bomen omzoomd wandelpad langs de rivier, populair voor avondwandelingen en dineren" },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Evening walks", "Riverside dining", "Temple reflections"]
+      "description": {
+        "en": "Scenic tree-lined riverside walkway between the bridges, popular for evening walks and dining",
+        "nl": "Schilderachtig met bomen omzoomd wandelpad langs de rivier, populair voor avondwandelingen en dineren"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Evening walks",
+        "Riverside dining",
+        "Temple reflections"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nan%20River%20Promenade%20Phitsanulok%20Thailand"
     },
     {
       "id": 4,
       "slug": "phitsanulok-night-market",
-      "name": { "en": "Phitsanulok Night Market", "nl": "Phitsanulok Nachtmarkt" },
+      "name": {
+        "en": "Phitsanulok Night Market",
+        "nl": "Phitsanulok Nachtmarkt"
+      },
       "type": "market",
       "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": { "en": "Sprawling night market on Phaya Sua Road famous for local noodle soups and central Thai street food", "nl": "Uitgestrekte nachtmarkt aan Phaya Sua Road beroemd om lokale noedelsoepen en centraal-Thaise streetfood" },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Local noodle soups", "Street food", "Authentic atmosphere"]
+      "description": {
+        "en": "Sprawling night market on Phaya Sua Road famous for local noodle soups and central Thai street food",
+        "nl": "Uitgestrekte nachtmarkt aan Phaya Sua Road beroemd om lokale noedelsoepen en centraal-Thaise streetfood"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Local noodle soups",
+        "Street food",
+        "Authentic atmosphere"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phitsanulok%20Night%20Market%20Phitsanulok%20Thailand"
     },
     {
       "id": 5,
       "slug": "flying-vegetable-restaurant",
-      "name": { "en": "Flying Vegetable Restaurant (Pak Bung Loi Fa)", "nl": "Vliegende Groente Restaurant (Pak Bung Loi Fa)" },
+      "name": {
+        "en": "Flying Vegetable Restaurant (Pak Bung Loi Fa)",
+        "nl": "Vliegende Groente Restaurant (Pak Bung Loi Fa)"
+      },
       "type": "cultural",
       "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": { "en": "Famous riverside restaurant where stir-fried morning glory is launched through the air and caught on a plate", "nl": "Beroemd rivierrestaurant waar gebakken morning glory door de lucht wordt gelanceerd en op een bord wordt gevangen" },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Flying vegetable show", "Riverside dining", "Unique experience"]
+      "description": {
+        "en": "Famous riverside restaurant where stir-fried morning glory is launched through the air and caught on a plate",
+        "nl": "Beroemd rivierrestaurant waar gebakken morning glory door de lucht wordt gelanceerd en op een bord wordt gevangen"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Flying vegetable show",
+        "Riverside dining",
+        "Unique experience"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Flying%20Vegetable%20Restaurant%20(Pak%20Bung%20Loi%20Fa)%20Phitsanulok%20Thailand"
     },
     {
       "id": 6,
       "slug": "wat-nang-phaya",
-      "name": { "en": "Wat Nang Phaya", "nl": "Wat Nang Phaya" },
+      "name": {
+        "en": "Wat Nang Phaya",
+        "nl": "Wat Nang Phaya"
+      },
       "type": "temple",
       "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": { "en": "Beautiful Ayutthaya-period temple near Wat Yai with exceptional stucco relief decorations", "nl": "Prachtige Ayutthaya-periode tempel nabij Wat Yai met uitzonderlijke stucdecoraties in relief" },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Ayutthaya-period stucco", "Quiet temple", "Fine plasterwork"]
+      "description": {
+        "en": "Beautiful Ayutthaya-period temple near Wat Yai with exceptional stucco relief decorations",
+        "nl": "Prachtige Ayutthaya-periode tempel nabij Wat Yai met uitzonderlijke stucdecoraties in relief"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Ayutthaya-period stucco",
+        "Quiet temple",
+        "Fine plasterwork"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Nang%20Phaya%20Phitsanulok%20Thailand"
     },
     {
       "id": 7,
       "slug": "phu-hin-rong-kla-national-park",
-      "name": { "en": "Phu Hin Rong Kla National Park", "nl": "Phu Hin Rong Kla Nationaal Park" },
+      "name": {
+        "en": "Phu Hin Rong Kla National Park",
+        "nl": "Phu Hin Rong Kla Nationaal Park"
+      },
       "type": "nature",
       "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": { "en": "Highland national park with surreal rock formations, cool climate, and former Communist insurgent base ruins", "nl": "Hooglanden nationaal park met surrealistische rotsformaties, koel klimaat en ruines van een voormalige communistische basis" },
-      "entrance_fee": { "thb": 200, "usd": 6 },
-      "highlights": ["Mushroom rock formations", "Cool mountain climate", "Communist history"]
+      "description": {
+        "en": "Highland national park with surreal rock formations, cool climate, and former Communist insurgent base ruins",
+        "nl": "Hooglanden nationaal park met surrealistische rotsformaties, koel klimaat en ruines van een voormalige communistische basis"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Mushroom rock formations",
+        "Cool mountain climate",
+        "Communist history"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phu%20Hin%20Rong%20Kla%20National%20Park%20Phitsanulok%20Thailand"
     },
     {
       "id": 8,
       "slug": "buddha-casting-foundry",
-      "name": { "en": "Buddha Casting Foundry (Baan Khun Phra)", "nl": "Boeddha Gieterij (Baan Khun Phra)" },
+      "name": {
+        "en": "Buddha Casting Foundry (Baan Khun Phra)",
+        "nl": "Boeddha Gieterij (Baan Khun Phra)"
+      },
       "type": "cultural",
       "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": { "en": "Traditional bronze-casting workshop near Wat Yai where artisans create Buddha images using ancient lost-wax techniques", "nl": "Traditionele bronsgieterijwerkplaats bij Wat Yai waar ambachtslieden Boeddhabeelden maken met oude verloren-was-technieken" },
-      "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Lost-wax casting", "Traditional craft", "Working artisans"]
+      "description": {
+        "en": "Traditional bronze-casting workshop near Wat Yai where artisans create Buddha images using ancient lost-wax techniques",
+        "nl": "Traditionele bronsgieterijwerkplaats bij Wat Yai waar ambachtslieden Boeddhabeelden maken met oude verloren-was-technieken"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Lost-wax casting",
+        "Traditional craft",
+        "Working artisans"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Buddha%20Casting%20Foundry%20(Baan%20Khun%20Phra)%20Phitsanulok%20Thailand"
     },
     {
       "id": 9,
       "slug": "thung-salaeng-luang-national-park",
-      "name": { "en": "Thung Salaeng Luang National Park", "nl": "Thung Salaeng Luang Nationaal Park" },
+      "name": {
+        "en": "Thung Salaeng Luang National Park",
+        "nl": "Thung Salaeng Luang Nationaal Park"
+      },
       "type": "nature",
       "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": { "en": "Vast savanna grassland national park southeast of the city with pine forests, waterfalls, and wild elephants", "nl": "Uitgestrekt nationaal park met savannegrasland ten zuidoosten van de stad met dennenbossen, watervallen en wilde olifanten" },
-      "entrance_fee": { "thb": 200, "usd": 6 },
-      "highlights": ["Savanna grasslands", "Wild elephants", "Pine forests"]
+      "description": {
+        "en": "Vast savanna grassland national park southeast of the city with pine forests, waterfalls, and wild elephants",
+        "nl": "Uitgestrekt nationaal park met savannegrasland ten zuidoosten van de stad met dennenbossen, watervallen en wilde olifanten"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Savanna grasslands",
+        "Wild elephants",
+        "Pine forests"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thung%20Salaeng%20Luang%20National%20Park%20Phitsanulok%20Thailand"
     }
   ]
 }

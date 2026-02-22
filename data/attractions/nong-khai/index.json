@@ -20,9 +20,15 @@
         "thb": 100,
         "usd": 3
       },
-      "highlights": ["Guided cave exploration", "Buddhist shrines", "Stalactite formations", "Adventure experience"],
+      "highlights": [
+        "Guided cave exploration",
+        "Buddhist shrines",
+        "Stalactite formations",
+        "Adventure experience"
+      ],
       "best_time": "morning",
-      "duration_hours": 1.5
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Den%20Ping%20Cave%20Nong%20Khai%20Thailand"
     },
     {
       "id": 2,
@@ -41,9 +47,15 @@
         "thb": 0,
         "usd": 0
       },
-      "highlights": ["Panoramic Mekong views", "Cliff-edge temples", "Views into Laos", "Photography spot"],
+      "highlights": [
+        "Panoramic Mekong views",
+        "Cliff-edge temples",
+        "Views into Laos",
+        "Photography spot"
+      ],
       "best_time": "morning",
-      "duration_hours": 1.5
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cliff%20Temple%20Viewpoint%20Nong%20Khai%20Thailand"
     },
     {
       "id": 3,
@@ -62,9 +74,15 @@
         "thb": 0,
         "usd": 0
       },
-      "highlights": ["20-meter reclining Buddha", "Italian white marble", "Free entry", "Impressive craftsmanship"],
+      "highlights": [
+        "20-meter reclining Buddha",
+        "Italian white marble",
+        "Free entry",
+        "Impressive craftsmanship"
+      ],
       "best_time": "morning",
-      "duration_hours": 1
+      "duration_hours": 1,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Marble%20Reclining%20Buddha%20Temple%20Nong%20Khai%20Thailand"
     },
     {
       "id": 4,
@@ -83,9 +101,15 @@
         "thb": 0,
         "usd": 0
       },
-      "highlights": ["Thailand-Laos crossing", "Mekong River views", "International border", "Historic bridge"],
+      "highlights": [
+        "Thailand-Laos crossing",
+        "Mekong River views",
+        "International border",
+        "Historic bridge"
+      ],
       "best_time": "afternoon",
-      "duration_hours": 0.5
+      "duration_hours": 0.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Friendship%20Bridge%20Viewpoint%20Nong%20Khai%20Thailand"
     },
     {
       "id": 5,
@@ -104,9 +128,15 @@
         "thb": 0,
         "usd": 0
       },
-      "highlights": ["Sunset views", "Walking and cycling", "River views to Laos", "Local atmosphere"],
+      "highlights": [
+        "Sunset views",
+        "Walking and cycling",
+        "River views to Laos",
+        "Local atmosphere"
+      ],
       "best_time": "evening",
-      "duration_hours": 1.5
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mekong%20Riverside%20Promenade%20Nong%20Khai%20Thailand"
     }
   ]
 }

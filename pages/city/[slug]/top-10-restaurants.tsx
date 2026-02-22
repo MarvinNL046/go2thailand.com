@@ -248,9 +248,23 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
                                   {restaurant.current_price}
                                 </div>
                               )}
-                              <div className="text-gray-600 mb-2">
-                                {restaurant.location}
-                              </div>
+                              {restaurant.location && (
+                                <div className="text-gray-600 mb-2">
+                                  {restaurant.location}
+                                </div>
+                              )}
+                              <a
+                                href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.name + ' ' + city.name.en + ' Thailand')}`}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="inline-flex items-center text-sm text-gray-500 hover:text-thailand-blue transition-colors"
+                                title="View on Google Maps"
+                              >
+                                <svg className="w-4 h-4 mr-1" viewBox="0 0 24 24" fill="currentColor">
+                                  <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+                                </svg>
+                                View on Google Maps
+                              </a>
                             </div>
                           </div>
 
