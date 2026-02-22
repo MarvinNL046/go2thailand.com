@@ -1,12 +1,28 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
+import Head from 'next/head';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
 import foodData from '../../../data/enhanced/food/index.json';
 import foodSpecialtiesData from '../../../data/cities/food-specialties.json';
+
+function flattenBilingual(data: any): any {
+  if (data === null || data === undefined) return data;
+  if (typeof data !== 'object') return data;
+  if (Array.isArray(data)) return data.map(item => flattenBilingual(item));
+  const keys = Object.keys(data);
+  if (keys.includes('en') && keys.every(k => k.length <= 3)) {
+    return data.en || '';
+  }
+  const result: any = {};
+  for (const key of keys) {
+    result[key] = flattenBilingual(data[key]);
+  }
+  return result;
+}
 
 interface City {
   id: number;
@@ -59,12 +75,20 @@ interface CityFoodData {
   vegetarian_friendly: boolean;
 }
 
+interface EnhancedRestaurant {
+  name: string;
+  cuisine: string;
+  priceRange: string;
+  description: string;
+}
+
 interface CityFoodPageProps {
   city: City;
   cityFoodData?: CityFoodData;
+  enhancedRestaurants: EnhancedRestaurant[];
 }
 
-export default function CityFoodPage({ city, cityFoodData }: CityFoodPageProps) {
+export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }: CityFoodPageProps) {
   if (!city) return <div>City not found</div>;
 
   const breadcrumbs = generateBreadcrumbs(city, 'food');
@@ -112,6 +136,32 @@ export default function CityFoodPage({ city, cityFoodData }: CityFoodPageProps) 
       >
         <meta name="keywords" content={metadata.keywords} />
       </SEOHead>
+
+      {/* Restaurant JSON-LD structured data */}
+      {enhancedRestaurants.length > 0 && (
+        <Head>
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(
+                enhancedRestaurants.map((restaurant) => ({
+                  '@context': 'https://schema.org',
+                  '@type': 'Restaurant',
+                  name: restaurant.name,
+                  description: restaurant.description,
+                  servesCuisine: restaurant.cuisine,
+                  priceRange: restaurant.priceRange,
+                  address: {
+                    '@type': 'PostalAddress',
+                    addressLocality: city.name.en,
+                    addressCountry: 'Thailand',
+                  },
+                }))
+              ),
+            }}
+          />
+        </Head>
+      )}
 
       <div className="bg-gray-50 min-h-screen">
         <section className="bg-white shadow-sm">
@@ -210,6 +260,43 @@ export default function CityFoodPage({ city, cityFoodData }: CityFoodPageProps) 
                       </p>
                     </div>
                   )}
+                </div>
+              </div>
+            )}
+
+            {/* Best Restaurants Section - from enhanced/scraped data */}
+            {enhancedRestaurants.length > 0 && (
+              <div className="mb-12">
+                <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+                  Best Restaurants in {city.name.en}
+                </h2>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                  {enhancedRestaurants.map((restaurant, index) => (
+                    <div key={index} className="bg-white rounded-lg shadow-lg p-6 flex flex-col">
+                      <div className="flex items-start justify-between mb-3">
+                        <h3 className="text-xl font-bold text-gray-900">{restaurant.name}</h3>
+                        <span className={`ml-3 flex-shrink-0 inline-block px-3 py-1 rounded-full text-sm font-semibold ${
+                          restaurant.priceRange === '$' ? 'bg-green-100 text-green-800' :
+                          restaurant.priceRange === '$$' ? 'bg-yellow-100 text-yellow-800' :
+                          restaurant.priceRange === '$$$' ? 'bg-orange-100 text-orange-800' :
+                          'bg-red-100 text-red-800'
+                        }`}>
+                          {restaurant.priceRange}
+                        </span>
+                      </div>
+                      <div className="mb-3">
+                        <span className="inline-flex items-center text-sm text-gray-500">
+                          <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                          </svg>
+                          {restaurant.cuisine}
+                        </span>
+                      </div>
+                      <p className="text-gray-600 text-sm leading-relaxed flex-grow">
+                        {restaurant.description}
+                      </p>
+                    </div>
+                  ))}
                 </div>
               </div>
             )}
@@ -412,9 +499,20 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const slug = params?.slug as string;
   const city = getCityBySlug(slug);
   if (!city) return { notFound: true };
-  
+
   // Get city-specific food data
   const cityFoodData = (foodSpecialtiesData as Record<string, CityFoodData>)[slug] || null;
-  
-  return { props: { city, cityFoodData }, revalidate: 86400 };
+
+  // Load enhanced data for scraped restaurants
+  let enhancedRestaurants: any[] = [];
+  try {
+    const enhancedData = require(`../../../data/enhanced/${slug}.json`);
+    if (enhancedData.whereToEat && Array.isArray(enhancedData.whereToEat)) {
+      enhancedRestaurants = flattenBilingual(enhancedData.whereToEat);
+    }
+  } catch (e) {
+    // No enhanced data available
+  }
+
+  return { props: { city, cityFoodData, enhancedRestaurants }, revalidate: 86400 };
 };

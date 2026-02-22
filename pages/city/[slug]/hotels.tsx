@@ -33,14 +33,61 @@ interface CityHotelData {
   peak_season: string;
 }
 
+interface EnhancedHotel {
+  name: string;
+  category: string;
+  priceRange: string;
+  area: string;
+  description: string;
+}
+
 interface CityHotelsPageProps {
   city: City;
   hotelData: CityHotelData | null;
   hasTop10Hotels: boolean;
+  enhancedHotels: EnhancedHotel[];
 }
 
-export default function CityHotelsPage({ city, hotelData, hasTop10Hotels }: CityHotelsPageProps) {
+function flattenBilingual(data: any): any {
+  if (data === null || data === undefined) return data;
+  if (typeof data !== 'object') return data;
+  if (Array.isArray(data)) return data.map(item => flattenBilingual(item));
+  const keys = Object.keys(data);
+  if (keys.includes('en') && keys.every(k => k.length <= 3)) {
+    return data.en || '';
+  }
+  const result: any = {};
+  for (const key of keys) {
+    result[key] = flattenBilingual(data[key]);
+  }
+  return result;
+}
+
+const categoryOrder = ['budget', 'midrange', 'luxury'] as const;
+const categoryLabels: Record<string, string> = {
+  budget: 'Budget',
+  midrange: 'Mid-Range',
+  luxury: 'Luxury',
+};
+const categoryColors: Record<string, string> = {
+  budget: 'bg-green-100 text-green-800',
+  midrange: 'bg-blue-100 text-blue-800',
+  luxury: 'bg-purple-100 text-purple-800',
+};
+
+export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhancedHotels }: CityHotelsPageProps) {
   if (!city) return <div>City not found</div>;
+
+  // Flatten any bilingual objects in enhanced hotels
+  const hotels: EnhancedHotel[] = (enhancedHotels || []).map((h: any) => flattenBilingual(h));
+
+  // Group enhanced hotels by category
+  const hotelsByCategory: Record<string, EnhancedHotel[]> = {};
+  for (const hotel of hotels) {
+    const cat = hotel.category || 'midrange';
+    if (!hotelsByCategory[cat]) hotelsByCategory[cat] = [];
+    hotelsByCategory[cat].push(hotel);
+  }
 
   const breadcrumbs = generateBreadcrumbs(city, 'hotels');
   const baseMetadata = generateCityMetadata(city, 'hotels');
@@ -59,6 +106,28 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels }: City
         description={metadata.description}
       >
         <meta name="keywords" content={metadata.keywords} />
+        {hotels.length > 0 && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(
+                hotels.map((hotel) => ({
+                  '@context': 'https://schema.org',
+                  '@type': 'LodgingBusiness',
+                  name: hotel.name,
+                  description: hotel.description,
+                  priceRange: hotel.priceRange,
+                  address: {
+                    '@type': 'PostalAddress',
+                    addressLocality: city.name.en,
+                    addressRegion: hotel.area,
+                    addressCountry: 'Thailand',
+                  },
+                }))
+              ),
+            }}
+          />
+        )}
       </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
@@ -150,6 +219,60 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels }: City
                     </div>
                   </div>
                 </div>
+
+                {/* Recommended Hotels from Enhanced Data */}
+                {hotels.length > 0 && (
+                  <div>
+                    <h2 className="text-3xl font-bold text-gray-900 mb-8">Recommended Hotels in {city.name.en}</h2>
+                    {categoryOrder.map((cat) => {
+                      const catHotels = hotelsByCategory[cat];
+                      if (!catHotels || catHotels.length === 0) return null;
+                      return (
+                        <div key={cat} className="mb-8">
+                          <h3 className="text-2xl font-semibold text-gray-800 mb-4">{categoryLabels[cat] || cat} Hotels</h3>
+                          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                            {catHotels.map((hotel, idx) => (
+                              <a
+                                key={idx}
+                                href="https://trip.tpo.lv/TmObooZ5"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow block"
+                              >
+                                <div className="flex items-start justify-between mb-3">
+                                  <h3 className="text-lg font-bold text-gray-900 flex-1 mr-2">{hotel.name}</h3>
+                                  <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium whitespace-nowrap ${categoryColors[hotel.category] || 'bg-gray-100 text-gray-800'}`}>
+                                    {categoryLabels[hotel.category] || hotel.category}
+                                  </span>
+                                </div>
+                                <div className="flex items-center text-sm text-gray-500 mb-2">
+                                  <svg className="w-4 h-4 mr-1 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                                  </svg>
+                                  {hotel.area}
+                                </div>
+                                <div className="flex items-center text-sm font-semibold text-thailand-blue mb-3">
+                                  <svg className="w-4 h-4 mr-1 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                  </svg>
+                                  {hotel.priceRange}
+                                </div>
+                                <p className="text-gray-600 text-sm">{hotel.description}</p>
+                                <div className="mt-4 text-blue-600 text-sm font-medium flex items-center">
+                                  Check availability
+                                  <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
+                                  </svg>
+                                </div>
+                              </a>
+                            ))}
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+                )}
 
                 {/* Booking Tips */}
                 <div>
@@ -286,9 +409,24 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   // Get hotel data for the city
   const hotelData = (hotelAreasData as Record<string, CityHotelData>)[slug] || null;
   
+  // Load enhanced data for scraped hotels
+  let enhancedHotels: any[] = [];
+  try {
+    const enhancedDataPath = path.join(process.cwd(), 'data', 'enhanced', `${slug}.json`);
+    if (fs.existsSync(enhancedDataPath)) {
+      const enhancedRaw = fs.readFileSync(enhancedDataPath, 'utf-8');
+      const enhancedData = JSON.parse(enhancedRaw);
+      if (enhancedData.topHotels && Array.isArray(enhancedData.topHotels)) {
+        enhancedHotels = enhancedData.topHotels;
+      }
+    }
+  } catch (e) {
+    // No enhanced data available
+  }
+
   // Check if top-10 hotels file exists
   const top10HotelsPath = path.join(process.cwd(), 'data', 'top10', `${slug}-hotels.json`);
   const hasTop10Hotels = fs.existsSync(top10HotelsPath);
-  
-  return { props: { city, hotelData, hasTop10Hotels }, revalidate: 86400 };
+
+  return { props: { city, hotelData, hasTop10Hotels, enhancedHotels }, revalidate: 86400 };
 };

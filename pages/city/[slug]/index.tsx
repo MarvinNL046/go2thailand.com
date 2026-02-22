@@ -1139,7 +1139,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                   <h2 className="text-3xl font-bold text-gray-900 mb-6">
                     Explore {city.name.en}
                   </h2>
-                  <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                  <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-6">
                     {/* Food */}
                     <Link href={`/city/${city.slug}/food/`}>
                       <div className="card hover:shadow-xl transition-shadow duration-300 cursor-pointer">
@@ -1196,6 +1196,46 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                           </p>
                           <span className="text-thailand-blue font-medium">
                             See Attractions →
+                          </span>
+                        </div>
+                      </div>
+                    </Link>
+
+                    {/* Best Time to Visit */}
+                    <Link href={`/city/${city.slug}/best-time-to-visit/`}>
+                      <div className="card hover:shadow-xl transition-shadow duration-300 cursor-pointer">
+                        <div className="text-center">
+                          <div className="w-16 h-16 bg-thailand-blue rounded-full flex items-center justify-center mx-auto mb-4">
+                            <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                            </svg>
+                          </div>
+                          <h3 className="text-xl font-bold text-gray-900 mb-2">Best Time to Visit</h3>
+                          <p className="text-gray-600 text-sm mb-4">
+                            Weather, seasons & festivals
+                          </p>
+                          <span className="text-thailand-blue font-medium">
+                            View Guide →
+                          </span>
+                        </div>
+                      </div>
+                    </Link>
+
+                    {/* Budget */}
+                    <Link href={`/city/${city.slug}/budget/`}>
+                      <div className="card hover:shadow-xl transition-shadow duration-300 cursor-pointer">
+                        <div className="text-center">
+                          <div className="w-16 h-16 bg-thailand-blue rounded-full flex items-center justify-center mx-auto mb-4">
+                            <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                            </svg>
+                          </div>
+                          <h3 className="text-xl font-bold text-gray-900 mb-2">Budget Guide</h3>
+                          <p className="text-gray-600 text-sm mb-4">
+                            Daily costs & money tips
+                          </p>
+                          <span className="text-thailand-blue font-medium">
+                            See Costs →
                           </span>
                         </div>
                       </div>
