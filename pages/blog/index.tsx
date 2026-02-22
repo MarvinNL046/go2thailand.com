@@ -43,7 +43,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
     return matchesCategory && matchesSearch;
   });
 
-  const featuredPost = posts.find(post => post.featured) || posts[0];
+  const featuredPost = posts[0];
 
   const jsonLd = {
     "@context": "https://schema.org",
