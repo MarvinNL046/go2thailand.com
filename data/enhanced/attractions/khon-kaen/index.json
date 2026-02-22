@@ -1,0 +1,214 @@
+{
+  "city_slug": "khon-kaen",
+  "city_name": "Khon Kaen",
+  "total_attractions": 9,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "phu-wiang-dinosaur-museum",
+      "name": {
+        "en": "Phu Wiang Dinosaur Museum",
+        "nl": "Phu Wiang Dinosaurusmuseum"
+      },
+      "type": "museum",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "World-class dinosaur museum featuring Siamotyrannus fossils and life-size replicas in a forested park setting",
+        "nl": "Wereldklasse dinosaurusmuseum met Siamotyrannus-fossielen en levensgroot replica's in een bosachtige parkomgeving"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Siamotyrannus fossils",
+        "Life-size replicas",
+        "Interactive exhibits"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "bueng-kaen-nakhon-lake",
+      "name": {
+        "en": "Bueng Kaen Nakhon Lake",
+        "nl": "Bueng Kaen Nakhon Meer"
+      },
+      "type": "park",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Beautiful lakeside park in the heart of the city with 8 km walking path, jogging trails, and lakeside food stalls",
+        "nl": "Prachtig park aan het meer in het hart van de stad met 8 km wandelpad, jogpaden en etensstalletjes aan het meer"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "8 km walking path",
+        "Sunset views",
+        "Lakeside food stalls"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "wat-nong-wang",
+      "name": {
+        "en": "Wat Nong Wang (Phra Mahathat Kaen Nakhon)",
+        "nl": "Wat Nong Wang (Phra Mahathat Kaen Nakhon)"
+      },
+      "type": "temple",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Nine-story golden temple rising from Bueng Kaen Nakhon Lake with panoramic city views from the top floor",
+        "nl": "Negen verdiepingen hoge gouden tempel die oprijst uit Bueng Kaen Nakhon meer met panoramisch stadszicht vanaf de bovenste verdieping"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Nine-story structure",
+        "Panoramic city views",
+        "Lakeside location"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "chonnabot-silk-village",
+      "name": {
+        "en": "Chonnabot Silk Weaving Village",
+        "nl": "Chonnabot Zijdeweef-dorp"
+      },
+      "type": "cultural",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Traditional silk weaving village 50 km south of the city where artisans create intricate mudmee silk on wooden looms",
+        "nl": "Traditioneel zijdeweef-dorp 50 km ten zuiden van de stad waar ambachtslieden ingewikkelde mudmee-zijde weven op houten weefgetouwen"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Mudmee silk weaving",
+        "Buy direct from weavers",
+        "Traditional techniques"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "khon-kaen-night-market",
+      "name": {
+        "en": "Khon Kaen Night Market (Fairy Plaza)",
+        "nl": "Khon Kaen Nachtmarkt (Fairy Plaza)"
+      },
+      "type": "market",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Massive night market behind Fairy Plaza on Klang Muang Road with authentic Isaan street food and local atmosphere",
+        "nl": "Enorme nachtmarkt achter Fairy Plaza op Klang Muang Road met authentieke Isaan-streetfood en lokale sfeer"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Authentic Isaan food",
+        "Local atmosphere",
+        "Nightly market"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "ton-tann-green-market",
+      "name": {
+        "en": "Ton Tann Green Market",
+        "nl": "Ton Tann Green Market"
+      },
+      "type": "market",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Modern outdoor night bazaar popular with university students offering trendy street food, live music, and vintage clothing",
+        "nl": "Moderne openlucht nachtbazaar populair bij universiteitsstudenten met trendy streetfood, live muziek en vintage kleding"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Trendy food stalls",
+        "Live music",
+        "University atmosphere"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "khon-kaen-national-museum",
+      "name": {
+        "en": "Khon Kaen National Museum",
+        "nl": "Khon Kaen Nationaal Museum"
+      },
+      "type": "museum",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Regional museum showcasing Isaan history, Dvaravati art, Ban Chiang-era artifacts, and northeastern Thai cultural heritage",
+        "nl": "Regionaal museum dat Isaan-geschiedenis, Dvaravati-kunst, Ban Chiang-tijdperk artefacten en Noordoost-Thais cultureel erfgoed toont"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Dvaravati art",
+        "Isaan history",
+        "Regional artifacts"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "phra-that-kham-kaen",
+      "name": {
+        "en": "Phra That Kham Kaen",
+        "nl": "Phra That Kham Kaen"
+      },
+      "type": "temple",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Ancient Lao-style chedi believed to contain Buddha relics, an important pilgrimage site for the people of Isaan",
+        "nl": "Oude Laotiaanse-stijl chedi waarvan wordt geloofd dat deze Boeddha-relikwieen bevat, een belangrijke bedevaartplaats voor de bevolking van Isaan"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Ancient chedi",
+        "Buddha relics",
+        "Pilgrimage site"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "nam-phong-national-park",
+      "name": {
+        "en": "Nam Phong National Park",
+        "nl": "Nam Phong Nationaal Park"
+      },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Quiet national park 50 km north with scenic reservoir views, hiking trails, and Tat Fa waterfall",
+        "nl": "Rustig nationaal park 50 km ten noorden met schilderachtig stuwmeeruitzicht, wandelpaden en Tat Fa-waterval"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Reservoir views",
+        "Tat Fa waterfall",
+        "Hiking trails"
+      ]
+    }
+  ]
+}

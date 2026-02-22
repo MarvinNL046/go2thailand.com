@@ -1,0 +1,237 @@
+{
+  "city_slug": "hua-hin",
+  "city_name": "Hua Hin",
+  "total_attractions": 10,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "hua-hin-beach",
+      "name": {
+        "en": "Hua Hin Beach",
+        "nl": "Hua Hin Strand"
+      },
+      "type": "beach",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Hua Hin's main beach stretching several kilometers with white sand, horse rides, and beachfront dining",
+        "nl": "Hua Hin's hoofdstrand dat zich kilometers uitstrekt met wit zand, paardritten en dineren aan het strand"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Long sandy beach",
+        "Horse riding",
+        "Beachfront restaurants"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "cicada-market",
+      "name": {
+        "en": "Cicada Market",
+        "nl": "Cicada Markt"
+      },
+      "type": "market",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Weekend art and creative market with handmade goods, live music, and artisan food stalls",
+        "nl": "Weekend kunst- en creatieve markt met handgemaakte producten, livemuziek en ambachtelijke eetkramen"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Local art",
+        "Live music",
+        "Artisan food"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "maruekhathaiyawan-palace",
+      "name": {
+        "en": "Maruekhathaiyawan Palace",
+        "nl": "Maruekhathaiyawan Paleis"
+      },
+      "type": "palace",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Exquisite teak summer palace of King Rama VI, elevated on stilts amid a coastal casuarina grove",
+        "nl": "Prachtig teakhouten zomerpaleis van Koning Rama VI, verhoogd op palen in een kustbos van casuarina's"
+      },
+      "entrance_fee": {
+        "thb": 30,
+        "usd": 1
+      },
+      "highlights": [
+        "Royal teak palace",
+        "Beachfront location",
+        "Historical architecture"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "khao-takiab",
+      "name": {
+        "en": "Khao Takiab (Chopstick Hill)",
+        "nl": "Khao Takiab (Eetstokjesheuvel)"
+      },
+      "type": "nature",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Rocky headland with hilltop temple, resident monkeys, and panoramic views of Hua Hin coastline",
+        "nl": "Rotsachtige kaap met heuveltempel, makaken en panoramisch uitzicht op de kustlijn van Hua Hin"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Panoramic views",
+        "Hilltop temple",
+        "Monkey colony"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "hua-hin-night-market",
+      "name": {
+        "en": "Hua Hin Night Market",
+        "nl": "Hua Hin Nachtmarkt"
+      },
+      "type": "market",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Bustling nightly market on Dechanuchit Road famous for fresh seafood, Thai street food, and souvenir shopping",
+        "nl": "Bruisende nachtmarkt op Dechanuchit Road beroemd om verse zeevruchten, Thaise streetfood en souvenirs"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Fresh seafood",
+        "Street food",
+        "Souvenir shopping"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "hua-hin-railway-station",
+      "name": {
+        "en": "Hua Hin Railway Station",
+        "nl": "Hua Hin Treinstation"
+      },
+      "type": "cultural",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "One of Thailand's most beautiful train stations with vintage red-and-cream wooden Royal Waiting Room",
+        "nl": "Een van Thailands mooiste treinstations met een vintage rood-en-creme houten Koninklijke Wachtkamer"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Royal Waiting Room",
+        "Vintage architecture",
+        "Photo opportunity"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "khao-sam-roi-yot",
+      "name": {
+        "en": "Khao Sam Roi Yot National Park",
+        "nl": "Khao Sam Roi Yot Nationaal Park"
+      },
+      "type": "nature",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Coastal national park with the famous Phraya Nakhon Cave, mangroves, and limestone peaks",
+        "nl": "Kust nationaal park met de beroemde Phraya Nakhon-grot, mangroven en kalksteenpieken"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Phraya Nakhon Cave",
+        "Limestone peaks",
+        "Mangrove forests"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "plearn-wan",
+      "name": {
+        "en": "Plearn Wan Vintage Village",
+        "nl": "Plearn Wan Vintage Dorp"
+      },
+      "type": "shopping",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Retro-themed vintage village recreating 1950s-60s Thailand with nostalgic shops, candy stalls, and games",
+        "nl": "Retro-thema vintage dorp dat het Thailand van de jaren 50-60 nabootst met nostalgische winkels, snoepkramen en spelletjes"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "1950s nostalgia",
+        "Vintage shops",
+        "Thai candy stalls"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "black-mountain-water-park",
+      "name": {
+        "en": "Black Mountain Water Park",
+        "nl": "Black Mountain Waterpark"
+      },
+      "type": "attraction",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Popular water park with slides, wave pool, and lazy river set against a mountain backdrop",
+        "nl": "Populair waterpark met glijbanen, golfzwembad en luie rivier tegen een bergachtergrond"
+      },
+      "entrance_fee": {
+        "thb": 600,
+        "usd": 17
+      },
+      "highlights": [
+        "Water slides",
+        "Wave pool",
+        "Mountain views"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "hua-hin-fishing-pier",
+      "name": {
+        "en": "Hua Hin Fishing Pier",
+        "nl": "Hua Hin Vissteiger"
+      },
+      "type": "cultural",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Historic wooden fishing pier in the center of town, a scenic landmark and popular spot for sunset photos",
+        "nl": "Historische houten vissteiger in het centrum van de stad, een schilderachtig herkenningspunt en populaire plek voor zonsondergangfoto's"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Sunset views",
+        "Fishing boats",
+        "Historic landmark"
+      ]
+    }
+  ]
+}

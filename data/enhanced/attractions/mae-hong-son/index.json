@@ -1,0 +1,214 @@
+{
+  "city_slug": "mae-hong-son",
+  "city_name": "Mae Hong Son",
+  "total_attractions": 9,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "tham-lod-cave",
+      "name": {
+        "en": "Tham Lod Cave",
+        "nl": "Tham Lod Grot"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "One of Thailand's most impressive cave systems with underground river, bamboo raft exploration, and spectacular swift colony at dusk",
+        "nl": "Een van de meest indrukwekkende grottenstelsels van Thailand met ondergrondse rivier, bamboe-vlotervaringen en spectaculaire gierzwaluwenkolonie bij schemering"
+      },
+      "entrance_fee": {
+        "thb": 250,
+        "usd": 7
+      },
+      "highlights": [
+        "Underground river rafting",
+        "Ancient stalactites",
+        "Swift colony at dusk"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "pang-ung",
+      "name": {
+        "en": "Pang Ung (Pang Tong Royal Project)",
+        "nl": "Pang Ung (Pang Tong Koninklijk Project)"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Stunning mountain reservoir surrounded by pine forests nicknamed Thailand's Switzerland, with camping and raft house accommodation",
+        "nl": "Prachtig bergstuwmeer omringd door dennenbossen, bijgenaamd Thailand's Zwitserland, met kampeer- en vlothuisaccommodatie"
+      },
+      "entrance_fee": {
+        "thb": 30,
+        "usd": 1
+      },
+      "highlights": [
+        "Pine-lined reservoir",
+        "Morning mist",
+        "Raft house camping"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "su-tong-pae-bridge",
+      "name": {
+        "en": "Su Tong Pae Bridge",
+        "nl": "Su Tong Pae Brug"
+      },
+      "type": "cultural",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "A 500-meter bamboo bridge stretching across rice fields to a small monastery, particularly beautiful at sunrise with monks crossing",
+        "nl": "Een 500 meter lange bamboebrug over rijstvelden naar een klein klooster, bijzonder mooi bij zonsopgang met overstekende monniken"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Sunrise with monks",
+        "Rice field views",
+        "Photography spot"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "wat-jong-kham-and-jong-klang",
+      "name": {
+        "en": "Wat Jong Kham & Wat Jong Klang",
+        "nl": "Wat Jong Kham & Wat Jong Klang"
+      },
+      "type": "temple",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Twin Burmese-style temples reflected in Jong Kham Lake, iconic symbols of Mae Hong Son especially beautiful in morning mist",
+        "nl": "Twee Burmese tempels weerspiegeld in Jong Kham Lake, iconische symbolen van Mae Hong Son, bijzonder mooi in de ochtendmist"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Lake reflections",
+        "Burmese architecture",
+        "Morning mist views"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "tham-pla-fish-cave",
+      "name": {
+        "en": "Tham Pla (Fish Cave)",
+        "nl": "Tham Pla (Vissengrot)"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Mysterious cave spring pool teeming with thousands of sacred giant soro brook carp in a lush forest park",
+        "nl": "Mysterieuze grotbron vol met duizenden heilige reusachtige soro-beekkarpers in een weelderig bospark"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Sacred fish pool",
+        "Forest park trails",
+        "Nature boardwalks"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "ban-rak-thai",
+      "name": {
+        "en": "Ban Rak Thai (Mae Aw)",
+        "nl": "Ban Rak Thai (Mae Aw)"
+      },
+      "type": "cultural",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Chinese Kuomintang settlement on the Myanmar border with tea plantations, oolong tea houses, and a serene reservoir",
+        "nl": "Chinese Kuomintang-nederzetting aan de grens met Myanmar met theeplantages, oolong theehuizen en een sereen stuwmeer"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Yunnan oolong tea",
+        "Myanmar border views",
+        "Tea plantations"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "pha-sua-waterfall",
+      "name": {
+        "en": "Pha Sua Waterfall",
+        "nl": "Pha Sua Waterval"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Powerful multi-tiered waterfall hidden in forest 26 km north of town, most spectacular during the rainy season",
+        "nl": "Krachtige waterval met meerdere niveaus verborgen in het bos op 26 km ten noorden van het stadje, het meest spectaculair tijdens het regenseizoen"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Multi-tiered cascades",
+        "Forest hiking",
+        "Rainy season spectacle"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "wat-phra-that-doi-kong-mu",
+      "name": {
+        "en": "Wat Phra That Doi Kong Mu",
+        "nl": "Wat Phra That Doi Kong Mu"
+      },
+      "type": "temple",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Hilltop Shan-style temple overlooking Mae Hong Son with panoramic views of the valley and twin white chedis visible from the entire town",
+        "nl": "Shan-stijl tempel op de heuveltop met uitzicht over Mae Hong Son met panoramisch uitzicht over de vallei en twee witte chedi's zichtbaar vanuit het hele stadje"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Valley panorama",
+        "Shan architecture",
+        "Twin white chedis"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "mae-hong-son-morning-market",
+      "name": {
+        "en": "Mae Hong Son Morning Market",
+        "nl": "Mae Hong Son Ochtendmarkt"
+      },
+      "type": "market",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Authentic early morning market on Phanit Wattana Road where Shan and Karen vendors sell Burmese curries, fresh produce, and traditional medicines from 5 AM",
+        "nl": "Authentieke vroege ochtendmarkt op Phanit Wattana Road waar Shan- en Karen-verkopers Burmese curry's, verse producten en traditionele medicijnen verkopen vanaf 5 uur 's ochtends"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Shan and Karen vendors",
+        "Burmese curries",
+        "Traditional medicines"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "city_slug": "udon-thani",
+  "city_name": "Udon Thani",
+  "total_attractions": 9,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "ban-chiang-archaeological-site",
+      "name": {
+        "en": "Ban Chiang Archaeological Site (UNESCO)",
+        "nl": "Ban Chiang Archeologische Vindplaats (UNESCO)"
+      },
+      "type": "museum",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "UNESCO World Heritage Site with 5,000-year-old bronze-age pottery and artifacts, one of the earliest civilizations in Southeast Asia",
+        "nl": "UNESCO Werelderfgoed met 5.000 jaar oud bronstijdaardewerk en artefacten, een van de vroegste beschavingen in Zuidoost-Azie"
+      },
+      "entrance_fee": {
+        "thb": 150,
+        "usd": 4
+      },
+      "highlights": [
+        "UNESCO World Heritage",
+        "5,000-year-old pottery",
+        "Bronze-age artifacts"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "red-lotus-sea",
+      "name": {
+        "en": "Red Lotus Sea (Talay Bua Daeng)",
+        "nl": "Rode Lotuszee (Talay Bua Daeng)"
+      },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Spectacular lake covered with millions of pink and red lotus flowers blooming from December to February",
+        "nl": "Spectaculair meer bedekt met miljoenen roze en rode lotusbloemen die bloeien van december tot februari"
+      },
+      "entrance_fee": {
+        "thb": 500,
+        "usd": 14
+      },
+      "highlights": [
+        "Millions of lotus flowers",
+        "December-February bloom",
+        "Longtail boat tours"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "nong-prajak-park",
+      "name": {
+        "en": "Nong Prajak Park",
+        "nl": "Nong Prajak Park"
+      },
+      "type": "park",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Beautiful city lake park with illuminated fountains, food stalls, jogging paths, and weekend live music performances",
+        "nl": "Prachtig stadsmeerpark met verlichte fonteinen, etensstalletjes, jogpaden en weekend live muziekoptredens"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Illuminated fountains",
+        "Lakeside food stalls",
+        "Weekend live music"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "phu-phrabat-historical-park",
+      "name": {
+        "en": "Phu Phrabat Historical Park",
+        "nl": "Phu Phrabat Historisch Park"
+      },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Extraordinary sandstone formations with 3,000-year-old cave paintings and Buddhist hermit shelters on the UNESCO Tentative List",
+        "nl": "Buitengewone zandsteenformaties met 3.000 jaar oude grotschilderingen en boeddhistische kluizenaarsschuilplaatsen op de UNESCO Voorlopige Lijst"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Prehistoric cave paintings",
+        "Sandstone formations",
+        "UNESCO Tentative List"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "ud-town",
+      "name": {
+        "en": "UD Town",
+        "nl": "UD Town"
+      },
+      "type": "shopping",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Modern open-air lifestyle mall with nightly food market, shops, cinema, and entertainment near the train station",
+        "nl": "Modern openlucht lifestyle winkelcentrum met avondlijke voedselmarkt, winkels, bioscoop en entertainment bij het treinstation"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Nightly food market",
+        "Modern shopping",
+        "Entertainment hub"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "erawan-cave",
+      "name": {
+        "en": "Erawan Cave (Tham Erawan)",
+        "nl": "Erawan Grot (Tham Erawan)"
+      },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Sacred cave temple with a naturally formed rock resembling Erawan, the three-headed elephant of Hindu mythology",
+        "nl": "Heilige grottempel met een natuurlijk gevormde rots die lijkt op Erawan, de driekoppige olifant uit de hindoeistische mythologie"
+      },
+      "entrance_fee": {
+        "thb": 20,
+        "usd": 1
+      },
+      "highlights": [
+        "Erawan rock formation",
+        "Sacred cave temple",
+        "Stalactite chambers"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "udon-thani-central-market",
+      "name": {
+        "en": "Udon Thani Central Market",
+        "nl": "Udon Thani Centrale Markt"
+      },
+      "type": "market",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Sprawling central wet market on Pracha Road with hundreds of vendors selling fresh produce, fermented fish, silk, and Isaan specialties",
+        "nl": "Uitgestrekte centrale versmarkt op Pracha Road met honderden verkopers die verse producten, gefermenteerde vis, zijde en Isaan-specialiteiten verkopen"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Hundreds of vendors",
+        "Isaan specialties",
+        "Local silk fabrics"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "wat-pa-ban-tat",
+      "name": {
+        "en": "Wat Pa Ban Tat Forest Monastery",
+        "nl": "Wat Pa Ban Tat Bosklooster"
+      },
+      "type": "temple",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Forest monastery of the late Ajahn Maha Boowa, one of Thailand's most revered monks, with meditation programs for international visitors",
+        "nl": "Bosklooster van wijlen Ajahn Maha Boowa, een van Thailand's meest vereerde monniken, met meditatieprogramma's voor internationale bezoekers"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Forest meditation",
+        "Ajahn Maha Boowa legacy",
+        "International programs"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "udon-thani-city-pillar-shrine",
+      "name": {
+        "en": "Udon Thani City Pillar Shrine",
+        "nl": "Udon Thani Stadspilaar Heiligdom"
+      },
+      "type": "temple",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Sacred city pillar shrine in the heart of Udon Thani where locals come to make offerings and pray for good fortune",
+        "nl": "Heilig stadspilaar-heiligdom in het hart van Udon Thani waar locals komen om offers te brengen en te bidden voor geluk"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Sacred city landmark",
+        "Local offerings",
+        "Central location"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "city_slug": "chanthaburi",
+  "city_name": "Chanthaburi",
+  "total_attractions": 9,
+  "attractions": [
+    {
+      "id": 1, "slug": "gem-market",
+      "name": { "en": "Chanthaburi Gem Market", "nl": "Chanthaburi Edelsteenmarkt" },
+      "type": "market",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "Thailand's largest gem trading center where dealers trade rubies, sapphires, and precious stones every weekend", "nl": "Thailand's grootste edelsteenhandelscentrum waar handelaren elke weekend robijnen, saffieren en edelstenen verhandelen" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["Weekend gem trading", "Ruby and sapphire dealers", "Gem cutting workshops"]
+    },
+    {
+      "id": 2, "slug": "cathedral-immaculate-conception",
+      "name": { "en": "Cathedral of the Immaculate Conception", "nl": "Kathedraal van de Onbevlekte Ontvangenis" },
+      "type": "cultural",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "The largest Catholic cathedral in Thailand with French Gothic architecture overlooking the Chanthaburi River", "nl": "De grootste katholieke kathedraal van Thailand met Frans-Gotische architectuur met uitzicht op de Chanthaburi rivier" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["French Gothic spires", "Stained glass windows", "Riverside location"]
+    },
+    {
+      "id": 3, "slug": "namtok-phlio-national-park",
+      "name": { "en": "Namtok Phlio National Park", "nl": "Namtok Phlio Nationaal Park" },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "Beautiful waterfall cascading into a crystal-clear pool with giant carp in a lush tropical forest setting", "nl": "Prachtige waterval die in een kristalhelder zwembad met reuzenkarpers stroomt in een weelderige tropische bosomgeving" },
+      "entrance_fee": { "thb": 200, "usd": 6 },
+      "highlights": ["Crystal-clear pool", "Giant carp", "Easy access from town"]
+    },
+    {
+      "id": 4, "slug": "chanthaburi-old-town",
+      "name": { "en": "Chanthaburi Old Town Waterfront", "nl": "Chanthaburi Oude Stad Waterkant" },
+      "type": "cultural",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "Preserved riverside community with French-Vietnamese shophouses, independent cafes, and art galleries", "nl": "Bewaard gebleven riviergemeenschap met Frans-Vietnamese winkelpanden, onafhankelijke cafes en kunstgalerieën" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["French-Vietnamese architecture", "Riverside cafes", "Art galleries"]
+    },
+    {
+      "id": 5, "slug": "oasis-sea-world",
+      "name": { "en": "Oasis Sea World", "nl": "Oasis Sea World" },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "Marine conservation center with sea turtle breeding program, aquarium, and educational exhibits about Gulf marine life", "nl": "Marien beschermingscentrum met zeeschildpadden kweekprogramma, aquarium en educatieve tentoonstellingen over het zeeleven in de Golf" },
+      "entrance_fee": { "thb": 200, "usd": 6 },
+      "highlights": ["Sea turtle conservation", "Aquarium", "Educational programs"]
+    },
+    {
+      "id": 6, "slug": "fruit-orchards",
+      "name": { "en": "Tropical Fruit Orchards", "nl": "Tropische Fruitboomgaarden" },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "Family-run orchards offering guided tours during durian season with tastings of premium Monthong durian and mangosteen", "nl": "Familieboomgaarden die rondleidingen bieden tijdens het durianseizoen met proeverijen van premium Monthong durian en mangosteen" },
+      "entrance_fee": { "thb": 100, "usd": 3 },
+      "highlights": ["Durian tasting", "Mangosteen and rambutan", "Seasonal April-July"]
+    },
+    {
+      "id": 7, "slug": "kung-krabaen-bay",
+      "name": { "en": "Kung Krabaen Bay", "nl": "Kung Krabaen Baai" },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "Mangrove conservation area with elevated boardwalks, birdwatching, nature trails, and a small aquarium", "nl": "Mangrove-beschermingsgebied met verhoogde loopbruggen, vogels kijken, natuurpaden en een klein aquarium" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["Mangrove boardwalks", "Birdwatching", "Nature trails"]
+    },
+    {
+      "id": 8, "slug": "khitung-waterfall",
+      "name": { "en": "Khitung Waterfall", "nl": "Khitung Waterval" },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "A scenic jungle waterfall reached via a hiking trail through pristine forest with a natural swimming pool", "nl": "Een schilderachtige junglewaterval bereikbaar via een wandelpad door ongerept bos met een natuurlijk zwembad" },
+      "entrance_fee": { "thb": 100, "usd": 3 },
+      "highlights": ["Jungle hiking trail", "Natural swimming pool", "Pristine forest"]
+    },
+    {
+      "id": 9, "slug": "chanthaburi-night-market",
+      "name": { "en": "Chanthaburi Night Market", "nl": "Chanthaburi Nachtmarkt" },
+      "type": "market",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "Evening food market with diverse Thai-Vietnamese-Chinese cuisine reflecting the city's multicultural heritage", "nl": "Avondvoedselmarkt met diverse Thais-Vietnamese-Chinese keuken die het multiculturele erfgoed van de stad weerspiegelt" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["Multicultural cuisine", "Vietnamese spring rolls", "Grilled seafood"]
+    }
+  ]
+}

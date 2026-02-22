@@ -1,0 +1,237 @@
+{
+  "city_slug": "kanchanaburi",
+  "city_name": "Kanchanaburi",
+  "total_attractions": 10,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "bridge-over-river-kwai",
+      "name": {
+        "en": "Bridge over the River Kwai",
+        "nl": "Brug over de Rivier Kwai"
+      },
+      "type": "historic",
+      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "description": {
+        "en": "Iconic WWII bridge built by Allied POWs, now a memorial and working railway crossing",
+        "nl": "Iconische WOII-brug gebouwd door geallieerde krijgsgevangenen, nu een gedenkteken en werkende spoorwegovergang"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "WWII history",
+        "Walk across the bridge",
+        "Train crossing"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "erawan-national-park",
+      "name": {
+        "en": "Erawan National Park",
+        "nl": "Erawan Nationaal Park"
+      },
+      "type": "nature",
+      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "description": {
+        "en": "Stunning seven-tiered waterfall with turquoise pools in lush jungle setting",
+        "nl": "Prachtige waterval met zeven niveaus en turquoise poelen in weelderige jungle"
+      },
+      "entrance_fee": {
+        "thb": 300,
+        "usd": 9
+      },
+      "highlights": [
+        "Seven-tiered waterfall",
+        "Swimming pools",
+        "Jungle hiking"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "death-railway",
+      "name": {
+        "en": "Death Railway (Thailand-Burma Railway)",
+        "nl": "Dodenspoorweg (Thailand-Burma Spoorweg)"
+      },
+      "type": "historic",
+      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "description": {
+        "en": "Historic railway line built by POWs during WWII, featuring scenic clifftop sections over the River Kwai",
+        "nl": "Historische spoorlijn gebouwd door krijgsgevangenen tijdens WOII, met schilderachtige klifgedeelten boven de Rivier Kwai"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Scenic train ride",
+        "WWII history",
+        "Tham Krasae viaduct"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "hellfire-pass",
+      "name": {
+        "en": "Hellfire Pass Memorial Museum",
+        "nl": "Hellfire Pass Herdenkingsmuseum"
+      },
+      "type": "museum",
+      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "description": {
+        "en": "Moving memorial museum and walking trail at the deepest railway cutting carved by POWs with hand tools",
+        "nl": "Ontroerend herdenkingsmuseum en wandelpad bij de diepste spoorweginsnijding uitgehakt door krijgsgevangenen met handgereedschap"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Museum exhibits",
+        "Walking trail",
+        "WWII memorial"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "kanchanaburi-war-cemetery",
+      "name": {
+        "en": "Kanchanaburi War Cemetery (Don Rak)",
+        "nl": "Kanchanaburi Oorlogsbegraafplaats (Don Rak)"
+      },
+      "type": "historic",
+      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "description": {
+        "en": "Beautifully maintained Commonwealth war cemetery with nearly 7,000 Allied POW graves from WWII",
+        "nl": "Prachtig onderhouden Gemenebest oorlogsbegraafplaats met bijna 7.000 geallieerde krijgsgevangengraven uit WOII"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "War memorial",
+        "6,982 graves",
+        "Immaculate gardens"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "thailand-burma-railway-centre",
+      "name": {
+        "en": "Thailand-Burma Railway Centre",
+        "nl": "Thailand-Burma Spoorweg Centrum"
+      },
+      "type": "museum",
+      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "description": {
+        "en": "Modern interactive museum documenting the construction of the Death Railway with detailed exhibits and personal stories",
+        "nl": "Modern interactief museum dat de bouw van de Dodenspoorweg documenteert met gedetailleerde tentoonstellingen en persoonlijke verhalen"
+      },
+      "entrance_fee": {
+        "thb": 140,
+        "usd": 4
+      },
+      "highlights": [
+        "Interactive exhibits",
+        "Personal stories",
+        "Historical research"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "sai-yok-yai-waterfall",
+      "name": {
+        "en": "Sai Yok Yai Waterfall",
+        "nl": "Sai Yok Yai Waterval"
+      },
+      "type": "nature",
+      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "description": {
+        "en": "Beautiful waterfall cascading directly into the River Kwai Noi, surrounded by pristine jungle",
+        "nl": "Prachtige waterval die direct in de Rivier Kwai Noi stroomt, omgeven door ongerepte jungle"
+      },
+      "entrance_fee": {
+        "thb": 300,
+        "usd": 9
+      },
+      "highlights": [
+        "River Kwai Noi",
+        "Jungle scenery",
+        "Swimming"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "prasat-muang-singh",
+      "name": {
+        "en": "Prasat Muang Singh Historical Park",
+        "nl": "Prasat Muang Singh Historisch Park"
+      },
+      "type": "historic",
+      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "description": {
+        "en": "13th-century Khmer ruins on the banks of the River Kwai Noi, the westernmost outpost of the Angkor Empire",
+        "nl": "13e-eeuwse Khmer-ruines aan de oevers van de Rivier Kwai Noi, de meest westelijke buitenpost van het Angkor-rijk"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Khmer ruins",
+        "Riverside setting",
+        "Ancient history"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "elephant-world-kanchanaburi",
+      "name": {
+        "en": "Elephant World Kanchanaburi",
+        "nl": "Elephant World Kanchanaburi"
+      },
+      "type": "nature",
+      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "description": {
+        "en": "Ethical elephant sanctuary where visitors can feed, bathe, and walk with rescued elephants in a natural setting",
+        "nl": "Ethisch olifantenopvangcentrum waar bezoekers geredde olifanten kunnen voeren, wassen en mee wandelen in een natuurlijke omgeving"
+      },
+      "entrance_fee": {
+        "thb": 2500,
+        "usd": 72
+      },
+      "highlights": [
+        "Ethical sanctuary",
+        "Elephant bathing",
+        "Conservation education"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "jeath-war-museum",
+      "name": {
+        "en": "JEATH War Museum",
+        "nl": "JEATH Oorlogsmuseum"
+      },
+      "type": "museum",
+      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "description": {
+        "en": "Small museum in a replica bamboo POW hut displaying wartime artifacts and photographs from the Death Railway era",
+        "nl": "Klein museum in een replica bamboe krijgsgevangenenhut met oorlogsartefacten en foto's uit het Dodenspoorwegtijdperk"
+      },
+      "entrance_fee": {
+        "thb": 40,
+        "usd": 1
+      },
+      "highlights": [
+        "POW artifacts",
+        "Bamboo hut replica",
+        "WWII photographs"
+      ]
+    }
+  ]
+}

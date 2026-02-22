@@ -1,0 +1,88 @@
+{
+  "city_slug": "rayong",
+  "city_name": "Rayong",
+  "total_attractions": 9,
+  "attractions": [
+    {
+      "id": 1, "slug": "koh-samet",
+      "name": { "en": "Koh Samet Island", "nl": "Koh Samet Eiland" },
+      "type": "nature",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": { "en": "Popular island with white sand beaches, crystal-clear water, and lively beachfront bars accessible from Ban Phe", "nl": "Populair eiland met witte zandstranden, kristalhelder water en levendige strandbars, bereikbaar vanuit Ban Phe" },
+      "entrance_fee": { "thb": 200, "usd": 6 },
+      "highlights": ["White sand beaches", "Crystal-clear water", "Beachfront nightlife"]
+    },
+    {
+      "id": 2, "slug": "sai-kaew-beach",
+      "name": { "en": "Sai Kaew Beach (Diamond Beach)", "nl": "Sai Kaew Strand (Diamantstrand)" },
+      "type": "beach",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": { "en": "Koh Samet's longest and most popular beach with powder-white sand, water sports, and fire shows at night", "nl": "Koh Samet's langste en populairste strand met poederwit zand, watersporten en vuurshows 's avonds" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["Powder-white sand", "Fire shows at night", "Water sports"]
+    },
+    {
+      "id": 3, "slug": "mae-ramphueng-beach",
+      "name": { "en": "Mae Ramphueng Beach", "nl": "Mae Ramphueng Strand" },
+      "type": "beach",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": { "en": "Twelve-kilometer mainland beach rarely visited by tourists with seafood restaurants and fishing villages", "nl": "Twaalf kilometer lang vastelandstrand dat zelden door toeristen bezocht wordt, met visrestaurants en vissersdorpen" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["12 km of sand", "Uncrowded", "Fresh seafood restaurants"]
+    },
+    {
+      "id": 4, "slug": "rayong-aquarium",
+      "name": { "en": "Rayong Aquarium", "nl": "Rayong Aquarium" },
+      "type": "attraction",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": { "en": "Educational marine aquarium at the eastern end of Mae Ramphueng Beach showcasing Gulf of Thailand species", "nl": "Educatief zeeaquarium aan het oostelijke einde van Mae Ramphueng Beach met soorten uit de Golf van Thailand" },
+      "entrance_fee": { "thb": 50, "usd": 1 },
+      "highlights": ["Marine species", "Educational exhibits", "Family-friendly"]
+    },
+    {
+      "id": 5, "slug": "khao-laem-ya-national-park",
+      "name": { "en": "Khao Laem Ya-Mu Ko Samet National Park", "nl": "Khao Laem Ya-Mu Ko Samet Nationaal Park" },
+      "type": "nature",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": { "en": "Coastal national park covering both Koh Samet island and the Khao Laem Ya headland on the mainland", "nl": "Kust nationaal park dat zowel het eiland Koh Samet als de Khao Laem Ya-kaap op het vasteland omvat" },
+      "entrance_fee": { "thb": 200, "usd": 6 },
+      "highlights": ["Coastal viewpoints", "Tide pools", "Island and mainland sections"]
+    },
+    {
+      "id": 6, "slug": "ao-prao-beach",
+      "name": { "en": "Ao Prao Beach (Koh Samet)", "nl": "Ao Prao Strand (Koh Samet)" },
+      "type": "beach",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": { "en": "The only beach on Koh Samet's west coast with stunning sunsets and a peaceful atmosphere", "nl": "Het enige strand aan de westkust van Koh Samet met prachtige zonsondergangen en een vredig sfeer" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["West coast sunsets", "Peaceful atmosphere", "Upscale resorts"]
+    },
+    {
+      "id": 7, "slug": "rayong-fruit-orchards",
+      "name": { "en": "Rayong Fruit Orchards", "nl": "Rayong Fruitboomgaarden" },
+      "type": "nature",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": { "en": "Tropical fruit orchards offering visitors the chance to pick durian, rambutan, and mangosteen during fruit season", "nl": "Tropische fruitboomgaarden waar bezoekers tijdens het fruitseizoen durian, rambutan en mangosteen kunnen plukken" },
+      "entrance_fee": { "thb": 100, "usd": 3 },
+      "highlights": ["Pick your own fruit", "Durian tasting", "Seasonal April-June"]
+    },
+    {
+      "id": 8, "slug": "ban-phe-fishing-village",
+      "name": { "en": "Ban Phe Fishing Village & Pier", "nl": "Ban Phe Vissersdorp & Pier" },
+      "type": "cultural",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": { "en": "Lively fishing village and ferry departure point for Koh Samet with seafood stalls and shrimp paste production", "nl": "Levendig vissersdorp en vertrekpunt voor de veerboot naar Koh Samet met zeevruchtkramen en garnalenpasta-productie" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["Ferry to Koh Samet", "Seafood stalls", "Shrimp paste production"]
+    },
+    {
+      "id": 9, "slug": "suan-son-beach",
+      "name": { "en": "Suan Son Beach (Pine Beach)", "nl": "Suan Son Strand (Dennenstrand)" },
+      "type": "beach",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": { "en": "Military-maintained beach with casuarina pines providing natural shade, popular with Thai families on weekends", "nl": "Door het leger onderhouden strand met casuarinadennen die natuurlijke schaduw bieden, populair bij Thaise gezinnen in het weekend" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["Pine tree shade", "Clean sand", "Thai families' beach"]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "city_slug": "nakhon-ratchasima",
+  "city_name": "Nakhon Ratchasima (Korat)",
+  "total_attractions": 10,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "khao-yai-national-park",
+      "name": {
+        "en": "Khao Yai National Park (UNESCO)",
+        "nl": "Khao Yai Nationaal Park (UNESCO)"
+      },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "UNESCO World Heritage national park covering 2,168 sq km of monsoon forest with wild elephants, gibbons, hornbills, and spectacular waterfalls",
+        "nl": "UNESCO Werelderfgoed nationaal park van 2.168 km2 moessonbos met wilde olifanten, gibbons, neushoornvogels en spectaculaire watervallen"
+      },
+      "entrance_fee": {
+        "thb": 400,
+        "usd": 11
+      },
+      "highlights": [
+        "Wild elephants",
+        "Haew Narok waterfall",
+        "Bat cave spectacle"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "phimai-historical-park",
+      "name": {
+        "en": "Phimai Historical Park",
+        "nl": "Phimai Historisch Park"
+      },
+      "type": "cultural",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "11th-century Khmer temple complex that predates Angkor Wat, once the most important sanctuary on the road from Angkor to the north",
+        "nl": "11e-eeuws Khmer-tempelcomplex dat ouder is dan Angkor Wat, ooit het belangrijkste heiligdom op de weg van Angkor naar het noorden"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Pre-Angkor Khmer temple",
+        "Ramayana stone carvings",
+        "Sandstone architecture"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "thao-suranaree-monument",
+      "name": {
+        "en": "Thao Suranaree Monument (Ya Mo)",
+        "nl": "Thao Suranaree Monument (Ya Mo)"
+      },
+      "type": "cultural",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Beloved monument honoring the heroine who defended Korat from Laotian invasion in 1826, the spiritual heart of the city",
+        "nl": "Geliefd monument ter ere van de heldin die Korat verdedigde tegen de Laotiaanse invasie in 1826, het spirituele hart van de stad"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "City's spiritual heart",
+        "Night market surrounds",
+        "Local offerings"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "phimai-national-museum",
+      "name": {
+        "en": "Phimai National Museum",
+        "nl": "Phimai Nationaal Museum"
+      },
+      "type": "museum",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Outstanding collection of Khmer sculpture including the famous sandstone statue of King Jayavarman VII, the finest found outside Cambodia",
+        "nl": "Uitstekende collectie Khmer-beeldhouwkunst waaronder het beroemde zandstenen standbeeld van Koning Jayavarman VII, het mooiste gevonden buiten Cambodja"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": [
+        "Jayavarman VII statue",
+        "Khmer sculpture",
+        "Regional artifacts"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "haew-narok-waterfall",
+      "name": {
+        "en": "Haew Narok Waterfall",
+        "nl": "Haew Narok Waterval"
+      },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Khao Yai's most dramatic waterfall with a thundering 150-meter cascade through three tiers of jungle-clad cliffs",
+        "nl": "De meest dramatische waterval van Khao Yai met een donderende 150 meter cascade door drie niveaus van met jungle begroeide kliffen"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "150-meter cascade",
+        "Three tiers",
+        "Wildlife spotting"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "wat-ban-rai",
+      "name": {
+        "en": "Wat Ban Rai (Elephant Temple)",
+        "nl": "Wat Ban Rai (Olifantentempel)"
+      },
+      "type": "temple",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Surreal temple built in the shape of a giant elephant, covered in intricate ceramic mosaics depicting Buddhist stories",
+        "nl": "Surrealistisch tempel gebouwd in de vorm van een reusachtige olifant, bedekt met ingewikkelde keramische mozaieken die boeddhistische verhalen uitbeelden"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Giant elephant shape",
+        "Ceramic mosaic art",
+        "Buddhist murals"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "sai-ngam-banyan-tree",
+      "name": {
+        "en": "Sai Ngam (Giant Banyan Tree)",
+        "nl": "Sai Ngam (Reusachtige Banyanboom)"
+      },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Enormous 350-year-old banyan tree near Phimai that has grown into an entire forest spanning 1,400 square meters",
+        "nl": "Enorme 350 jaar oude banyanboom bij Phimai die is uitgegroeid tot een heel bos van 1.400 vierkante meter"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "350-year-old tree",
+        "1,400 square meters",
+        "Spirit shrine"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "jim-thompson-farm",
+      "name": {
+        "en": "Jim Thompson Farm",
+        "nl": "Jim Thompson Boerderij"
+      },
+      "type": "cultural",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Sprawling organic farm of the legendary Thai silk company in Pak Thong Chai, open during the annual Farm Tour in December",
+        "nl": "Uitgestrekte biologische boerderij van het legendarische Thaise zijdebedrijf in Pak Thong Chai, open tijdens de jaarlijkse Farm Tour in december"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Annual Farm Tour (December)",
+        "Flower fields",
+        "Silk demonstrations"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "korat-night-market",
+      "name": {
+        "en": "Korat Night Market (Ya Mo Area)",
+        "nl": "Korat Nachtmarkt (Ya Mo Gebied)"
+      },
+      "type": "market",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Bustling evening market around the Thao Suranaree Monument with Isaan street food, moo yor sausage, and local specialties",
+        "nl": "Bruisende avondmarkt rondom het Thao Suranaree Monument met Isaan-streetfood, moo yor worst en lokale specialiteiten"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Pad mee Korat",
+        "Moo yor sausage",
+        "Local atmosphere"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "chokchai-farm",
+      "name": {
+        "en": "Chokchai Farm",
+        "nl": "Chokchai Boerderij"
+      },
+      "type": "cultural",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Thailand's largest dairy farm near Pak Chong offering tours, ice cream workshops, horseback riding, and a premium steakhouse",
+        "nl": "Thailand's grootste melkveebedrijf bij Pak Chong met rondleidingen, ijsworkshops, paardrijden en een premium steakhouse"
+      },
+      "entrance_fee": {
+        "thb": 300,
+        "usd": 9
+      },
+      "highlights": [
+        "Farm tours",
+        "Ice cream workshops",
+        "Premium steakhouse"
+      ]
+    }
+  ]
+}

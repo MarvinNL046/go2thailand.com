@@ -1,0 +1,88 @@
+{
+  "city_slug": "ubon-ratchathani",
+  "city_name": "Ubon Ratchathani",
+  "total_attractions": 9,
+  "attractions": [
+    {
+      "id": 1, "slug": "pha-taem-national-park",
+      "name": { "en": "Pha Taem National Park", "nl": "Pha Taem Nationaal Park" },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "Dramatic Mekong River cliffs with prehistoric rock paintings dating back 3,000-4,000 years", "nl": "Dramatische Mekong-rivierkliffen met prehistorische rotstekeningen van 3.000-4.000 jaar oud" },
+      "entrance_fee": { "thb": 200, "usd": 6 },
+      "highlights": ["Prehistoric cliff paintings", "Mekong River views", "Sunrise viewpoint"]
+    },
+    {
+      "id": 2, "slug": "sam-phan-bok",
+      "name": { "en": "Sam Phan Bok (3000 Holes)", "nl": "Sam Phan Bok (3000 Gaten)" },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "The Grand Canyon of Thailand — thousands of eroded rock holes in the Mekong riverbed visible during dry season", "nl": "De Grand Canyon van Thailand — duizenden geërodeerde rotsgaten in de Mekong-rivierbedding zichtbaar tijdens het droge seizoen" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["Grand Canyon of Thailand", "Turquoise rock pools", "Dry season only (Dec-May)"]
+    },
+    {
+      "id": 3, "slug": "candle-festival-venue",
+      "name": { "en": "Candle Festival (Thung Si Muang Park)", "nl": "Kaarsen Festival (Thung Si Muang Park)" },
+      "type": "cultural",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "Annual festival venue where enormous hand-carved beeswax sculptures parade through the city each July", "nl": "Jaarlijks festivalterrein waar enorme handgesneden bijenwassculpturen door de stad paraderen elke juli" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["Annual July festival", "Giant wax sculptures", "Mor lam music"]
+    },
+    {
+      "id": 4, "slug": "wat-sirindhorn-wararam",
+      "name": { "en": "Wat Sirindhorn Wararam (Glow Temple)", "nl": "Wat Sirindhorn Wararam (Gloeitempe)" },
+      "type": "temple",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "Modern temple with fluorescent murals that glow green after dark, creating a unique nighttime experience", "nl": "Moderne tempel met fluorescerende muurschilderingen die 's nachts groen gloeien, wat een unieke nachtelijke ervaring creëert" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["Glow-in-the-dark murals", "Best after sunset", "Unique temple experience"]
+    },
+    {
+      "id": 5, "slug": "wat-nong-bua",
+      "name": { "en": "Wat Nong Bua", "nl": "Wat Nong Bua" },
+      "type": "temple",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "Beautiful Isaan temple modeled after India's Mahabodhi Temple with stunning interior murals", "nl": "Prachtige Isaan-tempel gemodelleerd naar India's Mahabodhi Tempel met prachtige interieur muurschilderingen" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["Mahabodhi-style architecture", "Interior murals", "Isaan village scenes"]
+    },
+    {
+      "id": 6, "slug": "kaeng-saphu-rapids",
+      "name": { "en": "Kaeng Saphu Rapids", "nl": "Kaeng Saphu Stroomversnellingen" },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "Scenic Mekong River rapids with riverside park, restaurants, and spectacular sunset views over Laos", "nl": "Schilderachtige Mekong stroomversnellingen met rivierpark, restaurants en spectaculaire zonsondergangen over Laos" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["Mekong rapids", "Sunset views over Laos", "Riverside restaurants"]
+    },
+    {
+      "id": 7, "slug": "khong-jiam-two-color-river",
+      "name": { "en": "Khong Jiam (Two-Color River)", "nl": "Khong Jiam (Tweekleurenrivier)" },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "The confluence where the brown Mun River meets the blue Mekong, creating a striking two-toned effect", "nl": "De samenvloeiing waar de bruine Mun-rivier de blauwe Mekong ontmoet, wat een opvallend tweekleureneffect creëert" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["Two-color river confluence", "Mekong and Mun rivers", "Boat trips available"]
+    },
+    {
+      "id": 8, "slug": "ubon-ratchathani-national-museum",
+      "name": { "en": "Ubon Ratchathani National Museum", "nl": "Ubon Ratchathani Nationaal Museum" },
+      "type": "museum",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "Museum in a former palace building with Isaan cultural artifacts, candle festival history, and local art", "nl": "Museum in een voormalig paleisgebouw met Isaan culturele artefacten, kaarsenfestival geschiedenis en lokale kunst" },
+      "entrance_fee": { "thb": 100, "usd": 3 },
+      "highlights": ["Former palace building", "Candle Festival exhibits", "Isaan cultural artifacts"]
+    },
+    {
+      "id": 9, "slug": "ratchabut-road-night-market",
+      "name": { "en": "Ratchabut Road Night Market", "nl": "Ratchabut Road Nachtmarkt" },
+      "type": "market",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": { "en": "Sprawling evening food market with authentic Isaan cuisine including fermented sausages, grilled chicken, and papaya salad", "nl": "Uitgebreide avondvoedselmarkt met authentieke Isaan keuken waaronder gefermenteerde worstjes, gegrilde kip en papajasalade" },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "highlights": ["Isaan street food", "Fermented sausages", "Grilled chicken and sticky rice"]
+    }
+  ]
+}
