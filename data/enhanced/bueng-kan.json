@@ -223,7 +223,12 @@
     }
   ],
   "practicalInfo": {
-    "bestMonths": ["Nov", "Dec", "Jan", "Feb"],
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
     "nearestAirport": "Nakhon Phanom Airport (about 130km) or Udon Thani Airport (about 250km)",
     "travelTimeFromAirport": "About 2 hours from Nakhon Phanom Airport or 4 hours from Udon Thani Airport by car",
     "localTransport": [
@@ -249,5 +254,39 @@
       "description": "Exploring Bueng Kan's hidden gems: Wat Phu Tok cliff temple, natural waterfall slides, and the legendary Naga Cave trail."
     }
   ],
-  "enrichedAt": "2026-02-22T18:00:00.000Z"
+  "enrichedAt": "2026-02-22T18:00:00.000Z",
+  "best_time_to_visit": {
+    "season": "Cool Season",
+    "months": "November - February",
+    "weather": "Cool and dry, 15-28°C",
+    "reasons": "Comfortable for Mekong exploration and temple visits"
+  },
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February (Best)": "The cool season from November to February is the most comfortable time to visit Bueng Kan, with pleasant temperatures (15-25 degrees C) and clear skies. However, the end of the rainy season (September-October) offers a uniquely dramatic experience — after rainfall, mist wraps around the Three Whale Rock formations creating an incredibly atmospheric, almost prehistoric landscape that photographers dream of.",
+      "March-May (Hot Season)": "Very hot, 30-40°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
+      "June-October (Green Season)": "Warm with regular rainfall. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
+    },
+    "local_festivals": [
+      "Naga worship ceremonies at sacred Mekong sites (varies)",
+      "Loy Krathong Festival",
+      "King's Birthday (Father's Day - Dec 5)",
+      "New Year celebrations",
+      "Makha Bucha Day",
+      "Chinese New Year (varies)",
+      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+    ],
+    "seasonal_foods": {
+      "cool": "Mekong riverside dining is at its best — fresh river fish, grilled meats, and Isaan specialties with sunset views. Local favorites include Local Restaurants near Three Whale Rock and Bueng Kan Town Market.",
+      "hot": "Cooling Vietnamese-Thai fusion dishes and cold drinks at riverside restaurants. Local favorites include Local Restaurants near Three Whale Rock and Bueng Kan Town Market.",
+      "rainy": "Hearty Isaan soups and warming curries — the Mekong at high water is dramatic. Local favorites include Local Restaurants near Three Whale Rock and Bueng Kan Town Market."
+    },
+    "insider_tips": {
+      "Mekong sunsets": "The best sunset viewing spots fill up fast — arrive 30 minutes before sunset to secure a riverside table.",
+      "Border crossings": "If crossing to Laos, check visa requirements in advance. Cool season mornings along the Mekong can be surprisingly cold — pack layers.",
+      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
+      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Bueng Kan.",
+      "Three Whale Rock (Hin Sam Wan)": "Visit Three Whale Rock (Hin Sam Wan) during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
+    }
+  }
 }

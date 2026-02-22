@@ -467,5 +467,32 @@
       "Buses to nearby attractions"
     ]
   },
-  "enrichedAt": "2026-02-22T12:55:20.667Z"
+  "enrichedAt": "2026-02-22T12:55:20.667Z",
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February (Best)": "Hua Hin's best visiting season runs from November through February when temperatures are cooler (20-28°C), humidity is lower, and rainfall is minimal. December and January are peak months with perfect beach weather and are ideal for swimming, water sports, and beach activities.",
+      "March-May (Hot Season)": "Hot and humid, 30-38°C. Still good for beach activities — fewer crowds and lower prices.",
+      "June-October (Monsoon)": "Frequent afternoon showers. Some boat services may be reduced, but dramatic skies and empty beaches reward adventurous travelers."
+    },
+    "local_festivals": [
+      "Hua Hin Jazz Festival (June)",
+      "Hua Hin Vintage Car Rally (cool season)",
+      "King's Cup Elephant Polo Tournament (varies)",
+      "Loy Krathong Festival",
+      "New Year celebrations",
+      "Makha Bucha Day",
+      "Chinese New Year (varies)",
+      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+    ],
+    "seasonal_foods": {
+      "cool": "Street food markets at their best — Pad Thai, Som Tam, and fresh seafood. Local favorites include Chatchai Market (Seafood Stalls) and Hua Hin Koti.",
+      "hot": "Thai iced tea, coconut ice cream, and cold noodle salads. Local favorites include Chatchai Market (Seafood Stalls) and Hua Hin Koti.",
+      "rainy": "Tom Yum Goong and warming curries are perfect for rainy days. Local favorites include Chatchai Market (Seafood Stalls) and Hua Hin Koti."
+    },
+    "insider_tips": {
+      "Peak season": "December-March is peak season — book accommodation 2-4 weeks ahead for the best prices and availability.",
+      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Hua Hin.",
+      "Hua Hin Beach": "Visit Hua Hin Beach during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
+    }
+  }
 }

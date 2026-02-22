@@ -471,5 +471,30 @@
       "Taxi"
     ]
   },
-  "enrichedAt": "2026-02-22T12:47:45.650Z"
+  "enrichedAt": "2026-02-22T12:47:45.650Z",
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February (Best)": "Udon Thani's best visiting season runs from November through February when cool, dry weather makes exploring comfortable and outdoor activities enjoyable. December through February is particularly spectacular as the Red Lotus Sea blooms, creating the iconic red carpet of lotus flowers visible across the water - plan boat tours for early morning when flowers are fully open and photography conditions are optimal.",
+      "March-May (Hot Season)": "Very hot, 30-40°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
+      "June-October (Green Season)": "Warm with regular rainfall. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
+    },
+    "local_festivals": [
+      "Loy Krathong Festival",
+      "King's Birthday (Father's Day - Dec 5)",
+      "New Year celebrations",
+      "Makha Bucha Day",
+      "Chinese New Year (varies)",
+      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+    ],
+    "seasonal_foods": {
+      "cool": "Grilled chicken (Gai Yang), sticky rice, and spicy Som Tam enjoyed outdoors. Local favorites include Rabiang Pa Restaurant and UD Town Food Park.",
+      "hot": "Refreshing papaya salads and cold drinks along the riverside. Local favorites include Rabiang Pa Restaurant and UD Town Food Park.",
+      "rainy": "Isaan sausages (Sai Krok), larb, and seasonal river fish. Local favorites include Rabiang Pa Restaurant and UD Town Food Park."
+    },
+    "insider_tips": {
+      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
+      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Udon Thani.",
+      "Ban Chiang Archaeological Site": "Visit Ban Chiang Archaeological Site during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
+    }
+  }
 }

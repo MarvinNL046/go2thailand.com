@@ -457,5 +457,33 @@
       "Grab"
     ]
   },
-  "enrichedAt": "2026-02-22T12:57:11.535Z"
+  "enrichedAt": "2026-02-22T12:57:11.535Z",
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February (Best)": "The best time to visit Lopburi is during the cool, dry season from November to February, when temperatures are most comfortable (typically 15-28°C) and rainfall is minimal. This period coincides with the famous Monkey Festival in November, an annual celebration of the city's macaque population featuring parades, traditional performances, and the unique sight of providing feasts to thousands of monkeys.",
+      "March-May (Hot Season)": "Hot and humid, 30-38°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
+      "June-October (Green Season)": "Frequent afternoon showers. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
+    },
+    "local_festivals": [
+      "Lopburi Monkey Banquet Festival (last Sunday of November) - feast laid out for the city's macaques",
+      "Loy Krathong Festival",
+      "King's Birthday (Father's Day - Dec 5)",
+      "New Year celebrations",
+      "Makha Bucha Day",
+      "Chinese New Year (varies)",
+      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+    ],
+    "seasonal_foods": {
+      "cool": "Street food markets at their best — Pad Thai, Som Tam, and fresh seafood. Local favorites include Boon Bakery & Coffee and Khrua Khun Ya (Grandmother's Kitchen).",
+      "hot": "Thai iced tea, coconut ice cream, and cold noodle salads. Local favorites include Boon Bakery & Coffee and Khrua Khun Ya (Grandmother's Kitchen).",
+      "rainy": "Tom Yum Goong and warming curries are perfect for rainy days. Local favorites include Boon Bakery & Coffee and Khrua Khun Ya (Grandmother's Kitchen)."
+    },
+    "insider_tips": {
+      "Temple visits": "Visit ruins early morning (opening time) for the best light and fewer crowds. Bring water — shade is limited.",
+      "Guided tours": "Local guides offer context that transforms the experience — well worth the small fee, especially at UNESCO sites.",
+      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
+      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Lopburi.",
+      "Prang Sam Yot (Monkey Temple)": "Visit Prang Sam Yot (Monkey Temple) during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
+    }
+  }
 }

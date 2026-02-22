@@ -451,5 +451,31 @@
       "Walking (city center is compact)"
     ]
   },
-  "enrichedAt": "2026-02-22T12:59:05.804Z"
+  "enrichedAt": "2026-02-22T12:59:05.804Z",
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February (Best)": "The ideal time to visit Phitsanulok is November through February, when cool, dry weather dominates with temperatures ranging from 15-28°C (59-82°F). December and January are particularly pleasant with minimal rainfall and comfortable conditions for temple visits and outdoor activities.",
+      "March-May (Hot Season)": "Hot and humid, 30-38°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
+      "June-October (Green Season)": "Frequent afternoon showers. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
+    },
+    "local_festivals": [
+      "Phra Buddha Chinnarat Fair (January) - major temple festival at Wat Phra Si Rattana Mahathat",
+      "Loy Krathong Festival",
+      "King's Birthday (Father's Day - Dec 5)",
+      "New Year celebrations",
+      "Makha Bucha Day",
+      "Chinese New Year (varies)",
+      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+    ],
+    "seasonal_foods": {
+      "cool": "Street food markets at their best — Pad Thai, Som Tam, and fresh seafood. Local favorites include Flying Vegetable Restaurant (Phak Bung Loi Fa) and Phitsanulok Night Market (Phaya Sua Road).",
+      "hot": "Thai iced tea, coconut ice cream, and cold noodle salads. Local favorites include Flying Vegetable Restaurant (Phak Bung Loi Fa) and Phitsanulok Night Market (Phaya Sua Road).",
+      "rainy": "Tom Yum Goong and warming curries are perfect for rainy days. Local favorites include Flying Vegetable Restaurant (Phak Bung Loi Fa) and Phitsanulok Night Market (Phaya Sua Road)."
+    },
+    "insider_tips": {
+      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
+      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Phitsanulok.",
+      "Wat Phra Si Rattana Mahathat": "Visit Wat Phra Si Rattana Mahathat during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
+    }
+  }
 }

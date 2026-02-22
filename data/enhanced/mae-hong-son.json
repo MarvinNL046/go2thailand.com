@@ -459,5 +459,34 @@
       "Grab app tuk-tuk/driver service"
     ]
   },
-  "enrichedAt": "2026-02-22T12:42:16.993Z"
+  "enrichedAt": "2026-02-22T12:42:16.993Z",
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February (Best)": "Mae Hong Son's best visiting season is November through February, when the weather is cool and dry, temperatures range from 15-25°C (59-77°F), and the famous morning mist is most reliable and spectacular. This period aligns with the dry season across northern Thailand, providing the most stable weather for outdoor activities and cave exploration.",
+      "March-May (Hot Season)": "Hot and dry, 30-40°C. Valleys get hot but higher elevations remain comfortable. Burning season can cause haze in March.",
+      "June-October (Green Season)": "Warm with monsoon rains. Lush green landscapes and waterfalls at full flow — beautiful but trails can be muddy."
+    },
+    "local_festivals": [
+      "Poi Sang Long Festival (March/April) - boys ordained as novice monks in elaborate procession",
+      "Bua Tong Sunflower Festival (November) - fields of wild sunflowers on Doi Mae U-Kor",
+      "Loy Krathong Festival",
+      "King's Birthday (Father's Day - Dec 5)",
+      "New Year celebrations",
+      "Makha Bucha Day",
+      "Chinese New Year (varies)",
+      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+    ],
+    "seasonal_foods": {
+      "cool": "Khao Soi and warming northern curries are perfect for cool evenings. Local favorites include Lucky Restaurant and Fern Restaurant.",
+      "hot": "Fresh mango sticky rice and tropical fruit smoothies to beat the heat. Local favorites include Lucky Restaurant and Fern Restaurant.",
+      "rainy": "Warming soups like Gaeng Hanglay and steamed sticky rice on rainy days. Local favorites include Lucky Restaurant and Fern Restaurant."
+    },
+    "insider_tips": {
+      "Mountain weather": "Temperatures drop significantly after dark (5-15°C in cool season). Pack warm layers for evenings even if days are warm.",
+      "Road conditions": "Mountain roads have many curves — take motion sickness medicine if needed. Rainy season can make some trails muddy.",
+      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
+      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Mae Hong Son.",
+      "Pang Ung": "Visit Pang Ung during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
+    }
+  }
 }

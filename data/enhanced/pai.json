@@ -457,5 +457,34 @@
       "Walking"
     ]
   },
-  "enrichedAt": "2026-02-22T12:40:12.977Z"
+  "enrichedAt": "2026-02-22T12:40:12.977Z",
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February (Best)": "Pai's ideal visiting season runs from November through February, when northern Thailand experiences cool and dry weather perfect for outdoor exploration. Daytime temperatures range from 20-25°C (68-77°F) with crisp mornings ideal for sunrise hikes to Pai Canyon, while cool evenings are perfect for wandering the Walking Street.",
+      "March-May (Hot Season)": "Hot and dry, 30-40°C. Valleys get hot but higher elevations remain comfortable. Burning season can cause haze in March.",
+      "June-October (Green Season)": "Warm with monsoon rains. Lush green landscapes and waterfalls at full flow — beautiful but trails can be muddy."
+    },
+    "local_festivals": [
+      "Pai Jazz & Blues Festival (cool season)",
+      "Walking Street live music every evening during peak season",
+      "Loy Krathong Festival",
+      "King's Birthday (Father's Day - Dec 5)",
+      "New Year celebrations",
+      "Makha Bucha Day",
+      "Chinese New Year (varies)",
+      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+    ],
+    "seasonal_foods": {
+      "cool": "Khao Soi and warming northern curries are perfect for cool evenings. Local favorites include Na's Kitchen and Charlie & Leks.",
+      "hot": "Fresh mango sticky rice and tropical fruit smoothies to beat the heat. Local favorites include Na's Kitchen and Charlie & Leks.",
+      "rainy": "Warming soups like Gaeng Hanglay and steamed sticky rice on rainy days. Local favorites include Na's Kitchen and Charlie & Leks."
+    },
+    "insider_tips": {
+      "Mountain weather": "Temperatures drop significantly after dark (5-15°C in cool season). Pack warm layers for evenings even if days are warm.",
+      "Road conditions": "Mountain roads have many curves — take motion sickness medicine if needed. Rainy season can make some trails muddy.",
+      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
+      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Pai.",
+      "Pai Canyon": "Visit Pai Canyon during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
+    }
+  }
 }

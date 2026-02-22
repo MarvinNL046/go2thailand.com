@@ -263,7 +263,12 @@
     }
   ],
   "practicalInfo": {
-    "bestMonths": ["Nov", "Dec", "Jan", "Feb"],
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
     "nearestAirport": "Nakhon Phanom Airport (about 100km north), with connecting flights from Bangkok",
     "travelTimeFromAirport": "About 1.5 hours by car or minivan from Nakhon Phanom Airport to Mukdahan",
     "localTransport": [
@@ -283,5 +288,39 @@
       "description": "Riding from Nakhon Phanom to Mukdahan, exploring golden stupas, Naga temple, Big Buddha, and celebrating Loy Krathong on the Mekong."
     }
   ],
-  "enrichedAt": "2026-02-22T18:00:00.000Z"
+  "enrichedAt": "2026-02-22T18:00:00.000Z",
+  "best_time_to_visit": {
+    "season": "Cool Season",
+    "months": "November - February",
+    "weather": "Cool and dry, 15-28°C",
+    "reasons": "Comfortable for Mekong exploration and temple visits"
+  },
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February (Best)": "The best time to visit Mukdahan is during the cool season from November to February, when temperatures are comfortable (18-28°C) and the Mekong is calm. November is particularly special if your visit coincides with Loy Krathong, the full moon festival when families float krathongs on the Mekong — a magical experience.",
+      "March-May (Hot Season)": "Very hot, 30-40°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
+      "June-October (Green Season)": "Warm with regular rainfall. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
+    },
+    "local_festivals": [
+      "Mukdahan Friendship Bridge celebrations (Thai-Lao cultural events)",
+      "Loy Krathong Festival",
+      "King's Birthday (Father's Day - Dec 5)",
+      "New Year celebrations",
+      "Makha Bucha Day",
+      "Chinese New Year (varies)",
+      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+    ],
+    "seasonal_foods": {
+      "cool": "Mekong riverside dining is at its best — fresh river fish, grilled meats, and Isaan specialties with sunset views. Local favorites include Riverside Restaurants and Craft Beer Tent.",
+      "hot": "Cooling Vietnamese-Thai fusion dishes and cold drinks at riverside restaurants. Local favorites include Riverside Restaurants and Craft Beer Tent.",
+      "rainy": "Hearty Isaan soups and warming curries — the Mekong at high water is dramatic. Local favorites include Riverside Restaurants and Craft Beer Tent."
+    },
+    "insider_tips": {
+      "Mekong sunsets": "The best sunset viewing spots fill up fast — arrive 30 minutes before sunset to secure a riverside table.",
+      "Border crossings": "If crossing to Laos, check visa requirements in advance. Cool season mornings along the Mekong can be surprisingly cold — pack layers.",
+      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
+      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Mukdahan.",
+      "Naga Temple": "Visit Naga Temple during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
+    }
+  }
 }

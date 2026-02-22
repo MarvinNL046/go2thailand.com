@@ -436,5 +436,30 @@
       "Walking"
     ]
   },
-  "enrichedAt": "2026-02-22T13:06:37.963Z"
+  "enrichedAt": "2026-02-22T13:06:37.963Z",
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February (Best)": "Nakhon Si Thammarat's best visiting season runs from November through February, when cool and dry weather prevails with temperatures ranging from 20-28°C (68-82°F), making temple exploration and waterfall hiking genuinely comfortable. Avoid the southwest monsoon period from May through September when heavy rainfall can limit outdoor activities and cause occasional flooding in low-lying areas, though fewer tourists visit during this time.",
+      "March-May (Hot Season)": "Hot and humid, 28-35°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
+      "June-October (Green Season)": "Southwest monsoon, heavy rains. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
+    },
+    "local_festivals": [
+      "Loy Krathong Festival",
+      "King's Birthday (Father's Day - Dec 5)",
+      "New Year celebrations",
+      "Makha Bucha Day",
+      "Chinese New Year (varies)",
+      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+    ],
+    "seasonal_foods": {
+      "cool": "Fresh-caught seafood, Southern curries with turmeric, and grilled fish. Local favorites include Khanom Jeen Mueang Nakhon and Krua Nakhon.",
+      "hot": "Fresh coconut water, tropical fruit, and light seafood salads. Local favorites include Khanom Jeen Mueang Nakhon and Krua Nakhon.",
+      "rainy": "Massaman curry and spicy Southern-style soups. Local favorites include Khanom Jeen Mueang Nakhon and Krua Nakhon."
+    },
+    "insider_tips": {
+      "Peak season": "December-March is peak season — book accommodation 2-4 weeks ahead for the best prices and availability.",
+      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Nakhon Si Thammarat.",
+      "Wat Phra Mahathat": "Visit Wat Phra Mahathat during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
+    }
+  }
 }

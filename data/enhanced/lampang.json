@@ -426,5 +426,32 @@
       "Private taxi"
     ]
   },
-  "enrichedAt": "2026-02-22T12:43:59.449Z"
+  "enrichedAt": "2026-02-22T12:43:59.449Z",
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February (Best)": "Lampang's best travel season spans November through February, when cool and dry weather makes exploring temples and the old town comfortable. November marks the cool season's onset with pleasant temperatures around 25-28°C, while December and January offer the most comfortable conditions with cooler evenings around 15-20°C.",
+      "March-May (Hot Season)": "Hot and dry, 30-40°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
+      "June-October (Green Season)": "Warm with monsoon rains. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
+    },
+    "local_festivals": [
+      "Luang Wiang Lakhon Festival (cultural performances, cool season)",
+      "Horse-drawn carriage parades (year-round, but best in cool season)",
+      "Loy Krathong Festival",
+      "King's Birthday (Father's Day - Dec 5)",
+      "New Year celebrations",
+      "Makha Bucha Day",
+      "Chinese New Year (varies)",
+      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+    ],
+    "seasonal_foods": {
+      "cool": "Khao Soi and warming northern curries are perfect for cool evenings. Local favorites include Aroy One Baht and Riverside Bar and Restaurant.",
+      "hot": "Fresh mango sticky rice and tropical fruit smoothies to beat the heat. Local favorites include Aroy One Baht and Riverside Bar and Restaurant.",
+      "rainy": "Warming soups like Gaeng Hanglay and steamed sticky rice on rainy days. Local favorites include Aroy One Baht and Riverside Bar and Restaurant."
+    },
+    "insider_tips": {
+      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
+      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Lampang.",
+      "Horse-Drawn Carriages": "Visit Horse-Drawn Carriages during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
+    }
+  }
 }

@@ -471,5 +471,30 @@
       "Ferry to Koh Samet"
     ]
   },
-  "enrichedAt": "2026-02-22T13:02:48.821Z"
+  "enrichedAt": "2026-02-22T13:02:48.821Z",
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February (Best)": "Rayong's optimal visiting season runs from November through February when temperatures are cooler (20-28°C) and rainfall is minimal, making beach days and outdoor activities most enjoyable. The months of March through May experience increasing heat, with April-June being peak mango and fruit season if you plan to visit the orchards, though it's also warmer.",
+      "March-May (Hot Season)": "Hot and humid, 30-38°C. Still good for beach activities — fewer crowds and lower prices.",
+      "June-October (Monsoon)": "Frequent afternoon showers. Some boat services may be reduced, but dramatic skies and empty beaches reward adventurous travelers."
+    },
+    "local_festivals": [
+      "Loy Krathong Festival",
+      "King's Birthday (Father's Day - Dec 5)",
+      "New Year celebrations",
+      "Makha Bucha Day",
+      "Chinese New Year (varies)",
+      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+    ],
+    "seasonal_foods": {
+      "cool": "Street food markets at their best — Pad Thai, Som Tam, and fresh seafood. Local favorites include Tamnanpar Restaurant (Mae Ramphueng Beach) and Ban Phe Seafood Stalls.",
+      "hot": "Thai iced tea, coconut ice cream, and cold noodle salads. Local favorites include Tamnanpar Restaurant (Mae Ramphueng Beach) and Ban Phe Seafood Stalls.",
+      "rainy": "Tom Yum Goong and warming curries are perfect for rainy days. Local favorites include Tamnanpar Restaurant (Mae Ramphueng Beach) and Ban Phe Seafood Stalls."
+    },
+    "insider_tips": {
+      "Peak season": "December-March is peak season — book accommodation 2-4 weeks ahead for the best prices and availability.",
+      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Rayong.",
+      "Koh Samet": "Visit Koh Samet during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
+    }
+  }
 }

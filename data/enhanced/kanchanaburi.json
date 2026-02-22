@@ -460,5 +460,31 @@
       "Death Railway train"
     ]
   },
-  "enrichedAt": "2026-02-22T12:53:34.758Z"
+  "enrichedAt": "2026-02-22T12:53:34.758Z",
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February (Best)": "The ideal time to visit Kanchanaburi is November through February, when Thailand's cool season brings comfortable temperatures between 20-28°C (68-82°F) and minimal rainfall. December and January are peak tourism months with the most stable weather and best visibility for outdoor activities like waterfall hiking and historical site exploration.",
+      "March-May (Hot Season)": "Hot and humid, 30-38°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
+      "June-October (Green Season)": "Frequent afternoon showers. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
+    },
+    "local_festivals": [
+      "River Kwai Bridge Week (late November-early December) - light and sound show",
+      "Loy Krathong Festival",
+      "King's Birthday (Father's Day - Dec 5)",
+      "New Year celebrations",
+      "Makha Bucha Day",
+      "Chinese New Year (varies)",
+      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+    ],
+    "seasonal_foods": {
+      "cool": "Street food markets at their best — Pad Thai, Som Tam, and fresh seafood. Local favorites include Keeree Tara and Blue Rice by Alicia.",
+      "hot": "Thai iced tea, coconut ice cream, and cold noodle salads. Local favorites include Keeree Tara and Blue Rice by Alicia.",
+      "rainy": "Tom Yum Goong and warming curries are perfect for rainy days. Local favorites include Keeree Tara and Blue Rice by Alicia."
+    },
+    "insider_tips": {
+      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
+      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Kanchanaburi.",
+      "Bridge over River Kwai": "Visit Bridge over River Kwai during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
+    }
+  }
 }

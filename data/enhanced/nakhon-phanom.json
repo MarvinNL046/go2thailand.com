@@ -265,7 +265,12 @@
     }
   ],
   "practicalInfo": {
-    "bestMonths": ["Nov", "Dec", "Jan", "Feb"],
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
     "nearestAirport": {
       "en": "Nakhon Phanom Airport, with direct flights from Bangkok (about 1 hour)",
       "nl": "Nakhon Phanom Airport, met directe vluchten vanuit Bangkok (ongeveer 1 uur)"
@@ -309,5 +314,40 @@
       "description": "Morning sunrise, riverside coffee, and Vietnamese breakfast before departing Nakhon Phanom."
     }
   ],
-  "enrichedAt": "2026-02-22T18:00:00.000Z"
+  "enrichedAt": "2026-02-22T18:00:00.000Z",
+  "best_time_to_visit": {
+    "season": "Cool Season",
+    "months": "November - February",
+    "weather": "Cool and dry, 15-28°C",
+    "reasons": "Comfortable for Mekong exploration and temple visits"
+  },
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February (Best)": "The cool season from November to February is the best time to visit Nakhon Phanom, with pleasant temperatures and clear skies perfect for riverside walks and sunset cruises. Be aware that December can be surprisingly cold this far north in Isaan — pack a hat, scarf, gloves, and a warm jacket for early mornings and evenings along the Mekong.",
+      "March-May (Hot Season)": "Very hot, 30-40°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
+      "June-October (Green Season)": "Warm with regular rainfall. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
+    },
+    "local_festivals": [
+      "Illuminated Boat Procession on the Mekong (Ok Phansa, October)",
+      "That Phanom Festival (January/February) - pilgrimage to the sacred stupa",
+      "Loy Krathong Festival",
+      "King's Birthday (Father's Day - Dec 5)",
+      "New Year celebrations",
+      "Makha Bucha Day",
+      "Chinese New Year (varies)",
+      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+    ],
+    "seasonal_foods": {
+      "cool": "Mekong riverside dining is at its best — fresh river fish, grilled meats, and Isaan specialties with sunset views. Local favorites include Vietnamese Pancakes & Dumplings House and Wooden House Congee.",
+      "hot": "Cooling Vietnamese-Thai fusion dishes and cold drinks at riverside restaurants. Local favorites include Vietnamese Pancakes & Dumplings House and Wooden House Congee.",
+      "rainy": "Hearty Isaan soups and warming curries — the Mekong at high water is dramatic. Local favorites include Vietnamese Pancakes & Dumplings House and Wooden House Congee."
+    },
+    "insider_tips": {
+      "Mekong sunsets": "The best sunset viewing spots fill up fast — arrive 30 minutes before sunset to secure a riverside table.",
+      "Border crossings": "If crossing to Laos, check visa requirements in advance. Cool season mornings along the Mekong can be surprisingly cold — pack layers.",
+      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
+      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Nakhon Phanom.",
+      "Ho Chi Minh House Museum": "Visit Ho Chi Minh House Museum during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
+    }
+  }
 }
