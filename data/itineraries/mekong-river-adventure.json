@@ -12,7 +12,7 @@
     "nl": "Volg de machtige Mekong-rivier over meer dan 800 kilometer langs de natuurlijke grens tussen Thailand en Laos. Deze motorfiets- of autoreis afzijdig van het gebaande pad brengt je langs charmante rivierstadjes, oude tempels, ochtendlijke aalmoezenceremonies en enkele van de meest authentieke Thaise ervaringen die je kunt vinden. Van de mistige ochtenden van Chiang Khan tot de verborgen dorpjes van Isaan — dit is het Thailand dat de meeste toeristen nooit zien."
   },
   "image": "/images/cities/bangkok/downtown-bangkok.webp",
-  "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos", "Den Ping Cave", "Friendship Bridge", "Jungle Tractor Adventure", "Three Whale Rock", "Sculpture Park", "Sunken Stupa"],
+  "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos", "Den Ping Cave", "Friendship Bridge", "Jungle Tractor Adventure", "Three Whale Rock", "Sculpture Park", "Sunken Stupa", "Wat Phu Tok", "Naga Cave", "Tham Phra Waterfall"],
   "cities": ["chiang-khan", "nong-khai", "bueng-kan"],
   "budget": {
     "budget": { "total": "$300-500", "perDay": "$20-35", "currency": "THB", "totalThb": "10,500-17,500" },
@@ -279,6 +279,83 @@
         "luxury": { "en": "Best available accommodation in the area (1,000-1,500 THB/night) — options are limited in this remote area", "nl": "Beste beschikbare accommodatie in het gebied (1.000-1.500 THB/nacht) — opties zijn beperkt in dit afgelegen gebied" }
       },
       "transport": { "en": "Motorbike or car along Route 212 from Nong Khai heading east. The road follows the Mekong through beautiful countryside. At Three Whale Rock, you need the 500 THB truck to reach the viewpoints — distances between stops are too far to walk.", "nl": "Motor of auto langs Route 212 vanuit Nong Khai richting het oosten. De weg volgt de Mekong door prachtig platteland. Bij Three Whale Rock heb je de 500 THB truck nodig om de uitkijkpunten te bereiken — de afstanden tussen de stops zijn te ver om te lopen." }
+    },
+    {
+      "day": 7,
+      "title": {
+        "en": "Wat Phu Tok & Natural Waterfall Slides",
+        "nl": "Wat Phu Tok & Tham Phra Waterval"
+      },
+      "city": "bueng-kan",
+      "activities": [
+        {
+          "name": { "en": "Morning Drone at Three Whale Rock", "nl": "Ochtend Drone bij Three Whale Rock" },
+          "duration": "30 min",
+          "cost": "Free",
+          "type": "photography",
+          "tip": { "en": "If you have a drone, the early morning light on the red sandstone is spectacular. You can fly from the nearby rubber plantations without needing park entry. Great for capturing the scale of the rock wall and the Mekong beyond.", "nl": "Als je een drone hebt, is het vroege ochtendlicht op het rode zandsteen spectaculair. Je kunt opstijgen vanaf de nabijgelegen rubberplantages zonder parktoegang nodig te hebben. Geweldig om de schaal van de rotswand en de Mekong erachter vast te leggen." }
+        },
+        {
+          "name": { "en": "Wat Phu Tok Cliff Temple", "nl": "Wat Phu Tok Kliftempel" },
+          "duration": "2-3 hours",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "One of Thailand's most beautiful AND most dangerous temples, built on a dramatic rock formation rising from the flat Isaan plains. Wooden walkways, ladders, and bridges are bolted to the cliff face at terrifying heights. Multiple levels with shrines, Buddha statues, and mysterious locked vaults with CCTV. Opens 8:00 AM — go early to beat the heat. Easy to get lost at the top where it becomes a forest. The views are world-class. '90% of people who come to Thailand don't know this exists.'", "nl": "Een van de mooiste EN gevaarlijkste tempels van Thailand, gebouwd op een dramatische rotsformatie die oprijst uit de vlakke Isaan-vlaktes. Houten loopbruggen, ladders en bruggen zijn op duizelingwekkende hoogte aan de rotswand bevestigd. Meerdere niveaus met heiligdommen, Boeddhabeelden en mysterieuze afgesloten kluizen met CCTV. Opent om 8:00 uur — ga vroeg om de hitte voor te zijn. Makkelijk om te verdwalen aan de top waar het een bos wordt. De uitzichten zijn van wereldklasse. '90% van de mensen die naar Thailand komen weet niet dat dit bestaat.'" }
+        },
+        {
+          "name": { "en": "Tham Phra Waterfall", "nl": "Tham Phra Waterval" },
+          "duration": "3-4 hours",
+          "cost": "50 THB boat + 200 THB park entry",
+          "type": "adventure",
+          "tip": { "en": "About 2 hours riding from Wat Phu Tok. Take a peaceful boat ride upstream through the forest — a mini safari with monkeys, birds, and fish. The waterfall has incredibly smooth rock that creates natural water slides. Follow the local kids — they know the best sliding spots. VERY slippery, injuries happen (someone got hurt while he was there). Bring lunch, sunscreen, and a swimsuit — you can spend the whole afternoon here. '10/10 beauty, 10/10 adventure, 0 for safety.'", "nl": "Ongeveer 2 uur rijden vanaf Wat Phu Tok. Maak een rustige boottocht stroomopwaarts door het bos — een mini-safari met apen, vogels en vissen. De waterval heeft ongelooflijk glad gesteente dat natuurlijke glijbanen creëert. Volg de lokale kinderen — zij kennen de beste glijplekken. HEEL glad, blessures komen voor (iemand raakte gewond terwijl hij er was). Neem lunch, zonnebrand en een zwempak mee — je kunt hier de hele middag doorbrengen. '10/10 schoonheid, 10/10 avontuur, 0 voor veiligheid.'" }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Early breakfast at your guesthouse near Three Whale Rock (40-60 THB)", "nl": "Vroeg ontbijt bij je guesthouse bij Three Whale Rock (40-60 THB)" },
+        "lunch": { "en": "Pack a lunch for the waterfall — no restaurants inside the park", "nl": "Neem een lunch mee voor de waterval — geen restaurants in het park" },
+        "dinner": { "en": "Small restaurant near your accommodation (80-150 THB)", "nl": "Klein restaurant bij je accommodatie (80-150 THB)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Same bungalow near Three Whale Rock or guesthouse near Naga Cave area (400-600 THB/night)", "nl": "Dezelfde bungalow bij Three Whale Rock of guesthouse bij het Naga Cave-gebied (400-600 THB/nacht)" },
+        "midrange": { "en": "Guesthouse in Bueng Kan town (600-1,000 THB/night)", "nl": "Guesthouse in Bueng Kan stad (600-1.000 THB/nacht)" },
+        "luxury": { "en": "Best available accommodation in the area (1,000-1,500 THB/night)", "nl": "Beste beschikbare accommodatie in het gebied (1.000-1.500 THB/nacht)" }
+      },
+      "transport": { "en": "Motorbike essential for exploring Bueng Kan province. Distances between attractions are significant (1-2 hours riding). The roads are scenic with rice paddies and small villages.", "nl": "Motor essentieel voor het verkennen van de provincie Bueng Kan. Afstanden tussen attracties zijn aanzienlijk (1-2 uur rijden). De wegen zijn schilderachtig met rijstvelden en kleine dorpjes." }
+    },
+    {
+      "day": 8,
+      "title": {
+        "en": "Naga Cave Trail & Depart Bueng Kan",
+        "nl": "Naga Cave Trail & Vertrek uit Bueng Kan"
+      },
+      "city": "bueng-kan",
+      "activities": [
+        {
+          "name": { "en": "Naga Cave Trail", "nl": "Naga Cave Trail" },
+          "duration": "3-4 hours",
+          "cost": "100 THB park + 500 THB mandatory guide",
+          "type": "adventure",
+          "tip": { "en": "Opens at 6:00 AM — be there at opening. STRICT 2:00 PM deadline for entry (he missed it by 20 minutes the first day and had to come back). The mandatory guide leads you through rock formations that look exactly like giant naga/snake scales — ladders built between crevices, caves with sacred Buddha statues, and the 'head of the naga' where you can whisper a wish into its ear. At the top: a golden stupa with panoramic views of Three Whale Rock, Wat Phu Tok, and the surrounding lakes. 'One of the coolest things I've done in Thailand.' Go early to beat the heat — you'll be climbing and sweating.", "nl": "Opent om 6:00 uur — wees er bij opening. STRIKTE deadline van 14:00 uur voor toegang (hij miste het met 20 minuten op de eerste dag en moest terugkomen). De verplichte gids leidt je door rotsformaties die er precies uitzien als reusachtige naga/slangeschubben — ladders gebouwd tussen spleten, grotten met heilige Boeddhabeelden en de 'kop van de naga' waar je een wens in zijn oor kunt fluisteren. Aan de top: een gouden stupa met panoramisch uitzicht op Three Whale Rock, Wat Phu Tok en de omliggende meren. 'Een van de coolste dingen die ik in Thailand heb gedaan.' Ga vroeg om de hitte voor te zijn — je zult klimmen en zweten." }
+        },
+        {
+          "name": { "en": "Evening Ride toward Nakhon Phanom", "nl": "Avondrit richting Nakhon Phanom" },
+          "duration": "2-3 hours",
+          "cost": "Free",
+          "type": "adventure",
+          "tip": { "en": "After the Naga Cave, continue following Route 212 east along the Mekong toward Nakhon Phanom. The road passes through beautiful countryside with rice paddies, lotus flowers, and tiny Mekong-side villages. Look for golden temples glinting on distant cliffs — there's always something to discover.", "nl": "Na de Naga Cave, vervolg Route 212 naar het oosten langs de Mekong richting Nakhon Phanom. De weg gaat door prachtig platteland met rijstvelden, lotusbloemen en kleine dorpjes aan de Mekong. Kijk uit naar gouden tempels die glinsteren op verre kliffen — er valt altijd iets te ontdekken." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Very early breakfast before Naga Cave — pack snacks and water for the trail", "nl": "Heel vroeg ontbijt voor de Naga Cave — neem snacks en water mee voor het pad" },
+        "lunch": { "en": "Late lunch at a village restaurant after descending from Naga Cave (60-120 THB)", "nl": "Late lunch bij een dorpsrestaurant na de afdaling van Naga Cave (60-120 THB)" },
+        "dinner": { "en": "Riverside restaurant en route to or arriving in Nakhon Phanom (100-250 THB)", "nl": "Rivierrestaurant onderweg naar of bij aankomst in Nakhon Phanom (100-250 THB)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Guesthouse along the Mekong between Bueng Kan and Nakhon Phanom (400-700 THB/night)", "nl": "Guesthouse langs de Mekong tussen Bueng Kan en Nakhon Phanom (400-700 THB/nacht)" },
+        "midrange": { "en": "Small hotel in a riverside town (700-1,200 THB/night)", "nl": "Klein hotel in een rivierstadje (700-1.200 THB/nacht)" },
+        "luxury": { "en": "Best riverside hotel you can find (1,200-2,000 THB/night)", "nl": "Beste rivierhotel dat je kunt vinden (1.200-2.000 THB/nacht)" }
+      },
+      "transport": { "en": "Motorbike along Route 212 east from Bueng Kan toward Nakhon Phanom. Allow 2-3 hours for the ride, but take your time — the scenery along the Mekong is spectacular.", "nl": "Motor langs Route 212 naar het oosten vanuit Bueng Kan richting Nakhon Phanom. Reken op 2-3 uur voor de rit, maar neem je tijd — het landschap langs de Mekong is spectaculair." }
     }
   ],
   "contentSources": [
@@ -302,6 +379,13 @@
       "creator": "Paddy Doyle - Live Love Thailand",
       "url": "https://www.youtube.com/watch?v=lBMMNQ816Ro",
       "description": "Exploring Nong Khai's sculpture park, sunken stupa, and festivals before riding to Bueng Kan's Three Whale Rock."
+    },
+    {
+      "type": "video",
+      "title": "Mekong Adventure Episode 4: Bueng Kan Deep Dive",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=0DeWTAHtp9Y",
+      "description": "Exploring Bueng Kan's hidden gems: Wat Phu Tok cliff temple, natural waterfall slides, and the legendary Naga Cave trail."
     }
   ],
   "seo": {
