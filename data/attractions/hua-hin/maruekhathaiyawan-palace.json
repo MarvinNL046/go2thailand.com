@@ -1,0 +1,20 @@
+{
+  "id": 3,
+  "slug": "maruekhathaiyawan-palace",
+  "name": { "en": "Maruekhathaiyawan Palace", "nl": "Maruekhathaiyawan Paleis" },
+  "type": "palace",
+  "city_slug": "hua-hin",
+  "address": "Camp Rama VI, Cha-Am, Phetchaburi 76120",
+  "location": { "lat": 12.7725, "lng": 99.9675 },
+  "opening_hours": "08:30-16:00 (closed Wednesdays)",
+  "entrance_fee": { "thb": 30, "usd": 1 },
+  "description": { "en": "Exquisite teak summer palace of King Rama VI, elevated on stilts amid a coastal casuarina grove", "nl": "Prachtig teakhouten zomerpaleis van Koning Rama VI, verhoogd op palen in een kustbos van casuarina's" },
+  "highlights": ["Royal teak palace", "Elevated walkways", "Coastal casuarina grove", "Historical architecture"],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "Maruekhathaiyawan Palace - Top Attraction in Hua Hin | Go2Thailand", "nl": "Maruekhathaiyawan Paleis - Top Attractie in Hua Hin | Go2Thailand" },
+    "metaDescription": { "en": "Discover Maruekhathaiyawan Palace near Hua Hin. Exquisite teak summer palace of King Rama VI...", "nl": "Ontdek Maruekhathaiyawan Paleis bij Hua Hin. Prachtig teakhouten zomerpaleis van Koning Rama VI..." }
+  },
+  "tags": ["palace", "hua-hin", "thailand", "attraction", "travel", "tourism"]
+}

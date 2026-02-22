@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "ang-thong-marine-park",
+  "name": {
+    "en": "Ang Thong National Marine Park",
+    "nl": "Ang Thong Nationaal Marien Park"
+  },
+  "type": "nature",
+  "city_slug": "koh-samui",
+  "address": "Ang Thong National Marine Park, Koh Samui, Surat Thani 84140",
+  "location": {
+    "lat": 9.6167,
+    "lng": 99.6833
+  },
+  "opening_hours": "8:00 AM - 5:00 PM (closed November-December)",
+  "entrance_fee": {
+    "thb": 300,
+    "usd": 9
+  },
+  "description": {
+    "en": "A breathtaking archipelago of 42 limestone islands in the Gulf of Thailand, famous for the emerald saltwater lake on Koh Mae Ko, towering karst cliffs, hidden caves, and pristine white sand beaches accessible only by boat. Day trips from Koh Samui include kayaking, snorkeling, and hiking to panoramic viewpoints.",
+    "nl": "Een adembenemende archipel van 42 kalksteeneilanden in de Golf van Thailand, beroemd om het smaragdgroene zoutwatermeer op Koh Mae Ko, torenhoge karstrotsen, verborgen grotten en ongerepte witte zandstranden alleen bereikbaar per boot. Dagtochten vanuit Koh Samui omvatten kajakken, snorkelen en wandelen naar panoramische uitkijkpunten."
+  },
+  "highlights": [
+    "42 limestone islands",
+    "Emerald lake on Koh Mae Ko",
+    "Kayaking and snorkeling",
+    "Panoramic viewpoint hike"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "https://www.thainationalparks.com/ang-thong-marine-national-park",
+  "seo": {
+    "metaTitle": {
+      "en": "Ang Thong Marine Park - Day Trip from Koh Samui | Go2Thailand",
+      "nl": "Ang Thong Marien Park - Dagtocht vanuit Koh Samui | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Explore Ang Thong Marine Park from Koh Samui. 42 stunning limestone islands with emerald lagoons, kayaking, snorkeling and jungle viewpoints.",
+      "nl": "Verken Ang Thong Marien Park vanuit Koh Samui. 42 prachtige kalksteeneilanden met smaragdgroene lagunes, kajakken, snorkelen en jungle-uitkijkpunten."
+    }
+  },
+  "tags": [
+    "nature",
+    "koh-samui",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

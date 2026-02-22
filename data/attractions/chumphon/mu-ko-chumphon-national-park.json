@@ -1,0 +1,21 @@
+{
+  "id": 2, "slug": "mu-ko-chumphon-national-park",
+  "name": { "en": "Mu Ko Chumphon National Park", "nl": "Mu Ko Chumphon Nationaal Park" },
+  "type": "nature", "city_slug": "chumphon",
+  "address": "Mu Ko Chumphon National Park, Pathio, Chumphon 86160",
+  "location": { "lat": 10.5000, "lng": 99.3000 },
+  "opening_hours": "8:00 AM - 5:00 PM",
+  "entrance_fee": { "thb": 200, "usd": 6 },
+  "description": {
+    "en": "A marine national park encompassing several offshore islands with vibrant coral reefs, clear water, and diverse marine life. Popular for diving and snorkeling day trips from Thung Wua Laen Beach. The islands include Koh Ngam Yai, Koh Ngam Noi, and Koh Lak Raet, each with excellent underwater visibility.",
+    "nl": "Een marien nationaal park met meerdere eilanden met levendige koraalriffen, helder water en divers zeeleven. Populair voor duik- en snorkeldagtochten vanaf Thung Wua Laen Beach. De eilanden omvatten Koh Ngam Yai, Koh Ngam Noi en Koh Lak Raet, elk met uitstekend onderwater zicht."
+  },
+  "highlights": ["Vibrant coral reefs", "Diving and snorkeling", "Multiple islands", "Clear water visibility"],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "https://www.thainationalparks.com/mu-ko-chumphon-national-park",
+  "seo": {
+    "metaTitle": { "en": "Mu Ko Chumphon National Park - Diving & Snorkeling | Go2Thailand", "nl": "Mu Ko Chumphon Nationaal Park - Duiken & Snorkelen | Go2Thailand" },
+    "metaDescription": { "en": "Explore Mu Ko Chumphon National Park. Offshore islands with vibrant coral reefs, excellent diving, and snorkeling in the Gulf of Thailand.", "nl": "Verken Mu Ko Chumphon Nationaal Park. Eilanden met levendige koraalriffen, uitstekend duiken en snorkelen in de Golf van Thailand." }
+  },
+  "tags": ["nature", "chumphon", "thailand", "attraction", "travel", "tourism"]
+}

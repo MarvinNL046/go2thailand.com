@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "phimai-national-museum",
+  "name": {
+    "en": "Phimai National Museum",
+    "nl": "Phimai Nationaal Museum"
+  },
+  "type": "museum",
+  "city_slug": "nakhon-ratchasima",
+  "address": "Tha Songkhro Road, Tambon Nai Mueang, Amphoe Phimai, Nakhon Ratchasima 30110",
+  "location": {
+    "lat": 15.2230,
+    "lng": 102.4920
+  },
+  "opening_hours": "09:00-16:00 Wednesday-Sunday (closed Monday-Tuesday)",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Outstanding collection of Khmer sculpture including the most famous sandstone statue of King Jayavarman VII found outside Cambodia. Displays artifacts from the Dvaravati and Khmer periods excavated from sites across Isaan.",
+    "nl": "Uitstekende collectie Khmer-beeldhouwkunst waaronder het beroemdste zandstenen standbeeld van Koning Jayavarman VII gevonden buiten Cambodja. Toont artefacten uit de Dvaravati- en Khmer-perioden opgegraven van vindplaatsen in heel Isaan."
+  },
+  "highlights": [
+    "King Jayavarman VII statue",
+    "Khmer sculpture collection",
+    "Dvaravati artifacts",
+    "Regional archaeological finds"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Phimai National Museum - Top Attraction in Nakhon Ratchasima | Go2Thailand",
+      "nl": "Phimai Nationaal Museum - Top Attractie in Nakhon Ratchasima | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Phimai National Museum near Nakhon Ratchasima. Outstanding Khmer sculpture including the famous Jayavarman VII statue.",
+      "nl": "Ontdek Phimai Nationaal Museum bij Nakhon Ratchasima. Uitstekende Khmer-beeldhouwkunst waaronder het beroemde Jayavarman VII standbeeld."
+    }
+  },
+  "tags": [
+    "museum",
+    "nakhon-ratchasima",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

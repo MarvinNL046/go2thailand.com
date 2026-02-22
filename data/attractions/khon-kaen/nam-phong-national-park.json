@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "slug": "nam-phong-national-park",
+  "name": {
+    "en": "Nam Phong National Park",
+    "nl": "Nam Phong Nationaal Park"
+  },
+  "type": "nature",
+  "city_slug": "khon-kaen",
+  "address": "Amphoe Nam Phong, Khon Kaen 40310",
+  "location": {
+    "lat": 16.7500,
+    "lng": 102.8500
+  },
+  "opening_hours": "06:00-18:00 daily",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Quiet national park 50 km north of the city with scenic reservoir views, hiking trails, and the Tat Fa waterfall. Popular with locals for weekend picnics but virtually unknown to foreign visitors.",
+    "nl": "Rustig nationaal park 50 km ten noorden van de stad met schilderachtig stuwmeeruitzicht, wandelpaden en de Tat Fa-waterval. Populair bij locals voor weekendpicknicks maar vrijwel onbekend bij buitenlandse bezoekers."
+  },
+  "highlights": [
+    "Scenic reservoir views",
+    "Tat Fa waterfall",
+    "Hiking trails",
+    "Weekend picnic spot"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Nam Phong National Park - Top Attraction in Khon Kaen | Go2Thailand",
+      "nl": "Nam Phong Nationaal Park - Top Attractie in Khon Kaen | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Nam Phong National Park near Khon Kaen. Scenic reservoir, hiking trails and waterfall in a peaceful setting.",
+      "nl": "Ontdek Nam Phong Nationaal Park bij Khon Kaen. Schilderachtig stuwmeer, wandelpaden en waterval in een vredig omgeving."
+    }
+  },
+  "tags": [
+    "nature",
+    "khon-kaen",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

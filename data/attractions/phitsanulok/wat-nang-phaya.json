@@ -1,0 +1,18 @@
+{
+  "id": 6, "slug": "wat-nang-phaya",
+  "name": { "en": "Wat Nang Phaya", "nl": "Wat Nang Phaya" },
+  "type": "temple", "city_slug": "phitsanulok",
+  "address": "Phuttha Bucha Road, Nai Mueang, Mueang Phitsanulok 65000",
+  "location": { "lat": 16.8180, "lng": 100.2618 },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Beautiful Ayutthaya-period temple near Wat Yai with exceptional stucco relief decorations", "nl": "Prachtige Ayutthaya-periode tempel nabij Wat Yai met uitzonderlijke stucdecoraties in relief" },
+  "highlights": ["Exceptional stucco reliefs", "Ayutthaya period", "Quiet contemplation", "Near Wat Yai"],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "Wat Nang Phaya - Top Attraction in Phitsanulok | Go2Thailand", "nl": "Wat Nang Phaya - Top Attractie in Phitsanulok | Go2Thailand" },
+    "metaDescription": { "en": "Discover Wat Nang Phaya in Phitsanulok. Exceptional Ayutthaya-period stucco decorations...", "nl": "Ontdek Wat Nang Phaya in Phitsanulok. Uitzonderlijke stucdecoraties uit de Ayutthaya-periode..." }
+  },
+  "tags": ["temple", "phitsanulok", "thailand", "attraction", "travel", "tourism"]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "hellfire-pass",
+  "name": {
+    "en": "Hellfire Pass Memorial Museum",
+    "nl": "Hellfire Pass Herdenkingsmuseum"
+  },
+  "type": "museum",
+  "city_slug": "kanchanaburi",
+  "address": "Highway 323, Tha Sao, Sai Yok District, Kanchanaburi 71150",
+  "location": {
+    "lat": 14.3403,
+    "lng": 98.9347
+  },
+  "opening_hours": "09:00-16:00 (closed Mondays)",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Moving memorial museum and walking trail at the deepest railway cutting carved by POWs with hand tools",
+    "nl": "Ontroerend herdenkingsmuseum en wandelpad bij de diepste spoorweginsnijding uitgehakt door krijgsgevangenen met handgereedschap"
+  },
+  "highlights": [
+    "Museum exhibits",
+    "Walking trail through cuttings",
+    "WWII memorial",
+    "Audio guide included"
+  ],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": "https://www.dva.gov.au/recognition/commemorating/hellfire-pass-memorial-museum",
+  "seo": {
+    "metaTitle": {
+      "en": "Hellfire Pass Memorial Museum - Top Attraction in Kanchanaburi | Go2Thailand",
+      "nl": "Hellfire Pass Herdenkingsmuseum - Top Attractie in Kanchanaburi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Hellfire Pass Memorial Museum in Kanchanaburi. Moving memorial and walking trail...",
+      "nl": "Ontdek Hellfire Pass Herdenkingsmuseum in Kanchanaburi. Ontroerend gedenkteken en wandelpad..."
+    }
+  },
+  "tags": [
+    "museum",
+    "kanchanaburi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

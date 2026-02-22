@@ -1,0 +1,14 @@
+{
+  "id": 5, "slug": "wat-nong-bua",
+  "name": { "en": "Wat Nong Bua", "nl": "Wat Nong Bua" },
+  "type": "temple", "city_slug": "ubon-ratchathani",
+  "address": "Nong Bua, Mueang Ubon Ratchathani, Ubon Ratchathani 34000",
+  "location": { "lat": 15.2500, "lng": 104.8400 },
+  "opening_hours": "6:00 AM - 6:00 PM",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "A beautiful Isaan temple modeled after the Mahabodhi Temple in Bodh Gaya, India. The interior features stunning murals by local artists depicting the life of the Buddha alongside scenes of traditional Isaan village life — farmers in rice paddies, market scenes, and festivals — making it both a spiritual and cultural treasure.", "nl": "Een prachtige Isaan-tempel gemodelleerd naar de Mahabodhi Tempel in Bodh Gaya, India. Het interieur heeft prachtige muurschilderingen van lokale kunstenaars die het leven van de Boeddha uitbeelden naast scènes van traditioneel Isaan dorpsleven — boeren in rijstvelden, marktscènes en festivals — wat het zowel een spirituele als culturele schat maakt." },
+  "highlights": ["Mahabodhi-style architecture", "Isaan life murals", "Local artist paintings", "Spiritual atmosphere"],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
+  "seo": { "metaTitle": { "en": "Wat Nong Bua - Isaan Temple Art in Ubon | Go2Thailand", "nl": "Wat Nong Bua - Isaan Tempelkunst in Ubon | Go2Thailand" }, "metaDescription": { "en": "Visit Wat Nong Bua in Ubon Ratchathani. A Mahabodhi-style temple with stunning murals of the Buddha's life and traditional Isaan village scenes.", "nl": "Bezoek Wat Nong Bua in Ubon Ratchathani. Een Mahabodhi-stijl tempel met prachtige muurschilderingen van het leven van de Boeddha en traditionele Isaan dorpsscènes." } },
+  "tags": ["temple", "ubon-ratchathani", "thailand", "attraction", "travel", "tourism"]
+}

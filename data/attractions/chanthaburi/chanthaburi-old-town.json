@@ -1,0 +1,14 @@
+{
+  "id": 4, "slug": "chanthaburi-old-town",
+  "name": { "en": "Chanthaburi Old Town Waterfront", "nl": "Chanthaburi Oude Stad Waterkant" },
+  "type": "cultural", "city_slug": "chanthaburi",
+  "address": "Sukhaphiban Road, Wat Mai, Mueang Chanthaburi, Chanthaburi 22000",
+  "location": { "lat": 12.6090, "lng": 102.1060 },
+  "opening_hours": "Shops generally 10:00 AM - 6:00 PM",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "A beautifully preserved riverside community of pastel-colored shophouses with French-Vietnamese architectural details — shuttered windows, balconies with frangipani, and faded painted signs in Thai and Vietnamese. The narrow lanes hold independent cafes, small art galleries, and old trading houses that tell the story of the city's multicultural heritage. Best explored on foot in late afternoon light.", "nl": "Een prachtig bewaard gebleven riviergemeenschap van pastelkleurige winkelpanden met Frans-Vietnamese architectonische details — ramen met luiken, balkons met frangipani en vervaagde geschilderde tekens in het Thais en Vietnamees. De smalle steegjes herbergen onafhankelijke cafes, kleine kunstgalerieën en oude handelshuizen die het verhaal vertellen van het multiculturele erfgoed van de stad. Het beste te voet te verkennen in het late middaglicht." },
+  "highlights": ["French-Vietnamese architecture", "Pastel shophouses", "Riverside cafes", "Art galleries and heritage"],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
+  "seo": { "metaTitle": { "en": "Chanthaburi Old Town - Heritage Waterfront | Go2Thailand", "nl": "Chanthaburi Oude Stad - Erfgoed Waterkant | Go2Thailand" }, "metaDescription": { "en": "Explore Chanthaburi Old Town. French-Vietnamese shophouses, riverside cafes, and art galleries along the historic waterfront.", "nl": "Verken Chanthaburi Oude Stad. Frans-Vietnamese winkelpanden, riviercafes en kunstgalerieën langs de historische waterkant." } },
+  "tags": ["cultural", "chanthaburi", "thailand", "attraction", "travel", "tourism"]
+}

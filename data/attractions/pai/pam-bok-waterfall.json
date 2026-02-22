@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "pam-bok-waterfall",
+  "name": {
+    "en": "Pam Bok Waterfall",
+    "nl": "Pam Bok Waterval"
+  },
+  "type": "nature",
+  "city_slug": "pai",
+  "address": "Tambon Mae Hi, Amphoe Pai, Mae Hong Son 58130",
+  "location": {
+    "lat": 19.3361,
+    "lng": 98.4178
+  },
+  "opening_hours": "Open 24 hours",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Small but charming waterfall with a deep plunge pool popular for swimming, just a short motorbike ride from town. A peaceful alternative to the busier Mo Paeng falls.",
+    "nl": "Kleine maar charmante waterval met een diep zwemgat populair om te zwemmen, op slechts een korte scooterrit van het stadje. Een rustiger alternatief voor de drukkere Mo Paeng-watervallen."
+  },
+  "highlights": [
+    "Deep swimming hole",
+    "Easy access from town",
+    "Quiet atmosphere",
+    "Free admission"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Pam Bok Waterfall - Top Attraction in Pai | Go2Thailand",
+      "nl": "Pam Bok Waterval - Top Attractie in Pai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Pam Bok Waterfall in Pai. Charming waterfall with a deep swimming hole close to town.",
+      "nl": "Ontdek Pam Bok Waterval in Pai. Charmante waterval met een diep zwemgat dicht bij het stadje."
+    }
+  },
+  "tags": [
+    "nature",
+    "pai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

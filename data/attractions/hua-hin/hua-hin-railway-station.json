@@ -1,0 +1,20 @@
+{
+  "id": 6,
+  "slug": "hua-hin-railway-station",
+  "name": { "en": "Hua Hin Railway Station", "nl": "Hua Hin Treinstation" },
+  "type": "cultural",
+  "city_slug": "hua-hin",
+  "address": "Damnoen Kasem Road, Hua Hin, Prachuap Khiri Khan 77110",
+  "location": { "lat": 12.5718, "lng": 99.9518 },
+  "opening_hours": "Open 24 hours",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "One of Thailand's most beautiful train stations with vintage red-and-cream wooden Royal Waiting Room", "nl": "Een van Thailands mooiste treinstations met een vintage rood-en-creme houten Koninklijke Wachtkamer" },
+  "highlights": ["Royal Waiting Room", "Vintage wooden architecture", "Photo opportunity", "Working train station"],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "Hua Hin Railway Station - Top Attraction in Hua Hin | Go2Thailand", "nl": "Hua Hin Treinstation - Top Attractie in Hua Hin | Go2Thailand" },
+    "metaDescription": { "en": "Discover Hua Hin Railway Station. One of Thailand's most beautiful train stations...", "nl": "Ontdek Hua Hin Treinstation. Een van Thailands mooiste treinstations..." }
+  },
+  "tags": ["cultural", "hua-hin", "thailand", "attraction", "travel", "tourism"]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "shadow-puppet-museum",
+  "name": {
+    "en": "Suchart Subsin Shadow Puppet Museum",
+    "nl": "Suchart Subsin Schimmenspel Museum"
+  },
+  "type": "museum",
+  "city_slug": "nakhon-si-thammarat",
+  "address": "110/18 Si Thammasok Road, Soi 3, Nakhon Si Thammarat 80000",
+  "location": {
+    "lat": 8.4320,
+    "lng": 99.9680
+  },
+  "opening_hours": "8:30 AM - 5:00 PM (closed Sundays)",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "The workshop and museum of the legendary Suchart Subsin puppet master family, preserving the ancient southern Thai art of nang talung (shadow puppetry). Visitors can watch live performances, see artisans hand-carving intricate cowhide puppets with tiny chisels, and purchase handmade puppets as souvenirs.",
+    "nl": "De werkplaats en het museum van de legendarische Suchart Subsin poppenspelmeester-familie, die de oude Zuid-Thaise kunst van nang talung (schimmenspel) bewaart. Bezoekers kunnen live optredens bekijken, ambachtslieden fijne koeienhuidpoppen zien snijden met kleine beitels en handgemaakte poppen kopen als souvenirs."
+  },
+  "highlights": [
+    "Live nang talung performances",
+    "Puppet carving demonstrations",
+    "Centuries-old art form",
+    "Handmade puppet souvenirs"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Shadow Puppet Museum - Traditional Thai Art in Nakhon | Go2Thailand",
+      "nl": "Schimmenspel Museum - Traditionele Thaise Kunst in Nakhon | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Visit the Suchart Subsin Shadow Puppet Museum in Nakhon Si Thammarat. Live performances and puppet-making demonstrations of this ancient Thai art.",
+      "nl": "Bezoek het Suchart Subsin Schimmenspel Museum in Nakhon Si Thammarat. Live optredens en demonstraties van deze eeuwenoude Thaise kunstvorm."
+    }
+  },
+  "tags": [
+    "museum",
+    "nakhon-si-thammarat",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

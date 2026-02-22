@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "kiriwong-village",
+  "name": {
+    "en": "Kiriwong Village",
+    "nl": "Kiriwong Dorp"
+  },
+  "type": "cultural",
+  "city_slug": "nakhon-si-thammarat",
+  "address": "Ban Kiriwong, Kamlon, Lan Saka, Nakhon Si Thammarat 80230",
+  "location": {
+    "lat": 8.5100,
+    "lng": 99.8300
+  },
+  "opening_hours": "Daylight hours",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A peaceful community at the foot of Khao Luang mountain, known as Thailand's best ozone village for its exceptionally clean air. Visitors can experience homestays with local families, learn traditional batik dyeing using natural pigments from mangosteen and jackfruit, walk through organic fruit orchards, and swim in crystal-clear mountain streams.",
+    "nl": "Een vredig gemeenschap aan de voet van de Khao Luang berg, bekend als Thailand's beste ozon-dorp vanwege de uitzonderlijk schone lucht. Bezoekers kunnen homestays bij lokale families ervaren, traditioneel batik verven leren met natuurlijke pigmenten van mangosteen en jackfruit, wandelen door biologische fruitboomgaarden en zwemmen in kristalheldere bergbeekjes."
+  },
+  "highlights": [
+    "Thailand's cleanest air",
+    "Batik dyeing workshops",
+    "Organic fruit orchards",
+    "Homestay experiences"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Kiriwong Village - Thailand's Best Air Village | Go2Thailand",
+      "nl": "Kiriwong Dorp - Thailand's Beste Luchtkwaliteit Dorp | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Visit Kiriwong Village near Nakhon Si Thammarat. Thailand's best ozone village with clean mountain air, batik workshops, and authentic homestays.",
+      "nl": "Bezoek Kiriwong Dorp bij Nakhon Si Thammarat. Thailand's beste ozon-dorp met schone berglucht, batik workshops en authentieke homestays."
+    }
+  },
+  "tags": [
+    "cultural",
+    "nakhon-si-thammarat",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

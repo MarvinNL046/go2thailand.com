@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "fishermans-village-bophut",
+  "name": {
+    "en": "Fisherman's Village Bophut",
+    "nl": "Fisherman's Village Bophut"
+  },
+  "type": "market",
+  "city_slug": "koh-samui",
+  "address": "Bophut, Koh Samui, Surat Thani 84320",
+  "location": {
+    "lat": 9.5560,
+    "lng": 100.0015
+  },
+  "opening_hours": "Shops: 10:00 AM - 10:00 PM, Friday Night Market: 5:00 PM - 11:00 PM",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A charming old fishing village on the north coast with narrow streets lined by converted Chinese shophouses hosting boutique shops, restaurants, and galleries. The famous Friday Night Walking Street market transforms the area into a lively food-and-craft fair with live music and street performances.",
+    "nl": "Een charmant oud vissersdorp aan de noordkust met smalle straten omzoomd door verbouwde Chinese winkelpanden met boetiekwinkels, restaurants en galerieën. De beroemde vrijdagavondmarkt verandert het gebied in een levendig eet-en-ambachtsfestival met livemuziek en straatoptredens."
+  },
+  "highlights": [
+    "Friday Night Walking Street",
+    "Old Chinese shophouses",
+    "Beachfront restaurants",
+    "Boutique shopping"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Fisherman's Village Bophut - Koh Samui Market | Go2Thailand",
+      "nl": "Fisherman's Village Bophut - Koh Samui Markt | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Visit Fisherman's Village in Bophut, Koh Samui. Charming old shophouses, Friday Night Market, boutique shopping and beachfront dining.",
+      "nl": "Bezoek Fisherman's Village in Bophut, Koh Samui. Charmante oude winkelpanden, vrijdagavondmarkt, boetiekwinkels en dineren aan het strand."
+    }
+  },
+  "tags": [
+    "market",
+    "koh-samui",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "sai-yok-yai-waterfall",
+  "name": {
+    "en": "Sai Yok Yai Waterfall",
+    "nl": "Sai Yok Yai Waterval"
+  },
+  "type": "nature",
+  "city_slug": "kanchanaburi",
+  "address": "Sai Yok National Park, Sai Yok District, Kanchanaburi 71150",
+  "location": {
+    "lat": 14.2489,
+    "lng": 98.8653
+  },
+  "opening_hours": "08:00-16:30",
+  "entrance_fee": {
+    "thb": 300,
+    "usd": 9
+  },
+  "description": {
+    "en": "Beautiful waterfall cascading directly into the River Kwai Noi, surrounded by pristine jungle",
+    "nl": "Prachtige waterval die direct in de Rivier Kwai Noi stroomt, omgeven door ongerepte jungle"
+  },
+  "highlights": [
+    "River Kwai Noi",
+    "Jungle scenery",
+    "Swimming",
+    "Scenic boat access"
+  ],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Sai Yok Yai Waterfall - Top Attraction in Kanchanaburi | Go2Thailand",
+      "nl": "Sai Yok Yai Waterval - Top Attractie in Kanchanaburi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Sai Yok Yai Waterfall in Kanchanaburi. Beautiful waterfall cascading into the River Kwai Noi...",
+      "nl": "Ontdek Sai Yok Yai Waterval in Kanchanaburi. Prachtige waterval die in de Rivier Kwai Noi stroomt..."
+    }
+  },
+  "tags": [
+    "nature",
+    "kanchanaburi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "pang-ung",
+  "name": {
+    "en": "Pang Ung (Pang Tong Royal Project)",
+    "nl": "Pang Ung (Pang Tong Koninklijk Project)"
+  },
+  "type": "nature",
+  "city_slug": "mae-hong-son",
+  "address": "Pang Tong Royal Project, Tambon Mok Champae, Amphoe Muang, Mae Hong Son 58000",
+  "location": {
+    "lat": 19.4403,
+    "lng": 97.9083
+  },
+  "opening_hours": "Open 24 hours (accommodation available)",
+  "entrance_fee": {
+    "thb": 30,
+    "usd": 1
+  },
+  "description": {
+    "en": "Stunning mountain reservoir at 1,800 meters elevation surrounded by pine forests, nicknamed Thailand's Switzerland. Offers tent camping and bamboo raft house accommodation on the lake with unforgettable morning mist and stargazing.",
+    "nl": "Prachtig bergstuwmeer op 1.800 meter hoogte omringd door dennenbossen, bijgenaamd Thailand's Zwitserland. Biedt tentcamping en bamboe vlothuisaccommodatie op het meer met onvergetelijke ochtendmist en sterrenkijken."
+  },
+  "highlights": [
+    "Pine-lined reservoir",
+    "Morning mist spectacle",
+    "Raft house camping on lake",
+    "Mountain stargazing"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Pang Ung - Top Attraction in Mae Hong Son | Go2Thailand",
+      "nl": "Pang Ung - Top Attractie in Mae Hong Son | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Pang Ung in Mae Hong Son. Mountain reservoir surrounded by pine forests nicknamed Thailand's Switzerland.",
+      "nl": "Ontdek Pang Ung in Mae Hong Son. Bergstuwmeer omringd door dennenbossen, bijgenaamd Thailand's Zwitserland."
+    }
+  },
+  "tags": [
+    "nature",
+    "mae-hong-son",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

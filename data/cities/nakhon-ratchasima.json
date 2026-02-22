@@ -1,0 +1,58 @@
+{
+  "id": 16,
+  "slug": "nakhon-ratchasima",
+  "name": {
+    "en": "Nakhon Ratchasima (Korat)",
+    "nl": "Nakhon Ratchasima (Korat)"
+  },
+  "region": "Isaan",
+  "province": "Nakhon Ratchasima",
+  "description": {
+    "en": "The largest city in Isaan and gateway to the northeast, offering Khao Yai National Park, ancient Khmer ruins of Phimai, and the beloved Thao Suranaree Monument.",
+    "nl": "De grootste stad van Isaan en de poort naar het noordoosten, met het Khao Yai Nationaal Park, oude Khmer-ruïnes van Phimai en het geliefde Thao Suranaree Monument."
+  },
+  "population": 460000,
+  "highlights": [
+    "Khao Yai National Park",
+    "Thao Suranaree Monument",
+    "Phimai Historical Park",
+    "Night Markets"
+  ],
+  "location": {
+    "lat": 14.9799,
+    "lng": 102.0978
+  },
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Nakhon Ratchasima (Korat) | What to do in Nakhon Ratchasima (Korat)?",
+      "nl": "Ontdek Nakhon Ratchasima (Korat) | Wat te doen in Nakhon Ratchasima (Korat)?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Nakhon Ratchasima (Korat), Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Nakhon Ratchasima (Korat), Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Nakhon Ratchasima (Korat)",
+      "nl": "Beste restaurants en streetfood in Nakhon Ratchasima (Korat)"
+    },
+    "hotels": {
+      "en": "Top hotels in Nakhon Ratchasima (Korat) | Tips & deals",
+      "nl": "Beste hotels in Nakhon Ratchasima (Korat) | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Nakhon Ratchasima (Korat)",
+      "nl": "Top bezienswaardigheden in Nakhon Ratchasima (Korat)"
+    }
+  },
+  "tags": [
+    "isaan",
+    "nakhon ratchasima",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

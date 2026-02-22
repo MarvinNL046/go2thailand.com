@@ -1,0 +1,58 @@
+{
+  "id": 24,
+  "slug": "koh-samui",
+  "name": {
+    "en": "Koh Samui",
+    "nl": "Koh Samui"
+  },
+  "region": "Southern",
+  "province": "Surat Thani",
+  "description": {
+    "en": "Thailand's second-largest island, a tropical paradise famous for palm-fringed beaches, luxury resorts, and the iconic Big Buddha Temple. Gateway to the Gulf islands.",
+    "nl": "Het op een na grootste eiland van Thailand, een tropisch paradijs beroemd om palmbomen-omzoomde stranden, luxe resorts en de iconische Grote Boeddha Tempel."
+  },
+  "population": 63000,
+  "highlights": [
+    "Chaweng Beach",
+    "Big Buddha Temple",
+    "Ang Thong Marine Park",
+    "Fisherman's Village"
+  ],
+  "location": {
+    "lat": 9.512,
+    "lng": 100.0136
+  },
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Koh Samui | What to do in Koh Samui?",
+      "nl": "Ontdek Koh Samui | Wat te doen in Koh Samui?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Koh Samui, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Koh Samui, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Koh Samui",
+      "nl": "Beste restaurants en streetfood in Koh Samui"
+    },
+    "hotels": {
+      "en": "Top hotels in Koh Samui | Tips & deals",
+      "nl": "Beste hotels in Koh Samui | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Koh Samui",
+      "nl": "Top bezienswaardigheden in Koh Samui"
+    }
+  },
+  "tags": [
+    "southern",
+    "surat thani",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

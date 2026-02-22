@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "khao-luang-national-park",
+  "name": {
+    "en": "Khao Luang National Park",
+    "nl": "Khao Luang Nationaal Park"
+  },
+  "type": "nature",
+  "city_slug": "nakhon-si-thammarat",
+  "address": "Khao Luang National Park, Lan Saka, Nakhon Si Thammarat 80230",
+  "location": {
+    "lat": 8.5200,
+    "lng": 99.7800
+  },
+  "opening_hours": "6:00 AM - 6:00 PM",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "A vast national park encompassing southern Thailand's highest peak at 1,835 meters. The park protects pristine old-growth rainforest home to Malayan tapirs, Asian black bears, and hundreds of bird species. The crown jewel is Krung Ching waterfall, reached via a stunning 4-kilometer jungle trail through towering dipterocarp forest.",
+    "nl": "Een uitgestrekt nationaal park rond de hoogste piek van Zuid-Thailand op 1.835 meter. Het park beschermt ongerept oeroud regenwoud dat de habitat vormt van Maleise tapirs, Aziatische zwarte beren en honderden vogelsoorten. Het pronkstuk is de Krung Ching waterval, bereikbaar via een prachtig 4 kilometer lang junglepad door hoog dipterocarp-bos."
+  },
+  "highlights": [
+    "Southern Thailand's highest peak",
+    "Pristine old-growth rainforest",
+    "Rare wildlife spotting",
+    "Krung Ching waterfall trail"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "https://www.thainationalparks.com/khao-luang-national-park",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Luang National Park - Nakhon Si Thammarat Nature | Go2Thailand",
+      "nl": "Khao Luang Nationaal Park - Nakhon Si Thammarat Natuur | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Explore Khao Luang National Park near Nakhon Si Thammarat. Pristine rainforest, rare wildlife, and the spectacular Krung Ching waterfall.",
+      "nl": "Verken het Khao Luang Nationaal Park bij Nakhon Si Thammarat. Ongerept regenwoud, zeldzame dieren en de spectaculaire Krung Ching waterval."
+    }
+  },
+  "tags": [
+    "nature",
+    "nakhon-si-thammarat",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 10,
+  "slug": "samui-elephant-sanctuary",
+  "name": {
+    "en": "Samui Elephant Sanctuary",
+    "nl": "Samui Olifanten Opvangcentrum"
+  },
+  "type": "nature",
+  "city_slug": "koh-samui",
+  "address": "119/1 Moo 2, Taling Ngam, Koh Samui, Surat Thani 84140",
+  "location": {
+    "lat": 9.4750,
+    "lng": 99.9450
+  },
+  "opening_hours": "8:00 AM - 5:00 PM",
+  "entrance_fee": {
+    "thb": 2500,
+    "usd": 72
+  },
+  "description": {
+    "en": "An ethical elephant sanctuary where retired and rescued elephants roam freely in natural surroundings. Visitors observe and walk alongside the elephants without riding or bathing them. Educational tours teach about elephant welfare and conservation in Thailand. Book in advance as capacity is limited.",
+    "nl": "Een ethisch olifantenopvangcentrum waar gepensioneerde en geredde olifanten vrij rondlopen in een natuurlijke omgeving. Bezoekers observeren en wandelen naast de olifanten zonder te rijden of te baden. Educatieve tours leren over olifantenwelzijn en natuurbehoud in Thailand. Boek van tevoren want de capaciteit is beperkt."
+  },
+  "highlights": [
+    "Ethical elephant observation",
+    "No riding or bathing",
+    "Educational conservation tours",
+    "Natural forest setting"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "https://www.samuielephantsanctuary.org",
+  "seo": {
+    "metaTitle": {
+      "en": "Samui Elephant Sanctuary - Ethical Wildlife in Koh Samui | Go2Thailand",
+      "nl": "Samui Olifanten Opvangcentrum - Ethisch Wildlife op Koh Samui | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Visit the Samui Elephant Sanctuary. An ethical sanctuary where rescued elephants roam freely with observation-only visits and educational conservation tours.",
+      "nl": "Bezoek het Samui Olifanten Opvangcentrum. Een ethisch opvangcentrum waar geredde olifanten vrij rondlopen met alleen observatiebezoeken en educatieve natuurbehoudstouren."
+    }
+  },
+  "tags": [
+    "nature",
+    "koh-samui",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

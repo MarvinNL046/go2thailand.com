@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "kad-kong-ta-walking-street",
+  "name": {
+    "en": "Kad Kong Ta Walking Street",
+    "nl": "Kad Kong Ta Walking Street"
+  },
+  "type": "market",
+  "city_slug": "lampang",
+  "address": "Talad Gao Road, Tambon Suan Dok, Amphoe Muang, Lampang 52000",
+  "location": {
+    "lat": 18.2920,
+    "lng": 99.5060
+  },
+  "opening_hours": "16:00-21:00 Saturday-Sunday",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Weekend walking street market along the Wang River featuring local food, crafts, live music, and a charming heritage shophouse atmosphere. The best place to sample Lampang's signature foods and buy local ceramics.",
+    "nl": "Weekend walking street markt langs de Wang-rivier met lokaal eten, ambachten, live muziek en een charmante erfgoed-winkelpandsfeer. De beste plek om Lampangs kenmerkende gerechten te proeven en lokale keramiek te kopen."
+  },
+  "highlights": [
+    "Weekend market atmosphere",
+    "Wang River setting",
+    "Local food and crafts",
+    "Heritage shophouses"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Kad Kong Ta Walking Street - Top Attraction in Lampang | Go2Thailand",
+      "nl": "Kad Kong Ta Walking Street - Top Attractie in Lampang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Kad Kong Ta Walking Street in Lampang. Weekend riverside market with local food, crafts and heritage atmosphere.",
+      "nl": "Ontdek Kad Kong Ta Walking Street in Lampang. Weekend markt aan de rivier met lokaal eten, ambachten en erfgoedsfeer."
+    }
+  },
+  "tags": [
+    "market",
+    "lampang",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

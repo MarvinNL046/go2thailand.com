@@ -1,0 +1,280 @@
+{
+  "id": 25,
+  "slug": "trang",
+  "name": {
+    "en": "Trang",
+    "nl": "Trang"
+  },
+  "region": "Southern",
+  "province": "Trang",
+  "description": {
+    "en": "A laid-back southern Thai city renowned for its roasted pork, hidden emerald caves, and pristine islands. Trang offers an authentic slice of southern Thai life with a thriving food culture and access to stunning Andaman Sea islands.",
+    "nl": "Een ontspannen Zuid-Thaise stad beroemd om zijn geroosterd varkensvlees, verborgen smaragdgroene grotten en ongerepte eilanden. Trang biedt een authentiek stukje Zuid-Thais leven met een bloeiende eetcultuur en toegang tot prachtige eilanden in de Andamanzee."
+  },
+  "population": 65000,
+  "highlights": [
+    "Emerald Cave (Tham Morakot)",
+    "Koh Lanta nearby",
+    "Pak Meng Beach",
+    "Trang Night Market"
+  ],
+  "location": {
+    "lat": 7.5565,
+    "lng": 99.6114
+  },
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Trang | What to do in Trang?",
+      "nl": "Ontdek Trang | Wat te doen in Trang?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Trang, Thailand – hidden islands, emerald caves, roasted pork and dim sum.",
+      "nl": "Jouw gids voor Trang, Thailand – verborgen eilanden, smaragdgroene grotten, geroosterd varkensvlees en dim sum."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Trang",
+      "nl": "Beste restaurants en streetfood in Trang"
+    },
+    "hotels": {
+      "en": "Top hotels in Trang | Tips & deals",
+      "nl": "Beste hotels in Trang | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Trang",
+      "nl": "Top bezienswaardigheden in Trang"
+    }
+  },
+  "tags": [
+    "southern",
+    "trang",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ],
+  "enhanced_description": "I nearly missed Trang entirely. My original plan was to take the ferry from Krabi straight to Koh Lanta, but a chance conversation with a Thai food writer on the bus changed everything. 'You cannot go to the Andaman coast without eating in Trang,' she said, her eyes widening as if I had suggested skipping breakfast forever. 'The moo yang — the roasted pork — you will dream about it.' She was right. Trang turned out to be one of the great food cities of Thailand, a place where the Sino-Thai culinary tradition has produced a breakfast culture unlike anywhere else in the country, and where the surrounding islands rival anything the more famous destinations can offer.\n\nThe first morning I walked down Ratchadamnoen Road at 6 AM and found the city already humming. Trang's signature breakfast ritual revolves around moo yang — whole pigs slow-roasted over charcoal until the skin crackles and the meat melts — served alongside fresh dim sum and strong local coffee. I sat at Ko Pi, one of the most famous breakfast spots on Phraram VI Road, and ordered a plate of roast pork with crispy skin, a steaming basket of siu mai dumplings, and a glass of Trang-style filtered coffee so thick and aromatic it could wake the dead. The pork was extraordinary — sweet, smoky, the fat rendered to a glassy crunch, the meat tender and deeply flavored. Around me, multigenerational families shared tables, grandmothers ordered for everyone, children dipped dumplings in chili vinegar, and the whole scene felt like witnessing a city-wide family breakfast. This is the Chinese-Thai heritage of Trang at its most delicious.\n\nThe islands off Trang's coast are where the landscape takes your breath away. I hired a longtail boat from Pak Meng pier and headed to Koh Muk, a small island with a handful of guesthouses and one of the most remarkable natural wonders I have ever seen: Tham Morakot, the Emerald Cave. To reach it, you swim through an 80-meter sea cave in near-total darkness — the water cold against your chest, the cave roof inches above your head, the sound of your own breathing amplified in the blackness — and then suddenly emerge into a hidden inland beach, a perfect crescent of white sand enclosed by towering limestone cliffs open to the sky. The water in the cave entrance glows an impossible emerald green where sunlight penetrates the rock. I sat on that secret beach for an hour, drying in the sun, utterly alone, feeling like I had discovered something out of a novel.\n\nBack in town, the Trang night market on Sathani Road is a quieter affair than Bangkok's famous markets, but the food is arguably better. I worked my way through plates of khanom jeen with yellow curry, grilled squid on sticks, coconut pancakes called khanom krok, and a local specialty of deep-fried fish cakes so crisp and fragrant they disappeared in seconds. An older woman running a dessert stall handed me a piece of khanom piak poon — a translucent jelly noodle in sweet coconut milk — and when I told her it was delicious, she beamed and gave me a second bowl for free. Trang's night market is not a tourist attraction; it is simply where Trang eats dinner, and being welcomed into that nightly ritual felt like a privilege.\n\nThe coastline south of Trang stretches toward the Malaysian border through some of the least-developed beach territory in the Andaman region. I spent a day at Hat Chao Mai National Park, where long stretches of casuarina-lined beach meet clear water and the only other visitors were a family of sea eagles circling overhead. The Trang Islands — Koh Kradan, Koh Libong, Koh Ngai — are each distinct: Kradan has what many consider the most beautiful beach in Thailand (a bold claim, but standing on its eastern shore watching the sun set behind Koh Muk, I was inclined to agree), Libong is famous for its dugong population, and Ngai offers snorkeling straight off the beach in coral gardens teeming with parrotfish and clownfish. Trang gives you all of this without the crowds, without the full-moon-party infrastructure, without the sense that paradise has been optimized for Instagram. It is Thailand's Andaman coast the way it used to be, and for how much longer it will stay that way, I honestly cannot say.",
+  "hidden_gems": [
+    {
+      "name": {
+        "en": "Koh Kradan Beach",
+        "nl": "Koh Kradan Strand"
+      },
+      "description": {
+        "en": "Often called the most beautiful beach in Thailand, this small island's eastern shore has powdery white sand meeting crystal-clear water over a coral reef. No roads, no ATMs, just pristine beach perfection with a handful of small resorts.",
+        "nl": "Vaak het mooiste strand van Thailand genoemd, heeft de oostkust van dit kleine eiland poederachtig wit zand dat kristalhelder water ontmoet boven een koraalrif. Geen wegen, geen geldautomaten, alleen puur strandperfectie met een handvol kleine resorts."
+      },
+      "type": "nature"
+    },
+    {
+      "name": {
+        "en": "Ko Pi Breakfast House",
+        "nl": "Ko Pi Ontbijthuis"
+      },
+      "description": {
+        "en": "A legendary Trang breakfast institution on Phraram VI Road serving perfect roasted pork, handmade dim sum, and strong filtered coffee since the 1940s. Arrive before 7 AM to secure a seat among the local regulars.",
+        "nl": "Een legendarisch Trang ontbijtinstituut aan de Phraram VI Road dat perfecte gebraden varkensvlees, handgemaakte dim sum en sterke filterkoffie serveert sinds de jaren 1940. Kom voor 7 uur aan om een stoel te bemachtigen tussen de vaste locale klanten."
+      },
+      "type": "restaurant"
+    },
+    {
+      "name": {
+        "en": "Koh Libong Dugong Watching",
+        "nl": "Koh Libong Doejong Spotten"
+      },
+      "description": {
+        "en": "One of the last places in Thailand to spot wild dugongs grazing on seagrass beds. The island's east coast is a protected marine area where these gentle sea mammals can be observed from boats in the early morning.",
+        "nl": "Een van de laatste plaatsen in Thailand om wilde doejongs te zien grazen op zeegrasgebieden. De oostkust van het eiland is een beschermd marien gebied waar deze vriendelijke zeezoogdieren 's ochtends vroeg vanuit boten kunnen worden geobserveerd."
+      },
+      "type": "nature"
+    },
+    {
+      "name": {
+        "en": "Phraya Ratsadanupradit Monument Area",
+        "nl": "Phraya Ratsadanupradit Monument Gebied"
+      },
+      "description": {
+        "en": "The tree-lined plaza around the monument to Trang's beloved governor features old colonial-era buildings, morning exercise groups, and a lively food stall area. A perfect spot to observe daily Trang life with a coffee in hand.",
+        "nl": "Het met bomen omzoomde plein rond het monument van Trang's geliefde gouverneur heeft oude koloniale gebouwen, ochtendgymnastiekgroepen en een levendig eetkraampjesgebied. Een perfecte plek om het dagelijks leven van Trang te observeren met een koffie in de hand."
+      },
+      "type": "cultural"
+    },
+    {
+      "name": {
+        "en": "Than Le Waterfall",
+        "nl": "Than Le Waterval"
+      },
+      "description": {
+        "en": "A series of limestone cascades in a forest park just 40 minutes from Trang town. The natural pools are popular swimming spots for locals on weekends, with almost no foreign visitors and a peaceful jungle atmosphere.",
+        "nl": "Een reeks kalksteencascades in een bospark op slechts 40 minuten van de stad Trang. De natuurlijke zwembaden zijn populaire zwemplekken voor locals in het weekend, met bijna geen buitenlandse bezoekers en een vredige jungle-sfeer."
+      },
+      "type": "nature"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "name": "Ko Pi (Phraram VI Road)",
+      "cuisine": "Chinese-Thai Breakfast",
+      "price_range": "$",
+      "description": {
+        "en": "The most iconic breakfast spot in Trang, famous for its moo yang (roasted pork), homemade dim sum, and strong Trang-style coffee. A multi-generational family institution where locals start every morning.",
+        "nl": "De meest iconische ontbijtplek in Trang, beroemd om zijn moo yang (geroosterd varkensvlees), huisgemaakte dim sum en sterke Trang-stijl koffie. Een meergeneratie familiebedrijf waar locals elke ochtend beginnen."
+      }
+    },
+    {
+      "name": "Khao Tom Phui",
+      "cuisine": "Thai-Chinese",
+      "price_range": "$",
+      "description": {
+        "en": "A beloved late-night rice porridge shop on Huay Yod Road. Their khao tom with fresh seafood, century egg, and minced pork is the go-to meal for Trang's night owls. Simple, warming, and open until the early hours.",
+        "nl": "Een geliefd laat-avond rijstpapwinkel aan de Huay Yod Road. Hun khao tom met verse zeevruchten, eeuwenoud ei en gehakt varkensvlees is de favoriete maaltijd voor Trang's nachtbrakers. Simpel, verwarmend en open tot in de vroege uurtjes."
+      }
+    },
+    {
+      "name": "Roti Thong Trang",
+      "cuisine": "Thai-Muslim",
+      "price_range": "$",
+      "description": {
+        "en": "Trang's best roti shop serving crispy, flaky flatbread with curry or sweet condensed milk. The Muslim-Thai community has perfected this dish over generations. Their mataba (stuffed roti) with chicken curry is exceptional.",
+        "nl": "Trang's beste roti-winkel serveert knapperig, bladerdeegachtig platbrood met curry of zoete gecondenseerde melk. De moslim-Thaise gemeenschap heeft dit gerecht over generaties geperfectioneerd. Hun mataba (gevulde roti) met kipcurry is uitzonderlijk."
+      }
+    },
+    {
+      "name": "Night Market Stalls (Sathani Road)",
+      "cuisine": "Street Food",
+      "price_range": "$",
+      "description": {
+        "en": "The evening food stalls along the old train station road serve everything from grilled squid and fish cakes to coconut pancakes and jelly noodle desserts. An authentic local dining experience with rock-bottom prices.",
+        "nl": "De avondvoedselkramen langs de oude treinstation weg serveren alles van gegrilde inktvis en viskoekjes tot kokospannenkoekjes en geleinoedel-desserts. Een authentieke lokale eetervaring met bodemprijzen."
+      }
+    },
+    {
+      "name": "Sin Ocha",
+      "cuisine": "Dim Sum",
+      "price_range": "$",
+      "description": {
+        "en": "A classic Trang dim sum house where the Chinese-Thai culinary tradition shines. Steamed dumplings, barbecue pork buns, and custard tarts arrive in bamboo steamers alongside pots of jasmine tea. Best visited before 9 AM.",
+        "nl": "Een klassiek Trang dim sum huis waar de Chinese-Thaise culinaire traditie schittert. Gestoomde dumplings, barbecue varkensbroodjes en custardtaartjes komen in bamboestomers samen met kannetjes jasmijnthee. Het beste te bezoeken voor 9 uur."
+      }
+    }
+  ],
+  "top_hotels": [
+    {
+      "name": "Thumrin Thana Hotel",
+      "category": "midrange",
+      "price_range": "$$",
+      "description": {
+        "en": "Trang's largest and most well-known hotel, centrally located with comfortable rooms, a pool, and a popular breakfast buffet. A reliable base for exploring the city and booking island day trips.",
+        "nl": "Trang's grootste en bekendste hotel, centraal gelegen met comfortabele kamers, een zwembad en een populair ontbijtbuffet. Een betrouwbare uitvalsbasis om de stad te verkennen en eilanddagtrips te boeken."
+      }
+    },
+    {
+      "name": "Anantara Si Kao Resort",
+      "category": "luxury",
+      "price_range": "$$$",
+      "description": {
+        "en": "A stunning beachfront resort on the coast between Trang and Krabi. Luxurious rooms overlooking the Andaman Sea, infinity pools, spa, and direct access to island-hopping tours. The best luxury option in the Trang area.",
+        "nl": "Een prachtig strandresort aan de kust tussen Trang en Krabi. Luxe kamers met uitzicht op de Andamanzee, infinity pools, spa en directe toegang tot eilandhopping-tours. De beste luxe optie in het Trang gebied."
+      }
+    },
+    {
+      "name": "Sri Trang Hotel",
+      "category": "budget",
+      "price_range": "$",
+      "description": {
+        "en": "A clean and friendly budget hotel in the city center, within walking distance of the night market and breakfast streets. Simple rooms with air conditioning and hot water at backpacker-friendly prices.",
+        "nl": "Een schoon en vriendelijk budgethotel in het stadscentrum, op loopafstand van de nachtmarkt en ontbijtstraten. Eenvoudige kamers met airconditioning en warm water voor backpacker-vriendelijke prijzen."
+      }
+    },
+    {
+      "name": "Koh Muk Sivalai Beach Resort",
+      "category": "midrange",
+      "price_range": "$$",
+      "description": {
+        "en": "A beachfront resort on Koh Muk island, perfectly positioned for visiting the Emerald Cave. Bungalows sit right on the sand with views across to the mainland mountains. The most atmospheric island stay in the Trang archipelago.",
+        "nl": "Een strandresort op het eiland Koh Muk, perfect gelegen voor een bezoek aan de Smaragd Grot. Bungalows staan direct op het zand met uitzicht op de bergen van het vasteland. Het meest sfeervolle eilandverblijf in de Trang archipel."
+      }
+    },
+    {
+      "name": "My Friend Hostel",
+      "category": "budget",
+      "price_range": "$",
+      "description": {
+        "en": "A small, social hostel popular with backpackers exploring the Trang islands. Helpful staff organize group tours to the Emerald Cave and Koh Kradan, making it easy to meet travel companions.",
+        "nl": "Een klein, gezellig hostel populair bij backpackers die de Trang-eilanden verkennen. Behulpzaam personeel organiseert groepstours naar de Smaragd Grot en Koh Kradan, waardoor het makkelijk is om reisgenoten te ontmoeten."
+      }
+    }
+  ],
+  "travel_tips": [
+    {
+      "title": {
+        "en": "Don't Skip Breakfast",
+        "nl": "Sla het Ontbijt Niet Over"
+      },
+      "content": {
+        "en": "Trang's breakfast culture is legendary. Wake up early and head to Phraram VI Road for moo yang (roasted pork), dim sum, and strong local coffee. This is a once-in-Thailand experience that rivals any meal in Bangkok. Shops close by 10 AM.",
+        "nl": "De ontbijtcultuur van Trang is legendarisch. Sta vroeg op en ga naar Phraram VI Road voor moo yang (geroosterd varkensvlees), dim sum en sterke lokale koffie. Dit is een unieke ervaring in Thailand die elke maaltijd in Bangkok evenaart. Winkels sluiten om 10 uur."
+      }
+    },
+    {
+      "title": {
+        "en": "Island Hopping Strategy",
+        "nl": "Eilandhoppen Strategie"
+      },
+      "content": {
+        "en": "Book island tours from Pak Meng pier (30 min from Trang town). A four-island tour covering Koh Muk, Koh Kradan, Koh Ngai, and Tham Morakot costs 800-1,500 THB. For a deeper experience, stay overnight on Koh Muk or Koh Kradan.",
+        "nl": "Boek eilandtours vanaf Pak Meng pier (30 min van Trang stad). Een vier-eilandentour met Koh Muk, Koh Kradan, Koh Ngai en Tham Morakot kost 800-1.500 THB. Voor een diepere ervaring, overnacht op Koh Muk of Koh Kradan."
+      }
+    },
+    {
+      "title": {
+        "en": "Emerald Cave Timing",
+        "nl": "Smaragd Grot Timing"
+      },
+      "content": {
+        "en": "Visit Tham Morakot (Emerald Cave) during low tide for the easiest swim through the 80-meter cave. Bring a waterproof bag for your camera. The cave can be crowded midday — arrive early or late afternoon for a more magical experience.",
+        "nl": "Bezoek Tham Morakot (Smaragd Grot) tijdens eb voor de makkelijkste zwemtocht door de 80 meter lange grot. Neem een waterdichte tas mee voor je camera. De grot kan druk zijn rond het middaguur — kom vroeg of laat in de middag voor een magischere ervaring."
+      }
+    },
+    {
+      "title": {
+        "en": "Getting Around Trang",
+        "nl": "Vervoer in Trang"
+      },
+      "content": {
+        "en": "The city center is walkable, but you'll need a motorbike (200 THB/day) or tuk-tuk for beaches and piers. Minivans run from Trang to Pak Meng pier hourly. There's no Grab service — negotiate tuk-tuk prices before boarding.",
+        "nl": "Het stadscentrum is bewandelbaar, maar je hebt een motor (200 THB/dag) of tuk-tuk nodig voor stranden en pieren. Minibusjes rijden elk uur van Trang naar Pak Meng pier. Er is geen Grab service — onderhandel tuk-tuk prijzen voordat je instapt."
+      }
+    },
+    {
+      "title": {
+        "en": "Low Season Advantage",
+        "nl": "Laagseizoen Voordeel"
+      },
+      "content": {
+        "en": "Trang's islands are quieter and cheaper from May to October, though seas can be rough. The city itself is great year-round since the food scene never closes. Some island resorts close entirely in low season, so book ahead.",
+        "nl": "Trang's eilanden zijn rustiger en goedkoper van mei tot oktober, hoewel de zee ruw kan zijn. De stad zelf is het hele jaar door geweldig omdat de eetscene nooit sluit. Sommige eilandresorts sluiten helemaal in het laagseizoen, dus boek vooruit."
+      }
+    }
+  ],
+  "best_time_to_visit": {
+    "en": "November to April offers the best weather for island hopping with calm seas and sunny skies. December to February is peak season. The city's food scene is excellent year-round. May to October brings rain and rougher seas, but lower prices and fewer tourists on the islands.",
+    "nl": "November tot april biedt het beste weer voor eilandhoppen met kalme zeeën en zonnige luchten. December tot februari is het hoogseizoen. De eetscene van de stad is het hele jaar door uitstekend. Mei tot oktober brengt regen en ruwere zeeën, maar lagere prijzen en minder toeristen op de eilanden."
+  },
+  "budget_info": {
+    "budget_per_day": {
+      "en": "$15-25",
+      "nl": "$15-25"
+    },
+    "midrange_per_day": {
+      "en": "$40-70",
+      "nl": "$40-70"
+    },
+    "luxury_per_day": {
+      "en": "$120+",
+      "nl": "$120+"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": 1, "slug": "koh-samet", "name": { "en": "Koh Samet Island", "nl": "Koh Samet Eiland" },
+  "type": "nature", "city_slug": "rayong", "address": "Koh Samet, Phe, Mueang Rayong, Rayong 21160",
+  "location": { "lat": 12.5667, "lng": 101.4500 }, "opening_hours": "Accessible year-round via ferry from Ban Phe",
+  "entrance_fee": { "thb": 200, "usd": 6 },
+  "description": { "en": "Popular island with white sand beaches, crystal-clear water, and lively beachfront bars accessible from Ban Phe", "nl": "Populair eiland met witte zandstranden, kristalhelder water en levendige strandbars, bereikbaar vanuit Ban Phe" },
+  "highlights": ["White sand beaches", "Crystal-clear water", "Beachfront nightlife", "National park island"],
+  "image": "/images/cities/phuket/phuket-old-town.webp", "official_website": null,
+  "seo": { "metaTitle": { "en": "Koh Samet - Top Attraction in Rayong | Go2Thailand", "nl": "Koh Samet - Top Attractie in Rayong | Go2Thailand" }, "metaDescription": { "en": "Discover Koh Samet, a popular island with white sand beaches near Rayong...", "nl": "Ontdek Koh Samet, een populair eiland met witte zandstranden bij Rayong..." } },
+  "tags": ["nature", "rayong", "thailand", "attraction", "travel", "tourism"]
+}

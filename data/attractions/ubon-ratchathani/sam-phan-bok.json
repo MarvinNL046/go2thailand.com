@@ -1,0 +1,14 @@
+{
+  "id": 2, "slug": "sam-phan-bok",
+  "name": { "en": "Sam Phan Bok (3000 Holes)", "nl": "Sam Phan Bok (3000 Gaten)" },
+  "type": "nature", "city_slug": "ubon-ratchathani",
+  "address": "Sam Phan Bok, Pho Sai, Ubon Ratchathani 34340",
+  "location": { "lat": 15.5700, "lng": 105.5500 },
+  "opening_hours": "Daylight hours (December-May only)",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Often called the Grand Canyon of Thailand, Sam Phan Bok is a section of the Mekong riverbed carved by millennia of erosion into thousands of potholes, channels, and rock formations. The site is only visible when the Mekong water level drops during the dry season (December-May), revealing a lunar landscape of turquoise pools and sculpted rock with Laos visible across the river.", "nl": "Vaak de Grand Canyon van Thailand genoemd, Sam Phan Bok is een deel van de Mekong-rivierbedding uitgesleten door millennia van erosie tot duizenden gaten, kanalen en rotsformaties. De locatie is alleen zichtbaar wanneer het Mekong-waterpeil daalt tijdens het droge seizoen (december-mei), wat een maanlandschap van turquoise poelen en gebeeldhouwd gesteente onthult met Laos zichtbaar aan de overkant." },
+  "highlights": ["Grand Canyon of Thailand", "Thousands of eroded rock holes", "Turquoise natural pools", "Dry season only (Dec-May)"],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
+  "seo": { "metaTitle": { "en": "Sam Phan Bok - Grand Canyon of Thailand | Go2Thailand", "nl": "Sam Phan Bok - Grand Canyon van Thailand | Go2Thailand" }, "metaDescription": { "en": "Visit Sam Phan Bok, the Grand Canyon of Thailand. Thousands of eroded rock holes in the Mekong riverbed, visible December to May.", "nl": "Bezoek Sam Phan Bok, de Grand Canyon van Thailand. Duizenden geërodeerde rotsgaten in de Mekong-rivierbedding, zichtbaar van december tot mei." } },
+  "tags": ["nature", "ubon-ratchathani", "thailand", "attraction", "travel", "tourism"]
+}

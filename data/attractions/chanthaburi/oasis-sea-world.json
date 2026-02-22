@@ -1,0 +1,14 @@
+{
+  "id": 5, "slug": "oasis-sea-world",
+  "name": { "en": "Oasis Sea World", "nl": "Oasis Sea World" },
+  "type": "nature", "city_slug": "chanthaburi",
+  "address": "Oasis Sea World, Laem Sing, Chanthaburi 22130",
+  "location": { "lat": 12.4600, "lng": 102.0800 },
+  "opening_hours": "9:00 AM - 5:00 PM",
+  "entrance_fee": { "thb": 200, "usd": 6 },
+  "description": { "en": "A marine conservation center and aquarium featuring a sea turtle breeding and rehabilitation program. The center educates visitors about Gulf of Thailand marine life, coral reef conservation, and sea turtle protection. Family-friendly with touch pools and educational exhibits about local ocean ecosystems.", "nl": "Een marien beschermingscentrum en aquarium met een zeeschildpadden kweek- en rehabilitatieprogramma. Het centrum informeert bezoekers over het zeeleven in de Golf van Thailand, koraalrif bescherming en zeeschildpadden bescherming. Gezinsvriendelijk met aanraakbaden en educatieve tentoonstellingen over lokale oceaan-ecosystemen." },
+  "highlights": ["Sea turtle breeding program", "Marine aquarium", "Educational exhibits", "Family-friendly"],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
+  "seo": { "metaTitle": { "en": "Oasis Sea World - Marine Conservation Chanthaburi | Go2Thailand", "nl": "Oasis Sea World - Marien Behoud Chanthaburi | Go2Thailand" }, "metaDescription": { "en": "Visit Oasis Sea World in Chanthaburi. Sea turtle conservation, marine aquarium, and educational exhibits about Gulf of Thailand marine life.", "nl": "Bezoek Oasis Sea World in Chanthaburi. Zeeschildpadden bescherming, marien aquarium en educatieve tentoonstellingen over het zeeleven in de Golf van Thailand." } },
+  "tags": ["nature", "chanthaburi", "thailand", "attraction", "travel", "tourism"]
+}

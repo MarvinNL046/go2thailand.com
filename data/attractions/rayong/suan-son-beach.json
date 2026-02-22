@@ -1,0 +1,11 @@
+{
+  "id": 9, "slug": "suan-son-beach", "name": { "en": "Suan Son Beach (Pine Beach)", "nl": "Suan Son Strand (Dennenstrand)" },
+  "type": "beach", "city_slug": "rayong", "address": "Suan Son, Phe, Mueang Rayong, Rayong 21160",
+  "location": { "lat": 12.5917, "lng": 101.3861 }, "opening_hours": "06:00-20:00",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Military-maintained beach with casuarina pines providing natural shade, popular with Thai families on weekends", "nl": "Door het leger onderhouden strand met casuarinadennen die natuurlijke schaduw bieden, populair bij Thaise gezinnen in het weekend" },
+  "highlights": ["Natural pine tree shade", "Clean maintained beach", "Calm water", "Thai family-friendly"],
+  "image": "/images/cities/phuket/phuket-old-town.webp", "official_website": null,
+  "seo": { "metaTitle": { "en": "Suan Son Beach - Top Attraction in Rayong | Go2Thailand", "nl": "Suan Son Strand - Top Attractie in Rayong | Go2Thailand" }, "metaDescription": { "en": "Discover Suan Son Beach in Rayong. Pine-shaded beach popular with Thai families...", "nl": "Ontdek Suan Son Strand in Rayong. Dennenbeschaduwd strand populair bij Thaise gezinnen..." } },
+  "tags": ["beach", "rayong", "thailand", "attraction", "travel", "tourism"]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "slug": "yun-lai-viewpoint",
+  "name": {
+    "en": "Yun Lai Viewpoint",
+    "nl": "Yun Lai Uitkijkpunt"
+  },
+  "type": "nature",
+  "city_slug": "pai",
+  "address": "Ban Santichon, Tambon Mae Hi, Amphoe Pai, Mae Hong Son 58130",
+  "location": {
+    "lat": 19.3444,
+    "lng": 98.4612
+  },
+  "opening_hours": "05:30-18:00 daily",
+  "entrance_fee": {
+    "thb": 20,
+    "usd": 1
+  },
+  "description": {
+    "en": "Panoramic sunrise viewpoint above the Chinese Village with sweeping views over the misty Pai valley and Chinese tea service at the summit.",
+    "nl": "Panoramisch zonsopgang-uitkijkpunt boven het Chinese Dorp met wijds uitzicht over de mistige Pai-vallei en Chinese theeservice op de top."
+  },
+  "highlights": [
+    "Sunrise panorama",
+    "Chinese tea service",
+    "Valley mist views",
+    "Photography spot"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Yun Lai Viewpoint - Top Attraction in Pai | Go2Thailand",
+      "nl": "Yun Lai Uitkijkpunt - Top Attractie in Pai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Yun Lai Viewpoint in Pai. Panoramic sunrise viewpoint with sweeping valley mist views and Chinese tea.",
+      "nl": "Ontdek Yun Lai Uitkijkpunt in Pai. Panoramisch zonsopgang-uitkijkpunt met wijds uitzicht en Chinese thee."
+    }
+  },
+  "tags": [
+    "nature",
+    "pai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5, "slug": "prince-of-chumphon-shrine",
+  "name": { "en": "Prince of Chumphon Memorial Shrine", "nl": "Prins van Chumphon Gedenkteken" },
+  "type": "cultural", "city_slug": "chumphon",
+  "address": "Hat Sai Ri, Sapli, Mueang Chumphon, Chumphon 86000",
+  "location": { "lat": 10.5180, "lng": 99.2050 },
+  "opening_hours": "8:00 AM - 5:00 PM",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": {
+    "en": "A monument and shrine on a hilltop overlooking Sapli Beach, dedicated to Prince Abhakara Kiartivongse, known as the Father of the Royal Thai Navy. The prince is deeply revered in Chumphon province. The shrine features a statue, naval museum, and panoramic views of the Gulf of Thailand coastline.",
+    "nl": "Een monument en heiligdom op een heuveltop met uitzicht over Sapli Beach, gewijd aan Prins Abhakara Kiartivongse, bekend als de Vader van de Koninklijke Thaise Marine. De prins wordt diep vereerd in de provincie Chumphon. Het heiligdom heeft een standbeeld, marinmuseum en panoramisch uitzicht over de kustlijn van de Golf van Thailand."
+  },
+  "highlights": ["Royal Thai Navy history", "Hilltop monument", "Gulf of Thailand views", "Naval museum"],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": { "en": "Prince of Chumphon Shrine - Navy History | Go2Thailand", "nl": "Prins van Chumphon Heiligdom - Marine Geschiedenis | Go2Thailand" },
+    "metaDescription": { "en": "Visit the Prince of Chumphon Memorial Shrine. A hilltop monument to the Father of the Royal Thai Navy with panoramic Gulf views.", "nl": "Bezoek het Prins van Chumphon Gedenkteken. Een heuvelmonument voor de Vader van de Koninklijke Thaise Marine met panoramisch Golfuitzicht." }
+  },
+  "tags": ["cultural", "chumphon", "thailand", "attraction", "travel", "tourism"]
+}

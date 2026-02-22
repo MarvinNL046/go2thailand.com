@@ -1,0 +1,58 @@
+{
+  "id": 25,
+  "slug": "nakhon-si-thammarat",
+  "name": {
+    "en": "Nakhon Si Thammarat",
+    "nl": "Nakhon Si Thammarat"
+  },
+  "region": "Southern",
+  "province": "Nakhon Si Thammarat",
+  "description": {
+    "en": "One of the oldest cities in southern Thailand, a cultural treasure with magnificent temples, traditional shadow puppetry, and Khao Luang National Park. Far from the tourist trail.",
+    "nl": "Een van de oudste steden in Zuid-Thailand, een culturele schat met prachtige tempels, traditioneel schaduwpoppenspel en Khao Luang Nationaal Park. Ver van het toeristische pad."
+  },
+  "population": 105000,
+  "highlights": [
+    "Wat Phra Mahathat",
+    "Kiriwong Village",
+    "Shadow Puppet Museum",
+    "Khao Luang National Park"
+  ],
+  "location": {
+    "lat": 8.4304,
+    "lng": 99.9631
+  },
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Nakhon Si Thammarat | What to do in Nakhon Si Thammarat?",
+      "nl": "Ontdek Nakhon Si Thammarat | Wat te doen in Nakhon Si Thammarat?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Nakhon Si Thammarat, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Nakhon Si Thammarat, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Nakhon Si Thammarat",
+      "nl": "Beste restaurants en streetfood in Nakhon Si Thammarat"
+    },
+    "hotels": {
+      "en": "Top hotels in Nakhon Si Thammarat | Tips & deals",
+      "nl": "Beste hotels in Nakhon Si Thammarat | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Nakhon Si Thammarat",
+      "nl": "Top bezienswaardigheden in Nakhon Si Thammarat"
+    }
+  },
+  "tags": [
+    "southern",
+    "nakhon si thammarat",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

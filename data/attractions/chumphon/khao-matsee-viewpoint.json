@@ -1,0 +1,21 @@
+{
+  "id": 7, "slug": "khao-matsee-viewpoint",
+  "name": { "en": "Khao Matsee Viewpoint", "nl": "Khao Matsee Uitkijkpunt" },
+  "type": "nature", "city_slug": "chumphon",
+  "address": "Pak Nam, Mueang Chumphon, Chumphon 86120",
+  "location": { "lat": 10.4500, "lng": 99.2100 },
+  "opening_hours": "24/7",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": {
+    "en": "A hilltop viewpoint near Pak Nam Chumphon offering panoramic views of the coastline, river estuary, and offshore islands. Best visited at sunset when the Gulf of Thailand turns golden. Rarely visited by anyone except local joggers and couples, making it one of the most peaceful sunset spots on the Gulf coast.",
+    "nl": "Een heuvel-uitkijkpunt bij Pak Nam Chumphon met panoramisch uitzicht over de kustlijn, riviermonding en eilanden. Het beste te bezoeken bij zonsondergang wanneer de Golf van Thailand goud kleurt. Zelden bezocht door iemand anders dan lokale joggers en stellen, waardoor het een van de meest vredige zonsondergangplekken aan de Golfkust is."
+  },
+  "highlights": ["Panoramic sunset views", "Coastline and island views", "Rarely visited", "Photography spot"],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": { "en": "Khao Matsee Viewpoint - Chumphon Sunset Views | Go2Thailand", "nl": "Khao Matsee Uitkijkpunt - Chumphon Zonsondergang | Go2Thailand" },
+    "metaDescription": { "en": "Visit Khao Matsee Viewpoint in Chumphon. Panoramic sunset views of the coastline and Gulf islands from a peaceful hilltop.", "nl": "Bezoek Khao Matsee Uitkijkpunt in Chumphon. Panoramische zonsondergangvistas van de kustlijn en Golfeilanden vanaf een vredige heuveltop." }
+  },
+  "tags": ["nature", "chumphon", "thailand", "attraction", "travel", "tourism"]
+}

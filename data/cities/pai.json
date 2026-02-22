@@ -1,0 +1,58 @@
+{
+  "id": 11,
+  "slug": "pai",
+  "name": {
+    "en": "Pai",
+    "nl": "Pai"
+  },
+  "region": "Northern",
+  "province": "Mae Hong Son",
+  "description": {
+    "en": "Bohemian mountain town in a valley surrounded by misty peaks, the ultimate backpacker paradise in northern Thailand with canyon viewpoints, hot springs, and vibrant night market.",
+    "nl": "Bohemien bergstadje in een vallei omringd door mistige bergtoppen, het ultieme backpackersparadijs in Noord-Thailand met canyonuitzichten, warmwaterbronnen en levendige nachtmarkt."
+  },
+  "population": 2200,
+  "highlights": [
+    "Pai Canyon",
+    "Pai Walking Street",
+    "Pai Hot Springs",
+    "Bamboo Bridge"
+  ],
+  "location": {
+    "lat": 19.3622,
+    "lng": 98.4406
+  },
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Pai | What to do in Pai?",
+      "nl": "Ontdek Pai | Wat te doen in Pai?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Pai, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Pai, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Pai",
+      "nl": "Beste restaurants en streetfood in Pai"
+    },
+    "hotels": {
+      "en": "Top hotels in Pai | Tips & deals",
+      "nl": "Beste hotels in Pai | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Pai",
+      "nl": "Top bezienswaardigheden in Pai"
+    }
+  },
+  "tags": [
+    "northern",
+    "mae hong son",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

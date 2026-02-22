@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "slug": "korat-night-market",
+  "name": {
+    "en": "Korat Night Market (Ya Mo Area)",
+    "nl": "Korat Nachtmarkt (Ya Mo Gebied)"
+  },
+  "type": "market",
+  "city_slug": "nakhon-ratchasima",
+  "address": "Around Thao Suranaree Monument, Chumphon Road, Amphoe Muang, Nakhon Ratchasima 30000",
+  "location": {
+    "lat": 14.9775,
+    "lng": 102.1040
+  },
+  "opening_hours": "17:00-23:00 daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Bustling evening market around the Thao Suranaree Monument with dozens of food stalls serving pad mee Korat, moo yor sausage, grilled chicken, som tum, and Korat-style sweets. The festive center of city nightlife.",
+    "nl": "Bruisende avondmarkt rondom het Thao Suranaree Monument met tientallen etensstalletjes die pad mee Korat, moo yor worst, gegrilde kip, som tum en Korat-stijl zoetigheden serveren. Het feestelijke centrum van het stadsnachtleven."
+  },
+  "highlights": [
+    "Pad mee Korat noodles",
+    "Moo yor sausage specialty",
+    "Festive Ya Mo atmosphere",
+    "Dozens of food stalls"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Korat Night Market - Top Attraction in Nakhon Ratchasima | Go2Thailand",
+      "nl": "Korat Nachtmarkt - Top Attractie in Nakhon Ratchasima | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Korat Night Market at Ya Mo Monument. Bustling evening market with pad mee Korat and local specialties.",
+      "nl": "Ontdek Korat Nachtmarkt bij Ya Mo Monument. Bruisende avondmarkt met pad mee Korat en lokale specialiteiten."
+    }
+  },
+  "tags": [
+    "market",
+    "nakhon-ratchasima",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

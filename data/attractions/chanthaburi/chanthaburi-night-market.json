@@ -1,0 +1,14 @@
+{
+  "id": 9, "slug": "chanthaburi-night-market",
+  "name": { "en": "Chanthaburi Night Market", "nl": "Chanthaburi Nachtmarkt" },
+  "type": "market", "city_slug": "chanthaburi",
+  "address": "Khlong Phrao Road, Mueang Chanthaburi, Chanthaburi 22000",
+  "location": { "lat": 12.6120, "lng": 102.1000 },
+  "opening_hours": "5:00 PM - 10:00 PM",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "An evening food market where Chanthaburi's diverse culinary heritage shines through. Stalls serve grilled seafood from the coast, Vietnamese spring rolls and noodle soups, Chinese-style roast duck, Thai curries, and every tropical fruit imaginable during fruit season. The multicultural food scene reflects the city's Thai, Vietnamese, and Chinese communities.", "nl": "Een avondvoedselmarkt waar het diverse culinaire erfgoed van Chanthaburi doorschijnt. Kramen serveren gegrilde zeevruchten van de kust, Vietnamese loempia's en noedelsoepen, Chinese stijl geroosterde eend, Thaise curry's en elk denkbaar tropisch fruit tijdens het fruitseizoen. De multiculturele eetscene weerspiegelt de Thaise, Vietnamese en Chinese gemeenschappen van de stad." },
+  "highlights": ["Multicultural cuisine", "Vietnamese spring rolls", "Grilled coastal seafood", "Tropical fruit stalls"],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
+  "seo": { "metaTitle": { "en": "Chanthaburi Night Market - Multicultural Food | Go2Thailand", "nl": "Chanthaburi Nachtmarkt - Multicultureel Eten | Go2Thailand" }, "metaDescription": { "en": "Experience the Chanthaburi Night Market. Thai, Vietnamese, and Chinese street food reflecting the city's diverse culinary heritage.", "nl": "Ervaar de Chanthaburi Nachtmarkt. Thais, Vietnamees en Chinees straatvoedsel dat het diverse culinaire erfgoed van de stad weerspiegelt." } },
+  "tags": ["market", "chanthaburi", "thailand", "attraction", "travel", "tourism"]
+}

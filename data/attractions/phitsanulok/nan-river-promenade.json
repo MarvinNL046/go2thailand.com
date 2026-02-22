@@ -1,0 +1,18 @@
+{
+  "id": 3, "slug": "nan-river-promenade",
+  "name": { "en": "Nan River Promenade", "nl": "Nan Rivier Promenade" },
+  "type": "nature", "city_slug": "phitsanulok",
+  "address": "Along the Nan River, Nai Mueang, Mueang Phitsanulok 65000",
+  "location": { "lat": 16.8205, "lng": 100.2610 },
+  "opening_hours": "Open 24 hours",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Scenic tree-lined riverside walkway between the bridges, popular for evening walks and dining", "nl": "Schilderachtig met bomen omzoomd wandelpad langs de rivier, populair voor avondwandelingen en dineren" },
+  "highlights": ["Evening walks", "Riverside food stalls", "Temple reflections", "Sunset views"],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "Nan River Promenade - Top Attraction in Phitsanulok | Go2Thailand", "nl": "Nan Rivier Promenade - Top Attractie in Phitsanulok | Go2Thailand" },
+    "metaDescription": { "en": "Discover the Nan River Promenade in Phitsanulok. Scenic riverside walks and dining...", "nl": "Ontdek de Nan Rivier Promenade in Phitsanulok. Schilderachtige rivierwandelingen en dineren..." }
+  },
+  "tags": ["nature", "phitsanulok", "thailand", "attraction", "travel", "tourism"]
+}

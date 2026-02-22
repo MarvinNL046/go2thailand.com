@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "lamai-beach",
+  "name": {
+    "en": "Lamai Beach",
+    "nl": "Lamai Beach"
+  },
+  "type": "beach",
+  "city_slug": "koh-samui",
+  "address": "Lamai Beach, Maret, Koh Samui, Surat Thani 84310",
+  "location": {
+    "lat": 9.4667,
+    "lng": 100.0500
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Koh Samui's second most popular beach offers a more relaxed atmosphere than Chaweng with great swimming, dining, and the famous Hin Ta and Hin Yai (Grandfather and Grandmother) rock formations at its southern end — naturally shaped rocks that have become one of Samui's most photographed landmarks.",
+    "nl": "Het op een na populairste strand van Koh Samui biedt een meer ontspannen sfeer dan Chaweng met geweldig zwemmen, uit eten gaan en de beroemde Hin Ta en Hin Yai (Grootvader en Grootmoeder) rotsformaties aan het zuidelijke uiteinde — natuurlijk gevormde rotsen die een van Samui's meest gefotografeerde bezienswaardigheden zijn geworden."
+  },
+  "highlights": [
+    "Hin Ta and Hin Yai rock formations",
+    "Relaxed beach atmosphere",
+    "Good swimming and snorkeling",
+    "Beachfront restaurants"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Lamai Beach - Koh Samui's Relaxed Beach | Go2Thailand",
+      "nl": "Lamai Beach - Koh Samui's Ontspannen Strand | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Lamai Beach on Koh Samui. Relaxed atmosphere, Hin Ta Hin Yai rock formations, and great swimming on Samui's second-largest beach.",
+      "nl": "Ontdek Lamai Beach op Koh Samui. Ontspannen sfeer, Hin Ta Hin Yai rotsformaties en geweldig zwemmen op Samui's op een na grootste strand."
+    }
+  },
+  "tags": [
+    "beach",
+    "koh-samui",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

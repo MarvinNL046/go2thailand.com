@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "na-muang-waterfall",
+  "name": {
+    "en": "Na Muang Waterfall",
+    "nl": "Na Muang Waterval"
+  },
+  "type": "nature",
+  "city_slug": "koh-samui",
+  "address": "Na Muang, Koh Samui, Surat Thani 84140",
+  "location": {
+    "lat": 9.4650,
+    "lng": 100.0050
+  },
+  "opening_hours": "8:00 AM - 5:30 PM",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Two beautiful waterfalls in the mountainous interior of Koh Samui. Na Muang 1 is easily accessible with an 18-meter cascade into a natural swimming pool. Na Muang 2 requires a 30-minute jungle hike uphill but rewards with a more secluded waterfall and panoramic views of the surrounding forest.",
+    "nl": "Twee prachtige watervallen in het bergachtige binnenland van Koh Samui. Na Muang 1 is makkelijk bereikbaar met een 18 meter hoge cascade in een natuurlijk zwembad. Na Muang 2 vereist een 30 minuten durende jungle-wandeling bergop maar beloont met een meer afgelegen waterval en panoramisch uitzicht op het omringende bos."
+  },
+  "highlights": [
+    "Natural swimming pool",
+    "Jungle hiking trail",
+    "Two waterfall levels",
+    "Mountain scenery"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Na Muang Waterfall - Koh Samui Nature | Go2Thailand",
+      "nl": "Na Muang Waterval - Koh Samui Natuur | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Visit Na Muang Waterfall on Koh Samui. Two beautiful waterfalls with natural swimming pools in the island's lush jungle interior.",
+      "nl": "Bezoek Na Muang Waterval op Koh Samui. Twee prachtige watervallen met natuurlijke zwembaden in het weelderige jungle-binnenland van het eiland."
+    }
+  },
+  "tags": [
+    "nature",
+    "koh-samui",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

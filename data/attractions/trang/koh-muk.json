@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "koh-muk",
+  "name": {
+    "en": "Koh Muk (Koh Mook)",
+    "nl": "Koh Muk (Koh Mook)"
+  },
+  "type": "nature",
+  "city_slug": "trang",
+  "address": "Koh Muk, Kantang, Trang 92110",
+  "location": {
+    "lat": 7.3700,
+    "lng": 99.3000
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A small island off the Trang coast, home to the famous Emerald Cave and a traditional Muslim fishing village. The island has a handful of guesthouses, quiet beaches on the western shore, rubber plantations inland, and a relaxed atmosphere that attracts visitors seeking a slower pace of island life.",
+    "nl": "Een klein eiland voor de kust van Trang, thuisbasis van de beroemde Smaragd Grot en een traditioneel moslim vissersdorp. Het eiland heeft een handvol pensions, rustige stranden aan de westkust, rubberplantages in het binnenland en een ontspannen sfeer die bezoekers aantrekt die een rustiger eilandleven zoeken."
+  },
+  "highlights": [
+    "Emerald Cave (Tham Morakot)",
+    "Muslim fishing village",
+    "Quiet western beaches",
+    "Affordable guesthouses"
+  ],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Muk - Home of the Emerald Cave | Go2Thailand",
+      "nl": "Koh Muk - Thuisbasis van de Smaragd Grot | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Koh Muk in Trang. Home to the famous Emerald Cave, a traditional fishing village, and quiet beaches on an unspoiled island.",
+      "nl": "Ontdek Koh Muk in Trang. Thuisbasis van de beroemde Smaragd Grot, een traditioneel vissersdorp en rustige stranden op een ongerept eiland."
+    }
+  },
+  "tags": [
+    "nature",
+    "trang",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 9, "slug": "thung-salaeng-luang-national-park",
+  "name": { "en": "Thung Salaeng Luang National Park", "nl": "Thung Salaeng Luang Nationaal Park" },
+  "type": "nature", "city_slug": "phitsanulok",
+  "address": "Wang Thong-Lom Sak Road, Noen Maprang, Phitsanulok 65190",
+  "location": { "lat": 16.5833, "lng": 100.8500 },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": { "thb": 200, "usd": 6 },
+  "description": { "en": "Vast savanna grassland national park southeast of the city with pine forests, waterfalls, and wild elephants", "nl": "Uitgestrekt nationaal park met savannegrasland ten zuidoosten van de stad met dennenbossen, watervallen en wilde olifanten" },
+  "highlights": ["Savanna grasslands", "Wild elephants", "Pine forests", "Kaeng Sopha Waterfall"],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": "https://portal.dnp.go.th/",
+  "seo": {
+    "metaTitle": { "en": "Thung Salaeng Luang National Park - Top Attraction near Phitsanulok | Go2Thailand", "nl": "Thung Salaeng Luang Nationaal Park - Top Attractie bij Phitsanulok | Go2Thailand" },
+    "metaDescription": { "en": "Discover Thung Salaeng Luang near Phitsanulok. Vast savanna with wild elephants and pine forests...", "nl": "Ontdek Thung Salaeng Luang bij Phitsanulok. Uitgestrekte savanne met wilde olifanten en dennenbossen..." }
+  },
+  "tags": ["nature", "phitsanulok", "thailand", "attraction", "travel", "tourism"]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2, "slug": "sergeant-major-thawee-folk-museum",
+  "name": { "en": "Sergeant Major Thawee Folk Museum", "nl": "Sergeant-Majoor Thawee Volkskundemuseum" },
+  "type": "museum", "city_slug": "phitsanulok",
+  "address": "26/43 Wisut Kasat Road, Nai Mueang, Mueang Phitsanulok, Phitsanulok 65000",
+  "location": { "lat": 16.8200, "lng": 100.2637 },
+  "opening_hours": "08:30-16:30",
+  "entrance_fee": { "thb": 50, "usd": 1 },
+  "description": { "en": "Charming personal collection of rural Thai life artifacts assembled over decades by a retired military officer", "nl": "Charmante persoonlijke collectie van artefacten uit het Thaise plattelandsleven, verzameld door een gepensioneerd militair" },
+  "highlights": ["Thousands of rural artifacts", "Traditional wooden building", "Personal labor of love", "Unique folk museum"],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "Thawee Folk Museum - Top Attraction in Phitsanulok | Go2Thailand", "nl": "Thawee Volkskundemuseum - Top Attractie in Phitsanulok | Go2Thailand" },
+    "metaDescription": { "en": "Discover the Thawee Folk Museum in Phitsanulok. Charming collection of rural Thai artifacts...", "nl": "Ontdek het Thawee Volkskundemuseum in Phitsanulok. Charmante collectie van Thaise plattelandsartefacten..." }
+  },
+  "tags": ["museum", "phitsanulok", "thailand", "attraction", "travel", "tourism"]
+}

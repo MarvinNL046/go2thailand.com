@@ -1,0 +1,58 @@
+{
+  "id": 23,
+  "slug": "rayong",
+  "name": {
+    "en": "Rayong",
+    "nl": "Rayong"
+  },
+  "region": "Central",
+  "province": "Rayong",
+  "description": {
+    "en": "Coastal province east of Bangkok, gateway to the popular island of Koh Samet. Famous for tropical fruit orchards, long sandy beaches, fresh seafood, and relaxed atmosphere.",
+    "nl": "Kustprovincie ten oosten van Bangkok, toegangspoort tot het populaire eiland Koh Samet. Beroemd om tropische fruitboomgaarden, lange zandstranden, verse zeevruchten en ontspannen sfeer."
+  },
+  "population": 65000,
+  "highlights": [
+    "Koh Samet",
+    "Mae Ramphueng Beach",
+    "Rayong Aquarium",
+    "Fruit Orchards"
+  ],
+  "location": {
+    "lat": 12.6814,
+    "lng": 101.2816
+  },
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Rayong | What to do in Rayong?",
+      "nl": "Ontdek Rayong | Wat te doen in Rayong?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Rayong, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Rayong, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Rayong",
+      "nl": "Beste restaurants en streetfood in Rayong"
+    },
+    "hotels": {
+      "en": "Top hotels in Rayong | Tips & deals",
+      "nl": "Beste hotels in Rayong | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Rayong",
+      "nl": "Top bezienswaardigheden in Rayong"
+    }
+  },
+  "tags": [
+    "central",
+    "rayong",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

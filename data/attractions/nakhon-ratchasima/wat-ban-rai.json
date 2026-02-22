@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "wat-ban-rai",
+  "name": {
+    "en": "Wat Ban Rai (Elephant Temple)",
+    "nl": "Wat Ban Rai (Olifantentempel)"
+  },
+  "type": "temple",
+  "city_slug": "nakhon-ratchasima",
+  "address": "Tambon Kut Phiman, Amphoe Dan Khun Thot, Nakhon Ratchasima 30210",
+  "location": {
+    "lat": 15.2100,
+    "lng": 101.7600
+  },
+  "opening_hours": "08:00-17:00 daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Surreal temple built in the shape of a giant elephant, covered in intricate ceramic mosaics depicting Buddhist stories. The interior is a masterpiece of Thai folk art with colorful murals and spiritual symbolism. One of Thailand's most visually stunning temples.",
+    "nl": "Surrealistisch tempel gebouwd in de vorm van een reusachtige olifant, bedekt met ingewikkelde keramische mozaieken die boeddhistische verhalen uitbeelden. Het interieur is een meesterwerk van Thaise volkskunst met kleurrijke muurschilderingen en spiritueel symbolisme. Een van Thailand's visueel meest verbluffende tempels."
+  },
+  "highlights": [
+    "Giant elephant-shaped building",
+    "Intricate ceramic mosaics",
+    "Buddhist folk art interior",
+    "Unique in Thailand"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Ban Rai Elephant Temple - Top Attraction in Nakhon Ratchasima | Go2Thailand",
+      "nl": "Wat Ban Rai Olifantentempel - Top Attractie in Nakhon Ratchasima | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Ban Rai near Nakhon Ratchasima. Surreal elephant-shaped temple covered in ceramic mosaics and Buddhist folk art.",
+      "nl": "Ontdek Wat Ban Rai bij Nakhon Ratchasima. Surrealistisch olifantvormig tempel bedekt met keramische mozaieken en boeddhistische volkskunst."
+    }
+  },
+  "tags": [
+    "temple",
+    "nakhon-ratchasima",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

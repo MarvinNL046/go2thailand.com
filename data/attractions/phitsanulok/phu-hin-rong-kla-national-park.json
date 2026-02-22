@@ -1,0 +1,18 @@
+{
+  "id": 7, "slug": "phu-hin-rong-kla-national-park",
+  "name": { "en": "Phu Hin Rong Kla National Park", "nl": "Phu Hin Rong Kla Nationaal Park" },
+  "type": "nature", "city_slug": "phitsanulok",
+  "address": "Nakhon Thai District, Phitsanulok 65120",
+  "location": { "lat": 16.9833, "lng": 100.9833 },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": { "thb": 200, "usd": 6 },
+  "description": { "en": "Highland national park with surreal rock formations, cool climate, and former Communist insurgent base ruins", "nl": "Hooglanden nationaal park met surrealistische rotsformaties, koel klimaat en ruines van een voormalige communistische basis" },
+  "highlights": ["Lan Hin Taek rock formations", "Communist headquarters ruins", "Cool mountain climate", "Highland hiking"],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": "https://portal.dnp.go.th/",
+  "seo": {
+    "metaTitle": { "en": "Phu Hin Rong Kla National Park - Top Attraction near Phitsanulok | Go2Thailand", "nl": "Phu Hin Rong Kla Nationaal Park - Top Attractie bij Phitsanulok | Go2Thailand" },
+    "metaDescription": { "en": "Discover Phu Hin Rong Kla near Phitsanulok. Highland park with surreal rock formations...", "nl": "Ontdek Phu Hin Rong Kla bij Phitsanulok. Hooglanden park met surrealistische rotsformaties..." }
+  },
+  "tags": ["nature", "phitsanulok", "thailand", "attraction", "travel", "tourism"]
+}

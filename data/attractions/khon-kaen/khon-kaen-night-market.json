@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "khon-kaen-night-market",
+  "name": {
+    "en": "Khon Kaen Night Market (Fairy Plaza)",
+    "nl": "Khon Kaen Nachtmarkt (Fairy Plaza)"
+  },
+  "type": "market",
+  "city_slug": "khon-kaen",
+  "address": "Klang Muang Road, Tambon Nai Mueang, Amphoe Muang, Khon Kaen 40000",
+  "location": {
+    "lat": 16.4350,
+    "lng": 102.8280
+  },
+  "opening_hours": "17:00-23:00 daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Massive night market behind Fairy Plaza serving the most authentic Isaan street food in the city. Fiery som tum, juicy gai yang, sticky rice, larb, and fresh river fish in a bustling local atmosphere.",
+    "nl": "Enorme nachtmarkt achter Fairy Plaza met de meest authentieke Isaan-streetfood van de stad. Vurige som tum, sappige gai yang, sticky rice, larb en verse riviervis in een bruisende lokale sfeer."
+  },
+  "highlights": [
+    "Authentic Isaan street food",
+    "Som tum and gai yang",
+    "Local night atmosphere",
+    "Dozens of food stalls"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Khon Kaen Night Market - Top Attraction in Khon Kaen | Go2Thailand",
+      "nl": "Khon Kaen Nachtmarkt - Top Attractie in Khon Kaen | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Khon Kaen Night Market at Fairy Plaza. Authentic Isaan street food including som tum, gai yang and sticky rice.",
+      "nl": "Ontdek Khon Kaen Nachtmarkt bij Fairy Plaza. Authentieke Isaan-streetfood waaronder som tum, gai yang en sticky rice."
+    }
+  },
+  "tags": [
+    "market",
+    "khon-kaen",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

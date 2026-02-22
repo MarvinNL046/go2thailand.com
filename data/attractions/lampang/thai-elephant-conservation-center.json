@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "thai-elephant-conservation-center",
+  "name": {
+    "en": "Thai Elephant Conservation Center",
+    "nl": "Thais Olifantenopvangcentrum"
+  },
+  "type": "nature",
+  "city_slug": "lampang",
+  "address": "Km. 28-29 Lampang-Chiang Mai Highway, Amphoe Hang Chat, Lampang 52190",
+  "location": {
+    "lat": 18.3697,
+    "lng": 99.2584
+  },
+  "opening_hours": "08:00-15:30 daily (shows at 10:00 and 11:00)",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "Thailand's oldest and most respected government-run elephant facility focused on veterinary care, rehabilitation, and breeding. Features an elephant hospital, mahout training programs, and elephant art workshops. No riding is offered.",
+    "nl": "Het oudste en meest gerespecteerde door de overheid geleide olifantenfaciliteit van Thailand, gericht op veterinaire zorg, rehabilitatie en fokprogramma's. Met een olifantenziekenhuis, mahout-trainingsprogramma's en olifantenkunstworkshops. Rijden wordt niet aangeboden."
+  },
+  "highlights": [
+    "Elephant hospital",
+    "Mahout training program",
+    "Baby elephant nursery",
+    "Ethical elephant care"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "https://www.thailandelephant.org",
+  "seo": {
+    "metaTitle": {
+      "en": "Thai Elephant Conservation Center - Top Attraction in Lampang | Go2Thailand",
+      "nl": "Thais Olifantenopvangcentrum - Top Attractie in Lampang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Thai Elephant Conservation Center in Lampang. Thailand's most respected elephant facility with hospital and ethical care.",
+      "nl": "Ontdek Thais Olifantenopvangcentrum in Lampang. Thailand's meest gerespecteerde olifantenfaciliteit met ziekenhuis en ethische zorg."
+    }
+  },
+  "tags": [
+    "nature",
+    "lampang",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

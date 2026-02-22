@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "pai-hot-springs",
+  "name": {
+    "en": "Pai Hot Springs (Tha Pai Hot Spring)",
+    "nl": "Pai Warmwaterbronnen (Tha Pai Hot Spring)"
+  },
+  "type": "nature",
+  "city_slug": "pai",
+  "address": "Huai Nam Dang National Park, Tambon Mae Hi, Amphoe Pai, Mae Hong Son 58130",
+  "location": {
+    "lat": 19.3807,
+    "lng": 98.3853
+  },
+  "opening_hours": "07:00-18:00 daily",
+  "entrance_fee": {
+    "thb": 300,
+    "usd": 9
+  },
+  "description": {
+    "en": "Natural hot springs in Huai Nam Dang National Park with mineral pools surrounded by lush tropical forest. The source reaches 80 degrees Celsius but downstream pools are perfect for bathing. Locals boil eggs in the hottest pools.",
+    "nl": "Natuurlijke warmwaterbronnen in Huai Nam Dang Nationaal Park met mineraalbaden omringd door weelderig tropisch bos. De bron bereikt 80 graden Celsius maar stroomafwaartse baden zijn perfect om in te baden. Locals koken eieren in de heetste poelen."
+  },
+  "highlights": [
+    "Natural mineral pools",
+    "Forest setting",
+    "Egg boiling in hot spring",
+    "Therapeutic mineral water"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Pai Hot Springs - Top Attraction in Pai | Go2Thailand",
+      "nl": "Pai Warmwaterbronnen - Top Attractie in Pai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Pai Hot Springs in Pai. Natural hot springs in Huai Nam Dang National Park with mineral pools in tropical forest.",
+      "nl": "Ontdek Pai Warmwaterbronnen in Pai. Natuurlijke warmwaterbronnen in Huai Nam Dang Nationaal Park met mineraalbaden in tropisch bos."
+    }
+  },
+  "tags": [
+    "nature",
+    "pai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

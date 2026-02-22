@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "pak-meng-beach",
+  "name": {
+    "en": "Pak Meng Beach",
+    "nl": "Pak Meng Beach"
+  },
+  "type": "beach",
+  "city_slug": "trang",
+  "address": "Pak Meng, Sikao, Trang 92150",
+  "location": {
+    "lat": 7.4700,
+    "lng": 99.3100
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A long casuarina-lined beach on the Trang mainland serving as the main departure point for island-hopping tours to the Trang islands. The pier area has seafood restaurants and tour operators, while the northern stretch of beach is quiet and undeveloped, popular with local picnickers on weekends.",
+    "nl": "Een lang strand omzoomd met casuarina-bomen aan het Trang vasteland dat dient als het belangrijkste vertrekpunt voor eilandhopping-tours naar de Trang-eilanden. Het piergebied heeft visrestaurants en touroperators, terwijl het noordelijke deel van het strand rustig en onbebouwd is, populair bij lokale picknickers in het weekend."
+  },
+  "highlights": [
+    "Island tour departure point",
+    "Casuarina-lined beach",
+    "Seafood restaurants",
+    "Views of offshore islands"
+  ],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Pak Meng Beach - Gateway to Trang Islands | Go2Thailand",
+      "nl": "Pak Meng Beach - Toegangspoort tot Trang Eilanden | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Visit Pak Meng Beach in Trang. The main departure point for island-hopping tours with seafood restaurants and a quiet mainland beach.",
+      "nl": "Bezoek Pak Meng Beach in Trang. Het belangrijkste vertrekpunt voor eilandhopping-tours met visrestaurants en een rustig vastelandstrand."
+    }
+  },
+  "tags": [
+    "beach",
+    "trang",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

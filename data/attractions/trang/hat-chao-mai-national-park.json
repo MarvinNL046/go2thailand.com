@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "hat-chao-mai-national-park",
+  "name": {
+    "en": "Hat Chao Mai National Park",
+    "nl": "Hat Chao Mai Nationaal Park"
+  },
+  "type": "nature",
+  "city_slug": "trang",
+  "address": "Hat Chao Mai National Park, Sikao, Trang 92150",
+  "location": {
+    "lat": 7.4200,
+    "lng": 99.2800
+  },
+  "opening_hours": "6:00 AM - 6:00 PM",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "A coastal national park encompassing mangrove forests, limestone caves, casuarina-lined beaches, and offshore islands including Koh Muk and Koh Kradan. The park is one of the last habitats of the endangered dugong in Thailand, and the diverse marine environment supports excellent snorkeling and wildlife observation.",
+    "nl": "Een kust nationaal park dat mangrovebossen, kalksteengrotten, met casuarina-bomen omzoomde stranden en eilanden omvat, waaronder Koh Muk en Koh Kradan. Het park is een van de laatste leefgebieden van de bedreigde doejong in Thailand, en het diverse mariene milieu biedt uitstekend snorkelen en wildobservatie."
+  },
+  "highlights": [
+    "Endangered dugong habitat",
+    "Mangrove forest trails",
+    "Pristine beaches",
+    "Offshore island access"
+  ],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "https://www.thainationalparks.com/hat-chao-mai-national-park",
+  "seo": {
+    "metaTitle": {
+      "en": "Hat Chao Mai National Park - Trang Coast Nature | Go2Thailand",
+      "nl": "Hat Chao Mai Nationaal Park - Trang Kust Natuur | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Explore Hat Chao Mai National Park in Trang. Mangrove forests, pristine beaches, dugong habitat, and access to the Trang islands.",
+      "nl": "Verken Hat Chao Mai Nationaal Park in Trang. Mangrovebossen, ongerepte stranden, doejong-habitat en toegang tot de Trang-eilanden."
+    }
+  },
+  "tags": [
+    "nature",
+    "trang",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

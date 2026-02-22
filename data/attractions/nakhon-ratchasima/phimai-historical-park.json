@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "phimai-historical-park",
+  "name": {
+    "en": "Phimai Historical Park",
+    "nl": "Phimai Historisch Park"
+  },
+  "type": "cultural",
+  "city_slug": "nakhon-ratchasima",
+  "address": "Tambon Nai Mueang, Amphoe Phimai, Nakhon Ratchasima 30110",
+  "location": {
+    "lat": 15.2200,
+    "lng": 102.4900
+  },
+  "opening_hours": "07:00-18:00 daily",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Magnificent 11th-century Khmer temple complex that predates Angkor Wat. Once the most important Khmer sanctuary on the ancient road from Angkor to the north, featuring exquisite sandstone lintels depicting scenes from the Ramayana.",
+    "nl": "Prachtig 11e-eeuws Khmer-tempelcomplex dat ouder is dan Angkor Wat. Ooit het belangrijkste Khmer-heiligdom op de oude weg van Angkor naar het noorden, met verfijnde zandstenen lateien die scenes uit de Ramayana uitbeelden."
+  },
+  "highlights": [
+    "Pre-Angkor Khmer sanctuary",
+    "Exquisite Ramayana carvings",
+    "Sandstone architecture",
+    "November light and sound show"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Phimai Historical Park - Top Attraction in Nakhon Ratchasima | Go2Thailand",
+      "nl": "Phimai Historisch Park - Top Attractie in Nakhon Ratchasima | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Phimai Historical Park near Nakhon Ratchasima. 11th-century Khmer temple that predates Angkor Wat.",
+      "nl": "Ontdek Phimai Historisch Park bij Nakhon Ratchasima. 11e-eeuwse Khmer-tempel die ouder is dan Angkor Wat."
+    }
+  },
+  "tags": [
+    "cultural",
+    "nakhon-ratchasima",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

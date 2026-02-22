@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "slug": "koh-ngai",
+  "name": {
+    "en": "Koh Ngai (Koh Hai)",
+    "nl": "Koh Ngai (Koh Hai)"
+  },
+  "type": "beach",
+  "city_slug": "trang",
+  "address": "Koh Ngai, Kantang, Trang 92110",
+  "location": {
+    "lat": 7.3500,
+    "lng": 99.2100
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A small island with excellent coral reef snorkeling accessible directly from the beach. The eastern shore features white sand backed by a handful of peaceful resorts, and the underwater gardens teem with parrotfish, clownfish, and colorful corals. The island's small size and limited development create an intimate island experience.",
+    "nl": "Een klein eiland met uitstekend koraalrif snorkelen direct toegankelijk vanaf het strand. De oostkust heeft wit zand met daarachter een handvol vredige resorts, en de onderwatertuinen wemelen van papegaaivissen, clownvissen en kleurrijke koralen. De kleine omvang en beperkte ontwikkeling van het eiland creëren een intieme eilandervaring."
+  },
+  "highlights": [
+    "Beach-front coral snorkeling",
+    "Parrotfish and clownfish",
+    "Small island intimacy",
+    "Peaceful resort setting"
+  ],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Ngai - Snorkeling Paradise in Trang | Go2Thailand",
+      "nl": "Koh Ngai - Snorkelparadijs in Trang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Koh Ngai in Trang. A small island with excellent coral reef snorkeling directly off the beach and peaceful resort accommodation.",
+      "nl": "Ontdek Koh Ngai in Trang. Een klein eiland met uitstekend koraalrif snorkelen direct voor het strand en vredige resort accommodatie."
+    }
+  },
+  "tags": [
+    "beach",
+    "trang",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

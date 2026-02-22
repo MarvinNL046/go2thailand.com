@@ -1,0 +1,14 @@
+{
+  "id": 3, "slug": "namtok-phlio-national-park",
+  "name": { "en": "Namtok Phlio National Park", "nl": "Namtok Phlio Nationaal Park" },
+  "type": "nature", "city_slug": "chanthaburi",
+  "address": "Namtok Phlio National Park, Phliu, Chanthaburi 22110",
+  "location": { "lat": 12.5300, "lng": 102.1700 },
+  "opening_hours": "8:00 AM - 4:30 PM",
+  "entrance_fee": { "thb": 200, "usd": 6 },
+  "description": { "en": "A beautiful waterfall just 15 km from Chanthaburi town, cascading into a crystal-clear pool filled with enormous carp that have been fed by visitors for decades. The pool is so clear you can see the fish swimming beneath the surface. The surrounding tropical forest park includes walking trails, picnic areas, and a royal memorial built by King Rama V.", "nl": "Een prachtige waterval op slechts 15 km van de stad Chanthaburi, die in een kristalhelder zwembad stroomt gevuld met enorme karpers die al tientallen jaren door bezoekers worden gevoerd. Het zwembad is zo helder dat je de vissen onder het oppervlak kunt zien zwemmen. Het omringende tropische bospark heeft wandelpaden, picknickplaatsen en een koninklijk gedenkteken gebouwd door Koning Rama V." },
+  "highlights": ["Crystal-clear waterfall pool", "Giant carp swimming", "Easy 15 km from town", "King Rama V memorial"],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "https://www.thainationalparks.com/namtok-phlio-national-park",
+  "seo": { "metaTitle": { "en": "Namtok Phlio Waterfall - Chanthaburi Nature | Go2Thailand", "nl": "Namtok Phlio Waterval - Chanthaburi Natuur | Go2Thailand" }, "metaDescription": { "en": "Visit Namtok Phlio National Park in Chanthaburi. A stunning waterfall with crystal-clear pools and giant carp in a tropical forest setting.", "nl": "Bezoek Namtok Phlio Nationaal Park in Chanthaburi. Een prachtige waterval met kristalheldere zwembaden en reuzenkarpers in een tropische bosomgeving." } },
+  "tags": ["nature", "chanthaburi", "thailand", "attraction", "travel", "tourism"]
+}

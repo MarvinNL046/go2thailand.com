@@ -1,0 +1,237 @@
+{
+  "city_slug": "koh-samui",
+  "city_name": "Koh Samui",
+  "total_attractions": 10,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "chaweng-beach",
+      "name": {
+        "en": "Chaweng Beach",
+        "nl": "Chaweng Beach"
+      },
+      "type": "beach",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Koh Samui's longest and most popular beach with powdery white sand, crystal-clear water, and vibrant nightlife",
+        "nl": "Het langste en populairste strand van Koh Samui met poederachtig wit zand, kristalhelder water en bruisend nachtleven"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "3 km white sand beach",
+        "Nightlife and bars",
+        "Water sports"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "big-buddha-temple",
+      "name": {
+        "en": "Big Buddha Temple (Wat Phra Yai)",
+        "nl": "Grote Boeddha Tempel (Wat Phra Yai)"
+      },
+      "type": "temple",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Iconic 12-meter golden Buddha statue on a small islet connected to the northeast coast of Koh Samui",
+        "nl": "Iconisch 12 meter hoog gouden Boeddhabeeld op een klein eilandje verbonden met de noordoostkust van Koh Samui"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "12-meter golden Buddha",
+        "Panoramic sea views",
+        "Naga staircase"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "ang-thong-marine-park",
+      "name": {
+        "en": "Ang Thong National Marine Park",
+        "nl": "Ang Thong Nationaal Marien Park"
+      },
+      "type": "nature",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Stunning archipelago of 42 limestone islands with emerald lagoons, hidden caves, and pristine beaches",
+        "nl": "Prachtige archipel van 42 kalksteeneilanden met smaragdgroene lagunes, verborgen grotten en ongerepte stranden"
+      },
+      "entrance_fee": {
+        "thb": 300,
+        "usd": 9
+      },
+      "highlights": [
+        "42 islands",
+        "Emerald lake viewpoint",
+        "Kayaking and snorkeling"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "fishermans-village-bophut",
+      "name": {
+        "en": "Fisherman's Village Bophut",
+        "nl": "Fisherman's Village Bophut"
+      },
+      "type": "market",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Charming old fishing village with Chinese shophouses hosting a famous Friday Night Market with food and crafts",
+        "nl": "Charmant oud vissersdorp met Chinese winkelpanden met een beroemde vrijdagavondmarkt met eten en ambachten"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Friday Night Market",
+        "Old Chinese shophouses",
+        "Beachfront dining"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "lamai-beach",
+      "name": {
+        "en": "Lamai Beach",
+        "nl": "Lamai Beach"
+      },
+      "type": "beach",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Samui's second-largest beach offering a more relaxed atmosphere than Chaweng with the famous Hin Ta Hin Yai rocks",
+        "nl": "Het op een na grootste strand van Samui met een meer ontspannen sfeer dan Chaweng en de beroemde Hin Ta Hin Yai rotsen"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Hin Ta Hin Yai rocks",
+        "Relaxed atmosphere",
+        "Beach restaurants"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "na-muang-waterfall",
+      "name": {
+        "en": "Na Muang Waterfall",
+        "nl": "Na Muang Waterval"
+      },
+      "type": "nature",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Two-tiered waterfall in the island interior cascading into natural swimming pools surrounded by lush jungle",
+        "nl": "Waterval met twee niveaus in het binnenland van het eiland die in natuurlijke zwembaden stroomt omringd door weelderig oerwoud"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Natural swimming pool",
+        "Jungle hike",
+        "Two waterfall levels"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "wat-plai-laem",
+      "name": {
+        "en": "Wat Plai Laem",
+        "nl": "Wat Plai Laem"
+      },
+      "type": "temple",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Colorful lakeside temple featuring a large multi-armed Guanyin statue and ornate Chinese-Thai architecture",
+        "nl": "Kleurrijke tempel aan het meer met een groot meerarmig Guanyin-beeld en sierlijke Chinees-Thaise architectuur"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "18-armed Guanyin statue",
+        "Lakeside setting",
+        "Fish feeding"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "secret-buddha-garden",
+      "name": {
+        "en": "Secret Buddha Garden (Magic Garden)",
+        "nl": "Geheime Boeddha Tuin (Magische Tuin)"
+      },
+      "type": "cultural",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Mystical hilltop garden hidden in the jungle with stone statues and figures scattered among moss-covered rocks",
+        "nl": "Mystieke heuveltuin verborgen in het oerwoud met stenen beelden en figuren verspreid over mosbegroeid gesteente"
+      },
+      "entrance_fee": {
+        "thb": 80,
+        "usd": 2
+      },
+      "highlights": [
+        "Stone statues in jungle",
+        "Hilltop views",
+        "4WD access recommended"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "maenam-beach",
+      "name": {
+        "en": "Maenam Beach",
+        "nl": "Maenam Beach"
+      },
+      "type": "beach",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Quiet north-coast beach popular with long-stay visitors and families seeking a peaceful escape from the busier beaches",
+        "nl": "Rustig strand aan de noordkust populair bij langverblijvers en families die een vredige ontsnapping zoeken van de drukkere stranden"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Quiet atmosphere",
+        "Traditional fishing village",
+        "Koh Phangan views"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "samui-elephant-sanctuary",
+      "name": {
+        "en": "Samui Elephant Sanctuary",
+        "nl": "Samui Olifanten Opvangcentrum"
+      },
+      "type": "nature",
+      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "description": {
+        "en": "Ethical elephant sanctuary where rescued elephants roam freely in natural surroundings with observation-only visits",
+        "nl": "Ethisch olifantenopvangcentrum waar geredde olifanten vrij rondlopen in een natuurlijke omgeving met alleen observatiebezoeken"
+      },
+      "entrance_fee": {
+        "thb": 2500,
+        "usd": 72
+      },
+      "highlights": [
+        "Ethical elephant care",
+        "Observation walks",
+        "Educational tours"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 5, "slug": "khao-laem-ya-national-park", "name": { "en": "Khao Laem Ya-Mu Ko Samet National Park", "nl": "Khao Laem Ya-Mu Ko Samet Nationaal Park" },
+  "type": "nature", "city_slug": "rayong", "address": "Phe, Mueang Rayong, Rayong 21160",
+  "location": { "lat": 12.5889, "lng": 101.4278 }, "opening_hours": "06:00-18:00",
+  "entrance_fee": { "thb": 200, "usd": 6 },
+  "description": { "en": "Coastal national park covering both Koh Samet island and the Khao Laem Ya headland on the mainland", "nl": "Kust nationaal park dat zowel het eiland Koh Samet als de Khao Laem Ya-kaap op het vasteland omvat" },
+  "highlights": ["Khao Laem Ya viewpoint", "Tide pools", "Rocky coastline", "Panoramic Gulf views"],
+  "image": "/images/cities/phuket/phuket-old-town.webp", "official_website": "https://portal.dnp.go.th/",
+  "seo": { "metaTitle": { "en": "Khao Laem Ya National Park - Top Attraction in Rayong | Go2Thailand", "nl": "Khao Laem Ya Nationaal Park - Top Attractie in Rayong | Go2Thailand" }, "metaDescription": { "en": "Discover Khao Laem Ya National Park covering Koh Samet and the mainland coast...", "nl": "Ontdek Khao Laem Ya Nationaal Park dat Koh Samet en de vastelandkust omvat..." } },
+  "tags": ["nature", "rayong", "thailand", "attraction", "travel", "tourism"]
+}

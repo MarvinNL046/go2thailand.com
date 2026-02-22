@@ -1,0 +1,282 @@
+{
+  "id": 14,
+  "slug": "khon-kaen",
+  "name": {
+    "en": "Khon Kaen",
+    "nl": "Khon Kaen"
+  },
+  "region": "Isaan",
+  "province": "Khon Kaen",
+  "description": {
+    "en": "The unofficial capital of Isaan, Khon Kaen is a thriving university city that serves as the gateway to northeastern Thailand. Home to world-class dinosaur fossils, a beautiful lakeside park, renowned silk weaving villages, and some of the most authentic Isaan street food in the country.",
+    "nl": "De onofficiële hoofdstad van Isaan, Khon Kaen is een bruisende universiteitsstad die dient als poort naar Noordoost-Thailand. Thuisbasis van wereldklasse dinosaurusfossielen, een prachtig park aan het meer, beroemde zijdeweef-dorpen en de meest authentieke Isaan-streetfood van het land."
+  },
+  "population": 400000,
+  "highlights": [
+    "Dinosaur Museum",
+    "Bueng Kaen Nakhon Lake",
+    "Night Markets",
+    "Silk Village"
+  ],
+  "location": {
+    "lat": 16.4322,
+    "lng": 102.8236
+  },
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Khon Kaen | What to do in Khon Kaen?",
+      "nl": "Ontdek Khon Kaen | Wat te doen in Khon Kaen?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Khon Kaen, Thailand – tips, highlights, dinosaur museum, silk villages and Isaan food.",
+      "nl": "Jouw gids voor Khon Kaen, Thailand – tips, highlights, dinosaurusmuseum, zijdedorpen en Isaan-eten."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Khon Kaen",
+      "nl": "Beste restaurants en streetfood in Khon Kaen"
+    },
+    "hotels": {
+      "en": "Top hotels in Khon Kaen | Tips & deals",
+      "nl": "Beste hotels in Khon Kaen | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Khon Kaen",
+      "nl": "Top bezienswaardigheden in Khon Kaen"
+    }
+  },
+  "tags": [
+    "isaan",
+    "khon kaen",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ],
+  "enhanced_description": "Khon Kaen hit me with the full force of Isaan the moment I stepped off the overnight train from Bangkok. The air was thick and warm, the platform announcements crackled in the distinctive northeastern dialect, and a woman at a cart outside the station was pounding som tum with a mortar and pestle the size of a small cannon. This is Isaan's unofficial capital - a city of 400,000 that thrums with the energy of Khon Kaen University's 40,000 students, a booming tech sector, and a food culture so intense and unapologetically spicy that it makes Bangkok seem tame. I checked into the Pullman Khon Kaen Raja Orchid on Prachasamosorn Road and immediately headed out to eat.\n\nKhon Kaen's food scene alone justifies the trip. At the night market behind Khon Kaen Fairy Plaza on Klang Muang Road, I found the definitive version of som tum (papaya salad) - the vendor, a woman everyone called Mae Somtum, made it to order with pla ra (fermented fish sauce), the funky, pungent condiment that separates real Isaan food from the sanitized versions sold to tourists in Bangkok. I ate gai yang (grilled chicken) from a cart on Na Muang Road that had been marinating in garlic and coriander root for 24 hours, and sticky rice that came in little woven bamboo baskets. At the famous Ton Tann Green Market, a modern night bazaar popular with university students, I tried koi pla (raw fish salad) for the first time - it took courage, but the flavors were extraordinary.\n\nThe Phu Wiang Dinosaur Museum, about 80 kilometers west of the city, is world-class and genuinely surprising. Thailand was a major dinosaur habitat during the Jurassic and Cretaceous periods, and the fossils found in Khon Kaen province include Siamotyrannus isanensis - a relative of T-Rex that roamed these plains 120 million years ago. The museum is modern, well-curated, and interactive, with life-size dinosaur replicas scattered through a forested park. A paleontologist I met there told me that Khon Kaen province has produced more dinosaur fossils than any other region in Southeast Asia. For a city that few Western tourists visit, this felt like a remarkable secret.\n\nBack in the city, I spent a tranquil afternoon walking around Bueng Kaen Nakhon, the large lake in the center of town. An 8-kilometer path circles the water, and in the late afternoon it fills with joggers, cyclists, and families. I stopped at Wat Nong Wang, the nine-story temple that rises from the lake's shore like a wedding cake of golden spires. The top floor offers panoramic views over the city and the vast Khorat Plateau stretching endlessly to the horizon. From there, I hired a tuk-tuk to Chonnabot, a village about 50 kilometers south that is the heart of Isaan's silk weaving tradition. At the King Cobra Silk Village, I watched women weaving mudmee silk on wooden looms, creating intricate tie-dyed patterns that have been made the same way for hundreds of years. I bought a silk scarf directly from the weaver for 800 baht - the same quality would cost 3,000 baht in a Bangkok department store.\n\nKhon Kaen does not have the Instagram appeal of Chiang Mai or the beach allure of Krabi, and that is precisely its charm. This is a working Thai city where the culture is unselfconscious and the hospitality unforced. At a local bar called Living Room on Prachasamosorn Road, I fell into conversation with a group of university lecturers who insisted on buying me lao khao (rice whiskey) and teaching me Isaan drinking songs. By midnight I was attempting to dance mor lam, the hypnotic Isaan folk music that mixes traditional melodies with thumping electronic beats. I left Khon Kaen with a headache and a smile, convinced that Isaan is Thailand's most underrated region.",
+  "hidden_gems": [
+    {
+      "name": {
+        "en": "King Cobra Village (Ban Khok Sa-Nga)",
+        "nl": "Koningscobra Dorp (Ban Khok Sa-Nga)"
+      },
+      "description": {
+        "en": "A unique village 50 km from Khon Kaen where residents have coexisted with king cobras for generations. Villagers demonstrate traditional snake handling and cobra shows. Fascinating and slightly terrifying.",
+        "nl": "Een uniek dorp op 50 km van Khon Kaen waar bewoners al generaties lang samenleven met koningscobra's. Dorpsbewoners demonstreren traditionele slangenbezwering en cobra-shows. Fascinerend en een beetje angstaanjagend."
+      },
+      "type": "experience"
+    },
+    {
+      "name": {
+        "en": "Ton Tann Green Market",
+        "nl": "Ton Tann Green Market"
+      },
+      "description": {
+        "en": "A modern outdoor night market popular with Khon Kaen University students offering trendy street food, live music, craft beer, and vintage clothing in a hip park-like setting.",
+        "nl": "Een moderne openlucht nachtmarkt populair bij studenten van Khon Kaen University met trendy streetfood, live muziek, craft bier en vintage kleding in een hippe parkachtige omgeving."
+      },
+      "type": "market"
+    },
+    {
+      "name": {
+        "en": "Wat Pa Ban Kho (Glass Temple)",
+        "nl": "Wat Pa Ban Kho (Glazen Tempel)"
+      },
+      "description": {
+        "en": "A striking temple decorated entirely with recycled glass bottles, creating dazzling kaleidoscopic patterns when sunlight streams through. A quirky hidden gem about 40 km from the city.",
+        "nl": "Een opvallende tempel geheel versierd met gerecyclede glazen flessen, die verbluffende caleidoscopische patronen creeren wanneer zonlicht erdoorheen schijnt. Een eigenzinnige verborgen parel op ongeveer 40 km van de stad."
+      },
+      "type": "temple"
+    },
+    {
+      "name": {
+        "en": "Pratunam Market (Morning Market)",
+        "nl": "Pratunam Markt (Ochtendmarkt)"
+      },
+      "description": {
+        "en": "The city's oldest and most authentic wet market where locals shop for fresh produce, Isaan herbs, fermented fish, and prepared foods from 4 AM. The real heartbeat of Khon Kaen.",
+        "nl": "De oudste en meest authentieke versmarkt van de stad waar locals verse producten, Isaan-kruiden, gefermenteerde vis en bereide gerechten kopen vanaf 4 uur 's ochtends. Het echte kloppende hart van Khon Kaen."
+      },
+      "type": "market"
+    },
+    {
+      "name": {
+        "en": "Nam Phong National Park",
+        "nl": "Nam Phong Nationaal Park"
+      },
+      "description": {
+        "en": "A quiet national park 50 km north of the city with scenic reservoir views, hiking trails, and the Tat Fa waterfall. Popular with locals for weekend picnics but virtually unknown to foreign visitors.",
+        "nl": "Een rustig nationaal park op 50 km ten noorden van de stad met schilderachtig stuwmeeruitzicht, wandelpaden en de Tat Fa-waterval. Populair bij locals voor weekendpicknicks maar vrijwel onbekend bij buitenlandse bezoekers."
+      },
+      "type": "nature"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "name": "Khon Kaen Night Market (Fairy Plaza)",
+      "cuisine": "Isaan Street Food",
+      "price_range": "$",
+      "description": {
+        "en": "The massive night market behind Fairy Plaza is ground zero for authentic Isaan street food: fiery som tum, juicy gai yang, sticky rice, larb, and fresh river fish. Multiple stalls competing for the best flavors.",
+        "nl": "De enorme nachtmarkt achter Fairy Plaza is het epicentrum van authentieke Isaan-streetfood: vurige som tum, sappige gai yang, sticky rice, larb en verse riviervis. Meerdere stalletjes die strijden om de beste smaken."
+      }
+    },
+    {
+      "name": "Pla Chon Ton Khae",
+      "cuisine": "Isaan/Thai",
+      "price_range": "$",
+      "description": {
+        "en": "Famous for its outstanding pla chon (snakehead fish) dishes and classic Isaan cuisine. Locals queue for the grilled fish and som tum combo. Simple setting, extraordinary flavors.",
+        "nl": "Beroemd om zijn uitstekende pla chon (slangenkopvis) gerechten en klassieke Isaan-keuken. Locals staan in de rij voor de gegrilde vis en som tum combinatie. Eenvoudige inrichting, buitengewone smaken."
+      }
+    },
+    {
+      "name": "Ko-Fi Café Khon Kaen",
+      "cuisine": "Coffee/Modern Thai",
+      "price_range": "$$",
+      "description": {
+        "en": "Trendy university-area cafe serving specialty coffee alongside modern Thai dishes. A great spot for brunch with excellent presentation and flavors that respect local ingredients.",
+        "nl": "Trendy cafe in het universiteitsgebied dat speciale koffie serveert naast moderne Thaise gerechten. Een geweldige plek voor brunch met uitstekende presentatie en smaken die lokale ingredienten respecteren."
+      }
+    },
+    {
+      "name": "Gai Yang Rabeab",
+      "cuisine": "Isaan",
+      "price_range": "$",
+      "description": {
+        "en": "Legendary grilled chicken restaurant that has been perfecting its gai yang recipe for over 30 years. The chicken is marinated for 24 hours and charcoal-grilled to perfection. A Khon Kaen institution.",
+        "nl": "Legendarisch gegrilde-kip restaurant dat zijn gai yang recept al meer dan 30 jaar perfectioneert. De kip wordt 24 uur gemarineerd en op houtskool gegrild tot perfectie. Een Khon Kaen-instituut."
+      }
+    },
+    {
+      "name": "First Choice Restaurant",
+      "cuisine": "Thai/International",
+      "price_range": "$$",
+      "description": {
+        "en": "Popular restaurant near Central Plaza serving both Thai and Western dishes. Good wine list, air-conditioned comfort, and reliable quality. A welcome option when you need a break from spice.",
+        "nl": "Populair restaurant bij Central Plaza dat zowel Thaise als westerse gerechten serveert. Goede wijnkaart, airco comfort en betrouwbare kwaliteit. Een welkome optie wanneer je even pauze nodig hebt van de kruiden."
+      }
+    }
+  ],
+  "top_hotels": [
+    {
+      "name": "Pullman Khon Kaen Raja Orchid",
+      "category": "luxury",
+      "price_range": "$$$",
+      "description": {
+        "en": "Khon Kaen's premier international hotel with luxurious rooms, rooftop pool, multiple restaurants, and a full-service spa. Centrally located on Prachasamosorn Road near the lake.",
+        "nl": "Het beste internationale hotel van Khon Kaen met luxueuze kamers, dakterraszwembad, meerdere restaurants en een volledig uitgeruste spa. Centraal gelegen op Prachasamosorn Road bij het meer."
+      }
+    },
+    {
+      "name": "Avani Khon Kaen Hotel & Convention Centre",
+      "category": "luxury",
+      "price_range": "$$$",
+      "description": {
+        "en": "Modern luxury hotel with stylish rooms, an excellent gym, pool, and one of the best hotel restaurants in the city. Popular with business travelers and upscale tourists.",
+        "nl": "Modern luxehotel met stijlvolle kamers, een uitstekende sportschool, zwembad en een van de beste hotelrestaurants in de stad. Populair bij zakenreizigers en luxe toeristen."
+      }
+    },
+    {
+      "name": "Glacier Hotel Khon Kaen",
+      "category": "midrange",
+      "price_range": "$$",
+      "description": {
+        "en": "Modern mid-range hotel with clean rooms, good breakfast, and friendly staff. Walking distance to Central Plaza and the night market. Excellent value for the price.",
+        "nl": "Modern middenklasse hotel met schone kamers, goed ontbijt en vriendelijk personeel. Op loopafstand van Central Plaza en de nachtmarkt. Uitstekende waarde voor de prijs."
+      }
+    },
+    {
+      "name": "Piman Garden Hotel",
+      "category": "midrange",
+      "price_range": "$$",
+      "description": {
+        "en": "Peaceful garden hotel near Bueng Kaen Nakhon Lake with spacious rooms, a pool, and landscaped grounds. A tranquil oasis convenient for exploring the lakeside area.",
+        "nl": "Rustig tuinhotel bij Bueng Kaen Nakhon meer met ruime kamers, een zwembad en aangelegde tuinen. Een rustige oase handig voor het verkennen van het meergebied."
+      }
+    },
+    {
+      "name": "B2 Khon Kaen Hotel",
+      "category": "budget",
+      "price_range": "$",
+      "description": {
+        "en": "Popular chain budget hotel with clean, compact rooms, reliable WiFi, and a central location. No-frills but well-maintained, ideal for budget-conscious travelers.",
+        "nl": "Populaire budgethotelketen met schone, compacte kamers, betrouwbare WiFi en een centrale locatie. Geen franje maar goed onderhouden, ideaal voor budgetbewuste reizigers."
+      }
+    }
+  ],
+  "travel_tips": [
+    {
+      "title": {
+        "en": "Getting to Khon Kaen",
+        "nl": "Naar Khon Kaen reizen"
+      },
+      "content": {
+        "en": "Khon Kaen has its own airport with direct flights from Bangkok (1 hour). Overnight trains from Bangkok Hua Lamphong take 8-9 hours. VIP buses from Mo Chit take 6 hours. The high-speed rail line from Bangkok is under construction.",
+        "nl": "Khon Kaen heeft een eigen luchthaven met directe vluchten vanuit Bangkok (1 uur). Nachttreinen vanuit Bangkok Hua Lamphong duren 8-9 uur. VIP-bussen vanuit Mo Chit duren 6 uur. De hogesnelheidslijn vanuit Bangkok is in aanbouw."
+      }
+    },
+    {
+      "title": {
+        "en": "Embrace the Spice",
+        "nl": "Omarm de kruiden"
+      },
+      "content": {
+        "en": "Isaan food is genuinely spicy - much more so than central Thai cuisine. When ordering som tum, say 'mai phet' (not spicy) or 'phet nit noi' (a little spicy) if you are not accustomed. But try the real thing at least once.",
+        "nl": "Isaan-eten is oprecht pikant - veel meer dan centraal-Thaise keuken. Zeg bij het bestellen van som tum 'mai phet' (niet pikant) of 'phet nit noi' (een beetje pikant) als je het niet gewend bent. Maar probeer het echte werk minstens een keer."
+      }
+    },
+    {
+      "title": {
+        "en": "Visit Chonnabot Silk Village",
+        "nl": "Bezoek Chonnabot Zijdedorp"
+      },
+      "content": {
+        "en": "The silk weaving village of Chonnabot is 50 km south of Khon Kaen. Take a bus from the main terminal (30 baht, 1 hour). Buy mudmee silk directly from weavers at 50-70% less than Bangkok prices. The King Cobra Silk Village has the best selection.",
+        "nl": "Het zijdeweef-dorp Chonnabot ligt 50 km ten zuiden van Khon Kaen. Neem een bus vanaf het hoofdterminal (30 baht, 1 uur). Koop mudmee-zijde rechtstreeks van wevers voor 50-70% minder dan Bangkokse prijzen. Het King Cobra Silk Village heeft de beste selectie."
+      }
+    },
+    {
+      "title": {
+        "en": "Dinosaur Museum Day Trip",
+        "nl": "Dinosaurusmuseum dagtocht"
+      },
+      "content": {
+        "en": "The Phu Wiang Dinosaur Museum is 80 km west of the city. Hire a car or join a day tour as public transport is limited. The museum is open 9 AM - 5 PM, closed Mondays. Admission is 100 baht. Allow 3-4 hours for the full experience.",
+        "nl": "Het Phu Wiang Dinosaurusmuseum ligt 80 km ten westen van de stad. Huur een auto of neem deel aan een dagtour want openbaar vervoer is beperkt. Het museum is open van 9:00-17:00, gesloten op maandag. Toegang is 100 baht. Plan 3-4 uur voor de volledige ervaring."
+      }
+    },
+    {
+      "title": {
+        "en": "Lake Walking and Cycling",
+        "nl": "Wandelen en fietsen rond het meer"
+      },
+      "content": {
+        "en": "Bueng Kaen Nakhon Lake has an 8 km walking/cycling path. Rent a bicycle from shops near the lake for 50 baht/hour. The best time is late afternoon when locals come out for exercise and the sunset reflects off Wat Nong Wang.",
+        "nl": "Bueng Kaen Nakhon meer heeft een 8 km wandel-/fietspad. Huur een fiets bij winkels bij het meer voor 50 baht/uur. De beste tijd is de late namiddag wanneer locals komen sporten en de zonsondergang weerkaatst op Wat Nong Wang."
+      }
+    }
+  ],
+  "best_time_to_visit": {
+    "en": "November to February offers cooler, drier weather ideal for sightseeing. Khon Kaen's Silk Festival in late November/early December is a spectacular event. The rainy season (May-October) brings lush green landscapes but occasional flooding. March-April is extremely hot (38-42 degrees Celsius).",
+    "nl": "November tot februari biedt koeler, droger weer ideaal voor bezichtigingen. Het Zijdefestival van Khon Kaen eind november/begin december is een spectaculair evenement. Het regenseizoen (mei-oktober) brengt weelderig groen landschap maar af en toe overstromingen. Maart-april is extreem heet (38-42 graden Celsius)."
+  },
+  "budget_info": {
+    "budget_per_day": {
+      "en": "$20-30",
+      "nl": "$20-30"
+    },
+    "midrange_per_day": {
+      "en": "$50-80",
+      "nl": "$50-80"
+    },
+    "luxury_per_day": {
+      "en": "$150+",
+      "nl": "$150+"
+    }
+  },
+  "enhanced_at": "2026-02-22T00:00:00.000Z",
+  "ai_generated": true
+}

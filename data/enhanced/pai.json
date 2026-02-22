@@ -1,0 +1,282 @@
+{
+  "id": 11,
+  "slug": "pai",
+  "name": {
+    "en": "Pai",
+    "nl": "Pai"
+  },
+  "region": "Northern",
+  "province": "Mae Hong Son",
+  "description": {
+    "en": "A bohemian mountain town nestled in a valley surrounded by misty peaks, Pai is the ultimate backpacker paradise in northern Thailand. Known for its laid-back hippie culture, stunning canyon viewpoints, hot springs, and vibrant walking street night market.",
+    "nl": "Een bohemien bergstadje genesteld in een vallei omringd door mistige bergtoppen, Pai is het ultieme backpackersparadijs in Noord-Thailand. Bekend om zijn relaxte hippiecultuur, adembenemende canyonuitzichten, warmwaterbronnen en de levendige walking street nachtmarkt."
+  },
+  "population": 2200,
+  "highlights": [
+    "Pai Canyon",
+    "Pai Walking Street",
+    "Pai Hot Springs",
+    "Bamboo Bridge"
+  ],
+  "location": {
+    "lat": 19.3622,
+    "lng": 98.4406
+  },
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Pai | What to do in Pai?",
+      "nl": "Ontdek Pai | Wat te doen in Pai?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Pai, Thailand – tips, highlights, food, hotels and the best mountain scenery.",
+      "nl": "Jouw gids voor Pai, Thailand – tips, highlights, eten, hotels en het mooiste berglandschap."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Pai",
+      "nl": "Beste restaurants en streetfood in Pai"
+    },
+    "hotels": {
+      "en": "Top hotels in Pai | Tips & deals",
+      "nl": "Beste hotels in Pai | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Pai",
+      "nl": "Top bezienswaardigheden in Pai"
+    }
+  },
+  "tags": [
+    "northern",
+    "pai",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ],
+  "enhanced_description": "The 762 curves from Chiang Mai to Pai are not just a road - they are a rite of passage. When I finally stepped off the minivan after three nauseating hours of hairpin turns, the cool mountain air hit me like a reward. Pai sits at roughly 630 meters above sea level in a lush valley carved by the Pai River, and the moment you arrive, time seems to slow down. The main street, Chaisongkhram Road, is a single lane of guesthouses, reggae bars, tattoo parlors, and organic cafes that feels more like a Southeast Asian Woodstock than a Thai town. I checked into Pai Village Boutique Resort on the edge of town and spent my first evening wandering the Walking Street market, where Thai hippies in tie-dye sold handmade jewelry alongside grandmothers grilling satay skewers for 10 baht each.\n\nThe next morning I rented a motorbike for 150 baht per day from Aya Service on Chaisongkhram Road and headed to Pai Canyon - known locally as Kong Lan. The narrow ridgeline trail drops off sharply on both sides, and walking along the spine with the valley unfurling below is genuinely thrilling. I arrived at sunrise and had the place entirely to myself, the mist burning off the rice paddies below like steam from a kettle. From there I rode north to the Pai Hot Springs in Huai Nam Dang National Park, where a warm stream feeds into natural rock pools beneath towering trees. The water temperature hovers around 80 degrees Celsius at the source, but downstream pools settle into a perfect bath temperature. I brought eggs from the 7-Eleven and boiled them in the hot spring like the locals do.\n\nAfternoon called me to the famous Bamboo Bridge - Boon Ko Ku So Bridge - at Wat Su Tong Pae, a slender bamboo walkway stretching over 800 meters across emerald rice fields to a small meditation temple. The bridge sways gently underfoot and creaks with every step, and in the late afternoon light the paddies glow an almost electric green. A monk at the temple offered me a blessing and tied a white string bracelet around my wrist, a moment of quiet kindness I still carry with me. Nearby, the Chinese Village (Santichon) serves Yunnan-style tea and steamed buns, a reminder of the Kuomintang refugees who settled these mountains decades ago.\n\nPai's food scene punches far above its weight for a town of 2,200 people. At Na's Kitchen on Rungsiyanon Road, I had the best pad thai of my entire trip - wok-charred noodles tossed with fresh shrimp and a squeeze of tamarind. Charlie & Leks serves northern Thai sausage (sai oua) that bursts with lemongrass and kaffir lime, while The Om Garden Cafe on the river road does excellent smoothie bowls and vegan curries. For dinner, Witching Well on Chaisongkhram Road serves craft cocktails and wood-fired pizza on a lantern-lit terrace. The town empties out by 10 PM, and the silence that follows is remarkable - just crickets, frogs, and the distant rumble of the Pai River.\n\nWhat makes Pai special is not any single attraction but the cumulative effect of place. You come for a night and stay for a week. The rhythm of renting a scooter, discovering a hidden waterfall like Mo Paeng or Pam Bok, soaking in hot springs, eating mango sticky rice at the night market, and watching the sunset from Pai Canyon becomes addictive. The town attracts a delightful mix of Thai weekenders from Chiang Mai, long-stay digital nomads, gap-year backpackers, and aging hippies who came in the 1990s and never left. Everyone moves at the same unhurried pace, and that collective surrender to slowness is Pai's greatest gift.",
+  "hidden_gems": [
+    {
+      "name": {
+        "en": "Land Split (Pam Bok Waterfall area)",
+        "nl": "Land Split (Pam Bok Waterval gebied)"
+      },
+      "description": {
+        "en": "A bizarre geological crack in the earth that split a farmer's land in two, now a quirky attraction with a small cafe serving fresh fruit shakes amid lush gardens.",
+        "nl": "Een bizarre geologische scheur in de aarde die het land van een boer in tweeen spleet, nu een bijzondere attractie met een klein cafe dat verse fruitsap serveert temidden van weelderige tuinen."
+      },
+      "type": "nature"
+    },
+    {
+      "name": {
+        "en": "Lod Cave (Tham Lod near Pai)",
+        "nl": "Lod Grot (Tham Lod bij Pai)"
+      },
+      "description": {
+        "en": "A spectacular cave system about 70 km north of Pai with underground river, massive stalactites, and ancient coffin cave paintings. Best visited at dusk to see millions of swifts returning to roost.",
+        "nl": "Een spectaculair grottensysteem zo'n 70 km ten noorden van Pai met een ondergrondse rivier, enorme stalactieten en oude doodkistgrotschilderingen. Het beste te bezoeken bij schemering om miljoenen gierzwaluwen te zien terugkeren."
+      },
+      "type": "nature"
+    },
+    {
+      "name": {
+        "en": "Pai Treehouse",
+        "nl": "Pai Boomhut"
+      },
+      "description": {
+        "en": "A giant banyan tree turned into a viewpoint platform in the middle of rice paddies, offering stunning 360-degree views of the valley especially at sunset.",
+        "nl": "Een enorme banyan-boom omgebouwd tot een uitkijkplatform midden in de rijstvelden, met adembenemend 360-graden uitzicht over de vallei, vooral bij zonsondergang."
+      },
+      "type": "nature"
+    },
+    {
+      "name": {
+        "en": "Cafe Amazon at Pai River",
+        "nl": "Cafe Amazon bij de Pai Rivier"
+      },
+      "description": {
+        "en": "Hidden riverside cafe downstream from the main town where locals gather for cold coffee and river swimming on lazy afternoons.",
+        "nl": "Verborgen cafe aan de rivier stroomafwaarts van het centrum waar lokale bevolking samenkomt voor koude koffie en zwemmen in de rivier op luie middagen."
+      },
+      "type": "restaurant"
+    },
+    {
+      "name": {
+        "en": "Yun Lai Viewpoint",
+        "nl": "Yun Lai Uitkijkpunt"
+      },
+      "description": {
+        "en": "A lesser-known sunrise viewpoint in the Chinese Village with panoramic views over the misty Pai valley, far less crowded than Pai Canyon. Serves Chinese tea at the top.",
+        "nl": "Een minder bekend zonsopgang-uitkijkpunt in het Chinese Dorp met panoramisch uitzicht over de mistige Pai-vallei, veel minder druk dan Pai Canyon. Serveert Chinese thee op de top."
+      },
+      "type": "nature"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "name": "Na's Kitchen",
+      "cuisine": "Thai",
+      "price_range": "$",
+      "description": {
+        "en": "Beloved local restaurant on Rungsiyanon Road famous for its perfectly wok-charred pad thai and green curry. Run by Na and her family for over a decade, always packed with both locals and travelers.",
+        "nl": "Geliefd lokaal restaurant op Rungsiyanon Road, beroemd om zijn perfect gebakken pad thai en groene curry. Al meer dan tien jaar gerund door Na en haar familie, altijd vol met zowel locals als reizigers."
+      }
+    },
+    {
+      "name": "Charlie & Leks",
+      "cuisine": "Northern Thai",
+      "price_range": "$",
+      "description": {
+        "en": "Cozy spot serving outstanding northern Thai dishes including sai oua sausage, khao soi, and larb. The owner Charlie is a passionate cook who sources ingredients from local farms.",
+        "nl": "Gezellige plek met uitstekende Noord-Thaise gerechten waaronder sai oua worst, khao soi en larb. Eigenaar Charlie is een gepassioneerde kok die ingredienten van lokale boerderijen haalt."
+      }
+    },
+    {
+      "name": "The Om Garden Cafe",
+      "cuisine": "Vegetarian/Vegan",
+      "price_range": "$$",
+      "description": {
+        "en": "Riverside organic cafe with excellent smoothie bowls, vegan curries, and freshly baked sourdough bread. A peaceful garden setting with hammocks overlooking the Pai River.",
+        "nl": "Biologisch cafe aan de rivier met uitstekende smoothie bowls, veganistische curry's en versgebakken zuurdesembrood. Een rustige tuinomgeving met hangmatten met uitzicht op de Pai-rivier."
+      }
+    },
+    {
+      "name": "Witching Well",
+      "cuisine": "International/Thai Fusion",
+      "price_range": "$$",
+      "description": {
+        "en": "Atmospheric restaurant and cocktail bar on Chaisongkhram Road with wood-fired pizza, Thai fusion dishes, and creative cocktails on a lantern-lit garden terrace.",
+        "nl": "Sfeervolle restaurant en cocktailbar op Chaisongkhram Road met pizza uit de houtoven, Thaise fusiongerechten en creatieve cocktails op een met lantaarns verlicht tuinterras."
+      }
+    },
+    {
+      "name": "Pai Walking Street Food Stalls",
+      "cuisine": "Thai Street Food",
+      "price_range": "$",
+      "description": {
+        "en": "The nightly Walking Street market is a feast of street food: grilled satay for 10 baht, mango sticky rice, rotee banana pancakes, Thai sausages, and fresh coconut ice cream.",
+        "nl": "De avondlijke Walking Street markt is een feest van streetfood: gegrilde satay voor 10 baht, mango sticky rice, rotee bananenpannenkoeken, Thaise worstjes en verse kokosijs."
+      }
+    }
+  ],
+  "top_hotels": [
+    {
+      "name": "Pai Village Boutique Resort & Farm",
+      "category": "midrange",
+      "price_range": "$$",
+      "description": {
+        "en": "Charming resort on the outskirts of town with traditional wooden bungalows, a swimming pool, organic farm, and mountain views. Walking distance to the night market.",
+        "nl": "Charmant resort aan de rand van het stadje met traditionele houten bungalows, een zwembad, biologische boerderij en bergzicht. Op loopafstand van de nachtmarkt."
+      }
+    },
+    {
+      "name": "Pai Treehouse Resort",
+      "category": "budget",
+      "price_range": "$",
+      "description": {
+        "en": "Unique treehouse-style accommodation surrounded by rice paddies with basic but clean rooms, a relaxed vibe, and stunning views. Perfect for backpackers seeking something different.",
+        "nl": "Unieke boomhut-stijl accommodatie omringd door rijstvelden met eenvoudige maar schone kamers, een relaxte sfeer en prachtig uitzicht. Perfect voor backpackers die iets anders zoeken."
+      }
+    },
+    {
+      "name": "Reverie Siam Resort",
+      "category": "luxury",
+      "price_range": "$$$",
+      "description": {
+        "en": "Pai's most luxurious property featuring colonial-style suites with antique furnishings, a gorgeous riverside pool, fine dining restaurant, and impeccable service in a garden setting.",
+        "nl": "Het meest luxueuze verblijf in Pai met koloniale suites met antiek meubilair, een prachtig zwembad aan de rivier, fine dining restaurant en onberispelijke service in een tuinomgeving."
+      }
+    },
+    {
+      "name": "Pai Island Resort",
+      "category": "midrange",
+      "price_range": "$$",
+      "description": {
+        "en": "Popular mid-range resort with clean modern rooms, a large pool, and lush tropical gardens. Centrally located but quiet, with friendly staff and excellent breakfast.",
+        "nl": "Populair middenklasse resort met schone moderne kamers, een groot zwembad en weelderige tropische tuinen. Centraal gelegen maar rustig, met vriendelijk personeel en uitstekend ontbijt."
+      }
+    },
+    {
+      "name": "Spicypai Backpackers Hostel",
+      "category": "budget",
+      "price_range": "$",
+      "description": {
+        "en": "Top-rated backpacker hostel with clean dorms, a lively common area, pool, and organized social events. The best place to meet fellow travelers in Pai.",
+        "nl": "Hoog gewaardeerd backpackershostel met schone slaapzalen, een levendige gemeenschappelijke ruimte, zwembad en georganiseerde sociale evenementen. De beste plek om medereizigers te ontmoeten in Pai."
+      }
+    }
+  ],
+  "travel_tips": [
+    {
+      "title": {
+        "en": "Surviving the 762 Curves",
+        "nl": "De 762 bochten overleven"
+      },
+      "content": {
+        "en": "The road from Chiang Mai to Pai has 762 curves and takes about 3 hours by minivan. Take motion sickness medicine 30 minutes before departure. Alternatively, fly from Chiang Mai with Kan Air (20 minutes) if your budget allows.",
+        "nl": "De weg van Chiang Mai naar Pai heeft 762 bochten en duurt ongeveer 3 uur per minibusje. Neem 30 minuten voor vertrek een reisziektepil. Als alternatief kun je vliegen vanuit Chiang Mai met Kan Air (20 minuten) als je budget het toelaat."
+      }
+    },
+    {
+      "title": {
+        "en": "Rent a Motorbike",
+        "nl": "Huur een scooter"
+      },
+      "content": {
+        "en": "A motorbike is essential in Pai as attractions are spread out. Rent from Aya Service on Chaisongkhram Road for 150-250 baht/day. Drive carefully on mountain roads, especially during rainy season when roads become slippery.",
+        "nl": "Een scooter is essentieel in Pai omdat de bezienswaardigheden verspreid liggen. Huur bij Aya Service op Chaisongkhram Road voor 150-250 baht/dag. Rij voorzichtig op bergwegen, vooral tijdens het regenseizoen wanneer wegen glad worden."
+      }
+    },
+    {
+      "title": {
+        "en": "Best Time for Pai Canyon",
+        "nl": "Beste tijd voor Pai Canyon"
+      },
+      "content": {
+        "en": "Visit Pai Canyon at sunrise or sunset for the most dramatic views and fewer crowds. The narrow ridgeline can be nerve-wracking in flip-flops, so wear proper shoes with grip.",
+        "nl": "Bezoek Pai Canyon bij zonsopgang of zonsondergang voor het meest dramatische uitzicht en minder drukte. De smalle bergkam kan zenuwslopend zijn op slippers, dus draag degelijke schoenen met grip."
+      }
+    },
+    {
+      "title": {
+        "en": "Pack Layers",
+        "nl": "Neem laagjes kleding mee"
+      },
+      "content": {
+        "en": "Pai gets surprisingly cold from November to February, with temperatures dropping to 5-10 degrees Celsius at night. Bring a warm jacket and long pants. During the day it is pleasant at 20-25 degrees.",
+        "nl": "Pai wordt verrassend koud van november tot februari, met temperaturen die 's nachts dalen tot 5-10 graden Celsius. Neem een warme jas en lange broek mee. Overdag is het aangenaam met 20-25 graden."
+      }
+    },
+    {
+      "title": {
+        "en": "Cash is King",
+        "nl": "Contant geld is koning"
+      },
+      "content": {
+        "en": "Many small shops, market stalls, and guesthouses in Pai only accept cash. There are ATMs on the main street but they charge 220 baht per withdrawal. Bring enough cash from Chiang Mai.",
+        "nl": "Veel kleine winkels, marktkraampjes en pensions in Pai accepteren alleen contant geld. Er zijn geldautomaten op de hoofdstraat maar die rekenen 220 baht per opname. Neem genoeg contant geld mee vanuit Chiang Mai."
+      }
+    }
+  ],
+  "best_time_to_visit": {
+    "en": "November to February is the best time to visit Pai, when the weather is cool and dry with clear mountain views. December and January can get quite cold at night (5-10 degrees Celsius). The rainy season from June to October brings lush green landscapes but muddy roads.",
+    "nl": "November tot februari is de beste tijd om Pai te bezoeken, wanneer het weer koel en droog is met helder bergzicht. December en januari kunnen 's nachts behoorlijk koud worden (5-10 graden Celsius). Het regenseizoen van juni tot oktober brengt weelderig groen landschap maar modderige wegen."
+  },
+  "budget_info": {
+    "budget_per_day": {
+      "en": "$15-25",
+      "nl": "$15-25"
+    },
+    "midrange_per_day": {
+      "en": "$40-70",
+      "nl": "$40-70"
+    },
+    "luxury_per_day": {
+      "en": "$120+",
+      "nl": "$120+"
+    }
+  },
+  "enhanced_at": "2026-02-22T00:00:00.000Z",
+  "ai_generated": true
+}

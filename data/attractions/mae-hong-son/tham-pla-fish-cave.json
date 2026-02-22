@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "tham-pla-fish-cave",
+  "name": {
+    "en": "Tham Pla (Fish Cave)",
+    "nl": "Tham Pla (Vissengrot)"
+  },
+  "type": "nature",
+  "city_slug": "mae-hong-son",
+  "address": "Tham Pla-Namtok Pha Suea National Park, Tambon Mok Champae, Mae Hong Son 58000",
+  "location": {
+    "lat": 19.3537,
+    "lng": 97.9547
+  },
+  "opening_hours": "08:00-16:30 daily",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Mysterious cave spring pool teeming with thousands of sacred giant soro brook carp in a lush forest park. The fish are considered holy and must not be caught. Beautiful boardwalk trails through the surrounding forest.",
+    "nl": "Mysterieuze grotbron vol met duizenden heilige reusachtige soro-beekkarpers in een weelderig bospark. De vissen worden als heilig beschouwd en mogen niet worden gevangen. Prachtige vlonderpaden door het omringende bos."
+  },
+  "highlights": [
+    "Sacred fish pool",
+    "Forest boardwalk trails",
+    "Lush national park setting",
+    "Cave spring source"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Tham Pla Fish Cave - Top Attraction in Mae Hong Son | Go2Thailand",
+      "nl": "Tham Pla Vissengrot - Top Attractie in Mae Hong Son | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Tham Pla Fish Cave in Mae Hong Son. Sacred cave spring pool with thousands of giant carp in a forest park.",
+      "nl": "Ontdek Tham Pla Vissengrot in Mae Hong Son. Heilige grotbron met duizenden reusachtige karpers in een bospark."
+    }
+  },
+  "tags": [
+    "nature",
+    "mae-hong-son",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

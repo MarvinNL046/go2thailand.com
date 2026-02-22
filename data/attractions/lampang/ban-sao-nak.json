@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "ban-sao-nak",
+  "name": {
+    "en": "Ban Sao Nak (Many Pillars House)",
+    "nl": "Ban Sao Nak (Huis van Vele Pilaren)"
+  },
+  "type": "cultural",
+  "city_slug": "lampang",
+  "address": "Ratsadaphisek Road, Tambon Wiang Nuea, Amphoe Muang, Lampang 52000",
+  "location": {
+    "lat": 18.2900,
+    "lng": 99.5000
+  },
+  "opening_hours": "10:00-17:00 daily",
+  "entrance_fee": {
+    "thb": 50,
+    "usd": 1
+  },
+  "description": {
+    "en": "A magnificent 100-year-old teak mansion built on 116 teak pillars, showcasing traditional Lanna aristocratic lifestyle with original furnishings, Burmese lacquerware, and antique household items.",
+    "nl": "Een prachtig 100 jaar oud teakhouten herenhuis gebouwd op 116 teakhouten pilaren, dat de traditionele Lanna-aristocratische levensstijl toont met origineel meubilair, Burmees lakwerk en antieke huishoudelijke voorwerpen."
+  },
+  "highlights": [
+    "116 teak support pillars",
+    "Original Lanna furnishings",
+    "Burmese lacquerware collection",
+    "Century-old teak architecture"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Ban Sao Nak - Top Attraction in Lampang | Go2Thailand",
+      "nl": "Ban Sao Nak - Top Attractie in Lampang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Ban Sao Nak in Lampang. Magnificent teak mansion with 116 pillars showcasing Lanna aristocratic heritage.",
+      "nl": "Ontdek Ban Sao Nak in Lampang. Prachtig teakhouten herenhuis met 116 pilaren dat Lanna-aristocratisch erfgoed toont."
+    }
+  },
+  "tags": [
+    "cultural",
+    "lampang",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

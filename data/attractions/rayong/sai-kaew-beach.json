@@ -1,0 +1,11 @@
+{
+  "id": 2, "slug": "sai-kaew-beach", "name": { "en": "Sai Kaew Beach (Diamond Beach)", "nl": "Sai Kaew Strand (Diamantstrand)" },
+  "type": "beach", "city_slug": "rayong", "address": "Sai Kaew Beach, Koh Samet, Rayong 21160",
+  "location": { "lat": 12.5750, "lng": 101.4556 }, "opening_hours": "Open 24 hours",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Koh Samet's longest and most popular beach with powder-white sand, water sports, and fire shows at night", "nl": "Koh Samet's langste en populairste strand met poederwit zand, watersporten en vuurshows 's avonds" },
+  "highlights": ["Powder-white sand", "Nightly fire shows", "Water sports rentals", "Beachfront bars"],
+  "image": "/images/cities/phuket/phuket-old-town.webp", "official_website": null,
+  "seo": { "metaTitle": { "en": "Sai Kaew Beach - Top Attraction on Koh Samet | Go2Thailand", "nl": "Sai Kaew Strand - Top Attractie op Koh Samet | Go2Thailand" }, "metaDescription": { "en": "Discover Sai Kaew Beach on Koh Samet. Powder-white sand and nightly fire shows...", "nl": "Ontdek Sai Kaew Strand op Koh Samet. Poederwit zand en nachtelijke vuurshows..." } },
+  "tags": ["beach", "rayong", "thailand", "attraction", "travel", "tourism"]
+}

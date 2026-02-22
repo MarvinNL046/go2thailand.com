@@ -1,0 +1,58 @@
+{
+  "id": 12,
+  "slug": "mae-hong-son",
+  "name": {
+    "en": "Mae Hong Son",
+    "nl": "Mae Hong Son"
+  },
+  "region": "Northern",
+  "province": "Mae Hong Son",
+  "description": {
+    "en": "One of Thailand's most remote provincial capitals in a misty mountain valley near Myanmar border, famous for caves, hill tribes, and the Su Tong Pae bamboo bridge.",
+    "nl": "Een van de meest afgelegen provinciale hoofdsteden van Thailand in een mistige bergvallei bij de grens met Myanmar, beroemd om grotten, bergstammen en de Su Tong Pae bamboebrug."
+  },
+  "population": 10000,
+  "highlights": [
+    "Pang Ung",
+    "Tham Lod Cave",
+    "Su Tong Pae Bridge",
+    "Morning Mist"
+  ],
+  "location": {
+    "lat": 19.299,
+    "lng": 97.9684
+  },
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Mae Hong Son | What to do in Mae Hong Son?",
+      "nl": "Ontdek Mae Hong Son | Wat te doen in Mae Hong Son?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Mae Hong Son, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Mae Hong Son, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Mae Hong Son",
+      "nl": "Beste restaurants en streetfood in Mae Hong Son"
+    },
+    "hotels": {
+      "en": "Top hotels in Mae Hong Son | Tips & deals",
+      "nl": "Beste hotels in Mae Hong Son | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Mae Hong Son",
+      "nl": "Top bezienswaardigheden in Mae Hong Son"
+    }
+  },
+  "tags": [
+    "northern",
+    "mae hong son",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

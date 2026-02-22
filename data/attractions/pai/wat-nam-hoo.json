@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "slug": "wat-nam-hoo",
+  "name": {
+    "en": "Wat Nam Hoo",
+    "nl": "Wat Nam Hoo"
+  },
+  "type": "temple",
+  "city_slug": "pai",
+  "address": "Tambon Wiang Tai, Amphoe Pai, Mae Hong Son 58130",
+  "location": {
+    "lat": 19.3650,
+    "lng": 98.4350
+  },
+  "opening_hours": "06:00-18:00 daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Ancient hilltop temple with a revered Buddha image said to have once oozed holy water, offering peaceful views over Pai town. A quiet spiritual retreat away from the backpacker scene.",
+    "nl": "Oude tempel op de heuveltop met een vereerd Boeddhabeeld dat ooit heilig water zou hebben uitgescheiden, met vredig uitzicht over het stadje Pai. Een rustig spiritueel toevluchtsoord weg van de backpackersscene."
+  },
+  "highlights": [
+    "Sacred Buddha image",
+    "Hilltop panoramic views",
+    "Peaceful atmosphere",
+    "Ancient temple grounds"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Nam Hoo - Top Attraction in Pai | Go2Thailand",
+      "nl": "Wat Nam Hoo - Top Attractie in Pai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Nam Hoo in Pai. Ancient hilltop temple with sacred Buddha image and peaceful views over Pai.",
+      "nl": "Ontdek Wat Nam Hoo in Pai. Oude heuveltoptempel met heilig Boeddhabeeld en vredig uitzicht over Pai."
+    }
+  },
+  "tags": [
+    "temple",
+    "pai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

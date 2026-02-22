@@ -1,0 +1,11 @@
+{
+  "id": 6, "slug": "ao-prao-beach", "name": { "en": "Ao Prao Beach (Koh Samet)", "nl": "Ao Prao Strand (Koh Samet)" },
+  "type": "beach", "city_slug": "rayong", "address": "Ao Prao, west coast of Koh Samet, Rayong 21160",
+  "location": { "lat": 12.5639, "lng": 101.4389 }, "opening_hours": "Open 24 hours",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "The only beach on Koh Samet's west coast with stunning sunsets and a peaceful atmosphere", "nl": "Het enige strand aan de westkust van Koh Samet met prachtige zonsondergangen en een vredig sfeer" },
+  "highlights": ["Spectacular sunsets", "Quiet west coast", "Upscale resorts", "Less crowded than east"],
+  "image": "/images/cities/phuket/phuket-old-town.webp", "official_website": null,
+  "seo": { "metaTitle": { "en": "Ao Prao Beach - Top Attraction on Koh Samet | Go2Thailand", "nl": "Ao Prao Strand - Top Attractie op Koh Samet | Go2Thailand" }, "metaDescription": { "en": "Discover Ao Prao Beach on Koh Samet's quiet west coast. Stunning sunsets...", "nl": "Ontdek Ao Prao Strand aan Koh Samet's rustige westkust. Prachtige zonsondergangen..." } },
+  "tags": ["beach", "rayong", "thailand", "attraction", "travel", "tourism"]
+}

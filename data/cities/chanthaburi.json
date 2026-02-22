@@ -1,0 +1,58 @@
+{
+  "id": 28,
+  "slug": "chanthaburi",
+  "name": {
+    "en": "Chanthaburi",
+    "nl": "Chanthaburi"
+  },
+  "region": "Central",
+  "province": "Chanthaburi",
+  "description": {
+    "en": "Known as the gem capital of Thailand, a charming eastern city with a thriving gem market, magnificent cathedral, tropical fruit orchards, and French-Vietnamese colonial architecture.",
+    "nl": "Bekend als de edelsteenhoofdstad van Thailand, een charmante oostelijke stad met een bloeiende edelsteenmarkt, prachtige kathedraal, tropische fruitboomgaarden en Frans-Vietnamese koloniale architectuur."
+  },
+  "population": 75000,
+  "highlights": [
+    "Gem Market",
+    "Cathedral of the Immaculate Conception",
+    "Oasis Sea World",
+    "Tropical Fruit Orchards"
+  ],
+  "location": {
+    "lat": 12.6113,
+    "lng": 102.1032
+  },
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Chanthaburi | What to do in Chanthaburi?",
+      "nl": "Ontdek Chanthaburi | Wat te doen in Chanthaburi?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Chanthaburi, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Chanthaburi, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Chanthaburi",
+      "nl": "Beste restaurants en streetfood in Chanthaburi"
+    },
+    "hotels": {
+      "en": "Top hotels in Chanthaburi | Tips & deals",
+      "nl": "Beste hotels in Chanthaburi | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Chanthaburi",
+      "nl": "Top bezienswaardigheden in Chanthaburi"
+    }
+  },
+  "tags": [
+    "central",
+    "chanthaburi",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

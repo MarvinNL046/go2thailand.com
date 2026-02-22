@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "khon-kaen-national-museum",
+  "name": {
+    "en": "Khon Kaen National Museum",
+    "nl": "Khon Kaen Nationaal Museum"
+  },
+  "type": "museum",
+  "city_slug": "khon-kaen",
+  "address": "Lang Suan Ratchakan Road, Tambon Nai Mueang, Amphoe Muang, Khon Kaen 40000",
+  "location": {
+    "lat": 16.4410,
+    "lng": 102.8350
+  },
+  "opening_hours": "09:00-16:00 Wednesday-Sunday (closed Monday-Tuesday)",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Regional museum showcasing Isaan history from prehistoric times through the Dvaravati and Khmer periods to modern day. Features Ban Chiang-era pottery, Dvaravati Buddhist art, and exhibits on northeastern Thai cultural heritage.",
+    "nl": "Regionaal museum dat de Isaan-geschiedenis toont van prehistorische tijden via de Dvaravati- en Khmer-perioden tot heden. Met Ban Chiang-tijdperk aardewerk, Dvaravati boeddhistische kunst en tentoonstellingen over Noordoost-Thais cultureel erfgoed."
+  },
+  "highlights": [
+    "Dvaravati Buddhist art",
+    "Isaan historical timeline",
+    "Ban Chiang pottery",
+    "Regional cultural displays"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Khon Kaen National Museum - Top Attraction in Khon Kaen | Go2Thailand",
+      "nl": "Khon Kaen Nationaal Museum - Top Attractie in Khon Kaen | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Khon Kaen National Museum. Isaan history from prehistoric times with Dvaravati art and Ban Chiang pottery.",
+      "nl": "Ontdek Khon Kaen Nationaal Museum. Isaan-geschiedenis uit prehistorische tijden met Dvaravati-kunst en Ban Chiang aardewerk."
+    }
+  },
+  "tags": [
+    "museum",
+    "khon-kaen",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

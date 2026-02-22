@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "phu-wiang-dinosaur-museum",
+  "name": {
+    "en": "Phu Wiang Dinosaur Museum",
+    "nl": "Phu Wiang Dinosaurusmuseum"
+  },
+  "type": "museum",
+  "city_slug": "khon-kaen",
+  "address": "Phu Wiang National Park, Amphoe Phu Wiang, Khon Kaen 40150",
+  "location": {
+    "lat": 16.7300,
+    "lng": 102.2900
+  },
+  "opening_hours": "09:00-17:00 Tuesday-Sunday (closed Monday)",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "World-class dinosaur museum showcasing fossils from Khon Kaen province, including the Siamotyrannus isanensis, a relative of T-Rex. Features life-size replicas, interactive exhibits, and a forested park with excavation sites.",
+    "nl": "Wereldklasse dinosaurusmuseum met fossielen uit de provincie Khon Kaen, waaronder de Siamotyrannus isanensis, een familielid van T-Rex. Met levensgrote replica's, interactieve tentoonstellingen en een bebost park met opgravingslocaties."
+  },
+  "highlights": [
+    "Siamotyrannus isanensis fossils",
+    "Life-size dinosaur replicas",
+    "Interactive exhibits",
+    "Excavation sites in park"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Phu Wiang Dinosaur Museum - Top Attraction in Khon Kaen | Go2Thailand",
+      "nl": "Phu Wiang Dinosaurusmuseum - Top Attractie in Khon Kaen | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Phu Wiang Dinosaur Museum in Khon Kaen. World-class fossils including Siamotyrannus, Thailand's T-Rex relative.",
+      "nl": "Ontdek Phu Wiang Dinosaurusmuseum in Khon Kaen. Wereldklasse fossielen waaronder Siamotyrannus, Thailand's T-Rex familielid."
+    }
+  },
+  "tags": [
+    "museum",
+    "khon-kaen",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 7, "slug": "rayong-fruit-orchards", "name": { "en": "Rayong Fruit Orchards", "nl": "Rayong Fruitboomgaarden" },
+  "type": "nature", "city_slug": "rayong", "address": "Various orchards along Highway 3, Rayong Province",
+  "location": { "lat": 12.7000, "lng": 101.3000 }, "opening_hours": "08:00-17:00 (seasonal: April-June)",
+  "entrance_fee": { "thb": 100, "usd": 3 },
+  "description": { "en": "Tropical fruit orchards offering visitors the chance to pick durian, rambutan, and mangosteen during fruit season", "nl": "Tropische fruitboomgaarden waar bezoekers tijdens het fruitseizoen durian, rambutan en mangosteen kunnen plukken" },
+  "highlights": ["Pick your own fruit", "Durian and mangosteen tasting", "Seasonal April-June", "All-you-can-eat buffets"],
+  "image": "/images/cities/phuket/phuket-old-town.webp", "official_website": null,
+  "seo": { "metaTitle": { "en": "Rayong Fruit Orchards - Top Attraction in Rayong | Go2Thailand", "nl": "Rayong Fruitboomgaarden - Top Attractie in Rayong | Go2Thailand" }, "metaDescription": { "en": "Discover Rayong's fruit orchards. Pick durian, rambutan, and mangosteen...", "nl": "Ontdek Rayong's fruitboomgaarden. Pluk durian, rambutan en mangosteen..." } },
+  "tags": ["nature", "rayong", "thailand", "attraction", "travel", "tourism"]
+}

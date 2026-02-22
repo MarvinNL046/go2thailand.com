@@ -1,0 +1,58 @@
+{
+  "id": 19,
+  "slug": "hua-hin",
+  "name": {
+    "en": "Hua Hin",
+    "nl": "Hua Hin"
+  },
+  "region": "Central",
+  "province": "Prachuap Khiri Khan",
+  "description": {
+    "en": "Thailand's original royal beach resort town, beloved by Thai royalty for over a century with long sandy beaches, vibrant night markets, and world-class golf courses.",
+    "nl": "Thailands oorspronkelijke koninklijke badplaats, al meer dan een eeuw geliefd bij het Thaise koningshuis met lange zandstranden, levendige nachtmarkten en golfbanen van wereldklasse."
+  },
+  "population": 86000,
+  "highlights": [
+    "Hua Hin Beach",
+    "Cicada Market",
+    "Maruekhathaiyawan Palace",
+    "Khao Takiab"
+  ],
+  "location": {
+    "lat": 12.5684,
+    "lng": 99.9577
+  },
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Hua Hin | What to do in Hua Hin?",
+      "nl": "Ontdek Hua Hin | Wat te doen in Hua Hin?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Hua Hin, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Hua Hin, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Hua Hin",
+      "nl": "Beste restaurants en streetfood in Hua Hin"
+    },
+    "hotels": {
+      "en": "Top hotels in Hua Hin | Tips & deals",
+      "nl": "Beste hotels in Hua Hin | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Hua Hin",
+      "nl": "Top bezienswaardigheden in Hua Hin"
+    }
+  },
+  "tags": [
+    "central",
+    "prachuap khiri khan",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

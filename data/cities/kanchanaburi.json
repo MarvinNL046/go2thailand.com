@@ -1,0 +1,58 @@
+{
+  "id": 18,
+  "slug": "kanchanaburi",
+  "name": {
+    "en": "Kanchanaburi",
+    "nl": "Kanchanaburi"
+  },
+  "region": "Central",
+  "province": "Kanchanaburi",
+  "description": {
+    "en": "Historic city on the River Kwai, known for WWII sites, stunning waterfalls, and jungle adventures. Home to the famous Bridge over the River Kwai and Erawan National Park.",
+    "nl": "Historische stad aan de rivier Kwai, bekend om WOII-locaties, prachtige watervallen en jungleavonturen. Thuisbasis van de beroemde Brug over de Rivier Kwai en Erawan Nationaal Park."
+  },
+  "population": 63000,
+  "highlights": [
+    "Bridge over River Kwai",
+    "Erawan National Park",
+    "Death Railway",
+    "Hellfire Pass"
+  ],
+  "location": {
+    "lat": 14.0223,
+    "lng": 99.5328
+  },
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Kanchanaburi | What to do in Kanchanaburi?",
+      "nl": "Ontdek Kanchanaburi | Wat te doen in Kanchanaburi?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Kanchanaburi, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Kanchanaburi, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Kanchanaburi",
+      "nl": "Beste restaurants en streetfood in Kanchanaburi"
+    },
+    "hotels": {
+      "en": "Top hotels in Kanchanaburi | Tips & deals",
+      "nl": "Beste hotels in Kanchanaburi | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Kanchanaburi",
+      "nl": "Top bezienswaardigheden in Kanchanaburi"
+    }
+  },
+  "tags": [
+    "central",
+    "kanchanaburi",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

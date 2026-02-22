@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "bovorn-bazaar-night-market",
+  "name": {
+    "en": "Bovorn Bazaar Night Market",
+    "nl": "Bovorn Bazaar Nachtmarkt"
+  },
+  "type": "market",
+  "city_slug": "nakhon-si-thammarat",
+  "address": "Bovorn Bazaar Road, Nai Mueang, Nakhon Si Thammarat 80000",
+  "location": {
+    "lat": 8.4250,
+    "lng": 99.9630
+  },
+  "opening_hours": "5:00 PM - 10:00 PM",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "An authentic local night market where Nakhon's residents gather for southern Thai street food. Grilled squid, khanom jeen with spicy curry, fermented rice noodles, and traditional desserts are served at rock-bottom prices. A genuine local experience with virtually no foreign tourists.",
+    "nl": "Een authentieke lokale nachtmarkt waar de inwoners van Nakhon samenkomen voor Zuid-Thais straatvoedsel. Gegrilde inktvis, khanom jeen met pittige curry, gefermenteerde rijstnoedels en traditionele desserts worden geserveerd voor bodemprijzen. Een echte lokale ervaring met vrijwel geen buitenlandse toeristen."
+  },
+  "highlights": [
+    "Authentic southern Thai food",
+    "Grilled seafood stalls",
+    "Rock-bottom prices",
+    "Zero tourist presence"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Bovorn Bazaar Night Market - Nakhon Street Food | Go2Thailand",
+      "nl": "Bovorn Bazaar Nachtmarkt - Nakhon Straatvoedsel | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Experience the Bovorn Bazaar Night Market in Nakhon Si Thammarat. Authentic southern Thai street food at local prices with no tourist crowds.",
+      "nl": "Ervaar de Bovorn Bazaar Nachtmarkt in Nakhon Si Thammarat. Authentiek Zuid-Thais straatvoedsel voor lokale prijzen zonder toeristische drukte."
+    }
+  },
+  "tags": [
+    "market",
+    "nakhon-si-thammarat",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

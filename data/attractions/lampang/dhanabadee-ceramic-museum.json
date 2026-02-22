@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "dhanabadee-ceramic-museum",
+  "name": {
+    "en": "Dhanabadee Ceramic Museum",
+    "nl": "Dhanabadee Keramiekmuseum"
+  },
+  "type": "museum",
+  "city_slug": "lampang",
+  "address": "20 Moo 6, Tambon Phrabat, Amphoe Muang, Lampang 52000",
+  "location": {
+    "lat": 18.2530,
+    "lng": 99.4930
+  },
+  "opening_hours": "09:00-17:00 Tuesday-Sunday (closed Monday)",
+  "entrance_fee": {
+    "thb": 150,
+    "usd": 4
+  },
+  "description": {
+    "en": "A fascinating museum housed in a historic ceramics factory telling the story of Lampang's 100-year ceramics industry. Offers hands-on pottery painting workshops where visitors can paint the iconic Lampang rooster bowl.",
+    "nl": "Een fascinerend museum gehuisvest in een historische keramiekfabriek dat het verhaal vertelt van Lampangs 100-jarige keramiekindustrie. Biedt praktische pottenbak-schilderworkshops waar bezoekers de iconische Lampang hanenkom kunnen beschilderen."
+  },
+  "highlights": [
+    "Rooster bowl painting workshop",
+    "100-year factory history",
+    "Ceramics production tour",
+    "Gift shop with local pottery"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "https://www.dfrgroup.co.th",
+  "seo": {
+    "metaTitle": {
+      "en": "Dhanabadee Ceramic Museum - Top Attraction in Lampang | Go2Thailand",
+      "nl": "Dhanabadee Keramiekmuseum - Top Attractie in Lampang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Dhanabadee Ceramic Museum in Lampang. Learn about the city's ceramics heritage and paint your own rooster bowl.",
+      "nl": "Ontdek Dhanabadee Keramiekmuseum in Lampang. Leer over het keramiekerfgoed en beschilder je eigen hanenkom."
+    }
+  },
+  "tags": [
+    "museum",
+    "lampang",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

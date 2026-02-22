@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "udon-thani-central-market",
+  "name": {
+    "en": "Udon Thani Central Market",
+    "nl": "Udon Thani Centrale Markt"
+  },
+  "type": "market",
+  "city_slug": "udon-thani",
+  "address": "Pracha Road, Tambon Mak Khaeng, Amphoe Muang, Udon Thani 41000",
+  "location": {
+    "lat": 17.4150,
+    "lng": 102.7900
+  },
+  "opening_hours": "04:00-18:00 daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Sprawling central wet market on Pracha Road with hundreds of vendors selling everything from fresh produce, live frogs, and fermented fish to silk fabrics and Isaan herbal medicines. The authentic heartbeat of Udon Thani.",
+    "nl": "Uitgestrekte centrale versmarkt op Pracha Road met honderden verkopers die alles verkopen van verse producten, levende kikkers en gefermenteerde vis tot zijden stoffen en Isaan-kruidengeneesmiddelen. Het authentieke kloppende hart van Udon Thani."
+  },
+  "highlights": [
+    "Hundreds of vendors",
+    "Isaan specialties and herbs",
+    "Local silk fabrics",
+    "Authentic wet market experience"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Udon Thani Central Market - Top Attraction in Udon Thani | Go2Thailand",
+      "nl": "Udon Thani Centrale Markt - Top Attractie in Udon Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Udon Thani Central Market. Sprawling wet market with Isaan specialties, silk, and hundreds of local vendors.",
+      "nl": "Ontdek Udon Thani Centrale Markt. Uitgestrekte versmarkt met Isaan-specialiteiten, zijde en honderden lokale verkopers."
+    }
+  },
+  "tags": [
+    "market",
+    "udon-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

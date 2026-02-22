@@ -1,0 +1,14 @@
+{
+  "id": 8, "slug": "khitung-waterfall",
+  "name": { "en": "Khitung Waterfall", "nl": "Khitung Waterval" },
+  "type": "nature", "city_slug": "chanthaburi",
+  "address": "Khitung Waterfall, Makham, Chanthaburi 22150",
+  "location": { "lat": 12.6800, "lng": 102.2200 },
+  "opening_hours": "8:00 AM - 5:00 PM",
+  "entrance_fee": { "thb": 100, "usd": 3 },
+  "description": { "en": "A stunning jungle waterfall reached via a hiking trail through pristine forest in the hills east of Chanthaburi. Far less visited than the famous Phlio Waterfall, Khitung offers a more adventurous and solitary experience with a natural swimming pool at the base of the cascade surrounded by untouched forest.", "nl": "Een prachtige junglewaterval bereikbaar via een wandelpad door ongerept bos in de heuvels ten oosten van Chanthaburi. Veel minder bezocht dan de beroemde Phlio Waterval, Khitung biedt een avontuurlijkere en eenzamere ervaring met een natuurlijk zwembad aan de voet van de cascade omringd door ongeraakt bos." },
+  "highlights": ["Jungle hiking trail", "Natural swimming pool", "Less visited than Phlio", "Pristine forest setting"],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
+  "seo": { "metaTitle": { "en": "Khitung Waterfall - Hidden Jungle Waterfall | Go2Thailand", "nl": "Khitung Waterval - Verborgen Jungle Waterval | Go2Thailand" }, "metaDescription": { "en": "Hike to Khitung Waterfall in Chanthaburi. A hidden jungle waterfall with a natural swimming pool in pristine forest.", "nl": "Wandel naar de Khitung Waterval in Chanthaburi. Een verborgen junglewaterval met een natuurlijk zwembad in ongerept bos." } },
+  "tags": ["nature", "chanthaburi", "thailand", "attraction", "travel", "tourism"]
+}

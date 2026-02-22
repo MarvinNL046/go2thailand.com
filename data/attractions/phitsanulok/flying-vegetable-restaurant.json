@@ -1,0 +1,18 @@
+{
+  "id": 5, "slug": "flying-vegetable-restaurant",
+  "name": { "en": "Flying Vegetable Restaurant (Pak Bung Loi Fa)", "nl": "Vliegende Groente Restaurant (Pak Bung Loi Fa)" },
+  "type": "cultural", "city_slug": "phitsanulok",
+  "address": "Along the Nan River, Phitsanulok 65000",
+  "location": { "lat": 16.8215, "lng": 100.2600 },
+  "opening_hours": "10:00-22:00",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Famous riverside restaurant where stir-fried morning glory is launched through the air and caught on a plate", "nl": "Beroemd rivierrestaurant waar gebakken morning glory door de lucht wordt gelanceerd en op een bord wordt gevangen" },
+  "highlights": ["Flying morning glory show", "Riverside dining", "Local icon since 1960s", "Entertaining experience"],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "Flying Vegetable Restaurant - Top Attraction in Phitsanulok | Go2Thailand", "nl": "Vliegende Groente Restaurant - Top Attractie in Phitsanulok | Go2Thailand" },
+    "metaDescription": { "en": "Discover the Flying Vegetable Restaurant in Phitsanulok. Watch stir-fry launched through the air...", "nl": "Ontdek het Vliegende Groente Restaurant in Phitsanulok. Bekijk de roerbak die door de lucht vliegt..." }
+  },
+  "tags": ["cultural", "phitsanulok", "thailand", "attraction", "travel", "tourism"]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "slug": "prasat-muang-singh",
+  "name": {
+    "en": "Prasat Muang Singh Historical Park",
+    "nl": "Prasat Muang Singh Historisch Park"
+  },
+  "type": "historic",
+  "city_slug": "kanchanaburi",
+  "address": "Moo 6, Tambon Tha Sao, Sai Yok District, Kanchanaburi 71150",
+  "location": {
+    "lat": 14.0939,
+    "lng": 99.2283
+  },
+  "opening_hours": "08:00-16:30",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "13th-century Khmer ruins on the banks of the River Kwai Noi, the westernmost outpost of the Angkor Empire",
+    "nl": "13e-eeuwse Khmer-ruines aan de oevers van de Rivier Kwai Noi, de meest westelijke buitenpost van het Angkor-rijk"
+  },
+  "highlights": [
+    "Khmer ruins",
+    "Riverside setting",
+    "Ancient history",
+    "Quiet atmosphere"
+  ],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Prasat Muang Singh Historical Park - Top Attraction in Kanchanaburi | Go2Thailand",
+      "nl": "Prasat Muang Singh Historisch Park - Top Attractie in Kanchanaburi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Prasat Muang Singh in Kanchanaburi. 13th-century Khmer ruins on the River Kwai Noi...",
+      "nl": "Ontdek Prasat Muang Singh in Kanchanaburi. 13e-eeuwse Khmer-ruines aan de Rivier Kwai Noi..."
+    }
+  },
+  "tags": [
+    "historic",
+    "kanchanaburi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

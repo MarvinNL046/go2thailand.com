@@ -1,0 +1,58 @@
+{
+  "id": 13,
+  "slug": "lampang",
+  "name": {
+    "en": "Lampang",
+    "nl": "Lampang"
+  },
+  "region": "Northern",
+  "province": "Lampang",
+  "description": {
+    "en": "The only city in Thailand where horse-drawn carriages still roam the streets, with magnificent Lanna temples and a famous elephant conservation center.",
+    "nl": "De enige stad in Thailand waar paardenkoetsen nog door de straten rijden, met prachtige Lanna-tempels en een beroemd olifantenopvangcentrum."
+  },
+  "population": 59000,
+  "highlights": [
+    "Horse-Drawn Carriages",
+    "Wat Phra That Lampang Luang",
+    "Thai Elephant Conservation Center",
+    "Kad Kong Ta Walking Street"
+  ],
+  "location": {
+    "lat": 18.2888,
+    "lng": 99.4987
+  },
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Lampang | What to do in Lampang?",
+      "nl": "Ontdek Lampang | Wat te doen in Lampang?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Lampang, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Lampang, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Lampang",
+      "nl": "Beste restaurants en streetfood in Lampang"
+    },
+    "hotels": {
+      "en": "Top hotels in Lampang | Tips & deals",
+      "nl": "Beste hotels in Lampang | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Lampang",
+      "nl": "Top bezienswaardigheden in Lampang"
+    }
+  },
+  "tags": [
+    "northern",
+    "lampang",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

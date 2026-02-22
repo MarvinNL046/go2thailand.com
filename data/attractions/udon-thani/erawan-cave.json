@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "erawan-cave",
+  "name": {
+    "en": "Erawan Cave (Tham Erawan)",
+    "nl": "Erawan Grot (Tham Erawan)"
+  },
+  "type": "nature",
+  "city_slug": "udon-thani",
+  "address": "Tambon Ban Phue, Amphoe Ban Phue, Udon Thani 41160",
+  "location": {
+    "lat": 17.6680,
+    "lng": 102.4500
+  },
+  "opening_hours": "08:00-17:00 daily",
+  "entrance_fee": {
+    "thb": 20,
+    "usd": 1
+  },
+  "description": {
+    "en": "Sacred cave temple 60 km west of Udon Thani with a naturally formed rock resembling Erawan, the three-headed elephant of Hindu mythology. Features dramatic stalactite formations, Buddhist shrines, and a peaceful forest setting.",
+    "nl": "Heilige grottempel op 60 km ten westen van Udon Thani met een natuurlijk gevormde rots die lijkt op Erawan, de driekoppige olifant uit de hindoeistische mythologie. Met dramatische stalactietformaties, boeddhistische heiligdommen en een rustige bosomgeving."
+  },
+  "highlights": [
+    "Erawan elephant rock formation",
+    "Sacred Buddhist cave shrines",
+    "Dramatic stalactites",
+    "Peaceful forest setting"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Erawan Cave - Top Attraction in Udon Thani | Go2Thailand",
+      "nl": "Erawan Grot - Top Attractie in Udon Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Erawan Cave near Udon Thani. Sacred cave with elephant-shaped rock formation and Buddhist shrines.",
+      "nl": "Ontdek Erawan Grot bij Udon Thani. Heilige grot met olifantvormige rotsformatie en boeddhistische heiligdommen."
+    }
+  },
+  "tags": [
+    "nature",
+    "udon-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

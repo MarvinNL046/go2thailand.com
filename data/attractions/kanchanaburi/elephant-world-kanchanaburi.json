@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "slug": "elephant-world-kanchanaburi",
+  "name": {
+    "en": "Elephant World Kanchanaburi",
+    "nl": "Elephant World Kanchanaburi"
+  },
+  "type": "nature",
+  "city_slug": "kanchanaburi",
+  "address": "69 Moo 5, Wang Dong, Mueang Kanchanaburi",
+  "location": {
+    "lat": 14.0678,
+    "lng": 99.4456
+  },
+  "opening_hours": "08:00-17:00 (advance booking required)",
+  "entrance_fee": {
+    "thb": 2500,
+    "usd": 72
+  },
+  "description": {
+    "en": "Ethical elephant sanctuary where visitors can feed, bathe, and walk with rescued elephants in a natural setting",
+    "nl": "Ethisch olifantenopvangcentrum waar bezoekers geredde olifanten kunnen voeren, wassen en mee wandelen in een natuurlijke omgeving"
+  },
+  "highlights": [
+    "Ethical sanctuary",
+    "Elephant bathing",
+    "Conservation education",
+    "Half-day and full-day programs"
+  ],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": "https://elephantsworld.org/",
+  "seo": {
+    "metaTitle": {
+      "en": "Elephant World Kanchanaburi - Top Attraction in Kanchanaburi | Go2Thailand",
+      "nl": "Elephant World Kanchanaburi - Top Attractie in Kanchanaburi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Elephant World in Kanchanaburi. Ethical elephant sanctuary with feeding and bathing programs...",
+      "nl": "Ontdek Elephant World in Kanchanaburi. Ethisch olifantenopvangcentrum met voer- en wasprogramma's..."
+    }
+  },
+  "tags": [
+    "nature",
+    "kanchanaburi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

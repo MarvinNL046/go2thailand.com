@@ -1,0 +1,20 @@
+{
+  "id": 5,
+  "slug": "hua-hin-night-market",
+  "name": { "en": "Hua Hin Night Market", "nl": "Hua Hin Nachtmarkt" },
+  "type": "market",
+  "city_slug": "hua-hin",
+  "address": "Dechanuchit Road, Hua Hin, Prachuap Khiri Khan 77110",
+  "location": { "lat": 12.5697, "lng": 99.9555 },
+  "opening_hours": "17:00-23:00 daily",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Bustling nightly market on Dechanuchit Road famous for fresh seafood, Thai street food, and souvenir shopping", "nl": "Bruisende nachtmarkt op Dechanuchit Road beroemd om verse zeevruchten, Thaise streetfood en souvenirs" },
+  "highlights": ["Fresh grilled seafood", "Thai street food", "Souvenir shopping", "Nightly atmosphere"],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "Hua Hin Night Market - Top Attraction in Hua Hin | Go2Thailand", "nl": "Hua Hin Nachtmarkt - Top Attractie in Hua Hin | Go2Thailand" },
+    "metaDescription": { "en": "Discover Hua Hin Night Market. Bustling nightly market famous for fresh seafood and street food...", "nl": "Ontdek Hua Hin Nachtmarkt. Bruisende nachtmarkt beroemd om verse zeevruchten en streetfood..." }
+  },
+  "tags": ["market", "hua-hin", "thailand", "attraction", "travel", "tourism"]
+}

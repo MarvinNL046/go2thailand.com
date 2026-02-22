@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "death-railway",
+  "name": {
+    "en": "Death Railway (Thailand-Burma Railway)",
+    "nl": "Dodenspoorweg (Thailand-Burma Spoorweg)"
+  },
+  "type": "historic",
+  "city_slug": "kanchanaburi",
+  "address": "Kanchanaburi to Nam Tok route, Kanchanaburi",
+  "location": {
+    "lat": 14.0833,
+    "lng": 99.1667
+  },
+  "opening_hours": "Train departs Kanchanaburi at 06:07 and 10:35 daily",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Historic railway line built by POWs during WWII, featuring scenic clifftop sections over the River Kwai",
+    "nl": "Historische spoorlijn gebouwd door krijgsgevangenen tijdens WOII, met schilderachtige klifgedeelten boven de Rivier Kwai"
+  },
+  "highlights": [
+    "Scenic train ride",
+    "Tham Krasae viaduct",
+    "WWII history",
+    "River Kwai views"
+  ],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Death Railway - Top Attraction in Kanchanaburi | Go2Thailand",
+      "nl": "Dodenspoorweg - Top Attractie in Kanchanaburi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover the Death Railway in Kanchanaburi. Historic railway line built by POWs during WWII...",
+      "nl": "Ontdek de Dodenspoorweg in Kanchanaburi. Historische spoorlijn gebouwd door krijgsgevangenen tijdens WOII..."
+    }
+  },
+  "tags": [
+    "historic",
+    "kanchanaburi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

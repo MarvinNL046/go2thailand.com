@@ -1,0 +1,21 @@
+{
+  "id": 3, "slug": "pak-nam-chumphon",
+  "name": { "en": "Pak Nam Chumphon", "nl": "Pak Nam Chumphon" },
+  "type": "cultural", "city_slug": "chumphon",
+  "address": "Pak Nam, Mueang Chumphon, Chumphon 86120",
+  "location": { "lat": 10.4400, "lng": 99.2200 },
+  "opening_hours": "24/7",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": {
+    "en": "The fishing port and river estuary area of Chumphon where the Tha Tapao River meets the Gulf of Thailand. Waterfront seafood restaurants serve the morning's catch at local prices, fishing boats line the quay, and the pier offers connections to Koh Tao and other Gulf islands. A working port with authentic character.",
+    "nl": "Het vissershaven- en riviermonding-gebied van Chumphon waar de Tha Tapao rivier de Golf van Thailand ontmoet. Waterkant visrestaurants serveren de ochtendvangst voor lokale prijzen, vissersboten liggen langs de kade en de pier biedt verbindingen naar Koh Tao en andere Golfeilanden. Een werkende haven met authentiek karakter."
+  },
+  "highlights": ["Working fishing port", "Fresh seafood restaurants", "Ferry connections", "River estuary views"],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": { "en": "Pak Nam Chumphon - Fishing Port & Seafood | Go2Thailand", "nl": "Pak Nam Chumphon - Vissershaven & Zeevruchten | Go2Thailand" },
+    "metaDescription": { "en": "Visit Pak Nam Chumphon. A working fishing port with fresh seafood restaurants and ferry connections to Koh Tao and the Gulf islands.", "nl": "Bezoek Pak Nam Chumphon. Een werkende vissershaven met verse visrestaurants en veerbootverbindingen naar Koh Tao en de Golfeilanden." }
+  },
+  "tags": ["cultural", "chumphon", "thailand", "attraction", "travel", "tourism"]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "koh-kradan",
+  "name": {
+    "en": "Koh Kradan",
+    "nl": "Koh Kradan"
+  },
+  "type": "beach",
+  "city_slug": "trang",
+  "address": "Koh Kradan, Kantang, Trang 92110",
+  "location": {
+    "lat": 7.2900,
+    "lng": 99.2600
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "Often called the most beautiful beach in Thailand, Koh Kradan's eastern shore features powdery white sand meeting crystal-clear water over a vibrant coral reef. The small island has no roads, no ATMs, and just a handful of resorts, making it one of the most pristine beach destinations in the Andaman Sea.",
+    "nl": "Vaak het mooiste strand van Thailand genoemd, de oostkust van Koh Kradan heeft poederachtig wit zand dat kristalhelder water ontmoet boven een levendig koraalrif. Het kleine eiland heeft geen wegen, geen geldautomaten en slechts een handvol resorts, waardoor het een van de meest ongerepte strandbestemmingen in de Andamanzee is."
+  },
+  "highlights": [
+    "Thailand's most beautiful beach",
+    "Coral reef snorkeling off beach",
+    "No roads or development",
+    "Spectacular sunsets"
+  ],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Kradan - Thailand's Most Beautiful Beach | Go2Thailand",
+      "nl": "Koh Kradan - Thailand's Mooiste Strand | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Koh Kradan, often called Thailand's most beautiful beach. Pristine white sand, coral reef snorkeling, and unspoiled island paradise in Trang.",
+      "nl": "Ontdek Koh Kradan, vaak Thailand's mooiste strand genoemd. Ongerept wit zand, koraalrif snorkelen en ongerept eilandparadijs in Trang."
+    }
+  },
+  "tags": [
+    "beach",
+    "trang",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 22,
+  "slug": "trat",
+  "name": {
+    "en": "Trat",
+    "nl": "Trat"
+  },
+  "region": "Central",
+  "province": "Trat",
+  "description": {
+    "en": "Charming eastern coastal province and gateway to Koh Chang, Thailand's second-largest island. Known for pristine islands, mangrove forests, gem trading, and authentic small-town atmosphere.",
+    "nl": "Charmante oostelijke kustprovincie en toegangspoort tot Koh Chang, Thailands op een na grootste eiland. Bekend om ongerepte eilanden, mangrovebossen, edelsteenhandel en authentieke kleinstadssfeer."
+  },
+  "population": 22000,
+  "highlights": [
+    "Koh Chang Island",
+    "Koh Kood",
+    "Trat Night Market",
+    "Mangrove Forest"
+  ],
+  "location": {
+    "lat": 12.2431,
+    "lng": 102.5149
+  },
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Trat | What to do in Trat?",
+      "nl": "Ontdek Trat | Wat te doen in Trat?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Trat, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Trat, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Trat",
+      "nl": "Beste restaurants en streetfood in Trat"
+    },
+    "hotels": {
+      "en": "Top hotels in Trat | Tips & deals",
+      "nl": "Beste hotels in Trat | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Trat",
+      "nl": "Top bezienswaardigheden in Trat"
+    }
+  },
+  "tags": [
+    "central",
+    "trat",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

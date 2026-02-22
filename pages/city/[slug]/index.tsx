@@ -1473,17 +1473,84 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
+// Recursively resolve {en, nl} bilingual objects to plain strings.
+function flattenBilingual(data: any): any {
+  if (data === null || data === undefined) return data;
+  if (typeof data !== 'object') return data;
+  if (Array.isArray(data)) return data.map(item => flattenBilingual(item));
+  // Check if this looks like a bilingual object {en, nl} or {en, nl, ...locale}
+  const keys = Object.keys(data);
+  if (keys.includes('en') && keys.every(k => k.length <= 3)) {
+    return data.en || '';
+  }
+  // Recurse into object
+  const result: any = {};
+  for (const key of keys) {
+    result[key] = flattenBilingual(data[key]);
+  }
+  return result;
+}
+
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   const slug = params?.slug as string;
-  const city = getCityBySlug(slug);
-  
-  if (!city) {
+  const rawCity = getCityBySlug(slug);
+
+  if (!rawCity) {
     return {
       notFound: true,
     };
   }
 
-  const relatedCities = getRelatedCities(city, 3);
+  // Flatten ALL bilingual objects to strings, then restore the ones the template needs
+  const city = flattenBilingual(rawCity);
+  // Restore bilingual fields that the template handles via locale lookup
+  city.name = rawCity.name;
+  city.description = rawCity.description;
+  if (rawCity.seo) city.seo = rawCity.seo;
+  if (rawCity.categories) city.categories = rawCity.categories;
+
+  // Normalize travel_tips: convert {title, content} objects to strings
+  if (city.travel_tips && Array.isArray(city.travel_tips)) {
+    city.travel_tips = city.travel_tips.map((tip: any) => {
+      if (typeof tip === 'string') return tip;
+      if (typeof tip === 'object' && tip.content) return tip.content;
+      if (typeof tip === 'object' && tip.title) return tip.title;
+      return String(tip);
+    });
+  }
+
+  // Normalize hidden_gems: map 'description' to 'story' if needed
+  if (city.hidden_gems && Array.isArray(city.hidden_gems)) {
+    city.hidden_gems = city.hidden_gems.map((gem: any) => ({
+      name: typeof gem.name === 'string' ? gem.name : gem.name?.en || '',
+      story: gem.story || gem.description || '',
+      how_to_find: gem.how_to_find || '',
+      best_time: gem.best_time || '',
+      local_insights: gem.local_insights || [],
+    }));
+  }
+
+  // Normalize best_time_to_visit: if it's a plain string, wrap it
+  if (typeof city.best_time_to_visit === 'string') {
+    city.best_time_to_visit = {
+      season: '',
+      weather: city.best_time_to_visit,
+      reasons: '',
+    };
+  }
+
+  // Normalize budget_info: convert agent format to template format
+  if (city.budget_info && !city.budget_info.daily_budget) {
+    city.budget_info = {
+      daily_budget: {
+        budget: city.budget_info.budget_per_day || city.budget_info.budget || '',
+        mid: city.budget_info.midrange_per_day || city.budget_info.mid || '',
+        luxury: city.budget_info.luxury_per_day || city.budget_info.luxury || '',
+      },
+    };
+  }
+
+  const relatedCities = getRelatedCities(rawCity, 3);
 
   const comparisonSlugs = getComparisonsForItem(slug, 'city');
   const comparisons = comparisonSlugs.map((s: string) => {

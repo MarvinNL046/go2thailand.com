@@ -1,0 +1,20 @@
+{
+  "id": 9,
+  "slug": "black-mountain-water-park",
+  "name": { "en": "Black Mountain Water Park", "nl": "Black Mountain Waterpark" },
+  "type": "attraction",
+  "city_slug": "hua-hin",
+  "address": "1 Moo 4, Nong Kae, Hua Hin, Prachuap Khiri Khan 77110",
+  "location": { "lat": 12.5136, "lng": 99.9283 },
+  "opening_hours": "10:00-18:00",
+  "entrance_fee": { "thb": 600, "usd": 17 },
+  "description": { "en": "Popular water park with slides, wave pool, and lazy river set against a mountain backdrop", "nl": "Populair waterpark met glijbanen, golfzwembad en luie rivier tegen een bergachtergrond" },
+  "highlights": ["Water slides", "Wave pool", "Lazy river", "Mountain backdrop views"],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "https://www.blackmountainwaterpark.com/",
+  "seo": {
+    "metaTitle": { "en": "Black Mountain Water Park - Top Attraction in Hua Hin | Go2Thailand", "nl": "Black Mountain Waterpark - Top Attractie in Hua Hin | Go2Thailand" },
+    "metaDescription": { "en": "Discover Black Mountain Water Park in Hua Hin. Water slides, wave pool, and lazy river...", "nl": "Ontdek Black Mountain Waterpark in Hua Hin. Glijbanen, golfzwembad en luie rivier..." }
+  },
+  "tags": ["attraction", "hua-hin", "thailand", "attraction", "travel", "tourism"]
+}

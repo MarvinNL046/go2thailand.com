@@ -1,0 +1,11 @@
+{
+  "id": 1, "slug": "koh-chang", "name": { "en": "Koh Chang Island", "nl": "Koh Chang Eiland" },
+  "type": "nature", "city_slug": "trat", "address": "Koh Chang, Trat Province 23170",
+  "location": { "lat": 12.0500, "lng": 102.3500 }, "opening_hours": "Accessible year-round via ferry",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Thailand's second-largest island with mountainous jungle interior, white sand beaches, and vibrant nightlife", "nl": "Thailands op een na grootste eiland met bergachtig junglebinnenland, witte zandstranden en bruisend nachtleven" },
+  "highlights": ["White Sand Beach", "Klong Plu Waterfall", "Diverse beaches", "Island nightlife"],
+  "image": "/images/cities/phuket/phuket-old-town.webp", "official_website": null,
+  "seo": { "metaTitle": { "en": "Koh Chang Island - Top Attraction in Trat | Go2Thailand", "nl": "Koh Chang Eiland - Top Attractie in Trat | Go2Thailand" }, "metaDescription": { "en": "Discover Koh Chang, Thailand's second-largest island with beaches and jungle...", "nl": "Ontdek Koh Chang, Thailands op een na grootste eiland met stranden en jungle..." } },
+  "tags": ["nature", "trat", "thailand", "attraction", "travel", "tourism"]
+}

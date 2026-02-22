@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "koh-libong",
+  "name": {
+    "en": "Koh Libong",
+    "nl": "Koh Libong"
+  },
+  "type": "nature",
+  "city_slug": "trang",
+  "address": "Koh Libong, Kantang, Trang 92110",
+  "location": {
+    "lat": 7.2700,
+    "lng": 99.4000
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Trang's largest island and one of the last places in Thailand to spot wild dugongs grazing on extensive seagrass beds along the east coast. The island is home to traditional Muslim fishing villages and offers a peaceful, undeveloped alternative to more popular Thai islands. Early morning boat trips offer the best chance of dugong sightings.",
+    "nl": "Trang's grootste eiland en een van de laatste plaatsen in Thailand om wilde doejongs te zien grazen op uitgebreide zeegrasgebieden langs de oostkust. Het eiland herbergt traditionele moslim vissersdorpen en biedt een vredig, onbebouwd alternatief voor populairdere Thaise eilanden. Vroege ochtendboottochten bieden de beste kans op doejong-waarnemingen."
+  },
+  "highlights": [
+    "Wild dugong watching",
+    "Extensive seagrass beds",
+    "Muslim fishing villages",
+    "Undeveloped island atmosphere"
+  ],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Libong - Dugong Island in Trang | Go2Thailand",
+      "nl": "Koh Libong - Doejong Eiland in Trang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Visit Koh Libong in Trang. One of Thailand's last places to see wild dugongs, with traditional fishing villages and unspoiled island nature.",
+      "nl": "Bezoek Koh Libong in Trang. Een van Thailand's laatste plekken om wilde doejongs te zien, met traditionele vissersdorpen en ongerepte eilandnatuur."
+    }
+  },
+  "tags": [
+    "nature",
+    "trang",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

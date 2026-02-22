@@ -1,0 +1,58 @@
+{
+  "id": 15,
+  "slug": "udon-thani",
+  "name": {
+    "en": "Udon Thani",
+    "nl": "Udon Thani"
+  },
+  "region": "Isaan",
+  "province": "Udon Thani",
+  "description": {
+    "en": "Vibrant Isaan city home to the UNESCO-listed Ban Chiang Archaeological Site and the spectacular Red Lotus Sea, with a growing expat community and excellent local markets.",
+    "nl": "Levendige Isaan-stad, thuisbasis van de UNESCO-geregistreerde archeologische vindplaats Ban Chiang en de spectaculaire Rode Lotuszee, met een groeiende expatgemeenschap en uitstekende lokale markten."
+  },
+  "population": 290000,
+  "highlights": [
+    "Ban Chiang Archaeological Site",
+    "Red Lotus Sea",
+    "Nong Prajak Park",
+    "UD Town"
+  ],
+  "location": {
+    "lat": 17.4156,
+    "lng": 102.7872
+  },
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Udon Thani | What to do in Udon Thani?",
+      "nl": "Ontdek Udon Thani | Wat te doen in Udon Thani?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Udon Thani, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Udon Thani, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Udon Thani",
+      "nl": "Beste restaurants en streetfood in Udon Thani"
+    },
+    "hotels": {
+      "en": "Top hotels in Udon Thani | Tips & deals",
+      "nl": "Beste hotels in Udon Thani | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Udon Thani",
+      "nl": "Top bezienswaardigheden in Udon Thani"
+    }
+  },
+  "tags": [
+    "isaan",
+    "udon thani",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

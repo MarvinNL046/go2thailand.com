@@ -1,0 +1,58 @@
+{
+  "id": 27,
+  "slug": "chumphon",
+  "name": {
+    "en": "Chumphon",
+    "nl": "Chumphon"
+  },
+  "region": "Southern",
+  "province": "Chumphon",
+  "description": {
+    "en": "The gateway to Koh Tao and the Gulf islands, a coastal province with unspoiled beaches, excellent diving, and kiteboarding. Refreshingly untouristy.",
+    "nl": "De toegangspoort tot Koh Tao en de Golfeilanden, een kustprovincie met ongerepte stranden, uitstekende duikmogelijkheden en kiteboarden. Verfrissend ontoeristisch."
+  },
+  "population": 34000,
+  "highlights": [
+    "Thung Wua Laen Beach",
+    "Koh Tao Gateway",
+    "Mu Ko Chumphon National Park",
+    "Pak Nam Chumphon"
+  ],
+  "location": {
+    "lat": 10.493,
+    "lng": 99.18
+  },
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Chumphon | What to do in Chumphon?",
+      "nl": "Ontdek Chumphon | Wat te doen in Chumphon?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Chumphon, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Chumphon, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Chumphon",
+      "nl": "Beste restaurants en streetfood in Chumphon"
+    },
+    "hotels": {
+      "en": "Top hotels in Chumphon | Tips & deals",
+      "nl": "Beste hotels in Chumphon | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Chumphon",
+      "nl": "Top bezienswaardigheden in Chumphon"
+    }
+  },
+  "tags": [
+    "southern",
+    "chumphon",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

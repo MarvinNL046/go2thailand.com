@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "trang-night-market",
+  "name": {
+    "en": "Trang Night Market",
+    "nl": "Trang Nachtmarkt"
+  },
+  "type": "market",
+  "city_slug": "trang",
+  "address": "Sathani Road, Mueang Trang, Trang 92000",
+  "location": {
+    "lat": 7.5560,
+    "lng": 99.6100
+  },
+  "opening_hours": "5:00 PM - 10:00 PM",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "An authentic evening food market near the old train station where Trang's residents gather for dinner. Stalls serve southern Thai specialties including grilled squid, khanom jeen with yellow curry, fish cakes, coconut pancakes (khanom krok), and traditional desserts at rock-bottom prices. A genuine local experience with virtually no foreign tourists.",
+    "nl": "Een authentieke avondvoedselmarkt bij het oude treinstation waar de inwoners van Trang samenkomen voor het avondeten. Kramen serveren Zuid-Thaise specialiteiten waaronder gegrilde inktvis, khanom jeen met gele curry, viskoekjes, kokospannenkoekjes (khanom krok) en traditionele desserts voor bodemprijzen. Een echte lokale ervaring met vrijwel geen buitenlandse toeristen."
+  },
+  "highlights": [
+    "Authentic southern Thai food",
+    "Grilled seafood stalls",
+    "Coconut pancakes (khanom krok)",
+    "Budget-friendly prices"
+  ],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Trang Night Market - Authentic Thai Street Food | Go2Thailand",
+      "nl": "Trang Nachtmarkt - Authentiek Thais Straatvoedsel | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Experience the Trang Night Market. Authentic southern Thai street food at local prices — grilled seafood, coconut pancakes, and traditional desserts.",
+      "nl": "Ervaar de Trang Nachtmarkt. Authentiek Zuid-Thais straatvoedsel voor lokale prijzen — gegrilde zeevruchten, kokospannenkoekjes en traditionele desserts."
+    }
+  },
+  "tags": [
+    "market",
+    "trang",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

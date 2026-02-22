@@ -1,0 +1,20 @@
+{
+  "id": 4,
+  "slug": "khao-takiab",
+  "name": { "en": "Khao Takiab (Chopstick Hill)", "nl": "Khao Takiab (Eetstokjesheuvel)" },
+  "type": "nature",
+  "city_slug": "hua-hin",
+  "address": "Nong Kae, Hua Hin, Prachuap Khiri Khan 77110",
+  "location": { "lat": 12.5233, "lng": 99.9594 },
+  "opening_hours": "Open 24 hours",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Rocky headland with hilltop temple, resident monkeys, and panoramic views of Hua Hin coastline", "nl": "Rotsachtige kaap met heuveltempel, makaken en panoramisch uitzicht op de kustlijn van Hua Hin" },
+  "highlights": ["Panoramic coastline views", "Wat Khao Takiab temple", "Macaque monkeys", "Fishing village below"],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "Khao Takiab - Top Attraction in Hua Hin | Go2Thailand", "nl": "Khao Takiab - Top Attractie in Hua Hin | Go2Thailand" },
+    "metaDescription": { "en": "Discover Khao Takiab in Hua Hin. Rocky headland with panoramic views and hilltop temple...", "nl": "Ontdek Khao Takiab in Hua Hin. Rotsachtige kaap met panoramisch uitzicht en heuveltempel..." }
+  },
+  "tags": ["nature", "hua-hin", "thailand", "attraction", "travel", "tourism"]
+}

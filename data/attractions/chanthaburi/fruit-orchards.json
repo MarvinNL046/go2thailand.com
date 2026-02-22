@@ -1,0 +1,14 @@
+{
+  "id": 6, "slug": "fruit-orchards",
+  "name": { "en": "Tropical Fruit Orchards", "nl": "Tropische Fruitboomgaarden" },
+  "type": "nature", "city_slug": "chanthaburi",
+  "address": "Various locations, Mueang Chanthaburi, Chanthaburi 22000",
+  "location": { "lat": 12.5800, "lng": 102.0900 },
+  "opening_hours": "Seasonal (April-July), tours by appointment",
+  "entrance_fee": { "thb": 100, "usd": 3 },
+  "description": { "en": "Chanthaburi province produces more durian than anywhere else in Thailand. Several family-run orchards welcome visitors for guided tours during the April-July durian season. Taste premium Monthong, Chanee, and Kradumthong varieties straight from the tree, along with mangosteen, rambutan, langsat, and other tropical fruits in one of the most abundant fruit-growing regions in the world.", "nl": "De provincie Chanthaburi produceert meer durian dan waar ook in Thailand. Verschillende familieboomgaarden verwelkomen bezoekers voor rondleidingen tijdens het april-juli durianseizoen. Proef premium Monthong, Chanee en Kradumthong variëteiten direct van de boom, samen met mangosteen, rambutan, langsat en andere tropische vruchten in een van de meest vruchtbare fruitteeltgebieden ter wereld." },
+  "highlights": ["Premium Monthong durian tasting", "Mangosteen and rambutan", "Seasonal April-July", "Family-run orchard tours"],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
+  "seo": { "metaTitle": { "en": "Chanthaburi Fruit Orchards - Durian Capital | Go2Thailand", "nl": "Chanthaburi Fruitboomgaarden - Durian Hoofdstad | Go2Thailand" }, "metaDescription": { "en": "Visit tropical fruit orchards in Chanthaburi. Taste premium durian straight from the tree in Thailand's fruit capital during the April-July season.", "nl": "Bezoek tropische fruitboomgaarden in Chanthaburi. Proef premium durian direct van de boom in Thailand's fruithoofdstad tijdens het april-juli seizoen." } },
+  "tags": ["nature", "chanthaburi", "thailand", "attraction", "travel", "tourism"]
+}

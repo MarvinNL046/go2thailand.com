@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "bridge-over-river-kwai",
+  "name": {
+    "en": "Bridge over the River Kwai",
+    "nl": "Brug over de Rivier Kwai"
+  },
+  "type": "historic",
+  "city_slug": "kanchanaburi",
+  "address": "Maenam Kwai Road, Tambon Ban Tai, Kanchanaburi",
+  "location": {
+    "lat": 14.0407,
+    "lng": 99.5033
+  },
+  "opening_hours": "Open 24 hours (best visited during daylight)",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Iconic WWII bridge built by Allied POWs, now a memorial and working railway crossing",
+    "nl": "Iconische WOII-brug gebouwd door geallieerde krijgsgevangenen, nu een gedenkteken en werkende spoorwegovergang"
+  },
+  "highlights": [
+    "WWII history",
+    "Walk across the bridge",
+    "Train crossing",
+    "River Kwai views"
+  ],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Bridge over the River Kwai - Top Attraction in Kanchanaburi | Go2Thailand",
+      "nl": "Brug over de Rivier Kwai - Top Attractie in Kanchanaburi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover the Bridge over the River Kwai in Kanchanaburi. Iconic WWII bridge built by Allied POWs...",
+      "nl": "Ontdek de Brug over de Rivier Kwai in Kanchanaburi. Iconische WOII-brug gebouwd door geallieerde krijgsgevangenen..."
+    }
+  },
+  "tags": [
+    "historic",
+    "kanchanaburi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

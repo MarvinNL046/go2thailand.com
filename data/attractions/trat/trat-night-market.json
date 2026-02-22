@@ -1,0 +1,11 @@
+{
+  "id": 4, "slug": "trat-night-market", "name": { "en": "Trat Night Market", "nl": "Trat Nachtmarkt" },
+  "type": "market", "city_slug": "trat", "address": "Near Municipal Market, Trat Town, Trat 23000",
+  "location": { "lat": 12.2428, "lng": 102.5153 }, "opening_hours": "17:00-22:00 daily",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Authentic canal-side night market in Trat town serving local street food to mostly Thai customers", "nl": "Authentieke nachtmarkt aan het kanaal in Trat-stad met lokale streetfood voor voornamelijk Thaise klanten" },
+  "highlights": ["Local khanom jeen", "Crab cakes", "Canal-side setting", "Thai-only clientele"],
+  "image": "/images/cities/phuket/phuket-old-town.webp", "official_website": null,
+  "seo": { "metaTitle": { "en": "Trat Night Market - Top Attraction in Trat | Go2Thailand", "nl": "Trat Nachtmarkt - Top Attractie in Trat | Go2Thailand" }, "metaDescription": { "en": "Discover Trat Night Market. Authentic canal-side market with local street food...", "nl": "Ontdek Trat Nachtmarkt. Authentieke nachtmarkt aan het kanaal met lokale streetfood..." } },
+  "tags": ["market", "trat", "thailand", "attraction", "travel", "tourism"]
+}

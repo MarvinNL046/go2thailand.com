@@ -1,0 +1,214 @@
+{
+  "city_slug": "lampang",
+  "city_name": "Lampang",
+  "total_attractions": 9,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "wat-phra-that-lampang-luang",
+      "name": {
+        "en": "Wat Phra That Lampang Luang",
+        "nl": "Wat Phra That Lampang Luang"
+      },
+      "type": "temple",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "One of the finest examples of Lanna temple architecture in Thailand with ancient wooden viharns dating to the 15th century",
+        "nl": "Een van de mooiste voorbeelden van Lanna-tempelarchitectuur in Thailand met oude houten viharns daterend uit de 15e eeuw"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "15th-century architecture",
+        "Camera obscura effect",
+        "Ancient teak viharns"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "thai-elephant-conservation-center",
+      "name": {
+        "en": "Thai Elephant Conservation Center",
+        "nl": "Thais Olifantenopvangcentrum"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Thailand's oldest and most respected government-run elephant facility focused on veterinary care, rehabilitation, and breeding",
+        "nl": "Het oudste en meest gerespecteerde door de overheid geleide olifantenfaciliteit van Thailand, gericht op veterinaire zorg, rehabilitatie en fokprogramma's"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Elephant hospital",
+        "Mahout training",
+        "Baby elephants"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "horse-drawn-carriage-tour",
+      "name": {
+        "en": "Horse-Drawn Carriage Tour",
+        "nl": "Paardenkoets Rondrit"
+      },
+      "type": "cultural",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Unique heritage experience riding through Lampang's old town in traditional horse-drawn carriages, the last of their kind in Thailand",
+        "nl": "Unieke erfgoedervaring door Lampangs oude stad in traditionele paardenkoetsen, de laatste in hun soort in Thailand"
+      },
+      "entrance_fee": {
+        "thb": 300,
+        "usd": 9
+      },
+      "highlights": [
+        "Heritage experience",
+        "Old town tour",
+        "Last in Thailand"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "kad-kong-ta-walking-street",
+      "name": {
+        "en": "Kad Kong Ta Walking Street",
+        "nl": "Kad Kong Ta Walking Street"
+      },
+      "type": "market",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Weekend walking street market along the Wang River with local food, crafts, live music, and heritage shophouse atmosphere",
+        "nl": "Weekend walking street markt langs de Wang-rivier met lokaal eten, ambachten, live muziek en erfgoed-winkelpandsfeer"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Weekend market",
+        "Riverside setting",
+        "Local food and crafts"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "dhanabadee-ceramic-museum",
+      "name": {
+        "en": "Dhanabadee Ceramic Museum",
+        "nl": "Dhanabadee Keramiekmuseum"
+      },
+      "type": "museum",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Museum in a historic ceramics factory telling the story of Lampang's 100-year ceramics industry with hands-on pottery painting workshops",
+        "nl": "Museum in een historische keramiekfabriek over de 100-jarige keramiekindustrie van Lampang met praktische pottenbak-schilderworkshops"
+      },
+      "entrance_fee": {
+        "thb": 150,
+        "usd": 4
+      },
+      "highlights": [
+        "Rooster bowl painting",
+        "Factory history",
+        "Ceramics workshops"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "wat-chedi-sao-lang",
+      "name": {
+        "en": "Wat Chedi Sao Lang (Temple of Twenty Pagodas)",
+        "nl": "Wat Chedi Sao Lang (Tempel van Twintig Pagodes)"
+      },
+      "type": "temple",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Serene temple with twenty white chedis in the rice paddies north of town, featuring a solid gold Buddha weighing 8 kg",
+        "nl": "Serene tempel met twintig witte chedi's in de rijstvelden ten noorden van het stadje, met een massief gouden Boeddha van 8 kg"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Twenty white chedis",
+        "Gold Buddha image",
+        "Countryside setting"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "ban-sao-nak",
+      "name": {
+        "en": "Ban Sao Nak (Many Pillars House)",
+        "nl": "Ban Sao Nak (Huis van Vele Pilaren)"
+      },
+      "type": "cultural",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Magnificent 100-year-old teak mansion built on 116 teak pillars showcasing traditional Lanna aristocratic lifestyle",
+        "nl": "Prachtig 100 jaar oud teakhouten herenhuis gebouwd op 116 teakhouten pilaren met traditionele Lanna-aristocratische levensstijl"
+      },
+      "entrance_fee": {
+        "thb": 50,
+        "usd": 1
+      },
+      "highlights": [
+        "116 teak pillars",
+        "Lanna heritage",
+        "Original furnishings"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "wat-phra-kaew-don-tao",
+      "name": {
+        "en": "Wat Phra Kaew Don Tao",
+        "nl": "Wat Phra Kaew Don Tao"
+      },
+      "type": "temple",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Historic temple that once housed the Emerald Buddha for 32 years, with a beautiful Burmese-influenced mondop and Lanna Museum",
+        "nl": "Historische tempel waar de Smaragdgroene Boeddha 32 jaar lang werd bewaard, met een prachtige Burmees-beinvloede mondop en Lanna Museum"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Emerald Buddha history",
+        "Burmese-style mondop",
+        "Lanna Museum"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "chae-son-national-park",
+      "name": {
+        "en": "Chae Son National Park & Hot Springs",
+        "nl": "Chae Son Nationaal Park & Warmwaterbronnen"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Natural hot springs and geysers in a forested national park with mineral bathing pools, waterfall, and nature trails",
+        "nl": "Natuurlijke warmwaterbronnen en geisers in een bebost nationaal park met minerale badpoelen, waterval en natuurpaden"
+      },
+      "entrance_fee": {
+        "thb": 200,
+        "usd": 6
+      },
+      "highlights": [
+        "Hot spring geysers",
+        "Mineral bathing pools",
+        "Waterfall hiking"
+      ]
+    }
+  ]
+}

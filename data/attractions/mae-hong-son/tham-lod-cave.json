@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "tham-lod-cave",
+  "name": {
+    "en": "Tham Lod Cave",
+    "nl": "Tham Lod Grot"
+  },
+  "type": "nature",
+  "city_slug": "mae-hong-son",
+  "address": "Ban Tham, Tambon Tham Lod, Amphoe Pang Mapha, Mae Hong Son 58150",
+  "location": {
+    "lat": 19.4568,
+    "lng": 98.2790
+  },
+  "opening_hours": "08:00-17:30 daily (last entry 15:30 for dusk tour)",
+  "entrance_fee": {
+    "thb": 250,
+    "usd": 7
+  },
+  "description": {
+    "en": "One of Thailand's most impressive cave systems featuring an underground river, massive chambers with ancient stalactites, and bamboo raft exploration. At dusk, hundreds of thousands of swifts spiral into the cave entrance in a spectacular natural display.",
+    "nl": "Een van de meest indrukwekkende grottenstelsels van Thailand met een ondergrondse rivier, enorme kamers met oude stalactieten en bamboe-vlotverkenning. Bij schemering spiralen honderdduizenden gierzwaluwen de grotingang in als spectaculair natuurverschijnsel."
+  },
+  "highlights": [
+    "Underground river bamboo raft",
+    "Ancient stalactite chambers",
+    "Swift colony at dusk",
+    "Prehistoric coffin paintings"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Tham Lod Cave - Top Attraction in Mae Hong Son | Go2Thailand",
+      "nl": "Tham Lod Grot - Top Attractie in Mae Hong Son | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Tham Lod Cave in Mae Hong Son. Explore underground rivers by bamboo raft and watch the spectacular swift colony at dusk.",
+      "nl": "Ontdek Tham Lod Grot in Mae Hong Son. Verken ondergrondse rivieren per bamboe vlot en bekijk de spectaculaire gierzwaluwenkolonie bij schemering."
+    }
+  },
+  "tags": [
+    "nature",
+    "mae-hong-son",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

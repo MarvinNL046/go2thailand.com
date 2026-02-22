@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "pai-walking-street",
+  "name": {
+    "en": "Pai Walking Street",
+    "nl": "Pai Walking Street"
+  },
+  "type": "market",
+  "city_slug": "pai",
+  "address": "Chaisongkhram Road, Tambon Wiang Tai, Amphoe Pai, Mae Hong Son 58130",
+  "location": {
+    "lat": 19.3596,
+    "lng": 98.4408
+  },
+  "opening_hours": "17:00-22:00 daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Nightly market on Chaisongkhram Road with street food, handmade crafts, live music, and a bohemian atmosphere. The heart of Pai's social scene where travelers and locals gather every evening.",
+    "nl": "Avondmarkt op Chaisongkhram Road met streetfood, handgemaakte ambachten, live muziek en een bohemien sfeer. Het hart van Pai's sociale leven waar reizigers en locals elke avond samenkomen."
+  },
+  "highlights": [
+    "Street food stalls",
+    "Handmade jewelry and crafts",
+    "Live music performances",
+    "Bohemian atmosphere"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Pai Walking Street - Top Attraction in Pai | Go2Thailand",
+      "nl": "Pai Walking Street - Top Attractie in Pai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Pai Walking Street in Pai. Nightly market with street food, handmade crafts, live music and bohemian atmosphere.",
+      "nl": "Ontdek Pai Walking Street in Pai. Avondmarkt met streetfood, handgemaakte ambachten, live muziek en bohemien sfeer."
+    }
+  },
+  "tags": [
+    "market",
+    "pai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

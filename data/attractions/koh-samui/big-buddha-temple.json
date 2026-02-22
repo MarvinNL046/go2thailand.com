@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "big-buddha-temple",
+  "name": {
+    "en": "Big Buddha Temple (Wat Phra Yai)",
+    "nl": "Grote Boeddha Tempel (Wat Phra Yai)"
+  },
+  "type": "temple",
+  "city_slug": "koh-samui",
+  "address": "Koh Faan, Bo Put, Koh Samui, Surat Thani 84320",
+  "location": {
+    "lat": 9.5634,
+    "lng": 100.0427
+  },
+  "opening_hours": "6:00 AM - 6:00 PM",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Koh Samui's most iconic landmark, this 12-meter golden Buddha statue sits majestically on a small islet connected to the northeast coast by a causeway. Built in 1972, the temple is visible from the air when landing at Samui Airport and features a naga-flanked staircase and surrounding market stalls.",
+    "nl": "Het meest iconische herkenningspunt van Koh Samui, dit 12 meter hoge gouden Boeddhabeeld zit majestueus op een klein eilandje verbonden met de noordoostkust door een dam. Gebouwd in 1972, is de tempel zichtbaar vanuit de lucht bij het landen op Samui Airport en heeft een trap geflankeerd door naga's en omringende marktkramen."
+  },
+  "highlights": [
+    "12-meter golden Buddha statue",
+    "Panoramic views to Koh Phangan",
+    "Naga staircase",
+    "Market stalls at base"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Big Buddha Temple (Wat Phra Yai) - Koh Samui | Go2Thailand",
+      "nl": "Grote Boeddha Tempel (Wat Phra Yai) - Koh Samui | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Visit the iconic Big Buddha Temple on Koh Samui. A 12-meter golden Buddha on a small islet with stunning views of the Gulf of Thailand.",
+      "nl": "Bezoek de iconische Grote Boeddha Tempel op Koh Samui. Een 12 meter hoog gouden Boeddhabeeld op een klein eilandje met prachtig uitzicht op de Golf van Thailand."
+    }
+  },
+  "tags": [
+    "temple",
+    "koh-samui",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

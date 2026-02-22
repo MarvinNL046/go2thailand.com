@@ -23,6 +23,7 @@
     "convert-data": "npm run data:cities",
     "generate-sitemap": "npm run data:sitemap",
     "enhance": "npm run data:enhance-cities",
+    "scrape:cities": "tsx scripts/scrape-cities.ts",
     "enhance-full": "node lib/enhance-content.js full",
     "enhance-quick": "node lib/enhance-content.js quick",
     "enhance-stats": "node lib/enhance-content.js stats",
@@ -59,6 +60,7 @@
     "eslint-config-next": "14.2.23",
     "postcss": "^8",
     "tailwindcss": "^3.3.0",
+    "tsx": "^4.21.0",
     "typescript": "5.9.3"
   }
 }

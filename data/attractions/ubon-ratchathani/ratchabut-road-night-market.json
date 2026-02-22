@@ -1,0 +1,14 @@
+{
+  "id": 9, "slug": "ratchabut-road-night-market",
+  "name": { "en": "Ratchabut Road Night Market", "nl": "Ratchabut Road Nachtmarkt" },
+  "type": "market", "city_slug": "ubon-ratchathani",
+  "address": "Ratchabut Road, Mueang Ubon Ratchathani, Ubon Ratchathani 34000",
+  "location": { "lat": 15.2280, "lng": 104.8570 },
+  "opening_hours": "5:00 PM - 10:00 PM",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "A sprawling evening food market where authentic Isaan cuisine takes center stage. Vendors serve sai krok Isaan (fermented sausages), kai yang (lemongrass-marinated grilled chicken), som tam with pla ra (fermented fish papaya salad), sticky rice, and sweet mango desserts — all at rock-bottom prices. A genuine local dining experience with almost no foreign visitors.", "nl": "Een uitgebreide avondvoedselmarkt waar authentieke Isaan keuken centraal staat. Verkopers serveren sai krok Isaan (gefermenteerde worstjes), kai yang (met citroengras gemarineerde gegrilde kip), som tam met pla ra (gefermenteerde vis papajasalade), kleefrijst en zoete mango desserts — alles voor bodemprijzen. Een echte lokale eetervaring met bijna geen buitenlandse bezoekers." },
+  "highlights": ["Authentic Isaan cuisine", "Fermented sausages (sai krok)", "Grilled chicken (kai yang)", "Budget prices"],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
+  "seo": { "metaTitle": { "en": "Ratchabut Night Market - Isaan Food in Ubon | Go2Thailand", "nl": "Ratchabut Nachtmarkt - Isaan Eten in Ubon | Go2Thailand" }, "metaDescription": { "en": "Experience Ratchabut Road Night Market in Ubon Ratchathani. Authentic Isaan street food — fermented sausages, grilled chicken, and papaya salad at local prices.", "nl": "Ervaar de Ratchabut Road Nachtmarkt in Ubon Ratchathani. Authentiek Isaan straatvoedsel — gefermenteerde worstjes, gegrilde kip en papajasalade voor lokale prijzen." } },
+  "tags": ["market", "ubon-ratchathani", "thailand", "attraction", "travel", "tourism"]
+}

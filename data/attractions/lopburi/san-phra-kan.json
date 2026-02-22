@@ -1,0 +1,20 @@
+{
+  "id": 3,
+  "slug": "san-phra-kan",
+  "name": { "en": "San Phra Kan (Kala Shrine)", "nl": "San Phra Kan (Kala Schrijn)" },
+  "type": "temple",
+  "city_slug": "lopburi",
+  "address": "Prang Sam Yot Intersection, Tha Hin, Mueang Lopburi, Lopburi 15000",
+  "location": { "lat": 14.8003, "lng": 100.6128 },
+  "opening_hours": "06:00-18:00",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Active Hindu-Buddhist shrine opposite Prang Sam Yot, home to hundreds of bold macaques and a large Khmer prang", "nl": "Actief hindoe-boeddhistisch heiligdom tegenover Prang Sam Yot, met honderden brutale makaken en een grote Khmer-prang" },
+  "highlights": ["Monkey headquarters", "Active worship site", "Khmer prang", "Opposite Prang Sam Yot"],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "San Phra Kan Shrine - Top Attraction in Lopburi | Go2Thailand", "nl": "San Phra Kan Schrijn - Top Attractie in Lopburi | Go2Thailand" },
+    "metaDescription": { "en": "Discover San Phra Kan in Lopburi. Active shrine home to hundreds of macaque monkeys...", "nl": "Ontdek San Phra Kan in Lopburi. Actief heiligdom met honderden makaken..." }
+  },
+  "tags": ["temple", "lopburi", "thailand", "attraction", "travel", "tourism"]
+}

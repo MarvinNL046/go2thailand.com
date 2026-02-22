@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "chaweng-beach",
+  "name": {
+    "en": "Chaweng Beach",
+    "nl": "Chaweng Beach"
+  },
+  "type": "beach",
+  "city_slug": "koh-samui",
+  "address": "Chaweng Beach, Bo Put, Koh Samui, Surat Thani 84320",
+  "location": {
+    "lat": 9.5283,
+    "lng": 100.0621
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Koh Samui's longest and most popular beach stretches for 3 kilometers of powdery white sand along the east coast. Crystal-clear water, abundant water sports, beachfront restaurants, and a vibrant nightlife scene at Soi Green Mango make it the island's main hub.",
+    "nl": "Het langste en populairste strand van Koh Samui strekt zich uit over 3 kilometer poederachtig wit zand langs de oostkust. Kristalhelder water, uitgebreide watersporten, strandrestaurants en een bruisend nachtleven bij Soi Green Mango maken het de belangrijkste plek van het eiland."
+  },
+  "highlights": [
+    "3 km white sand beach",
+    "Nightlife at Soi Green Mango",
+    "Water sports and jet skiing",
+    "Beachfront restaurants and bars"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Chaweng Beach - Top Beach in Koh Samui | Go2Thailand",
+      "nl": "Chaweng Beach - Topstrand op Koh Samui | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Chaweng Beach in Koh Samui. 3 km of white sand, crystal-clear water, water sports and vibrant nightlife on Samui's most popular beach.",
+      "nl": "Ontdek Chaweng Beach op Koh Samui. 3 km wit zand, kristalhelder water, watersporten en bruisend nachtleven op Samui's populairste strand."
+    }
+  },
+  "tags": [
+    "beach",
+    "koh-samui",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

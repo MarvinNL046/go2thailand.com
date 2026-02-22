@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "ban-chiang-archaeological-site",
+  "name": {
+    "en": "Ban Chiang Archaeological Site (UNESCO)",
+    "nl": "Ban Chiang Archeologische Vindplaats (UNESCO)"
+  },
+  "type": "museum",
+  "city_slug": "udon-thani",
+  "address": "Ban Chiang, Amphoe Nong Han, Udon Thani 41320",
+  "location": {
+    "lat": 17.0780,
+    "lng": 103.2100
+  },
+  "opening_hours": "09:00-16:00 daily",
+  "entrance_fee": {
+    "thb": 150,
+    "usd": 4
+  },
+  "description": {
+    "en": "UNESCO World Heritage Site featuring 5,000-year-old bronze-age pottery and artifacts from one of the earliest centers of civilization in Southeast Asia. Includes an excellent national museum and open excavation pit with burial layers visible in situ.",
+    "nl": "UNESCO Werelderfgoed met 5.000 jaar oud bronstijdaardewerk en artefacten van een van de vroegste beschavingscentra in Zuidoost-Azie. Met een uitstekend nationaal museum en open opgravingsput met begrafenislagen zichtbaar in situ."
+  },
+  "highlights": [
+    "UNESCO World Heritage Site",
+    "5,000-year-old swirl pottery",
+    "Open excavation pit",
+    "National museum"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Ban Chiang Archaeological Site - Top Attraction in Udon Thani | Go2Thailand",
+      "nl": "Ban Chiang Archeologische Vindplaats - Top Attractie in Udon Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Ban Chiang UNESCO World Heritage Site near Udon Thani. 5,000-year-old bronze-age civilization with pottery and artifacts.",
+      "nl": "Ontdek Ban Chiang UNESCO Werelderfgoed bij Udon Thani. 5.000 jaar oude bronstijdbeschaving met aardewerk en artefacten."
+    }
+  },
+  "tags": [
+    "museum",
+    "udon-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

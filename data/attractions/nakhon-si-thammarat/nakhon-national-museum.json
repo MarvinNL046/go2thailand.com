@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "nakhon-national-museum",
+  "name": {
+    "en": "Nakhon Si Thammarat National Museum",
+    "nl": "Nakhon Si Thammarat Nationaal Museum"
+  },
+  "type": "museum",
+  "city_slug": "nakhon-si-thammarat",
+  "address": "Ratchadamnoen Road, Nai Mueang, Nakhon Si Thammarat 80000",
+  "location": {
+    "lat": 8.4200,
+    "lng": 99.9670
+  },
+  "opening_hours": "9:00 AM - 4:00 PM (closed Mondays and Tuesdays)",
+  "entrance_fee": {
+    "thb": 150,
+    "usd": 4
+  },
+  "description": {
+    "en": "A comprehensive museum housing artifacts from the Srivijaya and Dvaravati periods that tell the story of Nakhon's role as a major trading center in Southeast Asia. Collections include ancient Buddha images, Vishnu statues, ceramics, and examples of traditional southern Thai crafts and shadow puppets.",
+    "nl": "Een uitgebreid museum met artefacten uit de Srivijaya- en Dvaravati-periodes die het verhaal vertellen van Nakhon's rol als belangrijk handelscentrum in Zuidoost-Azië. Collecties omvatten oude Boeddhabeelden, Vishnu-standbeelden, keramiek en voorbeelden van traditionele Zuid-Thaise ambachten en schimmenpoppen."
+  },
+  "highlights": [
+    "Srivijaya and Dvaravati artifacts",
+    "Ancient Buddha images",
+    "Shadow puppet collection",
+    "Southeast Asian trade history"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Nakhon National Museum - History of Southern Thailand | Go2Thailand",
+      "nl": "Nakhon Nationaal Museum - Geschiedenis van Zuid-Thailand | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Visit the Nakhon Si Thammarat National Museum. Ancient Srivijaya artifacts, Buddha images, and the history of southern Thailand's most important city.",
+      "nl": "Bezoek het Nakhon Si Thammarat Nationaal Museum. Oude Srivijaya-artefacten, Boeddhabeelden en de geschiedenis van de belangrijkste stad van Zuid-Thailand."
+    }
+  },
+  "tags": [
+    "museum",
+    "nakhon-si-thammarat",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

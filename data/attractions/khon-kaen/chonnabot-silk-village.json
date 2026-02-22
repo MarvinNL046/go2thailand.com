@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "chonnabot-silk-village",
+  "name": {
+    "en": "Chonnabot Silk Weaving Village",
+    "nl": "Chonnabot Zijdeweef-dorp"
+  },
+  "type": "cultural",
+  "city_slug": "khon-kaen",
+  "address": "Amphoe Chonnabot, Khon Kaen 40180",
+  "location": {
+    "lat": 16.1000,
+    "lng": 102.6500
+  },
+  "opening_hours": "08:00-17:00 daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Traditional silk weaving village 50 km south of Khon Kaen where artisans create intricate mudmee (tie-dyed) silk on wooden looms using techniques passed down for centuries. Buy silk directly from weavers at local prices.",
+    "nl": "Traditioneel zijdeweef-dorp 50 km ten zuiden van Khon Kaen waar ambachtslieden ingewikkelde mudmee (tie-dye) zijde weven op houten weefgetouwen met technieken die al eeuwenlang worden doorgegeven. Koop zijde rechtstreeks van wevers tegen lokale prijzen."
+  },
+  "highlights": [
+    "Traditional mudmee silk weaving",
+    "Buy direct from artisans",
+    "Centuries-old techniques",
+    "King Cobra Silk Village"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Chonnabot Silk Village - Top Attraction in Khon Kaen | Go2Thailand",
+      "nl": "Chonnabot Zijdedorp - Top Attractie in Khon Kaen | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Chonnabot Silk Village near Khon Kaen. Traditional mudmee silk weaving with centuries-old techniques and direct purchasing.",
+      "nl": "Ontdek Chonnabot Zijdedorp bij Khon Kaen. Traditioneel mudmee zijde weven met eeuwenoude technieken en directe aankoop."
+    }
+  },
+  "tags": [
+    "cultural",
+    "khon-kaen",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

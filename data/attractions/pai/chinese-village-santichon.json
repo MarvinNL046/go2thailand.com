@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "chinese-village-santichon",
+  "name": {
+    "en": "Chinese Village (Santichon)",
+    "nl": "Chinees Dorp (Santichon)"
+  },
+  "type": "cultural",
+  "city_slug": "pai",
+  "address": "Ban Santichon, Tambon Mae Hi, Amphoe Pai, Mae Hong Son 58130",
+  "location": {
+    "lat": 19.3420,
+    "lng": 98.4580
+  },
+  "opening_hours": "08:00-18:00 daily",
+  "entrance_fee": {
+    "thb": 50,
+    "usd": 1
+  },
+  "description": {
+    "en": "Yunnan Chinese settlement village founded by Kuomintang refugees, offering traditional tea houses, steamed buns, clay shooting activities, and panoramic mountain viewpoints.",
+    "nl": "Yunnan Chinees nederzettingsdorp gesticht door Kuomintang-vluchtelingen, met traditionele theehuizen, gestoomde broodjes, kleischieten en panoramische berg-uitkijkpunten."
+  },
+  "highlights": [
+    "Yunnan tea houses",
+    "Chinese steamed buns",
+    "Mountain viewpoints",
+    "Cultural heritage"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Chinese Village Santichon - Top Attraction in Pai | Go2Thailand",
+      "nl": "Chinees Dorp Santichon - Top Attractie in Pai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Chinese Village Santichon in Pai. Yunnan Chinese settlement with tea houses, steamed buns and mountain views.",
+      "nl": "Ontdek Chinees Dorp Santichon in Pai. Yunnan Chinees nederzettingsdorp met theehuizen, gestoomde broodjes en bergzicht."
+    }
+  },
+  "tags": [
+    "cultural",
+    "pai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

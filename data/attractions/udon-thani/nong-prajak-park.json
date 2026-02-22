@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "nong-prajak-park",
+  "name": {
+    "en": "Nong Prajak Park",
+    "nl": "Nong Prajak Park"
+  },
+  "type": "park",
+  "city_slug": "udon-thani",
+  "address": "Tambon Mak Khaeng, Amphoe Muang, Udon Thani 41000",
+  "location": {
+    "lat": 17.4190,
+    "lng": 102.7750
+  },
+  "opening_hours": "Open 24 hours (fountains 18:30-21:00)",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Beautiful city lake park in the center of Udon Thani with illuminated fountains, food stalls lining the perimeter, jogging paths, and weekend live mor lam music performances on a lake stage.",
+    "nl": "Prachtig stadsmeerpark in het centrum van Udon Thani met verlichte fonteinen, etensstalletjes langs de rand, jogpaden en weekend live mor lam muziekoptredens op een podium aan het meer."
+  },
+  "highlights": [
+    "Illuminated water fountains",
+    "Lakeside food stalls",
+    "Weekend live mor lam music",
+    "Evening aerobics scene"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Nong Prajak Park - Top Attraction in Udon Thani | Go2Thailand",
+      "nl": "Nong Prajak Park - Top Attractie in Udon Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Nong Prajak Park in Udon Thani. Beautiful lake park with illuminated fountains, food stalls and live music.",
+      "nl": "Ontdek Nong Prajak Park in Udon Thani. Prachtig meerpark met verlichte fonteinen, etensstalletjes en live muziek."
+    }
+  },
+  "tags": [
+    "park",
+    "udon-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

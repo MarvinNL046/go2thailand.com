@@ -1,0 +1,20 @@
+{
+  "id": 4,
+  "slug": "narai-national-museum",
+  "name": { "en": "Narai National Museum", "nl": "Narai Nationaal Museum" },
+  "type": "museum",
+  "city_slug": "lopburi",
+  "address": "Within Narai Ratchaniwet Palace, Sorasak Road, Lopburi 15000",
+  "location": { "lat": 14.7970, "lng": 100.6128 },
+  "opening_hours": "09:00-16:00 (closed Mondays and Tuesdays)",
+  "entrance_fee": { "thb": 150, "usd": 4 },
+  "description": { "en": "Museum within King Narai's Palace compound housing Lopburi-period artifacts, Khmer sculptures, and historical exhibits", "nl": "Museum binnen het paleiscomplex van Koning Narai met artefacten uit de Lopburi-periode, Khmer-sculpturen en historische tentoonstellingen" },
+  "highlights": ["Khmer bronze Buddhas", "Lopburi-period artifacts", "Royal history displays", "Palace compound setting"],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "Narai National Museum - Top Attraction in Lopburi | Go2Thailand", "nl": "Narai Nationaal Museum - Top Attractie in Lopburi | Go2Thailand" },
+    "metaDescription": { "en": "Discover Narai National Museum in Lopburi. Lopburi-period artifacts and Khmer sculptures...", "nl": "Ontdek Narai Nationaal Museum in Lopburi. Artefacten uit de Lopburi-periode en Khmer-sculpturen..." }
+  },
+  "tags": ["museum", "lopburi", "thailand", "attraction", "travel", "tourism"]
+}

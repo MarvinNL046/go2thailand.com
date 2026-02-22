@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "pai-canyon",
+  "name": {
+    "en": "Pai Canyon (Kong Lan)",
+    "nl": "Pai Canyon (Kong Lan)"
+  },
+  "type": "nature",
+  "city_slug": "pai",
+  "address": "Route 1095, Tambon Mae Hi, Amphoe Pai, Mae Hong Son 58130",
+  "location": {
+    "lat": 19.3280,
+    "lng": 98.4690
+  },
+  "opening_hours": "Open 24 hours (best at sunrise or sunset)",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Dramatic narrow ridgeline with steep drop-offs offering panoramic views over the Pai valley and surrounding mountains. The narrow trails along the spine of the canyon are thrilling and offer some of the best sunset views in northern Thailand.",
+    "nl": "Dramatische smalle bergkam met steile afgronden die panoramisch uitzicht bieden over de Pai-vallei en omliggende bergen. De smalle paden langs de rug van de canyon zijn opwindend en bieden een van de mooiste zonsondergangzichten in Noord-Thailand."
+  },
+  "highlights": [
+    "Sunrise and sunset views",
+    "Narrow ridgeline trail",
+    "Valley panorama",
+    "Free admission"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Pai Canyon (Kong Lan) - Top Attraction in Pai | Go2Thailand",
+      "nl": "Pai Canyon (Kong Lan) - Top Attractie in Pai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Pai Canyon (Kong Lan) in Pai. Dramatic narrow ridgeline with panoramic views over the valley and mountains.",
+      "nl": "Ontdek Pai Canyon (Kong Lan) in Pai. Dramatische smalle bergkam met panoramisch uitzicht over de vallei en bergen."
+    }
+  },
+  "tags": [
+    "nature",
+    "pai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

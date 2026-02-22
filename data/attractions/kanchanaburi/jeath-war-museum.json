@@ -1,0 +1,50 @@
+{
+  "id": 10,
+  "slug": "jeath-war-museum",
+  "name": {
+    "en": "JEATH War Museum",
+    "nl": "JEATH Oorlogsmuseum"
+  },
+  "type": "museum",
+  "city_slug": "kanchanaburi",
+  "address": "Pak Phraek Road, Ban Tai, Mueang Kanchanaburi",
+  "location": {
+    "lat": 14.0197,
+    "lng": 99.5128
+  },
+  "opening_hours": "08:30-18:00",
+  "entrance_fee": {
+    "thb": 40,
+    "usd": 1
+  },
+  "description": {
+    "en": "Small museum in a replica bamboo POW hut displaying wartime artifacts and photographs from the Death Railway era",
+    "nl": "Klein museum in een replica bamboe krijgsgevangenenhut met oorlogsartefacten en foto's uit het Dodenspoorwegtijdperk"
+  },
+  "highlights": [
+    "POW artifacts",
+    "Bamboo hut replica",
+    "WWII photographs",
+    "Riverside location"
+  ],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "JEATH War Museum - Top Attraction in Kanchanaburi | Go2Thailand",
+      "nl": "JEATH Oorlogsmuseum - Top Attractie in Kanchanaburi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover the JEATH War Museum in Kanchanaburi. Small museum in a replica bamboo POW hut...",
+      "nl": "Ontdek het JEATH Oorlogsmuseum in Kanchanaburi. Klein museum in een replica bamboe krijgsgevangenenhut..."
+    }
+  },
+  "tags": [
+    "museum",
+    "kanchanaburi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

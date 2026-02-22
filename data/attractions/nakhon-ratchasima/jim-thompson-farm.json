@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "slug": "jim-thompson-farm",
+  "name": {
+    "en": "Jim Thompson Farm",
+    "nl": "Jim Thompson Boerderij"
+  },
+  "type": "cultural",
+  "city_slug": "nakhon-ratchasima",
+  "address": "Amphoe Pak Thong Chai, Nakhon Ratchasima 30150",
+  "location": {
+    "lat": 14.7200,
+    "lng": 102.0000
+  },
+  "opening_hours": "09:00-17:00 (open annually in December only during Farm Tour)",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "The sprawling organic farm of the legendary Jim Thompson Thai silk company in Pak Thong Chai district. Opens annually during the December Farm Tour with fields of flowers, silk weaving demonstrations, artisan markets, and farm-to-table dining.",
+    "nl": "De uitgestrekte biologische boerderij van het legendarische Jim Thompson Thaise zijdebedrijf in het Pak Thong Chai-district. Opent jaarlijks tijdens de december Farm Tour met bloemenvelden, zijdeweef-demonstraties, ambachtsmarkten en farm-to-table maaltijden."
+  },
+  "highlights": [
+    "Annual December Farm Tour",
+    "Fields of flowers",
+    "Silk weaving demonstrations",
+    "Artisan markets"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "https://www.jimthompson.com",
+  "seo": {
+    "metaTitle": {
+      "en": "Jim Thompson Farm - Top Attraction in Nakhon Ratchasima | Go2Thailand",
+      "nl": "Jim Thompson Boerderij - Top Attractie in Nakhon Ratchasima | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Jim Thompson Farm near Nakhon Ratchasima. Annual December farm tour with flowers, silk demonstrations and artisan markets.",
+      "nl": "Ontdek Jim Thompson Boerderij bij Nakhon Ratchasima. Jaarlijkse december farm tour met bloemen, zijdedemonstraties en ambachtsmarkten."
+    }
+  },
+  "tags": [
+    "cultural",
+    "nakhon-ratchasima",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

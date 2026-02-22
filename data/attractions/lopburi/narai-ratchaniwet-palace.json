@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "slug": "narai-ratchaniwet-palace",
+  "name": { "en": "King Narai's Palace (Narai Ratchaniwet)", "nl": "Koning Narai's Paleis (Narai Ratchaniwet)" },
+  "type": "palace",
+  "city_slug": "lopburi",
+  "address": "Sorasak Road, Tha Hin, Mueang Lopburi, Lopburi 15000",
+  "location": { "lat": 14.7972, "lng": 100.6131 },
+  "opening_hours": "08:30-16:30 (closed Mondays and Tuesdays)",
+  "entrance_fee": { "thb": 150, "usd": 4 },
+  "description": { "en": "Grand 17th-century royal palace of King Narai the Great with Thai, Khmer, and European architectural fusion", "nl": "Groots 17e-eeuws koninklijk paleis van Koning Narai de Grote met Thaise, Khmer en Europese architectuurfusie" },
+  "highlights": ["17th-century royal compound", "Thai-Khmer-European architecture", "Narai National Museum", "Beautiful grounds"],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "King Narai's Palace - Top Attraction in Lopburi | Go2Thailand", "nl": "Koning Narai's Paleis - Top Attractie in Lopburi | Go2Thailand" },
+    "metaDescription": { "en": "Discover King Narai's Palace in Lopburi. Grand 17th-century palace with Thai-Khmer-European fusion...", "nl": "Ontdek Koning Narai's Paleis in Lopburi. Groots 17e-eeuws paleis met Thaise-Khmer-Europese fusie..." }
+  },
+  "tags": ["palace", "lopburi", "thailand", "attraction", "travel", "tourism"]
+}

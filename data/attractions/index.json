@@ -1,6 +1,6 @@
 {
-  "total_cities": 10,
-  "total_attractions": 100,
+  "total_cities": 16,
+  "total_attractions": 155,
   "cities": [
     {
       "city_slug": "bangkok",
@@ -61,6 +61,42 @@
       "city_name": "Surat Thani",
       "attraction_count": 10,
       "output_dir": "C:\\Users\\M_Smi\\OneDrive\\Documenten\\go2\\go2thailand.com\\data\\attractions\\surat-thani"
+    },
+    {
+      "city_slug": "pai",
+      "city_name": "Pai",
+      "attraction_count": 9,
+      "output_dir": "/home/marvin/Projecten/go2thailand.com/data/attractions/pai"
+    },
+    {
+      "city_slug": "mae-hong-son",
+      "city_name": "Mae Hong Son",
+      "attraction_count": 9,
+      "output_dir": "/home/marvin/Projecten/go2thailand.com/data/attractions/mae-hong-son"
+    },
+    {
+      "city_slug": "lampang",
+      "city_name": "Lampang",
+      "attraction_count": 9,
+      "output_dir": "/home/marvin/Projecten/go2thailand.com/data/attractions/lampang"
+    },
+    {
+      "city_slug": "khon-kaen",
+      "city_name": "Khon Kaen",
+      "attraction_count": 9,
+      "output_dir": "/home/marvin/Projecten/go2thailand.com/data/attractions/khon-kaen"
+    },
+    {
+      "city_slug": "udon-thani",
+      "city_name": "Udon Thani",
+      "attraction_count": 9,
+      "output_dir": "/home/marvin/Projecten/go2thailand.com/data/attractions/udon-thani"
+    },
+    {
+      "city_slug": "nakhon-ratchasima",
+      "city_name": "Nakhon Ratchasima (Korat)",
+      "attraction_count": 10,
+      "output_dir": "/home/marvin/Projecten/go2thailand.com/data/attractions/nakhon-ratchasima"
     }
   ]
 }

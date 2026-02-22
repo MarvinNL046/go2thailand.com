@@ -1,0 +1,282 @@
+{
+  "id": 20,
+  "slug": "phitsanulok",
+  "name": {
+    "en": "Phitsanulok",
+    "nl": "Phitsanulok"
+  },
+  "region": "Central",
+  "province": "Phitsanulok",
+  "description": {
+    "en": "Gateway city between central and northern Thailand, home to one of the country's most revered Buddha images at Wat Phra Si Rattana Mahathat. A lively river city with rich cultural heritage and excellent local cuisine.",
+    "nl": "Poortstad tussen centraal en Noord-Thailand, met een van de meest vereerde Boeddhabeelden van het land in Wat Phra Si Rattana Mahathat. Een levendige rivierstad met rijk cultureel erfgoed en uitstekende lokale keuken."
+  },
+  "population": 84000,
+  "highlights": [
+    "Wat Phra Si Rattana Mahathat",
+    "Nan River",
+    "Sergeant Major Thawee Folk Museum",
+    "Night Market"
+  ],
+  "location": {
+    "lat": 16.8211,
+    "lng": 100.2659
+  },
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Phitsanulok | What to do in Phitsanulok?",
+      "nl": "Ontdek Phitsanulok | Wat te doen in Phitsanulok?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Phitsanulok, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Phitsanulok, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Phitsanulok",
+      "nl": "Beste restaurants en streetfood in Phitsanulok"
+    },
+    "hotels": {
+      "en": "Top hotels in Phitsanulok | Tips & deals",
+      "nl": "Beste hotels in Phitsanulok | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Phitsanulok",
+      "nl": "Top bezienswaardigheden in Phitsanulok"
+    }
+  },
+  "tags": [
+    "central",
+    "phitsanulok",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ],
+  "enhanced_description": "I arrived in Phitsanulok at dusk, the Nan River catching the last orange light as houseboats and floating restaurants bobbed gently along its banks. Most travelers pass through this city on their way to Sukhothai or the northern hill towns, and that is their loss. Phitsanulok, or \"Phitlok\" as locals call it, is a genuine Thai river city with a soul that reveals itself to anyone willing to slow down. My first stop was Wat Phra Si Rattana Mahathat, known simply as Wat Yai, the grand temple on the riverbank that houses Phra Phuttha Chinnarat, widely considered the most beautiful Buddha image in Thailand.\n\nStanding before the Chinnarat Buddha, I understood why Thai people travel from across the country to pay their respects here. The Sukhothai-era bronze image sits in the attitude of subduing Mara, its flame-like halo uniquely ornate, the golden surface seeming to glow with an inner warmth in the candlelit viharn. Thai families knelt on the cool marble floor, pressing gold leaf onto small Buddha amulets, while the sweet scent of jasmine garlands filled the air. It is an image so revered that a copy was made for Bangkok's Marble Temple, but locals will tell you with quiet pride that nothing matches the original.\n\nAfter the temple, I walked along the Nan River promenade toward the night market on Phaya Sua Road. Phitsanulok's night market is one of central Thailand's best-kept culinary secrets. I worked my way through stalls selling khao tom mat, sweet sticky rice parcels wrapped in banana leaf, and stopped at a crowded cart for the city's signature dish: kuay tiew hoy khae, a noodle soup topped with morning glory, bean sprouts, and a flavor so deeply umami it haunted me for days. The vendor, a woman who told me she had been making this soup for thirty years, ladled out bowl after bowl with practiced efficiency while her teenage daughter collected the fifteen-baht payments.\n\nThe next morning, I visited the Sergeant Major Thawee Folk Museum, a quirky and touching collection assembled over decades by a retired military officer. Housed in a traditional wooden building, the museum contains thousands of everyday objects from rural Thai life: farming tools, kitchen implements, fishing traps, and hand-woven textiles, each one labeled by hand with a story of its use. It was the most human museum I encountered in Thailand, a love letter to the ordinary lives that history books usually overlook.\n\nPhitsanulok also serves as the launchpad for two spectacular national parks. Phu Hin Rong Kla, about ninety minutes east, offers misty highland forests with strange mushroom-shaped rock formations and a sobering history as a former Communist insurgent base. Thung Salaeng Luang, to the southeast, rewards visitors with vast savanna grasslands that turn golden in the dry season. I spent an afternoon driving through its rolling landscapes, stopping to watch a family of wild elephants cross a stream, and felt the kind of profound quiet that only Thailand's countryside can deliver.\n\nOn my last evening, I joined a handful of local men fishing from the Naresuan Bridge at sunset, the silhouette of Wat Yai's prang reflected perfectly in the still river below. A fisherman handed me a spare rod and motioned for me to cast. We caught nothing, but as the sky turned indigo and the temple lights flickered on, I realized that Phitsanulok's gift is precisely this: the grace of unhurried moments in a city that feels genuinely, beautifully Thai.",
+  "hidden_gems": [
+    {
+      "name": {
+        "en": "Phitsanulok Floating Market (Talad Nam)",
+        "nl": "Phitsanulok Drijvende Markt (Talad Nam)"
+      },
+      "description": {
+        "en": "A small but authentic floating market on the Nan River where vendors sell food and goods from wooden boats. Less touristy than Bangkok's famous versions and much more genuine.",
+        "nl": "Een kleine maar authentieke drijvende markt op de Nan-rivier waar verkopers eten en goederen verkopen vanuit houten boten. Minder toeristisch dan de beroemde versies van Bangkok en veel authentieker."
+      },
+      "type": "market"
+    },
+    {
+      "name": {
+        "en": "Phu Hin Rong Kla National Park",
+        "nl": "Phu Hin Rong Kla Nationaal Park"
+      },
+      "description": {
+        "en": "A highland national park 90 minutes from the city with surreal rock formations, cool climate, and the ruins of a former Communist Party headquarters. Spectacular in the cool season.",
+        "nl": "Een hooglanden nationaal park 90 minuten van de stad met surrealistische rotsformaties, koel klimaat en de ruines van een voormalig communistisch partijhoofdkwartier. Spectaculair in het koele seizoen."
+      },
+      "type": "nature"
+    },
+    {
+      "name": {
+        "en": "Baan Khun Phra Foundry",
+        "nl": "Baan Khun Phra Gieterij"
+      },
+      "description": {
+        "en": "A traditional bronze-casting workshop near Wat Yai where artisans still create Buddha images using ancient lost-wax techniques. Visitors can watch the fascinating centuries-old process.",
+        "nl": "Een traditionele bronsgieterijwerkplaats bij Wat Yai waar ambachtslieden nog steeds Boeddhabeelden maken met oude verloren-was-technieken. Bezoekers kunnen het fascinerende eeuwenoude proces bekijken."
+      },
+      "type": "experience"
+    },
+    {
+      "name": {
+        "en": "Nan River Promenade Evening Walk",
+        "nl": "Nan Rivier Promenade Avondwandeling"
+      },
+      "description": {
+        "en": "The tree-lined riverside walkway between Naresuan Bridge and Ekathotsarot Bridge comes alive at dusk with joggers, food carts, and families. The temple reflections on the water are magical.",
+        "nl": "De met bomen omzoomde wandelpad langs de rivier tussen Naresuan Brug en Ekathotsarot Brug komt tot leven bij schemering met joggers, voedskarren en families. De tempelreflecties op het water zijn magisch."
+      },
+      "type": "experience"
+    },
+    {
+      "name": {
+        "en": "Wat Nang Phaya",
+        "nl": "Wat Nang Phaya"
+      },
+      "description": {
+        "en": "A beautiful Ayutthaya-period temple just south of Wat Yai, known for its unique stucco decorations and far fewer visitors. Its fine plasterwork is considered among the best from the period.",
+        "nl": "Een prachtige tempel uit de Ayutthaya-periode net ten zuiden van Wat Yai, bekend om de unieke stucdecoraties en veel minder bezoekers. Het fijne pleisterwerk wordt beschouwd als een van de beste uit die periode."
+      },
+      "type": "temple"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "name": "Flying Vegetable Restaurant (Phak Bung Loi Fa)",
+      "cuisine": "Thai Specialty",
+      "price_range": "$",
+      "description": {
+        "en": "Famous for the theatrical presentation of stir-fried morning glory launched through the air from a wok to a waiter who catches it on a plate. A Phitsanulok icon since the 1960s.",
+        "nl": "Beroemd om de theatrale presentatie van gebakken morning glory die door de lucht wordt gelanceerd vanuit een wok naar een ober die het op een bord vangt. Een icoon van Phitsanulok sinds de jaren 60."
+      }
+    },
+    {
+      "name": "Phitsanulok Night Market (Phaya Sua Road)",
+      "cuisine": "Thai Street Food",
+      "price_range": "$",
+      "description": {
+        "en": "Sprawling night market with dozens of food stalls serving noodles, grilled meats, desserts, and the local kuay tiew hoy khae noodle soup that is the city's signature dish.",
+        "nl": "Uitgestrekte nachtmarkt met tientallen eetkramen die noodles, gegrild vlees, desserts en de lokale kuay tiew hoy khae noedelsoep serveren, het kenmerkende gerecht van de stad."
+      }
+    },
+    {
+      "name": "Pak Bung Loi Fa (Original)",
+      "cuisine": "Thai River Cuisine",
+      "price_range": "$-$$",
+      "description": {
+        "en": "The original flying vegetable restaurant on the Nan River bank. Besides the famous flying morning glory, serves excellent river fish dishes and tom yum with a riverside ambiance.",
+        "nl": "Het originele vliegende groente restaurant aan de oever van de Nan-rivier. Naast de beroemde vliegende morning glory, serveert het uitstekende riviervisgerechten en tom yum met riviersfeer."
+      }
+    },
+    {
+      "name": "Rim Nam Food Park",
+      "cuisine": "Thai Mixed",
+      "price_range": "$",
+      "description": {
+        "en": "An open-air riverside food court where you can choose from multiple vendors and eat overlooking the Nan River. Popular with locals for dinner and evening drinks.",
+        "nl": "Een openlucht foodcourt aan de rivier waar je kunt kiezen uit meerdere verkopers en eten met uitzicht op de Nan-rivier. Populair bij locals voor het avondeten en avonddrankjes."
+      }
+    },
+    {
+      "name": "Houseboat Restaurant (Rauen Pae)",
+      "cuisine": "Thai Seafood",
+      "price_range": "$$",
+      "description": {
+        "en": "Dine on a traditional wooden houseboat floating on the Nan River. Specializes in grilled freshwater fish, spicy river prawn salad, and classic central Thai curries.",
+        "nl": "Dineer op een traditionele houten woonboot drijvend op de Nan-rivier. Gespecialiseerd in gegrilde zoetwatervis, pittige riviergarnalensalade en klassieke centraal-Thaise curry's."
+      }
+    }
+  ],
+  "top_hotels": [
+    {
+      "name": "The Grand Riverside Hotel",
+      "category": "midrange",
+      "price_range": "$$",
+      "description": {
+        "en": "Phitsanulok's premier hotel overlooking the Nan River with modern rooms, pool, and excellent restaurant. Walking distance to Wat Yai and the night market.",
+        "nl": "Het beste hotel van Phitsanulok met uitzicht op de Nan-rivier, moderne kamers, zwembad en uitstekend restaurant. Op loopafstand van Wat Yai en de nachtmarkt."
+      }
+    },
+    {
+      "name": "Topland Hotel & Convention Centre",
+      "category": "midrange",
+      "price_range": "$$",
+      "description": {
+        "en": "Large hotel in the city center with rooftop pool, connected shopping mall, and comfortable rooms. The most convenient option for exploring Phitsanulok.",
+        "nl": "Groot hotel in het stadscentrum met zwembad op het dak, aangesloten winkelcentrum en comfortabele kamers. De meest handige optie voor het verkennen van Phitsanulok."
+      }
+    },
+    {
+      "name": "Lithai Guesthouse",
+      "category": "budget",
+      "price_range": "$",
+      "description": {
+        "en": "Friendly backpacker guesthouse on the east bank of the Nan River run by a helpful local family. Basic rooms but great atmosphere and excellent travel advice.",
+        "nl": "Vriendelijk backpackergasthuis aan de oostoever van de Nan-rivier, gerund door een behulpzame lokale familie. Eenvoudige kamers maar geweldige sfeer en uitstekend reisadvies."
+      }
+    },
+    {
+      "name": "Pattara Resort & Spa",
+      "category": "midrange",
+      "price_range": "$$",
+      "description": {
+        "en": "Modern resort on the outskirts of town with spacious rooms, pool, and spa. Good option for those with their own transport seeking quiet accommodation.",
+        "nl": "Modern resort aan de rand van de stad met ruime kamers, zwembad en spa. Goede optie voor wie eigen vervoer heeft en rustige accommodatie zoekt."
+      }
+    },
+    {
+      "name": "Yodia Heritage Hotel",
+      "category": "midrange",
+      "price_range": "$$",
+      "description": {
+        "en": "Boutique heritage hotel in a restored building near the old town. Charming rooms with traditional decor and a lovely garden courtyard breakfast area.",
+        "nl": "Boetiek erfgoedhotel in een gerestaureerd gebouw bij de oude stad. Charmante kamers met traditionele inrichting en een mooie binnentuinontbijtruimte."
+      }
+    }
+  ],
+  "travel_tips": [
+    {
+      "title": {
+        "en": "Gateway to Sukhothai",
+        "nl": "Toegangspoort tot Sukhothai"
+      },
+      "content": {
+        "en": "Phitsanulok is the nearest city with an airport and train station to Sukhothai Historical Park (60 km away). Local buses run regularly, or rent a motorbike for independence.",
+        "nl": "Phitsanulok is de dichtstbijzijnde stad met een luchthaven en treinstation bij Sukhothai Historical Park (60 km afstand). Lokale bussen rijden regelmatig, of huur een motor voor onafhankelijkheid."
+      }
+    },
+    {
+      "title": {
+        "en": "The Flying Vegetable Show",
+        "nl": "De Vliegende Groente Show"
+      },
+      "content": {
+        "en": "Do not miss seeing the pak bung loi fa (flying morning glory) performance at one of the riverside restaurants. The cook launches the stir-fry through the air and a waiter catches it on a plate.",
+        "nl": "Mis de pak bung loi fa (vliegende morning glory) show niet bij een van de rivierrestaurants. De kok lanceert de roerbak door de lucht en een ober vangt het op een bord."
+      }
+    },
+    {
+      "title": {
+        "en": "Visit Wat Yai Early Morning",
+        "nl": "Bezoek Wat Yai vroeg in de ochtend"
+      },
+      "content": {
+        "en": "The Chinnarat Buddha is most atmospheric during early morning prayers when monks chant and locals offer alms. Arrive by 7 AM for a spiritual experience few tourists witness.",
+        "nl": "De Chinnarat Boeddha is het meest sfeervol tijdens de vroege ochtendgebeden wanneer monniken chanten en locals aalmoezen aanbieden. Kom voor 7 uur aan voor een spirituele ervaring die weinig toeristen meemaken."
+      }
+    },
+    {
+      "title": {
+        "en": "River Activities",
+        "nl": "Rivieractiviteiten"
+      },
+      "content": {
+        "en": "Take a longtail boat ride on the Nan River for a different perspective of the city. Boats can be hired near Naresuan Bridge for short trips past temples and floating houses.",
+        "nl": "Maak een longtailboottocht op de Nan-rivier voor een ander perspectief van de stad. Boten zijn te huur bij de Naresuan Brug voor korte tochten langs tempels en drijvende huizen."
+      }
+    },
+    {
+      "title": {
+        "en": "Cool Season National Parks",
+        "nl": "Nationale parken in het koele seizoen"
+      },
+      "content": {
+        "en": "Plan trips to Phu Hin Rong Kla and Thung Salaeng Luang national parks between November and February. The cool weather and misty mornings make hiking truly spectacular.",
+        "nl": "Plan trips naar de nationale parken Phu Hin Rong Kla en Thung Salaeng Luang tussen november en februari. Het koele weer en mistige ochtenden maken wandelen werkelijk spectaculair."
+      }
+    }
+  ],
+  "best_time_to_visit": {
+    "en": "November to February when the weather is cool and dry, ideal for temple visits and national park excursions. The Nan River is at its most picturesque after the rainy season. Avoid March to May when temperatures regularly exceed 40 degrees Celsius.",
+    "nl": "November tot februari wanneer het weer koel en droog is, ideaal voor tempelbezoeken en uitstapjes naar nationale parken. De Nan-rivier is het schilderachtigst na het regenseizoen. Vermijd maart tot mei wanneer temperaturen regelmatig boven de 40 graden Celsius stijgen."
+  },
+  "budget_info": {
+    "budget_per_day": {
+      "en": "$15-25",
+      "nl": "$15-25"
+    },
+    "midrange_per_day": {
+      "en": "$40-70",
+      "nl": "$40-70"
+    },
+    "luxury_per_day": {
+      "en": "$100+",
+      "nl": "$100+"
+    }
+  },
+  "enhanced_at": "2026-02-22T10:00:00.000Z",
+  "ai_generated": true
+}

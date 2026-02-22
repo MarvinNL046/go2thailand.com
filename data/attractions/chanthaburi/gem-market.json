@@ -1,0 +1,14 @@
+{
+  "id": 1, "slug": "gem-market",
+  "name": { "en": "Chanthaburi Gem Market", "nl": "Chanthaburi Edelsteenmarkt" },
+  "type": "market", "city_slug": "chanthaburi",
+  "address": "Si Chan Road, Wat Mai, Mueang Chanthaburi, Chanthaburi 22000",
+  "location": { "lat": 12.6080, "lng": 102.1050 },
+  "opening_hours": "Friday-Sunday 9:00 AM - 5:00 PM",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Thailand's largest gem trading center, where every weekend dealers from around the world gather on Si Chan Road to trade rubies, sapphires, and semi-precious stones. Gems are displayed on folding tables, examined under loupes, and negotiated in multiple languages. Behind the main trading area, gem cutting and polishing workshops demonstrate centuries-old techniques.", "nl": "Thailand's grootste edelsteenhandelscentrum, waar elke weekend handelaren van over de hele wereld samenkomen op Si Chan Road om robijnen, saffieren en halfedelstenen te verhandelen. Edelstenen worden uitgestald op klaptafels, onderzocht onder loepen en verhandeld in meerdere talen. Achter het hoofdhandelsgebied demonstreren edelsteen-slijp- en polijstwerkplaatsen eeuwenoude technieken." },
+  "highlights": ["Weekend gem trading floor", "Rubies and sapphires", "Gem cutting workshops", "International dealers"],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
+  "seo": { "metaTitle": { "en": "Chanthaburi Gem Market - Thailand's Gem Capital | Go2Thailand", "nl": "Chanthaburi Edelsteenmarkt - Thailand's Edelsteen Hoofdstad | Go2Thailand" }, "metaDescription": { "en": "Visit the Chanthaburi Gem Market. Thailand's largest gem trading center with rubies, sapphires, and gem cutting workshops every weekend.", "nl": "Bezoek de Chanthaburi Edelsteenmarkt. Thailand's grootste edelsteenhandelscentrum met robijnen, saffieren en edelsteen-slijpwerkplaatsen elk weekend." } },
+  "tags": ["market", "chanthaburi", "thailand", "attraction", "travel", "tourism"]
+}

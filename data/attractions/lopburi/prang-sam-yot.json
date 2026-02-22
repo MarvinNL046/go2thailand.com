@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "slug": "prang-sam-yot",
+  "name": { "en": "Prang Sam Yot (Monkey Temple)", "nl": "Prang Sam Yot (Apentempel)" },
+  "type": "temple",
+  "city_slug": "lopburi",
+  "address": "Prang Sam Yot, Tha Hin, Mueang Lopburi, Lopburi 15000",
+  "location": { "lat": 14.7998, "lng": 100.6133 },
+  "opening_hours": "08:30-18:00",
+  "entrance_fee": { "thb": 50, "usd": 1 },
+  "description": { "en": "Iconic 13th-century Khmer temple with three prangs, famous for its resident macaque monkeys", "nl": "Iconische 13e-eeuwse Khmer-tempel met drie prangs, beroemd om de lokale makaken" },
+  "highlights": ["Three Khmer prangs", "Hundreds of macaques", "Bayon-style architecture", "Near railway roundabout"],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "Prang Sam Yot - Top Attraction in Lopburi | Go2Thailand", "nl": "Prang Sam Yot - Top Attractie in Lopburi | Go2Thailand" },
+    "metaDescription": { "en": "Discover Prang Sam Yot in Lopburi. Iconic Khmer temple famous for its macaque monkeys...", "nl": "Ontdek Prang Sam Yot in Lopburi. Iconische Khmer-tempel beroemd om de makaken..." }
+  },
+  "tags": ["temple", "lopburi", "thailand", "attraction", "travel", "tourism"]
+}

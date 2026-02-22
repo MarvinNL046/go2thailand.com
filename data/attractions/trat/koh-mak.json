@@ -1,0 +1,11 @@
+{
+  "id": 8, "slug": "koh-mak", "name": { "en": "Koh Mak Island", "nl": "Koh Mak Eiland" },
+  "type": "nature", "city_slug": "trat", "address": "Koh Mak, Trat Province 23000",
+  "location": { "lat": 11.8167, "lng": 102.4667 }, "opening_hours": "Accessible via speedboat",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Tiny car-free island with coconut plantations, quiet beaches, and a peaceful atmosphere for digital detox", "nl": "Klein autovrij eiland met kokosplantages, rustige stranden en een vredig sfeer voor digitale detox" },
+  "highlights": ["Car-free island", "Coconut plantations", "Digital detox", "Quiet beaches"],
+  "image": "/images/cities/phuket/phuket-old-town.webp", "official_website": null,
+  "seo": { "metaTitle": { "en": "Koh Mak Island - Top Attraction in Trat | Go2Thailand", "nl": "Koh Mak Eiland - Top Attractie in Trat | Go2Thailand" }, "metaDescription": { "en": "Discover Koh Mak, a tiny car-free island perfect for relaxation...", "nl": "Ontdek Koh Mak, een klein autovrij eiland perfect voor ontspanning..." } },
+  "tags": ["nature", "trat", "thailand", "attraction", "travel", "tourism"]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "red-lotus-sea",
+  "name": {
+    "en": "Red Lotus Sea (Talay Bua Daeng)",
+    "nl": "Rode Lotuszee (Talay Bua Daeng)"
+  },
+  "type": "nature",
+  "city_slug": "udon-thani",
+  "address": "Nong Han Kumphawapi, Amphoe Kumphawapi, Udon Thani 41370",
+  "location": {
+    "lat": 17.0500,
+    "lng": 102.9000
+  },
+  "opening_hours": "06:00-11:00 (December-February only, flowers close in afternoon)",
+  "entrance_fee": {
+    "thb": 500,
+    "usd": 14
+  },
+  "description": {
+    "en": "Spectacular lake covered with millions of pink and red lotus flowers blooming from December to February. Explore by longtail boat through seemingly infinite fields of lotus blossoms catching the golden morning light. One of Thailand's most beautiful natural spectacles.",
+    "nl": "Spectaculair meer bedekt met miljoenen roze en rode lotusbloemen die bloeien van december tot februari. Verken per longtailboot door schijnbaar oneindige velden van lotusbloesems die het gouden ochtendlicht vangen. Een van Thailand's mooiste natuurverschijnselen."
+  },
+  "highlights": [
+    "Millions of lotus flowers",
+    "December-February bloom only",
+    "Longtail boat tours",
+    "Sunrise photography"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Red Lotus Sea - Top Attraction in Udon Thani | Go2Thailand",
+      "nl": "Rode Lotuszee - Top Attractie in Udon Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover the Red Lotus Sea near Udon Thani. Millions of pink lotus flowers on a lake, December to February only.",
+      "nl": "Ontdek de Rode Lotuszee bij Udon Thani. Miljoenen roze lotusbloemen op een meer, alleen van december tot februari."
+    }
+  },
+  "tags": [
+    "nature",
+    "udon-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

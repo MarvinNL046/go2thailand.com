@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "horse-drawn-carriage-tour",
+  "name": {
+    "en": "Horse-Drawn Carriage Tour",
+    "nl": "Paardenkoets Rondrit"
+  },
+  "type": "cultural",
+  "city_slug": "lampang",
+  "address": "Near Ratsadaphisek Bridge, Tambon Suan Dok, Amphoe Muang, Lampang 52000",
+  "location": {
+    "lat": 18.2870,
+    "lng": 99.5020
+  },
+  "opening_hours": "08:00-17:00 daily",
+  "entrance_fee": {
+    "thb": 300,
+    "usd": 9
+  },
+  "description": {
+    "en": "A unique heritage experience riding through Lampang's old town in traditional horse-drawn carriages, the last of their kind in Thailand. A tradition dating back to the Burmese teak logging era of the early 20th century.",
+    "nl": "Een unieke erfgoedervaring door Lampangs oude stad in traditionele paardenkoetsen, de laatste in hun soort in Thailand. Een traditie die teruggaat tot het Burmese teakhout-kaptijdperk van het begin van de 20e eeuw."
+  },
+  "highlights": [
+    "Last horse carriages in Thailand",
+    "Old town heritage tour",
+    "Burmese-era tradition",
+    "Riverside scenery"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Horse-Drawn Carriage Tour - Top Attraction in Lampang | Go2Thailand",
+      "nl": "Paardenkoets Rondrit - Top Attractie in Lampang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Horse-Drawn Carriage Tours in Lampang. The last traditional horse carriages in Thailand touring the old town.",
+      "nl": "Ontdek Paardenkoets Rondritten in Lampang. De laatste traditionele paardenkoetsen in Thailand door de oude stad."
+    }
+  },
+  "tags": [
+    "cultural",
+    "lampang",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

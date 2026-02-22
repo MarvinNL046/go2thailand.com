@@ -1,0 +1,58 @@
+{
+  "id": 17,
+  "slug": "ubon-ratchathani",
+  "name": {
+    "en": "Ubon Ratchathani",
+    "nl": "Ubon Ratchathani"
+  },
+  "region": "Isaan",
+  "province": "Ubon Ratchathani",
+  "description": {
+    "en": "Major Isaan city on the Mekong River, famous for its spectacular Candle Festival, prehistoric cliff paintings at Pha Taem, and the breathtaking Sam Phan Bok canyon.",
+    "nl": "Grote Isaan-stad aan de Mekong rivier, beroemd om het spectaculaire Kaarsen Festival, prehistorische rotstekeningen bij Pha Taem en de adembenemende Sam Phan Bok kloof."
+  },
+  "population": 190000,
+  "highlights": [
+    "Candle Festival",
+    "Pha Taem National Park",
+    "Sam Phan Bok",
+    "Mekong River"
+  ],
+  "location": {
+    "lat": 15.2287,
+    "lng": 104.8564
+  },
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Ubon Ratchathani | What to do in Ubon Ratchathani?",
+      "nl": "Ontdek Ubon Ratchathani | Wat te doen in Ubon Ratchathani?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Ubon Ratchathani, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Ubon Ratchathani, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Ubon Ratchathani",
+      "nl": "Beste restaurants en streetfood in Ubon Ratchathani"
+    },
+    "hotels": {
+      "en": "Top hotels in Ubon Ratchathani | Tips & deals",
+      "nl": "Beste hotels in Ubon Ratchathani | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Ubon Ratchathani",
+      "nl": "Top bezienswaardigheden in Ubon Ratchathani"
+    }
+  },
+  "tags": [
+    "isaan",
+    "ubon ratchathani",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 10,
+  "slug": "chokchai-farm",
+  "name": {
+    "en": "Chokchai Farm",
+    "nl": "Chokchai Boerderij"
+  },
+  "type": "cultural",
+  "city_slug": "nakhon-ratchasima",
+  "address": "169 Moo 2, Mittraphap Road, Amphoe Pak Chong, Nakhon Ratchasima 30130",
+  "location": {
+    "lat": 14.6500,
+    "lng": 101.3800
+  },
+  "opening_hours": "09:00-16:00 Saturday-Sunday and holidays",
+  "entrance_fee": {
+    "thb": 300,
+    "usd": 9
+  },
+  "description": {
+    "en": "Thailand's largest dairy farm near Pak Chong offering guided tours, ice cream making workshops, horseback riding, and a premium steakhouse serving locally raised beef. A surprisingly fun family outing near Khao Yai.",
+    "nl": "Thailand's grootste melkveebedrijf bij Pak Chong met begeleide rondleidingen, ijsbereiding-workshops, paardrijden en een premium steakhouse dat lokaal gekweekt rundvlees serveert. Een verrassend leuk familieuitje bij Khao Yai."
+  },
+  "highlights": [
+    "Farm tours and workshops",
+    "Ice cream making class",
+    "Horseback riding",
+    "Premium steakhouse"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "https://www.farmchokchai.com",
+  "seo": {
+    "metaTitle": {
+      "en": "Chokchai Farm - Top Attraction in Nakhon Ratchasima | Go2Thailand",
+      "nl": "Chokchai Boerderij - Top Attractie in Nakhon Ratchasima | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Chokchai Farm near Khao Yai. Thailand's largest dairy farm with tours, ice cream workshops and steakhouse.",
+      "nl": "Ontdek Chokchai Boerderij bij Khao Yai. Thailand's grootste melkveebedrijf met rondleidingen, ijsworkshops en steakhouse."
+    }
+  },
+  "tags": [
+    "cultural",
+    "nakhon-ratchasima",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

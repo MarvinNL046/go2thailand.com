@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "ton-tann-green-market",
+  "name": {
+    "en": "Ton Tann Green Market",
+    "nl": "Ton Tann Green Market"
+  },
+  "type": "market",
+  "city_slug": "khon-kaen",
+  "address": "Ammat Road, Tambon Nai Mueang, Amphoe Muang, Khon Kaen 40000",
+  "location": {
+    "lat": 16.4290,
+    "lng": 102.8230
+  },
+  "opening_hours": "17:00-23:00 daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Modern outdoor night bazaar popular with Khon Kaen University students offering trendy street food, live music, craft beer, and vintage clothing in a hip park-like setting.",
+    "nl": "Moderne openlucht nachtbazaar populair bij studenten van Khon Kaen University met trendy streetfood, live muziek, craft bier en vintage kleding in een hippe parkachtige omgeving."
+  },
+  "highlights": [
+    "Trendy food stalls",
+    "Live music and events",
+    "University student crowd",
+    "Craft beer and cocktails"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Ton Tann Green Market - Top Attraction in Khon Kaen | Go2Thailand",
+      "nl": "Ton Tann Green Market - Top Attractie in Khon Kaen | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Ton Tann Green Market in Khon Kaen. Modern night bazaar with trendy food, live music and university atmosphere.",
+      "nl": "Ontdek Ton Tann Green Market in Khon Kaen. Moderne nachtbazaar met trendy eten, live muziek en universiteitssfeer."
+    }
+  },
+  "tags": [
+    "market",
+    "khon-kaen",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

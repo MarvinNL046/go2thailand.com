@@ -1,0 +1,11 @@
+{
+  "id": 4, "slug": "rayong-aquarium", "name": { "en": "Rayong Aquarium", "nl": "Rayong Aquarium" },
+  "type": "attraction", "city_slug": "rayong", "address": "2 Phe-Klaeng Road, Phe, Mueang Rayong, Rayong 21160",
+  "location": { "lat": 12.6194, "lng": 101.4028 }, "opening_hours": "10:00-16:00 (closed Mondays)",
+  "entrance_fee": { "thb": 50, "usd": 1 },
+  "description": { "en": "Educational marine aquarium at the eastern end of Mae Ramphueng Beach showcasing Gulf of Thailand species", "nl": "Educatief zeeaquarium aan het oostelijke einde van Mae Ramphueng Beach met soorten uit de Golf van Thailand" },
+  "highlights": ["Gulf of Thailand marine life", "Educational exhibits", "Family-friendly", "Touch pools"],
+  "image": "/images/cities/phuket/phuket-old-town.webp", "official_website": null,
+  "seo": { "metaTitle": { "en": "Rayong Aquarium - Top Attraction in Rayong | Go2Thailand", "nl": "Rayong Aquarium - Top Attractie in Rayong | Go2Thailand" }, "metaDescription": { "en": "Discover Rayong Aquarium. Marine life from the Gulf of Thailand...", "nl": "Ontdek Rayong Aquarium. Zeeleven uit de Golf van Thailand..." } },
+  "tags": ["attraction", "rayong", "thailand", "attraction", "travel", "tourism"]
+}

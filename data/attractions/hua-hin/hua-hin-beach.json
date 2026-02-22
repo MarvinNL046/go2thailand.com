@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "slug": "hua-hin-beach",
+  "name": { "en": "Hua Hin Beach", "nl": "Hua Hin Strand" },
+  "type": "beach",
+  "city_slug": "hua-hin",
+  "address": "Hua Hin Beach Road, Hua Hin, Prachuap Khiri Khan",
+  "location": { "lat": 12.5706, "lng": 99.9607 },
+  "opening_hours": "Open 24 hours",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Hua Hin's main beach stretching several kilometers with white sand, horse rides, and beachfront dining", "nl": "Hua Hin's hoofdstrand dat zich kilometers uitstrekt met wit zand, paardritten en dineren aan het strand" },
+  "highlights": ["Long sandy beach", "Horse riding on the sand", "Beachfront restaurants", "Sunrise views"],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "Hua Hin Beach - Top Attraction in Hua Hin | Go2Thailand", "nl": "Hua Hin Strand - Top Attractie in Hua Hin | Go2Thailand" },
+    "metaDescription": { "en": "Discover Hua Hin Beach. Several kilometers of white sand with horse rides and beachfront dining...", "nl": "Ontdek Hua Hin Strand. Kilometers wit zand met paardritten en dineren aan het strand..." }
+  },
+  "tags": ["beach", "hua-hin", "thailand", "attraction", "travel", "tourism"]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1, "slug": "thung-wua-laen-beach",
+  "name": { "en": "Thung Wua Laen Beach", "nl": "Thung Wua Laen Beach" },
+  "type": "beach", "city_slug": "chumphon",
+  "address": "Thung Wua Laen, Pathio, Chumphon 86160",
+  "location": { "lat": 10.5600, "lng": 99.2500 },
+  "opening_hours": "24/7",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": {
+    "en": "Chumphon's finest beach stretches in a long crescent of golden sand backed by casuarina trees and low-key bungalow resorts. The clear, warm water and offshore coral reefs of Mu Ko Chumphon National Park make it excellent for snorkeling, while consistent December-March winds attract a growing kiteboarding community.",
+    "nl": "Chumphon's mooiste strand strekt zich uit in een lange halve maan van goudkleurig zand, omzoomd door casuarina-bomen en bescheiden bungalowresorts. Het heldere, warme water en de koraalriffen van het Mu Ko Chumphon Nationaal Park maken het uitstekend voor snorkelen, terwijl constante december-maart winden een groeiende kiteboard-gemeenschap aantrekken."
+  },
+  "highlights": ["Long golden sand beach", "Kiteboarding December-March", "Offshore coral snorkeling", "Low-key beach atmosphere"],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": { "en": "Thung Wua Laen Beach - Chumphon's Best Beach | Go2Thailand", "nl": "Thung Wua Laen Beach - Chumphon's Beste Strand | Go2Thailand" },
+    "metaDescription": { "en": "Visit Thung Wua Laen Beach in Chumphon. Golden sand, coral snorkeling, kiteboarding, and a peaceful atmosphere on the Gulf of Thailand.", "nl": "Bezoek Thung Wua Laen Beach in Chumphon. Goudkleurig zand, koraal snorkelen, kiteboarden en een vredige sfeer aan de Golf van Thailand." }
+  },
+  "tags": ["beach", "chumphon", "thailand", "attraction", "travel", "tourism"]
+}

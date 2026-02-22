@@ -148,5 +148,275 @@
       "Koh Samui Pier",
       "Surat Thani City Pillar Shrine"
     ]
+  },
+  {
+    "id": 11,
+    "slug": "pai",
+    "name": {
+      "en": "Pai",
+      "nl": "Pai"
+    },
+    "region": "Northern",
+    "province": "Mae Hong Son",
+    "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+    "highlights": [
+      "Pai Canyon",
+      "Pai Walking Street"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "mae-hong-son",
+    "name": {
+      "en": "Mae Hong Son",
+      "nl": "Mae Hong Son"
+    },
+    "region": "Northern",
+    "province": "Mae Hong Son",
+    "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+    "highlights": [
+      "Pang Ung",
+      "Tham Lod Cave"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "lampang",
+    "name": {
+      "en": "Lampang",
+      "nl": "Lampang"
+    },
+    "region": "Northern",
+    "province": "Lampang",
+    "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+    "highlights": [
+      "Horse-Drawn Carriages",
+      "Wat Phra That Lampang Luang"
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "khon-kaen",
+    "name": {
+      "en": "Khon Kaen",
+      "nl": "Khon Kaen"
+    },
+    "region": "Isaan",
+    "province": "Khon Kaen",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
+    "highlights": [
+      "Dinosaur Museum",
+      "Bueng Kaen Nakhon Lake"
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "udon-thani",
+    "name": {
+      "en": "Udon Thani",
+      "nl": "Udon Thani"
+    },
+    "region": "Isaan",
+    "province": "Udon Thani",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
+    "highlights": [
+      "Ban Chiang Archaeological Site",
+      "Red Lotus Sea"
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "nakhon-ratchasima",
+    "name": {
+      "en": "Nakhon Ratchasima (Korat)",
+      "nl": "Nakhon Ratchasima (Korat)"
+    },
+    "region": "Isaan",
+    "province": "Nakhon Ratchasima",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
+    "highlights": [
+      "Khao Yai National Park",
+      "Thao Suranaree Monument"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "ubon-ratchathani",
+    "name": {
+      "en": "Ubon Ratchathani",
+      "nl": "Ubon Ratchathani"
+    },
+    "region": "Isaan",
+    "province": "Ubon Ratchathani",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
+    "highlights": [
+      "Candle Festival",
+      "Pha Taem National Park"
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "kanchanaburi",
+    "name": {
+      "en": "Kanchanaburi",
+      "nl": "Kanchanaburi"
+    },
+    "region": "Central",
+    "province": "Kanchanaburi",
+    "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+    "highlights": [
+      "Bridge over River Kwai",
+      "Erawan National Park"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "hua-hin",
+    "name": {
+      "en": "Hua Hin",
+      "nl": "Hua Hin"
+    },
+    "region": "Central",
+    "province": "Prachuap Khiri Khan",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
+    "highlights": [
+      "Hua Hin Beach",
+      "Cicada Market"
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "lopburi",
+    "name": {
+      "en": "Lopburi",
+      "nl": "Lopburi"
+    },
+    "region": "Central",
+    "province": "Lopburi",
+    "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+    "highlights": [
+      "Prang Sam Yot (Monkey Temple)",
+      "Narai Ratchaniwet Palace"
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "phitsanulok",
+    "name": {
+      "en": "Phitsanulok",
+      "nl": "Phitsanulok"
+    },
+    "region": "Central",
+    "province": "Phitsanulok",
+    "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+    "highlights": [
+      "Wat Phra Si Rattana Mahathat",
+      "Nan River"
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "trat",
+    "name": {
+      "en": "Trat",
+      "nl": "Trat"
+    },
+    "region": "Central",
+    "province": "Trat",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
+    "highlights": [
+      "Koh Chang Island",
+      "Koh Kood"
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "rayong",
+    "name": {
+      "en": "Rayong",
+      "nl": "Rayong"
+    },
+    "region": "Central",
+    "province": "Rayong",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
+    "highlights": [
+      "Koh Samet",
+      "Mae Ramphueng Beach"
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "koh-samui",
+    "name": {
+      "en": "Koh Samui",
+      "nl": "Koh Samui"
+    },
+    "region": "Southern",
+    "province": "Surat Thani",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
+    "highlights": [
+      "Chaweng Beach",
+      "Big Buddha Temple"
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "nakhon-si-thammarat",
+    "name": {
+      "en": "Nakhon Si Thammarat",
+      "nl": "Nakhon Si Thammarat"
+    },
+    "region": "Southern",
+    "province": "Nakhon Si Thammarat",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
+    "highlights": [
+      "Wat Phra Mahathat",
+      "Kiriwong Village"
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "trang",
+    "name": {
+      "en": "Trang",
+      "nl": "Trang"
+    },
+    "region": "Southern",
+    "province": "Trang",
+    "image": "/images/cities/krabi/krabi-mountain-view.webp",
+    "highlights": [
+      "Emerald Cave (Tham Morakot)",
+      "Koh Lanta nearby"
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "chumphon",
+    "name": {
+      "en": "Chumphon",
+      "nl": "Chumphon"
+    },
+    "region": "Southern",
+    "province": "Chumphon",
+    "image": "/images/cities/krabi/krabi-mountain-view.webp",
+    "highlights": [
+      "Thung Wua Laen Beach",
+      "Koh Tao Gateway"
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "chanthaburi",
+    "name": {
+      "en": "Chanthaburi",
+      "nl": "Chanthaburi"
+    },
+    "region": "Central",
+    "province": "Chanthaburi",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
+    "highlights": [
+      "Gem Market",
+      "Cathedral of the Immaculate Conception"
+    ]
   }
 ]

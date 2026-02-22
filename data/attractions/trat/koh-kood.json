@@ -1,0 +1,11 @@
+{
+  "id": 2, "slug": "koh-kood", "name": { "en": "Koh Kood (Koh Kut)", "nl": "Koh Kood (Koh Kut)" },
+  "type": "nature", "city_slug": "trat", "address": "Koh Kood, Trat Province 23000",
+  "location": { "lat": 11.6500, "lng": 102.5667 }, "opening_hours": "Accessible via speedboat from Trat/Koh Chang",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Pristine, unspoiled island with crystal-clear waters, coconut plantations, and traditional fishing villages", "nl": "Ongerept eiland met kristalhelder water, kokosplantages en traditionele vissersdorpen" },
+  "highlights": ["Pristine beaches", "Crystal-clear water", "Fishing villages", "Coconut plantations"],
+  "image": "/images/cities/phuket/phuket-old-town.webp", "official_website": null,
+  "seo": { "metaTitle": { "en": "Koh Kood - Top Attraction in Trat | Go2Thailand", "nl": "Koh Kood - Top Attractie in Trat | Go2Thailand" }, "metaDescription": { "en": "Discover Koh Kood, a pristine unspoiled island near Trat...", "nl": "Ontdek Koh Kood, een ongerept eiland bij Trat..." } },
+  "tags": ["nature", "trat", "thailand", "attraction", "travel", "tourism"]
+}

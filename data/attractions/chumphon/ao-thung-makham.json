@@ -1,0 +1,21 @@
+{
+  "id": 6, "slug": "ao-thung-makham",
+  "name": { "en": "Ao Thung Makham Bay", "nl": "Ao Thung Makham Baai" },
+  "type": "nature", "city_slug": "chumphon",
+  "address": "Thung Makham, Mueang Chumphon, Chumphon 86000",
+  "location": { "lat": 10.4100, "lng": 99.2300 },
+  "opening_hours": "24/7",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": {
+    "en": "A sheltered bay south of Chumphon town where fishing communities serve the morning's catch at stilted waterfront restaurants built over the water. The pier here is the departure point for Lomprayah catamarans to Koh Tao. Some of the freshest and cheapest seafood on the Gulf coast, with steamed sea bass and garlic prawns as specialties.",
+    "nl": "Een beschutte baai ten zuiden van Chumphon stad waar vissersgemeenschappen de ochtendvangst serveren in waterkant restaurants op palen boven het water. De pier hier is het vertrekpunt voor Lomprayah catamarans naar Koh Tao. Enkele van de versste en goedkoopste zeevruchten aan de Golfkust, met gestoomde zeebaars en knoflookgarnalen als specialiteiten."
+  },
+  "highlights": ["Waterfront seafood restaurants", "Koh Tao ferry departure", "Fresh catch of the day", "Fishing village atmosphere"],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": { "en": "Ao Thung Makham - Seafood & Koh Tao Ferry | Go2Thailand", "nl": "Ao Thung Makham - Zeevruchten & Koh Tao Veerboot | Go2Thailand" },
+    "metaDescription": { "en": "Visit Ao Thung Makham Bay in Chumphon. Waterfront seafood restaurants and the Koh Tao ferry departure point in a fishing village setting.", "nl": "Bezoek Ao Thung Makham Baai in Chumphon. Waterkant visrestaurants en het Koh Tao veerboot vertrekpunt in een vissersdorpsetting." }
+  },
+  "tags": ["nature", "chumphon", "thailand", "attraction", "travel", "tourism"]
+}

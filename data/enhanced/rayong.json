@@ -1,0 +1,282 @@
+{
+  "id": 22,
+  "slug": "rayong",
+  "name": {
+    "en": "Rayong",
+    "nl": "Rayong"
+  },
+  "region": "Central",
+  "province": "Rayong",
+  "description": {
+    "en": "Coastal province east of Bangkok, gateway to the popular island of Koh Samet. Famous for tropical fruit orchards, long sandy beaches, fresh seafood, and a relaxed atmosphere away from the tourist crowds.",
+    "nl": "Kustprovincie ten oosten van Bangkok, toegangspoort tot het populaire eiland Koh Samet. Beroemd om tropische fruitboomgaarden, lange zandstranden, verse zeevruchten en een ontspannen sfeer weg van de toeristische drukte."
+  },
+  "population": 65000,
+  "highlights": [
+    "Koh Samet",
+    "Mae Ramphueng Beach",
+    "Rayong Aquarium",
+    "Fruit Orchards"
+  ],
+  "location": {
+    "lat": 12.6814,
+    "lng": 101.2816
+  },
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Rayong | What to do in Rayong?",
+      "nl": "Ontdek Rayong | Wat te doen in Rayong?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Rayong, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Rayong, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Rayong",
+      "nl": "Beste restaurants en streetfood in Rayong"
+    },
+    "hotels": {
+      "en": "Top hotels in Rayong | Tips & deals",
+      "nl": "Beste hotels in Rayong | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Rayong",
+      "nl": "Top bezienswaardigheden in Rayong"
+    }
+  },
+  "tags": [
+    "central",
+    "rayong",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ],
+  "enhanced_description": "The drive from Bangkok to Rayong takes under three hours along the Motorway, and somewhere past Chonburi the landscape shifts from industrial estates to fruit orchards and coconut palms. I pulled off the highway near Ban Phe to follow hand-painted signs advertising \"durian, rambutan, mangosteen\" and found myself in a roadside orchard where a farmer named Somchai let me pick rambutans straight from the tree. He cracked open a durian with a machete, and the creamy flesh, warm from the sun, was so superior to the plastic-wrapped supermarket version that I bought two more to take to my hotel. This is Rayong's first gift: Thailand's fruit basket, where the orchards supply half the country's tropical harvest.\n\nBut most visitors come to Rayong for one reason: Koh Samet. The speedboat from Ban Phe pier takes twenty minutes, and as the island's white crescents of sand appeared through the spray, I felt that familiar thrill of island arrival. Koh Samet occupies a sweet spot in the Thai island spectrum: developed enough for comfortable accommodation and decent restaurants, yet small enough that a motorbike can circle the whole island in an hour. I based myself at Ao Wong Duean, a horseshoe bay on the eastern coast, where the turquoise water was warm as a bath and the sand was the fine white powder that postcards promise but rarely deliver.\n\nBack on the mainland, Mae Ramphueng Beach surprised me with its length and emptiness. This twelve-kilometer stretch of golden sand runs south from the fishing village of Paknam Rayong, and on a Tuesday morning I walked for an hour without seeing another tourist. Fishing boats lined the shore near the village end, and a row of seafood restaurants with plastic chairs and concrete floors served the catch of the day at prices that made me reconsider ever eating in Bangkok again. I ordered pla kapong neung manao, steamed sea bass with lime and chili, so fresh the flesh was translucent, and a plate of fried squid with garlic that arrived sizzling from the wok.\n\nRayong town itself is a functional Thai provincial city, not particularly scenic but with a genuine local character. The Rayong Aquarium at the east end of Mae Ramphueng Beach is a modest but educational attraction, particularly for families. The morning market in town on Sukhumvit Road is a riot of color: piles of shrimp paste, Thailand's famous nam pla ra fermented fish sauce that Rayong producers are known for, baskets of dried squid, and mountains of the tropical fruits for which the province is celebrated. I tasted som tum made with Rayong shrimp paste at a stall and nearly cried from the complexity of its fermented, spicy, sour flavor.\n\nWhat sets Rayong apart is its accessibility and authenticity. Unlike Pattaya an hour north, Rayong has not been overtaken by mass tourism, yet it is close enough to Bangkok for a genuine weekend escape. The Khao Laem Ya-Mu Ko Samet National Park protects both the island and a beautiful stretch of rocky mainland coast with tide pools, viewpoints, and easy hiking trails. On my last evening, I sat on the rocks at the Khao Laem Ya headland watching the sun sink into the Gulf of Thailand, fishing boats silhouetted against the amber sky, and thought that sometimes the best destinations in Thailand are the ones nobody tells you about.",
+  "hidden_gems": [
+    {
+      "name": {
+        "en": "Rayong Fruit Orchards (Suan Lamai)",
+        "nl": "Rayong Fruitboomgaarden (Suan Lamai)"
+      },
+      "description": {
+        "en": "Visit local orchards during fruit season (April-June) to pick your own durian, rambutan, mangosteen, and longkong straight from the trees. Many farmers welcome visitors for a small fee.",
+        "nl": "Bezoek lokale boomgaarden tijdens het fruitseizoen (april-juni) om je eigen durian, rambutan, mangosteen en longkong direct van de bomen te plukken. Veel boeren verwelkomen bezoekers voor een kleine vergoeding."
+      },
+      "type": "experience"
+    },
+    {
+      "name": {
+        "en": "Ao Prao Beach (Koh Samet)",
+        "nl": "Ao Prao Strand (Koh Samet)"
+      },
+      "description": {
+        "en": "The only beach on Koh Samet's quieter west coast, accessible by a short trail or boat. Stunning sunset views with a fraction of the east coast crowds. Home to just a couple of upscale resorts.",
+        "nl": "Het enige strand aan de rustigere westkust van Koh Samet, bereikbaar via een kort pad of boot. Prachtige zonsondergangen met een fractie van de drukte van de oostkust. Slechts een paar luxe resorts."
+      },
+      "type": "nature"
+    },
+    {
+      "name": {
+        "en": "Rayong Shrimp Paste Village (Ban Phe)",
+        "nl": "Rayong Garnalenpasta Dorp (Ban Phe)"
+      },
+      "description": {
+        "en": "The fishing village of Ban Phe is famous for producing kapi, Thai shrimp paste, using traditional sun-drying methods. Watch the production process and buy the freshest kapi in Thailand.",
+        "nl": "Het vissersdorp Ban Phe is beroemd om de productie van kapi, Thaise garnalenpasta, met traditionele zondroging. Bekijk het productieproces en koop de versste kapi van Thailand."
+      },
+      "type": "experience"
+    },
+    {
+      "name": {
+        "en": "Khao Laem Ya Viewpoint",
+        "nl": "Khao Laem Ya Uitzichtpunt"
+      },
+      "description": {
+        "en": "A rocky headland at the tip of the national park mainland section with panoramic views of Koh Samet and the Gulf islands. The sunset from the viewpoint rocks is breathtaking.",
+        "nl": "Een rotsachtige kaap aan de punt van het vastelanddeel van het nationale park met panoramisch uitzicht op Koh Samet en de Golfeilanden. De zonsondergang vanaf de uitzichtrotsen is adembenemend."
+      },
+      "type": "nature"
+    },
+    {
+      "name": {
+        "en": "Suan Son Beach (Pine Beach)",
+        "nl": "Suan Son Strand (Dennenstrand)"
+      },
+      "description": {
+        "en": "A military-maintained beach with casuarina pines providing natural shade, popular with Thai families on weekends but deserted midweek. Clean sand, calm water, and zero tourist infrastructure.",
+        "nl": "Een door het leger onderhouden strand met casuarinadennen die natuurlijke schaduw bieden, populair bij Thaise families in het weekend maar verlaten doordeweeks. Schoon zand, kalm water en geen toeristische infrastructuur."
+      },
+      "type": "nature"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "name": "Tamnanpar Restaurant (Mae Ramphueng Beach)",
+      "cuisine": "Thai Seafood",
+      "price_range": "$$",
+      "description": {
+        "en": "Upscale beachfront seafood restaurant at Tamnanpar Resort. Excellent steamed fish, crab curry, and panoramic sea views from an elegant terrace. Worth the splurge.",
+        "nl": "Upscale strandvisrestaurant bij Tamnanpar Resort. Uitstekende gestoomde vis, krabcurry en panoramisch zeezicht vanaf een elegant terras. De moeite waard."
+      }
+    },
+    {
+      "name": "Ban Phe Seafood Stalls",
+      "cuisine": "Thai Seafood",
+      "price_range": "$",
+      "description": {
+        "en": "A row of open-air seafood restaurants along the Ban Phe waterfront serving the day's catch. The fried squid with garlic and steamed sea bass are legendary among locals.",
+        "nl": "Een rij openlucht visrestaurants langs de waterkant van Ban Phe die de dagvangst serveren. De gebakken inktvis met knoflook en gestoomde zeebaars zijn legendarisch onder locals."
+      }
+    },
+    {
+      "name": "Ploy Talay (Koh Samet)",
+      "cuisine": "Thai-Seafood",
+      "price_range": "$$",
+      "description": {
+        "en": "Popular beachfront restaurant on Sai Kaew Beach serving Thai seafood with your feet in the sand. The fire show performances add to the memorable dining experience.",
+        "nl": "Populair strandrestaurant aan Sai Kaew Beach met Thaise zeevruchten met je voeten in het zand. De vuurshowoptredens dragen bij aan de onvergetelijke dinervaring."
+      }
+    },
+    {
+      "name": "Rayong Municipal Market Food Court",
+      "cuisine": "Thai Street Food",
+      "price_range": "$",
+      "description": {
+        "en": "The municipal market's food section on Sukhumvit Road is where locals eat breakfast and lunch. Famous for som tum with local shrimp paste and grilled dried squid.",
+        "nl": "Het voedselgedeelte van de gemeentemarkt aan Sukhumvit Road is waar locals ontbijten en lunchen. Beroemd om som tum met lokale garnalenpasta en gegrilde gedroogde inktvis."
+      }
+    },
+    {
+      "name": "Nong Nuch Seafood",
+      "cuisine": "Thai Seafood",
+      "price_range": "$-$$",
+      "description": {
+        "en": "Large, popular Thai seafood restaurant in Rayong town packed with local families on weekends. Generous portions, fresh ingredients, and the spicy stir-fried crab is a must-order.",
+        "nl": "Groot, populair Thais visrestaurant in Rayong-stad, vol met lokale families in het weekend. Royale porties, verse ingredienten en de pittige roergebakken krab is een must."
+      }
+    }
+  ],
+  "top_hotels": [
+    {
+      "name": "Paradee Resort (Koh Samet)",
+      "category": "luxury",
+      "price_range": "$$$",
+      "description": {
+        "en": "Exclusive luxury resort at the quiet southern tip of Koh Samet with private pool villas, a pristine private beach, and impeccable service. Adults-only serenity.",
+        "nl": "Exclusief luxeresort aan de rustige zuidpunt van Koh Samet met villa's met privezwembad, een ongerept prive-strand en onberispelijke service. Alleen voor volwassenen."
+      }
+    },
+    {
+      "name": "Tamnanpar Resort (Mae Ramphueng Beach)",
+      "category": "midrange",
+      "price_range": "$$",
+      "description": {
+        "en": "Beautiful beachfront resort on Mae Ramphueng Beach with pool, spa, and direct beach access. A peaceful mainland alternative to the islands.",
+        "nl": "Prachtig strandresort aan Mae Ramphueng Beach met zwembad, spa en directe strandtoegang. Een vredig vasteland-alternatief voor de eilanden."
+      }
+    },
+    {
+      "name": "Sai Kaew Beach Resort (Koh Samet)",
+      "category": "midrange",
+      "price_range": "$$",
+      "description": {
+        "en": "Well-established resort on Koh Samet's most popular beach with comfortable rooms, beach bar, and proximity to the island's best nightlife.",
+        "nl": "Gevestigd resort aan het populairste strand van Koh Samet met comfortabele kamers, strandbar en nabijheid van het beste nachtleven van het eiland."
+      }
+    },
+    {
+      "name": "Naga Bungalows (Koh Samet)",
+      "category": "budget",
+      "price_range": "$",
+      "description": {
+        "en": "Simple beachfront bungalows at Ao Hin Khok on Koh Samet. Basic accommodation right on the sand with a friendly vibe and the island's best budget location.",
+        "nl": "Eenvoudige strandbungalows bij Ao Hin Khok op Koh Samet. Basisaccommodatie direct op het zand met een vriendelijke sfeer en de beste budgetlocatie van het eiland."
+      }
+    },
+    {
+      "name": "Rayong Marriott Resort & Spa",
+      "category": "luxury",
+      "price_range": "$$$",
+      "description": {
+        "en": "Five-star beachfront resort on the mainland with world-class facilities, multiple pools, kids' club, and a private stretch of beach. Popular with Bangkok families on weekends.",
+        "nl": "Vijfsterren strandresort op het vasteland met faciliteiten van wereldklasse, meerdere zwembaden, kinderclub en een prive-stuk strand. Populair bij families uit Bangkok in het weekend."
+      }
+    }
+  ],
+  "travel_tips": [
+    {
+      "title": {
+        "en": "Getting to Koh Samet",
+        "nl": "Naar Koh Samet reizen"
+      },
+      "content": {
+        "en": "Take a minivan from Bangkok's Eastern Bus Terminal (Ekkamai) to Ban Phe pier (3-3.5 hours). Speedboats to Koh Samet take 15 minutes and ferries take 40 minutes. Most boats land at Na Dan pier.",
+        "nl": "Neem een minivan vanaf het oostelijke busstation van Bangkok (Ekkamai) naar Ban Phe-pier (3-3,5 uur). Speedboten naar Koh Samet doen 15 minuten en veerboten 40 minuten. De meeste boten landen bij Na Dan-pier."
+      }
+    },
+    {
+      "title": {
+        "en": "National Park Fee",
+        "nl": "Nationaal Park Toeslag"
+      },
+      "content": {
+        "en": "Koh Samet is part of a national park. Foreign visitors pay 200 THB entry fee at the pier. Keep your receipt as rangers occasionally check. Thai nationals pay 40 THB.",
+        "nl": "Koh Samet maakt deel uit van een nationaal park. Buitenlandse bezoekers betalen 200 THB entreegeld bij de pier. Bewaar je bon want rangers controleren af en toe. Thaise staatsburgers betalen 40 THB."
+      }
+    },
+    {
+      "title": {
+        "en": "Fruit Season Planning",
+        "nl": "Fruitseizoen planning"
+      },
+      "content": {
+        "en": "Visit Rayong's orchards between April and June for durian, rambutan, mangosteen, and longkong at their peak. The annual Rayong Fruit Festival in May or June is a colorful celebration worth attending.",
+        "nl": "Bezoek Rayong's boomgaarden tussen april en juni voor durian, rambutan, mangosteen en longkong op hun hoogtepunt. Het jaarlijkse Rayong Fruitfestival in mei of juni is een kleurrijk feest dat de moeite waard is."
+      }
+    },
+    {
+      "title": {
+        "en": "Weekend Traffic Warning",
+        "nl": "Weekendverkeerswaarschuwing"
+      },
+      "content": {
+        "en": "Bangkok residents flock to Rayong and Koh Samet on weekends and holidays. The drive can take 5 hours instead of 3 due to traffic. Leave early on Friday or travel midweek for a stress-free trip.",
+        "nl": "Inwoners van Bangkok stromen in het weekend en op feestdagen naar Rayong en Koh Samet. De rit kan 5 uur duren in plaats van 3 door het verkeer. Vertrek vroeg op vrijdag of reis doordeweeks voor een stressvrije trip."
+      }
+    },
+    {
+      "title": {
+        "en": "Mainland Beaches Are Worth Exploring",
+        "nl": "Vastelandstranden zijn het verkennen waard"
+      },
+      "content": {
+        "en": "Do not overlook the mainland beaches. Mae Ramphueng Beach is 12 km of uncrowded sand, and the seafood restaurants at Paknam Rayong serve lunch at half the price of Koh Samet's beach restaurants.",
+        "nl": "Vergeet de vastelandstranden niet. Mae Ramphueng Beach is 12 km ondruk strand en de visrestaurants bij Paknam Rayong serveren lunch voor de helft van de prijs van Koh Samet's strandrestaurants."
+      }
+    }
+  ],
+  "best_time_to_visit": {
+    "en": "November to April is the dry season with sunny skies and calm seas, ideal for beach activities and island hopping. The fruit season peaks from April to June. Koh Samet is accessible year-round as its microclimate keeps it drier than the mainland even during monsoon season.",
+    "nl": "November tot april is het droge seizoen met zonnige luchten en kalme zeeen, ideaal voor strandactiviteiten en eilandhoppen. Het fruitseizoen piekt van april tot juni. Koh Samet is het hele jaar toegankelijk omdat het microklimaat het droger houdt dan het vasteland, zelfs tijdens het moessonseizoen."
+  },
+  "budget_info": {
+    "budget_per_day": {
+      "en": "$20-35",
+      "nl": "$20-35"
+    },
+    "midrange_per_day": {
+      "en": "$50-90",
+      "nl": "$50-90"
+    },
+    "luxury_per_day": {
+      "en": "$150+",
+      "nl": "$150+"
+    }
+  },
+  "enhanced_at": "2026-02-22T10:00:00.000Z",
+  "ai_generated": true
+}

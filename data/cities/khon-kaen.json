@@ -1,0 +1,58 @@
+{
+  "id": 14,
+  "slug": "khon-kaen",
+  "name": {
+    "en": "Khon Kaen",
+    "nl": "Khon Kaen"
+  },
+  "region": "Isaan",
+  "province": "Khon Kaen",
+  "description": {
+    "en": "The unofficial capital of Isaan, a thriving university city and gateway to northeastern Thailand with dinosaur fossils, silk weaving villages, and authentic Isaan street food.",
+    "nl": "De onofficiële hoofdstad van Isaan, een bruisende universiteitsstad en poort naar Noordoost-Thailand met dinosaurusfossielen, zijdeweef-dorpen en authentieke Isaan-streetfood."
+  },
+  "population": 400000,
+  "highlights": [
+    "Dinosaur Museum",
+    "Bueng Kaen Nakhon Lake",
+    "Night Markets",
+    "Silk Village"
+  ],
+  "location": {
+    "lat": 16.4322,
+    "lng": 102.8236
+  },
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Khon Kaen | What to do in Khon Kaen?",
+      "nl": "Ontdek Khon Kaen | Wat te doen in Khon Kaen?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Khon Kaen, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Khon Kaen, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Khon Kaen",
+      "nl": "Beste restaurants en streetfood in Khon Kaen"
+    },
+    "hotels": {
+      "en": "Top hotels in Khon Kaen | Tips & deals",
+      "nl": "Beste hotels in Khon Kaen | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Khon Kaen",
+      "nl": "Top bezienswaardigheden in Khon Kaen"
+    }
+  },
+  "tags": [
+    "isaan",
+    "khon kaen",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 20,
+  "slug": "lopburi",
+  "name": {
+    "en": "Lopburi",
+    "nl": "Lopburi"
+  },
+  "region": "Central",
+  "province": "Lopburi",
+  "description": {
+    "en": "Ancient city famous for its resident macaque monkeys and well-preserved Khmer ruins, once a major center during the Khmer Empire and later the second capital under King Narai.",
+    "nl": "Oude stad beroemd om de lokale makaken en goed bewaarde Khmer-ruines, ooit een belangrijk centrum tijdens het Khmer-rijk en later de tweede hoofdstad onder Koning Narai."
+  },
+  "population": 58000,
+  "highlights": [
+    "Prang Sam Yot (Monkey Temple)",
+    "Narai Ratchaniwet Palace",
+    "Monkey Festival",
+    "San Phra Kan Shrine"
+  ],
+  "location": {
+    "lat": 14.7995,
+    "lng": 100.6534
+  },
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Lopburi | What to do in Lopburi?",
+      "nl": "Ontdek Lopburi | Wat te doen in Lopburi?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Lopburi, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Lopburi, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Lopburi",
+      "nl": "Beste restaurants en streetfood in Lopburi"
+    },
+    "hotels": {
+      "en": "Top hotels in Lopburi | Tips & deals",
+      "nl": "Beste hotels in Lopburi | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Lopburi",
+      "nl": "Top bezienswaardigheden in Lopburi"
+    }
+  },
+  "tags": [
+    "central",
+    "lopburi",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

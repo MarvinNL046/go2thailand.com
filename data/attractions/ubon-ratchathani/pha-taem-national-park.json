@@ -1,0 +1,14 @@
+{
+  "id": 1, "slug": "pha-taem-national-park",
+  "name": { "en": "Pha Taem National Park", "nl": "Pha Taem Nationaal Park" },
+  "type": "nature", "city_slug": "ubon-ratchathani",
+  "address": "Pha Taem National Park, Khong Chiam, Ubon Ratchathani 34220",
+  "location": { "lat": 15.4500, "lng": 105.5300 },
+  "opening_hours": "6:00 AM - 6:00 PM",
+  "entrance_fee": { "thb": 200, "usd": 6 },
+  "description": { "en": "A spectacular national park along the Mekong River featuring dramatic cliff edges with panoramic views over Laos and prehistoric rock paintings dating back 3,000-4,000 years. The cliff face paintings depict hand prints, fish, geometric patterns, and farming scenes. The sunrise viewpoint is one of the most powerful landscapes in Isaan.", "nl": "Een spectaculair nationaal park langs de Mekong met dramatische klifranden met panoramisch uitzicht over Laos en prehistorische rotstekeningen van 3.000-4.000 jaar oud. De rotsschilderingen tonen handafdrukken, vissen, geometrische patronen en landbouwscènes. Het zonsopgang-uitkijkpunt is een van de krachtigste landschappen van Isaan." },
+  "highlights": ["3,000-4,000 year old rock paintings", "Dramatic Mekong cliff edge", "Sunrise over Laos", "Scenic hiking trails"],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "https://www.thainationalparks.com/pha-taem-national-park",
+  "seo": { "metaTitle": { "en": "Pha Taem National Park - Prehistoric Art & Mekong Cliffs | Go2Thailand", "nl": "Pha Taem Nationaal Park - Prehistorische Kunst & Mekong Kliffen | Go2Thailand" }, "metaDescription": { "en": "Explore Pha Taem National Park in Ubon Ratchathani. Prehistoric cliff paintings, dramatic Mekong views, and sunrise over Laos.", "nl": "Verken Pha Taem Nationaal Park in Ubon Ratchathani. Prehistorische rotstekeningen, dramatische Mekong-uitzichten en zonsopgang boven Laos." } },
+  "tags": ["nature", "ubon-ratchathani", "thailand", "attraction", "travel", "tourism"]
+}

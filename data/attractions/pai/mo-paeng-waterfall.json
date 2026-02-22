@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "mo-paeng-waterfall",
+  "name": {
+    "en": "Mo Paeng Waterfall",
+    "nl": "Mo Paeng Waterval"
+  },
+  "type": "nature",
+  "city_slug": "pai",
+  "address": "Tambon Mae Hi, Amphoe Pai, Mae Hong Son 58130",
+  "location": {
+    "lat": 19.3176,
+    "lng": 98.4071
+  },
+  "opening_hours": "Open 24 hours",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Popular multi-tiered waterfall with natural rock slides and swimming pools surrounded by jungle. A favorite swimming spot for backpackers and locals during the hot season.",
+    "nl": "Populaire waterval met meerdere niveaus met natuurlijke rotsblokglijbanen en zwempoelen omringd door jungle. Een favoriete zwemplek voor backpackers en locals tijdens het hete seizoen."
+  },
+  "highlights": [
+    "Natural rock slides",
+    "Swimming pools",
+    "Jungle setting",
+    "Free admission"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Mo Paeng Waterfall - Top Attraction in Pai | Go2Thailand",
+      "nl": "Mo Paeng Waterval - Top Attractie in Pai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Mo Paeng Waterfall in Pai. Multi-tiered waterfall with natural rock slides and swimming pools in the jungle.",
+      "nl": "Ontdek Mo Paeng Waterval in Pai. Waterval met meerdere niveaus met natuurlijke glijbanen en zwempoelen in de jungle."
+    }
+  },
+  "tags": [
+    "nature",
+    "pai",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

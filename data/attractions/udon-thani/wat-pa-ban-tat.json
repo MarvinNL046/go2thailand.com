@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "slug": "wat-pa-ban-tat",
+  "name": {
+    "en": "Wat Pa Ban Tat Forest Monastery",
+    "nl": "Wat Pa Ban Tat Bosklooster"
+  },
+  "type": "temple",
+  "city_slug": "udon-thani",
+  "address": "Ban Tat, Amphoe Muang, Udon Thani 41000",
+  "location": {
+    "lat": 17.3660,
+    "lng": 102.8580
+  },
+  "opening_hours": "06:00-18:00 daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Forest monastery of the late Ajahn Maha Boowa, one of Thailand's most revered forest tradition monks. A serene place for meditation with international visitor programs, small museum, and the peaceful atmosphere of the Thai forest monk tradition.",
+    "nl": "Bosklooster van wijlen Ajahn Maha Boowa, een van Thailand's meest vereerde bostraditiemonniken. Een serene plek voor meditatie met internationale bezoekersprogramma's, klein museum en de vreedige sfeer van de Thaise bosmonniken-traditie."
+  },
+  "highlights": [
+    "Forest meditation tradition",
+    "Ajahn Maha Boowa memorial",
+    "International meditation programs",
+    "Peaceful forest setting"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Pa Ban Tat - Top Attraction in Udon Thani | Go2Thailand",
+      "nl": "Wat Pa Ban Tat - Top Attractie in Udon Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Pa Ban Tat in Udon Thani. Forest monastery of Ajahn Maha Boowa with meditation programs.",
+      "nl": "Ontdek Wat Pa Ban Tat in Udon Thani. Bosklooster van Ajahn Maha Boowa met meditatieprogramma's."
+    }
+  },
+  "tags": [
+    "temple",
+    "udon-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

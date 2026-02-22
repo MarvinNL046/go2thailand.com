@@ -1,0 +1,21 @@
+{
+  "id": 8, "slug": "rab-ro-canal",
+  "name": { "en": "Rab Ro Canal Mangrove", "nl": "Rab Ro Kanaal Mangrove" },
+  "type": "nature", "city_slug": "chumphon",
+  "address": "Rab Ro, Mueang Chumphon, Chumphon 86000",
+  "location": { "lat": 10.4700, "lng": 99.1900 },
+  "opening_hours": "8:00 AM - 5:00 PM",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": {
+    "en": "A scenic mangrove canal near the coast where you can kayak through natural tunnels of overhanging trees. Monkeys, kingfishers, and monitor lizards are common sights along the waterway. Local guides offer inexpensive paddling tours (200-400 THB) through the winding channels, making it an excellent nature experience off the beaten track.",
+    "nl": "Een schilderachtig mangrovekanaal bij de kust waar je kunt kajakken door natuurlijke tunnels van overhangende bomen. Apen, ijsvogels en varanen zijn veelvoorkomend langs de waterweg. Lokale gidsen bieden goedkope kajaktoers (200-400 THB) door de kronkelende kanalen, wat het een uitstekende natuurervaring maakt buiten het toeristische pad."
+  },
+  "highlights": ["Kayaking through mangroves", "Wildlife watching", "Natural tree tunnels", "Inexpensive guided tours"],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": { "en": "Rab Ro Canal - Mangrove Kayaking in Chumphon | Go2Thailand", "nl": "Rab Ro Kanaal - Mangrove Kajakken in Chumphon | Go2Thailand" },
+    "metaDescription": { "en": "Kayak through Rab Ro Canal in Chumphon. Mangrove tunnels, wildlife watching, and guided paddling tours through natural waterways.", "nl": "Kajak door het Rab Ro Kanaal in Chumphon. Mangrovetunnels, wildobservatie en begeleide kajaktoers door natuurlijke waterwegen." }
+  },
+  "tags": ["nature", "chumphon", "thailand", "attraction", "travel", "tourism"]
+}

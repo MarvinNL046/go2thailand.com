@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "slug": "cicada-market",
+  "name": { "en": "Cicada Market", "nl": "Cicada Markt" },
+  "type": "market",
+  "city_slug": "hua-hin",
+  "address": "83/159 Phetkasem Road, Nong Kae, Hua Hin, Prachuap Khiri Khan 77110",
+  "location": { "lat": 12.5294, "lng": 99.9577 },
+  "opening_hours": "Friday-Sunday 16:00-23:00",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Weekend art and creative market with handmade goods, live music, and artisan food stalls", "nl": "Weekend kunst- en creatieve markt met handgemaakte producten, livemuziek en ambachtelijke eetkramen" },
+  "highlights": ["Local art and crafts", "Live music performances", "Artisan food stalls", "Creative atmosphere"],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "https://www.cicadamarket.com/",
+  "seo": {
+    "metaTitle": { "en": "Cicada Market - Top Attraction in Hua Hin | Go2Thailand", "nl": "Cicada Markt - Top Attractie in Hua Hin | Go2Thailand" },
+    "metaDescription": { "en": "Discover Cicada Market in Hua Hin. Weekend art and creative market with live music...", "nl": "Ontdek Cicada Markt in Hua Hin. Weekend kunst- en creatieve markt met livemuziek..." }
+  },
+  "tags": ["market", "hua-hin", "thailand", "attraction", "travel", "tourism"]
+}

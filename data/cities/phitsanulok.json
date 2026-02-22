@@ -1,0 +1,58 @@
+{
+  "id": 21,
+  "slug": "phitsanulok",
+  "name": {
+    "en": "Phitsanulok",
+    "nl": "Phitsanulok"
+  },
+  "region": "Central",
+  "province": "Phitsanulok",
+  "description": {
+    "en": "Gateway city between central and northern Thailand, home to one of the country's most revered Buddha images at Wat Phra Si Rattana Mahathat and excellent local cuisine.",
+    "nl": "Poortstad tussen centraal en Noord-Thailand, met een van de meest vereerde Boeddhabeelden van het land in Wat Phra Si Rattana Mahathat en uitstekende lokale keuken."
+  },
+  "population": 84000,
+  "highlights": [
+    "Wat Phra Si Rattana Mahathat",
+    "Nan River",
+    "Sergeant Major Thawee Folk Museum",
+    "Night Market"
+  ],
+  "location": {
+    "lat": 16.8211,
+    "lng": 100.2659
+  },
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Phitsanulok | What to do in Phitsanulok?",
+      "nl": "Ontdek Phitsanulok | Wat te doen in Phitsanulok?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Phitsanulok, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Phitsanulok, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Phitsanulok",
+      "nl": "Beste restaurants en streetfood in Phitsanulok"
+    },
+    "hotels": {
+      "en": "Top hotels in Phitsanulok | Tips & deals",
+      "nl": "Beste hotels in Phitsanulok | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Phitsanulok",
+      "nl": "Top bezienswaardigheden in Phitsanulok"
+    }
+  },
+  "tags": [
+    "central",
+    "phitsanulok",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

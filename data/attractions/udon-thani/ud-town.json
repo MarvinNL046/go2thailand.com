@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "ud-town",
+  "name": {
+    "en": "UD Town",
+    "nl": "UD Town"
+  },
+  "type": "shopping",
+  "city_slug": "udon-thani",
+  "address": "Thon Buri Road, Tambon Mak Khaeng, Amphoe Muang, Udon Thani 41000",
+  "location": {
+    "lat": 17.4100,
+    "lng": 102.7860
+  },
+  "opening_hours": "10:00-22:00 daily (food market from 17:00)",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Modern open-air lifestyle mall near the train station with a nightly food market featuring dozens of stalls, shops, cinema, and entertainment. The social hub of modern Udon Thani.",
+    "nl": "Modern openlucht lifestyle winkelcentrum bij het treinstation met een avondlijke voedselmarkt met tientallen kraampjes, winkels, bioscoop en entertainment. Het sociale centrum van het moderne Udon Thani."
+  },
+  "highlights": [
+    "Nightly food market",
+    "Modern shopping mall",
+    "Cinema and entertainment",
+    "Near train station"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "UD Town - Top Attraction in Udon Thani | Go2Thailand",
+      "nl": "UD Town - Top Attractie in Udon Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover UD Town in Udon Thani. Modern lifestyle mall with nightly food market, shopping and entertainment.",
+      "nl": "Ontdek UD Town in Udon Thani. Modern lifestyle winkelcentrum met avondlijke voedselmarkt, winkels en entertainment."
+    }
+  },
+  "tags": [
+    "shopping",
+    "udon-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

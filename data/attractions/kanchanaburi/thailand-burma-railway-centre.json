@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "slug": "thailand-burma-railway-centre",
+  "name": {
+    "en": "Thailand-Burma Railway Centre",
+    "nl": "Thailand-Burma Spoorweg Centrum"
+  },
+  "type": "museum",
+  "city_slug": "kanchanaburi",
+  "address": "73 Jaokunnen Road, Ban Tai, Mueang Kanchanaburi",
+  "location": {
+    "lat": 14.0236,
+    "lng": 99.5218
+  },
+  "opening_hours": "09:00-17:00",
+  "entrance_fee": {
+    "thb": 140,
+    "usd": 4
+  },
+  "description": {
+    "en": "Modern interactive museum documenting the construction of the Death Railway with detailed exhibits and personal stories",
+    "nl": "Modern interactief museum dat de bouw van de Dodenspoorweg documenteert met gedetailleerde tentoonstellingen en persoonlijke verhalen"
+  },
+  "highlights": [
+    "Interactive exhibits",
+    "Personal stories",
+    "Historical research center",
+    "Air-conditioned galleries"
+  ],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": "https://www.tbrconline.com/",
+  "seo": {
+    "metaTitle": {
+      "en": "Thailand-Burma Railway Centre - Top Attraction in Kanchanaburi | Go2Thailand",
+      "nl": "Thailand-Burma Spoorweg Centrum - Top Attractie in Kanchanaburi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover the Thailand-Burma Railway Centre in Kanchanaburi. Modern interactive museum...",
+      "nl": "Ontdek het Thailand-Burma Spoorweg Centrum in Kanchanaburi. Modern interactief museum..."
+    }
+  },
+  "tags": [
+    "museum",
+    "kanchanaburi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

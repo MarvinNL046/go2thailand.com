@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "emerald-cave-tham-morakot",
+  "name": {
+    "en": "Emerald Cave (Tham Morakot)",
+    "nl": "Smaragd Grot (Tham Morakot)"
+  },
+  "type": "nature",
+  "city_slug": "trang",
+  "address": "Koh Muk, Kantang, Trang 92110",
+  "location": {
+    "lat": 7.3620,
+    "lng": 99.2960
+  },
+  "opening_hours": "8:30 AM - 4:00 PM (tide dependent)",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "One of Thailand's most remarkable natural wonders — a sea cave on the west coast of Koh Muk where you swim through an 80-meter tunnel in near-total darkness to emerge at a hidden inland beach enclosed by towering limestone cliffs. The cave entrance glows emerald green where sunlight penetrates the water. Best visited during low tide; life jackets are provided.",
+    "nl": "Een van Thailand's meest opmerkelijke natuurwonderen — een zeegrot aan de westkust van Koh Muk waar je door een 80 meter lange tunnel zwemt in bijna totale duisternis om uit te komen bij een verborgen binnenstrand omsloten door torenhoge kalksteenkliffen. De grotingang gloeit smaragdgroen waar zonlicht het water binnendringt. Het beste te bezoeken bij eb; reddingsvesten worden verstrekt."
+  },
+  "highlights": [
+    "80-meter swim through darkness",
+    "Hidden inland beach",
+    "Emerald-green cave entrance",
+    "Limestone cliff amphitheater"
+  ],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Emerald Cave (Tham Morakot) - Hidden Beach in Trang | Go2Thailand",
+      "nl": "Smaragd Grot (Tham Morakot) - Verborgen Strand in Trang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Swim through the Emerald Cave to a hidden beach on Koh Muk, Trang. One of Thailand's most spectacular natural wonders.",
+      "nl": "Zwem door de Smaragd Grot naar een verborgen strand op Koh Muk, Trang. Een van Thailand's meest spectaculaire natuurwonderen."
+    }
+  },
+  "tags": [
+    "nature",
+    "trang",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

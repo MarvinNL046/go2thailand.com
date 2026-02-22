@@ -1,0 +1,21 @@
+{
+  "id": 4, "slug": "sapli-beach",
+  "name": { "en": "Sapli Beach (Hat Sai Ri)", "nl": "Sapli Beach (Hat Sai Ri)" },
+  "type": "beach", "city_slug": "chumphon",
+  "address": "Hat Sai Ri, Sapli, Mueang Chumphon, Chumphon 86000",
+  "location": { "lat": 10.5200, "lng": 99.2000 },
+  "opening_hours": "24/7",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": {
+    "en": "A quiet beach north of Chumphon town known for its clear water and peaceful atmosphere. The nearby Prince of Chumphon Memorial Shrine sits on a hilltop overlooking the beach, and the area has a handful of local restaurants and simple accommodation options favored by Thai weekend visitors.",
+    "nl": "Een rustig strand ten noorden van Chumphon stad bekend om zijn helder water en vredige sfeer. Het nabijgelegen Prins van Chumphon Gedenkteken staat op een heuveltop met uitzicht over het strand, en het gebied heeft een handvol lokale restaurants en eenvoudige accommodatieopties geliefd bij Thaise weekendbezoekers."
+  },
+  "highlights": ["Clear water", "Quiet atmosphere", "Prince of Chumphon shrine nearby", "Thai weekend destination"],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": { "en": "Sapli Beach - Quiet Beach in Chumphon | Go2Thailand", "nl": "Sapli Beach - Rustig Strand in Chumphon | Go2Thailand" },
+    "metaDescription": { "en": "Visit Sapli Beach (Hat Sai Ri) in Chumphon. A quiet beach with clear water and the nearby Prince of Chumphon Memorial Shrine.", "nl": "Bezoek Sapli Beach (Hat Sai Ri) in Chumphon. Een rustig strand met helder water en het nabijgelegen Prins van Chumphon Gedenkteken." }
+  },
+  "tags": ["beach", "chumphon", "thailand", "attraction", "travel", "tourism"]
+}

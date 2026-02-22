@@ -1,0 +1,58 @@
+{
+  "id": 26,
+  "slug": "trang",
+  "name": {
+    "en": "Trang",
+    "nl": "Trang"
+  },
+  "region": "Southern",
+  "province": "Trang",
+  "description": {
+    "en": "Laid-back southern Thai city renowned for roasted pork, hidden emerald caves, and pristine islands. Offers authentic southern Thai life with access to stunning Andaman Sea islands.",
+    "nl": "Ontspannen Zuid-Thaise stad beroemd om geroosterd varkensvlees, verborgen smaragdgroene grotten en ongerepte eilanden. Biedt authentiek Zuid-Thais leven met toegang tot prachtige Andamanzee-eilanden."
+  },
+  "population": 65000,
+  "highlights": [
+    "Emerald Cave (Tham Morakot)",
+    "Koh Lanta nearby",
+    "Pak Meng Beach",
+    "Trang Night Market"
+  ],
+  "location": {
+    "lat": 7.5565,
+    "lng": 99.6114
+  },
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Trang | What to do in Trang?",
+      "nl": "Ontdek Trang | Wat te doen in Trang?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Trang, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Trang, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Trang",
+      "nl": "Beste restaurants en streetfood in Trang"
+    },
+    "hotels": {
+      "en": "Top hotels in Trang | Tips & deals",
+      "nl": "Beste hotels in Trang | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Trang",
+      "nl": "Top bezienswaardigheden in Trang"
+    }
+  },
+  "tags": [
+    "southern",
+    "trang",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

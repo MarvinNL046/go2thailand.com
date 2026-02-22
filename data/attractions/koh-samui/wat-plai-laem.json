@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "slug": "wat-plai-laem",
+  "name": {
+    "en": "Wat Plai Laem",
+    "nl": "Wat Plai Laem"
+  },
+  "type": "temple",
+  "city_slug": "koh-samui",
+  "address": "Plai Laem, Bo Put, Koh Samui, Surat Thani 84320",
+  "location": {
+    "lat": 9.5600,
+    "lng": 100.0550
+  },
+  "opening_hours": "6:00 AM - 6:00 PM",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A vibrant and colorful temple complex built on a lake, featuring a striking 18-armed statue of Guanyin (Goddess of Mercy) and a large laughing Buddha. The Chinese-Thai architectural style, lakeside setting with fish feeding, and ornate decorations make it one of Samui's most photogenic temples.",
+    "nl": "Een levendig en kleurrijk tempelcomplex gebouwd op een meer, met een opvallend 18-armig beeld van Guanyin (Godin van Genade) en een grote lachende Boeddha. De Chinees-Thaise architectuurstijl, ligging aan het meer met vissen voeren en sierlijke decoraties maken het een van Samui's meest fotogenieke tempels."
+  },
+  "highlights": [
+    "18-armed Guanyin statue",
+    "Laughing Buddha",
+    "Lakeside temple complex",
+    "Fish feeding"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Plai Laem - Colorful Temple in Koh Samui | Go2Thailand",
+      "nl": "Wat Plai Laem - Kleurrijke Tempel op Koh Samui | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Explore Wat Plai Laem on Koh Samui. A stunning lakeside temple with an 18-armed Guanyin statue and vibrant Chinese-Thai architecture.",
+      "nl": "Verken Wat Plai Laem op Koh Samui. Een prachtige tempel aan het meer met een 18-armig Guanyin-beeld en levendige Chinees-Thaise architectuur."
+    }
+  },
+  "tags": [
+    "temple",
+    "koh-samui",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 10,
+  "slug": "hua-hin-fishing-pier",
+  "name": { "en": "Hua Hin Fishing Pier", "nl": "Hua Hin Vissteiger" },
+  "type": "cultural",
+  "city_slug": "hua-hin",
+  "address": "Naresdamri Road, Hua Hin, Prachuap Khiri Khan 77110",
+  "location": { "lat": 12.5733, "lng": 99.9611 },
+  "opening_hours": "Open 24 hours",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Historic wooden fishing pier in the center of town, a scenic landmark and popular spot for sunset photos", "nl": "Historische houten vissteiger in het centrum van de stad, een schilderachtig herkenningspunt en populaire plek voor zonsondergangfoto's" },
+  "highlights": ["Sunset photography", "Historic fishing boats", "Town landmark", "Seafood restaurants nearby"],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "Hua Hin Fishing Pier - Top Attraction in Hua Hin | Go2Thailand", "nl": "Hua Hin Vissteiger - Top Attractie in Hua Hin | Go2Thailand" },
+    "metaDescription": { "en": "Discover Hua Hin Fishing Pier. Historic wooden pier and popular sunset spot...", "nl": "Ontdek Hua Hin Vissteiger. Historische houten pier en populaire zonsondergangspot..." }
+  },
+  "tags": ["cultural", "hua-hin", "thailand", "attraction", "travel", "tourism"]
+}

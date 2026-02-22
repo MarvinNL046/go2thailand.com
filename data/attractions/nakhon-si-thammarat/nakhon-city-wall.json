@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "slug": "nakhon-city-wall",
+  "name": {
+    "en": "Nakhon Si Thammarat City Wall",
+    "nl": "Nakhon Si Thammarat Stadsmuur"
+  },
+  "type": "cultural",
+  "city_slug": "nakhon-si-thammarat",
+  "address": "Ratchadamnoen Road, Nai Mueang, Nakhon Si Thammarat 80000",
+  "location": {
+    "lat": 8.4280,
+    "lng": 99.9650
+  },
+  "opening_hours": "24/7 (outdoor site)",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Remnants of the ancient city fortification dating back to the Srivijaya period (8th-13th century). The restored north gate and surrounding earthwork walls offer a tangible connection to Nakhon's history as one of the most important trading cities in Southeast Asia. A small park surrounds the ruins with informational signage.",
+    "nl": "Overblijfselen van de oude stadsvestiging daterend uit de Srivijaya-periode (8e-13e eeuw). De gerestaureerde noordpoort en omringende aarden wallen bieden een tastbare verbinding met Nakhon's geschiedenis als een van de belangrijkste handelssteden in Zuidoost-Azië. Een klein park omringt de ruines met informatieve borden."
+  },
+  "highlights": [
+    "Srivijaya-period ruins",
+    "Restored north gate",
+    "Historic earthwork walls",
+    "Informational park"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Nakhon City Wall - Ancient Srivijaya Ruins | Go2Thailand",
+      "nl": "Nakhon Stadsmuur - Oude Srivijaya Ruines | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Explore the ancient Nakhon Si Thammarat City Wall. Srivijaya-period fortification ruins with a restored gate and historic park.",
+      "nl": "Verken de oude Nakhon Si Thammarat Stadsmuur. Srivijaya-periode vestingruines met een gerestaureerde poort en historisch park."
+    }
+  },
+  "tags": [
+    "cultural",
+    "nakhon-si-thammarat",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

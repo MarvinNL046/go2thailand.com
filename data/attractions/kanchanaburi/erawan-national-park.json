@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "erawan-national-park",
+  "name": {
+    "en": "Erawan National Park",
+    "nl": "Erawan Nationaal Park"
+  },
+  "type": "nature",
+  "city_slug": "kanchanaburi",
+  "address": "Tha Kradan, Si Sawat District, Kanchanaburi 71250",
+  "location": {
+    "lat": 14.3694,
+    "lng": 98.9947
+  },
+  "opening_hours": "08:00-16:30 (last entry 15:30)",
+  "entrance_fee": {
+    "thb": 300,
+    "usd": 9
+  },
+  "description": {
+    "en": "Stunning seven-tiered waterfall with turquoise pools in lush jungle setting",
+    "nl": "Prachtige waterval met zeven niveaus en turquoise poelen in weelderige jungle"
+  },
+  "highlights": [
+    "Seven-tiered waterfall",
+    "Swimming in natural pools",
+    "Jungle hiking trails",
+    "Fish-filled turquoise water"
+  ],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": "https://portal.dnp.go.th/",
+  "seo": {
+    "metaTitle": {
+      "en": "Erawan National Park - Top Attraction in Kanchanaburi | Go2Thailand",
+      "nl": "Erawan Nationaal Park - Top Attractie in Kanchanaburi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Erawan National Park in Kanchanaburi. Stunning seven-tiered waterfall with turquoise pools...",
+      "nl": "Ontdek Erawan Nationaal Park in Kanchanaburi. Prachtige waterval met zeven niveaus en turquoise poelen..."
+    }
+  },
+  "tags": [
+    "nature",
+    "kanchanaburi",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4, "slug": "phitsanulok-night-market",
+  "name": { "en": "Phitsanulok Night Market", "nl": "Phitsanulok Nachtmarkt" },
+  "type": "market", "city_slug": "phitsanulok",
+  "address": "Phaya Sua Road, Nai Mueang, Mueang Phitsanulok 65000",
+  "location": { "lat": 16.8175, "lng": 100.2601 },
+  "opening_hours": "17:00-23:00 daily",
+  "entrance_fee": { "thb": 0, "usd": 0 },
+  "description": { "en": "Sprawling night market on Phaya Sua Road famous for local noodle soups and central Thai street food", "nl": "Uitgestrekte nachtmarkt aan Phaya Sua Road beroemd om lokale noedelsoepen en centraal-Thaise streetfood" },
+  "highlights": ["Kuay tiew hoy khae noodles", "Dozens of food stalls", "Local atmosphere", "Budget-friendly"],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": { "en": "Phitsanulok Night Market - Top Attraction in Phitsanulok | Go2Thailand", "nl": "Phitsanulok Nachtmarkt - Top Attractie in Phitsanulok | Go2Thailand" },
+    "metaDescription": { "en": "Discover Phitsanulok Night Market. Famous for local noodle soups and Thai street food...", "nl": "Ontdek Phitsanulok Nachtmarkt. Beroemd om lokale noedelsoepen en Thaise streetfood..." }
+  },
+  "tags": ["market", "phitsanulok", "thailand", "attraction", "travel", "tourism"]
+}

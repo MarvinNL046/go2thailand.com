@@ -1,0 +1,14 @@
+{
+  "id": 8, "slug": "ubon-ratchathani-national-museum",
+  "name": { "en": "Ubon Ratchathani National Museum", "nl": "Ubon Ratchathani Nationaal Museum" },
+  "type": "museum", "city_slug": "ubon-ratchathani",
+  "address": "Kheuan Thani Road, Mueang Ubon Ratchathani, Ubon Ratchathani 34000",
+  "location": { "lat": 15.2350, "lng": 104.8550 },
+  "opening_hours": "9:00 AM - 4:00 PM (closed Mondays and Tuesdays)",
+  "entrance_fee": { "thb": 100, "usd": 3 },
+  "description": { "en": "Housed in a former palace building, this museum showcases Isaan cultural artifacts, the history and artistry of the Candle Festival, traditional textiles, and archaeological finds from the region. The building itself is an elegant example of early 20th-century Thai architecture with shaded gardens and a peaceful atmosphere.", "nl": "Gevestigd in een voormalig paleisgebouw, toont dit museum Isaan culturele artefacten, de geschiedenis en kunstzinnigheid van het Kaarsenfestival, traditionele textiel en archeologische vondsten uit de regio. Het gebouw zelf is een elegant voorbeeld van vroeg 20e-eeuwse Thaise architectuur met schaduwrijke tuinen en een vredige sfeer." },
+  "highlights": ["Former palace building", "Candle Festival history", "Isaan cultural artifacts", "Traditional textiles"],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
+  "seo": { "metaTitle": { "en": "Ubon National Museum - Isaan Culture & History | Go2Thailand", "nl": "Ubon Nationaal Museum - Isaan Cultuur & Geschiedenis | Go2Thailand" }, "metaDescription": { "en": "Visit the Ubon Ratchathani National Museum. Isaan culture, Candle Festival history, and archaeological artifacts in a former palace building.", "nl": "Bezoek het Ubon Ratchathani Nationaal Museum. Isaan cultuur, Kaarsenfestival geschiedenis en archeologische artefacten in een voormalig paleisgebouw." } },
+  "tags": ["museum", "ubon-ratchathani", "thailand", "attraction", "travel", "tourism"]
+}

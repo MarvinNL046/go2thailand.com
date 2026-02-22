@@ -1,0 +1,50 @@
+{
+  "id": 2,
+  "slug": "bueng-kaen-nakhon-lake",
+  "name": {
+    "en": "Bueng Kaen Nakhon Lake",
+    "nl": "Bueng Kaen Nakhon Meer"
+  },
+  "type": "park",
+  "city_slug": "khon-kaen",
+  "address": "Tambon Nai Mueang, Amphoe Muang, Khon Kaen 40000",
+  "location": {
+    "lat": 16.4180,
+    "lng": 102.8350
+  },
+  "opening_hours": "Open 24 hours",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Beautiful lakeside park in the heart of Khon Kaen with an 8 km walking and cycling path, jogging trails, and lakeside food stalls. The gathering place for local families and joggers, especially beautiful at sunset.",
+    "nl": "Prachtig park aan het meer in het hart van Khon Kaen met een 8 km wandel- en fietspad, jogpaden en etensstalletjes aan het meer. De verzamelplaats voor lokale gezinnen en joggers, bijzonder mooi bij zonsondergang."
+  },
+  "highlights": [
+    "8 km walking and cycling path",
+    "Sunset views",
+    "Lakeside food stalls",
+    "Local family gathering spot"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Bueng Kaen Nakhon Lake - Top Attraction in Khon Kaen | Go2Thailand",
+      "nl": "Bueng Kaen Nakhon Meer - Top Attractie in Khon Kaen | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Bueng Kaen Nakhon Lake in Khon Kaen. Central lake park with 8 km path, food stalls and beautiful sunsets.",
+      "nl": "Ontdek Bueng Kaen Nakhon Meer in Khon Kaen. Centraal meerpark met 8 km pad, etensstalletjes en prachtige zonsondergangen."
+    }
+  },
+  "tags": [
+    "park",
+    "khon-kaen",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

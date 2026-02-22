@@ -1,0 +1,20 @@
+{
+  "id": 7,
+  "slug": "khao-sam-roi-yot",
+  "name": { "en": "Khao Sam Roi Yot National Park", "nl": "Khao Sam Roi Yot Nationaal Park" },
+  "type": "nature",
+  "city_slug": "hua-hin",
+  "address": "Khao Sam Roi Yot, Kui Buri, Prachuap Khiri Khan 77150",
+  "location": { "lat": 12.2000, "lng": 99.9667 },
+  "opening_hours": "08:00-16:30",
+  "entrance_fee": { "thb": 200, "usd": 6 },
+  "description": { "en": "Coastal national park with the famous Phraya Nakhon Cave, mangroves, and limestone peaks", "nl": "Kust nationaal park met de beroemde Phraya Nakhon-grot, mangroven en kalksteenpieken" },
+  "highlights": ["Phraya Nakhon Cave", "Royal Pavilion in cave", "Limestone peaks", "Mangrove boardwalks"],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "https://portal.dnp.go.th/",
+  "seo": {
+    "metaTitle": { "en": "Khao Sam Roi Yot National Park - Top Attraction near Hua Hin | Go2Thailand", "nl": "Khao Sam Roi Yot Nationaal Park - Top Attractie bij Hua Hin | Go2Thailand" },
+    "metaDescription": { "en": "Discover Khao Sam Roi Yot National Park near Hua Hin. Famous Phraya Nakhon Cave and coastal landscapes...", "nl": "Ontdek Khao Sam Roi Yot Nationaal Park bij Hua Hin. Beroemde Phraya Nakhon-grot en kustlandschappen..." }
+  },
+  "tags": ["nature", "hua-hin", "thailand", "attraction", "travel", "tourism"]
+}

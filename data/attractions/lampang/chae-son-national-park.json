@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "slug": "chae-son-national-park",
+  "name": {
+    "en": "Chae Son National Park & Hot Springs",
+    "nl": "Chae Son Nationaal Park & Warmwaterbronnen"
+  },
+  "type": "nature",
+  "city_slug": "lampang",
+  "address": "Tambon Chae Son, Amphoe Mueang Pan, Lampang 52240",
+  "location": {
+    "lat": 18.8340,
+    "lng": 99.2410
+  },
+  "opening_hours": "06:00-18:00 daily",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "Natural hot springs and geysers in a forested national park 70 km from town with mineral bathing pools, a waterfall, and nature trails. The geysers shoot water up to 1 meter high and the mineral pools are perfect for relaxation.",
+    "nl": "Natuurlijke warmwaterbronnen en geisers in een bebost nationaal park op 70 km van het stadje met minerale badpoelen, een waterval en natuurpaden. De geisers schieten water tot 1 meter hoog en de mineraalbaden zijn perfect voor ontspanning."
+  },
+  "highlights": [
+    "Hot spring geysers",
+    "Mineral bathing pools",
+    "Chae Son waterfall",
+    "Forest nature trails"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Chae Son National Park - Top Attraction in Lampang | Go2Thailand",
+      "nl": "Chae Son Nationaal Park - Top Attractie in Lampang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Chae Son National Park near Lampang. Hot springs, geysers, mineral pools and waterfall in a forest setting.",
+      "nl": "Ontdek Chae Son Nationaal Park bij Lampang. Warmwaterbronnen, geisers, mineraalbaden en waterval in een bosomgeving."
+    }
+  },
+  "tags": [
+    "nature",
+    "lampang",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "phu-phrabat-historical-park",
+  "name": {
+    "en": "Phu Phrabat Historical Park",
+    "nl": "Phu Phrabat Historisch Park"
+  },
+  "type": "nature",
+  "city_slug": "udon-thani",
+  "address": "Tambon Phu Phrabat, Amphoe Ban Phue, Udon Thani 41160",
+  "location": {
+    "lat": 17.7200,
+    "lng": 102.5000
+  },
+  "opening_hours": "08:00-16:30 daily",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "Extraordinary sandstone rock formations with prehistoric cave paintings dating back 3,000 years and Buddhist hermit shelters. Recently inscribed on the UNESCO World Heritage List. Located about 60 km northwest of the city.",
+    "nl": "Buitengewone zandstenen rotsformaties met prehistorische grotschilderingen van 3.000 jaar oud en boeddhistische kluizenaarsbeschuttingen. Recent ingeschreven op de UNESCO Werelderfgoedlijst. Gelegen op ongeveer 60 km ten noordwesten van de stad."
+  },
+  "highlights": [
+    "3,000-year-old cave paintings",
+    "Unique sandstone formations",
+    "UNESCO World Heritage Site",
+    "Buddhist hermit shelters"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Phu Phrabat Historical Park - Top Attraction in Udon Thani | Go2Thailand",
+      "nl": "Phu Phrabat Historisch Park - Top Attractie in Udon Thani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Phu Phrabat Historical Park near Udon Thani. Sandstone formations with 3,000-year-old cave paintings.",
+      "nl": "Ontdek Phu Phrabat Historisch Park bij Udon Thani. Zandsteenformaties met 3.000 jaar oude grotschilderingen."
+    }
+  },
+  "tags": [
+    "nature",
+    "udon-thani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

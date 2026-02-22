@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "khao-yai-national-park",
+  "name": {
+    "en": "Khao Yai National Park (UNESCO)",
+    "nl": "Khao Yai Nationaal Park (UNESCO)"
+  },
+  "type": "nature",
+  "city_slug": "nakhon-ratchasima",
+  "address": "Khao Yai National Park, Amphoe Pak Chong, Nakhon Ratchasima 30130",
+  "location": {
+    "lat": 14.4426,
+    "lng": 101.3700
+  },
+  "opening_hours": "06:00-18:00 daily",
+  "entrance_fee": {
+    "thb": 400,
+    "usd": 11
+  },
+  "description": {
+    "en": "UNESCO World Heritage national park covering 2,168 square kilometers of dense monsoon forest, grasslands, and mountains. Home to wild elephants, gibbons, hornbills, and spectacular waterfalls. Thailand's oldest and most visited national park with a remarkable bat cave spectacle at dusk.",
+    "nl": "UNESCO Werelderfgoed nationaal park van 2.168 vierkante kilometer dicht moessonbos, graslanden en bergen. Thuisbasis van wilde olifanten, gibbons, neushoornvogels en spectaculaire watervallen. Thailand's oudste en meest bezochte nationaal park met een opmerkelijk vleermuisgrotspektakel bij schemering."
+  },
+  "highlights": [
+    "Wild elephant encounters",
+    "Haew Narok and Haew Suwat waterfalls",
+    "3 million bats at dusk",
+    "Jungle trekking with guides"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": "https://www.dnp.go.th",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Yai National Park - Top Attraction in Nakhon Ratchasima | Go2Thailand",
+      "nl": "Khao Yai Nationaal Park - Top Attractie in Nakhon Ratchasima | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Khao Yai National Park near Nakhon Ratchasima. UNESCO World Heritage park with elephants, waterfalls and jungle trekking.",
+      "nl": "Ontdek Khao Yai Nationaal Park bij Nakhon Ratchasima. UNESCO Werelderfgoed park met olifanten, watervallen en jungletrekking."
+    }
+  },
+  "tags": [
+    "nature",
+    "nakhon-ratchasima",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

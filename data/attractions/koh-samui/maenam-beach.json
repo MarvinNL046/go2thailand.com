@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "slug": "maenam-beach",
+  "name": {
+    "en": "Maenam Beach",
+    "nl": "Maenam Beach"
+  },
+  "type": "beach",
+  "city_slug": "koh-samui",
+  "address": "Maenam, Koh Samui, Surat Thani 84330",
+  "location": {
+    "lat": 9.5700,
+    "lng": 99.9800
+  },
+  "opening_hours": "24/7",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A peaceful 7-kilometer beach on the north coast of Koh Samui, popular with families, long-stay visitors, and those seeking a quieter alternative to Chaweng. The traditional fishing village atmosphere, affordable accommodation, and beautiful views across to Koh Phangan make it a favorite with repeat visitors.",
+    "nl": "Een vredig 7 kilometer lang strand aan de noordkust van Koh Samui, populair bij families, langverblijvers en mensen die een rustiger alternatief zoeken voor Chaweng. De traditionele vissersdorpsfeer, betaalbare accommodatie en prachtig uitzicht op Koh Phangan maken het een favoriet bij terugkerende bezoekers."
+  },
+  "highlights": [
+    "Quiet and peaceful atmosphere",
+    "Views of Koh Phangan",
+    "Traditional fishing village",
+    "Affordable accommodation"
+  ],
+  "image": "/images/cities/phuket/phuket-old-town.webp",
+  "official_website": "",
+  "seo": {
+    "metaTitle": {
+      "en": "Maenam Beach - Quiet Beach in Koh Samui | Go2Thailand",
+      "nl": "Maenam Beach - Rustig Strand op Koh Samui | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Maenam Beach on Koh Samui. A peaceful 7 km beach with traditional fishing village atmosphere and stunning views of Koh Phangan.",
+      "nl": "Ontdek Maenam Beach op Koh Samui. Een vredig 7 km strand met traditionele vissersdorpsfeer en prachtig uitzicht op Koh Phangan."
+    }
+  },
+  "tags": [
+    "beach",
+    "koh-samui",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ]
+}

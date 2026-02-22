@@ -1,0 +1,280 @@
+{
+  "id": 26,
+  "slug": "chumphon",
+  "name": {
+    "en": "Chumphon",
+    "nl": "Chumphon"
+  },
+  "region": "Southern",
+  "province": "Chumphon",
+  "description": {
+    "en": "The gateway to Koh Tao and the Gulf islands, Chumphon is a coastal province with unspoiled beaches, excellent diving, and kiteboarding. A refreshingly untouristy destination where Thai beach culture thrives without the crowds.",
+    "nl": "De toegangspoort tot Koh Tao en de Golfeilanden, Chumphon is een kustprovincie met ongerepte stranden, uitstekende duikmogelijkheden en kiteboarden. Een verfrissend ontoeristisch reisdoel waar de Thaise strandcultuur bloeit zonder de drukte."
+  },
+  "population": 34000,
+  "highlights": [
+    "Thung Wua Laen Beach",
+    "Koh Tao Gateway",
+    "Mu Ko Chumphon National Park",
+    "Pak Nam Chumphon"
+  ],
+  "location": {
+    "lat": 10.4930,
+    "lng": 99.1800
+  },
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Chumphon | What to do in Chumphon?",
+      "nl": "Ontdek Chumphon | Wat te doen in Chumphon?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Chumphon, Thailand – unspoiled beaches, diving, Koh Tao gateway and kiteboarding.",
+      "nl": "Jouw gids voor Chumphon, Thailand – ongerepte stranden, duiken, toegangspoort tot Koh Tao en kiteboarden."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Chumphon",
+      "nl": "Beste restaurants en streetfood in Chumphon"
+    },
+    "hotels": {
+      "en": "Top hotels in Chumphon | Tips & deals",
+      "nl": "Beste hotels in Chumphon | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Chumphon",
+      "nl": "Top bezienswaardigheden in Chumphon"
+    }
+  },
+  "tags": [
+    "southern",
+    "chumphon",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ],
+  "enhanced_description": "Most travelers experience Chumphon as a blur — a bus station, a ferry pier, and the blur of a night transfer on the way to Koh Tao. I almost made the same mistake. My plan was to catch the overnight train from Bangkok, grab the morning Lomprayah catamaran, and be snorkeling off Koh Tao by lunchtime. But the train arrived early, the ferry was not until 7 AM, and in those quiet hours before dawn at the pier I noticed the sky turning a shade of pink I had never seen, the fishing boats rocking gently in the harbor, and a woman on the dock frying eggs over a charcoal burner. I bought two fried eggs on rice for 30 baht, sat on a concrete bollard watching the sun rise over the Gulf of Thailand, and decided to stay.\n\nThung Wua Laen Beach is the revelation that makes the detour worthwhile. A long crescent of golden sand backed by casuarina trees and low-key bungalow resorts, it has the kind of beauty that more famous beaches lost twenty years ago. I walked the full two-kilometer length without passing more than a dozen people — Thai families picnicking under the trees, a couple of European kiters launching from the southern end, a monk from the nearby temple collecting alms along the sand. The water is clear and warm year-round, and just offshore the coral reefs of Mu Ko Chumphon National Park offer some of the best shallow snorkeling on the Gulf coast. I rented a mask from a beachside shack for 100 baht and spent an hour floating over staghorn coral gardens dense with triggerfish, butterflyfish, and tiny blue-spotted stingrays.\n\nThe town of Chumphon itself is small and pleasantly unremarkable — a proper Thai market town with no pretensions toward tourism. The morning market near the train station sells fresh rambutan, mangosteen, and coconuts from the surrounding plantations, and the vendors were so surprised to see a farang browsing the aisles that several pressed fruit samples into my hands with delighted laughter. I ate lunch at a noodle shop on Tha Tapao Road — a bowl of kuay tiaw reua, boat noodles in a rich pork-and-herb broth — for 35 baht, surrounded by construction workers and schoolchildren. There is a particular pleasure in eating in a town where the food exists for locals, not visitors: no English menu, no photography-friendly plating, just honest Thai cooking at honest Thai prices.\n\nChumphon's coastline stretches much further than most travelers realize. I rented a motorbike and rode south along the coast road past coconut plantations and rubber tree forests to Ao Thung Makham, a sheltered bay where fishing communities have worked the same waters for generations. The seafood restaurants here — open-air pavilions built on stilts over the water — serve whatever the boats brought in that morning. I had the best pla kapong neung manao (steamed sea bass with lime) of my entire trip at a nameless restaurant where the owner pointed at the fish swimming in a tank and asked me to choose. The meal, with rice, a plate of morning glory stir-fried with garlic, and a cold Singha beer, cost 180 baht total — a price that would be unthinkable on Koh Samui thirty kilometers across the water.\n\nThe kiteboarding scene at Thung Wua Laen is quietly growing into something significant. Between December and March, consistent winds sweep across the bay, and a small community of Thai and international kiters has established schools and rental shops along the beach. I watched lessons from my beach towel, the colorful kites arcing against the blue sky like giant butterflies, and felt the kind of travel satisfaction that comes from discovering a place before the crowds arrive. Chumphon may always be known primarily as the gateway to Koh Tao, but those who pause here long enough to look around will find a stretch of Thai coastline that offers everything the islands do — minus the crowds, the markup, and the feeling that paradise has been parceled out and sold. Sit on Thung Wua Laen at sunset, watch the fishing boats head out for the night, and you will understand why some travelers never make it to that ferry.",
+  "hidden_gems": [
+    {
+      "name": {
+        "en": "Ao Thung Makham Bay",
+        "nl": "Ao Thung Makham Baai"
+      },
+      "description": {
+        "en": "A sheltered bay south of town where fishing communities serve the morning's catch at stilted waterfront restaurants. Some of the freshest and cheapest seafood on the Gulf coast, with zero tourist presence.",
+        "nl": "Een beschutte baai ten zuiden van de stad waar vissersgemeenschappen de ochtendvangst serveren in restaurants op palen boven het water. Enkele van de versste en goedkoopste zeevruchten aan de Golfkust, zonder enige toerist."
+      },
+      "type": "restaurant"
+    },
+    {
+      "name": {
+        "en": "Khao Matsee Viewpoint",
+        "nl": "Khao Matsee Uitkijkpunt"
+      },
+      "description": {
+        "en": "A hilltop viewpoint near Pak Nam Chumphon offering panoramic views of the coastline, river estuary, and offshore islands. Best at sunset when the whole Gulf turns golden. Rarely visited by anyone except local joggers.",
+        "nl": "Een uitkijkpunt op een heuvel bij Pak Nam Chumphon met panoramisch uitzicht over de kustlijn, riviermonding en eilanden. Het mooist bij zonsondergang als de hele Golf goud kleurt. Zelden bezocht door iemand anders dan lokale joggers."
+      },
+      "type": "nature"
+    },
+    {
+      "name": {
+        "en": "Suan Nai Dum Homestay Area",
+        "nl": "Suan Nai Dum Homestay Gebied"
+      },
+      "description": {
+        "en": "A community tourism area where visitors can stay with local farming families, learn about coconut and fruit cultivation, and experience authentic rural southern Thai life far from any tourist infrastructure.",
+        "nl": "Een gemeenschapstoerismegebied waar bezoekers bij lokale boerenfamilies kunnen verblijven, leren over kokos- en fruitteelt en het authentieke landelijke Zuid-Thaise leven kunnen ervaren, ver van elke toeristische infrastructuur."
+      },
+      "type": "experience"
+    },
+    {
+      "name": {
+        "en": "Rab Ro Canal",
+        "nl": "Rab Ro Kanaal"
+      },
+      "description": {
+        "en": "A scenic mangrove canal near the coast where you can kayak through tunnels of overhanging trees. Monkeys, kingfishers, and monitor lizards are common sights. Local guides offer inexpensive paddling tours.",
+        "nl": "Een schilderachtig mangrovekanaal bij de kust waar je kunt kajakken door tunnels van overhangende bomen. Apen, ijsvogels en varanen zijn veelvoorkomend. Lokale gidsen bieden goedkope kajaktoers aan."
+      },
+      "type": "nature"
+    },
+    {
+      "name": {
+        "en": "Chumphon Morning Market",
+        "nl": "Chumphon Ochtendmarkt"
+      },
+      "description": {
+        "en": "The bustling market near the train station where locals shop for fresh tropical fruits, dried seafood, and southern Thai ingredients. A genuine local experience where vendors are delighted to see foreign visitors and offer generous samples.",
+        "nl": "De bruisende markt bij het treinstation waar locals verse tropische vruchten, gedroogde zeevruchten en Zuid-Thaise ingrediënten kopen. Een echte lokale ervaring waar verkopers blij zijn om buitenlandse bezoekers te zien en royale proeverijen aanbieden."
+      },
+      "type": "market"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "name": "Ao Thung Makham Seafood Stalls",
+      "cuisine": "Thai Seafood",
+      "price_range": "$",
+      "description": {
+        "en": "Open-air restaurants on stilts over the water at Thung Makham bay, serving whatever the fishing boats brought in that morning. The steamed sea bass with lime and garlic prawns are exceptional at impossibly low prices.",
+        "nl": "Openluchtrestaurants op palen boven het water in de Thung Makham baai, die serveren wat de vissersboten die ochtend hebben meegebracht. De gestoomde zeebaars met limoen en knoflookgarnalen zijn uitzonderlijk voor ongelooflijk lage prijzen."
+      }
+    },
+    {
+      "name": "Kuay Tiaw Reua Tha Tapao",
+      "cuisine": "Thai Noodles",
+      "price_range": "$",
+      "description": {
+        "en": "A humble noodle shop on Tha Tapao Road serving rich boat noodles in small bowls — the tradition is to eat several. The pork-and-herb broth has been simmered for hours and costs just 15-35 baht per bowl.",
+        "nl": "Een bescheiden noedelwinkel aan de Tha Tapao Road die rijke bootnoedels serveert in kleine kommen — de traditie is om er meerdere te eten. De varkens-en-kruiden bouillon is uren getrokken en kost slechts 15-35 baht per kom."
+      }
+    },
+    {
+      "name": "Phui Thung Wua Laen",
+      "cuisine": "Thai-Seafood",
+      "price_range": "$$",
+      "description": {
+        "en": "The best restaurant on Thung Wua Laen Beach, set under a thatched roof with tables in the sand. Fresh grilled squid, papaya salad, and cold beer as the waves lap at your feet. Popular with both locals and the few travelers who find their way here.",
+        "nl": "Het beste restaurant op Thung Wua Laen Beach, onder een rieten dak met tafels in het zand. Verse gegrilde inktvis, papajasalade en koud bier terwijl de golven aan je voeten kabbelen. Populair bij zowel locals als de weinige reizigers die hier komen."
+      }
+    },
+    {
+      "name": "Night Market (Sala Daeng Road)",
+      "cuisine": "Street Food",
+      "price_range": "$",
+      "description": {
+        "en": "Chumphon's evening food market serves classic southern Thai street food — grilled chicken, som tam, fried fish cakes, and sweet coconut desserts. Everything is fresh, cheap, and prepared by vendors who have manned the same stalls for decades.",
+        "nl": "Chumphon's avondvoedselmarkt serveert klassiek Zuid-Thais straatvoedsel — gegrilde kip, som tam, gebakken viskoekjes en zoete kokosdesserts. Alles is vers, goedkoop en bereid door verkopers die al tientallen jaren dezelfde kramen runnen."
+      }
+    },
+    {
+      "name": "Papa Seafood",
+      "cuisine": "Seafood",
+      "price_range": "$$",
+      "description": {
+        "en": "A popular local seafood restaurant near the Pak Nam fishing port. Known for generous portions of crab fried rice, tom yum goong, and grilled whole fish. The setting is casual and family-friendly with views of the fishing fleet.",
+        "nl": "Een populair lokaal visrestaurant bij de Pak Nam vissershaven. Bekend om royale porties krab gebakken rijst, tom yum goong en gegrilde hele vis. De sfeer is casual en gezinsvriendelijk met uitzicht op de vissersvloot."
+      }
+    }
+  ],
+  "top_hotels": [
+    {
+      "name": "Novotel Chumphon Beach Resort",
+      "category": "midrange",
+      "price_range": "$$",
+      "description": {
+        "en": "The most modern hotel option in Chumphon, located on Thung Wua Laen Beach with a pool, restaurant, and clean rooms with sea views. A comfortable base for beach days and island day trips.",
+        "nl": "De modernste hoteloptie in Chumphon, gelegen op Thung Wua Laen Beach met een zwembad, restaurant en schone kamers met zeezicht. Een comfortabele basis voor stranddagen en eilanddagtrips."
+      }
+    },
+    {
+      "name": "Clean Wave Resort",
+      "category": "budget",
+      "price_range": "$",
+      "description": {
+        "en": "Simple bungalows right on Thung Wua Laen Beach, popular with kitesurfers and backpackers. Basic but clean rooms with fans or air conditioning, just steps from the sand. The beachfront restaurant is a great social hub.",
+        "nl": "Eenvoudige bungalows direct op Thung Wua Laen Beach, populair bij kitesurfers en backpackers. Basale maar schone kamers met ventilator of airconditioning, op slechts enkele stappen van het strand. Het strandrestaurant is een leuke ontmoetingsplek."
+      }
+    },
+    {
+      "name": "Chumphon Cabana Resort",
+      "category": "midrange",
+      "price_range": "$$",
+      "description": {
+        "en": "A long-established resort on Thung Wua Laen Beach with tropical gardens, a large pool, and comfortable rooms. Offers diving and snorkeling tours to the nearby islands and has its own PADI dive center.",
+        "nl": "Een gevestigd resort op Thung Wua Laen Beach met tropische tuinen, een groot zwembad en comfortabele kamers. Biedt duik- en snorkeltours naar de nabijgelegen eilanden en heeft een eigen PADI duikcentrum."
+      }
+    },
+    {
+      "name": "Fah Sai Resort",
+      "category": "budget",
+      "price_range": "$",
+      "description": {
+        "en": "A quiet, family-run bungalow resort set back from the beach in a coconut grove. Hammocks, garden seating, and a peaceful atmosphere attract long-stay travelers looking for an affordable tropical escape.",
+        "nl": "Een rustig, door de familie gerund bungalowresort achter het strand in een kokospalmboomgaard. Hangmatten, tuinstoelen en een vredige sfeer trekken langverblijvers aan die een betaalbare tropische ontsnapping zoeken."
+      }
+    },
+    {
+      "name": "Tuscany Resort Chumphon",
+      "category": "luxury",
+      "price_range": "$$$",
+      "description": {
+        "en": "A boutique resort near Sapli Beach with Italian-inspired design, private pool villas, and a renowned restaurant. The most upscale option in the Chumphon area, popular with couples seeking a romantic getaway.",
+        "nl": "Een boetiekresort bij Sapli Beach met Italiaans-geinspireerd ontwerp, privé zwembadhuisjes en een bekend restaurant. De meest luxe optie in het Chumphon gebied, populair bij stellen die een romantisch uitje zoeken."
+      }
+    }
+  ],
+  "travel_tips": [
+    {
+      "title": {
+        "en": "Ferry to Koh Tao",
+        "nl": "Veerboot naar Koh Tao"
+      },
+      "content": {
+        "en": "Lomprayah catamaran departs from Thung Makham pier at 7:00 AM and 1:00 PM daily (600-700 THB, 1.5-2 hours). Songserm and night boats are cheaper but slower. Book online in advance during peak season (Dec-Feb).",
+        "nl": "De Lomprayah catamaran vertrekt dagelijks om 7:00 en 13:00 uur van Thung Makham pier (600-700 THB, 1,5-2 uur). Songserm en nachtboten zijn goedkoper maar langzamer. Boek online van tevoren in het hoogseizoen (dec-feb)."
+      }
+    },
+    {
+      "title": {
+        "en": "Getting from the Train Station",
+        "nl": "Van het Treinstation Komen"
+      },
+      "content": {
+        "en": "The train station is in town center, but the ferry pier is 25 km away. Most ferry companies offer free shuttle buses — check your ticket for transfer details. Alternatively, a motorbike taxi costs about 300-400 THB.",
+        "nl": "Het treinstation is in het stadscentrum, maar de veerboothaven is 25 km verderop. De meeste veerdiensten bieden gratis pendelbussen aan — controleer je ticket voor transferdetails. Een motortaxi kost ongeveer 300-400 THB."
+      }
+    },
+    {
+      "title": {
+        "en": "Kiteboarding Season",
+        "nl": "Kiteboard Seizoen"
+      },
+      "content": {
+        "en": "Consistent winds blow at Thung Wua Laen from December to March, making it the best kiteboarding spot on the Gulf coast. Several schools offer beginner lessons (2,000-3,000 THB for 2 hours). Equipment rental is available.",
+        "nl": "Constante wind waait op Thung Wua Laen van december tot maart, waardoor het de beste kiteboarding plek aan de Golfkust is. Verschillende scholen bieden beginnerslessen aan (2.000-3.000 THB voor 2 uur). Materiaalverhuur is beschikbaar."
+      }
+    },
+    {
+      "title": {
+        "en": "Stay a Night or Two",
+        "nl": "Blijf Een Nachtje of Twee"
+      },
+      "content": {
+        "en": "Most travelers rush through Chumphon to catch a ferry, but staying 1-2 nights is rewarding. Thung Wua Laen Beach, the snorkeling at nearby islands, and the authentic local food scene are worth the detour from the Koh Tao express route.",
+        "nl": "De meeste reizigers haasten zich door Chumphon om een veerboot te halen, maar 1-2 nachten blijven is lonend. Thung Wua Laen Beach, het snorkelen bij nabijgelegen eilanden en de authentieke lokale eetscene zijn de omweg van de Koh Tao expressroute waard."
+      }
+    },
+    {
+      "title": {
+        "en": "Explore by Motorbike",
+        "nl": "Verken per Motor"
+      },
+      "content": {
+        "en": "Rent a motorbike (200 THB/day) to explore the coastline south to Ao Thung Makham and north to Sapli Beach. The coastal road passes through coconut plantations and fishing villages with almost no traffic. Always wear a helmet.",
+        "nl": "Huur een motor (200 THB/dag) om de kustlijn te verkennen naar het zuiden richting Ao Thung Makham en naar het noorden richting Sapli Beach. De kustweg gaat door kokosplantages en vissersdorpen met bijna geen verkeer. Draag altijd een helm."
+      }
+    }
+  ],
+  "best_time_to_visit": {
+    "en": "December to April offers the best weather with calm seas, sunny skies, and consistent winds for kiteboarding. January to March is prime diving season for the nearby islands. The Gulf coast rainy season peaks in November with heavy rains. Ferries to Koh Tao run year-round but can be rough in monsoon season.",
+    "nl": "December tot april biedt het beste weer met kalme zeeën, zonnige luchten en constante wind voor kiteboarden. Januari tot maart is het beste duikseizoen voor de nabijgelegen eilanden. Het regenseizoen aan de Golfkust piekt in november met zware regens. Veerboten naar Koh Tao varen het hele jaar, maar kunnen ruw zijn in het moessonseizoen."
+  },
+  "budget_info": {
+    "budget_per_day": {
+      "en": "$15-25",
+      "nl": "$15-25"
+    },
+    "midrange_per_day": {
+      "en": "$35-60",
+      "nl": "$35-60"
+    },
+    "luxury_per_day": {
+      "en": "$100+",
+      "nl": "$100+"
+    }
+  }
+}
