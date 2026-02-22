@@ -103,6 +103,36 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
             })
           }}
         />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Article",
+              "headline": `${fromCity.name.en} to ${toCity.name.en}: Cheapest Routes & Prices`,
+              "description": `Compare ${transportOptions.length} ways to travel from ${fromCity.name.en} to ${toCity.name.en}. Distance: ${route.distance}.`,
+              "dateModified": "2026-02-22",
+              "author": { "@type": "Organization", "name": "Go2Thailand", "url": "https://go2-thailand.com" },
+              "publisher": { "@type": "Organization", "name": "Go2Thailand", "url": "https://go2-thailand.com", "logo": { "@type": "ImageObject", "url": "https://go2-thailand.com/logo.png" } },
+              "mainEntityOfPage": { "@type": "WebPage", "@id": `https://go2-thailand.com/transport/${route.slug}/` }
+            })
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "BreadcrumbList",
+              "itemListElement": breadcrumbs.map((crumb, idx) => ({
+                "@type": "ListItem",
+                "position": idx + 1,
+                "name": crumb.name,
+                "item": `https://go2-thailand.com${crumb.href}`
+              }))
+            })
+          }}
+        />
       </SEOHead>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

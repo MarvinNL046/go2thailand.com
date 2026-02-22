@@ -107,6 +107,55 @@ export default function BestTimeToVisitPage({ city }: BestTimeToVisitPageProps) 
     },
   };
 
+  // FAQ schema from seasonal secrets insider tips + common questions
+  const faqItems = [
+    ...(bestTimeObj ? [{
+      question: `What is the best time to visit ${cityName}?`,
+      answer: `The best time to visit ${cityName} is during the ${bestTimeObj.season || 'cool season'} (${bestTimeObj.months || 'November to February'}). ${bestTimeObj.weather || ''} ${bestTimeObj.reasons || ''}`.trim(),
+    }] : []),
+    {
+      question: `What is the weather like in ${cityName}?`,
+      answer: city.bestTimeToVisit || `${cityName} has a tropical climate with three seasons: cool (November-February), hot (March-May), and rainy (June-October).`,
+    },
+    ...(seasonalSecrets?.local_festivals && seasonalSecrets.local_festivals.length > 0 ? [{
+      question: `What festivals happen in ${cityName}?`,
+      answer: `Key festivals in ${cityName} include: ${seasonalSecrets.local_festivals.slice(0, 4).join(', ')}.`,
+    }] : []),
+    {
+      question: `Is ${cityName} worth visiting in rainy season?`,
+      answer: seasonalSecrets?.insider_tips?.['Rainy season'] || `Yes! Rain usually falls in short afternoon bursts, and you'll enjoy fewer crowds and lower prices. Mornings are often sunny and great for sightseeing.`,
+    },
+  ];
+
+  const faqJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqItems.map(item => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer,
+      },
+    })),
+  };
+
+  // Event schema for festivals
+  const festivalEvents = (seasonalSecrets?.local_festivals || []).slice(0, 5).map(festival => ({
+    '@type': 'Event',
+    name: festival.split(' - ')[0].split(' (')[0],
+    description: festival,
+    location: {
+      '@type': 'Place',
+      name: cityName,
+      address: {
+        '@type': 'PostalAddress',
+        addressLocality: cityName,
+        addressCountry: 'TH',
+      },
+    },
+  }));
+
   return (
     <>
       <SEOHead
@@ -118,6 +167,25 @@ export default function BestTimeToVisitPage({ city }: BestTimeToVisitPageProps) 
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+        {festivalEvents.length > 0 && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'ItemList',
+              name: `Festivals and Events in ${cityName}`,
+              itemListElement: festivalEvents.map((event, idx) => ({
+                '@type': 'ListItem',
+                position: idx + 1,
+                item: event,
+              })),
+            }) }}
+          />
+        )}
       </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">

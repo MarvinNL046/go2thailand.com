@@ -162,7 +162,8 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
     "containedInPlace": {
       "@type": "Country",
       "name": "Thailand"
-    }
+    },
+    "hasMap": `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(island.name.en + ' Thailand')}`
   };
 
   const breadcrumbJsonLd = {

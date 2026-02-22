@@ -300,6 +300,7 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                 "audienceType": tag
               })),
               "url": `https://go2-thailand.com/city/${city.slug}/`,
+              "hasMap": `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(city.name.en + ' Thailand')}`,
               ...(city.top_attractions && city.top_attractions.length > 0 ? {
                 "containsPlace": city.top_attractions.map((attraction: { name: string; description: string }) => ({
                   "@type": "TouristAttraction",

@@ -225,6 +225,40 @@ export default function ComparisonPage({
   // Build unique related comparisons list (deduplicated, max 8)
   const allRelated = [...new Set([...relatedComparisons1, ...relatedComparisons2])].filter(s => s !== slug).slice(0, 8);
 
+  // JSON-LD: Article schema for comparison content
+  const articleJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: pageTitle,
+    description: metaDescription,
+    datePublished: '2026-02-01',
+    dateModified: '2026-02-22',
+    author: {
+      '@type': 'Organization',
+      name: 'Go2Thailand',
+      url: 'https://go2-thailand.com',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'Go2Thailand',
+      url: 'https://go2-thailand.com',
+      logo: { '@type': 'ImageObject', url: 'https://go2-thailand.com/logo.png' },
+    },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+  };
+
+  // JSON-LD: BreadcrumbList
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((crumb, idx) => ({
+      '@type': 'ListItem',
+      position: idx + 1,
+      name: crumb.name,
+      item: `https://go2-thailand.com${crumb.href}`,
+    })),
+  };
+
   // JSON-LD: FAQPage (only when FAQ data exists)
   const faqJsonLd = enrichedData && enrichedData.faq && enrichedData.faq.length > 0
     ? {
@@ -315,6 +349,14 @@ export default function ComparisonPage({
         description={metaDescription}
       >
         <meta property="og:type" content="website" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+        />
         {faqJsonLd && (
           <script
             type="application/ld+json"

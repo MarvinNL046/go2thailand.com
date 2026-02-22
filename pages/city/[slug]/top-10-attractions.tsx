@@ -130,7 +130,16 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                 "@type": "ListItem",
                 "position": item.rank,
                 "name": item.name,
-                "url": `https://go2-thailand.com/city/${city.slug}/top-10-attractions/#attraction-${item.rank}`
+                "url": `https://go2-thailand.com/city/${city.slug}/top-10-attractions/#attraction-${item.rank}`,
+                "item": {
+                  "@type": "TouristAttraction",
+                  "name": item.name,
+                  "description": item.description || item.story || '',
+                  "url": `https://go2-thailand.com/city/${city.slug}/top-10-attractions/#attraction-${item.rank}`,
+                  "hasMap": `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.name + ' ' + city.name.en + ' Thailand')}`,
+                  "isAccessibleForFree": true,
+                  "touristType": "Tourists"
+                }
               }))
             })
           }}
