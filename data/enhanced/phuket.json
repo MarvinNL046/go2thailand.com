@@ -166,18 +166,40 @@
   },
   "budget_reality": {
     "daily_costs": {
-      "breakfast": "40 baht for a bowl of jok (rice porridge)",
-      "lunch": "60 baht for a plate of fried rice from a street vendor",
-      "dinner": "150 baht for a meal at a local restaurant"
+      "breakfast": "40 baht for rice porridge (jok) from a street vendor",
+      "lunch": "60-80 baht for Thai fried rice or noodles at a local stall",
+      "dinner": "100-150 baht for a Thai meal at a local restaurant (seafood near Patong costs much more)",
+      "massage": "250-500 baht (walk a few streets from tourist strip for better prices)",
+      "smart_bus": "100 baht per ride from airport (day pass 300 baht)",
+      "grab_ride": "50-250 baht depending on distance",
+      "tuk_tuk": "200-400 baht for a short ride near Bangla Road (overpriced!)",
+      "island_tour_low_season": "1,200-1,500 baht per person",
+      "island_tour_high_season": "2,000-3,000 baht per person",
+      "nightlife_bangla": "~3,000 baht for an evening on Bangla Walking Street"
     },
     "money_saving_tricks": [
-      "Eat where the locals eat; it's often cheaper and more authentic."
+      "Take the Smart Bus from the airport (100 THB) instead of a taxi or minibus.",
+      "Download and use the Grab app for all transport — much cheaper than tuk-tuks.",
+      "Eat Thai food at local restaurants instead of tourist-area seafood places — same quality, fraction of the price.",
+      "For fresh affordable seafood, skip Patong and go to fish markets in Kata or Karon.",
+      "Book excursions from beach-side tour operators, never through your hotel (they add commission).",
+      "Walk 2-3 streets away from Patong Beach for massages at half the price.",
+      "Shop at Jungceylon or Central malls instead of street vendors — better prices on real products.",
+      "Visit in low season (May-October) for 30-50% lower prices on everything."
     ],
     "where_to_splurge": [
-      "Spend more on experiences like cooking classes or boat tours."
+      "A day tour to Phi Phi Islands — one of the most beautiful places in Thailand.",
+      "A sunset dinner at a rooftop restaurant overlooking the Andaman Sea.",
+      "A traditional Thai spa experience at a quality resort spa.",
+      "A private longtail boat trip to James Bond Island and Phang Nga Bay."
     ],
     "hidden_costs": [
-      "Watch out for high taxi fares; use Grab instead for better rates."
+      "Tuk-tuks near Bangla Road charge 200-400 baht for a 3-4 minute ride — use Grab instead.",
+      "Airport minibuses make stops at tour offices that pressure you into buying overpriced packages.",
+      "Hotels may swap your room for a lower category in high season — always screenshot your booking.",
+      "Motorbike fines from tourist police for no helmet or no international license — save yourself the hassle.",
+      "National park entrance fees are sometimes not included in tour prices — always confirm beforehand.",
+      "Beach activity prices (jet ski, parasailing) at Patong are heavily inflated — always negotiate."
     ]
   },
   "top_attractions": [
@@ -315,8 +337,26 @@
     }
   ],
   "travel_tips": [
-    "Learn a few Thai phrases; it opens doors.",
-    "Explore quieter bars for a more laid-back vibe."
+    "Take the Smart Bus from the airport instead of a taxi or minibus — it costs only 100 THB per ride (day pass 300 THB), runs hourly from 8:00 to 23:30, has WiFi, and takes about 1-1.5 hours to Patong.",
+    "Avoid airport minibuses — they make many stops and will take you to a tour office where they try to sell you overpriced packages. Pure time and money waste.",
+    "If you take a taxi from the airport, always use the public taxi stand and agree on the price beforehand — Phuket taxis don't have meters like Bangkok.",
+    "Screenshot your hotel booking confirmation with room type and photos before arrival. In high season, hotels sometimes swap your room for a lower category. Compare on the spot.",
+    "Hotel location matters more than the hotel itself. If you want peace and quiet, avoid the Bangla Road / Patong area. Choose Kata, Karon, or Bangtao instead.",
+    "Don't book excursions through your hotel — they add commission. Walk along the main beach road and compare prices at street tour operators instead.",
+    "Excursion prices vary by season: expect 1,200-1,500 THB in low season and 2,000-3,000 THB in high season. Always ask if national park entrance fees are included.",
+    "Download the Grab app before arriving — it's the safest and most transparent way to get around. Prices are fair and fixed, unlike tuk-tuks.",
+    "Tuk-tuks near Bangla Road are extremely expensive: 200-400 THB for just a 3-4 minute ride, especially at night. Use Grab instead.",
+    "If renting a motorbike (very cheap), always carry your international driving license and wear a helmet. Tourist police actively fine foreigners who break these rules.",
+    "Check a rental motorbike thoroughly before taking it — photograph any existing damage to avoid being charged for scratches you didn't make.",
+    "For massages, walk a few streets away from Patong Beach and Bangla Road. You'll find much better quality at lower prices (250-500 THB vs 500+ THB in tourist areas).",
+    "Thai food is very cheap everywhere, but seafood is overpriced near Patong. For fresh, affordable seafood, take a short trip to Kata or Karon fish markets.",
+    "For shopping, skip the street vendors (overpriced even after bargaining) and head to Jungceylon or Central shopping malls for better deals on original items.",
+    "Money exchange rates are consistent across Phuket and offices stay open late. Compare 2-3 places and you'll find they're all similar.",
+    "Budget around 3,000 THB for a night out on Bangla Walking Street — it's fun chaos but prices add up fast.",
+    "Always follow 'No Swimming' signs on beaches — they indicate dangerous currents. Only swim in designated safe areas.",
+    "Negotiate prices for beach activities like jet skiing and parasailing at Patong Beach — listed prices are inflated for tourists. Always ask for safety instructions first.",
+    "If you have a connecting international flight after a domestic Thai flight, allow minimum 3 hours between flights — domestic flights are frequently delayed.",
+    "Learn a few Thai phrases; locals appreciate the effort and it often gets you better prices and service."
   ],
   "best_time_to_visit": {
     "season": "Cool Season",
@@ -451,54 +491,66 @@
       "description": "A laid-back budget resort with beachfront location offering basic but clean rooms, beach bar, and a relaxed atmosphere perfect for budget-conscious beach lovers."
     }
   ],
-  "gettingAround": "Phuket's transportation system offers multiple convenient options for navigating the island. Tuk-tuks (colorful three-wheeled vehicles) are the most iconic local transport, ideal for short distances within beach areas, though negotiating fares beforehand is essential as they're unmetered. Songthaews (shared minibus taxis) follow set routes and are affordable for longer journeys between beaches and towns. Grab (the Southeast Asian ride-hailing app) operates extensively throughout Phuket, providing safer, metered alternatives to tuk-tuks with transparent pricing—highly recommended for visitors unfamiliar with local customs. For maximum flexibility, motorbike rental costs approximately $5-15 daily, though international driving permits and caution are necessary due to Phuket's traffic patterns. Rental cars with drivers are available for tours and offer comfort for families, while taxis provide direct point-to-point service at premium rates. The island's main road network connects all major beaches and attractions efficiently.",
+  "gettingAround": "From Phuket Airport, the best option for solo travelers or couples is the Smart Bus: just 100 THB per ride (day pass 300 THB), running hourly from 8:00 to 23:30 with WiFi and air conditioning. The ride takes 1-1.5 hours to Patong depending on traffic. For families with luggage, take a public taxi from the designated stand — prices are fixed (no meters in Phuket, unlike Bangkok), so always confirm the fare before departing. Avoid minibuses as they make numerous stops and route you through tour offices selling overpriced packages.\n\nOnce on the island, the Grab ride-hailing app is by far the best transport option — transparent pricing, safe drivers, and no negotiation needed. Tuk-tuks are iconic but extremely overpriced in tourist areas: expect 200-400 THB for just a 3-4 minute ride near Bangla Road at night. Motorbike taxis cost 100-200 THB for short distances with fixed pricing. For flexibility, motorbike rental is very affordable but carries risks: you must carry an international driving license and always wear a helmet, as tourist police actively fine foreigners. Before renting, photograph any existing damage to avoid disputes when returning the bike.",
   "bestTimeToVisit": "Phuket's tropical climate features distinct wet and dry seasons that significantly impact your experience. The dry season from November through February offers perfect weather with minimal rainfall, comfortable temperatures (24-32°C), and calm seas—this is peak tourist season with higher prices but ideal beach conditions and water sports. March through May represents hot and humid shoulder season, with temperatures climbing to 35°C, making outdoor activities more challenging but hotels offering better rates. The southwest monsoon season from May through October brings heavy rainfall, occasional storms, and rougher seas, though tourism declines considerably and prices drop 30-50%. December through February is particularly ideal, combining perfect weather, festive holiday atmosphere, and year-round beach accessibility. For budget travelers seeking fewer crowds and lower prices while accepting weather unpredictability, September-October offers excellent value. Avoid the wettest months of September-October if water sports or island hopping are priorities.",
   "budgetGuide": {
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget travelers can thrive in Phuket on $20-40 daily. Stay in hostels ($12-20/night), eat at street vendors and local restaurants ($2-5 per meal), use songthaews and occasional tuk-tuks ($1-3 per trip), and visit free attractions like Big Buddha and Phuket Old Town. Island tours and paid activities add $10-15 daily."
+      "description": "Budget travelers can enjoy Phuket on $20-40/day. Stay in hostels or guesthouses ($12-25/night in Patong or Kamala). Eat Thai street food and local restaurants ($1-5 per meal — Thai food is very cheap, just avoid tourist-area seafood restaurants). Use the Smart Bus from the airport (100 THB) and Grab for transport ($1-4 per ride). Free attractions include Big Buddha, Phuket Old Town, and all beaches. Massages start at 250 THB ($7) if you walk a few streets away from the tourist strip."
     },
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Mid-range travelers enjoy $50-100 daily for comfortable experiences. Expect 3-star hotels ($50-80/night), meals at quality restaurants ($5-15), Grab rides ($2-8), beach club visits ($10-20), and regular island tours ($30-50 per day). This tier offers excellent value and authentic experiences."
+      "description": "Mid-range travelers enjoy $50-100/day for comfortable experiences. Expect 3-star hotels in Kata, Karon, or Bangtao ($50-100/night). Meals at quality Thai restaurants ($5-15), Grab rides across the island ($2-8), and day tours to Phi Phi Islands or James Bond Island ($35-85 depending on season — low season 1,200-1,500 THB, high season 2,000-3,000 THB). Always book tours from beach-side operators rather than your hotel to avoid commission markups."
     },
     "luxury": {
       "min": 150,
       "max": 400,
-      "description": "Luxury travelers should budget $150-400+ daily for premium experiences. This includes 5-star resorts ($200-500/night), fine dining ($30-80 per meal), private tours and water sports ($100-200), spa treatments ($50-100), and exclusive beach clubs ($50-100 entry). Luxury Phuket offers world-class amenities and unforgettable services."
+      "description": "Luxury travelers should budget $150-400+/day. This includes 5-star resorts in Surin, Bangtao, or Cape Panwa ($200-500/night), fine dining and fresh seafood ($30-80 per meal), private tours ($100-200), premium spa treatments ($50-100), and a night out on Bangla Walking Street (budget ~3,000 THB/$85). Phuket's luxury scene rivals any destination in Southeast Asia."
     }
   },
-  "safetyTips": "Phuket is generally safe for tourists, though standard precautions apply. Patong Beach's nightlife district, while vibrant, experiences petty theft and occasional fights late at night—avoid excessive alcohol, secure valuables, and travel in groups after midnight. Traffic safety is paramount due to Thailand's aggressive driving customs; rent motorbikes only if experienced, always wear helmets, and avoid riding at night or under the influence. Be cautious with valuables at crowded beaches and markets where pickpocketing occurs; use hotel safes for passports and excess cash. Avoid displaying expensive jewelry, electronics, or large amounts of cash. Water safety is critical—respect rip currents and rough monsoon seas, use beaches with lifeguards, and rent water sports equipment from reputable operators. Be aware that scams targeting tourists occur in Patong's entertainment areas, particularly inflated drink prices, gem shop frauds, and unauthorized tour operators. Sexually transmitted infections pose health risks; practice safe intimacy. Purchase comprehensive travel insurance covering medical evacuation, as quality healthcare requires significant out-of-pocket costs.",
+  "safetyTips": "Phuket is generally safe for tourists, but knowing the local dynamics helps you avoid problems. On beaches, always respect 'No Swimming' signs — they indicate dangerous rip currents that cause drownings every year. Only swim in areas with lifeguards present. For water activities like jet skiing and parasailing at Patong Beach, always negotiate prices first (listed prices are heavily inflated), demand safety instructions, and check equipment condition before starting.\n\nTraffic safety is crucial: Phuket's roads are among Thailand's most dangerous for tourists. If you rent a motorbike, you MUST carry an international driving license and wear a helmet at all times. Tourist police specifically target foreigners who break these rules, and fines are substantial. Always photograph a rental bike's existing damage before taking it to avoid being charged for scratches you didn't cause.\n\nBe cautious with hotel bookings during high season — rooms sometimes get swapped for lower categories without notice. Screenshot your booking confirmation with room type, photos, and price before arriving, and compare the room in person when you check in.\n\nAvoid airport minibuses that stop at tour offices selling overpriced excursion packages. When booking tours from beach-side operators (recommended over hotel bookings), always confirm what's included — particularly national park entrance fees, which operators sometimes omit.\n\nIn Patong's nightlife area around Bangla Road, keep valuables secure and avoid excessive drinking. Money exchange offices across Phuket offer consistent rates and stay open late, so there's no need to carry large amounts of cash.",
   "faq": [
     {
-      "question": "Do I need a visa to visit Phuket?",
-      "answer": "Citizens of many countries including the US, UK, Canada, and EU nations receive 30-60 days visa-free entry to Thailand. Check your specific nationality's requirements with Thai immigration authorities or your nearest Thai embassy, as regulations change periodically."
+      "question": "What's the best way to get from Phuket Airport to Patong?",
+      "answer": "The cheapest option is the Smart Bus at just 100 THB (about $3), running hourly from 8:00 to 23:30 with WiFi and air conditioning. The journey takes 1-1.5 hours depending on traffic. A day pass costs 300 THB for unlimited rides. For families with luggage, take a public taxi from the airport stand — prices are fixed (no meters in Phuket). Avoid minibuses as they make many stops and route you through tour offices that push overpriced packages."
     },
     {
-      "question": "What currency is used and can I use credit cards?",
-      "answer": "Thailand's currency is the Thai Baht (THB). ATMs are abundant throughout Phuket, though international withdrawal fees typically cost $3-5 per transaction. Credit cards are accepted at major restaurants, hotels, and shops, but street vendors and small businesses require cash. Exchange rates are generally best at banks and ATMs rather than money changers."
+      "question": "How much does it cost to visit Phuket per day?",
+      "answer": "Budget travelers can manage on $20-40/day staying in hostels ($12-25/night), eating street food ($1-5/meal), and using Smart Bus or Grab. Mid-range travelers spend $50-100/day with 3-star hotels and restaurant meals. Thai food is very cheap, but seafood near Patong is overpriced — for affordable fresh seafood, head to Kata or Karon fish markets instead."
     },
     {
-      "question": "How many days should I spend in Phuket?",
-      "answer": "3-4 days allows exploration of main beaches (Patong, Kata, Karon), the Big Buddha, Old Town, and one island tour. 5-7 days permits multiple island trips (Phi Phi Islands, James Bond Island), water sports, night experiences, and relaxation without rushing. Extended stays suit those wanting deeper cultural immersion and diving certifications."
+      "question": "Are tuk-tuks expensive in Phuket?",
+      "answer": "Yes, tuk-tuks in Phuket are notoriously overpriced compared to Bangkok. Near Bangla Road, a 3-4 minute ride costs 200-400 THB ($6-12), especially at night. Download the Grab app instead for transparent, fair pricing ($1-8 per ride). Motorbike taxis offer fixed prices of 100-200 THB for short distances."
     },
     {
-      "question": "Is it safe to visit during monsoon season (May-October)?",
-      "answer": "Monsoon season brings heavy rainfall, occasional storms, and rough seas, making some water activities dangerous or impossible. However, Phuket remains safe to visit with proper planning; avoid stormy days for boat tours, expect some attractions to close temporarily, and enjoy significantly lower prices and fewer crowds."
+      "question": "Should I rent a motorbike in Phuket?",
+      "answer": "Motorbike rental is very affordable but comes with important rules. You MUST carry an international driving license and wear a helmet at all times — tourist police actively fine foreigners who don't comply. Before renting, photograph any existing scratches or damage to avoid being charged when returning the bike. Use Grab instead if you're not an experienced rider."
     },
     {
-      "question": "What's the best way to visit Phi Phi Islands?",
-      "answer": "Book organized day tours (300-1,200 THB/$9-35) from Patong or Phuket Town, which include speedboat transport, multiple stops at Maya Bay and snorkeling sites, and meals. Alternatively, take ferries from Rassada Port for independent exploration, though tours provide convenience and local expertise. Tours typically run 8am-5pm with 30-45 minute boat rides."
+      "question": "How much do tours and excursions cost in Phuket?",
+      "answer": "Prices vary significantly by season. In low season, expect 1,200-1,500 THB ($35-45) for day tours to Phi Phi Islands or James Bond Island. In high season, the same tours cost 2,000-3,000 THB ($60-85). Important: never book through your hotel (they add commission). Walk along the beach road and compare prices at street tour operators. Always confirm whether national park entrance fees are included."
     },
     {
-      "question": "Should I rent a motorbike or use taxis?",
-      "answer": "Motorbike rental ($5-15 daily) offers flexibility but requires valid international driving permit and helmet usage; Phuket's traffic is aggressive and accidents common. For safety and convenience, use Grab app rides ($2-8) or hire taxis/drivers for day tours. First-time visitors especially should avoid self-driving motorbikes."
+      "question": "Where should I stay in Phuket — Patong or somewhere else?",
+      "answer": "Location is more important than the hotel itself. Patong (near Bangla Road) offers maximum nightlife but is loud and chaotic — avoid it if you want peaceful evenings. Kata is family-friendly with calm beaches. Karon is quieter with beautiful shores. Bangtao has luxury resorts and a relaxed vibe. Pro tip: screenshot your booking with room type and photos — hotels sometimes swap rooms for lower categories during high season."
     },
     {
-      "question": "What should I pack for Phuket?",
-      "answer": "Pack lightweight, breathable clothing, swimwear, sunscreen (SPF 50+), sunglasses, and a hat for intense tropical sun. Bring reef-safe sunscreen to protect marine ecosystems. A rain jacket handles monsoon season's brief daily showers. Modestly cover shoulders and knees for temple visits. Flip-flops are practical, though water shoes prevent coral cuts during snorkeling."
+      "question": "Is it safe to do water activities at Patong Beach?",
+      "answer": "Patong Beach offers jet skiing, parasailing, and other activities, but be cautious. Always negotiate prices (listed rates are heavily inflated for tourists), ask for safety instructions before starting, and check equipment condition. Most importantly, always respect 'No Swimming' signs — they indicate dangerous rip currents. Only swim in designated safe areas with lifeguards present."
+    },
+    {
+      "question": "How much does a massage cost in Phuket?",
+      "answer": "Massage prices range from 250-500 THB ($7-15). The key is location: salons directly on Patong Beach and near Bangla Road charge premium tourist prices. Walk just 2-3 streets away from the main tourist strip and you'll find much better quality at lower prices. Hotel spas are excellent but pricier."
+    },
+    {
+      "question": "Where can I eat cheap in Phuket?",
+      "answer": "Thai food is incredibly cheap throughout Phuket — local rice and noodle dishes cost just $1-3 at street stalls and local restaurants. However, seafood is very overpriced in the Patong area. For fresh, affordable seafood, take a short ride to Kata or Karon where fish markets offer better quality at much lower prices. International food is generally expensive everywhere in tourist areas."
+    },
+    {
+      "question": "What should I know about Phuket nightlife budget?",
+      "answer": "A night out on Bangla Walking Street in Patong typically costs around 3,000 THB ($85) for drinks, food, and entertainment. In high season, bars and pubs are extremely crowded. Money exchange offices stay open late across Phuket with consistent rates, so you don't need to carry large amounts of cash."
     }
   ],
   "practicalInfo": {
@@ -510,15 +562,24 @@
       "Mar"
     ],
     "nearestAirport": "Phuket International Airport (HKT)",
-    "travelTimeFromAirport": "45 minutes to 1.5 hours by car depending on traffic and destination beach (Patong is furthest, Katu closer)",
+    "travelTimeFromAirport": "1-1.5 hours to Patong by Smart Bus (100 THB, runs 8:00-23:30, hourly) or 45 minutes by taxi (fixed price, no meter)",
     "localTransport": [
-      "Tuk-tuk",
-      "Songthaew",
-      "Grab",
-      "Motorbike rental",
-      "Taxi",
-      "Car rental with driver"
+      "Smart Bus from airport (100 THB/ride, day pass 300 THB, WiFi included)",
+      "Grab app (recommended — transparent pricing, $1-8 per ride)",
+      "Tuk-tuk (200-400 THB short rides, very expensive near Bangla Road)",
+      "Motorbike taxi (100-200 THB fixed price)",
+      "Motorbike rental (cheap, but license + helmet required — police check tourists)",
+      "Public taxi (fixed price, always confirm fare before departing)"
     ]
   },
+  "contentSources": [
+    {
+      "type": "video",
+      "title": "20 Essential Phuket Travel Tips",
+      "creator": "Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=Knzq71BAcNg",
+      "description": "Local travel tips with real prices and insider knowledge from an experienced Thailand traveler."
+    }
+  ],
   "enrichedAt": "2026-02-22T12:26:16.148Z"
 }

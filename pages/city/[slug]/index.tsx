@@ -165,6 +165,13 @@ interface City {
     midrange: { min: number; max: number; description: string };
     luxury: { min: number; max: number; description: string };
   };
+  contentSources?: Array<{
+    type: string;
+    title: string;
+    creator: string;
+    url: string;
+    description?: string;
+  }>;
 }
 
 interface CityComparisonLink {
@@ -1260,6 +1267,34 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                             {city.name.en} <span className="text-gray-400">vs</span> {comp.otherName.en}
                           </span>
                         </Link>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {/* Content Sources */}
+                {city.contentSources && city.contentSources.length > 0 && (
+                  <div className="mb-12">
+                    <h3 className="text-lg font-semibold text-gray-700 mb-3">Sources & References</h3>
+                    <div className="space-y-2">
+                      {city.contentSources.map((source, index) => (
+                        <a
+                          key={index}
+                          href={source.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex items-center p-3 bg-white rounded-lg border border-gray-200 hover:border-gray-300 transition-colors text-sm"
+                        >
+                          {source.type === 'video' && (
+                            <svg className="w-5 h-5 text-red-500 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 24 24">
+                              <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                            </svg>
+                          )}
+                          <div>
+                            <span className="font-medium text-gray-900">{source.title}</span>
+                            <span className="text-gray-500"> by {source.creator}</span>
+                          </div>
+                        </a>
                       ))}
                     </div>
                   </div>
