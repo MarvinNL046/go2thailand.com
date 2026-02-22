@@ -328,5 +328,199 @@
     "notes": "Budget includes accommodation, food, transportation, and activities"
   },
   "enhanced_at": "2025-05-26T19:54:29.414Z",
-  "ai_generated": true
+  "ai_generated": true,
+  "overview": "Ayutthaya stands as one of Southeast Asia's most significant historical treasures, a UNESCO World Heritage Site that was once the largest city in the world with over 1 million inhabitants. Located just 80 kilometers north of Bangkok in Thailand's Central Region, this former capital flourished as a major trading hub between the 14th and 18th centuries before being razed by Burmese forces in 1767. Today, the city offers visitors a remarkable journey through time, with ancient temples and ruins scattered throughout the modern Thai landscape, including iconic sites like Wat Mahathat with its famous Buddha head intertwined in tree roots, the stunning Wat Chaiwatthanaram with its central prang, and the well-preserved three chedis of Wat Phra Si Sanphet. The Ayutthaya Historical Park preserves these magnificent structures, making it an essential destination for anyone interested in Southeast Asian history and architecture.",
+  "thingsToDo": "The Ayutthaya Historical Park (THB 50/$1 entrance fee) is the centerpiece of any visit, housing multiple temples and ancient ruins that showcase Siamese architectural heritage. Must-see temples include Wat Mahathat (THB 50/$1), famous for the haunting Buddha head growing from a tree root and considered one of the most iconic photo spots in Thailand; Wat Chaiwatthanaram (THB 50/$1), celebrated for its impressive central prang and stunning sunset views; and Wat Phra Si Sanphet (THB 50/$1), the royal temple featuring three distinctive chedis on former palace grounds. For a unique experience, visit Wat Lokayasutharam (THB 20/$1) to see Thailand's 42-meter reclining Buddha statue, one of the largest outdoor Buddha statues in the country. Beyond temples, explore the Bang Pa-In Royal Palace (THB 100/$3), a summer palace showcasing diverse architectural styles and beautiful gardens, or visit the Chao Sam Phraya National Museum (THB 150/$4) to see golden Buddha images and historical royal treasures. For adventurous travelers, the Ayutthaya Elephant Palace (THB 200/$6) offers elephant rides and cultural performances in a historical setting.",
+  "whereToStay": "Ayutthaya offers accommodation across all price ranges, with budget guesthouses and hostels concentrated in the Old City area near the Historical Park, offering basic but comfortable rooms for THB 400-800 ($12-25) per night. Mid-range hotels are scattered throughout the city, providing better amenities and strategic locations for exploring temples, with prices typically ranging from THB 1,000-2,500 ($30-75) nightly. Luxury accommodations like the riverside resorts offer five-star experiences with premium facilities, fine dining, and spa services, costing THB 5,000 and upward ($150+) per night. Many travelers choose to stay 1-2 nights in Ayutthaya to properly explore the ruins and temples without rushing, though day trips from Bangkok are also possible via train or organized tours. The town is compact enough that most accommodations provide convenient access to major attractions either on foot or via short tuk-tuk rides.",
+  "whereToEat": [
+    {
+      "name": "Ruan Thai Kung Pao",
+      "cuisine": "Thai",
+      "priceRange": "$",
+      "description": "Michelin Bib Gourmand-recognized restaurant serving delicious Thai dishes at reasonable prices. A local favorite for authentic flavors and quality ingredients."
+    },
+    {
+      "name": "Baan Ta Ko Rai",
+      "cuisine": "Thai",
+      "priceRange": "$",
+      "description": "Another Bib Gourmand-distinguished establishment offering traditional Thai cuisine at wallet-friendly prices. Known for generous portions and vibrant local flavors."
+    },
+    {
+      "name": "Coffee Old City",
+      "cuisine": "Cafe/International",
+      "priceRange": "$",
+      "description": "Popular cafe in the heart of the Old City, perfect for breakfast or lunch with quality coffee and light international fare while exploring nearby ruins."
+    },
+    {
+      "name": "The Summer House",
+      "cuisine": "Thai/International",
+      "priceRange": "$$",
+      "description": "Well-reviewed restaurant combining Thai and international cuisine with a pleasant atmosphere, ideal for lunch or dinner near historical sites."
+    },
+    {
+      "name": "Baan Kao Nhom",
+      "cuisine": "Thai",
+      "priceRange": "$",
+      "description": "Traditional Thai restaurant frequently mentioned in local recommendations, serving authentic regional dishes in a casual setting."
+    },
+    {
+      "name": "Pa Porn Traditional Pork Noodles",
+      "cuisine": "Thai Noodles/Street Food",
+      "priceRange": "$",
+      "description": "Local institution famous for traditional pork noodles, offering quick, delicious meals that capture authentic Thai street food culture."
+    },
+    {
+      "name": "Pannana Cafe and Eatery",
+      "cuisine": "Thai/Cafe",
+      "priceRange": "$$",
+      "description": "Waterfront dining establishment with a 4.8 rating offering Thai cuisine in a scenic setting, perfect for relaxed meals with river views."
+    },
+    {
+      "name": "Wasana Melon Farm Restaurant",
+      "cuisine": "Farm to Table/Thai",
+      "priceRange": "$$",
+      "description": "Unique farm-to-table dining experience featuring fresh melons and vegetables from their own farm, allowing visitors to pick and enjoy seasonal produce with restaurant meals."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Krungsri River Hotel",
+      "category": "midrange",
+      "priceRange": "$40-70/night",
+      "area": "Riverside, Old City",
+      "description": "Conveniently located riverside property offering comfortable rooms and easy access to Historical Park temples. Includes breakfast and basic amenities."
+    },
+    {
+      "name": "Ayutthaya Spa and Resort",
+      "category": "midrange",
+      "priceRange": "$35-60/night",
+      "area": "Historical Park area",
+      "description": "Well-positioned hotel providing spa services and clean accommodations within walking distance of major temples and attractions."
+    },
+    {
+      "name": "Baan Lotus",
+      "category": "budget",
+      "priceRange": "$15-30/night",
+      "area": "Old City Center",
+      "description": "Budget-friendly guesthouse in the heart of Ayutthaya's Old City, offering basic but clean rooms and helpful local information from owners."
+    },
+    {
+      "name": "Ayutthaya Princess Hotel",
+      "category": "midrange",
+      "priceRange": "$50-80/night",
+      "area": "Central Ayutthaya",
+      "description": "Three-star hotel with air-conditioned rooms, restaurant, and tour desk services. Good base for exploring temples with friendly staff."
+    },
+    {
+      "name": "Akyra Manor",
+      "category": "luxury",
+      "priceRange": "$120-180/night",
+      "area": "Old City",
+      "description": "Boutique luxury hotel in a restored teak mansion with modern amenities, spa facilities, and fine dining, offering intimate historic elegance."
+    },
+    {
+      "name": "U Ayutthaya",
+      "category": "luxury",
+      "priceRange": "$150-250/night",
+      "area": "Riverside",
+      "description": "Upscale riverside resort featuring contemporary design, infinity pool, fine dining, and premium spa services overlooking the Chao Phraya River."
+    },
+    {
+      "name": "River View Place",
+      "category": "budget",
+      "priceRange": "$18-35/night",
+      "area": "Riverside Area",
+      "description": "Simple but comfortable riverside guesthouse offering great views of the Chao Phraya and convenient access to temple tours and boat activities."
+    },
+    {
+      "name": "Centara Grand Historic Ayutthaya",
+      "category": "luxury",
+      "priceRange": "$160-280/night",
+      "area": "Palace Island",
+      "description": "Five-star heritage hotel set in a restored colonial palace with riverside location, championship golf course access, spa, and multiple dining venues."
+    },
+    {
+      "name": "Chan Boutique House",
+      "category": "midrange",
+      "priceRange": "$45-75/night",
+      "area": "Old City",
+      "description": "Intimate boutique guesthouse in traditional Thai-Chinese style building, offering personalized service and proximity to Historical Park temples."
+    },
+    {
+      "name": "Sabai @ Ayutthaya",
+      "category": "budget",
+      "priceRange": "$20-40/night",
+      "area": "Central Ayutthaya",
+      "description": "Affordable hostel and guesthouse with both dormitory and private rooms, popular with backpackers for its social atmosphere and tour information."
+    }
+  ],
+  "gettingAround": "Ayutthaya is best navigated using a combination of tuk-tuks, bicycle rentals, and walking. Tuk-tuks are readily available throughout the city and are the most convenient option for covering larger distances or visiting multiple temples in one day, with typical fares ranging from THB 100-300 ($3-9) depending on distance. Many hotels and guesthouses offer bicycle rentals (THB 100-150/$3-5 per day), which is an excellent and economical way to explore the compact Old City area, especially early morning or late afternoon when temperatures are cooler. Grab (the Southeast Asian ride-hailing app) is available in Ayutthaya and offers another convenient option for getting around with transparent pricing. For longer distances, songthaews (shared red taxis) operate on fixed routes throughout the city and are the cheapest local transport option at THB 10-20 ($0.30-0.60) per journey. Many visitors also rent motorbikes (THB 150-250/$5-8 daily), though this requires confidence navigating Thai roads.",
+  "bestTimeToVisit": "The ideal time to visit Ayutthaya is during the cool and dry season from November to February, when temperatures are moderate (20-30°C or 68-86°F) and humidity is lower, making it comfortable to explore the extensive ruins and temples on foot. December and January are peak tourist season with the most pleasant weather, though this also means higher accommodation prices and more crowded sites. March through May brings the hot season with temperatures soaring to 35-40°C (95-104°F), making daytime temple exploration physically challenging, though fewer tourists visit during this period. The monsoon season from May to October brings heavy rainfall, frequent flooding in some areas, and slippery temple grounds, making it less ideal for sightseeing. September and October are generally wetter months, while June through August can see afternoon thunderstorms. Most travelers visit Ayutthaya between November and February, planning two full days to properly experience the Historical Park and major temples without rushing.",
+  "budgetGuide": {
+    "budget": {
+      "min": 20,
+      "max": 40,
+      "description": "Budget travelers staying in guesthouses (THB 400-600/$12-18/night), eating street food and at local restaurants (THB 100-200/$3-6 per meal), using bicycles and tuk-tuks, and visiting temple sites (THB 50/$1 each). Costs: accommodation $12-18, meals $9-18, transport $3-5, attractions $8-10 daily."
+    },
+    "midrange": {
+      "min": 50,
+      "max": 100,
+      "description": "Mid-range visitors in 3-star hotels (THB 1,000-2,500/$30-75/night), dining at nice restaurants (THB 300-500/$9-15 per meal), organized tours, and spa treatments. Costs: accommodation $30-75, meals $18-30, transport/tours $10-15, activities $5-10 daily."
+    },
+    "luxury": {
+      "min": 150,
+      "max": 400,
+      "description": "Luxury travelers in 5-star resorts (THB 5,000+/$150+/night), fine dining (THB 800-2,000/$24-60 per meal), private guides, spa services, and premium experiences. Costs: accommodation $150-280, meals $40-80, private transport/guides $50-100, experiences $20-40 daily."
+    }
+  },
+  "safetyTips": "Ayutthaya is generally a safe destination for tourists with low crime rates in tourist areas. Standard precautions apply: avoid displaying expensive jewelry or electronics, be cautious in crowded areas, and use registered taxis or Grab rather than hailing random taxis. The Ayutthaya Historical Park is well-patrolled and safe during daylight hours; avoid wandering isolated ruins at night. Be aware of motorcycle traffic when crossing streets, as Thai drivers often don't stop at zebra crossings—look both ways and cross deliberately. During the hot season (March-May), take precautions against heat exhaustion by drinking plenty of water, wearing sunscreen, and taking breaks during peak sun hours (11 AM-3 PM). The three rivers surrounding the Old City can be crossed safely via bridges or ferries, though care should be taken near water edges. Petty theft from unattended items is rare but possible, so keep valuables secure in your accommodation. Respect temple etiquette by dressing modestly (covered shoulders and knees) and removing shoes before entering sacred spaces.",
+  "faq": [
+    {
+      "question": "How long should I spend in Ayutthaya?",
+      "answer": "Most experts recommend 2-3 days minimum to properly experience Ayutthaya. While day trips from Bangkok are possible, staying overnight allows you to avoid the hottest afternoon hours, visit sites during optimal lighting conditions for photography, and properly explore the extensive Historical Park without rushing. A 2-day itinerary typically includes 5-6 major temples plus the Historical Park itself."
+    },
+    {
+      "question": "What is the entrance fee for Ayutthaya Historical Park?",
+      "answer": "The entrance fee to Ayutthaya Historical Park is THB 50 (approximately $1 USD). Most individual temples within and around the park have their own entrance fees of THB 20-50 ($0.60-$1.50), making the cost of visiting multiple sites very affordable."
+    },
+    {
+      "question": "Can I visit Ayutthaya as a day trip from Bangkok?",
+      "answer": "Yes, day trips are possible via train (1-2 hours from Bangkok's Hua Lamphong Station) or organized tours, but it's rushed and not ideal. The best approach is to spend at least one night in Ayutthaya to avoid the hottest afternoon hours (11 AM-3 PM) and allow adequate time for temple exploration without exhaustion."
+    },
+    {
+      "question": "What's the best way to get around Ayutthaya?",
+      "answer": "The most practical options are tuk-tuks (THB 100-300/$3-9 per trip), bicycle rentals (THB 100-150/$3-5 per day), or a combination of walking and Grab rides. Many visitors spend their first day exploring the Old City on foot or by bicycle, then hire a tuk-tuk driver for a half or full-day tour of more distant temples."
+    },
+    {
+      "question": "Which temples are must-sees in Ayutthaya?",
+      "answer": "The top temples are: Wat Mahathat (famous Buddha head in tree, THB 50), Wat Chaiwatthanaram (stunning central prang, best at sunset, THB 50), Wat Phra Si Sanphet (three iconic chedis, THB 50), Wat Lokayasutharam (42m reclining Buddha, THB 20), and Wat Ratchaburana (well-preserved prang with underground crypt, THB 50). All are located within or near the Historical Park."
+    },
+    {
+      "question": "Is it safe to visit Ayutthaya?",
+      "answer": "Yes, Ayutthaya is safe for tourists. Crime rates are low in tourist areas and the Historical Park is well-maintained and patrolled. Standard precautions apply: avoid displaying valuables, use registered taxis or Grab, and be respectful when visiting temples. Take extra precautions against heat exhaustion during hot season (March-May)."
+    },
+    {
+      "question": "What should I wear when visiting temples?",
+      "answer": "Dress modestly by covering your shoulders and knees—this means wearing pants/long skirts and sleeved shirts. Remove shoes before entering temple buildings and shrines. While enforcement varies, respecting dress codes is essential as it shows reverence for sacred Buddhist sites. Many tourists carry a light sarong or shawl for this purpose."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Suvarnabhumi Airport (BKK), Bangkok",
+    "travelTimeFromAirport": "1.5-2 hours by car or bus to Ayutthaya (approximately 80 km north of Bangkok)",
+    "localTransport": [
+      "Tuk-tuk",
+      "Bicycle rental",
+      "Grab app",
+      "Songthaew (shared red taxis)",
+      "Motorbike rental",
+      "Walking"
+    ]
+  },
+  "enrichedAt": "2026-02-22T12:29:53.887Z"
 }

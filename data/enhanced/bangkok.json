@@ -523,5 +523,199 @@
     "notes": "Budget includes accommodation, food, transportation, and activities"
   },
   "enhanced_at": "2025-05-26T19:52:10.961Z",
-  "ai_generated": true
+  "ai_generated": true,
+  "overview": "Bangkok, Thailand's vibrant capital, pulses with over 10.5 million residents and stands as one of Asia's most dynamic destinations. The city seamlessly blends ancient spiritual traditions with modern energy, offering visitors an intoxicating mix of ornate Buddhist temples, bustling street markets, world-class dining, and electrifying nightlife. From the glittering spires of the Grand Palace to the aromatic chaos of Khao San Road, Bangkok rewards travelers with unforgettable sensory experiences at remarkably affordable prices.",
+  "thingsToDo": "Bangkok's spiritual heart centers on its magnificent temples. The Grand Palace (500 THB/$15 entrance) showcases Thailand's royal heritage and houses the sacred Emerald Buddha, while Wat Pho (200 THB/$6) captivates visitors with its impressive 46-meter Reclining Buddha and offers traditional Thai massage services. Wat Arun, the Temple of Dawn (100 THB/$3), features stunning ceramic-tiled spires best appreciated at sunset across the Chao Phraya River.\n\nMarket exploration is quintessentially Bangkok. The Chatuchak Weekend Market overwhelms the senses with over 15,000 stalls selling everything from vintage clothing to local handicrafts—completely free to enter. For a more traditional floating market experience, Damnoen Saduak offers boats laden with fresh produce and souvenirs, though it requires an early morning trip outside the city.\n\nBeyond temples and markets, visit the Jim Thompson House (200 THB/$6) to explore Thai silk history, relax in Lumpini Park where monitor lizards roam freely, or shop at Siam Paragon which houses the SEA LIFE Aquarium alongside luxury brands and fine dining options. Bangkok National Museum (30 THB/$1) provides affordable cultural immersion with extensive Thai artifacts and royal regalia.",
+  "whereToStay": "Bangkok's accommodation options cater to every budget and preference across distinct neighborhoods. Silom district hosts luxury properties like the Banyan Tree, SO Sofitel, and the W Hotel, offering high-end amenities alongside vibrant dining and nightlife scenes. The Khao San Road area attracts backpackers with abundant budget guesthouses and hostels, though it can be touristy and noisy.\n\nFor mid-range comfort, explore options in Sukhumvit or Siam areas where three-star hotels offer excellent value with modern amenities, reliable service, and proximity to shopping and dining. Downtown Bangkok neighborhoods provide access to business districts while remaining quieter than tourist zones. Many hotels offer competitive rates year-round, with prices typically 50-70% lower than comparable Western accommodations.",
+  "whereToEat": [
+    {
+      "name": "Sam Lor",
+      "cuisine": "Thai",
+      "priceRange": "$",
+      "description": "Authentic Thai cuisine offering traditional flavors at local prices, known for genuine Bangkok dining experiences."
+    },
+    {
+      "name": "Err Urban Rustic Thai",
+      "cuisine": "Thai",
+      "priceRange": "$$",
+      "description": "Modern rustic Thai restaurant celebrating traditional cooking methods with elevated presentations and quality ingredients."
+    },
+    {
+      "name": "100 Mahaseth",
+      "cuisine": "Thai",
+      "priceRange": "$$",
+      "description": "Contemporary Thai cuisine featuring adventurous flavors and creative tasting menus, recognized by World's 50 Best Discovery."
+    },
+    {
+      "name": "80/20 Eighty Twenty",
+      "cuisine": "Thai",
+      "priceRange": "$$",
+      "description": "Adventurous Thai taster menus offering innovative takes on traditional dishes, featured in World's 50 Best Discovery."
+    },
+    {
+      "name": "Côte by Mauro Colagreco",
+      "cuisine": "International",
+      "priceRange": "$$$",
+      "description": "Fine dining establishment featuring sophisticated international cuisine with world-class presentation."
+    },
+    {
+      "name": "Margo",
+      "cuisine": "French",
+      "priceRange": "$$$",
+      "description": "French restaurant that opened in June 2025 and made the 2026 MICHELIN Guide Thailand as a MICHELIN Selected establishment."
+    },
+    {
+      "name": "Aksorn",
+      "cuisine": "Thai",
+      "priceRange": "$$",
+      "description": "Modern Thai heritage cooking that respectfully reimagines traditional recipes with contemporary techniques."
+    },
+    {
+      "name": "Antonio's",
+      "cuisine": "Italian",
+      "priceRange": "$$",
+      "description": "Italian restaurant celebrating Pugliese classics, offering authentic Southern Italian cuisine in Bangkok."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Banyan Tree Bangkok",
+      "category": "luxury",
+      "priceRange": "$200-400/night",
+      "area": "Silom",
+      "description": "Ultra-luxury five-star resort offering exceptional service, sophisticated dining, and premium accommodations in Bangkok's prestigious Silom district."
+    },
+    {
+      "name": "SO Sofitel Bangkok",
+      "category": "luxury",
+      "priceRange": "$180-350/night",
+      "area": "Silom",
+      "description": "Contemporary luxury hotel combining French elegance with Thai hospitality, featuring world-class spa and dining facilities."
+    },
+    {
+      "name": "W Hotel Bangkok",
+      "category": "luxury",
+      "priceRange": "$160-320/night",
+      "area": "Silom",
+      "description": "Stylish luxury property known for modern design, vibrant nightlife, and upscale amenities in central Bangkok."
+    },
+    {
+      "name": "Silom Studios",
+      "category": "midrange",
+      "priceRange": "$60-120/night",
+      "area": "Silom",
+      "description": "Contemporary mid-range option offering studio-style accommodations with modern facilities in the central business district."
+    },
+    {
+      "name": "Grand Hyatt Erawan Bangkok",
+      "category": "luxury",
+      "priceRange": "$170-340/night",
+      "area": "Central Bangkok",
+      "description": "Iconic luxury hotel featuring elegant Thai-inspired design, excellent restaurants, and premium service standards."
+    },
+    {
+      "name": "Mandarin Oriental Bangkok",
+      "category": "luxury",
+      "priceRange": "$190-380/night",
+      "area": "Riverside",
+      "description": "Legendary luxury property overlooking the Chao Phraya River with exceptional Thai hospitality and fine dining restaurants."
+    },
+    {
+      "name": "Park Hyatt Bangkok",
+      "category": "luxury",
+      "priceRange": "$180-360/night",
+      "area": "Central",
+      "description": "Five-star luxury hotel providing sophisticated accommodations, multiple dining venues, and impeccable service."
+    },
+    {
+      "name": "Khao San Road Budget Hotels",
+      "category": "budget",
+      "priceRange": "$15-35/night",
+      "area": "Khao San",
+      "description": "Numerous budget guesthouses and hostels throughout Khao San Road offering basic but clean accommodations ideal for backpackers."
+    },
+    {
+      "name": "Sukhumvit Mid-Range Hotels",
+      "category": "midrange",
+      "priceRange": "$50-100/night",
+      "area": "Sukhumvit",
+      "description": "Numerous three-star hotels along Sukhumvit offering reliable service, modern amenities, and excellent value in a vibrant neighborhood."
+    },
+    {
+      "name": "Dusit Thani Bangkok",
+      "category": "midrange",
+      "priceRange": "$70-130/night",
+      "area": "Central",
+      "description": "Established four-star hotel offering comfortable rooms, multiple facilities, and convenient access to shopping and entertainment."
+    }
+  ],
+  "gettingAround": "Bangkok's public transportation is affordable and efficient for navigating the sprawling metropolis. Tuk-tuks—iconic three-wheeled motorcycles—provide quick point-to-point transport but require negotiating fares beforehand; expect 50-150 THB ($1.50-4.50) for short rides. Songthaews, shared red taxis following set routes, cost only 10-20 THB (30 cents-60 cents) and offer authentic local transport. Modern ride-hailing through Grab app provides meter-regulated fares starting at reasonable rates, with professional drivers and GPS navigation—ideal for longer distances or late-night travel.\n\nFor longer distances within the city, Bangkok has BTS Skytrain and MRT subway systems offering fast, air-conditioned travel at 15-45 THB ($0.50-1.50) per trip. Motorbike rental (100-200 THB/$3-6 daily) works for experienced riders, though Bangkok traffic can be chaotic. Many travelers simply walk short distances between attractions and use tuk-tuks or Grab for longer journeys, keeping total daily transport costs under $5.",
+  "bestTimeToVisit": "Bangkok's tropical climate means it's warm year-round, but timing significantly impacts comfort. November through February represents the cool, dry season with pleasant temperatures (25-32°C) and minimal rainfall—this is peak tourist season when prices rise accordingly. December and January are particularly popular but also most crowded; expect higher hotel rates and busy attractions.\n\nMarch through May brings extreme heat (32-40°C+) with low humidity, making outdoor sightseeing exhausting. June through October is the monsoon season with heavy rainfall, especially September-October, though this period offers shoulder-season prices and fewer tourists. For the best balance of weather and crowds, visit in November or early December, or consider May if you can tolerate heat and want better prices with acceptable rainfall.",
+  "budgetGuide": {
+    "budget": {
+      "min": 20,
+      "max": 40,
+      "description": "Budget traveler daily costs: $15-25 for guesthouse (Khao San area), $5-10 for street food and local meals, $2-5 for local transport (tuk-tuks, songthaews), and free-$5 for temple visits and markets"
+    },
+    "midrange": {
+      "min": 50,
+      "max": 100,
+      "description": "Mid-range daily costs: $50-80 for three-star hotel, $15-25 for restaurant meals, $5-10 for transport, and $10-20 for paid attractions and entertainment"
+    },
+    "luxury": {
+      "min": 150,
+      "max": 400,
+      "description": "Luxury daily costs: $150-300+ for five-star resort, $40-100 for fine dining, $10-20 for private transport/Grab, and $20-50 for premium experiences and tours"
+    }
+  },
+  "safetyTips": "Bangkok is generally safe for tourists, though standard precautions apply. Avoid displaying expensive jewelry, cameras, or large amounts of cash; pickpockets operate in crowded markets and tourist areas like Khao San Road. Be cautious with street food from questionable vendors and drink bottled or filtered water. Tuk-tuk rides can be dangerous due to aggressive driving—use Grab for safer transport if uncomfortable with negotiated fares. Areas around Khao San Road have high petty crime; keep valuables secure and watch drinks carefully in bars.\n\nRespect Thai culture and royalty absolutely—defaming the royal family is illegal and taken seriously. Avoid political discussions and protests. Scams targeting tourists include gem shop schemes and overpriced tailor services—stick to established businesses. Traffic is chaotic; exercise extreme caution when crossing streets. Most neighborhoods, particularly Silom, Sukhumvit, and downtown areas, are quite safe during day and evening hours. Use common sense, stay aware of surroundings, and trust your instincts about people and situations.",
+  "faq": [
+    {
+      "question": "How much does it cost to visit the Grand Palace?",
+      "answer": "Entrance to the Grand Palace costs 500 THB (approximately $15 USD). Dress codes are strict: covered shoulders, knees, and closed-toe shoes are required. Visitors refusing dress code compliance will be denied entry."
+    },
+    {
+      "question": "What's the best way to get from Suvarnabhumi Airport to Bangkok city center?",
+      "answer": "Multiple options exist: the Airport Rail Link train (45 minutes, ~100 THB/$3) connects to the BTS system; taxi meters from airport stands cost 300-400 THB ($9-12) plus motorway tolls; Grab app offers reliable rides starting around 200-300 THB ($6-9). Journey times typically range from 45 minutes to 1.5 hours depending on traffic."
+    },
+    {
+      "question": "Is it safe to eat street food in Bangkok?",
+      "answer": "Yes, Bangkok's street food is generally safe and delicious. Choose vendors with high customer turnover and visible food preparation. Avoid raw vegetables at questionable stalls, ensure cooked food is hot, and drink bottled water. Millions of locals eat street food daily—it's a primary part of Bangkok cuisine."
+    },
+    {
+      "question": "What's the cheapest way to see Wat Pho and other temples?",
+      "answer": "Wat Pho costs only 200 THB ($6) entrance, Wat Arun is 100 THB ($3), and Bangkok National Museum is just 30 THB ($1). Many smaller temples are free. Visit early morning before crowds. Public transport (BTS/MRT) connects major temple areas for 15-45 THB per ride."
+    },
+    {
+      "question": "How long should I spend in Bangkok?",
+      "answer": "Most travelers spend 3-5 days experiencing temples, markets, food, and nightlife. Three days covers major attractions; 5-7 days allows deeper exploration of neighborhoods, museums, and side trips to floating markets. Longer stays let you develop favorite restaurants and explore beyond tourist zones."
+    },
+    {
+      "question": "Do I need to book hotels in advance during peak season?",
+      "answer": "Yes, strongly recommended. December-January is peak tourist season with higher prices and limited availability. Book 2-4 weeks ahead for luxury hotels and popular mid-range properties. Budget guesthouses often accommodate walk-ins but may charge premium prices during peak periods."
+    },
+    {
+      "question": "What should I know about Thai culture and etiquette?",
+      "answer": "Remove shoes before entering homes and temples. Never disrespect images or effigies of the Thai royal family. Buddhist temples require modest dress (covered shoulders and knees). Show respect to monks and elderly people. The Thai people highly value politeness, composure, and avoiding confrontation. Always greet with a wai (hands pressed together at chest level)."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Suvarnabhumi Airport (BKK)",
+    "travelTimeFromAirport": "45 minutes to 1.5 hours to downtown Bangkok depending on traffic and transport method",
+    "localTransport": [
+      "Tuk-tuk",
+      "Songthaew",
+      "Grab",
+      "BTS Skytrain",
+      "MRT Subway",
+      "Motorbike taxi"
+    ]
+  },
+  "enrichedAt": "2026-02-22T12:22:40.286Z"
 }

@@ -278,5 +278,158 @@
     }
   },
   "enhanced_at": "2026-02-22T00:00:00.000Z",
-  "ai_generated": true
+  "ai_generated": true,
+  "overview": "Khon Kaen stands as the unofficial capital of Isaan and the vibrant gateway to northeastern Thailand. This thriving university city of 400,000 residents seamlessly blends cultural heritage with modern energy, offering travelers an authentic glimpse into Thai regional life far from the typical tourist trail. From world-class dinosaur fossils at the Phu Wiang Dinosaur Museum to the serene Bueng Kaen Nakhon Lake with its 8-kilometer walking path, Khon Kaen delivers unforgettable experiences that showcase the best of Isaan's natural beauty, culinary traditions, and cultural treasures.",
+  "thingsToDo": "History enthusiasts should not miss the Phu Wiang Dinosaur Museum (THB 100/$3 entrance fee), home to remarkable Siamotyrannus fossils, life-size replicas, and interactive exhibits that bring prehistoric Thailand to life. The stunning Bueng Kaen Nakhon Lake offers free admission and serves as the city's recreational heart, featuring an 8-kilometer walking path perfect for sunrise or sunset strolls, with numerous lakeside food stalls offering authentic local cuisine. Cultural exploration continues at Chonnabot Silk Weaving Village, where visitors can watch artisans create traditional mudmee silk using centuries-old techniques and purchase directly from weavers, or visit Khon Kaen National Museum (THB 100/$3) to explore Dvaravati art and regional Isaan history. Spiritual seekers should ascend the nine-story Wat Nong Wang (Phra Mahathat Kaen Nakhon) for panoramic city views and lakeside serenity, while nature lovers can venture to Nam Phong National Park (THB 100/$3 entrance) to discover Tat Fa waterfall and scenic hiking trails through pristine landscapes.",
+  "whereToStay": "Khon Kaen offers diverse accommodation options across multiple price ranges and neighborhoods, making it accessible for all travel budgets. Budget-conscious travelers will find excellent value at 2-3 star hotels like Hop Inn Khon Kaen Srichan Road Building A (from $26/night) and Jamjuree Place (from $18/night), both conveniently located near the city center, Khon Kaen Train Station, and Khon Kaen University with amenities including air conditioning, free Wi-Fi, and private bathrooms. Mid-range options like Khonkaen Residence (around $31/night, located 1 mile from Kaen Nakorn Lake) provide comfortable rooms with additional amenities and better facilities for travelers seeking more comfort. Those seeking premium experiences can explore luxury properties that offer resort-style amenities, though Khon Kaen's strength lies in its exceptional value across all categories—even mid-range hotels deliver high-quality service at prices significantly lower than Western destinations.",
+  "whereToEat": [
+    {
+      "name": "Guang Tang Noodles",
+      "cuisine": "Thai Noodles",
+      "priceRange": "$",
+      "description": "Authentic local noodle shop serving traditional Thai noodle dishes with rich broths and fresh ingredients, popular with locals for quick and satisfying meals."
+    },
+    {
+      "name": "Leng Yentafo",
+      "cuisine": "Thai Street Food",
+      "priceRange": "$",
+      "description": "Casual eatery specializing in yentafo, a beloved Isaan dish, offering authentic regional flavors at minimal cost."
+    },
+    {
+      "name": "Khon Kaen Grilled Pork Neck",
+      "cuisine": "Thai Grilled Meat",
+      "priceRange": "$",
+      "description": "Specialty restaurant featuring grilled pork neck (sai oua and other grilled meats), a quintessential Isaan dish, served with sticky rice and local condiments."
+    },
+    {
+      "name": "Baan Heng",
+      "cuisine": "Thai Traditional",
+      "priceRange": "$$",
+      "description": "Established restaurant offering a range of traditional Thai and Isaan cuisine in a comfortable setting, known for consistent quality and fair pricing."
+    },
+    {
+      "name": "Prasit",
+      "cuisine": "Thai Regional",
+      "priceRange": "$$",
+      "description": "Popular local restaurant serving authentic Isaan regional dishes with emphasis on traditional preparation methods and local ingredients."
+    },
+    {
+      "name": "Kao Lao Siang Ji",
+      "cuisine": "Thai Rice Dishes",
+      "priceRange": "$",
+      "description": "Casual rice-focused restaurant offering various Thai rice dishes prepared fresh throughout the day, perfect for budget-conscious travelers."
+    },
+    {
+      "name": "Aura",
+      "cuisine": "Thai & International",
+      "priceRange": "$$",
+      "description": "Fine dining option featuring both Thai and Western cuisine set in a beautiful garden with a small waterfall, offering a more upscale dining experience."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Jamjuree Place",
+      "category": "budget",
+      "priceRange": "$18-22/night",
+      "area": "City Center",
+      "description": "2-star hotel with 30 air-conditioned rooms, each featuring a private balcony, complimentary Wi-Fi, cable TV, refrigerator, and free parking. Located within 5-minute drive of Khon Kaen University and near Ton Tann Market."
+    },
+    {
+      "name": "Hop Inn Khon Kaen Srichan Road Building A",
+      "category": "budget",
+      "priceRange": "$26-30/night",
+      "area": "Near Train Station",
+      "description": "2-star hotel offering convenient lodging just outside the city center near Khon Kaen Train Station and CentralPlaza Khon Kaen. Rooms include air conditioning, refrigerator, flat-screen TV, free Wi-Fi, and private bathroom. Accommodates up to 3 guests per room."
+    },
+    {
+      "name": "Khonkaen Residence",
+      "category": "midrange",
+      "priceRange": "$31-38/night",
+      "area": "Lake Area",
+      "description": "Well-located midrange hotel approximately 1 mile from Kaen Nakorn Lake and 1.2 miles from Khon Kaen Train Station, offering comfortable rooms with modern amenities in a convenient position for exploring the city."
+    },
+    {
+      "name": "Nadee 10 Resort & Hotel",
+      "category": "midrange",
+      "priceRange": "$40-50/night",
+      "area": "City Center",
+      "description": "Midrange resort hotel offering the perfect blend of luxury and affordability, with thoughtfully designed rooms and resort-style amenities for travelers seeking comfort without excessive expense."
+    },
+    {
+      "name": "Park Villa Chaiyaphume",
+      "category": "midrange",
+      "priceRange": "$44-50/night",
+      "area": "Chaiyaphum (50km away)",
+      "description": "Four-star guesthouse located in nearby Chaiyaphum province approximately 50 miles from Khon Kaen Airport, featuring 1-bedroom rooms, on-site garden and terrace, bar service, free bikes, and optional airport shuttle."
+    }
+  ],
+  "gettingAround": "Khon Kaen's city transport relies primarily on tuk-tuks and songthaews (shared minibuses), both inexpensive and readily available throughout the city. Tuk-tuks are ideal for short distances or when you prefer privacy, with negotiated fares typically ranging from THB 40-100 ($1-3) depending on distance, while songthaews follow fixed routes and cost only THB 10-20 (30¢-60¢) per trip, making them perfect for budget travelers exploring the city systematically. Motorbike rental (THB 150-250/$5-8 per day) provides excellent flexibility for reaching outlying attractions like Chonnabot Silk Weaving Village or Nam Phong National Park, though Thai driving standards require caution and an international driving permit. The Grab app works reliably in Khon Kaen for app-based ride-hailing with transparent pricing, and several car rental agencies operate near the city center for those preferring independent exploration. Khon Kaen Train Station offers connections to Bangkok and other Isaan cities, with trains providing a scenic and economical travel option.",
+  "bestTimeToVisit": "Khon Kaen's best travel months fall during the cool season from November through February, when temperatures range from pleasant 20-28°C (68-82°F), skies remain clear, and humidity drops significantly compared to other seasons. These months coincide with Thailand's dry season, ensuring comfortable conditions for exploring lakeside attractions, visiting cultural sites, and enjoying street food markets without the oppressive heat of March-May or the monsoon rains of June-October. December and January represent the absolute peak season with the most comfortable conditions, though slightly higher accommodation prices may apply. The months of March through May become increasingly hot and humid, with temperatures exceeding 35°C (95°F), making outdoor exploration challenging for most travelers. The monsoon season from June to October brings heavy rainfall, particularly August and September, which can limit activities and temple visiting, though prices drop and fewer tourists crowd the museums and markets during this period.",
+  "budgetGuide": {
+    "budget": {
+      "min": 20,
+      "max": 40,
+      "description": "Budget travelers can live comfortably on $20-40 daily by staying in 2-star guesthouses ($15-25/night), eating exclusively at street food markets and casual restaurants ($3-8 daily), using songthaews for transport ($0.30-0.60 per trip), and visiting free attractions like Bueng Kaen Nakhon Lake. Museum and national park entrance fees add minimal costs at THB 100 ($3) each."
+    },
+    "midrange": {
+      "min": 50,
+      "max": 100,
+      "description": "Mid-range travelers spending $50-100 daily can book 3-4 star hotels ($30-50/night), enjoy meals at established local restaurants ($5-15 per meal), use occasional tuk-tuks or Grab rides ($2-5 per ride), and comfortably afford all attractions and activities including guided tours. This range allows significant comfort while maintaining authentic local experiences."
+    },
+    "luxury": {
+      "min": 150,
+      "max": 400,
+      "description": "Luxury travelers with $150-400 daily budgets can stay at premium resorts with extensive amenities, dine at fine restaurants like Aura ($20-40 per meal), arrange private transportation and guides, and enjoy spa treatments, wellness activities, and exclusive experiences. This budget allows for the highest comfort levels while exploring Khon Kaen's attractions."
+    }
+  },
+  "safetyTips": "Khon Kaen is generally a safe city with low violent crime rates, though standard traveler precautions apply: avoid displaying expensive jewelry, cameras, or cash in crowded markets, keep valuables secure in hotel safes, and remain aware of surroundings during nighttime activities. The city's university population creates a young, vibrant atmosphere that typically ensures good security, and police presence is visible throughout main tourist areas. Traffic safety deserves attention—Thai roads feature aggressive driving patterns, so travelers should exercise extreme caution when crossing streets, riding motorbikes, or traveling by tuk-tuk, particularly after dark. Petty theft occasionally occurs in crowded night markets and on public transport, so keep backpacks in front and avoid carrying excessive cash. The tap water is generally not recommended for drinking; purchase bottled water cheaply throughout the city (THB 8-15 per bottle). Health facilities are adequate for routine care, though serious medical issues may require travel to Bangkok.",
+  "faq": [
+    {
+      "question": "How many days should I spend in Khon Kaen?",
+      "answer": "Two to three days is ideal for experiencing Khon Kaen's main attractions: one day for Phu Wiang Dinosaur Museum and Khon Kaen National Museum, one day exploring Bueng Kaen Nakhon Lake and Wat Nong Wang, and optionally a day trip to Chonnabot Silk Weaving Village or Nam Phong National Park. Longer stays allow deeper engagement with local markets and regional culture."
+    },
+    {
+      "question": "What is the entrance fee for Phu Wiang Dinosaur Museum?",
+      "answer": "The entrance fee is THB 100 (approximately $3 USD), making it one of Thailand's most affordable major museums while offering world-class fossil displays and interactive exhibits about Thailand's prehistoric past."
+    },
+    {
+      "question": "Can I visit Bueng Kaen Nakhon Lake for free?",
+      "answer": "Yes, Bueng Kaen Nakhon Lake is completely free to enter and explore. The park features an 8-kilometer walking path, sunset views, and numerous lakeside food stalls, making it perfect for budget-conscious travelers seeking recreation and authentic local atmosphere."
+    },
+    {
+      "question": "What is the best way to reach Chonnabot Silk Weaving Village from Khon Kaen city?",
+      "answer": "The village is approximately 40 kilometers from Khon Kaen city. Renting a motorbike ($5-8/day) provides the most flexible option, though hired tuk-tuks (THB 300-500 round trip with waiting time) or Grab cars can also be arranged. Many visitors hire drivers through hotels for half-day trips."
+    },
+    {
+      "question": "How much does accommodation cost in Khon Kaen?",
+      "answer": "Budget guesthouses range from THB 500-800 ($15-25/night), mid-range 3-star hotels from THB 1,000-1,500 ($30-45/night), and higher-end options from THB 1,500-3,000+ ($45-100/night). Excellent value exists across all categories compared to Western countries."
+    },
+    {
+      "question": "Is Khon Kaen suitable for budget backpackers?",
+      "answer": "Absolutely. Khon Kaen is ideal for budget travelers, with cheap accommodation ($15-25/night), inexpensive street food ($1-3 per meal), minimal transport costs (songthaews at $0.30-0.60), and affordable attractions (museums $3 each). Daily budgets of $20-30 are realistic for comfortable budget travel."
+    },
+    {
+      "question": "What is the best time to visit Khon Kaen?",
+      "answer": "November through February offers the best weather with temperatures of 20-28°C (68-82°F), clear skies, and low humidity. December and January are peak months with the most pleasant conditions, though March-May becomes very hot (35°C+) and June-October brings monsoon rains. Budget travelers may prefer shoulder seasons (March, October) for lower prices."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "nearestAirport": "Khon Kaen International Airport (KKC)",
+    "travelTimeFromAirport": "20-30 minutes by car to city center",
+    "localTransport": [
+      "Tuk-tuk",
+      "Songthaew",
+      "Motorbike rental",
+      "Grab",
+      "Train"
+    ]
+  },
+  "enrichedAt": "2026-02-22T12:45:52.226Z"
 }

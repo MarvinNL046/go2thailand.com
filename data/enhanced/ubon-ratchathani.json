@@ -276,5 +276,179 @@
       "en": "$80+",
       "nl": "$80+"
     }
-  }
+  },
+  "overview": "Ubon Ratchathani, located in Thailand's Isaan region along the Mekong River, is a hidden gem that rivals more famous Thai destinations with its unique cultural attractions and natural wonders. The city of 190,000 people is most famous for its spectacular Candle Festival held each July, where massive wax sculptures parade through the streets accompanied by traditional Mor lam music. Beyond the festival, Ubon offers breathtaking natural attractions like Sam Phan Bok (the \"Grand Canyon of Thailand\"), prehistoric cliff paintings at Pha Taem National Park, and the scenic confluence of two rivers at Khong Jiam, making it an ideal destination for travelers seeking authentic Isaan experiences away from Bangkok's crowds.",
+  "thingsToDo": "Ubon's natural attractions are among Thailand's finest. Start with Pha Taem National Park (200 THB/$6 entrance), where you can see ancient prehistoric cliff paintings dating back thousands of years and watch sunrise over the Mekong River from the viewpoint. Sam Phan Bok, free to enter and accessible December through May, features the iconic turquoise rock pools and dramatic canyon formations that earned it the \"Grand Canyon of Thailand\" nickname. For spiritual experiences, visit Wat Sirindhorn Wararam (the \"Glow Temple\") where intricate murals illuminate after sunset, or Wat Nong Bua with its striking Mahabodhi-style architecture. Nature lovers should explore Kaeng Saphu Rapids for sunset views over Laos and riverside dining, or take a boat trip at Khong Jiam to witness the confluence of the Mekong and Mun rivers. The Ubon Ratchathani National Museum (100 THB/$3) housed in a former palace building showcases Candle Festival exhibits and Isaan cultural artifacts. Evening exploration of Ratchabut Road Night Market offers authentic street food including fermented sausages, grilled chicken, and sticky rice.",
+  "whereToStay": "Ubon Ratchathani offers accommodation across all budgets, with most options concentrated in the city center near Thung Si Muang Park. Budget travelers can find comfortable guesthouses and basic hotels for $13-25 per night, offering clean rooms with essential amenities. Mid-range hotels ($30-70/night) provide better comfort, air conditioning, and often include breakfast, making them excellent value for money. These properties are typically located in the central business district within walking distance of restaurants and the night market. For luxury seekers, higher-end hotels and resorts offer superior service, often with pools and fine dining facilities, though Ubon's luxury options remain significantly cheaper than Bangkok properties. Many accommodations are within 15 minutes of Ubon Ratchathani Airport by car, and hotel staff can arrange transportation upon request.",
+  "whereToEat": [
+    {
+      "name": "SOMTUM JINDA RESTAURANT",
+      "cuisine": "Thai (Isaan)",
+      "priceRange": "$",
+      "description": "Specializes in som tam (papaya salad) and authentic Isaan dishes. A local favorite frequently mentioned in travel guides for its spicy, flavorful preparations and generous portions."
+    },
+    {
+      "name": "Indochine",
+      "cuisine": "French/International",
+      "priceRange": "$$",
+      "description": "Offers contemporary French cuisine with Asian influences in an upscale setting. Popular among travelers seeking refined dining experiences outside Thai cuisine."
+    },
+    {
+      "name": "Peppers Restaurant & Bakery",
+      "cuisine": "International/Cafe",
+      "priceRange": "$$",
+      "description": "Combines restaurant service with bakery offerings, serving Western and Thai fusion dishes. Known for quality coffee and breakfast options with a relaxed atmosphere."
+    },
+    {
+      "name": "Pak Mor Robot",
+      "cuisine": "Thai",
+      "priceRange": "$",
+      "description": "A popular local establishment serving traditional Thai cuisine at affordable prices. Frequented by both locals and tourists for authentic flavors."
+    },
+    {
+      "name": "Guay Jub Ubon",
+      "cuisine": "Thai (Soup Noodles)",
+      "priceRange": "$",
+      "description": "Specializes in guay jub, a traditional Thai soup noodle dish. An excellent choice for budget-conscious travelers seeking local comfort food."
+    },
+    {
+      "name": "Krua Samchai",
+      "cuisine": "Thai",
+      "priceRange": "$",
+      "description": "A casual Thai restaurant offering regional dishes with emphasis on fresh ingredients and traditional preparation methods."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "B2 Ubon Premier Hotel",
+      "category": "budget",
+      "priceRange": "$20-35/night",
+      "area": "City Center",
+      "description": "Budget-friendly option known for friendly staff and comfortable rooms. Offers good value with basic amenities and convenient central location for exploring the city."
+    },
+    {
+      "name": "Phadaeng Hotel",
+      "category": "budget",
+      "priceRange": "$16-28/night",
+      "area": "Downtown",
+      "description": "Affordable accommodation with clean rooms and helpful staff. Located within easy reach of restaurants, night markets, and major attractions."
+    },
+    {
+      "name": "Srisomthai Hotel",
+      "category": "budget",
+      "priceRange": "$15-25/night",
+      "area": "Central Area",
+      "description": "Budget hotel offering basic but clean rooms with air conditioning. Good choice for travelers prioritizing cost over luxury with decent service."
+    },
+    {
+      "name": "Thani Ubon Hotel",
+      "category": "midrange",
+      "priceRange": "$40-70/night",
+      "area": "City Center",
+      "description": "Mid-range property offering comfortable rooms with modern furnishings, on-site restaurant, and quality service. Well-positioned for exploring local attractions."
+    },
+    {
+      "name": "Laap Hotel",
+      "category": "midrange",
+      "priceRange": "$35-65/night",
+      "area": "Downtown",
+      "description": "Reliable mid-range hotel with spacious rooms, friendly staff, and convenient location near Thung Si Muang Park and local restaurants."
+    },
+    {
+      "name": "Ubon Hotel",
+      "category": "midrange",
+      "priceRange": "$45-75/night",
+      "area": "City Center",
+      "description": "Established mid-range hotel featuring comfortable accommodations, on-site dining, and central location within walking distance of main attractions."
+    },
+    {
+      "name": "Taladphrom Boutique Hotel",
+      "category": "midrange",
+      "priceRange": "$50-80/night",
+      "area": "Old City",
+      "description": "Charming boutique-style hotel in the historic old city area with character and personalized service. Offers blend of comfort and cultural atmosphere."
+    },
+    {
+      "name": "Amari Ubon",
+      "category": "luxury",
+      "priceRange": "$100-180/night",
+      "area": "City Center",
+      "description": "Upscale hotel featuring modern amenities, multiple dining options, fitness facilities, and excellent service standards. Premium choice for comfort-focused travelers."
+    },
+    {
+      "name": "Ban Ton Pao Resort",
+      "category": "luxury",
+      "priceRange": "$120-200/night",
+      "area": "Riverside",
+      "description": "Luxury resort with scenic Mekong River views, spa facilities, and fine dining. Offers peaceful retreat while maintaining proximity to city attractions."
+    }
+  ],
+  "gettingAround": "Ubon Ratchathani is relatively compact and easy to navigate. Tuk-tuks are the most common local transport for short distances within the city, with fares typically 30-50 THB ($1-1.50) for most trips. Songthaews (shared minibuses) operate on fixed routes and cost 10-20 THB ($0.30-0.60) per journey. For greater flexibility and day trips to attractions like Sam Phan Bok and Pha Taem, renting a car or hiring a Grab car is recommended—Grab operates in Ubon and offers more reliable pricing than negotiating with taxis. Motorbike rental is available at numerous shops and costs 150-250 THB ($5-8) per day, suitable for confident riders exploring the region. Bicycles can be rented from guesthouses for city exploration at 50-100 THB ($1.50-3) daily.",
+  "bestTimeToVisit": "Ubon Ratchathani's best visiting period is November through February, when temperatures range from 15-30°C (59-86°F) and humidity is lowest. This is the cool and dry season when exploring natural attractions like Sam Phan Bok is most pleasant. The Candle Festival in July is Ubon's signature event, attracting thousands of visitors for massive wax sculpture parades and traditional celebrations, though July falls in the monsoon season with high humidity and occasional rain. If visiting specifically for Sam Phan Bok, timing is crucial—the site is only accessible from December through May when water levels are low enough to reveal the distinctive rock formations. March through May becomes increasingly hot and uncomfortable, with temperatures exceeding 35°C (95°F). Avoid September through October due to heavy monsoon rains that can make road travel difficult and reduce visibility at natural sites.",
+  "budgetGuide": {
+    "budget": {
+      "min": 20,
+      "max": 40,
+      "description": "Budget daily costs include basic guesthouses ($13-20/night), street food and night market meals ($2-5/meal), local transport via tuk-tuk and songthaew ($1-2), and free or low-cost attractions. National park entrance fees are 200 THB ($6) maximum, and many temples are free."
+    },
+    "midrange": {
+      "min": 50,
+      "max": 100,
+      "description": "Mid-range daily costs cover 3-star hotels ($35-70/night), restaurant meals ($5-10 per meal), car rental for day trips ($40-60/day), and paid attractions including museums and national parks ($3-10 each)."
+    },
+    "luxury": {
+      "min": 150,
+      "max": 400,
+      "description": "Luxury daily costs include upscale hotels ($120-200/night), fine dining ($25-50+ per meal), private car hire with driver ($80-120/day), spa treatments ($30-60), and exclusive tours to natural attractions."
+    }
+  },
+  "safetyTips": "Ubon Ratchathani is generally a safe destination for travelers with low crime rates against tourists. Standard precautions apply: avoid displaying expensive jewelry or electronics, be cautious with valuables in crowded night markets, and use trusted taxis or Grab rather than hailing unmarked vehicles. Road safety is a consideration—if renting a motorbike, wear helmets (required by law) and drive defensively as local traffic can be chaotic. Petty theft occurs occasionally in crowded areas, so keep bags secure and valuables in hotel safes. The Mekong River and waterfalls are popular attractions but respect warning signs; drownings have occurred at unsafe locations. When visiting temples, dress respectfully with covered shoulders and knees. Tap water is generally not recommended for drinking; purchase bottled water instead. Ubon remains one of Thailand's safer cities with minimal gang activity or serious crime affecting tourists.",
+  "faq": [
+    {
+      "question": "When is the Candle Festival and how do I attend?",
+      "answer": "The Ubon Ratchathani Candle Festival is held annually in July, typically in the second week. The festival features giant wax sculptures parading through the city with traditional Mor lam music performances at Thung Si Muang Park. Entrance is free to watch from park areas, though booking accommodations in advance is strongly recommended due to high demand."
+    },
+    {
+      "question": "Is Sam Phan Bok accessible year-round?",
+      "answer": "No, Sam Phan Bok is only accessible from December through May when water levels are low enough to reveal the rock formations and turquoise pools. Visiting during monsoon season (June-October) is not recommended as heavy rainfall makes the site inaccessible and dangerous. Plan your visit accordingly."
+    },
+    {
+      "question": "How do I get from Ubon Ratchathani Airport to the city center?",
+      "answer": "Ubon Ratchathani Airport is located about 20 kilometers south of the city center, approximately 25-30 minutes by car. Rental car companies operate at the airport (book ahead online). Alternatively, arrange hotel pickup in advance, or use Grab for a fixed-price ride (typically 200-300 THB/$6-9)."
+    },
+    {
+      "question": "What is the best way to visit Pha Taem National Park?",
+      "answer": "Pha Taem National Park requires paying 200 THB ($6) entrance fee and is best visited for sunrise. The park is located about 45 kilometers from the city; hiring a private car or joining a tour is recommended over public transport. Arrive early (before 6 AM) for optimal sunrise viewing at the cliff viewpoint overlooking the Mekong River."
+    },
+    {
+      "question": "Can I visit Laos from Ubon Ratchathani?",
+      "answer": "Yes, there are border crossings nearby. The Chong Mek Border Crossing (about 110 km from Ubon) connects to Pakse, Laos. You'll need a valid passport; visa requirements depend on your nationality. Organized tours and local transport options are available, though traveling with your own rental car provides more flexibility."
+    },
+    {
+      "question": "What is the local cuisine specialty in Ubon Ratchathani?",
+      "answer": "Ubon is known for authentic Isaan cuisine, featuring som tam (spicy papaya salad), sticky rice (khao niaw), and grilled chicken (gai yang). Fermented sausages (sai oua) are a local specialty. The night markets offer excellent examples at budget prices ($1-3 per meal), and restaurants like SOMTUM JINDA provide quality versions."
+    },
+    {
+      "question": "Do I need to book hotels in advance?",
+      "answer": "Outside the July Candle Festival period, walk-in booking is usually possible for budget and mid-range hotels. However, booking 1-2 weeks in advance ensures better selection and potentially lower rates. During the Candle Festival, booking is absolutely essential as rooms fill weeks ahead."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Ubon Ratchathani Airport (UBP)",
+    "travelTimeFromAirport": "25-30 minutes by car to city center",
+    "localTransport": [
+      "Tuk-tuk",
+      "Songthaew",
+      "Grab",
+      "Motorbike rental",
+      "Car rental"
+    ]
+  },
+  "enrichedAt": "2026-02-22T12:51:40.589Z"
 }

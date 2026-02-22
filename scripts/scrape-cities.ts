@@ -1,5 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
+import dotenv from 'dotenv';
+dotenv.config({ path: path.join(process.cwd(), '.env.local') });
 import { jinaSearch } from '../lib/jina';
 import { generateWithClaude } from './lib/claude';
 

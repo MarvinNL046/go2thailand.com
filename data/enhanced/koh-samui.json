@@ -19,7 +19,7 @@
     "Fisherman's Village"
   ],
   "location": {
-    "lat": 9.5120,
+    "lat": 9.512,
     "lng": 100.0136
   },
   "image": "/images/cities/phuket/phuket-old-town.webp",
@@ -276,5 +276,198 @@
       "en": "$200+",
       "nl": "$200+"
     }
-  }
+  },
+  "overview": "Koh Samui, Thailand's second-largest island, is a tropical paradise located in the Gulf of Thailand within Surat Thani Province. With a population of around 63,000, this island has evolved into a sophisticated blend of natural beauty and luxury tourism, famous for its palm-fringed beaches, world-class resorts, and iconic landmarks like the Big Buddha Temple. From the vibrant 3km stretch of Chaweng Beach with its thriving nightlife to the serene Fisherman's Village in Bophut, Koh Samui offers diverse experiences for every type of traveler. The island serves as a gateway to the Ang Thong Marine Park, featuring 42 islands perfect for kayaking and snorkeling, while maintaining pristine natural attractions like Na Muang Waterfall and the unique Secret Buddha Garden.",
+  "thingsToDo": "Koh Samui's attractions span cultural landmarks, natural wonders, and water activities. The iconic Big Buddha Temple (Wat Phra Yai) features a stunning 12-meter golden Buddha statue with panoramic sea views and an ornate Naga staircase—free to visit and best explored early morning. Chaweng Beach remains the island's most popular destination with 3km of white sand, offering water sports, beachside dining, and evening entertainment. For nature lovers, Ang Thong National Marine Park (300 THB/$9 entrance) showcases 42 islands with the famous emerald lake viewpoint and excellent kayaking opportunities. Cultural exploration continues at Wat Plai Laem with its distinctive 18-armed Guanyin statue set against a lakeside backdrop, while adventure seekers can hike to Na Muang Waterfall's natural swimming pools or visit the Samui Elephant Sanctuary (2,500 THB/$72) for ethical wildlife encounters. Don't miss Fisherman's Village Bophut's Friday Night Market featuring old Chinese shophouses and beachfront dining, or the hidden Secret Buddha Garden (80 THB/$2) accessible by 4WD through jungle terrain.",
+  "whereToStay": "Koh Samui accommodates all budgets with diverse neighborhoods offering distinct experiences. The beachfront areas command premium prices—Chaweng offers proximity to nightlife and restaurants (2,500-6,000 THB/$75-180 per night for mid-range to boutique hotels), while quieter Lamai Beach provides relaxation near the distinctive Hin Ta Hin Yai rock formations. Bophut's Fisherman's Village blends cultural charm with upscale amenities, appealing to travelers seeking authentic experiences with modern comfort. Maenam Beach offers the island's most affordable options with traditional fishing village atmosphere and Koh Phangan views across the water. For long-term stays and digital nomads, monthly house rentals provide exceptional value: basic Thai houses start at 12,000-18,000 THB/month, mid-range modern homes rent for 20,000-30,000 THB/month with air-conditioning and Wi-Fi, and luxury pool villas reach 35,000-40,000+ THB/month. Hostels and budget guesthouses run 250-500 THB for shared beds and 600-1,200 THB for basic double rooms, making Samui accessible for backpackers while offering luxury villa experiences for those seeking indulgence.",
+  "whereToEat": [
+    {
+      "name": "Long Dtai",
+      "cuisine": "Thai, Seafood",
+      "priceRange": "$$$",
+      "description": "Located on secluded Cape Fahn private island accessible only by sea tractor or speedboat, Long Dtai features exceptional southern Thai cuisine curated by superstar chef David Thompson. The menu showcases local produce, sustainably sourced seafood, and line-caught fish with panoramic ocean vistas, including dishes like massaman curry and palm sugar dumplings in jasmine syrup."
+    },
+    {
+      "name": "The Rum Vault",
+      "cuisine": "International, Cocktails",
+      "priceRange": "$$$",
+      "description": "Located at Four Seasons Resort, this intimate wood-panelled rum library offers an extensive collection of the world's finest spirits with master mixologists guiding connoisseurs through curated tastings and craft cocktails. It's a must-visit luxury experience inspired by The White Lotus series."
+    },
+    {
+      "name": "The Nature Samui",
+      "cuisine": "Thai, Farm-to-Table",
+      "priceRange": "$$",
+      "description": "Hidden among verdant gardens and lotus ponds near the Samui Elephant Sanctuary, this farm-to-table retreat offers sustainable dining with opportunities to handpick organic ingredients and participate in interactive cooking classes. Their coconut milk and banana dessert is particularly noteworthy."
+    },
+    {
+      "name": "Chi Samui",
+      "cuisine": "International, Beach Club",
+      "priceRange": "$$$",
+      "description": "Chi Samui channels Ibiza's sultry spirit with beachfront dining, fire dance shows, and sophisticated cocktails. This beach club combines stunning ocean views with upscale dining and entertainment in a vibrant atmosphere."
+    },
+    {
+      "name": "Ko Seng",
+      "cuisine": "Thai",
+      "priceRange": "$",
+      "description": "A MICHELIN-listed Thai restaurant offering authentic local cuisine at accessible prices, making it a favorite among both tourists and locals seeking genuine flavors."
+    },
+    {
+      "name": "Kapi Sator",
+      "cuisine": "Thai, Seafood",
+      "priceRange": "$$",
+      "description": "Located on Soi Had Chaweng 5, this MICHELIN-recognized restaurant serves Thai seafood specialties in a convenient beachfront location with authentic preparation methods."
+    },
+    {
+      "name": "Bang Por Seafood Takho",
+      "cuisine": "Thai, Seafood",
+      "priceRange": "$$",
+      "description": "A MICHELIN-listed seafood restaurant offering fresh Thai-prepared catches with traditional recipes and genuine local flavors in a casual, relaxed setting."
+    },
+    {
+      "name": "Koh Thai Kitchen",
+      "cuisine": "Thai",
+      "priceRange": "$",
+      "description": "A MICHELIN-recognized Thai kitchen serving authentic local dishes in a casual, accessible format perfect for experiencing genuine Thai cuisine without premium pricing."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Four Seasons Resort Samui",
+      "category": "luxury",
+      "priceRange": "$200-400/night",
+      "area": "Beachfront",
+      "description": "A prestigious resort discreetly set within a former coconut plantation featuring sprawling suites with private pools, jaw-dropping ocean vistas, and world-class dining including The Rum Vault rum library. Recently featured in HBO's The White Lotus season 3."
+    },
+    {
+      "name": "Cape Fahn Hotel",
+      "category": "luxury",
+      "priceRange": "$150-300/night",
+      "area": "Cape Fahn",
+      "description": "An exclusive beachfront property hosting the acclaimed Long Dtai restaurant and offering direct access to pristine private beaches with boutique accommodations and personalized service."
+    },
+    {
+      "name": "Centara Grand Beach Resort Samui",
+      "category": "midrange",
+      "priceRange": "$80-150/night",
+      "area": "Chaweng Beach",
+      "description": "A well-established beachfront resort on Koh Samui's most popular beach offering comfortable rooms with sea views, multiple restaurants, and direct beach access with water sports facilities."
+    },
+    {
+      "name": "Angsana Laguna Phuket Samui",
+      "category": "midrange",
+      "priceRange": "$60-120/night",
+      "area": "Lagoon Area",
+      "description": "A resort-style property featuring lagoon-view rooms, family-friendly amenities, and convenient access to main attractions with reasonable rates for mid-range travelers."
+    },
+    {
+      "name": "Bophut Beach Hotel",
+      "category": "midrange",
+      "priceRange": "$70-130/night",
+      "area": "Bophut",
+      "description": "A charming property in the Fisherman's Village area offering beachfront rooms, traditional Thai design elements, and proximity to Friday night markets and local dining."
+    },
+    {
+      "name": "The Library",
+      "category": "luxury",
+      "priceRange": "$120-250/night",
+      "area": "Lamai Beach",
+      "description": "A chic boutique resort known for modern minimalist design, stylish accommodations, excellent restaurants, and a vibrant beach club atmosphere appealing to sophisticated travelers."
+    },
+    {
+      "name": "Samui First House",
+      "category": "budget",
+      "priceRange": "$20-45/night",
+      "area": "Chaweng",
+      "description": "An affordable guesthouse offering basic but clean rooms in central Chaweng with easy access to beaches, restaurants, and nightlife, ideal for budget travelers."
+    },
+    {
+      "name": "P.S. Guesthouse",
+      "category": "budget",
+      "priceRange": "$18-40/night",
+      "area": "Maenam",
+      "description": "A backpacker-friendly guesthouse in quieter Maenam Beach area providing dorm beds and simple private rooms with basic amenities at very affordable rates."
+    },
+    {
+      "name": "Lamai Wanta",
+      "category": "budget",
+      "priceRange": "$22-50/night",
+      "area": "Lamai Beach",
+      "description": "A budget resort offering beachfront access on Lamai's quieter side with simple but adequate rooms, beach restaurant, and relaxed atmosphere perfect for budget-conscious travelers."
+    },
+    {
+      "name": "Nora Beach Resort & Spa",
+      "category": "luxury",
+      "priceRange": "$140-280/night",
+      "area": "North Coast",
+      "description": "A secluded luxury resort on Koh Samui's quieter north coast featuring spa facilities, private beach access, romantic settings for couples, and personalized service in an intimate environment."
+    }
+  ],
+  "gettingAround": "Koh Samui offers multiple transportation options for exploring the island's attractions. Tuk-tuks remain the most iconic choice for short distances within beaches and towns, though prices should be negotiated beforehand (typically 100-300 THB for short trips). Songthaews (shared red trucks) operate fixed routes between major areas like Chaweng, Lamai, and Bophut at 20-50 THB per person, making them ideal for budget travelers. For greater independence, motorbike rentals cost 150-300 THB daily and provide flexibility to explore beaches and inland attractions, though international driving permits are recommended. The mobile app Grab operates on Koh Samui offering metered motorcycle and car rides with transparent pricing, eliminating haggling and providing safety through GPS tracking. Renting a car or ATV ranges from 500-1,000 THB daily and suits travelers planning multi-beach itineraries, particularly for visiting the Secret Buddha Garden which requires 4WD access.",
+  "bestTimeToVisit": "Koh Samui's ideal travel window is November through February, when dry weather, gentle breezes, and calm seas create perfect conditions for beach activities and island-hopping excursions to Ang Thong Marine Park. December and January represent peak season with abundant sunshine, temperatures around 28-30°C (82-86°F), and minimal rainfall, though accommodations book quickly and prices increase. February extends this excellent weather window with slightly fewer crowds while maintaining dry conditions. March through May brings hot, humid conditions with temperatures exceeding 33°C (91°F) and occasional afternoon showers, making beach days less comfortable but reducing tourist numbers significantly. The southwest monsoon season from May through October brings heavy rainfall, choppy seas, and increased humidity; while some rain-resistant travelers visit during these months for lower prices and fewer crowds, water sports become risky and visibility for snorkeling diminishes considerably. Avoid September and October entirely when rainfall peaks and typhoon risks increase, making island visits treacherous.",
+  "budgetGuide": {
+    "budget": {
+      "min": 20,
+      "max": 40,
+      "description": "Budget travelers can subsist on 20-40 USD daily: sleep in hostels or basic guesthouses (250-500 THB/$7-15), eat street food and local restaurants (50-100 THB per meal/$1.50-3), use songthaews and tuk-tuks for transport (50-100 THB/$1.50-3 daily), and visit free attractions like beaches and Big Buddha Temple. This allows occasional paid activities like Ang Thong Marine Park."
+    },
+    "midrange": {
+      "min": 50,
+      "max": 100,
+      "description": "Mid-range travelers spending 50-100 USD daily can stay in 3-star hotels (1,500-3,000 THB/$45-90), dine at quality restaurants (200-400 THB per meal/$6-12), enjoy organized tours and activities (800-2,000 THB/$24-60), and use convenient transport like Grab rides. This budget accommodates comfort without luxury indulgences."
+    },
+    "luxury": {
+      "min": 150,
+      "max": 400,
+      "description": "Luxury travelers spending 150-400 USD daily stay in 5-star resorts (4,000-15,000+ THB/$120-450), dine at fine restaurants and beachclubs (1,000-3,000 THB per meal/$30-90), book private tours and water activities (3,000-8,000 THB/$90-240), and enjoy spa treatments and exclusive experiences. This includes premium accommodations at Four Seasons and similar properties."
+    }
+  },
+  "safetyTips": "Koh Samui is generally safe for tourists, though standard precautions apply: avoid walking alone late night in Chaweng's nightlife areas where theft and drink-spiking occasionally occur, keep valuables secure in hotel safes rather than on beaches, and be cautious with motorbike rentals—wear helmets (legally required), drive defensively on narrow island roads, and avoid riding under influence. Water safety requires attention during monsoon months (May-October) when strong currents and rough seas make swimming dangerous, particularly on exposed beaches. Use designated swimming areas at busy beaches where lifeguards operate. Petty theft occurs in crowded areas and beaches; secure bags while swimming and avoid displaying expensive jewelry, cameras, or large cash amounts. Traffic accidents represent the primary danger; Thai drivers may ignore traffic rules, so exercise extreme caution when crossing roads or riding motorbikes. Respect local customs by avoiding disrespect to the Thai royal family and being mindful at temples—dress modestly and remove shoes when entering religious spaces.",
+  "faq": [
+    {
+      "question": "What is the best time to visit Koh Samui?",
+      "answer": "November through February offers the best weather with dry conditions, calm seas, and temperatures around 28-30°C (82-86°F). December and January are peak season with highest prices, while February provides similar weather with fewer crowds. Avoid September and October during peak monsoon season when heavy rainfall and typhoon risks make island activities treacherous."
+    },
+    {
+      "question": "How much does it cost to visit Koh Samui per day?",
+      "answer": "Budget travelers can visit on 20-40 USD daily with hostel stays and street food. Mid-range travelers spend 50-100 USD daily staying in 3-star hotels and mid-range restaurants. Luxury travelers should budget 150-400 USD daily for 5-star resorts and fine dining experiences. Paid attractions like Ang Thong Marine Park cost 300 THB ($9) and the Samui Elephant Sanctuary costs 2,500 THB ($72)."
+    },
+    {
+      "question": "How do I get around Koh Samui?",
+      "answer": "Tuk-tuks (100-300 THB for short trips), songthaews/shared trucks (20-50 THB per person), and Grab app rides provide convenient transport. Motorbike rentals (150-300 THB daily) offer independence, while car/ATV rentals (500-1,000 THB daily) suit multi-destination exploration. All methods are widely available and affordable for tourists."
+    },
+    {
+      "question": "Is Koh Samui safe for tourists?",
+      "answer": "Yes, Koh Samui is generally safe. Standard precautions include avoiding late-night walks in Chaweng's nightlife areas, securing valuables in hotel safes, wearing helmets on motorbikes, and exercising caution crossing roads. Petty theft occurs in crowded areas, so avoid displaying expensive items. Water safety requires attention during monsoon months (May-October) when currents are dangerous."
+    },
+    {
+      "question": "What are the main attractions in Koh Samui?",
+      "answer": "Top attractions include the Big Buddha Temple (Wat Phra Yai) with free entry and panoramic views, Chaweng Beach (3km of white sand), Ang Thong Marine Park (300 THB/$9 with 42 islands and kayaking), Fisherman's Village Bophut with Friday night markets, Lamai Beach with Hin Ta Hin Yai rock formations, Na Muang Waterfall, and the Samui Elephant Sanctuary (2,500 THB/$72)."
+    },
+    {
+      "question": "What is the average hotel cost in Koh Samui?",
+      "answer": "Budget guesthouses cost 600-1,200 THB ($18-36) per night. Mid-range 3-star hotels range from 1,500-3,000 THB ($45-90) daily. Luxury beachfront resorts and boutique hotels cost 2,500-6,000+ THB ($75-180) nightly. For long-term stays, house rentals provide better value at 12,000-40,000 THB ($360-1,200) monthly depending on location and amenities."
+    },
+    {
+      "question": "Do I need a visa to visit Koh Samui?",
+      "answer": "Visa requirements depend on your nationality. Most Western tourists receive 30-day visa exemptions upon arrival at Thai immigration. Check with your country's Thai embassy for specific requirements. The nearest airport is Samui International Airport (USM), approximately 20-30 minutes by car from major beaches, with flight connections to Bangkok and other Thai destinations."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Samui International Airport (USM)",
+    "travelTimeFromAirport": "20-30 minutes by car/tuk-tuk to major beaches",
+    "localTransport": [
+      "Tuk-tuk",
+      "Songthaew (shared red truck)",
+      "Motorbike rental",
+      "Car/ATV rental",
+      "Grab app (motorcycle and car rides)"
+    ]
+  },
+  "enrichedAt": "2026-02-22T13:04:44.219Z"
 }

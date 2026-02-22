@@ -278,5 +278,184 @@
     }
   },
   "enhanced_at": "2026-02-22T10:00:00.000Z",
-  "ai_generated": true
+  "ai_generated": true,
+  "overview": "Lopburi is a captivating Central Thai city that seamlessly blends ancient history with quirky modern charm. Once serving as the second capital under King Narai the Great in the 17th century, this city of 58,000 residents is famous worldwide for its population of free-roaming macaque monkeys that inhabit its temples and shrines. The city's rich Khmer heritage is evident in its well-preserved architectural ruins, including the iconic Prang Sam Yot temple with its distinctive three prangs, making it a must-visit destination for history enthusiasts and wildlife lovers alike.",
+  "thingsToDo": "Lopburi's main attraction is undoubtedly Prang Sam Yot (the Monkey Temple), featuring stunning Khmer architecture and hundreds of resident macaques. The entrance fee is just 50 THB ($1 USD), making it an incredible bargain. The adjacent San Phra Kan Shrine (free entry) serves as the unofficial headquarters for the monkeys and offers an authentic glimpse into local worship practices. History buffs should explore King Narai's Palace (Narai Ratchaniwet) for 150 THB ($4 USD), a 17th-century masterpiece showcasing mixed architectural styles, and the Narai National Museum (also 150 THB/$4 USD) which houses impressive Lopburi-period artifacts and Khmer sculptures. Don't miss Wat Phra Si Ratana Mahathat Lopburi (50 THB/$1 USD) with its beautiful Khmer laterite prang, or the historic Ban Vichayen ruins (50 THB/$1 USD), the residence of 17th-century European diplomat Constantine Phaulkon that reveals fascinating European-Thai connections. For nature lovers, the Phra Narai Ratchaniwet Gardens offer free access to lotus ponds and ancient trees, while seasonal sunflower fields provide stunning photo opportunities with no entrance fee.",
+  "whereToStay": "Lopburi offers accommodation across all budget ranges, primarily concentrated in the city center near major attractions. Budget travelers can find guesthouses and basic hotels for $15-30 per night, offering clean rooms and essential amenities. Mid-range options ($40-80 per night) provide better comfort with modern furnishings, air conditioning, and included breakfast, often featuring Thai buffets. The city also has several upscale resorts and hotels ($100-200+ per night) offering enhanced services and facilities. Most accommodations are within walking distance or a short tuk-tuk ride from Prang Sam Yot and other key attractions, making exploration convenient. Many hotels provide bicycle rentals, which is an excellent way to navigate the relatively compact city and avoid monkey-related encounters in less-crowded areas.",
+  "whereToEat": [
+    {
+      "name": "Local Street Food Markets",
+      "cuisine": "Thai Street Food",
+      "priceRange": "$",
+      "description": "Explore Lopburi's vibrant street food scene at night markets offering pad thai, khao soi, and grilled meats at incredibly low prices. Fresh, authentic flavors at 30-50 THB per dish."
+    },
+    {
+      "name": "Lopburi Traditional Restaurants",
+      "cuisine": "Thai",
+      "priceRange": "$$",
+      "description": "Family-run establishments serving regional specialties and classic Thai dishes. Most main courses range from 60-120 THB with generous portions and home-cooked quality."
+    },
+    {
+      "name": "Riverside Cafes",
+      "cuisine": "Thai & International",
+      "priceRange": "$$",
+      "description": "Casual dining spots near the Pasak Jolasit Dam area offering Thai and some international options with pleasant outdoor seating overlooking water views."
+    },
+    {
+      "name": "Morning Sticky Rice & Soup Vendors",
+      "cuisine": "Thai Breakfast",
+      "priceRange": "$",
+      "description": "Authentic breakfast experiences featuring sticky rice with grilled chicken, rice soups, and traditional Thai desserts available before 10 AM at street stalls."
+    },
+    {
+      "name": "Night Market Grilled Meats",
+      "cuisine": "Grilled & BBQ",
+      "priceRange": "$",
+      "description": "Vendors specializing in grilled chicken, pork skewers, and sausages served with sticky rice. Popular with locals, offering authentic flavors at bargain prices."
+    },
+    {
+      "name": "Central Lopburi Dining Establishments",
+      "cuisine": "Thai & Fusion",
+      "priceRange": "$$",
+      "description": "Mid-range restaurants in the city center offering air-conditioned comfort, reliable service, and menus with both traditional and contemporary Thai dishes."
+    },
+    {
+      "name": "Noodle & Soup Specialist Shops",
+      "cuisine": "Thai Noodles",
+      "priceRange": "$",
+      "description": "Quick-service eateries featuring boat noodles, crispy noodles, and various noodle soups. Perfect for lunch with prices under 50 THB for a full meal."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Tatiphob",
+      "category": "budget",
+      "priceRange": "$25-35/night",
+      "area": "Lopburi City Center",
+      "description": "Highly-rated clean and newly renovated accommodation in the city center with free Wi-Fi, parking, and breakfast. Exceptional reviews (9.3/10) praise the friendly staff."
+    },
+    {
+      "name": "HOP INN Lopburi",
+      "category": "budget",
+      "priceRange": "$20-30/night",
+      "area": "Lopburi City Center",
+      "description": "Budget-friendly option with basic but comfortable rooms, free Wi-Fi, and convenient access to major attractions. Good value for money with convenient downtown location."
+    },
+    {
+      "name": "Lopburi Inn",
+      "category": "budget",
+      "priceRange": "$25-35/night",
+      "area": "Lopburi City Center",
+      "description": "Well-reviewed guesthouse offering clean rooms and helpful staff in a central location. Rating of 8.5/10 with positive traveler feedback on hospitality."
+    },
+    {
+      "name": "Benjatara Boutique Resort",
+      "category": "midrange",
+      "priceRange": "$20-30/night",
+      "area": "Lopburi City Center",
+      "description": "Charming boutique resort with large rooms, free Wi-Fi, parking, and 24-hour front desk. Thai buffet breakfast included; convenient downtown location near attractions."
+    },
+    {
+      "name": "Rawanda Resort Hotel",
+      "category": "midrange",
+      "priceRange": "$30-45/night",
+      "area": "Outside City Center",
+      "description": "Spacious mid-range resort with large rooms, some featuring garden views, free breakfast rice soup, and parking. Located 7 minutes from Lopburi offering good value."
+    },
+    {
+      "name": "Lopburi Inn Resort",
+      "category": "midrange",
+      "priceRange": "$35-50/night",
+      "area": "Lopburi City Center",
+      "description": "Established resort property with 8.5/10 rating from 222 reviews. Offers comfortable rooms and centrally located access to temples and historical sites."
+    },
+    {
+      "name": "Tokyo Hotel",
+      "category": "midrange",
+      "priceRange": "$30-45/night",
+      "area": "Lopburi City Center",
+      "description": "Reliable mid-range option rated 8.4/10 with clean rooms, essential amenities, and central location convenient for exploring Lopburi's attractions."
+    },
+    {
+      "name": "MRK Resort & Massage",
+      "category": "midrange",
+      "priceRange": "$35-55/night",
+      "area": "Lopburi City Center",
+      "description": "Resort property rated 8.0/10 featuring 165 positive reviews. Offers wellness facilities including on-site massage services and comfortable accommodation."
+    },
+    {
+      "name": "Windsor Resort",
+      "category": "luxury",
+      "priceRange": "$120-180/night",
+      "area": "Lopburi",
+      "description": "Premium resort option offering luxury accommodations, comprehensive amenities, and enhanced service levels for travelers seeking upscale comfort in Lopburi."
+    }
+  ],
+  "gettingAround": "Lopburi is a compact city easily navigable on foot or by bicycle for main attractions. Tuk-tuks are the primary local transport option, with short journeys typically costing 30-60 THB ($1-2 USD) within the city center. Songthaews (shared red taxis) operate on fixed routes for even cheaper fares. Grab (the Southeast Asian ride-hailing app) is increasingly available for more predictable pricing and door-to-door service. Many hotels offer bicycle rentals for 50-100 THB per day, ideal for exploring at a leisurely pace and avoiding monkey-crowded areas during peak times. For longer distances or day trips to nearby attractions, taxis and car rentals with drivers are available through hotels.",
+  "bestTimeToVisit": "The best time to visit Lopburi is during the cool, dry season from November to February, when temperatures are most comfortable (typically 15-28°C) and rainfall is minimal. This period coincides with the famous Monkey Festival in November, an annual celebration of the city's macaque population featuring parades, traditional performances, and the unique sight of providing feasts to thousands of monkeys. December and January offer pleasant weather without the festival crowds if you prefer a quieter experience. Avoid the hot season (March-May) when temperatures exceed 35°C, making daytime sightseeing uncomfortable, and the rainy season (June-October) when monsoon rains can limit outdoor activities and make temple exploration muddy.",
+  "budgetGuide": {
+    "budget": {
+      "min": 20,
+      "max": 40,
+      "description": "Budget travelers can expect to spend $20-40 daily staying in guesthouses ($15-25/night), eating at street food markets and local restaurants ($3-8/day), and visiting attractions ($1-4 per site). Transportation via tuk-tuk and songthaew adds minimal costs ($2-3/day)."
+    },
+    "midrange": {
+      "min": 50,
+      "max": 100,
+      "description": "Mid-range travelers spending $50-100 daily stay in comfortable 3-star hotels ($30-60/night), dine at mid-range restaurants and some cafe stops ($12-20/day), enjoy attractions ($5-10/day), and may hire taxis for convenience ($3-5/day)."
+    },
+    "luxury": {
+      "min": 150,
+      "max": 400,
+      "description": "Luxury travelers budgeting $150-400+ daily stay at premium resorts ($120-200+/night), enjoy fine dining and upscale restaurants ($40-80/day), hire private tours and drivers ($50-100/day), and have unrestricted spending on premium experiences."
+    }
+  },
+  "safetyTips": "Lopburi is generally a very safe destination with low violent crime rates. The primary safety concern is the macaque monkeys—they are opportunistic and can be aggressive if they perceive food or shiny objects. Secure all belongings, avoid feeding monkeys, keep bags zipped and close to your body, and remove sunglasses/jewelry that might attract them. Stay alert at Prang Sam Yot and San Phra Kan Shrine where monkeys are most concentrated. Avoid walking alone late at night in poorly lit areas, though the city center is relatively safe. Standard travel precautions apply: use registered taxis or Grab rather than hailing random vehicles, avoid displaying expensive electronics, and keep valuables in hotel safes. Traffic accidents pose greater risk than crime; exercise caution when crossing streets.",
+  "faq": [
+    {
+      "question": "Why is Lopburi famous for monkeys?",
+      "answer": "Thousands of macaque monkeys inhabit Lopburi's temples and streets, particularly around Prang Sam Yot and San Phra Kan Shrine. The monkeys are descendants of a population that has lived in these sacred sites for centuries, and locals traditionally feed them during religious ceremonies. The annual Monkey Festival in November celebrates this unique coexistence."
+    },
+    {
+      "question": "Is it safe to visit the temples with monkeys?",
+      "answer": "Yes, but exercise caution. The monkeys are generally not aggressive unless they feel threatened or perceive food/valuables. Keep bags secured, avoid making direct eye contact with aggressive monkeys, and never feed them. Use the buddy system, stay with guides if unsure, and visit during daytime hours when more people are present."
+    },
+    {
+      "question": "How much does it cost to visit Lopburi's main attractions?",
+      "answer": "Entrance fees are very affordable: Prang Sam Yot is 50 THB ($1 USD), King Narai's Palace is 150 THB ($4 USD), Narai National Museum is 150 THB ($4 USD), Wat Phra Si Ratana Mahathat is 50 THB ($1 USD), and Ban Vichayen is 50 THB ($1 USD). San Phra Kan Shrine and gardens are free."
+    },
+    {
+      "question": "When is the best time to visit Lopburi?",
+      "answer": "November to February is ideal, with cool, dry weather (15-28°C). November is special for the Monkey Festival. December-January offers pleasant weather without festival crowds. Avoid March-May (extreme heat above 35°C) and June-October (monsoon season with heavy rainfall)."
+    },
+    {
+      "question": "What's special about King Narai the Great and Lopburi?",
+      "answer": "King Narai (1656-1688) made Lopburi his second capital during the Ayutthaya period, transforming it into a major administrative and cultural center. He developed the impressive Narai Ratchaniwet Palace and established diplomatic relations with European nations. The city's historical significance remains evident in its well-preserved 17th-century structures."
+    },
+    {
+      "question": "How do I get to Lopburi from Bangkok?",
+      "answer": "Lopburi is approximately 150 km north of Bangkok (about 2.5-3 hours by car or bus). Regular buses depart from Bangkok's Northern Bus Terminal (Mo Chit) with frequent daily services costing 80-150 THB ($2-4 USD). Trains also connect the cities via Lopburi Railway Station."
+    },
+    {
+      "question": "Can I see the Monkey Festival if I visit?",
+      "answer": "The Monkey Festival occurs annually in November and features parades, traditional performances, and a unique monkey feast. If you can't visit during the festival, Lopburi's monkeys are active year-round at Prang Sam Yot and San Phra Kan, though they're less concentrated outside festival season."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Suvarnabhumi Airport (BKK), Bangkok - 150 km south",
+    "travelTimeFromAirport": "2.5-3 hours by car or bus from Bangkok",
+    "localTransport": [
+      "Tuk-tuk",
+      "Songthaew",
+      "Bicycle rental",
+      "Grab"
+    ]
+  },
+  "enrichedAt": "2026-02-22T12:57:11.535Z"
 }

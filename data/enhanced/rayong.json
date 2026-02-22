@@ -278,5 +278,198 @@
     }
   },
   "enhanced_at": "2026-02-22T10:00:00.000Z",
-  "ai_generated": true
+  "ai_generated": true,
+  "overview": "Rayong is a coastal gem located east of Bangkok, serving as the gateway to Thailand's beloved Koh Samet Island while offering its own relaxed charm away from Bangkok's hustle. This provincial capital combines pristine beaches, fresh seafood dining, and tropical fruit orchards into a perfect weekend escape or longer retreat. With a population of just 65,000, Rayong maintains an authentic Thai atmosphere that appeals to travelers seeking authentic experiences without overwhelming tourist infrastructure.",
+  "thingsToDo": "The crown jewel of Rayong is undoubtedly Koh Samet Island, accessible via ferry from Ban Phe Fishing Village with a 200 THB ($6 USD) national park entrance fee. The island features white sand beaches, crystal-clear waters, and vibrant beachfront nightlife, making it ideal for both relaxation and evening entertainment. On the mainland, Mae Ramphueng Beach offers 12 kilometers of uncrowded sandy shores with excellent fresh seafood restaurants lining the coast—free to access and perfect for a leisurely beach day. For a unique experience, visit Rayong's tropical fruit orchards (100 THB/$3 USD entry) during the peak season from April to June, where you can pick your own fruit and taste fresh durian. Don't miss Sai Kaew Beach (also called Diamond Beach) with its powder-white sand, water sports opportunities, and nightly fire shows, all without entrance fees. The Rayong Aquarium (50 THB/$1 USD) provides educational marine exhibits and family-friendly activities, while Khao Laem Ya-Mu Ko Samet National Park (200 THB/$6 USD) offers coastal viewpoints and tide pools spanning both island and mainland sections.",
+  "whereToStay": "Rayong accommodates all budget levels with options ranging from beachfront luxury resorts to budget guesthouses. The town offers several internationally recognized chains like Novotel Rayong Star Convention Centre and Hilton Garden Inn Rayong for those seeking familiar comfort, while properties like Le Vimarn Cottages & Spa and Paradee provide luxury experiences with Thai character. Mid-range options are abundant throughout the city center and beach areas, offering good value at 50-100 USD per night. For budget travelers, numerous guesthouses and smaller hotels operate around 15-30 USD per night near the beaches and city center. Koh Samet itself features accommodations directly on the island, from basic beachfront bungalows to upscale resorts like those overlooking Ao Prao Beach on the west coast, which offers peaceful sunsets and a more exclusive atmosphere.",
+  "whereToEat": [
+    {
+      "name": "The Kitt & Food",
+      "cuisine": "Western-style",
+      "priceRange": "$$-$$$",
+      "description": "Located right on the beach in Koh Samet with beautiful ocean views, this restaurant offers tasty international cuisine in a beachfront setting perfect for couples and families looking to unwind."
+    },
+    {
+      "name": "Breeze Restaurant",
+      "cuisine": "Southeast Asian",
+      "priceRange": "$$-$$$",
+      "description": "Ranked as the top restaurant for views and experiences in Koh Samet, Breeze offers exceptional service with attentive staff and authentic Thai cuisine in a scenic setting."
+    },
+    {
+      "name": "Samed Villa Restaurant",
+      "cuisine": "Seafood",
+      "priceRange": "$",
+      "description": "A hidden gem on Koh Samet offering creative menus with standout dishes like Chicken with Cashew Nuts, providing excellent value and a cozy atmosphere ideal for families."
+    },
+    {
+      "name": "Nice Easy",
+      "cuisine": "Southeast Asian",
+      "priceRange": "$",
+      "description": "Known for great prices and generous portions, Nice Easy specializes in authentic Thai curries including their highly recommended yellow fried curry with prawns."
+    },
+    {
+      "name": "Tubtim Resort Restaurant",
+      "cuisine": "Seafood",
+      "priceRange": "$",
+      "description": "Offering a wide variety of delicious seafood at fair prices, this restaurant provides excellent value for meals during stays on Koh Samet."
+    },
+    {
+      "name": "Ploy Talay",
+      "cuisine": "Bars/Bistros",
+      "priceRange": "$$-$$$",
+      "description": "A charming beachfront establishment known for its nightly fire show, creating a unique and fun dining experience with reasonably priced food and drinks."
+    },
+    {
+      "name": "Tamnanpar",
+      "cuisine": "Asian Cuisine",
+      "priceRange": "$",
+      "description": "A local favorite in Rayong city offering authentic Asian dishes at budget-friendly prices with genuine Thai culinary traditions."
+    },
+    {
+      "name": "Holiday Cafe",
+      "cuisine": "Specialty Coffee & Beach Bar",
+      "priceRange": "$$",
+      "description": "Located within Moment Villa hotel in Klaeng District with stunning ocean views, this pet-friendly cafe serves excellent specialty coffee starting at 80 THB with live music and DJ sessions available."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Novotel Rayong Star Convention Centre",
+      "category": "luxury",
+      "priceRange": "$120-180/night",
+      "area": "Rayong City Center",
+      "description": "An international 4-star property offering modern amenities, convention facilities, and professional service with a prime city location convenient for business and leisure travelers."
+    },
+    {
+      "name": "Hilton Garden Inn Rayong",
+      "category": "luxury",
+      "priceRange": "$100-160/night",
+      "area": "Rayong City Center",
+      "description": "A reliable upscale choice featuring contemporary rooms, business facilities, and consistent Hilton service standards ideal for travelers seeking international comfort."
+    },
+    {
+      "name": "Le Vimarn Cottages & Spa",
+      "category": "luxury",
+      "priceRange": "$130-200/night",
+      "area": "Beachfront",
+      "description": "An elegant beachfront resort combining traditional Thai architecture with modern luxury, featuring spa facilities and direct beach access for a serene coastal experience."
+    },
+    {
+      "name": "Paradee",
+      "category": "luxury",
+      "priceRange": "$140-220/night",
+      "area": "Beachfront",
+      "description": "A premium beachfront property offering sophisticated accommodations with upscale amenities, fine dining options, and private beach access."
+    },
+    {
+      "name": "Moment Villa",
+      "category": "midrange",
+      "priceRange": "$60-90/night",
+      "area": "Klaeng District",
+      "description": "A stylish mid-range hotel featuring contemporary design, sea views, an on-site specialty coffee cafe, and convenient access to nearby beaches."
+    },
+    {
+      "name": "Ban Phe Beach Resort",
+      "category": "midrange",
+      "priceRange": "$50-80/night",
+      "area": "Ban Phe",
+      "description": "Located near the ferry pier to Koh Samet, this convenient mid-range resort offers direct beach access and easy island connections for day-trippers."
+    },
+    {
+      "name": "Samet Island Resort",
+      "category": "midrange",
+      "priceRange": "$55-85/night",
+      "area": "Koh Samet Island",
+      "description": "A beachfront property on Koh Samet offering comfortable rooms, water sports facilities, and direct beach access with affordable rates for island accommodations."
+    },
+    {
+      "name": "Long Beach Garden Resort",
+      "category": "budget",
+      "priceRange": "$20-35/night",
+      "area": "Mae Ramphueng Beach",
+      "description": "A budget-friendly beachfront option along the quiet Mae Ramphueng Beach with basic but clean rooms and easy access to seafood restaurants."
+    },
+    {
+      "name": "Rayong City Guesthouse",
+      "category": "budget",
+      "priceRange": "$15-25/night",
+      "area": "Rayong City Center",
+      "description": "A simple, clean guesthouse in the city center offering affordable accommodation near shops, markets, and local transport for budget-conscious travelers."
+    },
+    {
+      "name": "Koh Samet Backpacker Hut",
+      "category": "budget",
+      "priceRange": "$18-30/night",
+      "area": "Koh Samet Island",
+      "description": "A budget accommodation on Koh Samet featuring basic dorm and private rooms, perfect for backpackers wanting island beach access without premium pricing."
+    }
+  ],
+  "gettingAround": "Rayong's local transport system is primarily based on tuk-tuks and songthaews (shared red taxis), which are affordable and easy to find throughout the city and beach areas. Motorbike rental is extremely popular among visitors, available at numerous rental shops for 150-250 THB ($5-8 USD) per day, offering maximum freedom to explore the province and nearby attractions. The Grab app operates effectively in Rayong for ride-hailing, though it's slightly more expensive than tuk-tuks but provides fixed pricing and safety features. To reach Koh Samet, the primary ferry departs from Ban Phe Fishing Village, with regular services throughout the day—the pier is easily accessible by tuk-tuk from Rayong city center (approximately 30-45 minutes). For longer-distance travel, buses connect Rayong to Bangkok's Eastern Bus Terminal (2-3 hours) and other provinces, offering an economical transportation option.",
+  "bestTimeToVisit": "Rayong's optimal visiting season runs from November through February when temperatures are cooler (20-28°C) and rainfall is minimal, making beach days and outdoor activities most enjoyable. The months of March through May experience increasing heat, with April-June being peak mango and fruit season if you plan to visit the orchards, though it's also warmer. The southwest monsoon season from May through October brings increased rainfall and rough seas, making water activities less ideal, though prices drop significantly during this period and the landscape becomes lush green. December and January are peak season with the most tourists and highest prices, while November and February offer better value with still-excellent weather. For the best combination of pleasant weather, fewer crowds, and reasonable prices, consider visiting in November, February, or early March.",
+  "budgetGuide": {
+    "budget": {
+      "min": 20,
+      "max": 40,
+      "description": "Budget travelers can stay in guesthouses (15-25 USD), eat street food and local restaurants (2-5 USD per meal), use tuk-tuks for transport (1-3 USD per trip), and enjoy free beaches. National park fees are minimal (1-6 USD), making Rayong highly affordable for independent travelers."
+    },
+    "midrange": {
+      "min": 50,
+      "max": 100,
+      "description": "Mid-range visitors staying in 3-star hotels (50-90 USD) can dine at quality restaurants (5-12 USD per meal), rent motorbikes (5-8 USD daily), enjoy paid attractions (1-6 USD each), and participate in day tours while maintaining comfortable accommodations."
+    },
+    "luxury": {
+      "min": 150,
+      "max": 400,
+      "description": "Luxury travelers enjoying 4-5 star resorts (120-220 USD) can dine at upscale beachfront restaurants (20-50 USD per meal), arrange private transportation, book island tours, spa treatments, and experience premium accommodations with full resort amenities."
+    }
+  },
+  "safetyTips": "Rayong is generally a safe destination for tourists with low crime rates and a relaxed atmosphere. Standard tropical precautions apply: use sunscreen liberally as UV exposure is intense, stay hydrated, and be cautious during the monsoon season when strong currents and rough seas can make swimming dangerous—always check beach condition flags. When visiting Koh Samet, arrange ferry tickets through official channels, avoid traveling alone late at night on deserted beaches, and secure valuables in hotel safes rather than leaving them unattended on the beach. Motorbike riders should wear helmets (legally required) and be aware that Thai traffic rules differ from Western countries; if unfamiliar with local driving customs, consider using tuk-tuks or Grab instead. Petty theft occasionally occurs in crowded areas and beach towns, so keep backpacks close and avoid displaying expensive jewelry or electronics.",
+  "faq": [
+    {
+      "question": "How do I get to Koh Samet from Rayong?",
+      "answer": "Ferries depart regularly from Ban Phe Fishing Village with a national park entrance fee of 200 THB ($6 USD) per person. The pier is approximately 30-45 minutes from Rayong city center by tuk-tuk. Multiple daily ferry schedules accommodate both day-trippers and overnight visitors."
+    },
+    {
+      "question": "What is the best time to visit Rayong?",
+      "answer": "November through February offers the best weather with cooler temperatures (20-28°C) and minimal rainfall. December and January are peak season with higher prices but excellent conditions. For budget travelers, November and February provide great weather at lower costs."
+    },
+    {
+      "question": "How much does it cost to visit the fruit orchards?",
+      "answer": "Rayong's fruit orchards charge a 100 THB ($3 USD) entrance fee and are seasonal from April to June. Visitors can pick their own fruit and participate in durian tasting experiences at reasonable additional costs."
+    },
+    {
+      "question": "What are the cheapest beaches in Rayong?",
+      "answer": "Mae Ramphueng Beach, Sai Kaew Beach, and Suan Son Beach all offer free access with excellent facilities, fresh seafood restaurants, and excellent value. Only national park beaches like those on Koh Samet require entrance fees (200 THB/$6 USD)."
+    },
+    {
+      "question": "Can I visit Rayong and Koh Samet in one day?",
+      "answer": "Yes, many travelers visit Koh Samet as a day trip from Rayong. The ferry ride is short, and multiple beaches on the island can be explored in 4-6 hours. However, staying overnight allows for a more relaxed experience and evening beach activities."
+    },
+    {
+      "question": "What local cuisine should I try in Rayong?",
+      "answer": "Fresh seafood is Rayong's specialty—try garlic butter shrimp, curry crab, and the local yellow curry with prawns at waterfront restaurants. Ban Phe village is famous for shrimp paste production, available for purchase. Thai street food and tropical fruits are also excellent value and authentically local."
+    },
+    {
+      "question": "Is it safe to rent a motorbike in Rayong?",
+      "answer": "Yes, motorbike rental is common and available at 150-250 THB ($5-8 USD) daily. However, helmets are legally required and Thai traffic customs differ from Western countries. If unfamiliar with local driving, tuk-tuks or Grab are safer alternatives offering excellent value."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Suvarnabhumi Airport (BKK), Bangkok",
+    "travelTimeFromAirport": "2.5-3 hours by car via Highway 3, approximately 150-200 km east",
+    "localTransport": [
+      "Tuk-tuk",
+      "Songthaew",
+      "Motorbike rental",
+      "Grab",
+      "Ferry to Koh Samet"
+    ]
+  },
+  "enrichedAt": "2026-02-22T13:02:48.821Z"
 }

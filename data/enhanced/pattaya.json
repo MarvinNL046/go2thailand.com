@@ -522,5 +522,192 @@
     "notes": "Budget includes accommodation, food, transportation, and activities"
   },
   "enhanced_at": "2025-05-26T19:53:57.323Z",
-  "ai_generated": true
+  "ai_generated": true,
+  "overview": "Pattaya is a vibrant coastal city in Chonburi Province, just 147 kilometers south of Bangkok, making it one of Thailand's most accessible beach destinations. Known for its lively atmosphere, stunning beaches, and diverse entertainment options, Pattaya attracts millions of visitors annually seeking sun, adventure, and cultural experiences. From the iconic Walking Street's bustling nightlife to the serene Sanctuary of Truth's architectural marvel, this city offers something for every traveler—whether you're seeking relaxation on pristine shores, thrilling water sports, or immersion in Thai culture and cuisine.",
+  "thingsToDo": "Pattaya's main beach offers excellent opportunities for water sports and beachfront dining, while the quieter Jomtien Beach provides a more family-friendly atmosphere. The Sanctuary of Truth (500 THB/$15) is a must-see, showcasing traditional Thai craftsmanship with its stunning all-wood construction and philosophical art installations. For natural beauty, visit Coral Island (Koh Larn) with its pristine beaches and snorkeling opportunities for just 30 THB ($1) entrance fee. Culture enthusiasts should explore Nong Nooch Tropical Garden (500 THB/$15), featuring botanical displays, cultural shows, and elephant performances. Walking Street is free to explore and offers an energetic nightlife scene with go-go bars and street food vendors. Other notable attractions include Big Buddha Hill's golden statue with panoramic views (free admission), the interactive 3D Art in Paradise museum (420 THB/$12), and the Pattaya Floating Market (200 THB/$6) showcasing traditional boats and local crafts. For families with children, Cartoon Network Amazone waterpark (990 THB/$29) provides thrilling slides and entertainment.",
+  "whereToStay": "Pattaya offers accommodation across all price ranges, with beachfront hotels clustered along Pattaya Beach offering sea views and easy beach access, while Jomtien Beach area provides quieter, more family-oriented lodging options. Budget travelers can find guesthouses and hostels in the central areas for $15-30 per night, often within walking distance of restaurants and attractions. Mid-range hotels ($50-100/night) provide comfortable rooms with amenities like pools, air conditioning, and on-site dining, concentrated in the Beach Road area. Luxury resorts ($150-400+/night) offer beachfront locations with spa facilities, multiple restaurants, and premium services, particularly along the northern beachfront. Many accommodations offer special long-term rates for visitors staying more than a few days.",
+  "whereToEat": [
+    {
+      "name": "Bacchanal Buffet",
+      "cuisine": "International Buffet",
+      "priceRange": "$$",
+      "description": "Popular all-you-can-eat restaurant featuring Thai, Chinese, and Western dishes. Known for variety and reasonable prices, attracting both tourists and locals."
+    },
+    {
+      "name": "Mantra Restaurant",
+      "cuisine": "Thai & International",
+      "priceRange": "$$",
+      "description": "Contemporary Thai cuisine in a stylish setting with both traditional and modern dishes. Located with convenient access to Pattaya's main entertainment areas."
+    },
+    {
+      "name": "PIC Kitchen",
+      "cuisine": "Thai",
+      "priceRange": "$",
+      "description": "Authentic Thai street food and casual dining experience. Offers excellent local specialties at budget-friendly prices with a laid-back atmosphere."
+    },
+    {
+      "name": "Dolfin Seafood Restaurant",
+      "cuisine": "Seafood",
+      "priceRange": "$$",
+      "description": "Specializes in fresh seafood with ocean views. Famous for grilled fish and prawns, popular with visitors seeking quality seafood dining."
+    },
+    {
+      "name": "Sky Beach Club",
+      "cuisine": "International & Tapas",
+      "priceRange": "$$$",
+      "description": "Upscale beachfront dining with panoramic sea views. Offers fine dining experience with international cuisine and craft cocktails."
+    },
+    {
+      "name": "Thepprasit Weekend Market Food Stalls",
+      "cuisine": "Street Food",
+      "priceRange": "$",
+      "description": "Local market featuring dozens of authentic Thai food vendors. Must-visit for genuine street food experience at minimal cost."
+    },
+    {
+      "name": "Cabbages & Condoms Restaurant",
+      "cuisine": "Thai",
+      "priceRange": "$$",
+      "description": "Thai restaurant with a unique concept supporting a charitable foundation. Serves traditional Thai cuisine in a welcoming, educational atmosphere."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Siam Bayview",
+      "category": "midrange",
+      "priceRange": "$55-85/night",
+      "area": "Central Pattaya Beach",
+      "description": "Well-established hotel directly on Pattaya Beach with excellent sea views, multiple pools, and convenient access to Walking Street and restaurants."
+    },
+    {
+      "name": "Dusit Thani Pattaya",
+      "category": "luxury",
+      "priceRange": "$180-300/night",
+      "area": "North Pattaya Beach",
+      "description": "Five-star beachfront resort featuring multiple restaurants, full-service spa, lagoon pool, and world-class amenities with stunning Gulf of Thailand views."
+    },
+    {
+      "name": "Hilton Pattaya",
+      "category": "luxury",
+      "priceRange": "$160-280/night",
+      "area": "Central Pattaya",
+      "description": "Premier beachfront property offering modern rooms, state-of-the-art fitness center, multiple dining venues, and direct beach access."
+    },
+    {
+      "name": "Long Beach Garden Hotel",
+      "category": "midrange",
+      "priceRange": "$45-75/night",
+      "area": "Jomtien Beach",
+      "description": "Family-friendly hotel featuring tropical gardens, swimming pool, and comfortable accommodations in the quieter Jomtien Beach area."
+    },
+    {
+      "name": "Rabbit Resort Pattaya",
+      "category": "budget",
+      "priceRange": "$20-35/night",
+      "area": "South Pattaya",
+      "description": "Budget-friendly accommodation with basic but clean rooms, pool, and convenient location near restaurants and local attractions."
+    },
+    {
+      "name": "Central Festival Pattaya Beach",
+      "category": "budget",
+      "priceRange": "$25-40/night",
+      "area": "Central Pattaya",
+      "description": "Affordable hotel integrated with Central Festival shopping mall, offering easy access to dining, shopping, and beach activities."
+    },
+    {
+      "name": "Amari Pattaya",
+      "category": "luxury",
+      "priceRange": "$150-250/night",
+      "area": "North Pattaya Beach",
+      "description": "Upscale resort with elegant rooms, championship-standard facilities, multiple restaurants, and private beach access overlooking the Gulf."
+    },
+    {
+      "name": "Lee Gardens Hotel",
+      "category": "midrange",
+      "priceRange": "$50-80/night",
+      "area": "Jomtien Beach",
+      "description": "Quality mid-range hotel with spacious rooms, excellent service, pool facilities, and peaceful beachfront location ideal for families."
+    },
+    {
+      "name": "Asia Pattaya Hotel",
+      "category": "budget",
+      "priceRange": "$18-32/night",
+      "area": "Central Pattaya",
+      "description": "No-frills but clean budget hotel with functional rooms and basic amenities, perfectly suited for cost-conscious travelers."
+    },
+    {
+      "name": "Cent Pattaya Hotel",
+      "category": "midrange",
+      "priceRange": "$60-90/night",
+      "area": "Walking Street Area",
+      "description": "Contemporary mid-range hotel with modern design, convenient to Walking Street attractions, featuring comfortable rooms and friendly service."
+    }
+  ],
+  "gettingAround": "Pattaya is best navigated using a combination of local transport options. Tuk-tuks are iconic three-wheeled taxis available throughout the city for short trips (typically 40-100 THB/$1-3 per journey), though agreeing on fare beforehand is essential. Songthaews—shared red minibuses running fixed routes—offer the cheapest option at 10-20 THB ($0.30-0.60) per trip, making them popular with locals. For convenience and safety, the Grab app (Thailand's Uber equivalent) provides motorcycle taxis and cars with meter-less pricing and cashless payment. Many visitors rent motorbikes (150-300 THB/$5-10 daily) for independence, though traffic can be chaotic and rental insurance is crucial. Baht buses connecting different beach areas operate regularly and cost 10-20 THB per ride.",
+  "bestTimeToVisit": "Pattaya's best travel season runs from November through February, when temperatures are warm but not scorching (23-29°C/73-84°F) and humidity is lower. These months offer calm seas ideal for water sports and beach activities, with minimal rainfall. March through May brings intense heat (30-35°C/86-95°F) and is less pleasant for beach activities but features fewer tourists and lower hotel prices. The Southwest Monsoon from May through October brings heavy rainfall, particularly September through October, causing rough sea conditions that make water sports dangerous and can limit beach activities. December and January are peak tourist season with higher prices and crowded attractions, while November and February offer excellent weather with fewer crowds. For budget travelers, visiting during shoulder months (November or February) provides the best balance of good weather, fewer tourists, and reasonable prices.",
+  "budgetGuide": {
+    "budget": {
+      "min": 20,
+      "max": 40,
+      "description": "Budget travelers can stay in basic guesthouses or hostels ($18-25/night), eat street food and at casual Thai restaurants ($3-5 per meal), use songthaews and Grab bikes ($1-3 daily transport), and visit free attractions like beaches and Big Buddha Hill. Many paid attractions cost under $15 (temples 500 THB, markets 200-500 THB)."
+    },
+    "midrange": {
+      "min": 50,
+      "max": 100,
+      "description": "Mid-range travelers enjoy 3-star hotel rooms ($50-80/night), eat at established Thai and international restaurants ($8-15 per meal), take occasional taxis or Grab cars, and budget $30-50 daily for activities including paid attractions (500 THB temples, waterpark 990 THB, floating market 200 THB)."
+    },
+    "luxury": {
+      "min": 150,
+      "max": 400,
+      "description": "Luxury visitors stay at 4-5 star beachfront resorts ($150-300+/night), dine at fine restaurants and hotels ($30-80+ per meal), use private transfers, enjoy spa treatments ($40-100), and experience premium tours and water sports without budget constraints."
+    }
+  },
+  "safetyTips": "Pattaya is generally safe for tourists, though standard precautions apply: avoid displaying expensive jewelry or large cash amounts, use registered taxis or Grab rather than hailing random cabs, and be cautious around Walking Street late at night where petty theft and aggressive solicitation can occur. Watch out for drink spiking in bars and clubs—never leave drinks unattended and drink responsibly. Traffic can be hazardous with reckless driving common; if renting a motorbike, wear a helmet (legally required), drive defensively, and avoid driving after drinking. Avoid unmarked beach areas at night and stay in well-lit, populated areas. Exercise caution with water sports—use reputable operators, wear life jackets, and check weather conditions before activities. Be respectful of Thai customs and local laws; disrespecting the monarchy or engaging with illegal substances carries severe penalties.",
+  "faq": [
+    {
+      "question": "How much does it cost to enter Pattaya's main attractions?",
+      "answer": "Most beaches in Pattaya are free to access. The Sanctuary of Truth costs 500 THB ($15), Nong Nooch Tropical Garden is 500 THB ($15), Pattaya Floating Market is 200 THB ($6), Art in Paradise is 420 THB ($12), Coral Island entrance fee is 30 THB ($1), and Cartoon Network Amazone waterpark is 990 THB ($29). Big Buddha Hill is free to visit."
+    },
+    {
+      "question": "What is the best area to stay in Pattaya for first-time visitors?",
+      "answer": "Central Pattaya Beach is ideal for first-timers, offering proximity to Walking Street, restaurants, shopping, and main attractions. Jomtien Beach suits families seeking quieter, more relaxed surroundings. North Pattaya features upscale resorts and calmer waters, while South Pattaya offers budget accommodations."
+    },
+    {
+      "question": "Is Walking Street safe for tourists?",
+      "answer": "Walking Street is generally safe and heavily patrolled, though it's best visited before midnight when crowds are large and the area well-lit. Exercise normal urban precautions—avoid displaying valuables, watch your belongings, and be cautious of drink spiking. Most tourists enjoy the area without incident during peak hours."
+    },
+    {
+      "question": "How long is the flight from Bangkok to Pattaya?",
+      "answer": "There is no direct flight to Pattaya. Most visitors arrive at Suvarnabhumi Airport in Bangkok (135 km away), then travel overland via bus (2.5-3 hours, 100-150 THB), hired car with driver, or Grab (2.5-3 hours, 800-1200 THB depending on traffic)."
+    },
+    {
+      "question": "Is it safe to rent a motorbike in Pattaya?",
+      "answer": "Motorbikes are available for rent (150-300 THB daily) and many tourists use them, but traffic is chaotic and accident rates are high. Only rent if you're experienced, always wear a helmet, obtain comprehensive travel insurance, and carry an International Driving Permit. Defensive driving is essential."
+    },
+    {
+      "question": "What is the currency and how much cash should I bring?",
+      "answer": "Thailand's currency is the Thai Baht (THB). USD to THB conversion averages around 1 USD = 33-35 THB. Bring a mix of baht and credit cards; ATMs are abundant (typical withdrawal fee 200 THB/$6) and credit cards are accepted at most establishments except street vendors and small shops."
+    },
+    {
+      "question": "Can I visit Pattaya as a day trip from Bangkok?",
+      "answer": "Yes, Pattaya is 147 km from Bangkok (2.5-3 hour drive). Day trips are feasible for visiting beaches and main attractions, though staying 2-3 nights allows for better experience including evening activities and less rushed sightseeing. Direct bus services operate hourly between Bangkok and Pattaya."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Suvarnabhumi Airport (BKK), Bangkok",
+    "travelTimeFromAirport": "2.5-3 hours by car (147 km)",
+    "localTransport": [
+      "Tuk-tuk",
+      "Songthaew (shared minibus)",
+      "Grab (app-based taxi)",
+      "Motorbike rental",
+      "Baht bus"
+    ]
+  },
+  "enrichedAt": "2026-02-22T12:28:01.710Z"
 }

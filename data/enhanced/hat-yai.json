@@ -568,5 +568,184 @@
     "notes": "Budget includes accommodation, food, transportation, and activities"
   },
   "enhanced_at": "2025-05-26T19:56:41.738Z",
-  "ai_generated": true
+  "ai_generated": true,
+  "overview": "Hat Yai stands as Southern Thailand's largest and most vibrant city, serving as the essential gateway between Thailand and Malaysia. This dynamic shopping hub attracts visitors from across the region with its legendary markets, diverse dining scene, and unique blend of Thai and Malaysian influences. Beyond the bustling commercial centers, Hat Yai offers cultural depth through temples like Wat Hat Yai Nai with its impressive 35-meter reclining Buddha, natural attractions including Ton Nga Chang Waterfall, and authentic local experiences that reveal the character of Southern Thailand.",
+  "thingsToDo": "Hat Yai's markets are legendary and free to explore—Kim Yong Market showcases historic trading heritage with dried seafood and local products, while the Hat Yai Floating Market comes alive in the evenings with boat rides and authentic street food. Don't miss Hat Yai Municipal Park (free entry), where a cable car ascends to panoramic city views and a golden Buddha statue. For nature lovers, Ton Nga Chang Waterfall (200 THB/$6 USD) features seven stunning tiers and wildlife sanctuary hiking trails. Shopping enthusiasts should visit Central Festival Hat Yai and Lee Garden Plaza for modern retail experiences, while the ASEAN Night Bazaar offers evening entertainment, local dining, and a genuine taste of regional culture. For a unique experience, Hat Yai Ice Dome (200 THB/$6 USD) provides a refreshing indoor attraction with ice sculptures—a novelty in tropical Thailand. History buffs can venture to nearby Songkhla Old Town to admire Sino-Portuguese architecture and museums.",
+  "whereToStay": "Hat Yai offers accommodation for every budget across convenient neighborhoods. The City Center area near Lee Garden Plaza clusters mid-range to luxury hotels within walking distance of markets and shopping, making it ideal for travelers who want to maximize their exploration time. Budget travelers will find excellent value at properties like B2 Hat Yai Boutique Hotel near the airport and Red Planet Hat Yai in the city center, with clean modern rooms at $15-30 per night. The Market Area near Kim Yong provides authentic local vibes with mid-range options like Hatyai The Signature Hotel (around $40-60/night) offering modern comfort and proximity to street food. For luxury seekers, the Central Business District features high-end properties with pools, spas, and premium amenities starting from $100+ per night. Airport area hotels cater to transit passengers and those planning early departures, while the Greenway Market vicinity offers boutique options perfect for travelers seeking café culture and shopping immersion.",
+  "whereToEat": [
+    {
+      "name": "Jae Lek",
+      "cuisine": "Southern Thai",
+      "priceRange": "$$",
+      "description": "Award-winning Southern Thai cuisine recipient of Thai Government's Thai Select Award. Famous for aromatic Green Curry Pork, crispy Deep Fried Pork Leg with tender meat, and authentic Southern flavors in a humble local setting."
+    },
+    {
+      "name": "Decha Fried Chicken",
+      "cuisine": "Muslim-inspired Thai/Street Food",
+      "priceRange": "$$",
+      "description": "Legendary Hat Yai gem with crispy-outside, tender-inside fried chicken and signature fried shallots that pair perfectly with fragrant biryani rice. Must-try items include Beef Soup and Teh Tarik, offering exceptional value and authentic Southern Muslim-style flavors."
+    },
+    {
+      "name": "Je Hoi Seafood Restaurant",
+      "cuisine": "Seafood",
+      "priceRange": "$$",
+      "description": "Fresh seafood restaurant in Hat Yai's heart with relaxed atmosphere. Offers both street-style outdoor seating and air-conditioned indoor dining, ideal for family meals or gatherings with reasonably priced, quality fresh catch."
+    },
+    {
+      "name": "Kim Yong Market Food Stalls",
+      "cuisine": "Local Street Food",
+      "priceRange": "$",
+      "description": "Free market entry with dozens of food vendors offering authentic Hat Yai street food, dried seafood snacks, and regional specialties. Perfect for budget travelers seeking genuine local cuisine experiences."
+    },
+    {
+      "name": "Hat Yai Floating Market Food Vendors",
+      "cuisine": "Thai Street Food",
+      "priceRange": "$",
+      "description": "Evening market with boat rides and extensive food stalls serving fresh local specialties. Experience dining with canal views and authentic Southern Thai flavors in a picturesque waterfront setting."
+    },
+    {
+      "name": "Central Festival Hat Yai Food Court",
+      "cuisine": "International & Thai",
+      "priceRange": "$$",
+      "description": "Modern shopping mall food court with diverse dining options from local Thai restaurants to international chains, offering convenience and variety for all tastes and budgets."
+    },
+    {
+      "name": "Lee Garden Plaza Food Court",
+      "cuisine": "Thai & International",
+      "priceRange": "$$",
+      "description": "Connected to the shopping mall, this food court provides convenient dining within the commercial complex with options ranging from traditional Southern Thai to contemporary fusion cuisine."
+    },
+    {
+      "name": "ASEAN Night Bazaar Food Stalls",
+      "cuisine": "Regional Asian Street Food",
+      "priceRange": "$",
+      "description": "Evening bazaar featuring multiple food vendors with local and regional Asian cuisines, combining dining with entertainment and shopping in an energetic night market atmosphere."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Centara Hotel Hat Yai",
+      "category": "luxury",
+      "priceRange": "$120-200/night",
+      "area": "Central Business District",
+      "description": "Luxury property with direct access to shopping and business district. Features luxury rooms and suites, spa, pool, and fitness center ideal for families and shoppers. High-floor rooms offer spectacular city views."
+    },
+    {
+      "name": "Laguna Grand Hotel and Spa",
+      "category": "luxury",
+      "priceRange": "$100-180/night",
+      "area": "Near Airport",
+      "description": "Family-friendly luxury hotel with pool and spa facilities, spacious rooms, and excellent service. Popular with road-trippers from Malaysia due to convenient airport location and quality amenities."
+    },
+    {
+      "name": "Lee Gardens Plaza Hotel",
+      "category": "midrange",
+      "priceRange": "$60-100/night",
+      "area": "City Center",
+      "description": "Connected directly to Lee Garden Plaza shopping mall with shopping and dining downstairs. Features pool, convenient parking, and ideal location for weekend trips and market exploration."
+    },
+    {
+      "name": "Hatyai The Signature Hotel",
+      "category": "midrange",
+      "priceRange": "$50-80/night",
+      "area": "Market Area",
+      "description": "Modern mid-range hotel close to Kim Yong Market with well-appointed rooms and good on-site dining. Easy access to nearby snacks and souvenirs, perfect for market enthusiasts."
+    },
+    {
+      "name": "The Habita Hatyai Hotel",
+      "category": "midrange",
+      "priceRange": "$55-85/night",
+      "area": "Near Greenway Market",
+      "description": "Stylish boutique hotel with café vibes and contemporary interiors, located near Greenway Market shopping area. Excellent choice for travelers who love night markets and café culture."
+    },
+    {
+      "name": "B2 Hat Yai Boutique Hotel",
+      "category": "budget",
+      "priceRange": "$20-35/night",
+      "area": "Near Airport",
+      "description": "Clean and modern budget hotel convenient for transit travelers and early airport departures. Offers great rates for short stays with reliable facilities and handy location for Hat Yai Airport access."
+    },
+    {
+      "name": "Red Planet Hat Yai",
+      "category": "budget",
+      "priceRange": "$18-32/night",
+      "area": "City Center",
+      "description": "Reliable budget choice walkable to major markets with good Wi-Fi and clean rooms. Strong value option for travelers spending days exploring attractions rather than extended hotel stays."
+    },
+    {
+      "name": "Z Sleep Hotel Hat Yai",
+      "category": "budget",
+      "priceRange": "$19-33/night",
+      "area": "Near Central Festival",
+      "description": "Budget hotel near Central Festival shopping mall offering economical accommodation with convenient access to shopping and dining establishments."
+    }
+  ],
+  "gettingAround": "Hat Yai's local transport is affordable and accessible for visitors. Tuk-tuks are the most iconic mode of transport, offering short-distance trips within the city (typically 40-60 THB/$1.20-1.80). Songthaews (shared red taxis) provide even cheaper options following fixed routes (10-20 THB/$0.30-0.60 per trip). For more flexibility and convenience, the Grab app works well in Hat Yai, offering motorcycle taxis (bike) and car services at transparent rates. Motorbike rentals are available throughout the city (100-150 THB/$3-4.50 daily) for independent travelers comfortable riding on local roads. Most attractions are concentrated enough that you can walk between markets and shopping centers, especially in the City Center area around Lee Garden Plaza.",
+  "bestTimeToVisit": "Hat Yai's best visiting season runs from November through February, when Southern Thailand experiences cooler, drier weather perfect for exploring outdoor markets and parks. December and January offer the most pleasant conditions with temperatures around 24-28°C (75-82°F) and minimal rainfall. Avoid the Southwest Monsoon season (May-September) when heavy rains make outdoor activities challenging and markets become less vibrant. October and November see improving weather as the rainy season transitions, making them reasonable alternatives with fewer tourists and better accommodation deals. The city experiences high humidity year-round typical of Southern Thailand, so lightweight, breathable clothing and sun protection are essential regardless of season.",
+  "budgetGuide": {
+    "budget": {
+      "min": 20,
+      "max": 40,
+      "description": "Budget travelers can stay in guesthouses ($18-32/night), eat at street food markets and stalls ($2-5 per meal), use tuk-tuks and songthaews for transport ($0.30-1.80 per trip), and explore free attractions like Kim Yong Market and Hat Yai Park. Budget activities include temple visits and market exploration."
+    },
+    "midrange": {
+      "min": 50,
+      "max": 100,
+      "description": "Mid-range travelers enjoy 3-star hotels ($50-85/night), dining at local restaurants and casual chains ($5-12 per meal), occasional Grab rides ($2-5), and paid attractions like Ton Nga Chang Waterfall ($6 USD). This range covers comfortable exploration with flexibility for spa visits and shopping mall dining."
+    },
+    "luxury": {
+      "min": 150,
+      "max": 400,
+      "description": "Luxury visitors stay in 5-star properties ($120-200+ per night), dine at premium restaurants and hotel dining ($15-50 per meal), use private Grab cars or hotel transfers, and enjoy guided experiences. Budget covers multiple activities, spa treatments, and comprehensive comfort throughout the city."
+    }
+  },
+  "safetyTips": "Hat Yai is generally safe for tourists, though standard precautions apply as in any major city. Avoid displaying expensive jewelry, cameras, or large amounts of cash, especially in crowded markets and night bazaars where pickpocketing can occur. Keep valuables in hotel safes and use money belts for daily expenses. During evening market visits, stay in well-lit areas and travel with companions when possible. The city has a visible police presence, and authorities are generally helpful to tourists. Be cautious with street food from unknown vendors, particularly regarding water quality and ingredient freshness—stick to busy stalls with high customer turnover. Traffic can be chaotic, so exercise extreme caution crossing streets and avoid driving motorbikes if unfamiliar with Thai road conditions.",
+  "faq": [
+    {
+      "question": "What is the best way to get from Hat Yai Airport to the city center?",
+      "answer": "Hat Yai Airport is approximately 15-20 minutes from the city center. Options include tuk-tuks (80-150 THB/$2.40-4.50), Grab app bookings (120-180 THB/$3.60-5.40), or hotel shuttle services if arranged in advance. Budget hotels near the airport offer convenient options for transit travelers."
+    },
+    {
+      "question": "Can I visit Malaysia from Hat Yai?",
+      "answer": "Yes, Hat Yai is only 45 kilometers from the Malaysian border. Many travelers cross into Malaysia for shopping or brief visits. You'll need a valid passport and may require visa arrangements depending on your nationality. Songthaews from Hat Yai run to the border town of Bukit Kayu Hitam."
+    },
+    {
+      "question": "What are Hat Yai's most famous markets and what are their opening hours?",
+      "answer": "Kim Yong Market is open throughout the day for browsing dried seafood and local products. Hat Yai Floating Market operates primarily in evenings with boat rides and food. ASEAN Night Bazaar opens in late afternoon/evening for shopping and dining. Most markets are free to enter and operate daily, though some stalls may close on certain days."
+    },
+    {
+      "question": "How much does a typical meal cost in Hat Yai?",
+      "answer": "Street food and market meals range from 30-80 THB ($0.90-2.40) per dish. Local restaurants like Jae Lek and Decha Fried Chicken serve full meals for 80-150 THB ($2.40-4.50). Shopping mall food courts and casual restaurants charge 100-300 THB ($3-9). Fine dining restaurants cost 300-800 THB ($9-24+)."
+    },
+    {
+      "question": "Is it necessary to rent a motorbike or car in Hat Yai?",
+      "answer": "No, motorbike rental is optional. Tuk-tuks, songthaews, and Grab provide sufficient transport for most attractions. Renting a motorbike ($100-150 THB daily) offers freedom for day trips to Ton Nga Chang Waterfall or Songkhla Old Town, but is not essential for city exploration where most sites are accessible by local transport."
+    },
+    {
+      "question": "What should I know about Hat Yai's weather and monsoon season?",
+      "answer": "Hat Yai experiences tropical climate with hot, humid weather year-round. Best weather is November-February (25-28°C, dry). Monsoon season from May-September brings heavy rainfall, making outdoor activities less pleasant. October and November are transition months with improving conditions. Pack lightweight clothing, sun protection, and an umbrella regardless of season."
+    },
+    {
+      "question": "What cultural customs should I respect when visiting temples and markets in Hat Yai?",
+      "answer": "Dress modestly with covered shoulders and knees when visiting temples like Wat Hat Yai Nai. Remove shoes before entering temple buildings. Show respect to images of the Thai Royal Family displayed throughout the city. In markets, bargaining is expected but maintain good humor. Always ask permission before photographing people, especially monks."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Hat Yai International Airport (HDY)",
+    "travelTimeFromAirport": "15-20 minutes by tuk-tuk or car",
+    "localTransport": [
+      "Tuk-tuk",
+      "Songthaew (shared taxi)",
+      "Grab app",
+      "Motorbike rental",
+      "Walking"
+    ]
+  },
+  "enrichedAt": "2026-02-22T12:35:13.182Z"
 }
