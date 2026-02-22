@@ -463,5 +463,20 @@
       "Three Whale Rock",
       "Mekong Viewpoints"
     ]
+  },
+  {
+    "id": 32,
+    "slug": "nakhon-phanom",
+    "name": {
+      "en": "Nakhon Phanom",
+      "nl": "Nakhon Phanom"
+    },
+    "region": "Isaan",
+    "province": "Nakhon Phanom",
+    "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+    "highlights": [
+      "Ho Chi Minh House",
+      "Golden Stupas"
+    ]
   }
 ]

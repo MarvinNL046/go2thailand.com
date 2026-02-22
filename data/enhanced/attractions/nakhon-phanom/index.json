@@ -1,0 +1,115 @@
+{
+  "city_slug": "nakhon-phanom",
+  "city_name": "Nakhon Phanom",
+  "total_attractions": 5,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "ho-chi-minh-house",
+      "name": {
+        "en": "Ho Chi Minh House Museum",
+        "nl": "Ho Chi Minh Huis Museum"
+      },
+      "type": "culture",
+      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "description": {
+        "en": "Reconstructed wooden house where Vietnamese revolutionary Ho Chi Minh lived in exile during the 1920s, hiding from French colonial authorities while organizing independence movements. The museum preserves original furniture and is surrounded by fruit gardens — pomelo, guava, and jackfruit trees — planted by Ho Chi Minh himself.",
+        "nl": "Gereconstrueerd houten huis waar de Vietnamese revolutionair Ho Chi Minh in de jaren 1920 in ballingschap leefde, op de vlucht voor de Franse koloniale autoriteiten terwijl hij onafhankelijkheidsbewegingen organiseerde. Het museum bewaart origineel meubilair en is omgeven door fruittuinen — pomelo, guave en jackfruitbomen — eigenhandig geplant door Ho Chi Minh."
+      },
+      "entrance_fee": {
+        "thb_thai": 30,
+        "thb_foreigner": 200,
+        "usd_foreigner": 6
+      },
+      "highlights": ["Original furniture", "Hand-planted fruit gardens", "Vietnamese independence history", "Reconstructed wooden house"],
+      "best_time": "morning",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://maps.app.goo.gl/NCZ15bb4pxr76"
+    },
+    {
+      "id": 2,
+      "slug": "mekong-promenade-golden-naga",
+      "name": {
+        "en": "Mekong Promenade & Golden Naga",
+        "nl": "Mekong Promenade & Gouden Naga"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Stunning riverside promenade stretching along the Mekong with panoramic views of the Laotian Tha Khek mountains across the river. The golden Naga statue is a beloved landmark and the departure point for sunset cruises. Live music and festivals regularly animate the evening atmosphere.",
+        "nl": "Prachtige rivierpromenade langs de Mekong met panoramisch uitzicht op de Laotiaanse Tha Khek-bergen aan de overkant. Het gouden Naga-standbeeld is een geliefd herkenningspunt en het vertrekpunt voor zonsondergangcruises. Livemuziek en festivals zorgen regelmatig voor een levendige avondsfeer."
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Laotian mountain views", "Golden Naga statue", "Live music & festivals", "Morning fishermen with bamboo nets"],
+      "best_time": "late afternoon",
+      "duration_hours": 2,
+      "googleMapsUrl": "https://maps.app.goo.gl/SAs6hJStx8RtZ"
+    },
+    {
+      "id": 3,
+      "slug": "mekong-sunset-boat-cruise",
+      "name": {
+        "en": "Mekong Sunset Boat Cruise",
+        "nl": "Mekong Zonsondergang Boottocht"
+      },
+      "type": "relaxation",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Magical sunset cruise along the Mekong River departing at 5:30 PM from near the golden Naga statue. For just 150 THB per person, the price includes beer, drinks, and food while you drift along the river watching the sun set behind the Laotian mountains — one of the best value experiences on the entire Mekong.",
+        "nl": "Magische zonsondergangcruise over de Mekong die om 17:30 uur vertrekt bij het gouden Naga-standbeeld. Voor slechts 150 THB per persoon is bier, drankjes en eten inbegrepen terwijl je over de rivier drijft en de zon ziet ondergaan achter de Laotiaanse bergen — een van de beste prijs-kwaliteitervaringen aan de hele Mekong."
+      },
+      "entrance_fee": {
+        "thb": 150,
+        "usd": 4
+      },
+      "highlights": ["Sunset over Laos", "Beer & food included", "Mekong River views", "Departs 5:30 PM daily"],
+      "best_time": "late afternoon",
+      "duration_hours": 1.5
+    },
+    {
+      "id": 4,
+      "slug": "phra-that-phanom-style-stupas",
+      "name": {
+        "en": "Phra That Phanom Style Stupas",
+        "nl": "Phra That Phanom Stijl Stupa's"
+      },
+      "type": "temple",
+      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "description": {
+        "en": "Distinctive Lao-style golden pointed stupas found throughout Nakhon Phanom along the Mekong, completely different from temple architecture in other parts of Thailand. The tall, sharply pointed golden spires symbolize the upward direction toward enlightenment, reflecting the region's deep Laotian Buddhist cultural connections.",
+        "nl": "Kenmerkende Laotiaanse gouden spitse stupa's die je overal in Nakhon Phanom langs de Mekong vindt, totaal anders dan de tempelarchitectuur in andere delen van Thailand. De hoge, scherp gepunte gouden torenspitsen symboliseren de opwaartse richting naar verlichting en weerspiegelen de diepe Laotiaans-boeddhistische culturele banden van de regio."
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Unique Lao-style architecture", "Golden pointed spires", "Mekong riverfront temples", "Symbolism of enlightenment"],
+      "best_time": "morning",
+      "duration_hours": 1.5
+    },
+    {
+      "id": 5,
+      "slug": "vietnamese-thai-food-street",
+      "name": {
+        "en": "Vietnamese-Thai Food Street",
+        "nl": "Vietnamees-Thaise Eetstraat"
+      },
+      "type": "food",
+      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "description": {
+        "en": "Nakhon Phanom's famous Vietnamese-Thai food scene featuring three unmissable breakfast spots: a wooden house serving rice congee with roasted pork and banana, a popular noodle restaurant, and the best of all — a Vietnamese pancake (banh xeo) and dumpling house. Flavors you cannot find anywhere else in Thailand.",
+        "nl": "De beroemde Vietnamees-Thaise foodscene van Nakhon Phanom met drie onmisbare ontbijtplekken: een houten huis dat rijstpap met geroosterd varkensvlees en banaan serveert, een populair noedelrestaurant, en de beste van allemaal — een Vietnamees pannenkoeken- (banh xeo) en dumplinghuis. Smaken die je nergens anders in Thailand vindt."
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Vietnamese pancakes & dumplings", "Rice congee with pork & banana", "Unique fusion flavors", "Authentic local breakfast culture"],
+      "best_time": "morning",
+      "duration_hours": 1.5
+    }
+  ]
+}

@@ -12,8 +12,8 @@
     "nl": "Volg de machtige Mekong-rivier over meer dan 800 kilometer langs de natuurlijke grens tussen Thailand en Laos. Deze motorfiets- of autoreis afzijdig van het gebaande pad brengt je langs charmante rivierstadjes, oude tempels, ochtendlijke aalmoezenceremonies en enkele van de meest authentieke Thaise ervaringen die je kunt vinden. Van de mistige ochtenden van Chiang Khan tot de verborgen dorpjes van Isaan — dit is het Thailand dat de meeste toeristen nooit zien."
   },
   "image": "/images/cities/bangkok/downtown-bangkok.webp",
-  "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos", "Den Ping Cave", "Friendship Bridge", "Jungle Tractor Adventure", "Three Whale Rock", "Sculpture Park", "Sunken Stupa", "Wat Phu Tok", "Naga Cave", "Tham Phra Waterfall"],
-  "cities": ["chiang-khan", "nong-khai", "bueng-kan"],
+  "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos", "Den Ping Cave", "Friendship Bridge", "Jungle Tractor Adventure", "Three Whale Rock", "Sculpture Park", "Sunken Stupa", "Wat Phu Tok", "Naga Cave", "Tham Phra Waterfall", "Ho Chi Minh House", "Mekong Sunset Cruise", "Vietnamese-Thai Food"],
+  "cities": ["chiang-khan", "nong-khai", "bueng-kan", "nakhon-phanom"],
   "budget": {
     "budget": { "total": "$300-500", "perDay": "$20-35", "currency": "THB", "totalThb": "10,500-17,500" },
     "midrange": { "total": "$600-900", "perDay": "$40-65", "currency": "THB", "totalThb": "21,000-31,500" },
@@ -356,6 +356,90 @@
         "luxury": { "en": "Best riverside hotel you can find (1,200-2,000 THB/night)", "nl": "Beste rivierhotel dat je kunt vinden (1.200-2.000 THB/nacht)" }
       },
       "transport": { "en": "Motorbike along Route 212 east from Bueng Kan toward Nakhon Phanom. Allow 2-3 hours for the ride, but take your time — the scenery along the Mekong is spectacular.", "nl": "Motor langs Route 212 naar het oosten vanuit Bueng Kan richting Nakhon Phanom. Reken op 2-3 uur voor de rit, maar neem je tijd — het landschap langs de Mekong is spectaculair." }
+    },
+    {
+      "day": 9,
+      "title": {
+        "en": "Arrive in Nakhon Phanom & Vietnamese Heritage",
+        "nl": "Aankomst in Nakhon Phanom & Vietnamese Erfgoed"
+      },
+      "city": "nakhon-phanom",
+      "activities": [
+        {
+          "name": { "en": "Sacred Lake Boat Trip", "nl": "Heilig Meer Boottocht" },
+          "duration": "1-2 hours",
+          "cost": "50 THB boat + 30 THB entry",
+          "type": "cultural",
+          "tip": { "en": "On the way from Bueng Kan, stop at a sacred lake where locals take boat trips to pray at temple islands and a holy water source. According to local belief, a powerful Naga spirit lives beneath the lake and protects the region. Locals come to pray, make offerings, and even ask for lucky lottery numbers. Boats leave from multiple entry points — just 50 THB for the ride.", "nl": "Op weg vanuit Bueng Kan, stop bij een heilig meer waar bewoners boottochten maken om te bidden bij tempeleilanden en een heilige waterbron. Volgens lokaal geloof leeft er een krachtige Naga-geest onder het meer die de regio beschermt. Bewoners komen om te bidden, offers te brengen en zelfs om geluksnummers voor de loterij te vragen. Boten vertrekken vanaf meerdere instappunten — slechts 50 THB voor de rit." }
+        },
+        {
+          "name": { "en": "Golden Lao-Style Stupas along the Mekong", "nl": "Gouden Laotiaanse Stupa's langs de Mekong" },
+          "duration": "1 hour",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "You'll notice these pointed white-and-gold stupas are unique to this region — different from temples elsewhere in Thailand. The shape symbolizes the upward direction toward enlightenment. You'll see four or five along this stretch of the Mekong, with the Laotian Tha Khek mountains as a dramatic backdrop.", "nl": "Je zult merken dat deze puntige wit-gouden stupa's uniek zijn voor deze regio — anders dan tempels elders in Thailand. De vorm symboliseert de opwaartse richting naar verlichting. Je ziet er vier of vijf langs dit stuk van de Mekong, met de Laotiaanse Tha Khek-bergen als dramatisch decor." }
+        },
+        {
+          "name": { "en": "Ho Chi Minh House", "nl": "Ho Chi Minh Huis" },
+          "duration": "1-2 hours",
+          "cost": "30-200 THB",
+          "type": "cultural",
+          "tip": { "en": "A quiet wooden house where Ho Chi Minh lived in exile in the 1920s while secretly organizing Vietnamese independence movements. The house has been reconstructed in original style with wooden walls, thatched roof, and simple furniture. The gardens are full of fruit trees he planted by hand — pomelo, guava, jackfruit, karamoa. A fascinating piece of Vietnamese history hidden in rural Thailand. Explains why Nakhon Phanom has such strong Vietnamese cultural connections.", "nl": "Een stil houten huis waar Ho Chi Minh in ballingschap woonde in de jaren 1920 terwijl hij in het geheim Vietnamese onafhankelijkheidsbewegingen organiseerde. Het huis is gereconstrueerd in originele stijl met houten muren, rieten dak en eenvoudig meubilair. De tuinen staan vol met fruitbomen die hij eigenhandig plantte — pomelo, guave, jackfruit, karamoa. Een fascinerend stukje Vietnamese geschiedenis verborgen in landelijk Thailand. Verklaart waarom Nakhon Phanom zulke sterke Vietnamese culturele banden heeft." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Stop at a village stall during the morning ride (40-80 THB)", "nl": "Stop bij een dorpskraam tijdens de ochtendrit (40-80 THB)" },
+        "lunch": { "en": "Vietnamese-Thai restaurant in Nakhon Phanom — try the rice congee with roasted pork (80-150 THB)", "nl": "Vietnamees-Thais restaurant in Nakhon Phanom — probeer de rijstcongee met geroosterd varkensvlees (80-150 THB)" },
+        "dinner": { "en": "Riverside restaurant on the Mekong promenade (150-300 THB)", "nl": "Rivierrestaurant aan de Mekong-promenade (150-300 THB)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Riverside guesthouse with Mekong views (500-800 THB/night)", "nl": "Guesthouse aan de rivier met Mekong-uitzicht (500-800 THB/nacht)" },
+        "midrange": { "en": "Hotel near the promenade — he stayed in the same room as 3 years ago (800-1,500 THB/night)", "nl": "Hotel bij de promenade — hij verbleef in dezelfde kamer als 3 jaar geleden (800-1.500 THB/nacht)" },
+        "luxury": { "en": "Best riverside hotel with mountain views across to Laos (1,500-3,000 THB/night)", "nl": "Beste rivierhotel met bergzicht naar Laos (1.500-3.000 THB/nacht)" }
+      },
+      "transport": { "en": "Ride from Bueng Kan along Route 212 — long but scenic. Alternatively, fly from Bangkok to Nakhon Phanom Airport (short flight). In town, everything is reachable by bicycle or motorbike.", "nl": "Rit vanuit Bueng Kan langs Route 212 — lang maar schilderachtig. Je kunt ook vliegen vanuit Bangkok naar Nakhon Phanom Airport (korte vlucht). In de stad is alles bereikbaar per fiets of motor." }
+    },
+    {
+      "day": 10,
+      "title": {
+        "en": "Nakhon Phanom Food Tour & Mekong Sunset Cruise",
+        "nl": "Nakhon Phanom Food Tour & Mekong Zonsondergangscruise"
+      },
+      "city": "nakhon-phanom",
+      "activities": [
+        {
+          "name": { "en": "Triple Breakfast Food Tour", "nl": "Drievoudig Ontbijt Food Tour" },
+          "duration": "2-3 hours",
+          "cost": "200-400 THB total",
+          "type": "food",
+          "tip": { "en": "Nakhon Phanom's food scene is incredible — do three breakfast stops like the video: 1) Wooden house restaurant for rice congee with roasted pork and banana (traditional Thai-Vietnamese), 2) Noodle restaurant next door, 3) Vietnamese pancakes and dumplings place (the best one). The food is a unique fusion of Thai and Vietnamese cuisine you won't find anywhere else in Thailand.", "nl": "De foodscene van Nakhon Phanom is ongelooflijk — doe drie ontbijtstops zoals in de video: 1) Houten huisrestaurant voor rijstcongee met geroosterd varkensvlees en banaan (traditioneel Thais-Vietnamees), 2) Noedelrestaurant ernaast, 3) Vietnamese pannenkoeken- en dumplingzaak (de beste). Het eten is een unieke fusie van Thaise en Vietnamese keuken die je nergens anders in Thailand vindt." }
+        },
+        {
+          "name": { "en": "Explore Nakhon Phanom by Bicycle", "nl": "Verken Nakhon Phanom per Fiets" },
+          "duration": "2-3 hours",
+          "cost": "Free or bike rental",
+          "type": "relaxation",
+          "tip": { "en": "Cycle along the Mekong promenade, explore the backstreets, and discover the Vietnamese cultural influences everywhere — in the food sold, faces on the street, and even the language spoken by some locals. The architecture is beautiful with golden flashes of art and temples. 'The perfect culinary escape from busy Bangkok.'", "nl": "Fiets langs de Mekong-promenade, verken de achterstraatjes en ontdek overal de Vietnamese culturele invloeden — in het eten dat verkocht wordt, de gezichten op straat en zelfs de taal die door sommige bewoners gesproken wordt. De architectuur is prachtig met gouden flitsen van kunst en tempels. 'De perfecte culinaire ontsnapping uit het drukke Bangkok.'" }
+        },
+        {
+          "name": { "en": "Mekong Sunset Boat Cruise", "nl": "Mekong Zonsondergangs Boottocht" },
+          "duration": "1.5-2 hours",
+          "cost": "150 THB",
+          "type": "relaxation",
+          "tip": { "en": "Depart at 5:30 PM from near the golden Naga statue on the main road along the Mekong. The 150 THB boat cruise includes beer, drinks, and food. Watch the sunset paint the Mekong gold while the Laotian mountains glow in the distance. An unforgettable way to spend an evening. Night market and live music on the promenade afterward.", "nl": "Vertrek om 17:30 uur bij het gouden Naga-beeld aan de hoofdweg langs de Mekong. De boottocht van 150 THB is inclusief bier, drankjes en eten. Kijk hoe de zonsondergang de Mekong goud kleurt terwijl de Laotiaanse bergen in de verte gloeien. Een onvergetelijke manier om een avond door te brengen. Avondmarkt en livemuziek op de promenade daarna." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Triple breakfast food tour — congee, noodles, and Vietnamese pancakes (200-400 THB)", "nl": "Drievoudige ontbijt food tour — congee, noedels en Vietnamese pannenkoeken (200-400 THB)" },
+        "lunch": { "en": "Banana bread food truck along the promenade — bread baked over coals with flavorful fillings (50-100 THB)", "nl": "Bananenbrood foodtruck langs de promenade — brood gebakken op kolen met smaakvolle vullingen (50-100 THB)" },
+        "dinner": { "en": "Dinner on the Mekong sunset boat cruise (included in 150 THB), plus night market snacks after", "nl": "Diner op de Mekong zonsondergangscruise (inbegrepen bij 150 THB), plus avondmarktsnacks daarna" }
+      },
+      "accommodation": {
+        "budget": { "en": "Same riverside guesthouse — stay a second night (500-800 THB/night)", "nl": "Hetzelfde guesthouse aan de rivier — blijf een tweede nacht (500-800 THB/nacht)" },
+        "midrange": { "en": "Same hotel near the promenade (800-1,500 THB/night)", "nl": "Hetzelfde hotel bij de promenade (800-1.500 THB/nacht)" },
+        "luxury": { "en": "Same luxury riverside hotel (1,500-3,000 THB/night)", "nl": "Hetzelfde luxe rivierhotel (1.500-3.000 THB/nacht)" }
+      },
+      "transport": { "en": "Everything in Nakhon Phanom is reachable by bicycle. Rent one for the day. The sunset cruise departs from near the golden Naga statue on the main riverside road.", "nl": "Alles in Nakhon Phanom is bereikbaar per fiets. Huur er een voor de dag. De zonsondergangscruise vertrekt bij het gouden Naga-beeld aan de hoofdweg langs de rivier." }
     }
   ],
   "contentSources": [
@@ -386,6 +470,13 @@
       "creator": "Paddy Doyle - Live Love Thailand",
       "url": "https://www.youtube.com/watch?v=0DeWTAHtp9Y",
       "description": "Exploring Bueng Kan's hidden gems: Wat Phu Tok cliff temple, natural waterfall slides, and the legendary Naga Cave trail."
+    },
+    {
+      "type": "video",
+      "title": "Mekong Adventure Episode 5: Nakhon Phanom",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=gBwnkvnKjEA",
+      "description": "Exploring Nakhon Phanom's Vietnamese heritage, food scene, and sunset Mekong cruises."
     }
   ],
   "seo": {

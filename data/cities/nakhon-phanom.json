@@ -1,0 +1,59 @@
+{
+  "id": 32,
+  "slug": "nakhon-phanom",
+  "name": {
+    "en": "Nakhon Phanom",
+    "nl": "Nakhon Phanom"
+  },
+  "region": "Isaan",
+  "province": "Nakhon Phanom",
+  "description": {
+    "en": "Charming Mekong riverside city with deep Vietnamese cultural connections. Famous for its golden Lao-style stupas, the Ho Chi Minh House, incredible Vietnamese-Thai fusion food, and stunning sunset boat cruises on the Mekong with views of the Laotian mountains.",
+    "nl": "Charmante stad aan de Mekong met diepe Vietnamese culturele banden. Beroemd om gouden Laotiaanse stupa's, het Ho Chi Minh Huis, ongelooflijk Vietnamees-Thais fusie-eten en adembenemende zonsondergangcruises op de Mekong met uitzicht op de Laotiaanse bergen."
+  },
+  "population": 85000,
+  "highlights": [
+    "Ho Chi Minh House",
+    "Golden Stupas",
+    "Mekong Sunset Cruises",
+    "Vietnamese-Thai Food",
+    "Mekong Promenade"
+  ],
+  "location": {
+    "lat": 17.4048,
+    "lng": 104.7771
+  },
+  "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Nakhon Phanom | What to do in Nakhon Phanom?",
+      "nl": "Ontdek Nakhon Phanom | Wat te doen in Nakhon Phanom?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Nakhon Phanom, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Nakhon Phanom, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Nakhon Phanom",
+      "nl": "Beste restaurants en streetfood in Nakhon Phanom"
+    },
+    "hotels": {
+      "en": "Top hotels in Nakhon Phanom | Tips & deals",
+      "nl": "Beste hotels in Nakhon Phanom | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Nakhon Phanom",
+      "nl": "Top bezienswaardigheden in Nakhon Phanom"
+    }
+  },
+  "tags": [
+    "isaan",
+    "nakhon phanom",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}
