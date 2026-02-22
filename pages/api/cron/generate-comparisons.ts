@@ -19,30 +19,79 @@ const ISLANDS = [
 ];
 
 const CITIES = [
+  // Tier 1: Major tourist cities (highest search volume)
   { slug: "bangkok", name: "Bangkok" },
   { slug: "chiang-mai", name: "Chiang Mai" },
   { slug: "phuket", name: "Phuket" },
   { slug: "pattaya", name: "Pattaya" },
-  { slug: "ayutthaya", name: "Ayutthaya" },
   { slug: "krabi", name: "Krabi" },
   { slug: "chiang-rai", name: "Chiang Rai" },
-  { slug: "hat-yai", name: "Hat Yai" },
+  { slug: "koh-samui", name: "Koh Samui" },
+  { slug: "hua-hin", name: "Hua Hin" },
+  // Tier 2: Popular tourist cities
+  { slug: "ayutthaya", name: "Ayutthaya" },
+  { slug: "pai", name: "Pai" },
+  { slug: "kanchanaburi", name: "Kanchanaburi" },
   { slug: "sukhothai", name: "Sukhothai" },
+  { slug: "hat-yai", name: "Hat Yai" },
   { slug: "surat-thani", name: "Surat Thani" },
+  { slug: "trat", name: "Trat" },
+  { slug: "rayong", name: "Rayong" },
+  // Tier 3: Regional & emerging cities
+  { slug: "khon-kaen", name: "Khon Kaen" },
+  { slug: "udon-thani", name: "Udon Thani" },
+  { slug: "nakhon-ratchasima", name: "Nakhon Ratchasima" },
+  { slug: "ubon-ratchathani", name: "Ubon Ratchathani" },
+  { slug: "lampang", name: "Lampang" },
+  { slug: "mae-hong-son", name: "Mae Hong Son" },
+  { slug: "phitsanulok", name: "Phitsanulok" },
+  { slug: "lopburi", name: "Lopburi" },
+  { slug: "chanthaburi", name: "Chanthaburi" },
+  { slug: "trang", name: "Trang" },
+  { slug: "chumphon", name: "Chumphon" },
+  { slug: "nakhon-si-thammarat", name: "Nakhon Si Thammarat" },
+  // Tier 4: Mekong & Isaan gems
+  { slug: "chiang-khan", name: "Chiang Khan" },
+  { slug: "nong-khai", name: "Nong Khai" },
+  { slug: "bueng-kan", name: "Bueng Kan" },
+  { slug: "nakhon-phanom", name: "Nakhon Phanom" },
+  { slug: "mukdahan", name: "Mukdahan" },
 ];
 
-// Priority order for generation (most popular first)
+// Priority order for generation (highest search volume first)
 const PRIORITY_PAIRS = [
+  // Top island comparisons
   { i1: "koh-samui", i2: "koh-phangan", type: "island" as const },
-  { i1: "bangkok", i2: "chiang-mai", type: "city" as const },
   { i1: "koh-samui", i2: "koh-tao", type: "island" as const },
-  { i1: "bangkok", i2: "phuket", type: "city" as const },
   { i1: "koh-phi-phi", i2: "koh-lanta", type: "island" as const },
-  { i1: "chiang-mai", i2: "phuket", type: "city" as const },
   { i1: "koh-phangan", i2: "koh-tao", type: "island" as const },
   { i1: "koh-samui", i2: "koh-phi-phi", type: "island" as const },
   { i1: "koh-chang", i2: "koh-lipe", type: "island" as const },
   { i1: "koh-lanta", i2: "koh-lipe", type: "island" as const },
+  { i1: "koh-samui", i2: "koh-chang", type: "island" as const },
+  { i1: "koh-samet", i2: "koh-chang", type: "island" as const },
+  { i1: "koh-phi-phi", i2: "koh-tao", type: "island" as const },
+  // Top city comparisons (highest search volume)
+  { i1: "bangkok", i2: "chiang-mai", type: "city" as const },
+  { i1: "bangkok", i2: "phuket", type: "city" as const },
+  { i1: "chiang-mai", i2: "phuket", type: "city" as const },
+  { i1: "bangkok", i2: "pattaya", type: "city" as const },
+  { i1: "phuket", i2: "krabi", type: "city" as const },
+  { i1: "bangkok", i2: "krabi", type: "city" as const },
+  { i1: "chiang-mai", i2: "chiang-rai", type: "city" as const },
+  { i1: "chiang-mai", i2: "pai", type: "city" as const },
+  { i1: "phuket", i2: "pattaya", type: "city" as const },
+  { i1: "bangkok", i2: "hua-hin", type: "city" as const },
+  { i1: "phuket", i2: "koh-samui", type: "city" as const },
+  { i1: "bangkok", i2: "ayutthaya", type: "city" as const },
+  { i1: "bangkok", i2: "kanchanaburi", type: "city" as const },
+  { i1: "bangkok", i2: "chiang-rai", type: "city" as const },
+  { i1: "krabi", i2: "koh-samui", type: "city" as const },
+  { i1: "hua-hin", i2: "pattaya", type: "city" as const },
+  { i1: "chiang-rai", i2: "pai", type: "city" as const },
+  { i1: "phuket", i2: "hua-hin", type: "city" as const },
+  { i1: "sukhothai", i2: "ayutthaya", type: "city" as const },
+  { i1: "hat-yai", i2: "krabi", type: "city" as const },
 ];
 
 function generateAllPairs(items: Array<{ slug: string; name: string }>, type: "island" | "city") {
@@ -113,7 +162,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       }
 
       filesToGenerate.push(pair);
-      if (filesToGenerate.length >= 2) break; // Generate max 2 per run
+      if (filesToGenerate.length >= 3) break; // Generate max 3 per run
     }
 
     if (filesToGenerate.length === 0) {
