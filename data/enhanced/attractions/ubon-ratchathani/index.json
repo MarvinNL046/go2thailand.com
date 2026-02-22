@@ -1,7 +1,7 @@
 {
   "city_slug": "ubon-ratchathani",
   "city_name": "Ubon Ratchathani",
-  "total_attractions": 9,
+  "total_attractions": 14,
   "attractions": [
     {
       "id": 1, "slug": "pha-taem-national-park",
@@ -62,9 +62,12 @@
       "name": { "en": "Khong Jiam (Two-Color River)", "nl": "Khong Jiam (Tweekleurenrivier)" },
       "type": "nature",
       "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": { "en": "The confluence where the brown Mun River meets the blue Mekong, creating a striking two-toned effect", "nl": "De samenvloeiing waar de bruine Mun-rivier de blauwe Mekong ontmoet, wat een opvallend tweekleureneffect creëert" },
+      "description": { "en": "The confluence where the brown Mun River meets the blue Mekong, creating a striking two-toned effect. Take a longtail boat to the exact meeting point for the best views of the contrasting waters.", "nl": "De samenvloeiing waar de bruine Mun-rivier de blauwe Mekong ontmoet, wat een opvallend tweekleureneffect creëert. Neem een longtailboot naar het exacte ontmoetingspunt voor het beste uitzicht op de contrasterende wateren." },
       "entrance_fee": { "thb": 0, "usd": 0 },
-      "highlights": ["Two-color river confluence", "Mekong and Mun rivers", "Boat trips available"]
+      "googleMapsUrl": "https://maps.app.goo.gl/PhHchTmtCR6jp",
+      "highlights": ["Two-color river confluence", "Mekong and Mun rivers", "Boat trips available", "Longtail boat to meeting point"],
+      "best_time": "morning",
+      "duration_hours": 1.5
     },
     {
       "id": 8, "slug": "ubon-ratchathani-national-museum",
@@ -83,6 +86,96 @@
       "description": { "en": "Sprawling evening food market with authentic Isaan cuisine including fermented sausages, grilled chicken, and papaya salad", "nl": "Uitgebreide avondvoedselmarkt met authentieke Isaan keuken waaronder gefermenteerde worstjes, gegrilde kip en papajasalade" },
       "entrance_fee": { "thb": 0, "usd": 0 },
       "highlights": ["Isaan street food", "Fermented sausages", "Grilled chicken and sticky rice"]
+    },
+    {
+      "id": 10, "slug": "sao-chaliang",
+      "name": {
+        "en": "Sao Chaliang",
+        "nl": "Sao Chaliang"
+      },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Extraordinary mushroom-shaped rock formations carved by millions of years of erosion in Pha Taem National Park. These towering sandstone pillars with flat caps are among the most unique geological wonders in Isaan.",
+        "nl": "Buitengewone paddenstoelvormige rotsformaties gevormd door miljoenen jaren erosie in Pha Taem Nationaal Park. Deze torenhoge zandstenen pilaren met platte kappen behoren tot de meest unieke geologische wonderen in Isaan."
+      },
+      "entrance_fee": { "thb": 200, "usd": 6 },
+      "googleMapsUrl": "https://maps.app.goo.gl/AXvtP2TJW1zBL",
+      "highlights": ["Mushroom-shaped rock pillars", "Millions of years of erosion", "Inside Pha Taem National Park", "Unique sandstone formations"],
+      "best_time": "morning",
+      "duration_hours": 1.5
+    },
+    {
+      "id": 11, "slug": "prehistoric-paintings-pha-mon-noi",
+      "name": {
+        "en": "Prehistoric Paintings (Pha Mon Noi)",
+        "nl": "Prehistorische Schilderingen (Pha Mon Noi)"
+      },
+      "type": "cultural",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "Ancient cliff paintings at Pha Mon Noi within Pha Taem National Park, featuring prehistoric art depicting fish, animals, and human figures dating back thousands of years. A fascinating window into the lives of early Mekong River communities.",
+        "nl": "Oude rotsschilderingen bij Pha Mon Noi in Pha Taem Nationaal Park, met prehistorische kunst van vissen, dieren en menselijke figuren die duizenden jaren oud zijn. Een fascinerend venster op het leven van vroege Mekong-riviergemeenschappen."
+      },
+      "entrance_fee": { "thb": 200, "usd": 6 },
+      "googleMapsUrl": "https://maps.app.goo.gl/zPpDcAoCm2jQb",
+      "highlights": ["Prehistoric rock art", "Fish and animal paintings", "Thousands of years old", "Inside Pha Taem National Park"],
+      "best_time": "morning",
+      "duration_hours": 1
+    },
+    {
+      "id": 12, "slug": "soi-sawan-waterfall",
+      "name": {
+        "en": "Soi Sawan Waterfall",
+        "nl": "Soi Sawan Waterval"
+      },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "A stunning multi-tiered waterfall in Pha Taem National Park, cascading over wide sandstone ledges into a natural pool below. The name means 'Heaven's Lane' and the waterfall is most impressive during and just after the rainy season.",
+        "nl": "Een prachtige waterval met meerdere niveaus in Pha Taem Nationaal Park, die over brede zandstenen richels in een natuurlijk zwembad beneden stroomt. De naam betekent 'Hemelse Laan' en de waterval is het meest indrukwekkend tijdens en net na het regenseizoen."
+      },
+      "entrance_fee": { "thb": 200, "usd": 6 },
+      "googleMapsUrl": "https://maps.app.goo.gl/7EU8P4S4u6smt",
+      "highlights": ["Multi-tiered waterfall", "Natural swimming pool", "Name means Heaven's Lane", "Best after rainy season"],
+      "best_time": "morning",
+      "duration_hours": 2
+    },
+    {
+      "id": 13, "slug": "sang-chan-waterfall",
+      "name": {
+        "en": "Sang Chan Waterfall",
+        "nl": "Sang Chan Waterval"
+      },
+      "type": "nature",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "A beautiful wide waterfall that spreads across a broad sandstone cliff face, creating a curtain-like cascade. Located in the Ubon Ratchathani countryside, it is a peaceful spot surrounded by lush forest and popular with locals for picnics.",
+        "nl": "Een prachtige brede waterval die zich over een breed zandstenen klif verspreidt en een gordijnachtige cascade creëert. Gelegen op het platteland van Ubon Ratchathani, is het een rustige plek omringd door weelderig bos en populair bij lokale bewoners voor picknicks."
+      },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "googleMapsUrl": "https://maps.app.goo.gl/gd8Tj7QfqqiZc",
+      "highlights": ["Wide curtain-like waterfall", "Sandstone cliff cascade", "Peaceful forest setting", "Popular local picnic spot"],
+      "best_time": "morning",
+      "duration_hours": 1.5
+    },
+    {
+      "id": 14, "slug": "pk-riverside-resort",
+      "name": {
+        "en": "PK Riverside Resort",
+        "nl": "PK Riverside Resort"
+      },
+      "type": "accommodation",
+      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "description": {
+        "en": "A charming riverside resort in Khong Jiam district offering floating raft rooms and bungalows on the banks of the Mekong River. Perfect base for exploring the two-color river, Pha Taem, and surrounding nature attractions.",
+        "nl": "Een charmant resort aan de rivier in het Khong Jiam-district met drijvende vlothuisjes en bungalows aan de oevers van de Mekong. Perfecte uitvalsbasis voor het verkennen van de tweekleurenrivier, Pha Taem en omliggende natuurattracties."
+      },
+      "entrance_fee": { "thb": 0, "usd": 0 },
+      "googleMapsUrl": "https://maps.app.goo.gl/WhcaHD9gXVHvZ",
+      "highlights": ["Riverside Mekong location", "Floating raft rooms", "Base for Khong Jiam area", "Views over the river"],
+      "best_time": "any",
+      "duration_hours": 0
     }
   ]
 }

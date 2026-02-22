@@ -278,7 +278,68 @@
     }
   },
   "overview": "Ubon Ratchathani, located in Thailand's Isaan region along the Mekong River, is a hidden gem that rivals more famous Thai destinations with its unique cultural attractions and natural wonders. The city of 190,000 people is most famous for its spectacular Candle Festival held each July, where massive wax sculptures parade through the streets accompanied by traditional Mor lam music. Beyond the festival, Ubon offers breathtaking natural attractions like Sam Phan Bok (the \"Grand Canyon of Thailand\"), prehistoric cliff paintings at Pha Taem National Park, and the scenic confluence of two rivers at Khong Jiam, making it an ideal destination for travelers seeking authentic Isaan experiences away from Bangkok's crowds.",
-  "thingsToDo": "Ubon's natural attractions are among Thailand's finest. Start with Pha Taem National Park (200 THB/$6 entrance), where you can see ancient prehistoric cliff paintings dating back thousands of years and watch sunrise over the Mekong River from the viewpoint. Sam Phan Bok, free to enter and accessible December through May, features the iconic turquoise rock pools and dramatic canyon formations that earned it the \"Grand Canyon of Thailand\" nickname. For spiritual experiences, visit Wat Sirindhorn Wararam (the \"Glow Temple\") where intricate murals illuminate after sunset, or Wat Nong Bua with its striking Mahabodhi-style architecture. Nature lovers should explore Kaeng Saphu Rapids for sunset views over Laos and riverside dining, or take a boat trip at Khong Jiam to witness the confluence of the Mekong and Mun rivers. The Ubon Ratchathani National Museum (100 THB/$3) housed in a former palace building showcases Candle Festival exhibits and Isaan cultural artifacts. Evening exploration of Ratchabut Road Night Market offers authentic street food including fermented sausages, grilled chicken, and sticky rice.",
+  "thingsToDo": [
+    {
+      "name": {
+        "en": "General Ubon Attractions",
+        "nl": "Algemene Ubon Bezienswaardigheden"
+      },
+      "description": {
+        "en": "Ubon's natural attractions are among Thailand's finest. Start with Pha Taem National Park (200 THB/$6 entrance), where you can see ancient prehistoric cliff paintings dating back thousands of years and watch sunrise over the Mekong River from the viewpoint. Sam Phan Bok, free to enter and accessible December through May, features the iconic turquoise rock pools and dramatic canyon formations that earned it the 'Grand Canyon of Thailand' nickname. For spiritual experiences, visit Wat Sirindhorn Wararam (the 'Glow Temple') where intricate murals illuminate after sunset, or Wat Nong Bua with its striking Mahabodhi-style architecture. Nature lovers should explore Kaeng Saphu Rapids for sunset views over Laos and riverside dining, or take a boat trip at Khong Jiam to witness the confluence of the Mekong and Mun rivers. The Ubon Ratchathani National Museum (100 THB/$3) housed in a former palace building showcases Candle Festival exhibits and Isaan cultural artifacts. Evening exploration of Ratchabut Road Night Market offers authentic street food including fermented sausages, grilled chicken, and sticky rice.",
+        "nl": "De natuurlijke attracties van Ubon behoren tot de beste van Thailand. Begin bij Pha Taem National Park (200 THB/$6 entree), waar je eeuwenoude prehistorische rotstekeningen kunt zien die duizenden jaren oud zijn en zonsopgang over de Mekong kunt bekijken vanaf het uitzichtpunt. Sam Phan Bok, gratis toegankelijk van december tot mei, heeft de iconische turquoise rotspoelen en dramatische canyonformaties die het de bijnaam 'Grand Canyon van Thailand' opleverden. Voor spirituele ervaringen bezoek je Wat Sirindhorn Wararam (de 'Gloeitemple') waar ingewikkelde muurschilderingen oplichten na zonsondergang, of Wat Nong Bua met zijn opvallende Mahabodhi-architectuur. Natuurliefhebbers verkennen Kaeng Saphu stroomversnellingen voor zonsondergangen over Laos en eten aan de rivier, of maken een boottocht bij Khong Jiam om de samenvloeiing van de Mekong en Mun rivieren te zien. Het Ubon Ratchathani Nationaal Museum (100 THB/$3) in een voormalig paleisgebouw toont tentoonstellingen over het Kaarsenfestival en Isaan culturele artefacten. 's Avonds kun je de Ratchabut Road Nachtmarkt verkennen voor authentiek streetfood inclusief gefermenteerde worstjes, gegrilde kip en kleefrijst."
+      }
+    },
+    {
+      "name": {
+        "en": "Pha Taem National Park",
+        "nl": "Pha Taem Nationaal Park"
+      },
+      "description": {
+        "en": "Home to the dramatic Sao Chaliang rock formations — alien planet-like cracks in the earth that look like nothing else in Thailand. The park also features prehistoric cave paintings over 3,000 years old, depicting elephants, turtles, handprints, and humanoid figures on the cliff face. This is the most easterly point of Thailand with epic sunrise potential — arrive early for the most spectacular views over the Mekong and Laos. Entry: 200 THB for foreigners. Multiple geological wonders make this a must-visit for nature and history lovers.",
+        "nl": "Thuisbasis van de dramatische Sao Chaliang rotsformaties — buitenaards aandoende scheuren in de aarde die er uitzien als niets anders in Thailand. Het park heeft ook prehistorische grotschilderingen van meer dan 3.000 jaar oud, met afbeeldingen van olifanten, schildpadden, handafdrukken en mensachtige figuren op de rotswand. Dit is het meest oostelijke punt van Thailand met episch zonsopgangpotentieel — kom vroeg voor de meest spectaculaire uitzichten over de Mekong en Laos. Entree: 200 THB voor buitenlanders. Meerdere geologische wonderen maken dit een must-visit voor natuur- en geschiedenisliefhebbers."
+      }
+    },
+    {
+      "name": {
+        "en": "Soi Sawan Waterfall",
+        "nl": "Soi Sawan Waterval"
+      },
+      "description": {
+        "en": "A beautiful waterfall within Pha Taem National Park, worth the drive even in bad weather. The rocks around the falls are extremely slippery — injuries are common, so exercise caution. Brave visitors can try the natural water slides formed by the smooth rock surfaces. The lush surrounding jungle adds to the atmosphere.",
+        "nl": "Een prachtige waterval in Pha Taem National Park, de rit waard zelfs bij slecht weer. De rotsen rond de waterval zijn extreem glad — verwondingen komen vaak voor, dus wees voorzichtig. Dappere bezoekers kunnen de natuurlijke waterglijbanen proberen die gevormd zijn door de gladde rotsoppervlakken. De weelderige omringende jungle draagt bij aan de sfeer."
+      }
+    },
+    {
+      "name": {
+        "en": "Sang Chan Waterfall",
+        "nl": "Sang Chan Waterval"
+      },
+      "description": {
+        "en": "A unique waterfall with a fascinating natural phenomenon: water flows into a hole and emerges spectacularly from below. You can view from the top where the water disappears into the hole, then walk to a lower viewpoint to see it emerge from the rock face. This two-perspective experience makes Sang Chan unlike any other waterfall in Thailand.",
+        "nl": "Een unieke waterval met een fascinerend natuurfenomeen: water stroomt in een gat en komt spectaculair van onderaf tevoorschijn. Je kunt van bovenaf kijken waar het water in het gat verdwijnt en dan naar een lager uitzichtpunt lopen om het uit de rotswand te zien komen. Deze ervaring vanuit twee perspectieven maakt Sang Chan anders dan elke andere waterval in Thailand."
+      }
+    },
+    {
+      "name": {
+        "en": "Two-Color River View Point",
+        "nl": "Tweekleurige Rivier Uitzichtpunt"
+      },
+      "description": {
+        "en": "Where the Mekong meets the Mun River — Thailand's Mekong endpoint. The two rivers have visibly different colors (the brown Mekong and the sometimes blue Mun), creating a striking visual where they merge. Beautiful temple grounds at the viewpoint feature golden statues and Naga sculptures. After 800 km through 7 provinces, this is where the Mekong leaves Thailand for Laos, Cambodia, and eventually Vietnam. A deeply meaningful spot for those following the Thai Mekong route.",
+        "nl": "Waar de Mekong de Mun rivier ontmoet — het eindpunt van de Mekong in Thailand. De twee rivieren hebben zichtbaar verschillende kleuren (de bruine Mekong en de soms blauwe Mun), wat een opvallend visueel effect creëert waar ze samenvloeien. Prachtige tempelterreinen bij het uitzichtpunt met gouden beelden en Naga-sculpturen. Na 800 km door 7 provincies is dit waar de Mekong Thailand verlaat richting Laos, Cambodja en uiteindelijk Vietnam. Een diep betekenisvolle plek voor wie de Thaise Mekong-route volgt."
+      }
+    },
+    {
+      "name": {
+        "en": "PK Riverside Resort",
+        "nl": "PK Riverside Resort"
+      },
+      "description": {
+        "en": "A riverside hotel at 1,300 THB/night ($36) with stunning views of the Laos cliffs across the Mekong. Features the Memory Cafe with glass walls offering panoramic river views. Perfectly located in the middle of the national park attractions — ideal as a base for exploring Pha Taem, the waterfalls, and the Two-Color River View Point.",
+        "nl": "Een hotel aan de rivier voor 1.300 THB/nacht ($36) met prachtig uitzicht op de Laotiaanse kliffen aan de overkant van de Mekong. Beschikt over het Memory Cafe met glazen wanden die panoramisch uitzicht op de rivier bieden. Perfect gelegen midden tussen de nationale park attracties — ideaal als uitvalsbasis voor het verkennen van Pha Taem, de watervallen en het Tweekleurige Rivier Uitzichtpunt."
+      }
+    }
+  ],
   "whereToStay": "Ubon Ratchathani offers accommodation across all budgets, with most options concentrated in the city center near Thung Si Muang Park. Budget travelers can find comfortable guesthouses and basic hotels for $13-25 per night, offering clean rooms with essential amenities. Mid-range hotels ($30-70/night) provide better comfort, air conditioning, and often include breakfast, making them excellent value for money. These properties are typically located in the central business district within walking distance of restaurants and the night market. For luxury seekers, higher-end hotels and resorts offer superior service, often with pools and fine dining facilities, though Ubon's luxury options remain significantly cheaper than Bangkok properties. Many accommodations are within 15 minutes of Ubon Ratchathani Airport by car, and hotel staff can arrange transportation upon request.",
   "whereToEat": [
     {
@@ -402,7 +463,10 @@
       "description": "Luxury daily costs include upscale hotels ($120-200/night), fine dining ($25-50+ per meal), private car hire with driver ($80-120/day), spa treatments ($30-60), and exclusive tours to natural attractions."
     }
   },
-  "safetyTips": "Ubon Ratchathani is generally a safe destination for travelers with low crime rates against tourists. Standard precautions apply: avoid displaying expensive jewelry or electronics, be cautious with valuables in crowded night markets, and use trusted taxis or Grab rather than hailing unmarked vehicles. Road safety is a consideration—if renting a motorbike, wear helmets (required by law) and drive defensively as local traffic can be chaotic. Petty theft occurs occasionally in crowded areas, so keep bags secure and valuables in hotel safes. The Mekong River and waterfalls are popular attractions but respect warning signs; drownings have occurred at unsafe locations. When visiting temples, dress respectfully with covered shoulders and knees. Tap water is generally not recommended for drinking; purchase bottled water instead. Ubon remains one of Thailand's safer cities with minimal gang activity or serious crime affecting tourists.",
+  "safetyTips": {
+    "en": "Ubon Ratchathani is generally a safe destination for travelers with low crime rates against tourists. Standard precautions apply: avoid displaying expensive jewelry or electronics, be cautious with valuables in crowded night markets, and use trusted taxis or Grab rather than hailing unmarked vehicles. Road safety is a consideration — if renting a motorbike, wear helmets (required by law) and drive defensively as local traffic can be chaotic. Petty theft occurs occasionally in crowded areas, so keep bags secure and valuables in hotel safes. The Mekong River and waterfalls are popular attractions but respect warning signs; drownings have occurred at unsafe locations. Waterfall areas such as Soi Sawan are extremely slippery — injuries are common, so wear proper footwear and exercise caution on wet rocks. Typhoon season (typically September-November) can bring extreme weather originating from the Philippines and Vietnam, causing sudden heavy rain, flooding, and dangerous conditions at outdoor attractions. Watch out for wasp nests along rural roads and trails near the national parks — they can be aggressive if disturbed. When visiting temples, dress respectfully with covered shoulders and knees. Tap water is generally not recommended for drinking; purchase bottled water instead. Ubon remains one of Thailand's safer cities with minimal gang activity or serious crime affecting tourists.",
+    "nl": "Ubon Ratchathani is over het algemeen een veilige bestemming voor reizigers met lage criminaliteitscijfers tegen toeristen. Standaard voorzorgsmaatregelen gelden: vermijd het tonen van dure sieraden of elektronica, wees voorzichtig met waardevolle spullen op drukke nachtmarkten en gebruik betrouwbare taxi's of Grab in plaats van ongemarkeerde voertuigen aan te houden. Verkeersveiligheid is een aandachtspunt — als je een scooter huurt, draag dan een helm (wettelijk verplicht) en rij defensief want het lokale verkeer kan chaotisch zijn. Kleine diefstal komt af en toe voor op drukke plekken, dus houd tassen veilig en berg waardevolle spullen op in hotelkluizen. De Mekong en watervallen zijn populaire attracties maar respecteer waarschuwingsborden; verdrinkingen zijn voorgekomen op onveilige locaties. Watervalgebieden zoals Soi Sawan zijn extreem glad — verwondingen komen veel voor, dus draag goed schoeisel en wees voorzichtig op natte rotsen. Het tyfoonseizoen (doorgaans september-november) kan extreem weer brengen afkomstig uit de Filipijnen en Vietnam, met plotselinge hevige regenval, overstromingen en gevaarlijke omstandigheden bij buitenattracties. Let op wespennesten langs landelijke wegen en paden nabij de nationale parken — ze kunnen agressief zijn als ze gestoord worden. Kleed je respectvol bij tempelbezoek met bedekte schouders en knieën. Kraanwater wordt over het algemeen niet aanbevolen om te drinken; koop flessenwater. Ubon blijft een van de veiligste steden van Thailand met minimale bende-activiteit of ernstige criminaliteit die toeristen treft."
+  },
   "faq": [
     {
       "question": "When is the Candle Festival and how do I attend?",
@@ -431,6 +495,26 @@
     {
       "question": "Do I need to book hotels in advance?",
       "answer": "Outside the July Candle Festival period, walk-in booking is usually possible for budget and mid-range hotels. However, booking 1-2 weeks in advance ensures better selection and potentially lower rates. During the Candle Festival, booking is absolutely essential as rooms fill weeks ahead."
+    },
+    {
+      "question": {
+        "en": "What is Pha Taem National Park known for?",
+        "nl": "Waar staat Pha Taem National Park om bekend?"
+      },
+      "answer": {
+        "en": "Prehistoric cave paintings over 3,000 years old depicting elephants, turtles, handprints, and humanoid figures. The park also features dramatic Sao Chaliang rock formations that look like alien-planet cracks in the earth, waterfalls including Soi Sawan and Sang Chan, and the most easterly point of Thailand with spectacular sunrises over the Mekong and Laos. Entry: 200 THB for foreigners.",
+        "nl": "Prehistorische grotschilderingen van meer dan 3.000 jaar oud met afbeeldingen van olifanten, schildpadden, handafdrukken en mensachtige figuren. Het park heeft ook dramatische Sao Chaliang rotsformaties die eruitzien als buitenaardse scheuren in de aarde, watervallen waaronder Soi Sawan en Sang Chan, en het meest oostelijke punt van Thailand met spectaculaire zonsopgangen over de Mekong en Laos. Entree: 200 THB voor buitenlanders."
+      }
+    },
+    {
+      "question": {
+        "en": "Where does the Mekong leave Thailand?",
+        "nl": "Waar verlaat de Mekong Thailand?"
+      },
+      "answer": {
+        "en": "At the Two-Color River View Point near Ubon Ratchathani, where the Mun River meets the Mekong. The rivers have visibly different colors — the brown Mekong and the sometimes blue Mun. This marks the end of the approximately 800 km Thai-Mekong border that passes through 7 provinces before the river continues to Laos, Cambodia, and eventually Vietnam. The viewpoint features beautiful temple grounds with golden statues and Naga sculptures.",
+        "nl": "Bij het Tweekleurige Rivier Uitzichtpunt nabij Ubon Ratchathani, waar de Mun rivier de Mekong ontmoet. De rivieren hebben zichtbaar verschillende kleuren — de bruine Mekong en de soms blauwe Mun. Dit markeert het einde van de ongeveer 800 km lange Thai-Mekong grens die door 7 provincies loopt voordat de rivier verder gaat naar Laos, Cambodja en uiteindelijk Vietnam. Het uitzichtpunt heeft prachtige tempelterreinen met gouden beelden en Naga-sculpturen."
+      }
     }
   ],
   "practicalInfo": {
@@ -450,5 +534,14 @@
       "Car rental"
     ]
   },
+  "contentSources": [
+    {
+      "type": "video",
+      "title": "Mekong Adventure Episode 7: Mukdahan to Ubon (Finale)",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=f3y4nb4zwfA",
+      "description": "The finale of the Mekong series: Pha Taem National Park with prehistoric paintings, waterfalls, and the Two-Color River Point where the Mekong meets the Mun River."
+    }
+  ],
   "enrichedAt": "2026-02-22T12:51:40.589Z"
 }

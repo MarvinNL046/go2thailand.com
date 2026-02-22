@@ -12,8 +12,8 @@
     "nl": "Volg de machtige Mekong-rivier over meer dan 800 kilometer langs de natuurlijke grens tussen Thailand en Laos. Deze motorfiets- of autoreis afzijdig van het gebaande pad brengt je langs charmante rivierstadjes, oude tempels, ochtendlijke aalmoezenceremonies en enkele van de meest authentieke Thaise ervaringen die je kunt vinden. Van de mistige ochtenden van Chiang Khan tot de verborgen dorpjes van Isaan — dit is het Thailand dat de meeste toeristen nooit zien."
   },
   "image": "/images/cities/bangkok/downtown-bangkok.webp",
-  "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos", "Den Ping Cave", "Friendship Bridge", "Jungle Tractor Adventure", "Three Whale Rock", "Sculpture Park", "Sunken Stupa", "Wat Phu Tok", "Naga Cave", "Tham Phra Waterfall", "Ho Chi Minh House", "Mekong Sunset Cruise", "Vietnamese-Thai Food", "Naga Temple & Big Buddha", "Loy Krathong Festival"],
-  "cities": ["chiang-khan", "nong-khai", "bueng-kan", "nakhon-phanom", "mukdahan"],
+  "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos", "Den Ping Cave", "Friendship Bridge", "Jungle Tractor Adventure", "Three Whale Rock", "Sculpture Park", "Sunken Stupa", "Wat Phu Tok", "Naga Cave", "Tham Phra Waterfall", "Ho Chi Minh House", "Mekong Sunset Cruise", "Vietnamese-Thai Food", "Naga Temple & Big Buddha", "Loy Krathong Festival", "Pha Taem National Park", "Prehistoric Cave Paintings", "Two-Color River Point"],
+  "cities": ["chiang-khan", "nong-khai", "bueng-kan", "nakhon-phanom", "mukdahan", "ubon-ratchathani"],
   "budget": {
     "budget": { "total": "$300-500", "perDay": "$20-35", "currency": "THB", "totalThb": "10,500-17,500" },
     "midrange": { "total": "$600-900", "perDay": "$40-65", "currency": "THB", "totalThb": "21,000-31,500" },
@@ -524,6 +524,90 @@
         "luxury": { "en": "Same luxury hotel (1,500-2,500 THB/night)", "nl": "Hetzelfde luxehotel (1.500-2.500 THB/nacht)" }
       },
       "transport": { "en": "Everything in Mukdahan is walkable or a short motorbike ride. The Naga Temple has a free shuttle bus. Walk the riverside path between your bungalow and the town center.", "nl": "Alles in Mukdahan is lopend bereikbaar of een korte motorrit. De Nagatempel heeft een gratis pendelbus. Loop het pad langs de rivier tussen je bungalow en het stadscentrum." }
+    },
+    {
+      "day": 13,
+      "title": {
+        "en": "Mukdahan to Ubon — Pha Taem National Park",
+        "nl": "Mukdahan naar Ubon — Pha Taem Nationaal Park"
+      },
+      "city": "ubon-ratchathani",
+      "activities": [
+        {
+          "name": { "en": "Long Ride from Mukdahan to Pha Taem Area", "nl": "Lange Rit van Mukdahan naar Pha Taem Gebied" },
+          "duration": "5-6 hours",
+          "cost": "Free",
+          "type": "adventure",
+          "tip": { "en": "This is the longest riding day — about 6 hours through beautiful harvest-season farmland. Watch rice harvesters in the fields and stop at golden and red Lao-style stupas along the way. Pass through police checkpoints where officers just want to know which football club you support. Fill up at gas stations with Café Amazon (120 THB to fill a motorbike, iced tea for the road). Book accommodation near Pha Taem — PK Riverside Resort has stunning views of Laos cliffs, a futuristic Memory Cafe with glass walls, and rooms from 1,300 THB/night with breakfast.", "nl": "Dit is de langste rijdag — ongeveer 6 uur door prachtig boerenland in het oogstseizoen. Kijk naar rijstoogsters in de velden en stop bij gouden en rode Laotiaanse stupa's onderweg. Passeer politiecontroleposten waar agenten alleen willen weten welke voetbalclub je steunt. Tank bij benzinestations met Café Amazon (120 THB om een motor vol te tanken, ijsthee voor onderweg). Boek accommodatie bij Pha Taem — PK Riverside Resort heeft adembenemend uitzicht op de Laotiaanse kliffen, een futuristisch Memory Cafe met glazen wanden en kamers vanaf 1.300 THB/nacht met ontbijt." }
+        },
+        {
+          "name": { "en": "Arrive & Relax at Riverside Resort", "nl": "Aankomst & Ontspannen bij Riverside Resort" },
+          "duration": "evening",
+          "cost": "Free",
+          "type": "relaxation",
+          "tip": { "en": "After the long ride, settle into your riverside accommodation. The resort sits right on the Mekong with views of dramatic Laotian cliffs. Enjoy the Memory Cafe — a beautiful glass-walled space with chocolate banana drinks and uninterrupted river views. Perfect for resting up before tomorrow's national park adventures.", "nl": "Na de lange rit, installeer je in je accommodatie aan de rivier. Het resort ligt direct aan de Mekong met uitzicht op de dramatische Laotiaanse kliffen. Geniet van het Memory Cafe — een prachtige ruimte met glazen wanden, chocolade-bananendranken en ononderbroken rivieruitzicht. Perfect om uit te rusten voor de avonturen in het nationaal park van morgen." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Final Vietnamese breakfast in Mukdahan before departure (80-150 THB)", "nl": "Laatste Vietnamees ontbijt in Mukdahan voor vertrek (80-150 THB)" },
+        "lunch": { "en": "Café Amazon at a gas station along the way — iced tea and snacks (60-100 THB)", "nl": "Café Amazon bij een tankstation onderweg — ijsthee en snacks (60-100 THB)" },
+        "dinner": { "en": "Restaurant at your riverside resort near Pha Taem (150-300 THB)", "nl": "Restaurant bij je riverside resort nabij Pha Taem (150-300 THB)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Basic accommodation near Pha Taem National Park (500-800 THB/night)", "nl": "Eenvoudige accommodatie bij Pha Taem Nationaal Park (500-800 THB/nacht)" },
+        "midrange": { "en": "PK Riverside Resort — stunning Mekong views, Memory Cafe, breakfast included (1,300 THB/night)", "nl": "PK Riverside Resort — adembenemend Mekong-uitzicht, Memory Cafe, ontbijt inbegrepen (1.300 THB/nacht)" },
+        "luxury": { "en": "Best resort near Pha Taem with river views (1,500-2,500 THB/night)", "nl": "Beste resort bij Pha Taem met rivieruitzicht (1.500-2.500 THB/nacht)" }
+      },
+      "transport": { "en": "Long ride south from Mukdahan through agricultural Isaan. Mostly main roads through flat farmland. Allow the full day — it's farther than expected.", "nl": "Lange rit naar het zuiden vanuit Mukdahan door agrarisch Isaan. Voornamelijk hoofdwegen door vlak boerenland. Reken op de hele dag — het is verder dan verwacht." }
+    },
+    {
+      "day": 14,
+      "title": {
+        "en": "Pha Taem National Park & The Mekong Finale",
+        "nl": "Pha Taem Nationaal Park & De Mekong Finale"
+      },
+      "city": "ubon-ratchathani",
+      "activities": [
+        {
+          "name": { "en": "Sao Chaliang Rock Formations", "nl": "Sao Chaliang Rotsformaties" },
+          "duration": "1-2 hours",
+          "cost": "200 THB national park entry",
+          "type": "nature",
+          "tip": { "en": "Dramatic geological formations that look like an alien planet — cracks and fissures in the earth's crust unlike anything else in Thailand. The most easterly point of Thailand, meaning you can see the country's first sunrise here. Viewpoints over the Mekong and Laos. Explore the crevices — they're fascinating.", "nl": "Dramatische geologische formaties die eruitzien als een buitenaardse planeet — scheuren en spleten in de aardkorst anders dan wat dan ook in Thailand. Het meest oostelijke punt van Thailand, wat betekent dat je hier de eerste zonsopgang van het land kunt zien. Uitzichtpunten over de Mekong en Laos. Verken de spleten — ze zijn fascinerend." }
+        },
+        {
+          "name": { "en": "Prehistoric Cave Paintings at Pha Mon Noi", "nl": "Prehistorische Grotschilderingen bij Pha Mon Noi" },
+          "duration": "1 hour",
+          "cost": "Included in park entry",
+          "type": "cultural",
+          "tip": { "en": "Walk through the cliffside forest to find 3,000+ year old cave paintings showing elephants, turtles, palm trees, human figures, and mysterious handprints. Four or five different painting groups along the cliffs. Hard to spot — keep your eyes open. The humanoid figures with triangular heads are the most intriguing.", "nl": "Wandel door het bos langs de kliffen om 3.000+ jaar oude grotschilderingen te vinden met olifanten, schildpadden, palmbomen, menselijke figuren en mysterieuze handafdrukken. Vier of vijf verschillende schildergroepen langs de kliffen. Moeilijk te zien — houd je ogen open. De mensachtige figuren met driehoekige hoofden zijn het meest intrigerend." }
+        },
+        {
+          "name": { "en": "Soi Sawan & Sang Chan Waterfalls", "nl": "Soi Sawan & Sang Chan Watervallen" },
+          "duration": "2-3 hours",
+          "cost": "Included in park entry",
+          "type": "nature",
+          "tip": { "en": "Two unique waterfalls in the national park. Soi Sawan has natural rock slides but is VERY slippery — someone was injured while filming. Sang Chan is truly unique: watch the water disappear into a hole from above, then go below to see it emerge spectacularly. Allow 20 minutes driving between waterfalls.", "nl": "Twee unieke watervallen in het nationaal park. Soi Sawan heeft natuurlijke rotsglijbanen maar is ERG glad — iemand raakte gewond tijdens het filmen. Sang Chan is echt uniek: kijk hoe het water van bovenaf in een gat verdwijnt en ga dan naar beneden om het er spectaculair uit te zien komen. Reken op 20 minuten rijden tussen de watervallen." }
+        },
+        {
+          "name": { "en": "Two-Color River View Point — The Mekong Finale", "nl": "Tweekleurig Rivieruitzichtpunt — De Mekong Finale" },
+          "duration": "1 hour",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "Where the Mun River meets the Mekong — the point where the Mekong leaves Thailand after 800km through 7 provinces. The two rivers have different colors (brown Mekong, sometimes blue Mun). Beautiful temple grounds with golden statues and Naga. A profoundly emotional endpoint to an incredible journey. 'One of the most fantastic trips I've ever made — there's something in the air in this region you won't understand until you're here.'", "nl": "Waar de Mun-rivier de Mekong ontmoet — het punt waar de Mekong Thailand verlaat na 800 km door 7 provincies. De twee rivieren hebben verschillende kleuren (bruine Mekong, soms blauwe Mun). Prachtige tempelgronden met gouden beelden en Naga. Een diep emotioneel eindpunt van een ongelooflijke reis. 'Een van de meest fantastische reizen die ik ooit heb gemaakt — er hangt iets in de lucht in deze regio dat je pas begrijpt als je er bent.'" }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Early breakfast at your resort before the national park (included or 60-100 THB)", "nl": "Vroeg ontbijt bij je resort voor het nationaal park (inbegrepen of 60-100 THB)" },
+        "lunch": { "en": "Pack lunch or eat at a stall inside the national park", "nl": "Neem lunch mee of eet bij een kraam in het nationaal park" },
+        "dinner": { "en": "Celebratory dinner in Ubon Ratchathani city — you've completed the Mekong! (200-400 THB)", "nl": "Feestelijk diner in Ubon Ratchathani stad — je hebt de Mekong voltooid! (200-400 THB)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Guesthouse in Ubon Ratchathani city (400-700 THB/night)", "nl": "Guesthouse in Ubon Ratchathani stad (400-700 THB/nacht)" },
+        "midrange": { "en": "Hotel in Ubon Ratchathani (800-1,500 THB/night)", "nl": "Hotel in Ubon Ratchathani (800-1.500 THB/nacht)" },
+        "luxury": { "en": "Best hotel in Ubon Ratchathani (1,500-3,000 THB/night)", "nl": "Beste hotel in Ubon Ratchathani (1.500-3.000 THB/nacht)" }
+      },
+      "transport": { "en": "Motorbike or car to Pha Taem National Park. Multiple stops within the park are spread out — allow 20 minutes between attractions. The Two-Color River Point is about 4.5km from the resort. From Ubon, you can fly back to Bangkok or continue to other destinations.", "nl": "Motor of auto naar Pha Taem Nationaal Park. Meerdere stops in het park liggen verspreid — reken op 20 minuten tussen attracties. Het Tweekleurig Rivieruitzichtpunt ligt op ongeveer 4,5 km van het resort. Vanuit Ubon kun je terugvliegen naar Bangkok of doorreizen naar andere bestemmingen." }
     }
   ],
   "contentSources": [
@@ -568,6 +652,13 @@
       "creator": "Paddy Doyle - Live Love Thailand",
       "url": "https://www.youtube.com/watch?v=pmAQ9q92G0M",
       "description": "Riding from Nakhon Phanom to Mukdahan, golden stupas, Naga temple, Big Buddha, and Loy Krathong on the Mekong."
+    },
+    {
+      "type": "video",
+      "title": "Mekong Adventure Episode 7: Mukdahan to Ubon (Finale)",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=f3y4nb4zwfA",
+      "description": "The grand finale: Pha Taem National Park with prehistoric paintings, dramatic waterfalls, and the Two-Color River Point where the Mekong leaves Thailand."
     }
   ],
   "seo": {
