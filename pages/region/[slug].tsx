@@ -825,27 +825,16 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
   const region = JSON.parse(fs.readFileSync(regionPath, 'utf8'));
   
-  // Get cities in this region - hardcoded mapping to ensure it works
+  // Get cities in this region dynamically based on each city's region field
   const allCities = getAllCities();
-  let cities = [];
-  
-  if (slug === 'northern') {
-    cities = allCities.filter((city: any) => 
-      ['chiang-mai', 'chiang-rai', 'sukhothai'].includes(city.slug)
-    );
-  } else if (slug === 'central') {
-    cities = allCities.filter((city: any) => 
-      ['bangkok', 'ayutthaya', 'pattaya'].includes(city.slug)
-    );
-  } else if (slug === 'southern') {
-    cities = allCities.filter((city: any) => 
-      ['phuket', 'krabi', 'hat-yai', 'surat-thani'].includes(city.slug)
-    );
-  } else if (slug === 'isaan') {
-    // For now, Isaan uses placeholder cities since we don't have these cities in our database yet
-    // In the future, add cities like: khon-kaen, udon-thani, nakhon-ratchasima, ubon-ratchathani
-    cities = [];
-  }
+  const regionMap: Record<string, string> = {
+    northern: 'Northern',
+    central: 'Central',
+    southern: 'Southern',
+    isaan: 'Isaan',
+  };
+  const regionName = regionMap[slug] || slug;
+  const cities = allCities.filter((city: any) => city.region === regionName);
   
   return {
     props: {
