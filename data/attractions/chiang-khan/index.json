@@ -1,0 +1,112 @@
+{
+  "city_slug": "chiang-khan",
+  "city_name": "Chiang Khan",
+  "total_attractions": 5,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "walking-street",
+      "name": {
+        "en": "Chiang Khan Walking Street",
+        "nl": "Chiang Khan Walking Street"
+      },
+      "type": "culture",
+      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "description": {
+        "en": "Charming evening walking street along Soi 1 with local food stalls, handmade crafts, and traditional wooden shophouses",
+        "nl": "Charmante avondmarkt langs Soi 1 met lokale eetkraampjes, handgemaakte ambachten en traditionele houten winkelpanden"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Night market", "Local street food", "Traditional wooden houses", "Handmade crafts"],
+      "best_time": "evening",
+      "duration_hours": 2
+    },
+    {
+      "id": 2,
+      "slug": "kaeng-khut-khu",
+      "name": {
+        "en": "Kaeng Khut Khu Rapids",
+        "nl": "Kaeng Khut Khu Stroomversnellingen"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Beautiful rapids on the Mekong River with riverside restaurants and stunning views of Laos across the water",
+        "nl": "Prachtige stroomversnellingen op de Mekong met restaurants aan de rivier en adembenemend uitzicht op Laos"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Mekong River views", "Riverside dining", "Views of Laos", "Rock formations"],
+      "best_time": "morning",
+      "duration_hours": 1.5
+    },
+    {
+      "id": 3,
+      "slug": "phu-thok",
+      "name": {
+        "en": "Phu Thok Viewpoint",
+        "nl": "Phu Thok Uitzichtpunt"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Mountain viewpoint famous for its sea of mist at sunrise, offering breathtaking views over the Mekong valley",
+        "nl": "Berguitkijkpunt beroemd om de zee van mist bij zonsopgang, met adembenemend uitzicht over de Mekong-vallei"
+      },
+      "entrance_fee": {
+        "thb": 30,
+        "usd": 1
+      },
+      "highlights": ["Sea of mist", "Sunrise viewing", "Mekong valley panorama", "Photography spot"],
+      "best_time": "early morning",
+      "duration_hours": 2
+    },
+    {
+      "id": 4,
+      "slug": "skywalk",
+      "name": {
+        "en": "Chiang Khan Skywalk",
+        "nl": "Chiang Khan Skywalk"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Glass skywalk perched on a cliff overlooking the Mekong River with panoramic views of the surrounding landscape",
+        "nl": "Glazen skywalk op een klif met uitzicht over de Mekong en panoramisch uitzicht op het omliggende landschap"
+      },
+      "entrance_fee": {
+        "thb": 50,
+        "usd": 1.5
+      },
+      "highlights": ["Glass walkway", "Mekong panorama", "Cliff-edge views", "Photo opportunities"],
+      "best_time": "morning",
+      "duration_hours": 1
+    },
+    {
+      "id": 5,
+      "slug": "alms-giving-ceremony",
+      "name": {
+        "en": "Morning Alms Giving Ceremony",
+        "nl": "Ochtend Aalmoes Ceremonie"
+      },
+      "type": "culture",
+      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "description": {
+        "en": "Traditional Buddhist morning alms ceremony where monks walk through the old town collecting offerings from locals and visitors",
+        "nl": "Traditionele boeddhistische ochtendceremonie waarbij monniken door de oude stad lopen om aalmoezen te verzamelen"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Buddhist tradition", "Cultural experience", "Early morning", "Monk procession"],
+      "best_time": "early morning",
+      "duration_hours": 1
+    }
+  ]
+}

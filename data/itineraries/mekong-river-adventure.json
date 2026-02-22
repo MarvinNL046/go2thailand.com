@@ -1,0 +1,135 @@
+{
+  "slug": "mekong-river-adventure",
+  "title": {
+    "en": "Mekong River Adventure: Thailand's Hidden Border Route",
+    "nl": "Mekong Rivier Avontuur: Thailand's Verborgen Grensroute"
+  },
+  "duration": 14,
+  "region": "isaan",
+  "budgetLevel": "budget",
+  "description": {
+    "en": "Follow the mighty Mekong River for over 800 kilometers along the natural border between Thailand and Laos. This off-the-beaten-path motorcycle or road trip takes you through charming riverside towns, ancient temples, morning alms giving ceremonies, and some of the most authentic Thai experiences you'll find anywhere. From the misty mornings of Chiang Khan to the hidden villages of Isaan, this is the Thailand most tourists never see.",
+    "nl": "Volg de machtige Mekong-rivier over meer dan 800 kilometer langs de natuurlijke grens tussen Thailand en Laos. Deze motorfiets- of autoreis afzijdig van het gebaande pad brengt je langs charmante rivierstadjes, oude tempels, ochtendlijke aalmoezenceremonies en enkele van de meest authentieke Thaise ervaringen die je kunt vinden. Van de mistige ochtenden van Chiang Khan tot de verborgen dorpjes van Isaan — dit is het Thailand dat de meeste toeristen nooit zien."
+  },
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos"],
+  "cities": ["chiang-khan"],
+  "budget": {
+    "budget": { "total": "$300-500", "perDay": "$20-35", "currency": "THB", "totalThb": "10,500-17,500" },
+    "midrange": { "total": "$600-900", "perDay": "$40-65", "currency": "THB", "totalThb": "21,000-31,500" },
+    "luxury": { "total": "$1,000-1,500", "perDay": "$70-110", "currency": "THB", "totalThb": "35,000-52,500" }
+  },
+  "bestTimeToVisit": "November to February (cool season)",
+  "days": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Arrive in Chiang Khan & First Mekong Sunset",
+        "nl": "Aankomst in Chiang Khan & Eerste Mekong Zonsondergang"
+      },
+      "city": "chiang-khan",
+      "activities": [
+        {
+          "name": { "en": "Chiang Khan Skywalk", "nl": "Chiang Khan Skywalk" },
+          "duration": "1 hour",
+          "cost": "60 THB ($1.70)",
+          "type": "attraction",
+          "tip": { "en": "Glass walkway over the Mekong with views of both Thailand and Laos. You'll get slippers to protect the glass. Don't miss the golden Buddha statue and traditional ghost mask displays at the entrance.", "nl": "Glazen loopbrug over de Mekong met uitzicht op Thailand en Laos. Je krijgt slippers om het glas te beschermen. Mis het gouden Boeddhabeeld en de traditionele spookmasker-displays bij de ingang niet." }
+        },
+        {
+          "name": { "en": "Explore Walking Street", "nl": "Verken Walking Street" },
+          "duration": "2-3 hours",
+          "cost": "Free (food budget: 100-300 THB)",
+          "type": "cultural",
+          "tip": { "en": "Beautiful traditional wooden houses line this street. Full of street food vendors selling unique regional dishes you won't find in Bangkok. In the evening it becomes a lively night market.", "nl": "Prachtige traditionele houten huizen langs deze straat. Vol met streetfoodverkopers met unieke regionale gerechten die je niet in Bangkok vindt. 's Avonds wordt het een levendige avondmarkt." }
+        },
+        {
+          "name": { "en": "Sunset on the Mekong Promenade", "nl": "Zonsondergang aan de Mekong Promenade" },
+          "duration": "1-2 hours",
+          "cost": "100-200 THB (for a beer)",
+          "type": "relaxation",
+          "tip": { "en": "Find a spot at one of the craft beer bars along the river promenade. Watch the sun set directly over Laos on the opposite bank. This is one of the most peaceful sunset spots in all of Thailand.", "nl": "Zoek een plekje bij een van de craftbier-bars langs de rivierpromenade. Kijk hoe de zon ondergaat boven Laos aan de overkant. Dit is een van de meest vredige zonsondergangplekken in heel Thailand." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Grab lunch at a local stall after arriving — rice porridge and fried chicken", "nl": "Pak lunch bij een lokale kraam na aankomst — rijstepap en gefrituurde kip" },
+        "lunch": { "en": "Street food on Walking Street — try the unique regional snacks", "nl": "Streetfood op Walking Street — probeer de unieke regionale snacks" },
+        "dinner": { "en": "Night market on Walking Street or riverside restaurant", "nl": "Avondmarkt op Walking Street of rivierrestaurant" }
+      },
+      "accommodation": {
+        "budget": { "en": "Guesthouse on Walking Street (350-700 THB/night)", "nl": "Guesthouse aan Walking Street (350-700 THB/nacht)" },
+        "midrange": { "en": "Siong Boutique Hotel — 10 min walk from center, English-speaking owner, great tips (1,100 THB/night)", "nl": "Siong Boutique Hotel — 10 min lopen van centrum, Engelssprekende eigenaar, goede tips (1.100 THB/nacht)" },
+        "luxury": { "en": "Riverside boutique hotel with Mekong views (1,200-2,100 THB/night)", "nl": "Boetiekhotel aan de rivier met Mekong-uitzicht (1.200-2.100 THB/nacht)" }
+      },
+      "transport": { "en": "Bus from Bangkok (8-9 hours from Mo Chit) or fly to Loei Airport then 1 hour minivan. If road-tripping, scenic drive from Loei town.", "nl": "Bus vanuit Bangkok (8-9 uur vanaf Mo Chit) of vliegen naar Loei Airport dan 1 uur minivan. Bij een roadtrip, schilderachtige rit vanuit Loei stad." }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Morning Alms, Temple Festival & Boat Races",
+        "nl": "Ochtend Aalmoes, Tempelfestival & Botenraces"
+      },
+      "city": "chiang-khan",
+      "activities": [
+        {
+          "name": { "en": "Morning Alms Giving Ceremony (Tak Bat)", "nl": "Ochtendlijke Aalmoezenceremonie (Tak Bat)" },
+          "duration": "1 hour",
+          "cost": "Free to watch, 20-50 THB for offering basket",
+          "type": "cultural",
+          "tip": { "en": "Be at the river by 6:00 AM. Watch the mist rise over the Mekong while monks chant in temples on both the Thai and Lao sides. Monks walk the streets collecting food from locals. Buy an offering basket from a nearby shop to participate. Much more authentic than Luang Prabang.", "nl": "Wees om 6:00 uur bij de rivier. Zie de mist opstijgen boven de Mekong terwijl monniken chanten in tempels aan zowel de Thaise als Laotiaanse kant. Monniken lopen door de straten en verzamelen eten van bewoners. Koop een offerandemandje bij een nabijgelegen winkel om mee te doen. Veel authentieker dan Luang Prabang." }
+        },
+        {
+          "name": { "en": "Local Breakfast", "nl": "Lokaal Ontbijt" },
+          "duration": "30-45 minutes",
+          "cost": "40-80 THB",
+          "type": "food",
+          "tip": { "en": "After the alms giving, find a bustling local breakfast stall. Look for crowds of Thai locals — that's your quality signal. Try rice porridge (jok) and fresh baguettes.", "nl": "Na de aalmoezenceremonie, zoek een drukke lokale ontbijtkraam. Zoek naar groepen Thaise bewoners — dat is je kwaliteitssignaal. Probeer rijstepap (jok) en verse baguettes." }
+        },
+        {
+          "name": { "en": "Explore Local Temples & River Viewpoints", "nl": "Verken Lokale Tempels & Rivieruitzichtpunten" },
+          "duration": "2-3 hours",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "Ride or walk to the local temples where you can witness village life. Temples here serve as community centers — listen for the speaker broadcasting village news. Visit the riverside viewpoint where locals gather to relax, drink, and collect flowers.", "nl": "Rijd of wandel naar de lokale tempels waar je het dorpsleven kunt meemaken. Tempels dienen hier als gemeenschapscentra — luister naar de luidsprekers die dorpsnieuws omroepen. Bezoek het uitzichtpunt aan de rivier waar bewoners samenkomen om te relaxen." }
+        },
+        {
+          "name": { "en": "Temple Festival & Evening Parade", "nl": "Tempelfestival & Avondparade" },
+          "duration": "3-4 hours",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "If you're lucky enough to visit during a festival, the temple market is one of the most authentic Thai markets you'll ever experience. Nine temples compete with candle wax designs and boat races on the Mekong. Evening features live music and parades through town.", "nl": "Als je het geluk hebt tijdens een festival te bezoeken, is de tempelmarkt een van de meest authentieke Thaise markten die je ooit zult meemaken. Negen tempels strijden met kaarswasontwerpen en botenraces op de Mekong. 's Avonds is er livemuziek en een parade door de stad." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Local breakfast stall after alms giving — jok rice porridge and baguettes (40-80 THB)", "nl": "Lokale ontbijtkraam na de aalmoezenceremonie — jok rijstepap en baguettes (40-80 THB)" },
+        "lunch": { "en": "Walking Street street food or riverside restaurant", "nl": "Walking Street streetfood of rivierrestaurant" },
+        "dinner": { "en": "Temple festival night market (if available) or Walking Street market", "nl": "Tempelfestival avondmarkt (indien beschikbaar) of Walking Street markt" }
+      },
+      "accommodation": {
+        "budget": { "en": "Same guesthouse — Chiang Khan rewards 2-night stays", "nl": "Hetzelfde guesthouse — Chiang Khan beloont 2 nachten verblijf" },
+        "midrange": { "en": "Siong Boutique Hotel — second night (1,100 THB/night)", "nl": "Siong Boutique Hotel — tweede nacht (1.100 THB/nacht)" },
+        "luxury": { "en": "Same riverside hotel", "nl": "Hetzelfde rivierhotel" }
+      },
+      "transport": { "en": "Everything is walkable today. Rent a motorbike only if you want to explore viewpoints outside town.", "nl": "Alles is vandaag lopend bereikbaar. Huur alleen een motor als je uitzichtpunten buiten het stadje wilt verkennen." }
+    }
+  ],
+  "contentSources": [
+    {
+      "type": "video",
+      "title": "Mekong Adventure Episode 1: Chiang Khan",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=5tYAPJomJ1o",
+      "description": "First-hand travel experience following the Mekong by motorcycle through Isaan Thailand."
+    }
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Mekong River Adventure: Thailand's Hidden Border Route | 14-Day Itinerary",
+      "nl": "Mekong Rivier Avontuur: Thailand's Verborgen Grensroute | 14-Dagen Reisschema"
+    },
+    "metaDescription": {
+      "en": "Follow the Mekong River 800km along Thailand's border with Laos. Discover charming riverside towns, morning alms giving, boat races, and authentic Isaan culture.",
+      "nl": "Volg de Mekong-rivier 800km langs de grens van Thailand met Laos. Ontdek charmante rivierstadjes, aalmoezenceremonies, botenraces en authentieke Isaan-cultuur."
+    }
+  }
+}

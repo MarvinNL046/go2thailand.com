@@ -118,5 +118,15 @@
     "cities": ["chiang-mai", "chiang-rai", "bangkok", "phuket", "krabi"],
     "highlights": ["Doi Inthanon Trek", "Elephant Sanctuary", "White Temple", "Rock Climbing Railay", "Phi Phi Snorkeling", "Tiger Cave Temple", "Kayaking Phang Nga Bay"],
     "budgetRange": "$500-5,500"
+  },
+  {
+    "slug": "mekong-river-adventure",
+    "title": { "en": "Mekong River Adventure: Thailand's Hidden Border Route", "nl": "Mekong Rivier Avontuur: Thailand's Verborgen Grensroute" },
+    "duration": 14,
+    "region": "isaan",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
+    "cities": ["chiang-khan"],
+    "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos"],
+    "budgetRange": "$300-1,500"
   }
 ]
