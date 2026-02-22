@@ -25,6 +25,7 @@ interface Attraction {
     usd: number;
   };
   enhanced_description?: string;
+  googleMapsUrl?: string;
 }
 
 interface City {
@@ -247,12 +248,28 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                             
                             {/* Action Bar */}
                             <div className="flex items-center justify-between pt-4 border-t border-gray-100">
-                              <div className="flex items-center text-thailand-blue text-sm">
-                                <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                                </svg>
-                                <span>{city.name.en}</span>
+                              <div className="flex items-center gap-3">
+                                <div className="flex items-center text-thailand-blue text-sm">
+                                  <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                                  </svg>
+                                  <span>{city.name.en}</span>
+                                </div>
+                                {attraction.googleMapsUrl && (
+                                  <a
+                                    href={attraction.googleMapsUrl}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="flex items-center text-xs text-gray-500 hover:text-thailand-blue transition-colors"
+                                    onClick={(e) => e.stopPropagation()}
+                                  >
+                                    <svg className="w-3.5 h-3.5 mr-0.5" viewBox="0 0 24 24" fill="currentColor">
+                                      <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+                                    </svg>
+                                    Maps
+                                  </a>
+                                )}
                               </div>
                               <div className="text-thailand-blue hover:text-thailand-red font-medium text-sm flex items-center transition-colors group">
                                 <span>Learn More</span>
