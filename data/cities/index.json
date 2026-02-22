@@ -478,5 +478,20 @@
       "Ho Chi Minh House",
       "Golden Stupas"
     ]
+  },
+  {
+    "id": 33,
+    "slug": "mukdahan",
+    "name": {
+      "en": "Mukdahan",
+      "nl": "Mukdahan"
+    },
+    "region": "Isaan",
+    "province": "Mukdahan",
+    "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+    "highlights": [
+      "Naga Temple & Big Buddha",
+      "Loy Krathong Festival"
+    ]
   }
 ]

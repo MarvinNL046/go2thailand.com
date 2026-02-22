@@ -1,0 +1,59 @@
+{
+  "id": 33,
+  "slug": "mukdahan",
+  "name": {
+    "en": "Mukdahan",
+    "nl": "Mukdahan"
+  },
+  "region": "Isaan",
+  "province": "Mukdahan",
+  "description": {
+    "en": "Relaxed Mekong riverside town facing Savannakhet in Laos. Famous for its colorful Naga temple with giant Buddha statue, Loy Krathong celebrations, craft beer riverside bars, and charming bungalow guesthouses directly on the Mekong with stunning views of the Laotian mountains.",
+    "nl": "Ontspannen stad aan de Mekong tegenover Savannakhet in Laos. Beroemd om de kleurrijke Nagatempel met gigantisch Boeddhabeeld, Loy Krathong-vieringen, craftbier aan de rivier en charmante bungalows direct aan de Mekong met prachtig uitzicht op de Laotiaanse bergen."
+  },
+  "population": 36000,
+  "highlights": [
+    "Naga Temple & Big Buddha",
+    "Loy Krathong Festival",
+    "Mekong Bungalows",
+    "Riverside Craft Beer",
+    "Savannakhet Views"
+  ],
+  "location": {
+    "lat": 16.5425,
+    "lng": 104.7233
+  },
+  "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Mukdahan | What to do in Mukdahan?",
+      "nl": "Ontdek Mukdahan | Wat te doen in Mukdahan?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Mukdahan, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Mukdahan, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Mukdahan",
+      "nl": "Beste restaurants en streetfood in Mukdahan"
+    },
+    "hotels": {
+      "en": "Top hotels in Mukdahan | Tips & deals",
+      "nl": "Beste hotels in Mukdahan | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Mukdahan",
+      "nl": "Top bezienswaardigheden in Mukdahan"
+    }
+  },
+  "tags": [
+    "isaan",
+    "mukdahan",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

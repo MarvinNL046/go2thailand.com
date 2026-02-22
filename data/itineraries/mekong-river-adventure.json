@@ -12,8 +12,8 @@
     "nl": "Volg de machtige Mekong-rivier over meer dan 800 kilometer langs de natuurlijke grens tussen Thailand en Laos. Deze motorfiets- of autoreis afzijdig van het gebaande pad brengt je langs charmante rivierstadjes, oude tempels, ochtendlijke aalmoezenceremonies en enkele van de meest authentieke Thaise ervaringen die je kunt vinden. Van de mistige ochtenden van Chiang Khan tot de verborgen dorpjes van Isaan — dit is het Thailand dat de meeste toeristen nooit zien."
   },
   "image": "/images/cities/bangkok/downtown-bangkok.webp",
-  "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos", "Den Ping Cave", "Friendship Bridge", "Jungle Tractor Adventure", "Three Whale Rock", "Sculpture Park", "Sunken Stupa", "Wat Phu Tok", "Naga Cave", "Tham Phra Waterfall", "Ho Chi Minh House", "Mekong Sunset Cruise", "Vietnamese-Thai Food"],
-  "cities": ["chiang-khan", "nong-khai", "bueng-kan", "nakhon-phanom"],
+  "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos", "Den Ping Cave", "Friendship Bridge", "Jungle Tractor Adventure", "Three Whale Rock", "Sculpture Park", "Sunken Stupa", "Wat Phu Tok", "Naga Cave", "Tham Phra Waterfall", "Ho Chi Minh House", "Mekong Sunset Cruise", "Vietnamese-Thai Food", "Naga Temple & Big Buddha", "Loy Krathong Festival"],
+  "cities": ["chiang-khan", "nong-khai", "bueng-kan", "nakhon-phanom", "mukdahan"],
   "budget": {
     "budget": { "total": "$300-500", "perDay": "$20-35", "currency": "THB", "totalThb": "10,500-17,500" },
     "midrange": { "total": "$600-900", "perDay": "$40-65", "currency": "THB", "totalThb": "21,000-31,500" },
@@ -440,6 +440,90 @@
         "luxury": { "en": "Same luxury riverside hotel (1,500-3,000 THB/night)", "nl": "Hetzelfde luxe rivierhotel (1.500-3.000 THB/nacht)" }
       },
       "transport": { "en": "Everything in Nakhon Phanom is reachable by bicycle. Rent one for the day. The sunset cruise departs from near the golden Naga statue on the main riverside road.", "nl": "Alles in Nakhon Phanom is bereikbaar per fiets. Huur er een voor de dag. De zonsondergangscruise vertrekt bij het gouden Naga-beeld aan de hoofdweg langs de rivier." }
+    },
+    {
+      "day": 11,
+      "title": {
+        "en": "Nakhon Phanom to Mukdahan",
+        "nl": "Nakhon Phanom naar Mukdahan"
+      },
+      "city": "mukdahan",
+      "activities": [
+        {
+          "name": { "en": "Riverside Coffee & Vietnamese Breakfast in Nakhon Phanom", "nl": "Koffie aan de Rivier & Vietnamees Ontbijt in Nakhon Phanom" },
+          "duration": "1.5 hours",
+          "cost": "100-200 THB",
+          "type": "food",
+          "tip": { "en": "Start with coffee at the riverside vendor who sets up every morning from 6 AM to 1 PM with Nepalese flags, picnic tables, and loungers right by the Mekong. Then get Vietnamese pancakes stuffed with pork and chai, and the ones with fried egg in the middle — 'worth coming to Nakhon Phanom just for these.' Locations linked in the video description.", "nl": "Begin met koffie bij de verkoper aan de rivier die elke ochtend van 6 tot 13 uur een kraam opzet met Nepalese vlaggen, picknicktafels en ligstoelen recht aan de Mekong. Neem dan Vietnamese pannenkoeken gevuld met varkensvlees en chai, en die met gebakken ei in het midden — 'alleen hiervoor al de moeite waard om naar Nakhon Phanom te komen.' Locaties gelinkt in de videobeschrijving." }
+        },
+        {
+          "name": { "en": "Golden Lao-Style Temple Stop", "nl": "Stop bij Gouden Laotiaanse Tempel" },
+          "duration": "30 min",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "Along the route to Mukdahan, watch for golden Lao-style pointed stupas glinting in the sunlight. This stretch has some of the most stunning ones. If you find one that's open, step inside — one had 13+ golden statues glittering under candlelight and chandeliers. 'You don't get temple fatigue here because they're so unique.'", "nl": "Langs de route naar Mukdahan, let op gouden Laotiaanse puntige stupa's die glinsteren in het zonlicht. Dit stuk heeft enkele van de meest indrukwekkende. Als je er een vindt die open is, ga naar binnen — eentje had 13+ gouden beelden die glinsterde onder kaarslicht en kroonluchters. 'Je krijgt hier geen tempelmoeheid omdat ze zo uniek zijn.'" }
+        },
+        {
+          "name": { "en": "Arrive in Mukdahan & Check Into Riverside Bungalow", "nl": "Aankomst in Mukdahan & Inchecken bij Bungalow aan de Rivier" },
+          "duration": "1 hour",
+          "cost": "Free",
+          "type": "relaxation",
+          "tip": { "en": "Find a riverside bungalow directly on the Mekong — 800 THB/night gets you a cute bungalow with garden, beanbag chairs under shady trees, free coffee, and wifi. Executive huts available for 1,200 THB. The breeze off the Mekong is heavenly. Walk the path along the river into town. Gates close at 9 PM.", "nl": "Zoek een bungalow aan de rivier direct aan de Mekong — 800 THB/nacht geeft je een schattige bungalow met tuin, zitzakken onder schaduwrijke bomen, gratis koffie en wifi. Executive hutten beschikbaar voor 1.200 THB. De bries van de Mekong is hemels. Loop het pad langs de rivier naar het stadje. Hekken sluiten om 21:00 uur." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Vietnamese pancakes and dumplings in Nakhon Phanom — the best breakfast on the Mekong (80-150 THB)", "nl": "Vietnamese pannenkoeken en dumplings in Nakhon Phanom — het beste ontbijt aan de Mekong (80-150 THB)" },
+        "lunch": { "en": "Pit stop at Café Amazon at a gas station in That Phanom — iced tea and snacks (60-100 THB)", "nl": "Pitstop bij Café Amazon bij een tankstation in That Phanom — ijsthee en snacks (60-100 THB)" },
+        "dinner": { "en": "Riverside restaurant in Mukdahan — laab, kale with pork belly, sticky rice, cold beer (150-300 THB)", "nl": "Rivierrestaurant in Mukdahan — laab, boerenkool met buikspek, kleefrijst, koud bier (150-300 THB)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Riverside bungalow on the Mekong with garden and beanbags (800 THB/night)", "nl": "Bungalow aan de rivier op de Mekong met tuin en zitzakken (800 THB/nacht)" },
+        "midrange": { "en": "Executive riverside bungalow with more space (1,200 THB/night)", "nl": "Executive bungalow aan de rivier met meer ruimte (1.200 THB/nacht)" },
+        "luxury": { "en": "Best hotel in Mukdahan with river views (1,500-2,500 THB/night)", "nl": "Beste hotel in Mukdahan met rivieruitzicht (1.500-2.500 THB/nacht)" }
+      },
+      "transport": { "en": "Ride Route 212 south from Nakhon Phanom through That Phanom to Mukdahan. Mostly flat agricultural land and main road. Take the quieter riverside roads when possible for more intimate views of farming life and small villages.", "nl": "Rijd Route 212 naar het zuiden vanuit Nakhon Phanom via That Phanom naar Mukdahan. Voornamelijk vlak landbouwgebied en hoofdweg. Neem de rustigere wegen langs de rivier wanneer mogelijk voor een intiemer zicht op het boerenleven en kleine dorpjes." }
+    },
+    {
+      "day": 12,
+      "title": {
+        "en": "Mukdahan — Naga Temple, Big Buddha & Loy Krathong",
+        "nl": "Mukdahan — Nagatempel, Grote Boeddha & Loy Krathong"
+      },
+      "city": "mukdahan",
+      "activities": [
+        {
+          "name": { "en": "Naga Temple & Big Buddha", "nl": "Nagatempel & Grote Boeddha" },
+          "duration": "2-3 hours",
+          "cost": "Free + 100 THB donation",
+          "type": "cultural",
+          "tip": { "en": "Free entry with a free shuttle bus up the hill. The colorful Naga statue sits on lava-like rock with red prayer ribbons tied to trees — whisper a wish with a pure heart and the Naga carries it down the Mekong. The enormous white Big Buddha statue (finished in recent years) has panoramic views of Mukdahan, the Mekong, and Savannakhet in Laos. Touch the Buddha's fingers for a gesture of deep respect. Come during the golden hour for the best light.", "nl": "Gratis toegang met een gratis pendelbus de heuvel op. Het kleurrijke Nagabeeld zit op lava-achtig gesteente met rode gebedslintjes aan de bomen — fluister een wens met een puur hart en de Naga draagt het de Mekong af. Het enorme witte Grote Boeddhabeeld (in de afgelopen jaren voltooid) biedt panoramisch uitzicht op Mukdahan, de Mekong en Savannakhet in Laos. Raak de vingers van de Boeddha aan als gebaar van diep respect. Kom tijdens het gouden uur voor het mooiste licht." }
+        },
+        {
+          "name": { "en": "Relaxation Day at the Bungalow", "nl": "Relaxdag bij de Bungalow" },
+          "duration": "afternoon",
+          "cost": "Free",
+          "type": "relaxation",
+          "tip": { "en": "Not every day on a road trip needs to be action-packed. Spend the afternoon on a beanbag under a shady tree by the Mekong, feeling the heavenly breeze. The perfect spot for a nap, journaling, or planning the next leg of your trip.", "nl": "Niet elke dag op een roadtrip hoeft vol actie te zitten. Breng de middag door op een zitzak onder een schaduwrijke boom aan de Mekong, genietend van de hemelse bries. De perfecte plek voor een dutje, journaling of het plannen van het volgende deel van je reis." }
+        },
+        {
+          "name": { "en": "Loy Krathong Evening on the Mekong", "nl": "Loy Krathong Avond op de Mekong" },
+          "duration": "2-3 hours",
+          "cost": "20 THB for krathong",
+          "type": "cultural",
+          "tip": { "en": "If you're here during the full moon in November, join families floating krathongs on the Mekong. Buy a fish-food krathong (20 THB, better for the environment) from vendors by the river. Light the incense, make a wish, and push your krathong into the current. Watch local kids fish out floating krathongs hoping to find money inside. Even without the big festivities, it's a beautiful, intimate family event under the full moon. Craft beer tent and live music at the riverside afterward.", "nl": "Als je hier bent tijdens volle maan in november, doe dan mee met families die krathongs laten drijven op de Mekong. Koop een krathong van visvoer (20 THB, beter voor het milieu) bij verkopers aan de rivier. Steek de wierook aan, doe een wens en duw je krathong de stroom in. Kijk hoe lokale kinderen drijvende krathongs opvissen in de hoop geld te vinden. Zelfs zonder de grote festiviteiten is het een prachtig, intiem familieevenement onder de volle maan. Craftbiertent en livemuziek aan de rivier daarna." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Breakfast at your bungalow or a local stall in town (40-80 THB)", "nl": "Ontbijt bij je bungalow of een lokale kraam in het stadje (40-80 THB)" },
+        "lunch": { "en": "Light lunch in Mukdahan town (60-120 THB)", "nl": "Lichte lunch in het stadje Mukdahan (60-120 THB)" },
+        "dinner": { "en": "Riverside restaurant before Loy Krathong — laab, sticky rice, cold beer (150-300 THB)", "nl": "Rivierrestaurant voor Loy Krathong — laab, kleefrijst, koud bier (150-300 THB)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Same riverside bungalow — second night (800 THB/night)", "nl": "Dezelfde bungalow aan de rivier — tweede nacht (800 THB/nacht)" },
+        "midrange": { "en": "Same executive bungalow (1,200 THB/night)", "nl": "Dezelfde executive bungalow (1.200 THB/nacht)" },
+        "luxury": { "en": "Same luxury hotel (1,500-2,500 THB/night)", "nl": "Hetzelfde luxehotel (1.500-2.500 THB/nacht)" }
+      },
+      "transport": { "en": "Everything in Mukdahan is walkable or a short motorbike ride. The Naga Temple has a free shuttle bus. Walk the riverside path between your bungalow and the town center.", "nl": "Alles in Mukdahan is lopend bereikbaar of een korte motorrit. De Nagatempel heeft een gratis pendelbus. Loop het pad langs de rivier tussen je bungalow en het stadscentrum." }
     }
   ],
   "contentSources": [
@@ -477,6 +561,13 @@
       "creator": "Paddy Doyle - Live Love Thailand",
       "url": "https://www.youtube.com/watch?v=gBwnkvnKjEA",
       "description": "Exploring Nakhon Phanom's Vietnamese heritage, food scene, and sunset Mekong cruises."
+    },
+    {
+      "type": "video",
+      "title": "Mekong Adventure Episode 6: Nakhon Phanom to Mukdahan",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=pmAQ9q92G0M",
+      "description": "Riding from Nakhon Phanom to Mukdahan, golden stupas, Naga temple, Big Buddha, and Loy Krathong on the Mekong."
     }
   ],
   "seo": {

@@ -1,0 +1,114 @@
+{
+  "city_slug": "mukdahan",
+  "city_name": "Mukdahan",
+  "total_attractions": 5,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "naga-temple-big-buddha",
+      "name": {
+        "en": "Naga Temple & Big Buddha",
+        "nl": "Naga Tempel & Grote Boeddha"
+      },
+      "type": "temple",
+      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "description": {
+        "en": "Hilltop temple complex featuring a giant colorful Naga statue on lava-like rock with red prayer ribbons and an enormous white Big Buddha with panoramic views over Mukdahan, the Mekong, and Laos. Free entry with free shuttle bus up the hill.",
+        "nl": "Tempelcomplex op een heuvel met een reusachtig kleurrijk Naga-beeld op lavagesteente met rode gebedslintjes en een enorme witte Grote Boeddha met panoramisch uitzicht over Mukdahan, de Mekong en Laos. Gratis toegang met gratis shuttlebus de heuvel op."
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "googleMapsUrl": "https://maps.app.goo.gl/kLKzoAEVtLkNc",
+      "highlights": ["Giant Naga statue", "White Big Buddha", "Panoramic Mekong views", "Free shuttle bus", "Red prayer ribbons"],
+      "best_time": "morning",
+      "duration_hours": 2
+    },
+    {
+      "id": 2,
+      "slug": "mekong-riverside-promenade",
+      "name": {
+        "en": "Mekong Riverside Promenade",
+        "nl": "Mekong Rivierpromenade"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Relaxing riverside walkway along the Mekong with views of Savannakhet, Laos across the water. Perfect for evening strolls, sunset watching, and soaking in Mukdahan's laid-back atmosphere.",
+        "nl": "Ontspannende wandelpromenade langs de Mekong met uitzicht op Savannakhet, Laos aan de overkant. Perfect voor avondwandelingen, zonsondergangen en het opzuigen van Mukdahans ontspannen sfeer."
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Mekong River views", "Savannakhet (Laos) across the river", "Sunset watching", "Evening strolls"],
+      "best_time": "evening",
+      "duration_hours": 1.5
+    },
+    {
+      "id": 3,
+      "slug": "loy-krathong-mekong",
+      "name": {
+        "en": "Loy Krathong on the Mekong",
+        "nl": "Loy Krathong op de Mekong"
+      },
+      "type": "culture",
+      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "description": {
+        "en": "Beautiful full moon celebration in November where families float krathongs (banana leaf or fish food boats, 20 THB) on the Mekong. A magical family-oriented festival with children fishing out krathongs hoping for money.",
+        "nl": "Prachtige volle maanviering in november waarbij families krathongs (bootjes van bananenblad of visvoer, 20 THB) op de Mekong laten drijven. Een magisch familiefeest waarbij kinderen krathongs opvissen in de hoop geld te vinden."
+      },
+      "entrance_fee": {
+        "thb": 20,
+        "usd": 0.6
+      },
+      "highlights": ["Full moon celebration", "Floating krathongs", "Family atmosphere", "Mekong riverside", "November tradition"],
+      "best_time": "evening",
+      "duration_hours": 3
+    },
+    {
+      "id": 4,
+      "slug": "riverside-craft-beer-dining",
+      "name": {
+        "en": "Riverside Craft Beer & Dining",
+        "nl": "Craft Bier & Dineren aan de Rivier"
+      },
+      "type": "food",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Lively craft beer tent and riverside restaurants with live music on the Mekong riverbank. Enjoy cold beers, Isaan classics like laab and sticky rice, and kale with pork belly while watching the sunset over Laos.",
+        "nl": "Gezellige craft biertent en rivierrestaurants met livemuziek aan de Mekong. Geniet van koud bier, Isaan-klassiekers zoals laab en kleefrijst, en boerenkool met buikspek terwijl je de zonsondergang over Laos bekijkt."
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Craft beer tent", "Live music", "Isaan cuisine", "Mekong sunset views", "Laab and sticky rice"],
+      "best_time": "evening",
+      "duration_hours": 2
+    },
+    {
+      "id": 5,
+      "slug": "mukdahan-mekong-bungalows",
+      "name": {
+        "en": "Mukdahan Mekong Bungalows Area",
+        "nl": "Mukdahan Mekong Bungalows Gebied"
+      },
+      "type": "relaxation",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Charming riverside bungalow area directly on the Mekong with gardens, beanbags under shady trees, and a peaceful path to town. Bungalows from 800 THB/night with executive huts at 1,200 THB.",
+        "nl": "Charmant bungalowgebied direct aan de Mekong met tuinen, zitzakken onder schaduwrijke bomen en een rustig pad naar de stad. Bungalows vanaf 800 THB/nacht met executive hutten voor 1.200 THB."
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "googleMapsUrl": "https://maps.app.goo.gl/dm2wzZSCB54re",
+      "highlights": ["Mekong riverside", "Garden bungalows", "Beanbags under trees", "Quiet atmosphere", "Budget-friendly"],
+      "best_time": "all day",
+      "duration_hours": 0
+    }
+  ]
+}
