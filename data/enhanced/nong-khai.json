@@ -17,7 +17,11 @@
     "Den Ping Cave",
     "Cliff-Top Temples",
     "White Marble Reclining Buddha",
-    "Mekong Riverside"
+    "Mekong Riverside",
+    "Sculpture Park (Sala Kaew Ku)",
+    "Sunken Stupa (Phra That Klang Nam)",
+    "Mekong Waterfront Promenade",
+    "Ok Phansa Festival"
   ],
   "location": {
     "lat": 17.8783,
@@ -61,7 +65,88 @@
   ],
   "overview": "Nong Khai is a captivating Mekong River city in Isaan that serves as Thailand's primary gateway to Laos via the famous Thai-Lao Friendship Bridge. Situated in Nong Khai Province along Route 212 — the scenic highway that traces the Mekong through northeastern Thailand — this area offers an extraordinary blend of natural wonders and cultural treasures that remain almost entirely undiscovered by international tourists. The province is home to dramatic cliff-top temples perched high above the Mekong with panoramic views stretching into Laos, mysterious cave systems explored by torchlight with local guides, and a stunning 20-meter reclining Buddha carved from Italian white marble. For motorcycle travelers following the Mekong route, Nong Khai represents the perfect continuation of the journey from Chiang Khan, with Route 212 delivering one jaw-dropping riverside vista after another.",
   "enhanced_description": "Nong Khai province is where the Mekong adventure gets truly wild. If you thought Chiang Khan was off the beaten path, the stretch of Route 212 leading into Nong Khai takes remoteness to another level — you can ride for hours without seeing another tourist. This is deep Isaan, where English is rarely spoken and Google Translate becomes your most essential travel tool. But what you find here is extraordinary. Temples cling to cliff edges high above the Mekong, offering views so dramatic they feel almost impossible. Hidden caves wind deep into hillsides, accessible only with local guides who light the way through narrow passages. A 20-meter reclining Buddha made entirely of Italian white marble gleams in the sun at a temple that charges nothing for entry. The landscape is a stunning mix of river valleys, limestone karsts, and dense tropical forest. Nong Khai city itself sits right on the Mekong, with the Friendship Bridge stretching across the river to Vientiane, Laos. The riverside promenades offer peaceful sunset walks, and the local food scene serves up authentic Isaan cuisine at prices that seem impossibly low. This is Thailand at its most genuine — no tourist infrastructure, no English menus, just incredible experiences waiting to be discovered by those willing to venture off the main routes.",
-  "thingsToDo": "Begin your Nong Khai exploration with the dramatic cliff-top temples that overlook the Mekong. These temples are perched on sheer cliffs high above the river, offering panoramic views that stretch far into Laos — the kind of views that make you stop and stare in disbelief. The temples themselves are modest but beautifully situated, and you'll likely have them entirely to yourself. Next, head to Den Ping Cave, where a local guide leads you deep into a limestone cave system by torchlight. The 100 THB donation is well worth it — the guide illuminates stunning rock formations and Buddhist shrines hidden in the chambers. It's a genuinely adventurous experience, crawling and climbing through narrow passages. Don't miss the White Marble Reclining Buddha temple, home to a massive 20-meter reclining Buddha carved entirely from Italian white marble. The craftsmanship is remarkable, and entry is completely free. Head to the Friendship Bridge viewpoint to see the iconic crossing between Thailand and Laos — watching trucks and buses cross between two countries is surprisingly fascinating. End your days with walks along the Mekong riverside promenade in Nong Khai city, where locals gather in the evening and sunset views over Laos are spectacular. Throughout the province, the key is to explore by motorbike along Route 212, stopping at every viewpoint and temple sign you see — the best discoveries here are the unplanned ones.",
+  "thingsToDo": [
+    {
+      "name": {
+        "en": "Cliff-Top Temples",
+        "nl": "Kliftempels"
+      },
+      "description": {
+        "en": "Begin your Nong Khai exploration with the dramatic cliff-top temples that overlook the Mekong. These temples are perched on sheer cliffs high above the river, offering panoramic views that stretch far into Laos — the kind of views that make you stop and stare in disbelief. The temples themselves are modest but beautifully situated, and you'll likely have them entirely to yourself.",
+        "nl": "Begin je verkenning van Nong Khai met de dramatische kliftempels die uitkijken over de Mekong. Deze tempels staan op steile kliffen hoog boven de rivier en bieden panoramisch uitzicht dat ver Laos in reikt — het soort uitzicht waarvan je stil blijft staan van ongeloof. De tempels zelf zijn bescheiden maar prachtig gelegen, en je hebt ze waarschijnlijk helemaal voor jezelf."
+      }
+    },
+    {
+      "name": {
+        "en": "Den Ping Cave",
+        "nl": "Den Ping Grot"
+      },
+      "description": {
+        "en": "A local guide leads you deep into a limestone cave system by torchlight. The 100 THB donation is well worth it — the guide illuminates stunning rock formations and Buddhist shrines hidden in the chambers. It's a genuinely adventurous experience, crawling and climbing through narrow passages.",
+        "nl": "Een lokale gids neemt je bij fakkelschijn mee diep in een kalksteengrotsysteem. De donatie van 100 THB is het meer dan waard — de gids verlicht prachtige rotsformaties en boeddhistische schrijnen verborgen in de kamers. Het is een echt avontuurlijke ervaring, kruipend en klimmend door smalle passages."
+      }
+    },
+    {
+      "name": {
+        "en": "White Marble Reclining Buddha",
+        "nl": "Witte Marmeren Liggende Boeddha"
+      },
+      "description": {
+        "en": "A massive 20-meter reclining Buddha carved entirely from Italian white marble. The craftsmanship is remarkable, and entry is completely free. One of the most impressive Buddha statues in Isaan.",
+        "nl": "Een enorm 20 meter lang liggend Boeddhabeeld, volledig gehouwen uit Italiaans wit marmer. Het vakmanschap is opmerkelijk en de toegang is volledig gratis. Een van de meest indrukwekkende Boeddhabeelden in Isaan."
+      }
+    },
+    {
+      "name": {
+        "en": "Friendship Bridge Viewpoint",
+        "nl": "Vriendschapsbrug Uitzichtpunt"
+      },
+      "description": {
+        "en": "See the iconic crossing between Thailand and Laos — watching trucks and buses cross between two countries is surprisingly fascinating. The bridge connects Nong Khai directly to Vientiane, the capital of Laos.",
+        "nl": "Bekijk de iconische oversteek tussen Thailand en Laos — het is verrassend fascinerend om vrachtwagens en bussen tussen twee landen te zien oversteken. De brug verbindt Nong Khai rechtstreeks met Vientiane, de hoofdstad van Laos."
+      }
+    },
+    {
+      "name": {
+        "en": "Sculpture Park / Buddha Park (Sala Kaew Ku)",
+        "nl": "Beeldenpark / Boeddhapark (Sala Kaew Ku)"
+      },
+      "description": {
+        "en": "A stunning sculpture garden with extraordinary Buddhist and Hindu statues set among beautiful gardens. Entry is just 40 THB. The grounds include a lake full of giant catfish — you get a bread roll at the entrance to feed them. You could easily spend a whole day here admiring the incredible artwork and peaceful atmosphere.",
+        "nl": "Een prachtige beeldentuin met buitengewone boeddhistische en hindoeistische beelden te midden van mooie tuinen. De toegang is slechts 40 THB. Op het terrein ligt een meer vol grote meervallen — je krijgt bij de ingang een broodje om ze te voeren. Je kunt hier makkelijk een hele dag doorbrengen om de ongelooflijke kunstwerken en vredige sfeer te bewonderen."
+      }
+    },
+    {
+      "name": {
+        "en": "Mekong Boulevard / Waterfront Promenade",
+        "nl": "Mekong Boulevard / Promenade aan het Water"
+      },
+      "description": {
+        "en": "One of the best waterfront promenades in Thailand. This evening walking area stretches along the Mekong with spectacular sunset views over Laos, live traditional Isaan music, and a very relaxed atmosphere. Locals gather here in the evening for a stroll and to enjoy the riverside ambiance.",
+        "nl": "Een van de beste promenades aan het water in Thailand. Dit avondwandelgebied strekt zich uit langs de Mekong met spectaculair uitzicht op de zonsondergang over Laos, live traditionele Isaan-muziek en een zeer ontspannen sfeer. Locals verzamelen zich hier 's avonds voor een wandeling en om te genieten van de sfeer aan de rivier."
+      }
+    },
+    {
+      "name": {
+        "en": "Sunken Stupa (Phra That Klang Nam)",
+        "nl": "Verzonken Stoepa (Phra That Klang Nam)"
+      },
+      "description": {
+        "en": "A famous 15th-century stupa that once contained sacred Buddha relics. Over the centuries, the Mekong changed course and erosion caused the ancient stupa to collapse into the river. During the dry season (November to February), boat trips take visitors out to see fragments of the stupa rising above the water. A replica has been built on shore. Even during high water season, boats still circle the underwater stupa site for prayers and merit-making.",
+        "nl": "Een beroemde stoepa uit de 15e eeuw die ooit heilige Boeddha-relikwieen bevatte. In de loop der eeuwen veranderde de Mekong van koers en zorgde erosie ervoor dat de oude stoepa in de rivier stortte. Tijdens het droge seizoen (november tot februari) brengen boottochten bezoekers naar de plek waar fragmenten van de stoepa boven het water uitsteken. Er is een replica gebouwd op de oever. Zelfs tijdens het hoogwaterseizoen varen boten nog steeds rond de onderwater stoepa-plek voor gebeden en het maken van verdienste."
+      }
+    },
+    {
+      "name": {
+        "en": "End of Buddhist Lent Festival (Ok Phansa)",
+        "nl": "Einde van de Boeddhistische Vastenperiode Festival (Ok Phansa)"
+      },
+      "description": {
+        "en": "A huge annual celebration marking the end of the Buddhist fasting period. Nong Khai comes alive with a massive night market, a famous ladyboy beauty contest on the main street drawing over 1,000 spectators, a carnival and fair for kids, live traditional Isaan music, and abundant food and drinks. As they say: the best night markets are in Isaan, and this festival proves it.",
+        "nl": "Een enorme jaarlijkse viering die het einde van de boeddhistische vastenperiode markeert. Nong Khai komt tot leven met een enorme nachtmarkt, een beroemde ladyboy-schoonheidswedstrijd op de hoofdstraat met meer dan 1.000 toeschouwers, een kermis voor kinderen, live traditionele Isaan-muziek en overvloedig eten en drinken. Zoals ze zeggen: de beste nachtmarkten zijn in Isaan, en dit festival bewijst het."
+      }
+    }
+  ],
   "whereToStay": "Accommodation in Nong Khai is remarkably affordable and concentrated along the Mekong riverfront. Riverside hotels start from around 700 THB/night ($20) and offer views directly over the Mekong to Laos — at prices that would barely get you a dorm bed in Bangkok. The riverside area of Nong Khai city is the best base, putting you within walking distance of restaurants, the promenade, and transport connections. For those exploring the province's more remote temples and caves, staying in Nong Khai city and making day trips by motorbike is the most practical approach, as accommodation options outside the city are very limited. Don't expect luxury resort-style amenities — this is provincial Isaan — but rooms are clean, comfortable, and incredible value. Book ahead during Thai holidays when domestic tourists visit, but on regular days you'll have no trouble finding rooms.",
   "whereToEat": [
     {
@@ -259,6 +344,16 @@
         "en": "Not at all. Nong Khai is one of the most off-the-beaten-path destinations in Thailand. You can visit the cliff temples, caves, and marble Buddha without seeing another international tourist. The city attracts some domestic Thai tourists on weekends and holidays, but the province's attractions are virtually undiscovered. This is authentic Thailand — no tourist menus, no English signs, no souvenir shops. It's exactly what many travelers dream of finding.",
         "nl": "Helemaal niet. Nong Khai is een van de meest onontdekte bestemmingen in Thailand. Je kunt de kliftempels, grotten en marmeren Boeddha bezoeken zonder een andere internationale toerist te zien. De stad trekt in het weekend en op feestdagen wat binnenlandse Thaise toeristen, maar de bezienswaardigheden van de provincie zijn vrijwel onontdekt. Dit is authentiek Thailand — geen toeristenmenu's, geen Engelse borden, geen souvenirwinkels. Het is precies wat veel reizigers dromen te vinden."
       }
+    },
+    {
+      "question": {
+        "en": "What is the Sunken Stupa (Phra That Klang Nam) and when can I see it?",
+        "nl": "Wat is de Verzonken Stoepa (Phra That Klang Nam) en wanneer kan ik die zien?"
+      },
+      "answer": {
+        "en": "Phra That Klang Nam is a famous 15th-century stupa that originally contained sacred Buddha relics. Over the centuries, the Mekong River changed course and erosion caused the ancient stupa to collapse into the river. The best time to visit is during the dry season from November to February, when water levels drop and fragments of the original stupa become visible above the surface — boat trips take you out to see them up close. A replica of the stupa has been built on the riverbank. Even during the high water season, longtail boats still circle the underwater stupa site so visitors can pay respects and make prayers. It's one of Nong Khai's most unique and historically significant attractions.",
+        "nl": "Phra That Klang Nam is een beroemde stoepa uit de 15e eeuw die oorspronkelijk heilige Boeddha-relikwieen bevatte. In de loop der eeuwen veranderde de Mekong van koers en zorgde erosie ervoor dat de oude stoepa in de rivier stortte. De beste tijd om te bezoeken is tijdens het droge seizoen van november tot februari, wanneer het waterpeil daalt en fragmenten van de originele stoepa boven het wateroppervlak zichtbaar worden — boottochten brengen je erheen om ze van dichtbij te bekijken. Er is een replica van de stoepa gebouwd op de rivieroever. Zelfs tijdens het hoogwaterseizoen varen longtailboten nog steeds rond de onderwater stoepa-plek zodat bezoekers hun respect kunnen betuigen en kunnen bidden. Het is een van de meest unieke en historisch belangrijke bezienswaardigheden van Nong Khai."
+      }
     }
   ],
   "practicalInfo": {
@@ -297,6 +392,13 @@
       "creator": "Paddy Doyle - Live Love Thailand",
       "url": "https://www.youtube.com/watch?v=7QAy5WMejrA",
       "description": "Motorcycle journey along the Mekong from Chiang Khan to Nong Khai, exploring caves, cliff temples, and riverside villages."
+    },
+    {
+      "type": "video",
+      "title": "Mekong Adventure Episode 3: Nong Khai to Bueng Kan",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=lBMMNQ816Ro",
+      "description": "Exploring Nong Khai's sculpture park, sunken stupa, and festivals before riding through rice paddies to Bueng Kan's Three Whale Rock."
     }
   ],
   "enrichedAt": "2026-02-22T18:00:00.000Z"

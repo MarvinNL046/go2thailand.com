@@ -1,0 +1,112 @@
+{
+  "city_slug": "bueng-kan",
+  "city_name": "Bueng Kan",
+  "total_attractions": 5,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "three-whale-rock",
+      "name": {
+        "en": "Three Whale Rock (Hin Sam Wan)",
+        "nl": "Drie Walvisrots (Hin Sam Wan)"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Ancient red sandstone formations dating back 75 million years to the Cretaceous period, sculpted by erosion into whale-shaped rocks with deep red Mars-like coloring from iron oxide, surrounded by misty rainforest",
+        "nl": "Oude rode zandsteenformaties van 75 miljoen jaar oud uit het Krijttijdperk, door erosie gevormd tot walvisvormige rotsen met dieprode Mars-achtige kleuring door ijzeroxide, omgeven door mistig regenwoud"
+      },
+      "entrance_fee": {
+        "thb": 600,
+        "usd": 17
+      },
+      "highlights": ["75-million-year-old formations", "Whale-shaped red sandstone", "Misty rainforest setting", "Panoramic Mekong views"],
+      "best_time": "morning",
+      "duration_hours": 3
+    },
+    {
+      "id": 2,
+      "slug": "three-whale-rock-viewpoints",
+      "name": {
+        "en": "Three Whale Rock Viewpoints",
+        "nl": "Drie Walvisrots Uitzichtpunten"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "A circuit of four to five elevated viewpoints accessed by truck, each offering different perspectives on the ancient sandstone formations with sweeping views across the Mekong River into Laos",
+        "nl": "Een circuit van vier tot vijf verhoogde uitzichtpunten bereikbaar per truck, elk met een ander perspectief op de oude zandsteenformaties en weids uitzicht over de Mekong naar Laos"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Multiple viewpoints", "Mekong River panoramas", "Views into Laos", "Dramatic after rain"],
+      "best_time": "morning",
+      "duration_hours": 2
+    },
+    {
+      "id": 3,
+      "slug": "red-sandstone-formations",
+      "name": {
+        "en": "Red Sandstone Formations",
+        "nl": "Rode Zandsteenformaties"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Extraordinary Cretaceous-era red sandstone rock formations scattered across the forested hilltops, their deep red color created by iron oxide deposits over 75 million years of geological history",
+        "nl": "Buitengewone rode zandsteenformaties uit het Krijttijdperk verspreid over de beboste heuveltop, hun dieprode kleur ontstaan door ijzeroxideafzettingen gedurende 75 miljoen jaar geologische geschiedenis"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Cretaceous period geology", "Iron oxide red coloring", "Jurassic Park atmosphere", "Unique erosion patterns"],
+      "best_time": "morning",
+      "duration_hours": 1.5
+    },
+    {
+      "id": 4,
+      "slug": "bueng-kan-mekong-riverside",
+      "name": {
+        "en": "Bueng Kan Mekong Riverside",
+        "nl": "Bueng Kan Mekong Rivieroever"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "The peaceful Mekong riverside area in Bueng Kan province, featuring lotus-covered ponds, bamboo bridges, rice paddies, and stunning views across the river to Laos in one of Thailand's most untouched settings",
+        "nl": "Het rustige Mekong-riviergebied in de provincie Bueng Kan, met lotusbedekte vijvers, bamboebbruggen, rijstvelden en prachtig uitzicht over de rivier naar Laos in een van Thailand's meest ongerepte omgevingen"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Lotus flower ponds", "Bamboo bridges", "Rice paddy landscapes", "Views to Laos"],
+      "best_time": "evening",
+      "duration_hours": 1.5
+    },
+    {
+      "id": 5,
+      "slug": "wat-phu-tok",
+      "name": {
+        "en": "Wat Phu Tok",
+        "nl": "Wat Phu Tok"
+      },
+      "type": "temple",
+      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "description": {
+        "en": "A remarkable forest temple built into a sandstone mountain, with wooden walkways and staircases climbing seven levels representing the seven stages of Buddhist enlightenment, offering breathtaking views from the summit",
+        "nl": "Een opmerkelijke bostempel gebouwd in een zandsteenberg, met houten loopbruggen en trappen die zeven niveaus beklimmen die de zeven stadia van boeddhistische verlichting vertegenwoordigen, met adembenemend uitzicht vanaf de top"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Seven-level mountain temple", "Wooden cliff walkways", "Panoramic summit views", "Unique forest setting"],
+      "best_time": "morning",
+      "duration_hours": 2
+    }
+  ]
+}

@@ -12,8 +12,8 @@
     "nl": "Volg de machtige Mekong-rivier over meer dan 800 kilometer langs de natuurlijke grens tussen Thailand en Laos. Deze motorfiets- of autoreis afzijdig van het gebaande pad brengt je langs charmante rivierstadjes, oude tempels, ochtendlijke aalmoezenceremonies en enkele van de meest authentieke Thaise ervaringen die je kunt vinden. Van de mistige ochtenden van Chiang Khan tot de verborgen dorpjes van Isaan — dit is het Thailand dat de meeste toeristen nooit zien."
   },
   "image": "/images/cities/bangkok/downtown-bangkok.webp",
-  "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos", "Den Ping Cave", "Friendship Bridge", "Jungle Tractor Adventure"],
-  "cities": ["chiang-khan", "nong-khai"],
+  "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos", "Den Ping Cave", "Friendship Bridge", "Jungle Tractor Adventure", "Three Whale Rock", "Sculpture Park", "Sunken Stupa"],
+  "cities": ["chiang-khan", "nong-khai", "bueng-kan"],
   "budget": {
     "budget": { "total": "$300-500", "perDay": "$20-35", "currency": "THB", "totalThb": "10,500-17,500" },
     "midrange": { "total": "$600-900", "perDay": "$40-65", "currency": "THB", "totalThb": "21,000-31,500" },
@@ -202,6 +202,83 @@
         "luxury": { "en": "Premium riverside hotel near Friendship Bridge (1,500-3,000 THB/night)", "nl": "Premium rivierhotel bij de Vriendschapsbrug (1.500-3.000 THB/nacht)" }
       },
       "transport": { "en": "Continue east on Route 212 from your riverside stop to Nong Khai. The road becomes busier as you approach the city. Nong Khai is about 2-3 hours riding from the midpoint villages.", "nl": "Ga verder naar het oosten over Route 212 vanuit je rivierstop naar Nong Khai. De weg wordt drukker naarmate je de stad nadert. Nong Khai ligt op ongeveer 2-3 uur rijden van de tussenliggende dorpen." }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Explore Nong Khai",
+        "nl": "Verken Nong Khai"
+      },
+      "city": "nong-khai",
+      "activities": [
+        {
+          "name": { "en": "Sculpture Park / Buddha Park", "nl": "Beeldenpark / Boeddhapark" },
+          "duration": "2 hours",
+          "cost": "40 THB",
+          "type": "cultural",
+          "tip": { "en": "Beautiful gardens full of fascinating sculptures telling stories of Buddhist and Hindu mythology. A lake full of enormous catfish — you get a bread roll with your ticket to feed them. You could spend the whole day here admiring the art in the peaceful countryside setting just outside Nong Khai city.", "nl": "Prachtige tuinen vol fascinerende sculpturen die verhalen vertellen over boeddhistische en hindoeïstische mythologie. Een meer vol enorme meervallen — je krijgt een broodje bij je ticket om ze te voeren. Je kunt hier de hele dag doorbrengen met het bewonderen van de kunst in de vredige landelijke omgeving net buiten Nong Khai stad." }
+        },
+        {
+          "name": { "en": "Sunken Stupa - Phra That Klang Nam", "nl": "Verzonken Stupa - Phra That Klang Nam" },
+          "duration": "1 hour",
+          "cost": "Free on shore / boat trip 100-200 THB",
+          "type": "cultural",
+          "tip": { "en": "A famous 15th-century stupa that once contained relics of the Buddha. Over centuries, the Mekong changed course and erosion caused it to collapse into the river. In dry season (Nov-Feb), take a boat to see fragments above the waterline — locals drape it in robes. A replica has been built on shore showing what it looked like. Even in high water, boats circle the underwater stupa for prayers.", "nl": "Een beroemde 15e-eeuwse stupa die ooit relikwieën van de Boeddha bevatte. Gedurende eeuwen veranderde de Mekong van koers en veroorzaakte erosie dat hij in de rivier stortte. In het droge seizoen (nov-feb) kun je een boot nemen om fragmenten boven de waterlijn te zien — bewoners hangen er gewaden overheen. Er is een replica op de oever gebouwd die laat zien hoe hij eruitzag. Zelfs bij hoog water varen boten rond de onderwater stupa voor gebeden." }
+        },
+        {
+          "name": { "en": "Mekong Boulevard Sunset Walk", "nl": "Mekong Boulevard Zonsondergangswandeling" },
+          "duration": "2-3 hours",
+          "cost": "Free",
+          "type": "relaxation",
+          "tip": { "en": "Nong Khai's waterfront promenade is one of the most relaxed spots in Thailand. Walk along at sunset with live traditional Isaan music playing. If you're lucky, you'll catch a festival — the End of Buddhist Lent (Ok Phansa) celebration fills the boulevard with night markets, a ladyboy beauty contest with 1000+ spectators on the main street, a carnival for kids, and incredible traditional food.", "nl": "De waterkantpromenade van Nong Khai is een van de meest ontspannen plekken in Thailand. Wandel er bij zonsondergang langs met live traditionele Isaan-muziek. Als je geluk hebt, maak je een festival mee — de viering van het Einde van de Boeddhistische Vasten (Ok Phansa) vult de boulevard met avondmarkten, een ladyboy-schoonheidswedstrijd met 1000+ toeschouwers op de hoofdstraat, een kermis voor kinderen en ongelooflijk traditioneel eten." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Hotel breakfast or local market stall (40-80 THB)", "nl": "Hotelontbijt of lokale marktkraam (40-80 THB)" },
+        "lunch": { "en": "Restaurant near the Sculpture Park (80-150 THB)", "nl": "Restaurant bij het Beeldenpark (80-150 THB)" },
+        "dinner": { "en": "Nong Khai night market on the boulevard — try everything from the Isaan food stalls (100-300 THB)", "nl": "Nong Khai avondmarkt op de boulevard — probeer alles van de Isaan-eetstalletjes (100-300 THB)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Nong Khai guesthouse (400-700 THB/night)", "nl": "Nong Khai guesthouse (400-700 THB/nacht)" },
+        "midrange": { "en": "Riverside hotel near the boulevard (800-1,500 THB/night)", "nl": "Rivierhotel bij de boulevard (800-1.500 THB/nacht)" },
+        "luxury": { "en": "Best riverside hotel in Nong Khai (1,500-3,000 THB/night)", "nl": "Beste rivierhotel in Nong Khai (1.500-3.000 THB/nacht)" }
+      },
+      "transport": { "en": "Everything in Nong Khai is reachable by motorbike or tuk-tuk. The Sculpture Park is just outside the city.", "nl": "Alles in Nong Khai is bereikbaar per motor of tuk-tuk. Het Beeldenpark ligt net buiten de stad." }
+    },
+    {
+      "day": 6,
+      "title": {
+        "en": "Nong Khai to Bueng Kan & Three Whale Rock",
+        "nl": "Nong Khai naar Bueng Kan & Three Whale Rock"
+      },
+      "city": "bueng-kan",
+      "activities": [
+        {
+          "name": { "en": "Scenic Ride from Nong Khai to Bueng Kan", "nl": "Schilderachtige Rit van Nong Khai naar Bueng Kan" },
+          "duration": "3-4 hours riding",
+          "cost": "Free",
+          "type": "adventure",
+          "tip": { "en": "Follow Route 212 east along the Mekong. The landscape transforms into rice paddies, bamboo bridges connecting temples to villages, and lotus flowers on the river. Pass through tiny villages where grandmas rest on wooden beds outside and kids cycle around freely. Watch the weather — dramatic storms can roll in quickly but never last long.", "nl": "Volg Route 212 naar het oosten langs de Mekong. Het landschap verandert in rijstvelden, bamboebruggen die tempels met dorpen verbinden en lotusbloemen op de rivier. Rijd door kleine dorpjes waar oma's buiten rusten op houten bedden en kinderen vrij rondietsen. Let op het weer — dramatische stormen kunnen snel opkomen maar duren nooit lang." }
+        },
+        {
+          "name": { "en": "Three Whale Rock / Hin Sam Wan", "nl": "Three Whale Rock / Hin Sam Wan" },
+          "duration": "2-3 hours",
+          "cost": "100 THB entry + 500 THB truck",
+          "type": "nature",
+          "tip": { "en": "One of Thailand's most iconic natural monuments, hidden deep in Isaan. Ancient 75-million-year-old red sandstone formations (Cretaceous period) shaped like three swimming whales — mama, papa, and baby. The iron oxide gives them a Mars-like red glow. A truck takes you to 4-5 viewpoints across the mountain — the distances are huge, 20 minutes between stops. Share the truck to split the 500 THB cost. After rain, the mist rising from the rainforest makes it feel like Jurassic Park. Bring a drone if you have one — the aerial views are spectacular. Be careful on the rocks — extremely slippery when wet.", "nl": "Een van Thailand's meest iconische natuurmonumenten, verborgen diep in Isaan. Oude 75 miljoen jaar oude rode zandsteenformaties (Krijttijdperk) gevormd als drie zwemmende walvissen — mama, papa en baby. Het ijzeroxide geeft ze een Mars-achtige rode gloed. Een truck brengt je naar 4-5 uitkijkpunten over de berg — de afstanden zijn enorm, 20 minuten tussen de stops. Deel de truck om de 500 THB kosten te splitsen. Na regen maakt de mist die opstijgt uit het regenwoud het als Jurassic Park. Neem een drone mee als je er een hebt — de luchtfoto's zijn spectaculair. Wees voorzichtig op de rotsen — extreem glad als het nat is." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Early breakfast in Nong Khai before departure (40-80 THB)", "nl": "Vroeg ontbijt in Nong Khai voor vertrek (40-80 THB)" },
+        "lunch": { "en": "Stop at a village stall along Route 212 — rice and simple Thai dishes (50-100 THB)", "nl": "Stop bij een dorpskraam langs Route 212 — rijst en eenvoudige Thaise gerechten (50-100 THB)" },
+        "dinner": { "en": "Small restaurant near your bungalow at Three Whale Rock (80-150 THB)", "nl": "Klein restaurant bij je bungalow bij Three Whale Rock (80-150 THB)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Bungalow near Three Whale Rock — 400 THB/night with AC and shower. Basic but perfectly located.", "nl": "Bungalow bij Three Whale Rock — 400 THB/nacht met airco en douche. Basic maar perfect gelegen." },
+        "midrange": { "en": "Guesthouse in Bueng Kan town (600-1,000 THB/night)", "nl": "Guesthouse in Bueng Kan stad (600-1.000 THB/nacht)" },
+        "luxury": { "en": "Best available accommodation in the area (1,000-1,500 THB/night) — options are limited in this remote area", "nl": "Beste beschikbare accommodatie in het gebied (1.000-1.500 THB/nacht) — opties zijn beperkt in dit afgelegen gebied" }
+      },
+      "transport": { "en": "Motorbike or car along Route 212 from Nong Khai heading east. The road follows the Mekong through beautiful countryside. At Three Whale Rock, you need the 500 THB truck to reach the viewpoints — distances between stops are too far to walk.", "nl": "Motor of auto langs Route 212 vanuit Nong Khai richting het oosten. De weg volgt de Mekong door prachtig platteland. Bij Three Whale Rock heb je de 500 THB truck nodig om de uitkijkpunten te bereiken — de afstanden tussen de stops zijn te ver om te lopen." }
     }
   ],
   "contentSources": [
@@ -218,6 +295,13 @@
       "creator": "Paddy Doyle - Live Love Thailand",
       "url": "https://www.youtube.com/watch?v=7QAy5WMejrA",
       "description": "Two days of riding from Chiang Khan to Nong Khai along Route 212, with jungle tractor adventures, cave exploration, and cliff-top temples."
+    },
+    {
+      "type": "video",
+      "title": "Mekong Adventure Episode 3: Nong Khai to Bueng Kan",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=lBMMNQ816Ro",
+      "description": "Exploring Nong Khai's sculpture park, sunken stupa, and festivals before riding to Bueng Kan's Three Whale Rock."
     }
   ],
   "seo": {

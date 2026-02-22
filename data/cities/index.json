@@ -448,5 +448,20 @@
       "Friendship Bridge",
       "Mekong Riverside"
     ]
+  },
+  {
+    "id": 31,
+    "slug": "bueng-kan",
+    "name": {
+      "en": "Bueng Kan",
+      "nl": "Bueng Kan"
+    },
+    "region": "Isaan",
+    "province": "Bueng Kan",
+    "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+    "highlights": [
+      "Three Whale Rock",
+      "Mekong Viewpoints"
+    ]
   }
 ]

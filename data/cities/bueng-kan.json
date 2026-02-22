@@ -1,0 +1,58 @@
+{
+  "id": 31,
+  "slug": "bueng-kan",
+  "name": {
+    "en": "Bueng Kan",
+    "nl": "Bueng Kan"
+  },
+  "region": "Isaan",
+  "province": "Bueng Kan",
+  "description": {
+    "en": "Remote Isaan province along the Mekong famous for the Three Whale Rock — ancient 75-million-year-old red sandstone formations shaped like swimming whales. Off-the-beaten-path with stunning viewpoints and Jurassic Park-like landscapes.",
+    "nl": "Afgelegen Isaan-provincie langs de Mekong, beroemd om de Drie Walvissenrots — oeroude 75 miljoen jaar oude rode zandsteenformaties in de vorm van zwemmende walvissen. Buiten de gebaande paden met adembenemende uitzichtpunten en Jurassic Park-achtige landschappen."
+  },
+  "population": 39000,
+  "highlights": [
+    "Three Whale Rock",
+    "Mekong Viewpoints",
+    "Red Sandstone Formations",
+    "Rice Paddies"
+  ],
+  "location": {
+    "lat": 18.3609,
+    "lng": 103.6512
+  },
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Bueng Kan | What to do in Bueng Kan?",
+      "nl": "Ontdek Bueng Kan | Wat te doen in Bueng Kan?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Bueng Kan, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Bueng Kan, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Bueng Kan",
+      "nl": "Beste restaurants en streetfood in Bueng Kan"
+    },
+    "hotels": {
+      "en": "Top hotels in Bueng Kan | Tips & deals",
+      "nl": "Beste hotels in Bueng Kan | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Bueng Kan",
+      "nl": "Top bezienswaardigheden in Bueng Kan"
+    }
+  },
+  "tags": [
+    "isaan",
+    "bueng kan",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}
