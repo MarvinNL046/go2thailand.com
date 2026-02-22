@@ -1,0 +1,58 @@
+{
+  "id": 30,
+  "slug": "nong-khai",
+  "name": {
+    "en": "Nong Khai",
+    "nl": "Nong Khai"
+  },
+  "region": "Isaan",
+  "province": "Nong Khai",
+  "description": {
+    "en": "Gateway city on the Mekong River connecting Thailand to Laos via the Friendship Bridge. Known for stunning riverside temples, dramatic cliff viewpoints, and adventure caves.",
+    "nl": "Poortstad aan de Mekong die Thailand met Laos verbindt via de Vriendschapsbrug. Bekend om prachtige riviertempels, dramatische klifuitkijkpunten en avonturengrotten."
+  },
+  "population": 130000,
+  "highlights": [
+    "Friendship Bridge",
+    "Mekong Riverside",
+    "Cliff Temples",
+    "Den Ping Cave"
+  ],
+  "location": {
+    "lat": 17.8783,
+    "lng": 102.7453
+  },
+  "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Discover Nong Khai | What to do in Nong Khai?",
+      "nl": "Ontdek Nong Khai | Wat te doen in Nong Khai?"
+    },
+    "metaDescription": {
+      "en": "Your guide to Nong Khai, Thailand – tips, highlights, food, hotels.",
+      "nl": "Jouw gids voor Nong Khai, Thailand – tips, highlights, eten, hotels."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Nong Khai",
+      "nl": "Beste restaurants en streetfood in Nong Khai"
+    },
+    "hotels": {
+      "en": "Top hotels in Nong Khai | Tips & deals",
+      "nl": "Beste hotels in Nong Khai | Tips & aanbiedingen"
+    },
+    "attractions": {
+      "en": "Top attractions in Nong Khai",
+      "nl": "Top bezienswaardigheden in Nong Khai"
+    }
+  },
+  "tags": [
+    "isaan",
+    "nong khai",
+    "thailand",
+    "travel",
+    "tourism",
+    "guide"
+  ]
+}

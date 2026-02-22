@@ -12,8 +12,8 @@
     "nl": "Volg de machtige Mekong-rivier over meer dan 800 kilometer langs de natuurlijke grens tussen Thailand en Laos. Deze motorfiets- of autoreis afzijdig van het gebaande pad brengt je langs charmante rivierstadjes, oude tempels, ochtendlijke aalmoezenceremonies en enkele van de meest authentieke Thaise ervaringen die je kunt vinden. Van de mistige ochtenden van Chiang Khan tot de verborgen dorpjes van Isaan — dit is het Thailand dat de meeste toeristen nooit zien."
   },
   "image": "/images/cities/bangkok/downtown-bangkok.webp",
-  "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos"],
-  "cities": ["chiang-khan"],
+  "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos", "Den Ping Cave", "Friendship Bridge", "Jungle Tractor Adventure"],
+  "cities": ["chiang-khan", "nong-khai"],
   "budget": {
     "budget": { "total": "$300-500", "perDay": "$20-35", "currency": "THB", "totalThb": "10,500-17,500" },
     "midrange": { "total": "$600-900", "perDay": "$40-65", "currency": "THB", "totalThb": "21,000-31,500" },
@@ -111,6 +111,97 @@
         "luxury": { "en": "Same riverside hotel", "nl": "Hetzelfde rivierhotel" }
       },
       "transport": { "en": "Everything is walkable today. Rent a motorbike only if you want to explore viewpoints outside town.", "nl": "Alles is vandaag lopend bereikbaar. Huur alleen een motor als je uitzichtpunten buiten het stadje wilt verkennen." }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Chiang Khan to Riverside Village (Route 212 along the Mekong)",
+        "nl": "Chiang Khan naar Rivierdorpje (Route 212 langs de Mekong)"
+      },
+      "city": "chiang-khan",
+      "activities": [
+        {
+          "name": { "en": "Ride Route 212 along the Mekong", "nl": "Rijd Route 212 langs de Mekong" },
+          "duration": "half day",
+          "cost": "Free",
+          "type": "adventure",
+          "tip": { "en": "The main road 212 follows the Mekong closely, but take the small detours off the highway to ride right along the water. In October the river is full, brown and fast-flowing with sediment from upstream. In dry season, islands and extra riverbanks are exposed. Watch for farming paths connecting riverside communities.", "nl": "De hoofdweg 212 volgt de Mekong op de voet, maar neem de kleine omwegen van de snelweg om recht langs het water te rijden. In oktober is de rivier vol, bruin en snelstromend met sediment van stroomopwaarts. In het droge seizoen komen eilanden en extra rivieroevers bloot te liggen. Let op landbouwpaden die riviergemeenschappen verbinden." }
+        },
+        {
+          "name": { "en": "Jungle Tractor Adventure", "nl": "Jungle Tractor Avontuur" },
+          "duration": "2-3 hours",
+          "cost": "500 THB",
+          "type": "adventure",
+          "tip": { "en": "In small villages along Route 212, look for the 'Chitty Chitty Bang Bang' tractors — homemade wooden vehicles with lawnmower engines. For 500 Baht, a local drives you through streams, rubber plantations, and deep into the jungle to hidden swimming spots and waterfalls. One of the most unique, unforgettable experiences in Thailand. Use Google Translate to communicate.", "nl": "In kleine dorpjes langs Route 212, zoek naar de 'Chitty Chitty Bang Bang'-tractoren — zelfgemaakte houten voertuigen met grasmaaier-motoren. Voor 500 Baht rijdt een local je door beken, rubberplantages en diep de jungle in naar verborgen zwemplekken en watervallen. Een van de meest unieke, onvergetelijke ervaringen in Thailand. Gebruik Google Translate om te communiceren." }
+        },
+        {
+          "name": { "en": "White Marble Reclining Buddha Temple", "nl": "Witte Marmeren Liggende Boeddha Tempel" },
+          "duration": "1-2 hours",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "Watch for a blue roof on a mountain as you ride — this temple houses a 20-meter reclining Buddha made entirely of white marble imported from Italy. Free to enter. He calls it 'a top 10 temple in Thailand — if this were in Bangkok, it would be the #1 temple.' The setting overlooking the Mekong basin makes it breathtaking. Monks meditate here, so be quiet and respectful.", "nl": "Let op een blauw dak op een berg terwijl je rijdt — deze tempel herbergt een 20 meter lange liggende Boeddha volledig gemaakt van wit marmer geimporteerd uit Italie. Gratis toegang. Hij noemt het 'een top 10 tempel in Thailand — als deze in Bangkok stond, zou het de #1 tempel zijn.' De ligging met uitzicht over het Mekong-bekken maakt het adembenemend. Monniken mediteren hier, dus wees stil en respectvol." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Early start from Chiang Khan — grab rice porridge or baguettes from a local stall (40-60 THB)", "nl": "Vroege start vanuit Chiang Khan — pak rijstepap of baguettes bij een lokale kraam (40-60 THB)" },
+        "lunch": { "en": "Riverside restaurant at one of the small Mekong villages (80-150 THB)", "nl": "Rivierrestaurant bij een van de kleine Mekong-dorpjes (80-150 THB)" },
+        "dinner": { "en": "Small village restaurant near your riverside hotel", "nl": "Klein dorpsrestaurant bij je rivierhotel" }
+      },
+      "accommodation": {
+        "budget": { "en": "Basic riverside guesthouse (500-700 THB/night)", "nl": "Eenvoudig guesthouse aan de rivier (500-700 THB/nacht)" },
+        "midrange": { "en": "Riverside hotel with Mekong views — small village charm (700-1,000 THB/night)", "nl": "Rivierhotel met Mekong-uitzicht — kleine dorpscharme (700-1.000 THB/nacht)" },
+        "luxury": { "en": "Best riverside hotel you can find along Route 212 (1,200-2,000 THB/night)", "nl": "Beste rivierhotel dat je kunt vinden langs Route 212 (1.200-2.000 THB/nacht)" }
+      },
+      "transport": { "en": "Motorbike or car along Route 212 from Chiang Khan heading east toward Nong Khai. The road follows the Mekong closely. Allow detours on small farming paths for the best river views.", "nl": "Motor of auto langs Route 212 vanuit Chiang Khan richting het oosten naar Nong Khai. De weg volgt de Mekong op de voet. Neem omwegen via kleine landbouwpaden voor het beste rivieruitzicht." }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Riverside Village to Nong Khai",
+        "nl": "Rivierdorpje naar Nong Khai"
+      },
+      "city": "nong-khai",
+      "activities": [
+        {
+          "name": { "en": "Sunrise over the Mekong", "nl": "Zonsopgang boven de Mekong" },
+          "duration": "30 min",
+          "cost": "Free",
+          "type": "relaxation",
+          "tip": { "en": "Wake early for one of the most spectacular sunrises in Thailand. The Mekong turns golden and blue as the storms clear. Worth setting your alarm for.", "nl": "Sta vroeg op voor een van de meest spectaculaire zonsopgangen in Thailand. De Mekong kleurt goud en blauw als de stormen opklaren. Het waard om je wekker voor te zetten." }
+        },
+        {
+          "name": { "en": "Cliff Temple & Mountain Viewpoint", "nl": "Kliftempel & Berg Uitkijkpunt" },
+          "duration": "1-2 hours",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "Use a drone or just your eyes to spot temples perched on dramatic cliffs overlooking the Mekong. The viewpoint gives a panoramic view of the river, surrounding villages, and the road you've been riding. A monk meditates and chants here. He described this province as 'like Barnsley or Huddersfield in England — on paper there's nothing here — but unlike those places, Thailand delivers incredible experiences everywhere you go.'", "nl": "Gebruik een drone of gewoon je ogen om tempels te spotten op dramatische kliffen met uitzicht over de Mekong. Het uitkijkpunt biedt een panoramisch uitzicht op de rivier, omliggende dorpen en de weg die je hebt gereden. Een monnik mediteert en chant hier. Hij beschreef deze provincie als 'zoals Barnsley of Huddersfield in Engeland — op papier is hier niets — maar in tegenstelling tot die plekken levert Thailand overal ongelooflijke ervaringen.'" }
+        },
+        {
+          "name": { "en": "Den Ping Cave Exploration", "nl": "Den Ping Grot Verkenning" },
+          "duration": "1-2 hours",
+          "cost": "100 THB donation + tip",
+          "type": "adventure",
+          "tip": { "en": "A raw, unpolished cave experience with a young local guide and nothing but a phone flashlight. No safety equipment, no English, just Google Translate and pure adventure. You'll wade through water, squeeze through tight spaces, and see illuminated silk-worm threads and a hidden Buddha statue deep inside. Claustrophobic but unforgettable. Tip your guide generously (300 THB recommended) — their eyes will light up.", "nl": "Een rauwe, ongepolijste grotervaring met een jonge lokale gids en niets anders dan een telefoonzaklamp. Geen veiligheidsuitrusting, geen Engels, alleen Google Translate en puur avontuur. Je waadt door water, perst je door nauwe ruimtes en ziet verlichte zijderupsendraden en een verborgen Boeddhabeeld diep binnenin. Claustrofobisch maar onvergetelijk. Geef je gids een ruime fooi (300 THB aanbevolen) — hun ogen zullen oplichten." }
+        },
+        {
+          "name": { "en": "Arrive in Nong Khai City", "nl": "Aankomst in Nong Khai Stad" },
+          "duration": "evening",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "Nong Khai is a major city connecting Thailand to Laos via the Friendship Bridge. All trade, oil, goods, services and people cross here. The Mekong has very few bridges between the countries, and this is one of them.", "nl": "Nong Khai is een grote stad die Thailand met Laos verbindt via de Vriendschapsbrug. Alle handel, olie, goederen, diensten en mensen steken hier over. De Mekong heeft heel weinig bruggen tussen de landen, en dit is er een van." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Watch the sunrise and eat at your riverside hotel (50-100 THB)", "nl": "Bekijk de zonsopgang en eet bij je rivierhotel (50-100 THB)" },
+        "lunch": { "en": "Stop at a village stall along Route 212 (60-120 THB)", "nl": "Stop bij een dorpskraam langs Route 212 (60-120 THB)" },
+        "dinner": { "en": "Nong Khai riverside restaurant — celebrate arriving in the big city (150-400 THB)", "nl": "Nong Khai rivierrestaurant — vier je aankomst in de grote stad (150-400 THB)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Nong Khai guesthouse near the river (400-700 THB/night)", "nl": "Nong Khai guesthouse bij de rivier (400-700 THB/nacht)" },
+        "midrange": { "en": "Riverside hotel in Nong Khai with Mekong views (800-1,500 THB/night)", "nl": "Rivierhotel in Nong Khai met Mekong-uitzicht (800-1.500 THB/nacht)" },
+        "luxury": { "en": "Premium riverside hotel near Friendship Bridge (1,500-3,000 THB/night)", "nl": "Premium rivierhotel bij de Vriendschapsbrug (1.500-3.000 THB/nacht)" }
+      },
+      "transport": { "en": "Continue east on Route 212 from your riverside stop to Nong Khai. The road becomes busier as you approach the city. Nong Khai is about 2-3 hours riding from the midpoint villages.", "nl": "Ga verder naar het oosten over Route 212 vanuit je rivierstop naar Nong Khai. De weg wordt drukker naarmate je de stad nadert. Nong Khai ligt op ongeveer 2-3 uur rijden van de tussenliggende dorpen." }
     }
   ],
   "contentSources": [
@@ -120,6 +211,13 @@
       "creator": "Paddy Doyle - Live Love Thailand",
       "url": "https://www.youtube.com/watch?v=5tYAPJomJ1o",
       "description": "First-hand travel experience following the Mekong by motorcycle through Isaan Thailand."
+    },
+    {
+      "type": "video",
+      "title": "Mekong Adventure Episode 2: Chiang Khan to Nong Khai",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=7QAy5WMejrA",
+      "description": "Two days of riding from Chiang Khan to Nong Khai along Route 212, with jungle tractor adventures, cave exploration, and cliff-top temples."
     }
   ],
   "seo": {

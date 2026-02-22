@@ -433,5 +433,20 @@
       "Walking Street",
       "Chiang Khan Skywalk"
     ]
+  },
+  {
+    "id": 30,
+    "slug": "nong-khai",
+    "name": {
+      "en": "Nong Khai",
+      "nl": "Nong Khai"
+    },
+    "region": "Isaan",
+    "province": "Nong Khai",
+    "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+    "highlights": [
+      "Friendship Bridge",
+      "Mekong Riverside"
+    ]
   }
 ]

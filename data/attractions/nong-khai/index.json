@@ -1,0 +1,112 @@
+{
+  "city_slug": "nong-khai",
+  "city_name": "Nong Khai",
+  "total_attractions": 5,
+  "attractions": [
+    {
+      "id": 1,
+      "slug": "den-ping-cave",
+      "name": {
+        "en": "Den Ping Cave",
+        "nl": "Den Ping Grot"
+      },
+      "type": "temple",
+      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "description": {
+        "en": "A limestone cave system explored with a local guide by torchlight, featuring narrow passages, stunning rock formations, and hidden Buddhist shrines deep underground",
+        "nl": "Een kalksteengrotsysteem dat je met een lokale gids bij fakkelschijn verkent, met smalle passages, prachtige rotsformaties en verborgen boeddhistische schrijnen diep onder de grond"
+      },
+      "entrance_fee": {
+        "thb": 100,
+        "usd": 3
+      },
+      "highlights": ["Guided cave exploration", "Buddhist shrines", "Stalactite formations", "Adventure experience"],
+      "best_time": "morning",
+      "duration_hours": 1.5
+    },
+    {
+      "id": 2,
+      "slug": "cliff-temple-viewpoint",
+      "name": {
+        "en": "Cliff Temple Viewpoint",
+        "nl": "Kliftempel Uitzichtpunt"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Dramatic cliff-top temples perched high above the Mekong River offering breathtaking panoramic views stretching far into Laos",
+        "nl": "Dramatische kliftempels hoog boven de Mekong met adembenemend panoramisch uitzicht dat ver Laos in reikt"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Panoramic Mekong views", "Cliff-edge temples", "Views into Laos", "Photography spot"],
+      "best_time": "morning",
+      "duration_hours": 1.5
+    },
+    {
+      "id": 3,
+      "slug": "white-marble-reclining-buddha",
+      "name": {
+        "en": "White Marble Reclining Buddha Temple",
+        "nl": "Witte Marmeren Liggende Boeddha Tempel"
+      },
+      "type": "temple",
+      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "description": {
+        "en": "A stunning temple housing a massive 20-meter reclining Buddha carved entirely from Italian white marble, one of the most impressive Buddha statues in Isaan",
+        "nl": "Een prachtige tempel met een enorm 20 meter lang liggend Boeddhabeeld, volledig gehouwen uit Italiaans wit marmer, een van de meest indrukwekkende Boeddhabeelden in Isaan"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["20-meter reclining Buddha", "Italian white marble", "Free entry", "Impressive craftsmanship"],
+      "best_time": "morning",
+      "duration_hours": 1
+    },
+    {
+      "id": 4,
+      "slug": "friendship-bridge-viewpoint",
+      "name": {
+        "en": "Friendship Bridge Viewpoint",
+        "nl": "Vriendschapsbrug Uitzichtpunt"
+      },
+      "type": "culture",
+      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "description": {
+        "en": "Viewpoint overlooking the iconic Thai-Lao Friendship Bridge spanning the Mekong River, connecting Nong Khai to Vientiane, the capital of Laos",
+        "nl": "Uitzichtpunt met uitzicht op de iconische Thai-Lao Vriendschapsbrug over de Mekong, die Nong Khai verbindt met Vientiane, de hoofdstad van Laos"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Thailand-Laos crossing", "Mekong River views", "International border", "Historic bridge"],
+      "best_time": "afternoon",
+      "duration_hours": 0.5
+    },
+    {
+      "id": 5,
+      "slug": "mekong-riverside-promenade",
+      "name": {
+        "en": "Mekong Riverside Promenade",
+        "nl": "Mekong Rivierpromenade"
+      },
+      "type": "nature",
+      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "description": {
+        "en": "Peaceful riverside walking and cycling path along the Mekong in Nong Khai city, perfect for sunset strolls with views over the river to Laos",
+        "nl": "Rustig wandel- en fietspad langs de Mekong in Nong Khai stad, perfect voor een avondwandeling bij zonsondergang met uitzicht over de rivier naar Laos"
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": ["Sunset views", "Walking and cycling", "River views to Laos", "Local atmosphere"],
+      "best_time": "evening",
+      "duration_hours": 1.5
+    }
+  ]
+}
