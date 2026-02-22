@@ -1,39 +1,75 @@
 {
   "routes": [
     {
-      "from": "bangkok",
-      "to": "phuket",
-      "slug": "bangkok-to-phuket",
-      "distance": "840 km",
+      "from": "ayutthaya",
+      "to": "bangkok",
+      "slug": "ayutthaya-to-bangkok",
+      "distance": "80 km",
       "duration": {
-        "flight": "1.5 hours",
-        "bus": "12-14 hours",
-        "car": "10-12 hours"
+        "bus": "1.5-2 hours",
+        "train": "1.5-2 hours",
+        "taxi": "1-1.5 hours",
+        "car": "1-1.5 hours"
       },
       "popular": true
     },
     {
-      "from": "bangkok",
+      "from": "ayutthaya",
       "to": "chiang-mai",
-      "slug": "bangkok-to-chiang-mai",
-      "distance": "690 km",
+      "slug": "ayutthaya-to-chiang-mai",
+      "distance": "704 km",
       "duration": {
-        "flight": "1.25 hours",
-        "bus": "10-12 hours",
-        "train": "12-15 hours",
-        "car": "9-10 hours"
+        "bus": "10-13 hours",
+        "train": "14-20 hours",
+        "car": "8-10 hours"
       },
       "popular": true
     },
     {
-      "from": "bangkok",
-      "to": "pattaya",
-      "slug": "bangkok-to-pattaya",
-      "distance": "150 km",
+      "from": "ayutthaya",
+      "to": "hua-hin",
+      "slug": "ayutthaya-to-hua-hin",
+      "distance": "282 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "train": "6-8 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "ayutthaya",
+      "to": "kanchanaburi",
+      "slug": "ayutthaya-to-kanchanaburi",
+      "distance": "159 km",
       "duration": {
         "bus": "2-3 hours",
-        "taxi": "1.5-2 hours",
-        "car": "1.5-2 hours"
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "ayutthaya",
+      "to": "pattaya",
+      "slug": "ayutthaya-to-pattaya",
+      "distance": "219 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "ayutthaya",
+      "to": "phuket",
+      "slug": "ayutthaya-to-phuket",
+      "distance": "1023 km",
+      "duration": {
+        "bus": "14-19 hours",
+        "car": "11-14 hours"
       },
       "popular": true
     },
@@ -52,6 +88,68 @@
     },
     {
       "from": "bangkok",
+      "to": "chiang-mai",
+      "slug": "bangkok-to-chiang-mai",
+      "distance": "690 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "10-12 hours",
+        "train": "12-15 hours",
+        "car": "9-10 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
+      "to": "chiang-rai",
+      "slug": "bangkok-to-chiang-rai",
+      "distance": "785 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "10-12 hours",
+        "train": "15+ hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
+      "to": "hua-hin",
+      "slug": "bangkok-to-hua-hin",
+      "distance": "195 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "train": "4-6 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
+      "to": "kanchanaburi",
+      "slug": "bangkok-to-kanchanaburi",
+      "distance": "147 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
+      "to": "koh-samui",
+      "slug": "bangkok-to-koh-samui",
+      "distance": "700 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "12-14 hours",
+        "train": "12-15 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
       "to": "krabi",
       "slug": "bangkok-to-krabi",
       "distance": "780 km",
@@ -59,6 +157,664 @@
         "flight": "1.25 hours",
         "bus": "11-13 hours",
         "car": "10-11 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
+      "to": "pai",
+      "slug": "bangkok-to-pai",
+      "distance": "892 km",
+      "duration": {
+        "bus": "12-16 hours",
+        "car": "9-12 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
+      "to": "pattaya",
+      "slug": "bangkok-to-pattaya",
+      "distance": "150 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "1.5-2 hours",
+        "car": "1.5-2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "bangkok",
+      "to": "phuket",
+      "slug": "bangkok-to-phuket",
+      "distance": "840 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "12-14 hours",
+        "car": "10-12 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-mai",
+      "to": "ayutthaya",
+      "slug": "chiang-mai-to-ayutthaya",
+      "distance": "704 km",
+      "duration": {
+        "bus": "10-13 hours",
+        "train": "14-20 hours",
+        "car": "8-10 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-mai",
+      "to": "bangkok",
+      "slug": "chiang-mai-to-bangkok",
+      "distance": "690 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "10-12 hours",
+        "train": "12-15 hours",
+        "car": "9-10 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-mai",
+      "to": "chiang-rai",
+      "slug": "chiang-mai-to-chiang-rai",
+      "distance": "185 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "3 hours",
+        "car": "3 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-mai",
+      "to": "hua-hin",
+      "slug": "chiang-mai-to-hua-hin",
+      "distance": "944 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "13-17 hours",
+        "train": "19-27 hours",
+        "car": "10-13 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-mai",
+      "to": "kanchanaburi",
+      "slug": "chiang-mai-to-kanchanaburi",
+      "distance": "720 km",
+      "duration": {
+        "bus": "10-13 hours",
+        "car": "8-10 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-mai",
+      "to": "koh-samui",
+      "slug": "chiang-mai-to-koh-samui",
+      "distance": "1400 km",
+      "duration": {
+        "flight": "2 hours",
+        "bus": "19-26 hours",
+        "car": "15-19 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-mai",
+      "to": "krabi",
+      "slug": "chiang-mai-to-krabi",
+      "distance": "1607 km",
+      "duration": {
+        "flight": "2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-mai",
+      "to": "pai",
+      "slug": "chiang-mai-to-pai",
+      "distance": "116 km",
+      "duration": {
+        "bus": "2 hours",
+        "taxi": "1-2 hours",
+        "car": "1-2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-mai",
+      "to": "pattaya",
+      "slug": "chiang-mai-to-pattaya",
+      "distance": "922 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "13-17 hours",
+        "car": "10-13 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-rai",
+      "to": "bangkok",
+      "slug": "chiang-rai-to-bangkok",
+      "distance": "929 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "13-17 hours",
+        "car": "10-13 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-rai",
+      "to": "chiang-mai",
+      "slug": "chiang-rai-to-chiang-mai",
+      "distance": "207 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "3-4 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-rai",
+      "to": "pai",
+      "slug": "chiang-rai-to-pai",
+      "distance": "214 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "chiang-rai",
+      "to": "phuket",
+      "slug": "chiang-rai-to-phuket",
+      "distance": "1818 km",
+      "duration": {
+        "flight": "2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "hua-hin",
+      "to": "ayutthaya",
+      "slug": "hua-hin-to-ayutthaya",
+      "distance": "282 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "train": "6-8 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "hua-hin",
+      "to": "bangkok",
+      "slug": "hua-hin-to-bangkok",
+      "distance": "195 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "train": "4-6 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "hua-hin",
+      "to": "chiang-mai",
+      "slug": "hua-hin-to-chiang-mai",
+      "distance": "944 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "13-17 hours",
+        "train": "19-27 hours",
+        "car": "10-13 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "hua-hin",
+      "to": "kanchanaburi",
+      "slug": "hua-hin-to-kanchanaburi",
+      "distance": "227 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "hua-hin",
+      "to": "krabi",
+      "slug": "hua-hin-to-krabi",
+      "distance": "690 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "10-13 hours",
+        "car": "7-9 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "hua-hin",
+      "to": "pattaya",
+      "slug": "hua-hin-to-pattaya",
+      "distance": "146 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "hua-hin",
+      "to": "phuket",
+      "slug": "hua-hin-to-phuket",
+      "distance": "741 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "10-14 hours",
+        "car": "8-10 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "kanchanaburi",
+      "to": "ayutthaya",
+      "slug": "kanchanaburi-to-ayutthaya",
+      "distance": "159 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "kanchanaburi",
+      "to": "bangkok",
+      "slug": "kanchanaburi-to-bangkok",
+      "distance": "147 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "kanchanaburi",
+      "to": "chiang-mai",
+      "slug": "kanchanaburi-to-chiang-mai",
+      "distance": "720 km",
+      "duration": {
+        "bus": "10-13 hours",
+        "car": "8-10 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "kanchanaburi",
+      "to": "hua-hin",
+      "slug": "kanchanaburi-to-hua-hin",
+      "distance": "227 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "kanchanaburi",
+      "to": "pattaya",
+      "slug": "kanchanaburi-to-pattaya",
+      "distance": "257 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "kanchanaburi",
+      "to": "phuket",
+      "slug": "kanchanaburi-to-phuket",
+      "distance": "937 km",
+      "duration": {
+        "bus": "13-17 hours",
+        "car": "10-13 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "koh-samui",
+      "to": "bangkok",
+      "slug": "koh-samui-to-bangkok",
+      "distance": "641 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "9-12 hours",
+        "car": "7-9 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "koh-samui",
+      "to": "chiang-mai",
+      "slug": "koh-samui-to-chiang-mai",
+      "distance": "1400 km",
+      "duration": {
+        "flight": "2 hours",
+        "bus": "19-26 hours",
+        "car": "15-19 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "koh-samui",
+      "to": "krabi",
+      "slug": "koh-samui-to-krabi",
+      "distance": "270 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours",
+        "ferry": "3-5 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "koh-samui",
+      "to": "phuket",
+      "slug": "koh-samui-to-phuket",
+      "distance": "343 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-6 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours",
+        "ferry": "3-5 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "krabi",
+      "to": "bangkok",
+      "slug": "krabi-to-bangkok",
+      "distance": "780 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "11-13 hours",
+        "car": "10-11 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "krabi",
+      "to": "chiang-mai",
+      "slug": "krabi-to-chiang-mai",
+      "distance": "1607 km",
+      "duration": {
+        "flight": "2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "krabi",
+      "to": "hua-hin",
+      "slug": "krabi-to-hua-hin",
+      "distance": "690 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "10-13 hours",
+        "car": "7-9 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "krabi",
+      "to": "koh-samui",
+      "slug": "krabi-to-koh-samui",
+      "distance": "270 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours",
+        "ferry": "3-5 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "krabi",
+      "to": "pattaya",
+      "slug": "krabi-to-pattaya",
+      "distance": "782 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "11-14 hours",
+        "car": "8-11 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "krabi",
+      "to": "phuket",
+      "slug": "krabi-to-phuket",
+      "distance": "160 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2.5-3 hours",
+        "ferry": "2-3 hours",
+        "car": "2.5-3 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "pai",
+      "to": "bangkok",
+      "slug": "pai-to-bangkok",
+      "distance": "892 km",
+      "duration": {
+        "bus": "12-16 hours",
+        "car": "9-12 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "pai",
+      "to": "chiang-mai",
+      "slug": "pai-to-chiang-mai",
+      "distance": "116 km",
+      "duration": {
+        "bus": "2 hours",
+        "taxi": "1-2 hours",
+        "car": "1-2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "pai",
+      "to": "chiang-rai",
+      "slug": "pai-to-chiang-rai",
+      "distance": "214 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "pattaya",
+      "to": "ayutthaya",
+      "slug": "pattaya-to-ayutthaya",
+      "distance": "219 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "pattaya",
+      "to": "bangkok",
+      "slug": "pattaya-to-bangkok",
+      "distance": "150 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "1.5-2 hours",
+        "car": "1.5-2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "pattaya",
+      "to": "chiang-mai",
+      "slug": "pattaya-to-chiang-mai",
+      "distance": "922 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "13-17 hours",
+        "car": "10-13 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "pattaya",
+      "to": "hua-hin",
+      "slug": "pattaya-to-hua-hin",
+      "distance": "146 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "pattaya",
+      "to": "kanchanaburi",
+      "slug": "pattaya-to-kanchanaburi",
+      "distance": "257 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "pattaya",
+      "to": "krabi",
+      "slug": "pattaya-to-krabi",
+      "distance": "782 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "11-14 hours",
+        "car": "8-11 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "phuket",
+      "to": "ayutthaya",
+      "slug": "phuket-to-ayutthaya",
+      "distance": "1023 km",
+      "duration": {
+        "bus": "14-19 hours",
+        "car": "11-14 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "phuket",
+      "to": "bangkok",
+      "slug": "phuket-to-bangkok",
+      "distance": "840 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "12-14 hours",
+        "car": "10-12 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "phuket",
+      "to": "chiang-mai",
+      "slug": "phuket-to-chiang-mai",
+      "distance": "1640 km",
+      "duration": {
+        "flight": "2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "phuket",
+      "to": "chiang-rai",
+      "slug": "phuket-to-chiang-rai",
+      "distance": "1818 km",
+      "duration": {
+        "flight": "2 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "phuket",
+      "to": "hua-hin",
+      "slug": "phuket-to-hua-hin",
+      "distance": "741 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "10-14 hours",
+        "car": "8-10 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "phuket",
+      "to": "kanchanaburi",
+      "slug": "phuket-to-kanchanaburi",
+      "distance": "937 km",
+      "duration": {
+        "bus": "13-17 hours",
+        "car": "10-13 hours"
+      },
+      "popular": true
+    },
+    {
+      "from": "phuket",
+      "to": "koh-samui",
+      "slug": "phuket-to-koh-samui",
+      "distance": "343 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-6 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours",
+        "ferry": "3-5 hours"
       },
       "popular": true
     },
@@ -76,16 +832,265 @@
       "popular": true
     },
     {
-      "from": "chiang-mai",
-      "to": "chiang-rai",
-      "slug": "chiang-mai-to-chiang-rai",
-      "distance": "185 km",
+      "from": "ayutthaya",
+      "to": "chanthaburi",
+      "slug": "ayutthaya-to-chanthaburi",
+      "distance": "344 km",
+      "duration": {
+        "bus": "5-6 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "ayutthaya",
+      "to": "lopburi",
+      "slug": "ayutthaya-to-lopburi",
+      "distance": "68 km",
+      "duration": {
+        "bus": "1 hours",
+        "train": "1-2 hours",
+        "taxi": "1 hours",
+        "car": "1 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "ayutthaya",
+      "to": "nakhon-ratchasima",
+      "slug": "ayutthaya-to-nakhon-ratchasima",
+      "distance": "241 km",
       "duration": {
         "bus": "3-4 hours",
+        "train": "5-7 hours",
         "taxi": "3 hours",
         "car": "3 hours"
       },
-      "popular": true
+      "popular": false
+    },
+    {
+      "from": "ayutthaya",
+      "to": "phitsanulok",
+      "slug": "ayutthaya-to-phitsanulok",
+      "distance": "373 km",
+      "duration": {
+        "bus": "5-7 hours",
+        "train": "7-11 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "ayutthaya",
+      "to": "rayong",
+      "slug": "ayutthaya-to-rayong",
+      "distance": "272 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "bueng-kan",
+      "slug": "bangkok-to-bueng-kan",
+      "distance": "827 km",
+      "duration": {
+        "bus": "11-15 hours",
+        "car": "9-11 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "chanthaburi",
+      "slug": "bangkok-to-chanthaburi",
+      "distance": "290 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "chiang-khan",
+      "slug": "bangkok-to-chiang-khan",
+      "distance": "643 km",
+      "duration": {
+        "bus": "9-12 hours",
+        "car": "7-9 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "chumphon",
+      "slug": "bangkok-to-chumphon",
+      "distance": "527 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "7-10 hours",
+        "train": "11-15 hours",
+        "car": "6-7 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "hat-yai",
+      "slug": "bangkok-to-hat-yai",
+      "distance": "950 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "13-15 hours",
+        "train": "15-17 hours",
+        "car": "11-12 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "khon-kaen",
+      "slug": "bangkok-to-khon-kaen",
+      "distance": "524 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "7-10 hours",
+        "train": "10-15 hours",
+        "car": "6-7 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "lampang",
+      "slug": "bangkok-to-lampang",
+      "distance": "696 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "10-13 hours",
+        "train": "14-20 hours",
+        "car": "7-9 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "lopburi",
+      "slug": "bangkok-to-lopburi",
+      "distance": "158 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "train": "3-5 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "mae-hong-son",
+      "slug": "bangkok-to-mae-hong-son",
+      "distance": "908 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "13-17 hours",
+        "car": "10-12 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "mukdahan",
+      "slug": "bangkok-to-mukdahan",
+      "distance": "741 km",
+      "duration": {
+        "bus": "10-14 hours",
+        "car": "8-10 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "nakhon-phanom",
+      "slug": "bangkok-to-nakhon-phanom",
+      "distance": "826 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "11-15 hours",
+        "car": "9-11 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "nakhon-ratchasima",
+      "slug": "bangkok-to-nakhon-ratchasima",
+      "distance": "296 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "4-5 hours",
+        "train": "6-9 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "nakhon-si-thammarat",
+      "slug": "bangkok-to-nakhon-si-thammarat",
+      "distance": "803 km",
+      "duration": {
+        "flight": "1.5 hours",
+        "bus": "11-15 hours",
+        "train": "16-23 hours",
+        "car": "9-11 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "nong-khai",
+      "slug": "bangkok-to-nong-khai",
+      "distance": "698 km",
+      "duration": {
+        "bus": "10-13 hours",
+        "train": "14-20 hours",
+        "car": "7-9 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "phitsanulok",
+      "slug": "bangkok-to-phitsanulok",
+      "distance": "461 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "6-9 hours",
+        "train": "9-13 hours",
+        "car": "5-6 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "rayong",
+      "slug": "bangkok-to-rayong",
+      "distance": "198 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
     },
     {
       "from": "bangkok",
@@ -113,89 +1118,235 @@
       "popular": false
     },
     {
-      "from": "phuket",
-      "to": "bangkok",
-      "slug": "phuket-to-bangkok",
-      "distance": "840 km",
-      "duration": {
-        "flight": "1.5 hours",
-        "bus": "12-14 hours",
-        "car": "10-12 hours"
-      },
-      "popular": true
-    },
-    {
-      "from": "chiang-mai",
-      "to": "bangkok",
-      "slug": "chiang-mai-to-bangkok",
-      "distance": "690 km",
-      "duration": {
-        "flight": "1.25 hours",
-        "bus": "10-12 hours",
-        "train": "12-15 hours",
-        "car": "9-10 hours"
-      },
-      "popular": true
-    },
-    {
-      "from": "pattaya",
-      "to": "bangkok",
-      "slug": "pattaya-to-bangkok",
-      "distance": "150 km",
-      "duration": {
-        "bus": "2-3 hours",
-        "taxi": "1.5-2 hours",
-        "car": "1.5-2 hours"
-      },
-      "popular": true
-    },
-    {
       "from": "bangkok",
-      "to": "hat-yai",
-      "slug": "bangkok-to-hat-yai",
-      "distance": "950 km",
+      "to": "trang",
+      "slug": "bangkok-to-trang",
+      "distance": "940 km",
       "duration": {
         "flight": "1.5 hours",
-        "bus": "13-15 hours",
-        "train": "15-17 hours",
-        "car": "11-12 hours"
+        "bus": "13-17 hours",
+        "train": "19-27 hours",
+        "car": "10-13 hours"
       },
       "popular": false
     },
     {
-      "from": "krabi",
-      "to": "bangkok",
-      "slug": "krabi-to-bangkok",
-      "distance": "780 km",
+      "from": "bangkok",
+      "to": "trat",
+      "slug": "bangkok-to-trat",
+      "distance": "372 km",
+      "duration": {
+        "bus": "5-7 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bangkok",
+      "to": "ubon-ratchathani",
+      "slug": "bangkok-to-ubon-ratchathani",
+      "distance": "670 km",
       "duration": {
         "flight": "1.25 hours",
-        "bus": "11-13 hours",
-        "car": "10-11 hours"
+        "bus": "9-12 hours",
+        "train": "13-19 hours",
+        "car": "7-9 hours"
       },
-      "popular": true
+      "popular": false
     },
     {
-      "from": "ayutthaya",
+      "from": "bangkok",
+      "to": "udon-thani",
+      "slug": "bangkok-to-udon-thani",
+      "distance": "641 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "9-12 hours",
+        "train": "13-19 hours",
+        "car": "7-9 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bueng-kan",
+      "to": "mukdahan",
+      "slug": "bueng-kan-to-mukdahan",
+      "distance": "313 km",
+      "duration": {
+        "bus": "4-6 hours",
+        "taxi": "4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "bueng-kan",
+      "to": "nakhon-phanom",
+      "slug": "bueng-kan-to-nakhon-phanom",
+      "distance": "216 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chanthaburi",
+      "to": "ayutthaya",
+      "slug": "chanthaburi-to-ayutthaya",
+      "distance": "344 km",
+      "duration": {
+        "bus": "5-6 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chanthaburi",
       "to": "bangkok",
-      "slug": "ayutthaya-to-bangkok",
-      "distance": "80 km",
+      "slug": "chanthaburi-to-bangkok",
+      "distance": "290 km",
       "duration": {
-        "bus": "1.5-2 hours",
-        "train": "1.5-2 hours",
-        "taxi": "1-1.5 hours",
-        "car": "1-1.5 hours"
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
       },
-      "popular": true
+      "popular": false
     },
     {
-      "from": "phuket",
-      "to": "pattaya",
-      "slug": "phuket-to-pattaya",
-      "distance": "990 km",
+      "from": "chanthaburi",
+      "to": "hua-hin",
+      "slug": "chanthaburi-to-hua-hin",
+      "distance": "314 km",
       "duration": {
-        "flight": "2-3 hours (via Bangkok)",
-        "bus": "15-18 hours",
-        "car": "12-14 hours"
+        "bus": "4-6 hours",
+        "taxi": "4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chanthaburi",
+      "to": "pattaya",
+      "slug": "chanthaburi-to-pattaya",
+      "distance": "185 km",
+      "duration": {
+        "bus": "3 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-khan",
+      "to": "bueng-kan",
+      "slug": "chiang-khan-to-bueng-kan",
+      "distance": "292 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-khan",
+      "to": "chiang-mai",
+      "slug": "chiang-khan-to-chiang-mai",
+      "distance": "405 km",
+      "duration": {
+        "bus": "6-7 hours",
+        "car": "4-6 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-khan",
+      "to": "chiang-rai",
+      "slug": "chiang-khan-to-chiang-rai",
+      "distance": "398 km",
+      "duration": {
+        "bus": "6-7 hours",
+        "taxi": "5-6 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-khan",
+      "to": "nong-khai",
+      "slug": "chiang-khan-to-nong-khai",
+      "distance": "155 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-mai",
+      "to": "chiang-khan",
+      "slug": "chiang-mai-to-chiang-khan",
+      "distance": "405 km",
+      "duration": {
+        "bus": "6-7 hours",
+        "car": "4-6 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-mai",
+      "to": "khon-kaen",
+      "slug": "chiang-mai-to-khon-kaen",
+      "distance": "653 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "9-12 hours",
+        "train": "13-19 hours",
+        "car": "7-9 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-mai",
+      "to": "lampang",
+      "slug": "chiang-mai-to-lampang",
+      "distance": "105 km",
+      "duration": {
+        "bus": "1-2 hours",
+        "train": "2-3 hours",
+        "taxi": "1 hours",
+        "car": "1 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-mai",
+      "to": "mae-hong-son",
+      "slug": "chiang-mai-to-mae-hong-son",
+      "distance": "163 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-mai",
+      "to": "phitsanulok",
+      "slug": "chiang-mai-to-phitsanulok",
+      "distance": "347 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-6 hours",
+        "train": "7-10 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
       },
       "popular": false
     },
@@ -212,17 +1363,1072 @@
       "popular": false
     },
     {
-      "from": "krabi",
-      "to": "phuket",
-      "slug": "krabi-to-phuket",
-      "distance": "160 km",
+      "from": "chiang-mai",
+      "to": "sukhothai",
+      "slug": "chiang-mai-to-sukhothai",
+      "distance": "300 km",
+      "duration": {
+        "bus": "5-6 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-mai",
+      "to": "udon-thani",
+      "slug": "chiang-mai-to-udon-thani",
+      "distance": "580 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "8-11 hours",
+        "train": "12-17 hours",
+        "car": "6-8 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-rai",
+      "to": "chiang-khan",
+      "slug": "chiang-rai-to-chiang-khan",
+      "distance": "398 km",
+      "duration": {
+        "bus": "6-7 hours",
+        "taxi": "5-6 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-rai",
+      "to": "lampang",
+      "slug": "chiang-rai-to-lampang",
+      "distance": "248 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "3-5 hours",
+        "taxi": "3 hours",
+        "car": "3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chiang-rai",
+      "to": "mae-hong-son",
+      "slug": "chiang-rai-to-mae-hong-son",
+      "distance": "280 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chumphon",
+      "to": "hua-hin",
+      "slug": "chumphon-to-hua-hin",
+      "distance": "332 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-6 hours",
+        "train": "7-10 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "chumphon",
+      "to": "koh-samui",
+      "slug": "chumphon-to-koh-samui",
+      "distance": "192 km",
       "duration": {
         "bus": "3-4 hours",
-        "taxi": "2.5-3 hours",
-        "ferry": "2-3 hours",
-        "car": "2.5-3 hours"
+        "taxi": "2-3 hours",
+        "car": "2-3 hours",
+        "ferry": "2-3 hours"
       },
-      "popular": true
+      "popular": false
+    },
+    {
+      "from": "chumphon",
+      "to": "krabi",
+      "slug": "chumphon-to-krabi",
+      "distance": "364 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-7 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours",
+        "ferry": "3-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "hat-yai",
+      "to": "koh-samui",
+      "slug": "hat-yai-to-koh-samui",
+      "distance": "382 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-7 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "hat-yai",
+      "to": "krabi",
+      "slug": "hat-yai-to-krabi",
+      "distance": "284 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "hat-yai",
+      "to": "nakhon-si-thammarat",
+      "slug": "hat-yai-to-nakhon-si-thammarat",
+      "distance": "227 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "3-4 hours",
+        "train": "5-7 hours",
+        "taxi": "3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "hat-yai",
+      "to": "phuket",
+      "slug": "hat-yai-to-phuket",
+      "distance": "336 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-6 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "hat-yai",
+      "to": "surat-thani",
+      "slug": "hat-yai-to-surat-thani",
+      "distance": "362 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-7 hours",
+        "train": "7-10 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "hat-yai",
+      "to": "trang",
+      "slug": "hat-yai-to-trang",
+      "distance": "153 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "train": "3-4 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "hua-hin",
+      "to": "chanthaburi",
+      "slug": "hua-hin-to-chanthaburi",
+      "distance": "314 km",
+      "duration": {
+        "bus": "4-6 hours",
+        "taxi": "4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "hua-hin",
+      "to": "chumphon",
+      "slug": "hua-hin-to-chumphon",
+      "distance": "332 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-6 hours",
+        "train": "7-10 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "hua-hin",
+      "to": "lopburi",
+      "slug": "hua-hin-to-lopburi",
+      "distance": "350 km",
+      "duration": {
+        "bus": "5-6 hours",
+        "train": "7-10 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "hua-hin",
+      "to": "rayong",
+      "slug": "hua-hin-to-rayong",
+      "distance": "195 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "hua-hin",
+      "to": "trat",
+      "slug": "hua-hin-to-trat",
+      "distance": "378 km",
+      "duration": {
+        "bus": "5-7 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "kanchanaburi",
+      "to": "lopburi",
+      "slug": "kanchanaburi-to-lopburi",
+      "distance": "200 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "kanchanaburi",
+      "to": "nakhon-ratchasima",
+      "slug": "kanchanaburi-to-nakhon-ratchasima",
+      "distance": "400 km",
+      "duration": {
+        "bus": "6-7 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "kanchanaburi",
+      "to": "rayong",
+      "slug": "kanchanaburi-to-rayong",
+      "distance": "325 km",
+      "duration": {
+        "bus": "5-6 hours",
+        "taxi": "4-5 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "khon-kaen",
+      "to": "bueng-kan",
+      "slug": "khon-kaen-to-bueng-kan",
+      "distance": "313 km",
+      "duration": {
+        "bus": "4-6 hours",
+        "taxi": "4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "khon-kaen",
+      "to": "chiang-khan",
+      "slug": "khon-kaen-to-chiang-khan",
+      "distance": "275 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "khon-kaen",
+      "to": "chiang-mai",
+      "slug": "khon-kaen-to-chiang-mai",
+      "distance": "653 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "9-12 hours",
+        "train": "13-19 hours",
+        "car": "7-9 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "khon-kaen",
+      "to": "lopburi",
+      "slug": "khon-kaen-to-lopburi",
+      "distance": "398 km",
+      "duration": {
+        "bus": "6-7 hours",
+        "train": "8-11 hours",
+        "taxi": "5-6 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "khon-kaen",
+      "to": "mukdahan",
+      "slug": "khon-kaen-to-mukdahan",
+      "distance": "274 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "khon-kaen",
+      "to": "nakhon-phanom",
+      "slug": "khon-kaen-to-nakhon-phanom",
+      "distance": "316 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "4-6 hours",
+        "taxi": "4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "khon-kaen",
+      "to": "nakhon-ratchasima",
+      "slug": "khon-kaen-to-nakhon-ratchasima",
+      "distance": "242 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "3-4 hours",
+        "train": "5-7 hours",
+        "taxi": "3 hours",
+        "car": "3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "khon-kaen",
+      "to": "nong-khai",
+      "slug": "khon-kaen-to-nong-khai",
+      "distance": "217 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "train": "4-6 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "khon-kaen",
+      "to": "phitsanulok",
+      "slug": "khon-kaen-to-phitsanulok",
+      "distance": "372 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-7 hours",
+        "train": "7-11 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "khon-kaen",
+      "to": "ubon-ratchathani",
+      "slug": "khon-kaen-to-ubon-ratchathani",
+      "distance": "345 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-6 hours",
+        "train": "7-10 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "khon-kaen",
+      "to": "udon-thani",
+      "slug": "khon-kaen-to-udon-thani",
+      "distance": "148 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "train": "3-4 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "koh-samui",
+      "to": "chumphon",
+      "slug": "koh-samui-to-chumphon",
+      "distance": "192 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours",
+        "ferry": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "koh-samui",
+      "to": "hat-yai",
+      "slug": "koh-samui-to-hat-yai",
+      "distance": "382 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-7 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "koh-samui",
+      "to": "nakhon-si-thammarat",
+      "slug": "koh-samui-to-nakhon-si-thammarat",
+      "distance": "163 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "koh-samui",
+      "to": "surat-thani",
+      "slug": "koh-samui-to-surat-thani",
+      "distance": "115 km",
+      "duration": {
+        "bus": "2 hours",
+        "taxi": "1-2 hours",
+        "car": "1-2 hours",
+        "ferry": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "koh-samui",
+      "to": "trang",
+      "slug": "koh-samui-to-trang",
+      "distance": "300 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "4-6 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours",
+        "ferry": "3-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "krabi",
+      "to": "chumphon",
+      "slug": "krabi-to-chumphon",
+      "distance": "364 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-7 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours",
+        "ferry": "3-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "krabi",
+      "to": "hat-yai",
+      "slug": "krabi-to-hat-yai",
+      "distance": "284 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "krabi",
+      "to": "nakhon-si-thammarat",
+      "slug": "krabi-to-nakhon-si-thammarat",
+      "distance": "165 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "krabi",
+      "to": "surat-thani",
+      "slug": "krabi-to-surat-thani",
+      "distance": "170 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours",
+        "ferry": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "krabi",
+      "to": "trang",
+      "slug": "krabi-to-trang",
+      "distance": "132 km",
+      "duration": {
+        "bus": "2 hours",
+        "taxi": "2 hours",
+        "car": "1-2 hours",
+        "ferry": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "lampang",
+      "to": "chiang-khan",
+      "slug": "lampang-to-chiang-khan",
+      "distance": "315 km",
+      "duration": {
+        "bus": "4-6 hours",
+        "taxi": "4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "lampang",
+      "to": "chiang-mai",
+      "slug": "lampang-to-chiang-mai",
+      "distance": "105 km",
+      "duration": {
+        "bus": "1-2 hours",
+        "train": "2-3 hours",
+        "taxi": "1 hours",
+        "car": "1 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "lampang",
+      "to": "chiang-rai",
+      "slug": "lampang-to-chiang-rai",
+      "distance": "248 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "3-5 hours",
+        "taxi": "3 hours",
+        "car": "3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "lampang",
+      "to": "pai",
+      "slug": "lampang-to-pai",
+      "distance": "220 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "lampang",
+      "to": "phitsanulok",
+      "slug": "lampang-to-phitsanulok",
+      "distance": "246 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "3-5 hours",
+        "train": "5-7 hours",
+        "taxi": "3 hours",
+        "car": "3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "lopburi",
+      "to": "ayutthaya",
+      "slug": "lopburi-to-ayutthaya",
+      "distance": "68 km",
+      "duration": {
+        "bus": "1 hours",
+        "train": "1-2 hours",
+        "taxi": "1 hours",
+        "car": "1 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "lopburi",
+      "to": "bangkok",
+      "slug": "lopburi-to-bangkok",
+      "distance": "158 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "train": "3-5 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "lopburi",
+      "to": "chanthaburi",
+      "slug": "lopburi-to-chanthaburi",
+      "distance": "391 km",
+      "duration": {
+        "bus": "5-7 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "lopburi",
+      "to": "hua-hin",
+      "slug": "lopburi-to-hua-hin",
+      "distance": "350 km",
+      "duration": {
+        "bus": "5-6 hours",
+        "train": "7-10 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "lopburi",
+      "to": "kanchanaburi",
+      "slug": "lopburi-to-kanchanaburi",
+      "distance": "200 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "lopburi",
+      "to": "pattaya",
+      "slug": "lopburi-to-pattaya",
+      "distance": "284 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "lopburi",
+      "to": "phitsanulok",
+      "slug": "lopburi-to-phitsanulok",
+      "distance": "309 km",
+      "duration": {
+        "bus": "4-6 hours",
+        "train": "6-9 hours",
+        "taxi": "4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "lopburi",
+      "to": "rayong",
+      "slug": "lopburi-to-rayong",
+      "distance": "331 km",
+      "duration": {
+        "bus": "5-6 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "mae-hong-son",
+      "to": "chiang-mai",
+      "slug": "mae-hong-son-to-chiang-mai",
+      "distance": "163 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "mae-hong-son",
+      "to": "chiang-rai",
+      "slug": "mae-hong-son-to-chiang-rai",
+      "distance": "280 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "mae-hong-son",
+      "to": "lampang",
+      "slug": "mae-hong-son-to-lampang",
+      "distance": "265 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "mae-hong-son",
+      "to": "pai",
+      "slug": "mae-hong-son-to-pai",
+      "distance": "68 km",
+      "duration": {
+        "bus": "1 hours",
+        "taxi": "1 hours",
+        "car": "1 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-phanom",
+      "to": "mukdahan",
+      "slug": "nakhon-phanom-to-mukdahan",
+      "distance": "130 km",
+      "duration": {
+        "bus": "2 hours",
+        "taxi": "2 hours",
+        "car": "1-2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-ratchasima",
+      "to": "ayutthaya",
+      "slug": "nakhon-ratchasima-to-ayutthaya",
+      "distance": "241 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "train": "5-7 hours",
+        "taxi": "3 hours",
+        "car": "3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-ratchasima",
+      "to": "bangkok",
+      "slug": "nakhon-ratchasima-to-bangkok",
+      "distance": "296 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "4-5 hours",
+        "train": "6-9 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-ratchasima",
+      "to": "chanthaburi",
+      "slug": "nakhon-ratchasima-to-chanthaburi",
+      "distance": "356 km",
+      "duration": {
+        "bus": "5-7 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-ratchasima",
+      "to": "kanchanaburi",
+      "slug": "nakhon-ratchasima-to-kanchanaburi",
+      "distance": "400 km",
+      "duration": {
+        "bus": "6-7 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-ratchasima",
+      "to": "lopburi",
+      "slug": "nakhon-ratchasima-to-lopburi",
+      "distance": "211 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "train": "4-6 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-ratchasima",
+      "to": "pattaya",
+      "slug": "nakhon-ratchasima-to-pattaya",
+      "distance": "356 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-7 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-ratchasima",
+      "to": "phitsanulok",
+      "slug": "nakhon-ratchasima-to-phitsanulok",
+      "distance": "383 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-7 hours",
+        "train": "8-11 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-ratchasima",
+      "to": "rayong",
+      "slug": "nakhon-ratchasima-to-rayong",
+      "distance": "365 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-7 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-ratchasima",
+      "to": "ubon-ratchathani",
+      "slug": "nakhon-ratchasima-to-ubon-ratchathani",
+      "distance": "402 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "6-7 hours",
+        "train": "8-12 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-si-thammarat",
+      "to": "chumphon",
+      "slug": "nakhon-si-thammarat-to-chumphon",
+      "distance": "331 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-6 hours",
+        "train": "7-10 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-si-thammarat",
+      "to": "koh-samui",
+      "slug": "nakhon-si-thammarat-to-koh-samui",
+      "distance": "163 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-si-thammarat",
+      "to": "krabi",
+      "slug": "nakhon-si-thammarat-to-krabi",
+      "distance": "165 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-si-thammarat",
+      "to": "phuket",
+      "slug": "nakhon-si-thammarat-to-phuket",
+      "distance": "248 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "3-5 hours",
+        "taxi": "3 hours",
+        "car": "3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nakhon-si-thammarat",
+      "to": "trang",
+      "slug": "nakhon-si-thammarat-to-trang",
+      "distance": "141 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "train": "3-4 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nong-khai",
+      "to": "bueng-kan",
+      "slug": "nong-khai-to-bueng-kan",
+      "distance": "148 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nong-khai",
+      "to": "mukdahan",
+      "slug": "nong-khai-to-mukdahan",
+      "distance": "347 km",
+      "duration": {
+        "bus": "5-6 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "nong-khai",
+      "to": "nakhon-phanom",
+      "slug": "nong-khai-to-nakhon-phanom",
+      "distance": "299 km",
+      "duration": {
+        "bus": "4-6 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "pai",
+      "to": "lampang",
+      "slug": "pai-to-lampang",
+      "distance": "220 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "pai",
+      "to": "mae-hong-son",
+      "slug": "pai-to-mae-hong-son",
+      "distance": "68 km",
+      "duration": {
+        "bus": "1 hours",
+        "taxi": "1 hours",
+        "car": "1 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "pai",
+      "to": "sukhothai",
+      "slug": "pai-to-sukhothai",
+      "distance": "405 km",
+      "duration": {
+        "bus": "6-7 hours",
+        "car": "4-6 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "pattaya",
+      "to": "chanthaburi",
+      "slug": "pattaya-to-chanthaburi",
+      "distance": "185 km",
+      "duration": {
+        "bus": "3 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "pattaya",
+      "to": "lopburi",
+      "slug": "pattaya-to-lopburi",
+      "distance": "284 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "pattaya",
+      "to": "nakhon-ratchasima",
+      "slug": "pattaya-to-nakhon-ratchasima",
+      "distance": "356 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-7 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
     },
     {
       "from": "pattaya",
@@ -237,39 +2443,618 @@
       "popular": false
     },
     {
-      "from": "chiang-mai",
-      "to": "sukhothai",
-      "slug": "chiang-mai-to-sukhothai",
-      "distance": "300 km",
+      "from": "pattaya",
+      "to": "rayong",
+      "slug": "pattaya-to-rayong",
+      "distance": "69 km",
       "duration": {
-        "bus": "5-6 hours",
+        "bus": "1 hours",
+        "taxi": "1 hours",
+        "car": "1 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "pattaya",
+      "to": "trat",
+      "slug": "pattaya-to-trat",
+      "distance": "260 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "phitsanulok",
+      "to": "ayutthaya",
+      "slug": "phitsanulok-to-ayutthaya",
+      "distance": "373 km",
+      "duration": {
+        "bus": "5-7 hours",
+        "train": "7-11 hours",
+        "taxi": "4-5 hours",
         "car": "4-5 hours"
       },
       "popular": false
     },
     {
-      "from": "bangkok",
-      "to": "koh-samui",
-      "slug": "bangkok-to-koh-samui",
-      "distance": "700 km",
+      "from": "phitsanulok",
+      "to": "chiang-khan",
+      "slug": "phitsanulok-to-chiang-khan",
+      "distance": "257 km",
       "duration": {
-        "flight": "1 hour",
-        "bus": "12-14 hours",
-        "train": "12-15 hours"
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
       },
-      "popular": true
+      "popular": false
     },
     {
-      "from": "bangkok",
-      "to": "chiang-rai",
-      "slug": "bangkok-to-chiang-rai",
-      "distance": "785 km",
+      "from": "phitsanulok",
+      "to": "chiang-mai",
+      "slug": "phitsanulok-to-chiang-mai",
+      "distance": "347 km",
       "duration": {
-        "flight": "1.5 hours",
-        "bus": "10-12 hours",
-        "train": "15+ hours"
+        "flight": "1 hour",
+        "bus": "5-6 hours",
+        "train": "7-10 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
       },
-      "popular": true
+      "popular": false
+    },
+    {
+      "from": "phitsanulok",
+      "to": "nong-khai",
+      "slug": "phitsanulok-to-nong-khai",
+      "distance": "389 km",
+      "duration": {
+        "bus": "5-7 hours",
+        "train": "8-11 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "phuket",
+      "to": "chumphon",
+      "slug": "phuket-to-chumphon",
+      "distance": "409 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "6-8 hours",
+        "car": "4-6 hours",
+        "ferry": "3-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "phuket",
+      "to": "hat-yai",
+      "slug": "phuket-to-hat-yai",
+      "distance": "336 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-6 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "phuket",
+      "to": "nakhon-si-thammarat",
+      "slug": "phuket-to-nakhon-si-thammarat",
+      "distance": "248 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "3-5 hours",
+        "taxi": "3 hours",
+        "car": "3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "phuket",
+      "to": "pattaya",
+      "slug": "phuket-to-pattaya",
+      "distance": "990 km",
+      "duration": {
+        "flight": "2-3 hours (via Bangkok)",
+        "bus": "15-18 hours",
+        "car": "12-14 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "phuket",
+      "to": "surat-thani",
+      "slug": "phuket-to-surat-thani",
+      "distance": "235 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "3-4 hours",
+        "taxi": "3 hours",
+        "car": "3 hours",
+        "ferry": "3-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "phuket",
+      "to": "trang",
+      "slug": "phuket-to-trang",
+      "distance": "188 km",
+      "duration": {
+        "bus": "3 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours",
+        "ferry": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "rayong",
+      "to": "ayutthaya",
+      "slug": "rayong-to-ayutthaya",
+      "distance": "272 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "rayong",
+      "to": "bangkok",
+      "slug": "rayong-to-bangkok",
+      "distance": "198 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "rayong",
+      "to": "chanthaburi",
+      "slug": "rayong-to-chanthaburi",
+      "distance": "121 km",
+      "duration": {
+        "bus": "2 hours",
+        "taxi": "1-2 hours",
+        "car": "1-2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "rayong",
+      "to": "hua-hin",
+      "slug": "rayong-to-hua-hin",
+      "distance": "195 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "rayong",
+      "to": "kanchanaburi",
+      "slug": "rayong-to-kanchanaburi",
+      "distance": "325 km",
+      "duration": {
+        "bus": "5-6 hours",
+        "taxi": "4-5 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "rayong",
+      "to": "pattaya",
+      "slug": "rayong-to-pattaya",
+      "distance": "69 km",
+      "duration": {
+        "bus": "1 hours",
+        "taxi": "1 hours",
+        "car": "1 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "sukhothai",
+      "to": "chiang-khan",
+      "slug": "sukhothai-to-chiang-khan",
+      "distance": "295 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "sukhothai",
+      "to": "chiang-mai",
+      "slug": "sukhothai-to-chiang-mai",
+      "distance": "293 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "4-5 hours",
+        "train": "6-8 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "sukhothai",
+      "to": "lampang",
+      "slug": "sukhothai-to-lampang",
+      "distance": "198 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "train": "4-6 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "sukhothai",
+      "to": "lopburi",
+      "slug": "sukhothai-to-lopburi",
+      "distance": "352 km",
+      "duration": {
+        "bus": "5-6 hours",
+        "train": "7-10 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "sukhothai",
+      "to": "pai",
+      "slug": "sukhothai-to-pai",
+      "distance": "405 km",
+      "duration": {
+        "bus": "6-7 hours",
+        "car": "4-6 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "sukhothai",
+      "to": "phitsanulok",
+      "slug": "sukhothai-to-phitsanulok",
+      "distance": "69 km",
+      "duration": {
+        "bus": "1 hours",
+        "train": "1-2 hours",
+        "taxi": "1 hours",
+        "car": "1 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "surat-thani",
+      "to": "chumphon",
+      "slug": "surat-thani-to-chumphon",
+      "distance": "204 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "3-4 hours",
+        "train": "4-6 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours",
+        "ferry": "3-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "surat-thani",
+      "to": "koh-samui",
+      "slug": "surat-thani-to-koh-samui",
+      "distance": "115 km",
+      "duration": {
+        "bus": "2 hours",
+        "taxi": "1-2 hours",
+        "car": "1-2 hours",
+        "ferry": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "surat-thani",
+      "to": "krabi",
+      "slug": "surat-thani-to-krabi",
+      "distance": "170 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours",
+        "ferry": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "surat-thani",
+      "to": "nakhon-si-thammarat",
+      "slug": "surat-thani-to-nakhon-si-thammarat",
+      "distance": "142 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "train": "3-4 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "surat-thani",
+      "to": "phuket",
+      "slug": "surat-thani-to-phuket",
+      "distance": "235 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "3-4 hours",
+        "taxi": "3 hours",
+        "car": "3 hours",
+        "ferry": "3-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "surat-thani",
+      "to": "trang",
+      "slug": "surat-thani-to-trang",
+      "distance": "241 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "3-4 hours",
+        "train": "5-7 hours",
+        "taxi": "3 hours",
+        "car": "3 hours",
+        "ferry": "3-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "trang",
+      "to": "koh-samui",
+      "slug": "trang-to-koh-samui",
+      "distance": "300 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "4-6 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours",
+        "ferry": "3-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "trang",
+      "to": "krabi",
+      "slug": "trang-to-krabi",
+      "distance": "132 km",
+      "duration": {
+        "bus": "2 hours",
+        "taxi": "2 hours",
+        "car": "1-2 hours",
+        "ferry": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "trang",
+      "to": "phuket",
+      "slug": "trang-to-phuket",
+      "distance": "188 km",
+      "duration": {
+        "bus": "3 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours",
+        "ferry": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "trat",
+      "to": "bangkok",
+      "slug": "trat-to-bangkok",
+      "distance": "372 km",
+      "duration": {
+        "bus": "5-7 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "trat",
+      "to": "chanthaburi",
+      "slug": "trat-to-chanthaburi",
+      "distance": "82 km",
+      "duration": {
+        "bus": "1-2 hours",
+        "taxi": "1 hours",
+        "car": "1 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "trat",
+      "to": "hua-hin",
+      "slug": "trat-to-hua-hin",
+      "distance": "378 km",
+      "duration": {
+        "bus": "5-7 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "trat",
+      "to": "pattaya",
+      "slug": "trat-to-pattaya",
+      "distance": "260 km",
+      "duration": {
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "trat",
+      "to": "rayong",
+      "slug": "trat-to-rayong",
+      "distance": "192 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours",
+        "ferry": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "ubon-ratchathani",
+      "to": "mukdahan",
+      "slug": "ubon-ratchathani-to-mukdahan",
+      "distance": "198 km",
+      "duration": {
+        "bus": "3-4 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "ubon-ratchathani",
+      "to": "nakhon-phanom",
+      "slug": "ubon-ratchathani-to-nakhon-phanom",
+      "distance": "327 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-6 hours",
+        "taxi": "4-5 hours",
+        "car": "4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "udon-thani",
+      "to": "bueng-kan",
+      "slug": "udon-thani-to-bueng-kan",
+      "distance": "188 km",
+      "duration": {
+        "bus": "3 hours",
+        "taxi": "2-3 hours",
+        "car": "2-3 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "udon-thani",
+      "to": "chiang-khan",
+      "slug": "udon-thani-to-chiang-khan",
+      "distance": "176 km",
+      "duration": {
+        "bus": "2-3 hours",
+        "taxi": "2 hours",
+        "car": "2 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "udon-thani",
+      "to": "chiang-mai",
+      "slug": "udon-thani-to-chiang-mai",
+      "distance": "580 km",
+      "duration": {
+        "flight": "1.25 hours",
+        "bus": "8-11 hours",
+        "train": "12-17 hours",
+        "car": "6-8 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "udon-thani",
+      "to": "mukdahan",
+      "slug": "udon-thani-to-mukdahan",
+      "distance": "307 km",
+      "duration": {
+        "bus": "4-6 hours",
+        "taxi": "4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "udon-thani",
+      "to": "nakhon-phanom",
+      "slug": "udon-thani-to-nakhon-phanom",
+      "distance": "285 km",
+      "duration": {
+        "flight": "45 minutes",
+        "bus": "4-5 hours",
+        "taxi": "3-4 hours",
+        "car": "3-4 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "udon-thani",
+      "to": "nakhon-ratchasima",
+      "slug": "udon-thani-to-nakhon-ratchasima",
+      "distance": "379 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-7 hours",
+        "train": "8-11 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "udon-thani",
+      "to": "nong-khai",
+      "slug": "udon-thani-to-nong-khai",
+      "distance": "70 km",
+      "duration": {
+        "bus": "1 hours",
+        "train": "1-2 hours",
+        "taxi": "1 hours",
+        "car": "1 hours"
+      },
+      "popular": false
+    },
+    {
+      "from": "udon-thani",
+      "to": "phitsanulok",
+      "slug": "udon-thani-to-phitsanulok",
+      "distance": "373 km",
+      "duration": {
+        "flight": "1 hour",
+        "bus": "5-7 hours",
+        "train": "7-11 hours",
+        "taxi": "4-5 hours",
+        "car": "4-5 hours"
+      },
+      "popular": false
     }
   ]
 }
