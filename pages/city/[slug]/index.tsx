@@ -15,6 +15,7 @@ import { useRouter } from 'next/router';
 import { formatNumber, formatPopulation } from '../../../utils/formatNumber';
 import DebugContent from '../../../components/DebugContent';
 import AffiliateWidget from '../../../components/AffiliateWidget';
+import transportRoutes from '../../../data/transport-routes.json';
 
 interface City {
   id: number;
@@ -180,13 +181,21 @@ interface CityComparisonLink {
   otherSlug: string;
 }
 
+interface TransportRouteLink {
+  slug: string;
+  otherName: string;
+  distance: string;
+  modes: string[];
+}
+
 interface CityPageProps {
   city: City;
   relatedCities: any[];
   comparisons: CityComparisonLink[];
+  transportLinks: TransportRouteLink[];
 }
 
-export default function CityPage({ city, relatedCities, comparisons }: CityPageProps) {
+export default function CityPage({ city, relatedCities, comparisons, transportLinks }: CityPageProps) {
   const router = useRouter();
   const { locale = 'en' } = router;
   const [showFullDescription, setShowFullDescription] = useState(false);
@@ -1273,6 +1282,36 @@ export default function CityPage({ city, relatedCities, comparisons }: CityPageP
                   </div>
                 )}
 
+                {/* Transport Routes */}
+                {transportLinks && transportLinks.length > 0 && (
+                  <div className="mb-12">
+                    <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                      Getting To & From {city.name.en}
+                    </h2>
+                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                      {transportLinks.slice(0, 12).map((route) => (
+                        <Link
+                          key={route.slug}
+                          href={`/transport/${route.slug}/`}
+                          className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-4"
+                        >
+                          <div className="font-medium text-gray-900 mb-1">
+                            {city.name.en} → {route.otherName}
+                          </div>
+                          <div className="text-sm text-gray-500 mb-2">{route.distance}</div>
+                          <div className="flex flex-wrap gap-1">
+                            {route.modes.map((mode) => (
+                              <span key={mode} className="text-xs bg-blue-50 text-blue-700 px-2 py-0.5 rounded-full">
+                                {mode}
+                              </span>
+                            ))}
+                          </div>
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
                 {/* Content Sources */}
                 {city.contentSources && city.contentSources.length > 0 && (
                   <div className="mb-12">
@@ -1699,6 +1738,28 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
   const relatedCities = getRelatedCities(rawCity, 3);
 
+  // Get transport routes for this city
+  const cityTransportLinks: TransportRouteLink[] = transportRoutes.routes
+    .filter((r: any) => r.from === slug || r.to === slug)
+    .map((r: any) => {
+      const isFrom = r.from === slug;
+      const otherSlug = isFrom ? r.to : r.from;
+      const otherCity = getAllCities().find((c: { slug: string }) => c.slug === otherSlug);
+      return {
+        slug: r.slug,
+        otherName: otherCity?.name?.en || otherSlug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase()),
+        distance: r.distance,
+        modes: Object.keys(r.duration),
+      };
+    })
+    .sort((a: TransportRouteLink, b: TransportRouteLink) => {
+      // Sort popular routes first, then by fewest modes (most useful)
+      const aModes = a.modes.length;
+      const bModes = b.modes.length;
+      return bModes - aModes;
+    })
+    .slice(0, 12);
+
   const comparisonSlugs = getComparisonsForItem(slug, 'city');
   const comparisons = comparisonSlugs.map((s: string) => {
     const pair = getComparisonPair(s);
@@ -1714,6 +1775,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       city,
       relatedCities,
       comparisons,
+      transportLinks: cityTransportLinks,
     },
     revalidate: 86400,
   };

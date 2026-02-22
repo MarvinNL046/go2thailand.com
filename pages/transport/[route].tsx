@@ -280,24 +280,70 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
               </div>
             </section>
 
-            {/* Alternative Routes */}
-            <section className="bg-white rounded-lg shadow-md p-6">
-              <h2 className="text-2xl font-bold mb-4">Alternative Routes</h2>
-              <div className="grid gap-4">
-                <Link href={`/city/${fromCity.slug}`} className="flex items-center justify-between p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors">
-                  <span className="font-medium">Explore {fromCity.name.en}</span>
-                  <span className="text-orange-500">→</span>
-                </Link>
-                <Link href={`/city/${toCity.slug}`} className="flex items-center justify-between p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors">
-                  <span className="font-medium">Discover {toCity.name.en}</span>
-                  <span className="text-orange-500">→</span>
-                </Link>
-                {route.from !== 'bangkok' && toCity.slug !== 'bangkok' && transportRoutes.routes.some(r => r.slug === `bangkok-to-${toCity.slug}`) && (
-                  <Link href={`/transport/bangkok-to-${toCity.slug}`} className="flex items-center justify-between p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors">
-                    <span className="font-medium">Bangkok to {toCity.name.en}</span>
-                    <span className="text-orange-500">→</span>
+            {/* Compare These Cities */}
+            {(() => {
+              const compareSlug1 = `${fromCity.slug}-vs-${toCity.slug}`;
+              const compareSlug2 = `${toCity.slug}-vs-${fromCity.slug}`;
+              return (
+                <section className="bg-blue-50 rounded-lg shadow-md p-6 mb-8 border border-blue-100">
+                  <h2 className="text-xl font-bold mb-3">{fromCity.name.en} vs {toCity.name.en}</h2>
+                  <p className="text-gray-600 text-sm mb-4">
+                    Not sure which city to visit? Compare weather, budget, attractions, and more.
+                  </p>
+                  <Link
+                    href={`/compare/${compareSlug1}/`}
+                    className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-2.5 rounded-lg font-semibold hover:bg-blue-700 transition-colors text-sm"
+                  >
+                    Compare {fromCity.name.en} & {toCity.name.en} →
                   </Link>
-                )}
+                </section>
+              );
+            })()}
+
+            {/* Related Routes */}
+            <section className="bg-white rounded-lg shadow-md p-6">
+              <h2 className="text-2xl font-bold mb-4">Related Routes</h2>
+              <div className="grid gap-3">
+                <div className="mb-2">
+                  <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-2">From {fromCity.name.en}</h3>
+                  {transportRoutes.routes
+                    .filter(r => (r.from === fromCity.slug || r.to === fromCity.slug) && r.slug !== route.slug)
+                    .slice(0, 4)
+                    .map(r => {
+                      const otherSlug = r.from === fromCity.slug ? r.to : r.from;
+                      const otherCity = citiesData.find(c => c.slug === otherSlug);
+                      return (
+                        <Link key={r.slug} href={`/transport/${r.slug}/`} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors mb-1">
+                          <span className="font-medium text-sm">{fromCity.name.en} → {otherCity?.name.en || otherSlug}</span>
+                          <span className="text-xs text-gray-500">{r.distance}</span>
+                        </Link>
+                      );
+                    })}
+                </div>
+                <div className="mb-2">
+                  <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-2">From {toCity.name.en}</h3>
+                  {transportRoutes.routes
+                    .filter(r => (r.from === toCity.slug || r.to === toCity.slug) && r.slug !== route.slug)
+                    .slice(0, 4)
+                    .map(r => {
+                      const otherSlug = r.from === toCity.slug ? r.to : r.from;
+                      const otherCity = citiesData.find(c => c.slug === otherSlug);
+                      return (
+                        <Link key={r.slug} href={`/transport/${r.slug}/`} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors mb-1">
+                          <span className="font-medium text-sm">{toCity.name.en} → {otherCity?.name.en || otherSlug}</span>
+                          <span className="text-xs text-gray-500">{r.distance}</span>
+                        </Link>
+                      );
+                    })}
+                </div>
+                <div className="pt-2 border-t border-gray-100">
+                  <Link href={`/city/${fromCity.slug}/`} className="text-thailand-blue hover:text-blue-700 text-sm font-medium mr-4">
+                    Explore {fromCity.name.en} →
+                  </Link>
+                  <Link href={`/city/${toCity.slug}/`} className="text-thailand-blue hover:text-blue-700 text-sm font-medium">
+                    Explore {toCity.name.en} →
+                  </Link>
+                </div>
               </div>
             </section>
           </div>

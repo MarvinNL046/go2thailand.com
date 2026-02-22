@@ -9,6 +9,7 @@ import TripcomWidget from '../../components/TripcomWidget';
 import { getAllComparisons, getComparisonPair, getComparisonBySlug, getComparisonsForItem } from '../../lib/comparisons';
 import { getIslandBySlug } from '../../lib/islands';
 import { getCityBySlug } from '../../lib/cities';
+import transportRoutes from '../../data/transport-routes.json';
 
 const SITE_URL = 'https://go2-thailand.com';
 const TRANSLATED_LOCALES = ['en', 'nl'];
@@ -73,6 +74,12 @@ interface ComparisonData {
   sources: string[];
 }
 
+interface TransportRouteInfo {
+  slug: string;
+  distance: string;
+  modes: string[];
+}
+
 interface ComparisonPageProps {
   item1: Island | City;
   item2: Island | City;
@@ -81,6 +88,7 @@ interface ComparisonPageProps {
   relatedComparisons1: string[];
   relatedComparisons2: string[];
   slug: string;
+  transportRoute: TransportRouteInfo | null;
 }
 
 // ---- Helper utilities ----
@@ -197,6 +205,7 @@ export default function ComparisonPage({
   relatedComparisons1,
   relatedComparisons2,
   slug,
+  transportRoute,
 }: ComparisonPageProps) {
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
@@ -617,6 +626,30 @@ export default function ComparisonPage({
             </section>
           )}
 
+          {/* Transport route between the two */}
+          {transportRoute && (
+            <section className="mb-8">
+              <Link
+                href={`/transport/${transportRoute.slug}/`}
+                className="block bg-white rounded-xl shadow-md p-6 hover:shadow-lg transition-shadow border border-gray-100 hover:border-thailand-blue"
+              >
+                <h2 className="text-xl font-bold text-gray-900 mb-2">
+                  {lang === 'nl' ? 'Hoe reis je tussen' : 'How to Travel Between'} {item1Name} & {item2Name}
+                </h2>
+                <div className="flex flex-wrap items-center gap-3">
+                  <span className="text-gray-600">{transportRoute.distance}</span>
+                  <span className="text-gray-300">|</span>
+                  {transportRoute.modes.map(mode => (
+                    <span key={mode} className="text-xs bg-blue-50 text-blue-700 px-2 py-1 rounded-full capitalize">{mode}</span>
+                  ))}
+                  <span className="ml-auto text-thailand-blue font-medium">
+                    {lang === 'nl' ? 'Bekijk routes' : 'View Routes'} &rarr;
+                  </span>
+                </div>
+              </Link>
+            </section>
+          )}
+
           {/* Deep links back to individual pages */}
           <section className="mb-8">
             <div className="bg-white rounded-xl shadow-md p-6">
@@ -724,6 +757,14 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const relatedComparisons1 = getComparisonsForItem(item1Slug, type).slice(0, 6);
   const relatedComparisons2 = getComparisonsForItem(item2Slug, type).slice(0, 6);
 
+  // Find transport route between the two items
+  const route = transportRoutes.routes.find(
+    (r: any) => (r.from === item1Slug && r.to === item2Slug) || (r.from === item2Slug && r.to === item1Slug)
+  );
+  const transportRoute: TransportRouteInfo | null = route
+    ? { slug: route.slug, distance: route.distance, modes: Object.keys(route.duration) }
+    : null;
+
   return {
     props: {
       item1,
@@ -733,6 +774,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       relatedComparisons1,
       relatedComparisons2,
       slug,
+      transportRoute,
     },
     revalidate: 86400,
   };

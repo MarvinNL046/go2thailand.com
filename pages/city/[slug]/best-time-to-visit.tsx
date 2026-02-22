@@ -4,6 +4,7 @@ import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadc
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
+import transportRoutes from '../../../data/transport-routes.json';
 
 interface PracticalInfo {
   bestMonths?: string[];
@@ -41,8 +42,16 @@ interface City {
   practicalInfo?: PracticalInfo;
 }
 
+interface TransportRouteLink {
+  slug: string;
+  otherName: string;
+  distance: string;
+  modes: string[];
+}
+
 interface BestTimeToVisitPageProps {
   city: City;
+  topRoutes: TransportRouteLink[];
 }
 
 const ALL_MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
@@ -62,7 +71,7 @@ const MONTH_FULL_NAMES: Record<string, string> = {
   Dec: 'December',
 };
 
-export default function BestTimeToVisitPage({ city }: BestTimeToVisitPageProps) {
+export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisitPageProps) {
   if (!city) return <div>City not found</div>;
 
   const cityName = typeof city.name === 'string' ? city.name : city.name?.en || '';
@@ -468,6 +477,35 @@ export default function BestTimeToVisitPage({ city }: BestTimeToVisitPageProps) 
                 </p>
               </div>
 
+              {/* Transport Routes */}
+              {topRoutes && topRoutes.length > 0 && (
+                <div className="bg-white rounded-lg shadow-lg p-8">
+                  <h3 className="text-2xl font-bold text-gray-900 mb-4">
+                    Getting To {cityName}
+                  </h3>
+                  <p className="text-gray-600 mb-6">
+                    Plan your journey to {cityName} — compare routes, transport options, and travel times.
+                  </p>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                    {topRoutes.slice(0, 6).map((route) => (
+                      <Link
+                        key={route.slug}
+                        href={`/transport/${route.slug}/`}
+                        className="flex items-center justify-between p-3 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors"
+                      >
+                        <div>
+                          <div className="font-medium text-gray-900 text-sm">{route.otherName} → {cityName}</div>
+                          <div className="text-xs text-gray-500">{route.distance} · {route.modes.join(', ')}</div>
+                        </div>
+                        <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
+                        </svg>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              )}
+
               {/* Explore More */}
               <div className="bg-white rounded-lg shadow-lg p-8">
                 <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">
@@ -563,8 +601,27 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   // Restore bilingual name for the template
   city.name = rawCity.name;
 
+  // Get top transport routes to this city
+  const topRoutes: TransportRouteLink[] = transportRoutes.routes
+    .filter((r: any) => r.from === slug || r.to === slug)
+    .map((r: any) => {
+      const isFrom = r.from === slug;
+      const otherSlug = isFrom ? r.to : r.from;
+      return {
+        slug: r.slug,
+        otherName: otherSlug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase()),
+        distance: r.distance,
+        modes: Object.keys(r.duration),
+      };
+    })
+    .sort((a: TransportRouteLink, b: TransportRouteLink) => b.modes.length - a.modes.length)
+    .slice(0, 6);
+
   return {
-    props: { city: JSON.parse(JSON.stringify(city)) },
+    props: {
+      city: JSON.parse(JSON.stringify(city)),
+      topRoutes,
+    },
     revalidate: 86400,
   };
 };
