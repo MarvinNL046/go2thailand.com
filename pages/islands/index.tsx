@@ -64,12 +64,13 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-blue-600 to-emerald-500 text-white">
+        <section className="bg-surface-dark text-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
             <div className="text-center">
-              <h1 className="text-4xl lg:text-6xl font-bold mb-6">
+              <p className="font-script text-thailand-gold mb-2">Island Paradise</p>
+              <h1 className="text-4xl lg:text-6xl font-heading font-bold mb-6">
                 Thailand Islands
               </h1>
               <p className="text-xl lg:text-2xl mb-4 max-w-3xl mx-auto opacity-90">
@@ -90,7 +91,7 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
         </section>
 
         {/* Best Beaches CTA */}
-        <section className="bg-gradient-to-r from-cyan-600 to-teal-500">
+        <section className="bg-surface-dark">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <Link href="/best-beaches-in-thailand" className="flex items-center justify-between group">
               <div className="flex items-center gap-3 text-white">
@@ -116,7 +117,7 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
                   className={`px-5 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-colors ${
                     selectedRegion === region
                       ? 'bg-thailand-blue text-white'
-                      : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                      : 'bg-surface-cream text-gray-700 hover:bg-gray-200'
                   }`}
                 >
                   {region === 'all' ? 'All Islands' : region}
@@ -130,7 +131,8 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
         <section className="py-12">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="mb-8">
-              <h2 className="text-2xl font-bold text-gray-900">
+              <p className="section-label font-script text-thailand-gold">Explore</p>
+              <h2 className="text-2xl font-heading font-bold text-gray-900">
                 {selectedRegion === 'all'
                   ? `All Thai Islands (${filteredIslands.length})`
                   : `${selectedRegion} Islands (${filteredIslands.length})`}
@@ -148,22 +150,23 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
         {/* Island Comparison Table */}
         <section className="py-12 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+            <p className="section-label font-script text-thailand-gold text-center">Compare</p>
+            <h2 className="text-3xl font-heading font-bold text-gray-900 mb-8 text-center">
               Quick Island Comparison
             </h2>
             <div className="overflow-x-auto">
               <table className="w-full text-sm">
                 <thead>
                   <tr className="bg-thailand-blue text-white">
-                    <th className="px-4 py-3 text-left rounded-tl-lg">Island</th>
+                    <th className="px-4 py-3 text-left rounded-tl-xl">Island</th>
                     <th className="px-4 py-3 text-left">Region</th>
                     <th className="px-4 py-3 text-left">Best For</th>
-                    <th className="px-4 py-3 text-left rounded-tr-lg">Province</th>
+                    <th className="px-4 py-3 text-left rounded-tr-xl">Province</th>
                   </tr>
                 </thead>
                 <tbody>
                   {islands.map((island, index) => (
-                    <tr key={island.id} className={index % 2 === 0 ? 'bg-gray-50' : 'bg-white'}>
+                    <tr key={island.id} className={index % 2 === 0 ? 'bg-surface-cream' : 'bg-white'}>
                       <td className="px-4 py-3 font-medium">
                         <a href={`/islands/${island.slug}/`} className="text-thailand-blue hover:underline">
                           {island.name.en}
@@ -181,9 +184,9 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
         </section>
 
         {/* SEO Content Section */}
-        <section className="py-12 bg-gray-50">
+        <section className="py-12 bg-surface-cream">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
+            <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
               Guide to Thailand&apos;s Islands
             </h2>
             <div className="prose prose-lg max-w-none text-gray-700">
@@ -191,12 +194,12 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
                 Thailand is home to over 1,400 islands spread across two coastlines: the Gulf of Thailand in the east and the Andaman Sea in the west.
                 Each island offers a unique experience, from the full-moon parties of Koh Phangan to the quiet serenity of Koh Yao Noi.
               </p>
-              <h3>Gulf of Thailand Islands</h3>
+              <h3 className="font-heading">Gulf of Thailand Islands</h3>
               <p>
                 The Gulf islands, including Koh Samui, Koh Phangan, Koh Tao, Koh Chang, Koh Mak, and Koh Samet, are known for their calm waters,
                 excellent diving spots, and varied atmospheres. Koh Samui offers luxury resorts, while Koh Tao is a world-class diving destination.
               </p>
-              <h3>Andaman Sea Islands</h3>
+              <h3 className="font-heading">Andaman Sea Islands</h3>
               <p>
                 The Andaman islands, including Koh Phi Phi, Koh Lanta, Koh Lipe, and Koh Yao Noi, are famous for their dramatic limestone cliffs,
                 crystal-clear waters, and vibrant coral reefs. These islands are best visited from November to April when the Andaman Sea is calm.
@@ -206,11 +209,12 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
         </section>
 
         {/* Affiliate Banner */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold">
+        <section className="bg-surface-dark">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="flex flex-col md:flex-row items-center justify-between gap-6">
               <div className="text-white">
-                <h2 className="text-2xl font-bold mb-1">Plan Your Island Trip</h2>
+                <p className="font-script text-thailand-gold mb-1">Plan Ahead</p>
+                <h2 className="text-2xl font-heading font-bold mb-1">Plan Your Island Trip</h2>
                 <p className="opacity-90 text-sm">Book ferries, hotels, tours & get connected with an eSIM</p>
               </div>
               <div className="flex flex-wrap justify-center gap-3">
@@ -218,7 +222,7 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
                   href="https://12go.tpo.lv/tNA80urD"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
+                  className="bg-white text-thailand-blue px-5 py-2 rounded-xl font-semibold text-sm hover:bg-gray-100 transition-colors"
                 >
                   Book Ferries
                 </a>
@@ -226,7 +230,7 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
                   href="https://booking.tpo.lv/2PT1kR82"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
+                  className="bg-white text-thailand-blue px-5 py-2 rounded-xl font-semibold text-sm hover:bg-gray-100 transition-colors"
                 >
                   Booking.com
                 </a>
@@ -234,7 +238,7 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
                   href="https://trip.tpo.lv/TmObooZ5"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
+                  className="bg-white text-thailand-blue px-5 py-2 rounded-xl font-semibold text-sm hover:bg-gray-100 transition-colors"
                 >
                   Trip.com
                 </a>
@@ -242,7 +246,7 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
                   href="https://klook.tpo.lv/7Dt6WApj"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
+                  className="bg-white text-thailand-blue px-5 py-2 rounded-xl font-semibold text-sm hover:bg-gray-100 transition-colors"
                 >
                   Tours
                 </a>
@@ -250,7 +254,7 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
                   href="https://saily.tpo.lv/rf9lidnE"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
+                  className="bg-white text-thailand-blue px-5 py-2 rounded-xl font-semibold text-sm hover:bg-gray-100 transition-colors"
                 >
                   eSIM
                 </a>

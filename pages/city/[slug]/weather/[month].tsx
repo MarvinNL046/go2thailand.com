@@ -64,7 +64,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
   ];
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-surface-cream">
       <SEOHead
         title={`${city.name.en} Weather in ${monthName} 2026 — Travel Tips`}
         description={`${city.name.en} in ${monthName}: expect ${weatherData.temperature.high}°C highs, ${weatherData.temperature.low}°C lows, and ${weatherData.rainfall}mm rain. Packing tips and travel advice for 2026.`}
@@ -75,15 +75,15 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
-        <h1 className="text-4xl font-bold text-gray-900 mb-8">
+        <h1 className="text-4xl font-bold font-heading text-gray-900 mb-8">
           {city.name.en} Weather in {monthName}
         </h1>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <div className="lg:col-span-2">
             {/* Weather Overview */}
-            <section className="bg-white rounded-lg shadow-md p-6 mb-8">
-              <h2 className="text-2xl font-bold mb-4">Weather Overview</h2>
+            <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
+              <h2 className="text-2xl font-bold font-heading mb-4">Weather Overview</h2>
               <p className="text-gray-700 mb-6">{weatherData.description}</p>
 
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -125,11 +125,11 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
 
 
             {/* Pros and Cons */}
-            <section className="bg-white rounded-lg shadow-md p-6 mb-8">
-              <h2 className="text-2xl font-bold mb-4">Pros & Cons of Visiting in {monthName}</h2>
+            <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
+              <h2 className="text-2xl font-bold font-heading mb-4">Pros & Cons of Visiting in {monthName}</h2>
               <div className="grid md:grid-cols-2 gap-6">
                 <div>
-                  <h3 className="text-lg font-semibold text-green-600 mb-3">Advantages</h3>
+                  <h3 className="text-lg font-semibold font-heading text-green-600 mb-3">Advantages</h3>
                   <ul className="space-y-2">
                     {weatherData.pros.map((pro, index) => (
                       <li key={index} className="flex items-start">
@@ -140,7 +140,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
                   </ul>
                 </div>
                 <div>
-                  <h3 className="text-lg font-semibold text-red-600 mb-3">Considerations</h3>
+                  <h3 className="text-lg font-semibold font-heading text-red-600 mb-3">Considerations</h3>
                   <ul className="space-y-2">
                     {weatherData.cons.map((con, index) => (
                       <li key={index} className="flex items-start">
@@ -155,8 +155,8 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
 
             {/* Events and Festivals */}
             {weatherData.events.length > 0 && (
-              <section className="bg-white rounded-lg shadow-md p-6 mb-8">
-                <h2 className="text-2xl font-bold mb-4">Events & Festivals</h2>
+              <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
+                <h2 className="text-2xl font-bold font-heading mb-4">Events & Festivals</h2>
                 <ul className="space-y-3">
                   {weatherData.events.map((event, index) => (
                     <li key={index} className="flex items-start">
@@ -169,8 +169,8 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
             )}
 
             {/* Book Your Trip - Affiliate CTA */}
-            <div className="bg-gradient-to-r from-blue-50 to-green-50 rounded-lg shadow-md p-6 mb-8">
-              <h3 className="text-xl font-bold text-gray-900 mb-3 text-center">
+            <div className="bg-surface-cream rounded-2xl shadow-md p-6 mb-8">
+              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3 text-center">
                 Book Your Trip to {city.name.en}
               </h3>
               <p className="text-sm text-gray-600 text-center mb-4">
@@ -181,7 +181,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
                   href="https://trip.tpo.lv/TmObooZ5"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex-1 inline-flex items-center justify-center px-5 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-md"
+                  className="flex-1 inline-flex items-center justify-center px-5 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors shadow-md"
                 >
                   <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
@@ -192,7 +192,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
                   href="https://12go.tpo.lv/tNA80urD"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex-1 inline-flex items-center justify-center px-5 py-3 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition-colors shadow-md"
+                  className="flex-1 inline-flex items-center justify-center px-5 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors shadow-md"
                 >
                   <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
@@ -206,9 +206,9 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
             </div>
 
             {/* Navigation */}
-            <nav className="flex justify-between items-center bg-white rounded-lg shadow-md p-6">
+            <nav className="flex justify-between items-center bg-white rounded-2xl shadow-md p-6">
               {prevMonth ? (
-                <Link href={`/city/${city.slug}/weather/${prevMonth.slug}`} className="flex items-center text-orange-500 hover:text-orange-600">
+                <Link href={`/city/${city.slug}/weather/${prevMonth.slug}`} className="flex items-center text-thailand-red hover:text-thailand-blue">
                   <span className="mr-2">←</span>
                   <span>{prevMonth.name}</span>
                 </Link>
@@ -219,7 +219,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
                 All Months
               </Link>
               {nextMonth ? (
-                <Link href={`/city/${city.slug}/weather/${nextMonth.slug}`} className="flex items-center text-orange-500 hover:text-orange-600">
+                <Link href={`/city/${city.slug}/weather/${nextMonth.slug}`} className="flex items-center text-thailand-red hover:text-thailand-blue">
                   <span>{nextMonth.name}</span>
                   <span className="ml-2">→</span>
                 </Link>
@@ -233,10 +233,10 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
           <aside>
             <div className="lg:sticky lg:top-4 space-y-6">
             {/* City Weather Selector */}
-            <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">Other Cities Weather</h3>
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h3 className="text-lg font-semibold font-heading mb-4">Other Cities Weather</h3>
               <select 
-                className="w-full p-2 border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-orange-500"
+                className="w-full p-2 border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-thailand-red"
                 value={city.slug}
                 onChange={(e) => window.location.href = `/city/${e.target.value}/weather/${month}/`}
               >
@@ -254,19 +254,19 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
             </div>
 
             {/* Trip.com Widget */}
-            <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">Plan Your Trip</h3>
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h3 className="text-lg font-semibold font-heading mb-4">Plan Your Trip</h3>
               <TripcomWidget city={city.name.en} type="hotels" />
             </div>
 
             {/* Monthly Overview */}
-            <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">{city.name.en} Weather by Month</h3>
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h3 className="text-lg font-semibold font-heading mb-4">{city.name.en} Weather by Month</h3>
               <div className="grid grid-cols-3 gap-2 text-sm">
                 {allMonths.map((m) => (
                   <Link key={m.slug} href={`/city/${city.slug}/weather/${m.slug}`} className={`text-center p-2 rounded ${
                     m.slug === month 
-                      ? 'bg-orange-500 text-white' 
+                      ? 'bg-thailand-red text-white' 
                       : 'bg-gray-100 hover:bg-gray-200 text-gray-700'
                   }`}>
                     {m.name.slice(0, 3)}
@@ -276,26 +276,26 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
             </div>
 
             {/* Related Links */}
-            <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">Explore {city.name.en}</h3>
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h3 className="text-lg font-semibold font-heading mb-4">Explore {city.name.en}</h3>
               <ul className="space-y-2">
                 <li>
-                  <Link href={`/city/${city.slug}/attractions`} className="text-orange-500 hover:text-orange-600">
+                  <Link href={`/city/${city.slug}/attractions`} className="text-thailand-red hover:text-thailand-blue">
                     Top Attractions
                   </Link>
                 </li>
                 <li>
-                  <Link href={`/city/${city.slug}/hotels`} className="text-orange-500 hover:text-orange-600">
+                  <Link href={`/city/${city.slug}/hotels`} className="text-thailand-red hover:text-thailand-blue">
                     Where to Stay
                   </Link>
                 </li>
                 <li>
-                  <Link href={`/city/${city.slug}/food`} className="text-orange-500 hover:text-orange-600">
+                  <Link href={`/city/${city.slug}/food`} className="text-thailand-red hover:text-thailand-blue">
                     Food & Dining
                   </Link>
                 </li>
                 <li>
-                  <Link href={`/thailand-in/${month}`} className="text-orange-500 hover:text-orange-600">
+                  <Link href={`/thailand-in/${month}`} className="text-thailand-red hover:text-thailand-blue">
                     Thailand in {monthName}
                   </Link>
                 </li>

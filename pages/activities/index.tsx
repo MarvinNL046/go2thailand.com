@@ -79,13 +79,14 @@ export default function ActivitiesPage({ activities }: Props) {
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero */}
-        <section className="bg-gray-900 text-white">
+        <section className="bg-surface-dark text-white">
           <div className="container-custom py-12">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center mt-6">
-              <h1 className="text-4xl lg:text-5xl font-bold mb-4">
+              <p className="font-script text-thailand-gold text-lg mb-2">Discover Thailand</p>
+              <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
                 Things to Do in Thailand
               </h1>
               <p className="text-xl max-w-3xl mx-auto text-gray-300">
@@ -99,12 +100,13 @@ export default function ActivitiesPage({ activities }: Props) {
         <section className="section-padding">
           <div className="container-custom">
             {/* Activity Guide Cards */}
-            <h2 className="text-2xl font-bold text-gray-900 mb-6">Activity Guides</h2>
+            <p className="section-label">Explore</p>
+            <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Activity Guides</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
               {activities.map((activity) => (
-                <div key={activity.slug} className={`bg-white rounded-lg shadow-lg overflow-hidden border-l-4 ${activity.borderColor}`}>
+                <div key={activity.slug} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all overflow-hidden border-0">
                   <div className="p-6">
-                    <h3 className="text-xl font-bold text-gray-900 mb-2">
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">
                       <Link href={activity.guidePath} className="hover:underline">
                         {activity.title}
                       </Link>
@@ -112,15 +114,15 @@ export default function ActivitiesPage({ activities }: Props) {
                     <p className="text-gray-600 text-sm mb-4">{activity.description}</p>
 
                     <div className="flex gap-3 mb-4">
-                      <div className="bg-gray-50 rounded px-3 py-1.5 text-center">
+                      <div className="bg-surface-cream rounded-xl px-3 py-1.5 text-center">
                         <div className="text-sm font-bold text-gray-900">{activity.totalActivities}+</div>
                         <div className="text-[10px] text-gray-500">Activities</div>
                       </div>
-                      <div className="bg-gray-50 rounded px-3 py-1.5 text-center">
+                      <div className="bg-surface-cream rounded-xl px-3 py-1.5 text-center">
                         <div className="text-sm font-bold text-gray-900">{activity.cities.length}</div>
                         <div className="text-[10px] text-gray-500">Cities</div>
                       </div>
-                      <div className="bg-gray-50 rounded px-3 py-1.5 text-center">
+                      <div className="bg-surface-cream rounded-xl px-3 py-1.5 text-center">
                         <div className="text-sm font-bold text-gray-900">{formatPrice(activity.lowestPrice, loc)}+</div>
                         <div className="text-[10px] text-gray-500">From</div>
                       </div>
@@ -131,7 +133,7 @@ export default function ActivitiesPage({ activities }: Props) {
                         <Link
                           key={city.slug}
                           href={getCityActivityPath(activity.slug, city.slug)}
-                          className="text-xs bg-gray-100 text-gray-600 px-2 py-1 rounded hover:bg-gray-200 transition-colors"
+                          className="text-xs bg-surface-cream text-gray-600 px-2 py-1 rounded-full hover:bg-gray-200 transition-colors"
                         >
                           {city.name.en}
                         </Link>
@@ -140,7 +142,7 @@ export default function ActivitiesPage({ activities }: Props) {
 
                     <Link
                       href={activity.guidePath}
-                      className={`inline-flex items-center px-5 py-2 text-white text-sm font-semibold rounded-lg transition-colors ${activity.buttonColor}`}
+                      className="inline-flex items-center px-5 py-2 text-white text-sm font-semibold rounded-xl transition-colors bg-thailand-red hover:bg-red-700"
                     >
                       Compare all {activity.title.toLowerCase()} &rarr;
                     </Link>
@@ -150,8 +152,9 @@ export default function ActivitiesPage({ activities }: Props) {
             </div>
 
             {/* Activities by City */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">Activities by City</h2>
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <p className="section-label">By Destination</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Activities by City</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 {['bangkok', 'chiang-mai', 'phuket', 'krabi'].map((citySlug) => {
                   const cityName = citySlug === 'chiang-mai' ? 'Chiang Mai'
@@ -161,8 +164,8 @@ export default function ActivitiesPage({ activities }: Props) {
                   );
                   if (cityActivities.length === 0) return null;
                   return (
-                    <div key={citySlug} className="border border-gray-200 rounded-lg p-4">
-                      <h3 className="font-bold text-gray-900 mb-3">
+                    <div key={citySlug} className="border-0 rounded-2xl p-4 bg-surface-cream">
+                      <h3 className="font-bold font-heading text-gray-900 mb-3">
                         <Link href={`/city/${citySlug}/`} className="hover:underline">
                           {cityName}
                         </Link>
@@ -174,7 +177,7 @@ export default function ActivitiesPage({ activities }: Props) {
                             <li key={a.slug}>
                               <Link
                                 href={getCityActivityPath(a.slug, citySlug)}
-                                className="text-sm text-blue-600 hover:underline"
+                                className="text-sm text-thailand-blue hover:underline"
                               >
                                 {a.title}
                               </Link>
@@ -194,9 +197,10 @@ export default function ActivitiesPage({ activities }: Props) {
             </div>
 
             {/* Booking Platforms */}
-            <h2 className="text-2xl font-bold text-gray-900 mb-6">Book on Trusted Platforms</h2>
+            <p className="section-label">Book Now</p>
+            <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Book on Trusted Platforms</h2>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
-              <div className="bg-white rounded-lg shadow-lg p-6 border-t-4 border-orange-500">
+              <div className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-6 border-0">
                 <div className="relative h-10 w-32 mb-4">
                   <Image src="/images/partners/klook.svg" alt="Klook" fill className="object-contain object-left" />
                 </div>
@@ -205,11 +209,11 @@ export default function ActivitiesPage({ activities }: Props) {
                 </p>
                 <AffiliateWidget scriptContent={KLOOK_WIDGET} className="mb-4" minHeight="200px" />
                 <a href={KLOOK_AFFILIATE} target="_blank" rel="noopener noreferrer"
-                  className="block w-full bg-orange-500 text-white text-center py-2.5 rounded-lg font-semibold hover:bg-orange-600 transition-colors text-sm">
+                  className="block w-full bg-thailand-red text-white text-center py-2.5 rounded-xl font-semibold hover:bg-red-700 transition-colors text-sm">
                   Browse Thailand on Klook
                 </a>
               </div>
-              <div className="bg-white rounded-lg shadow-lg p-6 border-t-4 border-blue-700">
+              <div className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-6 border-0">
                 <div className="relative h-10 w-48 mb-4">
                   <Image src="/images/partners/getyourguide.svg" alt="GetYourGuide" fill className="object-contain object-left" />
                 </div>
@@ -218,26 +222,27 @@ export default function ActivitiesPage({ activities }: Props) {
                 </p>
                 <AffiliateWidget scriptContent={GYG_POPULAR_TOURS} className="mb-4" minHeight="200px" />
                 <a href={GYG_AFFILIATE} target="_blank" rel="noopener noreferrer"
-                  className="block w-full bg-blue-700 text-white text-center py-2.5 rounded-lg font-semibold hover:bg-blue-800 transition-colors text-sm">
+                  className="block w-full bg-thailand-blue text-white text-center py-2.5 rounded-xl font-semibold hover:bg-blue-800 transition-colors text-sm">
                   Browse Thailand on GetYourGuide
                 </a>
               </div>
             </div>
 
             {/* FAQ */}
-            <div className="bg-white rounded-lg shadow-lg p-8">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">Frequently Asked Questions</h2>
+            <div className="bg-white rounded-2xl shadow-md p-8">
+              <p className="section-label">FAQ</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Frequently Asked Questions</h2>
               <div className="space-y-6">
                 <div>
-                  <h3 className="text-lg font-semibold text-gray-900 mb-2">What are the most popular activities in Thailand?</h3>
+                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">What are the most popular activities in Thailand?</h3>
                   <p className="text-gray-700">Cooking classes, Muay Thai fights and training, elephant sanctuary visits, and diving/snorkeling trips are among the most popular. All can be booked as day trips in major destinations like Phuket, Chiang Mai, Bangkok, and Krabi.</p>
                 </div>
                 <div>
-                  <h3 className="text-lg font-semibold text-gray-900 mb-2">How far in advance should I book?</h3>
+                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">How far in advance should I book?</h3>
                   <p className="text-gray-700">During peak season (November-February), popular activities sell out days in advance. Book cooking classes and diving trips 2-3 days ahead. Muay Thai fight tickets and elephant sanctuaries are usually available with shorter notice.</p>
                 </div>
                 <div>
-                  <h3 className="text-lg font-semibold text-gray-900 mb-2">Which city has the most activities?</h3>
+                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">Which city has the most activities?</h3>
                   <p className="text-gray-700">Phuket offers the widest range — diving, Muay Thai, elephant sanctuaries, and cooking classes. Chiang Mai is top for cooking classes and elephant sanctuaries. Bangkok has the best Muay Thai fight stadiums.</p>
                 </div>
               </div>

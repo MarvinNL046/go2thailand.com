@@ -25,11 +25,11 @@ const IslandCard: React.FC<IslandCardProps> = ({ island }) => {
   const { locale } = useRouter();
 
   const regionColor = island.region === 'Gulf of Thailand'
-    ? 'bg-blue-500'
-    : 'bg-emerald-500';
+    ? 'bg-thailand-blue'
+    : 'bg-thailand-red';
 
   return (
-    <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
+    <div className="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
       <Link href={`/islands/${island.slug}/`}>
         <div className="relative h-48 w-full">
           <Image
@@ -40,7 +40,7 @@ const IslandCard: React.FC<IslandCardProps> = ({ island }) => {
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           />
           <div className="absolute top-2 left-2">
-            <span className={`${regionColor} text-white px-2 py-1 rounded text-xs font-semibold`}>
+            <span className={`${regionColor} text-white px-2 py-1 rounded-full text-xs font-semibold`}>
               {island.region}
             </span>
           </div>
@@ -49,7 +49,7 @@ const IslandCard: React.FC<IslandCardProps> = ({ island }) => {
 
       <div className="p-4">
         <Link href={`/islands/${island.slug}/`}>
-          <h3 className="text-xl font-bold text-gray-900 mb-2 hover:text-thailand-blue transition-colors">
+          <h3 className="text-xl font-heading font-bold text-gray-900 mb-2 hover:text-thailand-blue transition-colors">
             {island.name[(locale as keyof typeof island.name)] || island.name.en}
           </h3>
         </Link>
@@ -64,7 +64,7 @@ const IslandCard: React.FC<IslandCardProps> = ({ island }) => {
               {island.highlights.slice(0, 3).map((highlight, index) => (
                 <span
                   key={index}
-                  className="bg-gray-100 text-gray-700 px-2 py-1 rounded text-xs"
+                  className="bg-surface-cream text-gray-700 px-2 py-1 rounded-full text-xs"
                 >
                   {highlight}
                 </span>
@@ -75,7 +75,7 @@ const IslandCard: React.FC<IslandCardProps> = ({ island }) => {
 
         <Link
           href={`/islands/${island.slug}/`}
-          className="block w-full bg-thailand-blue text-white text-center py-2 px-4 rounded hover:bg-thailand-red transition-colors text-sm font-medium"
+          className="block w-full bg-thailand-blue text-white text-center py-2 px-4 rounded-xl hover:bg-thailand-red transition-colors text-sm font-medium"
         >
           {t('buttons.exploreCity') || 'Explore Island'}
         </Link>

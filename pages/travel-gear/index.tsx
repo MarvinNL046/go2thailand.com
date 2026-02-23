@@ -52,12 +52,13 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
         <meta name="keywords" content="Thailand travel gear, Thailand packing list, best backpack Thailand, mosquito repellent Thailand, travel essentials" />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold text-white">
+        <section className="bg-surface-dark text-white">
           <div className="container-custom py-16">
             <div className="text-center">
-              <h1 className="text-4xl lg:text-6xl font-bold mb-6">
+              <p className="font-script text-thailand-gold mb-2">Pack Smart</p>
+              <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
                 Essential Travel Gear for Thailand
               </h1>
               <p className="text-xl lg:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
@@ -85,7 +86,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
             <Breadcrumbs items={breadcrumbs} />
             
             {/* Affiliate Notice */}
-            <div className="bg-orange-50 border border-orange-200 rounded-lg mt-4">
+            <div className="bg-orange-50 border-0 rounded-2xl mt-4">
               <div className="px-4 py-3">
                 <p className="text-sm text-center text-orange-800">
                   This page contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
@@ -98,32 +99,33 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
         {/* Quick Essentials Section */}
         <section className="py-12 bg-white">
           <div className="container-custom">
-            <h2 className="text-3xl font-bold text-center mb-8">Thailand Travel Essentials</h2>
+            <p className="section-label text-center">Essentials</p>
+            <h2 className="text-3xl font-bold font-heading text-center mb-8">Thailand Travel Essentials</h2>
             <div className="grid md:grid-cols-4 gap-6 mb-12">
               <div className="text-center">
                 <div className="text-4xl mb-4"></div>
-                <h3 className="font-semibold mb-2">Mosquito Protection</h3>
+                <h3 className="font-semibold font-heading mb-2">Mosquito Protection</h3>
                 <p className="text-gray-600 text-sm">
                   DEET spray is essential, especially during rainy season
                 </p>
               </div>
               <div className="text-center">
                 <div className="text-4xl mb-4"></div>
-                <h3 className="font-semibold mb-2">Sun Protection</h3>
+                <h3 className="font-semibold font-heading mb-2">Sun Protection</h3>
                 <p className="text-gray-600 text-sm">
                   High SPF sunscreen and a good hat are must-haves
                 </p>
               </div>
               <div className="text-center">
                 <div className="text-4xl mb-4"></div>
-                <h3 className="font-semibold mb-2">Rain Gear</h3>
+                <h3 className="font-semibold font-heading mb-2">Rain Gear</h3>
                 <p className="text-gray-600 text-sm">
                   Lightweight rain jacket or poncho for sudden downpours
                 </p>
               </div>
               <div className="text-center">
                 <div className="text-4xl mb-4"></div>
-                <h3 className="font-semibold mb-2">Power Adapter</h3>
+                <h3 className="font-semibold font-heading mb-2">Power Adapter</h3>
                 <p className="text-gray-600 text-sm">
                   Thailand uses Type A, B, C plugs - universal adapter needed
                 </p>
@@ -169,7 +171,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
           <div className="container-custom">
             <div className="grid md:grid-cols-3 gap-6">
               {filteredItems.map((item) => (
-                <div key={item.id} className="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div key={item.id} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all overflow-hidden">
                   {/* Essential Badge */}
                   {item.essential && (
                     <div className="bg-red-500 text-white text-xs font-bold px-3 py-1 absolute top-4 right-4 rounded-full z-10">
@@ -178,7 +180,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
                   )}
                   
                   {/* Product Image */}
-                  <div className="relative h-64 bg-gray-100">
+                  <div className="relative h-64 bg-surface-cream">
                     <Image
                       src={item.image}
                       alt={item.name}
@@ -201,7 +203,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
                     </div>
                     
                     {/* Product Name & Price */}
-                    <h3 className="text-xl font-bold mb-2">{item.name}</h3>
+                    <h3 className="text-xl font-bold font-heading mb-2">{item.name}</h3>
                     <p className="text-2xl font-bold text-thailand-blue mb-3">{item.price}</p>
                     
                     {/* Description */}
@@ -222,7 +224,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
                       href={item.amazonLink}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="block w-full bg-orange-500 text-white text-center py-3 rounded-lg font-semibold hover:bg-orange-600 transition-colors"
+                      className="block w-full bg-thailand-red text-white text-center py-3 rounded-xl font-semibold hover:bg-red-700 transition-colors"
                     >
                       View on Amazon →
                     </a>
@@ -238,10 +240,11 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
         {/* Packing Tips Section */}
         <section className="py-12 bg-white">
           <div className="container-custom">
-            <h2 className="text-3xl font-bold text-center mb-8">Thailand Packing Tips</h2>
+            <p className="section-label text-center">Packing Tips</p>
+            <h2 className="text-3xl font-bold font-heading text-center mb-8">Thailand Packing Tips</h2>
             <div className="max-w-3xl mx-auto grid md:grid-cols-2 gap-6">
-              <div className="bg-blue-50 rounded-lg p-6">
-                <h3 className="font-semibold mb-3 flex items-center gap-2">
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="font-semibold font-heading mb-3 flex items-center gap-2">
                   <span className="text-2xl"></span>
                   Island Hopping Essentials
                 </h3>
@@ -252,8 +255,8 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
                   <li>• Waterproof phone case</li>
                 </ul>
               </div>
-              <div className="bg-green-50 rounded-lg p-6">
-                <h3 className="font-semibold mb-3 flex items-center gap-2">
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="font-semibold font-heading mb-3 flex items-center gap-2">
                   <span className="text-2xl"></span>
                   Temple Visit Requirements
                 </h3>
@@ -264,8 +267,8 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
                   <li>• Small bag for shoes</li>
                 </ul>
               </div>
-              <div className="bg-yellow-50 rounded-lg p-6">
-                <h3 className="font-semibold mb-3 flex items-center gap-2">
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="font-semibold font-heading mb-3 flex items-center gap-2">
                   <span className="text-2xl"></span>
                   Hot Weather Hacks
                 </h3>
@@ -276,8 +279,8 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
                   <li>• Portable fan</li>
                 </ul>
               </div>
-              <div className="bg-purple-50 rounded-lg p-6">
-                <h3 className="font-semibold mb-3 flex items-center gap-2">
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="font-semibold font-heading mb-3 flex items-center gap-2">
                   <span className="text-2xl"></span>
                   Backpacking Must-Haves
                 </h3>
@@ -293,38 +296,39 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
         </section>
 
         {/* More Travel Essentials - Cross-sell Section */}
-        <section className="py-12 bg-gradient-to-r from-gray-50 to-gray-100">
+        <section className="py-12 bg-surface-cream">
           <div className="container-custom">
-            <h2 className="text-3xl font-bold text-center mb-3">More Travel Essentials</h2>
+            <p className="section-label text-center">More Essentials</p>
+            <h2 className="text-3xl font-bold font-heading text-center mb-3">More Travel Essentials</h2>
             <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
               Beyond gear -- make sure you are fully prepared for Thailand with these essential services
             </p>
             <div className="grid md:grid-cols-4 gap-6 max-w-5xl mx-auto">
               <Link href="/esim/" className="group">
-                <div className="bg-white rounded-lg shadow-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
+                <div className="bg-white rounded-2xl shadow-md p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-4"></div>
-                  <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Thailand eSIM</h3>
+                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">Thailand eSIM</h3>
                   <p className="text-gray-600 text-sm">Stay connected with affordable data plans. No physical SIM needed.</p>
                 </div>
               </Link>
               <Link href="/travel-insurance/" className="group">
-                <div className="bg-white rounded-lg shadow-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
+                <div className="bg-white rounded-2xl shadow-md p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-4"></div>
-                  <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Travel Insurance</h3>
+                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">Travel Insurance</h3>
                   <p className="text-gray-600 text-sm">Protect your trip with comprehensive coverage for Thailand.</p>
                 </div>
               </Link>
               <Link href="/travel-security/" className="group">
-                <div className="bg-white rounded-lg shadow-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
+                <div className="bg-white rounded-2xl shadow-md p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-4"></div>
-                  <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">VPN & Security</h3>
+                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">VPN & Security</h3>
                   <p className="text-gray-600 text-sm">Stay safe online with a reliable VPN for public Wi-Fi in Thailand.</p>
                 </div>
               </Link>
               <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="group">
-                <div className="bg-white rounded-lg shadow-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
+                <div className="bg-white rounded-2xl shadow-md p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-4"></div>
-                  <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Book Hotels</h3>
+                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">Book Hotels</h3>
                   <p className="text-gray-600 text-sm">Find great deals on Thailand hotels and resorts on Trip.com.</p>
                 </div>
               </a>
@@ -336,7 +340,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
         </section>
 
         {/* Amazon Associates Disclaimer */}
-        <section className="py-8 bg-gray-100">
+        <section className="py-8 bg-surface-cream">
           <div className="container-custom">
             <div className="max-w-3xl mx-auto text-center">
               <p className="text-sm text-gray-600 mb-2">

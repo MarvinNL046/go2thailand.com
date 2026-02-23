@@ -70,10 +70,10 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
         <section className="relative h-80 lg:h-[420px] overflow-hidden">
-          <div className="absolute inset-0 bg-gradient-to-r from-thailand-blue to-thailand-blue-dark">
+          <div className="absolute inset-0 bg-surface-dark">
             <div className="absolute inset-0 opacity-20" style={{
               backgroundImage: 'url("data:image/svg+xml,%3Csvg width=\'60\' height=\'60\' viewBox=\'0 0 60 60\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cg fill=\'none\' fill-rule=\'evenodd\'%3E%3Cg fill=\'%23ffffff\' fill-opacity=\'0.15\'%3E%3Cpath d=\'M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z\'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")'
             }} />
@@ -82,15 +82,16 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
           <div className="relative z-10 h-full flex items-center">
             <div className="container-custom text-white">
               <div className="max-w-3xl">
-                <div className="flex items-center mb-4">
-                  <span className="bg-thailand-red text-white px-3 py-1 rounded text-sm font-semibold mr-3">
+                <span className="font-script text-thailand-gold text-lg">Plan your adventure</span>
+                <div className="flex items-center mb-4 mt-2">
+                  <span className="bg-thailand-red text-white px-3 py-1 rounded-xl text-sm font-semibold mr-3">
                     {itineraries.length} Itineraries
                   </span>
                   <span className="text-gray-200 text-sm">
                     Updated for 2026
                   </span>
                 </div>
-                <h1 className="text-4xl lg:text-6xl font-bold mb-4">
+                <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-4">
                   Thailand Itineraries
                 </h1>
                 <p className="text-xl lg:text-2xl text-gray-200 max-w-2xl">
@@ -114,8 +115,8 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
                   onClick={() => setActiveDuration(filter.value)}
                   className={`px-5 py-2 rounded-full text-sm font-semibold transition-all duration-300 ${
                     activeDuration === filter.value
-                      ? 'bg-thailand-blue text-white shadow-lg'
-                      : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                      ? 'bg-thailand-blue text-white shadow-md'
+                      : 'bg-surface-cream text-gray-700 hover:bg-gray-200'
                   }`}
                 >
                   {filter.label}
@@ -132,7 +133,7 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
                     href={`/itineraries/${itinerary.slug}/`}
                     className="group"
                   >
-                    <div className="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 border border-gray-100 h-full flex flex-col">
+                    <div className="bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 border-0 h-full flex flex-col">
                       {/* Card Image */}
                       <div className="relative h-52 overflow-hidden">
                         <Image
@@ -153,7 +154,7 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
 
                       {/* Card Content */}
                       <div className="p-5 flex-1 flex flex-col">
-                        <h2 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-thailand-blue transition-colors line-clamp-2">
+                        <h2 className="text-lg font-bold font-heading text-gray-900 mb-2 group-hover:text-thailand-blue transition-colors line-clamp-2">
                           {itinerary.title}
                         </h2>
                         {/* Card has no description field from index data */}
@@ -164,7 +165,7 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
                             {itinerary.highlights.slice(0, 3).map((highlight, idx) => (
                               <span
                                 key={idx}
-                                className="bg-gray-100 text-gray-600 px-2 py-0.5 rounded text-xs"
+                                className="bg-surface-cream text-gray-600 px-2 py-0.5 rounded-full text-xs"
                               >
                                 {highlight}
                               </span>
@@ -190,12 +191,12 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
               </div>
             ) : (
               <div className="text-center py-16">
-                <div className="w-16 h-16 bg-gray-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <div className="w-16 h-16 bg-surface-cream rounded-xl flex items-center justify-center mx-auto mb-4">
                   <svg className="w-8 h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-semibold text-gray-900 mb-2">No itineraries found</h3>
+                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">No itineraries found</h3>
                 <p className="text-gray-600 mb-4">
                   No itineraries available for this duration yet. Try a different filter.
                 </p>
@@ -211,11 +212,11 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
         </section>
 
         {/* Plan Your Trip CTA */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold py-12">
+        <section className="bg-surface-dark py-12">
           <div className="container-custom">
             <div className="flex flex-col md:flex-row items-center justify-between gap-6">
               <div className="text-white">
-                <h2 className="text-2xl font-bold mb-1">Ready to Plan Your Thailand Trip?</h2>
+                <h2 className="text-2xl font-bold font-heading mb-1">Ready to Plan Your Thailand Trip?</h2>
                 <p className="opacity-90 text-sm">Book hotels, transport, activities, and get connected with an eSIM</p>
               </div>
               <div className="flex flex-wrap justify-center gap-3">
@@ -230,53 +231,56 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
         </section>
 
         {/* Explore More */}
-        <section className="bg-gray-50 py-12">
+        <section className="bg-surface-cream py-12">
           <div className="container-custom">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
-              Explore More
-            </h2>
+            <div className="text-center mb-8">
+              <span className="font-script text-thailand-gold text-lg">Keep exploring</span>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mt-1">
+                Explore More
+              </h2>
+            </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
               <Link href="/city/" className="group">
-                <div className="bg-white p-6 rounded-lg hover:shadow-lg transition-shadow text-center">
-                  <div className="w-12 h-12 bg-thailand-blue rounded-full flex items-center justify-center mx-auto mb-3">
+                <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
+                  <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-3">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                     </svg>
                   </div>
-                  <h3 className="font-semibold text-gray-900 mb-2">All Cities</h3>
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">All Cities</h3>
                   <p className="text-gray-600 text-sm">Browse all destinations</p>
                 </div>
               </Link>
               <Link href="/islands/" className="group">
-                <div className="bg-white p-6 rounded-lg hover:shadow-lg transition-shadow text-center">
-                  <div className="w-12 h-12 bg-thailand-blue rounded-full flex items-center justify-center mx-auto mb-3">
+                <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
+                  <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-3">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064" />
                     </svg>
                   </div>
-                  <h3 className="font-semibold text-gray-900 mb-2">Thai Islands</h3>
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Thai Islands</h3>
                   <p className="text-gray-600 text-sm">Beach paradise awaits</p>
                 </div>
               </Link>
               <Link href="/transport/" className="group">
-                <div className="bg-white p-6 rounded-lg hover:shadow-lg transition-shadow text-center">
-                  <div className="w-12 h-12 bg-thailand-blue rounded-full flex items-center justify-center mx-auto mb-3">
+                <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
+                  <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-3">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
                     </svg>
                   </div>
-                  <h3 className="font-semibold text-gray-900 mb-2">Transport</h3>
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Transport</h3>
                   <p className="text-gray-600 text-sm">Getting around Thailand</p>
                 </div>
               </Link>
               <Link href="/blog/" className="group">
-                <div className="bg-white p-6 rounded-lg hover:shadow-lg transition-shadow text-center">
-                  <div className="w-12 h-12 bg-thailand-blue rounded-full flex items-center justify-center mx-auto mb-3">
+                <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
+                  <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-3">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                     </svg>
                   </div>
-                  <h3 className="font-semibold text-gray-900 mb-2">Travel Blog</h3>
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Travel Blog</h3>
                   <p className="text-gray-600 text-sm">Tips & stories</p>
                 </div>
               </Link>

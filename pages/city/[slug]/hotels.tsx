@@ -130,12 +130,12 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
         )}
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         <section className="bg-white shadow-sm">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center">
-              <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+              <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
                 Hotels & Stay in {city.name.en}
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
@@ -150,19 +150,19 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
             {hotelData ? (
               <div className="space-y-12">
                 {/* Search & Book Hotels Widget - Moved to top */}
-                <div className="bg-gray-100 rounded-lg p-8 text-center">
-                  <h3 className="text-xl font-bold text-gray-900 mb-4">Search & Book Hotels in {city.name.en}</h3>
+                <div className="bg-surface-cream rounded-2xl p-8 text-center">
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Search & Book Hotels in {city.name.en}</h3>
                   <p className="text-gray-600 mb-6">Compare prices and find the best deals on Trip.com</p>
                   <TripcomWidget city={city.name.en} type="hotels" />
                 </div>
 
                 {/* Best Areas to Stay */}
                 <div>
-                  <h2 className="text-3xl font-bold text-gray-900 mb-8">Best Areas to Stay in {city.name.en}</h2>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">Best Areas to Stay in {city.name.en}</h2>
                   <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                     {hotelData.areas.map((area, index) => (
-                      <div key={index} className="bg-white rounded-lg shadow-lg p-6">
-                        <h3 className="text-xl font-bold text-gray-900 mb-2">{area.name}</h3>
+                      <div key={index} className="bg-white rounded-2xl shadow-md p-6">
+                        <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{area.name}</h3>
                         <p className="text-gray-600 mb-4">{area.description}</p>
                         
                         <div className="mb-4">
@@ -199,21 +199,21 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 </div>
 
                 {/* Accommodation Types */}
-                <div className="bg-gray-50 rounded-lg p-8">
-                  <h2 className="text-2xl font-bold text-gray-900 mb-6">Accommodation Types</h2>
+                <div className="bg-surface-cream rounded-2xl p-8">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Accommodation Types</h2>
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                    <div className="bg-white rounded-lg p-6">
-                      <h3 className="text-lg font-bold text-gray-900 mb-2">Budget</h3>
+                    <div className="bg-white rounded-2xl p-6">
+                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Budget</h3>
                       <p className="text-gray-600 mb-2">฿300-800/night</p>
                       <p className="text-sm text-gray-600">Hostels, guesthouses, and budget hotels with basic amenities</p>
                     </div>
-                    <div className="bg-white rounded-lg p-6">
-                      <h3 className="text-lg font-bold text-gray-900 mb-2">Mid-Range</h3>
+                    <div className="bg-white rounded-2xl p-6">
+                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Mid-Range</h3>
                       <p className="text-gray-600 mb-2">฿800-2,500/night</p>
                       <p className="text-sm text-gray-600">3-4 star hotels with pools, restaurants, and good service</p>
                     </div>
-                    <div className="bg-white rounded-lg p-6">
-                      <h3 className="text-lg font-bold text-gray-900 mb-2">Luxury</h3>
+                    <div className="bg-white rounded-2xl p-6">
+                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Luxury</h3>
                       <p className="text-gray-600 mb-2">฿2,500+/night</p>
                       <p className="text-sm text-gray-600">5-star hotels and resorts with premium amenities and service</p>
                     </div>
@@ -223,13 +223,13 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 {/* Recommended Hotels from Enhanced Data */}
                 {hotels.length > 0 && (
                   <div>
-                    <h2 className="text-3xl font-bold text-gray-900 mb-8">Recommended Hotels in {city.name.en}</h2>
+                    <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">Recommended Hotels in {city.name.en}</h2>
                     {categoryOrder.map((cat) => {
                       const catHotels = hotelsByCategory[cat];
                       if (!catHotels || catHotels.length === 0) return null;
                       return (
                         <div key={cat} className="mb-8">
-                          <h3 className="text-2xl font-semibold text-gray-800 mb-4">{categoryLabels[cat] || cat} Hotels</h3>
+                          <h3 className="text-2xl font-semibold font-heading text-gray-800 mb-4">{categoryLabels[cat] || cat} Hotels</h3>
                           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                             {catHotels.map((hotel, idx) => (
                               <a
@@ -237,10 +237,10 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                                 href="https://trip.tpo.lv/TmObooZ5"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow block"
+                                className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 block"
                               >
                                 <div className="flex items-start justify-between mb-3">
-                                  <h3 className="text-lg font-bold text-gray-900 flex-1 mr-2">{hotel.name}</h3>
+                                  <h3 className="text-lg font-bold font-heading text-gray-900 flex-1 mr-2">{hotel.name}</h3>
                                   <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium whitespace-nowrap ${categoryColors[hotel.category] || 'bg-gray-100 text-gray-800'}`}>
                                     {categoryLabels[hotel.category] || hotel.category}
                                   </span>
@@ -259,7 +259,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                                   {hotel.priceRange}
                                 </div>
                                 <p className="text-gray-600 text-sm">{hotel.description}</p>
-                                <div className="mt-4 text-blue-600 text-sm font-medium flex items-center">
+                                <div className="mt-4 text-thailand-blue text-sm font-medium flex items-center">
                                   Check availability
                                   <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
@@ -276,8 +276,8 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
 
                 {/* Booking Tips */}
                 <div>
-                  <h2 className="text-2xl font-bold text-gray-900 mb-6">Booking Tips for {city.name.en}</h2>
-                  <div className="bg-white rounded-lg shadow-lg p-6">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Booking Tips for {city.name.en}</h2>
+                  <div className="bg-white rounded-2xl shadow-md p-6">
                     <ul className="space-y-3">
                       {hotelData.booking_tips.map((tip, index) => (
                         <li key={index} className="flex items-start">
@@ -298,10 +298,10 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
 
                 {/* Top 10 Hotels Link */}
                 {hasTop10Hotels && (
-                  <div className="bg-thailand-blue rounded-lg p-8 text-center text-white">
-                    <h3 className="text-2xl font-bold mb-4">Looking for Specific Recommendations?</h3>
+                  <div className="bg-surface-dark rounded-2xl p-8 text-center text-white">
+                    <h3 className="text-2xl font-bold font-heading mb-4">Looking for Specific Recommendations?</h3>
                     <p className="mb-6 text-lg">Check out our curated list of the best hotels in {city.name.en}</p>
-                    <Link href={`/city/${city.slug}/top-10-hotels/`} className="inline-block bg-white text-thailand-blue px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+                    <Link href={`/city/${city.slug}/top-10-hotels/`} className="inline-block bg-white text-thailand-blue px-8 py-3 rounded-xl font-semibold hover:bg-gray-100 transition-colors">
                       View Top 10 Hotels →
                     </Link>
                   </div>
@@ -311,12 +311,12 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
             ) : (
               <div className="text-center py-16">
                 <div className="max-w-md mx-auto">
-                  <div className="w-24 h-24 bg-thailand-blue rounded-full flex items-center justify-center mx-auto mb-6">
+                  <div className="w-24 h-24 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-6">
                     <svg className="w-12 h-12 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                     </svg>
                   </div>
-                  <h3 className="text-2xl font-bold text-gray-900 mb-4">
+                  <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
                     Hotel Guide Coming Soon
                   </h3>
                   <p className="text-gray-600 mb-6">
@@ -330,8 +330,8 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
             )}
 
             {/* Book Your Hotel - Affiliate Section */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-8">
-              <h3 className="text-2xl font-bold text-gray-900 mb-4 text-center">
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
+              <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
                 Book Your Hotel in {city.name.en}
               </h3>
               <p className="text-gray-600 text-center mb-6">
@@ -342,7 +342,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                   href="https://trip.tpo.lv/TmObooZ5"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                 >
                   Search on Trip.com
                 </a>
@@ -350,7 +350,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                   href="https://booking.tpo.lv/2PT1kR82"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-blue-800 text-white font-semibold rounded-lg hover:bg-blue-900 transition-colors"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                 >
                   Search on Booking.com
                 </a>
@@ -360,13 +360,13 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
               </p>
             </div>
 
-            <div className="bg-white rounded-lg shadow-lg p-8">
-              <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">
+            <div className="bg-white rounded-2xl shadow-md p-8">
+              <h3 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
                 Explore More of {city.name.en}
               </h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
-                  <div className="w-12 h-12 bg-thailand-blue rounded-lg flex items-center justify-center mr-4">
+                <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                  <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mr-4">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                     </svg>
@@ -376,8 +376,8 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                     <p className="text-gray-600 text-sm">See top attractions</p>
                   </div>
                 </Link>
-                <Link href={`/city/${city.slug}/food/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
-                  <div className="w-12 h-12 bg-thailand-blue rounded-lg flex items-center justify-center mr-4">
+                <Link href={`/city/${city.slug}/food/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                  <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mr-4">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                     </svg>

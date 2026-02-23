@@ -109,12 +109,13 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         <meta name="keywords" content="Thai food, Thai cuisine, Thai recipes, Pad Thai, Tom Yum, Green Curry, Thai dishes, authentic Thai cooking" />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold text-white">
+        <section className="bg-surface-dark text-white">
           <div className="container-custom py-16">
             <div className="text-center">
-              <h1 className="text-4xl lg:text-6xl font-bold mb-6">
+              <p className="font-script text-thailand-gold mb-2">Authentic Flavors</p>
+              <h1 className="text-4xl lg:text-6xl font-heading font-bold mb-6">
                 Thai Food Guide
               </h1>
               <p className="text-xl lg:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
@@ -143,42 +144,43 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         </section>
 
         {/* Category Navigation */}
-        <section className="bg-gray-50 py-8">
+        <section className="bg-surface-cream py-8">
           <div className="container-custom">
-            <h2 className="text-2xl font-bold text-center mb-6">Browse by Category</h2>
+            <p className="section-label font-script text-thailand-gold text-center">Categories</p>
+            <h2 className="text-2xl font-heading font-bold text-center mb-6">Browse by Category</h2>
             <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
               <Link href="/food/category/main-dish/" className="group">
-                <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-thailand-red">
+                <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
                   <div className="text-4xl mb-2"></div>
-                  <h3 className="font-semibold text-gray-900 group-hover:text-thailand-red">Main Dishes</h3>
+                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-red">Main Dishes</h3>
                   <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'main-dish').length} recipes</p>
                 </div>
               </Link>
               <Link href="/food/category/soup/" className="group">
-                <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-thailand-blue">
+                <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
                   <div className="text-4xl mb-2"></div>
-                  <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue">Soups</h3>
+                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-blue">Soups</h3>
                   <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'soup').length} recipes</p>
                 </div>
               </Link>
               <Link href="/food/category/curry/" className="group">
-                <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-yellow-500">
+                <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
                   <div className="text-4xl mb-2"></div>
-                  <h3 className="font-semibold text-gray-900 group-hover:text-yellow-600">Curries</h3>
+                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-red">Curries</h3>
                   <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'curry').length} recipes</p>
                 </div>
               </Link>
               <Link href="/food/category/salad/" className="group">
-                <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-green-500">
+                <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
                   <div className="text-4xl mb-2"></div>
-                  <h3 className="font-semibold text-gray-900 group-hover:text-green-600">Salads</h3>
+                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-blue">Salads</h3>
                   <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'salad').length} recipes</p>
                 </div>
               </Link>
               <Link href="/food/category/dessert/" className="group">
-                <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-all text-center border-2 border-transparent hover:border-pink-500">
+                <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
                   <div className="text-4xl mb-2"></div>
-                  <h3 className="font-semibold text-gray-900 group-hover:text-pink-600">Desserts</h3>
+                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-red">Desserts</h3>
                   <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'dessert').length} recipes</p>
                 </div>
               </Link>
@@ -189,12 +191,13 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         {/* Dishes Grid */}
         <section className="section-padding">
           <div className="container-custom">
-            <h2 className="text-3xl font-bold text-center mb-8">All Thai Dishes</h2>
-            
+            <p className="section-label font-script text-thailand-gold text-center">Discover</p>
+            <h2 className="text-3xl font-heading font-bold text-center mb-8">All Thai Dishes</h2>
+
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {dishes.slice(0, visibleDishes).map((dish) => (
                 <Link key={dish.id} href={`/food/${dish.slug}`} className="group">
-                  <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
+                  <div className="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                     <div className="relative w-full h-48 overflow-hidden">
                       <Image
                         src={dish.image}
@@ -223,28 +226,28 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                           </span>
                         </div>
                       </div>
-                      
-                      <h3 className="text-xl font-bold text-gray-900 mb-2 group-hover:text-thailand-blue transition-colors">
+
+                      <h3 className="text-xl font-heading font-bold text-gray-900 mb-2 group-hover:text-thailand-blue transition-colors">
                         {dish.name.en}
                       </h3>
                       <p className="text-gray-600 text-sm mb-3">
                         {dish.name.thai}
                       </p>
-                      
+
                       <div className="flex items-center justify-between text-sm text-gray-500 mb-4">
                         <span>{dish.preparation_time}</span>
                         <span>{dish.region}</span>
                         <span>{dish.price_range}</span>
                       </div>
-                      
+
                       <div className="flex flex-wrap gap-1">
                         {dish.ingredients.slice(0, 3).map((ingredient, index) => (
-                          <span key={index} className="bg-gray-100 text-gray-600 px-2 py-1 rounded text-xs">
+                          <span key={index} className="bg-surface-cream text-gray-600 px-2 py-1 rounded-full text-xs">
                             {ingredient}
                           </span>
                         ))}
                         {dish.ingredients.length > 3 && (
-                          <span className="bg-gray-100 text-gray-600 px-2 py-1 rounded text-xs">
+                          <span className="bg-surface-cream text-gray-600 px-2 py-1 rounded-full text-xs">
                             +{dish.ingredients.length - 3} more
                           </span>
                         )}
@@ -262,7 +265,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                 <button
                   onClick={handleShowMore}
                   disabled={isLoading}
-                  className="bg-thailand-blue text-white px-8 py-3 rounded-lg font-semibold hover:bg-thailand-red transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl disabled:opacity-50 disabled:cursor-not-allowed"
+                  className="bg-thailand-blue text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-red transition-all duration-300 shadow-md hover:shadow-xl disabled:opacity-50 disabled:cursor-not-allowed"
                 >
                   {isLoading ? (
                     <span className="flex items-center">
@@ -281,11 +284,11 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
 
             {/* Show message when all dishes are displayed */}
             {visibleDishes >= dishes.length && (
-              <div className="text-center mt-12 p-6 bg-gray-50 rounded-lg">
+              <div className="text-center mt-12 p-6 bg-white rounded-2xl">
                 <p className="text-gray-600 mb-4">
                   You've reached the end! That's all {dishes.length} Thai dishes we have.
                 </p>
-                <Link 
+                <Link
                   href="/food/category/"
                   className="text-thailand-blue hover:text-thailand-red font-semibold underline"
                 >
@@ -300,24 +303,25 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         <section className="bg-white section-padding">
           <div className="container-custom">
             <div className="text-center mb-12">
-              <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+              <p className="section-label font-script text-thailand-gold">Browse</p>
+              <h2 className="text-3xl lg:text-4xl font-heading font-bold text-gray-900 mb-4">
                 Explore by Category
               </h2>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
                 From hearty main dishes to refreshing salads and sweet desserts
               </p>
             </div>
-            
+
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
               {categories.map((category) => {
                 const categoryDishes = dishes.filter(dish => dish.category === category);
                 return (
                   <Link key={category} href={`/food/category/${category}`} className="group">
-                    <div className="bg-gray-50 rounded-lg p-6 text-center hover:bg-thailand-blue hover:text-white transition-colors duration-300">
+                    <div className="bg-surface-cream rounded-2xl p-6 text-center hover:bg-thailand-blue hover:text-white transition-colors duration-300">
                       <div className="w-12 h-12 mx-auto mb-4 text-thailand-blue group-hover:text-white">
                         {getCategoryIcon(category)}
                       </div>
-                      <h3 className="font-semibold mb-2 capitalize">
+                      <h3 className="font-heading font-semibold mb-2 capitalize">
                         {category.replace('-', ' ')}
                       </h3>
                       <p className="text-sm opacity-75">
@@ -332,10 +336,11 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         </section>
 
         {/* Affiliate: Book a Thai Cooking Class */}
-        <section className="bg-gradient-to-b from-white to-orange-50 section-padding">
+        <section className="bg-white section-padding">
           <div className="container-custom">
             <div className="text-center mb-10">
-              <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+              <p className="section-label font-script text-thailand-gold">Experience</p>
+              <h2 className="text-3xl lg:text-4xl font-heading font-bold text-gray-900 mb-4">
                 Book a Thai Cooking Class
               </h2>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
@@ -343,9 +348,9 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
               </p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-              <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-orange-100">
+              <div className="bg-white rounded-2xl shadow-md p-8 text-center">
                 <div className="text-5xl mb-4"></div>
-                <h3 className="text-xl font-bold text-gray-900 mb-2">Cooking Classes &amp; Food Tours</h3>
+                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Cooking Classes &amp; Food Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Cooking classes and food tours across Thailand
                 </p>
@@ -353,14 +358,14 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                   href="https://klook.tpo.lv/aq6ZFxvc"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block bg-orange-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-orange-600 transition-colors"
+                  className="inline-block bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-blue transition-colors"
                 >
                   Browse on Klook
                 </a>
               </div>
-              <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-blue-100">
+              <div className="bg-white rounded-2xl shadow-md p-8 text-center">
                 <div className="text-5xl mb-4"></div>
-                <h3 className="text-xl font-bold text-gray-900 mb-2">Food Walking Tours</h3>
+                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Food Walking Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Guided food walking tours
                 </p>
@@ -368,7 +373,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                   href="https://getyourguide.tpo.lv/GuAFfGGK"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block bg-blue-700 text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-800 transition-colors"
+                  className="inline-block bg-thailand-blue text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-red transition-colors"
                 >
                   Browse on GetYourGuide
                 </a>
@@ -381,15 +386,16 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         </section>
 
         {/* CTA Section */}
-        <section className="bg-gradient-to-r from-thailand-gold to-thailand-blue text-white section-padding">
+        <section className="bg-surface-dark text-white section-padding">
           <div className="container-custom text-center">
-            <h2 className="text-3xl lg:text-4xl font-bold mb-6">
+            <p className="font-script text-thailand-gold mb-2">Explore More</p>
+            <h2 className="text-3xl lg:text-4xl font-heading font-bold mb-6">
               Ready to Explore Thailand?
             </h2>
             <p className="text-xl mb-8 max-w-2xl mx-auto opacity-90">
               Discover the cities where these amazing dishes come from
             </p>
-            <Link href="/city/" className="bg-white text-thailand-blue px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+            <Link href="/city/" className="bg-white text-thailand-blue px-8 py-3 rounded-xl font-semibold hover:bg-gray-100 transition-colors">
               Explore Thai Cities
             </Link>
           </div>
@@ -403,7 +409,7 @@ export const getStaticProps: GetStaticProps = async () => {
   const dishes = getAllDishes();
   const categorySet = new Set(dishes.map(dish => dish.category));
   const categories = Array.from(categorySet);
-  
+
   return {
     props: {
       dishes,

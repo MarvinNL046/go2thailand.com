@@ -85,14 +85,14 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-teal-600 to-cyan-600 text-white">
+        <section className="bg-surface-dark text-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
             <div className="flex items-center gap-4">
               <span className="text-5xl">{info.icon}</span>
               <div>
-                <h1 className="text-3xl lg:text-5xl font-bold">{info.title[lang]}</h1>
+                <h1 className="text-3xl lg:text-5xl font-bold font-heading">{info.title[lang]}</h1>
                 <p className="text-lg opacity-90 mt-2">{info.description[lang]}</p>
               </div>
             </div>
@@ -113,16 +113,16 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
               {/* Content Sections */}
               {info.sections.map((section, sIndex) => (
                 <section key={sIndex}>
-                  <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                     {section.title[lang]}
                   </h2>
                   <div className="space-y-4">
                     {section.items.map((item, iIndex) => (
-                      <div key={iIndex} className="bg-white rounded-lg shadow-md p-6">
-                        <h3 className="text-lg font-bold text-gray-900 mb-2">{item.name[lang]}</h3>
+                      <div key={iIndex} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-6">
+                        <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{item.name[lang]}</h3>
                         <p className="text-gray-700 mb-3">{item.description[lang]}</p>
                         {item.how_to_avoid && (
-                          <div className="bg-green-50 border border-green-200 rounded-lg p-3">
+                          <div className="bg-green-50 rounded-xl p-3">
                             <span className="font-medium text-green-800">
                               {lang === 'nl' ? 'Hoe te vermijden: ' : 'How to avoid: '}
                             </span>
@@ -137,12 +137,12 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
 
               {/* FAQs */}
               <section>
-                <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                   {lang === 'nl' ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}
                 </h2>
                 <div className="space-y-4">
                   {info.faqs.map((faq, index) => (
-                    <details key={index} className="bg-white rounded-lg shadow-md group">
+                    <details key={index} className="bg-white rounded-2xl shadow-md group">
                       <summary className="p-6 cursor-pointer font-bold text-gray-900 flex justify-between items-center">
                         {faq.question[lang]}
                         <svg className="w-5 h-5 transform transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -162,8 +162,8 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
             <aside>
               <div className="lg:sticky lg:top-4 space-y-6">
               {/* Tips */}
-              <div className="bg-white rounded-lg shadow-lg p-6">
-                <h3 className="text-xl font-bold mb-4">
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-bold font-heading mb-4">
                   {lang === 'nl' ? 'Snelle Tips' : 'Quick Tips'}
                 </h3>
                 <ul className="space-y-3">
@@ -177,34 +177,34 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
               </div>
 
               {/* Related Pages */}
-              <div className="bg-white rounded-lg shadow-lg p-6">
-                <h3 className="text-xl font-bold mb-4">
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-bold font-heading mb-4">
                   {lang === 'nl' ? 'Gerelateerd' : 'Related'}
                 </h3>
                 <div className="space-y-2">
-                  <Link href="/visa/" className="block text-teal-600 hover:underline text-sm">{lang === 'nl' ? 'Visum Gids' : 'Visa Guide'}</Link>
-                  <Link href="/weather/" className="block text-teal-600 hover:underline text-sm">{lang === 'nl' ? 'Weer Gids' : 'Weather Guide'}</Link>
-                  <Link href="/transport/" className="block text-teal-600 hover:underline text-sm">{lang === 'nl' ? 'Transport' : 'Transport'}</Link>
-                  <Link href="/practical-info/" className="block text-teal-600 hover:underline text-sm">← {lang === 'nl' ? 'Alle praktische info' : 'All practical info'}</Link>
+                  <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">{lang === 'nl' ? 'Visum Gids' : 'Visa Guide'}</Link>
+                  <Link href="/weather/" className="block text-thailand-blue hover:underline text-sm">{lang === 'nl' ? 'Weer Gids' : 'Weather Guide'}</Link>
+                  <Link href="/transport/" className="block text-thailand-blue hover:underline text-sm">{lang === 'nl' ? 'Transport' : 'Transport'}</Link>
+                  <Link href="/practical-info/" className="block text-thailand-blue hover:underline text-sm">← {lang === 'nl' ? 'Alle praktische info' : 'All practical info'}</Link>
                 </div>
               </div>
 
               {/* Travel Insurance */}
-              <div className="bg-gradient-to-r from-teal-600 to-cyan-600 text-white rounded-lg p-6">
-                <h3 className="text-xl font-bold mb-2">{lang === 'nl' ? 'Reisverzekering' : 'Travel Insurance'}</h3>
+              <div className="bg-surface-dark text-white rounded-2xl p-6">
+                <h3 className="text-xl font-bold font-heading mb-2">{lang === 'nl' ? 'Reisverzekering' : 'Travel Insurance'}</h3>
                 <p className="text-sm opacity-90 mb-4">
                   {lang === 'nl'
                     ? 'Bescherm jezelf op reis. Vergelijk de beste reisverzekeringen.'
                     : 'Protect yourself while traveling. Compare the best travel insurance.'}
                 </p>
-                <Link href="/travel-insurance/" className="block bg-white text-teal-600 text-center px-4 py-2 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+                <Link href="/travel-insurance/" className="block bg-white text-thailand-blue text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
                   {lang === 'nl' ? 'Vergelijk Nu' : 'Compare Now'}
                 </Link>
               </div>
 
               {/* eSIM */}
-              <div className="bg-white rounded-lg shadow-lg p-6">
-                <h3 className="text-xl font-bold mb-2">Thailand eSIM</h3>
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-bold font-heading mb-2">Thailand eSIM</h3>
                 <p className="text-sm text-gray-600 mb-4">
                   {lang === 'nl'
                     ? 'Blijf verbonden in Thailand. Bestel je eSIM vooraf.'
@@ -214,18 +214,18 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                   href="https://saily.tpo.lv/rf9lidnE"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-thailand-red transition-colors mb-2"
+                  className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
                 >
                   Saily eSIM
                 </a>
-                <Link href="/esim/" className="block text-teal-600 text-center text-sm hover:underline">
+                <Link href="/esim/" className="block text-thailand-blue text-center text-sm hover:underline">
                   {lang === 'nl' ? 'Meer eSIM opties →' : 'More eSIM options →'}
                 </Link>
               </div>
 
               {/* Book Hotels */}
-              <div className="bg-white rounded-lg shadow-lg p-6">
-                <h3 className="text-xl font-bold mb-3">
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-bold font-heading mb-3">
                   {lang === 'nl' ? 'Boek Hotels' : 'Book Hotels'}
                 </h3>
                 <div className="space-y-3">
@@ -233,7 +233,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                     href="https://booking.tpo.lv/2PT1kR82"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-blue-700 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-blue-800 transition-colors text-sm"
+                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
                   >
                     Booking.com
                   </a>
@@ -241,7 +241,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                     href="https://trip.tpo.lv/TmObooZ5"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-blue-500 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-blue-600 transition-colors text-sm"
+                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
                   >
                     Trip.com
                   </a>
@@ -250,8 +250,8 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
               </div>
 
               {/* Activities */}
-              <div className="bg-white rounded-lg shadow-lg p-6">
-                <h3 className="text-xl font-bold mb-3">
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-bold font-heading mb-3">
                   {lang === 'nl' ? 'Activiteiten' : 'Activities'}
                 </h3>
                 <div className="space-y-3">
@@ -259,7 +259,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                     href="https://klook.tpo.lv/7Dt6WApj"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-orange-500 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-orange-600 transition-colors text-sm"
+                    className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
                   >
                     Klook Activities
                   </a>
@@ -267,7 +267,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                     href="https://getyourguide.tpo.lv/GuAFfGGK"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-red-500 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-red-600 transition-colors text-sm"
+                    className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
                   >
                     GetYourGuide Tours
                   </a>
@@ -280,11 +280,11 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
         </div>
 
         {/* Affiliate Banner */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold">
+        <section className="bg-surface-dark">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="flex flex-col md:flex-row items-center justify-between gap-6">
               <div className="text-white">
-                <h2 className="text-2xl font-bold mb-1">
+                <h2 className="text-2xl font-bold font-heading mb-1">
                   {lang === 'nl' ? 'Plan Je Thailand Reis' : 'Plan Your Thailand Trip'}
                 </h2>
                 <p className="opacity-90 text-sm">

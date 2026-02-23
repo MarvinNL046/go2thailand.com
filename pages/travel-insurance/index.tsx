@@ -50,12 +50,13 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
         <meta name="keywords" content="Thailand travel insurance, best travel insurance Thailand, medical coverage Thailand, travel protection, SafetyWing Thailand" />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold text-white">
+        <section className="bg-surface-dark text-white">
           <div className="container-custom py-16">
             <div className="text-center">
-              <h1 className="text-4xl lg:text-6xl font-bold mb-6">
+              <p className="font-script text-thailand-gold mb-2">Stay Protected</p>
+              <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
                 Travel Insurance for Thailand
               </h1>
               <p className="text-xl lg:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
@@ -83,7 +84,7 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
             <Breadcrumbs items={breadcrumbs} />
             
             {/* Affiliate Notice */}
-            <div className="bg-orange-50 border border-orange-200 rounded-lg mt-4">
+            <div className="bg-orange-50 border-0 rounded-2xl mt-4">
               <div className="px-4 py-3">
                 <p className="text-sm text-center text-orange-800">
                   This page contains affiliate links. We may earn a commission at no extra cost to you when you purchase through our links.
@@ -96,25 +97,26 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
         {/* Why Travel Insurance Section */}
         <section className="py-12 bg-white">
           <div className="container-custom">
-            <h2 className="text-3xl font-bold text-center mb-8">Why You Need Travel Insurance for Thailand</h2>
+            <p className="section-label text-center">Why Insurance?</p>
+            <h2 className="text-3xl font-bold font-heading text-center mb-8">Why You Need Travel Insurance for Thailand</h2>
             <div className="grid md:grid-cols-3 gap-6 mb-12">
               <div className="text-center">
                 <div className="text-4xl mb-4"></div>
-                <h3 className="font-semibold mb-2">Medical Emergencies</h3>
+                <h3 className="font-semibold font-heading mb-2">Medical Emergencies</h3>
                 <p className="text-gray-600 text-sm">
                   Thai hospitals require upfront payment. A simple ER visit can cost $500+
                 </p>
               </div>
               <div className="text-center">
                 <div className="text-4xl mb-4"></div>
-                <h3 className="font-semibold mb-2">Motorbike Accidents</h3>
+                <h3 className="font-semibold font-heading mb-2">Motorbike Accidents</h3>
                 <p className="text-gray-600 text-sm">
                   The #1 cause of tourist injuries. Make sure you're covered for scooter riding
                 </p>
               </div>
               <div className="text-center">
                 <div className="text-4xl mb-4"></div>
-                <h3 className="font-semibold mb-2">Trip Disruptions</h3>
+                <h3 className="font-semibold font-heading mb-2">Trip Disruptions</h3>
                 <p className="text-gray-600 text-sm">
                   Flight cancellations, lost baggage, and unexpected changes
                 </p>
@@ -127,7 +129,8 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
         <section className="py-12">
           <div className="container-custom">
             <div className="text-center mb-8">
-              <h2 className="text-3xl font-bold mb-4">Compare Travel Insurance Providers</h2>
+              <p className="section-label">Providers</p>
+              <h2 className="text-3xl font-bold font-heading mb-4">Compare Travel Insurance Providers</h2>
               <p className="text-gray-600 max-w-2xl mx-auto">
                 We've researched the best travel insurance options for Thailand travelers
               </p>
@@ -135,7 +138,7 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
 
             {/* Duration Toggle */}
             <div className="flex justify-center mb-8">
-              <div className="bg-white rounded-lg shadow-sm p-1 inline-flex">
+              <div className="bg-white rounded-xl shadow-sm p-1 inline-flex">
                 <button
                   onClick={() => setSelectedDuration('short')}
                   className={`px-6 py-2 rounded-md transition-colors ${
@@ -162,12 +165,12 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
             {/* Provider Cards */}
             <div className="grid md:grid-cols-2 gap-6">
               {providers.map((provider) => (
-                <div key={provider.id} className="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div key={provider.id} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all overflow-hidden">
                   <div className="p-6">
                     {/* Header */}
                     <div className="flex items-start justify-between mb-4">
                       <div>
-                        <h3 className="text-2xl font-bold mb-1">{provider.name}</h3>
+                        <h3 className="text-2xl font-bold font-heading mb-1">{provider.name}</h3>
                         <p className="text-sm text-gray-600">{provider.bestFor}</p>
                       </div>
                       <div className="text-right">
@@ -185,7 +188,7 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
                     <p className="text-gray-700 mb-4">{provider.description}</p>
 
                     {/* Price */}
-                    <div className="bg-gray-50 rounded-lg p-4 mb-4">
+                    <div className="bg-surface-cream rounded-xl p-4 mb-4">
                       <p className="text-sm text-gray-600 mb-1">Starting from</p>
                       <p className="text-3xl font-bold text-thailand-blue">
                         {provider.pricing.monthly}
@@ -260,7 +263,7 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
                       href={provider.affiliateLink}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="block w-full bg-thailand-blue text-white text-center py-3 rounded-lg font-semibold hover:bg-thailand-blue-dark transition-colors"
+                      className="block w-full bg-thailand-blue text-white text-center py-3 rounded-xl font-semibold hover:bg-thailand-blue-dark transition-colors"
                     >
                       Get Quote from {provider.name} →
                     </a>
@@ -275,25 +278,26 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
         {/* Coverage Tips Section */}
         <section className="py-12 bg-white">
           <div className="container-custom">
-            <h2 className="text-3xl font-bold text-center mb-8">Thailand Travel Insurance Tips</h2>
+            <p className="section-label text-center">Tips</p>
+            <h2 className="text-3xl font-bold font-heading text-center mb-8">Thailand Travel Insurance Tips</h2>
             <div className="max-w-3xl mx-auto">
               <div className="space-y-4">
                 <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4">
-                  <h3 className="font-semibold mb-2">Motorbike Coverage</h3>
+                  <h3 className="font-semibold font-heading mb-2">Motorbike Coverage</h3>
                   <p className="text-gray-700">
                     Most standard policies don't cover motorbike accidents. Look for "adventure sports" 
                     or specific motorbike coverage if you plan to rent a scooter.
                   </p>
                 </div>
                 <div className="bg-blue-50 border-l-4 border-blue-400 p-4">
-                  <h3 className="font-semibold mb-2">Pre-existing Conditions</h3>
+                  <h3 className="font-semibold font-heading mb-2">Pre-existing Conditions</h3>
                   <p className="text-gray-700">
                     Declare all pre-existing medical conditions. Some insurers offer coverage 
                     after a stability period (usually 90 days).
                   </p>
                 </div>
                 <div className="bg-green-50 border-l-4 border-green-400 p-4">
-                  <h3 className="font-semibold mb-2">Direct Billing Hospitals</h3>
+                  <h3 className="font-semibold font-heading mb-2">Direct Billing Hospitals</h3>
                   <p className="text-gray-700">
                     Choose insurers with direct billing agreements with Thai hospitals. 
                     This means you won't need to pay upfront for medical care.
@@ -305,31 +309,32 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
         </section>
 
         {/* Cross-Sell Section */}
-        <section className="py-12 bg-gray-50">
+        <section className="py-12 bg-surface-cream">
           <div className="container-custom">
-            <h2 className="text-3xl font-bold text-center mb-4">More Travel Essentials</h2>
+            <p className="section-label text-center">More Essentials</p>
+            <h2 className="text-3xl font-bold font-heading text-center mb-4">More Travel Essentials</h2>
             <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
               Complete your Thailand travel preparation with these helpful resources.
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-              <Link href="/esim/" className="bg-white rounded-lg shadow-sm p-6 text-center hover:shadow-lg transition-shadow block">
+              <Link href="/esim/" className="bg-white rounded-2xl shadow-md p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all block">
                 <div className="text-4xl mb-3"></div>
-                <h3 className="font-semibold text-gray-900 mb-2">Thailand eSIM</h3>
+                <h3 className="font-semibold font-heading text-gray-900 mb-2">Thailand eSIM</h3>
                 <p className="text-gray-600 text-sm">Stay connected with affordable data plans throughout Thailand.</p>
               </Link>
-              <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="bg-white rounded-lg shadow-sm p-6 text-center hover:shadow-lg transition-shadow block">
+              <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="bg-white rounded-2xl shadow-md p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all block">
                 <div className="text-4xl mb-3"></div>
-                <h3 className="font-semibold text-gray-900 mb-2">Book Hotels</h3>
+                <h3 className="font-semibold font-heading text-gray-900 mb-2">Book Hotels</h3>
                 <p className="text-gray-600 text-sm">Find the best hotel deals across Thailand on Trip.com.</p>
               </a>
-              <Link href="/activities/" className="bg-white rounded-lg shadow-sm p-6 text-center hover:shadow-lg transition-shadow block">
+              <Link href="/activities/" className="bg-white rounded-2xl shadow-md p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all block">
                 <div className="text-4xl mb-3"></div>
-                <h3 className="font-semibold text-gray-900 mb-2">Activities & Tours</h3>
+                <h3 className="font-semibold font-heading text-gray-900 mb-2">Activities & Tours</h3>
                 <p className="text-gray-600 text-sm">Discover the best tours, day trips, and experiences in Thailand.</p>
               </Link>
-              <Link href="/travel-security/" className="bg-white rounded-lg shadow-sm p-6 text-center hover:shadow-lg transition-shadow block">
+              <Link href="/travel-security/" className="bg-white rounded-2xl shadow-md p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all block">
                 <div className="text-4xl mb-3"></div>
-                <h3 className="font-semibold text-gray-900 mb-2">VPN & Security</h3>
+                <h3 className="font-semibold font-heading text-gray-900 mb-2">VPN & Security</h3>
                 <p className="text-gray-600 text-sm">Protect your online privacy while traveling in Thailand.</p>
               </Link>
             </div>
@@ -342,24 +347,25 @@ export default function TravelInsurancePage({ providers }: TravelInsurancePagePr
         {/* FAQ Section */}
         <section className="py-12">
           <div className="container-custom">
-            <h2 className="text-3xl font-bold text-center mb-8">Frequently Asked Questions</h2>
+            <p className="section-label text-center">FAQ</p>
+            <h2 className="text-3xl font-bold font-heading text-center mb-8">Frequently Asked Questions</h2>
             <div className="max-w-3xl mx-auto space-y-6">
-              <div className="bg-white rounded-lg p-6 shadow-sm">
-                <h3 className="font-semibold mb-2">Do I really need travel insurance for Thailand?</h3>
+              <div className="bg-white rounded-2xl p-6 shadow-md">
+                <h3 className="font-semibold font-heading mb-2">Do I really need travel insurance for Thailand?</h3>
                 <p className="text-gray-700">
                   While not legally required, travel insurance is highly recommended. Medical costs 
                   can be expensive for foreigners, and accidents (especially motorbike) are common.
                 </p>
               </div>
-              <div className="bg-white rounded-lg p-6 shadow-sm">
-                <h3 className="font-semibold mb-2">What's the best insurance for long-term travel?</h3>
+              <div className="bg-white rounded-2xl p-6 shadow-md">
+                <h3 className="font-semibold font-heading mb-2">What's the best insurance for long-term travel?</h3>
                 <p className="text-gray-700">
                   For stays over 30 days, nomad insurance like SafetyWing offers better value 
                   with monthly subscriptions instead of daily rates.
                 </p>
               </div>
-              <div className="bg-white rounded-lg p-6 shadow-sm">
-                <h3 className="font-semibold mb-2">Does travel insurance cover COVID-19?</h3>
+              <div className="bg-white rounded-2xl p-6 shadow-md">
+                <h3 className="font-semibold font-heading mb-2">Does travel insurance cover COVID-19?</h3>
                 <p className="text-gray-700">
                   Most modern travel insurance policies now include COVID-19 coverage for medical 
                   treatment, but check the specific terms for quarantine and cancellation coverage.

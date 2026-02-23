@@ -121,10 +121,10 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
   const renderActivitySection = (activities: Activity[], sectionTitle: string) => (
     activities.length > 0 && (
       <div className="mb-12">
-        <h2 className="text-2xl font-bold text-gray-900 mb-6">{sectionTitle}</h2>
+        <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">{sectionTitle}</h2>
         <div className="space-y-4">
           {activities.map((activity, index) => (
-            <div key={activity.slug} className="bg-white rounded-lg shadow-lg overflow-hidden">
+            <div key={activity.slug} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden">
               <div className="p-6">
                 <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4">
                   <div className="flex-1">
@@ -139,7 +139,7 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
                         </span>
                       )}
                     </div>
-                    <h3 className="text-xl font-bold text-gray-900 mb-2">{activity.name}</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{activity.name}</h3>
                     <div className="flex items-center gap-4 text-sm text-gray-600 mb-3">
                       {activity.rating > 0 && (
                         <span className="flex items-center gap-1">
@@ -171,7 +171,7 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
                       href={GYG_AFFILIATE}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-flex items-center px-6 py-2 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors text-sm"
+                      className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
                     >
                       View on GetYourGuide
                     </a>
@@ -194,13 +194,13 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero */}
-        <section className="bg-blue-900 text-white">
+        <section className="bg-surface-dark text-white">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center mt-4">
-              <h1 className="text-4xl lg:text-5xl font-bold mb-4">
+              <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
                 Best Diving & Snorkeling in {city.name.en}
               </h1>
               <p className="text-xl text-blue-100 max-w-3xl mx-auto">
@@ -214,24 +214,24 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
           <div className="container-custom">
             {/* Quick Stats */}
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
-              <div className="bg-white rounded-lg p-4 text-center shadow-sm">
-                <div className="text-3xl font-bold text-blue-700">{divingData.classes.length}</div>
+              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
+                <div className="text-3xl font-bold text-thailand-blue">{divingData.classes.length}</div>
                 <div className="text-sm text-gray-600">Activities</div>
               </div>
-              <div className="bg-white rounded-lg p-4 text-center shadow-sm">
-                <div className="text-3xl font-bold text-blue-700">
+              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
+                <div className="text-3xl font-bold text-thailand-blue">
                   {formatPrice(Math.min(...divingData.classes.map(c => c.priceFrom)), loc)}
                 </div>
                 <div className="text-sm text-gray-600">Starting From</div>
               </div>
-              <div className="bg-white rounded-lg p-4 text-center shadow-sm">
-                <div className="text-3xl font-bold text-blue-700">
+              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
+                <div className="text-3xl font-bold text-thailand-blue">
                   {Math.max(...divingData.classes.map(c => c.rating)).toFixed(1)}
                 </div>
                 <div className="text-sm text-gray-600">Top Rating</div>
               </div>
-              <div className="bg-white rounded-lg p-4 text-center shadow-sm">
-                <div className="text-3xl font-bold text-blue-700">
+              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
+                <div className="text-3xl font-bold text-thailand-blue">
                   {divingData.classes.reduce((sum, c) => sum + c.reviews, 0).toLocaleString()}
                 </div>
                 <div className="text-sm text-gray-600">Total Reviews</div>
@@ -239,8 +239,8 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
             </div>
 
             {/* Introduction */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">
                 Diving & Snorkeling in {city.name.en}
               </h2>
               <p className="text-gray-700 leading-relaxed">{divingData.intro.en}</p>
@@ -257,8 +257,8 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
             )}
 
             {/* Tips Section */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                 Tips for Diving & Snorkeling in {city.name.en}
               </h2>
               <ul className="space-y-3">
@@ -276,18 +276,18 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
             </div>
 
             {/* Book Section */}
-            <div className="bg-gradient-to-r from-blue-600 to-blue-900 rounded-lg p-8 mb-12 text-center text-white">
-              <h2 className="text-3xl font-bold mb-4">
+            <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
+              <h2 className="text-3xl font-bold font-heading mb-4">
                 Book Your Diving Adventure in {city.name.en}
               </h2>
               <p className="text-lg mb-6 opacity-90">
                 Compare prices and find the perfect underwater experience on these trusted platforms.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <a href={GYG_AFFILIATE} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-3 bg-white text-blue-700 font-semibold rounded-lg hover:bg-gray-100 transition-colors">
+                <a href={GYG_AFFILIATE} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-blue font-semibold rounded-xl hover:bg-gray-100 transition-colors">
                   Browse on GetYourGuide
                 </a>
-                <a href={KLOOK_AFFILIATE} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-lg hover:bg-white/30 transition-colors border border-white/40">
+                <a href={KLOOK_AFFILIATE} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40">
                   Browse on Klook
                 </a>
               </div>
@@ -297,12 +297,12 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
             </div>
 
             {/* FAQ */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">Frequently Asked Questions</h2>
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Frequently Asked Questions</h2>
               <div className="space-y-6">
                 {faqItems.map((item, i) => (
                   <div key={i}>
-                    <h3 className="text-lg font-semibold text-gray-900 mb-2">{item.q}</h3>
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">{item.q}</h3>
                     <p className="text-gray-700">{item.a}</p>
                   </div>
                 ))}
@@ -310,24 +310,24 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
             </div>
 
             {/* Explore More */}
-            <div className="bg-white rounded-lg shadow-lg p-8">
-              <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">
+            <div className="bg-white rounded-2xl shadow-md p-8">
+              <h3 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
                 Explore More of {city.name.en}
               </h3>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
+                <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Attractions</h4>
                     <p className="text-gray-600 text-sm">Top things to see</p>
                   </div>
                 </Link>
-                <Link href={`/city/${city.slug}/elephant-sanctuaries/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
+                <Link href={`/city/${city.slug}/elephant-sanctuaries/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Elephant Sanctuaries</h4>
                     <p className="text-gray-600 text-sm">Ethical elephant experiences</p>
                   </div>
                 </Link>
-                <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
+                <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Hotels</h4>
                     <p className="text-gray-600 text-sm">Where to stay</p>

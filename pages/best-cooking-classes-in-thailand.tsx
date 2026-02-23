@@ -151,13 +151,14 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero */}
-        <section className="bg-gradient-to-r from-orange-500 to-red-500 text-white">
+        <section className="bg-surface-dark text-white">
           <div className="container-custom py-12">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center mt-6">
-              <h1 className="text-4xl lg:text-5xl font-bold mb-4">
+              <p className="font-script text-thailand-gold text-lg mb-2">Thai Cuisine</p>
+              <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
                 Best Cooking Classes in Thailand
               </h1>
               <p className="text-xl max-w-3xl mx-auto opacity-90">
@@ -170,13 +171,14 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
         <section className="section-padding">
           <div className="container-custom">
             {/* Quick Comparison Table */}
-            <div className="bg-white rounded-lg shadow-lg overflow-hidden mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 p-6 pb-0">
+            <div className="bg-white rounded-2xl shadow-md overflow-hidden mb-12">
+              <p className="section-label px-6 pt-6">Compare</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 p-6 pb-0">
                 City Comparison at a Glance
               </h2>
               <div className="overflow-x-auto">
                 <table className="w-full text-left">
-                  <thead className="bg-gray-50">
+                  <thead className="bg-surface-cream">
                     <tr>
                       <th className="px-6 py-4 text-sm font-semibold text-gray-600">City</th>
                       <th className="px-6 py-4 text-sm font-semibold text-gray-600">Classes</th>
@@ -201,7 +203,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                         <td className="px-6 py-4">
                           <Link
                             href={`/city/${city.slug}/cooking-classes/`}
-                            className="text-sm font-semibold text-orange-500 hover:text-orange-600"
+                            className="text-sm font-semibold text-thailand-red hover:text-red-700"
                           >
                             View classes &rarr;
                           </Link>
@@ -215,12 +217,12 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
 
             {/* City Sections */}
             {cities.map((city, index) => (
-              <div key={city.slug} className="bg-white rounded-lg shadow-lg p-8 mb-8">
+              <div key={city.slug} className="bg-white rounded-2xl shadow-md hover:shadow-xl transition-shadow p-8 mb-8">
                 <div className="flex items-center gap-3 mb-4">
-                  <span className="text-lg font-bold text-white bg-thailand-blue w-8 h-8 rounded-full flex items-center justify-center">
+                  <span className="text-lg font-bold text-white bg-thailand-blue w-8 h-8 rounded-xl flex items-center justify-center">
                     {index + 1}
                   </span>
-                  <h2 className="text-2xl font-bold text-gray-900">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900">
                     <Link href={`/city/${city.slug}/cooking-classes/`} className="hover:text-thailand-blue">
                       Cooking Classes in {city.name.en}
                     </Link>
@@ -228,17 +230,17 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                 </div>
                 <p className="text-gray-700 mb-4">{city.highlight.en}</p>
                 <div className="grid grid-cols-3 gap-4 mb-6">
-                  <div className="bg-gray-50 rounded-lg p-3 text-center">
+                  <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">{city.classCount}+</div>
                     <div className="text-xs text-gray-600">Classes</div>
                   </div>
-                  <div className="bg-gray-50 rounded-lg p-3 text-center">
+                  <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">
                       {formatPrice(city.priceRange.from, loc)}+
                     </div>
                     <div className="text-xs text-gray-600">Starting Price</div>
                   </div>
-                  <div className="bg-gray-50 rounded-lg p-3 text-center">
+                  <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">{city.topRating}</div>
                     <div className="text-xs text-gray-600">Top Rating</div>
                   </div>
@@ -250,7 +252,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                     .filter(tc => tc.citySlug === city.slug)
                     .slice(0, 3)
                     .map((tc, i) => (
-                      <div key={tc.cls.slug} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                      <div key={tc.cls.slug} className="flex items-center justify-between p-3 bg-surface-cream rounded-xl">
                         <div className="flex items-center gap-3">
                           <span className="text-sm font-bold text-gray-400">#{i + 1}</span>
                           <div>
@@ -271,7 +273,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
 
                 <Link
                   href={`/city/${city.slug}/cooking-classes/`}
-                  className="inline-flex items-center text-orange-500 font-semibold hover:text-orange-600"
+                  className="inline-flex items-center text-thailand-red font-semibold hover:text-red-700"
                 >
                   See all {city.classCount} classes in {city.name.en} &rarr;
                 </Link>
@@ -279,8 +281,9 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
             ))}
 
             {/* CTA */}
-            <div className="bg-gradient-to-r from-orange-500 to-red-500 rounded-lg p-8 mb-12 text-center text-white">
-              <h2 className="text-3xl font-bold mb-4">Ready to Book Your Thai Cooking Class?</h2>
+            <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
+              <p className="font-script text-thailand-gold text-lg mb-2">Book Now</p>
+              <h2 className="text-3xl font-bold font-heading mb-4">Ready to Book Your Thai Cooking Class?</h2>
               <p className="text-lg mb-6 opacity-90">
                 Browse hundreds of cooking classes across Thailand on these trusted booking platforms.
               </p>
@@ -289,7 +292,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                   href={GYG_AFFILIATE}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-white text-orange-600 font-semibold rounded-lg hover:bg-gray-100 transition-colors"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-red font-semibold rounded-xl hover:bg-gray-100 transition-colors"
                 >
                   Browse on GetYourGuide
                 </a>
@@ -297,7 +300,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                   href={KLOOK_AFFILIATE}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-lg hover:bg-white/30 transition-colors border border-white/40"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40"
                 >
                   Browse on Klook
                 </a>
@@ -308,14 +311,15 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
             </div>
 
             {/* FAQ */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <p className="section-label">FAQ</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                 Frequently Asked Questions
               </h2>
               <div className="space-y-6">
                 {faqItems.map((item, i) => (
                   <div key={i}>
-                    <h3 className="text-lg font-semibold text-gray-900 mb-2">{item.q}</h3>
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">{item.q}</h3>
                     <p className="text-gray-700">{item.a}</p>
                   </div>
                 ))}

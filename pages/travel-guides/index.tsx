@@ -25,12 +25,13 @@ export default function TravelGuidesIndex() {
         description="Comprehensive travel guides for Thailand including weather, transportation, culture, and travel tips."
       />
 
-      <div className="bg-gray-50 min-h-screen">
-        <section className="bg-white shadow-sm">
+      <div className="bg-surface-cream min-h-screen">
+        <section className="bg-white">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center">
-              <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+              <p className="font-script text-thailand-gold mb-2">Your Journey</p>
+              <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
                 Thailand Travel Guides
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
@@ -45,9 +46,9 @@ export default function TravelGuidesIndex() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {guides.map((guide) => (
                 <Link key={guide.href} href={guide.href} className="group">
-                  <div className="bg-white rounded-lg shadow-lg p-8 hover:shadow-xl transition-shadow">
+                  <div className="bg-white rounded-2xl shadow-md p-8 hover:shadow-xl hover:-translate-y-1 transition-all">
                     <div className="text-4xl mb-4">{guide.icon}</div>
-                    <h2 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-thailand-blue transition-colors">
+                    <h2 className="text-xl font-bold font-heading text-gray-900 mb-3 group-hover:text-thailand-blue transition-colors">
                       {guide.title}
                     </h2>
                     <p className="text-gray-600">
@@ -61,31 +62,32 @@ export default function TravelGuidesIndex() {
         </section>
 
         {/* Book Your Trip - Cross-sell Section */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark py-12">
+        <section className="bg-surface-dark py-12">
           <div className="container-custom">
-            <h2 className="text-3xl font-bold text-white text-center mb-3">Book Your Trip</h2>
+            <p className="font-script text-thailand-gold text-center mb-2">Plan Ahead</p>
+            <h2 className="text-3xl font-bold font-heading text-white text-center mb-3">Book Your Trip</h2>
             <p className="text-white/80 text-center mb-8 max-w-2xl mx-auto">
               Ready to go? Book everything you need for your Thailand adventure
             </p>
             <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
               <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="group">
-                <div className="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
+                <div className="bg-white rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-3"></div>
-                  <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Hotels & Resorts</h3>
+                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">Hotels & Resorts</h3>
                   <p className="text-gray-600 text-sm">Find great deals on Thailand accommodation on Trip.com</p>
                 </div>
               </a>
               <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer" className="group">
-                <div className="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
+                <div className="bg-white rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-3"></div>
-                  <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Transport</h3>
+                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">Transport</h3>
                   <p className="text-gray-600 text-sm">Book trains, buses, ferries, and flights via 12Go Asia</p>
                 </div>
               </a>
               <Link href="/activities/" className="group">
-                <div className="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow h-full">
+                <div className="bg-white rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-3"></div>
-                  <h3 className="font-bold text-lg mb-2 group-hover:text-thailand-blue transition-colors">Activities & Tours</h3>
+                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">Activities & Tours</h3>
                   <p className="text-gray-600 text-sm">Discover the best tours, excursions, and experiences</p>
                 </div>
               </Link>

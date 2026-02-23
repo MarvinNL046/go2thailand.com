@@ -66,12 +66,13 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white">
+        <section className="bg-surface-dark text-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
             <div className="text-center">
-              <h1 className="text-4xl lg:text-6xl font-bold mb-6">
+              <p className="font-script text-thailand-gold mb-2">Visa Info</p>
+              <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
                 Thailand Visa Guide 2026
               </h1>
               <p className="text-xl lg:text-2xl mb-4 max-w-3xl mx-auto opacity-90">
@@ -98,8 +99,8 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
         {/* Quick Summary */}
         <section className="bg-white border-b">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-            <div className="bg-green-50 border border-green-200 rounded-lg p-6">
-              <h2 className="text-lg font-bold text-green-800 mb-2">
+            <div className="bg-green-50 border-0 rounded-2xl p-6">
+              <h2 className="text-lg font-bold font-heading text-green-800 mb-2">
                 {lang === 'nl' ? 'Goed nieuws voor Nederlandse reizigers!' : 'Good news for most travelers!'}
               </h2>
               <p className="text-green-700">
@@ -120,7 +121,7 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
 
               return (
                 <div key={category.key} className="mb-12">
-                  <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                     {category.label[lang]}
                   </h2>
                   <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -128,15 +129,15 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
                       <Link
                         key={visa.id}
                         href={`/visa/${visa.slug}/`}
-                        className="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow p-6 group"
+                        className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-6 group"
                       >
                         <div className="flex items-start justify-between mb-4">
                           <span className="text-3xl">{visa.icon}</span>
-                          <span className="bg-indigo-100 text-indigo-700 px-2 py-1 rounded text-xs font-medium">
+                          <span className="bg-thailand-blue/10 text-thailand-blue px-2 py-1 rounded-full text-xs font-medium">
                             {visa.cost}
                           </span>
                         </div>
-                        <h3 className="text-lg font-bold text-gray-900 group-hover:text-indigo-600 transition-colors mb-2">
+                        <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
                           {visa.title[lang]}
                         </h3>
                         <div className="flex items-center text-sm text-gray-600">
@@ -154,7 +155,7 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
         {/* SEO Content */}
         <section className="py-12 bg-white">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
               {lang === 'nl' ? 'Thailand Visum Overzicht 2026' : 'Thailand Visa Overview 2026'}
             </h2>
             <div className="prose prose-lg max-w-none text-gray-700">
@@ -168,7 +169,7 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
                 Retirees aged 50+ can apply for a retirement visa (Non-Immigrant O-A), while the Thailand Privilege Card
                 (formerly Elite Visa) offers long-term residence from 5 to 20 years.
               </p>
-              <h3>Key Changes in 2024-2026</h3>
+              <h3 className="font-heading">Key Changes in 2024-2026</h3>
               <ul>
                 <li>Visa-free entry extended from 30 to 60 days</li>
                 <li>New Digital Nomad Visa (DTV) for remote workers</li>
@@ -181,11 +182,11 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
         </section>
 
         {/* Affiliate Banner */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold">
+        <section className="bg-surface-dark">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="flex flex-col md:flex-row items-center justify-between gap-6">
               <div className="text-white">
-                <h2 className="text-2xl font-bold mb-1">
+                <h2 className="text-2xl font-bold font-heading mb-1">
                   {lang === 'nl' ? 'Plan Je Thailand Reis' : 'Plan Your Thailand Trip'}
                 </h2>
                 <p className="opacity-90 text-sm">

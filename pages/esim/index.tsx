@@ -41,12 +41,13 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         <meta name="keywords" content="Thailand eSIM, best eSIM Thailand, Thailand travel SIM, mobile data Thailand, eSIM providers Thailand, Thailand internet" />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold text-white">
+        <section className="bg-surface-dark text-white">
           <div className="container-custom py-16">
             <div className="text-center">
-              <h1 className="text-4xl lg:text-6xl font-bold mb-6">
+              <p className="font-script text-thailand-gold mb-2">Stay Connected</p>
+              <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
                 Best eSIM for Thailand
               </h1>
               <p className="text-xl lg:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
@@ -77,7 +78,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
             ]} />
             
             {/* Affiliate Notice */}
-            <div className="bg-orange-50 border border-orange-200 rounded-lg mt-4">
+            <div className="bg-orange-50 border-0 rounded-2xl mt-4">
               <div className="px-4 py-3">
                 <p className="text-sm text-center text-orange-800">
                   This page contains affiliate links. We may earn a commission at no extra cost to you when you purchase through our links.
@@ -91,33 +92,34 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         <section className="bg-white section-padding">
           <div className="container-custom">
             <div className="max-w-4xl mx-auto">
-              <h2 className="text-3xl font-bold text-gray-900 mb-6 text-center">
+              <p className="section-label text-center">Why eSIM?</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6 text-center">
                 Why Use an eSIM in Thailand?
               </h2>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
                 <div className="text-center">
-                  <div className="w-16 h-16 bg-thailand-blue bg-opacity-10 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <div className="w-16 h-16 bg-thailand-blue bg-opacity-10 rounded-xl flex items-center justify-center mx-auto mb-4">
                     <span className="text-2xl"></span>
                   </div>
-                  <h3 className="font-semibold mb-2">Activate Before You Fly</h3>
+                  <h3 className="font-semibold font-heading mb-2">Activate Before You Fly</h3>
                   <p className="text-gray-600 text-sm">
                     Set up your eSIM at home and land in Thailand with data ready to go
                   </p>
                 </div>
                 <div className="text-center">
-                  <div className="w-16 h-16 bg-thailand-gold bg-opacity-10 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <div className="w-16 h-16 bg-thailand-gold bg-opacity-10 rounded-xl flex items-center justify-center mx-auto mb-4">
                     <span className="text-2xl"></span>
                   </div>
-                  <h3 className="font-semibold mb-2">Save on Roaming</h3>
+                  <h3 className="font-semibold font-heading mb-2">Save on Roaming</h3>
                   <p className="text-gray-600 text-sm">
                     Avoid expensive roaming charges with affordable local data rates
                   </p>
                 </div>
                 <div className="text-center">
-                  <div className="w-16 h-16 bg-thailand-red bg-opacity-10 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <div className="w-16 h-16 bg-thailand-red bg-opacity-10 rounded-xl flex items-center justify-center mx-auto mb-4">
                     <span className="text-2xl"></span>
                   </div>
-                  <h3 className="font-semibold mb-2">Keep Your Number</h3>
+                  <h3 className="font-semibold font-heading mb-2">Keep Your Number</h3>
                   <p className="text-gray-600 text-sm">
                     Use data on eSIM while keeping your home number active for calls
                   </p>
@@ -130,19 +132,20 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         {/* Providers Grid */}
         <section className="section-padding">
           <div className="container-custom">
-            <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-8 text-center">
+            <p className="section-label text-center">Providers</p>
+            <h2 className="text-3xl lg:text-4xl font-bold font-heading text-gray-900 mb-8 text-center">
               Compare Thailand eSIM Providers
             </h2>
             
             {/* First batch of providers */}
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
               {providers.slice(0, 4).map((provider) => (
-                <div key={provider.id} className="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div key={provider.id} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all overflow-hidden">
                   <div className="p-6">
                     {/* Header */}
                     <div className="flex items-start justify-between mb-6">
                       <div>
-                        <h3 className="text-2xl font-bold text-gray-900 mb-2">
+                        <h3 className="text-2xl font-bold font-heading text-gray-900 mb-2">
                           {provider.name}
                         </h3>
                         <div className="flex items-center gap-2 mb-3">
@@ -184,7 +187,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                       <h4 className="font-semibold mb-3">Popular Plans:</h4>
                       <div className="space-y-2">
                         {provider.plans.slice(0, 3).map((plan, index) => (
-                          <div key={index} className="flex items-center justify-between bg-gray-50 p-3 rounded-lg">
+                          <div key={index} className="flex items-center justify-between bg-surface-cream p-3 rounded-xl">
                             <div className="flex items-center gap-3">
                               <span className="text-sm font-medium">{plan.duration}</span>
                               <span className="text-sm text-gray-600">{plan.data}</span>
@@ -223,20 +226,20 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
 
                     {/* CTA Buttons */}
                     <div className="flex gap-3">
-                      <a 
+                      <a
                         href={provider.affiliateLink}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="flex-1 bg-thailand-blue text-white text-center py-3 rounded-lg font-semibold hover:bg-thailand-blue-dark transition-colors"
+                        className="flex-1 bg-thailand-blue text-white text-center py-3 rounded-xl font-semibold hover:bg-thailand-blue-dark transition-colors"
                       >
                         Get {provider.name} eSIM →
                       </a>
                       {provider.mobileAppLink && (
-                        <a 
+                        <a
                           href={provider.mobileAppLink}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="px-4 py-3 bg-gray-800 text-white rounded-lg font-semibold hover:bg-gray-700 transition-colors flex items-center gap-2"
+                          className="px-4 py-3 bg-gray-800 text-white rounded-xl font-semibold hover:bg-gray-700 transition-colors flex items-center gap-2"
                           title="Download Mobile App"
                         >
                           App
@@ -252,7 +255,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                             <p className="font-semibold mb-1">Scan with your phone</p>
                             <p className="text-xs">Quick access to {provider.name}</p>
                           </div>
-                          <div className="relative w-32 h-32 bg-white rounded-lg overflow-hidden shadow-md border border-gray-200">
+                          <div className="relative w-32 h-32 bg-white rounded-xl overflow-hidden shadow-md border-0">
                             <Image
                               src={provider.qrCodeImage}
                               alt={`${provider.name} QR Code`}
@@ -274,12 +277,12 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
             {providers.length > 4 && (
               <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
                 {providers.slice(4).map((provider) => (
-                  <div key={provider.id} className="bg-white rounded-lg shadow-lg overflow-hidden">
+                  <div key={provider.id} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all overflow-hidden">
                     <div className="p-6">
                       {/* Header */}
                       <div className="flex items-start justify-between mb-6">
                         <div>
-                          <h3 className="text-2xl font-bold text-gray-900 mb-2">
+                          <h3 className="text-2xl font-bold font-heading text-gray-900 mb-2">
                             {provider.name}
                           </h3>
                           <div className="flex items-center gap-2 mb-3">
@@ -321,7 +324,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                         <h4 className="font-semibold mb-3">Popular Plans:</h4>
                         <div className="space-y-2">
                           {provider.plans.slice(0, 3).map((plan, index) => (
-                            <div key={index} className="flex items-center justify-between bg-gray-50 p-3 rounded-lg">
+                            <div key={index} className="flex items-center justify-between bg-surface-cream p-3 rounded-xl">
                               <div className="flex items-center gap-3">
                                 <span className="text-sm font-medium">{plan.duration}</span>
                                 <span className="text-sm text-gray-600">{plan.data}</span>
@@ -359,11 +362,11 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                       </div>
 
                       {/* CTA Button */}
-                      <a 
+                      <a
                         href={provider.affiliateLink}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="block w-full bg-thailand-blue text-white text-center py-3 rounded-lg font-semibold hover:bg-thailand-blue-dark transition-colors"
+                        className="block w-full bg-thailand-blue text-white text-center py-3 rounded-xl font-semibold hover:bg-thailand-blue-dark transition-colors"
                       >
                         Get {provider.name} eSIM →
                       </a>
@@ -376,13 +379,14 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         </section>
 
         {/* Quick Comparison Table */}
-        <section className="bg-gray-100 section-padding">
+        <section className="bg-surface-cream section-padding">
           <div className="container-custom">
             <div className="max-w-5xl mx-auto">
-              <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+              <p className="section-label text-center">Comparison</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                 Quick Comparison: Airalo vs Yesim vs Saily
               </h2>
-              <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+              <div className="bg-white rounded-2xl shadow-md overflow-hidden">
                 <div className="overflow-x-auto">
                   <table className="w-full">
                     <thead className="bg-thailand-blue text-white">
@@ -440,7 +444,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                   </table>
                 </div>
                 <div className="p-6 bg-thailand-blue-50">
-                  <h3 className="font-semibold text-thailand-blue-900 mb-3">Our Recommendation:</h3>
+                  <h3 className="font-semibold font-heading text-thailand-blue-900 mb-3">Our Recommendation:</h3>
                   <div className="space-y-2 text-sm">
                     <p className="flex items-start">
                       <span className="text-green-600 mr-2">✓</span>
@@ -465,42 +469,43 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         <section className="bg-white section-padding">
           <div className="container-custom">
             <div className="max-w-4xl mx-auto">
-              <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+              <p className="section-label text-center">Installation</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                 How to Install Your Thailand eSIM
               </h2>
               <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
                 <div className="text-center">
-                  <div className="w-16 h-16 bg-thailand-blue text-white rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-xl">
+                  <div className="w-16 h-16 bg-thailand-blue text-white rounded-xl flex items-center justify-center mx-auto mb-4 font-bold text-xl">
                     1
                   </div>
-                  <h3 className="font-semibold mb-2">Check Compatibility</h3>
+                  <h3 className="font-semibold font-heading mb-2">Check Compatibility</h3>
                   <p className="text-gray-600 text-sm">
                     Ensure your phone supports eSIM (iPhone XS+, most new Android phones)
                   </p>
                 </div>
                 <div className="text-center">
-                  <div className="w-16 h-16 bg-thailand-blue text-white rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-xl">
+                  <div className="w-16 h-16 bg-thailand-blue text-white rounded-xl flex items-center justify-center mx-auto mb-4 font-bold text-xl">
                     2
                   </div>
-                  <h3 className="font-semibold mb-2">Purchase Plan</h3>
+                  <h3 className="font-semibold font-heading mb-2">Purchase Plan</h3>
                   <p className="text-gray-600 text-sm">
                     Choose your data plan and complete purchase online
                   </p>
                 </div>
                 <div className="text-center">
-                  <div className="w-16 h-16 bg-thailand-blue text-white rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-xl">
+                  <div className="w-16 h-16 bg-thailand-blue text-white rounded-xl flex items-center justify-center mx-auto mb-4 font-bold text-xl">
                     3
                   </div>
-                  <h3 className="font-semibold mb-2">Scan QR Code</h3>
+                  <h3 className="font-semibold font-heading mb-2">Scan QR Code</h3>
                   <p className="text-gray-600 text-sm">
                     Scan the QR code from your email to install the eSIM
                   </p>
                 </div>
                 <div className="text-center">
-                  <div className="w-16 h-16 bg-thailand-blue text-white rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-xl">
+                  <div className="w-16 h-16 bg-thailand-blue text-white rounded-xl flex items-center justify-center mx-auto mb-4 font-bold text-xl">
                     4
                   </div>
-                  <h3 className="font-semibold mb-2">Activate in Thailand</h3>
+                  <h3 className="font-semibold font-heading mb-2">Activate in Thailand</h3>
                   <p className="text-gray-600 text-sm">
                     Turn on data roaming when you arrive and you're connected!
                   </p>
@@ -514,30 +519,31 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         <section className="section-padding">
           <div className="container-custom">
             <div className="max-w-3xl mx-auto">
-              <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+              <p className="section-label text-center">FAQ</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                 Frequently Asked Questions
               </h2>
               <div className="space-y-6">
-                <div className="bg-white rounded-lg shadow-md p-6">
-                  <h3 className="font-semibold text-lg mb-2">Do I need to remove my physical SIM?</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="font-semibold font-heading text-lg mb-2">Do I need to remove my physical SIM?</h3>
                   <p className="text-gray-600">
                     No! eSIM works alongside your physical SIM. You can use your eSIM for data in Thailand while keeping your home number active for calls and texts.
                   </p>
                 </div>
-                <div className="bg-white rounded-lg shadow-md p-6">
-                  <h3 className="font-semibold text-lg mb-2">When should I install my eSIM?</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="font-semibold font-heading text-lg mb-2">When should I install my eSIM?</h3>
                   <p className="text-gray-600">
                     Install your eSIM before you travel (at home with WiFi). You can install it days or even weeks before your trip, then activate it when you land in Thailand.
                   </p>
                 </div>
-                <div className="bg-white rounded-lg shadow-md p-6">
-                  <h3 className="font-semibold text-lg mb-2">Can I top up my data if I run out?</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="font-semibold font-heading text-lg mb-2">Can I top up my data if I run out?</h3>
                   <p className="text-gray-600">
                     Yes! Most providers allow you to top up your data through their app or website. Some eSIMs automatically renew, while others require manual top-up.
                   </p>
                 </div>
-                <div className="bg-white rounded-lg shadow-md p-6">
-                  <h3 className="font-semibold text-lg mb-2">Which Thai networks do eSIMs use?</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="font-semibold font-heading text-lg mb-2">Which Thai networks do eSIMs use?</h3>
                   <p className="text-gray-600">
                     Most eSIMs connect to major Thai networks like AIS, TrueMove, or dtac. You'll get the same coverage and speeds as local SIM cards.
                   </p>
@@ -548,19 +554,20 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         </section>
 
         {/* CTA Section */}
-        <section className="bg-gradient-to-r from-thailand-gold to-thailand-blue text-white section-padding">
+        <section className="bg-surface-dark text-white section-padding">
           <div className="container-custom text-center">
-            <h2 className="text-3xl lg:text-4xl font-bold mb-6">
+            <p className="font-script text-thailand-gold mb-2">Explore More</p>
+            <h2 className="text-3xl lg:text-4xl font-bold font-heading mb-6">
               Ready to Explore Thailand?
             </h2>
             <p className="text-xl mb-8 max-w-2xl mx-auto opacity-90">
               Stay connected while discovering amazing destinations across the Kingdom
             </p>
             <div className="flex flex-wrap justify-center gap-4">
-              <Link href="/city/" className="bg-white text-thailand-blue px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+              <Link href="/city/" className="bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-red-700 transition-colors">
                 Explore Cities
               </Link>
-              <Link href="/food/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
+              <Link href="/food/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
                 Thai Food Guide
               </Link>
             </div>

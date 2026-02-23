@@ -67,13 +67,14 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-thailand-red to-thailand-red-600 text-white">
+        <section className="bg-surface-dark text-white">
           <div className="container-custom py-16">
             <div className="text-center max-w-4xl mx-auto">
-              <h1 className="text-4xl lg:text-6xl font-bold mb-6">
-                Top 10 Restaurant <span className="text-yellow-300">Guides</span>
+              <span className="font-script text-thailand-gold text-lg mb-2 block">Curated Guides</span>
+              <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
+                Top 10 Restaurant Guides
               </h1>
               <p className="text-xl lg:text-2xl mb-8 opacity-90">
                 Discover where locals actually eat. Current prices, insider tips, and authentic flavors across Thailand.
@@ -102,32 +103,32 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
         </section>
 
         {/* Stats Section */}
-        <section className="bg-white py-12">
+        <section className="bg-surface-dark py-12">
           <div className="container-custom">
             <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center">
               <div>
-                <div className="text-3xl lg:text-4xl font-bold text-thailand-red mb-2">
+                <div className="text-3xl lg:text-4xl font-bold font-heading text-white mb-2">
                   {availableGuides.length}
                 </div>
-                <div className="text-gray-600">City Guides</div>
+                <div className="text-gray-400">City Guides</div>
               </div>
               <div>
-                <div className="text-3xl lg:text-4xl font-bold text-thailand-red mb-2">
+                <div className="text-3xl lg:text-4xl font-bold font-heading text-white mb-2">
                   {availableGuides.reduce((sum, guide) => sum + guide.item_count, 0)}+
                 </div>
-                <div className="text-gray-600">Restaurants</div>
+                <div className="text-gray-400">Restaurants</div>
               </div>
               <div>
-                <div className="text-3xl lg:text-4xl font-bold text-thailand-red mb-2">
+                <div className="text-3xl lg:text-4xl font-bold font-heading text-white mb-2">
                   {availableGuides.filter(guide => guide.has_current_data).length}
                 </div>
-                <div className="text-gray-600">With Current Data</div>
+                <div className="text-gray-400">With Current Data</div>
               </div>
               <div>
-                <div className="text-3xl lg:text-4xl font-bold text-thailand-red mb-2">
+                <div className="text-3xl lg:text-4xl font-bold font-heading text-white mb-2">
                   24/7
                 </div>
-                <div className="text-gray-600">Updated Info</div>
+                <div className="text-gray-400">Updated Info</div>
               </div>
             </div>
           </div>
@@ -138,7 +139,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
           <section className="section-padding bg-white">
             <div className="container-custom">
               <div className="text-center mb-12">
-                <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+                <h2 className="text-3xl lg:text-4xl font-bold font-heading text-gray-900 mb-4">
                   Featured Restaurant Guides
                 </h2>
                 <p className="text-xl text-gray-600 max-w-2xl mx-auto">
@@ -149,7 +150,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-8">
                 {featuredGuides.map((guide) => (
                   <Link key={guide.city.slug} href={`/city/${guide.city.slug}/top-10-restaurants/`} className="group">
-                    <div className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300 transform group-hover:scale-105 border border-gray-100">
+                    <div className="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition-all duration-300">
                       <div className="relative h-48">
                         <Image
                           src={guide.city.image}
@@ -173,7 +174,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
                       </div>
                       
                       <div className="p-6">
-                        <h3 className="text-xl font-bold text-gray-900 mb-2 group-hover:text-thailand-red transition-colors">
+                        <h3 className="text-xl font-bold font-heading text-gray-900 mb-2 group-hover:text-thailand-red transition-colors">
                           {guide.city.name.en} Restaurants
                         </h3>
                         <p className="text-gray-600 mb-4 line-clamp-2">
@@ -187,7 +188,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
                           )}
                         </div>
                         
-                        <div className="bg-thailand-red text-white px-4 py-2 rounded-lg font-medium text-center group-hover:bg-thailand-red-600 transition-colors">
+                        <div className="bg-thailand-red text-white px-4 py-2 rounded-xl font-medium text-center group-hover:bg-thailand-red-600 transition-colors">
                           View Restaurant Guide →
                         </div>
                       </div>
@@ -204,7 +205,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
         )}
 
         {/* Trip.com Bundle Widget */}
-        <section className="py-8 bg-thailand-red-50">
+        <section className="py-8 bg-surface-cream">
           <div className="container-custom">
             <TripcomWidget 
               city="Thailand"
@@ -216,10 +217,10 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
         </section>
 
         {/* All Guides */}
-        <section className="section-padding bg-gray-50">
+        <section className="section-padding bg-surface-cream">
           <div className="container-custom">
             <div className="text-center mb-12">
-              <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+              <h2 className="text-3xl lg:text-4xl font-bold font-heading text-gray-900 mb-4">
                 All Restaurant Guides
               </h2>
               <p className="text-xl text-gray-600 max-w-2xl mx-auto">
@@ -230,14 +231,14 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {availableGuides.map((guide) => (
                 <Link key={guide.city.slug} href={`/city/${guide.city.slug}/top-10-restaurants/`} className="group">
-                  <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow group border border-gray-200">
+                  <div className="bg-white rounded-2xl shadow-sm overflow-hidden hover:shadow-lg transition-shadow group">
                     <div className="p-6">
                       <div className="flex items-start justify-between mb-3">
                         <h3 className="text-lg font-semibold text-gray-900 group-hover:text-thailand-red transition-colors">
                           {guide.city.name.en}
                         </h3>
                         {guide.has_current_data && (
-                          <span className="bg-green-100 text-green-700 px-2 py-1 rounded text-xs font-medium">
+                          <span className="bg-green-100 text-green-700 px-2 py-1 rounded-full text-xs font-medium">
                             Current Data
                           </span>
                         )}
@@ -262,10 +263,10 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
         </section>
 
         {/* Book a Food Experience - Affiliate CTA */}
-        <section className="py-12 bg-gradient-to-br from-orange-50 to-orange-100">
+        <section className="py-12 bg-surface-cream">
           <div className="container-custom">
             <div className="text-center max-w-2xl mx-auto">
-              <h3 className="text-2xl font-bold text-gray-900 mb-3">
+              <h3 className="text-2xl font-bold font-heading text-gray-900 mb-3">
                 Book a Food Experience in Thailand
               </h3>
               <p className="text-gray-600 mb-6">
@@ -276,7 +277,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
                   href="https://klook.tpo.lv/aq6ZFxvc"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block bg-orange-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-orange-600 transition-colors"
+                  className="inline-block bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors"
                 >
                   Cooking Classes on Klook
                 </a>
@@ -284,7 +285,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
                   href="https://getyourguide.tpo.lv/GuAFfGGK"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block bg-blue-700 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-800 transition-colors"
+                  className="inline-block bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue-600 transition-colors"
                 >
                   Food Tours on GetYourGuide
                 </a>
@@ -300,7 +301,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
         <section className="section-padding bg-white">
           <div className="container-custom">
             <div className="text-center max-w-2xl mx-auto">
-              <h3 className="text-2xl font-bold text-gray-900 mb-4">
+              <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
                 Want More Thailand Travel Guides?
               </h3>
               <p className="text-gray-600 mb-8">
@@ -308,10 +309,10 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
               </p>
 
               <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
-                <Link href="/top-10/hotels/" className="bg-thailand-blue text-white px-6 py-3 rounded-lg font-semibold hover:bg-thailand-blue-600 transition-colors">
+                <Link href="/top-10/hotels/" className="bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue-600 transition-colors">
                   Hotel Guides
                 </Link>
-                <Link href="/top-10/attractions/" className="bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors">
+                <Link href="/top-10/attractions/" className="bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue-600 transition-colors">
                   Attraction Guides
                 </Link>
               </div>

@@ -141,12 +141,12 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
         </Head>
       )}
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
 
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-thailand-blue to-blue-700 text-white py-16">
+        <section className="bg-surface-dark text-white py-16">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h1 className="text-4xl lg:text-5xl font-bold mb-4">
+            <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
               {t.heroH1}
             </h1>
             <p className="text-xl lg:text-2xl opacity-90 max-w-3xl mx-auto mb-3">
@@ -169,7 +169,7 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
         <section className="py-12">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="mb-8">
-              <h2 className="text-3xl font-bold text-gray-900 mb-2">
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-2">
                 {t.popularComparisons}
               </h2>
               <p className="text-gray-600">{t.mostSearched}</p>
@@ -180,7 +180,7 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
                 <Link
                   key={comparison.slug}
                   href={`/compare/${comparison.slug}/`}
-                  className="block bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow p-6 border-l-4 border-thailand-blue"
+                  className="block bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-6 border-l-4 border-thailand-red"
                 >
                   <div className="flex items-center justify-between">
                     <span className="font-bold text-lg text-gray-900">
@@ -194,7 +194,7 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
                     </span>
                   </div>
                   <div className="mt-2">
-                    <span className="inline-block text-xs font-medium text-thailand-blue bg-blue-50 px-2 py-1 rounded-full capitalize">
+                    <span className="inline-block text-xs font-medium text-thailand-blue bg-surface-cream px-2 py-1 rounded-full capitalize">
                       {comparison.type === 'island' ? t.islandComparison : t.cityComparison}
                     </span>
                   </div>
@@ -208,7 +208,7 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
         <section className="py-12 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="mb-8">
-              <h2 className="text-3xl font-bold text-gray-900 mb-2">
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-2">
                 {t.islandComparisons}
               </h2>
               <p className="text-gray-600">{t.islandCount(islandComparisons.length)}</p>
@@ -219,7 +219,7 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
                 <Link
                   key={comparison.slug}
                   href={`/compare/${comparison.slug}/`}
-                  className="block bg-gray-50 rounded-lg shadow-sm hover:shadow-md hover:bg-white transition-all p-4 border border-gray-100"
+                  className="block bg-surface-cream rounded-2xl shadow-sm hover:shadow-md hover:bg-white transition-all p-4 border-0"
                 >
                   <div className="flex items-center justify-between text-sm">
                     <span className="font-medium text-gray-900 truncate">
@@ -237,10 +237,10 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
         </section>
 
         {/* City Comparisons */}
-        <section className="py-12 bg-gray-50">
+        <section className="py-12 bg-surface-cream">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="mb-8">
-              <h2 className="text-3xl font-bold text-gray-900 mb-2">
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-2">
                 {t.cityComparisons}
               </h2>
               <p className="text-gray-600">{t.cityCount(cityComparisons.length)}</p>
@@ -251,7 +251,7 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
                 <Link
                   key={comparison.slug}
                   href={`/compare/${comparison.slug}/`}
-                  className="block bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-4 border border-gray-100"
+                  className="block bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-4 border-0"
                 >
                   <div className="flex items-center justify-between text-sm">
                     <span className="font-medium text-gray-900 truncate">
@@ -271,25 +271,25 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
         {/* SEO Content */}
         <section className="py-12 bg-white">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
               {t.howToChoose}
             </h2>
             <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
               <p>{t.howToChooseP1}</p>
-              <h3 className="text-xl font-semibold text-gray-900 mt-6 mb-3">{t.islandVsIsland}</h3>
+              <h3 className="text-xl font-semibold font-heading text-gray-900 mt-6 mb-3">{t.islandVsIsland}</h3>
               <p>{t.islandVsIslandP}</p>
-              <h3 className="text-xl font-semibold text-gray-900 mt-6 mb-3">{t.cityVsCity}</h3>
+              <h3 className="text-xl font-semibold font-heading text-gray-900 mt-6 mb-3">{t.cityVsCity}</h3>
               <p>{t.cityVsCityP}</p>
             </div>
           </div>
         </section>
 
         {/* Affiliate Banner */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold">
+        <section className="bg-surface-dark">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="flex flex-col md:flex-row items-center justify-between gap-6">
               <div className="text-white">
-                <h2 className="text-2xl font-bold mb-1">{t.readyToBook}</h2>
+                <h2 className="text-2xl font-bold font-heading mb-1">{t.readyToBook}</h2>
                 <p className="opacity-90 text-sm">{t.findBestDeals}</p>
               </div>
               <div className="flex flex-wrap justify-center gap-3">

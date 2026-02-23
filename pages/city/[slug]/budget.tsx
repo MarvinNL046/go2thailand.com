@@ -125,13 +125,13 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
         <section className="bg-white shadow-sm">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center">
-              <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+              <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
                 How Much Does {city.name.en} Cost?
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
@@ -148,19 +148,19 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
 
                 {/* Budget Overview Cards */}
                 <div>
-                  <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                     Daily Budget Overview
                   </h2>
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                     {/* Budget Card */}
-                    <div className="bg-gradient-to-br from-green-50 to-emerald-50 border-2 border-green-200 rounded-xl p-6 hover:shadow-lg transition-shadow">
+                    <div className="bg-white border-0 rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                       <div className="text-center mb-4">
-                        <div className="inline-flex items-center justify-center w-16 h-16 bg-green-500 rounded-full mb-3">
+                        <div className="inline-flex items-center justify-center w-16 h-16 bg-green-500 rounded-xl mb-3">
                           <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                           </svg>
                         </div>
-                        <h3 className="text-xl font-bold text-green-800">Budget</h3>
+                        <h3 className="text-xl font-bold font-heading text-green-800">Budget</h3>
                         <p className="text-3xl font-bold text-green-600 mt-2">
                           ${budgetGuide.budget.min}-${budgetGuide.budget.max}
                         </p>
@@ -172,14 +172,14 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                     </div>
 
                     {/* Mid-Range Card */}
-                    <div className="bg-gradient-to-br from-blue-50 to-indigo-50 border-2 border-blue-200 rounded-xl p-6 hover:shadow-lg transition-shadow">
+                    <div className="bg-white border-0 rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                       <div className="text-center mb-4">
-                        <div className="inline-flex items-center justify-center w-16 h-16 bg-blue-500 rounded-full mb-3">
+                        <div className="inline-flex items-center justify-center w-16 h-16 bg-blue-500 rounded-xl mb-3">
                           <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" />
                           </svg>
                         </div>
-                        <h3 className="text-xl font-bold text-blue-800">Mid-Range</h3>
+                        <h3 className="text-xl font-bold font-heading text-blue-800">Mid-Range</h3>
                         <p className="text-3xl font-bold text-blue-600 mt-2">
                           ${budgetGuide.midrange.min}-${budgetGuide.midrange.max}
                         </p>
@@ -191,14 +191,14 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                     </div>
 
                     {/* Luxury Card */}
-                    <div className="bg-gradient-to-br from-purple-50 to-amber-50 border-2 border-purple-200 rounded-xl p-6 hover:shadow-lg transition-shadow">
+                    <div className="bg-white border-0 rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                       <div className="text-center mb-4">
-                        <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br from-purple-500 to-amber-500 rounded-full mb-3">
+                        <div className="inline-flex items-center justify-center w-16 h-16 bg-thailand-red rounded-xl mb-3">
                           <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
                           </svg>
                         </div>
-                        <h3 className="text-xl font-bold text-purple-800">Luxury</h3>
+                        <h3 className="text-xl font-bold font-heading text-purple-800">Luxury</h3>
                         <p className="text-3xl font-bold text-purple-600 mt-2">
                           ${budgetGuide.luxury.min}-${budgetGuide.luxury.max}
                         </p>
@@ -214,10 +214,10 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 {/* Daily Cost Breakdown */}
                 {budgetReality?.daily_costs && Object.keys(budgetReality.daily_costs).length > 0 && (
                   <div>
-                    <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+                    <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                       Daily Cost Breakdown
                     </h2>
-                    <div className="bg-white rounded-lg shadow-lg p-6 md:p-8">
+                    <div className="bg-white rounded-2xl shadow-md p-6 md:p-8">
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                         {Object.entries(budgetReality.daily_costs).map(([item, cost], index) => (
                           <div key={index} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
@@ -235,10 +235,10 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 {/* Real Price Examples */}
                 {budgetReality?.examples && budgetReality.examples.length > 0 && (
                   <div>
-                    <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+                    <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                       Real Prices in {city.name.en}
                     </h2>
-                    <div className="bg-white rounded-lg shadow-lg p-6 md:p-8">
+                    <div className="bg-white rounded-2xl shadow-md p-6 md:p-8">
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
                         {budgetReality.examples.map((example, index) => {
                           const parts = example.split(':');
@@ -258,14 +258,14 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
 
                 {/* Money-Saving Tips */}
                 <div>
-                  <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                     Money-Saving Tips for {city.name.en}
                   </h2>
-                  <div className="bg-white rounded-lg shadow-lg p-6 md:p-8">
+                  <div className="bg-white rounded-2xl shadow-md p-6 md:p-8">
                     <ul className="space-y-4">
                       {moneySavingTips.map((tip, index) => (
                         <li key={index} className="flex items-start">
-                          <div className="flex-shrink-0 w-8 h-8 bg-green-100 rounded-full flex items-center justify-center mr-4 mt-0.5">
+                          <div className="flex-shrink-0 w-8 h-8 bg-green-100 rounded-xl flex items-center justify-center mr-4 mt-0.5">
                             <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                             </svg>
@@ -280,17 +280,17 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 {/* Where to Splurge */}
                 {budgetReality?.where_to_splurge && budgetReality.where_to_splurge.length > 0 && (
                   <div>
-                    <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+                    <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                       Where to Splurge in {city.name.en}
                     </h2>
-                    <div className="bg-gradient-to-br from-amber-50 to-orange-50 border border-amber-200 rounded-xl p-6 md:p-8">
+                    <div className="bg-surface-cream border-0 rounded-2xl p-6 md:p-8">
                       <p className="text-gray-600 mb-6 text-center">
                         Some experiences in {city.name.en} are worth spending a little extra on. Here are our top picks.
                       </p>
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                         {budgetReality.where_to_splurge.map((item, index) => (
                           <div key={index} className="flex items-start bg-white bg-opacity-70 rounded-lg p-4">
-                            <div className="flex-shrink-0 w-8 h-8 bg-amber-400 rounded-full flex items-center justify-center mr-3 mt-0.5">
+                            <div className="flex-shrink-0 w-8 h-8 bg-amber-400 rounded-xl flex items-center justify-center mr-3 mt-0.5">
                               <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
                                 <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
                               </svg>
@@ -306,17 +306,17 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 {/* Hidden Costs */}
                 {budgetReality?.hidden_costs && budgetReality.hidden_costs.length > 0 && (
                   <div>
-                    <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+                    <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                       Hidden Costs to Watch For
                     </h2>
-                    <div className="bg-gradient-to-br from-red-50 to-orange-50 border border-red-200 rounded-xl p-6 md:p-8">
+                    <div className="bg-surface-cream border-0 rounded-2xl p-6 md:p-8">
                       <p className="text-gray-600 mb-6 text-center">
                         Be aware of these common unexpected expenses when visiting {city.name.en}.
                       </p>
                       <ul className="space-y-3">
                         {budgetReality.hidden_costs.map((cost, index) => (
                           <li key={index} className="flex items-start">
-                            <div className="flex-shrink-0 w-6 h-6 bg-red-100 rounded-full flex items-center justify-center mr-3 mt-0.5">
+                            <div className="flex-shrink-0 w-6 h-6 bg-red-100 rounded-xl flex items-center justify-center mr-3 mt-0.5">
                               <svg className="w-3 h-3 text-red-600" fill="currentColor" viewBox="0 0 20 20">
                                 <path fillRule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clipRule="evenodd" />
                               </svg>
@@ -330,8 +330,8 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 )}
 
                 {/* TripcomWidget */}
-                <div className="bg-gray-100 rounded-lg p-8 text-center">
-                  <h3 className="text-xl font-bold text-gray-900 mb-4">
+                <div className="bg-surface-cream rounded-2xl p-8 text-center">
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">
                     Find the Best Deals in {city.name.en}
                   </h3>
                   <p className="text-gray-600 mb-6">
@@ -345,12 +345,12 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
               /* Fallback when no budget guide data */
               <div className="text-center py-16">
                 <div className="max-w-md mx-auto">
-                  <div className="w-24 h-24 bg-green-500 rounded-full flex items-center justify-center mx-auto mb-6">
+                  <div className="w-24 h-24 bg-green-500 rounded-xl flex items-center justify-center mx-auto mb-6">
                     <svg className="w-12 h-12 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                     </svg>
                   </div>
-                  <h3 className="text-2xl font-bold text-gray-900 mb-4">
+                  <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
                     Budget Information Coming Soon
                   </h3>
                   <p className="text-gray-600 mb-6">
@@ -364,8 +364,8 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
             )}
 
             {/* Book Your Stay - Affiliate Section */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mt-12 mb-8">
-              <h3 className="text-2xl font-bold text-gray-900 mb-4 text-center">
+            <div className="bg-white rounded-2xl shadow-md p-8 mt-12 mb-8">
+              <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
                 Book Your Stay in {city.name.en}
               </h3>
               <p className="text-gray-600 text-center mb-6">
@@ -376,7 +376,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                   href="https://trip.tpo.lv/TmObooZ5"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                 >
                   Search on Trip.com
                 </a>
@@ -384,7 +384,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                   href="https://booking.tpo.lv/2PT1kR82"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-blue-800 text-white font-semibold rounded-lg hover:bg-blue-900 transition-colors"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                 >
                   Search on Booking.com
                 </a>
@@ -395,13 +395,13 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
             </div>
 
             {/* Explore More */}
-            <div className="bg-white rounded-lg shadow-lg p-8">
-              <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">
+            <div className="bg-white rounded-2xl shadow-md p-8">
+              <h3 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
                 Explore More of {city.name.en}
               </h3>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
-                  <div className="w-12 h-12 bg-thailand-blue rounded-lg flex items-center justify-center mr-4">
+                <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                  <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mr-4">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                     </svg>
@@ -411,8 +411,8 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                     <p className="text-gray-600 text-sm">Find accommodation</p>
                   </div>
                 </Link>
-                <Link href={`/city/${city.slug}/food/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
-                  <div className="w-12 h-12 bg-thailand-blue rounded-lg flex items-center justify-center mr-4">
+                <Link href={`/city/${city.slug}/food/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                  <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mr-4">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                     </svg>
@@ -422,8 +422,8 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                     <p className="text-gray-600 text-sm">Discover local cuisine</p>
                   </div>
                 </Link>
-                <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
-                  <div className="w-12 h-12 bg-thailand-blue rounded-lg flex items-center justify-center mr-4">
+                <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                  <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mr-4">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                     </svg>

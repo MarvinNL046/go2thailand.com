@@ -37,13 +37,14 @@ export default function ThailandWeatherPage({ months }: ThailandWeatherPageProps
         <meta name="keywords" content="Thailand weather, Thailand climate, best time to visit Thailand, Thailand seasons, Thailand rainfall" />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold text-white">
+        <section className="bg-surface-dark text-white">
           <div className="container-custom py-16">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center max-w-4xl mx-auto">
-              <h1 className="text-4xl lg:text-6xl font-bold mb-6">
+              <p className="font-script text-thailand-gold mb-2">Climate Guide</p>
+              <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
                 Thailand Weather by Month
               </h1>
               <p className="text-xl lg:text-2xl mb-8 opacity-90">
@@ -57,28 +58,29 @@ export default function ThailandWeatherPage({ months }: ThailandWeatherPageProps
         <section className="section-padding bg-white">
           <div className="container-custom">
             <div className="max-w-4xl mx-auto">
-              <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+              <p className="section-label text-center">Seasons</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                 Thailand's Three Seasons
               </h2>
               
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
-                <div className="bg-blue-50 rounded-lg p-6 text-center">
+                <div className="bg-white rounded-2xl shadow-md p-6 text-center">
                   <div className="text-4xl mb-3"></div>
-                  <h3 className="font-semibold text-gray-900 mb-2">Cool Season</h3>
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Cool Season</h3>
                   <p className="text-sm text-gray-600 mb-2">November - February</p>
                   <p className="text-gray-700">Best weather, minimal rain, peak tourist season</p>
                 </div>
                 
-                <div className="bg-orange-50 rounded-lg p-6 text-center">
+                <div className="bg-white rounded-2xl shadow-md p-6 text-center">
                   <div className="text-4xl mb-3"></div>
-                  <h3 className="font-semibold text-gray-900 mb-2">Hot Season</h3>
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Hot Season</h3>
                   <p className="text-sm text-gray-600 mb-2">March - May</p>
                   <p className="text-gray-700">High temperatures, Songkran festival, fewer tourists</p>
                 </div>
                 
-                <div className="bg-green-50 rounded-lg p-6 text-center">
+                <div className="bg-white rounded-2xl shadow-md p-6 text-center">
                   <div className="text-4xl mb-3"></div>
-                  <h3 className="font-semibold text-gray-900 mb-2">Rainy Season</h3>
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Rainy Season</h3>
                   <p className="text-sm text-gray-600 mb-2">June - October</p>
                   <p className="text-gray-700">Daily showers, lush landscapes, best deals</p>
                 </div>
@@ -90,7 +92,8 @@ export default function ThailandWeatherPage({ months }: ThailandWeatherPageProps
         {/* Monthly Grid */}
         <section className="section-padding">
           <div className="container-custom">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+            <p className="section-label text-center">Monthly Guide</p>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
               Choose Your Perfect Month
             </h2>
             
@@ -101,9 +104,9 @@ export default function ThailandWeatherPage({ months }: ThailandWeatherPageProps
                   href={`/thailand-in/${month.slug}/`}
                   className="group"
                 >
-                  <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
+                  <div className="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all">
                     <div className="p-6">
-                      <h3 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-thailand-blue transition-colors">
+                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-3 group-hover:text-thailand-blue transition-colors">
                         {month.month}
                       </h3>
                       
@@ -139,12 +142,13 @@ export default function ThailandWeatherPage({ months }: ThailandWeatherPageProps
         {/* Quick Reference Table */}
         <section className="section-padding bg-white">
           <div className="container-custom">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+            <p className="section-label text-center">Reference</p>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
               Quick Weather Reference
             </h2>
-            
+
             <div className="overflow-x-auto">
-              <table className="w-full bg-white rounded-lg overflow-hidden shadow-lg">
+              <table className="w-full bg-white rounded-2xl overflow-hidden shadow-md">
                 <thead className="bg-thailand-blue text-white">
                   <tr>
                     <th className="px-6 py-3 text-left">Month</th>

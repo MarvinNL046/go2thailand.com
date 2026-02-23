@@ -197,13 +197,13 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
         )}
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
         <section className="bg-white shadow-sm">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center">
-              <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+              <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
                 Best Time to Visit {cityName}
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
@@ -219,30 +219,30 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
 
               {/* When to Visit - Month Grid */}
               <div>
-                <h2 className="text-3xl font-bold text-gray-900 mb-6">When to Visit {cityName}</h2>
+                <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">When to Visit {cityName}</h2>
                 {bestTimeObj && (
-                  <div className="bg-white rounded-lg shadow-lg p-6 mb-6">
+                  <div className="bg-white rounded-2xl shadow-md p-6 mb-6">
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
                       {bestTimeObj.season && (
-                        <div className="text-center p-4 bg-green-50 rounded-lg">
+                        <div className="text-center p-4 bg-surface-cream rounded-xl">
                           <div className="text-sm text-gray-500 mb-1">Best Season</div>
                           <div className="font-bold text-gray-900">{bestTimeObj.season}</div>
                         </div>
                       )}
                       {bestTimeObj.months && (
-                        <div className="text-center p-4 bg-blue-50 rounded-lg">
+                        <div className="text-center p-4 bg-surface-cream rounded-xl">
                           <div className="text-sm text-gray-500 mb-1">Best Months</div>
                           <div className="font-bold text-gray-900">{bestTimeObj.months}</div>
                         </div>
                       )}
                       {bestTimeObj.weather && (
-                        <div className="text-center p-4 bg-yellow-50 rounded-lg">
+                        <div className="text-center p-4 bg-surface-cream rounded-xl">
                           <div className="text-sm text-gray-500 mb-1">Weather</div>
                           <div className="font-bold text-gray-900">{bestTimeObj.weather}</div>
                         </div>
                       )}
                       {bestTimeObj.reasons && (
-                        <div className="text-center p-4 bg-purple-50 rounded-lg">
+                        <div className="text-center p-4 bg-surface-cream rounded-xl">
                           <div className="text-sm text-gray-500 mb-1">Why Visit Then</div>
                           <div className="font-bold text-gray-900">{bestTimeObj.reasons}</div>
                         </div>
@@ -251,8 +251,8 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                   </div>
                 )}
 
-                <div className="bg-white rounded-lg shadow-lg p-6">
-                  <h3 className="text-lg font-semibold text-gray-900 mb-4">Month-by-Month Overview</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Month-by-Month Overview</h3>
                   <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-12 gap-2">
                     {ALL_MONTHS.map((month) => {
                       const isBest = bestMonths.includes(month);
@@ -293,8 +293,8 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
               {/* Climate Overview */}
               {city.bestTimeToVisit && (
                 <div>
-                  <h2 className="text-3xl font-bold text-gray-900 mb-6">Climate Overview</h2>
-                  <div className="bg-white rounded-lg shadow-lg p-6">
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Climate Overview</h2>
+                  <div className="bg-white rounded-2xl shadow-md p-6">
                     <div className="prose prose-lg max-w-none text-gray-700">
                       {city.bestTimeToVisit.split('\n\n').map((paragraph: string, idx: number) => (
                         <p key={idx} className="mb-4 last:mb-0">{paragraph}</p>
@@ -307,11 +307,11 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
               {/* Seasonal Guide */}
               {seasonalSecrets && (seasonalSecrets.best_times || seasonalSecrets.seasonal_foods) && (
                 <div>
-                  <h2 className="text-3xl font-bold text-gray-900 mb-6">Seasonal Guide</h2>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Seasonal Guide</h2>
                   <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                     {seasonalSecrets.best_times && Object.keys(seasonalSecrets.best_times).length > 0 && (
-                      <div className="bg-white rounded-lg shadow-lg p-6">
-                        <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
+                      <div className="bg-white rounded-2xl shadow-md p-6">
+                        <h3 className="text-xl font-bold font-heading text-gray-900 mb-4 flex items-center">
                           <svg className="w-6 h-6 text-yellow-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
                           </svg>
@@ -329,8 +329,8 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                     )}
 
                     {seasonalSecrets.seasonal_foods && Object.keys(seasonalSecrets.seasonal_foods).length > 0 && (
-                      <div className="bg-white rounded-lg shadow-lg p-6">
-                        <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
+                      <div className="bg-white rounded-2xl shadow-md p-6">
+                        <h3 className="text-xl font-bold font-heading text-gray-900 mb-4 flex items-center">
                           <svg className="w-6 h-6 text-orange-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                           </svg>
@@ -349,8 +349,8 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                   </div>
 
                   {seasonalSecrets.insider_tips && Object.keys(seasonalSecrets.insider_tips).length > 0 && (
-                    <div className="bg-blue-50 rounded-lg p-6 mt-6">
-                      <h3 className="text-lg font-bold text-gray-900 mb-3">Insider Tips</h3>
+                    <div className="bg-surface-cream rounded-2xl p-6 mt-6">
+                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">Insider Tips</h3>
                       <ul className="space-y-2">
                         {Object.entries(seasonalSecrets.insider_tips).map(([season, tip]) => (
                           <li key={season} className="flex items-start">
@@ -369,14 +369,14 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
               {/* Festivals & Events */}
               {seasonalSecrets?.local_festivals && seasonalSecrets.local_festivals.length > 0 && (
                 <div>
-                  <h2 className="text-3xl font-bold text-gray-900 mb-6">Festivals & Events</h2>
-                  <div className="bg-white rounded-lg shadow-lg p-6">
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Festivals & Events</h2>
+                  <div className="bg-white rounded-2xl shadow-md p-6">
                     <p className="text-gray-600 mb-4">
                       Plan your trip around these local festivals and events in {cityName} for a more immersive experience.
                     </p>
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                       {seasonalSecrets.local_festivals.map((festival, idx) => (
-                        <div key={idx} className="flex items-center p-4 bg-yellow-50 rounded-lg border border-yellow-200">
+                        <div key={idx} className="flex items-center p-4 bg-surface-cream rounded-2xl border-0">
                           <svg className="w-6 h-6 text-yellow-600 mr-3 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                           </svg>
@@ -391,11 +391,11 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
               {/* Getting There */}
               {practicalInfo && (practicalInfo.nearestAirport || practicalInfo.localTransport) && (
                 <div>
-                  <h2 className="text-3xl font-bold text-gray-900 mb-6">Getting There & Around</h2>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Getting There & Around</h2>
                   <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                     {practicalInfo.nearestAirport && (
-                      <div className="bg-white rounded-lg shadow-lg p-6">
-                        <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
+                      <div className="bg-white rounded-2xl shadow-md p-6">
+                        <h3 className="text-xl font-bold font-heading text-gray-900 mb-4 flex items-center">
                           <svg className="w-6 h-6 text-thailand-blue mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3l14 9-14 9V3z" />
                           </svg>
@@ -411,8 +411,8 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                     )}
 
                     {practicalInfo.localTransport && practicalInfo.localTransport.length > 0 && (
-                      <div className="bg-white rounded-lg shadow-lg p-6">
-                        <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
+                      <div className="bg-white rounded-2xl shadow-md p-6">
+                        <h3 className="text-xl font-bold font-heading text-gray-900 mb-4 flex items-center">
                           <svg className="w-6 h-6 text-thailand-blue mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
                           </svg>
@@ -432,15 +432,15 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
               )}
 
               {/* Trip.com Widget */}
-              <div className="bg-gray-100 rounded-lg p-8 text-center">
-                <h3 className="text-xl font-bold text-gray-900 mb-4">Plan Your Trip to {cityName}</h3>
+              <div className="bg-surface-cream rounded-2xl p-8 text-center">
+                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Plan Your Trip to {cityName}</h3>
                 <p className="text-gray-600 mb-6">Search and compare the best deals on flights, hotels, and transport</p>
                 <TripcomWidget city={cityName} type="hotels" />
               </div>
 
               {/* Affiliate Booking Links */}
-              <div className="bg-white rounded-lg shadow-lg p-8">
-                <h3 className="text-2xl font-bold text-gray-900 mb-4 text-center">
+              <div className="bg-white rounded-2xl shadow-md p-8">
+                <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
                   Book Your Trip to {cityName}
                 </h3>
                 <p className="text-gray-600 text-center mb-6">
@@ -451,7 +451,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                     href="https://trip.tpo.lv/TmObooZ5"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center justify-center px-8 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors"
+                    className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                   >
                     Search on Trip.com
                   </a>
@@ -459,7 +459,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                     href="https://booking.tpo.lv/2PT1kR82"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center justify-center px-8 py-3 bg-blue-800 text-white font-semibold rounded-lg hover:bg-blue-900 transition-colors"
+                    className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                   >
                     Search on Booking.com
                   </a>
@@ -467,7 +467,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                     href="https://12go.tpo.lv/tNA80urD"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center justify-center px-8 py-3 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition-colors"
+                    className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                   >
                     Book Transport on 12Go
                   </a>
@@ -479,8 +479,8 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
 
               {/* Transport Routes */}
               {topRoutes && topRoutes.length > 0 && (
-                <div className="bg-white rounded-lg shadow-lg p-8">
-                  <h3 className="text-2xl font-bold text-gray-900 mb-4">
+                <div className="bg-white rounded-2xl shadow-md p-8">
+                  <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
                     Getting To {cityName}
                   </h3>
                   <p className="text-gray-600 mb-6">
@@ -491,7 +491,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                       <Link
                         key={route.slug}
                         href={`/transport/${route.slug}/`}
-                        className="flex items-center justify-between p-3 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors"
+                        className="flex items-center justify-between p-3 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300"
                       >
                         <div>
                           <div className="font-medium text-gray-900 text-sm">{route.otherName} → {cityName}</div>
@@ -507,13 +507,13 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
               )}
 
               {/* Explore More */}
-              <div className="bg-white rounded-lg shadow-lg p-8">
-                <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">
+              <div className="bg-white rounded-2xl shadow-md p-8">
+                <h3 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
                   Explore More of {cityName}
                 </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
-                    <div className="w-12 h-12 bg-thailand-blue rounded-lg flex items-center justify-center mr-4">
+                  <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                    <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mr-4">
                       <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                       </svg>
@@ -523,8 +523,8 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                       <p className="text-gray-600 text-sm">Where to stay in {cityName}</p>
                     </div>
                   </Link>
-                  <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
-                    <div className="w-12 h-12 bg-thailand-blue rounded-lg flex items-center justify-center mr-4">
+                  <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                    <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mr-4">
                       <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                       </svg>
@@ -534,8 +534,8 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                       <p className="text-gray-600 text-sm">Top things to do</p>
                     </div>
                   </Link>
-                  <Link href={`/city/${city.slug}/food/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
-                    <div className="w-12 h-12 bg-thailand-blue rounded-lg flex items-center justify-center mr-4">
+                  <Link href={`/city/${city.slug}/food/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                    <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mr-4">
                       <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                       </svg>
@@ -545,8 +545,8 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                       <p className="text-gray-600 text-sm">Discover local cuisine</p>
                     </div>
                   </Link>
-                  <Link href={`/city/${city.slug}/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
-                    <div className="w-12 h-12 bg-thailand-blue rounded-lg flex items-center justify-center mr-4">
+                  <Link href={`/city/${city.slug}/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                    <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mr-4">
                       <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
                       </svg>

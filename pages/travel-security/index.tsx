@@ -12,12 +12,13 @@ export default function TravelSecurityPage() {
         <meta name="keywords" content="Thailand VPN, travel VPN, NordVPN Thailand, password manager travel, NordPass, secure Wi-Fi Thailand, digital security travel" />
       </Head>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-gray-900 via-blue-900 to-gray-900 text-white">
+        <section className="bg-surface-dark text-white">
           <div className="container-custom py-16">
             <div className="text-center">
-              <h1 className="text-4xl lg:text-6xl font-bold mb-6">
+              <p className="font-script text-thailand-gold mb-2">Digital Safety</p>
+              <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
                 Protect Your Digital Life in Thailand
               </h1>
               <p className="text-xl lg:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
@@ -39,7 +40,7 @@ export default function TravelSecurityPage() {
                   href="https://nordvpn.tpo.lv/ekHF1i55"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-blue-500 hover:bg-blue-600 text-white px-8 py-3 rounded-lg font-semibold transition-colors"
+                  className="bg-thailand-blue hover:bg-blue-700 text-white px-8 py-3 rounded-xl font-semibold transition-colors"
                 >
                   Get NordVPN →
                 </a>
@@ -47,7 +48,7 @@ export default function TravelSecurityPage() {
                   href="https://nordvpn.tpo.lv/tp12zNjC"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-teal-500 hover:bg-teal-600 text-white px-8 py-3 rounded-lg font-semibold transition-colors"
+                  className="bg-thailand-red hover:bg-red-700 text-white px-8 py-3 rounded-xl font-semibold transition-colors"
                 >
                   Get NordPass →
                 </a>
@@ -63,7 +64,7 @@ export default function TravelSecurityPage() {
               { name: 'Home', href: '/' },
               { name: 'Travel Security', href: '/travel-security' }
             ]} />
-            <div className="bg-orange-50 border border-orange-200 rounded-lg mt-4">
+            <div className="bg-orange-50 border-0 rounded-2xl mt-4">
               <div className="px-4 py-3">
                 <p className="text-sm text-center text-orange-800">
                   This page contains affiliate links. We may earn a commission at no extra cost to you when you purchase through our links.
@@ -77,7 +78,8 @@ export default function TravelSecurityPage() {
         <section className="bg-white section-padding">
           <div className="container-custom">
             <div className="max-w-4xl mx-auto">
-              <h2 className="text-3xl font-bold text-gray-900 mb-6 text-center">
+              <p className="section-label text-center">Why Security?</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6 text-center">
                 Why Travelers Need Digital Security
               </h2>
               <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
@@ -85,28 +87,28 @@ export default function TravelSecurityPage() {
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div className="text-center">
-                  <div className="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <div className="w-16 h-16 bg-red-100 rounded-xl flex items-center justify-center mx-auto mb-4">
                     <span className="text-2xl"></span>
                   </div>
-                  <h3 className="font-semibold mb-2">Public Wi-Fi Risks</h3>
+                  <h3 className="font-semibold font-heading mb-2">Public Wi-Fi Risks</h3>
                   <p className="text-gray-600 text-sm">
                     Hackers can intercept your data on unsecured networks at airports, hotels, and cafes. A VPN encrypts everything.
                   </p>
                 </div>
                 <div className="text-center">
-                  <div className="w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <div className="w-16 h-16 bg-orange-100 rounded-xl flex items-center justify-center mx-auto mb-4">
                     <span className="text-2xl"></span>
                   </div>
-                  <h3 className="font-semibold mb-2">Password Theft</h3>
+                  <h3 className="font-semibold font-heading mb-2">Password Theft</h3>
                   <p className="text-gray-600 text-sm">
                     Using the same password across booking sites, airlines, and hotels? One breach can compromise all your accounts.
                   </p>
                 </div>
                 <div className="text-center">
-                  <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <div className="w-16 h-16 bg-green-100 rounded-xl flex items-center justify-center mx-auto mb-4">
                     <span className="text-2xl"></span>
                   </div>
-                  <h3 className="font-semibold mb-2">Identity Protection</h3>
+                  <h3 className="font-semibold font-heading mb-2">Identity Protection</h3>
                   <p className="text-gray-600 text-sm">
                     Keep your travel bookings, credit card details, and personal documents safe with end-to-end encryption.
                   </p>
@@ -119,7 +121,7 @@ export default function TravelSecurityPage() {
         {/* NordVPN Section */}
         <section className="section-padding">
           <div className="container-custom">
-            <div className="bg-white rounded-lg shadow-lg overflow-hidden" style={{ borderTop: '4px solid #4687FF' }}>
+            <div className="bg-white rounded-2xl shadow-md overflow-hidden" style={{ borderTop: '4px solid #4687FF' }}>
               <div className="p-8">
                 <div className="flex flex-col lg:flex-row gap-8">
                   <div className="flex-1">
@@ -131,7 +133,7 @@ export default function TravelSecurityPage() {
                         className="object-contain object-left"
                       />
                     </div>
-                    <h2 className="text-2xl font-bold text-gray-900 mb-2">
+                    <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">
                       Secure Your Internet Connection in Thailand
                     </h2>
                     <div className="flex items-center gap-2 mb-4">
@@ -163,13 +165,13 @@ export default function TravelSecurityPage() {
                       href="https://nordvpn.tpo.lv/ekHF1i55"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-block bg-blue-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-600 transition-colors"
+                      className="inline-block bg-thailand-blue text-white px-8 py-3 rounded-xl font-semibold hover:bg-blue-700 transition-colors"
                     >
                       Get NordVPN — Save up to 74% →
                     </a>
                   </div>
-                  <div className="lg:w-80 bg-gray-50 rounded-xl p-6">
-                    <h3 className="font-semibold text-gray-900 mb-4">Perfect for Thailand Travel</h3>
+                  <div className="lg:w-80 bg-surface-cream rounded-xl p-6">
+                    <h3 className="font-semibold font-heading text-gray-900 mb-4">Perfect for Thailand Travel</h3>
                     <ul className="space-y-3 text-sm text-gray-600">
                       {[
                         'Secure public Wi-Fi at airports & hotels',
@@ -195,7 +197,7 @@ export default function TravelSecurityPage() {
         {/* NordPass Section */}
         <section className="section-padding">
           <div className="container-custom">
-            <div className="bg-white rounded-lg shadow-lg overflow-hidden" style={{ borderTop: '4px solid #00CFB6' }}>
+            <div className="bg-white rounded-2xl shadow-md overflow-hidden" style={{ borderTop: '4px solid #00CFB6' }}>
               <div className="p-8">
                 <div className="flex flex-col lg:flex-row gap-8">
                   <div className="flex-1">
@@ -207,7 +209,7 @@ export default function TravelSecurityPage() {
                         className="object-contain object-left"
                       />
                     </div>
-                    <h2 className="text-2xl font-bold text-gray-900 mb-2">
+                    <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">
                       All Your Passwords, Secure & Accessible Anywhere
                     </h2>
                     <div className="flex items-center gap-2 mb-4">
@@ -236,13 +238,13 @@ export default function TravelSecurityPage() {
                       href="https://nordvpn.tpo.lv/tp12zNjC"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-block bg-teal-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-teal-600 transition-colors"
+                      className="inline-block bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-red-700 transition-colors"
                     >
                       Get NordPass →
                     </a>
                   </div>
-                  <div className="lg:w-80 bg-gray-50 rounded-xl p-6">
-                    <h3 className="font-semibold text-gray-900 mb-4">Travel Benefits</h3>
+                  <div className="lg:w-80 bg-surface-cream rounded-xl p-6">
+                    <h3 className="font-semibold font-heading text-gray-900 mb-4">Travel Benefits</h3>
                     <ul className="space-y-3 text-sm text-gray-600">
                       {[
                         'Autofill booking & login details instantly',
@@ -266,9 +268,10 @@ export default function TravelSecurityPage() {
         </section>
 
         {/* Bundle Recommendation */}
-        <section className="bg-gradient-to-r from-blue-50 to-teal-50 section-padding">
+        <section className="bg-white section-padding">
           <div className="container-custom text-center">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">
+            <p className="section-label">Bundle</p>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4">
               Best Protection: Use Both Together
             </h2>
             <p className="text-gray-600 max-w-2xl mx-auto mb-8">
@@ -279,7 +282,7 @@ export default function TravelSecurityPage() {
                 href="https://nordvpn.tpo.lv/ekHF1i55"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-blue-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-600 transition-colors"
+                className="bg-thailand-blue text-white px-8 py-3 rounded-xl font-semibold hover:bg-blue-700 transition-colors"
               >
                 Get NordVPN →
               </a>
@@ -287,7 +290,7 @@ export default function TravelSecurityPage() {
                 href="https://nordvpn.tpo.lv/tp12zNjC"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-teal-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-teal-600 transition-colors"
+                className="bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-red-700 transition-colors"
               >
                 Get NordPass →
               </a>
@@ -299,36 +302,37 @@ export default function TravelSecurityPage() {
         <section className="section-padding">
           <div className="container-custom">
             <div className="max-w-3xl mx-auto">
-              <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+              <p className="section-label text-center">FAQ</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                 Frequently Asked Questions
               </h2>
               <div className="space-y-6">
-                <div className="bg-white rounded-lg shadow-md p-6">
-                  <h3 className="font-semibold text-lg mb-2">Why do I need a VPN when traveling in Thailand?</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="font-semibold font-heading text-lg mb-2">Why do I need a VPN when traveling in Thailand?</h3>
                   <p className="text-gray-600">
                     When you connect to public Wi-Fi at Thai airports, hotels, or cafes, your data can be intercepted by hackers. A VPN encrypts all your internet traffic, making it unreadable. It also lets you access content from your home country while abroad.
                   </p>
                 </div>
-                <div className="bg-white rounded-lg shadow-md p-6">
-                  <h3 className="font-semibold text-lg mb-2">Is NordVPN easy to use while traveling?</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="font-semibold font-heading text-lg mb-2">Is NordVPN easy to use while traveling?</h3>
                   <p className="text-gray-600">
                     Yes! Simply download the app on your phone or laptop, connect with one tap, and you&apos;re protected. NordVPN has 9,000+ servers in 118 countries, including nearby Asian locations for fast connections.
                   </p>
                 </div>
-                <div className="bg-white rounded-lg shadow-md p-6">
-                  <h3 className="font-semibold text-lg mb-2">Why should I use a password manager for travel?</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="font-semibold font-heading text-lg mb-2">Why should I use a password manager for travel?</h3>
                   <p className="text-gray-600">
                     Travelers use dozens of accounts — airline bookings, hotel reservations, banking, and more. NordPass generates strong unique passwords for each and autofills them so you never need to type them on unsafe devices.
                   </p>
                 </div>
-                <div className="bg-white rounded-lg shadow-md p-6">
-                  <h3 className="font-semibold text-lg mb-2">Is VPN legal in Thailand?</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="font-semibold font-heading text-lg mb-2">Is VPN legal in Thailand?</h3>
                   <p className="text-gray-600">
                     Yes, using a VPN is perfectly legal in Thailand. Many travelers and expats use VPNs daily for privacy, security, and accessing content from their home countries.
                   </p>
                 </div>
-                <div className="bg-white rounded-lg shadow-md p-6">
-                  <h3 className="font-semibold text-lg mb-2">Can I use NordVPN on multiple devices?</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="font-semibold font-heading text-lg mb-2">Can I use NordVPN on multiple devices?</h3>
                   <p className="text-gray-600">
                     Yes, one NordVPN account protects up to 10 devices simultaneously — your phone, laptop, tablet, and more. Perfect for travelers with multiple devices.
                   </p>
@@ -339,22 +343,23 @@ export default function TravelSecurityPage() {
         </section>
 
         {/* CTA Section */}
-        <section className="bg-gradient-to-r from-thailand-gold to-thailand-blue text-white section-padding">
+        <section className="bg-surface-dark text-white section-padding">
           <div className="container-custom text-center">
-            <h2 className="text-3xl lg:text-4xl font-bold mb-6">
+            <p className="font-script text-thailand-gold mb-2">Explore More</p>
+            <h2 className="text-3xl lg:text-4xl font-bold font-heading mb-6">
               Complete Your Thailand Travel Essentials
             </h2>
             <p className="text-xl mb-8 max-w-2xl mx-auto opacity-90">
               Pair your digital security with other travel must-haves
             </p>
             <div className="flex flex-wrap justify-center gap-4">
-              <Link href="/esim/" className="bg-white text-thailand-blue px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+              <Link href="/esim/" className="bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-red-700 transition-colors">
                 eSIM Data Plans
               </Link>
-              <Link href="/travel-insurance/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
+              <Link href="/travel-insurance/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
                 Travel Insurance
               </Link>
-              <Link href="/city/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
+              <Link href="/city/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
                 Explore Cities
               </Link>
             </div>

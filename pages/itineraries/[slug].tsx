@@ -313,7 +313,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
         <section className="relative h-[400px] lg:h-[500px] overflow-hidden">
           <div className="absolute inset-0">
@@ -343,7 +343,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                     </span>
                   )}
                 </div>
-                <h1 className="text-3xl lg:text-5xl font-bold mb-4">
+                <h1 className="text-3xl lg:text-5xl font-bold font-heading mb-4">
                   {itinerary.title}
                 </h1>
                 <p className="text-lg text-gray-200 max-w-3xl">
@@ -369,25 +369,25 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
               <div className="lg:col-span-2">
 
                 {/* Overview & Key Stats */}
-                <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8 mb-8">
-                  <h2 className="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
+                <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Overview</h2>
                   <p className="text-gray-700 leading-relaxed mb-6">{itinerary.description}</p>
 
                   <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-                    <div className="bg-blue-50 rounded-lg p-4 text-center">
+                    <div className="bg-surface-cream rounded-xl p-4 text-center">
                       <div className="text-2xl font-bold text-thailand-blue">{itinerary.duration}</div>
                       <div className="text-sm text-gray-600">Days</div>
                     </div>
-                    <div className="bg-red-50 rounded-lg p-4 text-center">
+                    <div className="bg-surface-cream rounded-xl p-4 text-center">
                       <div className="text-2xl font-bold text-thailand-red">{itinerary.cities?.length || '-'}</div>
                       <div className="text-sm text-gray-600">Cities</div>
                     </div>
-                    <div className="bg-green-50 rounded-lg p-4 text-center">
-                      <div className="text-lg font-bold text-green-600">{itinerary.budget?.budget || '-'}</div>
+                    <div className="bg-surface-cream rounded-xl p-4 text-center">
+                      <div className="text-lg font-bold text-thailand-blue">{itinerary.budget?.budget || '-'}</div>
                       <div className="text-sm text-gray-600">Min Budget</div>
                     </div>
-                    <div className="bg-purple-50 rounded-lg p-4 text-center">
-                      <div className="text-lg font-bold text-purple-600">{itinerary.highlights?.length || '-'}</div>
+                    <div className="bg-surface-cream rounded-xl p-4 text-center">
+                      <div className="text-lg font-bold text-thailand-blue">{itinerary.highlights?.length || '-'}</div>
                       <div className="text-sm text-gray-600">Highlights</div>
                     </div>
                   </div>
@@ -395,7 +395,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                   {/* Highlights */}
                   {itinerary.highlights && itinerary.highlights.length > 0 && (
                     <div className="mt-6">
-                      <h3 className="text-lg font-semibold text-gray-900 mb-3">Trip Highlights</h3>
+                      <h3 className="text-lg font-semibold font-heading text-gray-900 mb-3">Trip Highlights</h3>
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
                         {itinerary.highlights.map((highlight, idx) => (
                           <div key={idx} className="flex items-center">
@@ -412,22 +412,23 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
 
                 {/* Day-by-Day Timeline */}
                 <div className="mb-8">
-                  <h2 className="text-3xl font-bold text-gray-900 mb-8">Day-by-Day Itinerary</h2>
+                  <span className="font-script text-thailand-gold text-lg">Your journey</span>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 mt-1">Day-by-Day Itinerary</h2>
 
                   {itinerary.days && itinerary.days.map((day) => (
                     <div key={day.day} className="relative mb-8">
                       {/* Timeline connector */}
                       <div className="absolute left-6 top-16 bottom-0 w-0.5 bg-gray-200" style={{ display: day.day === itinerary.days.length ? 'none' : 'block' }} />
 
-                      <div className="bg-white rounded-lg shadow-sm border border-gray-200 overflow-hidden">
+                      <div className="bg-white rounded-2xl shadow-md overflow-hidden">
                         {/* Day Header */}
-                        <div className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark p-6 text-white">
+                        <div className="bg-surface-dark p-6 text-white">
                           <div className="flex items-center gap-4">
-                            <div className="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center flex-shrink-0">
+                            <div className="w-12 h-12 bg-white/20 rounded-xl flex items-center justify-center flex-shrink-0">
                               <span className="text-xl font-bold">{day.day}</span>
                             </div>
                             <div>
-                              <h3 className="text-xl font-bold">{day.title}</h3>
+                              <h3 className="text-xl font-bold font-heading">{day.title}</h3>
                               {day.city && (
                                 <p className="text-blue-200 text-sm mt-1">
                                   <svg className="w-4 h-4 inline mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -457,7 +458,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                               </h4>
                               <div className="space-y-3">
                                 {day.activities.map((activity, idx) => (
-                                  <div key={idx} className="flex items-start bg-gray-50 rounded-lg p-4">
+                                  <div key={idx} className="flex items-start bg-surface-cream rounded-xl p-4">
                                     <div className="flex-shrink-0 mr-3 mt-0.5">
                                       {getActivityIcon(activity.type)}
                                     </div>
@@ -510,7 +511,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                               </h4>
                               <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
                                 {day.meals.map((meal, idx) => (
-                                  <div key={idx} className="bg-orange-50 border border-orange-100 rounded-lg p-3">
+                                  <div key={idx} className="bg-orange-50 rounded-xl p-3">
                                     <div className="text-xs font-semibold text-orange-600 uppercase mb-1">{meal.meal}</div>
                                     {meal.restaurant && <div className="text-sm font-medium text-gray-900">{meal.restaurant}</div>}
                                     {meal.cuisine && <div className="text-xs text-gray-600">{meal.cuisine}</div>}
@@ -546,7 +547,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                 ))}
                               </div>
                               {day.accommodation[activeAccomTab] && (
-                                <div className="bg-indigo-50 border border-indigo-100 rounded-lg p-4">
+                                <div className="bg-indigo-50 rounded-xl p-4">
                                   <div className="font-medium text-gray-900">{day.accommodation[activeAccomTab]!.name}</div>
                                   {day.accommodation[activeAccomTab]!.price && (
                                     <div className="text-sm text-green-600 font-medium mt-1">{day.accommodation[activeAccomTab]!.price}</div>
@@ -571,7 +572,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
 
                           {/* Day Transport Info */}
                           {day.transport && (
-                            <div className="bg-blue-50 border border-blue-100 rounded-lg p-4">
+                            <div className="bg-blue-50 rounded-xl p-4">
                               <div className="flex items-center">
                                 <svg className="w-5 h-5 text-blue-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
@@ -588,13 +589,13 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
 
                 {/* Transport Between Cities */}
                 {itinerary.transport && itinerary.transport.length > 0 && (
-                  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8 mb-8">
-                    <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                  <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
+                    <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                       Transport Between Cities
                     </h2>
                     <div className="space-y-4">
                       {itinerary.transport.map((segment, idx) => (
-                        <div key={idx} className="border border-gray-100 rounded-lg p-5">
+                        <div key={idx} className="bg-surface-cream rounded-xl p-5">
                           <div className="flex items-center gap-3 mb-4">
                             <span className="font-semibold text-gray-900">{segment.from}</span>
                             <svg className="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -604,7 +605,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                           </div>
                           <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
                             {segment.options.map((option, oidx) => (
-                              <div key={oidx} className="bg-gray-50 rounded-lg p-3 flex items-center justify-between">
+                              <div key={oidx} className="bg-white rounded-xl p-3 flex items-center justify-between">
                                 <div>
                                   <div className="font-medium text-sm text-gray-900">{option.type}</div>
                                   {option.duration && <div className="text-xs text-gray-500">{option.duration}</div>}
@@ -633,7 +634,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         href="https://12go.tpo.lv/tNA80urD"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-block bg-green-600 text-white px-6 py-2 rounded-lg font-semibold hover:bg-green-700 transition-colors text-sm"
+                        className="inline-block bg-thailand-blue text-white px-6 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
                       >
                         Compare all routes on 12Go Asia
                       </a>
@@ -644,8 +645,8 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
 
                 {/* Budget Breakdown Table */}
                 {itinerary.budgetBreakdown && itinerary.budgetBreakdown.length > 0 && (
-                  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8 mb-8">
-                    <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                  <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
+                    <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                       Budget Breakdown
                     </h2>
                     <div className="overflow-x-auto">
@@ -653,9 +654,9 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         <thead>
                           <tr className="border-b-2 border-gray-200">
                             <th className="text-left py-3 pr-4 font-semibold text-gray-900">Category</th>
-                            <th className="text-center py-3 px-4 font-semibold text-green-600">Budget</th>
-                            <th className="text-center py-3 px-4 font-semibold text-blue-600">Mid-Range</th>
-                            <th className="text-center py-3 px-4 font-semibold text-purple-600">Luxury</th>
+                            <th className="text-center py-3 px-4 font-semibold text-thailand-blue">Budget</th>
+                            <th className="text-center py-3 px-4 font-semibold text-thailand-blue">Mid-Range</th>
+                            <th className="text-center py-3 px-4 font-semibold text-thailand-red">Luxury</th>
                           </tr>
                         </thead>
                         <tbody>
@@ -669,11 +670,11 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                           ))}
                         </tbody>
                         <tfoot>
-                          <tr className="border-t-2 border-gray-300 bg-gray-50">
+                          <tr className="border-t-2 border-gray-300 bg-surface-cream">
                             <td className="py-3 pr-4 font-bold text-gray-900">Total</td>
-                            <td className="py-3 px-4 text-center font-bold text-green-600">{itinerary.budget.budget}</td>
-                            <td className="py-3 px-4 text-center font-bold text-blue-600">{itinerary.budget.mid}</td>
-                            <td className="py-3 px-4 text-center font-bold text-purple-600">{itinerary.budget.luxury}</td>
+                            <td className="py-3 px-4 text-center font-bold text-thailand-blue">{itinerary.budget.budget}</td>
+                            <td className="py-3 px-4 text-center font-bold text-thailand-blue">{itinerary.budget.mid}</td>
+                            <td className="py-3 px-4 text-center font-bold text-thailand-red">{itinerary.budget.luxury}</td>
                           </tr>
                         </tfoot>
                       </table>
@@ -683,8 +684,8 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
 
                 {/* Packing Tips */}
                 {itinerary.packingTips && itinerary.packingTips.length > 0 && (
-                  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8 mb-8">
-                    <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                  <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
+                    <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                       Packing Tips
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
@@ -702,14 +703,14 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
 
                 {/* FAQs */}
                 {allFaqs.length > 0 && (
-                  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8 mb-8">
-                    <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                  <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
+                    <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                       Frequently Asked Questions
                     </h2>
                     <div className="space-y-4">
                       {allFaqs.map((faq, idx) => (
                         <div key={idx} className="border-b border-gray-100 pb-4 last:border-0 last:pb-0">
-                          <h3 className="font-semibold text-gray-900 mb-2">{faq.question}</h3>
+                          <h3 className="font-semibold font-heading text-gray-900 mb-2">{faq.question}</h3>
                           <p className="text-gray-600 text-sm leading-relaxed">{faq.answer}</p>
                         </div>
                       ))}
@@ -723,8 +724,8 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                 <div className="lg:sticky lg:top-4 space-y-6">
 
                   {/* Quick Facts Card */}
-                  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-                    <h3 className="text-xl font-bold text-gray-900 mb-4">Quick Facts</h3>
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Quick Facts</h3>
                     <div className="space-y-3">
                       <div className="flex justify-between">
                         <span className="text-gray-600">Duration:</span>
@@ -742,15 +743,15 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                       </div>
                       <div className="flex justify-between">
                         <span className="text-gray-600">Budget:</span>
-                        <span className="font-medium text-green-600">{itinerary.budget?.budget}</span>
+                        <span className="font-medium text-thailand-blue">{itinerary.budget?.budget}</span>
                       </div>
                       <div className="flex justify-between">
                         <span className="text-gray-600">Mid-Range:</span>
-                        <span className="font-medium text-blue-600">{itinerary.budget?.mid}</span>
+                        <span className="font-medium text-thailand-blue">{itinerary.budget?.mid}</span>
                       </div>
                       <div className="flex justify-between">
                         <span className="text-gray-600">Luxury:</span>
-                        <span className="font-medium text-purple-600">{itinerary.budget?.luxury}</span>
+                        <span className="font-medium text-thailand-red">{itinerary.budget?.luxury}</span>
                       </div>
                       {itinerary.bestTime && (
                         <div className="flex justify-between">
@@ -762,8 +763,8 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                   </div>
 
                   {/* Book Your Trip Card */}
-                  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-                    <h3 className="text-xl font-bold text-gray-900 mb-3">Book Your Trip</h3>
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Book Your Trip</h3>
                     <p className="text-gray-600 text-sm mb-4">
                       Get the best deals on hotels, transport, and activities for this itinerary.
                     </p>
@@ -772,7 +773,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         href="https://booking.tpo.lv/2PT1kR82"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="block bg-blue-700 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-blue-800 transition-colors text-sm"
+                        className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
                       >
                         Booking.com - Hotels
                       </a>
@@ -780,7 +781,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         href="https://trip.tpo.lv/TmObooZ5"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="block bg-blue-500 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-blue-600 transition-colors text-sm"
+                        className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
                       >
                         Trip.com - Hotels & Flights
                       </a>
@@ -788,7 +789,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         href="https://12go.tpo.lv/tNA80urD"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="block bg-green-600 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-green-700 transition-colors text-sm"
+                        className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
                       >
                         12Go Asia - Transport
                       </a>
@@ -796,7 +797,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         href="https://klook.tpo.lv/7Dt6WApj"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="block bg-orange-500 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-orange-600 transition-colors text-sm"
+                        className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
                       >
                         Klook - Activities & Tours
                       </a>
@@ -809,8 +810,8 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
 
                   {/* Related Itineraries */}
                   {relatedItineraries.length > 0 && (
-                    <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-                      <h3 className="text-xl font-bold text-gray-900 mb-4">Related Itineraries</h3>
+                    <div className="bg-white rounded-2xl shadow-md p-6">
+                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Related Itineraries</h3>
                       <div className="space-y-4">
                         {relatedItineraries.map(related => (
                           <Link
@@ -851,8 +852,8 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                   )}
 
                   {/* eSIM */}
-                  <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-                    <h3 className="text-xl font-bold mb-2">Thailand eSIM</h3>
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h3 className="text-xl font-bold font-heading mb-2">Thailand eSIM</h3>
                     <p className="text-sm text-gray-600 mb-4">
                       Stay connected during your {itinerary.duration}-day trip. Order your eSIM before you go.
                     </p>
@@ -860,7 +861,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                       href="https://saily.tpo.lv/rf9lidnE"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-thailand-red transition-colors mb-2"
+                      className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
                     >
                       Saily eSIM
                     </a>
@@ -870,12 +871,12 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                   </div>
 
                   {/* Travel Insurance */}
-                  <div className="bg-gradient-to-r from-teal-600 to-cyan-600 text-white rounded-lg p-6">
-                    <h3 className="text-xl font-bold mb-2">Travel Insurance</h3>
+                  <div className="bg-surface-dark text-white rounded-2xl p-6">
+                    <h3 className="text-xl font-bold font-heading mb-2">Travel Insurance</h3>
                     <p className="text-sm opacity-90 mb-4">
                       Protect yourself while traveling Thailand. Compare the best travel insurance.
                     </p>
-                    <Link href="/travel-insurance/" className="block bg-white text-teal-600 text-center px-4 py-2 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+                    <Link href="/travel-insurance/" className="block bg-white text-thailand-blue text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
                       Compare Now
                     </Link>
                   </div>
@@ -886,11 +887,11 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
         </section>
 
         {/* Affiliate Banner */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold">
+        <section className="bg-surface-dark">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="flex flex-col md:flex-row items-center justify-between gap-6">
               <div className="text-white">
-                <h2 className="text-2xl font-bold mb-1">Plan Your Thailand Trip</h2>
+                <h2 className="text-2xl font-bold font-heading mb-1">Plan Your Thailand Trip</h2>
                 <p className="opacity-90 text-sm">Book hotels, transport, activities, and get connected with an eSIM</p>
               </div>
               <div className="flex flex-wrap justify-center gap-3">

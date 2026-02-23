@@ -153,13 +153,13 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero */}
-        <section className="bg-gray-900 text-white">
+        <section className="bg-surface-dark text-white">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center mt-4">
-              <h1 className="text-4xl lg:text-5xl font-bold mb-4">
+              <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
                 Muay Thai in {city.name.en}
               </h1>
               <p className="text-xl text-gray-300 max-w-3xl mx-auto">
@@ -173,29 +173,29 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
           <div className="container-custom">
             {/* Quick Stats */}
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
-              <div className="bg-white rounded-lg p-4 text-center shadow-sm">
-                <div className="text-3xl font-bold text-red-600">{muayThaiData.classes.length}</div>
+              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
+                <div className="text-3xl font-bold text-thailand-red">{muayThaiData.classes.length}</div>
                 <div className="text-sm text-gray-600">Activities</div>
               </div>
-              <div className="bg-white rounded-lg p-4 text-center shadow-sm">
-                <div className="text-3xl font-bold text-red-600">
+              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
+                <div className="text-3xl font-bold text-thailand-red">
                   {formatPrice(Math.min(...muayThaiData.classes.map(c => c.priceFrom)), loc)}
                 </div>
                 <div className="text-sm text-gray-600">Starting From</div>
               </div>
-              <div className="bg-white rounded-lg p-4 text-center shadow-sm">
-                <div className="text-3xl font-bold text-red-600">{watchActivities.length}</div>
+              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
+                <div className="text-3xl font-bold text-thailand-red">{watchActivities.length}</div>
                 <div className="text-sm text-gray-600">Fight Venues</div>
               </div>
-              <div className="bg-white rounded-lg p-4 text-center shadow-sm">
-                <div className="text-3xl font-bold text-red-600">{trainActivities.length}</div>
+              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
+                <div className="text-3xl font-bold text-thailand-red">{trainActivities.length}</div>
                 <div className="text-sm text-gray-600">Training Gyms</div>
               </div>
             </div>
 
             {/* Introduction */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">
                 Muay Thai Experience in {city.name.en}
               </h2>
               <p className="text-gray-700 leading-relaxed">{muayThaiData.intro.en}</p>
@@ -204,12 +204,12 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
             {/* Watch Fights Section */}
             {watchActivities.length > 0 && (
               <>
-                <h2 className="text-3xl font-bold text-gray-900 mb-6 flex items-center gap-3">
+                <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6 flex items-center gap-3">
                   Watch Live Muay Thai Fights
                 </h2>
                 <div className="space-y-6 mb-12">
                   {watchActivities.map((cls, index) => (
-                    <div key={cls.slug} className="bg-white rounded-lg shadow-lg overflow-hidden">
+                    <div key={cls.slug} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden">
                       <div className="p-6">
                         <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4">
                           <div className="flex-1">
@@ -224,7 +224,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                                 </span>
                               )}
                             </div>
-                            <h3 className="text-xl font-bold text-gray-900 mb-2">{cls.name}</h3>
+                            <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{cls.name}</h3>
                             <div className="flex items-center gap-4 text-sm text-gray-600 mb-3">
                               {cls.rating > 0 && (
                                 <span className="flex items-center gap-1">
@@ -255,7 +255,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                               href={GYG_AFFILIATE}
                               target="_blank"
                               rel="noopener noreferrer"
-                              className="inline-flex items-center px-6 py-2 bg-red-600 text-white font-semibold rounded-lg hover:bg-red-700 transition-colors text-sm"
+                              className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
                             >
                               View on GetYourGuide
                             </a>
@@ -271,12 +271,12 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
             {/* Training Section */}
             {trainActivities.length > 0 && (
               <>
-                <h2 className="text-3xl font-bold text-gray-900 mb-6 flex items-center gap-3">
+                <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6 flex items-center gap-3">
                   Muay Thai Training Classes
                 </h2>
                 <div className="space-y-6 mb-12">
                   {trainActivities.map((cls, index) => (
-                    <div key={cls.slug} className="bg-white rounded-lg shadow-lg overflow-hidden">
+                    <div key={cls.slug} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden">
                       <div className="p-6">
                         <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4">
                           <div className="flex-1">
@@ -291,7 +291,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                                 </span>
                               )}
                             </div>
-                            <h3 className="text-xl font-bold text-gray-900 mb-2">{cls.name}</h3>
+                            <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{cls.name}</h3>
                             <div className="flex items-center gap-4 text-sm text-gray-600 mb-3">
                               {cls.rating > 0 && (
                                 <span className="flex items-center gap-1">
@@ -323,7 +323,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                               href={GYG_AFFILIATE}
                               target="_blank"
                               rel="noopener noreferrer"
-                              className="inline-flex items-center px-6 py-2 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors text-sm"
+                              className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
                             >
                               View on GetYourGuide
                             </a>
@@ -339,12 +339,12 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
             {/* Combo Section */}
             {comboActivities.length > 0 && (
               <>
-                <h2 className="text-3xl font-bold text-gray-900 mb-6 flex items-center gap-3">
+                <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6 flex items-center gap-3">
                   Combined Experiences
                 </h2>
                 <div className="space-y-6 mb-12">
                   {comboActivities.map((cls, index) => (
-                    <div key={cls.slug} className="bg-white rounded-lg shadow-lg overflow-hidden border-2 border-purple-200">
+                    <div key={cls.slug} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden border-0">
                       <div className="p-6">
                         <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4">
                           <div className="flex-1">
@@ -356,7 +356,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                                 </span>
                               )}
                             </div>
-                            <h3 className="text-xl font-bold text-gray-900 mb-2">{cls.name}</h3>
+                            <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{cls.name}</h3>
                             <div className="flex items-center gap-4 text-sm text-gray-600 mb-3">
                               {cls.rating > 0 && (
                                 <span className="flex items-center gap-1">
@@ -388,7 +388,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                               href={GYG_AFFILIATE}
                               target="_blank"
                               rel="noopener noreferrer"
-                              className="inline-flex items-center px-6 py-2 bg-purple-600 text-white font-semibold rounded-lg hover:bg-purple-700 transition-colors text-sm"
+                              className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
                             >
                               View on GetYourGuide
                             </a>
@@ -404,7 +404,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
             {/* Training Gyms Section */}
             {muayThaiData.trainingGyms && muayThaiData.trainingGyms.length > 0 && (
               <>
-                <h2 className="text-3xl font-bold text-gray-900 mb-6 flex items-center gap-3">
+                <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6 flex items-center gap-3">
                   Top Training Gyms in {city.name.en}
                 </h2>
                 <p className="text-gray-600 mb-6">
@@ -412,7 +412,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                 </p>
                 <div className="space-y-6 mb-12">
                   {muayThaiData.trainingGyms.map((gym, index) => (
-                    <div key={gym.slug} className="bg-white rounded-lg shadow-lg overflow-hidden border-l-4 border-yellow-400">
+                    <div key={gym.slug} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden border-l-4 border-yellow-400">
                       <div className="p-6">
                         <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4">
                           <div className="flex-1">
@@ -427,7 +427,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                                 </span>
                               )}
                             </div>
-                            <h3 className="text-xl font-bold text-gray-900 mb-2">{gym.name}</h3>
+                            <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{gym.name}</h3>
                             <p className="text-gray-700 text-sm mb-3">{gym.highlight.en}</p>
                             <div className="flex flex-wrap gap-2 mb-3">
                               {gym.features.map((feature, i) => (
@@ -468,8 +468,8 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
             )}
 
             {/* Tips Section */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                 Tips for Muay Thai in {city.name.en}
               </h2>
               <ul className="space-y-3">
@@ -487,8 +487,8 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
             </div>
 
             {/* Book Section */}
-            <div className="bg-gradient-to-r from-red-600 to-gray-900 rounded-lg p-8 mb-12 text-center text-white">
-              <h2 className="text-3xl font-bold mb-4">
+            <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
+              <h2 className="text-3xl font-bold font-heading mb-4">
                 Book Your Muay Thai Experience in {city.name.en}
               </h2>
               <p className="text-lg mb-6 opacity-90">
@@ -499,7 +499,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                   href={GYG_AFFILIATE}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-white text-red-600 font-semibold rounded-lg hover:bg-gray-100 transition-colors"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-red font-semibold rounded-xl hover:bg-gray-100 transition-colors"
                 >
                   Browse on GetYourGuide
                 </a>
@@ -507,7 +507,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                   href={KLOOK_AFFILIATE}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-lg hover:bg-white/30 transition-colors border border-white/40"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40"
                 >
                   Browse on Klook
                 </a>
@@ -518,14 +518,14 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
             </div>
 
             {/* FAQ */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                 Frequently Asked Questions
               </h2>
               <div className="space-y-6">
                 {faqItems.map((item, i) => (
                   <div key={i}>
-                    <h3 className="text-lg font-semibold text-gray-900 mb-2">{item.q}</h3>
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">{item.q}</h3>
                     <p className="text-gray-700">{item.a}</p>
                   </div>
                 ))}
@@ -533,24 +533,24 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
             </div>
 
             {/* Explore More */}
-            <div className="bg-white rounded-lg shadow-lg p-8">
-              <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">
+            <div className="bg-white rounded-2xl shadow-md p-8">
+              <h3 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
                 Explore More of {city.name.en}
               </h3>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
+                <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Attractions</h4>
                     <p className="text-gray-600 text-sm">Top things to see</p>
                   </div>
                 </Link>
-                <Link href={`/city/${city.slug}/cooking-classes/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
+                <Link href={`/city/${city.slug}/cooking-classes/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Cooking Classes</h4>
                     <p className="text-gray-600 text-sm">Learn Thai cuisine</p>
                   </div>
                 </Link>
-                <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
+                <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Hotels</h4>
                     <p className="text-gray-600 text-sm">Where to stay</p>

@@ -185,7 +185,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
         )}
       </SEOHead>
 
-      <article className="bg-gray-50 min-h-screen">
+      <article className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
         <section className="relative h-[400px] lg:h-[500px]">
           <Image
@@ -207,7 +207,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                     {post.category}
                   </Link>
                 </div>
-                <h1 className="text-3xl lg:text-5xl font-bold mb-6">{post.title}</h1>
+                <h1 className="text-3xl lg:text-5xl font-bold font-heading mb-6">{post.title}</h1>
                 <div className="flex items-center gap-6 text-lg">
                   <span>{post.author.name}</span>
                   <span>-</span>
@@ -236,7 +236,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
             <div className="grid lg:grid-cols-12 gap-8">
               {/* Article Content */}
               <div className="lg:col-span-8">
-                <div className="bg-white rounded-lg shadow-lg p-8 lg:p-12">
+                <div className="bg-white rounded-2xl shadow-md p-8 lg:p-12">
                   {/* Share Buttons - Top */}
                   <div className="mb-8 pb-6 border-b border-gray-100">
                     <ShareButtons
@@ -266,13 +266,13 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
 
                   {/* Tags */}
                   <div className="mt-8 pt-8 border-t">
-                    <h3 className="font-bold mb-4">Tags</h3>
+                    <h3 className="font-bold font-heading mb-4">Tags</h3>
                     <div className="flex flex-wrap gap-2">
                       {post.tags.map(tag => (
                         <Link
                           key={tag}
                           href={`/blog/tag/${tag}/`}
-                          className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm hover:bg-thailand-blue hover:text-white transition-colors"
+                          className="bg-surface-cream text-gray-700 px-3 py-1 rounded-full text-sm hover:bg-thailand-blue hover:text-white transition-colors"
                         >
                           #{tag}
                         </Link>
@@ -282,7 +282,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
 
                   {/* Share Buttons - Bottom */}
                   <div className="mt-8 pt-8 border-t border-gray-100">
-                    <h3 className="font-bold mb-4">Share this article</h3>
+                    <h3 className="font-bold font-heading mb-4">Share this article</h3>
                     <ShareButtons
                       url={shareUrl}
                       title={post.title}
@@ -297,23 +297,24 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
               <aside className="lg:col-span-4 lg:self-start">
                 <div className="lg:sticky lg:top-4 space-y-6">
                 {/* Newsletter */}
-                <div className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark text-white rounded-lg p-6">
-                  <h3 className="text-xl font-bold mb-2">Get Thailand Updates</h3>
+                <div className="bg-surface-dark text-white rounded-2xl p-6">
+                  <span className="section-label font-script text-thailand-gold text-sm">Stay in the loop</span>
+                  <h3 className="text-xl font-bold font-heading mb-2">Get Thailand Updates</h3>
                   <p className="mb-4 text-sm opacity-90">Weekly travel tips and guides</p>
                   <input
                     type="email"
                     placeholder="Your email"
-                    className="w-full px-4 py-2 rounded-lg text-gray-900 mb-3"
+                    className="w-full px-4 py-2 rounded-xl text-gray-900 mb-3"
                   />
-                  <button className="w-full bg-white text-thailand-blue font-medium py-2 rounded-lg hover:bg-gray-100">
+                  <button className="w-full bg-thailand-red text-white font-medium py-2 rounded-xl hover:bg-thailand-red/90">
                     Subscribe
                   </button>
                 </div>
 
                 {/* Related Posts */}
                 {relatedPosts.length > 0 && (
-                  <div className="bg-white rounded-lg shadow-lg p-6">
-                    <h3 className="font-bold text-lg mb-4">Related Articles</h3>
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h3 className="font-bold font-heading text-lg mb-4">Related Articles</h3>
                     <div className="space-y-4">
                       {relatedPosts.map(relatedPost => (
                         <article key={relatedPost.slug}>
@@ -330,8 +331,8 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                 )}
 
                 {/* Explore */}
-                <div className="bg-white rounded-lg shadow-lg p-6">
-                  <h3 className="font-bold text-lg mb-4">Explore More</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="font-bold font-heading text-lg mb-4">Explore More</h3>
                   <div className="space-y-2">
                     <Link href="/islands/" className="block text-thailand-blue hover:underline text-sm">Thailand Islands</Link>
                     <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">Visa Guide</Link>
@@ -345,14 +346,14 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                 <TripcomWidget city="Thailand" type="searchbox" customTitle="Find Thailand Hotels" />
 
                 {/* Book Hotels */}
-                <div className="bg-white rounded-lg shadow-lg p-6">
-                  <h3 className="text-xl font-bold mb-3">Book Hotels</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-xl font-bold font-heading mb-3">Book Hotels</h3>
                   <div className="space-y-3">
                     <a
                       href="https://booking.tpo.lv/2PT1kR82"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="block bg-blue-700 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-blue-800 transition-colors text-sm"
+                      className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
                     >
                       Booking.com
                     </a>
@@ -360,7 +361,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                       href="https://trip.tpo.lv/TmObooZ5"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="block bg-blue-500 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-blue-600 transition-colors text-sm"
+                      className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
                     >
                       Trip.com
                     </a>
@@ -369,14 +370,14 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                 </div>
 
                 {/* Tours & Activities */}
-                <div className="bg-white rounded-lg shadow-lg p-6">
-                  <h3 className="text-xl font-bold mb-3">Tours & Activities</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-xl font-bold font-heading mb-3">Tours & Activities</h3>
                   <div className="space-y-3">
                     <a
                       href="https://klook.tpo.lv/7Dt6WApj"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="block bg-orange-500 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-orange-600 transition-colors text-sm"
+                      className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
                     >
                       Klook Activities
                     </a>
@@ -384,7 +385,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                       href="https://getyourguide.tpo.lv/GuAFfGGK"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="block bg-red-500 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-red-600 transition-colors text-sm"
+                      className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
                     >
                       GetYourGuide Tours
                     </a>
@@ -393,8 +394,8 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                 </div>
 
                 {/* eSIM */}
-                <div className="bg-white rounded-lg shadow-lg p-6">
-                  <h3 className="text-xl font-bold mb-2">Thailand eSIM</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-xl font-bold font-heading mb-2">Thailand eSIM</h3>
                   <p className="text-sm text-gray-600 mb-4">
                     Stay connected in Thailand. Order your eSIM before you go.
                   </p>
@@ -402,7 +403,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                     href="https://saily.tpo.lv/rf9lidnE"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-thailand-red transition-colors mb-2"
+                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors mb-2"
                   >
                     Saily eSIM
                   </a>
@@ -412,24 +413,24 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                 </div>
 
                 {/* Travel Insurance */}
-                <div className="bg-gradient-to-r from-teal-600 to-cyan-600 text-white rounded-lg p-6">
-                  <h3 className="text-xl font-bold mb-2">Travel Insurance</h3>
+                <div className="bg-surface-dark text-white rounded-2xl p-6">
+                  <h3 className="text-xl font-bold font-heading mb-2">Travel Insurance</h3>
                   <p className="text-sm opacity-90 mb-4">
                     Protect yourself while traveling. Compare the best travel insurance.
                   </p>
-                  <Link href="/travel-insurance/" className="block bg-white text-teal-600 text-center px-4 py-2 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+                  <Link href="/travel-insurance/" className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
                     Compare Now
                   </Link>
                 </div>
 
                 {/* Transport */}
-                <div className="bg-white rounded-lg shadow-lg p-6">
-                  <h3 className="text-xl font-bold mb-3">Transport</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-xl font-bold font-heading mb-3">Transport</h3>
                   <a
                     href="https://12go.tpo.lv/tNA80urD"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-green-600 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-green-700 transition-colors text-sm mb-2"
+                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm mb-2"
                   >
                     12Go Asia - Book Transport
                   </a>
@@ -447,11 +448,11 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
         <RelatedPosts posts={relatedPosts} locale={locale} />
 
         {/* Affiliate Banner */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold">
+        <section className="bg-surface-dark">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="flex flex-col md:flex-row items-center justify-between gap-6">
               <div className="text-white">
-                <h2 className="text-2xl font-bold mb-1">Plan Your Thailand Trip</h2>
+                <h2 className="text-2xl font-bold font-heading mb-1">Plan Your Thailand Trip</h2>
                 <p className="opacity-90 text-sm">Book hotels, transport, activities, and get connected with an eSIM</p>
               </div>
               <div className="flex flex-wrap justify-center gap-3">

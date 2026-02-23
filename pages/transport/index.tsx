@@ -91,7 +91,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
   }, {} as Record<string, Route[]>);
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-surface-cream">
       <SEOHead
         title={`Thailand Transport Routes 2026 | Go2Thailand`}
         description="Complete guide to traveling between Thai cities. Compare transport options, prices, and duration for flights, buses, trains, and ferries. Plan your Thailand journey with confidence."
@@ -102,22 +102,22 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
-        <h1 className="text-4xl font-bold text-gray-900 mb-4">Thailand Transport Routes</h1>
+        <h1 className="text-4xl font-bold font-heading text-gray-900 mb-4">Thailand Transport Routes</h1>
         <p className="text-xl text-gray-600 mb-8">
           Find the best way to travel between Thai cities. Compare flights, buses, trains, and ferries.
         </p>
 
         {/* 12Go Search Widget */}
-        <section className="bg-white rounded-lg shadow-md p-6 mb-8">
-          <h2 className="text-2xl font-bold mb-4">Book Buses, Trains & Ferries</h2>
+        <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
+          <h2 className="text-2xl font-bold font-heading mb-4">Book Buses, Trains & Ferries</h2>
           <p className="text-gray-600 mb-4">Search and book transport across Thailand with 12Go — compare operators, prices, and schedules.</p>
           <AffiliateWidget scriptContent={TWELVEGO_SEARCH_WIDGET} minHeight="300px" />
           <p className="text-xs text-gray-500 mt-2 text-center">Powered by 12Go — we earn a commission at no extra cost to you</p>
         </section>
 
         {/* Route Finder */}
-        <section className="bg-white rounded-lg shadow-md p-6 mb-8">
-          <h2 className="text-2xl font-bold mb-4">Find Your Route</h2>
+        <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
+          <h2 className="text-2xl font-bold font-heading mb-4">Find Your Route</h2>
           <div className="grid md:grid-cols-3 gap-4">
             <div>
               <label htmlFor="from" className="block text-sm font-medium text-gray-700 mb-2">
@@ -127,7 +127,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                 id="from"
                 value={fromCity}
                 onChange={(e) => setFromCity(e.target.value)}
-                className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500"
+                className="w-full p-3 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-thailand-red"
               >
                 <option value="">Select departure city</option>
                 {cities.map(city => (
@@ -143,7 +143,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                 id="to"
                 value={toCity}
                 onChange={(e) => setToCity(e.target.value)}
-                className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500"
+                className="w-full p-3 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-thailand-red"
               >
                 <option value="">Select destination</option>
                 {cities.filter(c => c.slug !== fromCity).map(city => (
@@ -155,7 +155,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
               <button
                 onClick={handleRouteSearch}
                 disabled={!fromCity || !toCity}
-                className="w-full bg-orange-500 text-white py-3 px-6 rounded-lg hover:bg-orange-600 transition-colors disabled:bg-gray-300 disabled:cursor-not-allowed"
+                className="w-full bg-thailand-red text-white py-3 px-6 rounded-xl hover:bg-thailand-red-600 transition-colors disabled:bg-gray-300 disabled:cursor-not-allowed"
               >
                 Search Route
               </button>
@@ -165,7 +165,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
 
         {/* Popular Routes */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold mb-6">Popular Routes</h2>
+          <h2 className="text-3xl font-bold font-heading mb-6">Popular Routes</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
             {popularRoutes.map(route => {
               const from = cities.find(c => c.slug === route.from);
@@ -176,18 +176,18 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                 <Link
                   key={route.slug}
                   href={`/transport/${route.slug}`}
-                  className="bg-white rounded-lg shadow-md p-4 hover:shadow-lg transition-shadow"
+                  className="bg-white rounded-2xl shadow-sm p-4 hover:shadow-md transition-shadow"
                 >
                   <div className="flex items-center justify-between mb-2">
                     <span className="text-2xl">{getRouteIcon(route.from, route.to)}</span>
                     <span className="text-sm text-gray-500">{route.distance}</span>
                   </div>
-                  <h3 className="font-semibold text-lg mb-1">
+                  <h3 className="font-semibold font-heading text-lg mb-1">
                     {from.name.en} → {to.name.en}
                   </h3>
                   <div className="flex justify-between text-sm text-gray-600">
                     <span>From {route.duration.bus || route.duration.flight || route.duration.train}</span>
-                    <span className="text-orange-500">View options →</span>
+                    <span className="text-thailand-red">View options →</span>
                   </div>
                 </Link>
               );
@@ -198,11 +198,11 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
 
         {/* All Routes by Region */}
         <section>
-          <h2 className="text-3xl font-bold mb-6">All Routes by Region</h2>
+          <h2 className="text-3xl font-bold font-heading mb-6">All Routes by Region</h2>
           <div className="space-y-8">
             {Object.entries(groupedRoutes).map(([region, routes]) => (
-              <div key={region} className="bg-white rounded-lg shadow-md p-6">
-                <h3 className="text-2xl font-semibold mb-4 capitalize">
+              <div key={region} className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-2xl font-semibold font-heading mb-4 capitalize">
                   From {region} Thailand
                 </h3>
                 <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-3">
@@ -215,12 +215,12 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                       <Link
                         key={route.slug}
                         href={`/transport/${route.slug}`}
-                        className="flex items-center justify-between p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
+                        className="flex items-center justify-between p-3 bg-surface-cream rounded-xl hover:bg-white transition-colors"
                       >
                         <span className="font-medium">
                           {from.name.en} → {to.name.en}
                         </span>
-                        <span className="text-orange-500">→</span>
+                        <span className="text-thailand-red">→</span>
                       </Link>
                     );
                   })}
@@ -232,23 +232,23 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
 
         {/* 12Go Booking CTA */}
         <section className="mt-12 mb-12">
-          <div className="bg-gradient-to-r from-green-600 to-teal-700 rounded-lg shadow-lg p-8 text-white">
+          <div className="bg-surface-dark rounded-2xl shadow-md p-8 text-white">
             <div className="max-w-3xl mx-auto text-center">
-              <h2 className="text-3xl font-bold mb-4">Book Thailand Transport Online</h2>
+              <h2 className="text-3xl font-bold font-heading mb-4">Book Thailand Transport Online</h2>
               <p className="text-lg mb-6 opacity-90">
                 Book buses, trains, ferries, and transfers across Thailand instantly with 12Go. Compare prices, read reviews, and get e-tickets delivered to your email.
               </p>
               <div className="flex flex-wrap justify-center gap-4 mb-6">
-                <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
+                <div className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm font-medium">
                   Buses & Minivans
                 </div>
-                <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
+                <div className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm font-medium">
                   Trains & Sleepers
                 </div>
-                <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
+                <div className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm font-medium">
                   Ferries & Speedboats
                 </div>
-                <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
+                <div className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm font-medium">
                   Airport Transfers
                 </div>
               </div>
@@ -256,7 +256,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                 href="https://12go.tpo.lv/tNA80urD"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-block bg-white text-green-700 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors shadow-md"
+                className="inline-block bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors shadow-md"
               >
                 Search Routes on 12Go →
               </a>
@@ -268,11 +268,11 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
         </section>
 
         {/* Transport Tips */}
-        <section className="mt-12 bg-white rounded-lg shadow-md p-6">
-          <h2 className="text-2xl font-bold mb-4">Thailand Transport Tips</h2>
+        <section className="mt-12 bg-white rounded-2xl shadow-md p-6">
+          <h2 className="text-2xl font-bold font-heading mb-4">Thailand Transport Tips</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <div>
-              <h3 className="font-semibold mb-2">Best Transport by Distance</h3>
+              <h3 className="font-semibold font-heading mb-2">Best Transport by Distance</h3>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>&lt; 200km:</strong> Bus or minivan (cheapest)</li>
                 <li>• <strong>200-500km:</strong> Train (scenic) or VIP bus</li>
@@ -281,7 +281,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
               </ul>
             </div>
             <div>
-              <h3 className="font-semibold mb-2">Booking Tips</h3>
+              <h3 className="font-semibold font-heading mb-2">Booking Tips</h3>
               <ul className="space-y-2 text-gray-700">
                 <li>• Book flights 3-4 weeks in advance</li>
                 <li>• Train sleepers fill up fast - book early</li>
@@ -290,7 +290,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
               </ul>
             </div>
             <div>
-              <h3 className="font-semibold mb-2">Comfort Levels</h3>
+              <h3 className="font-semibold font-heading mb-2">Comfort Levels</h3>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>Most comfortable:</strong> Flights, first-class train</li>
                 <li>• <strong>Good comfort:</strong> VIP bus, sleeper train</li>
@@ -299,7 +299,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
               </ul>
             </div>
             <div>
-              <h3 className="font-semibold mb-2">What to Bring</h3>
+              <h3 className="font-semibold font-heading mb-2">What to Bring</h3>
               <ul className="space-y-2 text-gray-700">
                 <li>• Light jacket (AC can be very cold)</li>
                 <li>• Snacks and water</li>

@@ -190,12 +190,13 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-cyan-600 via-blue-600 to-teal-500 text-white">
+        <section className="bg-surface-dark text-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
             <div className="text-center">
-              <h1 className="text-4xl lg:text-6xl font-bold mb-6">
+              <p className="font-script text-thailand-gold text-lg mb-2">Sun, Sand & Sea</p>
+              <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
                 {data.title[lang]}
               </h1>
               <p className="text-xl lg:text-2xl mb-6 max-w-3xl mx-auto opacity-90">
@@ -237,8 +238,8 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                   onClick={() => setActiveFilter(category)}
                   className={`px-5 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-colors ${
                     activeFilter === category
-                      ? 'bg-cyan-600 text-white'
-                      : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                      ? 'bg-thailand-blue text-white'
+                      : 'bg-surface-cream text-gray-700 hover:bg-gray-200'
                   }`}
                 >
                   {filterLabels[category][lang]}
@@ -280,7 +281,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                         />
                         <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
                         <div className="absolute bottom-4 left-4 text-white">
-                          <h2 className="text-2xl font-bold">{beach.name}</h2>
+                          <h2 className="text-2xl font-bold font-heading">{beach.name}</h2>
                           <div className="flex items-center gap-2 mt-1">
                             <Link
                               href={`/islands/${beach.island_slug}/`}
@@ -312,19 +313,19 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
 
                         {/* Info Grid */}
                         <div className="grid grid-cols-3 gap-3 mb-4 text-sm">
-                          <div className="bg-gray-50 rounded-lg p-3 text-center">
+                          <div className="bg-surface-cream rounded-xl p-3 text-center">
                             <div className="text-gray-500 text-xs mb-1">
                               {lang === 'nl' ? 'Beste Maanden' : 'Best Months'}
                             </div>
                             <div className="font-semibold text-gray-900">{beach.best_months}</div>
                           </div>
-                          <div className="bg-gray-50 rounded-lg p-3 text-center">
+                          <div className="bg-surface-cream rounded-xl p-3 text-center">
                             <div className="text-gray-500 text-xs mb-1">
                               {lang === 'nl' ? 'Drukte' : 'Crowd Level'}
                             </div>
                             <div className="font-semibold text-gray-900 capitalize">{beach.crowd_level}</div>
                           </div>
-                          <div className="bg-gray-50 rounded-lg p-3 text-center">
+                          <div className="bg-surface-cream rounded-xl p-3 text-center">
                             <div className="text-gray-500 text-xs mb-1">
                               {lang === 'nl' ? 'Budget' : 'Budget'}
                             </div>
@@ -354,8 +355,8 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
 
                     {/* Affiliate CTAs after every 5th beach */}
                     {beach.rank === 5 && (
-                      <div className="bg-gradient-to-r from-thailand-blue to-emerald-500 rounded-2xl p-6 text-white my-8">
-                        <h3 className="text-xl font-bold mb-2">
+                      <div className="bg-surface-dark rounded-2xl p-6 text-white my-8">
+                        <h3 className="text-xl font-bold font-heading mb-2">
                           {lang === 'nl' ? 'Boek je Eilandhoppen' : 'Book Your Island Hopping'}
                         </h3>
                         <p className="opacity-90 mb-4 text-sm">
@@ -415,8 +416,8 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                     )}
 
                     {beach.rank === 15 && (
-                      <div className="bg-gradient-to-r from-purple-600 to-pink-500 rounded-2xl p-6 text-white my-8">
-                        <h3 className="text-xl font-bold mb-2">
+                      <div className="bg-surface-dark rounded-2xl p-6 text-white my-8">
+                        <h3 className="text-xl font-bold font-heading mb-2">
                           {lang === 'nl' ? 'Boek Snorkel &amp; Duik Tours' : 'Book Snorkel & Dive Tours'}
                         </h3>
                         <p className="opacity-90 mb-4 text-sm">
@@ -429,7 +430,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                             href="https://klook.tpo.lv/7Dt6WApj"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
-                            className="bg-white text-purple-600 px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
+                            className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                           >
                             Klook Tours
                           </a>
@@ -437,7 +438,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                             href="https://getyourguide.tpo.lv/GuAFfGGK"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
-                            className="bg-white text-purple-600 px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
+                            className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                           >
                             GetYourGuide
                           </a>
@@ -445,7 +446,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                             href="https://saily.tpo.lv/rf9lidnE"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
-                            className="bg-white text-purple-600 px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
+                            className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                           >
                             Get eSIM for Maps
                           </a>
@@ -454,8 +455,8 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                     )}
 
                     {beach.rank === 20 && (
-                      <div className="bg-gradient-to-r from-orange-500 to-red-500 rounded-2xl p-6 text-white my-8">
-                        <h3 className="text-xl font-bold mb-2">
+                      <div className="bg-surface-dark rounded-2xl p-6 text-white my-8">
+                        <h3 className="text-xl font-bold font-heading mb-2">
                           {lang === 'nl' ? 'Vervoer naar de Eilanden' : 'Transport to the Islands'}
                         </h3>
                         <p className="opacity-90 mb-4 text-sm">
@@ -468,7 +469,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                             href="https://12go.tpo.lv/tNA80urD"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
-                            className="bg-white text-orange-600 px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
+                            className="bg-white text-thailand-red px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                           >
                             12go Ferries
                           </a>
@@ -476,7 +477,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                             href="https://trip.tpo.lv/iP1HSint"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
-                            className="bg-white text-orange-600 px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
+                            className="bg-white text-thailand-red px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                           >
                             Hotel + Flight Bundle
                           </a>
@@ -484,7 +485,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                             href="https://trip.tpo.lv/fzIWyBhW"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
-                            className="bg-white text-orange-600 px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
+                            className="bg-white text-thailand-red px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                           >
                             Car Rental
                           </a>
@@ -501,13 +502,14 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
         {/* By Region Section */}
         <section className="py-12 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+            <p className="section-label text-center">Explore</p>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
               {lang === 'nl' ? 'Stranden per Regio' : 'Beaches by Region'}
             </h2>
             <div className="grid md:grid-cols-2 gap-8">
               {/* Gulf of Thailand */}
-              <div className="bg-blue-50 rounded-2xl p-6">
-                <h3 className="text-xl font-bold text-blue-800 mb-2">Gulf of Thailand</h3>
+              <div className="bg-white rounded-2xl p-6 shadow-md">
+                <h3 className="text-xl font-bold font-heading text-blue-800 mb-2">Gulf of Thailand</h3>
                 <p className="text-blue-700 text-sm mb-4">
                   {lang === 'nl'
                     ? 'De Golf van Thailand biedt het hele jaar door rustig water met uitstekende duikmogelijkheden. Koh Tao, Koh Samui en Koh Phangan zijn de iconische eilanden van deze kust. Seizoen: jaar rond, beste periode december-maart.'
@@ -529,8 +531,8 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
               </div>
 
               {/* Andaman Sea */}
-              <div className="bg-emerald-50 rounded-2xl p-6">
-                <h3 className="text-xl font-bold text-emerald-800 mb-2">Andaman Sea</h3>
+              <div className="bg-white rounded-2xl p-6 shadow-md">
+                <h3 className="text-xl font-bold font-heading text-emerald-800 mb-2">Andaman Sea</h3>
                 <p className="text-emerald-700 text-sm mb-4">
                   {lang === 'nl'
                     ? 'De Andamanzee staat bekend om zijn dramatische kalkstenen kliffen, kristalhelder water en levendige koraalriffen. Koh Phi Phi, Koh Lanta en Koh Lipe zijn de pareltjes van deze kust. Beste seizoen: november-april.'
@@ -555,16 +557,17 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
         </section>
 
         {/* Practical Tips Section */}
-        <section className="py-12 bg-gray-50">
+        <section className="py-12 bg-surface-cream">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+            <p className="section-label text-center">Good to Know</p>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
               {lang === 'nl' ? 'Praktische Tips voor de Stranden van Thailand' : 'Practical Tips for Thailand\'s Beaches'}
             </h2>
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
               {/* Best Season */}
-              <div className="bg-white rounded-2xl p-6 shadow-sm">
+              <div className="bg-white rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all">
                 <div className="text-3xl mb-3">&#9728;</div>
-                <h3 className="text-lg font-bold text-gray-900 mb-3">
+                <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">
                   {lang === 'nl' ? 'Beste Seizoen' : 'Best Season'}
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
@@ -575,9 +578,9 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
               </div>
 
               {/* What to Pack */}
-              <div className="bg-white rounded-2xl p-6 shadow-sm">
+              <div className="bg-white rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all">
                 <div className="text-3xl mb-3">&#127956;</div>
-                <h3 className="text-lg font-bold text-gray-900 mb-3">
+                <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">
                   {lang === 'nl' ? 'Wat Meenemen' : 'What to Pack'}
                 </h3>
                 <ul className="text-gray-600 text-sm space-y-1">
@@ -591,9 +594,9 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
               </div>
 
               {/* Safety Tips */}
-              <div className="bg-white rounded-2xl p-6 shadow-sm">
+              <div className="bg-white rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all">
                 <div className="text-3xl mb-3">&#9642;</div>
-                <h3 className="text-lg font-bold text-gray-900 mb-3">
+                <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">
                   {lang === 'nl' ? 'Veiligheidstips' : 'Safety Tips'}
                 </h3>
                 <ul className="text-gray-600 text-sm space-y-1">
@@ -606,9 +609,9 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
               </div>
 
               {/* Budget Tips */}
-              <div className="bg-white rounded-2xl p-6 shadow-sm">
+              <div className="bg-white rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all">
                 <div className="text-3xl mb-3">&#128184;</div>
-                <h3 className="text-lg font-bold text-gray-900 mb-3">
+                <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">
                   {lang === 'nl' ? 'Budgettips' : 'Budget Tips'}
                 </h3>
                 <ul className="text-gray-600 text-sm space-y-1">
@@ -626,13 +629,14 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
         {/* FAQ Section */}
         <section className="py-12 bg-white">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+            <p className="section-label text-center">FAQ</p>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
               {lang === 'nl' ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}
             </h2>
             <div className="space-y-4">
               {data.faq.map((item, i) => (
-                <details key={i} className="mb-4 bg-gray-50 rounded-xl shadow-sm group">
-                  <summary className="p-5 font-semibold cursor-pointer hover:bg-gray-100 rounded-xl list-none flex items-center justify-between transition-colors">
+                <details key={i} className="mb-4 bg-surface-cream rounded-xl shadow-sm group">
+                  <summary className="p-5 font-semibold cursor-pointer hover:bg-gray-200 rounded-xl list-none flex items-center justify-between transition-colors">
                     <span className="text-gray-900">{item.question[lang]}</span>
                     <svg
                       className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform flex-shrink-0 ml-4"
@@ -653,10 +657,11 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
         </section>
 
         {/* Full Affiliate CTA Section */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold py-12">
+        <section className="bg-surface-dark py-12">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center text-white mb-8">
-              <h2 className="text-3xl font-bold mb-3">
+              <p className="font-script text-thailand-gold text-lg mb-2">Start Planning</p>
+              <h2 className="text-3xl font-bold font-heading mb-3">
                 {lang === 'nl' ? 'Plan je Thaise Strandvakantie' : 'Plan Your Thai Beach Holiday'}
               </h2>
               <p className="text-lg opacity-90">
@@ -777,16 +782,17 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
         {/* Related Pages Section */}
         <section className="py-12 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-6 text-center">
+            <p className="section-label text-center">More Guides</p>
+            <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
               {lang === 'nl' ? 'Gerelateerde Pagina\'s' : 'Related Pages'}
             </h2>
             <div className="grid md:grid-cols-2 gap-6 max-w-3xl mx-auto">
               <Link
                 href="/islands/"
-                className="group block bg-gradient-to-br from-blue-50 to-cyan-50 rounded-2xl p-6 border border-blue-100 hover:border-blue-300 transition-all hover:shadow-md"
+                className="group block bg-white rounded-2xl p-6 border-0 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all"
               >
                 <div className="text-3xl mb-3">&#127965;</div>
-                <h3 className="text-lg font-bold text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
+                <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
                   {lang === 'nl' ? 'Verken Alle Thaise Eilanden' : 'Explore All Thai Islands'}
                 </h3>
                 <p className="text-gray-600 text-sm">
@@ -801,10 +807,10 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
 
               <Link
                 href="/compare/"
-                className="group block bg-gradient-to-br from-emerald-50 to-teal-50 rounded-2xl p-6 border border-emerald-100 hover:border-emerald-300 transition-all hover:shadow-md"
+                className="group block bg-white rounded-2xl p-6 border-0 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all"
               >
                 <div className="text-3xl mb-3">&#9878;</div>
-                <h3 className="text-lg font-bold text-gray-900 group-hover:text-emerald-700 transition-colors mb-2">
+                <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
                   {lang === 'nl' ? 'Vergelijk Eilanden Naast Elkaar' : 'Compare Islands Side by Side'}
                 </h3>
                 <p className="text-gray-600 text-sm">
@@ -812,7 +818,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                     ? 'Niet zeker welk eiland je moet kiezen? Vergelijk ze direct.'
                     : "Can't decide which island to choose? Compare them directly."}
                 </p>
-                <span className="inline-block mt-3 text-emerald-700 text-sm font-medium group-hover:underline">
+                <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
                   {lang === 'nl' ? 'Vergelijk eilanden' : 'Compare islands'} &#8594;
                 </span>
               </Link>

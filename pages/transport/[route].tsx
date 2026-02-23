@@ -80,7 +80,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
   ];
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-surface-cream">
       <SEOHead
         title={`${fromCity.name.en} to ${toCity.name.en}: Cheapest Routes & Prices (2026)`}
         description={`Compare ${transportOptions.length} ways from ${fromCity.name.en} to ${toCity.name.en}. Buses, trains & flights. Prices from ${transportOptions.reduce((min, o) => { const p = parseInt(o.price.replace(/[^0-9]/g, '')); return p < min ? p : min; }, 99999).toLocaleString()} THB. Book online!`}
@@ -138,20 +138,20 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
-        <h1 className="text-4xl font-bold text-gray-900 mb-4">
+        <h1 className="text-4xl font-bold font-heading text-gray-900 mb-4">
           {fromCity.name.en} to {toCity.name.en}
         </h1>
         
         <div className="flex flex-wrap gap-4 mb-8">
-          <div className="bg-blue-100 px-4 py-2 rounded-lg">
+          <div className="bg-surface-cream px-4 py-2 rounded-xl">
             <span className="text-sm text-gray-600">Distance:</span>
             <span className="ml-2 font-semibold">{route.distance}</span>
           </div>
-          <div className="bg-green-100 px-4 py-2 rounded-lg">
+          <div className="bg-surface-cream px-4 py-2 rounded-xl">
             <span className="text-sm text-gray-600">Fastest:</span>
             <span className="ml-2 font-semibold">{route.duration.flight || route.duration.taxi || 'N/A'}</span>
           </div>
-          <div className="bg-orange-100 px-4 py-2 rounded-lg">
+          <div className="bg-surface-cream px-4 py-2 rounded-xl">
             <span className="text-sm text-gray-600">Budget:</span>
             <span className="ml-2 font-semibold">{route.duration.bus || route.duration.train || 'N/A'}</span>
           </div>
@@ -162,12 +162,12 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
             {/* Transport Options */}
             <section className="space-y-6 mb-8">
               {transportOptions.map((option, index) => (
-                <div key={index} className="bg-white rounded-lg shadow-md p-6">
+                <div key={index} className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-start justify-between mb-4">
                     <div className="flex items-center">
                       <span className="text-3xl mr-3">{getTransportIcon(option.method)}</span>
                       <div>
-                        <h2 className="text-2xl font-bold">{option.method}</h2>
+                        <h2 className="text-2xl font-bold font-heading">{option.method}</h2>
                         <div className="text-sm text-gray-600">
                           Comfort: {getComfortStars(option.comfort)}
                         </div>
@@ -218,7 +218,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                     </ul>
                   </div>
 
-                  <div className="mt-4 bg-gray-50 p-3 rounded-lg flex items-center justify-between">
+                  <div className="mt-4 bg-surface-cream p-3 rounded-xl flex items-center justify-between">
                     <span className="text-sm text-gray-600">
                       <strong>Frequency:</strong> {option.frequency}
                     </span>
@@ -226,7 +226,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                       href="https://12go.tpo.lv/tNA80urD"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="bg-green-600 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-green-700 transition-colors"
+                      className="bg-thailand-red text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors"
                     >
                       Book on 12Go →
                     </a>
@@ -237,18 +237,18 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
 
 
             {/* Travel Tips */}
-            <section className="bg-white rounded-lg shadow-md p-6 mb-8">
-              <h2 className="text-2xl font-bold mb-4">Travel Tips</h2>
+            <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
+              <h2 className="text-2xl font-bold font-heading mb-4">Travel Tips</h2>
               <div className="space-y-4">
                 <div>
-                  <h3 className="font-semibold mb-2">Best Time to Travel</h3>
+                  <h3 className="font-semibold font-heading mb-2">Best Time to Travel</h3>
                   <p className="text-gray-700">
                     Early morning departures (6-8 AM) often have less traffic and cooler temperatures. 
                     Avoid Friday evenings and Sunday afternoons when traffic is heaviest.
                   </p>
                 </div>
                 <div>
-                  <h3 className="font-semibold mb-2">What to Bring</h3>
+                  <h3 className="font-semibold font-heading mb-2">What to Bring</h3>
                   <ul className="list-disc list-inside text-gray-700 space-y-1">
                     <li>Valid ID or passport</li>
                     <li>Snacks and water for long journeys</li>
@@ -258,7 +258,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                   </ul>
                 </div>
                 <div>
-                  <h3 className="font-semibold mb-2">Booking Advice</h3>
+                  <h3 className="font-semibold font-heading mb-2">Booking Advice</h3>
                   <p className="text-gray-700">
                     Book flights 3-4 weeks in advance for best prices. Bus and train tickets can usually be 
                     purchased 1-2 days ahead, except during Thai holidays when advance booking is essential.
@@ -268,8 +268,8 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
             </section>
 
             {/* FAQ Section */}
-            <section className="bg-white rounded-lg shadow-md p-6 mb-8">
-              <h2 className="text-2xl font-bold mb-6">Frequently Asked Questions</h2>
+            <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
+              <h2 className="text-2xl font-bold font-heading mb-6">Frequently Asked Questions</h2>
               <div className="space-y-6">
                 {faqs.map((faq, index) => (
                   <div key={index} className="border-b border-gray-100 pb-4 last:border-0">
@@ -285,14 +285,14 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
               const compareSlug1 = `${fromCity.slug}-vs-${toCity.slug}`;
               const compareSlug2 = `${toCity.slug}-vs-${fromCity.slug}`;
               return (
-                <section className="bg-blue-50 rounded-lg shadow-md p-6 mb-8 border border-blue-100">
-                  <h2 className="text-xl font-bold mb-3">{fromCity.name.en} vs {toCity.name.en}</h2>
+                <section className="bg-surface-cream rounded-2xl shadow-md p-6 mb-8 border-0">
+                  <h2 className="text-xl font-bold font-heading mb-3">{fromCity.name.en} vs {toCity.name.en}</h2>
                   <p className="text-gray-600 text-sm mb-4">
                     Not sure which city to visit? Compare weather, budget, attractions, and more.
                   </p>
                   <Link
                     href={`/compare/${compareSlug1}/`}
-                    className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-2.5 rounded-lg font-semibold hover:bg-blue-700 transition-colors text-sm"
+                    className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-2.5 rounded-xl font-semibold hover:bg-blue-700 transition-colors text-sm"
                   >
                     Compare {fromCity.name.en} & {toCity.name.en} →
                   </Link>
@@ -301,8 +301,8 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
             })()}
 
             {/* Related Routes */}
-            <section className="bg-white rounded-lg shadow-md p-6">
-              <h2 className="text-2xl font-bold mb-4">Related Routes</h2>
+            <section className="bg-white rounded-2xl shadow-md p-6">
+              <h2 className="text-2xl font-bold font-heading mb-4">Related Routes</h2>
               <div className="grid gap-3">
                 <div className="mb-2">
                   <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-2">From {fromCity.name.en}</h3>
@@ -313,7 +313,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                       const otherSlug = r.from === fromCity.slug ? r.to : r.from;
                       const otherCity = citiesData.find(c => c.slug === otherSlug);
                       return (
-                        <Link key={r.slug} href={`/transport/${r.slug}/`} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors mb-1">
+                        <Link key={r.slug} href={`/transport/${r.slug}/`} className="flex items-center justify-between p-3 bg-surface-cream rounded-xl hover:bg-white transition-colors mb-1">
                           <span className="font-medium text-sm">{fromCity.name.en} → {otherCity?.name.en || otherSlug}</span>
                           <span className="text-xs text-gray-500">{r.distance}</span>
                         </Link>
@@ -329,7 +329,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                       const otherSlug = r.from === toCity.slug ? r.to : r.from;
                       const otherCity = citiesData.find(c => c.slug === otherSlug);
                       return (
-                        <Link key={r.slug} href={`/transport/${r.slug}/`} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors mb-1">
+                        <Link key={r.slug} href={`/transport/${r.slug}/`} className="flex items-center justify-between p-3 bg-surface-cream rounded-xl hover:bg-white transition-colors mb-1">
                           <span className="font-medium text-sm">{toCity.name.en} → {otherCity?.name.en || otherSlug}</span>
                           <span className="text-xs text-gray-500">{r.distance}</span>
                         </Link>
@@ -352,8 +352,8 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
           <aside>
             <div className="lg:sticky lg:top-4 space-y-6">
             {/* 12Go Search Widget */}
-            <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-3">Search Transport</h3>
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h3 className="text-lg font-semibold font-heading mb-3">Search Transport</h3>
               <AffiliateWidget
                 scriptContent={`<script async src="https://tpembd.com/content?trs=421888&shmarker=602467&locale=en&from=${encodeURIComponent(fromCity.name.en)}&to=${encodeURIComponent(toCity.name.en)}&from_en=${encodeURIComponent(fromCity.name.en)}&to_en=${encodeURIComponent(toCity.name.en)}&powered_by=true&color=black&border=1&campaign_id=44&promo_id=1506" charset="utf-8"></script>`}
                 minHeight="250px"
@@ -361,8 +361,8 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
             </div>
 
             {/* 12Go Booking */}
-            <div className="bg-gradient-to-br from-green-50 to-teal-50 rounded-lg shadow-md p-6 border border-green-200">
-              <h3 className="text-lg font-semibold mb-3">Book Transport</h3>
+            <div className="bg-surface-cream rounded-2xl shadow-md p-6 border-0">
+              <h3 className="text-lg font-semibold font-heading mb-3">Book Transport</h3>
               <p className="text-sm text-gray-600 mb-4">
                 Book buses, trains, and ferries from {fromCity.name.en} to {toCity.name.en} on 12Go — Thailand&apos;s most popular transport booking platform.
               </p>
@@ -377,7 +377,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                 href="https://12go.tpo.lv/tNA80urD"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="block w-full bg-green-600 text-white text-center py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors"
+                className="block w-full bg-thailand-red text-white text-center py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors"
               >
                 Search on 12Go →
               </a>
@@ -387,16 +387,16 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
             </div>
 
             {/* Trip.com Widget */}
-            <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">Book Your Journey</h3>
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h3 className="text-lg font-semibold font-heading mb-4">Book Your Journey</h3>
               <TripcomWidget city={fromCity.name.en} type="bundle" />
             </div>
 
             {/* Other Routes Selector */}
-            <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">Popular Routes</h3>
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h3 className="text-lg font-semibold font-heading mb-4">Popular Routes</h3>
               <select 
-                className="w-full p-2 border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-orange-500 mb-4"
+                className="w-full p-2 border border-gray-300 rounded-xl text-gray-700 focus:outline-none focus:ring-2 focus:ring-thailand-red mb-4"
                 value={route.slug}
                 onChange={(e) => window.location.href = `/transport/${e.target.value}`}
               >
@@ -410,14 +410,14 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                   ))
                 }
               </select>
-              <Link href="/transport" className="text-orange-500 hover:text-orange-600 text-sm">
+              <Link href="/transport" className="text-thailand-red hover:text-thailand-red-600 text-sm">
                 View all routes →
               </Link>
             </div>
 
             {/* Quick Facts */}
-            <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">Quick Facts</h3>
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h3 className="text-lg font-semibold font-heading mb-4">Quick Facts</h3>
               <dl className="space-y-3 text-sm">
                 <div className="flex justify-between">
                   <dt className="text-gray-600">Distance:</dt>
@@ -435,26 +435,26 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
             </div>
 
             {/* Related Links */}
-            <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">Plan Your Trip</h3>
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h3 className="text-lg font-semibold font-heading mb-4">Plan Your Trip</h3>
               <ul className="space-y-2">
                 <li>
-                  <Link href={`/city/${fromCity.slug}/weather`} className="text-orange-500 hover:text-orange-600">
+                  <Link href={`/city/${fromCity.slug}/weather`} className="text-thailand-red hover:text-thailand-red-600">
                     {fromCity.name.en} Weather
                   </Link>
                 </li>
                 <li>
-                  <Link href={`/city/${toCity.slug}/weather`} className="text-orange-500 hover:text-orange-600">
+                  <Link href={`/city/${toCity.slug}/weather`} className="text-thailand-red hover:text-thailand-red-600">
                     {toCity.name.en} Weather
                   </Link>
                 </li>
                 <li>
-                  <Link href="/travel-insurance" className="text-orange-500 hover:text-orange-600">
+                  <Link href="/travel-insurance" className="text-thailand-red hover:text-thailand-red-600">
                     Travel Insurance
                   </Link>
                 </li>
                 <li>
-                  <Link href="/esim" className="text-orange-500 hover:text-orange-600">
+                  <Link href="/esim" className="text-thailand-red hover:text-thailand-red-600">
                     Thailand eSIM
                   </Link>
                 </li>

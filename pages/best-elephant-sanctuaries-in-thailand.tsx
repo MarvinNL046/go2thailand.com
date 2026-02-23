@@ -107,16 +107,17 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero */}
-        <section className="bg-green-800 text-white">
+        <section className="bg-surface-dark text-white">
           <div className="container-custom py-12">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center mt-6">
-              <h1 className="text-4xl lg:text-5xl font-bold mb-4">
+              <p className="font-script text-thailand-gold text-lg mb-2">Ethical Wildlife</p>
+              <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
                 Best Elephant Sanctuaries in Thailand
               </h1>
-              <p className="text-xl max-w-3xl mx-auto text-green-100">
+              <p className="text-xl max-w-3xl mx-auto text-gray-300">
                 From Chiang Mai&apos;s jungle sanctuaries to Phuket&apos;s beach elephant walks — compare ethical elephant experiences across Thailand&apos;s top destinations.
               </p>
             </div>
@@ -126,13 +127,14 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
         <section className="section-padding">
           <div className="container-custom">
             {/* Quick Comparison Table */}
-            <div className="bg-white rounded-lg shadow-lg overflow-hidden mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 p-6 pb-0">
+            <div className="bg-white rounded-2xl shadow-md overflow-hidden mb-12">
+              <p className="section-label px-6 pt-6">Compare</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 p-6 pb-0">
                 City Comparison at a Glance
               </h2>
               <div className="overflow-x-auto">
                 <table className="w-full text-left">
-                  <thead className="bg-gray-50">
+                  <thead className="bg-surface-cream">
                     <tr>
                       <th className="px-6 py-4 text-sm font-semibold text-gray-600">City</th>
                       <th className="px-6 py-4 text-sm font-semibold text-gray-600">Sanctuaries</th>
@@ -145,7 +147,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                     {cities.map((city) => (
                       <tr key={city.slug} className="hover:bg-gray-50">
                         <td className="px-6 py-4">
-                          <Link href={`/city/${city.slug}/elephant-sanctuaries/`} className="font-semibold text-green-700 hover:underline">
+                          <Link href={`/city/${city.slug}/elephant-sanctuaries/`} className="font-semibold text-thailand-blue hover:underline">
                             {city.name.en}
                           </Link>
                         </td>
@@ -157,7 +159,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                         <td className="px-6 py-4">
                           <Link
                             href={`/city/${city.slug}/elephant-sanctuaries/`}
-                            className="text-sm font-semibold text-green-600 hover:text-green-700"
+                            className="text-sm font-semibold text-thailand-blue hover:text-blue-800"
                           >
                             View all &rarr;
                           </Link>
@@ -171,30 +173,30 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
 
             {/* City Sections */}
             {cities.map((city, index) => (
-              <div key={city.slug} className="bg-white rounded-lg shadow-lg p-8 mb-8">
+              <div key={city.slug} className="bg-white rounded-2xl shadow-md hover:shadow-xl transition-shadow p-8 mb-8">
                 <div className="flex items-center gap-3 mb-4">
-                  <span className="text-lg font-bold text-white bg-green-600 w-8 h-8 rounded-full flex items-center justify-center">
+                  <span className="text-lg font-bold text-white bg-thailand-blue w-8 h-8 rounded-xl flex items-center justify-center">
                     {index + 1}
                   </span>
-                  <h2 className="text-2xl font-bold text-gray-900">
-                    <Link href={`/city/${city.slug}/elephant-sanctuaries/`} className="hover:text-green-700">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900">
+                    <Link href={`/city/${city.slug}/elephant-sanctuaries/`} className="hover:text-thailand-blue">
                       Elephant Sanctuaries in {city.name.en}
                     </Link>
                   </h2>
                 </div>
                 <p className="text-gray-700 mb-4">{city.highlight.en}</p>
                 <div className="grid grid-cols-3 gap-4 mb-6">
-                  <div className="bg-gray-50 rounded-lg p-3 text-center">
+                  <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">{city.classCount}+</div>
                     <div className="text-xs text-gray-600">Sanctuaries</div>
                   </div>
-                  <div className="bg-gray-50 rounded-lg p-3 text-center">
+                  <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">
                       {formatPrice(city.priceRange.from, loc)}+
                     </div>
                     <div className="text-xs text-gray-600">Starting Price</div>
                   </div>
-                  <div className="bg-gray-50 rounded-lg p-3 text-center">
+                  <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">{city.topRating}</div>
                     <div className="text-xs text-gray-600">Top Rating</div>
                   </div>
@@ -206,7 +208,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                     .filter(ts => ts.citySlug === city.slug)
                     .slice(0, 3)
                     .map((ts, i) => (
-                      <div key={ts.sanctuary.slug} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                      <div key={ts.sanctuary.slug} className="flex items-center justify-between p-3 bg-surface-cream rounded-xl">
                         <div className="flex items-center gap-3">
                           <span className="text-sm font-bold text-gray-400">#{i + 1}</span>
                           <div>
@@ -231,7 +233,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
 
                 <Link
                   href={`/city/${city.slug}/elephant-sanctuaries/`}
-                  className="inline-flex items-center text-green-600 font-semibold hover:text-green-700"
+                  className="inline-flex items-center text-thailand-blue font-semibold hover:text-blue-800"
                 >
                   See all {city.classCount} sanctuaries in {city.name.en} &rarr;
                 </Link>
@@ -239,8 +241,9 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
             ))}
 
             {/* CTA */}
-            <div className="bg-gradient-to-r from-green-600 to-green-800 rounded-lg p-8 mb-12 text-center text-white">
-              <h2 className="text-3xl font-bold mb-4">Ready to Meet Thailand&apos;s Elephants?</h2>
+            <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
+              <p className="font-script text-thailand-gold text-lg mb-2">Book Your Visit</p>
+              <h2 className="text-3xl font-bold font-heading mb-4">Ready to Meet Thailand&apos;s Elephants?</h2>
               <p className="text-lg mb-6 opacity-90">
                 Browse ethical elephant sanctuaries across Thailand on these trusted booking platforms.
               </p>
@@ -249,7 +252,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                   href={GYG_AFFILIATE}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-white text-green-700 font-semibold rounded-lg hover:bg-gray-100 transition-colors"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-blue font-semibold rounded-xl hover:bg-gray-100 transition-colors"
                 >
                   Browse on GetYourGuide
                 </a>
@@ -257,7 +260,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                   href={KLOOK_AFFILIATE}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-lg hover:bg-white/30 transition-colors border border-white/40"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40"
                 >
                   Browse on Klook
                 </a>
@@ -268,14 +271,15 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
             </div>
 
             {/* FAQ */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <p className="section-label">FAQ</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                 Frequently Asked Questions
               </h2>
               <div className="space-y-6">
                 {faqItems.map((item, i) => (
                   <div key={i}>
-                    <h3 className="text-lg font-semibold text-gray-900 mb-2">{item.q}</h3>
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">{item.q}</h3>
                     <p className="text-gray-700">{item.a}</p>
                   </div>
                 ))}

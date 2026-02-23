@@ -97,7 +97,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
         <meta name="keywords" content={metadata.keywords} />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
         <section className="relative h-80 lg:h-96 overflow-hidden">
           <div className="absolute inset-0">
@@ -108,21 +108,22 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
               className="object-cover"
               priority
             />
-            <div className="absolute inset-0 bg-gradient-to-r from-thailand-blue-900/80 to-thailand-red-900/60"></div>
+            <div className="absolute inset-0 bg-surface-dark/70"></div>
           </div>
-          
+
           <div className="relative z-10 h-full flex items-center">
             <div className="container-custom text-white">
               <div className="max-w-4xl">
                 <div className="flex items-center mb-4">
-                  <span className="bg-thailand-red text-white px-3 py-1 rounded-lg text-sm font-semibold mr-3">
+                  <span className="bg-thailand-red text-white px-3 py-1 rounded-xl text-sm font-semibold mr-3">
                     {city.region} Thailand
                   </span>
                   <span className="text-gray-200 text-sm">
                     Attractions Guide
                   </span>
                 </div>
-                <h1 className="text-4xl lg:text-6xl font-bold mb-4">
+                <p className="font-script text-thailand-gold text-sm mb-2">Discover</p>
+                <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-4">
                   Attractions in {city.name.en}
                 </h1>
                 <p className="text-xl lg:text-2xl text-gray-200 max-w-3xl">
@@ -154,8 +155,9 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
               <div className="lg:col-span-3">
                 {/* Attractions Overview */}
                 <div className="mb-12">
-                  <div className="bg-gradient-to-r from-thailand-blue-50 to-thailand-red-50 rounded-xl p-8 mb-8">
-                    <h2 className="text-3xl font-bold text-thailand-blue-900 mb-4">
+                  <div className="bg-surface-cream rounded-2xl p-8 mb-8">
+                    <p className="font-script text-thailand-gold text-sm mb-2">Must-See</p>
+                    <h2 className="text-3xl font-bold font-heading text-thailand-blue-900 mb-4">
                       Must-Visit Attractions
                     </h2>
                     <p className="text-thailand-blue-700 text-lg leading-relaxed">
@@ -168,8 +170,8 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
 
                   {/* Trip.com Hotels Widget */}
                   <div className="mb-12">
-                    <div className="bg-white rounded-xl shadow-lg p-8">
-                      <h3 className="text-2xl font-bold text-thailand-blue-900 mb-4 text-center">
+                    <div className="bg-white rounded-2xl shadow-md p-8">
+                      <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-4 text-center">
                         Book Your Stay Near These Attractions
                       </h3>
                       <p className="text-gray-600 text-center mb-6">
@@ -186,7 +188,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                         <Link 
                           key={attraction.id} 
                           href={`/city/${city.slug}/attractions/${attraction.slug}/`}
-                          className="group bg-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 overflow-hidden border border-thailand-blue-100"
+                          className="group bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden border-0"
                         >
                           {/* Attraction Image */}
                           <div className="relative h-48 overflow-hidden">
@@ -224,7 +226,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                           
                           {/* Content */}
                           <div className="p-6">
-                            <h3 className="text-xl font-bold text-thailand-blue-900 mb-3 group-hover:text-thailand-red transition-colors">
+                            <h3 className="text-xl font-bold font-heading text-thailand-blue-900 mb-3 group-hover:text-thailand-red transition-colors">
                               {attraction.name.en}
                             </h3>
                             <p className="text-gray-600 leading-relaxed mb-4 line-clamp-3">
@@ -284,13 +286,13 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                     </div>
                   ) : (
                     <div className="text-center py-16">
-                      <div className="w-24 h-24 bg-thailand-blue-100 rounded-full flex items-center justify-center mx-auto mb-6">
+                      <div className="w-24 h-24 bg-thailand-blue-100 rounded-xl flex items-center justify-center mx-auto mb-6">
                         <svg className="w-12 h-12 text-thailand-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                         </svg>
                       </div>
-                      <h3 className="text-2xl font-bold text-gray-900 mb-4">
+                      <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
                         Attractions Coming Soon
                       </h3>
                       <p className="text-gray-600 mb-6">
@@ -305,8 +307,8 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                 </div>
 
                 {/* Travel Tips for Attractions */}
-                <div className="bg-white rounded-xl shadow-lg p-8 mb-12">
-                  <h3 className="text-2xl font-bold text-thailand-blue-900 mb-6 flex items-center">
+                <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+                  <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-6 flex items-center">
                     <svg className="w-6 h-6 mr-3 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
                       <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
                     </svg>
@@ -369,15 +371,15 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                 </div>
 
                 {/* Book Attraction Tickets & Tours - Affiliate Section */}
-                <div className="bg-white rounded-xl shadow-lg p-8 mb-12">
-                  <h3 className="text-2xl font-bold text-thailand-blue-900 mb-4 text-center">
+                <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+                  <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-4 text-center">
                     Book Attraction Tickets & Tours in {city.name.en}
                   </h3>
                   <p className="text-gray-600 text-center mb-8">
                     Skip the line and book your tickets in advance for the best experience.
                   </p>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    <div className="border border-gray-200 rounded-xl p-6 text-center">
+                    <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
                       <h4 className="text-lg font-bold text-gray-900 mb-2">Klook</h4>
                       <p className="text-gray-600 text-sm mb-4">
                         Book tickets and skip-the-line access
@@ -386,12 +388,12 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                         href="https://klook.tpo.lv/aq6ZFxvc"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-flex items-center justify-center w-full px-6 py-3 bg-orange-500 text-white font-semibold rounded-lg hover:bg-orange-600 transition-colors"
+                        className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors"
                       >
                         Browse on Klook
                       </a>
                     </div>
-                    <div className="border border-gray-200 rounded-xl p-6 text-center">
+                    <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
                       <h4 className="text-lg font-bold text-gray-900 mb-2">GetYourGuide</h4>
                       <p className="text-gray-600 text-sm mb-4">
                         Expert-guided tours with free cancellation
@@ -400,7 +402,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                         href="https://getyourguide.tpo.lv/GuAFfGGK"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-flex items-center justify-center w-full px-6 py-3 bg-blue-700 text-white font-semibold rounded-lg hover:bg-blue-800 transition-colors"
+                        className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                       >
                         Browse on GetYourGuide
                       </a>
@@ -417,16 +419,16 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                 </div>
 
                 {/* Quick Navigation */}
-                <div className="bg-white rounded-xl shadow-lg p-8">
-                  <h3 className="text-2xl font-bold text-thailand-blue-900 mb-6 text-center">
+                <div className="bg-white rounded-2xl shadow-md p-8">
+                  <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-6 text-center">
                     Explore More of {city.name.en}
                   </h3>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    <Link 
+                    <Link
                       href={`/city/${city.slug}/food/`}
-                      className="group flex items-center p-6 border-2 border-thailand-blue-100 rounded-xl hover:border-thailand-red hover:bg-thailand-red-50 transition-all duration-300"
+                      className="group flex items-center p-6 border-0 bg-surface-cream rounded-2xl hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
                     >
-                      <div className="w-16 h-16 bg-gradient-to-br from-thailand-blue to-thailand-red rounded-xl flex items-center justify-center mr-4 group-hover:scale-110 transition-transform">
+                      <div className="w-16 h-16 bg-thailand-blue rounded-xl flex items-center justify-center mr-4 group-hover:scale-110 transition-transform">
                         <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                         </svg>
@@ -437,11 +439,11 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                       </div>
                     </Link>
 
-                    <Link 
+                    <Link
                       href={`/city/${city.slug}/hotels/`}
-                      className="group flex items-center p-6 border-2 border-thailand-blue-100 rounded-xl hover:border-thailand-red hover:bg-thailand-red-50 transition-all duration-300"
+                      className="group flex items-center p-6 border-0 bg-surface-cream rounded-2xl hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
                     >
-                      <div className="w-16 h-16 bg-gradient-to-br from-thailand-red to-thailand-blue rounded-xl flex items-center justify-center mr-4 group-hover:scale-110 transition-transform">
+                      <div className="w-16 h-16 bg-thailand-red rounded-xl flex items-center justify-center mr-4 group-hover:scale-110 transition-transform">
                         <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                         </svg>
@@ -456,7 +458,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                   <div className="text-center mt-8">
                     <Link 
                       href={`/city/${city.slug}/`} 
-                      className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-thailand-blue to-thailand-red text-white font-semibold rounded-lg hover:from-thailand-blue-600 hover:to-thailand-red-600 transition-all duration-300 shadow-lg hover:shadow-xl"
+                      className="inline-flex items-center px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-all duration-300 shadow-md hover:shadow-xl"
                     >
                       <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
@@ -470,8 +472,8 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
               {/* Sidebar */}
               <div className="lg:col-span-1">
                 {/* Quick Stats */}
-                <div className="bg-white rounded-xl shadow-lg p-6 mb-8">
-                  <h3 className="text-lg font-bold text-thailand-blue-900 mb-4">Quick Info</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6 mb-8">
+                  <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4">Quick Info</h3>
                   <div className="space-y-3">
                     <div className="flex justify-between items-center">
                       <span className="text-gray-600 text-sm">Total Attractions:</span>
@@ -491,8 +493,8 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                 {/* Sidebar Ad */}
 
                 {/* Travel Tips */}
-                <div className="bg-gradient-to-br from-thailand-gold-50 to-thailand-blue-50 rounded-xl p-6 mt-8">
-                  <h3 className="text-lg font-bold text-thailand-blue-900 mb-4 flex items-center">
+                <div className="bg-surface-cream rounded-2xl p-6 mt-8">
+                  <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4 flex items-center">
                     <svg className="w-5 h-5 mr-2 text-thailand-gold-600" fill="currentColor" viewBox="0 0 20 20">
                       <path fillRule="evenodd" d="M3 3a1 1 0 000 2v8a2 2 0 002 2h2.586l-1.293 1.293a1 1 0 101.414 1.414L10 15.414l2.293 2.293a1 1 0 001.414-1.414L12.414 15H15a2 2 0 002-2V5a1 1 0 100-2H3zm11.707 4.707a1 1 0 00-1.414-1.414L10 9.586 8.707 8.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                     </svg>

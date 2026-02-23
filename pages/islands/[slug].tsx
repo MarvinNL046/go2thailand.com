@@ -200,7 +200,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
         <section className="relative h-[400px] lg:h-[500px]">
           <Image
@@ -221,7 +221,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                   {island.province}
                 </span>
               </div>
-              <h1 className="text-4xl lg:text-6xl font-bold mb-4">{island.name[lang]}</h1>
+              <h1 className="text-4xl lg:text-6xl font-heading font-bold mb-4">{island.name[lang]}</h1>
               <p className="text-lg lg:text-xl max-w-3xl opacity-90">
                 {island.description[lang]}
               </p>
@@ -240,22 +240,22 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
         <section className="bg-white border-b">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-              <div className="bg-blue-50 rounded-lg p-4 text-center">
+              <div className="bg-surface-cream rounded-xl p-4 text-center">
                 <div className="text-2xl mb-1"></div>
                 <div className="text-sm text-gray-600">Beaches</div>
                 <div className="font-bold text-lg">{island.beaches.length}</div>
               </div>
-              <div className="bg-green-50 rounded-lg p-4 text-center">
+              <div className="bg-surface-cream rounded-xl p-4 text-center">
                 <div className="text-2xl mb-1"></div>
                 <div className="text-sm text-gray-600">Activities</div>
                 <div className="font-bold text-lg">{island.activities.length}</div>
               </div>
-              <div className="bg-orange-50 rounded-lg p-4 text-center">
+              <div className="bg-surface-cream rounded-xl p-4 text-center">
                 <div className="text-2xl mb-1"></div>
                 <div className="text-sm text-gray-600">Best Season</div>
                 <div className="font-bold text-lg">{island.best_time_to_visit.high_season}</div>
               </div>
-              <div className="bg-purple-50 rounded-lg p-4 text-center">
+              <div className="bg-surface-cream rounded-xl p-4 text-center">
                 <div className="text-2xl mb-1"></div>
                 <div className="text-sm text-gray-600">Daily Budget</div>
                 <div className="font-bold text-lg">{island.budget_info.daily_budget.budget}</div>
@@ -270,17 +270,18 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
             <div className="lg:col-span-2 space-y-12">
               {/* Beaches Section */}
               <section>
-                <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                <p className="section-label font-script text-thailand-gold">Explore</p>
+                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
                   Beaches on {island.name[lang]}
                 </h2>
                 <div className="space-y-6">
                   {island.beaches.map((beach, index) => (
-                    <div key={index} className="bg-white rounded-lg shadow-md p-6">
-                      <h3 className="text-xl font-bold text-gray-900 mb-2">{beach.name}</h3>
+                    <div key={index} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6">
+                      <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">{beach.name}</h3>
                       <p className="text-gray-700 mb-3">{beach.description[lang]}</p>
                       <div className="flex flex-wrap gap-2">
                         {beach.best_for.map((tag, idx) => (
-                          <span key={idx} className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full text-xs font-medium">
+                          <span key={idx} className="bg-thailand-blue/10 text-thailand-blue px-3 py-1 rounded-full text-xs font-medium">
                             {tag}
                           </span>
                         ))}
@@ -292,19 +293,20 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
 
               {/* Activities Section */}
               <section>
-                <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                <p className="section-label font-script text-thailand-gold">Things to Do</p>
+                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
                   Things to Do on {island.name[lang]}
                 </h2>
                 <div className="grid md:grid-cols-2 gap-4">
                   {island.activities.map((activity, index) => (
-                    <div key={index} className="bg-white rounded-lg shadow-md p-6">
+                    <div key={index} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6">
                       <div className="flex justify-between items-start mb-2">
-                        <h3 className="text-lg font-bold text-gray-900">{activity.name}</h3>
-                        <span className="bg-green-100 text-green-700 px-2 py-1 rounded text-xs font-medium">
+                        <h3 className="text-lg font-heading font-bold text-gray-900">{activity.name}</h3>
+                        <span className="bg-thailand-blue/10 text-thailand-blue px-2 py-1 rounded-full text-xs font-medium">
                           {activity.price_range}
                         </span>
                       </div>
-                      <span className="inline-block bg-gray-100 text-gray-600 px-2 py-1 rounded text-xs mb-2">
+                      <span className="inline-block bg-surface-cream text-gray-600 px-2 py-1 rounded-full text-xs mb-2">
                         {activity.type}
                       </span>
                       <p className="text-gray-700 text-sm">{activity.description[lang]}</p>
@@ -315,30 +317,31 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
 
               {/* Getting There Section */}
               <section>
-                <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                <p className="section-label font-script text-thailand-gold">Transport</p>
+                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
                   How to Get to {island.name[lang]}
                 </h2>
                 <div className="space-y-4">
                   {island.getting_there.from_bangkok.options.map((option, index) => (
-                    <div key={index} className="bg-white rounded-lg shadow-md p-6">
+                    <div key={index} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6">
                       <div className="flex items-start justify-between mb-3">
                         <div className="flex items-center">
                           <span className="text-2xl mr-3">{getTransportIcon(option.method)}</span>
                           <div>
-                            <h3 className="text-lg font-bold">{option.method}</h3>
+                            <h3 className="text-lg font-heading font-bold">{option.method}</h3>
                             <span className="text-sm text-gray-600">{option.duration}</span>
                           </div>
                         </div>
                         <div className="text-right">
-                          <div className="text-xl font-bold text-green-600">{option.price}</div>
+                          <div className="text-xl font-bold text-thailand-blue">{option.price}</div>
                         </div>
                       </div>
                       <p className="text-gray-700 text-sm">{option.description[lang]}</p>
                     </div>
                   ))}
                 </div>
-                <div className="mt-6 bg-white rounded-lg shadow-md p-6">
-                  <h3 className="text-lg font-bold text-gray-900 mb-3">Book Transport to {island.name.en}</h3>
+                <div className="mt-6 bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-lg font-heading font-bold text-gray-900 mb-3">Book Transport to {island.name.en}</h3>
                   <AffiliateWidget
                     scriptContent='<script src="https://tp.media/content?trs=384595&shmarker=602467&lang=en&powered_by=true&border_radius=20&plain=true&promo_id=4416&campaign_id=121"></script>'
                     className="mb-4"
@@ -349,7 +352,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                       href="https://12go.tpo.lv/tNA80urD"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-block bg-thailand-blue text-white px-6 py-3 rounded-lg font-semibold hover:bg-thailand-red transition-colors"
+                      className="inline-block bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red transition-colors"
                     >
                       12Go Asia →
                     </a>
@@ -357,7 +360,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                       href="https://trip.tpo.lv/iP1HSint"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+                      className="inline-block bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue transition-colors"
                     >
                       Trip.com Transfers →
                     </a>
@@ -368,15 +371,16 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
 
               {/* Where to Stay Section */}
               <section>
-                <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                <p className="section-label font-script text-thailand-gold">Accommodation</p>
+                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
                   Where to Stay on {island.name[lang]}
                 </h2>
                 <div className="grid md:grid-cols-2 gap-4">
                   {island.accommodation_tips.areas.map((area, index) => (
-                    <div key={index} className="bg-white rounded-lg shadow-md p-6">
+                    <div key={index} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6">
                       <div className="flex justify-between items-start mb-2">
-                        <h3 className="text-lg font-bold text-gray-900">{area.name}</h3>
-                        <span className="bg-purple-100 text-purple-700 px-2 py-1 rounded text-xs font-medium">
+                        <h3 className="text-lg font-heading font-bold text-gray-900">{area.name}</h3>
+                        <span className="bg-thailand-red/10 text-thailand-red px-2 py-1 rounded-full text-xs font-medium">
                           {area.price_range}
                         </span>
                       </div>
@@ -389,7 +393,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     href="https://booking.tpo.lv/2PT1kR82"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-block bg-thailand-blue text-white px-6 py-3 rounded-lg font-semibold hover:bg-thailand-red transition-colors"
+                    className="inline-block bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red transition-colors"
                   >
                     Booking.com →
                   </a>
@@ -397,7 +401,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     href="https://trip.tpo.lv/TmObooZ5"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+                    className="inline-block bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue transition-colors"
                   >
                     Trip.com →
                   </a>
@@ -405,14 +409,14 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                 </div>
               </section>
               {/* FAQ Section */}
-              <section className="bg-white rounded-lg shadow-lg p-8">
-                <h2 className="text-3xl font-bold text-gray-900 mb-6">
+              <section className="bg-white rounded-2xl shadow-md p-8">
+                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
                   Frequently Asked Questions about {island.name[lang]}
                 </h2>
                 <div className="space-y-6">
                   {faqs.map((faq, index) => (
                     <div key={index} className="border-b border-gray-100 pb-4 last:border-0">
-                      <h3 className="text-lg font-semibold text-gray-900 mb-2">{faq.question}</h3>
+                      <h3 className="text-lg font-heading font-semibold text-gray-900 mb-2">{faq.question}</h3>
                       <p className="text-gray-700">{faq.answer}</p>
                     </div>
                   ))}
@@ -422,7 +426,8 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
               {/* Compare with Other Islands */}
               {comparisons.length > 0 && (
                 <section>
-                  <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                  <p className="section-label font-script text-thailand-gold">Compare</p>
+                  <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
                     Compare {island.name[lang]} with Other Islands
                   </h2>
                   <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
@@ -430,7 +435,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                       <Link
                         key={comp.slug}
                         href={`/compare/${comp.slug}/`}
-                        className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-4 text-center"
+                        className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-4 text-center"
                       >
                         <span className="text-sm font-medium text-gray-700">
                           {island.name[lang]} <span className="text-gray-400">vs</span> {comp.otherName[lang]}
@@ -446,16 +451,16 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
             <aside>
               <div className="lg:sticky lg:top-4 space-y-6">
               {/* Best Time to Visit */}
-              <div className="bg-white rounded-lg shadow-lg p-6">
-                <h3 className="text-xl font-bold mb-4">Best Time to Visit</h3>
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-heading font-bold mb-4">Best Time to Visit</h3>
                 <div className="space-y-3">
                   <div className="flex justify-between items-center">
                     <span className="text-sm text-gray-600">High Season</span>
-                    <span className="font-medium text-green-600">{island.best_time_to_visit.high_season}</span>
+                    <span className="font-medium text-thailand-blue">{island.best_time_to_visit.high_season}</span>
                   </div>
                   <div className="flex justify-between items-center">
                     <span className="text-sm text-gray-600">Shoulder</span>
-                    <span className="font-medium text-yellow-600">{island.best_time_to_visit.shoulder}</span>
+                    <span className="font-medium text-thailand-gold">{island.best_time_to_visit.shoulder}</span>
                   </div>
                   <div className="flex justify-between items-center">
                     <span className="text-sm text-gray-600">Low Season</span>
@@ -463,27 +468,27 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                   </div>
                   <div className="flex justify-between items-center">
                     <span className="text-sm text-gray-600">Avoid</span>
-                    <span className="font-medium text-red-600">{island.best_time_to_visit.avoid}</span>
+                    <span className="font-medium text-thailand-red">{island.best_time_to_visit.avoid}</span>
                   </div>
                 </div>
                 <p className="text-sm text-gray-700 mt-4">{island.best_time_to_visit.description[lang]}</p>
               </div>
 
               {/* Budget Guide */}
-              <div className="bg-white rounded-lg shadow-lg p-6">
-                <h3 className="text-xl font-bold mb-4">Daily Budget</h3>
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-heading font-bold mb-4">Daily Budget</h3>
                 <div className="space-y-3">
                   <div className="flex justify-between items-center">
                     <span className="text-sm">Budget</span>
-                    <span className="font-bold text-green-600">{island.budget_info.daily_budget.budget}</span>
+                    <span className="font-bold text-thailand-blue">{island.budget_info.daily_budget.budget}</span>
                   </div>
                   <div className="flex justify-between items-center">
                     <span className="text-sm">Mid-Range</span>
-                    <span className="font-bold text-blue-600">{island.budget_info.daily_budget.mid}</span>
+                    <span className="font-bold text-thailand-blue">{island.budget_info.daily_budget.mid}</span>
                   </div>
                   <div className="flex justify-between items-center">
                     <span className="text-sm">Luxury</span>
-                    <span className="font-bold text-purple-600">{island.budget_info.daily_budget.luxury}</span>
+                    <span className="font-bold text-thailand-red">{island.budget_info.daily_budget.luxury}</span>
                   </div>
                 </div>
                 <p className="text-sm text-gray-600 mt-4">{island.budget_info.currency_tips[lang]}</p>
@@ -491,8 +496,8 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
 
               {/* Related Islands */}
               {relatedIslands.length > 0 && (
-                <div className="bg-white rounded-lg shadow-lg p-6">
-                  <h3 className="text-xl font-bold mb-4">Nearby Islands</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-xl font-heading font-bold mb-4">Nearby Islands</h3>
                   <div className="space-y-4">
                     {relatedIslands.map(related => (
                       <Link
@@ -505,7 +510,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                             src={related.image}
                             alt={related.name.en}
                             fill
-                            className="object-cover rounded-lg"
+                            className="object-cover rounded-xl"
                           />
                         </div>
                         <div>
@@ -528,15 +533,15 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
               />
 
               {/* Activities & Tours */}
-              <div className="bg-white rounded-lg shadow-lg p-6">
-                <h3 className="text-xl font-bold mb-4">Tours & Activities</h3>
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-heading font-bold mb-4">Tours & Activities</h3>
                 <p className="text-sm text-gray-600 mb-4">Book the best activities on {island.name.en}</p>
                 <div className="space-y-3">
                   <a
                     href="https://klook.tpo.lv/7Dt6WApj"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-orange-500 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-orange-600 transition-colors text-sm"
+                    className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
                   >
                     Klook Activities
                   </a>
@@ -544,7 +549,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     href="https://getyourguide.tpo.lv/GuAFfGGK"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-red-500 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-red-600 transition-colors text-sm"
+                    className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
                   >
                     GetYourGuide Tours
                   </a>
@@ -553,14 +558,14 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
               </div>
 
               {/* Quick Links */}
-              <div className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark text-white rounded-lg p-6">
-                <h3 className="text-xl font-bold mb-4">Plan Your Visit</h3>
+              <div className="bg-surface-dark text-white rounded-2xl p-6">
+                <h3 className="text-xl font-heading font-bold mb-4">Plan Your Visit</h3>
                 <div className="space-y-2">
                   <a
                     href="https://12go.tpo.lv/tNA80urD"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg text-sm transition-colors"
+                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
                   >
                     Book Ferry Tickets
                   </a>
@@ -568,7 +573,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     href="https://booking.tpo.lv/2PT1kR82"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg text-sm transition-colors"
+                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
                   >
                     Hotels (Booking.com)
                   </a>
@@ -576,7 +581,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     href="https://trip.tpo.lv/TmObooZ5"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg text-sm transition-colors"
+                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
                   >
                     Hotels (Trip.com)
                   </a>
@@ -584,13 +589,13 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     href="https://klook.tpo.lv/7Dt6WApj"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg text-sm transition-colors"
+                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
                   >
                     Tours & Activities (Klook)
                   </a>
                   <Link
                     href="/travel-insurance/"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg text-sm transition-colors"
+                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
                   >
                     Travel Insurance
                   </Link>
@@ -598,7 +603,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     href="https://getyourguide.tpo.lv/GuAFfGGK"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg text-sm transition-colors"
+                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
                   >
                     Tours (GetYourGuide)
                   </a>
@@ -606,7 +611,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     href="https://saily.tpo.lv/rf9lidnE"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg text-sm transition-colors"
+                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
                   >
                     Thailand eSIM
                   </a>

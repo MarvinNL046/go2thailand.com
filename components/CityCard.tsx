@@ -23,92 +23,67 @@ interface CityCardProps {
 const CityCard: React.FC<CityCardProps> = ({ city }) => {
   const { t } = useTranslation('common');
   const { locale } = useRouter();
-  
+  const cityName = city.name[locale as keyof typeof city.name] || city.name.en;
+
   return (
-    <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
-      <Link href={`/city/${city.slug}/`}>
-        <div className="relative h-48 w-full">
+    <Link href={`/city/${city.slug}/`} className="group block">
+      <div className="bg-white rounded-2xl shadow-md overflow-hidden transition-all duration-300 group-hover:shadow-xl group-hover:-translate-y-1">
+        {/* Image */}
+        <div className="relative h-56 overflow-hidden">
           <Image
             src={city.image}
             alt={`${city.name.en}, Thailand`}
             fill
-            className="object-cover hover:scale-105 transition-transform duration-300"
+            className="object-cover transition-transform duration-500 group-hover:scale-105"
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           />
-          <div className="absolute top-2 left-2">
-            <span className="bg-thailand-blue text-white px-2 py-1 rounded text-xs font-semibold">
+          {/* Region badge */}
+          <div className="absolute top-4 left-4">
+            <span className="bg-white/90 backdrop-blur-sm text-thailand-blue px-3 py-1 rounded-full text-xs font-semibold capitalize">
               {city.region}
             </span>
           </div>
         </div>
-      </Link>
-      
-      <div className="p-4">
-        <Link href={`/city/${city.slug}/`}>
-          <h3 className="text-xl font-bold text-gray-900 mb-2 hover:text-thailand-blue transition-colors">
-            {city.name[locale as keyof typeof city.name] || city.name.en}
+
+        {/* Content */}
+        <div className="p-5">
+          <h3 className="font-heading text-xl font-bold text-gray-900 mb-1 group-hover:text-thailand-red transition-colors">
+            {cityName}
           </h3>
-        </Link>
-        
-        <p className="text-gray-600 text-sm mb-3">
-          {city.province} {t('labels.province') || 'Province'}
-        </p>
-        
-        {city.highlights && city.highlights.length > 0 && (
-          <div className="mb-4">
-            <h4 className="text-sm font-semibold text-gray-700 mb-2">{t('labels.highlights') || 'Highlights'}:</h4>
-            <div className="flex flex-wrap gap-1">
-              {city.highlights.slice(0, 2).map((highlight, index) => (
-                <span 
+
+          <div className="flex items-center gap-1 text-gray-500 text-sm mb-3">
+            <svg className="w-3.5 h-3.5 text-thailand-red" fill="currentColor" viewBox="0 0 20 20">
+              <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
+            </svg>
+            <span>{city.province}</span>
+          </div>
+
+          {/* Highlights */}
+          {city.highlights && city.highlights.length > 0 && (
+            <div className="flex flex-wrap gap-1.5 mb-4">
+              {city.highlights.slice(0, 3).map((highlight, index) => (
+                <span
                   key={index}
-                  className="bg-gray-100 text-gray-700 px-2 py-1 rounded text-xs"
+                  className="bg-surface-cream text-gray-600 px-2.5 py-1 rounded-full text-xs font-medium"
                 >
                   {highlight}
                 </span>
               ))}
-              {city.highlights.length > 2 && (
-                <span className="text-gray-500 text-xs px-2 py-1">
-                  +{city.highlights.length - 2} {t('labels.more')}
-                </span>
-              )}
             </div>
-          </div>
-        )}
-        
-        <div className="space-y-2">
-          <div className="flex space-x-2">
-            <Link 
-              href={`/city/${city.slug}/`}
-              className="flex-1 bg-thailand-blue text-white text-center py-2 px-4 rounded hover:bg-thailand-red transition-colors text-sm font-medium"
-            >
+          )}
+
+          {/* CTA */}
+          <div className="flex items-center justify-between pt-3 border-t border-gray-100">
+            <span className="text-thailand-red font-medium text-sm group-hover:text-thailand-red-600 transition-colors">
               {t('buttons.exploreCity') || 'Explore City'}
-            </Link>
-            <Link 
-              href={`/city/${city.slug}/attractions/`}
-              className="flex-1 border border-thailand-blue text-thailand-blue text-center py-2 px-4 rounded hover:bg-thailand-blue hover:text-white transition-colors text-sm font-medium"
-            >
-              {t('labels.attractions')}
-            </Link>
-          </div>
-          
-          {/* Top 10 Guides Row */}
-          <div className="flex space-x-2">
-            <Link 
-              href={`/city/${city.slug}/top-10-restaurants/`}
-              className="flex-1 bg-gradient-to-r from-thailand-red to-thailand-red-600 text-white text-center py-2 px-2 rounded hover:from-thailand-red-600 hover:to-thailand-red-700 transition-all text-xs font-medium"
-            >
-              {t('nav.top10')} {t('labels.food') || 'Food'}
-            </Link>
-            <Link 
-              href={`/city/${city.slug}/top-10-hotels/`}
-              className="flex-1 bg-gradient-to-r from-thailand-blue to-thailand-blue-600 text-white text-center py-2 px-2 rounded hover:from-thailand-blue-600 hover:to-thailand-blue-700 transition-all text-xs font-medium"
-            >
-              {t('nav.top10')} {t('labels.hotels')}
-            </Link>
+            </span>
+            <svg className="w-4 h-4 text-thailand-red transition-transform duration-300 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+            </svg>
           </div>
         </div>
       </div>
-    </div>
+    </Link>
   );
 };
 

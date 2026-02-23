@@ -118,13 +118,14 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero */}
-        <section className="bg-gray-900 text-white">
+        <section className="bg-surface-dark text-white">
           <div className="container-custom py-12">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center mt-6">
-              <h1 className="text-4xl lg:text-5xl font-bold mb-4">
+              <p className="font-script text-thailand-gold text-lg mb-2">The Art of Eight Limbs</p>
+              <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
                 Best Muay Thai in Thailand
               </h1>
               <p className="text-xl max-w-3xl mx-auto text-gray-300">
@@ -137,13 +138,14 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
         <section className="section-padding">
           <div className="container-custom">
             {/* Quick Comparison Table */}
-            <div className="bg-white rounded-lg shadow-lg overflow-hidden mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 p-6 pb-0">
+            <div className="bg-white rounded-2xl shadow-md overflow-hidden mb-12">
+              <p className="section-label px-6 pt-6">Compare</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 p-6 pb-0">
                 City Comparison at a Glance
               </h2>
               <div className="overflow-x-auto">
                 <table className="w-full text-left">
-                  <thead className="bg-gray-50">
+                  <thead className="bg-surface-cream">
                     <tr>
                       <th className="px-6 py-4 text-sm font-semibold text-gray-600">City</th>
                       <th className="px-6 py-4 text-sm font-semibold text-gray-600">Activities</th>
@@ -156,7 +158,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                     {cities.map((city) => (
                       <tr key={city.slug} className="hover:bg-gray-50">
                         <td className="px-6 py-4">
-                          <Link href={`/city/${city.slug}/muay-thai/`} className="font-semibold text-red-600 hover:underline">
+                          <Link href={`/city/${city.slug}/muay-thai/`} className="font-semibold text-thailand-red hover:underline">
                             {city.name.en}
                           </Link>
                         </td>
@@ -168,7 +170,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                         <td className="px-6 py-4">
                           <Link
                             href={`/city/${city.slug}/muay-thai/`}
-                            className="text-sm font-semibold text-red-500 hover:text-red-600"
+                            className="text-sm font-semibold text-thailand-red hover:text-red-700"
                           >
                             View all &rarr;
                           </Link>
@@ -182,30 +184,30 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
 
             {/* City Sections */}
             {cities.map((city, index) => (
-              <div key={city.slug} className="bg-white rounded-lg shadow-lg p-8 mb-8">
+              <div key={city.slug} className="bg-white rounded-2xl shadow-md hover:shadow-xl transition-shadow p-8 mb-8">
                 <div className="flex items-center gap-3 mb-4">
-                  <span className="text-lg font-bold text-white bg-red-600 w-8 h-8 rounded-full flex items-center justify-center">
+                  <span className="text-lg font-bold text-white bg-thailand-red w-8 h-8 rounded-xl flex items-center justify-center">
                     {index + 1}
                   </span>
-                  <h2 className="text-2xl font-bold text-gray-900">
-                    <Link href={`/city/${city.slug}/muay-thai/`} className="hover:text-red-600">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900">
+                    <Link href={`/city/${city.slug}/muay-thai/`} className="hover:text-thailand-red">
                       Muay Thai in {city.name.en}
                     </Link>
                   </h2>
                 </div>
                 <p className="text-gray-700 mb-4">{city.highlight.en}</p>
                 <div className="grid grid-cols-3 gap-4 mb-6">
-                  <div className="bg-gray-50 rounded-lg p-3 text-center">
+                  <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">{city.classCount}+</div>
                     <div className="text-xs text-gray-600">Activities</div>
                   </div>
-                  <div className="bg-gray-50 rounded-lg p-3 text-center">
+                  <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">
                       {formatPrice(city.priceRange.from, loc)}+
                     </div>
                     <div className="text-xs text-gray-600">Starting Price</div>
                   </div>
-                  <div className="bg-gray-50 rounded-lg p-3 text-center">
+                  <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">{city.topRating}</div>
                     <div className="text-xs text-gray-600">Top Rating</div>
                   </div>
@@ -217,7 +219,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                     .filter(tc => tc.citySlug === city.slug)
                     .slice(0, 3)
                     .map((tc, i) => (
-                      <div key={tc.cls.slug} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                      <div key={tc.cls.slug} className="flex items-center justify-between p-3 bg-surface-cream rounded-xl">
                         <div className="flex items-center gap-3">
                           <span className="text-sm font-bold text-gray-400">#{i + 1}</span>
                           <div>
@@ -245,7 +247,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
 
                 <Link
                   href={`/city/${city.slug}/muay-thai/`}
-                  className="inline-flex items-center text-red-500 font-semibold hover:text-red-600"
+                  className="inline-flex items-center text-thailand-red font-semibold hover:text-red-700"
                 >
                   See all {city.classCount} activities in {city.name.en} &rarr;
                 </Link>
@@ -253,8 +255,9 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
             ))}
 
             {/* Best Training Gyms */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-8">
-              <h2 className="text-2xl font-bold text-gray-900 mb-2">
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
+              <p className="section-label">Training</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">
                 Best Muay Thai Training Gyms in Southern Thailand
               </h2>
               <p className="text-gray-600 mb-6">
@@ -333,7 +336,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                     citySlug: 'phuket'
                   }
                 ].map((gym, index) => (
-                  <div key={gym.name} className="flex items-start gap-4 p-4 bg-gray-50 rounded-lg">
+                  <div key={gym.name} className="flex items-start gap-4 p-4 bg-surface-cream rounded-xl">
                     <div className="flex flex-col items-center min-w-[56px]">
                       <div className="text-2xl font-bold text-yellow-600">{gym.score}</div>
                       <div className="text-[10px] text-gray-500">/20</div>
@@ -341,7 +344,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                     <div className="flex-1">
                       <div className="flex items-center gap-2 mb-1">
                         <span className="text-sm font-bold text-gray-400">#{index + 1}</span>
-                        <h3 className="font-bold text-gray-900">{gym.name}</h3>
+                        <h3 className="font-bold font-heading text-gray-900">{gym.name}</h3>
                         {gym.dtvVisa && (
                           <span className="text-[10px] font-semibold text-green-700 bg-green-100 px-1.5 py-0.5 rounded">
                             DTV Visa
@@ -352,7 +355,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                       <p className="text-sm text-gray-700 mb-2">{gym.highlight}</p>
                       <div className="flex flex-wrap gap-1.5">
                         {gym.features.map((f, i) => (
-                          <span key={i} className="text-[10px] bg-white text-gray-600 px-1.5 py-0.5 rounded border border-gray-200">{f}</span>
+                          <span key={i} className="text-[10px] bg-white text-gray-600 px-1.5 py-0.5 rounded-full border-0 shadow-sm">{f}</span>
                         ))}
                         <span className="text-[10px] text-gray-400 ml-1">
                           Facilities {gym.scores.facilities} &middot; Clean {gym.scores.cleanliness} &middot; Structure {gym.scores.classStructure} &middot; Coaching {gym.scores.coachingQuality}
@@ -360,14 +363,14 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                       </div>
                     </div>
                     {gym.citySlug && (
-                      <Link href={`/city/${gym.citySlug}/muay-thai/`} className="text-xs text-red-500 hover:text-red-600 font-semibold whitespace-nowrap self-center">
+                      <Link href={`/city/${gym.citySlug}/muay-thai/`} className="text-xs text-thailand-red hover:text-red-700 font-semibold whitespace-nowrap self-center">
                         View &rarr;
                       </Link>
                     )}
                   </div>
                 ))}
               </div>
-              <div className="mt-6 p-4 bg-yellow-50 rounded-lg border border-yellow-200">
+              <div className="mt-6 p-4 bg-yellow-50 rounded-xl border-0">
                 <p className="text-sm text-gray-700">
                   <strong>DTV Visa tip:</strong> If you&apos;re planning a longer training stay, check if your chosen gym can sponsor a 6 or 12 month DTV (Destination Thailand Visa) for Muay Thai training. Lamay Muay Thai and Diamond Muay Thai are known to offer this.
                 </p>
@@ -375,8 +378,9 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
             </div>
 
             {/* CTA */}
-            <div className="bg-gradient-to-r from-red-600 to-gray-900 rounded-lg p-8 mb-12 text-center text-white">
-              <h2 className="text-3xl font-bold mb-4">Ready to Experience Muay Thai?</h2>
+            <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
+              <p className="font-script text-thailand-gold text-lg mb-2">Fight Night</p>
+              <h2 className="text-3xl font-bold font-heading mb-4">Ready to Experience Muay Thai?</h2>
               <p className="text-lg mb-6 opacity-90">
                 Browse Muay Thai fights, training sessions, and combo packages across Thailand.
               </p>
@@ -385,7 +389,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                   href={GYG_AFFILIATE}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-white text-red-600 font-semibold rounded-lg hover:bg-gray-100 transition-colors"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-red font-semibold rounded-xl hover:bg-gray-100 transition-colors"
                 >
                   Browse on GetYourGuide
                 </a>
@@ -393,7 +397,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                   href={KLOOK_AFFILIATE}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-lg hover:bg-white/30 transition-colors border border-white/40"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40"
                 >
                   Browse on Klook
                 </a>
@@ -404,14 +408,15 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
             </div>
 
             {/* FAQ */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <p className="section-label">FAQ</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                 Frequently Asked Questions
               </h2>
               <div className="space-y-6">
                 {faqItems.map((item, i) => (
                   <div key={i}>
-                    <h3 className="text-lg font-semibold text-gray-900 mb-2">{item.q}</h3>
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">{item.q}</h3>
                     <p className="text-gray-700">{item.a}</p>
                   </div>
                 ))}

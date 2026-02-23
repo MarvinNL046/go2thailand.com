@@ -125,7 +125,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
         <section className="relative h-96 lg:h-[500px] overflow-hidden">
           <div className="absolute inset-0">
@@ -136,7 +136,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
               className="object-cover"
               priority
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent"></div>
+            <div className="absolute inset-0 bg-surface-dark/70"></div>
           </div>
           
           <div className="relative z-10 h-full flex items-end">
@@ -154,7 +154,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                     {city.name.en}, Thailand
                   </span>
                 </div>
-                <h1 className="text-4xl lg:text-6xl font-bold mb-4">
+                <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-4">
                   {attraction.name.en}
                 </h1>
                 <p className="text-xl lg:text-2xl text-gray-200 max-w-3xl">
@@ -233,8 +233,8 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 
                 {/* Enhanced Description */}
                 {attraction.enhanced_description && (
-                  <div className="bg-white rounded-xl shadow-lg p-8">
-                    <h2 className="text-3xl font-bold text-thailand-blue-900 mb-6">
+                  <div className="bg-white rounded-2xl shadow-md p-8">
+                    <h2 className="text-3xl font-bold font-heading text-thailand-blue-900 mb-6">
                       About {attraction.name.en}
                     </h2>
                     <p className="text-gray-700 text-lg leading-relaxed">
@@ -245,8 +245,8 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
 
                 {/* Highlights */}
                 {attraction.highlights.length > 0 && (
-                  <div className="bg-gradient-to-r from-thailand-blue-50 to-thailand-red-50 rounded-xl p-8">
-                    <h3 className="text-2xl font-bold text-thailand-blue-900 mb-6 flex items-center">
+                  <div className="bg-surface-cream rounded-2xl p-8">
+                    <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-6 flex items-center">
                       <svg className="w-6 h-6 mr-3 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                       </svg>
@@ -255,7 +255,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                       {attraction.highlights.map((highlight, index) => (
                         <div key={index} className="flex items-center">
-                          <div className="w-6 h-6 bg-thailand-gold rounded-full flex items-center justify-center mr-3 flex-shrink-0">
+                          <div className="w-6 h-6 bg-thailand-gold rounded-xl flex items-center justify-center mr-3 flex-shrink-0">
                             <svg className="w-4 h-4 text-thailand-blue-900" fill="currentColor" viewBox="0 0 20 20">
                               <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                             </svg>
@@ -269,8 +269,8 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
 
                 {/* Cultural Significance & History */}
                 {(attraction.detailed_history || attraction.cultural_significance) && (
-                  <div className="bg-white rounded-xl shadow-lg p-8">
-                    <h3 className="text-2xl font-bold text-thailand-blue-900 mb-6 flex items-center">
+                  <div className="bg-white rounded-2xl shadow-md p-8">
+                    <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-6 flex items-center">
                       <svg className="w-6 h-6 mr-3 text-thailand-gold" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                       </svg>
@@ -295,8 +295,8 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
 
                 {/* Visitor Experience */}
                 {attraction.visitor_experience && (
-                  <div className="bg-white rounded-xl shadow-lg p-8">
-                    <h3 className="text-2xl font-bold text-thailand-blue-900 mb-6 flex items-center">
+                  <div className="bg-white rounded-2xl shadow-md p-8">
+                    <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-6 flex items-center">
                       <svg className="w-6 h-6 mr-3 text-thailand-gold" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
                       </svg>
@@ -310,8 +310,8 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
 
                 {/* Photography Tips */}
                 {attraction.photography_tips && attraction.photography_tips.length > 0 && (
-                  <div className="bg-white rounded-xl shadow-lg p-8">
-                    <h3 className="text-2xl font-bold text-thailand-blue-900 mb-6 flex items-center">
+                  <div className="bg-white rounded-2xl shadow-md p-8">
+                    <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-6 flex items-center">
                       <svg className="w-6 h-6 mr-3 text-thailand-gold" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z" />
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 13a3 3 0 11-6 0 3 3 0 016 0z" />
@@ -321,7 +321,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                     <div className="space-y-3">
                       {attraction.photography_tips.map((tip, index) => (
                         <div key={index} className="flex items-start">
-                          <div className="w-6 h-6 bg-thailand-red rounded-full flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
+                          <div className="w-6 h-6 bg-thailand-red rounded-xl flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
                             <svg className="w-3 h-3 text-white" fill="currentColor" viewBox="0 0 20 20">
                               <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                             </svg>
@@ -335,8 +335,8 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
 
                 {/* Insider Tips */}
                 {attraction.insider_tips && attraction.insider_tips.length > 0 && (
-                  <div className="bg-gradient-to-r from-thailand-gold-50 to-thailand-blue-50 rounded-xl p-8">
-                    <h3 className="text-2xl font-bold text-thailand-blue-900 mb-6 flex items-center">
+                  <div className="bg-surface-cream rounded-2xl p-8">
+                    <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-6 flex items-center">
                       <svg className="w-6 h-6 mr-3 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
                       </svg>
@@ -345,7 +345,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                     <div className="space-y-3">
                       {attraction.insider_tips.map((tip, index) => (
                         <div key={index} className="flex items-start">
-                          <div className="w-6 h-6 bg-thailand-gold rounded-full flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
+                          <div className="w-6 h-6 bg-thailand-gold rounded-xl flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
                             <svg className="w-3 h-3 text-thailand-blue-900" fill="currentColor" viewBox="0 0 20 20">
                               <path fillRule="evenodd" d="M3 3a1 1 0 000 2v8a2 2 0 002 2h2.586l-1.293 1.293a1 1 0 101.414 1.414L10 15.414l2.293 2.293a1 1 0 001.414-1.414L12.414 15H15a2 2 0 002-2V5a1 1 0 100-2H3zm11.707 4.707a1 1 0 00-1.414-1.414L10 9.586 8.707 8.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                             </svg>
@@ -359,8 +359,8 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
 
                 {/* Fun Facts */}
                 {attraction.fun_facts && attraction.fun_facts.length > 0 && (
-                  <div className="bg-white rounded-xl shadow-lg p-8">
-                    <h3 className="text-2xl font-bold text-thailand-blue-900 mb-6 flex items-center">
+                  <div className="bg-white rounded-2xl shadow-md p-8">
+                    <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-6 flex items-center">
                       <svg className="w-6 h-6 mr-3 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clipRule="evenodd" />
                       </svg>
@@ -369,7 +369,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                       {attraction.fun_facts.map((fact, index) => (
                         <div key={index} className="flex items-start">
-                          <div className="w-8 h-8 bg-gradient-to-br from-thailand-gold to-thailand-red rounded-full flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
+                          <div className="w-8 h-8 bg-thailand-gold rounded-xl flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
                             <span className="text-white font-bold text-sm">{index + 1}</span>
                           </div>
                           <span className="text-gray-700">{fact}</span>
@@ -380,8 +380,8 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 )}
 
                 {/* Trip.com Bundle Widget */}
-                <div className="bg-gradient-to-r from-thailand-blue-50 to-thailand-red-50 rounded-xl p-8">
-                  <h3 className="text-2xl font-bold text-thailand-blue-900 mb-4 text-center">
+                <div className="bg-surface-cream rounded-2xl p-8">
+                  <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-4 text-center">
                     Save on Hotels & Flights
                   </h3>
                   <p className="text-gray-700 text-center mb-6">
@@ -391,8 +391,8 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 </div>
 
                 {/* Book This Experience - Affiliate Section */}
-                <div className="bg-gradient-to-r from-orange-50 to-blue-50 rounded-xl p-8">
-                  <h3 className="text-2xl font-bold text-gray-900 mb-4 text-center">
+                <div className="bg-surface-cream rounded-2xl p-8">
+                  <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
                     Book This Experience
                   </h3>
                   <p className="text-gray-600 text-center mb-6">
@@ -403,7 +403,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       href="https://klook.tpo.lv/aq6ZFxvc"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="flex-1 inline-flex items-center justify-center px-6 py-4 bg-orange-500 text-white font-semibold rounded-lg hover:bg-orange-600 transition-colors shadow-lg hover:shadow-xl"
+                      className="flex-1 inline-flex items-center justify-center px-6 py-4 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors shadow-md hover:shadow-xl"
                     >
                       <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z" />
@@ -414,7 +414,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       href="https://getyourguide.tpo.lv/GuAFfGGK"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="flex-1 inline-flex items-center justify-center px-6 py-4 bg-blue-700 text-white font-semibold rounded-lg hover:bg-blue-800 transition-colors shadow-lg hover:shadow-xl"
+                      className="flex-1 inline-flex items-center justify-center px-6 py-4 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors shadow-md hover:shadow-xl"
                     >
                       <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -428,11 +428,11 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 </div>
 
                 {/* Navigation */}
-                <div className="bg-white rounded-xl shadow-lg p-8">
+                <div className="bg-white rounded-2xl shadow-md p-8">
                   <div className="flex flex-col sm:flex-row gap-4">
                     <Link
                       href={`/city/${city.slug}/attractions/`}
-                      className="flex-1 inline-flex items-center justify-center px-6 py-3 bg-gradient-to-r from-thailand-blue to-thailand-red text-white font-semibold rounded-lg hover:from-thailand-blue-600 hover:to-thailand-red-600 transition-all duration-300 shadow-lg hover:shadow-xl"
+                      className="flex-1 inline-flex items-center justify-center px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-all duration-300 shadow-md hover:shadow-xl"
                     >
                       <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
@@ -456,8 +456,8 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
               {/* Sidebar */}
               <div className="lg:col-span-1">
                 {/* Quick Facts */}
-                <div className="bg-white rounded-xl shadow-lg p-6 mb-8">
-                  <h3 className="text-lg font-bold text-thailand-blue-900 mb-4">Quick Facts</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6 mb-8">
+                  <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4">Quick Facts</h3>
                   <div className="space-y-4">
                     <div>
                       <div className="text-sm text-gray-600 mb-1">Address:</div>
@@ -511,8 +511,8 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 </div>
 
                 {/* Map */}
-                <div className="bg-white rounded-xl shadow-lg p-6 mb-8">
-                  <h3 className="text-lg font-bold text-thailand-blue-900 mb-4">Location</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6 mb-8">
+                  <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4">Location</h3>
                   <div className="aspect-w-16 aspect-h-9 bg-gray-200 rounded-lg flex items-center justify-center">
                     <div className="text-center">
                       <svg className="w-12 h-12 text-gray-400 mx-auto mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -525,8 +525,8 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 </div>
 
                 {/* Trip.com Search Widget */}
-                <div className="bg-white rounded-xl shadow-lg p-6 mb-8">
-                  <h3 className="text-lg font-bold text-thailand-blue-900 mb-4 flex items-center">
+                <div className="bg-white rounded-2xl shadow-md p-6 mb-8">
+                  <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4 flex items-center">
                     <svg className="w-5 h-5 mr-2 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
                       <path fillRule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clipRule="evenodd" />
                     </svg>

@@ -106,13 +106,14 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold text-white">
+        <section className="bg-surface-dark text-white">
           <div className="container-custom py-16">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center max-w-4xl mx-auto">
-              <h1 className="text-4xl lg:text-6xl font-bold mb-6">
+              <span className="font-script text-thailand-gold text-lg">Monthly guide</span>
+              <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6 mt-2">
                 Thailand in {guide.month}
               </h1>
               <p className="text-xl lg:text-2xl mb-8 opacity-90">
@@ -171,25 +172,25 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
               <div className="lg:col-span-2 space-y-12">
                 
                 {/* Weather Details */}
-                <div className="bg-white rounded-lg shadow-lg p-8">
-                  <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
+                <div className="bg-white rounded-2xl shadow-md p-8">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 flex items-center">
                     <span className="text-3xl mr-3"></span>
                     Weather in {guide.month}
                   </h2>
                   
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
                     <div className="text-center">
-                      <h3 className="font-semibold text-gray-900 mb-2">Northern Thailand</h3>
+                      <h3 className="font-semibold font-heading text-gray-900 mb-2">Northern Thailand</h3>
                       <div className="text-2xl font-bold text-thailand-blue">{guide.weather.temperature.north}</div>
                       <p className="text-sm text-gray-600 mt-1">Chiang Mai, Chiang Rai</p>
                     </div>
                     <div className="text-center">
-                      <h3 className="font-semibold text-gray-900 mb-2">Central Thailand</h3>
+                      <h3 className="font-semibold font-heading text-gray-900 mb-2">Central Thailand</h3>
                       <div className="text-2xl font-bold text-thailand-blue">{guide.weather.temperature.central}</div>
                       <p className="text-sm text-gray-600 mt-1">Bangkok, Ayutthaya</p>
                     </div>
                     <div className="text-center">
-                      <h3 className="font-semibold text-gray-900 mb-2">Southern Thailand</h3>
+                      <h3 className="font-semibold font-heading text-gray-900 mb-2">Southern Thailand</h3>
                       <div className="text-2xl font-bold text-thailand-blue">{guide.weather.temperature.south}</div>
                       <p className="text-sm text-gray-600 mt-1">Phuket, Krabi, Koh Samui</p>
                     </div>
@@ -210,8 +211,8 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                 </div>
 
                 {/* Highlights */}
-                <div className="bg-white rounded-lg shadow-lg p-8">
-                  <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
+                <div className="bg-white rounded-2xl shadow-md p-8">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 flex items-center">
                     <span className="text-3xl mr-3"></span>
                     {guide.month} Highlights
                   </h2>
@@ -229,15 +230,15 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
 
                 {/* Festivals */}
                 {guide.festivals.length > 0 && (
-                  <div className="bg-gradient-to-r from-purple-50 to-pink-50 rounded-lg p-8">
-                    <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
+                  <div className="bg-white rounded-2xl shadow-md p-8">
+                    <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 flex items-center">
                       <span className="text-3xl mr-3"></span>
                       Festivals & Events
                     </h2>
                     <div className="space-y-4">
                       {guide.festivals.map((festival, index) => (
-                        <div key={index} className="bg-white bg-opacity-70 rounded-lg p-4">
-                          <h3 className="font-semibold text-gray-900 mb-2">{festival.name}</h3>
+                        <div key={index} className="bg-surface-cream rounded-xl p-4">
+                          <h3 className="font-semibold font-heading text-gray-900 mb-2">{festival.name}</h3>
                           <p className="text-gray-700">{festival.description}</p>
                         </div>
                       ))}
@@ -246,15 +247,15 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                 )}
 
                 {/* Best Destinations */}
-                <div className="bg-white rounded-lg shadow-lg p-8">
-                  <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
+                <div className="bg-white rounded-2xl shadow-md p-8">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 flex items-center">
                     <span className="text-3xl mr-3"></span>
                     Best Places to Visit
                   </h2>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                     {guide.best_destinations.map((destination, index) => (
-                      <div key={index} className="border border-gray-200 rounded-lg p-4 hover:border-thailand-blue transition-colors">
-                        <h3 className="font-semibold text-gray-900 mb-1">{destination.name}</h3>
+                      <div key={index} className="bg-surface-cream rounded-xl p-4 hover:shadow-md transition-all">
+                        <h3 className="font-semibold font-heading text-gray-900 mb-1">{destination.name}</h3>
                         <p className="text-gray-600 text-sm">{destination.reason}</p>
                       </div>
                     ))}
@@ -262,8 +263,8 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                 </div>
 
                 {/* Travel Tips */}
-                <div className="bg-blue-50 rounded-lg p-8">
-                  <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
+                <div className="bg-white rounded-2xl shadow-md p-8">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 flex items-center">
                     <span className="text-3xl mr-3"></span>
                     Travel Tips for {guide.month}
                   </h2>
@@ -279,8 +280,8 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
 
                 {/* Pros and Cons */}
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                  <div className="bg-green-50 rounded-lg p-6">
-                    <h3 className="font-semibold text-green-800 mb-4 flex items-center">
+                  <div className="bg-green-50 rounded-2xl p-6">
+                    <h3 className="font-semibold font-heading text-green-800 mb-4 flex items-center">
                       <svg className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.293l-3-3a1 1 0 00-1.414 1.414L10.586 9.5H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clipRule="evenodd" />
                       </svg>
@@ -296,8 +297,8 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                     </ul>
                   </div>
                   
-                  <div className="bg-red-50 rounded-lg p-6">
-                    <h3 className="font-semibold text-red-800 mb-4 flex items-center">
+                  <div className="bg-red-50 rounded-2xl p-6">
+                    <h3 className="font-semibold font-heading text-red-800 mb-4 flex items-center">
                       <svg className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
                       </svg>
@@ -315,15 +316,15 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                 </div>
 
                 {/* FAQ Section */}
-                <div className="bg-white rounded-lg shadow-lg p-8 mt-12">
-                  <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center">
+                <div className="bg-white rounded-2xl shadow-md p-8 mt-12">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 flex items-center">
                     <span className="text-3xl mr-3"></span>
                     Frequently Asked Questions
                   </h2>
                   <div className="space-y-6">
                     {faqs.map((faq, index) => (
                       <div key={index} className="border-b border-gray-100 pb-4 last:border-0">
-                        <h3 className="text-lg font-semibold text-gray-900 mb-2">{faq.question}</h3>
+                        <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">{faq.question}</h3>
                         <p className="text-gray-700">{faq.answer}</p>
                       </div>
                     ))}
@@ -336,16 +337,16 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                 <div className="sticky top-4 space-y-8">
                   
                   {/* Trip.com Widget */}
-                  <div className="bg-white rounded-lg shadow-lg p-6">
-                    <h3 className="text-lg font-semibold text-gray-900 mb-4">
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">
                       Plan Your {guide.month} Trip
                     </h3>
                     <TripcomWidget city="Thailand" type="bundle" />
                   </div>
 
                   {/* Quick Links */}
-                  <div className="bg-white rounded-lg shadow-lg p-6">
-                    <h3 className="text-lg font-semibold text-gray-900 mb-4">
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">
                       Popular Destinations
                     </h3>
                     <div className="space-y-2">
@@ -363,8 +364,8 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
 
 
                   {/* Other Months */}
-                  <div className="bg-white rounded-lg shadow-lg p-6">
-                    <h3 className="text-lg font-semibold text-gray-900 mb-4">
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">
                       Thailand by Month
                     </h3>
                     <div className="grid grid-cols-3 gap-2 text-sm">
@@ -372,10 +373,10 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                         <Link
                           key={monthSlug}
                           href={`/thailand-in/${monthSlug}/`}
-                          className={`text-center py-2 rounded ${
-                            monthSlug === guide.slug 
-                              ? 'bg-thailand-blue text-white' 
-                              : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                          className={`text-center py-2 rounded-xl ${
+                            monthSlug === guide.slug
+                              ? 'bg-thailand-blue text-white'
+                              : 'bg-surface-cream text-gray-700 hover:bg-gray-200'
                           }`}
                         >
                           {monthSlug.charAt(0).toUpperCase() + monthSlug.slice(1, 3)}
@@ -388,8 +389,8 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
             </div>
 
             {/* Activities & Tours CTA */}
-            <div className="mt-12 bg-white rounded-lg shadow-lg p-8">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4 text-center">
+            <div className="mt-12 bg-white rounded-2xl shadow-md p-8">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
                 Book Activities for {guide.month}
               </h2>
               <p className="text-gray-600 text-center mb-6">
@@ -400,7 +401,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                   href="https://klook.tpo.lv/aq6ZFxvc"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center justify-center bg-orange-500 text-white py-3 px-4 rounded-lg font-semibold hover:bg-orange-600 transition-colors text-sm"
+                  className="flex items-center justify-center bg-thailand-red text-white py-3 px-4 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
                 >
                   Browse Klook Activities
                 </a>
@@ -408,13 +409,13 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                   href="https://getyourguide.tpo.lv/GuAFfGGK"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center justify-center bg-blue-600 text-white py-3 px-4 rounded-lg font-semibold hover:bg-blue-700 transition-colors text-sm"
+                  className="flex items-center justify-center bg-thailand-blue text-white py-3 px-4 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
                 >
                   Browse GetYourGuide
                 </a>
                 <Link
                   href="/activities/"
-                  className="flex items-center justify-center bg-thailand-blue text-white py-3 px-4 rounded-lg font-semibold hover:opacity-90 transition-opacity text-sm"
+                  className="flex items-center justify-center bg-thailand-blue text-white py-3 px-4 rounded-xl font-semibold hover:opacity-90 transition-opacity text-sm"
                 >
                   All Activities
                 </Link>
@@ -425,18 +426,18 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
             </div>
 
             {/* Bottom CTA */}
-            <div className="mt-8 bg-gradient-to-r from-thailand-blue to-thailand-gold rounded-lg p-8 text-white text-center">
-              <h2 className="text-2xl font-bold mb-4">
+            <div className="mt-8 bg-surface-dark rounded-2xl p-8 text-white text-center">
+              <h2 className="text-2xl font-bold font-heading mb-4">
                 Ready to Visit Thailand in {guide.month}?
               </h2>
               <p className="mb-6 opacity-90">
                 Explore our city guides, find the best hotels, and plan your perfect trip
               </p>
               <div className="flex flex-wrap justify-center gap-4">
-                <Link href="/city/" className="bg-white text-thailand-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+                <Link href="/city/" className="bg-white text-thailand-blue px-6 py-3 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
                   Explore Cities
                 </Link>
-                <Link href="/top-10/hotels/" className="bg-white bg-opacity-20 text-white border-2 border-white px-6 py-3 rounded-lg font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
+                <Link href="/top-10/hotels/" className="bg-white bg-opacity-20 text-white border-2 border-white px-6 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
                   Find Hotels
                 </Link>
               </div>

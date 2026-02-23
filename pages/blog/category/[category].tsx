@@ -36,10 +36,11 @@ export default function BlogCategoryPage({ category, posts }: CategoryPageProps)
         description={`Explore our ${category} articles about Thailand. In-depth travel guides, expert tips, local insights and stories to help plan your perfect Thai trip.`}
       />
 
-      <div className="bg-gray-50 min-h-screen">
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-blue-dark text-white">
+      <div className="bg-surface-cream min-h-screen">
+        <section className="bg-surface-dark text-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-            <h1 className="text-4xl font-bold capitalize">{category}</h1>
+            <span className="font-script text-thailand-gold text-lg">Category</span>
+            <h1 className="text-4xl font-bold font-heading capitalize">{category}</h1>
             <p className="text-lg opacity-90 mt-2">{posts.length} articles</p>
           </div>
         </section>
@@ -54,7 +55,7 @@ export default function BlogCategoryPage({ category, posts }: CategoryPageProps)
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {posts.map(post => (
-                <article key={post.slug} className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
+                <article key={post.slug} className="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                   <Link href={`/blog/${post.slug}/`}>
                     <div className="relative h-48">
                       <Image src={post.image} alt={post.title} fill className="object-cover" />
@@ -66,7 +67,7 @@ export default function BlogCategoryPage({ category, posts }: CategoryPageProps)
                       <span>-</span>
                       <span>{post.readingTime} min</span>
                     </div>
-                    <h2 className="text-xl font-bold mb-3">
+                    <h2 className="text-xl font-bold font-heading mb-3">
                       <Link href={`/blog/${post.slug}/`} className="hover:text-thailand-blue transition-colors">
                         {post.title}
                       </Link>
@@ -87,11 +88,11 @@ export default function BlogCategoryPage({ category, posts }: CategoryPageProps)
         </section>
 
         {/* Affiliate Banner */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold">
+        <section className="bg-surface-dark">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="flex flex-col md:flex-row items-center justify-between gap-6">
               <div className="text-white">
-                <h2 className="text-2xl font-bold mb-1">Plan Your Thailand Trip</h2>
+                <h2 className="text-2xl font-bold font-heading mb-1">Plan Your Thailand Trip</h2>
                 <p className="opacity-90 text-sm">Book hotels, transport, activities, and get connected with an eSIM</p>
               </div>
               <div className="flex flex-wrap justify-center gap-3">

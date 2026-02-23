@@ -164,13 +164,13 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero */}
         <section className="bg-white shadow-sm">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center">
-              <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+              <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
                 Best Cooking Classes in {city.name.en}
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
@@ -184,23 +184,23 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
           <div className="container-custom">
             {/* Quick Stats */}
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
-              <div className="bg-white rounded-lg p-4 text-center shadow-sm">
+              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">{cookingData.classes.length}</div>
                 <div className="text-sm text-gray-600">Classes Available</div>
               </div>
-              <div className="bg-white rounded-lg p-4 text-center shadow-sm">
+              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">
                   {formatPrice(Math.min(...cookingData.classes.map(c => c.priceFrom)), loc)}
                 </div>
                 <div className="text-sm text-gray-600">Starting From</div>
               </div>
-              <div className="bg-white rounded-lg p-4 text-center shadow-sm">
+              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">
                   {Math.max(...cookingData.classes.map(c => c.rating)).toFixed(1)}
                 </div>
                 <div className="text-sm text-gray-600">Top Rating</div>
               </div>
-              <div className="bg-white rounded-lg p-4 text-center shadow-sm">
+              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">
                   {cookingData.classes.reduce((sum, c) => sum + c.reviews, 0).toLocaleString()}
                 </div>
@@ -209,21 +209,21 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
             </div>
 
             {/* Introduction */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">
                 Thai Cooking Classes in {city.name.en}
               </h2>
               <p className="text-gray-700 leading-relaxed">{cookingData.intro.en}</p>
             </div>
 
             {/* Cooking Classes List */}
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">
               Top {cookingData.classes.length} Cooking Classes in {city.name.en}
             </h2>
 
             <div className="space-y-6 mb-12">
               {cookingData.classes.map((cls, index) => (
-                <div key={cls.slug} className="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div key={cls.slug} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden">
                   <div className="p-6">
                     <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4">
                       <div className="flex-1">
@@ -237,7 +237,7 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
                             </span>
                           )}
                         </div>
-                        <h3 className="text-xl font-bold text-gray-900 mb-2">{cls.name}</h3>
+                        <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{cls.name}</h3>
                         <div className="flex items-center gap-4 text-sm text-gray-600 mb-3">
                           <span className="flex items-center gap-1">
                             <StarRating rating={cls.rating} />
@@ -267,7 +267,7 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
                           href={GYG_AFFILIATE}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="inline-flex items-center px-6 py-2 bg-orange-500 text-white font-semibold rounded-lg hover:bg-orange-600 transition-colors text-sm"
+                          className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
                         >
                           View on GetYourGuide
                         </a>
@@ -279,8 +279,8 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
             </div>
 
             {/* Tips Section */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                 Tips for Cooking Classes in {city.name.en}
               </h2>
               <ul className="space-y-3">
@@ -298,8 +298,8 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
             </div>
 
             {/* Book Section */}
-            <div className="bg-gradient-to-r from-orange-500 to-red-500 rounded-lg p-8 mb-12 text-center text-white">
-              <h2 className="text-3xl font-bold mb-4">
+            <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
+              <h2 className="text-3xl font-bold font-heading mb-4">
                 Book Your Cooking Class in {city.name.en}
               </h2>
               <p className="text-lg mb-6 opacity-90">
@@ -310,7 +310,7 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
                   href={GYG_AFFILIATE}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-white text-orange-600 font-semibold rounded-lg hover:bg-gray-100 transition-colors"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-red font-semibold rounded-xl hover:bg-gray-100 transition-colors"
                 >
                   Browse on GetYourGuide
                 </a>
@@ -318,7 +318,7 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
                   href={KLOOK_AFFILIATE}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-lg hover:bg-white/30 transition-colors border border-white/40"
+                  className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40"
                 >
                   Browse on Klook
                 </a>
@@ -329,14 +329,14 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
             </div>
 
             {/* FAQ */}
-            <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                 Frequently Asked Questions
               </h2>
               <div className="space-y-6">
                 {faqItems.map((item, i) => (
                   <div key={i}>
-                    <h3 className="text-lg font-semibold text-gray-900 mb-2">{item.q}</h3>
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">{item.q}</h3>
                     <p className="text-gray-700">{item.a}</p>
                   </div>
                 ))}
@@ -344,24 +344,24 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
             </div>
 
             {/* Explore More */}
-            <div className="bg-white rounded-lg shadow-lg p-8">
-              <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">
+            <div className="bg-white rounded-2xl shadow-md p-8">
+              <h3 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
                 Explore More of {city.name.en}
               </h3>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
+                <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Attractions</h4>
                     <p className="text-gray-600 text-sm">Top things to see</p>
                   </div>
                 </Link>
-                <Link href={`/city/${city.slug}/food/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
+                <Link href={`/city/${city.slug}/food/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Food & Dining</h4>
                     <p className="text-gray-600 text-sm">Local cuisine guide</p>
                   </div>
                 </Link>
-                <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors">
+                <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Hotels</h4>
                     <p className="text-gray-600 text-sm">Where to stay</p>

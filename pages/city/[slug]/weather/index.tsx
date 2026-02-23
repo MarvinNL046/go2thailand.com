@@ -60,7 +60,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
   ];
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-surface-cream">
       <SEOHead
         title={`${city.name.en} Weather 2026 — Best Time to Visit by Month`}
         description={`${city.name.en} weather guide: monthly temperatures, rainfall, and best time to visit in 2026. Plan your Thailand trip with season-by-season tips.`}
@@ -71,14 +71,14 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
-        <h1 className="text-4xl font-bold text-gray-900 mb-8">
+        <h1 className="text-4xl font-bold font-heading text-gray-900 mb-8">
           {city.name.en} Weather & Climate Guide
         </h1>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <div className="lg:col-span-2">
             {/* Introduction */}
-            <section className="bg-white rounded-lg shadow-md p-6 mb-8">
+            <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
               <p className="text-gray-700 leading-relaxed">
                 Planning your trip to {city.name.en}? Understanding the weather patterns throughout the year is essential for making the most of your visit. 
                 {city.name.en} experiences three distinct seasons: the cool season (November-February), hot season (March-May), and rainy season (June-October). 
@@ -87,12 +87,12 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             </section>
 
             {/* Monthly Weather Grid */}
-            <section className="bg-white rounded-lg shadow-md p-6 mb-8">
-              <h2 className="text-2xl font-bold mb-6">Weather by Month</h2>
+            <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
+              <h2 className="text-2xl font-bold font-heading mb-6">Weather by Month</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {monthlyWeather.map((data) => (
                   <Link key={data.month} href={`/city/${city.slug}/weather/${data.month}`} className={`block p-4 rounded-lg border-2 hover:shadow-lg transition-shadow ${getSeasonColor(data.month)}`}>
-                    <h3 className="font-semibold text-lg mb-2">{data.monthName}</h3>
+                    <h3 className="font-semibold font-heading text-lg mb-2">{data.monthName}</h3>
                     <div className="text-sm text-gray-600 mb-2">{getSeasonName(data.month)}</div>
                     <div className="flex justify-between items-center mb-2">
                       <div className="text-sm">
@@ -112,26 +112,26 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
 
 
             {/* Season Overview */}
-            <section className="bg-white rounded-lg shadow-md p-6 mb-8">
-              <h2 className="text-2xl font-bold mb-6">Seasonal Overview</h2>
+            <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
+              <h2 className="text-2xl font-bold font-heading mb-6">Seasonal Overview</h2>
               
               <div className="space-y-6">
                 <div className="p-4 bg-blue-50 rounded-lg">
-                  <h3 className="text-xl font-semibold text-blue-800 mb-2">Cool Season (November - February)</h3>
+                  <h3 className="text-xl font-semibold font-heading text-blue-800 mb-2">Cool Season (November - February)</h3>
                   <p className="text-gray-700">
                     The most popular time to visit {city.name.en}. Temperatures are comfortable, rainfall is minimal, and the weather is perfect for sightseeing and outdoor activities.
                   </p>
                 </div>
                 
                 <div className="p-4 bg-orange-50 rounded-lg">
-                  <h3 className="text-xl font-semibold text-orange-800 mb-2">Hot Season (March - May)</h3>
+                  <h3 className="text-xl font-semibold font-heading text-orange-800 mb-2">Hot Season (March - May)</h3>
                   <p className="text-gray-700">
                     The hottest time of year with temperatures often exceeding 35°C. Great for beach activities but can be challenging for extensive sightseeing. Songkran Festival in April brings festive celebrations.
                   </p>
                 </div>
                 
                 <div className="p-4 bg-green-50 rounded-lg">
-                  <h3 className="text-xl font-semibold text-green-800 mb-2">Rainy Season (June - October)</h3>
+                  <h3 className="text-xl font-semibold font-heading text-green-800 mb-2">Rainy Season (June - October)</h3>
                   <p className="text-gray-700">
                     Characterized by afternoon showers and occasional heavy rainfall. Despite the rain, there are many sunny periods. Lower tourist numbers mean better prices and less crowded attractions.
                   </p>
@@ -140,19 +140,19 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             </section>
 
             {/* Best Time to Visit */}
-            <section className="bg-white rounded-lg shadow-md p-6">
-              <h2 className="text-2xl font-bold mb-4">Best Time to Visit {city.name.en}</h2>
+            <section className="bg-white rounded-2xl shadow-md p-6">
+              <h2 className="text-2xl font-bold font-heading mb-4">Best Time to Visit {city.name.en}</h2>
               <div className="space-y-4">
                 <div>
-                  <h3 className="font-semibold text-lg mb-2">For Perfect Weather:</h3>
+                  <h3 className="font-semibold font-heading text-lg mb-2">For Perfect Weather:</h3>
                   <p className="text-gray-700">November to February - Cool temperatures and minimal rainfall</p>
                 </div>
                 <div>
-                  <h3 className="font-semibold text-lg mb-2">For Fewer Crowds:</h3>
+                  <h3 className="font-semibold font-heading text-lg mb-2">For Fewer Crowds:</h3>
                   <p className="text-gray-700">May to October - Rainy season brings fewer tourists</p>
                 </div>
                 <div>
-                  <h3 className="font-semibold text-lg mb-2">For Festivals:</h3>
+                  <h3 className="font-semibold font-heading text-lg mb-2">For Festivals:</h3>
                   <p className="text-gray-700">April (Songkran) and November (Loy Krathong)</p>
                 </div>
               </div>
@@ -163,10 +163,10 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
           <aside>
             <div className="lg:sticky lg:top-4 space-y-6">
             {/* City Weather Selector */}
-            <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">Other Cities Weather</h3>
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h3 className="text-lg font-semibold font-heading mb-4">Other Cities Weather</h3>
               <select 
-                className="w-full p-2 border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-orange-500"
+                className="w-full p-2 border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-thailand-red"
                 value={city.slug}
                 onChange={(e) => window.location.href = `/city/${e.target.value}/weather/`}
               >
@@ -184,14 +184,14 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             </div>
 
             {/* Trip.com Widget */}
-            <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">Book Your Trip</h3>
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h3 className="text-lg font-semibold font-heading mb-4">Book Your Trip</h3>
               <TripcomWidget city={city.name.en} type="searchbox" />
             </div>
 
             {/* Quick Weather Stats */}
-            <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">Quick Weather Facts</h3>
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h3 className="text-lg font-semibold font-heading mb-4">Quick Weather Facts</h3>
               <ul className="space-y-3 text-sm">
                 <li className="flex justify-between">
                   <span className="text-gray-600">Hottest Month:</span>
@@ -213,26 +213,26 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             </div>
 
             {/* Related Links */}
-            <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-lg font-semibold mb-4">Plan Your Visit</h3>
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h3 className="text-lg font-semibold font-heading mb-4">Plan Your Visit</h3>
               <ul className="space-y-2">
                 <li>
-                  <Link href={`/city/${city.slug}`} className="text-orange-500 hover:text-orange-600">
+                  <Link href={`/city/${city.slug}`} className="text-thailand-red hover:text-thailand-blue">
                     {city.name.en} City Guide
                   </Link>
                 </li>
                 <li>
-                  <Link href={`/city/${city.slug}/attractions`} className="text-orange-500 hover:text-orange-600">
+                  <Link href={`/city/${city.slug}/attractions`} className="text-thailand-red hover:text-thailand-blue">
                     Top Attractions
                   </Link>
                 </li>
                 <li>
-                  <Link href={`/city/${city.slug}/hotels`} className="text-orange-500 hover:text-orange-600">
+                  <Link href={`/city/${city.slug}/hotels`} className="text-thailand-red hover:text-thailand-blue">
                     Where to Stay
                   </Link>
                 </li>
                 <li>
-                  <Link href={`/city/${city.slug}/food`} className="text-orange-500 hover:text-orange-600">
+                  <Link href={`/city/${city.slug}/food`} className="text-thailand-red hover:text-thailand-blue">
                     Food & Dining
                   </Link>
                 </li>
@@ -244,8 +244,8 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
         </div>
 
         {/* Booking CTA */}
-        <section className="mt-12 bg-white rounded-lg shadow-md p-6">
-          <h2 className="text-xl font-bold text-gray-900 mb-4 text-center">
+        <section className="mt-12 bg-white rounded-2xl shadow-md p-6">
+          <h2 className="text-xl font-bold font-heading text-gray-900 mb-4 text-center">
             Book Your {city.name.en} Trip
           </h2>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -253,7 +253,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
               href="https://trip.tpo.lv/TmObooZ5"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center bg-blue-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+              className="inline-flex items-center justify-center bg-thailand-blue text-white py-3 px-6 rounded-xl font-semibold hover:bg-thailand-blue-600 transition-colors"
             >
               Book Hotels
             </a>
@@ -261,7 +261,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
               href="https://12go.tpo.lv/tNA80urD"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center bg-green-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-green-700 transition-colors"
+              className="inline-flex items-center justify-center bg-thailand-blue text-white py-3 px-6 rounded-xl hover:bg-thailand-blue-600 font-semibold transition-colors"
             >
               Book Transport
             </a>

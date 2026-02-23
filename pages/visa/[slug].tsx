@@ -100,14 +100,14 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white">
+        <section className="bg-surface-dark text-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
             <div className="flex items-center gap-4 mb-4">
               <span className="text-5xl">{visa.icon}</span>
               <div>
-                <h1 className="text-3xl lg:text-5xl font-bold">{visa.title[lang]}</h1>
+                <h1 className="text-3xl lg:text-5xl font-bold font-heading">{visa.title[lang]}</h1>
                 <p className="text-lg opacity-90 mt-2">{visa.description[lang]}</p>
               </div>
             </div>
@@ -125,21 +125,21 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
         <section className="bg-white border-b">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-              <div className="bg-indigo-50 rounded-lg p-4 text-center">
+              <div className="bg-white rounded-2xl shadow-md p-4 text-center">
                 <div className="text-sm text-gray-600">{lang === 'nl' ? 'Duur' : 'Duration'}</div>
-                <div className="font-bold text-lg text-indigo-700">{visa.duration.initial}</div>
+                <div className="font-bold text-lg text-thailand-blue">{visa.duration.initial}</div>
               </div>
-              <div className="bg-green-50 rounded-lg p-4 text-center">
+              <div className="bg-white rounded-2xl shadow-md p-4 text-center">
                 <div className="text-sm text-gray-600">{lang === 'nl' ? 'Kosten' : 'Cost'}</div>
                 <div className="font-bold text-lg text-green-700">{visa.cost.entry}</div>
               </div>
-              <div className="bg-orange-50 rounded-lg p-4 text-center">
+              <div className="bg-white rounded-2xl shadow-md p-4 text-center">
                 <div className="text-sm text-gray-600">{lang === 'nl' ? 'Verlenging' : 'Extension'}</div>
                 <div className="font-bold text-lg text-orange-700">{visa.cost.extension}</div>
               </div>
-              <div className="bg-blue-50 rounded-lg p-4 text-center">
+              <div className="bg-white rounded-2xl shadow-md p-4 text-center">
                 <div className="text-sm text-gray-600">{lang === 'nl' ? 'Bijgewerkt' : 'Updated'}</div>
-                <div className="font-bold text-lg text-blue-700">{visa.last_updated}</div>
+                <div className="font-bold text-lg text-thailand-blue">{visa.last_updated}</div>
               </div>
             </div>
           </div>
@@ -151,15 +151,15 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
             <div className="lg:col-span-2 space-y-12">
               {/* Requirements */}
               <section>
-                <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                   {lang === 'nl' ? 'Vereisten' : 'Requirements'}
                 </h2>
                 <div className="space-y-3">
                   {visa.requirements.map((req, index) => (
-                    <div key={index} className="bg-white rounded-lg shadow-md p-4 flex items-start gap-3">
+                    <div key={index} className="bg-white rounded-2xl shadow-md p-4 flex items-start gap-3">
                       <span className="text-green-500 text-xl mt-0.5">✓</span>
                       <div>
-                        <h3 className="font-medium text-gray-900">{req.item[lang]}</h3>
+                        <h3 className="font-medium font-heading text-gray-900">{req.item[lang]}</h3>
                         <p className="text-sm text-gray-600">{req.detail[lang]}</p>
                       </div>
                     </div>
@@ -169,17 +169,17 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
 
               {/* Process Steps */}
               <section>
-                <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                   {lang === 'nl' ? 'Aanvraagproces' : 'Application Process'}
                 </h2>
                 <div className="space-y-4">
                   {visa.process.steps.map((step) => (
-                    <div key={step.step} className="bg-white rounded-lg shadow-md p-6 flex gap-4">
-                      <div className="flex-shrink-0 w-10 h-10 bg-indigo-600 text-white rounded-full flex items-center justify-center font-bold text-lg">
+                    <div key={step.step} className="bg-white rounded-2xl shadow-md p-6 flex gap-4">
+                      <div className="flex-shrink-0 w-10 h-10 bg-thailand-blue text-white rounded-xl flex items-center justify-center font-bold text-lg">
                         {step.step}
                       </div>
                       <div>
-                        <h3 className="font-bold text-gray-900 text-lg">{step.title[lang]}</h3>
+                        <h3 className="font-bold font-heading text-gray-900 text-lg">{step.title[lang]}</h3>
                         <p className="text-gray-700 mt-1">{step.description[lang]}</p>
                       </div>
                     </div>
@@ -189,19 +189,19 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
 
               {/* Duration & Extension */}
               <section>
-                <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                   {lang === 'nl' ? 'Verblijfsduur & Verlenging' : 'Duration & Extension'}
                 </h2>
-                <div className="bg-white rounded-lg shadow-md p-6">
+                <div className="bg-white rounded-2xl shadow-md p-6">
                   <div className="grid md:grid-cols-2 gap-6">
                     <div>
-                      <h3 className="font-bold text-gray-900 mb-2">
+                      <h3 className="font-bold font-heading text-gray-900 mb-2">
                         {lang === 'nl' ? 'Initiële verblijfsduur' : 'Initial Stay'}
                       </h3>
-                      <p className="text-2xl font-bold text-indigo-600">{visa.duration.initial}</p>
+                      <p className="text-2xl font-bold text-thailand-blue">{visa.duration.initial}</p>
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900 mb-2">
+                      <h3 className="font-bold font-heading text-gray-900 mb-2">
                         {lang === 'nl' ? 'Verlenging' : 'Extension'}
                       </h3>
                       <p className="text-gray-700">{visa.duration.extensions[lang]}</p>
@@ -213,10 +213,10 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
               {/* Eligible Countries */}
               {visa.eligible_countries && visa.eligible_countries.length > 0 && (
                 <section>
-                  <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                     {lang === 'nl' ? 'In Aanmerking Komende Landen' : 'Eligible Countries'}
                   </h2>
-                  <div className="bg-white rounded-lg shadow-md p-6">
+                  <div className="bg-white rounded-2xl shadow-md p-6">
                     <div className="flex flex-wrap gap-2">
                       {visa.eligible_countries.map((country, index) => (
                         <span key={index} className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm">
@@ -230,12 +230,12 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
 
               {/* FAQs */}
               <section>
-                <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                   {lang === 'nl' ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}
                 </h2>
                 <div className="space-y-4">
                   {visa.faqs.map((faq, index) => (
-                    <details key={index} className="bg-white rounded-lg shadow-md group">
+                    <details key={index} className="bg-white rounded-2xl shadow-md group">
                       <summary className="p-6 cursor-pointer font-bold text-gray-900 flex justify-between items-center">
                         {faq.question[lang]}
                         <svg className="w-5 h-5 transform transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -255,8 +255,8 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
             <aside>
               <div className="lg:sticky lg:top-4 space-y-6">
               {/* Tips */}
-              <div className="bg-white rounded-lg shadow-lg p-6">
-                <h3 className="text-xl font-bold mb-4">
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-bold font-heading mb-4">
                   {lang === 'nl' ? 'Tips' : 'Tips'}
                 </h3>
                 <ul className="space-y-3">
@@ -270,20 +270,20 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
               </div>
 
               {/* Other Visa Types */}
-              <div className="bg-white rounded-lg shadow-lg p-6">
-                <h3 className="text-xl font-bold mb-4">
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-bold font-heading mb-4">
                   {lang === 'nl' ? 'Andere Visum Types' : 'Other Visa Types'}
                 </h3>
                 <div className="space-y-2">
-                  <Link href="/visa/" className="block text-indigo-600 hover:underline text-sm">
+                  <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">
                     ← {lang === 'nl' ? 'Alle visum types bekijken' : 'View all visa types'}
                   </Link>
                 </div>
               </div>
 
               {/* Travel Insurance CTA */}
-              <div className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-lg p-6">
-                <h3 className="text-xl font-bold mb-2">
+              <div className="bg-surface-dark text-white rounded-2xl p-6">
+                <h3 className="text-xl font-bold font-heading mb-2">
                   {lang === 'nl' ? 'Reisverzekering Nodig?' : 'Need Travel Insurance?'}
                 </h3>
                 <p className="text-sm opacity-90 mb-4">
@@ -293,15 +293,15 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                 </p>
                 <Link
                   href="/travel-insurance/"
-                  className="block bg-white text-indigo-600 text-center px-4 py-2 rounded-lg font-semibold hover:bg-gray-100 transition-colors"
+                  className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-red-700 transition-colors"
                 >
                   {lang === 'nl' ? 'Vergelijk Verzekeringen' : 'Compare Insurance'}
                 </Link>
               </div>
 
               {/* eSIM CTA */}
-              <div className="bg-white rounded-lg shadow-lg p-6">
-                <h3 className="text-xl font-bold mb-2">Thailand eSIM</h3>
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-bold font-heading mb-2">Thailand eSIM</h3>
                 <p className="text-sm text-gray-600 mb-4">
                   {lang === 'nl'
                     ? 'Blijf verbonden zodra je landt in Thailand'
@@ -311,7 +311,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                   href="https://saily.tpo.lv/rf9lidnE"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-thailand-red transition-colors mb-2"
+                  className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
                 >
                   Saily eSIM
                 </a>
@@ -331,8 +331,8 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
               />
 
               {/* Book Activities */}
-              <div className="bg-white rounded-lg shadow-lg p-6">
-                <h3 className="text-xl font-bold mb-3">
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-bold font-heading mb-3">
                   {lang === 'nl' ? 'Boek Activiteiten' : 'Book Activities'}
                 </h3>
                 <div className="space-y-3">
@@ -340,7 +340,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                     href="https://klook.tpo.lv/7Dt6WApj"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-orange-500 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-orange-600 transition-colors text-sm"
+                    className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-red-700 transition-colors text-sm"
                   >
                     Klook Activities
                   </a>
@@ -348,7 +348,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                     href="https://getyourguide.tpo.lv/GuAFfGGK"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block bg-red-500 text-white text-center px-4 py-2 rounded-lg font-semibold hover:bg-red-600 transition-colors text-sm"
+                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-blue-700 transition-colors text-sm"
                   >
                     GetYourGuide Tours
                   </a>
@@ -361,11 +361,11 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
         </div>
 
         {/* Affiliate Banner */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold">
+        <section className="bg-surface-dark">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="flex flex-col md:flex-row items-center justify-between gap-6">
               <div className="text-white">
-                <h2 className="text-2xl font-bold mb-1">
+                <h2 className="text-2xl font-bold font-heading mb-1">
                   {lang === 'nl' ? 'Plan Je Thailand Reis' : 'Plan Your Thailand Trip'}
                 </h2>
                 <p className="opacity-90 text-sm">

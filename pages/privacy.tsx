@@ -34,17 +34,17 @@ export default function PrivacyPolicy() {
         <meta name="robots" content="noindex, follow" />
       </Head>
 
-      <div className="min-h-screen bg-gray-50">
+      <div className="min-h-screen bg-surface-cream">
         <Breadcrumbs items={breadcrumbs} />
-        
+
         <div className="container-custom py-12">
-          <div className="max-w-4xl mx-auto bg-white rounded-lg shadow-sm p-8">
-            <h1 className="text-3xl font-bold mb-8">Privacy Policy</h1>
+          <div className="max-w-4xl mx-auto bg-white rounded-2xl shadow-md p-8">
+            <h1 className="text-3xl font-bold font-heading mb-8">Privacy Policy</h1>
             <p className="text-gray-600 mb-8">Last updated: {new Date().toLocaleDateString()}</p>
 
             <div className="prose prose-lg max-w-none">
               <section className="mb-8">
-                <h2 className="text-2xl font-semibold mb-4">1. Introduction</h2>
+                <h2 className="text-2xl font-semibold font-heading mb-4">1. Introduction</h2>
                 <p className="mb-4">
                   Welcome to Go2Thailand.com. We respect your privacy and are committed to protecting your personal data. 
                   This privacy policy will inform you about how we look after your personal data when you visit our website.
@@ -52,7 +52,7 @@ export default function PrivacyPolicy() {
               </section>
 
               <section className="mb-8">
-                <h2 className="text-2xl font-semibold mb-4">2. Information We Collect</h2>
+                <h2 className="text-2xl font-semibold font-heading mb-4">2. Information We Collect</h2>
                 <p className="mb-4">We may collect the following types of information:</p>
                 <ul className="list-disc pl-6 mb-4">
                   <li>Technical data (IP address, browser type, device information)</li>
@@ -63,7 +63,7 @@ export default function PrivacyPolicy() {
               </section>
 
               <section className="mb-8">
-                <h2 className="text-2xl font-semibold mb-4">3. How We Use Your Information</h2>
+                <h2 className="text-2xl font-semibold font-heading mb-4">3. How We Use Your Information</h2>
                 <p className="mb-4">We use your information to:</p>
                 <ul className="list-disc pl-6 mb-4">
                   <li>Provide and improve our travel content and recommendations</li>
@@ -75,7 +75,7 @@ export default function PrivacyPolicy() {
               </section>
 
               <section className="mb-8">
-                <h2 className="text-2xl font-semibold mb-4">4. Advertising Partners</h2>
+                <h2 className="text-2xl font-semibold font-heading mb-4">4. Advertising Partners</h2>
                 <p className="mb-4">
                   We work with advertising partners including Google AdSense and Ezoic to display advertisements on our website. 
                   These partners may use cookies and similar technologies to collect information about your browsing activities 
@@ -89,8 +89,8 @@ export default function PrivacyPolicy() {
                 </p>
                 
                 {/* Ezoic Privacy Policy Embed */}
-                <div className="mt-6 p-4 bg-gray-50 rounded-lg">
-                  <h3 className="text-lg font-semibold mb-3">Ezoic Privacy Policy</h3>
+                <div className="mt-6 p-4 bg-surface-cream rounded-xl">
+                  <h3 className="text-lg font-semibold font-heading mb-3">Ezoic Privacy Policy</h3>
                   <span id="ezoic-privacy-policy-embed"></span>
                   <div className="mt-3 text-sm text-gray-600">
                     <p>
@@ -109,7 +109,7 @@ export default function PrivacyPolicy() {
               </section>
 
               <section className="mb-8">
-                <h2 className="text-2xl font-semibold mb-4">5. Cookies</h2>
+                <h2 className="text-2xl font-semibold font-heading mb-4">5. Cookies</h2>
                 <p className="mb-4">
                   We use cookies and similar tracking technologies to track activity on our website and hold certain information. 
                   You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.
@@ -124,7 +124,7 @@ export default function PrivacyPolicy() {
               </section>
 
               <section className="mb-8">
-                <h2 className="text-2xl font-semibold mb-4">6. Your Rights</h2>
+                <h2 className="text-2xl font-semibold font-heading mb-4">6. Your Rights</h2>
                 <p className="mb-4">Under GDPR and other privacy laws, you have the right to:</p>
                 <ul className="list-disc pl-6 mb-4">
                   <li>Access your personal data</li>
@@ -138,7 +138,7 @@ export default function PrivacyPolicy() {
               </section>
 
               <section className="mb-8">
-                <h2 className="text-2xl font-semibold mb-4">7. Data Security</h2>
+                <h2 className="text-2xl font-semibold font-heading mb-4">7. Data Security</h2>
                 <p className="mb-4">
                   We have implemented appropriate security measures to prevent your personal data from being accidentally lost, 
                   used, or accessed in an unauthorized way. We limit access to your personal data to those who have a genuine 
@@ -147,7 +147,7 @@ export default function PrivacyPolicy() {
               </section>
 
               <section className="mb-8">
-                <h2 className="text-2xl font-semibold mb-4">8. Third-Party Links</h2>
+                <h2 className="text-2xl font-semibold font-heading mb-4">8. Third-Party Links</h2>
                 <p className="mb-4">
                   Our website may include links to third-party websites, plug-ins, and applications. Clicking on those links 
                   may allow third parties to collect or share data about you. We do not control these third-party websites 
@@ -156,7 +156,7 @@ export default function PrivacyPolicy() {
               </section>
 
               <section className="mb-8">
-                <h2 className="text-2xl font-semibold mb-4">9. Contact Us</h2>
+                <h2 className="text-2xl font-semibold font-heading mb-4">9. Contact Us</h2>
                 <p className="mb-4">
                   If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
                 </p>
@@ -167,7 +167,7 @@ export default function PrivacyPolicy() {
               </section>
 
               <section className="mb-8">
-                <h2 className="text-2xl font-semibold mb-4">10. Changes to This Privacy Policy</h2>
+                <h2 className="text-2xl font-semibold font-heading mb-4">10. Changes to This Privacy Policy</h2>
                 <p className="mb-4">
                   We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new 
                   Privacy Policy on this page and updating the "Last updated" date.

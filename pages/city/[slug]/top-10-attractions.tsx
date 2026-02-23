@@ -67,12 +67,12 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
           description={`Discover the 10 must-see attractions in ${city.name.en}, Thailand. Current entrance fees, opening hours, and visitor tips for 2026.`}
         />
 
-        <div className="bg-gray-50 min-h-screen">
+        <div className="bg-surface-cream min-h-screen">
           <section className="bg-white shadow-sm">
             <div className="container-custom py-8">
               <Breadcrumbs items={breadcrumbs} />
               <div className="text-center py-16">
-                <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+                <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
                   Top 10 Attractions in {city.name.en}
                 </h1>
                 <p className="text-xl text-gray-600 mb-8">
@@ -146,14 +146,15 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Header Section */}
         <section className="bg-white shadow-sm">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
-            
+
             <div className="text-center max-w-4xl mx-auto">
-              <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
+              <span className="section-label">Top 10 Guide</span>
+              <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-6">
                 {attractionsData.title}
               </h1>
               
@@ -198,8 +199,8 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                   {/* Sticky Sidebar Ad */}
                   
                   {/* Quick Navigation */}
-                  <div className="bg-white rounded-lg shadow-lg p-6">
-                    <h3 className="text-lg font-semibold text-gray-900 mb-4">Quick Jump</h3>
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Quick Jump</h3>
                     <div className="space-y-2">
                       {attractionsData.items.slice(0, 5).map((item) => (
                         <a
@@ -214,8 +215,8 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                   </div>
 
                   {/* Visitor Tips */}
-                  <div className="bg-white rounded-lg shadow-lg p-6">
-                    <h3 className="text-lg font-semibold text-gray-900 mb-4">Visitor Tips</h3>
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Visitor Tips</h3>
                     <div className="space-y-3 text-sm text-gray-600">
                       <p>• Visit early morning to avoid crowds</p>
                       <p>• Check opening hours before going</p>
@@ -226,8 +227,8 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                   </div>
 
                   {/* City Info */}
-                  <div className="bg-white rounded-lg shadow-lg p-6">
-                    <h3 className="text-lg font-semibold text-gray-900 mb-4">Explore More</h3>
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Explore More</h3>
                     <div className="space-y-3">
                       <Link href={`/city/${city.slug}/`} className="block text-thailand-blue hover:underline">
                         {city.name.en} Guide
@@ -251,16 +252,16 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                       {/* Attraction Item */}
                       <article 
                         id={`attraction-${attraction.rank}`}
-                        className="bg-white rounded-lg shadow-lg overflow-hidden"
+                        className="bg-white rounded-2xl shadow-md overflow-hidden"
                       >
                         <div className="p-6 lg:p-8">
                           {/* Rank Badge */}
                           <div className="flex items-start gap-4 mb-4">
-                            <div className="flex-shrink-0 w-12 h-12 bg-thailand-blue text-white rounded-full flex items-center justify-center text-xl font-bold">
+                            <div className="flex-shrink-0 w-12 h-12 bg-thailand-blue text-white rounded-xl flex items-center justify-center text-xl font-bold">
                               {attraction.rank}
                             </div>
                             <div className="flex-1">
-                              <h2 className="text-2xl lg:text-3xl font-bold text-gray-900 mb-2">
+                              <h2 className="text-2xl lg:text-3xl font-bold font-heading text-gray-900 mb-2">
                                 {attraction.name}
                               </h2>
                               {attraction.current_price && (
@@ -292,7 +293,7 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                           <div className="prose prose-lg max-w-none mb-6">
                             <p>{attraction.description}</p>
                             {attraction.story && (
-                              <div className="bg-gray-50 rounded-lg p-4 mt-4">
+                              <div className="bg-surface-cream rounded-xl p-4 mt-4">
                                 <p className="italic">{attraction.story}</p>
                               </div>
                             )}
@@ -314,8 +315,8 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
 
                           {/* Current Info */}
                           {attraction.current_info && (
-                            <div className="bg-blue-50 border-l-4 border-blue-400 p-4 rounded">
-                              <p className="text-blue-700 text-sm">
+                            <div className="bg-surface-cream border-l-4 border-thailand-red p-4 rounded-xl">
+                              <p className="text-gray-700 text-sm">
                                 <strong>Current Info:</strong> {attraction.current_info}
                               </p>
                             </div>
@@ -341,8 +342,8 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                   </div>
 
                   {/* Book Tickets & Tours - Affiliate CTA */}
-                  <div className="bg-gradient-to-br from-green-50 to-green-100 rounded-lg shadow-lg p-8 text-center border border-green-200">
-                    <h3 className="text-2xl font-bold text-gray-900 mb-3">
+                  <div className="bg-surface-cream rounded-2xl shadow-md p-8 text-center border-0">
+                    <h3 className="text-2xl font-bold font-heading text-gray-900 mb-3">
                       Book Tickets & Tours in {city.name.en}
                     </h3>
                     <p className="text-gray-600 mb-6">
@@ -353,7 +354,7 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                         href="https://klook.tpo.lv/aq6ZFxvc"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-block bg-orange-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-orange-600 transition-colors"
+                        className="inline-block bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors"
                       >
                         Book on Klook
                       </a>
@@ -361,7 +362,7 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                         href="https://getyourguide.tpo.lv/GuAFfGGK"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-block bg-blue-700 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-800 transition-colors"
+                        className="inline-block bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors"
                       >
                         Book on GetYourGuide
                       </a>
@@ -375,8 +376,8 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
                   </div>
 
                   {/* Call to Action */}
-                  <div className="bg-white rounded-lg shadow-lg p-8 text-center">
-                    <h3 className="text-2xl font-bold text-gray-900 mb-4">
+                  <div className="bg-white rounded-2xl shadow-md p-8 text-center">
+                    <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
                       Ready to Explore {city.name.en}?
                     </h3>
                     <p className="text-gray-600 mb-6">

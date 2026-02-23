@@ -380,10 +380,10 @@ export default function ComparisonPage({
         </Head>
       )}
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
 
         {/* Hero */}
-        <section className="bg-gradient-to-r from-thailand-blue to-blue-700 text-white py-16">
+        <section className="bg-surface-dark text-white py-16">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             {/* Breadcrumbs (white on dark) */}
             <nav className="flex mb-8" aria-label="Breadcrumb">
@@ -391,14 +391,14 @@ export default function ComparisonPage({
                 {breadcrumbs.map((crumb, index) => (
                   <li key={index} className="inline-flex items-center">
                     {index > 0 && (
-                      <svg className="w-5 h-5 text-blue-300 mx-1" fill="currentColor" viewBox="0 0 20 20">
+                      <svg className="w-5 h-5 text-gray-400 mx-1" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
                       </svg>
                     )}
                     {index === breadcrumbs.length - 1 ? (
-                      <span className="text-blue-200 text-sm">{crumb.name}</span>
+                      <span className="text-gray-300 text-sm">{crumb.name}</span>
                     ) : (
-                      <Link href={crumb.href} className="text-white hover:text-blue-200 text-sm transition-colors">
+                      <Link href={crumb.href} className="text-white hover:text-gray-300 text-sm transition-colors">
                         {crumb.name}
                       </Link>
                     )}
@@ -408,12 +408,13 @@ export default function ComparisonPage({
             </nav>
 
             {/* VS layout */}
+            <span className="font-script text-thailand-gold text-lg mb-4 block text-center">Destination Comparison</span>
             <div className="flex flex-col md:flex-row items-center justify-center gap-6 text-center">
               <div className="flex-1">
                 <div className="inline-block bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm mb-3">
                   {item1.region}
                 </div>
-                <h1 className="text-4xl lg:text-5xl font-bold">{item1Name}</h1>
+                <h1 className="text-4xl lg:text-5xl font-bold font-heading">{item1Name}</h1>
               </div>
 
               <div className="flex-shrink-0">
@@ -426,11 +427,11 @@ export default function ComparisonPage({
                 <div className="inline-block bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm mb-3">
                   {item2.region}
                 </div>
-                <h2 className="text-4xl lg:text-5xl font-bold">{item2Name}</h2>
+                <h2 className="text-4xl lg:text-5xl font-bold font-heading">{item2Name}</h2>
               </div>
             </div>
 
-            <p className="text-center text-blue-100 mt-6 text-lg">
+            <p className="text-center text-gray-300 mt-6 text-lg">
               {t.whichShouldYouChoose(comparisonType)}
             </p>
           </div>
@@ -446,12 +447,12 @@ export default function ComparisonPage({
           {/* Quick verdict */}
           {enrichedData && (
             <section className="mb-10">
-              <div className="bg-blue-50 border border-blue-200 rounded-xl p-6">
+              <div className="bg-surface-cream border-0 rounded-2xl p-6">
                 <div className="flex items-start gap-4">
                   <div className="text-3xl flex-shrink-0"></div>
                   <div>
-                    <h2 className="text-xl font-bold text-blue-900 mb-2">{t.ourVerdict}</h2>
-                    <p className="text-blue-800 leading-relaxed">{enrichedData.verdict[lang]}</p>
+                    <h2 className="text-xl font-bold font-heading text-gray-900 mb-2">{t.ourVerdict}</h2>
+                    <p className="text-gray-700 leading-relaxed">{enrichedData.verdict[lang]}</p>
                   </div>
                 </div>
               </div>
@@ -467,14 +468,14 @@ export default function ComparisonPage({
 
           {/* Side-by-side comparison table */}
           <section className="mb-12">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
               {t.keyComparison(item1Name, item2Name)}
             </h2>
             <div className="bg-white rounded-xl shadow-md overflow-hidden">
               {/* Table header */}
               <div className="grid grid-cols-3 bg-thailand-blue text-white">
                 <div className="p-4 font-bold text-lg text-center">{item1Name}</div>
-                <div className="p-4 font-semibold text-center text-blue-100 text-sm uppercase tracking-wide border-x border-blue-500">
+                <div className="p-4 font-semibold text-center text-blue-100 text-sm uppercase tracking-wide border-x border-blue-400">
                   {t.category}
                 </div>
                 <div className="p-4 font-bold text-lg text-center">{item2Name}</div>
@@ -490,7 +491,7 @@ export default function ComparisonPage({
           {/* Category scores */}
           {enrichedData && enrichedData.categories && enrichedData.categories.length > 0 && (
             <section className="mb-12">
-              <h2 className="text-3xl font-bold text-gray-900 mb-6">{t.categoryBreakdown}</h2>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">{t.categoryBreakdown}</h2>
               <div className="space-y-6">
                 {enrichedData.categories.map((cat, idx) => {
                   const item1Wins = cat.winner === item1.slug;
@@ -499,7 +500,7 @@ export default function ComparisonPage({
                     <div key={idx} className="bg-white rounded-xl shadow-md p-6">
                       <div className="flex items-center gap-3 mb-4">
                         <span className="text-2xl">{cat.icon}</span>
-                        <h3 className="text-xl font-bold text-gray-900">{cat.name}</h3>
+                        <h3 className="text-xl font-bold font-heading text-gray-900">{cat.name}</h3>
                         {(item1Wins || item2Wins) && (
                           <span className="ml-auto bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-medium">
                             {t.winner} {item1Wins ? item1Name : item2Name}
@@ -509,7 +510,7 @@ export default function ComparisonPage({
 
                       <div className="grid md:grid-cols-2 gap-6">
                         {/* Item 1 */}
-                        <div className={`rounded-lg p-4 ${item1Wins ? 'bg-green-50 border border-green-200' : 'bg-gray-50'}`}>
+                        <div className={`rounded-xl p-4 ${item1Wins ? 'bg-green-50 border border-green-200 rounded-xl' : 'bg-surface-cream'}`}>
                           <div className="flex justify-between items-center mb-2">
                             <span className="font-semibold text-gray-800">{item1Name}</span>
                             <span className="text-sm font-bold text-gray-600">{cat.item1_score}/10</span>
@@ -519,7 +520,7 @@ export default function ComparisonPage({
                         </div>
 
                         {/* Item 2 */}
-                        <div className={`rounded-lg p-4 ${item2Wins ? 'bg-green-50 border border-green-200' : 'bg-gray-50'}`}>
+                        <div className={`rounded-xl p-4 ${item2Wins ? 'bg-green-50 border border-green-200 rounded-xl' : 'bg-surface-cream'}`}>
                           <div className="flex justify-between items-center mb-2">
                             <span className="font-semibold text-gray-800">{item2Name}</span>
                             <span className="text-sm font-bold text-gray-600">{cat.item2_score}/10</span>
@@ -538,7 +539,7 @@ export default function ComparisonPage({
           {/* FAQ */}
           {enrichedData && enrichedData.faq && enrichedData.faq.length > 0 && (
             <section className="mb-12">
-              <h2 className="text-3xl font-bold text-gray-900 mb-6">
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
                 {t.frequentlyAskedQuestions}
               </h2>
               <div className="space-y-4">
@@ -566,12 +567,12 @@ export default function ComparisonPage({
 
           {/* Booking widgets */}
           <section className="mb-12">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
               {t.bookYourTrip}
             </h2>
             <div className="grid md:grid-cols-2 gap-6">
               <div>
-                <h3 className="text-lg font-semibold text-gray-800 mb-3">
+                <h3 className="text-lg font-semibold font-heading text-gray-800 mb-3">
                   {t.stayIn(item1Name)}
                 </h3>
                 <TripcomWidget
@@ -581,7 +582,7 @@ export default function ComparisonPage({
                 />
               </div>
               <div>
-                <h3 className="text-lg font-semibold text-gray-800 mb-3">
+                <h3 className="text-lg font-semibold font-heading text-gray-800 mb-3">
                   {t.stayIn(item2Name)}
                 </h3>
                 <TripcomWidget
@@ -599,7 +600,7 @@ export default function ComparisonPage({
           {/* Related comparisons */}
           {allRelated.length > 0 && (
             <section className="mb-12">
-              <h2 className="text-3xl font-bold text-gray-900 mb-6">
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
                 {t.moreComparisons}
               </h2>
               <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
@@ -607,7 +608,7 @@ export default function ComparisonPage({
                   <Link
                     key={relSlug}
                     href={`/compare/${relSlug}/`}
-                    className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-4 border border-gray-100 hover:border-thailand-blue group"
+                    className="bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-4 border-0 group"
                   >
                     <span className="text-sm font-medium text-gray-800 group-hover:text-thailand-blue transition-colors">
                       {getRelatedComparisonName(relSlug, lang)}
@@ -631,9 +632,9 @@ export default function ComparisonPage({
             <section className="mb-8">
               <Link
                 href={`/transport/${transportRoute.slug}/`}
-                className="block bg-white rounded-xl shadow-md p-6 hover:shadow-lg transition-shadow border border-gray-100 hover:border-thailand-blue"
+                className="block bg-white rounded-2xl shadow-md p-6 hover:shadow-lg transition-shadow border-0"
               >
-                <h2 className="text-xl font-bold text-gray-900 mb-2">
+                <h2 className="text-xl font-bold font-heading text-gray-900 mb-2">
                   {lang === 'nl' ? 'Hoe reis je tussen' : 'How to Travel Between'} {item1Name} & {item2Name}
                 </h2>
                 <div className="flex flex-wrap items-center gap-3">
@@ -652,18 +653,18 @@ export default function ComparisonPage({
 
           {/* Deep links back to individual pages */}
           <section className="mb-8">
-            <div className="bg-white rounded-xl shadow-md p-6">
-              <h2 className="text-xl font-bold text-gray-900 mb-4">{t.learnMore}</h2>
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">{t.learnMore}</h2>
               <div className="flex flex-wrap gap-4">
                 <Link
                   href={`/${comparisonType === 'island' ? 'islands' : 'city'}/${item1.slug}/`}
-                  className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+                  className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-3 rounded-xl font-semibold hover:bg-blue-700 transition-colors"
                 >
                   {t.fullGuide(item1Name)} &rarr;
                 </Link>
                 <Link
                   href={`/${comparisonType === 'island' ? 'islands' : 'city'}/${item2.slug}/`}
-                  className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+                  className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-3 rounded-xl font-semibold hover:bg-blue-700 transition-colors"
                 >
                   {t.fullGuide(item2Name)} &rarr;
                 </Link>
@@ -703,12 +704,12 @@ function TableRow({
   }
 
   return (
-    <div className="grid grid-cols-3 hover:bg-gray-50 transition-colors">
+    <div className="grid grid-cols-3 hover:bg-surface-cream transition-colors">
       <div className={`p-4 text-center text-sm font-medium ${item1Better ? 'bg-green-50 text-green-800' : 'text-gray-700'}`}>
         {val1}
         {item1Better && <span className="ml-1 text-green-600">✓</span>}
       </div>
-      <div className="p-4 text-center text-xs font-semibold text-gray-500 uppercase tracking-wide bg-gray-50 border-x border-gray-100">
+      <div className="p-4 text-center text-xs font-semibold text-gray-500 uppercase tracking-wide bg-surface-cream border-x border-gray-100">
         {label}
       </div>
       <div className={`p-4 text-center text-sm font-medium ${item2Better ? 'bg-green-50 text-green-800' : 'text-gray-700'}`}>

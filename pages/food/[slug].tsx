@@ -156,7 +156,7 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
         />
       </SEOHead>
 
-      <div className="bg-gray-50 min-h-screen">
+      <div className="bg-surface-cream min-h-screen">
         {/* Breadcrumbs */}
         <section className="bg-white shadow-sm">
           <div className="container-custom py-4">
@@ -182,51 +182,51 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
                   <span className={`px-3 py-1 rounded-full text-sm font-medium ${getDifficultyColor(dish.difficulty)}`}>
                     {dish.difficulty}
                   </span>
-                  <span className="px-3 py-1 rounded-full text-sm font-medium bg-blue-100 text-blue-800 capitalize">
+                  <span className="px-3 py-1 rounded-full text-sm font-medium bg-thailand-blue/10 text-thailand-blue capitalize">
                     {dish.category.replace('-', ' ')}
                   </span>
                 </div>
-                
-                <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+
+                <h1 className="text-4xl lg:text-5xl font-heading font-bold text-gray-900 mb-4">
                   {dish.name.en}
                 </h1>
                 <p className="text-2xl text-gray-600 mb-6">
                   {dish.name.thai}
                 </p>
-                
+
                 <p className="text-xl text-gray-700 mb-8 leading-relaxed">
                   {dish.enhanced_description || dish.description.en}
                 </p>
-                
+
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
-                  <div className="bg-gray-50 rounded-lg p-4">
+                  <div className="bg-surface-cream rounded-xl p-4">
                     <div className="text-2xl mb-2"></div>
                     <div className="text-sm text-gray-600">Prep Time</div>
                     <div className="font-semibold">{dish.preparation_time}</div>
                   </div>
-                  <div className="bg-gray-50 rounded-lg p-4">
+                  <div className="bg-surface-cream rounded-xl p-4">
                     <div className="text-2xl mb-2"></div>
                     <div className="text-sm text-gray-600">Region</div>
                     <div className="font-semibold capitalize">{dish.region}</div>
                   </div>
-                  <div className="bg-gray-50 rounded-lg p-4">
+                  <div className="bg-surface-cream rounded-xl p-4">
                     <div className="text-2xl mb-2"></div>
                     <div className="text-sm text-gray-600">Price Range</div>
                     <div className="font-semibold capitalize">{dish.price_range}</div>
                   </div>
-                  <div className="bg-gray-50 rounded-lg p-4">
+                  <div className="bg-surface-cream rounded-xl p-4">
                     <div className="text-2xl mb-2"></div>
                     <div className="text-sm text-gray-600">Difficulty</div>
                     <div className="font-semibold capitalize">{dish.difficulty}</div>
                   </div>
                 </div>
               </div>
-              
+
               <div className="relative">
-                <img 
-                  src={dish.image} 
+                <img
+                  src={dish.image}
                   alt={dish.name.en}
-                  className="w-full h-96 object-cover rounded-lg shadow-lg"
+                  className="w-full h-96 object-cover rounded-2xl shadow-md"
                   onError={(e) => {
                     e.currentTarget.src = '/images/placeholder-food.jpg';
                   }}
@@ -244,13 +244,13 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
               {/* Main Content */}
               <div className="lg:col-span-2 space-y-8">
                 {/* Ingredients */}
-                <div className="bg-white rounded-lg shadow-lg p-8">
-                  <h2 className="text-2xl font-bold text-gray-900 mb-6">Ingredients</h2>
+                <div className="bg-white rounded-2xl shadow-md p-8">
+                  <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6">Ingredients</h2>
                   {dish.detailed_ingredients ? (
                     <div className="space-y-4">
                       {dish.detailed_ingredients.map((ingredient, index) => (
                         <div key={index} className="border-l-4 border-thailand-blue pl-4">
-                          <h3 className="font-semibold text-gray-900 capitalize">{ingredient.name}</h3>
+                          <h3 className="font-heading font-semibold text-gray-900 capitalize">{ingredient.name}</h3>
                           <p className="text-gray-600 text-sm">{ingredient.purpose}</p>
                           {ingredient.substitutes.length > 0 && (
                             <p className="text-gray-500 text-xs mt-1">
@@ -263,7 +263,7 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
                   ) : (
                     <div className="flex flex-wrap gap-2">
                       {dish.ingredients.map((ingredient, index) => (
-                        <span key={index} className="bg-gray-100 text-gray-700 px-3 py-2 rounded-lg capitalize">
+                        <span key={index} className="bg-surface-cream text-gray-700 px-3 py-2 rounded-xl capitalize">
                           {ingredient}
                         </span>
                       ))}
@@ -273,20 +273,20 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
 
                 {/* Cooking Method */}
                 {dish.cooking_method && (
-                  <div className="bg-white rounded-lg shadow-lg p-8">
-                    <h2 className="text-2xl font-bold text-gray-900 mb-6">Cooking Method</h2>
+                  <div className="bg-white rounded-2xl shadow-md p-8">
+                    <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6">Cooking Method</h2>
                     <div className="space-y-4">
                       <div>
-                        <h3 className="font-semibold text-gray-900 mb-2">Technique</h3>
+                        <h3 className="font-heading font-semibold text-gray-900 mb-2">Technique</h3>
                         <p className="text-gray-700">{dish.cooking_method.technique}</p>
                       </div>
                       <div>
-                        <h3 className="font-semibold text-gray-900 mb-2">Overview</h3>
+                        <h3 className="font-heading font-semibold text-gray-900 mb-2">Overview</h3>
                         <p className="text-gray-700">{dish.cooking_method.steps_overview}</p>
                       </div>
                       {dish.cooking_method.cooking_tips.length > 0 && (
                         <div>
-                          <h3 className="font-semibold text-gray-900 mb-2">Cooking Tips</h3>
+                          <h3 className="font-heading font-semibold text-gray-900 mb-2">Cooking Tips</h3>
                           <ul className="list-disc list-inside space-y-1 text-gray-700">
                             {dish.cooking_method.cooking_tips.map((tip, index) => (
                               <li key={index}>{tip}</li>
@@ -300,23 +300,23 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
 
                 {/* Cultural Significance */}
                 {dish.cultural_significance && (
-                  <div className="bg-white rounded-lg shadow-lg p-8">
-                    <h2 className="text-2xl font-bold text-gray-900 mb-6">Cultural Significance</h2>
+                  <div className="bg-white rounded-2xl shadow-md p-8">
+                    <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6">Cultural Significance</h2>
                     <div className="space-y-4">
                       <div>
-                        <h3 className="font-semibold text-gray-900 mb-2">Origin Story</h3>
+                        <h3 className="font-heading font-semibold text-gray-900 mb-2">Origin Story</h3>
                         <p className="text-gray-700">{dish.cultural_significance.origin_story}</p>
                       </div>
                       <div>
-                        <h3 className="font-semibold text-gray-900 mb-2">Cultural Importance</h3>
+                        <h3 className="font-heading font-semibold text-gray-900 mb-2">Cultural Importance</h3>
                         <p className="text-gray-700">{dish.cultural_significance.cultural_importance}</p>
                       </div>
                       {dish.cultural_significance.traditional_occasions.length > 0 && (
                         <div>
-                          <h3 className="font-semibold text-gray-900 mb-2">Traditional Occasions</h3>
+                          <h3 className="font-heading font-semibold text-gray-900 mb-2">Traditional Occasions</h3>
                           <div className="flex flex-wrap gap-2">
                             {dish.cultural_significance.traditional_occasions.map((occasion, index) => (
-                              <span key={index} className="bg-thailand-blue bg-opacity-10 text-thailand-blue px-3 py-1 rounded-full text-sm">
+                              <span key={index} className="bg-thailand-blue/10 text-thailand-blue px-3 py-1 rounded-full text-sm">
                                 {occasion}
                               </span>
                             ))}
@@ -329,12 +329,12 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
 
                 {/* Variations */}
                 {dish.variations && dish.variations.length > 0 && (
-                  <div className="bg-white rounded-lg shadow-lg p-8">
-                    <h2 className="text-2xl font-bold text-gray-900 mb-6">Variations</h2>
+                  <div className="bg-white rounded-2xl shadow-md p-8">
+                    <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6">Variations</h2>
                     <div className="space-y-4">
                       {dish.variations.map((variation, index) => (
                         <div key={index} className="border-l-4 border-thailand-gold pl-4">
-                          <h3 className="font-semibold text-gray-900">{variation.name}</h3>
+                          <h3 className="font-heading font-semibold text-gray-900">{variation.name}</h3>
                           <p className="text-gray-700">{variation.description}</p>
                         </div>
                       ))}
@@ -347,15 +347,15 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
               <div className="space-y-8">
 
                 {/* Quick Info */}
-                <div className="bg-white rounded-lg shadow-lg p-6">
-                  <h3 className="text-xl font-bold text-gray-900 mb-4">Quick Info</h3>
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">Quick Info</h3>
                   <div className="space-y-3">
                     {dish.allergens.length > 0 && (
                       <div>
                         <span className="font-semibold text-gray-900">Allergens:</span>
                         <div className="mt-1">
                           {dish.allergens.map((allergen, index) => (
-                            <span key={index} className="inline-block bg-red-100 text-red-800 px-2 py-1 rounded text-xs mr-1 mb-1">
+                            <span key={index} className="inline-block bg-red-100 text-red-800 px-2 py-1 rounded-full text-xs mr-1 mb-1">
                               {allergen}
                             </span>
                           ))}
@@ -367,7 +367,7 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
                         <span className="font-semibold text-gray-900">Dietary:</span>
                         <div className="mt-1">
                           {dish.dietary.map((diet, index) => (
-                            <span key={index} className="inline-block bg-green-100 text-green-800 px-2 py-1 rounded text-xs mr-1 mb-1">
+                            <span key={index} className="inline-block bg-green-100 text-green-800 px-2 py-1 rounded-full text-xs mr-1 mb-1">
                               {diet}
                             </span>
                           ))}
@@ -379,12 +379,12 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
 
                 {/* Where to Find */}
                 {dish.where_to_find && (
-                  <div className="bg-white rounded-lg shadow-lg p-6">
-                    <h3 className="text-xl font-bold text-gray-900 mb-4">Where to Find</h3>
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">Where to Find</h3>
                     <div className="space-y-4">
                       {dish.where_to_find.best_restaurants.length > 0 && (
                         <div>
-                          <h4 className="font-semibold text-gray-900 mb-2">Best Restaurants</h4>
+                          <h4 className="font-heading font-semibold text-gray-900 mb-2">Best Restaurants</h4>
                           <ul className="text-gray-700 text-sm space-y-1">
                             {dish.where_to_find.best_restaurants.map((restaurant, index) => (
                               <li key={index}>• {restaurant}</li>
@@ -394,7 +394,7 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
                       )}
                       {dish.where_to_find.street_food_areas.length > 0 && (
                         <div>
-                          <h4 className="font-semibold text-gray-900 mb-2">Street Food Areas</h4>
+                          <h4 className="font-heading font-semibold text-gray-900 mb-2">Street Food Areas</h4>
                           <ul className="text-gray-700 text-sm space-y-1">
                             {dish.where_to_find.street_food_areas.map((area, index) => (
                               <li key={index}>• {area}</li>
@@ -403,7 +403,7 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
                         </div>
                       )}
                       <div>
-                        <h4 className="font-semibold text-gray-900 mb-2">Price Ranges</h4>
+                        <h4 className="font-heading font-semibold text-gray-900 mb-2">Price Ranges</h4>
                         <div className="text-sm space-y-1">
                           <div className="flex justify-between">
                             <span>Street Food:</span>
@@ -425,8 +425,8 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
 
                 {/* Nutritional Info */}
                 {dish.nutritional_info && (
-                  <div className="bg-white rounded-lg shadow-lg p-6">
-                    <h3 className="text-xl font-bold text-gray-900 mb-4">Nutritional Info</h3>
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">Nutritional Info</h3>
                     <div className="space-y-3">
                       <div>
                         <span className="font-semibold text-gray-900">Calories per serving:</span>
@@ -454,13 +454,14 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
         {relatedDishes.length > 0 && (
           <section className="bg-white section-padding">
             <div className="container-custom">
-              <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Related Dishes</h2>
+              <p className="section-label font-script text-thailand-gold text-center">More Dishes</p>
+              <h2 className="text-3xl font-heading font-bold text-gray-900 mb-8 text-center">Related Dishes</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 {relatedDishes.map((relatedDish) => (
                   <Link key={relatedDish.id} href={`/food/${relatedDish.slug}`} className="group">
-                    <div className="bg-gray-50 rounded-lg overflow-hidden hover:shadow-lg transition-shadow duration-300">
-                      <img 
-                        src={relatedDish.image} 
+                    <div className="bg-surface-cream rounded-2xl overflow-hidden shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+                      <img
+                        src={relatedDish.image}
                         alt={relatedDish.name.en}
                         className="w-full h-32 object-cover group-hover:scale-105 transition-transform duration-300"
                         onError={(e) => {
@@ -468,7 +469,7 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
                         }}
                       />
                       <div className="p-4">
-                        <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">
+                        <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">
                           {relatedDish.name.en}
                         </h3>
                         <p className="text-gray-600 text-sm">{relatedDish.name.thai}</p>
@@ -482,10 +483,11 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
         )}
 
         {/* Affiliate: Book a Thai Cooking Class */}
-        <section className="bg-gradient-to-b from-white to-orange-50 section-padding">
+        <section className="bg-white section-padding">
           <div className="container-custom">
             <div className="text-center mb-10">
-              <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+              <p className="section-label font-script text-thailand-gold">Experience</p>
+              <h2 className="text-3xl lg:text-4xl font-heading font-bold text-gray-900 mb-4">
                 Book a Thai Cooking Class
               </h2>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
@@ -493,9 +495,9 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
               </p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-              <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-orange-100">
+              <div className="bg-white rounded-2xl shadow-md p-8 text-center">
                 <div className="text-5xl mb-4"></div>
-                <h3 className="text-xl font-bold text-gray-900 mb-2">Cooking Classes &amp; Food Tours</h3>
+                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Cooking Classes &amp; Food Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Cooking classes and food tours across Thailand
                 </p>
@@ -503,14 +505,14 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
                   href="https://klook.tpo.lv/aq6ZFxvc"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block bg-orange-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-orange-600 transition-colors"
+                  className="inline-block bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-blue transition-colors"
                 >
                   Browse on Klook
                 </a>
               </div>
-              <div className="bg-white rounded-lg shadow-lg p-8 text-center border border-blue-100">
+              <div className="bg-white rounded-2xl shadow-md p-8 text-center">
                 <div className="text-5xl mb-4"></div>
-                <h3 className="text-xl font-bold text-gray-900 mb-2">Food Walking Tours</h3>
+                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Food Walking Tours</h3>
                 <p className="text-gray-600 mb-6">
                   Guided food walking tours
                 </p>
@@ -518,7 +520,7 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
                   href="https://getyourguide.tpo.lv/GuAFfGGK"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block bg-blue-700 text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-800 transition-colors"
+                  className="inline-block bg-thailand-blue text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-red transition-colors"
                 >
                   Browse on GetYourGuide
                 </a>
@@ -531,13 +533,14 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
         </section>
 
         {/* CTA Section */}
-        <section className="bg-gradient-to-r from-thailand-blue to-thailand-gold text-white section-padding">
+        <section className="bg-surface-dark text-white section-padding">
           <div className="container-custom text-center">
-            <h2 className="text-3xl font-bold mb-6">Explore More Thai Cuisine</h2>
+            <p className="font-script text-thailand-gold mb-2">Explore More</p>
+            <h2 className="text-3xl font-heading font-bold mb-6">Explore More Thai Cuisine</h2>
             <p className="text-xl mb-8 max-w-2xl mx-auto opacity-90">
               Discover more authentic Thai dishes and their stories
             </p>
-            <Link href="/food/" className="bg-white text-thailand-blue px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+            <Link href="/food/" className="bg-white text-thailand-blue px-8 py-3 rounded-xl font-semibold hover:bg-gray-100 transition-colors">
               Browse All Dishes
             </Link>
           </div>
@@ -556,9 +559,9 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const slug = params?.slug as string;
   const dish = getEnhancedDishBySlug(slug);
   if (!dish) return { notFound: true };
-  
+
   const relatedDishes = getRelatedDishes(dish, 4);
-  
+
   return {
     props: {
       dish,
