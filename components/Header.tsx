@@ -1,26 +1,53 @@
 'use client';
 import Link from 'next/link';
 import Image from 'next/image';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import LanguageSwitcher from './LanguageSwitcher';
 import AnnouncementBar from './AnnouncementBar';
 import { useTranslation } from '../hooks/useTranslation';
 
 const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
   const { t, locale } = useTranslation('common');
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setIsScrolled(window.scrollY > 50);
+    };
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    handleScroll();
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  useEffect(() => {
+    if (isMobileMenuOpen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+    }
+    return () => {
+      document.body.style.overflow = '';
+    };
+  }, [isMobileMenuOpen]);
+
+  const navLinkClass = 'text-gray-700 hover:text-thailand-red font-heading text-sm font-medium px-3 py-2 transition-colors duration-200 relative group';
+  const dropdownBtnClass = 'text-gray-700 hover:text-thailand-red font-heading text-sm font-medium px-3 py-2 transition-colors duration-200 relative group flex items-center gap-1';
+  const dropdownPanelClass = 'absolute left-0 mt-2 w-60 bg-white rounded-2xl shadow-xl border border-gray-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50';
+  const dropdownItemClass = 'flex items-center px-5 py-3 text-sm text-gray-700 hover:bg-surface-cream hover:text-thailand-red transition-colors duration-200';
+  const mobileLinkClass = 'text-gray-800 hover:text-thailand-red block px-4 py-3 rounded-xl text-base font-medium transition-colors duration-200 hover:bg-surface-cream';
+  const mobileSubLinkClass = 'text-gray-600 hover:text-thailand-red block px-4 py-3 rounded-xl text-sm transition-colors duration-200 hover:bg-surface-cream ml-4';
 
   return (
     <>
       <AnnouncementBar />
-      <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b-2 border-thailand-red shadow-lg">
-      <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-20">
-          {/* Logo Section */}
-          <div className="flex items-center">
-            <Link href="/" className="flex items-center group">
-              <div className="relative">
-                <div className="h-24 w-24 relative transform transition-transform group-hover:scale-110">
+      <header className={`sticky top-0 z-50 transition-all duration-300 ${isScrolled ? 'bg-white shadow-md' : 'bg-white/0'}`}>
+        <nav className="container-custom">
+          <div className="flex justify-between items-center h-20">
+            {/* Logo */}
+            <div className="flex-shrink-0">
+              <Link href="/" className="flex items-center group">
+                <div className="h-24 w-24 relative transform transition-transform group-hover:scale-105">
                   <Image
                     src="/images/go2thailand-logo-original.webp"
                     alt="Go2Thailand - Your Ultimate Thailand Travel Guide"
@@ -30,508 +57,616 @@ const Header = () => {
                     priority
                   />
                 </div>
-              </div>
-            </Link>
-          </div>
-          
-          {/* Desktop Navigation */}
-          <div className="hidden md:block">
-            <div className="ml-10 flex items-center space-x-1">
-              <Link 
-                href="/" 
-                className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
-              >
-                {t('nav.home')}
-                <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
               </Link>
-              <Link
-                href="/city/"
-                className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
-              >
-                {t('nav.cities')}
-                <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-              </Link>
-              <Link
-                href="/islands/"
-                className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 relative group"
-              >
-                {t('nav.islands')}
-                <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-              </Link>
-              {/* Food & Drinks Dropdown */}
-              <div className="relative group">
-                <button className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 flex items-center space-x-1 relative">
-                  <span>{t('nav.foodDrinks')}</span>
-                  <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
-                  </svg>
-                  <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-                </button>
-                
-                <div className="absolute left-0 mt-2 w-full max-w-[14rem] sm:w-56 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-thailand-blue-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
-                  <div className="py-2">
-                    <Link href="/food/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.thaiFood')}
-                    </Link>
-                    <Link href="/drinks/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.thaiDrinks')}
-                    </Link>
-                    <div className="border-t border-gray-100 my-2"></div>
-                    <Link href="/food/category/main-dish/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      Main Dishes
-                    </Link>
-                    <Link href="/food/category/soup/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      Soups & Curries
-                    </Link>
-                    <Link href="/drinks/category/alcohol/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      Thai Beers & Spirits
-                    </Link>
-                    <Link href="/drinks/category/tea/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      Thai Teas & Coffee
-                    </Link>
+            </div>
+
+            {/* Desktop Nav (center) */}
+            <div className="hidden lg:flex items-center justify-center flex-1">
+              <div className="flex items-center space-x-1">
+                {/* Home */}
+                <Link href="/" className={navLinkClass}>
+                  {t('nav.home')}
+                  <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full" />
+                </Link>
+
+                {/* Cities */}
+                <Link href="/city/" className={navLinkClass}>
+                  {t('nav.cities')}
+                  <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full" />
+                </Link>
+
+                {/* Islands */}
+                <Link href="/islands/" className={navLinkClass}>
+                  {t('nav.islands')}
+                  <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full" />
+                </Link>
+
+                {/* Food & Drinks Dropdown */}
+                <div className="relative group">
+                  <button className={dropdownBtnClass}>
+                    <span>{t('nav.foodDrinks')}</span>
+                    <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                    <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full" />
+                  </button>
+                  <div className={dropdownPanelClass}>
+                    <div className="py-3">
+                      <Link href="/food/" className={dropdownItemClass}>
+                        {t('nav.thaiFood')}
+                      </Link>
+                      <Link href="/drinks/" className={dropdownItemClass}>
+                        {t('nav.thaiDrinks')}
+                      </Link>
+                      <div className="border-t border-gray-100 my-2 mx-4" />
+                      <Link href="/food/category/main-dish/" className={dropdownItemClass}>
+                        Main Dishes
+                      </Link>
+                      <Link href="/food/category/soup/" className={dropdownItemClass}>
+                        Soups &amp; Curries
+                      </Link>
+                      <Link href="/drinks/category/alcohol/" className={dropdownItemClass}>
+                        Thai Beers &amp; Spirits
+                      </Link>
+                      <Link href="/drinks/category/tea/" className={dropdownItemClass}>
+                        Thai Teas &amp; Coffee
+                      </Link>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              {/* Travel Needs Dropdown */}
-              <div className="relative group">
-                <button className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 flex items-center space-x-1 relative">
-                  <span>{t('nav.travelNeeds')}</span>
-                  <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
-                  </svg>
-                  <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-                </button>
-                
-                <div className="absolute left-0 mt-2 w-full max-w-[14rem] sm:w-56 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-thailand-blue-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
-                  <div className="py-2">
-                    <Link href="/esim/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.esim')}
-                    </Link>
-                    <Link href="/travel-insurance/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.insurance')}
-                    </Link>
-                    <Link href="/travel-gear/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.gear')}
-                    </Link>
-                    <div className="border-t border-gray-100 my-2"></div>
-                    <Link href="/best-cooking-classes-in-thailand/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      Cooking Classes
-                    </Link>
-                    <Link href="/best-muay-thai-in-thailand/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      Muay Thai
-                    </Link>
-                    <Link href="/best-elephant-sanctuaries-in-thailand/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      Elephant Sanctuaries
-                    </Link>
-                    <Link href="/best-diving-snorkeling-in-thailand/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      Diving &amp; Snorkeling
-                    </Link>
-                    <Link href="/travel-security/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.vpnSecurity')}
-                    </Link>
+                {/* Travel Needs Dropdown */}
+                <div className="relative group">
+                  <button className={dropdownBtnClass}>
+                    <span>{t('nav.travelNeeds')}</span>
+                    <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                    <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full" />
+                  </button>
+                  <div className={dropdownPanelClass}>
+                    <div className="py-3">
+                      <Link href="/esim/" className={dropdownItemClass}>
+                        {t('nav.esim')}
+                      </Link>
+                      <Link href="/travel-insurance/" className={dropdownItemClass}>
+                        {t('nav.insurance')}
+                      </Link>
+                      <Link href="/travel-gear/" className={dropdownItemClass}>
+                        {t('nav.gear')}
+                      </Link>
+                      <div className="border-t border-gray-100 my-2 mx-4" />
+                      <Link href="/best-cooking-classes-in-thailand/" className={dropdownItemClass}>
+                        Cooking Classes
+                      </Link>
+                      <Link href="/best-muay-thai-in-thailand/" className={dropdownItemClass}>
+                        Muay Thai
+                      </Link>
+                      <Link href="/best-elephant-sanctuaries-in-thailand/" className={dropdownItemClass}>
+                        Elephant Sanctuaries
+                      </Link>
+                      <Link href="/best-diving-snorkeling-in-thailand/" className={dropdownItemClass}>
+                        Diving &amp; Snorkeling
+                      </Link>
+                      <Link href="/travel-security/" className={dropdownItemClass}>
+                        {t('nav.vpnSecurity')}
+                      </Link>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              {/* Visa & Info Dropdown */}
-              <div className="relative group">
-                <button className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 flex items-center space-x-1 relative">
-                  <span>{t('nav.visaInfo')}</span>
-                  <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
-                  </svg>
-                  <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-                </button>
-
-                <div className="absolute left-0 mt-2 w-full max-w-[14rem] sm:w-56 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-thailand-blue-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
-                  <div className="py-2">
-                    <Link href="/visa/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.visaGuide')}
-                    </Link>
-                    <Link href="/practical-info/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.practicalInfo')}
-                    </Link>
-                    <div className="border-t border-gray-100 my-2"></div>
-                    <Link href="/visa/visa-free-entry/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.visaFreeEntry')}
-                    </Link>
-                    <Link href="/practical-info/scams-safety/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.scamsSafety')}
-                    </Link>
-                    <Link href="/practical-info/atm-money/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.moneyGuide')}
-                    </Link>
-                    <Link href="/blog/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.blog')}
-                    </Link>
+                {/* Visa & Info Dropdown */}
+                <div className="relative group">
+                  <button className={dropdownBtnClass}>
+                    <span>{t('nav.visaInfo')}</span>
+                    <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                    <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full" />
+                  </button>
+                  <div className={dropdownPanelClass}>
+                    <div className="py-3">
+                      <Link href="/visa/" className={dropdownItemClass}>
+                        {t('nav.visaGuide')}
+                      </Link>
+                      <Link href="/practical-info/" className={dropdownItemClass}>
+                        {t('nav.practicalInfo')}
+                      </Link>
+                      <div className="border-t border-gray-100 my-2 mx-4" />
+                      <Link href="/visa/visa-free-entry/" className={dropdownItemClass}>
+                        {t('nav.visaFreeEntry')}
+                      </Link>
+                      <Link href="/practical-info/scams-safety/" className={dropdownItemClass}>
+                        {t('nav.scamsSafety')}
+                      </Link>
+                      <Link href="/practical-info/atm-money/" className={dropdownItemClass}>
+                        {t('nav.moneyGuide')}
+                      </Link>
+                      <Link href="/blog/" className={dropdownItemClass}>
+                        {t('nav.blog')}
+                      </Link>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              {/* Plan Your Trip Dropdown */}
-              <div className="relative group">
-                <button className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 flex items-center space-x-1 relative">
-                  <span>{t('nav.planTrip')}</span>
-                  <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
-                  </svg>
-                  <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-                </button>
-                
-                <div className="absolute left-0 mt-2 w-full max-w-[14rem] sm:w-56 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-thailand-blue-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
-                  <div className="py-2">
-                    <Link href="/itineraries/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      Itineraries
-                    </Link>
-                    <Link href="/weather/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.weather')}
-                    </Link>
-                    <Link href="/transport/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.transport')}
-                    </Link>
-                    <div className="border-t border-gray-100 mt-2 pt-2">
-                      <Link href="/social/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                {/* Plan Trip Dropdown */}
+                <div className="relative group">
+                  <button className={dropdownBtnClass}>
+                    <span>{t('nav.planTrip')}</span>
+                    <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                    <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full" />
+                  </button>
+                  <div className={dropdownPanelClass}>
+                    <div className="py-3">
+                      <Link href="/itineraries/" className={dropdownItemClass}>
+                        Itineraries
+                      </Link>
+                      <Link href="/weather/" className={dropdownItemClass}>
+                        {t('nav.weather')}
+                      </Link>
+                      <Link href="/transport/" className={dropdownItemClass}>
+                        {t('nav.transport')}
+                      </Link>
+                      <div className="border-t border-gray-100 my-2 mx-4" />
+                      <Link href="/social/" className={dropdownItemClass}>
                         {t('nav.social')}
                       </Link>
                     </div>
                   </div>
                 </div>
-              </div>
 
-              {/* Top 10 Guides Dropdown */}
-              <div className="relative group">
-                <button className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 flex items-center space-x-1 relative">
-                  <span>{t('nav.top10')}</span>
-                  <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
-                  </svg>
-                  <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-                </button>
-                
-                <div className="absolute left-0 mt-2 w-full max-w-[16rem] sm:w-64 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-thailand-blue-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
-                  <div className="py-2">
-                    <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider border-b border-gray-100">
-                      {t('nav.byCategory')}
-                    </div>
-                    <Link href="/top-10/restaurants/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.restaurantGuides')}
-                    </Link>
-                    <Link href="/top-10/hotels/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.hotelGuides')}
-                    </Link>
-                    <Link href="/top-10/attractions/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      {t('nav.attractionGuides')}
-                    </Link>
-                    <div className="border-t border-gray-100 mt-2 pt-2">
-                      <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">
+                {/* Top 10 Dropdown */}
+                <div className="relative group">
+                  <button className={dropdownBtnClass}>
+                    <span>{t('nav.top10')}</span>
+                    <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                    <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full" />
+                  </button>
+                  <div className="absolute left-0 mt-2 w-72 bg-white rounded-2xl shadow-xl border border-gray-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
+                    <div className="py-3">
+                      <div className="px-5 py-2 text-xs font-semibold text-gray-400 uppercase tracking-wider">
+                        {t('nav.byCategory')}
+                      </div>
+                      <Link href="/top-10/restaurants/" className={dropdownItemClass}>
+                        {t('nav.restaurantGuides')}
+                      </Link>
+                      <Link href="/top-10/hotels/" className={dropdownItemClass}>
+                        {t('nav.hotelGuides')}
+                      </Link>
+                      <Link href="/top-10/attractions/" className={dropdownItemClass}>
+                        {t('nav.attractionGuides')}
+                      </Link>
+                      <div className="border-t border-gray-100 my-2 mx-4" />
+                      <div className="px-5 py-2 text-xs font-semibold text-gray-400 uppercase tracking-wider">
                         {t('nav.popularCities')}
                       </div>
-                      <Link href="/city/bangkok/top-10-restaurants/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <Link href="/city/bangkok/top-10-restaurants/" className={dropdownItemClass}>
                         {t('nav.bangkokTop10')}
                       </Link>
-                      <Link href="/city/phuket/top-10-hotels/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <Link href="/city/phuket/top-10-hotels/" className={dropdownItemClass}>
                         {t('nav.phuketTop10')}
                       </Link>
-                      <Link href="/city/chiang-mai/top-10-attractions/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
+                      <Link href="/city/chiang-mai/top-10-attractions/" className={dropdownItemClass}>
                         {t('nav.chiangMaiTop10')}
                       </Link>
                     </div>
                   </div>
                 </div>
-              </div>
-              
-              {/* Regions Dropdown */}
-              <div className="relative group">
-                <button className="text-thailand-blue-700 hover:text-thailand-red px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-thailand-red-50 flex items-center space-x-1 relative">
-                  <span>{t('nav.regions')}</span>
-                  <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
-                  </svg>
-                  <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full"></div>
-                </button>
-                
-                <div className="absolute left-0 mt-2 w-full max-w-[14rem] sm:w-56 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-thailand-blue-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
-                  <div className="py-2">
-                    <Link href="/region/northern/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <div className="w-2 h-2 bg-thailand-red rounded-full mr-3"></div>
-                      {t('nav.northernThailand')}
-                    </Link>
-                    <Link href="/region/central/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <div className="w-2 h-2 bg-thailand-blue rounded-full mr-3"></div>
-                      {t('nav.centralThailand')}
-                    </Link>
-                    <Link href="/region/southern/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <div className="w-2 h-2 bg-thailand-red rounded-full mr-3"></div>
-                      {t('nav.southernThailand')}
-                    </Link>
-                    <Link href="/region/isaan/" className="flex items-center px-4 py-3 text-sm text-thailand-blue-700 hover:bg-gradient-to-r hover:from-thailand-red-50 hover:to-thailand-blue-50 hover:text-thailand-red transition-all duration-200">
-                      <div className="w-2 h-2 bg-green-500 rounded-full mr-3"></div>
-                      {t('nav.isaanNortheast')}
-                    </Link>
+
+                {/* Regions Dropdown */}
+                <div className="relative group">
+                  <button className={dropdownBtnClass}>
+                    <span>{t('nav.regions')}</span>
+                    <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                    <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-thailand-red transition-all duration-300 group-hover:w-full" />
+                  </button>
+                  <div className={dropdownPanelClass}>
+                    <div className="py-3">
+                      <Link href="/region/northern/" className={dropdownItemClass}>
+                        {t('nav.northernThailand')}
+                      </Link>
+                      <Link href="/region/central/" className={dropdownItemClass}>
+                        {t('nav.centralThailand')}
+                      </Link>
+                      <Link href="/region/southern/" className={dropdownItemClass}>
+                        {t('nav.southernThailand')}
+                      </Link>
+                      <Link href="/region/isaan/" className={dropdownItemClass}>
+                        {t('nav.isaanNortheast')}
+                      </Link>
+                    </div>
                   </div>
                 </div>
               </div>
-
-              {/* CTA Button and Language Switcher */}
-              <div className="ml-2 pl-4 border-l border-thailand-blue-200 flex items-center gap-3">
-                <Link
-                  href="/city/"
-                  className="bg-gradient-to-r from-thailand-red to-thailand-red-600 text-white px-6 py-2 rounded-lg text-sm font-semibold hover:from-thailand-red-600 hover:to-thailand-red-700 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
-                >
-                  {t('nav.exploreNow')}
-                </Link>
-                <LanguageSwitcher />
-              </div>
             </div>
-          </div>
-          
-          {/* Mobile menu button */}
-          <div className="md:hidden">
-            <button
-              type="button"
-              className="bg-thailand-blue-50 inline-flex items-center justify-center p-3 rounded-lg text-thailand-blue hover:text-thailand-red hover:bg-thailand-red-50 transition-all duration-300 transform hover:scale-105"
-              aria-controls="mobile-menu"
-              aria-expanded={isMobileMenuOpen}
-              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-            >
-              <span className="sr-only">{t('nav.openMainMenu')}</span>
-              {!isMobileMenuOpen ? (
-                <svg className="block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+
+            {/* CTA + Language (right) */}
+            <div className="hidden lg:flex items-center gap-3 flex-shrink-0">
+              <Link
+                href="/city/"
+                className="btn-primary text-sm font-semibold px-6 py-2.5 rounded-xl"
+              >
+                {t('nav.exploreNow')}
+              </Link>
+              <LanguageSwitcher />
+            </div>
+
+            {/* Mobile hamburger */}
+            <div className="lg:hidden flex items-center gap-3">
+              <LanguageSwitcher />
+              <button
+                type="button"
+                className="inline-flex items-center justify-center p-2.5 rounded-xl text-gray-700 hover:text-thailand-red hover:bg-surface-cream transition-colors duration-200"
+                aria-controls="mobile-menu"
+                aria-expanded={isMobileMenuOpen}
+                onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+              >
+                <span className="sr-only">{t('nav.openMainMenu')}</span>
+                <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16" />
                 </svg>
-              ) : (
-                <svg className="block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
-                </svg>
-              )}
-            </button>
+              </button>
+            </div>
           </div>
+        </nav>
+      </header>
+
+      {/* Mobile overlay menu */}
+      <div
+        className={`fixed inset-0 z-[60] bg-white overflow-y-auto transition-all duration-300 ${isMobileMenuOpen ? 'opacity-100 visible' : 'opacity-0 invisible pointer-events-none'}`}
+        id="mobile-menu"
+      >
+        {/* Mobile menu header */}
+        <div className="flex items-center justify-between px-4 h-20 border-b border-gray-100">
+          <Link href="/" className="flex items-center" onClick={() => setIsMobileMenuOpen(false)}>
+            <div className="h-16 w-16 relative">
+              <Image
+                src="/images/go2thailand-logo-original.webp"
+                alt="Go2Thailand"
+                height={64}
+                width={64}
+                className="object-contain"
+              />
+            </div>
+          </Link>
+          <button
+            type="button"
+            className="inline-flex items-center justify-center p-2.5 rounded-xl text-gray-700 hover:text-thailand-red hover:bg-surface-cream transition-colors duration-200"
+            onClick={() => setIsMobileMenuOpen(false)}
+          >
+            <span className="sr-only">Close menu</span>
+            <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
         </div>
 
-        {/* Mobile Menu */}
-        <div className={`md:hidden transition-all duration-300 ease-in-out ${isMobileMenuOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0 overflow-hidden'}`}>
-          <div className="px-2 pt-2 pb-6 space-y-1 bg-gradient-to-b from-thailand-blue-50 to-white rounded-b-xl border-t border-thailand-blue-100 mt-4">
-            <Link
-              href="/"
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
-              onClick={() => setIsMobileMenuOpen(false)}
-            >
-              {t('nav.home')}
-            </Link>
-            <Link
-              href="/city/"
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
-              onClick={() => setIsMobileMenuOpen(false)}
-            >
-              {t('nav.cities')}
-            </Link>
-            <Link
-              href="/islands/"
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
-              onClick={() => setIsMobileMenuOpen(false)}
-            >
-              {t('nav.islands')}
-            </Link>
-            <div className="border-t border-thailand-blue-100 pt-2 mt-2">
-              <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">{t('nav.foodDrinks')}</div>
-              <Link 
-                href="/food/" 
-                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                {t('nav.thaiFood')}
-              </Link>
-              <Link 
-                href="/drinks/" 
-                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                {t('nav.thaiDrinks')}
-              </Link>
+        {/* Mobile menu links */}
+        <div className="px-4 py-6 space-y-1">
+          <Link
+            href="/"
+            className={mobileLinkClass}
+            onClick={() => setIsMobileMenuOpen(false)}
+          >
+            {t('nav.home')}
+          </Link>
+          <Link
+            href="/city/"
+            className={mobileLinkClass}
+            onClick={() => setIsMobileMenuOpen(false)}
+          >
+            {t('nav.cities')}
+          </Link>
+          <Link
+            href="/islands/"
+            className={mobileLinkClass}
+            onClick={() => setIsMobileMenuOpen(false)}
+          >
+            {t('nav.islands')}
+          </Link>
+
+          {/* Food & Drinks section */}
+          <div className="border-t border-gray-100 pt-3 mt-3">
+            <div className="px-4 py-2 text-xs font-semibold text-gray-400 uppercase tracking-wider">
+              {t('nav.foodDrinks')}
             </div>
-            <Link 
-              href="/esim/" 
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+            <Link
+              href="/food/"
+              className={mobileSubLinkClass}
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              eSIM
+              {t('nav.thaiFood')}
             </Link>
-            <Link 
-              href="/travel-insurance/" 
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+            <Link
+              href="/drinks/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.thaiDrinks')}
+            </Link>
+            <Link
+              href="/food/category/main-dish/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              Main Dishes
+            </Link>
+            <Link
+              href="/food/category/soup/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              Soups &amp; Curries
+            </Link>
+            <Link
+              href="/drinks/category/alcohol/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              Thai Beers &amp; Spirits
+            </Link>
+            <Link
+              href="/drinks/category/tea/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              Thai Teas &amp; Coffee
+            </Link>
+          </div>
+
+          {/* Travel Needs section */}
+          <div className="border-t border-gray-100 pt-3 mt-3">
+            <div className="px-4 py-2 text-xs font-semibold text-gray-400 uppercase tracking-wider">
+              {t('nav.travelNeeds')}
+            </div>
+            <Link
+              href="/esim/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.esim')}
+            </Link>
+            <Link
+              href="/travel-insurance/"
+              className={mobileSubLinkClass}
               onClick={() => setIsMobileMenuOpen(false)}
             >
               {t('nav.insurance')}
             </Link>
             <Link
               href="/travel-gear/"
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              className={mobileSubLinkClass}
               onClick={() => setIsMobileMenuOpen(false)}
             >
               {t('nav.gear')}
             </Link>
-            <div className="border-t border-gray-200 my-2 mx-4"></div>
             <Link
               href="/best-cooking-classes-in-thailand/"
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              className={mobileSubLinkClass}
               onClick={() => setIsMobileMenuOpen(false)}
             >
               Cooking Classes
             </Link>
             <Link
               href="/best-muay-thai-in-thailand/"
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              className={mobileSubLinkClass}
               onClick={() => setIsMobileMenuOpen(false)}
             >
               Muay Thai
             </Link>
             <Link
               href="/best-elephant-sanctuaries-in-thailand/"
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              className={mobileSubLinkClass}
               onClick={() => setIsMobileMenuOpen(false)}
             >
               Elephant Sanctuaries
             </Link>
             <Link
               href="/best-diving-snorkeling-in-thailand/"
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              className={mobileSubLinkClass}
               onClick={() => setIsMobileMenuOpen(false)}
             >
               Diving &amp; Snorkeling
             </Link>
-            <div className="border-t border-gray-200 my-2 mx-4"></div>
             <Link
               href="/travel-security/"
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              className={mobileSubLinkClass}
               onClick={() => setIsMobileMenuOpen(false)}
             >
               {t('nav.vpnSecurity')}
             </Link>
+          </div>
+
+          {/* Visa & Info section */}
+          <div className="border-t border-gray-100 pt-3 mt-3">
+            <div className="px-4 py-2 text-xs font-semibold text-gray-400 uppercase tracking-wider">
+              {t('nav.visaInfo')}
+            </div>
+            <Link
+              href="/visa/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.visaGuide')}
+            </Link>
+            <Link
+              href="/practical-info/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.practicalInfo')}
+            </Link>
+            <Link
+              href="/visa/visa-free-entry/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.visaFreeEntry')}
+            </Link>
+            <Link
+              href="/practical-info/scams-safety/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.scamsSafety')}
+            </Link>
+            <Link
+              href="/practical-info/atm-money/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.moneyGuide')}
+            </Link>
+            <Link
+              href="/blog/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.blog')}
+            </Link>
+          </div>
+
+          {/* Plan Trip section */}
+          <div className="border-t border-gray-100 pt-3 mt-3">
+            <div className="px-4 py-2 text-xs font-semibold text-gray-400 uppercase tracking-wider">
+              {t('nav.planTrip')}
+            </div>
             <Link
               href="/itineraries/"
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              className={mobileSubLinkClass}
               onClick={() => setIsMobileMenuOpen(false)}
             >
               Itineraries
             </Link>
             <Link
               href="/weather/"
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              className={mobileSubLinkClass}
               onClick={() => setIsMobileMenuOpen(false)}
             >
               {t('nav.weather')}
             </Link>
             <Link
               href="/transport/"
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+              className={mobileSubLinkClass}
               onClick={() => setIsMobileMenuOpen(false)}
             >
               {t('nav.transport')}
             </Link>
-            <Link 
-              href="/social/" 
-              className="text-thailand-blue-700 hover:text-thailand-red block px-4 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:bg-thailand-red-50"
+            <Link
+              href="/social/"
+              className={mobileSubLinkClass}
               onClick={() => setIsMobileMenuOpen(false)}
             >
               {t('nav.social')}
             </Link>
-            
-            <div className="border-t border-thailand-blue-100 pt-2 mt-2">
-              <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">{t('nav.visaInfo')}</div>
-              <Link
-                href="/visa/"
-                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                {t('nav.visaGuide')}
-              </Link>
-              <Link
-                href="/practical-info/"
-                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                {t('nav.practicalInfo')}
-              </Link>
-              <Link
-                href="/blog/"
-                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                {t('nav.blog')}
-              </Link>
-            </div>
+          </div>
 
-            <div className="border-t border-thailand-blue-100 pt-2 mt-2">
-              <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">{t('nav.top10')}</div>
-              <Link 
-                href="/top-10/restaurants/" 
-                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                {t('nav.restaurantGuides')}
-              </Link>
-              <Link 
-                href="/top-10/hotels/" 
-                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                {t('nav.hotelGuides')}
-              </Link>
-              <Link 
-                href="/top-10/attractions/" 
-                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                {t('nav.attractionGuides')}
-              </Link>
+          {/* Top 10 section */}
+          <div className="border-t border-gray-100 pt-3 mt-3">
+            <div className="px-4 py-2 text-xs font-semibold text-gray-400 uppercase tracking-wider">
+              {t('nav.top10')}
             </div>
-            
-            <div className="border-t border-thailand-blue-100 pt-2 mt-2">
-              <div className="px-4 py-2 text-xs font-semibold text-thailand-blue-500 uppercase tracking-wider">{t('nav.regions')}</div>
-              <Link 
-                href="/region/northern/" 
-                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                {t('nav.northernThailand')}
-              </Link>
-              <Link 
-                href="/region/central/" 
-                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                {t('nav.centralThailand')}
-              </Link>
-              <Link 
-                href="/region/southern/" 
-                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                {t('nav.southernThailand')}
-              </Link>
-              <Link 
-                href="/region/isaan/" 
-                className="text-thailand-blue-600 hover:text-thailand-red block px-4 py-3 rounded-lg text-sm transition-all duration-300 hover:bg-thailand-red-50 ml-4"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                {t('nav.isaanNortheast')}
-              </Link>
+            <Link
+              href="/top-10/restaurants/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.restaurantGuides')}
+            </Link>
+            <Link
+              href="/top-10/hotels/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.hotelGuides')}
+            </Link>
+            <Link
+              href="/top-10/attractions/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.attractionGuides')}
+            </Link>
+            <div className="border-t border-gray-50 my-1 mx-4" />
+            <div className="px-4 py-2 text-xs font-semibold text-gray-400 uppercase tracking-wider">
+              {t('nav.popularCities')}
             </div>
+            <Link
+              href="/city/bangkok/top-10-restaurants/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.bangkokTop10')}
+            </Link>
+            <Link
+              href="/city/phuket/top-10-hotels/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.phuketTop10')}
+            </Link>
+            <Link
+              href="/city/chiang-mai/top-10-attractions/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.chiangMaiTop10')}
+            </Link>
+          </div>
 
-            <div className="pt-4 mt-4 border-t border-thailand-blue-100">
-              <Link
-                href="/city/"
-                className="bg-gradient-to-r from-thailand-red to-thailand-red-600 text-white block px-4 py-3 rounded-lg text-center font-semibold hover:from-thailand-red-600 hover:to-thailand-red-700 transition-all duration-300 shadow-lg"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                {t('nav.exploreThailandNow')}
-              </Link>
+          {/* Regions section */}
+          <div className="border-t border-gray-100 pt-3 mt-3">
+            <div className="px-4 py-2 text-xs font-semibold text-gray-400 uppercase tracking-wider">
+              {t('nav.regions')}
             </div>
+            <Link
+              href="/region/northern/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.northernThailand')}
+            </Link>
+            <Link
+              href="/region/central/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.centralThailand')}
+            </Link>
+            <Link
+              href="/region/southern/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.southernThailand')}
+            </Link>
+            <Link
+              href="/region/isaan/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.isaanNortheast')}
+            </Link>
+          </div>
+
+          {/* Mobile CTA */}
+          <div className="pt-6 mt-4 border-t border-gray-100">
+            <Link
+              href="/city/"
+              className="btn-primary block text-center px-6 py-3.5 rounded-xl text-base font-semibold"
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.exploreThailandNow')}
+            </Link>
           </div>
         </div>
-      </nav>
-    </header>
+      </div>
     </>
   );
 };

@@ -16,6 +16,10 @@ export default class MyDocument extends Document<MyDocumentProps> {
     return (
       <Html lang={this.props.locale}>
       <Head>
+        {/* Google Fonts preconnect */}
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+
         {/* Preconnect to external origins for better performance */}
         {isProduction && (
           <>
