@@ -7,6 +7,25 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
   const { t } = useTranslation('common');
   const [email, setEmail] = useState('');
+  const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
+
+  const handleSubscribe = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!email || status === 'loading') return;
+    setStatus('loading');
+    try {
+      const res = await fetch('/api/subscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email }),
+      });
+      if (!res.ok) throw new Error();
+      setStatus('success');
+      setEmail('');
+    } catch {
+      setStatus('error');
+    }
+  };
 
   return (
     <>
@@ -115,24 +134,40 @@ const Footer = () => {
               <p className="text-gray-400 text-sm mb-4">
                 Get the latest Thailand travel tips and guides delivered to your inbox.
               </p>
-              <form onSubmit={(e) => { e.preventDefault(); setEmail(''); }} className="flex gap-2">
-                <input
-                  type="email"
-                  value={email}
-                  onChange={(e) => setEmail(e.target.value)}
-                  placeholder="Your email"
-                  className="flex-1 px-4 py-2.5 rounded-xl bg-white/10 border border-white/10 text-white placeholder-gray-500 text-sm focus:outline-none focus:border-thailand-red transition-colors"
-                />
-                <button
-                  type="submit"
-                  className="px-4 py-2.5 bg-thailand-red text-white rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors flex items-center gap-1"
-                >
-                  Subscribe
+              {status === 'success' ? (
+                <p className="text-green-400 text-sm flex items-center gap-2">
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7" />
                   </svg>
-                </button>
-              </form>
+                  You&apos;re subscribed! Check your inbox.
+                </p>
+              ) : (
+                <form onSubmit={handleSubscribe} className="flex gap-2">
+                  <input
+                    type="email"
+                    value={email}
+                    onChange={(e) => { setEmail(e.target.value); setStatus('idle'); }}
+                    placeholder="Your email"
+                    className="flex-1 px-4 py-2.5 rounded-xl bg-white/10 border border-white/10 text-white placeholder-gray-500 text-sm focus:outline-none focus:border-thailand-red transition-colors"
+                    required
+                  />
+                  <button
+                    type="submit"
+                    disabled={status === 'loading'}
+                    className="px-4 py-2.5 bg-thailand-red text-white rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors flex items-center gap-1 disabled:opacity-50"
+                  >
+                    {status === 'loading' ? '...' : 'Subscribe'}
+                    {status !== 'loading' && (
+                      <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                      </svg>
+                    )}
+                  </button>
+                </form>
+              )}
+              {status === 'error' && (
+                <p className="text-red-400 text-xs mt-2">Something went wrong. Please try again.</p>
+              )}
 
               {/* Transport Routes */}
               <h3 className="font-heading text-sm font-semibold text-white tracking-wider uppercase mb-4 mt-8">

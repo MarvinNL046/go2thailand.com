@@ -8,6 +8,7 @@ import Footer from '../components/Footer';
 import CookieConsent from '../components/CookieConsent';
 import GoogleConsent from '../components/GoogleConsent';
 import FeedbackRibbon from '../components/FeedbackRibbon';
+import ExitIntentPopup from '../components/ExitIntentPopup';
 import Hreflang from '../components/Hreflang';
 import '../styles/globals.css';
 
@@ -71,6 +72,7 @@ export default function App({ Component, pageProps }: AppProps) {
         <Footer />
         <CookieConsent />
         <FeedbackRibbon />
+        <ExitIntentPopup />
       </div>
     </>
   );
