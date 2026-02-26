@@ -13,7 +13,6 @@ import { useEffect, useState } from 'react';
 import { useTranslatedContent } from '../../../hooks/useTranslatedContent';
 import { useRouter } from 'next/router';
 import { formatNumber, formatPopulation } from '../../../utils/formatNumber';
-import DebugContent from '../../../components/DebugContent';
 import AffiliateWidget from '../../../components/AffiliateWidget';
 import transportRoutes from '../../../data/transport-routes.json';
 
@@ -323,21 +322,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   "name": hotel.name,
                   "value": `${hotel.category} hotel in ${hotel.area} - ${hotel.priceRange}`
                 }))
-              } : {}),
-              "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": (() => {
-                  const popularCities: Record<string, number> = {
-                    'bangkok': 4.7, 'phuket': 4.6, 'chiang-mai': 4.7, 'pattaya': 4.3,
-                    'krabi': 4.6, 'koh-samui': 4.5, 'hua-hin': 4.4, 'chiang-rai': 4.5,
-                    'ayutthaya': 4.5, 'pai': 4.4, 'kanchanaburi': 4.4, 'sukhothai': 4.5
-                  };
-                  return popularCities[city.slug] || 4.2;
-                })(),
-                "bestRating": 5,
-                "worstRating": 1,
-                "ratingCount": Math.max(150, Math.round((city.population || 50000) / 500))
-              }
+              } : {})
             })
           }}
         />
@@ -394,20 +379,6 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
       </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">
-        {/* Debug component - only shows in development */}
-        <DebugContent 
-          data={{
-            locale,
-            cityName,
-            cityDescription,
-            translatedContent: translatedContent ? {
-              name: translatedContent.name,
-              description: translatedContent.description,
-              hasTranslation: true
-            } : { hasTranslation: false }
-          }}
-          title="Translation Debug"
-        />
         {/* Hero Section */}
         <section className="relative h-96 lg:h-[500px] overflow-hidden">
           <div className="absolute inset-0">

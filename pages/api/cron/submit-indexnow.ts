@@ -16,8 +16,8 @@ export default async function handler(
   res: NextApiResponse
 ) {
   // Verify cron secret (Vercel sends this automatically for cron jobs)
-  const authHeader = req.headers.authorization;
-  if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
+  const cronSecret = process.env.CRON_SECRET;
+  if (!cronSecret || req.headers.authorization !== `Bearer ${cronSecret}`) {
     return res.status(401).json({ error: "Unauthorized" });
   }
 

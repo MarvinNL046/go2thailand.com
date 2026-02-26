@@ -23,16 +23,39 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
     // Validate required fields
     if (!rating || !message || !page_url || !page_title) {
-      return res.status(400).json({ 
-        error: 'Missing required fields', 
-        required: ['rating', 'message', 'page_url', 'page_title'] 
+      return res.status(400).json({
+        error: 'Missing required fields',
+        required: ['rating', 'message', 'page_url', 'page_title']
       });
     }
 
-    // Validate rating range
-    if (rating < 1 || rating > 5) {
-      return res.status(400).json({ error: 'Rating must be between 1 and 5' });
+    // Validate types
+    if (typeof rating !== 'number' || typeof message !== 'string' || typeof page_url !== 'string' || typeof page_title !== 'string') {
+      return res.status(400).json({ error: 'Invalid field types' });
     }
+
+    // Validate rating range
+    if (!Number.isInteger(rating) || rating < 1 || rating > 5) {
+      return res.status(400).json({ error: 'Rating must be an integer between 1 and 5' });
+    }
+
+    // Validate string lengths
+    if (message.length > 5000) {
+      return res.status(400).json({ error: 'Message must be under 5000 characters' });
+    }
+    if (page_url.length > 2000 || page_title.length > 500) {
+      return res.status(400).json({ error: 'URL or title too long' });
+    }
+
+    // Validate email format if provided
+    if (email && (typeof email !== 'string' || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) || email.length > 254)) {
+      return res.status(400).json({ error: 'Invalid email format' });
+    }
+
+    // Strip HTML tags from text inputs to prevent stored XSS
+    const sanitize = (str: string) => str.replace(/<[^>]*>/g, '');
+    const sanitizedMessage = sanitize(message.trim());
+    const sanitizedTitle = sanitize(page_title.trim());
 
     // Get the current site domain
     const siteDomain = getSiteDomain();
@@ -79,11 +102,11 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       .insert({
         site_id,
         rating,
-        feedback: message,
-        email: email || null,
+        feedback: sanitizedMessage,
+        email: email ? email.trim().toLowerCase() : null,
         email_optin: email && emailOptin ? true : false,
-        page_url,
-        page_title,
+        page_url: page_url.trim(),
+        page_title: sanitizedTitle,
         type: 'form',
         timestamp: new Date().toISOString()
       })

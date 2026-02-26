@@ -10,7 +10,7 @@ tags:
   - backpacking
   - planning
   - tips
-image: "/images/cities/chiang-mai/chiang-mai-park.webp"
+image: "/images/blog/thailand-budget-2026-daily-costs.webp"
 description: "The complete Thailand budget guide for backpackers. Real daily costs in THB, cheap accommodation, transport tips, free activities, and money-saving tricks for 2026."
 featured: false
 readingTime: 12

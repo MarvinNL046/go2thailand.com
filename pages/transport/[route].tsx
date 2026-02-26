@@ -111,7 +111,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
               "@type": "Article",
               "headline": `${fromCity.name.en} to ${toCity.name.en}: Cheapest Routes & Prices`,
               "description": `Compare ${transportOptions.length} ways to travel from ${fromCity.name.en} to ${toCity.name.en}. Distance: ${route.distance}.`,
-              "dateModified": "2026-02-22",
+              "dateModified": new Date().toISOString().split('T')[0],
               "author": { "@type": "Organization", "name": "Go2Thailand", "url": "https://go2-thailand.com" },
               "publisher": { "@type": "Organization", "name": "Go2Thailand", "url": "https://go2-thailand.com", "logo": { "@type": "ImageObject", "url": "https://go2-thailand.com/logo.png" } },
               "mainEntityOfPage": { "@type": "WebPage", "@id": `https://go2-thailand.com/transport/${route.slug}/` }

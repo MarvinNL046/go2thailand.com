@@ -33,12 +33,6 @@ export default function App({ Component, pageProps }: AppProps) {
               "url": "https://go2-thailand.com",
               "logo": "https://go2-thailand.com/go2thailand-faviocon.webp",
               "description": "Your comprehensive guide to Thailand travel",
-              "sameAs": [
-                "https://facebook.com",
-                "https://instagram.com",
-                "https://twitter.com",
-                "https://youtube.com"
-              ],
               "contactPoint": {
                 "@type": "ContactPoint",
                 "email": "info@go2-thailand.com",
