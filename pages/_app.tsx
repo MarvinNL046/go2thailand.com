@@ -23,6 +23,30 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/go2thailand-faviocon.webp" />
         <link rel="apple-touch-icon" href="/go2thailand-faviocon.webp" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              "name": "Go2Thailand.com",
+              "url": "https://go2-thailand.com",
+              "logo": "https://go2-thailand.com/go2thailand-faviocon.webp",
+              "description": "Your comprehensive guide to Thailand travel",
+              "sameAs": [
+                "https://facebook.com",
+                "https://instagram.com",
+                "https://twitter.com",
+                "https://youtube.com"
+              ],
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "email": "info@go2-thailand.com",
+                "contactType": "customer service"
+              }
+            })
+          }}
+        />
       </Head>
 
       {/* Analytics and Ad Scripts - Only in production */}

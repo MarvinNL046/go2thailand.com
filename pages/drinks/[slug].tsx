@@ -40,6 +40,34 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
         description={`${drink.name.en} (${drink.name.thai}) — learn how it's made, where to find it and what makes this Thai ${drink.category} drink special. Prices from ${drink.price_range}.`}
       >
         <meta name="keywords" content={`${drink.name.en}, ${drink.name.thai}, Thai ${drink.category}, Thai drinks, Thailand beverages, ${drink.name.en} recipe`} />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Recipe",
+              "name": drink.name.en,
+              "description": drink.enhanced_description || drink.description.en,
+              "author": {
+                "@type": "Organization",
+                "name": "Go2Thailand.com",
+                "url": "https://go2-thailand.com"
+              },
+              "recipeCuisine": "Thai",
+              "recipeCategory": drink.category,
+              "image": drink.image?.startsWith('http') ? drink.image : `https://go2-thailand.com${drink.image}`,
+              ...(drink.ingredients && { "recipeIngredient": drink.ingredients }),
+              ...(drink.preparation_method?.steps && {
+                "recipeInstructions": drink.preparation_method.steps.map((step: string, i: number) => ({
+                  "@type": "HowToStep",
+                  "name": `Step ${i + 1}`,
+                  "text": step
+                }))
+              }),
+              "keywords": `${drink.name.en}, ${drink.name.thai}, Thai ${drink.category}`
+            })
+          }}
+        />
       </SEOHead>
 
       <div className="min-h-screen bg-surface-cream">

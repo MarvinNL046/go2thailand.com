@@ -360,6 +360,37 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
             }}
           />
         )}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "TravelGuide",
+              "name": `${city.name.en} Travel Guide`,
+              "description": city.overview || city.enhanced_description?.substring(0, 300) || city.description.en,
+              "about": {
+                "@type": "City",
+                "name": city.name.en,
+                "containedInPlace": {
+                  "@type": "Country",
+                  "name": "Thailand"
+                }
+              },
+              "author": {
+                "@type": "Organization",
+                "name": "Go2Thailand.com",
+                "url": "https://go2-thailand.com"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Go2Thailand.com",
+                "url": "https://go2-thailand.com"
+              },
+              "inLanguage": locale === 'nl' ? 'nl' : 'en',
+              "image": city.image?.startsWith('http') ? city.image : `https://go2-thailand.com${city.image}`
+            })
+          }}
+        />
       </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">
