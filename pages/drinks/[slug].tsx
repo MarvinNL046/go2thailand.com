@@ -215,6 +215,21 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
                     </ul>
                   </div>
                 )}
+                {/* Inline Cooking Class CTA */}
+                <div className="mt-6 p-4 bg-green-50 rounded-xl border border-green-200">
+                  <p className="text-gray-700 text-sm">
+                    Want to experience Thai drink culture firsthand?{' '}
+                    <a
+                      href="https://klook.tpo.lv/aq6ZFxvc"
+                      target="_blank"
+                      rel="noopener noreferrer sponsored"
+                      className="text-green-700 font-semibold hover:underline"
+                    >
+                      Book a cooking class on Klook
+                    </a>
+                    {' '}and learn to make {drink.name.en} and more.
+                  </p>
+                </div>
               </div>
             </div>
           </section>
@@ -277,6 +292,20 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
                     <p className="text-gray-700">Hotel/Bar: {drink.where_to_find.price_ranges?.hotel || '150-300 THB'}</p>
                   </div>
                 </div>
+              </div>
+              {/* Inline Food Tour CTA */}
+              <div className="mt-4 p-3 bg-orange-50 rounded-xl border border-orange-200">
+                <p className="text-gray-700 text-sm">
+                  <a
+                    href="https://getyourguide.tpo.lv/GuAFfGGK"
+                    target="_blank"
+                    rel="noopener noreferrer sponsored"
+                    className="text-orange-700 font-semibold hover:underline"
+                  >
+                    Join a food tour
+                  </a>
+                  {' '}to discover the best local drinks and street food with a guide.
+                </p>
               </div>
             </div>
           </section>

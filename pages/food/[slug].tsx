@@ -295,6 +295,21 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
                         </div>
                       )}
                     </div>
+                    {/* Inline Cooking Class CTA */}
+                    <div className="mt-6 p-4 bg-green-50 rounded-xl border border-green-200">
+                      <p className="text-gray-700 text-sm">
+                        Want to learn from a Thai chef?{' '}
+                        <a
+                          href="https://klook.tpo.lv/aq6ZFxvc"
+                          target="_blank"
+                          rel="noopener noreferrer sponsored"
+                          className="text-green-700 font-semibold hover:underline"
+                        >
+                          Book a cooking class on Klook
+                        </a>
+                        {' '}and master {dish.name.en} hands-on.
+                      </p>
+                    </div>
                   </div>
                 )}
 
@@ -419,6 +434,20 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
                           </div>
                         </div>
                       </div>
+                    </div>
+                    {/* Inline Food Tour CTA */}
+                    <div className="mt-4 p-3 bg-orange-50 rounded-xl border border-orange-200">
+                      <p className="text-gray-700 text-sm">
+                        <a
+                          href="https://getyourguide.tpo.lv/GuAFfGGK"
+                          target="_blank"
+                          rel="noopener noreferrer sponsored"
+                          className="text-orange-700 font-semibold hover:underline"
+                        >
+                          Join a food tour
+                        </a>
+                        {' '}to discover the best {dish.name.en} spots with a local guide.
+                      </p>
                     </div>
                   </div>
                 )}
