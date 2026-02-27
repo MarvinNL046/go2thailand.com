@@ -196,8 +196,8 @@ async function getNextQueuedTopic(): Promise<(QueuedTopic & { category: PostCate
     });
 
     // Find first topic not yet published
-    // Match by significant words from targetKeyword (strip stop words like "in", "the", "a")
-    const STOP_WORDS = new Set(["in", "the", "a", "an", "of", "for", "to", "and", "or", "is", "vs", "at", "on"]);
+    // Match by significant words from targetKeyword AND topic title against existing slugs
+    const STOP_WORDS = new Set(["in", "the", "a", "an", "of", "for", "to", "and", "or", "is", "vs", "at", "on", "per", "your", "you", "best", "top", "guide", "complete", "ultimate", "2026", "2025"]);
     const existingSlugList = [...existingSlugs];
 
     for (const item of sorted) {
@@ -207,16 +207,26 @@ async function getNextQueuedTopic(): Promise<(QueuedTopic & { category: PostCate
         .split(/\s+/)
         .filter((w) => !STOP_WORDS.has(w) && w.length > 1);
 
-      // Check if any existing slug contains ALL significant keyword words
+      // Also extract significant words from topic title (catches more variations)
+      const topicWords = item.topic
+        .toLowerCase()
+        .split(/[\s:—\-,]+/)
+        .filter((w) => !STOP_WORDS.has(w) && w.length > 2);
+
+      // Check if any existing slug matches: either ALL keyword words match,
+      // or 60%+ of topic title words match (fuzzy match for rephrased titles)
       const alreadyPublished = existingSlugList.some((slug) => {
-        return keywordWords.every((word) => slug.includes(word));
+        const allKeywordsMatch = keywordWords.length > 0 && keywordWords.every((word) => slug.includes(word));
+        const topicMatchCount = topicWords.filter((word) => slug.includes(word)).length;
+        const topicMatchRatio = topicWords.length > 0 ? topicMatchCount / topicWords.length : 0;
+        return allKeywordsMatch || (topicMatchCount >= 3 && topicMatchRatio >= 0.5);
       });
 
       if (!alreadyPublished) {
-        console.log(`[content-generator] Queue: "${item.topic}" not yet published (words: ${keywordWords.join(",")})`);
+        console.log(`[content-generator] Queue: "${item.topic}" not yet published (keywords: ${keywordWords.join(",")})`);
         return item;
       } else {
-        console.log(`[content-generator] Queue: "${item.topic}" already published (words: ${keywordWords.join(",")})`);
+        console.log(`[content-generator] Queue: "${item.topic}" already published (keywords: ${keywordWords.join(",")})`);
       }
     }
 
