@@ -79,6 +79,7 @@ module.exports = {
         'slide-in-right': 'slideInRight 0.6s ease-out forwards',
         'bounce-soft': 'bounceSoft 0.6s ease-in-out',
         'float': 'float 6s ease-in-out infinite',
+        'toast-exit': 'toastExit 0.2s ease-in forwards',
       },
       keyframes: {
         fadeIn: {
@@ -109,6 +110,10 @@ module.exports = {
         float: {
           '0%, 100%': { transform: 'translateY(0)' },
           '50%': { transform: 'translateY(-10px)' },
+        },
+        toastExit: {
+          '0%': { opacity: '1' },
+          '100%': { opacity: '0', transform: 'translateY(-10px)' },
         },
       },
     },

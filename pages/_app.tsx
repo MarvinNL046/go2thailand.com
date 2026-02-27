@@ -10,6 +10,7 @@ import GoogleConsent from '../components/GoogleConsent';
 import FeedbackRibbon from '../components/FeedbackRibbon';
 import ExitIntentPopup from '../components/ExitIntentPopup';
 import Hreflang from '../components/Hreflang';
+import { ToastProvider } from '../components/Toast';
 import '../styles/globals.css';
 
 export default function App({ Component, pageProps }: AppProps) {
@@ -82,16 +83,18 @@ export default function App({ Component, pageProps }: AppProps) {
 
       <Hreflang />
       <GoogleConsent />
-      <div className="min-h-screen flex flex-col overflow-x-hidden">
-        <Header />
-        <main className="flex-grow overflow-x-hidden">
-          <Component {...pageProps} />
-        </main>
-        <Footer />
-        <CookieConsent />
-        <FeedbackRibbon />
-        <ExitIntentPopup />
-      </div>
+      <ToastProvider>
+        <div className="min-h-screen flex flex-col overflow-x-hidden">
+          <Header />
+          <main className="flex-grow overflow-x-hidden">
+            <Component {...pageProps} />
+          </main>
+          <Footer />
+          <CookieConsent />
+          <FeedbackRibbon />
+          <ExitIntentPopup />
+        </div>
+      </ToastProvider>
     </>
   );
 }

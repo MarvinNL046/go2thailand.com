@@ -1,10 +1,12 @@
 import React, { useState } from 'react';
 import { MessageSquare, X, Star, Send } from 'lucide-react';
+import { useToast } from './Toast';
 import { Button } from './ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/card';
 import { Input } from './ui/input';
 
 const FeedbackRibbon = () => {
+  const toast = useToast();
   const [isOpen, setIsOpen] = useState(false);
   const [rating, setRating] = useState(0);
   const [message, setMessage] = useState('');
@@ -51,7 +53,7 @@ const FeedbackRibbon = () => {
       }
     } catch (error) {
       console.error('Error submitting feedback:', error);
-      alert('Failed to submit feedback. Please try again.');
+      toast.error('Failed to submit feedback. Please try again.');
     } finally {
       setIsSubmitting(false);
     }

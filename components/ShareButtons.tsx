@@ -1,4 +1,5 @@
-import { useState, useCallback } from 'react';
+import { useCallback } from 'react';
+import { useToast } from './Toast';
 
 interface ShareButtonsProps {
   url: string;
@@ -8,7 +9,7 @@ interface ShareButtonsProps {
 }
 
 export default function ShareButtons({ url, title, description, image }: ShareButtonsProps) {
-  const [copied, setCopied] = useState(false);
+  const toast = useToast();
 
   const encodedUrl = encodeURIComponent(url);
   const encodedTitle = encodeURIComponent(title);
@@ -25,8 +26,7 @@ export default function ShareButtons({ url, title, description, image }: ShareBu
   const handleCopyLink = useCallback(async () => {
     try {
       await navigator.clipboard.writeText(url);
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
+      toast.success('Link copied to clipboard!');
     } catch {
       // Fallback for older browsers
       const textarea = document.createElement('textarea');
@@ -37,10 +37,9 @@ export default function ShareButtons({ url, title, description, image }: ShareBu
       textarea.select();
       document.execCommand('copy');
       document.body.removeChild(textarea);
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
+      toast.success('Link copied to clipboard!');
     }
-  }, [url]);
+  }, [url, toast]);
 
   const buttonBase =
     'inline-flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 hover:shadow-md';
@@ -102,15 +101,11 @@ export default function ShareButtons({ url, title, description, image }: ShareBu
         {/* Copy Link */}
         <button
           onClick={handleCopyLink}
-          className={`${buttonBase} relative ${
-            copied
-              ? 'bg-green-100 text-green-700 border border-green-300'
-              : 'bg-gray-100 text-gray-700 border border-gray-200 hover:bg-gray-200'
-          }`}
+          className={`${buttonBase} bg-gray-100 text-gray-700 border border-gray-200 hover:bg-gray-200`}
           aria-label="Copy link"
         >
-          {copied ? <CheckIcon /> : <LinkIcon />}
-          <span>{copied ? 'Copied!' : 'Copy link'}</span>
+          <LinkIcon />
+          <span>Copy link</span>
         </button>
       </div>
 
@@ -163,13 +158,11 @@ export default function ShareButtons({ url, title, description, image }: ShareBu
 
           <button
             onClick={handleCopyLink}
-            className={`flex-1 flex flex-col items-center justify-center gap-1 py-3 transition-colors ${
-              copied ? 'text-green-600 bg-green-50' : 'text-gray-600 active:bg-gray-100'
-            }`}
+            className="flex-1 flex flex-col items-center justify-center gap-1 py-3 text-gray-600 active:bg-gray-100 transition-colors"
             aria-label="Copy link"
           >
-            {copied ? <CheckIcon /> : <LinkIcon />}
-            <span className="text-[10px] font-medium">{copied ? 'Copied!' : 'Link'}</span>
+            <LinkIcon />
+            <span className="text-[10px] font-medium">Link</span>
           </button>
         </div>
       </div>
@@ -220,10 +213,3 @@ function LinkIcon() {
   );
 }
 
-function CheckIcon() {
-  return (
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-      <polyline points="20 6 9 17 4 12" />
-    </svg>
-  );
-}

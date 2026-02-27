@@ -2,10 +2,12 @@ import { useState } from 'react';
 import Link from 'next/link';
 import AnnouncementBar from './AnnouncementBar';
 import { useTranslation } from '../hooks/useTranslation';
+import { useToast } from './Toast';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
   const { t } = useTranslation('common');
+  const toast = useToast();
   const [email, setEmail] = useState('');
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
 
@@ -22,8 +24,10 @@ const Footer = () => {
       if (!res.ok) throw new Error();
       setStatus('success');
       setEmail('');
+      toast.success("You're subscribed! Check your inbox.");
     } catch {
       setStatus('error');
+      toast.error('Subscription failed. Please try again.');
     }
   };
 
