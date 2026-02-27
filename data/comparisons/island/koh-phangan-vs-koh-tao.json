@@ -1,0 +1,194 @@
+{
+  "slug": "koh-phangan-vs-koh-tao",
+  "type": "island",
+  "item1": "koh-phangan",
+  "item2": "koh-tao",
+  "summary": {
+    "en": "Koh Phangan and Koh Tao are two distinct islands in Thailand's Gulf, each offering unique experiences for different types of travelers. While Koh Phangan is known for its vibrant nightlife and larger infrastructure, Koh Tao has earned a reputation as a premier diving destination with a more laid-back, nature-focused atmosphere.",
+    "nl": "Koh Phangan en Koh Tao zijn twee verschillende eilanden in de Golf van Thailand, elk met unieke ervaringen voor verschillende soorten reizigers. Terwijl Koh Phangan bekend staat om zijn levendige nachtleven en grotere infrastructuur, heeft Koh Tao zich een reputatie opgebouwd als een premier duikbestemming met een meer relaxte, natuurgerichte sfeer."
+  },
+  "verdict": {
+    "en": "Choose Koh Phangan if you enjoy vibrant nightlife, larger beach areas, and more diverse dining and accommodation options. Koh Tao is ideal for diving enthusiasts, nature lovers, and travelers seeking a quieter, more intimate island experience with exceptional underwater activities. For non-partying couples seeking beaches, activities, and temples, Koh Tao offers a more suitable environment with its focus on water sports and natural beauty rather than nightlife.",
+    "nl": "Kies Koh Phangan als u van levendig nachtleven, grotere stranden en meer gevarieerde eet- en verblijfsopties houdt. Koh Tao is ideaal voor duikenthousiasten, natuurliefhebbers en reizigers die een stiller, meer intiem eilandervaring zoeken met uitzonderlijke onderwatersactiviteiten. Voor niet-feestende stellen die stranden, activiteiten en tempels zoeken, biedt Koh Tao een meer geschikte omgeving met focus op watersporten en natuurlijke schoonheid in plaats van nachtleven."
+  },
+  "categories": [
+    {
+      "name": "beaches",
+      "icon": "🏖️",
+      "winner": "koh-phangan",
+      "item1_score": 8,
+      "item2_score": 7,
+      "item1_text": {
+        "en": "Koh Phangan boasts larger, more developed beaches with better facilities and infrastructure. The island's main beaches like Haad Rin and Haad Yao offer golden sand and plenty of beach bars and restaurants.",
+        "nl": "Koh Phangan beschikt over grotere, beter ontwikkelde stranden met betere voorzieningen en infrastructuur. De belangrijkste stranden van het eiland zoals Haad Rin en Haad Yao bieden goudkleurig zand en veel strandbarren en restaurants."
+      },
+      "item2_text": {
+        "en": "Koh Tao has smaller, more intimate beaches that are quieter and less crowded. The beaches are picturesque and pristine, perfect for those seeking a more tranquil beach experience away from commercial development.",
+        "nl": "Koh Tao heeft kleinere, meer intieme stranden die rustiger en minder druk zijn. De stranden zijn schilderachtig en ongerepte, perfect voor wie een meer rustige strandervaring zoekt weg van commerciële ontwikkeling."
+      }
+    },
+    {
+      "name": "nightlife",
+      "icon": "🌙",
+      "winner": "koh-phangan",
+      "item1_score": 9,
+      "item2_score": 3,
+      "item1_text": {
+        "en": "Koh Phangan is famous for its Full Moon Party and vibrant nightlife scene with numerous bars, clubs, and beach parties throughout the month. The island attracts party-goers and young travelers from around the world.",
+        "nl": "Koh Phangan is beroemd om zijn Full Moon Party en levendige nachtleven met talrijke bars, clubs en strandfeesten het hele jaar door. Het eiland trekt feestgangers en jonge reizigers van over de hele wereld aan."
+      },
+      "item2_text": {
+        "en": "Koh Tao has minimal nightlife, with only a few casual bars and restaurants. The island prioritizes a relaxed, peaceful atmosphere, making it unsuitable for those seeking an active nightlife scene.",
+        "nl": "Koh Tao heeft minimaal nachtleven, met slechts enkele informele barren en restaurants. Het eiland geeft prioriteit aan een ontspannen, vreedzame sfeer, waardoor het ongeschikt is voor wie een actief nachtleven zoekt."
+      }
+    },
+    {
+      "name": "diving-snorkeling",
+      "icon": "🤿",
+      "winner": "koh-tao",
+      "item1_score": 6,
+      "item2_score": 9,
+      "item1_text": {
+        "en": "Koh Phangan offers decent snorkeling and diving opportunities, but these activities are not the island's main focus. The diving sites are adequate but less spectacular than nearby alternatives.",
+        "nl": "Koh Phangan biedt redelijke snorkel- en duikmogelijkheden, maar deze activiteiten zijn niet de belangrijkste focus van het eiland. De duiksites zijn adequaat maar minder spectaculair dan nabijgelegen alternatieven."
+      },
+      "item2_text": {
+        "en": "Koh Tao is world-renowned as a premier diving destination with exceptional coral reefs, abundant marine life, and excellent diving schools offering PADI certifications. The island is a paradise for both beginners and experienced divers.",
+        "nl": "Koh Tao staat wereldwijd bekend als een premier duikbestemming met uitzonderlijke koraalriffen, overvloedige zeeleven en uitstekende duikscholen die PADI-certificering aanbieden. Het eiland is een paradijs voor zowel beginners als ervaren duikers."
+      }
+    },
+    {
+      "name": "budget",
+      "icon": "💰",
+      "winner": "tie",
+      "item1_score": 6,
+      "item2_score": 6,
+      "item1_text": {
+        "en": "Koh Phangan offers a wide range of accommodation and dining options across various price points, from budget hostels to luxury resorts. Overall costs depend heavily on which beach area you choose and your travel style.",
+        "nl": "Koh Phangan biedt een breed scala aan verblijfs- en eetopties in verschillende prijsklassen, van budget hostels tot luxe resorts. De totale kosten hangen sterk af van welk strandgebied u kiest en uw reizigerstijl."
+      },
+      "item2_text": {
+        "en": "Koh Tao is generally affordable with budget accommodation and inexpensive local food readily available. However, diving courses and water sports activities can add significant expenses to your trip.",
+        "nl": "Koh Tao is over het algemeen betaalbaar met budget verblijf en goedkoop lokaal eten gemakkelijk beschikbaar. Duikcursussen en watersportactiviteiten kunnen echter aanzienlijke kosten aan uw reis toevoegen."
+      }
+    },
+    {
+      "name": "accommodation",
+      "icon": "🏨",
+      "winner": "koh-phangan",
+      "item1_score": 8,
+      "item2_score": 6,
+      "item1_text": {
+        "en": "Koh Phangan has extensive accommodation options ranging from budget bungalows to five-star resorts. The variety and availability of rooms is excellent, with options suitable for all budgets and preferences.",
+        "nl": "Koh Phangan heeft uitgebreide verblijfsopties variërend van budgetbungalows tot vijfsterrenresorts. De verscheidenheid en beschikbaarheid van kamers is uitstekend, met opties geschikt voor alle budgetten en voorkeuren."
+      },
+      "item2_text": {
+        "en": "Koh Tao offers adequate accommodation with basic to mid-range options, though luxury choices are limited. The smaller island means fewer choices overall, but quality guesthouses and budget resorts are readily available.",
+        "nl": "Koh Tao biedt voldoende verblijf met basisopties tot middenbereik, hoewel luxe keuzes beperkt zijn. Het kleinere eiland betekent minder keuze in totaal, maar kwaliteit pensions en budgetresorts zijn gemakkelijk beschikbaar."
+      }
+    },
+    {
+      "name": "food",
+      "icon": "🍜",
+      "winner": "koh-phangan",
+      "item1_score": 8,
+      "item2_score": 6,
+      "item1_text": {
+        "en": "Koh Phangan offers diverse dining options including international cuisine, Thai restaurants, and seafood specialists. The larger island supports numerous restaurants and food stalls catering to various tastes and dietary preferences.",
+        "nl": "Koh Phangan biedt diverse eetopties inclusief internationale keuken, Thaise restaurants en zeevruchtenspecialisten. Het grotere eiland ondersteunt talrijke restaurants en voedselkraampjes die aan verschillende smaken en voedingsvoorkeuren voldoen."
+      },
+      "item2_text": {
+        "en": "Koh Tao has basic Thai food and some international options, but the selection is more limited than larger islands. Fresh seafood is available, and local eateries offer authentic Thai cuisine at reasonable prices.",
+        "nl": "Koh Tao heeft basisThaise voeding en enkele internationale opties, maar de selectie is beperkter dan grotere eilanden. Verse zeevruchten zijn beschikbaar, en lokale eetgelegenheden bieden authentieke Thaise keuken tegen redelijke prijzen."
+      }
+    },
+    {
+      "name": "accessibility",
+      "icon": "🚢",
+      "winner": "koh-phangan",
+      "item1_score": 8,
+      "item2_score": 7,
+      "item1_text": {
+        "en": "Koh Phangan is easily accessible with regular ferry services from Koh Samui and the mainland. Multiple daily connections and various ferry operators provide convenient transportation options.",
+        "nl": "Koh Phangan is gemakkelijk bereikbaar met regelmatige veerdiensten van Koh Samui en het vasteland. Meerdere dagelijkse verbindingen en verschillende veerbedrijven bieden handige vervoersopties."
+      },
+      "item2_text": {
+        "en": "Koh Tao is accessible via ferry from Koh Phangan and Chumphon, though connections are less frequent than to Koh Phangan. The journey takes longer, but the island remains reasonably accessible for most travelers.",
+        "nl": "Koh Tao is bereikbaar via veerpont van Koh Phangan en Chumphon, hoewel verbindingen minder frequent zijn dan naar Koh Phangan. De reis duurt langer, maar het eiland blijft redelijk bereikbaar voor de meeste reizigers."
+      }
+    },
+    {
+      "name": "family-friendly",
+      "icon": "👨‍👩‍👧‍👦",
+      "winner": "koh-tao",
+      "item1_score": 5,
+      "item2_score": 7,
+      "item1_text": {
+        "en": "Koh Phangan is less ideal for families due to its party atmosphere and nightlife focus. While some quieter areas exist, the island's reputation and primary attractions cater more to young adults than families with children.",
+        "nl": "Koh Phangan is minder ideaal voor gezinnen vanwege zijn feestsfeer en nadruk op nachtleven. Hoewel enkele rustigere gebieden bestaan, zijn de reputatie en belangrijkste attracties van het eiland meer gericht op jonge volwassenen dan op gezinnen met kinderen."
+      },
+      "item2_text": {
+        "en": "Koh Tao is more family-friendly with its peaceful atmosphere and focus on educational activities like diving courses and snorkeling. The island offers a safer, quieter environment suitable for families seeking nature-based activities.",
+        "nl": "Koh Tao is gezinsvriendelijker met zijn rustige sfeer en focus op educatieve activiteiten zoals duikcursussen en snorkelen. Het eiland biedt een veiliger, rustiger omgeving geschikt voor gezinnen die natuurgebonden activiteiten zoeken."
+      }
+    }
+  ],
+  "faq": [
+    {
+      "question": {
+        "en": "Is Koh Phangan or Koh Tao cheaper?",
+        "nl": "Is Koh Phangan of Koh Tao goedkoper?"
+      },
+      "answer": {
+        "en": "Both islands offer similar budget accommodation and food costs. However, Koh Tao's expenses can increase significantly with diving courses and water sports activities, while Koh Phangan's costs depend more on your nightlife participation. Overall, they're roughly equivalent in price, with your spending determined more by activities than location.",
+        "nl": "Beide eilanden bieden vergelijkbare budgetverblijf en voedselkosten. De uitgaven op Koh Tao kunnen echter aanzienlijk toenemen met duikcursussen en watersportactiviteiten, terwijl de kosten op Koh Phangan meer afhangen van uw deelname aan nachtleven. Over het geheel zijn ze ongeveer gelijk in prijs, waarbij uw uitgaven meer worden bepaald door activiteiten dan locatie."
+      }
+    },
+    {
+      "question": {
+        "en": "Which island is better for diving and snorkeling?",
+        "nl": "Welk eiland is beter voor duiken en snorkelen?"
+      },
+      "answer": {
+        "en": "Koh Tao is significantly better for diving and snorkeling, being world-renowned as a premier diving destination with excellent coral reefs and abundant marine life. The island has numerous PADI-certified diving schools and is perfect for both beginners and experienced divers. Koh Phangan offers basic diving and snorkeling but these are not its primary attractions.",
+        "nl": "Koh Tao is aanzienlijk beter voor duiken en snorkelen, wereldwijd bekend als een premier duikbestemming met uitstekende koraalriffen en overvloedige zeeleven. Het eiland heeft talrijke PADI-gecertificeerde duikscholen en is perfect voor zowel beginners als ervaren duikers. Koh Phangan biedt basis duiken en snorkelen maar dit zijn niet de belangrijkste attracties."
+      }
+    },
+    {
+      "question": {
+        "en": "Which island is better for non-partying couples?",
+        "nl": "Welk eiland is beter voor niet-feestende stellen?"
+      },
+      "answer": {
+        "en": "Koh Tao is better suited for non-partying couples seeking beaches, activities, and temples. The island offers a peaceful atmosphere with focus on diving, snorkeling, and natural exploration. Koh Phangan, while having beautiful beaches, is primarily known for its Full Moon Party and vibrant nightlife, making it less ideal if you want to avoid party scenes.",
+        "nl": "Koh Tao is beter geschikt voor niet-feestende stellen die stranden, activiteiten en tempels zoeken. Het eiland biedt een vreedzame sfeer met focus op duiken, snorkelen en natuurverkenning. Koh Phangan heeft mooie stranden, maar is vooral bekend om zijn Full Moon Party en levendig nachtleven, waardoor het minder ideaal is als u feestscènes wilt vermijden."
+      }
+    },
+    {
+      "question": {
+        "en": "How long should I spend on each island?",
+        "nl": "Hoeveel tijd moet ik op elk eiland doorbrengen?"
+      },
+      "answer": {
+        "en": "For Koh Phangan, 3-4 nights is sufficient to experience the beaches and main attractions, especially if you want to catch the Full Moon Party. For Koh Tao, 4-5 nights is recommended to complete a diving course and explore the island's water activities properly. If combining both, allocate at least 3 nights to each island depending on your interests.",
+        "nl": "Voor Koh Phangan zijn 3-4 nachten voldoende om de stranden en belangrijkste attracties te ervaren, vooral als u het Full Moon Party wilt meemaken. Voor Koh Tao worden 4-5 nachten aanbevolen om een duikcursus af te ronden en de watersportactiviteiten van het eiland goed te verkennen. Als u beide combineert, reserveer minstens 3 nachten voor elk eiland afhankelijk van uw interesses."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I visit both Koh Phangan and Koh Tao on the same trip?",
+        "nl": "Kan ik zowel Koh Phangan als Koh Tao op dezelfde reis bezoeken?"
+      },
+      "answer": {
+        "en": "Yes, you can visit both islands on the same trip. They are relatively close to each other with ferry connections available. You could spend 3-4 nights on Koh Phangan and 4-5 nights on Koh Tao, or vice versa. However, for a 12-night trip to Thailand, you may want to also consider other destinations like Koh Samui or Krabi to maximize your experience.",
+        "nl": "Ja, u kunt beide eilanden op dezelfde reis bezoeken. Ze liggen relatief dicht bij elkaar met veerdiensten beschikbaar. U kunt 3-4 nachten op Koh Phangan en 4-5 nachten op Koh Tao doorbrengen, of omgekeerd. Voor een 12-nachtse reis naar Thailand wilt u echter mogelijk ook andere bestemmingen zoals Koh Samui of Krabi overwegen om uw ervaring te maximaliseren."
+      }
+    }
+  ],
+  "generatedAt": "2026-02-27T16:01:19.516Z",
+  "sources": [
+    "https://www.reddit.com/r/ThailandTourism/comments/1rfczf0/koh_tao_or_koh_phangan_4_nights_early_april_which/",
+    "https://www.facebook.com/groups/60315277804/posts/10162707542742805/",
+    "https://www.youtube.com/watch?v=b_q5lWsSsMQ"
+  ]
+}
