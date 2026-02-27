@@ -30,7 +30,11 @@
     },
     {
       "path": "/api/cron/generate-comparisons/",
-      "schedule": "0 13 * * *"
+      "schedule": "0 11 * * *"
+    },
+    {
+      "path": "/api/cron/generate-comparisons/",
+      "schedule": "0 15 * * *"
     },
     {
       "path": "/api/cron/generate-comparisons/",

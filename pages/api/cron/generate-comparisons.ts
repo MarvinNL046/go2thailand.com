@@ -166,7 +166,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       const slug = `${pair.i1}-vs-${pair.i2}`;
       if (!existingSlugs.has(slug)) {
         filesToGenerate.push(pair);
-        if (filesToGenerate.length >= 5) break;
+        if (filesToGenerate.length >= 2) break; // 2 per run — each takes ~120s (scrape + AI)
       }
     }
 
