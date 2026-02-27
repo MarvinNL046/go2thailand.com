@@ -11,5 +11,22 @@ Feed: https://go2-thailand.com/feed.xml
 Disallow: /_next/
 Disallow: /api/
 
+# Block non-translated compare pages (only EN/NL have translations)
+Disallow: /de/compare/
+Disallow: /fr/compare/
+Disallow: /ru/compare/
+Disallow: /ja/compare/
+Disallow: /ko/compare/
+Disallow: /zh/compare/
+
+# Block non-EN transport pages (English-only content)
+Disallow: /nl/transport/
+Disallow: /de/transport/
+Disallow: /fr/transport/
+Disallow: /ru/transport/
+Disallow: /ja/transport/
+Disallow: /ko/transport/
+Disallow: /zh/transport/
+
 # Crawl-delay for polite crawling (some bots support this)
 Crawl-delay: 1

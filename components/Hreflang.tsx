@@ -23,6 +23,18 @@ export default function Hreflang() {
   // Remove query string and hash from path
   const cleanPath = asPath.split('?')[0].split('#')[0];
 
+  // Determine active locales based on page type
+  // Compare pages only have EN + NL content; transport route pages only EN
+  const isComparePage = cleanPath.startsWith('/compare/') && cleanPath !== '/compare/';
+  const isTransportRoute = cleanPath.startsWith('/transport/') && cleanPath !== '/transport/';
+
+  let activeLocales = locales;
+  if (isComparePage) {
+    activeLocales = locales.filter(l => l === 'en' || l === 'nl');
+  } else if (isTransportRoute) {
+    activeLocales = locales.filter(l => l === 'en');
+  }
+
   const canonicalUrl =
     currentLocale === 'en'
       ? `${SITE_URL}${cleanPath}`
@@ -30,7 +42,7 @@ export default function Hreflang() {
 
   return (
     <Head>
-      {locales.map((locale) => {
+      {activeLocales.map((locale) => {
         const hreflang = LOCALE_TO_HREFLANG[locale] || locale;
         const href =
           locale === 'en'

@@ -1,6 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import { generateComparison } from "../../../lib/pipeline/generate-comparisons";
 import { commitFilesToGitHub } from "../../../lib/pipeline/github-commit";
+import { submitToIndexNow, INDEXNOW_HOST } from "../../../lib/indexnow";
 
 export const config = { maxDuration: 300 };
 
@@ -162,7 +163,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       }
 
       filesToGenerate.push(pair);
-      if (filesToGenerate.length >= 3) break; // Generate max 3 per run
+      if (filesToGenerate.length >= 5) break; // Generate max 5 per run
     }
 
     if (filesToGenerate.length === 0) {
@@ -198,8 +199,20 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       );
     }
 
+    // Submit newly enriched comparison URLs to IndexNow for fast indexing
+    const newUrls = results.map(
+      (r) => `https://${INDEXNOW_HOST}/compare/${r.slug}/`
+    );
+    let indexNowResult = null;
+    try {
+      indexNowResult = await submitToIndexNow(newUrls);
+      console.log(`[cron/generate-comparisons] IndexNow: submitted ${newUrls.length} URLs, status ${indexNowResult.status}`);
+    } catch (e) {
+      console.warn("[cron/generate-comparisons] IndexNow submission failed:", e);
+    }
+
     console.log(`[cron/generate-comparisons] Generated ${results.length} comparisons`);
-    return res.status(200).json({ success: true, generated: results.length, results });
+    return res.status(200).json({ success: true, generated: results.length, results, indexNow: indexNowResult });
   } catch (error: any) {
     console.error("[cron/generate-comparisons] Error:", error);
     return res.status(500).json({ error: error.message || "Internal server error" });

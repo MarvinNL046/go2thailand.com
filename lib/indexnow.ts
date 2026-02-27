@@ -52,6 +52,27 @@ export function getAllSitemapUrls(): string[] {
 }
 
 /**
+ * Non-EN locale path prefixes that should NOT be submitted to IndexNow.
+ * These have no real translated content (compare = EN/NL only, transport = EN only).
+ */
+const BLOCKED_LOCALE_PATHS = [
+  "/de/compare/", "/fr/compare/", "/ru/compare/", "/ja/compare/", "/ko/compare/", "/zh/compare/",
+  "/nl/transport/", "/de/transport/", "/fr/transport/", "/ru/transport/", "/ja/transport/", "/ko/transport/", "/zh/transport/",
+];
+
+/**
+ * Filter sitemap URLs to only include pages worth submitting to IndexNow.
+ * Removes non-translated locale pages that would waste crawl budget.
+ */
+export function getFilteredSitemapUrls(): string[] {
+  const allUrls = getAllSitemapUrls();
+  return allUrls.filter((url) => {
+    const urlPath = url.replace(`https://${INDEXNOW_HOST}`, "");
+    return !BLOCKED_LOCALE_PATHS.some((blocked) => urlPath.startsWith(blocked));
+  });
+}
+
+/**
  * Submit a batch of URLs to the IndexNow API.
  * Returns the HTTP status code from the API.
  */

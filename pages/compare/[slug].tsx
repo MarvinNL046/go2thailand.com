@@ -373,9 +373,10 @@ export default function ComparisonPage({
           />
         )}
       </SEOHead>
-      {/* Override canonical for non-translated locales to point to EN */}
+      {/* Override canonical for non-translated locales to point to EN + noindex */}
       {!isTranslated && (
         <Head>
+          <meta name="robots" content="noindex, follow" />
           <link key="canonical" rel="canonical" href={`${SITE_URL}/compare/${slug}/`} />
         </Head>
       )}

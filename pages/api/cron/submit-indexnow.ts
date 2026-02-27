@@ -1,5 +1,5 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import { getAllSitemapUrls, submitUrlsInBatches } from "../../../lib/indexnow";
+import { getFilteredSitemapUrls, submitUrlsInBatches } from "../../../lib/indexnow";
 
 export const config = {
   maxDuration: 60,
@@ -24,7 +24,7 @@ export default async function handler(
   try {
     console.log("[cron/submit-indexnow] Starting IndexNow submission...");
 
-    const urls = getAllSitemapUrls();
+    const urls = getFilteredSitemapUrls();
     console.log(
       `[cron/submit-indexnow] Found ${urls.length} URLs across all sitemaps.`
     );

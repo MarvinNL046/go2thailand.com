@@ -1,7 +1,9 @@
 import React from 'react';
 import { GetStaticPaths, GetStaticProps } from 'next';
+import Head from 'next/head';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
 import AffiliateWidget from '../../components/AffiliateWidget';
@@ -44,6 +46,8 @@ const getComfortStars = (rating: number) => {
 };
 
 const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity, transportOptions }) => {
+  const { locale } = useRouter();
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: 'Transport', href: '/transport' },
@@ -134,6 +138,12 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
           }}
         />
       </SEOHead>
+      {/* noindex for non-EN locales — transport content is English-only */}
+      {locale !== 'en' && (
+        <Head>
+          <meta name="robots" content="noindex, follow" />
+        </Head>
+      )}
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
