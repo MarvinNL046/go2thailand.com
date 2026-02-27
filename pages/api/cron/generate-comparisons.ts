@@ -132,38 +132,42 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       if (!exists) allPairs.push(pair);
     }
 
-    // Check which comparisons already exist via GitHub API
-    const filesToGenerate: typeof allPairs = [];
-
-    for (const pair of allPairs) {
-      const slug = `${pair.i1}-vs-${pair.i2}`;
-      const filePath = `data/comparisons/${pair.type}/${slug}.json`;
-
-      // Check if file exists on GitHub (with timeout to prevent hanging)
+    // Fetch existing comparison files in 2 API calls (city + island dirs)
+    const existingSlugs = new Set<string>();
+    for (const type of ["city", "island"] as const) {
       try {
-        const controller = new AbortController();
-        const timer = setTimeout(() => controller.abort(), 5000);
-        const checkRes = await fetch(
-          `https://api.github.com/repos/MarvinNL046/go2thailand.com/contents/${filePath}`,
+        const dirRes = await fetch(
+          `https://api.github.com/repos/MarvinNL046/go2thailand.com/contents/data/comparisons/${type}`,
           {
             headers: {
               Authorization: `token ${process.env.GITHUB_TOKEN}`,
               Accept: "application/vnd.github.v3+json",
             },
-            signal: controller.signal,
+            signal: AbortSignal.timeout(10000),
           }
         );
-        clearTimeout(timer);
-        if (checkRes.ok) {
-          // File exists, skip
-          continue;
+        if (dirRes.ok) {
+          const files = (await dirRes.json()) as Array<{ name: string }>;
+          for (const f of files) {
+            if (f.name.endsWith(".json")) {
+              existingSlugs.add(f.name.replace(".json", ""));
+            }
+          }
         }
-      } catch {
-        // Error checking or timeout, assume doesn't exist
+      } catch (err) {
+        console.warn(`[cron/generate-comparisons] Failed to list ${type} dir:`, err);
       }
+    }
+    console.log(`[cron/generate-comparisons] Found ${existingSlugs.size} existing comparisons`);
 
-      filesToGenerate.push(pair);
-      if (filesToGenerate.length >= 5) break; // Generate max 5 per run
+    // Find pairs that don't have enriched data yet
+    const filesToGenerate: typeof allPairs = [];
+    for (const pair of allPairs) {
+      const slug = `${pair.i1}-vs-${pair.i2}`;
+      if (!existingSlugs.has(slug)) {
+        filesToGenerate.push(pair);
+        if (filesToGenerate.length >= 5) break;
+      }
     }
 
     if (filesToGenerate.length === 0) {
