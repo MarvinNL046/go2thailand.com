@@ -87,8 +87,8 @@ export async function generateComparison(
   // Step 3: Build the categories list for the prompt
   const categories = getComparisonCategories(type);
 
-  // Step 4: Call Claude Haiku with a structured prompt
-  const prompt = `You are a Thailand travel expert writing for go2thailand.com. Based on the research data below, create a detailed comparison between ${item1Name} and ${item2Name}.
+  // Step 4: Call Claude Haiku with E-E-A-T optimized prompt
+  const prompt = `You are a Thailand travel expert who has personally visited both ${item1Name} and ${item2Name} multiple times, writing for go2thailand.com. Based on the research data AND your expertise, create a detailed, authoritative comparison.
 
 RESEARCH DATA:
 ${context}
@@ -111,16 +111,30 @@ For each category:
 - winner: slug of the winner ("${item1Slug}" or "${item2Slug}" or "tie")
 - item1_score: 1-10 score for ${item1Name}
 - item2_score: 1-10 score for ${item2Name}
-- item1_text: { "en": "2-3 sentence analysis for ${item1Name}", "nl": "Dutch translation" }
-- item2_text: { "en": "2-3 sentence analysis for ${item2Name}", "nl": "Dutch translation" }
+- item1_text: { "en": "3-4 sentence expert analysis", "nl": "Native-quality Dutch translation" }
+- item2_text: { "en": "3-4 sentence expert analysis", "nl": "Native-quality Dutch translation" }
 
-For FAQ: 4-5 questions that travelers commonly search for, like:
-- "Is ${item1Name} or ${item2Name} cheaper?"
-- "Which is better for families, ${item1Name} or ${item2Name}?"
-Each with { "question": { "en": "...", "nl": "..." }, "answer": { "en": "...", "nl": "..." } }
+CRITICAL E-E-A-T REQUIREMENTS for category texts:
+- EXPERIENCE: Name specific places (beach names, restaurant areas, hotel zones, dive sites). Write as if you've been there — e.g. "Long Beach on Koh Lanta's west coast" not just "beaches".
+- EXPERTISE: Include concrete numbers — budget ranges in THB (e.g. "฿800-1,500/night for mid-range"), travel times, distances. Never be vague when data exists.
+- ACCURACY: Only state facts you're confident about. Do NOT place dive sites or attractions in the wrong location. If unsure, omit rather than guess.
+- SEASONAL: Mention best/worst months to visit when relevant (e.g. "best November-April, ferries limited May-October").
+- INSIDER TIPS: Include at least one non-obvious tip per category that shows real knowledge (e.g. "book the sunset side bungalows" or "avoid the touristy restaurants on the main strip").
 
-Summary: 2-3 sentence overview of the comparison (en + nl)
-Verdict: Which destination is better for whom, with nuanced recommendation (en + nl)
+For FAQ: 5-6 questions travelers actually search for. Answers MUST include:
+- Specific prices, durations, or dates where applicable
+- Direct actionable advice, not generic statements
+- At least one FAQ about the best time to visit or seasonal differences
+
+Summary: 3-4 sentences. Mention the province/region, distance between them, and the core difference in one line.
+
+Verdict: 4-5 sentences. Specify which traveler type should pick which destination. Mention a specific month or season. End with a practical tip.
+
+DUTCH TRANSLATION QUALITY:
+- Write natural, native-level Dutch — NOT literal translations from English
+- Use correct Dutch grammar: "zeeleven" not "zeeëven", "veerboten" not "veerbochtochten"
+- Use informal "je/jouw" tone (not formal "u")
+- Common travel terms: strand, duiken, snorkelen, nachtleven, backpacken, budgetreiziger
 
 IMPORTANT: Output ONLY valid JSON, no markdown formatting.`;
 
