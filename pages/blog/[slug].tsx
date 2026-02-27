@@ -268,15 +268,18 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                   <div className="mt-8 pt-8 border-t">
                     <h3 className="font-bold font-heading mb-4">Tags</h3>
                     <div className="flex flex-wrap gap-2">
-                      {post.tags.map(tag => (
-                        <Link
-                          key={tag}
-                          href={`/blog/tag/${tag}/`}
-                          className="bg-surface-cream text-gray-700 px-3 py-1 rounded-full text-sm hover:bg-thailand-blue hover:text-white transition-colors"
-                        >
-                          #{tag}
-                        </Link>
-                      ))}
+                      {post.tags.map(tag => {
+                        const tagSlug = tag.toLowerCase().trim().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+                        return (
+                          <Link
+                            key={tag}
+                            href={`/blog/tag/${tagSlug}/`}
+                            className="bg-surface-cream text-gray-700 px-3 py-1 rounded-full text-sm hover:bg-thailand-blue hover:text-white transition-colors"
+                          >
+                            #{tag}
+                          </Link>
+                        );
+                      })}
                     </div>
                   </div>
 
