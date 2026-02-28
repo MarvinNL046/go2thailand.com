@@ -185,6 +185,9 @@ const Header = () => {
                       <Link href="/blog/" className={dropdownItemClass}>
                         {t('nav.blog')}
                       </Link>
+                      <Link href="/expat/" className={dropdownItemClass}>
+                        {t('nav.expatGuide')}
+                      </Link>
                     </div>
                   </div>
                 </div>
@@ -529,6 +532,13 @@ const Header = () => {
               onClick={() => setIsMobileMenuOpen(false)}
             >
               {t('nav.blog')}
+            </Link>
+            <Link
+              href="/expat/"
+              className={mobileSubLinkClass}
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {t('nav.expatGuide')}
             </Link>
           </div>
 

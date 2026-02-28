@@ -1,0 +1,339 @@
+{
+  "title": {
+    "en": "Living in Bangkok: Expat & Digital Nomad Guide 2026",
+    "nl": "Wonen in Bangkok: Expat & Digital Nomad Gids 2026"
+  },
+  "metaTitle": {
+    "en": "Living in Bangkok 2026 — Expat & Digital Nomad Guide | Go2Thailand",
+    "nl": "Wonen in Bangkok 2026 — Expat & Digital Nomad Gids | Go2Thailand"
+  },
+  "metaDescription": {
+    "en": "Complete guide to living in Bangkok as an expat or digital nomad. Neighbourhoods, cost of living, visa options, coworking spaces, and practical tips for 2026.",
+    "nl": "Complete gids voor wonen in Bangkok als expat of digital nomad. Wijken, kosten van levensonderhoud, visumopties, coworking spaces en praktische tips voor 2026."
+  },
+  "intro": {
+    "en": "Bangkok is one of the world's top destinations for expats and digital nomads — and for good reason. Affordable living, world-class street food, reliable internet, modern coworking spaces, and a thriving international community make it easy to settle in. Whether you're relocating for work, building a remote business, or just testing the waters, this guide covers everything you need to know about living in Bangkok in 2026.",
+    "nl": "Bangkok is een van 's werelds topbestemmingen voor expats en digital nomads — en dat is niet zonder reden. Betaalbaar leven, street food van wereldklasse, betrouwbaar internet, moderne coworking spaces en een bloeiende internationale gemeenschap maken het makkelijk om je er te vestigen. Of je nu verhuist voor werk, een remote business opbouwt of gewoon de stad uitprobeert, deze gids behandelt alles wat je moet weten over wonen in Bangkok in 2026."
+  },
+  "last_updated": "2026-02-28",
+  "neighborhoods": [
+    {
+      "name": "Sukhumvit (Asok–Phrom Phong)",
+      "slug": "sukhumvit",
+      "rentRange": "12,000–25,000 THB",
+      "vibe": {
+        "en": "International hub with restaurants, rooftop bars, and modern condos. The beating heart of expat Bangkok.",
+        "nl": "Internationaal centrum met restaurants, rooftop bars en moderne condos. Het kloppend hart van expat Bangkok."
+      },
+      "bestFor": {
+        "en": "First-time expats, professionals, nightlife lovers",
+        "nl": "Nieuwe expats, professionals, nachtleven-liefhebbers"
+      },
+      "transport": "BTS Asok, MRT Sukhumvit",
+      "walkability": 4
+    },
+    {
+      "name": "Silom & Sathorn",
+      "slug": "silom-sathorn",
+      "rentRange": "15,000–30,000 THB",
+      "vibe": {
+        "en": "Bangkok's CBD with upscale dining, embassies, and Lumpini Park. Polished and professional.",
+        "nl": "Bangkok's zakendistrict met upscale restaurants, ambassades en Lumpini Park. Stijlvol en professioneel."
+      },
+      "bestFor": {
+        "en": "Corporate expats, couples, fitness enthusiasts",
+        "nl": "Zakelijke expats, stellen, fitnessliefhebbers"
+      },
+      "transport": "BTS Sala Daeng, MRT Silom, MRT Lumphini",
+      "walkability": 4
+    },
+    {
+      "name": "Ari & Saphan Khwai",
+      "slug": "ari",
+      "rentRange": "10,000–20,000 THB",
+      "vibe": {
+        "en": "Trendy local neighbourhood with indie cafes, vintage shops, and a relaxed Thai-hipster feel.",
+        "nl": "Trendy lokale wijk met indie cafes, vintage winkels en een ontspannen Thai-hipster sfeer."
+      },
+      "bestFor": {
+        "en": "Creatives, remote workers who want a local feel",
+        "nl": "Creatievelingen, remote workers die een lokale sfeer willen"
+      },
+      "transport": "BTS Ari",
+      "walkability": 3
+    },
+    {
+      "name": "Thonglor & Ekkamai",
+      "slug": "thonglor-ekkamai",
+      "rentRange": "15,000–35,000 THB",
+      "vibe": {
+        "en": "Bangkok's trendiest area: Japanese restaurants, craft cocktail bars, boutique gyms, and upscale condos.",
+        "nl": "Bangkok's trendigste wijk: Japanse restaurants, craft cocktailbars, boutique sportscholen en luxe condos."
+      },
+      "bestFor": {
+        "en": "Foodies, entrepreneurs, young professionals",
+        "nl": "Foodies, ondernemers, jonge professionals"
+      },
+      "transport": "BTS Thong Lo, BTS Ekkamai",
+      "walkability": 3
+    },
+    {
+      "name": "On Nut & Phra Khanong",
+      "slug": "on-nut",
+      "rentRange": "8,000–15,000 THB",
+      "vibe": {
+        "en": "The budget-friendly expat favourite. Big malls, local markets, and great value condos along the BTS line.",
+        "nl": "De budgetvriendelijke favoriet van expats. Grote winkelcentra, lokale markten en goede condos langs de BTS-lijn."
+      },
+      "bestFor": {
+        "en": "Budget-conscious nomads, long-term stayers",
+        "nl": "Budgetbewuste nomaden, langverblijvers"
+      },
+      "transport": "BTS On Nut, BTS Phra Khanong",
+      "walkability": 3
+    },
+    {
+      "name": "Rattanakosin (Old Town)",
+      "slug": "rattanakosin",
+      "rentRange": "8,000–18,000 THB",
+      "vibe": {
+        "en": "Historic Bangkok near the Grand Palace and Khao San Road. Charming guesthouses and riverside walks.",
+        "nl": "Historisch Bangkok bij het Grand Palace en Khao San Road. Charmante guesthouses en wandelingen langs de rivier."
+      },
+      "bestFor": {
+        "en": "Culture lovers, photographers, short-term stays",
+        "nl": "Cultuurliefhebbers, fotografen, kort verblijf"
+      },
+      "transport": "Chao Phraya Express Boat, MRT Sanam Chai",
+      "walkability": 4
+    },
+    {
+      "name": "Ladprao & Ratchada",
+      "slug": "ladprao-ratchada",
+      "rentRange": "7,000–14,000 THB",
+      "vibe": {
+        "en": "Authentic Thai living with night markets, MRT access, and some of Bangkok's best street food.",
+        "nl": "Authentiek Thais wonen met nachtmarkten, MRT-toegang en een aantal van Bangkok's beste street food."
+      },
+      "bestFor": {
+        "en": "Budget expats who want authentic Thai life",
+        "nl": "Budget expats die het authentieke Thaise leven willen"
+      },
+      "transport": "MRT Lat Phrao, MRT Thailand Cultural Centre",
+      "walkability": 3
+    },
+    {
+      "name": "Bang Na & Udomsuk",
+      "slug": "bang-na",
+      "rentRange": "6,000–12,000 THB",
+      "vibe": {
+        "en": "Quiet suburban area with mega malls (Mega Bangna, IKEA), spacious condos, and very low rents.",
+        "nl": "Rustig buitengebied met mega winkelcentra (Mega Bangna, IKEA), ruime condos en zeer lage huren."
+      },
+      "bestFor": {
+        "en": "Families, long-term budget living, teachers",
+        "nl": "Gezinnen, langdurig budgetleven, leraren"
+      },
+      "transport": "BTS Bang Na, BTS Udom Suk",
+      "walkability": 2
+    }
+  ],
+  "costOfLiving": [
+    {
+      "category": { "en": "Rent (1BR condo)", "nl": "Huur (1-slaapkamer condo)" },
+      "budgetTHB": 8000,
+      "midTHB": 15000,
+      "comfortTHB": 30000
+    },
+    {
+      "category": { "en": "Food & groceries", "nl": "Eten & boodschappen" },
+      "budgetTHB": 6000,
+      "midTHB": 12000,
+      "comfortTHB": 20000
+    },
+    {
+      "category": { "en": "Transport (BTS/MRT/Grab)", "nl": "Vervoer (BTS/MRT/Grab)" },
+      "budgetTHB": 1500,
+      "midTHB": 3000,
+      "comfortTHB": 6000
+    },
+    {
+      "category": { "en": "Gym membership", "nl": "Sportschool abonnement" },
+      "budgetTHB": 800,
+      "midTHB": 1500,
+      "comfortTHB": 3000
+    },
+    {
+      "category": { "en": "Coworking space", "nl": "Coworking space" },
+      "budgetTHB": 0,
+      "midTHB": 3000,
+      "comfortTHB": 6000
+    },
+    {
+      "category": { "en": "Phone & internet", "nl": "Telefoon & internet" },
+      "budgetTHB": 500,
+      "midTHB": 1000,
+      "comfortTHB": 1500
+    },
+    {
+      "category": { "en": "Health insurance", "nl": "Zorgverzekering" },
+      "budgetTHB": 2000,
+      "midTHB": 5000,
+      "comfortTHB": 10000
+    },
+    {
+      "category": { "en": "Visa runs / extensions", "nl": "Visumverlengingen / -runs" },
+      "budgetTHB": 1500,
+      "midTHB": 2000,
+      "comfortTHB": 3000
+    }
+  ],
+  "visaOptions": [
+    {
+      "name": "DTV (Destination Thailand Visa)",
+      "duration": "180 days (extendable to 360)",
+      "cost": "10,000 THB",
+      "bestFor": {
+        "en": "Digital nomads and remote workers. Allows multiple entries and legal stay for remote work.",
+        "nl": "Digital nomads en remote workers. Staat meerdere entries en legaal verblijf voor remote werk toe."
+      },
+      "link": "/visa/"
+    },
+    {
+      "name": "Tourist Visa (60-day)",
+      "duration": "60 days + 30-day extension",
+      "cost": "1,900 THB extension",
+      "bestFor": {
+        "en": "Short-term visitors testing the waters. Easy to obtain, extendable at immigration.",
+        "nl": "Korte-termijn bezoekers die het uitproberen. Makkelijk te verkrijgen, verlengbaar bij immigratie."
+      },
+      "link": "/visa/"
+    },
+    {
+      "name": "Thailand Elite Visa",
+      "duration": "5–20 years",
+      "cost": "From 600,000 THB",
+      "bestFor": {
+        "en": "Long-term residents who want hassle-free entry, VIP airport service, and no visa runs.",
+        "nl": "Langverblijvers die probleemloze toegang, VIP luchthavenservice en geen visa runs willen."
+      },
+      "link": "/visa/"
+    },
+    {
+      "name": "ED Visa (Education)",
+      "duration": "Up to 1 year",
+      "cost": "Varies (school-dependent)",
+      "bestFor": {
+        "en": "Those learning Thai, Muay Thai, or cooking. Affordable long-term option with cultural immersion.",
+        "nl": "Voor wie Thais, Muay Thai of koken leert. Betaalbare langetermijnoptie met culturele onderdompeling."
+      },
+      "link": "/visa/"
+    }
+  ],
+  "practicalTips": [
+    {
+      "title": { "en": "Bank Account", "nl": "Bankrekening" },
+      "description": {
+        "en": "Bangkok Bank and Kasikorn (KBank) are the most expat-friendly. You'll need your passport and a proof of address (condo contract works). Some branches near Sukhumvit are used to foreign applicants. The KBank app supports English.",
+        "nl": "Bangkok Bank en Kasikorn (KBank) zijn het meest expat-vriendelijk. Je hebt je paspoort en een adresbewijs nodig (condocontract werkt). Sommige filialen bij Sukhumvit zijn gewend aan buitenlandse aanvragers. De KBank-app ondersteunt Engels."
+      }
+    },
+    {
+      "title": { "en": "SIM Card & eSIM", "nl": "SIM-kaart & eSIM" },
+      "description": {
+        "en": "AIS, DTAC, and TrueMove all offer prepaid plans from 300 THB/month with unlimited data. You can buy SIMs at any 7-Eleven or airport counter. For eSIM, services like Saily work with most modern phones.",
+        "nl": "AIS, DTAC en TrueMove bieden prepaid abonnementen vanaf 300 THB/maand met onbeperkt data. Je kunt SIM-kaarten kopen bij elke 7-Eleven of luchthaventoonbank. Voor eSIM werken services als Saily met de meeste moderne telefoons."
+      }
+    },
+    {
+      "title": { "en": "Health Insurance", "nl": "Zorgverzekering" },
+      "description": {
+        "en": "Private hospitals like Bumrungrad and BNH are world-class but expensive without insurance. SafetyWing and Cigna Global are popular with nomads. A basic outpatient visit costs 500–2,000 THB without insurance.",
+        "nl": "Privéziekenhuizen zoals Bumrungrad en BNH zijn van wereldklasse, maar duur zonder verzekering. SafetyWing en Cigna Global zijn populair bij nomaden. Een basispolibezoek kost 500–2.000 THB zonder verzekering."
+      }
+    },
+    {
+      "title": { "en": "Coworking Spaces", "nl": "Coworking Spaces" },
+      "description": {
+        "en": "Bangkok has 100+ coworking spaces. Top picks: The Hive Thonglor (day pass 350 THB), AIS D.C. Silom (free!), Hubba-TO on Ekkamai, and CAMP at Maya in Chiang Mai. Most offer high-speed WiFi, AC, and coffee.",
+        "nl": "Bangkok heeft 100+ coworking spaces. Topkeuzes: The Hive Thonglor (dagpas 350 THB), AIS D.C. Silom (gratis!), Hubba-TO op Ekkamai en CAMP bij Maya in Chiang Mai. De meeste bieden snel WiFi, airco en koffie."
+      }
+    },
+    {
+      "title": { "en": "Food Delivery Apps", "nl": "Bezorg-apps" },
+      "description": {
+        "en": "Grab Food, LINE MAN, and Robinhood are the big three. Robinhood charges no commission so prices are often lower. Most restaurants are on at least two platforms. Average meal delivery: 80–150 THB.",
+        "nl": "Grab Food, LINE MAN en Robinhood zijn de grote drie. Robinhood rekent geen commissie, dus de prijzen zijn vaak lager. De meeste restaurants staan op minimaal twee platforms. Gemiddelde maaltijdbezorging: 80–150 THB."
+      }
+    },
+    {
+      "title": { "en": "Transport Apps", "nl": "Vervoer-apps" },
+      "description": {
+        "en": "Grab is the go-to for taxis and motorbike rides. Bolt is a cheaper alternative. For the BTS/MRT, get a Rabbit card (refillable) — it saves time and money. Bangkok's boat services on the Chao Phraya are cheap and fast for riverside areas.",
+        "nl": "Grab is de standaard voor taxi's en motorritten. Bolt is een goedkoper alternatief. Voor de BTS/MRT, haal een Rabbit-kaart (oplaadbaar) — scheelt tijd en geld. Bangkok's bootdiensten op de Chao Phraya zijn goedkoop en snel voor gebieden aan de rivier."
+      }
+    }
+  ],
+  "faq": [
+    {
+      "question": {
+        "en": "Is Bangkok a good city for digital nomads in 2026?",
+        "nl": "Is Bangkok een goede stad voor digital nomads in 2026?"
+      },
+      "answer": {
+        "en": "Bangkok is consistently ranked among the top 3 cities for digital nomads worldwide. Fast internet (average 200+ Mbps in condos), hundreds of coworking spaces, affordable cost of living (from 25,000 THB/month), and the new DTV visa make it easier than ever to live and work remotely.",
+        "nl": "Bangkok staat consistent in de top 3 steden voor digital nomads wereldwijd. Snel internet (gemiddeld 200+ Mbps in condos), honderden coworking spaces, betaalbare kosten van levensonderhoud (vanaf 25.000 THB/maand), en het nieuwe DTV-visum maken het makkelijker dan ooit om er remote te wonen en werken."
+      }
+    },
+    {
+      "question": {
+        "en": "How much does it cost to live in Bangkok per month?",
+        "nl": "Hoeveel kost het om per maand in Bangkok te wonen?"
+      },
+      "answer": {
+        "en": "A comfortable lifestyle costs 30,000–50,000 THB/month (roughly 850–1,400 USD). This includes a modern 1BR condo, eating out daily, transport, gym, and health insurance. Budget-conscious expats can live on 20,000–25,000 THB/month by cooking at home and choosing areas like On Nut or Ladprao.",
+        "nl": "Een comfortabele levensstijl kost 30.000–50.000 THB/maand (ongeveer 850–1.400 USD). Dit omvat een modern 1-slaapkamer condo, dagelijks uit eten, vervoer, sportschool en zorgverzekering. Budgetbewuste expats kunnen leven van 20.000–25.000 THB/maand door zelf te koken en wijken als On Nut of Ladprao te kiezen."
+      }
+    },
+    {
+      "question": {
+        "en": "What visa do digital nomads use in Thailand?",
+        "nl": "Welk visum gebruiken digital nomads in Thailand?"
+      },
+      "answer": {
+        "en": "The DTV (Destination Thailand Visa) launched in mid-2024 is the go-to option. It costs 10,000 THB, allows 180 days per entry (extendable to 360), and explicitly covers remote workers. Before the DTV, most nomads used tourist visa extensions or ED visas.",
+        "nl": "Het DTV (Destination Thailand Visa) dat medio 2024 werd gelanceerd is de beste optie. Het kost 10.000 THB, staat 180 dagen per entry toe (verlengbaar tot 360), en dekt expliciet remote workers. Voor het DTV gebruikten de meeste nomaden toeristenvisa-verlengingen of ED-visa."
+      }
+    },
+    {
+      "question": {
+        "en": "Which Bangkok neighbourhood is best for expats?",
+        "nl": "Welke wijk in Bangkok is het beste voor expats?"
+      },
+      "answer": {
+        "en": "It depends on your priorities. Sukhumvit (Asok–Phrom Phong) is the classic expat hub with everything at your doorstep. Thonglor is trendier and more upscale. On Nut offers the best value with BTS access. Ari is perfect if you want a local, hipster vibe. Most new expats start in Sukhumvit and move once they learn the city.",
+        "nl": "Het hangt af van je prioriteiten. Sukhumvit (Asok–Phrom Phong) is de klassieke expat-hub met alles binnen handbereik. Thonglor is trendier en luxer. On Nut biedt de beste waarde met BTS-toegang. Ari is perfect als je een lokale, hipster sfeer wilt. De meeste nieuwe expats beginnen in Sukhumvit en verhuizen zodra ze de stad kennen."
+      }
+    },
+    {
+      "question": {
+        "en": "Is it safe to live in Bangkok?",
+        "nl": "Is het veilig om in Bangkok te wonen?"
+      },
+      "answer": {
+        "en": "Bangkok is generally very safe for expats. Violent crime against foreigners is rare. The main concerns are petty theft (watch your phone on busy streets), taxi scams (always use Grab), and traffic accidents. Use common sense: avoid buying things from touts near tourist sites, and keep copies of your passport.",
+        "nl": "Bangkok is over het algemeen zeer veilig voor expats. Gewelddadige misdaad tegen buitenlanders is zeldzaam. De belangrijkste zorgen zijn zakkenrollerij (let op je telefoon op drukke straten), taxioplichting (gebruik altijd Grab) en verkeersongelukken. Gebruik gezond verstand: koop niets van straatverkopers bij toeristische plekken, en bewaar kopieën van je paspoort."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I open a Thai bank account as an expat?",
+        "nl": "Kan ik een Thaise bankrekening openen als expat?"
+      },
+      "answer": {
+        "en": "Yes, though requirements vary by bank and branch. Bangkok Bank and Kasikorn Bank (KBank) are the most foreigner-friendly. You typically need your passport, a valid visa (not visa-exempt), and proof of address. Some Sukhumvit branches are experienced with foreign applicants and make the process smoother.",
+        "nl": "Ja, hoewel de vereisten per bank en filiaal verschillen. Bangkok Bank en Kasikorn Bank (KBank) zijn het meest buitenlander-vriendelijk. Je hebt meestal je paspoort, een geldig visum (niet visumvrij) en een adresbewijs nodig. Sommige filialen op Sukhumvit hebben ervaring met buitenlandse aanvragers en maken het proces soepeler."
+      }
+    }
+  ]
+}
