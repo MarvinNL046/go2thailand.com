@@ -27,6 +27,8 @@ This guide isn't a generic list of Bangkok areas. It's an honest breakdown of **
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:32px 0;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.15);"><iframe src="https://www.youtube.com/embed/0r5IHcAtBlU" title="Where to Live in Bangkok - Neighbourhood Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;"></iframe></div>
 
+*This guide was inspired by [Sam Seiber's neighbourhood walkthrough on YouTube](https://www.youtube.com/@SamSeiber). Sam lives in Bangkok and shares honest, first-hand insights about expat life in the city. We've expanded his observations with additional research, rent data, and practical details.*
+
 ## Quick Comparison
 
 | Neighbourhood | Rent (1BR) | Vibe | BTS/MRT | Best For |
