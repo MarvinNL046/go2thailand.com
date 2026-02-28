@@ -21,6 +21,8 @@ sources:
 ---
 You've probably seen it on Instagram or TikTok—colourful murals of cats, rust-stained walls covered in street art, and hipster cafés tucked inside century-old shophouses. That's **Talad Noi**, one of [Bangkok's](https://go2-thailand.com/city/bangkok/) oldest and most photogenic neighbourhoods, sitting quietly beside Chinatown along the banks of the Chao Phraya River. But is there more to discover here than just a few cafés and pretty paintings? After spending a full 24 hours exploring every alley, eating at street stalls, sleeping in a converted heritage guesthouse, and drinking cocktails on a rooftop at sunset—the answer is a resounding yes.
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:32px 0;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.15);"><iframe src="https://www.youtube.com/embed/vho1vpX0__E" title="24 Hours in Talad Noi, Bangkok" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;"></iframe></div>
+
 ## Key Takeaways
 
 | Question | Answer |
