@@ -29,7 +29,7 @@ The **Full Moon Party Koh Phangan** is one of Southeast Asia's most legendary be
 
 | Question | Answer |
 |----------|--------|
-| **What are the 2026 Full Moon Party dates?** | March 5, April 4, May 3, June 2, July 1, August 31, September 30, October 29, November 28, December 27 |
+| **What are the 2026 Full Moon Party dates?** | January 3, February 2, March 3, April 2, May 1, May 31, June 29, July 29, August 28, September 26, October 26, November 24, December 24, December 31 (NYE) |
 | **How much does it cost?** | 300–500 THB (~$8–14 USD) entry; total budget 1,500–3,000 THB (~$40–85 USD) including drinks and transport |
 | **How do I get there?** | [Ferry](https://12go.tpo.lv/tNA80urD) from [Koh Samui](https://go2-thailand.com/islands/koh-samui/) or [Koh Tao](https://go2-thailand.com/islands/koh-tao/) (30–45 minutes), or speedboat from [Surat Thani](https://go2-thailand.com/transport/) mainland |
 | **Is it safe?** | Generally safe with normal precautions; watch drinks, secure valuables, stay aware of your surroundings |
@@ -69,16 +69,20 @@ The party splits into two main zones: the main beach (Hat Rin Nai) where the off
 
 Planning around the lunar calendar is essential. The **Full Moon Party 2026 dates** are:
 
-- **March 5** (Thursday)
-- **April 4** (Saturday)
-- **May 3** (Sunday)
-- **June 2** (Tuesday)
-- **July 1** (Wednesday)
-- **August 31** (Monday)
-- **September 30** (Wednesday)
-- **October 29** (Thursday)
-- **November 28** (Saturday)
-- **December 27** (Sunday)
+- **January 3** (Saturday)
+- **February 2** (Monday)
+- **March 3** (Tuesday)
+- **April 2** (Thursday)
+- **May 1** (Friday)
+- **May 31** (Sunday)
+- **June 29** (Monday)
+- **July 29** (Wednesday)
+- **August 28** (Friday)
+- **September 26** (Saturday)
+- **October 26** (Monday)
+- **November 24** (Tuesday)
+- **December 24** (Thursday)
+- **December 31** (Thursday — New Year's Eve Special)
 
 ### Booking Strategy and Timing
 
@@ -86,7 +90,7 @@ Accommodation fills up 2–3 weeks before the party, especially during peak seas
 
 ### Best Dates to Attend
 
-**Weekends (April 4, May 3, November 28, December 27)** draw the largest crowds and highest prices. If you prefer a slightly less chaotic experience, weekday parties (March 5, June 2, July 1, August 31, September 30, October 29) are marginally less crowded, though still substantial. Avoid September–October entirely if possible—monsoon season brings rough seas, occasional ferry cancellations, and a smaller, less festive crowd.
+**Weekends (January 3, May 1, May 31, August 28, September 26)** draw the largest crowds and highest prices. **December 31 (New Year's Eve)** is the biggest party of the year. If you prefer a slightly less chaotic experience, weekday parties (February 2, March 3, April 2, June 29, July 29, October 26, November 24, December 24) are marginally less crowded, though still substantial. Avoid September–October if possible—monsoon season brings rough seas, occasional ferry cancellations, and a smaller, less festive crowd.
 
 <div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
