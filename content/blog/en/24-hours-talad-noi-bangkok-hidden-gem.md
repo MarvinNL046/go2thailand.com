@@ -25,7 +25,7 @@ You've probably seen it on Instagram or TikTok—colourful murals of cats, rust-
 
 | Question | Answer |
 |----------|--------|
-| **Where is Talad Noi?** | Next to Chinatown, along the Chao Phraya River in central [Bangkok](https://go2-thailand.com/city/bangkok/) — [see on map](https://maps.app.goo.gl/HTPkbaYzw2yTk) |
+| **Where is Talad Noi?** | Next to Chinatown, along the Chao Phraya River in central [Bangkok](https://go2-thailand.com/city/bangkok/) — [see on map](https://www.google.com/maps/place/Talat+Noi/@13.7345402,100.5125787,17z/data=!4m6!3m5!1s0x30e298d8fa60ba4b:0x1939a188a5933e67!8m2!3d13.7340836!4d100.5121079!16s%2Fg%2F11c2nsy6wd) |
 | **How long do you need?** | A full day (24 hours) is ideal; half a day works for a quick visit |
 | **Best time for photos?** | Before 9:00 AM — the Instagram-famous spots are deserted |
 | **How to get around?** | Entirely on foot — the neighbourhood is small and walkable |
@@ -67,7 +67,7 @@ As the sun climbs, start your walking tour through the narrow alleys. This is wh
 
 ### The Transformer Roundabout
 
-One of Talad Noi's most impressive sights is the [**Transformer sculpture at the roundabout**](https://maps.app.goo.gl/wYqCGPJhutSFL)—a towering robot made entirely from scrap metal and machine parts, **handcrafted by a local Talad Noi artist**. The level of detail is staggering: gears, pistons, bolts, chains, all welded together with incredible precision. The longer you look at it, the more impressive it becomes.
+One of Talad Noi's most impressive sights is the [**Transformer sculpture at the roundabout**](https://www.google.com/maps/place/Thanon+Khao+Lam+Circle+Talat+Noi+(Optimus+Prime)/@13.7359636,100.5137457,19z/data=!4m6!3m5!1s0x30e2990075e1898d:0x62da48d98f819e7a!8m2!3d13.7361934!4d100.5135516!16s%2Fg%2F11vwrjf91x)—a towering robot made entirely from scrap metal and machine parts, **handcrafted by a local Talad Noi artist**. The level of detail is staggering: gears, pistons, bolts, chains, all welded together with incredible precision. The longer you look at it, the more impressive it becomes.
 
 ### The Metal Workshops
 
@@ -97,7 +97,7 @@ Skip the tourist restaurants and look for the **green flags**: stalls packed wit
 
 ### Unforgotten Guesthouse — Heritage Accommodation
 
-For the full Talad Noi experience, stay overnight. We booked [**Unforgotten Guesthouse**](https://maps.app.goo.gl/H4Th3cLeoaNUU), a beautifully restored heritage building right in the heart of the neighbourhood, for **2,300 THB ($65 USD) per night**.
+For the full Talad Noi experience, stay overnight. We booked [**Unforgotten Guesthouse**](https://www.google.com/maps/place/The+Unforgotten+B%26B/@13.7368531,100.5149527,19z/data=!4m9!3m8!1s0x30e2992714b650fd:0xaa1df77a1b43ddce!5m2!4m1!1i2!8m2!3d13.7368532!4d100.5145323!16s%2Fg%2F11g8_2hdnn), a beautifully restored heritage building right in the heart of the neighbourhood, for **2,300 THB ($65 USD) per night**.
 
 The room is filled with custom-made antique furniture, real flowers, original artwork, and a mix of materials that give it an atmospheric English cottage feel—rustic and slightly spooky in the best possible way. It perfectly matches Talad Noi's own character.
 
@@ -122,7 +122,7 @@ As the sun starts to drop and temperatures cool slightly, head back out into the
 
 ### So Heng Tai House — 200-Year-Old Chinese Mansion
 
-One of Talad Noi's hidden gems is [**So Heng Tai House**](https://maps.app.goo.gl/NNz5FNeHEKe53), a beautifully preserved **200-year-old Chinese merchant's mansion**. Entry costs just **50 THB ($1.40 USD)**, and your ticket doubles as a voucher for a drink at the on-site café.
+One of Talad Noi's hidden gems is [**So Heng Tai House**](https://www.google.com/maps/place/So+Heng+Tai+House/@13.7336713,100.5124264,20z/data=!4m6!3m5!1s0x30e298df3a10d4b9:0x80e581270e92a2e9!8m2!3d13.7336292!4d100.5120163!16s%2Fg%2F11gy24y10p), a beautifully preserved **200-year-old Chinese merchant's mansion**. Entry costs just **50 THB ($1.40 USD)**, and your ticket doubles as a voucher for a drink at the on-site café.
 
 Inside you'll find stunning traditional Chinese architecture, period furniture, and a peaceful courtyard that feels like stepping back in time. It's a welcome escape from the crowds and a chance to learn about the Chinese heritage that founded this entire neighbourhood.
 
@@ -132,7 +132,7 @@ Something you'll notice everywhere: every house and shop has beautiful potted pl
 
 ## Sunset (5:30–7:00 PM): Rooftop Drinks with a River View
 
-This is the highlight of any 24 hours in Talad Noi. Finding a sunset spot takes some effort—the riverside is dotted with temples and construction sites, not bars. We tried the [**Horseshoe Shrine**](https://maps.app.goo.gl/VRbcf88wZuHaS) first, which has a new walkway along the water with stunning views of boats on the Chao Phraya and the Bangkok skyline beyond. Beautiful for photos, but it's a temple—no beer allowed.
+This is the highlight of any 24 hours in Talad Noi. Finding a sunset spot takes some effort—the riverside is dotted with temples and construction sites, not bars. We tried the [**Horseshoe Shrine**](https://www.google.com/maps/place/Horseshoe+Shrine/@13.7324652,100.5126923,20z/data=!4m6!3m5!1s0x30e298df262e5257:0xf326b7234eaf3d3d!8m2!3d13.7328119!4d100.5121759!16s%2Fg%2F1tf72zgz) first, which has a new walkway along the water with stunning views of boats on the Chao Phraya and the Bangkok skyline beyond. Beautiful for photos, but it's a temple—no beer allowed.
 
 ### River View Residence Rooftop Bar
 
@@ -152,7 +152,7 @@ Watch the boats shuttle commuters home. See families barbecuing on the riverbank
 
 ## Dinner (7:00–8:30 PM): Naam 1608 Restaurant
 
-For dinner, the best restaurant in Talad Noi is [**Naam 1608**](https://maps.app.goo.gl/5wWzsFfQ3ipUE), a gorgeous wooden shophouse converted into a riverfront restaurant. The building itself is stunning—wooden furniture, royal portraits, original artwork—and the tables offer beautiful views directly over the Chao Phraya.
+For dinner, the best restaurant in Talad Noi is [**Naam 1608**](https://www.google.com/maps/place/NAAM+1608/@13.7345402,100.5125787,17z/data=!4m6!3m5!1s0x30e299f6e5600c43:0xadf805595dbb1!8m2!3d13.7360369!4d100.5099487!16s%2Fg%2F11hzmn8v9_), a gorgeous wooden shophouse converted into a riverfront restaurant. The building itself is stunning—wooden furniture, royal portraits, original artwork—and the tables offer beautiful views directly over the Chao Phraya.
 
 ### What to Know Before You Go
 
@@ -168,13 +168,13 @@ Three beers and four dishes for two people: **1,700 THB ($48 USD)**. For a water
 
 Talad Noi's nightlife won't compete with [Khaosan Road](https://go2-thailand.com/city/bangkok/) or Sukhumvit, but it's not trying to. The bars here are intimate, stylish, and perfectly match the neighbourhood's creative energy.
 
-### Cocktail Bar
+### To More Cocktail Bar
 
-After dinner, head to a [cocktail bar](https://maps.app.goo.gl/Bcmnpmy3DpkPU) tucked into one of Talad Noi's converted shophouses. The vibe is cool, creative, and relaxed—exactly what you'd expect from this neighbourhood.
+After dinner, head to [**To More**](https://www.google.com/maps/place/To+More/@13.7329126,100.514415,19z/data=!4m6!3m5!1s0x30e2997237588ff5:0x38f3e09bf2d231b8!8m2!3d13.732475!4d100.5148213!16s%2Fg%2F11fhz1gn11) tucked into one of Talad Noi's converted shophouses. The vibe is cool, creative, and relaxed—exactly what you'd expect from this neighbourhood.
 
-### Live Music Venue
+### Charmkok Street Kitchen & Bar
 
-For something more lively, there's a [bar with live music](https://maps.app.goo.gl/Xo1gk96RTQ4KM) where local bands play in an intimate setting. It's the perfect way to end the evening—a few cocktails, good music, and the glow of Talad Noi's street lights filtering through the windows.
+For something more lively, there's [**Charmkok Street Kitchen & Bar**](https://www.google.com/maps/place/CHARMKOK+STREET+KITCHEN+%26+BAR/@13.7342559,100.5139406,19z/data=!4m6!3m5!1s0x30e29993286e75fd:0x3af43d7e73484b6!8m2!3d13.7344743!4d100.5139532!16s%2Fg%2F11yc4rzy75) where local bands play in an intimate setting. It's the perfect way to end the evening—a few cocktails, good music, and the glow of Talad Noi's street lights filtering through the windows.
 
 ## Day 2 Morning: One Last Walk
 
@@ -237,14 +237,14 @@ All locations mentioned in this guide with Google Maps links:
 
 | Location | Type | Google Maps |
 |----------|------|-------------|
-| Talad Noi neighbourhood | Area | [Open in Maps](https://maps.app.goo.gl/HTPkbaYzw2yTk) |
-| Transformer Roundabout | Street Art | [Open in Maps](https://maps.app.goo.gl/wYqCGPJhutSFL) |
-| Unforgotten Guesthouse | Accommodation | [Open in Maps](https://maps.app.goo.gl/H4Th3cLeoaNUU) |
-| Horseshoe Shrine | Temple/Viewpoint | [Open in Maps](https://maps.app.goo.gl/VRbcf88wZuHaS) |
-| So Heng Tai House | Historic Building | [Open in Maps](https://maps.app.goo.gl/NNz5FNeHEKe53) |
-| Naam 1608 Restaurant | Dining | [Open in Maps](https://maps.app.goo.gl/5wWzsFfQ3ipUE) |
-| Cocktail Bar | Nightlife | [Open in Maps](https://maps.app.goo.gl/Bcmnpmy3DpkPU) |
-| Live Music Bar | Nightlife | [Open in Maps](https://maps.app.goo.gl/Xo1gk96RTQ4KM) |
+| Talad Noi neighbourhood | Area | [Open in Maps](https://www.google.com/maps/place/Talat+Noi/@13.7345402,100.5125787,17z/data=!4m6!3m5!1s0x30e298d8fa60ba4b:0x1939a188a5933e67!8m2!3d13.7340836!4d100.5121079!16s%2Fg%2F11c2nsy6wd) |
+| Transformer Roundabout | Street Art | [Open in Maps](https://www.google.com/maps/place/Thanon+Khao+Lam+Circle+Talat+Noi+(Optimus+Prime)/@13.7359636,100.5137457,19z/data=!4m6!3m5!1s0x30e2990075e1898d:0x62da48d98f819e7a!8m2!3d13.7361934!4d100.5135516!16s%2Fg%2F11vwrjf91x) |
+| Unforgotten Guesthouse | Accommodation | [Open in Maps](https://www.google.com/maps/place/The+Unforgotten+B%26B/@13.7368531,100.5149527,19z/data=!4m9!3m8!1s0x30e2992714b650fd:0xaa1df77a1b43ddce!5m2!4m1!1i2!8m2!3d13.7368532!4d100.5145323!16s%2Fg%2F11g8_2hdnn) |
+| Horseshoe Shrine | Temple/Viewpoint | [Open in Maps](https://www.google.com/maps/place/Horseshoe+Shrine/@13.7324652,100.5126923,20z/data=!4m6!3m5!1s0x30e298df262e5257:0xf326b7234eaf3d3d!8m2!3d13.7328119!4d100.5121759!16s%2Fg%2F1tf72zgz) |
+| So Heng Tai House | Historic Building | [Open in Maps](https://www.google.com/maps/place/So+Heng+Tai+House/@13.7336713,100.5124264,20z/data=!4m6!3m5!1s0x30e298df3a10d4b9:0x80e581270e92a2e9!8m2!3d13.7336292!4d100.5120163!16s%2Fg%2F11gy24y10p) |
+| Naam 1608 Restaurant | Dining | [Open in Maps](https://www.google.com/maps/place/NAAM+1608/@13.7345402,100.5125787,17z/data=!4m6!3m5!1s0x30e299f6e5600c43:0xadf805595dbb1!8m2!3d13.7360369!4d100.5099487!16s%2Fg%2F11hzmn8v9_) |
+| To More | Nightlife | [Open in Maps](https://www.google.com/maps/place/To+More/@13.7329126,100.514415,19z/data=!4m6!3m5!1s0x30e2997237588ff5:0x38f3e09bf2d231b8!8m2!3d13.732475!4d100.5148213!16s%2Fg%2F11fhz1gn11) |
+| Charmkok Street Kitchen & Bar | Nightlife | [Open in Maps](https://www.google.com/maps/place/CHARMKOK+STREET+KITCHEN+%26+BAR/@13.7342559,100.5139406,19z/data=!4m6!3m5!1s0x30e29993286e75fd:0x3af43d7e73484b6!8m2!3d13.7344743!4d100.5139532!16s%2Fg%2F11yc4rzy75) |
 
 ## Frequently Asked Questions
 
