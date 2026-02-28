@@ -2,6 +2,7 @@ import type { NextApiRequest, NextApiResponse } from "next";
 import { generateBlogPost } from "../../../lib/pipeline/content-generator";
 import { injectAffiliateLinks } from "../../../lib/pipeline/affiliate-injector";
 import { commitFilesToGitHub } from "../../../lib/pipeline/github-commit";
+import { factCheckPost } from "../../../lib/pipeline/fact-checker";
 
 export const config = {
   maxDuration: 300,
@@ -29,10 +30,26 @@ export default async function handler(
 
     console.log(`[cron/generate-blog] Generated: "${post.title}" (slug: ${post.slug})`);
 
-    // 2. Collect files to commit
+    // 2. Fact-check: extract claims and cross-reference against scraped data
+    const factCheck = factCheckPost(post.content, post.scrapeData || null);
+
+    console.log(`[fact-check] "${post.slug}" — ${factCheck.totalClaims} claims, ${factCheck.unverifiedClaims.length} unverified (${factCheck.riskLevel})`);
+    for (const claim of factCheck.unverifiedClaims) {
+      console.warn(`[fact-check]   ⚠ ${claim.type.toUpperCase()}: "${claim.value}"`);
+    }
+
+    // Inject fact-check metadata into frontmatter (before the closing ---)
+    if (factCheck.unverifiedClaims.length > 0) {
+      post.content = post.content.replace(
+        /^(---\s*\n[\s\S]*?)(---)/,
+        `$1factCheck:\n  status: "needs-review"\n  flaggedClaims: ${factCheck.unverifiedClaims.length}\n  riskLevel: "${factCheck.riskLevel}"\n$2`
+      );
+    }
+
+    // 3. Collect files to commit
     const filesToCommit: Array<{ path: string; content: string; encoding?: "utf-8" | "base64" }> = [];
 
-    // 3. Inject affiliate links into English content
+    // 4. Inject affiliate links into English content
     const contentWithAffiliates = injectAffiliateLinks(post.content, {
       inlineLinks: true,
       ctaBoxes: true,
@@ -46,7 +63,7 @@ export default async function handler(
       encoding: "utf-8",
     });
 
-    // 4. Add image file if generated
+    // 5. Add image file if generated
     if (post.imageBase64) {
       filesToCommit.push({
         path: `public/images/blog/${post.slug}.webp`,
@@ -56,7 +73,7 @@ export default async function handler(
       console.log("[cron/generate-blog] Image queued for commit");
     }
 
-    // 5. Commit all files to GitHub
+    // 6. Commit all files to GitHub
     const commitResult = await commitFilesToGitHub(
       filesToCommit,
       `Add blog post: ${post.title}\n\nAuto-generated. Category: ${post.category}`
@@ -69,6 +86,7 @@ export default async function handler(
       slug: post.slug,
       title: post.title,
       category: post.category,
+      factCheck: factCheck.riskLevel,
       commitSha: commitResult.sha,
     });
   } catch (error) {

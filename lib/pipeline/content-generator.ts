@@ -50,6 +50,7 @@ export interface GeneratedPost {
   lastUpdated: string;
   sources: Array<{ name: string; url: string }>;
   content: string; // Full Markdown with frontmatter
+  scrapeData?: string; // Raw scraped reference data for fact-checking
 }
 
 export interface TranslatedPost {
@@ -332,6 +333,11 @@ export async function generateBlogPost(
 
   // 5. Parse the generated Markdown + frontmatter
   const post = parseGeneratedPost(rawResponse, topic, category!);
+
+  // Pass scrape data through for downstream fact-checking
+  if (scrapeData) {
+    post.scrapeData = scrapeData;
+  }
 
   // 6. Generate featured image (base64 stored on post; caller commits via GitHub API)
   if (doImage) {
