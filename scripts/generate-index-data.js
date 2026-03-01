@@ -45,6 +45,18 @@ function nameToSlug(name) {
     .replace(/[^a-z0-9-]/g, '');
 }
 
+/** Map full month name to 3-letter abbreviation */
+const MONTH_ABBREV = {
+  january: 'Jan', february: 'Feb', march: 'Mar', april: 'Apr',
+  may: 'May', june: 'Jun', july: 'Jul', august: 'Aug',
+  september: 'Sep', october: 'Oct', november: 'Nov', december: 'Dec',
+};
+
+/** Map full month name (capitalised) to abbreviation */
+function monthNameToAbbrev(name) {
+  return MONTH_ABBREV[name.toLowerCase()] || name.slice(0, 3);
+}
+
 // ---------------------------------------------------------------------------
 // Budget Parsing
 // ---------------------------------------------------------------------------
@@ -94,56 +106,72 @@ function parseBudgetString(str) {
 
 /**
  * Extract budget data from a city JSON object.
+ * Returns the new spec format with raw strings, currency, and renamed tiers.
+ *
  * Tries multiple data formats found across the 33 city files:
  *   1. budget_info.budget_per_day.en (bilingual string - more city-specific)
  *   2. budget_info.budget (plain string - more city-specific)
  *   3. budgetGuide.budget.{min, max} (structured numeric - often generic $20-40)
  */
 function extractBudget(city) {
-  const result = {
-    budget: null,
-    midrange: null,
-    luxury: null,
-  };
-
   const bg = city.budgetGuide;
   const bi = city.budget_info;
 
+  // Collect raw strings and parsed tiers
+  const raw = { budget: null, mid: null, luxury: null };
+  let tierBudget = null;
+  let tierMid = null;
+  let tierLuxury = null;
+
   // --- Budget tier ---
-  // Prefer budget_info strings (more city-specific) over budgetGuide numerics (often generic)
   if (bi && bi.budget_per_day && bi.budget_per_day.en) {
-    result.budget = parseBudgetString(bi.budget_per_day.en);
+    raw.budget = bi.budget_per_day.en;
+    tierBudget = parseBudgetString(bi.budget_per_day.en);
   } else if (bi && typeof bi.budget === 'string') {
-    result.budget = parseBudgetString(bi.budget);
+    raw.budget = bi.budget;
+    tierBudget = parseBudgetString(bi.budget);
   } else if (bg && bg.budget && typeof bg.budget.min === 'number') {
     const min = bg.budget.min;
     const max = bg.budget.max;
-    result.budget = { min, max, median: Math.round((min + max) / 2) };
+    raw.budget = `$${min}-${max} per day`;
+    tierBudget = { min, max, median: Math.round((min + max) / 2) };
   }
 
   // --- Midrange tier ---
   if (bi && bi.midrange_per_day && bi.midrange_per_day.en) {
-    result.midrange = parseBudgetString(bi.midrange_per_day.en);
+    raw.mid = bi.midrange_per_day.en;
+    tierMid = parseBudgetString(bi.midrange_per_day.en);
   } else if (bi && typeof bi.mid_range === 'string') {
-    result.midrange = parseBudgetString(bi.mid_range);
+    raw.mid = bi.mid_range;
+    tierMid = parseBudgetString(bi.mid_range);
   } else if (bg && bg.midrange && typeof bg.midrange.min === 'number') {
     const min = bg.midrange.min;
     const max = bg.midrange.max;
-    result.midrange = { min, max, median: Math.round((min + max) / 2) };
+    raw.mid = `$${min}-${max} per day`;
+    tierMid = { min, max, median: Math.round((min + max) / 2) };
   }
 
   // --- Luxury tier ---
   if (bi && bi.luxury_per_day && bi.luxury_per_day.en) {
-    result.luxury = parseBudgetString(bi.luxury_per_day.en);
+    raw.luxury = bi.luxury_per_day.en;
+    tierLuxury = parseBudgetString(bi.luxury_per_day.en);
   } else if (bi && typeof bi.luxury === 'string') {
-    result.luxury = parseBudgetString(bi.luxury);
+    raw.luxury = bi.luxury;
+    tierLuxury = parseBudgetString(bi.luxury);
   } else if (bg && bg.luxury && typeof bg.luxury.min === 'number') {
     const min = bg.luxury.min;
     const max = bg.luxury.max;
-    result.luxury = { min, max, median: Math.round((min + max) / 2) };
+    raw.luxury = `$${min}-${max}+ per day`;
+    tierLuxury = { min, max, median: Math.round((min + max) / 2) };
   }
 
-  return result;
+  return {
+    raw,
+    currency: 'USD',
+    tier_budget: tierBudget,
+    tier_mid: tierMid,
+    tier_luxury: tierLuxury,
+  };
 }
 
 // ---------------------------------------------------------------------------
@@ -199,12 +227,17 @@ function rainfallDaysInverse(rainfallDays) {
 }
 
 /**
- * Compute monthly comfort scores for a city's weather data.
- * Returns { monthly: { january: score, ... }, annual_avg: score }
+ * Compute weather scores for a city's weather data.
+ * Returns spec-compliant structure with month_scores, comfort_score,
+ * avg_temp_c, rainfall_score, humidity_score, best_months, raw_best_time_text.
  */
 function computeWeatherScores(weatherData) {
-  const monthly = {};
-  let total = 0;
+  const monthScores = {};
+  let totalComfort = 0;
+  let totalRainfall = 0;
+  let totalHumidity = 0;
+  let totalTemp = 0;
+  let validCount = 0;
 
   // Handle two data formats:
   // Format A: { monthly_weather: { january: { temp_high, temp_low, rainfall_mm, rainfall_days, humidity } } }
@@ -213,8 +246,9 @@ function computeWeatherScores(weatherData) {
 
   for (const month of MONTHS) {
     const raw = monthlySource[month];
+    const abbrev = MONTH_ABBREV[month];
     if (!raw) {
-      monthly[month] = null;
+      monthScores[abbrev] = null;
       continue;
     }
 
@@ -226,7 +260,7 @@ function computeWeatherScores(weatherData) {
     const rainfallDays = raw.rainfall_days ?? raw.rainyDays ?? null;
 
     if (tempHigh === null || tempLow === null) {
-      monthly[month] = null;
+      monthScores[abbrev] = null;
       continue;
     }
 
@@ -239,19 +273,43 @@ function computeWeatherScores(weatherData) {
       (tc * 0.30 + ri * 0.35 + hi * 0.20 + rdi * 0.15).toFixed(3)
     );
 
-    monthly[month] = score;
-    total += score;
+    monthScores[abbrev] = score;
+    totalComfort += score;
+    totalRainfall += ri;
+    totalHumidity += hi;
+    totalTemp += (tempHigh + tempLow) / 2;
+    validCount++;
   }
 
-  const validMonths = Object.values(monthly).filter(v => v !== null).length;
+  const comfortScore = validCount > 0
+    ? parseFloat((totalComfort / validCount).toFixed(3))
+    : null;
+
+  const rainfallScore = validCount > 0
+    ? parseFloat((totalRainfall / validCount).toFixed(3))
+    : null;
+
+  const humidityScore = validCount > 0
+    ? parseFloat((totalHumidity / validCount).toFixed(3))
+    : null;
+
+  const avgTempC = validCount > 0
+    ? parseFloat((totalTemp / validCount).toFixed(1))
+    : null;
+
+  // best_months from source data (full names like "November") -> abbreviations
+  const bestMonthsFull = weatherData.best_months || [];
+  const bestMonths = bestMonthsFull.map(monthNameToAbbrev);
+  const rawBestTimeText = bestMonthsFull.join(', ');
 
   return {
-    monthly,
-    annual_avg: validMonths > 0
-      ? parseFloat((total / validMonths).toFixed(3))
-      : null,
-    best_months: weatherData.best_months || [],
-    avoid_months: weatherData.avoid_months || [],
+    raw_best_time_text: rawBestTimeText,
+    best_months: bestMonths,
+    month_scores: monthScores,
+    avg_temp_c: avgTempC,
+    rainfall_score: rainfallScore,
+    humidity_score: humidityScore,
+    comfort_score: comfortScore,
   };
 }
 
@@ -322,6 +380,46 @@ function computeTransportStats(routes) {
   return result;
 }
 
+/**
+ * Build a Map<slug, route[]> of popular routes per city (up to 5).
+ * Each route entry: { to, duration, modes }
+ * Deduplicates by destination slug per city.
+ */
+function buildTopRoutes(routes) {
+  // cityRoutes: Map<slug, Map<destSlug, routeEntry>>
+  const cityRoutes = new Map();
+
+  function addRoute(citySlug, destSlug, duration, modes) {
+    if (!cityRoutes.has(citySlug)) cityRoutes.set(citySlug, new Map());
+    const destMap = cityRoutes.get(citySlug);
+    if (!destMap.has(destSlug)) {
+      destMap.set(destSlug, { to: destSlug, duration, modes });
+    }
+  }
+
+  for (const route of routes) {
+    if (!route.popular) continue;
+
+    const from = route.from;
+    const to = route.to;
+    const modes = Object.keys(route.duration || {});
+    // Pick first available duration string
+    const duration = modes.length > 0 ? route.duration[modes[0]] : null;
+
+    // Add route from both directions
+    addRoute(from, to, duration, modes);
+    addRoute(to, from, duration, modes);
+  }
+
+  // Convert to arrays, limit to 5 per city
+  const result = new Map();
+  for (const [slug, destMap] of cityRoutes) {
+    result.set(slug, [...destMap.values()].slice(0, 5));
+  }
+
+  return result;
+}
+
 // ---------------------------------------------------------------------------
 // Region Mapping
 // ---------------------------------------------------------------------------
@@ -352,89 +450,115 @@ function buildRegionMap(regions) {
 
 /**
  * Generate parameterised rankings from processed city data.
- * Each ranking is an ordered array of { slug, name, value }.
+ * Each ranking is wrapped with metric metadata and items include rank.
  */
 function generateRankings(cities) {
   const rankings = {};
 
   // Filter to cities with budget data
-  const withBudget = cities.filter(c => c.budget && c.budget.budget && c.budget.budget.median != null);
+  const withBudget = cities.filter(c => c.budget && c.budget.tier_budget && c.budget.tier_budget.median != null);
 
   // Cheapest (lowest budget median)
-  rankings.cheapest = [...withBudget]
-    .sort((a, b) => a.budget.budget.median - b.budget.budget.median)
-    .map(c => ({
+  const cheapestItems = [...withBudget]
+    .sort((a, b) => a.budget.tier_budget.median - b.budget.tier_budget.median)
+    .map((c, i) => ({
       slug: c.slug,
       name: c.name,
-      value: c.budget.budget.median,
-      unit: 'USD/day',
+      value: c.budget.tier_budget.median,
+      rank: i + 1,
     }));
+
+  rankings.cheapest = {
+    metric: 'budget.tier_budget.median',
+    order: 'asc',
+    items: cheapestItems,
+  };
 
   // Most expensive (highest budget median)
-  rankings.most_expensive = [...rankings.cheapest].reverse();
+  const expensiveItems = [...cheapestItems].reverse().map((c, i) => ({
+    ...c,
+    rank: i + 1,
+  }));
 
-  // Best weather overall (highest annual avg comfort score)
-  const withWeather = cities.filter(c => c.weather && c.weather.annual_avg != null);
-  rankings.best_weather_overall = [...withWeather]
-    .sort((a, b) => b.weather.annual_avg - a.weather.annual_avg)
-    .map(c => ({
-      slug: c.slug,
-      name: c.name,
-      value: c.weather.annual_avg,
-      unit: 'comfort_score',
-    }));
+  rankings.most_expensive = {
+    metric: 'budget.tier_budget.median',
+    order: 'desc',
+    items: expensiveItems,
+  };
+
+  // Best weather overall (highest comfort score)
+  const withWeather = cities.filter(c => c.weather && c.weather.comfort_score != null);
+  rankings.best_weather_overall = {
+    metric: 'weather.comfort_score',
+    order: 'desc',
+    items: [...withWeather]
+      .sort((a, b) => b.weather.comfort_score - a.weather.comfort_score)
+      .map((c, i) => ({
+        slug: c.slug,
+        name: c.name,
+        value: c.weather.comfort_score,
+        rank: i + 1,
+      })),
+  };
 
   // Most connected (highest hubness)
   const withTransport = cities.filter(c => c.transport && c.transport.hubness != null);
-  rankings.most_connected = [...withTransport]
-    .sort((a, b) => b.transport.hubness - a.transport.hubness)
-    .map(c => ({
-      slug: c.slug,
-      name: c.name,
-      value: c.transport.hubness,
-      unit: 'hubness_score',
-    }));
+  rankings.most_connected = {
+    metric: 'transport.hubness',
+    order: 'desc',
+    items: [...withTransport]
+      .sort((a, b) => b.transport.hubness - a.transport.hubness)
+      .map((c, i) => ({
+        slug: c.slug,
+        name: c.name,
+        value: c.transport.hubness,
+        rank: i + 1,
+      })),
+  };
 
   // Overall score: composite of budget value, weather, and connectivity
-  // Normalise each dimension 0-1 and weight: budget_value 0.3, weather 0.35, transport 0.35
   const allCities = cities.filter(
-    c => c.budget?.budget?.median != null
+    c => c.budget?.tier_budget?.median != null
   );
 
   // Get ranges for normalisation
-  const budgetMedians = allCities.map(c => c.budget.budget.median).filter(Boolean);
+  const budgetMedians = allCities.map(c => c.budget.tier_budget.median).filter(Boolean);
   const budgetMin = Math.min(...budgetMedians);
   const budgetMax = Math.max(...budgetMedians);
   const budgetRange = budgetMax - budgetMin || 1;
 
-  rankings.overall = allCities
-    .map(c => {
-      // Budget value: cheaper = better, normalise inverted
-      const budgetScore = 1 - ((c.budget.budget.median - budgetMin) / budgetRange);
+  rankings.overall = {
+    metric: 'scores.overall_score',
+    order: 'desc',
+    items: allCities
+      .map(c => {
+        // Budget value: cheaper = better, normalise inverted
+        const budgetScore = 1 - ((c.budget.tier_budget.median - budgetMin) / budgetRange);
 
-      // Weather: use annual_avg if available, else 0.5 (neutral)
-      const weatherScore = c.weather?.annual_avg ?? 0.5;
+        // Weather: use comfort_score if available, else 0.5 (neutral)
+        const weatherScore = c.weather?.comfort_score ?? 0.5;
 
-      // Transport: hubness if available, else 0.1 (low)
-      const transportScore = c.transport?.hubness ?? 0.1;
+        // Transport: hubness if available, else 0.1 (low)
+        const transportScore = c.transport?.hubness ?? 0.1;
 
-      const overall = parseFloat(
-        (budgetScore * 0.3 + weatherScore * 0.35 + transportScore * 0.35).toFixed(3)
-      );
+        const overall = parseFloat(
+          (budgetScore * 0.3 + weatherScore * 0.35 + transportScore * 0.35).toFixed(3)
+        );
 
-      return {
-        slug: c.slug,
-        name: c.name,
-        value: overall,
-        unit: 'overall_score',
-        breakdown: {
-          budget_value: parseFloat(budgetScore.toFixed(3)),
-          weather: parseFloat(weatherScore.toFixed(3)),
-          transport: parseFloat(transportScore.toFixed(3)),
-        },
-      };
-    })
-    .sort((a, b) => b.value - a.value);
+        return {
+          slug: c.slug,
+          name: c.name,
+          value: overall,
+          breakdown: {
+            budget_value: parseFloat(budgetScore.toFixed(3)),
+            weather: parseFloat(weatherScore.toFixed(3)),
+            transport: parseFloat(transportScore.toFixed(3)),
+          },
+        };
+      })
+      .sort((a, b) => b.value - a.value)
+      .map((c, i) => ({ ...c, rank: i + 1 })),
+  };
 
   return rankings;
 }
@@ -454,6 +578,7 @@ function main() {
   // 2. Build lookup maps
   const regionMap = buildRegionMap(regionsData);
   const transportStats = computeTransportStats(transportData.routes);
+  const topRoutesMap = buildTopRoutes(transportData.routes);
 
   // 3. Process each city
   const cityFiles = fs.readdirSync(ENHANCED_DIR)
@@ -475,23 +600,78 @@ function main() {
     const city = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
     const slug = city.slug || file.replace('.json', '');
 
-    // Budget
+    // Image (Fix 1)
+    const image = city.image || null;
+
+    // Budget (Fix 4: new structure with raw, currency, tier_budget/tier_mid/tier_luxury)
     const budget = extractBudget(city);
 
-    // Weather
+    // Weather (Fix 5: new structure with month_scores, comfort_score, avg_temp_c, etc.)
     const weather = weatherData[slug]
       ? computeWeatherScores(weatherData[slug])
       : null;
 
-    // Transport
-    const transport = transportStats.get(slug) || null;
-    // Remove hubness_raw from output (internal only)
-    if (transport) {
-      delete transport.hubness_raw;
+    // Transport (Fix 7: add top_routes)
+    const transportRaw = transportStats.get(slug) || null;
+    let transport = null;
+    if (transportRaw) {
+      transport = {
+        connections: transportRaw.connections,
+        unique_destinations: transportRaw.unique_destinations,
+        popular_routes: transportRaw.popular_routes,
+        hubness: transportRaw.hubness,
+        top_routes: topRoutesMap.get(slug) || [],
+      };
     }
 
     // Region
     const region = regionMap.get(slug) || null;
+
+    // Scores (Fix 2)
+    const budgetMedian = budget.tier_budget?.median ?? null;
+    const budgetScore = budgetMedian != null
+      ? Math.round(Math.max(0, 1 - budgetMedian / 80) * 100) / 100
+      : null;
+    const weatherScore = weather?.comfort_score ?? null;
+    const transportScore = transport?.hubness ?? null;
+
+    let overallScore = null;
+    if (budgetScore != null && weatherScore != null && transportScore != null) {
+      overallScore = parseFloat(
+        (budgetScore * 0.35 + weatherScore * 0.35 + transportScore * 0.3).toFixed(2)
+      );
+    } else if (budgetScore != null) {
+      // Partial: use available scores with defaults
+      const ws = weatherScore ?? 0.5;
+      const ts = transportScore ?? 0.1;
+      overallScore = parseFloat(
+        (budgetScore * 0.35 + ws * 0.35 + ts * 0.3).toFixed(2)
+      );
+    }
+
+    const scores = {
+      budget_score: budgetScore,
+      weather_score: weatherScore,
+      transport_score: transportScore,
+      overall_score: overallScore,
+    };
+
+    // Score components (Fix 3)
+    const bestMonthCount = weather?.best_months?.length ?? 0;
+    const scoreComponents = {
+      budget: {
+        tier_budget_median_usd: budgetMedian,
+        normalized: budgetScore,
+      },
+      weather: {
+        comfort_score: weatherScore,
+        best_month_count: bestMonthCount,
+      },
+      transport: {
+        hubness: transportScore,
+        popular_count: transport?.popular_routes ?? 0,
+      },
+    };
 
     // Track source hash
     sourceHashes[`city:${slug}`] = fileHash(filePath);
@@ -499,11 +679,14 @@ function main() {
     const entry = {
       slug,
       name: city.name || { en: slug, nl: slug },
+      image,
       region: region
         ? { slug: region.region_slug, name: region.region_name }
         : null,
       location: city.location || null,
       population: city.population || null,
+      scores,
+      score_components: scoreComponents,
       budget,
       weather,
       transport,
@@ -512,11 +695,11 @@ function main() {
     cities.push(entry);
 
     // Log processing
-    const budgetStr = budget.budget
-      ? `$${budget.budget.min}-${budget.budget.max ?? '?'}/day (median: $${budget.budget.median})`
+    const budgetStr = budget.tier_budget
+      ? `$${budget.tier_budget.min}-${budget.tier_budget.max ?? '?'}/day (median: $${budget.tier_budget.median})`
       : 'no budget data';
     const weatherStr = weather
-      ? `annual avg: ${weather.annual_avg}`
+      ? `comfort: ${weather.comfort_score}`
       : 'no weather data';
     const transportStr = transport
       ? `hubness: ${transport.hubness}`
@@ -526,18 +709,18 @@ function main() {
     console.log(`  ${slug}: ${budgetStr} | ${weatherStr} | ${transportStr} | region: ${regionStr}`);
   }
 
-  // 4. Generate rankings
+  // 4. Generate rankings (Fix 6: wrapped with metadata)
   console.log('\nGenerating rankings...');
   const rankings = generateRankings(cities);
 
   // Log top entries
-  console.log(`  Cheapest:        ${rankings.cheapest.slice(0, 3).map(c => `${c.name.en} ($${c.value})`).join(', ')}`);
-  console.log(`  Most expensive:  ${rankings.most_expensive.slice(0, 3).map(c => `${c.name.en} ($${c.value})`).join(', ')}`);
-  if (rankings.best_weather_overall.length > 0) {
-    console.log(`  Best weather:    ${rankings.best_weather_overall.slice(0, 3).map(c => `${c.name.en} (${c.value})`).join(', ')}`);
+  console.log(`  Cheapest:        ${rankings.cheapest.items.slice(0, 3).map(c => `${c.name.en} ($${c.value})`).join(', ')}`);
+  console.log(`  Most expensive:  ${rankings.most_expensive.items.slice(0, 3).map(c => `${c.name.en} ($${c.value})`).join(', ')}`);
+  if (rankings.best_weather_overall.items.length > 0) {
+    console.log(`  Best weather:    ${rankings.best_weather_overall.items.slice(0, 3).map(c => `${c.name.en} (${c.value})`).join(', ')}`);
   }
-  console.log(`  Most connected:  ${rankings.most_connected.slice(0, 3).map(c => `${c.name.en} (${c.value})`).join(', ')}`);
-  console.log(`  Overall best:    ${rankings.overall.slice(0, 3).map(c => `${c.name.en} (${c.value})`).join(', ')}`);
+  console.log(`  Most connected:  ${rankings.most_connected.items.slice(0, 3).map(c => `${c.name.en} (${c.value})`).join(', ')}`);
+  console.log(`  Overall best:    ${rankings.overall.items.slice(0, 3).map(c => `${c.name.en} (${c.value})`).join(', ')}`);
 
   // 5. Build output
   const output = {
