@@ -17,7 +17,7 @@
     "generate:feed": "node lib/generate-feed.js",
     "data:verify": "node lib/verify-data.js",
     "data:index": "node scripts/generate-index-data.js",
-    "data:generate": "npm run data:cities && npm run data:attractions && npm run data:food && npm run data:enhance-cities && npm run data:enhance-attractions && npm run data:sitemap && npm run generate:feed",
+    "data:generate": "npm run data:cities && npm run data:attractions && npm run data:food && npm run data:enhance-cities && npm run data:enhance-attractions && npm run data:index && npm run data:sitemap && npm run generate:feed",
     "data:generate-quick": "npm run data:cities && npm run data:attractions && npm run data:food && npm run data:sitemap && npm run generate:feed",
     "prebuild": "npm run data:generate",
     "prebuild-quick": "npm run data:generate-quick",
