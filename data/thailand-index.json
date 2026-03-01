@@ -1,0 +1,3165 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-01T21:52:09.340Z",
+    "city_count": 33,
+    "data_version": "1.0.0",
+    "source_hashes": {
+      "weather": "613665b18ba3",
+      "transport": "2614f3451309",
+      "regions": "2e23cfc4f090",
+      "city:ayutthaya": "ec7e3415aec2",
+      "city:bangkok": "b73fccdc4f50",
+      "city:bueng-kan": "4b14aed7ffaf",
+      "city:chanthaburi": "000de51e7b7a",
+      "city:chiang-khan": "96f0bd44d55b",
+      "city:chiang-mai": "5802c6e31cf0",
+      "city:chiang-rai": "9891bd018be5",
+      "city:chumphon": "8a09e8eab93a",
+      "city:hat-yai": "d0fd63a6079f",
+      "city:hua-hin": "d8973081cfd6",
+      "city:kanchanaburi": "07152fdf1b9d",
+      "city:khon-kaen": "c03af55f2707",
+      "city:koh-samui": "2c0f04500c71",
+      "city:krabi": "951b7155578a",
+      "city:lampang": "18a78eafad6b",
+      "city:lopburi": "693cd5d5216a",
+      "city:mae-hong-son": "74b9c42081cf",
+      "city:mukdahan": "084da4e50870",
+      "city:nakhon-phanom": "7fef9bea5aad",
+      "city:nakhon-ratchasima": "4c63ae4a9421",
+      "city:nakhon-si-thammarat": "85dba16bde8e",
+      "city:nong-khai": "10428a776213",
+      "city:pai": "83ec08988174",
+      "city:pattaya": "127d2a5f4369",
+      "city:phitsanulok": "80fcc5e45af5",
+      "city:phuket": "1743bed90f90",
+      "city:rayong": "f6586af852e6",
+      "city:sukhothai": "6efeba5e3617",
+      "city:surat-thani": "027e9ed235bf",
+      "city:trang": "d71f7e12f021",
+      "city:trat": "d5b688ea8d5e",
+      "city:ubon-ratchathani": "f89f5f978aa7",
+      "city:udon-thani": "52c29fad3d92"
+    },
+    "weather_coverage": 10,
+    "transport_routes_count": 245,
+    "regions_count": 4
+  },
+  "cities": [
+    {
+      "slug": "ayutthaya",
+      "name": {
+        "en": "Ayutthaya",
+        "nl": "Ayutthaya"
+      },
+      "region": {
+        "slug": "central",
+        "name": {
+          "en": "Central Thailand",
+          "nl": "Centraal-Thailand"
+        }
+      },
+      "location": {
+        "lat": 14.3532,
+        "lng": 100.5689
+      },
+      "population": 52000,
+      "budget": {
+        "budget": {
+          "min": 30,
+          "max": 50,
+          "median": 40
+        },
+        "midrange": {
+          "min": 50,
+          "max": 100,
+          "median": 75
+        },
+        "luxury": {
+          "min": 100,
+          "max": null,
+          "median": 150
+        }
+      },
+      "weather": {
+        "monthly": {
+          "january": 0.812,
+          "february": 0.769,
+          "march": 0.68,
+          "april": 0.607,
+          "may": 0.487,
+          "june": 0.535,
+          "july": 0.515,
+          "august": 0.506,
+          "september": 0.44,
+          "october": 0.531,
+          "november": 0.799,
+          "december": 0.83
+        },
+        "annual_avg": 0.626,
+        "best_months": [],
+        "avoid_months": []
+      },
+      "transport": {
+        "connections": 22,
+        "popular_routes": 12,
+        "unique_destinations": 11,
+        "hubness": 0.464
+      }
+    },
+    {
+      "slug": "bangkok",
+      "name": {
+        "en": "Bangkok",
+        "nl": "Bangkok"
+      },
+      "region": {
+        "slug": "central",
+        "name": {
+          "en": "Central Thailand",
+          "nl": "Centraal-Thailand"
+        }
+      },
+      "location": {
+        "lat": 13.7563,
+        "lng": 100.5018
+      },
+      "population": 10539000,
+      "budget": {
+        "budget": {
+          "min": 30,
+          "max": 50,
+          "median": 40
+        },
+        "midrange": {
+          "min": 50,
+          "max": 100,
+          "median": 75
+        },
+        "luxury": {
+          "min": 100,
+          "max": null,
+          "median": 150
+        }
+      },
+      "weather": {
+        "monthly": {
+          "january": 0.832,
+          "february": 0.78,
+          "march": 0.689,
+          "april": 0.591,
+          "may": 0.414,
+          "june": 0.479,
+          "july": 0.463,
+          "august": 0.435,
+          "september": 0.393,
+          "october": 0.442,
+          "november": 0.765,
+          "december": 0.847
+        },
+        "annual_avg": 0.594,
+        "best_months": [
+          "November",
+          "December",
+          "January",
+          "February"
+        ],
+        "avoid_months": [
+          "April",
+          "September"
+        ]
+      },
+      "transport": {
+        "connections": 47,
+        "popular_routes": 20,
+        "unique_destinations": 32,
+        "hubness": 1
+      }
+    },
+    {
+      "slug": "bueng-kan",
+      "name": {
+        "en": "Bueng Kan",
+        "nl": "Bueng Kan"
+      },
+      "region": null,
+      "location": {
+        "lat": 18.3609,
+        "lng": 103.6466
+      },
+      "population": 42000,
+      "budget": {
+        "budget": {
+          "min": 12,
+          "max": 25,
+          "median": 19
+        },
+        "midrange": {
+          "min": 25,
+          "max": 50,
+          "median": 38
+        },
+        "luxury": {
+          "min": 50,
+          "max": 80,
+          "median": 65
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 7,
+        "popular_routes": 0,
+        "unique_destinations": 7,
+        "hubness": 0.132
+      }
+    },
+    {
+      "slug": "chanthaburi",
+      "name": {
+        "en": "Chanthaburi",
+        "nl": "Chanthaburi"
+      },
+      "region": {
+        "slug": "central",
+        "name": {
+          "en": "Central Thailand",
+          "nl": "Centraal-Thailand"
+        }
+      },
+      "location": {
+        "lat": 12.6113,
+        "lng": 102.1032
+      },
+      "population": 75000,
+      "budget": {
+        "budget": {
+          "min": 15,
+          "max": 25,
+          "median": 20
+        },
+        "midrange": {
+          "min": 35,
+          "max": 60,
+          "median": 48
+        },
+        "luxury": {
+          "min": 80,
+          "max": null,
+          "median": 120
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 12,
+        "popular_routes": 0,
+        "unique_destinations": 8,
+        "hubness": 0.189
+      }
+    },
+    {
+      "slug": "chiang-khan",
+      "name": {
+        "en": "Chiang Khan",
+        "nl": "Chiang Khan"
+      },
+      "region": null,
+      "location": {
+        "lat": 17.8944,
+        "lng": 101.6639
+      },
+      "population": 42000,
+      "budget": {
+        "budget": {
+          "min": 15,
+          "max": 30,
+          "median": 23
+        },
+        "midrange": {
+          "min": 30,
+          "max": 60,
+          "median": 45
+        },
+        "luxury": {
+          "min": 60,
+          "max": 120,
+          "median": 90
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 12,
+        "popular_routes": 0,
+        "unique_destinations": 10,
+        "hubness": 0.208
+      }
+    },
+    {
+      "slug": "chiang-mai",
+      "name": {
+        "en": "Chiang Mai",
+        "nl": "Chiang Mai"
+      },
+      "region": {
+        "slug": "northern",
+        "name": {
+          "en": "Northern Thailand",
+          "nl": "Noord-Thailand"
+        }
+      },
+      "location": {
+        "lat": 18.7883,
+        "lng": 98.9853
+      },
+      "population": 127000,
+      "budget": {
+        "budget": {
+          "min": 30,
+          "max": 50,
+          "median": 40
+        },
+        "midrange": {
+          "min": 50,
+          "max": 100,
+          "median": 75
+        },
+        "luxury": {
+          "min": 100,
+          "max": null,
+          "median": 150
+        }
+      },
+      "weather": {
+        "monthly": {
+          "january": 0.819,
+          "february": 0.808,
+          "march": 0.774,
+          "april": 0.696,
+          "may": 0.52,
+          "june": 0.548,
+          "july": 0.512,
+          "august": 0.44,
+          "september": 0.435,
+          "october": 0.612,
+          "november": 0.787,
+          "december": 0.814
+        },
+        "annual_avg": 0.647,
+        "best_months": [
+          "November",
+          "December",
+          "January",
+          "February"
+        ],
+        "avoid_months": [
+          "March",
+          "April",
+          "September"
+        ]
+      },
+      "transport": {
+        "connections": 34,
+        "popular_routes": 19,
+        "unique_destinations": 17,
+        "hubness": 0.722
+      }
+    },
+    {
+      "slug": "chiang-rai",
+      "name": {
+        "en": "Chiang Rai",
+        "nl": "Chiang Rai"
+      },
+      "region": {
+        "slug": "northern",
+        "name": {
+          "en": "Northern Thailand",
+          "nl": "Noord-Thailand"
+        }
+      },
+      "location": {
+        "lat": 19.9105,
+        "lng": 99.8406
+      },
+      "population": 200000,
+      "budget": {
+        "budget": {
+          "min": 30,
+          "max": 50,
+          "median": 40
+        },
+        "midrange": {
+          "min": 50,
+          "max": 100,
+          "median": 75
+        },
+        "luxury": {
+          "min": 100,
+          "max": null,
+          "median": 150
+        }
+      },
+      "weather": {
+        "monthly": {
+          "january": 0.778,
+          "february": 0.767,
+          "march": 0.728,
+          "april": 0.661,
+          "may": 0.488,
+          "june": 0.507,
+          "july": 0.469,
+          "august": 0.382,
+          "september": 0.461,
+          "october": 0.627,
+          "november": 0.759,
+          "december": 0.788
+        },
+        "annual_avg": 0.618,
+        "best_months": [],
+        "avoid_months": []
+      },
+      "transport": {
+        "connections": 14,
+        "popular_routes": 8,
+        "unique_destinations": 7,
+        "hubness": 0.3
+      }
+    },
+    {
+      "slug": "chumphon",
+      "name": {
+        "en": "Chumphon",
+        "nl": "Chumphon"
+      },
+      "region": {
+        "slug": "southern",
+        "name": {
+          "en": "Southern Thailand",
+          "nl": "Zuid-Thailand"
+        }
+      },
+      "location": {
+        "lat": 10.493,
+        "lng": 99.18
+      },
+      "population": 34000,
+      "budget": {
+        "budget": {
+          "min": 15,
+          "max": 25,
+          "median": 20
+        },
+        "midrange": {
+          "min": 35,
+          "max": 60,
+          "median": 48
+        },
+        "luxury": {
+          "min": 100,
+          "max": null,
+          "median": 150
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 10,
+        "popular_routes": 0,
+        "unique_destinations": 7,
+        "hubness": 0.161
+      }
+    },
+    {
+      "slug": "hat-yai",
+      "name": {
+        "en": "Hat Yai",
+        "nl": "Hat Yai"
+      },
+      "region": {
+        "slug": "southern",
+        "name": {
+          "en": "Southern Thailand",
+          "nl": "Zuid-Thailand"
+        }
+      },
+      "location": {
+        "lat": 7.0086,
+        "lng": 100.4747
+      },
+      "population": 157000,
+      "budget": {
+        "budget": {
+          "min": 30,
+          "max": 50,
+          "median": 40
+        },
+        "midrange": {
+          "min": 50,
+          "max": 100,
+          "median": 75
+        },
+        "luxury": {
+          "min": 100,
+          "max": null,
+          "median": 150
+        }
+      },
+      "weather": {
+        "monthly": {
+          "january": 0.723,
+          "february": 0.752,
+          "march": 0.644,
+          "april": 0.576,
+          "may": 0.509,
+          "june": 0.548,
+          "july": 0.533,
+          "august": 0.518,
+          "september": 0.498,
+          "october": 0.416,
+          "november": 0.484,
+          "december": 0.621
+        },
+        "annual_avg": 0.569,
+        "best_months": [],
+        "avoid_months": []
+      },
+      "transport": {
+        "connections": 10,
+        "popular_routes": 0,
+        "unique_destinations": 7,
+        "hubness": 0.161
+      }
+    },
+    {
+      "slug": "hua-hin",
+      "name": {
+        "en": "Hua Hin",
+        "nl": "Hua Hin"
+      },
+      "region": {
+        "slug": "central",
+        "name": {
+          "en": "Central Thailand",
+          "nl": "Centraal-Thailand"
+        }
+      },
+      "location": {
+        "lat": 12.5684,
+        "lng": 99.9577
+      },
+      "population": 86000,
+      "budget": {
+        "budget": {
+          "min": 25,
+          "max": 40,
+          "median": 33
+        },
+        "midrange": {
+          "min": 60,
+          "max": 100,
+          "median": 80
+        },
+        "luxury": {
+          "min": 200,
+          "max": null,
+          "median": 300
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 24,
+        "popular_routes": 14,
+        "unique_destinations": 12,
+        "hubness": 0.517
+      }
+    },
+    {
+      "slug": "kanchanaburi",
+      "name": {
+        "en": "Kanchanaburi",
+        "nl": "Kanchanaburi"
+      },
+      "region": {
+        "slug": "central",
+        "name": {
+          "en": "Central Thailand",
+          "nl": "Centraal-Thailand"
+        }
+      },
+      "location": {
+        "lat": 14.0223,
+        "lng": 99.5328
+      },
+      "population": 63000,
+      "budget": {
+        "budget": {
+          "min": 20,
+          "max": 35,
+          "median": 28
+        },
+        "midrange": {
+          "min": 50,
+          "max": 80,
+          "median": 65
+        },
+        "luxury": {
+          "min": 150,
+          "max": null,
+          "median": 225
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 18,
+        "popular_routes": 12,
+        "unique_destinations": 9,
+        "hubness": 0.407
+      }
+    },
+    {
+      "slug": "khon-kaen",
+      "name": {
+        "en": "Khon Kaen",
+        "nl": "Khon Kaen"
+      },
+      "region": {
+        "slug": "isaan",
+        "name": {
+          "en": "Isaan (Northeast Thailand)",
+          "nl": "Isaan (Noordoost-Thailand)"
+        }
+      },
+      "location": {
+        "lat": 16.4322,
+        "lng": 102.8236
+      },
+      "population": 400000,
+      "budget": {
+        "budget": {
+          "min": 20,
+          "max": 30,
+          "median": 25
+        },
+        "midrange": {
+          "min": 50,
+          "max": 80,
+          "median": 65
+        },
+        "luxury": {
+          "min": 150,
+          "max": null,
+          "median": 225
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 13,
+        "popular_routes": 0,
+        "unique_destinations": 12,
+        "hubness": 0.237
+      }
+    },
+    {
+      "slug": "koh-samui",
+      "name": {
+        "en": "Koh Samui",
+        "nl": "Koh Samui"
+      },
+      "region": {
+        "slug": "southern",
+        "name": {
+          "en": "Southern Thailand",
+          "nl": "Zuid-Thailand"
+        }
+      },
+      "location": {
+        "lat": 9.512,
+        "lng": 100.0136
+      },
+      "population": 63000,
+      "budget": {
+        "budget": {
+          "min": 25,
+          "max": 40,
+          "median": 33
+        },
+        "midrange": {
+          "min": 60,
+          "max": 120,
+          "median": 90
+        },
+        "luxury": {
+          "min": 200,
+          "max": null,
+          "median": 300
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 18,
+        "popular_routes": 8,
+        "unique_destinations": 9,
+        "hubness": 0.356
+      }
+    },
+    {
+      "slug": "krabi",
+      "name": {
+        "en": "Krabi",
+        "nl": "Krabi"
+      },
+      "region": {
+        "slug": "southern",
+        "name": {
+          "en": "Southern Thailand",
+          "nl": "Zuid-Thailand"
+        }
+      },
+      "location": {
+        "lat": 8.0863,
+        "lng": 98.9063
+      },
+      "population": 36000,
+      "budget": {
+        "budget": {
+          "min": 30,
+          "max": 50,
+          "median": 40
+        },
+        "midrange": {
+          "min": 50,
+          "max": 100,
+          "median": 75
+        },
+        "luxury": {
+          "min": 100,
+          "max": null,
+          "median": 150
+        }
+      },
+      "weather": {
+        "monthly": {
+          "january": 0.741,
+          "february": 0.747,
+          "march": 0.68,
+          "april": 0.555,
+          "may": 0.401,
+          "june": 0.457,
+          "july": 0.433,
+          "august": 0.401,
+          "september": 0.332,
+          "october": 0.381,
+          "november": 0.574,
+          "december": 0.702
+        },
+        "annual_avg": 0.534,
+        "best_months": [],
+        "avoid_months": []
+      },
+      "transport": {
+        "connections": 22,
+        "popular_routes": 12,
+        "unique_destinations": 11,
+        "hubness": 0.464
+      }
+    },
+    {
+      "slug": "lampang",
+      "name": {
+        "en": "Lampang",
+        "nl": "Lampang"
+      },
+      "region": {
+        "slug": "northern",
+        "name": {
+          "en": "Northern Thailand",
+          "nl": "Noord-Thailand"
+        }
+      },
+      "location": {
+        "lat": 18.2888,
+        "lng": 99.4987
+      },
+      "population": 59000,
+      "budget": {
+        "budget": {
+          "min": 15,
+          "max": 25,
+          "median": 20
+        },
+        "midrange": {
+          "min": 40,
+          "max": 70,
+          "median": 55
+        },
+        "luxury": {
+          "min": 100,
+          "max": null,
+          "median": 150
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 11,
+        "popular_routes": 0,
+        "unique_destinations": 8,
+        "hubness": 0.18
+      }
+    },
+    {
+      "slug": "lopburi",
+      "name": {
+        "en": "Lopburi",
+        "nl": "Lopburi"
+      },
+      "region": {
+        "slug": "central",
+        "name": {
+          "en": "Central Thailand",
+          "nl": "Centraal-Thailand"
+        }
+      },
+      "location": {
+        "lat": 14.7995,
+        "lng": 100.6534
+      },
+      "population": 58000,
+      "budget": {
+        "budget": {
+          "min": 15,
+          "max": 25,
+          "median": 20
+        },
+        "midrange": {
+          "min": 35,
+          "max": 60,
+          "median": 48
+        },
+        "luxury": {
+          "min": 80,
+          "max": null,
+          "median": 120
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 16,
+        "popular_routes": 0,
+        "unique_destinations": 11,
+        "hubness": 0.256
+      }
+    },
+    {
+      "slug": "mae-hong-son",
+      "name": {
+        "en": "Mae Hong Son",
+        "nl": "Mae Hong Son"
+      },
+      "region": {
+        "slug": "northern",
+        "name": {
+          "en": "Northern Thailand",
+          "nl": "Noord-Thailand"
+        }
+      },
+      "location": {
+        "lat": 19.299,
+        "lng": 97.9684
+      },
+      "population": 10000,
+      "budget": {
+        "budget": {
+          "min": 15,
+          "max": 25,
+          "median": 20
+        },
+        "midrange": {
+          "min": 40,
+          "max": 70,
+          "median": 55
+        },
+        "luxury": {
+          "min": 100,
+          "max": null,
+          "median": 150
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 8,
+        "popular_routes": 0,
+        "unique_destinations": 5,
+        "hubness": 0.123
+      }
+    },
+    {
+      "slug": "mukdahan",
+      "name": {
+        "en": "Mukdahan",
+        "nl": "Mukdahan"
+      },
+      "region": null,
+      "location": {
+        "lat": 16.5425,
+        "lng": 104.7235
+      },
+      "population": 35000,
+      "budget": {
+        "budget": {
+          "min": 15,
+          "max": 25,
+          "median": 20
+        },
+        "midrange": {
+          "min": 25,
+          "max": 50,
+          "median": 38
+        },
+        "luxury": {
+          "min": 50,
+          "max": 100,
+          "median": 75
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 7,
+        "popular_routes": 0,
+        "unique_destinations": 7,
+        "hubness": 0.132
+      }
+    },
+    {
+      "slug": "nakhon-phanom",
+      "name": {
+        "en": "Nakhon Phanom",
+        "nl": "Nakhon Phanom"
+      },
+      "region": null,
+      "location": {
+        "lat": 17.3947,
+        "lng": 104.7698
+      },
+      "population": 80000,
+      "budget": {
+        "budget": {
+          "min": 15,
+          "max": 25,
+          "median": 20
+        },
+        "midrange": {
+          "min": 30,
+          "max": 60,
+          "median": 45
+        },
+        "luxury": {
+          "min": 60,
+          "max": 100,
+          "median": 80
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 7,
+        "popular_routes": 0,
+        "unique_destinations": 7,
+        "hubness": 0.132
+      }
+    },
+    {
+      "slug": "nakhon-ratchasima",
+      "name": {
+        "en": "Nakhon Ratchasima (Korat)",
+        "nl": "Nakhon Ratchasima (Korat)"
+      },
+      "region": {
+        "slug": "isaan",
+        "name": {
+          "en": "Isaan (Northeast Thailand)",
+          "nl": "Isaan (Noordoost-Thailand)"
+        }
+      },
+      "location": {
+        "lat": 14.9799,
+        "lng": 102.0978
+      },
+      "population": 460000,
+      "budget": {
+        "budget": {
+          "min": 20,
+          "max": 30,
+          "median": 25
+        },
+        "midrange": {
+          "min": 50,
+          "max": 80,
+          "median": 65
+        },
+        "luxury": {
+          "min": 150,
+          "max": null,
+          "median": 225
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 15,
+        "popular_routes": 0,
+        "unique_destinations": 11,
+        "hubness": 0.246
+      }
+    },
+    {
+      "slug": "nakhon-si-thammarat",
+      "name": {
+        "en": "Nakhon Si Thammarat",
+        "nl": "Nakhon Si Thammarat"
+      },
+      "region": {
+        "slug": "southern",
+        "name": {
+          "en": "Southern Thailand",
+          "nl": "Zuid-Thailand"
+        }
+      },
+      "location": {
+        "lat": 8.4304,
+        "lng": 99.9631
+      },
+      "population": 105000,
+      "budget": {
+        "budget": {
+          "min": 15,
+          "max": 25,
+          "median": 20
+        },
+        "midrange": {
+          "min": 35,
+          "max": 60,
+          "median": 48
+        },
+        "luxury": {
+          "min": 80,
+          "max": null,
+          "median": 120
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 11,
+        "popular_routes": 0,
+        "unique_destinations": 8,
+        "hubness": 0.18
+      }
+    },
+    {
+      "slug": "nong-khai",
+      "name": {
+        "en": "Nong Khai",
+        "nl": "Nong Khai"
+      },
+      "region": null,
+      "location": {
+        "lat": 17.8783,
+        "lng": 102.745
+      },
+      "population": 80000,
+      "budget": {
+        "budget": {
+          "min": 12,
+          "max": 25,
+          "median": 19
+        },
+        "midrange": {
+          "min": 25,
+          "max": 50,
+          "median": 38
+        },
+        "luxury": {
+          "min": 50,
+          "max": 100,
+          "median": 75
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 8,
+        "popular_routes": 0,
+        "unique_destinations": 8,
+        "hubness": 0.151
+      }
+    },
+    {
+      "slug": "pai",
+      "name": {
+        "en": "Pai",
+        "nl": "Pai"
+      },
+      "region": {
+        "slug": "northern",
+        "name": {
+          "en": "Northern Thailand",
+          "nl": "Noord-Thailand"
+        }
+      },
+      "location": {
+        "lat": 19.3622,
+        "lng": 98.4406
+      },
+      "population": 2200,
+      "budget": {
+        "budget": {
+          "min": 15,
+          "max": 25,
+          "median": 20
+        },
+        "midrange": {
+          "min": 40,
+          "max": 70,
+          "median": 55
+        },
+        "luxury": {
+          "min": 120,
+          "max": null,
+          "median": 180
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 12,
+        "popular_routes": 6,
+        "unique_destinations": 6,
+        "hubness": 0.246
+      }
+    },
+    {
+      "slug": "pattaya",
+      "name": {
+        "en": "Pattaya",
+        "nl": "Pattaya"
+      },
+      "region": {
+        "slug": "central",
+        "name": {
+          "en": "Central Thailand",
+          "nl": "Centraal-Thailand"
+        }
+      },
+      "location": {
+        "lat": 12.9236,
+        "lng": 100.8825
+      },
+      "population": 119000,
+      "budget": {
+        "budget": {
+          "min": 30,
+          "max": 50,
+          "median": 40
+        },
+        "midrange": {
+          "min": 50,
+          "max": 100,
+          "median": 75
+        },
+        "luxury": {
+          "min": 100,
+          "max": null,
+          "median": 150
+        }
+      },
+      "weather": {
+        "monthly": {
+          "january": 0.816,
+          "february": 0.784,
+          "march": 0.698,
+          "april": 0.641,
+          "may": 0.513,
+          "june": 0.561,
+          "july": 0.561,
+          "august": 0.524,
+          "september": 0.448,
+          "october": 0.457,
+          "november": 0.69,
+          "december": 0.811
+        },
+        "annual_avg": 0.625,
+        "best_months": [],
+        "avoid_months": []
+      },
+      "transport": {
+        "connections": 24,
+        "popular_routes": 12,
+        "unique_destinations": 12,
+        "hubness": 0.492
+      }
+    },
+    {
+      "slug": "phitsanulok",
+      "name": {
+        "en": "Phitsanulok",
+        "nl": "Phitsanulok"
+      },
+      "region": {
+        "slug": "central",
+        "name": {
+          "en": "Central Thailand",
+          "nl": "Centraal-Thailand"
+        }
+      },
+      "location": {
+        "lat": 16.8211,
+        "lng": 100.2659
+      },
+      "population": 84000,
+      "budget": {
+        "budget": {
+          "min": 15,
+          "max": 25,
+          "median": 20
+        },
+        "midrange": {
+          "min": 40,
+          "max": 70,
+          "median": 55
+        },
+        "luxury": {
+          "min": 100,
+          "max": null,
+          "median": 150
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 13,
+        "popular_routes": 0,
+        "unique_destinations": 11,
+        "hubness": 0.227
+      }
+    },
+    {
+      "slug": "phuket",
+      "name": {
+        "en": "Phuket",
+        "nl": "Phuket"
+      },
+      "region": {
+        "slug": "southern",
+        "name": {
+          "en": "Southern Thailand",
+          "nl": "Zuid-Thailand"
+        }
+      },
+      "location": {
+        "lat": 7.8804,
+        "lng": 98.3923
+      },
+      "population": 443000,
+      "budget": {
+        "budget": {
+          "min": 30,
+          "max": 50,
+          "median": 40
+        },
+        "midrange": {
+          "min": 50,
+          "max": 100,
+          "median": 75
+        },
+        "luxury": {
+          "min": 100,
+          "max": null,
+          "median": 150
+        }
+      },
+      "weather": {
+        "monthly": {
+          "january": 0.74,
+          "february": 0.735,
+          "march": 0.683,
+          "april": 0.555,
+          "may": 0.377,
+          "june": 0.424,
+          "july": 0.401,
+          "august": 0.392,
+          "september": 0.3,
+          "october": 0.366,
+          "november": 0.553,
+          "december": 0.698
+        },
+        "annual_avg": 0.519,
+        "best_months": [
+          "December",
+          "January",
+          "February",
+          "March"
+        ],
+        "avoid_months": [
+          "September",
+          "October"
+        ]
+      },
+      "transport": {
+        "connections": 27,
+        "popular_routes": 15,
+        "unique_destinations": 14,
+        "hubness": 0.577
+      }
+    },
+    {
+      "slug": "rayong",
+      "name": {
+        "en": "Rayong",
+        "nl": "Rayong"
+      },
+      "region": {
+        "slug": "central",
+        "name": {
+          "en": "Central Thailand",
+          "nl": "Centraal-Thailand"
+        }
+      },
+      "location": {
+        "lat": 12.6814,
+        "lng": 101.2816
+      },
+      "population": 65000,
+      "budget": {
+        "budget": {
+          "min": 20,
+          "max": 35,
+          "median": 28
+        },
+        "midrange": {
+          "min": 50,
+          "max": 90,
+          "median": 70
+        },
+        "luxury": {
+          "min": 150,
+          "max": null,
+          "median": 225
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 14,
+        "popular_routes": 0,
+        "unique_destinations": 9,
+        "hubness": 0.218
+      }
+    },
+    {
+      "slug": "sukhothai",
+      "name": {
+        "en": "Sukhothai",
+        "nl": "Sukhothai"
+      },
+      "region": {
+        "slug": "northern",
+        "name": {
+          "en": "Northern Thailand",
+          "nl": "Noord-Thailand"
+        }
+      },
+      "location": {
+        "lat": 17.0078,
+        "lng": 99.8237
+      },
+      "population": 37000,
+      "budget": {
+        "budget": {
+          "min": 30,
+          "max": 50,
+          "median": 40
+        },
+        "midrange": {
+          "min": 50,
+          "max": 100,
+          "median": 75
+        },
+        "luxury": {
+          "min": 100,
+          "max": null,
+          "median": 150
+        }
+      },
+      "weather": {
+        "monthly": {
+          "january": 0.788,
+          "february": 0.785,
+          "march": 0.736,
+          "april": 0.641,
+          "may": 0.538,
+          "june": 0.578,
+          "july": 0.562,
+          "august": 0.524,
+          "september": 0.468,
+          "october": 0.576,
+          "november": 0.777,
+          "december": 0.818
+        },
+        "annual_avg": 0.649,
+        "best_months": [],
+        "avoid_months": []
+      },
+      "transport": {
+        "connections": 9,
+        "popular_routes": 0,
+        "unique_destinations": 7,
+        "hubness": 0.151
+      }
+    },
+    {
+      "slug": "surat-thani",
+      "name": {
+        "en": "Surat Thani",
+        "nl": "Surat Thani"
+      },
+      "region": {
+        "slug": "southern",
+        "name": {
+          "en": "Southern Thailand",
+          "nl": "Zuid-Thailand"
+        }
+      },
+      "location": {
+        "lat": 9.14,
+        "lng": 99.3331
+      },
+      "population": 132000,
+      "budget": {
+        "budget": {
+          "min": 30,
+          "max": 50,
+          "median": 40
+        },
+        "midrange": {
+          "min": 50,
+          "max": 100,
+          "median": 75
+        },
+        "luxury": {
+          "min": 100,
+          "max": null,
+          "median": 150
+        }
+      },
+      "weather": {
+        "monthly": {
+          "january": 0.714,
+          "february": 0.767,
+          "march": 0.695,
+          "april": 0.608,
+          "may": 0.512,
+          "june": 0.563,
+          "july": 0.548,
+          "august": 0.533,
+          "september": 0.51,
+          "october": 0.437,
+          "november": 0.531,
+          "december": 0.645
+        },
+        "annual_avg": 0.589,
+        "best_months": [],
+        "avoid_months": []
+      },
+      "transport": {
+        "connections": 11,
+        "popular_routes": 0,
+        "unique_destinations": 8,
+        "hubness": 0.18
+      }
+    },
+    {
+      "slug": "trang",
+      "name": {
+        "en": "Trang",
+        "nl": "Trang"
+      },
+      "region": {
+        "slug": "southern",
+        "name": {
+          "en": "Southern Thailand",
+          "nl": "Zuid-Thailand"
+        }
+      },
+      "location": {
+        "lat": 7.5565,
+        "lng": 99.6114
+      },
+      "population": 65000,
+      "budget": {
+        "budget": {
+          "min": 15,
+          "max": 25,
+          "median": 20
+        },
+        "midrange": {
+          "min": 40,
+          "max": 70,
+          "median": 55
+        },
+        "luxury": {
+          "min": 120,
+          "max": null,
+          "median": 180
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 10,
+        "popular_routes": 0,
+        "unique_destinations": 7,
+        "hubness": 0.161
+      }
+    },
+    {
+      "slug": "trat",
+      "name": {
+        "en": "Trat",
+        "nl": "Trat"
+      },
+      "region": {
+        "slug": "central",
+        "name": {
+          "en": "Central Thailand",
+          "nl": "Centraal-Thailand"
+        }
+      },
+      "location": {
+        "lat": 12.2431,
+        "lng": 102.5149
+      },
+      "population": 22000,
+      "budget": {
+        "budget": {
+          "min": 25,
+          "max": 40,
+          "median": 33
+        },
+        "midrange": {
+          "min": 60,
+          "max": 100,
+          "median": 80
+        },
+        "luxury": {
+          "min": 200,
+          "max": null,
+          "median": 300
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 8,
+        "popular_routes": 0,
+        "unique_destinations": 5,
+        "hubness": 0.123
+      }
+    },
+    {
+      "slug": "ubon-ratchathani",
+      "name": {
+        "en": "Ubon Ratchathani",
+        "nl": "Ubon Ratchathani"
+      },
+      "region": {
+        "slug": "isaan",
+        "name": {
+          "en": "Isaan (Northeast Thailand)",
+          "nl": "Isaan (Noordoost-Thailand)"
+        }
+      },
+      "location": {
+        "lat": 15.2287,
+        "lng": 104.8564
+      },
+      "population": 190000,
+      "budget": {
+        "budget": {
+          "min": 15,
+          "max": 25,
+          "median": 20
+        },
+        "midrange": {
+          "min": 35,
+          "max": 60,
+          "median": 48
+        },
+        "luxury": {
+          "min": 80,
+          "max": null,
+          "median": 120
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 5,
+        "popular_routes": 0,
+        "unique_destinations": 5,
+        "hubness": 0.095
+      }
+    },
+    {
+      "slug": "udon-thani",
+      "name": {
+        "en": "Udon Thani",
+        "nl": "Udon Thani"
+      },
+      "region": {
+        "slug": "isaan",
+        "name": {
+          "en": "Isaan (Northeast Thailand)",
+          "nl": "Isaan (Noordoost-Thailand)"
+        }
+      },
+      "location": {
+        "lat": 17.4156,
+        "lng": 102.7872
+      },
+      "population": 290000,
+      "budget": {
+        "budget": {
+          "min": 20,
+          "max": 30,
+          "median": 25
+        },
+        "midrange": {
+          "min": 50,
+          "max": 80,
+          "median": 65
+        },
+        "luxury": {
+          "min": 130,
+          "max": null,
+          "median": 195
+        }
+      },
+      "weather": null,
+      "transport": {
+        "connections": 11,
+        "popular_routes": 0,
+        "unique_destinations": 10,
+        "hubness": 0.199
+      }
+    }
+  ],
+  "rankings": {
+    "cheapest": [
+      {
+        "slug": "bueng-kan",
+        "name": {
+          "en": "Bueng Kan",
+          "nl": "Bueng Kan"
+        },
+        "value": 19,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "nong-khai",
+        "name": {
+          "en": "Nong Khai",
+          "nl": "Nong Khai"
+        },
+        "value": 19,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "chanthaburi",
+        "name": {
+          "en": "Chanthaburi",
+          "nl": "Chanthaburi"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "chumphon",
+        "name": {
+          "en": "Chumphon",
+          "nl": "Chumphon"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "lampang",
+        "name": {
+          "en": "Lampang",
+          "nl": "Lampang"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "lopburi",
+        "name": {
+          "en": "Lopburi",
+          "nl": "Lopburi"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "mae-hong-son",
+        "name": {
+          "en": "Mae Hong Son",
+          "nl": "Mae Hong Son"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "mukdahan",
+        "name": {
+          "en": "Mukdahan",
+          "nl": "Mukdahan"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "nakhon-phanom",
+        "name": {
+          "en": "Nakhon Phanom",
+          "nl": "Nakhon Phanom"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "nakhon-si-thammarat",
+        "name": {
+          "en": "Nakhon Si Thammarat",
+          "nl": "Nakhon Si Thammarat"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "pai",
+        "name": {
+          "en": "Pai",
+          "nl": "Pai"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "phitsanulok",
+        "name": {
+          "en": "Phitsanulok",
+          "nl": "Phitsanulok"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "trang",
+        "name": {
+          "en": "Trang",
+          "nl": "Trang"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "ubon-ratchathani",
+        "name": {
+          "en": "Ubon Ratchathani",
+          "nl": "Ubon Ratchathani"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "chiang-khan",
+        "name": {
+          "en": "Chiang Khan",
+          "nl": "Chiang Khan"
+        },
+        "value": 23,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "khon-kaen",
+        "name": {
+          "en": "Khon Kaen",
+          "nl": "Khon Kaen"
+        },
+        "value": 25,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "nakhon-ratchasima",
+        "name": {
+          "en": "Nakhon Ratchasima (Korat)",
+          "nl": "Nakhon Ratchasima (Korat)"
+        },
+        "value": 25,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "udon-thani",
+        "name": {
+          "en": "Udon Thani",
+          "nl": "Udon Thani"
+        },
+        "value": 25,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "kanchanaburi",
+        "name": {
+          "en": "Kanchanaburi",
+          "nl": "Kanchanaburi"
+        },
+        "value": 28,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "rayong",
+        "name": {
+          "en": "Rayong",
+          "nl": "Rayong"
+        },
+        "value": 28,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "hua-hin",
+        "name": {
+          "en": "Hua Hin",
+          "nl": "Hua Hin"
+        },
+        "value": 33,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "koh-samui",
+        "name": {
+          "en": "Koh Samui",
+          "nl": "Koh Samui"
+        },
+        "value": 33,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "trat",
+        "name": {
+          "en": "Trat",
+          "nl": "Trat"
+        },
+        "value": 33,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "ayutthaya",
+        "name": {
+          "en": "Ayutthaya",
+          "nl": "Ayutthaya"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "bangkok",
+        "name": {
+          "en": "Bangkok",
+          "nl": "Bangkok"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "chiang-mai",
+        "name": {
+          "en": "Chiang Mai",
+          "nl": "Chiang Mai"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "chiang-rai",
+        "name": {
+          "en": "Chiang Rai",
+          "nl": "Chiang Rai"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "hat-yai",
+        "name": {
+          "en": "Hat Yai",
+          "nl": "Hat Yai"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "krabi",
+        "name": {
+          "en": "Krabi",
+          "nl": "Krabi"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "pattaya",
+        "name": {
+          "en": "Pattaya",
+          "nl": "Pattaya"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "phuket",
+        "name": {
+          "en": "Phuket",
+          "nl": "Phuket"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "sukhothai",
+        "name": {
+          "en": "Sukhothai",
+          "nl": "Sukhothai"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "surat-thani",
+        "name": {
+          "en": "Surat Thani",
+          "nl": "Surat Thani"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      }
+    ],
+    "most_expensive": [
+      {
+        "slug": "surat-thani",
+        "name": {
+          "en": "Surat Thani",
+          "nl": "Surat Thani"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "sukhothai",
+        "name": {
+          "en": "Sukhothai",
+          "nl": "Sukhothai"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "phuket",
+        "name": {
+          "en": "Phuket",
+          "nl": "Phuket"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "pattaya",
+        "name": {
+          "en": "Pattaya",
+          "nl": "Pattaya"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "krabi",
+        "name": {
+          "en": "Krabi",
+          "nl": "Krabi"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "hat-yai",
+        "name": {
+          "en": "Hat Yai",
+          "nl": "Hat Yai"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "chiang-rai",
+        "name": {
+          "en": "Chiang Rai",
+          "nl": "Chiang Rai"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "chiang-mai",
+        "name": {
+          "en": "Chiang Mai",
+          "nl": "Chiang Mai"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "bangkok",
+        "name": {
+          "en": "Bangkok",
+          "nl": "Bangkok"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "ayutthaya",
+        "name": {
+          "en": "Ayutthaya",
+          "nl": "Ayutthaya"
+        },
+        "value": 40,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "trat",
+        "name": {
+          "en": "Trat",
+          "nl": "Trat"
+        },
+        "value": 33,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "koh-samui",
+        "name": {
+          "en": "Koh Samui",
+          "nl": "Koh Samui"
+        },
+        "value": 33,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "hua-hin",
+        "name": {
+          "en": "Hua Hin",
+          "nl": "Hua Hin"
+        },
+        "value": 33,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "rayong",
+        "name": {
+          "en": "Rayong",
+          "nl": "Rayong"
+        },
+        "value": 28,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "kanchanaburi",
+        "name": {
+          "en": "Kanchanaburi",
+          "nl": "Kanchanaburi"
+        },
+        "value": 28,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "udon-thani",
+        "name": {
+          "en": "Udon Thani",
+          "nl": "Udon Thani"
+        },
+        "value": 25,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "nakhon-ratchasima",
+        "name": {
+          "en": "Nakhon Ratchasima (Korat)",
+          "nl": "Nakhon Ratchasima (Korat)"
+        },
+        "value": 25,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "khon-kaen",
+        "name": {
+          "en": "Khon Kaen",
+          "nl": "Khon Kaen"
+        },
+        "value": 25,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "chiang-khan",
+        "name": {
+          "en": "Chiang Khan",
+          "nl": "Chiang Khan"
+        },
+        "value": 23,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "ubon-ratchathani",
+        "name": {
+          "en": "Ubon Ratchathani",
+          "nl": "Ubon Ratchathani"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "trang",
+        "name": {
+          "en": "Trang",
+          "nl": "Trang"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "phitsanulok",
+        "name": {
+          "en": "Phitsanulok",
+          "nl": "Phitsanulok"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "pai",
+        "name": {
+          "en": "Pai",
+          "nl": "Pai"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "nakhon-si-thammarat",
+        "name": {
+          "en": "Nakhon Si Thammarat",
+          "nl": "Nakhon Si Thammarat"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "nakhon-phanom",
+        "name": {
+          "en": "Nakhon Phanom",
+          "nl": "Nakhon Phanom"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "mukdahan",
+        "name": {
+          "en": "Mukdahan",
+          "nl": "Mukdahan"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "mae-hong-son",
+        "name": {
+          "en": "Mae Hong Son",
+          "nl": "Mae Hong Son"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "lopburi",
+        "name": {
+          "en": "Lopburi",
+          "nl": "Lopburi"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "lampang",
+        "name": {
+          "en": "Lampang",
+          "nl": "Lampang"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "chumphon",
+        "name": {
+          "en": "Chumphon",
+          "nl": "Chumphon"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "chanthaburi",
+        "name": {
+          "en": "Chanthaburi",
+          "nl": "Chanthaburi"
+        },
+        "value": 20,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "nong-khai",
+        "name": {
+          "en": "Nong Khai",
+          "nl": "Nong Khai"
+        },
+        "value": 19,
+        "unit": "USD/day"
+      },
+      {
+        "slug": "bueng-kan",
+        "name": {
+          "en": "Bueng Kan",
+          "nl": "Bueng Kan"
+        },
+        "value": 19,
+        "unit": "USD/day"
+      }
+    ],
+    "best_weather_overall": [
+      {
+        "slug": "sukhothai",
+        "name": {
+          "en": "Sukhothai",
+          "nl": "Sukhothai"
+        },
+        "value": 0.649,
+        "unit": "comfort_score"
+      },
+      {
+        "slug": "chiang-mai",
+        "name": {
+          "en": "Chiang Mai",
+          "nl": "Chiang Mai"
+        },
+        "value": 0.647,
+        "unit": "comfort_score"
+      },
+      {
+        "slug": "ayutthaya",
+        "name": {
+          "en": "Ayutthaya",
+          "nl": "Ayutthaya"
+        },
+        "value": 0.626,
+        "unit": "comfort_score"
+      },
+      {
+        "slug": "pattaya",
+        "name": {
+          "en": "Pattaya",
+          "nl": "Pattaya"
+        },
+        "value": 0.625,
+        "unit": "comfort_score"
+      },
+      {
+        "slug": "chiang-rai",
+        "name": {
+          "en": "Chiang Rai",
+          "nl": "Chiang Rai"
+        },
+        "value": 0.618,
+        "unit": "comfort_score"
+      },
+      {
+        "slug": "bangkok",
+        "name": {
+          "en": "Bangkok",
+          "nl": "Bangkok"
+        },
+        "value": 0.594,
+        "unit": "comfort_score"
+      },
+      {
+        "slug": "surat-thani",
+        "name": {
+          "en": "Surat Thani",
+          "nl": "Surat Thani"
+        },
+        "value": 0.589,
+        "unit": "comfort_score"
+      },
+      {
+        "slug": "hat-yai",
+        "name": {
+          "en": "Hat Yai",
+          "nl": "Hat Yai"
+        },
+        "value": 0.569,
+        "unit": "comfort_score"
+      },
+      {
+        "slug": "krabi",
+        "name": {
+          "en": "Krabi",
+          "nl": "Krabi"
+        },
+        "value": 0.534,
+        "unit": "comfort_score"
+      },
+      {
+        "slug": "phuket",
+        "name": {
+          "en": "Phuket",
+          "nl": "Phuket"
+        },
+        "value": 0.519,
+        "unit": "comfort_score"
+      }
+    ],
+    "most_connected": [
+      {
+        "slug": "bangkok",
+        "name": {
+          "en": "Bangkok",
+          "nl": "Bangkok"
+        },
+        "value": 1,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "chiang-mai",
+        "name": {
+          "en": "Chiang Mai",
+          "nl": "Chiang Mai"
+        },
+        "value": 0.722,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "phuket",
+        "name": {
+          "en": "Phuket",
+          "nl": "Phuket"
+        },
+        "value": 0.577,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "hua-hin",
+        "name": {
+          "en": "Hua Hin",
+          "nl": "Hua Hin"
+        },
+        "value": 0.517,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "pattaya",
+        "name": {
+          "en": "Pattaya",
+          "nl": "Pattaya"
+        },
+        "value": 0.492,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "ayutthaya",
+        "name": {
+          "en": "Ayutthaya",
+          "nl": "Ayutthaya"
+        },
+        "value": 0.464,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "krabi",
+        "name": {
+          "en": "Krabi",
+          "nl": "Krabi"
+        },
+        "value": 0.464,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "kanchanaburi",
+        "name": {
+          "en": "Kanchanaburi",
+          "nl": "Kanchanaburi"
+        },
+        "value": 0.407,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "koh-samui",
+        "name": {
+          "en": "Koh Samui",
+          "nl": "Koh Samui"
+        },
+        "value": 0.356,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "chiang-rai",
+        "name": {
+          "en": "Chiang Rai",
+          "nl": "Chiang Rai"
+        },
+        "value": 0.3,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "lopburi",
+        "name": {
+          "en": "Lopburi",
+          "nl": "Lopburi"
+        },
+        "value": 0.256,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "nakhon-ratchasima",
+        "name": {
+          "en": "Nakhon Ratchasima (Korat)",
+          "nl": "Nakhon Ratchasima (Korat)"
+        },
+        "value": 0.246,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "pai",
+        "name": {
+          "en": "Pai",
+          "nl": "Pai"
+        },
+        "value": 0.246,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "khon-kaen",
+        "name": {
+          "en": "Khon Kaen",
+          "nl": "Khon Kaen"
+        },
+        "value": 0.237,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "phitsanulok",
+        "name": {
+          "en": "Phitsanulok",
+          "nl": "Phitsanulok"
+        },
+        "value": 0.227,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "rayong",
+        "name": {
+          "en": "Rayong",
+          "nl": "Rayong"
+        },
+        "value": 0.218,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "chiang-khan",
+        "name": {
+          "en": "Chiang Khan",
+          "nl": "Chiang Khan"
+        },
+        "value": 0.208,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "udon-thani",
+        "name": {
+          "en": "Udon Thani",
+          "nl": "Udon Thani"
+        },
+        "value": 0.199,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "chanthaburi",
+        "name": {
+          "en": "Chanthaburi",
+          "nl": "Chanthaburi"
+        },
+        "value": 0.189,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "lampang",
+        "name": {
+          "en": "Lampang",
+          "nl": "Lampang"
+        },
+        "value": 0.18,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "nakhon-si-thammarat",
+        "name": {
+          "en": "Nakhon Si Thammarat",
+          "nl": "Nakhon Si Thammarat"
+        },
+        "value": 0.18,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "surat-thani",
+        "name": {
+          "en": "Surat Thani",
+          "nl": "Surat Thani"
+        },
+        "value": 0.18,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "chumphon",
+        "name": {
+          "en": "Chumphon",
+          "nl": "Chumphon"
+        },
+        "value": 0.161,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "hat-yai",
+        "name": {
+          "en": "Hat Yai",
+          "nl": "Hat Yai"
+        },
+        "value": 0.161,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "trang",
+        "name": {
+          "en": "Trang",
+          "nl": "Trang"
+        },
+        "value": 0.161,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "nong-khai",
+        "name": {
+          "en": "Nong Khai",
+          "nl": "Nong Khai"
+        },
+        "value": 0.151,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "sukhothai",
+        "name": {
+          "en": "Sukhothai",
+          "nl": "Sukhothai"
+        },
+        "value": 0.151,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "bueng-kan",
+        "name": {
+          "en": "Bueng Kan",
+          "nl": "Bueng Kan"
+        },
+        "value": 0.132,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "mukdahan",
+        "name": {
+          "en": "Mukdahan",
+          "nl": "Mukdahan"
+        },
+        "value": 0.132,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "nakhon-phanom",
+        "name": {
+          "en": "Nakhon Phanom",
+          "nl": "Nakhon Phanom"
+        },
+        "value": 0.132,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "mae-hong-son",
+        "name": {
+          "en": "Mae Hong Son",
+          "nl": "Mae Hong Son"
+        },
+        "value": 0.123,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "trat",
+        "name": {
+          "en": "Trat",
+          "nl": "Trat"
+        },
+        "value": 0.123,
+        "unit": "hubness_score"
+      },
+      {
+        "slug": "ubon-ratchathani",
+        "name": {
+          "en": "Ubon Ratchathani",
+          "nl": "Ubon Ratchathani"
+        },
+        "value": 0.095,
+        "unit": "hubness_score"
+      }
+    ],
+    "overall": [
+      {
+        "slug": "bangkok",
+        "name": {
+          "en": "Bangkok",
+          "nl": "Bangkok"
+        },
+        "value": 0.558,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0,
+          "weather": 0.594,
+          "transport": 1
+        }
+      },
+      {
+        "slug": "lopburi",
+        "name": {
+          "en": "Lopburi",
+          "nl": "Lopburi"
+        },
+        "value": 0.55,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.952,
+          "weather": 0.5,
+          "transport": 0.256
+        }
+      },
+      {
+        "slug": "pai",
+        "name": {
+          "en": "Pai",
+          "nl": "Pai"
+        },
+        "value": 0.547,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.952,
+          "weather": 0.5,
+          "transport": 0.246
+        }
+      },
+      {
+        "slug": "phitsanulok",
+        "name": {
+          "en": "Phitsanulok",
+          "nl": "Phitsanulok"
+        },
+        "value": 0.54,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.952,
+          "weather": 0.5,
+          "transport": 0.227
+        }
+      },
+      {
+        "slug": "nong-khai",
+        "name": {
+          "en": "Nong Khai",
+          "nl": "Nong Khai"
+        },
+        "value": 0.528,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 1,
+          "weather": 0.5,
+          "transport": 0.151
+        }
+      },
+      {
+        "slug": "chanthaburi",
+        "name": {
+          "en": "Chanthaburi",
+          "nl": "Chanthaburi"
+        },
+        "value": 0.527,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.952,
+          "weather": 0.5,
+          "transport": 0.189
+        }
+      },
+      {
+        "slug": "lampang",
+        "name": {
+          "en": "Lampang",
+          "nl": "Lampang"
+        },
+        "value": 0.524,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.952,
+          "weather": 0.5,
+          "transport": 0.18
+        }
+      },
+      {
+        "slug": "nakhon-si-thammarat",
+        "name": {
+          "en": "Nakhon Si Thammarat",
+          "nl": "Nakhon Si Thammarat"
+        },
+        "value": 0.524,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.952,
+          "weather": 0.5,
+          "transport": 0.18
+        }
+      },
+      {
+        "slug": "bueng-kan",
+        "name": {
+          "en": "Bueng Kan",
+          "nl": "Bueng Kan"
+        },
+        "value": 0.521,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 1,
+          "weather": 0.5,
+          "transport": 0.132
+        }
+      },
+      {
+        "slug": "chumphon",
+        "name": {
+          "en": "Chumphon",
+          "nl": "Chumphon"
+        },
+        "value": 0.517,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.952,
+          "weather": 0.5,
+          "transport": 0.161
+        }
+      },
+      {
+        "slug": "trang",
+        "name": {
+          "en": "Trang",
+          "nl": "Trang"
+        },
+        "value": 0.517,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.952,
+          "weather": 0.5,
+          "transport": 0.161
+        }
+      },
+      {
+        "slug": "mukdahan",
+        "name": {
+          "en": "Mukdahan",
+          "nl": "Mukdahan"
+        },
+        "value": 0.507,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.952,
+          "weather": 0.5,
+          "transport": 0.132
+        }
+      },
+      {
+        "slug": "nakhon-phanom",
+        "name": {
+          "en": "Nakhon Phanom",
+          "nl": "Nakhon Phanom"
+        },
+        "value": 0.507,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.952,
+          "weather": 0.5,
+          "transport": 0.132
+        }
+      },
+      {
+        "slug": "mae-hong-son",
+        "name": {
+          "en": "Mae Hong Son",
+          "nl": "Mae Hong Son"
+        },
+        "value": 0.504,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.952,
+          "weather": 0.5,
+          "transport": 0.123
+        }
+      },
+      {
+        "slug": "ubon-ratchathani",
+        "name": {
+          "en": "Ubon Ratchathani",
+          "nl": "Ubon Ratchathani"
+        },
+        "value": 0.494,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.952,
+          "weather": 0.5,
+          "transport": 0.095
+        }
+      },
+      {
+        "slug": "chiang-khan",
+        "name": {
+          "en": "Chiang Khan",
+          "nl": "Chiang Khan"
+        },
+        "value": 0.491,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.81,
+          "weather": 0.5,
+          "transport": 0.208
+        }
+      },
+      {
+        "slug": "kanchanaburi",
+        "name": {
+          "en": "Kanchanaburi",
+          "nl": "Kanchanaburi"
+        },
+        "value": 0.489,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.571,
+          "weather": 0.5,
+          "transport": 0.407
+        }
+      },
+      {
+        "slug": "chiang-mai",
+        "name": {
+          "en": "Chiang Mai",
+          "nl": "Chiang Mai"
+        },
+        "value": 0.479,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0,
+          "weather": 0.647,
+          "transport": 0.722
+        }
+      },
+      {
+        "slug": "nakhon-ratchasima",
+        "name": {
+          "en": "Nakhon Ratchasima (Korat)",
+          "nl": "Nakhon Ratchasima (Korat)"
+        },
+        "value": 0.475,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.714,
+          "weather": 0.5,
+          "transport": 0.246
+        }
+      },
+      {
+        "slug": "khon-kaen",
+        "name": {
+          "en": "Khon Kaen",
+          "nl": "Khon Kaen"
+        },
+        "value": 0.472,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.714,
+          "weather": 0.5,
+          "transport": 0.237
+        }
+      },
+      {
+        "slug": "udon-thani",
+        "name": {
+          "en": "Udon Thani",
+          "nl": "Udon Thani"
+        },
+        "value": 0.459,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.714,
+          "weather": 0.5,
+          "transport": 0.199
+        }
+      },
+      {
+        "slug": "hua-hin",
+        "name": {
+          "en": "Hua Hin",
+          "nl": "Hua Hin"
+        },
+        "value": 0.456,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.333,
+          "weather": 0.5,
+          "transport": 0.517
+        }
+      },
+      {
+        "slug": "rayong",
+        "name": {
+          "en": "Rayong",
+          "nl": "Rayong"
+        },
+        "value": 0.423,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.571,
+          "weather": 0.5,
+          "transport": 0.218
+        }
+      },
+      {
+        "slug": "koh-samui",
+        "name": {
+          "en": "Koh Samui",
+          "nl": "Koh Samui"
+        },
+        "value": 0.4,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.333,
+          "weather": 0.5,
+          "transport": 0.356
+        }
+      },
+      {
+        "slug": "pattaya",
+        "name": {
+          "en": "Pattaya",
+          "nl": "Pattaya"
+        },
+        "value": 0.391,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0,
+          "weather": 0.625,
+          "transport": 0.492
+        }
+      },
+      {
+        "slug": "phuket",
+        "name": {
+          "en": "Phuket",
+          "nl": "Phuket"
+        },
+        "value": 0.384,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0,
+          "weather": 0.519,
+          "transport": 0.577
+        }
+      },
+      {
+        "slug": "ayutthaya",
+        "name": {
+          "en": "Ayutthaya",
+          "nl": "Ayutthaya"
+        },
+        "value": 0.381,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0,
+          "weather": 0.626,
+          "transport": 0.464
+        }
+      },
+      {
+        "slug": "krabi",
+        "name": {
+          "en": "Krabi",
+          "nl": "Krabi"
+        },
+        "value": 0.349,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0,
+          "weather": 0.534,
+          "transport": 0.464
+        }
+      },
+      {
+        "slug": "chiang-rai",
+        "name": {
+          "en": "Chiang Rai",
+          "nl": "Chiang Rai"
+        },
+        "value": 0.321,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0,
+          "weather": 0.618,
+          "transport": 0.3
+        }
+      },
+      {
+        "slug": "trat",
+        "name": {
+          "en": "Trat",
+          "nl": "Trat"
+        },
+        "value": 0.318,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0.333,
+          "weather": 0.5,
+          "transport": 0.123
+        }
+      },
+      {
+        "slug": "sukhothai",
+        "name": {
+          "en": "Sukhothai",
+          "nl": "Sukhothai"
+        },
+        "value": 0.28,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0,
+          "weather": 0.649,
+          "transport": 0.151
+        }
+      },
+      {
+        "slug": "surat-thani",
+        "name": {
+          "en": "Surat Thani",
+          "nl": "Surat Thani"
+        },
+        "value": 0.269,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0,
+          "weather": 0.589,
+          "transport": 0.18
+        }
+      },
+      {
+        "slug": "hat-yai",
+        "name": {
+          "en": "Hat Yai",
+          "nl": "Hat Yai"
+        },
+        "value": 0.255,
+        "unit": "overall_score",
+        "breakdown": {
+          "budget_value": 0,
+          "weather": 0.569,
+          "transport": 0.161
+        }
+      }
+    ]
+  },
+  "regions": [
+    {
+      "slug": "northern",
+      "name": {
+        "en": "Northern Thailand",
+        "nl": "Noord-Thailand"
+      },
+      "city_slugs": [
+        "chiang-mai",
+        "chiang-rai",
+        "sukhothai",
+        "pai",
+        "mae-hong-son",
+        "lampang"
+      ]
+    },
+    {
+      "slug": "central",
+      "name": {
+        "en": "Central Thailand",
+        "nl": "Centraal-Thailand"
+      },
+      "city_slugs": [
+        "bangkok",
+        "ayutthaya",
+        "pattaya",
+        "kanchanaburi",
+        "hua-hin",
+        "lopburi",
+        "phitsanulok",
+        "trat",
+        "rayong",
+        "chanthaburi"
+      ]
+    },
+    {
+      "slug": "southern",
+      "name": {
+        "en": "Southern Thailand",
+        "nl": "Zuid-Thailand"
+      },
+      "city_slugs": [
+        "phuket",
+        "krabi",
+        "hat-yai",
+        "surat-thani",
+        "koh-samui",
+        "nakhon-si-thammarat",
+        "trang",
+        "chumphon"
+      ]
+    },
+    {
+      "slug": "isaan",
+      "name": {
+        "en": "Isaan (Northeast Thailand)",
+        "nl": "Isaan (Noordoost-Thailand)"
+      },
+      "city_slugs": [
+        "khon-kaen",
+        "udon-thani",
+        "nakhon-ratchasima",
+        "ubon-ratchathani"
+      ]
+    }
+  ]
+}
