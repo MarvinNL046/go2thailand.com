@@ -44,11 +44,11 @@ function getSortValue(city: IndexCity, key: SortKey, locale: string): number | s
     case 'budget':
       return city.budget.tier_budget.median;
     case 'weather':
-      return city.scores.weather_score;
+      return city.scores.weather_score ?? -1;
     case 'transport':
-      return city.scores.transport_score;
+      return city.scores.transport_score ?? -1;
     case 'overall':
-      return city.scores.overall_score;
+      return city.scores.overall_score ?? -1;
   }
 }
 
@@ -163,7 +163,7 @@ const IndexTable: React.FC<IndexTableProps> = ({ cities, regions }) => {
                       {displayName}
                     </Link>
                     <span className="block text-xs text-gray-400 sm:hidden">
-                      {city.region.name[loc] || city.region.name.en}
+                      {city.region ? (city.region.name[loc] || city.region.name.en) : ''}
                     </span>
                   </td>
 

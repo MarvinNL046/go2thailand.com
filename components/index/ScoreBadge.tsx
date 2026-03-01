@@ -10,7 +10,7 @@
  */
 
 interface ScoreBadgeProps {
-  score: number;
+  score: number | null | undefined;
   /** Display label shown next to the score (optional) */
   label?: string;
   size?: 'sm' | 'md' | 'lg';
@@ -24,7 +24,8 @@ const sizeClasses: Record<string, string> = {
   lg: 'text-base px-3 py-1.5 min-w-[3rem]',
 };
 
-function getColorClasses(score: number): string {
+function getColorClasses(score: number | null | undefined): string {
+  if (score == null) return 'bg-gray-100 text-gray-400 border-gray-200';
   if (score >= 0.75) return 'bg-green-100 text-green-800 border-green-200';
   if (score >= 0.5) return 'bg-amber-100 text-amber-800 border-amber-200';
   return 'bg-red-100 text-red-800 border-red-200';
@@ -36,9 +37,11 @@ const ScoreBadge: React.FC<ScoreBadgeProps> = ({
   size = 'md',
   asPercent = false,
 }) => {
-  const display = asPercent
-    ? `${Math.round(score * 100)}%`
-    : score.toFixed(2);
+  const display = score == null
+    ? '-'
+    : asPercent
+      ? `${Math.round(score * 100)}%`
+      : score.toFixed(2);
 
   return (
     <span className="inline-flex items-center gap-1">
