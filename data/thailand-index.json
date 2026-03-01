@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-01T21:59:02.283Z",
+    "generated_at": "2026-03-01T22:05:14.485Z",
     "city_count": 33,
     "data_version": "1.0.0",
     "source_hashes": {
@@ -78,7 +78,7 @@
         },
         "weather": {
           "comfort_score": 0.626,
-          "best_month_count": 0
+          "best_month_count": 4
         },
         "transport": {
           "hubness": 0.464,
@@ -110,7 +110,12 @@
       },
       "weather": {
         "raw_best_time_text": "",
-        "best_months": [],
+        "best_months": [
+          "Dec",
+          "Jan",
+          "Nov",
+          "Feb"
+        ],
         "month_scores": {
           "Jan": 0.812,
           "Feb": 0.769,
@@ -709,7 +714,7 @@
         },
         "weather": {
           "comfort_score": 0.618,
-          "best_month_count": 0
+          "best_month_count": 4
         },
         "transport": {
           "hubness": 0.3,
@@ -741,7 +746,12 @@
       },
       "weather": {
         "raw_best_time_text": "",
-        "best_months": [],
+        "best_months": [
+          "Dec",
+          "Jan",
+          "Feb",
+          "Nov"
+        ],
         "month_scores": {
           "Jan": 0.778,
           "Feb": 0.767,
@@ -907,7 +917,7 @@
         },
         "weather": {
           "comfort_score": 0.569,
-          "best_month_count": 0
+          "best_month_count": 1
         },
         "transport": {
           "hubness": 0.161,
@@ -939,7 +949,9 @@
       },
       "weather": {
         "raw_best_time_text": "",
-        "best_months": [],
+        "best_months": [
+          "Feb"
+        ],
         "month_scores": {
           "Jan": 0.723,
           "Feb": 0.752,
@@ -2204,7 +2216,7 @@
         },
         "weather": {
           "comfort_score": 0.625,
-          "best_month_count": 0
+          "best_month_count": 3
         },
         "transport": {
           "hubness": 0.492,
@@ -2236,7 +2248,11 @@
       },
       "weather": {
         "raw_best_time_text": "",
-        "best_months": [],
+        "best_months": [
+          "Jan",
+          "Dec",
+          "Feb"
+        ],
         "month_scores": {
           "Jan": 0.816,
           "Feb": 0.784,
@@ -2623,7 +2639,7 @@
         },
         "weather": {
           "comfort_score": 0.649,
-          "best_month_count": 0
+          "best_month_count": 4
         },
         "transport": {
           "hubness": 0.151,
@@ -2655,7 +2671,12 @@
       },
       "weather": {
         "raw_best_time_text": "",
-        "best_months": [],
+        "best_months": [
+          "Dec",
+          "Jan",
+          "Feb",
+          "Nov"
+        ],
         "month_scores": {
           "Jan": 0.788,
           "Feb": 0.785,
@@ -2715,7 +2736,7 @@
         },
         "weather": {
           "comfort_score": 0.589,
-          "best_month_count": 0
+          "best_month_count": 1
         },
         "transport": {
           "hubness": 0.18,
@@ -2747,7 +2768,9 @@
       },
       "weather": {
         "raw_best_time_text": "",
-        "best_months": [],
+        "best_months": [
+          "Feb"
+        ],
         "month_scores": {
           "Jan": 0.714,
           "Feb": 0.767,
@@ -4076,237 +4099,8 @@
             "en": "Bangkok",
             "nl": "Bangkok"
           },
-          "value": 0.558,
-          "breakdown": {
-            "budget_value": 0,
-            "weather": 0.594,
-            "transport": 1
-          },
+          "value": 0.68,
           "rank": 1
-        },
-        {
-          "slug": "lopburi",
-          "name": {
-            "en": "Lopburi",
-            "nl": "Lopburi"
-          },
-          "value": 0.55,
-          "breakdown": {
-            "budget_value": 0.952,
-            "weather": 0.5,
-            "transport": 0.256
-          },
-          "rank": 2
-        },
-        {
-          "slug": "pai",
-          "name": {
-            "en": "Pai",
-            "nl": "Pai"
-          },
-          "value": 0.547,
-          "breakdown": {
-            "budget_value": 0.952,
-            "weather": 0.5,
-            "transport": 0.246
-          },
-          "rank": 3
-        },
-        {
-          "slug": "phitsanulok",
-          "name": {
-            "en": "Phitsanulok",
-            "nl": "Phitsanulok"
-          },
-          "value": 0.54,
-          "breakdown": {
-            "budget_value": 0.952,
-            "weather": 0.5,
-            "transport": 0.227
-          },
-          "rank": 4
-        },
-        {
-          "slug": "nong-khai",
-          "name": {
-            "en": "Nong Khai",
-            "nl": "Nong Khai"
-          },
-          "value": 0.528,
-          "breakdown": {
-            "budget_value": 1,
-            "weather": 0.5,
-            "transport": 0.151
-          },
-          "rank": 5
-        },
-        {
-          "slug": "chanthaburi",
-          "name": {
-            "en": "Chanthaburi",
-            "nl": "Chanthaburi"
-          },
-          "value": 0.527,
-          "breakdown": {
-            "budget_value": 0.952,
-            "weather": 0.5,
-            "transport": 0.189
-          },
-          "rank": 6
-        },
-        {
-          "slug": "lampang",
-          "name": {
-            "en": "Lampang",
-            "nl": "Lampang"
-          },
-          "value": 0.524,
-          "breakdown": {
-            "budget_value": 0.952,
-            "weather": 0.5,
-            "transport": 0.18
-          },
-          "rank": 7
-        },
-        {
-          "slug": "nakhon-si-thammarat",
-          "name": {
-            "en": "Nakhon Si Thammarat",
-            "nl": "Nakhon Si Thammarat"
-          },
-          "value": 0.524,
-          "breakdown": {
-            "budget_value": 0.952,
-            "weather": 0.5,
-            "transport": 0.18
-          },
-          "rank": 8
-        },
-        {
-          "slug": "bueng-kan",
-          "name": {
-            "en": "Bueng Kan",
-            "nl": "Bueng Kan"
-          },
-          "value": 0.521,
-          "breakdown": {
-            "budget_value": 1,
-            "weather": 0.5,
-            "transport": 0.132
-          },
-          "rank": 9
-        },
-        {
-          "slug": "chumphon",
-          "name": {
-            "en": "Chumphon",
-            "nl": "Chumphon"
-          },
-          "value": 0.517,
-          "breakdown": {
-            "budget_value": 0.952,
-            "weather": 0.5,
-            "transport": 0.161
-          },
-          "rank": 10
-        },
-        {
-          "slug": "trang",
-          "name": {
-            "en": "Trang",
-            "nl": "Trang"
-          },
-          "value": 0.517,
-          "breakdown": {
-            "budget_value": 0.952,
-            "weather": 0.5,
-            "transport": 0.161
-          },
-          "rank": 11
-        },
-        {
-          "slug": "mukdahan",
-          "name": {
-            "en": "Mukdahan",
-            "nl": "Mukdahan"
-          },
-          "value": 0.507,
-          "breakdown": {
-            "budget_value": 0.952,
-            "weather": 0.5,
-            "transport": 0.132
-          },
-          "rank": 12
-        },
-        {
-          "slug": "nakhon-phanom",
-          "name": {
-            "en": "Nakhon Phanom",
-            "nl": "Nakhon Phanom"
-          },
-          "value": 0.507,
-          "breakdown": {
-            "budget_value": 0.952,
-            "weather": 0.5,
-            "transport": 0.132
-          },
-          "rank": 13
-        },
-        {
-          "slug": "mae-hong-son",
-          "name": {
-            "en": "Mae Hong Son",
-            "nl": "Mae Hong Son"
-          },
-          "value": 0.504,
-          "breakdown": {
-            "budget_value": 0.952,
-            "weather": 0.5,
-            "transport": 0.123
-          },
-          "rank": 14
-        },
-        {
-          "slug": "ubon-ratchathani",
-          "name": {
-            "en": "Ubon Ratchathani",
-            "nl": "Ubon Ratchathani"
-          },
-          "value": 0.494,
-          "breakdown": {
-            "budget_value": 0.952,
-            "weather": 0.5,
-            "transport": 0.095
-          },
-          "rank": 15
-        },
-        {
-          "slug": "chiang-khan",
-          "name": {
-            "en": "Chiang Khan",
-            "nl": "Chiang Khan"
-          },
-          "value": 0.491,
-          "breakdown": {
-            "budget_value": 0.81,
-            "weather": 0.5,
-            "transport": 0.208
-          },
-          "rank": 16
-        },
-        {
-          "slug": "kanchanaburi",
-          "name": {
-            "en": "Kanchanaburi",
-            "nl": "Kanchanaburi"
-          },
-          "value": 0.489,
-          "breakdown": {
-            "budget_value": 0.571,
-            "weather": 0.5,
-            "transport": 0.407
-          },
-          "rank": 17
         },
         {
           "slug": "chiang-mai",
@@ -4314,55 +4108,8 @@
             "en": "Chiang Mai",
             "nl": "Chiang Mai"
           },
-          "value": 0.479,
-          "breakdown": {
-            "budget_value": 0,
-            "weather": 0.647,
-            "transport": 0.722
-          },
-          "rank": 18
-        },
-        {
-          "slug": "nakhon-ratchasima",
-          "name": {
-            "en": "Nakhon Ratchasima (Korat)",
-            "nl": "Nakhon Ratchasima (Korat)"
-          },
-          "value": 0.475,
-          "breakdown": {
-            "budget_value": 0.714,
-            "weather": 0.5,
-            "transport": 0.246
-          },
-          "rank": 19
-        },
-        {
-          "slug": "khon-kaen",
-          "name": {
-            "en": "Khon Kaen",
-            "nl": "Khon Kaen"
-          },
-          "value": 0.472,
-          "breakdown": {
-            "budget_value": 0.714,
-            "weather": 0.5,
-            "transport": 0.237
-          },
-          "rank": 20
-        },
-        {
-          "slug": "udon-thani",
-          "name": {
-            "en": "Udon Thani",
-            "nl": "Udon Thani"
-          },
-          "value": 0.459,
-          "breakdown": {
-            "budget_value": 0.714,
-            "weather": 0.5,
-            "transport": 0.199
-          },
-          "rank": 21
+          "value": 0.62,
+          "rank": 2
         },
         {
           "slug": "hua-hin",
@@ -4370,41 +4117,8 @@
             "en": "Hua Hin",
             "nl": "Hua Hin"
           },
-          "value": 0.456,
-          "breakdown": {
-            "budget_value": 0.333,
-            "weather": 0.5,
-            "transport": 0.517
-          },
-          "rank": 22
-        },
-        {
-          "slug": "rayong",
-          "name": {
-            "en": "Rayong",
-            "nl": "Rayong"
-          },
-          "value": 0.423,
-          "breakdown": {
-            "budget_value": 0.571,
-            "weather": 0.5,
-            "transport": 0.218
-          },
-          "rank": 23
-        },
-        {
-          "slug": "koh-samui",
-          "name": {
-            "en": "Koh Samui",
-            "nl": "Koh Samui"
-          },
-          "value": 0.4,
-          "breakdown": {
-            "budget_value": 0.333,
-            "weather": 0.5,
-            "transport": 0.356
-          },
-          "rank": 24
+          "value": 0.54,
+          "rank": 3
         },
         {
           "slug": "pattaya",
@@ -4412,27 +4126,8 @@
             "en": "Pattaya",
             "nl": "Pattaya"
           },
-          "value": 0.391,
-          "breakdown": {
-            "budget_value": 0,
-            "weather": 0.625,
-            "transport": 0.492
-          },
-          "rank": 25
-        },
-        {
-          "slug": "phuket",
-          "name": {
-            "en": "Phuket",
-            "nl": "Phuket"
-          },
-          "value": 0.384,
-          "breakdown": {
-            "budget_value": 0,
-            "weather": 0.519,
-            "transport": 0.577
-          },
-          "rank": 26
+          "value": 0.54,
+          "rank": 4
         },
         {
           "slug": "ayutthaya",
@@ -4440,13 +4135,53 @@
             "en": "Ayutthaya",
             "nl": "Ayutthaya"
           },
-          "value": 0.381,
-          "breakdown": {
-            "budget_value": 0,
-            "weather": 0.626,
-            "transport": 0.464
+          "value": 0.53,
+          "rank": 5
+        },
+        {
+          "slug": "phuket",
+          "name": {
+            "en": "Phuket",
+            "nl": "Phuket"
           },
-          "rank": 27
+          "value": 0.53,
+          "rank": 6
+        },
+        {
+          "slug": "kanchanaburi",
+          "name": {
+            "en": "Kanchanaburi",
+            "nl": "Kanchanaburi"
+          },
+          "value": 0.52,
+          "rank": 7
+        },
+        {
+          "slug": "lopburi",
+          "name": {
+            "en": "Lopburi",
+            "nl": "Lopburi"
+          },
+          "value": 0.51,
+          "rank": 8
+        },
+        {
+          "slug": "pai",
+          "name": {
+            "en": "Pai",
+            "nl": "Pai"
+          },
+          "value": 0.51,
+          "rank": 9
+        },
+        {
+          "slug": "phitsanulok",
+          "name": {
+            "en": "Phitsanulok",
+            "nl": "Phitsanulok"
+          },
+          "value": 0.51,
+          "rank": 10
         },
         {
           "slug": "krabi",
@@ -4454,13 +4189,107 @@
             "en": "Krabi",
             "nl": "Krabi"
           },
-          "value": 0.349,
-          "breakdown": {
-            "budget_value": 0,
-            "weather": 0.534,
-            "transport": 0.464
+          "value": 0.5,
+          "rank": 11
+        },
+        {
+          "slug": "chanthaburi",
+          "name": {
+            "en": "Chanthaburi",
+            "nl": "Chanthaburi"
           },
-          "rank": 28
+          "value": 0.49,
+          "rank": 12
+        },
+        {
+          "slug": "chiang-khan",
+          "name": {
+            "en": "Chiang Khan",
+            "nl": "Chiang Khan"
+          },
+          "value": 0.49,
+          "rank": 13
+        },
+        {
+          "slug": "chumphon",
+          "name": {
+            "en": "Chumphon",
+            "nl": "Chumphon"
+          },
+          "value": 0.49,
+          "rank": 14
+        },
+        {
+          "slug": "khon-kaen",
+          "name": {
+            "en": "Khon Kaen",
+            "nl": "Khon Kaen"
+          },
+          "value": 0.49,
+          "rank": 15
+        },
+        {
+          "slug": "koh-samui",
+          "name": {
+            "en": "Koh Samui",
+            "nl": "Koh Samui"
+          },
+          "value": 0.49,
+          "rank": 16
+        },
+        {
+          "slug": "lampang",
+          "name": {
+            "en": "Lampang",
+            "nl": "Lampang"
+          },
+          "value": 0.49,
+          "rank": 17
+        },
+        {
+          "slug": "nakhon-ratchasima",
+          "name": {
+            "en": "Nakhon Ratchasima (Korat)",
+            "nl": "Nakhon Ratchasima (Korat)"
+          },
+          "value": 0.49,
+          "rank": 18
+        },
+        {
+          "slug": "nakhon-si-thammarat",
+          "name": {
+            "en": "Nakhon Si Thammarat",
+            "nl": "Nakhon Si Thammarat"
+          },
+          "value": 0.49,
+          "rank": 19
+        },
+        {
+          "slug": "nong-khai",
+          "name": {
+            "en": "Nong Khai",
+            "nl": "Nong Khai"
+          },
+          "value": 0.49,
+          "rank": 20
+        },
+        {
+          "slug": "trang",
+          "name": {
+            "en": "Trang",
+            "nl": "Trang"
+          },
+          "value": 0.49,
+          "rank": 21
+        },
+        {
+          "slug": "bueng-kan",
+          "name": {
+            "en": "Bueng Kan",
+            "nl": "Bueng Kan"
+          },
+          "value": 0.48,
+          "rank": 22
         },
         {
           "slug": "chiang-rai",
@@ -4468,27 +4297,62 @@
             "en": "Chiang Rai",
             "nl": "Chiang Rai"
           },
-          "value": 0.321,
-          "breakdown": {
-            "budget_value": 0,
-            "weather": 0.618,
-            "transport": 0.3
-          },
-          "rank": 29
+          "value": 0.48,
+          "rank": 23
         },
         {
-          "slug": "trat",
+          "slug": "mukdahan",
           "name": {
-            "en": "Trat",
-            "nl": "Trat"
+            "en": "Mukdahan",
+            "nl": "Mukdahan"
           },
-          "value": 0.318,
-          "breakdown": {
-            "budget_value": 0.333,
-            "weather": 0.5,
-            "transport": 0.123
+          "value": 0.48,
+          "rank": 24
+        },
+        {
+          "slug": "nakhon-phanom",
+          "name": {
+            "en": "Nakhon Phanom",
+            "nl": "Nakhon Phanom"
           },
-          "rank": 30
+          "value": 0.48,
+          "rank": 25
+        },
+        {
+          "slug": "udon-thani",
+          "name": {
+            "en": "Udon Thani",
+            "nl": "Udon Thani"
+          },
+          "value": 0.48,
+          "rank": 26
+        },
+        {
+          "slug": "mae-hong-son",
+          "name": {
+            "en": "Mae Hong Son",
+            "nl": "Mae Hong Son"
+          },
+          "value": 0.47,
+          "rank": 27
+        },
+        {
+          "slug": "rayong",
+          "name": {
+            "en": "Rayong",
+            "nl": "Rayong"
+          },
+          "value": 0.47,
+          "rank": 28
+        },
+        {
+          "slug": "ubon-ratchathani",
+          "name": {
+            "en": "Ubon Ratchathani",
+            "nl": "Ubon Ratchathani"
+          },
+          "value": 0.47,
+          "rank": 29
         },
         {
           "slug": "sukhothai",
@@ -4496,13 +4360,8 @@
             "en": "Sukhothai",
             "nl": "Sukhothai"
           },
-          "value": 0.28,
-          "breakdown": {
-            "budget_value": 0,
-            "weather": 0.649,
-            "transport": 0.151
-          },
-          "rank": 31
+          "value": 0.45,
+          "rank": 30
         },
         {
           "slug": "surat-thani",
@@ -4510,13 +4369,8 @@
             "en": "Surat Thani",
             "nl": "Surat Thani"
           },
-          "value": 0.269,
-          "breakdown": {
-            "budget_value": 0,
-            "weather": 0.589,
-            "transport": 0.18
-          },
-          "rank": 32
+          "value": 0.44,
+          "rank": 31
         },
         {
           "slug": "hat-yai",
@@ -4524,12 +4378,16 @@
             "en": "Hat Yai",
             "nl": "Hat Yai"
           },
-          "value": 0.255,
-          "breakdown": {
-            "budget_value": 0,
-            "weather": 0.569,
-            "transport": 0.161
+          "value": 0.42,
+          "rank": 32
+        },
+        {
+          "slug": "trat",
+          "name": {
+            "en": "Trat",
+            "nl": "Trat"
           },
+          "value": 0.42,
           "rank": 33
         }
       ]

@@ -299,8 +299,16 @@ function computeWeatherScores(weatherData) {
 
   // best_months from source data (full names like "November") -> abbreviations
   const bestMonthsFull = weatherData.best_months || [];
-  const bestMonths = bestMonthsFull.map(monthNameToAbbrev);
+  let bestMonths = bestMonthsFull.map(monthNameToAbbrev);
   const rawBestTimeText = bestMonthsFull.join(', ');
+
+  // Fallback: compute best_months from weather scores if source data is empty
+  if (bestMonths.length === 0) {
+    bestMonths = Object.entries(monthScores)
+      .filter(([, score]) => score !== null && score >= 0.75)
+      .sort((a, b) => b[1] - a[1])
+      .map(([month]) => month);
+  }
 
   return {
     raw_best_time_text: rawBestTimeText,
@@ -516,48 +524,20 @@ function generateRankings(cities) {
       })),
   };
 
-  // Overall score: composite of budget value, weather, and connectivity
-  const allCities = cities.filter(
-    c => c.budget?.tier_budget?.median != null
-  );
-
-  // Get ranges for normalisation
-  const budgetMedians = allCities.map(c => c.budget.tier_budget.median).filter(Boolean);
-  const budgetMin = Math.min(...budgetMedians);
-  const budgetMax = Math.max(...budgetMedians);
-  const budgetRange = budgetMax - budgetMin || 1;
+  // Overall score: derived from per-city scores.overall_score (single source of truth)
+  const withOverall = cities.filter(c => c.scores?.overall_score != null);
 
   rankings.overall = {
     metric: 'scores.overall_score',
     order: 'desc',
-    items: allCities
-      .map(c => {
-        // Budget value: cheaper = better, normalise inverted
-        const budgetScore = 1 - ((c.budget.tier_budget.median - budgetMin) / budgetRange);
-
-        // Weather: use comfort_score if available, else 0.5 (neutral)
-        const weatherScore = c.weather?.comfort_score ?? 0.5;
-
-        // Transport: hubness if available, else 0.1 (low)
-        const transportScore = c.transport?.hubness ?? 0.1;
-
-        const overall = parseFloat(
-          (budgetScore * 0.3 + weatherScore * 0.35 + transportScore * 0.35).toFixed(3)
-        );
-
-        return {
-          slug: c.slug,
-          name: c.name,
-          value: overall,
-          breakdown: {
-            budget_value: parseFloat(budgetScore.toFixed(3)),
-            weather: parseFloat(weatherScore.toFixed(3)),
-            transport: parseFloat(transportScore.toFixed(3)),
-          },
-        };
-      })
-      .sort((a, b) => b.value - a.value)
-      .map((c, i) => ({ ...c, rank: i + 1 })),
+    items: [...withOverall]
+      .sort((a, b) => b.scores.overall_score - a.scores.overall_score)
+      .map((c, i) => ({
+        slug: c.slug,
+        name: c.name,
+        value: c.scores.overall_score,
+        rank: i + 1,
+      })),
   };
 
   return rankings;
@@ -600,18 +580,17 @@ function main() {
     const city = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
     const slug = city.slug || file.replace('.json', '');
 
-    // Image (Fix 1)
     const image = city.image || null;
 
-    // Budget (Fix 4: new structure with raw, currency, tier_budget/tier_mid/tier_luxury)
+    // Extract budget tiers (budget/mid/luxury) with raw strings and parsed values
     const budget = extractBudget(city);
 
-    // Weather (Fix 5: new structure with month_scores, comfort_score, avg_temp_c, etc.)
+    // Compute monthly weather scores, comfort score, and best months
     const weather = weatherData[slug]
       ? computeWeatherScores(weatherData[slug])
       : null;
 
-    // Transport (Fix 7: add top_routes)
+    // Transport connectivity and top routes
     const transportRaw = transportStats.get(slug) || null;
     let transport = null;
     if (transportRaw) {
@@ -627,7 +606,7 @@ function main() {
     // Region
     const region = regionMap.get(slug) || null;
 
-    // Scores (Fix 2)
+    // Composite scores: budget (absolute), weather, transport
     const budgetMedian = budget.tier_budget?.median ?? null;
     const budgetScore = budgetMedian != null
       ? Math.round(Math.max(0, 1 - budgetMedian / 80) * 100) / 100
@@ -656,7 +635,7 @@ function main() {
       overall_score: overallScore,
     };
 
-    // Score components (Fix 3)
+    // Score breakdown for transparency
     const bestMonthCount = weather?.best_months?.length ?? 0;
     const scoreComponents = {
       budget: {
@@ -709,7 +688,7 @@ function main() {
     console.log(`  ${slug}: ${budgetStr} | ${weatherStr} | ${transportStr} | region: ${regionStr}`);
   }
 
-  // 4. Generate rankings (Fix 6: wrapped with metadata)
+  // 4. Generate rankings
   console.log('\nGenerating rankings...');
   const rankings = generateRankings(cities);
 
