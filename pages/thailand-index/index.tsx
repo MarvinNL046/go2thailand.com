@@ -28,6 +28,8 @@ const tocItemsEn: TocItem[] = [
   { id: 'methodology', label: 'Methodology' },
   { id: 'budget-preview', label: 'Budget Preview' },
   { id: 'best-time-preview', label: 'Best Time Preview' },
+  { id: 'nomad-preview', label: 'Digital Nomads' },
+  { id: 'safety-preview', label: 'Safety' },
   { id: 'explore', label: 'Explore Thailand' },
   { id: 'faq', label: 'FAQ' },
   { id: 'about', label: 'About' },
@@ -40,6 +42,8 @@ const tocItemsNl: TocItem[] = [
   { id: 'methodology', label: 'Methodologie' },
   { id: 'budget-preview', label: 'Budget Overzicht' },
   { id: 'best-time-preview', label: 'Beste Reistijd' },
+  { id: 'nomad-preview', label: 'Digitale Nomaden' },
+  { id: 'safety-preview', label: 'Veiligheid' },
   { id: 'explore', label: 'Ontdek Thailand' },
   { id: 'faq', label: 'FAQ' },
   { id: 'about', label: 'Over Ons' },
@@ -420,6 +424,11 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
                       ? 'Budgetschattingen zijn indicatief en varieren per seizoen. Weerdata is beschikbaar voor 10 steden; overige steden gebruiken regionale schattingen. Scores worden periodiek bijgewerkt.'
                       : 'Budget estimates are indicative and vary by season. Weather data is available for 10 cities; remaining cities use regional estimates. Scores are updated periodically.'}
                   </p>
+                  <p>
+                    {lang === 'en'
+                      ? 'Digital nomad and safety scores are generated using AI-assisted analysis based on publicly available data, travel advisories, and community reports. These scores are conservative estimates and are periodically reviewed and updated. All data is transparently sourced and methodology is documented.'
+                      : 'Digitale nomaden- en veiligheidsscores worden gegenereerd met behulp van AI-ondersteunde analyse op basis van openbaar beschikbare gegevens, reisadviezen en gemeenschapsrapporten. Deze scores zijn conservatieve schattingen en worden periodiek beoordeeld en bijgewerkt.'}
+                  </p>
                   <p className="text-xs text-gray-400">
                     {lang === 'nl'
                       ? `Laatste update: ${data.metadata.generated_at.split('T')[0]} | Versie: ${data.metadata.data_version}`
@@ -524,6 +533,68 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
                 </div>
               </section>
 
+              {/* Nomad Preview */}
+              {data.rankings.best_nomad && (
+                <section id="nomad-preview" className="mb-12">
+                  <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                    {lang === 'en' ? 'Top Digital Nomad Cities' : 'Top Digitale Nomaden Steden'}
+                  </h2>
+                  <p className="text-gray-600 mb-6">
+                    {lang === 'en'
+                      ? 'Cities ranked by WiFi speed, coworking spaces, cost of living, and nomad community size.'
+                      : 'Steden gerangschikt op WiFi-snelheid, coworking ruimtes, kosten van levensonderhoud en nomadengemeenschap.'}
+                  </p>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                    {data.rankings.best_nomad.items.slice(0, 6).map((item) => (
+                      <RankingCard
+                        key={item.slug}
+                        rank={item.rank}
+                        slug={item.slug}
+                        name={item.name}
+                        metricLabel={lang === 'en' ? 'Nomad Score' : 'Nomad Score'}
+                        metricValue={(item.value * 100).toFixed(0) + '%'}
+                      />
+                    ))}
+                  </div>
+                  <div className="mt-4">
+                    <Link href="/thailand-index/digital-nomad/" className="text-thailand-blue hover:underline font-medium">
+                      {lang === 'en' ? 'Full digital nomad guide \u2192' : 'Volledige digitale nomaden gids \u2192'}
+                    </Link>
+                  </div>
+                </section>
+              )}
+
+              {/* Safety Preview */}
+              {data.rankings.safest && (
+                <section id="safety-preview" className="mb-12">
+                  <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                    {lang === 'en' ? 'Safest Destinations' : 'Veiligste Bestemmingen'}
+                  </h2>
+                  <p className="text-gray-600 mb-6">
+                    {lang === 'en'
+                      ? 'Cities ranked by overall safety, solo traveller safety, nighttime safety, and healthcare quality.'
+                      : 'Steden gerangschikt op algehele veiligheid, veiligheid voor alleen-reizigers, nachtveiligheid en gezondheidszorg.'}
+                  </p>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                    {data.rankings.safest.items.slice(0, 6).map((item) => (
+                      <RankingCard
+                        key={item.slug}
+                        rank={item.rank}
+                        slug={item.slug}
+                        name={item.name}
+                        metricLabel={lang === 'en' ? 'Safety Score' : 'Veiligheidsscore'}
+                        metricValue={(item.value * 100).toFixed(0) + '%'}
+                      />
+                    ))}
+                  </div>
+                  <div className="mt-4">
+                    <Link href="/thailand-index/safety/" className="text-thailand-blue hover:underline font-medium">
+                      {lang === 'en' ? 'Complete safety guide \u2192' : 'Volledige veiligheidsgids \u2192'}
+                    </Link>
+                  </div>
+                </section>
+              )}
+
               {/* Explore Thailand routes */}
               <section id="explore">
                 <p className="section-label">
@@ -587,6 +658,57 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
                       {lang === 'nl'
                         ? 'Ontdek de mooiste eilanden van Thailand, van Koh Samui tot Koh Lipe.'
                         : 'Discover the most beautiful islands in Thailand, from Koh Samui to Koh Lipe.'}
+                    </p>
+                  </Link>
+                  {/* Transport Hub */}
+                  <Link
+                    href="/thailand-index/transport/"
+                    className="group bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md hover:-translate-y-0.5 transition-all"
+                  >
+                    <div className="w-12 h-12 rounded-xl bg-purple-100 text-purple-700 flex items-center justify-center mb-4">
+                      <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
+                      </svg>
+                    </div>
+                    <h3 className="font-bold font-heading text-gray-900 mb-2 group-hover:text-purple-700 transition-colors">
+                      {lang === 'en' ? 'Transport Hub' : 'Transport Hub'}
+                    </h3>
+                    <p className="text-sm text-gray-600">
+                      {lang === 'en' ? 'Connections & routes for 33 cities' : 'Verbindingen & routes voor 33 steden'}
+                    </p>
+                  </Link>
+                  {/* Digital Nomad Guide */}
+                  <Link
+                    href="/thailand-index/digital-nomad/"
+                    className="group bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md hover:-translate-y-0.5 transition-all"
+                  >
+                    <div className="w-12 h-12 rounded-xl bg-amber-100 text-amber-700 flex items-center justify-center mb-4">
+                      <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                      </svg>
+                    </div>
+                    <h3 className="font-bold font-heading text-gray-900 mb-2 group-hover:text-amber-700 transition-colors">
+                      {lang === 'en' ? 'Digital Nomad Guide' : 'Digitale Nomaden Gids'}
+                    </h3>
+                    <p className="text-sm text-gray-600">
+                      {lang === 'en' ? 'WiFi, coworking & cost rankings' : 'WiFi, coworking & kosten rankings'}
+                    </p>
+                  </Link>
+                  {/* Safety Guide */}
+                  <Link
+                    href="/thailand-index/safety/"
+                    className="group bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md hover:-translate-y-0.5 transition-all"
+                  >
+                    <div className="w-12 h-12 rounded-xl bg-emerald-100 text-emerald-700 flex items-center justify-center mb-4">
+                      <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+                      </svg>
+                    </div>
+                    <h3 className="font-bold font-heading text-gray-900 mb-2 group-hover:text-emerald-700 transition-colors">
+                      {lang === 'en' ? 'Safety Guide' : 'Veiligheidsgids'}
+                    </h3>
+                    <p className="text-sm text-gray-600">
+                      {lang === 'en' ? 'Safety scores for 33 cities' : 'Veiligheidsscores voor 33 steden'}
                     </p>
                   </Link>
                 </div>

@@ -14,7 +14,7 @@ import type { IndexCity, Region, BilingualText } from '../../lib/thailand-index'
 import ScoreBadge from './ScoreBadge';
 import RegionFilter from './RegionFilter';
 
-type SortKey = 'name' | 'budget' | 'weather' | 'transport' | 'overall';
+type SortKey = 'name' | 'budget' | 'weather' | 'transport' | 'nomad' | 'safety' | 'overall';
 type SortDir = 'asc' | 'desc';
 
 interface IndexTableProps {
@@ -26,14 +26,16 @@ interface ColumnDef {
   key: SortKey;
   label: BilingualText;
   /** Short header for mobile */
-  shortLabel?: string;
+  shortLabel?: BilingualText;
 }
 
 const columns: ColumnDef[] = [
   { key: 'name', label: { en: 'Destination', nl: 'Bestemming' } },
-  { key: 'budget', label: { en: 'Budget/day', nl: 'Budget/dag' }, shortLabel: 'Budget' },
+  { key: 'budget', label: { en: 'Budget/day', nl: 'Budget/dag' }, shortLabel: { en: 'Budget', nl: 'Budget' } },
   { key: 'weather', label: { en: 'Weather', nl: 'Weer' } },
   { key: 'transport', label: { en: 'Transport', nl: 'Transport' } },
+  { key: 'nomad', label: { en: 'Nomad', nl: 'Nomad' }, shortLabel: { en: 'Nomad', nl: 'Nomad' } },
+  { key: 'safety', label: { en: 'Safety', nl: 'Veiligheid' }, shortLabel: { en: 'Safe', nl: 'Veilig' } },
   { key: 'overall', label: { en: 'Overall', nl: 'Totaal' } },
 ];
 
@@ -47,6 +49,10 @@ function getSortValue(city: IndexCity, key: SortKey, locale: string): number | s
       return city.scores.weather_score ?? -1;
     case 'transport':
       return city.scores.transport_score ?? -1;
+    case 'nomad':
+      return city.scores?.nomad_score ?? -1;
+    case 'safety':
+      return city.scores?.safety_score ?? -1;
     case 'overall':
       return city.scores.overall_score ?? -1;
   }
@@ -135,7 +141,7 @@ const IndexTable: React.FC<IndexTableProps> = ({ cities, regions }) => {
                   onClick={() => handleSort(col.key)}
                 >
                   <span className="hidden sm:inline">{col.label[loc] || col.label.en}</span>
-                  <span className="sm:hidden">{col.shortLabel || col.label[loc] || col.label.en}</span>
+                  <span className="sm:hidden">{(col.shortLabel && (col.shortLabel[loc] || col.shortLabel.en)) || col.label[loc] || col.label.en}</span>
                   <SortArrow columnKey={col.key} />
                 </th>
               ))}
@@ -180,6 +186,16 @@ const IndexTable: React.FC<IndexTableProps> = ({ cities, regions }) => {
                   {/* Transport */}
                   <td className="px-3 py-3">
                     <ScoreBadge score={city.scores.transport_score} size="sm" />
+                  </td>
+
+                  {/* Nomad */}
+                  <td className="px-3 py-3">
+                    <ScoreBadge score={city.scores?.nomad_score ?? null} size="sm" />
+                  </td>
+
+                  {/* Safety */}
+                  <td className="px-3 py-3">
+                    <ScoreBadge score={city.scores?.safety_score ?? null} size="sm" />
                   </td>
 
                   {/* Overall */}
