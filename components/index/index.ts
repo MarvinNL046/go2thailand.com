@@ -11,5 +11,7 @@ export { default as MonthMatrix } from './MonthMatrix';
 export { default as TransportTable } from './TransportTable';
 export { default as NomadTable } from './NomadTable';
 export { default as VisaTable } from './VisaTable';
+export { default as SafetyTable } from './SafetyTable';
+export { default as RiskCard } from './RiskCard';
 
 export type { TocItem } from './TableOfContents';
