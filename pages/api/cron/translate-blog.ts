@@ -43,82 +43,87 @@ export default async function handler(
       })
       .sort((a, b) => b.date.localeCompare(a.date));
 
+    // Prioritize NL first, then other locales — NL is our primary secondary language
+    const priorityLocales: TranslationLocale[] = ["nl"];
+    const otherLocales: TranslationLocale[] = ["zh", "de", "fr", "ru", "ja", "ko"];
+
+    // Scan ALL posts for missing translations (no slice limit)
+    // Priority: NL translations first across all posts, then other locales
     let translated = false;
 
-    for (const file of sorted.slice(0, 3)) {
-      const slug = file.name.replace(".md", "");
+    // Pass 1: Find any post missing NL, translate it
+    // Pass 2: Find any post missing other locales
+    for (const localeGroup of [priorityLocales, otherLocales]) {
+      if (translated) break;
 
-      // Check which locales are missing
-      const missingLocales = allLocales.filter((locale) => {
-        const localePath = path.join(process.cwd(), "content", "blog", locale, `${slug}.md`);
-        return !fs.existsSync(localePath);
-      });
+      for (const file of sorted) {
+        if (translated) break;
+        const slug = file.name.replace(".md", "");
 
-      if (missingLocales.length === 0) continue;
+        const missingLocales = localeGroup.filter((locale) => {
+          const localePath = path.join(process.cwd(), "content", "blog", locale, `${slug}.md`);
+          return !fs.existsSync(localePath);
+        });
 
-      // Read the English content
-      const enContent = fs.readFileSync(path.join(enDir, file.name), "utf-8");
+        if (missingLocales.length === 0) continue;
 
-      // Extract title from frontmatter
-      const titleMatch = enContent.match(/^title:\s*["']?(.+?)["']?\s*$/m);
-      const title = titleMatch?.[1] || slug;
+        const enContent = fs.readFileSync(path.join(enDir, file.name), "utf-8");
+        const titleMatch = enContent.match(/^title:\s*["']?(.+?)["']?\s*$/m);
+        const title = titleMatch?.[1] || slug;
 
-      // Translate 1 locale per run to stay within 300s function timeout
-      const localesToTranslate = missingLocales.slice(0, 1);
+        // Translate up to 2 locales per run to clear backlog faster
+        const localesToTranslate = missingLocales.slice(0, 2);
 
-      console.log(`[cron/translate] Translating "${title}" to: ${localesToTranslate.join(", ")}`);
+        console.log(`[cron/translate] Translating "${title}" to: ${localesToTranslate.join(", ")}`);
 
-      // Build a minimal post object for the translator
-      const post: GeneratedPost = {
-        title,
-        slug,
-        date: new Date().toISOString().split("T")[0],
-        author: { name: "Go2Thailand Team" },
-        category: "city-guide",
-        tags: [],
-        image: `/images/blog/${slug}.webp`,
-        description: "",
-        featured: false,
-        readingTime: 8,
-        lastUpdated: new Date().toISOString().split("T")[0],
-        sources: [],
-        content: enContent,
-      };
+        const post: GeneratedPost = {
+          title,
+          slug,
+          date: new Date().toISOString().split("T")[0],
+          author: { name: "Go2Thailand Team" },
+          category: "city-guide",
+          tags: [],
+          image: `/images/blog/${slug}.webp`,
+          description: "",
+          featured: false,
+          readingTime: 8,
+          lastUpdated: new Date().toISOString().split("T")[0],
+          sources: [],
+          content: enContent,
+        };
 
-      const filesToCommit: Array<{ path: string; content: string; encoding?: "utf-8" | "base64" }> = [];
-      const savedLocales: string[] = [];
+        const filesToCommit: Array<{ path: string; content: string; encoding?: "utf-8" | "base64" }> = [];
+        const savedLocales: string[] = [];
 
-      for (const locale of localesToTranslate) {
-        try {
-          console.log(`[cron/translate] Translating to ${locale}...`);
-          const result = await translatePost(post, locale, "claude-haiku");
-          // Don't re-inject affiliate links — the English source already has them
-          // and the translator preserves all URLs as-is
+        for (const locale of localesToTranslate) {
+          try {
+            console.log(`[cron/translate] Translating to ${locale}...`);
+            const result = await translatePost(post, locale, "claude-haiku");
 
-          filesToCommit.push({
-            path: `content/blog/${locale}/${slug}.md`,
-            content: result.content,
-            encoding: "utf-8",
-          });
-          savedLocales.push(locale);
-        } catch (err) {
-          console.error(`[cron/translate] ${locale} failed:`, err);
+            filesToCommit.push({
+              path: `content/blog/${locale}/${slug}.md`,
+              content: result.content,
+              encoding: "utf-8",
+            });
+            savedLocales.push(locale);
+          } catch (err) {
+            console.error(`[cron/translate] ${locale} failed:`, err);
+          }
         }
-      }
 
-      if (filesToCommit.length > 0) {
-        const commitResult = await commitFilesToGitHub(
-          filesToCommit,
-          `Add translations for: ${title}\n\nLocales: ${savedLocales.join(", ")}`
-        );
-        console.log(`[cron/translate] Committed ${savedLocales.length} translations: ${commitResult.sha}`);
-        translated = true;
-        break; // One post per cron run
+        if (filesToCommit.length > 0) {
+          const commitResult = await commitFilesToGitHub(
+            filesToCommit,
+            `Add translations for: ${title}\n\nLocales: ${savedLocales.join(", ")}`
+          );
+          console.log(`[cron/translate] Committed ${savedLocales.length} translations: ${commitResult.sha}`);
+          translated = true;
+        }
       }
     }
 
     if (!translated) {
-      return res.status(200).json({ message: "All recent posts are fully translated" });
+      return res.status(200).json({ message: "All blog posts are fully translated" });
     }
 
     return res.status(200).json({ success: true });
