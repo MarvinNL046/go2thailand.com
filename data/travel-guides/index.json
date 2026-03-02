@@ -85,5 +85,82 @@
     "description": { "en": "Rooftop bars by city, nightlife areas, safety tips, dress codes, drink prices, and local etiquette", "nl": "Rooftop bars per stad, uitgaansgebieden, veiligheidstips, dresscodes, drankprijzen en lokale etiquette" },
     "icon": "\ud83c\udf03",
     "category": "culture"
+  },
+  {
+    "slug": "first-time-thailand",
+    "title": { "en": "First Time in Thailand: 20 Things to Know", "nl": "Eerste Keer Thailand: 20 Dingen om te Weten" },
+    "description": { "en": "Essential beginner guide covering visa basics, currency, safety, cultural norms, scams, and everything first-time visitors need to know", "nl": "Essentiële beginnersgids over visum, valuta, veiligheid, culturele normen, oplichtingstrucs en alles wat je moet weten" },
+    "icon": "🌟",
+    "category": "planning"
+  },
+  {
+    "slug": "thailand-with-kids",
+    "title": { "en": "Thailand with Kids & Family", "nl": "Thailand met Kinderen & Gezin" },
+    "description": { "en": "Family-friendly destinations, kid-safe beaches, resorts with kids clubs, health tips for children, and family itineraries", "nl": "Kindvriendelijke bestemmingen, veilige stranden, resorts met kinderclub, gezondheidstips en gezinsroutes" },
+    "icon": "👨‍👩‍👧‍👦",
+    "category": "planning"
+  },
+  {
+    "slug": "solo-female-travel-thailand",
+    "title": { "en": "Solo Female Travel Thailand", "nl": "Solo Reizen als Vrouw in Thailand" },
+    "description": { "en": "Safety tips, best cities for solo women, accommodation advice, scam awareness, transport safety, and meeting other travelers", "nl": "Veiligheidstips, beste steden voor vrouwen, accommodatie-advies, oplichting herkennen, vervoer en andere reizigers ontmoeten" },
+    "icon": "💪",
+    "category": "planning"
+  },
+  {
+    "slug": "thai-etiquette-dos-donts",
+    "title": { "en": "Thai Etiquette: Do's & Don'ts", "nl": "Thaise Etiquette: Do's & Don'ts" },
+    "description": { "en": "Temple rules, royal family respect, cultural taboos, wai greeting, monk interaction, tipping, dress codes, and Thai smile culture", "nl": "Tempelregels, respect voor koninklijk huis, culturele taboes, wai-begroeting, monniken, fooien, dresscode en Thaise glimlachcultuur" },
+    "icon": "🙏",
+    "category": "culture"
+  },
+  {
+    "slug": "vaccinations-travel-health-thailand",
+    "title": { "en": "Vaccinations & Travel Health", "nl": "Vaccinaties & Reisgezondheid" },
+    "description": { "en": "Required and recommended vaccines, malaria prophylaxis, travel pharmacy essentials, insect protection, and travel clinic prep timeline", "nl": "Verplichte en aanbevolen vaccinaties, malariaprofylaxe, reisapotheek, insectenbescherming en tijdlijn voor reiskliniek" },
+    "icon": "💉",
+    "category": "health-safety"
+  },
+  {
+    "slug": "thai-phrases-language",
+    "title": { "en": "Basic Thai Phrases & Language", "nl": "Basis Thaise Zinnen & Taal" },
+    "description": { "en": "Essential greetings, numbers, directions, food ordering, bargaining phrases, tone marks, and useful language apps", "nl": "Essentiële begroetingen, cijfers, richtingen, eten bestellen, afdingzinnen, toontekens en handige taalapps" },
+    "icon": "🗣️",
+    "category": "culture"
+  },
+  {
+    "slug": "vegetarian-vegan-thailand",
+    "title": { "en": "Vegetarian & Vegan Guide Thailand", "nl": "Vegetarische & Vegan Gids Thailand" },
+    "description": { "en": "Jay vs vegetarian distinction, common dishes, ordering phrases, 7-Eleven options, vegan restaurants by city, and allergen tips", "nl": "Jay vs vegetarisch verschil, gangbare gerechten, bestelfrasen, 7-Eleven opties, vegan restaurants per stad en allergeentips" },
+    "icon": "🥬",
+    "category": "food-drink"
+  },
+  {
+    "slug": "thai-cuisine-food-guide",
+    "title": { "en": "Thai Cuisine & Street Food Guide", "nl": "Thaise Keuken & Straateten Gids" },
+    "description": { "en": "4 regional cuisines, must-try dishes, street food safety, food courts, spice levels, night markets, and cooking classes", "nl": "4 regionale keukens, must-try gerechten, straateten veiligheid, foodcourts, pittig niveaus, nachtmarkten en kooklessen" },
+    "icon": "🍜",
+    "category": "food-drink"
+  },
+  {
+    "slug": "7-eleven-thailand",
+    "title": { "en": "7-Eleven Guide Thailand", "nl": "7-Eleven Gids Thailand" },
+    "description": { "en": "Unique Thai 7-Eleven culture, best snacks and drinks, ready meals, useful services, prices, and souvenir-worthy products", "nl": "Unieke Thaise 7-Eleven cultuur, beste snacks en drankjes, kant-en-klaar maaltijden, handige diensten, prijzen en souvenirs" },
+    "icon": "🏪",
+    "category": "culture"
+  },
+  {
+    "slug": "hidden-gems-off-beaten-path-thailand",
+    "title": { "en": "Hidden Gems & Off the Beaten Path", "nl": "Verborgen Parels & Onontdekt Thailand" },
+    "description": { "en": "Lesser-known destinations: Koh Kood, Sangkhlaburi, Nan, Koh Phayam, Trang islands, and more — why they're special and how to get there", "nl": "Onbekendere bestemmingen: Koh Kood, Sangkhlaburi, Nan, Koh Phayam, Trang-eilanden en meer — waarom ze bijzonder zijn" },
+    "icon": "💎",
+    "category": "activities"
+  },
+  {
+    "slug": "history-culture-thailand",
+    "title": { "en": "History & Culture of Thailand", "nl": "Geschiedenis & Cultuur van Thailand" },
+    "description": { "en": "Sukhothai Kingdom, Ayutthaya era, Buddhism, temple architecture, silk weaving, Muay Thai origins, and UNESCO World Heritage sites", "nl": "Sukhothai-koninkrijk, Ayutthaya-tijdperk, boeddhisme, tempelarchitectuur, zijdeweverij, Muay Thai en UNESCO-werelderfgoed" },
+    "icon": "🏛️",
+    "category": "culture"
   }
 ]

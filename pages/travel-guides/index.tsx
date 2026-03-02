@@ -20,10 +20,11 @@ const categoryLabels: Record<string, { en: string; nl: string }> = {
   connectivity: { en: 'Connectivity', nl: 'Connectiviteit' },
   activities: { en: 'Activities & Adventure', nl: 'Activiteiten & Avontuur' },
   culture: { en: 'Culture & Lifestyle', nl: 'Cultuur & Lifestyle' },
+  'food-drink': { en: 'Food & Drink', nl: 'Eten & Drinken' },
   'health-safety': { en: 'Health & Safety', nl: 'Gezondheid & Veiligheid' },
 };
 
-const categoryOrder = ['planning', 'health-safety', 'activities', 'culture', 'transport', 'connectivity'];
+const categoryOrder = ['planning', 'health-safety', 'activities', 'culture', 'food-drink', 'transport', 'connectivity'];
 
 interface TravelGuidesIndexProps {
   guides: Guide[];
