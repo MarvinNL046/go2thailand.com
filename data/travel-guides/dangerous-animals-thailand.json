@@ -1,0 +1,524 @@
+{
+  "slug": "dangerous-animals-thailand",
+  "title": {
+    "en": "Dangerous Animals in Thailand: What to Know & How to Stay Safe",
+    "nl": "Gevaarlijke dieren in Thailand: wat je moet weten en hoe je veilig blijft"
+  },
+  "icon": "snake",
+  "lastUpdated": "2026-03-02",
+  "seo": {
+    "metaTitle": {
+      "en": "Dangerous Animals in Thailand 2026: Snakes, Jellyfish, Mosquitoes & Safety Guide",
+      "nl": "Gevaarlijke dieren in Thailand 2026: slangen, kwallen, muggen & veiligheidsgids"
+    },
+    "metaDescription": {
+      "en": "Complete guide to dangerous animals in Thailand. Learn about venomous snakes, box jellyfish, mosquito-borne diseases, and practical first-aid tips to stay safe during your trip.",
+      "nl": "Complete gids over gevaarlijke dieren in Thailand. Leer over giftige slangen, dooskvallen, door muggen overdraagbare ziekten en praktische EHBO-tips om veilig te blijven."
+    },
+    "keywords": "dangerous animals Thailand, Thailand snakes, box jellyfish Thailand, mosquito dengue Thailand, venomous snakes Southeast Asia, Thailand wildlife safety, King Cobra Thailand, Malayan Pit Viper, stray dogs Thailand rabies"
+  },
+  "hero": {
+    "subtitle": {
+      "en": "Wildlife Safety Guide for Travelers",
+      "nl": "Veiligheidsgids over wilde dieren voor reizigers"
+    },
+    "intro": {
+      "en": "Thailand is home to incredible wildlife, but a small number of species can pose a risk to travelers. The good news: serious encounters are rare and almost always preventable. This guide covers the animals you should know about, realistic risk levels, and exactly what to do if something goes wrong.",
+      "nl": "Thailand is de thuisbasis van ongelooflijke wilde dieren, maar een klein aantal soorten kan een risico vormen voor reizigers. Het goede nieuws: ernstige ontmoetingen zijn zeldzaam en bijna altijd te voorkomen. Deze gids behandelt de dieren die je moet kennen, realistische risiconiveaus en precies wat je moet doen als er iets misgaat."
+    }
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": {
+        "en": "Overview: How Dangerous Is Thailand's Wildlife Really?",
+        "nl": "Overzicht: hoe gevaarlijk zijn Thailands wilde dieren echt?"
+      },
+      "content": {
+        "en": "Thailand is generally very safe for travelers when it comes to wildlife. Millions of tourists visit every year without any animal-related incidents. Venomous snake bites account for roughly 7,000 hospital visits per year across the entire Thai population of 70 million — and fatalities are extremely rare thanks to widely available antivenom. Your biggest realistic risks are mosquito bites (dengue fever) and stray dog encounters (rabies). Knowing what to watch for and taking simple precautions makes your trip far safer than worrying about worst-case scenarios.",
+        "nl": "Thailand is over het algemeen zeer veilig voor reizigers als het gaat om wilde dieren. Miljoenen toeristen bezoeken het land elk jaar zonder diergerelateerde incidenten. Giftige slangenbeten leiden tot ongeveer 7.000 ziekenhuisbezoeken per jaar onder de gehele Thaise bevolking van 70 miljoen — en sterfgevallen zijn uiterst zeldzaam dankzij breed beschikbaar antigif. Je grootste realistische risico's zijn muggenbeten (knokkelkoorts) en ontmoetingen met zwerfhonden (hondsdolheid). Weten waar je op moet letten en eenvoudige voorzorgsmaatregelen nemen maakt je reis veel veiliger dan je zorgen maken over worstcasescenario's."
+      }
+    },
+    {
+      "type": "cards",
+      "title": {
+        "en": "Venomous & Dangerous Snakes",
+        "nl": "Giftige en gevaarlijke slangen"
+      },
+      "items": [
+        {
+          "name": {
+            "en": "King Cobra (Ophiophagus hannah)",
+            "nl": "Koningscobra (Ophiophagus hannah)"
+          },
+          "description": {
+            "en": "The world's longest venomous snake (up to 5.5 m). Found in forests, agricultural areas, and near water across Thailand. Highly venomous — a single bite can deliver enough neurotoxin to kill an elephant. However, King Cobras are shy and avoid humans. Encounters are very rare for tourists. If you see one, back away slowly and do not corner it.",
+            "nl": "De langste giftige slang ter wereld (tot 5,5 m). Komt voor in bossen, landbouwgebieden en nabij water door heel Thailand. Zeer giftig — één beet kan genoeg neurotoxine afgeven om een olifant te doden. Koningscobra's zijn echter schuw en vermijden mensen. Ontmoetingen zijn zeer zeldzaam voor toeristen. Als je er een ziet, loop dan langzaam achteruit en drijf het dier niet in het nauw."
+          },
+          "icon": "crown-snake"
+        },
+        {
+          "name": {
+            "en": "Monocled Cobra (Naja kaouthia)",
+            "nl": "Monokelcobra (Naja kaouthia)"
+          },
+          "description": {
+            "en": "Thailand's most commonly encountered cobra. Found in rice paddies, urban areas, gardens, and even homes — especially during the rainy season (May-October). Responsible for most cobra-related bites in Thailand. Venom is highly neurotoxic. Can spit venom up to 2 meters. If encountered near accommodation, alert staff immediately and keep your distance.",
+            "nl": "De meest voorkomende cobra in Thailand. Komt voor in rijstvelden, stedelijke gebieden, tuinen en zelfs huizen — vooral tijdens het regenseizoen (mei-oktober). Verantwoordelijk voor de meeste cobragerelateerde beten in Thailand. Het gif is sterk neurotoxisch. Kan gif spugen tot 2 meter. Als je er een tegenkomt bij je verblijf, waarschuw dan onmiddellijk het personeel en houd afstand."
+          },
+          "icon": "cobra"
+        },
+        {
+          "name": {
+            "en": "Malayan Pit Viper (Calloselasma rhodostoma)",
+            "nl": "Maleise grondslangenkopadder (Calloselasma rhodostoma)"
+          },
+          "description": {
+            "en": "Causes the most snakebite hospitalizations in Thailand. Found on forest floors, rubber plantations, and agricultural land. Well-camouflaged brown pattern makes it easy to step on. Venom causes severe tissue damage and bleeding. Unlike most snakes, it does not always flee when approached. Always wear closed shoes when walking through vegetation at night.",
+            "nl": "Veroorzaakt de meeste ziekenhuisopnames door slangenbeten in Thailand. Komt voor op de bosbodem, rubberplantages en landbouwgrond. Het goed gecamoufleerde bruine patroon maakt het makkelijk om erop te stappen. Het gif veroorzaakt ernstige weefselschade en bloedingen. In tegenstelling tot de meeste slangen vlucht deze niet altijd als je nadert. Draag altijd dichte schoenen als je 's nachts door begroeiing loopt."
+          },
+          "icon": "viper"
+        },
+        {
+          "name": {
+            "en": "White-lipped Pit Viper (Trimeresurus albolabris)",
+            "nl": "Witlippige groefkopadder (Trimeresurus albolabris)"
+          },
+          "description": {
+            "en": "Bright green arboreal snake found in trees, bushes, and bamboo across Thailand. Common in national parks and jungle areas. Mostly active at night. Bite is painful and causes swelling but is rarely life-threatening with proper medical care. Often found at head height on branches — use a flashlight when walking jungle trails after dark.",
+            "nl": "Felgroene boomslang die voorkomt in bomen, struiken en bamboe door heel Thailand. Veel voorkomend in nationale parken en junglegebieden. Vooral 's nachts actief. De beet is pijnlijk en veroorzaakt zwelling, maar is zelden levensbedreigend met goede medische zorg. Vaak te vinden op hoofdhoogte op takken — gebruik een zaklamp als je 's avonds over junglepaden loopt."
+          },
+          "icon": "tree-snake"
+        },
+        {
+          "name": {
+            "en": "Banded Krait (Bungarus fasciatus)",
+            "nl": "Gestreepte Krait (Bungarus fasciatus)"
+          },
+          "description": {
+            "en": "Distinctive black and yellow banded snake. Extremely venomous — venom is 15 times more potent than a cobra's. Found near water, rice paddies, and rural areas. Almost exclusively nocturnal and very docile during the day. Bites are rare but extremely dangerous due to powerful neurotoxin that can cause respiratory failure. Antivenom is essential — get to a hospital immediately.",
+            "nl": "Opvallende zwart-geel gestreepte slang. Extreem giftig — het gif is 15 keer sterker dan dat van een cobra. Komt voor nabij water, rijstvelden en landelijke gebieden. Bijna uitsluitend nachtactief en erg mak overdag. Beten zijn zeldzaam maar extreem gevaarlijk door een krachtig neurotoxine dat ademhalingsverlamming kan veroorzaken. Antigif is essentieel — ga onmiddellijk naar een ziekenhuis."
+          },
+          "icon": "banded-snake"
+        },
+        {
+          "name": {
+            "en": "Reticulated Python (Malayopython reticulatus)",
+            "nl": "Netpython (Malayopython reticulatus)"
+          },
+          "description": {
+            "en": "The world's longest snake (up to 8 m), found across Thailand in forests, near water, and occasionally in urban areas including Bangkok. Non-venomous but kills by constriction. Attacks on humans are extremely rare and almost always involve very large specimens. Smaller pythons encountered near homes are harmless to adults. Do not attempt to handle or provoke any python you encounter.",
+            "nl": "De langste slang ter wereld (tot 8 m), voorkomend door heel Thailand in bossen, nabij water en soms in stedelijke gebieden inclusief Bangkok. Niet giftig maar doodt door verwurging. Aanvallen op mensen zijn uiterst zeldzaam en betreffen bijna altijd zeer grote exemplaren. Kleinere pythons nabij woningen zijn onschadelijk voor volwassenen. Probeer nooit een python op te pakken of te provoceren."
+          },
+          "icon": "python"
+        },
+        {
+          "name": {
+            "en": "Green Pit Viper (Trimeresurus spp.)",
+            "nl": "Groene groefkopadder (Trimeresurus spp.)"
+          },
+          "description": {
+            "en": "Several green pit viper species inhabit Thailand's forests and parks. Similar to the white-lipped variety but includes species like Pope's Pit Viper and Vogel's Pit Viper. All are arboreal, well-camouflaged, and deliver a painful, medically significant bite. Most bites happen when people accidentally grab a branch where the snake is resting. Always look before you reach in forested areas.",
+            "nl": "Verschillende soorten groene groefkopadders leven in Thailands bossen en parken. Vergelijkbaar met de witlippige variant maar omvat soorten zoals de Pope's groefkopadder en Vogel's groefkopadder. Allemaal zijn ze boomlevend, goed gecamoufleerd en bezorgen een pijnlijke, medisch significante beet. De meeste beten gebeuren wanneer mensen per ongeluk een tak vastpakken waarop de slang rust. Kijk altijd voordat je ergens grijpt in bosgebieden."
+          },
+          "icon": "green-snake"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "en": "Risk Level Comparison by Animal",
+        "nl": "Risiconiveau per dier"
+      },
+      "headers": [
+        { "en": "Animal", "nl": "Dier" },
+        { "en": "Danger Level (1-5)", "nl": "Gevaarniveau (1-5)" },
+        { "en": "Encounter Likelihood", "nl": "Kans op ontmoeting" },
+        { "en": "Where Found", "nl": "Waar te vinden" },
+        { "en": "Fatality Risk", "nl": "Overlijdensrisico" }
+      ],
+      "rows": [
+        [
+          { "en": "Venomous snakes", "nl": "Giftige slangen" },
+          { "en": "5", "nl": "5" },
+          { "en": "Low (rural/jungle areas)", "nl": "Laag (landelijke/junglegebieden)" },
+          { "en": "Forests, rice paddies, rural homes", "nl": "Bossen, rijstvelden, landelijke huizen" },
+          { "en": "Low with antivenom (< 1% treated)", "nl": "Laag met antigif (< 1% bij behandeling)" }
+        ],
+        [
+          { "en": "Box jellyfish", "nl": "Dooskwal" },
+          { "en": "5", "nl": "5" },
+          { "en": "Seasonal (Oct-Mar, Gulf islands)", "nl": "Seizoensgebonden (okt-mrt, Golf-eilanden)" },
+          { "en": "Koh Samui, Koh Phangan, Koh Tao", "nl": "Koh Samui, Koh Phangan, Koh Tao" },
+          { "en": "Moderate (can be fatal without treatment)", "nl": "Matig (kan fataal zijn zonder behandeling)" }
+        ],
+        [
+          { "en": "Mosquitoes (dengue)", "nl": "Muggen (knokkelkoorts)" },
+          { "en": "4", "nl": "4" },
+          { "en": "Very high (year-round, everywhere)", "nl": "Zeer hoog (het hele jaar, overal)" },
+          { "en": "All of Thailand, especially urban areas", "nl": "Heel Thailand, vooral stedelijke gebieden" },
+          { "en": "Low (< 1% fatality, higher with severe dengue)", "nl": "Laag (< 1% sterfte, hoger bij ernstige knokkelkoorts)" }
+        ],
+        [
+          { "en": "Stray dogs", "nl": "Zwerfhonden" },
+          { "en": "3", "nl": "3" },
+          { "en": "Very high (everywhere)", "nl": "Zeer hoog (overal)" },
+          { "en": "Streets, temples, beaches, markets", "nl": "Straten, tempels, stranden, markten" },
+          { "en": "Low (rabies fatal if untreated, vaccine widely available)", "nl": "Laag (hondsdolheid fataal zonder behandeling, vaccin breed beschikbaar)" }
+        ],
+        [
+          { "en": "Monkeys", "nl": "Apen" },
+          { "en": "2", "nl": "2" },
+          { "en": "High (tourist areas with monkeys)", "nl": "Hoog (toeristengebieden met apen)" },
+          { "en": "Lopburi, monkey beaches, national parks", "nl": "Lopburi, apenstranden, nationale parken" },
+          { "en": "Very low (rabies risk from bites, mostly minor injuries)", "nl": "Zeer laag (hondsdolheidsrisico bij beten, meestal kleine verwondingen)" }
+        ],
+        [
+          { "en": "Centipedes", "nl": "Duizendpoten" },
+          { "en": "2", "nl": "2" },
+          { "en": "Moderate (rural, older buildings)", "nl": "Matig (landelijk, oudere gebouwen)" },
+          { "en": "Under rocks, in shoes, leaf litter, bathrooms", "nl": "Onder stenen, in schoenen, bladafval, badkamers" },
+          { "en": "Very low (extremely painful but not life-threatening)", "nl": "Zeer laag (extreem pijnlijk maar niet levensbedreigend)" }
+        ],
+        [
+          { "en": "Scorpions", "nl": "Schorpioenen" },
+          { "en": "1", "nl": "1" },
+          { "en": "Low (rural jungle areas)", "nl": "Laag (landelijke junglegebieden)" },
+          { "en": "Forests, under rocks, in bungalows", "nl": "Bossen, onder stenen, in bungalows" },
+          { "en": "Very low (Thai species not medically significant)", "nl": "Zeer laag (Thaise soorten niet medisch significant)" }
+        ]
+      ]
+    },
+    {
+      "type": "cards",
+      "title": {
+        "en": "Marine Dangers",
+        "nl": "Gevaren in zee"
+      },
+      "items": [
+        {
+          "name": {
+            "en": "Box Jellyfish (Chironex & Chiropsalmus spp.)",
+            "nl": "Dooskwal (Chironex & Chiropsalmus spp.)"
+          },
+          "description": {
+            "en": "The most dangerous marine animal in Thai waters. Multi-tentacled box jellyfish (Chironex) can cause cardiac arrest within minutes. Found primarily around Gulf of Thailand islands — Koh Samui, Koh Phangan, and Koh Tao — between October and March. Smaller Irukandji-type species (Chiropsalmus) also present. Warning signs are posted on beaches during peak season. Swim at protected beaches with vinegar stations. Several fatalities recorded, including tourists.",
+            "nl": "Het gevaarlijkste zeedier in Thaise wateren. Meertentakelige dooskvallen (Chironex) kunnen binnen enkele minuten hartstilstand veroorzaken. Vooral te vinden rond de eilanden in de Golf van Thailand — Koh Samui, Koh Phangan en Koh Tao — tussen oktober en maart. Kleinere Irukandji-achtige soorten (Chiropsalmus) komen ook voor. Waarschuwingsborden staan op stranden tijdens het piekseizoen. Zwem bij beschermde stranden met azijnstations. Meerdere sterfgevallen geregistreerd, inclusief toeristen."
+          },
+          "icon": "jellyfish"
+        },
+        {
+          "name": {
+            "en": "Sea Urchins (Diadema spp.)",
+            "nl": "Zee-egels (Diadema spp.)"
+          },
+          "description": {
+            "en": "Black long-spined sea urchins are common on rocky coastlines and coral reefs. Stepping on one drives brittle spines deep into the foot, causing intense pain and risk of infection. Spines often break off under the skin. Soak the affected area in hot water (as hot as you can tolerate) for 30-60 minutes. Remaining spines may need to be removed by a doctor. Wear reef shoes when walking on rocks or snorkeling in shallow water.",
+            "nl": "Zwarte langstekelige zee-egels zijn veel voorkomend op rotsachtige kusten en koraalriffen. Erop stappen drijft broze stekels diep in de voet, wat intense pijn en infectierisico veroorzaakt. Stekels breken vaak af onder de huid. Week het getroffen gebied in heet water (zo heet als je kunt verdragen) gedurende 30-60 minuten. Resterende stekels moeten mogelijk door een arts worden verwijderd. Draag rifschoenen als je over rotsen loopt of snorkelt in ondiep water."
+          },
+          "icon": "sea-urchin"
+        },
+        {
+          "name": {
+            "en": "Lionfish (Pterois spp.)",
+            "nl": "Koraalduivel (Pterois spp.)"
+          },
+          "description": {
+            "en": "Beautiful but venomous fish with fan-like pectoral fins and venomous spines. Found on coral reefs throughout Thai waters. Sting causes severe pain, swelling, and nausea. Not life-threatening for healthy adults but can cause allergic reactions. Immerse the wound in hot water (up to 45°C/113°F) for 30-90 minutes to break down the venom protein. Common on dive sites — admire from a distance and never touch.",
+            "nl": "Mooie maar giftige vis met waaierachtige borstvinnen en giftige stekels. Komt voor op koraalriffen in alle Thaise wateren. De steek veroorzaakt ernstige pijn, zwelling en misselijkheid. Niet levensbedreigend voor gezonde volwassenen maar kan allergische reacties veroorzaken. Dompel de wond onder in heet water (tot 45°C) gedurende 30-90 minuten om het gifproteïne af te breken. Veel voorkomend op duikplekken — bewonder op afstand en raak nooit aan."
+          },
+          "icon": "lionfish"
+        },
+        {
+          "name": {
+            "en": "Blue-ringed Octopus (Hapalochlaena spp.)",
+            "nl": "Blauwgeringde octopus (Hapalochlaena spp.)"
+          },
+          "description": {
+            "en": "Extremely rare in Thai waters but occasionally reported. Small (10-20 cm) with iridescent blue rings that flash as a warning. Contains tetrodotoxin — one of the most potent neurotoxins known. A bite can cause respiratory failure within minutes. There is no antivenom; treatment is respiratory support until the toxin wears off (24 hours). Never pick up small octopuses in tide pools. If bitten, call 1669 immediately and begin CPR if breathing stops.",
+            "nl": "Extreem zeldzaam in Thaise wateren maar soms gemeld. Klein (10-20 cm) met iriserende blauwe ringen die flitsen als waarschuwing. Bevat tetrodotoxine — een van de krachtigste neurotoxinen die bekend zijn. Een beet kan binnen enkele minuten ademhalingsverlamming veroorzaken. Er is geen antigif; behandeling is ademhalingsondersteuning totdat het toxine uitgewerkt is (24 uur). Pak nooit kleine octopussen op in getijdenpoelen. Bel bij een beet onmiddellijk 1669 en begin met reanimatie als de ademhaling stopt."
+          },
+          "icon": "octopus"
+        },
+        {
+          "name": {
+            "en": "Cone Snails (Conus spp.)",
+            "nl": "Kegelslakken (Conus spp.)"
+          },
+          "description": {
+            "en": "Attractive patterned shells that tempt beachcombers, but cone snails can fire a venomous harpoon-like tooth. Found on sandy bottoms and coral reefs. Most Thai species cause only local pain and swelling. However, a few larger species (Conus geographus) carry venom potent enough to be fatal — though encounters with these species are extremely rare. Never pick up live cone shells. If stung, immerse in hot water, monitor for breathing difficulty, and seek medical attention.",
+            "nl": "Aantrekkelijke patroonschelpen die strandwandelaars verleiden, maar kegelslakken kunnen een giftige harpoenachtige tand afvuren. Te vinden op zandige bodems en koraalriffen. De meeste Thaise soorten veroorzaken alleen lokale pijn en zwelling. Enkele grotere soorten (Conus geographus) dragen echter gif dat krachtig genoeg is om fataal te zijn — hoewel ontmoetingen met deze soorten extreem zeldzaam zijn. Pak nooit levende kegelschelpen op. Bij een steek: dompel in heet water, let op ademhalingsproblemen en zoek medische hulp."
+          },
+          "icon": "shell"
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "level": "danger",
+      "title": {
+        "en": "Box Jellyfish Warning: Potentially Fatal",
+        "nl": "Waarschuwing dooskwal: potentieel dodelijk"
+      },
+      "content": {
+        "en": "Box jellyfish stings can be fatal within minutes. Peak season is October through March on Gulf of Thailand islands (Koh Samui, Koh Phangan, Koh Tao). Immediate first aid: pour household vinegar generously over the tentacles for at least 30 seconds to neutralize unfired stinging cells. Do NOT use fresh water, ice, or urine — these trigger more venom release. Remove tentacles with tweezers or a gloved hand, never bare skin. Call 1669 (Thai emergency) immediately. Begin CPR if the victim stops breathing. Many beaches now have vinegar stations — check for them before swimming. Wearing a full-body lycra suit or stinger suit dramatically reduces sting risk.",
+        "nl": "Steken van dooskvallen kunnen binnen enkele minuten fataal zijn. Het piekseizoen is oktober tot maart rond de eilanden in de Golf van Thailand (Koh Samui, Koh Phangan, Koh Tao). Directe eerste hulp: giet huishoudazijn royaal over de tentakels gedurende minstens 30 seconden om niet-afgevuurde netelcellen te neutraliseren. Gebruik GEEN zoet water, ijs of urine — deze veroorzaken meer gifafgifte. Verwijder tentakels met een pincet of gehandschoende hand, nooit met blote huid. Bel onmiddellijk 1669 (Thais alarmnummer). Begin met reanimatie als het slachtoffer stopt met ademen. Veel stranden hebben nu azijnstations — controleer dit voordat je gaat zwemmen. Het dragen van een lycra pak of stingerpak vermindert het risico op steken drastisch."
+      }
+    },
+    {
+      "type": "text",
+      "title": {
+        "en": "Mosquito-Borne Diseases: Dengue, Malaria & Zika",
+        "nl": "Door muggen overdraagbare ziekten: knokkelkoorts, malaria en zika"
+      },
+      "content": {
+        "en": "Mosquitoes are statistically the most dangerous animal in Thailand for travelers. Dengue fever is the primary risk — it's endemic across Thailand, including Bangkok and all tourist areas. The Aedes mosquito that carries dengue bites during daytime, especially around dawn and dusk. Symptoms appear 4-14 days after a bite: sudden high fever, severe headache behind the eyes, joint and muscle pain, and rash. There is no specific treatment — rest, fluids, and paracetamol (never aspirin or ibuprofen, as these increase bleeding risk). Seek medical attention if you develop warning signs: persistent vomiting, abdominal pain, bleeding gums, or extreme fatigue. Severe dengue requires hospitalization.\n\nMalaria risk in Thailand is very low for most tourists. It exists only in rural border areas (Myanmar, Cambodia, and Laos borders) and deep jungle regions. Bangkok, Chiang Mai, Phuket, and all beach resorts are malaria-free. Consult a travel doctor about antimalarials only if you plan extended stays in border regions.\n\nZika virus is present at low levels in Thailand. It is mainly a concern for pregnant women or those planning pregnancy, as it can cause birth defects. Use DEET-based repellent (20-30% concentration), wear long sleeves at dawn/dusk, and sleep under air conditioning or mosquito nets.",
+        "nl": "Muggen zijn statistisch gezien het gevaarlijkste dier in Thailand voor reizigers. Knokkelkoorts (dengue) is het grootste risico — het komt in heel Thailand voor, inclusief Bangkok en alle toeristengebieden. De Aedes-mug die dengue overdraagt, bijt overdag, vooral rond zonsopgang en zonsondergang. Symptomen verschijnen 4-14 dagen na een beet: plotseling hoge koorts, ernstige hoofdpijn achter de ogen, gewrichts- en spierpijn, en uitslag. Er is geen specifieke behandeling — rust, vocht en paracetamol (nooit aspirine of ibuprofen, want deze verhogen het bloedingsrisico). Zoek medische hulp als je waarschuwingssignalen ontwikkelt: aanhoudend braken, buikpijn, bloedend tandvlees of extreme vermoeidheid. Ernstige dengue vereist ziekenhuisopname.\n\nHet malariarisico in Thailand is zeer laag voor de meeste toeristen. Het bestaat alleen in landelijke grensgebieden (grenzen met Myanmar, Cambodja en Laos) en diepe junglegebieden. Bangkok, Chiang Mai, Phuket en alle badplaatsen zijn malariavrij. Raadpleeg een reisarts over malariapillen alleen als je langere tijd in grensgebieden verblijft.\n\nHet zikavirus is op laag niveau aanwezig in Thailand. Het is vooral zorgwekkend voor zwangere vrouwen of vrouwen die zwangerschap plannen, omdat het geboorteafwijkingen kan veroorzaken. Gebruik DEET-bevattende muggenspray (20-30% concentratie), draag lange mouwen bij zonsopgang/zonsondergang en slaap onder airconditioning of een muggennet."
+      }
+    },
+    {
+      "type": "list",
+      "title": {
+        "en": "What to Do If Bitten by a Snake",
+        "nl": "Wat te doen bij een slangenbeet"
+      },
+      "style": "ordered",
+      "items": [
+        {
+          "en": "Stay calm and move away from the snake. Most venom takes time to spread — panic increases your heart rate and accelerates circulation of the venom.",
+          "nl": "Blijf kalm en beweeg weg van de slang. De meeste gifsoorten hebben tijd nodig om te verspreiden — paniek verhoogt je hartslag en versnelt de circulatie van het gif."
+        },
+        {
+          "en": "Immobilize the bitten limb and keep it at or below heart level. Remove rings, watches, and tight clothing near the bite before swelling starts.",
+          "nl": "Immobiliseer het gebeten ledemaat en houd het op of onder harthoogte. Verwijder ringen, horloges en strakke kleding nabij de beet voordat de zwelling begint."
+        },
+        {
+          "en": "Do NOT cut the wound, suck out venom, apply a tourniquet, or put ice on the bite. These outdated methods cause more harm and waste valuable time.",
+          "nl": "Snijd NIET in de wond, zuig geen gif uit, breng geen tourniquet aan en leg geen ijs op de beet. Deze verouderde methoden veroorzaken meer schade en verspillen kostbare tijd."
+        },
+        {
+          "en": "Take a clear photo of the snake if possible — this helps medical staff identify the species and select the correct antivenom. Do not attempt to catch or kill the snake.",
+          "nl": "Maak indien mogelijk een duidelijke foto van de slang — dit helpt medisch personeel de soort te identificeren en het juiste antigif te kiezen. Probeer de slang niet te vangen of te doden."
+        },
+        {
+          "en": "Call 1669 (Thai national emergency number) immediately. This connects you to emergency medical services who can dispatch an ambulance.",
+          "nl": "Bel onmiddellijk 1669 (Thais nationaal alarmnummer). Dit verbindt je met de medische hulpdiensten die een ambulance kunnen sturen."
+        },
+        {
+          "en": "Get to the nearest hospital as quickly as possible. Major hospitals across Thailand stock polyvalent antivenom that covers all common venomous species. Mark the time of the bite — doctors need this information.",
+          "nl": "Ga zo snel mogelijk naar het dichtstbijzijnde ziekenhuis. Grote ziekenhuizen in heel Thailand hebben polyvalent antigif op voorraad dat alle veelvoorkomende giftige soorten dekt. Noteer het tijdstip van de beet — artsen hebben deze informatie nodig."
+        },
+        {
+          "en": "At the hospital, expect observation for at least 24 hours even if symptoms seem mild. Some venom effects are delayed. Blood tests will monitor clotting function and organ markers.",
+          "nl": "In het ziekenhuis kun je minstens 24 uur observatie verwachten, zelfs als de symptomen mild lijken. Sommige gifeffecten zijn vertraagd. Bloedtesten monitoren de stollingsfunctie en orgaanwaarden."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "en": "Stray Dogs & Monkeys: Avoiding Confrontation",
+        "nl": "Zwerfhonden en apen: confrontaties vermijden"
+      },
+      "content": {
+        "en": "Thailand has an estimated 8-10 million stray dogs, and you will encounter them daily. The vast majority are docile temple or street dogs accustomed to humans. However, rabies remains a real risk — Thailand reports 3-10 human rabies deaths annually, and roughly 400,000 people receive post-exposure prophylaxis each year. Avoid petting or feeding stray dogs. If a dog approaches aggressively, stand still, avoid eye contact, and do not run. Slowly back away. If bitten or scratched, wash the wound with soap and water for 10 minutes and go to a hospital immediately for rabies post-exposure prophylaxis (PEP) — this is available at all Thai hospitals and is highly effective when started promptly. Consider a pre-travel rabies vaccination series if you plan to spend time in rural areas.\n\nMonkeys — particularly macaques — are common at tourist sites like Lopburi (the \"Monkey City\"), Railay Beach, Monkey Hill in Phuket, and several national parks. They can be aggressive, especially around food. Never show food or eat near monkeys. Secure your belongings — monkeys are notorious for snatching sunglasses, phones, and water bottles. Do not smile at monkeys or show your teeth, as they interpret this as a threat display. If a monkey bites you, treat it the same as a dog bite: clean the wound and get rabies PEP immediately. Monkey bites carry the same rabies risk as dog bites.",
+        "nl": "Thailand heeft naar schatting 8-10 miljoen zwerfhonden en je zult ze dagelijks tegenkomen. De overgrote meerderheid zijn mak en gewend aan mensen — het zijn tempel- of straathonden. Hondsdolheid blijft echter een reëel risico — Thailand meldt jaarlijks 3-10 sterfgevallen door hondsdolheid bij mensen, en ongeveer 400.000 mensen ontvangen jaarlijks post-expositieprofylaxe. Vermijd het aaien of voeren van zwerfhonden. Als een hond agressief nadert, sta dan stil, vermijd oogcontact en ren niet weg. Loop langzaam achteruit. Bij een beet of krab, was de wond 10 minuten met water en zeep en ga onmiddellijk naar een ziekenhuis voor rabiës post-expositieprofylaxe (PEP) — dit is beschikbaar in alle Thaise ziekenhuizen en is zeer effectief als het snel wordt gestart. Overweeg een pre-reisrabiësvaccinatie als je tijd in landelijke gebieden gaat doorbrengen.\n\nApen — met name makaken — zijn veel voorkomend bij toeristische plekken zoals Lopburi (de \"Apenstad\"), Railay Beach, Monkey Hill in Phuket en diverse nationale parken. Ze kunnen agressief zijn, vooral in de buurt van voedsel. Laat nooit eten zien en eet niet in de buurt van apen. Beveilig je bezittingen — apen staan erom bekend zonnebrillen, telefoons en waterflessen te stelen. Glimlach niet naar apen en laat je tanden niet zien, want ze interpreteren dit als dreiggedrag. Als een aap je bijt, behandel het dan hetzelfde als een hondenbeet: reinig de wond en krijg onmiddellijk rabiës-PEP. Apenbeten dragen hetzelfde hondsdolheidsrisico als hondenbeten."
+      }
+    },
+    {
+      "type": "tips",
+      "title": {
+        "en": "Prevention Tips: How to Avoid Dangerous Encounters",
+        "nl": "Preventietips: hoe gevaarlijke ontmoetingen te vermijden"
+      },
+      "items": [
+        {
+          "title": {
+            "en": "Wear closed shoes after dark",
+            "nl": "Draag dichte schoenen na zonsondergang"
+          },
+          "detail": {
+            "en": "Most snake bites in Thailand happen to feet and ankles at night. Wear sturdy closed-toe shoes when walking outside after sunset, especially in rural areas, gardens, and near vegetation. Flip-flops offer zero protection.",
+            "nl": "De meeste slangenbeten in Thailand gebeuren 's nachts aan voeten en enkels. Draag stevige dichte schoenen als je na zonsondergang buiten loopt, vooral in landelijke gebieden, tuinen en nabij begroeiing. Slippers bieden geen enkele bescherming."
+          }
+        },
+        {
+          "title": {
+            "en": "Use a flashlight on paths at night",
+            "nl": "Gebruik een zaklamp op paden 's nachts"
+          },
+          "detail": {
+            "en": "A simple phone flashlight illuminates the ground ahead and gives snakes, centipedes, and scorpions time to move away. Most of these animals want to avoid you as much as you want to avoid them.",
+            "nl": "Een simpele telefoonzaklamp verlicht de grond voor je en geeft slangen, duizendpoten en schorpioenen de tijd om weg te gaan. De meeste van deze dieren willen jou net zo graag vermijden als jij hen."
+          }
+        },
+        {
+          "title": {
+            "en": "Shake out shoes and check bedding",
+            "nl": "Schud schoenen uit en controleer beddengoed"
+          },
+          "detail": {
+            "en": "Before putting on shoes that were left outside or on the floor, shake them out and check inside. In bungalows and budget accommodation, do a quick visual check of sheets and pillows. Centipedes and scorpions seek warm, dark spaces.",
+            "nl": "Voordat je schoenen aantrekt die buiten of op de grond stonden, schud ze uit en kijk erin. In bungalows en budgetaccommodaties, doe een snelle visuele controle van lakens en kussens. Duizendpoten en schorpioenen zoeken warme, donkere plekken."
+          }
+        },
+        {
+          "title": {
+            "en": "Apply DEET mosquito repellent religiously",
+            "nl": "Gebruik DEET-muggenspray consequent"
+          },
+          "detail": {
+            "en": "Use repellent with 20-30% DEET or 20% picaridin on exposed skin, especially at dawn and dusk. Reapply after swimming or heavy sweating. Thai brands like Soffell and OFF! are effective and sold at every 7-Eleven for 50-80 THB.",
+            "nl": "Gebruik muggenspray met 20-30% DEET of 20% picaridin op onbedekte huid, vooral bij zonsopgang en zonsondergang. Breng opnieuw aan na het zwemmen of hevig zweten. Thaise merken zoals Soffell en OFF! zijn effectief en worden verkocht bij elke 7-Eleven voor 50-80 THB."
+          }
+        },
+        {
+          "title": {
+            "en": "Wear reef shoes in the sea",
+            "nl": "Draag rifschoenen in zee"
+          },
+          "detail": {
+            "en": "Lightweight reef shoes protect against sea urchin spines, sharp coral, stonefish (rare but excruciatingly painful), and rocky seabeds. Essential for snorkeling in shallow areas and walking on rocky beaches.",
+            "nl": "Lichtgewicht rifschoenen beschermen tegen zee-egelstekels, scherp koraal, steenvissen (zeldzaam maar verschrikkelijk pijnlijk) en rotsachtige zeebodems. Essentieel voor snorkelen in ondiepe gebieden en wandelen op rotsachtige stranden."
+          }
+        },
+        {
+          "title": {
+            "en": "Don't eat or carry food near monkeys",
+            "nl": "Eet niet en draag geen eten bij apen"
+          },
+          "detail": {
+            "en": "At monkey-populated tourist sites, keep food in sealed bags inside your backpack. Monkeys associate plastic bags and bottles with food. Put away shiny objects like sunglasses and jewelry — monkeys grab these too.",
+            "nl": "Bij toeristische plekken met apen, bewaar eten in afgesloten zakken in je rugzak. Apen associëren plastic zakken en flessen met voedsel. Berg glimmende voorwerpen op zoals zonnebrillen en sieraden — apen pakken deze ook."
+          }
+        },
+        {
+          "title": {
+            "en": "Swim at patrolled beaches during jellyfish season",
+            "nl": "Zwem bij bewaakte stranden tijdens kwallenseizoen"
+          },
+          "detail": {
+            "en": "From October to March on Gulf islands, swim only at beaches with jellyfish warning signs and vinegar stations. Consider wearing a full-body stinger suit or rash guard for extra protection. Avoid swimming at dawn, dusk, and after storms when jellyfish are more common near shore.",
+            "nl": "Zwem van oktober tot maart op de Golf-eilanden alleen bij stranden met kwallenwaarschuwingsborden en azijnstations. Overweeg het dragen van een stingerpak of rashguard voor extra bescherming. Vermijd zwemmen bij zonsopgang, zonsondergang en na stormen wanneer kwallen vaker voorkomen nabij de kust."
+          }
+        },
+        {
+          "title": {
+            "en": "Save emergency numbers in your phone",
+            "nl": "Sla alarmnummers op in je telefoon"
+          },
+          "detail": {
+            "en": "Save these before you travel: 1669 (national emergency/ambulance), 1155 (tourist police), and the number of the nearest hospital to your accommodation. The Tourist Police speak English and can help coordinate medical emergencies.",
+            "nl": "Sla deze nummers op voordat je reist: 1669 (nationaal alarmnummer/ambulance), 1155 (toeristenpolitie), en het nummer van het dichtstbijzijnde ziekenhuis bij je verblijf. De toeristenpolitie spreekt Engels en kan helpen bij het coördineren van medische noodgevallen."
+          }
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": {
+        "en": "Are there many poisonous snakes in Thailand?",
+        "nl": "Zijn er veel giftige slangen in Thailand?"
+      },
+      "answer": {
+        "en": "Thailand is home to over 200 snake species, of which roughly 60 are venomous. However, only a handful are commonly encountered and medically significant: the Monocled Cobra, Malayan Pit Viper, various green pit vipers, and kraits. Snakes generally avoid humans, and bites mostly occur when people accidentally step on them at night. Wearing closed shoes and using a flashlight in rural areas dramatically reduces your risk.",
+        "nl": "Thailand is de thuisbasis van meer dan 200 slangensoorten, waarvan er ongeveer 60 giftig zijn. Echter, slechts een handvol wordt veelvoorkomend aangetroffen en is medisch significant: de Monokelcobra, Maleise grondslangenkopadder, diverse groene groefkopadders en kraits. Slangen vermijden over het algemeen mensen, en beten gebeuren meestal wanneer mensen er 's nachts per ongeluk op stappen. Het dragen van dichte schoenen en het gebruik van een zaklamp in landelijke gebieden vermindert je risico drastisch."
+      }
+    },
+    {
+      "question": {
+        "en": "What should I do if I get stung by a jellyfish in Thailand?",
+        "nl": "Wat moet ik doen als ik gestoken word door een kwal in Thailand?"
+      },
+      "answer": {
+        "en": "Pour vinegar over the affected area for at least 30 seconds to neutralize unfired stinging cells. Do not rinse with fresh water, apply ice, or urinate on the sting — these can trigger more venom release. Carefully remove any remaining tentacles with tweezers or gloved hands. For box jellyfish stings, call 1669 immediately as they can be life-threatening. Even for less dangerous species, seek medical attention if you experience difficulty breathing, chest pain, or widespread symptoms.",
+        "nl": "Giet azijn over het getroffen gebied gedurende minstens 30 seconden om niet-afgevuurde netelcellen te neutraliseren. Spoel niet af met zoet water, breng geen ijs aan en urineer niet op de steek — dit kan meer gifafgifte veroorzaken. Verwijder voorzichtig resterende tentakels met een pincet of gehandschoende handen. Bel bij een dooskwalsteek onmiddellijk 1669, want deze kan levensbedreigend zijn. Zoek ook bij minder gevaarlijke soorten medische hulp als je ademhalingsproblemen, pijn op de borst of wijdverspreide symptomen ervaart."
+      }
+    },
+    {
+      "question": {
+        "en": "Do I need a rabies vaccination before traveling to Thailand?",
+        "nl": "Heb ik een rabiësvaccinatie nodig voordat ik naar Thailand reis?"
+      },
+      "answer": {
+        "en": "A pre-travel rabies vaccination is recommended but not strictly required for most travelers. The vaccination (3 doses over 21-28 days) simplifies post-exposure treatment: you'll only need 2 booster shots instead of the full 4-shot course plus immunoglobulin. It's strongly recommended if you plan to spend time in rural areas, work with animals, or travel far from medical facilities. Even with pre-vaccination, you must still seek medical treatment after any bite from a dog, monkey, or bat.",
+        "nl": "Een rabiësvaccinatie voor de reis wordt aanbevolen maar is niet strikt vereist voor de meeste reizigers. De vaccinatie (3 doses over 21-28 dagen) vereenvoudigt de behandeling na blootstelling: je hebt slechts 2 boosterinjecties nodig in plaats van de volledige 4-injectiekuur plus immunoglobuline. Het wordt sterk aanbevolen als je tijd in landelijke gebieden gaat doorbrengen, met dieren werkt, of ver van medische faciliteiten reist. Zelfs met pre-vaccinatie moet je nog steeds medische behandeling zoeken na elke beet van een hond, aap of vleermuis."
+      }
+    },
+    {
+      "question": {
+        "en": "Is dengue fever a big risk in Thailand?",
+        "nl": "Is knokkelkoorts een groot risico in Thailand?"
+      },
+      "answer": {
+        "en": "Dengue is the most common mosquito-borne disease in Thailand, with tens of thousands of cases reported annually. Risk exists year-round but peaks during the rainy season (May-November). Urban areas including Bangkok have high transmission rates. Most cases are mild with flu-like symptoms, but severe dengue can require hospitalization. Prevention through DEET repellent and long clothing is your best defense. There is no specific treatment or widely recommended vaccine for travelers.",
+        "nl": "Knokkelkoorts is de meest voorkomende door muggen overdraagbare ziekte in Thailand, met tienduizenden gemelde gevallen per jaar. Het risico bestaat het hele jaar door maar piekt tijdens het regenseizoen (mei-november). Stedelijke gebieden inclusief Bangkok hebben hoge besmettingspercentages. De meeste gevallen zijn mild met griepachtige symptomen, maar ernstige dengue kan ziekenhuisopname vereisen. Preventie door DEET-muggenspray en lange kleding is je beste verdediging. Er is geen specifieke behandeling of breed aanbevolen vaccin voor reizigers."
+      }
+    },
+    {
+      "question": {
+        "en": "Are there dangerous spiders in Thailand?",
+        "nl": "Zijn er gevaarlijke spinnen in Thailand?"
+      },
+      "answer": {
+        "en": "Thailand does not have spiders that are considered medically dangerous to humans in the way that Australia or Brazil does. There are large huntsman spiders (harmless, though startling) and some tarantula species in forested areas, but their bites are comparable to a bee sting. No spider-related fatalities have been recorded in Thailand. The giant golden orb weaver makes impressive webs in gardens but is also harmless. Focus your precautions on snakes, jellyfish, and mosquitoes instead.",
+        "nl": "Thailand heeft geen spinnen die als medisch gevaarlijk voor mensen worden beschouwd zoals in Australië of Brazilië. Er zijn grote jachtspinnen (onschadelijk, hoewel schrikwekkend) en enkele vogelspinsoorten in bosgebieden, maar hun beten zijn vergelijkbaar met een bijensteek. Er zijn geen sterfgevallen door spinnen geregistreerd in Thailand. De reuzengouden wielwebspin maakt indrukwekkende webben in tuinen maar is ook onschadelijk. Richt je voorzorgsmaatregelen liever op slangen, kwallen en muggen."
+      }
+    },
+    {
+      "question": {
+        "en": "How aggressive are monkeys at tourist sites in Thailand?",
+        "nl": "Hoe agressief zijn apen bij toeristische plekken in Thailand?"
+      },
+      "answer": {
+        "en": "Monkeys at popular tourist sites like Lopburi, Railay Beach, and Monkey Hill in Phuket can be surprisingly bold and occasionally aggressive, especially when food is visible. They may grab bags, water bottles, sunglasses, and even cameras. In Lopburi, macaques are known to bite when they feel crowded. Avoid making eye contact, don't smile (showing teeth is seen as a threat), keep food hidden, and maintain a calm distance. If a monkey does bite or scratch you, clean the wound immediately and get rabies post-exposure treatment at any hospital.",
+        "nl": "Apen bij populaire toeristische plekken zoals Lopburi, Railay Beach en Monkey Hill in Phuket kunnen verrassend brutaal en soms agressief zijn, vooral wanneer eten zichtbaar is. Ze kunnen tassen, waterflessen, zonnebrillen en zelfs camera's pakken. In Lopburi staan makaken erom bekend te bijten als ze zich bedreigd voelen. Vermijd oogcontact, glimlach niet (tanden laten zien wordt gezien als dreigement), houd eten verborgen en bewaar kalme afstand. Als een aap je bijt of krast, reinig de wond onmiddellijk en krijg rabiës post-expositiebehandeling bij elk ziekenhuis."
+      }
+    },
+    {
+      "question": {
+        "en": "What is the emergency number in Thailand?",
+        "nl": "Wat is het alarmnummer in Thailand?"
+      },
+      "answer": {
+        "en": "The main emergency number for ambulance and medical emergencies is 1669. For police, call 191. The Tourist Police hotline is 1155 — operators speak English, Chinese, and other languages and can help coordinate assistance. Save all three numbers in your phone before traveling. In remote areas, your hotel or guesthouse staff can often help call for assistance faster than emergency services.",
+        "nl": "Het belangrijkste alarmnummer voor ambulance en medische noodgevallen is 1669. Voor politie bel 191. De hotline van de toeristenpolitie is 1155 — medewerkers spreken Engels, Chinees en andere talen en kunnen helpen bij het coördineren van hulp. Sla alle drie de nummers op in je telefoon voordat je reist. In afgelegen gebieden kan het personeel van je hotel of guesthouse vaak sneller hulp inschakelen dan de hulpdiensten."
+      }
+    },
+    {
+      "question": {
+        "en": "Is it safe to swim in the sea in Thailand?",
+        "nl": "Is het veilig om in de zee te zwemmen in Thailand?"
+      },
+      "answer": {
+        "en": "Swimming in Thailand is generally safe. The main risks are rip currents (more common during monsoon season), jellyfish (especially box jellyfish on Gulf islands October-March), and sea urchins near rocky areas. Stick to guarded beaches, check for warning flags (red means no swimming), wear reef shoes in rocky areas, and respect jellyfish season warnings. Avoid swimming alone, at night, or after storms. On the Andaman coast, the monsoon season (May-October) brings strong swells and dangerous conditions at many beaches.",
+        "nl": "Zwemmen in Thailand is over het algemeen veilig. De belangrijkste risico's zijn muistromingen (vaker tijdens het moessonseizoen), kwallen (vooral dooskvallen bij Golf-eilanden van oktober-maart) en zee-egels bij rotsachtige gebieden. Blijf bij bewaakte stranden, controleer waarschuwingsvlaggen (rood betekent niet zwemmen), draag rifschoenen in rotsachtige gebieden en respecteer kwallenwaarschuwingen. Vermijd alleen zwemmen, 's nachts zwemmen of zwemmen na stormen. Aan de Andamankust brengt het moessonseizoen (mei-oktober) sterke golven en gevaarlijke omstandigheden bij veel stranden."
+      }
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/travel-guides/health-hospitals-thailand",
+      "label": {
+        "en": "Health & Hospitals in Thailand: Medical Care Guide",
+        "nl": "Gezondheid en ziekenhuizen in Thailand: gids voor medische zorg"
+      }
+    },
+    {
+      "href": "/travel-guides/hiking-trekking-thailand",
+      "label": {
+        "en": "Hiking & Trekking in Thailand: Routes, Safety & Tips",
+        "nl": "Wandelen en trekking in Thailand: routes, veiligheid en tips"
+      }
+    },
+    {
+      "href": "/practical-info/scams-safety",
+      "label": {
+        "en": "Scams & Safety in Thailand: What Every Traveler Should Know",
+        "nl": "Oplichting en veiligheid in Thailand: wat elke reiziger moet weten"
+      }
+    }
+  ]
+}

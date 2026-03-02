@@ -1,0 +1,89 @@
+[
+  {
+    "slug": "thailand-weather",
+    "title": { "en": "Thailand Weather by Month", "nl": "Thailand Weer per Maand" },
+    "description": { "en": "Complete monthly weather guide with temperatures, rainfall, and best times to visit", "nl": "Compleet maandelijks weerbericht met temperaturen, regenval en beste reistijden" },
+    "icon": "\u2600\ufe0f",
+    "category": "planning",
+    "static": true
+  },
+  {
+    "slug": "scooter-rental-thailand",
+    "title": { "en": "Scooter & Motorbike Rental", "nl": "Scooter & Motor Huren" },
+    "description": { "en": "Prices per city, license requirements, insurance, safety tips, and trusted rental shops", "nl": "Prijzen per stad, rijbewijsvereisten, verzekering, veiligheidstips en betrouwbare verhuurders" },
+    "icon": "\ud83d\udef5",
+    "category": "transport",
+    "static": true
+  },
+  {
+    "slug": "sim-card-thailand",
+    "title": { "en": "SIM Card & eSIM Guide", "nl": "SIM Kaart & eSIM Gids" },
+    "description": { "en": "Compare AIS, TrueMove & dtac plans, airport buying guide, and eSIM setup steps", "nl": "Vergelijk AIS, TrueMove & dtac, luchthaven koopgids en eSIM installatie" },
+    "icon": "\ud83d\udcf1",
+    "category": "connectivity",
+    "static": true
+  },
+  {
+    "slug": "expat-long-stay-thailand",
+    "title": { "en": "Expat & Long-Stay Guide", "nl": "Expat & Langverblijf Gids" },
+    "description": { "en": "Visa types, banking, taxes, health insurance, driving license, and cost of living for long-term stays", "nl": "Visum types, bankzaken, belastingen, zorgverzekering, rijbewijs en kosten van levensonderhoud" },
+    "icon": "\ud83c\udfe0",
+    "category": "planning"
+  },
+  {
+    "slug": "health-hospitals-thailand",
+    "title": { "en": "Health & Hospitals Guide", "nl": "Gezondheid & Ziekenhuizen Gids" },
+    "description": { "en": "Top hospitals by city, pharmacy guide, dengue & malaria prevention, insurance, and emergency numbers", "nl": "Top ziekenhuizen per stad, apotheek gids, dengue & malaria preventie, verzekering en alarmnummers" },
+    "icon": "\ud83c\udfe5",
+    "category": "health-safety"
+  },
+  {
+    "slug": "diving-snorkeling-thailand",
+    "title": { "en": "Diving & Snorkeling Guide", "nl": "Duik & Snorkel Gids" },
+    "description": { "en": "Top dive sites, PADI certification costs, best seasons, gear rental, and snorkel vs dive comparison", "nl": "Beste duikplekken, PADI kosten, beste seizoenen, materiaal huur en snorkelen vs duiken" },
+    "icon": "\ud83e\udd3f",
+    "category": "activities"
+  },
+  {
+    "slug": "hiking-trekking-thailand",
+    "title": { "en": "Hiking & Trekking Guide", "nl": "Wandelen & Trekking Gids" },
+    "description": { "en": "Doi Inthanon, Khao Sok, jungle treks Chiang Mai, gear, guides, difficulty levels, and leech prevention", "nl": "Doi Inthanon, Khao Sok, jungletochten Chiang Mai, uitrusting, gidsen en moeilijkheidsgraden" },
+    "icon": "\ud83e\uddf3",
+    "category": "activities"
+  },
+  {
+    "slug": "festivals-events-thailand",
+    "title": { "en": "Festivals & Events Guide", "nl": "Festivals & Evenementen Gids" },
+    "description": { "en": "Songkran, Loy Krathong, Yi Peng, Full Moon Party, Vegetarian Festival, and more month-by-month", "nl": "Songkran, Loy Krathong, Yi Peng, Full Moon Party, Vegetarisch Festival en meer per maand" },
+    "icon": "\ud83c\udf8a",
+    "category": "culture"
+  },
+  {
+    "slug": "shopping-markets-thailand",
+    "title": { "en": "Shopping & Markets Guide", "nl": "Winkelen & Markten Gids" },
+    "description": { "en": "Night markets, floating markets, malls, bargaining tips, what to buy, and best shopping areas by city", "nl": "Nachtmarkten, drijvende markten, winkelcentra, afdingen, wat te kopen en beste winkelgebieden" },
+    "icon": "\ud83d\udecd\ufe0f",
+    "category": "culture"
+  },
+  {
+    "slug": "dangerous-animals-thailand",
+    "title": { "en": "Dangerous Animals in Thailand", "nl": "Gevaarlijke Dieren in Thailand" },
+    "description": { "en": "Snakes, jellyfish, mosquitoes, stray dogs, scorpions \u2014 identification, risk levels, and what to do if bitten", "nl": "Slangen, kwallen, muggen, zwerfhonden, schorpioenen \u2014 herkenning, risiconiveaus en wat te doen" },
+    "icon": "\ud83d\udc0d",
+    "category": "health-safety"
+  },
+  {
+    "slug": "national-parks-thailand",
+    "title": { "en": "National Parks Guide", "nl": "Nationale Parken Gids" },
+    "description": { "en": "Top 10 parks, entry fees, camping, best time to visit, wildlife spotting, and practical tips", "nl": "Top 10 parken, toegangsprijzen, kamperen, beste reistijd, wildlife spotten en praktische tips" },
+    "icon": "\ud83c\udf33",
+    "category": "activities"
+  },
+  {
+    "slug": "nightlife-rooftop-bars-thailand",
+    "title": { "en": "Nightlife & Rooftop Bars Guide", "nl": "Nachtleven & Rooftop Bars Gids" },
+    "description": { "en": "Rooftop bars by city, nightlife areas, safety tips, dress codes, drink prices, and local etiquette", "nl": "Rooftop bars per stad, uitgaansgebieden, veiligheidstips, dresscodes, drankprijzen en lokale etiquette" },
+    "icon": "\ud83c\udf03",
+    "category": "culture"
+  }
+]

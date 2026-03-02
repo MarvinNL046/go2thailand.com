@@ -1,0 +1,272 @@
+{
+  "slug": "sim-card-thailand",
+  "title": "SIM Card & eSIM in Thailand: Complete Guide 2026",
+  "seo": {
+    "metaTitle": "SIM Card & eSIM Thailand 2026: Best Plans, Prices & Setup Guide",
+    "metaDescription": "Complete guide to getting a SIM card or eSIM in Thailand. Compare AIS, TrueMove, and dtac plans, airport buying guide, 7-Eleven options, and eSIM setup steps.",
+    "keywords": "Thailand SIM card, eSIM Thailand, AIS tourist SIM, TrueMove tourist plan, dtac Thailand, buy SIM card Bangkok airport, Thailand 4G 5G"
+  },
+  "intro": "Staying connected in Thailand is easy and affordable. You have two main options: buy a physical SIM card at the airport or a 7-Eleven, or activate an eSIM before you even board your flight. This guide covers both options, the three major networks, and exactly how to get set up.",
+  "esimVsPhysical": {
+    "title": "eSIM vs Physical SIM: Which Should You Choose?",
+    "comparison": [
+      {
+        "feature": "Setup time",
+        "esim": "5 minutes from your phone",
+        "physical": "15-30 minutes at airport counter"
+      },
+      {
+        "feature": "Availability",
+        "esim": "Buy online before departure",
+        "physical": "Airport counters, 7-Eleven, phone shops"
+      },
+      {
+        "feature": "Phone compatibility",
+        "esim": "iPhone XR+ / Pixel 3+ / Samsung S20+",
+        "physical": "Any unlocked phone"
+      },
+      {
+        "feature": "Keep home number",
+        "esim": "Yes — use both SIMs simultaneously",
+        "physical": "No — must swap SIMs or use dual-SIM phone"
+      },
+      {
+        "feature": "Price (8-day plan)",
+        "esim": "300-600 THB ($9-17)",
+        "physical": "299-599 THB ($9-17)"
+      },
+      {
+        "feature": "Top-up options",
+        "esim": "App or online",
+        "physical": "7-Eleven, app, or USSD codes"
+      },
+      {
+        "feature": "Thai phone number",
+        "esim": "Sometimes (depends on provider)",
+        "physical": "Always included"
+      },
+      {
+        "feature": "Best for",
+        "esim": "Short trips, tech-savvy travelers",
+        "physical": "Longer stays, need Thai number for apps"
+      }
+    ]
+  },
+  "networks": {
+    "title": "Thailand's 3 Mobile Networks",
+    "carriers": [
+      {
+        "name": "AIS",
+        "marketShare": "44%",
+        "coverage": "Best overall coverage, especially in rural areas and islands",
+        "speed": "4G/5G — fastest average speeds in speed tests",
+        "touristPlan": "Traveller SIM: 15GB / 8 days for 299 THB, 30GB / 15 days for 599 THB",
+        "verdict": "Best choice for most travelers. Strongest signal on islands and in the north."
+      },
+      {
+        "name": "TrueMove H",
+        "marketShare": "33%",
+        "coverage": "Excellent in cities and tourist areas, slightly weaker in remote areas",
+        "speed": "4G/5G — merged with dtac in 2023, network still integrating",
+        "touristPlan": "Tourist SIM: 15GB / 8 days for 299 THB, unlimited data / 10 days for 599 THB",
+        "verdict": "Great value with unlimited data options. Good if staying in major tourist areas."
+      },
+      {
+        "name": "dtac (now True Corp)",
+        "marketShare": "23%",
+        "coverage": "Good in urban areas, weakest in rural Thailand",
+        "speed": "4G/5G — sharing TrueMove network after merger",
+        "touristPlan": "Happy Tourist SIM: 15GB / 8 days for 299 THB, 30GB / 15 days for 499 THB",
+        "verdict": "Budget option. Fine for cities but consider AIS if heading off the beaten path."
+      }
+    ]
+  },
+  "airportGuide": {
+    "title": "Buying a SIM Card at the Airport",
+    "airports": [
+      {
+        "name": "Suvarnabhumi (BKK)",
+        "location": "Arrivals hall, Level 2 — counters for AIS, TrueMove, and dtac right after customs",
+        "hours": "24/7 (all three carriers)",
+        "process": "Show your passport, choose a plan, staff will install and activate the SIM. Takes 10-15 minutes.",
+        "tip": "Counters are right after you exit customs. Prices are the same as downtown — no airport markup. Staff speak English."
+      },
+      {
+        "name": "Don Mueang (DMK)",
+        "location": "Arrivals hall, after customs — AIS and TrueMove counters on the left",
+        "hours": "6:00 AM - midnight (some close earlier)",
+        "process": "Same as BKK. Passport required. Staff handle setup.",
+        "tip": "If you arrive late at night, grab a SIM at any 7-Eleven on the way to your hotel instead."
+      },
+      {
+        "name": "Phuket (HKT)",
+        "location": "Arrivals hall — AIS counter near exit, TrueMove counter nearby",
+        "hours": "Aligned with flight schedules, typically 7:00 AM - 11:00 PM",
+        "process": "Standard setup with passport. Slightly smaller selection than Bangkok airports.",
+        "tip": "Lines can be long during peak season (December-February). Consider buying an eSIM before your flight to skip the queue."
+      },
+      {
+        "name": "Chiang Mai (CNX)",
+        "location": "Small counters in arrivals area",
+        "hours": "Varies — not 24/7",
+        "process": "Standard passport + SIM setup",
+        "tip": "Limited stock during busy periods. The 7-Eleven on Nimmanhaemin Road is a reliable backup."
+      }
+    ]
+  },
+  "sevenElevenGuide": {
+    "title": "Buying a SIM Card at 7-Eleven",
+    "content": "There are over 13,000 7-Eleven stores in Thailand — you're never far from one. Every store sells AIS and TrueMove SIM cards.",
+    "steps": [
+      "Ask for a 'tourist SIM' — staff know what you mean",
+      "Show your passport (required by Thai law since 2015)",
+      "Choose your plan (staff can explain options in basic English)",
+      "Staff will install the SIM and activate it — wait for the confirmation SMS",
+      "Save the SIM packaging — it has your phone number and top-up instructions"
+    ],
+    "pricing": "Same prices as airport counters. You can also top up credit at 7-Eleven — just tell the cashier 'top up' with your phone number and amount.",
+    "tip": "If the 7-Eleven staff seems unsure, try a dedicated phone shop or the next 7-Eleven. Not all staff are trained on SIM activations."
+  },
+  "touristPlans": {
+    "title": "Best Tourist Plans Compared",
+    "plans": [
+      {
+        "carrier": "AIS",
+        "plan": "Traveller SIM",
+        "data": "15 GB",
+        "validity": "8 days",
+        "calls": "100 THB credit",
+        "price": "299 THB ($9)",
+        "highlight": "Best coverage"
+      },
+      {
+        "carrier": "AIS",
+        "plan": "Traveller SIM Plus",
+        "data": "30 GB",
+        "validity": "15 days",
+        "calls": "100 THB credit",
+        "price": "599 THB ($17)",
+        "highlight": "Best for 2-week trips"
+      },
+      {
+        "carrier": "TrueMove",
+        "plan": "Tourist SIM",
+        "data": "15 GB",
+        "validity": "8 days",
+        "calls": "100 THB credit",
+        "price": "299 THB ($9)",
+        "highlight": "Good all-rounder"
+      },
+      {
+        "carrier": "TrueMove",
+        "plan": "Tourist Unlimited",
+        "data": "Unlimited (5G)",
+        "validity": "10 days",
+        "calls": "100 THB credit",
+        "price": "599 THB ($17)",
+        "highlight": "Unlimited data"
+      },
+      {
+        "carrier": "dtac",
+        "plan": "Happy Tourist",
+        "data": "15 GB",
+        "validity": "8 days",
+        "calls": "100 THB credit",
+        "price": "299 THB ($9)",
+        "highlight": "Budget friendly"
+      },
+      {
+        "carrier": "dtac",
+        "plan": "Happy Tourist Max",
+        "data": "30 GB",
+        "validity": "15 days",
+        "calls": "100 THB credit",
+        "price": "499 THB ($14)",
+        "highlight": "Cheapest 15-day plan"
+      }
+    ]
+  },
+  "esimSetup": {
+    "title": "How to Set Up an eSIM for Thailand",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Check phone compatibility",
+        "detail": "Your phone must support eSIM. Compatible: iPhone XR and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer. Check Settings → Cellular/Mobile → Add eSIM to confirm."
+      },
+      {
+        "step": 2,
+        "title": "Choose a provider",
+        "detail": "Popular eSIM providers for Thailand: Airalo, Holafly, Nomad eSIM, and the carriers' own apps (AIS eSIM, TrueMove eSIM). Airalo is the most popular with travelers."
+      },
+      {
+        "step": 3,
+        "title": "Purchase and download",
+        "detail": "Buy your eSIM plan online or through the provider's app. You'll receive a QR code via email. Download while connected to WiFi — you need internet to activate."
+      },
+      {
+        "step": 4,
+        "title": "Scan the QR code",
+        "detail": "Go to Settings → Cellular → Add eSIM → Scan QR Code. Label it 'Thailand' for easy identification. Don't activate it yet if you're not in Thailand."
+      },
+      {
+        "step": 5,
+        "title": "Activate on arrival",
+        "detail": "Once in Thailand, go to Settings → Cellular and enable your Thailand eSIM as the primary data line. Turn off data roaming on your home SIM to avoid charges."
+      },
+      {
+        "step": 6,
+        "title": "Test your connection",
+        "detail": "Open a browser and check your connection. You should see 4G/5G in the status bar. If not, restart your phone. Most eSIMs activate within 5 minutes."
+      }
+    ]
+  },
+  "tips": [
+    {
+      "title": "Register your SIM",
+      "detail": "Thai law requires SIM registration with a passport. Airport and 7-Eleven staff handle this automatically. Unregistered SIMs get deactivated after a few days."
+    },
+    {
+      "title": "Top up before it expires",
+      "detail": "Tourist SIMs expire after their validity period. Top up through the carrier's app, at 7-Eleven, or by dialing *123# (AIS) or *123# (TrueMove) before expiry to keep your number active."
+    },
+    {
+      "title": "WiFi is everywhere",
+      "detail": "Most hotels, cafes, and restaurants have free WiFi. If you're mainly in tourist areas, a smaller data plan might be enough."
+    },
+    {
+      "title": "Need a Thai number for apps?",
+      "detail": "Some Thai apps (Grab, Food Panda, Line) work better with a Thai phone number. If you're using an eSIM that doesn't include a number, consider getting a cheap physical SIM too."
+    },
+    {
+      "title": "Long-stay visitors",
+      "detail": "For stays over 30 days, get a monthly postpaid plan. AIS and TrueMove offer unlimited data plans from 599-899 THB/month with passport registration at any branch."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the best SIM card for tourists in Thailand?",
+      "answer": "AIS Traveller SIM is the best overall choice for most tourists. It has the widest coverage in Thailand (44% market share), including rural areas and islands where other networks can be spotty. The 15GB / 8-day plan costs 299 THB ($9). For longer trips, the 30GB / 15-day plan is 599 THB ($17)."
+    },
+    {
+      "question": "Can I use eSIM in Thailand?",
+      "answer": "Yes. Thailand supports eSIM through AIS, TrueMove, and international providers like Airalo and Holafly. Your phone must be eSIM-compatible (iPhone XR+, Pixel 3+, Samsung S20+). You can buy and set up your eSIM before leaving home and activate it when you land in Thailand."
+    },
+    {
+      "question": "How much does a Thai SIM card cost?",
+      "answer": "Tourist SIM cards start at 299 THB ($9) for 15GB over 8 days. A 15-day plan with 30GB costs 499-599 THB ($14-17). You can buy them at airport counters, 7-Eleven stores, or phone shops. Prices are the same everywhere — there's no airport markup."
+    },
+    {
+      "question": "Do I need my passport to buy a SIM card in Thailand?",
+      "answer": "Yes. Thai law requires all SIM cards to be registered with a valid passport. This applies to both airport counters and 7-Eleven purchases. The staff will scan your passport and register the SIM — it takes about 5 minutes."
+    },
+    {
+      "question": "Is 5G available in Thailand?",
+      "answer": "Yes, 5G is available in Bangkok, Chiang Mai, Phuket, and other major cities through AIS and TrueMove. Coverage is expanding but still limited to urban areas. 4G LTE covers virtually all tourist destinations and provides speeds of 20-50 Mbps — more than enough for video calls, streaming, and navigation."
+    },
+    {
+      "question": "Should I get a SIM card or just use WiFi in Thailand?",
+      "answer": "We recommend getting a SIM card or eSIM. While WiFi is widely available in hotels and cafes, having mobile data is essential for Google Maps navigation, Grab taxi app, real-time translation, and staying connected during day trips. At just $9 for 8 days of data, it's worth the small investment."
+    }
+  ]
+}
