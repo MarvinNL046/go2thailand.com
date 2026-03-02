@@ -77,6 +77,38 @@ export interface CityTransport {
 }
 
 // ---------------------------------------------------------------------------
+// Nomad (enrichment — nullable)
+// ---------------------------------------------------------------------------
+
+export interface CityNomad {
+  wifi_avg_mbps: number;
+  coworking_spaces: number;
+  coworking_notable: string[];
+  cafe_work_friendly: number;
+  nomad_community_size: 'large' | 'medium' | 'small' | 'minimal';
+  nomad_score: number;
+  visa_options: string[];
+  monthly_cost_usd: number;
+  best_areas: string[];
+  sim_esim_available: boolean;
+}
+
+// ---------------------------------------------------------------------------
+// Safety (enrichment — nullable)
+// ---------------------------------------------------------------------------
+
+export interface CitySafety {
+  overall_safety_score: number;
+  solo_traveller_safe: number;
+  female_solo_safe: number;
+  night_safety: number;
+  common_risks: string[];
+  tourist_police_available: boolean;
+  hospital_quality: 'high' | 'medium' | 'low';
+  emergency_numbers: Record<string, number>;
+}
+
+// ---------------------------------------------------------------------------
 // Scores
 // ---------------------------------------------------------------------------
 
@@ -84,6 +116,8 @@ export interface CityScores {
   budget_score: number;
   weather_score: number;
   transport_score: number;
+  nomad_score: number | null;
+  safety_score: number | null;
   overall_score: number;
 }
 
@@ -148,6 +182,8 @@ export interface IndexCity {
   budget: CityBudget;
   weather: CityWeather;
   transport: CityTransport;
+  nomad: CityNomad | null;
+  safety: CitySafety | null;
 }
 
 // ---------------------------------------------------------------------------
@@ -172,6 +208,8 @@ export type RankingName =
   | 'most_expensive'
   | 'best_weather_overall'
   | 'most_connected'
+  | 'best_nomad'
+  | 'safest'
   | 'overall';
 
 // ---------------------------------------------------------------------------
@@ -186,6 +224,8 @@ export interface IndexMetadata {
   weather_coverage: number;
   transport_routes_count: number;
   regions_count: number;
+  nomad_enrichment_count: number;
+  safety_enrichment_count: number;
 }
 
 // ---------------------------------------------------------------------------

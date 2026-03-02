@@ -22,6 +22,8 @@ const WEATHER_FILE = path.join(ROOT, 'data', 'city-weather.json');
 const TRANSPORT_FILE = path.join(ROOT, 'data', 'transport-routes.json');
 const REGIONS_FILE = path.join(ROOT, 'data', 'regions', 'index.json');
 const OUTPUT_FILE = path.join(ROOT, 'data', 'thailand-index.json');
+const NOMAD_ENRICHMENT_FILE = path.join(__dirname, '..', 'data', 'enrichments', 'thailand-nomad.json');
+const SAFETY_ENRICHMENT_FILE = path.join(__dirname, '..', 'data', 'enrichments', 'thailand-safety.json');
 
 // ---------------------------------------------------------------------------
 // Helpers
@@ -540,6 +542,32 @@ function generateRankings(cities) {
       })),
   };
 
+  // Best for digital nomads
+  const nomadCities = cities.filter(c => c.scores.nomad_score !== null);
+  if (nomadCities.length > 0) {
+    const sortedNomad = [...nomadCities].sort((a, b) => b.scores.nomad_score - a.scores.nomad_score);
+    rankings.best_nomad = {
+      metric: 'scores.nomad_score',
+      order: 'desc',
+      items: sortedNomad.map((c, i) => ({
+        slug: c.slug, name: c.name, value: c.scores.nomad_score, rank: i + 1,
+      })),
+    };
+  }
+
+  // Safest cities
+  const safeCities = cities.filter(c => c.scores.safety_score !== null);
+  if (safeCities.length > 0) {
+    const sortedSafe = [...safeCities].sort((a, b) => b.scores.safety_score - a.scores.safety_score);
+    rankings.safest = {
+      metric: 'scores.safety_score',
+      order: 'desc',
+      items: sortedSafe.map((c, i) => ({
+        slug: c.slug, name: c.name, value: c.scores.safety_score, rank: i + 1,
+      })),
+    };
+  }
+
   return rankings;
 }
 
@@ -560,6 +588,22 @@ function main() {
   const transportStats = computeTransportStats(transportData.routes);
   const topRoutesMap = buildTopRoutes(transportData.routes);
 
+  // 2b. Load enrichment data (graceful skip if not present)
+  let nomadEnrichment = {};
+  if (fs.existsSync(NOMAD_ENRICHMENT_FILE)) {
+    nomadEnrichment = JSON.parse(fs.readFileSync(NOMAD_ENRICHMENT_FILE, 'utf-8'));
+    console.log(`  Loaded nomad enrichment: ${Object.keys(nomadEnrichment).length} cities`);
+  } else {
+    console.log('  Nomad enrichment file not found — skipping');
+  }
+  let safetyEnrichment = {};
+  if (fs.existsSync(SAFETY_ENRICHMENT_FILE)) {
+    safetyEnrichment = JSON.parse(fs.readFileSync(SAFETY_ENRICHMENT_FILE, 'utf-8'));
+    console.log(`  Loaded safety enrichment: ${Object.keys(safetyEnrichment).length} cities`);
+  } else {
+    console.log('  Safety enrichment file not found — skipping');
+  }
+
   // 3. Process each city
   const cityFiles = fs.readdirSync(ENHANCED_DIR)
     .filter(f => f.endsWith('.json'))
@@ -571,6 +615,8 @@ function main() {
     weather: fileHash(WEATHER_FILE),
     transport: fileHash(TRANSPORT_FILE),
     regions: fileHash(REGIONS_FILE),
+    nomad_enrichment: fs.existsSync(NOMAD_ENRICHMENT_FILE) ? fileHash(NOMAD_ENRICHMENT_FILE) : null,
+    safety_enrichment: fs.existsSync(SAFETY_ENRICHMENT_FILE) ? fileHash(SAFETY_ENRICHMENT_FILE) : null,
   };
 
   const cities = [];
@@ -603,10 +649,14 @@ function main() {
       };
     }
 
+    // Enrichments (nomad / safety)
+    const nomadData = nomadEnrichment[slug] || null;
+    const safetyData = safetyEnrichment[slug] || null;
+
     // Region
     const region = regionMap.get(slug) || null;
 
-    // Composite scores: budget (absolute), weather, transport
+    // Composite scores: budget (absolute), weather, transport, nomad, safety
     const budgetMedian = budget.tier_budget?.median ?? null;
     const budgetScore = budgetMedian != null
       ? Math.round(Math.max(0, 1 - budgetMedian / 80) * 100) / 100
@@ -614,11 +664,17 @@ function main() {
     const weatherScore = weather?.comfort_score ?? null;
     const transportScore = transport?.hubness ?? null;
 
+    const nomadScore = nomadData ? nomadData.nomad_score : null;
+    const safetyScore = safetyData ? safetyData.overall_safety_score : null;
+
     let overallScore = null;
     if (budgetScore != null && weatherScore != null && transportScore != null) {
-      overallScore = parseFloat(
-        (budgetScore * 0.35 + weatherScore * 0.35 + transportScore * 0.3).toFixed(2)
-      );
+      if (nomadScore !== null && safetyScore !== null) {
+        overallScore = budgetScore * 0.25 + weatherScore * 0.25 + transportScore * 0.20 + nomadScore * 0.15 + safetyScore * 0.15;
+      } else {
+        overallScore = budgetScore * 0.35 + weatherScore * 0.35 + transportScore * 0.30;
+      }
+      overallScore = parseFloat(overallScore.toFixed(2));
     } else if (budgetScore != null) {
       // Partial: use available scores with defaults
       const ws = weatherScore ?? 0.5;
@@ -632,6 +688,8 @@ function main() {
       budget_score: budgetScore,
       weather_score: weatherScore,
       transport_score: transportScore,
+      nomad_score: nomadScore !== null ? +nomadScore.toFixed(3) : null,
+      safety_score: safetyScore !== null ? +safetyScore.toFixed(3) : null,
       overall_score: overallScore,
     };
 
@@ -669,6 +727,8 @@ function main() {
       budget,
       weather,
       transport,
+      nomad: nomadData,
+      safety: safetyData,
     };
 
     cities.push(entry);
@@ -700,6 +760,12 @@ function main() {
   }
   console.log(`  Most connected:  ${rankings.most_connected.items.slice(0, 3).map(c => `${c.name.en} (${c.value})`).join(', ')}`);
   console.log(`  Overall best:    ${rankings.overall.items.slice(0, 3).map(c => `${c.name.en} (${c.value})`).join(', ')}`);
+  if (rankings.best_nomad) {
+    console.log(`  Best nomad:      ${rankings.best_nomad.items.slice(0, 3).map(c => `${c.name.en} (${c.value})`).join(', ')}`);
+  }
+  if (rankings.safest) {
+    console.log(`  Safest:          ${rankings.safest.items.slice(0, 3).map(c => `${c.name.en} (${c.value})`).join(', ')}`);
+  }
 
   // 5. Build output
   const output = {
@@ -711,6 +777,8 @@ function main() {
       weather_coverage: Object.keys(weatherData).length,
       transport_routes_count: transportData.routes.length,
       regions_count: regionsData.length,
+      nomad_enrichment_count: Object.keys(nomadEnrichment).length,
+      safety_enrichment_count: Object.keys(safetyEnrichment).length,
     },
     cities,
     rankings,
