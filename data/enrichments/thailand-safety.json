@@ -1,0 +1,644 @@
+{
+  "ayutthaya": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.73,
+    "night_safety": 0.65,
+    "common_risks": [
+      "tuk-tuk-overcharging",
+      "petty-theft",
+      "motorbike-accidents",
+      "food-hygiene"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "bangkok": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.8,
+    "female_solo_safe": 0.75,
+    "night_safety": 0.68,
+    "common_risks": [
+      "taxi-scams",
+      "pickpocketing",
+      "petty-theft",
+      "atm-skimming",
+      "motorbike-accidents"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "high",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "bueng-kan": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.65,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "petty-theft",
+      "food-hygiene"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "chanthaburi": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.73,
+    "night_safety": 0.68,
+    "common_risks": [
+      "petty-theft",
+      "motorbike-accidents",
+      "road-safety",
+      "food-hygiene",
+      "water-safety"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "chiang-khan": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.73,
+    "night_safety": 0.68,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "petty-theft",
+      "food-hygiene"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "chiang-mai": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.8,
+    "female_solo_safe": 0.76,
+    "night_safety": 0.68,
+    "common_risks": [
+      "tuk-tuk-overcharging",
+      "motorbike-accidents",
+      "petty-theft",
+      "food-hygiene",
+      "air-pollution"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "chiang-rai": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.73,
+    "night_safety": 0.68,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "petty-theft",
+      "food-hygiene"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "chumphon": {
+    "overall_safety_score": 0.72,
+    "solo_traveller_safe": 0.74,
+    "female_solo_safe": 0.7,
+    "night_safety": 0.62,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "boat-safety",
+      "rip-currents",
+      "petty-theft"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "hat-yai": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.65,
+    "common_risks": [
+      "tuk-tuk-overcharging",
+      "petty-theft",
+      "motorbike-accidents",
+      "food-hygiene"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "hua-hin": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.73,
+    "night_safety": 0.68,
+    "common_risks": [
+      "tuk-tuk-overcharging",
+      "petty-theft",
+      "jet-ski-scams",
+      "rip-currents",
+      "road-safety"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "kanchanaburi": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.73,
+    "night_safety": 0.68,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "petty-theft",
+      "food-hygiene",
+      "boat-safety"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "khon-kaen": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.65,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "petty-theft",
+      "food-hygiene"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "koh-samui": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.68,
+    "common_risks": [
+      "jet-ski-scams",
+      "tuk-tuk-overcharging",
+      "drink-spiking",
+      "water-safety",
+      "motorbike-accidents"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "high",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "krabi": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.73,
+    "night_safety": 0.68,
+    "common_risks": [
+      "jet-ski-scams",
+      "boat-safety",
+      "rip-currents",
+      "tuk-tuk-overcharging",
+      "petty-theft"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "lampang": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.73,
+    "night_safety": 0.68,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "petty-theft",
+      "food-hygiene"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "lopburi": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.65,
+    "common_risks": [
+      "motorbike-accidents",
+      "petty-theft",
+      "road-safety",
+      "food-hygiene"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "mae-hong-son": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.73,
+    "night_safety": 0.65,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "food-hygiene",
+      "petty-theft"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "mukdahan": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.65,
+    "common_risks": [
+      "petty-theft",
+      "motorbike-accidents",
+      "road-safety",
+      "food-hygiene"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "nakhon-phanom": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.65,
+    "common_risks": [
+      "petty-theft",
+      "motorbike-accidents",
+      "road-safety",
+      "food-hygiene"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "nakhon-ratchasima": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.65,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "petty-theft",
+      "food-hygiene"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "nakhon-si-thammarat": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.65,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "petty-theft",
+      "food-hygiene",
+      "water-safety"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "nong-khai": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.73,
+    "night_safety": 0.68,
+    "common_risks": [
+      "petty-theft",
+      "motorbike-accidents",
+      "road-safety",
+      "food-hygiene"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "pai": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.8,
+    "female_solo_safe": 0.76,
+    "night_safety": 0.68,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "petty-theft",
+      "food-hygiene"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "low",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "pattaya": {
+    "overall_safety_score": 0.72,
+    "solo_traveller_safe": 0.74,
+    "female_solo_safe": 0.68,
+    "night_safety": 0.62,
+    "common_risks": [
+      "tuk-tuk-overcharging",
+      "jet-ski-scams",
+      "drink-spiking",
+      "petty-theft",
+      "water-safety"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "high",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "phitsanulok": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.73,
+    "night_safety": 0.68,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "petty-theft",
+      "food-hygiene"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "phuket": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.68,
+    "common_risks": [
+      "tuk-tuk-overcharging",
+      "jet-ski-scams",
+      "drink-spiking",
+      "rip-currents",
+      "petty-theft"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "high",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "rayong": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.65,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "jet-ski-scams",
+      "water-safety",
+      "petty-theft"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "sukhothai": {
+    "overall_safety_score": 0.78,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.73,
+    "night_safety": 0.68,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "petty-theft",
+      "food-hygiene"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "surat-thani": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.65,
+    "common_risks": [
+      "tuk-tuk-overcharging",
+      "petty-theft",
+      "boat-safety",
+      "road-safety",
+      "food-hygiene"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "trang": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.65,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "boat-safety",
+      "petty-theft",
+      "water-safety"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "trat": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.65,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "boat-safety",
+      "petty-theft",
+      "food-hygiene"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "ubon-ratchathani": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.65,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "petty-theft",
+      "food-hygiene"
+    ],
+    "tourist_police_available": false,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  },
+  "udon-thani": {
+    "overall_safety_score": 0.75,
+    "solo_traveller_safe": 0.76,
+    "female_solo_safe": 0.72,
+    "night_safety": 0.65,
+    "common_risks": [
+      "motorbike-accidents",
+      "road-safety",
+      "petty-theft",
+      "food-hygiene"
+    ],
+    "tourist_police_available": true,
+    "hospital_quality": "medium",
+    "emergency_numbers": {
+      "police": 191,
+      "tourist_police": 1155,
+      "ambulance": 1669
+    }
+  }
+}

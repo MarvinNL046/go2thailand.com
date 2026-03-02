@@ -11,6 +11,7 @@
 
 const fs = require('fs');
 const path = require('path');
+require('dotenv').config({ path: path.join(__dirname, '..', '.env.local') });
 
 const enhancedDir = path.join(__dirname, '..', 'data', 'enhanced');
 const enrichmentsDir = path.join(__dirname, '..', 'data', 'enrichments');
