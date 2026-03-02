@@ -470,7 +470,7 @@ function generateRankings(cities) {
 
   // Cheapest (lowest budget median)
   const cheapestItems = [...withBudget]
-    .sort((a, b) => a.budget.tier_budget.median - b.budget.tier_budget.median)
+    .sort((a, b) => a.budget.tier_budget.median - b.budget.tier_budget.median || a.slug.localeCompare(b.slug))
     .map((c, i) => ({
       slug: c.slug,
       name: c.name,
@@ -502,7 +502,7 @@ function generateRankings(cities) {
     metric: 'weather.comfort_score',
     order: 'desc',
     items: [...withWeather]
-      .sort((a, b) => b.weather.comfort_score - a.weather.comfort_score)
+      .sort((a, b) => b.weather.comfort_score - a.weather.comfort_score || a.slug.localeCompare(b.slug))
       .map((c, i) => ({
         slug: c.slug,
         name: c.name,
@@ -517,7 +517,7 @@ function generateRankings(cities) {
     metric: 'transport.hubness',
     order: 'desc',
     items: [...withTransport]
-      .sort((a, b) => b.transport.hubness - a.transport.hubness)
+      .sort((a, b) => b.transport.hubness - a.transport.hubness || a.slug.localeCompare(b.slug))
       .map((c, i) => ({
         slug: c.slug,
         name: c.name,
@@ -533,7 +533,7 @@ function generateRankings(cities) {
     metric: 'scores.overall_score',
     order: 'desc',
     items: [...withOverall]
-      .sort((a, b) => b.scores.overall_score - a.scores.overall_score)
+      .sort((a, b) => b.scores.overall_score - a.scores.overall_score || a.slug.localeCompare(b.slug))
       .map((c, i) => ({
         slug: c.slug,
         name: c.name,
@@ -545,7 +545,7 @@ function generateRankings(cities) {
   // Best for digital nomads
   const nomadCities = cities.filter(c => c.scores.nomad_score !== null);
   if (nomadCities.length > 0) {
-    const sortedNomad = [...nomadCities].sort((a, b) => b.scores.nomad_score - a.scores.nomad_score);
+    const sortedNomad = [...nomadCities].sort((a, b) => b.scores.nomad_score - a.scores.nomad_score || a.slug.localeCompare(b.slug));
     rankings.best_nomad = {
       metric: 'scores.nomad_score',
       order: 'desc',
@@ -558,7 +558,7 @@ function generateRankings(cities) {
   // Safest cities
   const safeCities = cities.filter(c => c.scores.safety_score !== null);
   if (safeCities.length > 0) {
-    const sortedSafe = [...safeCities].sort((a, b) => b.scores.safety_score - a.scores.safety_score);
+    const sortedSafe = [...safeCities].sort((a, b) => b.scores.safety_score - a.scores.safety_score || a.slug.localeCompare(b.slug));
     rankings.safest = {
       metric: 'scores.safety_score',
       order: 'desc',

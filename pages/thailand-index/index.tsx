@@ -415,19 +415,20 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
                   <p>
                     <strong>{lang === 'nl' ? 'Totaalscore' : 'Overall Score'}:</strong>{' '}
                     {lang === 'nl'
-                      ? 'Gewogen gemiddelde van budget (40%), weer (35%) en transport (25%), genormaliseerd naar 0-1.'
-                      : 'Weighted average of budget (40%), weather (35%), and transport (25%), normalised to 0-1.'}
+                      ? 'Gewogen gemiddelde van budget (25%), weer (25%), transport (20%), nomad (15%) en veiligheid (15%), genormaliseerd naar 0-1. We geven budget en weer het meeste gewicht omdat die het meest van invloed zijn op de reiservaring. Transport, nomad-vriendelijkheid en veiligheid vullen het profiel aan.'
+                      : 'Weighted average of budget (25%), weather (25%), transport (20%), nomad (15%), and safety (15%), normalised to 0-1. Budget and weather carry the most weight as they most directly affect the travel experience. Transport, nomad-friendliness, and safety complete the destination profile.'}
                   </p>
                   <p>
                     <strong>{lang === 'nl' ? 'Beperkingen' : 'Limitations'}:</strong>{' '}
                     {lang === 'nl'
-                      ? 'Budgetschattingen zijn indicatief en varieren per seizoen. Weerdata is beschikbaar voor 10 steden; overige steden gebruiken regionale schattingen. Scores worden periodiek bijgewerkt.'
-                      : 'Budget estimates are indicative and vary by season. Weather data is available for 10 cities; remaining cities use regional estimates. Scores are updated periodically.'}
+                      ? 'Budgetschattingen zijn indicatief en variëren per seizoen. Weerdata is beschikbaar voor 10 steden; overige steden gebruiken regionale schattingen. Bij gelijke scores worden steden alfabetisch gerangschikt. Scores worden periodiek bijgewerkt.'
+                      : 'Budget estimates are indicative and vary by season. Weather data is available for 10 cities; remaining cities use regional estimates. Tied scores are ranked alphabetically by city name. Scores are updated periodically.'}
                   </p>
                   <p>
-                    {lang === 'en'
-                      ? 'Digital nomad and safety scores are generated using AI-assisted analysis based on publicly available data, travel advisories, and community reports. These scores are conservative estimates and are periodically reviewed and updated. All data is transparently sourced and methodology is documented.'
-                      : 'Digitale nomaden- en veiligheidsscores worden gegenereerd met behulp van AI-ondersteunde analyse op basis van openbaar beschikbare gegevens, reisadviezen en gemeenschapsrapporten. Deze scores zijn conservatieve schattingen en worden periodiek beoordeeld en bijgewerkt.'}
+                    <strong>{lang === 'nl' ? 'Bronnen' : 'Data Sources'}:</strong>{' '}
+                    {lang === 'nl'
+                      ? 'Budgetdata uit lokale prijsonderzoeken en reizigersrapporten. Weerdata uit historische klimaatgegevens (temperatuur, neerslag, luchtvochtigheid). Transportdata uit 245 routes van officiële vervoerders. Nomad- en veiligheidsscores via AI-ondersteunde analyse op basis van reisadviezen, gemeenschapsrapporten en openbare data — conservatieve schattingen, periodiek beoordeeld.'
+                      : 'Budget data from local price surveys and traveller reports. Weather data from historical climate records (temperature, rainfall, humidity). Transport data from 245 routes via official carriers. Nomad and safety scores via AI-assisted analysis based on travel advisories, community reports, and public data — conservative estimates, periodically reviewed.'}
                   </p>
                   <p className="text-xs text-gray-400">
                     {lang === 'nl'
