@@ -1,0 +1,641 @@
+{
+  "run_at": "2026-03-02T10:36:36.960Z",
+  "cities_checked": 33,
+  "corrections_made": 38,
+  "cities": {
+    "ayutthaya": {
+      "sources_found": [
+        "coworking_search"
+      ],
+      "corrections": [],
+      "coworking_verified": [
+        "Ayutthaya Coworking Space",
+        "The Camp Vintage Flea Market (workspace area)"
+      ],
+      "coworking_removed": []
+    },
+    "bangkok": {
+      "sources_found": [
+        "nomadlist",
+        "numbeo",
+        "coworking_search"
+      ],
+      "corrections": [
+        {
+          "field": "wifi_avg_mbps",
+          "old": 45,
+          "new": 24,
+          "source": "nomadlist"
+        },
+        {
+          "field": "monthly_cost_usd",
+          "old": 1200,
+          "new": 1618,
+          "source": "avg(nomadlist:1618)"
+        },
+        {
+          "field": "coworking_notable",
+          "old": [
+            "Collision",
+            "Hubba",
+            "Punspace",
+            "The Hive Mind",
+            "WeSpace"
+          ],
+          "new": [
+            "Collision",
+            "Hubba",
+            "Punspace",
+            "The Great Room",
+            "The Hive",
+            "The Hive Mind",
+            "WeSpace"
+          ],
+          "removed": [],
+          "source": "jina_search_verification + nomadlist"
+        },
+        {
+          "field": "nomad_score",
+          "old": 0.82,
+          "new": 0.79,
+          "source": "recalculated"
+        }
+      ],
+      "coworking_verified": [
+        "Hubba",
+        "The Hive Mind",
+        "Punspace",
+        "Collision",
+        "WeSpace"
+      ],
+      "coworking_removed": []
+    },
+    "bueng-kan": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "chanthaburi": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "chiang-khan": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "chiang-mai": {
+      "sources_found": [
+        "nomadlist",
+        "numbeo",
+        "coworking_search"
+      ],
+      "corrections": [
+        {
+          "field": "wifi_avg_mbps",
+          "old": 45,
+          "new": 20,
+          "source": "nomadlist"
+        },
+        {
+          "field": "nomad_community_size",
+          "old": "large",
+          "new": "medium",
+          "source": "nomadlist"
+        },
+        {
+          "field": "coworking_notable",
+          "old": [
+            "Hubba",
+            "Punspace",
+            "Punspace Nimman",
+            "Ristr8to",
+            "The Hive"
+          ],
+          "new": [
+            "Hubba",
+            "Punspace",
+            "Punspace Nimman",
+            "Ristr8to",
+            "The Brick",
+            "The Hive"
+          ],
+          "removed": [],
+          "source": "jina_search_verification + nomadlist"
+        },
+        {
+          "field": "nomad_score",
+          "old": 0.78,
+          "new": 0.62,
+          "source": "recalculated"
+        }
+      ],
+      "coworking_verified": [
+        "Punspace",
+        "Ristr8to",
+        "Hubba",
+        "Punspace Nimman",
+        "The Hive"
+      ],
+      "coworking_removed": []
+    },
+    "chiang-rai": {
+      "sources_found": [
+        "nomadlist",
+        "coworking_search"
+      ],
+      "corrections": [
+        {
+          "field": "nomad_community_size",
+          "old": "small",
+          "new": "medium",
+          "source": "nomadlist"
+        },
+        {
+          "field": "nomad_score",
+          "old": 0.58,
+          "new": 0.54,
+          "source": "recalculated"
+        }
+      ],
+      "coworking_verified": [
+        "Punspace Chiang Rai",
+        "The Camp Vintage Flea Market (co-working area)",
+        "Ristr8to Coffee"
+      ],
+      "coworking_removed": []
+    },
+    "chumphon": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "hat-yai": {
+      "sources_found": [
+        "coworking_search"
+      ],
+      "corrections": [],
+      "coworking_verified": [
+        "The Camp Vintage Flea Market",
+        "Hat Yai Business Center"
+      ],
+      "coworking_removed": []
+    },
+    "hua-hin": {
+      "sources_found": [
+        "nomadlist",
+        "numbeo",
+        "coworking_search"
+      ],
+      "corrections": [
+        {
+          "field": "monthly_cost_usd",
+          "old": 1200,
+          "new": 2595,
+          "source": "avg(nomadlist:2595)"
+        },
+        {
+          "field": "nomad_score",
+          "old": 0.58,
+          "new": 0.28,
+          "source": "recalculated"
+        }
+      ],
+      "coworking_verified": [
+        "Hua Hin Coworking Space",
+        "The Craft Workspace"
+      ],
+      "coworking_removed": []
+    },
+    "kanchanaburi": {
+      "sources_found": [
+        "coworking_search"
+      ],
+      "corrections": [],
+      "coworking_verified": [
+        "Kanchanaburi Coworking Space",
+        "River Workspace"
+      ],
+      "coworking_removed": []
+    },
+    "khon-kaen": {
+      "sources_found": [
+        "numbeo",
+        "coworking_search"
+      ],
+      "corrections": [],
+      "coworking_verified": [
+        "Khon Kaen Coworking Space",
+        "The Hub Khon Kaen"
+      ],
+      "coworking_removed": []
+    },
+    "koh-samui": {
+      "sources_found": [
+        "nomadlist",
+        "coworking_search"
+      ],
+      "corrections": [
+        {
+          "field": "monthly_cost_usd",
+          "old": 1200,
+          "new": 1979,
+          "source": "avg(nomadlist:1979)"
+        },
+        {
+          "field": "nomad_community_size",
+          "old": "medium",
+          "new": "small",
+          "source": "nomadlist"
+        },
+        {
+          "field": "coworking_notable",
+          "old": [
+            "Fishbowl Samui",
+            "Samui Coworking",
+            "The Deck Samui"
+          ],
+          "new": [
+            "Fishbowl Samui",
+            "Samui Coworking",
+            "The Big Buddha"
+          ],
+          "removed": [
+            "The Deck Samui"
+          ],
+          "source": "jina_search_verification + nomadlist"
+        },
+        {
+          "field": "nomad_score",
+          "old": 0.68,
+          "new": 0.37,
+          "source": "recalculated"
+        }
+      ],
+      "coworking_verified": [
+        "Samui Coworking",
+        "Fishbowl Samui"
+      ],
+      "coworking_removed": [
+        "The Deck Samui"
+      ]
+    },
+    "krabi": {
+      "sources_found": [
+        "nomadlist",
+        "coworking_search"
+      ],
+      "corrections": [
+        {
+          "field": "monthly_cost_usd",
+          "old": 1200,
+          "new": 1722,
+          "source": "avg(nomadlist:1722)"
+        },
+        {
+          "field": "nomad_community_size",
+          "old": "small",
+          "new": "medium",
+          "source": "nomadlist"
+        },
+        {
+          "field": "nomad_score",
+          "old": 0.58,
+          "new": 0.46,
+          "source": "recalculated"
+        }
+      ],
+      "coworking_verified": [
+        "Krabi Coworking Space",
+        "The Loft Krabi"
+      ],
+      "coworking_removed": []
+    },
+    "lampang": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "lopburi": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "mae-hong-son": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "mukdahan": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "nakhon-phanom": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "nakhon-ratchasima": {
+      "sources_found": [
+        "nomadlist",
+        "coworking_search"
+      ],
+      "corrections": [
+        {
+          "field": "wifi_avg_mbps",
+          "old": 25,
+          "new": 104,
+          "source": "nomadlist"
+        },
+        {
+          "field": "monthly_cost_usd",
+          "old": 850,
+          "new": 1051,
+          "source": "avg(nomadlist:1051)"
+        },
+        {
+          "field": "nomad_community_size",
+          "old": "small",
+          "new": "medium",
+          "source": "nomadlist"
+        },
+        {
+          "field": "nomad_score",
+          "old": 0.52,
+          "new": 0.63,
+          "source": "recalculated"
+        }
+      ],
+      "coworking_verified": [
+        "Korat Hub",
+        "The Camp Vintage Flea Market (workspace area)"
+      ],
+      "coworking_removed": []
+    },
+    "nakhon-si-thammarat": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "nong-khai": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "pai": {
+      "sources_found": [
+        "nomadlist",
+        "coworking_search",
+        "advisory"
+      ],
+      "corrections": [
+        {
+          "field": "nomad_community_size",
+          "old": "small",
+          "new": "medium",
+          "source": "nomadlist"
+        },
+        {
+          "field": "coworking_notable",
+          "old": [
+            "Pai Coworking"
+          ],
+          "new": [
+            "All About Coffee",
+            "Pai Coworking"
+          ],
+          "removed": [],
+          "source": "jina_search_verification + nomadlist"
+        },
+        {
+          "field": "nomad_score",
+          "old": 0.58,
+          "new": 0.47,
+          "source": "recalculated"
+        }
+      ],
+      "coworking_verified": [
+        "Pai Coworking"
+      ],
+      "coworking_removed": []
+    },
+    "pattaya": {
+      "sources_found": [
+        "nomadlist",
+        "numbeo",
+        "coworking_search"
+      ],
+      "corrections": [
+        {
+          "field": "wifi_avg_mbps",
+          "old": 45,
+          "new": 19,
+          "source": "nomadlist"
+        },
+        {
+          "field": "monthly_cost_usd",
+          "old": 1200,
+          "new": 1586,
+          "source": "avg(nomadlist:1586)"
+        },
+        {
+          "field": "coworking_notable",
+          "old": [
+            "Aiyara Place",
+            "Punspace Pattaya",
+            "The Camp Vintage Flea Market (workspace area)"
+          ],
+          "new": [
+            "Aiyara Place",
+            "Anchor",
+            "Punspace Pattaya",
+            "The Camp Vintage Flea Market (workspace area)"
+          ],
+          "removed": [],
+          "source": "jina_search_verification + nomadlist"
+        },
+        {
+          "field": "nomad_score",
+          "old": 0.58,
+          "new": 0.38,
+          "source": "recalculated"
+        }
+      ],
+      "coworking_verified": [
+        "Punspace Pattaya",
+        "The Camp Vintage Flea Market (workspace area)",
+        "Aiyara Place"
+      ],
+      "coworking_removed": []
+    },
+    "phitsanulok": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "phuket": {
+      "sources_found": [
+        "nomadlist",
+        "numbeo",
+        "coworking_search"
+      ],
+      "corrections": [
+        {
+          "field": "wifi_avg_mbps",
+          "old": 45,
+          "new": 21,
+          "source": "nomadlist"
+        },
+        {
+          "field": "monthly_cost_usd",
+          "old": 1200,
+          "new": 1670,
+          "source": "avg(nomadlist:1670)"
+        },
+        {
+          "field": "coworking_notable",
+          "old": [
+            "Hubba",
+            "Phuket Sandbox",
+            "Punspace",
+            "The Camp Vintage Flea Market"
+          ],
+          "new": [
+            "Hubba",
+            "Phuket Coworking",
+            "Phuket Sandbox",
+            "Phuket Stash",
+            "Punspace"
+          ],
+          "removed": [
+            "The Camp Vintage Flea Market"
+          ],
+          "source": "jina_search_verification + nomadlist"
+        },
+        {
+          "field": "nomad_score",
+          "old": 0.72,
+          "new": 0.49,
+          "source": "recalculated"
+        }
+      ],
+      "coworking_verified": [
+        "Hubba",
+        "Punspace",
+        "Phuket Sandbox"
+      ],
+      "coworking_removed": [
+        "The Camp Vintage Flea Market"
+      ]
+    },
+    "rayong": {
+      "sources_found": [
+        "coworking_search"
+      ],
+      "corrections": [],
+      "coworking_verified": [
+        "Rayong Coworking Space",
+        "The Hub Rayong"
+      ],
+      "coworking_removed": []
+    },
+    "sukhothai": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "surat-thani": {
+      "sources_found": [
+        "coworking_search"
+      ],
+      "corrections": [],
+      "coworking_verified": [
+        "Surat Thani Coworking Space",
+        "The Hub Surat Thani"
+      ],
+      "coworking_removed": []
+    },
+    "trang": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "trat": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "ubon-ratchathani": {
+      "sources_found": [],
+      "corrections": [],
+      "coworking_verified": [],
+      "coworking_removed": []
+    },
+    "udon-thani": {
+      "sources_found": [
+        "nomadlist",
+        "numbeo",
+        "coworking_search"
+      ],
+      "corrections": [
+        {
+          "field": "wifi_avg_mbps",
+          "old": 25,
+          "new": 19,
+          "source": "nomadlist"
+        },
+        {
+          "field": "monthly_cost_usd",
+          "old": 850,
+          "new": 1029,
+          "source": "avg(nomadlist:1029)"
+        },
+        {
+          "field": "coworking_notable",
+          "old": [
+            "The Hive Udon",
+            "Udon Thani Coworking Space"
+          ],
+          "new": [
+            "Dose Espresso",
+            "Smart Hub",
+            "The Hive Udon"
+          ],
+          "removed": [
+            "Udon Thani Coworking Space"
+          ],
+          "source": "jina_search_verification + nomadlist"
+        },
+        {
+          "field": "nomad_score",
+          "old": 0.52,
+          "new": 0.42,
+          "source": "recalculated"
+        }
+      ],
+      "coworking_verified": [
+        "The Hive Udon"
+      ],
+      "coworking_removed": [
+        "Udon Thani Coworking Space"
+      ]
+    }
+  }
+}

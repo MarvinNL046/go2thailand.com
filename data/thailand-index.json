@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-03-02T08:16:01.885Z",
+    "generated_at": "2026-03-02T10:37:11.830Z",
     "city_count": 33,
     "data_version": "1.0.0",
     "source_hashes": {
       "weather": "613665b18ba3",
       "transport": "2614f3451309",
       "regions": "2e23cfc4f090",
-      "nomad_enrichment": "40d84e01a23d",
+      "nomad_enrichment": "95daf32a040f",
       "safety_enrichment": "503f4c44942b",
       "city:ayutthaya": "ec7e3415aec2",
       "city:bangkok": "b73fccdc4f50",
@@ -266,7 +266,7 @@
         "budget_score": 0.5,
         "weather_score": 0.594,
         "transport_score": 1,
-        "nomad_score": 0.82,
+        "nomad_score": 0.79,
         "safety_score": 0.78,
         "overall_score": 0.71
       },
@@ -391,18 +391,20 @@
         ]
       },
       "nomad": {
-        "wifi_avg_mbps": 45,
+        "wifi_avg_mbps": 24,
         "coworking_spaces": 85,
         "coworking_notable": [
-          "Hubba",
-          "The Hive Mind",
-          "Punspace",
           "Collision",
+          "Hubba",
+          "Punspace",
+          "The Great Room",
+          "The Hive",
+          "The Hive Mind",
           "WeSpace"
         ],
         "cafe_work_friendly": 38,
         "nomad_community_size": "large",
-        "nomad_score": 0.82,
+        "nomad_score": 0.79,
         "visa_options": [
           "tourist-60d",
           "ed-visa",
@@ -411,7 +413,7 @@
           "retirement-visa",
           "work-permit"
         ],
-        "monthly_cost_usd": 1200,
+        "monthly_cost_usd": 1618,
         "best_areas": [
           "Ari",
           "Thonglor",
@@ -795,9 +797,9 @@
         "budget_score": 0.5,
         "weather_score": 0.647,
         "transport_score": 0.722,
-        "nomad_score": 0.78,
+        "nomad_score": 0.62,
         "safety_score": 0.78,
-        "overall_score": 0.67
+        "overall_score": 0.64
       },
       "score_components": {
         "budget": {
@@ -918,18 +920,19 @@
         ]
       },
       "nomad": {
-        "wifi_avg_mbps": 45,
+        "wifi_avg_mbps": 20,
         "coworking_spaces": 28,
         "coworking_notable": [
-          "Punspace",
-          "Ristr8to",
           "Hubba",
+          "Punspace",
           "Punspace Nimman",
+          "Ristr8to",
+          "The Brick",
           "The Hive"
         ],
         "cafe_work_friendly": 32,
-        "nomad_community_size": "large",
-        "nomad_score": 0.78,
+        "nomad_community_size": "medium",
+        "nomad_score": 0.62,
         "visa_options": [
           "tourist-60d",
           "ed-visa",
@@ -992,7 +995,7 @@
         "budget_score": 0.5,
         "weather_score": 0.618,
         "transport_score": 0.3,
-        "nomad_score": 0.58,
+        "nomad_score": 0.54,
         "safety_score": 0.78,
         "overall_score": 0.54
       },
@@ -1107,12 +1110,12 @@
         "coworking_spaces": 8,
         "coworking_notable": [
           "Punspace Chiang Rai",
-          "The Camp Vintage Flea Market (co-working area)",
-          "Ristr8to Coffee"
+          "Ristr8to Coffee",
+          "The Camp Vintage Flea Market (co-working area)"
         ],
         "cafe_work_friendly": 18,
-        "nomad_community_size": "small",
-        "nomad_score": 0.58,
+        "nomad_community_size": "medium",
+        "nomad_score": 0.54,
         "visa_options": [
           "tourist-60d",
           "ed-visa",
@@ -1365,8 +1368,8 @@
         "wifi_avg_mbps": 25,
         "coworking_spaces": 3,
         "coworking_notable": [
-          "The Camp Vintage Flea Market",
-          "Hat Yai Business Center"
+          "Hat Yai Business Center",
+          "The Camp Vintage Flea Market"
         ],
         "cafe_work_friendly": 12,
         "nomad_community_size": "small",
@@ -1431,7 +1434,7 @@
         "budget_score": 0.59,
         "weather_score": null,
         "transport_score": 0.517,
-        "nomad_score": 0.58,
+        "nomad_score": 0.28,
         "safety_score": 0.78,
         "overall_score": 0.54
       },
@@ -1538,7 +1541,7 @@
         ],
         "cafe_work_friendly": 12,
         "nomad_community_size": "small",
-        "nomad_score": 0.58,
+        "nomad_score": 0.28,
         "visa_options": [
           "tourist-60d",
           "ed-visa",
@@ -1547,7 +1550,7 @@
           "retirement-visa",
           "work-permit"
         ],
-        "monthly_cost_usd": 1200,
+        "monthly_cost_usd": 2595,
         "best_areas": [
           "Decathlon Area",
           "Hua Hin Town Center",
@@ -1884,7 +1887,7 @@
         "budget_score": 0.59,
         "weather_score": null,
         "transport_score": 0.356,
-        "nomad_score": 0.68,
+        "nomad_score": 0.37,
         "safety_score": 0.75,
         "overall_score": 0.49
       },
@@ -1978,13 +1981,13 @@
         "wifi_avg_mbps": 25,
         "coworking_spaces": 8,
         "coworking_notable": [
+          "Fishbowl Samui",
           "Samui Coworking",
-          "The Deck Samui",
-          "Fishbowl Samui"
+          "The Big Buddha"
         ],
         "cafe_work_friendly": 18,
-        "nomad_community_size": "medium",
-        "nomad_score": 0.68,
+        "nomad_community_size": "small",
+        "nomad_score": 0.37,
         "visa_options": [
           "tourist-60d",
           "ed-visa",
@@ -1993,7 +1996,7 @@
           "retirement-visa",
           "work-permit"
         ],
-        "monthly_cost_usd": 1200,
+        "monthly_cost_usd": 1979,
         "best_areas": [
           "Chaweng",
           "Lamai",
@@ -2047,9 +2050,9 @@
         "budget_score": 0.5,
         "weather_score": 0.534,
         "transport_score": 0.464,
-        "nomad_score": 0.58,
+        "nomad_score": 0.46,
         "safety_score": 0.78,
-        "overall_score": 0.56
+        "overall_score": 0.54
       },
       "score_components": {
         "budget": {
@@ -2171,8 +2174,8 @@
           "The Loft Krabi"
         ],
         "cafe_work_friendly": 12,
-        "nomad_community_size": "small",
-        "nomad_score": 0.58,
+        "nomad_community_size": "medium",
+        "nomad_score": 0.46,
         "visa_options": [
           "tourist-60d",
           "ed-visa",
@@ -2181,7 +2184,7 @@
           "retirement-visa",
           "work-permit"
         ],
-        "monthly_cost_usd": 1200,
+        "monthly_cost_usd": 1722,
         "best_areas": [
           "Ao Nang",
           "Krabi Town",
@@ -2792,7 +2795,7 @@
         "budget_score": 0.69,
         "weather_score": null,
         "transport_score": 0.246,
-        "nomad_score": 0.52,
+        "nomad_score": 0.63,
         "safety_score": 0.75,
         "overall_score": 0.49
       },
@@ -2842,15 +2845,15 @@
         "top_routes": []
       },
       "nomad": {
-        "wifi_avg_mbps": 25,
+        "wifi_avg_mbps": 104,
         "coworking_spaces": 3,
         "coworking_notable": [
           "Korat Hub",
           "The Camp Vintage Flea Market (workspace area)"
         ],
         "cafe_work_friendly": 12,
-        "nomad_community_size": "small",
-        "nomad_score": 0.52,
+        "nomad_community_size": "medium",
+        "nomad_score": 0.63,
         "visa_options": [
           "tourist-60d",
           "ed-visa",
@@ -2859,7 +2862,7 @@
           "retirement-visa",
           "work-permit"
         ],
-        "monthly_cost_usd": 850,
+        "monthly_cost_usd": 1051,
         "best_areas": [
           "City Center (Amphoe Mueang)",
           "Mittraphap Road",
@@ -3135,7 +3138,7 @@
         "budget_score": 0.75,
         "weather_score": null,
         "transport_score": 0.246,
-        "nomad_score": 0.58,
+        "nomad_score": 0.47,
         "safety_score": 0.78,
         "overall_score": 0.51
       },
@@ -3215,11 +3218,12 @@
         "wifi_avg_mbps": 15,
         "coworking_spaces": 2,
         "coworking_notable": [
+          "All About Coffee",
           "Pai Coworking"
         ],
         "cafe_work_friendly": 8,
-        "nomad_community_size": "small",
-        "nomad_score": 0.58,
+        "nomad_community_size": "medium",
+        "nomad_score": 0.47,
         "visa_options": [
           "tourist-60d",
           "ed-visa",
@@ -3279,9 +3283,9 @@
         "budget_score": 0.5,
         "weather_score": 0.625,
         "transport_score": 0.492,
-        "nomad_score": 0.58,
+        "nomad_score": 0.38,
         "safety_score": 0.72,
-        "overall_score": 0.57
+        "overall_score": 0.54
       },
       "score_components": {
         "budget": {
@@ -3400,16 +3404,17 @@
         ]
       },
       "nomad": {
-        "wifi_avg_mbps": 45,
+        "wifi_avg_mbps": 19,
         "coworking_spaces": 8,
         "coworking_notable": [
+          "Aiyara Place",
+          "Anchor",
           "Punspace Pattaya",
-          "The Camp Vintage Flea Market (workspace area)",
-          "Aiyara Place"
+          "The Camp Vintage Flea Market (workspace area)"
         ],
         "cafe_work_friendly": 18,
         "nomad_community_size": "small",
-        "nomad_score": 0.58,
+        "nomad_score": 0.38,
         "visa_options": [
           "tourist-60d",
           "ed-visa",
@@ -3418,7 +3423,7 @@
           "retirement-visa",
           "work-permit"
         ],
-        "monthly_cost_usd": 1200,
+        "monthly_cost_usd": 1586,
         "best_areas": [
           "Jomtien Beach",
           "Central Pattaya",
@@ -3587,9 +3592,9 @@
         "budget_score": 0.5,
         "weather_score": 0.519,
         "transport_score": 0.577,
-        "nomad_score": 0.72,
+        "nomad_score": 0.49,
         "safety_score": 0.75,
-        "overall_score": 0.59
+        "overall_score": 0.56
       },
       "score_components": {
         "budget": {
@@ -3705,17 +3710,18 @@
         ]
       },
       "nomad": {
-        "wifi_avg_mbps": 45,
+        "wifi_avg_mbps": 21,
         "coworking_spaces": 12,
         "coworking_notable": [
           "Hubba",
-          "The Camp Vintage Flea Market",
-          "Punspace",
-          "Phuket Sandbox"
+          "Phuket Coworking",
+          "Phuket Sandbox",
+          "Phuket Stash",
+          "Punspace"
         ],
         "cafe_work_friendly": 28,
         "nomad_community_size": "medium",
-        "nomad_score": 0.72,
+        "nomad_score": 0.49,
         "visa_options": [
           "tourist-60d",
           "dtv",
@@ -3724,7 +3730,7 @@
           "retirement-visa",
           "work-permit"
         ],
-        "monthly_cost_usd": 1200,
+        "monthly_cost_usd": 1670,
         "best_areas": [
           "Patong",
           "Kata",
@@ -4525,7 +4531,7 @@
         "budget_score": 0.69,
         "weather_score": null,
         "transport_score": 0.199,
-        "nomad_score": 0.52,
+        "nomad_score": 0.42,
         "safety_score": 0.75,
         "overall_score": 0.48
       },
@@ -4575,15 +4581,16 @@
         "top_routes": []
       },
       "nomad": {
-        "wifi_avg_mbps": 25,
+        "wifi_avg_mbps": 19,
         "coworking_spaces": 3,
         "coworking_notable": [
-          "Udon Thani Coworking Space",
+          "Dose Espresso",
+          "Smart Hub",
           "The Hive Udon"
         ],
         "cafe_work_friendly": 12,
         "nomad_community_size": "small",
-        "nomad_score": 0.52,
+        "nomad_score": 0.42,
         "visa_options": [
           "tourist-60d",
           "ed-visa",
@@ -4592,7 +4599,7 @@
           "retirement-visa",
           "work-permit"
         ],
-        "monthly_cost_usd": 850,
+        "monthly_cost_usd": 1029,
         "best_areas": [
           "City Center (Neon District)",
           "Prachak Road",
@@ -5648,17 +5655,8 @@
             "en": "Chiang Mai",
             "nl": "Chiang Mai"
           },
-          "value": 0.67,
+          "value": 0.64,
           "rank": 2
-        },
-        {
-          "slug": "phuket",
-          "name": {
-            "en": "Phuket",
-            "nl": "Phuket"
-          },
-          "value": 0.59,
-          "rank": 3
         },
         {
           "slug": "ayutthaya",
@@ -5667,25 +5665,16 @@
             "nl": "Ayutthaya"
           },
           "value": 0.57,
-          "rank": 4
+          "rank": 3
         },
         {
-          "slug": "pattaya",
+          "slug": "phuket",
           "name": {
-            "en": "Pattaya",
-            "nl": "Pattaya"
-          },
-          "value": 0.57,
-          "rank": 5
-        },
-        {
-          "slug": "krabi",
-          "name": {
-            "en": "Krabi",
-            "nl": "Krabi"
+            "en": "Phuket",
+            "nl": "Phuket"
           },
           "value": 0.56,
-          "rank": 6
+          "rank": 4
         },
         {
           "slug": "chiang-rai",
@@ -5694,13 +5683,31 @@
             "nl": "Chiang Rai"
           },
           "value": 0.54,
-          "rank": 7
+          "rank": 5
         },
         {
           "slug": "hua-hin",
           "name": {
             "en": "Hua Hin",
             "nl": "Hua Hin"
+          },
+          "value": 0.54,
+          "rank": 6
+        },
+        {
+          "slug": "krabi",
+          "name": {
+            "en": "Krabi",
+            "nl": "Krabi"
+          },
+          "value": 0.54,
+          "rank": 7
+        },
+        {
+          "slug": "pattaya",
+          "name": {
+            "en": "Pattaya",
+            "nl": "Pattaya"
           },
           "value": 0.54,
           "rank": 8
@@ -5942,8 +5949,17 @@
             "en": "Bangkok",
             "nl": "Bangkok"
           },
-          "value": 0.82,
+          "value": 0.79,
           "rank": 1
+        },
+        {
+          "slug": "nakhon-ratchasima",
+          "name": {
+            "en": "Nakhon Ratchasima (Korat)",
+            "nl": "Nakhon Ratchasima (Korat)"
+          },
+          "value": 0.63,
+          "rank": 2
         },
         {
           "slug": "chiang-mai",
@@ -5951,26 +5967,8 @@
             "en": "Chiang Mai",
             "nl": "Chiang Mai"
           },
-          "value": 0.78,
-          "rank": 2
-        },
-        {
-          "slug": "phuket",
-          "name": {
-            "en": "Phuket",
-            "nl": "Phuket"
-          },
-          "value": 0.72,
+          "value": 0.62,
           "rank": 3
-        },
-        {
-          "slug": "koh-samui",
-          "name": {
-            "en": "Koh Samui",
-            "nl": "Koh Samui"
-          },
-          "value": 0.68,
-          "rank": 4
         },
         {
           "slug": "chiang-rai",
@@ -5978,44 +5976,8 @@
             "en": "Chiang Rai",
             "nl": "Chiang Rai"
           },
-          "value": 0.58,
-          "rank": 5
-        },
-        {
-          "slug": "hua-hin",
-          "name": {
-            "en": "Hua Hin",
-            "nl": "Hua Hin"
-          },
-          "value": 0.58,
-          "rank": 6
-        },
-        {
-          "slug": "krabi",
-          "name": {
-            "en": "Krabi",
-            "nl": "Krabi"
-          },
-          "value": 0.58,
-          "rank": 7
-        },
-        {
-          "slug": "pai",
-          "name": {
-            "en": "Pai",
-            "nl": "Pai"
-          },
-          "value": 0.58,
-          "rank": 8
-        },
-        {
-          "slug": "pattaya",
-          "name": {
-            "en": "Pattaya",
-            "nl": "Pattaya"
-          },
-          "value": 0.58,
-          "rank": 9
+          "value": 0.54,
+          "rank": 4
         },
         {
           "slug": "ayutthaya",
@@ -6024,7 +5986,7 @@
             "nl": "Ayutthaya"
           },
           "value": 0.52,
-          "rank": 10
+          "rank": 5
         },
         {
           "slug": "hat-yai",
@@ -6033,7 +5995,7 @@
             "nl": "Hat Yai"
           },
           "value": 0.52,
-          "rank": 11
+          "rank": 6
         },
         {
           "slug": "kanchanaburi",
@@ -6042,7 +6004,7 @@
             "nl": "Kanchanaburi"
           },
           "value": 0.52,
-          "rank": 12
+          "rank": 7
         },
         {
           "slug": "khon-kaen",
@@ -6051,16 +6013,7 @@
             "nl": "Khon Kaen"
           },
           "value": 0.52,
-          "rank": 13
-        },
-        {
-          "slug": "nakhon-ratchasima",
-          "name": {
-            "en": "Nakhon Ratchasima (Korat)",
-            "nl": "Nakhon Ratchasima (Korat)"
-          },
-          "value": 0.52,
-          "rank": 14
+          "rank": 8
         },
         {
           "slug": "rayong",
@@ -6069,16 +6022,34 @@
             "nl": "Rayong"
           },
           "value": 0.52,
-          "rank": 15
+          "rank": 9
         },
         {
-          "slug": "udon-thani",
+          "slug": "phuket",
           "name": {
-            "en": "Udon Thani",
-            "nl": "Udon Thani"
+            "en": "Phuket",
+            "nl": "Phuket"
           },
-          "value": 0.52,
-          "rank": 16
+          "value": 0.49,
+          "rank": 10
+        },
+        {
+          "slug": "pai",
+          "name": {
+            "en": "Pai",
+            "nl": "Pai"
+          },
+          "value": 0.47,
+          "rank": 11
+        },
+        {
+          "slug": "krabi",
+          "name": {
+            "en": "Krabi",
+            "nl": "Krabi"
+          },
+          "value": 0.46,
+          "rank": 12
         },
         {
           "slug": "chanthaburi",
@@ -6087,7 +6058,7 @@
             "nl": "Chanthaburi"
           },
           "value": 0.42,
-          "rank": 17
+          "rank": 13
         },
         {
           "slug": "chiang-khan",
@@ -6096,7 +6067,7 @@
             "nl": "Chiang Khan"
           },
           "value": 0.42,
-          "rank": 18
+          "rank": 14
         },
         {
           "slug": "lampang",
@@ -6105,7 +6076,7 @@
             "nl": "Lampang"
           },
           "value": 0.42,
-          "rank": 19
+          "rank": 15
         },
         {
           "slug": "lopburi",
@@ -6114,7 +6085,7 @@
             "nl": "Lopburi"
           },
           "value": 0.42,
-          "rank": 20
+          "rank": 16
         },
         {
           "slug": "nakhon-si-thammarat",
@@ -6123,7 +6094,7 @@
             "nl": "Nakhon Si Thammarat"
           },
           "value": 0.42,
-          "rank": 21
+          "rank": 17
         },
         {
           "slug": "nong-khai",
@@ -6132,7 +6103,7 @@
             "nl": "Nong Khai"
           },
           "value": 0.42,
-          "rank": 22
+          "rank": 18
         },
         {
           "slug": "phitsanulok",
@@ -6141,7 +6112,7 @@
             "nl": "Phitsanulok"
           },
           "value": 0.42,
-          "rank": 23
+          "rank": 19
         },
         {
           "slug": "sukhothai",
@@ -6150,7 +6121,7 @@
             "nl": "Sukhothai"
           },
           "value": 0.42,
-          "rank": 24
+          "rank": 20
         },
         {
           "slug": "surat-thani",
@@ -6159,7 +6130,7 @@
             "nl": "Surat Thani"
           },
           "value": 0.42,
-          "rank": 25
+          "rank": 21
         },
         {
           "slug": "trang",
@@ -6168,7 +6139,7 @@
             "nl": "Trang"
           },
           "value": 0.42,
-          "rank": 26
+          "rank": 22
         },
         {
           "slug": "ubon-ratchathani",
@@ -6177,7 +6148,16 @@
             "nl": "Ubon Ratchathani"
           },
           "value": 0.42,
-          "rank": 27
+          "rank": 23
+        },
+        {
+          "slug": "udon-thani",
+          "name": {
+            "en": "Udon Thani",
+            "nl": "Udon Thani"
+          },
+          "value": 0.42,
+          "rank": 24
         },
         {
           "slug": "mae-hong-son",
@@ -6186,7 +6166,16 @@
             "nl": "Mae Hong Son"
           },
           "value": 0.38,
-          "rank": 28
+          "rank": 25
+        },
+        {
+          "slug": "pattaya",
+          "name": {
+            "en": "Pattaya",
+            "nl": "Pattaya"
+          },
+          "value": 0.38,
+          "rank": 26
         },
         {
           "slug": "trat",
@@ -6195,7 +6184,16 @@
             "nl": "Trat"
           },
           "value": 0.38,
-          "rank": 29
+          "rank": 27
+        },
+        {
+          "slug": "koh-samui",
+          "name": {
+            "en": "Koh Samui",
+            "nl": "Koh Samui"
+          },
+          "value": 0.37,
+          "rank": 28
         },
         {
           "slug": "bueng-kan",
@@ -6204,7 +6202,7 @@
             "nl": "Bueng Kan"
           },
           "value": 0.32,
-          "rank": 30
+          "rank": 29
         },
         {
           "slug": "chumphon",
@@ -6213,7 +6211,7 @@
             "nl": "Chumphon"
           },
           "value": 0.32,
-          "rank": 31
+          "rank": 30
         },
         {
           "slug": "mukdahan",
@@ -6222,7 +6220,7 @@
             "nl": "Mukdahan"
           },
           "value": 0.32,
-          "rank": 32
+          "rank": 31
         },
         {
           "slug": "nakhon-phanom",
@@ -6231,6 +6229,15 @@
             "nl": "Nakhon Phanom"
           },
           "value": 0.32,
+          "rank": 32
+        },
+        {
+          "slug": "hua-hin",
+          "name": {
+            "en": "Hua Hin",
+            "nl": "Hua Hin"
+          },
+          "value": 0.28,
           "rank": 33
         }
       ]

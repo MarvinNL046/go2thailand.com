@@ -27,18 +27,20 @@
     "sim_esim_available": true
   },
   "bangkok": {
-    "wifi_avg_mbps": 45,
+    "wifi_avg_mbps": 24,
     "coworking_spaces": 85,
     "coworking_notable": [
-      "Hubba",
-      "The Hive Mind",
-      "Punspace",
       "Collision",
+      "Hubba",
+      "Punspace",
+      "The Great Room",
+      "The Hive",
+      "The Hive Mind",
       "WeSpace"
     ],
     "cafe_work_friendly": 38,
     "nomad_community_size": "large",
-    "nomad_score": 0.82,
+    "nomad_score": 0.79,
     "visa_options": [
       "tourist-60d",
       "ed-visa",
@@ -47,7 +49,7 @@
       "retirement-visa",
       "work-permit"
     ],
-    "monthly_cost_usd": 1200,
+    "monthly_cost_usd": 1618,
     "best_areas": [
       "Ari",
       "Thonglor",
@@ -123,18 +125,19 @@
     "sim_esim_available": true
   },
   "chiang-mai": {
-    "wifi_avg_mbps": 45,
+    "wifi_avg_mbps": 20,
     "coworking_spaces": 28,
     "coworking_notable": [
-      "Punspace",
-      "Ristr8to",
       "Hubba",
+      "Punspace",
       "Punspace Nimman",
+      "Ristr8to",
+      "The Brick",
       "The Hive"
     ],
     "cafe_work_friendly": 32,
-    "nomad_community_size": "large",
-    "nomad_score": 0.78,
+    "nomad_community_size": "medium",
+    "nomad_score": 0.62,
     "visa_options": [
       "tourist-60d",
       "ed-visa",
@@ -158,12 +161,12 @@
     "coworking_spaces": 8,
     "coworking_notable": [
       "Punspace Chiang Rai",
-      "The Camp Vintage Flea Market (co-working area)",
-      "Ristr8to Coffee"
+      "Ristr8to Coffee",
+      "The Camp Vintage Flea Market (co-working area)"
     ],
     "cafe_work_friendly": 18,
-    "nomad_community_size": "small",
-    "nomad_score": 0.58,
+    "nomad_community_size": "medium",
+    "nomad_score": 0.54,
     "visa_options": [
       "tourist-60d",
       "ed-visa",
@@ -208,8 +211,8 @@
     "wifi_avg_mbps": 25,
     "coworking_spaces": 3,
     "coworking_notable": [
-      "The Camp Vintage Flea Market",
-      "Hat Yai Business Center"
+      "Hat Yai Business Center",
+      "The Camp Vintage Flea Market"
     ],
     "cafe_work_friendly": 12,
     "nomad_community_size": "small",
@@ -240,7 +243,7 @@
     ],
     "cafe_work_friendly": 12,
     "nomad_community_size": "small",
-    "nomad_score": 0.58,
+    "nomad_score": 0.28,
     "visa_options": [
       "tourist-60d",
       "ed-visa",
@@ -249,7 +252,7 @@
       "retirement-visa",
       "work-permit"
     ],
-    "monthly_cost_usd": 1200,
+    "monthly_cost_usd": 2595,
     "best_areas": [
       "Decathlon Area",
       "Hua Hin Town Center",
@@ -316,13 +319,13 @@
     "wifi_avg_mbps": 25,
     "coworking_spaces": 8,
     "coworking_notable": [
+      "Fishbowl Samui",
       "Samui Coworking",
-      "The Deck Samui",
-      "Fishbowl Samui"
+      "The Big Buddha"
     ],
     "cafe_work_friendly": 18,
-    "nomad_community_size": "medium",
-    "nomad_score": 0.68,
+    "nomad_community_size": "small",
+    "nomad_score": 0.37,
     "visa_options": [
       "tourist-60d",
       "ed-visa",
@@ -331,7 +334,7 @@
       "retirement-visa",
       "work-permit"
     ],
-    "monthly_cost_usd": 1200,
+    "monthly_cost_usd": 1979,
     "best_areas": [
       "Chaweng",
       "Lamai",
@@ -349,8 +352,8 @@
       "The Loft Krabi"
     ],
     "cafe_work_friendly": 12,
-    "nomad_community_size": "small",
-    "nomad_score": 0.58,
+    "nomad_community_size": "medium",
+    "nomad_score": 0.46,
     "visa_options": [
       "tourist-60d",
       "ed-visa",
@@ -359,7 +362,7 @@
       "retirement-visa",
       "work-permit"
     ],
-    "monthly_cost_usd": 1200,
+    "monthly_cost_usd": 1722,
     "best_areas": [
       "Ao Nang",
       "Krabi Town",
@@ -479,15 +482,15 @@
     "sim_esim_available": true
   },
   "nakhon-ratchasima": {
-    "wifi_avg_mbps": 25,
+    "wifi_avg_mbps": 104,
     "coworking_spaces": 3,
     "coworking_notable": [
       "Korat Hub",
       "The Camp Vintage Flea Market (workspace area)"
     ],
     "cafe_work_friendly": 12,
-    "nomad_community_size": "small",
-    "nomad_score": 0.52,
+    "nomad_community_size": "medium",
+    "nomad_score": 0.63,
     "visa_options": [
       "tourist-60d",
       "ed-visa",
@@ -496,7 +499,7 @@
       "retirement-visa",
       "work-permit"
     ],
-    "monthly_cost_usd": 850,
+    "monthly_cost_usd": 1051,
     "best_areas": [
       "City Center (Amphoe Mueang)",
       "Mittraphap Road",
@@ -554,11 +557,12 @@
     "wifi_avg_mbps": 15,
     "coworking_spaces": 2,
     "coworking_notable": [
+      "All About Coffee",
       "Pai Coworking"
     ],
     "cafe_work_friendly": 8,
-    "nomad_community_size": "small",
-    "nomad_score": 0.58,
+    "nomad_community_size": "medium",
+    "nomad_score": 0.47,
     "visa_options": [
       "tourist-60d",
       "ed-visa",
@@ -576,16 +580,17 @@
     "sim_esim_available": true
   },
   "pattaya": {
-    "wifi_avg_mbps": 45,
+    "wifi_avg_mbps": 19,
     "coworking_spaces": 8,
     "coworking_notable": [
+      "Aiyara Place",
+      "Anchor",
       "Punspace Pattaya",
-      "The Camp Vintage Flea Market (workspace area)",
-      "Aiyara Place"
+      "The Camp Vintage Flea Market (workspace area)"
     ],
     "cafe_work_friendly": 18,
     "nomad_community_size": "small",
-    "nomad_score": 0.58,
+    "nomad_score": 0.38,
     "visa_options": [
       "tourist-60d",
       "ed-visa",
@@ -594,7 +599,7 @@
       "retirement-visa",
       "work-permit"
     ],
-    "monthly_cost_usd": 1200,
+    "monthly_cost_usd": 1586,
     "best_areas": [
       "Jomtien Beach",
       "Central Pattaya",
@@ -628,17 +633,18 @@
     "sim_esim_available": true
   },
   "phuket": {
-    "wifi_avg_mbps": 45,
+    "wifi_avg_mbps": 21,
     "coworking_spaces": 12,
     "coworking_notable": [
       "Hubba",
-      "The Camp Vintage Flea Market",
-      "Punspace",
-      "Phuket Sandbox"
+      "Phuket Coworking",
+      "Phuket Sandbox",
+      "Phuket Stash",
+      "Punspace"
     ],
     "cafe_work_friendly": 28,
     "nomad_community_size": "medium",
-    "nomad_score": 0.72,
+    "nomad_score": 0.49,
     "visa_options": [
       "tourist-60d",
       "dtv",
@@ -647,7 +653,7 @@
       "retirement-visa",
       "work-permit"
     ],
-    "monthly_cost_usd": 1200,
+    "monthly_cost_usd": 1670,
     "best_areas": [
       "Patong",
       "Kata",
@@ -800,15 +806,16 @@
     "sim_esim_available": true
   },
   "udon-thani": {
-    "wifi_avg_mbps": 25,
+    "wifi_avg_mbps": 19,
     "coworking_spaces": 3,
     "coworking_notable": [
-      "Udon Thani Coworking Space",
+      "Dose Espresso",
+      "Smart Hub",
       "The Hive Udon"
     ],
     "cafe_work_friendly": 12,
     "nomad_community_size": "small",
-    "nomad_score": 0.52,
+    "nomad_score": 0.42,
     "visa_options": [
       "tourist-60d",
       "ed-visa",
@@ -817,7 +824,7 @@
       "retirement-visa",
       "work-permit"
     ],
-    "monthly_cost_usd": 850,
+    "monthly_cost_usd": 1029,
     "best_areas": [
       "City Center (Neon District)",
       "Prachak Road",
