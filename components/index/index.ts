@@ -9,5 +9,7 @@ export { default as IndexTable } from './IndexTable';
 export { default as TableOfContents } from './TableOfContents';
 export { default as MonthMatrix } from './MonthMatrix';
 export { default as TransportTable } from './TransportTable';
+export { default as NomadTable } from './NomadTable';
+export { default as VisaTable } from './VisaTable';
 
 export type { TocItem } from './TableOfContents';
