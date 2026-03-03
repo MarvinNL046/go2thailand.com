@@ -592,9 +592,10 @@ function buildPrompt(
     ? `\nREFERENCE DATA — THIS IS YOUR PRIMARY SOURCE OF TRUTH:
 Use ONLY the facts, prices, statistics, and details from the data below. If a fact is NOT in this reference data, do NOT include it — leave it out rather than guess.
 Every price, statistic, and specific claim MUST come from this data or a cited external source. When in doubt, say "prices vary" rather than inventing a number.
+CRITICAL: Any proper noun (restaurant name, hotel name, person's name, shop name) that does NOT appear in the data below is FORBIDDEN. Do not use names from your training data. If you want to mention a specific venue, it must be named in the data below — otherwise describe it generically.
 
 ${scrapeData.slice(0, 6000)}\n`
-    : "";
+    : `\nNO REFERENCE DATA AVAILABLE: Write only in general terms. Do NOT name any specific restaurants, hotels, venues, or people. Use generic descriptions only (e.g. "a riverside restaurant", "a local guesthouse", "a market vendor").\n`;
 
   return `You are a senior Thailand travel writer for go2-thailand.com, a comprehensive Thailand travel resource.
 You and your team have lived in and traveled Thailand extensively — Chiang Mai for 3 years, island-hopped the south, explored the north, and navigated Bangkok as locals. You write from genuine first-hand experience.
@@ -760,13 +761,14 @@ ANTI-HALLUCINATION RULES (CRITICAL — FOLLOW EXACTLY):
 1. NEVER invent prices, statistics, percentages, or specific numbers. Use ONLY data from the REFERENCE DATA section below or well-known public facts.
 2. If you don't have a specific price from the reference data, write "prices vary" or "check the latest prices" with a link. Do NOT guess.
 3. NEVER fabricate quotes, testimonials, or specific venue details you're unsure about.
-4. Specific venue names, addresses, and operating hours MUST come from the reference data. If unsure, describe the area/neighborhood instead of naming a specific place.
-5. For historical facts and cultural context, use only widely known, verifiable information.
-6. If the reference data contradicts common assumptions, ALWAYS prefer the reference data.
-7. Every "Did You Know" callout MUST have a real, verifiable source link — not a made-up one.
-8. Be honest: "Based on our research..." is better than fabricating a firsthand experience you don't have data for.
-9. NEVER output meta-instructions, content strategy notes, or behind-the-scenes commentary. Your output must be ONLY the blog post that a reader would see. Do NOT include sections like "Affiliate Integration Points", "Internal linking notes", or "Examples in context".
-10. NEVER mention "Booking.com", "Klook", "GetYourGuide", "12Go Asia", "Saily", or "Trip.com" by brand name. Just describe the travel action naturally — the brand names and links are added automatically after your writing.
+4. PROPER NOUNS ARE FORBIDDEN unless they appear verbatim in the REFERENCE DATA above. This means: restaurant names, hotel names, bar names, shop names, guide names, staff names, chef names — if it's not in the reference data, do NOT name it. Write "a local noodle shop near the market" instead of inventing "Mama's Noodle House". Write "our guide" instead of inventing a name like "Krishna" or "Somchai". This rule has NO exceptions.
+5. Specific addresses and opening hours MUST come verbatim from the reference data. If not in the data, omit them or link to Google Maps generically.
+6. For historical facts and cultural context, use only widely known, verifiable information.
+7. If the reference data contradicts common assumptions, ALWAYS prefer the reference data.
+8. Every "Did You Know" callout MUST have a real, verifiable source link — not a made-up one.
+9. Be honest: "Based on our research..." is better than fabricating a firsthand experience you don't have data for.
+10. NEVER output meta-instructions, content strategy notes, or behind-the-scenes commentary. Your output must be ONLY the blog post that a reader would see. Do NOT include sections like "Affiliate Integration Points", "Internal linking notes", or "Examples in context".
+11. NEVER mention "Booking.com", "Klook", "GetYourGuide", "12Go Asia", "Saily", or "Trip.com" by brand name. Just describe the travel action naturally — the brand names and links are added automatically after your writing.
 
 ---
 
