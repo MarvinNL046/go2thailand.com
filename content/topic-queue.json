@@ -53,15 +53,75 @@
       "category": "food",
       "targetKeyword": "jodd fairs",
       "searchVolume": 15000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Attraction/jodd-fairs"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Attraction/jodd-fairs"
+      ],
       "priority": 1
+    },
+    {
+      "topic": "Is Thailand Still Cheap in 2026? Real Travel Costs Breakdown",
+      "category": "budget",
+      "targetKeyword": "is thailand cheap",
+      "searchVolume": 22000,
+      "priority": 1,
+      "outline": "Opening: 'Yes and no — here's the real story.' Price comparison 2019 vs 2026. Budget by type: backpacker, mid-range, luxury. What's gotten more expensive (hotels, tours). What's still cheap (street food, local transport). City comparison table. 3 sample day budgets in THB and USD."
+    },
+    {
+      "topic": "10 Biggest Thailand Travel Mistakes (And How to Avoid Them)",
+      "category": "practical",
+      "targetKeyword": "thailand travel mistakes",
+      "searchVolume": 8000,
+      "priority": 1,
+      "outline": "Top 10 list: 1) Wrong season timing, 2) Taxi/tuk-tuk scams, 3) Temple dress code violations, 4) Overpacking itinerary, 5) Skipping travel insurance, 6) Exchanging money at airport, 7) Riding scooter without license, 8) Booking only tourist restaurants, 9) Ignoring heat/humidity in planning, 10) Not checking visa requirements. Each: what the mistake is, real consequences, how to avoid it."
+    },
+    {
+      "topic": "Best Time to Visit Thailand: Month-by-Month Guide (2026)",
+      "category": "seasonal",
+      "targetKeyword": "best time to visit thailand",
+      "searchVolume": 40000,
+      "priority": 1,
+      "outline": "Quick answer table: best month per region. North vs South weather differences. Month-by-month breakdown Jan-Dec: weather, crowds, prices, events. Best time for: beaches, hiking, budget travel, avoiding rain. Worst months explained honestly. Regional recommendations."
+    },
+    {
+      "topic": "How Much Does 2 Weeks in Thailand Cost? (2026 Budget Guide)",
+      "category": "budget",
+      "targetKeyword": "2 weeks in thailand cost",
+      "searchVolume": 18000,
+      "priority": 1,
+      "outline": "Key Takeaways table: total cost by budget tier. Breakdown: flights, accommodation (14 nights), food, transport, activities, visa, SIM, insurance. 3 sample budgets: backpacker (฿28,000), mid-range (฿65,000), comfort (฿120,000+). Money-saving tips. What to splurge on vs save on."
+    },
+    {
+      "topic": "Is Phuket Worth Visiting in 2026? Honest Pros & Cons Guide",
+      "category": "city-guide",
+      "targetKeyword": "is phuket worth visiting",
+      "searchVolume": 12000,
+      "priority": 1,
+      "outline": "Direct answer upfront. Pros: beaches, infrastructure, food, nightlife, day trips. Cons: overtourism, prices, jet ski scams, traffic. Best areas compared (Patong vs Kata vs Kamala vs Rawai). Who should go vs who should skip. Best alternatives if Phuket isn't for you. Verdict table."
+    },
+    {
+      "topic": "Thailand Travel Scams to Watch Out for in 2026",
+      "category": "practical",
+      "targetKeyword": "thailand travel scams",
+      "searchVolume": 15000,
+      "priority": 1,
+      "outline": "Top scams: 1) Jet ski damage scam, 2) Tuk-tuk 'closed temple' scam, 3) Gem store scam, 4) Overpriced taxi no meter, 5) Fake monk donation, 6) Ping pong show tout, 7) Friendship scam, 8) Motorbike rental damage. For each: how it works, red flags, how to avoid. Emergency contacts."
+    },
+    {
+      "topic": "15 Hidden Gems in Thailand Most Tourists Miss (2026)",
+      "category": "activities",
+      "targetKeyword": "hidden gems thailand",
+      "searchVolume": 9000,
+      "priority": 2,
+      "outline": "15 under-the-radar spots: Nan, Koh Kood, Sangkhlaburi, Pai, Trang islands, Phrae, Koh Phayam, Umphang, Chiang Khan, Wang Saphung, Koh Mak, Mae Hong Son, Loei, Phetchabun, Kamphaeng Phet. For each: why it's special, who it suits, how to get there, when to go."
     },
     {
       "topic": "Thailand Digital Arrival Card (TDAC): Complete Step-by-Step Guide",
       "category": "practical",
       "targetKeyword": "thailand digital arrival card",
       "searchVolume": 18000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Articles/tdac"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Articles/tdac"
+      ],
       "priority": 1
     },
     {
@@ -141,7 +201,9 @@
       "category": "seasonal",
       "targetKeyword": "loi krathong",
       "searchVolume": 19000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Articles/loi-krathong-2025-all-area-en"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Articles/loi-krathong-2025-all-area-en"
+      ],
       "priority": 2,
       "outline": "What is Loi Krathong. Yi Peng lantern festival. 2026 dates. Best locations: Chiang Mai, Bangkok, Sukhothai. How to participate. Cultural significance."
     },
@@ -150,7 +212,9 @@
       "category": "city-guide",
       "targetKeyword": "phuket",
       "searchVolume": 89000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Destinations/Provinces/Phuket/350"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Phuket/350"
+      ],
       "priority": 2
     },
     {
@@ -158,7 +222,9 @@
       "category": "city-guide",
       "targetKeyword": "bangkok",
       "searchVolume": 86000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Destinations/Provinces/Bangkok/219"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Bangkok/219"
+      ],
       "priority": 2
     },
     {
@@ -166,7 +232,9 @@
       "category": "city-guide",
       "targetKeyword": "krabi",
       "searchVolume": 21000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Destinations/Provinces/Krabi/344"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Krabi/344"
+      ],
       "priority": 2
     },
     {
@@ -174,7 +242,9 @@
       "category": "islands",
       "targetKeyword": "koh tao",
       "searchVolume": 18000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Destinations/Provinces/Ko-Tao/361"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Ko-Tao/361"
+      ],
       "priority": 2
     },
     {
@@ -182,7 +252,9 @@
       "category": "city-guide",
       "targetKeyword": "wat arun",
       "searchVolume": 36000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Attraction/wat-arun-ratchawararam-ratchawaramahawihan"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Attraction/wat-arun-ratchawararam-ratchawaramahawihan"
+      ],
       "priority": 2
     },
     {
@@ -190,7 +262,9 @@
       "category": "islands",
       "targetKeyword": "phi phi island",
       "searchVolume": 21000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Destinations/Provinces/Ko-Phi-Phi/359"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Ko-Phi-Phi/359"
+      ],
       "priority": 2
     },
     {
@@ -234,11 +308,11 @@
       "outline": "Phi Phi Islands. James Bond Island. Similan Islands. Koh Racha. Phang Nga Bay. Khao Sok. Krabi day trip."
     },
     {
-      "topic": "Thailand vs Bali: Honest Comparison for 2026 Travelers",
+      "topic": "Thailand vs Bali (2026): Which Is Better for Your Trip?",
       "category": "practical",
       "targetKeyword": "thailand vs bali",
       "searchVolume": 5000,
-      "priority": 3,
+      "priority": 1,
       "outline": "Budget. Beaches. Culture. Food. Infrastructure. Nightlife. Activities. Visa. Verdict."
     },
     {
@@ -286,7 +360,9 @@
       "category": "activities",
       "targetKeyword": "doi inthanon",
       "searchVolume": 11000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Attraction/doi-inthanon-national-park"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Attraction/doi-inthanon-national-park"
+      ],
       "priority": 3
     },
     {
@@ -294,7 +370,9 @@
       "category": "islands",
       "targetKeyword": "koh chang",
       "searchVolume": 13000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Destinations/Provinces/Ko-Chang/467"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Ko-Chang/467"
+      ],
       "priority": 3
     },
     {
@@ -302,7 +380,9 @@
       "category": "activities",
       "targetKeyword": "sanctuary of truth",
       "searchVolume": 12000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Attraction/the-sanctuary-of-truth"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Attraction/the-sanctuary-of-truth"
+      ],
       "priority": 3
     },
     {
@@ -310,7 +390,9 @@
       "category": "city-guide",
       "targetKeyword": "grand palace bangkok",
       "searchVolume": 11000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Attraction/the-grand-palace"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Attraction/the-grand-palace"
+      ],
       "priority": 3
     },
     {
@@ -318,7 +400,9 @@
       "category": "city-guide",
       "targetKeyword": "wat pho",
       "searchVolume": 19000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Attraction/wat-phra-chetuphon-wimonmangkalaram-ratchaworamahawihan-or-wat-pho"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Attraction/wat-phra-chetuphon-wimonmangkalaram-ratchaworamahawihan-or-wat-pho"
+      ],
       "priority": 3
     },
     {
@@ -326,7 +410,9 @@
       "category": "city-guide",
       "targetKeyword": "chiang mai",
       "searchVolume": 16000,
-      "scrapeUrls": ["https://www.tourismthailand.org/Destinations/Provinces/Chiang-Mai/101"],
+      "scrapeUrls": [
+        "https://www.tourismthailand.org/Destinations/Provinces/Chiang-Mai/101"
+      ],
       "priority": 3
     },
     {
