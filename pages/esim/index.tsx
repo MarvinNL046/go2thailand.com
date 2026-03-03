@@ -36,7 +36,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
     <>
       <SEOHead
         title={`Best eSIM for Thailand 2026 | Compare Prices & Data Plans`}
-        description="Find the best eSIM for Thailand travel. Compare data plans, prices, and coverage from top providers. Stay connected without expensive roaming charges."
+        description="Compare Thailand eSIMs from $4/week. Airalo, Saily & Yesim on AIS, TrueMove & DTAC reviewed. Instant activation before landing — no SIM card needed."
       >
         <meta name="keywords" content="Thailand eSIM, best eSIM Thailand, Thailand travel SIM, mobile data Thailand, eSIM providers Thailand, Thailand internet" />
       </SEOHead>
