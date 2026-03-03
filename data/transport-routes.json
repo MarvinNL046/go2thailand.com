@@ -688,7 +688,12 @@
         "taxi": "1.5-2 hours",
         "car": "1.5-2 hours"
       },
-      "popular": true
+      "popular": true,
+      "operators": ["Roong Reuang Coach (175-435 THB, every 30-40 min)", "Bell Travel (500-1,100 THB, VIP)", "Thai Railway (60-1,100 THB, 1 daily)", "Minivans (200-400 THB)"],
+      "real_prices": {"bus_min": 120, "bus_max": 435, "train_min": 60, "train_max": 1100, "taxi": "2000-3000", "minivan": "200-400"},
+      "departures_per_day": "111+",
+      "sources": ["12Go.asia", "Bookaway", "Roong Reuang Coach official", "CheckMyBus"],
+      "lastUpdated": "2026-03-03"
     },
     {
       "from": "pattaya",
@@ -1250,7 +1255,12 @@
         "taxi": "3-4 hours",
         "car": "3-4 hours"
       },
-      "popular": false
+      "popular": false,
+      "no_direct_service": true,
+      "route_note": "No direct bus or minivan. Recommended: Chiang Khan → Loei (songthaew, 1h, 60-80 THB) → Nong Khai (bus, 4-5h, 150-200 THB) → Bueng Kan (minivan, 2.5-3h, 250 THB)",
+      "alternative_routes": [{"via": "Nong Khai", "legs": 3, "total_time": "8-10 hours", "total_cost": "460-530 THB"}, {"via": "car/taxi", "distance": "340 km", "time": "5 hours", "cost": "500-1300 THB"}],
+      "sources": ["Rome2Rio", "Travelfish"],
+      "lastUpdated": "2026-03-03"
     },
     {
       "from": "chiang-khan",

@@ -10,31 +10,40 @@
   "region": "southern",
   "spice_level": "none",
   "description": {
-    "en": "Shaved ice dessert with jelly made from banana flour",
-    "nl": "IJsdessert met gelei van bananenmeel"
+    "en": "Phuket's iconic Hokkien-Chinese shaved ice dessert made with o-aew seed jelly from the creeping fig plant (Ficus pumila)",
+    "nl": "Phuket's iconisch Hokkien-Chinees geschaafd ijs dessert gemaakt met o-aew zadgelei van de kruipende vijgplant (Ficus pumila)"
   },
   "ingredients": [
-    "banana flour jelly",
+    "o-aew seed jelly",
     "shaved ice",
-    "syrup",
-    "coconut milk"
+    "red beans",
+    "grass jelly",
+    "palm sugar syrup",
+    "food coloring"
   ],
   "allergens": [],
   "dietary": [
     "vegetarian"
   ],
   "image": "/images/food/oh-aew.webp",
-  "preparation_time": "15 minutes",
-  "difficulty": "easy",
+  "lastUpdated": "2026-03-03",
+  "sources": [
+    "Wikipedia - O-aew",
+    "Phuket Gastronomy",
+    "Mark Wiens / EatingThaiFood.com",
+    "Expique - Phuket Traditional Desserts"
+  ],
+  "preparation_time": "8+ hours (1 hour soaking + 7 hours setting + assembly)",
+  "difficulty": "medium",
   "price_range": "budget",
   "seo": {
     "metaTitle": {
-      "en": "Oh Aew Recipe | Authentic Thai dessert",
-      "nl": "Oh Aew Recept | Authentieke Thaise dessert"
+      "en": "Oh Aew (โอ้เอ๋ว): Phuket's Famous Shaved Ice Dessert — Where to Find It",
+      "nl": "Oh Aew (โอ้เอ๋ว): Phuket's Beroemde Geschaafd IJs Dessert — Waar te Vinden"
     },
     "metaDescription": {
-      "en": "Learn about Oh Aew (โอ้เอ๋ว) - Shaved ice dessert with jelly made from banana flour...",
-      "nl": "Leer over Oh Aew (โอ้เอ๋ว) - IJsdessert met gelei van bananenmeel..."
+      "en": "Oh Aew is a Hokkien-Chinese shaved ice dessert found only in Phuket Old Town. Made from creeping fig seeds, red beans, and grass jelly. From 15 THB at traditional stalls.",
+      "nl": "Oh Aew is een Hokkien-Chinees geschaafd ijs dessert dat alleen te vinden is in Phuket Old Town. Gemaakt van kruipende vijgzaden, rode bonen en grassgelei. Vanaf 15 THB bij traditionele kraampjes."
     }
   },
   "tags": [
@@ -42,15 +51,16 @@
     "thailand",
     "dessert",
     "southern",
-    "easy",
+    "phuket",
+    "hokkien-chinese",
     "budget",
-    "banana-flour jelly",
+    "o-aew-seed-jelly",
     "shaved-ice",
-    "syrup"
+    "peranakan"
   ],
   "cooking": {
-    "preparation_time": "15 minutes",
-    "difficulty": "easy",
+    "preparation_time": "8+ hours (1 hour soaking + 7 hours setting + assembly)",
+    "difficulty": "medium",
     "spice_level": "none",
     "serves": "2-4 people"
   },
@@ -61,123 +71,149 @@
     ],
     "price_range": "budget"
   },
-  "enhanced_description": "Oh Aew is Phuket's most beloved traditional dessert, a refreshing shaved ice treat that perfectly captures the essence of Southern Thai sweets. This colorful dessert features delicate jelly cubes made from banana flour (or sometimes rice flour), creating a unique chewy texture that contrasts beautifully with the fine shaved ice. The jellies are traditionally dyed in vibrant colors - red, green, and yellow - making it as visually appealing as it is delicious. Topped with sweet syrup and creamy coconut milk, Oh Aew offers a perfect balance of textures and a gentle sweetness that's never overwhelming. It's the ultimate cooling dessert for Phuket's tropical climate, often enjoyed at local markets or beachside stalls where the rhythmic sound of ice being shaved adds to the authentic experience.",
+  "enhanced_description": "Oh Aew (โอ้เอ๋ว) is Phuket's most iconic traditional dessert, a refreshing Hokkien-Chinese shaved ice treat found almost exclusively in Phuket Old Town. The signature jelly is made from o-aew seeds — the seeds of the creeping fig plant (Ficus pumila var. awkeotsang). The seeds are soaked for about an hour, then mixed with banana juice (which neutralizes the seeds' natural odor) and calcium sulphate, and left to set for approximately 7 hours into a firm, translucent jelly. This jelly is cut into cubes and served over shaved ice with red beans, grass jelly (chao kuai), and palm sugar syrup. The dessert is closely related to Taiwan's aiyu jelly (愛玉), as both are derived from the same plant family. Oh Aew has been served in Phuket since at least the late 1800s, when Hokkien Chinese settlers arrived during the tin mining boom. Traditional stalls in Phuket Old Town still serve it from as little as 15 THB, making it one of the most affordable and authentic desserts on the island.",
   "detailed_ingredients": [
     {
-      "name": "Banana Flour Jelly",
-      "purpose": "The signature component - creates chewy, translucent cubes with a subtle banana flavor",
+      "name": "O-Aew Seed Jelly",
+      "purpose": "The signature component — made from seeds of the creeping fig plant (Ficus pumila var. awkeotsang), soaked and set with calcium sulphate into a firm, translucent jelly",
       "substitutes": [
-        "Rice flour jelly",
-        "Tapioca starch jelly",
-        "Agar jelly (different texture)"
+        "Aiyu jelly (Taiwanese equivalent from same plant family)",
+        "Agar jelly (different texture, common outside Phuket)"
       ]
+    },
+    {
+      "name": "Banana Juice",
+      "purpose": "Mixed with the seeds during preparation to neutralize the natural odor of the o-aew seeds",
+      "substitutes": []
+    },
+    {
+      "name": "Red Beans",
+      "purpose": "Classic topping that adds texture and mild sweetness, reflecting Chinese dessert tradition",
+      "substitutes": [
+        "Black beans"
+      ]
+    },
+    {
+      "name": "Grass Jelly (Chao Kuai)",
+      "purpose": "Dark, slightly bitter jelly that balances the sweetness and adds color contrast",
+      "substitutes": []
     },
     {
       "name": "Shaved Ice",
       "purpose": "Provides the cooling element and fluffy texture",
       "substitutes": [
-        "Crushed ice (less fluffy)",
-        "Ice cream (modern variation)"
+        "Crushed ice (less fluffy)"
       ]
     },
     {
       "name": "Palm Sugar Syrup",
-      "purpose": "Adds caramel-like sweetness that complements the coconut",
+      "purpose": "Adds caramel-like sweetness; traditional Phuket stalls use locally made palm sugar",
       "substitutes": [
         "Simple syrup",
-        "Coconut sugar syrup",
-        "Honey (different flavor)"
-      ]
-    },
-    {
-      "name": "Coconut Milk",
-      "purpose": "Adds richness and creamy texture",
-      "substitutes": [
-        "Coconut cream (richer)",
-        "Evaporated milk (less traditional)",
-        "Condensed milk (sweeter)"
+        "Coconut sugar syrup"
       ]
     }
   ],
   "cooking_method": {
-    "technique": "Boiling and setting jelly, then assembling with shaved ice",
-    "steps_overview": "Making Oh Aew requires patience for the jelly-making process. The banana flour is mixed with water and food coloring, then slowly cooked while stirring constantly to prevent lumps. Once thickened, it's poured into trays and left to set. The magic happens during assembly - the jellies are cut into small cubes and layered with freshly shaved ice.",
+    "technique": "Seed soaking, jelly setting with calcium sulphate, then assembling with shaved ice",
+    "steps_overview": "Making Oh Aew is a time-intensive process. The o-aew seeds (from the creeping fig plant) are soaked in water for approximately 1 hour until they release a gel. The gel is then mixed with banana juice to neutralize the seeds' natural odor, and calcium sulphate is added as a setting agent. This mixture is left to set for approximately 7 hours until firm. The resulting translucent jelly is cut into cubes. To serve, the jelly cubes are placed in a bowl with shaved ice, red beans, grass jelly, and topped with palm sugar syrup.",
     "cooking_tips": [
-      "Stir the flour mixture constantly to prevent lumps",
-      "Use natural food coloring from pandan or butterfly pea flowers",
-      "Let jelly cool completely before cutting for clean edges",
+      "Soak seeds fully for at least 1 hour to release maximum gel",
+      "Banana juice is essential to remove the seeds' unpleasant odor",
+      "Calcium sulphate ratio must be precise — too much makes jelly rubbery",
+      "Allow full 7 hours for setting; rushing produces weak jelly",
       "Shave ice just before serving for best texture",
-      "Drizzle syrup evenly for consistent sweetness"
+      "Use natural food coloring from pandan or butterfly pea flowers for colored jelly variations"
     ]
   },
   "cultural_significance": {
-    "origin_story": "Oh Aew originated in Phuket over a century ago, brought by Hokkien Chinese immigrants who adapted their traditional desserts to local ingredients. The name 'Oh Aew' comes from the Hokkien dialect, reflecting Phuket's unique Peranakan heritage.",
-    "cultural_importance": "This dessert represents Phuket's multicultural identity, blending Chinese dessert-making techniques with Thai ingredients. It's a symbol of the island's Baba-Nyonya culture and remains a must-try for visitors wanting to taste authentic Phuket cuisine beyond the tourist areas.",
+    "origin_story": "Oh Aew was introduced to Phuket by Hokkien Chinese settlers who arrived during the tin mining era in the mid-1800s. The name derives from the Hokkien word 'ò-giô' (薁蕘), referring to the creeping fig plant whose seeds are used to make the jelly. The dessert is closely related to Taiwan's aiyu jelly (愛玉冰), as both use seeds from the Ficus pumila family. Over generations, Phuket's version developed its own identity with the addition of local toppings like red beans and grass jelly.",
+    "cultural_importance": "Oh Aew is a living symbol of Phuket's Peranakan (Baba-Nyonya) heritage — the unique culture born from Chinese settlers intermarrying with local Thai and Malay communities. The dessert is almost impossible to find outside Phuket, making it a true regional specialty. It reflects the Hokkien Chinese culinary traditions that shaped Phuket Old Town's food culture, alongside other Hokkien-origin dishes like Hokkien mee and mee hun.",
+    "etymology": "Hokkien: ò-giô (薁蕘) → Thai transliteration: โอ้เอ๋ว (Oh Aew). The word refers to the creeping fig plant (Ficus pumila var. awkeotsang) from which the jelly-making seeds come.",
     "traditional_occasions": [
-      "Vegetarian Festival treat",
-      "Summer afternoon refreshment",
-      "Local market specialty",
-      "School children's after-class snack"
+      "Phuket Vegetarian Festival (เทศกาลกินเจ) — served as a plant-based treat",
+      "Afternoon refreshment in Phuket's tropical heat",
+      "Phuket Old Town Sunday Walking Street market",
+      "School children's after-class snack near Dibuk Road"
     ]
   },
   "variations": [
     {
       "name": "Oh Aew Boran (Traditional)",
-      "description": "Made with only red and green jellies, using traditional banana flour"
-    },
-    {
-      "name": "Rainbow Oh Aew",
-      "description": "Modern version with multiple colored jellies for Instagram appeal"
+      "description": "The classic version with o-aew seed jelly, red beans, grass jelly, shaved ice, and palm sugar syrup. Found at traditional stalls like Oh Ew Paelee."
     },
     {
       "name": "Oh Aew Nam Kathi",
-      "description": "Extra rich version with coconut cream instead of milk"
+      "description": "Version with added coconut milk or coconut cream for extra richness, popular at some market stalls."
     },
     {
-      "name": "Oh Aew Bingsu",
-      "description": "Fusion style with Korean shaved ice techniques and toppings"
+      "name": "Oh Aew Modern/Creative",
+      "description": "Cafe-style versions with added toppings like taro, sweet potato, or fruit. Found at modern cafes like Cafe'in near Thai Hua Museum."
     }
   ],
   "serving_suggestions": {
     "traditional_accompaniments": [
-      "Red beans (additional topping)",
-      "Grass jelly",
-      "Sweet corn kernels",
-      "Jackfruit strips"
+      "Red beans (standard topping)",
+      "Grass jelly / chao kuai (standard topping)",
+      "Palm sugar syrup",
+      "Coconut milk (optional, in Nam Kathi variation)"
     ],
-    "presentation": "Served in a tall glass or bowl to show colorful layers, eaten with a spoon and straw",
-    "eating_etiquette": "Mix gently before eating to distribute syrup, best enjoyed immediately while ice is fluffy"
+    "presentation": "Served in a bowl or cup with shaved ice on top, jelly and beans visible through the ice",
+    "eating_etiquette": "Mix gently before eating to distribute syrup evenly, best enjoyed immediately while ice is still fluffy and hasn't melted"
   },
   "nutritional_info": {
-    "calories_per_serving": "150-200 calories",
+    "calories_per_serving": "100-180 calories (varies by toppings)",
     "health_benefits": [
-      "Low in fat",
-      "Provides quick energy from natural sugars",
-      "Coconut milk contains beneficial MCTs",
-      "Hydrating in hot weather"
+      "Low in fat (traditional version without coconut milk)",
+      "Hydrating in hot weather",
+      "O-aew seed jelly is high in dietary fiber"
     ],
     "dietary_notes": [
       "Naturally gluten-free",
-      "Vegan-friendly",
-      "Can reduce sugar for healthier version"
+      "Vegan-friendly (traditional version)",
+      "Suitable during Phuket Vegetarian Festival (เจ)"
     ]
   },
   "where_to_find": {
-    "best_restaurants": [
-      "Phuket Old Town markets",
-      "Lock Tien Food Court",
-      "Chillva Market",
-      "Weekend Walking Street"
+    "verified_vendors": [
+      {
+        "name": "Oh Ew Paelee (โอ้เอ๋ว แป๊ะหลี)",
+        "location": "Thanon Dibuk, Soi Soon Uthit, Phuket Old Town",
+        "price": "15 THB",
+        "hours": "13:00-18:00",
+        "notes": "One of the oldest and most famous Oh Aew stalls. Reviewed by Mark Wiens."
+      },
+      {
+        "name": "Cafe'in",
+        "location": "24 Krabi Road, near Thai Hua Museum, Phuket Old Town",
+        "price": "40-80 THB",
+        "hours": "",
+        "notes": "Modern cafe serving creative flavored Oh Aew variations alongside traditional style."
+      },
+      {
+        "name": "Lock Tien Food Court",
+        "location": "Dibuk Road intersection, Phuket Old Town",
+        "price": "15-30 THB",
+        "hours": "",
+        "notes": "Historic open-air food court with multiple dessert vendors including Oh Aew."
+      },
+      {
+        "name": "Cham Cha Market",
+        "location": "Ranong Road, Phuket Old Town",
+        "price": "15-25 THB",
+        "hours": "",
+        "notes": "Local market frequented by residents, traditional-style Oh Aew stalls."
+      }
     ],
-    "street_food_areas": [
-      "Ranong Road fresh market",
-      "Dowroong School area",
-      "Local neighborhood dessert carts"
+    "best_areas": [
+      "Phuket Old Town (Thalang Road, Dibuk Road, Krabi Road)",
+      "Sunday Walking Street Market (Thalang Road)",
+      "Lock Tien Food Court area"
     ],
     "price_ranges": {
-      "street_vendor": "20-30 THB",
-      "market_stall": "25-35 THB",
-      "restaurant": "40-60 THB"
+      "street_vendor": "10-20 THB",
+      "market_stall": "15-40 THB",
+      "modern_cafe": "40-80 THB"
     }
   }
 }
