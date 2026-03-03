@@ -1,0 +1,367 @@
+{
+  "slug": "vpn-thailand",
+  "title": {
+    "en": "VPN in Thailand: Do You Need One?",
+    "nl": "VPN in Thailand: Heb Je er Een Nodig?"
+  },
+  "icon": "🔒",
+  "lastUpdated": "2026-03-03",
+  "seo": {
+    "metaTitle": {
+      "en": "VPN in Thailand 2026: Is It Legal? Best VPNs, Censorship & Public WiFi Safety",
+      "nl": "VPN in Thailand 2026: Is het Legaal? Beste VPN's, Censuur & Openbaar WiFi Veiligheid"
+    },
+    "metaDescription": {
+      "en": "Complete guide to using a VPN in Thailand. Is it legal? Which sites are blocked? How to stay safe on public WiFi at cafés, airports, and hotels. Practical setup tips for travelers.",
+      "nl": "Complete gids voor VPN-gebruik in Thailand. Is het legaal? Welke sites zijn geblokkeerd? Hoe blijf je veilig op openbaar WiFi in cafés, luchthavens en hotels. Praktische setuptips voor reizigers."
+    },
+    "keywords": "VPN Thailand, is VPN legal Thailand, Thailand censorship, public WiFi Thailand, Thailand internet freedom, best VPN Thailand, Thailand blocked websites, Thailand online safety, digital nomad VPN Thailand, Thailand WiFi security"
+  },
+  "hero": {
+    "subtitle": {
+      "en": "Stay safe, unblock content, and protect your data",
+      "nl": "Blijf veilig, deblokkeer content en bescherm je gegevens"
+    },
+    "intro": {
+      "en": "Thailand has fast internet and widespread WiFi — but there are real reasons to use a VPN during your trip. From government website blocks and censored content to unsecured café WiFi networks where your banking credentials are at risk, a VPN is one of the smartest things you can set up before boarding your flight. This guide covers the legality, the actual blocked sites, the WiFi risks, and practical setup advice based on years of living and traveling in Thailand.",
+      "nl": "Thailand heeft snel internet en overal WiFi — maar er zijn goede redenen om een VPN te gebruiken tijdens je reis. Van overheidswebsiteblokkades en gecensureerde content tot onbeveiligde café-WiFi waar je bankgegevens gevaar lopen: een VPN is een van de slimste dingen die je kunt instellen vóór je aan boord stapt. Deze gids behandelt de legaliteit, de daadwerkelijk geblokkeerde sites, de WiFi-risico's en praktische installatie-adviezen gebaseerd op jarenlange ervaring met wonen en reizen in Thailand."
+    }
+  },
+  "sections": [
+    {
+      "type": "warning",
+      "level": "info",
+      "title": {
+        "en": "Good news: VPNs are 100% legal in Thailand",
+        "nl": "Goed nieuws: VPN's zijn 100% legaal in Thailand"
+      },
+      "content": {
+        "en": "Unlike China or Russia, using a VPN in Thailand is completely legal. There is no law against VPN use itself. The government blocks certain websites at the ISP level under the Computer Crime Act (2007, amended 2017), but accessing those sites via VPN is not prosecuted for regular users. That said, the activities you do online still need to be legal — a VPN doesn't make illegal activity legal. Lèse-majesté laws (insulting the monarchy) carry up to 15 years imprisonment and apply regardless of VPN use.",
+        "nl": "In tegenstelling tot China of Rusland is het gebruik van een VPN in Thailand volledig legaal. Er is geen wet tegen VPN-gebruik zelf. De overheid blokkeert bepaalde websites op ISP-niveau onder de Computer Crime Act (2007, gewijzigd 2017), maar toegang via VPN wordt niet vervolgd voor gewone gebruikers. Dat gezegd hebbende: je online activiteiten moeten nog steeds legaal zijn — een VPN maakt illegale activiteiten niet legaal. Majesteitsschennenwetten (belediging van de monarchie) kennen straffen tot 15 jaar gevangenis en gelden ongeacht VPN-gebruik."
+      }
+    },
+    {
+      "type": "text",
+      "title": {
+        "en": "What's Actually Blocked in Thailand?",
+        "nl": "Wat is Daadwerkelijk Geblokkeerd in Thailand?"
+      },
+      "content": {
+        "en": "Thailand's internet censorship is moderate compared to countries like China or Vietnam. The Ministry of Digital Economy and Society (MDES) maintains a blocklist enforced by ISPs like AIS, TrueMove, and 3BB. As of 2026, here's what's actually blocked:\n\n• Lèse-majesté content — Any website, social media post, or video deemed insulting to the Thai monarchy. This is the most aggressively enforced category.\n• Gambling sites — Most international online casinos and sports betting platforms are blocked. Thailand has strict anti-gambling laws.\n• Some pornographic websites — Major adult sites are blocked at the ISP level.\n• Political content — Certain opposition media outlets and politically sensitive websites may be periodically blocked, especially during political tensions.\n• Piracy sites — Some torrent and streaming piracy sites are blocked.\n\nNotably NOT blocked: All major social media (Facebook, Instagram, X/Twitter, TikTok, YouTube), all messaging apps (WhatsApp, Telegram, Signal, Line), news sites, and streaming services (Netflix, Disney+, etc.) work fine without a VPN.",
+        "nl": "De internetcensuur in Thailand is gematigd vergeleken met landen als China of Vietnam. Het Ministerie van Digitale Economie en Maatschappij (MDES) onderhoudt een blokkeerlijst die door ISP's zoals AIS, TrueMove en 3BB wordt gehandhaafd. Per 2026 is dit wat daadwerkelijk geblokkeerd is:\n\n• Majesteitsschenniscontent — Elke website, social media post of video die als beledigend voor de Thaise monarchie wordt beschouwd. Dit is de meest actief gehandhaafde categorie.\n• Goksites — De meeste internationale online casino's en sportwedplatformen zijn geblokkeerd. Thailand heeft strenge anti-gokwetten.\n• Sommige pornografische websites — Grote volwassen sites zijn geblokkeerd op ISP-niveau.\n• Politieke content — Bepaalde oppositiemedia en politiek gevoelige websites kunnen periodiek geblokkeerd worden, vooral tijdens politieke spanningen.\n• Piracy sites — Sommige torrent- en illegale streamingsites zijn geblokkeerd.\n\nBelangrijk NIET geblokkeerd: Alle grote sociale media (Facebook, Instagram, X/Twitter, TikTok, YouTube), alle messaging apps (WhatsApp, Telegram, Signal, Line), nieuwssites en streamingdiensten (Netflix, Disney+, etc.) werken prima zonder VPN."
+      }
+    },
+    {
+      "type": "cards",
+      "title": {
+        "en": "3 Real Reasons You Should Use a VPN in Thailand",
+        "nl": "3 Echte Redenen Waarom Je een VPN Moet Gebruiken in Thailand"
+      },
+      "items": [
+        {
+          "name": {
+            "en": "Public WiFi Security",
+            "nl": "Openbaar WiFi Beveiliging"
+          },
+          "description": {
+            "en": "This is the #1 reason. Thailand has free WiFi everywhere — airports (Suvarnabhumi, Don Mueang), cafés, 7-Eleven, malls, co-working spaces, and hotels. Most of these networks are unencrypted or use shared passwords. Without a VPN, anyone on the same network can potentially intercept your data: banking logins, emails, passwords, and personal messages. In tourist areas like Khao San Road, Nimman in Chiang Mai, or Walking Street in Pattaya, the risk of man-in-the-middle attacks is real. A VPN encrypts all your traffic, making it unreadable even on compromised networks.",
+            "nl": "Dit is de #1 reden. Thailand heeft overal gratis WiFi — luchthavens (Suvarnabhumi, Don Mueang), cafés, 7-Eleven, winkelcentra, co-workingspaces en hotels. De meeste van deze netwerken zijn onversleuteld of gebruiken gedeelde wachtwoorden. Zonder VPN kan iedereen op hetzelfde netwerk mogelijk je gegevens onderscheppen: banklogins, e-mails, wachtwoorden en persoonlijke berichten. In toeristische gebieden zoals Khao San Road, Nimman in Chiang Mai of Walking Street in Pattaya is het risico van man-in-the-middle-aanvallen reëel. Een VPN versleutelt al je verkeer, waardoor het onleesbaar is zelfs op gecompromitteerde netwerken."
+          },
+          "icon": "📶"
+        },
+        {
+          "name": {
+            "en": "Access Your Home Streaming & Banking",
+            "nl": "Toegang tot Je Thuis-streaming & Bankieren"
+          },
+          "description": {
+            "en": "While Netflix and Disney+ work in Thailand, you'll see the Thai content library — not your home library. Dutch users lose access to NPO Start, Videoland, and NL-specific Netflix content. US users miss Hulu, HBO Max (with US library), and Peacock. UK users lose BBC iPlayer and ITV Hub. Similarly, some European banks flag Thai IP addresses as suspicious and may temporarily lock your account. Connecting via a VPN server in your home country solves both problems: your streaming libraries stay the same, and your bank sees a familiar IP address.",
+            "nl": "Netflix en Disney+ werken in Thailand, maar je ziet de Thaise contentbibliotheek — niet je thuisbibliotheek. Nederlandse gebruikers verliezen toegang tot NPO Start, Videoland en NL-specifieke Netflix-content. Sommige Europese banken markeren Thaise IP-adressen als verdacht en kunnen je account tijdelijk blokkeren. Verbinding maken via een VPN-server in je thuisland lost beide problemen op: je streamingbibliotheken blijven hetzelfde, en je bank ziet een bekend IP-adres."
+          },
+          "icon": "🎬"
+        },
+        {
+          "name": {
+            "en": "Privacy from ISP Monitoring",
+            "nl": "Privacy tegen ISP-monitoring"
+          },
+          "description": {
+            "en": "Under the Computer Crime Act, Thai ISPs are required to log user activity and can be ordered to hand over data to authorities. While this rarely affects tourists, digital nomads and long-stay visitors who value privacy may prefer to keep their browsing encrypted. A VPN prevents your ISP (AIS, True, 3BB, TOT) from seeing which websites you visit and what data you transmit. This is especially relevant if you work with sensitive client data or handle confidential business information from Thailand.",
+            "nl": "Onder de Computer Crime Act zijn Thaise ISP's verplicht gebruikersactiviteit te loggen en kunnen ze worden bevolen gegevens aan de autoriteiten te overhandigen. Hoewel dit zelden toeristen treft, geven digitale nomaden en langverblijvers die privacy waarderen er mogelijk de voorkeur aan hun browsen versleuteld te houden. Een VPN voorkomt dat je ISP (AIS, True, 3BB, TOT) ziet welke websites je bezoekt en welke gegevens je verstuurt. Dit is vooral relevant als je werkt met gevoelige klantgegevens of vertrouwelijke bedrijfsinformatie vanuit Thailand."
+          },
+          "icon": "🛡️"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": {
+        "en": "Thailand WiFi Hotspot Security Overview",
+        "nl": "Thailand WiFi Hotspot Beveiligingsoverzicht"
+      },
+      "headers": [
+        { "en": "Location", "nl": "Locatie" },
+        { "en": "Encryption", "nl": "Versleuteling" },
+        { "en": "Risk Level", "nl": "Risiconiveau" },
+        { "en": "VPN Recommended?", "nl": "VPN Aanbevolen?" }
+      ],
+      "rows": [
+        [
+          { "en": "Suvarnabhumi Airport", "nl": "Suvarnabhumi Luchthaven" },
+          { "en": "Open (no password)", "nl": "Open (geen wachtwoord)" },
+          { "en": "High", "nl": "Hoog" },
+          { "en": "Strongly yes", "nl": "Sterk aanbevolen" }
+        ],
+        [
+          { "en": "Hotel WiFi", "nl": "Hotel WiFi" },
+          { "en": "Shared password", "nl": "Gedeeld wachtwoord" },
+          { "en": "Medium", "nl": "Gemiddeld" },
+          { "en": "Yes, for banking", "nl": "Ja, voor bankzaken" }
+        ],
+        [
+          { "en": "Café / Co-working", "nl": "Café / Co-working" },
+          { "en": "Shared password", "nl": "Gedeeld wachtwoord" },
+          { "en": "Medium-High", "nl": "Gemiddeld-Hoog" },
+          { "en": "Yes", "nl": "Ja" }
+        ],
+        [
+          { "en": "7-Eleven / Mall", "nl": "7-Eleven / Winkelcentrum" },
+          { "en": "Open or captive portal", "nl": "Open of captive portal" },
+          { "en": "High", "nl": "Hoog" },
+          { "en": "Strongly yes", "nl": "Sterk aanbevolen" }
+        ],
+        [
+          { "en": "Mobile data (AIS/True)", "nl": "Mobiel internet (AIS/True)" },
+          { "en": "Carrier encrypted", "nl": "Provider versleuteld" },
+          { "en": "Low", "nl": "Laag" },
+          { "en": "Optional", "nl": "Optioneel" }
+        ],
+        [
+          { "en": "Hostel / Guesthouse", "nl": "Hostel / Guesthouse" },
+          { "en": "Open or shared", "nl": "Open of gedeeld" },
+          { "en": "High", "nl": "Hoog" },
+          { "en": "Strongly yes", "nl": "Sterk aanbevolen" }
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "en": "Setting Up Your VPN Before You Fly",
+        "nl": "Je VPN Instellen Vóór Je Vliegt"
+      },
+      "content": {
+        "en": "The most important advice: install and test your VPN before you leave home. Here's why — some VPN provider websites can be slow to load in Thailand, and you don't want to be fumbling with setup in a crowded Suvarnabhumi arrivals hall.\n\n1. Choose a VPN provider and create your account at home.\n2. Download the app on all your devices — phone, laptop, tablet.\n3. Connect to a server in your home country and verify it works.\n4. Test that your streaming services (Netflix, banking apps) work through the VPN.\n5. Enable the kill switch feature — this cuts your internet if the VPN drops, preventing accidental unprotected browsing.\n6. Set the VPN to auto-connect on untrusted WiFi networks.\n\nMost VPN apps allow 5-8 simultaneous devices on one subscription, so you can protect your phone and laptop with a single account. If you're traveling with a partner, many providers allow sharing.",
+        "nl": "Het belangrijkste advies: installeer en test je VPN voordat je van huis vertrekt. Dit is waarom — sommige VPN-providerwebsites laden traag in Thailand, en je wilt niet zitten prutsen met de installatie in een drukke aankomsthal van Suvarnabhumi.\n\n1. Kies een VPN-provider en maak je account thuis aan.\n2. Download de app op al je apparaten — telefoon, laptop, tablet.\n3. Maak verbinding met een server in je thuisland en controleer of het werkt.\n4. Test of je streamingdiensten (Netflix, bank-apps) werken via de VPN.\n5. Schakel de kill switch-functie in — deze verbreekt je internet als de VPN wegvalt, waardoor onbeschermd browsen wordt voorkomen.\n6. Stel de VPN in op automatisch verbinden bij onvertrouwde WiFi-netwerken.\n\nDe meeste VPN-apps staan 5-8 gelijktijdige apparaten toe op één abonnement, dus je kunt je telefoon en laptop beschermen met één account. Als je met een partner reist, staan veel providers delen toe."
+      }
+    },
+    {
+      "type": "tips",
+      "title": {
+        "en": "Pro Tips for VPN Use in Thailand",
+        "nl": "Pro Tips voor VPN-gebruik in Thailand"
+      },
+      "items": [
+        {
+          "title": {
+            "en": "Use a nearby server for speed",
+            "nl": "Gebruik een nabije server voor snelheid"
+          },
+          "detail": {
+            "en": "For general browsing and WiFi security, connect to a VPN server in Singapore, Hong Kong, or Japan — they're close to Thailand and give you 80-95% of your normal speed. Only connect to your home country server when you need to access geo-locked content (Dutch Netflix, home banking). A Singapore server typically adds only 5-15ms latency vs 150-200ms for a European server.",
+            "nl": "Voor algemeen browsen en WiFi-beveiliging, verbind met een VPN-server in Singapore, Hong Kong of Japan — ze zijn dicht bij Thailand en geven je 80-95% van je normale snelheid. Verbind alleen met je thuislandserver als je geo-geblokkeerde content nodig hebt (Nederlandse Netflix, thuisbankieren). Een Singapore-server voegt meestal slechts 5-15ms latentie toe vs 150-200ms voor een Europese server."
+          }
+        },
+        {
+          "title": {
+            "en": "Mobile data is already quite safe",
+            "nl": "Mobiel internet is al vrij veilig"
+          },
+          "detail": {
+            "en": "If you're on AIS or TrueMove mobile data (from your Thai SIM or eSIM), you're already on an encrypted carrier connection. The VPN is less critical here than on WiFi. Save your battery and skip the VPN when on 4G/5G mobile data, unless you specifically need to bypass geo-restrictions or want ISP privacy.",
+            "nl": "Als je op AIS of TrueMove mobiel internet zit (van je Thaise SIM of eSIM), zit je al op een versleutelde providerverbinding. De VPN is hier minder kritisch dan op WiFi. Bespaar je batterij en sla de VPN over op 4G/5G mobiel internet, tenzij je specifiek geo-restricties moet omzeilen of ISP-privacy wilt."
+          }
+        },
+        {
+          "title": {
+            "en": "Avoid free VPNs",
+            "nl": "Vermijd gratis VPN's"
+          },
+          "detail": {
+            "en": "Free VPNs often log and sell your data — the exact thing you're trying to prevent. They also have slow speeds, limited servers, and data caps that make them impractical for streaming or video calls. A paid VPN costs $3-8/month on yearly plans. For a trip to Thailand, that's roughly the price of one pad thai. Worth it.",
+            "nl": "Gratis VPN's loggen en verkopen vaak je gegevens — precies wat je probeert te voorkomen. Ze hebben ook trage snelheden, beperkte servers en datalimieten die ze onpraktisch maken voor streaming of videobellen. Een betaalde VPN kost $3-8/maand op jaarplannen. Voor een reis naar Thailand is dat ongeveer de prijs van één pad thai. Het is het waard."
+          }
+        },
+        {
+          "title": {
+            "en": "VPN protocols: WireGuard is king",
+            "nl": "VPN-protocollen: WireGuard is koning"
+          },
+          "detail": {
+            "en": "Modern VPN apps default to WireGuard or similar lightweight protocols (NordLynx, Lightway). These are faster and more battery-friendly than older OpenVPN. In Thailand, WireGuard works perfectly and isn't blocked — unlike in China. Stick with whatever your VPN app recommends; there's no need to manually configure protocols.",
+            "nl": "Moderne VPN-apps gebruiken standaard WireGuard of vergelijkbare lichtgewicht protocollen (NordLynx, Lightway). Deze zijn sneller en batterijvriendelijker dan oudere OpenVPN. In Thailand werkt WireGuard perfect en wordt het niet geblokkeerd — in tegenstelling tot in China. Blijf bij wat je VPN-app aanbeveelt; er is geen reden om handmatig protocollen te configureren."
+          }
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "level": "caution",
+      "title": {
+        "en": "Lèse-majesté: A VPN Won't Protect You",
+        "nl": "Majesteitsschennis: Een VPN Beschermt Je Niet"
+      },
+      "content": {
+        "en": "Thailand's lèse-majesté law (Section 112 of the Criminal Code) makes it illegal to defame, insult, or threaten the King, Queen, Heir, or Regent. Penalties are 3-15 years imprisonment per offense. This law is actively enforced — both online and offline. A VPN hides your traffic from your ISP, but it does NOT make you anonymous. Thai authorities have cooperated with international agencies to identify offenders. Don't share, like, or comment on content critical of the Thai monarchy, even with a VPN. This isn't a free speech issue — it's Thai law that applies to everyone on Thai soil, including tourists.",
+        "nl": "De Thaise majesteitsschenniswet (Artikel 112 van het Wetboek van Strafrecht) maakt het illegaal om de Koning, Koningin, Troonopvolger of Regent te belasteren, beledigen of bedreigen. Straffen zijn 3-15 jaar gevangenis per overtreding. Deze wet wordt actief gehandhaafd — zowel online als offline. Een VPN verbergt je verkeer voor je ISP, maar maakt je NIET anoniem. Thaise autoriteiten hebben samengewerkt met internationale instanties om overtreders te identificeren. Deel, like of reageer niet op content die kritisch is over de Thaise monarchie, zelfs niet met een VPN. Dit is geen kwestie van vrijheid van meningsuiting — het is Thaise wet die geldt voor iedereen op Thaise bodem, inclusief toeristen."
+      }
+    },
+    {
+      "type": "text",
+      "title": {
+        "en": "Digital Nomads: VPN for Remote Work",
+        "nl": "Digitale Nomaden: VPN voor Thuiswerken"
+      },
+      "content": {
+        "en": "If you're working remotely from Thailand — whether on a DTV visa, tourist visa, or any other arrangement — a VPN is practically essential for professional use:\n\n• Client confidentiality: If you handle sensitive data (legal, financial, medical, tech), encrypting your connection is a basic security requirement. Many company security policies require VPN use on public networks.\n• Corporate network access: Many companies require a corporate VPN to access internal tools. Your personal VPN and corporate VPN can usually coexist — use split tunneling to route work traffic through your corporate VPN and personal traffic through your personal VPN.\n• Video calls: A nearby VPN server (Singapore, Japan) has minimal impact on Zoom, Google Meet, and Teams call quality. A European server adds noticeable latency.\n• Co-working spaces: Popular spots like Punspace, CAMP, and Heartwork in Chiang Mai, or The Hive and Hubba in Bangkok, all use shared WiFi. Always use a VPN.\n\nMany digital nomads in Thailand run their VPN 24/7 on their laptop and toggle it on/off on their phone depending on whether they're on WiFi or mobile data.",
+        "nl": "Als je op afstand werkt vanuit Thailand — of je nu een DTV-visum, toeristenvisum of een andere regeling hebt — is een VPN praktisch essentieel voor professioneel gebruik:\n\n• Klantvertrouwelijkheid: Als je gevoelige gegevens verwerkt (juridisch, financieel, medisch, tech), is het versleutelen van je verbinding een basale beveiligingsvereiste. Veel bedrijfsbeveiligingsbeleid vereist VPN-gebruik op openbare netwerken.\n• Bedrijfsnetwerktoegang: Veel bedrijven vereisen een bedrijfs-VPN voor toegang tot interne tools. Je persoonlijke VPN en bedrijfs-VPN kunnen meestal naast elkaar bestaan — gebruik split tunneling om werkverkeer via je bedrijfs-VPN te routeren en persoonlijk verkeer via je persoonlijke VPN.\n• Videogesprekken: Een nabije VPN-server (Singapore, Japan) heeft minimale impact op Zoom-, Google Meet- en Teams-gesprekskwaliteit. Een Europese server voegt merkbare latentie toe.\n• Co-workingspaces: Populaire plekken zoals Punspace, CAMP en Heartwork in Chiang Mai, of The Hive en Hubba in Bangkok, gebruiken allemaal gedeeld WiFi. Gebruik altijd een VPN.\n\nVeel digitale nomaden in Thailand laten hun VPN 24/7 draaien op hun laptop en schakelen het aan/uit op hun telefoon afhankelijk van of ze op WiFi of mobiel internet zitten."
+      }
+    },
+    {
+      "type": "table",
+      "title": {
+        "en": "Thailand vs Other Countries: Internet Freedom Comparison",
+        "nl": "Thailand vs Andere Landen: Internetvrijheid Vergelijking"
+      },
+      "headers": [
+        { "en": "Country", "nl": "Land" },
+        { "en": "VPN Legal?", "nl": "VPN Legaal?" },
+        { "en": "Sites Blocked", "nl": "Sites Geblokkeerd" },
+        { "en": "Social Media", "nl": "Sociale Media" },
+        { "en": "VPN Urgency", "nl": "VPN Urgentie" }
+      ],
+      "rows": [
+        [
+          { "en": "Thailand", "nl": "Thailand" },
+          { "en": "Yes", "nl": "Ja" },
+          { "en": "Some (gambling, monarchy)", "nl": "Sommige (gokken, monarchie)" },
+          { "en": "All available", "nl": "Alles beschikbaar" },
+          { "en": "Recommended", "nl": "Aanbevolen" }
+        ],
+        [
+          { "en": "China", "nl": "China" },
+          { "en": "Grey area", "nl": "Grijs gebied" },
+          { "en": "Heavy (Google, Facebook, WhatsApp)", "nl": "Zwaar (Google, Facebook, WhatsApp)" },
+          { "en": "Mostly blocked", "nl": "Grotendeels geblokkeerd" },
+          { "en": "Essential", "nl": "Essentieel" }
+        ],
+        [
+          { "en": "Vietnam", "nl": "Vietnam" },
+          { "en": "Yes", "nl": "Ja" },
+          { "en": "Some (political sites)", "nl": "Sommige (politieke sites)" },
+          { "en": "All available", "nl": "Alles beschikbaar" },
+          { "en": "Recommended", "nl": "Aanbevolen" }
+        ],
+        [
+          { "en": "Indonesia / Bali", "nl": "Indonesië / Bali" },
+          { "en": "Yes", "nl": "Ja" },
+          { "en": "Some (adult, gambling, Reddit)", "nl": "Sommige (volwassen, gokken, Reddit)" },
+          { "en": "All available", "nl": "Alles beschikbaar" },
+          { "en": "Recommended", "nl": "Aanbevolen" }
+        ],
+        [
+          { "en": "Japan", "nl": "Japan" },
+          { "en": "Yes", "nl": "Ja" },
+          { "en": "Minimal", "nl": "Minimaal" },
+          { "en": "All available", "nl": "Alles beschikbaar" },
+          { "en": "For WiFi safety only", "nl": "Alleen voor WiFi-veiligheid" }
+        ]
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": {
+        "en": "Is using a VPN illegal in Thailand?",
+        "nl": "Is het gebruik van een VPN illegaal in Thailand?"
+      },
+      "answer": {
+        "en": "No. VPN use is completely legal in Thailand. There is no law prohibiting VPN software or services. However, any illegal activity conducted through a VPN (such as lèse-majesté content, online gambling, or fraud) remains illegal regardless of VPN use.",
+        "nl": "Nee. VPN-gebruik is volledig legaal in Thailand. Er is geen wet die VPN-software of -diensten verbiedt. Echter, elke illegale activiteit via een VPN (zoals majesteitsschennis, online gokken of fraude) blijft illegaal ongeacht VPN-gebruik."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I access WhatsApp, Instagram, and YouTube without a VPN in Thailand?",
+        "nl": "Kan ik WhatsApp, Instagram en YouTube gebruiken zonder VPN in Thailand?"
+      },
+      "answer": {
+        "en": "Yes. All major social media platforms and messaging apps work perfectly in Thailand without a VPN. Thailand does not block Facebook, Instagram, WhatsApp, Telegram, Line, YouTube, TikTok, or X/Twitter. A VPN is primarily useful for WiFi security, accessing home streaming libraries, and online banking.",
+        "nl": "Ja. Alle grote social media platforms en messaging apps werken perfect in Thailand zonder VPN. Thailand blokkeert geen Facebook, Instagram, WhatsApp, Telegram, Line, YouTube, TikTok of X/Twitter. Een VPN is vooral nuttig voor WiFi-beveiliging, toegang tot thuisstreaming-bibliotheken en online bankieren."
+      }
+    },
+    {
+      "question": {
+        "en": "Will a VPN slow down my internet in Thailand?",
+        "nl": "Maakt een VPN mijn internet trager in Thailand?"
+      },
+      "answer": {
+        "en": "It depends on the server location. Connecting to a nearby server (Singapore, Hong Kong, Japan) typically reduces speed by only 5-15%, which is barely noticeable. Connecting to Europe or the US reduces speed by 30-50% due to the physical distance. For daily browsing and WiFi security, use a nearby Asian server. Only switch to your home country server when you need geo-locked content.",
+        "nl": "Het hangt af van de serverlocatie. Verbinding maken met een nabije server (Singapore, Hong Kong, Japan) vermindert de snelheid meestal met slechts 5-15%, wat nauwelijks merkbaar is. Verbinding met Europa of de VS vermindert de snelheid met 30-50% vanwege de fysieke afstand. Voor dagelijks browsen en WiFi-beveiliging, gebruik een nabije Aziatische server. Schakel alleen over naar je thuislandserver als je geo-geblokkeerde content nodig hebt."
+      }
+    },
+    {
+      "question": {
+        "en": "Do I need a VPN if I only use mobile data in Thailand?",
+        "nl": "Heb ik een VPN nodig als ik alleen mobiel internet gebruik in Thailand?"
+      },
+      "answer": {
+        "en": "Mobile data from AIS, TrueMove, or dtac is already encrypted at the carrier level, so the WiFi security risk doesn't apply. You'd only need a VPN on mobile data if you want to: access your home Netflix library, prevent ISP logging, or access your home banking. For most tourists using just mobile data, a VPN is optional but nice to have.",
+        "nl": "Mobiel internet van AIS, TrueMove of dtac is al versleuteld op providerniveau, dus het WiFi-beveiligingsrisico is niet van toepassing. Je hebt alleen een VPN nodig op mobiel internet als je: je thuis Netflix-bibliotheek wilt bekijken, ISP-logging wilt voorkomen, of je thuisbankieren wilt gebruiken. Voor de meeste toeristen die alleen mobiel internet gebruiken, is een VPN optioneel maar wel handig."
+      }
+    },
+    {
+      "question": {
+        "en": "Should I set up my VPN before traveling to Thailand?",
+        "nl": "Moet ik mijn VPN instellen voordat ik naar Thailand reis?"
+      },
+      "answer": {
+        "en": "Yes, always. Install the VPN app, create your account, and test the connection before you leave home. Some VPN websites load slowly in Thailand, and you don't want to be downloading apps on unreliable airport WiFi. Having it ready means you're protected from the moment you connect to WiFi at Suvarnabhumi or Don Mueang airport.",
+        "nl": "Ja, altijd. Installeer de VPN-app, maak je account aan en test de verbinding voordat je van huis vertrekt. Sommige VPN-websites laden traag in Thailand, en je wilt niet apps downloaden op onbetrouwbaar luchthaven-WiFi. Het klaar hebben betekent dat je beschermd bent vanaf het moment dat je verbinding maakt met WiFi op Suvarnabhumi of Don Mueang luchthaven."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I use a VPN to watch Dutch Netflix in Thailand?",
+        "nl": "Kan ik een VPN gebruiken om Nederlandse Netflix te kijken in Thailand?"
+      },
+      "answer": {
+        "en": "Yes. Connect to a VPN server in the Netherlands, and Netflix will show you the Dutch content library including NPO content, Videoland originals available on Netflix, and NL-specific titles. The same works for other countries — connect to a UK server for BBC iPlayer, a US server for Hulu, etc. Note that streaming in HD requires a stable connection, so choose a VPN known for fast servers.",
+        "nl": "Ja. Verbind met een VPN-server in Nederland, en Netflix toont je de Nederlandse contentbibliotheek inclusief NPO-content, Videoland-originals beschikbaar op Netflix en NL-specifieke titels. Hetzelfde werkt voor andere landen — verbind met een UK-server voor BBC iPlayer, een US-server voor Hulu, etc. Let op dat streaming in HD een stabiele verbinding vereist, dus kies een VPN die bekend staat om snelle servers."
+      }
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/travel-guides/sim-card-thailand/",
+      "label": {
+        "en": "SIM Card & eSIM Guide",
+        "nl": "SIM Kaart & eSIM Gids"
+      }
+    },
+    {
+      "href": "/travel-guides/first-time-thailand/",
+      "label": {
+        "en": "First Time in Thailand",
+        "nl": "Eerste Keer Thailand"
+      }
+    },
+    {
+      "href": "/digital-nomad/",
+      "label": {
+        "en": "Digital Nomad Guide",
+        "nl": "Digitale Nomaden Gids"
+      }
+    }
+  ]
+}

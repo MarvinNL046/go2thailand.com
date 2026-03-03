@@ -24,6 +24,13 @@
     "static": true
   },
   {
+    "slug": "vpn-thailand",
+    "title": { "en": "VPN in Thailand: Do You Need One?", "nl": "VPN in Thailand: Heb Je er Een Nodig?" },
+    "description": { "en": "Is VPN legal? Which sites are blocked? Public WiFi security risks, streaming access, and setup tips for travelers and digital nomads", "nl": "Is VPN legaal? Welke sites zijn geblokkeerd? Openbaar WiFi-risico's, streaming-toegang en setuptips voor reizigers en nomaden" },
+    "icon": "🔒",
+    "category": "connectivity"
+  },
+  {
     "slug": "expat-long-stay-thailand",
     "title": { "en": "Expat & Long-Stay Guide", "nl": "Expat & Langverblijf Gids" },
     "description": { "en": "Visa types, banking, taxes, health insurance, driving license, and cost of living for long-term stays", "nl": "Visum types, bankzaken, belastingen, zorgverzekering, rijbewijs en kosten van levensonderhoud" },
