@@ -175,45 +175,21 @@
     ]
   },
   "where_to_find": {
-    "verified_vendors": [
-      {
-        "name": "Oh Ew Paelee (โอ้เอ๋ว แป๊ะหลี)",
-        "location": "Thanon Dibuk, Soi Soon Uthit, Phuket Old Town",
-        "price": "15 THB",
-        "hours": "13:00-18:00",
-        "notes": "One of the oldest and most famous Oh Aew stalls. Reviewed by Mark Wiens."
-      },
-      {
-        "name": "Cafe'in",
-        "location": "24 Krabi Road, near Thai Hua Museum, Phuket Old Town",
-        "price": "40-80 THB",
-        "hours": "",
-        "notes": "Modern cafe serving creative flavored Oh Aew variations alongside traditional style."
-      },
-      {
-        "name": "Lock Tien Food Court",
-        "location": "Dibuk Road intersection, Phuket Old Town",
-        "price": "15-30 THB",
-        "hours": "",
-        "notes": "Historic open-air food court with multiple dessert vendors including Oh Aew."
-      },
-      {
-        "name": "Cham Cha Market",
-        "location": "Ranong Road, Phuket Old Town",
-        "price": "15-25 THB",
-        "hours": "",
-        "notes": "Local market frequented by residents, traditional-style Oh Aew stalls."
-      }
+    "best_restaurants": [
+      "Oh Ew Paelee (โอ้เอ๋ว แป๊ะหลี) — Thanon Dibuk, Soi Soon Uthit, Phuket Old Town (15 THB)",
+      "Cafe'in — 24 Krabi Road, near Thai Hua Museum, Phuket Old Town (40-80 THB)",
+      "Lock Tien Food Court — Dibuk Road intersection, Phuket Old Town (15-30 THB)",
+      "Cham Cha Market — Ranong Road, Phuket Old Town (15-25 THB)"
     ],
-    "best_areas": [
+    "street_food_areas": [
       "Phuket Old Town (Thalang Road, Dibuk Road, Krabi Road)",
       "Sunday Walking Street Market (Thalang Road)",
       "Lock Tien Food Court area"
     ],
     "price_ranges": {
-      "street_vendor": "10-20 THB",
-      "market_stall": "15-40 THB",
-      "modern_cafe": "40-80 THB"
+      "street_food": "10-20 THB",
+      "restaurant": "15-40 THB",
+      "upscale": "40-80 THB"
     }
   }
 }
