@@ -5,6 +5,8 @@ import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import fs from 'fs';
 import path from 'path';
+import AffiliateBox from '../../../components/AffiliateBox';
+import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface City {
   id: number;
@@ -48,9 +50,10 @@ interface Top10AttractionsData {
 interface Top10AttractionsPageProps {
   city: City;
   attractionsData: Top10AttractionsData | null;
+  affiliates: CityAffiliates | null;
 }
 
-export default function Top10AttractionsPage({ city, attractionsData }: Top10AttractionsPageProps) {
+export default function Top10AttractionsPage({ city, attractionsData, affiliates }: Top10AttractionsPageProps) {
   if (!city) return <div>City not found</div>;
 
   const breadcrumbs = [
@@ -247,6 +250,9 @@ export default function Top10AttractionsPage({ city, attractionsData }: Top10Att
               {/* Main Content */}
               <main className="lg:col-span-9">
                 <div className="space-y-8">
+                  {affiliates && (
+                    <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="tours" />
+                  )}
                   {attractionsData.items.map((attraction, index) => (
                     <div key={attraction.rank}>
                       {/* Attraction Item */}
@@ -426,10 +432,13 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     // No top 10 attractions data found for this city
   }
 
-  return { 
-    props: { 
+  const affiliates = getAffiliates(params.slug as string);
+
+  return {
+    props: {
       city,
-      attractionsData 
+      attractionsData,
+      affiliates,
     },
     revalidate: 86400 // Revalidate daily
   };
