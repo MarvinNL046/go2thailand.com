@@ -7,6 +7,8 @@ import SEOHead from '../../../components/SEOHead';
 import hotelAreasData from '../../../data/cities/hotel-areas.json';
 import fs from 'fs';
 import path from 'path';
+import AffiliateBox from '../../../components/AffiliateBox';
+import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface City {
   id: number;
@@ -46,6 +48,7 @@ interface CityHotelsPageProps {
   hotelData: CityHotelData | null;
   hasTop10Hotels: boolean;
   enhancedHotels: EnhancedHotel[];
+  affiliates: CityAffiliates | null;
 }
 
 function flattenBilingual(data: any): any {
@@ -75,7 +78,7 @@ const categoryColors: Record<string, string> = {
   luxury: 'bg-purple-100 text-purple-800',
 };
 
-export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhancedHotels }: CityHotelsPageProps) {
+export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhancedHotels, affiliates }: CityHotelsPageProps) {
   if (!city) return <div>City not found</div>;
 
   // Flatten any bilingual objects in enhanced hotels
@@ -155,6 +158,10 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                   <p className="text-gray-600 mb-6">Compare prices and find the best deals on Trip.com</p>
                   <TripcomWidget city={city.name.en} type="hotels" />
                 </div>
+
+                {affiliates && (
+                  <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="hotels" />
+                )}
 
                 {/* Best Areas to Stay */}
                 <div>
@@ -428,5 +435,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const top10HotelsPath = path.join(process.cwd(), 'data', 'top10', `${slug}-hotels.json`);
   const hasTop10Hotels = fs.existsSync(top10HotelsPath);
 
-  return { props: { city, hotelData, hasTop10Hotels, enhancedHotels }, revalidate: 86400 };
+  const affiliates = getAffiliates(params.slug as string);
+
+  return { props: { city, hotelData, hasTop10Hotels, enhancedHotels, affiliates }, revalidate: 86400 };
 };
