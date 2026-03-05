@@ -6,6 +6,8 @@ import { getElephantSanctuariesByCity, getAllElephantSanctuaryCities } from '../
 import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
+import AffiliateBox from '../../../components/AffiliateBox';
+import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface Sanctuary {
   name: string;
@@ -42,6 +44,7 @@ interface City {
 interface Props {
   city: City;
   sanctuaryData: CityData;
+  affiliates: CityAffiliates | null;
 }
 
 const GYG_AFFILIATE = 'https://getyourguide.tpo.lv/6HngJ5FC';
@@ -66,7 +69,7 @@ function StarRating({ rating }: { rating: number }) {
   );
 }
 
-export default function ElephantSanctuariesPage({ city, sanctuaryData }: Props) {
+export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliates }: Props) {
   const { locale } = useRouter();
   const loc = locale || 'en';
   if (!city || !sanctuaryData) return <div>Not found</div>;
@@ -171,6 +174,10 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData }: Props) 
               </h2>
               <p className="text-gray-700 leading-relaxed">{sanctuaryData.intro.en}</p>
             </div>
+
+            {affiliates && (
+              <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="activities" />
+            )}
 
             {/* Sanctuary List */}
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">
@@ -358,5 +365,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const sanctuaryData = getElephantSanctuariesByCity(slug);
   if (!sanctuaryData) return { notFound: true };
 
-  return { props: { city, sanctuaryData }, revalidate: 86400 };
+  const affiliates = getAffiliates(params.slug as string);
+
+  return { props: { city, sanctuaryData, affiliates }, revalidate: 86400 };
 };

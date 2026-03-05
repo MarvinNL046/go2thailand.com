@@ -6,6 +6,8 @@ import { getDivingSnorkelingByCity, getAllDivingSnorkelingCities } from '../../.
 import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
+import AffiliateBox from '../../../components/AffiliateBox';
+import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface Activity {
   name: string;
@@ -43,6 +45,7 @@ interface City {
 interface Props {
   city: City;
   divingData: CityData;
+  affiliates: CityAffiliates | null;
 }
 
 const GYG_AFFILIATE = 'https://getyourguide.tpo.lv/6HngJ5FC';
@@ -70,7 +73,7 @@ function TypeBadge({ type }: { type: string }) {
   return <span className={`text-xs font-semibold px-2 py-1 rounded ${color}`}>{label}</span>;
 }
 
-export default function DivingSnorkelingPage({ city, divingData }: Props) {
+export default function DivingSnorkelingPage({ city, divingData, affiliates }: Props) {
   const { locale } = useRouter();
   const loc = locale || 'en';
   if (!city || !divingData) return <div>Not found</div>;
@@ -246,6 +249,10 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
               <p className="text-gray-700 leading-relaxed">{divingData.intro.en}</p>
             </div>
 
+            {affiliates && (
+              <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="activities" />
+            )}
+
             {/* Activities by type */}
             {divingActivities.length > 0 && snorkelingActivities.length > 0 ? (
               <>
@@ -366,5 +373,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const divingData = getDivingSnorkelingByCity(slug);
   if (!divingData) return { notFound: true };
 
-  return { props: { city, divingData }, revalidate: 86400 };
+  const affiliates = getAffiliates(params.slug as string);
+
+  return { props: { city, divingData, affiliates }, revalidate: 86400 };
 };

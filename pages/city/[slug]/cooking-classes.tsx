@@ -6,6 +6,8 @@ import { getCookingClassesByCity, getAllCookingClassCities } from '../../../lib/
 import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
+import AffiliateBox from '../../../components/AffiliateBox';
+import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface CookingClass {
   name: string;
@@ -42,6 +44,7 @@ interface City {
 interface Props {
   city: City;
   cookingData: CityData;
+  affiliates: CityAffiliates | null;
 }
 
 const GYG_AFFILIATE = 'https://getyourguide.tpo.lv/6HngJ5FC';
@@ -66,7 +69,7 @@ function StarRating({ rating }: { rating: number }) {
   );
 }
 
-export default function CookingClassesPage({ city, cookingData }: Props) {
+export default function CookingClassesPage({ city, cookingData, affiliates }: Props) {
   const { locale } = useRouter();
   const loc = locale || 'en';
   if (!city || !cookingData) return <div>Not found</div>;
@@ -215,6 +218,10 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
               </h2>
               <p className="text-gray-700 leading-relaxed">{cookingData.intro.en}</p>
             </div>
+
+            {affiliates && (
+              <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="activities" />
+            )}
 
             {/* Cooking Classes List */}
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">
@@ -401,5 +408,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const cookingData = getCookingClassesByCity(slug);
   if (!cookingData) return { notFound: true };
 
-  return { props: { city, cookingData }, revalidate: 86400 };
+  const affiliates = getAffiliates(params.slug as string);
+
+  return { props: { city, cookingData, affiliates }, revalidate: 86400 };
 };
