@@ -588,6 +588,30 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
       </section>
 
       {/* ============================================
+          TRAVEL GUIDES
+          ============================================ */}
+      {/* Travel Guides */}
+      <section className="section-padding bg-white">
+        <div className="container-custom">
+          <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">Thailand Travel Guides</h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {([
+              { href: '/thailand-travel-guide/', label: 'Thailand Travel Guide 2026' },
+              { href: '/best-places-to-visit-thailand/', label: 'Best Places to Visit' },
+              { href: '/thailand-itinerary/', label: 'Thailand Itineraries' },
+              { href: '/is-thailand-safe/', label: 'Is Thailand Safe?' },
+              { href: '/thailand-for-first-timers/', label: 'First Timer Guide' },
+              { href: '/thailand-index/', label: 'Thailand Index 2026' },
+            ] as const).map(({ href, label }) => (
+              <Link key={href} href={href} className="bg-surface-cream rounded-xl p-5 font-semibold text-thailand-blue hover:shadow-md transition-shadow block">
+                {label} →
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ============================================
           PLAN YOUR TRIP — Affiliate cards
           ============================================ */}
       <section className="section-padding bg-surface-cream" ref={planAnim.ref}>
