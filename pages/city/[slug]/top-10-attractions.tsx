@@ -359,7 +359,7 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
                       <a
                         href="https://klook.tpo.lv/aq6ZFxvc"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="noopener noreferrer sponsored"
                         className="inline-block bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors"
                       >
                         Book on Klook
@@ -367,7 +367,7 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
                       <a
                         href="https://getyourguide.tpo.lv/GuAFfGGK"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="noopener noreferrer sponsored"
                         className="inline-block bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors"
                       >
                         Book on GetYourGuide

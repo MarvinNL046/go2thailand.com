@@ -243,7 +243,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                                 key={idx}
                                 href="https://trip.tpo.lv/TmObooZ5"
                                 target="_blank"
-                                rel="noopener noreferrer"
+                                rel="noopener noreferrer sponsored"
                                 className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 block"
                               >
                                 <div className="flex items-start justify-between mb-3">
@@ -348,7 +348,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 <a
                   href="https://trip.tpo.lv/TmObooZ5"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer sponsored"
                   className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                 >
                   Search on Trip.com
@@ -356,7 +356,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 <a
                   href="https://booking.tpo.lv/2PT1kR82"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer sponsored"
                   className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                 >
                   Search on Booking.com

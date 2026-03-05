@@ -24,17 +24,17 @@ export const cityAffiliates: Record<string, CityAffiliates> = {
   phuket: {
     booking: `https://www.booking.com/city/th/phuket.html?${BOOKING_AFF}`,
     klook: `https://www.klook.com/en-US/search/?q=Phuket&${KLOOK_AFF}`,
-    getyourguide: 'https://www.getyourguide.com/phuket-l244/',
+    getyourguide: 'https://www.getyourguide.com/phuket-l193/',
   },
   krabi: {
     booking: `https://www.booking.com/city/th/krabi.html?${BOOKING_AFF}`,
     klook: `https://www.klook.com/en-US/search/?q=Krabi&${KLOOK_AFF}`,
-    getyourguide: 'https://www.getyourguide.com/krabi-l244/',
+    getyourguide: 'https://www.getyourguide.com/krabi-l209/',
   },
   'koh-samui': {
     booking: `https://www.booking.com/city/th/koh-samui.html?${BOOKING_AFF}`,
     klook: `https://www.klook.com/en-US/search/?q=Koh+Samui&${KLOOK_AFF}`,
-    getyourguide: 'https://www.getyourguide.com/koh-samui-l244/',
+    getyourguide: 'https://www.getyourguide.com/koh-samui-l127/',
   },
 };
 
