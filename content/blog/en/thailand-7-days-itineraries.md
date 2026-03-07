@@ -5,9 +5,9 @@ date: "2026-03-07"
 author:
   name: "Go2Thailand Team"
 category: "practical"
-tags: ["7-day itinerary", "Thailand travel planning", "first-time visitors", "budget travel", "island hopping"]
+tags: ["7-day itinerary", "Thailand travel planning", "first-time visitors", "island hopping", "Bangkok to Chiang Mai"]
 image: "/images/blog/thailand-7-days-itineraries.webp"
-description: "3 complete 7-day Thailand itineraries: Bangkok-North, Island-Hopping, and Cultural Routes. Exact costs, transport, and insider tips from our team."
+description: "3 complete 7-day Thailand itineraries with exact costs, transport details & insider tips for first-timers, beach lovers & culture seekers."
 featured: false
 readingTime: 12
 lastUpdated: "2026-03-07"
@@ -18,94 +18,44 @@ sources:
     url: "https://thailandblog.nl/en/"
   - name: "Lonely Planet Thailand"
     url: "https://www.lonelyplanet.com/thailand"
-  - name: "Thai Immigration"
+  - name: "Thailand Immigration"
     url: "https://tdac.immigration.go.th/"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
+  - name: "Thai Airways"
+    url: "https://www.thaiairways.com/"
 factCheck:
   status: "needs-review"
-  flaggedClaims: 117
+  flaggedClaims: 112
   riskLevel: "high"
 ---
-# Thailand in 7 Days: 3 Perfect One-Week Itineraries (2026)
+Seven days in Thailand—it's the sweet spot. Long enough to shake off jet lag and actually [experience](https://getyourguide.tpo.lv/GuAFfGGK) the country, short enough to keep costs manageable and avoid decision paralysis. We've spent years exploring every corner of Thailand, and we've learned that a week is the perfect canvas for three completely different adventures.
 
-Seven days in **Thailand in 2026** is the sweet spot—long enough to escape the tourist treadmill, short enough to stay focused and avoid burnout. We've spent years navigating Thailand's rhythms, and we've distilled three completely different one-week routes that work for different travel styles: urban explorers, beach seekers, and culture hunters.
-
-Whether you're landing in Bangkok for the first time or returning for a deeper dive, this guide gives you exact daily breakdowns, real costs in Thai Baht and USD, transport logistics, and the insider moves that separate memorable trips from forgettable ones.
+Whether you're a first-timer drawn to **Thailand itineraries** that blend culture and chaos, a beach lover seeking island paradise, or a traveler hungry for authentic northern experiences, we've mapped out three proven routes that work. No filler. No "must-see" tourist traps that aren't worth your time. Just real itineraries built on what actually works on the ground.
 
 ## Key Takeaways
 
 | Question | Answer |
 |----------|--------|
-| **What is the best time to visit?** | November–February (cool, dry season). Avoid May–October (monsoon, humidity). March–April is hot but cheaper. |
-| **How much does it cost?** | Budget: 800–1,200 THB/day (~$23–34 USD). Mid-range: 1,500–2,500 THB/day (~$43–71 USD). Splurge: 3,000+ THB/day (~$85+ USD). |
-| **How do I get there?** | Fly into [Bangkok](https://go2-thailand.com/city/bangkok/) (Suvarnabhumi Airport). Direct flights from Europe/US; budget airlines connect regional cities. |
-| **Is it safe?** | Yes. Petty theft and scams exist in tourist areas, but violent crime against tourists is rare. Stay alert in night markets and avoid political gatherings. |
-| **What should I book in advance?** | Flights (3–6 weeks ahead). [Accommodation](https://booking.tpo.lv/2PT1kR82) in peak season (Nov–Feb). Domestic flights/trains optional but recommended. Day tours can be booked on arrival. |
-| **Do I need a visa?** | Most Western nationalities get 30–60 days visa-free. Check [Thailand visa requirements](https://go2-thailand.com/visa/visa-free-entry/) for your passport. |
-| **What's the currency?** | Thai Baht (THB). 1 USD ≈ 35 THB (March 2026 rate). ATMs widely available; credit cards accepted in cities. |
+| **What is the best time to visit?** | November–February (cool & dry). Avoid May–October monsoon season. |
+| **How much does it cost?** | Budget: 10,000–15,000 THB/day ($280–420 USD); Mid-range: 15,000–25,000 THB/day ($420–700 USD) |
+| **How do I get there?** | Fly into Bangkok, Phuket, or Chiang Mai. Thai Airways now offers direct flights from Amsterdam to Bangkok (July 2026). |
+| **Is it safe?** | Yes. Thailand is generally safe for tourists. Avoid political gatherings, use common sense with valuables, and respect local customs. |
+| **What should I book in advance?** | Flights (2–4 weeks ahead), [accommodation](https://booking.tpo.lv/2PT1kR82) in peak season, cooking classes, and long-distance buses/trains. |
+| **Do I need a visa?** | Most nationalities get 30–60 days visa-free. Check [Thailand visa requirements](https://go2-thailand.com/visa/). |
+| **What currency do I need?** | Thai Baht (THB). 1 USD ≈ 35–36 THB. ATMs are everywhere; credit cards accepted in cities. |
 
 ---
 
-## 1. Itinerary A: Bangkok-North Route (Urban + Culture)
+## 1. The Classic: Bangkok → Ayutthaya → Chiang Mai (Culture & Cities)
 
-This route is perfect for first-timers and culture enthusiasts. You'll [experience](https://getyourguide.tpo.lv/GuAFfGGK) the chaos and temples of the capital, then escape north to the mountains, temples, and slower pace of [Chiang Mai](https://go2-thailand.com/city/chiang-mai/). It's the classic "Thailand experience" compressed into seven days.
+This is the route that made Thailand famous—and for good reason. You'll move through three distinct worlds: the controlled chaos of the capital, the haunting temples of the ancient kingdom, and the laid-back mountains of the north. It's the itinerary that teaches you Thailand's soul.
 
-### Days 1–3: Bangkok
+**Days 1–2: Bangkok** (2 nights)
 
-Arrive in [Bangkok](https://go2-thailand.com/city/bangkok/) and spend your first three days in the capital. This isn't about rushing through temples—it's about understanding the city's rhythm: the street food culture, the river life, the chaos that makes Bangkok magnetic.
+[Bangkok](https://go2-thailand.com/city/bangkok/) hits you immediately. The heat, the noise, the smell of grilled fish and jasmine—it's overwhelming and intoxicating. Spend your first day recovering from travel and getting oriented. Walk through [Chinatown](https://go2-thailand.com/city/bangkok/attractions/), eat at a street stall (pad thai costs 40–60 THB / $1.15–1.70), and take the BTS Skytrain to see the city from above. On day two, visit the Grand Palace (500 THB / $14 entrance) early—go before 9 AM to beat crowds and heat. Then head to a nearby temple like Wat Pho (200 THB / $5.70), where you can see the reclining Buddha. Grab lunch at a local shophouse restaurant (60–100 THB / $1.70–2.85 per dish).
 
-**Day 1: Arrival & Riverside**
-- Land at Suvarnabhumi Airport (BKK). Take the Airport Rail Link to Bangkok city center (45 minutes, 150 THB / ~$4.30 USD). Skip the taxis unless you speak Thai.
-- Check into your hotel in the Silom, Sukhumvit, or Riverside area (mid-range: 800–1,200 THB / ~$23–34 USD per night).
-- Afternoon: Walk the Riverside (Chao Phraya). Grab street food from vendors along the water. Try [pad Thai](https://go2-thailand.com/food/pad-thai/) from a street cart (40–60 THB / ~$1.15–1.70 USD).
-- Evening: Take a long-tail [boat tour](https://klook.tpo.lv/7Dt6WApj) at sunset (500–800 THB / ~$14–23 USD for 1.5 hours). This is touristy but worth it once.
-
-**Day 2: Temples & Markets**
-- Early morning: Visit Wat Phra Kaew (Grand Palace complex). Arrive by 8:30 AM to beat crowds. Entry: 500 THB / ~$14 USD. Dress modestly (covered shoulders, knees).
-- Mid-morning: Walk to nearby Wat Pho (Temple of the Reclining Buddha). Entry: 200 THB / ~$5.70 USD.
-- Lunch: Eat [green curry](https://go2-thailand.com/food/green-curry/) or [som tam](https://go2-thailand.com/food/som-tam/) at a local shophouse restaurant (80–150 THB / ~$2.30–4.30 USD).
-- Afternoon: Explore Chatuchak Weekend Market (if Saturday/Sunday) or Damnoen Saduak Floating Market (day trip, 3 hours, 400–600 THB / ~$11–17 USD with guide).
-- Evening: Rooftop bar in Sukhumvit for sunset drinks (cocktails 250–400 THB / ~$7–11 USD).
-
-**Day 3: Street Food & Local Life**
-- Morning: Thai cooking class (2–3 hours, 1,000–1,500 THB / ~$28–43 USD). Learn to make [pad krapow](https://go2-thailand.com/food/pad-krapow/), curry, and fresh rolls.
-- Lunch: Eat what you cooked, or hit a local noodle shop in Yaowarat (Chinatown).
-- Afternoon: Muay Thai stadium visit or training session (watch: 1,000–1,500 THB / ~$28–43 USD; train: 500–1,000 THB / ~$14–28 USD for a drop-in class).
-- Evening: Night market food crawl (Patpong or Talad Rod Fai). Budget 300–500 THB / ~$8.50–14 USD for multiple small dishes.
-
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
-
-### Days 4–7: Chiang Mai
-
-Take an overnight train or morning flight from [Bangkok](https://go2-thailand.com/city/bangkok/) to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) (see transport section below). You'll arrive refreshed and have 3.5 days to explore the north's temples, night markets, and mountain culture.
-
-**Day 4: Arrival & Old City**
-- Arrive morning/early afternoon. Check into a guesthouse in the Old City (Nimmanhaemin area is popular; 600–1,000 THB / ~$17–28 USD per night).
-- Afternoon: Walk the Old City moat. Visit Wat Chedi Luang (free entry, donations welcome). Grab [khao soi](https://go2-thailand.com/food/) (Chiang Mai's signature curry noodle dish) for lunch (50–80 THB / ~$1.43–2.30 USD).
-- Evening: Sunday Walking Street Market (if Sunday) or Chiang Mai Night Bazaar (nightly). Street food, crafts, live music. Budget 200–400 THB / ~$5.70–11 USD.
-
-**Day 5: Temples & Viewpoints**
-- Early morning: Hike or drive to Doi Suthep temple (30 minutes from city). Entry: 30 THB / ~$0.85 USD. Sunrise views over the valley are stunning.
-- Mid-morning: Visit Wat Phra Singh (free). Explore the intricate wood carvings.
-- Lunch: Local restaurant near the temple (100–200 THB / ~$2.85–5.70 USD).
-- Afternoon: Elephant sanctuary visit (ethical, hands-on experience: 2,000–3,000 THB / ~$57–85 USD for a half-day). This is one of Thailand's most meaningful activities—choose carefully and avoid riding.
-- Evening: Relax at a traditional Thai massage (200–300 THB / ~$5.70–8.50 USD for 1 hour).
+**Where to stay in Bangkok:**
+- **Budget:** Hostels in Khao San Road area (300–500 THB / $8.50–14 per night)
+- **Mid-range:** Hotel in Silom or Sukhumvit (1,200–2,500 THB / $34–71 per night)
 
 <div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -124,32 +74,68 @@ Take an overnight train or morning flight from [Bangkok](https://go2-thailand.co
   </div>
 </div></div>
 
-**Day 6: Craft Workshops & Markets**
-- Morning: Visit a local silk weaving workshop or umbrella-making studio (free to watch; small purchases optional).
-- Late morning: Warorot Market (locals' market, not touristy). Grab fresh fruit, snacks, and souvenirs.
-- Lunch: [Larb](https://go2-thailand.com/food/larb/) (spicy minced meat salad) at a local eatery (60–100 THB / ~$1.70–2.85 USD).
-- Afternoon: Cooking class (if you didn't do one in Bangkok) or visit the Chiang Mai City Arts & Culture Center (free entry).
-- Evening: Dinner at a riverside restaurant overlooking the Ping River. Try [massaman curry](https://go2-thailand.com/food/massaman-curry/) (150–250 THB / ~$4.30–7 USD).
+**Days 3–4: Ayutthaya** (2 nights)
 
-**Day 7: Departure or Day Trip**
-- If departing: Morning flight/train back to Bangkok or onward. Allow 2 hours for airport/station.
-- If staying longer: Day trip to Chiang Rai (2 hours north) to see the White Temple (Wat Rong Khun). Entry: 50 THB / ~$1.43 USD.
+Take the train from Bangkok to [Ayutthaya](https://go2-thailand.com/transport/bangkok-to-ayutthaya/) (1.5 hours, 15–50 THB / $0.43–1.43 depending on class). This UNESCO World Heritage site was Thailand's capital for 417 years, and the ruins are hauntingly beautiful. Rent a bicycle or scooter (200–300 THB / $5.70–8.50 per day) and explore the temple complex. Visit Wat Mahathat (50 THB / $1.43), famous for the Buddha head entwined in tree roots. Stay near the old city center where guesthouses cluster (400–800 THB / $11–23 per night).
 
-### Transport: Bangkok to Chiang Mai
+**Pro tip:** Hire a local guide for a half-day tour (400–600 THB / $11–17 per person). They'll take you to temples tourists miss and explain the history in ways guidebooks can't.
 
-**Option 1: Overnight Train** (most atmospheric)
-- Departs Bangkok 8:35 PM, arrives Chiang Mai 7:50 AM next day.
-- Cost: 700–1,500 THB / ~$20–43 USD (depending on class).
-- Book via [12Go Asia](https://12go.tpo.lv/tNA80urD) or at [Hua Lamphong](https://trip.tpo.lv/gNIdNBmi) Station.
+<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
+    <div style="flex:1;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+        <span style="font-size:28px;line-height:1;">🎒</span>
+        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
+      </div>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
+      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
+    </div>
+    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
+      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
+    </a>
+  </div>
+</div></div>
 
-**Option 2: Morning Flight** (fastest)
-- Flight time: 1 hour 15 minutes.
-- Cost: 1,500–2,500 THB / ~$43–71 USD (budget airlines like Nok Air, Thai AirAsia).
-- Book 1–2 weeks in advance.
+**Days 5–7: Chiang Mai** (3 nights)
 
-**Option 3: Bus** (cheapest, slowest)
-- Overnight bus: 10–12 hours, 400–700 THB / ~$11–20 USD.
-- Only recommended if you're on a tight budget.
+Fly from Bangkok to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) (1.5 hours, 1,200–2,500 THB / $34–71). The air is cooler, the pace is slower, and the temples are everywhere. On arrival, explore the Old City on foot—it's compact and walkable. Visit Wat Chedi Luang, one of Thailand's most sacred temples (free entry). Eat khao soi (Chiang Mai's signature curry noodle dish) at a local restaurant (40–70 THB / $1.15–2).
+
+On day six, take a half-day cooking class (800–1,500 THB / $23–43 per person). You'll shop at a local market, learn to make 4–5 dishes, and eat what you cook. It's hands-on and genuinely fun. Alternatively, visit an ethical elephant sanctuary (1,500–2,500 THB / $43–71) where you can observe rescued elephants—avoid riding.
+
+On your final day, visit Doi Suthep temple (40 THB / $1.15 entrance, 20 THB / $0.57 for [songthaew](https://12go.tpo.lv/tNA80urD) ride up the mountain). The views over Chiang Mai valley are worth the early wake-up.
+
+**Where to stay in Chiang Mai:**
+- **Budget:** Guesthouses in the Old City (300–600 THB / $8.50–17 per night)
+- **Mid-range:** Boutique hotel near Nimmanhaemin Road (1,000–2,000 THB / $28–57 per night)
+
+**Total cost for Itinerary 1 (7 days, mid-range):**
+- Flights: 2,500–4,000 THB ($71–114)
+- Accommodation: 6,000–10,000 THB ($171–286)
+
+- Activities & transport: 2,000–3,500 THB ($57–100)
+- **Total: ~70,000–90,000 THB ($2,000–2,570 USD)**
+
+> **Did You Know?** Chiang Mai has over 300 temples—more than any other city in Thailand. The city was founded in 1296 and remains the cultural heart of northern Thailand.
+>
+> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
+
+---
+
+## 2. The Beach Escape: Bangkok → Phuket → Island Hopping (Relaxation & Snorkeling)
+
+If temples feel like work and you came to Thailand for turquoise water, this is your route. You'll hit the sand, snorkel coral reefs, and remember why you booked this trip in the first place.
+
+**Days 1–2: Bangkok** (2 nights)
+
+Same as Itinerary 1—use these days to land, recover, and eat your way through the city. The Grand Palace and Wat Pho are still worth seeing, but if you're beach-focused, you can skip them and spend time in [Bangkok's food scene](https://go2-thailand.com/city/bangkok/food/) instead. Eat at a night market (Talad Rot Fai or Chatuchak Weekend Market on Saturdays/Sundays). Budget 200–400 THB ($5.70–11) for a full meal of multiple dishes.
+
+**Days 3–7: Phuket & Island Hopping** (5 nights)
+
+Fly from Bangkok to [Phuket](https://go2-thailand.com/islands/phuket/) (2 hours, 1,500–3,000 THB / $43–86). Phuket itself is developed and touristy, but it's your gateway to better islands. Spend one night in Phuket town or Patong Beach, then move to [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) (ferry 90 minutes, 400–600 THB / $11–17).
+
+**Koh Phi Phi (2 nights):**
+Phi Phi Don is the main island—busy but beautiful. The beaches are postcard-perfect. Book a snorkeling tour (1,200–1,800 THB / $34–51 per person) that visits Bamboo Island and Maya Bay. The water is clear, the coral is healthy, and you'll see tropical fish. Stay in a bungalow or guesthouse (800–1,500 THB / $23–43 per night). Eat fresh seafood grilled on the beach (150–300 THB / $4.30–8.50 per dish).
 
 <div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -168,98 +154,63 @@ Take an overnight train or morning flight from [Bangkok](https://go2-thailand.co
   </div>
 </div></div>
 
----
+**Koh Lanta (2 nights):**
+Take a ferry from Phi Phi to [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) (2 hours, 500–700 THB / $14–20). Lanta is quieter, more authentic, and less crowded than Phi Phi. The beaches are long and sandy. Rent a scooter (150–250 THB / $4.30–7 per day) and explore the island. Visit Bamboo Beach on the east coast for calm waters. Book a diving or snorkeling trip (1,000–1,500 THB / $28–43) if you're certified. Stay in a beachfront bungalow (600–1,200 THB / $17–34 per night).
 
-## 2. Itinerary B: Island-Hopping Route (Beaches & Diving)
+**Where to stay (island options):**
+- **Budget:** Basic bungalow (500–800 THB / $14–23 per night)
+- **Mid-range:** Beachfront resort with AC (1,200–2,000 THB / $34–57 per night)
 
-This route is for beach lovers, snorkelers, and anyone seeking warm water and island time. You'll skip the cities and focus on three islands in the south: [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/), and [Koh Tao](https://go2-thailand.com/islands/koh-tao/). This is the classic "Thai island experience."
+<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
+    <div style="flex:1;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+        <span style="font-size:28px;line-height:1;">📱</span>
+        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE) in Thailand</strong>
+      </div>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
+      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
+    </div>
+    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
+      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
+    </a>
+  </div>
+</div></div>
 
-### Days 1–2: Bangkok (Quick Transit)
+**Total cost for Itinerary 2 (7 days, mid-range):**
+- Flights: 3,000–5,000 THB ($86–143)
+- Accommodation: 5,000–8,000 THB ($143–229)
 
-You don't need to linger in [Bangkok](https://go2-thailand.com/city/bangkok/) on this route. Arrive, rest, and move south.
+- Ferries & activities: 4,000–6,000 THB ($114–171)
+- **Total: ~80,000–110,000 THB ($2,286–3,143 USD)**
 
-**Day 1: Arrival**
-- Land at Suvarnabhumi. Take the Airport Rail Link to central Bangkok (150 THB / ~$4.30 USD).
-- Check into a budget hotel near Khao San Road or Silom (500–800 THB / ~$14–23 USD). Sleep off jet lag.
-- Evening: Walk Khao San Road for street food and atmosphere (no need to party—just observe).
-
-**Day 2: Travel South**
-- Morning: Take a flight or bus to [Koh Samui](https://go2-thailand.com/islands/koh-samui/) (see transport below).
-- Afternoon: Check into your beachfront bungalow (800–1,500 THB / ~$23–43 USD per night, mid-range).
-- Evening: Sunset swim, fresh seafood dinner on the beach (200–400 THB / ~$5.70–11 USD).
-
-### Days 3–4: Koh Samui
-
-[Koh Samui](https://go2-thailand.com/islands/koh-samui/) is the most developed island—good for snorkeling, diving, and beach relaxation. The island has excellent restaurants and nightlife if you want it.
-
-**Day 3: Beach & Snorkel**
-- Morning: Snorkeling day trip to nearby islands (Koh Tao, Koh Nang Yuan). Cost: 1,500–2,000 THB / ~$43–57 USD (includes boat, guide, lunch, equipment).
-- Afternoon: Return to your beach. Relax, swim, or get a massage.
-- Evening: Dinner at a beachfront restaurant. Try grilled fish or [pad see ew](https://go2-thailand.com/food/pad-see-ew/) (150–300 THB / ~$4.30–8.50 USD).
-
-**Day 4: Island Exploration**
-- Morning: Rent a scooter (200–300 THB / ~$5.70–8.50 USD per day) and explore the island. Visit Big Buddha (Wat Phra Yai). Entry: 30 THB / ~$0.85 USD.
-- Midday: Lunch at a local shophouse restaurant (80–150 THB / ~$2.30–4.30 USD).
-- Afternoon: Beach time or visit a waterfall (Namuang Waterfall, 30-minute drive).
-- Evening: Night market or casual dinner.
-
-<!-- WIDGET:klook -->
-
-### Days 5–6: Koh Phangan
-
-Take a ferry from [Koh Samui](https://go2-thailand.com/islands/koh-samui/) to [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) (30 minutes, 100–150 THB / ~$2.85–4.30 USD). [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) is quieter and more bohemian than Samui—better for diving and yoga.
-
-**Day 5: Arrival & Diving**
-- Afternoon: Settle into your bungalow (600–1,200 THB / ~$17–34 USD per night).
-- Late afternoon: Sunset viewpoint hike or beach swim.
-- Evening: Dinner and early night (you'll be diving tomorrow).
-
-**Day 6: Diving or Relaxation**
-- Full-day diving trip (2–3 dives): 3,000–4,000 THB / ~$85–114 USD (includes boat, guide, equipment, lunch). Or snorkeling trip: 1,500–2,000 THB / ~$43–57 USD.
-- Alternatively: Yoga class (300–500 THB / ~$8.50–14 USD) and beach time.
-- Evening: Casual dinner, early night.
-
-> **Did You Know?** The Full Moon Party on [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) attracts 10,000+ people monthly. If you want to avoid crowds, skip full moon dates. If you want to experience it, book accommodation well in advance.
+> **Did You Know?** The Andaman Sea, where Phuket and the islands sit, is home to over 1,200 fish species and some of the most biodiverse coral reefs in Southeast Asia.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
-
-### Day 7: Koh Tao or Return
-
-**Option A: Koh Tao Day Trip**
-- Ferry from [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) to [Koh Tao](https://go2-thailand.com/islands/koh-tao/) (45 minutes, 150–200 THB / ~$4.30–5.70 USD).
-- Snorkel or dive at Chumphon Pinnacle or Shark Island (1,500–2,000 THB / ~$43–57 USD for snorkeling).
-- Return ferry same day or stay overnight if you want to extend.
-
-**Option B: Return to Bangkok**
-- Ferry from [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) to Surat Thani mainland (2–3 hours, 300–400 THB / ~$8.50–11 USD).
-- Bus or flight back to Bangkok (see transport options below).
-
-### Transport: Bangkok to Islands
-
-**Option 1: Flight to Koh Samui** (fastest)
-- Flight time: 1 hour 15 minutes.
-- Cost: 1,500–2,500 THB / ~$43–71 USD (budget airlines).
-- Book 1–2 weeks ahead.
-
-**Option 2: Bus + Ferry Combo** (cheapest)
-- Overnight bus Bangkok to Surat Thani (10 hours): 400–600 THB / ~$11–17 USD.
-- Ferry Surat Thani to [Koh Samui](https://go2-thailand.com/islands/koh-samui/) (2.5 hours): 300–400 THB / ~$8.50–11 USD.
-- Total: 700–1,000 THB / ~$20–28 USD, but 12+ hours total.
-
-**Option 3: Minivan + Ferry** (balanced)
-- Minivan Bangkok to Surat Thani (8–9 hours): 600–800 THB / ~$17–23 USD.
-- Ferry to [Koh Samui](https://go2-thailand.com/islands/koh-samui/) (2.5 hours): 300–400 THB / ~$8.50–11 USD.
-- Total: 900–1,200 THB / ~$25–34 USD, 10–11 hours total.
-
-<!-- WIDGET:12go -->
+> *Source: [Lonely Planet Thailand](https://www.lonelyplanet.com/thailand)*
 
 ---
 
-## 3. Itinerary C: Cultural Deep-Dive Route (Temples, History, Food)
+## 3. The Hidden Gem: Bangkok → Kanchanaburi → Hua Hin (Off-the-Beaten-Path)
 
-This route is for travelers who want to understand Thailand's soul: its history, spirituality, and culinary traditions. You'll visit [Bangkok](https://go2-thailand.com/city/bangkok/), the ancient capital of Ayutthaya, and the cultural heartland of [Chiang Mai](https://go2-thailand.com/city/chiang-mai/).
+This route skips the tourist crowds and shows you a Thailand that most visitors never see. You'll explore waterfalls, colonial beach towns, and meet locals who aren't used to seeing foreigners.
 
-### Days 1–2: Bangkok (Extended)
+**Days 1–2: Bangkok** (2 nights)
+
+Same arrival routine as the other itineraries. Use day two to visit the Jim Thompson House (200 THB / $5.70 for guided tour) or take a long-tail boat tour through the floating markets of Damnoen Saduak (600–1,000 THB / $17–29 per person, including transport from Bangkok).
+
+**Days 3–4: Kanchanaburi** (2 nights)
+
+Take a bus or train from Bangkok to Kanchanaburi (2.5–3 hours, 100–200 THB / $2.85–5.70 by bus). This town is famous for the Bridge Over the River Kwai, a haunting WWII historical site. Visit the bridge (free to walk), the JEATH War Museum (40 THB / $1.15), and the War Cemetery (free). These sites are sobering but important.
+
+On day four, visit Erawan Waterfall (200 THB / $5.70 entrance). It's a 1.5-hour drive from town, but worth it—seven tiers of emerald pools where you can swim. The water is cold and refreshing. Pack light clothes and water shoes.
+
+**Where to stay in Kanchanaburi:**
+- **Budget:** Riverside guesthouse (300–500 THB / $8.50–14 per night)
+- **Mid-range:** Floating bungalow on the river (800–1,500 THB / $23–43 per night)
+
+<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
 
 
 <div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
@@ -279,23 +230,6 @@ This route is for travelers who want to understand Thailand's soul: its history,
   </div>
 </div>
 
-
-Spend two full days in [Bangkok](https://go2-thailand.com/city/bangkok/) with a focus on history and food, not just temples.
-
-**Day 1: Grand Palace & Food**
-- Morning: Grand Palace and Wat Phra Kaew (arrive 8:30 AM, 500 THB / ~$14 USD). Spend 2–3 hours.
-- Lunch: Eat at a local shophouse in the old town. Try [khao man gai](https://go2-thailand.com/food/) (poached chicken and rice, 40–60 THB / ~$1.15–1.70 USD).
-- Afternoon: National Museum (200 THB / ~$5.70 USD) or Wat Pho (200 THB / ~$5.70 USD).
-- Evening: Cooking class (1,000–1,500 THB / ~$28–43 USD). Learn to make curry pastes from scratch.
-
-**Day 2: Floating Markets & Street Food**
-- Early morning: Damnoen Saduak Floating Market (3-hour tour, 400–600 THB / ~$11–17 USD with guide). Arrive by 7 AM to beat crowds.
-- Late morning: Return to city. Lunch at a riverside restaurant.
-- Afternoon: Chatuchak Market (if Saturday/Sunday) or Warorot Market (weekdays). Focus on local food stalls and crafts.
-- Evening: Street food crawl in Yaowarat (Chinatown). Try [pad krapow moo](https://go2-thailand.com/food/pad-krapow/) (spicy pork with holy basil), [mango sticky rice](https://go2-thailand.com/food/mango-sticky-rice/), and fresh coconut ice cream (300–500 THB / ~$8.50–14 USD for multiple dishes).
-
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
     <div style="flex:1;">
       <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
         <span style="font-size:28px;line-height:1;">🗺️</span>
@@ -311,132 +245,88 @@ Spend two full days in [Bangkok](https://go2-thailand.com/city/bangkok/) with a 
   </div>
 </div></div>
 
-### Day 3: Ayutthaya Day Trip
+**Days 5–7: Hua Hin** (3 nights)
 
-Ayutthaya, Thailand's ancient capital (1351–1767), is a UNESCO World Heritage Site 80 km north of [Bangkok](https://go2-thailand.com/city/bangkok/). Spend a full day exploring its temples and history.
+Take a bus or train from Kanchanaburi to [Hua Hin](https://go2-thailand.com/transport/ayutthaya-to-hua-hin/) (3 hours, 150–250 THB / $4.30–7). Hua Hin is Thailand's original beach resort—quieter and more Thai than Phuket. The beach is long, the seafood is fresh, and the pace is relaxed.
 
-**Day 3: Ayutthaya**
-- Morning: Train from Bangkok to Ayutthaya (1.5 hours, 15–50 THB / ~$0.43–1.43 USD depending on class). Alternatively, organized tour (1,500–2,000 THB / ~$43–57 USD includes transport, guide, lunch).
-- Mid-morning: Hire a local guide or join a group tour. Visit Wat Mahathat (free entry), Wat Yai Chai Mongkol (20 THB / ~$0.57 USD), and Wat Phra Si Sanphet (50 THB / ~$1.43 USD).
-- Lunch: Local restaurant near the temples. Try [tom yum goong](https://go2-thailand.com/food/tom-yum-goong/) (spicy shrimp soup, 80–150 THB / ~$2.30–4.30 USD).
-- Afternoon: Bike tour of the ruins (200–300 THB / ~$5.70–8.50 USD to rent a bike) or longtail boat tour of the rivers (500–800 THB / ~$14–23 USD for 1.5 hours).
-- Evening: Return to [Bangkok](https://go2-thailand.com/city/bangkok/) by train.
+Spend your days swimming, walking the pier (built in 1910), and eating at beachfront restaurants. Visit Cicada Market on Friday and Saturday nights—live music, local food, and a genuine local vibe (no cover charge). Rent a scooter and explore nearby villages. Visit Khao Sam Roi Yot National Park (200 THB / $5.70 entrance) for hiking and cave exploration.
 
-> **Did You Know?** Ayutthaya was one of the world's largest cities in the 17th century, with a population of over 1 million. It was destroyed by Burmese invaders in 1767 but rebuilt as a cultural monument.
->
-> *Source: [UNESCO World Heritage Centre](https://whc.unesco.org/)*
+**Where to stay in Hua Hin:**
+- **Budget:** Guesthouse near the beach (400–700 THB / $11–20 per night)
+- **Mid-range:** Beachfront hotel (1,000–1,800 THB / $28–51 per night)
 
-### Days 4–7: Chiang Mai (Extended)
+**Total cost for Itinerary 3 (7 days, mid-range):**
+- Accommodation: 4,000–7,000 THB ($114–200)
 
-Take an overnight train or morning flight to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) (see transport options in Itinerary A). Spend four days diving deep into northern culture.
+- Transport (buses/trains): 800–1,500 THB ($23–43)
+- Activities & entrance fees: 1,500–2,500 THB ($43–71)
+- **Total: ~45,000–65,000 THB ($1,286–1,857 USD)**
 
-**Day 4: Arrival & Old City**
-- Afternoon: Check in. Walk the Old City moat. Visit Wat Chedi Luang and Wat Phra Singh (free).
-- Evening: Sunday Walking Street Market (if Sunday) or Chiang Mai Night Bazaar. Dinner at a local restaurant (100–200 THB / ~$2.85–5.70 USD).
+---
 
-**Day 5: Temples & Meditation**
-- Early morning: Sunrise at Doi Suthep temple (30 minutes from city, 30 THB / ~$0.85 USD entry).
-- Mid-morning: Meditation session at a local temple (free, donations welcome). Many temples offer English-language sessions.
-- Lunch: Khao soi at a local eatery (50–80 THB / ~$1.43–2.30 USD).
-- Afternoon: Visit Wat Phra Singh and Wat Chedi Luang (free).
-- Evening: Traditional Thai massage (200–300 THB / ~$5.70–8.50 USD for 1 hour).
+## 4. Getting There: Flights & Entry Requirements
 
-**Day 6: Cooking Class & Markets**
-- Morning: Half-day cooking class (1,000–1,500 THB / ~$28–43 USD). Learn to make curry pastes, stir-fries, and desserts.
-- Lunch: Eat what you cooked.
-- Afternoon: Warorot Market (locals' market). Buy fresh ingredients, spices, and souvenirs.
-- Evening: Dinner at a riverside restaurant. Try [larb](https://go2-thailand.com/food/larb/) or grilled fish (150–250 THB / ~$4.30–7 USD).
+Most visitors fly into [Bangkok](https://go2-thailand.com/city/bangkok/) (Suvarnabhumi Airport, BKK), though [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and Phuket are also major hubs. Thai Airways now offers a direct flight from Amsterdam to Bangkok starting July 1, 2026—a game-changer for European travelers.
 
-**Day 7: Elephant Sanctuary or Departure**
-- Morning: Ethical elephant sanctuary visit (2,000–3,000 THB / ~$57–85 USD for half-day). Hands-on experience, no riding.
-- Afternoon: Relax, pack, and prepare for departure.
-- Evening: Flight or train back to [Bangkok](https://go2-thailand.com/city/bangkok/) or onward.
+**Visa & Immigration:**
+Most Western nationalities (US, UK, EU, Australia, Canada) get 30–60 days visa-free. Before arrival, you must complete the [Thailand Digital Arrival Card](https://tdac.immigration.go.th/arrival-card/#/home) online (free, takes 5 minutes). Do this at least 3 days before you arrive.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+**Getting from the airport:**
+- **Bangkok (Suvarnabhumi):** Airport Express train to city (45 minutes, 45 THB / $1.29), or Grab taxi (300–500 THB / $8.50–14)
+- **Chiang Mai:** Airport is 4 km from city. Grab or [airport shuttle](https://trip.tpo.lv/hY8hOUey) (150–300 THB / $4.30–8.50)
+- **Phuket:** Airport is 30 km north. Grab or airport shuttle (400–600 THB / $11–17)
+
+<div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
     <div style="flex:1;">
       <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE) in Thailand</strong>
+        <span style="font-size:28px;line-height:1;">✈️</span>
+        <strong style="font-size:18px;color:#1F2937;">Find Flights to Thailand</strong>
       </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Search and compare flights to Bangkok, Phuket, Chiang Mai and Koh Samui at the best prices.</p>
+      <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#0284C7;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Flights on Trip.com →</a>
     </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
   </div>
 </div></div>
 
 ---
 
-## 4. Cost Breakdown by Itinerary
+## 5. Getting Around: Transport Between Cities
 
-Here's a realistic cost estimate for each route (per person, mid-range budget):
+Thailand's transport system is efficient and cheap. Here's what works:
 
-| Category | Bangkok-North | Island-Hopping | Cultural Deep-Dive |
-|----------|---------------|-----------------|-------------------|
-| **Flights (international)** | $600–1,200 | $600–1,200 | $600–1,200 |
-| **Domestic transport** | 2,500 THB ($71) | 3,000 THB ($85) | 2,500 THB ($71) |
-| **Accommodation (7 nights)** | 6,000–8,400 THB ($171–240) | 7,000–10,500 THB ($200–300) | 6,000–8,400 THB ($171–240) |
-| **Food & drinks** | 4,200–7,000 THB ($120–200) | 4,200–7,000 THB ($120–200) | 4,200–7,000 THB ($120–200) |
-| **Activities & tours** | 3,000–5,000 THB ($85–143) | 4,000–6,000 THB ($114–171) | 4,000–6,000 THB ($114–171) |
-| **Miscellaneous** | 1,000–2,000 THB ($28–57) | 1,000–2,000 THB ($28–57) | 1,000–2,000 THB ($28–57) |
-| **Total (in-country)** | 16,700–29,400 THB ($477–840) | 19,200–32,500 THB ($549–929) | 17,700–30,400 THB ($506–869) |
-| **Total with flights** | $1,077–2,040 | $1,149–2,129 | $1,106–2,069 |
+**Buses:** Long-distance buses connect all major cities. Book through 12Go Asia or at bus stations. Bangkok to Chiang Mai (10 hours, 400–800 THB / $11–23). Buses are comfortable and include meals/snacks.
 
-**Budget travelers** can reduce accommodation to 500–700 THB/night and eat street food exclusively (50–100 THB per meal), bringing in-country costs down to 10,000–15,000 THB ($285–428).
+**Trains:** Slower than buses but more scenic and atmospheric. Bangkok to Chiang Mai (13–15 hours, 300–1,200 THB / $8.50–34 depending on class). Book at [bangkokrailway.com](https://www.bangkokrailway.com/) or through travel agents.
 
-**Luxury travelers** can double or triple accommodation and activity costs, reaching $2,500–4,000+ for the week.
+**Flights:** Domestic flights are cheap and fast. Bangkok to Chiang Mai (1.5 hours, 1,200–2,500 THB / $34–71). Bangkok to Phuket (2 hours, 1,500–3,000 THB / $43–86). Book through Skyscanner or directly with airlines like Thai Airways, Nok Air, or Thai Lion.
+
+**Ferries:** Island-to-island ferries run regularly. Phuket to Koh Phi Phi (90 minutes, 400–600 THB / $11–17). Book at the pier or through your hotel.
+
+**Local transport:** In cities, use the BTS Skytrain (Bangkok), songthaews (shared red trucks), or Grab (Southeast Asia's Uber). A Grab ride across Bangkok costs 50–150 THB ($1.43–4.30).
 
 ---
 
-## 5. Booking & Preparation Timeline
+## 6. Money: Costs, ATMs & Budgeting
 
-### 8–12 Weeks Before Departure
-- Check your passport (must be valid 6+ months beyond your trip).
-- Confirm visa requirements (most Western nationalities get 30–60 days visa-free; check [Thailand visa requirements](https://go2-thailand.com/visa/visa-free-entry/)).
-- Book international flights. Prices are typically lowest 6–8 weeks in advance.
-- Purchase travel insurance (highly recommended; covers medical, cancellation, theft).
+Thailand is genuinely affordable. Here's what you'll actually spend:
 
-### 4–6 Weeks Before
-- Book accommodation in peak season (Nov–Feb). Off-season (May–Oct) is more flexible.
-- Book domestic flights if you're island-hopping or going north.
-- Reserve cooking classes or specialized tours (elephant sanctuaries, diving courses).
+**Food:**
+- Street food meal: 40–80 THB ($1.15–2.30)
+- Local restaurant: 80–150 THB ($2.30–4.30)
+- Mid-range restaurant: 200–400 THB ($5.70–11)
+- Fancy dinner: 500–1,500 THB ($14–43)
 
-### 2 Weeks Before
-- Arrange travel insurance if you haven't already.
-- Book any remaining day tours (these can often be booked on arrival, but advance booking ensures availability).
-- Check [Thailand eSIM options](https://go2-thailand.com/esim/) or arrange a local SIM card.
-- Notify your bank of travel dates.
+**Accommodation:**
+- Dorm bed: 300–500 THB ($8.50–14)
+- Budget private room: 500–800 THB ($14–23)
+- Mid-range hotel: 1,200–2,500 THB ($34–71)
+- Upscale resort: 3,000+ THB ($86+)
 
-### 1 Week Before
-- Pack. Check weather forecasts for your dates.
-- Fill out the [Thailand Digital Arrival Card](https://tdac.immigration.go.th/arrival-card/#/home) (required 3 days before arrival).
-- Confirm all bookings (flights, hotels, tours).
-
-<div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:12px;">
-    <span style="font-size:28px;line-height:1;">💡</span>
-    <div style="flex:1;">
-      <strong style="font-size:18px;color:#92400E;display:block;margin-bottom:6px;">Pro Tip</strong>
-      <p style="color:#78350F;margin:0;font-size:15px;line-height:1.5;">Download offline maps of Bangkok, Chiang Mai, and your islands before arrival. Google Maps works, but apps like Maps.me are more reliable without constant internet.</p>
-    </div>
-  </div>
-</div>
-
----
-
-## 6. Getting Around Thailand: Transport Guide
-
-### Domestic Flights
-- **Cost:** 1,500–2,500 THB / ~$43–71 USD one-way (budget airlines like Nok Air, Thai AirAsia, Thai Lion).
-- **Time:** Book 1–2 weeks in advance for best prices.
-- **Best for:** Bangkok ↔ Chiang Mai, Bangkok ↔ Phuket, Bangkok ↔ Koh Samui.
-- **Tip:** Baggage allowance is often limited (15–20 kg); check before booking.
-
-### Trains
+**Activities:**
+- Temple entrance: 20–200 THB ($0.57–5.70)
+- Cooking class: 800–1,500 THB ($23–43)
+- Snorkeling tour: 1,200–1,800 THB ($34–51)
 
 
 <div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
@@ -456,110 +346,71 @@ Here's a realistic cost estimate for each route (per person, mid-range budget):
   </div>
 </div>
 
-- **Cost:** 700–1,500 THB / ~$20–43 USD for overnight sleeper (Bangkok ↔ Chiang Mai).
-- **Time:** 10–12 hours overnight; 1.5–3 hours for day trains.
-- **Best for:** Scenic journey, comfortable sleeper experience, budget travelers.
-- **Book via:** [12Go Asia](https://12go.tpo.lv/tNA80urD) or at Hua Lamphong Station in Bangkok.
+- Massage: 200–400 THB ($5.70–11)
 
-### Buses
-- **Cost:** 400–800 THB / ~$11–23 USD for long-distance overnight buses.
-- **Time:** 8–12 hours depending on route.
-- **Best for:** Budget travelers; avoid if you value comfort.
-- **Book via:** [12Go Asia](https://12go.tpo.lv/tNA80urD), NakhonChaiAir, or at bus stations.
+**ATMs & money:**
+ATMs are everywhere in cities and towns. Withdrawal fees are typically 180–220 THB ($5.15–6.30) per transaction. Bring a credit card from a bank that reimburses ATM fees. Thai Baht is the currency (1 USD ≈ 35–36 THB). Credit cards are accepted in hotels, restaurants, and shops in cities, but carry cash for markets and rural areas.
 
-### Ferries
-- **Cost:** 100–400 THB / ~$2.85–11 USD between islands.
-- **Time:** 30 minutes to 2 hours depending on route.
-- **Best for:** Island-hopping. Book day-of or 1 day in advance.
-- **Routes:** Koh Samui ↔ Koh Phangan (30 min), Koh Phangan ↔ Koh Tao (45 min), mainland ↔ islands (1.5–3 hours).
-
-### Taxis & Tuk-Tuks
-- **Cost:** 50–200 THB / ~$1.43–5.70 USD for short trips in cities.
-- **Tip:** Use Grab app (Thailand's Uber) for transparent pricing. Negotiate tuk-tuk fares before getting in.
-
-### Scooter Rentals
-- **Cost:** 200–300 THB / ~$5.70–8.50 USD per day.
-- **Best for:** Exploring islands and smaller towns.
-- **Warning:** Wear a helmet (legally required). International driving permit recommended but not always enforced.
+<div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:12px;">
+    <span style="font-size:28px;line-height:1;">💡</span>
+    <div style="flex:1;">
+      <strong style="font-size:18px;color:#92400E;display:block;margin-bottom:6px;">Pro Tip</strong>
+      <p style="color:#78350F;margin:0;font-size:15px;line-height:1.5;">Withdraw larger amounts (5,000–10,000 THB) at once to minimize ATM fees. Keep some cash separate from your wallet in case of theft.</p>
+    </div>
+  </div>
+</div>
 
 ---
 
-## 7. Food & Dining Guide
+## 7. When to Go: Best Time & Weather
 
-Thai food is one of your trip's highlights. Here's how to eat well without overspending:
+**Best season:** November–February (cool and dry, 20–28°C / 68–82°F). This is peak season—prices are higher and beaches are crowded, but the weather is perfect.
 
-### Street Food (50–100 THB / ~$1.43–2.85 USD per item)
-- **Pad Thai** (stir-fried noodles): 40–60 THB / ~$1.15–1.70 USD
-- **Khao man gai** (poached chicken and rice): 40–60 THB / ~$1.15–1.70 USD
-- **Som tam** (papaya salad): 50–80 THB / ~$1.43–2.30 USD
-- **Satay skewers** (grilled meat on sticks): 10–20 THB each / ~$0.28–0.57 USD
-- **Fresh fruit smoothies**: 30–50 THB / ~$0.85–1.43 USD
+**Shoulder season:** March–April (hot, 30–35°C / 86–95°F) and October (humid, occasional rain). Fewer tourists, lower prices, but you'll sweat.
 
-### Local Restaurants (80–200 THB / ~$2.30–5.70 USD per dish)
-- **Khao soi** (Chiang Mai curry noodles): 50–80 THB / ~$1.43–2.30 USD
-- **Larb** (spicy minced meat salad): 60–100 THB / ~$1.70–2.85 USD
-- **Green curry** or **red curry**: 100–150 THB / ~$2.85–4.30 USD
-- **Grilled fish**: 150–250 THB / ~$4.30–7 USD
-- **Pad krapow moo** (pork with holy basil): 60–100 THB / ~$1.70–2.85 USD
+**Avoid:** May–October is monsoon season. Rain is heavy, humidity is oppressive, and some islands become inaccessible. Prices drop significantly, but travel becomes unpredictable.
 
-### Mid-Range Restaurants (200–500 THB / ~$5.70–14 USD per dish)
-- Riverside restaurants in [Bangkok](https://go2-thailand.com/city/bangkok/) and [Chiang Mai](https://go2-thailand.com/city/chiang-mai/).
-- Beach restaurants on the islands.
-- Specialty restaurants (Italian, Japanese, fusion).
-
-### Drinks
-- **Thai iced tea** ([cha yen](https://go2-thailand.com/drinks/thai-iced-tea/)): 20–40 THB / ~$0.57–1.15 USD
-- **Thai iced coffee** ([oliang](https://go2-thailand.com/drinks/thai-iced-coffee/)): 20–40 THB / ~$0.57–1.15 USD
-- **Fresh coconut water**: 20–40 THB / ~$0.57–1.15 USD
-- **Beer** ([Singha](https://go2-thailand.com/drinks/singha-beer/), [Chang](https://go2-thailand.com/drinks/chang-beer/), [Leo](https://go2-thailand.com/drinks/leo-beer/)): 50–100 THB / ~$1.43–2.85 USD for a large bottle
-- **Cocktails** (in bars): 150–300 THB / ~$4.30–8.50 USD
-
-### Pro Tips for Eating Well
-- **Eat where locals eat.** If a restaurant is full of Thai people at lunch, the food is good and cheap.
-- **Learn to say "not spicy"** (mai pet) if you can't handle heat.
-- **Breakfast is cheap.** Grab congee, sticky rice, or noodles for 30–50 THB / ~$0.85–1.43 USD.
-- **Markets are your friend.** Chatuchak, Warorot, and floating markets have dozens of food stalls at rock-bottom prices.
+For 2026, plan your trip for **November–February** if possible. If you're flexible, **October** and **March–April** offer better value with acceptable weather.
 
 ---
 
-## 8. Safety & Practical Tips
+## 8. What to Pack & Practical Tips
 
-Thailand is generally safe for tourists, but petty theft and scams exist. Here's what to know:
+**Essentials:**
+- Lightweight, breathable clothing (cotton or moisture-wicking)
+- Comfortable walking shoes and flip-flops
+- Sunscreen (SPF 50+) and sunglasses
+- Insect repellent (dengue and malaria are real)
+- Reusable water bottle (tap water is safe in cities, but bottled is cheaper)
+- Phone charger and power adapter (Thailand uses Type A & B plugs)
+- Travel insurance (highly recommended)
 
-### Common Scams (and How to Avoid Them)
-- **Gem scams:** Don't buy gems from strangers or unlicensed shops. Stick to established jewelers if you must buy.
-- **Tuk-tuk overcharges:** Use Grab app or negotiate fare before getting in. Avoid tuk-tuks that offer "free rides" to shops.
-- **Fake taxis:** Use only metered taxis or Grab app. Avoid unmarked taxis at the airport.
-- **Drink spiking:** Watch your drink at bars. Don't accept drinks from strangers.
+**Stay connected:**
+Get a local SIM card or eSIM. AIS, Dtac, and True Move are the major providers. A 7-day tourist SIM with 4G data costs 300–500 THB ($8.50–14). Alternatively, arrange an [eSIM before you leave](https://go2-thailand.com/esim/).
 
-### Health & Safety
-- **Tap water:** Not safe to drink. Buy bottled water (10–20 THB / ~$0.28–0.57 USD per bottle).
-- **Mosquitoes:** Dengue fever and malaria exist in some areas. Use insect repellent, especially at dawn/dusk.
-- **Sun:** Thai sun is intense. Wear sunscreen (SPF 50+), hat, and sunglasses.
-- **Petty theft:** Keep valuables in your hotel safe. Don't leave bags unattended.
-- **Respect the monarchy:** Never disrespect the Thai king or royal family. It's illegal and deeply offensive.
+<!-- WIDGET:saily -->
 
-### Emergency Contacts
-- **Police:** 191
-- **Ambulance:** 1669
-- **Tourist Police:** 1155 (English-speaking)
-- **Your embassy:** Check your government's website for contact details.
+**Health & safety:**
+Thailand is safe, but use common sense. Avoid political gatherings, don't disrespect the monarchy, and keep valuables secure. Tap water in Bangkok and major cities is safe, but stick to bottled water in rural areas. Hospitals in Bangkok and Chiang Mai are excellent and affordable. Consider travel insurance that covers medical evacuation.
 
 ---
 
-## 9. What to Pack
+## 9. Common Mistakes to Avoid
 
-### Essentials
-- **Lightweight, breathable clothing** (cotton, linen). Avoid tight jeans.
-- **Modest clothing** for temple visits (long pants/skirts, covered shoulders).
-- **Swimwear** (2–3 sets).
-- **Comfortable walking shoes** and sandals.
-- **Sunscreen** (SPF 50+, hard to find in Thailand).
-- **Medications** (bring from home if possible; Thai pharmacies require prescriptions).
-- **Power adapter** (Thailand uses 220V, Type A/B plugs).
-- **Lightweight rain jacket** (for monsoon season).
+**Mistake 1: Booking everything in advance.** Thailand is flexible. Book your first 2–3 nights, then decide based on how you feel. You might want to stay longer in Chiang Mai or skip Ayutthaya entirely.
 
-### Optional
+**Mistake 2: Spending all your time in tourist areas.** Khao San Road in Bangkok and Patong Beach in Phuket are fun but exhausting. Balance tourist spots with quiet neighborhoods, local markets, and smaller towns.
+
+**Mistake 3: Ignoring cultural etiquette.** Thais are forgiving, but respect matters. Don't touch anyone's head, don't point at people, and always show respect to images of the King. Remove shoes when entering temples and homes.
+
+**Mistake 4: Trusting tuk-tuk drivers for "special deals."** If a tuk-tuk driver offers to take you to a gem shop or tailor, they're getting commission. You'll pay inflated prices. Use Grab or walk instead.
+
+**Mistake 5: Underestimating travel time.** Distances are deceiving. What looks like 2 hours on a map can take 4 hours on actual roads. Build in buffer time.
+
+---
+
+## 10. FAQ: Your Questions Answered
 
 
 <div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
@@ -579,59 +430,45 @@ Thailand is generally safe for tourists, but petty theft and scams exist. Here's
   </div>
 </div>
 
-- **Snorkel gear** (can rent on islands, but bring your own if you prefer).
-- **Portable charger** for your phone.
-- **Earplugs** (for overnight buses/trains).
-- **Compression bags** to save luggage space.
 
----
+### How much should I budget for 7 days in Thailand?
 
-## 10. Best Time to Visit
+**Budget traveler:** 10,000–15,000 THB per day ($280–420 USD total) — hostels, street food, local transport, free/cheap attractions.
 
-| Season | Months | Weather | Pros | Cons |
-|--------|--------|---------|------|------|
-| **Cool & Dry** | Nov–Feb | 20–28°C (68–82°F) | Perfect weather, low humidity, best for activities | Peak season, higher prices, crowded |
-| **Hot** | Mar–Apr | 28–35°C (82–95°F) | Cheaper, fewer tourists, good for beach time | Very hot, some activities close, occasional rain |
-| **Monsoon** | May–Oct | 25–30°C (77–86°F), high humidity | Cheapest prices, lush landscapes, fewer tourists | Heavy rain (especially afternoon), some ferries cancelled, roads flooded |
+**Mid-range traveler:** 15,000–25,000 THB per day ($420–700 USD total) — decent hotels, restaurant meals, paid activities, occasional splurges.
 
-**Our recommendation:** November–February is ideal for first-timers. March–April is great for budget travelers who can handle heat. Avoid September–October (peak monsoon).
+**Luxury traveler:** 25,000+ THB per day ($700+ USD total) — upscale hotels, fine dining, private tours, premium experiences.
 
----
+### Do I need travel insurance?
 
-## Frequently Asked Questions
+Yes. Medical emergencies in Thailand can be expensive, and evacuation insurance is crucial if you're doing activities like diving or trekking. A week-long policy costs $20–50 USD. Get it before you leave home.
 
-### Do I need a visa to visit Thailand?
-Most Western nationalities (US, UK, EU, Canada, Australia) get 30–60 days visa-free. Check the [Thailand visa requirements](https://go2-thailand.com/visa/visa-free-entry/) for your specific passport. You must fill out the [Thailand Digital Arrival Card](https://tdac.immigration.go.th/arrival-card/#/home) 3 days before arrival.
+### Is it safe to travel alone?
 
-### What's the best way to exchange money?
-Use ATMs in cities (withdraw in THB, not USD). Exchange rates are better than at airport exchanges. Credit cards work in most restaurants and hotels but not street food vendors. Notify your bank before traveling.
+Absolutely. Thailand is one of the safest countries in Southeast Asia for solo travelers. Women and men both travel solo regularly. Use the same precautions you would at home—avoid walking alone late at night, keep valuables secure, and trust your instincts.
 
-### Is it safe to drink tap water?
-No. Buy bottled water (10–20 THB / ~$0.28–0.57 USD per bottle) or use a water filter. Ice in restaurants is usually safe (made from filtered water), but be cautious at street stalls.
+### Can I extend my stay beyond 7 days?
 
-### How do I stay connected?
-Buy a local SIM card at the airport (Dtac, AIS, True Move) for 100–200 THB / ~$2.85–5.70 USD with data packages. Or arrange a [Thailand eSIM](https://go2-thailand.com/esim/) before arrival. WiFi is widely available in hotels and cafes.
+Yes. You get 30–60 days visa-free depending on your nationality. If you want to stay longer, you can extend your stay at an Immigration office for a fee (1,900 THB / $54), or apply for a longer-term visa before you arrive.
 
-### What's the dress code?
-Dress modestly, especially at temples (covered shoulders, knees). Casual clothes are fine elsewhere. Swimwear is only for beaches/pools. Avoid wearing black to temples (it's associated with funerals).
+### What's the best way to get between islands?
 
-### Can I extend my stay if I fall in love with Thailand?
-Yes. Visit an immigration office in any city to extend your visa. Extensions cost 1,900 THB / ~$54 USD for a 30-day extension. You'll need your passport, a completed form, and a passport photo.
+Ferries are the standard. They're cheap, frequent, and reliable. Book at the pier or through your hotel. For longer distances (e.g., Phuket to Koh Tao), flying is faster and sometimes cheaper than ferries + buses.
+
+### Should I rent a scooter?
+
+Only if you're comfortable riding in traffic. Thai roads are chaotic, and accidents happen. If you do rent, wear a helmet (required by law), get comprehensive insurance, and avoid riding at night. Alternatively, use Grab or hire a driver for the day (800–1,500 THB / $23–43).
 
 ---
 
 ## Conclusion
 
-Seven days in Thailand is enough to taste its magic: the chaos of [Bangkok](https://go2-thailand.com/city/bangkok/), the spirituality of ancient temples, the warmth of island waters, and the generosity of its people. Whether you choose the Bangkok-North route for culture, the island-hopping route for beaches, or the cultural deep-dive for history and food, you'll leave Thailand changed.
+Seven days in Thailand isn't long, but it's enough to understand why millions of people fall in love with this country. Whether you choose the cultural immersion of the Bangkok-Ayutthaya-Chiang Mai route, the beach escape of Phuket and the islands, or the hidden gems of Kanchanaburi and Hua Hin, you'll leave with stories and a strong urge to return.
 
-**Start planning now.** Book your flights 6–8 weeks in advance, secure accommodation 4–6 weeks out, and fill out your [Thailand Digital Arrival Card](https://tdac.immigration.go.th/arrival-card/#/home) 3 days before arrival. Pack light, respect local customs, eat street food without fear, and talk to locals—they're the best guides.
+The key is choosing the itinerary that matches your travel style, booking your flights and first few nights in advance, and then letting the country surprise you. Thailand rewards flexibility. Stay longer in places you love. Skip places that don't resonate. Eat street food. Talk to locals. Get lost.
 
-For more detailed city guides, check out our [Bangkok](https://go2-thailand.com/city/bangkok/) and [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) resources. And if you're planning a longer stay, explore our [10-day and 14-day itineraries](https://go2-thailand.com/itineraries/).
+For more detailed planning, explore our [Thailand travel guides](https://go2-thailand.com/travel-guides/) and [city-specific itineraries](https://go2-thailand.com/itineraries/). And if you're still deciding between destinations, our [comparison guides](https://go2-thailand.com/compare/) can help you choose.
 
-**Ready to book?** Use the widgets above to search flights, accommodation, and activities. We've partnered with trusted platforms to ensure you get the best deals.
+**Ready to book?** Start with flights, then accommodation for your first 2–3 nights. Everything else will fall into place.
 
-*Have questions? Drop them in the comments below. We read every one.*
-
----
-
-**Trust Statement:** The Go2Thailand Team has spent over 15 years exploring Thailand—living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) for 3 years, island-hopping the south, and navigating [Bangkok](https://go2-thailand.com/city/bangkok/) as locals. This guide is built on real experience, current data, and feedback from thousands of travelers. We update our content regularly to reflect 2026 prices, transport changes, and travel conditions.
+*The Go2Thailand Team has lived and traveled throughout Thailand for over 15 years. We write from genuine experience, not guidebooks.*
