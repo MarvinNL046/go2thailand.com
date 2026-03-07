@@ -7,6 +7,9 @@ Sitemap: https://go2-thailand.com/sitemap-index.xml
 # RSS Feed
 Feed: https://go2-thailand.com/feed.xml
 
+# LLM Context (https://llmstxt.org/)
+LLMs-Txt: https://go2-thailand.com/llms.txt
+
 # Block common bot paths
 Disallow: /_next/
 Disallow: /api/
