@@ -128,5 +128,15 @@
     "cities": ["chiang-khan"],
     "highlights": ["Mekong River Views", "Morning Alms Giving", "Chiang Khan Skywalk", "Temple Festivals", "Boat Races", "Authentic Isaan Food", "Traditional Wooden Houses", "Sunset over Laos"],
     "budgetRange": "$300-1,500"
+  },
+  {
+    "slug": "14-days-complete-thailand",
+    "title": { "en": "14 Days Complete Thailand: Bangkok to the South", "nl": "14 Dagen Compleet Thailand: Bangkok tot het Zuiden" },
+    "duration": 14,
+    "region": "multi-region",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
+    "cities": ["bangkok", "ayutthaya", "chiang-mai", "phuket", "krabi"],
+    "highlights": ["Grand Palace", "Ayutthaya Ruins", "Doi Suthep", "Elephant Sanctuary", "Phi Phi Islands", "Railay Beach", "Thai Cooking Class", "Night Markets"],
+    "budgetRange": "$600-7,000"
   }
 ]

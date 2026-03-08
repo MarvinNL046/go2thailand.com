@@ -1,0 +1,614 @@
+{
+  "slug": "14-days-complete-thailand",
+  "title": {
+    "en": "14 Days Complete Thailand: Bangkok to the South",
+    "nl": "14 Dagen Compleet Thailand: Bangkok tot het Zuiden"
+  },
+  "duration": 14,
+  "region": "multi-region",
+  "budgetLevel": "all",
+  "description": {
+    "en": "The ultimate 2-week Thailand itinerary covering temples, culture, street food, mountains, and beaches. Start in Bangkok, explore ancient Ayutthaya, head north to Chiang Mai, then fly south to Phuket and Krabi for the perfect beach finale.",
+    "nl": "De ultieme 2-weken Thailand reisroute met tempels, cultuur, straateten, bergen en stranden. Begin in Bangkok, verken het oude Ayutthaya, ga naar het noorden voor Chiang Mai, en vlieg dan naar het zuiden voor Phuket en Krabi als perfecte strandfinale."
+  },
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "highlights": ["Grand Palace", "Ayutthaya Ruins", "Doi Suthep", "Elephant Sanctuary", "Phi Phi Islands", "Railay Beach", "Thai Cooking Class", "Night Markets"],
+  "cities": ["bangkok", "ayutthaya", "chiang-mai", "phuket", "krabi"],
+  "budget": {
+    "budget": { "total": "$600-900", "perDay": "$43-64", "currency": "THB", "totalThb": "21,000-31,500" },
+    "midrange": { "total": "$1,500-2,500", "perDay": "$107-179", "currency": "THB", "totalThb": "52,500-87,500" },
+    "luxury": { "total": "$4,000-7,000", "perDay": "$286-500", "currency": "THB", "totalThb": "140,000-245,000" }
+  },
+  "bestTimeToVisit": "November to February",
+  "days": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Arrive in Bangkok & Old City Temples",
+        "nl": "Aankomst in Bangkok & Tempels Oude Stad"
+      },
+      "city": "bangkok",
+      "activities": [
+        {
+          "name": { "en": "Grand Palace & Wat Phra Kaew", "nl": "Grand Palace & Wat Phra Kaew" },
+          "duration": "2-3 hours",
+          "cost": "500 THB ($15)",
+          "type": "cultural",
+          "tip": { "en": "Arrive at 8:30 AM opening to avoid crowds. Strict dress code: cover shoulders and knees.", "nl": "Kom bij opening om 8:30 om drukte te vermijden. Strikte dresscode: bedek schouders en knieën." }
+        },
+        {
+          "name": { "en": "Wat Pho (Reclining Buddha)", "nl": "Wat Pho (Liggende Boeddha)" },
+          "duration": "1-2 hours",
+          "cost": "200 THB ($6)",
+          "type": "cultural",
+          "tip": { "en": "10-minute walk from Grand Palace. Try the famous Thai massage school here (420 THB/hour).", "nl": "10 minuten lopen van Grand Palace. Probeer de beroemde Thaise massageschool hier (420 THB/uur)." }
+        },
+        {
+          "name": { "en": "Wat Arun (Temple of Dawn)", "nl": "Wat Arun (Tempel van de Dageraad)" },
+          "duration": "1 hour",
+          "cost": "100 THB ($3)",
+          "type": "cultural",
+          "tip": { "en": "Take the ferry (4 THB) from Wat Pho pier. Best photos at sunset.", "nl": "Neem de pont (4 THB) vanaf Wat Pho pier. Mooiste foto's bij zonsondergang." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Hotel breakfast or Jok (Thai rice porridge) from a street vendor — 40-60 THB", "nl": "Hotelontbijt of Jok (Thaise rijstpap) van een straatverkoper — 40-60 THB" },
+        "lunch": { "en": "Pad Thai at Thipsamai near the Grand Palace — 60-100 THB", "nl": "Pad Thai bij Thipsamai bij het Grand Palace — 60-100 THB" },
+        "dinner": { "en": "Chinatown (Yaowarat) street food crawl — grilled seafood, dim sum, mango sticky rice", "nl": "Chinatown (Yaowarat) streetfood tour — gegrilde zeevruchten, dim sum, mango sticky rice" }
+      },
+      "accommodation": {
+        "budget": { "en": "Hostel on Khao San Road — 400-600 THB/night", "nl": "Hostel aan Khao San Road — 400-600 THB/nacht" },
+        "midrange": { "en": "Boutique hotel in Banglamphu — 1,500-3,000 THB/night", "nl": "Boetiekhotel in Banglamphu — 1.500-3.000 THB/nacht" },
+        "luxury": { "en": "Mandarin Oriental Bangkok — 8,000+ THB/night", "nl": "Mandarin Oriental Bangkok — 8.000+ THB/nacht" }
+      },
+      "transport": { "en": "Airport Rail Link to BTS (45 THB), then BTS to your hotel. Taxi from Suvarnabhumi: 200-400 THB + tolls.", "nl": "Airport Rail Link naar BTS (45 THB), dan BTS naar je hotel. Taxi vanaf Suvarnabhumi: 200-400 THB + tol." }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Bangkok: Markets & Modern City",
+        "nl": "Bangkok: Markten & Moderne Stad"
+      },
+      "city": "bangkok",
+      "activities": [
+        {
+          "name": { "en": "Chatuchak Weekend Market", "nl": "Chatuchak Weekendmarkt" },
+          "duration": "3-4 hours",
+          "cost": "Free entry",
+          "type": "shopping",
+          "tip": { "en": "Over 15,000 stalls! Open Sat-Sun 9AM-6PM. JJ Mall next door has air conditioning.", "nl": "Meer dan 15.000 kraampjes! Open za-zo 9:00-18:00. JJ Mall ernaast heeft airco." }
+        },
+        {
+          "name": { "en": "Jim Thompson House Museum", "nl": "Jim Thompson Huis Museum" },
+          "duration": "1-1.5 hours",
+          "cost": "200 THB ($6)",
+          "type": "cultural",
+          "tip": { "en": "Guided tours in English every 20 minutes. Beautiful Thai teak house.", "nl": "Rondleidingen in het Engels elke 20 minuten. Prachtig Thais teakhouten huis." }
+        },
+        {
+          "name": { "en": "Rooftop Bar Sunset", "nl": "Rooftopbar Zonsondergang" },
+          "duration": "2 hours",
+          "cost": "300-800 THB per cocktail",
+          "type": "nightlife",
+          "tip": { "en": "Sky Bar at Lebua or Octave Rooftop at Marriott. Smart casual dress code.", "nl": "Sky Bar bij Lebua of Octave Rooftop bij Marriott. Smart casual dresscode." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Coconut pancakes (Khanom Buang) near Chatuchak — 40-80 THB", "nl": "Kokosnootpannenkoeken (Khanom Buang) bij Chatuchak — 40-80 THB" },
+        "lunch": { "en": "Som Tam and grilled chicken at Chatuchak food stalls — 80-150 THB", "nl": "Som Tam en gegrilde kip bij Chatuchak eetkraampjes — 80-150 THB" },
+        "dinner": { "en": "Somboon Seafood's famous curry crab — 800-1,200 THB for two", "nl": "Somboon Seafood's beroemde currykrab — 800-1.200 THB voor twee" }
+      },
+      "accommodation": {
+        "budget": { "en": "Hostel near BTS Sukhumvit line — 400-700 THB/night", "nl": "Hostel bij BTS Sukhumvit lijn — 400-700 THB/nacht" },
+        "midrange": { "en": "Hotel near Siam or Sukhumvit — 1,500-3,500 THB/night", "nl": "Hotel bij Siam of Sukhumvit — 1.500-3.500 THB/nacht" },
+        "luxury": { "en": "Siam Kempinski — 6,000-12,000 THB/night", "nl": "Siam Kempinski — 6.000-12.000 THB/nacht" }
+      },
+      "transport": { "en": "BTS Skytrain all day — get a 1-day pass (140 THB) or use Rabbit card.", "nl": "BTS Skytrain de hele dag — koop een dagpas (140 THB) of gebruik een Rabbit kaart." }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Ayutthaya Day Trip",
+        "nl": "Dagtrip Ayutthaya"
+      },
+      "city": "bangkok",
+      "activities": [
+        {
+          "name": { "en": "Ayutthaya Historical Park", "nl": "Ayutthaya Historisch Park" },
+          "duration": "Full day",
+          "cost": "220 THB combined ticket",
+          "type": "cultural",
+          "tip": { "en": "Rent a bicycle (50 THB/day) to explore the ruins at your own pace. The park is spread over a large area.", "nl": "Huur een fiets (50 THB/dag) om de ruïnes op je eigen tempo te verkennen. Het park is verspreid over een groot gebied." }
+        },
+        {
+          "name": { "en": "Wat Mahathat (Buddha Head in Tree)", "nl": "Wat Mahathat (Boeddhahoofd in Boom)" },
+          "duration": "1 hour",
+          "cost": "50 THB",
+          "type": "cultural",
+          "tip": { "en": "The famous Buddha head entwined in tree roots. Crouch below the head level for photos as a sign of respect.", "nl": "Het beroemde Boeddhahoofd verweven met boomwortels. Hurk onder het hoofdniveau voor foto's als teken van respect." }
+        },
+        {
+          "name": { "en": "Wat Phra Si Sanphet", "nl": "Wat Phra Si Sanphet" },
+          "duration": "1 hour",
+          "cost": "50 THB",
+          "type": "cultural",
+          "tip": { "en": "The three iconic chedis (stupas) — the symbol of Ayutthaya. Best photos in late afternoon light.", "nl": "De drie iconische chedis (stupa's) — het symbool van Ayutthaya. Mooiste foto's in het late middaglicht." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Early breakfast at hotel before departure — leave by 7 AM", "nl": "Vroeg ontbijt in hotel voor vertrek — vertrek om 7:00" },
+        "lunch": { "en": "Boat noodles near the ruins — 15-40 THB per bowl", "nl": "Boat noodles bij de ruïnes — 15-40 THB per kom" },
+        "dinner": { "en": "Back in Bangkok — dinner at a riverside restaurant", "nl": "Terug in Bangkok — diner bij een restaurant aan de rivier" }
+      },
+      "accommodation": {
+        "budget": { "en": "Same Bangkok hostel — 400-600 THB/night", "nl": "Zelfde Bangkok hostel — 400-600 THB/nacht" },
+        "midrange": { "en": "Same Bangkok hotel — 1,500-3,000 THB/night", "nl": "Zelfde Bangkok hotel — 1.500-3.000 THB/nacht" },
+        "luxury": { "en": "Same Bangkok hotel — 6,000+ THB/night", "nl": "Zelfde Bangkok hotel — 6.000+ THB/nacht" }
+      },
+      "transport": { "en": "Minivan from Victory Monument (60 THB, 1.5 hours) or train from Hua Lamphong (20-345 THB, 1.5-2 hours). Return by same method.", "nl": "Minibus vanaf Victory Monument (60 THB, 1,5 uur) of trein vanaf Hua Lamphong (20-345 THB, 1,5-2 uur). Terugreis op dezelfde manier." }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Fly to Chiang Mai & Night Market",
+        "nl": "Vliegen naar Chiang Mai & Nachtmarkt"
+      },
+      "city": "chiang-mai",
+      "activities": [
+        {
+          "name": { "en": "Fly Bangkok to Chiang Mai", "nl": "Vliegen Bangkok naar Chiang Mai" },
+          "duration": "1.5 hours",
+          "cost": "1,200-3,000 THB ($35-86)",
+          "type": "transport",
+          "tip": { "en": "AirAsia, Nok Air, and Thai Lion Air have frequent flights. Book 2-3 weeks ahead for best prices.", "nl": "AirAsia, Nok Air en Thai Lion Air hebben frequente vluchten. Boek 2-3 weken van tevoren voor de beste prijzen." }
+        },
+        {
+          "name": { "en": "Explore the Old City", "nl": "Verken de Oude Stad" },
+          "duration": "2-3 hours",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "Walk the moat-surrounded Old City. Over 30 temples within the walls — Wat Chedi Luang and Wat Phra Singh are the highlights.", "nl": "Wandel door de door grachten omgeven Oude Stad. Meer dan 30 tempels binnen de muren — Wat Chedi Luang en Wat Phra Singh zijn de hoogtepunten." }
+        },
+        {
+          "name": { "en": "Sunday Night Market (Walking Street)", "nl": "Zondagnachtmarkt (Walking Street)" },
+          "duration": "2-3 hours",
+          "cost": "Free entry",
+          "type": "shopping",
+          "tip": { "en": "Ratchadamnoen Road transforms into Chiang Mai's best market every Sunday 4-11 PM. Handmade crafts, street food, live music.", "nl": "Ratchadamnoen Road verandert elke zondag van 16:00-23:00 in Chiang Mai's beste markt. Handgemaakte ambachten, straateten, livemuziek." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Airport breakfast or grab a quick meal before your flight", "nl": "Ontbijt op het vliegveld of snel eten voor je vlucht" },
+        "lunch": { "en": "Khao Soi (Chiang Mai's signature curry noodles) at Khao Soi Khun Yai — 50-80 THB", "nl": "Khao Soi (Chiang Mai's kenmerkende currynoodels) bij Khao Soi Khun Yai — 50-80 THB" },
+        "dinner": { "en": "Street food at the Night Market — try Sai Oua (northern sausage) and Khanom Jeen", "nl": "Straateten op de Nachtmarkt — probeer Sai Oua (noordelijke worst) en Khanom Jeen" }
+      },
+      "accommodation": {
+        "budget": { "en": "Hostel in Old City — 250-500 THB/night", "nl": "Hostel in Oude Stad — 250-500 THB/nacht" },
+        "midrange": { "en": "Boutique hotel on Nimmanhaemin Road — 1,000-2,500 THB/night", "nl": "Boetiekhotel aan Nimmanhaemin Road — 1.000-2.500 THB/nacht" },
+        "luxury": { "en": "137 Pillars House or Rachamankha — 5,000-12,000 THB/night", "nl": "137 Pillars House of Rachamankha — 5.000-12.000 THB/nacht" }
+      },
+      "transport": { "en": "Songthaew (red truck) from airport to Old City — 150 THB fixed price. Or Grab — 100-200 THB.", "nl": "Songthaew (rode truck) van vliegveld naar Oude Stad — 150 THB vaste prijs. Of Grab — 100-200 THB." }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Doi Suthep & Thai Cooking Class",
+        "nl": "Doi Suthep & Thaise Kookles"
+      },
+      "city": "chiang-mai",
+      "activities": [
+        {
+          "name": { "en": "Doi Suthep Temple", "nl": "Doi Suthep Tempel" },
+          "duration": "2-3 hours",
+          "cost": "30 THB + songthaew 40 THB",
+          "type": "temple",
+          "tip": { "en": "306 steps up the Naga staircase to the golden temple. Go early morning for clear mountain views.", "nl": "306 treden via de Naga-trap naar de gouden tempel. Ga vroeg in de ochtend voor helder bergzicht." }
+        },
+        {
+          "name": { "en": "Thai Cooking Class", "nl": "Thaise Kookles" },
+          "duration": "4-5 hours",
+          "cost": "1,000-1,500 THB ($29-43)",
+          "type": "experience",
+          "tip": { "en": "Includes market visit. Learn to make Pad Thai, Green Curry, and Tom Yum. Book Mama Noi or Thai Farm Cooking School.", "nl": "Inclusief marktbezoek. Leer Pad Thai, Groene Curry en Tom Yum maken. Boek Mama Noi of Thai Farm Cooking School." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Coffee and pastry at Ristr8to (award-winning Chiang Mai cafe) — 100-200 THB", "nl": "Koffie en gebak bij Ristr8to (bekroond Chiang Mai café) — 100-200 THB" },
+        "lunch": { "en": "Included in cooking class — you eat what you cook!", "nl": "Inbegrepen bij kookles — je eet wat je kookt!" },
+        "dinner": { "en": "Huen Phen for authentic Northern Thai dinner — 150-300 THB/person", "nl": "Huen Phen voor authentiek Noord-Thais diner — 150-300 THB/persoon" }
+      },
+      "accommodation": {
+        "budget": { "en": "Same Chiang Mai hostel — 250-500 THB/night", "nl": "Zelfde Chiang Mai hostel — 250-500 THB/nacht" },
+        "midrange": { "en": "Same Nimmanhaemin hotel — 1,000-2,500 THB/night", "nl": "Zelfde Nimmanhaemin hotel — 1.000-2.500 THB/nacht" },
+        "luxury": { "en": "Same luxury hotel — 5,000-12,000 THB/night", "nl": "Zelfde luxehotel — 5.000-12.000 THB/nacht" }
+      },
+      "transport": { "en": "Songthaew to Doi Suthep from Old City — 40-60 THB. Most cooking schools offer free pickup.", "nl": "Songthaew naar Doi Suthep vanuit Oude Stad — 40-60 THB. De meeste kookscholen bieden gratis ophaalservice." }
+    },
+    {
+      "day": 6,
+      "title": {
+        "en": "Elephant Sanctuary & Nimman Evening",
+        "nl": "Olifantentuin & Nimman Avond"
+      },
+      "city": "chiang-mai",
+      "activities": [
+        {
+          "name": { "en": "Elephant Nature Park", "nl": "Elephant Nature Park" },
+          "duration": "Full day (7 AM - 5 PM)",
+          "cost": "2,500 THB ($71)",
+          "type": "nature",
+          "tip": { "en": "Ethical elephant sanctuary — no riding. Feed, bathe, and walk with rescued elephants. Book 1-2 weeks ahead in high season.", "nl": "Ethisch olifantenopvang — geen rijden. Voer, was en wandel met geredde olifanten. Boek 1-2 weken van tevoren in het hoogseizoen." }
+        },
+        {
+          "name": { "en": "Nimmanhaemin Road Cafes & Bars", "nl": "Nimmanhaemin Road Cafés & Bars" },
+          "duration": "Evening",
+          "cost": "200-500 THB",
+          "type": "nightlife",
+          "tip": { "en": "Chiang Mai's hippest street. Try craft beer at Beer Lab or cocktails at The Good View.", "nl": "De hipste straat van Chiang Mai. Probeer craft bier bij Beer Lab of cocktails bij The Good View." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Quick breakfast at hotel — early pickup for elephant park", "nl": "Snel ontbijt in hotel — vroege ophaalservice voor olifantenpark" },
+        "lunch": { "en": "Buffet lunch included at Elephant Nature Park", "nl": "Buffetlunch inbegrepen bij Elephant Nature Park" },
+        "dinner": { "en": "Tong Tem Toh on Nimmanhaemin for Northern Thai cuisine — 200-400 THB", "nl": "Tong Tem Toh aan Nimmanhaemin voor Noord-Thaise keuken — 200-400 THB" }
+      },
+      "accommodation": {
+        "budget": { "en": "Same Chiang Mai hostel — 250-500 THB/night", "nl": "Zelfde Chiang Mai hostel — 250-500 THB/nacht" },
+        "midrange": { "en": "Same Nimmanhaemin hotel — 1,000-2,500 THB/night", "nl": "Zelfde Nimmanhaemin hotel — 1.000-2.500 THB/nacht" },
+        "luxury": { "en": "Same luxury hotel — 5,000-12,000 THB/night", "nl": "Zelfde luxehotel — 5.000-12.000 THB/nacht" }
+      },
+      "transport": { "en": "Free hotel pickup/dropoff included with Elephant Nature Park booking.", "nl": "Gratis ophalen/terugbrengen bij hotel inbegrepen bij Elephant Nature Park boeking." }
+    },
+    {
+      "day": 7,
+      "title": {
+        "en": "Fly to Phuket & Patong Beach",
+        "nl": "Vliegen naar Phuket & Patong Beach"
+      },
+      "city": "phuket",
+      "activities": [
+        {
+          "name": { "en": "Fly Chiang Mai to Phuket", "nl": "Vliegen Chiang Mai naar Phuket" },
+          "duration": "2 hours",
+          "cost": "1,500-4,000 THB ($43-114)",
+          "type": "transport",
+          "tip": { "en": "Direct flights available with AirAsia and Thai Smile. Book early for best prices.", "nl": "Directe vluchten beschikbaar met AirAsia en Thai Smile. Boek vroeg voor de beste prijzen." }
+        },
+        {
+          "name": { "en": "Patong Beach", "nl": "Patong Beach" },
+          "duration": "Afternoon",
+          "cost": "Free (sunbed rental 200 THB)",
+          "type": "beach",
+          "tip": { "en": "The most famous beach in Phuket. Great for swimming and people-watching. Busy but fun.", "nl": "Het beroemdste strand van Phuket. Geweldig om te zwemmen en mensen te kijken. Druk maar leuk." }
+        },
+        {
+          "name": { "en": "Bangla Road Nightlife", "nl": "Bangla Road Nachtleven" },
+          "duration": "Evening",
+          "cost": "200-500 THB for drinks",
+          "type": "nightlife",
+          "tip": { "en": "Phuket's party street comes alive after 9 PM. Great for a walkthrough even if nightlife isn't your thing.", "nl": "De feeststraat van Phuket komt tot leven na 21:00. Leuk om doorheen te lopen, ook als nachtleven niet je ding is." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Airport or hotel breakfast before flight", "nl": "Ontbijt op vliegveld of in hotel voor de vlucht" },
+        "lunch": { "en": "Fresh seafood at a beach restaurant — 200-500 THB", "nl": "Verse zeevruchten bij een strandrestaurant — 200-500 THB" },
+        "dinner": { "en": "Baan Rim Pa for Thai cuisine with ocean views — 400-800 THB/person", "nl": "Baan Rim Pa voor Thaise keuken met uitzicht op de oceaan — 400-800 THB/persoon" }
+      },
+      "accommodation": {
+        "budget": { "en": "Hostel in Patong — 400-800 THB/night", "nl": "Hostel in Patong — 400-800 THB/nacht" },
+        "midrange": { "en": "Beach hotel in Kata or Karon — 1,500-4,000 THB/night", "nl": "Strandhotel in Kata of Karon — 1.500-4.000 THB/nacht" },
+        "luxury": { "en": "Trisara or Amanpuri — 10,000-35,000 THB/night", "nl": "Trisara of Amanpuri — 10.000-35.000 THB/nacht" }
+      },
+      "transport": { "en": "Airport minibus to Patong — 200 THB. Or Grab — 500-800 THB.", "nl": "Vliegveldminibus naar Patong — 200 THB. Of Grab — 500-800 THB." }
+    },
+    {
+      "day": 8,
+      "title": {
+        "en": "Phi Phi Islands Day Trip",
+        "nl": "Dagtrip Phi Phi Eilanden"
+      },
+      "city": "phuket",
+      "activities": [
+        {
+          "name": { "en": "Phi Phi Islands by Speedboat", "nl": "Phi Phi Eilanden per Speedboot" },
+          "duration": "Full day (7 AM - 5 PM)",
+          "cost": "1,500-3,000 THB ($43-86)",
+          "type": "nature",
+          "tip": { "en": "Includes Maya Bay, Pileh Lagoon, snorkeling stops, and Monkey Beach. Book a small-group tour for a better experience.", "nl": "Inclusief Maya Bay, Pileh Lagoon, snorkelstops en Monkey Beach. Boek een tour in kleine groep voor een betere ervaring." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Early hotel breakfast — tours depart around 7 AM", "nl": "Vroeg hotelontbijt — tours vertrekken rond 7:00" },
+        "lunch": { "en": "Included in most Phi Phi tour packages — buffet on Phi Phi Don", "nl": "Inbegrepen bij de meeste Phi Phi tourpakketten — buffet op Phi Phi Don" },
+        "dinner": { "en": "Phuket Old Town — try Raya Restaurant for local Phuketian cuisine — 200-500 THB", "nl": "Phuket Old Town — probeer Raya Restaurant voor lokale Phuketaanse keuken — 200-500 THB" }
+      },
+      "accommodation": {
+        "budget": { "en": "Same Phuket hostel — 400-800 THB/night", "nl": "Zelfde Phuket hostel — 400-800 THB/nacht" },
+        "midrange": { "en": "Same beach hotel — 1,500-4,000 THB/night", "nl": "Zelfde strandhotel — 1.500-4.000 THB/nacht" },
+        "luxury": { "en": "Same luxury resort — 10,000+ THB/night", "nl": "Zelfde luxeresort — 10.000+ THB/nacht" }
+      },
+      "transport": { "en": "Tour includes hotel pickup and return. Book through hotel or local tour office.", "nl": "Tour inclusief ophalen en terugbrengen bij hotel. Boek via hotel of lokaal tourburo." }
+    },
+    {
+      "day": 9,
+      "title": {
+        "en": "Big Buddha & Phuket Old Town",
+        "nl": "Big Buddha & Phuket Old Town"
+      },
+      "city": "phuket",
+      "activities": [
+        {
+          "name": { "en": "Big Buddha Phuket", "nl": "Big Buddha Phuket" },
+          "duration": "1.5 hours",
+          "cost": "Free (donation appreciated)",
+          "type": "temple",
+          "tip": { "en": "45-meter marble statue visible from all over Phuket. Dress modestly — cover shoulders and knees. Go early for clear views.", "nl": "45 meter marmeren standbeeld zichtbaar vanuit heel Phuket. Kleed je bescheiden — bedek schouders en knieën. Ga vroeg voor helder uitzicht." }
+        },
+        {
+          "name": { "en": "Phuket Old Town Walking Tour", "nl": "Phuket Old Town Wandeltour" },
+          "duration": "2-3 hours",
+          "cost": "Free",
+          "type": "cultural",
+          "tip": { "en": "Colorful Sino-Portuguese shophouses, street art, and local cafes. Thalang Road and Soi Romanee are the highlights.", "nl": "Kleurrijke Sino-Portugese winkelpanden, straatkunst en lokale cafés. Thalang Road en Soi Romanee zijn de hoogtepunten." }
+        },
+        {
+          "name": { "en": "Kata or Karon Beach", "nl": "Kata of Karon Beach" },
+          "duration": "Afternoon",
+          "cost": "Free",
+          "type": "beach",
+          "tip": { "en": "Quieter alternatives to Patong. Kata is great for beginners' surfing (June-October).", "nl": "Rustiger alternatieven voor Patong. Kata is geweldig voor beginnerssurfen (juni-oktober)." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Hotel breakfast or local cafe", "nl": "Hotelontbijt of lokaal café" },
+        "lunch": { "en": "Blue Elephant in Old Town — upscale Thai cuisine in a restored mansion — 300-600 THB", "nl": "Blue Elephant in Old Town — chique Thaise keuken in een gerestaureerd herenhuis — 300-600 THB" },
+        "dinner": { "en": "Fresh seafood at Bang Pae Seafood — grilled prawns and fish, 400-800 THB for two", "nl": "Verse zeevruchten bij Bang Pae Seafood — gegrilde garnalen en vis, 400-800 THB voor twee" }
+      },
+      "accommodation": {
+        "budget": { "en": "Same Phuket hostel — 400-800 THB/night", "nl": "Zelfde Phuket hostel — 400-800 THB/nacht" },
+        "midrange": { "en": "Same beach hotel — 1,500-4,000 THB/night", "nl": "Zelfde strandhotel — 1.500-4.000 THB/nacht" },
+        "luxury": { "en": "Same luxury resort — 10,000+ THB/night", "nl": "Zelfde luxeresort — 10.000+ THB/nacht" }
+      },
+      "transport": { "en": "Rent a scooter (250-350 THB/day) or use Grab for flexibility.", "nl": "Huur een scooter (250-350 THB/dag) of gebruik Grab voor flexibiliteit." }
+    },
+    {
+      "day": 10,
+      "title": {
+        "en": "Travel to Krabi & Ao Nang",
+        "nl": "Reizen naar Krabi & Ao Nang"
+      },
+      "city": "krabi",
+      "activities": [
+        {
+          "name": { "en": "Ferry Phuket to Krabi", "nl": "Veerboot Phuket naar Krabi" },
+          "duration": "2-3 hours",
+          "cost": "450-800 THB ($13-23)",
+          "type": "transport",
+          "tip": { "en": "Daily ferries from Rassada Pier. Book through 12Go.asia for best prices. Minivan option also available (2 hours, 300 THB).", "nl": "Dagelijkse veerboten vanaf Rassada Pier. Boek via 12Go.asia voor de beste prijzen. Minibus optie ook beschikbaar (2 uur, 300 THB)." }
+        },
+        {
+          "name": { "en": "Ao Nang Beach & Town", "nl": "Ao Nang Beach & Stad" },
+          "duration": "Afternoon",
+          "cost": "Free",
+          "type": "beach",
+          "tip": { "en": "The main tourist hub of Krabi. Nice beach with dramatic limestone cliffs as backdrop. Good swimming.", "nl": "Het belangrijkste toeristisch centrum van Krabi. Mooi strand met dramatische kalksteenrotsen als achtergrond. Goed zwemmen." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Phuket hotel breakfast before checkout", "nl": "Phuket hotelontbijt voor uitchecken" },
+        "lunch": { "en": "Ferry or grab lunch on arrival in Ao Nang — 80-200 THB", "nl": "Veerboot of lunch bij aankomst in Ao Nang — 80-200 THB" },
+        "dinner": { "en": "Lae Lay Grill — seafood restaurant with stunning cliff-top sunset views — 300-600 THB", "nl": "Lae Lay Grill — visrestaurant met prachtig uitzicht op de rotsen bij zonsondergang — 300-600 THB" }
+      },
+      "accommodation": {
+        "budget": { "en": "Hostel in Ao Nang — 300-600 THB/night", "nl": "Hostel in Ao Nang — 300-600 THB/nacht" },
+        "midrange": { "en": "Hotel in Ao Nang — 1,000-3,000 THB/night", "nl": "Hotel in Ao Nang — 1.000-3.000 THB/nacht" },
+        "luxury": { "en": "Rayavadee Resort — 12,000-30,000 THB/night", "nl": "Rayavadee Resort — 12.000-30.000 THB/nacht" }
+      },
+      "transport": { "en": "Ferry to Krabi, then songthaew or Grab to Ao Nang (100-200 THB).", "nl": "Veerboot naar Krabi, dan songthaew of Grab naar Ao Nang (100-200 THB)." }
+    },
+    {
+      "day": 11,
+      "title": {
+        "en": "Railay Beach & Rock Climbing",
+        "nl": "Railay Beach & Rotsklimmen"
+      },
+      "city": "krabi",
+      "activities": [
+        {
+          "name": { "en": "Railay Beach", "nl": "Railay Beach" },
+          "duration": "Full day",
+          "cost": "200 THB longtail boat from Ao Nang",
+          "type": "beach",
+          "tip": { "en": "Only accessible by boat. Railay West has the best swimming, Phra Nang Beach has the cave shrine. Go early to claim a good spot.", "nl": "Alleen bereikbaar per boot. Railay West heeft het beste zwemwater, Phra Nang Beach heeft de grotschrijn. Ga vroeg voor een goede plek." }
+        },
+        {
+          "name": { "en": "Rock Climbing at Railay", "nl": "Rotsklimmen bij Railay" },
+          "duration": "3-4 hours",
+          "cost": "1,000-2,000 THB ($29-57)",
+          "type": "nature",
+          "tip": { "en": "World-famous limestone cliffs with routes for all levels. Half-day courses for beginners include gear and instructor.", "nl": "Wereldberoemde kalksteenrotsen met routes voor alle niveaus. Halvedaagse cursussen voor beginners inclusief uitrusting en instructeur." }
+        },
+        {
+          "name": { "en": "Phra Nang Cave Beach", "nl": "Phra Nang Grotstrand" },
+          "duration": "1-2 hours",
+          "cost": "Free",
+          "type": "beach",
+          "tip": { "en": "Stunning beach with a cave shrine. Often ranked among the best beaches in the world.", "nl": "Prachtig strand met een grotschrijn. Vaak gerangschikt als een van de mooiste stranden ter wereld." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Hotel breakfast then head to Ao Nang pier", "nl": "Hotelontbijt, daarna naar de pier van Ao Nang" },
+        "lunch": { "en": "Beach restaurant on Railay — Thai fried rice or seafood — 150-300 THB", "nl": "Strandrestaurant op Railay — Thaise gebakken rijst of zeevruchten — 150-300 THB" },
+        "dinner": { "en": "The Hilltop in Ao Nang — international and Thai food with valley views — 250-500 THB", "nl": "The Hilltop in Ao Nang — internationale en Thaise keuken met uitzicht op de vallei — 250-500 THB" }
+      },
+      "accommodation": {
+        "budget": { "en": "Same Ao Nang hostel — 300-600 THB/night", "nl": "Zelfde Ao Nang hostel — 300-600 THB/nacht" },
+        "midrange": { "en": "Same Ao Nang hotel — 1,000-3,000 THB/night", "nl": "Zelfde Ao Nang hotel — 1.000-3.000 THB/nacht" },
+        "luxury": { "en": "Same luxury resort — 12,000+ THB/night", "nl": "Zelfde luxeresort — 12.000+ THB/nacht" }
+      },
+      "transport": { "en": "Longtail boat Ao Nang → Railay — 200 THB return per person. Boats leave from Ao Nang beach.", "nl": "Longtail boot Ao Nang → Railay — 200 THB retour per persoon. Boten vertrekken vanaf Ao Nang strand." }
+    },
+    {
+      "day": 12,
+      "title": {
+        "en": "Four Islands Tour",
+        "nl": "Vier Eilanden Tour"
+      },
+      "city": "krabi",
+      "activities": [
+        {
+          "name": { "en": "4 Islands by Longtail Boat", "nl": "4 Eilanden per Longtail Boot" },
+          "duration": "Full day (8 AM - 4 PM)",
+          "cost": "800-1,500 THB ($23-43)",
+          "type": "nature",
+          "tip": { "en": "Visit Koh Tup, Chicken Island, Koh Poda, and Phra Nang Beach. The sandbar between Tup and Chicken Island is magical at low tide.", "nl": "Bezoek Koh Tup, Chicken Island, Koh Poda en Phra Nang Beach. De zandbank tussen Tup en Chicken Island is magisch bij eb." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Hotel breakfast before tour pickup at 8 AM", "nl": "Hotelontbijt voor tour ophaalservice om 8:00" },
+        "lunch": { "en": "Picnic lunch included on most tour packages — on the beach at Koh Poda", "nl": "Picknicklunch inbegrepen bij de meeste tourpakketten — op het strand van Koh Poda" },
+        "dinner": { "en": "Krabi Town Night Market — grilled seafood skewers, papaya salad, roti — 100-300 THB", "nl": "Krabi Town Nachtmarkt — gegrilde zeevruchtenspiesen, papajasalade, roti — 100-300 THB" }
+      },
+      "accommodation": {
+        "budget": { "en": "Same Ao Nang hostel — 300-600 THB/night", "nl": "Zelfde Ao Nang hostel — 300-600 THB/nacht" },
+        "midrange": { "en": "Same Ao Nang hotel — 1,000-3,000 THB/night", "nl": "Zelfde Ao Nang hotel — 1.000-3.000 THB/nacht" },
+        "luxury": { "en": "Same luxury resort — 12,000+ THB/night", "nl": "Zelfde luxeresort — 12.000+ THB/nacht" }
+      },
+      "transport": { "en": "Tour includes Ao Nang hotel pickup and return.", "nl": "Tour inclusief ophalen en terugbrengen bij Ao Nang hotel." }
+    },
+    {
+      "day": 13,
+      "title": {
+        "en": "Tiger Cave Temple & Emerald Pool",
+        "nl": "Tiger Cave Tempel & Emerald Pool"
+      },
+      "city": "krabi",
+      "activities": [
+        {
+          "name": { "en": "Tiger Cave Temple (Wat Tham Suea)", "nl": "Tiger Cave Tempel (Wat Tham Suea)" },
+          "duration": "2-3 hours",
+          "cost": "Free",
+          "type": "temple",
+          "tip": { "en": "1,237 steps to the top for a 360° panoramic view. Start early morning to avoid the midday heat. Bring water!", "nl": "1.237 treden naar de top voor een 360° panoramisch uitzicht. Begin vroeg in de ochtend om de middaghitte te vermijden. Neem water mee!" }
+        },
+        {
+          "name": { "en": "Emerald Pool & Blue Pool", "nl": "Emerald Pool & Blue Pool" },
+          "duration": "2-3 hours",
+          "cost": "200 THB ($6)",
+          "type": "nature",
+          "tip": { "en": "Crystal-clear natural pools in the jungle. The Blue Pool has the most intense color. Arrive before 10 AM to beat the crowds.", "nl": "Kristalhelder natuurlijke zwembaden in de jungle. De Blue Pool heeft de meest intense kleur. Kom voor 10:00 om de drukte voor te zijn." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Quick hotel breakfast — leave early for Tiger Cave", "nl": "Snel hotelontbijt — vertrek vroeg voor Tiger Cave" },
+        "lunch": { "en": "Local restaurant near Emerald Pool — Pad Thai or fried rice — 60-120 THB", "nl": "Lokaal restaurant bij Emerald Pool — Pad Thai of gebakken rijst — 60-120 THB" },
+        "dinner": { "en": "Farewell dinner at Ao Nang — choose your favorite from the trip", "nl": "Afscheidsdiner in Ao Nang — kies je favoriet van de reis" }
+      },
+      "accommodation": {
+        "budget": { "en": "Same Ao Nang hostel — 300-600 THB/night", "nl": "Zelfde Ao Nang hostel — 300-600 THB/nacht" },
+        "midrange": { "en": "Same Ao Nang hotel — 1,000-3,000 THB/night", "nl": "Zelfde Ao Nang hotel — 1.000-3.000 THB/nacht" },
+        "luxury": { "en": "Same luxury resort — 12,000+ THB/night", "nl": "Zelfde luxeresort — 12.000+ THB/nacht" }
+      },
+      "transport": { "en": "Rent a scooter (200-300 THB/day) or hire a songthaew (1,500-2,000 THB for a half-day private tour).", "nl": "Huur een scooter (200-300 THB/dag) of huur een songthaew (1.500-2.000 THB voor een halvedaagse privétour)." }
+    },
+    {
+      "day": 14,
+      "title": {
+        "en": "Departure from Krabi",
+        "nl": "Vertrek vanuit Krabi"
+      },
+      "city": "krabi",
+      "activities": [
+        {
+          "name": { "en": "Morning Beach Walk", "nl": "Ochtendstrandwandeling" },
+          "duration": "1-2 hours",
+          "cost": "Free",
+          "type": "nature",
+          "tip": { "en": "Last chance to enjoy the Andaman Sea. Ao Nang beach is peaceful in the early morning.", "nl": "Laatste kans om van de Andamanzee te genieten. Ao Nang strand is vredig in de vroege ochtend." }
+        },
+        {
+          "name": { "en": "Souvenir Shopping & Last Meal", "nl": "Souvenirs Winkelen & Laatste Maaltijd" },
+          "duration": "2-3 hours",
+          "cost": "Varies",
+          "type": "shopping",
+          "tip": { "en": "Pick up Thai spices, coconut oil, elephant pants, or locally made crafts. Negotiate at markets — start at 50% of asking price.", "nl": "Koop Thaise kruiden, kokosolie, olifantenbroeken of lokaal gemaakte ambachten. Onderhandel op markten — begin bij 50% van de vraagprijs." }
+        }
+      ],
+      "meals": {
+        "breakfast": { "en": "Last Thai breakfast — enjoy one final Khao Soi or Pad Krapao", "nl": "Laatste Thaise ontbijt — geniet van een laatste Khao Soi of Pad Krapao" },
+        "lunch": { "en": "Fresh seafood at a beachfront restaurant — last splurge — 300-600 THB", "nl": "Verse zeevruchten bij een strandrestaurant — laatste uitpakmoment — 300-600 THB" },
+        "dinner": { "en": "Airport or plane food (or late flight with dinner before)", "nl": "Vliegveld- of vliegtuigeten (of late vlucht met diner ervoor)" }
+      },
+      "accommodation": {
+        "budget": { "en": "Check out — fly home", "nl": "Uitchecken — naar huis vliegen" },
+        "midrange": { "en": "Check out — fly home", "nl": "Uitchecken — naar huis vliegen" },
+        "luxury": { "en": "Check out — fly home", "nl": "Uitchecken — naar huis vliegen" }
+      },
+      "transport": { "en": "Grab or airport shuttle from Ao Nang to Krabi Airport — 400-600 THB (30 minutes). Direct flights to Bangkok or international connections.", "nl": "Grab of luchthavenbus van Ao Nang naar Krabi Airport — 400-600 THB (30 minuten). Directe vluchten naar Bangkok of internationale aansluitingen." }
+    }
+  ],
+  "transportBetweenCities": [
+    {
+      "from": "bangkok",
+      "to": "ayutthaya",
+      "options": [
+        { "mode": "minivan", "duration": "1.5 hours", "cost": "60" },
+        { "mode": "train", "duration": "1.5-2 hours", "cost": "20-345" }
+      ]
+    },
+    {
+      "from": "bangkok",
+      "to": "chiang-mai",
+      "options": [
+        { "mode": "flight", "duration": "1.5 hours", "cost": "1,200-3,000" },
+        { "mode": "train", "duration": "13 hours", "cost": "800-1,500" }
+      ]
+    },
+    {
+      "from": "chiang-mai",
+      "to": "phuket",
+      "options": [
+        { "mode": "flight", "duration": "2 hours", "cost": "1,500-4,000" }
+      ]
+    },
+    {
+      "from": "phuket",
+      "to": "krabi",
+      "options": [
+        { "mode": "ferry", "duration": "2 hours", "cost": "450-800" },
+        { "mode": "minivan", "duration": "2 hours", "cost": "300" }
+      ]
+    }
+  ],
+  "packingTips": {
+    "en": [
+      "Comfortable walking shoes for temples and ruins",
+      "Light breathable clothing (cotton or moisture-wicking)",
+      "Modest temple wear — cover shoulders and knees",
+      "Swimsuit and rash guard for island days",
+      "Reef-safe sunscreen (SPF 50+)",
+      "Small daypack for day trips and island hopping",
+      "Waterproof phone case for boat trips",
+      "Travel adapter (Thailand uses types A, B, C, and O plugs)",
+      "Insect repellent (especially for Chiang Mai evenings)",
+      "Quick-dry towel for beaches"
+    ],
+    "nl": [
+      "Comfortabele wandelschoenen voor tempels en ruïnes",
+      "Lichte ademende kleding (katoen of vochtafvoerend)",
+      "Bescheiden tempelkleding — bedek schouders en knieën",
+      "Zwemkleding en rashguard voor eilanddagen",
+      "Rifveilige zonnebrand (SPF 50+)",
+      "Kleine dagrugzak voor dagtrips en eilandhoppen",
+      "Waterdicht telefoonhoesje voor boottochten",
+      "Reisstekkeradapter (Thailand gebruikt type A, B, C en O stekkers)",
+      "Insectenspray (vooral voor Chiang Mai avonden)",
+      "Sneldrogende handdoek voor stranden"
+    ]
+  },
+  "seo": {
+    "metaTitle": { "en": "14 Days Thailand Itinerary 2026: Bangkok, Chiang Mai, Phuket & Krabi", "nl": "14 Dagen Thailand Reisschema 2026: Bangkok, Chiang Mai, Phuket & Krabi" },
+    "metaDescription": { "en": "The perfect 2-week Thailand itinerary. Day-by-day guide covering Bangkok temples, Ayutthaya ruins, Chiang Mai elephants, Phuket beaches, and Krabi islands — with costs for every budget.", "nl": "Het perfecte 2-weken Thailand reisschema. Dag-voor-dag gids met Bangkok tempels, Ayutthaya ruïnes, Chiang Mai olifanten, Phuket stranden en Krabi eilanden — met kosten voor elk budget." }
+  },
+  "tags": ["14 days", "2 weeks", "bangkok", "ayutthaya", "chiang mai", "phuket", "krabi", "complete", "temples", "beaches", "islands", "culture", "food"]
+}

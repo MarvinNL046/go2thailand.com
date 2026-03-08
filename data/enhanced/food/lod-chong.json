@@ -10,8 +10,8 @@
   "region": "southern",
   "spice_level": "none",
   "description": {
-    "en": "Ancient Thai dessert of green pandan jelly noodles in sweet coconut milk, dating back to King Narai's reign (1672)",
-    "nl": "Eeuwenoud Thais dessert van groene pandan geleinoedels in zoete kokosmelk, daterend uit het bewind van koning Narai (1672)"
+    "en": "Pandan jelly noodles in coconut milk",
+    "nl": "Pandan gelei noedels in kokosmelk"
   },
   "ingredients": [
     "rice flour",
@@ -30,12 +30,12 @@
   "price_range": "budget",
   "seo": {
     "metaTitle": {
-      "en": "Lod Chong (ลอดช่อง): Thailand's Ancient Pandan Coconut Dessert — Recipe & History",
-      "nl": "Lod Chong (ลอดช่อง): Thailand's Eeuwenoude Pandan Kokos Dessert — Recept & Geschiedenis"
+      "en": "Lod Chong Recipe | Authentic Thai dessert",
+      "nl": "Lod Chong Recept | Authentieke Thaise dessert"
     },
     "metaDescription": {
-      "en": "Lod Chong is a Thai dessert dating back to King Narai's reign (1672). Green pandan jelly noodles in sweet coconut milk, from 30 THB at street stalls. Recipe, history & where to find it.",
-      "nl": "Lod Chong is een Thais dessert dat teruggaat tot het bewind van koning Narai (1672). Groene pandan geleinoedels in zoete kokosmelk, vanaf 30 THB bij straatkraampjes. Recept, geschiedenis & waar te vinden."
+      "en": "Learn about Lod Chong (ลอดช่อง) - Pandan jelly noodles in coconut milk...",
+      "nl": "Leer over Lod Chong (ลอดช่อง) - Pandan gelei noedels in kokosmelk..."
     }
   },
   "tags": [
@@ -186,5 +186,8 @@
     }
   },
   "lastUpdated": "2026-03-03",
-  "sources": ["Wikipedia - Cendol", "Thai cultural heritage records"]
+  "sources": [
+    "Wikipedia - Cendol",
+    "Thai cultural heritage records"
+  ]
 }

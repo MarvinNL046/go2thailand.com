@@ -10,16 +10,14 @@
   "region": "southern",
   "spice_level": "none",
   "description": {
-    "en": "Phuket's iconic Hokkien-Chinese shaved ice dessert made with o-aew seed jelly from the creeping fig plant (Ficus pumila)",
-    "nl": "Phuket's iconisch Hokkien-Chinees geschaafd ijs dessert gemaakt met o-aew zadgelei van de kruipende vijgplant (Ficus pumila)"
+    "en": "Shaved ice dessert with jelly made from banana flour",
+    "nl": "IJsdessert met gelei van bananenmeel"
   },
   "ingredients": [
-    "o-aew seed jelly",
+    "banana flour jelly",
     "shaved ice",
-    "red beans",
-    "grass jelly",
-    "palm sugar syrup",
-    "food coloring"
+    "syrup",
+    "coconut milk"
   ],
   "allergens": [],
   "dietary": [
@@ -33,17 +31,17 @@
     "Mark Wiens / EatingThaiFood.com",
     "Expique - Phuket Traditional Desserts"
   ],
-  "preparation_time": "8+ hours (1 hour soaking + 7 hours setting + assembly)",
-  "difficulty": "medium",
+  "preparation_time": "15 minutes",
+  "difficulty": "easy",
   "price_range": "budget",
   "seo": {
     "metaTitle": {
-      "en": "Oh Aew (โอ้เอ๋ว): Phuket's Famous Shaved Ice Dessert — Where to Find It",
-      "nl": "Oh Aew (โอ้เอ๋ว): Phuket's Beroemde Geschaafd IJs Dessert — Waar te Vinden"
+      "en": "Oh Aew Recipe | Authentic Thai dessert",
+      "nl": "Oh Aew Recept | Authentieke Thaise dessert"
     },
     "metaDescription": {
-      "en": "Oh Aew is a Hokkien-Chinese shaved ice dessert found only in Phuket Old Town. Made from creeping fig seeds, red beans, and grass jelly. From 15 THB at traditional stalls.",
-      "nl": "Oh Aew is een Hokkien-Chinees geschaafd ijs dessert dat alleen te vinden is in Phuket Old Town. Gemaakt van kruipende vijgzaden, rode bonen en grassgelei. Vanaf 15 THB bij traditionele kraampjes."
+      "en": "Learn about Oh Aew (โอ้เอ๋ว) - Shaved ice dessert with jelly made from banana flour...",
+      "nl": "Leer over Oh Aew (โอ้เอ๋ว) - IJsdessert met gelei van bananenmeel..."
     }
   },
   "tags": [
@@ -51,16 +49,15 @@
     "thailand",
     "dessert",
     "southern",
-    "phuket",
-    "hokkien-chinese",
+    "easy",
     "budget",
-    "o-aew-seed-jelly",
+    "banana-flour jelly",
     "shaved-ice",
-    "peranakan"
+    "syrup"
   ],
   "cooking": {
-    "preparation_time": "8+ hours (1 hour soaking + 7 hours setting + assembly)",
-    "difficulty": "medium",
+    "preparation_time": "15 minutes",
+    "difficulty": "easy",
     "spice_level": "none",
     "serves": "2-4 people"
   },
