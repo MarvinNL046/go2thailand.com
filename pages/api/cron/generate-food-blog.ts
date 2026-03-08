@@ -82,8 +82,8 @@ async function getNextFoodTopic(): Promise<FoodTopic | null> {
       return b.searchVolume - a.searchVolume;
     });
 
-    // Match by significant words from targetKeyword (strip stop words)
-    const STOP_WORDS = new Set(["in", "the", "a", "an", "of", "for", "to", "and", "or", "is", "vs", "at", "on"]);
+    // Match by significant words from targetKeyword AND topic title (same logic as content-generator)
+    const STOP_WORDS = new Set(["in", "the", "a", "an", "of", "for", "to", "and", "or", "is", "vs", "at", "on", "per", "your", "you", "best", "top", "guide", "complete", "ultimate", "2026", "2025"]);
     const existingSlugList = [...existingSlugs];
 
     for (const item of sorted) {
@@ -92,8 +92,18 @@ async function getNextFoodTopic(): Promise<FoodTopic | null> {
         .split(/\s+/)
         .filter((w) => !STOP_WORDS.has(w) && w.length > 1);
 
+      // Also extract significant words from topic title (catches more variations)
+      const topicWords = item.topic
+        .toLowerCase()
+        .split(/[\s:—\-,]+/)
+        .filter((w) => !STOP_WORDS.has(w) && w.length > 2);
+
+      // Either ALL keyword words match, or 60%+ of topic title words match
       const alreadyPublished = existingSlugList.some((slug) => {
-        return keywordWords.every((word) => slug.includes(word));
+        const allKeywordsMatch = keywordWords.length > 0 && keywordWords.every((word) => slug.includes(word));
+        const topicMatchCount = topicWords.filter((word) => slug.includes(word)).length;
+        const topicMatchRatio = topicWords.length > 0 ? topicMatchCount / topicWords.length : 0;
+        return allKeywordsMatch || (topicMatchCount >= 3 && topicMatchRatio >= 0.5);
       });
 
       if (!alreadyPublished) {
