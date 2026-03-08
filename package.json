@@ -28,6 +28,7 @@
     "scrape:hotels": "tsx scripts/scrape-hotels.ts",
     "scrape:restaurants": "tsx scripts/scrape-restaurants.ts",
     "factcheck:cities": "tsx scripts/factcheck-cities.ts",
+    "factcheck:attractions": "tsx scripts/factcheck-attractions.ts",
     "enhance-full": "node lib/enhance-content.js full",
     "enhance-quick": "node lib/enhance-content.js quick",
     "enhance-stats": "node lib/enhance-content.js stats",
