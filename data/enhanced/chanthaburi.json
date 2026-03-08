@@ -11,7 +11,7 @@
     "en": "Known as the gem capital of Thailand, Chanthaburi is a charming eastern city with a thriving gem market, magnificent cathedral, tropical fruit orchards, and French-Vietnamese colonial architecture along the scenic Chanthaburi River.",
     "nl": "Bekend als de edelsteenhoofdstad van Thailand, Chanthaburi is een charmante oostelijke stad met een bloeiende edelsteenmarkt, prachtige kathedraal, tropische fruitboomgaarden en Frans-Vietnamese koloniale architectuur langs de schilderachtige Chanthaburi rivier."
   },
-  "population": 75000,
+  "population": 35897,
   "highlights": [
     "Gem Market",
     "Cathedral of the Immaculate Conception",
@@ -115,96 +115,126 @@
   ],
   "top_restaurants": [
     {
-      "name": "Chanthorn Pochana",
-      "cuisine": "Thai-Vietnamese",
-      "price_range": "$",
-      "description": {
-        "en": "A riverside restaurant in the old town serving exceptional Vietnamese-influenced noodle soups (kuay tiaw yuan) alongside classic Thai dishes. The broth is simmered for hours with star anise and cinnamon, reminiscent of Vietnamese pho.",
-        "nl": "Een rivierrestaurant in de oude stad dat uitzonderlijke Vietnamees-beinvloede noedelsoepen (kuay tiaw yuan) serveert naast klassieke Thaise gerechten. De bouillon wordt urenlang getrokken met steranijs en kaneel, doet denken aan Vietnamese pho."
-      }
+      "rank": 1,
+      "name": "Tom Yum Sen - Rimnam Chanthaburi",
+      "description": "Riverside restaurant specializing in authentic tom yum and traditional Thai cuisine with fresh ingredients and scenic river views.",
+      "cuisine_type": "Asian, Thai",
+      "price_range": "100-250 THB",
+      "highlights": [
+        "Authentic tom yum",
+        "River views",
+        "TripAdvisor 4.9 rating"
+      ]
     },
     {
-      "name": "Night Market (Khlong Phrao Road)",
-      "cuisine": "Street Food",
-      "price_range": "$",
-      "description": {
-        "en": "The bustling evening market where Chanthaburi's diverse culinary heritage shines. Grilled seafood from the coast, Vietnamese spring rolls, Chinese-style roast duck, and every tropical fruit imaginable — all at market prices.",
-        "nl": "De bruisende avondmarkt waar Chanthaburi's diverse culinaire erfgoed schittert. Gegrilde zeevruchten van de kust, Vietnamese loempia's, Chinese stijl geroosterde eend en elk denkbaar tropisch fruit — alles voor marktprijzen."
-      }
+      "rank": 2,
+      "name": "Krua Maneechan",
+      "description": "Established restaurant known for quality Chinese and seafood dishes, specializing in fresh catches from Chanthaburi's coast.",
+      "cuisine_type": "Chinese, Seafood",
+      "price_range": "150-350 THB",
+      "highlights": [
+        "Fresh seafood",
+        "Chinese specialties",
+        "TripAdvisor 4.7 rating"
+      ]
     },
     {
-      "name": "Muen Aroy Seafood",
-      "cuisine": "Seafood",
-      "price_range": "$$",
-      "description": {
-        "en": "A popular seafood restaurant near the river known for generous portions of crab fried rice, grilled prawns, and steamed fish with lime. Fresh catch from Chanthaburi's coast served in a casual, family-friendly setting.",
-        "nl": "Een populair visrestaurant bij de rivier bekend om royale porties krab gebakken rijst, gegrilde garnalen en gestoomde vis met limoen. Verse vangst van de kust van Chanthaburi geserveerd in een casual, gezinsvriendelijke omgeving."
-      }
+      "rank": 3,
+      "name": "Chanthorn Phochana",
+      "description": "Riverside restaurant in the old town serving Vietnamese-influenced noodle soups (kuay tiaw yuan) and classic Thai dishes with traditional broth recipes.",
+      "cuisine_type": "Asian, Thai",
+      "price_range": "80-180 THB",
+      "highlights": [
+        "Vietnamese noodle soups",
+        "Historic location",
+        "TripAdvisor 4.1 rating"
+      ]
     },
     {
-      "name": "Kuay Tiaw Yuan Ban Luang",
-      "cuisine": "Vietnamese-Thai",
-      "price_range": "$",
-      "description": {
-        "en": "The most famous Vietnamese noodle soup shop in the old town, run by a Thai-Vietnamese family for three generations. Their handmade noodles and aromatic broth draw customers from across the province every weekend.",
-        "nl": "De beroemdste Vietnamese noedelsoep-winkel in de oude stad, gerund door een Thais-Vietnamese familie al drie generaties lang. Hun handgemaakte noedels en aromatische bouillon trekken elk weekend klanten uit de hele provincie."
-      }
+      "rank": 4,
+      "name": "Tamajun Restaurant",
+      "description": "Thai restaurant offering traditional dishes in a welcoming atmosphere with authentic preparation methods and local ingredients.",
+      "cuisine_type": "Asian, Thai",
+      "price_range": "100-250 THB",
+      "highlights": [
+        "Authentic Thai cuisine",
+        "Local ingredients",
+        "TripAdvisor 4.0 rating"
+      ]
     },
     {
-      "name": "Rim Nam Chanthaboon Cafe",
-      "cuisine": "Cafe & Thai",
-      "price_range": "$$",
-      "description": {
-        "en": "A charming riverside cafe in a restored shophouse with views of the cathedral. Serves excellent coffee, homemade cakes, and light Thai meals. The perfect spot to pause while exploring the old waterfront community.",
-        "nl": "Een charmant riviercafe in een gerestaureerd winkelpand met uitzicht op de kathedraal. Serveert uitstekende koffie, zelfgemaakte taarten en lichte Thaise maaltijden. De perfecte plek om te pauzeren tijdens het verkennen van de oude waterkantgemeenschap."
-      }
+      "rank": 5,
+      "name": "Chanthaburi Night Market",
+      "description": "Bustling evening market on Khlong Phrao Road featuring Vietnam spring rolls, grilled seafood from the coast, Chinese roast duck, and tropical fruits at market prices.",
+      "cuisine_type": "Thai, Vietnamese Street Food",
+      "price_range": "40-120 THB",
+      "highlights": [
+        "Multicultural cuisine",
+        "Fresh grilled seafood",
+        "Authentic street food experience"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "KP Grand Hotel",
+      "rank": 1,
+      "name": "Baan Imm Sook Resort",
+      "description": "Mid-range resort with comfortable rooms, reliable service, and convenient access to main attractions in the city.",
+      "price_range": "$30-50/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "The most modern hotel in Chanthaburi city center with comfortable rooms, a pool, and a restaurant. Well located for the gem market and old town, with helpful staff who can arrange fruit orchard visits.",
-        "nl": "Het modernste hotel in het centrum van Chanthaburi met comfortabele kamers, een zwembad en een restaurant. Goed gelegen voor de edelsteenmarkt en oude stad, met behulpzaam personeel dat bezoeken aan fruitboomgaarden kan regelen."
-      }
+      "highlights": [
+        "TripAdvisor 4.3 rating",
+        "Good location",
+        "Comfortable rooms"
+      ]
     },
     {
-      "name": "Baan Rim Nam Guesthouse",
-      "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "A charming riverside guesthouse in the historic old town with simple rooms overlooking the river and cathedral. The owner is a local history enthusiast who shares stories about the French-Vietnamese heritage of the neighborhood.",
-        "nl": "Een charmant guesthouse aan de rivier in de historische oude stad met eenvoudige kamers met uitzicht op de rivier en kathedraal. De eigenaar is een lokale geschiedenisliefhebber die verhalen deelt over het Frans-Vietnamese erfgoed van de buurt."
-      }
-    },
-    {
-      "name": "Maneechan Resort",
+      "rank": 2,
+      "name": "Sea Coco Resort",
+      "description": "Beachside resort offering coastal views and relaxation within easy reach of Chanthaburi's attractions and natural areas.",
+      "price_range": "$35-55/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "A peaceful resort set in tropical gardens on the outskirts of the city. Spacious rooms, a large pool, and proximity to the national parks and waterfalls make it ideal for nature-focused visitors.",
-        "nl": "Een vredig resort in tropische tuinen aan de rand van de stad. Ruime kamers, een groot zwembad en nabijheid van de nationale parken en watervallen maken het ideaal voor natuurgerichte bezoekers."
-      }
+      "highlights": [
+        "TripAdvisor 4.2 rating",
+        "Coastal location",
+        "Good amenities"
+      ]
     },
     {
-      "name": "Chanthaburi Center Hotel",
+      "rank": 3,
+      "name": "Seashell Village Resort",
+      "description": "Well-reviewed resort with good facilities and convenient location for exploring Chanthaburi's attractions.",
+      "price_range": "$35-55/night",
+      "category": "midrange",
+      "highlights": [
+        "TripAdvisor 4.2 rating",
+        "Reliable service",
+        "Good value"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Baan Pun Sook Resort",
+      "description": "Comfortable mid-range resort with solid service and convenient access to the city center and attractions.",
+      "price_range": "$30-50/night",
+      "category": "midrange",
+      "highlights": [
+        "TripAdvisor 4.0 rating",
+        "Central location",
+        "Good facilities"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Chaolao Cabana Resort",
+      "description": "Coastal resort offering beach access and casual atmosphere for visitors seeking seaside relaxation.",
+      "price_range": "$25-45/night",
       "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "A clean, no-frills hotel in the commercial center near the gem market. Basic rooms with air conditioning at very low prices. The central location puts you within walking distance of all major attractions.",
-        "nl": "Een schoon, eenvoudig hotel in het commerciële centrum bij de edelsteenmarkt. Basale kamers met airconditioning voor zeer lage prijzen. De centrale locatie brengt je op loopafstand van alle grote bezienswaardigheden."
-      }
-    },
-    {
-      "name": "Tamajun Hotel",
-      "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "A boutique hotel in a beautifully restored heritage building near the waterfront. Combining historic charm with modern comfort, it features individually designed rooms, a spa, and a restaurant serving Thai-fusion cuisine.",
-        "nl": "Een boetiekhotel in een prachtig gerestaureerd erfgoedgebouw bij de waterkant. Het combineert historische charme met modern comfort en beschikt over individueel ontworpen kamers, een spa en een restaurant met Thais-fusie keuken."
-      }
+      "highlights": [
+        "TripAdvisor 3.7 rating",
+        "Beach location",
+        "Budget-friendly"
+      ]
     }
   ],
   "travel_tips": [
@@ -278,82 +308,75 @@
     }
   },
   "overview": "Chanthaburi, Thailand's gem capital, is an underrated eastern province that rewards curious travelers with authentic experiences far from the typical tourist trail. Known as the heart of Thailand's gem trading industry, this charming city of 75,000 residents sits along the scenic Chanthaburi River, where French-Vietnamese colonial architecture lines the historic waterfront and tells stories of the region's multicultural past. Beyond the glittering gem markets, Chanthaburi offers visitors a remarkable blend of natural attractions—from tropical fruit orchards bursting with durian and mangosteen to pristine waterfalls and mangrove ecosystems—combined with cultural landmarks like the stunning Cathedral of the Immaculate Conception, making it an ideal destination for travelers seeking genuine Thai culture without the crowds.",
-  "thingsToDo": "Chanthaburi's most famous attraction is the Chanthaburi Gem Market, where weekend gem trading draws enthusiasts from across Southeast Asia to witness ruby and sapphire dealers in action and observe master gem cutters at work. For cultural immersion, visit the Cathedral of the Immaculate Conception with its striking French Gothic spires and stained glass windows overlooking the river, or explore the Chanthaburi Old Town Waterfront (free entry) where French-Vietnamese architecture creates a photogenic backdrop and riverside cafes offer perfect spots for people-watching. Nature lovers should head to Namtok Phlio National Park (200 THB/$6 entrance fee) to swim in its crystal-clear pools and spot giant carp, or venture to Khitung Waterfall (100 THB/$3) for jungle hiking trails and pristine forest swimming. During April-July, tour the Tropical Fruit Orchards (100 THB/$3) to taste durian, mangosteen, and rambutan directly from the source. For unique wildlife experiences, visit Oasis Sea World (200 THB/$6) for sea turtle conservation programs and educational aquarium displays, while Kung Krabaen Bay offers mangrove boardwalks and excellent birdwatching opportunities at no cost. Evening exploration of the Chanthaburi Night Market reveals multicultural cuisine including Vietnamese spring rolls and grilled seafood that reflect the city's diverse heritage.",
+  "thingsToDo": "Chanthaburi's most famous attraction is the Chanthaburi Gem Market, where weekend gem trading draws enthusiasts from across Southeast Asia to witness ruby and sapphire dealers in action and observe master gem cutters at work. For cultural immersion, visit the Cathedral of the Immaculate Conception (free entry) with its striking French Gothic spires and stained glass windows overlooking the river, or explore the Chanthaboon Waterfront (free entry) where French-Vietnamese architecture creates a photogenic backdrop and riverside cafes offer perfect spots for people-watching. Nature lovers should head to Namtok Phlio National Park (200 THB/$6 entrance fee) to swim in its crystal-clear pools and spot giant carp, or venture to Khitung Waterfall (100 THB/$3) for jungle hiking trails and pristine forest swimming. During April-July, tour the Tropical Fruit Orchards (100 THB/$3) to taste durian, mangosteen, and rambutan directly from the source. For unique wildlife experiences, visit Oasis Sea World (200 THB/$6) for sea turtle conservation programs and educational aquarium displays, while Kung Krabaen Bay offers mangrove boardwalks and excellent birdwatching opportunities at no cost. Evening exploration of the Chanthaburi Night Market reveals multicultural cuisine including Vietnamese spring rolls and grilled seafood that reflect the city's diverse heritage.",
   "whereToStay": "Chanthaburi offers accommodation across all price ranges, with particularly charming options along the riverside. For budget travelers, basic guesthouses and lodges range from 500-1,000 THB ($15-30) per night and provide convenient access to main attractions. Mid-range options like Kasemsarn Hotel Chanthaburi ($27/night) and New Travel Lodge Hotel offer better amenities while remaining affordable. For a more authentic experience, consider staying at properties like Baan Luang Rajamaitri Historic Inn, a beautifully preserved historical home with a museum on its ground floor situated directly on the Chanthaboon Waterfront with views over the Chanthaburi River—perfect for travelers seeking cultural immersion. Riverside boutique hotels like Usabai Riverside Boutique Hotel and Punyashthiti Villa offer mid-to-luxury options with atmospheric settings in restored colonial buildings. Luxury accommodations command higher prices but remain significantly cheaper than comparable properties in Bangkok, typically ranging from $34 and upward. Most hotels cluster near the city center and waterfront, putting visitors within easy reach of markets, restaurants, and cultural attractions.",
   "whereToEat": [
     {
-      "name": "Kansei Sushi",
-      "cuisine": "Japanese",
+      "name": "Tom Yum Sen - Rimnam Chanthaburi",
+      "cuisine": "Asian, Thai",
       "priceRange": "$$",
-      "description": "A highly-recommended local favorite with simple Japanese decor featuring a sushi counter where chefs prepare fresh sushi in full view. Known for generous portions of salmon sushi, perfectly seasoned rice, and fresh sashimi at reasonable prices, with friendly staff and a warm, homey atmosphere ideal for both serious sushi enthusiasts and beginners."
+      "description": "Riverside restaurant specializing in authentic tom yum and traditional Thai cuisine with scenic river views. TripAdvisor rating 4.9."
     },
     {
-      "name": "Hom Din Klin Chan",
-      "cuisine": "Cafe & Bakery",
-      "priceRange": "$",
-      "description": "A peaceful cafe with warm wooden decor and touches of nature, perfect for recharging after exploring the city. Specializes in perfectly roasted coffee, refreshing homemade juices, coconut cake, and brownies, with ample parking and easy access from the main road."
-    },
-    {
-      "name": "Night Market - Multicultural Street Food",
-      "cuisine": "Thai/Vietnamese Street Food",
-      "priceRange": "$",
-      "description": "Chanthaburi's evening Night Market showcases the city's multicultural heritage with Vietnamese spring rolls, grilled seafood, and diverse Thai dishes at excellent value. A must-visit for authentic, inexpensive dining and cultural immersion."
-    },
-    {
-      "name": "Chanthaboon Waterfront Restaurants",
-      "cuisine": "Thai/Seafood",
+      "name": "Krua Maneechan",
+      "cuisine": "Chinese, Seafood",
       "priceRange": "$$",
-      "description": "Multiple dining establishments along the historic waterfront offer fresh seafood and traditional Thai cuisine with scenic river views, making them ideal for both lunch and dinner with a view."
+      "description": "Established restaurant known for quality Chinese dishes and fresh seafood from Chanthaburi's coast. TripAdvisor rating 4.7."
     },
     {
-      "name": "Riverside Cafes - Old Town",
-      "cuisine": "Thai/International",
-      "priceRange": "$-$$",
-      "description": "Scattered throughout the charming Old Town Waterfront area, these cafes blend colonial architecture with modern cafe culture, serving everything from Thai specialties to international fare in atmospheric surroundings."
+      "name": "Chanthorn Phochana",
+      "cuisine": "Asian, Thai",
+      "priceRange": "$",
+      "description": "Riverside restaurant in the old town serving Vietnamese-influenced noodle soups and classic Thai dishes. TripAdvisor rating 4.1."
+    },
+    {
+      "name": "Tamajun Restaurant",
+      "cuisine": "Asian, Thai",
+      "priceRange": "$$",
+      "description": "Thai restaurant offering authentic traditional dishes with local ingredients in a welcoming atmosphere. TripAdvisor rating 4.0."
+    },
+    {
+      "name": "Chanthaburi Night Market",
+      "cuisine": "Thai, Vietnamese Street Food",
+      "priceRange": "$",
+      "description": "Evening market featuring Vietnamese spring rolls, grilled seafood, Chinese roast duck, and tropical fruits at authentic market prices."
     }
   ],
   "topHotels": [
     {
-      "name": "Kasemsarn Hotel Chanthaburi",
+      "name": "Chaolao Cabana Resort",
       "category": "budget",
-      "priceRange": "$27/night",
+      "priceRange": "$25-45/night",
+      "area": "Coastal area",
+      "description": "Beachside budget resort offering casual atmosphere and coastal access for budget-conscious travelers."
+    },
+    {
+      "name": "Baan Imm Sook Resort",
+      "category": "midrange",
+      "priceRange": "$30-50/night",
       "area": "City Center",
-      "description": "An affordable 3-star option convenient to main attractions with basic but comfortable rooms and reliable service for budget-conscious travelers."
+      "description": "Well-located mid-range resort with comfortable rooms and reliable service, convenient to main attractions."
     },
     {
-      "name": "New Travel Lodge Hotel",
-      "category": "budget",
-      "priceRange": "$21-30/night",
-      "area": "City Center",
-      "description": "Budget-friendly accommodation with clean rooms and essential amenities, offering good value for travelers prioritizing affordability over luxury."
-    },
-    {
-      "name": "Baan Luang Rajamaitri Historic Inn",
+      "name": "Sea Coco Resort",
       "category": "midrange",
-      "priceRange": "$40-70/night",
-      "area": "Chanthaboon Waterfront",
-      "description": "A beautifully preserved historical home with museum on ground floor, owned by a prominent local family, offering authentic cultural immersion with stunning views over the Chanthaburi River from the waterfront location."
+      "priceRange": "$35-55/night",
+      "area": "Coastal area",
+      "description": "Beachside resort offering coastal views and relaxation with good amenities for mid-range travelers."
     },
     {
-      "name": "Usabai Riverside Boutique Hotel",
+      "name": "Baan Pun Sook Resort",
       "category": "midrange",
-      "priceRange": "$45-85/night",
-      "area": "Chanthaboon Waterfront",
-      "description": "An atmospheric riverside boutique property housed in a restored colonial building, offering mid-range comfort with authentic charm and proximity to the Old Town's cafes and galleries."
+      "priceRange": "$30-50/night",
+      "area": "City area",
+      "description": "Comfortable mid-range resort with solid service and convenient access to city center and attractions."
     },
     {
-      "name": "Punyashthiti Villa",
+      "name": "Seashell Village Resort",
       "category": "midrange",
-      "priceRange": "$50-100/night",
-      "area": "City Center/Waterfront",
-      "description": "A boutique villa property combining traditional Thai hospitality with modern amenities, providing a more intimate accommodation experience than larger hotels."
-    },
-    {
-      "name": "Chanthaburi Premium Hotels (Trip.Best Rated)",
-      "category": "luxury",
-      "priceRange": "$100-200+/night",
-      "area": "Various Premium Locations",
-      "description": "Top-rated luxury properties recognized by Trip.com offer exceptional service, premium amenities, and high guest reviews for travelers seeking upscale accommodations with outstanding hospitality."
+      "priceRange": "$35-55/night",
+      "area": "Coastal area",
+      "description": "Well-reviewed coastal resort with good facilities and convenient location for exploring the area."
     }
   ],
   "gettingAround": "Chanthaburi's compact size makes local exploration straightforward. Tuk-tuks are the most common form of local transport, readily available throughout the city for short trips within town, typically costing 40-100 THB depending on distance. Songthaews (shared minibuses) run fixed routes for 10-20 THB per person and connect the city center to outlying attractions and provincial areas. For more flexibility and to reach attractions like national parks and waterfalls, motorbike rental is widely available from shops and hotels for 150-300 THB daily, though visitors should be comfortable with local driving conditions. Grab (the Southeast Asian ride-hailing app) operates in Chanthaburi and provides an alternative to tuk-tuks with transparent pricing. Most major attractions like Namtok Phlio National Park and Kung Krabaen Bay are within 15-30 minutes of town by motorbike or hired vehicle, making day trips entirely feasible.",
@@ -362,17 +385,17 @@
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget travelers can sustain on $20-40 daily by staying in basic guesthouses ($15-25/night), eating street food and at markets (meals $2-5), using local transport ($1-3 daily), and visiting free attractions like the Cathedral and Old Town Waterfront. Paid attractions average $3-6 entrance fees."
+      "description": "Budget travelers can sustain on 600-1,200 THB ($20-40) daily by staying in basic guesthouses (450-750 THB/$15-25/night), eating street food and at markets (60-150 THB/$2-5 per meal), using local transport (30-90 THB/$1-3 daily), and visiting free attractions like the Cathedral and Old Town Waterfront. Paid attractions average 100-200 THB/$3-6 entrance fees."
     },
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Mid-range travelers spending $50-100 daily can enjoy 3-star hotels ($30-50/night), dine at decent restaurants with views ($8-15 per meal), take occasional tuk-tuk rides, and comfortably access all paid attractions. This range allows flexibility for tours and activities."
+      "description": "Mid-range travelers spending 1,500-3,000 THB ($50-100) daily can enjoy 3-star hotels (900-1,500 THB/$30-50/night), dine at decent restaurants with views (240-450 THB/$8-15 per meal), take occasional tuk-tuk rides, and comfortably access all paid attractions. This range allows flexibility for tours and activities."
     },
     "luxury": {
       "min": 150,
       "max": 400,
-      "description": "Luxury travelers with $150-400 daily budgets stay in riverside boutique hotels or premium properties ($80-200+/night), enjoy fine dining experiences ($25-50+ meals), arrange private transport or guided tours, and access exclusive experiences without budget constraints."
+      "description": "Luxury travelers with 4,500-12,000 THB ($150-400) daily budgets stay in riverside boutique hotels or premium properties (2,400-6,000 THB/$80-200+/night), enjoy fine dining experiences (750-1,500 THB/$25-50+ meals), arrange private transport or guided tours, and access exclusive experiences without budget constraints."
     }
   },
   "safetyTips": "Chanthaburi is generally a safe destination with low violent crime rates, and most visitors experience trouble-free stays. Use standard precautions like avoiding walking alone late at night in unfamiliar areas, securing valuables in hotel safes, and being cautious with large amounts of cash—use ATMs in visible, well-lit locations. The gem market, while legitimate, occasionally attracts overeager sellers; purchase gems only from reputable dealers and be wary of unsolicited offers from strangers. When renting motorbikes, wear helmets, drive defensively on local roads which can be congested, and ensure your insurance is adequate. During monsoon season (May-October), exercise caution near waterfalls and swollen rivers, as conditions can change rapidly. Tap water is generally safe in hotels but bottled water is recommended for sensitive stomachs, and street food is typically safe if purchased from busy stalls with high turnover.",
@@ -390,20 +413,12 @@
       "answer": "Most cultural attractions are free: Cathedral of the Immaculate Conception (free), Chanthaboon Waterfront (free), Old Town (free), and Kung Krabaen Bay (free). Nature attractions charge modest fees: Namtok Phlio National Park (200 THB/$6), Tropical Fruit Orchards (100 THB/$3), Khitung Waterfall (100 THB/$3), and Oasis Sea World (200 THB/$6)."
     },
     {
-      "question": "When is the best time to visit the fruit orchards?",
-      "answer": "Tropical fruit orchards are at their best from April through July, when durian, mangosteen, rambutan, and other seasonal fruits are ready for harvest. Visitors can taste fruits directly from the source and learn about tropical cultivation during these months."
+      "question": "What is the best time to visit Chanthaburi?",
+      "answer": "November through February is optimal, with temperatures of 20-28°C and minimal rainfall. December and January offer particularly pleasant dry weather. March-April are hotter (30-35°C) but coincide with fruit season in the orchards. Monsoon season (May-October) features heavy rainfall and lush scenery but can make waterfall hiking challenging."
     },
     {
-      "question": "Can I visit Chanthaburi as a day trip from Bangkok?",
-      "answer": "Yes, Chanthaburi is approximately 245 km from Bangkok and can be visited as a long day trip or overnight excursion. Most travelers prefer staying 1-2 nights to properly explore the city, gem market, waterfront, and nearby natural attractions without feeling rushed."
-    },
-    {
-      "question": "What is the food scene like in Chanthaburi?",
-      "answer": "Chanthaburi offers diverse multicultural cuisine reflecting its Vietnamese and Thai heritage. The Night Market is ideal for street food and Vietnamese specialties like spring rolls. The Chanthaboon Waterfront has riverside restaurants serving fresh seafood and Thai dishes, while casual cafes and international options are scattered throughout town."
-    },
-    {
-      "question": "How is the weather in Chanthaburi?",
-      "answer": "Chanthaburi has a tropical climate with the best weather from November to February (20-28°C, dry). March-April are hot (30-35°C) but coincide with fruit season. May-October is monsoon season with heavy rainfall, making outdoor activities more challenging. Humidity is high year-round as typical for Thailand's eastern region."
+      "question": "How much should I budget per day in Chanthaburi?",
+      "answer": "Budget travelers: 600-1,200 THB ($20-40/day). Mid-range travelers: 1,500-3,000 THB ($50-100/day). Luxury travelers: 4,500-12,000 THB ($150-400/day). Budget options include guesthouses at 450-750 THB/night and street food meals at 60-150 THB."
     }
   ],
   "practicalInfo": {
@@ -416,11 +431,11 @@
     "nearestAirport": "Suvarnabhumi Airport (BKK) - Bangkok",
     "travelTimeFromAirport": "Approximately 4-5 hours by car (245 km southeast from Bangkok)",
     "localTransport": [
-      "Tuk-tuk",
-      "Songthaew (shared minibus)",
-      "Motorbike rental",
-      "Grab app",
-      "Hired vehicle with driver"
+      "Tuk-tuk (40-100 THB per trip)",
+      "Songthaew/shared minibus (10-20 THB per person)",
+      "Motorbike rental (150-300 THB daily)",
+      "Grab app (available with transparent pricing)",
+      "Hired vehicle with driver (negotiate rates)"
     ]
   },
   "enrichedAt": "2026-02-22T13:12:20.705Z",
@@ -448,5 +463,104 @@
       "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Chanthaburi.",
       "Gem Market": "Visit Gem Market during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
     }
-  }
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Chanthaburi Gem Market",
+      "description": "Southeast Asia's largest gem market where ruby and sapphire dealers trade, particularly active on weekends. Visitors can observe master gem cutters at work and learn about Thailand's gem trading heritage.",
+      "location": "City Center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Weekend trading activity",
+        "Master gem cutters",
+        "Ruby and sapphire trading"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Cathedral of the Immaculate Conception",
+      "description": "A striking French Gothic cathedral with ornate spires and stained glass windows overlooking the Chanthaburi River. Built in 1711, it reflects the city's French colonial heritage.",
+      "location": "Chanthaboon Waterfront",
+      "entrance_fee": "Free",
+      "highlights": [
+        "French Gothic architecture",
+        "River views",
+        "Historic colonial structure"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Chanthaboon Waterfront (Old Town)",
+      "description": "Historic riverside district featuring preserved French-Vietnamese colonial shophouses, traditional wooden buildings, and riverside cafes along the Chanthaburi River.",
+      "location": "Chanthaboon area",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Colonial architecture",
+        "Riverside promenade",
+        "Authentic old town atmosphere"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Namtok Phlio National Park",
+      "description": "Thailand's smallest national park featuring crystal-clear swimming pools, jungle hiking trails, and opportunities to spot giant carp and diverse wildlife in pristine forest.",
+      "location": "15 km south of city",
+      "entrance_fee": "200 THB ($6)",
+      "highlights": [
+        "Seven-tiered waterfall",
+        "Swimming pools",
+        "Giant carp spotting"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Kung Krabaen Bay",
+      "description": "Coastal ecosystem featuring mangrove boardwalks, excellent birdwatching opportunities, and marine conservation efforts. Free access to explore diverse wetland habitats.",
+      "location": "Coastal area east of city",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Mangrove boardwalks",
+        "Birdwatching",
+        "Marine ecosystem"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Tropical Fruit Orchards",
+      "description": "Working orchards where visitors can taste and purchase fresh durian, mangosteen, rambutan, and other tropical fruits directly from the source during April-July harvest season.",
+      "location": "Outskirts of city",
+      "entrance_fee": "100 THB ($3)",
+      "highlights": [
+        "Durian tasting",
+        "Direct from source",
+        "Seasonal harvest experience"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Khitung Waterfall",
+      "description": "Scenic waterfall surrounded by pristine jungle forest, offering swimming pools and hiking trails through natural forest setting.",
+      "location": "North of city",
+      "entrance_fee": "100 THB ($3)",
+      "highlights": [
+        "Jungle hiking",
+        "Natural swimming pool",
+        "Forest ecosystem"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Oasis Sea World",
+      "description": "Educational facility focused on sea turtle conservation programs and marine species displays. Provides insights into local marine conservation efforts.",
+      "location": "City area",
+      "entrance_fee": "200 THB ($6)",
+      "highlights": [
+        "Sea turtle conservation",
+        "Educational displays",
+        "Aquarium exhibits"
+      ]
+    }
+  ],
+  "factchecked_at": "2026-03-08T18:49:39.165Z"
 }

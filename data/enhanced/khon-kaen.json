@@ -115,96 +115,162 @@
   ],
   "top_restaurants": [
     {
-      "name": "Khon Kaen Night Market (Fairy Plaza)",
-      "cuisine": "Isaan Street Food",
-      "price_range": "$",
-      "description": {
-        "en": "The massive night market behind Fairy Plaza is ground zero for authentic Isaan street food: fiery som tum, juicy gai yang, sticky rice, larb, and fresh river fish. Multiple stalls competing for the best flavors.",
-        "nl": "De enorme nachtmarkt achter Fairy Plaza is het epicentrum van authentieke Isaan-streetfood: vurige som tum, sappige gai yang, sticky rice, larb en verse riviervis. Meerdere stalletjes die strijden om de beste smaken."
-      }
+      "rank": 1,
+      "name": "Food by Fire",
+      "description": "Premium steakhouse and Asian cuisine restaurant with 4.9 TripAdvisor rating, offering quality grilled meats and international fare.",
+      "cuisine_type": "Steakhouse, Asian",
+      "price_range": "THB 300-500",
+      "highlights": [
+        "Grilled meats",
+        "Asian dishes",
+        "Premium quality"
+      ]
     },
     {
-      "name": "Pla Chon Ton Khae",
-      "cuisine": "Isaan/Thai",
-      "price_range": "$",
-      "description": {
-        "en": "Famous for its outstanding pla chon (snakehead fish) dishes and classic Isaan cuisine. Locals queue for the grilled fish and som tum combo. Simple setting, extraordinary flavors.",
-        "nl": "Beroemd om zijn uitstekende pla chon (slangenkopvis) gerechten en klassieke Isaan-keuken. Locals staan in de rij voor de gegrilde vis en som tum combinatie. Eenvoudige inrichting, buitengewone smaken."
-      }
+      "rank": 2,
+      "name": "Seasons 27",
+      "description": "Italian and Mediterranean restaurant with 4.9 TripAdvisor rating, providing fine dining experience with European cuisine.",
+      "cuisine_type": "Italian, Mediterranean",
+      "price_range": "THB 350-600",
+      "highlights": [
+        "Italian cuisine",
+        "Mediterranean dishes",
+        "Fine dining"
+      ]
     },
     {
-      "name": "Ko-Fi Café Khon Kaen",
-      "cuisine": "Coffee/Modern Thai",
-      "price_range": "$$",
-      "description": {
-        "en": "Trendy university-area cafe serving specialty coffee alongside modern Thai dishes. A great spot for brunch with excellent presentation and flavors that respect local ingredients.",
-        "nl": "Trendy cafe in het universiteitsgebied dat speciale koffie serveert naast moderne Thaise gerechten. Een geweldige plek voor brunch met uitstekende presentatie en smaken die lokale ingredienten respecteren."
-      }
+      "rank": 3,
+      "name": "Ju Fang",
+      "description": "Chinese and Asian cuisine specialist with 4.7 TripAdvisor rating, serving authentic regional dishes.",
+      "cuisine_type": "Chinese, Asian",
+      "price_range": "THB 200-400",
+      "highlights": [
+        "Chinese cuisine",
+        "Asian specialties",
+        "Authentic flavors"
+      ]
     },
     {
+      "rank": 4,
       "name": "Gai Yang Rabeab",
-      "cuisine": "Isaan",
-      "price_range": "$",
-      "description": {
-        "en": "Legendary grilled chicken restaurant that has been perfecting its gai yang recipe for over 30 years. The chicken is marinated for 24 hours and charcoal-grilled to perfection. A Khon Kaen institution.",
-        "nl": "Legendarisch gegrilde-kip restaurant dat zijn gai yang recept al meer dan 30 jaar perfectioneert. De kip wordt 24 uur gemarineerd en op houtskool gegrild tot perfectie. Een Khon Kaen-instituut."
-      }
+      "description": "Legendary grilled chicken specialist perfecting its recipe for over 30 years, marinating chicken 24 hours and charcoal-grilling to perfection.",
+      "cuisine_type": "Isaan",
+      "price_range": "THB 100-200",
+      "highlights": [
+        "Gai yang",
+        "24-hour marinade",
+        "Charcoal-grilled"
+      ]
     },
     {
-      "name": "First Choice Restaurant",
-      "cuisine": "Thai/International",
-      "price_range": "$$",
-      "description": {
-        "en": "Popular restaurant near Central Plaza serving both Thai and Western dishes. Good wine list, air-conditioned comfort, and reliable quality. A welcome option when you need a break from spice.",
-        "nl": "Populair restaurant bij Central Plaza dat zowel Thaise als westerse gerechten serveert. Goede wijnkaart, airco comfort en betrouwbare kwaliteit. Een welkome optie wanneer je even pauze nodig hebt van de kruiden."
-      }
+      "rank": 5,
+      "name": "Khon Kaen Night Market (Fairy Plaza)",
+      "description": "Massive authentic Isaan street food market behind Fairy Plaza offering som tum, gai yang, sticky rice, larb, and fresh river fish from multiple competing stalls.",
+      "cuisine_type": "Isaan Street Food",
+      "price_range": "THB 40-100",
+      "highlights": [
+        "Som tum",
+        "Gai yang",
+        "Fresh river fish"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Smile @ Waterside",
+      "description": "Asian and Thai cuisine restaurant with 4.0 TripAdvisor rating, offering lakeside dining experience.",
+      "cuisine_type": "Asian, Thai",
+      "price_range": "THB 150-300",
+      "highlights": [
+        "Lakeside location",
+        "Thai cuisine",
+        "Scenic views"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Blue's Sports Bar & Restaurant",
+      "description": "Mexican and International cuisine establishment with 4.4 TripAdvisor rating, casual dining environment.",
+      "cuisine_type": "Mexican, International",
+      "price_range": "THB 180-400",
+      "highlights": [
+        "Mexican cuisine",
+        "Sports bar",
+        "International menu"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Pla Chon Ton Khae",
+      "description": "Famous for outstanding pla chon (snakehead fish) dishes and classic Isaan cuisine, with locals queuing for grilled fish and som tum combo in simple authentic setting.",
+      "cuisine_type": "Isaan, Thai",
+      "price_range": "THB 80-150",
+      "highlights": [
+        "Pla chon (snakehead)",
+        "Som tum",
+        "Grilled fish"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "Pullman Khon Kaen Raja Orchid",
-      "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "Khon Kaen's premier international hotel with luxurious rooms, rooftop pool, multiple restaurants, and a full-service spa. Centrally located on Prachasamosorn Road near the lake.",
-        "nl": "Het beste internationale hotel van Khon Kaen met luxueuze kamers, dakterraszwembad, meerdere restaurants en een volledig uitgeruste spa. Centraal gelegen op Prachasamosorn Road bij het meer."
-      }
-    },
-    {
-      "name": "Avani Khon Kaen Hotel & Convention Centre",
-      "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "Modern luxury hotel with stylish rooms, an excellent gym, pool, and one of the best hotel restaurants in the city. Popular with business travelers and upscale tourists.",
-        "nl": "Modern luxehotel met stijlvolle kamers, een uitstekende sportschool, zwembad en een van de beste hotelrestaurants in de stad. Populair bij zakenreizigers en luxe toeristen."
-      }
-    },
-    {
-      "name": "Glacier Hotel Khon Kaen",
+      "rank": 1,
+      "name": "Nadee 10 Resort & Hotel",
+      "description": "Top-rated resort with 4.9 TripAdvisor rating offering modern amenities and quality service.",
+      "price_range": "$50-80/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Modern mid-range hotel with clean rooms, good breakfast, and friendly staff. Walking distance to Central Plaza and the night market. Excellent value for the price.",
-        "nl": "Modern middenklasse hotel met schone kamers, goed ontbijt en vriendelijk personeel. Op loopafstand van Central Plaza en de nachtmarkt. Uitstekende waarde voor de prijs."
-      }
+      "highlights": [
+        "4.9 rating",
+        "Resort amenities",
+        "Quality service"
+      ]
     },
     {
-      "name": "Piman Garden Hotel",
+      "rank": 2,
+      "name": "Cheunjai Resort",
+      "description": "Well-regarded resort with 4.6 TripAdvisor rating providing comfortable accommodations.",
+      "price_range": "$40-70/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Peaceful garden hotel near Bueng Kaen Nakhon Lake with spacious rooms, a pool, and landscaped grounds. A tranquil oasis convenient for exploring the lakeside area.",
-        "nl": "Rustig tuinhotel bij Bueng Kaen Nakhon meer met ruime kamers, een zwembad en aangelegde tuinen. Een rustige oase handig voor het verkennen van het meergebied."
-      }
+      "highlights": [
+        "4.6 rating",
+        "Comfortable rooms",
+        "Resort facilities"
+      ]
     },
     {
-      "name": "B2 Khon Kaen Hotel",
+      "rank": 3,
+      "name": "Wishing Tree Khon Kaen Resort",
+      "description": "Resort with 4.4 TripAdvisor rating offering pleasant accommodations and amenities.",
+      "price_range": "$35-65/night",
+      "category": "midrange",
+      "highlights": [
+        "4.4 rating",
+        "Resort facilities",
+        "Comfortable stay"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Rachawadee Khonkaen Airport Hotel",
+      "description": "Conveniently located airport hotel with 4.0 TripAdvisor rating, ideal for short stays and connections.",
+      "price_range": "$30-60/night",
       "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "Popular chain budget hotel with clean, compact rooms, reliable WiFi, and a central location. No-frills but well-maintained, ideal for budget-conscious travelers.",
-        "nl": "Populaire budgethotelketen met schone, compacte kamers, betrouwbare WiFi en een centrale locatie. Geen franje maar goed onderhouden, ideaal voor budgetbewuste reizigers."
-      }
+      "highlights": [
+        "Airport proximity",
+        "4.0 rating",
+        "Quick transfers"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Jirawadee Resort",
+      "description": "Budget-friendly resort with 4.0 TripAdvisor rating providing basic comfort and amenities.",
+      "price_range": "$25-50/night",
+      "category": "budget",
+      "highlights": [
+        "4.0 rating",
+        "Affordable",
+        "Basic amenities"
+      ]
     }
   ],
   "travel_tips": [
@@ -280,90 +346,117 @@
   "enhanced_at": "2026-02-22T00:00:00.000Z",
   "ai_generated": true,
   "overview": "Khon Kaen stands as the unofficial capital of Isaan and the vibrant gateway to northeastern Thailand. This thriving university city of 400,000 residents seamlessly blends cultural heritage with modern energy, offering travelers an authentic glimpse into Thai regional life far from the typical tourist trail. From world-class dinosaur fossils at the Phu Wiang Dinosaur Museum to the serene Bueng Kaen Nakhon Lake with its 8-kilometer walking path, Khon Kaen delivers unforgettable experiences that showcase the best of Isaan's natural beauty, culinary traditions, and cultural treasures.",
-  "thingsToDo": "History enthusiasts should not miss the Phu Wiang Dinosaur Museum (THB 100/$3 entrance fee), home to remarkable Siamotyrannus fossils, life-size replicas, and interactive exhibits that bring prehistoric Thailand to life. The stunning Bueng Kaen Nakhon Lake offers free admission and serves as the city's recreational heart, featuring an 8-kilometer walking path perfect for sunrise or sunset strolls, with numerous lakeside food stalls offering authentic local cuisine. Cultural exploration continues at Chonnabot Silk Weaving Village, where visitors can watch artisans create traditional mudmee silk using centuries-old techniques and purchase directly from weavers, or visit Khon Kaen National Museum (THB 100/$3) to explore Dvaravati art and regional Isaan history. Spiritual seekers should ascend the nine-story Wat Nong Wang (Phra Mahathat Kaen Nakhon) for panoramic city views and lakeside serenity, while nature lovers can venture to Nam Phong National Park (THB 100/$3 entrance) to discover Tat Fa waterfall and scenic hiking trails through pristine landscapes.",
+  "thingsToDo": "History enthusiasts should not miss the Phu Wiang Dinosaur Museum (THB 100/$3 entrance fee), home to remarkable Siamotyrannus fossils, life-size replicas, and interactive exhibits that bring prehistoric Thailand to life. The stunning Bueng Kaen Nakhon Lake offers free admission and serves as the city's recreational heart, featuring an 8-kilometer walking path perfect for sunrise or sunset strolls, with numerous lakeside food stalls offering authentic local cuisine. Cultural exploration continues at Chonnabot Silk Weaving Village (free admission), where visitors can watch artisans create traditional mudmee silk using centuries-old techniques and purchase directly from weavers, or visit Khon Kaen National Museum (THB 100/$3) to explore Dvaravati art and regional Isaan history. Spiritual seekers should ascend the nine-story Wat Nong Wang (Phra Mahathat Kaen Nakhon) for panoramic city views and lakeside serenity, while nature lovers can venture to Nam Phong National Park (THB 100/$3 entrance) to discover Tat Fa waterfall and scenic hiking trails through pristine landscapes.",
   "whereToStay": "Khon Kaen offers diverse accommodation options across multiple price ranges and neighborhoods, making it accessible for all travel budgets. Budget-conscious travelers will find excellent value at 2-3 star hotels like Hop Inn Khon Kaen Srichan Road Building A (from $26/night) and Jamjuree Place (from $18/night), both conveniently located near the city center, Khon Kaen Train Station, and Khon Kaen University with amenities including air conditioning, free Wi-Fi, and private bathrooms. Mid-range options like Khonkaen Residence (around $31/night, located 1 mile from Kaen Nakorn Lake) provide comfortable rooms with additional amenities and better facilities for travelers seeking more comfort. Those seeking premium experiences can explore luxury properties that offer resort-style amenities, though Khon Kaen's strength lies in its exceptional value across all categories—even mid-range hotels deliver high-quality service at prices significantly lower than Western destinations.",
   "whereToEat": [
     {
-      "name": "Guang Tang Noodles",
-      "cuisine": "Thai Noodles",
-      "priceRange": "$",
-      "description": "Authentic local noodle shop serving traditional Thai noodle dishes with rich broths and fresh ingredients, popular with locals for quick and satisfying meals."
-    },
-    {
-      "name": "Leng Yentafo",
-      "cuisine": "Thai Street Food",
-      "priceRange": "$",
-      "description": "Casual eatery specializing in yentafo, a beloved Isaan dish, offering authentic regional flavors at minimal cost."
-    },
-    {
-      "name": "Khon Kaen Grilled Pork Neck",
-      "cuisine": "Thai Grilled Meat",
-      "priceRange": "$",
-      "description": "Specialty restaurant featuring grilled pork neck (sai oua and other grilled meats), a quintessential Isaan dish, served with sticky rice and local condiments."
-    },
-    {
-      "name": "Baan Heng",
-      "cuisine": "Thai Traditional",
+      "name": "Food by Fire",
+      "cuisine": "Steakhouse, Asian",
       "priceRange": "$$",
-      "description": "Established restaurant offering a range of traditional Thai and Isaan cuisine in a comfortable setting, known for consistent quality and fair pricing."
+      "description": "Premium steakhouse and Asian cuisine with 4.9 TripAdvisor rating, serving quality grilled meats and international fare."
     },
     {
-      "name": "Prasit",
-      "cuisine": "Thai Regional",
+      "name": "Seasons 27",
+      "cuisine": "Italian, Mediterranean",
       "priceRange": "$$",
-      "description": "Popular local restaurant serving authentic Isaan regional dishes with emphasis on traditional preparation methods and local ingredients."
+      "description": "Fine dining Italian and Mediterranean restaurant with 4.9 TripAdvisor rating."
     },
     {
-      "name": "Kao Lao Siang Ji",
-      "cuisine": "Thai Rice Dishes",
+      "name": "Ju Fang",
+      "cuisine": "Chinese, Asian",
+      "priceRange": "$$",
+      "description": "Chinese and Asian cuisine specialist with 4.7 TripAdvisor rating serving authentic regional dishes."
+    },
+    {
+      "name": "Gai Yang Rabeab",
+      "cuisine": "Isaan",
       "priceRange": "$",
-      "description": "Casual rice-focused restaurant offering various Thai rice dishes prepared fresh throughout the day, perfect for budget-conscious travelers."
+      "description": "Legendary grilled chicken restaurant perfecting its recipe for 30+ years with 24-hour marinated, charcoal-grilled chicken."
     },
     {
-      "name": "Aura",
-      "cuisine": "Thai & International",
+      "name": "Khon Kaen Night Market (Fairy Plaza)",
+      "cuisine": "Isaan Street Food",
+      "priceRange": "$",
+      "description": "Massive authentic Isaan street food market offering som tum, gai yang, sticky rice, larb, and fresh river fish from multiple stalls."
+    },
+    {
+      "name": "Pla Chon Ton Khae",
+      "cuisine": "Isaan, Thai",
+      "priceRange": "$",
+      "description": "Famous for outstanding pla chon (snakehead fish) dishes and classic Isaan cuisine where locals queue for grilled fish and som tum."
+    },
+    {
+      "name": "Smile @ Waterside",
+      "cuisine": "Asian, Thai",
       "priceRange": "$$",
-      "description": "Fine dining option featuring both Thai and Western cuisine set in a beautiful garden with a small waterfall, offering a more upscale dining experience."
+      "description": "Asian and Thai cuisine with 4.0 TripAdvisor rating offering lakeside dining experience."
+    },
+    {
+      "name": "Blue's Sports Bar & Restaurant",
+      "cuisine": "Mexican, International",
+      "priceRange": "$$",
+      "description": "Mexican and International cuisine establishment with 4.4 TripAdvisor rating in casual sports bar environment."
     }
   ],
   "topHotels": [
     {
-      "name": "Jamjuree Place",
-      "category": "budget",
-      "priceRange": "$18-22/night",
-      "area": "City Center",
-      "description": "2-star hotel with 30 air-conditioned rooms, each featuring a private balcony, complimentary Wi-Fi, cable TV, refrigerator, and free parking. Located within 5-minute drive of Khon Kaen University and near Ton Tann Market."
-    },
-    {
-      "name": "Hop Inn Khon Kaen Srichan Road Building A",
-      "category": "budget",
-      "priceRange": "$26-30/night",
-      "area": "Near Train Station",
-      "description": "2-star hotel offering convenient lodging just outside the city center near Khon Kaen Train Station and CentralPlaza Khon Kaen. Rooms include air conditioning, refrigerator, flat-screen TV, free Wi-Fi, and private bathroom. Accommodates up to 3 guests per room."
-    },
-    {
-      "name": "Khonkaen Residence",
-      "category": "midrange",
-      "priceRange": "$31-38/night",
-      "area": "Lake Area",
-      "description": "Well-located midrange hotel approximately 1 mile from Kaen Nakorn Lake and 1.2 miles from Khon Kaen Train Station, offering comfortable rooms with modern amenities in a convenient position for exploring the city."
-    },
-    {
       "name": "Nadee 10 Resort & Hotel",
       "category": "midrange",
-      "priceRange": "$40-50/night",
+      "priceRange": "$50-80/night",
       "area": "City Center",
-      "description": "Midrange resort hotel offering the perfect blend of luxury and affordability, with thoughtfully designed rooms and resort-style amenities for travelers seeking comfort without excessive expense."
+      "description": "Top-rated resort with 4.9 TripAdvisor rating offering modern rooms, comfortable amenities, and quality service in a convenient city location."
     },
     {
-      "name": "Park Villa Chaiyaphume",
+      "name": "Cheunjai Resort",
       "category": "midrange",
-      "priceRange": "$44-50/night",
-      "area": "Chaiyaphum (50km away)",
-      "description": "Four-star guesthouse located in nearby Chaiyaphum province approximately 50 miles from Khon Kaen Airport, featuring 1-bedroom rooms, on-site garden and terrace, bar service, free bikes, and optional airport shuttle."
+      "priceRange": "$40-70/night",
+      "area": "City Center",
+      "description": "Well-regarded resort with 4.6 TripAdvisor rating providing comfortable rooms and resort facilities."
+    },
+    {
+      "name": "Wishing Tree Khon Kaen Resort",
+      "category": "midrange",
+      "priceRange": "$35-65/night",
+      "area": "Lake Area",
+      "description": "Resort with 4.4 TripAdvisor rating offering pleasant accommodations near Bueng Kaen Nakhon Lake."
+    },
+    {
+      "name": "Rachawadee Khonkaen Airport Hotel",
+      "category": "budget",
+      "priceRange": "$30-60/night",
+      "area": "Airport Area",
+      "description": "Conveniently located airport hotel with 4.0 TripAdvisor rating, ideal for connections and short stays."
+    },
+    {
+      "name": "Jirawadee Resort",
+      "category": "budget",
+      "priceRange": "$25-50/night",
+      "area": "City Center",
+      "description": "Budget-friendly resort with 4.0 TripAdvisor rating providing basic comfort and amenities."
+    },
+    {
+      "name": "Pullman Khon Kaen Raja Orchid",
+      "category": "luxury",
+      "priceRange": "$100-150/night",
+      "area": "City Center - Prachasamosorn Road",
+      "description": "Khon Kaen's premier luxury hotel featuring luxurious rooms, rooftop pool, multiple restaurants, full-service spa, and lakeside location."
+    },
+    {
+      "name": "Avani Khon Kaen Hotel & Convention Centre",
+      "category": "luxury",
+      "priceRange": "$90-140/night",
+      "area": "City Center",
+      "description": "Modern luxury hotel with stylish rooms, excellent gym, pool, and one of the best hotel restaurants in the city."
+    },
+    {
+      "name": "Glacier Hotel Khon Kaen",
+      "category": "midrange",
+      "priceRange": "$35-55/night",
+      "area": "City Center",
+      "description": "Modern mid-range hotel with clean rooms, good breakfast, and friendly staff walking distance to Central Plaza and night market."
     }
   ],
-  "gettingAround": "Khon Kaen's city transport relies primarily on tuk-tuks and songthaews (shared minibuses), both inexpensive and readily available throughout the city. Tuk-tuks are ideal for short distances or when you prefer privacy, with negotiated fares typically ranging from THB 40-100 ($1-3) depending on distance, while songthaews follow fixed routes and cost only THB 10-20 (30¢-60¢) per trip, making them perfect for budget travelers exploring the city systematically. Motorbike rental (THB 150-250/$5-8 per day) provides excellent flexibility for reaching outlying attractions like Chonnabot Silk Weaving Village or Nam Phong National Park, though Thai driving standards require caution and an international driving permit. The Grab app works reliably in Khon Kaen for app-based ride-hailing with transparent pricing, and several car rental agencies operate near the city center for those preferring independent exploration. Khon Kaen Train Station offers connections to Bangkok and other Isaan cities, with trains providing a scenic and economical travel option.",
+  "gettingAround": "Khon Kaen's city transport relies primarily on tuk-tuks and songthaews (shared minibuses), both inexpensive and readily available throughout the city. Tuk-tuks are ideal for short distances or when you prefer privacy, with negotiated fares typically ranging from THB 40-100 ($1.25-3) depending on distance, while songthaews follow fixed routes and cost only THB 10-20 ($0.30-0.60) per trip, making them perfect for budget travelers exploring the city systematically. Motorbike rental (THB 150-250/$5-8 per day) provides excellent flexibility for reaching outlying attractions like Chonnabot Silk Weaving Village or Nam Phong National Park, though Thai driving standards require caution and an international driving permit. The Grab app works reliably in Khon Kaen for app-based ride-hailing with transparent pricing (THB 50-150 per trip), and several car rental agencies operate near the city center for those preferring independent exploration. Khon Kaen Train Station offers connections to Bangkok and other Isaan cities, with trains providing a scenic and economical travel option.",
   "bestTimeToVisit": "Khon Kaen's best travel months fall during the cool season from November through February, when temperatures range from pleasant 20-28°C (68-82°F), skies remain clear, and humidity drops significantly compared to other seasons. These months coincide with Thailand's dry season, ensuring comfortable conditions for exploring lakeside attractions, visiting cultural sites, and enjoying street food markets without the oppressive heat of March-May or the monsoon rains of June-October. December and January represent the absolute peak season with the most comfortable conditions, though slightly higher accommodation prices may apply. The months of March through May become increasingly hot and humid, with temperatures exceeding 35°C (95°F), making outdoor exploration challenging for most travelers. The monsoon season from June to October brings heavy rainfall, particularly August and September, which can limit activities and temple visiting, though prices drop and fewer tourists crowd the museums and markets during this period.",
   "budgetGuide": {
     "budget": {
@@ -374,19 +467,19 @@
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Mid-range travelers spending $50-100 daily can book 3-4 star hotels ($30-50/night), enjoy meals at established local restaurants ($5-15 per meal), use occasional tuk-tuks or Grab rides ($2-5 per ride), and comfortably afford all attractions and activities including guided tours. This range allows significant comfort while maintaining authentic local experiences."
+      "description": "Mid-range travelers spending $50-100 daily can book 3-4 star hotels ($35-70/night), enjoy meals at established local restaurants and quality dining ($5-15 per meal), use occasional tuk-tuks or Grab rides ($1-5 per ride), and comfortably afford all attractions and activities including guided tours. This range allows significant comfort while maintaining authentic local experiences."
     },
     "luxury": {
       "min": 150,
       "max": 400,
-      "description": "Luxury travelers with $150-400 daily budgets can stay at premium resorts with extensive amenities, dine at fine restaurants like Aura ($20-40 per meal), arrange private transportation and guides, and enjoy spa treatments, wellness activities, and exclusive experiences. This budget allows for the highest comfort levels while exploring Khon Kaen's attractions."
+      "description": "Luxury travelers with $150-400 daily budgets can stay at premium resorts like Pullman Khon Kaen Raja Orchid or Avani Khon Kaen ($100-150/night), dine at fine restaurants like Food by Fire or Seasons 27 ($20-40 per meal), arrange private transportation and guides, and enjoy spa treatments, wellness activities, and exclusive experiences."
     }
   },
   "safetyTips": "Khon Kaen is generally a safe city with low violent crime rates, though standard traveler precautions apply: avoid displaying expensive jewelry, cameras, or cash in crowded markets, keep valuables secure in hotel safes, and remain aware of surroundings during nighttime activities. The city's university population creates a young, vibrant atmosphere that typically ensures good security, and police presence is visible throughout main tourist areas. Traffic safety deserves attention—Thai roads feature aggressive driving patterns, so travelers should exercise extreme caution when crossing streets, riding motorbikes, or traveling by tuk-tuk, particularly after dark. Petty theft occasionally occurs in crowded night markets and on public transport, so keep backpacks in front and avoid carrying excessive cash. The tap water is generally not recommended for drinking; purchase bottled water cheaply throughout the city (THB 8-15 per bottle). Health facilities are adequate for routine care, though serious medical issues may require travel to Bangkok.",
   "faq": [
     {
       "question": "How many days should I spend in Khon Kaen?",
-      "answer": "Two to three days is ideal for experiencing Khon Kaen's main attractions: one day for Phu Wiang Dinosaur Museum and Khon Kaen National Museum, one day exploring Bueng Kaen Nakhon Lake and Wat Nong Wang, and optionally a day trip to Chonnabot Silk Weaving Village or Nam Phong National Park. Longer stays allow deeper engagement with local markets and regional culture."
+      "answer": "Two to three days is ideal for experiencing Khon Kaen's main attractions: one day for Phu Wiang Dinosaur Museum (THB 100/$3) and Khon Kaen National Museum (THB 100/$3), one day exploring Bueng Kaen Nakhon Lake and Wat Nong Wang, and optionally a day trip to Chonnabot Silk Weaving Village (free) or Nam Phong National Park (THB 100/$3). Longer stays allow deeper engagement with local markets and regional culture."
     },
     {
       "question": "What is the entrance fee for Phu Wiang Dinosaur Museum?",
@@ -397,38 +490,29 @@
       "answer": "Yes, Bueng Kaen Nakhon Lake is completely free to enter and explore. The park features an 8-kilometer walking path, sunset views, and numerous lakeside food stalls, making it perfect for budget-conscious travelers seeking recreation and authentic local atmosphere."
     },
     {
-      "question": "What is the best way to reach Chonnabot Silk Weaving Village from Khon Kaen city?",
-      "answer": "The village is approximately 40 kilometers from Khon Kaen city. Renting a motorbike ($5-8/day) provides the most flexible option, though hired tuk-tuks (THB 300-500 round trip with waiting time) or Grab cars can also be arranged. Many visitors hire drivers through hotels for half-day trips."
+      "question": "What is the average tuk-tuk fare in Khon Kaen?",
+      "answer": "Tuk-tuk fares typically range from THB 40-100 ($1.25-3) depending on distance and destination. Negotiate the price before boarding, as tuk-tuks do not use meters in Khon Kaen."
     },
     {
-      "question": "How much does accommodation cost in Khon Kaen?",
-      "answer": "Budget guesthouses range from THB 500-800 ($15-25/night), mid-range 3-star hotels from THB 1,000-1,500 ($30-45/night), and higher-end options from THB 1,500-3,000+ ($45-100/night). Excellent value exists across all categories compared to Western countries."
-    },
-    {
-      "question": "Is Khon Kaen suitable for budget backpackers?",
-      "answer": "Absolutely. Khon Kaen is ideal for budget travelers, with cheap accommodation ($15-25/night), inexpensive street food ($1-3 per meal), minimal transport costs (songthaews at $0.30-0.60), and affordable attractions (museums $3 each). Daily budgets of $20-30 are realistic for comfortable budget travel."
-    },
-    {
-      "question": "What is the best time to visit Khon Kaen?",
-      "answer": "November through February offers the best weather with temperatures of 20-28°C (68-82°F), clear skies, and low humidity. December and January are peak months with the most pleasant conditions, though March-May becomes very hot (35°C+) and June-October brings monsoon rains. Budget travelers may prefer shoulder seasons (March, October) for lower prices."
+      "question": "Is it safe to rent a motorbike in Khon Kaen?",
+      "answer": "Motorbike rental is available at THB 150-250 ($5-8) per day, but requires an international driving permit and caution due to Thai driving standards. Wear a helmet (mandatory by law), avoid nighttime riding, and exercise extreme care on roads."
     }
   ],
   "practicalInfo": {
     "bestMonths": [
-      "Nov",
-      "Dec",
-      "Jan",
-      "Feb",
-      "Mar"
+      "November",
+      "December",
+      "January",
+      "February"
     ],
     "nearestAirport": "Khon Kaen International Airport (KKC)",
     "travelTimeFromAirport": "20-30 minutes by car to city center",
     "localTransport": [
-      "Tuk-tuk",
-      "Songthaew",
-      "Motorbike rental",
-      "Grab",
-      "Train"
+      "Tuk-tuk (THB 40-100 per trip)",
+      "Songthaew (THB 10-20 per trip)",
+      "Motorbike rental (THB 150-250/day)",
+      "Grab app ride-hailing",
+      "Train (Khon Kaen Train Station)"
     ]
   },
   "enrichedAt": "2026-02-22T12:45:52.226Z",
@@ -456,5 +540,80 @@
       "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Khon Kaen.",
       "Dinosaur Museum": "Visit Dinosaur Museum during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
     }
-  }
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Phu Wiang Dinosaur Museum",
+      "description": "Thailand's premier dinosaur museum featuring Siamotyrannus fossils, life-size replicas, and interactive exhibits showcasing Thailand's prehistoric heritage.",
+      "location": "Phu Wiang District, Khon Kaen Province",
+      "entrance_fee": "THB 100 ($3 USD)",
+      "highlights": [
+        "Siamotyrannus fossils",
+        "Interactive exhibits",
+        "Life-size dinosaur models"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Bueng Kaen Nakhon Lake",
+      "description": "The city's recreational centerpiece offering free admission with an 8-kilometer walking path, lakeside dining, and scenic sunset views.",
+      "location": "City Center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "8km walking path",
+        "Sunrise/sunset views",
+        "Lakeside food stalls"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Wat Nong Wang (Phra Mahathat Kaen Nakhon)",
+      "description": "Nine-story temple providing panoramic city views and lakeside serenity, combining spiritual significance with scenic vistas.",
+      "location": "Bueng Kaen Nakhon Lake area",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Nine-story temple",
+        "Panoramic city views",
+        "Lake views"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Khon Kaen National Museum",
+      "description": "Regional museum showcasing Dvaravati art, prehistoric artifacts, and Isaan cultural heritage with well-curated exhibits.",
+      "location": "City Center",
+      "entrance_fee": "THB 100 ($3 USD)",
+      "highlights": [
+        "Dvaravati art",
+        "Regional history",
+        "Prehistoric artifacts"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Nam Phong National Park",
+      "description": "Natural park featuring Tat Fa waterfall, scenic hiking trails, and pristine landscapes perfect for nature exploration.",
+      "location": "Nam Phong District",
+      "entrance_fee": "THB 100 ($3 USD)",
+      "highlights": [
+        "Tat Fa waterfall",
+        "Hiking trails",
+        "Scenic landscapes"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Chonnabot Silk Weaving Village",
+      "description": "Traditional mudmee silk weaving center where artisans demonstrate centuries-old techniques and sell directly to visitors.",
+      "location": "Chonnabot District",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Live weaving demonstrations",
+        "Mudmee silk",
+        "Direct artisan sales"
+      ]
+    }
+  ],
+  "factchecked_at": "2026-03-08T18:33:48.411Z"
 }

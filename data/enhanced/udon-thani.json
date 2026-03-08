@@ -115,96 +115,143 @@
   ],
   "top_restaurants": [
     {
-      "name": "Rabiang Pa Restaurant",
-      "cuisine": "Thai/Isaan",
-      "price_range": "$$",
-      "description": {
-        "en": "Beautiful open-air restaurant set among trees with excellent Isaan and central Thai dishes. Known for its grilled river fish and som tum prepared to your preferred spice level.",
-        "nl": "Prachtig openluchtrestaurant tussen de bomen met uitstekende Isaan en centraal-Thaise gerechten. Bekend om zijn gegrilde riviervis en som tum bereid naar je gewenste pittigheid."
-      }
+      "rank": 1,
+      "name": "Madam Pahtehh",
+      "description": "Highly-rated cafe serving excellent Thai cuisine and coffee in a welcoming atmosphere.",
+      "cuisine_type": "Cafe, Thai",
+      "price_range": "100-300 THB ($3-9)",
+      "highlights": [
+        "Thai dishes",
+        "Quality coffee",
+        "Rating 4.6/5 TripAdvisor"
+      ]
     },
     {
-      "name": "UD Town Food Park",
-      "cuisine": "Mixed Street Food",
-      "price_range": "$",
-      "description": {
-        "en": "Modern food market area at UD Town lifestyle mall with dozens of food stalls offering everything from Isaan classics to Japanese and Korean fusion. Lively atmosphere every evening.",
-        "nl": "Modern foodmarktgebied bij UD Town lifestyle mall met tientallen eetkramen die alles bieden van Isaan-klassiekers tot Japanse en Koreaanse fusie. Levendige sfeer elke avond."
-      }
+      "rank": 2,
+      "name": "Samuay & Sons",
+      "description": "Fast food establishment specializing in Asian cuisine with quick service and consistent quality.",
+      "cuisine_type": "Fast Food, Asian",
+      "price_range": "80-250 THB ($2-7)",
+      "highlights": [
+        "Quick service",
+        "Asian specialties",
+        "Rating 4.6/5 TripAdvisor"
+      ]
     },
     {
-      "name": "Nong Prajak Food Stalls",
-      "cuisine": "Isaan Street Food",
-      "price_range": "$",
-      "description": {
-        "en": "The food vendors lining Nong Prajak Park serve some of the best and cheapest street food in the city. Grilled chicken, papaya salad, sticky rice, and fresh fruit shakes at sunset by the lake.",
-        "nl": "De etensstalletjes langs Nong Prajak Park serveren het beste en goedkoopste streetfood van de stad. Gegrilde kip, papajasalade, sticky rice en verse fruitmilkshakes bij zonsondergang aan het meer."
-      }
+      "rank": 3,
+      "name": "Brick House INN",
+      "description": "Steakhouse and bar serving quality grilled meats and beverages in a relaxed setting popular with expats and visitors.",
+      "cuisine_type": "Steakhouse, Bar",
+      "price_range": "300-600 THB ($9-17)",
+      "highlights": [
+        "Quality steaks",
+        "Bar service",
+        "Rating 4.2/5 TripAdvisor"
+      ]
     },
     {
-      "name": "Steve's Bar and Restaurant",
-      "cuisine": "Thai/Western",
-      "price_range": "$$",
-      "description": {
-        "en": "Long-running expat-friendly restaurant serving solid Thai and Western food. Good steaks, craft beers, and a reliable meeting point for the international community in Udon Thani.",
-        "nl": "Langlopend expat-vriendelijk restaurant dat degelijk Thais en westers eten serveert. Goede steaks, craft bieren en een betrouwbaar ontmoetingspunt voor de internationale gemeenschap in Udon Thani."
-      }
+      "rank": 4,
+      "name": "Da Sofia Restaurant",
+      "description": "Italian restaurant offering authentic pizza and Italian dishes with quality ingredients.",
+      "cuisine_type": "Italian, Pizza",
+      "price_range": "250-550 THB ($7-16)",
+      "highlights": [
+        "Fresh pizza",
+        "Italian cuisine",
+        "Rating 4.4/5 TripAdvisor"
+      ]
     },
     {
-      "name": "Kin Lao Restaurant",
-      "cuisine": "Isaan/Lao",
-      "price_range": "$",
-      "description": {
-        "en": "Authentic Isaan restaurant specializing in traditional dishes like larb, nam tok, and the funky fermented fish dishes that define real northeastern cuisine. Brave but rewarding for adventurous eaters.",
-        "nl": "Authentiek Isaan-restaurant gespecialiseerd in traditionele gerechten zoals larb, nam tok en de sterke gefermenteerde visgerechten die de echte noordoostelijke keuken kenmerken. Dapper maar lonend voor avontuurlijke eters."
-      }
+      "rank": 5,
+      "name": "VT Nam Nueng",
+      "description": "Vietnamese restaurant serving authentic Asian cuisine with Vietnamese specialties and fresh ingredients.",
+      "cuisine_type": "Asian, Vietnamese",
+      "price_range": "120-350 THB ($3-10)",
+      "highlights": [
+        "Vietnamese specialties",
+        "Fresh ingredients",
+        "Rating 4.1/5 TripAdvisor"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Krua Khun Nid",
+      "description": "Popular local eatery serving authentic Isaan dishes including som tam (green papaya salad), gai yang (grilled chicken), and sticky rice in a casual atmosphere.",
+      "cuisine_type": "Thai Street Food, Isaan",
+      "price_range": "50-150 THB ($1.50-4.50)",
+      "highlights": [
+        "Authentic Isaan",
+        "Som tam",
+        "Gai yang"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "Centara Hotel & Convention Centre Udon Thani",
-      "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "The city's top international hotel connected to Central Plaza mall with luxurious rooms, rooftop pool, spa, and multiple dining options. The most comfortable base in Udon Thani.",
-        "nl": "Het beste internationale hotel van de stad verbonden met Central Plaza winkelcentrum met luxueuze kamers, daktuin zwembad, spa en meerdere eetgelegenheden. De meest comfortabele uitvalsbasis in Udon Thani."
-      }
-    },
-    {
-      "name": "Z Through By The Zign Hotel",
+      "rank": 1,
+      "name": "Banbua Grand Udon",
+      "description": "Well-appointed mid-range hotel offering comfortable rooms with modern furnishings, convenient central location, and excellent value.",
+      "price_range": "$50-85/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Stylish modern hotel with designer rooms, a popular rooftop bar, and excellent location near the city center. Great value for a boutique-style experience.",
-        "nl": "Stijlvol modern hotel met design kamers, een populaire rooftopbar en uitstekende locatie bij het stadscentrum. Goede waarde voor een boutique-stijl ervaring."
-      }
+      "highlights": [
+        "Central location",
+        "Modern rooms",
+        "Good value",
+        "Rating 4.5/5 TripAdvisor"
+      ]
     },
     {
-      "name": "Ban Chiang Hotel",
+      "rank": 2,
+      "name": "Centara Udon",
+      "description": "Premium 4-star hotel with full-service facilities, spa services, quality dining options, and professional service from the established Centara chain.",
+      "price_range": "$100-160/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Established mid-range hotel with comfortable rooms, pool, and restaurant. Named after the famous archaeological site, it is a reliable choice near the city center.",
-        "nl": "Gevestigd middenklasse hotel met comfortabele kamers, zwembad en restaurant. Vernoemd naar de beroemde archeologische vindplaats, het is een betrouwbare keuze bij het stadscentrum."
-      }
+      "highlights": [
+        "Spa services",
+        "Quality dining",
+        "Professional service",
+        "Rating 4.1/5 TripAdvisor"
+      ]
     },
     {
-      "name": "Prajaktra Design Hotel",
+      "rank": 3,
+      "name": "The Pannarai Hotel",
+      "description": "Highly-rated hotel offering refined accommodations with modern amenities, excellent service, and convenient central location near major attractions.",
+      "price_range": "$60-100/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Modern design hotel overlooking Nong Prajak Park with contemporary rooms, rooftop restaurant, and lake views. Ideal location for exploring the park and nearby food stalls.",
-        "nl": "Modern design hotel met uitzicht op Nong Prajak Park met hedendaagse kamers, dakrestaurant en meerzicht. Ideale locatie voor het verkennen van het park en nabijgelegen etensstalletjes."
-      }
+      "highlights": [
+        "Refined style",
+        "Central location",
+        "Modern amenities",
+        "Rating 4.0/5 TripAdvisor"
+      ]
     },
     {
-      "name": "Top Mansion Udon Thani",
+      "rank": 4,
+      "name": "Charoen Hotel",
+      "description": "Established budget-midrange hotel with comfortable rooms, basic amenities, and reliable service in a convenient location.",
+      "price_range": "$35-65/night",
       "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "Clean, well-run budget hotel with air-conditioned rooms, hot showers, and a friendly reception. Popular with backpackers and long-stay travelers on a budget.",
-        "nl": "Schoon, goed gerund budgethotel met airco kamers, warme douches en een vriendelijke receptie. Populair bij backpackers en langeverblijf-reizigers met een beperkt budget."
-      }
+      "highlights": [
+        "Budget-friendly",
+        "Reliable service",
+        "Central area",
+        "Rating 3.5/5 TripAdvisor"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "B2 Udon Boutique & Budget Hotel",
+      "description": "Boutique-style budget hotel offering clean rooms with character, friendly atmosphere, and excellent value for backpackers and budget travelers.",
+      "price_range": "$25-50/night",
+      "category": "budget",
+      "highlights": [
+        "Boutique style",
+        "Budget-friendly",
+        "Friendly staff",
+        "Rating 3.5/5 TripAdvisor"
+      ]
     }
   ],
   "travel_tips": [
@@ -280,154 +327,107 @@
   "enhanced_at": "2026-02-22T00:00:00.000Z",
   "ai_generated": true,
   "overview": "Udon Thani is a vibrant gateway to authentic Isaan culture, blending ancient history with modern convenience in northeastern Thailand. Home to the UNESCO-listed Ban Chiang Archaeological Site featuring 5,000-year-old pottery and Bronze-age artifacts, the city offers visitors a rare glimpse into prehistoric Southeast Asia. The spectacular Red Lotus Sea transforms from December to February into millions of blooming lotus flowers visible from longtail boats, creating one of Thailand's most photogenic natural wonders. With a population of 290,000 and a growing expat community, Udon Thani provides excellent local markets, genuine street food, and warm hospitality without the overwhelming tourism of Thailand's major tourist hubs.",
-  "thingsToDo": "Start your exploration at the Ban Chiang Archaeological Site (150 THB/$4 entrance fee), where you'll discover prehistoric pottery and Bronze-age artifacts that shaped understanding of ancient Asian civilizations. Between December and February, take a longtail boat tour of the Red Lotus Sea (500 THB/$14), where millions of crimson lotus flowers create an ethereal landscape. Visit Nong Prajak Park (free entrance), a beautiful lakeside park with illuminated fountains and weekend live music performances, perfect for evening strolls and sampling lakeside food stalls. Don't miss Phu Phrabat Historical Park (100 THB/$3) featuring prehistoric cave paintings and dramatic sandstone formations, or explore the sacred Erawan Cave (20 THB/$1) with its impressive rock formation and stalactite chambers. UD Town offers modern shopping and a nightly food market atmosphere, while the Udon Thani Central Market showcases hundreds of vendors selling Isaan specialties and local silk fabrics.",
+  "thingsToDo": "Start your exploration at the Ban Chiang Archaeological Site (150 THB/$4 entrance fee), where you'll discover UNESCO-listed prehistoric pottery and Bronze Age artifacts that shaped understanding of ancient Asian civilizations. Between December and February, take a longtail boat tour of the Red Lotus Sea (500 THB/$14 per person), where millions of crimson lotus flowers create an ethereal landscape - visit early morning (6-8 AM) when flowers are fully open. Visit Nong Prajak Park (free entrance), a beautiful lakeside park with illuminated fountains and weekend live music performances, perfect for evening strolls and sampling lakeside food stalls. Don't miss Phu Phrabat Historical Park (100 THB/$3) featuring prehistoric cave paintings and dramatic sandstone formations, or explore the sacred Erawan Cave (20 THB/$0.60) with its impressive rock formations and stalactite chambers. UD Town offers modern shopping with a nightly food market atmosphere, while the Udon Thani Central Market showcases hundreds of vendors selling Isaan specialties and local silk fabrics.",
   "whereToStay": "Udon Thani offers accommodations across all price ranges, from budget guesthouses to luxury resorts. The city center near UD Town and Nong Prajak Park provides convenient access to shopping, dining, and attractions with numerous hotels within walking distance of markets and restaurants. Budget travelers can find comfortable guesthouses in the 15-30 USD range, while mid-range hotels offer modern amenities between 40-80 USD per night. The city's growing expat community means good Western-standard facilities are available, with luxury properties like The Pannarai Hotel and Centara Udon offering premium experiences at 100-200+ USD per night. Most hotels are concentrated in central Udon Thani, making them ideal bases for exploring attractions, with easy access to local transport and the vibrant Isaan food scene.",
   "whereToEat": [
     {
-      "name": "Taw Baw Pla Pao",
-      "cuisine": "Fresh Fish & Isaan",
-      "priceRange": "$$",
-      "description": "Famous for grilled whole tilapia (pla pao) and exceptional fish salad (laab pla), this laid-back restaurant showcases Udon Thani's reputation for freshwater fish dishes cooked to perfection."
+      "name": "Madam Pahtehh",
+      "cuisine": "Cafe, Thai",
+      "priceRange": "$",
+      "description": "Highly-rated cafe serving excellent Thai cuisine and quality coffee in a welcoming atmosphere. Rating 4.6/5 on TripAdvisor."
     },
     {
-      "name": "Udon Miang Pla Pao",
-      "cuisine": "Grilled Fish & Isaan",
+      "name": "Samuay & Sons",
+      "cuisine": "Fast Food, Asian",
+      "priceRange": "$",
+      "description": "Fast food establishment specializing in Asian cuisine with quick service and consistent quality. Rating 4.6/5 on TripAdvisor."
+    },
+    {
+      "name": "Brick House INN",
+      "cuisine": "Steakhouse, Bar",
       "priceRange": "$$",
-      "description": "Specializes in miang pla pao - grilled fish stuffed with lemongrass and kaffir lime, served with fresh herbs and condiments for a complete interactive dining experience."
+      "description": "Steakhouse and bar serving quality grilled meats and beverages in a relaxed setting popular with expats. Rating 4.2/5 on TripAdvisor."
+    },
+    {
+      "name": "Da Sofia Restaurant",
+      "cuisine": "Italian, Pizza",
+      "priceRange": "$$",
+      "description": "Italian restaurant offering authentic pizza and Italian dishes with quality ingredients. Rating 4.4/5 on TripAdvisor."
+    },
+    {
+      "name": "VT Nam Nueng",
+      "cuisine": "Asian, Vietnamese",
+      "priceRange": "$",
+      "description": "Vietnamese restaurant serving authentic Asian cuisine with Vietnamese specialties and fresh ingredients. Rating 4.1/5 on TripAdvisor."
     },
     {
       "name": "Krua Khun Nid",
-      "cuisine": "Thai Street Food",
+      "cuisine": "Thai Street Food, Isaan",
       "priceRange": "$",
-      "description": "Popular local eatery serving authentic Isaan dishes including som tam (green papaya salad), grilled chicken (gai yang), and sticky rice in a casual atmosphere."
-    },
-    {
-      "name": "Jaew Hon Baan Suan Non Sa-at",
-      "cuisine": "Isaan Specialties",
-      "priceRange": "$",
-      "description": "Authentic Isaan restaurant known for fiery som tam, tom saab (sour and spicy soup), and traditional sticky rice served the northeast Thai way."
-    },
-    {
-      "name": "Rabiang Patchanee",
-      "cuisine": "Thai Regional",
-      "priceRange": "$$",
-      "description": "Highly-rated restaurant offering regional Thai cuisine with quality preparation and presentation, popular with both locals and visitors."
-    },
-    {
-      "name": "Lab Mu Worachai",
-      "cuisine": "Isaan Pork Specialties",
-      "priceRange": "$",
-      "description": "Specializes in laab moo (minced pork salad) and other traditional Isaan pork dishes, featuring authentic recipes passed down through generations."
-    },
-    {
-      "name": "Pad Thai Bua Dang",
-      "cuisine": "Thai Noodles",
-      "priceRange": "$",
-      "description": "Popular pad thai restaurant with fresh ingredients and bold flavors, offering quality noodle dishes at budget-friendly prices."
-    },
-    {
-      "name": "Pa Noi Beef Noodles",
-      "cuisine": "Beef Noodle Soup",
-      "priceRange": "$",
-      "description": "Local favorite serving hearty beef noodle soup dishes with rich broths and tender meat, perfect for breakfast or lunch."
+      "description": "Popular local eatery serving authentic Isaan dishes including som tam, gai yang, and sticky rice in a casual atmosphere."
     }
   ],
   "topHotels": [
     {
-      "name": "The Pannarai Hotel",
-      "category": "luxury",
-      "priceRange": "$120-180/night",
+      "name": "Banbua Grand Udon",
+      "category": "midrange",
+      "priceRange": "$50-85/night",
       "area": "Central Udon Thani",
-      "description": "Highly-rated luxury property offering refined accommodations with modern amenities, excellent service, and convenient central location near major attractions."
+      "description": "Well-appointed mid-range hotel offering comfortable rooms with modern furnishings, convenient central location near major attractions, and good value for money."
     },
     {
       "name": "Centara Udon",
-      "category": "luxury",
+      "category": "midrange",
       "priceRange": "$100-160/night",
       "area": "Central Udon Thani",
       "description": "Premium hotel with full-service facilities, spa services, quality dining options, and professional service expected from the Centara chain."
     },
     {
-      "name": "Banbua Grand",
+      "name": "The Pannarai Hotel",
       "category": "midrange",
-      "priceRange": "$50-85/night",
+      "priceRange": "$60-100/night",
       "area": "Central Udon Thani",
-      "description": "Well-appointed mid-range hotel offering comfortable rooms with modern furnishings, convenient location, and good value for money."
-    },
-    {
-      "name": "Aston Hotel",
-      "category": "midrange",
-      "priceRange": "$45-75/night",
-      "area": "City Center",
-      "description": "Reliable mid-range option with clean comfortable rooms, helpful staff, and proximity to UD Town shopping and dining areas."
+      "description": "Highly-rated hotel offering refined accommodations with modern amenities, excellent service, and convenient central location near major attractions."
     },
     {
       "name": "Charoen Hotel",
-      "category": "midrange",
-      "priceRange": "$40-70/night",
+      "category": "budget",
+      "priceRange": "$35-65/night",
       "area": "Central Udon Thani",
-      "description": "Established mid-range hotel with good facilities, friendly service, and convenient access to local markets and attractions."
+      "description": "Established budget hotel with comfortable rooms, basic amenities, and reliable service in a convenient central location."
     },
     {
-      "name": "Nong Prajak Hotel",
+      "name": "B2 Udon Boutique & Budget Hotel",
       "category": "budget",
-      "priceRange": "$20-35/night",
-      "area": "Nong Prajak Area",
-      "description": "Budget-friendly option with basic but clean rooms, perfect for travelers seeking value while staying near the scenic Nong Prajak Park."
-    },
-    {
-      "name": "SP Udon Hotel",
-      "category": "budget",
-      "priceRange": "$18-32/night",
+      "priceRange": "$25-50/night",
       "area": "Central Udon Thani",
-      "description": "Affordable guesthouse-style hotel with simple comfortable rooms and convenient downtown location near markets and restaurants."
-    },
-    {
-      "name": "Sawasdee Guesthouse",
-      "category": "budget",
-      "priceRange": "$15-28/night",
-      "area": "Near Central Market",
-      "description": "Budget guesthouse with basic rooms, friendly atmosphere, and excellent location for exploring the vibrant Udon Thani Central Market."
-    },
-    {
-      "name": "The Pannarai Residence",
-      "category": "midrange",
-      "priceRange": "$60-90/night",
-      "area": "Central Udon Thani",
-      "description": "Upscale mid-range offering with spacious rooms, good amenities, and location suitable for extended stays or comfort-seeking travelers."
-    },
-    {
-      "name": "Orchid Home Guesthouse",
-      "category": "budget",
-      "priceRange": "$16-30/night",
-      "area": "Central Area",
-      "description": "Charming budget guesthouse with personal touches, helpful staff knowledgeable about local attractions and restaurants."
+      "description": "Boutique-style budget hotel offering clean rooms with character, friendly atmosphere, and excellent value for backpackers."
     }
   ],
-  "gettingAround": "Udon Thani's local transport is accessible and affordable, with tuk-tuks (shared taxis) being the most popular option for short distances within the city, typically costing 30-50 THB ($1-1.50) per journey. Songthaews (shared minibuses) operate set routes around the city and are even cheaper at 10-20 THB per ride, making them ideal for budget travelers. Grab (Southeast Asia's ride-sharing app) is available in Udon Thani and offers convenient metered fares starting around 40 THB for short trips. For exploring surrounding attractions like Ban Chiang Archaeological Site or Phu Phrabat Historical Park, motorbike rentals (200-300 THB/$6-9 per day) provide flexibility, though driving in Thailand requires an International Driving Permit. Taxis can be arranged through hotels for longer journeys, typically costing 300-400 THB for trips within the city.",
+  "gettingAround": "Udon Thani's local transport is accessible and affordable, with tuk-tuks (shared taxis) being the most popular option for short distances within the city, typically costing 30-50 THB ($0.90-1.50) per journey. Songthaews (shared minibuses) operate set routes around the city and are even cheaper at 10-20 THB ($0.30-0.60) per ride, making them ideal for budget travelers. Grab (Southeast Asia's ride-sharing app) is available in Udon Thani and offers convenient metered fares starting around 40 THB ($1.20) for short trips. For exploring surrounding attractions like Ban Chiang Archaeological Site or Phu Phrabat Historical Park, motorbike rentals (200-300 THB/$6-9 per day) provide flexibility, though driving in Thailand requires an International Driving Permit. Taxis can be arranged through hotels for longer journeys, typically costing 300-400 THB ($9-12) for trips within the city.",
   "bestTimeToVisit": "Udon Thani's best visiting season runs from November through February when cool, dry weather makes exploring comfortable and outdoor activities enjoyable. December through February is particularly spectacular as the Red Lotus Sea blooms, creating the iconic red carpet of lotus flowers visible across the water - plan boat tours for early morning when flowers are fully open and photography conditions are optimal. During these months, daytime temperatures range from 25-30°C (77-86°F) with low humidity and minimal rainfall. Avoid the hot season (March-May) when temperatures exceed 35°C (95°F) and the monsoon season (June-October) brings heavy rainfall that can limit outdoor activities and make travel uncomfortable. The shoulder seasons of March and October-November can still be pleasant but are considerably hotter and wetter than peak season.",
   "budgetGuide": {
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget traveler daily costs include basic guesthouse accommodation ($15-25/night), street food and market meals ($3-8/day), local tuk-tuk transport ($2-4/day), and free or low-cost attractions like Nong Prajak Park. Visiting paid attractions like Ban Chiang Archaeological Site (150 THB/$4) and Phu Phrabat Historical Park (100 THB/$3) remains very affordable."
+      "description": "Budget traveler daily costs: basic guesthouse accommodation ($15-25/night), street food and market meals ($3-8/day), local tuk-tuk transport ($2-4/day), and free or low-cost attractions like Nong Prajak Park. Paid attractions like Ban Chiang Archaeological Site (150 THB/$4) and Phu Phrabat Historical Park (100 THB/$3) remain very affordable."
     },
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Mid-range daily costs include comfortable 3-star hotel accommodation ($40-70/night), meals at mid-range restaurants ($6-12/day), Grab rides and tuk-tuks ($4-8/day), attraction entrance fees, and occasional treats. This allows visits to Red Lotus Sea boat tours (500 THB/$14) and multiple paid attractions without budget stress."
+      "description": "Mid-range daily costs: comfortable 3-star hotel accommodation ($40-70/night), meals at mid-range restaurants ($6-12/day), Grab rides and tuk-tuks ($4-8/day), attraction entrance fees, and occasional treats. Includes Red Lotus Sea boat tours (500 THB/$14) and multiple paid attractions without budget stress."
     },
     "luxury": {
       "min": 150,
       "max": 400,
-      "description": "Luxury daily costs include 4-5 star resort accommodation ($100-200+/night), fine dining restaurants ($20-40/meal), private transportation, organized tours, spa treatments, and premium experiences. This budget allows for exclusive longtail boat experiences at Red Lotus Sea, private guides, and high-end dining throughout Udon Thani."
+      "description": "Luxury daily costs: 4-5 star resort accommodation ($100-200+/night), fine dining restaurants ($20-40/meal), private transportation, organized tours, spa treatments, and premium experiences. Allows exclusive longtail boat experiences at Red Lotus Sea, private guides, and high-end dining throughout Udon Thani."
     }
   },
   "safetyTips": "Udon Thani is generally a safe city for travelers with low violent crime rates and a welcoming local population. Exercise standard travel precautions such as not displaying expensive valuables, avoiding walking alone late at night in unfamiliar areas, and keeping copies of important documents separate from originals. The city's growing expat community has established several safe, well-populated neighborhoods - stick to main streets and tourist-friendly areas during evening hours. Be cautious during Songkran Festival (Thai New Year in April) when celebration celebrations can become rowdy, and always wear helmets when renting motorbikes. Be aware that political sensitivities exist in Thailand - avoid negative comments about the Thai royal family and respect local customs. Medical facilities are good in Udon Thani with several hospitals offering international standard care; travel insurance is recommended for all visitors.",
   "faq": [
     {
       "question": "When is the best time to visit the Red Lotus Sea?",
-      "answer": "December through February is peak bloom season when millions of red lotus flowers carpet the water. Visit early morning (around 6-8 AM) when flowers are fully open, before boat traffic and heat increase. Tours typically cost 500 THB ($14) per person."
+      "answer": "December through February is peak bloom season when millions of red lotus flowers carpet the water. Visit early morning (around 6-8 AM) when flowers are fully open, before boat traffic and heat increase. Longtail boat tours typically cost 500 THB ($14) per person."
     },
     {
       "question": "How do I get to Udon Thani from Bangkok?",
@@ -435,23 +435,7 @@
     },
     {
       "question": "Is Ban Chiang Archaeological Site worth visiting?",
-      "answer": "Yes, absolutely. At only 150 THB ($4) entrance fee, it offers fascinating 5,000-year-old pottery and Bronze-age artifacts with UNESCO World Heritage status. The site provides genuine insight into prehistoric Asian civilization and is relatively uncrowded compared to major tourist attractions."
-    },
-    {
-      "question": "What's the local cuisine I should try in Udon Thani?",
-      "answer": "Must-try Isaan specialties include som tam (green papaya salad), gai yang (grilled chicken), pla pao (salt-crusted grilled fish), tom saab (sour spicy soup), and khao neow (sticky rice). Udon Thani is particularly famous for fresh tilapia dishes - try laab pla (fish salad) at Taw Baw Pla Pao or Udon Miang Pla Pao."
-    },
-    {
-      "question": "How much does it cost per day in Udon Thani?",
-      "answer": "Budget travelers can live on $20-40/day with guesthouse, street food, and local transport. Mid-range travelers spend $50-100/day for 3-star hotels and restaurant meals. Luxury travelers budget $150-400/day for 5-star resorts and fine dining."
-    },
-    {
-      "question": "What's the weather like in Udon Thani?",
-      "answer": "November-February is cool and dry (25-30°C), perfect for visiting. March-May is hot (35°C+). June-October is monsoon season with heavy rain. Best time to visit is December-February when weather is ideal and Red Lotus Sea is blooming."
-    },
-    {
-      "question": "Is Udon Thani worth visiting if I'm not interested in archaeology?",
-      "answer": "Absolutely. Beyond Ban Chiang, Udon Thani offers the spectacular Red Lotus Sea, beautiful Nong Prajak Park, adventure at Phu Phrabat Historical Park, excellent Isaan cuisine, vibrant local markets, and authentic Thai culture without heavy tourist infrastructure. It's ideal for travelers seeking genuine northeastern Thailand experiences."
+      "answer": "Yes, absolutely. At only 150 THB ($4) entrance fee, it offers fascinating 5,000-year-old pottery and Bronze Age artifacts with UNESCO World Heritage status. The site provides genuine insight into prehistoric Asian civilization and is relatively uncrowded compared to major tourist attractions."
     }
   ],
   "practicalInfo": {
@@ -496,5 +480,92 @@
       "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Udon Thani.",
       "Ban Chiang Archaeological Site": "Visit Ban Chiang Archaeological Site during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
     }
-  }
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Ban Chiang Archaeological Site",
+      "description": "UNESCO World Heritage Site featuring 5,000-year-old pottery and Bronze Age artifacts that provide insight into prehistoric Southeast Asian civilization.",
+      "location": "Ban Chiang District, approximately 50km east of Udon Thani",
+      "entrance_fee": "150 THB ($4)",
+      "highlights": [
+        "Ancient pottery",
+        "Bronze Age artifacts",
+        "UNESCO World Heritage status"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Red Lotus Sea (Nong Han)",
+      "description": "Natural water body where millions of red lotus flowers bloom from December to February, creating a spectacular landscape viewable from longtail boats.",
+      "location": "Kumphawapi District, approximately 50km south of Udon Thani",
+      "entrance_fee": "500 THB per boat tour ($14)",
+      "highlights": [
+        "December-February bloom season",
+        "Early morning photography",
+        "Longtail boat tours"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Nong Prajak Park",
+      "description": "Urban lakeside park with illuminated fountains, weekend live music performances, and food stalls along the perimeter.",
+      "location": "Central Udon Thani, near city center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Evening strolls",
+        "Lakeside food stalls",
+        "Local atmosphere"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Phu Phrabat Historical Park",
+      "description": "Historical park featuring prehistoric cave paintings, dramatic sandstone formations, and scenic walking trails.",
+      "location": "Na Khaem District, approximately 50km south of Udon Thani",
+      "entrance_fee": "100 THB ($3)",
+      "highlights": [
+        "Cave paintings",
+        "Sandstone formations",
+        "Nature trails"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Erawan Cave",
+      "description": "Sacred cave site with impressive rock formations and stalactite chambers, a spiritual destination for local visitors.",
+      "location": "Ban Phon District, approximately 40km from Udon Thani",
+      "entrance_fee": "20 THB ($0.60)",
+      "highlights": [
+        "Stalactites",
+        "Rock formations",
+        "Spiritual significance"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Udon Thani Central Market",
+      "description": "Large traditional market with hundreds of vendors selling Isaan specialties, local silk fabrics, fresh produce, and street food.",
+      "location": "Central Udon Thani",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Local products",
+        "Isaan specialties",
+        "Authentic market experience"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "UD Town",
+      "description": "Modern shopping mall with retail stores, restaurants, and nightly food market featuring local and international cuisine.",
+      "location": "Central Udon Thani",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Evening food market",
+        "Modern shopping",
+        "Diverse dining options"
+      ]
+    }
+  ],
+  "factchecked_at": "2026-03-08T18:34:53.976Z"
 }

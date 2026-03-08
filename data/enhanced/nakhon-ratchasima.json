@@ -11,7 +11,7 @@
     "en": "The largest city in Isaan and gateway to the northeast, Nakhon Ratchasima (locally known as Korat) offers the magnificent Khao Yai National Park, the ancient Khmer ruins of Phimai, and the beloved Thao Suranaree Monument. A bustling Thai city with deep historical roots and natural wonders.",
     "nl": "De grootste stad van Isaan en de poort naar het noordoosten, Nakhon Ratchasima (lokaal bekend als Korat) biedt het prachtige Khao Yai Nationaal Park, de oude Khmer-ruïnes van Phimai en het geliefde Thao Suranaree Monument. Een bruisende Thaise stad met diepe historische wortels en natuurwonderen."
   },
-  "population": 460000,
+  "population": 461000,
   "highlights": [
     "Khao Yai National Park",
     "Thao Suranaree Monument",
@@ -115,96 +115,208 @@
   ],
   "top_restaurants": [
     {
+      "rank": 1,
+      "name": "The Grill Room Restaurant",
+      "description": "Fine dining establishment specializing in French cuisine and premium steakhouse offerings with high-quality preparations.",
+      "cuisine_type": "French, Steakhouse",
+      "price_range": "600-1200 THB",
+      "highlights": [
+        "Premium steaks",
+        "French cuisine",
+        "Fine dining experience"
+      ],
+      "rating": 4.9
+    },
+    {
+      "rank": 2,
+      "name": "Kuni Kuni",
+      "description": "Upscale Italian and European restaurant offering authentic cuisine in a refined dining atmosphere.",
+      "cuisine_type": "Italian, European",
+      "price_range": "500-1000 THB",
+      "highlights": [
+        "Italian dishes",
+        "European menu",
+        "Quality ingredients"
+      ],
+      "rating": 4.8
+    },
+    {
+      "rank": 3,
+      "name": "The Castle Restaurant and Tea room",
+      "description": "Charming restaurant serving Italian and European cuisine with a heritage setting and tea service.",
+      "cuisine_type": "Italian, European",
+      "price_range": "400-900 THB",
+      "highlights": [
+        "Italian menu",
+        "Tea service",
+        "Atmospheric setting"
+      ],
+      "rating": 4.3
+    },
+    {
+      "rank": 4,
+      "name": "Midwinter Khao Yai",
+      "description": "European cuisine restaurant located near Khao Yai National Park, offering quality dining for national park visitors.",
+      "cuisine_type": "European",
+      "price_range": "350-800 THB",
+      "highlights": [
+        "European menu",
+        "National park location",
+        "Quality service"
+      ],
+      "rating": 4
+    },
+    {
+      "rank": 5,
+      "name": "Ban Mai Chay Nam Resort and Restaurant",
+      "description": "Casual dining resort restaurant offering international and fast food options in a relaxed setting.",
+      "cuisine_type": "International, Fast Food",
+      "price_range": "200-600 THB",
+      "highlights": [
+        "International options",
+        "Resort setting",
+        "Casual atmosphere"
+      ],
+      "rating": 4
+    },
+    {
+      "rank": 6,
       "name": "Ya Noi Pad Mee Korat",
-      "cuisine": "Korat/Isaan",
-      "price_range": "$",
-      "description": {
-        "en": "Legendary stall on Chomsurangyat Road serving the best pad mee Korat in the city. Ya Noi has been perfecting her smoky, wok-charred noodles for over 40 years. A must-try for any food lover.",
-        "nl": "Legendarisch stalletje op Chomsurangyat Road dat de beste pad mee Korat van de stad serveert. Ya Noi perfectioneert haar rokerige, in de wok gebakken noedels al meer dan 40 jaar. Een must-try voor elke fijnproever."
-      }
+      "description": "Legendary street food stall on Chomsurangyat Road serving authentic pad mee Korat with smoky, wok-charred noodles perfected over 40+ years.",
+      "cuisine_type": "Korat/Isaan",
+      "price_range": "50-100 THB",
+      "highlights": [
+        "Authentic local specialty",
+        "40+ year tradition",
+        "Must-try Korat dish"
+      ]
     },
     {
+      "rank": 7,
       "name": "Rabiang Pa Korat",
-      "cuisine": "Thai/Isaan",
-      "price_range": "$$",
-      "description": {
-        "en": "Large open-air restaurant in a garden setting with an extensive menu of Thai and Isaan dishes. Excellent grilled meats, fresh salads, and cold beer. Popular with local families on weekends.",
-        "nl": "Groot openluchtrestaurant in een tuinomgeving met een uitgebreid menu van Thaise en Isaan-gerechten. Uitstekend gegrild vlees, verse salades en koud bier. Populair bij lokale families in het weekend."
-      }
+      "description": "Large open-air restaurant in garden setting with extensive menu of Thai and Isaan dishes, grilled meats, and fresh salads. Popular with local families.",
+      "cuisine_type": "Thai, Isaan",
+      "price_range": "150-400 THB",
+      "highlights": [
+        "Garden setting",
+        "Grilled meats",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Ya Mo Monument Night Market",
-      "cuisine": "Street Food/Isaan",
-      "price_range": "$",
-      "description": {
-        "en": "The bustling evening market around the Thao Suranaree Monument with dozens of food stalls serving moo yor sausage, grilled chicken, som tum, and Korat-style sweets.",
-        "nl": "De bruisende avondmarkt rond het Thao Suranaree Monument met tientallen etensstalletjes die moo yor worst, gegrilde kip, som tum en Korat-stijl zoetigheden serveren."
-      }
-    },
-    {
-      "name": "Khao Yai Steakhouse by Chokchai",
-      "cuisine": "Steaks/Western",
-      "price_range": "$$$",
-      "description": {
-        "en": "Premium steakhouse at Chokchai Farm near Khao Yai serving locally raised Wagyu and Angus beef. The best steak in Isaan, in a ranch-style setting with mountain views.",
-        "nl": "Premium steakhouse bij Chokchai Farm nabij Khao Yai dat lokaal gekweekt Wagyu- en Angus-rundvlees serveert. De beste steak in Isaan, in een ranch-stijl omgeving met bergzicht."
-      }
-    },
-    {
+      "rank": 8,
       "name": "Ming Ter Restaurant",
-      "cuisine": "Chinese-Thai",
-      "price_range": "$$",
-      "description": {
-        "en": "Historic Chinese-Thai restaurant on Manat Road that has been serving the Sino-Thai community of Korat for over 50 years. Famous for its dim sum, roast duck, and congee.",
-        "nl": "Historisch Chinees-Thais restaurant op Manat Road dat de Chinees-Thaise gemeenschap van Korat al meer dan 50 jaar bedient. Beroemd om zijn dim sum, gebraden eend en congee."
-      }
+      "description": "Historic Chinese-Thai restaurant on Manat Road serving the local Sino-Thai community for 50+ years. Famous for dim sum, roast duck, and congee.",
+      "cuisine_type": "Chinese-Thai",
+      "price_range": "200-500 THB",
+      "highlights": [
+        "Dim sum",
+        "Roast duck",
+        "50+ year heritage"
+      ]
     }
   ],
   "top_hotels": [
     {
+      "rank": 1,
+      "name": "339 Hotels & Resort",
+      "description": "Highly-rated 4-star hotel offering comfortable accommodation with good amenities and service quality.",
+      "price_range": "1200-1800 THB per night",
+      "category": "midrange",
+      "highlights": [
+        "4-star rating",
+        "Quality service",
+        "Good value"
+      ],
+      "rating": 4
+    },
+    {
+      "rank": 2,
+      "name": "Sata House Boutique Resort",
+      "description": "4-star boutique resort providing personalized service and stylish accommodation for discerning travelers.",
+      "price_range": "1300-2000 THB per night",
+      "category": "midrange",
+      "highlights": [
+        "Boutique style",
+        "4-star rating",
+        "Personalized service"
+      ],
+      "rating": 4
+    },
+    {
+      "rank": 3,
+      "name": "Korapura Resort",
+      "description": "Well-regarded 3.8-star resort offering comfortable rooms and resort amenities in pleasant surroundings.",
+      "price_range": "1100-1600 THB per night",
+      "category": "midrange",
+      "highlights": [
+        "Resort amenities",
+        "3.8-star rating",
+        "Comfortable rooms"
+      ],
+      "rating": 3.8
+    },
+    {
+      "rank": 4,
+      "name": "The Resort Angel Hill",
+      "description": "3-star resort providing basic but comfortable accommodation with standard resort facilities.",
+      "price_range": "900-1400 THB per night",
+      "category": "budget",
+      "highlights": [
+        "Resort setting",
+        "Comfortable rooms",
+        "Standard amenities"
+      ],
+      "rating": 3
+    },
+    {
+      "rank": 5,
+      "name": "Thanya Pura Boutique Hotel",
+      "description": "3.3-star boutique hotel offering personal touches and stylish design in a budget-conscious package.",
+      "price_range": "800-1200 THB per night",
+      "category": "budget",
+      "highlights": [
+        "Boutique style",
+        "Budget-friendly",
+        "Personalized service"
+      ],
+      "rating": 3.3
+    },
+    {
+      "rank": 6,
       "name": "Dusit Princess Korat",
+      "description": "Korat's premier luxury city hotel with elegant rooms, excellent pool, fitness center, refined Empress restaurant, and direct connection to The Mall shopping center.",
+      "price_range": "4000-6500 THB per night",
       "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "Korat's finest city hotel with elegant rooms, an excellent pool, fitness center, and the refined Empress restaurant. Connected to the Mall shopping center for ultimate convenience.",
-        "nl": "Het beste stadshotel van Korat met elegante kamers, een uitstekend zwembad, fitnesscentrum en het verfijnde Empress-restaurant. Verbonden met het Mall-winkelcentrum voor ultiem gemak."
-      }
+      "highlights": [
+        "Fine dining",
+        "Pool and fitness",
+        "Shopping access"
+      ]
     },
     {
-      "name": "Hotel & Resort Lala Mukha (Khao Yai)",
-      "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "Stunning tented safari-style resort near Khao Yai with luxury canvas lodges overlooking mountains. Perfect base for national park exploration with wine bar and gourmet restaurant.",
-        "nl": "Prachtig safari-stijl tentresort bij Khao Yai met luxe canvas lodges met uitzicht op bergen. Perfecte uitvalsbasis voor nationaal park verkenning met wijnbar en gastronomisch restaurant."
-      }
-    },
-    {
+      "rank": 7,
       "name": "Kantary Hotel Korat",
+      "description": "Modern serviced apartment-hotel with spacious rooms, kitchenettes, pool, and gym. Ideal for longer stays with excellent value.",
+      "price_range": "1500-2500 THB per night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Modern serviced apartment-hotel with spacious rooms, kitchenettes, pool, and gym. Ideal for longer stays with a home-away-from-home feel and excellent value.",
-        "nl": "Modern serviced apartment-hotel met ruime kamers, kitchenettes, zwembad en sportschool. Ideaal voor langer verblijf met een thuisgevoel en uitstekende waarde."
-      }
+      "highlights": [
+        "Kitchenettes",
+        "Home-like feel",
+        "Long-stay value"
+      ]
     },
     {
+      "rank": 8,
       "name": "Sima Thani Hotel",
+      "description": "Well-established mid-range hotel near city center with comfortable rooms, traditional Thai decor, pool, and multiple dining options.",
+      "price_range": "1400-2200 THB per night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Well-established hotel near the city center with comfortable rooms, traditional Thai decor, pool, and several dining options. A reliable and popular mid-range choice.",
-        "nl": "Gevestigd hotel bij het stadscentrum met comfortabele kamers, traditionele Thaise inrichting, zwembad en verschillende eetgelegenheden. Een betrouwbare en populaire middenklasse keuze."
-      }
-    },
-    {
-      "name": "The Greenery Resort Khao Yai",
-      "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Popular family-friendly resort near Khao Yai with spacious gardens, multiple pools, mini golf, and activity programs. Great base for families exploring the national park area.",
-        "nl": "Populair gezinsvriendelijk resort bij Khao Yai met uitgestrekte tuinen, meerdere zwembaden, minigolf en activiteitenprogramma's. Geweldige uitvalsbasis voor gezinnen die het nationaal park verkennen."
-      }
+      "highlights": [
+        "Thai design",
+        "Multiple restaurants",
+        "Central location"
+      ]
     }
   ],
   "travel_tips": [
@@ -280,148 +392,128 @@
   "enhanced_at": "2026-02-22T00:00:00.000Z",
   "ai_generated": true,
   "overview": "Nakhon Ratchasima, affectionately known as Korat, is the largest city in Thailand's Isaan region and the essential gateway to the northeast. With a population of 460,000 in the city proper and nearly 2.6 million across the province, Korat blends modern urban energy with deep historical significance and access to some of Thailand's most extraordinary natural wonders. The city serves as a cultural and economic hub, where visitors encounter the revered Thao Suranaree Monument, the vibrant Save One Night Market, and easy access to UNESCO-listed Khao Yai National Park and ancient Khmer temples.\n\nWhat makes Korat distinctive is its perfect positioning as both a destination and a base for exploration. The city itself pulses with authentic Thai life—evening markets overflow with locals enjoying street food and shopping, temples dot the landscape with their golden spires, and cafes ranging from European-style establishments to humble shophouse cafes offer perfect retreats. For travelers seeking to venture beyond Bangkok's tourist circuits, Korat offers genuine cultural immersion combined with world-class natural attractions within an hour's drive.",
-  "thingsToDo": "The crown jewel of the region is Khao Yai National Park, a UNESCO World Heritage Site located just 60 kilometers away and easily reached by car. This pristine jungle reserve (entrance fee: 400 THB/$11 USD) is famous for its wild elephant populations, the spectacular 150-meter Haew Narok Waterfall with its three tiers, and the remarkable bat cave spectacle where thousands of bats emerge at dusk. Within the city itself, the Thao Suranaree Monument stands as the spiritual heart of Korat—a free, must-visit landmark honoring the local heroine, surrounded by the enormous Save One Night Market where visitors experience authentic Thai street food and local atmosphere.\n\nHistory enthusiasts should venture to Phimai Historical Park (entrance fee: 100 THB/$3 USD), home to remarkable pre-Angkor Khmer temple ruins featuring intricate Ramayana stone carvings and distinctive sandstone architecture. The nearby Phimai National Museum (100 THB/$3 USD) houses fascinating artifacts including a Jayavarman VII statue and regional Khmer sculptures. For something unique, visit Wat Ban Rai (the Elephant Temple) with its giant elephant-shaped structure adorned with ceramic mosaic art, or experience the awe of Sai Ngam, a 350-year-old giant banyan tree covering 1,400 square meters with a spirit shrine. December brings the Jim Thompson Farm Tour, showcasing beautiful flower fields and traditional silk demonstrations (entrance fee: 200 THB/$6 USD), while Chokchai Farm (300 THB/$9 USD) offers interactive farm tours and ice cream workshops alongside a premium steakhouse.",
+  "thingsToDo": "The crown jewel of the region is Khao Yai National Park, a UNESCO World Heritage Site located 60 kilometers away and easily reached by car. This pristine jungle reserve (entrance fee: 400 THB/$11 USD) is famous for wild elephant populations, the spectacular 150-meter Haew Narok Waterfall with three tiers, and the remarkable bat cave spectacle where thousands of bats emerge at dusk.\n\nWithin the city itself, the Thao Suranaree Monument stands as the spiritual heart of Korat—a free, must-visit landmark honoring the local heroine, surrounded by the enormous Save One Night Market where visitors experience authentic Thai street food and local atmosphere.\n\nHistory enthusiasts should venture to Phimai Historical Park (entrance fee: 100 THB/$3 USD), home to remarkable pre-Angkor Khmer temple ruins featuring intricate Ramayana stone carvings and distinctive sandstone architecture. The nearby Phimai National Museum (100 THB/$3 USD) houses fascinating artifacts including a Jayavarman VII statue and regional Khmer sculptures.\n\nFor unique experiences, visit Wat Ban Rai (the Elephant Temple) with its giant elephant-shaped structure adorned with ceramic mosaic art, or experience the awe of Sai Ngam, a 350-year-old giant banyan tree covering 1,400 square meters with a spirit shrine.\n\nDecember brings the Jim Thompson Farm Tour, showcasing beautiful flower fields and traditional silk demonstrations (entrance fee: 200 THB/$6 USD), while Chokchai Farm (300 THB/$9 USD) offers interactive farm tours and ice cream workshops alongside a premium steakhouse serving locally raised Wagyu and Angus beef.",
   "whereToStay": "Nakhon Ratchasima offers accommodation options across all budget levels, with most hotels concentrated in the downtown area near the Save One Night Market and around the modern Terminal 21 shopping center. Budget travelers can find clean guesthouses and basic hotels starting from $15-25 per night, often within walking distance of the night market's endless food and entertainment options. The midrange segment (3-4 stars) offers excellent value between $40-100 per night, with hotels featuring swimming pools, gyms, and convenient locations for exploring both the city and nearby attractions like Khao Yai National Park.\n\nFor those seeking more comfort, upscale hotels provide premium amenities while remaining remarkably affordable compared to Western destinations. Many visitors choose to base themselves in the city and make day trips to Khao Yai National Park (1 hour drive), Phimai Historical Park (1.5 hours), or the cafes scattered throughout the Khao Yai area. The Khao Yai region itself has developed into a cafe and resort destination with forest-surrounded accommodations like Assana Cafe Khaoyai, perfect for nature lovers seeking mountain and forest views.",
   "whereToEat": [
     {
-      "name": "Khanom Jeen Yai Pao",
-      "cuisine": "Thai Street Food",
-      "priceRange": "$",
-      "description": "Authentic Thai noodle specialties in a local setting. Known for traditional khanom jeen (rice noodles) with various curry and sauce options."
-    },
-    {
-      "name": "Jay Noi Kratoke",
-      "cuisine": "Thai Vegetarian",
-      "priceRange": "$",
-      "description": "Local vegetarian Thai restaurant offering plant-based versions of traditional Isaan and Thai dishes in a casual dining environment."
-    },
-    {
-      "name": "Kai Yang Saeng Thai",
-      "cuisine": "Grilled Chicken (Thai)",
-      "priceRange": "$",
-      "description": "Specializes in Thai-style grilled chicken with sticky rice and som tam salad, a classic Isaan favorite enjoyed by locals."
-    },
-    {
-      "name": "Radna Suanmak",
-      "cuisine": "Thai",
-      "priceRange": "$",
-      "description": "Traditional Thai restaurant offering regional specialties in a family-friendly atmosphere popular with locals."
-    },
-    {
-      "name": "Chokchai Farm Steakhouse",
-      "cuisine": "International/Steakhouse",
+      "name": "The Grill Room Restaurant",
+      "cuisine": "French, Steakhouse",
       "priceRange": "$$$",
-      "description": "Premium steakhouse located at Chokchai Farm, offering high-quality beef in a scenic farm setting with ice cream workshops."
+      "description": "Fine dining restaurant specializing in French cuisine and premium steaks with high-quality preparations."
     },
     {
-      "name": "Assana Cafe Khaoyai",
-      "cuisine": "Cafe/International",
-      "priceRange": "$$",
-      "description": "Forest-surrounded cafe with beautiful flower gardens, small waterfall, and outdoor seating. Known for quality peach tea and pastries with excellent photo opportunities."
+      "name": "Kuni Kuni",
+      "cuisine": "Italian, European",
+      "priceRange": "$$$",
+      "description": "Upscale Italian and European restaurant offering authentic cuisine in refined dining atmosphere."
     },
     {
-      "name": "Brick62 Coffee",
-      "cuisine": "Cafe/European",
+      "name": "The Castle Restaurant and Tea room",
+      "cuisine": "Italian, European",
       "priceRange": "$$",
-      "description": "European-style downtown cafe with spacious garden, tall trees, and multiple seating areas. Features air-conditioned upper floor and open-air garden below, offering coffee, non-coffee beverages, and pastries with excellent photo spots."
+      "description": "Charming restaurant serving Italian and European cuisine with heritage setting and tea service."
+    },
+    {
+      "name": "Ya Noi Pad Mee Korat",
+      "cuisine": "Thai/Korat",
+      "priceRange": "$",
+      "description": "Legendary street stall on Chomsurangyat Road serving authentic pad mee Korat with smoky wok-charred noodles perfected over 40 years."
+    },
+    {
+      "name": "Rabiang Pa Korat",
+      "cuisine": "Thai, Isaan",
+      "priceRange": "$$",
+      "description": "Large open-air garden restaurant with extensive Thai and Isaan menu. Excellent grilled meats and salads, popular with local families."
+    },
+    {
+      "name": "Ming Ter Restaurant",
+      "cuisine": "Chinese-Thai",
+      "priceRange": "$$",
+      "description": "Historic Chinese-Thai restaurant serving the local Sino-Thai community for 50+ years. Famous for dim sum, roast duck, and congee."
     }
   ],
   "topHotels": [
     {
-      "name": "B2 Korat Night Market Boutique & Budget Hotel",
+      "name": "339 Hotels & Resort",
+      "category": "midrange",
+      "priceRange": "$35-55/night",
+      "area": "Downtown Korat",
+      "description": "4-star hotel with quality rooms, good service, and convenient location for exploring the city."
+    },
+    {
+      "name": "Sata House Boutique Resort",
+      "category": "midrange",
+      "priceRange": "$40-60/night",
+      "area": "Korat area",
+      "description": "Stylish 4-star boutique resort offering personalized service and well-appointed accommodation."
+    },
+    {
+      "name": "Korapura Resort",
+      "category": "midrange",
+      "priceRange": "$33-48/night",
+      "area": "Korat area",
+      "description": "3.8-star resort with comfortable rooms and standard resort facilities at good value."
+    },
+    {
+      "name": "The Resort Angel Hill",
       "category": "budget",
-      "priceRange": "$21/night",
-      "area": "Night Market (Ya Mo)",
-      "description": "Highly rated budget option (8.5/10 with 533 reviews) perfectly located near the vibrant Save One Night Market. Boutique-style budget accommodation with excellent value and convenient location for experiencing local nightlife."
+      "priceRange": "$27-42/night",
+      "area": "Korat area",
+      "description": "3-star resort offering basic but comfortable accommodation with resort amenities."
     },
     {
-      "name": "B2 Korat Boutique & Budget Hotel",
+      "name": "Thanya Pura Boutique Hotel",
       "category": "budget",
-      "priceRange": "$16/night",
+      "priceRange": "$24-36/night",
       "area": "Downtown Korat",
-      "description": "Exceptional budget value (8.1/10 with 516 reviews) offering clean, comfortable rooms near Korat Arena. Ideal base for budget-conscious travelers exploring the city and day-tripping to nearby attractions."
+      "description": "Stylish 3.3-star boutique hotel with personal touches at budget-friendly prices."
     },
     {
-      "name": "B2 Korat Premier Hotel",
-      "category": "budget",
-      "priceRange": "$24-41/night",
-      "area": "Downtown Korat",
-      "description": "Mid-budget option (8.8/10 with 457 reviews) offering better amenities than basic guesthouses. Located close to badminton facilities and convenient for exploring the city center."
-    },
-    {
-      "name": "Centara Korat",
-      "category": "midrange",
-      "priceRange": "$42-235/night",
-      "area": "Downtown Korat",
-      "description": "Top-rated 4-star property (9.6/10 with 1120 reviews) featuring outdoor swimming pool, full gym, and ample parking. Premium amenities and service with convenient downtown location for both leisure and business travelers."
-    },
-    {
-      "name": "Centre Point Hotel Terminal21 Korat",
-      "category": "midrange",
-      "priceRange": "$59/night",
-      "area": "Terminal 21 Shopping Center",
-      "description": "Excellent 4-star hotel (9.6/10 with 547 reviews) directly adjacent to Terminal 21 Korat shopping mall. Modern convenience with great dining and shopping options on the doorstep, perfect for those wanting contemporary urban amenities."
-    },
-    {
-      "name": "Baan Nok Khok Na",
-      "category": "midrange",
-      "priceRange": "$35-70/night",
-      "area": "Khao Yai Area",
-      "description": "Charming countryside accommodation nestled in rice paddy landscapes near Khao Yai. Ideal for nature lovers seeking a peaceful escape with authentic rural Thai atmosphere and proximity to national park attractions."
-    },
-    {
-      "name": "Assana Boutique Resort",
-      "category": "midrange",
-      "priceRange": "$50-90/night",
-      "area": "Khao Yai",
-      "description": "Forest-surrounded resort with beautiful gardens, waterfall features, and nature-focused design. Perfect base for Khao Yai National Park exploration with on-site cafe and tranquil atmosphere."
-    },
-    {
-      "name": "Korat Orchid Hotel",
-      "category": "midrange",
-      "priceRange": "$35-75/night",
-      "area": "Downtown Korat",
-      "description": "Well-appointed 3-star property offering comfortable rooms with good service. Central location provides easy access to night markets, temples, and shopping areas."
-    },
-    {
-      "name": "Amari Nakhon Ratchasima",
+      "name": "Dusit Princess Korat",
       "category": "luxury",
-      "priceRange": "$120-250/night",
+      "priceRange": "$120-195/night",
       "area": "Downtown Korat",
-      "description": "5-star upscale property featuring full resort amenities, multiple restaurants, spa facilities, and recreational activities. Represents the city's highest accommodation standard with premium service and comfort."
+      "description": "Premier luxury city hotel with elegant rooms, pool, fine dining, and direct shopping mall access."
     },
     {
-      "name": "Sima Thani Hotel Nakhon Ratchasima",
-      "category": "luxury",
-      "priceRange": "$100-220/night",
+      "name": "Kantary Hotel Korat",
+      "category": "midrange",
+      "priceRange": "$45-75/night",
       "area": "Downtown Korat",
-      "description": "4-5 star upscale establishment offering refined accommodation with quality restaurants and bar facilities. Well-positioned for both business and leisure travelers seeking premium comfort in the city center."
+      "description": "Modern serviced apartment-hotel with kitchenettes, pool, and gym. Excellent for longer stays."
+    },
+    {
+      "name": "Sima Thani Hotel",
+      "category": "midrange",
+      "priceRange": "$42-66/night",
+      "area": "City Center",
+      "description": "Established hotel with traditional Thai decor, multiple restaurants, pool, and central location."
     }
   ],
-  "gettingAround": "Nakhon Ratchasima is well-served by local transportation options accessible to travelers of all budgets. Tuk-tuks remain the most iconic and affordable way to navigate short distances within the city, typically costing 40-60 THB ($1-2 USD) for local trips. Songthaews (shared minivans) operate on fixed routes throughout the city and to nearby towns like Phimai, offering even cheaper transportation at 10-20 THB per journey. For flexibility and convenience, the Grab app (motorcycle taxis and car services) operates throughout Korat and to surrounding areas, allowing tourists to book rides with transparent pricing via smartphone.\n\nFor trips to attractions outside the city—particularly Khao Yai National Park, Phimai Historical Park, and the Khao Yai cafe zone—motorcycle rental (200-300 THB/$6-9 per day) or car rental (1,000-2,000 THB/$28-57 per day) provides the most freedom. Most hotels can arrange car rentals or provide driver services. Songthaews also depart regularly from the city center to Phimai (1.5 hours) and other provincial destinations. Bicycling is increasingly popular for exploring the downtown area, with bike rentals available at many guesthouses.",
+  "gettingAround": "Nakhon Ratchasima is well-served by local transportation options accessible to travelers of all budgets. Tuk-tuks remain the most iconic and affordable way to navigate short distances within the city, typically costing 40-60 THB ($1-2 USD) for local trips. Songthaews (shared minivans) operate on fixed routes throughout the city and to nearby towns like Phimai, offering even cheaper transportation at 10-20 THB per journey. For flexibility and convenience, the Grab app (motorcycle taxis and car services) operates throughout Korat and to surrounding areas, allowing tourists to book rides with transparent pricing via smartphone.\n\nFor trips to attractions outside the city—particularly Khao Yai National Park, Phimai Historical Park, and the Khao Yai cafe zone—motorcycle rental (200-300 THB/$6-9 per day) or car rental (1000-2000 THB/$28-57 per day) provides the most freedom. Most hotels can arrange car rentals or provide driver services. Songthaews also depart regularly from the city center to Phimai (1.5 hours, approximately 50-80 THB) and other provincial destinations. Bicycling is increasingly popular for exploring the downtown area, with bike rentals available at many guesthouses (100-150 THB per day).",
   "bestTimeToVisit": "Nakhon Ratchasima experiences a tropical savanna climate typical of Thailand's Isaan region. The ideal visiting season is November through February when temperatures range from 15-28°C (59-82°F), humidity is lower, and rainfall is minimal. December and January are peak months with the most pleasant weather—cool mornings and evenings, sunny days perfect for visiting Khao Yai National Park and exploring historical sites without the discomfort of intense heat.\n\nAvoid September and October when the southwest monsoon brings heavy rainfall that can make jungle activities like wildlife spotting and waterfall visits less enjoyable. March through May brings pre-monsoon heat with temperatures exceeding 35°C (95°F), making outdoor activities uncomfortable during midday hours. However, this period sees the Jim Thompson Farm Tour in December, making late November through early January the sweetest spot for combining perfect weather with seasonal attractions and events.",
   "budgetGuide": {
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget traveler daily costs in USD: guesthouse (15-25/night), street food and night market meals (3-8), local tuk-tuk or Grab transport (2-4), free or low-cost attractions (0-3). Example: stay at B2 Korat for $16, eat at street stalls and night markets for $6, transport $3 = $25 total."
+      "description": "Budget traveler daily costs in USD: guesthouse (15-25/night), street food and night market meals (3-8), local tuk-tuk or Grab transport (2-4), free or low-cost attractions (0-3). Example: stay at budget boutique hotel for $16, eat at street stalls and night markets for $6, transport $3 = $25 total."
     },
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Mid-range daily costs in USD: 3-4 star hotel (42-75/night), restaurants and cafes (8-15), activities with entrance fees (3-11), transport (3-5). Example: Centara Korat $50 + Khao Yai entrance $11 + meals $15 + transport $4 = $80 total."
+      "description": "Mid-range daily costs in USD: 3-4 star hotel (33-75/night), restaurants and cafes (8-15), activities with entrance fees (3-11), transport (3-5). Example: 3.8-star resort $40 + Khao Yai entrance $11 + meals $15 + transport $4 = $70 total."
     },
     "luxury": {
       "min": 150,
       "max": 400,
-      "description": "Luxury daily costs in USD: 5-star resort (120-250/night), fine dining and upscale restaurants (25-60), premium tours and activities (40-100), private transport (20-40). Example: Amari Nakhon Ratchasima $150 + Khao Yai private guide tour $80 + fine dining $45 + private car $30 = $305 total."
+      "description": "Luxury daily costs in USD: 5-star resort (120-195/night), fine dining and upscale restaurants (25-60), premium tours and activities (40-100), private transport (20-40). Example: Dusit Princess Korat $150 + Khao Yai private guide tour $80 + fine dining $45 + private car $30 = $305 total."
     }
   },
   "safetyTips": "Nakhon Ratchasima is generally a safe city for tourists with low violent crime rates. Standard urban precautions apply: avoid displaying expensive jewelry, cameras, or large amounts of cash; use hotel safes for valuables; and be cautious with personal belongings in crowded night markets where pickpocketing occasionally occurs. The night market areas are well-lit and heavily populated by locals and tourists, making them safe in the evenings, though travelers should avoid isolated side streets after dark.\n\nWhen visiting Khao Yai National Park or hiking in natural areas, stay on marked trails and respect wildlife—maintain safe distances from elephants and other animals, never feed them, and avoid visiting solo in remote areas. Road safety is important; if renting motorcycles, wear helmets (legally required) and drive defensively as Thai roads can be chaotic. Drinking water from taps is generally unsafe; stick to bottled water available everywhere. Healthcare is good in the city with modern hospitals available, though travel insurance is recommended. Thai people are generally welcoming and patient with tourists; learning basic Thai phrases enhances safety and cultural respect.",
   "faq": [
     {
       "question": "How long should I spend in Nakhon Ratchasima (Korat)?",
-      "answer": "2-3 days is ideal: one full day for city exploration (Thao Suranaree Monument, night market, cafes), one day for Khao Yai National Park, and one optional day for Phimai Historical Park or Khao Yai activities. Many travelers use Korat as a 1-night base before heading elsewhere in Isaan."
+      "answer": "2-3 days is ideal: one full day for city exploration (Thao Suranaree Monument, night market, cafes), one day for Khao Yai National Park (400 THB entrance fee, $11 USD), and one optional day for Phimai Historical Park (100 THB, $3 USD) or additional Khao Yai activities. Many travelers use Korat as a 1-night base before heading elsewhere in Isaan."
     },
     {
       "question": "What is the distance from Bangkok to Nakhon Ratchasima?",
@@ -429,23 +521,15 @@
     },
     {
       "question": "Can I do a day trip to Khao Yai National Park from Korat city?",
-      "answer": "Yes, Khao Yai National Park is only 60 kilometers away (1-1.5 hours by car). Hotels can arrange car rentals or guide services. Expect entrance fee of 400 THB ($11 USD) and plan 6-8 hours for a meaningful visit including wildlife spotting, waterfall viewing, and guided tours."
+      "answer": "Yes, Khao Yai National Park is only 60 kilometers away (1-1.5 hours by car). Hotels can arrange car rentals (1000-2000 THB/$28-57 per day) or guide services. Entrance fee is 400 THB ($11 USD) and plan 6-8 hours for a meaningful visit including wildlife spotting, waterfall viewing, and guided tours."
     },
     {
-      "question": "What are Korat's signature dishes I must try?",
-      "answer": "Pad Mee Korat (Korat-style stir-fried noodles), Moo Yor (Thai sausage), and Larb (spicy meat salad) are regional favorites. The night markets, particularly Save One Market, offer endless authentic options. Local restaurants like Kai Yang Saeng Thai serve grilled chicken with sticky rice, an Isaan staple."
+      "question": "What is the best time to visit Nakhon Ratchasima?",
+      "answer": "November through February offers ideal weather with temperatures 15-28°C (59-82°F), lower humidity, and minimal rainfall. December and January are peak months with perfect conditions for Khao Yai National Park exploration. Avoid September-October during southwest monsoon when heavy rainfall impacts outdoor activities."
     },
     {
-      "question": "Is there a night market every night in Korat?",
-      "answer": "Save One Night Market operates most evenings, but the main activity concentrates Thursday through Sunday when crowds are largest. Some vendors may have reduced presence on weeknights. The market area always has restaurants and shops open, but the full experience is best on weekends."
-    },
-    {
-      "question": "How do I get from Korat to Phimai Historical Park?",
-      "answer": "Phimai is 60 kilometers northeast (1.5 hours drive). Songthaews depart regularly from Korat's central station for approximately 30-40 THB. Car rental is also available. Entrance to Phimai Historical Park costs 100 THB ($3 USD), and the National Museum costs another 100 THB."
-    },
-    {
-      "question": "What is the best time to visit Khao Yai for wildlife spotting?",
-      "answer": "November through February (cool and dry season) offers the best wildlife viewing. Early morning (5-7 AM) and late afternoon (4-6 PM) are prime times for spotting elephants and other animals. The dry season concentrates wildlife around water sources, increasing sighting chances. Avoid September-October due to monsoon rains."
+      "question": "How much does it cost to visit Khao Yai National Park?",
+      "answer": "Entrance fee is 400 THB ($11 USD) per person. If arranging a private guide or tour, prices vary but typically range from 1500-3000 THB ($43-86 USD) for a half-day guided tour including vehicle."
     }
   ],
   "practicalInfo": {
@@ -455,14 +539,15 @@
       "Jan",
       "Feb"
     ],
-    "nearestAirport": "Nakhon Ratchasima Airport (ACH) - limited commercial service; Bangkok's Suvarnabhumi Airport (BKK) or Don Mueang Airport (DMK) are primary options",
-    "travelTimeFromAirport": "From Bangkok Suvarnabhumi Airport: 2.5-3.5 hours by car/bus; from Don Mueang: 2.5-3 hours. Direct flights from Korat are rare; most visitors arrive via Bangkok.",
+    "nearestAirport": "Nakhon Ratchasima Airport (ACH) has limited commercial service; Bangkok's Suvarnabhumi Airport (BKK) and Don Mueang Airport (DMK) are the primary options for most international travelers.",
+    "travelTimeFromAirport": "From Bangkok Suvarnabhumi Airport: 2.5-3.5 hours by car or bus ($15-25 USD); from Don Mueang: 2.5-3 hours by car. Most visitors arrive via Bangkok as direct flights to Korat are rare. Airport shuttle services and rental cars available at both Bangkok airports.",
     "localTransport": [
-      "Tuk-tuk",
-      "Songthaew (shared minivan)",
-      "Grab (motorcycle and car service)",
-      "Motorcycle rental",
-      "Car rental"
+      "Tuk-tuk (40-60 THB for local trips)",
+      "Songthaew/shared minivan (10-20 THB)",
+      "Grab app (motorcycle and car service)",
+      "Motorcycle rental (200-300 THB per day)",
+      "Car rental (1000-2000 THB per day)",
+      "Bicycle rental (100-150 THB per day)"
     ]
   },
   "enrichedAt": "2026-02-22T12:49:48.453Z",
@@ -492,5 +577,104 @@
       "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Nakhon Ratchasima (Korat).",
       "Khao Yai National Park": "Visit Khao Yai National Park during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
     }
-  }
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Khao Yai National Park",
+      "description": "UNESCO World Heritage Site featuring pristine jungle, wild elephant populations, the 150-meter Haew Narok Waterfall with three tiers, and bat cave spectacles at dusk.",
+      "location": "60 km southeast of Korat",
+      "entrance_fee": "400 THB ($11 USD)",
+      "highlights": [
+        "Wild elephants",
+        "Waterfall hiking",
+        "Bat cave emergence at dusk"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Thao Suranaree Monument",
+      "description": "Iconic landmark honoring the local heroine of Korat, surrounded by the vibrant Save One Night Market. Free to visit and spiritually significant to locals.",
+      "location": "City center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Cultural significance",
+        "Night market access",
+        "Local gathering point"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Phimai Historical Park",
+      "description": "Remarkable pre-Angkor Khmer temple ruins with intricate Ramayana stone carvings and distinctive sandstone architecture dating to the 11th-12th centuries.",
+      "location": "50 km north of Korat",
+      "entrance_fee": "100 THB ($3 USD)",
+      "highlights": [
+        "Khmer temple ruins",
+        "Stone carvings",
+        "Historical significance"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Phimai National Museum",
+      "description": "Houses fascinating artifacts including a Jayavarman VII statue, regional Khmer sculptures, and pre-Angkorian art collections.",
+      "location": "Phimai town",
+      "entrance_fee": "100 THB ($3 USD)",
+      "highlights": [
+        "Khmer artifacts",
+        "Jayavarman VII statue",
+        "Sculpture collections"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Wat Ban Rai (Elephant Temple)",
+      "description": "Unique temple featuring a giant elephant-shaped structure adorned with intricate ceramic mosaic art, easily recognized by its distinctive elephant form.",
+      "location": "Korat area",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Elephant-shaped architecture",
+        "Ceramic mosaics",
+        "Photo opportunities"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Sai Ngam (Giant Banyan Tree)",
+      "description": "Spectacular 350-year-old giant banyan tree covering 1,400 square meters with a spirit shrine. Peaceful natural attraction with historical significance.",
+      "location": "30 km from Korat city center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Ancient tree",
+        "Spiritual site",
+        "Natural monument"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Chokchai Farm",
+      "description": "Interactive farm offering tours, ice cream workshops, and premium steakhouse restaurant serving locally raised Wagyu and Angus beef.",
+      "location": "Near Khao Yai",
+      "entrance_fee": "300 THB ($9 USD)",
+      "highlights": [
+        "Farm tours",
+        "Ice cream workshop",
+        "Premium steakhouse"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Jim Thompson Farm Tour",
+      "description": "Seasonal attraction showcasing beautiful flower fields and traditional Thai silk demonstrations, particularly popular in December.",
+      "location": "Near Korat",
+      "entrance_fee": "200 THB ($6 USD)",
+      "highlights": [
+        "Flower fields",
+        "Silk demonstrations",
+        "Seasonal attraction"
+      ]
+    }
+  ],
+  "factchecked_at": "2026-03-08T18:35:55.684Z"
 }

@@ -115,96 +115,174 @@
   ],
   "top_restaurants": [
     {
+      "rank": 1,
+      "name": "CasanovaNakhon",
+      "description": "Upscale restaurant offering Italian and steakhouse cuisine with high-quality preparations.",
+      "cuisine_type": "Italian, Steakhouse",
+      "price_range": "300-600 THB ($8-17 USD)",
+      "rating": 5,
+      "highlights": [
+        "Perfect rating",
+        "Italian cuisine",
+        "Steakhouse specialties",
+        "Fine dining"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Kinkanom Nakornsithammarat",
+      "description": "Highly-rated Japanese and steakhouse restaurant featuring quality meat preparations and Japanese cuisine.",
+      "cuisine_type": "Japanese, Steakhouse",
+      "price_range": "250-550 THB ($7-15 USD)",
+      "rating": 4.9,
+      "highlights": [
+        "Japanese cuisine",
+        "Steakhouse",
+        "High rating",
+        "Quality ingredients"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Kanomcheen Mueang Kon",
+      "description": "Traditional Thai restaurant specializing in authentic southern Thai cuisine and local specialties.",
+      "cuisine_type": "Thai",
+      "price_range": "60-150 THB ($2-4 USD)",
+      "rating": 4.3,
+      "highlights": [
+        "Authentic Thai",
+        "Local specialties",
+        "Budget-friendly",
+        "Traditional preparation"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "krua Nai Nang",
+      "description": "Local Thai restaurant serving authentic Asian and Thai cuisine with regional flavors.",
+      "cuisine_type": "Asian, Thai",
+      "price_range": "80-200 THB ($2-6 USD)",
+      "rating": 4.2,
+      "highlights": [
+        "Thai cuisine",
+        "Local favorite",
+        "Authentic flavors",
+        "Affordable pricing"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Kopi",
+      "description": "Casual cafe serving coffee and Asian dishes with a relaxed atmosphere perfect for morning visits or light meals.",
+      "cuisine_type": "Cafe, Asian",
+      "price_range": "50-150 THB ($1-4 USD)",
+      "rating": 4.2,
+      "highlights": [
+        "Coffee specialty",
+        "Asian dishes",
+        "Casual atmosphere",
+        "Budget-friendly"
+      ]
+    },
+    {
+      "rank": 6,
       "name": "Khanom Jeen Mueang Nakhon",
-      "cuisine": "Southern Thai",
-      "price_range": "$",
-      "description": {
-        "en": "The quintessential Nakhon dining experience — rice noodles served with a choice of fiery southern curries including nam ya (fish curry) and kaeng tai pla (fermented fish kidney curry). A local institution open since early morning.",
-        "nl": "De ultieme Nakhon eetervaring — rijstnoedels geserveerd met een keuze uit vurige zuidelijke curry's waaronder nam ya (viscurry) en kaeng tai pla (gefermenteerde visniercurry). Een lokale instelling open vanaf vroeg in de ochtend."
-      }
+      "description": "Local institution serving rice noodles with a choice of fiery southern curries including nam ya and kaeng tai pla, open since early morning.",
+      "cuisine_type": "Southern Thai",
+      "price_range": "40-80 THB ($1-2 USD)",
+      "rating": 4,
+      "highlights": [
+        "Rice noodles",
+        "Southern curries",
+        "Local institution",
+        "Budget authentic"
+      ]
     },
     {
-      "name": "Krua Nakhon",
-      "cuisine": "Southern Thai",
-      "price_range": "$",
-      "description": {
-        "en": "A beloved local restaurant specializing in authentic southern Thai cuisine. Their khua kling (dry curry) and stir-fried stink beans with shrimp are intensely flavorful and not dumbed down for tourist palates.",
-        "nl": "Een geliefd lokaal restaurant gespecialiseerd in authentieke Zuid-Thaise keuken. Hun khua kling (droge curry) en gebakken stinkbonen met garnalen zijn intens smaakvol en niet afgezwakt voor toeristen."
-      }
-    },
-    {
-      "name": "Hao Coffee",
-      "cuisine": "Coffee & Bakery",
-      "price_range": "$",
-      "description": {
-        "en": "A charming local coffee shop serving traditional southern Thai kopi and homemade pastries. The perfect morning stop before temple visits, with a shady courtyard and friendly staff who love chatting with visitors.",
-        "nl": "Een charmant lokaal koffiehuis dat traditionele Zuid-Thaise kopi en zelfgemaakte gebakjes serveert. De perfecte ochtendstop voor tempelbezoeken, met een schaduwrijke binnenplaats en vriendelijk personeel dat graag praat met bezoekers."
-      }
-    },
-    {
+      "rank": 7,
       "name": "Khao Tom Pla Rim Khlong",
-      "cuisine": "Thai Seafood",
-      "price_range": "$",
-      "description": {
-        "en": "A canal-side restaurant famous for its khao tom pla (rice soup with fish), fresh grilled seafood, and dishes made with ingredients sourced from the morning market next door. Best visited for dinner when the fairy lights reflect on the water.",
-        "nl": "Een restaurant aan het kanaal beroemd om de khao tom pla (rijstsoep met vis), verse gegrilde zeevruchten en gerechten gemaakt met ingrediënten van de ochtendmarkt ernaast. Het beste te bezoeken voor het diner als de lichtjes in het water weerspiegelen."
-      }
-    },
-    {
-      "name": "Night Market Grilled Squid Stalls",
-      "cuisine": "Street Food",
-      "price_range": "$",
-      "description": {
-        "en": "The grilled squid vendors at the Bovorn Bazaar night market are legendary. Whole squid grilled over charcoal and served with spicy seafood sauce — simple, fresh, and incredibly satisfying at just 40-60 baht per portion.",
-        "nl": "De gegrilde inktvis verkopers op de Bovorn Bazaar nachtmarkt zijn legendarisch. Hele inktvis gegrild boven houtskool en geserveerd met pittige zeevruchtensaus — simpel, vers en ongelooflijk lekker voor slechts 40-60 baht per portie."
-      }
+      "description": "Canal-side restaurant famous for khao tom pla (rice soup with fish) and fresh grilled seafood sourced from the morning market.",
+      "cuisine_type": "Thai Seafood",
+      "price_range": "80-200 THB ($2-6 USD)",
+      "rating": 4.1,
+      "highlights": [
+        "Fresh seafood",
+        "Rice soup specialty",
+        "Canal setting",
+        "Local ingredients"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "Twin Lotus Hotel",
-      "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "The best hotel in Nakhon Si Thammarat with modern rooms, a rooftop pool, and excellent location near the historic center. Popular with Thai business travelers and the most comfortable option in town.",
-        "nl": "Het beste hotel in Nakhon Si Thammarat met moderne kamers, een zwembad op het dak en uitstekende locatie bij het historische centrum. Populair bij Thaise zakenreizigers en de meest comfortabele optie in de stad."
-      }
-    },
-    {
-      "name": "Kiriwong Homestay",
+      "rank": 1,
+      "name": "The Original Orange Hotel",
+      "description": "Budget-friendly hotel offering reliable accommodation with essential amenities at affordable rates.",
+      "price_range": "$16/night",
       "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "Stay with a local family in Kiriwong Village for an authentic experience. Simple but clean rooms, home-cooked southern Thai meals, and the chance to learn about village life, fruit farming, and batik dyeing.",
-        "nl": "Verblijf bij een lokale familie in Kiriwong Dorp voor een authentieke ervaring. Eenvoudige maar schone kamers, huisgemaakte Zuid-Thaise maaltijden en de kans om te leren over dorpsleven, fruitteelt en batik verven."
-      }
+      "rating": 4.6,
+      "highlights": [
+        "Budget-friendly",
+        "Clean rooms",
+        "Good value",
+        "Reliable service"
+      ]
     },
     {
+      "rank": 2,
+      "name": "Thai Hotel",
+      "description": "Economy hotel providing basic but clean accommodation with air conditioning at budget prices.",
+      "price_range": "$11/night",
+      "category": "budget",
+      "rating": 4,
+      "highlights": [
+        "Most affordable",
+        "Air conditioning",
+        "Clean rooms",
+        "Budget travelers"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "B3 Hotel",
+      "description": "Budget hotel featuring comfortable rooms with modern basic amenities at low cost.",
+      "price_range": "$13/night",
+      "category": "budget",
+      "rating": 4.5,
+      "highlights": [
+        "Budget accommodation",
+        "Modern amenities",
+        "Comfortable rooms",
+        "Good value"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Navakitel Design Hotel",
+      "description": "Mid-range design-focused hotel offering stylish rooms with contemporary furnishings and good service.",
+      "price_range": "$27/night",
+      "category": "midrange",
+      "rating": 4.6,
+      "highlights": [
+        "Design-focused",
+        "Stylish rooms",
+        "Contemporary decor",
+        "Good service"
+      ]
+    },
+    {
+      "rank": 5,
       "name": "Grand Park Hotel",
+      "description": "Reliable mid-range hotel in city center with clean rooms, friendly staff, and good restaurant serving Thai and international food.",
+      "price_range": "$16/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "A reliable mid-range option in the city center with clean rooms, friendly staff, and a good restaurant serving Thai and international food. Well located for exploring temples and markets on foot.",
-        "nl": "Een betrouwbare middenklasse optie in het stadscentrum met schone kamers, vriendelijk personeel en een goed restaurant met Thaise en internationale gerechten. Goed gelegen om tempels en markten te voet te verkennen."
-      }
-    },
-    {
-      "name": "Nakhon Garden Inn",
-      "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "A clean and friendly budget guesthouse with air-conditioned rooms, a small garden, and helpful English-speaking staff. One of the few budget options that caters to international guests.",
-        "nl": "Een schoon en vriendelijk budget pension met kamers met airconditioning, een kleine tuin en behulpzaam Engelssprekend personeel. Een van de weinige budgetopties die zich richt op internationale gasten."
-      }
-    },
-    {
-      "name": "Racha Kiri Resort & Spa",
-      "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "A peaceful hillside resort near Khao Luang with spacious villas, a spa, and stunning mountain views. Set amidst tropical gardens, it offers a serene retreat after exploring the city and national park.",
-        "nl": "Een vredig heuvelresort bij Khao Luang met ruime villa's, een spa en prachtig uitzicht op de bergen. Gelegen te midden van tropische tuinen, biedt het een serene toevlucht na het verkennen van de stad en het nationaal park."
-      }
+      "rating": 4,
+      "highlights": [
+        "Central location",
+        "In-house restaurant",
+        "Friendly staff",
+        "Thai & international food"
+      ]
     }
   ],
   "travel_tips": [
@@ -278,96 +356,93 @@
     }
   },
   "overview": "Nakhon Si Thammarat stands as one of southern Thailand's most authentic and historically significant cities, offering travelers a genuine glimpse into Thai culture far removed from mainstream tourist routes. With a population of 105,000, this ancient city has served as a cultural and spiritual center for centuries, anchored by the magnificent Wat Phra Mahathat with its iconic 55-meter gold chedi housing a revered Buddha relic. The city represents an ideal base for exploring southern Thailand's rich heritage, combining world-class temples, traditional shadow puppet traditions, and pristine natural attractions like Khao Luang National Park without the crowds that plague more commercialized destinations.",
-  "thingsToDo": "The spiritual heart of Nakhon Si Thammarat is undoubtedly Wat Phra Mahathat Woramahawihan, where visitors can explore ancient cloisters and pay respects to one of Buddhism's most sacred relics—and admission is completely free. For cultural immersion, the Suchart Subsin Shadow Puppet Museum (100 THB / $3 USD) offers live performances and hands-on puppet-making workshops showcasing a centuries-old Siamese art form that dates back generations. Nature enthusiasts should venture to Khao Luang National Park (200 THB / $6 USD) to hike 4 kilometers through old-growth rainforest to the spectacular multi-tiered Krung Ching Waterfall, or explore the Nakhon Si Thammarat City Wall and its ancient Srivijaya ruins at the restored north gate. For authentic local experiences, Kiriwong Village offers free exploration of batik dyeing workshops and fruit orchards in what's considered to have Thailand's cleanest air, while the Bovorn Bazaar Night Market provides zero-tourist-pressure street food authentic to southern Thai cuisine. Art lovers should visit Wat Wang Tawan Tok to see Ayutthaya-period murals depicting Jataka tales, and the Nakhon Si Thammarat National Museum (150 THB / $4 USD) displays fascinating Srivijaya artifacts and ancient Buddha images.",
+  "thingsToDo": "The spiritual heart of Nakhon Si Thammarat is undoubtedly Wat Phra Mahathat Woramahawihan, where visitors can explore ancient cloisters and pay respects to one of Buddhism's most sacred relics—admission is completely free. For cultural immersion, the Suchart Subsin Shadow Puppet Museum (100 THB / $3 USD) offers live performances and hands-on puppet-making workshops showcasing a centuries-old Siamese art form. Nature enthusiasts should venture to Khao Luang National Park (200 THB / $6 USD) to hike 4 kilometers through old-growth rainforest to the spectacular multi-tiered Krung Ching Waterfall, or explore the Nakhon Si Thammarat City Wall and its ancient Srivijaya ruins at the restored north gate. For authentic local experiences, Kiriwong Village offers free exploration of batik dyeing workshops and fruit orchards in what's considered to have Thailand's cleanest air, while the Bovorn Bazaar Night Market provides authentic southern Thai street food. Art lovers should visit Wat Wang Tawan Tok to see Ayutthaya-period murals depicting Jataka tales, and the Nakhon Si Thammarat National Museum (150 THB / $4 USD) displays fascinating Srivijaya artifacts and ancient Buddha images.",
   "whereToStay": "Nakhon Si Thammarat offers accommodation across all budget ranges, with most options concentrated in the city center near Wat Phra Mahathat for convenient temple access. Budget travelers will find welcoming and affordable guesthouses and hostels in the downtown area, typically offering clean rooms with shared or private facilities at rates between 300-600 THB ($8-17 USD) per night, making it an excellent basecamp for backpackers exploring southern Thailand. Mid-range hotels cluster around the commercial district with air-conditioned rooms, reliable wifi, and local restaurant recommendations, ranging from 800-1,500 THB ($23-43 USD) nightly. For those seeking more comfort, upscale properties offer enhanced amenities though Nakhon Si Thammarat maintains a deliberate low-key tourism atmosphere compared to beach resorts, with luxury options typically priced 2,000-4,000 THB ($57-114 USD) per night.",
   "whereToEat": [
     {
-      "name": "Keawloon",
-      "cuisine": "Thai (Traditional Southern & Sukhothai)",
-      "priceRange": "$$",
-      "description": "An intimate home-style Thai restaurant featured in Thailand's 2026 Michelin Bib Gourmand List, specializing in traditional dishes from Nakhon Si Thammarat and Sukhothai regions with authentic preparation methods."
-    },
-    {
-      "name": "Kole.NST",
-      "cuisine": "Thai (Contemporary)",
+      "name": "CasanovaNakhon",
+      "cuisine": "Italian, Steakhouse",
       "priceRange": "$$$",
-      "description": "A modern Thai restaurant emphasizing high-quality ingredients and creative takes on authentic Thai flavors, with highlights including fresh catch of the day, perfectly grilled proteins, and bold curries. Stylish minimalist setting ideal for photography."
+      "description": "Upscale restaurant offering fine Italian and steakhouse cuisine with high-quality preparations."
     },
     {
-      "name": "Wanderwoods Cafe",
-      "cuisine": "Cafe (Coffee & Desserts)",
-      "priceRange": "$$",
-      "description": "A serene forest-themed cafe decorated with wood and lush greenery, serving aromatic coffee and tempting desserts. Perfect for working, reading, or long conversations with beautiful Instagram-worthy lighting, especially during afternoon to evening hours."
+      "name": "Kinkanom Nakornsithammarat",
+      "cuisine": "Japanese, Steakhouse",
+      "priceRange": "$$$",
+      "description": "Highly-rated Japanese and steakhouse restaurant featuring quality meat and Japanese cuisine specialties."
     },
     {
-      "name": "Bovorn Bazaar Night Market",
-      "cuisine": "Thai Street Food (Southern)",
-      "priceRange": "$",
-      "description": "An authentic local night market featuring southern Thai street food with zero tourist presence, specializing in grilled seafood and regional specialties at bargain prices. Best experienced in the evenings for authentic local dining culture."
-    },
-    {
-      "name": "Naechita",
+      "name": "Kanomcheen Mueang Kon",
       "cuisine": "Thai",
-      "priceRange": "$$",
-      "description": "A well-regarded local restaurant offering traditional Thai cuisine in a casual atmosphere, popular with both residents and discerning travelers seeking authentic flavors."
+      "priceRange": "$",
+      "description": "Traditional Thai restaurant specializing in authentic southern Thai cuisine and local specialties."
+    },
+    {
+      "name": "krua Nai Nang",
+      "cuisine": "Asian, Thai",
+      "priceRange": "$",
+      "description": "Local favorite serving authentic Asian and Thai cuisine with regional flavors and traditional preparation."
+    },
+    {
+      "name": "Kopi",
+      "cuisine": "Cafe, Asian",
+      "priceRange": "$",
+      "description": "Casual cafe serving aromatic coffee and Asian dishes with a relaxed, welcoming atmosphere."
+    },
+    {
+      "name": "Khanom Jeen Mueang Nakhon",
+      "cuisine": "Southern Thai",
+      "priceRange": "$",
+      "description": "Local institution since early morning serving rice noodles with fiery southern curries like nam ya and kaeng tai pla."
+    },
+    {
+      "name": "Khao Tom Pla Rim Khlong",
+      "cuisine": "Thai Seafood",
+      "priceRange": "$",
+      "description": "Canal-side restaurant famous for khao tom pla (rice soup with fish) and fresh grilled seafood from the morning market."
+    },
+    {
+      "name": "Night Market Grilled Squid Stalls",
+      "cuisine": "Street Food",
+      "priceRange": "$",
+      "description": "Legendary grilled squid vendors at Bovorn Bazaar night market serving whole squid grilled over charcoal with spicy seafood sauce for 40-60 THB."
     }
   ],
   "topHotels": [
     {
-      "name": "TCC Hotel",
-      "category": "midrange",
-      "priceRange": "$30-50/night",
-      "area": "City Center",
-      "description": "A reliable mid-range option in the city center offering clean rooms with air conditioning, free wifi, and convenient proximity to Wat Phra Mahathat and local restaurants."
-    },
-    {
-      "name": "Nakhon Si Thammarat Travellers Inn",
+      "name": "The Original Orange Hotel",
       "category": "budget",
-      "priceRange": "$12-25/night",
-      "area": "Downtown",
-      "description": "A backpacker-friendly guesthouse with shared and private room options, communal areas for meeting fellow travelers, and helpful staff providing local travel advice."
-    },
-    {
-      "name": "Andaman Beach Suites Hotel",
-      "category": "midrange",
-      "priceRange": "$35-60/night",
+      "priceRange": "$16/night",
       "area": "City Center",
-      "description": "A comfortable mid-range hotel featuring modern amenities, quality furnishings, and good service standards with easy access to temples and local attractions."
+      "description": "Budget-friendly hotel with clean rooms, air conditioning, free wifi, and convenient location near major attractions."
     },
     {
-      "name": "Thammarat Hotel",
+      "name": "Thai Hotel",
       "category": "budget",
-      "priceRange": "$15-30/night",
+      "priceRange": "$11/night",
       "area": "Downtown",
-      "description": "An economical option offering basic but comfortable rooms with essential amenities, located conveniently for city exploration and local transport connections."
+      "description": "Economy hotel providing basic clean accommodation with air conditioning at the most affordable rates in the city."
+    },
+    {
+      "name": "B3 Hotel",
+      "category": "budget",
+      "priceRange": "$13/night",
+      "area": "City Center",
+      "description": "Budget hotel featuring comfortable rooms with modern basic amenities and reliable service."
+    },
+    {
+      "name": "Navakitel Design Hotel",
+      "category": "midrange",
+      "priceRange": "$27/night",
+      "area": "City Center",
+      "description": "Mid-range design-focused hotel offering stylish rooms with contemporary furnishings and good service standards."
     },
     {
       "name": "Grand Park Hotel",
       "category": "midrange",
-      "priceRange": "$40-70/night",
+      "priceRange": "$16/night",
       "area": "City Center",
-      "description": "A well-established mid-range property with spacious rooms, on-site dining options, and professional service suitable for both leisure and business travelers."
-    },
-    {
-      "name": "Nakhon Si Thammarat Resort",
-      "category": "luxury",
-      "priceRange": "$80-150/night",
-      "area": "Outskirts",
-      "description": "An upscale resort offering comfortable rooms with modern furnishings, swimming pool facilities, spa services, and garden grounds for a more relaxed stay outside the city center."
-    },
-    {
-      "name": "Susantawan Hotel",
-      "category": "midrange",
-      "priceRange": "$25-45/night",
-      "area": "City Center",
-      "description": "A solid three-star hotel with clean accommodations, helpful English-speaking staff, and good value for money in a central location near major attractions."
-    },
-    {
-      "name": "Petchkasem Palace Hotel",
-      "category": "luxury",
-      "priceRange": "$100-180/night",
-      "area": "City Center",
-      "description": "An elegant upscale hotel featuring well-appointed rooms, excellent dining facilities, fitness center, and attentive service in Nakhon Si Thammarat's prime location."
+      "description": "Reliable mid-range option with clean rooms, friendly staff, in-house restaurant, and convenient access to temples and markets."
     }
   ],
   "gettingAround": "Nakhon Si Thammarat's compact city center is highly walkable, allowing visitors to explore temples, markets, and local attractions on foot within a 20-30 minute radius. For longer distances, tuk-tuks (three-wheeled taxis) are the primary local transport option, with typical fares ranging from 40-80 THB ($1-2 USD) for in-city journeys; agree on prices before boarding as most lack meters. Songthaews (shared minibuses) operate on fixed routes throughout the city and to nearby villages like Kiriwong, with fares starting at 20 THB ($0.60 USD), making them ideal for budget-conscious travelers. Motorbike rentals are available through hotels and rental shops for approximately 200-300 THB ($6-9 USD) daily for those comfortable with Thai traffic, providing flexibility for day trips to Khao Luang National Park or coastal areas.",
@@ -376,48 +451,40 @@
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget travelers can sustain themselves on $20-40 daily by staying in basic guesthouses ($12-20), eating at street markets and local stalls ($3-8), visiting temples and markets (free to 200 THB/$6), using local tuk-tuks and songthaews ($1-2), and enjoying free cultural exploration around the city."
+      "description": "Budget travelers can sustain themselves on $20-40 daily by staying in basic guesthouses ($11-16), eating at street markets and local stalls ($1-3 per meal), visiting temples and markets (free to 200 THB/$6), using local tuk-tuks and songthaews ($1-2), and enjoying free cultural exploration around the city."
     },
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Mid-range travelers should budget $50-100 daily for 3-star hotel rooms ($25-50), restaurant meals ($5-12), paid museum and national park entries ($4-6), organized day trips ($15-25), and occasional tuk-tuk usage ($2-5) for comfortable exploration without luxury."
+      "description": "Mid-range travelers should budget $50-100 daily for 3-star hotel rooms ($16-27), restaurant meals ($2-6), paid museum and national park entries ($3-6), organized day trips ($15-25), and occasional tuk-tuk usage ($1-2) for comfortable exploration without luxury."
     },
     "luxury": {
       "min": 150,
       "max": 400,
-      "description": "Luxury visitors can expect to spend $150-400+ daily with upscale hotel accommodations ($100-200), fine dining experiences ($20-50 per meal), private guided tours ($30-60), spa treatments ($20-40), and exclusive activities, though Nakhon Si Thammarat maintains intentionally modest tourism infrastructure compared to beach resort destinations."
+      "description": "Luxury visitors can expect to spend $150-400+ daily with upscale hotel accommodations ($100-200), fine dining experiences ($15-50 per meal), private guided tours ($30-60), spa treatments ($20-40), and exclusive activities, though Nakhon Si Thammarat maintains intentionally modest tourism infrastructure compared to beach resort destinations."
     }
   },
   "safetyTips": "Nakhon Si Thammarat is considerably safer than many southern Thai cities like Hat Yai, with violent crime against tourists being exceptionally rare and petty theft manageable through standard precautions like avoiding displaying valuables or large cash amounts. The city maintains a peaceful, community-oriented atmosphere with strong police presence around temples and major attractions; solo travelers of all genders report feeling secure exploring the city and night markets during evening hours. Standard travel sense applies: avoid unmarked taxis (use Grab or hotel-arranged transport), be cautious with loose belongings on crowded buses and markets, and respect local customs around temples and religious spaces. Healthcare facilities are adequate for routine needs with several hospitals offering English-speaking staff, though serious medical issues may require travel to larger cities like Bangkok.",
   "faq": [
     {
       "question": "Is Nakhon Si Thammarat worth visiting or just a transit town?",
-      "answer": "Absolutely worth visiting as a destination in its own right. While many backpackers treat it as a transit point to islands, the city offers one of southern Thailand's richest living Buddhist histories, almost no tourist crowds, authentic local culture, excellent temples like Wat Phra Mahathat, traditional shadow puppet performances, and easy day-trip access to Khao Luang National Park—all at very affordable prices with a genuine 'real life first' atmosphere."
+      "answer": "Absolutely worth visiting as a destination in its own right. While many backpackers treat it as a transit point to islands, the city offers one of southern Thailand's richest living Buddhist histories, almost no tourist crowds, authentic local culture, excellent temples like Wat Phra Mahathat (free admission), traditional shadow puppet performances (100 THB/$3), and easy day-trip access to Khao Luang National Park (200 THB/$6)—all at very affordable prices with a genuine 'real life first' atmosphere."
     },
     {
       "question": "How many days should I spend in Nakhon Si Thammarat?",
-      "answer": "Two to three days allows adequate time to explore the city's main temples, visit the shadow puppet museum, experience a night market, and take one day trip to nearby attractions like Khao Luang National Park or Kiriwong Village. Budget travelers often spend 4-5 days using it as a comfortable base for exploring southern Thailand, while a single day suffices for critical must-sees if continuing onward."
+      "answer": "Two to three days allows adequate time to explore the city's main temples, visit the shadow puppet museum (100 THB/$3), experience a night market, and take one day trip to nearby attractions like Khao Luang National Park (200 THB/$6) or Kiriwong Village. Budget travelers often spend 4-5 days using it as a comfortable base for exploring southern Thailand, while a single day suffices for critical must-sees if continuing onward."
     },
     {
       "question": "What are the must-see attractions and their entrance fees?",
       "answer": "Wat Phra Mahathat (free) for the iconic 55-meter gold chedi and Buddha relic; Suchart Subsin Shadow Puppet Museum (100 THB/$3) for live performances and puppet-making; Khao Luang National Park (200 THB/$6) for waterfall hikes; Kiriwong Village (free) for batik workshops; Nakhon Si Thammarat National Museum (150 THB/$4) for Srivijaya artifacts; and the City Wall (free) for ancient ruins."
     },
     {
-      "question": "What's the best way to get to Nakhon Si Thammarat?",
-      "answer": "The nearest airport is Nakhon Si Thammarat International Airport (NST), located approximately 25-30 kilometers south of the city center, taking roughly 30-45 minutes by car or arranged transport. Long-distance buses connect from Bangkok's Southern Bus Terminal (10-12 hours), Surat Thani, and other southern cities, arriving at the central bus station within walking distance of hotels and attractions."
+      "question": "What is the best time to visit Nakhon Si Thammarat?",
+      "answer": "November through February offers the best weather with cool and dry conditions (20-28°C / 68-82°F), making temple exploration and waterfall hiking comfortable. December and January are peak months with optimal weather and full park accessibility. Avoid May-September when heavy rainfall limits outdoor activities, though fewer tourists visit during this monsoon period. March-April brings intense heat (above 35°C/95°F) with fewer crowds but challenging midday conditions."
     },
     {
-      "question": "Is it safe to rent a motorbike and explore independently?",
-      "answer": "Motorbike rental is available (200-300 THB/$6-9 daily) and safe for experienced riders comfortable with Thai traffic conditions. International driving permits are officially required; however, enforcement varies. For day trips to Khao Luang National Park or Kiriwong Village, renting provides excellent flexibility, though tuk-tuks and organized tours remain safer options for those unfamiliar with left-side driving."
-    },
-    {
-      "question": "What's the food like in Nakhon Si Thammarat?",
-      "answer": "Southern Thai cuisine dominates with signature dishes featuring bold spices, seafood, and coconut. The Bovorn Bazaar Night Market offers authentic street food at bargain prices, while restaurants like Keawloon (Michelin Bib Gourmand listed) serve traditional preparations. Expect excellent grilled seafood, spicy curries, and regional specialties; most meals cost $2-5 at local stalls and $5-15 at mid-range restaurants."
-    },
-    {
-      "question": "When is monsoon season and should I avoid it?",
-      "answer": "The southwest monsoon runs May-September, bringing heavy rainfall and occasional flooding in low areas. While outdoor activities become challenging, fewer tourists visit, accommodation prices drop 20-30%, and the landscape becomes lush. Consider visiting November-February for optimal weather and accessibility, or during monsoon season if you prioritize budget and solitude."
+      "question": "How much should I budget for a trip to Nakhon Si Thammarat?",
+      "answer": "Budget travelers: $20-40/day (guesthouses at $11-16, street food at $1-3/meal, attractions $0-6). Mid-range travelers: $50-100/day (3-star hotels at $16-27, restaurant meals $2-6, activities $3-6). Luxury travelers: $150-400+/day (upscale hotels $100-200, fine dining $15-50/meal, private tours $30-60). Daily transport via songthaews costs $0.60-2."
     }
   ],
   "practicalInfo": {
@@ -430,10 +497,10 @@
     "nearestAirport": "Nakhon Si Thammarat International Airport (NST)",
     "travelTimeFromAirport": "30-45 minutes by car to city center",
     "localTransport": [
-      "Tuk-tuk",
-      "Songthaew (shared minibus)",
-      "Motorbike rental",
-      "Walking"
+      "Tuk-tuk (40-80 THB / $1-2 USD per ride)",
+      "Songthaew / shared minibus (20+ THB / $0.60+ USD)",
+      "Motorbike rental (200-300 THB / $6-9 USD daily)",
+      "Walking (compact city center)"
     ]
   },
   "enrichedAt": "2026-02-22T13:06:37.963Z",
@@ -461,5 +528,112 @@
       "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Nakhon Si Thammarat.",
       "Wat Phra Mahathat": "Visit Wat Phra Mahathat during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
     }
-  }
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Wat Phra Mahathat Woramahawihan",
+      "description": "The spiritual heart of Nakhon Si Thammarat featuring a magnificent 55-meter gold chedi housing a revered Buddha relic. One of southern Thailand's most sacred Buddhist temples with free admission.",
+      "location": "City Center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "55-meter gold chedi",
+        "Buddha relic",
+        "Ancient cloisters",
+        "Free admission"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Suchart Subsin Shadow Puppet Museum",
+      "description": "Showcases centuries-old Siamese shadow puppet traditions (nang talung) with live performances and hands-on puppet-making workshops.",
+      "location": "Downtown",
+      "entrance_fee": "100 THB ($3 USD)",
+      "highlights": [
+        "Live puppet performances",
+        "Hands-on workshops",
+        "Cultural heritage",
+        "Interactive exhibits"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Khao Luang National Park",
+      "description": "Nature reserve featuring a 4-kilometer rainforest hiking trail leading to the spectacular multi-tiered Krung Ching Waterfall.",
+      "location": "30 km northeast of city center",
+      "entrance_fee": "200 THB ($6 USD)",
+      "highlights": [
+        "Krung Ching Waterfall",
+        "Rainforest hike",
+        "Mountain scenery",
+        "Wildlife viewing"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Kiriwong Village",
+      "description": "Traditional village known for batik dyeing workshops, fruit orchards, and reportedly the cleanest air in Thailand.",
+      "location": "40 km west of city center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Batik dyeing workshops",
+        "Fruit orchards",
+        "Local craftspeople",
+        "Authentic village life"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Nakhon Si Thammarat National Museum",
+      "description": "Displays Srivijaya-period artifacts, ancient Buddha images, and cultural heritage from southern Thailand's rich history.",
+      "location": "City Center",
+      "entrance_fee": "150 THB ($4 USD)",
+      "highlights": [
+        "Srivijaya artifacts",
+        "Ancient Buddha images",
+        "Historical exhibits",
+        "Cultural heritage"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Bovorn Bazaar Night Market",
+      "description": "Authentic night market offering southern Thai street food, grilled squid, and local delicacies without tourist pressure.",
+      "location": "Downtown market area",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Grilled squid stalls",
+        "Street food",
+        "Local atmosphere",
+        "Budget-friendly"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Nakhon Si Thammarat City Wall",
+      "description": "Ancient city fortifications with restored north gate and nearby Srivijaya ruins providing insight into the city's historical significance.",
+      "location": "North of city center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Ancient ruins",
+        "Srivijaya heritage",
+        "Historical site",
+        "Restored architecture"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Wat Wang Tawan Tok",
+      "description": "Temple featuring well-preserved Ayutthaya-period murals depicting Jataka tales and Buddhist stories.",
+      "location": "City Center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Ayutthaya murals",
+        "Jataka tales",
+        "Historical artwork",
+        "Religious significance"
+      ]
+    }
+  ],
+  "factchecked_at": "2026-03-08T18:46:12.463Z"
 }

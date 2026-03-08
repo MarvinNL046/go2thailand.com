@@ -115,96 +115,163 @@
   ],
   "top_restaurants": [
     {
-      "name": "Ao Thung Makham Seafood Stalls",
-      "cuisine": "Thai Seafood",
-      "price_range": "$",
-      "description": {
-        "en": "Open-air restaurants on stilts over the water at Thung Makham bay, serving whatever the fishing boats brought in that morning. The steamed sea bass with lime and garlic prawns are exceptional at impossibly low prices.",
-        "nl": "Openluchtrestaurants op palen boven het water in de Thung Makham baai, die serveren wat de vissersboten die ochtend hebben meegebracht. De gestoomde zeebaars met limoen en knoflookgarnalen zijn uitzonderlijk voor ongelooflijk lage prijzen."
-      }
+      "rank": 1,
+      "name": "Season Cafe Chumphon",
+      "description": "Cafe offering American and Thai cuisine with highly-rated service and quality preparation.",
+      "cuisine_type": "American, Thai",
+      "price_range": "100-300 THB",
+      "rating": 4.9,
+      "highlights": [
+        "High ratings",
+        "American-Thai fusion"
+      ]
     },
     {
-      "name": "Kuay Tiaw Reua Tha Tapao",
-      "cuisine": "Thai Noodles",
-      "price_range": "$",
-      "description": {
-        "en": "A humble noodle shop on Tha Tapao Road serving rich boat noodles in small bowls — the tradition is to eat several. The pork-and-herb broth has been simmered for hours and costs just 15-35 baht per bowl.",
-        "nl": "Een bescheiden noedelwinkel aan de Tha Tapao Road die rijke bootnoedels serveert in kleine kommen — de traditie is om er meerdere te eten. De varkens-en-kruiden bouillon is uren getrokken en kost slechts 15-35 baht per kom."
-      }
+      "rank": 2,
+      "name": "Take A Seat Cafe",
+      "description": "Casual cafe serving Thai and cafe-style dishes in a relaxed atmosphere.",
+      "cuisine_type": "Cafe, Thai",
+      "price_range": "80-200 THB",
+      "rating": 4.9,
+      "highlights": [
+        "Casual atmosphere",
+        "Thai dishes"
+      ]
     },
     {
+      "rank": 3,
+      "name": "Le Betole",
+      "description": "Italian restaurant specializing in pizza and Italian cuisine with highly-rated dishes.",
+      "cuisine_type": "Italian, Pizza",
+      "price_range": "150-400 THB",
+      "rating": 4.7,
+      "highlights": [
+        "Authentic Italian",
+        "Wood-fired pizza"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Mae Mai Seafood",
+      "description": "Seafood and Asian restaurant known for fresh local catches and traditional preparations.",
+      "cuisine_type": "Seafood, Asian",
+      "price_range": "100-300 THB",
+      "rating": 4.2,
+      "highlights": [
+        "Fresh seafood",
+        "Asian cuisine"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Green Kitchen",
+      "description": "Asian and Thai restaurant offering traditional dishes with vegetarian options available.",
+      "cuisine_type": "Asian, Thai",
+      "price_range": "80-250 THB",
+      "rating": 3.9,
+      "highlights": [
+        "Thai classics",
+        "Vegetarian options"
+      ]
+    },
+    {
+      "rank": 6,
       "name": "Phui Thung Wua Laen",
-      "cuisine": "Thai-Seafood",
-      "price_range": "$$",
-      "description": {
-        "en": "The best restaurant on Thung Wua Laen Beach, set under a thatched roof with tables in the sand. Fresh grilled squid, papaya salad, and cold beer as the waves lap at your feet. Popular with both locals and the few travelers who find their way here.",
-        "nl": "Het beste restaurant op Thung Wua Laen Beach, onder een rieten dak met tafels in het zand. Verse gegrilde inktvis, papajasalade en koud bier terwijl de golven aan je voeten kabbelen. Populair bij zowel locals als de weinige reizigers die hier komen."
-      }
+      "description": "Beachfront restaurant on Thung Wua Laen Beach under a thatched roof with tables in the sand, serving fresh grilled seafood.",
+      "cuisine_type": "Thai Seafood",
+      "price_range": "150-400 THB",
+      "highlights": [
+        "Beachfront dining",
+        "Fresh grilled seafood",
+        "Wave views"
+      ]
     },
     {
-      "name": "Night Market (Sala Daeng Road)",
-      "cuisine": "Street Food",
-      "price_range": "$",
-      "description": {
-        "en": "Chumphon's evening food market serves classic southern Thai street food — grilled chicken, som tam, fried fish cakes, and sweet coconut desserts. Everything is fresh, cheap, and prepared by vendors who have manned the same stalls for decades.",
-        "nl": "Chumphon's avondvoedselmarkt serveert klassiek Zuid-Thais straatvoedsel — gegrilde kip, som tam, gebakken viskoekjes en zoete kokosdesserts. Alles is vers, goedkoop en bereid door verkopers die al tientallen jaren dezelfde kramen runnen."
-      }
-    },
-    {
+      "rank": 7,
       "name": "Papa Seafood",
-      "cuisine": "Seafood",
-      "price_range": "$$",
-      "description": {
-        "en": "A popular local seafood restaurant near the Pak Nam fishing port. Known for generous portions of crab fried rice, tom yum goong, and grilled whole fish. The setting is casual and family-friendly with views of the fishing fleet.",
-        "nl": "Een populair lokaal visrestaurant bij de Pak Nam vissershaven. Bekend om royale porties krab gebakken rijst, tom yum goong en gegrilde hele vis. De sfeer is casual en gezinsvriendelijk met uitzicht op de vissersvloot."
-      }
+      "description": "Popular local seafood restaurant near Pak Nam fishing port with casual family-friendly atmosphere and views of the fishing fleet.",
+      "cuisine_type": "Seafood",
+      "price_range": "150-400 THB",
+      "highlights": [
+        "Fresh fish",
+        "Port views",
+        "Local favorite"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Night Market (Sala Daeng Road)",
+      "description": "Evening food market serving classic southern Thai street food prepared by vendors who have maintained their stalls for decades.",
+      "cuisine_type": "Street Food, Thai",
+      "price_range": "30-100 THB",
+      "highlights": [
+        "Authentic street food",
+        "Budget-friendly",
+        "Local experience"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "Novotel Chumphon Beach Resort",
+      "rank": 1,
+      "name": "Magic House",
+      "description": "Highly-rated boutique accommodation with excellent guest reviews and quality amenities.",
+      "price_range": "$30-50/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "The most modern hotel option in Chumphon, located on Thung Wua Laen Beach with a pool, restaurant, and clean rooms with sea views. A comfortable base for beach days and island day trips.",
-        "nl": "De modernste hoteloptie in Chumphon, gelegen op Thung Wua Laen Beach met een zwembad, restaurant en schone kamers met zeezicht. Een comfortabele basis voor stranddagen en eilanddagtrips."
-      }
+      "rating": 4.6,
+      "highlights": [
+        "High ratings",
+        "Boutique style"
+      ]
     },
     {
-      "name": "Clean Wave Resort",
-      "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "Simple bungalows right on Thung Wua Laen Beach, popular with kitesurfers and backpackers. Basic but clean rooms with fans or air conditioning, just steps from the sand. The beachfront restaurant is a great social hub.",
-        "nl": "Eenvoudige bungalows direct op Thung Wua Laen Beach, populair bij kitesurfers en backpackers. Basale maar schone kamers met ventilator of airconditioning, op slechts enkele stappen van het strand. Het strandrestaurant is een leuke ontmoetingsplek."
-      }
-    },
-    {
-      "name": "Chumphon Cabana Resort",
+      "rank": 2,
+      "name": "The Nest Private Beach Resort",
+      "description": "Beach resort offering private accommodation with direct beach access and resort amenities.",
+      "price_range": "$40-70/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "A long-established resort on Thung Wua Laen Beach with tropical gardens, a large pool, and comfortable rooms. Offers diving and snorkeling tours to the nearby islands and has its own PADI dive center.",
-        "nl": "Een gevestigd resort op Thung Wua Laen Beach met tropische tuinen, een groot zwembad en comfortabele kamers. Biedt duik- en snorkeltours naar de nabijgelegen eilanden en heeft een eigen PADI duikcentrum."
-      }
+      "rating": 4.2,
+      "highlights": [
+        "Private beach",
+        "Resort amenities"
+      ]
     },
     {
-      "name": "Fah Sai Resort",
-      "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "A quiet, family-run bungalow resort set back from the beach in a coconut grove. Hammocks, garden seating, and a peaceful atmosphere attract long-stay travelers looking for an affordable tropical escape.",
-        "nl": "Een rustig, door de familie gerund bungalowresort achter het strand in een kokospalmboomgaard. Hangmatten, tuinstoelen en een vredige sfeer trekken langverblijvers aan die een betaalbare tropische ontsnapping zoeken."
-      }
+      "rank": 3,
+      "name": "The Beach Resort & Residence",
+      "description": "Beachfront resort with accommodation options ranging from rooms to residences with sea views.",
+      "price_range": "$35-65/night",
+      "category": "midrange",
+      "rating": 3.8,
+      "highlights": [
+        "Beachfront",
+        "Multiple accommodation types"
+      ]
     },
     {
-      "name": "Tuscany Resort Chumphon",
-      "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "A boutique resort near Sapli Beach with Italian-inspired design, private pool villas, and a renowned restaurant. The most upscale option in the Chumphon area, popular with couples seeking a romantic getaway.",
-        "nl": "Een boetiekresort bij Sapli Beach met Italiaans-geinspireerd ontwerp, privé zwembadhuisjes en een bekend restaurant. De meest luxe optie in het Chumphon gebied, populair bij stellen die een romantisch uitje zoeken."
-      }
+      "rank": 4,
+      "name": "Nana Beach Resort",
+      "description": "Beachfront budget-to-midrange resort located directly on the beach with basic to comfortable facilities.",
+      "price_range": "$30-55/night",
+      "category": "midrange",
+      "rating": 3.6,
+      "highlights": [
+        "Beach access",
+        "Budget-friendly"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Chumphon Cabana",
+      "description": "Established beachfront resort with tropical gardens, pool, and PADI dive center offering water sports tours.",
+      "price_range": "$35-60/night",
+      "category": "midrange",
+      "rating": 3.2,
+      "highlights": [
+        "PADI dive center",
+        "Pool",
+        "Water sports"
+      ]
     }
   ],
   "travel_tips": [
@@ -278,166 +345,129 @@
     }
   },
   "overview": "Chumphon is Thailand's best-kept secret for travelers seeking authentic coastal experiences without the tourist crowds. Located on the upper Gulf coast between Hua Hin and Surat Thani, this working port city serves as the gateway to Koh Tao and the islands of Mu Ko Chumphon National Park. With a population of just 34,000, Chumphon offers pristine beaches like Thung Wua Laen with its golden sand and excellent kiteboarding conditions, alongside world-class diving opportunities that rival better-known destinations. The city maintains a refreshingly untouristy atmosphere where Thai beach culture thrives naturally, featuring cheap seafood markets, a scenic waterfront park, and easy access to quiet beaches and island day trips. Whether you're passing through as a transit point or staying longer to explore, Chumphon delivers authentic Thailand at remarkably low prices with none of the backpacker circus found in Phuket or Patpong.",
-  "thingsToDo": "Start your Chumphon adventure at Thung Wua Laen Beach, a free-entry golden sand beach perfect for kiteboarding and offshore snorkeling, where you'll find mostly local families rather than tour groups. The centerpiece attraction is Mu Ko Chumphon National Park (200 THB/$6 entrance fee), offering incredible coral reef diving, island hopping, and snorkeling across multiple islands within easy boat access from the mainland. For cultural exploration, visit the Prince of Chumphon Memorial Shrine, a hilltop monument with panoramic sea views that honors the Royal Thai Navy's history in the region—free admission and worth timing for sunset photography. Pak Nam Chumphon fishing port is the heart of local life where you can watch daily fish auctions, eat incredibly fresh seafood at waterfront restaurants, and catch ferries to Koh Tao and other islands. Don't miss Rab Ro Canal Mangrove for kayaking through mangrove tunnels and spotting wildlife, Khao Matsee Viewpoint for dramatic coastline vistas, or Sapli Beach (Hat Sai Ri) near the Prince shrine for quiet swimming with clear water and minimal development. For a modern twist, visit Must See Valley & Cafe on Matree Hill, a sea-view cafe open 9 AM-10 PM that offers panoramic Gulf views and fresh brewed coffee while you relax with the ocean breeze.",
+  "thingsToDo": "Start your Chumphon adventure at Thung Wua Laen Beach, a free-entry golden sand beach perfect for kiteboarding and offshore snorkeling, where you'll find mostly local families rather than tour groups. The centerpiece attraction is Mu Ko Chumphon National Park (200 THB entrance fee), offering incredible coral reef diving, island hopping, and snorkeling across multiple islands within easy boat access from the mainland. For cultural exploration, visit the Prince of Chumphon Memorial Shrine, a hilltop monument with panoramic sea views that honors the Royal Thai Navy's history in the region—free admission and worth timing for sunset photography. Pak Nam Chumphon fishing port is the heart of local life where you can watch daily fish auctions, eat incredibly fresh seafood at waterfront restaurants, and catch ferries to Koh Tao and other islands. Don't miss Rab Ro Canal Mangrove for kayaking through mangrove tunnels and spotting wildlife, Khao Matsee Viewpoint for dramatic coastline vistas, or Sapli Beach (Hat Sai Ri) near the Prince shrine for quiet swimming with clear water and minimal development. For a modern twist, visit Must See Valley & Cafe on Matree Hill, a sea-view cafe open 9 AM-10 PM that offers panoramic Gulf views and fresh brewed coffee while you relax with the ocean breeze.",
   "whereToStay": "Chumphon offers excellent value across all accommodation levels, with budget guesthouses starting as low as $12-15 per night and mid-range hotels ranging from $37-46 nightly. The main areas to stay are around Thung Wua Laen Beach for beach access and water sports, Pak Nam for proximity to ferries and seafood dining, and central Mueang district near the night market and transport hubs. Budget travelers should look toward the Pak Nam area and city center, where hostels and basic guesthouses cater to backpackers with free WiFi and social atmospheres for meeting fellow travelers. Mid-range options cluster around the beaches and town center, offering air-conditioned rooms, private bathrooms, and sometimes pool access—ideal for those wanting comfort without luxury pricing. Luxury and resort-style accommodations like Nana Beach Hotel & Resort ($37+) offer beachfront locations with proper amenities, though Chumphon's charm lies in its lack of mega-resorts; even higher-end stays maintain the town's low-key character.",
   "whereToEat": [
     {
-      "name": "Must See Valley & Cafe",
+      "name": "Season Cafe Chumphon",
+      "cuisine": "American, Thai",
+      "priceRange": "$$",
+      "description": "Well-rated cafe combining American and Thai cuisine with quality service and preparation."
+    },
+    {
+      "name": "Take A Seat Cafe",
       "cuisine": "Cafe, Thai",
+      "priceRange": "$",
+      "description": "Casual cafe atmosphere serving Thai and cafe-style dishes at reasonable prices."
+    },
+    {
+      "name": "Le Betole",
+      "cuisine": "Italian, Pizza",
       "priceRange": "$$",
-      "description": "A scenic hilltop cafe in Pak Nam Subdistrict open 9 AM-10 PM with expansive sea views, outdoor seating with ocean breezes, and homemade bakery items. Perfect for coffee, lunch, or just relaxing while watching the Gulf coastline stretch to the horizon."
+      "description": "Italian restaurant specializing in authentic pizza and Italian dishes with solid ratings."
     },
     {
-      "name": "Namjit Pork and Asparagus Noodles",
-      "cuisine": "Thai Noodles",
-      "priceRange": "$",
-      "description": "A 40-year-old institution famous for its Tom Yum noodles loaded with tender asparagus, minced pork, pork slices, meatballs, and fried accompaniments. The signature broth is naturally sweet and richly flavored without needing extra seasoning."
-    },
-    {
-      "name": "Sai Ree Beach Seafood Restaurant",
-      "cuisine": "Seafood, Thai",
+      "name": "Mae Mai Seafood",
+      "cuisine": "Seafood, Asian",
       "priceRange": "$$",
-      "description": "A beachfront seafood restaurant near Sai Ree Beach with Thai coastal cuisine and nice atmosphere. Known for grilled shrimp and sour curry with sea bass mixed with flying fish eggs, vegetables, and omelet—ideal for sunset dining."
+      "description": "Fresh seafood restaurant with Asian preparations and quality local catches."
     },
     {
-      "name": "Nawa Cafe",
-      "cuisine": "Cafe, Bakery",
-      "priceRange": "$",
-      "description": "A cozy minimalist cafe near Phraratphap Beach (10 minutes from city center) with beautiful sea views, homemade bakery, and excellent coffee. Open daily 9 AM-7 PM and perfect for Instagram-worthy moments with nature-inspired decor."
+      "name": "Phui Thung Wua Laen",
+      "cuisine": "Thai Seafood",
+      "priceRange": "$$",
+      "description": "Beachfront restaurant with tables in the sand serving grilled squid, papaya salad, and fresh seafood."
     },
     {
-      "name": "Pak Nam Fishing Port Seafood Stalls",
-      "cuisine": "Seafood, Street Food, Thai",
-      "priceRange": "$",
-      "description": "Waterfront area with multiple seafood restaurants and stalls serving ultra-fresh catch from daily auctions at unbeatable prices. Where locals eat grilled fish, shrimp curry, and tom yum prepared minutes after the boats return."
+      "name": "Papa Seafood",
+      "cuisine": "Seafood",
+      "priceRange": "$$",
+      "description": "Local seafood restaurant near Pak Nam fishing port with casual atmosphere and port views."
     },
     {
-      "name": "Ao Thung Makham Bay Fishing Village Restaurants",
-      "cuisine": "Seafood, Thai",
+      "name": "Night Market (Sala Daeng Road)",
+      "cuisine": "Street Food, Thai",
       "priceRange": "$",
-      "description": "A collection of simple local eateries in the Ao Thung Makham fishing village serving super-fresh seafood plates. Primarily patronized by locals and ferry travelers waiting for boats to Koh Tao."
+      "description": "Evening food market with authentic southern Thai street food including grilled chicken, som tam, and fish cakes."
     }
   ],
   "topHotels": [
     {
-      "name": "Suriwong Chumphon Hotel",
-      "category": "budget",
-      "priceRange": "$12-20/night",
-      "area": "Central Mueang District",
-      "description": "Budget-friendly hotel offering basic clean rooms with essential amenities in the city center near markets and transport. Popular with backpackers and transit travelers seeking no-frills accommodation at rock-bottom prices."
-    },
-    {
-      "name": "A-Te Chumphon Hotel - SHA Plus",
-      "category": "budget",
-      "priceRange": "$46/night",
-      "area": "Mueang District",
-      "description": "SHA Plus certified hotel meeting health and safety standards with comfortable rooms and helpful staff. A step above basic budget hotels with better facilities while maintaining excellent value for money."
-    },
-    {
-      "name": "Nana Beach Hotel & Resort",
+      "name": "Magic House",
       "category": "midrange",
-      "priceRange": "$37-55/night",
+      "priceRange": "$30-50/night",
+      "area": "Chumphon City Center",
+      "description": "Highly-rated boutique hotel with excellent guest reviews and quality amenities for comfortable stays."
+    },
+    {
+      "name": "The Nest Private Beach Resort",
+      "category": "midrange",
+      "priceRange": "$40-70/night",
       "area": "Thung Wua Laen Beach",
-      "description": "Beachfront midrange resort located directly on Thung Wua Laen Beach with direct beach access for kiteboarding and swimming. Offers comfortable rooms, pool, and proximity to water sports without excessive tourist infrastructure."
+      "description": "Beach resort offering private accommodation with direct beach access and full resort facilities."
     },
     {
-      "name": "Lam Som Beach Resort",
+      "name": "The Beach Resort & Residence",
       "category": "midrange",
-      "priceRange": "$40-60/night",
-      "area": "Lam Som Beach",
-      "description": "Beach resort with direct waterfront access, air-conditioned rooms, and coastal views. Ideal for divers and beach enthusiasts wanting comfortable quarters with convenient location for Mu Ko Chumphon National Park trips."
+      "priceRange": "$35-65/night",
+      "area": "Thung Wua Laen Beach",
+      "description": "Beachfront resort with mixed accommodation ranging from hotel rooms to residential units with sea views."
     },
     {
-      "name": "Chumphon Synergy Resort",
+      "name": "Nana Beach Resort",
       "category": "midrange",
-      "priceRange": "$45-70/night",
-      "area": "Central/Pak Nam",
-      "description": "Modern midrange resort with contemporary design, pool facilities, and convenient central location near ferry terminals and restaurants. Good balance of comfort, amenities, and proximity to attractions."
+      "priceRange": "$30-55/night",
+      "area": "Thung Wua Laen Beach",
+      "description": "Beachfront budget-to-midrange resort with direct beach access and standard amenities."
     },
     {
-      "name": "Chumphon International Hotel",
+      "name": "Chumphon Cabana",
       "category": "midrange",
-      "priceRange": "$50-75/night",
-      "area": "Mueang District",
-      "description": "Established hotel with larger rooms than typical budget options, on-site restaurant, and business facilities. Caters to both leisure and business travelers seeking midrange comfort in the city center."
-    },
-    {
-      "name": "Holiday Inn Chumphon",
-      "category": "luxury",
-      "priceRange": "$80-120/night",
-      "area": "Pak Nam/Beach Area",
-      "description": "International-standard hotel with upscale amenities, quality dining, and beach proximity. Provides luxury comfort while maintaining Chumphon's low-key character without resort excess."
-    },
-    {
-      "name": "Chumphon Palace Hotel",
-      "category": "midrange",
-      "priceRange": "$60-85/night",
-      "area": "Central Mueang",
-      "description": "Established hotel in town center with spacious rooms, air-conditioning, restaurant facilities, and helpful concierge. Known for cleanliness and reliability with good value for extended stays."
-    },
-    {
-      "name": "Khanom Royale",
-      "category": "luxury",
-      "priceRange": "$100-150/night",
-      "area": "Nearby Khanom Town",
-      "description": "Upscale boutique resort in neighboring Khanom with refined coastal location and high-end amenities. Short day trip from Chumphon for those seeking more refined accommodations while exploring the region."
-    },
-    {
-      "name": "Baan Suan Rim Sai",
-      "category": "midrange",
-      "priceRange": "$50-70/night",
-      "area": "Beachfront",
-      "description": "Charming family-run beachfront property with Thai-style bungalows, garden setting, and personalized service. Offers authentic coastal living at moderate prices in a relaxed atmosphere."
+      "priceRange": "$35-60/night",
+      "area": "Thung Wua Laen Beach",
+      "description": "Established beachfront resort featuring tropical gardens, pool, and on-site PADI dive center for water sports."
     }
   ],
-  "gettingAround": "Chumphon is a compact, walkable city with multiple transport options. Tuk-tuks are the primary local transport for short distances within town and to nearby beaches (typically 50-100 THB per ride). Songthaews (shared red vans) run fixed routes through town and to surrounding areas like Thung Wua Laen Beach for very cheap fares (20-40 THB). For more flexibility, motorbike rentals are widely available for 150-250 THB daily, though drivers should be comfortable with Thai road conditions. Long-distance buses depart from the main bus station to other towns, while trains connect Chumphon to Bangkok and other cities. Grab app is increasingly available for app-based rides, offering more transparent pricing than negotiated tuk-tuks. For island access, ferries to Koh Tao and tours departing from Pak Nam fishing port can be arranged through hotels or directly at the port.",
+  "gettingAround": "Chumphon is a compact, walkable city with multiple transport options. Tuk-tuks are the primary local transport for short distances within town and to nearby beaches (typically 50-100 THB per ride, $1.50-3 USD). Songthaews (shared red vans) run fixed routes through town and to surrounding areas like Thung Wua Laen Beach for very cheap fares (20-40 THB, under $1.25 USD). For more flexibility, motorbike rentals are widely available for 150-250 THB daily ($4.50-7.50 USD), though drivers should be comfortable with Thai road conditions. Long-distance buses depart from the main bus station to other towns, while trains connect Chumphon to Bangkok and other cities. Grab app is increasingly available for app-based rides, offering more transparent pricing than negotiated tuk-tuks. For island access, ferries to Koh Tao and tours departing from Pak Nam fishing port can be arranged through hotels or directly at the port (300-500 THB or $9-15 USD for ferry to Koh Tao).",
   "bestTimeToVisit": "Chumphon's best visiting season is November through February, when temperatures cool to pleasant levels (24-28°C), humidity drops, and rainfall is minimal. December and January are peak months with the most comfortable weather—ideal for beach activities, snorkeling, and diving with excellent visibility underwater. March through May brings increasingly hot weather (32-35°C) with higher humidity, making outdoor activities less comfortable though still feasible. June through October is southwest monsoon season with heavy rain, rough seas, and occasional closure of island ferries—suitable only for budget travelers unconcerned with beach activities or those seeking genuine local experiences without tourists. September and early October can see the tail end of monsoon rains but bring fewer visitors and lower prices. For diving and water sports, November-April provides the calmest seas and best underwater visibility when planning Mu Ko Chumphon National Park visits.",
   "budgetGuide": {
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget daily costs of $20-40 covering basic guesthouse accommodations ($10-15/night), street food and market meals ($2-5/meal), local transport ($1-3), and free/low-cost attractions ($0-3). Achievable for backpackers eating local noodles, using songthaews, and staying in hostels or basic rooms."
+      "description": "Budget daily costs of $20-40 (650-1,300 THB) covering basic guesthouse accommodations ($10-15/night or 325-490 THB), street food and market meals ($2-5/meal or 65-165 THB), local transport ($1-3 or 30-100 THB), and free/low-cost attractions ($0-3 or 0-100 THB). Achievable for backpackers eating local noodles, using songthaews, and staying in hostels or basic rooms."
     },
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Midrange daily budget of $50-100 including 3-star hotel rooms ($40-60/night), restaurant meals ($3-8 per meal), local transport and occasional taxis ($2-5), and paid attractions like national park entry ($6). Comfortable accommodations with private bathrooms and better furnishings while eating at established restaurants."
+      "description": "Midrange daily budget of $50-100 (1,625-3,250 THB) including 3-star hotel rooms ($40-60/night or 1,300-1,950 THB), restaurant meals ($3-8 per meal or 100-260 THB), local transport and occasional taxis ($2-5 or 65-165 THB), and paid attractions like national park entry ($6 or 200 THB). Comfortable accommodations with private bathrooms and better furnishings while eating at established restaurants."
     },
     "luxury": {
       "min": 150,
       "max": 400,
-      "description": "Luxury daily spending of $150-400+ covering resort stays ($80-150/night), fine dining and seafood restaurants ($10-30+ per meal), private transportation and car rental ($30-50+), and exclusive tours or private boat charters ($100-300+). Provides resort-style comfort, premium dining, and personalized experiences."
+      "description": "Luxury daily spending of $150-400+ (4,875-13,000+ THB) covering resort stays ($80-150/night or 2,600-4,875 THB), fine dining and seafood restaurants ($10-30+ per meal or 325-975+ THB), private transportation and car rental ($30-50+ or 975-1,625+ THB), and exclusive tours or private boat charters ($100-300+ or 3,250-9,750+ THB). Provides resort-style comfort, premium dining, and personalized experiences."
     }
   },
   "safetyTips": "Chumphon is generally very safe for tourists, with low crime rates and a friendly local population accustomed to visitors passing through to island ferries. Standard precautions apply: avoid displaying expensive valuables, keep belongings secure in crowded markets and on songthaews, and be cautious with motorbike rentals if unfamiliar with Thai traffic patterns. The city center and beaches are safe to walk at night, though remote beach areas after dark should be avoided. Petty theft is rare but possible in crowded areas like the night market and bus station. Use established transport (official taxis, Grab, hotel-arranged tuk-tuks) rather than hailing vehicles on the street. Water safety is important—swim only in designated beach areas at Thung Wua Laen and Sai Ree Beach where conditions are monitored. If diving with operators, verify safety certifications and ask about equipment maintenance. Respect local customs, particularly around temples and the Prince of Chumphon shrine, by dressing modestly and following posted guidelines.",
   "faq": [
     {
       "question": "Is Chumphon just a transit stop, or worth visiting for longer?",
-      "answer": "While many backpackers pass through en route to Koh Tao, Chumphon is absolutely worth 2-3 days for beaches, diving, and authentic Thai coastal culture. The low prices, manageable crowds, and quality attractions like Mu Ko Chumphon National Park make it an excellent basecamp that most travelers underestimate."
+      "answer": "While many backpackers pass through en route to Koh Tao, Chumphon is absolutely worth 2-3 days for beaches, diving, and authentic Thai coastal culture. The low prices (20-40 USD daily budget), manageable crowds, and quality attractions like Mu Ko Chumphon National Park (200 THB entry) make it an excellent basecamp that most travelers underestimate."
     },
     {
       "question": "How do I get to Koh Tao from Chumphon?",
-      "answer": "Ferries depart from Pak Nam fishing port and Ao Thung Makham Bay (also called Thung Makham Bay) daily, typically at fixed departure times in morning and afternoon. Journey time is 5-6 hours. Arrange tickets through your hotel or directly at the port; prices range from 300-500 THB ($9-15) depending on boat type."
+      "answer": "Ferries depart from Pak Nam fishing port and Ao Thung Makham Bay daily, typically at fixed departure times in morning and afternoon. Journey time is 5-6 hours. Arrange tickets through your hotel or directly at the port; prices range from 300-500 THB ($9-15 USD) depending on boat type and current fuel prices."
     },
     {
       "question": "What's the best beach in Chumphon for swimming and water sports?",
       "answer": "Thung Wua Laen Beach is the premier destination with calm golden sand, free entry, and excellent conditions for both kiteboarding and snorkeling. Sapli Beach (Hat Sai Ri) offers quieter swimming if you prefer fewer people. Both are free to access with no entrance fees."
     },
     {
-      "question": "Can I do diving in Chumphon without going to Koh Tao?",
-      "answer": "Yes—Mu Ko Chumphon National Park (200 THB/$6 entry) offers excellent dive sites, coral reefs, and snorkeling accessible by day boats from Pak Nam. Multiple operators offer diving trips ranging from beginner courses to advanced dives with comparable quality and lower prices than Koh Tao dive shops."
+      "question": "When is the best time to visit Chumphon?",
+      "answer": "November through February offers the best weather with temperatures of 24-28°C, lower humidity, and minimal rainfall. December and January are peak months with excellent conditions for beaches and diving. June through October is monsoon season with heavy rain and rough seas, best avoided unless seeking genuine local experiences and lower prices."
     },
     {
-      "question": "When should I avoid visiting Chumphon?",
-      "answer": "Avoid June through September during the southwest monsoon when heavy rain, rough seas, and ferry cancellations are common. While budget travelers may find lower prices and fewer tourists, outdoor activities and island visits become problematic. September's tail-end monsoon is slightly better but still unreliable."
-    },
-    {
-      "question": "How much does a typical meal cost in Chumphon?",
-      "answer": "Street food and night market noodle dishes cost 30-60 THB ($1-2), while restaurant meals range from 60-150 THB ($2-5). Fresh seafood at Pak Nam port runs 150-400 THB ($5-13) per plate. Chumphon is notably cheaper than islands or Phuket for dining."
-    },
-    {
-      "question": "Is it safe to rent a motorbike in Chumphon?",
-      "answer": "Yes, motorbike rentals are widely available (150-250 THB/day) and generally reliable. However, be comfortable with Thai driving conditions, wear helmets always, and avoid riding after drinking alcohol. Tourists unfamiliar with local traffic patterns should stick to tuk-tuks or songthaews."
+      "question": "What are the cheapest accommodation options in Chumphon?",
+      "answer": "Budget guesthouses and basic beach bungalows cost $10-20 per night (325-650 THB). Properties like those near Thung Wua Laen Beach offer simple fan-cooled or air-conditioned rooms. Midrange hotels like The Nest Private Beach Resort run $40-70 per night (1,300-2,275 THB) with more amenities."
     }
   ],
   "practicalInfo": {
@@ -448,13 +478,13 @@
       "Feb"
     ],
     "nearestAirport": "Surat Thani International Airport (URT) or Nakhon Si Thammarat Airport (NST)",
-    "travelTimeFromAirport": "2.5-3 hours by car from Surat Thani; 2 hours from Nakhon Si Thammarat. Bus service available from both airports.",
+    "travelTimeFromAirport": "2.5-3 hours by car from Surat Thani (approximately 200 km); 2 hours from Nakhon Si Thammarat (approximately 150 km). Bus service available from both airports.",
     "localTransport": [
-      "Tuk-tuk",
-      "Songthaew (shared van)",
-      "Motorbike rental",
+      "Tuk-tuk (50-100 THB per ride)",
+      "Songthaew/shared van (20-40 THB per route)",
+      "Motorbike rental (150-250 THB daily)",
       "Grab app",
-      "Ferry (to islands)",
+      "Ferry to islands (300-500 THB)",
       "City bus"
     ]
   },
@@ -484,5 +514,103 @@
       "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Chumphon.",
       "Thung Wua Laen Beach": "Visit Thung Wua Laen Beach during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
     }
-  }
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Mu Ko Chumphon National Park",
+      "description": "Marine national park with coral reefs, multiple islands, and excellent diving and snorkeling opportunities within easy boat access from the mainland.",
+      "location": "Off the coast of Chumphon",
+      "entrance_fee": "200 THB",
+      "highlights": [
+        "Coral reef diving",
+        "Island hopping",
+        "Snorkeling"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Thung Wua Laen Beach",
+      "description": "Golden sand beach popular for kiteboarding and snorkeling with free entry and mostly local visitors rather than tour groups.",
+      "location": "South of Chumphon city center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Kiteboarding conditions",
+        "Offshore snorkeling",
+        "Local atmosphere"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Prince of Chumphon Memorial Shrine",
+      "description": "Hilltop monument honoring the Royal Thai Navy's history in the region with panoramic sea views, ideal for sunset photography.",
+      "location": "Hilltop near Sapli Beach",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Panoramic sea views",
+        "Historical significance",
+        "Sunset location"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Pak Nam Chumphon Fishing Port",
+      "description": "Active fishing port where daily fish auctions occur and fresh seafood is available at waterfront restaurants. Ferry departure point for Koh Tao and nearby islands.",
+      "location": "Pak Nam Subdistrict",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Fish auctions",
+        "Fresh seafood dining",
+        "Ferry access"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Rab Ro Canal Mangrove",
+      "description": "Mangrove forest area suitable for kayaking through tunnels and spotting local wildlife in natural settings.",
+      "location": "Near Rab Ro Canal",
+      "entrance_fee": "Free (kayak rental available)",
+      "highlights": [
+        "Kayaking",
+        "Wildlife spotting",
+        "Mangrove ecosystem"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Sapli Beach (Hat Sai Ri)",
+      "description": "Quiet swimming beach with clear water and minimal development, located near the Prince of Chumphon shrine.",
+      "location": "Near Prince of Chumphon Shrine",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Clear water",
+        "Quiet atmosphere",
+        "Low development"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Khao Matsee Viewpoint",
+      "description": "Coastal viewpoint offering dramatic coastline vistas and panoramic views of the Gulf.",
+      "location": "Khao Matsee area",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Coastal vistas",
+        "Photography location"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Must See Valley & Cafe",
+      "description": "Hilltop cafe on Matree Hill with panoramic Gulf views, fresh brewed coffee, and outdoor seating overlooking the ocean.",
+      "location": "Matree Hill, Pak Nam Subdistrict",
+      "entrance_fee": "Free (beverage purchase expected)",
+      "highlights": [
+        "Panoramic views",
+        "Fresh coffee",
+        "Sunset setting"
+      ]
+    }
+  ],
+  "factchecked_at": "2026-03-08T18:48:31.229Z"
 }

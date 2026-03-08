@@ -11,7 +11,7 @@
     "en": "A major Isaan city on the Mekong River, Ubon Ratchathani is famous for its spectacular Candle Festival, prehistoric cliff paintings at Pha Taem, and the breathtaking Sam Phan Bok canyon known as the Grand Canyon of Thailand.",
     "nl": "Een grote Isaan-stad aan de Mekong rivier, Ubon Ratchathani is beroemd om het spectaculaire Kaarsen Festival, prehistorische rotstekeningen bij Pha Taem en de adembenemende Sam Phan Bok kloof, bekend als de Grand Canyon van Thailand."
   },
-  "population": 190000,
+  "population": 191000,
   "highlights": [
     "Candle Festival",
     "Pha Taem National Park",
@@ -115,96 +115,138 @@
   ],
   "top_restaurants": [
     {
-      "name": "Rung Rot Dee (Ratchabut Road)",
-      "cuisine": "Isaan",
-      "price_range": "$",
-      "description": {
-        "en": "A legendary Isaan restaurant famous for its larb moo (spicy minced pork salad) and som tam pla ra (papaya salad with fermented fish). The flavors are fiercely authentic and the prices are wonderfully low. Busy with locals every evening.",
-        "nl": "Een legendarisch Isaan restaurant beroemd om zijn larb moo (pittige gehakte varkenssalade) en som tam pla ra (papajasalade met gefermenteerde vis). De smaken zijn fel authentiek en de prijzen zijn heerlijk laag. Elke avond druk met locals."
-      }
+      "rank": 1,
+      "name": "Ricco Caf",
+      "description": "Bar and international cuisine venue with high TripAdvisor rating. Popular with both tourists and locals for quality drinks and food.",
+      "cuisine_type": "Bar, International",
+      "price_range": "150-400 THB ($5-12)",
+      "highlights": [
+        "International menu",
+        "Bar service",
+        "4.8 TripAdvisor rating"
+      ]
     },
     {
+      "rank": 2,
+      "name": "The Outside Inn",
+      "description": "Mexican and bar cuisine restaurant located in a guesthouse setting. Known for quality food and welcoming atmosphere.",
+      "cuisine_type": "Mexican, Bar",
+      "price_range": "200-500 THB ($6-15)",
+      "highlights": [
+        "Mexican specialties",
+        "Guesthouse location",
+        "4.7 TripAdvisor rating"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Indochine - Ubon Ratchathani",
+      "description": "Asian and Vietnamese cuisine restaurant reflecting Ubon's cross-border influences. Specializes in Vietnamese and Isaan fusion dishes.",
+      "cuisine_type": "Asian, Vietnamese",
+      "price_range": "200-450 THB ($6-14)",
+      "highlights": [
+        "Vietnamese-Asian fusion",
+        "Cross-border cuisine",
+        "4.0 TripAdvisor rating"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Peppers Restaurant & Bakery",
+      "description": "Mexican and international cuisine restaurant with bakery offerings. Known for quality coffee, breakfast options, and Western-Thai fusion dishes.",
+      "cuisine_type": "Mexican, International",
+      "price_range": "180-400 THB ($5-12)",
+      "highlights": [
+        "Bakery items",
+        "Breakfast options",
+        "4.4 TripAdvisor rating"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Zaap Soi 9",
+      "description": "Authentic Thai restaurant serving traditional Isaan cuisine. Known for genuine local flavors and reasonable prices.",
+      "cuisine_type": "Thai",
+      "price_range": "100-300 THB ($3-9)",
+      "highlights": [
+        "Isaan specialties",
+        "Local favorite",
+        "4.1 TripAdvisor rating"
+      ]
+    },
+    {
+      "rank": 6,
       "name": "Kai Yang Wat Jaeng",
-      "cuisine": "Isaan Grilled Chicken",
-      "price_range": "$",
-      "description": {
-        "en": "The most famous grilled chicken in Ubon, marinated in lemongrass and garlic and slow-grilled over charcoal. Served with sticky rice and a tangy jaew dipping sauce. A half chicken costs just 60-80 baht.",
-        "nl": "De beroemdste gegrilde kip van Ubon, gemarineerd in citroengras en knoflook en langzaam gegrild boven houtskool. Geserveerd met kleefrijst en een pittige jaew dipsaus. Een halve kip kost slechts 60-80 baht."
-      }
-    },
-    {
-      "name": "Indochine Restaurant",
-      "cuisine": "Thai-Vietnamese-French",
-      "price_range": "$$",
-      "description": {
-        "en": "A charming restaurant in a restored colonial-era building near the Mun River, serving a fusion of Thai, Vietnamese, and French cuisine. The baguette sandwiches and Vietnamese coffee reflect Ubon's cross-border influences.",
-        "nl": "Een charmant restaurant in een gerestaureerd koloniaal gebouw bij de Mun rivier, met een fusie van Thaise, Vietnamese en Franse keuken. De stokbroodsandwiches en Vietnamese koffie weerspiegelen de grensoverschrijdende invloeden van Ubon."
-      }
-    },
-    {
-      "name": "Night Market Sai Krok Isaan Stalls",
-      "cuisine": "Street Food",
-      "price_range": "$",
-      "description": {
-        "en": "The fermented sausage (sai krok Isaan) vendors at the night market serve these tangy, slightly sour pork-and-rice sausages grilled to perfection. Eaten with fresh ginger, chili, and peanuts — a quintessential Isaan snack for 20-30 baht.",
-        "nl": "De gefermenteerde worst (sai krok Isaan) verkopers op de nachtmarkt serveren deze pittige, licht zure varkens-en-rijst worstjes perfect gegrild. Gegeten met verse gember, chili en pinda's — een typische Isaan snack voor 20-30 baht."
-      }
-    },
-    {
-      "name": "Mun River Terrace Restaurants",
-      "cuisine": "Thai",
-      "price_range": "$$",
-      "description": {
-        "en": "Several riverside restaurants along the Mun River serve excellent Thai food with beautiful sunset views. Try the pla chon lui suan (snake-head fish with herbs) and enjoy the breeze off the water as the lights of the city reflect on the surface.",
-        "nl": "Verschillende rivierrestaurants langs de Mun rivier serveren uitstekend Thais eten met prachtige zonsondergangen. Probeer de pla chon lui suan (slanghoofdvis met kruiden) en geniet van de bries van het water als de stadslichten op het oppervlak weerspiegelen."
-      }
+      "description": "Famous grilled chicken specialist marinating chicken in lemongrass and garlic, slow-grilled over charcoal. Served with sticky rice and jaew dipping sauce.",
+      "cuisine_type": "Isaan Grilled Chicken",
+      "price_range": "60-150 THB ($2-5)",
+      "highlights": [
+        "Charcoal-grilled specialty",
+        "Authentic preparation",
+        "Local legend"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "Sunee Grand Hotel",
+      "rank": 1,
+      "name": "Yuu Hotel & Cafe",
+      "description": "Mid-range hotel with stylish rooms and integrated cafe. Offers good balance of comfort and value with modern amenities.",
+      "price_range": "$74/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "The best hotel in Ubon city center with modern rooms, a rooftop pool, fitness center, and excellent restaurant. Well located for exploring temples and the night market on foot. Popular with Thai business travelers.",
-        "nl": "Het beste hotel in het centrum van Ubon met moderne kamers, een zwembad op het dak, fitnesscentrum en uitstekend restaurant. Goed gelegen om tempels en de nachtmarkt te voet te verkennen. Populair bij Thaise zakenreizigers."
-      }
+      "highlights": [
+        "Integrated cafe",
+        "4.5 TripAdvisor rating",
+        "Modern style"
+      ]
     },
     {
-      "name": "Tohsang Khongjiam Resort",
-      "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "A riverside resort at the confluence of the Mun and Mekong rivers in Khong Jiam, about 75 km from the city. Stunning river views, traditional Isaan architecture, and a perfect base for visiting Pha Taem and Sam Phan Bok.",
-        "nl": "Een rivierresort bij de samenvloeiing van de Mun en Mekong rivieren in Khong Jiam, ongeveer 75 km van de stad. Prachtig uitzicht op de rivier, traditionele Isaan architectuur en een perfecte uitvalsbasis voor een bezoek aan Pha Taem en Sam Phan Bok."
-      }
-    },
-    {
-      "name": "Outside Inn",
-      "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "A quirky and welcoming guesthouse popular with the few backpackers who make it to Ubon. The owner is a wealth of local knowledge and can arrange transport to Pha Taem and Sam Phan Bok. Clean rooms and a social atmosphere.",
-        "nl": "Een eigenzinnig en gastvrij pension populair bij de weinige backpackers die Ubon bereiken. De eigenaar is een bron van lokale kennis en kan vervoer regelen naar Pha Taem en Sam Phan Bok. Schone kamers en een gezellige sfeer."
-      }
-    },
-    {
-      "name": "Ubon Hotel",
-      "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "A reliable budget hotel in the city center near the bus station and night market. No-frills rooms with air conditioning and hot water. The central location makes it easy to explore the city without transport.",
-        "nl": "Een betrouwbaar budgethotel in het stadscentrum bij het busstation en de nachtmarkt. Eenvoudige kamers met airconditioning en warm water. De centrale locatie maakt het makkelijk om de stad te verkennen zonder vervoer."
-      }
-    },
-    {
-      "name": "V Hotel Ubon",
+      "rank": 2,
+      "name": "Centara Ubon",
+      "description": "Established mid-range hotel offering reliable comfort and service. Good location with standard amenities for touring the city.",
+      "price_range": "$42/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "A modern hotel with stylish rooms, good breakfast, and a convenient location near the airport. Clean and efficient with helpful staff who can arrange tours to the national parks and Mekong attractions.",
-        "nl": "Een modern hotel met stijlvolle kamers, goed ontbijt en een handige locatie bij het vliegveld. Schoon en efficiënt met behulpzaam personeel dat tours naar de nationale parken en Mekong attracties kan regelen."
-      }
+      "highlights": [
+        "4.5 TripAdvisor rating",
+        "Reliable service",
+        "Central location"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "The Bliss Ubon",
+      "description": "Budget-friendly hotel with high guest satisfaction. Offers clean, comfortable rooms at excellent value.",
+      "price_range": "$24/night",
+      "category": "budget",
+      "highlights": [
+        "4.7 TripAdvisor rating",
+        "Great value",
+        "Comfortable rooms"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Rapeepan Ville Hotel",
+      "description": "Mid-range hotel offering comfortable accommodation with decent amenities. Well-regarded by guests for service and cleanliness.",
+      "price_range": "$22/night",
+      "category": "budget",
+      "highlights": [
+        "4.5 TripAdvisor rating",
+        "Good value",
+        "Clean rooms"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Eco Inn Ubon Ratchathani",
+      "description": "Budget eco-conscious accommodation offering basic but quality rooms. Environmentally-minded option for budget travelers.",
+      "price_range": "$14/night",
+      "category": "budget",
+      "highlights": [
+        "4.2 TripAdvisor rating",
+        "Eco-friendly",
+        "Very affordable"
+      ]
     }
   ],
   "travel_tips": [
@@ -278,189 +320,121 @@
     }
   },
   "overview": "Ubon Ratchathani, located in Thailand's Isaan region along the Mekong River, is a hidden gem that rivals more famous Thai destinations with its unique cultural attractions and natural wonders. The city of 190,000 people is most famous for its spectacular Candle Festival held each July, where massive wax sculptures parade through the streets accompanied by traditional Mor lam music. Beyond the festival, Ubon offers breathtaking natural attractions like Sam Phan Bok (the \"Grand Canyon of Thailand\"), prehistoric cliff paintings at Pha Taem National Park, and the scenic confluence of two rivers at Khong Jiam, making it an ideal destination for travelers seeking authentic Isaan experiences away from Bangkok's crowds.",
-  "thingsToDo": [
-    {
-      "name": {
-        "en": "General Ubon Attractions",
-        "nl": "Algemene Ubon Bezienswaardigheden"
-      },
-      "description": {
-        "en": "Ubon's natural attractions are among Thailand's finest. Start with Pha Taem National Park (200 THB/$6 entrance), where you can see ancient prehistoric cliff paintings dating back thousands of years and watch sunrise over the Mekong River from the viewpoint. Sam Phan Bok, free to enter and accessible December through May, features the iconic turquoise rock pools and dramatic canyon formations that earned it the 'Grand Canyon of Thailand' nickname. For spiritual experiences, visit Wat Sirindhorn Wararam (the 'Glow Temple') where intricate murals illuminate after sunset, or Wat Nong Bua with its striking Mahabodhi-style architecture. Nature lovers should explore Kaeng Saphu Rapids for sunset views over Laos and riverside dining, or take a boat trip at Khong Jiam to witness the confluence of the Mekong and Mun rivers. The Ubon Ratchathani National Museum (100 THB/$3) housed in a former palace building showcases Candle Festival exhibits and Isaan cultural artifacts. Evening exploration of Ratchabut Road Night Market offers authentic street food including fermented sausages, grilled chicken, and sticky rice.",
-        "nl": "De natuurlijke attracties van Ubon behoren tot de beste van Thailand. Begin bij Pha Taem National Park (200 THB/$6 entree), waar je eeuwenoude prehistorische rotstekeningen kunt zien die duizenden jaren oud zijn en zonsopgang over de Mekong kunt bekijken vanaf het uitzichtpunt. Sam Phan Bok, gratis toegankelijk van december tot mei, heeft de iconische turquoise rotspoelen en dramatische canyonformaties die het de bijnaam 'Grand Canyon van Thailand' opleverden. Voor spirituele ervaringen bezoek je Wat Sirindhorn Wararam (de 'Gloeitemple') waar ingewikkelde muurschilderingen oplichten na zonsondergang, of Wat Nong Bua met zijn opvallende Mahabodhi-architectuur. Natuurliefhebbers verkennen Kaeng Saphu stroomversnellingen voor zonsondergangen over Laos en eten aan de rivier, of maken een boottocht bij Khong Jiam om de samenvloeiing van de Mekong en Mun rivieren te zien. Het Ubon Ratchathani Nationaal Museum (100 THB/$3) in een voormalig paleisgebouw toont tentoonstellingen over het Kaarsenfestival en Isaan culturele artefacten. 's Avonds kun je de Ratchabut Road Nachtmarkt verkennen voor authentiek streetfood inclusief gefermenteerde worstjes, gegrilde kip en kleefrijst."
-      }
-    },
-    {
-      "name": {
-        "en": "Pha Taem National Park",
-        "nl": "Pha Taem Nationaal Park"
-      },
-      "description": {
-        "en": "Home to the dramatic Sao Chaliang rock formations — alien planet-like cracks in the earth that look like nothing else in Thailand. The park also features prehistoric cave paintings over 3,000 years old, depicting elephants, turtles, handprints, and humanoid figures on the cliff face. This is the most easterly point of Thailand with epic sunrise potential — arrive early for the most spectacular views over the Mekong and Laos. Entry: 200 THB for foreigners. Multiple geological wonders make this a must-visit for nature and history lovers.",
-        "nl": "Thuisbasis van de dramatische Sao Chaliang rotsformaties — buitenaards aandoende scheuren in de aarde die er uitzien als niets anders in Thailand. Het park heeft ook prehistorische grotschilderingen van meer dan 3.000 jaar oud, met afbeeldingen van olifanten, schildpadden, handafdrukken en mensachtige figuren op de rotswand. Dit is het meest oostelijke punt van Thailand met episch zonsopgangpotentieel — kom vroeg voor de meest spectaculaire uitzichten over de Mekong en Laos. Entree: 200 THB voor buitenlanders. Meerdere geologische wonderen maken dit een must-visit voor natuur- en geschiedenisliefhebbers."
-      }
-    },
-    {
-      "name": {
-        "en": "Soi Sawan Waterfall",
-        "nl": "Soi Sawan Waterval"
-      },
-      "description": {
-        "en": "A beautiful waterfall within Pha Taem National Park, worth the drive even in bad weather. The rocks around the falls are extremely slippery — injuries are common, so exercise caution. Brave visitors can try the natural water slides formed by the smooth rock surfaces. The lush surrounding jungle adds to the atmosphere.",
-        "nl": "Een prachtige waterval in Pha Taem National Park, de rit waard zelfs bij slecht weer. De rotsen rond de waterval zijn extreem glad — verwondingen komen vaak voor, dus wees voorzichtig. Dappere bezoekers kunnen de natuurlijke waterglijbanen proberen die gevormd zijn door de gladde rotsoppervlakken. De weelderige omringende jungle draagt bij aan de sfeer."
-      }
-    },
-    {
-      "name": {
-        "en": "Sang Chan Waterfall",
-        "nl": "Sang Chan Waterval"
-      },
-      "description": {
-        "en": "A unique waterfall with a fascinating natural phenomenon: water flows into a hole and emerges spectacularly from below. You can view from the top where the water disappears into the hole, then walk to a lower viewpoint to see it emerge from the rock face. This two-perspective experience makes Sang Chan unlike any other waterfall in Thailand.",
-        "nl": "Een unieke waterval met een fascinerend natuurfenomeen: water stroomt in een gat en komt spectaculair van onderaf tevoorschijn. Je kunt van bovenaf kijken waar het water in het gat verdwijnt en dan naar een lager uitzichtpunt lopen om het uit de rotswand te zien komen. Deze ervaring vanuit twee perspectieven maakt Sang Chan anders dan elke andere waterval in Thailand."
-      }
-    },
-    {
-      "name": {
-        "en": "Two-Color River View Point",
-        "nl": "Tweekleurige Rivier Uitzichtpunt"
-      },
-      "description": {
-        "en": "Where the Mekong meets the Mun River — Thailand's Mekong endpoint. The two rivers have visibly different colors (the brown Mekong and the sometimes blue Mun), creating a striking visual where they merge. Beautiful temple grounds at the viewpoint feature golden statues and Naga sculptures. After 800 km through 7 provinces, this is where the Mekong leaves Thailand for Laos, Cambodia, and eventually Vietnam. A deeply meaningful spot for those following the Thai Mekong route.",
-        "nl": "Waar de Mekong de Mun rivier ontmoet — het eindpunt van de Mekong in Thailand. De twee rivieren hebben zichtbaar verschillende kleuren (de bruine Mekong en de soms blauwe Mun), wat een opvallend visueel effect creëert waar ze samenvloeien. Prachtige tempelterreinen bij het uitzichtpunt met gouden beelden en Naga-sculpturen. Na 800 km door 7 provincies is dit waar de Mekong Thailand verlaat richting Laos, Cambodja en uiteindelijk Vietnam. Een diep betekenisvolle plek voor wie de Thaise Mekong-route volgt."
-      }
-    },
-    {
-      "name": {
-        "en": "PK Riverside Resort",
-        "nl": "PK Riverside Resort"
-      },
-      "description": {
-        "en": "A riverside hotel at 1,300 THB/night ($36) with stunning views of the Laos cliffs across the Mekong. Features the Memory Cafe with glass walls offering panoramic river views. Perfectly located in the middle of the national park attractions — ideal as a base for exploring Pha Taem, the waterfalls, and the Two-Color River View Point.",
-        "nl": "Een hotel aan de rivier voor 1.300 THB/nacht ($36) met prachtig uitzicht op de Laotiaanse kliffen aan de overkant van de Mekong. Beschikt over het Memory Cafe met glazen wanden die panoramisch uitzicht op de rivier bieden. Perfect gelegen midden tussen de nationale park attracties — ideaal als uitvalsbasis voor het verkennen van Pha Taem, de watervallen en het Tweekleurige Rivier Uitzichtpunt."
-      }
-    }
-  ],
+  "thingsToDo": "Ubon Ratchathani offers diverse attractions spanning natural wonders and cultural experiences. The Candle Festival (held annually in July) is the city's signature event, featuring massive wax sculpture parades and traditional Mor lam music at Wat Thung Si Muang (free admission). Sam Phan Bok, located 75 km east in Khong Jiam District, showcases hundreds of rocky depressions filled with turquoise water (entrance 200 THB/$6, accessible December-May only). Pha Taem National Park (80 km east) features 3,500-year-old prehistoric cliff paintings and scenic Mekong River viewpoints (entrance 200 THB/$6). The village of Khong Jiam at the confluence of the Mun and Mekong rivers offers sunset views and serves as a base for exploring eastern attractions (free access). Wat Nong Pa Phong forest monastery provides meditation and monastic experiences (free admission). Evening exploration of the Ubon Night Market near the bus station offers authentic Isaan street food and local culture at very low cost (pay-per-item from 20-100 THB). Most attractions require either rental transportation or organized day trips.",
   "whereToStay": "Ubon Ratchathani offers accommodation across all budgets, with most options concentrated in the city center near Thung Si Muang Park. Budget travelers can find comfortable guesthouses and basic hotels for $13-25 per night, offering clean rooms with essential amenities. Mid-range hotels ($30-70/night) provide better comfort, air conditioning, and often include breakfast, making them excellent value for money. These properties are typically located in the central business district within walking distance of restaurants and the night market. For luxury seekers, higher-end hotels and resorts offer superior service, often with pools and fine dining facilities, though Ubon's luxury options remain significantly cheaper than Bangkok properties. Many accommodations are within 15 minutes of Ubon Ratchathani Airport by car, and hotel staff can arrange transportation upon request.",
   "whereToEat": [
     {
-      "name": "SOMTUM JINDA RESTAURANT",
-      "cuisine": "Thai (Isaan)",
-      "priceRange": "$",
-      "description": "Specializes in som tam (papaya salad) and authentic Isaan dishes. A local favorite frequently mentioned in travel guides for its spicy, flavorful preparations and generous portions."
+      "name": "Ricco Caf",
+      "cuisine": "Bar, International",
+      "priceRange": "$$",
+      "description": "High-quality international cuisine and bar service. Highly rated (4.8 TripAdvisor) for drinks and food offerings."
     },
     {
-      "name": "Indochine",
-      "cuisine": "French/International",
+      "name": "The Outside Inn",
+      "cuisine": "Mexican, Bar",
       "priceRange": "$$",
-      "description": "Offers contemporary French cuisine with Asian influences in an upscale setting. Popular among travelers seeking refined dining experiences outside Thai cuisine."
+      "description": "Mexican specialties and bar service in a welcoming guesthouse setting. Rated 4.7 on TripAdvisor for quality and atmosphere."
+    },
+    {
+      "name": "Indochine - Ubon Ratchathani",
+      "cuisine": "Asian, Vietnamese",
+      "priceRange": "$$",
+      "description": "Vietnamese and Asian fusion cuisine reflecting Ubon's cross-border influences. Contemporary dining experience rated 4.0 TripAdvisor."
     },
     {
       "name": "Peppers Restaurant & Bakery",
-      "cuisine": "International/Cafe",
+      "cuisine": "Mexican, International",
       "priceRange": "$$",
-      "description": "Combines restaurant service with bakery offerings, serving Western and Thai fusion dishes. Known for quality coffee and breakfast options with a relaxed atmosphere."
+      "description": "Mexican and international cuisine with bakery items. Known for quality coffee and Western-Thai fusion dishes. Rated 4.4 TripAdvisor."
     },
     {
-      "name": "Pak Mor Robot",
+      "name": "Zaap Soi 9",
       "cuisine": "Thai",
       "priceRange": "$",
-      "description": "A popular local establishment serving traditional Thai cuisine at affordable prices. Frequented by both locals and tourists for authentic flavors."
+      "description": "Authentic Thai Isaan cuisine at reasonable prices. Local favorite rated 4.1 on TripAdvisor for genuine flavors."
     },
     {
-      "name": "Guay Jub Ubon",
-      "cuisine": "Thai (Soup Noodles)",
+      "name": "Kai Yang Wat Jaeng",
+      "cuisine": "Isaan Grilled Chicken",
       "priceRange": "$",
-      "description": "Specializes in guay jub, a traditional Thai soup noodle dish. An excellent choice for budget-conscious travelers seeking local comfort food."
-    },
-    {
-      "name": "Krua Samchai",
-      "cuisine": "Thai",
-      "priceRange": "$",
-      "description": "A casual Thai restaurant offering regional dishes with emphasis on fresh ingredients and traditional preparation methods."
+      "description": "Legendary grilled chicken specialist marinated in lemongrass and garlic, slow-grilled over charcoal. Served with sticky rice and jaew sauce for 60-80 THB per half chicken."
     }
   ],
   "topHotels": [
     {
-      "name": "B2 Ubon Premier Hotel",
+      "name": "The Bliss Ubon",
       "category": "budget",
-      "priceRange": "$20-35/night",
+      "priceRange": "$24/night (approximately 800 THB)",
       "area": "City Center",
-      "description": "Budget-friendly option known for friendly staff and comfortable rooms. Offers good value with basic amenities and convenient central location for exploring the city."
+      "description": "Budget-friendly option with excellent TripAdvisor rating (4.7). Clean, comfortable rooms at great value with good access to attractions."
     },
     {
-      "name": "Phadaeng Hotel",
+      "name": "Eco Inn Ubon Ratchathani",
       "category": "budget",
-      "priceRange": "$16-28/night",
-      "area": "Downtown",
-      "description": "Affordable accommodation with clean rooms and helpful staff. Located within easy reach of restaurants, night markets, and major attractions."
+      "priceRange": "$14/night (approximately 465 THB)",
+      "area": "Central",
+      "description": "Economy eco-conscious accommodation offering basic quality rooms. Most affordable option with 4.2 TripAdvisor rating."
     },
     {
-      "name": "Srisomthai Hotel",
+      "name": "Rapeepan Ville Hotel",
       "category": "budget",
-      "priceRange": "$15-25/night",
-      "area": "Central Area",
-      "description": "Budget hotel offering basic but clean rooms with air conditioning. Good choice for travelers prioritizing cost over luxury with decent service."
-    },
-    {
-      "name": "Thani Ubon Hotel",
-      "category": "midrange",
-      "priceRange": "$40-70/night",
+      "priceRange": "$22/night (approximately 730 THB)",
       "area": "City Center",
-      "description": "Mid-range property offering comfortable rooms with modern furnishings, on-site restaurant, and quality service. Well-positioned for exploring local attractions."
+      "description": "Budget hotel with 4.5 TripAdvisor rating. Clean rooms and reliable service at economical rates."
     },
     {
-      "name": "Laap Hotel",
+      "name": "Centara Ubon",
       "category": "midrange",
-      "priceRange": "$35-65/night",
-      "area": "Downtown",
-      "description": "Reliable mid-range hotel with spacious rooms, friendly staff, and convenient location near Thung Si Muang Park and local restaurants."
-    },
-    {
-      "name": "Ubon Hotel",
-      "category": "midrange",
-      "priceRange": "$45-75/night",
+      "priceRange": "$42/night (approximately 1,400 THB)",
       "area": "City Center",
-      "description": "Established mid-range hotel featuring comfortable accommodations, on-site dining, and central location within walking distance of main attractions."
+      "description": "Established mid-range hotel with 4.5 TripAdvisor rating. Offers comfortable rooms with good amenities and reliable service."
     },
     {
-      "name": "Taladphrom Boutique Hotel",
+      "name": "Yuu Hotel & Cafe",
       "category": "midrange",
-      "priceRange": "$50-80/night",
-      "area": "Old City",
-      "description": "Charming boutique-style hotel in the historic old city area with character and personalized service. Offers blend of comfort and cultural atmosphere."
+      "priceRange": "$74/night (approximately 2,460 THB)",
+      "area": "City Center",
+      "description": "Modern mid-range hotel with integrated cafe (4.5 TripAdvisor rating). Stylish rooms and contemporary amenities."
     },
     {
-      "name": "Amari Ubon",
+      "name": "Tohsang Khongjiam Resort",
       "category": "luxury",
-      "priceRange": "$100-180/night",
-      "area": "City Center",
-      "description": "Upscale hotel featuring modern amenities, multiple dining options, fitness facilities, and excellent service standards. Premium choice for comfort-focused travelers."
+      "priceRange": "$120-200/night (approximately 4,000-6,700 THB)",
+      "area": "Khong Jiam",
+      "description": "Riverside luxury resort at the confluence of Mun and Mekong rivers, 75 km from city. Traditional Isaan architecture with stunning river views. Perfect base for visiting Pha Taem and Sam Phan Bok."
     },
     {
-      "name": "Ban Ton Pao Resort",
-      "category": "luxury",
-      "priceRange": "$120-200/night",
-      "area": "Riverside",
-      "description": "Luxury resort with scenic Mekong River views, spa facilities, and fine dining. Offers peaceful retreat while maintaining proximity to city attractions."
+      "name": "V Hotel Ubon",
+      "category": "midrange",
+      "priceRange": "$50-80/night (approximately 1,670-2,670 THB)",
+      "area": "Near Airport",
+      "description": "Modern mid-range hotel convenient to airport. Stylish rooms, good breakfast, and helpful staff arranging national park tours."
+    },
+    {
+      "name": "Sunee Grand Hotel",
+      "category": "midrange",
+      "priceRange": "$60-100/night (approximately 2,000-3,350 THB)",
+      "area": "City Center",
+      "description": "Best city center hotel with modern rooms, rooftop pool, fitness center, and restaurant. Popular with business travelers and well-located for exploring temples."
     }
   ],
-  "gettingAround": "Ubon Ratchathani is relatively compact and easy to navigate. Tuk-tuks are the most common local transport for short distances within the city, with fares typically 30-50 THB ($1-1.50) for most trips. Songthaews (shared minibuses) operate on fixed routes and cost 10-20 THB ($0.30-0.60) per journey. For greater flexibility and day trips to attractions like Sam Phan Bok and Pha Taem, renting a car or hiring a Grab car is recommended—Grab operates in Ubon and offers more reliable pricing than negotiating with taxis. Motorbike rental is available at numerous shops and costs 150-250 THB ($5-8) per day, suitable for confident riders exploring the region. Bicycles can be rented from guesthouses for city exploration at 50-100 THB ($1.50-3) daily.",
+  "gettingAround": "Ubon Ratchathani is relatively compact for city exploration. Tuk-tuks are the most common local transport, with fares typically 30-50 THB ($1-1.50) for most trips within the city. Songthaews (shared minibuses) operate on fixed routes at 10-20 THB ($0.30-0.60) per journey. Grab operates in Ubon and offers fixed-price rides, typically 200-300 THB ($6-9) from airport to city center. For day trips to Sam Phan Bok, Pha Taem National Park, and Khong Jiam (75-80 km east), renting a car (600-800 THB/$18-24 per day) or hiring Grab transportation is recommended. Motorbike rental is available at numerous shops for 150-250 THB ($5-8) per day, suitable for confident riders. Bicycles can be rented from guesthouses for city exploration at 50-100 THB ($1.50-3) daily.",
   "bestTimeToVisit": "Ubon Ratchathani's best visiting period is November through February, when temperatures range from 15-30°C (59-86°F) and humidity is lowest. This is the cool and dry season when exploring natural attractions like Sam Phan Bok is most pleasant. The Candle Festival in July is Ubon's signature event, attracting thousands of visitors for massive wax sculpture parades and traditional celebrations, though July falls in the monsoon season with high humidity and occasional rain. If visiting specifically for Sam Phan Bok, timing is crucial—the site is only accessible from December through May when water levels are low enough to reveal the distinctive rock formations. March through May becomes increasingly hot and uncomfortable, with temperatures exceeding 35°C (95°F). Avoid September through October due to heavy monsoon rains that can make road travel difficult and reduce visibility at natural sites.",
   "budgetGuide": {
     "budget": {
-      "min": 20,
-      "max": 40,
-      "description": "Budget daily costs include basic guesthouses ($13-20/night), street food and night market meals ($2-5/meal), local transport via tuk-tuk and songthaew ($1-2), and free or low-cost attractions. National park entrance fees are 200 THB ($6) maximum, and many temples are free."
+      "min": 800,
+      "max": 1300,
+      "description": "Budget daily costs in THB include basic guesthouses (400-650 THB/night), street food and night market meals (60-150 THB/meal), local transport via tuk-tuk and songthaew (30-60 THB), and free or low-cost attractions. National park entrance fees are 200 THB maximum, and many temples are free. Realistic daily total: 800-1,300 THB ($24-40)."
     },
     "midrange": {
-      "min": 50,
-      "max": 100,
-      "description": "Mid-range daily costs cover 3-star hotels ($35-70/night), restaurant meals ($5-10 per meal), car rental for day trips ($40-60/day), and paid attractions including museums and national parks ($3-10 each)."
+      "min": 1650,
+      "max": 3350,
+      "description": "Mid-range daily costs in THB cover 3-star hotels (1,150-2,330 THB/night), restaurant meals (165-330 THB per meal), car rental for day trips (1,330-2,000 THB/day), and paid attractions including museums and national parks (100-330 THB each). Realistic daily total: 1,650-3,350 THB ($50-100)."
     },
     "luxury": {
-      "min": 150,
-      "max": 400,
-      "description": "Luxury daily costs include upscale hotels ($120-200/night), fine dining ($25-50+ per meal), private car hire with driver ($80-120/day), spa treatments ($30-60), and exclusive tours to natural attractions."
+      "min": 5000,
+      "max": 13350,
+      "description": "Luxury daily costs in THB include upscale hotels (4,000-6,700 THB/night), fine dining (830-1,670 THB+ per meal), private car hire with driver (2,660-4,000 THB/day), spa treatments (1,000-2,000 THB), and exclusive tours to natural attractions. Realistic daily total: 5,000-13,350 THB ($150-400)."
     }
   },
   "safetyTips": {
@@ -470,51 +444,19 @@
   "faq": [
     {
       "question": "When is the Candle Festival and how do I attend?",
-      "answer": "The Ubon Ratchathani Candle Festival is held annually in July, typically in the second week. The festival features giant wax sculptures parading through the city with traditional Mor lam music performances at Thung Si Muang Park. Entrance is free to watch from park areas, though booking accommodations in advance is strongly recommended due to high demand."
+      "answer": "The Ubon Ratchathani Candle Festival is held annually in July, typically in the second week. The festival features giant wax sculptures parading through the city with traditional Mor lam music performances at Wat Thung Si Muang (free admission to park viewing areas). Entrance to viewing areas is free, though booking accommodations in advance is strongly recommended due to high demand during festival week."
     },
     {
       "question": "Is Sam Phan Bok accessible year-round?",
-      "answer": "No, Sam Phan Bok is only accessible from December through May when water levels are low enough to reveal the rock formations and turquoise pools. Visiting during monsoon season (June-October) is not recommended as heavy rainfall makes the site inaccessible and dangerous. Plan your visit accordingly."
+      "answer": "No, Sam Phan Bok is only accessible from December through May when water levels are low enough to reveal the distinctive rock formations and turquoise pools. The site is located 75 km east in Khong Jiam District with entrance fee of 200 THB ($6). Visiting during monsoon season (June-October) is not recommended as heavy rainfall makes the site inaccessible and dangerous. Plan your visit accordingly."
     },
     {
       "question": "How do I get from Ubon Ratchathani Airport to the city center?",
-      "answer": "Ubon Ratchathani Airport is located about 20 kilometers south of the city center, approximately 25-30 minutes by car. Rental car companies operate at the airport (book ahead online). Alternatively, arrange hotel pickup in advance, or use Grab for a fixed-price ride (typically 200-300 THB/$6-9)."
+      "answer": "Ubon Ratchathani Airport is located approximately 20 kilometers south of the city center (25-30 minute drive). Car rental companies operate at the airport (book ahead online for better rates). Alternatively, arrange hotel pickup in advance, or use Grab for a fixed-price ride (typically 200-300 THB/$6-9). No public bus service operates from the airport directly to city center."
     },
     {
-      "question": "What is the best way to visit Pha Taem National Park?",
-      "answer": "Pha Taem National Park requires paying 200 THB ($6) entrance fee and is best visited for sunrise. The park is located about 45 kilometers from the city; hiring a private car or joining a tour is recommended over public transport. Arrive early (before 6 AM) for optimal sunrise viewing at the cliff viewpoint overlooking the Mekong River."
-    },
-    {
-      "question": "Can I visit Laos from Ubon Ratchathani?",
-      "answer": "Yes, there are border crossings nearby. The Chong Mek Border Crossing (about 110 km from Ubon) connects to Pakse, Laos. You'll need a valid passport; visa requirements depend on your nationality. Organized tours and local transport options are available, though traveling with your own rental car provides more flexibility."
-    },
-    {
-      "question": "What is the local cuisine specialty in Ubon Ratchathani?",
-      "answer": "Ubon is known for authentic Isaan cuisine, featuring som tam (spicy papaya salad), sticky rice (khao niaw), and grilled chicken (gai yang). Fermented sausages (sai oua) are a local specialty. The night markets offer excellent examples at budget prices ($1-3 per meal), and restaurants like SOMTUM JINDA provide quality versions."
-    },
-    {
-      "question": "Do I need to book hotels in advance?",
-      "answer": "Outside the July Candle Festival period, walk-in booking is usually possible for budget and mid-range hotels. However, booking 1-2 weeks in advance ensures better selection and potentially lower rates. During the Candle Festival, booking is absolutely essential as rooms fill weeks ahead."
-    },
-    {
-      "question": {
-        "en": "What is Pha Taem National Park known for?",
-        "nl": "Waar staat Pha Taem National Park om bekend?"
-      },
-      "answer": {
-        "en": "Prehistoric cave paintings over 3,000 years old depicting elephants, turtles, handprints, and humanoid figures. The park also features dramatic Sao Chaliang rock formations that look like alien-planet cracks in the earth, waterfalls including Soi Sawan and Sang Chan, and the most easterly point of Thailand with spectacular sunrises over the Mekong and Laos. Entry: 200 THB for foreigners.",
-        "nl": "Prehistorische grotschilderingen van meer dan 3.000 jaar oud met afbeeldingen van olifanten, schildpadden, handafdrukken en mensachtige figuren. Het park heeft ook dramatische Sao Chaliang rotsformaties die eruitzien als buitenaardse scheuren in de aarde, watervallen waaronder Soi Sawan en Sang Chan, en het meest oostelijke punt van Thailand met spectaculaire zonsopgangen over de Mekong en Laos. Entree: 200 THB voor buitenlanders."
-      }
-    },
-    {
-      "question": {
-        "en": "Where does the Mekong leave Thailand?",
-        "nl": "Waar verlaat de Mekong Thailand?"
-      },
-      "answer": {
-        "en": "At the Two-Color River View Point near Ubon Ratchathani, where the Mun River meets the Mekong. The rivers have visibly different colors — the brown Mekong and the sometimes blue Mun. This marks the end of the approximately 800 km Thai-Mekong border that passes through 7 provinces before the river continues to Laos, Cambodia, and eventually Vietnam. The viewpoint features beautiful temple grounds with golden statues and Naga sculptures.",
-        "nl": "Bij het Tweekleurige Rivier Uitzichtpunt nabij Ubon Ratchathani, waar de Mun rivier de Mekong ontmoet. De rivieren hebben zichtbaar verschillende kleuren — de bruine Mekong en de soms blauwe Mun. Dit markeert het einde van de ongeveer 800 km lange Thai-Mekong grens die door 7 provincies loopt voordat de rivier verder gaat naar Laos, Cambodja en uiteindelijk Vietnam. Het uitzichtpunt heeft prachtige tempelterreinen met gouden beelden en Naga-sculpturen."
-      }
+      "question": "What is the best time to visit Ubon Ratchathani?",
+      "answer": "The best visiting period is November through February when temperatures range from 15-30°C (59-86°F) with lowest humidity. This cool and dry season is ideal for exploring natural attractions like Sam Phan Bok and Pha Taem National Park. The Candle Festival in July attracts thousands of visitors but occurs during monsoon season with high humidity. For Sam Phan Bok specifically, visit December through May only when water levels reveal the rock formations. Avoid September through October due to heavy monsoon rains."
     }
   ],
   "practicalInfo": {
@@ -525,7 +467,7 @@
       "Feb"
     ],
     "nearestAirport": "Ubon Ratchathani Airport (UBP)",
-    "travelTimeFromAirport": "25-30 minutes by car to city center",
+    "travelTimeFromAirport": "25-30 minutes by car to city center (approximately 20 km)",
     "localTransport": [
       "Tuk-tuk",
       "Songthaew",
@@ -571,5 +513,80 @@
       "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Ubon Ratchathani.",
       "Candle Festival": "Visit Candle Festival during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
     }
-  }
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Wat Thung Si Muang",
+      "description": "Historic Buddhist temple in the city center, famous as the venue for the annual Candle Festival. Features impressive architecture and is central to Ubon's cultural and spiritual life.",
+      "location": "City Center, Thung Si Muang Park",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Candle Festival venue",
+        "Historic architecture",
+        "Central location"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Sam Phan Bok",
+      "description": "Geological formation along the Mekong River featuring hundreds of rocky depressions that fill with turquoise water during low season. Often called the 'Grand Canyon of Thailand'.",
+      "location": "Khong Jiam District, approximately 75 km east of city",
+      "entrance_fee": "200 THB (approximately $6)",
+      "highlights": [
+        "Turquoise rock pools",
+        "Scenic Mekong views",
+        "Accessible December-May only"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Pha Taem National Park",
+      "description": "National park featuring prehistoric cliff paintings (3,500+ years old), scenic viewpoints overlooking the Mekong River, and hiking trails through diverse landscape.",
+      "location": "Khong Jiam District, approximately 80 km east of city",
+      "entrance_fee": "200 THB (approximately $6)",
+      "highlights": [
+        "Ancient rock art",
+        "Mekong River views",
+        "Multiple hiking trails"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Khong Jiam",
+      "description": "Small village at the scenic confluence of the Mun and Mekong rivers. Popular base for visiting Sam Phan Bok and Pha Taem, with several riverside restaurants and resorts.",
+      "location": "75 km east of city center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "River confluence views",
+        "Sunset viewpoints",
+        "Nearby national parks"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Wat Nong Pa Phong",
+      "description": "Meditation temple and forest monastery known for its serene setting and Buddhist practice community. Welcomes visitors interested in meditation and monastic life.",
+      "location": "North of city center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Meditation atmosphere",
+        "Forest setting",
+        "Monastic experience"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Ubon Night Market",
+      "description": "Vibrant evening market offering authentic local street food, merchandise, and atmosphere. Essential experience for local cuisine and culture.",
+      "location": "City Center, near bus station",
+      "entrance_fee": "Free (pay for items purchased)",
+      "highlights": [
+        "Authentic street food",
+        "Local culture",
+        "Evening atmosphere"
+      ]
+    }
+  ],
+  "factchecked_at": "2026-03-08T18:37:12.498Z"
 }

@@ -11,7 +11,7 @@
     "en": "Northern Thailand's cultural hub, known for its old city, night markets, temples, and nearby mountains.",
     "nl": "Het culturele hart van Noord-Thailand, bekend om de oude stad, markten, tempels en bergen."
   },
-  "population": 127000,
+  "population": 1100000,
   "highlights": [
     "Doi Suthep",
     "Old City",
@@ -164,114 +164,234 @@
   "top_attractions": [
     {
       "rank": 1,
-      "name": "Wat Umong",
-      "description": "I discovered this serene temple while seeking a quiet spot to meditate. The ancient tunnels and lush garden felt like a hidden sanctuary, where I met a monk who shared insights on mindfulness.",
-      "location": "Located south of the Old City, take a songthaew or rent a bicycle. Look for the large stupa and follow the signs to the tunnels.",
+      "name": "Doi Suthep Temple",
+      "description": "Thailand's most iconic temple perched at 1,080 meters elevation with a stunning golden chedi offering panoramic city views and spiritual significance.",
+      "location": "Northwest of Old City, accessible by songthaew or motorcycle",
+      "entrance_fee": "THB 50 (USD 1)",
       "highlights": [
-        "Bring a small donation for the monks, and remember to dress modestly."
+        "Golden chedi",
+        "Panoramic city views",
+        "Monk interactions available"
       ]
     },
     {
       "rank": 2,
-      "name": "Baan Kang Wat",
-      "description": "This artsy community is where I found a cozy coffee shop and met local artists. I learned to make my own pottery, a fun and messy experience that connected me with the local creative scene.",
-      "location": "Head to the outskirts of the city, just past the Nimmanhaemin area. Look for colorful murals on the walls.",
+      "name": "Wat Chedi Luang",
+      "description": "Historic temple in the Old City featuring a massive ancient chedi and monk chat opportunities where visitors can have conversations with Buddhist monks.",
+      "location": "Old City center",
+      "entrance_fee": "THB 40 (USD 1)",
       "highlights": [
-        "Don't hesitate to strike up a conversation; locals are eager to share their craft."
+        "Ancient chedi",
+        "Monk chat program",
+        "Free to explore grounds"
       ]
     },
     {
       "rank": 3,
-      "name": "Thai cooking class",
-      "description": "I took a cooking class with a local family, who welcomed me into their home. We made pad thai from scratch, and I learned the importance of balancing flavors.",
-      "location": "City area",
+      "name": "Wat Phra Singh",
+      "description": "Sacred temple renowned for its precious Buddha image and excellent examples of traditional Lanna architecture.",
+      "location": "Old City",
+      "entrance_fee": "THB 20 (USD 0.50)",
       "highlights": [
-        "Always greet your host with 'Sawasdee' and express gratitude for the meal."
+        "Sacred Buddha image",
+        "Lanna architecture",
+        "Peaceful atmosphere"
       ]
     },
     {
       "rank": 4,
-      "name": "Volunteer at an elephant sanctuary",
-      "description": "Volunteering at an ethical sanctuary was life-changing. I helped feed and bathe the elephants, forming a bond with these gentle giants while learning about conservation efforts.",
-      "location": "City area",
+      "name": "Sunday Night Market (Walking Street)",
+      "description": "Chiang Mai's most famous night market featuring local handicrafts, textiles, souvenirs, and authentic street food with free entry.",
+      "location": "Nimmanhaemin Road, Old City",
+      "entrance_fee": "Free",
       "highlights": [
-        "Respect the animals' space and listen to the guides; they have invaluable knowledge."
+        "Local handicrafts",
+        "Street food vendors",
+        "Weekly cultural experience"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Doi Inthanon National Park",
+      "description": "Thailand's highest peak featuring twin pagodas, scenic waterfalls, and hiking trails with diverse wildlife and flora.",
+      "location": "South of Chiang Mai, 50km away",
+      "entrance_fee": "THB 300 (USD 9)",
+      "highlights": [
+        "Highest peak in Thailand",
+        "Twin pagodas",
+        "Waterfall trails"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Elephant Nature Park",
+      "description": "Ethical wildlife sanctuary focused on rescued elephant rehabilitation and conservation education rather than animal exploitation.",
+      "location": "Outside city center, 1 hour drive",
+      "entrance_fee": "THB 2,500 (USD 74)",
+      "highlights": [
+        "Rescued elephants",
+        "Conservation education",
+        "Meals and guides included"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Bua Thong Sticky Waterfalls",
+      "description": "Unique natural phenomenon where visitors can climb naturally adhesive limestone waterfall formations without slipping.",
+      "location": "Northern Chiang Mai, 90km away",
+      "entrance_fee": "THB 200 (USD 6)",
+      "highlights": [
+        "Unique sticky limestone",
+        "Climbable waterfalls",
+        "Natural phenomenon"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Saturday Night Market",
+      "description": "More local and less touristy alternative to Sunday Night Market, featuring silver handicrafts and traditional Lanna crafts.",
+      "location": "Old City periphery",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Silver handicrafts",
+        "Local artisans",
+        "Authentic atmosphere"
       ]
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Khao Soi",
-      "description": "This local eatery serves the best khao soi I've ever had. The rich, creamy broth paired with crispy noodles was a revelation, and the owner shared her family's history with the dish.",
-      "cuisine_type": "Thai",
-      "price_range": "Around 50 baht per bowl.",
+      "name": "Khao-so-i",
+      "description": "Legendary local eatery specializing in khao soi, Chiang Mai's iconic curry noodle dish with rich broth and crispy noodles, offering authentic recipes passed through generations.",
+      "cuisine_type": "Thai - Street Food",
+      "price_range": "THB 40-50 per bowl (USD 1-1.50)",
       "highlights": [
         "Local favorite",
-        "Authentic taste"
+        "Authentic recipe",
+        "Affordable"
       ]
     },
     {
       "rank": 2,
-      "name": "Sai Oua (Northern Thai sausage)",
-      "description": "I was introduced to this spicy sausage during a food tour. The burst of flavors from lemongrass and herbs made it unforgettable.",
+      "name": "Bodhi Terrace",
+      "description": "Highly-rated Thai restaurant offering authentic Northern Thai cuisine with traditional preparation methods and quality ingredients.",
       "cuisine_type": "Thai",
-      "price_range": "About 80 baht for a serving.",
+      "price_range": "THB 150-300 per dish (USD 4-9)",
       "highlights": [
-        "Local favorite",
-        "Authentic taste"
+        "TripAdvisor rating 4.9",
+        "Authentic Northern cuisine",
+        "Atmospheric setting"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Baan Mae Café & Restaurant",
+      "description": "Well-regarded establishment serving traditional Thai cuisine with homemade quality and local charm in an intimate setting.",
+      "cuisine_type": "Thai",
+      "price_range": "THB 100-250 per dish (USD 3-7)",
+      "highlights": [
+        "TripAdvisor rating 4.9",
+        "Homemade quality",
+        "Local favorite"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Lemongrass Thai Cuisine",
+      "description": "Casual Thai restaurant serving classic dishes with fresh lemongrass and authentic flavors in a relaxed atmosphere.",
+      "cuisine_type": "Thai",
+      "price_range": "THB 80-200 per dish (USD 2-6)",
+      "highlights": [
+        "TripAdvisor rating 4.3",
+        "Fresh ingredients",
+        "Casual ambiance"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Baan Buri Café & Restaurant",
+      "description": "Health-conscious restaurant offering nutritious Thai cuisine with fresh ingredients, ideal for travelers seeking lighter meals.",
+      "cuisine_type": "Healthy - Asian",
+      "price_range": "THB 120-280 per dish (USD 3.50-8)",
+      "highlights": [
+        "TripAdvisor rating 4.8",
+        "Healthy options",
+        "Fresh ingredients"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Rasik Local Kitchen",
+      "description": "Celebrated establishment focusing on authentic Northern Thai cuisine with locally-sourced ingredients, representing modern Thai cooking while honoring traditional methods.",
+      "cuisine_type": "Thai",
+      "price_range": "THB 180-350 per dish (USD 5-10)",
+      "highlights": [
+        "Locally-sourced ingredients",
+        "Modern-traditional fusion",
+        "Celebrated establishment"
       ]
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "Boutique Hotel Chiang Mai",
-      "description": "Comfortable accommodation at this well-located boutique hotel in Chiang Mai.",
-      "price_range": "$30-150",
+      "name": "AMANOR Hotel Chiang Mai",
+      "description": "Highly-rated boutique hotel offering comfortable accommodation with excellent service and convenient location for exploring the city.",
+      "price_range": "$106/night",
+      "category": "midrange",
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "TripAdvisor 4.9 rating",
+        "Central location",
+        "Modern amenities"
       ]
     },
     {
       "rank": 2,
-      "name": "Resort Chiang Mai",
-      "description": "Comfortable accommodation at this well-located resort in Chiang Mai.",
-      "price_range": "$30-150",
+      "name": "Cross Chiang Mai Riverside Resort",
+      "description": "Riverside resort combining scenic location with comfortable accommodations and peaceful garden setting ideal for relaxation.",
+      "price_range": "$135/night",
+      "category": "midrange",
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "TripAdvisor 4.9 rating",
+        "Riverside views",
+        "Resort facilities"
       ]
     },
     {
       "rank": 3,
-      "name": "Budget Hotel Chiang Mai",
-      "description": "Comfortable accommodation at this well-located budget hotel in Chiang Mai.",
-      "price_range": "$30-150",
+      "name": "Amata Lanna Village",
+      "description": "Budget-friendly resort featuring traditional Lanna-style accommodation in a charming village setting with authentic local atmosphere.",
+      "price_range": "$67/night",
+      "category": "budget",
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "TripAdvisor 4.9 rating",
+        "Traditional architecture",
+        "Affordable rates"
       ]
     },
     {
       "rank": 4,
-      "name": "Luxury Hotel Chiang Mai",
-      "description": "Comfortable accommodation at this well-located luxury hotel in Chiang Mai.",
-      "price_range": "$30-150",
+      "name": "Anantara Chiang Mai Resort",
+      "description": "Luxury 5-star resort offering premium accommodations, spa services, and fine dining with sophisticated design blending contemporary luxury and local culture.",
+      "price_range": "$390/night",
+      "category": "luxury",
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "TripAdvisor 4.7 rating",
+        "Spa services",
+        "Fine dining"
       ]
     },
     {
       "rank": 5,
-      "name": "Guesthouse Chiang Mai",
-      "description": "Comfortable accommodation at this well-located guesthouse in Chiang Mai.",
-      "price_range": "$30-150",
+      "name": "Anantara Chiang Mai Serviced Suites",
+      "description": "Upscale serviced suites offering spacious accommodations with hotel services and modern amenities for extended stays or premium comfort.",
+      "price_range": "$809/night",
+      "category": "luxury",
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "TripAdvisor 4.8 rating",
+        "Spacious suites",
+        "Full-service amenities"
       ]
     }
   ],
@@ -294,147 +414,100 @@
   "enhanced_at": "2025-05-26T19:52:34.457Z",
   "ai_generated": true,
   "overview": "Chiang Mai is Northern Thailand's cultural heart, a city where ancient traditions seamlessly blend with modern travel experiences. With a population of around 127,000, this charming destination offers an intimate escape compared to Bangkok, centered around its historic Old City with preserved ancient walls and over 300 temples. From the golden Doi Suthep Temple perched on a mountain overlooking the city to the vibrant night markets that pulse with local energy, Chiang Mai provides travelers with authentic encounters with Lanna culture, exquisite craftsmanship, and some of Southeast Asia's most welcoming communities. The city's proximity to mountains, waterfalls, and elephant sanctuaries makes it an ideal base for adventure seekers, while its thriving art scene, meditation retreats, and cooking classes attract those seeking deeper cultural immersion.",
-  "thingsToDo": "Chiang Mai's top attractions blend spirituality, history, and natural beauty. The iconic Doi Suthep Temple (THB 50/USD 1 entrance fee) sits majestically at 1,080 meters elevation and rewards visitors with panoramic city views and its stunning golden chedi. The Old City, free to explore, features ancient walls, historic temples, and traditional markets that transport visitors back centuries. For sacred experiences, visit Wat Chedi Luang (THB 40/USD 1) with its massive ancient chedi and monk chat opportunities, or Wat Phra Singh (THB 20/USD 1) renowned for its sacred Buddha image and Lanna architecture. The Sunday Night Market and Saturday Night Market offer free entry to massive walking streets filled with local handicrafts, textiles, and street food. For nature lovers, Doi Inthanon National Park (THB 300/USD 9) features Thailand's highest peak with twin pagodas and scenic waterfalls, while the unique Bua Thong Sticky Waterfalls (THB 200/USD 6) let visitors climb naturally adhesive limestone formations. Ethical wildlife experiences include the Elephant Nature Park (THB 2,500/USD 74), a renowned sanctuary that rescued and rehabilitates elephants with a focus on conservation.",
+  "thingsToDo": "Chiang Mai's top attractions blend spirituality, history, and natural beauty. The iconic Doi Suthep Temple (THB 50/USD 1 entrance fee) sits majestically at 1,080 meters elevation and rewards visitors with panoramic city views and its stunning golden chedi. The Old City, free to explore, features ancient walls, historic temples, and traditional markets that transport visitors back centuries. For sacred experiences, visit Wat Chedi Luang (THB 40/USD 1) with its massive ancient chedi and monk chat opportunities, or Wat Phra Singh (THB 20/USD 0.50) renowned for its sacred Buddha image and Lanna architecture. The Sunday Night Market and Saturday Night Market offer free entry to massive walking streets filled with local handicrafts, textiles, and street food. For nature lovers, Doi Inthanon National Park (THB 300/USD 9) features Thailand's highest peak with twin pagodas and scenic waterfalls, while the unique Bua Thong Sticky Waterfalls (THB 200/USD 6) let visitors climb naturally adhesive limestone formations. Ethical wildlife experiences include the Elephant Nature Park (THB 2,500/USD 74), a renowned sanctuary that rescues and rehabilitates elephants with a focus on conservation education.",
   "whereToStay": "Chiang Mai offers excellent accommodation across all budgets, with the Old City and Nimman areas being the most popular neighborhoods for tourists. Budget travelers can find guesthouses for USD 15-25 per night in the Old City, offering authentic experiences while being steps away from temples and markets. Mid-range options in Nimman and around the Old City provide comfortable 3-star hotels with amenities like pools and restaurants for USD 40-80 per night, often featuring traditional Lanna design elements. Luxury resorts cluster around the Doi Suthep foothills and Riverside areas, offering 5-star experiences with spa facilities, fine dining, and mountain views for USD 150-300+ per night. The Nimman area, while more developed, caters to younger travelers and digital nomads with trendy cafes and modern accommodations. Riverside locations offer romantic settings along the Ping River, though prices tend to be higher. For those seeking authentic cultural immersion, traditional wooden houses converted into boutique hotels provide unique stays bridging budget and luxury categories.",
   "whereToEat": [
+    {
+      "name": "Khao-so-i",
+      "cuisine": "Thai - Street Food",
+      "priceRange": "$",
+      "description": "Legendary local establishment serving Chiang Mai's iconic khao soi noodle dish with authentic recipe and affordable pricing, ideal for budget travelers."
+    },
+    {
+      "name": "Bodhi Terrace",
+      "cuisine": "Thai",
+      "priceRange": "$$",
+      "description": "Highly-rated authentic Northern Thai restaurant with 4.9 TripAdvisor rating, offering traditional dishes in an atmospheric setting."
+    },
+    {
+      "name": "Baan Mae Café & Restaurant",
+      "cuisine": "Thai",
+      "priceRange": "$$",
+      "description": "Well-regarded local favorite with 4.9 TripAdvisor rating serving homemade-quality Thai cuisine in intimate, welcoming atmosphere."
+    },
+    {
+      "name": "Lemongrass Thai Cuisine",
+      "cuisine": "Thai",
+      "priceRange": "$$",
+      "description": "Casual Thai restaurant with 4.3 TripAdvisor rating offering classic dishes with fresh lemongrass and authentic flavors."
+    },
+    {
+      "name": "Baan Buri Café & Restaurant",
+      "cuisine": "Healthy - Asian",
+      "priceRange": "$$",
+      "description": "Health-conscious establishment with 4.8 TripAdvisor rating specializing in nutritious Thai cuisine with fresh, locally-sourced ingredients."
+    },
     {
       "name": "Rasik Local Kitchen",
       "cuisine": "Thai",
       "priceRange": "$$",
-      "description": "A celebrated establishment focusing on authentic Northern Thai cuisine with locally-sourced ingredients, representing modern Thai cooking while honoring traditional methods."
-    },
-    {
-      "name": "Khao Soi Mae Sai",
-      "cuisine": "Thai - Street Food",
-      "priceRange": "$",
-      "description": "Legendary for its khao soi, Chiang Mai's most iconic noodle dish with rich curry broth, offering authentic local dining at minimal cost."
-    },
-    {
-      "name": "Baan Landai",
-      "cuisine": "Thai",
-      "priceRange": "$$",
-      "description": "Located on Phra Pok Klao Road, known for traditional Northern Thai specialties in a charming local setting."
-    },
-    {
-      "name": "Roti Pa Day",
-      "cuisine": "Thai - Street Food",
-      "priceRange": "$",
-      "description": "Famous roti stall serving sweet and savory versions of this popular Thai street treat, perfect for breakfast or snacks."
-    },
-    {
-      "name": "Huen Muan Jai",
-      "cuisine": "Thai",
-      "priceRange": "$$",
-      "description": "A respected restaurant offering well-prepared traditional Thai dishes in a welcoming atmosphere popular with both locals and visitors."
-    },
-    {
-      "name": "Belén by Paulo Airaudo",
-      "cuisine": "International",
-      "priceRange": "$$$",
-      "description": "An upscale dining establishment representing fine international cuisine, offering a sophisticated counterpoint to Chiang Mai's street food scene."
-    },
-    {
-      "name": "Guay Jub Chang Moi Tat Mai",
-      "cuisine": "Thai",
-      "priceRange": "$",
-      "description": "Specializing in guay jub, a traditional sweet pork and rice-covered noodle soup beloved by locals for breakfast and lunch."
-    },
-    {
-      "name": "Nam",
-      "cuisine": "Thai",
-      "priceRange": "$$",
-      "description": "A well-regarded Thai restaurant offering a balanced menu of regional specialties and popular Thai favorites in a relaxed setting."
+      "description": "Celebrated modern Thai restaurant honoring traditional methods while using locally-sourced ingredients for authentic Northern Thai specialties."
     }
   ],
   "topHotels": [
     {
-      "name": "Smile Lanna",
+      "name": "AMANOR Hotel Chiang Mai",
       "category": "midrange",
-      "priceRange": "$50-80/night",
-      "area": "Old City",
-      "description": "A highly-regarded property in the heart of the Old City featuring traditional Lanna architecture with modern amenities, pool facilities, and excellent location for temple exploration."
+      "priceRange": "$106/night",
+      "area": "Central Chiang Mai",
+      "description": "Modern boutique hotel with 4.9 TripAdvisor rating offering comfortable rooms, excellent service, and convenient location for city exploration."
     },
     {
-      "name": "Meliá Chiang Mai",
-      "category": "luxury",
-      "priceRange": "$150-250/night",
+      "name": "Cross Chiang Mai Riverside Resort",
+      "category": "midrange",
+      "priceRange": "$135/night",
       "area": "Riverside",
-      "description": "A 5-star resort offering spa services, multiple restaurants, and sophisticated design blending contemporary luxury with local cultural elements along the Ping River."
+      "description": "Scenic riverside resort with 4.9 TripAdvisor rating featuring peaceful garden setting, quality accommodations, and relaxing atmosphere."
     },
     {
-      "name": "Chiang Mai Gate House",
+      "name": "Amata Lanna Village",
       "category": "budget",
-      "priceRange": "$15-30/night",
-      "area": "Old City",
-      "description": "A budget-friendly guesthouse near the Old City gates, offering clean rooms, friendly service, and convenient access to temples and markets."
+      "priceRange": "$67/night",
+      "area": "Outer City",
+      "description": "Affordable resort with 4.9 TripAdvisor rating showcasing traditional Lanna-style buildings, cultural authenticity, and charming village ambiance."
     },
     {
-      "name": "Ping Nakara",
+      "name": "Anantara Chiang Mai Resort",
       "category": "luxury",
-      "priceRange": "$180-280/night",
-      "area": "Riverside",
-      "description": "An ultra-boutique luxury hotel set in colonial-style buildings with private gardens, personal service, and curated cultural experiences along the river."
+      "priceRange": "$390/night",
+      "area": "Premium Location",
+      "description": "5-star luxury resort with 4.7 TripAdvisor rating featuring spa facilities, multiple restaurants, sophisticated design, and cultural integration."
     },
     {
-      "name": "Akyra Manor",
-      "category": "midrange",
-      "priceRange": "$60-90/night",
-      "area": "Nimman",
-      "description": "A stylish property in the trendy Nimman area featuring contemporary design, excellent rooftop bar, and close proximity to shops, cafes, and galleries."
-    },
-    {
-      "name": "Dusit D2",
+      "name": "Anantara Chiang Mai Serviced Suites",
       "category": "luxury",
-      "priceRange": "$170-260/night",
-      "area": "Old City",
-      "description": "A contemporary luxury hotel in the Old City with minimalist design, wellness facilities, and direct access to cultural attractions and night markets."
-    },
-    {
-      "name": "Baan Kang Wat",
-      "category": "budget",
-      "priceRange": "$20-35/night",
-      "area": "Old City",
-      "description": "An atmospheric budget guesthouse in a traditional teak house offering character and charm with basic amenities, ideal for cultural travelers."
-    },
-    {
-      "name": "Baan Hom",
-      "category": "midrange",
-      "priceRange": "$45-75/night",
-      "area": "Old City",
-      "description": "A charming mid-range boutique hotel featuring Lanna design, personalized service, and a prime location within walking distance of major temples."
-    },
-    {
-      "name": "The Rati Lanna",
-      "category": "midrange",
-      "priceRange": "$55-85/night",
-      "area": "Riverside",
-      "description": "A riverside boutique hotel showcasing traditional Lanna architecture with modern comforts, spa services, and scenic evening views of the Ping River."
-    },
-    {
-      "name": "JW Marriott Chiang Mai",
-      "category": "luxury",
-      "priceRange": "$160-240/night",
-      "area": "Doi Suthep Area",
-      "description": "A premium resort set on the slopes near Doi Suthep with extensive facilities including spa, fine dining restaurants, and panoramic city views."
+      "priceRange": "$809/night",
+      "area": "Premium Location",
+      "description": "Upscale serviced suites with 4.8 TripAdvisor rating offering spacious accommodations, full hotel services, and premium amenities for discerning travelers."
     }
   ],
-  "gettingAround": "Chiang Mai's local transport system is affordable and convenient for visitors. Tuk-tuks are the most iconic transport, ideal for short distances within the city—expect to pay THB 40-80 (USD 1-2) for typical in-city journeys. Songthaews (shared red minibuses) follow set routes and cost THB 20-40 per ride, making them perfect for budget-conscious travelers exploring neighborhoods like Nimman or visiting nearby temples. For longer distances or full-day excursions, renting a motorbike (THB 150-250/USD 4-7 per day) offers independence, though drivers should have valid licenses and exercise caution on roads. Grab (Southeast Asia's ride-sharing app) operates in Chiang Mai with competitive rates comparable to or cheaper than tuk-tuks. Most travelers rent bicycles (THB 50-100/USD 1-3 daily) to explore the Old City's compact streets and temple complexes. Walking remains the best way to experience the Old City's intricate alleys and market areas, particularly early mornings before heat peaks.",
+  "gettingAround": "Chiang Mai's local transport system is affordable and convenient for visitors. Tuk-tuks are the most iconic transport, ideal for short distances within the city—expect to pay THB 40-80 (USD 1-2) for typical in-city journeys. Songthaews (shared red minibuses) follow set routes and cost THB 20-40 per ride, making them perfect for budget-conscious travelers exploring neighborhoods or visiting nearby temples. For longer distances or full-day excursions, renting a motorbike (THB 150-250/USD 4-7 per day) offers independence, though drivers must have valid licenses and exercise caution on roads. Grab (Southeast Asia's ride-sharing app) operates in Chiang Mai with competitive rates comparable to or cheaper than tuk-tuks. Most travelers rent bicycles (THB 50-100/USD 1-3 daily) to explore the Old City's compact streets and temple complexes. Walking remains the best way to experience the Old City's intricate alleys and market areas, particularly early mornings before heat peaks.",
   "bestTimeToVisit": "Chiang Mai's best season runs from November through February, when temperatures are pleasantly cool (15-25°C/59-77°F) and humidity drops significantly, making outdoor exploration and temple visits comfortable. December and January represent peak season with clear skies perfect for activities like visiting Doi Suthep and trekking in surrounding mountains. The hot season (March-May) brings temperatures exceeding 35°C (95°F), though fewer tourists and lower prices attract some travelers. The monsoon season (June-October) brings heavy rainfall, particularly September and October, making roads potentially challenging and outdoor activities limited, but lush green landscapes and fewer crowds appeal to resilient travelers. March through May should be avoided for physical activities due to intense heat and air quality issues. The shoulder months of late October and early November offer good value with improving weather, while late February marks the transition toward rising heat but still maintains favorable conditions for sightseeing.",
   "budgetGuide": {
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget travelers can thrive in Chiang Mai with guesthouse accommodation (USD 15-20), street food meals (USD 2-4), local transport (USD 1-2 daily), and free or low-cost attractions like temple exploration and night market visits."
+      "description": "Budget travelers can thrive in Chiang Mai with guesthouse accommodation (USD 15-25/night), street food meals (USD 2-4), local transport via songthaew and tuk-tuk (USD 1-2 daily), and free or low-cost attractions like temple exploration, Old City walking, and night markets."
     },
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Mid-range travelers enjoy 3-star hotels (USD 40-70), restaurant meals (USD 5-12), paid attractions like Doi Inthanon (USD 9) and Elephant Nature Park (USD 74), private motorbike rentals, and occasional spa treatments."
+      "description": "Mid-range travelers enjoy 3-star hotels (USD 65-135/night), restaurant meals (USD 5-12), paid attractions like Doi Inthanon (USD 9), Elephant Nature Park (USD 74), private motorbike rentals (USD 4-7/day), and occasional spa treatments."
     },
     "luxury": {
       "min": 150,
       "max": 400,
-      "description": "Luxury travelers stay at 5-star resorts (USD 160-300), dine at fine restaurants (USD 20-50+ per meal), book private guides and elephant experiences, enjoy spa treatments and wellness retreats, plus all activities and transportation without budget constraints."
+      "description": "Luxury travelers stay at 5-star resorts (USD 390-809/night), dine at fine restaurants (USD 20-50+ per meal), book private guides and elephant experiences, enjoy premium spa treatments and wellness retreats, plus all activities and transportation without budget constraints."
     }
   },
   "safetyTips": "Chiang Mai is generally very safe for tourists with low violent crime rates. Standard precautions apply: avoid displaying expensive jewelry or cameras, be cautious in night entertainment districts late at night, and use registered tuk-tuks or Grab for evening transport. Traffic safety is a legitimate concern—motorbike accidents are common, so wear helmets, drive defensively, and avoid riding under the influence. Temple etiquette is important; dress respectfully with covered shoulders and knees, remove shoes when required, and never touch monks or their belongings. The Old City remains safe for night market visits, though standard street awareness applies. Petty theft from unattended belongings in crowded markets or tourist areas occasionally occurs, so keep valuables secure. Be cautious with street food hygiene from unfamiliar vendors, and drink bottled or filtered water. During air quality issues (March-April), respiratory-sensitive individuals should consider N95 masks or adjust activities. Overall, the local Thai culture emphasizes non-confrontation and hospitality, making Chiang Mai one of Thailand's safest tourist destinations when visitors practice reasonable awareness.",
@@ -445,35 +518,23 @@
     },
     {
       "question": "What is the best night market to visit?",
-      "answer": "The Sunday Night Market (Walking Street) is Chiang Mai's most famous, featuring local handicrafts, textiles, and street food. It's completely free to enter and explore. The Saturday Night Market offers a more local, less touristy experience with focus on silver handicrafts and traditional crafts."
+      "answer": "The Sunday Night Market (Walking Street) is Chiang Mai's most famous, featuring local handicrafts, textiles, and street food with completely free entry. The Saturday Night Market offers a more local, less touristy experience with focus on silver handicrafts and traditional crafts, also free to enter."
     },
     {
       "question": "How much does the Elephant Nature Park cost?",
       "answer": "The entrance fee is THB 2,500 (approximately USD 74). This ethical sanctuary focuses on elephant rescue and rehabilitation rather than riding, including meals, guides, and educational experiences about conservation."
     },
     {
-      "question": "Is Chiang Mai safe for solo travelers?",
-      "answer": "Yes, Chiang Mai is very safe for solo travelers, particularly tourists. The city has low violent crime rates, and the local culture emphasizes non-confrontation and hospitality. Standard precautions like avoiding late-night entertainment districts alone and securing valuables apply."
-    },
-    {
-      "question": "How long should I spend in Chiang Mai?",
-      "answer": "Most travelers spend 3-5 days in Chiang Mai to experience temples, markets, and nearby attractions like Doi Suthep and Doi Inthanon. Those interested in deeper activities like cooking classes, meditation retreats, or extended trekking often stay 1-2 weeks."
-    },
-    {
-      "question": "How do I get from Chiang Mai Airport to the city?",
-      "answer": "Chiang Mai International Airport is about 4 kilometers from the city center. Options include taxis (approximately THB 200-300/USD 6-9), Grab app rides, airport buses, or hotel transfers. The journey typically takes 10-20 minutes depending on traffic."
-    },
-    {
-      "question": "What are typical meal costs in Chiang Mai?",
-      "answer": "Street food and local markets offer meals for THB 30-80 (USD 1-2). Mid-range restaurants charge THB 100-250 (USD 3-7) per meal. Fine dining establishments range from THB 400-1,000+ (USD 12-30+) per person."
+      "question": "How much does local transport cost?",
+      "answer": "Tuk-tuks cost THB 40-80 (USD 1-2) for short city trips. Songthaews (shared minibuses) cost THB 20-40 per ride. Motorbike rentals are THB 150-250 (USD 4-7) per day. Bicycles rent for THB 50-100 (USD 1-3) daily."
     }
   ],
   "practicalInfo": {
     "bestMonths": [
-      "Nov",
-      "Dec",
-      "Jan",
-      "Feb"
+      "November",
+      "December",
+      "January",
+      "February"
     ],
     "nearestAirport": "Chiang Mai International Airport (CNX)",
     "travelTimeFromAirport": "10-20 minutes by car to city center",
@@ -482,8 +543,10 @@
       "Songthaew",
       "Grab",
       "Motorbike rental",
-      "Bicycle rental"
+      "Bicycle rental",
+      "Walking"
     ]
   },
-  "enrichedAt": "2026-02-22T12:24:20.878Z"
+  "enrichedAt": "2026-02-22T12:24:20.878Z",
+  "factchecked_at": "2026-03-08T18:20:17.807Z"
 }

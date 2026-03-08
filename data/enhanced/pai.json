@@ -115,96 +115,147 @@
   ],
   "top_restaurants": [
     {
+      "rank": 1,
+      "name": "Two Sisters Restaurant",
+      "description": "Highly-rated Thai restaurant known for authentic Asian cuisine prepared fresh daily with quality ingredients.",
+      "cuisine_type": "Thai, Asian",
+      "price_range": "80-200 THB ($2.50-6.50)",
+      "highlights": [
+        "Authentic Thai",
+        "Fresh ingredients",
+        "4.8 TripAdvisor rating"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Charlie and Leks",
+      "description": "Cozy spot serving outstanding northern Thai dishes including sai oua sausage, khao soi, and larb with locally-sourced ingredients.",
+      "cuisine_type": "Thai, Northern Thai",
+      "price_range": "70-180 THB ($2-5.50)",
+      "highlights": [
+        "Northern Thai specialty",
+        "Local farm ingredients",
+        "4.6 TripAdvisor rating"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Om Garden Cafe",
+      "description": "Riverside organic cafe with smoothie bowls, vegan curries, and freshly baked sourdough in peaceful garden setting with river views.",
+      "cuisine_type": "International, Asian, Vegetarian",
+      "price_range": "120-280 THB ($3.50-8.50)",
+      "highlights": [
+        "Organic cafe",
+        "Vegan options",
+        "River views",
+        "4.7 TripAdvisor rating"
+      ]
+    },
+    {
+      "rank": 4,
       "name": "Na's Kitchen",
-      "cuisine": "Thai",
-      "price_range": "$",
-      "description": {
-        "en": "Beloved local restaurant on Rungsiyanon Road famous for its perfectly wok-charred pad thai and green curry. Run by Na and her family for over a decade, always packed with both locals and travelers.",
-        "nl": "Geliefd lokaal restaurant op Rungsiyanon Road, beroemd om zijn perfect gebakken pad thai en groene curry. Al meer dan tien jaar gerund door Na en haar familie, altijd vol met zowel locals als reizigers."
-      }
+      "description": "Beloved local restaurant famous for perfectly wok-charred pad thai and green curry, run by Na and family for over a decade.",
+      "cuisine_type": "Thai, Healthy",
+      "price_range": "60-150 THB ($1.80-4.50)",
+      "highlights": [
+        "Pad Thai specialty",
+        "Green curry",
+        "Local favorite",
+        "4.5 TripAdvisor rating"
+      ]
     },
     {
-      "name": "Charlie & Leks",
-      "cuisine": "Northern Thai",
-      "price_range": "$",
-      "description": {
-        "en": "Cozy spot serving outstanding northern Thai dishes including sai oua sausage, khao soi, and larb. The owner Charlie is a passionate cook who sources ingredients from local farms.",
-        "nl": "Gezellige plek met uitstekende Noord-Thaise gerechten waaronder sai oua worst, khao soi en larb. Eigenaar Charlie is een gepassioneerde kok die ingredienten van lokale boerderijen haalt."
-      }
+      "rank": 5,
+      "name": "Witching Well Restaurant and Wine Bar",
+      "description": "Atmospheric restaurant on Chaisongkhram Road featuring wood-fired pizza, Thai fusion dishes, and creative cocktails on lantern-lit garden terrace.",
+      "cuisine_type": "International, Thai Fusion",
+      "price_range": "150-350 THB ($4.50-10.50)",
+      "highlights": [
+        "Wood-fired pizza",
+        "Thai fusion",
+        "Cocktails",
+        "4.5 TripAdvisor rating"
+      ]
     },
     {
-      "name": "The Om Garden Cafe",
-      "cuisine": "Vegetarian/Vegan",
-      "price_range": "$$",
-      "description": {
-        "en": "Riverside organic cafe with excellent smoothie bowls, vegan curries, and freshly baked sourdough bread. A peaceful garden setting with hammocks overlooking the Pai River.",
-        "nl": "Biologisch cafe aan de rivier met uitstekende smoothie bowls, veganistische curry's en versgebakken zuurdesembrood. Een rustige tuinomgeving met hangmatten met uitzicht op de Pai-rivier."
-      }
-    },
-    {
-      "name": "Witching Well",
-      "cuisine": "International/Thai Fusion",
-      "price_range": "$$",
-      "description": {
-        "en": "Atmospheric restaurant and cocktail bar on Chaisongkhram Road with wood-fired pizza, Thai fusion dishes, and creative cocktails on a lantern-lit garden terrace.",
-        "nl": "Sfeervolle restaurant en cocktailbar op Chaisongkhram Road met pizza uit de houtoven, Thaise fusiongerechten en creatieve cocktails op een met lantaarns verlicht tuinterras."
-      }
-    },
-    {
+      "rank": 6,
       "name": "Pai Walking Street Food Stalls",
-      "cuisine": "Thai Street Food",
-      "price_range": "$",
-      "description": {
-        "en": "The nightly Walking Street market is a feast of street food: grilled satay for 10 baht, mango sticky rice, rotee banana pancakes, Thai sausages, and fresh coconut ice cream.",
-        "nl": "De avondlijke Walking Street markt is een feest van streetfood: gegrilde satay voor 10 baht, mango sticky rice, rotee bananenpannenkoeken, Thaise worstjes en verse kokosijs."
-      }
+      "description": "Nightly market featuring diverse street food including grilled satay, mango sticky rice, rotee banana pancakes, Thai sausages, and coconut ice cream.",
+      "cuisine_type": "Thai Street Food",
+      "price_range": "10-60 THB ($0.30-2)",
+      "highlights": [
+        "Budget street food",
+        "Authentic local fare",
+        "Nightly market",
+        "Variety of options"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "Pai Village Boutique Resort & Farm",
+      "rank": 1,
+      "name": "Pai Village Boutique Resort",
+      "description": "Charming resort with traditional wooden bungalows, swimming pool, and mountain views. Walking distance to the night market.",
+      "price_range": "$45-67/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Charming resort on the outskirts of town with traditional wooden bungalows, a swimming pool, organic farm, and mountain views. Walking distance to the night market.",
-        "nl": "Charmant resort aan de rand van het stadje met traditionele houten bungalows, een zwembad, biologische boerderij en bergzicht. Op loopafstand van de nachtmarkt."
-      }
+      "highlights": [
+        "Mountain views",
+        "Pool",
+        "Convenient location",
+        "4.5 rating"
+      ]
     },
     {
-      "name": "Pai Treehouse Resort",
+      "rank": 2,
+      "name": "Yoma Hotel Pai",
+      "description": "Budget-friendly hotel offering basic clean rooms with convenient town center access and friendly service.",
+      "price_range": "$20-31/night",
       "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "Unique treehouse-style accommodation surrounded by rice paddies with basic but clean rooms, a relaxed vibe, and stunning views. Perfect for backpackers seeking something different.",
-        "nl": "Unieke boomhut-stijl accommodatie omringd door rijstvelden met eenvoudige maar schone kamers, een relaxte sfeer en prachtig uitzicht. Perfect voor backpackers die iets anders zoeken."
-      }
+      "highlights": [
+        "Affordable",
+        "Central location",
+        "Clean rooms",
+        "3.5 rating"
+      ]
     },
     {
-      "name": "Reverie Siam Resort",
-      "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "Pai's most luxurious property featuring colonial-style suites with antique furnishings, a gorgeous riverside pool, fine dining restaurant, and impeccable service in a garden setting.",
-        "nl": "Het meest luxueuze verblijf in Pai met koloniale suites met antiek meubilair, een prachtig zwembad aan de rivier, fine dining restaurant en onberispelijke service in een tuinomgeving."
-      }
-    },
-    {
-      "name": "Pai Island Resort",
+      "rank": 3,
+      "name": "The Quarter Pai",
+      "description": "Mid-range hotel featuring modern rooms with comfortable amenities and central town location.",
+      "price_range": "$35-45/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Popular mid-range resort with clean modern rooms, a large pool, and lush tropical gardens. Centrally located but quiet, with friendly staff and excellent breakfast.",
-        "nl": "Populair middenklasse resort met schone moderne kamers, een groot zwembad en weelderige tropische tuinen. Centraal gelegen maar rustig, met vriendelijk personeel en uitstekend ontbijt."
-      }
+      "highlights": [
+        "Modern rooms",
+        "Central location",
+        "Good value",
+        "3.6 rating"
+      ]
     },
     {
-      "name": "Spicypai Backpackers Hostel",
+      "rank": 4,
+      "name": "Bura Lumpai Resort",
+      "description": "Budget resort with simple but clean bungalows offering peaceful atmosphere and basic amenities at very affordable rates.",
+      "price_range": "$10-14/night",
       "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "Top-rated backpacker hostel with clean dorms, a lively common area, pool, and organized social events. The best place to meet fellow travelers in Pai.",
-        "nl": "Hoog gewaardeerd backpackershostel met schone slaapzalen, een levendige gemeenschappelijke ruimte, zwembad en georganiseerde sociale evenementen. De beste plek om medereizigers te ontmoeten in Pai."
-      }
+      "highlights": [
+        "Ultra-budget",
+        "Clean rooms",
+        "Peaceful",
+        "3.5 rating"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Pai Hotsprings Spa Resort",
+      "description": "Budget-friendly resort offering access to hot springs, spa services, and simple comfortable rooms with natural thermal features.",
+      "price_range": "$14-22/night",
+      "category": "budget",
+      "highlights": [
+        "Hot springs access",
+        "Spa services",
+        "Natural setting",
+        "3.3 rating"
+      ]
     }
   ],
   "travel_tips": [
@@ -280,164 +331,123 @@
   "enhanced_at": "2026-02-22T00:00:00.000Z",
   "ai_generated": true,
   "overview": "Nestled in a verdant valley surrounded by misty mountain peaks in Mae Hong Son Province, Pai is northern Thailand's ultimate bohemian escape and backpacker haven. This laid-back mountain town of just 2,200 residents has become famous for its counterculture vibe, stunning natural attractions, and thriving community of digital nomads, artists, and travelers seeking an alternative to Thailand's more touristy destinations. From the dramatic Pai Canyon with its narrow ridgeline trails and panoramic valley views to the therapeutic Pai Hot Springs where you can boil eggs in natural mineral pools, the town serves as the perfect base for exploring untouched waterfalls, meditation temples, and authentic hill tribe culture.",
-  "thingsToDo": "Pai's main attractions blend outdoor adventure with cultural experiences. Start at Pai Canyon (Kong Lan), a free natural wonder where sunrise hikers navigate narrow ridgeline trails for breathtaking valley panoramas. The Pai Walking Street night market (free entry) buzzes with street food stalls, handmade crafts, and live music, offering authentic local flavor without tourist markup. Nature enthusiasts should visit Pai Hot Springs (300 THB/$9 entrance) to soak in natural mineral pools set within forest scenery, or head to Mo Paeng Waterfall (free) for natural rock slides and jungle swimming. The iconic Bamboo Bridge (free) makes for perfect photography against rice paddy backdrops, while nearby Wat Nam Hoo temple (free) offers hilltop serenity. For cultural exploration, Chinese Village/Santichon (50 THB/$1) showcases Yunnan tea houses and mountain views, and Yun Lai Viewpoint (20 THB/$1) combines sunrise views with traditional Chinese tea experiences.",
+  "thingsToDo": "Pai's main attractions blend outdoor adventure with cultural experiences. Start at Pai Canyon (Kong Lan), a free natural wonder where sunrise hikers navigate narrow ridgeline trails for breathtaking valley panoramas. The Pai Walking Street night market (free entry) buzzes with street food stalls, handmade crafts, and live music, offering authentic local flavor without tourist markup. Nature enthusiasts should visit Pai Hot Springs (300 THB/$9 entrance) to soak in natural mineral pools set within forest scenery, or head to Mo Paeng Waterfall (free) for natural rock slides and jungle swimming. The iconic Bamboo Bridge (free) makes for perfect photography against rice paddy backdrops, while nearby Wat Nam Hoo temple (free) offers hilltop serenity. For cultural exploration, Chinese Village/Santichon (50 THB/$1.50) showcases Yunnan tea houses and mountain views, and Yun Lai Viewpoint (20 THB/$0.60) combines sunrise views with traditional Chinese tea experiences.",
   "whereToStay": "Pai offers accommodation options across all budget levels, with the highest concentration near the Walking Street and town center. Budget travelers can find guesthouses for 250-500 THB ($7-15/night) offering basic but clean rooms and communal areas perfect for meeting other backpackers. Mid-range hotels and bungalows (600-1,500 THB/$18-45/night) provide more comfort with ensuite bathrooms, air-conditioning, and small amenities like cafes or gardens. Several eco-lodges and resort-style properties cater to those seeking more luxury (1,500-4,000+ THB/$45-120+/night) with modern facilities, pools, and mountain views. Many accommodations cluster near the main road leading to Pai Canyon or scatter throughout the valley for a more secluded experience. The town's small size means almost anywhere is walkable or a short motorbike ride from attractions and the walking street.",
   "whereToEat": [
     {
-      "name": "Charlie & Lek",
-      "cuisine": "Thai",
+      "name": "Two Sisters Restaurant",
+      "cuisine": "Thai, Asian",
       "priceRange": "$",
-      "description": "Widely considered the best authentic Thai restaurant in Pai, Charlie & Lek serves traditional dishes made fresh daily alongside garden-grown vegetables and homemade fruit shakes. A consistent favorite for breakfast, lunch, and dinner among both locals and repeat visitors."
+      "description": "Highly-rated Thai restaurant with authentic cuisine prepared fresh daily, consistently highly reviewed on TripAdvisor."
     },
     {
-      "name": "Lemon Thyme Cafe",
-      "cuisine": "Cafe/Breakfast",
+      "name": "Charlie and Leks",
+      "cuisine": "Northern Thai",
       "priceRange": "$",
-      "description": "A beloved breakfast and lunch spot known for quality coffee, fresh baked goods, and well-executed cafe fare. Popular with digital nomads and travelers seeking a comfortable spot to start their day."
+      "description": "Cozy spot serving outstanding northern Thai dishes including sai oua sausage, khao soi, and larb with locally-sourced ingredients from partner farms."
     },
     {
-      "name": "Nong Beer",
-      "cuisine": "Thai",
-      "priceRange": "$",
-      "description": "Local favorite serving traditional Thai cuisine in a relaxed atmosphere, offering authentic flavors at budget-friendly prices typical of northern Thailand dining."
-    },
-    {
-      "name": "Banh Banh Pun Pai Sandwich",
-      "cuisine": "Vietnamese/Sandwiches",
-      "priceRange": "$",
-      "description": "Specializing in quality banh mi sandwiches and Vietnamese-influenced fare, this casual spot provides flavorful meals at very affordable prices."
-    },
-    {
-      "name": "Duang Restaurant",
-      "cuisine": "Thai",
-      "priceRange": "$",
-      "description": "Traditional Thai restaurant offering a full menu of local specialties and regional dishes in a straightforward, welcoming setting favored by locals."
-    },
-    {
-      "name": "The Pedlar",
-      "cuisine": "International/Fusion",
+      "name": "Om Garden Cafe",
+      "cuisine": "International, Asian, Vegetarian",
       "priceRange": "$$",
-      "description": "A more upscale option serving international cuisine with a touch of fusion, catering to travelers seeking dining experiences beyond basic Thai fare."
+      "description": "Riverside organic cafe with smoothie bowls, vegan curries, and freshly baked sourdough in peaceful garden setting overlooking the Pai River."
     },
     {
-      "name": "I'P Burger & Grill",
-      "cuisine": "Burgers/Western",
-      "priceRange": "$$",
-      "description": "Quality burgers and grilled fare for travelers craving Western comfort food, offering a casual dining atmosphere with good execution."
+      "name": "Na's Kitchen",
+      "cuisine": "Thai, Healthy",
+      "priceRange": "$",
+      "description": "Beloved local restaurant famous for perfectly wok-charred pad thai and green curry, run by Na and family for over a decade."
     },
     {
-      "name": "BAAN23 House Cafe",
-      "cuisine": "Cafe/Thai Fusion",
-      "priceRange": "$$",
-      "description": "A charming house-turned-cafe serving coffee, light meals, and fusion dishes in an intimate setting popular with both tourists and long-term residents."
+      "name": "Witching Well Restaurant and Wine Bar",
+      "cuisine": "International, Thai Fusion",
+      "priceRange": "$$-$$$",
+      "description": "Atmospheric restaurant featuring wood-fired pizza, Thai fusion dishes, and creative cocktails on lantern-lit garden terrace with intimate ambiance."
+    },
+    {
+      "name": "Pai Walking Street Food Stalls",
+      "cuisine": "Thai Street Food",
+      "priceRange": "$",
+      "description": "Nightly market with grilled satay, mango sticky rice, rotee banana pancakes, Thai sausages, and fresh coconut ice cream at budget prices."
     }
   ],
   "topHotels": [
     {
-      "name": "Pai Walking Street Guesthouses",
+      "name": "Pai Village Boutique Resort",
+      "category": "midrange",
+      "priceRange": "$45-67/night",
+      "area": "Town Center/Outskirts",
+      "description": "Charming resort with traditional wooden bungalows, swimming pool, and mountain views. Walking distance to the night market and restaurants."
+    },
+    {
+      "name": "Yoma Hotel Pai",
       "category": "budget",
-      "priceRange": "$8-15/night",
-      "area": "Walking Street/Town Center",
-      "description": "Multiple budget options line the walking street with basic but clean rooms, communal areas for meeting other travelers, and convenient access to restaurants and nightlife."
+      "priceRange": "$20-31/night",
+      "area": "Town Center",
+      "description": "Budget-friendly hotel with basic but clean rooms, convenient town location, and friendly service."
     },
     {
-      "name": "Pai Riverside Bungalows",
+      "name": "The Quarter Pai",
+      "category": "midrange",
+      "priceRange": "$35-45/night",
+      "area": "Town Center",
+      "description": "Modern mid-range hotel with comfortable rooms and central location, good value for the amenities offered."
+    },
+    {
+      "name": "Bura Lumpai Resort",
       "category": "budget",
-      "priceRange": "$10-18/night",
-      "area": "Riverside",
-      "description": "Simple wooden bungalows scattered along Pai's river setting, offering tranquility and natural surroundings at budget prices with basic amenities."
+      "priceRange": "$10-14/night",
+      "area": "Outskirts",
+      "description": "Ultra-budget resort with simple but clean bungalows offering peaceful atmosphere and basic amenities."
     },
     {
-      "name": "Pai Spa Resort",
-      "category": "midrange",
-      "priceRange": "$25-50/night",
-      "area": "Town Center",
-      "description": "Mid-range resort offering air-conditioned rooms, on-site spa services, and a pool, providing comfort without excessive luxury pricing."
-    },
-    {
-      "name": "Bamboo Guest House",
-      "category": "midrange",
-      "priceRange": "$20-40/night",
-      "area": "Walking Street Area",
-      "description": "Eco-friendly guesthouse with bamboo and natural materials, offering comfortable rooms with character, a small restaurant, and proximity to main attractions."
-    },
-    {
-      "name": "Pai View Point Resort",
-      "category": "midrange",
-      "priceRange": "$30-60/night",
-      "area": "Hillside/Canyon Area",
-      "description": "Resort with valley and mountain views, offering air-conditioned rooms, restaurant, and prime positioning near Pai Canyon for sunrise excursions."
-    },
-    {
-      "name": "Phu Pai Art's Cafe & Resort",
-      "category": "midrange",
-      "priceRange": "$28-55/night",
-      "area": "Town Center",
-      "description": "Charming property combining art gallery, cafe, and accommodation with personality, featuring rustic-elegant rooms and a creative community atmosphere."
-    },
-    {
-      "name": "Duang Pai Boutique Resort",
-      "category": "luxury",
-      "priceRange": "$70-140/night",
-      "area": "Valley Setting",
-      "description": "Upscale resort with modern amenities, pool, quality dining, and careful design blending comfort with Pai's laid-back aesthetic in a picturesque location."
-    },
-    {
-      "name": "Pai Valley Resort",
-      "category": "luxury",
-      "priceRange": "$80-160/night",
-      "area": "Scenic Hillside",
-      "description": "Premium property featuring spacious rooms, valley views, spa facilities, fine dining restaurant, and personalized service catering to discerning travelers."
+      "name": "Pai Hotsprings Spa Resort",
+      "category": "budget",
+      "priceRange": "$14-22/night",
+      "area": "Hot Springs Area",
+      "description": "Budget resort with access to natural hot springs, spa services, and simple comfortable rooms."
     }
   ],
-  "gettingAround": "Pai's compact size makes it highly walkable for the town center and main attractions, though some sites require transportation. Motorbike rental (150-250 THB/$4-7/day) is the most popular option for independent exploration, offering flexibility to reach waterfalls, viewpoints, and villages on your own schedule. Local songthaews (shared red trucks) provide inexpensive transport around town and to nearby villages, typically costing 10-20 THB ($0.30-0.60) per person for short rides. Tuk-tuks and taxi services are available for longer journeys or private transport, with negotiable rates based on destination. Grab, Thailand's ride-hailing app, operates in Pai and offers reliable transportation with fixed pricing. For longer-distance travel, buses connect Pai to Chiang Mai (3-4 hours) and other northern cities, with service from the main bus station.",
+  "gettingAround": "Pai's compact size makes it highly walkable for the town center and main attractions, though some sites require transportation. Motorbike rental (150-250 THB/$4.50-7.50/day) is the most popular option for independent exploration, offering flexibility to reach waterfalls, viewpoints, and villages on your own schedule. Local songthaews (shared red trucks) provide inexpensive transport around town and to nearby villages, typically costing 10-20 THB ($0.30-0.60) per person for short rides. Tuk-tuks and taxi services are available for longer journeys or private transport, with negotiable rates based on destination. Grab, Thailand's ride-hailing app, operates in Pai and offers reliable transportation with fixed pricing. For longer-distance travel, buses connect Pai to Chiang Mai (3-4 hours, 100-150 THB/$3-5) and other northern cities, with service from the main bus station.",
   "bestTimeToVisit": "Pai's ideal visiting season runs from November through February, when northern Thailand experiences cool and dry weather perfect for outdoor exploration. Daytime temperatures range from 20-25°C (68-77°F) with crisp mornings ideal for sunrise hikes to Pai Canyon, while cool evenings are perfect for wandering the Walking Street. March through May brings hot, dusty conditions with temperatures reaching 35°C+ (95°F+), making outdoor activities less comfortable despite clear skies. The monsoon season from June to October brings heavy rainfall that transforms the landscape into lush green but makes trekking and waterfall visits challenging. November marks the ideal arrival as mountain mists clear and temperatures drop, while December-January attracts the most visitors. February remains excellent with continued cool weather and fewer crowds than the peak holiday season. For avoiding crowds while enjoying good weather, early November or late January offer the sweet spot.",
   "budgetGuide": {
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget travelers can comfortably live on $20-40/day staying in guesthouses ($8-15), eating street food and casual restaurants ($5-12), and using local transport ($1-3). Entrance fees to attractions are minimal or free."
+      "description": "Budget travelers can comfortably live on $20-40/day staying in guesthouses ($8-15), eating street food and casual restaurants (60-150 THB/$1.80-4.50), and using local transport (10-20 THB/$0.30-0.60). Entrance fees to attractions are minimal or free."
     },
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Mid-range visitors spend $50-100/day on mid-range hotels ($25-50), sit-down restaurants ($8-15), motorbike rental and activities ($10-20), plus attraction fees and occasional massage or tour experiences."
+      "description": "Mid-range visitors spend $50-100/day on mid-range hotels ($25-50), sit-down restaurants (150-280 THB/$4.50-8.50), motorbike rental and activities (150-250 THB/$4.50-7.50), plus attraction fees and occasional massage or tour experiences."
     },
     "luxury": {
       "min": 150,
       "max": 400,
-      "description": "Luxury travelers budget $150-400+/day for upscale resorts ($80-160), fine dining ($20-40), private tours and transportation, spa treatments ($15-30/hour), and exclusive experiences."
+      "description": "Luxury travelers budget $150-400+/day for upscale resorts ($80-160), fine dining (350+ THB/$10+), private tours and transportation, spa treatments (400-900 THB/$12-28/hour), and exclusive experiences."
     }
   },
   "safetyTips": "Pai is generally very safe for travelers with normal precautions. The community is welcoming and crime against tourists is minimal, though standard travel safety applies—avoid displaying expensive items, secure valuables, and use registered taxis or Grab for late-night transport rather than walking alone in darkness. Motorbike rentals are common but require caution; ensure you have proper insurance, wear helmets (legally required), and be aware that road conditions can be rough in rainy season. The town's laid-back atmosphere sometimes masks the reality of Thailand's strict drug laws—possession of any controlled substances carries severe penalties including lengthy imprisonment, so avoid drugs entirely despite their availability. Watch for overly aggressive touts or scams at the walking street market; stick with established vendors and be cautious of unusually good deals. Tap water is generally safe to drink in Pai, but many travelers prefer bottled water. Healthcare is available at local clinics for minor issues, but serious medical care requires travel to Chiang Mai.",
   "faq": [
     {
       "question": "How do I get to Pai from Chiang Mai?",
-      "answer": "Buses depart regularly from Chiang Mai's bus stations, taking 3-4 hours and costing 100-150 THB ($3-5). Alternatively, rent a motorbike or join a tour group. Many travelers also fly into Chiang Mai first, as it's the closest major airport (160km/100 miles away)."
+      "answer": "Buses depart regularly from Chiang Mai's bus stations, taking 3-4 hours and costing 100-150 THB ($3-5). Alternatively, rent a motorbike (150-250 THB/$4.50-7.50/day) or join a tour group. Many travelers fly into Chiang Mai first, as it's the closest major airport (160km/100 miles away)."
     },
     {
       "question": "What is the best time to visit Pai?",
-      "answer": "November through February offers the best weather with cool, dry conditions perfect for outdoor activities. December-January sees peak tourism. March-May is hot and dusty, while June-October is wet monsoon season."
+      "answer": "November through February offers the best weather with cool, dry conditions perfect for outdoor activities. December-January sees peak tourism with temperatures 20-25°C (68-77°F). March-May is hot and dusty with temperatures 35°C+ (95°F+), while June-October is wet monsoon season with heavy rainfall."
     },
     {
       "question": "How many days should I spend in Pai?",
-      "answer": "Most travelers stay 3-5 days to explore main attractions like Pai Canyon, Hot Springs, and Bamboo Bridge while enjoying the town's cafes and night market. Some digital nomads and digital detox enthusiasts stay weeks or months."
+      "answer": "Most travelers stay 3-5 days to explore main attractions like Pai Canyon, Hot Springs, and Bamboo Bridge while enjoying the town's cafes and night market. Some digital nomads and travelers seeking digital detox stay weeks or months."
     },
     {
-      "question": "Is motorbike rental safe in Pai?",
-      "answer": "Motorbike riding requires caution and experience. Wear helmets (legally required), ensure insurance coverage, and ride defensively as road conditions vary. Many visitors prefer using songthaews, tuk-tuks, or Grab for transportation if unfamiliar with riding."
+      "question": "Is Pai safe for travelers?",
+      "answer": "Pai is generally very safe with normal precautions. The community is welcoming and crime against tourists is minimal. Avoid displaying expensive items, use registered taxis or Grab for late-night transport, and ensure motorbike rental includes insurance and helmets. Be aware that Thailand has strict drug laws with severe penalties."
     },
     {
-      "question": "What is the dress code for temples in Pai?",
-      "answer": "Dress respectfully by covering shoulders and knees when visiting temples like Wat Nam Hoo. Wear shoes that can be easily removed, and avoid pointing feet toward Buddha images. Many tourists wear sarongs, available cheaply throughout town."
-    },
-    {
-      "question": "Can I use USD in Pai or do I need Thai Baht?",
-      "answer": "Thai Baht is the official currency. While some tourist-oriented businesses accept USD, exchange rates are poor. Use ATMs (available in town) to withdraw Baht, or exchange money at the bank for better rates than shops offer."
-    },
-    {
-      "question": "Is Pai suitable for solo travelers?",
-      "answer": "Yes, Pai is very popular with solo travelers and backpackers. The town's social atmosphere, guesthouses with communal areas, and friendly community make it easy to meet people and feel safe traveling alone."
+      "question": "What should I eat in Pai?",
+      "answer": "Try authentic northern Thai cuisine at Charlie and Leks or Na's Kitchen (60-180 THB/$1.80-5.50), street food at the Walking Street night market (10-60 THB/$0.30-2), or vegetarian options at Om Garden Cafe (120-280 THB/$3.50-8.50). Many restaurants source from local farms."
     }
   ],
   "practicalInfo": {
@@ -448,10 +458,10 @@
       "Feb"
     ],
     "nearestAirport": "Chiang Mai International Airport (CNX) - 160km/100 miles away",
-    "travelTimeFromAirport": "3-4 hours by car; most visitors take buses costing 100-150 THB ($3-5)",
+    "travelTimeFromAirport": "3-4 hours by bus costing 100-150 THB ($3-5); alternative motorbike rental or private car available",
     "localTransport": [
-      "Motorbike rental",
-      "Songthaew (shared truck)",
+      "Motorbike rental (150-250 THB/$4.50-7.50/day)",
+      "Songthaew (10-20 THB/$0.30-0.60/ride)",
       "Tuk-tuk",
       "Grab app",
       "Walking"
@@ -486,5 +496,104 @@
       "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Pai.",
       "Pai Canyon": "Visit Pai Canyon during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
     }
-  }
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Pai Canyon (Kong Lan)",
+      "description": "Natural canyon formation with narrow ridgeline trails offering panoramic valley views, especially stunning at sunrise.",
+      "location": "East of town center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Sunrise hikes",
+        "Ridge trails",
+        "Valley panoramas"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Pai Hot Springs",
+      "description": "Natural mineral hot springs set in forest scenery where visitors can soak in thermal pools and boil eggs in hot water.",
+      "location": "South of town",
+      "entrance_fee": "300 THB ($9)",
+      "highlights": [
+        "Natural mineral pools",
+        "Forest setting",
+        "Egg boiling"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Pai Walking Street Night Market",
+      "description": "Evening market featuring street food stalls, handmade crafts, and live music with authentic local atmosphere.",
+      "location": "Town center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Street food",
+        "Local crafts",
+        "Live music"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Mo Paeng Waterfall",
+      "description": "Natural waterfall with rock slides and jungle swimming pools ideal for cooling off and nature exploration.",
+      "location": "West of town",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Rock slides",
+        "Swimming holes",
+        "Jungle setting"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Bamboo Bridge",
+      "description": "Scenic wooden bridge crossing over rice paddies, popular for photography and sunset views.",
+      "location": "North of town",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Rice paddy views",
+        "Photography spot",
+        "Sunset location"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Yun Lai Viewpoint",
+      "description": "Mountain viewpoint offering sunrise views and access to traditional Chinese tea houses with panoramic vistas.",
+      "location": "North of town",
+      "entrance_fee": "20 THB ($0.60)",
+      "highlights": [
+        "Sunrise views",
+        "Tea houses",
+        "Mountain vistas"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Chinese Village (Santichon)",
+      "description": "Historic settlement showcasing Yunnan tea culture and architecture with mountain views and local tea plantations.",
+      "location": "North of town",
+      "entrance_fee": "50 THB ($1.50)",
+      "highlights": [
+        "Tea houses",
+        "Yunnan culture",
+        "Mountain views"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Wat Nam Hoo Temple",
+      "description": "Hilltop temple providing peaceful spiritual atmosphere and panoramic views of surrounding countryside.",
+      "location": "East of town",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Hilltop location",
+        "Spiritual retreat",
+        "Valley views"
+      ]
+    }
+  ],
+  "factchecked_at": "2026-03-08T18:30:23.375Z"
 }

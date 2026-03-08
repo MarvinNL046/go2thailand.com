@@ -115,96 +115,150 @@
   ],
   "top_restaurants": [
     {
-      "name": "Ko Pi (Phraram VI Road)",
-      "cuisine": "Chinese-Thai Breakfast",
-      "price_range": "$",
-      "description": {
-        "en": "The most iconic breakfast spot in Trang, famous for its moo yang (roasted pork), homemade dim sum, and strong Trang-style coffee. A multi-generational family institution where locals start every morning.",
-        "nl": "De meest iconische ontbijtplek in Trang, beroemd om zijn moo yang (geroosterd varkensvlees), huisgemaakte dim sum en sterke Trang-stijl koffie. Een meergeneratie familiebedrijf waar locals elke ochtend beginnen."
-      }
+      "rank": 1,
+      "name": "KohMook Sea Beach Restaurant",
+      "description": "Beachfront seafood restaurant on Koh Mook serving fresh catch daily with views of the Andaman Sea.",
+      "cuisine_type": "Seafood, Asian",
+      "price_range": "200-400 THB ($6-12 USD)",
+      "highlights": [
+        "Fresh seafood",
+        "Beach views",
+        "TripAdvisor 4.9 rating"
+      ]
     },
     {
-      "name": "Khao Tom Phui",
-      "cuisine": "Thai-Chinese",
-      "price_range": "$",
-      "description": {
-        "en": "A beloved late-night rice porridge shop on Huay Yod Road. Their khao tom with fresh seafood, century egg, and minced pork is the go-to meal for Trang's night owls. Simple, warming, and open until the early hours.",
-        "nl": "Een geliefd laat-avond rijstpapwinkel aan de Huay Yod Road. Hun khao tom met verse zeevruchten, eeuwenoud ei en gehakt varkensvlees is de favoriete maaltijd voor Trang's nachtbrakers. Simpel, verwarmend en open tot in de vroege uurtjes."
-      }
+      "rank": 2,
+      "name": "Perfect Bar & Restaurant",
+      "description": "Casual dining spot serving fresh seafood and fast food with reliable quality and friendly service.",
+      "cuisine_type": "Seafood, Fast Food",
+      "price_range": "150-350 THB ($5-10 USD)",
+      "highlights": [
+        "Fresh seafood",
+        "Casual atmosphere",
+        "TripAdvisor 4.7 rating"
+      ]
     },
     {
-      "name": "Roti Thong Trang",
-      "cuisine": "Thai-Muslim",
-      "price_range": "$",
-      "description": {
-        "en": "Trang's best roti shop serving crispy, flaky flatbread with curry or sweet condensed milk. The Muslim-Thai community has perfected this dish over generations. Their mataba (stuffed roti) with chicken curry is exceptional.",
-        "nl": "Trang's beste roti-winkel serveert knapperig, bladerdeegachtig platbrood met curry of zoete gecondenseerde melk. De moslim-Thaise gemeenschap heeft dit gerecht over generaties geperfectioneerd. Hun mataba (gevulde roti) met kipcurry is uitzonderlijk."
-      }
+      "rank": 3,
+      "name": "Miss Island Bakery Koh Mook",
+      "description": "Cafe and bakery on Koh Mook offering fresh pastries, coffee, and light Asian-inspired dishes ideal for breakfast or lunch.",
+      "cuisine_type": "Cafe, Asian",
+      "price_range": "80-250 THB ($2-7 USD)",
+      "highlights": [
+        "Fresh baked goods",
+        "Island setting",
+        "TripAdvisor 4.6 rating"
+      ]
     },
     {
-      "name": "Night Market Stalls (Sathani Road)",
-      "cuisine": "Street Food",
-      "price_range": "$",
-      "description": {
-        "en": "The evening food stalls along the old train station road serve everything from grilled squid and fish cakes to coconut pancakes and jelly noodle desserts. An authentic local dining experience with rock-bottom prices.",
-        "nl": "De avondvoedselkramen langs de oude treinstation weg serveren alles van gegrilde inktvis en viskoekjes tot kokospannenkoekjes en geleinoedel-desserts. Een authentieke lokale eetervaring met bodemprijzen."
-      }
+      "rank": 4,
+      "name": "Sugar's Coffee and Restaurant",
+      "description": "Cafe and restaurant serving quality coffee, pastries, and Asian dishes. Popular with both tourists and locals for morning caffeine and light meals.",
+      "cuisine_type": "Cafe, Asian",
+      "price_range": "80-250 THB ($2-7 USD)",
+      "highlights": [
+        "Quality coffee",
+        "Local favorite",
+        "TripAdvisor 4.6 rating"
+      ]
     },
     {
+      "rank": 5,
+      "name": "Kalumè Restaurant",
+      "description": "Upscale dining venue offering Mediterranean and Neapolitan cuisine with attention to detail and quality ingredients.",
+      "cuisine_type": "Mediterranean, Neapolitan",
+      "price_range": "300-600 THB ($9-18 USD)",
+      "highlights": [
+        "Mediterranean cuisine",
+        "Upscale dining",
+        "TripAdvisor 4.4 rating"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Ko Pi",
+      "description": "Iconic breakfast institution famous for moo yang (roasted pork), homemade dim sum, and strong Trang-style coffee. Multi-generational family-run establishment.",
+      "cuisine_type": "Chinese-Thai Breakfast",
+      "price_range": "50-150 THB ($2-5 USD)",
+      "highlights": [
+        "Moo yang roasted pork",
+        "Homemade dim sum",
+        "Local institution"
+      ]
+    },
+    {
+      "rank": 7,
       "name": "Sin Ocha",
-      "cuisine": "Dim Sum",
-      "price_range": "$",
-      "description": {
-        "en": "A classic Trang dim sum house where the Chinese-Thai culinary tradition shines. Steamed dumplings, barbecue pork buns, and custard tarts arrive in bamboo steamers alongside pots of jasmine tea. Best visited before 9 AM.",
-        "nl": "Een klassiek Trang dim sum huis waar de Chinese-Thaise culinaire traditie schittert. Gestoomde dumplings, barbecue varkensbroodjes en custardtaartjes komen in bamboestomers samen met kannetjes jasmijnthee. Het beste te bezoeken voor 9 uur."
-      }
+      "description": "Classic Trang dim sum house where steamed dumplings, barbecue pork buns, and custard tarts arrive in bamboo steamers. Best visited before 9 AM.",
+      "cuisine_type": "Dim Sum",
+      "price_range": "60-200 THB ($2-6 USD)",
+      "highlights": [
+        "Traditional dim sum",
+        "Bamboo steamers",
+        "Early morning specialty"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "Thumrin Thana Hotel",
+      "rank": 1,
+      "name": "Andalay Beach Resort",
+      "description": "Beachfront resort offering quality accommodations with scenic coastal views and direct beach access.",
+      "price_range": "$50-100/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Trang's largest and most well-known hotel, centrally located with comfortable rooms, a pool, and a popular breakfast buffet. A reliable base for exploring the city and booking island day trips.",
-        "nl": "Trang's grootste en bekendste hotel, centraal gelegen met comfortabele kamers, een zwembad en een populair ontbijtbuffet. Een betrouwbare uitvalsbasis om de stad te verkennen en eilanddagtrips te boeken."
-      }
+      "highlights": [
+        "Beach access",
+        "Scenic views",
+        "TripAdvisor 4.7 rating"
+      ]
     },
     {
-      "name": "Anantara Si Kao Resort",
-      "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "A stunning beachfront resort on the coast between Trang and Krabi. Luxurious rooms overlooking the Andaman Sea, infinity pools, spa, and direct access to island-hopping tours. The best luxury option in the Trang area.",
-        "nl": "Een prachtig strandresort aan de kust tussen Trang en Krabi. Luxe kamers met uitzicht op de Andamanzee, infinity pools, spa en directe toegang tot eilandhopping-tours. De beste luxe optie in het Trang gebied."
-      }
-    },
-    {
-      "name": "Sri Trang Hotel",
-      "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "A clean and friendly budget hotel in the city center, within walking distance of the night market and breakfast streets. Simple rooms with air conditioning and hot water at backpacker-friendly prices.",
-        "nl": "Een schoon en vriendelijk budgethotel in het stadscentrum, op loopafstand van de nachtmarkt en ontbijtstraten. Eenvoudige kamers met airconditioning en warm water voor backpacker-vriendelijke prijzen."
-      }
-    },
-    {
-      "name": "Koh Muk Sivalai Beach Resort",
+      "rank": 2,
+      "name": "Reef Resort",
+      "description": "Comfortable beachfront resort with good amenities and convenient location for island tours.",
+      "price_range": "$45-90/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "A beachfront resort on Koh Muk island, perfectly positioned for visiting the Emerald Cave. Bungalows sit right on the sand with views across to the mainland mountains. The most atmospheric island stay in the Trang archipelago.",
-        "nl": "Een strandresort op het eiland Koh Muk, perfect gelegen voor een bezoek aan de Smaragd Grot. Bungalows staan direct op het zand met uitzicht op de bergen van het vasteland. Het meest sfeervolle eilandverblijf in de Trang archipel."
-      }
+      "highlights": [
+        "Beachfront location",
+        "Island tour access",
+        "TripAdvisor 4.4 rating"
+      ]
     },
     {
-      "name": "My Friend Hostel",
+      "rank": 3,
+      "name": "Koh Mook Sivalai Beach Resort",
+      "description": "Beachfront resort on Koh Muk island perfectly positioned for visiting the Emerald Cave. Bungalows sit on sand with mainland mountain views.",
+      "price_range": "$45-85/night",
+      "category": "midrange",
+      "highlights": [
+        "Koh Muk island location",
+        "Emerald Cave proximity",
+        "TripAdvisor 4.1 rating"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Pawapi Beach",
+      "description": "Beach resort offering comfortable rooms with ocean views and access to water activities.",
+      "price_range": "$40-80/night",
+      "category": "midrange",
+      "highlights": [
+        "Beach views",
+        "Water activities",
+        "TripAdvisor 3.9 rating"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "The Sevenseas Resort",
+      "description": "Casual beachside resort offering basic amenities and affordable accommodation for budget-conscious travelers.",
+      "price_range": "$35-70/night",
       "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "A small, social hostel popular with backpackers exploring the Trang islands. Helpful staff organize group tours to the Emerald Cave and Koh Kradan, making it easy to meet travel companions.",
-        "nl": "Een klein, gezellig hostel populair bij backpackers die de Trang-eilanden verkennen. Behulpzaam personeel organiseert groepstours naar de Smaragd Grot en Koh Kradan, waardoor het makkelijk is om reisgenoten te ontmoeten."
-      }
+      "highlights": [
+        "Affordable rates",
+        "Beach location",
+        "TripAdvisor 3.7 rating"
+      ]
     }
   ],
   "travel_tips": [
@@ -278,166 +332,156 @@
     }
   },
   "overview": "Trang is a laid-back southern Thai gem that remains refreshingly authentic and largely untouched by mass tourism. This coastal province has earned a stellar reputation among food lovers for its exceptional roasted pork (Moo Yang) and dim sum breakfast culture that rivals Bangkok's offerings. Beyond the culinary scene, Trang serves as the gateway to some of Thailand's most pristine islands and natural wonders, including the famous Emerald Cave with its hidden inland beach, making it an ideal base for both relaxation and adventure.",
-  "thingsToDo": "The main draw for visitors is exploring Trang's island network and natural attractions. The Emerald Cave (Tham Morakot) on Koh Muk is the crown jewel—an 80-meter swim through a limestone cave leads to an emerald-green lagoon and a secret beach hidden within the island (entrance fee: 200 THB/$6). Koh Kradan offers pristine white sand beaches and excellent coral reef snorkeling with spectacular sunsets. For wildlife enthusiasts, Hat Chao Mai National Park provides opportunities to spot dugongs among mangrove forests, while Koh Libong is known for wild dugong watching in its seagrass beds. Pak Meng Beach, free to access, serves as the departure point for island tours and features fresh seafood restaurants along its long sandy shore. Closer to town, the Phraya Ratsadanupradit Monument sits in a tree-lined plaza near the morning market, offering a glimpse into local history and culture. Koh Ngai and Koh Kradan provide excellent beach-front snorkeling opportunities for those seeking immediate marine exploration.",
+  "thingsToDo": "Trang's main attractions center on its island network and natural wonders. The Emerald Cave (Tham Morakot) on Koh Muk is the crown jewel—an 80-meter swim through limestone cave leads to an emerald-green lagoon and hidden beach inside the island (entrance fee: 200 THB/$6). Koh Kradan offers pristine white sand beaches and excellent coral reef snorkeling with spectacular sunsets. Hat Chao Mai National Park (200 THB/$6 entry) provides opportunities to spot dugongs in mangrove forests and seagrass beds, while Koh Libong is known for wild dugong watching. Pak Meng Beach is free to access and serves as the main departure point for island tours, featuring fresh seafood restaurants. Koh Ngai and Koh Kradan provide excellent beachfront snorkeling. The Phraya Ratsadanupradit Monument in a tree-lined plaza near the morning market offers insights into local history. Island day trips cost 300-500 THB ($10-15 USD) with standard tour operators.",
   "whereToStay": "Trang town offers a range of accommodation options scattered throughout different neighborhoods, though specific hotel data is limited. The area around Pak Meng Beach provides easy access to island tours and features several beachfront and near-beach properties with seafood dining options. Budget guesthouses cluster in the town center near the night market and transportation hub, offering basic but clean rooms at very affordable rates. Mid-range hotels typically provide air conditioning, hot water, and sometimes mini-fridges, positioned near main streets or in quieter residential areas. For visitors seeking island experiences, several resorts operate on Koh Kradan, Koh Ngai, and Koh Muk, ranging from basic bungalows to more upscale beachfront properties. The peak season (November to February) sees higher occupancy, so advance booking is recommended. Many accommodations can arrange island tours and activities directly from their properties.",
   "whereToEat": [
     {
-      "name": "EggE Egg Egg",
-      "cuisine": "Thai Seafood / Brunch",
+      "name": "KohMook Sea Beach Restaurant",
+      "cuisine": "Seafood, Asian",
       "priceRange": "$$",
-      "description": "Family-run restaurant famous for fresh oysters and crab omelette rice bowls. Open only for brunch 10am-1pm, located in a labyrinth-like neighborhood location and highly recommended as a must-do on your Trang itinerary."
+      "description": "Beachfront seafood restaurant serving fresh daily catch with Andaman Sea views. TripAdvisor rating 4.9."
     },
     {
-      "name": "339 Huan Khao Soi",
-      "cuisine": "Northern Thai / Curry",
+      "name": "Perfect Bar & Restaurant",
+      "cuisine": "Seafood, Fast Food",
       "priceRange": "$$",
-      "description": "Serves Khao Soi that rivals Chiang Mai's best offerings. The owner adapted the northern specialty to southern tastes, adding more heat while maintaining authentic flavors without excessive sweetness."
+      "description": "Casual dining spot with reliable fresh seafood and friendly service. TripAdvisor rating 4.7."
     },
     {
-      "name": "Ko Jang",
-      "cuisine": "Thai Tea / Desserts",
+      "name": "Miss Island Bakery Koh Mook",
+      "cuisine": "Cafe, Asian",
       "priceRange": "$",
-      "description": "Hidden tea omakase in a backalley shed with an eccentric owner who operates on his own schedule. Serves some of Thailand's best fruit tea. The unpredictability of whether it's open is part of the charm."
+      "description": "Island bakery offering fresh pastries, quality coffee, and light Asian dishes. TripAdvisor rating 4.6."
     },
     {
-      "name": "Lion's Tale",
-      "cuisine": "Thai Modern",
-      "priceRange": "$$",
-      "description": "Contemporary Thai restaurant run by Mook, known for creative takes on local favorites and contributing significantly to Trang's evolving food scene."
-    },
-    {
-      "name": "Trang Night Market",
-      "cuisine": "Thai Street Food",
+      "name": "Sugar's Coffee and Restaurant",
+      "cuisine": "Cafe, Asian",
       "priceRange": "$",
-      "description": "Authentic local atmosphere with abundant southern Thai street food options. This is where locals eat and offers budget-friendly dining with genuine flavors and minimal added sugar compared to other regions."
+      "description": "Popular cafe serving quality coffee, pastries, and Asian meals for breakfast and light lunch. TripAdvisor rating 4.6."
     },
     {
-      "name": "Pak Meng Beach Seafood Restaurants",
-      "cuisine": "Thai Seafood",
-      "priceRange": "$$",
-      "description": "Multiple seafood establishments line Pak Meng Beach, offering fresh catches with sea views. Perfect for lunch or dinner after island tours with prices reflecting the fresh daily catch."
+      "name": "Kalumè Restaurant",
+      "cuisine": "Mediterranean, Neapolitan",
+      "priceRange": "$$$",
+      "description": "Upscale dining with Mediterranean and Neapolitan cuisine. TripAdvisor rating 4.4."
+    },
+    {
+      "name": "Ko Pi",
+      "cuisine": "Chinese-Thai Breakfast",
+      "priceRange": "$",
+      "description": "Iconic multi-generational family institution famous for moo yang roasted pork and homemade dim sum."
+    },
+    {
+      "name": "Sin Ocha",
+      "cuisine": "Dim Sum",
+      "priceRange": "$",
+      "description": "Classic Trang dim sum house with steamed dumplings, pork buns, and custard tarts. Best before 9 AM."
+    },
+    {
+      "name": "Night Market Stalls",
+      "cuisine": "Street Food",
+      "priceRange": "$",
+      "description": "Evening food stalls along Sathani Road near old train station serving grilled squid, fish cakes, and local desserts."
     }
   ],
   "topHotels": [
     {
-      "name": "Trang City Hotel",
+      "name": "Andalay Beach Resort",
+      "category": "midrange",
+      "priceRange": "$50-100/night",
+      "area": "Coastal Area",
+      "description": "Beachfront resort with scenic coastal views and direct beach access. TripAdvisor rating 4.7."
+    },
+    {
+      "name": "Reef Resort",
+      "category": "midrange",
+      "priceRange": "$45-90/night",
+      "area": "Coastal Area",
+      "description": "Comfortable beachfront resort convenient for island tour bookings. TripAdvisor rating 4.4."
+    },
+    {
+      "name": "Koh Mook Sivalai Beach Resort",
+      "category": "midrange",
+      "priceRange": "$45-85/night",
+      "area": "Koh Muk Island",
+      "description": "Beachfront bungalows on Koh Muk island positioned for Emerald Cave visits. TripAdvisor rating 4.1."
+    },
+    {
+      "name": "Pawapi Beach",
+      "category": "midrange",
+      "priceRange": "$40-80/night",
+      "area": "Coastal Area",
+      "description": "Beach resort with ocean views and water activity access. TripAdvisor rating 3.9."
+    },
+    {
+      "name": "The Sevenseas Resort",
+      "category": "budget",
+      "priceRange": "$35-70/night",
+      "area": "Coastal Area",
+      "description": "Casual beachside resort offering affordable accommodation. TripAdvisor rating 3.7."
+    },
+    {
+      "name": "Thumrin Thana Hotel",
       "category": "midrange",
       "priceRange": "$40-70/night",
       "area": "Town Center",
-      "description": "Central location near transportation and night market with air conditioning and standard amenities. Convenient for exploring local food scene and accessing island tour departures."
+      "description": "Trang's largest hotel, centrally located with pool and breakfast buffet. Reliable base for city exploration and island tour bookings."
     },
     {
-      "name": "Baan Trang Hotel",
+      "name": "Sri Trang Hotel",
       "category": "budget",
       "priceRange": "$15-30/night",
       "area": "Town Center",
-      "description": "Basic but clean guesthouse popular with backpackers. Simple rooms with fans or air conditioning, close to street food vendors and local markets."
+      "description": "Clean budget hotel in city center near night market and breakfast streets. Walking distance to local attractions."
     },
     {
-      "name": "Trang Boutique Hotel",
-      "category": "midrange",
-      "priceRange": "$45-80/night",
-      "area": "Central Trang",
-      "description": "Charming mid-range option with personalized service and tasteful design. Offers easy access to restaurants and local attractions with helpful staff for activity planning."
-    },
-    {
-      "name": "Koh Kradan Resort",
-      "category": "midrange",
-      "priceRange": "$60-100/night",
-      "area": "Koh Kradan Island",
-      "description": "Beachfront resort on pristine Koh Kradan island with snorkeling directly from the property. Offers a balance of comfort and island authenticity with sunset views over the Andaman."
-    },
-    {
-      "name": "Koh Ngai Bungalows",
+      "name": "My Friend Hostel",
       "category": "budget",
-      "priceRange": "$20-40/night",
-      "area": "Koh Ngai Island",
-      "description": "Basic beachfront bungalows on small Koh Ngai island. Ideal for budget travelers seeking island life with immediate access to snorkeling and minimal crowds."
-    },
-    {
-      "name": "Mook Dee Bungalow",
-      "category": "budget",
-      "priceRange": "$25-35/night",
-      "area": "Pak Meng",
-      "description": "Simple bungalows near Pak Meng Beach with easy access to island tour departures. Close to seafood restaurants and an authentic local beach experience."
-    },
-    {
-      "name": "Trang Palace Hotel",
-      "category": "midrange",
-      "priceRange": "$50-90/night",
+      "priceRange": "$8-20/night",
       "area": "Town Center",
-      "description": "Established hotel with solid amenities including restaurant and tour desk. Central location for exploring the city's food culture and organizing day trips to islands."
-    },
-    {
-      "name": "Koh Muk Sivalai Beach Resort",
-      "category": "luxury",
-      "priceRange": "$120-200/night",
-      "area": "Koh Muk Island",
-      "description": "Upscale beachfront resort with direct Emerald Cave access and water activities included. Features Thai-style architecture with modern comfort and sunset dining overlooking pristine beaches."
-    },
-    {
-      "name": "Kradan Khaolak Resort",
-      "category": "luxury",
-      "priceRange": "$150-250/night",
-      "area": "Koh Kradan Island",
-      "description": "Premium island resort with personalized service and curated island experiences. Offers yoga, wellness, and gourmet dining with exclusive access to the island's best snorkeling spots."
-    },
-    {
-      "name": "Trang Riverside Boutique",
-      "category": "midrange",
-      "priceRange": "$55-95/night",
-      "area": "Riverside District",
-      "description": "Contemporary boutique hotel with garden setting overlooking local life. Combines modern amenities with traditional Thai hospitality and provides excellent restaurant recommendations."
+      "description": "Social hostel popular with backpackers. Staff organize group tours to Emerald Cave and Koh Kradan."
     }
   ],
-  "gettingAround": "Trang town is small enough to explore on foot for most attractions within the city center. Tuk-tuks are the primary local transport and operate on fixed routes or can be hired for specific journeys; short trips within town typically cost 30-50 THB ($1-2). Songthaews (shared red taxis) run fixed routes between Trang town and Pak Meng Beach and other nearby areas, accommodating multiple passengers at very affordable rates. For island hopping, Pak Meng Beach is the main departure point for speedboats to Koh Kradan, Koh Muk, Koh Ngai, and Koh Libong; many hotels can arrange bookings or you can arrange directly at the beach. Motorbike rental is popular for exploring beaches and nearby attractions at approximately 150-250 THB ($5-8) per day. Grab (Thailand's ride-hailing app) operates in Trang for more convenient transportation with transparent pricing, though it's less prevalent than in major tourist cities.",
+  "gettingAround": "Trang town is small and walkable for most city center attractions. Tuk-tuks are the primary local transport operating on fixed routes or for hire; short trips within town typically cost 30-50 THB ($1-2). Songthaews (shared red taxis) run fixed routes between Trang town and Pak Meng Beach and other nearby areas at very affordable rates (20-40 THB per trip). For island hopping, Pak Meng Beach is the main departure point for speedboats to Koh Kradan, Koh Muk, Koh Ngai, and Koh Libong; hotels can arrange bookings or arrangements can be made directly at the beach. Motorbike rental is popular for exploring beaches and nearby attractions at approximately 150-250 THB ($5-8) per day. Grab ride-hailing app operates in Trang with transparent pricing, though less prevalent than in major cities.",
   "bestTimeToVisit": "Trang's best travel season runs from November to February, when the weather is dry and pleasant with temperatures around 25-30°C (77-86°F). This period offers the most stable conditions for island activities and beach time. March to May brings hot and humid weather with temperatures exceeding 35°C (95°F), making outdoor activities more challenging but fewer tourists. The southwest monsoon from May to October brings heavy rainfall and rough seas, making island tours less frequent and water activities riskier—many island resorts reduce operations during this period. Trang is slightly less affected by monsoons than some areas, but September and October are still the wettest months. For food-focused visits, any season works since the night markets and restaurants operate year-round. If combining island trips with food exploration, November through January provides the optimal balance of excellent weather and manageable crowds.",
   "budgetGuide": {
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget travelers can stay in basic guesthouses (15-30 USD/night), eat at night markets and street stalls (2-4 USD per meal), use tuk-tuks and songthaews for transport (1-2 USD per ride), and enjoy free or cheap attractions like Pak Meng Beach. Island day trips cost 10-15 USD with basic tour operators. Daily total: $25-40."
+      "description": "Budget travelers stay in basic guesthouses (500-800 THB/$15-25/night), eat at night markets and street stalls (60-150 THB/$2-4 per meal), use tuk-tuks and songthaews (30-50 THB/$1-2 per ride), and enjoy free attractions like Pak Meng Beach. Island day trips cost 300-500 THB ($10-15). Daily total: 600-1,200 THB ($20-40)."
     },
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Mid-range travelers stay in comfortable hotels with amenities (45-80 USD/night), dine at quality local restaurants and some tourist spots (5-10 USD per meal), use Grab occasionally (2-4 USD per ride), and pay entrance fees for attractions like Emerald Cave (6 USD) and Hat Chao Mai (6 USD). Private island tours run 25-40 USD. Daily total: $60-100."
+      "description": "Mid-range travelers stay in comfortable hotels (1,500-2,500 THB/$45-75/night), dine at quality local restaurants (150-350 THB/$5-10 per meal), use Grab occasionally (60-150 THB/$2-4 per ride), and pay entrance fees for Emerald Cave (200 THB/$6) and Hat Chao Mai (200 THB/$6). Private island tours cost 750-1,200 THB ($25-40). Daily total: 1,800-3,000 THB ($60-100)."
     },
     "luxury": {
       "min": 150,
       "max": 400,
-      "description": "Luxury visitors stay at beachfront or island resorts (120-250 USD/night), dine at upscale restaurants and resorts (15-30 USD per meal), use private transportation or guides (50+ USD daily), and book exclusive tours and activities (60-100 USD per activity). Multi-day island packages and wellness experiences add premium costs. Daily total: $200-400."
+      "description": "Luxury visitors stay at beachfront or island resorts (3,600-7,500 THB/$120-250/night), dine at upscale restaurants (450-900 THB/$15-30 per meal), use private transportation or guides (1,500+ THB/$50+/day), and book exclusive tours (1,800-3,000 THB/$60-100 per activity). Multi-day island packages and wellness experiences add premium costs. Daily total: 6,000-12,000 THB ($200-400)."
     }
   },
   "safetyTips": "Trang is generally a safe destination with low violent crime rates. The local population is friendly and welcoming to visitors. Standard precautions apply: avoid displaying expensive jewelry or electronics, secure valuables in hotel safes, and be cautious with purses and bags in crowded night markets. When visiting islands, follow safe boating practices—wear life jackets, check weather conditions before departure, and use reputable tour operators. Road safety is important; if renting a motorbike, wear helmets and drive defensively as local traffic can be chaotic. Avoid traveling alone at night in unfamiliar areas and stick to well-lit, populated streets. The rainy season (September-October) can bring rough seas and occasional flooding in low-lying areas—check conditions before island trips. Political demonstrations are rare but possible; avoid any large gatherings. Overall, Trang remains one of Thailand's safest and most peaceful destinations.",
   "faq": [
     {
       "question": "How do I get to Trang from Phuket or Krabi?",
-      "answer": "From Phuket, it's approximately 3 hours by car (180 km) heading south through Phang Nga. From Krabi, it's about 2-2.5 hours (130 km) heading south. Most visitors rent a car or take a minivan/bus from these cities. The nearest airport is Trang Airport (TST) with limited domestic flights, or you can fly into Phuket or Krabi airports and drive/take transport to Trang."
+      "answer": "From Phuket, it's approximately 3 hours by car (180 km) heading south through Phang Nga. From Krabi, it's about 2-2.5 hours (130 km) heading south. Most visitors rent a car or take a minivan/bus from these cities (400-600 THB/$12-18). Trang Airport (TST) has limited domestic flights, or fly into Phuket (HKT) or Krabi (HKT) and arrange ground transport."
     },
     {
       "question": "What is the Emerald Cave and how do I visit it?",
-      "answer": "The Emerald Cave (Tham Morakot) is on Koh Muk island. You swim approximately 80 meters through a limestone cave to emerge in an emerald-green lagoon with a hidden beach inside the island. Entry fee is 200 THB ($6). Boats depart from Pak Meng Beach; a full tour costs 10-15 USD. Tours typically operate 8am-3pm, and you'll need reasonable swimming ability and comfort in water."
+      "answer": "The Emerald Cave (Tham Morakot) is on Koh Muk island. You swim approximately 80 meters through a limestone cave to emerge in an emerald-green lagoon with a hidden beach inside the island. Entry fee is 200 THB ($6). Boats depart from Pak Meng Beach; a full tour costs 300-500 THB ($10-15). Tours typically operate 8am-3pm, and reasonable swimming ability is required."
     },
     {
       "question": "What is Trang famous for eating?",
-      "answer": "Trang is renowned throughout Thailand for roasted pork (Moo Yang), which is available everywhere. Dim sum is a famous breakfast tradition with numerous shops serving fresh offerings. Fresh seafood is abundant and affordable. The food here uses less sugar than northern Thailand and balances heat and flavor exceptionally well. The night market offers authentic southern Thai street food at budget prices."
-    },
-    {
-      "question": "Is Trang good for island hopping?",
-      "answer": "Absolutely. Trang has easy access to pristine islands including Koh Kradan (excellent beaches and snorkeling), Koh Muk (home to Emerald Cave), Koh Ngai (small island with coral gardens), Koh Libong (dugong watching), and others. Most islands have minimal development, offering an authentic island experience. Island tours depart from Pak Meng Beach at 10-15 USD per person for day trips."
+      "answer": "Trang is renowned throughout Thailand for roasted pork (Moo Yang), available everywhere at street stalls and restaurants. Dim sum is a famous breakfast tradition with numerous shops serving fresh steamed dumplings and buns. Fresh seafood is abundant and affordable. Southern Thai cuisine here uses less sugar than northern regions and balances heat and flavor exceptionally well. The night market offers authentic street food at budget prices (60-200 THB per item)."
     },
     {
       "question": "When is the best time to visit Trang?",
-      "answer": "November to February is ideal with dry weather, temperatures 25-30°C (77-86°F), and calm seas for island activities. December-January are peak but crowded. Avoid May-October monsoon season when heavy rain and rough seas limit island access. March-April is very hot (35°C+) but has fewer tourists. Consider visiting September-October only if you don't mind rain and reduced boat services."
+      "answer": "The best season runs November to February when weather is dry and pleasant (25-30°C/77-86°F). Island activities and beach time are most favorable. March-May brings hot, humid weather (35°C+/95°F+) with fewer tourists. The southwest monsoon (May-October) brings heavy rainfall and rough seas; many island resorts reduce operations. September-October are the wettest months. For combined island trips and food exploration, November-January is optimal."
     },
     {
-      "question": "How much does a night out at Trang Night Market cost?",
-      "answer": "Extremely affordable. You can eat several dishes—pad thai, skewered meats, noodle soup, fresh fruit—for 30-50 THB ($1-1.50) per item. A complete meal with multiple dishes costs 60-100 THB ($2-3). Soft drinks are 10-15 THB (30-50 cents). It's the most budget-friendly way to experience authentic southern Thai food."
-    },
-    {
-      "question": "Do I need a boat trip to visit Koh Kradan?",
-      "answer": "Yes, Koh Kradan is an island and requires boat transportation from Pak Meng Beach. Standard longtail boat tours operate 8am-3pm with 2-3 departures daily when weather permits. Cost is approximately 10-15 USD per person for a day trip. The 30-40 minute boat ride is scenic and calm during high season (November-February). Several resorts on Koh Kradan also offer accommodation if you want to stay overnight."
+      "question": "Are there direct flights to Trang?",
+      "answer": "Trang Airport (TST) has limited domestic flights, primarily from Bangkok. Most international visitors fly into Phuket International Airport (HKT, 3 hours away) or Krabi International Airport (2-2.5 hours away) and arrange ground transport (1,200-1,800 THB/$40-60 by car or minivan). Direct taxis and car rentals are available from both airports."
     }
   ],
   "practicalInfo": {
@@ -447,14 +491,14 @@
       "Jan",
       "Feb"
     ],
-    "nearestAirport": "Trang Airport (TST) - Limited domestic flights; alternatively Phuket International Airport (HKT) 3 hours away or Krabi International Airport (HKT) 2-2.5 hours away",
-    "travelTimeFromAirport": "From Trang Airport: 20 minutes to town center | From Phuket: 3 hours by car | From Krabi: 2-2.5 hours by car",
+    "nearestAirport": "Trang Airport (TST) - Limited domestic flights; alternatively Phuket International Airport (HKT) 3 hours away or Krabi International Airport 2-2.5 hours away",
+    "travelTimeFromAirport": "From Trang Airport: 20 minutes to town center | From Phuket: 3 hours by car (180 km) | From Krabi: 2-2.5 hours by car (130 km)",
     "localTransport": [
-      "Tuk-tuk",
-      "Songthaew (shared red taxi)",
+      "Tuk-tuk (30-50 THB per trip)",
+      "Songthaew/shared red taxi (20-40 THB per trip)",
       "Grab app",
-      "Motorbike rental",
-      "Longtail boats (for islands)"
+      "Motorbike rental (150-250 THB per day)",
+      "Longtail boats for islands (300-500 THB per day tour)"
     ]
   },
   "enrichedAt": "2026-02-22T13:08:38.091Z",
@@ -484,5 +528,92 @@
       "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Trang.",
       "Emerald Cave (Tham Morakot)": "Visit Emerald Cave (Tham Morakot) during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
     }
-  }
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Emerald Cave (Tham Morakot)",
+      "description": "An 80-meter swim through limestone cave leads to an emerald-green lagoon and hidden beach inside Koh Muk island. One of Thailand's most spectacular natural attractions.",
+      "location": "Koh Muk Island",
+      "entrance_fee": "200 THB ($6 USD)",
+      "highlights": [
+        "Hidden inland beach",
+        "Limestone cave swimming",
+        "Emerald lagoon views"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Koh Kradan",
+      "description": "Pristine white sand beach with excellent coral reef snorkeling and spectacular sunsets. Known for marine biodiversity and clear turquoise waters.",
+      "location": "Trang Archipelago",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Coral reef snorkeling",
+        "White sand beaches",
+        "Sunset views"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Hat Chao Mai National Park",
+      "description": "Coastal park protecting mangrove forests and seagrass beds where dugongs can be spotted in their natural habitat. Important for marine conservation.",
+      "location": "Hat Chao Mai",
+      "entrance_fee": "200 THB ($6 USD)",
+      "highlights": [
+        "Dugong watching",
+        "Mangrove forests",
+        "Seagrass beds"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Koh Libong",
+      "description": "Island known for wild dugong watching in extensive seagrass beds. Offers peaceful beaches and authentic local island experience.",
+      "location": "Trang Archipelago",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Dugong spotting",
+        "Seagrass beds",
+        "Local village experience"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Pak Meng Beach",
+      "description": "Long sandy beach serving as the main departure point for island tours and speedboat services. Features fresh seafood restaurants and free beach access.",
+      "location": "Pak Meng",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Speedboat departure point",
+        "Seafood restaurants",
+        "Long sandy shore"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Koh Ngai",
+      "description": "Small island offering excellent beachfront snorkeling opportunities with abundant marine life and tranquil beach setting.",
+      "location": "Trang Archipelago",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Beachfront snorkeling",
+        "Marine life",
+        "Quiet beaches"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Phraya Ratsadanupradit Monument",
+      "description": "Historical monument in tree-lined plaza near the morning market offering insight into local history and culture. Small cultural landmark in city center.",
+      "location": "Trang Town Center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Local history",
+        "Morning market proximity",
+        "Cultural significance"
+      ]
+    }
+  ],
+  "factchecked_at": "2026-03-08T18:47:20.389Z"
 }

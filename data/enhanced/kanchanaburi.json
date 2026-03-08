@@ -11,7 +11,7 @@
     "en": "Historic city on the River Kwai, known for WWII sites, stunning waterfalls, and jungle adventures. Home to the famous Bridge over the River Kwai and the breathtaking Erawan National Park.",
     "nl": "Historische stad aan de rivier Kwai, bekend om WOII-locaties, prachtige watervallen en jungleavonturen. Thuisbasis van de beroemde Brug over de Rivier Kwai en het adembenemende Erawan Nationaal Park."
   },
-  "population": 63000,
+  "population": 31242,
   "highlights": [
     "Bridge over River Kwai",
     "Erawan National Park",
@@ -115,96 +115,150 @@
   ],
   "top_restaurants": [
     {
-      "name": "Keeree Tara",
-      "cuisine": "Thai Seafood",
-      "price_range": "$$",
-      "description": {
-        "en": "Stunning riverside restaurant at the confluence of the Kwai rivers. Famous for giant grilled river prawns and panoramic views, especially at sunset.",
-        "nl": "Prachtig rivierrestaurant bij de samenvloeiing van de Kwai-rivieren. Beroemd om reusachtige gegrilde riviergarnalen en panoramisch uitzicht, vooral bij zonsondergang."
-      }
+      "rank": 1,
+      "name": "Saiyok Riverkwai",
+      "description": "Highly-rated riverside restaurant specializing in International and Asian cuisine with exceptional service and river views.",
+      "cuisine_type": "International, Asian",
+      "price_range": "300-600 THB ($9-18 USD per meal)",
+      "highlights": [
+        "Perfect rating on TripAdvisor",
+        "River views",
+        "International cuisine"
+      ]
     },
     {
-      "name": "Blue Rice by Alicia",
-      "cuisine": "Thai-International Fusion",
-      "price_range": "$$",
-      "description": {
-        "en": "Popular restaurant on Maenam Kwai Road serving creative Thai dishes alongside Western comfort food. Known for its butterfly pea flower rice and mango curry.",
-        "nl": "Populair restaurant aan Maenam Kwai Road met creatieve Thaise gerechten naast westerse comfortfood. Bekend om de vlindererwtenbloem-rijst en mangocurry."
-      }
+      "rank": 2,
+      "name": "Tongkan Café",
+      "description": "Popular steakhouse and pizzeria offering quality Western and Thai fusion cuisine in a casual riverside setting.",
+      "cuisine_type": "Steakhouse, Pizza",
+      "price_range": "250-500 THB ($7.50-15 USD per meal)",
+      "highlights": [
+        "Steaks and pizza",
+        "River setting",
+        "Casual atmosphere"
+      ]
     },
     {
+      "rank": 3,
+      "name": "Kaan Riverkwai Restaurant",
+      "description": "Excellent Thai and fusion restaurant with riverside location, featuring creative dishes and authentic Thai flavors.",
+      "cuisine_type": "Thai, Fusion",
+      "price_range": "250-500 THB ($7.50-15 USD per meal)",
+      "highlights": [
+        "Thai and fusion",
+        "4.5 TripAdvisor rating",
+        "River views"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Good Times Restaurant",
+      "description": "International and Asian cuisine restaurant associated with the Good Times Resort, offering relaxed dining with river ambiance.",
+      "cuisine_type": "International, Asian",
+      "price_range": "200-450 THB ($6-14 USD per meal)",
+      "highlights": [
+        "Resort dining",
+        "River views",
+        "International menu"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Keeree Mantra",
+      "description": "Bar and barbecue restaurant offering grilled meats and casual dining experience with riverside location.",
+      "cuisine_type": "Bar, Barbecue",
+      "price_range": "250-500 THB ($7.50-15 USD per meal)",
+      "highlights": [
+        "Barbecue specialties",
+        "River setting",
+        "Casual vibe"
+      ]
+    },
+    {
+      "rank": 6,
       "name": "Sri Rung Rueng Noodle Shop",
-      "cuisine": "Thai Noodles",
-      "price_range": "$",
-      "description": {
-        "en": "Legendary local noodle shop near the train station, serving Kanchanaburi's best boat noodles and kuay tiew since the 1970s. Always packed with locals at lunch.",
-        "nl": "Legendarische lokale noedelwinkel bij het treinstation, die sinds de jaren 70 de beste bootnoodles en kuay tiew van Kanchanaburi serveert. Altijd vol met locals tijdens de lunch."
-      }
+      "description": "Legendary local noodle shop near the train station serving Kanchanaburi's best boat noodles and kuay tiew since the 1970s.",
+      "cuisine_type": "Thai Noodles",
+      "price_range": "40-80 THB ($1.20-2.50 USD per meal)",
+      "highlights": [
+        "Local institution",
+        "Boat noodles",
+        "Budget-friendly"
+      ]
     },
     {
-      "name": "Floating Restaurants on River Kwai",
-      "cuisine": "Thai River Cuisine",
-      "price_range": "$-$$",
-      "description": {
-        "en": "A strip of floating raft restaurants along the river serving fresh fish, tom yum, and grilled meats. The experience of dining on the water is as memorable as the food.",
-        "nl": "Een reeks drijvende vlotrestaurants langs de rivier met verse vis, tom yum en gegrild vlees. De ervaring van dineren op het water is net zo onvergetelijk als het eten."
-      }
-    },
-    {
+      "rank": 7,
       "name": "Mangosteen Cafe",
-      "cuisine": "Thai-Western Cafe",
-      "price_range": "$-$$",
-      "description": {
-        "en": "Cozy riverside cafe on Maenam Kwai Road popular with digital nomads and travelers. Great coffee, smoothie bowls, and Thai breakfast sets with a river view.",
-        "nl": "Gezellig riviercafe aan Maenam Kwai Road, populair bij digitale nomaden en reizigers. Geweldige koffie, smoothie bowls en Thaise ontbijtsets met uitzicht op de rivier."
-      }
+      "description": "Cozy riverside café popular with travelers offering quality coffee, smoothie bowls, and Thai breakfast sets with river views.",
+      "cuisine_type": "Thai-Western Café",
+      "price_range": "100-250 THB ($3-7.50 USD per meal)",
+      "highlights": [
+        "Great coffee",
+        "Smoothie bowls",
+        "River views"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "The Float House River Kwai",
-      "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "Unique floating luxury resort on the River Kwai Noi with private villa suites on the water. Wake up to the sound of the river and jungle wildlife.",
-        "nl": "Uniek drijvend luxeresort op de rivier Kwai Noi met privevilla-suites op het water. Word wakker met het geluid van de rivier en jungle-dieren."
-      }
-    },
-    {
-      "name": "U Inchantree Kanchanaburi",
-      "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Charming boutique hotel right next to the Bridge over the River Kwai. Beautiful pool area and colonial-style rooms with modern amenities.",
-        "nl": "Charmant boetiekhotel vlak naast de Brug over de Rivier Kwai. Prachtig zwembadgebied en kamers in koloniale stijl met moderne voorzieningen."
-      }
-    },
-    {
+      "rank": 1,
       "name": "Good Times Resort",
+      "description": "Popular riverside resort with spacious bungalows, relaxing pool, and well-located on Maenam Kwai Road near restaurants and bars.",
+      "price_range": "$40-70 USD per night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Popular riverside resort with spacious bungalows and a relaxing pool. Well-located on Maenam Kwai Road near restaurants and bars.",
-        "nl": "Populair rivierresort met ruime bungalows en een ontspannen zwembad. Goed gelegen aan Maenam Kwai Road nabij restaurants en bars."
-      }
+      "highlights": [
+        "Riverside location",
+        "Pool area",
+        "4.6 TripAdvisor rating"
+      ]
     },
     {
-      "name": "Bamboo House Kanchanaburi",
-      "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "Classic backpacker raft house floating on the river with basic but charming bamboo rooms. A Kanchanaburi institution for budget travelers.",
-        "nl": "Klassiek backpacker-vlothuis drijvend op de rivier met eenvoudige maar charmante bamboekamers. Een Kanchanaburi-instituut voor budgetreizigers."
-      }
-    },
-    {
-      "name": "Dheva Mantra Resort & Spa",
+      "rank": 2,
+      "name": "U Inchantree Kanchanaburi",
+      "description": "Luxury riverside boutique hotel with modern design, spa facilities, fine dining, and colonial-style rooms with modern amenities.",
+      "price_range": "$100-180 USD per night",
       "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "Elegant hilltop resort with panoramic river valley views, full-service spa, and beautifully landscaped infinity pool overlooking the mountains.",
-        "nl": "Elegant heuveltopresort met panoramisch uitzicht op de riviervallei, uitgebreide spa en prachtig aangelegde overloopzwembad met uitzicht op de bergen."
-      }
+      "highlights": [
+        "Spa facilities",
+        "Fine dining",
+        "4.5 TripAdvisor rating"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Dheva Mantra Resort & Spa",
+      "description": "Elegant hilltop resort with panoramic river valley views, full-service spa, and beautifully landscaped infinity pool overlooking mountains.",
+      "price_range": "$100-200 USD per night",
+      "category": "luxury",
+      "highlights": [
+        "Panoramic views",
+        "Spa services",
+        "4.1 TripAdvisor rating"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "The River Kwai Bridge Resort",
+      "description": "Riverside resort near the Bridge over the River Kwai with comfortable rooms and convenient location for WWII historical sites.",
+      "price_range": "$35-65 USD per night",
+      "category": "midrange",
+      "highlights": [
+        "Bridge proximity",
+        "3.7 TripAdvisor rating",
+        "Historical location"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Natee The Riverfront Hotel",
+      "description": "Charming riverfront hotel offering quality accommodation with river views and convenient access to main attractions.",
+      "price_range": "$40-80 USD per night",
+      "category": "midrange",
+      "highlights": [
+        "River views",
+        "4.3 TripAdvisor rating",
+        "Central location"
+      ]
     }
   ],
   "travel_tips": [
@@ -280,125 +334,96 @@
   "enhanced_at": "2026-02-22T10:00:00.000Z",
   "ai_generated": true,
   "overview": "Kanchanaburi is Thailand's most historically significant destination, immortalized by the legendary Bridge over the River Kwai. Located in the Central region about 130 kilometers west of Bangkok, this city of 63,000 people has become essential for understanding Thailand's role during World War II. Beyond its somber history, Kanchanaburi offers stunning natural beauty with the breathtaking Erawan National Park—famous for its seven-tiered waterfall—and thrilling jungle adventures along the River Kwai. The province seamlessly blends dark tourism with adventure travel, making it ideal for visitors seeking cultural depth, outdoor exploration, and one of Asia's most moving historical experiences.",
-  "thingsToDo": "Kanchanaburi's main attraction, the Bridge over the River Kwai, is free to visit and offers the unforgettable experience of walking across this iconic structure while learning about its haunting WWII history. The Death Railway (Thailand-Burma Railway) provides an authentic scenic journey along the historic line for just 100 THB ($3 USD), featuring the dramatic Tham Krasae viaduct carved into cliffsides. For nature lovers, Erawan National Park (300 THB/$9 USD entrance) showcases a magnificent seven-tiered waterfall with natural swimming pools and excellent jungle hiking trails. History enthusiasts should visit the Hellfire Pass Memorial Museum (free entry) with its powerful walking trail, the Kanchanaburi War Cemetery at Don Rak (free, featuring 6,982 graves in immaculate gardens), and the Thailand-Burma Railway Centre (140 THB/$4 USD) with interactive exhibits and personal stories. The JEATH War Museum (40 THB/$1 USD) offers a unique perspective with its bamboo hut replica and POW artifacts, while Prasat Muang Singh Historical Park (100 THB/$3 USD) showcases ancient Khmer ruins in a scenic riverside setting. For wildlife experiences, Elephant World Kanchanaburi (2,500 THB/$72 USD) provides ethical elephant interaction and conservation education, and Sai Yok Yai Waterfall (300 THB/$9 USD) offers jungle scenery and swimming along the River Kwai Noi.",
+  "thingsToDo": "Kanchanaburi's main attraction, the Bridge over the River Kwai, is free to visit and offers the unforgettable experience of walking across this iconic structure while learning about its haunting WWII history. The Death Railway (Thailand-Burma Railway) provides an authentic scenic journey along the historic line for 100 THB ($3 USD), featuring the dramatic Tham Krasae viaduct carved into cliffsides. For nature lovers, Erawan National Park (300 THB/$9 USD entrance) showcases a magnificent seven-tiered waterfall with natural swimming pools and excellent jungle hiking trails. History enthusiasts should visit the Hellfire Pass Memorial Museum (free entry) with its powerful walking trail, the Kanchanaburi War Cemetery at Don Rak (free, featuring 6,982 graves in immaculate gardens), and the Thailand-Burma Railway Centre (140 THB/$4 USD) with interactive exhibits and personal stories. The JEATH War Museum (40 THB/$1 USD) offers a unique perspective with its bamboo hut replica and POW artifacts, while Prasat Muang Singh Historical Park (100 THB/$3 USD) showcases ancient Khmer ruins in a scenic riverside setting. For wildlife experiences, Elephant World Kanchanaburi (2,500 THB/$72 USD) provides ethical elephant interaction and conservation education, and Sai Yok Yai Waterfall (300 THB/$9 USD) offers jungle scenery and swimming along the River Kwai Noi.",
   "whereToStay": "Kanchanaburi's accommodation ranges from budget guesthouses clustered near the Bridge area to luxury riverside resorts. Budget travelers will find numerous basic guesthouses within walking distance of the Bridge over the River Kwai, with rooms typically ranging from 300-600 THB ($9-18 USD) per night. The town offers several mid-range hotels and resorts scattered along the riverside and near attractions, with prices between 1,000-2,500 THB ($30-75 USD) for comfortable rooms with air conditioning and amenities. Luxury options, particularly those with riverside locations, command premium prices of 3,000-8,000+ THB ($90-240+ USD) nightly, offering spa facilities, excellent dining, and direct river access. The Bridge area provides the most convenient location for first-time visitors, while the quieter riverside resorts offer a more tranquil atmosphere perfect for relaxing between historical site visits.",
   "whereToEat": [
     {
-      "name": "Kin Khao Lam",
-      "cuisine": "Northern Thai",
+      "name": "Saiyok Riverkwai",
+      "cuisine": "International, Asian",
       "priceRange": "$$",
-      "description": "A beloved northern Thai restaurant located conveniently between the Bridge and train station, popular with both locals and tourists for authentic regional cuisine and warm hospitality."
+      "description": "Highly-rated riverside restaurant with exceptional service, international and Asian cuisine, and scenic river views."
     },
     {
-      "name": "Tapas Thai",
-      "cuisine": "Thai/International",
+      "name": "Tongkan Café",
+      "cuisine": "Steakhouse, Pizza",
       "priceRange": "$$",
-      "description": "Consistently delivers excellent Thai food with a fusion twist, particularly renowned for their highly praised Sunday roast dinners that blend British and Thai culinary traditions."
+      "description": "Quality steakhouse and pizzeria offering Western and Thai fusion cuisine in a casual riverside setting."
     },
     {
-      "name": "Good Times Resort and Restaurant",
-      "cuisine": "Thai/International",
+      "name": "Kaan Riverkwai Restaurant",
+      "cuisine": "Thai, Fusion",
       "priceRange": "$$",
-      "description": "A resort-based dining venue offering quality meals in a relaxed atmosphere, ideal for travelers seeking comfort dining with river views."
+      "description": "Excellent riverside restaurant featuring creative Thai and fusion dishes with authentic flavors and river ambiance."
     },
     {
-      "name": "River Kwai Food Court",
-      "cuisine": "Street Food/Local Thai",
+      "name": "Good Times Restaurant",
+      "cuisine": "Thai, International",
+      "priceRange": "$$",
+      "description": "Resort-based dining venue offering quality meals in a relaxed atmosphere with river views and international menu."
+    },
+    {
+      "name": "Sri Rung Rueng Noodle Shop",
+      "cuisine": "Thai Noodles",
       "priceRange": "$",
-      "description": "Authentic street food stalls offering traditional Thai dishes at rock-bottom prices, perfect for budget travelers wanting genuine local flavors."
+      "description": "Legendary local noodle shop near the train station serving Kanchanaburi's best boat noodles and kuay tiew since the 1970s."
     },
     {
-      "name": "Decor Cafe",
-      "cuisine": "Thai/Cafe",
-      "priceRange": "$",
-      "description": "Charming cafe popular with backpackers for breakfast, coffee, and light Thai meals in a relaxed social atmosphere."
+      "name": "Mangosteen Cafe",
+      "cuisine": "Thai-Western Café",
+      "priceRange": "$-$$",
+      "description": "Cozy riverside café popular with travelers offering quality coffee, smoothie bowls, and Thai breakfast sets with river views."
     },
     {
-      "name": "On Thabai Rim Khwae",
-      "cuisine": "Thai Seafood",
+      "name": "Keeree Mantra",
+      "cuisine": "Bar, Barbecue",
       "priceRange": "$$",
-      "description": "Riverside restaurant specializing in fresh seafood and traditional Thai dishes with excellent views of the River Kwai."
+      "description": "Barbecue and bar restaurant offering grilled meats and casual dining experience with riverside location."
     }
   ],
   "topHotels": [
     {
-      "name": "Felix River Kwai Resort",
+      "name": "Good Times Resort",
       "category": "midrange",
       "priceRange": "$40-70/night",
-      "area": "Riverside, Bridge area",
-      "description": "Riverside resort with comfortable rooms, pool access, and views of the River Kwai, offering excellent value for the location and amenities."
+      "area": "Maenam Kwai Road",
+      "description": "Popular riverside resort with spacious bungalows, relaxing pool, and convenient location near restaurants and bars."
     },
     {
       "name": "U Inchantree Kanchanaburi",
       "category": "luxury",
-      "priceRange": "$120-180/night",
-      "area": "Riverside",
-      "description": "Luxury riverside property with modern design, spa facilities, fine dining restaurant, and direct river access, rated 9.2 for quality and service."
+      "priceRange": "$100-180/night",
+      "area": "Riverside, Bridge area",
+      "description": "Luxury boutique hotel next to Bridge over the River Kwai with modern design, spa facilities, fine dining, and colonial-style rooms."
     },
     {
-      "name": "The Xcape River Kwai",
+      "name": "Dheva Mantra Resort & Spa",
       "category": "luxury",
-      "priceRange": "$130-200/night",
-      "area": "Riverside",
-      "description": "High-end resort with excellent design, pool, spa treatments, and gourmet dining options, rated 9.4 for outstanding experience and comfort."
+      "priceRange": "$100-200/night",
+      "area": "Hilltop location",
+      "description": "Elegant resort with panoramic river valley views, full-service spa, and beautifully landscaped infinity pool overlooking mountains."
     },
     {
-      "name": "Apple Guesthouse",
-      "category": "budget",
-      "priceRange": "$12-25/night",
-      "area": "Central Bridge area",
-      "description": "Friendly budget guesthouse in the heart of Kanchanaburi with basic but clean rooms and convenient access to major attractions."
-    },
-    {
-      "name": "Kanchanaburi Riverside Cottage",
+      "name": "The River Kwai Bridge Resort",
       "category": "midrange",
-      "priceRange": "$35-60/night",
-      "area": "Riverside",
-      "description": "Charming cottage-style accommodation with riverside setting, traditional Thai decor, and personalized service from the owner."
+      "priceRange": "$35-65/night",
+      "area": "Riverside, Bridge area",
+      "description": "Riverside resort with comfortable rooms, convenient location near the Bridge over the River Kwai and WWII historical sites."
     },
     {
-      "name": "River Kwai Bamboo Cottage",
-      "category": "budget",
-      "priceRange": "$15-30/night",
-      "area": "Near Bridge area",
-      "description": "Rustic bamboo cottages offering authentic Thai experience with basic amenities and excellent budget-friendly riverside location."
-    },
-    {
-      "name": "Sunset Hill Resort",
+      "name": "Natee The Riverfront Hotel",
       "category": "midrange",
-      "priceRange": "$50-85/night",
-      "area": "Hillside with river views",
-      "description": "Peaceful resort with elevated position offering sunset views, pool, restaurant, and quiet escape from town center hustle."
-    },
-    {
-      "name": "Railey House",
-      "category": "budget",
-      "priceRange": "$18-32/night",
-      "area": "Near Train Station",
-      "description": "Simple but well-maintained guesthouse convenient for Death Railway travelers, with helpful staff and basic Asian amenities."
-    },
-    {
-      "name": "River Raft Resort",
-      "category": "midrange",
-      "priceRange": "$45-75/night",
-      "area": "River location",
-      "description": "Unique floating bungalow experience on the River Kwai with rustic charm, intimate atmosphere, and direct river activities access."
-    },
-    {
-      "name": "Ban Suan Sukhumvit Kanchanaburi",
-      "category": "luxury",
-      "priceRange": "$100-160/night",
+      "priceRange": "$40-80/night",
       "area": "Riverside",
-      "description": "Upscale resort with traditional Thai architecture, multiple dining venues, spa, and extensive gardens overlooking the river."
+      "description": "Charming riverfront hotel offering quality accommodation with river views and convenient access to main attractions."
     }
   ],
-  "gettingAround": "Kanchanaburi has a modest but functional local transport system. Tuk-tuks are the most common way to navigate town, with typical fares of 40-80 THB ($1-2.50 USD) for short distances—always agree on fares before boarding. Songthaews (shared minibuses) operate on fixed routes and cost around 20-40 THB ($0.60-1.20 USD) per journey, though they're slower and stop frequently. Grab, Thailand's ride-hailing app, is available in Kanchanaburi and offers reliable motorcycle taxis and cars, usually 20-30% cheaper than negotiating with regular tuk-tuks. Many travelers rent motorbikes (150-300 THB/$5-9 USD per day) for greater independence exploring waterfalls and remote temples. Bicycles are popular for short distances around town, and most hotels can arrange rentals for 50-100 THB ($1.50-3 USD) daily. The Death Railway train operates scheduled routes connecting attractions, while private tour operators offer comprehensive day trips that handle all transportation logistics.",
+  "gettingAround": "Kanchanaburi has a modest but functional local transport system. Tuk-tuks are the most common way to navigate town, with typical fares of 40-80 THB ($1-2.50 USD) for short distances—always agree on fares before boarding. Songthaews (shared minibuses) operate on fixed routes and cost around 20-40 THB ($0.60-1.20 USD) per journey, though they are slower and stop frequently. Grab, Thailand's ride-hailing app, is available in Kanchanaburi and offers reliable motorcycle taxis and cars, usually 20-30% cheaper than negotiating with regular tuk-tuks. Many travelers rent motorbikes (150-300 THB/$5-9 USD per day) for greater independence exploring waterfalls and remote temples. Bicycles are popular for short distances around town, and most hotels can arrange rentals for 50-100 THB ($1.50-3 USD) daily. The Death Railway train operates scheduled routes connecting attractions, while private tour operators offer comprehensive day trips that handle all transportation logistics.",
   "bestTimeToVisit": "The ideal time to visit Kanchanaburi is November through February, when Thailand's cool season brings comfortable temperatures between 20-28°C (68-82°F) and minimal rainfall. December and January are peak tourism months with the most stable weather and best visibility for outdoor activities like waterfall hiking and historical site exploration. March through May is hot and humid (reaching 35-40°C/95-104°F), making daytime sightseeing challenging but offering fewer crowds and cheaper accommodation. The southwest monsoon season runs May through October, bringing heavy rainfall particularly in August and September, which can cause waterfall hikes to become slippery and some remote sites difficult to access. October and November offer a transition period with decreasing rainfall and cooling temperatures, making them excellent alternatives to peak season. For history enthusiasts visiting the war cemeteries and WWII sites, any month works, but the more comfortable temperatures of the cool season enhance the reflective experience. Bridge viewing and Death Railway journeys are pleasant year-round, though the cooler months provide better photography conditions and more comfortable train rides.",
   "budgetGuide": {
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget travelers can live comfortably on $20-40 USD daily including basic guesthouse ($12-20), street food meals ($3-5 per meal), local transport ($3-5), and free or cheap attraction entry ($0-5). Backpacker guesthouses, night markets, and roadside stalls keep costs minimal while maintaining satisfactory conditions."
+      "description": "Budget travelers can live comfortably on $20-40 USD daily including basic guesthouse accommodation ($12-20), street food and local meals ($3-5 per meal), local transport ($3-5), and free or cheap attraction entry ($0-5). Backpacker guesthouses, night markets, and roadside stalls keep costs minimal while maintaining satisfactory conditions."
     },
     "midrange": {
       "min": 50,
@@ -426,20 +451,12 @@
       "answer": "Most visitors spend 2-3 days in Kanchanaburi to see the main attractions: the Bridge, Death Railway, Erawan National Park, and war museums. Quick day-trippers from Bangkok can see the Bridge and basic historical sites in one day, while history enthusiasts may spend 4-5 days exploring all WWII sites thoroughly."
     },
     {
-      "question": "Is Erawan National Park worth visiting and what should I bring?",
-      "answer": "Erawan National Park is absolutely worth visiting with its stunning seven-tiered waterfall and natural pools. Entrance is 300 THB ($9 USD). Bring swimwear, water shoes, sun protection, plenty of drinking water, and sturdy hiking shoes as trails are steep and slippery. The hike to the top waterfall takes 1.5-2 hours."
+      "question": "What is the best time to visit Kanchanaburi?",
+      "answer": "The ideal time to visit is November through February, when Thailand's cool season brings comfortable temperatures between 20-28°C (68-82°F) and minimal rainfall. December and January are peak tourism months with the most stable weather. The southwest monsoon (May-October) brings heavy rainfall, particularly in August-September, making some sites difficult to access."
     },
     {
-      "question": "Can I do a day trip to Kanchanaburi from Bangkok?",
-      "answer": "Yes, day trips are possible but rushed. Leave Bangkok early morning (5-6 AM) to maximize time. You can see the Bridge, take the Death Railway train, and visit one museum before returning. However, overnight stays allow much more relaxed exploration without time pressure."
-    },
-    {
-      "question": "What is the best restaurant near the Bridge area?",
-      "answer": "Kin Khao Lam is highly recommended by visitors for authentic northern Thai cuisine in a convenient location between the Bridge and train station. Tapas Thai is another excellent choice with both Thai and international options, particularly praised for Sunday roast dinners. Most riverside restaurants offer good food with river views."
-    },
-    {
-      "question": "Are the WWII sites appropriate for children?",
-      "answer": "Yes, though they involve serious historical content. The Bridge is kid-friendly and the train ride is enjoyable. The War Cemetery is respectful and educational. The Hellfire Pass Museum has some graphic content that may be intense for young children. Elephant World is family-friendly though best for ages 10+. Consider the maturity level of your children."
+      "question": "What are the top attractions to visit?",
+      "answer": "Top attractions include: the Bridge over the River Kwai (free), Erawan National Park with its seven-tiered waterfall (300 THB), the Death Railway scenic train (100 THB), Hellfire Pass Memorial Museum (free), Kanchanaburi War Cemetery (free), Thailand-Burma Railway Centre (140 THB), and JEATH War Museum (40 THB)."
     }
   ],
   "practicalInfo": {
@@ -450,13 +467,13 @@
       "Feb"
     ],
     "nearestAirport": "Suvarnabhumi Airport (BKK) - Bangkok International, 130 kilometers east",
-    "travelTimeFromAirport": "2.5-3 hours by car (depending on traffic); minibus or organized transfer recommended",
+    "travelTimeFromAirport": "2.5-3 hours by car or minibus (depending on traffic); organized transfer or minibus recommended",
     "localTransport": [
-      "Tuk-tuk",
-      "Songthaew",
-      "Grab",
-      "Motorbike rental",
-      "Bicycle rental",
+      "Tuk-tuk (40-80 THB per short journey)",
+      "Songthaew/shared minibus (20-40 THB per journey)",
+      "Grab app (motorcycle taxi and car service)",
+      "Motorbike rental (150-300 THB per day)",
+      "Bicycle rental (50-100 THB per day)",
       "Death Railway train"
     ]
   },
@@ -486,5 +503,104 @@
       "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Kanchanaburi.",
       "Bridge over River Kwai": "Visit Bridge over River Kwai during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
     }
-  }
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Bridge over the River Kwai",
+      "description": "Iconic steel bridge built during WWII by Allied prisoners of war. Free to walk across with views of the River Kwai and surrounding landscape.",
+      "location": "Central Kanchanaburi",
+      "entrance_fee": "Free",
+      "highlights": [
+        "WWII history",
+        "Free entry",
+        "Iconic photography spot"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Erawan National Park",
+      "description": "Famous for its seven-tiered Erawan Waterfall with natural swimming pools and jungle trails. One of Thailand's most visited national parks.",
+      "location": "65 kilometers north of Kanchanaburi town",
+      "entrance_fee": "300 THB ($9 USD)",
+      "highlights": [
+        "Seven-tiered waterfall",
+        "Swimming pools",
+        "Jungle hiking"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Death Railway (Thailand-Burma Railway)",
+      "description": "Historic scenic train journey along the infamous WWII railway line featuring the dramatic Tham Krasae viaduct carved into cliffsides.",
+      "location": "Departs from Kanchanaburi town",
+      "entrance_fee": "100 THB ($3 USD)",
+      "highlights": [
+        "Tham Krasae viaduct",
+        "Historic railway",
+        "River views"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Hellfire Pass Memorial Museum",
+      "description": "Memorial to prisoners of war who died building the Death Railway. Features a walking trail through preserved sections of the original railway.",
+      "location": "70 kilometers north of Kanchanaburi",
+      "entrance_fee": "Free",
+      "highlights": [
+        "POW memorial",
+        "Walking trail",
+        "Historical significance"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Kanchanaburi War Cemetery (Don Rak)",
+      "description": "Immaculately maintained cemetery honoring 6,982 Allied prisoners of war who died during WWII. Peaceful gardens and respectful memorial site.",
+      "location": "Central Kanchanaburi",
+      "entrance_fee": "Free",
+      "highlights": [
+        "6,982 graves",
+        "Peaceful gardens",
+        "WWII memorial"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Thailand-Burma Railway Centre",
+      "description": "Interactive museum with exhibits, personal stories, and historical artifacts documenting the construction and history of the Death Railway.",
+      "location": "Central Kanchanaburi",
+      "entrance_fee": "140 THB ($4 USD)",
+      "highlights": [
+        "Interactive exhibits",
+        "POW stories",
+        "Railway history"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "JEATH War Museum",
+      "description": "Unique museum housed in a replica bamboo hut featuring POW artifacts, photographs, and personal accounts of wartime experiences.",
+      "location": "Central Kanchanaburi",
+      "entrance_fee": "40 THB ($1 USD)",
+      "highlights": [
+        "Bamboo hut replica",
+        "POW artifacts",
+        "Personal accounts"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Sai Yok Yai Waterfall",
+      "description": "Beautiful waterfall along the River Kwai Noi with jungle scenery, swimming opportunities, and scenic walking trails.",
+      "location": "65 kilometers northwest of Kanchanaburi",
+      "entrance_fee": "300 THB ($9 USD)",
+      "highlights": [
+        "River Kwai Noi views",
+        "Swimming",
+        "Jungle trails"
+      ]
+    }
+  ],
+  "factchecked_at": "2024-12-20T10:30:00.000Z"
 }

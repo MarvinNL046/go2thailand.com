@@ -287,216 +287,234 @@
   "top_attractions": [
     {
       "rank": 1,
-      "name": "Koh Hong",
-      "description": "I discovered Koh Hong during a quiet day of exploring. A local fisherman, seeing my curiosity, offered to take me on a private longtail boat to this hidden paradise. The lagoon was breathtaking, surrounded by towering cliffs and lush greenery.",
-      "location": "Take a longtail boat from Ao Nang Beach; negotiate with the boatmen near the pier for a half-day trip.",
+      "name": "Railay Beach",
+      "description": "Accessible only by boat, this iconic beach features towering limestone cliffs, turquoise waters, and is renowned for rock climbing and stunning sunset views.",
+      "location": "Accessible by longtail boat from Ao Nang Beach",
+      "entrance_fee": "Free",
       "highlights": [
-        "Bring your own snacks and drinks; there are no shops on the island."
+        "Rock climbing",
+        "Limestone cliffs",
+        "Visit early morning to avoid crowds"
       ]
     },
     {
       "rank": 2,
-      "name": "Klong Thom Hot Springs",
-      "description": "On a rainy day, I found solace in the Klong Thom Hot Springs. The warm waters were a perfect escape, and I shared laughs with locals who showed me how to make herbal compresses from the plants nearby.",
-      "location": "Located about 30 minutes from Krabi town; follow signs to Klong Thom village.",
+      "name": "Tiger Cave Temple (Wat Tham Suea)",
+      "description": "Historic Buddhist temple featuring 1,237 steps leading to a cave with panoramic jungle views and monastery at the summit.",
+      "location": "Krabi Town area",
+      "entrance_fee": "Free",
       "highlights": [
-        "Bring a towel and be ready to relax; it's a local favorite for unwinding."
+        "1,237 steps with panoramic views",
+        "Active monastery",
+        "Early morning visits recommended"
       ]
     },
     {
       "rank": 3,
-      "name": "Ao Thalane",
-      "description": "Kayaking through Ao Thalane was a magical experience. I remember gliding silently through the mangroves, spotting monkeys swinging above me, and sharing a moment of awe with a local guide who taught me about the ecosystem.",
-      "location": "Drive or take a taxi to Ao Thalane; there are several kayak rental shops at the entrance.",
+      "name": "Emerald Pool (Sa Morakot)",
+      "description": "A naturally warm swimming hole set in lush rainforest, fed by underground hot springs and surrounded by limestone formations.",
+      "location": "Khlong Thom area, approximately 40km from Krabi Town",
+      "entrance_fee": "200 THB ($6)",
       "highlights": [
-        "Hire a local guide to enhance your experience; they know the best spots."
+        "Naturally warm water",
+        "Rainforest setting",
+        "Combine with Hot Springs Waterfall"
       ]
     },
     {
       "rank": 4,
-      "name": "Phra Nang Cave Beach",
-      "description": "I found Phra Nang Cave Beach after a long hike. The cave, filled with offerings to the spirit of the drowned princess, fascinated me. I spent hours just soaking in the beauty and the stories it held.",
-      "location": "Accessible by boat from Ao Nang or Railay Beach; it’s often less crowded in the late afternoon.",
+      "name": "Hot Springs Waterfall (Klong Thom Hot Springs)",
+      "description": "Natural waterfall with warm mineral-rich pools set amid limestone cascades and jungle vegetation.",
+      "location": "Khlong Thom area, near Emerald Pool",
+      "entrance_fee": "90 THB ($3)",
       "highlights": [
-        "Respect the local customs; it’s a sacred site for fishermen."
+        "Warm mineral pools",
+        "Local favorite",
+        "Accessible 30 minutes from Krabi Town"
       ]
     },
     {
       "rank": 5,
-      "name": "Koh Poda",
-      "description": "While island hopping, I fell in love with Koh Poda. The sand felt like powder between my toes, and I shared stories with fellow travelers while watching the sunset over the Andaman Sea.",
-      "location": "Book a tour from Ao Nang or hire a longtail boat.",
+      "name": "Four Islands Tour",
+      "description": "Full-day guided boat tour visiting Phra Nang Cave Beach, Chicken Island, Tup Island, and Podi Island with snorkeling and cave exploration included.",
+      "location": "Departs from Ao Nang Beach",
+      "entrance_fee": "1200 THB ($35)",
       "highlights": [
-        "Bring a picnic; there are no shops on the island."
+        "Snorkeling",
+        "Cave exploration",
+        "Includes meals"
       ]
     },
     {
       "rank": 6,
-      "name": "Thai cooking class",
-      "description": "I took a cooking class with a local chef who taught me how to make Pad Thai from scratch. We visited the market together to pick fresh ingredients, and I learned the significance of each dish in Thai culture.",
-      "location": "City area",
+      "name": "Phi Phi Islands Tour",
+      "description": "Island-hopping tour featuring Maya Bay, Monkey Beach, and Bamboo Island with opportunities for snorkeling in clear turquoise waters.",
+      "location": "Departs from Ao Nang pier or Krabi Town",
+      "entrance_fee": "400 THB ($12) from Krabi Town",
       "highlights": [
-        "Be open to trying new flavors; it’s part of the experience."
+        "Maya Bay",
+        "Snorkeling",
+        "Monkey spotting"
       ]
     },
     {
       "rank": 7,
-      "name": "Muay Thai training",
-      "description": "I decided to try Muay Thai at a local gym. The trainers were tough but kind, pushing me to my limits while sharing stories about their own journeys in the sport.",
-      "location": "City area",
+      "name": "Ao Thalane Kayaking",
+      "description": "Peaceful kayaking experience through mangrove forests with opportunities to spot wildlife including monkeys, eagles, and water birds.",
+      "location": "Ao Thalane, approximately 40km north of Krabi Town",
+      "entrance_fee": "Variable (typically 400-600 THB/$12-18 for guided kayak tours)",
       "highlights": [
-        "Respect the trainers; they appreciate dedication and effort."
+        "Mangrove ecosystem",
+        "Local wildlife",
+        "Hire experienced guides"
       ]
     },
     {
       "rank": 8,
-      "name": "Volunteer at an elephant sanctuary",
-      "description": "Spending a day at an elephant sanctuary was life-changing. I learned about elephant conservation and shared a special bond with these gentle giants while feeding and bathing them.",
-      "location": "City area",
+      "name": "Phra Nang Cave Beach",
+      "description": "Sacred beach accessible by boat, featuring a cave filled with traditional offerings to the spirit of the Princess, with clear waters for swimming.",
+      "location": "Accessible by boat from Ao Nang or Railay Beach",
+      "entrance_fee": "Free",
       "highlights": [
-        "Be respectful and follow the guidelines; it’s crucial for the elephants' well-being."
+        "Sacred cave site",
+        "Respect local customs",
+        "Less crowded in late afternoon"
       ]
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Khao Soi",
-      "description": "The first time I tasted Khao Soi, I was blown away by the complex flavors of the curry and the crunch of the fried noodles. It felt like a warm hug on a rainy day.",
-      "cuisine_type": "Thai",
-      "price_range": "Around 60 baht.",
+      "name": "Katara Beach Club Krabi",
+      "description": "Upscale beach club offering international cuisine with premium cocktails and seafood specialties in a relaxed beachfront setting.",
+      "cuisine_type": "International, Bar",
+      "price_range": "300-800 THB ($9-23 per meal)",
       "highlights": [
-        "Local favorite",
-        "Authentic taste"
+        "Beachfront location",
+        "Cocktails",
+        "TripAdvisor rating: 4.9"
       ]
     },
     {
       "rank": 2,
-      "name": "Som Tum (Papaya Salad)",
-      "description": "I watched as the vendor pounded the ingredients together, the sound echoing in the bustling market. The first bite was a perfect balance of sweet, sour, and spicy.",
-      "cuisine_type": "Thai",
-      "price_range": "30-50 baht.",
+      "name": "Ali Baba Restaurant, Ao Nang, Krabi",
+      "description": "Casual dining spot offering Indian curries and pizzas with friendly service and reasonable prices in the Ao Nang area.",
+      "cuisine_type": "Indian, Pizza",
+      "price_range": "150-350 THB ($4-10 per meal)",
       "highlights": [
-        "Local favorite",
-        "Authentic taste"
+        "Indian specialties",
+        "Pizza options",
+        "TripAdvisor rating: 4.9"
       ]
     },
     {
       "rank": 3,
-      "name": "Massaman Curry",
-      "description": "The richness of the Massaman curry took me by surprise. The slow-cooked beef melted in my mouth, and I savored every spoonful with rice.",
-      "cuisine_type": "Thai",
-      "price_range": "80-120 baht.",
+      "name": "Reeve Beach Club Krabi",
+      "description": "Stylish beach club serving European cuisine with premium wines and seafood dishes in a sophisticated beachfront environment.",
+      "cuisine_type": "Bar, European",
+      "price_range": "250-700 THB ($7-20 per meal)",
       "highlights": [
-        "Local favorite",
-        "Authentic taste"
+        "European cuisine",
+        "Wine selection",
+        "TripAdvisor rating: 4.8"
       ]
     },
     {
       "rank": 4,
-      "name": "Mango Sticky Rice",
-      "description": "Som’s version was the best I’ve ever had, with perfectly ripe mango and creamy coconut sauce. It’s a sweet memory I cherish.",
-      "cuisine_type": "Thai",
-      "price_range": "50 baht.",
+      "name": "Johnny's Pizza Ristorante Italiano",
+      "description": "Authentic Italian restaurant specializing in traditional pizzas and pasta made with quality ingredients and Italian recipes.",
+      "cuisine_type": "Italian, Pizza",
+      "price_range": "200-500 THB ($6-15 per meal)",
       "highlights": [
-        "Local favorite",
-        "Authentic taste"
+        "Authentic Italian",
+        "Wood-fired pizzas",
+        "TripAdvisor rating: 4.7"
       ]
     },
     {
       "rank": 5,
-      "name": "Pad Thai",
-      "description": "Nadia’s Pad Thai is legendary. Watching her cook with such passion was a delight, and the taste was a perfect blend of flavors.",
-      "cuisine_type": "Thai",
-      "price_range": "50-70 baht.",
+      "name": "Anna's Restaurant",
+      "description": "Casual restaurant combining European and Thai cuisines with fresh ingredients and friendly service suitable for all budgets.",
+      "cuisine_type": "European, Thai",
+      "price_range": "150-400 THB ($4-12 per meal)",
       "highlights": [
-        "Local favorite",
-        "Authentic taste"
+        "Fusion cuisine",
+        "Fresh ingredients",
+        "TripAdvisor rating: 4.6"
       ]
     },
     {
       "rank": 6,
-      "name": "Grilled Prawns",
-      "description": "Sitting on the beach with a plate of grilled prawns, I felt like I had discovered paradise. The smoky flavor paired perfectly with a cold beer.",
-      "cuisine_type": "Thai",
-      "price_range": "100-150 baht.",
+      "name": "Baitoey Seafood Restaurant",
+      "description": "Authentic Southern Thai seafood restaurant with river views serving fresh seafood platters and traditional Thai sauces.",
+      "cuisine_type": "Southern Thai Seafood",
+      "price_range": "200-500 THB ($6-15 per meal)",
       "highlights": [
-        "Local favorite",
-        "Authentic taste"
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "Coconut Ice Cream",
-      "description": "On a hot day, nothing beats the refreshing taste of coconut ice cream served in a coconut shell. It was a delightful treat that made me smile.",
-      "cuisine_type": "Thai",
-      "price_range": "30 baht.",
-      "highlights": [
-        "Local favorite",
-        "Authentic taste"
-      ]
-    },
-    {
-      "rank": 8,
-      "name": "Larb Gai (Spicy Chicken Salad)",
-      "description": "I was hesitant at first, but the first bite of Larb Gai was a revelation. The freshness of the herbs and the crunch of the vegetables were exhilarating.",
-      "cuisine_type": "Thai",
-      "price_range": "40 baht.",
-      "highlights": [
-        "Local favorite",
-        "Authentic taste"
+        "River views",
+        "Fresh seafood",
+        "Traditional Thai flavors"
       ]
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "Boutique Hotel Krabi",
-      "description": "Comfortable accommodation at this well-located boutique hotel in Krabi.",
-      "price_range": "$30-150",
+      "name": "Rayavadee",
+      "description": "Luxury beachfront resort set on a private peninsula with exclusive access to three pristine beaches, world-class amenities, and fine dining.",
+      "price_range": "$200-400+ per night",
+      "category": "luxury",
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "Private beaches",
+        "5-star amenities",
+        "TripAdvisor rating: 4.7"
       ]
     },
     {
       "rank": 2,
-      "name": "Resort Krabi",
-      "description": "Comfortable accommodation at this well-located resort in Krabi.",
-      "price_range": "$30-150",
+      "name": "The Tubkaak Krabi Boutique Resort",
+      "description": "Upscale boutique resort offering personalized service with stylish rooms, spa facilities, and intimate beachfront setting.",
+      "price_range": "$150-300 per night",
+      "category": "luxury",
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "Boutique style",
+        "Spa services",
+        "TripAdvisor rating: 4.7"
       ]
     },
     {
       "rank": 3,
-      "name": "Budget Hotel Krabi",
-      "description": "Comfortable accommodation at this well-located budget hotel in Krabi.",
-      "price_range": "$30-150",
+      "name": "Dusit Thani Krabi Beach Resort",
+      "description": "Upscale beachfront resort with modern rooms, swimming pools, spa, and direct beach access in a prime Ao Nang location.",
+      "price_range": "$100-250 per night",
+      "category": "midrange",
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "Beachfront",
+        "Pool facilities",
+        "TripAdvisor rating: 4.6"
       ]
     },
     {
       "rank": 4,
-      "name": "Luxury Hotel Krabi",
-      "description": "Comfortable accommodation at this well-located luxury hotel in Krabi.",
-      "price_range": "$30-150",
+      "name": "Sofitel Krabi Phokeethra Golf & Spa Resort",
+      "description": "Premium resort featuring golf course, spa, multiple restaurants, and spacious rooms with garden and golf course views.",
+      "price_range": "$120-280 per night",
+      "category": "midrange",
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "Golf course",
+        "Spa",
+        "TripAdvisor rating: 4.5"
       ]
     },
     {
       "rank": 5,
-      "name": "Guesthouse Krabi",
-      "description": "Comfortable accommodation at this well-located guesthouse in Krabi.",
-      "price_range": "$30-150",
+      "name": "The ShellSea Krabi",
+      "description": "Mid-range beachfront hotel offering comfortable rooms, sea views, and convenient access to Ao Nang attractions and dining.",
+      "price_range": "$80-180 per night",
+      "category": "midrange",
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "Beachfront",
+        "Sea views",
+        "TripAdvisor rating: 4.6"
       ]
     }
   ],
@@ -522,116 +540,102 @@
   "enhanced_at": "2025-05-26T19:55:22.050Z",
   "ai_generated": true,
   "overview": "Krabi is a stunning coastal province in southern Thailand renowned for its dramatic limestone cliffs, pristine beaches, and world-class island-hopping opportunities. Located at coordinates 8.0863°N, 98.9063°E, this destination captivates travelers with iconic spots like Railay Beach and the emerald waters surrounding Koh Phi Phi. The region perfectly balances adventure seekers with those seeking relaxation, offering everything from rock climbing on vertical cliff faces to lazy days on powder-soft sand beaches with coconut drinks in hand.",
-  "thingsToDo": "Krabi's attractions cater to every type of traveler. Railay Beach, accessible only by boat, features towering limestone cliffs and is perfect for rock climbing and sunset watching with zero entrance fee. Adventure enthusiasts should tackle the 1,237 steps to Tiger Cave Temple (Wat Tham Suea), which offers panoramic jungle views and costs nothing to enter. For water-based activities, the Four Islands Tour (1,200 THB/$35) includes snorkeling and cave exploration, while a trip to the Phi Phi Islands (400 THB/$12 from Krabi) features the famous Maya Bay and excellent snorkeling opportunities. Nature lovers will appreciate the Emerald Pool (200 THB/$6), a naturally warm swimming hole set in rainforest, or the Hot Springs Waterfall (90 THB/$3) with its limestone cascades and warm pools.",
+  "thingsToDo": "Krabi's attractions cater to every type of traveler. Railay Beach, accessible only by boat, features towering limestone cliffs and is perfect for rock climbing and sunset watching with zero entrance fee. Adventure enthusiasts should tackle the 1,237 steps to Tiger Cave Temple (Wat Tham Suea), which offers panoramic jungle views and costs nothing to enter. For water-based activities, the Four Islands Tour (1,200 THB/$35) includes snorkeling and cave exploration, while a trip to the Phi Phi Islands (400 THB/$12 from Krabi Town) features the famous Maya Bay and excellent snorkeling opportunities. Nature lovers will appreciate the Emerald Pool (200 THB/$6), a naturally warm swimming hole set in rainforest, or the Hot Springs Waterfall (90 THB/$3) with its limestone cascades and warm pools. Ao Thalane kayaking offers peaceful mangrove exploration with opportunities to spot local wildlife including monkeys and eagles (typically 400-600 THB/$12-18 for guided tours). Phra Nang Cave Beach is accessible by boat from Ao Nang and features a sacred cave with traditional offerings.",
   "whereToStay": "Krabi offers diverse accommodation options across several areas. Ao Nang serves as the main beach town with numerous restaurants, bars, and easy access to island tours, making it ideal for most travelers. Railay Beach provides a more exclusive, secluded experience but requires boat access. Krabi Town offers budget-friendly guesthouses and authentic local experiences, perfect for backpackers and those wanting to avoid tourist crowds. Accommodation ranges from 300-500 THB ($8-15) per night for basic guesthouses, 800-2,000 THB ($23-57) for comfortable mid-range hotels with amenities, and 2,500+ THB ($71+) for beachfront resorts with swimming pools and water sports facilities.",
   "whereToEat": [
     {
-      "name": "Gecko Cabane Restaurant",
-      "cuisine": "Thai and French",
+      "name": "Katara Beach Club Krabi",
+      "cuisine": "International, Bar",
       "priceRange": "$$$",
-      "description": "Stylish restaurant with retro grocery store decor serving upscale Thai and French cuisine. Specializes in curry crab and pineapple rice, with verified reviews praising the fresh prawns and tender water spinach."
+      "description": "Upscale beachfront venue with premium cocktails, fresh seafood, and international cuisine. TripAdvisor rating: 4.9/5"
+    },
+    {
+      "name": "Ali Baba Restaurant, Ao Nang, Krabi",
+      "cuisine": "Indian, Pizza",
+      "priceRange": "$$",
+      "description": "Casual dining spot offering Indian curries and pizzas with friendly service in Ao Nang. TripAdvisor rating: 4.9/5"
+    },
+    {
+      "name": "Reeve Beach Club Krabi",
+      "cuisine": "Bar, European",
+      "priceRange": "$$$",
+      "description": "Stylish beach club serving European cuisine with wine selection in sophisticated setting. TripAdvisor rating: 4.8/5"
+    },
+    {
+      "name": "Johnny's Pizza Ristorante Italiano",
+      "cuisine": "Italian, Pizza",
+      "priceRange": "$$",
+      "description": "Authentic Italian restaurant specializing in traditional pizzas and pasta. TripAdvisor rating: 4.7/5"
+    },
+    {
+      "name": "Anna's Restaurant",
+      "cuisine": "European, Thai",
+      "priceRange": "$$",
+      "description": "Casual fusion restaurant combining European and Thai cuisines with fresh ingredients. TripAdvisor rating: 4.6/5"
     },
     {
       "name": "Baitoey Seafood Restaurant",
       "cuisine": "Southern Thai Seafood",
       "priceRange": "$$",
-      "description": "Authentic Southern Thai seafood restaurant with spectacular river views in Krabi Town. Known for affordable fresh seafood platters and traditional Thai sauces, with a simple but welcoming atmosphere."
-    },
-    {
-      "name": "Ao Nang Beach Restaurants",
-      "cuisine": "International and Thai",
-      "priceRange": "$$",
-      "description": "Ao Nang features a diverse row of beachfront and street-side restaurants serving everything from traditional Thai dishes to international cuisine, ideal for sunset dining."
-    },
-    {
-      "name": "Krabi Town Night Market",
-      "cuisine": "Street Food",
-      "priceRange": "$",
-      "description": "Vibrant night market offering authentic Thai street food, local specialties, and handmade souvenirs in an energetic local atmosphere with live music."
-    },
-    {
-      "name": "Railay Beach Restaurants",
-      "cuisine": "Thai and International",
-      "priceRange": "$$",
-      "description": "Beachfront dining establishments on Railay Beach serving fresh seafood and Thai dishes with stunning limestone cliff views, though prices are slightly higher due to remote boat-only access."
-    },
-    {
-      "name": "Ao Nang Seafood Stalls",
-      "cuisine": "Fresh Seafood",
-      "priceRange": "$",
-      "description": "Casual seafood vendors along Ao Nang beach offering grilled fish, prawns, and local catches at budget-friendly prices, perfect for casual beachside meals."
+      "description": "Authentic Southern Thai seafood with river views in Krabi Town, featuring fresh daily catch and traditional sauces."
     }
   ],
   "topHotels": [
     {
-      "name": "Andaman Breeze",
-      "category": "budget",
-      "priceRange": "$15-30/night",
-      "area": "Ao Nang",
-      "description": "Highly recommended budget hotel offering the best value in Ao Nang with clean rooms and friendly staff. Consistently praised as one of the cheapest yet quality options for budget travelers."
+      "name": "Rayavadee",
+      "category": "luxury",
+      "priceRange": "$200-400+/night",
+      "area": "Railay Beach",
+      "description": "Ultra-luxury beachfront resort on private peninsula with exclusive beach access, fine dining, and world-class spa facilities. TripAdvisor rating: 4.7/5"
     },
     {
-      "name": "Krabi Town Guesthouses",
-      "category": "budget",
-      "priceRange": "$8-20/night",
-      "area": "Krabi Town",
-      "description": "Simple, clean guesthouses in Krabi Town center offering authentic local experience with basic amenities like fans and shared bathrooms, ideal for backpackers."
+      "name": "The Tubkaak Krabi Boutique Resort",
+      "category": "luxury",
+      "priceRange": "$150-300/night",
+      "area": "Ao Nang",
+      "description": "Upscale boutique resort with personalized service, spa, and intimate beachfront setting. TripAdvisor rating: 4.7/5"
+    },
+    {
+      "name": "Dusit Thani Krabi Beach Resort",
+      "category": "midrange",
+      "priceRange": "$100-250/night",
+      "area": "Ao Nang",
+      "description": "Established beachfront resort with modern amenities, pools, and spa. TripAdvisor rating: 4.6/5"
+    },
+    {
+      "name": "Sofitel Krabi Phokeethra Golf & Spa Resort",
+      "category": "midrange",
+      "priceRange": "$120-280/night",
+      "area": "Ao Nang",
+      "description": "Premium resort with integrated golf course, spa, and multiple restaurants. TripAdvisor rating: 4.5/5"
+    },
+    {
+      "name": "The ShellSea Krabi",
+      "category": "midrange",
+      "priceRange": "$80-180/night",
+      "area": "Ao Nang",
+      "description": "Comfortable beachfront hotel with convenient access to dining and activities. TripAdvisor rating: 4.6/5"
     },
     {
       "name": "Ao Nang Village Resort",
       "category": "midrange",
       "priceRange": "$40-80/night",
       "area": "Ao Nang",
-      "description": "Comfortable mid-range resort with air-conditioned rooms, swimming pool, and proximity to beach restaurants and island tour operators."
+      "description": "Comfortable mid-range resort with air conditioning, pool, and proximity to beach restaurants and tour operators."
     },
     {
-      "name": "Railay Beach Resort",
-      "category": "midrange",
-      "priceRange": "$50-100/night",
-      "area": "Railay Beach",
-      "description": "Exclusive mid-range accommodation on Railay Beach offering direct beach access, basic but comfortable rooms, and intimate setting with dramatic limestone backdrops."
-    },
-    {
-      "name": "Krabi Resort and Spa",
-      "category": "midrange",
-      "priceRange": "$45-90/night",
+      "name": "Andaman Breeze",
+      "category": "budget",
+      "priceRange": "$15-30/night",
       "area": "Ao Nang",
-      "description": "Relaxing mid-range resort featuring spa services, garden setting, and convenient beach and market access with solid amenities for comfort-conscious travelers."
+      "description": "Recommended budget hotel offering clean rooms, friendly staff, and good value for money in Ao Nang."
     },
     {
-      "name": "Krabi Cha-Cha Resort",
-      "category": "midrange",
-      "priceRange": "$35-75/night",
+      "name": "Krabi Town Guesthouses",
+      "category": "budget",
+      "priceRange": "$8-20/night",
       "area": "Krabi Town",
-      "description": "Charming mid-range resort in town center with swimming pool, Thai-style architecture, and easy access to night markets and local restaurants."
-    },
-    {
-      "name": "Aonang Villa Resort",
-      "category": "luxury",
-      "priceRange": "$120-250/night",
-      "area": "Ao Nang",
-      "description": "Upscale beachfront resort with spacious rooms, multiple pools, spa facilities, and fine dining options overlooking the Andaman Sea with professional service."
-    },
-    {
-      "name": "Railay Princess Resort",
-      "category": "luxury",
-      "priceRange": "$150-300/night",
-      "area": "Railay Beach",
-      "description": "Premium resort on exclusive Railay Beach offering spectacular limestone cliff views, private beach access, and luxury amenities in a secluded tropical paradise."
-    },
-    {
-      "name": "Krabi Hilton Resort",
-      "category": "luxury",
-      "priceRange": "$180-350/night",
-      "area": "Ao Nang",
-      "description": "Five-star beachfront property featuring world-class spa, multiple restaurants, water sports facilities, and impeccable service for discerning travelers."
-    },
-    {
-      "name": "Centara Grand Krabi Resort",
-      "category": "luxury",
-      "priceRange": "$200-400/night",
-      "area": "Ao Nang",
-      "description": "Luxury beachfront resort with infinity pools overlooking the Andaman Sea, fine dining restaurants, spa, and comprehensive water sports, perfect for special occasions."
+      "description": "Simple, clean guesthouses in town center offering authentic local experience with basic amenities."
     }
   ],
   "gettingAround": "Krabi's main transportation option is the tuk-tuk (three-wheeled taxi), widely available throughout Ao Nang and Krabi Town with fares typically 50-200 THB ($1.50-6) for local journeys. Songthaews (shared minibuses) offer cheaper alternatives at 20-40 THB ($0.60-1.20) per person but follow fixed routes. Many travelers rent motorbikes (150-300 THB/$5-9 daily) or bicycles for exploring at their own pace, though this requires an International Driving Permit. For island hopping, longtail boats are essential and can be booked through hotels or directly at Ao Nang pier. Grab (Thai ride-hailing app) is increasingly available in Ao Nang area for convenient transport with transparent pricing.",
@@ -661,27 +665,19 @@
     },
     {
       "question": "Is Railay Beach worth visiting despite being touristy?",
-      "answer": "Yes, Railay Beach is absolutely worth visiting. Its dramatic limestone cliffs, turquoise waters, and rock climbing opportunities are genuine attractions. Visit early morning to beat crowds, and stay overnight if possible to experience it after day-trippers leave."
+      "answer": "Yes, Railay Beach is absolutely worth visiting. Its dramatic limestone cliffs, turquoise waters, and rock climbing opportunities are genuine attractions. Visit early morning to beat crowds, and consider staying overnight to experience it after day-trippers leave."
     },
     {
       "question": "What's the best way to visit multiple islands?",
-      "answer": "Book a Four Islands Tour (1,200 THB/$35) or Phi Phi Islands trip (400 THB/$12) through hotels or tour operators at Ao Nang pier. Longtail boats depart daily and include snorkeling, cave exploration, and meals. Private boat rentals are available but more expensive."
+      "answer": "Book a Four Islands Tour (1,200 THB/$35) or Phi Phi Islands trip (400 THB/$12 from Krabi Town) through hotels or tour operators at Ao Nang pier. Longtail boats depart daily and include snorkeling, cave exploration, and meals. Private boat rentals are available but more expensive."
     },
     {
-      "question": "How much does it cost to do island hopping activities?",
-      "answer": "Four Islands Tour costs 1,200 THB ($35), Phi Phi Islands day trips cost 400 THB ($12), and equipment rentals (snorkel gear, life jackets) typically cost 50-100 THB ($1.50-3) or are included in tour prices."
+      "question": "When is the best time to visit Krabi?",
+      "answer": "The best time to visit is November through February, when temperatures are comfortable (25-28°C/77-82°F) and humidity is low. December and January offer perfect beach weather with calm seas and excellent visibility for water activities. Avoid May-October during the southwest monsoon when heavy rainfall and rough seas can cause boat cancellations."
     },
     {
-      "question": "Can I rent a motorbike, and do I need a special license?",
-      "answer": "Yes, motorbikes rent for 150-300 THB ($5-9) daily. You technically need an International Driving Permit, though enforcement varies. Rental shops rarely check strictly, but accidents without proper permits can cause insurance issues. Wear helmets and drive cautiously on unfamiliar roads."
-    },
-    {
-      "question": "What should I pack for Krabi?",
-      "answer": "Pack light, breathable clothing, swimwear, reef-safe sunscreen, water shoes for rocky areas, a lightweight rain jacket for sudden showers, and insect repellent. Bring modest clothing for temple visits, particularly Tiger Cave Temple. Flip-flops and a light sweater are essential since air conditioning is often excessive indoors."
-    },
-    {
-      "question": "Is it safe to swim in the sea year-round?",
-      "answer": "Swimming is safest and best during November-April when seas are calm and visibility is excellent. During May-October monsoon season, currents are strong and visibility poor. Always check with locals or lifeguards about current conditions before entering water."
+      "question": "Is Krabi safe for tourists?",
+      "answer": "Krabi is generally safe for tourists. Exercise standard precautions: avoid displaying expensive jewelry or electronics, use registered tuk-tuks or hotel-arranged transport, and keep valuables in hotel safes. Be cautious during monsoon season (May-October) when rough seas can be dangerous. When rock climbing at Railay Beach, only use licensed guides and check equipment thoroughly."
     }
   ],
   "practicalInfo": {
@@ -697,9 +693,10 @@
       "Tuk-tuk (50-200 THB/$1.50-6 per journey)",
       "Songthaew shared minibus (20-40 THB/$0.60-1.20 per person)",
       "Motorbike rental (150-300 THB/$5-9 daily)",
-      "Longtail boat (for island hopping)",
+      "Longtail boat (for island hopping, variable pricing)",
       "Grab (ride-hailing app available in Ao Nang area)"
     ]
   },
-  "enrichedAt": "2026-02-22T12:31:45.072Z"
+  "enrichedAt": "2026-02-22T12:31:45.072Z",
+  "factchecked_at": "2026-03-08T18:24:52.452Z"
 }

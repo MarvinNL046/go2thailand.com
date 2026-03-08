@@ -115,96 +115,138 @@
   ],
   "top_restaurants": [
     {
+      "rank": 1,
+      "name": "Let's Meat",
+      "description": "High-rated barbecue restaurant with 5.0 TripAdvisor rating. Specializes in grilled meat dishes prepared to order.",
+      "cuisine_type": "Barbecue",
+      "price_range": "200-400 THB",
+      "highlights": [
+        "Perfect rating",
+        "Grilled specialties",
+        "Fresh preparation"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Ban Thiw Thara",
+      "description": "Seafood specialist with 4.6 TripAdvisor rating featuring fresh catches prepared traditional Thai-style with local expertise.",
+      "cuisine_type": "Seafood",
+      "price_range": "250-500 THB",
+      "highlights": [
+        "Fresh seafood",
+        "Traditional preparation",
+        "Local reputation"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Fin Koh Chang",
+      "description": "International and Thai fusion restaurant with 4.5 TripAdvisor rating offering diverse menu options for varied tastes.",
+      "cuisine_type": "International, Thai",
+      "price_range": "250-450 THB",
+      "highlights": [
+        "Fusion cuisine",
+        "Diverse menu",
+        "Island location"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Porn's Bungalow Restaurant",
+      "description": "Thai restaurant with 4.1 TripAdvisor rating known for authentic regional dishes and warm hospitality.",
+      "cuisine_type": "Thai",
+      "price_range": "150-350 THB",
+      "highlights": [
+        "Authentic Thai",
+        "Friendly service",
+        "Local recipes"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "D_castaway Beach Club",
+      "description": "Beachfront bar and restaurant with 4.0 TripAdvisor rating serving international cuisine with sunset views.",
+      "cuisine_type": "Bar, International",
+      "price_range": "200-400 THB",
+      "highlights": [
+        "Beachfront setting",
+        "Sunset views",
+        "Casual atmosphere"
+      ]
+    },
+    {
+      "rank": 6,
       "name": "Trat Night Market",
-      "cuisine": "Thai Street Food",
-      "price_range": "$",
-      "description": {
-        "en": "Compact canal-side night market with stalls serving khanom jeen, crab cakes, grilled seafood, and tropical fruits. Almost entirely local clientele with rock-bottom prices.",
-        "nl": "Compacte nachtmarkt aan het kanaal met kraampjes die khanom jeen, krabkoekjes, gegrilde zeevruchten en tropisch fruit serveren. Bijna volledig lokale klanten met bodemprijzen."
-      }
-    },
-    {
-      "name": "Krua Rua Thong (Koh Chang)",
-      "cuisine": "Thai Seafood",
-      "price_range": "$$",
-      "description": {
-        "en": "Atmospheric beachfront seafood restaurant on Koh Chang's Lonely Beach with tables in the sand. The garlic pepper crab and deep-fried whole fish are outstanding.",
-        "nl": "Sfeervol strandvisrestaurant aan Koh Chang's Lonely Beach met tafels in het zand. De krab met knoflookpeper en de gefrituurde hele vis zijn uitstekend."
-      }
-    },
-    {
-      "name": "Baan Rim Nam",
-      "cuisine": "Thai Traditional",
-      "price_range": "$",
-      "description": {
-        "en": "Simple waterside restaurant in Trat old town where locals gather for morning coffee and afternoon noodles. The boat noodles and iced Thai tea are excellent.",
-        "nl": "Eenvoudig restaurant aan het water in de oude stad van Trat waar locals samenkomen voor ochtendkoffie en middagnoodles. De bootnoodles en Thaise ijsthee zijn uitstekend."
-      }
-    },
-    {
-      "name": "The Chill (Koh Chang)",
-      "cuisine": "Thai-International",
-      "price_range": "$$",
-      "description": {
-        "en": "Relaxed beachside bar and restaurant at White Sand Beach with Thai and Western dishes, live music on weekends, and spectacular sunset views over the Gulf.",
-        "nl": "Ontspannen strandbar en restaurant aan White Sand Beach met Thaise en westerse gerechten, livemuziek in het weekend en spectaculair uitzicht op de zonsondergang over de Golf."
-      }
-    },
-    {
-      "name": "Koh Kood Beach Natural (Koh Kood)",
-      "cuisine": "Thai Seafood",
-      "price_range": "$$",
-      "description": {
-        "en": "Beachfront restaurant on Koh Kood serving the freshest seafood straight from local boats. The steamed fish with lime and the coconut curry are exceptional.",
-        "nl": "Strandrestaurant op Koh Kood dat de versste zeevruchten serveert rechtstreeks van lokale boten. De gestoomde vis met limoen en de kokoscurry zijn uitzonderlijk."
-      }
+      "description": "Authentic canal-side night market with local food stalls offering traditional Thai dishes at minimal prices.",
+      "cuisine_type": "Thai Street Food",
+      "price_range": "30-100 THB",
+      "highlights": [
+        "Budget prices",
+        "Local clientele",
+        "Authentic street food"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "Soneva Kiri (Koh Kood)",
-      "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "One of Thailand's most exclusive resorts, featuring treehouse dining, private pool villas, and an open-air cinema on the beach. A once-in-a-lifetime island luxury experience.",
-        "nl": "Een van Thailands meest exclusieve resorts, met boomhutdining, villa's met prive-zwembad en een openluchtbioscoop op het strand. Een eenmalige luxe eilandervaring."
-      }
-    },
-    {
-      "name": "KC Grande Resort & Spa (Koh Chang)",
+      "rank": 1,
+      "name": "Lazy Day The Resort",
+      "description": "High-rated resort with 4.8 TripAdvisor rating offering quality accommodation and amenities on island location.",
+      "price_range": "$80-150/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Well-established resort on White Sand Beach with multiple pools, spa, and direct beach access. Great balance of comfort and value on Koh Chang's most popular beach.",
-        "nl": "Gevestigd resort aan White Sand Beach met meerdere zwembaden, spa en directe strandtoegang. Goede balans tussen comfort en waarde op Koh Chang's populairste strand."
-      }
+      "highlights": [
+        "Excellent rating",
+        "Resort amenities",
+        "Island setting"
+      ]
     },
     {
-      "name": "Pajamas Hostel Koh Chang",
-      "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "Stylish budget hostel near Lonely Beach with dorms, private rooms, and a social atmosphere. Popular with backpackers and solo travelers exploring Koh Chang.",
-        "nl": "Stijlvol budgethostel bij Lonely Beach met slaapzalen, privekamers en een sociale sfeer. Populair bij backpackers en soloreizigers die Koh Chang verkennen."
-      }
-    },
-    {
-      "name": "Ban Maai Guesthouse (Trat Town)",
-      "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "Charming wooden guesthouse in Trat's old town run by a friendly local couple. Perfect for one night before catching the ferry to the islands.",
-        "nl": "Charmant houten gasthuis in de oude stad van Trat, gerund door een vriendelijk lokaal echtpaar. Perfect voor een nacht voordat je de veerboot naar de eilanden neemt."
-      }
-    },
-    {
-      "name": "Siam Beach Resort (Koh Chang)",
+      "rank": 2,
+      "name": "Rest Sea Resort Koh Kood",
+      "description": "Well-reviewed beachfront resort with 4.1 TripAdvisor rating featuring ocean views and peaceful island atmosphere on Koh Kood.",
+      "price_range": "$70-120/night",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Peaceful hillside resort overlooking a quiet bay on Koh Chang's west coast. Beautiful infinity pool and bungalows surrounded by tropical gardens.",
-        "nl": "Vredig heuvelresort met uitzicht op een rustige baai aan de westkust van Koh Chang. Prachtig overloopzwembad en bungalows omgeven door tropische tuinen."
-      }
+      "highlights": [
+        "Beachfront location",
+        "Koh Kood island",
+        "Quality service"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Ko Kut Ao Phrao Beach Resort",
+      "description": "Koh Kood beachfront resort with 3.6 TripAdvisor rating offering direct beach access and island hospitality.",
+      "price_range": "$60-100/night",
+      "category": "midrange",
+      "highlights": [
+        "Beach access",
+        "Island location",
+        "Reasonable pricing"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "A-Na-Lay Resort Koh Kood",
+      "description": "Budget-friendly Koh Kood resort with 3.0 TripAdvisor rating suitable for budget-conscious travelers seeking island accommodation.",
+      "price_range": "$40-70/night",
+      "category": "budget",
+      "highlights": [
+        "Affordable rates",
+        "Island location",
+        "Basic amenities"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "White Sand Beach Resort",
+      "description": "Beachfront resort with 3.2 TripAdvisor rating offering direct access to popular White Sand Beach on Koh Chang.",
+      "price_range": "$50-85/night",
+      "category": "budget",
+      "highlights": [
+        "White Sand Beach",
+        "Direct beach access",
+        "Koh Chang location"
+      ]
     }
   ],
   "travel_tips": [
@@ -280,147 +322,100 @@
   "enhanced_at": "2026-02-22T10:00:00.000Z",
   "ai_generated": true,
   "overview": "Trat is Thailand's underrated eastern coastal gem, serving as the gateway to some of the Kingdom's most pristine islands including Koh Chang, Thailand's second-largest island. With a population of just 22,000, this charming province offers an authentic Thai small-town atmosphere away from the typical tourist crowds, combined with world-class beaches, mangrove forests, and a vibrant gem trading culture. Whether you're seeking adventure on crystal-clear waters, tranquil island escapes, or immersion in local culture, Trat Province delivers an unforgettable experience that showcases the raw beauty of Thailand's eastern seaboard.",
-  "thingsToDo": "Trat's main attractions revolve around its stunning island archipelago and natural wonders. Koh Chang Island offers white sand beaches, jungle waterfalls, and island nightlife, while the quieter Koh Kood features crystal-clear waters and unspoiled beaches perfect for those seeking tranquility. For waterfall enthusiasts, Klong Plu Waterfall (200 THB/6 USD entrance) provides easy jungle trail access to a natural swimming pool, and Than Mayom Waterfall (200 THB/6 USD) features royal inscriptions and historic significance. Koh Mak Island remains a car-free paradise known for coconut plantations and peaceful vibes, making it ideal for digital detox. The Trat Community Mangrove Forest offers boardwalk trails and wildlife spotting opportunities, while the Trat Night Market provides an authentic culinary experience with canal-side setting and budget-friendly local food. In town, Trat Old Town showcases wooden shophouses, the region's famous gem trading heritage, and genuine small-town charm.",
+  "thingsToDo": "Trat's main attractions revolve around its stunning island archipelago and natural wonders. Koh Chang Island offers white sand beaches, jungle waterfalls, and island activities, while the quieter Koh Kood features crystal-clear waters and unspoiled beaches perfect for those seeking tranquility. For waterfall enthusiasts, Klong Plu Waterfall (200 THB entrance fee) provides easy jungle trail access to a natural swimming pool, and Than Mayom Waterfall (200 THB) features royal inscriptions and historic significance. Koh Mak Island remains a car-free paradise known for coconut plantations and peaceful vibes, making it ideal for digital detox. The Trat Community Mangrove Forest offers boardwalk trails and wildlife spotting opportunities, while the Trat Night Market provides an authentic culinary experience with canal-side setting and budget-friendly local food. In town, Trat Old Town showcases wooden shophouses, the region's famous gem trading heritage, and genuine small-town charm.",
   "whereToStay": "Accommodation in Trat ranges from budget guesthouses to luxury island resorts, with options suited to every traveler type. In Trat City itself, mid-range hotels like Trat City Hotel offer modern comforts with pools, fitness centers, and convenient access to restaurants and markets. Most visitors use Trat as a transit point, spending one night before island-hopping, though staying 2-3 nights allows exploration of the town's authentic culture and markets. The nearby islands feature diverse accommodation: Koh Chang has everything from backpacker beach huts on Lonely Beach to upscale beachfront resorts, Koh Kood caters to those seeking peaceful seclusion, while Koh Mak offers simple but charming beach bungalows perfect for budget travelers. For a full Trat archipelago experience, allocate two nights each on Koh Chang and Koh Kood, with three nights split between Koh Mak and Koh Wai.",
   "whereToEat": [
     {
-      "name": "Sangfah Restaurant",
+      "name": "Let's Meat",
+      "cuisine": "Barbecue",
+      "priceRange": "$$",
+      "description": "Highly-rated barbecue specialist with perfect 5.0 TripAdvisor rating serving grilled meat dishes prepared to order with expert technique."
+    },
+    {
+      "name": "Ban Thiw Thara",
+      "cuisine": "Seafood",
+      "priceRange": "$$",
+      "description": "Seafood restaurant with 4.6 TripAdvisor rating specializing in fresh local catches prepared traditional Thai-style with authentic recipes."
+    },
+    {
+      "name": "Fin Koh Chang",
+      "cuisine": "International, Thai",
+      "priceRange": "$$",
+      "description": "Fusion restaurant with 4.5 TripAdvisor rating offering combined international and Thai menu options for diverse palates."
+    },
+    {
+      "name": "Porn's Bungalow Restaurant",
       "cuisine": "Thai",
       "priceRange": "$$",
-      "description": "Known for unique Thai curries featuring unconventional ingredients like dried durian cubes, offering authentic regional flavors with modern presentation."
+      "description": "Thai restaurant with 4.1 TripAdvisor rating featuring authentic regional dishes prepared with local expertise and traditional methods."
     },
     {
-      "name": "Koh Chang Night Market",
-      "cuisine": "Street Food",
+      "name": "D_castaway Beach Club",
+      "cuisine": "Bar, International",
+      "priceRange": "$$",
+      "description": "Beachfront establishment with 4.0 TripAdvisor rating serving international cuisine in casual seaside setting with scenic views."
+    },
+    {
+      "name": "Trat Night Market",
+      "cuisine": "Thai Street Food",
       "priceRange": "$",
-      "description": "The bustling night market serving authentic local dishes at bargain prices, offering everything from grilled seafood to traditional Thai specialties."
-    },
-    {
-      "name": "Nong Bua Seafood Klong Prao",
-      "cuisine": "Seafood",
-      "priceRange": "$$",
-      "description": "Specializing in fresh seafood with waterfront location, offering locally caught fish and shellfish prepared traditional Thai-style."
-    },
-    {
-      "name": "Oasis Koh Chang",
-      "cuisine": "International",
-      "priceRange": "$$$",
-      "description": "Upscale beachfront dining featuring gigantic burgers and international cuisine paired with breathtaking ocean views and sunset ambiance."
-    },
-    {
-      "name": "Koh Mak Seafood",
-      "cuisine": "Seafood",
-      "priceRange": "$$",
-      "description": "Island gem famous for mouthwatering small squids and fresh seabass, showcasing the daily catch with authentic preparation methods."
-    },
-    {
-      "name": "El Barrio",
-      "cuisine": "Mexican",
-      "priceRange": "$$",
-      "description": "Authentic Mexican restaurant offering a unique culinary escape with traditional fare in this Thai coastal setting."
-    },
-    {
-      "name": "Koh Chang Wine Gallery",
-      "cuisine": "Mediterranean",
-      "priceRange": "$$$",
-      "description": "Upscale dining venue combining fine wines with Mediterranean cuisine in a cozy, sophisticated atmosphere overlooking island scenery."
-    },
-    {
-      "name": "Hapa Bar and Restaurant",
-      "cuisine": "International",
-      "priceRange": "$$",
-      "description": "Central Trat City location next to Trat City Hotel offering diverse menu options in a convenient, accessible setting."
+      "description": "Authentic canal-side night market featuring local food stalls serving traditional Thai street food at minimal prices to local and visiting clientele."
     }
   ],
   "topHotels": [
     {
-      "name": "Trat City Hotel",
+      "name": "Lazy Day The Resort",
       "category": "midrange",
-      "priceRange": "$40-70/night",
-      "area": "Trat City Center",
-      "description": "Modern hotel with spacious clean rooms, on-site restaurant, well-maintained pool, fitness center, and EV charging bays. Conveniently located near markets and dining options with attentive staff."
+      "priceRange": "$80-150/night",
+      "area": "Island location",
+      "description": "Highly-rated resort with 4.8 TripAdvisor rating offering comfortable accommodation with full resort amenities and quality service."
     },
     {
-      "name": "Chor Grande Resort",
+      "name": "Rest Sea Resort Koh Kood",
       "category": "midrange",
-      "priceRange": "$45-85/night",
-      "area": "Trat City",
-      "description": "Comfortable resort-style accommodation offering good amenities and service, providing a relaxing base for exploring Trat."
-    },
-    {
-      "name": "Wara Massage and Spa",
-      "category": "budget",
-      "priceRange": "$20-35/night",
-      "area": "Trat City Center",
-      "description": "Budget-friendly option on quiet street with attached massage and spa services, ideal for weary travelers seeking relaxation."
-    },
-    {
-      "name": "Koh Mak Resort",
-      "category": "budget",
-      "priceRange": "$15-40/night",
-      "area": "Koh Mak Island",
-      "description": "Simple beach bungalows on peaceful Koh Mak, perfect for budget travelers seeking island tranquility and coconut plantation surroundings."
-    },
-    {
-      "name": "Koh Chang Beachfront Resort",
-      "category": "midrange",
-      "priceRange": "$50-120/night",
-      "area": "White Sand Beach, Koh Chang",
-      "description": "Beachfront property on Koh Chang's main beach offering ocean views, beach access, and convenient location for island activities."
-    },
-    {
-      "name": "Lonely Beach Backpacker Huts",
-      "category": "budget",
-      "priceRange": "$10-25/night",
-      "area": "Lonely Beach, Koh Chang",
-      "description": "Budget beach huts in backpacker-friendly area with beach bars, social atmosphere, and budget-conscious pricing for young travelers."
-    },
-    {
-      "name": "Koh Kood Paradise Resort",
-      "category": "luxury",
-      "priceRange": "$150-300/night",
+      "priceRange": "$70-120/night",
       "area": "Koh Kood Island",
-      "description": "Upscale island resort featuring crystal-clear beach access, luxury amenities, and peaceful unspoiled surroundings for discerning travelers."
+      "description": "Well-reviewed beachfront resort with 4.1 rating featuring ocean views and peaceful island setting suitable for relaxation."
     },
     {
-      "name": "The Emerald Cove",
-      "category": "luxury",
-      "priceRange": "$180-350/night",
-      "area": "Koh Chang Island",
-      "description": "Premium beachfront resort with high-end facilities, fine dining options, water sports, and exceptional service in prime island location."
+      "name": "Ko Kut Ao Phrao Beach Resort",
+      "category": "midrange",
+      "priceRange": "$60-100/night",
+      "area": "Koh Kood Island",
+      "description": "Beachfront resort with 3.6 rating offering direct beach access and authentic island hospitality on Koh Kood."
     },
     {
-      "name": "Koh Wai Beach Bungalows",
+      "name": "A-Na-Lay Resort Koh Kood",
       "category": "budget",
-      "priceRange": "$12-30/night",
-      "area": "Koh Wai Island",
-      "description": "Simple beach huts on remote Koh Wai offering castaway-like experience with basic but charming accommodation away from tourist infrastructure."
+      "priceRange": "$40-70/night",
+      "area": "Koh Kood Island",
+      "description": "Budget-friendly resort with 3.0 rating suitable for cost-conscious travelers seeking basic island accommodation."
     },
     {
-      "name": "Trat Gateway Hotel",
+      "name": "White Sand Beach Resort",
       "category": "budget",
-      "priceRange": "$25-45/night",
-      "area": "Trat City",
-      "description": "Budget hotel option in city center providing comfortable rooms and convenient access to markets, restaurants, and transportation to islands."
+      "priceRange": "$50-85/night",
+      "area": "Koh Chang, White Sand Beach",
+      "description": "Beach resort with 3.2 rating offering direct access to Koh Chang's popular White Sand Beach area."
     }
   ],
-  "gettingAround": "Within Trat City, local transportation is primarily handled by tuk-tuks and songthaews (shared red buses), both extremely affordable at 20-40 THB per ride within town. For island access, shared minivans and speedboats depart regularly from Trat town to Koh Chang (45 minutes), Koh Kood (90 minutes), Koh Mak (60 minutes), and Koh Wai. Grab is available in Trat City for convenient point-to-point rides, though songthaews remain the most authentic and budget-friendly local option. On the islands themselves, motorbike rental (150-300 THB/day) is the preferred method for independent exploration, though tuk-tuks are available on larger islands like Koh Chang.",
+  "gettingAround": "Within Trat City, local transportation is primarily handled by tuk-tuks and songthaews (shared red buses), both extremely affordable at 20-40 THB per ride within town. For island access, shared minivans and speedboats depart regularly from Trat town to Koh Chang (45 minutes, 100-150 THB), Koh Kood (90 minutes, 150-200 THB), Koh Mak (60 minutes, 100-150 THB), and Koh Wai (variable). Grab is available in Trat City for convenient point-to-point rides, though songthaews remain the most authentic and budget-friendly local option. On the islands themselves, motorbike rental (150-300 THB/day) is the preferred method for independent exploration, though tuk-tuks are available on larger islands like Koh Chang.",
   "bestTimeToVisit": "The ideal time to visit Trat is November through February, when temperatures are mild (20-30°C) and rainfall is minimal, making beach days and island exploration most enjoyable. The dry season peaks in December and January, attracting more international visitors and offering the clearest skies for water activities and photography. March through May brings hot, humid weather (30-35°C), though fewer tourists mean lower prices and quieter beaches. Avoid September through October during the southwest monsoon season, when rough seas can limit island boat service and heavy rainfall affects outdoor activities. The dry season's calm waters also make this the best period for snorkeling, diving, and boat trips to remote islands.",
   "budgetGuide": {
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget travelers can stay in guesthouses or basic bungalows ($10-25/night), eat at night markets and street food stalls ($3-8/meal), use songthaews for transport ($0.50-1.50), and enjoy free attractions like beaches and mangrove forests. Island visits add boat costs (100-200 THB) and waterfall entrance fees (200 THB)."
+      "description": "Budget travelers can stay in guesthouses or basic bungalows ($10-25/night), eat at night markets and street food stalls (30-100 THB per meal), use songthaews for transport (20-40 THB), and enjoy free attractions like beaches and mangrove forests. Island visits add speedboat costs (100-200 THB) and waterfall entrance fees (200 THB each)."
     },
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Mid-range travelers enjoy 3-star hotels ($40-70/night), restaurant meals ($5-15), occasional tours and activities, and comfortable transport options. Island stays on beachfront properties ($50-120/night) and organized excursions factor into slightly higher daily costs while maintaining good value."
+      "description": "Mid-range travelers enjoy 3-star hotels ($50-100/night), restaurant meals (150-400 THB), occasional tours and activities, and comfortable transport options. Island stays on beachfront properties ($60-120/night) and organized excursions factor into slightly higher daily costs while maintaining good value."
     },
     "luxury": {
       "min": 150,
-      "max": 400,
-      "description": "Luxury travelers stay at premium resorts ($150-350/night), dine at upscale restaurants ($20-60/meal), arrange private tours and water sports, and enjoy spa services. Multiple island visits, fine wine, and exclusive experiences create the highest expense tier while experiencing Trat at its finest."
+      "max": 300,
+      "description": "Luxury travelers stay at premium resorts ($150-300/night), dine at upscale restaurants (300-800 THB per meal), arrange private tours and water sports, and enjoy spa services. Multiple island visits, fine dining, and exclusive experiences create the highest expense tier while experiencing Trat at its finest."
     }
   },
   "safetyTips": "Trat Province is generally very safe for tourists with low crime rates and welcoming locals. Standard travel precautions apply: avoid displaying expensive jewelry or electronics, secure belongings in crowded markets, and use registered taxis or Grab rather than unmarked taxis. Island boat travel is safe with modern speedboats, but verify operators and check weather conditions before departure during monsoon season. Petty theft can occur in tourist areas and night markets, so watch bags and pockets in crowded places. When renting motorbikes, ensure helmets are worn (legally required) and drive defensively on winding island roads.",
@@ -431,44 +426,36 @@
     },
     {
       "question": "What is the entrance fee for Koh Chang Island?",
-      "answer": "There is no entrance fee for Koh Chang itself. However, some attractions like waterfalls charge 200 THB ($6 USD). Speedboat transport from Trat town costs approximately 100-150 THB."
+      "answer": "There is no entrance fee for Koh Chang itself. However, some attractions like Klong Plu Waterfall and Than Mayom Waterfall charge 200 THB each ($6 USD). Speedboat transport from Trat town costs approximately 100-150 THB."
     },
     {
       "question": "Can I visit multiple islands in one day?",
-      "answer": "Yes, day trips between islands are possible via speedboat, though this is exhausting. Most travelers prefer staying 1-2 nights per island to enjoy the atmosphere and avoid excessive boat travel."
+      "answer": "Yes, day trips between islands are possible via speedboat (costs 100-200 THB per trip), though this is exhausting. Most travelers prefer staying 1-2 nights per island to enjoy the atmosphere and avoid excessive boat travel."
     },
     {
-      "question": "Is Trat cheaper than Bangkok?",
-      "answer": "Yes, significantly cheaper. Budget meals cost 40-60 THB versus 100+ THB in Bangkok, guesthouses run $10-25 versus $30-50, and transport is extremely affordable. Trat offers genuine value compared to Thailand's capital."
+      "question": "What is the best time to visit Trat?",
+      "answer": "The ideal time to visit is November through February, when temperatures are mild (20-30°C) and rainfall is minimal. December and January offer the clearest skies for water activities. Avoid September through October during the southwest monsoon season when rough seas can limit island boat service."
     },
     {
-      "question": "What is the best beach on Koh Chang?",
-      "answer": "White Sand Beach (Hat Sai Khao) is the longest and most developed beach with beachfront dining and sunset views. Lonely Beach (Hat Tha Nam) caters to backpackers with beach bars and budget accommodation."
-    },
-    {
-      "question": "How do I get from Bangkok to Trat?",
-      "answer": "Flight takes 1 hour to Trat Airport, though buses are cheaper at 300-500 THB ($9-15) for 5-6 hours. A combination of flight plus ground transport takes approximately 4-5 hours total when accounting for transfers."
-    },
-    {
-      "question": "Are the Trat islands good for snorkeling and diving?",
-      "answer": "Yes, Koh Kood and surrounding areas offer excellent snorkeling with crystal-clear water. Multiple dive operators offer PADI courses and guided dives, making it suitable for beginners and experienced divers."
+      "question": "How do I get from Trat Airport to the city?",
+      "answer": "Trat Airport (TDX) is 30-45 minutes by car to Trat City center, or 1-1.5 hours to island piers. Car rental, taxis, and shuttle services are available at the airport."
     }
   ],
   "practicalInfo": {
     "bestMonths": [
-      "Nov",
-      "Dec",
-      "Jan",
-      "Feb"
+      "November",
+      "December",
+      "January",
+      "February"
     ],
     "nearestAirport": "Trat Airport (TDX)",
     "travelTimeFromAirport": "30-45 minutes by car to Trat City; 1-1.5 hours to island piers",
     "localTransport": [
-      "Tuk-tuk",
-      "Songthaew",
-      "Motorbike rental",
-      "Grab",
-      "Speedboat to islands"
+      "Tuk-tuk (20-40 THB)",
+      "Songthaew/shared red bus (20-40 THB)",
+      "Motorbike rental (150-300 THB/day)",
+      "Grab app (available in city)",
+      "Speedboat to islands (100-200 THB)"
     ]
   },
   "enrichedAt": "2026-02-22T13:00:56.223Z",
@@ -496,5 +483,104 @@
       "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Trat.",
       "Koh Chang Island": "Visit Koh Chang Island during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
     }
-  }
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Koh Chang Island",
+      "description": "Thailand's second-largest island featuring white sand beaches, jungle waterfalls, and diverse accommodation options. The most popular island destination in Trat with activities ranging from snorkeling to hiking.",
+      "location": "45 minutes by speedboat from Trat town",
+      "entrance_fee": "None (individual attractions charge separately)",
+      "highlights": [
+        "White Sand Beach",
+        "Lonely Beach",
+        "Klong Plu Waterfall"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Koh Kood Island",
+      "description": "Quieter and less developed than Koh Chang, featuring pristine beaches, crystal-clear waters, and unspoiled natural environment. Ideal for travelers seeking tranquility and authentic island experiences.",
+      "location": "90 minutes by speedboat from Trat town",
+      "entrance_fee": "None",
+      "highlights": [
+        "Klong Chao Waterfall",
+        "Hat Khlong Hin Beach",
+        "Mangrove areas"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Klong Plu Waterfall",
+      "description": "Multi-tiered waterfall on Koh Chang with easy jungle trail access and natural swimming pools. Popular for families and casual visitors seeking a refreshing nature experience.",
+      "location": "Koh Chang Island",
+      "entrance_fee": "200 THB (approximately 6 USD)",
+      "highlights": [
+        "Natural pools",
+        "Jungle trails",
+        "Easy accessibility"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Than Mayom Waterfall",
+      "description": "Historic waterfall on Koh Chang featuring royal inscriptions and seven-tiered cascade. Significant cultural site with hiking trail and swimming opportunities.",
+      "location": "Koh Chang Island",
+      "entrance_fee": "200 THB (approximately 6 USD)",
+      "highlights": [
+        "Royal inscriptions",
+        "Seven tiers",
+        "Historic significance"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Koh Mak Island",
+      "description": "Car-free paradise island known for coconut plantations, peaceful atmosphere, and minimal tourist infrastructure. Perfect for digital detox and experiencing authentic island life.",
+      "location": "60 minutes by speedboat from Trat town",
+      "entrance_fee": "None",
+      "highlights": [
+        "No vehicles",
+        "Coconut plantations",
+        "Quiet beaches"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Trat Community Mangrove Forest",
+      "description": "Protected mangrove ecosystem with elevated boardwalk trails for wildlife spotting and birdwatching. Important ecological site showcasing Thailand's coastal biodiversity.",
+      "location": "Near Trat town center",
+      "entrance_fee": "None",
+      "highlights": [
+        "Boardwalk trails",
+        "Wildlife spotting",
+        "Birdwatching opportunities"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Trat Old Town",
+      "description": "Historic area featuring traditional wooden shophouses and serving as the center of Thailand's gem trading industry. Offers authentic small-town atmosphere and cultural heritage exploration.",
+      "location": "Trat City Center",
+      "entrance_fee": "None",
+      "highlights": [
+        "Wooden architecture",
+        "Gem trading heritage",
+        "Local markets"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Trat Night Market",
+      "description": "Bustling canal-side night market with local stalls serving traditional Thai street food at budget prices. Popular gathering spot for locals and visitors seeking authentic culinary experiences.",
+      "location": "Trat City Center",
+      "entrance_fee": "None",
+      "highlights": [
+        "Local cuisine",
+        "Budget-friendly prices",
+        "Authentic atmosphere"
+      ]
+    }
+  ],
+  "factchecked_at": "2025-03-08T18:42:42.229Z"
 }

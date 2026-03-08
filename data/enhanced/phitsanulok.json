@@ -115,96 +115,162 @@
   ],
   "top_restaurants": [
     {
-      "name": "Flying Vegetable Restaurant (Phak Bung Loi Fa)",
-      "cuisine": "Thai Specialty",
-      "price_range": "$",
-      "description": {
-        "en": "Famous for the theatrical presentation of stir-fried morning glory launched through the air from a wok to a waiter who catches it on a plate. A Phitsanulok icon since the 1960s.",
-        "nl": "Beroemd om de theatrale presentatie van gebakken morning glory die door de lucht wordt gelanceerd vanuit een wok naar een ober die het op een bord vangt. Een icoon van Phitsanulok sinds de jaren 60."
-      }
+      "rank": 1,
+      "name": "Krua",
+      "description": "Well-rated restaurant serving Chinese and Asian cuisine with authentic flavors. TripAdvisor rating: 4.4/5.",
+      "cuisine_type": "Chinese, Asian",
+      "price_range": "100-300 THB per meal",
+      "highlights": [
+        "Authentic Asian dishes",
+        "4.4 TripAdvisor rating",
+        "Local favorite"
+      ]
     },
     {
-      "name": "Phitsanulok Night Market (Phaya Sua Road)",
-      "cuisine": "Thai Street Food",
-      "price_range": "$",
-      "description": {
-        "en": "Sprawling night market with dozens of food stalls serving noodles, grilled meats, desserts, and the local kuay tiew hoy khae noodle soup that is the city's signature dish.",
-        "nl": "Uitgestrekte nachtmarkt met tientallen eetkramen die noodles, gegrild vlees, desserts en de lokale kuay tiew hoy khae noedelsoep serveren, het kenmerkende gerecht van de stad."
-      }
+      "rank": 2,
+      "name": "Meet Smile",
+      "description": "Casual café and fast food establishment with excellent reviews. TripAdvisor rating: 5/5.",
+      "cuisine_type": "Café, Fast Food",
+      "price_range": "50-200 THB per meal",
+      "highlights": [
+        "Perfect TripAdvisor rating",
+        "Quick service",
+        "Casual dining"
+      ]
     },
     {
+      "rank": 3,
+      "name": "Krua Nannum",
+      "description": "Restaurant specializing in Indian and Asian fusion cuisine. TripAdvisor rating: 4.3/5.",
+      "cuisine_type": "Indian, Asian",
+      "price_range": "150-400 THB per meal",
+      "highlights": [
+        "Indian and Asian fusion",
+        "4.3 TripAdvisor rating",
+        "Diverse menu"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Hoikha Rimnan",
+      "description": "Traditional Thai and Asian restaurant with authentic local cooking. TripAdvisor rating: 4/5.",
+      "cuisine_type": "Asian, Thai",
+      "price_range": "100-300 THB per meal",
+      "highlights": [
+        "Authentic Thai recipes",
+        "Local favorite",
+        "4 TripAdvisor rating"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Ban Mai Restaurant",
+      "description": "Casual Asian and Thai dining establishment popular with locals and visitors. TripAdvisor rating: 4/5.",
+      "cuisine_type": "Asian, Thai",
+      "price_range": "100-300 THB per meal",
+      "highlights": [
+        "Traditional Thai dishes",
+        "Local atmosphere",
+        "4 TripAdvisor rating"
+      ]
+    },
+    {
+      "rank": 6,
       "name": "Pak Bung Loi Fa (Original)",
-      "cuisine": "Thai River Cuisine",
-      "price_range": "$-$$",
-      "description": {
-        "en": "The original flying vegetable restaurant on the Nan River bank. Besides the famous flying morning glory, serves excellent river fish dishes and tom yum with a riverside ambiance.",
-        "nl": "Het originele vliegende groente restaurant aan de oever van de Nan-rivier. Naast de beroemde vliegende morning glory, serveert het uitstekende riviervisgerechten en tom yum met riviersfeer."
-      }
+      "description": "The original riverside flying vegetable restaurant specializing in river fish dishes and tom yum with distinctive theatrical presentation.",
+      "cuisine_type": "Thai River Cuisine",
+      "price_range": "150-400 THB per meal",
+      "highlights": [
+        "Famous flying morning glory",
+        "Excellent river fish",
+        "Riverside ambiance"
+      ]
     },
     {
+      "rank": 7,
+      "name": "Phitsanulok Night Market",
+      "description": "Sprawling evening market with numerous authentic food stalls serving local specialties and street food.",
+      "cuisine_type": "Thai Street Food",
+      "price_range": "40-150 THB per item",
+      "highlights": [
+        "Authentic kuay tiew hoy khae",
+        "Multiple food vendors",
+        "Lively atmosphere"
+      ]
+    },
+    {
+      "rank": 8,
       "name": "Rim Nam Food Park",
-      "cuisine": "Thai Mixed",
-      "price_range": "$",
-      "description": {
-        "en": "An open-air riverside food court where you can choose from multiple vendors and eat overlooking the Nan River. Popular with locals for dinner and evening drinks.",
-        "nl": "Een openlucht foodcourt aan de rivier waar je kunt kiezen uit meerdere verkopers en eten met uitzicht op de Nan-rivier. Populair bij locals voor het avondeten en avonddrankjes."
-      }
-    },
-    {
-      "name": "Houseboat Restaurant (Rauen Pae)",
-      "cuisine": "Thai Seafood",
-      "price_range": "$$",
-      "description": {
-        "en": "Dine on a traditional wooden houseboat floating on the Nan River. Specializes in grilled freshwater fish, spicy river prawn salad, and classic central Thai curries.",
-        "nl": "Dineer op een traditionele houten woonboot drijvend op de Nan-rivier. Gespecialiseerd in gegrilde zoetwatervis, pittige riviergarnalensalade en klassieke centraal-Thaise curry's."
-      }
+      "description": "Open-air riverside food court with multiple vendor options and Nan River views. Popular with locals for dinner and evening drinks.",
+      "cuisine_type": "Thai Mixed",
+      "price_range": "60-200 THB per meal",
+      "highlights": [
+        "Multiple vendors",
+        "Riverside seating",
+        "Local favorite"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "The Grand Riverside Hotel",
-      "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Phitsanulok's premier hotel overlooking the Nan River with modern rooms, pool, and excellent restaurant. Walking distance to Wat Yai and the night market.",
-        "nl": "Het beste hotel van Phitsanulok met uitzicht op de Nan-rivier, moderne kamers, zwembad en uitstekend restaurant. Op loopafstand van Wat Yai en de nachtmarkt."
-      }
-    },
-    {
-      "name": "Topland Hotel & Convention Centre",
-      "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Large hotel in the city center with rooftop pool, connected shopping mall, and comfortable rooms. The most convenient option for exploring Phitsanulok.",
-        "nl": "Groot hotel in het stadscentrum met zwembad op het dak, aangesloten winkelcentrum en comfortabele kamers. De meest handige optie voor het verkennen van Phitsanulok."
-      }
-    },
-    {
-      "name": "Lithai Guesthouse",
+      "rank": 1,
+      "name": "B2 Phitsanulok Premier Hotel",
+      "description": "Well-rated 3-star hotel offering good value with modern amenities. TripAdvisor rating: 8.7/10.",
+      "price_range": "$19/night (600 THB)",
       "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "Friendly backpacker guesthouse on the east bank of the Nan River run by a helpful local family. Basic rooms but great atmosphere and excellent travel advice.",
-        "nl": "Vriendelijk backpackergasthuis aan de oostoever van de Nan-rivier, gerund door een behulpzame lokale familie. Eenvoudige kamers maar geweldige sfeer en uitstekend reisadvies."
-      }
+      "highlights": [
+        "8.7 TripAdvisor rating",
+        "Modern rooms",
+        "Excellent value"
+      ]
     },
     {
-      "name": "Pattara Resort & Spa",
-      "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Modern resort on the outskirts of town with spacious rooms, pool, and spa. Good option for those with their own transport seeking quiet accommodation.",
-        "nl": "Modern resort aan de rand van de stad met ruime kamers, zwembad en spa. Goede optie voor wie eigen vervoer heeft en rustige accommodatie zoekt."
-      }
+      "rank": 2,
+      "name": "B2 Phitsanulok Boutique & Budget Hotel",
+      "description": "Budget boutique property combining style with affordability. TripAdvisor rating: 8.3/10.",
+      "price_range": "$17-40/night (540-1,280 THB)",
+      "category": "budget",
+      "highlights": [
+        "Boutique design",
+        "Budget-friendly",
+        "8.3 TripAdvisor rating"
+      ]
     },
     {
-      "name": "Yodia Heritage Hotel",
+      "rank": 3,
+      "name": "Nonsi Hotel Phitsanulok",
+      "description": "Mid-range hotel with solid comfort and service. TripAdvisor rating: 8.7/10.",
+      "price_range": "$21/night (670 THB)",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Boutique heritage hotel in a restored building near the old town. Charming rooms with traditional decor and a lovely garden courtyard breakfast area.",
-        "nl": "Boetiek erfgoedhotel in een gerestaureerd gebouw bij de oude stad. Charmante kamers met traditionele inrichting en een mooie binnentuinontbijtruimte."
-      }
+      "highlights": [
+        "8.7 TripAdvisor rating",
+        "Comfortable rooms",
+        "Central location"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Mayflower Grande Hotel Phitsanulok",
+      "description": "Mid-range hotel offering excellent value with entertainment options. Located near Sergeant Major Thawee Folk Museum. TripAdvisor rating: 8.7/10.",
+      "price_range": "$24-53/night (770-1,700 THB)",
+      "category": "midrange",
+      "highlights": [
+        "8.7 TripAdvisor rating",
+        "Karaoke facilities",
+        "Museum proximity"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "The Imperial Hotel & Convention Centre Phitsanulok",
+      "description": "Full-service mid-range hotel with business facilities and convention spaces. TripAdvisor rating: 8.5/10.",
+      "price_range": "$31/night (990 THB)",
+      "category": "midrange",
+      "highlights": [
+        "8.5 TripAdvisor rating",
+        "Convention facilities",
+        "Professional service"
+      ]
     }
   ],
   "travel_tips": [
@@ -280,134 +346,140 @@
   "enhanced_at": "2026-02-22T10:00:00.000Z",
   "ai_generated": true,
   "overview": "Phitsanulok is a vibrant gateway city straddling central and northern Thailand, renowned as a spiritual and cultural hub along the picturesque Nan River. The city's crown jewel is Wat Phra Si Rattana Mahathat, home to one of Thailand's most revered Buddha images and a masterpiece of riverside temple architecture. With a population of 84,000, Phitsanulok retains an authentic, unhurried atmosphere where ancient Buddhist traditions thrive alongside lively night markets and exceptional local cuisine. The city serves as an ideal base for exploring both the historical sites of the north and the cultural riches of central Thailand.",
-  "thingsToDo": "The must-see Wat Phra Si Rattana Mahathat (Wat Yai) is free to enter and features one of Thailand's most beautiful Buddha images in an active worship setting right on the riverbank. The Sergeant Major Thawee Folk Museum (50 THB/$1 entrance) offers fascinating insights into rural Thai life through a personal collection of traditional artifacts and crafts. For a unique cultural experience, visit the Buddha Casting Foundry at Baan Khun Phra to witness the ancient lost-wax casting technique performed by working artisans. The Nan River Promenade is perfect for evening strolls with riverside temple reflections and dining options, while the Phitsanulok Night Market delivers authentic street food and local noodle soups. For something truly distinctive, the Flying Vegetable Restaurant (Pak Bung Loi Fa) combines riverside dining with an entertaining show of tossed fried morning glory. Nature enthusiasts should explore Phu Hin Rong Kla National Park (200 THB/$6 entrance) famous for its mushroom rock formations and cool mountain climate, or Thung Salaeng Luang National Park (200 THB/$6) where wild elephants roam through savanna grasslands and pine forests.",
+  "thingsToDo": "The must-see Wat Phra Si Rattana Mahathat (Wat Yai) is free to enter and features one of Thailand's most beautiful Buddha images in an active worship setting right on the riverbank. Visitors typically make small donations (10-100 THB/$0.30-3) as a form of respect. The Sergeant Major Thawee Folk Museum (50 THB/$1.50 entrance) offers fascinating insights into rural Thai life through a personal collection of traditional artifacts and crafts. For a unique cultural experience, visit the Buddha Casting Foundry at Baan Khun Phra to witness the ancient lost-wax casting technique performed by working artisans (free entry, donations encouraged). The Nan River Promenade is perfect for evening strolls with riverside temple reflections and dining options, while the Phitsanulok Night Market delivers authentic street food and local noodle soups. For something truly distinctive, visit the Flying Vegetable Restaurant (Pak Bung Loi Fa) which combines riverside dining with the entertaining show of tossed fried morning glory. Nature enthusiasts should explore Phu Hin Rong Kla National Park (200 THB/$6 entrance) famous for its mushroom rock formations and cool mountain climate, or Thung Salaeng Luang National Park (200 THB/$6) where wild elephants roam through savanna grasslands and pine forests.",
   "whereToStay": "Phitsanulok offers accommodation options across all budget levels, with most hotels concentrated near the city center within walking distance of the Nan River and main attractions. Budget travelers can find comfortable guesthouses and basic hotels for $15-30 per night, while mid-range hotels typically offer better amenities and river views at $30-80 nightly. The city center area near Wat Phra Si Rattana Mahathat is the most convenient location for accessing temples, markets, and riverside dining. For those seeking more comfort, several 3-4 star hotels provide air conditioning, swimming pools, and on-site restaurants at reasonable prices. Luxury options with convention facilities and premium dining are available for $80+ per night, offering panoramic city views and comprehensive amenities.",
   "whereToEat": [
     {
-      "name": "Phitsanulok Night Market",
-      "cuisine": "Street Food/Thai",
+      "name": "Phitsanulok Night Market (Phaya Sua Road)",
+      "cuisine": "Thai Street Food",
       "priceRange": "$",
-      "description": "The city's most authentic dining experience featuring local noodle soups, grilled skewers, and traditional Thai street food in a lively evening atmosphere. Perfect for budget travelers seeking genuine local flavors."
+      "description": "Sprawling night market with dozens of food stalls serving noodles, grilled meats, desserts, and the local kuay tiew hoy khae noodle soup. Most authentic local dining experience."
     },
     {
-      "name": "K. Khao Tom Kui Restaurant",
-      "cuisine": "Thai Rice Porridge",
-      "priceRange": "$",
-      "description": "A traditional long-established rice porridge restaurant near the airport area offering a variety of dishes at moderate prices. Located opposite Naresuan University's Demonstration School."
-    },
-    {
-      "name": "Flying Vegetable Restaurant (Pak Bung Loi Fa)",
-      "cuisine": "Thai",
+      "name": "Pak Bung Loi Fa (Original)",
+      "cuisine": "Thai River Cuisine",
       "priceRange": "$$",
-      "description": "A riverside dining venue famous for its entertaining flying vegetable show where fried morning glory is tossed directly onto plates. A unique cultural dining experience combining good food with spectacle."
+      "description": "Original riverside flying vegetable restaurant on Nan River bank. Famous for theatrical stir-fried morning glory presentation plus excellent river fish dishes and tom yum."
     },
     {
-      "name": "Saneh Mho Kaeng",
-      "cuisine": "Thai Curry/International",
+      "name": "Krua",
+      "cuisine": "Chinese, Asian",
       "priceRange": "$",
-      "description": "A convenient roadside restaurant on the Asian Highway offering rice and curry, noodles, and fresh coffee. Also features interactive activities like feeding koi fish and bottle-feeding goats. Open 7 AM-4 PM daily."
+      "description": "Well-rated restaurant serving authentic Chinese and Asian cuisine. TripAdvisor rating: 4.4/5. Local favorite."
     },
     {
-      "name": "Dynasty Restaurant at Topland Hotel",
-      "cuisine": "Chinese",
+      "name": "Krua Nannum",
+      "cuisine": "Indian, Asian",
       "priceRange": "$$",
-      "description": "Authentic Chinese dining venue located at Topland Hotel with panoramic city and river views. Offers a more upscale dining experience while showcasing Phitsanulok's riverfront beauty."
+      "description": "Indian and Asian fusion restaurant with diverse menu options. TripAdvisor rating: 4.3/5."
     },
     {
-      "name": "Wat Chan Tawan Tok Temple Area Noodle Shop",
-      "cuisine": "Thai Noodles",
+      "name": "Meet Smile",
+      "cuisine": "Café, Fast Food",
       "priceRange": "$",
-      "description": "A casual noodle establishment near the golden Wat Chan Tawan Tok temple featuring hanging seating and authentic local noodle preparations. Great for quick, budget-friendly meals."
+      "description": "Casual café and fast food establishment with excellent service. Perfect 5/5 TripAdvisor rating."
     },
     {
-      "name": "Local Nan River Restaurants",
-      "cuisine": "Thai",
-      "priceRange": "$$",
-      "description": "Multiple riverside dining establishments along the Nan River Promenade offering traditional Thai cuisine with scenic water views, particularly pleasant during evening dining."
+      "name": "Rim Nam Food Park",
+      "cuisine": "Thai Mixed",
+      "priceRange": "$",
+      "description": "Open-air riverside food court with multiple vendor options overlooking Nan River. Popular with locals for dinner and evening drinks."
+    },
+    {
+      "name": "Ban Mai Restaurant",
+      "cuisine": "Asian, Thai",
+      "priceRange": "$",
+      "description": "Casual Thai and Asian dining with traditional local recipes. TripAdvisor rating: 4/5."
+    },
+    {
+      "name": "Hoikha Rimnan",
+      "cuisine": "Thai, Asian",
+      "priceRange": "$",
+      "description": "Traditional Thai and Asian restaurant with authentic local cooking. TripAdvisor rating: 4/5."
     }
   ],
   "topHotels": [
     {
-      "name": "Topland Hotel & Convention Centre",
-      "category": "midrange",
-      "priceRange": "$33/night",
+      "name": "B2 Phitsanulok Premier Hotel",
+      "category": "budget",
+      "priceRange": "$19/night",
       "area": "City Center",
-      "description": "Popular choice with 8.1/10 rating featuring panoramic city and river views. Located just 0.2 miles from city center with Dynasty Chinese restaurant on-site and modern convention facilities."
+      "description": "Budget-friendly 3-star hotel with modern amenities and 8.7/10 TripAdvisor rating. Good value for basic comfort accommodations."
     },
     {
-      "name": "Shinnabhura Historic Boutique Hotel",
-      "category": "midrange",
-      "priceRange": "$35-50/night (estimated)",
+      "name": "B2 Phitsanulok Boutique & Budget Hotel",
+      "category": "budget",
+      "priceRange": "$17-40/night",
       "area": "City Center",
-      "description": "Excellent-rated (8.9/10) boutique property featuring an art gallery and historic charm. Ideal for travelers seeking character and cultural ambiance in the heart of Phitsanulok."
+      "description": "Boutique budget hotel combining style with affordability. 8.3/10 TripAdvisor rating. Good for design-conscious budget travelers."
+    },
+    {
+      "name": "Nonsi Hotel Phitsanulok",
+      "category": "midrange",
+      "priceRange": "$21/night",
+      "area": "City Center",
+      "description": "Mid-range hotel with comfortable rooms and solid service. 8.7/10 TripAdvisor rating. Convenient city center location."
     },
     {
       "name": "Mayflower Grande Hotel Phitsanulok",
       "category": "midrange",
-      "priceRange": "$21/night",
-      "area": "Near Ja Thawee Folk Museum",
-      "description": "Very good-rated (8.1/10) hotel located just 1.0 miles from city center with excellent value. Features entertainment options including karaoke rooms and proximity to the Sergeant Major Thawee Folk Museum."
+      "priceRange": "$24-53/night",
+      "area": "Near Sergeant Major Thawee Folk Museum",
+      "description": "Mid-range hotel with excellent value and entertainment options. 8.7/10 TripAdvisor rating. Features karaoke rooms."
     },
     {
       "name": "The Imperial Hotel & Convention Centre Phitsanulok",
       "category": "midrange",
-      "priceRange": "$27/night",
-      "area": "City Center Area",
-      "description": "Good-rated (7.7/10) property with dedicated conference facilities and lobby bar featuring live music. Located 1.4 miles from city center, offering reliable mid-range comfort and entertainment."
-    },
-    {
-      "name": "Phitsanulok Budget Guesthouse Options",
-      "category": "budget",
-      "priceRange": "$15-25/night",
-      "area": "Various Locations",
-      "description": "Multiple basic guesthouses throughout the city offer clean rooms with essential amenities at highly affordable prices, perfect for budget-conscious travelers exploring the region."
-    },
-    {
-      "name": "River View Budget Hotels",
-      "category": "budget",
-      "priceRange": "$18-30/night",
-      "area": "Nan River Area",
-      "description": "Several simple hotels near the Nan River Promenade provide basic accommodations with convenient access to temples, markets, and dining along the waterfront."
-    },
-    {
-      "name": "Phitsanulok Convention Hotels",
-      "category": "luxury",
-      "priceRange": "$80-150/night",
+      "priceRange": "$31/night",
       "area": "City Center",
-      "description": "Premium hotels with full convention facilities, panoramic views, fine dining restaurants, and comprehensive amenities for business travelers and upscale leisure visitors seeking superior comfort."
+      "description": "Full-service mid-range hotel with convention facilities. 8.5/10 TripAdvisor rating. Professional service and business amenities."
     },
     {
-      "name": "Riverside Resort Properties",
-      "category": "luxury",
-      "priceRange": "$100-200/night",
-      "area": "Nan River Waterfront",
-      "description": "Upscale riverside accommodations offering scenic water views, spa facilities, premium restaurants, and personalized service for travelers seeking luxury and relaxation in Phitsanulok."
+      "name": "Topland Hotel & Convention Centre",
+      "category": "midrange",
+      "priceRange": "$30-45/night",
+      "area": "City Center",
+      "description": "Large hotel with rooftop pool, connected shopping mall, and panoramic city/river views. Convenient for exploring Phitsanulok."
+    },
+    {
+      "name": "Lithai Guesthouse",
+      "category": "budget",
+      "priceRange": "$12-18/night",
+      "area": "East bank of Nan River",
+      "description": "Friendly backpacker guesthouse run by local family. Basic rooms but great atmosphere and excellent travel advice."
+    },
+    {
+      "name": "Pattara Resort & Spa",
+      "category": "midrange",
+      "priceRange": "$35-50/night",
+      "area": "Outskirts of town",
+      "description": "Modern resort with spacious rooms, pool, and spa facilities. Good for those seeking quiet accommodation with own transport."
     }
   ],
-  "gettingAround": "Phitsanulok is a compact city best navigated by tuk-tuk, the most common form of local transport where short rides typically cost 40-60 THB ($1.50-2). Songthaews (shared minibuses) run set routes for 10-20 THB and are economical for longer distances within the city. Motorbike rentals are widely available for independent travelers at 200-300 THB daily ($6-10), providing flexibility to explore surrounding temples and attractions. Grab (the Southeast Asian ride-hailing app) operates in Phitsanulok for more reliable, metered fares. For day trips to national parks or nearby towns like Sukhothai (60 km away), consider hiring a motorbike or joining organized tours. The city's relatively small size means most central attractions are within 3-5 km of each other.",
+  "gettingAround": "Phitsanulok is a compact city best navigated by tuk-tuk, the most common form of local transport where short rides typically cost 40-60 THB ($1.20-1.80). Songthaews (shared minibuses) run set routes for 10-20 THB ($0.30-0.60) and are economical for longer distances within the city. Motorbike rentals are widely available for independent travelers at 200-300 THB daily ($6-9), providing flexibility to explore surrounding temples and attractions. Grab (the Southeast Asian ride-hailing app) operates in Phitsanulok for more reliable, metered fares. For day trips to national parks or nearby towns like Sukhothai (60 km away), consider hiring a motorbike (200-300 THB/day) or joining organized tours. The city's relatively small size means most central attractions are within 3-5 km of each other.",
   "bestTimeToVisit": "The ideal time to visit Phitsanulok is November through February, when cool, dry weather dominates with temperatures ranging from 15-28°C (59-82°F). December and January are particularly pleasant with minimal rainfall and comfortable conditions for temple visits and outdoor activities. March through May brings hot, dry weather with temperatures climbing above 35°C (95°F), manageable but less comfortable for sightseeing. The southwest monsoon (May-October) brings heavy rains, particularly July-September, which can cause minor flooding and make national park visits challenging. However, the rainy season offers lush green landscapes and fewer tourists. Avoid visiting during October when flooding risks are highest in the region. Phitsanulok hosts various local festivals aligned with Buddhist calendar events, particularly around Songkran (April) and Loy Krathong (November), which bring cultural celebrations to the riverside.",
   "budgetGuide": {
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget travelers staying in basic guesthouses ($15-25), eating street food and night market meals ($3-8), using tuk-tuks and songthaews ($1-3 daily), and visiting free temple attractions with modest donations can comfortably explore Phitsanulok for $20-40 daily."
+      "description": "Budget travelers staying in basic guesthouses ($12-18/night or 400-600 THB), eating street food and night market meals (40-150 THB per item), using tuk-tuks and songthaews ($1.20-2 for short rides), and visiting free temple attractions with modest donations (10-100 THB) can comfortably explore Phitsanulok for $20-40 daily."
     },
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Mid-range travelers staying in 3-star hotels ($25-50), dining at casual restaurants ($8-15 per meal), paying for museum and national park entrances ($1-6), and using Grab or occasional longer tuk-tuk rides ($3-5) typically spend $50-100 daily."
+      "description": "Mid-range travelers staying in 3-star hotels ($20-50/night or 640-1,600 THB), dining at casual restaurants (150-400 THB per meal), paying for museum and national park entrances (50-200 THB), and using Grab or occasional longer tuk-tuk rides ($3-5) typically spend $50-100 daily."
     },
     "luxury": {
       "min": 150,
       "max": 400,
-      "description": "Luxury travelers enjoying 4-5 star hotels ($80-200), fine dining restaurants ($20-50 per meal), private tours and guides ($80-150 daily), and premium transportation expect daily costs of $150-400 or more."
+      "description": "Luxury travelers enjoying 4-5 star hotels ($80-200/night or 2,560-6,400 THB), fine dining restaurants (800-2,000 THB per meal), private tours and guides ($80-150 daily), and premium transportation expect daily costs of $150-400 or more."
     }
   },
   "safetyTips": "Phitsanulok is generally a safe city for tourists with a high safety index of 80-85 and minimal violent crime. However, petty theft does occur in crowded markets and night bazaars, so keep valuables secure and avoid displaying expensive items. During the wet season (May-October), be aware of dengue fever risks—use mosquito repellent containing DEET and wear long sleeves during dawn and dusk when mosquitoes are most active. Minor flooding can affect low-lying areas during heavy rains in September-October; check local conditions before visiting riverside areas. Tap water is generally not recommended for drinking; purchase bottled water readily available throughout the city. Respect temple customs: dress modestly (covering shoulders and knees), remove shoes when entering sacred areas, and never disrespect Buddha images. Avoid carrying large amounts of cash; ATMs are abundant in the city center.",
   "faq": [
     {
       "question": "How much time do I need to spend in Phitsanulok?",
-      "answer": "Most visitors spend 1-2 days exploring main attractions like Wat Phra Si Rattana Mahathat, the night market, and the Buddha Casting Foundry. If adding national park visits or day trips to Sukhothai, allocate 2-3 days. The city is best as a base for exploring the wider region rather than a destination for extended stays."
+      "answer": "Most visitors spend 1-2 days exploring main attractions like Wat Phra Si Rattana Mahathat, the night market, and the Buddha Casting Foundry. If adding national park visits or day trips to Sukhothai (60 km away), allocate 2-3 days. The city is best as a base for exploring the wider region rather than a destination for extended stays."
     },
     {
       "question": "What is the entrance fee for Wat Phra Si Rattana Mahathat?",
@@ -415,39 +487,31 @@
     },
     {
       "question": "How do I get from Bangkok to Phitsanulok?",
-      "answer": "The most convenient option is domestic flight (1 hour, ~$50-80), though buses are available (5-6 hours, $10-15) from Bangkok's Northern Terminal. Train travel takes 5-7 hours with overnight sleeper options available. Most visitors find flying most practical despite slightly higher costs."
+      "answer": "The most convenient option is domestic flight (1 hour, approximately 1,600-2,560 THB/$50-80), though buses are available (5-6 hours, 320-480 THB/$10-15) from Bangkok's Northern Terminal. Train travel takes 5-7 hours with overnight sleeper options available. Most visitors find flying most practical despite slightly higher costs."
     },
     {
-      "question": "Is it safe to visit temples as a tourist?",
-      "answer": "Yes, temples in Phitsanulok actively welcome tourists and visitors. Respect local customs by dressing modestly (covering shoulders and knees), removing shoes before entering shrine areas, and never touching or disrespecting Buddha images. Most temples have clear guidelines for visitors."
+      "question": "What are typical transport costs in Phitsanulok?",
+      "answer": "Tuk-tuk short rides cost 40-60 THB ($1.20-1.80), songthaews (shared minibuses) 10-20 THB ($0.30-0.60), and motorbike rentals 200-300 THB daily ($6-9). Airport transfers take 15-20 minutes and cost approximately 150-250 THB via tuk-tuk or 300-400 THB via private taxi."
     },
     {
-      "question": "Can I visit multiple attractions in one day?",
-      "answer": "Yes. Most main attractions (Wat Phra Si Rattana Mahathat, Folk Museum, Nan River Promenade, night market) are within close proximity. A typical day itinerary could cover 3-4 attractions comfortably by tuk-tuk ($2-5 total). National parks require full days and are best as separate trips."
-    },
-    {
-      "question": "What's the best street food to try in Phitsanulok?",
-      "answer": "The night market features exceptional local specialties: khao tom (rice porridge), various noodle soups, grilled meats on skewers, and sticky rice. Pak bung loi fa (flying morning glory) is the signature dish when dining at riverside restaurants. Most dishes cost 30-80 THB ($1-2.50)."
-    },
-    {
-      "question": "Do I need a special visa for Thailand?",
-      "answer": "Most nationalities enjoy visa-free entry for 30-60 days by air (tourist visa available on arrival). Some nationalities require pre-arranged visas ($30-50). Check Thailand's official tourism website (thailandtravel.or.th) for your specific nationality requirements before travel."
+      "question": "When is the best time to visit Phitsanulok?",
+      "answer": "November through February is ideal with cool, dry weather (15-28°C/59-82°F). December and January are particularly pleasant. March-May brings hot, dry weather (35°C+/95°F+). May-October is the rainy season with heavy rainfall July-September, though it offers lush landscapes and fewer tourists. Avoid October due to highest flooding risk."
     }
   ],
   "practicalInfo": {
     "bestMonths": [
-      "Nov",
-      "Dec",
-      "Jan",
-      "Feb"
+      "November",
+      "December",
+      "January",
+      "February"
     ],
     "nearestAirport": "Phitsanulok International Airport (PHS), located in the city",
     "travelTimeFromAirport": "15-20 minutes by tuk-tuk or car to city center",
     "localTransport": [
-      "Tuk-tuk",
-      "Songthaew",
-      "Motorbike rental",
-      "Grab",
+      "Tuk-tuk (40-60 THB per short ride)",
+      "Songthaew (10-20 THB per ride)",
+      "Motorbike rental (200-300 THB daily)",
+      "Grab app",
       "Walking (city center is compact)"
     ]
   },
@@ -477,5 +541,104 @@
       "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Phitsanulok.",
       "Wat Phra Si Rattana Mahathat": "Visit Wat Phra Si Rattana Mahathat during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
     }
-  }
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Wat Phra Si Rattana Mahathat (Wat Yai)",
+      "description": "The city's most important temple featuring one of Thailand's most revered Buddha images on the banks of the Nan River. An active worship site with impressive riverside temple architecture.",
+      "location": "Riverside, city center",
+      "entrance_fee": "Free (donations 10-100 THB appreciated)",
+      "highlights": [
+        "Revered Phra Si Rattana Mahathat Buddha image",
+        "Riverside location with temple reflections",
+        "Active worship site"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Sergeant Major Thawee Folk Museum",
+      "description": "Private museum showcasing traditional rural Thai life through extensive collections of artifacts, crafts, and household items. Offers genuine insights into local heritage and cultural practices.",
+      "location": "Near city center, opposite Naresuan University",
+      "entrance_fee": "50 THB ($1.50)",
+      "highlights": [
+        "Personal collection of traditional artifacts",
+        "Rural Thai life exhibits",
+        "Authentic cultural experience"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Phu Hin Rong Kla National Park",
+      "description": "Mountain national park famous for distinctive mushroom rock formations and cool climate. Located about 35-40 km from Phitsanulok with scenic hiking trails.",
+      "location": "35-40 km east of Phitsanulok",
+      "entrance_fee": "200 THB ($6)",
+      "highlights": [
+        "Mushroom rock formations",
+        "Cool mountain climate",
+        "Scenic hiking trails"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Thung Salaeng Luang National Park",
+      "description": "Vast national park with diverse ecosystems featuring wild elephants, pine forests, and savanna grasslands. About 60 km from the city, ideal for nature enthusiasts.",
+      "location": "60 km north of Phitsanulok",
+      "entrance_fee": "200 THB ($6)",
+      "highlights": [
+        "Wild elephant populations",
+        "Pine forests and savanna",
+        "Diverse wildlife viewing"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Buddha Casting Foundry (Baan Khun Phra)",
+      "description": "Working foundry demonstrating the ancient lost-wax casting technique used to create Buddha images. Visitors can observe artisans at work and purchase Buddha images.",
+      "location": "Within city area",
+      "entrance_fee": "Free (purchasing items optional)",
+      "highlights": [
+        "Live lost-wax casting demonstrations",
+        "Artisan workshops",
+        "Buddha image purchases available"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Nan River Promenade",
+      "description": "Riverside walking path perfect for evening strolls with views of temple reflections and dining options along the water. Popular local gathering spot.",
+      "location": "Along the Nan River, city center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "River views and temple reflections",
+        "Evening stroll atmosphere",
+        "Riverside dining options"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Phitsanulok Night Market (Phaya Sua Road)",
+      "description": "Sprawling evening market with dozens of food stalls serving noodles, grilled meats, desserts, and the signature kuay tiew hoy khae local noodle soup. Most authentic local dining experience.",
+      "location": "Phaya Sua Road, city center",
+      "entrance_fee": "Free to enter",
+      "highlights": [
+        "Authentic Thai street food",
+        "Local kuay tiew hoy khae noodle soup",
+        "Lively evening atmosphere"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Flying Vegetable Restaurant (Pak Bung Loi Fa)",
+      "description": "Iconic riverside dining venue famous for theatrical presentation of stir-fried morning glory tossed through the air from wok to plate. Operating since the 1960s.",
+      "location": "Nan River bank",
+      "entrance_fee": "N/A - Restaurant",
+      "highlights": [
+        "Famous flying vegetable show",
+        "Riverside ambiance",
+        "River fish dishes and tom yum"
+      ]
+    }
+  ],
+  "factchecked_at": "2026-03-08T18:41:30.078Z"
 }

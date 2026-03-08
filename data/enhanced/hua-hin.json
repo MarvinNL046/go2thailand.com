@@ -115,96 +115,149 @@
   ],
   "top_restaurants": [
     {
-      "name": "Chatchai Market (Seafood Stalls)",
-      "cuisine": "Thai Seafood",
-      "price_range": "$",
-      "description": {
-        "en": "Hua Hin's legendary night market for seafood. The hoi tod (crispy mussel omelet) stalls and grilled squid vendors have been serving locals and visitors for decades.",
-        "nl": "Hua Hin's legendarische nachtmarkt voor zeevruchten. De hoi tod (knapperige mosselomelet) kraampjes en gegrilde inktviskramen bedienen al tientallen jaren locals en bezoekers."
-      }
+      "rank": 1,
+      "name": "Akoya | Beach Lounge",
+      "description": "Beachfront bar and lounge with 5-star TripAdvisor rating offering Thai and international cocktails with ocean views.",
+      "cuisine_type": "Bar, Thai",
+      "price_range": "200-400 THB ($6-12)",
+      "highlights": [
+        "Beachfront location",
+        "Cocktails",
+        "Sunset views",
+        "5-star rated"
+      ]
     },
     {
-      "name": "Hua Hin Koti",
-      "cuisine": "Thai Traditional",
-      "price_range": "$$",
-      "description": {
-        "en": "Charming old wooden house restaurant on Naeb Kehardt Road serving refined Thai dishes. The massaman curry and pineapple fried rice are standouts.",
-        "nl": "Charmant restaurant in een oud houten huis aan Naeb Kehardt Road met verfijnde Thaise gerechten. De massaman curry en ananas gebakken rijst zijn uitblinkers."
-      }
+      "rank": 2,
+      "name": "Gingerfire Restaurant",
+      "description": "5-star rated restaurant serving international and Asian fusion cuisine with fresh ingredients and creative presentations.",
+      "cuisine_type": "International, Asian",
+      "price_range": "250-500 THB ($7-15)",
+      "highlights": [
+        "Fusion cuisine",
+        "Fresh ingredients",
+        "5-star rated",
+        "Creative presentations"
+      ]
     },
     {
-      "name": "Lung Ja Seafood",
-      "cuisine": "Thai Seafood",
-      "price_range": "$$",
-      "description": {
-        "en": "Massive open-air seafood restaurant beloved by Thais for its fresh crab dishes and tom yum kung. Busy on weekends with Bangkok families making the pilgrimage.",
-        "nl": "Enorm openlucht visrestaurant geliefd bij Thais vanwege de verse krabgerechten en tom yum kung. Druk in het weekend met gezinnen uit Bangkok die de pelgrimstocht maken."
-      }
+      "rank": 3,
+      "name": "Praça",
+      "description": "Contemporary bar and Asian restaurant with 4.9-star rating, offering creative cocktails and modern Asian dishes in a stylish setting.",
+      "cuisine_type": "Bar, Asian",
+      "price_range": "200-450 THB ($6-13)",
+      "highlights": [
+        "Modern setting",
+        "Creative cocktails",
+        "Asian cuisine",
+        "4.9-star rated"
+      ]
     },
     {
-      "name": "Jek Pia Coffeeshop",
-      "cuisine": "Thai-Chinese",
-      "price_range": "$",
-      "description": {
-        "en": "An institution since 1955, this no-frills breakfast spot on Dechanuchit Road serves perfect pa tong ko (fried dough) with coffee and congee. A true local experience.",
-        "nl": "Een instituut sinds 1955, deze geen-poespas ontbijtplek aan Dechanuchit Road serveert perfecte pa tong ko (gefrituurde deeg) met koffie en congee. Een echte lokale ervaring."
-      }
+      "rank": 4,
+      "name": "Plamong Restaurant",
+      "description": "Seaside seafood restaurant with 4.9-star TripAdvisor rating specializing in fresh catch of the day prepared with international techniques.",
+      "cuisine_type": "Seafood, International",
+      "price_range": "300-600 THB ($9-18)",
+      "highlights": [
+        "Fresh seafood",
+        "International preparation",
+        "Seaside views",
+        "4.9-star rated"
+      ]
     },
     {
-      "name": "Brasserie de Paris",
-      "cuisine": "French-Thai",
-      "price_range": "$$$",
-      "description": {
-        "en": "Elegant French-Thai bistro near the beach, run by a French chef and his Thai wife. Excellent wine list and fusion dishes like foie gras with tamarind glaze.",
-        "nl": "Elegante Frans-Thaise bistro bij het strand, gerund door een Franse chef en zijn Thaise vrouw. Uitstekende wijnkaart en fusiongerechten zoals foie gras met tamarindeglazuur."
-      }
+      "rank": 5,
+      "name": "The Sky",
+      "description": "Italian and international restaurant with 4.9-star rating offering authentic Italian cuisine and Mediterranean dishes with quality service.",
+      "cuisine_type": "Italian, International",
+      "price_range": "350-700 THB ($10-20)",
+      "highlights": [
+        "Italian cuisine",
+        "Quality service",
+        "Mediterranean options",
+        "4.9-star rated"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Chatchai Restaurant",
+      "description": "Traditional open-air Thai restaurant near the fishing pier serving authentic local flavors, fresh seafood, and som tam at very affordable prices.",
+      "cuisine_type": "Thai Street Food & Seafood",
+      "price_range": "80-150 THB ($2-5)",
+      "highlights": [
+        "Authentic Thai",
+        "Fresh seafood",
+        "Fishing pier location",
+        "Budget-friendly"
+      ]
     }
   ],
   "top_hotels": [
     {
-      "name": "Centara Grand Beach Resort & Villas",
-      "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "The grande dame of Hua Hin hotels, formerly the Railway Hotel built in 1923. Colonial elegance meets modern luxury right on the beach with impeccable service.",
-        "nl": "Het vlaggenschip van Hua Hin-hotels, voorheen het Railway Hotel gebouwd in 1923. Koloniale elegantie ontmoet modern luxe direct aan het strand met onberispelijke service."
-      }
-    },
-    {
-      "name": "Amari Hua Hin",
+      "rank": 1,
+      "name": "The Standard, Hua Hin",
+      "description": "4.8-star rated boutique hotel with modern design, beach proximity, and excellent service. Known for stylish rooms and contemporary amenities.",
+      "price_range": "$106/night (3,800-3,900 THB)",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "Modern beachfront resort with excellent pool, spa, and family-friendly facilities. Great value for its location and quality of rooms.",
-        "nl": "Modern strandresort met uitstekend zwembad, spa en gezinsvriendelijke faciliteiten. Goede prijs-kwaliteitverhouding voor de locatie en kwaliteit van de kamers."
-      }
+      "highlights": [
+        "4.8-star rated",
+        "Modern design",
+        "Beach proximity",
+        "Excellent service"
+      ]
     },
     {
-      "name": "Baan Peang Ploen",
+      "rank": 2,
+      "name": "Putahracsa Hua Hin",
+      "description": "4.7-star rated hotel offering comfortable accommodation with good value for money. Features modern facilities and convenient location.",
+      "price_range": "$113/night (4,000-4,100 THB)",
       "category": "midrange",
-      "price_range": "$$",
-      "description": {
-        "en": "A colourful, quirky condo-hotel with waterpark-style pools popular with Thai families. Fun atmosphere and very affordable suites near Khao Takiab.",
-        "nl": "Een kleurrijk, eigenzinnig condo-hotel met waterparkachtige zwembaden, populair bij Thaise gezinnen. Leuke sfeer en zeer betaalbare suites bij Khao Takiab."
-      }
+      "highlights": [
+        "4.7-star rated",
+        "Good value",
+        "Modern facilities",
+        "Convenient location"
+      ]
     },
     {
-      "name": "Hua Hin Loft",
+      "rank": 3,
+      "name": "Best Western Plus Carapace Hotel Hua Hin",
+      "description": "4.6-star rated beachfront hotel with reliable service, pool facilities, and comfortable rooms. Good mid-range option near the beach.",
+      "price_range": "$80/night (2,850-2,950 THB)",
+      "category": "midrange",
+      "highlights": [
+        "4.6-star rated",
+        "Beachfront location",
+        "Pool facilities",
+        "Reliable service"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Wora Bura Hua Hin Resort & Spa",
+      "description": "4.4-star rated resort with spa facilities, pool, and garden setting. Offers good value with relaxation amenities.",
+      "price_range": "$93/night (3,300-3,400 THB)",
+      "category": "midrange",
+      "highlights": [
+        "4.4-star rated",
+        "Spa facilities",
+        "Garden setting",
+        "Good value"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "G Hua Hin Resort & Mall",
+      "description": "4.4-star rated resort with integrated shopping mall, pool facilities, and convenient city center location. Budget-friendly option with good amenities.",
+      "price_range": "$70/night (2,500-2,600 THB)",
       "category": "budget",
-      "price_range": "$",
-      "description": {
-        "en": "Stylish budget hotel in the town center with industrial-chic rooms, rooftop terrace, and walking distance to the night market and beach.",
-        "nl": "Stijlvol budgethotel in het stadscentrum met industrieel-chique kamers, dakterras en op loopafstand van de nachtmarkt en het strand."
-      }
-    },
-    {
-      "name": "InterContinental Hua Hin Resort",
-      "category": "luxury",
-      "price_range": "$$$",
-      "description": {
-        "en": "Five-star beachfront resort with stunning infinity pool, private beach, multiple restaurants, and a world-class spa. Perfect for a luxurious seaside retreat.",
-        "nl": "Vijfsterren strandresort met prachtig overloopzwembad, prive-strand, meerdere restaurants en een spa van wereldklasse. Perfect voor een luxueus verblijf aan zee."
-      }
+      "highlights": [
+        "4.4-star rated",
+        "Integrated mall",
+        "Pool facilities",
+        "Budget-friendly"
+      ]
     }
   ],
   "travel_tips": [
@@ -280,125 +333,84 @@
   "enhanced_at": "2026-02-22T10:00:00.000Z",
   "ai_generated": true,
   "overview": "Hua Hin is Thailand's original royal beach resort town, beloved by the Thai royal family for over a century and offering a more refined alternative to Thailand's busier beach destinations. Located in Prachuap Khiri Khan Province just 195 kilometers south of Bangkok, this charming seaside town blends pristine beaches, vibrant markets, and authentic Thai culture with world-class golf courses and colonial-era architecture. With a population of around 86,000, Hua Hin maintains a relaxed atmosphere while offering excellent restaurants, water sports, and access to stunning natural attractions like Khao Sam Roi Yot National Park and Khao Takiab hill.",
-  "thingsToDo": "Hua Hin Beach is the heart of the destination, offering several kilometers of sandy shoreline perfect for swimming, horse riding along the surf, and dining at beachfront restaurants—all completely free to access. The iconic Hua Hin Fishing Pier provides stunning sunset views and a glimpse into the town's working fishing heritage. For cultural experiences, visit the charming Hua Hin Railway Station with its royal waiting room and vintage architecture, or explore Maruekhathaiyawan Palace (30 THB/$1 entrance fee), a stunning royal teak structure perched on the beach. Nature lovers should head to Khao Takiab (Chopstick Hill) for panoramic coastal views, a hilltop temple, and a resident monkey colony—all free to explore. Just south of town, Khao Sam Roi Yot National Park (200 THB/$6 entrance) features the spectacular Phraya Nakhon Cave, limestone peaks, and mangrove forests. Shopping and nightlife enthusiasts can experience the lively Cicada Market with live music and local art, or the Hua Hin Night Market for fresh seafood and street food. For family fun, Black Mountain Water Park offers water slides and a wave pool (600 THB/$17), while Plearn Wan Vintage Village captures 1950s Thai nostalgia with vintage shops and candy stalls.",
+  "thingsToDo": "Hua Hin Beach is the heart of the destination, offering several kilometers of sandy shoreline perfect for swimming, horse riding along the surf, and dining at beachfront restaurants—all completely free to access. The iconic Hua Hin Fishing Pier provides stunning sunset views and a glimpse into the town's working fishing heritage. For cultural experiences, visit the charming Hua Hin Railway Station with its royal waiting room and distinctive Victorian architecture, or explore Maruekhathaiyawan Palace (30 THB/$1 entrance fee), a stunning royal teak structure perched on the beach dating to the 1920s. Nature lovers should head to Khao Takiab (Chopstick Hill) for panoramic coastal views, a hilltop Buddhist temple, and a resident monkey colony—all free to explore. Just south of town, Khao Sam Roi Yot National Park (200 THB/$6 entrance) features the spectacular Phraya Nakhon Cave, limestone peaks, and mangrove forests. Shopping and nightlife enthusiasts can experience the lively Cicada Market with live music and local art, or the Hua Hin Night Market for fresh seafood and authentic street food. For family fun, Black Mountain Water Park offers water slides and a wave pool (600 THB/$17), while Plearn Wan Vintage Village captures 1950s Thai nostalgia with vintage shops and candy stalls.",
   "whereToStay": "Hua Hin offers accommodation across all price ranges, from budget guesthouses in the town center starting at 300-600 THB ($8-17/night) to mid-range beachfront hotels ranging from 1,500-3,500 THB ($40-100/night), and luxury resorts commanding 4,000+ THB ($110+/night). The beachfront area along Dechanuchit Road offers the most scenic locations with direct sand access and sunset views, though properties here typically fall into mid-range and luxury categories. Central Hua Hin near the night market and railway station provides better budget options with easy access to dining and shopping but is further from the beach. The quieter northern beaches near Khao Takiab offer a more peaceful atmosphere while still being within 10 minutes of the main town attractions. Many mid-range hotels include pool facilities and complimentary breakfast, while luxury properties often feature spa services, fine dining restaurants, and organized tours to nearby attractions.",
   "whereToEat": [
     {
-      "name": "Malee's Restaurant",
-      "cuisine": "Thai Seafood",
+      "name": "Akoya | Beach Lounge",
+      "cuisine": "Bar, Thai",
       "priceRange": "$$",
-      "description": "A local favorite serving fresh catch of the day prepared in authentic Thai style with spectacular beachfront views. Known for their crab curry and grilled fish at reasonable prices."
+      "description": "Beachfront bar and lounge with 5-star TripAdvisor rating, offering Thai cuisine and cocktails with ocean sunset views."
+    },
+    {
+      "name": "Gingerfire Restaurant",
+      "cuisine": "International, Asian",
+      "priceRange": "$$",
+      "description": "5-star rated restaurant serving creative international and Asian fusion cuisine with fresh ingredients and modern presentations."
+    },
+    {
+      "name": "Praça",
+      "cuisine": "Bar, Asian",
+      "priceRange": "$$",
+      "description": "Contemporary bar and restaurant with 4.9-star rating, featuring creative cocktails and modern Asian dishes in a stylish venue."
+    },
+    {
+      "name": "Plamong Restaurant",
+      "cuisine": "Seafood, International",
+      "priceRange": "$$",
+      "description": "Seaside seafood restaurant with 4.9-star rating specializing in fresh catch of the day with international preparation techniques."
+    },
+    {
+      "name": "The Sky",
+      "cuisine": "Italian, International",
+      "priceRange": "$$$",
+      "description": "Italian and international restaurant with 4.9-star rating offering authentic Italian cuisine and Mediterranean dishes with quality service."
     },
     {
       "name": "Chatchai Restaurant",
       "cuisine": "Thai Street Food & Seafood",
       "priceRange": "$",
-      "description": "Traditional open-air Thai restaurant near the fishing pier offering authentic local flavors, fresh seafood, and som tam. Very affordable with meals typically 80-150 THB."
-    },
-    {
-      "name": "Baan Hua Hin Seafood",
-      "cuisine": "Thai Seafood",
-      "priceRange": "$$",
-      "description": "Upscale seafood restaurant with panoramic views offering grilled lobster, jumbo prawns, and fish prepared to your specifications. Popular with both locals and tourists."
-    },
-    {
-      "name": "Cicada Market Food Stalls",
-      "cuisine": "Thai Street Food & International",
-      "priceRange": "$",
-      "description": "Night market featuring numerous vendor stalls serving pad thai, grilled seafood skewers, Thai fried rice, and local specialties. Perfect for experiencing authentic local cuisine cheaply."
-    },
-    {
-      "name": "Hua Hin Night Market Food Section",
-      "cuisine": "Thai Street Food & Fresh Seafood",
-      "priceRange": "$",
-      "description": "Operating most evenings, this market offers cooked-to-order Thai dishes, fresh grilled fish, shrimp, and seasonal specialties at local prices around 40-100 THB per dish."
-    },
-    {
-      "name": "Dechanuchit Road Beachfront Restaurants",
-      "cuisine": "Thai & International",
-      "priceRange": "$$",
-      "description": "Multiple restaurants line the main beachfront road offering everything from casual Thai fare to international cuisine with direct beach views and sunset dining opportunities."
-    },
-    {
-      "name": "Nong's Thai Restaurant",
-      "cuisine": "Authentic Thai",
-      "priceRange": "$",
-      "description": "No-frills local establishment serving traditional southern Thai dishes including yellow curry, khao soi, and grilled fish at budget prices popular with office workers and locals."
+      "description": "Traditional open-air Thai restaurant near the fishing pier serving authentic local flavors, fresh seafood, and som tam at budget-friendly prices."
     }
   ],
   "topHotels": [
     {
-      "name": "Centara Grand Beach Resort & Villas",
-      "category": "luxury",
-      "priceRange": "$180-350/night",
-      "area": "Beachfront - North of Town",
-      "description": "Five-star resort with private beach access, multiple pools, spa facilities, and fine dining restaurants. Features water sports activities and direct beach access."
+      "name": "The Standard, Hua Hin",
+      "category": "midrange",
+      "priceRange": "$106/night",
+      "area": "Central beach area",
+      "description": "4.8-star rated boutique hotel with modern design, stylish rooms, and contemporary amenities. Known for excellent service and beach proximity."
     },
     {
-      "name": "Angsana Laguna Hua Hin",
-      "category": "luxury",
-      "priceRange": "$150-300/night",
-      "area": "Beachfront South",
-      "description": "Beachfront luxury resort with lagoon-style pool, spa, fitness center, and multiple dining options. Known for excellent service and spacious rooms with balconies."
+      "name": "Putahracsa Hua Hin",
+      "category": "midrange",
+      "priceRange": "$113/night",
+      "area": "Town center",
+      "description": "4.7-star rated hotel offering comfortable accommodation with modern facilities and convenient location for attractions."
     },
     {
-      "name": "Hilton Hua Hin Resort & Spa",
-      "category": "luxury",
-      "priceRange": "$170-320/night",
-      "area": "Beachfront - Central",
-      "description": "Upscale beachfront property with championship golf course, world-class spa, multiple restaurants, and direct beach access. Caters to both leisure and golf tourists."
-    },
-    {
-      "name": "Chiva-Som International Health Resort",
-      "category": "luxury",
-      "priceRange": "$250-450/night",
+      "name": "Best Western Plus Carapace Hotel Hua Hin",
+      "category": "midrange",
+      "priceRange": "$80/night",
       "area": "Beachfront",
-      "description": "Exclusive wellness resort with all-inclusive spa treatments, yoga, fitness programs, and healthy cuisine. One of Asia's most renowned health and wellness destinations."
+      "description": "4.6-star rated beachfront property with reliable service, pool facilities, and comfortable rooms near the main beach."
     },
     {
-      "name": "Veranda Resort & Spa",
+      "name": "Wora Bura Hua Hin Resort & Spa",
       "category": "midrange",
-      "priceRange": "$60-120/night",
-      "area": "Beachfront",
-      "description": "Boutique beachfront hotel with Thai-style architecture, spa, multiple pools, and on-site restaurant. Good value for beachfront location with personalized service."
+      "priceRange": "$93/night",
+      "area": "Resort area",
+      "description": "4.4-star rated resort featuring spa facilities, pool, and garden setting offering good value with relaxation amenities."
     },
     {
-      "name": "Decha Samui Hotel",
-      "category": "midrange",
-      "priceRange": "$50-100/night",
-      "area": "Beachfront - Central",
-      "description": "Mid-range beachfront property with swimming pool, restaurant, and direct beach access. Popular with Thai families and regional tourists."
-    },
-    {
-      "name": "Pan Pacific Hua Hin",
-      "category": "midrange",
-      "priceRange": "$70-110/night",
-      "area": "South Beach Area",
-      "description": "Solid mid-range choice with modern amenities, beachfront location, pool, and on-site dining. Offers good value and convenient beach access."
-    },
-    {
-      "name": "Fulay Guesthouse",
+      "name": "G Hua Hin Resort & Mall",
       "category": "budget",
-      "priceRange": "$15-35/night",
-      "area": "Town Center",
-      "description": "Clean and comfortable budget guesthouse near Hua Hin Night Market and main shopping area. Basic amenities with friendly staff and good access to local attractions."
-    },
-    {
-      "name": "Baan Talay Guesthouse",
-      "category": "budget",
-      "priceRange": "$20-40/night",
-      "area": "Beachfront North",
-      "description": "Simple beachfront budget accommodation with basic rooms and ocean views. Walking distance to restaurants and the beach, run by friendly Thai family."
-    },
-    {
-      "name": "Hua Hin Backpackers Hostel",
-      "category": "budget",
-      "priceRange": "$10-25/night",
-      "area": "Town Center",
-      "description": "Social hostel with dorm and private room options, common areas, and local travel information. Great for meeting other travelers and budget-conscious visitors."
+      "priceRange": "$70/night",
+      "area": "City center",
+      "description": "4.4-star rated budget resort with integrated shopping mall, pool facilities, and convenient location near town center."
     }
   ],
-  "gettingAround": "Hua Hin is quite walkable in the central beach area, though you'll want transportation to reach outlying attractions. Tuk-tuks are the primary mode of transport—expect to pay 40-80 THB ($1-2) for short rides within town, and 100-200 THB ($3-6) for longer distances to places like Khao Sam Roi Yot. Songthaews (shared minivans) operate on fixed routes and cost just 10-30 THB ($0.30-1) per person for in-town travel. Many hotels can arrange motorbike rentals for 150-250 THB ($4-7/day) if you're comfortable riding, offering maximum flexibility. Grab (the Southeast Asian Uber equivalent) is available in Hua Hin and offers a convenient option at slightly higher prices than tuk-tuks. For day trips to Bangkok or Khao Takiab area, consider hiring a motorbike taxi (motorcycle with driver) for around 150-200 THB ($4-6) per trip.",
+  "gettingAround": "Hua Hin is quite walkable in the central beach area, though you'll want transportation to reach outlying attractions. Tuk-tuks are the primary mode of transport—expect to pay 40-80 THB ($1-2) for short rides within town, and 100-200 THB ($3-6) for longer distances to places like Khao Sam Roi Yot. Songthaews (shared minivans) operate on fixed routes and cost just 10-30 THB ($0.30-1) per person for in-town travel. Many hotels can arrange motorbike rentals for 150-250 THB ($4-7/day) if you're comfortable riding, offering maximum flexibility. Grab (the Southeast Asian ride-hailing app) is available in Hua Hin and offers a convenient option at slightly higher prices than tuk-tuks. For day trips or longer distances, consider hiring a motorbike taxi (motorcycle with driver) for around 150-200 THB ($4-6) per trip.",
   "bestTimeToVisit": "Hua Hin's best visiting season runs from November through February when temperatures are cooler (20-28°C), humidity is lower, and rainfall is minimal. December and January are peak months with perfect beach weather and are ideal for swimming, water sports, and beach activities. March through May brings increasing heat (28-35°C) with occasional afternoon showers, making it suitable only if you prefer fewer crowds and don't mind occasional rain. The Southwest Monsoon (May-October) brings significant rainfall and rough seas, particularly July-September, making this the low season with fewer tourists but less reliable beach conditions. November through January offers the absolute best weather but comes with higher hotel prices and larger crowds. If seeking budget accommodations with minimal tourists, September-October can work but expect occasional heavy rain and some beach closures.",
   "budgetGuide": {
     "budget": {
@@ -409,7 +421,7 @@
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Mid-range daily costs feature 3-star beachfront hotel (1,500-2,500 THB/$40-70), restaurant meals (200-400 THB/$5-11 per meal), paid attractions like Maruekhathaiyawan Palace (30 THB/$1) and Khao Sam Roi Yot (200 THB/$6), occasional beach activities, and local transport. Total: approximately 2,200-3,800 THB ($60-105/day)."
+      "description": "Mid-range daily costs feature 3-star hotel (1,500-2,500 THB/$40-70), restaurant meals (250-400 THB/$7-12 per meal), paid attractions like Maruekhathaiyawan Palace (30 THB/$1) and Khao Sam Roi Yot (200 THB/$6), occasional activities, and local transport. Total: approximately 2,200-3,800 THB ($60-105/day)."
     },
     "luxury": {
       "min": 150,
@@ -421,7 +433,7 @@
   "faq": [
     {
       "question": "What is the best time to visit Hua Hin?",
-      "answer": "November through February offers the best weather with cool temperatures (20-28°C), minimal rainfall, and ideal conditions for beach activities. December and January are peak months but feature perfect conditions. The monsoon season (May-October) brings heavy rain and rough seas, making it unsuitable for beach activities."
+      "answer": "November through February offers the best weather with cool temperatures (20-28°C), minimal rainfall, and ideal conditions for beach activities. December and January are peak months with perfect beach weather but higher prices and more crowds. The monsoon season (May-October) brings heavy rain and rough seas, making it unsuitable for most beach activities."
     },
     {
       "question": "How far is Hua Hin from Bangkok?",
@@ -429,23 +441,15 @@
     },
     {
       "question": "What are the main attractions in Hua Hin?",
-      "answer": "Top attractions include Hua Hin Beach (free), the historic Hua Hin Railway Station (free), Maruekhathaiyawan Palace (30 THB/$1), Khao Takiab hill with temple and monkeys (free), Cicada Market and Hua Hin Night Market (free entry), Khao Sam Roi Yot National Park (200 THB/$6), and Plearn Wan Vintage Village (free). Most attractions are very affordable or free."
+      "answer": "Top attractions include Hua Hin Beach (free), Hua Hin Railway Station (free), Maruekhathaiyawan Palace (30 THB/$1), Khao Takiab hill with temple and monkeys (free), Cicada Market and Hua Hin Night Market (free entry), Khao Sam Roi Yot National Park (200 THB/$6), and Plearn Wan Vintage Village (free entry). Most attractions are very affordable or free."
     },
     {
-      "question": "How much does it cost per day in Hua Hin?",
-      "answer": "Budget travelers can manage on $20-40/day staying in guesthouses and eating street food. Mid-range visitors should budget $60-100/day for 3-star hotels and restaurant meals. Luxury travelers typically spend $200-400+/day staying in 5-star resorts with fine dining and private activities. Hua Hin is significantly cheaper than Western countries and even other Thai beach destinations like Phuket."
+      "question": "How do I get around Hua Hin?",
+      "answer": "Hua Hin is walkable in the central beach area. Tuk-tuks cost 40-80 THB ($1-2) for short in-town trips, while songthaews (shared minivans) cost 10-30 THB ($0.30-1) per person. Motorbike rentals cost 150-250 THB ($4-7/day), and Grab ride-hailing is available. For day trips, motorbike taxis cost around 150-200 THB ($4-6)."
     },
     {
-      "question": "Is Hua Hin safe for tourists?",
-      "answer": "Yes, Hua Hin is very safe compared to many other beach destinations in Thailand. It attracts many Thai families and retirees, contributing to a secure and relaxed environment. Standard travel precautions apply including securing valuables, avoiding unattended beach items, and being cautious in nightlife venues. Petty theft can occur in markets, and water safety requires awareness of currents and warning flags."
-    },
-    {
-      "question": "What is Hua Hin known for?",
-      "answer": "Hua Hin is known as Thailand's original royal beach resort town, beloved by the Thai royal family for over a century. It's famous for its long sandy beaches, vibrant markets (particularly Cicada Market and the Night Market), world-class golf courses, historic Maruekhathaiyawan Palace, fresh seafood, relaxed atmosphere, and cultural attractions like the charming Victorian-era railway station."
-    },
-    {
-      "question": "Do I need a visa to visit Hua Hin?",
-      "answer": "Visa requirements depend on your nationality. Many nationalities receive 30 days visa-free on arrival in Thailand. Most visitors can stay in Hua Hin on tourist visas or visa exemptions. It's recommended to check with the Thai embassy or immigration website for your specific country before traveling."
+      "question": "What are the best hotels in Hua Hin?",
+      "answer": "Top-rated options include The Standard, Hua Hin (4.8-star, $106/night), Putahracsa Hua Hin (4.7-star, $113/night), Best Western Plus Carapace Hotel (4.6-star, $80/night), and Wora Bura Hua Hin Resort & Spa (4.4-star, $93/night). Budget option: G Hua Hin Resort & Mall (4.4-star, $70/night)."
     }
   ],
   "practicalInfo": {
@@ -455,16 +459,16 @@
       "Jan",
       "Feb"
     ],
-    "nearestAirport": "Suvarnabhumi Airport (BKK) in Bangkok - 195 kilometers away, approximately 2.5-3.5 hours by car",
-    "travelTimeFromAirport": "2.5-3.5 hours by car or van to Hua Hin town center",
+    "nearestAirport": "Suvarnabhumi Airport (BKK) in Bangkok - 195 kilometers away, approximately 2.5-3.5 hours by car or van",
+    "travelTimeFromAirport": "2.5-3.5 hours by car, van, or organized shuttle service to Hua Hin town center",
     "localTransport": [
-      "Tuk-tuk (primary taxis)",
-      "Songthaew (shared minivans)",
-      "Grab app (ride-hailing service)",
-      "Motorbike taxis",
-      "Motorbike rental (150-250 THB/day)",
+      "Tuk-tuk (primary taxis) - 40-80 THB in-town, 100-200 THB for longer distances",
+      "Songthaew (shared minivans) - 10-30 THB per person for fixed routes",
+      "Grab app (ride-hailing service) - available throughout town",
+      "Motorbike taxis - 150-200 THB per trip",
+      "Motorbike rental - 150-250 THB/day",
       "Beach walking (central area)",
-      "Buses to nearby attractions"
+      "Organized tours to nearby attractions"
     ]
   },
   "enrichedAt": "2026-02-22T12:55:20.667Z",
@@ -494,5 +498,112 @@
       "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Hua Hin.",
       "Hua Hin Beach": "Visit Hua Hin Beach during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
     }
-  }
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Hua Hin Beach",
+      "description": "The heart of Hua Hin, offering several kilometers of sandy shoreline perfect for swimming, horse riding, and dining at beachfront restaurants. Completely free to access.",
+      "location": "Central Hua Hin",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Swimming",
+        "Horse riding",
+        "Beachfront dining",
+        "Sunset views"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Maruekhathaiyawan Palace",
+      "description": "A stunning royal teak structure perched on the beach, built as a royal summer retreat. Features authentic 1920s architecture and royal heritage.",
+      "location": "Beachfront, south of town center",
+      "entrance_fee": "30 THB ($1)",
+      "highlights": [
+        "Royal architecture",
+        "Beach location",
+        "Historical significance",
+        "Photography"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Khao Takiab (Chopstick Hill)",
+      "description": "A scenic hilltop offering panoramic coastal views, a Buddhist temple, and a resident monkey colony. Free to explore with excellent sunset vistas.",
+      "location": "South of Hua Hin town center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Panoramic views",
+        "Temple visit",
+        "Monkey colony",
+        "Sunset viewing"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Khao Sam Roi Yot National Park",
+      "description": "A protected area featuring the spectacular Phraya Nakhon Cave, limestone peaks, pristine beaches, and mangrove forests. One of Thailand's most beautiful coastal parks.",
+      "location": "30 km south of Hua Hin",
+      "entrance_fee": "200 THB ($6)",
+      "highlights": [
+        "Phraya Nakhon Cave",
+        "Limestone formations",
+        "Beach access",
+        "Mangrove forests"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Hua Hin Railway Station",
+      "description": "A historic railway station featuring distinctive Victorian-era architecture and a royal waiting room. Built during the reign of King Rama VI and remains operational.",
+      "location": "City center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Colonial architecture",
+        "Royal waiting room",
+        "Heritage site",
+        "Photo opportunities"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Cicada Market",
+      "description": "A vibrant night market featuring local art, crafts, live music performances, and food stalls. Popular gathering spot for both locals and tourists with authentic Thai atmosphere.",
+      "location": "Night market area",
+      "entrance_fee": "Free entry",
+      "highlights": [
+        "Live music",
+        "Local art",
+        "Street food",
+        "Cultural experience"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Hua Hin Night Market",
+      "description": "The town's primary night market offering fresh seafood, Thai street food, local produce, and prepared dishes. A true local experience with authentic flavors.",
+      "location": "Town center",
+      "entrance_fee": "Free entry",
+      "highlights": [
+        "Fresh seafood",
+        "Street food",
+        "Local pricing",
+        "Authentic experience"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Plearn Wan Vintage Village",
+      "description": "A themed village capturing 1950s Thai nostalgia with vintage shops, candy stalls, retro cafes, and period architecture. Family-friendly destination with shopping and dining.",
+      "location": "Outskirts of town",
+      "entrance_fee": "Free entry",
+      "highlights": [
+        "Vintage shops",
+        "Retro cafes",
+        "Photo ops",
+        "Thai nostalgia"
+      ]
+    }
+  ],
+  "factchecked_at": "2025-03-08T18:39:17.330Z"
 }

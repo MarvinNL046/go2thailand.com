@@ -161,114 +161,215 @@
   "top_attractions": [
     {
       "rank": 1,
-      "name": "The Old City Market",
-      "description": "I stumbled upon this lively market on a quiet weekday afternoon. Locals gathered around, sharing stories over bowls of steaming noodle soup. One vendor, a grandmother with a warm smile, taught me how to make a perfect spring roll, and I still use her secrets today.",
-      "location": "Head east from the Historical Park along the main road until you see the colorful stalls lining the street.",
+      "name": "Wat Mahathat",
+      "description": "The centerpiece of Sukhothai Historical Park, featuring the iconic lotus-bud chedi and numerous serene Buddha statues representing the pinnacle of Sukhothai architecture.",
+      "location": "Sukhothai Historical Park, central zone",
+      "entrance_fee": "THB 100 ($3 USD)",
       "highlights": [
-        "Bring a small bag for shopping; bargaining is common but always with a smile."
+        "Iconic lotus-bud chedi",
+        "Best visited early morning"
       ]
     },
     {
       "rank": 2,
-      "name": "Wat Phra Pai Luang",
-      "description": "This lesser-known temple captivated me with its intricate architecture. I was the only visitor, surrounded by the sounds of nature and the occasional chirp of a bird. A local artist was sketching the temple, and we ended up sharing stories about art and history.",
-      "location": "Located a bit off the beaten path, follow the signs from the main road towards the Sukhothai Historical Park.",
+      "name": "Wat Si Chum",
+      "description": "A remarkable temple housing a massive seated Buddha image visible through a narrow opening in the temple wall, making it one of the most photographed sites in Sukhothai.",
+      "location": "Sukhothai Historical Park, northern zone",
+      "entrance_fee": "THB 100 ($3 USD)",
       "highlights": [
-        "Take your time here; it’s a perfect spot for reflection and photography."
+        "Massive Buddha image",
+        "Unique narrow opening view"
       ]
     },
     {
       "rank": 3,
-      "name": "Traditional Thai Cooking Class",
-      "description": "I joined a cooking class hosted by a local family, where we harvested fresh herbs from their garden. Cooking together was not just about the food; it was a bonding experience filled with laughter and learning.",
-      "location": "City area",
+      "name": "Wat Saphan Hin",
+      "description": "A hilltop temple featuring a standing Buddha statue that overlooks the entire ancient city, offering panoramic views of the Historical Park.",
+      "location": "Sukhothai Historical Park, western hills",
+      "entrance_fee": "THB 100 ($3 USD)",
       "highlights": [
-        "Embrace the spice level; locals often prefer their dishes quite hot!"
+        "Panoramic views",
+        "Hilltop location with standing Buddha"
       ]
     },
     {
       "rank": 4,
-      "name": "Cycling through the Ruins",
-      "description": "Renting a bicycle and pedaling through the Historical Park at dawn was one of my most magical experiences. The soft light and quiet surroundings allowed for a deeper appreciation of the ancient structures.",
-      "location": "City area",
+      "name": "Ramkhamhaeng National Museum",
+      "description": "Houses important artifacts including the Ramkhamhaeng inscription, which is crucial to understanding Sukhothai's historical significance and the development of Thai civilization.",
+      "location": "Near Sukhothai Historical Park entrance",
+      "entrance_fee": "THB 150 ($4 USD)",
       "highlights": [
-        "Start early to avoid the heat and crowds, and don’t forget your camera!"
+        "Ramkhamhaeng inscription",
+        "Key historical artifacts"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Si Satchanalai Historical Park",
+      "description": "The sister city ruins of Sukhothai, showcasing ancient ceramic kilns, well-preserved temples, and providing a deeper understanding of the kingdom's pottery and architectural heritage.",
+      "location": "35km north of Sukhothai",
+      "entrance_fee": "THB 100 ($3 USD)",
+      "highlights": [
+        "Ancient kilns",
+        "Less crowded than main park"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Yom River",
+      "description": "A scenic river offering cycling paths along its banks and boat trips, providing a natural contrast to the ancient temples and a peaceful way to explore the surrounding landscape.",
+      "location": "Runs through Sukhothai region",
+      "entrance_fee": null,
+      "highlights": [
+        "Cycling paths",
+        "Boat trips available"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Sukhothai Old Town",
+      "description": "The modern town center featuring local markets, authentic Thai cuisine, and traditional crafts, providing an immersive experience of contemporary Thai culture.",
+      "location": "Central Sukhothai city",
+      "entrance_fee": null,
+      "highlights": [
+        "Night market",
+        "Local vendors"
       ]
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Khao Soi",
-      "description": "The first taste of Khao Soi was life-changing. Aun insisted on adding her secret chili oil, which elevated the dish beyond anything I had tried before.",
-      "cuisine_type": "Thai",
-      "price_range": "Around 50 baht for a generous bowl.",
+      "name": "Chanda's Historical Garden Restaurant",
+      "description": "A well-regarded restaurant offering international and Asian cuisine in a garden setting, combining quality dining with Sukhothai's historical atmosphere.",
+      "cuisine_type": "International, Asian",
+      "price_range": "THB 150-400 ($4-12 USD)",
+      "rating": 4.5,
       "highlights": [
-        "Local favorite",
-        "Authentic taste"
+        "Garden setting",
+        "Historical ambiance"
       ]
     },
     {
       "rank": 2,
-      "name": "Moo Pad Krapow",
-      "description": "The sizzle of ground pork and basil in a hot wok was irresistible. The vendor, a cheerful young man, tossed in fresh chilies and served it over jasmine rice with a fried egg on top.",
-      "cuisine_type": "Thai",
-      "price_range": "About 40 baht for a hearty serving.",
+      "name": "Phumphor Coffee Restaurant",
+      "description": "A popular café and restaurant specializing in coffee and international breakfast, offering a relaxed atmosphere for morning meals and light fare.",
+      "cuisine_type": "Café, International",
+      "price_range": "THB 80-250 ($2-7 USD)",
+      "rating": 4.6,
       "highlights": [
-        "Local favorite",
-        "Authentic taste"
+        "Quality coffee",
+        "International breakfast"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Sureerat Restaurant",
+      "description": "An authentic Thai restaurant serving traditional regional dishes, popular with both locals and tourists seeking genuine flavors of northeastern Thai cuisine.",
+      "cuisine_type": "Asian, Thai",
+      "price_range": "THB 60-200 ($2-6 USD)",
+      "rating": 4.5,
+      "highlights": [
+        "Authentic Thai cuisine",
+        "Local favorite"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Poo Restaurant",
+      "description": "A casual dining establishment offering both international and Asian cuisine, known for friendly service and affordable prices.",
+      "cuisine_type": "International, Asian",
+      "price_range": "THB 100-300 ($3-9 USD)",
+      "rating": 3.9,
+      "highlights": [
+        "Casual atmosphere",
+        "Affordable pricing"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Pizza House by Somprasong Guesthouse",
+      "description": "A specialty restaurant offering Italian cuisine and wood-fired pizza, providing a European dining option in Sukhothai's historic setting.",
+      "cuisine_type": "Italian, Pizza",
+      "price_range": "THB 150-350 ($4-10 USD)",
+      "rating": 4.4,
+      "highlights": [
+        "Wood-fired pizza",
+        "Italian specialty"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Sukhothai Night Market",
+      "description": "A vibrant night market offering authentic street food, local specialties, and traditional Thai dishes at budget-friendly prices with a lively cultural atmosphere.",
+      "cuisine_type": "Thai Street Food",
+      "price_range": "THB 40-100 ($1-3 USD)",
+      "rating": null,
+      "highlights": [
+        "Authentic street food",
+        "Cultural experience"
       ]
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "Boutique Hotel Sukhothai",
-      "description": "Comfortable accommodation at this well-located boutique hotel in Sukhothai.",
-      "price_range": "$30-150",
+      "name": "Jitra Resort",
+      "description": "A highly-rated resort offering comfortable accommodations with quality amenities in a convenient location for exploring Sukhothai's historical sites.",
+      "price_range": "$19/night",
+      "category": "budget",
+      "rating": 5,
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "Best budget option",
+        "Excellent value"
       ]
     },
     {
       "rank": 2,
-      "name": "Resort Sukhothai",
-      "description": "Comfortable accommodation at this well-located resort in Sukhothai.",
-      "price_range": "$30-150",
+      "name": "Ruen Narisra Resort",
+      "description": "A well-established resort providing comfortable rooms and good service at affordable rates, ideal for budget-conscious travelers.",
+      "price_range": "$13/night",
+      "category": "budget",
+      "rating": 4,
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "Most affordable",
+        "Reliable service"
       ]
     },
     {
       "rank": 3,
-      "name": "Budget Hotel Sukhothai",
-      "description": "Comfortable accommodation at this well-located budget hotel in Sukhothai.",
-      "price_range": "$30-150",
+      "name": "Sukhothai City Resort",
+      "description": "A mid-range resort with solid ratings offering comfortable accommodations and convenient access to the Historical Park and town center.",
+      "price_range": "$25/night",
+      "category": "midrange",
+      "rating": 4.6,
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "Central location",
+        "Good value for midrange"
       ]
     },
     {
       "rank": 4,
-      "name": "Luxury Hotel Sukhothai",
-      "description": "Comfortable accommodation at this well-located luxury hotel in Sukhothai.",
-      "price_range": "$30-150",
+      "name": "Scent of Sukhothai Resort",
+      "description": "A charming midrange resort known for its pleasant ambiance and comfortable rooms, offering a good balance of comfort and affordability.",
+      "price_range": "$30-50/night",
+      "category": "midrange",
+      "rating": 4.5,
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "Charming setting",
+        "Quality service"
       ]
     },
     {
       "rank": 5,
-      "name": "Guesthouse Sukhothai",
-      "description": "Comfortable accommodation at this well-located guesthouse in Sukhothai.",
-      "price_range": "$30-150",
+      "name": "Sriwilai Sukhothai Resort & Spa",
+      "description": "An upscale resort offering spa services, quality amenities, and comfortable accommodations with excellent service for a more luxurious experience.",
+      "price_range": "$88/night",
+      "category": "midrange",
+      "rating": 4.3,
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "Spa facilities",
+        "Premium comfort"
       ]
     }
   ],
@@ -291,104 +392,150 @@
   "enhanced_at": "2025-05-26T19:57:12.627Z",
   "ai_generated": true,
   "overview": "Sukhothai, located in Thailand's Northern region, is home to one of Southeast Asia's most significant archaeological treasures: the Sukhothai Historical Park, a UNESCO World Heritage Site preserving the ruins of Thailand's first capital. With a population of just 37,000, this peaceful city offers an authentic glimpse into Thai history without the overwhelming crowds found in major tourist destinations. The ancient kingdom that once thrived here left behind beautifully preserved temples, intricate Buddha statues, and architectural marvels that transport visitors back to the 13th-15th centuries when Sukhothai was the heart of Thai civilization.",
-  "thingsToDo": "The Sukhothai Historical Park is the centerpiece attraction, featuring dozens of ancient temples spread across a vast area. Start with Wat Mahathat (THB 100/$3 entrance fee), the main temple complex known for its iconic lotus-bud chedi and serene Buddha statues. Wat Si Chum (THB 100/$3) houses a massive seated Buddha image visible through a narrow opening in the temple wall, making it one of the most photographed sites in Sukhothai. For panoramic views, climb to Wat Saphan Hin (THB 100/$3), a hilltop temple featuring a standing Buddha statue overlooking the ancient city. The nearby Ramkhamhaeng National Museum (THB 150/$4) displays important artifacts including the Ramkhamhaeng inscription, crucial to understanding Sukhothai's historical significance. Nature lovers can explore the scenic Yom River with its cycling paths and boat trips, while Si Satchanalai Historical Park (THB 100/$3), the sister city ruins, showcases ancient kilns and well-preserved temples for those wanting to explore beyond the main historical park.",
+  "thingsToDo": "Sukhothai's main attractions revolve around the Sukhothai Historical Park, a UNESCO World Heritage Site. Wat Mahathat (THB 100/$3 entrance fee) features the iconic lotus-bud chedi and serene Buddha statues. Wat Si Chum (THB 100/$3) houses a massive seated Buddha image visible through a narrow temple wall opening. Wat Saphan Hin (THB 100/$3) is a hilltop temple offering panoramic views of the ancient city. The Ramkhamhaeng National Museum (THB 150/$4) displays crucial historical artifacts including the Ramkhamhaeng inscription. Si Satchanalai Historical Park (THB 100/$3), located 35km north, showcases ancient kilns and well-preserved temples. The scenic Yom River offers cycling paths and boat trips, while the Sukhothai Old Town provides authentic Thai markets and local culture. Bicycle rentals (THB 50-100/$2-3 per day) are ideal for exploring the flat terrain of the Historical Park.",
   "whereToStay": "Sukhothai accommodations range from budget guesthouses to mid-range hotels, with most clustered around the modern town area, about 12km from the Historical Park. Budget travelers will find basic but clean guesthouses and hostels starting from $15-30 per night, offering simple rooms with fan or air conditioning and shared facilities. Mid-range hotels (typically $40-80 per night) provide comfortable rooms with private bathrooms, air conditioning, and amenities like swimming pools and on-site restaurants. The town's accessibility by local transport makes staying near the central market or along the main roads convenient, with easy tuk-tuk access to the Historical Park. For visitors wanting to be closer to the temples, some accommodations operate near the park entrance, though these tend to be more expensive. Most hotels in Sukhothai offer good value compared to Bangkok or tourist beach towns, making it an economical destination for extended stays.",
   "whereToEat": [
     {
-      "name": "I Love Sukhothai",
-      "cuisine": "Thai",
+      "name": "Chanda's Historical Garden Restaurant",
+      "cuisine": "International, Asian",
       "priceRange": "$$",
-      "description": "A simple but welcoming Thai restaurant praised for authentic local dishes, particularly known for exceptional seafood tom yum served in generous bowls. The casual environment and quality food make it a favorite among both locals and travelers."
+      "description": "Garden restaurant combining quality dining with Sukhothai's historical atmosphere, serving international and Asian cuisine."
     },
     {
-      "name": "Sukhothai Noodles",
+      "name": "Phumphor Coffee Restaurant",
+      "cuisine": "Café, International",
+      "priceRange": "$",
+      "description": "Popular café specializing in quality coffee and international breakfast, offering a relaxed atmosphere."
+    },
+    {
+      "name": "Sureerat Restaurant",
+      "cuisine": "Thai",
+      "priceRange": "$",
+      "description": "Authentic Thai restaurant serving traditional regional dishes, popular with locals and tourists."
+    },
+    {
+      "name": "Poo Restaurant",
+      "cuisine": "International, Asian",
+      "priceRange": "$$",
+      "description": "Casual dining establishment offering international and Asian cuisine with friendly service."
+    },
+    {
+      "name": "Pizza House by Somprasong Guesthouse",
+      "cuisine": "Italian, Pizza",
+      "priceRange": "$$",
+      "description": "Specialty restaurant offering wood-fired pizza and Italian cuisine in Sukhothai's historic setting."
+    },
+    {
+      "name": "Sukhothai Night Market",
       "cuisine": "Thai Street Food",
       "priceRange": "$",
-      "description": "Specializes in traditional Sukhothai noodle dishes, offering authentic regional specialties that have made the city famous for its culinary heritage. A budget-friendly option perfect for sampling local flavors."
-    },
-    {
-      "name": "Night Market - Sukhothai",
-      "cuisine": "Street Food & Local Cuisine",
-      "priceRange": "$",
-      "description": "The vibrant night market offers an authentic cultural atmosphere with traditional Thai dishes, local handicrafts, and regional specialties. An ideal place to experience local food culture at minimal cost."
+      "description": "Vibrant night market offering authentic street food, local specialties, and traditional Thai dishes at budget prices."
     }
   ],
   "topHotels": [
     {
-      "name": "Sriwilai Sukhothai",
-      "category": "midrange",
-      "priceRange": "$50-90/night",
+      "name": "Jitra Resort",
+      "category": "budget",
+      "priceRange": "$19/night",
+      "area": "Sukhothai",
+      "description": "Highly-rated budget resort with excellent value, comfortable rooms, and convenient location for exploring the Historical Park."
+    },
+    {
+      "name": "Ruen Narisra Resort",
+      "category": "budget",
+      "priceRange": "$13/night",
+      "area": "Sukhothai",
+      "description": "The most affordable option in Sukhothai with reliable service and clean, basic accommodations."
+    },
+    {
+      "name": "Sukhothai City Resort",
+      "category": "budget",
+      "priceRange": "$25/night",
       "area": "Central Sukhothai",
-      "description": "A highly-regarded mid-range hotel offering excellent value with comfortable rooms, amenities, and convenient location near the Historical Park entrance. Known for its blend of style and affordability."
+      "description": "Budget-friendly resort with solid ratings and convenient central location near the Historical Park entrance."
+    },
+    {
+      "name": "Scent of Sukhothai Resort",
+      "category": "midrange",
+      "priceRange": "$30-50/night",
+      "area": "Sukhothai",
+      "description": "Charming midrange resort known for pleasant ambiance, quality service, and comfortable rooms."
+    },
+    {
+      "name": "Sukhothai City Resort",
+      "category": "midrange",
+      "priceRange": "$25/night",
+      "area": "Central Sukhothai",
+      "description": "Well-rated midrange option offering comfortable 3-star standard accommodations with good value."
+    },
+    {
+      "name": "Sriwilai Sukhothai Resort & Spa",
+      "category": "midrange",
+      "priceRange": "$88/night",
+      "area": "Sukhothai",
+      "description": "Upscale midrange resort featuring spa facilities, quality amenities, and excellent service for enhanced comfort."
     }
   ],
-  "gettingAround": "Sukhothai is best explored by tuk-tuk, the primary local transport method for short distances within town and to the Historical Park. Songthaews (shared minibuses) operate on fixed routes through town and to nearby areas like Si Satchanalai, offering the most economical transport option at THB 20-40 per trip. Many visitors rent motorcycles (THB 150-200/$5-7 per day) for independence exploring the Historical Park's vast temple grounds, though bicycles (THB 50-100/$2-3 per day) are also popular for the relatively flat terrain. Grab (Southeast Asia's ride-hailing app) is available in Sukhothai for more convenient transportation at fixed rates. The Historical Park itself requires multiple forms of transport to see all temples, making a combination of walking, cycling, and occasional tuk-tuk rides the most practical approach.",
+  "gettingAround": "Sukhothai is best explored by tuk-tuk for short distances and to the Historical Park. Songthaews (shared minibuses) operate on fixed routes through town at THB 20-40 per trip. Motorbike rentals (THB 150-200/$5-7 per day) offer independence for exploring the Historical Park's vast grounds. Bicycles (THB 50-100/$2-3 per day) are popular for the flat terrain. Grab ride-hailing is available at fixed rates. The Historical Park requires multiple transport modes to see all temples, with walking, cycling, and occasional tuk-tuk rides being the most practical combination.",
   "bestTimeToVisit": "The ideal time to visit Sukhothai is November through February, when the cool season brings comfortable temperatures ranging from 15-25°C (59-77°F), perfect for exploring open-air temple ruins. December and January are particularly pleasant, with low humidity and minimal rainfall, though these months see more visitors. March through May marks the hot season with temperatures reaching 35-40°C (95-104°F), making daytime temple exploration exhausting but offering fewer crowds. The monsoon season (May-October) brings heavy rainfall, especially August-September, which can limit sightseeing but creates lush green landscapes and lower accommodation prices. For the best balance of weather, comfort, and manageable crowds, aim for November, December, or January.",
   "budgetGuide": {
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget travelers can experience Sukhothai on $20-40 daily: guesthouse accommodations ($15-25/night), street food and market meals ($2-5/day), temple entrance fees ($3 per site), and local transport via tuk-tuk or songthaew ($5-10/day). This allows visiting multiple Historical Park temples and experiencing local culture without overspending."
+      "description": "Budget travelers can experience Sukhothai on $20-40 daily: guesthouse accommodations ($13-25/night), street food and market meals (THB 40-150/$1-5/day), temple entrance fees (THB 100/$3 per site), and local transport via tuk-tuk or songthaew (THB 20-200/$0.50-6/day). This allows visiting multiple Historical Park temples and experiencing local culture."
     },
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Mid-range travelers should budget $50-100 daily: comfortable 3-star hotels ($40-70/night), restaurants with sit-down service ($8-15/meals), all temple entrance fees and museums ($20-30/day), guided tours ($30-50), and motorbike or bicycle rentals. This range allows for leisurely exploration with comfortable accommodation."
+      "description": "Mid-range travelers should budget $50-100 daily: comfortable 3-star hotels ($25-70/night), restaurants with sit-down service (THB 150-500/$4-15/meals), all temple entrance fees and museums (THB 300-600/$9-18/day), guided tours (THB 1000-1500/$30-50), and motorbike or bicycle rentals (THB 150-200/$5-7/day). This allows leisurely exploration with quality accommodation."
     },
     "luxury": {
       "min": 150,
       "max": 400,
-      "description": "Luxury travelers can spend $150-400 daily: upscale 4-5 star resorts ($80-200+/night), fine dining restaurants ($25-50/meal), private guided tours of Historical Park and Si Satchanalai ($100-150), spa treatments, and other premium experiences while maintaining comfort throughout their stay."
+      "description": "Luxury travelers can spend $150-400 daily: upscale 4-5 star resorts ($88-200+/night), fine dining restaurants (THB 800-1600/$25-50/meal), private guided tours (THB 3000-5000/$100-150), spa treatments, and premium experiences while maintaining high comfort standards."
     }
   },
   "safetyTips": "Sukhothai is generally a very safe destination with low crime rates and a welcoming local population. The Historical Park temples are safe to explore, though visitors should wear sturdy footwear for uneven ancient stone surfaces and bring plenty of water and sun protection, as there is minimal shade among the ruins. Standard precautions apply: avoid displaying valuable jewelry or large amounts of cash, keep belongings secure on tuk-tuks and songthaews, and be cautious with motorbikes if unfamiliar with Thai traffic conditions. The town itself has good street lighting and friendly residents; solo travelers, both male and female, report feeling safe walking around town during evening hours. During the hot season, be mindful of heat-related illness by staying hydrated and taking breaks in shaded areas or air-conditioned spaces.",
   "faq": [
     {
       "question": "How much time do I need to explore Sukhothai Historical Park?",
-      "answer": "Most visitors spend 1-2 full days in the Historical Park. A rushed visit covering major temples like Wat Mahathat, Wat Si Chum, and Wat Sa Si takes 4-6 hours by tuk-tuk and walking. A comprehensive exploration including Wat Saphan Hin and Si Satchanalai typically requires 2-3 days to fully appreciate the site."
+      "answer": "Most visitors spend 1-2 full days in the Historical Park. A rushed visit covering major temples like Wat Mahathat, Wat Si Chum, and Wat Saphan Hin takes 4-6 hours by tuk-tuk and walking. A comprehensive exploration including all major sites and Si Satchanalai typically requires 2-3 days to fully appreciate the site."
     },
     {
       "question": "What is the entrance fee to Sukhothai Historical Park?",
-      "answer": "The entrance fee is THB 100 (approximately $3 USD) per person. Individual temples within or near the park may have additional small fees of THB 100 each. Combination tickets or multi-day passes may offer better value for extensive exploration."
+      "answer": "The entrance fee is THB 100 (approximately $3 USD) per person for the main Historical Park. Individual temples within or near the park may have additional small fees of THB 100 each. The Ramkhamhaeng National Museum costs THB 150 ($4 USD). Si Satchanalai Historical Park has a separate entrance fee of THB 100 ($3 USD)."
     },
     {
       "question": "Is it better to rent a motorbike or hire a tuk-tuk for the Historical Park?",
-      "answer": "Both options work well. Motorbike rentals ($5-7/day) offer flexibility and independence but require confidence driving in unfamiliar conditions. Tuk-tuks ($10-15/hour) provide comfort and local driver knowledge but less flexibility. Bicycles are ideal for the flat terrain and allow intimate temple exploration, though distances between sites can be considerable."
+      "answer": "Both options work well. Motorbike rentals (THB 150-200/$5-7/day) offer flexibility and independence but require confidence driving in unfamiliar conditions. Tuk-tuks (THB 300-400/$10-15/hour) provide comfort and local driver knowledge but less flexibility. Bicycles (THB 50-100/$2-3/day) are ideal for the flat terrain and allow intimate temple exploration, though distances between sites can be considerable."
     },
     {
-      "question": "Can I visit Sukhothai as a day trip from other cities?",
-      "answer": "Yes, but it's not ideal. Sukhothai is about 430km north of Bangkok (6-7 hours by bus). Chiang Mai is closer at approximately 300km (4.5-5 hours). Most travelers recommend staying overnight to properly explore the Historical Park without rushing. Day trips are possible but limited to major temples only."
+      "question": "What is the best time to visit Sukhothai?",
+      "answer": "The ideal time is November through February during the cool season with temperatures of 15-25°C (59-77°F). December and January are particularly pleasant with low humidity and minimal rainfall, though these see more visitors. March-May brings heat of 35-40°C (95-104°F), making exploration exhausting but with fewer crowds. The monsoon season (May-October) brings heavy rainfall but lower prices."
     },
     {
-      "question": "What is the best way to get from Sukhothai airport or bus station to my hotel?",
-      "answer": "Sukhothai is served by Sukhothai Airport or the intercity bus station. Grab (ride-hailing app) is the most convenient option for fixed pricing. Alternatively, arrange hotel pickup (many offer this service for $10-15), or use hotel-recommended tuk-tuks at the station. Most accommodations are within 10-15 minutes from transport hubs."
-    },
-    {
-      "question": "Are there vegetarian food options in Sukhothai?",
-      "answer": "Yes, vegetarian options are available but not prominently advertised. Street food stalls and night markets offer vegetable stir-fries and noodle dishes without meat. Restaurants can usually prepare vegetarian meals with advance notice. During Buddhist fasting days (typically monthly), dedicated vegetarian food stalls appear throughout town."
-    },
-    {
-      "question": "What should I wear when visiting temples in Sukhothai?",
-      "answer": "Dress respectfully with covered shoulders and knees (pants or long skirts). While enforcement is less strict than in Bangkok temples, showing respect to sacred sites is appreciated by locals. Comfortable walking shoes are essential for exploring uneven ancient ruins, and a hat and sunscreen are necessary for sun protection across the open Historical Park."
+      "question": "How do I get to Sukhothai from Bangkok?",
+      "answer": "From Bangkok, you can fly to Sukhothai Airport (THS) with a 15-20 minute transfer to town, or fly to Chiang Mai International Airport (CNX) which is 300km away (4.5-5 hours by car or bus). Alternatively, overnight buses run from Bangkok to Sukhothai (6-7 hours) for a budget option."
     }
   ],
   "practicalInfo": {
     "bestMonths": [
-      "Nov",
-      "Dec",
-      "Jan",
-      "Feb"
+      "November",
+      "December",
+      "January",
+      "February"
     ],
-    "nearestAirport": "Sukhothai Airport (THS) - domestic flights from Bangkok; alternatively Chiang Mai International Airport (CNX) - 300km away",
+    "nearestAirport": "Sukhothai Airport (THS) for domestic flights from Bangkok; Chiang Mai International Airport (CNX) 300km away as alternative",
     "travelTimeFromAirport": "Sukhothai Airport: 15-20 minutes by car; Chiang Mai Airport: 4.5-5 hours by car or bus",
     "localTransport": [
-      "Tuk-tuk",
-      "Songthaew",
-      "Motorbike rental",
-      "Bicycle rental",
+      "Tuk-tuk (THB 300-400/$10-15/hour)",
+      "Songthaew (THB 20-40/$0.50-1.20 per trip)",
+      "Motorbike rental (THB 150-200/$5-7/day)",
+      "Bicycle rental (THB 50-100/$2-3/day)",
       "Grab ride-hailing",
       "Hotel transfers"
     ]
   },
-  "enrichedAt": "2026-02-22T12:36:58.753Z"
+  "enrichedAt": "2026-02-22T12:36:58.753Z",
+  "factchecked_at": "2026-03-08T18:28:19.355Z"
 }

@@ -169,115 +169,221 @@
     {
       "rank": 1,
       "name": "Khao Sok National Park",
-      "description": "I remember my first visit to Khao Sok; it was a spontaneous decision after chatting with a local at the market who insisted I needed to see its beauty. The lush jungle, towering limestone cliffs, and serene lakes took my breath away. On a guided canoe trip, I spotted wild elephants drinking from the river, a sight that still feels surreal.",
-      "location": "Take a minivan from Surat Thani city center; it’s about a 2-hour drive. Ask for Khao Sok National Park, and don’t forget to grab snacks for the journey!",
+      "description": "One of Thailand's most spectacular natural reserves featuring ancient rainforest, limestone cliffs, diverse wildlife, and scenic hiking trails. Known for wildlife spotting including elephants, gibbons, and hornbills.",
+      "location": "Approximately 2 hours drive from Surat Thani city center",
+      "entrance_fee": "300 THB ($9 USD)",
       "highlights": [
-        "Bring a local guide for the best trails and wildlife spotting tips.",
-        "Respect the environment; don’t feed the animals."
+        "Ancient rainforest ecosystem",
+        "Limestone formations",
+        "Wildlife spotting opportunities"
       ]
     },
     {
       "rank": 2,
-      "name": "Ratchaprapha Dam",
-      "description": "I spent a magical day at Ratchaprapha Dam, where I joined a group of locals for a picnic by the water. We shared homemade dishes, and I learned how to make khao niew mamuang (mango sticky rice) with a local auntie. The dam's turquoise waters against the backdrop of mountains was a sight I’ll never forget.",
-      "location": "Head to the dam from Surat Thani; you can rent a motorbike or take a local bus. Look for signs pointing to the dam, and keep your eyes peeled for the stunning views.",
+      "name": "Ratchaprapha Dam (Cheow Lan Lake)",
+      "description": "Stunning artificial lake with emerald waters reflecting dramatic limestone karsts. Features floating bungalows and scenic boat trips through otherworldly landscapes.",
+      "location": "Khao Sok area, approximately 2 hours from city center",
+      "entrance_fee": "300 THB ($9 USD)",
       "highlights": [
-        "Bring food to share; it's a great way to connect with locals.",
-        "Don’t forget your camera for the breathtaking scenery."
+        "Emerald lake views",
+        "Limestone karst formations",
+        "Floating bungalow experiences"
       ]
     },
     {
       "rank": 3,
-      "name": "Join a local fishing trip",
-      "description": "I spent a morning fishing with a local family who invited me to join their traditional long-tail boat trip. The camaraderie on the boat, the laughter, and the thrill of catching our dinner made for an unforgettable experience.",
-      "location": "City area",
+      "name": "Wat Phra Borommathat Chaiya",
+      "description": "Historic Buddhist temple featuring a 1,200-year-old chedi dating to the Srivijaya period. Important pilgrimage site with significant historical and cultural importance.",
+      "location": "Chaiya District, approximately 45 kilometers south of Surat Thani",
+      "entrance_fee": "Free",
       "highlights": [
-        "Be respectful of their space and traditions; offer to help with the catch."
+        "Srivijaya-era architecture",
+        "Ancient chedi",
+        "Cultural significance"
       ]
     },
     {
       "rank": 4,
-      "name": "Participate in a local festival",
-      "description": "I was fortunate to be in Surat Thani for the annual Chao Mae Kuan Im Festival. The streets were alive with music, dance, and colorful processions, and I was swept up in the joy of the celebrations.",
-      "location": "City area",
+      "name": "Chaiya National Museum",
+      "description": "Museum housing artifacts and relics from the Srivijaya period, illuminating the region's ancient kingdoms and historical significance.",
+      "location": "Chaiya District",
+      "entrance_fee": "100 THB ($3 USD)",
       "highlights": [
-        "Dress modestly and participate respectfully; it’s a time for the community to come together."
+        "Srivijaya artifacts",
+        "Historical exhibits",
+        "Educational displays"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Surat Thani Night Market and Walking Street",
+      "description": "Vibrant local market featuring fresh seafood, Southern Thai specialties, and handicrafts. Authentic venue for experiencing workaday Thai life and local cuisine.",
+      "location": "City center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Fresh seafood",
+        "Local Thai cuisine",
+        "Handicrafts and souvenirs"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Ban Don Bay and Fishing Villages",
+      "description": "Scenic coastal area featuring traditional fishing villages, mangrove forests, and authentic maritime culture. Offers boat trips and opportunities to experience regional fishing heritage.",
+      "location": "Ban Don pier area, near city center",
+      "entrance_fee": "Free (boat trips vary)",
+      "highlights": [
+        "Fishing village culture",
+        "Mangrove ecosystems",
+        "Authentic coastal life"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Tapee River Scenic Area",
+      "description": "Scenic riverside location offering walks and boat trips along one of the region's major waterways. Provides opportunities to observe local life and natural landscapes.",
+      "location": "City center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Riverside walks",
+        "Local river culture",
+        "Scenic views"
       ]
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Khao Soi",
-      "description": "The first time I tasted Khao Soi, I was blown away by the creamy coconut curry broth and crispy noodles. The owner, an elderly lady, shared her family's recipe with me, and I felt like I was tasting a piece of her history.",
-      "cuisine_type": "Thai",
-      "price_range": "50-70 baht per bowl.",
+      "name": "CRAFT Bistro",
+      "description": "Highly-rated restaurant serving Asian and Thai cuisine with contemporary preparation methods.",
+      "cuisine_type": "Asian, Thai",
+      "price_range": "150-300 THB",
+      "rating": 4.9,
       "highlights": [
-        "Local favorite",
-        "Authentic taste"
+        "High TripAdvisor rating",
+        "Modern Thai cuisine"
       ]
     },
     {
       "rank": 2,
-      "name": "Roti",
-      "description": "I often grabbed a roti from a vendor who made them fresh on the spot. The sweet aroma of the batter sizzling on the hot plate was irresistible, especially when topped with condensed milk and bananas.",
-      "cuisine_type": "Thai",
-      "price_range": "20-30 baht per roti.",
+      "name": "JUZE Island Seafood Brunch & Bar",
+      "description": "Upscale seafood establishment offering fresh catches and cafe-style offerings with island atmosphere.",
+      "cuisine_type": "Seafood, Cafe",
+      "price_range": "200-400 THB",
+      "rating": 4.9,
       "highlights": [
+        "Premium seafood selection",
+        "Island ambiance"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Home Samui Restaurant & Pizzeria",
+      "description": "Family-friendly restaurant combining pizza and seafood specialties in casual setting.",
+      "cuisine_type": "Pizza, Seafood",
+      "price_range": "180-350 THB",
+      "rating": 4.8,
+      "highlights": [
+        "Pizza and seafood fusion",
+        "Casual atmosphere"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "The Heaven Bar & Restaurant Khao Sok",
+      "description": "Scenic restaurant and bar serving Italian cuisine and tropical drinks in Khao Sok area.",
+      "cuisine_type": "Italian, Bar",
+      "price_range": "200-380 THB",
+      "rating": 4.4,
+      "highlights": [
+        "Italian-Thai fusion",
+        "Scenic location"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Khao Horm",
+      "description": "Local restaurant specializing in traditional Thai rice dishes and regional comfort food.",
+      "cuisine_type": "Asian, Thai",
+      "price_range": "50-120 THB",
+      "rating": 4.3,
+      "highlights": [
+        "Authentic Thai rice dishes",
         "Local favorite",
-        "Authentic taste"
+        "Budget-friendly"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Ko Seng",
+      "description": "Local favorite serving authentic Southern Thai cuisine with fresh ingredients and traditional preparation.",
+      "cuisine_type": "Southern Thai",
+      "price_range": "60-150 THB",
+      "highlights": [
+        "Southern Thai specialties",
+        "Authentic flavors"
       ]
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "Boutique Hotel Surat Thani",
-      "description": "Comfortable accommodation at this well-located boutique hotel in Surat Thani.",
-      "price_range": "$30-150",
+      "name": "Plaa's Thansadet Resort",
+      "description": "Highly-rated resort offering quality accommodation and resort amenities in scenic setting.",
+      "price_range": "$40-80/night",
+      "category": "midrange",
+      "rating": 4.4,
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "High TripAdvisor rating",
+        "Resort amenities"
       ]
     },
     {
       "rank": 2,
-      "name": "Resort Surat Thani",
-      "description": "Comfortable accommodation at this well-located resort in Surat Thani.",
-      "price_range": "$30-150",
+      "name": "Sucholtee Resort",
+      "description": "Mid-range resort providing comfortable accommodation with standard amenities and good service.",
+      "price_range": "$35-70/night",
+      "category": "midrange",
+      "rating": 4.3,
       "highlights": [
-        "Good location",
+        "Good value",
         "Comfortable rooms"
       ]
     },
     {
       "rank": 3,
-      "name": "Budget Hotel Surat Thani",
-      "description": "Comfortable accommodation at this well-located budget hotel in Surat Thani.",
-      "price_range": "$30-150",
+      "name": "Khaosok Island Resort",
+      "description": "Quality resort in Khao Sok area offering nature-focused accommodation with scenic surroundings.",
+      "price_range": "$40-75/night",
+      "category": "midrange",
+      "rating": 4.3,
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "Khao Sok location",
+        "Nature-focused"
       ]
     },
     {
       "rank": 4,
-      "name": "Luxury Hotel Surat Thani",
-      "description": "Comfortable accommodation at this well-located luxury hotel in Surat Thani.",
-      "price_range": "$30-150",
+      "name": "AC 2 Resort",
+      "description": "Mid-range resort with comfortable rooms and standard amenities in convenient location.",
+      "price_range": "$30-65/night",
+      "category": "midrange",
+      "rating": 3.7,
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "Budget-conscious",
+        "Central location"
       ]
     },
     {
       "rank": 5,
-      "name": "Guesthouse Surat Thani",
-      "description": "Comfortable accommodation at this well-located guesthouse in Surat Thani.",
-      "price_range": "$30-150",
+      "name": "Khao Sok Tree House Resort",
+      "description": "Unique tree house accommodation in Khao Sok National Park area offering authentic nature experience.",
+      "price_range": "$35-70/night",
+      "category": "midrange",
+      "rating": 3.4,
       "highlights": [
-        "Good location",
-        "Comfortable rooms"
+        "Unique accommodation style",
+        "Nature immersion"
       ]
     }
   ],
@@ -300,182 +406,139 @@
   "enhanced_at": "2025-05-26T19:57:42.409Z",
   "ai_generated": true,
   "overview": "Surat Thani is southern Thailand's essential transport hub and an underrated destination in its own right. While most travelers pass through on their way to famous islands like Koh Samui, Koh Phangan, and Koh Tao, the city itself offers authentic Thai experiences without the tourist crowds. With a population of 132,000, Surat Thani serves as a strategic basecamp for exploring pristine national parks, historic temples, and coastal landscapes that define the region.\n\nThe city combines practical transport infrastructure with genuine cultural attractions. Visit the Surat Thani City Pillar Shrine to experience local spiritual life, explore the Tapee River for scenic riverside walks, or dive into bustling night markets serving some of southern Thailand's best seafood and regional dishes. Unlike its island neighbors, Surat Thani remains refreshingly authentic—a place where you'll encounter workaday Thai life rather than beach resort fantasy. The city's strategic location makes it perfect for day trips to Khao Sok National Park and Ratchaprapha Dam, while ferry terminals provide easy access to island-hopping adventures.",
-  "thingsToDo": "Start your exploration at Khao Sok National Park (entrance fee: 300 THB/$9), one of Thailand's most spectacular natural reserves featuring ancient rainforest, limestone cliffs, and diverse wildlife. The park offers hiking trails, wildlife spotting, and immersive nature experiences that showcase the raw beauty of southern Thailand. For a stunning alternative, visit Ratchaprapha Dam and Cheow Lan Lake (entrance fee: 300 THB/$9), where emerald waters reflect dramatic limestone karsts and floating bungalows create an otherworldly landscape.\n\nDive into the city's cultural heritage at Wat Phra Borommathat Chaiya, home to a 1,200-year-old chedi dating to the Srivijaya period, and the Chaiya National Museum (entrance fee: 100 THB/$3) where Srivijaya artifacts illuminate the region's ancient kingdoms. Don't miss the Koh Samui Ferry Terminal (entrance fee: 150 THB/$4), which isn't just a transport hub but a gateway for island-hopping adventures to Koh Samui, Koh Phangan, and beyond.\n\nFor local immersion, explore Surat Thani Night Market and Walking Street (both free) where vendors sell fresh seafood, Southern Thai specialties, and handicrafts. Take a scenic boat trip along the Tapee River or visit Ban Don Bay (both free) to experience fishing villages and mangrove forests that define the coastal landscape. These attractions cost nothing but offer authentic glimpses of regional life.",
+  "thingsToDo": "Surat Thani offers diverse activities from nature exploration to cultural immersion. Start at Khao Sok National Park (entrance: 300 THB/$9), featuring ancient rainforest, limestone cliffs, hiking trails, and wildlife spotting including elephants and gibbons. Visit Ratchaprapha Dam/Cheow Lan Lake (entrance: 300 THB/$9) for stunning emerald waters reflecting dramatic karsts and floating bungalow experiences.\n\nExplore cultural heritage at Wat Phra Borommathat Chaiya, a 1,200-year-old temple from the Srivijaya period, and Chaiya National Museum (entrance: 100 THB/$3) featuring Srivijaya artifacts. Both sites provide insight into the region's ancient kingdoms and spiritual significance.\n\nFor local immersion, explore Surat Thani Night Market and Walking Street (free) where vendors sell fresh seafood, Southern Thai specialties, and handicrafts. Take scenic boat trips on Tapee River or visit Ban Don Bay fishing villages (free) to experience coastal life and mangrove forests authentic to the region. These attractions offer excellent value with many free cultural and natural experiences.",
   "whereToStay": "Surat Thani offers budget-friendly accommodation options throughout the city, with numerous hostels and guesthouses catering to backpackers. Areas near the city center and pier provide convenient access to transport and attractions. B2 Surat Thani Boutique & Budget Hotel on Donnok Road offers excellent value for budget travelers seeking basic comfort with free WiFi and parking.\n\nMid-range hotels like B2 Surat Thani Premier Hotel provide upgraded amenities including better facilities and convenient locations near Prince of Songkla University campus. These properties typically offer good value with 3-star quality at reasonable prices. Rooms generally include air conditioning, private bathrooms, and modern conveniences without luxury pricing.\n\nAccommodation near Ban Don pier and the city center provides easiest access to ferries for island trips. Most hotels offer transport arrangements to the pier. Book accommodations near night markets or walking streets if you want easy access to dining and local experiences. Rates throughout the city remain significantly cheaper than Koh Samui or Koh Phangan, making Surat Thani ideal for budget-conscious travelers.",
   "whereToEat": [
     {
-      "name": "Ko Seng",
-      "cuisine": "Southern Thai",
-      "priceRange": "$",
-      "description": "Local favorite serving authentic Southern Thai cuisine with fresh ingredients and traditional preparation methods."
+      "name": "CRAFT Bistro",
+      "cuisine": "Asian, Thai",
+      "priceRange": "$5-10",
+      "description": "Contemporary Thai cuisine with excellent ratings and modern preparation."
     },
     {
-      "name": "Jun Hom",
-      "cuisine": "Thai",
-      "priceRange": "$",
-      "description": "Popular local restaurant offering traditional Thai dishes at budget-friendly prices."
+      "name": "JUZE Island Seafood Brunch & Bar",
+      "cuisine": "Seafood, Cafe",
+      "priceRange": "$7-12",
+      "description": "Premium seafood restaurant with island atmosphere and brunch specialties."
+    },
+    {
+      "name": "Home Samui Restaurant & Pizzeria",
+      "cuisine": "Pizza, Seafood",
+      "priceRange": "$6-11",
+      "description": "Casual dining combining pizza and fresh seafood in relaxed setting."
+    },
+    {
+      "name": "The Heaven Bar & Restaurant Khao Sok",
+      "cuisine": "Italian, Bar",
+      "priceRange": "$7-13",
+      "description": "Italian cuisine with bar service in scenic Khao Sok location."
     },
     {
       "name": "Khao Horm",
-      "cuisine": "Thai Rice Dishes",
-      "priceRange": "$",
-      "description": "Specialty restaurant focused on traditional Thai rice preparations and regional comfort food."
+      "cuisine": "Thai",
+      "priceRange": "$2-4",
+      "description": "Authentic Thai rice dishes and local comfort food at budget prices."
     },
     {
-      "name": "Saffron",
-      "cuisine": "Thai/International",
-      "priceRange": "$$",
-      "description": "Mid-range restaurant offering both Thai and international cuisine with quality presentation."
-    },
-    {
-      "name": "The Cliff Bar and Grill",
-      "cuisine": "Seafood/International",
-      "priceRange": "$$",
-      "description": "Popular dining establishment known for fresh seafood preparations and relaxed atmosphere."
-    },
-    {
-      "name": "Gringos Cantina",
-      "cuisine": "International",
-      "priceRange": "$$",
-      "description": "Western-style restaurant offering international cuisine for travelers seeking familiar flavors."
-    },
-    {
-      "name": "Pantip Market",
-      "cuisine": "Street Food/Market",
-      "priceRange": "$",
-      "description": "Market venue featuring multiple vendors selling fresh produce, prepared dishes, and local specialties at minimal cost."
-    },
-    {
-      "name": "Surat Thani Night Market",
-      "cuisine": "Southern Thai/Seafood",
-      "priceRange": "$",
-      "description": "Evening market explosion of street food vendors serving regional specialties, fresh seafood, and local products."
+      "name": "Ko Seng",
+      "cuisine": "Southern Thai",
+      "priceRange": "$2-5",
+      "description": "Local favorite with authentic Southern Thai cuisine and traditional recipes."
     }
   ],
   "topHotels": [
     {
-      "name": "B2 Surat Thani Boutique & Budget Hotel",
-      "category": "budget",
-      "priceRange": "$15-30/night",
-      "area": "Talat (City Center)",
-      "description": "Budget-friendly hotel on Donnok Road with free WiFi, free parking, and 24-hour front desk. Located 9 minutes from Prince of Songkla University with nearby access to Surat Thani City Pillar Shrine and Bandon Pier."
-    },
-    {
-      "name": "B2 Surat Thani Premier Hotel",
+      "name": "Plaa's Thansadet Resort",
       "category": "midrange",
-      "priceRange": "$25-45/night",
-      "area": "Wat Pradu - Ko Sanoe Road",
-      "description": "3-star hotel offering free WiFi, free parking, and 24-hour front desk service. Popular with travelers for access to Central Suratthani and Ban Don Floating Market with improved amenities over budget properties."
+      "priceRange": "$40-80/night",
+      "area": "Surat Thani area",
+      "description": "Quality resort with good amenities and service ratings, suitable for comfortable stays."
     },
     {
-      "name": "Central Suratthani",
-      "category": "midrange",
-      "priceRange": "$30-60/night",
-      "area": "City Center",
-      "description": "Shopping mall and hotel complex in central location with good restaurant options and shopping facilities, convenient for accessing city attractions."
-    },
-    {
-      "name": "Surat Thani Airport Hotel",
-      "category": "budget",
-      "priceRange": "$20-35/night",
-      "area": "Near Airport",
-      "description": "Convenient location for early morning departures or late arrivals with basic amenities and airport proximity."
-    },
-    {
-      "name": "Thai Hotel Surat Thani",
-      "category": "midrange",
-      "priceRange": "$25-50/night",
-      "area": "City Center",
-      "description": "Mid-range property offering comfortable rooms with modern conveniences and central location for exploring markets and attractions."
-    },
-    {
-      "name": "JP Grand Hotel",
+      "name": "Sucholtee Resort",
       "category": "midrange",
       "priceRange": "$35-70/night",
-      "area": "City Center",
-      "description": "Upscale mid-range hotel with enhanced amenities, restaurant, and good service quality for business and leisure travelers."
+      "area": "Surat Thani area",
+      "description": "Mid-range resort offering value and comfort for travelers seeking moderate accommodations."
     },
     {
-      "name": "Wico Guesthouse",
-      "category": "budget",
-      "priceRange": "$12-25/night",
-      "area": "City Center",
-      "description": "Budget guesthouse popular with backpackers offering basic clean rooms and social atmosphere for meeting other travelers."
+      "name": "Khaosok Island Resort",
+      "category": "midrange",
+      "priceRange": "$40-75/night",
+      "area": "Khao Sok National Park",
+      "description": "Nature-focused resort in scenic national park area with quality facilities."
     },
     {
-      "name": "Bandon Bed and Breakfast",
-      "category": "budget",
-      "priceRange": "$15-30/night",
-      "area": "Bandon (Pier Area)",
-      "description": "Intimate bed and breakfast near ferry terminal, ideal for early departures with home-style hospitality and local knowledge."
+      "name": "AC 2 Resort",
+      "category": "midrange",
+      "priceRange": "$30-65/night",
+      "area": "City Center",
+      "description": "Budget-conscious mid-range option with convenient city access."
+    },
+    {
+      "name": "Khao Sok Tree House Resort",
+      "category": "midrange",
+      "priceRange": "$35-70/night",
+      "area": "Khao Sok National Park",
+      "description": "Unique tree house accommodation offering authentic forest experience."
     }
   ],
-  "gettingAround": "Surat Thani is highly walkable in the city center, with most attractions and markets within reach on foot. For longer distances, tuk-tuks are the primary local transport option, readily available throughout the city and charging reasonable fares (typically 40-100 THB for city trips). Songthaews (shared minibuses) operate on fixed routes connecting the city center, pier, and surrounding areas at very affordable rates.\n\nFor day trips to Khao Sok National Park and Ratchaprapha Dam, organized tours from hotels provide convenient transport with included activities. Motorbike rental is available but requires an International Driving Permit. Grab app operates in Surat Thani offering convenient ride-hailing at fixed prices. To reach ferry terminals for island transfers, most hotels arrange minibus transport or tuk-tuks can take you directly to Koh Samui Ferry Terminal at Ban Don pier. The city has good regional bus connections to other southern Thailand destinations.",
+  "gettingAround": "Surat Thani's city center is highly walkable with most attractions within reach on foot. Local transport options include tuk-tuks (40-100 THB for city trips), songthaews or shared minibuses on fixed routes (20-40 THB typical fares), and the Grab app for app-based ride-hailing at fixed prices. Motorbike rental is available but requires an International Driving Permit. For day trips to Khao Sok National Park and Ratchaprapha Dam, organized tours from hotels provide convenient transport with included activities (typically 800-1,500 THB per person). Hotels can arrange minibus transport to ferry terminals (200-300 THB) or tuk-tuks directly to Ban Don pier for island ferries. Regional bus connections serve other southern Thailand destinations with frequent departures.",
   "bestTimeToVisit": "The best time to visit Surat Thani is November through February, when the southwest monsoon ends and weather becomes warm and dry. These months offer the most stable conditions for both city exploration and day trips to national parks. Daytime temperatures hover around 28-32°C (82-90°F) with minimal rainfall, making outdoor activities entirely comfortable. This period coincides with Thailand's cool season and attracts the most tourists, so book accommodations in advance if traveling during December-January holidays.\n\nAvoid May through October when the southwest monsoon brings heavy rain and rough seas, making island ferries unpredictable and outdoor activities challenging. September-October sees the heaviest rainfall. March-April becomes extremely hot and humid, with temperatures exceeding 35°C (95°F). Late November is ideal as crowds remain manageable while weather is perfect. If budget matters most, consider September-October for lower prices, though weather risk is significant. The shoulder seasons (March-April and October-November) offer compromises between weather and pricing.",
   "budgetGuide": {
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget travelers can live comfortably on $20-40 daily: guesthouse rooms at $12-25/night, street food and market meals at $2-5, free/low-cost attractions (temples, markets, riverside walks), and local transport via tuk-tuk/songthaew at $0.50-2 per trip. Includes basic activities and essential costs."
+      "description": "Budget travelers can live comfortably on $20-40 daily: guesthouse rooms at $12-25/night, street food and market meals at $2-5, free/low-cost attractions (temples, markets, riverside walks), entrance fees of 100-300 THB for major sites, and local transport via tuk-tuk/songthaew at 0.50-2 USD per trip."
     },
     "midrange": {
       "min": 50,
       "max": 100,
-      "description": "Mid-range travelers spending $50-100 daily: 3-star hotel at $25-45/night, restaurant meals at $5-10, paid attractions like Khao Sok or Ratchaprapha Dam ($9 each), occasional tour activities, and comfortable transport. Includes quality dining and curated experiences."
+      "description": "Mid-range travelers spending $50-100 daily: 3-star hotel at $30-65/night, restaurant meals at $5-10, paid attractions like Khao Sok or Ratchaprapha Dam ($9 each), organized tours (800-1,500 THB), and comfortable local transport via Grab or hotel minibus."
     },
     "luxury": {
       "min": 150,
-      "max": 400,
-      "description": "Luxury travelers can spend $150-400+ daily: upscale hotels at $60-150+/night, fine dining restaurants at $15-30 per meal, private tours and guides, spa treatments, and premium transport. Includes resort amenities and personalized experiences."
+      "max": 300,
+      "description": "Luxury travelers can spend $150-300+ daily: upscale resort accommodation at $75+/night, fine dining restaurants at $15-30 per meal, private guides and tours (2,000+ THB), spa treatments, and premium transport arrangements including airport transfers."
     }
   },
   "safetyTips": "Surat Thani is generally safe for tourists using standard city sense. Petty theft occurs in crowded markets and night areas, so keep valuables secure and use hotel safes for passports/extra cash. Avoid walking alone late at night in unfamiliar areas, particularly around the pier district after dark. Use registered tuk-tuks or Grab app rather than hailing unmarked vehicles, and always agree on fares beforehand with traditional tuk-tuks. Traffic can be chaotic; cross streets carefully and be aware of motorbike traffic.\n\nWhen visiting national parks, stay on marked trails and hire local guides for rainforest exploration. Respect water safety warnings at Cheow Lan Lake and follow park regulations. Don't accept drinks from strangers at bars and watch your belongings in crowded market areas. Tap water is generally safe but bottled water is widely available and inexpensive. Pharmacies are available throughout the city for minor medical needs. Keep important documents copies separate from originals. Overall, standard tourist precautions combined with awareness of surroundings ensure safe travel in Surat Thani.",
   "faq": [
     {
       "question": "Is Surat Thani worth visiting or just a transport hub?",
-      "answer": "While it functions as a crucial ferry hub for island travel, Surat Thani is genuinely worth visiting. The city offers authentic Southern Thai culture, excellent national parks (Khao Sok and Ratchaprapha Dam), historic temples from the Srivijaya period, vibrant night markets, and riverside attractions—all without the tourist crowds and inflated prices of island resorts. Most travelers spend 1-3 days exploring before island-hopping."
+      "answer": "While it functions as a crucial ferry hub for island travel, Surat Thani offers genuine attractions worth 1-3 days. The city features authentic Southern Thai culture, spectacular national parks (Khao Sok entrance: 300 THB/$9, Ratchaprapha Dam: 300 THB/$9), historic Srivijaya temples, and vibrant night markets without tourist crowds or inflated island prices."
     },
     {
       "question": "How long does it take to get from Surat Thani to Koh Samui?",
-      "answer": "Ferry services from Ban Don pier take approximately 1.5-2 hours to Koh Samui depending on sea conditions and ferry type. High-speed ferries operate regularly throughout the day. Speedboats are faster (45-60 minutes) but more expensive. Most hotels can arrange transport to the pier or book ferries directly."
+      "answer": "Ferry services from Ban Don pier take approximately 1.5-2 hours to Koh Samui depending on sea conditions. High-speed ferries (speedboats) complete the journey in 45-60 minutes but cost significantly more. Most hotels arrange transport to the pier or can book ferries directly. Hotels charge 200-300 THB for minibus transport to the pier."
     },
     {
       "question": "What are the entrance fees for major attractions?",
-      "answer": "Khao Sok National Park costs 300 THB ($9), Ratchaprapha Dam/Cheow Lan Lake costs 300 THB ($9), Chaiya National Museum costs 100 THB ($3), and Koh Samui Ferry Terminal costs 150 THB ($4). Many attractions like temples, markets, and riverside areas are free. These prices make Surat Thani very affordable for activities."
+      "answer": "Khao Sok National Park: 300 THB ($9), Ratchaprapha Dam/Cheow Lan Lake: 300 THB ($9), Chaiya National Museum: 100 THB ($3). Temples, markets, and riverside areas are free. Organized day trips to Khao Sok typically cost 800-1,500 THB per person including transport and meals."
     },
     {
-      "question": "What's the best neighborhood to stay in?",
-      "answer": "The city center near walking streets and night markets offers convenient access to dining and exploration. Areas near Ban Don pier suit travelers catching ferries early. Budget travelers congregate near central hotels with social atmospheres. Most neighborhoods are equally safe and walkable. Choose based on whether you prioritize ferry access, markets, or general city exploration."
-    },
-    {
-      "question": "Can I do day trips from Surat Thani?",
-      "answer": "Yes, excellent day trips include Khao Sok National Park (1 hour), Ratchaprapha Dam/Cheow Lan Lake (1.5 hours), Wat Phra Borommathat Chaiya (45 minutes), and Ban Don Bay mangroves (30 minutes). Organized tours from hotels typically cost $30-50 including transport and activities. Ferry connections to Koh Samui and Koh Phangan allow island day trips for experienced swimmers."
-    },
-    {
-      "question": "What's the weather like and when should I avoid visiting?",
-      "answer": "November-February offers ideal conditions: warm, dry, and perfect for activities. March-April is extremely hot. May-October brings southwest monsoon rains making ferries unpredictable and outdoor activities challenging. September-October has the heaviest rainfall. For weather certainty, visit November-February; for budgets, September-October offers lower prices despite weather risks."
-    },
-    {
-      "question": "How much should I budget for daily costs?",
-      "answer": "Budget travelers spend $20-40 daily on guesthouse ($12-25), meals ($2-5), and activities. Mid-range travelers spend $50-100 on 3-star hotels ($25-45), restaurant meals ($5-10), and paid activities. Luxury travelers spend $150-400+ on upscale hotels and fine dining. Surat Thani is significantly cheaper than island destinations, making it excellent value for southern Thailand exploration."
+      "question": "What local transport options are available?",
+      "answer": "Primary options include tuk-tuks (40-100 THB for city trips), songthaews/shared minibuses (20-40 THB), and Grab app for fixed-price ride-hailing. Motorbike rental is available with International Driving Permit. Hotel minibuses serve longer distances to attractions and ferry terminals (200-300 THB typical)."
     }
   ],
   "practicalInfo": {
     "bestMonths": [
-      "Nov",
-      "Dec",
-      "Jan",
-      "Feb"
+      "November",
+      "December",
+      "January",
+      "February"
     ],
     "nearestAirport": "Surat Thani International Airport (URT)",
-    "travelTimeFromAirport": "25-40 minutes by car or taxi to city center",
+    "travelTimeFromAirport": "25-40 minutes by car or taxi to city center (approximately 400-600 THB)",
     "localTransport": [
       "Tuk-tuk",
-      "Songthaew",
+      "Songthaew (shared minibus)",
       "Motorbike rental",
       "Grab app",
-      "Hotel minibus"
+      "Hotel minibus",
+      "Organized tours"
     ]
   },
-  "enrichedAt": "2026-02-22T12:38:30.470Z"
+  "enrichedAt": "2026-02-22T12:38:30.470Z",
+  "factchecked_at": "2026-03-08T18:29:21.369Z"
 }
