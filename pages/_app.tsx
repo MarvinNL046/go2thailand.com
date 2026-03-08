@@ -9,6 +9,7 @@ import CookieConsent from '../components/CookieConsent';
 import GoogleConsent from '../components/GoogleConsent';
 import FeedbackRibbon from '../components/FeedbackRibbon';
 import ExitIntentPopup from '../components/ExitIntentPopup';
+import PushBanner from '../components/PushBanner';
 import Hreflang from '../components/Hreflang';
 import { ToastProvider } from '../components/Toast';
 import '../styles/globals.css';
@@ -93,6 +94,7 @@ export default function App({ Component, pageProps }: AppProps) {
           <CookieConsent />
           <FeedbackRibbon />
           <ExitIntentPopup />
+          <PushBanner />
         </div>
       </ToastProvider>
     </>
