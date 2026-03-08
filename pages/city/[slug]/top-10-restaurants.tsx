@@ -30,6 +30,18 @@ interface RestaurantItem {
   price_reality?: string;
   location_details?: string;
   personal_moment?: string;
+  scraped?: {
+    source: 'tripadvisor' | 'google' | 'other';
+    cuisine?: string;
+    price_range?: string;
+    rating?: number;
+    review_count?: number;
+    address?: string;
+    highlights?: string[];
+    review_snippets?: string[];
+    scraped_at: string;
+  };
+  trip_affiliate_url?: string;
 }
 
 interface Top10RestaurantsData {
@@ -42,8 +54,10 @@ interface Top10RestaurantsData {
   category: string;
   data_sources?: string[];
   last_perplexity_update?: string;
+  last_scraped?: string;
   generated_at: string;
   hybrid?: boolean;
+  scraped?: boolean;
 }
 
 interface Top10RestaurantsPageProps {
@@ -114,7 +128,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
                 "name": "Go2Thailand"
               },
               "datePublished": restaurantsData.generated_at,
-              "dateModified": restaurantsData.last_perplexity_update || restaurantsData.generated_at
+              "dateModified": restaurantsData.last_scraped || restaurantsData.last_perplexity_update || restaurantsData.generated_at
             })
           }}
         />
@@ -156,18 +170,20 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
 
               {/* Data sources badge */}
               {restaurantsData.data_sources && (
-                <div className="flex justify-center items-center gap-2 text-sm text-gray-500 mb-6">
-                  <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full">
-                    Current Data
-                  </span>
-                  {restaurantsData.hybrid && (
-                    <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full">
-                      Expert Curated
+                <div className="flex flex-wrap justify-center items-center gap-2 text-sm text-gray-500 mb-6">
+                  {restaurantsData.scraped && (
+                    <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full">
+                      Verified Restaurant Data
                     </span>
                   )}
-                  {restaurantsData.last_perplexity_update && (
+                  {restaurantsData.data_sources.includes('scraped') && (
+                    <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full capitalize">
+                      Source: {restaurantsData.data_sources[0]}
+                    </span>
+                  )}
+                  {(restaurantsData.last_scraped || restaurantsData.last_perplexity_update) && (
                     <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full">
-                      Updated {new Date(restaurantsData.last_perplexity_update).toLocaleDateString()}
+                      Updated {new Date(restaurantsData.last_scraped || restaurantsData.last_perplexity_update!).toLocaleDateString()}
                     </span>
                   )}
                 </div>
@@ -254,18 +270,41 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
                                   {restaurant.location}
                                 </div>
                               )}
-                              <a
-                                href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.name + ' ' + city.name.en + ' Thailand')}`}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="inline-flex items-center text-sm text-gray-500 hover:text-thailand-blue transition-colors"
-                                title="View on Google Maps"
-                              >
-                                <svg className="w-4 h-4 mr-1" viewBox="0 0 24 24" fill="currentColor">
-                                  <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
-                                </svg>
-                                View on Google Maps
-                              </a>
+                              <div className="flex flex-wrap items-center gap-3 mt-2">
+                                {restaurant.scraped?.rating && (
+                                  <span className="inline-flex items-center bg-yellow-100 text-yellow-800 px-2.5 py-1 rounded-lg text-sm font-semibold">
+                                    <svg className="w-4 h-4 mr-1" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                                    {restaurant.scraped.rating}/5
+                                  </span>
+                                )}
+                                {restaurant.scraped?.review_count && (
+                                  <span className="text-sm text-gray-500">
+                                    {restaurant.scraped.review_count.toLocaleString()} reviews
+                                  </span>
+                                )}
+                                {restaurant.scraped?.cuisine && (
+                                  <span className="text-sm text-gray-500">
+                                    {restaurant.scraped.cuisine}
+                                  </span>
+                                )}
+                                {restaurant.scraped?.source && (
+                                  <span className="text-xs text-gray-400 capitalize">
+                                    via {restaurant.scraped.source}
+                                  </span>
+                                )}
+                                <a
+                                  href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.name + ' ' + city.name.en + ' Thailand')}`}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  className="inline-flex items-center text-sm text-gray-500 hover:text-thailand-blue transition-colors"
+                                  title="View on Google Maps"
+                                >
+                                  <svg className="w-4 h-4 mr-1" viewBox="0 0 24 24" fill="currentColor">
+                                    <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+                                  </svg>
+                                  Maps
+                                </a>
+                              </div>
                             </div>
                           </div>
 
