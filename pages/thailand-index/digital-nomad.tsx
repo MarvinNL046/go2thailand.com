@@ -167,13 +167,13 @@ export default function DigitalNomadPage({ data }: DigitalNomadPageProps) {
       <SEOHead
         title={
           lang === 'nl'
-            ? 'Thailand voor Digitale Nomaden: 33 Steden op WiFi, Kosten & Community'
-            : 'Thailand for Digital Nomads: 33 Cities Ranked on WiFi, Cost & Community'
+            ? 'Thailand Digital Nomad Index 2026: 33 Steden Vergeleken'
+            : 'Thailand Digital Nomad Index 2026: 33 Cities Ranked'
         }
         description={
           lang === 'nl'
-            ? 'Vergelijk 33 Thaise steden op WiFi-snelheid, coworking spaces, maandkosten en nomadengemeenschap. Vind de beste bestemming voor remote werken in Thailand.'
-            : 'Compare 33 Thai cities on WiFi speed, coworking spaces, monthly costs, and nomad community. Find the best destination for remote work in Thailand.'
+            ? 'Vergelijk 33 Thaise steden op WiFi-snelheid, coworking, maandkosten en community in 2026. Vind de beste bestemming voor remote werken in Thailand.'
+            : 'Compare 33 Thai cities on WiFi speed, coworking, monthly costs, and nomad community in 2026. Find the best destination for remote work in Thailand.'
         }
       >
         <script
