@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 106
+    "completed": 107
   },
   "queue": [
     {
@@ -857,7 +857,8 @@
     {
       "type": "city",
       "file": "data/enhanced/chanthaburi.json",
-      "status": "pending",
+      "status": "completed",
+      "completedAt": "2026-03-09",
       "priority": 3,
       "locale": "nl"
     },
