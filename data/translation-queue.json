@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 119
+    "completed": 120
   },
   "queue": [
     {
@@ -961,9 +961,10 @@
     {
       "type": "city",
       "file": "data/enhanced/mae-hong-son.json",
-      "status": "pending",
+      "status": "completed",
       "priority": 3,
-      "locale": "nl"
+      "locale": "nl",
+      "completedAt": "2026-03-09"
     },
     {
       "type": "city",
