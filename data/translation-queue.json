@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 22
+    "completed": 23
   },
   "queue": [
     {
@@ -185,9 +185,10 @@
     {
       "type": "top10",
       "file": "data/top10/chiang-rai-attractions.json",
-      "status": "pending",
+      "status": "completed",
       "priority": 2,
-      "locale": "nl"
+      "locale": "nl",
+      "completedAt": "2026-03-09"
     },
     {
       "type": "top10",
