@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 101
+    "completed": 102
   },
   "queue": [
     {
@@ -817,7 +817,8 @@
     {
       "type": "top10",
       "file": "data/top10/udon-thani-hotels.json",
-      "status": "pending",
+      "status": "completed",
+      "completedAt": "2026-03-09",
       "priority": 2,
       "locale": "nl"
     },
