@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 47
+    "completed": 48
   },
   "queue": [
     {
@@ -385,9 +385,10 @@
     {
       "type": "top10",
       "file": "data/top10/lampang-hotels.json",
-      "status": "pending",
+      "status": "completed",
       "priority": 2,
-      "locale": "nl"
+      "locale": "nl",
+      "completedAt": "2026-03-09"
     },
     {
       "type": "top10",
