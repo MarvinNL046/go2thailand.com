@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 89
+    "completed": 90
   },
   "queue": [
     {
@@ -721,7 +721,8 @@
     {
       "type": "top10",
       "file": "data/top10/surat-thani-hotels.json",
-      "status": "pending",
+      "status": "completed",
+      "completedAt": "2026-03-09",
       "priority": 2,
       "locale": "nl"
     },
