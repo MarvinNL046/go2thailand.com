@@ -172,5 +172,102 @@
     }
   },
   "enhanced_at": "2025-05-25T21:51:45.741Z",
-  "ai_generated": false
+  "ai_generated": false,
+  "translations": {
+    "nl": {
+      "enhanced_description": "Groene Curry (Gaeng Keow Wan) is het smaragdgroene juweel van de Thaise keuken — een kokosnootcurry die romige rijkheid perfect in balans brengt met kruidig-pittige hitte. Anders dan zijn rode en gele neven ontleent groene curry zijn kleur en smaak aan verse groene pepers en kruiden, waardoor het fris, aromatisch en verrassend complex is. De naam betekent letterlijk 'zoete groene curry', maar laat je niet misleiden — hij is behoorlijk pittig.",
+      "detailed_ingredients": [
+        {
+          "name": "Groene currypasta",
+          "purpose": "De ziel van het gerecht — verse kruiden en pepers samengemalen",
+          "substitutes": [
+            "Kant-en-klare pasta (merk Mae Ploy)",
+            "Zelf maken (beste optie)"
+          ]
+        },
+        {
+          "name": "Thaise aubergine",
+          "purpose": "Voegt textuur toe en absorbeert de currysmaak",
+          "substitutes": [
+            "Gewone aubergine in kleinere stukjes",
+            "Courgette",
+            "Sperziebonen"
+          ]
+        },
+        {
+          "name": "Thaise basilicum",
+          "purpose": "Verse aromatische toets die de rijke curry opfleurt",
+          "substitutes": [
+            "Zoete basilicum",
+            "Heilige basilicum",
+            "Munt (anders maar het werkt)"
+          ]
+        },
+        {
+          "name": "Kokosroom",
+          "purpose": "Creëert de rijke basis en tempert de hitte",
+          "substitutes": [
+            "Volle kokosmelk",
+            "Cashewroom voor een lichtere versie"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Pasta bakken en langzaam sudderen",
+        "steps_overview": "Het geheim is het 'kraken' van de kokosroom — verhit het totdat de olie zich afscheidt en bak vervolgens de currypasta in deze olie. Dit proces is cruciaal voor het ontwikkelen van diepe smaken voordat je vloeistoffen toevoegt.",
+        "cooking_tips": [
+          "Bak de currypasta tot hij ongelooflijk geurig is — dit is essentieel",
+          "Gebruik eerst het dikke deel van de kokosmelk",
+          "Niet hard laten koken — zacht sudderen behoudt de kleur",
+          "Voeg groenten toe op basis van kooktijd — hardste eerst",
+          "Voeg basilicum toe nadat je het vuur hebt uitgedaan"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontwikkeld in de koninklijke keukens van Centraal-Thailand, vertegenwoordigt groene curry de verfijning van de paleiskeuken. Het gebruik van verse kruiden in plaats van gedroogde specerijen toont de overvloed aan kruiden in Thailand.",
+        "cultural_importance": "Groene curry is een test van de vaardigheden van een kok — het balanceren van hitte, zoetheid en zout terwijl de felgroene kleur behouden blijft. Het wordt beschouwd als verfijnder dan rode curry en wordt vaak geserveerd bij belangrijke diners.",
+        "traditional_occasions": [
+          "Boeddhistische festivals",
+          "Koninklijke ceremonies",
+          "Huwelijksbanquetten",
+          "Het ontvangen van eregasten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Keow Wan Gai",
+          "description": "Klassieke kipversie met Thaise aubergine"
+        },
+        {
+          "name": "Gaeng Keow Wan Luk Chin Pla",
+          "description": "Visballenversie — populaire straatvoedselvariant"
+        },
+        {
+          "name": "Vegetarische Groene Curry",
+          "description": "Met tofu en gemengde groenten, zonder vissaus"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Krua Apsorn (Bangkok) — Koninklijke Thaise keuken",
+          "The Local (Bangkok) — Traditionele recepten",
+          "Elk Moslim-Thais restaurant voor unieke versies"
+        ],
+        "street_food_areas": [
+          "Or Tor Kor Market food court",
+          "Saphan Phut nachtmarkt",
+          "Universiteitskantines voor goedkope authentieke versies"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
+  }
 }
