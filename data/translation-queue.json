@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 46
+    "completed": 47
   },
   "queue": [
     {
@@ -377,8 +377,9 @@
     {
       "type": "top10",
       "file": "data/top10/lampang-attractions.json",
-      "status": "pending",
+      "status": "completed",
       "priority": 2,
+      "completedAt": "2026-03-09",
       "locale": "nl"
     },
     {
