@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 44
+    "completed": 45
   },
   "queue": [
     {
@@ -361,8 +361,9 @@
     {
       "type": "top10",
       "file": "data/top10/krabi-hotels.json",
-      "status": "pending",
+      "status": "completed",
       "priority": 2,
+      "completedAt": "2026-03-09",
       "locale": "nl"
     },
     {
