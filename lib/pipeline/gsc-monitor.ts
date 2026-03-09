@@ -15,7 +15,7 @@
 import { commitFilesToGitHub } from './github-commit';
 
 const GSC_API = 'https://searchconsole.googleapis.com/webmasters/v3';
-const SITE_URL = 'https://go2-thailand.com';
+const SITE_URL = 'sc-domain:go2-thailand.com';
 
 // --- Auth ---
 
