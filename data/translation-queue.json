@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 40
+    "completed": 41
   },
   "queue": [
     {
@@ -329,8 +329,9 @@
     {
       "type": "top10",
       "file": "data/top10/koh-samui-attractions.json",
-      "status": "pending",
+      "status": "completed",
       "priority": 2,
+      "completedAt": "2026-03-09",
       "locale": "nl"
     },
     {
