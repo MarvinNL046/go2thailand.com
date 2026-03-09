@@ -1,0 +1,1139 @@
+{
+  "description": "Translation queue — NL translations of EN-only content fields. Processed by /loop.",
+  "locale": "nl",
+  "lastUpdated": "2026-03-09",
+  "stats": {
+    "total": 188,
+    "completed": 0
+  },
+  "queue": [
+    {
+      "type": "region",
+      "file": "data/regions/northern.json",
+      "status": "pending",
+      "priority": 1
+    },
+    {
+      "type": "region",
+      "file": "data/regions/central.json",
+      "status": "pending",
+      "priority": 1
+    },
+    {
+      "type": "region",
+      "file": "data/regions/southern.json",
+      "status": "pending",
+      "priority": 1
+    },
+    {
+      "type": "region",
+      "file": "data/regions/isaan.json",
+      "status": "pending",
+      "priority": 1
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/ayutthaya-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/ayutthaya-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/ayutthaya-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/bangkok-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/bangkok-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/bangkok-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/bueng-kan-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/bueng-kan-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/bueng-kan-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chanthaburi-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chanthaburi-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chanthaburi-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chiang-khan-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chiang-khan-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chiang-khan-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chiang-mai-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chiang-mai-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chiang-mai-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chiang-rai-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chiang-rai-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chiang-rai-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chumphon-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chumphon-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/chumphon-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/hat-yai-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/hat-yai-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/hat-yai-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/hua-hin-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/hua-hin-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/hua-hin-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/kanchanaburi-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/kanchanaburi-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/kanchanaburi-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/khon-kaen-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/khon-kaen-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/khon-kaen-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/koh-samui-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/koh-samui-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/koh-samui-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/krabi-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/krabi-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/krabi-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/lampang-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/lampang-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/lampang-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/lopburi-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/lopburi-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/lopburi-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/mae-hong-son-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/mae-hong-son-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/mae-hong-son-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/mukdahan-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/mukdahan-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/mukdahan-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/nakhon-phanom-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/nakhon-phanom-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/nakhon-phanom-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/nakhon-ratchasima-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/nakhon-ratchasima-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/nakhon-ratchasima-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/nakhon-si-thammarat-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/nakhon-si-thammarat-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/nakhon-si-thammarat-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/nong-khai-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/nong-khai-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/nong-khai-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/pai-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/pai-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/pai-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/pattaya-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/pattaya-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/pattaya-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/phitsanulok-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/phitsanulok-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/phitsanulok-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/phuket-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/phuket-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/phuket-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/rayong-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/rayong-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/rayong-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/sukhothai-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/sukhothai-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/sukhothai-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/surat-thani-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/surat-thani-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/surat-thani-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/trang-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/trang-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/trang-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/trat-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/trat-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/trat-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/ubon-ratchathani-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/ubon-ratchathani-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/ubon-ratchathani-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/udon-thani-attractions.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/udon-thani-hotels.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "top10",
+      "file": "data/top10/udon-thani-restaurants.json",
+      "status": "pending",
+      "priority": 2
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/ayutthaya.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/bangkok.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/bueng-kan.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/chanthaburi.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/chiang-khan.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/chiang-mai.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/chiang-rai.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/chumphon.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/hat-yai.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/hua-hin.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/kanchanaburi.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/khon-kaen.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/koh-samui.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/krabi.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/lampang.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/lopburi.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/mae-hong-son.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/mukdahan.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/nakhon-phanom.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/nakhon-ratchasima.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/nakhon-si-thammarat.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/nong-khai.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/pai.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/pattaya.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/phitsanulok.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/phuket.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/rayong.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/sukhothai.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/surat-thani.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/trang.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/trat.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/ubon-ratchathani.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "city",
+      "file": "data/enhanced/udon-thani.json",
+      "status": "pending",
+      "priority": 3
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/boat-noodles.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/bua-loy.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/curry.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/dessert.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/gaeng-hang-lay.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/gaeng-tai-pla.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/gai-tod-hat-yai.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/goong-pad-makham.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/goong-pad-sator.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/green-curry.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/hoy-tod.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/index.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/kaeng-liang.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/kanom-jeen-nam-ya.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/khao-kan-jin.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/khao-man-gai.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/khao-mok-gai.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/khao-pad-sapparot.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/khao-soi.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/khao-yam.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/laab-kua.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/larb.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/lod-chong.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/main-dish.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/mango-sticky-rice.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/massaman-curry.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/mee-hokkien.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/moo-hong.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/moo-palo.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/nam-ngiao.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/nam-prik-goong-siap.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/nam-prik-kapi.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/nam-prik-noom.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/nam-prik-ong.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/oh-aew.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/pad-krapow.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/pad-see-ew.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/pad-thai.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/pla-pao.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/roti-canai.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/roti-sai-mai.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/sai-ua.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/salad.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/som-tam.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/soup.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/sukhothai-noodles.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/tam-khanun.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/thai-fried-rice.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/tom-som-pla.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/tom-yum-goong.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/tom-yum-noodles.json",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "type": "food",
+      "file": "data/enhanced/food/yam-woon-sen.json",
+      "status": "pending",
+      "priority": 4
+    }
+  ]
+}
