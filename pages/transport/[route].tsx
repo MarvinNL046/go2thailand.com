@@ -4,6 +4,8 @@ import Head from 'next/head';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
+import fs from 'fs';
+import path from 'path';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
 import AffiliateWidget from '../../components/AffiliateWidget';
@@ -27,6 +29,7 @@ interface RoutePageProps {
   fromCity: any;
   toCity: any;
   transportOptions: TransportOption[];
+  comparisonSlug: string | null;
 }
 
 const getTransportIcon = (method: string) => {
@@ -45,7 +48,7 @@ const getComfortStars = (rating: number) => {
   return '*'.repeat(rating) + '-'.repeat(5 - rating);
 };
 
-const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity, transportOptions }) => {
+const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity, transportOptions, comparisonSlug }) => {
   const { locale } = useRouter();
 
   const breadcrumbs = [
@@ -290,25 +293,21 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
               </div>
             </section>
 
-            {/* Compare These Cities */}
-            {(() => {
-              const compareSlug1 = `${fromCity.slug}-vs-${toCity.slug}`;
-              const compareSlug2 = `${toCity.slug}-vs-${fromCity.slug}`;
-              return (
-                <section className="bg-surface-cream rounded-2xl shadow-md p-6 mb-8 border-0">
-                  <h2 className="text-xl font-bold font-heading mb-3">{fromCity.name.en} vs {toCity.name.en}</h2>
-                  <p className="text-gray-600 text-sm mb-4">
-                    Not sure which city to visit? Compare weather, budget, attractions, and more.
-                  </p>
-                  <Link
-                    href={`/compare/${compareSlug1}/`}
-                    className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-2.5 rounded-xl font-semibold hover:bg-blue-700 transition-colors text-sm"
-                  >
-                    Compare {fromCity.name.en} & {toCity.name.en} →
-                  </Link>
-                </section>
-              );
-            })()}
+            {/* Compare These Cities — only shown if a comparison page exists */}
+            {comparisonSlug && (
+              <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
+                <h2 className="text-xl font-bold font-heading mb-3">Compare {fromCity.name.en} vs {toCity.name.en}</h2>
+                <p className="text-gray-600 text-sm mb-4">
+                  Not sure which city to visit? Compare weather, budget, attractions, and more.
+                </p>
+                <Link
+                  href={`/compare/${comparisonSlug}/`}
+                  className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-2.5 rounded-xl font-semibold hover:bg-blue-700 transition-colors text-sm"
+                >
+                  Compare {fromCity.name.en} & {toCity.name.en} →
+                </Link>
+              </section>
+            )}
 
             {/* Related Routes */}
             <section className="bg-white rounded-2xl shadow-md p-6">
@@ -692,12 +691,30 @@ export const getStaticProps: GetStaticProps<RoutePageProps> = async ({ params })
 
   const transportOptions = generateTransportOptions(route);
 
+  // Check if a comparison page exists for these two cities
+  const comparisonsDir = path.join(process.cwd(), 'data', 'comparisons');
+  const slug1 = `${route.from}-vs-${route.to}`;
+  const slug2 = `${route.to}-vs-${route.from}`;
+  let comparisonSlug: string | null = null;
+
+  for (const subdir of ['city', 'island']) {
+    if (fs.existsSync(path.join(comparisonsDir, subdir, `${slug1}.json`))) {
+      comparisonSlug = slug1;
+      break;
+    }
+    if (fs.existsSync(path.join(comparisonsDir, subdir, `${slug2}.json`))) {
+      comparisonSlug = slug2;
+      break;
+    }
+  }
+
   return {
     props: {
       route,
       fromCity,
       toCity,
-      transportOptions
+      transportOptions,
+      comparisonSlug
     },
     revalidate: 86400
   };

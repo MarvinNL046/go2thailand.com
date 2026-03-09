@@ -1,7 +1,10 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
+import fs from 'fs';
+import path from 'path';
 import { getEnhancedDishBySlug, getDishStaticPaths, generateDishMetadata, getRelatedDishes, generateFoodBreadcrumbs } from '../../lib/food';
 import SEOHead from '../../components/SEOHead';
+import FoodCityLinks from '../../components/FoodCityLinks';
 
 interface EnhancedDish {
   id: number;
@@ -66,12 +69,19 @@ interface EnhancedDish {
   ai_generated?: boolean;
 }
 
+interface CityLink {
+  slug: string;
+  name: string;
+  region: string;
+}
+
 interface DishPageProps {
   dish: EnhancedDish;
   relatedDishes: EnhancedDish[];
+  citiesForDish: CityLink[];
 }
 
-export default function DishPage({ dish, relatedDishes }: DishPageProps) {
+export default function DishPage({ dish, relatedDishes, citiesForDish }: DishPageProps) {
   if (!dish) return <div>Dish not found</div>;
 
   const metadata = generateDishMetadata(dish);
@@ -511,6 +521,15 @@ export default function DishPage({ dish, relatedDishes }: DishPageProps) {
           </section>
         )}
 
+        {/* Where to Try This Dish */}
+        {citiesForDish.length > 0 && (
+          <section className="bg-surface-cream section-padding">
+            <div className="container-custom">
+              <FoodCityLinks dishName={dish.name.en} cities={citiesForDish} />
+            </div>
+          </section>
+        )}
+
         {/* Affiliate: Book a Thai Cooking Class */}
         <section className="bg-white section-padding">
           <div className="container-custom">
@@ -591,10 +610,40 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
   const relatedDishes = getRelatedDishes(dish, 4);
 
+  // Find cities where this dish is mentioned in foodie_adventures
+  const citiesForDish: CityLink[] = [];
+  const enhancedDir = path.join(process.cwd(), 'data', 'enhanced');
+  const dishNameLower = dish.name.en.toLowerCase();
+
+  try {
+    const files = fs.readdirSync(enhancedDir).filter(f => f.endsWith('.json') && !['drinks', 'food', 'attractions'].includes(f.replace('.json', '')));
+    for (const file of files) {
+      try {
+        const cityData = JSON.parse(fs.readFileSync(path.join(enhancedDir, file), 'utf8'));
+        if (!cityData.name || !cityData.slug) continue;
+
+        // Check foodie_adventures for dish mentions
+        const foodieAdventures = cityData.foodie_adventures || [];
+        const hasDish = foodieAdventures.some((fa: { dish?: string }) =>
+          fa.dish && fa.dish.toLowerCase().includes(dishNameLower)
+        );
+
+        if (hasDish) {
+          citiesForDish.push({
+            slug: cityData.slug,
+            name: typeof cityData.name === 'object' ? cityData.name.en : cityData.name,
+            region: cityData.region || '',
+          });
+        }
+      } catch { /* skip unreadable files */ }
+    }
+  } catch { /* enhanced dir not found */ }
+
   return {
     props: {
       dish,
-      relatedDishes
+      relatedDishes,
+      citiesForDish: citiesForDish.slice(0, 6),
     },
     revalidate: 86400
   };

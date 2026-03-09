@@ -6,6 +6,7 @@ import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadc
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
+import CityExploreMore from '../../../components/CityExploreMore';
 import foodData from '../../../data/enhanced/food/index.json';
 import foodSpecialtiesData from '../../../data/cities/food-specialties.json';
 
@@ -482,6 +483,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                   </div>
                 </Link>
               </div>
+            <CityExploreMore citySlug={city.slug} cityName={city.name.en} currentPage="food" />
             </div>
           </div>
         </section>

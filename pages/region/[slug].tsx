@@ -6,6 +6,8 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import CityCard from '../../components/CityCard';
 import { getAllCities, toAbsoluteImageUrl } from '../../lib/cities';
 import { useScrollAnimation } from '../../hooks/useScrollAnimation';
+const { getAllDishes } = require('../../lib/food');
+const { getAllItineraries } = require('../../lib/itineraries');
 
 interface Region {
   id: number;
@@ -81,12 +83,43 @@ interface City {
   highlights: string[];
 }
 
+interface RegionalDish {
+  slug: string;
+  name: { en: string; nl: string };
+  category: string;
+  image: string;
+}
+
+interface RegionalItinerary {
+  slug: string;
+  title: { en: string; nl: string };
+  duration: string;
+  image: string;
+}
+
+interface RegionalComparison {
+  slug: string;
+  name1: string;
+  name2: string;
+}
+
+interface RegionalTransportRoute {
+  slug: string;
+  from: string;
+  to: string;
+  distance: string;
+}
+
 interface RegionPageProps {
   region: Region;
   cities: City[];
+  regionalDishes: RegionalDish[];
+  regionalItineraries: RegionalItinerary[];
+  regionalComparisons: RegionalComparison[];
+  regionalTransportRoutes: RegionalTransportRoute[];
 }
 
-export default function RegionPage({ region, cities }: RegionPageProps) {
+export default function RegionPage({ region, cities, regionalDishes, regionalItineraries, regionalComparisons, regionalTransportRoutes }: RegionPageProps) {
   const contentAnim = useScrollAnimation(0.05);
   const tipsAnim = useScrollAnimation(0.1);
   const planAnim = useScrollAnimation(0.1);
@@ -344,6 +377,116 @@ export default function RegionPage({ region, cities }: RegionPageProps) {
                     ))}
                   </div>
                 </div>
+
+                {/* Regional Food */}
+                {regionalDishes.length > 0 && (
+                  <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
+                    <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
+                      Regional Cuisine of {region.name.en}
+                    </h2>
+                    <p className="text-gray-600 mb-6">
+                      Discover the signature dishes that make {region.name.en} a culinary destination.
+                    </p>
+                    <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+                      {regionalDishes.map((dish) => (
+                        <Link key={dish.slug} href={`/food/${dish.slug}/`} className="group">
+                          <div className="bg-white rounded-2xl shadow-sm overflow-hidden hover:shadow-md transition-shadow">
+                            <div className="relative h-32">
+                              <Image src={dish.image} alt={dish.name.en} fill className="object-cover group-hover:scale-105 transition-transform" />
+                            </div>
+                            <div className="p-3">
+                              <h3 className="font-semibold text-sm text-gray-900 group-hover:text-thailand-blue transition-colors">{dish.name.en}</h3>
+                              <span className="text-xs text-gray-500 capitalize">{dish.category.replace('-', ' ')}</span>
+                            </div>
+                          </div>
+                        </Link>
+                      ))}
+                    </div>
+                    <div className="mt-4 text-center">
+                      <Link href="/food/" className="text-thailand-blue font-medium hover:underline text-sm">
+                        Browse all Thai dishes &rarr;
+                      </Link>
+                    </div>
+                  </div>
+                )}
+
+                {/* Regional Itineraries */}
+                {regionalItineraries.length > 0 && (
+                  <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
+                    <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
+                      Itineraries for {region.name.en}
+                    </h2>
+                    <div className="space-y-4">
+                      {regionalItineraries.map((it) => (
+                        <Link key={it.slug} href={`/itineraries/${it.slug}/`} className="block group">
+                          <div className="bg-white rounded-2xl shadow-sm p-5 hover:shadow-md transition-shadow flex items-center gap-4">
+                            <div className="relative w-20 h-20 rounded-xl overflow-hidden flex-shrink-0">
+                              <Image src={it.image} alt={it.title.en} fill className="object-cover" />
+                            </div>
+                            <div className="flex-1 min-w-0">
+                              <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors truncate">{it.title.en}</h3>
+                              <span className="text-sm text-gray-500">{it.duration}</span>
+                            </div>
+                            <svg className="w-5 h-5 text-gray-400 group-hover:text-thailand-blue flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                            </svg>
+                          </div>
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {/* Compare Cities in Region */}
+                {regionalComparisons.length > 0 && (
+                  <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
+                    <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
+                      Compare Cities in {region.name.en}
+                    </h2>
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                      {regionalComparisons.map((comp) => (
+                        <Link key={comp.slug} href={`/compare/${comp.slug}/`} className="group">
+                          <div className="bg-white rounded-2xl shadow-sm p-4 hover:shadow-md transition-shadow flex items-center justify-between">
+                            <span className="font-medium text-gray-800 group-hover:text-thailand-blue transition-colors text-sm">
+                              {comp.name1} vs {comp.name2}
+                            </span>
+                            <svg className="w-4 h-4 text-gray-400 group-hover:text-thailand-blue" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                            </svg>
+                          </div>
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {/* Transport Routes in Region */}
+                {regionalTransportRoutes.length > 0 && (
+                  <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
+                    <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
+                      Getting Around {region.name.en}
+                    </h2>
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                      {regionalTransportRoutes.map((route) => (
+                        <Link key={route.slug} href={`/transport/${route.slug}/`} className="group">
+                          <div className="bg-white rounded-xl shadow-sm p-3 hover:shadow-md transition-shadow flex items-center gap-3">
+                            <div className="w-8 h-8 bg-green-100 rounded-lg flex items-center justify-center flex-shrink-0">
+                              <svg className="w-4 h-4 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                              </svg>
+                            </div>
+                            <div className="flex-1 min-w-0">
+                              <span className="text-sm font-medium text-gray-800 group-hover:text-thailand-blue transition-colors">
+                                {route.from} &rarr; {route.to}
+                              </span>
+                              <span className="text-xs text-gray-500 ml-2">{route.distance}</span>
+                            </div>
+                          </div>
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                )}
 
                 {/* Regional Travel Guide */}
                 <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
@@ -851,11 +994,82 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   };
   const regionName = regionMap[slug] || slug;
   const cities = allCities.filter((city: any) => city.region === regionName);
+  const citySlugs = new Set(cities.map((c: any) => c.slug));
+
+  // Regional food dishes
+  const foodRegionMap: Record<string, string[]> = {
+    northern: ['northern'],
+    central: ['central'],
+    southern: ['southern'],
+    isaan: ['isaan', 'northeastern', 'northeast'],
+  };
+  const foodRegions = foodRegionMap[slug] || [slug];
+  const allDishes = getAllDishes();
+  const regionalDishes = allDishes
+    .filter((d: any) => foodRegions.includes((d.region || '').toLowerCase()))
+    .slice(0, 9)
+    .map((d: any) => ({
+      slug: d.slug,
+      name: d.name,
+      category: d.category || '',
+      image: d.image || '/images/food/default.webp',
+    }));
+
+  // Regional itineraries
+  const allItineraries = getAllItineraries();
+  const regionalItineraries = allItineraries
+    .filter((it: any) => {
+      const itRegion = (it.region || '').toLowerCase();
+      return itRegion === slug || itRegion === regionName.toLowerCase();
+    })
+    .slice(0, 4)
+    .map((it: any) => ({
+      slug: it.slug,
+      title: it.title,
+      duration: it.duration || '',
+      image: it.image || '/images/itineraries/default.webp',
+    }));
+
+  // Regional comparisons (between cities in this region)
+  const regionalComparisons: Array<{ slug: string; name1: string; name2: string }> = [];
+  const cityArr = cities.map((c: any) => ({ slug: c.slug, name: typeof c.name === 'object' ? c.name.en : c.name }));
+  for (let i = 0; i < cityArr.length; i++) {
+    for (let j = i + 1; j < cityArr.length; j++) {
+      const compSlug = `${cityArr[i].slug}-vs-${cityArr[j].slug}`;
+      const compPath = path.join(process.cwd(), 'data', 'comparisons', 'city', `${compSlug}.json`);
+      if (fs.existsSync(compPath)) {
+        regionalComparisons.push({ slug: compSlug, name1: cityArr[i].name, name2: cityArr[j].name });
+      }
+      // Also check reverse
+      const reverseSlug = `${cityArr[j].slug}-vs-${cityArr[i].slug}`;
+      const reversePath = path.join(process.cwd(), 'data', 'comparisons', 'city', `${reverseSlug}.json`);
+      if (fs.existsSync(reversePath)) {
+        regionalComparisons.push({ slug: reverseSlug, name1: cityArr[j].name, name2: cityArr[i].name });
+      }
+    }
+  }
+
+  // Regional transport routes (between cities in this region)
+  const transportData = fs.readFileSync(path.join(process.cwd(), 'data', 'transport-routes.json'), 'utf8');
+  const transportRoutes = JSON.parse(transportData);
+  const regionalTransportRoutes = (transportRoutes.routes || [])
+    .filter((r: any) => citySlugs.has(r.from) && citySlugs.has(r.to))
+    .slice(0, 10)
+    .map((r: any) => ({
+      slug: r.slug,
+      from: r.fromName || r.from.split('-').map((w: string) => w[0].toUpperCase() + w.slice(1)).join(' '),
+      to: r.toName || r.to.split('-').map((w: string) => w[0].toUpperCase() + w.slice(1)).join(' '),
+      distance: r.distance || '',
+    }));
 
   return {
     props: {
       region,
       cities,
+      regionalDishes,
+      regionalItineraries,
+      regionalComparisons,
+      regionalTransportRoutes,
     },
     revalidate: 86400,
   };

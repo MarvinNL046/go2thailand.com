@@ -4,6 +4,7 @@ import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadc
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
+import CityExploreMore from '../../../components/CityExploreMore';
 import transportRoutes from '../../../data/transport-routes.json';
 
 interface PracticalInfo {
@@ -558,6 +559,8 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                   </Link>
                 </div>
               </div>
+
+              <CityExploreMore citySlug={city.slug} cityName={cityName} currentPage="best-time-to-visit" />
 
             </div>
           </div>

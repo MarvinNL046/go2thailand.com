@@ -7,6 +7,7 @@ import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import AffiliateBox from '../../../components/AffiliateBox';
+import CityExploreMore from '../../../components/CityExploreMore';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface CookingClass {
@@ -375,6 +376,7 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
                   </div>
                 </Link>
               </div>
+            <CityExploreMore citySlug={city.slug} cityName={city.name.en} currentPage="cooking-classes" />
             </div>
           </div>
         </section>

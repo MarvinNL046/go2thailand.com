@@ -4,6 +4,7 @@ import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../..
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
+import CityExploreMore from '../../../components/CityExploreMore';
 import fs from 'fs';
 import path from 'path';
 
@@ -422,6 +423,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
           </div>
         </section>
 
+        <CityExploreMore citySlug={city.slug} cityName={city.name.en} currentPage="top-10-restaurants" />
       </div>
     </>
   );
@@ -435,7 +437,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   const slug = params?.slug as string;
   const city = getCityBySlug(slug);
-  
+
   if (!city) return { notFound: true };
 
   // Try to load top 10 restaurants data

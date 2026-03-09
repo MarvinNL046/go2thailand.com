@@ -7,6 +7,7 @@ import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import AffiliateBox from '../../../components/AffiliateBox';
+import CityExploreMore from '../../../components/CityExploreMore';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface Sanctuary {
@@ -333,6 +334,7 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
                   </div>
                 </Link>
               </div>
+            <CityExploreMore citySlug={city.slug} cityName={city.name.en} currentPage="elephant-sanctuaries" />
             </div>
           </div>
         </section>

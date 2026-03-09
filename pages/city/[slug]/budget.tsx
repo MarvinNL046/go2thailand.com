@@ -4,6 +4,7 @@ import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadc
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
+import CityExploreMore from '../../../components/CityExploreMore';
 
 interface BudgetTier {
   min: number;
@@ -434,6 +435,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                   </div>
                 </Link>
               </div>
+            <CityExploreMore citySlug={city.slug} cityName={city.name.en} currentPage="budget" />
             </div>
           </div>
         </section>

@@ -4,6 +4,7 @@ import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadc
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
+import CityExploreMore from '../../../components/CityExploreMore';
 import hotelAreasData from '../../../data/cities/hotel-areas.json';
 import fs from 'fs';
 import path from 'path';
@@ -395,6 +396,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                   </div>
                 </Link>
               </div>
+            <CityExploreMore citySlug={city.slug} cityName={city.name.en} currentPage="hotels" />
             </div>
           </div>
         </section>
@@ -412,7 +414,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const slug = params?.slug as string;
   const city = getCityBySlug(slug);
   if (!city) return { notFound: true };
-  
+
   // Get hotel data for the city
   const hotelData = (hotelAreasData as Record<string, CityHotelData>)[slug] || null;
   

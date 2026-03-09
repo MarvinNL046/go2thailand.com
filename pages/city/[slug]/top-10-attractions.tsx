@@ -6,6 +6,7 @@ import SEOHead from '../../../components/SEOHead';
 import fs from 'fs';
 import path from 'path';
 import AffiliateBox from '../../../components/AffiliateBox';
+import CityExploreMore from '../../../components/CityExploreMore';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface City {
@@ -404,6 +405,7 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
           </div>
         </section>
 
+        <CityExploreMore citySlug={city.slug} cityName={city.name.en} currentPage="top-10-attractions" />
       </div>
     </>
   );
@@ -417,7 +419,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   const slug = params?.slug as string;
   const city = getCityBySlug(slug);
-  
+
   if (!city) return { notFound: true };
 
   // Try to load top 10 attractions data

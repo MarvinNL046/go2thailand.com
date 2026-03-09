@@ -6,6 +6,7 @@ import { getMuayThaiByCity, getAllMuayThaiCities } from '../../../lib/muay-thai'
 import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
+import CityExploreMore from '../../../components/CityExploreMore';
 
 interface MuayThaiActivity {
   name: string;
@@ -557,6 +558,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                   </div>
                 </Link>
               </div>
+            <CityExploreMore citySlug={city.slug} cityName={city.name.en} currentPage="muay-thai" />
             </div>
           </div>
         </section>
