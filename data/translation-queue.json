@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 124
+    "completed": 125
   },
   "queue": [
     {
@@ -1001,9 +1001,10 @@
     {
       "type": "city",
       "file": "data/enhanced/nong-khai.json",
-      "status": "pending",
+      "status": "completed",
       "priority": 3,
-      "locale": "nl"
+      "locale": "nl",
+      "completedAt": "2026-03-10"
     },
     {
       "type": "city",
