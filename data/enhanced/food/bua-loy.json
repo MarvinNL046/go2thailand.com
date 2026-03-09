@@ -172,5 +172,105 @@
       "market_stall": "40-60 THB",
       "restaurant": "60-100 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Bua Loy is een geliefd heerlijk zoet gerecht uit Zuid-Thailand dat mild is voor het gehemelte. Rijstmeelballetjes in zoete kokosmelk. Dit eenvoudige recept vergt ongeveer 30 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken met intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van rijstmeel, kokosmelk en palmsuiker creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Rijstmeel",
+          "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+          "substitutes": [
+            "Vers rijstmeel",
+            "Gedroogd rijstmeel",
+            "Rijstmeelpasta"
+          ]
+        },
+        {
+          "name": "Kokosmelk",
+          "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+          "substitutes": [
+            "Verse kokosmelk",
+            "Kokosmelkpoeder",
+            "Kokoscrème"
+          ]
+        },
+        {
+          "name": "Palmsuiker",
+          "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        },
+        {
+          "name": "Zout",
+          "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+          "substitutes": [
+            "Zeezout",
+            "Fijn zout",
+            "Himalayazout"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionele bereiding",
+        "steps_overview": "Het bereiden van Bua Loy vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers rijstmeel voor het beste resultaat",
+          "Pas de zoetheid aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Bua Loy is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Bua Loy Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Bua Loy Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Bua Loy",
+          "description": "Plantaardige versie, al van nature vegetarisch"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Warm geserveerd",
+          "Verse kokosmelk",
+          "Pandanblad als garnering"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met een lepel als warm dessert volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }
