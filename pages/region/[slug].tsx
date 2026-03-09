@@ -6,8 +6,22 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import CityCard from '../../components/CityCard';
 import { getAllCities, toAbsoluteImageUrl } from '../../lib/cities';
 import { useScrollAnimation } from '../../hooks/useScrollAnimation';
+import { useRouter } from 'next/router';
 const { getAllDishes } = require('../../lib/food');
 const { getAllItineraries } = require('../../lib/itineraries');
+
+// Helper to resolve bilingual fields — supports both string and {en, nl} formats
+function t(field: any, locale: string): string {
+  if (!field) return '';
+  if (typeof field === 'string') return field;
+  return field[locale] || field.en || '';
+}
+function tArr(field: any, locale: string): string[] {
+  if (!field) return [];
+  if (Array.isArray(field)) return field;
+  const val = field[locale] || field.en;
+  return Array.isArray(val) ? val : [];
+}
 
 interface Region {
   id: number;
@@ -20,21 +34,21 @@ interface Region {
     en: string;
     nl: string;
   };
-  highlights: string[];
+  highlights: string[] | { en: string[]; nl: string[] };
   cities: string[];
-  climate: string;
-  bestTimeToVisit: string;
+  climate: string | { en: string; nl: string };
+  bestTimeToVisit: string | { en: string; nl: string };
   image: string;
-  geography?: string;
-  culture?: string;
-  cuisine?: string;
-  transportation?: string;
-  budgetInfo?: string;
-  topActivities?: string[];
-  hiddenGems?: string[];
-  localFestivals?: string[];
-  travelTips?: string[];
-  whatToPack?: string[];
+  geography?: string | { en: string; nl: string };
+  culture?: string | { en: string; nl: string };
+  cuisine?: string | { en: string; nl: string };
+  transportation?: string | { en: string; nl: string };
+  budgetInfo?: string | { en: string; nl: string };
+  topActivities?: string[] | { en: string[]; nl: string[] };
+  hiddenGems?: string[] | { en: string[]; nl: string[] };
+  localFestivals?: string[] | { en: string[]; nl: string[] };
+  travelTips?: string[] | { en: string[]; nl: string[] };
+  whatToPack?: string[] | { en: string[]; nl: string[] };
   statistics?: {
     area?: string;
     population?: string;
@@ -120,6 +134,8 @@ interface RegionPageProps {
 }
 
 export default function RegionPage({ region, cities, regionalDishes, regionalItineraries, regionalComparisons, regionalTransportRoutes }: RegionPageProps) {
+  const { locale } = useRouter();
+  const lang = locale || 'en';
   const contentAnim = useScrollAnimation(0.05);
   const tipsAnim = useScrollAnimation(0.1);
   const planAnim = useScrollAnimation(0.1);
@@ -168,7 +184,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                     {cities.length} Cities
                   </span>
                   <span className="text-gray-200 text-sm">
-                    Best time: {region.bestTimeToVisit}
+                    Best time: {t(region.bestTimeToVisit, lang)}
                   </span>
                 </div>
                 <span className="font-script text-thailand-red text-lg">Explore the region</span>
@@ -212,7 +228,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                       <div>
                         <h4 className="font-semibold font-heading text-gray-900 mb-2">Best Time</h4>
                         <p className="text-lg font-medium text-thailand-blue">
-                          {region.bestTimeToVisit}
+                          {t(region.bestTimeToVisit, lang)}
                         </p>
                       </div>
                     </div>
@@ -236,7 +252,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                             </div>
                             <h3 className="text-xl font-semibold font-heading text-gray-900">Geography</h3>
                           </div>
-                          <p className="text-gray-700 leading-relaxed">{region.geography}</p>
+                          <p className="text-gray-700 leading-relaxed">{t(region.geography, lang)}</p>
                         </div>
                       )}
 
@@ -250,7 +266,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                             </div>
                             <h3 className="text-xl font-semibold font-heading text-gray-900">Culture</h3>
                           </div>
-                          <p className="text-gray-700 leading-relaxed">{region.culture}</p>
+                          <p className="text-gray-700 leading-relaxed">{t(region.culture, lang)}</p>
                         </div>
                       )}
                     </div>
@@ -274,7 +290,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                             </div>
                             <h3 className="text-xl font-semibold font-heading text-gray-900">Local Cuisine</h3>
                           </div>
-                          <p className="text-gray-700 leading-relaxed">{region.cuisine}</p>
+                          <p className="text-gray-700 leading-relaxed">{t(region.cuisine, lang)}</p>
                         </div>
                       )}
 
@@ -288,7 +304,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                             </div>
                             <h3 className="text-xl font-semibold font-heading text-gray-900">Transportation</h3>
                           </div>
-                          <p className="text-gray-700 leading-relaxed">{region.transportation}</p>
+                          <p className="text-gray-700 leading-relaxed">{t(region.transportation, lang)}</p>
                         </div>
                       )}
                     </div>
@@ -296,13 +312,13 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 )}
 
                 {/* Top Activities */}
-                {region.topActivities && region.topActivities.length > 0 && (
+                {tArr(region.topActivities, lang).length > 0 && (
                   <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
                       Top Activities
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                      {region.topActivities.map((activity, index) => (
+                      {tArr(region.topActivities, lang).map((activity, index) => (
                         <div key={index} className="bg-white rounded-2xl shadow-sm p-6 hover:shadow-md transition-shadow">
                           <div className="flex items-center">
                             <div className="flex-shrink-0 w-10 h-10 bg-green-500 rounded-xl flex items-center justify-center mr-4">
@@ -319,13 +335,13 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 )}
 
                 {/* Hidden Gems */}
-                {region.hiddenGems && region.hiddenGems.length > 0 && (
+                {tArr(region.hiddenGems, lang).length > 0 && (
                   <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
                       Hidden Gems
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                      {region.hiddenGems.map((gem, index) => (
+                      {tArr(region.hiddenGems, lang).map((gem, index) => (
                         <div key={index} className="bg-white rounded-2xl shadow-sm p-6 hover:shadow-md transition-shadow">
                           <div className="flex items-center">
                             <div className="flex-shrink-0 w-10 h-10 bg-purple-500 rounded-xl flex items-center justify-center mr-4">
@@ -347,7 +363,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                     Regional Highlights
                   </h2>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    {region.highlights.map((highlight, index) => (
+                    {tArr(region.highlights, lang).map((highlight, index) => (
                       <div key={index} className="bg-white rounded-2xl shadow-sm p-6 hover:shadow-md transition-shadow">
                         <div className="flex items-center">
                           <div className="flex-shrink-0 w-10 h-10 bg-blue-500 rounded-xl flex items-center justify-center mr-4">
@@ -602,7 +618,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                     </div>
                     <div className="flex justify-between">
                       <span className="text-gray-600">Best Time:</span>
-                      <span className="font-medium">{region.bestTimeToVisit}</span>
+                      <span className="font-medium">{t(region.bestTimeToVisit, lang)}</span>
                     </div>
                     {region.statistics && (
                       <>
@@ -652,12 +668,12 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                       </div>
                       <h3 className="text-xl font-bold font-heading text-gray-900">Budget Guide</h3>
                     </div>
-                    <p className="text-gray-700 text-sm leading-relaxed">{region.budgetInfo}</p>
+                    <p className="text-gray-700 text-sm leading-relaxed">{t(region.budgetInfo, lang)}</p>
                   </div>
                 )}
 
                 {/* Local Festivals */}
-                {region.localFestivals && region.localFestivals.length > 0 && (
+                {tArr(region.localFestivals, lang).length > 0 && (
                   <div className="bg-white rounded-2xl border-0 shadow-md p-6 mb-8">
                     <div className="flex items-center mb-4">
                       <div className="w-8 h-8 bg-orange-500 rounded-xl flex items-center justify-center mr-3">
@@ -668,7 +684,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                       <h3 className="text-xl font-bold font-heading text-gray-900">Local Festivals</h3>
                     </div>
                     <div className="space-y-2">
-                      {region.localFestivals.map((festival, index) => (
+                      {tArr(region.localFestivals, lang).map((festival, index) => (
                         <div key={index} className="flex items-center text-sm">
                           <div className="w-2 h-2 bg-orange-400 rounded-full mr-3 flex-shrink-0"></div>
                           <span className="text-gray-700">{festival}</span>
@@ -679,7 +695,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 )}
 
                 {/* Travel Tips */}
-                {region.travelTips && region.travelTips.length > 0 && (
+                {tArr(region.travelTips, lang).length > 0 && (
                   <div className="bg-white rounded-2xl border-0 shadow-md p-6 mb-8">
                     <div className="flex items-center mb-4">
                       <div className="w-8 h-8 bg-blue-500 rounded-xl flex items-center justify-center mr-3">
@@ -690,7 +706,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                       <h3 className="text-xl font-bold font-heading text-gray-900">Pro Tips</h3>
                     </div>
                     <div className="space-y-3">
-                      {region.travelTips.slice(0, 3).map((tip, index) => (
+                      {tArr(region.travelTips, lang).slice(0, 3).map((tip, index) => (
                         <div key={index} className="flex items-start">
                           <div className="w-4 h-4 bg-blue-400 rounded-full mr-3 flex-shrink-0 mt-0.5"></div>
                           <span className="text-gray-700 text-sm leading-relaxed">{tip}</span>
@@ -701,7 +717,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 )}
 
                 {/* What to Pack */}
-                {region.whatToPack && region.whatToPack.length > 0 && (
+                {tArr(region.whatToPack, lang).length > 0 && (
                   <div className="bg-white rounded-2xl border-0 shadow-md p-6 mb-8">
                     <div className="flex items-center mb-4">
                       <div className="w-8 h-8 bg-purple-500 rounded-xl flex items-center justify-center mr-3">
@@ -712,7 +728,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                       <h3 className="text-xl font-bold font-heading text-gray-900">Packing List</h3>
                     </div>
                     <div className="grid grid-cols-1 gap-1">
-                      {region.whatToPack.slice(0, 6).map((item, index) => (
+                      {tArr(region.whatToPack, lang).slice(0, 6).map((item, index) => (
                         <div key={index} className="flex items-center text-sm">
                           <div className="w-1.5 h-1.5 bg-purple-400 rounded-full mr-2 flex-shrink-0"></div>
                           <span className="text-gray-600">{item}</span>
@@ -727,7 +743,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 <div className="bg-white rounded-2xl border-0 shadow-md p-6 mb-8">
                   <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Regional Specialties</h3>
                   <div className="space-y-3">
-                    {region.highlights.slice(0, 4).map((highlight, index) => (
+                    {tArr(region.highlights, lang).slice(0, 4).map((highlight, index) => (
                       <div key={index} className="flex items-center">
                         <div className="w-2 h-2 bg-thailand-blue rounded-full mr-3 flex-shrink-0"></div>
                         <span className="text-gray-700 text-sm">{highlight}</span>
@@ -776,7 +792,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 </div>
                 <h3 className="text-xl font-semibold font-heading text-gray-900 mb-3">When to Visit</h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  {region.bestTimeToVisit} offers the best weather conditions for exploring {region.name.en}.
+                  {t(region.bestTimeToVisit, lang)} offers the best weather conditions for exploring {region.name.en}.
                   Plan accordingly for the most comfortable experience.
                 </p>
               </div>

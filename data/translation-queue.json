@@ -4,32 +4,36 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 188,
-    "completed": 0
+    "completed": 4
   },
   "queue": [
     {
       "type": "region",
       "file": "data/regions/northern.json",
-      "status": "pending",
-      "priority": 1
+      "status": "completed",
+      "priority": 1,
+      "completedAt": "2026-03-09"
     },
     {
       "type": "region",
       "file": "data/regions/central.json",
-      "status": "pending",
-      "priority": 1
+      "status": "completed",
+      "priority": 1,
+      "completedAt": "2026-03-09"
     },
     {
       "type": "region",
       "file": "data/regions/southern.json",
-      "status": "pending",
-      "priority": 1
+      "status": "completed",
+      "priority": 1,
+      "completedAt": "2026-03-09"
     },
     {
       "type": "region",
       "file": "data/regions/isaan.json",
-      "status": "pending",
-      "priority": 1
+      "status": "completed",
+      "priority": 1,
+      "completedAt": "2026-03-09"
     },
     {
       "type": "top10",

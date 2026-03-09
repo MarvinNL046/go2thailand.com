@@ -9,13 +9,10 @@
     "en": "The heart of Thailand with bustling Bangkok, historic Ayutthaya, and easy access to beaches.",
     "nl": "Het hart van Thailand met het bruisende Bangkok, historisch Ayutthaya en gemakkelijke toegang tot stranden."
   },
-  "highlights": [
-    "Capital city Bangkok",
-    "Historic sites",
-    "Easy transportation",
-    "Cultural attractions",
-    "Mix of urban and historic"
-  ],
+  "highlights": {
+    "en": ["Capital city Bangkok", "Historic sites", "Easy transportation", "Cultural attractions", "Mix of urban and historic"],
+    "nl": ["Hoofdstad Bangkok", "Historische plekken", "Uitstekend vervoer", "Culturele attracties", "Mix van stedelijk en historisch"]
+  },
   "cities": [
     "Bangkok",
     "Ayutthaya",
@@ -28,29 +25,55 @@
     "Rayong",
     "Chanthaburi"
   ],
-  "climate": "Hot (Mar-May), Rainy (Jun-Oct), Cool and dry (Nov-Feb)",
-  "bestTimeToVisit": "November to February",
+  "climate": {
+    "en": "Hot (Mar-May), Rainy (Jun-Oct), Cool and dry (Nov-Feb)",
+    "nl": "Heet (mrt-mei), regenseizoen (jun-okt), koel en droog (nov-feb)"
+  },
+  "bestTimeToVisit": {
+    "en": "November to February",
+    "nl": "November tot februari"
+  },
   "image": "/images/regions/central-thailand.webp",
-  "geography": "Flat river delta plains along the Chao Phraya River. Urban sprawl around Bangkok with historic sites and floating markets.",
-  "culture": "Mix of traditional Thai culture and modern cosmopolitan lifestyle. Royal heritage and Buddhist temples alongside skyscrapers.",
-  "cuisine": "Pad Thai, Tom Yum, Green Curry, Mango Sticky Rice. Street food capital with diverse international cuisine in Bangkok.",
-  "transportation": "Excellent BTS/MRT in Bangkok. Trains to Ayutthaya. Buses and taxis widely available. Don Mueang and Suvarnabhumi airports.",
-  "budgetInfo": "Budget: $30-50/day. Mid-range: $50-100/day. Luxury: $100+/day. Bangkok more expensive than other regions.",
-  "topActivities": [
-    "Grand Palace visits, floating markets, temple tours, street food tours, shopping, river cruises, day trips to Ayutthaya"
-  ],
-  "hiddenGems": [
-    "Amphawa floating market, Bang Krachao green lung, Train Market Maeklong, Wat Paknam glass chedi, Khlong Lat Mayom"
-  ],
-  "localFestivals": [
-    "Songkran (April), Loi Krathong (November), Chinese New Year (Jan/Feb), Royal ceremonies, Golden Mount Fair"
-  ],
-  "travelTips": [
-    "Use BTS/MRT to avoid traffic. Negotiate taxi fares. Stay hydrated. Dress modestly for temples. Beware of scams."
-  ],
-  "whatToPack": [
-    "Light breathable clothing, comfortable walking shoes, rain jacket, modest temple attire, air pollution mask, hand sanitizer"
-  ],
+  "geography": {
+    "en": "Flat river delta plains along the Chao Phraya River. Urban sprawl around Bangkok with historic sites and floating markets.",
+    "nl": "Vlakke rivierdelta langs de Chao Phraya-rivier. Stedelijke uitbreiding rond Bangkok met historische plekken en drijvende markten."
+  },
+  "culture": {
+    "en": "Mix of traditional Thai culture and modern cosmopolitan lifestyle. Royal heritage and Buddhist temples alongside skyscrapers.",
+    "nl": "Mix van traditionele Thaise cultuur en modern kosmopolitisch leven. Koninklijk erfgoed en boeddhistische tempels naast wolkenkrabbers."
+  },
+  "cuisine": {
+    "en": "Pad Thai, Tom Yum, Green Curry, Mango Sticky Rice. Street food capital with diverse international cuisine in Bangkok.",
+    "nl": "Pad Thai, Tom Yum, groene curry, Mango Sticky Rice. Street food-hoofdstad met diverse internationale keuken in Bangkok."
+  },
+  "transportation": {
+    "en": "Excellent BTS/MRT in Bangkok. Trains to Ayutthaya. Buses and taxis widely available. Don Mueang and Suvarnabhumi airports.",
+    "nl": "Uitstekend BTS/MRT in Bangkok. Treinen naar Ayutthaya. Bussen en taxi's ruim beschikbaar. Luchthavens Don Mueang en Suvarnabhumi."
+  },
+  "budgetInfo": {
+    "en": "Budget: $30-50/day. Mid-range: $50-100/day. Luxury: $100+/day. Bangkok more expensive than other regions.",
+    "nl": "Budget: $30-50/dag. Middenklasse: $50-100/dag. Luxe: $100+/dag. Bangkok is duurder dan andere regio's."
+  },
+  "topActivities": {
+    "en": ["Grand Palace visits, floating markets, temple tours, street food tours, shopping, river cruises, day trips to Ayutthaya"],
+    "nl": ["Grand Palace bezoeken, drijvende markten, tempeltours, street food tours, shoppen, riviercruises, dagtrips naar Ayutthaya"]
+  },
+  "hiddenGems": {
+    "en": ["Amphawa floating market, Bang Krachao green lung, Train Market Maeklong, Wat Paknam glass chedi, Khlong Lat Mayom"],
+    "nl": ["Amphawa drijvende markt, Bang Krachao groene long, Train Market Maeklong, Wat Paknam glazen chedi, Khlong Lat Mayom"]
+  },
+  "localFestivals": {
+    "en": ["Songkran (April), Loi Krathong (November), Chinese New Year (Jan/Feb), Royal ceremonies, Golden Mount Fair"],
+    "nl": ["Songkran (april), Loi Krathong (november), Chinees Nieuwjaar (jan/feb), koninklijke ceremonies, Golden Mount Fair"]
+  },
+  "travelTips": {
+    "en": ["Use BTS/MRT to avoid traffic. Negotiate taxi fares. Stay hydrated. Dress modestly for temples. Beware of scams."],
+    "nl": ["Gebruik BTS/MRT om files te vermijden. Onderhandel over taxitarieven. Blijf gehydrateerd. Kleed je bescheiden voor tempels. Pas op voor oplichting."]
+  },
+  "whatToPack": {
+    "en": ["Light breathable clothing, comfortable walking shoes, rain jacket, modest temple attire, air pollution mask, hand sanitizer"],
+    "nl": ["Lichte ademende kleding, comfortabele wandelschoenen, regenjas, bescheiden tempelkleding, mondkapje tegen luchtvervuiling, handgel"]
+  },
   "seo": {
     "metaTitle": {
       "en": "Central Thailand Travel Guide 2026 | Go2Thailand",

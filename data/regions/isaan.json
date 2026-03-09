@@ -9,14 +9,10 @@
     "en": "Authentic rural Thailand with unique Lao-influenced culture, spicy cuisine, and traditional festivals.",
     "nl": "Authentiek ruraal Thailand met unieke Lao-beïnvloede cultuur, pittig eten en traditionele festivals."
   },
-  "highlights": [
-    "Authentic culture",
-    "Spicy cuisine",
-    "Traditional festivals",
-    "Rural lifestyle",
-    "Silk weaving",
-    "Ancient Khmer ruins"
-  ],
+  "highlights": {
+    "en": ["Authentic culture", "Spicy cuisine", "Traditional festivals", "Rural lifestyle", "Silk weaving", "Ancient Khmer ruins"],
+    "nl": ["Authentieke cultuur", "Pittige keuken", "Traditionele festivals", "Landelijk leven", "Zijdeweverij", "Oude Khmer-ruïnes"]
+  },
   "cities": [
     "Khon Kaen",
     "Udon Thani",
@@ -28,51 +24,55 @@
     "Nakhon Phanom",
     "Mukdahan"
   ],
-  "climate": "Hot and dry (Nov-Feb), Very hot (Mar-May), Rainy (Jun-Oct)",
-  "bestTimeToVisit": "November to February",
+  "climate": {
+    "en": "Hot and dry (Nov-Feb), Very hot (Mar-May), Rainy (Jun-Oct)",
+    "nl": "Heet en droog (nov-feb), zeer heet (mrt-mei), regenseizoen (jun-okt)"
+  },
+  "bestTimeToVisit": {
+    "en": "November to February",
+    "nl": "November tot februari"
+  },
   "image": "/images/regions/isaan-thailand.webp",
-  "geography": "Elevated plateau averaging 200m above sea level. Borders Laos and Cambodia. Largest region covering one-third of Thailand.",
-  "culture": "Strong Lao influence with distinct language, music, and traditions. Known for warm hospitality and village community life.",
-  "cuisine": "Som tam papaya salad, larb meat salad, sticky rice, jeow dipping sauces, grilled fish. Spiciest and most flavorful Thai cuisine.",
-  "transportation": "Limited flights to major cities. Buses connect all provinces. Local songthaews and tuk-tuks. Motorbike rentals common.",
-  "budgetInfo": "Budget: $15-25/day. Mid-range: $25-50/day. Luxury: $50+/day. Cheapest region in Thailand for travelers.",
-  "topActivities": [
-    "Temple visits",
-    "Silk weaving villages",
-    "Traditional markets",
-    "Khmer ruins exploration",
-    "Festival participation",
-    "Countryside cycling"
-  ],
-  "hiddenGems": [
-    "Phanom Rung Historical Park",
-    "Prasat Hin Phimai",
-    "Pha Taem National Park",
-    "Ban Chiang archaeological site",
-    "Mukdahan riverside"
-  ],
-  "localFestivals": [
-    "Bun Bang Fai Rocket Festival (May)",
-    "Phi Ta Khon Ghost Festival (Jun)",
-    "Candle Festival (Jul)",
-    "Boat Racing (Oct)"
-  ],
-  "travelTips": [
-    "Learn basic Isaan phrases",
-    "Respect rural customs",
-    "Try local food markets",
-    "Stay hydrated in dry season",
-    "Bargain respectfully"
-  ],
-  "whatToPack": [
-    "Light cotton clothing",
-    "Hat for sun protection",
-    "Comfortable sandals",
-    "Hand sanitizer",
-    "Stomach medicine",
-    "Insect repellent",
-    "Cash"
-  ],
+  "geography": {
+    "en": "Elevated plateau averaging 200m above sea level. Borders Laos and Cambodia. Largest region covering one-third of Thailand.",
+    "nl": "Verhoogd plateau met een gemiddelde hoogte van 200 meter boven zeeniveau. Grenst aan Laos en Cambodja. Grootste regio, beslaat een derde van Thailand."
+  },
+  "culture": {
+    "en": "Strong Lao influence with distinct language, music, and traditions. Known for warm hospitality and village community life.",
+    "nl": "Sterke Laotiaanse invloed met eigen taal, muziek en tradities. Bekend om warme gastvrijheid en dorpsgemeenschapsleven."
+  },
+  "cuisine": {
+    "en": "Som tam papaya salad, larb meat salad, sticky rice, jeow dipping sauces, grilled fish. Spiciest and most flavorful Thai cuisine.",
+    "nl": "Som tam papajasalade, larb vleessalade, kleefrijst, jeow dipsauzen, gegrilde vis. De pittigste en meest smaakvolle Thaise keuken."
+  },
+  "transportation": {
+    "en": "Limited flights to major cities. Buses connect all provinces. Local songthaews and tuk-tuks. Motorbike rentals common.",
+    "nl": "Beperkte vluchten naar grote steden. Bussen verbinden alle provincies. Lokaal songthaews en tuk-tuks. Motorverhuur is gebruikelijk."
+  },
+  "budgetInfo": {
+    "en": "Budget: $15-25/day. Mid-range: $25-50/day. Luxury: $50+/day. Cheapest region in Thailand for travelers.",
+    "nl": "Budget: $15-25/dag. Middenklasse: $25-50/dag. Luxe: $50+/dag. Goedkoopste regio in Thailand voor reizigers."
+  },
+  "topActivities": {
+    "en": ["Temple visits, silk weaving villages, traditional markets, Khmer ruins exploration, festival participation, countryside cycling"],
+    "nl": ["Tempelbezoek, zijdeweverijdorpen, traditionele markten, Khmer-ruïnes verkennen, deelname aan festivals, fietsen over het platteland"]
+  },
+  "hiddenGems": {
+    "en": ["Phanom Rung Historical Park, Prasat Hin Phimai, Pha Taem National Park, Ban Chiang archaeological site, Mukdahan riverside"],
+    "nl": ["Phanom Rung Historical Park, Prasat Hin Phimai, Pha Taem National Park, Ban Chiang archeologische vindplaats, Mukdahan aan de rivier"]
+  },
+  "localFestivals": {
+    "en": ["Bun Bang Fai Rocket Festival (May), Phi Ta Khon Ghost Festival (Jun), Candle Festival (Jul), Boat Racing (Oct)"],
+    "nl": ["Bun Bang Fai Rakettenfestival (mei), Phi Ta Khon Spookjesfestival (jun), Kaarsfestival (jul), Botenraces (okt)"]
+  },
+  "travelTips": {
+    "en": ["Learn basic Isaan phrases. Respect rural customs. Try local food markets. Stay hydrated in dry season. Bargain respectfully."],
+    "nl": ["Leer basis Isaan-zinnen. Respecteer plattelandsgebruiken. Probeer lokale voedselmarkten. Blijf gehydrateerd in het droge seizoen. Onderhandel met respect."]
+  },
+  "whatToPack": {
+    "en": ["Light cotton clothing, hat for sun protection, comfortable sandals, hand sanitizer, stomach medicine, insect repellent, cash"],
+    "nl": ["Lichte katoenen kleding, hoed tegen de zon, comfortabele sandalen, handgel, maagmedicijnen, insectenspray, contant geld"]
+  },
   "seo": {
     "metaTitle": {
       "en": "Isaan (Northeast Thailand) Travel Guide 2026",

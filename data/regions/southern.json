@@ -9,13 +9,10 @@
     "en": "Tropical paradise with stunning beaches, islands, marine life, and vibrant nightlife.",
     "nl": "Tropisch paradijs met prachtige stranden, eilanden, zeeleven en bruisend nachtleven."
   },
-  "highlights": [
-    "Beautiful beaches",
-    "Island hopping",
-    "Marine activities",
-    "Tropical climate",
-    "Seafood cuisine"
-  ],
+  "highlights": {
+    "en": ["Beautiful beaches", "Island hopping", "Marine activities", "Tropical climate", "Seafood cuisine"],
+    "nl": ["Prachtige stranden", "Eilandhoppen", "Activiteiten op zee", "Tropisch klimaat", "Zeevruchtenkeuken"]
+  },
   "cities": [
     "Phuket",
     "Krabi",
@@ -26,29 +23,55 @@
     "Trang",
     "Chumphon"
   ],
-  "climate": "Hot and humid year-round, Dry (Dec-Apr), Rainy (May-Nov)",
-  "bestTimeToVisit": "December to April",
+  "climate": {
+    "en": "Hot and humid year-round, Dry (Dec-Apr), Rainy (May-Nov)",
+    "nl": "Heet en vochtig het hele jaar, droog (dec-apr), regenseizoen (mei-nov)"
+  },
+  "bestTimeToVisit": {
+    "en": "December to April",
+    "nl": "December tot april"
+  },
   "image": "/images/regions/southern-thailand.webp",
-  "geography": "Two coastlines: Andaman Sea (west) and Gulf of Thailand (east). Limestone karsts, pristine beaches, and tropical islands.",
-  "culture": "Relaxed beach culture mixed with Muslim influences in the south. Fishing communities and tourism-focused areas.",
-  "cuisine": "Fresh seafood, southern curries, coconut-based dishes, tropical fruits. Spicier than northern cuisine with Malay influences.",
-  "transportation": "Domestic flights to Phuket/Krabi/Surat Thani. Ferries to islands. Buses along coast. Longtail boats and speedboats.",
-  "budgetInfo": "Budget: $20-35/day. Mid-range: $35-70/day. Luxury: $70+/day. Island prices higher, especially Phuket.",
-  "topActivities": [
-    "Beach hopping, snorkeling, diving, island tours, rock climbing, sea kayaking, sunset cruises, beach parties"
-  ],
-  "hiddenGems": [
-    "Koh Lipe, Koh Tao diving, Railay Beach climbing, Khao Sok National Park, James Bond Island, Similan Islands"
-  ],
-  "localFestivals": [
-    "Full Moon Party (monthly), Songkran (April), Chak Phra Festival (Oct), Vegetarian Festival (Oct), Loi Krathong (Nov)"
-  ],
-  "travelTips": [
-    "Book island transport in advance. Respect marine life. Stay hydrated. Use reef-safe sunscreen. Check weather conditions."
-  ],
-  "whatToPack": [
-    "Swimwear, reef-safe sunscreen, water shoes, quick-dry clothes, rain jacket, snorkeling gear, light evening wear, mosquito spray"
-  ],
+  "geography": {
+    "en": "Two coastlines: Andaman Sea (west) and Gulf of Thailand (east). Limestone karsts, pristine beaches, and tropical islands.",
+    "nl": "Twee kustlijnen: Andamanzee (west) en Golf van Thailand (oost). Kalksteenformaties, ongerepte stranden en tropische eilanden."
+  },
+  "culture": {
+    "en": "Relaxed beach culture mixed with Muslim influences in the south. Fishing communities and tourism-focused areas.",
+    "nl": "Ontspannen strandcultuur gemengd met islamitische invloeden in het zuiden. Vissersgemeenschappen en op toerisme gerichte gebieden."
+  },
+  "cuisine": {
+    "en": "Fresh seafood, southern curries, coconut-based dishes, tropical fruits. Spicier than northern cuisine with Malay influences.",
+    "nl": "Verse zeevruchten, zuidelijke curry's, gerechten op basis van kokos, tropisch fruit. Pittiger dan de noordelijke keuken met Maleisische invloeden."
+  },
+  "transportation": {
+    "en": "Domestic flights to Phuket/Krabi/Surat Thani. Ferries to islands. Buses along coast. Longtail boats and speedboats.",
+    "nl": "Binnenlandse vluchten naar Phuket/Krabi/Surat Thani. Veerboten naar eilanden. Bussen langs de kust. Longtailboten en speedboten."
+  },
+  "budgetInfo": {
+    "en": "Budget: $20-35/day. Mid-range: $35-70/day. Luxury: $70+/day. Island prices higher, especially Phuket.",
+    "nl": "Budget: $20-35/dag. Middenklasse: $35-70/dag. Luxe: $70+/dag. Eilandprijzen zijn hoger, vooral Phuket."
+  },
+  "topActivities": {
+    "en": ["Beach hopping, snorkeling, diving, island tours, rock climbing, sea kayaking, sunset cruises, beach parties"],
+    "nl": ["Strandhoppen, snorkelen, duiken, eilandtours, rotsklimmen, zeekajakken, zonsondergangcruises, strandfeesten"]
+  },
+  "hiddenGems": {
+    "en": ["Koh Lipe, Koh Tao diving, Railay Beach climbing, Khao Sok National Park, James Bond Island, Similan Islands"],
+    "nl": ["Koh Lipe, duiken bij Koh Tao, klimmen bij Railay Beach, Khao Sok National Park, James Bond Island, Similan Islands"]
+  },
+  "localFestivals": {
+    "en": ["Full Moon Party (monthly), Songkran (April), Chak Phra Festival (Oct), Vegetarian Festival (Oct), Loi Krathong (Nov)"],
+    "nl": ["Full Moon Party (maandelijks), Songkran (april), Chak Phra Festival (okt), Vegetarisch Festival (okt), Loi Krathong (nov)"]
+  },
+  "travelTips": {
+    "en": ["Book island transport in advance. Respect marine life. Stay hydrated. Use reef-safe sunscreen. Check weather conditions."],
+    "nl": ["Boek eilandvervoer van tevoren. Respecteer het zeeleven. Blijf gehydrateerd. Gebruik rifvriendelijke zonnebrand. Check de weersomstandigheden."]
+  },
+  "whatToPack": {
+    "en": ["Swimwear, reef-safe sunscreen, water shoes, quick-dry clothes, rain jacket, snorkeling gear, light evening wear, mosquito spray"],
+    "nl": ["Zwemkleding, rifvriendelijke zonnebrand, waterschoenen, sneldrogende kleding, regenjas, snorkelspullen, lichte avondkleding, muggenspray"]
+  },
   "seo": {
     "metaTitle": {
       "en": "Southern Thailand Travel Guide 2026 | Go2Thailand",

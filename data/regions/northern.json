@@ -9,13 +9,10 @@
     "en": "Mountainous region known for ancient temples, hill tribes, cooler climate, and cultural heritage.",
     "nl": "Bergachtige regio bekend om oude tempels, bergstammen, koeler klimaat en cultureel erfgoed."
   },
-  "highlights": [
-    "Ancient temples",
-    "Hill tribes",
-    "Cooler climate",
-    "Cultural heritage",
-    "Mountain trekking"
-  ],
+  "highlights": {
+    "en": ["Ancient temples", "Hill tribes", "Cooler climate", "Cultural heritage", "Mountain trekking"],
+    "nl": ["Oude tempels", "Bergstammen", "Koeler klimaat", "Cultureel erfgoed", "Bergtrekking"]
+  },
   "cities": [
     "Chiang Mai",
     "Chiang Rai",
@@ -24,29 +21,55 @@
     "Mae Hong Son",
     "Lampang"
   ],
-  "climate": "Cool and dry (Nov-Feb), Hot (Mar-May), Rainy (Jun-Oct)",
-  "bestTimeToVisit": "November to February",
+  "climate": {
+    "en": "Cool and dry (Nov-Feb), Hot (Mar-May), Rainy (Jun-Oct)",
+    "nl": "Koel en droog (nov-feb), heet (mrt-mei), regenseizoen (jun-okt)"
+  },
+  "bestTimeToVisit": {
+    "en": "November to February",
+    "nl": "November tot februari"
+  },
   "image": "/images/regions/northern-thailand.webp",
-  "geography": "Mountainous terrain with peaks reaching over 2000m. Dense forests, river valleys, and hill tribe villages. Borders Myanmar and Laos.",
-  "culture": "Rich Lanna heritage with distinct architecture, crafts, and traditions. Home to various hill tribes including Hmong, Karen, and Akha peoples.",
-  "cuisine": "Khao Soi curry noodles, Sai Oua sausage, sticky rice, northern curries. Influenced by Burmese and Lao cuisine.",
-  "transportation": "Domestic flights to Chiang Mai/Chiang Rai. Buses connect cities. Songthaews and tuk-tuks locally. Motorbike rentals popular.",
-  "budgetInfo": "Budget: $25-40/day. Mid-range: $40-80/day. Luxury: $80+/day. Accommodation cheaper than Bangkok.",
-  "topActivities": [
-    "Temple hopping, hill tribe trekking, cooking classes, elephant sanctuaries, zip-lining, white water rafting, hot springs"
-  ],
-  "hiddenGems": [
-    "Pai canyon, Mae Hong Son loop, Doi Mae Salong tea plantations, Sangkhlaburi, Mon Bridge"
-  ],
-  "localFestivals": [
-    "Loi Krathong (November), Songkran (April), Yi Peng Lantern Festival (November), Flower Festival (February)"
-  ],
-  "travelTips": [
-    "Pack warm clothes for evenings. Respect hill tribe customs. Book tours through reputable operators. Learn basic Thai phrases."
-  ],
-  "whatToPack": [
-    "Warm jacket, comfortable walking shoes, insect repellent, sunscreen, modest clothing for temples, rain jacket"
-  ],
+  "geography": {
+    "en": "Mountainous terrain with peaks reaching over 2000m. Dense forests, river valleys, and hill tribe villages. Borders Myanmar and Laos.",
+    "nl": "Bergachtig terrein met pieken boven de 2000 meter. Dichte bossen, rivierdalen en bergstam-dorpen. Grenst aan Myanmar en Laos."
+  },
+  "culture": {
+    "en": "Rich Lanna heritage with distinct architecture, crafts, and traditions. Home to various hill tribes including Hmong, Karen, and Akha peoples.",
+    "nl": "Rijk Lanna-erfgoed met unieke architectuur, ambachten en tradities. Thuisbasis van diverse bergstammen waaronder de Hmong, Karen en Akha volkeren."
+  },
+  "cuisine": {
+    "en": "Khao Soi curry noodles, Sai Oua sausage, sticky rice, northern curries. Influenced by Burmese and Lao cuisine.",
+    "nl": "Khao Soi currynoedels, Sai Oua worst, kleefrijst, noordelijke curry's. Beïnvloed door Birmese en Laotiaanse keuken."
+  },
+  "transportation": {
+    "en": "Domestic flights to Chiang Mai/Chiang Rai. Buses connect cities. Songthaews and tuk-tuks locally. Motorbike rentals popular.",
+    "nl": "Binnenlandse vluchten naar Chiang Mai/Chiang Rai. Bussen verbinden steden. Lokaal songthaews en tuk-tuks. Motorverhuur is populair."
+  },
+  "budgetInfo": {
+    "en": "Budget: $25-40/day. Mid-range: $40-80/day. Luxury: $80+/day. Accommodation cheaper than Bangkok.",
+    "nl": "Budget: $25-40/dag. Middenklasse: $40-80/dag. Luxe: $80+/dag. Accommodatie goedkoper dan Bangkok."
+  },
+  "topActivities": {
+    "en": ["Temple hopping, hill tribe trekking, cooking classes, elephant sanctuaries, zip-lining, white water rafting, hot springs"],
+    "nl": ["Tempelbezoek, bergstam-trekking, kooklessen, olifantenopvang, zipline, wildwatervaren, warmwaterbronnen"]
+  },
+  "hiddenGems": {
+    "en": ["Pai canyon, Mae Hong Son loop, Doi Mae Salong tea plantations, Sangkhlaburi, Mon Bridge"],
+    "nl": ["Pai Canyon, Mae Hong Son-lus, Doi Mae Salong theeplantages, Sangkhlaburi, Mon-brug"]
+  },
+  "localFestivals": {
+    "en": ["Loi Krathong (November), Songkran (April), Yi Peng Lantern Festival (November), Flower Festival (February)"],
+    "nl": ["Loi Krathong (november), Songkran (april), Yi Peng Lantaarnfestival (november), Bloemenfestival (februari)"]
+  },
+  "travelTips": {
+    "en": ["Pack warm clothes for evenings. Respect hill tribe customs. Book tours through reputable operators. Learn basic Thai phrases."],
+    "nl": ["Neem warme kleding mee voor de avonden. Respecteer gebruiken van bergstammen. Boek tours via betrouwbare aanbieders. Leer basis Thaise zinnen."]
+  },
+  "whatToPack": {
+    "en": ["Warm jacket, comfortable walking shoes, insect repellent, sunscreen, modest clothing for temples, rain jacket"],
+    "nl": ["Warme jas, comfortabele wandelschoenen, insectenspray, zonnebrandcrème, bescheiden kleding voor tempels, regenjas"]
+  },
   "seo": {
     "metaTitle": {
       "en": "Northern Thailand Travel Guide 2026 | Go2Thailand",
