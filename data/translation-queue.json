@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 118
+    "completed": 119
   },
   "queue": [
     {
@@ -953,9 +953,10 @@
     {
       "type": "city",
       "file": "data/enhanced/lopburi.json",
-      "status": "pending",
+      "status": "completed",
       "priority": 3,
-      "locale": "nl"
+      "locale": "nl",
+      "completedAt": "2026-03-09"
     },
     {
       "type": "city",
