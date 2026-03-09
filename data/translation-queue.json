@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 115
+    "completed": 116
   },
   "queue": [
     {
@@ -929,9 +929,10 @@
     {
       "type": "city",
       "file": "data/enhanced/koh-samui.json",
-      "status": "pending",
+      "status": "completed",
       "priority": 3,
-      "locale": "nl"
+      "locale": "nl",
+      "completedAt": "2026-03-09"
     },
     {
       "type": "city",
