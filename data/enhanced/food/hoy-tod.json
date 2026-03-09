@@ -171,5 +171,105 @@
       "market_stall": "40-60 THB",
       "restaurant": "60-100 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Hoy Tod is een geliefd stevig en smaakvol hoofdgerecht uit Centraal-Thailand met een subtiele warmte. Knapperige mossel- of oesterpannenkoek met taugé. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 15 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van mosselen of oesters, meel en ei creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Mosselen of oesters",
+          "purpose": "Essentieel voor de authentieke Hoy Tod smaak",
+          "substitutes": [
+            "Verse mosselen of oesters",
+            "Gedroogde mosselen of oesters",
+            "Mosselen- of oesterpasta"
+          ]
+        },
+        {
+          "name": "Meel",
+          "purpose": "Essentieel voor de authentieke Hoy Tod smaak",
+          "substitutes": [
+            "Tarwebloem",
+            "Rijstmeel",
+            "Tapiocameel"
+          ]
+        },
+        {
+          "name": "Ei",
+          "purpose": "Essentieel voor de authentieke Hoy Tod smaak",
+          "substitutes": [
+            "Vers ei",
+            "Eiwit",
+            "Eigeel"
+          ]
+        },
+        {
+          "name": "Taugé",
+          "purpose": "Essentieel voor de authentieke Hoy Tod smaak",
+          "substitutes": [
+            "Verse taugé",
+            "Gedroogde taugé",
+            "Sojascheutjes"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken in de pan",
+        "steps_overview": "Het bereiden van Hoy Tod vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse mosselen of oesters voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Hoy Tod is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Hoy Tod Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Hoy Tod Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Hoy Tod",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }
