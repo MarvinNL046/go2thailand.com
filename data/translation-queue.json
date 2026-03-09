@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 103
+    "completed": 104
   },
   "queue": [
     {
@@ -833,7 +833,8 @@
     {
       "type": "city",
       "file": "data/enhanced/ayutthaya.json",
-      "status": "pending",
+      "status": "completed",
+      "completedAt": "2026-03-09",
       "priority": 3,
       "locale": "nl"
     },
