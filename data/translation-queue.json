@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 112
+    "completed": 113
   },
   "queue": [
     {
@@ -905,9 +905,10 @@
     {
       "type": "city",
       "file": "data/enhanced/hua-hin.json",
-      "status": "pending",
+      "status": "completed",
       "priority": 3,
-      "locale": "nl"
+      "locale": "nl",
+      "completedAt": "2026-03-09"
     },
     {
       "type": "city",
