@@ -189,5 +189,118 @@
     "allergens": [],
     "dietary": [],
     "price_range": "budget"
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Pad Krapow is het ultieme comfortfood van Thailand — een vurige, aromatische roerbak die de peperachtige kracht van heilige basilicum perfect in balans brengt met hartig gehakt. Dit bliksemsnelle gerecht is een vaste waarde bij straatkraampjes en restaurants door heel Thailand, geliefd om zijn uitgesproken smaken en bevredigende eenvoud. De magie schuilt in de heilige basilicum (bai krapow), die zijn kenmerkende kruidnagealachtige aroma afgeeft wanneer het de gloeiend hete wok raakt, waardoor een gerecht ontstaat dat direct herkenbaar is aan alleen al zijn bedwelmende geur.",
+      "detailed_ingredients": [
+        {
+          "name": "Heilige basilicum (Bai Krapow)",
+          "purpose": "Het sterredient dat dit gerecht zijn naam en kenmerkende peperachtige, kruidnagealachtige smaak geeft",
+          "substitutes": [
+            "Thaise basilicum (minder authentiek maar acceptabel)",
+            "Italiaanse basilicum gemengd met munt (noodvervanging)"
+          ]
+        },
+        {
+          "name": "Thaise vogelpepers",
+          "purpose": "Zorgt voor de essentiële hitte die dit gerecht authentiek pittig maakt",
+          "substitutes": [
+            "Serranopepers",
+            "Verse rode pepers",
+            "Chilivlokken (hoeveelheid aanpassen)"
+          ]
+        },
+        {
+          "name": "Varkens- of kipgehakt",
+          "purpose": "Traditionele eiwitbasis die alle smaken absorbeert",
+          "substitutes": [
+            "Rundergehakt",
+            "Verkruimelde tofu",
+            "Gehakte paddenstoelen voor vegetarische versie"
+          ]
+        },
+        {
+          "name": "Vissaus",
+          "purpose": "Voegt umami-diepte en authentieke Thaise smaak toe",
+          "substitutes": [
+            "Lichte sojasaus met een snufje zout",
+            "Vegetarische paddenstoelensaus"
+          ]
+        },
+        {
+          "name": "Donkere sojasaus",
+          "purpose": "Geeft kleur en een subtiele zoetheid om de hitte in balans te brengen",
+          "substitutes": [
+            "Gewone sojasaus met een vleugje melasse"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken op hoog vuur in een wok",
+        "steps_overview": "De sleutel tot perfecte Pad Krapow is extreme hitte en snelheid. Alles gebeurt in minder dan 5 minuten zodra je begint met koken. De wok moet rokend heet zijn, waardoor de felbegeerde 'wok hei' (adem van de wok) ontstaat die het gerecht zijn kenmerkende rokerige smaak geeft.",
+        "cooking_tips": [
+          "Gebruik de hoogste hitte die je fornuis kan produceren — dit gerecht heeft serieus vuur nodig",
+          "Zorg dat alle ingrediënten voorbereid en binnen handbereik zijn voordat je begint",
+          "Kook de heilige basilicum niet te lang — voeg het op het allerlaatst toe om de smaak te behouden",
+          "Het vlees moet luid sissen wanneer het de wok raakt",
+          "Stamp voor een authentieke smaak knoflook en pepers in een vijzel",
+          "Het gebakken ei moet krokante randen maar een zacht eigeel hebben"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pad Krapow is voortgekomen uit Thailands straatvoedselcultuur, waar snelle, betaalbare maaltijden nodig waren voor drukke arbeiders. Het gerecht werd populair in de jaren '60 toen de verstedelijking toenam en straatverkopers gerechten nodig hadden die snel konden worden bereid op draagbare gasbranders.",
+        "cultural_importance": "Dit is Thailands ultieme comfortfood, vergelijkbaar met een tosti in Nederland. Het is het gerecht waar Thais naar verlangen als ze heimwee hebben, bestellen als ze een kater hebben, en hun kinderen als eerste leren koken. De uitdrukking 'pad krapow kai dao' (met gebakken ei) is zo Thais als het maar kan.",
+        "traditional_occasions": [
+          "Laat-avond straatvoedsel",
+          "Snelle lunch voor kantoormedewerkers",
+          "Budgetmaaltijden voor studenten",
+          "Comfortfood wanneer je je niet lekker voelt"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Krapow Moo Krob",
+          "description": "Gemaakt met krokant varkensbuik in plaats van gehakt voor extra rijkheid en textuur"
+        },
+        {
+          "name": "Pad Krapow Talay",
+          "description": "Zeevruchtvariant met garnalen, inktvis en vis — populair in kustgebieden"
+        },
+        {
+          "name": "Pad Krapow Kai",
+          "description": "Kipversie, vaak de voorkeur voor wie een lichtere optie zoekt"
+        },
+        {
+          "name": "Vegetarische Pad Krapow",
+          "description": "Gemaakt met tofu, paddenstoelen of gemengde groenten, met vegetarische roerbaksaus"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst (essentieel — nooit serveren zonder)",
+          "Gebakken ei met zacht eigeel (kai dao)",
+          "Verse komkommerschijfjes",
+          "Vissaus met pepers (prik nam pla)",
+          "Koude Thaise ijsthee om de hitte te bestrijden"
+        ],
+        "presentation": "Geserveerd op een bord met rijst aan de ene kant, de roerbak aan de andere kant, afgetopt met een gebakken ei. Het eigeel wordt gebroken en gemengd met de rijst en het vlees.",
+        "eating_etiquette": "Gegeten met een lepel in de rechterhand en vork in de linkerhand. De vork wordt gebruikt om eten op de lepel te schuiven. Het eigeel breken en het de rijst laten bedekken is onderdeel van de ervaring."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — Michelinster-versie",
+          "Soei Restaurant (Bangkok) — Lokale favoriet",
+          "Elk straatkraampje met een rij wachtende locals"
+        ],
+        "street_food_areas": [
+          "Chinatown (Yaowarat), Bangkok",
+          "Victory Monument-gebied, Bangkok",
+          "Chiang Mai Night Bazaar",
+          "Phuket Weekend Market"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }
