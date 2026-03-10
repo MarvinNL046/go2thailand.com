@@ -5,6 +5,7 @@
     "name": {
       "en": "Green Curry",
       "nl": "Groene Curry",
+      "de": "Grünes Curry",
       "thai": "แกงเขียวหวาน"
     },
     "category": "curry",
@@ -12,7 +13,8 @@
     "spice_level": "hot",
     "description": {
       "en": "Spicy green curry with coconut milk Thai eggplant and basil",
-      "nl": "Pittige groene curry met kokosmelk Thaise aubergine en basilicum"
+      "nl": "Pittige groene curry met kokosmelk Thaise aubergine en basilicum",
+      "de": "Scharfes grünes Curry mit Kokosmilch, thailändischer Aubergine und Basilikum"
     },
     "ingredients": [
       "green curry paste",
@@ -33,11 +35,13 @@
     "seo": {
       "metaTitle": {
         "en": "Green Curry Recipe | Authentic Thai curry",
-        "nl": "Groene Curry Recept | Authentieke Thaise curry"
+        "nl": "Groene Curry Recept | Authentieke Thaise curry",
+        "de": "Grünes Curry Rezept | Authentisches Thai-Curry"
       },
       "metaDescription": {
         "en": "Learn about Green Curry (แกงเขียวหวาน) - Spicy green curry with coconut milk Thai eggplant and basil...",
-        "nl": "Leer over Groene Curry (แกงเขียวหวาน) - Pittige groene curry met kokosmelk Thaise aubergine en basilicum..."
+        "nl": "Leer over Groene Curry (แกงเขียวหวาน) - Pittige groene curry met kokosmelk Thaise aubergine en basilicum...",
+        "de": "Erfahren Sie mehr über Grünes Curry (แกงเขียวหวาน) – Scharfes grünes Curry mit Kokosmilch, thailändischer Aubergine und Basilikum..."
       }
     },
     "tags": [
@@ -72,6 +76,7 @@
     "name": {
       "en": "Massaman Curry",
       "nl": "Massaman Curry",
+      "de": "Massaman Curry",
       "thai": "แกงมัสมั่น"
     },
     "category": "curry",
@@ -79,7 +84,8 @@
     "spice_level": "medium",
     "description": {
       "en": "Rich and mild curry with Persian influences containing potatoes and peanuts",
-      "nl": "Rijke en milde curry met Perzische invloeden met aardappelen en pinda's"
+      "nl": "Rijke en milde curry met Perzische invloeden met aardappelen en pinda's",
+      "de": "Reichhaltiges und mildes Curry mit persischen Einflüssen, mit Kartoffeln und Erdnüssen"
     },
     "ingredients": [
       "massaman paste",
@@ -100,11 +106,13 @@
     "seo": {
       "metaTitle": {
         "en": "Massaman Curry Recipe | Authentic Thai curry",
-        "nl": "Massaman Curry Recept | Authentieke Thaise curry"
+        "nl": "Massaman Curry Recept | Authentieke Thaise curry",
+        "de": "Massaman Curry Rezept | Authentisches Thai-Curry"
       },
       "metaDescription": {
         "en": "Learn about Massaman Curry (แกงมัสมั่น) - Rich and mild curry with Persian influences containing potatoes and peanuts...",
-        "nl": "Leer over Massaman Curry (แกงมัสมั่น) - Rijke en milde curry met Perzische invloeden met aardappelen en pinda's..."
+        "nl": "Leer over Massaman Curry (แกงมัสมั่น) - Rijke en milde curry met Perzische invloeden met aardappelen en pinda's...",
+        "de": "Erfahren Sie mehr über Massaman Curry (แกงมัสมั่น) – Reichhaltiges und mildes Curry mit persischen Einflüssen, mit Kartoffeln und Erdnüssen..."
       }
     },
     "tags": [
@@ -139,6 +147,7 @@
     "name": {
       "en": "Gaeng Hang Lay",
       "nl": "Gaeng Hang Lay",
+      "de": "Gaeng Hang Lay",
       "thai": "แกงฮังเล"
     },
     "category": "curry",
@@ -146,7 +155,8 @@
     "spice_level": "mild",
     "description": {
       "en": "Mild curry with pork belly and Burmese influences",
-      "nl": "Milde curry met varkensbuik en Birmese invloeden"
+      "nl": "Milde curry met varkensbuik en Birmese invloeden",
+      "de": "Mildes Curry mit Schweinebauch und birmanischen Einflüssen"
     },
     "ingredients": [
       "pork belly",
@@ -168,11 +178,13 @@
     "seo": {
       "metaTitle": {
         "en": "Gaeng Hang Lay Recipe | Authentic Thai curry",
-        "nl": "Gaeng Hang Lay Recept | Authentieke Thaise curry"
+        "nl": "Gaeng Hang Lay Recept | Authentieke Thaise curry",
+        "de": "Gaeng Hang Lay Rezept | Authentisches Thai-Curry"
       },
       "metaDescription": {
         "en": "Learn about Gaeng Hang Lay (แกงฮังเล) - Mild curry with pork belly and Burmese influences...",
-        "nl": "Leer over Gaeng Hang Lay (แกงฮังเล) - Milde curry met varkensbuik en Birmese invloeden..."
+        "nl": "Leer over Gaeng Hang Lay (แกงฮังเล) - Milde curry met varkensbuik en Birmese invloeden...",
+        "de": "Erfahren Sie mehr über Gaeng Hang Lay (แกงฮังเล) – Mildes Curry mit Schweinebauch und birmanischen Einflüssen..."
       }
     },
     "tags": [
@@ -207,6 +219,7 @@
     "name": {
       "en": "Gaeng Tai Pla",
       "nl": "Gaeng Tai Pla",
+      "de": "Gaeng Tai Pla",
       "thai": "แกงไตปลา"
     },
     "category": "curry",
@@ -214,7 +227,8 @@
     "spice_level": "very hot",
     "description": {
       "en": "Intensely spicy southern fish organ curry",
-      "nl": "Intens pittige zuidelijke visorganen curry"
+      "nl": "Intens pittige zuidelijke visorganen curry",
+      "de": "Intensiv scharfes südthailändisches Fischinnereien-Curry"
     },
     "ingredients": [
       "fish organs",
@@ -235,11 +249,13 @@
     "seo": {
       "metaTitle": {
         "en": "Gaeng Tai Pla Recipe | Authentic Thai curry",
-        "nl": "Gaeng Tai Pla Recept | Authentieke Thaise curry"
+        "nl": "Gaeng Tai Pla Recept | Authentieke Thaise curry",
+        "de": "Gaeng Tai Pla Rezept | Authentisches Thai-Curry"
       },
       "metaDescription": {
         "en": "Learn about Gaeng Tai Pla (แกงไตปลา) - Intensely spicy southern fish organ curry...",
-        "nl": "Leer over Gaeng Tai Pla (แกงไตปลา) - Intens pittige zuidelijke visorganen curry..."
+        "nl": "Leer over Gaeng Tai Pla (แกงไตปลา) - Intens pittige zuidelijke visorganen curry...",
+        "de": "Erfahren Sie mehr über Gaeng Tai Pla (แกงไตปลา) – Intensiv scharfes südthailändisches Fischinnereien-Curry..."
       }
     },
     "tags": [
