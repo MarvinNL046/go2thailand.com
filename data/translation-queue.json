@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 593
+    "completed": 594
   },
   "queue": [
     {
@@ -4760,8 +4760,9 @@
       "type": "top10",
       "file": "data/top10/hat-yai-hotels.json",
       "locale": "zh",
-      "status": "pending",
-      "priority": 12
+      "status": "completed",
+      "priority": 12,
+      "completedAt": "2026-03-11T00:00:00.000Z"
     },
     {
       "type": "top10",
