@@ -1,0 +1,47 @@
+{
+  "id": 1,
+  "slug": "pha-taem-national-park",
+  "name": {
+    "en": "Pha Taem National Park",
+    "nl": "Pha Taem Nationaal Park"
+  },
+  "type": "nature",
+  "city_slug": "ubon-ratchathani",
+  "address": "Ubon Ratchathani, Thailand",
+  "location": null,
+  "opening_hours": null,
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "Dramatic Mekong River cliffs with prehistoric rock paintings dating back 3,000-4,000 years",
+    "nl": "Dramatische Mekong-rivierkliffen met prehistorische rotstekeningen van 3.000-4.000 jaar oud"
+  },
+  "highlights": [
+    "Prehistoric cliff paintings",
+    "Mekong River views",
+    "Sunrise viewpoint"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Pha Taem National Park - Top Attraction in Ubon Ratchathani | Go2Thailand",
+      "nl": "Pha Taem Nationaal Park - Top Attractie in Ubon Ratchathani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Pha Taem National Park in Ubon Ratchathani. Dramatic Mekong River cliffs with prehistoric rock paintings dating back 3,000-4,000 years",
+      "nl": "Ontdek Pha Taem Nationaal Park in Ubon Ratchathani. Dramatische Mekong-rivierkliffen met prehistorische rotstekeningen van 3.000-4.000 jaar oud"
+    }
+  },
+  "tags": [
+    "nature",
+    "ubon-ratchathani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pha%20Taem%20National%20Park%20Ubon%20Ratchathani%20Thailand"
+}

@@ -100,11 +100,13 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 "streetAddress": attraction.address,
                 "addressCountry": "TH"
               },
-              "geo": {
-                "@type": "GeoCoordinates",
-                "latitude": attraction.location.lat,
-                "longitude": attraction.location.lng
-              },
+              ...(attraction.location?.lat && attraction.location?.lng && {
+                "geo": {
+                  "@type": "GeoCoordinates",
+                  "latitude": attraction.location.lat,
+                  "longitude": attraction.location.lng
+                }
+              }),
               ...(attraction.opening_hours && { "openingHours": attraction.opening_hours }),
               ...(attraction.entrance_fee.thb > 0 && {
                 "isAccessibleForFree": false,

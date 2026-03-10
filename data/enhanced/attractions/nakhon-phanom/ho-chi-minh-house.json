@@ -1,0 +1,51 @@
+{
+  "id": 1,
+  "slug": "ho-chi-minh-house",
+  "name": {
+    "en": "Ho Chi Minh House Museum",
+    "nl": "Ho Chi Minh Huis Museum"
+  },
+  "type": "culture",
+  "city_slug": "nakhon-phanom",
+  "address": "Nakhon Phanom, Thailand",
+  "location": null,
+  "opening_hours": null,
+  "entrance_fee": {
+    "thb_thai": 30,
+    "thb_foreigner": 200,
+    "usd_foreigner": 6
+  },
+  "description": {
+    "en": "Reconstructed wooden house where Vietnamese revolutionary Ho Chi Minh lived in exile during the 1920s, hiding from French colonial authorities while organizing independence movements. The museum preserves original furniture and is surrounded by fruit gardens — pomelo, guava, and jackfruit trees — planted by Ho Chi Minh himself.",
+    "nl": "Gereconstrueerd houten huis waar de Vietnamese revolutionair Ho Chi Minh in de jaren 1920 in ballingschap leefde, op de vlucht voor de Franse koloniale autoriteiten terwijl hij onafhankelijkheidsbewegingen organiseerde. Het museum bewaart origineel meubilair en is omgeven door fruittuinen — pomelo, guave en jackfruitbomen — eigenhandig geplant door Ho Chi Minh."
+  },
+  "highlights": [
+    "Original furniture",
+    "Hand-planted fruit gardens",
+    "Vietnamese independence history",
+    "Reconstructed wooden house"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Ho Chi Minh House Museum - Top Attraction in Nakhon Phanom | Go2Thailand",
+      "nl": "Ho Chi Minh Huis Museum - Top Attractie in Nakhon Phanom | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Ho Chi Minh House Museum in Nakhon Phanom. Reconstructed wooden house where Vietnamese revolutionary Ho Chi Minh lived in exile during the 1920s, hiding from French colonial authorities while organizing independence movements. The museum preserves original furniture and is surrounded by fruit gardens — pomelo, guava, and jackfruit trees — planted by Ho Chi Minh himself.",
+      "nl": "Ontdek Ho Chi Minh Huis Museum in Nakhon Phanom. Gereconstrueerd houten huis waar de Vietnamese revolutionair Ho Chi Minh in de jaren 1920 in ballingschap leefde, op de vlucht voor de Franse koloniale autoriteiten terwijl hij onafhankelijkheidsbewegingen organiseerde. Het museum bewaart origineel meubilair en is omgeven door fruittuinen — pomelo, guave en jackfruitbomen — eigenhandig geplant door Ho Chi Minh."
+    }
+  },
+  "tags": [
+    "culture",
+    "nakhon-phanom",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ],
+  "googleMapsUrl": "https://maps.app.goo.gl/NCZ15bb4pxr76",
+  "best_time": "morning",
+  "duration_hours": 1.5
+}

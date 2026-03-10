@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "phu-thok",
+  "name": {
+    "en": "Phu Thok Viewpoint",
+    "nl": "Phu Thok Uitzichtpunt"
+  },
+  "type": "nature",
+  "city_slug": "chiang-khan",
+  "address": "Chiang Khan, Thailand",
+  "location": null,
+  "opening_hours": null,
+  "entrance_fee": {
+    "thb": 30,
+    "usd": 1
+  },
+  "description": {
+    "en": "Mountain viewpoint famous for its sea of mist at sunrise, offering breathtaking views over the Mekong valley",
+    "nl": "Berguitkijkpunt beroemd om de zee van mist bij zonsopgang, met adembenemend uitzicht over de Mekong-vallei"
+  },
+  "highlights": [
+    "Sea of mist",
+    "Sunrise viewing",
+    "Mekong valley panorama",
+    "Photography spot"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Phu Thok Viewpoint - Top Attraction in Chiang Khan | Go2Thailand",
+      "nl": "Phu Thok Uitzichtpunt - Top Attractie in Chiang Khan | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Phu Thok Viewpoint in Chiang Khan. Mountain viewpoint famous for its sea of mist at sunrise, offering breathtaking views over the Mekong valley",
+      "nl": "Ontdek Phu Thok Uitzichtpunt in Chiang Khan. Berguitkijkpunt beroemd om de zee van mist bij zonsopgang, met adembenemend uitzicht over de Mekong-vallei"
+    }
+  },
+  "tags": [
+    "nature",
+    "chiang-khan",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phu%20Thok%20Viewpoint%20Chiang%20Khan%20Thailand",
+  "best_time": "early morning",
+  "duration_hours": 2
+}

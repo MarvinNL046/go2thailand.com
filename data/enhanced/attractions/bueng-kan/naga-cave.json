@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "slug": "naga-cave",
+  "name": {
+    "en": "Naga Cave (Tham Naga)",
+    "nl": "Nagagrot (Tham Naga)"
+  },
+  "type": "nature",
+  "city_slug": "bueng-kan",
+  "address": "Bueng Kan, Thailand",
+  "location": null,
+  "opening_hours": null,
+  "entrance_fee": {
+    "thb": 600,
+    "usd": 17
+  },
+  "description": {
+    "en": "Spectacular rock formations resembling giant naga scales, with a mandatory guide (500 THB) plus 100 THB national park fee. A golden stupa at the top rewards hikers with incredible panoramic views. Opens 6 AM, last entry 2 PM",
+    "nl": "Spectaculaire rotsformaties die lijken op reusachtige nagaschubben, met een verplichte gids (500 THB) plus 100 THB nationaal park-entree. Een gouden stupa op de top beloont wandelaars met ongelooflijk panoramisch uitzicht. Opent om 6 uur, laatste toegang 14 uur"
+  },
+  "highlights": [
+    "Giant naga scale rock formations",
+    "Golden stupa at summit",
+    "Mandatory guided hike",
+    "Incredible panoramic views"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Naga Cave (Tham Naga) - Top Attraction in Bueng Kan | Go2Thailand",
+      "nl": "Nagagrot (Tham Naga) - Top Attractie in Bueng Kan | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Naga Cave (Tham Naga) in Bueng Kan. Spectacular rock formations resembling giant naga scales, with a mandatory guide (500 THB) plus 100 THB national park fee. A golden stupa at the top rewards hikers with incredible panoramic views. Opens 6 AM, last entry 2 PM",
+      "nl": "Ontdek Nagagrot (Tham Naga) in Bueng Kan. Spectaculaire rotsformaties die lijken op reusachtige nagaschubben, met een verplichte gids (500 THB) plus 100 THB nationaal park-entree. Een gouden stupa op de top beloont wandelaars met ongelooflijk panoramisch uitzicht. Opent om 6 uur, laatste toegang 14 uur"
+    }
+  },
+  "tags": [
+    "nature",
+    "bueng-kan",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ],
+  "googleMapsUrl": "https://maps.app.goo.gl/vtERbD8SMa468",
+  "best_time": "morning",
+  "duration_hours": 3
+}

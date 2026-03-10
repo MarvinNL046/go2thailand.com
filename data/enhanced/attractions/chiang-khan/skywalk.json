@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "slug": "skywalk",
+  "name": {
+    "en": "Chiang Khan Skywalk",
+    "nl": "Chiang Khan Skywalk"
+  },
+  "type": "nature",
+  "city_slug": "chiang-khan",
+  "address": "Chiang Khan, Thailand",
+  "location": null,
+  "opening_hours": null,
+  "entrance_fee": {
+    "thb": 50,
+    "usd": 1.5
+  },
+  "description": {
+    "en": "Glass skywalk perched on a cliff overlooking the Mekong River with panoramic views of the surrounding landscape",
+    "nl": "Glazen skywalk op een klif met uitzicht over de Mekong en panoramisch uitzicht op het omliggende landschap"
+  },
+  "highlights": [
+    "Glass walkway",
+    "Mekong panorama",
+    "Cliff-edge views",
+    "Photo opportunities"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Chiang Khan Skywalk - Top Attraction in Chiang Khan | Go2Thailand",
+      "nl": "Chiang Khan Skywalk - Top Attractie in Chiang Khan | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Chiang Khan Skywalk in Chiang Khan. Glass skywalk perched on a cliff overlooking the Mekong River with panoramic views of the surrounding landscape",
+      "nl": "Ontdek Chiang Khan Skywalk in Chiang Khan. Glazen skywalk op een klif met uitzicht over de Mekong en panoramisch uitzicht op het omliggende landschap"
+    }
+  },
+  "tags": [
+    "nature",
+    "chiang-khan",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiang%20Khan%20Skywalk%20Chiang%20Khan%20Thailand",
+  "best_time": "morning",
+  "duration_hours": 1
+}

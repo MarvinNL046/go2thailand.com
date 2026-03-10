@@ -1,0 +1,47 @@
+{
+  "id": 5,
+  "slug": "wat-nong-bua",
+  "name": {
+    "en": "Wat Nong Bua",
+    "nl": "Wat Nong Bua"
+  },
+  "type": "temple",
+  "city_slug": "ubon-ratchathani",
+  "address": "Ubon Ratchathani, Thailand",
+  "location": null,
+  "opening_hours": null,
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Beautiful Isaan temple modeled after India's Mahabodhi Temple with stunning interior murals",
+    "nl": "Prachtige Isaan-tempel gemodelleerd naar India's Mahabodhi Tempel met prachtige interieur muurschilderingen"
+  },
+  "highlights": [
+    "Mahabodhi-style architecture",
+    "Interior murals",
+    "Isaan village scenes"
+  ],
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Nong Bua - Top Attraction in Ubon Ratchathani | Go2Thailand",
+      "nl": "Wat Nong Bua - Top Attractie in Ubon Ratchathani | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Nong Bua in Ubon Ratchathani. Beautiful Isaan temple modeled after India's Mahabodhi Temple with stunning interior murals",
+      "nl": "Ontdek Wat Nong Bua in Ubon Ratchathani. Prachtige Isaan-tempel gemodelleerd naar India's Mahabodhi Tempel met prachtige interieur muurschilderingen"
+    }
+  },
+  "tags": [
+    "temple",
+    "ubon-ratchathani",
+    "thailand",
+    "attraction",
+    "travel",
+    "tourism"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Nong%20Bua%20Ubon%20Ratchathani%20Thailand"
+}
