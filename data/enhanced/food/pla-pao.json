@@ -368,6 +368,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Pla Pao ist ein beliebtes, herzhaftes und sättigendes Hauptgericht aus Zentralthailand mit einer subtilen Wärme. Gegrillter Fisch in Salzkruste, serviert mit scharfer Meeresfrüchtesauce. Dieses Rezept mittlerer Schwierigkeit benötigt etwa 40 Minuten Zubereitungszeit und verkörpert die authentischen Aromen der zentralthailändischen Küche, die süße, saure, salzige und scharfe Geschmacksnoten perfekt ausbalanciert. Die Kombination aus ganzem Fisch, grobem Salz und Zitronengras ergibt eine harmonische Mischung, die dieses Gericht sowohl bei Einheimischen als auch bei Besuchern zum Favoriten gemacht hat. Perfekt für alle, die preiswerte authentische thailändische Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Ganzer Fisch",
+          "purpose": "Unverzichtbar für den authentischen Pla Pao Geschmack",
+          "substitutes": [
+            "Frischer ganzer Fisch",
+            "Tilapia",
+            "Wolfsbarsch"
+          ]
+        },
+        {
+          "name": "Grobes Salz",
+          "purpose": "Unverzichtbar für den authentischen Pla Pao Geschmack",
+          "substitutes": [
+            "Meersalz",
+            "Steinsalz",
+            "Himalayasalz"
+          ]
+        },
+        {
+          "name": "Zitronengras",
+          "purpose": "Unverzichtbar für den authentischen Pla Pao Geschmack",
+          "substitutes": [
+            "Frisches Zitronengras",
+            "Getrocknetes Zitronengras",
+            "Zitronengraspaste"
+          ]
+        },
+        {
+          "name": "Limettenblätter",
+          "purpose": "Unverzichtbar für den authentischen Pla Pao Geschmack",
+          "substitutes": [
+            "Frische Limettenblätter",
+            "Getrocknete Limettenblätter",
+            "Limettenabrieb"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillen in Salzkruste",
+        "steps_overview": "Die Zubereitung von Pla Pao erfordert Aufmerksamkeit für Details und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die von Generation zu Generation weitergegeben wurden, garantieren einen authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frischen ganzen Fisch für das beste Ergebnis",
+          "Passen Sie die Schärfe nach Ihrem Geschmack an",
+          "Nicht zu lange grillen, um die Textur zu erhalten",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pla Pao ist seit Generationen ein fester Bestandteil der zentralthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht verkörpert das Herzstück der zentralthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Feste",
+          "Straßenessen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pla Pao Klassisch",
+          "description": "Die traditionelle Version, wie sie in einheimischen Haushalten serviert wird"
+        },
+        {
+          "name": "Pla Pao Modern",
+          "description": "Zeitgenössische Variante mit hochwertigen Zutaten"
+        },
+        {
+          "name": "Vegetarische Pla Pao",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "Auf einem Teller im traditionellen zentralthailändischen Stil serviert",
+        "eating_etiquette": "Wird mit Gabel und Löffel nach thailändischer Sitte gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zentralthailändische Restaurants",
+          "Authentische Straßenimbiss-Stände",
+          "Traditionelle Märkte",
+          "Familiengeführte Lokale"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Frische Morgenmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
