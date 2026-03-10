@@ -368,6 +368,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Nam Prik Kapi ist ein beliebtes, herzhaftes und geschmackvolles Hauptgericht aus Südthailand, das feurig und kühn ist. Ein scharfer Dip aus Garnelenpaste mit frischem Gemüse. Dieses einfache Rezept benötigt etwa 15 Minuten Zubereitungszeit und verkörpert die authentischen Aromen der südthailändischen Küche, geprägt von intensiven Gewürzen, Meeresfrüchten und Currys auf Kokosbasis. Die Kombination aus Garnelenpaste, Chili und Knoblauch ergibt eine harmonische Mischung, die dieses Gericht sowohl bei Einheimischen als auch bei Besuchern zum Favoriten gemacht hat. Perfekt für alle, die erschwingliche authentische thailändische Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Garnelenpaste",
+          "purpose": "Unverzichtbar für den authentischen Nam Prik Kapi Geschmack",
+          "substitutes": [
+            "Frische Garnelenpaste",
+            "Getrocknete Garnelenpaste",
+            "Fischsauce"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Unverzichtbar für den authentischen Nam Prik Kapi Geschmack",
+          "substitutes": [
+            "Frische Chili",
+            "Getrocknete Chili",
+            "Chilipaste"
+          ]
+        },
+        {
+          "name": "Knoblauch",
+          "purpose": "Unverzichtbar für den authentischen Nam Prik Kapi Geschmack",
+          "substitutes": [
+            "Frischer Knoblauch",
+            "Getrockneter Knoblauch",
+            "Knoblauchpaste"
+          ]
+        },
+        {
+          "name": "Limettensaft",
+          "purpose": "Unverzichtbar für den authentischen Nam Prik Kapi Geschmack",
+          "substitutes": [
+            "Frischer Limettensaft",
+            "Zitronensaft",
+            "Tamarindensaft"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stampfen und Mischen",
+        "steps_overview": "Die Zubereitung von Nam Prik Kapi erfordert Aufmerksamkeit für Details und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die von Generation zu Generation weitergegeben wurden, garantieren einen authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frische Garnelenpaste für das beste Ergebnis",
+          "Passen Sie die Schärfe nach Ihrem Geschmack an",
+          "Nicht zu lange kochen, um die Textur zu erhalten",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Kapi ist seit Generationen ein fester Bestandteil der südthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht verkörpert das Herzstück der südthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Feste",
+          "Straßenessen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Kapi Klassisch",
+          "description": "Die traditionelle Version, wie sie in einheimischen Haushalten serviert wird"
+        },
+        {
+          "name": "Nam Prik Kapi Modern",
+          "description": "Zeitgenössische Variante mit hochwertigen Zutaten"
+        },
+        {
+          "name": "Vegetarische Nam Prik Kapi",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "Auf einem Teller im traditionellen südthailändischen Stil serviert",
+        "eating_etiquette": "Wird mit Gabel und Löffel nach thailändischer Sitte gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale südthailändische Restaurants",
+          "Authentische Straßenimbiss-Stände",
+          "Traditionelle Märkte",
+          "Familiengeführte Lokale"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Frische Morgenmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
