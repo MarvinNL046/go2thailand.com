@@ -74,8 +74,8 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
   return (
     <div className="min-h-screen bg-surface-cream">
       <SEOHead
-        title={`Thailand Weather Guide 2026 | Go2Thailand`}
-        description="Complete Thailand weather guide. Check weather conditions, temperature, and rainfall for all major Thai cities. Plan your trip with monthly climate information."
+        title="Thailand Weather — Best Time to Visit & Seasons 2026"
+        description="When to visit Thailand? Monthly weather, rainy season dates, temperature & humidity for 33 cities. Plan the perfect trip with our 2026 climate guide."
       >
         <meta name="keywords" content="Thailand weather, Thailand climate, Thai cities weather, best time visit Thailand, Thailand seasons, Thailand temperature" />
         <script

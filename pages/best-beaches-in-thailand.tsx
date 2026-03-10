@@ -166,8 +166,8 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
 
   const pageTitle =
     lang === 'nl'
-      ? '25 Beste Stranden in Thailand (2026) - Gerangschikte Gids | Go2Thailand'
-      : '25 Best Beaches in Thailand (2026) - Ranked Guide | Go2Thailand';
+      ? '25 Beste Stranden in Thailand — Gerangschikte Gids 2026 | Go2Thailand'
+      : 'Best Beaches in Thailand — 25 Must-Visit Spots (2026)';
 
   const pageDescription =
     lang === 'nl'

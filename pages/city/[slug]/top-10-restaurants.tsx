@@ -108,7 +108,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
   return (
     <>
       <SEOHead
-        title={`${restaurantsData.title} 2026 — ${city.name.en}`}
+        title={restaurantsData.title}
         description={restaurantsData.meta_description}
       >
         <meta name="keywords" content={`${city.name.en} restaurants, Thailand dining, local food, ${city.name.en} cuisine, restaurant guide`} />

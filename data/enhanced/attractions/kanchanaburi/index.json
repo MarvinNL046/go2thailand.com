@@ -25,7 +25,17 @@
         "Walk across the bridge",
         "Train crossing"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bridge%20over%20the%20River%20Kwai%20Kanchanaburi%20Thailand"
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bridge%20over%20the%20River%20Kwai%20Kanchanaburi%20Thailand",
+      "seo": {
+        "metaTitle": {
+          "en": "Bridge Over the River Kwai — History, Tours & How to Visit",
+          "nl": "Brug over de Rivier Kwai — Geschiedenis, Tours & Bezoekgids"
+        },
+        "metaDescription": {
+          "en": "Visit the Bridge Over the River Kwai in Kanchanaburi. WWII history, Death Railway museum, tours & practical tips for your visit.",
+          "nl": "Bezoek de Brug over de Rivier Kwai in Kanchanaburi. WO2 geschiedenis, museum & praktische tips."
+        }
+      }
     },
     {
       "id": 2,

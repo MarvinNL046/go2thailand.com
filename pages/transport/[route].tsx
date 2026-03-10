@@ -89,7 +89,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
   return (
     <div className="min-h-screen bg-surface-cream">
       <SEOHead
-        title={`${fromCity.name.en} to ${toCity.name.en}: Cheapest Routes & Prices (2026)`}
+        title={`${fromCity.name.en} to ${toCity.name.en} — Best Ways to Travel (2026)`}
         description={`Compare ${transportOptions.length} ways from ${fromCity.name.en} to ${toCity.name.en}. Buses, trains & flights. Prices from ${transportOptions.reduce((min, o) => { const p = parseInt(o.price.replace(/[^0-9]/g, '')); return p < min ? p : min; }, 99999).toLocaleString()} THB. Book online!`}
       >
         <meta name="keywords" content={`${fromCity.name.en} to ${toCity.name.en}, transport ${fromCity.name.en} ${toCity.name.en}, how to get from ${fromCity.name.en} to ${toCity.name.en}, ${fromCity.name.en} ${toCity.name.en} bus, ${fromCity.name.en} ${toCity.name.en} flight`} />
@@ -670,7 +670,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   const paths = transportRoutes.routes.map(route => ({
     params: { route: route.slug }
   }));
-  
+
   return { paths, fallback: 'blocking' };
 };
 

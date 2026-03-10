@@ -1,5 +1,5 @@
 ---
-title: "Full Moon Party Koh Phangan: Complete Guide with 2026 Dates"
+title: "Full Moon Party Koh Phangan 2026 — Dates & Tips"
 slug: "full-moon-party-koh-phangan-guide-2026"
 date: "2026-02-28"
 author:

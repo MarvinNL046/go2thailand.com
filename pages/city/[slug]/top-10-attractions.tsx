@@ -96,7 +96,7 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
   return (
     <>
       <SEOHead
-        title={`${attractionsData.title} 2026 — ${city.name.en}`}
+        title={attractionsData.title}
         description={attractionsData.meta_description}
       >
         <meta name="keywords" content={`${city.name.en} attractions, Thailand tourism, ${city.name.en} sightseeing, things to do, tourist attractions`} />

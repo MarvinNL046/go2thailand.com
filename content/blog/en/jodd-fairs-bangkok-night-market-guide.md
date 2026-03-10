@@ -1,5 +1,5 @@
 ---
-title: "Jodd Fairs Bangkok 2026: Complete Night Market Guide (New Location)"
+title: "Jodd Fairs Bangkok — Night Market Guide & Tips 2026"
 slug: "jodd-fairs-bangkok-night-market-guide"
 date: "2026-02-21"
 author:
@@ -7,10 +7,10 @@ author:
 category: "food"
 tags: ["night markets", "Bangkok food", "street food", "shopping", "local experiences"]
 image: "/images/blog/jodd-fairs-bangkok-night-market-guide.webp"
-description: "Jodd Fairs moved to Ratchada in 2025. Free entry, 1,500+ stalls, open 17:00-01:00 daily. MRT Thailand Cultural Centre Exit 3. Street food from 40 THB, insider tips & what to expect."
+description: "Jodd Fairs Ratchada (2026): 700+ stalls next to Big C, open 17:00-01:00 daily. 3-min walk from MRT Thailand Cultural Centre Exit 4. Leng Zabb volcano ribs from 180 THB, moo ping 10 THB/stick & more."
 featured: false
 readingTime: 9
-lastUpdated: "2026-03-03"
+lastUpdated: "2026-03-10"
 sources:
   - name: "Tourism Authority of Thailand"
     url: "https://www.tourismthailand.org/Attraction/jodd-fairs"
@@ -21,14 +21,14 @@ sources:
   - name: "Bangkok Post"
     url: "https://www.bangkokpost.com/"
 ---
-Picture this: it's 7 PM on a Friday night in **Jodd Fairs Bangkok**, and the air is thick with the aroma of sizzling pad thai, grilled seafood, and fresh mango. Over 1,500 vendors line narrow aisles packed with everything from vintage clothing to handmade jewelry, while locals and tourists weave between stalls clutching paper bags of street food. This is one of [Bangkok](https://go2-thailand.com/city/bangkok/)'s most authentic night markets—and it's nothing like the tourist-trap versions you'll find elsewhere.
+Picture this: it's 7 PM on a Friday night in **Jodd Fairs Bangkok**, and the air is thick with the aroma of sizzling pad thai, grilled seafood, and fresh mango. Over 700 vendors line narrow aisles packed with everything from vintage clothing to handmade jewelry, while locals and tourists weave between stalls clutching paper bags of street food. Live music drifts through the evening air as you follow the smoke to the famous Leng Zabb volcano ribs stall. This is one of [Bangkok](https://go2-thailand.com/city/bangkok/)'s most authentic night markets—and it's nothing like the tourist-trap versions you'll find elsewhere.
 
 <div style="background:#FEE2E2;border-left:4px solid #DC2626;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:12px;">
     <span style="font-size:28px;line-height:1;">&#9888;&#65039;</span>
     <div style="flex:1;">
-      <strong style="font-size:18px;color:#991B1B;display:block;margin-bottom:6px;">Update March 2026: Jodd Fairs DanNeramit Has Permanently Closed</strong>
-      <p style="color:#7F1D1D;margin:0;font-size:15px;line-height:1.5;">Jodd Fairs DanNeramit (Phahonyothin Road, near BTS Ha Yaek Lat Phrao) <strong>permanently closed in January 2025</strong>. The site is boarded up and no longer operational. The main Jodd Fairs night market is now at its <strong>Ratchada location</strong> on Ratchadapisek Road, easily accessible via MRT Thailand Cultural Centre (Exit 3). All information in this guide has been updated to reflect the current Ratchada location.</p>
+      <strong style="font-size:18px;color:#991B1B;display:block;margin-bottom:6px;">Update March 2026: Only the Ratchada Location Remains Open</strong>
+      <p style="color:#7F1D1D;margin:0;font-size:15px;line-height:1.5;">The original <strong>Jodd Fairs Rama 9 closed in January 2025</strong>, and Jodd Fairs DanNeramit (Phahonyothin Road) has also permanently closed. All operations are now consolidated at the <strong>Jodd Fairs Ratchada</strong> location, next to Big C supermarket on Ratchadapisek Road. It's a 3-minute walk from <strong>Exit 4 of Thailand Cultural Centre MRT Station</strong> (Blue Line). All information in this guide reflects the current Ratchada location.</p>
     </div>
   </div>
 </div>
@@ -37,12 +37,12 @@ Picture this: it's 7 PM on a Friday night in **Jodd Fairs Bangkok**, and the air
 
 | Question | Answer |
 |----------|--------|
-| **Where is Jodd Fairs now?** | 129 Ratchadapisek Road, Din Daeng, Bangkok 10400 (DanNeramit location is closed) |
-| **What are the opening hours?** | Daily 17:00–01:00 (5 PM – 1 AM); evenings (7–10 PM) are most lively |
-| **How much does it cost?** | Free entry; food from 40 THB, meals 50–600 THB, shopping 50–500+ THB |
-| **How do I get there?** | MRT Blue Line to Thailand Cultural Centre Station, Exit 3 |
-| **Is it safe?** | Very safe; 1,500+ stalls, well-lit; standard Bangkok precautions apply |
-| **Payment?** | Mostly cash only; bring small bills. Some vendors accept PromptPay |
+| **Where is Jodd Fairs now?** | Ratchadapisek Road, next to Big C supermarket, Din Daeng, Bangkok (Rama 9 & DanNeramit locations are closed) |
+| **What are the opening hours?** | Daily 17:00–01:00 (5 PM – 1 AM); best atmosphere 7–9 PM |
+| **How much does it cost?** | Free entry; moo ping from 10 THB, volcano ribs from 180 THB, meals 50–400 THB |
+| **How do I get there?** | MRT Blue Line to Thailand Cultural Centre Station, Exit 4 — 3-min walk |
+| **Is it safe?** | Very safe; 700+ stalls, well-lit; standard Bangkok precautions apply |
+| **Payment?** | Cash recommended — ~70% of stalls are cash-only. Bring small notes (20, 50, 100 THB) |
 | **What should I book in advance?** | No reservations needed; arrive by 18:00 for best food stall selection |
 | **What's the vibe?** | Local, casual, less touristy than Chatuchak; authentic Bangkok [experience](https://getyourguide.tpo.lv/GuAFfGGK) |
 
@@ -50,9 +50,9 @@ Picture this: it's 7 PM on a Friday night in **Jodd Fairs Bangkok**, and the air
 
 ## 1. What Makes Jodd Fairs Different From Other Bangkok Night Markets
 
-When we first visited **Jodd Fairs**, we were struck by how refreshingly *local* it felt compared to the heavily touristed markets. Unlike [Chatuchak Market](https://go2-thailand.com/blog/chatuchak-market-bangkok-guide/), which sprawls across 27 acres and draws massive crowds, Jodd Fairs is a sprawling collection of over 1,500 vendors on Ratchadapisek Road in the Din Daeng district that caters to Bangkok residents first and tourists second.
+When we first visited **Jodd Fairs**, we were struck by how refreshingly *local* it felt compared to the heavily touristed markets. Unlike [Chatuchak Market](https://go2-thailand.com/blog/chatuchak-market-bangkok-guide/), which sprawls across 27 acres and draws massive crowds, Jodd Fairs Ratchada is a vibrant collection of over 700 stalls next to Big C supermarket on Ratchadapisek Road in the Din Daeng district, catering to Bangkok residents first and tourists second. After the original Jodd Fairs Rama 9 closed in January 2025, all operations consolidated here at the Ratchada location.
 
-The market operates daily from 17:00 to 01:00 (5 PM to 1 AM), making it a true night market with consistent hours every day of the week. It's not seasonal or weekend-only. This reliability, combined with its massive scale and authentic atmosphere, means you can plan a visit around your schedule and always find something to eat and explore.
+The market operates daily from 5:00 PM to 1:00 AM, making it a true night market with consistent hours every day of the week. It's not seasonal or weekend-only. This reliability, combined with its scale, live music in the evenings, and authentic atmosphere, means you can plan a visit around your schedule and always find something to eat and explore.
 
 ### The Vibe: Authentic Bangkok Without the Tourist Circus
 
@@ -60,9 +60,9 @@ Jodd Fairs deliberately keeps things intimate. The vendors here aren't primarily
 
 ### Why Location Matters
 
-Situated at 129 Ratchadapisek Road in Din Daeng, Jodd Fairs sits in a commercial neighborhood, not in the tourist corridor. This means lower prices, fewer touts, and a genuine community atmosphere. The MRT Blue Line access via Thailand Cultural Centre Station (Exit 3) makes it accessible without requiring a taxi or tuk-tuk negotiation.
+Situated on Ratchadapisek Road next to Big C supermarket in Din Daeng, Jodd Fairs sits in a commercial neighborhood, not in the tourist corridor. This means lower prices, fewer touts, and a genuine community atmosphere. The MRT Blue Line access via Thailand Cultural Centre Station (Exit 4, just a 3-minute walk) makes it accessible without requiring a taxi or tuk-tuk negotiation. If you're looking for a nearby alternative, The One Ratchada night market is about a 20-minute walk away.
 
-> **Did You Know?** Bangkok has over 15,000 street food vendors, but only a handful of organized night markets like Jodd Fairs that combine shopping, dining, and entertainment in one regulated space.
+> **Did You Know?** Bangkok has over 15,000 street food vendors, but only a handful of organized night markets like Jodd Fairs (with its 700+ stalls) that combine shopping, dining, and live entertainment in one regulated space.
 >
 > *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
 
@@ -70,7 +70,7 @@ Situated at 129 Ratchadapisek Road in Din Daeng, Jodd Fairs sits in a commercial
 
 ## 2. Getting There: Transport & Navigation
 
-The most stress-free way to reach **Jodd Fairs** is via the MRT Blue Line. From anywhere in central [Bangkok](https://go2-thailand.com/city/bangkok/), head to the nearest BTS or MRT station and transfer to the Blue Line. Exit at Thailand Cultural Centre Station, take **Exit 3**, and you'll find the market entrance within a 5-minute walk.
+The most stress-free way to reach **Jodd Fairs** is via the MRT Blue Line. From anywhere in central [Bangkok](https://go2-thailand.com/city/bangkok/), head to the nearest BTS or MRT station and transfer to the Blue Line. Exit at Thailand Cultural Centre Station, take **Exit 4**, and you'll find the market entrance within a 3-minute walk — it's right next to the Big C supermarket on Ratchada.
 
 ### MRT Blue Line Route
 
@@ -105,7 +105,7 @@ Taxis and Grab (Thailand's Uber equivalent) are viable if you're traveling in a 
 
 ### Parking & Accessibility
 
-If you're renting a car (not recommended for first-time Bangkok visitors), Jodd Fairs has parking available. However, the market's location near Thailand Cultural Centre Station (Exit 3) makes private transport unnecessary. The area is well-lit and pedestrian-friendly once you exit the MRT.
+If you're renting a car (not recommended for first-time Bangkok visitors), Jodd Fairs has parking available. However, the market's location near Thailand Cultural Centre Station (Exit 4) makes private transport unnecessary. The area is well-lit and pedestrian-friendly once you exit the MRT.
 
 ---
 
@@ -135,7 +135,7 @@ If you're renting a car (not recommended for first-time Bangkok visitors), Jodd 
 
 
 - **Early evening (5–7 PM):** Vendors are setting up and starting to cook; quietest period, ideal for photography and getting first picks
-- **Prime time (7–10 PM):** Sweet spot—busy enough to feel alive, food stalls in full swing, best atmosphere
+- **Prime time (7–9 PM):** The sweet spot for the best atmosphere—busy enough to feel alive, food stalls in full swing, live music playing. This is when Jodd Fairs is at its most electric
 - **Weekends (all evening):** Peak tourist and local traffic; arrive by 17:00 or after 10 PM to avoid the worst crowds
 - **Late night (10 PM–1 AM):** Some food stalls start winding down, but many stay open; great for a more relaxed experience
 
@@ -159,19 +159,21 @@ Bangkok's weather doesn't significantly impact Jodd Fairs since much of it is co
 
 ## 4. Food at Jodd Fairs: A Street Food Masterclass
 
-This is where **Jodd Fairs** truly shines. With over 1,500 stalls, the food vendors here represent the best of Bangkok's street food culture—and prices are genuinely local, not inflated for tourists. You'll find everything from classic [pad thai](https://go2-thailand.com/food/pad-thai/) to Jodd Fairs' famous signature dishes, regional specialties, fresh fruit juices, and desserts that would make you weep.
+This is where **Jodd Fairs** truly shines. With over 700 stalls, the food vendors here represent the best of Bangkok's street food culture—and prices are genuinely local, not inflated for tourists. You'll find everything from classic [pad thai](https://go2-thailand.com/food/pad-thai/) to Jodd Fairs' famous signature dishes, regional specialties, fresh fruit juices, and desserts that would make you weep.
 
 ### Signature Dishes You Can't Miss
 
-**Giant Volcanic Ribs:** The most Instagrammed dish at Jodd Fairs — massive pork ribs grilled over open flames. The portions are enormous and meant for sharing. Expect to pay 300–600 THB depending on size. Look for the stall with the biggest crowd and visible fire.
+**Leng Zabb (Volcano Ribs):** The single most iconic dish at Jodd Fairs — and for good reason. Leng Zabb serves massive pork ribs slow-cooked with a fiery blend of spicy herbs, then presented dramatically on a sizzling plate. The flavour is intense: tender meat falling off the bone with a lingering chili heat. Sizes and prices: **Medium 180 THB, Large 250 THB, XL 350 THB**. Look for the stall with the biggest crowd and the unmistakable smoke — you'll smell it before you see it. Come early (before 8 PM) or prepare to queue.
 
-**Mookata (Thai BBQ):** Sit-down mookata stalls let you grill your own meat and seafood on a dome-shaped hot plate while broth simmers around the edges. A full set runs 250–400 THB per person, and it's a social experience worth the time.
+**Moo Ping (Grilled Pork Skewers):** One of Thailand's greatest street food staples, and Jodd Fairs has some of the best. Marinated pork strips are grilled over charcoal until caramelised and slightly smoky. At just **10–15 THB per stick**, this is the perfect walking-around snack. Buy 5–10 sticks and pair them with sticky rice.
+
+**Mookata (Thai BBQ):** Sit-down mookata stalls let you grill your own meat and seafood on a dome-shaped hot plate while broth simmers around the edges. A full set runs **250–400 THB** per person, and it's a social experience worth the time.
 
 ### Classic Street Food
 
 **Pad Thai & Stir-Fries:** Multiple vendors serve excellent pad thai (50–80 THB), pad see ew (dark soy noodles), and pad krapow (holy basil stir-fry). Look for the stalls with visible wok action and lines of locals—that's your sign of quality.
 
-**Grilled Seafood & Meat:** Skewers of grilled fish, shrimp, and chicken are cooked fresh over charcoal. Prices run 10–30 THB per skewer. The vendor near the central aisle (identifiable by the large charcoal grill) is particularly popular.
+**Grilled Seafood Skewers:** Skewers of grilled shrimp, squid, and fish are cooked fresh over charcoal. Prices run **100–200 THB** per portion depending on the seafood type. The prawn skewers are especially popular.
 
 **Som Tam & Larb:** If you want regional [Isaan](https://go2-thailand.com/region/isaan/) cuisine, several vendors prepare fresh [som tam](https://go2-thailand.com/food/som-tam/) (papaya salad) and [larb](https://go2-thailand.com/food/larb/) (minced meat salad) to order. Expect 60–80 THB per dish.
 
@@ -179,29 +181,32 @@ This is where **Jodd Fairs** truly shines. With over 1,500 stalls, the food vend
 
 ### Beverages & Desserts
 
-**Fresh Fruit Juice:** Freshly squeezed orange, watermelon, coconut, and mixed fruit juices are everywhere. Prices: 40–80 THB.
+**Fresh Fruit Juice:** Freshly squeezed orange, watermelon, coconut, and mixed fruit juices are everywhere. Prices: **40–80 THB**. The avocado milkshake is a popular pick at **65–85 THB** — creamy, filling, and perfect for the Bangkok heat.
 
 **Beer:** Several stalls and seating areas serve Thai and imported beer. Budget 60–100 THB per bottle/can.
 
 **Thai Iced Tea & Coffee:** The iconic [Thai iced tea](https://go2-thailand.com/drinks/thai-iced-tea/) (cha yen) and [Thai iced coffee](https://go2-thailand.com/drinks/thai-iced-coffee/) (oliang) are available at multiple stalls. Cost: 25–40 THB.
 
-**Desserts:** [Mango sticky rice](https://go2-thailand.com/food/mango-sticky-rice/) (seasonal), coconut ice cream, and Thai custard desserts are available. Budget 40–80 THB.
+**[Mango Sticky Rice](https://go2-thailand.com/food/mango-sticky-rice/):** A Thai classic, available from **60 THB** (seasonal, best during mango season March–June). Multiple vendors compete, so quality is consistently high.
 
-| Dish | Best For | Cost | Vendor Type |
+**Elephant-Shaped Waffles:** A Jodd Fairs novelty — cute, crispy waffles shaped like elephants with various fillings and toppings. Great for photos and snacking. Prices: **50–100 THB**.
+
+| Dish | Best For | Verified Price (2026) | What to Look For |
 |------|----------|------|-------------|
-| **Giant Volcanic Ribs** | Sharing, Instagram-worthy | 300–600 THB | Grill stall |
-| **Mookata (Thai BBQ)** | Social dining experience | 250–400 THB/person | Sit-down stall |
-| **Pad Thai** | Quick, satisfying meal | 50–80 THB | Wok stall |
-| **Som Tam** | Vegetarian/light option | 60–80 THB | Dedicated Isaan vendor |
-| **Fresh Fruit Juice** | Refreshment | 40–80 THB | Beverage stall |
-| **Beer** | Relaxing with food | 60–100 THB | Drink stalls |
-| **Mango Sticky Rice** | Dessert (seasonal) | 50–70 THB | Dessert vendor |
+| **Leng Zabb Volcano Ribs** | Sharing, signature dish | M 180 / L 250 / XL 350 THB | Biggest queue, visible smoke |
+| **Moo Ping (Pork Skewers)** | Walking-around snack | 10–15 THB per stick | Charcoal grill stalls |
+| **Mookata (Thai BBQ)** | Social dining experience | 250–400 THB/person | Sit-down stalls with dome grills |
+| **Grilled Seafood Skewers** | Seafood lovers | 100–200 THB | Fresh display on ice |
+| **Pad Thai** | Quick, satisfying meal | 50–80 THB | Wok stalls with lines of locals |
+| **Fresh Fruit Juice** | Refreshment | 40–80 THB | Avocado milkshake 65–85 THB |
+| **Mango Sticky Rice** | Dessert (seasonal) | from 60 THB | Multiple vendors, all solid |
+| **Elephant Waffles** | Fun snack, photo-worthy | 50–100 THB | Novelty dessert stalls |
 
 ### How to Order Like a Local
 
 Thai vendors at Jodd Fairs expect you to point, gesture, and use basic Thai numbers. Most don't speak English, but they're patient. Here's the essential phrase: **"Nit noi pet" (a little spicy)** or **"Mai pet" (not spicy)**. If you want to try something without committing, ask **"Chop chop?" (just a taste?)**—vendors are usually happy to oblige.
 
-Payment is mostly cash only. A few vendors accept PromptPay (Thailand's mobile payment system), but don't count on it. Bring small bills (20, 50, 100 THB notes); vendors may not have change for 500 or 1,000 THB notes.
+**Cash is king at Jodd Fairs — roughly 70% of stalls are cash-only.** A few vendors accept PromptPay (Thailand's mobile payment system), but don't count on it. Bring plenty of small notes (20, 50, 100 THB); vendors frequently struggle with change for 500 or 1,000 THB notes. Hit an ATM or exchange before you arrive — there's a Big C supermarket right next door if you need a last-minute cash withdrawal.
 
 <div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -300,7 +305,7 @@ Afternoon downpours are common, but Jodd Fairs' covered areas mean you can still
 
 ### Practical Essentials
 
-**Cash:** Bring 500–1,000 THB for a comfortable evening. Most food and shopping stalls are cash-only, though some accept mobile payments.
+**Cash:** Bring 500–1,000 THB in small notes for a comfortable evening. About 70% of stalls are cash-only. The Big C next door has ATMs if you need a top-up.
 
 **Footwear:** Wear comfortable walking shoes. The market is compact, but you'll be on your feet for 2–3 hours.
 
@@ -375,7 +380,7 @@ Food vendors hit their stride and the aroma fills the air. Office workers start 
 
 ### 19:00 – 21:00 (Prime Time)
 
-The market comes fully alive. This is our favorite window. Families, couples, and groups fill the aisles. Food stalls are in full swing, with lines forming at the most popular spots like the Giant Volcanic Ribs. The atmosphere is electric. Expect 80–90% capacity.
+The market comes fully alive. This is our favorite window — and the 7–9 PM stretch is when Jodd Fairs is at its absolute best. Families, couples, and groups fill the aisles. Food stalls are in full swing, with lines forming at Leng Zabb (the famous volcano ribs stall) and the moo ping vendors. Live music adds to the atmosphere. Expect 80–90% capacity.
 
 ### 21:00 – 23:00 (Peak Social Hours)
 
@@ -428,7 +433,7 @@ Absolutely. The market is well-lit, busy, and frequented by solo visitors. Stand
 
 ### Can I use credit cards or mobile payment?
 
-Most food stalls are cash-only, though some accept Promptpay (Thailand's mobile payment system). A few clothing vendors accept cards. Bring 500–1,000 THB in cash to be safe.
+Around 70% of stalls are cash-only, so cash is strongly recommended. Some vendors accept PromptPay (Thailand's mobile payment system), and a few clothing vendors accept cards, but don't rely on it. Bring 500–1,000 THB in small notes. The Big C supermarket next to the market has ATMs.
 
 ### What's the best food to try if I'm vegetarian?
 
@@ -444,9 +449,9 @@ No. Jodd Fairs is free to enter. You only pay for food and shopping.
 
 ### What's the best way to get to Jodd Fairs from major tourist areas?
 
-From Silom: Take BTS to Sala Daeng, transfer to MRT Blue Line at Si Lom Station, exit at Thailand Cultural Centre, Exit 3 (20 minutes, 42 THB).
+From Silom: Take BTS to Sala Daeng, transfer to MRT Blue Line at Si Lom Station, exit at Thailand Cultural Centre, Exit 4 (20 minutes, 42 THB).
 
-From Sukhumvit: Take BTS to Asok, transfer to MRT Blue Line at Sukhumvit Station, exit at Thailand Cultural Centre, Exit 3 (12 minutes, 42 THB).
+From Sukhumvit: Take BTS to Asok, transfer to MRT Blue Line at Sukhumvit Station, exit at Thailand Cultural Centre, Exit 4 (12 minutes, 42 THB).
 
 From Khao San Road: Take a taxi or Grab (80–120 THB) or use BTS/MRT (requires multiple transfers, 30+ minutes).
 
@@ -460,12 +465,12 @@ From Don Mueang Airport: Bus A1/A2 to Mo Chit BTS, transfer to MRT at Chatuchak 
 
 **Jodd Fairs Bangkok** is the night market experience that locals actually enjoy—and that's precisely why visitors should too. It's a masterclass in authentic Bangkok: genuine food, curated shopping, manageable crowds, and zero pretense. Unlike the tourist-focused markets that dominate guidebooks, Jodd Fairs prioritizes community and quality over volume.
 
-Whether you're a first-time visitor seeking real Bangkok or a repeat traveler tired of the usual tourist circuit, Jodd Fairs at its Ratchada location delivers. Arrive on a weekday evening, try the famous Giant Volcanic Ribs, browse handmade goods, and sip a cold beer while watching the city's energy unfold around you. This is Thailand as it actually exists—not the postcard version, but the real thing.
+Whether you're a first-time visitor seeking real Bangkok or a repeat traveler tired of the usual tourist circuit, Jodd Fairs at its Ratchada location delivers. Arrive on a weekday evening, queue up for Leng Zabb's legendary volcano ribs (from 180 THB), grab a handful of moo ping skewers, browse handmade goods, and sip a cold beer while live music plays and the city's energy unfolds around you. This is Thailand as it actually exists—not the postcard version, but the real thing.
 
 For more authentic Bangkok experiences, explore our [Bangkok food guide](https://go2-thailand.com/city/bangkok/food/) or check out our [best night markets in Bangkok 2026](https://go2-thailand.com/blog/best-night-markets-bangkok-2026/) for additional options.
 
-**Ready to experience Jodd Fairs?** Book your accommodation in central Bangkok, grab your MRT card, and head to Thailand Cultural Centre Station (Exit 3). You'll understand why locals keep coming back.
+**Ready to experience Jodd Fairs?** Book your accommodation in central Bangkok, grab your MRT card, and head to Thailand Cultural Centre Station (Exit 4). You'll understand why locals keep coming back.
 
 ---
 
-*The Go2Thailand team has explored Bangkok's markets, street food, and neighborhoods extensively. This guide reflects our genuine experiences and current conditions as of March 2026. Note: Jodd Fairs DanNeramit (Phahonyothin Road) has permanently closed as of January 2025. All information in this guide refers to the Ratchada location at 129 Ratchadapisek Road. Prices and hours are subject to change; verify before visiting.*
+*The Go2Thailand team has explored Bangkok's markets, street food, and neighborhoods extensively. This guide reflects our genuine experiences and current conditions as of March 2026. Note: Both the original Jodd Fairs Rama 9 and Jodd Fairs DanNeramit (Phahonyothin Road) have permanently closed as of January 2025. All operations are consolidated at the Ratchada location next to Big C supermarket, a 3-minute walk from MRT Thailand Cultural Centre Exit 4. Prices and hours are subject to change; verify before visiting.*

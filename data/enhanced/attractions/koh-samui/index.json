@@ -241,7 +241,17 @@
         "Observation walks",
         "Educational tours"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Samui%20Elephant%20Sanctuary%20Koh%20Samui%20Thailand"
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Samui%20Elephant%20Sanctuary%20Koh%20Samui%20Thailand",
+      "seo": {
+        "metaTitle": {
+          "en": "Samui Elephant Sanctuary — Ethical Experience",
+          "nl": "Samui Olifanten Opvangcentrum — Ethische Olifant Ervaring Koh Samui"
+        },
+        "metaDescription": {
+          "en": "Visit Samui Elephant Sanctuary for an ethical elephant experience in Koh Samui. Feed, bathe & walk with rescued elephants. Prices, booking tips & reviews.",
+          "nl": "Bezoek het Samui Olifanten Opvangcentrum voor een ethische olifant ervaring op Koh Samui."
+        }
+      }
     }
   ]
 }

@@ -109,7 +109,7 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
   return (
     <>
       <SEOHead
-        title={`${hotelsData.title} 2026 — ${city.name.en}`}
+        title={hotelsData.title}
         description={hotelsData.meta_description}
       >
         <meta name="keywords" content={`${city.name.en} hotels, Thailand accommodation, ${city.name.en} resorts, hotel booking, where to stay`} />
