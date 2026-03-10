@@ -339,6 +339,94 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Larb ist das Nationalgericht von Laos und Nordostthailand — ein Fleischsalat, der eigentlich eher einer dekonstruierten Wurst ähnelt. Dieser würzige, kräuterreiche ‚Salat' kombiniert geröstetes Reispulver, frische Kräuter und Limettensaft mit Hackfleisch und erzeugt eine Explosion aus Texturen und Aromen. Er wird mit Klebreis und rohem Gemüse gegessen und verkörpert die Isaan-Art zu essen: gemeinschaftlich, ausgewogen und mutig gewürzt.",
+      "detailed_ingredients": [
+        {
+          "name": "Geröstetes Reispulver (Khao Khua)",
+          "purpose": "Verleiht einen nussigen Geschmack und einzigartige körnige Textur — das Kennzeichen des Gerichts",
+          "substitutes": [
+            "Reis selbst rösten",
+            "Zerkleinerte Reiswaffeln",
+            "Geröstete Quinoaflocken"
+          ]
+        },
+        {
+          "name": "Frische Minze",
+          "purpose": "Sorgt für einen kühlenden Kontrast zum Fleisch und der Schärfe",
+          "substitutes": [
+            "Thai-Basilikum",
+            "Koriander",
+            "Shiso-Blätter"
+          ]
+        },
+        {
+          "name": "Schalotten",
+          "purpose": "Verleiht einen scharfen, süßen Biss",
+          "substitutes": [
+            "Rote Zwiebel",
+            "Frühlingszwiebeln",
+            "Lauch (fein geschnitten)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Schnelles Kochen und frisches Mischen",
+        "steps_overview": "Das Fleisch wird schnell gegart (oder bei traditionellen Versionen roh gelassen) und dann sofort warm mit Kräutern und Gewürzen vermischt. Die Restwärme lässt die Kräuter leicht welken und setzt ihre ätherischen Öle frei. Alles wird kurz vor dem Servieren zusammengemischt.",
+        "cooking_tips": [
+          "Das Fleisch nicht zu lange kochen — es gart beim Mischen weiter",
+          "Reis goldbraun und duftend rösten",
+          "Kräuter erst im letzten Moment hinzufügen, um die Frische zu bewahren",
+          "Abschmecken und anpassen — es sollte sauer, scharf und salzig sein",
+          "Sofort servieren — das Gericht hält sich nicht gut"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ein uraltes laotisches Gericht, das älter ist als die geschriebene Geschichte. Ursprünglich mit rohem Fleisch und Blut zubereitet, war es ein zeremonielles Gericht für besondere Anlässe. Das Wort ‚Larb' bedeutet ‚Glück' auf Laotisch.",
+        "cultural_importance": "Larb wird bei jeder wichtigen Isaan-Zeremonie serviert — Geburten, Todesfälle, Hochzeiten und Neujahr. Es steht für Gemeinschaft und Teilen und wird immer mit Klebreis gegessen, der zu Kugeln gerollt wird.",
+        "traditional_occasions": [
+          "Baci-Zeremonien",
+          "Tempelfeste",
+          "Neujahrsfeiern",
+          "Willkommensfeste für Ehrengäste"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Larb Dip",
+          "description": "Rohes Rindfleisch mit Blut — traditioneller Isaan-Stil"
+        },
+        {
+          "name": "Larb Pla",
+          "description": "Fischversion, beliebt entlang des Mekong"
+        },
+        {
+          "name": "Larb Moo",
+          "description": "Gekochte Schweinefleischversion — am häufigsten und am sichersten"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Klebreis",
+          "Frisches Gemüse"
+        ],
+        "presentation": "Warm serviert im traditionellen thailändischen Stil",
+        "eating_etiquette": "Wird mit Klebreis gegessen, der mit den Fingern zu Kugeln gerollt wird"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Jay So (Bangkok) — Authentische Isaan-Aromen",
+          "Larb Loi (Bangkok) — Spezialisiertes Larb-Restaurant",
+          "Jedes Isaan-Restaurant, in dem Mor Lam-Musik spielt"
+        ],
+        "street_food_areas": [
+          "Huai Khwang Night Market",
+          "JJ Green Night Market",
+          "Saphan Phut Night Market"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
