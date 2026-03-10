@@ -267,6 +267,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Moo Hong est un plat principal copieux et savoureux apprécié du sud de la Thaïlande, avec une chaleur subtile. De la poitrine de porc braisée dans une sauce soja sucrée à la mode de Phuket. Cette recette de difficulté moyenne nécessite environ 90 minutes de préparation et représente les saveurs authentiques de la cuisine du sud de la Thaïlande, caractérisée par des épices intenses, des fruits de mer et des currys à base de coco. La combinaison de poitrine de porc, de sauce soja et de sucre de palme crée un mélange harmonieux qui a fait de ce plat un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à prix raisonnable.",
+      "detailed_ingredients": [
+        {
+          "name": "Poitrine de porc",
+          "purpose": "Essentiel pour la saveur authentique du Moo Hong",
+          "substitutes": [
+            "Poitrine de porc fraîche",
+            "Poitrine de porc séchée",
+            "Épaule de porc"
+          ]
+        },
+        {
+          "name": "Sauce soja",
+          "purpose": "Essentiel pour la saveur authentique du Moo Hong",
+          "substitutes": [
+            "Sauce soja claire",
+            "Sauce soja foncée",
+            "Kecap manis"
+          ]
+        },
+        {
+          "name": "Sucre de palme",
+          "purpose": "Essentiel pour la saveur authentique du Moo Hong",
+          "substitutes": [
+            "Sucre de palme frais",
+            "Sucre de coco",
+            "Sucre brun"
+          ]
+        },
+        {
+          "name": "Ail",
+          "purpose": "Essentiel pour la saveur authentique du Moo Hong",
+          "substitutes": [
+            "Ail frais",
+            "Ail séché",
+            "Pâte d'ail"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Braisage lent",
+        "steps_overview": "La préparation du Moo Hong nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez de la poitrine de porc fraîche pour un meilleur résultat",
+          "Ajustez le niveau de piquant selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Moo Hong est un pilier de la cuisine du sud de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce plat représente le cœur de la cuisine du sud de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Hong Classique",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Moo Hong Moderne",
+          "description": "Version contemporaine avec des ingrédients premium"
+        },
+        {
+          "name": "Moo Hong Végétarien",
+          "description": "Version végétale avec du tofu ou des champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais",
+          "Herbes thaïlandaises"
+        ],
+        "presentation": "Servi sur une assiette dans le style traditionnel du sud de la Thaïlande",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère selon la coutume thaïlandaise"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Restaurants locaux du sud de la Thaïlande",
+          "Stands de cuisine de rue authentiques",
+          "Marchés traditionnels",
+          "Restaurants familiaux"
+        ],
+        "street_food_areas": [
+          "Marchés de nuit",
+          "Marchés frais du matin",
+          "Food courts locaux"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
