@@ -171,5 +171,105 @@
       "market_stall": "60-100 THB",
       "restaurant": "100-200 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Pla Pao is een geliefd stevig en smaakvol hoofdgerecht uit Centraal-Thailand met een subtiele warmte. Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 40 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoete, zure, zoute en pittige smaken perfect in balans brengt. De combinatie van hele vis, grof zout en citroengras creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Hele vis",
+          "purpose": "Essentieel voor de authentieke Pla Pao smaak",
+          "substitutes": [
+            "Verse hele vis",
+            "Tilapia",
+            "Zeebaars"
+          ]
+        },
+        {
+          "name": "Grof zout",
+          "purpose": "Essentieel voor de authentieke Pla Pao smaak",
+          "substitutes": [
+            "Zeezout",
+            "Steenzout",
+            "Himalayazout"
+          ]
+        },
+        {
+          "name": "Citroengras",
+          "purpose": "Essentieel voor de authentieke Pla Pao smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "Limoenbladeren",
+          "purpose": "Essentieel voor de authentieke Pla Pao smaak",
+          "substitutes": [
+            "Verse limoenbladeren",
+            "Gedroogde limoenbladeren",
+            "Limoenrasp"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillen in zoutkorst",
+        "steps_overview": "Het bereiden van Pla Pao vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse hele vis voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pla Pao is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pla Pao Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Pla Pao Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Pla Pao",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Centraal-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }
