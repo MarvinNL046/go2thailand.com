@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 582
+    "completed": 583
   },
   "queue": [
     {
@@ -4672,7 +4672,8 @@
       "type": "top10",
       "file": "data/top10/chiang-khan-restaurants.json",
       "locale": "zh",
-      "status": "pending",
+      "status": "completed",
+      "completedAt": "2026-03-10T00:00:00.000Z",
       "priority": 12
     },
     {
