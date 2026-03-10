@@ -162,5 +162,95 @@
     }
   },
   "enhanced_at": "2025-05-25T21:52:46.386Z",
-  "ai_generated": false
+  "ai_generated": false,
+  "translations": {
+    "nl": {
+      "enhanced_description": "Larb is het nationale gerecht van Laos en Noordoost-Thailand — een vleessalade die eigenlijk meer lijkt op gedeconstructeerde worst. Deze pittige, kruidenrijke 'salade' combineert geroosterd rijstpoeder, verse kruiden en limoensap met gehakt vlees, wat een explosie van texturen en smaken oplevert. Het wordt gegeten met kleefrijst en rauwe groenten, en belichaamt de Isaan-manier van eten: gemeenschappelijk, gebalanceerd en gedurfd gekruid.",
+      "detailed_ingredients": [
+        {
+          "name": "Geroosterd rijstpoeder (Khao Khua)",
+          "purpose": "Voegt een nootachtige smaak en unieke korrelachtige textuur toe — het kenmerkende element",
+          "substitutes": [
+            "Zelf rijst roosteren",
+            "Gemalen rijstwafels",
+            "Geroosterde quinoavlokken"
+          ]
+        },
+        {
+          "name": "Verse munt",
+          "purpose": "Zorgt voor een verkoelend contrast met het vlees en de pittigheid",
+          "substitutes": [
+            "Thaise basilicum",
+            "Koriander",
+            "Shisoblad"
+          ]
+        },
+        {
+          "name": "Sjalotten",
+          "purpose": "Voegt een scherpe, zoete crunch toe",
+          "substitutes": [
+            "Rode ui",
+            "Lente-uitjes",
+            "Prei (fijngesneden)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Snel koken en vers mengen",
+        "steps_overview": "Het vlees wordt snel gekookt (of rauw gelaten voor traditionele versies), en daarna direct warm gemengd met kruiden en smaakmakers. De restwarmte laat de kruiden iets verwelken, waardoor hun oliën vrijkomen. Alles wordt net voor het serveren samengegooid.",
+        "cooking_tips": [
+          "Kook het vlees niet te gaar — het blijft doorgaren bij het mengen",
+          "Rooster de rijst tot goudbruin en geurig",
+          "Voeg kruiden op het laatste moment toe om de versheid te behouden",
+          "Proef en pas aan — het moet zuur, pittig en zout zijn",
+          "Serveer direct — het bewaart niet goed"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Een oud Laotiaans gerecht dat dateert van vóór de geschreven geschiedenis. Oorspronkelijk gemaakt met rauw vlees en bloed, was het een ceremonieel gerecht voor speciale gelegenheden. Het woord 'larb' betekent 'geluk' in het Laotiaans.",
+        "cultural_importance": "Larb wordt geserveerd bij elke belangrijke Isaan-ceremonie — geboortes, overlijdens, bruiloften en Nieuwjaar. Het vertegenwoordigt gemeenschap en delen, altijd gegeten met kleefrijst die tot balletjes wordt gerold.",
+        "traditional_occasions": [
+          "Baci-ceremonies",
+          "Tempelfestivals",
+          "Nieuwjaarsvieringen",
+          "Welkomstfeesten voor eregasten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Larb Dip",
+          "description": "Rauw rundvleesversie met bloed — traditionele Isaan-stijl"
+        },
+        {
+          "name": "Larb Pla",
+          "description": "Visversie populair langs de Mekong-rivier"
+        },
+        {
+          "name": "Larb Moo",
+          "description": "Gekookte varkensversie — meest voorkomend en veiligst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met kleefrijst die met de vingers wordt gerold"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Jay So (Bangkok) — Authentieke Isaan-smaken",
+          "Larb Loi (Bangkok) — Gespecialiseerd larb-restaurant",
+          "Elk Isaan-restaurant waar mor lam-muziek speelt"
+        ],
+        "street_food_areas": [
+          "Huai Khwang Night Market",
+          "JJ Green Night Market",
+          "Saphan Phut Night Market"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
+  }
 }
