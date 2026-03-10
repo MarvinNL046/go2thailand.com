@@ -251,6 +251,94 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Larb est le plat national du Laos et du nord-est de la Thaïlande — une salade de viande qui ressemble en fait davantage à une saucisse déconstruite. Cette « salade » zestée et herbacée combine de la poudre de riz grillé, des herbes fraîches et du jus de citron vert avec de la viande hachée, créant une explosion de textures et de saveurs. Il se déguste avec du riz gluant et des légumes crus, incarnant la manière de manger de l'Isaan : communautaire, équilibrée et audacieusement assaisonnée.",
+      "detailed_ingredients": [
+        {
+          "name": "Poudre de riz grillé (Khao Khua)",
+          "purpose": "Apporte une saveur de noisette et une texture granuleuse unique — l'élément signature",
+          "substitutes": [
+            "Griller votre propre riz",
+            "Galettes de riz écrasées",
+            "Flocons de quinoa grillés"
+          ]
+        },
+        {
+          "name": "Menthe fraîche",
+          "purpose": "Apporte un contraste rafraîchissant avec la viande et le piquant",
+          "substitutes": [
+            "Basilic thaïlandais",
+            "Coriandre",
+            "Feuilles de shiso"
+          ]
+        },
+        {
+          "name": "Échalotes",
+          "purpose": "Apporte un croquant vif et sucré",
+          "substitutes": [
+            "Oignon rouge",
+            "Oignons verts",
+            "Poireau (finement tranché)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Cuisson rapide et mélange frais",
+        "steps_overview": "La viande est rapidement cuite (ou laissée crue pour les versions traditionnelles), puis immédiatement mélangée chaude avec les herbes et les assaisonnements. La chaleur résiduelle fait légèrement flétrir les herbes, libérant leurs huiles. Le tout est mélangé juste avant de servir.",
+        "cooking_tips": [
+          "Ne faites pas trop cuire la viande — elle continue de cuire au mélange",
+          "Grillez le riz jusqu'à ce qu'il soit doré et parfumé",
+          "Ajoutez les herbes au dernier moment pour préserver leur fraîcheur",
+          "Goûtez et ajustez — ça doit être acide, épicé et salé",
+          "Servez immédiatement — ça ne se conserve pas bien"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Un ancien plat laotien qui précède l'histoire écrite. À l'origine préparé avec de la viande crue et du sang, c'était un plat cérémoniel pour les occasions spéciales. Le mot « larb » signifie « bonne fortune » en laotien.",
+        "cultural_importance": "Le Larb est servi lors de chaque cérémonie importante de l'Isaan — naissances, décès, mariages et Nouvel An. Il représente la communauté et le partage, toujours dégusté avec du riz gluant roulé en boules.",
+        "traditional_occasions": [
+          "Cérémonies Baci",
+          "Festivals des temples",
+          "Célébrations du Nouvel An",
+          "Fêtes de bienvenue pour les invités d'honneur"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Larb Dip",
+          "description": "Version au bœuf cru avec du sang — style traditionnel de l'Isaan"
+        },
+        {
+          "name": "Larb Pla",
+          "description": "Version au poisson populaire le long du Mékong"
+        },
+        {
+          "name": "Larb Moo",
+          "description": "Version au porc cuit — la plus courante et la plus sûre"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz gluant",
+          "Légumes frais"
+        ],
+        "presentation": "Servi chaud dans le style traditionnel thaïlandais",
+        "eating_etiquette": "Dégusté avec du riz gluant roulé en boules avec les doigts"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Jay So (Bangkok) — Saveurs authentiques de l'Isaan",
+          "Larb Loi (Bangkok) — Restaurant spécialisé en larb",
+          "Tout restaurant isaan où la musique mor lam joue"
+        ],
+        "street_food_areas": [
+          "Huai Khwang Night Market",
+          "JJ Green Night Market",
+          "Saphan Phut Night Market"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
