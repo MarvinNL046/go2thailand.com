@@ -360,6 +360,100 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Massaman Curry ist Thailands komplexestes Curry — eine großartige Fusion aus thailändischen und indisch-persischen Aromen, die die Geschichte alter Handelsrouten erzählt. Dieses reichhaltige, milde Curry kombiniert wärmende Gewürze wie Kardamom und Zimt mit thailändischen Zutaten und schafft ein Gericht, das zugleich exotisch und wohltuend ist. CNN kürte es einst zum köstlichsten Gericht der Welt, und ein Bissen erklärt warum.",
+      "detailed_ingredients": [
+        {
+          "name": "Massaman Currypaste",
+          "purpose": "Komplexe Gewürzmischung mit ungewöhnlichen thailändischen Zutaten wie Muskatnuss",
+          "substitutes": [
+            "Fertigprodukt (Marke Maesri empfohlen)",
+            "Indisches Garam Masala mit thailändischen Elementen"
+          ]
+        },
+        {
+          "name": "Ganze Gewürze",
+          "purpose": "Kardamom, Zimt, Sternanis verleihen den persischen Einfluss",
+          "substitutes": [
+            "Gemahlene Versionen (weniger aromatisch)",
+            "Chinesisches Fünf-Gewürze-Pulver"
+          ]
+        },
+        {
+          "name": "Tamarindenpaste",
+          "purpose": "Verleiht die säuerliche Süße, die für das Gericht charakteristisch ist",
+          "substitutes": [
+            "Limettensaft mit Palmzucker",
+            "Worcestershiresauce"
+          ]
+        },
+        {
+          "name": "Erdnüsse",
+          "purpose": "Verleiht Textur und nussige Reichhaltigkeit",
+          "substitutes": [
+            "Cashewnüsse",
+            "Mandeln",
+            "Bei Allergie weglassen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langsames Schmoren und Gewürze rösten",
+        "steps_overview": "Massaman erfordert Geduld — es ist ein langsam gekochtes Curry, bei dem zähes Fleisch zart wird und Gewürze zu einer komplexen Harmonie verschmelzen. Ganze Gewürze werden geröstet, Paste wird angebraten, und alles köchelt sanft über Stunden.",
+        "cooking_tips": [
+          "Ganze Gewürze vor dem Hinzufügen rösten, um die Öle freizusetzen",
+          "Zähe Rindfleischstücke verwenden — sie werden unglaublich zart",
+          "Bei niedriger Hitze langsam kochen — Eile verdirbt alles",
+          "Süß, sauer und salzig während des gesamten Kochvorgangs ausbalancieren",
+          "Über Nacht ruhen lassen — am nächsten Tag noch besser"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kam im 17. Jahrhundert über persisch-indische muslimische Händler nach Thailand. Der Name stammt von ‚Mussulman', einem archaischen Begriff für Muslime. Thailändische Palastköche passten es mit lokalen Zutaten an.",
+        "cultural_importance": "Massaman repräsentiert Thailands Offenheit für ausländische Einflüsse bei gleichzeitiger Bewahrung der thailändischen Identität. Es wird bei diplomatischen Abendessen serviert und steht für die kulinarische Raffinesse Thailands.",
+        "traditional_occasions": [
+          "Eid-Feiern in Südthailand",
+          "Königliche Bankette",
+          "Hochzeitsfeste",
+          "Wichtige Geschäftsessen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Massaman Nuea",
+          "description": "Rindfleischversion — die traditionellste und beliebteste"
+        },
+        {
+          "name": "Massaman Gai",
+          "description": "Hähnchenversion — schneller zubereitet für alltägliche Mahlzeiten"
+        },
+        {
+          "name": "Massaman Lamm",
+          "description": "Luxuriöse Version, beliebt in gehobenen Restaurants"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse"
+        ],
+        "presentation": "Warm serviert im traditionellen thailändischen Stil",
+        "eating_etiquette": "Mit Gabel und Löffel gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Nahm (Bangkok) — Michelin-Stern-Perfektion",
+          "Blue Elephant (Bangkok) — Königliche thailändische Küche",
+          "Muslimische Restaurants an der Charoen Krung Road"
+        ],
+        "street_food_areas": [
+          "Selten als Straßenessen wegen der langen Kochzeit",
+          "Einige Verkäufer am Or Tor Kor Market",
+          "Muslimische Food Center in Bangkok"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
