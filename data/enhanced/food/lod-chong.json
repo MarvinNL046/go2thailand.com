@@ -396,6 +396,109 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Lod Chong (ลอดช่อง) ist eines der ältesten Desserts Thailands, dessen Ursprünge bis zur Herrschaft von König Narai (1672–1688) zurückreichen. Der Name bedeutet wörtlich ‚durch ein Loch gegangen' und bezieht sich auf die traditionelle Methode, bei der mit Pandan angereicherter Reismehlteig durch ein Sieb in kaltes Wasser gepresst wird, wodurch die charakteristischen grünen Geleenudeln entstehen. Diese leuchtend grünen Fäden werden in gesüßter Kokosmilch mit zerstoßenem Eis serviert und ergeben ein erfrischendes Dessert, das bei Straßenverkäufern bereits ab 30 THB erhältlich ist. Eine frühere Form namens ‚Nokploi' war Teil hinduistischer und brahmanischer Essenstraditionen in Südostasien. Lod Chong gehört zum traditionellen thailändischen ‚Vier-Schalen-Dessertset' und hat besondere Bedeutung bei thailändischen Hochzeiten, wo die grüne Farbe Papageien symbolisiert — die für Treue stehen — und das Dessert selbst immerwährende Liebe symbolisiert. Das Gericht ist verwandt mit dem malaysischen/singapurischen Cendol, dem indonesischen Dawet und dem vietnamesischen Banh Lot und bildet eine gemeinsame Desserttradition in ganz Südostasien.",
+      "detailed_ingredients": [
+        {
+          "name": "Reismehl",
+          "purpose": "Bildet die Basis der Geleenudeln und verleiht ihnen ihre zähe Textur",
+          "substitutes": [
+            "Tapiokastärke (für eine weichere Textur)",
+            "Mungbohnenstärke"
+          ]
+        },
+        {
+          "name": "Pandansaft",
+          "purpose": "Verleiht die charakteristische grüne Farbe und das duftende Aroma",
+          "substitutes": [
+            "Pandanextrakt (konzentriert, weniger verwenden)",
+            "Pandanpaste (in asiatischen Lebensmittelgeschäften erhältlich)"
+          ]
+        },
+        {
+          "name": "Kokosmilch",
+          "purpose": "Die süße, cremige Basis, in der die Nudeln serviert werden",
+          "substitutes": [
+            "Kokosmilch aus der Dose (Vollfett bevorzugt)",
+            "Kokoscreme mit Wasser verdünnt"
+          ]
+        },
+        {
+          "name": "Palmzucker",
+          "purpose": "Süßt die Kokosmilch mit einem unverwechselbaren Karamellgeschmack",
+          "substitutes": [
+            "Kokoszucker",
+            "Brauner Zucker (weniger authentisch, funktioniert aber)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Durch ein Sieb in kaltes Wasser pressen",
+        "steps_overview": "Reismehl mit Pandansaft zu einem grünen Teig vermischen und kochen, bis eine dicke Paste entsteht. Den heißen Teig durch ein Sieb oder eine Form mit Löchern in eine Schüssel mit kaltem Wasser pressen — das ist die ‚Lod Chong'-Technik (durch ein Loch gegangen), die dem Dessert seinen Namen gibt. Das kalte Wasser lässt die Geleenudeln in ihrer charakteristischen Form erstarren. Separat gesüßte Kokosmilch mit einer Prise Salz zubereiten. Die grünen Nudeln in der Kokosmilch mit zerstoßenem Eis servieren.",
+        "cooking_tips": [
+          "Frische Pandanblätter verwenden für die leuchtendste grüne Farbe und das beste Aroma",
+          "Das kalte Wasser eiskalt halten (Eis hinzufügen), damit die Nudeln schnell erstarren",
+          "Den Teig gleichmäßig durch das Sieb pressen für einheitliche Nudelgröße",
+          "Eine Prise Salz zur Kokosmilch geben, um die Süße zu verstärken"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Lod Chong stammt aus der Herrschaftszeit von König Narai (1672–1688) und ist damit eines der ältesten dokumentierten thailändischen Desserts. Eine frühere Form namens ‚Nokploi' war Teil hinduistischer und brahmanischer Essenstraditionen der Region. Der Name ‚Lod Chong' bedeutet ‚durch ein Loch gegangen' und beschreibt die Technik, bei der Teig durch ein Sieb in kaltes Wasser gepresst wird, um Geleenudeln zu formen. Es erschien im traditionellen thailändischen ‚Vier-Schalen-Dessertset', das bei königlichen Zeremonien serviert wurde.",
+        "cultural_importance": "Lod Chong hat tiefe symbolische Bedeutung in der thailändischen Kultur, besonders bei Hochzeiten. Die grüne Pandanfarbe symbolisiert Papageien, die in der thailändischen Tradition für Treue stehen, während das Dessert selbst immerwährende Liebe symbolisiert. Es gehört zu einer größeren südostasiatischen Dessertfamilie, die malaysischen/singapurischen Cendol, indonesischen Dawet und vietnamesischen Banh Lot umfasst — alle mit dem Konzept gepresster Geleenudeln in süßer Kokosmilch.",
+        "traditional_occasions": [
+          "Thailändische Hochzeiten (symbolisiert immerwährende Liebe und Treue)",
+          "Königliche Zeremonien (Teil des Vier-Schalen-Dessertsets)",
+          "Buddhistische Tempelfeste und Verdienstzeremonien",
+          "Familientreffen und lokale Feste",
+          "Straßenessen-Märkte in ganz Thailand"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Standard Thai Lod Chong",
+          "description": "Grüne Pandan-Geleenudeln in gesüßter Kokosmilch mit zerstoßenem Eis. Die häufigste Version in ganz Thailand."
+        },
+        {
+          "name": "Phetchaburi-Stil",
+          "description": "Palmzucker wird über die Oberfläche gegossen statt untergemischt, was markante Karamellnoten erzeugt. Phetchaburi ist berühmt für seinen erstklassigen Palmzucker."
+        },
+        {
+          "name": "Cendol (Malaysia/Singapur)",
+          "description": "An die Hawker-Kultur angepasst mit Gula Melaka (Palmzuckersirup), roten Bohnen und manchmal Mais. Ein Nationalfavorit in beiden Ländern."
+        },
+        {
+          "name": "Dawet (Indonesien)",
+          "description": "Zahlreiche regionale Varianten existieren in ganz Indonesien. Verwendet oft Kokoszucker und kann Jackfrucht oder andere lokale Zutaten enthalten."
+        },
+        {
+          "name": "Banh Lot (Vietnam)",
+          "description": "Vietnamesische Adaption mit Pandan-Geleenudeln in Kokosmilch, Teil der gemeinsamen südostasiatischen Desserttradition."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Zerstoßenes Eis",
+          "Zusätzliche Kokosmilch",
+          "Palmzuckersirup"
+        ],
+        "presentation": "In einer Schüssel oder einem Glas serviert, mit grünen Pandannudeln in gesüßter Kokosmilch auf zerstoßenem Eis",
+        "eating_etiquette": "Mit einem Löffel gegessen, dabei die Kokosmilch zwischen den Bissen der Geleenudeln geschlürft"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale südthailändische Restaurants",
+          "Authentische Straßenessen-Stände",
+          "Traditionelle Märkte",
+          "Familienbetriebe"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Frische Morgenmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
