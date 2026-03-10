@@ -272,6 +272,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Yam Woon Sen est une salade fraîche et vibrante appréciée de la Thaïlande centrale avec un agréable coup de piquant. Une salade de vermicelles de verre avec des crevettes et du porc haché. Cette recette facile nécessite environ 20 minutes de préparation et représente les saveurs authentiques de la cuisine du centre de la Thaïlande qui équilibre parfaitement les saveurs sucrées, acides, salées et épicées. La combinaison de vermicelles de verre, de crevettes et de porc haché crée un mélange harmonieux qui a fait de ce plat un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à petit prix.",
+      "detailed_ingredients": [
+        {
+          "name": "Vermicelles de verre",
+          "purpose": "Essentiel pour la saveur authentique du Yam Woon Sen",
+          "substitutes": [
+            "Vermicelles de verre frais",
+            "Vermicelles de verre séchés",
+            "Nouilles de riz"
+          ]
+        },
+        {
+          "name": "Crevettes",
+          "purpose": "Essentiel pour la saveur authentique du Yam Woon Sen",
+          "substitutes": [
+            "Crevettes fraîches",
+            "Crevettes séchées",
+            "Calamars"
+          ]
+        },
+        {
+          "name": "Porc haché",
+          "purpose": "Essentiel pour la saveur authentique du Yam Woon Sen",
+          "substitutes": [
+            "Porc haché frais",
+            "Poulet haché",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Tomates",
+          "purpose": "Essentiel pour la saveur authentique du Yam Woon Sen",
+          "substitutes": [
+            "Tomates fraîches",
+            "Tomates cerises",
+            "Concentré de tomates"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Préparation fraîche et mélange",
+        "steps_overview": "La préparation du Yam Woon Sen nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez des vermicelles de verre frais pour un meilleur résultat",
+          "Ajustez le niveau de piquant selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Yam Woon Sen est un pilier de la cuisine du centre de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce plat représente le cœur de la cuisine du centre de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Yam Woon Sen Classique",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Yam Woon Sen Moderne",
+          "description": "Version contemporaine avec des ingrédients premium"
+        },
+        {
+          "name": "Yam Woon Sen Végétarien",
+          "description": "Version végétale avec du tofu ou des champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais",
+          "Herbes thaïlandaises"
+        ],
+        "presentation": "Servi sur une assiette dans le style traditionnel thaïlandais",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère selon la coutume thaïlandaise"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Restaurants locaux du centre de la Thaïlande",
+          "Stands de cuisine de rue authentiques",
+          "Marchés traditionnels",
+          "Restaurants familiaux"
+        ],
+        "street_food_areas": [
+          "Marchés de nuit",
+          "Marchés frais du matin",
+          "Food courts locaux"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
