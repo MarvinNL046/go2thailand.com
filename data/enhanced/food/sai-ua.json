@@ -366,6 +366,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Sai Ua ist ein beliebtes, herzhaftes und sättigendes Hauptgericht aus Nordthailand, das feurig und kühn ist. Eine scharfe nordthailändische Wurst mit Kräutern und Gewürzen. Dieses anspruchsvolle Rezept benötigt etwa 60 Minuten Zubereitungszeit und verkörpert die authentischen Aromen der nordthailändischen Küche, geprägt von milderen Geschmacksnoten, Klebreis und Kräutern. Die Kombination aus Schweinefleisch, Zitronengras und Kaffir-Limettenblättern ergibt eine harmonische Mischung, die dieses Gericht sowohl bei Einheimischen als auch bei Besuchern zum Favoriten gemacht hat. Perfekt für alle, die preiswerte authentische thailändische Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Schweinefleisch",
+          "purpose": "Unverzichtbar für den authentischen Sai Ua Geschmack",
+          "substitutes": [
+            "Frisches Schweinefleisch",
+            "Hähnchenhackfleisch",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Zitronengras",
+          "purpose": "Unverzichtbar für den authentischen Sai Ua Geschmack",
+          "substitutes": [
+            "Frisches Zitronengras",
+            "Getrocknetes Zitronengras",
+            "Zitronengraspaste"
+          ]
+        },
+        {
+          "name": "Kaffir-Limettenblätter",
+          "purpose": "Unverzichtbar für den authentischen Sai Ua Geschmack",
+          "substitutes": [
+            "Frische Kaffir-Limettenblätter",
+            "Getrocknete Kaffir-Limettenblätter",
+            "Limettenabrieb"
+          ]
+        },
+        {
+          "name": "Schalotten",
+          "purpose": "Unverzichtbar für den authentischen Sai Ua Geschmack",
+          "substitutes": [
+            "Frische Schalotten",
+            "Getrocknete Schalotten",
+            "Rote Zwiebel"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillen oder Braten",
+        "steps_overview": "Die Zubereitung von Sai Ua erfordert Aufmerksamkeit für Details und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die von Generation zu Generation weitergegeben wurden, garantieren einen authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frisches Schweinefleisch für das beste Ergebnis",
+          "Passen Sie die Schärfe nach Ihrem Geschmack an",
+          "Nicht zu lange grillen, um die Textur zu erhalten",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sai Ua ist seit Generationen ein fester Bestandteil der nordthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht verkörpert das Herzstück der nordthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Feste",
+          "Straßenessen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sai Ua Klassisch",
+          "description": "Die traditionelle Version, wie sie in einheimischen Haushalten serviert wird"
+        },
+        {
+          "name": "Sai Ua Modern",
+          "description": "Zeitgenössische Variante mit hochwertigen Zutaten"
+        },
+        {
+          "name": "Vegetarische Sai Ua",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "Auf einem Teller im traditionellen nordthailändischen Stil serviert",
+        "eating_etiquette": "Wird mit Gabel und Löffel nach thailändischer Sitte gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale nordthailändische Restaurants",
+          "Authentische Straßenimbiss-Stände",
+          "Traditionelle Märkte",
+          "Familiengeführte Lokale"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Frische Morgenmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
