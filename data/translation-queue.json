@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 168
+    "completed": 169
   },
   "queue": [
     {
@@ -1353,9 +1353,10 @@
     {
       "type": "food",
       "file": "data/enhanced/food/nam-prik-noom.json",
-      "status": "pending",
+      "status": "completed",
       "priority": 4,
-      "locale": "nl"
+      "locale": "nl",
+      "completedAt": "2026-03-10"
     },
     {
       "type": "food",
