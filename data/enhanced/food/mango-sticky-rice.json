@@ -161,5 +161,93 @@
     }
   },
   "enhanced_at": "2025-05-25T21:52:03.357Z",
-  "ai_generated": false
+  "ai_generated": false,
+  "translations": {
+    "nl": {
+      "enhanced_description": "Khao Niao Mamuang (Mango Sticky Rice) is het meest geliefde dessert van Thailand — een ogenschijnlijk eenvoudige combinatie die perfectie bereikt door kwaliteitsingrediënten en precieze techniek. Zoete kleefrijst gedrenkt in kokos, gecombineerd met perfect rijpe mango, creëert een harmonie van smaken en texturen die de essentie van Thaise desserts vat: niet te zoet, natuurlijk gearomatiseerd en seizoensgebonden.",
+      "detailed_ingredients": [
+        {
+          "name": "Nam Dok Mai mango",
+          "purpose": "De premium Thaise mangovariant — zoet, glad en zonder vezels",
+          "substitutes": [
+            "Ok Rong mango",
+            "Ataulfo mango",
+            "Elke rijpe, zoete mango"
+          ]
+        },
+        {
+          "name": "Kleefrijst",
+          "purpose": "Speciale kleefrijst die romig wordt bij het koken",
+          "substitutes": [
+            "Geen echte vervanging — gewone rijst werkt niet",
+            "Japanse mochirijst (andere textuur)"
+          ]
+        },
+        {
+          "name": "Kokosroom",
+          "purpose": "Rijke topping die alles samenbrengt",
+          "substitutes": [
+            "Dikke kokosmelk",
+            "Cashewroom voor een lichtere versie"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stomen en zorgvuldige timing",
+        "steps_overview": "Kleefrijst wordt een nacht geweekt en daarna gestoomd in bamboemandjes. Terwijl het nog warm is, wordt het gemengd met gezoete kokosmelk, waarbij de smaken worden opgenomen. De mango moet perfect rijp zijn — stevig genoeg om te snijden maar zoet en aromatisch.",
+        "cooking_tips": [
+          "Week de rijst minstens 8 uur — een hele nacht is het beste",
+          "Stoom in bamboe voor een authentieke smaak",
+          "Meng de kokossaus terwijl de rijst nog warm is",
+          "Kies mango's die zoet ruiken bij de steel",
+          "Serveer op kamertemperatuur, niet koud"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan aan het koninklijk hof waar de beste mango's gereserveerd waren voor de adel. Het gerecht viert het mangoseizoen (april-mei), dat samenvalt met Thais Nieuwjaar (Songkran).",
+        "cultural_importance": "Dit dessert vertegenwoordigt de Thaise agrarische overvloed en het belang van seizoensgebondenheid. Het is een van de weinige Thaise gerechten dat niet is aangepast of het hele jaar door beschikbaar is — je eet het wanneer de mango's klaar zijn.",
+        "traditional_occasions": [
+          "Songkran-festival",
+          "Viering van het mangoseizoen",
+          "Tempeloffers",
+          "Dessert bij speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Niao Thurian",
+          "description": "Durianversie — voor doorgewinterde fruitliefhebbers"
+        },
+        {
+          "name": "Khao Niao Dam",
+          "description": "Gemaakt met zwarte kleefrijst — nootachtiger van smaak"
+        },
+        {
+          "name": "Khao Niao Moon",
+          "description": "Met extra pandan-gearomatiseerde custard"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse mango",
+          "Extra kokosroom"
+        ],
+        "presentation": "Geserveerd op kamertemperatuur in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Mae Varee (Bangkok) — Beroemdste mango sticky rice winkel",
+          "Kor Panich (Bangkok) — Sinds 1947",
+          "After You Dessert Cafe — Moderne interpretatie"
+        ],
+        "street_food_areas": [
+          "Thonglor straatverkopers (april-juni)",
+          "Chatuchak Weekend Market",
+          "Elke versmarkt tijdens het mangoseizoen"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
+  }
 }
