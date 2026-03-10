@@ -189,5 +189,110 @@
   "sources": [
     "Wikipedia - Cendol",
     "Thai cultural heritage records"
-  ]
+  ],
+  "translations": {
+    "nl": {
+      "enhanced_description": "Lod Chong (ลอดช่อง) is een van de oudste desserts van Thailand, met wortels die teruggaan tot het bewind van Koning Narai (1672-1688). De naam betekent letterlijk 'door een gat gegaan', verwijzend naar de traditionele methode waarbij deeg van rijstmeel met pandan door een zeef in koud water wordt geperst, waardoor de kenmerkende groene geleinoedels ontstaan. Deze felgroene slierten worden geserveerd in gezoete kokosmelk met gemalen ijs, wat een verfrissend dessert oplevert dat al vanaf 30 THB bij straatverkopers te koop is. Een eerdere vorm genaamd 'nokploi' maakte deel uit van hindoeïstische en brahmaanse voedseltraditie in Zuidoost-Azië. Lod Chong maakt deel uit van de traditionele Thaise 'vierdelig dessertset' en heeft speciale betekenis bij Thaise bruiloften, waar de groene kleur papegaaien symboliseert — die trouw vertegenwoordigen — en het dessert zelf symbool staat voor eeuwigdurende liefde. Het gerecht is verwant aan Maleisische/Singaporese cendol, Indonesische dawet en Vietnamese banh lot, die samen een gedeelde desserttraditie in Zuidoost-Azië vormen.",
+      "detailed_ingredients": [
+        {
+          "name": "Rijstmeel",
+          "purpose": "Vormt de basis van de geleinoedels en geeft ze hun kauwbare textuur",
+          "substitutes": [
+            "Tapiocazetmeel (voor een zachtere textuur)",
+            "Mungbonenzetmeel"
+          ]
+        },
+        {
+          "name": "Pandansap",
+          "purpose": "Zorgt voor de kenmerkende groene kleur en geurig aroma",
+          "substitutes": [
+            "Pandanextract (geconcentreerd, gebruik minder)",
+            "Pandanpasta (verkrijgbaar bij Aziatische supermarkten)"
+          ]
+        },
+        {
+          "name": "Kokosmelk",
+          "purpose": "De zoete, romige basis waarin de noedels worden geserveerd",
+          "substitutes": [
+            "Kokosmelk uit blik (volle variant heeft de voorkeur)",
+            "Kokosroom aangelengd met water"
+          ]
+        },
+        {
+          "name": "Palmsuiker",
+          "purpose": "Zoet de kokosmelk met een onderscheidende karamelsmaak",
+          "substitutes": [
+            "Kokossuiker",
+            "Bruine suiker (minder authentiek maar werkt)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Door een zeef in koud water persen",
+        "steps_overview": "Meng rijstmeel met pandansap tot een groen deeg en kook het tot een dikke pasta. Pers het hete deeg door een zeef of mal met gaten in een kom koud water — dit is de 'lod chong' (door een gat gegaan) techniek die het dessert zijn naam geeft. Het koude water laat de geleinoedels in hun kenmerkende vorm stollen. Bereid apart gezoete kokosmelk met een snufje zout. Serveer de groene noedels in de kokosmelk met gemalen ijs.",
+        "cooking_tips": [
+          "Gebruik verse pandanbladeren voor de felste groene kleur en het beste aroma",
+          "Houd het koude water ijskoud (voeg ijs toe) om de noedels snel te laten stollen",
+          "Pers het deeg gelijkmatig door de zeef voor een uniforme noedelgrootte",
+          "Voeg een snufje zout toe aan de kokosmelk om de zoetheid te versterken"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Lod Chong dateert uit het bewind van Koning Narai (1672-1688), waardoor het een van de oudste gedocumenteerde Thaise desserts is. Een eerdere vorm genaamd 'nokploi' maakte deel uit van hindoeïstische en brahmaanse voedseltraditie in de regio. De naam 'lod chong' betekent 'door een gat gegaan', en beschrijft de techniek waarbij deeg door een zeef in koud water wordt geperst om geleinoedels te vormen. Het verscheen in de traditionele Thaise 'vierdelig dessertset' die bij koninklijke ceremonies werd geserveerd.",
+        "cultural_importance": "Lod Chong heeft diepe symbolische betekenis in de Thaise cultuur, vooral bij bruiloften. De groene pandankleur vertegenwoordigt papegaaien, die in de Thaise traditie trouw symboliseren, terwijl het dessert zelf symbool staat voor eeuwigdurende liefde. Het maakt deel uit van een bredere Zuidoost-Aziatische dessertfamilie die Maleisische/Singaporese cendol, Indonesische dawet en Vietnamese banh lot omvat — allen met het concept van geperste geleinoedels in zoete kokosmelk.",
+        "traditional_occasions": [
+          "Thaise bruiloften (symboliseert eeuwigdurende liefde en trouw)",
+          "Koninklijke ceremonies (onderdeel van de vierdelig dessertset)",
+          "Boeddhistische tempelfestivals en verdienste maken",
+          "Familiebijeenkomsten en lokale festivals",
+          "Straatvoedselmarkten door heel Thailand"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Standaard Thaise Lod Chong",
+          "description": "Groene pandan geleinoedels in gezoete kokosmelk met gemalen ijs. De meest voorkomende versie in heel Thailand."
+        },
+        {
+          "name": "Phetchaburi-stijl",
+          "description": "Palmsuiker wordt over de bovenkant gegoten in plaats van erdoor gemengd, wat kenmerkende karameltonen creëert. Phetchaburi staat bekend om zijn premium palmsuiker."
+        },
+        {
+          "name": "Cendol (Maleisië/Singapore)",
+          "description": "Aangepast aan de hawkercultuur met gula melaka (palmsuikersiroop), rode bonen en soms maïs. Een nationale favoriet in beide landen."
+        },
+        {
+          "name": "Dawet (Indonesië)",
+          "description": "Meerdere regionale variëteiten bestaan in heel Indonesië. Gebruikt vaak kokossuiker en kan jackfruit of andere lokale toevoegingen bevatten."
+        },
+        {
+          "name": "Banh Lot (Vietnam)",
+          "description": "Vietnamese aanpassing met pandan geleinoedels in kokosmelk, onderdeel van de gedeelde Zuidoost-Aziatische desserttraditie."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Gemalen ijs",
+          "Extra kokosmelk",
+          "Palmsuikersiroop"
+        ],
+        "presentation": "Geserveerd in een kom of glas met groene pandannoedels die in gezoete kokosmelk op gemalen ijs drijven",
+        "eating_etiquette": "Gegeten met een lepel, nip de kokosmelk tussen hapjes geleinoedels door"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
+  }
 }
