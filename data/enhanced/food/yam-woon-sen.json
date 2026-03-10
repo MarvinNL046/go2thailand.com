@@ -173,5 +173,105 @@
       "market_stall": "40-60 THB",
       "restaurant": "60-100 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Yam Woon Sen is een geliefde verse en levendige salade uit Centraal-Thailand met een aangename pittige kick. Glasnoedelsalade met garnalen en varkensgehakt. Dit eenvoudige recept vergt ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van glasnoedels, garnalen en varkensgehakt creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Glasnoedels",
+          "purpose": "Essentieel voor de authentieke Yam Woon Sen smaak",
+          "substitutes": [
+            "Verse glasnoedels",
+            "Gedroogde glasnoedels",
+            "Rijstnoedels"
+          ]
+        },
+        {
+          "name": "Garnalen",
+          "purpose": "Essentieel voor de authentieke Yam Woon Sen smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Inktvis"
+          ]
+        },
+        {
+          "name": "Varkensgehakt",
+          "purpose": "Essentieel voor de authentieke Yam Woon Sen smaak",
+          "substitutes": [
+            "Vers varkensgehakt",
+            "Kipgehakt",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Tomaten",
+          "purpose": "Essentieel voor de authentieke Yam Woon Sen smaak",
+          "substitutes": [
+            "Verse tomaten",
+            "Kerstomaatjes",
+            "Tomatenpuree"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Verse bereiding en mengen",
+        "steps_overview": "Het bereiden van Yam Woon Sen vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse glasnoedels voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Yam Woon Sen is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Yam Woon Sen Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Yam Woon Sen Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Yam Woon Sen",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }
