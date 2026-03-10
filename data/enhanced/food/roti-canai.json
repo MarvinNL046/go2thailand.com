@@ -173,5 +173,105 @@
       "market_stall": "40-60 THB",
       "restaurant": "60-100 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Roti Canai is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Maleisisch-Thais platbrood geserveerd met curry. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van bloem, ghee en ei creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Bloem",
+          "purpose": "Essentieel voor de authentieke Roti Canai smaak",
+          "substitutes": [
+            "Tarwebloem",
+            "Zelfrijzend bakmeel",
+            "Speltbloem"
+          ]
+        },
+        {
+          "name": "Ghee",
+          "purpose": "Essentieel voor de authentieke Roti Canai smaak",
+          "substitutes": [
+            "Geklaarde boter",
+            "Boter",
+            "Plantaardige olie"
+          ]
+        },
+        {
+          "name": "Ei",
+          "purpose": "Essentieel voor de authentieke Roti Canai smaak",
+          "substitutes": [
+            "Vers ei",
+            "Ei-vervanger",
+            "Weglaten (voor veganistische versie)"
+          ]
+        },
+        {
+          "name": "Zout",
+          "purpose": "Essentieel voor de authentieke Roti Canai smaak",
+          "substitutes": [
+            "Zeezout",
+            "Himalayazout",
+            "Fijn tafelzout"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Uitrekken en bakken op een hete plaat",
+        "steps_overview": "Het bereiden van Roti Canai vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse bloem voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Roti Canai is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Roti Canai Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Roti Canai Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Roti Canai",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }
