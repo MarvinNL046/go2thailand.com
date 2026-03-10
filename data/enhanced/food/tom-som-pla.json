@@ -271,6 +271,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Tom Som Pla est une soupe réconfortante appréciée du sud de la Thaïlande avec un agréable coup de piquant. Une soupe de poisson aigre et épicée au curcuma. Cette recette de difficulté moyenne nécessite environ 25 minutes de préparation et représente les saveurs authentiques de la cuisine du sud de la Thaïlande, caractérisée par des épices intenses, des fruits de mer et des currys à base de noix de coco. La combinaison de poisson, de curcuma et de tamarin crée un mélange harmonieux qui a fait de ce plat un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à petit prix.",
+      "detailed_ingredients": [
+        {
+          "name": "Poisson",
+          "purpose": "Essentiel pour la saveur authentique du Tom Som Pla",
+          "substitutes": [
+            "Poisson frais",
+            "Poisson séché",
+            "Pâte de poisson"
+          ]
+        },
+        {
+          "name": "Curcuma",
+          "purpose": "Essentiel pour la saveur authentique du Tom Som Pla",
+          "substitutes": [
+            "Curcuma frais",
+            "Curcuma séché",
+            "Pâte de curcuma"
+          ]
+        },
+        {
+          "name": "Tamarin",
+          "purpose": "Essentiel pour la saveur authentique du Tom Som Pla",
+          "substitutes": [
+            "Tamarin frais",
+            "Tamarin séché",
+            "Pâte de tamarin"
+          ]
+        },
+        {
+          "name": "Piment",
+          "purpose": "Essentiel pour la saveur authentique du Tom Som Pla",
+          "substitutes": [
+            "Piment frais",
+            "Piment séché",
+            "Pâte de piment"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Mijotage et superposition des saveurs",
+        "steps_overview": "La préparation du Tom Som Pla nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez du poisson frais pour un meilleur résultat",
+          "Ajustez le niveau de piquant selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Tom Som Pla est un pilier de la cuisine du sud de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce plat représente le cœur de la cuisine du sud de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Som Pla Classique",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Tom Som Pla Moderne",
+          "description": "Version contemporaine avec des ingrédients premium"
+        },
+        {
+          "name": "Tom Som Pla Végétarien",
+          "description": "Version végétale avec du tofu ou des champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais",
+          "Herbes thaïlandaises"
+        ],
+        "presentation": "Servi dans un bol dans le style traditionnel du sud de la Thaïlande",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère selon la coutume thaïlandaise"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Restaurants locaux du sud de la Thaïlande",
+          "Stands de cuisine de rue authentiques",
+          "Marchés traditionnels",
+          "Restaurants familiaux"
+        ],
+        "street_food_areas": [
+          "Marchés de nuit",
+          "Marchés frais du matin",
+          "Food courts locaux"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
