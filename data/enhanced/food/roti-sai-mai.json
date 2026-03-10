@@ -369,6 +369,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Roti Sai Mai ist eine beliebte, köstliche Süßigkeit aus Zentralthailand, die sanft zum Gaumen ist. Thailändische Zuckerwatte, eingewickelt in dünnes Roti aus Ayutthaya. Dieses anspruchsvolle Rezept benötigt etwa 30 Minuten Zubereitungszeit und verkörpert die authentischen Aromen der zentralthailändischen Küche, die süße, saure, salzige und scharfe Geschmacksnoten perfekt ausbalanciert. Die Kombination aus Mehl, Zucker und Lebensmittelfarbe ergibt eine harmonische Mischung, die dieses Dessert sowohl bei Einheimischen als auch bei Besuchern zum Favoriten gemacht hat. Perfekt für alle, die erschwingliche authentische thailändische Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Mehl",
+          "purpose": "Unverzichtbar für den authentischen Roti Sai Mai Geschmack",
+          "substitutes": [
+            "Weizenmehl",
+            "Reismehl",
+            "Dinkelmehl"
+          ]
+        },
+        {
+          "name": "Zucker",
+          "purpose": "Unverzichtbar für den authentischen Roti Sai Mai Geschmack",
+          "substitutes": [
+            "Palmzucker",
+            "Kokoszucker",
+            "Kristallzucker"
+          ]
+        },
+        {
+          "name": "Lebensmittelfarbe",
+          "purpose": "Unverzichtbar für den authentischen Roti Sai Mai Geschmack",
+          "substitutes": [
+            "Natürliche Lebensmittelfarbe",
+            "Pandanextrakt (grün)",
+            "Schmetterlingserbsenblüte (blau)"
+          ]
+        },
+        {
+          "name": "Wasser",
+          "purpose": "Unverzichtbar für den authentischen Roti Sai Mai Geschmack",
+          "substitutes": [
+            "Kokoswasser",
+            "Pandanwasser",
+            "Normales Wasser"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionelle Zubereitung",
+        "steps_overview": "Die Zubereitung von Roti Sai Mai erfordert Aufmerksamkeit für Details und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die von Generation zu Generation weitergegeben wurden, garantieren einen authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frisches Mehl für das beste Ergebnis",
+          "Passen Sie die Süße nach Ihrem Geschmack an",
+          "Nicht zu lange backen, um die Textur zu erhalten",
+          "Vor dem Servieren abschmecken und anpassen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Roti Sai Mai ist seit Generationen ein fester Bestandteil der zentralthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Dessert verkörpert das Herzstück der zentralthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Feste",
+          "Straßenessen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Roti Sai Mai Klassisch",
+          "description": "Die traditionelle Version, wie sie in einheimischen Haushalten serviert wird"
+        },
+        {
+          "name": "Roti Sai Mai Modern",
+          "description": "Zeitgenössische Variante mit hochwertigen Zutaten"
+        },
+        {
+          "name": "Vegetarische Roti Sai Mai",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "Auf einem Teller im traditionellen zentralthailändischen Stil serviert",
+        "eating_etiquette": "Wird mit den Händen gegessen, die Zuckerwatte wird in das Roti gewickelt"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zentralthailändische Restaurants",
+          "Authentische Straßenimbiss-Stände",
+          "Traditionelle Märkte",
+          "Familiengeführte Lokale"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Frische Morgenmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
