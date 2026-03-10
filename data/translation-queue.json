@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 189
+    "completed": 190
   },
   "queue": [
     {
@@ -1522,8 +1522,9 @@
       "type": "region",
       "file": "data/regions/central.json",
       "locale": "fr",
-      "status": "pending",
-      "priority": 10
+      "status": "completed",
+      "priority": 10,
+      "completedAt": "2026-03-10"
     },
     {
       "type": "region",
