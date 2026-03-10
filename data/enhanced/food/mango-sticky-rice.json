@@ -248,6 +248,92 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Khao Niao Mamuang (Mango Sticky Rice) est le dessert le plus apprécié de Thaïlande — une combinaison apparemment simple qui atteint la perfection grâce à des ingrédients de qualité et une technique précise. Du riz gluant sucré nappé de coco, accompagné d'une mangue parfaitement mûre, crée une harmonie de saveurs et de textures qui capture l'essence des desserts thaïlandais : pas trop sucré, naturellement parfumé et dépendant de la saison.",
+      "detailed_ingredients": [
+        {
+          "name": "Mangue Nam Dok Mai",
+          "purpose": "La variété de mangue thaïlandaise premium — sucrée, lisse et sans fibres",
+          "substitutes": [
+            "Mangue Ok Rong",
+            "Mangue Ataulfo",
+            "Toute mangue mûre et sucrée"
+          ]
+        },
+        {
+          "name": "Riz gluant",
+          "purpose": "Riz gluant spécial qui devient crémeux à la cuisson",
+          "substitutes": [
+            "Pas de véritable substitut — le riz ordinaire ne fonctionne pas",
+            "Riz mochi japonais (texture différente)"
+          ]
+        },
+        {
+          "name": "Crème de coco",
+          "purpose": "Garniture riche qui lie le tout",
+          "substitutes": [
+            "Lait de coco épais",
+            "Crème de cajou pour une version plus légère"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Cuisson à la vapeur et timing soigné",
+        "steps_overview": "Le riz gluant est trempé toute la nuit puis cuit à la vapeur dans des paniers en bambou. Encore chaud, il est mélangé avec du lait de coco sucré, absorbant les saveurs. La mangue doit être parfaitement mûre — assez ferme pour être tranchée mais sucrée et aromatique.",
+        "cooking_tips": [
+          "Faites tremper le riz au moins 8 heures — toute la nuit est idéal",
+          "Cuisez à la vapeur dans du bambou pour une saveur authentique",
+          "Mélangez la sauce coco pendant que le riz est encore chaud",
+          "Choisissez des mangues qui sentent bon près de la tige",
+          "Servez à température ambiante, pas froid"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Né à la cour royale où les meilleures mangues étaient réservées à la noblesse. Le plat célèbre la saison des mangues (avril-mai), qui coïncide avec le Nouvel An thaïlandais (Songkran).",
+        "cultural_importance": "Ce dessert représente l'abondance agricole thaïlandaise et l'importance de la saisonnalité. C'est l'un des rares plats thaïlandais qui n'a pas été adapté ni rendu disponible toute l'année — on le mange quand les mangues sont prêtes.",
+        "traditional_occasions": [
+          "Festival de Songkran",
+          "Célébration de la saison des mangues",
+          "Offrandes aux temples",
+          "Dessert pour les occasions spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Niao Thurian",
+          "description": "Version au durian — pour les amateurs de fruits passionnés"
+        },
+        {
+          "name": "Khao Niao Dam",
+          "description": "Préparé avec du riz gluant noir — saveur plus noisetée"
+        },
+        {
+          "name": "Khao Niao Moon",
+          "description": "Avec un flan supplémentaire aromatisé au pandan"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Mangue fraîche",
+          "Crème de coco supplémentaire"
+        ],
+        "presentation": "Servi à température ambiante dans le style traditionnel thaïlandais",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Mae Varee (Bangkok) — La boutique de mango sticky rice la plus célèbre",
+          "Kor Panich (Bangkok) — Depuis 1947",
+          "After You Dessert Cafe — Interprétation moderne"
+        ],
+        "street_food_areas": [
+          "Vendeurs ambulants de Thonglor (avril-juin)",
+          "Chatuchak Weekend Market",
+          "Tout marché frais pendant la saison des mangues"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
