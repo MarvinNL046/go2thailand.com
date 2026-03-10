@@ -265,6 +265,99 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Tom Yum Goong, c'est la Thaïlande dans un bol — une soupe féroce et parfumée qui incarne la philosophie thaïlandaise des extrêmes équilibrés. Cette soupe de crevettes épicée et aigre est un cours magistral de superposition de saveurs : le punch citronné de la citronnelle, les notes florales du galanga, la chaleur des piments, le tout nageant dans un bouillon à la fois réconfortant et revigorant. C'est médicinal, magique et absolument inimitable.",
+      "detailed_ingredients": [
+        {
+          "name": "Citronnelle",
+          "purpose": "Apporte l'arôme d'agrumes caractéristique et des propriétés antibactériennes",
+          "substitutes": [
+            "Zeste de citron (ne sera pas pareil)",
+            "Pâte de citronnelle en pot"
+          ]
+        },
+        {
+          "name": "Galanga",
+          "purpose": "Ajoute des notes vives et poivrées distinctes du gingembre",
+          "substitutes": [
+            "Gingembre frais (profil de saveur différent)",
+            "Galanga surgelé"
+          ]
+        },
+        {
+          "name": "Feuilles de combava",
+          "purpose": "Apporte des notes florales d'agrumes et des huiles aromatiques",
+          "substitutes": [
+            "Zeste de citron vert",
+            "Feuilles de laurier avec du jus de citron vert"
+          ]
+        },
+        {
+          "name": "Nam Prik Pao (huile de piment)",
+          "purpose": "Ajoute de la profondeur, de la couleur et de l'umami à la version claire",
+          "substitutes": [
+            "Pâte de piment",
+            "Sambal oelek avec du sucre"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Infusion aromatique et cuisson rapide",
+        "steps_overview": "Le Tom Yum consiste à construire des couches de saveurs. Les aromates sont meurtris et infusés, les protéines rapidement cuites et les touches finales ajoutées hors du feu. L'essentiel est de ne pas faire bouillir les herbes trop longtemps, ce qui les rendrait amères.",
+        "cooking_tips": [
+          "Meurtrissez la citronnelle et le galanga pour libérer les huiles",
+          "Ne faites jamais bouillir les herbes trop longtemps — infusez et retirez",
+          "Ajoutez le jus de citron vert hors du feu pour préserver la vitamine C",
+          "Utilisez des crevettes avec leur carapace pour plus de saveur",
+          "Le bouillon devrait vous faire légèrement tousser — c'est le piquant parfait"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Originaire du centre de la Thaïlande le long du fleuve Chao Phraya où les crevettes étaient abondantes. La soupe a évolué à partir d'anciens bouillons médicinaux thaïlandais conçus pour éloigner la maladie.",
+        "cultural_importance": "Le Tom Yum est la soupe de poulet de la Thaïlande — consommée quand on est malade, triste ou en fête. Lors de la crise financière asiatique de 1997, la 'Tom Yum Goong Crisis' est devenue le surnom, montrant à quel point ce plat est ancré dans la culture thaïlandaise.",
+        "traditional_occasions": [
+          "Remède contre le rhume et la grippe",
+          "Cure anti-gueule de bois",
+          "Plat de bienvenue pour les invités",
+          "Plat réconfortant pendant la saison des moussons"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Nam Khon",
+          "description": "Version crémeuse au lait concentré — style moderne de Bangkok"
+        },
+        {
+          "name": "Tom Yum Nam Sai",
+          "description": "Version au bouillon clair — l'originale et le choix des puristes"
+        },
+        {
+          "name": "Tom Yum Talay",
+          "description": "Version aux fruits de mer mélangés — populaire dans les zones côtières"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais"
+        ],
+        "presentation": "Servi chaud dans le style traditionnel thaïlandais",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Pe Aor (Bangkok) — Célèbre pour les nouilles tom yum",
+          "Pee Aor (Bangkok) — Autre établissement, tout aussi réputé",
+          "N'importe quel restaurant au bord du fleuve pour des versions authentiques"
+        ],
+        "street_food_areas": [
+          "Chatuchak Weekend Market",
+          "Wang Lang Market près de Siriraj Hospital",
+          "Stands du soir à Chinatown"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
