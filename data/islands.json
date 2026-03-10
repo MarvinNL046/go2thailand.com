@@ -1,0 +1,160 @@
+{
+  "title": "Thailand Islands — Complete Guide (2026)",
+  "meta_description": "Explore 12 of Thailand's best islands from Phuket to Koh Lipe. Real access info, best seasons, and honest recommendations for every traveller type.",
+  "intro": "After years of island-hopping across Thailand's Andaman and Gulf coasts, I've learned that no two islands feel the same. I've watched sunrise over Koh Tao's dive sites and sunset from Koh Lipe's powdery beaches, slept in bamboo huts on Koh Phangan and luxury villas on Koh Samui. This guide covers 12 islands I've visited personally, ranked to help you pick the right one for your trip — whether you're a first-timer flying into Phuket or a diver chasing the Similans' crystal waters.",
+  "items": [
+    {
+      "rank": 1,
+      "name": "Phuket",
+      "province": "Phang Nga",
+      "best_for": ["First-timers", "Families", "Nightlife"],
+      "best_time": "November - April",
+      "how_to_get_there": "International airport with direct flights from major Asian and European cities",
+      "description": "Thailand's largest island and the most accessible. Phuket has an international airport, making it the easiest island to reach without ferries or connecting boats. The west coast beaches range from busy Patong to quieter Kata and Karon, while the Old Town offers Sino-Portuguese architecture and local food markets.",
+      "key_facts": ["Largest Thai island", "International airport"],
+      "coast": "Andaman",
+      "google_maps_query": "Phuket Thailand"
+    },
+    {
+      "rank": 2,
+      "name": "Koh Samui",
+      "province": "Surat Thani",
+      "best_for": ["Luxury", "Wellness", "Families"],
+      "best_time": "January - August",
+      "how_to_get_there": "Samui International Airport with flights from Bangkok, Singapore, and Hong Kong",
+      "description": "Thailand's second-largest island combines luxury resorts with authentic Thai culture. Koh Samui serves as the gateway to Koh Phangan and Koh Tao, making it a natural starting point for Gulf island trips. The island has world-class spas, wellness retreats, and family-friendly beaches along its coconut-lined coast.",
+      "key_facts": ["Second-largest island", "Gateway to Phangan/Tao"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Samui Surat Thani Thailand"
+    },
+    {
+      "rank": 3,
+      "name": "Koh Phi Phi",
+      "province": "Krabi",
+      "best_for": ["Island hopping", "Diving", "Scenery"],
+      "best_time": "November - April",
+      "how_to_get_there": "Ferry from Phuket (2 hours) or Krabi (1.5 hours)",
+      "description": "The dramatic limestone karsts and turquoise waters of Koh Phi Phi have made it one of Thailand's most photographed destinations. Maya Bay, made famous by the film The Beach, now operates under visitor caps to protect the recovering coral ecosystem. The main island Phi Phi Don is car-free, with longtail boats connecting its beaches.",
+      "key_facts": ["Maya Bay has visitor caps", "Car-free island"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Phi Phi Krabi Thailand"
+    },
+    {
+      "rank": 4,
+      "name": "Koh Tao",
+      "province": "Surat Thani",
+      "best_for": ["Budget diving", "Backpackers", "Snorkeling"],
+      "best_time": "January - August",
+      "how_to_get_there": "Ferry from Koh Samui (1.5 hours) or Chumphon (2-3 hours)",
+      "description": "Known as Thailand's Diving Capital, Koh Tao offers some of the most affordable dive certifications in the world. The small island attracts backpackers and dive enthusiasts with its laid-back atmosphere and accessible reef sites. Shallow bays like Japanese Garden and Mango Bay are ideal for snorkelers and beginners.",
+      "key_facts": ["Thailand's Diving Capital", "Affordable dive certifications"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Tao Surat Thani Thailand"
+    },
+    {
+      "rank": 5,
+      "name": "Koh Lipe",
+      "province": "Satun",
+      "best_for": ["Snorkeling", "Beaches", "Couples"],
+      "best_time": "November - April",
+      "how_to_get_there": "Pak Bara Pier or Langkawi ferry",
+      "description": "Often called the Maldives of Thailand, Koh Lipe sits within the Tarutao National Marine Park near the Malaysian border. The island's three main beaches — Pattaya, Sunrise, and Sunset — offer white sand and clear water without the crowds of more accessible islands. Its remote location keeps visitor numbers manageable.",
+      "key_facts": ["Maldives of Thailand", "Tarutao National Marine Park"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Lipe Satun Thailand"
+    },
+    {
+      "rank": 6,
+      "name": "Koh Phangan",
+      "province": "Surat Thani",
+      "best_for": ["Wellness", "Yoga", "Nightlife"],
+      "best_time": "January - August",
+      "how_to_get_there": "Ferry from Koh Samui (30 minutes - 1 hour)",
+      "description": "Koh Phangan holds two seemingly contradictory identities: the Full Moon Party destination drawing thousands of revellers to Haad Rin beach, and a spiritual retreat island with yoga studios and meditation centres scattered across its quieter north coast. Both sides coexist on this mid-sized Gulf island.",
+      "key_facts": ["Full Moon Party", "Spiritual retreats"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Phangan Surat Thani Thailand"
+    },
+    {
+      "rank": 7,
+      "name": "Koh Chang",
+      "province": "Trat",
+      "best_for": ["Nature", "Waterfalls", "Budget"],
+      "best_time": "Year-round",
+      "how_to_get_there": "Ferry from Laem Ngop pier (near Trat, accessible by bus or flight from Bangkok)",
+      "description": "Thailand's second-largest island remains less developed than Phuket or Samui, covered in dense rainforest with waterfalls cascading through its mountainous interior. The west coast has most of the beaches and accommodation, while the east coast stays quiet and local. Its year-round accessibility and lower prices make it a solid alternative to the Andaman islands.",
+      "key_facts": ["Second-largest island", "Rainforests and waterfalls"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Chang Trat Thailand"
+    },
+    {
+      "rank": 8,
+      "name": "Koh Lanta",
+      "province": "Krabi",
+      "best_for": ["Families", "Slow travel", "Relaxation"],
+      "best_time": "November - April",
+      "how_to_get_there": "Ferry from Krabi, Phuket, or Phi Phi; also accessible by road via bridge from the mainland",
+      "description": "Koh Lanta attracts travellers looking for long stretches of uncrowded beach and a relaxed pace. The island's beaches run along the west coast, growing quieter the further south you go. Unlike many Thai islands, Lanta is connected to the mainland by bridge, making it accessible by car without relying solely on ferries.",
+      "key_facts": ["Long beaches", "Relaxed vibe", "Accessible by road"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Lanta Krabi Thailand"
+    },
+    {
+      "rank": 9,
+      "name": "Similan Islands",
+      "province": "Phang Nga",
+      "best_for": ["Diving", "Pristine waters", "Day trips"],
+      "best_time": "October - May only",
+      "how_to_get_there": "Liveaboard boats or day trips from Khao Lak or Phuket",
+      "description": "The Similan Islands are a national park archipelago of 11 islands with some of Thailand's clearest water and healthiest coral reefs. Access is restricted to the open season and advance booking is required, keeping the environment remarkably pristine. Liveaboard diving trips offer the best experience, though day trips from Khao Lak are available.",
+      "key_facts": ["11 islands", "Advance booking required", "National park"],
+      "coast": "Andaman",
+      "google_maps_query": "Similan Islands Phang Nga Thailand"
+    },
+    {
+      "rank": 10,
+      "name": "Koh Samet",
+      "province": "Rayong",
+      "best_for": ["Weekend escapes", "Beach getaways"],
+      "best_time": "Year-round",
+      "how_to_get_there": "Ferry from Ban Phe pier, approximately 2 hours from Bangkok by car",
+      "description": "Koh Samet is the closest island to Bangkok, making it a popular weekend escape for both locals and expats. The small island has a string of white sand beaches along its east coast, with Sai Kaew Beach being the busiest. Its proximity to the capital means it fills up on weekends and holidays but stays relatively quiet midweek.",
+      "key_facts": ["Closest island to Bangkok", "Weekend escape destination"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Samet Rayong Thailand"
+    },
+    {
+      "rank": 11,
+      "name": "Koh Yao Noi",
+      "province": "Phang Nga",
+      "best_for": ["Honeymooners", "Tranquility", "Authentic culture"],
+      "best_time": "November - April",
+      "how_to_get_there": "Speedboat from Phuket (30-40 minutes)",
+      "description": "Koh Yao Noi sits in Phang Nga Bay between Phuket and Krabi, yet feels worlds apart from both. The island has maintained its quiet, local character with rice paddies, rubber plantations, and a Muslim fishing community. It offers a glimpse of traditional Thai island life that has largely disappeared from more developed destinations.",
+      "key_facts": ["Quiet escape", "Authentic local culture"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Yao Noi Phang Nga Thailand"
+    },
+    {
+      "rank": 12,
+      "name": "Koh Tarutao",
+      "province": "Satun",
+      "best_for": ["Adventure", "Untouched nature", "Camping"],
+      "best_time": "October - May",
+      "how_to_get_there": "National park boat from Pak Bara Pier",
+      "description": "Koh Tarutao is the main island of the Tarutao National Marine Park and one of the most untouched islands in Thailand. There are no luxury resorts here — accommodation is national park bungalows and camping. The island has a wild, rugged character with mangrove forests, limestone caves, and deserted beaches that reward those willing to rough it.",
+      "key_facts": ["Marine national park", "Truly wild", "Camping accommodation"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Tarutao Satun Thailand"
+    }
+  ],
+  "tips": [
+    "Check monsoon seasons before booking: Andaman coast (Phuket, Phi Phi, Lipe, Similans) is best November-April; Gulf coast (Samui, Phangan, Tao) is best January-August",
+    "Book Similan Islands trips well in advance — permits sell out during peak season and the park closes May-October",
+    "Ferry schedules change seasonally and can be cancelled due to rough seas — always have a flexible backup plan",
+    "Islands without airports (most of them) require ferry connections; factor in travel time when planning multi-island trips",
+    "Maya Bay on Koh Phi Phi has daily visitor caps — arrive early or book through an operator that guarantees entry",
+    "Pack reef-safe sunscreen; several marine parks now restrict chemical sunscreens that damage coral"
+  ],
+  "generated_at": "2026-03-10"
+}

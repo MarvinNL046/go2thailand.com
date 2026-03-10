@@ -1,0 +1,150 @@
+{
+  "title": "Vie nocturne a Bangkok - Meilleurs bars et clubs (2026)",
+  "meta_description": "Guide de la vie nocturne a Bangkok 2026 : Khao San Road, rooftop bars de Thonglor, clubs de RCA avec les vrais prix des boissons. Les meilleurs bars, clubs et lieux d'after.",
+  "intro": "La vie nocturne de Bangkok est sans limites — des bieres a 100 bahts sur Khao San Road aux cocktails d'auteur dans les lounges chics de Thonglor, cette ville ne dort jamais vraiment. Que vous souhaitiez danser jusqu'a l'aube dans un club classe au DJ Mag sur RCA ou siroter un gin sur un rooftop bar, Bangkok tient ses promesses. Ce guide ne couvre que des lieux et des prix que j'ai personnellement verifies, pour que vous sachiez exactement a quoi vous attendre avant de sortir.",
+  "areas": [
+    {
+      "rank": 1,
+      "name": "Khao San Road",
+      "type": "backpacker",
+      "description": "Un troncon de 400 metres rempli de plus de 120 bars, vendeurs de street food et voyageurs des quatre coins du monde. Khao San Road est l'epicentre inconteste de la vie nocturne routarde a Bangkok. L'ambiance est brute et sans pretention — chaises en plastique, seaux de cocktails et basses concurrentes de sono en sono. C'est fort, moite, et exactement ce pour quoi vous etes venu en Asie du Sud-Est.",
+      "highlights": [
+        "Plus de 120 bars sur un seul troncon de 400 m",
+        "Vie nocturne la plus abordable de Bangkok",
+        "Atmosphere en plein air avec street food juste a cote"
+      ],
+      "venues": [],
+      "price_level": "budget",
+      "price_range": {
+        "beers": "~100 THB",
+        "cocktails": "~300 THB"
+      },
+      "peak_hours": "10 PM - 2 AM",
+      "how_to_get_there": "Prenez le Chao Phraya Express Boat jusqu'a la jetee Phra Arthit, puis 5 minutes a pied. Ou taxi/Grab depuis le BTS National Stadium (15 min)."
+    },
+    {
+      "rank": 2,
+      "name": "RCA (Royal City Avenue)",
+      "type": "clubbing",
+      "description": "Le principal quartier de clubs EDM de Bangkok. RCA est une rue dediee a la vie nocturne ou d'immenses clubs s'alignent des deux cotes, chacun diffusant differents genres a plein volume. C'est ici que la jeunesse de Bangkok vient danser, et l'ambiance est electrique le week-end. Les entrees incluent generalement une boisson.",
+      "highlights": [
+        "Principal quartier de clubs EDM de Bangkok",
+        "Entree environ 300 THB boisson incluse",
+        "Plusieurs genres musicaux dans differents clubs"
+      ],
+      "venues": [
+        {
+          "name": "Route 66",
+          "type": "club",
+          "description": "Mega-club tentaculaire avec 3 salles separees : K-pop, hip-hop et EDM. Choisissez votre ambiance et passez de l'une a l'autre toute la nuit.",
+          "price_range": "~300 THB entry with drink"
+        },
+        {
+          "name": "The Club",
+          "type": "club",
+          "description": "Classe dans le Top 100 des clubs du DJ Mag. Systeme son de qualite et programmation de DJ internationaux. Ouvert jusqu'a 4h du matin.",
+          "price_range": "250 THB entry with drink"
+        },
+        {
+          "name": "Spaceplus",
+          "type": "club",
+          "description": "Classe dans le Top 50 du DJ Mag, connu pour sa production massive, ses visuels LED immersifs et ses line-ups EDM de haut niveau.",
+          "price_range": "~300 THB entry with drink"
+        }
+      ],
+      "price_level": "moderate",
+      "price_range": {
+        "entry": "~300 THB with drink",
+        "beers": "~150 THB",
+        "cocktails": "~350 THB"
+      },
+      "peak_hours": "11 PM - 3 AM",
+      "how_to_get_there": "Station MRT Phra Ram 9, puis un court trajet en taxi ou Grab (5 min). Ou prenez un taxi directement — la plupart des chauffeurs connaissent RCA."
+    },
+    {
+      "rank": 3,
+      "name": "Sukhumvit Soi 11",
+      "type": "mixed",
+      "description": "Un seul soi qui concentre une densite impressionnante de bars raffines, rooftop lounges et clubs de nuit. Le Soi 11 attire un melange d'expatries, de touristes et de locaux aises, a la recherche d'une soiree plus soignee que Khao San mais sans les tarifs de Thonglor.",
+      "highlights": [
+        "Vie nocturne raffinee dans un espace compact",
+        "Melange de rooftop bars, lounges et clubs",
+        "Acces facile par le BTS"
+      ],
+      "venues": [
+        {
+          "name": "Levels",
+          "type": "club",
+          "description": "Etablissement haut de gamme sur plusieurs niveaux, connu pour son service de bouteilles et sa clientele elegante. Le systeme son est de premier ordre.",
+          "price_range": "~400 THB cocktails"
+        }
+      ],
+      "price_level": "moderate",
+      "price_range": {
+        "beers": "~180 THB",
+        "cocktails": "~400 THB"
+      },
+      "peak_hours": "10 PM - 2 AM",
+      "how_to_get_there": "Station BTS Nana (sortie 3), 2 minutes a pied jusqu'a l'entree du Soi 11."
+    },
+    {
+      "rank": 4,
+      "name": "Thonglor",
+      "type": "upscale",
+      "description": "Le quartier nocturne le plus branche de Bangkok, ou les bars a cocktails d'auteur et les rooftop bars donnent le ton. Thonglor attire la scene creative et les locaux aises de Bangkok. Un code vestimentaire est applique dans la plupart des etablissements, et l'ambiance penche vers le sophistique plutot que le chaotique.",
+      "highlights": [
+        "Bars a cocktails d'auteur et rooftop bars",
+        "La clientele la plus stylee de Bangkok",
+        "Etablissements haut de gamme avec un son et un service de qualite"
+      ],
+      "venues": [
+        {
+          "name": "Tichuca",
+          "type": "rooftop bar",
+          "description": "Superbe rooftop bar avec un theme de jungle tropicale et une vue panoramique sur la ville. Repute pour ses cocktails d'auteur a environ 440 THB.",
+          "price_range": "~440 THB cocktails"
+        }
+      ],
+      "price_level": "upscale",
+      "price_range": {
+        "beers": "~250 THB",
+        "cocktails": "~440 THB"
+      },
+      "peak_hours": "9 PM - 1 AM",
+      "how_to_get_there": "Station BTS Thong Lo (sortie 3), puis marchez ou prenez un moto-taxi le long de Sukhumvit Soi 55."
+    },
+    {
+      "rank": 5,
+      "name": "After-Hours",
+      "type": "late-night",
+      "description": "Quand tout le reste ferme, la scene after de Bangkok prend le relais. Quelques clubs s'adressent specifiquement aux noctambules qui ne sont pas prets a rentrer a 2h du matin. Ces lieux operent aux premieres heures du matin et attirent un public dedie de clubbers.",
+      "highlights": [
+        "Ouverts quand tout le reste ferme",
+        "Public dedie de noctambules",
+        "Prolonge votre soiree jusqu'au lever du soleil"
+      ],
+      "venues": [
+        {
+          "name": "Mixx Discotheque",
+          "type": "club",
+          "description": "Le club after le plus celebre de Bangkok, ouvert de 4h a 6h du matin. Entree environ 350 THB boisson incluse. Le public est un melange de tous ceux qui n'etaient pas prets a rentrer.",
+          "price_range": "~350 THB entry with drink"
+        }
+      ],
+      "price_level": "moderate",
+      "price_range": {
+        "entry": "~350 THB with drink"
+      },
+      "peak_hours": "4 AM - 6 AM",
+      "how_to_get_there": "Situe pres de Sukhumvit — le plus simple est d'y aller en Grab ou taxi a cette heure."
+    }
+  ],
+  "tips": [
+    "Emportez votre passeport ou une photo de celui-ci — la plupart des clubs verifient l'identite a l'entree, surtout sur RCA.",
+    "Le code vestimentaire compte dans les etablissements chics de Thonglor et du Soi 11 : pas de tongs, shorts ou debardeurs.",
+    "L'heure de fermeture officielle a Bangkok est 2h du matin pour la plupart des bars, mais les clubs de RCA et les lieux d'after ferment plus tard.",
+    "Utilisez Grab (VTC) pour rentrer en securite — les taxis tard le soir refusent souvent le compteur.",
+    "Les prix des boissons augmentent sensiblement entre Khao San (bieres a 100 THB) et Thonglor (bieres a 250 THB)."
+  ],
+  "generated_at": "2026-03-10"
+}

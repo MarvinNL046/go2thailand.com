@@ -1,0 +1,150 @@
+{
+  "title": "曼谷夜生活 — 最佳酒吧与夜店（2026）",
+  "meta_description": "2026曼谷夜生活指南：考山路、通罗屋顶酒吧、RCA夜店，含真实酒水价格。为你推荐最佳酒吧、夜店和深夜去处。",
+  "intro": "曼谷的夜生活深不可测——从考山路100泰铢一瓶的啤酒到通罗高端酒廊的精酿鸡尾酒，这座城市从不真正入睡。无论你想在RCA的DJ Mag上榜夜店舞至天明，还是在屋顶酒吧慢品杜松子酒，曼谷都能满足你。本指南仅收录我亲自验证过的场所和价格，让你出门前就知道该期待什么。",
+  "areas": [
+    {
+      "rank": 1,
+      "name": "Khao San Road",
+      "type": "backpacker",
+      "description": "这条400米长的街道上挤满了120多家酒吧、街头美食摊和来自世界各地的旅行者。考山路是曼谷夜生活无可争议的背包客圣地。氛围粗犷而不造作——塑料椅、桶装鸡尾酒，和各家音响系统争相轰鸣的低音。嘈杂、汗水淋漓，但这正是你来东南亚要找的感觉。",
+      "highlights": [
+        "400米内120多家酒吧",
+        "曼谷最平价的夜生活",
+        "露天氛围，门口就是街头美食"
+      ],
+      "venues": [],
+      "price_level": "budget",
+      "price_range": {
+        "beers": "~100 THB",
+        "cocktails": "~300 THB"
+      },
+      "peak_hours": "10 PM - 2 AM",
+      "how_to_get_there": "乘湄南河快船至Phra Arthit码头，步行5分钟即到。或从BTS National Stadium站打车/叫Grab（约15分钟）。"
+    },
+    {
+      "rank": 2,
+      "name": "RCA (Royal City Avenue)",
+      "type": "clubbing",
+      "description": "曼谷的主要电子音乐夜店区。RCA是一条专门的夜生活街，大型夜店分列道路两侧，各自全音量播放不同曲风。这里是曼谷年轻人跳舞的首选，周末的气氛尤其火爆。入场费通常包含一杯酒水。",
+      "highlights": [
+        "曼谷主要的电子音乐夜店区",
+        "入场约300泰铢含一杯酒",
+        "多家夜店涵盖不同音乐风格"
+      ],
+      "venues": [
+        {
+          "name": "Route 66",
+          "type": "club",
+          "description": "超大型夜店，设有3个独立区域：K-pop、嘻哈和电子音乐。选择你喜欢的风格，整晚自由穿梭。",
+          "price_range": "~300 THB entry with drink"
+        },
+        {
+          "name": "The Club",
+          "type": "club",
+          "description": "入选DJ Mag全球百大夜店榜单，音响设备一流，定期邀请国际DJ驻场，营业至凌晨4点。",
+          "price_range": "250 THB entry with drink"
+        },
+        {
+          "name": "Spaceplus",
+          "type": "club",
+          "description": "入选DJ Mag全球50大夜店，以大制作、沉浸式LED视觉效果和顶级电子音乐阵容著称。",
+          "price_range": "~300 THB entry with drink"
+        }
+      ],
+      "price_level": "moderate",
+      "price_range": {
+        "entry": "~300 THB with drink",
+        "beers": "~150 THB",
+        "cocktails": "~350 THB"
+      },
+      "peak_hours": "11 PM - 3 AM",
+      "how_to_get_there": "从MRT Phra Ram 9站出站后打车或叫Grab（约5分钟）。也可直接打车前往——大多数司机都知道RCA。"
+    },
+    {
+      "rank": 3,
+      "name": "Sukhumvit Soi 11",
+      "type": "mixed",
+      "description": "一条巷子里汇集了密度惊人的精致酒吧、屋顶酒廊和深夜夜店。Soi 11吸引着外籍人士、游客和讲究品味的本地人，适合想要比考山路更精致、但又不用承受通罗价格的夜晚。",
+      "highlights": [
+        "精致夜生活聚集于紧凑区域",
+        "屋顶酒吧、酒廊和夜店兼备",
+        "BTS轻轨直达"
+      ],
+      "venues": [
+        {
+          "name": "Levels",
+          "type": "club",
+          "description": "高端多层场所，以开瓶服务和着装讲究的客群闻名，音响设备顶级。",
+          "price_range": "~400 THB cocktails"
+        }
+      ],
+      "price_level": "moderate",
+      "price_range": {
+        "beers": "~180 THB",
+        "cocktails": "~400 THB"
+      },
+      "peak_hours": "10 PM - 2 AM",
+      "how_to_get_there": "BTS Nana站（3号出口），步行2分钟即到Soi 11入口。"
+    },
+    {
+      "rank": 4,
+      "name": "Thonglor",
+      "type": "upscale",
+      "description": "曼谷最时尚的夜生活区，精酿鸡尾酒酒廊和屋顶酒吧定义了这里的格调。通罗吸引着曼谷的创意人士和高收入本地客群。大多数场所有着装要求，氛围以精致优雅为主。",
+      "highlights": [
+        "精酿鸡尾酒酒廊和屋顶酒吧",
+        "曼谷最有格调的客群",
+        "高端场所，音响和服务一流"
+      ],
+      "venues": [
+        {
+          "name": "Tichuca",
+          "type": "rooftop bar",
+          "description": "令人惊叹的屋顶酒吧，热带丛林主题搭配城市全景。以精心调制的鸡尾酒闻名，约440泰铢一杯。",
+          "price_range": "~440 THB cocktails"
+        }
+      ],
+      "price_level": "upscale",
+      "price_range": {
+        "beers": "~250 THB",
+        "cocktails": "~440 THB"
+      },
+      "peak_hours": "9 PM - 1 AM",
+      "how_to_get_there": "BTS Thong Lo站（3号出口），然后沿Sukhumvit Soi 55步行或搭摩托车。"
+    },
+    {
+      "rank": 5,
+      "name": "After-Hours",
+      "type": "late-night",
+      "description": "当其他地方都关门后，曼谷的深夜场景才刚开始。少数夜店专为凌晨2点还不想结束的夜猫子服务，在凌晨时段营业，吸引着一批忠实的深夜玩家。",
+      "highlights": [
+        "其他场所打烊后开门",
+        "忠实的深夜客群",
+        "将你的夜晚延续到日出"
+      ],
+      "venues": [
+        {
+          "name": "Mixx Discotheque",
+          "type": "club",
+          "description": "曼谷最著名的深夜夜店，凌晨4点至6点营业。入场约350泰铢含一杯酒。客群是所有不想回家的人的大集合。",
+          "price_range": "~350 THB entry with drink"
+        }
+      ],
+      "price_level": "moderate",
+      "price_range": {
+        "entry": "~350 THB with drink"
+      },
+      "peak_hours": "4 AM - 6 AM",
+      "how_to_get_there": "位于Sukhumvit附近——那个时间点最好叫Grab或打车前往。"
+    }
+  ],
+  "tips": [
+    "随身携带护照或护照照片——大多数夜店会在门口查证件，RCA区域尤其严格。",
+    "通罗和Soi 11的高端场所有着装要求：不可穿拖鞋、短裤或背心。",
+    "曼谷大多数酒吧官方打烊时间为凌晨2点，但RCA的夜店和深夜场所会开到更晚。",
+    "使用Grab（打车软件）安全回家——深夜出租车经常拒绝打表。",
+    "酒水价格从考山路（100泰铢啤酒）到通罗（250泰铢啤酒）差异显著。"
+  ],
+  "generated_at": "2026-03-10"
+}

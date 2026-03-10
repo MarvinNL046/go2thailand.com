@@ -1,0 +1,150 @@
+{
+  "title": "Bangkok Nachtleben — Die besten Bars & Clubs (2026)",
+  "meta_description": "Bangkok Nachtleben Guide 2026: Khao San Road, Rooftop-Bars in Thonglor, RCA-Clubs mit echten Getrankepreisen. Die besten Bars, Clubs und After-Hour-Spots.",
+  "intro": "Bangkoks Nachtleben ist tiefgrundend — von 100-Baht-Bieren auf der Khao San Road bis zu Craft-Cocktails in Thonglors gehobenen Lounges, diese Stadt schlaft nie wirklich. Ob du bis zum Morgengrauen in einem DJ-Mag-gerankten Club auf der RCA tanzen oder Gin auf einer Rooftop-Bar nippen willst — Bangkok liefert. Dieser Guide umfasst nur Locations und Preise, die ich personlich gepruft habe.",
+  "areas": [
+    {
+      "rank": 1,
+      "name": "Khao San Road",
+      "type": "backpacker",
+      "description": "Eine 400 Meter lange Strecke mit uber 120 Bars, Strassenessen-Standen und Reisenden aus aller Welt. Die Khao San Road ist das unangefochtene Backpacker-Epizentrum von Bangkoks Nachtleben. Die Energie ist roh und unpratenties — Plastikstuhle, Cocktail-Eimer und dronende Basse von konkurrierenden Soundsystemen. Laut, schweissig und genau das, wofur du nach Sudostasien gekommen bist.",
+      "highlights": [
+        "Uber 120 Bars auf nur 400 m",
+        "Das gunstigste Nachtleben in Bangkok",
+        "Open-Air-Atmosphare mit Strassenessen direkt vor der Tur"
+      ],
+      "venues": [],
+      "price_level": "budget",
+      "price_range": {
+        "beers": "~100 THB",
+        "cocktails": "~300 THB"
+      },
+      "peak_hours": "10 PM - 2 AM",
+      "how_to_get_there": "Nimm das Chao Phraya Express Boot zum Phra Arthit Pier, dann 5 Minuten zu Fuss. Oder Taxi/Grab vom BTS National Stadium (15 Min.)."
+    },
+    {
+      "rank": 2,
+      "name": "RCA (Royal City Avenue)",
+      "type": "clubbing",
+      "description": "Bangkoks grosstes EDM-Clubviertel. Die RCA ist eine eigene Nachtleben-Meile, an der riesige Clubs auf beiden Strassenseiten stehen und verschiedene Genres in voller Lautstarke spielen. Hier kommt Bangkoks junges Publikum zum Tanzen, und an Wochenenden ist die Energie elektrisierend. Eintrittspreise beinhalten in der Regel ein Getrank.",
+      "highlights": [
+        "Bangkoks grosstes EDM-Clubviertel",
+        "Eintritt ~300 THB inkl. Getrank",
+        "Verschiedene Genres in verschiedenen Clubs"
+      ],
+      "venues": [
+        {
+          "name": "Route 66",
+          "type": "club",
+          "description": "Riesiger Mega-Club mit 3 separaten Raumen: K-Pop, Hip-Hop und EDM. Wahle deinen Vibe und wechsle die ganze Nacht zwischen ihnen.",
+          "price_range": "~300 THB entry with drink"
+        },
+        {
+          "name": "The Club",
+          "type": "club",
+          "description": "In der DJ Mag Top 100 Clubs Liste gelistet. Hochwertiges Soundsystem und internationale DJ-Bookings. Geoffnet bis 4 Uhr.",
+          "price_range": "250 THB entry with drink"
+        },
+        {
+          "name": "Spaceplus",
+          "type": "club",
+          "description": "In den DJ Mag Top 50 gerankt, bekannt fur massive Produktion, immersive LED-Visuals und erstklassige EDM-Lineups.",
+          "price_range": "~300 THB entry with drink"
+        }
+      ],
+      "price_level": "moderate",
+      "price_range": {
+        "entry": "~300 THB with drink",
+        "beers": "~150 THB",
+        "cocktails": "~350 THB"
+      },
+      "peak_hours": "11 PM - 3 AM",
+      "how_to_get_there": "MRT Phra Ram 9 Station, dann eine kurze Taxi- oder Grab-Fahrt (5 Min.). Oder direkt per Taxi — die meisten Fahrer kennen die RCA."
+    },
+    {
+      "rank": 3,
+      "name": "Sukhumvit Soi 11",
+      "type": "mixed",
+      "description": "Eine einzelne Soi mit einer beeindruckenden Dichte an gehobenen Bars, Rooftop-Lounges und Nachtclubs. Soi 11 zieht einen Mix aus Expats, Touristen und gut betuchten Einheimischen an, die einen gepflegteren Abend als auf der Khao San suchen, ohne gleich Thonglor-Preise zahlen zu mussen.",
+      "highlights": [
+        "Gehobenes Nachtleben auf engem Raum",
+        "Mix aus Rooftop-Bars, Lounges und Clubs",
+        "Einfacher BTS-Zugang"
+      ],
+      "venues": [
+        {
+          "name": "Levels",
+          "type": "club",
+          "description": "Gehobene Multi-Level-Location, bekannt fur Flaschenservice und ein schick gekleidetes Publikum. Das Soundsystem ist erstklassig.",
+          "price_range": "~400 THB cocktails"
+        }
+      ],
+      "price_level": "moderate",
+      "price_range": {
+        "beers": "~180 THB",
+        "cocktails": "~400 THB"
+      },
+      "peak_hours": "10 PM - 2 AM",
+      "how_to_get_there": "BTS Nana Station (Ausgang 3), 2 Minuten zu Fuss zum Eingang der Soi 11."
+    },
+    {
+      "rank": 4,
+      "name": "Thonglor",
+      "type": "upscale",
+      "description": "Bangkoks modischstes Nachtleben-Viertel, in dem Craft-Cocktail-Lounges und Rooftop-Bars den Ton angeben. Thonglor zieht Bangkoks Kreativszene und wohlhabende Einheimische an. Dresscodes werden in den meisten Locations durchgesetzt, und die Atmosphare ist eher stilvoll als chaotisch.",
+      "highlights": [
+        "Craft-Cocktail-Lounges und Rooftop-Bars",
+        "Bangkoks stilvollstes Publikum",
+        "Gehobene Locations mit erstklassigem Sound und Service"
+      ],
+      "venues": [
+        {
+          "name": "Tichuca",
+          "type": "rooftop bar",
+          "description": "Atemberaubende Rooftop-Bar mit tropischem Dschungel-Thema und Panoramablick uber die Stadt. Bekannt fur meisterhaft zubereitete Cocktails um 440 THB.",
+          "price_range": "~440 THB cocktails"
+        }
+      ],
+      "price_level": "upscale",
+      "price_range": {
+        "beers": "~250 THB",
+        "cocktails": "~440 THB"
+      },
+      "peak_hours": "9 PM - 1 AM",
+      "how_to_get_there": "BTS Thong Lo Station (Ausgang 3), dann zu Fuss oder per Motorradtaxi entlang der Sukhumvit Soi 55."
+    },
+    {
+      "rank": 5,
+      "name": "After-Hours",
+      "type": "late-night",
+      "description": "Wenn uberall sonst geschlossen wird, startet Bangkoks After-Hours-Szene. Eine Handvoll Clubs richtet sich speziell an Nachtschwarmer, die um 2 Uhr noch nicht aufhoren wollen. Diese Locations operieren in den fruhen Morgenstunden und ziehen ein eingeschworenes Clubber-Publikum an.",
+      "highlights": [
+        "Geoffnet wenn alles andere schliesst",
+        "Eingefleischtes Nachtschwarmer-Publikum",
+        "Verlangert deine Nacht bis Sonnenaufgang"
+      ],
+      "venues": [
+        {
+          "name": "Mixx Discotheque",
+          "type": "club",
+          "description": "Bangkoks beruhmtester After-Hours-Club, geoffnet von 4 bis 6 Uhr morgens. Eintritt ca. 350 THB inkl. Getrank. Das Publikum ist ein Mix aus allen, die noch nicht nach Hause wollten.",
+          "price_range": "~350 THB entry with drink"
+        }
+      ],
+      "price_level": "moderate",
+      "price_range": {
+        "entry": "~350 THB with drink"
+      },
+      "peak_hours": "4 AM - 6 AM",
+      "how_to_get_there": "In der Nahe von Sukhumvit — zu dieser Uhrzeit am besten per Grab oder Taxi erreichbar."
+    }
+  ],
+  "tips": [
+    "Reisepass oder ein Foto davon mitnehmen — die meisten Clubs kontrollieren den Ausweis am Eingang, besonders auf der RCA.",
+    "Dresscode ist wichtig in gehobenen Locations in Thonglor und Soi 11: keine Flip-Flops, kurze Hosen oder Tanktops.",
+    "Bangkoks offizielle Sperrstunde ist 2 Uhr fur die meisten Bars, aber Clubs auf der RCA und After-Hours-Spots haben langer geoffnet.",
+    "Grab (Fahrdienst-App) fur die sichere Heimfahrt nutzen — Taxis spat nachts verweigern oft den Taxameter.",
+    "Getrankepreise steigen deutlich von Khao San (100 THB Bier) bis Thonglor (250 THB Bier)."
+  ],
+  "generated_at": "2026-03-10"
+}

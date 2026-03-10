@@ -1,0 +1,90 @@
+{
+  "title": "Vie nocturne a Pattaya - Meilleurs bars et clubs (2026)",
+  "meta_description": "Guide de la vie nocturne a Pattaya 2026 : clubs de Walking Street, 808 Club, Club Insomnia et alternatives plus sures sur LK Metro et Soi Buakhao. Vrais prix et conseils.",
+  "intro": "La vie nocturne de Pattaya est legendaire et clivante a parts egales. Walking Street est l'attraction principale — une artere inondee de neons qui s'ouvre a la fete pietonne apres 19h chaque soir. Mais la scene de Pattaya s'etend bien au-dela de cette seule rue, avec des alternatives plus sures et decontractees sur LK Metro et Soi Buakhao. Que vous cherchiez de l'EDM jusqu'a l'aube ou une biere tranquille avec de la musique live, Pattaya a ce qu'il vous faut. Voici ce qu'il faut savoir avant d'y aller.",
+  "areas": [
+    {
+      "rank": 1,
+      "name": "Walking Street",
+      "type": "entertainment strip",
+      "description": "La rue nocturne la plus celebre de Pattaya et le quartier le plus cher de la ville. Apres 19h, la route est fermee a la circulation et les neons prennent le relais. Mega-clubs, go-go bars, salles de concert et beer bars s'alignent des deux cotes. C'est intense, bruyant, et pas pour tout le monde — mais c'est indeniablement le coeur de la vie nocturne de Pattaya.",
+      "highlights": [
+        "Artere nocturne emblematique de Pattaya",
+        "Neons et rue pietonne apres 19h",
+        "Plus forte concentration de clubs et bars"
+      ],
+      "venues": [
+        {
+          "name": "Club Insomnia",
+          "type": "club",
+          "description": "Le club EDM de reference de Walking Street avec des DJ internationaux et des soirees a theme. Une vraie experience de boite de nuit avec un son et un eclairage de qualite.",
+          "price_range": "~500 THB entry with drink"
+        },
+        {
+          "name": "808 Club",
+          "type": "club",
+          "description": "Club ultra-moderne avec des visuels impressionnants et une piste de danse spacieuse. L'un des lieux les plus recents et les plus soignes de Walking Street.",
+          "price_range": "~500 THB entry with drink"
+        },
+        {
+          "name": "The Pier",
+          "type": "bar",
+          "description": "Lieu de pre-soiree populaire a l'entree de Walking Street. Connu pour ses soirees a theme et son ambiance animee pour demarrer la soiree.",
+          "price_range": "100-300 THB drinks"
+        },
+        {
+          "name": "Mixx Discotheque",
+          "type": "club",
+          "description": "L'une des grandes pistes de danse emblematiques de Walking Street, avec une reputation de longue date dans la nuit de Pattaya.",
+          "price_range": "~500 THB entry with drink"
+        },
+        {
+          "name": "Lucifer Disco",
+          "type": "club",
+          "description": "Autre institution de Walking Street, connue pour son immense piste de danse et son energie en fin de soiree.",
+          "price_range": "~500 THB entry with drink"
+        },
+        {
+          "name": "Marine Disco",
+          "type": "club",
+          "description": "Club historique avec une clientele fidele. L'un des lieux de vie nocturne les plus anciens de Pattaya.",
+          "price_range": "~500 THB entry with drink"
+        }
+      ],
+      "price_level": "moderate",
+      "price_range": {
+        "drinks": "100-300 THB",
+        "club_entry": "~500 THB with drink"
+      },
+      "peak_hours": "11 PM - 2 AM",
+      "how_to_get_there": "Songthaew (pick-up partage) depuis n'importe ou a Pattaya pour 10-20 THB vous depose a l'entree. Grab fonctionne aussi tres bien."
+    },
+    {
+      "rank": 2,
+      "name": "LK Metro & Soi Buakhao",
+      "type": "alternative",
+      "description": "Alternatives plus sures et moins agressives que Walking Street. LK Metro est une zone de divertissement compacte avec des beer bars et de la musique live, tandis que Soi Buakhao longe en parallele et offre une ambiance plus detendue et locale. Les deux quartiers attirent des expatries et des habitues qui preferent un rythme plus tranquille sans l'intensite de Walking Street.",
+      "highlights": [
+        "Plus sur et plus detendu que Walking Street",
+        "Prix plus bas et racolage moins agressif",
+        "Populaire aupres des expatries et des habitues"
+      ],
+      "venues": [],
+      "price_level": "budget",
+      "price_range": {
+        "drinks": "80-200 THB"
+      },
+      "peak_hours": "9 PM - 1 AM",
+      "how_to_get_there": "LK Metro se trouve sur Soi Diana, depuis Second Road dans le centre de Pattaya. Soi Buakhao est parallele a Second Road. Les deux sont accessibles en songthaew depuis n'importe ou en ville."
+    }
+  ],
+  "tips": [
+    "Walking Street ferme a la circulation a 19h — c'est le moment ou les neons s'allument et la rue prend vie.",
+    "Les heures de pointe sur Walking Street sont de 23h a 2h, surtout le week-end.",
+    "L'entree des clubs sur Walking Street est generalement d'environ 500 THB avec une boisson incluse.",
+    "LK Metro et Soi Buakhao offrent une alternative plus sure et moins agressive si Walking Street vous semble trop intense.",
+    "Les prix des boissons vont de 100 a 300 THB ; verifiez toujours le prix avant de commander dans les bars que vous ne connaissez pas.",
+    "Utilisez Grab pour rentrer — negociez le tarif du baht bus avant de monter, surtout tard le soir."
+  ],
+  "generated_at": "2026-03-10"
+}
