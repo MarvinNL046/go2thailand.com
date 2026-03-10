@@ -5,19 +5,52 @@
     "en": "Northern Thailand",
     "nl": "Noord-Thailand",
     "fr": "Thaïlande du Nord",
-    "de": "Nordthailand"
+    "de": "Nordthailand",
+    "zh": "泰国北部"
   },
   "description": {
     "en": "Mountainous region known for ancient temples, hill tribes, cooler climate, and cultural heritage.",
     "nl": "Bergachtige regio bekend om oude tempels, bergstammen, koeler klimaat en cultureel erfgoed.",
     "fr": "Région montagneuse connue pour ses temples anciens, ses tribus des collines, son climat plus frais et son patrimoine culturel.",
-    "de": "Bergige Region bekannt für antike Tempel, Bergvölker, kühleres Klima und kulturelles Erbe."
+    "de": "Bergige Region bekannt für antike Tempel, Bergvölker, kühleres Klima und kulturelles Erbe.",
+    "zh": "以古老寺庙、山地部落、凉爽气候和文化遗产闻名的山区。"
   },
   "highlights": {
-    "en": ["Ancient temples", "Hill tribes", "Cooler climate", "Cultural heritage", "Mountain trekking"],
-    "nl": ["Oude tempels", "Bergstammen", "Koeler klimaat", "Cultureel erfgoed", "Bergtrekking"],
-    "fr": ["Temples anciens", "Tribus des collines", "Climat plus frais", "Patrimoine culturel", "Trekking en montagne"],
-    "de": ["Antike Tempel", "Bergvölker", "Kühleres Klima", "Kulturelles Erbe", "Bergtrekking"]
+    "en": [
+      "Ancient temples",
+      "Hill tribes",
+      "Cooler climate",
+      "Cultural heritage",
+      "Mountain trekking"
+    ],
+    "nl": [
+      "Oude tempels",
+      "Bergstammen",
+      "Koeler klimaat",
+      "Cultureel erfgoed",
+      "Bergtrekking"
+    ],
+    "fr": [
+      "Temples anciens",
+      "Tribus des collines",
+      "Climat plus frais",
+      "Patrimoine culturel",
+      "Trekking en montagne"
+    ],
+    "de": [
+      "Antike Tempel",
+      "Bergvölker",
+      "Kühleres Klima",
+      "Kulturelles Erbe",
+      "Bergtrekking"
+    ],
+    "zh": [
+      "古老寺庙",
+      "山地部落",
+      "凉爽气候",
+      "文化遗产",
+      "山地徒步"
+    ]
   },
   "cities": [
     "Chiang Mai",
@@ -31,87 +64,151 @@
     "en": "Cool and dry (Nov-Feb), Hot (Mar-May), Rainy (Jun-Oct)",
     "nl": "Koel en droog (nov-feb), heet (mrt-mei), regenseizoen (jun-okt)",
     "fr": "Frais et sec (nov-fév), chaud (mars-mai), pluvieux (juin-oct)",
-    "de": "Kühl und trocken (Nov-Feb), heiß (März-Mai), Regenzeit (Juni-Okt)"
+    "de": "Kühl und trocken (Nov-Feb), heiß (März-Mai), Regenzeit (Juni-Okt)",
+    "zh": "凉爽干燥（11月-2月），炎热（3月-5月），雨季（6月-10月）"
   },
   "bestTimeToVisit": {
     "en": "November to February",
     "nl": "November tot februari",
     "fr": "Novembre à février",
-    "de": "November bis Februar"
+    "de": "November bis Februar",
+    "zh": "11月至2月"
   },
   "image": "/images/regions/northern-thailand.webp",
   "geography": {
     "en": "Mountainous terrain with peaks reaching over 2000m. Dense forests, river valleys, and hill tribe villages. Borders Myanmar and Laos.",
     "nl": "Bergachtig terrein met pieken boven de 2000 meter. Dichte bossen, rivierdalen en bergstam-dorpen. Grenst aan Myanmar en Laos.",
     "fr": "Terrain montagneux avec des sommets dépassant 2000 m. Forêts denses, vallées fluviales et villages de tribus des collines. Frontières avec le Myanmar et le Laos.",
-    "de": "Bergiges Gelände mit Gipfeln über 2000 m. Dichte Wälder, Flusstäler und Bergvölker-Dörfer. Grenzt an Myanmar und Laos."
+    "de": "Bergiges Gelände mit Gipfeln über 2000 m. Dichte Wälder, Flusstäler und Bergvölker-Dörfer. Grenzt an Myanmar und Laos.",
+    "zh": "山地地形，山峰超过2000米。茂密的森林、河谷和山地部落村庄。与缅甸和老挝接壤。"
   },
   "culture": {
     "en": "Rich Lanna heritage with distinct architecture, crafts, and traditions. Home to various hill tribes including Hmong, Karen, and Akha peoples.",
     "nl": "Rijk Lanna-erfgoed met unieke architectuur, ambachten en tradities. Thuisbasis van diverse bergstammen waaronder de Hmong, Karen en Akha volkeren.",
     "fr": "Riche patrimoine Lanna avec une architecture, un artisanat et des traditions distincts. Terre d'accueil de diverses tribus des collines dont les peuples Hmong, Karen et Akha.",
-    "de": "Reiches Lanna-Erbe mit einzigartiger Architektur, Kunsthandwerk und Traditionen. Heimat verschiedener Bergvölker, darunter die Hmong, Karen und Akha."
+    "de": "Reiches Lanna-Erbe mit einzigartiger Architektur, Kunsthandwerk und Traditionen. Heimat verschiedener Bergvölker, darunter die Hmong, Karen und Akha.",
+    "zh": "丰富的兰纳文化遗产，拥有独特的建筑、手工艺和传统。多个山地部落的家园，包括苗族、克伦族和阿卡族。"
   },
   "cuisine": {
     "en": "Khao Soi curry noodles, Sai Oua sausage, sticky rice, northern curries. Influenced by Burmese and Lao cuisine.",
     "nl": "Khao Soi currynoedels, Sai Oua worst, kleefrijst, noordelijke curry's. Beïnvloed door Birmese en Laotiaanse keuken.",
     "fr": "Nouilles au curry Khao Soi, saucisse Sai Oua, riz gluant, currys du nord. Influencée par les cuisines birmane et laotienne.",
-    "de": "Khao Soi Currynudeln, Sai Oua Wurst, Klebreis, nördliche Currys. Beeinflusst von der burmesischen und laotischen Küche."
+    "de": "Khao Soi Currynudeln, Sai Oua Wurst, Klebreis, nördliche Currys. Beeinflusst von der burmesischen und laotischen Küche.",
+    "zh": "Khao Soi咖喱面、Sai Oua香肠、糯米饭、北方咖喱。受缅甸和老挝美食影响。"
   },
   "transportation": {
     "en": "Domestic flights to Chiang Mai/Chiang Rai. Buses connect cities. Songthaews and tuk-tuks locally. Motorbike rentals popular.",
     "nl": "Binnenlandse vluchten naar Chiang Mai/Chiang Rai. Bussen verbinden steden. Lokaal songthaews en tuk-tuks. Motorverhuur is populair.",
     "fr": "Vols intérieurs vers Chiang Mai/Chiang Rai. Des bus relient les villes. Songthaews et tuk-tuks localement. Location de motos populaire.",
-    "de": "Inlandsflüge nach Chiang Mai/Chiang Rai. Busse verbinden die Städte. Songthaews und Tuk-Tuks vor Ort. Motorradverleih beliebt."
+    "de": "Inlandsflüge nach Chiang Mai/Chiang Rai. Busse verbinden die Städte. Songthaews und Tuk-Tuks vor Ort. Motorradverleih beliebt.",
+    "zh": "国内航班飞往清迈/清莱。巴士连接各城市。当地有双条车和嘟嘟车。摩托车租赁很受欢迎。"
   },
   "budgetInfo": {
     "en": "Budget: $25-40/day. Mid-range: $40-80/day. Luxury: $80+/day. Accommodation cheaper than Bangkok.",
     "nl": "Budget: $25-40/dag. Middenklasse: $40-80/dag. Luxe: $80+/dag. Accommodatie goedkoper dan Bangkok.",
     "fr": "Budget : $25-40/jour. Milieu de gamme : $40-80/jour. Luxe : $80+/jour. Hébergement moins cher qu'à Bangkok.",
-    "de": "Budget: $25-40/Tag. Mittelklasse: $40-80/Tag. Luxus: $80+/Tag. Unterkünfte günstiger als in Bangkok."
+    "de": "Budget: $25-40/Tag. Mittelklasse: $40-80/Tag. Luxus: $80+/Tag. Unterkünfte günstiger als in Bangkok.",
+    "zh": "经济型：$25-40/天。中档：$40-80/天。豪华：$80+/天。住宿比曼谷便宜。"
   },
   "topActivities": {
-    "en": ["Temple hopping, hill tribe trekking, cooking classes, elephant sanctuaries, zip-lining, white water rafting, hot springs"],
-    "nl": ["Tempelbezoek, bergstam-trekking, kooklessen, olifantenopvang, zipline, wildwatervaren, warmwaterbronnen"],
-    "fr": ["Visite de temples, trekking chez les tribus, cours de cuisine, sanctuaires d'éléphants, tyrolienne, rafting en eaux vives, sources chaudes"],
-    "de": ["Tempelbesuche, Bergvölker-Trekking, Kochkurse, Elefanten-Schutzgebiete, Zipline, Wildwasser-Rafting, heiße Quellen"]
+    "en": [
+      "Temple hopping, hill tribe trekking, cooking classes, elephant sanctuaries, zip-lining, white water rafting, hot springs"
+    ],
+    "nl": [
+      "Tempelbezoek, bergstam-trekking, kooklessen, olifantenopvang, zipline, wildwatervaren, warmwaterbronnen"
+    ],
+    "fr": [
+      "Visite de temples, trekking chez les tribus, cours de cuisine, sanctuaires d'éléphants, tyrolienne, rafting en eaux vives, sources chaudes"
+    ],
+    "de": [
+      "Tempelbesuche, Bergvölker-Trekking, Kochkurse, Elefanten-Schutzgebiete, Zipline, Wildwasser-Rafting, heiße Quellen"
+    ],
+    "zh": [
+      "寺庙巡游、山地部落徒步、烹饪课程、大象保护区、滑索、漂流、温泉"
+    ]
   },
   "hiddenGems": {
-    "en": ["Pai canyon, Mae Hong Son loop, Doi Mae Salong tea plantations, Sangkhlaburi, Mon Bridge"],
-    "nl": ["Pai Canyon, Mae Hong Son-lus, Doi Mae Salong theeplantages, Sangkhlaburi, Mon-brug"],
-    "fr": ["Pai Canyon, boucle de Mae Hong Son, plantations de thé de Doi Mae Salong, Sangkhlaburi, pont Mon"],
-    "de": ["Pai Canyon, Mae Hong Son-Rundfahrt, Doi Mae Salong Teeplantagen, Sangkhlaburi, Mon-Brücke"]
+    "en": [
+      "Pai canyon, Mae Hong Son loop, Doi Mae Salong tea plantations, Sangkhlaburi, Mon Bridge"
+    ],
+    "nl": [
+      "Pai Canyon, Mae Hong Son-lus, Doi Mae Salong theeplantages, Sangkhlaburi, Mon-brug"
+    ],
+    "fr": [
+      "Pai Canyon, boucle de Mae Hong Son, plantations de thé de Doi Mae Salong, Sangkhlaburi, pont Mon"
+    ],
+    "de": [
+      "Pai Canyon, Mae Hong Son-Rundfahrt, Doi Mae Salong Teeplantagen, Sangkhlaburi, Mon-Brücke"
+    ],
+    "zh": [
+      "拜县峡谷、夜丰颂环线、美斯乐茶园、桑卡拉武里、孟桥"
+    ]
   },
   "localFestivals": {
-    "en": ["Loi Krathong (November), Songkran (April), Yi Peng Lantern Festival (November), Flower Festival (February)"],
-    "nl": ["Loi Krathong (november), Songkran (april), Yi Peng Lantaarnfestival (november), Bloemenfestival (februari)"],
-    "fr": ["Loi Krathong (novembre), Songkran (avril), Festival des lanternes Yi Peng (novembre), Festival des fleurs (février)"],
-    "de": ["Loi Krathong (November), Songkran (April), Yi Peng Laternenfest (November), Blumenfestival (Februar)"]
+    "en": [
+      "Loi Krathong (November), Songkran (April), Yi Peng Lantern Festival (November), Flower Festival (February)"
+    ],
+    "nl": [
+      "Loi Krathong (november), Songkran (april), Yi Peng Lantaarnfestival (november), Bloemenfestival (februari)"
+    ],
+    "fr": [
+      "Loi Krathong (novembre), Songkran (avril), Festival des lanternes Yi Peng (novembre), Festival des fleurs (février)"
+    ],
+    "de": [
+      "Loi Krathong (November), Songkran (April), Yi Peng Laternenfest (November), Blumenfestival (Februar)"
+    ],
+    "zh": [
+      "水灯节（11月）、泼水节（4月）、万人天灯节（11月）、花卉节（2月）"
+    ]
   },
   "travelTips": {
-    "en": ["Pack warm clothes for evenings. Respect hill tribe customs. Book tours through reputable operators. Learn basic Thai phrases."],
-    "nl": ["Neem warme kleding mee voor de avonden. Respecteer gebruiken van bergstammen. Boek tours via betrouwbare aanbieders. Leer basis Thaise zinnen."],
-    "fr": ["Emportez des vêtements chauds pour les soirées. Respectez les coutumes des tribus. Réservez vos excursions auprès d'opérateurs réputés. Apprenez quelques phrases de base en thaï."],
-    "de": ["Packen Sie warme Kleidung für die Abende ein. Respektieren Sie die Bräuche der Bergvölker. Buchen Sie Touren bei seriösen Anbietern. Lernen Sie grundlegende Thai-Phrasen."]
+    "en": [
+      "Pack warm clothes for evenings. Respect hill tribe customs. Book tours through reputable operators. Learn basic Thai phrases."
+    ],
+    "nl": [
+      "Neem warme kleding mee voor de avonden. Respecteer gebruiken van bergstammen. Boek tours via betrouwbare aanbieders. Leer basis Thaise zinnen."
+    ],
+    "fr": [
+      "Emportez des vêtements chauds pour les soirées. Respectez les coutumes des tribus. Réservez vos excursions auprès d'opérateurs réputés. Apprenez quelques phrases de base en thaï."
+    ],
+    "de": [
+      "Packen Sie warme Kleidung für die Abende ein. Respektieren Sie die Bräuche der Bergvölker. Buchen Sie Touren bei seriösen Anbietern. Lernen Sie grundlegende Thai-Phrasen."
+    ],
+    "zh": [
+      "夜间请携带保暖衣物。尊重山地部落习俗。通过正规旅行社预订旅游。学习基本的泰语短语。"
+    ]
   },
   "whatToPack": {
-    "en": ["Warm jacket, comfortable walking shoes, insect repellent, sunscreen, modest clothing for temples, rain jacket"],
-    "nl": ["Warme jas, comfortabele wandelschoenen, insectenspray, zonnebrandcrème, bescheiden kleding voor tempels, regenjas"],
-    "fr": ["Veste chaude, chaussures de marche confortables, répulsif anti-insectes, crème solaire, vêtements modestes pour les temples, veste de pluie"],
-    "de": ["Warme Jacke, bequeme Wanderschuhe, Insektenschutzmittel, Sonnencreme, bescheidene Kleidung für Tempel, Regenjacke"]
+    "en": [
+      "Warm jacket, comfortable walking shoes, insect repellent, sunscreen, modest clothing for temples, rain jacket"
+    ],
+    "nl": [
+      "Warme jas, comfortabele wandelschoenen, insectenspray, zonnebrandcrème, bescheiden kleding voor tempels, regenjas"
+    ],
+    "fr": [
+      "Veste chaude, chaussures de marche confortables, répulsif anti-insectes, crème solaire, vêtements modestes pour les temples, veste de pluie"
+    ],
+    "de": [
+      "Warme Jacke, bequeme Wanderschuhe, Insektenschutzmittel, Sonnencreme, bescheidene Kleidung für Tempel, Regenjacke"
+    ],
+    "zh": [
+      "保暖外套、舒适的徒步鞋、驱虫剂、防晒霜、参观寺庙的端庄服装、雨衣"
+    ]
   },
   "seo": {
     "metaTitle": {
       "en": "Northern Thailand Travel Guide 2026 | Go2Thailand",
       "nl": "Noord-Thailand Reisgids 2026 | Go2Thailand",
       "fr": "Guide de voyage Thaïlande du Nord 2026 | Go2Thailand",
-      "de": "Nordthailand Reiseführer 2026 | Go2Thailand"
+      "de": "Nordthailand Reiseführer 2026 | Go2Thailand",
+      "zh": "泰国北部旅游指南2026 | Go2Thailand"
     },
     "metaDescription": {
       "en": "Northern Thailand travel guide 2026. Best cities, attractions, climate, and travel tips for Chiang Mai, Chiang Rai, Pai and more.",
       "nl": "Noord-Thailand reisgids 2026. Beste steden, attracties, klimaat en reistips voor Chiang Mai, Chiang Rai, Pai en meer.",
       "fr": "Guide de voyage Thaïlande du Nord 2026. Meilleures villes, attractions, climat et conseils de voyage pour Chiang Mai, Chiang Rai, Pai et plus.",
-      "de": "Nordthailand Reiseführer 2026. Beste Städte, Sehenswürdigkeiten, Klima und Reisetipps für Chiang Mai, Chiang Rai, Pai und mehr."
+      "de": "Nordthailand Reiseführer 2026. Beste Städte, Sehenswürdigkeiten, Klima und Reisetipps für Chiang Mai, Chiang Rai, Pai und mehr.",
+      "zh": "泰国北部旅游指南2026。清迈、清莱、拜县等最佳城市、景点、气候和旅行攻略。"
     }
   },
   "categories": {
@@ -119,19 +216,22 @@
       "en": "Top attractions in Northern Thailand",
       "nl": "Top bezienswaardigheden in Noord-Thailand",
       "fr": "Principales attractions en Thaïlande du Nord",
-      "de": "Top-Sehenswürdigkeiten in Nordthailand"
+      "de": "Top-Sehenswürdigkeiten in Nordthailand",
+      "zh": "泰国北部热门景点"
     },
     "cities": {
       "en": "Best cities to visit in Northern Thailand",
       "nl": "Beste steden om te bezoeken in Noord-Thailand",
       "fr": "Meilleures villes à visiter en Thaïlande du Nord",
-      "de": "Beste Städte in Nordthailand"
+      "de": "Beste Städte in Nordthailand",
+      "zh": "泰国北部最佳旅游城市"
     },
     "climate": {
       "en": "Climate and weather in Northern Thailand",
       "nl": "Klimaat en weer in Noord-Thailand",
       "fr": "Climat et météo en Thaïlande du Nord",
-      "de": "Klima und Wetter in Nordthailand"
+      "de": "Klima und Wetter in Nordthailand",
+      "zh": "泰国北部气候与天气"
     }
   },
   "tags": [
