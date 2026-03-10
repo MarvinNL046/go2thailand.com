@@ -253,6 +253,93 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Khao Pad (Riz Sauté Thaïlandais) est le plat réconfortant thaïlandais par excellence — le riz d'hier transformé en satisfaction d'aujourd'hui. Contrairement au riz sauté chinois, la version thaïlandaise est plus légère, plus aromatique et souvent servie avec des accompagnements frais. Chaque grain doit être séparé et légèrement enrobé de sauce, pour atteindre l'équilibre parfait entre le wok hei et les saveurs fraîches.",
+      "detailed_ingredients": [
+        {
+          "name": "Riz au jasmin de la veille",
+          "purpose": "Le riz séché saute mieux et ne colle pas",
+          "substitutes": [
+            "Riz frais étalé et refroidi",
+            "N'importe quel riz à grain long",
+            "Riz de chou-fleur pour version pauvre en glucides"
+          ]
+        },
+        {
+          "name": "Sauce soja légère thaïlandaise",
+          "purpose": "Plus légère que la sauce soja chinoise, ajoute du sel sans couleur",
+          "substitutes": [
+            "Sauce soja claire",
+            "Sauce de poisson diluée",
+            "Tamari pour version sans gluten"
+          ]
+        },
+        {
+          "name": "Poivre blanc",
+          "purpose": "Assaisonnement thaïlandais distinctif qui ajoute du piquant sans couleur",
+          "substitutes": [
+            "Poivre noir (change l'apparence)",
+            "Poivre du Sichuan moulu"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Cuisson au wok à feu vif avec une bonne préparation du riz",
+        "steps_overview": "Le succès dépend de la préparation — le riz doit être sec, le wok brûlant et les ingrédients prêts. Tout va vite, le riz est ajouté en dernier et constamment remué pour éviter qu'il ne colle tout en développant une saveur fumée.",
+        "cooking_tips": [
+          "Défaites les grumeaux de riz avant la cuisson",
+          "Utilisez la chaleur la plus élevée possible",
+          "Gardez le riz constamment en mouvement",
+          "Ajoutez les sauces sur le bord du wok, pas directement sur le riz",
+          "Terminez avec du concombre frais et du citron vert"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Évolution du riz sauté des immigrants chinois, adapté aux goûts thaïlandais avec des assaisonnements plus légers et des accompagnements frais. Devenu populaire comme moyen d'utiliser les restes de riz dans les foyers thaïlandais.",
+        "cultural_importance": "Le Khao Pad est le héros du quotidien en Thaïlande — présent partout, des chariots ambulants aux buffets de petit-déjeuner des hôtels. Il représente le côté pratique thaïlandais et la capacité de créer quelque chose de délicieux à partir d'ingrédients simples.",
+        "traditional_occasions": [
+          "Petit-déjeuner rapide",
+          "Cuisine de rue tard le soir",
+          "Transformation des restes",
+          "Repas favori des enfants"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Poo",
+          "description": "Riz sauté au crabe — la version luxueuse"
+        },
+        {
+          "name": "Khao Pad American",
+          "description": "Avec du ketchup, des hot-dogs et des raisins secs — l'interprétation thaïlandaise de la cuisine 'américaine'"
+        },
+        {
+          "name": "Khao Pad Sapparot",
+          "description": "Servi dans un ananas avec des noix de cajou — favori des touristes"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais"
+        ],
+        "presentation": "Servi chaud dans le style traditionnel thaïlandais",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) — Célèbre pour le pad thai mais excellent riz sauté aussi",
+          "Raan Jay Fai (Bangkok) — Riz sauté au crabe qui vaut l'attente",
+          "N'importe quel vendeur de rue avec un wok bien rodé"
+        ],
+        "street_food_areas": [
+          "Littéralement chaque coin de rue en Thaïlande",
+          "Marchés de nuit partout",
+          "Établissements ouverts 24h près des hôpitaux et universités"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
