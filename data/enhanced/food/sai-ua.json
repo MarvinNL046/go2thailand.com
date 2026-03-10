@@ -169,5 +169,105 @@
       "market_stall": "60-100 THB",
       "restaurant": "100-200 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Sai Ua is een geliefd stevig en smaakvol hoofdgerecht uit Noord-Thailand dat vurig en gedurfd is. Pittige noordelijke Thaise worst met kruiden en specerijen. Dit uitdagende recept vergt ongeveer 60 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van varkensvlees, citroengras en kaffir limoenbladeren creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Varkensvlees",
+          "purpose": "Essentieel voor de authentieke Sai Ua smaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Kipgehakt",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Citroengras",
+          "purpose": "Essentieel voor de authentieke Sai Ua smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "Kaffir limoenbladeren",
+          "purpose": "Essentieel voor de authentieke Sai Ua smaak",
+          "substitutes": [
+            "Verse kaffir limoenbladeren",
+            "Gedroogde kaffir limoenbladeren",
+            "Limoenrasp"
+          ]
+        },
+        {
+          "name": "Sjalotten",
+          "purpose": "Essentieel voor de authentieke Sai Ua smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillen of bakken",
+        "steps_overview": "Het bereiden van Sai Ua vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers varkensvlees voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sai Ua is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sai Ua Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Sai Ua Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Sai Ua",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }
