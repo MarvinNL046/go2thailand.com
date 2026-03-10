@@ -178,5 +178,103 @@
     }
   },
   "enhanced_at": "2025-05-25T21:49:44.615Z",
-  "ai_generated": false
+  "ai_generated": false,
+  "translations": {
+    "nl": {
+      "enhanced_description": "Pad Thai is het meest iconische gerecht van Thailand, een perfecte harmonie van zoete, zure en zoute smaken gewikkeld rond zijdezachte rijstnoedels. Ontstaan uit een nationalismecampagne in de jaren '30, is dit roerbaknoedelgerecht de mondiale ambassadeur van de Thaise keuken geworden. Het geheim schuilt in de saus op basis van tamarinde en de wok hei (adem van de wok) die alleen voortkomt uit deskundig koken op hoog vuur.",
+      "detailed_ingredients": [
+        {
+          "name": "Rijstnoedels (Sen Lek)",
+          "purpose": "De basis — platte rijstnoedels die alle smaken opnemen",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Linguine (in noodgevallen)",
+            "Courgettenoedels voor koolhydraatarm"
+          ]
+        },
+        {
+          "name": "Tamarindepasta",
+          "purpose": "Geeft de kenmerkende pittig-zoete smaak die authentieke Pad Thai definieert",
+          "substitutes": [
+            "Limoensap met bruine suiker",
+            "Rijstazijn met dadelsiroop"
+          ]
+        },
+        {
+          "name": "Palmsuiker",
+          "purpose": "Voegt karamelachtige zoetheid toe die de zure tamarinde in balans brengt",
+          "substitutes": [
+            "Bruine suiker",
+            "Kokossuiker",
+            "Witte suiker met melasse"
+          ]
+        },
+        {
+          "name": "Gedroogde garnalen",
+          "purpose": "Voegt umami-diepte en authentieke smaak toe",
+          "substitutes": [
+            "Vissaus (verhoog de hoeveelheid)",
+            "Ansjovis pasta",
+            "Misopasta voor vegetarische versie"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken in een wok met de juiste volgorde",
+        "steps_overview": "Pad Thai draait helemaal om timing en techniek. Elk ingrediënt komt op precies het juiste moment in de wok. De noedels moeten zacht maar niet papperig zijn, het ei er doorheen geweven, en alles met genoeg kracht gemengd om te combineren maar zacht genoeg om de noedels niet te breken.",
+        "cooking_tips": [
+          "Week noedels in water op kamertemperatuur, niet heet — voorkomt pappigheid",
+          "Houd ingrediënten constant in beweging in de wok",
+          "Duw ingrediënten omhoog langs de zijkanten van de wok om kookzones te creëren",
+          "De saus moet licht karamelliseren op de noedels",
+          "Voeg taugé op het allerlaatst toe voor de knapperigheid"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gecreëerd in de jaren '30 als onderdeel van de natievormingscampagne van premier Plaek Phibunsongkhram. Hij wilde een nationaal gerecht dat Thailand zou verenigen en het rijstverbruik zou verminderen tijdens de Tweede Wereldoorlog. De naam betekent letterlijk 'Thais-stijl roerbak'.",
+        "cultural_importance": "Pad Thai vertegenwoordigt Thaise culinaire diplomatie. Het is vaak het eerste Thaise gerecht dat buitenlanders proberen en is wereldwijd synoniem geworden met de Thaise keuken. In Thailand wordt de kwaliteit van een kok vaak beoordeeld op zijn Pad Thai.",
+        "traditional_occasions": [
+          "Vaste waarde in het straatvoedsel",
+          "Laat-avond snack",
+          "Festivalvoedsel",
+          "Toeristische kennismaking met de Thaise keuken"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Thai Goong Sod",
+          "description": "Versie met verse garnalen — de meest luxueuze traditionele variant"
+        },
+        {
+          "name": "Pad Thai Woonsen",
+          "description": "Gemaakt met glasnoedels in plaats van rijstnoedels"
+        },
+        {
+          "name": "Pad Thai Ho Kai",
+          "description": "Gewikkeld in een dunne eiomelet — restaurantstijl presentatie"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) — De legendarische 'Pad Thai Koning'",
+          "Pad Thai Fai Ta Lu (Bangkok) — Beroemd om wok hei",
+          "Baan Phadthai (Bangkok) — Upscale interpretaties"
+        ],
+        "street_food_areas": [
+          "Chinatown Bangkok — Probeer de verkopers nabij Wat Traimit",
+          "Khao San Road — Toeristenvriendelijke versies",
+          "Or Tor Kor Market — Ingrediënten van hoge kwaliteit"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
+  }
 }
