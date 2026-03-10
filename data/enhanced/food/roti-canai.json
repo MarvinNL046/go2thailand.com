@@ -370,6 +370,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Roti Canai ist ein beliebtes, herzhaftes und sättigendes Hauptgericht aus Südthailand mit einer subtilen Wärme. Ein malaysisch-thailändisches Fladenbrot, serviert mit Curry. Dieses Rezept mittlerer Schwierigkeit benötigt etwa 20 Minuten Zubereitungszeit und verkörpert die authentischen Aromen der südthailändischen Küche, geprägt von intensiven Gewürzen, Meeresfrüchten und Currys auf Kokosbasis. Die Kombination aus Mehl, Ghee und Ei ergibt eine harmonische Mischung, die dieses Gericht sowohl bei Einheimischen als auch bei Besuchern zum Favoriten gemacht hat. Perfekt für alle, die erschwingliche authentische thailändische Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Mehl",
+          "purpose": "Unverzichtbar für den authentischen Roti Canai Geschmack",
+          "substitutes": [
+            "Weizenmehl",
+            "Selbstaufgehendes Mehl",
+            "Dinkelmehl"
+          ]
+        },
+        {
+          "name": "Ghee",
+          "purpose": "Unverzichtbar für den authentischen Roti Canai Geschmack",
+          "substitutes": [
+            "Geklärte Butter",
+            "Butter",
+            "Pflanzenöl"
+          ]
+        },
+        {
+          "name": "Ei",
+          "purpose": "Unverzichtbar für den authentischen Roti Canai Geschmack",
+          "substitutes": [
+            "Frisches Ei",
+            "Ei-Ersatz",
+            "Weglassen (für vegane Version)"
+          ]
+        },
+        {
+          "name": "Salz",
+          "purpose": "Unverzichtbar für den authentischen Roti Canai Geschmack",
+          "substitutes": [
+            "Meersalz",
+            "Himalayasalz",
+            "Feines Tafelsalz"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Ausziehen und Backen auf heißer Platte",
+        "steps_overview": "Die Zubereitung von Roti Canai erfordert Aufmerksamkeit für Details und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die von Generation zu Generation weitergegeben wurden, garantieren einen authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frisches Mehl für das beste Ergebnis",
+          "Passen Sie die Schärfe nach Ihrem Geschmack an",
+          "Nicht zu lange backen, um die Textur zu erhalten",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Roti Canai ist seit Generationen ein fester Bestandteil der südthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht verkörpert das Herzstück der südthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Feste",
+          "Straßenessen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Roti Canai Klassisch",
+          "description": "Die traditionelle Version, wie sie in einheimischen Haushalten serviert wird"
+        },
+        {
+          "name": "Roti Canai Modern",
+          "description": "Zeitgenössische Variante mit hochwertigen Zutaten"
+        },
+        {
+          "name": "Vegetarische Roti Canai",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "Auf einem Teller im traditionellen südthailändischen Stil serviert",
+        "eating_etiquette": "Wird mit Gabel und Löffel nach thailändischer Sitte gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale südthailändische Restaurants",
+          "Authentische Straßenimbiss-Stände",
+          "Traditionelle Märkte",
+          "Familiengeführte Lokale"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Frische Morgenmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
