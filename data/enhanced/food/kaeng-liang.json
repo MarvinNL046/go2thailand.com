@@ -171,5 +171,105 @@
       "market_stall": "40-60 THB",
       "restaurant": "60-100 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Kaeng Liang is een geliefde zielsverwarmende soep uit Noord-Thailand met een aangename pittige kick. Pittige groentesoep met garnalen. Dit eenvoudige recept vergt ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van gemengde groenten, garnalen en garnalenpasta creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Gemengde groenten",
+          "purpose": "Essentieel voor de authentieke Kaeng Liang smaak",
+          "substitutes": [
+            "Verse gemengde groenten",
+            "Gedroogde gemengde groenten",
+            "Groentepasta"
+          ]
+        },
+        {
+          "name": "Garnalen",
+          "purpose": "Essentieel voor de authentieke Kaeng Liang smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Garnalenpasta",
+          "purpose": "Essentieel voor de authentieke Kaeng Liang smaak",
+          "substitutes": [
+            "Verse garnalenpasta",
+            "Gedroogde garnalenpasta",
+            "Trassi"
+          ]
+        },
+        {
+          "name": "Sjalotten",
+          "purpose": "Essentieel voor de authentieke Kaeng Liang smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Kaeng Liang vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gemengde groenten voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kaeng Liang is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kaeng Liang Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Kaeng Liang Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Kaeng Liang",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }
