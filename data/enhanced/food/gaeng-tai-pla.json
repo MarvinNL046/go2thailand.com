@@ -271,6 +271,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Gaeng Tai Pla est un curry riche et aromatique apprécié du sud de la Thaïlande, intensément épicé pour les vrais amateurs de piment. Un curry d'organes de poisson du sud intensément piquant. Cette recette difficile nécessite environ 40 minutes de préparation et représente les saveurs authentiques de la cuisine du sud de la Thaïlande, caractérisée par des épices intenses, des fruits de mer et des currys à base de coco. La combinaison d'organes de poisson, de piment et de citronnelle crée un mélange harmonieux qui a fait de ce plat un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à petit prix.",
+      "detailed_ingredients": [
+        {
+          "name": "Organes de poisson",
+          "purpose": "Essentiel pour la saveur authentique du Gaeng Tai Pla",
+          "substitutes": [
+            "Organes de poisson frais",
+            "Organes de poisson séchés",
+            "Pâte d'organes de poisson"
+          ]
+        },
+        {
+          "name": "Piment",
+          "purpose": "Essentiel pour la saveur authentique du Gaeng Tai Pla",
+          "substitutes": [
+            "Piment frais",
+            "Piment séché",
+            "Pâte de piment"
+          ]
+        },
+        {
+          "name": "Citronnelle",
+          "purpose": "Essentiel pour la saveur authentique du Gaeng Tai Pla",
+          "substitutes": [
+            "Citronnelle fraîche",
+            "Citronnelle séchée",
+            "Pâte de citronnelle"
+          ]
+        },
+        {
+          "name": "Curcuma",
+          "purpose": "Essentiel pour la saveur authentique du Gaeng Tai Pla",
+          "substitutes": [
+            "Curcuma frais",
+            "Curcuma séché",
+            "Pâte de curcuma"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Friture de pâte de curry et réduction de lait de coco",
+        "steps_overview": "La préparation du Gaeng Tai Pla nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez des organes de poisson frais pour un meilleur résultat",
+          "Ajustez le niveau de piquant selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Gaeng Tai Pla est un pilier de la cuisine du sud de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce plat représente le cœur de la cuisine du sud de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Tai Pla Classique",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Gaeng Tai Pla Moderne",
+          "description": "Version contemporaine avec des ingrédients premium"
+        },
+        {
+          "name": "Gaeng Tai Pla Végétarien",
+          "description": "Version végétale avec du tofu ou des champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais",
+          "Herbes thaïlandaises"
+        ],
+        "presentation": "Servi dans un bol dans le style traditionnel du sud de la Thaïlande",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère selon la coutume thaïlandaise"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Restaurants locaux du sud de la Thaïlande",
+          "Stands de cuisine de rue authentiques",
+          "Marchés traditionnels",
+          "Restaurants familiaux"
+        ],
+        "street_food_areas": [
+          "Marchés de nuit",
+          "Marchés frais du matin",
+          "Food courts locaux"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
