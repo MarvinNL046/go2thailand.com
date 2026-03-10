@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 336
+    "completed": 337
   },
   "queue": [
     {
@@ -2698,7 +2698,8 @@
       "type": "food",
       "file": "data/enhanced/food/kaeng-liang.json",
       "locale": "fr",
-      "status": "pending",
+      "status": "completed",
+      "completedAt": "2026-03-10T00:00:00.000Z",
       "priority": 10
     },
     {
