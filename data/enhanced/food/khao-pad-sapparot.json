@@ -172,5 +172,105 @@
       "market_stall": "60-100 THB",
       "restaurant": "100-200 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Khao Pad Sapparot is een geliefd stevig en smaakvol hoofdgerecht uit Centraal-Thailand met een subtiele warmte. Ananas gebakken rijst geserveerd in ananasschil. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van rijst, ananas en garnalen creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Rijst",
+          "purpose": "Essentieel voor de authentieke Khao Pad Sapparot smaak",
+          "substitutes": [
+            "Jasmijnrijst",
+            "Dag-oude rijst",
+            "Langkorrelige rijst"
+          ]
+        },
+        {
+          "name": "Ananas",
+          "purpose": "Essentieel voor de authentieke Khao Pad Sapparot smaak",
+          "substitutes": [
+            "Verse ananas",
+            "Ananas uit blik",
+            "Gedroogde ananas"
+          ]
+        },
+        {
+          "name": "Garnalen",
+          "purpose": "Essentieel voor de authentieke Khao Pad Sapparot smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Cashewnoten",
+          "purpose": "Essentieel voor de authentieke Khao Pad Sapparot smaak",
+          "substitutes": [
+            "Verse cashewnoten",
+            "Geroosterde cashewnoten",
+            "Pinda's"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken",
+        "steps_overview": "Het bereiden van Khao Pad Sapparot vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik dag-oude rijst voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Pad Sapparot is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Sapparot Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Khao Pad Sapparot Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Khao Pad Sapparot",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Geserveerd in ananasschil",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een uitgehold ananasschil in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }
