@@ -370,6 +370,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Mee Hokkien ist ein beliebtes deftiges und sättigendes Hauptgericht aus Südthailand mit einer dezenten Wärme. Gebratene Hokkien-Nudeln mit Meeresfrüchten im Phuket-Stil. Dieses Rezept mittlerer Schwierigkeit benötigt etwa 20 Minuten Zubereitungszeit und repräsentiert die authentischen Aromen der südthailändischen Küche, die sich durch intensive Gewürze, Meeresfrüchte und Currys auf Kokosbasis auszeichnet. Die Kombination aus gelben Nudeln, Garnelen und Tintenfisch ergibt eine harmonische Mischung, die dieses Gericht sowohl bei Einheimischen als auch bei Besuchern zum Favoriten gemacht hat. Perfekt für alle, die preiswerte authentische thailändische Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Gelbe Nudeln",
+          "purpose": "Unverzichtbar für den authentischen Mee Hokkien Geschmack",
+          "substitutes": [
+            "Frische gelbe Nudeln",
+            "Getrocknete gelbe Nudeln",
+            "Eiernudeln"
+          ]
+        },
+        {
+          "name": "Garnelen",
+          "purpose": "Unverzichtbar für den authentischen Mee Hokkien Geschmack",
+          "substitutes": [
+            "Frische Garnelen",
+            "Getrocknete Garnelen",
+            "Garnelenpaste"
+          ]
+        },
+        {
+          "name": "Tintenfisch",
+          "purpose": "Unverzichtbar für den authentischen Mee Hokkien Geschmack",
+          "substitutes": [
+            "Frischer Tintenfisch",
+            "Getrockneter Tintenfisch",
+            "Calamari"
+          ]
+        },
+        {
+          "name": "Schweinefleisch",
+          "purpose": "Unverzichtbar für den authentischen Mee Hokkien Geschmack",
+          "substitutes": [
+            "Frisches Schweinefleisch",
+            "Hähnchenbrustfilet",
+            "Tofu"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Pfannenrühren im Wok",
+        "steps_overview": "Die Zubereitung von Mee Hokkien erfordert Liebe zum Detail und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die von Generation zu Generation weitergegeben werden, garantieren einen authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frische gelbe Nudeln für das beste Ergebnis",
+          "Passen Sie die Schärfe nach Ihrem Geschmack an",
+          "Nicht zu lange kochen, um die Textur zu erhalten",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Mee Hokkien ist seit Generationen ein fester Bestandteil der südthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht repräsentiert das Herz der südthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Feste",
+          "Straßenessen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Mee Hokkien Klassisch",
+          "description": "Die traditionelle Version, wie sie in einheimischen Haushalten serviert wird"
+        },
+        {
+          "name": "Mee Hokkien Modern",
+          "description": "Zeitgemäße Variante mit Premium-Zutaten"
+        },
+        {
+          "name": "Vegetarisches Mee Hokkien",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "Auf einem Teller im traditionellen südthailändischen Stil serviert",
+        "eating_etiquette": "Wird nach thailändischer Sitte mit Gabel und Löffel gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale südthailändische Restaurants",
+          "Authentische Straßenessen-Stände",
+          "Traditionelle Märkte",
+          "Familienbetriebe"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Frische Morgenmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
