@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 574
+    "completed": 575
   },
   "queue": [
     {
@@ -4608,8 +4608,9 @@
       "type": "top10",
       "file": "data/top10/bueng-kan-attractions.json",
       "locale": "zh",
-      "status": "pending",
-      "priority": 12
+      "status": "completed",
+      "priority": 12,
+      "completedAt": "2026-03-10T00:00:00.000Z"
     },
     {
       "type": "top10",
