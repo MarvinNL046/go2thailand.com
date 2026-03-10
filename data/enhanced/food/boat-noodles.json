@@ -365,6 +365,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Boat Noodles ist eine beliebte, seelenwärmende Suppe aus Zentralthailand mit einem angenehmen Schärfekick. Diese reichhaltige Schweine- oder Rindfleisch-Nudelsuppe wird traditionell in kleinen Portionen serviert. Dieses Rezept mittlerer Schwierigkeit benötigt etwa 30 Minuten Zubereitungszeit und verkörpert die authentischen Aromen der zentralthailändischen Küche, die süß, sauer, salzig und scharf perfekt ausbalanciert. Die Kombination aus Reisnudeln, Schweine- oder Rindfleisch und dunkler Sojasauce ergibt eine harmonische Mischung, die dieses Gericht zu einem Favoriten bei Einheimischen und Besuchern gleichermaßen gemacht hat. Perfekt für alle, die erschwingliche authentische thailändische Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Reisnudeln",
+          "purpose": "Unverzichtbar für den authentischen Boat Noodles-Geschmack",
+          "substitutes": [
+            "Frische Reisnudeln",
+            "Getrocknete Reisnudeln",
+            "Reisnudelpaste"
+          ]
+        },
+        {
+          "name": "Schweine- oder Rindfleisch",
+          "purpose": "Unverzichtbar für den authentischen Boat Noodles-Geschmack",
+          "substitutes": [
+            "Frisches Schweine- oder Rindfleisch",
+            "Getrocknetes Schweine- oder Rindfleisch",
+            "Schweine- oder Rindfleischpaste"
+          ]
+        },
+        {
+          "name": "Dunkle Sojasauce",
+          "purpose": "Unverzichtbar für den authentischen Boat Noodles-Geschmack",
+          "substitutes": [
+            "Frische dunkle Sojasauce",
+            "Getrocknete dunkle Sojasauce",
+            "Dunkle Sojasaucenpaste"
+          ]
+        },
+        {
+          "name": "Chinesisches Fünf-Gewürze-Pulver",
+          "purpose": "Unverzichtbar für den authentischen Boat Noodles-Geschmack",
+          "substitutes": [
+            "Frisches chinesisches Fünf-Gewürze-Pulver",
+            "Getrocknetes chinesisches Fünf-Gewürze-Pulver",
+            "Chinesische Fünf-Gewürze-Paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Köcheln und Aromen schichten",
+        "steps_overview": "Die Zubereitung von Boat Noodles erfordert Liebe zum Detail und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die über Generationen weitergegeben wurden, sorgen für authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frische Reisnudeln für das beste Ergebnis",
+          "Passen Sie den Schärfegrad nach Ihrem Geschmack an",
+          "Nicht zu lange kochen, um die Textur zu bewahren",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Boat Noodles sind seit Generationen ein fester Bestandteil der zentralthailändischen Küche und spiegeln die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht verkörpert das Herz der zentralthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Feste",
+          "Straßenessen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Boat Noodles Klassisch",
+          "description": "Die traditionelle Version, wie sie in einheimischen Haushalten serviert wird"
+        },
+        {
+          "name": "Boat Noodles Modern",
+          "description": "Zeitgenössische Variante mit Premium-Zutaten"
+        },
+        {
+          "name": "Vegetarische Boat Noodles",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "In einer Schale im traditionellen thailändischen Stil serviert",
+        "eating_etiquette": "Mit Gabel und Löffel nach thailändischer Sitte genossen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zentralthailändische Restaurants",
+          "Authentische Straßenessen-Stände",
+          "Traditionelle Märkte",
+          "Familienbetriebene Lokale"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Morgendliche Frischmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
