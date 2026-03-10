@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 310
+    "completed": 311
   },
   "queue": [
     {
@@ -2490,8 +2490,9 @@
       "type": "city",
       "file": "data/enhanced/nakhon-ratchasima.json",
       "locale": "fr",
-      "status": "pending",
-      "priority": 10
+      "status": "completed",
+      "priority": 10,
+      "completedAt": "2026-03-10T00:00:00.000Z"
     },
     {
       "type": "city",
