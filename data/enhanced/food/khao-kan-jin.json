@@ -168,5 +168,105 @@
       "market_stall": "40-60 THB",
       "restaurant": "60-100 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Khao Kan Jin is een geliefd stevig en smaakvol hoofdgerecht uit Noord-Thailand met een subtiele warmte. Gestoomde rijst met varkensbloed in bananenblad. Dit moeilijke recept vergt ongeveer 60 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van rijst, varkensbloed en knoflook creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Rijst",
+          "purpose": "Essentieel voor de authentieke Khao Kan Jin smaak",
+          "substitutes": [
+            "Verse rijst",
+            "Kleefrijst",
+            "Jasmijnrijst"
+          ]
+        },
+        {
+          "name": "Varkensbloed",
+          "purpose": "Essentieel voor de authentieke Khao Kan Jin smaak",
+          "substitutes": [
+            "Vers varkensbloed",
+            "Gedroogd varkensbloed",
+            "Varkensbloedbouillon"
+          ]
+        },
+        {
+          "name": "Knoflook",
+          "purpose": "Essentieel voor de authentieke Khao Kan Jin smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Sjalotten",
+          "purpose": "Essentieel voor de authentieke Khao Kan Jin smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stomen in bananenblad",
+        "steps_overview": "Het bereiden van Khao Kan Jin vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijst voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Kan Jin is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Kan Jin Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Khao Kan Jin Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Khao Kan Jin",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in bananenblad in traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met de vingers of vork en lepel volgens Noord-Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }
