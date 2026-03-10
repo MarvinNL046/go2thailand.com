@@ -364,6 +364,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Laab Kua ist ein beliebter frischer und lebhafter Salat aus Nordthailand, der feurig und kräftig ist. Ein nordthailändischer Fleischsalat mit Gewürzen und Kräutern. Dieses Rezept mittlerer Schwierigkeit benötigt etwa 20 Minuten Zubereitungszeit und repräsentiert die authentischen Aromen der nordthailändischen Küche, die sich durch mildere Geschmäcker, Klebreis und Kräuter auszeichnet. Die Kombination aus Hackfleisch vom Schwein oder Rind, getrockneten Gewürzen und Kräutern ergibt eine harmonische Mischung, die dieses Gericht sowohl bei Einheimischen als auch bei Besuchern zum Favoriten gemacht hat. Perfekt für alle, die erschwingliche authentische thailändische Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Hackfleisch vom Schwein oder Rind",
+          "purpose": "Unverzichtbar für den authentischen Laab Kua Geschmack",
+          "substitutes": [
+            "Frisches Hackfleisch vom Schwein oder Rind",
+            "Hähnchenhackfleisch",
+            "Tofu (für die vegetarische Version)"
+          ]
+        },
+        {
+          "name": "Getrocknete Gewürze",
+          "purpose": "Unverzichtbar für den authentischen Laab Kua Geschmack",
+          "substitutes": [
+            "Frische Gewürze",
+            "Gemahlene Gewürze",
+            "Gewürzpulver"
+          ]
+        },
+        {
+          "name": "Kräuter",
+          "purpose": "Unverzichtbar für den authentischen Laab Kua Geschmack",
+          "substitutes": [
+            "Frische Kräuter",
+            "Getrocknete Kräuter",
+            "Kräuterpaste"
+          ]
+        },
+        {
+          "name": "Limettensaft",
+          "purpose": "Unverzichtbar für den authentischen Laab Kua Geschmack",
+          "substitutes": [
+            "Frischer Limettensaft",
+            "Zitronensaft",
+            "Essig"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Frische Zubereitung und Mischen",
+        "steps_overview": "Die Zubereitung von Laab Kua erfordert Liebe zum Detail und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die von Generation zu Generation weitergegeben werden, garantieren einen authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frisches Hackfleisch vom Schwein oder Rind für das beste Ergebnis",
+          "Passen Sie die Schärfe nach Ihrem Geschmack an",
+          "Nicht zu lange kochen, um die Textur zu erhalten",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Laab Kua ist seit Generationen ein fester Bestandteil der nordthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht repräsentiert das Herz der nordthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Feste",
+          "Straßenessen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Laab Kua Klassisch",
+          "description": "Die traditionelle Version, wie sie in einheimischen Haushalten serviert wird"
+        },
+        {
+          "name": "Laab Kua Modern",
+          "description": "Zeitgemäße Variante mit Premium-Zutaten"
+        },
+        {
+          "name": "Vegetarisches Laab Kua",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Klebreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "Auf einem Teller im traditionellen nordthailändischen Stil serviert",
+        "eating_etiquette": "Wird mit Klebreis und den Fingern nach nordthailändischer Sitte gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale nordthailändische Restaurants",
+          "Authentische Straßenessen-Stände",
+          "Traditionelle Märkte",
+          "Familienbetriebe"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Frische Morgenmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
