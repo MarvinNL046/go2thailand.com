@@ -293,6 +293,109 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Lod Chong (ลอดช่อง) est l'un des plus anciens desserts de Thaïlande, dont les origines remontent au règne du roi Narai (1672-1688). Le nom signifie littéralement « passé à travers un trou », en référence à la méthode traditionnelle consistant à presser une pâte de farine de riz infusée au pandan à travers un tamis dans de l'eau froide, formant les nouilles de gelée vertes caractéristiques. Ces brins vert vif sont servis dans du lait de coco sucré avec de la glace pilée, créant un dessert rafraîchissant disponible dès 30 THB chez les vendeurs ambulants. Une forme antérieure appelée « nokploi » faisait partie des traditions alimentaires hindouistes et brahmaniques en Asie du Sud-Est. Le Lod Chong fait partie du traditionnel « ensemble de quatre coupes de dessert » thaïlandais et revêt une signification particulière lors des mariages thaïlandais, où sa couleur verte symbolise les perroquets — représentant la fidélité — et le dessert lui-même symbolise l'amour éternel. Le plat est apparenté au cendol malaisien/singapourien, au dawet indonésien et au banh lot vietnamien, formant une tradition de desserts partagée à travers l'Asie du Sud-Est.",
+      "detailed_ingredients": [
+        {
+          "name": "Farine de riz",
+          "purpose": "Forme la base des nouilles de gelée, leur donnant leur texture moelleuse",
+          "substitutes": [
+            "Fécule de tapioca (pour une texture plus douce)",
+            "Fécule de haricot mungo"
+          ]
+        },
+        {
+          "name": "Jus de pandan",
+          "purpose": "Donne la couleur verte caractéristique et l'arôme parfumé",
+          "substitutes": [
+            "Extrait de pandan (concentré, utilisez moins)",
+            "Pâte de pandan (disponible dans les épiceries asiatiques)"
+          ]
+        },
+        {
+          "name": "Lait de coco",
+          "purpose": "La base sucrée et crémeuse dans laquelle les nouilles sont servies",
+          "substitutes": [
+            "Lait de coco en conserve (version entière de préférence)",
+            "Crème de coco diluée avec de l'eau"
+          ]
+        },
+        {
+          "name": "Sucre de palme",
+          "purpose": "Sucre le lait de coco avec une saveur de caramel distinctive",
+          "substitutes": [
+            "Sucre de coco",
+            "Sucre brun (moins authentique mais fonctionne)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Pressage à travers un tamis dans de l'eau froide",
+        "steps_overview": "Mélangez la farine de riz avec le jus de pandan pour former une pâte verte, puis cuisez-la jusqu'à obtenir une pâte épaisse. Pressez la pâte chaude à travers un tamis ou un moule percé de trous dans un bol d'eau froide — c'est la technique « lod chong » (passé à travers un trou) qui donne son nom au dessert. L'eau froide fait prendre les nouilles de gelée dans leur forme caractéristique. Préparez séparément du lait de coco sucré avec une pincée de sel. Servez les nouilles vertes dans le lait de coco avec de la glace pilée.",
+        "cooking_tips": [
+          "Utilisez des feuilles de pandan fraîches pour la couleur verte la plus vive et le meilleur arôme",
+          "Gardez l'eau froide très froide (ajoutez de la glace) pour figer les nouilles rapidement",
+          "Pressez la pâte à travers le tamis de manière régulière pour une taille de nouilles uniforme",
+          "Ajoutez une pincée de sel au lait de coco pour rehausser la douceur"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Lod Chong date du règne du roi Narai (1672-1688), ce qui en fait l'un des plus anciens desserts documentés de Thaïlande. Une forme antérieure appelée « nokploi » faisait partie des traditions alimentaires hindouistes et brahmaniques de la région. Le nom « lod chong » signifie « passé à travers un trou », décrivant la technique de pressage de la pâte à travers un tamis dans de l'eau froide pour former les nouilles de gelée. Il figurait dans le traditionnel « ensemble de quatre coupes de dessert » thaïlandais servi lors des cérémonies royales.",
+        "cultural_importance": "Le Lod Chong a une profonde signification symbolique dans la culture thaïlandaise, particulièrement lors des mariages. La couleur verte du pandan représente les perroquets, qui dans la tradition thaïlandaise symbolisent la fidélité, tandis que le dessert lui-même symbolise l'amour éternel. Il fait partie d'une famille de desserts plus large d'Asie du Sud-Est qui comprend le cendol malaisien/singapourien, le dawet indonésien et le banh lot vietnamien — tous partageant le concept de nouilles de gelée pressées dans du lait de coco sucré.",
+        "traditional_occasions": [
+          "Mariages thaïlandais (symbolise l'amour éternel et la fidélité)",
+          "Cérémonies royales (partie de l'ensemble de quatre coupes de dessert)",
+          "Foires des temples bouddhistes et cérémonies de mérite",
+          "Réunions de famille et festivals locaux",
+          "Marchés de cuisine de rue à travers la Thaïlande"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Lod Chong thaïlandais standard",
+          "description": "Nouilles de gelée vertes au pandan dans du lait de coco sucré avec de la glace pilée. La version la plus courante dans toute la Thaïlande."
+        },
+        {
+          "name": "Style Phetchaburi",
+          "description": "Le sucre de palme est versé sur le dessus plutôt que mélangé, créant des notes de caramel distinctives. Phetchaburi est réputée pour son sucre de palme premium."
+        },
+        {
+          "name": "Cendol (Malaisie/Singapour)",
+          "description": "Adapté à la culture des hawkers avec du gula melaka (sirop de sucre de palme), des haricots rouges et parfois du maïs. Un favori national dans les deux pays."
+        },
+        {
+          "name": "Dawet (Indonésie)",
+          "description": "De multiples variétés régionales existent à travers l'Indonésie. Utilise souvent du sucre de coco et peut inclure du jacquier ou d'autres ajouts locaux."
+        },
+        {
+          "name": "Banh Lot (Vietnam)",
+          "description": "Adaptation vietnamienne avec des nouilles de gelée au pandan dans du lait de coco, faisant partie de la tradition de desserts partagée d'Asie du Sud-Est."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Glace pilée",
+          "Lait de coco supplémentaire",
+          "Sirop de sucre de palme"
+        ],
+        "presentation": "Servi dans un bol ou un verre avec des nouilles vertes au pandan nageant dans du lait de coco sucré sur de la glace pilée",
+        "eating_etiquette": "Dégusté à la cuillère, en sirotant le lait de coco entre les bouchées de nouilles de gelée"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Restaurants locaux du sud de la Thaïlande",
+          "Stands de cuisine de rue authentiques",
+          "Marchés traditionnels",
+          "Restaurants familiaux"
+        ],
+        "street_food_areas": [
+          "Marchés de nuit",
+          "Marchés frais du matin",
+          "Food courts locaux"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
