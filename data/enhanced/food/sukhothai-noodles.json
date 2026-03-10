@@ -369,6 +369,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Sukhothai Nudeln sind eine beliebte, seelenwärmende Suppe aus Nordthailand mit einer dezenten Wärme. Nudeln im Sukhothai-Stil mit gemahlenen Erdnüssen. Dieses einfache Rezept benötigt etwa 20 Minuten Zubereitungszeit und repräsentiert die authentischen Aromen der nordthailändischen Küche, die sich durch mildere Geschmacksrichtungen, Klebreis und Kräuter auszeichnet. Die Kombination aus Reisnudeln, Schweinefleisch und gemahlenen Erdnüssen ergibt eine harmonische Mischung, die dieses Gericht bei Einheimischen und Besuchern gleichermaßen beliebt gemacht hat. Perfekt für alle, die erschwingliche authentische thailändische Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Reisnudeln",
+          "purpose": "Unverzichtbar für den authentischen Sukhothai Nudeln Geschmack",
+          "substitutes": [
+            "Frische Reisnudeln",
+            "Getrocknete Reisnudeln",
+            "Eiernudeln"
+          ]
+        },
+        {
+          "name": "Schweinefleisch",
+          "purpose": "Unverzichtbar für den authentischen Sukhothai Nudeln Geschmack",
+          "substitutes": [
+            "Frisches Schweinefleisch",
+            "Hähnchenfilet",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Gemahlene Erdnüsse",
+          "purpose": "Unverzichtbar für den authentischen Sukhothai Nudeln Geschmack",
+          "substitutes": [
+            "Frisch gemahlene Erdnüsse",
+            "Geröstete Erdnüsse",
+            "Cashewnüsse"
+          ]
+        },
+        {
+          "name": "Grüne Bohnen",
+          "purpose": "Unverzichtbar für den authentischen Sukhothai Nudeln Geschmack",
+          "substitutes": [
+            "Frische grüne Bohnen",
+            "Schlangenbohnen",
+            "Stangenbohnen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Köcheln und Aromen aufbauen",
+        "steps_overview": "Die Zubereitung von Sukhothai Nudeln erfordert Liebe zum Detail und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und dabei die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die von Generation zu Generation weitergegeben wurden, garantieren einen authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frische Reisnudeln für das beste Ergebnis",
+          "Passen Sie den Schärfegrad nach Ihrem Geschmack an",
+          "Nicht zu lange kochen, um die Textur zu bewahren",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sukhothai Nudeln sind seit Generationen ein fester Bestandteil der nordthailändischen Küche und spiegeln die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht repräsentiert das Herz der nordthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Feste",
+          "Straßenessen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sukhothai Nudeln Klassisch",
+          "description": "Die traditionelle Version, wie sie in einheimischen Haushalten serviert wird"
+        },
+        {
+          "name": "Sukhothai Nudeln Modern",
+          "description": "Zeitgenössische Variante mit Premium-Zutaten"
+        },
+        {
+          "name": "Vegetarische Sukhothai Nudeln",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "In einer Schüssel im traditionellen nordthailändischen Stil serviert",
+        "eating_etiquette": "Mit Gabel und Löffel nach thailändischer Sitte genossen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale nordthailändische Restaurants",
+          "Authentische Straßenimbiss-Stände",
+          "Traditionelle Märkte",
+          "Familiengeführte Lokale"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Frische Morgenmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
