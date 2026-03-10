@@ -271,6 +271,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Khao Pad Sapparot est un plat principal copieux et savoureux apprécié du centre de la Thaïlande, avec une chaleur subtile. Du riz sauté à l'ananas servi dans une coque d'ananas. Cette recette de difficulté moyenne nécessite environ 20 minutes de préparation et représente les saveurs authentiques de la cuisine du centre de la Thaïlande qui équilibre parfaitement le sucré, l'acide, le salé et l'épicé. La combinaison de riz, d'ananas et de crevettes crée un mélange harmonieux qui a fait de ce plat un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à prix raisonnable.",
+      "detailed_ingredients": [
+        {
+          "name": "Riz",
+          "purpose": "Essentiel pour la saveur authentique du Khao Pad Sapparot",
+          "substitutes": [
+            "Riz au jasmin",
+            "Riz de la veille",
+            "Riz à grain long"
+          ]
+        },
+        {
+          "name": "Ananas",
+          "purpose": "Essentiel pour la saveur authentique du Khao Pad Sapparot",
+          "substitutes": [
+            "Ananas frais",
+            "Ananas en conserve",
+            "Ananas séché"
+          ]
+        },
+        {
+          "name": "Crevettes",
+          "purpose": "Essentiel pour la saveur authentique du Khao Pad Sapparot",
+          "substitutes": [
+            "Crevettes fraîches",
+            "Crevettes séchées",
+            "Pâte de crevettes"
+          ]
+        },
+        {
+          "name": "Noix de cajou",
+          "purpose": "Essentiel pour la saveur authentique du Khao Pad Sapparot",
+          "substitutes": [
+            "Noix de cajou fraîches",
+            "Noix de cajou grillées",
+            "Cacahuètes"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sauté au wok",
+        "steps_overview": "La préparation du Khao Pad Sapparot nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez du riz de la veille pour un meilleur résultat",
+          "Ajustez le niveau de piquant selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Khao Pad Sapparot est un pilier de la cuisine du centre de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce plat représente le cœur de la cuisine du centre de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Sapparot Classique",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Khao Pad Sapparot Moderne",
+          "description": "Version contemporaine avec des ingrédients premium"
+        },
+        {
+          "name": "Khao Pad Sapparot Végétarien",
+          "description": "Version végétale avec du tofu ou des champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Servi dans une coque d'ananas",
+          "Légumes frais",
+          "Herbes thaïlandaises"
+        ],
+        "presentation": "Servi dans un ananas évidé dans le style traditionnel thaïlandais",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère selon la coutume thaïlandaise"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Restaurants locaux du centre de la Thaïlande",
+          "Stands de cuisine de rue authentiques",
+          "Marchés traditionnels",
+          "Restaurants familiaux"
+        ],
+        "street_food_areas": [
+          "Marchés de nuit",
+          "Marchés frais du matin",
+          "Food courts locaux"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
