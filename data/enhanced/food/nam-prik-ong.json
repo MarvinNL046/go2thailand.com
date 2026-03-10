@@ -365,6 +365,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Nam Prik Ong ist ein beliebtes, herzhaftes und sättigendes Hauptgericht aus Nordthailand mit einer angenehmen Schärfe. Ein Tomaten-Chili-Dip mit Schweinehackfleisch, serviert mit Gemüse. Dieses einfache Rezept benötigt etwa 25 Minuten Zubereitungszeit und verkörpert die authentischen Aromen der nordthailändischen Küche, geprägt von milderen Geschmacksnoten, Klebreis und Kräutern. Die Kombination aus Tomaten, Schweinehackfleisch und Schalotten ergibt eine harmonische Mischung, die dieses Gericht sowohl bei Einheimischen als auch bei Besuchern zum Favoriten gemacht hat. Perfekt für alle, die erschwingliche authentische thailändische Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Tomaten",
+          "purpose": "Unverzichtbar für den authentischen Nam Prik Ong Geschmack",
+          "substitutes": [
+            "Frische Tomaten",
+            "Getrocknete Tomaten",
+            "Tomatenmark"
+          ]
+        },
+        {
+          "name": "Schweinehackfleisch",
+          "purpose": "Unverzichtbar für den authentischen Nam Prik Ong Geschmack",
+          "substitutes": [
+            "Frisches Schweinehackfleisch",
+            "Hähnchenhackfleisch",
+            "Tofu (für die vegetarische Version)"
+          ]
+        },
+        {
+          "name": "Schalotten",
+          "purpose": "Unverzichtbar für den authentischen Nam Prik Ong Geschmack",
+          "substitutes": [
+            "Frische Schalotten",
+            "Getrocknete Schalotten",
+            "Rote Zwiebel"
+          ]
+        },
+        {
+          "name": "Knoblauch",
+          "purpose": "Unverzichtbar für den authentischen Nam Prik Ong Geschmack",
+          "substitutes": [
+            "Frischer Knoblauch",
+            "Getrockneter Knoblauch",
+            "Knoblauchpaste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Anbraten und Stampfen",
+        "steps_overview": "Die Zubereitung von Nam Prik Ong erfordert Aufmerksamkeit für Details und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die von Generation zu Generation weitergegeben wurden, garantieren einen authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frische Tomaten für das beste Ergebnis",
+          "Passen Sie die Schärfe nach Ihrem Geschmack an",
+          "Nicht zu lange kochen, um die Textur zu erhalten",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Ong ist seit Generationen ein fester Bestandteil der nordthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht verkörpert das Herzstück der nordthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Feste",
+          "Straßenessen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Ong Klassisch",
+          "description": "Die traditionelle Version, wie sie in einheimischen Haushalten serviert wird"
+        },
+        {
+          "name": "Nam Prik Ong Modern",
+          "description": "Zeitgenössische Variante mit hochwertigen Zutaten"
+        },
+        {
+          "name": "Vegetarische Nam Prik Ong",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "Auf einem Teller im traditionellen nordthailändischen Stil serviert",
+        "eating_etiquette": "Wird mit Gabel und Löffel nach thailändischer Sitte gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale nordthailändische Restaurants",
+          "Authentische Straßenimbiss-Stände",
+          "Traditionelle Märkte",
+          "Familiengeführte Lokale"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Frische Morgenmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
