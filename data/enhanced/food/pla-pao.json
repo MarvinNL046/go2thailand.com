@@ -270,6 +270,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Pla Pao est un plat principal copieux et savoureux apprécié de la Thaïlande centrale, avec une chaleur subtile. Du poisson grillé en croûte de sel servi avec une sauce piquante aux fruits de mer. Cette recette de difficulté moyenne nécessite environ 40 minutes de préparation et représente les saveurs authentiques de la cuisine du centre de la Thaïlande qui équilibre parfaitement les saveurs sucrées, acides, salées et épicées. La combinaison de poisson entier, de gros sel et de citronnelle crée un mélange harmonieux qui a fait de ce plat un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à prix raisonnable.",
+      "detailed_ingredients": [
+        {
+          "name": "Poisson entier",
+          "purpose": "Essentiel pour la saveur authentique du Pla Pao",
+          "substitutes": [
+            "Poisson entier frais",
+            "Tilapia",
+            "Bar"
+          ]
+        },
+        {
+          "name": "Gros sel",
+          "purpose": "Essentiel pour la saveur authentique du Pla Pao",
+          "substitutes": [
+            "Sel de mer",
+            "Sel gemme",
+            "Sel de l'Himalaya"
+          ]
+        },
+        {
+          "name": "Citronnelle",
+          "purpose": "Essentiel pour la saveur authentique du Pla Pao",
+          "substitutes": [
+            "Citronnelle fraîche",
+            "Citronnelle séchée",
+            "Pâte de citronnelle"
+          ]
+        },
+        {
+          "name": "Feuilles de combava",
+          "purpose": "Essentiel pour la saveur authentique du Pla Pao",
+          "substitutes": [
+            "Feuilles de combava fraîches",
+            "Feuilles de combava séchées",
+            "Zeste de citron vert"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillage en croûte de sel",
+        "steps_overview": "La préparation du Pla Pao nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez du poisson entier frais pour un meilleur résultat",
+          "Ajustez le niveau de piquant selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Pla Pao est un pilier de la cuisine du centre de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce plat représente le cœur de la cuisine du centre de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pla Pao Classique",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Pla Pao Moderne",
+          "description": "Version contemporaine avec des ingrédients premium"
+        },
+        {
+          "name": "Pla Pao Végétarien",
+          "description": "Version végétale avec du tofu ou des champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais",
+          "Herbes thaïlandaises"
+        ],
+        "presentation": "Servi sur une assiette dans le style traditionnel du centre de la Thaïlande",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère selon la coutume thaïlandaise"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Restaurants locaux du centre de la Thaïlande",
+          "Stands de cuisine de rue authentiques",
+          "Marchés traditionnels",
+          "Restaurants familiaux"
+        ],
+        "street_food_areas": [
+          "Marchés de nuit",
+          "Marchés frais du matin",
+          "Food courts locaux"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
