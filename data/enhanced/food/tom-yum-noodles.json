@@ -172,5 +172,105 @@
       "market_stall": "40-60 THB",
       "restaurant": "60-100 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Tom Yum Noedels is een geliefde zielsverwarmende soep uit Centraal-Thailand die vurig en gedurfd is. Pittige en zure noedelsoep met visballen. Dit eenvoudige recept vergt ongeveer 15 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van rijstnoedels, visballen en limoensap creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Rijstnoedels",
+          "purpose": "Essentieel voor de authentieke Tom Yum Noedels smaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Eiernoodels"
+          ]
+        },
+        {
+          "name": "Visballen",
+          "purpose": "Essentieel voor de authentieke Tom Yum Noedels smaak",
+          "substitutes": [
+            "Verse visballen",
+            "Garnalenballen",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Limoensap",
+          "purpose": "Essentieel voor de authentieke Tom Yum Noedels smaak",
+          "substitutes": [
+            "Vers limoensap",
+            "Citroensap",
+            "Tamarindesap"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Essentieel voor de authentieke Tom Yum Noedels smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chilipasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Tom Yum Noedels vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Yum Noedels is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Noedels Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Tom Yum Noedels Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Tom Yum Noedels",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }
