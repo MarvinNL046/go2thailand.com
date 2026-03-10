@@ -267,6 +267,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Khao Kan Jin est un plat principal copieux et savoureux apprécié du nord de la Thaïlande, avec une chaleur subtile. Du riz cuit à la vapeur avec du sang de porc dans une feuille de bananier. Cette recette difficile nécessite environ 60 minutes de préparation et représente les saveurs authentiques de la cuisine du nord de la Thaïlande, caractérisée par des saveurs plus douces, du riz gluant et des herbes. La combinaison de riz, de sang de porc et d'ail crée un mélange harmonieux qui a fait de ce plat un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à petit prix.",
+      "detailed_ingredients": [
+        {
+          "name": "Riz",
+          "purpose": "Essentiel pour la saveur authentique du Khao Kan Jin",
+          "substitutes": [
+            "Riz frais",
+            "Riz gluant",
+            "Riz au jasmin"
+          ]
+        },
+        {
+          "name": "Sang de porc",
+          "purpose": "Essentiel pour la saveur authentique du Khao Kan Jin",
+          "substitutes": [
+            "Sang de porc frais",
+            "Sang de porc séché",
+            "Bouillon de sang de porc"
+          ]
+        },
+        {
+          "name": "Ail",
+          "purpose": "Essentiel pour la saveur authentique du Khao Kan Jin",
+          "substitutes": [
+            "Ail frais",
+            "Ail séché",
+            "Pâte d'ail"
+          ]
+        },
+        {
+          "name": "Échalotes",
+          "purpose": "Essentiel pour la saveur authentique du Khao Kan Jin",
+          "substitutes": [
+            "Échalotes fraîches",
+            "Échalotes séchées",
+            "Pâte d'échalotes"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Cuisson à la vapeur en feuille de bananier",
+        "steps_overview": "La préparation du Khao Kan Jin nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez du riz frais pour un meilleur résultat",
+          "Ajustez le niveau de piquant selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Khao Kan Jin est un pilier de la cuisine du nord de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce plat représente le cœur de la cuisine du nord de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Kan Jin Classique",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Khao Kan Jin Moderne",
+          "description": "Version contemporaine avec des ingrédients premium"
+        },
+        {
+          "name": "Khao Kan Jin Végétarien",
+          "description": "Version végétale avec du tofu ou des champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz gluant",
+          "Légumes frais",
+          "Herbes thaïlandaises"
+        ],
+        "presentation": "Servi dans une feuille de bananier dans le style traditionnel du nord de la Thaïlande",
+        "eating_etiquette": "Dégusté avec les doigts ou une fourchette et une cuillère selon la coutume du nord de la Thaïlande"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Restaurants locaux du nord de la Thaïlande",
+          "Stands de cuisine de rue authentiques",
+          "Marchés traditionnels",
+          "Restaurants familiaux"
+        ],
+        "street_food_areas": [
+          "Marchés de nuit",
+          "Marchés frais du matin",
+          "Food courts locaux"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
