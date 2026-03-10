@@ -370,6 +370,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Yam Woon Sen ist ein beliebter frischer und lebhafter Salat aus Zentralthailand mit einem angenehmen Schärfekick. Glasnudelsalat mit Garnelen und Schweinehackfleisch. Dieses einfache Rezept benötigt etwa 20 Minuten Zubereitungszeit und repräsentiert die authentischen Aromen der zentralthailändischen Küche, die süße, saure, salzige und scharfe Geschmacksrichtungen perfekt ausbalanciert. Die Kombination aus Glasnudeln, Garnelen und Schweinehackfleisch ergibt eine harmonische Mischung, die dieses Gericht bei Einheimischen und Besuchern gleichermaßen beliebt gemacht hat. Perfekt für alle, die erschwingliche authentische thailändische Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Glasnudeln",
+          "purpose": "Unverzichtbar für den authentischen Yam Woon Sen Geschmack",
+          "substitutes": [
+            "Frische Glasnudeln",
+            "Getrocknete Glasnudeln",
+            "Reisnudeln"
+          ]
+        },
+        {
+          "name": "Garnelen",
+          "purpose": "Unverzichtbar für den authentischen Yam Woon Sen Geschmack",
+          "substitutes": [
+            "Frische Garnelen",
+            "Getrocknete Garnelen",
+            "Tintenfisch"
+          ]
+        },
+        {
+          "name": "Schweinehackfleisch",
+          "purpose": "Unverzichtbar für den authentischen Yam Woon Sen Geschmack",
+          "substitutes": [
+            "Frisches Schweinehackfleisch",
+            "Hähnchenhackfleisch",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Tomaten",
+          "purpose": "Unverzichtbar für den authentischen Yam Woon Sen Geschmack",
+          "substitutes": [
+            "Frische Tomaten",
+            "Kirschtomaten",
+            "Tomatenmark"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Frische Zubereitung und Mischen",
+        "steps_overview": "Die Zubereitung von Yam Woon Sen erfordert Liebe zum Detail und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und dabei die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die von Generation zu Generation weitergegeben wurden, garantieren einen authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frische Glasnudeln für das beste Ergebnis",
+          "Passen Sie den Schärfegrad nach Ihrem Geschmack an",
+          "Nicht zu lange kochen, um die Textur zu bewahren",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Yam Woon Sen ist seit Generationen ein fester Bestandteil der zentralthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht repräsentiert das Herz der zentralthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Feste",
+          "Straßenessen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Yam Woon Sen Klassisch",
+          "description": "Die traditionelle Version, wie sie in einheimischen Haushalten serviert wird"
+        },
+        {
+          "name": "Yam Woon Sen Modern",
+          "description": "Zeitgenössische Variante mit Premium-Zutaten"
+        },
+        {
+          "name": "Vegetarischer Yam Woon Sen",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "Auf einem Teller im traditionellen thailändischen Stil serviert",
+        "eating_etiquette": "Mit Gabel und Löffel nach thailändischer Sitte genossen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zentralthailändische Restaurants",
+          "Authentische Straßenimbiss-Stände",
+          "Traditionelle Märkte",
+          "Familiengeführte Lokale"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Frische Morgenmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
