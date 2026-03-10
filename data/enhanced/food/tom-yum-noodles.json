@@ -271,6 +271,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Les Nouilles Tom Yum sont une soupe réconfortante appréciée de la Thaïlande centrale, ardente et audacieuse. Une soupe de nouilles épicée et aigre avec des boulettes de poisson. Cette recette facile nécessite environ 15 minutes de préparation et représente les saveurs authentiques de la cuisine du centre de la Thaïlande qui équilibre parfaitement les saveurs sucrées, acides, salées et épicées. La combinaison de nouilles de riz, de boulettes de poisson et de jus de citron vert crée un mélange harmonieux qui a fait de ce plat un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à petit prix.",
+      "detailed_ingredients": [
+        {
+          "name": "Nouilles de riz",
+          "purpose": "Essentiel pour la saveur authentique des Nouilles Tom Yum",
+          "substitutes": [
+            "Nouilles de riz fraîches",
+            "Nouilles de riz séchées",
+            "Nouilles aux œufs"
+          ]
+        },
+        {
+          "name": "Boulettes de poisson",
+          "purpose": "Essentiel pour la saveur authentique des Nouilles Tom Yum",
+          "substitutes": [
+            "Boulettes de poisson fraîches",
+            "Boulettes de crevettes",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Jus de citron vert",
+          "purpose": "Essentiel pour la saveur authentique des Nouilles Tom Yum",
+          "substitutes": [
+            "Jus de citron vert frais",
+            "Jus de citron",
+            "Jus de tamarin"
+          ]
+        },
+        {
+          "name": "Piment",
+          "purpose": "Essentiel pour la saveur authentique des Nouilles Tom Yum",
+          "substitutes": [
+            "Piment frais",
+            "Piment séché",
+            "Pâte de piment"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Mijotage et superposition des saveurs",
+        "steps_overview": "La préparation des Nouilles Tom Yum nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez des nouilles de riz fraîches pour un meilleur résultat",
+          "Ajustez le niveau de piquant selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Les Nouilles Tom Yum sont un pilier de la cuisine du centre de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce plat représente le cœur de la cuisine du centre de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nouilles Tom Yum Classiques",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Nouilles Tom Yum Modernes",
+          "description": "Version contemporaine avec des ingrédients premium"
+        },
+        {
+          "name": "Nouilles Tom Yum Végétariennes",
+          "description": "Version végétale avec du tofu ou des champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais",
+          "Herbes thaïlandaises"
+        ],
+        "presentation": "Servi dans un bol dans le style traditionnel thaïlandais",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère selon la coutume thaïlandaise"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Restaurants locaux du centre de la Thaïlande",
+          "Stands de cuisine de rue authentiques",
+          "Marchés traditionnels",
+          "Restaurants familiaux"
+        ],
+        "street_food_areas": [
+          "Marchés de nuit",
+          "Marchés frais du matin",
+          "Food courts locaux"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
