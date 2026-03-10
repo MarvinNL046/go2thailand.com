@@ -271,6 +271,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Kanom Jeen Nam Ya est un plat principal copieux et savoureux apprécié du sud de la Thaïlande, avec une agréable pointe de piquant. Des nouilles de riz fermentées avec une sauce au curry de poisson. Cette recette difficile nécessite environ 45 minutes de préparation et représente les saveurs authentiques de la cuisine du sud de la Thaïlande, caractérisée par des épices intenses, des fruits de mer et des currys à base de coco. La combinaison de nouilles de riz fermentées, de poisson et de citronnelle crée un mélange harmonieux qui a fait de ce plat un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à petit prix.",
+      "detailed_ingredients": [
+        {
+          "name": "Nouilles de riz fermentées",
+          "purpose": "Essentiel pour la saveur authentique du Kanom Jeen Nam Ya",
+          "substitutes": [
+            "Nouilles de riz fermentées fraîches",
+            "Nouilles de riz fermentées séchées",
+            "Nouilles de riz ordinaires"
+          ]
+        },
+        {
+          "name": "Poisson",
+          "purpose": "Essentiel pour la saveur authentique du Kanom Jeen Nam Ya",
+          "substitutes": [
+            "Poisson frais",
+            "Poisson séché",
+            "Pâte de poisson"
+          ]
+        },
+        {
+          "name": "Citronnelle",
+          "purpose": "Essentiel pour la saveur authentique du Kanom Jeen Nam Ya",
+          "substitutes": [
+            "Citronnelle fraîche",
+            "Citronnelle séchée",
+            "Pâte de citronnelle"
+          ]
+        },
+        {
+          "name": "Galanga",
+          "purpose": "Essentiel pour la saveur authentique du Kanom Jeen Nam Ya",
+          "substitutes": [
+            "Galanga frais",
+            "Galanga séché",
+            "Pâte de galanga"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Cuisson et mijotage",
+        "steps_overview": "La préparation du Kanom Jeen Nam Ya nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez des nouilles de riz fermentées fraîches pour un meilleur résultat",
+          "Ajustez le niveau de piquant selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Kanom Jeen Nam Ya est un pilier de la cuisine du sud de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce plat représente le cœur de la cuisine du sud de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kanom Jeen Nam Ya Classique",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Kanom Jeen Nam Ya Moderne",
+          "description": "Version contemporaine avec des ingrédients premium"
+        },
+        {
+          "name": "Kanom Jeen Nam Ya Végétarien",
+          "description": "Version végétale avec du tofu ou des champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Légumes frais",
+          "Herbes thaïlandaises",
+          "Accompagnements comme des légumes marinés"
+        ],
+        "presentation": "Servi sur une assiette dans le style traditionnel du sud de la Thaïlande",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère selon la coutume thaïlandaise"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Restaurants locaux du sud de la Thaïlande",
+          "Stands de cuisine de rue authentiques",
+          "Marchés traditionnels",
+          "Restaurants familiaux"
+        ],
+        "street_food_areas": [
+          "Marchés de nuit",
+          "Marchés frais du matin",
+          "Food courts locaux"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
