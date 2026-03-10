@@ -271,6 +271,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Roti Sai Mai est une délicieuse douceur appréciée de la Thaïlande centrale, douce pour le palais. De la barbe à papa thaïlandaise enveloppée dans un fin roti d'Ayutthaya. Cette recette difficile nécessite environ 30 minutes de préparation et représente les saveurs authentiques de la cuisine du centre de la Thaïlande qui équilibre parfaitement les saveurs sucrées, acides, salées et épicées. La combinaison de farine, de sucre et de colorant alimentaire crée un mélange harmonieux qui a fait de ce dessert un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à petit prix.",
+      "detailed_ingredients": [
+        {
+          "name": "Farine",
+          "purpose": "Essentiel pour la saveur authentique du Roti Sai Mai",
+          "substitutes": [
+            "Farine de blé",
+            "Farine de riz",
+            "Farine d'épeautre"
+          ]
+        },
+        {
+          "name": "Sucre",
+          "purpose": "Essentiel pour la saveur authentique du Roti Sai Mai",
+          "substitutes": [
+            "Sucre de palme",
+            "Sucre de coco",
+            "Sucre cristallisé"
+          ]
+        },
+        {
+          "name": "Colorant alimentaire",
+          "purpose": "Essentiel pour la saveur authentique du Roti Sai Mai",
+          "substitutes": [
+            "Colorant naturel",
+            "Extrait de pandan (vert)",
+            "Fleur de pois papillon (bleu)"
+          ]
+        },
+        {
+          "name": "Eau",
+          "purpose": "Essentiel pour la saveur authentique du Roti Sai Mai",
+          "substitutes": [
+            "Eau de coco",
+            "Eau de pandan",
+            "Eau ordinaire"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Préparation traditionnelle",
+        "steps_overview": "La préparation du Roti Sai Mai nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez de la farine fraîche pour un meilleur résultat",
+          "Ajustez le niveau de sucre selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Roti Sai Mai est un pilier de la cuisine du centre de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce dessert représente le cœur de la cuisine du centre de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Roti Sai Mai Classique",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Roti Sai Mai Moderne",
+          "description": "Version contemporaine avec des ingrédients premium"
+        },
+        {
+          "name": "Roti Sai Mai Végétarien",
+          "description": "Version végétale avec du tofu ou des champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais",
+          "Herbes thaïlandaises"
+        ],
+        "presentation": "Servi sur une assiette dans le style traditionnel du centre de la Thaïlande",
+        "eating_etiquette": "Se mange avec les mains, la barbe à papa est enroulée dans le roti"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Restaurants locaux du centre de la Thaïlande",
+          "Stands de cuisine de rue authentiques",
+          "Marchés traditionnels",
+          "Restaurants familiaux"
+        ],
+        "street_food_areas": [
+          "Marchés de nuit",
+          "Marchés frais du matin",
+          "Food courts locaux"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
