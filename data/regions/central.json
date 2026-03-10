@@ -4,17 +4,20 @@
   "name": {
     "en": "Central Thailand",
     "nl": "Centraal-Thailand",
-    "fr": "Thaïlande centrale"
+    "fr": "Thaïlande centrale",
+    "de": "Zentralthailand"
   },
   "description": {
     "en": "The heart of Thailand with bustling Bangkok, historic Ayutthaya, and easy access to beaches.",
     "nl": "Het hart van Thailand met het bruisende Bangkok, historisch Ayutthaya en gemakkelijke toegang tot stranden.",
-    "fr": "Le cœur de la Thaïlande avec Bangkok l'animée, l'historique Ayutthaya et un accès facile aux plages."
+    "fr": "Le cœur de la Thaïlande avec Bangkok l'animée, l'historique Ayutthaya et un accès facile aux plages.",
+    "de": "Das Herz Thailands mit dem pulsierenden Bangkok, dem historischen Ayutthaya und einfachem Zugang zu Stränden."
   },
   "highlights": {
     "en": ["Capital city Bangkok", "Historic sites", "Easy transportation", "Cultural attractions", "Mix of urban and historic"],
     "nl": ["Hoofdstad Bangkok", "Historische plekken", "Uitstekend vervoer", "Culturele attracties", "Mix van stedelijk en historisch"],
-    "fr": ["Capitale Bangkok", "Sites historiques", "Transports faciles", "Attractions culturelles", "Mélange urbain et historique"]
+    "fr": ["Capitale Bangkok", "Sites historiques", "Transports faciles", "Attractions culturelles", "Mélange urbain et historique"],
+    "de": ["Hauptstadt Bangkok", "Historische Stätten", "Ausgezeichneter Transport", "Kulturelle Attraktionen", "Mix aus urban und historisch"]
   },
   "cities": [
     "Bangkok",
@@ -31,91 +34,108 @@
   "climate": {
     "en": "Hot (Mar-May), Rainy (Jun-Oct), Cool and dry (Nov-Feb)",
     "nl": "Heet (mrt-mei), regenseizoen (jun-okt), koel en droog (nov-feb)",
-    "fr": "Chaud (mars-mai), pluvieux (juin-oct), frais et sec (nov-fév)"
+    "fr": "Chaud (mars-mai), pluvieux (juin-oct), frais et sec (nov-fév)",
+    "de": "Heiß (März-Mai), Regenzeit (Juni-Okt), kühl und trocken (Nov-Feb)"
   },
   "bestTimeToVisit": {
     "en": "November to February",
     "nl": "November tot februari",
-    "fr": "Novembre à février"
+    "fr": "Novembre à février",
+    "de": "November bis Februar"
   },
   "image": "/images/regions/central-thailand.webp",
   "geography": {
     "en": "Flat river delta plains along the Chao Phraya River. Urban sprawl around Bangkok with historic sites and floating markets.",
     "nl": "Vlakke rivierdelta langs de Chao Phraya-rivier. Stedelijke uitbreiding rond Bangkok met historische plekken en drijvende markten.",
-    "fr": "Plaines deltaïques plates le long du fleuve Chao Phraya. Étalement urbain autour de Bangkok avec des sites historiques et des marchés flottants."
+    "fr": "Plaines deltaïques plates le long du fleuve Chao Phraya. Étalement urbain autour de Bangkok avec des sites historiques et des marchés flottants.",
+    "de": "Flache Flussdelta-Ebenen entlang des Chao Phraya. Städtische Ausdehnung um Bangkok mit historischen Stätten und schwimmenden Märkten."
   },
   "culture": {
     "en": "Mix of traditional Thai culture and modern cosmopolitan lifestyle. Royal heritage and Buddhist temples alongside skyscrapers.",
     "nl": "Mix van traditionele Thaise cultuur en modern kosmopolitisch leven. Koninklijk erfgoed en boeddhistische tempels naast wolkenkrabbers.",
-    "fr": "Mélange de culture thaïlandaise traditionnelle et de mode de vie cosmopolite moderne. Patrimoine royal et temples bouddhistes aux côtés de gratte-ciel."
+    "fr": "Mélange de culture thaïlandaise traditionnelle et de mode de vie cosmopolite moderne. Patrimoine royal et temples bouddhistes aux côtés de gratte-ciel.",
+    "de": "Mix aus traditioneller thailändischer Kultur und modernem kosmopolitischem Lebensstil. Königliches Erbe und buddhistische Tempel neben Wolkenkratzern."
   },
   "cuisine": {
     "en": "Pad Thai, Tom Yum, Green Curry, Mango Sticky Rice. Street food capital with diverse international cuisine in Bangkok.",
     "nl": "Pad Thai, Tom Yum, groene curry, Mango Sticky Rice. Street food-hoofdstad met diverse internationale keuken in Bangkok.",
-    "fr": "Pad Thai, Tom Yum, curry vert, Mango Sticky Rice. Capitale de la street food avec une cuisine internationale variée à Bangkok."
+    "fr": "Pad Thai, Tom Yum, curry vert, Mango Sticky Rice. Capitale de la street food avec une cuisine internationale variée à Bangkok.",
+    "de": "Pad Thai, Tom Yum, grünes Curry, Mango Sticky Rice. Street-Food-Hauptstadt mit vielfältiger internationaler Küche in Bangkok."
   },
   "transportation": {
     "en": "Excellent BTS/MRT in Bangkok. Trains to Ayutthaya. Buses and taxis widely available. Don Mueang and Suvarnabhumi airports.",
     "nl": "Uitstekend BTS/MRT in Bangkok. Treinen naar Ayutthaya. Bussen en taxi's ruim beschikbaar. Luchthavens Don Mueang en Suvarnabhumi.",
-    "fr": "Excellent BTS/MRT à Bangkok. Trains vers Ayutthaya. Bus et taxis largement disponibles. Aéroports Don Mueang et Suvarnabhumi."
+    "fr": "Excellent BTS/MRT à Bangkok. Trains vers Ayutthaya. Bus et taxis largement disponibles. Aéroports Don Mueang et Suvarnabhumi.",
+    "de": "Ausgezeichnetes BTS/MRT in Bangkok. Züge nach Ayutthaya. Busse und Taxis weithin verfügbar. Flughäfen Don Mueang und Suvarnabhumi."
   },
   "budgetInfo": {
     "en": "Budget: $30-50/day. Mid-range: $50-100/day. Luxury: $100+/day. Bangkok more expensive than other regions.",
     "nl": "Budget: $30-50/dag. Middenklasse: $50-100/dag. Luxe: $100+/dag. Bangkok is duurder dan andere regio's.",
-    "fr": "Budget : $30-50/jour. Milieu de gamme : $50-100/jour. Luxe : $100+/jour. Bangkok est plus cher que les autres régions."
+    "fr": "Budget : $30-50/jour. Milieu de gamme : $50-100/jour. Luxe : $100+/jour. Bangkok est plus cher que les autres régions.",
+    "de": "Budget: $30-50/Tag. Mittelklasse: $50-100/Tag. Luxus: $100+/Tag. Bangkok ist teurer als andere Regionen."
   },
   "topActivities": {
     "en": ["Grand Palace visits, floating markets, temple tours, street food tours, shopping, river cruises, day trips to Ayutthaya"],
     "nl": ["Grand Palace bezoeken, drijvende markten, tempeltours, street food tours, shoppen, riviercruises, dagtrips naar Ayutthaya"],
-    "fr": ["Visite du Grand Palace, marchés flottants, visites de temples, circuits street food, shopping, croisières fluviales, excursions à Ayutthaya"]
+    "fr": ["Visite du Grand Palace, marchés flottants, visites de temples, circuits street food, shopping, croisières fluviales, excursions à Ayutthaya"],
+    "de": ["Grand Palace besuchen, schwimmende Märkte, Tempeltouren, Street-Food-Touren, Shopping, Flusskreuzfahrten, Tagesausflüge nach Ayutthaya"]
   },
   "hiddenGems": {
     "en": ["Amphawa floating market, Bang Krachao green lung, Train Market Maeklong, Wat Paknam glass chedi, Khlong Lat Mayom"],
     "nl": ["Amphawa drijvende markt, Bang Krachao groene long, Train Market Maeklong, Wat Paknam glazen chedi, Khlong Lat Mayom"],
-    "fr": ["Marché flottant d'Amphawa, poumon vert de Bang Krachao, Train Market Maeklong, chedi de verre de Wat Paknam, Khlong Lat Mayom"]
+    "fr": ["Marché flottant d'Amphawa, poumon vert de Bang Krachao, Train Market Maeklong, chedi de verre de Wat Paknam, Khlong Lat Mayom"],
+    "de": ["Amphawa schwimmender Markt, Bang Krachao grüne Lunge, Train Market Maeklong, Wat Paknam Glaschedi, Khlong Lat Mayom"]
   },
   "localFestivals": {
     "en": ["Songkran (April), Loi Krathong (November), Chinese New Year (Jan/Feb), Royal ceremonies, Golden Mount Fair"],
     "nl": ["Songkran (april), Loi Krathong (november), Chinees Nieuwjaar (jan/feb), koninklijke ceremonies, Golden Mount Fair"],
-    "fr": ["Songkran (avril), Loi Krathong (novembre), Nouvel An chinois (jan/fév), cérémonies royales, Golden Mount Fair"]
+    "fr": ["Songkran (avril), Loi Krathong (novembre), Nouvel An chinois (jan/fév), cérémonies royales, Golden Mount Fair"],
+    "de": ["Songkran (April), Loi Krathong (November), Chinesisches Neujahr (Jan/Feb), königliche Zeremonien, Golden Mount Fair"]
   },
   "travelTips": {
     "en": ["Use BTS/MRT to avoid traffic. Negotiate taxi fares. Stay hydrated. Dress modestly for temples. Beware of scams."],
     "nl": ["Gebruik BTS/MRT om files te vermijden. Onderhandel over taxitarieven. Blijf gehydrateerd. Kleed je bescheiden voor tempels. Pas op voor oplichting."],
-    "fr": ["Utilisez le BTS/MRT pour éviter les embouteillages. Négociez les tarifs de taxi. Restez hydraté. Habillez-vous modestement pour les temples. Méfiez-vous des arnaques."]
+    "fr": ["Utilisez le BTS/MRT pour éviter les embouteillages. Négociez les tarifs de taxi. Restez hydraté. Habillez-vous modestement pour les temples. Méfiez-vous des arnaques."],
+    "de": ["Nutzen Sie BTS/MRT um Staus zu vermeiden. Handeln Sie Taxipreise aus. Trinken Sie genug. Kleiden Sie sich bescheiden für Tempel. Vorsicht vor Betrug."]
   },
   "whatToPack": {
     "en": ["Light breathable clothing, comfortable walking shoes, rain jacket, modest temple attire, air pollution mask, hand sanitizer"],
     "nl": ["Lichte ademende kleding, comfortabele wandelschoenen, regenjas, bescheiden tempelkleding, mondkapje tegen luchtvervuiling, handgel"],
-    "fr": ["Vêtements légers et respirants, chaussures de marche confortables, veste de pluie, tenue modeste pour les temples, masque anti-pollution, gel hydroalcoolique"]
+    "fr": ["Vêtements légers et respirants, chaussures de marche confortables, veste de pluie, tenue modeste pour les temples, masque anti-pollution, gel hydroalcoolique"],
+    "de": ["Leichte atmungsaktive Kleidung, bequeme Wanderschuhe, Regenjacke, bescheidene Tempelkleidung, Atemschutzmaske gegen Luftverschmutzung, Handdesinfektionsmittel"]
   },
   "seo": {
     "metaTitle": {
       "en": "Central Thailand Travel Guide 2026 | Go2Thailand",
       "nl": "Centraal-Thailand Reisgids 2026 | Go2Thailand",
-      "fr": "Guide de voyage Thaïlande centrale 2026 | Go2Thailand"
+      "fr": "Guide de voyage Thaïlande centrale 2026 | Go2Thailand",
+      "de": "Zentralthailand Reiseführer 2026 | Go2Thailand"
     },
     "metaDescription": {
       "en": "Central Thailand travel guide 2026. Best cities, attractions, climate, and travel tips for Bangkok, Ayutthaya, Kanchanaburi and more.",
       "nl": "Centraal-Thailand reisgids 2026. Beste steden, attracties, klimaat en reistips voor Bangkok, Ayutthaya, Kanchanaburi en meer.",
-      "fr": "Guide de voyage Thaïlande centrale 2026. Meilleures villes, attractions, climat et conseils de voyage pour Bangkok, Ayutthaya, Kanchanaburi et plus."
+      "fr": "Guide de voyage Thaïlande centrale 2026. Meilleures villes, attractions, climat et conseils de voyage pour Bangkok, Ayutthaya, Kanchanaburi et plus.",
+      "de": "Zentralthailand Reiseführer 2026. Beste Städte, Sehenswürdigkeiten, Klima und Reisetipps für Bangkok, Ayutthaya, Kanchanaburi und mehr."
     }
   },
   "categories": {
     "attractions": {
       "en": "Top attractions in Central Thailand",
       "nl": "Top bezienswaardigheden in Centraal-Thailand",
-      "fr": "Principales attractions en Thaïlande centrale"
+      "fr": "Principales attractions en Thaïlande centrale",
+      "de": "Top-Sehenswürdigkeiten in Zentralthailand"
     },
     "cities": {
       "en": "Best cities to visit in Central Thailand",
       "nl": "Beste steden om te bezoeken in Centraal-Thailand",
-      "fr": "Meilleures villes à visiter en Thaïlande centrale"
+      "fr": "Meilleures villes à visiter en Thaïlande centrale",
+      "de": "Beste Städte in Zentralthailand"
     },
     "climate": {
       "en": "Climate and weather in Central Thailand",
       "nl": "Klimaat en weer in Centraal-Thailand",
-      "fr": "Climat et météo en Thaïlande centrale"
+      "fr": "Climat et météo en Thaïlande centrale",
+      "de": "Klima und Wetter in Zentralthailand"
     }
   },
   "tags": [
