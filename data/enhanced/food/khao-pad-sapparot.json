@@ -369,6 +369,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Khao Pad Sapparot ist ein beliebtes deftiges und schmackhaftes Hauptgericht aus Zentralthailand mit einer dezenten Wärme. Ananas-Bratreis serviert in einer Ananasschale. Dieses Rezept mittlerer Schwierigkeit benötigt etwa 20 Minuten Zubereitungszeit und repräsentiert die authentischen Aromen der zentralthailändischen Küche, die süß, sauer, salzig und scharf perfekt ausbalanciert. Die Kombination aus Reis, Ananas und Garnelen ergibt eine harmonische Mischung, die dieses Gericht zum Liebling bei Einheimischen und Besuchern gleichermaßen gemacht hat. Perfekt für alle, die preiswerte authentische Thai-Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Reis",
+          "purpose": "Unverzichtbar für den authentischen Khao Pad Sapparot Geschmack",
+          "substitutes": [
+            "Frischer Reis",
+            "Getrockneter Reis",
+            "Reispaste"
+          ]
+        },
+        {
+          "name": "Ananas",
+          "purpose": "Unverzichtbar für den authentischen Khao Pad Sapparot Geschmack",
+          "substitutes": [
+            "Frische Ananas",
+            "Getrocknete Ananas",
+            "Ananaspaste"
+          ]
+        },
+        {
+          "name": "Garnelen",
+          "purpose": "Unverzichtbar für den authentischen Khao Pad Sapparot Geschmack",
+          "substitutes": [
+            "Frische Garnelen",
+            "Getrocknete Garnelen",
+            "Garnelenpaste"
+          ]
+        },
+        {
+          "name": "Cashewnüsse",
+          "purpose": "Unverzichtbar für den authentischen Khao Pad Sapparot Geschmack",
+          "substitutes": [
+            "Frische Cashewnüsse",
+            "Getrocknete Cashewnüsse",
+            "Cashewnusspaste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Pfannenrühren im Wok",
+        "steps_overview": "Die Zubereitung von Khao Pad Sapparot erfordert Liebe zum Detail und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die über Generationen weitergegeben wurden, garantieren authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frischen Reis für das beste Ergebnis",
+          "Passen Sie die Schärfe nach Ihrem Geschmack an",
+          "Nicht zu lange kochen, um die Textur zu erhalten",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Pad Sapparot ist seit Generationen ein fester Bestandteil der zentralthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht repräsentiert das Herzstück der zentralthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Festivals",
+          "Straßenküchen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Sapparot Klassisch",
+          "description": "Die traditionelle Version wie sie in lokalen Haushalten serviert wird"
+        },
+        {
+          "name": "Khao Pad Sapparot Modern",
+          "description": "Zeitgenössische Variante mit Premium-Zutaten"
+        },
+        {
+          "name": "Vegetarisches Khao Pad Sapparot",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "Serviert in einer ausgehöhlten Ananas im traditionellen thailändischen Stil",
+        "eating_etiquette": "Wird mit Gabel und Löffel nach thailändischer Sitte gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zentralthailändische Restaurants",
+          "Authentische Straßenküchen-Stände",
+          "Traditionelle Märkte",
+          "Familiengeführte Lokale"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Morgendliche Frischmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
