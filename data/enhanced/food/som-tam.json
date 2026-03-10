@@ -171,5 +171,97 @@
     }
   },
   "enhanced_at": "2025-05-25T21:51:02.697Z",
-  "ai_generated": false
+  "ai_generated": false,
+  "translations": {
+    "nl": {
+      "enhanced_description": "Som Tam (Groene Papajasalade) is Isaans geschenk aan de wereld — een explosieve combinatie van smaken die al je smaakpapillen tegelijkertijd aanvalt. Deze gestampte salade is ontstaan in Laos en Noordoost-Thailand, waar het ritmische 'pok pok' geluid van de vijzel en stamper de soundtrack is van elke markt. Het is verfrissend, pittig, funky en verslavend — de perfecte balans van texturen en smaken.",
+      "detailed_ingredients": [
+        {
+          "name": "Groene papaja",
+          "purpose": "Zorgt voor knapperige textuur en milde smaak die de dressing absorbeert",
+          "substitutes": [
+            "Groene mango",
+            "Komkommer- en wortelmix",
+            "Koolrabi",
+            "Groene appel voor zoetheid"
+          ]
+        },
+        {
+          "name": "Pla Ra (gefermenteerde vis)",
+          "purpose": "Het funky, umami-hart van Isaan-stijl som tam",
+          "substitutes": [
+            "Vissaus (mildere smaak)",
+            "Garnalenpasta",
+            "Ansjovis",
+            "Sojasaus voor vegetarische versie"
+          ]
+        },
+        {
+          "name": "Thaise pepers",
+          "purpose": "Brengt de hitte die deze salade legendarisch maakt",
+          "substitutes": [
+            "Serranopepers",
+            "Vogelpepers",
+            "Jalapeños (veel milder)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stampen in een kleienvijzel (khrok)",
+        "steps_overview": "De magie gebeurt in de vijzel. Elk ingrediënt wordt gekneusd, niet geplet, waardoor smaken vrijkomen terwijl de textuur behouden blijft. De stampvolgorde is belangrijk — knoflook en pepers eerst, dan kruiden, tot slot de papaja, alles terwijl je met een lepel mengt.",
+        "cooking_tips": [
+          "Gebruik een kleivijzel, geen houten — die grijpt ingrediënten beter vast",
+          "Stamp en vouw, niet pletten — behoud de textuur",
+          "Proef voortdurend en pas aan — elke portie is uniek",
+          "De papaja moet gekneusd maar nog steeds knapperig zijn",
+          "Maak het pittiger dan je denkt — de zoetheid brengt het in balans"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan in Laos en verspreid door heel Isaan (Noordoost-Thailand). Plattelandsgemeenschappen creëerden het als manier om onrijpe papaja te gebruiken en vis te conserveren. Het gerecht vertegenwoordigt de vindingrijkheid van het Isaan-volk.",
+        "cultural_importance": "Som Tam is meer dan eten — het is een sociaal ritueel. Groepen verzamelen zich rond de som tam-verkoper, passen hun bestelling aan en delen borden. Het is het meest bestelde gerecht in Thailand, dagelijks gegeten door miljoenen.",
+        "traditional_occasions": [
+          "Lunch-vaste waarde met kleefrijst",
+          "Drinkvoedsel bij bier",
+          "Oogstvieringen",
+          "Tempelfestivals"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Som Tam Thai",
+          "description": "De 'veilige' versie met gedroogde garnalen, pinda's en vissaus"
+        },
+        {
+          "name": "Som Tam Poo Pla Ra",
+          "description": "Isaan-stijl met gefermenteerde vis en veldkrabben — voor dappere zielen"
+        },
+        {
+          "name": "Som Tam Ponlamai",
+          "description": "Fruitsaladeversie met appels, druiven en pinda's"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Nua (Bangkok) — Moderne Isaan-restaurantketen",
+          "Laab Ubon (Bangkok) — Authentieke Isaan-smaken",
+          "Elk Isaan-restaurant met plastic krukjes"
+        ],
+        "street_food_areas": [
+          "Soi 38 Night Market, Bangkok",
+          "JJ Green Night Market",
+          "Elke bouwplaats tijdens de lunch (volg de arbeiders)"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
+  }
 }
