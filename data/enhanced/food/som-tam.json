@@ -352,6 +352,96 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Som Tam (Grüner Papayasalat) ist Isaans Geschenk an die Welt — eine explosive Kombination von Aromen, die alle Geschmacksknospen gleichzeitig angreift. Dieser gestampfte Salat entstand in Laos und Nordostthailand, wo das rhythmische 'Pok Pok' von Mörser und Stößel der Soundtrack jedes Marktes ist. Er ist erfrischend, scharf, funky und süchtig machend — die perfekte Balance aus Texturen und Geschmäckern.",
+      "detailed_ingredients": [
+        {
+          "name": "Grüne Papaya",
+          "purpose": "Liefert knackige Textur und milden Geschmack, der das Dressing aufnimmt",
+          "substitutes": [
+            "Grüne Mango",
+            "Gurken-Karotten-Mix",
+            "Kohlrabi",
+            "Grüner Apfel für Süße"
+          ]
+        },
+        {
+          "name": "Pla Ra (fermentierter Fisch)",
+          "purpose": "Das funky Umami-Herz des Isaan-Stil Som Tam",
+          "substitutes": [
+            "Fischsauce (milderer Geschmack)",
+            "Garnelenpaste",
+            "Sardellen",
+            "Sojasauce für die vegetarische Version"
+          ]
+        },
+        {
+          "name": "Thai-Chilis",
+          "purpose": "Bringt die Schärfe, die diesen Salat legendär macht",
+          "substitutes": [
+            "Serrano-Pfeffer",
+            "Bird's Eye Chilis",
+            "Jalapeños (viel milder)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stampfen im Tonmörser (Khrok)",
+        "steps_overview": "Die Magie geschieht im Mörser. Jede Zutat wird angestoßen, nicht zerquetscht, wobei Aromen freigesetzt werden und die Textur erhalten bleibt. Die Stampfreihenfolge ist wichtig — Knoblauch und Chilis zuerst, dann Gewürze, zuletzt die Papaya, alles während man mit einem Löffel umrührt.",
+        "cooking_tips": [
+          "Verwenden Sie einen Tonmörser, keinen hölzernen — er greift die Zutaten besser",
+          "Stampfen und falten, nicht zerdrücken — die Textur bewahren",
+          "Ständig abschmecken und anpassen — jede Portion ist einzigartig",
+          "Die Papaya sollte angestoßen, aber noch knackig sein",
+          "Machen Sie es schärfer als Sie denken — die Süße gleicht es aus"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Entstanden in Laos und verbreitet durch ganz Isaan (Nordostthailand). Ländliche Gemeinschaften schufen ihn als Möglichkeit, unreife Papaya zu verwenden und Fisch zu konservieren. Das Gericht verkörpert den Einfallsreichtum der Isaan-Bevölkerung.",
+        "cultural_importance": "Som Tam ist mehr als Essen — es ist ein soziales Ritual. Gruppen versammeln sich um den Som-Tam-Verkäufer, passen ihre Bestellung an und teilen Teller. Es ist das meistbestellte Gericht in Thailand, täglich von Millionen gegessen.",
+        "traditional_occasions": [
+          "Mittags-Grundnahrung mit Klebreis",
+          "Trinkbegleitung zum Bier",
+          "Erntefeste",
+          "Tempelfestivals"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Som Tam Thai",
+          "description": "Die 'sichere' Version mit getrockneten Garnelen, Erdnüssen und Fischsauce"
+        },
+        {
+          "name": "Som Tam Poo Pla Ra",
+          "description": "Isaan-Stil mit fermentiertem Fisch und Feldkrabben — für mutige Seelen"
+        },
+        {
+          "name": "Som Tam Ponlamai",
+          "description": "Obstsalat-Version mit Äpfeln, Trauben und Erdnüssen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse"
+        ],
+        "presentation": "Heiß serviert im traditionellen thailändischen Stil",
+        "eating_etiquette": "Wird mit Gabel und Löffel gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Nua (Bangkok) — Moderne Isaan-Restaurantkette",
+          "Laab Ubon (Bangkok) — Authentische Isaan-Aromen",
+          "Jedes Isaan-Restaurant mit Plastikhockern"
+        ],
+        "street_food_areas": [
+          "Soi 38 Night Market, Bangkok",
+          "JJ Green Night Market",
+          "Jede Baustelle zur Mittagszeit (den Arbeitern folgen)"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
