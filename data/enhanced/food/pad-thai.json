@@ -371,6 +371,102 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Pad Thai ist Thailands ikonischstes Gericht, eine perfekte Harmonie aus süßen, sauren und salzigen Aromen, umhüllt von seidigen Reisnudeln. Entstanden aus einer Nationalismus-Kampagne der 1930er Jahre, ist dieses Wok-Nudelgericht zum weltweiten Botschafter der thailändischen Küche geworden. Das Geheimnis liegt in der Sauce auf Tamarindenbasis und dem Wok Hei (Atem des Woks), das nur durch fachmännisches Kochen bei extremer Hitze entsteht.",
+      "detailed_ingredients": [
+        {
+          "name": "Reisnudeln (Sen Lek)",
+          "purpose": "Die Grundlage — flache Reisnudeln, die alle Aromen aufsaugen",
+          "substitutes": [
+            "Frische Reisnudeln",
+            "Linguine (nur im Notfall)",
+            "Zucchini-Nudeln für Low-Carb"
+          ]
+        },
+        {
+          "name": "Tamarindenpaste",
+          "purpose": "Verleiht den charakteristischen säuerlich-süßen Geschmack, der authentisches Pad Thai ausmacht",
+          "substitutes": [
+            "Limettensaft mit braunem Zucker",
+            "Reisessig mit Dattelsirup"
+          ]
+        },
+        {
+          "name": "Palmzucker",
+          "purpose": "Fügt karamellartige Süße hinzu, die die saure Tamarinde ausgleicht",
+          "substitutes": [
+            "Brauner Zucker",
+            "Kokoszucker",
+            "Weißer Zucker mit Melasse"
+          ]
+        },
+        {
+          "name": "Getrocknete Garnelen",
+          "purpose": "Verleiht Umami-Tiefe und authentischen Geschmack",
+          "substitutes": [
+            "Fischsauce (Menge erhöhen)",
+            "Sardellenpaste",
+            "Misopaste für die vegetarische Version"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Wok-Rührbratung mit der richtigen Reihenfolge",
+        "steps_overview": "Pad Thai dreht sich ganz um Timing und Technik. Jede Zutat kommt genau im richtigen Moment in den Wok. Die Nudeln müssen weich, aber nicht matschig sein, das Ei durchgewebt, und alles mit genug Kraft geworfen, um zu vermischen, aber sanft genug, um die Nudeln nicht zu brechen.",
+        "cooking_tips": [
+          "Nudeln in Wasser bei Raumtemperatur einweichen, nicht heiß — verhindert Matschigkeit",
+          "Zutaten ständig im Wok in Bewegung halten",
+          "Zutaten an den Seiten des Woks hochschieben, um Kochzonen zu schaffen",
+          "Die Sauce sollte leicht auf den Nudeln karamellisieren",
+          "Sojasprossen ganz zum Schluss für den Biss hinzufügen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "In den 1930er Jahren als Teil der Nationenbildungskampagne von Premierminister Plaek Phibunsongkhram entstanden. Er wollte ein Nationalgericht, das Thailand vereinen und den Reisverbrauch während des Zweiten Weltkriegs reduzieren sollte. Der Name bedeutet wörtlich 'Thailändisch gebratenes Gericht'.",
+        "cultural_importance": "Pad Thai steht für Thailands kulinarische Diplomatie. Es ist oft das erste thailändische Gericht, das Ausländer probieren, und ist weltweit zum Synonym für die thailändische Küche geworden. In Thailand wird die Qualität eines Kochs oft an seinem Pad Thai gemessen.",
+        "traditional_occasions": [
+          "Feste Größe im Straßenessen",
+          "Spätnächtlicher Snack",
+          "Festival-Essen",
+          "Touristische Einführung in die thailändische Küche"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Thai Goong Sod",
+          "description": "Version mit frischen Garnelen — die luxuriöseste traditionelle Variante"
+        },
+        {
+          "name": "Pad Thai Woonsen",
+          "description": "Mit Glasnudeln statt Reisnudeln zubereitet"
+        },
+        {
+          "name": "Pad Thai Ho Kai",
+          "description": "Eingewickelt in ein dünnes Eieromelette — Restaurant-Präsentation"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse"
+        ],
+        "presentation": "Heiß serviert im traditionellen thailändischen Stil",
+        "eating_etiquette": "Wird mit Gabel und Löffel gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) — Der legendäre 'Pad Thai König'",
+          "Pad Thai Fai Ta Lu (Bangkok) — Berühmt für Wok Hei",
+          "Baan Phadthai (Bangkok) — Gehobene Interpretationen"
+        ],
+        "street_food_areas": [
+          "Chinatown Bangkok — Probieren Sie die Verkäufer in der Nähe von Wat Traimit",
+          "Khao San Road — Touristenfreundliche Versionen",
+          "Or Tor Kor Market — Hochwertige Zutaten"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
