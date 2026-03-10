@@ -254,6 +254,17 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
               </div>
             ))}
 
+            {/* Insurance tip */}
+            <div className="bg-amber-50 rounded-2xl p-6 mb-12 border border-amber-200">
+              <h3 className="font-bold text-amber-900 mb-2">Insurance Tip for Divers</h3>
+              <p className="text-sm text-amber-800 mb-3">
+                Standard travel insurance often excludes scuba diving below 10 meters. Decompression treatment is expensive. Check activity wording before you book your policy.
+              </p>
+              <Link href="/travel-insurance-thailand/" className="text-sm font-semibold text-thailand-blue hover:underline">
+                Compare travel insurance for Thailand →
+              </Link>
+            </div>
+
             {/* CTA */}
             <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
               <p className="font-script text-thailand-gold text-lg mb-2">Dive In</p>

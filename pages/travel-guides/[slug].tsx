@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { getTravelGuideStaticPaths, getTravelGuideBySlug } from '../../lib/travel-guides';
+import InsuranceCTA from '../../components/InsuranceCTA';
 
 // --- Type definitions ---
 
@@ -375,6 +376,13 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
               <SectionRenderer section={section} lang={lang} />
             </section>
           ))}
+
+          {/* Insurance CTA for relevant guides */}
+          {guide.slug === 'scooter-rental-thailand' && <InsuranceCTA context="scooter" />}
+          {guide.slug === 'diving-snorkeling-thailand' && <InsuranceCTA context="diving" />}
+          {guide.slug === 'health-hospitals-thailand' && <InsuranceCTA context="health" />}
+          {guide.slug === 'hidden-gems-off-beaten-path-thailand' && <InsuranceCTA context="general" />}
+          {guide.slug === 'first-time-thailand' && <InsuranceCTA context="general" />}
         </div>
 
         {/* FAQs */}

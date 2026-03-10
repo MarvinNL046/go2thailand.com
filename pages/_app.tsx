@@ -37,7 +37,7 @@ export default function App({ Component, pageProps }: AppProps) {
               "description": "Your comprehensive guide to Thailand travel",
               "contactPoint": {
                 "@type": "ContactPoint",
-                "email": "info@go2-thailand.com",
+                "email": "hello@go2-thailand.com",
                 "contactType": "customer service"
               }
             })

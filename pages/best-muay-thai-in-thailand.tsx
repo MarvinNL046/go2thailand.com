@@ -377,6 +377,17 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
               </div>
             </div>
 
+            {/* Insurance warning */}
+            <div className="bg-red-50 rounded-2xl p-6 mb-12 border border-red-200">
+              <h3 className="font-bold text-red-900 mb-2">Insurance Warning for Muay Thai</h3>
+              <p className="text-sm text-red-800 mb-3">
+                Most travel insurance policies exclude martial arts. SafetyWing&apos;s Description of Coverage lists martial arts among excluded activities. If training or fighting is part of your trip, get written confirmation from the insurer before you buy.
+              </p>
+              <Link href="/travel-insurance-thailand/" className="text-sm font-semibold text-thailand-blue hover:underline">
+                Compare travel insurance for Thailand →
+              </Link>
+            </div>
+
             {/* CTA */}
             <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
               <p className="font-script text-thailand-gold text-lg mb-2">Fight Night</p>

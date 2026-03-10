@@ -77,6 +77,7 @@ export default function ThailandTravelGuide({ topCities, itineraryCount }: Trave
     ['Best Time', '#best-time'],
     ['Visa & Entry', '#visa'],
     ['Safety', '#safety'],
+    ['Insurance', '#insurance'],
     ['First Timers', '#first-timers'],
   ];
 
@@ -202,6 +203,16 @@ export default function ThailandTravelGuide({ topCities, itineraryCount }: Trave
               </p>
               <Link href="/is-thailand-safe/" className="text-thailand-blue hover:underline font-semibold">
                 Full safety guide →
+              </Link>
+            </section>
+
+            <section id="insurance" className="mb-12">
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4">Travel Insurance</h2>
+              <p className="text-gray-600 mb-4">
+                Do not skip travel insurance for Thailand. Private hospital bills add up fast, and scooter accidents are the number one cause of tourist claims. We compared two solid options — one for short trips, one for digital nomads.
+              </p>
+              <Link href="/travel-insurance-thailand/" className="text-thailand-blue hover:underline font-semibold">
+                Compare travel insurance for Thailand →
               </Link>
             </section>
 

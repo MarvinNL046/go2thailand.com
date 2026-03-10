@@ -52,7 +52,7 @@ const Footer = () => {
                 <svg className="w-4 h-4 text-thailand-red" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
-                <span>info@go2-thailand.com</span>
+                <span>hello@go2-thailand.com</span>
               </div>
             </div>
 
@@ -101,7 +101,7 @@ const Footer = () => {
               </h3>
               <ul className="space-y-3">
                 <li><Link href="/esim/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.esim')}</Link></li>
-                <li><Link href="/travel-insurance/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.insurance')}</Link></li>
+                <li><Link href="/travel-insurance-thailand/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.insurance')}</Link></li>
                 <li><Link href="/travel-gear/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.gear')}</Link></li>
                 <li><Link href="/weather/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.weather')}</Link></li>
                 <li><Link href="/visa/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.visaGuide')}</Link></li>

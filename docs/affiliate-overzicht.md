@@ -70,8 +70,15 @@ Bij een upgrade naar v4: wrap Tailwind imports in `@layer` of isoleer het widget
 - Format: `https://www.amazon.com/dp/[ASIN]?tag=go2thailand-20`
 
 ### SafetyWing (Travel Insurance)
-- **URL:** `https://safetywing.com/?referenceID=go2thailand`
-- **Locatie:** `pages/travel-insurance/index.tsx`
+- **URL:** `https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador`
+- **Locatie:** `pages/travel-insurance/index.tsx`, `components/InsuranceCTA.tsx`, 5 travel guides, expat page
+
+### Ekta Traveling (Travel Insurance)
+- **URL (general):** `https://ektatraveling.tpo.lv/VRqiIZhm`
+- **URL (Thailand-specific):** `https://ektatraveling.tpo.lv/pK9wyXgr`
+- **Locatie:** `pages/travel-insurance/index.tsx`, `components/InsuranceCTA.tsx`
+- **Plans:** Start $0.99/day ($50K), Gold $1.75/day ($150K), Max+ $5.90/day ($500K)
+- **Note:** 4.9/5 rating, 6.2M+ policies sold, 12+ years in market
 
 ---
 

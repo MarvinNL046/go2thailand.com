@@ -12,7 +12,7 @@ const beforeYouGo = [
   { title: 'Visa', detail: 'Most nationalities get 30 days visa-free on arrival. Check your specific country.', link: { href: '/visa/', label: 'Visa guide' } },
   { title: 'SIM card / eSIM', detail: 'Buy a local SIM at the airport or get an eSIM before you leave.', link: { href: '/esim/', label: 'eSIM guide' } },
   { title: 'Currency', detail: 'Thai Baht (THB). ATMs are everywhere but charge ~200 THB fee. Use Wise or Revolut to minimize fees.' },
-  { title: 'Health', detail: 'No mandatory vaccinations. Consider Hep A, Typhoid, and malaria prevention for rural areas. Travel insurance recommended.' },
+  { title: 'Health', detail: 'No mandatory vaccinations. Consider Hep A, Typhoid, and malaria prevention for rural areas. Travel insurance is strongly recommended.', link: { href: '/travel-insurance-thailand/', label: 'Travel insurance guide' } },
   { title: 'Language', detail: 'Thai is the official language. English is widely spoken in tourist areas. Learn a few Thai words — locals appreciate it.' },
 ];
 
@@ -143,6 +143,7 @@ export default function ThailandForFirstTimers() {
                 <li><Link href="/thailand-index/budget/" className="text-thailand-blue hover:underline">Thailand Budget Guide</Link></li>
                 <li><Link href="/city/bangkok/" className="text-thailand-blue hover:underline">Bangkok Guide</Link></li>
                 <li><Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">Chiang Mai Guide</Link></li>
+                <li><Link href="/travel-insurance-thailand/" className="text-thailand-blue hover:underline">Travel Insurance for Thailand</Link></li>
               </ul>
             </div>
 

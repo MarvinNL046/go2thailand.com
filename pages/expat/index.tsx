@@ -6,6 +6,7 @@ import { useRouter } from 'next/router';
 import { useState } from 'react';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
+import InsuranceCTA from '../../components/InsuranceCTA';
 
 interface Neighborhood {
   name: string;
@@ -417,6 +418,13 @@ export default function ExpatGuide({ data }: ExpatPageProps) {
                 </div>
               ))}
             </div>
+          </div>
+        </section>
+
+        {/* Insurance CTA */}
+        <section className="py-0">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <InsuranceCTA context="nomad" />
           </div>
         </section>
 

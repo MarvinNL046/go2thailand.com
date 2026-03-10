@@ -25,7 +25,7 @@ const risks = [
   { level: 'Low', color: 'bg-green-100 text-green-800', title: 'Violent crime', detail: 'Violent crime against tourists is rare. Thailand is not a high-risk country.' },
   { level: 'Medium', color: 'bg-yellow-100 text-yellow-800', title: 'Petty theft', detail: 'Pickpocketing in crowded markets and tourist areas. Keep valuables secure.' },
   { level: 'Medium', color: 'bg-yellow-100 text-yellow-800', title: 'Tourist scams', detail: 'Tuk-tuk scams, gem scams, fake travel agents. Stick to reputable operators.' },
-  { level: 'High', color: 'bg-red-100 text-red-800', title: 'Traffic & scooters', detail: 'Road accidents are the #1 cause of tourist deaths in Thailand. Be very careful on scooters.' },
+  { level: 'High', color: 'bg-red-100 text-red-800', title: 'Traffic & scooters', detail: 'Road accidents are the #1 cause of tourist deaths in Thailand. Be very careful on scooters. Get travel insurance that covers motorbikes.' },
   { level: 'Low', color: 'bg-green-100 text-green-800', title: 'Natural disasters', detail: 'Tsunami risk exists on the Andaman coast but is rare. Monsoon flooding in some areas during rainy season.' },
 ];
 
@@ -105,6 +105,7 @@ export default function IsThailandSafePage() {
                 <li><Link href="/thailand-for-first-timers/" className="text-thailand-blue hover:underline">Thailand for First Timers</Link></li>
                 <li><Link href="/visa/" className="text-thailand-blue hover:underline">Thailand Visa Guide</Link></li>
                 <li><Link href="/travel-security/" className="text-thailand-blue hover:underline">Travel Security Tips</Link></li>
+                <li><Link href="/travel-insurance-thailand/" className="text-thailand-blue hover:underline">Travel Insurance for Thailand</Link></li>
               </ul>
             </div>
           </div>
