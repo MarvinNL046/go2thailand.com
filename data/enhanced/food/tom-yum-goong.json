@@ -171,5 +171,100 @@
     }
   },
   "enhanced_at": "2025-05-25T21:51:23.818Z",
-  "ai_generated": false
+  "ai_generated": false,
+  "translations": {
+    "nl": {
+      "enhanced_description": "Tom Yum Goong is Thailand in een kom — een felle en geurige soep die de Thaise filosofie van gebalanceerde extremen belichaamt. Deze hete en zure garnalensoep is een meesterles in het opbouwen van smaken: de citrusachtige punch van citroengras, de bloemige tonen van laos, de hitte van pepers, allemaal zwemmend in een bouillon die tegelijkertijd troostend en verkwikkend is. Het is medicinaal, magisch en absoluut onmiskenbaar.",
+      "detailed_ingredients": [
+        {
+          "name": "Citroengras",
+          "purpose": "Geeft het kenmerkende citrusaroma en heeft antibacteriële eigenschappen",
+          "substitutes": [
+            "Citroenrasp (wordt niet hetzelfde)",
+            "Citroengras pasta uit pot"
+          ]
+        },
+        {
+          "name": "Laos (galangal)",
+          "purpose": "Voegt scherpe, peperige tonen toe die anders zijn dan gember",
+          "substitutes": [
+            "Verse gember (ander smaakprofiel)",
+            "Bevroren laos"
+          ]
+        },
+        {
+          "name": "Kaffir limoenbladeren",
+          "purpose": "Draagt bloemige citrustonen en aromatische oliën bij",
+          "substitutes": [
+            "Limoenrasp",
+            "Laurierbladeren met limoensap"
+          ]
+        },
+        {
+          "name": "Nam Prik Pao (chiliolie)",
+          "purpose": "Voegt diepte, kleur en umami toe aan de heldere versie",
+          "substitutes": [
+            "Chilipasta",
+            "Sambal oelek met suiker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Aromatische infusie en snel koken",
+        "steps_overview": "Tom Yum draait om het opbouwen van smaaklagen. Aromatische ingrediënten worden gekneusd en getrokken, eiwitten snel gegaard en de finishing touch wordt buiten het vuur toegevoegd. De sleutel is de kruiden niet te lang te koken, want dat maakt ze bitter.",
+        "cooking_tips": [
+          "Kneus citroengras en laos om oliën vrij te maken",
+          "Kook de kruiden nooit te lang — laat trekken en verwijder ze",
+          "Voeg limoensap toe buiten het vuur om vitamine C te behouden",
+          "Gebruik garnalen met schaal voor meer smaak",
+          "De bouillon moet je net een beetje laten hoesten — dat is de perfecte hitte"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan in Centraal-Thailand langs de Chao Phraya-rivier waar garnalen in overvloed aanwezig waren. De soep evolueerde uit oude Thaise medicinale bouillons die bedoeld waren om ziekte af te weren.",
+        "cultural_importance": "Tom Yum is Thailands kippensoep — gegeten als je ziek, verdrietig of aan het vieren bent. Tijdens de Aziatische financiële crisis van 1997 werd 'Tom Yum Goong Crisis' de bijnaam, wat laat zien hoe diep verankerd het is in de Thaise cultuur.",
+        "traditional_occasions": [
+          "Middel tegen verkoudheid en griep",
+          "Katerkuur",
+          "Verwelkomingsgerecht voor gasten",
+          "Comfortfood tijdens het moessonseizoen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Nam Khon",
+          "description": "Romige versie met gecondenseerde melk — moderne Bangkok-stijl"
+        },
+        {
+          "name": "Tom Yum Nam Sai",
+          "description": "Heldere bouillonversie — het origineel en de keuze van de purist"
+        },
+        {
+          "name": "Tom Yum Talay",
+          "description": "Gemengde zeevruchtversie — populair in kustgebieden"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Pe Aor (Bangkok) — Beroemd om tom yum noedels",
+          "Pee Aor (Bangkok) — Andere plek, even beroemd",
+          "Elk rivierrestaurant voor authentieke versies"
+        ],
+        "street_food_areas": [
+          "Chatuchak Weekend Market",
+          "Wang Lang Market bij Siriraj Hospital",
+          "Chinatown avondkramen"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
+  }
 }
