@@ -172,5 +172,105 @@
       "market_stall": "40-60 THB",
       "restaurant": "60-100 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Roti Sai Mai is een geliefd heerlijk zoet traktatie uit Centraal-Thailand dat zacht is voor het gehemelte. Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya. Dit uitdagende recept vergt ongeveer 30 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoete, zure, zoute en pittige smaken perfect in balans brengt. De combinatie van bloem, suiker en kleurstof creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Bloem",
+          "purpose": "Essentieel voor de authentieke Roti Sai Mai smaak",
+          "substitutes": [
+            "Tarwebloem",
+            "Rijstbloem",
+            "Speltbloem"
+          ]
+        },
+        {
+          "name": "Suiker",
+          "purpose": "Essentieel voor de authentieke Roti Sai Mai smaak",
+          "substitutes": [
+            "Palmsuiker",
+            "Kokossuiker",
+            "Kristalsuiker"
+          ]
+        },
+        {
+          "name": "Kleurstof",
+          "purpose": "Essentieel voor de authentieke Roti Sai Mai smaak",
+          "substitutes": [
+            "Natuurlijke kleurstof",
+            "Pandanextract (groen)",
+            "Vlinderbloem (blauw)"
+          ]
+        },
+        {
+          "name": "Water",
+          "purpose": "Essentieel voor de authentieke Roti Sai Mai smaak",
+          "substitutes": [
+            "Kokoswater",
+            "Pandanwater",
+            "Gewoon water"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionele bereiding",
+        "steps_overview": "Het bereiden van Roti Sai Mai vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse bloem voor het beste resultaat",
+          "Pas de zoetheid aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Roti Sai Mai is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Roti Sai Mai Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Roti Sai Mai Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Roti Sai Mai",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Centraal-Thaise stijl",
+        "eating_etiquette": "Gegeten met de handen, de suikerspin wordt in de roti gewikkeld"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }

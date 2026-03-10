@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 176
+    "completed": 177
   },
   "queue": [
     {
@@ -1417,9 +1417,10 @@
     {
       "type": "food",
       "file": "data/enhanced/food/roti-sai-mai.json",
-      "status": "pending",
+      "status": "completed",
       "priority": 4,
-      "locale": "nl"
+      "locale": "nl",
+      "completedAt": "2026-03-10"
     },
     {
       "type": "food",
