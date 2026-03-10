@@ -165,5 +165,94 @@
     }
   },
   "enhanced_at": "2025-05-25T21:53:24.213Z",
-  "ai_generated": false
+  "ai_generated": false,
+  "translations": {
+    "nl": {
+      "enhanced_description": "Khao Pad (Thaise Gebakken Rijst) is het ultieme Thaise comfortfood — de rijst van gisteren omgetoverd tot de voldoening van vandaag. Anders dan Chinese gebakken rijst is de Thaise versie lichter, aromatischer en wordt vaak geserveerd met verse bijgerechten. Elke korrel moet los zijn en licht bedekt met saus, voor de perfecte balans van wok hei en verse smaken.",
+      "detailed_ingredients": [
+        {
+          "name": "Dag-oude jasmijnrijst",
+          "purpose": "Uitgedroogde rijst bakt beter en klontert niet",
+          "substitutes": [
+            "Verse rijst uitgespreid en afgekoeld",
+            "Elke langkorrelige rijst",
+            "Bloemkoolrijst voor koolhydraatarm"
+          ]
+        },
+        {
+          "name": "Thaise dunne sojasaus",
+          "purpose": "Lichter dan Chinese sojasaus, voegt zout toe zonder kleur",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Verdunde vissaus",
+            "Tamari voor glutenvrij"
+          ]
+        },
+        {
+          "name": "Witte peper",
+          "purpose": "Kenmerkende Thaise kruiding die hitte toevoegt zonder kleur",
+          "substitutes": [
+            "Zwarte peper (verandert het uiterlijk)",
+            "Gemalen Sichuanpeper"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken op hoog vuur in een wok met goede rijstvoorbereiding",
+        "steps_overview": "Succes hangt af van voorbereiding — de rijst moet droog zijn, de wok heet en de ingrediënten klaar. Alles gaat snel, de rijst wordt als laatste toegevoegd en constant opgegooid om aanbranden te voorkomen terwijl een rokerige smaak ontwikkelt.",
+        "cooking_tips": [
+          "Breek rijstklonten uit elkaar vóór het bakken",
+          "Gebruik de hoogst mogelijke hitte",
+          "Houd de rijst constant in beweging",
+          "Voeg sauzen toe langs de rand van de wok, niet direct op de rijst",
+          "Serveer af met verse komkommer en limoen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Geëvolueerd uit de gebakken rijst van Chinese immigranten, maar aangepast aan de Thaise smaak met lichtere kruiding en verse bijgerechten. Werd populair als manier om overgebleven rijst te gebruiken in Thaise huishoudens.",
+        "cultural_importance": "Khao Pad is de alledaagse held van Thailand — overal te vinden van straatkarren tot hotelontbijtbuffetten. Het vertegenwoordigt Thaise praktischheid en het vermogen om iets heerlijks te maken van eenvoudige ingrediënten.",
+        "traditional_occasions": [
+          "Snel ontbijt",
+          "Laat-avond straatvoedsel",
+          "Kliekjestransformatie",
+          "Favoriete maaltijd van kinderen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Poo",
+          "description": "Gebakken rijst met krab — de luxeversie"
+        },
+        {
+          "name": "Khao Pad American",
+          "description": "Met ketchup, hotdogs en rozijnen — Thaise interpretatie van 'Amerikaans' eten"
+        },
+        {
+          "name": "Khao Pad Sapparot",
+          "description": "Geserveerd in een ananas met cashewnoten — toeristenfavoriet"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) — Beroemd om pad thai maar ook geweldige gebakken rijst",
+          "Raan Jay Fai (Bangkok) — Krabgebakken rijst die het wachten waard is",
+          "Elke straatverkoper met een goed gebruikte wok"
+        ],
+        "street_food_areas": [
+          "Letterlijk elke straathoek in Thailand",
+          "Nachtmarkten overal",
+          "24-uurszaken bij ziekenhuizen en universiteiten"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
+  }
 }
