@@ -262,6 +262,96 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Som Tam (Salade de papaye verte) est le cadeau de l'Isaan au monde — une combinaison explosive de saveurs qui attaque tous vos papilles gustatives simultanément. Cette salade pilonnée est née au Laos et dans le nord-est de la Thaïlande, où le son rythmique 'pok pok' du mortier et du pilon est la bande sonore de chaque marché. C'est rafraîchissant, épicé, funky et addictif — l'équilibre parfait de textures et de saveurs.",
+      "detailed_ingredients": [
+        {
+          "name": "Papaye verte",
+          "purpose": "Apporte une texture croquante et une saveur douce qui absorbe l'assaisonnement",
+          "substitutes": [
+            "Mangue verte",
+            "Mélange concombre et carotte",
+            "Chou-rave",
+            "Pomme verte pour la douceur"
+          ]
+        },
+        {
+          "name": "Pla Ra (poisson fermenté)",
+          "purpose": "Le cœur funky et umami du som tam à la mode de l'Isaan",
+          "substitutes": [
+            "Sauce de poisson (saveur plus douce)",
+            "Pâte de crevettes",
+            "Anchois",
+            "Sauce soja pour la version végétarienne"
+          ]
+        },
+        {
+          "name": "Piments thaï",
+          "purpose": "Apporte le piquant qui rend cette salade légendaire",
+          "substitutes": [
+            "Piments serrano",
+            "Piments bird's eye",
+            "Jalapeños (beaucoup plus doux)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Pilonnage dans un mortier en terre cuite (khrok)",
+        "steps_overview": "La magie se passe dans le mortier. Chaque ingrédient est meurtri, pas écrasé, libérant les saveurs tout en préservant la texture. L'ordre de pilonnage est important — ail et piments d'abord, puis les assaisonnements, enfin la papaye, le tout en mélangeant avec une cuillère.",
+        "cooking_tips": [
+          "Utilisez un mortier en terre cuite, pas en bois — il accroche mieux les ingrédients",
+          "Pilez et pliez, n'écrasez pas — préservez la texture",
+          "Goûtez constamment et ajustez — chaque portion est unique",
+          "La papaye doit être meurtrie mais encore croquante",
+          "Faites-le plus épicé que vous ne pensez — le sucré équilibre le tout"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Originaire du Laos et répandu dans tout l'Isaan (nord-est de la Thaïlande). Les communautés rurales l'ont créé comme moyen d'utiliser la papaye non mûre et de conserver le poisson. Le plat représente l'ingéniosité du peuple de l'Isaan.",
+        "cultural_importance": "Le Som Tam est plus qu'un plat — c'est un rituel social. Les groupes se rassemblent autour du vendeur de som tam, personnalisent leur commande et partagent les assiettes. C'est le plat le plus commandé en Thaïlande, consommé quotidiennement par des millions de personnes.",
+        "traditional_occasions": [
+          "Incontournable du déjeuner avec du riz gluant",
+          "Accompagnement de bière",
+          "Fêtes de la récolte",
+          "Festivals de temple"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Som Tam Thai",
+          "description": "La version 'sûre' avec crevettes séchées, cacahuètes et sauce de poisson"
+        },
+        {
+          "name": "Som Tam Poo Pla Ra",
+          "description": "Style Isaan avec poisson fermenté et crabes des champs — pour les âmes courageuses"
+        },
+        {
+          "name": "Som Tam Ponlamai",
+          "description": "Version salade de fruits avec pommes, raisins et cacahuètes"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais"
+        ],
+        "presentation": "Servi chaud dans le style traditionnel thaïlandais",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Nua (Bangkok) — Chaîne de restaurants Isaan modernes",
+          "Laab Ubon (Bangkok) — Saveurs Isaan authentiques",
+          "N'importe quel restaurant Isaan avec des tabourets en plastique"
+        ],
+        "street_food_areas": [
+          "Soi 38 Night Market, Bangkok",
+          "JJ Green Night Market",
+          "N'importe quel chantier à l'heure du déjeuner (suivez les ouvriers)"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
