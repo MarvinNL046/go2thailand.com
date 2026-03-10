@@ -168,5 +168,105 @@
       "market_stall": "60-100 THB",
       "restaurant": "100-200 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Moo Hong is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Gestoofd varkensbuik in zoete sojasaus Phuket-stijl. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 90 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van varkensbuik, sojasaus en palmsuiker creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Varkensbuik",
+          "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensschouder"
+          ]
+        },
+        {
+          "name": "Sojasaus",
+          "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Donkere sojasaus",
+            "Ketjap manis"
+          ]
+        },
+        {
+          "name": "Palmsuiker",
+          "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        },
+        {
+          "name": "Knoflook",
+          "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven",
+        "steps_overview": "Het bereiden van Moo Hong vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Hong is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Hong Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Moo Hong Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Moo Hong",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }
