@@ -266,6 +266,100 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Massaman Curry est le curry le plus complexe de Thaïlande, une magnifique fusion de saveurs thaïlandaises et indo-perses qui raconte l'histoire des anciennes routes commerciales. Ce curry riche et doux combine des épices réchauffantes comme la cardamome et la cannelle avec des ingrédients thaïlandais, créant un plat à la fois exotique et réconfortant. CNN l'a un jour nommé le plat le plus délicieux du monde, et une seule bouchée suffit à comprendre pourquoi.",
+      "detailed_ingredients": [
+        {
+          "name": "Pâte de curry Massaman",
+          "purpose": "Mélange d'épices complexe incluant des ingrédients thaïlandais inhabituels comme la noix de muscade",
+          "substitutes": [
+            "Prêt à l'emploi (marque Maesri recommandée)",
+            "Garam masala indien avec des éléments thaïlandais"
+          ]
+        },
+        {
+          "name": "Épices entières",
+          "purpose": "Cardamome, cannelle, anis étoilé apportent l'influence perse",
+          "substitutes": [
+            "Versions moulues (moins aromatiques)",
+            "Mélange cinq-épices chinois"
+          ]
+        },
+        {
+          "name": "Pâte de tamarin",
+          "purpose": "Apporte la douceur acidulée caractéristique du plat",
+          "substitutes": [
+            "Jus de citron vert avec sucre de palme",
+            "Sauce Worcestershire"
+          ]
+        },
+        {
+          "name": "Cacahuètes",
+          "purpose": "Ajoute de la texture et une richesse noisetée",
+          "substitutes": [
+            "Noix de cajou",
+            "Amandes",
+            "Omettre en cas d'allergie"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Braisage lent et torréfaction des épices",
+        "steps_overview": "Le Massaman demande de la patience — c'est un curry mijoté lentement où les morceaux de viande durs deviennent tendres et les épices fusionnent en une harmonie complexe. Les épices entières sont grillées, la pâte est frite, et le tout mijote doucement pendant des heures.",
+        "cooking_tips": [
+          "Faites griller les épices entières avant de les ajouter pour libérer les huiles",
+          "Utilisez des morceaux de bœuf durs — ils deviennent incroyablement tendres",
+          "Cuisez à feu doux et lentement — la précipitation gâche tout",
+          "Équilibrez le sucré, l'acide et le salé tout au long de la cuisson",
+          "Laissez reposer une nuit — encore meilleur le lendemain"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Arrivé en Thaïlande par les commerçants musulmans perso-indiens au XVIIe siècle. Le nom vient de « Mussulman », un terme archaïque pour désigner les musulmans. Les cuisiniers du palais thaïlandais l'ont adapté avec des ingrédients locaux.",
+        "cultural_importance": "Le Massaman représente l'ouverture de la Thaïlande aux influences étrangères tout en préservant l'identité thaïlandaise. Il est servi lors de dîners diplomatiques et représente la sophistication culinaire thaïlandaise.",
+        "traditional_occasions": [
+          "Célébrations de l'Aïd dans le sud de la Thaïlande",
+          "Banquets royaux",
+          "Festins de mariage",
+          "Dîners d'affaires importants"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Massaman Nuea",
+          "description": "Version au bœuf — la plus traditionnelle et populaire"
+        },
+        {
+          "name": "Massaman Gai",
+          "description": "Version au poulet — cuisson plus rapide pour les repas quotidiens"
+        },
+        {
+          "name": "Massaman à l'agneau",
+          "description": "Version luxueuse populaire dans les restaurants haut de gamme"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais"
+        ],
+        "presentation": "Servi chaud dans le style traditionnel thaïlandais",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Nahm (Bangkok) — Perfection étoilée au Michelin",
+          "Blue Elephant (Bangkok) — Cuisine royale thaïlandaise",
+          "Restaurants musulmans sur Charoen Krung Road"
+        ],
+        "street_food_areas": [
+          "Rarement trouvé en cuisine de rue en raison du long temps de cuisson",
+          "Quelques vendeurs au Or Tor Kor Market",
+          "Centres de restauration musulmans à Bangkok"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
