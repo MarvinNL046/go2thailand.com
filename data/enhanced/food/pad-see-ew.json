@@ -334,6 +334,93 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Pad See Ew ist der dunklere, rauchigere Cousin des Pad Thai — ein chinesisch beeinflusster Wok-Rührbraten, der die Kunst des Wok Hei (Atem des Woks) zur Schau stellt. Diese seidigen Reisnudeln werden von Flammen geküsst, wobei leicht verkohlte Ränder entstehen, während süße dunkle Sojasauce zur Perfektion karamellisiert. Es ist Wohlfühlessen in seiner besten Form — einfache Zutaten, verwandelt durch Technik und lodernde Hitze.",
+      "detailed_ingredients": [
+        {
+          "name": "Frische breite Reisnudeln",
+          "purpose": "Breite Oberfläche zum Auffangen von Wok Hei und Aufnehmen der Sauce",
+          "substitutes": [
+            "Getrocknete breite Reisnudeln",
+            "Frische Ho-Fun-Nudeln",
+            "Fettuccine (nur im Notfall)"
+          ]
+        },
+        {
+          "name": "Dunkle süße Sojasauce",
+          "purpose": "Erzeugt die charakteristische dunkle Farbe und den süß-herzhaften Geschmack",
+          "substitutes": [
+            "Normale Sojasauce mit Palmzucker",
+            "Kecap Manis"
+          ]
+        },
+        {
+          "name": "Chinesischer Brokkoli",
+          "purpose": "Fügt leichte Bitterkeit und Knusprigkeit hinzu, um die Reichhaltigkeit auszugleichen",
+          "substitutes": [
+            "Gewöhnlicher Brokkoli",
+            "Pak Choi",
+            "Grünkohl"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Anrösten bei hoher Hitze im Wok",
+        "steps_overview": "Der Wok muss glühend heiß sein — so heiß, dass es gefährlich erscheint. Nudeln werden in kleinen Portionen hinzugefügt, leicht anrösten gelassen, bevor sie gewendet werden. Der gesamte Vorgang dauert unter 3 Minuten, erfordert aber ständige Bewegung und sekundengenau Timing.",
+        "cooking_tips": [
+          "Wenn Ihr Wok nicht raucht, ist er nicht heiß genug",
+          "Arbeiten Sie in kleinen Portionen — Überfüllung tötet das Wok Hei",
+          "Lassen Sie die Nudeln liegen und anrösten, bevor Sie zum ersten Mal wenden",
+          "Halten Sie die Zutaten mit einer schöpfenden Bewegung in Bewegung",
+          "Wenn es nicht leicht rauchig ist, machen Sie es falsch"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Von Teochew-chinesischen Einwanderern nach Thailand gebracht. Das Gericht entwickelte sich aus dem chinesischen Chow Fun, angepasst mit thailändischen Zutaten und einem süßeren Geschmacksprofil, um dem lokalen Geschmack zu entsprechen.",
+        "cultural_importance": "Pad See Ew steht für die thailändisch-chinesische Fusion, die einen großen Teil von Bangkoks Esskultur ausmacht. Es ist Arbeiterklasse-Kraftstoff — günstig, sättigend und rund um die Uhr an Straßenkarren erhältlich.",
+        "traditional_occasions": [
+          "Spätnächtliches Essen nach dem Trinken",
+          "Schnelles Mittagessen für Arbeiter",
+          "Wohlfühlessen für chinesisch-thailändische Einwanderer mit Heimweh",
+          "Feste Größe im Straßenessen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad See Ew Moo",
+          "description": "Schweineversion — die häufigste und traditionellste"
+        },
+        {
+          "name": "Pad See Ew Talay",
+          "description": "Meeresfrüchte-Version mit Tintenfisch und Garnelen"
+        },
+        {
+          "name": "Pad See Ew Sen Yai",
+          "description": "Extra-breite Nudeln für maximales Wok Hei"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse"
+        ],
+        "presentation": "Heiß serviert im traditionellen thailändischen Stil",
+        "eating_etiquette": "Wird mit Gabel und Löffel gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — Michelin-Stern-Straßenessen",
+          "Soei Restaurant (Bangkok) — Altbewährte Perfektion",
+          "Jedes Ladenlokal mit einem Düsentriebwerk-Wokbrenner"
+        ],
+        "street_food_areas": [
+          "Chinatown nach Einbruch der Dunkelheit",
+          "Silom Soi 20 Essstände",
+          "Victory Monument Straßenverkäufer"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
