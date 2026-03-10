@@ -334,6 +334,92 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Khao Niao Mamuang (Mango Sticky Rice) ist Thailands beliebtestes Dessert — eine scheinbar einfache Kombination, die durch hochwertige Zutaten und präzise Technik Perfektion erreicht. Süßer, mit Kokosmilch getränkter Klebreis, gepaart mit perfekt reifer Mango, schafft eine Harmonie aus Aromen und Texturen, die das Wesen thailändischer Desserts einfängt: nicht zu süß, natürlich aromatisiert und saisonabhängig.",
+      "detailed_ingredients": [
+        {
+          "name": "Nam Dok Mai Mango",
+          "purpose": "Die Premium-Thai-Mangosorte — süß, glatt und faserfrei",
+          "substitutes": [
+            "Ok Rong Mango",
+            "Ataulfo Mango",
+            "Jede reife, süße Mango"
+          ]
+        },
+        {
+          "name": "Klebreis",
+          "purpose": "Spezieller Klebreis, der beim Kochen cremig wird",
+          "substitutes": [
+            "Kein wirklicher Ersatz — normaler Reis funktioniert nicht",
+            "Japanischer Mochi-Reis (andere Textur)"
+          ]
+        },
+        {
+          "name": "Kokoscreme",
+          "purpose": "Reichhaltiges Topping, das alles zusammenbringt",
+          "substitutes": [
+            "Dicke Kokosmilch",
+            "Cashewcreme für eine leichtere Version"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Dämpfen und sorgfältiges Timing",
+        "steps_overview": "Klebreis wird über Nacht eingeweicht und dann in Bambuskörben gedämpft. Solange er noch warm ist, wird er mit gesüßter Kokosmilch vermischt und nimmt die Aromen auf. Die Mango muss perfekt reif sein — fest genug zum Schneiden, aber süß und aromatisch.",
+        "cooking_tips": [
+          "Reis mindestens 8 Stunden einweichen — über Nacht ist am besten",
+          "Im Bambus dämpfen für authentischen Geschmack",
+          "Kokossauce untermischen, solange der Reis noch warm ist",
+          "Mangos wählen, die am Stiel süß riechen",
+          "Bei Zimmertemperatur servieren, nicht kalt"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Entstanden am königlichen Hof, wo die besten Mangos dem Adel vorbehalten waren. Das Gericht feiert die Mangosaison (April–Mai), die mit dem thailändischen Neujahr (Songkran) zusammenfällt.",
+        "cultural_importance": "Dieses Dessert repräsentiert Thailands landwirtschaftlichen Überfluss und die Bedeutung der Saisonalität. Es ist eines der wenigen thailändischen Gerichte, das nicht angepasst oder ganzjährig verfügbar gemacht wurde — man isst es, wenn die Mangos reif sind.",
+        "traditional_occasions": [
+          "Songkran-Festival",
+          "Feier der Mangosaison",
+          "Tempelopfergaben",
+          "Dessert zu besonderen Anlässen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Niao Thurian",
+          "description": "Durian-Version — für eingefleischte Fruchtliebhaber"
+        },
+        {
+          "name": "Khao Niao Dam",
+          "description": "Mit schwarzem Klebreis zubereitet — nussigerer Geschmack"
+        },
+        {
+          "name": "Khao Niao Moon",
+          "description": "Mit zusätzlichem Pandan-aromatisiertem Pudding"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Frische Mango",
+          "Zusätzliche Kokoscreme"
+        ],
+        "presentation": "Bei Zimmertemperatur im traditionellen thailändischen Stil serviert",
+        "eating_etiquette": "Mit Gabel und Löffel gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Mae Varee (Bangkok) — Berühmtester Mango Sticky Rice Laden",
+          "Kor Panich (Bangkok) — Seit 1947",
+          "After You Dessert Cafe — Moderne Interpretation"
+        ],
+        "street_food_areas": [
+          "Thonglor Straßenverkäufer (April–Juni)",
+          "Chatuchak Weekend Market",
+          "Jeder Frischmarkt während der Mangosaison"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
