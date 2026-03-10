@@ -159,5 +159,94 @@
     }
   },
   "enhanced_at": "2025-05-25T21:53:04.374Z",
-  "ai_generated": false
+  "ai_generated": false,
+  "translations": {
+    "nl": {
+      "enhanced_description": "Pad See Ew is het donkerdere, rokerigere neefje van Pad Thai — een Chinees-beïnvloede roerbak die de kunst van wok hei (adem van de wok) laat zien. Deze zijdezachte rijstnoedels worden door vlammen gekust, waardoor licht verbrande randen ontstaan terwijl zoete donkere sojasaus tot perfectie karamelliseert. Het is comfortfood op zijn best — eenvoudige ingrediënten getransformeerd door techniek en verzengende hitte.",
+      "detailed_ingredients": [
+        {
+          "name": "Verse brede rijstnoedels",
+          "purpose": "Breed oppervlak om wok hei op te vangen en saus te absorberen",
+          "substitutes": [
+            "Gedroogde brede rijstnoedels",
+            "Verse ho fun noedels",
+            "Fettuccine (alleen in noodgevallen)"
+          ]
+        },
+        {
+          "name": "Donkere zoete sojasaus",
+          "purpose": "Creëert de kenmerkende donkere kleur en zoet-hartige smaak",
+          "substitutes": [
+            "Gewone sojasaus met palmsuiker",
+            "Ketjap manis"
+          ]
+        },
+        {
+          "name": "Chinese broccoli",
+          "purpose": "Voegt lichte bitterheid en knapperigheid toe om de rijkheid in balans te brengen",
+          "substitutes": [
+            "Gewone broccoli",
+            "Paksoi",
+            "Boerenkool"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Schroeien op hoog vuur in een wok",
+        "steps_overview": "De wok moet gloeiend heet zijn — zo heet dat het gevaarlijk lijkt. Noedels worden in kleine porties toegevoegd, licht laten schroeien voordat ze worden omgeschept. Het hele proces duurt minder dan 3 minuten maar vereist constante beweging en razendsnelle timing.",
+        "cooking_tips": [
+          "Als je wok niet rookt, is hij niet heet genoeg",
+          "Werk in kleine porties — te veel tegelijk doodt de wok hei",
+          "Laat de noedels even liggen en schroeien voor de eerste worp",
+          "Houd ingrediënten in beweging met een scheppende beweging",
+          "Als het niet een beetje rookt, doe je het verkeerd"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Meegebracht door Teochew-Chinese immigranten naar Thailand. Het gerecht evolueerde uit Chinees chow fun, aangepast met Thaise ingrediënten en een zoeter smaakprofiel om bij de lokale smaak te passen.",
+        "cultural_importance": "Pad See Ew vertegenwoordigt de Thais-Chinese fusie die veel van Bangkoks voedselcultuur definieert. Het is brandstof voor de arbeidersklasse — goedkoop, vullend en 24/7 verkrijgbaar bij straatkarren.",
+        "traditional_occasions": [
+          "Laat-avond drinkvoedsel",
+          "Snelle lunch voor werknemers",
+          "Comfortfood voor Chinese Thais met heimwee",
+          "Vaste waarde in het straatvoedsel"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad See Ew Moo",
+          "description": "Varkensversie — de meest voorkomende en traditionele"
+        },
+        {
+          "name": "Pad See Ew Talay",
+          "description": "Zeevruchtversie met inktvis en garnalen"
+        },
+        {
+          "name": "Pad See Ew Sen Yai",
+          "description": "Extra brede noedels voor maximale wok hei"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — Michelinster-straatvoedsel",
+          "Soei Restaurant (Bangkok) — Ouderwetse perfectie",
+          "Elk winkelpand met een straalmotorwokbrander"
+        ],
+        "street_food_areas": [
+          "Chinatown na zonsondergang",
+          "Silom Soi 20 eetkraampjes",
+          "Victory Monument straatverkopers"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
+  }
 }
