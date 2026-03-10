@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 358
+    "completed": 359
   },
   "queue": [
     {
@@ -2876,8 +2876,9 @@
       "type": "food",
       "file": "data/enhanced/food/oh-aew.json",
       "locale": "fr",
-      "status": "pending",
-      "priority": 10
+      "status": "completed",
+      "priority": 10,
+      "completedAt": "2026-03-10T00:00:00.000Z"
     },
     {
       "type": "food",

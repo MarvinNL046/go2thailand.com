@@ -294,6 +294,111 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Oh Aew (โอ้เอ๋ว) est le dessert traditionnel le plus emblématique de Phuket, une délicieuse glace pilée d'origine hokkien-chinoise que l'on trouve presque exclusivement dans la vieille ville de Phuket. La gelée signature est fabriquée à partir de graines d'o-aew — les graines de la figue rampante (Ficus pumila var. awkeotsang). Les graines sont trempées pendant environ une heure, puis mélangées avec du jus de banane (qui neutralise l'odeur naturelle des graines) et du sulfate de calcium, et laissées à prendre pendant environ 7 heures pour former une gelée ferme et translucide. Cette gelée est coupée en cubes et servie sur de la glace pilée avec des haricots rouges, de la gelée d'herbe (chao kuai) et du sirop de sucre de palme. Ce dessert est étroitement lié à la gelée aiyu (愛玉) de Taïwan, car toutes deux sont dérivées de la même famille de plantes. Oh Aew est servi à Phuket depuis au moins la fin des années 1800, lorsque les colons chinois hokkien sont arrivés pendant le boom minier de l'étain. Les stands traditionnels de la vieille ville de Phuket le servent encore à partir de seulement 15 THB, ce qui en fait l'un des desserts les plus abordables et authentiques de l'île.",
+      "detailed_ingredients": [
+        {
+          "name": "Gelée de graines d'o-aew",
+          "purpose": "Le composant signature — fabriqué à partir des graines de la figue rampante (Ficus pumila var. awkeotsang), trempées et solidifiées avec du sulfate de calcium en une gelée ferme et translucide",
+          "substitutes": [
+            "Gelée aiyu (équivalent taïwanais de la même famille de plantes)",
+            "Gelée d'agar (texture différente, courante en dehors de Phuket)"
+          ]
+        },
+        {
+          "name": "Jus de banane",
+          "purpose": "Mélangé aux graines pendant la préparation pour neutraliser l'odeur naturelle des graines d'o-aew",
+          "substitutes": []
+        },
+        {
+          "name": "Haricots rouges",
+          "purpose": "Garniture classique qui ajoute de la texture et une douceur légère, reflétant la tradition des desserts chinois",
+          "substitutes": [
+            "Haricots noirs"
+          ]
+        },
+        {
+          "name": "Gelée d'herbe (Chao Kuai)",
+          "purpose": "Gelée sombre, légèrement amère qui équilibre la douceur et ajoute un contraste de couleur",
+          "substitutes": []
+        },
+        {
+          "name": "Glace pilée",
+          "purpose": "Apporte l'élément rafraîchissant et la texture légère",
+          "substitutes": [
+            "Glace concassée (moins légère)"
+          ]
+        },
+        {
+          "name": "Sirop de sucre de palme",
+          "purpose": "Ajoute une douceur caramélisée ; les stands traditionnels de Phuket utilisent du sucre de palme produit localement",
+          "substitutes": [
+            "Sirop simple",
+            "Sirop de sucre de coco"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Trempage des graines, solidification de la gelée au sulfate de calcium, puis assemblage avec de la glace pilée",
+        "steps_overview": "La fabrication du Oh Aew est un processus long. Les graines d'o-aew (de la figue rampante) sont trempées dans l'eau pendant environ 1 heure jusqu'à ce qu'elles libèrent un gel. Le gel est ensuite mélangé avec du jus de banane pour neutraliser l'odeur naturelle des graines, et du sulfate de calcium est ajouté comme agent de solidification. Ce mélange est laissé à prendre pendant environ 7 heures jusqu'à ce qu'il soit ferme. La gelée translucide obtenue est coupée en cubes. Pour servir, les cubes de gelée sont placés dans un bol avec de la glace pilée, des haricots rouges, de la gelée d'herbe, et nappés de sirop de sucre de palme.",
+        "cooking_tips": [
+          "Trempez les graines au moins 1 heure pour libérer un maximum de gel",
+          "Le jus de banane est essentiel pour éliminer l'odeur désagréable des graines",
+          "Le dosage du sulfate de calcium doit être précis — trop rend la gelée caoutchouteuse",
+          "Laissez les 7 heures complètes de prise ; se presser produit une gelée fragile",
+          "Pilez la glace juste avant de servir pour une meilleure texture",
+          "Utilisez des colorants naturels de pandan ou de fleurs de pois papillon pour les variantes colorées"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Oh Aew a été introduit à Phuket par les colons chinois hokkien arrivés pendant l'ère minière de l'étain au milieu des années 1800. Le nom dérive du mot hokkien 'ò-giô' (薁蕘), désignant la figue rampante dont les graines sont utilisées pour fabriquer la gelée. Le dessert est étroitement lié à la gelée aiyu (愛玉冰) de Taïwan, car toutes deux utilisent des graines de la famille Ficus pumila. Au fil des générations, la version de Phuket a développé sa propre identité avec l'ajout de garnitures locales comme les haricots rouges et la gelée d'herbe.",
+        "cultural_importance": "Oh Aew est un symbole vivant du patrimoine Peranakan (Baba-Nyonya) de Phuket — la culture unique née du mariage entre les colons chinois et les communautés thaïlandaises et malaises locales. Le dessert est presque introuvable en dehors de Phuket, ce qui en fait une véritable spécialité régionale. Il reflète les traditions culinaires chinoises hokkien qui ont façonné la culture gastronomique de la vieille ville de Phuket, aux côtés d'autres plats d'origine hokkien comme le Hokkien mee et le mee hun.",
+        "traditional_occasions": [
+          "Festival végétarien de Phuket (เทศกาลกินเจ) — servi comme gourmandise végétale",
+          "Rafraîchissement d'après-midi dans la chaleur tropicale de Phuket",
+          "Marché piétonnier du dimanche de Phuket Old Town",
+          "Goûter pour les écoliers après les cours près de Dibuk Road"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Oh Aew Boran (Traditionnel)",
+          "description": "La version classique avec gelée de graines d'o-aew, haricots rouges, gelée d'herbe, glace pilée et sirop de sucre de palme. Disponible dans les stands traditionnels comme Oh Ew Paelee."
+        },
+        {
+          "name": "Oh Aew Nam Kathi",
+          "description": "Version avec du lait de coco ou de la crème de coco ajouté pour plus d'onctuosité, populaire dans certains stands de marché."
+        },
+        {
+          "name": "Oh Aew Moderne/Créatif",
+          "description": "Versions style café avec des garnitures supplémentaires comme le taro, la patate douce ou les fruits. Disponible dans des cafés modernes comme Cafe'in près du Thai Hua Museum."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Haricots rouges (garniture standard)",
+          "Gelée d'herbe / chao kuai (garniture standard)",
+          "Sirop de sucre de palme",
+          "Lait de coco (optionnel, dans la variante Nam Kathi)"
+        ],
+        "presentation": "Servi dans un bol ou un gobelet avec de la glace pilée sur le dessus, la gelée et les haricots visibles à travers la glace",
+        "eating_etiquette": "Mélanger délicatement avant de manger pour répartir le sirop uniformément, à déguster immédiatement tant que la glace est encore légère et n'a pas fondu"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Oh Ew Paelee (โอ้เอ๋ว แป๊ะหลี) — Thanon Dibuk, Soi Soon Uthit, Phuket Old Town (15 THB)",
+          "Cafe'in — 24 Krabi Road, près du Thai Hua Museum, Phuket Old Town (40-80 THB)",
+          "Lock Tien Food Court — carrefour de Dibuk Road, Phuket Old Town (15-30 THB)",
+          "Cham Cha Market — Ranong Road, Phuket Old Town (15-25 THB)"
+        ],
+        "street_food_areas": [
+          "Phuket Old Town (Thalang Road, Dibuk Road, Krabi Road)",
+          "Sunday Walking Street Market (Thalang Road)",
+          "Quartier du Lock Tien Food Court"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
