@@ -412,6 +412,117 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Pad Krapow ist Thailands ultimatives Wohlfühlessen — ein feuriges, aromatisches Pfannengericht, das die pfeffrige Kraft des heiligen Basilikums perfekt mit herzhaftem Hackfleisch ausbalanciert. Dieses blitzschnelle Gericht ist ein Grundpfeiler an Straßenständen und Restaurants in ganz Thailand, beliebt für seine kräftigen Aromen und befriedigende Einfachheit. Die Magie liegt im heiligen Basilikum (Bai Krapow), das sein unverwechselbares nelkenartiges Aroma freisetzt, wenn es den glühend heißen Wok berührt — ein Gericht, das allein an seinem berauschenden Duft sofort erkennbar ist.",
+      "detailed_ingredients": [
+        {
+          "name": "Heiliges Basilikum (Bai Krapow)",
+          "purpose": "Die Hauptzutat, die diesem Gericht seinen Namen und den unverwechselbaren pfeffrigen, nelkenartigen Geschmack verleiht",
+          "substitutes": [
+            "Thai-Basilikum (weniger authentisch, aber akzeptabel)",
+            "Italienisches Basilikum gemischt mit Minze (Notfall-Ersatz)"
+          ]
+        },
+        {
+          "name": "Thai Bird's Eye Chilis",
+          "purpose": "Liefert die essenzielle Schärfe, die dieses Gericht authentisch pikant macht",
+          "substitutes": [
+            "Serrano-Pfeffer",
+            "Frische rote Chilis",
+            "Chiliflocken (Menge anpassen)"
+          ]
+        },
+        {
+          "name": "Schweine- oder Hähnchenhackfleisch",
+          "purpose": "Traditionelle Proteinbasis, die alle Aromen aufnimmt",
+          "substitutes": [
+            "Rinderhackfleisch",
+            "Zerkrümelter Tofu",
+            "Gehackte Pilze für die vegetarische Variante"
+          ]
+        },
+        {
+          "name": "Fischsauce",
+          "purpose": "Verleiht Umami-Tiefe und authentischen thailändischen Geschmack",
+          "substitutes": [
+            "Helle Sojasauce mit einer Prise Salz",
+            "Vegetarische Pilzsauce"
+          ]
+        },
+        {
+          "name": "Dunkle Sojasauce",
+          "purpose": "Gibt Farbe und eine subtile Süße, um die Schärfe auszugleichen",
+          "substitutes": [
+            "Normale Sojasauce mit einem Hauch Melasse"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Pfannenrühren bei hoher Hitze im Wok",
+        "steps_overview": "Der Schlüssel zum perfekten Pad Krapow ist extreme Hitze und Geschwindigkeit. Alles passiert in unter 5 Minuten, sobald man anfängt zu kochen. Der Wok sollte rauchend heiß sein und das begehrte 'Wok Hei' (Atem des Woks) erzeugen, das dem Gericht seinen charakteristischen rauchigen Geschmack verleiht.",
+        "cooking_tips": [
+          "Verwenden Sie die höchste Hitze, die Ihr Herd erzeugen kann — dieses Gericht braucht ernsthaftes Feuer",
+          "Haben Sie alle Zutaten vorbereitet und griffbereit, bevor Sie anfangen",
+          "Kochen Sie das heilige Basilikum nicht zu lange — fügen Sie es ganz zum Schluss hinzu, um den Geschmack zu bewahren",
+          "Das Fleisch muss heftig zischen, wenn es den Wok berührt",
+          "Für authentischen Geschmack Knoblauch und Chilis im Mörser zerstoßen",
+          "Das Spiegelei sollte knusprige Ränder, aber ein flüssiges Eigelb haben"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pad Krapow entstand aus Thailands Straßenessen-Kultur, wo schnelle, erschwingliche Mahlzeiten für beschäftigte Arbeiter benötigt wurden. Das Gericht gewann in den 1960er Jahren an Popularität, als die Urbanisierung zunahm und Straßenverkäufer Gerichte brauchten, die schnell auf tragbaren Gasbrennern zubereitet werden konnten.",
+        "cultural_importance": "Dies ist Thailands ultimatives Wohlfühlessen, vergleichbar mit einer Currywurst in Deutschland. Es ist das Gericht, nach dem sich Thais sehnen, wenn sie Heimweh haben, das sie bestellen, wenn sie einen Kater haben, und das sie ihren Kindern als erstes beibringen zu kochen. Der Ausdruck 'Pad Krapow Kai Dao' (mit Spiegelei) ist so thailändisch wie es nur geht.",
+        "traditional_occasions": [
+          "Spätnächtliches Straßenessen",
+          "Schnelles Mittagessen für Büroangestellte",
+          "Budget-Mahlzeiten für Studenten",
+          "Wohlfühlessen, wenn man sich unwohl fühlt"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Krapow Moo Krob",
+          "description": "Zubereitet mit knusprigem Schweinebauch statt Hackfleisch für zusätzliche Reichhaltigkeit und Textur"
+        },
+        {
+          "name": "Pad Krapow Talay",
+          "description": "Meeresfrüchte-Version mit Garnelen, Tintenfisch und Fisch — beliebt in Küstenregionen"
+        },
+        {
+          "name": "Pad Krapow Kai",
+          "description": "Hähnchen-Version, oft bevorzugt von denen, die eine leichtere Option suchen"
+        },
+        {
+          "name": "Vegetarische Pad Krapow",
+          "description": "Zubereitet mit Tofu, Pilzen oder gemischtem Gemüse, mit vegetarischer Wok-Sauce"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis (unverzichtbar — nie ohne servieren)",
+          "Spiegelei mit flüssigem Eigelb (Kai Dao)",
+          "Frische Gurkenscheiben",
+          "Fischsauce mit Chilis (Prik Nam Pla)",
+          "Kalter Thai-Eistee gegen die Schärfe"
+        ],
+        "presentation": "Auf einem Teller serviert mit Reis auf der einen Seite, dem Pfannengericht auf der anderen, gekrönt von einem Spiegelei. Das Eigelb wird aufgebrochen und mit dem Reis und dem Fleisch vermischt.",
+        "eating_etiquette": "Gegessen mit einem Löffel in der rechten Hand und einer Gabel in der linken. Die Gabel wird benutzt, um das Essen auf den Löffel zu schieben. Das Eigelb aufbrechen und den Reis damit überziehen lassen ist Teil des Erlebnisses."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — Michelin-Stern-Version",
+          "Soei Restaurant (Bangkok) — Lokaler Favorit",
+          "Jeder Straßenstand mit einer Schlange wartender Einheimischer"
+        ],
+        "street_food_areas": [
+          "Chinatown (Yaowarat), Bangkok",
+          "Victory Monument Gegend, Bangkok",
+          "Chiang Mai Night Bazaar",
+          "Phuket Weekend Market"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
