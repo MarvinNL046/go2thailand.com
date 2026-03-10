@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 566
+    "completed": 567
   },
   "queue": [
     {
@@ -4544,7 +4544,8 @@
       "type": "region",
       "file": "data/regions/southern.json",
       "locale": "zh",
-      "status": "pending",
+      "status": "completed",
+      "completedAt": "2026-03-10T00:00:00.000Z",
       "priority": 12
     },
     {

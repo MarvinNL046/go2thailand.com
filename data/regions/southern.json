@@ -5,19 +5,52 @@
     "en": "Southern Thailand",
     "nl": "Zuid-Thailand",
     "fr": "Thaïlande du Sud",
-    "de": "Südthailand"
+    "de": "Südthailand",
+    "zh": "泰国南部"
   },
   "description": {
     "en": "Tropical paradise with stunning beaches, islands, marine life, and vibrant nightlife.",
     "nl": "Tropisch paradijs met prachtige stranden, eilanden, zeeleven en bruisend nachtleven.",
     "fr": "Paradis tropical avec des plages magnifiques, des îles, une vie marine riche et une vie nocturne animée.",
-    "de": "Tropisches Paradies mit atemberaubenden Stränden, Inseln, Meeresleben und pulsierendem Nachtleben."
+    "de": "Tropisches Paradies mit atemberaubenden Stränden, Inseln, Meeresleben und pulsierendem Nachtleben.",
+    "zh": "热带天堂，拥有迷人的海滩、岛屿、海洋生物和热闹的夜生活。"
   },
   "highlights": {
-    "en": ["Beautiful beaches", "Island hopping", "Marine activities", "Tropical climate", "Seafood cuisine"],
-    "nl": ["Prachtige stranden", "Eilandhoppen", "Activiteiten op zee", "Tropisch klimaat", "Zeevruchtenkeuken"],
-    "fr": ["Plages magnifiques", "Excursions entre les îles", "Activités marines", "Climat tropical", "Cuisine aux fruits de mer"],
-    "de": ["Wunderschöne Strände", "Inselhopping", "Meeresaktivitäten", "Tropisches Klima", "Meeresfrüchte-Küche"]
+    "en": [
+      "Beautiful beaches",
+      "Island hopping",
+      "Marine activities",
+      "Tropical climate",
+      "Seafood cuisine"
+    ],
+    "nl": [
+      "Prachtige stranden",
+      "Eilandhoppen",
+      "Activiteiten op zee",
+      "Tropisch klimaat",
+      "Zeevruchtenkeuken"
+    ],
+    "fr": [
+      "Plages magnifiques",
+      "Excursions entre les îles",
+      "Activités marines",
+      "Climat tropical",
+      "Cuisine aux fruits de mer"
+    ],
+    "de": [
+      "Wunderschöne Strände",
+      "Inselhopping",
+      "Meeresaktivitäten",
+      "Tropisches Klima",
+      "Meeresfrüchte-Küche"
+    ],
+    "zh": [
+      "美丽海滩",
+      "跳岛游",
+      "海洋活动",
+      "热带气候",
+      "海鲜美食"
+    ]
   },
   "cities": [
     "Phuket",
@@ -33,87 +66,151 @@
     "en": "Hot and humid year-round, Dry (Dec-Apr), Rainy (May-Nov)",
     "nl": "Heet en vochtig het hele jaar, droog (dec-apr), regenseizoen (mei-nov)",
     "fr": "Chaud et humide toute l'année, sec (déc-avr), pluvieux (mai-nov)",
-    "de": "Heiß und feucht das ganze Jahr, trocken (Dez-Apr), Regenzeit (Mai-Nov)"
+    "de": "Heiß und feucht das ganze Jahr, trocken (Dez-Apr), Regenzeit (Mai-Nov)",
+    "zh": "全年炎热潮湿，干季（12月-4月），雨季（5月-11月）"
   },
   "bestTimeToVisit": {
     "en": "December to April",
     "nl": "December tot april",
     "fr": "Décembre à avril",
-    "de": "Dezember bis April"
+    "de": "Dezember bis April",
+    "zh": "12月至4月"
   },
   "image": "/images/regions/southern-thailand.webp",
   "geography": {
     "en": "Two coastlines: Andaman Sea (west) and Gulf of Thailand (east). Limestone karsts, pristine beaches, and tropical islands.",
     "nl": "Twee kustlijnen: Andamanzee (west) en Golf van Thailand (oost). Kalksteenformaties, ongerepte stranden en tropische eilanden.",
     "fr": "Deux côtes : mer d'Andaman (ouest) et golfe de Thaïlande (est). Karsts calcaires, plages immaculées et îles tropicales.",
-    "de": "Zwei Küstenlinien: Andamanensee (Westen) und Golf von Thailand (Osten). Kalksteinkarste, unberührte Strände und tropische Inseln."
+    "de": "Zwei Küstenlinien: Andamanensee (Westen) und Golf von Thailand (Osten). Kalksteinkarste, unberührte Strände und tropische Inseln.",
+    "zh": "两条海岸线：安达曼海（西部）和泰国湾（东部）。石灰岩喀斯特地貌、原始海滩和热带岛屿。"
   },
   "culture": {
     "en": "Relaxed beach culture mixed with Muslim influences in the south. Fishing communities and tourism-focused areas.",
     "nl": "Ontspannen strandcultuur gemengd met islamitische invloeden in het zuiden. Vissersgemeenschappen en op toerisme gerichte gebieden.",
     "fr": "Culture balnéaire décontractée mêlée d'influences musulmanes dans le sud. Communautés de pêcheurs et zones touristiques.",
-    "de": "Entspannte Strandkultur gemischt mit muslimischen Einflüssen im Süden. Fischergemeinden und tourismusorientierte Gebiete."
+    "de": "Entspannte Strandkultur gemischt mit muslimischen Einflüssen im Süden. Fischergemeinden und tourismusorientierte Gebiete.",
+    "zh": "悠闲的海滩文化与南部穆斯林文化的融合。渔村社区和旅游重点区域。"
   },
   "cuisine": {
     "en": "Fresh seafood, southern curries, coconut-based dishes, tropical fruits. Spicier than northern cuisine with Malay influences.",
     "nl": "Verse zeevruchten, zuidelijke curry's, gerechten op basis van kokos, tropisch fruit. Pittiger dan de noordelijke keuken met Maleisische invloeden.",
     "fr": "Fruits de mer frais, currys du sud, plats à base de noix de coco, fruits tropicaux. Plus épicé que la cuisine du nord avec des influences malaises.",
-    "de": "Frische Meeresfrüchte, südliche Currys, Gerichte auf Kokosnussbasis, tropische Früchte. Schärfer als die nördliche Küche mit malaiischen Einflüssen."
+    "de": "Frische Meeresfrüchte, südliche Currys, Gerichte auf Kokosnussbasis, tropische Früchte. Schärfer als die nördliche Küche mit malaiischen Einflüssen.",
+    "zh": "新鲜海鲜、南方咖喱、椰奶菜肴、热带水果。比北方菜更辣，受马来美食影响。"
   },
   "transportation": {
     "en": "Domestic flights to Phuket/Krabi/Surat Thani. Ferries to islands. Buses along coast. Longtail boats and speedboats.",
     "nl": "Binnenlandse vluchten naar Phuket/Krabi/Surat Thani. Veerboten naar eilanden. Bussen langs de kust. Longtailboten en speedboten.",
     "fr": "Vols intérieurs vers Phuket/Krabi/Surat Thani. Ferries vers les îles. Bus le long de la côte. Bateaux longtail et hors-bord.",
-    "de": "Inlandsflüge nach Phuket/Krabi/Surat Thani. Fähren zu den Inseln. Busse entlang der Küste. Longtailboote und Schnellboote."
+    "de": "Inlandsflüge nach Phuket/Krabi/Surat Thani. Fähren zu den Inseln. Busse entlang der Küste. Longtailboote und Schnellboote.",
+    "zh": "国内航班飞往普吉/甲米/素叻他尼。渡轮前往各岛屿。沿海巴士。长尾船和快艇。"
   },
   "budgetInfo": {
     "en": "Budget: $20-35/day. Mid-range: $35-70/day. Luxury: $70+/day. Island prices higher, especially Phuket.",
     "nl": "Budget: $20-35/dag. Middenklasse: $35-70/dag. Luxe: $70+/dag. Eilandprijzen zijn hoger, vooral Phuket.",
     "fr": "Budget : $20-35/jour. Milieu de gamme : $35-70/jour. Luxe : $70+/jour. Les prix sur les îles sont plus élevés, surtout à Phuket.",
-    "de": "Budget: $20-35/Tag. Mittelklasse: $35-70/Tag. Luxus: $70+/Tag. Inselpreise sind höher, besonders Phuket."
+    "de": "Budget: $20-35/Tag. Mittelklasse: $35-70/Tag. Luxus: $70+/Tag. Inselpreise sind höher, besonders Phuket.",
+    "zh": "经济型：$20-35/天。中档：$35-70/天。豪华：$70+/天。岛屿价格较高，尤其是普吉岛。"
   },
   "topActivities": {
-    "en": ["Beach hopping, snorkeling, diving, island tours, rock climbing, sea kayaking, sunset cruises, beach parties"],
-    "nl": ["Strandhoppen, snorkelen, duiken, eilandtours, rotsklimmen, zeekajakken, zonsondergangcruises, strandfeesten"],
-    "fr": ["Plages, snorkeling, plongée, excursions en île, escalade, kayak de mer, croisières au coucher du soleil, fêtes sur la plage"],
-    "de": ["Strandhopping, Schnorcheln, Tauchen, Inseltouren, Klettern, Seekajak, Sonnenuntergangskreuzfahrten, Strandpartys"]
+    "en": [
+      "Beach hopping, snorkeling, diving, island tours, rock climbing, sea kayaking, sunset cruises, beach parties"
+    ],
+    "nl": [
+      "Strandhoppen, snorkelen, duiken, eilandtours, rotsklimmen, zeekajakken, zonsondergangcruises, strandfeesten"
+    ],
+    "fr": [
+      "Plages, snorkeling, plongée, excursions en île, escalade, kayak de mer, croisières au coucher du soleil, fêtes sur la plage"
+    ],
+    "de": [
+      "Strandhopping, Schnorcheln, Tauchen, Inseltouren, Klettern, Seekajak, Sonnenuntergangskreuzfahrten, Strandpartys"
+    ],
+    "zh": [
+      "海滩巡游、浮潜、潜水、跳岛游、攀岩、海上皮划艇、日落巡航、海滩派对"
+    ]
   },
   "hiddenGems": {
-    "en": ["Koh Lipe, Koh Tao diving, Railay Beach climbing, Khao Sok National Park, James Bond Island, Similan Islands"],
-    "nl": ["Koh Lipe, duiken bij Koh Tao, klimmen bij Railay Beach, Khao Sok National Park, James Bond Island, Similan Islands"],
-    "fr": ["Koh Lipe, plongée à Koh Tao, escalade à Railay Beach, parc national de Khao Sok, James Bond Island, îles Similan"],
-    "de": ["Koh Lipe, Tauchen bei Koh Tao, Klettern am Railay Beach, Khao Sok Nationalpark, James Bond Island, Similan-Inseln"]
+    "en": [
+      "Koh Lipe, Koh Tao diving, Railay Beach climbing, Khao Sok National Park, James Bond Island, Similan Islands"
+    ],
+    "nl": [
+      "Koh Lipe, duiken bij Koh Tao, klimmen bij Railay Beach, Khao Sok National Park, James Bond Island, Similan Islands"
+    ],
+    "fr": [
+      "Koh Lipe, plongée à Koh Tao, escalade à Railay Beach, parc national de Khao Sok, James Bond Island, îles Similan"
+    ],
+    "de": [
+      "Koh Lipe, Tauchen bei Koh Tao, Klettern am Railay Beach, Khao Sok Nationalpark, James Bond Island, Similan-Inseln"
+    ],
+    "zh": [
+      "丽贝岛、涛岛潜水、莱利海滩攀岩、考索国家公园、詹姆斯邦德岛、斯米兰群岛"
+    ]
   },
   "localFestivals": {
-    "en": ["Full Moon Party (monthly), Songkran (April), Chak Phra Festival (Oct), Vegetarian Festival (Oct), Loi Krathong (Nov)"],
-    "nl": ["Full Moon Party (maandelijks), Songkran (april), Chak Phra Festival (okt), Vegetarisch Festival (okt), Loi Krathong (nov)"],
-    "fr": ["Full Moon Party (mensuelle), Songkran (avril), Festival Chak Phra (oct), Festival végétarien (oct), Loi Krathong (nov)"],
-    "de": ["Full Moon Party (monatlich), Songkran (April), Chak Phra Festival (Okt), Vegetarisches Festival (Okt), Loi Krathong (Nov)"]
+    "en": [
+      "Full Moon Party (monthly), Songkran (April), Chak Phra Festival (Oct), Vegetarian Festival (Oct), Loi Krathong (Nov)"
+    ],
+    "nl": [
+      "Full Moon Party (maandelijks), Songkran (april), Chak Phra Festival (okt), Vegetarisch Festival (okt), Loi Krathong (nov)"
+    ],
+    "fr": [
+      "Full Moon Party (mensuelle), Songkran (avril), Festival Chak Phra (oct), Festival végétarien (oct), Loi Krathong (nov)"
+    ],
+    "de": [
+      "Full Moon Party (monatlich), Songkran (April), Chak Phra Festival (Okt), Vegetarisches Festival (Okt), Loi Krathong (Nov)"
+    ],
+    "zh": [
+      "满月派对（每月）、泼水节（4月）、Chak Phra节（10月）、素食节（10月）、水灯节（11月）"
+    ]
   },
   "travelTips": {
-    "en": ["Book island transport in advance. Respect marine life. Stay hydrated. Use reef-safe sunscreen. Check weather conditions."],
-    "nl": ["Boek eilandvervoer van tevoren. Respecteer het zeeleven. Blijf gehydrateerd. Gebruik rifvriendelijke zonnebrand. Check de weersomstandigheden."],
-    "fr": ["Réservez le transport vers les îles à l'avance. Respectez la vie marine. Restez hydraté. Utilisez une crème solaire respectueuse des récifs. Vérifiez les conditions météo."],
-    "de": ["Buchen Sie Inseltransport im Voraus. Respektieren Sie das Meeresleben. Trinken Sie genug. Verwenden Sie rifffreundliche Sonnencreme. Prüfen Sie die Wetterbedingungen."]
+    "en": [
+      "Book island transport in advance. Respect marine life. Stay hydrated. Use reef-safe sunscreen. Check weather conditions."
+    ],
+    "nl": [
+      "Boek eilandvervoer van tevoren. Respecteer het zeeleven. Blijf gehydrateerd. Gebruik rifvriendelijke zonnebrand. Check de weersomstandigheden."
+    ],
+    "fr": [
+      "Réservez le transport vers les îles à l'avance. Respectez la vie marine. Restez hydraté. Utilisez une crème solaire respectueuse des récifs. Vérifiez les conditions météo."
+    ],
+    "de": [
+      "Buchen Sie Inseltransport im Voraus. Respektieren Sie das Meeresleben. Trinken Sie genug. Verwenden Sie rifffreundliche Sonnencreme. Prüfen Sie die Wetterbedingungen."
+    ],
+    "zh": [
+      "提前预订岛屿交通。爱护海洋生物。注意补水。使用珊瑚友好型防晒霜。查看天气状况。"
+    ]
   },
   "whatToPack": {
-    "en": ["Swimwear, reef-safe sunscreen, water shoes, quick-dry clothes, rain jacket, snorkeling gear, light evening wear, mosquito spray"],
-    "nl": ["Zwemkleding, rifvriendelijke zonnebrand, waterschoenen, sneldrogende kleding, regenjas, snorkelspullen, lichte avondkleding, muggenspray"],
-    "fr": ["Maillot de bain, crème solaire respectueuse des récifs, chaussures aquatiques, vêtements à séchage rapide, veste de pluie, équipement de snorkeling, tenue légère de soirée, spray anti-moustiques"],
-    "de": ["Badekleidung, rifffreundliche Sonnencreme, Wasserschuhe, schnelltrocknende Kleidung, Regenjacke, Schnorchelausrüstung, leichte Abendgarderobe, Mückenspray"]
+    "en": [
+      "Swimwear, reef-safe sunscreen, water shoes, quick-dry clothes, rain jacket, snorkeling gear, light evening wear, mosquito spray"
+    ],
+    "nl": [
+      "Zwemkleding, rifvriendelijke zonnebrand, waterschoenen, sneldrogende kleding, regenjas, snorkelspullen, lichte avondkleding, muggenspray"
+    ],
+    "fr": [
+      "Maillot de bain, crème solaire respectueuse des récifs, chaussures aquatiques, vêtements à séchage rapide, veste de pluie, équipement de snorkeling, tenue légère de soirée, spray anti-moustiques"
+    ],
+    "de": [
+      "Badekleidung, rifffreundliche Sonnencreme, Wasserschuhe, schnelltrocknende Kleidung, Regenjacke, Schnorchelausrüstung, leichte Abendgarderobe, Mückenspray"
+    ],
+    "zh": [
+      "泳装、珊瑚友好型防晒霜、涉水鞋、速干衣物、雨衣、浮潜装备、轻便晚装、驱蚊喷雾"
+    ]
   },
   "seo": {
     "metaTitle": {
       "en": "Southern Thailand Travel Guide 2026 | Go2Thailand",
       "nl": "Zuid-Thailand Reisgids 2026 | Go2Thailand",
       "fr": "Guide de voyage Thaïlande du Sud 2026 | Go2Thailand",
-      "de": "Südthailand Reiseführer 2026 | Go2Thailand"
+      "de": "Südthailand Reiseführer 2026 | Go2Thailand",
+      "zh": "泰国南部旅游指南2026 | Go2Thailand"
     },
     "metaDescription": {
       "en": "Southern Thailand travel guide 2026. Best cities, islands, beaches, and travel tips for Phuket, Krabi, Koh Samui and more.",
       "nl": "Zuid-Thailand reisgids 2026. Beste steden, eilanden, stranden en reistips voor Phuket, Krabi, Koh Samui en meer.",
       "fr": "Guide de voyage Thaïlande du Sud 2026. Meilleures villes, îles, plages et conseils de voyage pour Phuket, Krabi, Koh Samui et plus.",
-      "de": "Südthailand Reiseführer 2026. Beste Städte, Inseln, Strände und Reisetipps für Phuket, Krabi, Koh Samui und mehr."
+      "de": "Südthailand Reiseführer 2026. Beste Städte, Inseln, Strände und Reisetipps für Phuket, Krabi, Koh Samui und mehr.",
+      "zh": "泰国南部旅游指南2026。普吉岛、甲米、苏梅岛等最佳城市、岛屿、海滩和旅行攻略。"
     }
   },
   "categories": {
@@ -121,19 +218,22 @@
       "en": "Top attractions in Southern Thailand",
       "nl": "Top bezienswaardigheden in Zuid-Thailand",
       "fr": "Principales attractions en Thaïlande du Sud",
-      "de": "Top-Sehenswürdigkeiten in Südthailand"
+      "de": "Top-Sehenswürdigkeiten in Südthailand",
+      "zh": "泰国南部热门景点"
     },
     "cities": {
       "en": "Best cities to visit in Southern Thailand",
       "nl": "Beste steden om te bezoeken in Zuid-Thailand",
       "fr": "Meilleures villes à visiter en Thaïlande du Sud",
-      "de": "Beste Städte in Südthailand"
+      "de": "Beste Städte in Südthailand",
+      "zh": "泰国南部最佳旅游城市"
     },
     "climate": {
       "en": "Climate and weather in Southern Thailand",
       "nl": "Klimaat en weer in Zuid-Thailand",
       "fr": "Climat et météo en Thaïlande du Sud",
-      "de": "Klima und Wetter in Südthailand"
+      "de": "Klima und Wetter in Südthailand",
+      "zh": "泰国南部气候与天气"
     }
   },
   "tags": [
