@@ -1,0 +1,160 @@
+{
+  "title": "泰国海岛 — 完全指南（2026）",
+  "meta_description": "探索泰国12座最佳海岛，从普吉岛到丽贝岛。真实交通信息、最佳季节和针对各类旅行者的诚实推荐。",
+  "intro": "多年来在泰国安达曼海和暹罗湾的岛屿间穿梭，我深知每座岛屿都有独特的魅力。我在Koh Tao的潜水点看过日出，在Koh Lipe的粉白沙滩上看过日落，在Koh Phangan的竹屋中入眠，也在Koh Samui的豪华别墅中歇脚。这份指南涵盖我亲自到访的12座岛屿，助你选出最适合自己旅程的那一座——无论你是首次飞抵普吉岛的新手，还是追逐Similan Islands清澈海水的潜水爱好者。",
+  "items": [
+    {
+      "rank": 1,
+      "name": "Phuket",
+      "province": "Phang Nga",
+      "best_for": ["初次来泰", "家庭出游", "夜生活"],
+      "best_time": "November - April",
+      "how_to_get_there": "设有国际机场，可从亚洲和欧洲主要城市直飞",
+      "description": "泰国最大的岛屿，也是最容易到达的。普吉岛拥有国际机场，无需乘船或转驳即可抵达。西海岸的海滩从热闹的芭东到较清静的卡塔和卡隆各有特色，老城区还有中葡式建筑和本地美食市场。",
+      "key_facts": ["泰国最大岛屿", "国际机场"],
+      "coast": "Andaman",
+      "google_maps_query": "Phuket Thailand"
+    },
+    {
+      "rank": 2,
+      "name": "Koh Samui",
+      "province": "Surat Thani",
+      "best_for": ["奢华度假", "养生", "家庭出游"],
+      "best_time": "January - August",
+      "how_to_get_there": "苏梅国际机场有从曼谷、新加坡和香港出发的航班",
+      "description": "泰国第二大岛，将豪华度假村与地道泰式文化完美结合。Koh Samui是前往Koh Phangan和Koh Tao的门户，是暹罗湾跳岛游的理想起点。岛上拥有世界级水疗中心、养生度假村和椰林环绕的亲子海滩。",
+      "key_facts": ["第二大岛", "通往Phangan/Tao的门户"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Samui Surat Thani Thailand"
+    },
+    {
+      "rank": 3,
+      "name": "Koh Phi Phi",
+      "province": "Krabi",
+      "best_for": ["跳岛游", "潜水", "绝美风光"],
+      "best_time": "November - April",
+      "how_to_get_there": "从普吉岛乘渡轮（2小时）或从甲米乘渡轮（1.5小时）",
+      "description": "Koh Phi Phi壮观的石灰岩峭壁和碧绿海水使其成为泰国最上镜的目的地之一。因电影《海滩》而闻名的玛雅湾现已实行游客限流，以保护恢复中的珊瑚生态系统。主岛Phi Phi Don禁止汽车通行，各海滩之间由长尾船相连。",
+      "key_facts": ["玛雅湾实行游客限流", "无汽车岛屿"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Phi Phi Krabi Thailand"
+    },
+    {
+      "rank": 4,
+      "name": "Koh Tao",
+      "province": "Surat Thani",
+      "best_for": ["平价潜水", "背包客", "浮潜"],
+      "best_time": "January - August",
+      "how_to_get_there": "从Koh Samui乘渡轮（1.5小时）或从春蓬乘渡轮（2-3小时）",
+      "description": "被誉为\"泰国潜水之都\"，Koh Tao提供全球最实惠的潜水考证课程。这座小岛以悠闲的氛围和便捷的礁石潜点吸引着背包客和潜水爱好者。Japanese Garden和Mango Bay等浅水海湾非常适合浮潜和初学者。",
+      "key_facts": ["泰国潜水之都", "平价潜水考证"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Tao Surat Thani Thailand"
+    },
+    {
+      "rank": 5,
+      "name": "Koh Lipe",
+      "province": "Satun",
+      "best_for": ["浮潜", "海滩", "情侣"],
+      "best_time": "November - April",
+      "how_to_get_there": "从Pak Bara码头或从兰卡威乘渡轮",
+      "description": "被誉为\"泰国的马尔代夫\"，Koh Lipe位于靠近马来西亚边境的达鲁岛国家海洋公园内。岛上三大海滩——Pattaya、Sunrise和Sunset——拥有白沙碧水，却没有热门岛屿的拥挤人群。偏远的地理位置使游客数量保持在合理水平。",
+      "key_facts": ["泰国的马尔代夫", "达鲁岛国家海洋公园"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Lipe Satun Thailand"
+    },
+    {
+      "rank": 6,
+      "name": "Koh Phangan",
+      "province": "Surat Thani",
+      "best_for": ["养生", "瑜伽", "夜生活"],
+      "best_time": "January - August",
+      "how_to_get_there": "从Koh Samui乘渡轮（30分钟至1小时）",
+      "description": "Koh Phangan拥有看似矛盾的双重个性：哈林海滩每月吸引数千人参加的满月派对，以及北海岸散布着瑜伽馆和冥想中心的灵修度假胜地。两种风格在这座暹罗湾中型岛屿上和谐共存。",
+      "key_facts": ["满月派对", "灵修度假"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Phangan Surat Thani Thailand"
+    },
+    {
+      "rank": 7,
+      "name": "Koh Chang",
+      "province": "Trat",
+      "best_for": ["自然风光", "瀑布", "经济实惠"],
+      "best_time": "Year-round",
+      "how_to_get_there": "从Laem Ngop码头乘渡轮（靠近桐艾府，可从曼谷乘大巴或飞机到达）",
+      "description": "泰国第二大岛，开发程度低于普吉岛或苏梅岛，覆盖着茂密的热带雨林，瀑布从山间倾泻而下。西海岸集中了大部分海滩和住宿设施，东海岸则保持着安静的本地风貌。全年可达的便利交通和较低的物价使其成为安达曼海岛屿的理想替代选择。",
+      "key_facts": ["第二大岛", "雨林和瀑布"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Chang Trat Thailand"
+    },
+    {
+      "rank": 8,
+      "name": "Koh Lanta",
+      "province": "Krabi",
+      "best_for": ["家庭出游", "慢旅行", "休闲放松"],
+      "best_time": "November - April",
+      "how_to_get_there": "从甲米、普吉岛或Phi Phi乘渡轮；也可经桥梁从陆路驾车到达",
+      "description": "Koh Lanta吸引着寻求绵长空旷海滩和悠闲节奏的旅行者。岛上海滩沿西海岸分布，越往南越清静。与许多泰国岛屿不同，兰达岛有桥梁与大陆相连，可自驾到达而无需完全依赖渡轮。",
+      "key_facts": ["绵长海滩", "悠闲氛围", "可驾车到达"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Lanta Krabi Thailand"
+    },
+    {
+      "rank": 9,
+      "name": "Similan Islands",
+      "province": "Phang Nga",
+      "best_for": ["潜水", "原始海域", "一日游"],
+      "best_time": "October - May only",
+      "how_to_get_there": "从考拉克或普吉岛乘船前往，可选择船宿或一日游",
+      "description": "Similan Islands是由11座岛屿组成的国家公园群岛，拥有泰国最清澈的海水和最健康的珊瑚礁。进入受限于开放季节且需提前预订，使得自然环境保持极其原始。船宿潜水提供最佳体验，也可从考拉克参加一日游。",
+      "key_facts": ["11座岛屿", "需提前预订", "国家公园"],
+      "coast": "Andaman",
+      "google_maps_query": "Similan Islands Phang Nga Thailand"
+    },
+    {
+      "rank": 10,
+      "name": "Koh Samet",
+      "province": "Rayong",
+      "best_for": ["周末度假", "海滩休闲"],
+      "best_time": "Year-round",
+      "how_to_get_there": "从Ban Phe码头乘渡轮，距曼谷约2小时车程",
+      "description": "Koh Samet是距离曼谷最近的岛屿，是本地人和外籍人士热门的周末度假地。小岛东海岸有一串白沙海滩，其中赛凯沃海滩最为热闹。由于靠近首都，周末和节假日人较多，工作日则相对清静。",
+      "key_facts": ["距曼谷最近的岛屿", "周末度假胜地"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Samet Rayong Thailand"
+    },
+    {
+      "rank": 11,
+      "name": "Koh Yao Noi",
+      "province": "Phang Nga",
+      "best_for": ["蜜月旅行", "宁静", "原生态文化"],
+      "best_time": "November - April",
+      "how_to_get_there": "从普吉岛乘快艇（30-40分钟）",
+      "description": "Koh Yao Noi位于攀牙湾中，介于普吉岛和甲米之间，却仿佛与世隔绝。岛上保持着宁静的本地风貌，有稻田、橡胶种植园和穆斯林渔村。在更发达的旅游目的地已近消失的传统泰国海岛生活，在这里仍可窥见。",
+      "key_facts": ["宁静避世之地", "原生态本地文化"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Yao Noi Phang Nga Thailand"
+    },
+    {
+      "rank": 12,
+      "name": "Koh Tarutao",
+      "province": "Satun",
+      "best_for": ["探险", "原始自然", "露营"],
+      "best_time": "October - May",
+      "how_to_get_there": "从Pak Bara码头乘国家公园船只",
+      "description": "Koh Tarutao是达鲁岛国家海洋公园的主岛，也是泰国最原始的岛屿之一。这里没有豪华度假村——住宿为国家公园小木屋和帐篷营地。岛上拥有红树林、石灰岩洞穴和无人海滩，粗犷而野性十足，适合愿意挑战原始条件的旅行者。",
+      "key_facts": ["海洋国家公园", "真正的原始自然", "露营住宿"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Tarutao Satun Thailand"
+    }
+  ],
+  "tips": [
+    "订票前务必确认季风季节：安达曼海岸（普吉岛、Phi Phi、Lipe、Similans）最佳时间为11月至4月；暹罗湾（Samui、Phangan、Tao）最佳时间为1月至8月",
+    "前往Similan Islands需提前预订——旺季许可证很快售罄，公园在5月至10月关闭",
+    "渡轮时刻表随季节变化，恶劣海况可能导致停航——务必准备灵活的备选方案",
+    "没有机场的岛屿（大多数岛屿）需要渡轮接驳；规划多岛行程时请预留交通时间",
+    "Koh Phi Phi的玛雅湾实行每日游客限额——建议早到或通过保证入场的旅行社预订",
+    "请使用对珊瑚友好的防晒霜；多个海洋公园已限制使用损害珊瑚的化学防晒产品"
+  ],
+  "generated_at": "2026-03-10"
+}

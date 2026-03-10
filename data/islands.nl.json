@@ -1,0 +1,160 @@
+{
+  "title": "Eilanden in Thailand — Complete gids (2026)",
+  "meta_description": "Ontdek 12 van de mooiste eilanden van Thailand, van Phuket tot Koh Lipe. Praktische reisinfo, beste seizoenen en eerlijke aanbevelingen voor elk type reiziger.",
+  "intro": "Na jaren eilandhoppen langs de Andaman- en Golfkust van Thailand weet ik dat geen twee eilanden hetzelfde aanvoelen. Ik heb de zonsopgang gezien boven de duikplekken van Koh Tao en de zonsondergang vanaf de poederwitte stranden van Koh Lipe, geslapen in bamboehutten op Koh Phangan en luxe villa's op Koh Samui. Deze gids behandelt 12 eilanden die ik persoonlijk heb bezocht, gerangschikt om je te helpen het juiste eiland voor jouw reis te kiezen — of je nu als beginner via Phuket aankomt of als duiker de kristalheldere wateren van de Similans opzoekt.",
+  "items": [
+    {
+      "rank": 1,
+      "name": "Phuket",
+      "province": "Phang Nga",
+      "best_for": ["Beginners", "Gezinnen", "Nachtleven"],
+      "best_time": "November - April",
+      "how_to_get_there": "Internationaal vliegveld met directe vluchten vanuit grote Aziatische en Europese steden",
+      "description": "Het grootste eiland van Thailand en het makkelijkst bereikbaar. Phuket heeft een internationaal vliegveld, waardoor je geen veerboot of aansluitende boot nodig hebt. De stranden aan de westkust varieren van het drukke Patong tot het rustigere Kata en Karon, terwijl de Old Town Sino-Portugese architectuur en lokale voedselmarkten biedt.",
+      "key_facts": ["Grootste Thaise eiland", "Internationaal vliegveld"],
+      "coast": "Andaman",
+      "google_maps_query": "Phuket Thailand"
+    },
+    {
+      "rank": 2,
+      "name": "Koh Samui",
+      "province": "Surat Thani",
+      "best_for": ["Luxe", "Wellness", "Gezinnen"],
+      "best_time": "January - August",
+      "how_to_get_there": "Samui International Airport met vluchten vanuit Bangkok, Singapore en Hongkong",
+      "description": "Het op een na grootste eiland van Thailand combineert luxe resorts met authentieke Thaise cultuur. Koh Samui is de uitvalsbasis naar Koh Phangan en Koh Tao, waardoor het een logisch startpunt is voor eilandtrips in de Golf. Het eiland heeft wereldklasse spa's, wellnessretreats en gezinsvriendelijke stranden langs de met palmen omzoomde kust.",
+      "key_facts": ["Op een na grootste eiland", "Uitvalsbasis naar Phangan/Tao"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Samui Surat Thani Thailand"
+    },
+    {
+      "rank": 3,
+      "name": "Koh Phi Phi",
+      "province": "Krabi",
+      "best_for": ["Eilandhoppen", "Duiken", "Landschap"],
+      "best_time": "November - April",
+      "how_to_get_there": "Veerboot vanuit Phuket (2 uur) of Krabi (1,5 uur)",
+      "description": "De spectaculaire kalksteenrotsen en turquoise wateren van Koh Phi Phi maken het een van de meest gefotografeerde bestemmingen van Thailand. Maya Bay, beroemd geworden door de film The Beach, werkt nu met bezoekerslimieten om het herstellende koraalecosysteem te beschermen. Het hoofdeiland Phi Phi Don is autovrij, met longtailboten die de stranden verbinden.",
+      "key_facts": ["Maya Bay heeft bezoekerslimieten", "Autovrij eiland"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Phi Phi Krabi Thailand"
+    },
+    {
+      "rank": 4,
+      "name": "Koh Tao",
+      "province": "Surat Thani",
+      "best_for": ["Betaalbaar duiken", "Backpackers", "Snorkelen"],
+      "best_time": "January - August",
+      "how_to_get_there": "Veerboot vanuit Koh Samui (1,5 uur) of Chumphon (2-3 uur)",
+      "description": "Bekend als de duikhoofdstad van Thailand biedt Koh Tao enkele van de meest betaalbare duikcertificaten ter wereld. Het kleine eiland trekt backpackers en duikliefhebbers aan met zijn relaxte sfeer en toegankelijke riflocaties. Ondiepe baaien zoals Japanese Garden en Mango Bay zijn ideaal voor snorkelaars en beginners.",
+      "key_facts": ["Duikhoofdstad van Thailand", "Betaalbare duikcertificaten"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Tao Surat Thani Thailand"
+    },
+    {
+      "rank": 5,
+      "name": "Koh Lipe",
+      "province": "Satun",
+      "best_for": ["Snorkelen", "Stranden", "Stellen"],
+      "best_time": "November - April",
+      "how_to_get_there": "Pak Bara Pier of veerboot vanuit Langkawi",
+      "description": "Vaak het Malediven van Thailand genoemd, ligt Koh Lipe in het Tarutao National Marine Park bij de Maleisische grens. De drie hoofdstranden — Pattaya, Sunrise en Sunset — bieden wit zand en helder water zonder de drukte van beter bereikbare eilanden. De afgelegen ligging houdt de bezoekersaantallen beheersbaar.",
+      "key_facts": ["Malediven van Thailand", "Tarutao National Marine Park"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Lipe Satun Thailand"
+    },
+    {
+      "rank": 6,
+      "name": "Koh Phangan",
+      "province": "Surat Thani",
+      "best_for": ["Wellness", "Yoga", "Nachtleven"],
+      "best_time": "January - August",
+      "how_to_get_there": "Veerboot vanuit Koh Samui (30 minuten - 1 uur)",
+      "description": "Koh Phangan heeft twee schijnbaar tegenstrijdige identiteiten: de Full Moon Party-bestemming die duizenden feestvierders naar Haad Rin trekt, en een spiritueel retreat-eiland met yogastudio's en meditatiecentra verspreid over de rustigere noordkust. Beide kanten bestaan naast elkaar op dit middelgrote Golfeiland.",
+      "key_facts": ["Full Moon Party", "Spirituele retreats"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Phangan Surat Thani Thailand"
+    },
+    {
+      "rank": 7,
+      "name": "Koh Chang",
+      "province": "Trat",
+      "best_for": ["Natuur", "Watervallen", "Budget"],
+      "best_time": "Year-round",
+      "how_to_get_there": "Veerboot vanuit Laem Ngop pier (bij Trat, bereikbaar per bus of vlucht vanuit Bangkok)",
+      "description": "Het op een na grootste eiland van Thailand is minder ontwikkeld dan Phuket of Samui, bedekt met dicht regenwoud en watervallen die door het bergachtige binnenland stromen. De westkust heeft de meeste stranden en accommodatie, terwijl de oostkust rustig en lokaal blijft. De jaarronde bereikbaarheid en lagere prijzen maken het een sterk alternatief voor de Andaman-eilanden.",
+      "key_facts": ["Op een na grootste eiland", "Regenwoud en watervallen"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Chang Trat Thailand"
+    },
+    {
+      "rank": 8,
+      "name": "Koh Lanta",
+      "province": "Krabi",
+      "best_for": ["Gezinnen", "Slow travel", "Ontspanning"],
+      "best_time": "November - April",
+      "how_to_get_there": "Veerboot vanuit Krabi, Phuket of Phi Phi; ook bereikbaar over de weg via een brug vanaf het vasteland",
+      "description": "Koh Lanta trekt reizigers aan die op zoek zijn naar lange, rustige stranden en een ontspannen tempo. De stranden lopen langs de westkust en worden steeds rustiger naarmate je verder naar het zuiden gaat. In tegenstelling tot veel Thaise eilanden is Lanta verbonden met het vasteland via een brug, waardoor je per auto kunt komen zonder afhankelijk te zijn van veerboten.",
+      "key_facts": ["Lange stranden", "Ontspannen sfeer", "Bereikbaar over de weg"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Lanta Krabi Thailand"
+    },
+    {
+      "rank": 9,
+      "name": "Similan Islands",
+      "province": "Phang Nga",
+      "best_for": ["Duiken", "Kristalhelder water", "Dagtochten"],
+      "best_time": "October - May only",
+      "how_to_get_there": "Liveaboard-boten of dagtochten vanuit Khao Lak of Phuket",
+      "description": "De Similan Islands vormen een nationaal park-archipel van 11 eilanden met het helderste water en gezondste koraalrif van Thailand. Toegang is beperkt tot het open seizoen en vooraf reserveren is verplicht, waardoor de omgeving opmerkelijk ongerept blijft. Liveaboard-duikreizen bieden de beste ervaring, maar dagtochten vanuit Khao Lak zijn ook beschikbaar.",
+      "key_facts": ["11 eilanden", "Vooraf reserveren verplicht", "Nationaal park"],
+      "coast": "Andaman",
+      "google_maps_query": "Similan Islands Phang Nga Thailand"
+    },
+    {
+      "rank": 10,
+      "name": "Koh Samet",
+      "province": "Rayong",
+      "best_for": ["Weekendjes weg", "Strandvakanties"],
+      "best_time": "Year-round",
+      "how_to_get_there": "Veerboot vanuit Ban Phe pier, circa 2 uur rijden vanuit Bangkok",
+      "description": "Koh Samet is het dichtstbijzijnde eiland bij Bangkok, waardoor het een populair weekenduitje is voor zowel locals als expats. Het kleine eiland heeft een reeks witte zandstranden langs de oostkust, waarvan Sai Kaew Beach het drukst is. Door de nabijheid van de hoofdstad is het vol in het weekend en tijdens feestdagen, maar doordeweeks relatief rustig.",
+      "key_facts": ["Dichtstbijzijnde eiland bij Bangkok", "Populair weekenduitje"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Samet Rayong Thailand"
+    },
+    {
+      "rank": 11,
+      "name": "Koh Yao Noi",
+      "province": "Phang Nga",
+      "best_for": ["Huwelijksreizigers", "Rust", "Authentieke cultuur"],
+      "best_time": "November - April",
+      "how_to_get_there": "Speedboot vanuit Phuket (30-40 minuten)",
+      "description": "Koh Yao Noi ligt in de Phang Nga-baai tussen Phuket en Krabi, maar voelt als een wereld apart. Het eiland heeft zijn rustige, lokale karakter behouden met rijstvelden, rubberplantages en een islamitische vissersgemeenschap. Het biedt een glimp van het traditionele Thaise eilandleven dat grotendeels is verdwenen op meer ontwikkelde bestemmingen.",
+      "key_facts": ["Rustige toevlucht", "Authentieke lokale cultuur"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Yao Noi Phang Nga Thailand"
+    },
+    {
+      "rank": 12,
+      "name": "Koh Tarutao",
+      "province": "Satun",
+      "best_for": ["Avontuur", "Ongerepte natuur", "Kamperen"],
+      "best_time": "October - May",
+      "how_to_get_there": "Nationaal park-boot vanuit Pak Bara Pier",
+      "description": "Koh Tarutao is het hoofdeiland van het Tarutao National Marine Park en een van de meest ongerepte eilanden van Thailand. Luxe resorts vind je hier niet — de accommodatie bestaat uit nationale parkbungalows en kampeerplekken. Het eiland heeft een wild, ruig karakter met mangrovebossen, kalksteengrotten en verlaten stranden die avonturiers belonen.",
+      "key_facts": ["Marien nationaal park", "Echt wild", "Kampeeraccommodatie"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Tarutao Satun Thailand"
+    }
+  ],
+  "tips": [
+    "Check de moessonperiodes voor je boekt: Andamankust (Phuket, Phi Phi, Lipe, Similans) is het best van november t/m april; Golfkust (Samui, Phangan, Tao) van januari t/m augustus",
+    "Boek Similan Islands-trips ruim van tevoren — vergunningen raken uitverkocht in het hoogseizoen en het park sluit van mei t/m oktober",
+    "Veerdienstregelingen veranderen per seizoen en kunnen worden geannuleerd bij ruw weer — houd altijd een flexibel alternatief achter de hand",
+    "Eilanden zonder vliegveld (de meeste) vereisen veerbootverbindingen; houd rekening met reistijd bij het plannen van eilandcombinaties",
+    "Maya Bay op Koh Phi Phi heeft dagelijkse bezoekerslimieten — ga vroeg of boek via een touroperator die toegang garandeert",
+    "Neem rifvriendelijke zonnebrand mee; meerdere mariene parken beperken chemische zonnebrandmiddelen die koraal beschadigen"
+  ],
+  "generated_at": "2026-03-10"
+}

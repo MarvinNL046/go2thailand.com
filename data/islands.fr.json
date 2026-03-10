@@ -1,0 +1,160 @@
+{
+  "title": "Iles de Thailande - Guide complet (2026)",
+  "meta_description": "Decouvrez 12 des plus belles iles de Thailande, de Phuket a Koh Lipe. Acces, meilleures saisons et recommandations honnetes pour chaque type de voyageur.",
+  "intro": "Apres des annees a explorer les iles des cotes d'Andaman et du Golfe de Thailande, j'ai appris qu'aucune ile ne ressemble a une autre. J'ai admire le lever de soleil sur les sites de plongee de Koh Tao et le coucher de soleil depuis les plages de sable fin de Koh Lipe, dormi dans des huttes en bambou a Koh Phangan et dans des villas de luxe a Koh Samui. Ce guide couvre 12 iles que j'ai visitees personnellement, classees pour vous aider a choisir celle qui correspond a votre voyage, que vous soyez un debutant atterrissant a Phuket ou un plongeur en quete des eaux cristallines des Similans.",
+  "items": [
+    {
+      "rank": 1,
+      "name": "Phuket",
+      "province": "Phang Nga",
+      "best_for": ["Premiers voyages", "Familles", "Vie nocturne"],
+      "best_time": "November - April",
+      "how_to_get_there": "Aeroport international avec des vols directs depuis les grandes villes asiatiques et europeennes",
+      "description": "La plus grande ile de Thailande et la plus accessible. Phuket possede un aeroport international, ce qui en fait l'ile la plus facile a rejoindre sans ferry ni bateau de correspondance. Les plages de la cote ouest vont de l'animee Patong aux plus tranquilles Kata et Karon, tandis que la vieille ville offre une architecture sino-portugaise et des marches locaux.",
+      "key_facts": ["Plus grande ile thai", "Aeroport international"],
+      "coast": "Andaman",
+      "google_maps_query": "Phuket Thailand"
+    },
+    {
+      "rank": 2,
+      "name": "Koh Samui",
+      "province": "Surat Thani",
+      "best_for": ["Luxe", "Bien-etre", "Familles"],
+      "best_time": "January - August",
+      "how_to_get_there": "Aeroport international de Samui avec des vols depuis Bangkok, Singapour et Hong Kong",
+      "description": "La deuxieme plus grande ile de Thailande allie complexes de luxe et culture thai authentique. Koh Samui sert de point d'acces vers Koh Phangan et Koh Tao, ce qui en fait un point de depart naturel pour les circuits dans les iles du Golfe. L'ile offre des spas de classe mondiale, des retraites bien-etre et des plages familiales le long de sa cote bordee de cocotiers.",
+      "key_facts": ["Deuxieme plus grande ile", "Point d'acces vers Phangan/Tao"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Samui Surat Thani Thailand"
+    },
+    {
+      "rank": 3,
+      "name": "Koh Phi Phi",
+      "province": "Krabi",
+      "best_for": ["Iles en iles", "Plongee", "Paysages"],
+      "best_time": "November - April",
+      "how_to_get_there": "Ferry depuis Phuket (2 heures) ou Krabi (1h30)",
+      "description": "Les impressionnants pitons calcaires et les eaux turquoise de Koh Phi Phi en font l'une des destinations les plus photographiees de Thailande. Maya Bay, rendue celebre par le film La Plage, fonctionne desormais avec des quotas de visiteurs pour proteger l'ecosysteme corallien en regeneration. L'ile principale, Phi Phi Don, est sans voiture, et des longtail boats relient ses plages.",
+      "key_facts": ["Maya Bay a des quotas de visiteurs", "Ile sans voiture"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Phi Phi Krabi Thailand"
+    },
+    {
+      "rank": 4,
+      "name": "Koh Tao",
+      "province": "Surat Thani",
+      "best_for": ["Plongee a petit prix", "Routards", "Snorkeling"],
+      "best_time": "January - August",
+      "how_to_get_there": "Ferry depuis Koh Samui (1h30) ou Chumphon (2-3 heures)",
+      "description": "Surnommee la Capitale de la plongee en Thailande, Koh Tao propose certaines des certifications de plongee les plus abordables au monde. Cette petite ile attire routards et passionnes de plongee grace a son ambiance decontractee et ses sites de recifs accessibles. Les baies peu profondes comme Japanese Garden et Mango Bay sont ideales pour les snorkeleurs et les debutants.",
+      "key_facts": ["Capitale de la plongee en Thailande", "Certifications de plongee abordables"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Tao Surat Thani Thailand"
+    },
+    {
+      "rank": 5,
+      "name": "Koh Lipe",
+      "province": "Satun",
+      "best_for": ["Snorkeling", "Plages", "Couples"],
+      "best_time": "November - April",
+      "how_to_get_there": "Jetee de Pak Bara ou ferry depuis Langkawi",
+      "description": "Souvent surnommee les Maldives de Thailande, Koh Lipe se situe dans le parc national marin de Tarutao, pres de la frontiere malaisienne. Les trois plages principales de l'ile — Pattaya, Sunrise et Sunset — offrent du sable blanc et une eau limpide sans la foule des iles plus accessibles. Son emplacement isole maintient un nombre de visiteurs raisonnable.",
+      "key_facts": ["Maldives de Thailande", "Parc national marin de Tarutao"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Lipe Satun Thailand"
+    },
+    {
+      "rank": 6,
+      "name": "Koh Phangan",
+      "province": "Surat Thani",
+      "best_for": ["Bien-etre", "Yoga", "Vie nocturne"],
+      "best_time": "January - August",
+      "how_to_get_there": "Ferry depuis Koh Samui (30 minutes a 1 heure)",
+      "description": "Koh Phangan porte deux identites apparemment contradictoires : destination de la Full Moon Party attirant des milliers de fetards sur la plage de Haad Rin, et ile de retraite spirituelle avec des studios de yoga et centres de meditation dissemine sur sa cote nord plus calme. Ces deux facettes coexistent sur cette ile de taille moyenne du Golfe.",
+      "key_facts": ["Full Moon Party", "Retraites spirituelles"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Phangan Surat Thani Thailand"
+    },
+    {
+      "rank": 7,
+      "name": "Koh Chang",
+      "province": "Trat",
+      "best_for": ["Nature", "Cascades", "Petit budget"],
+      "best_time": "Year-round",
+      "how_to_get_there": "Ferry depuis la jetee de Laem Ngop (pres de Trat, accessible en bus ou en avion depuis Bangkok)",
+      "description": "La deuxieme plus grande ile de Thailande reste moins developpee que Phuket ou Samui, couverte d'une foret tropicale dense avec des cascades qui traversent son interieur montagneux. La cote ouest concentre la plupart des plages et hebergements, tandis que la cote est reste calme et locale. Son accessibilite toute l'annee et ses prix plus bas en font une solide alternative aux iles d'Andaman.",
+      "key_facts": ["Deuxieme plus grande ile", "Forets tropicales et cascades"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Chang Trat Thailand"
+    },
+    {
+      "rank": 8,
+      "name": "Koh Lanta",
+      "province": "Krabi",
+      "best_for": ["Familles", "Voyage lent", "Detente"],
+      "best_time": "November - April",
+      "how_to_get_there": "Ferry depuis Krabi, Phuket ou Phi Phi ; egalement accessible par la route via un pont depuis le continent",
+      "description": "Koh Lanta attire les voyageurs a la recherche de longues etendues de plage peu frequentees et d'un rythme de vie detendu. Les plages de l'ile s'etendent le long de la cote ouest, devenant de plus en plus tranquilles en allant vers le sud. Contrairement a beaucoup d'iles thailandaises, Lanta est reliee au continent par un pont, ce qui la rend accessible en voiture sans dependre uniquement des ferries.",
+      "key_facts": ["Longues plages", "Ambiance decontractee", "Accessible par la route"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Lanta Krabi Thailand"
+    },
+    {
+      "rank": 9,
+      "name": "Similan Islands",
+      "province": "Phang Nga",
+      "best_for": ["Plongee", "Eaux cristallines", "Excursions a la journee"],
+      "best_time": "October - May only",
+      "how_to_get_there": "Croisieres plongee ou excursions a la journee depuis Khao Lak ou Phuket",
+      "description": "Les iles Similan forment un archipel de parc national de 11 iles offrant certaines des eaux les plus limpides et des recifs coralliens les plus sains de Thailande. L'acces est limite a la saison d'ouverture et la reservation a l'avance est obligatoire, preservant un environnement remarquablement intact. Les croisieres de plongee offrent la meilleure experience, bien que des excursions a la journee depuis Khao Lak soient disponibles.",
+      "key_facts": ["11 iles", "Reservation a l'avance obligatoire", "Parc national"],
+      "coast": "Andaman",
+      "google_maps_query": "Similan Islands Phang Nga Thailand"
+    },
+    {
+      "rank": 10,
+      "name": "Koh Samet",
+      "province": "Rayong",
+      "best_for": ["Escapades week-end", "Sejours balneaires"],
+      "best_time": "Year-round",
+      "how_to_get_there": "Ferry depuis la jetee de Ban Phe, a environ 2 heures de Bangkok en voiture",
+      "description": "Koh Samet est l'ile la plus proche de Bangkok, ce qui en fait une escapade de week-end prisee des locaux et des expatries. Cette petite ile offre une succession de plages de sable blanc le long de sa cote est, Sai Kaew Beach etant la plus frequentee. Sa proximite avec la capitale fait qu'elle se remplit les week-ends et jours feries, mais reste relativement calme en semaine.",
+      "key_facts": ["Ile la plus proche de Bangkok", "Destination d'escapade week-end"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Samet Rayong Thailand"
+    },
+    {
+      "rank": 11,
+      "name": "Koh Yao Noi",
+      "province": "Phang Nga",
+      "best_for": ["Lune de miel", "Tranquillite", "Culture authentique"],
+      "best_time": "November - April",
+      "how_to_get_there": "Speedboat depuis Phuket (30-40 minutes)",
+      "description": "Koh Yao Noi se trouve dans la baie de Phang Nga, entre Phuket et Krabi, mais semble a des annees-lumiere de ces deux destinations. L'ile a conserve son caractere paisible et local avec des rizieres, des plantations d'heveas et une communaute de pecheurs musulmans. Elle offre un apercu de la vie insulaire traditionnelle thailandaise qui a largement disparu des destinations plus developpees.",
+      "key_facts": ["Havre de paix", "Culture locale authentique"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Yao Noi Phang Nga Thailand"
+    },
+    {
+      "rank": 12,
+      "name": "Koh Tarutao",
+      "province": "Satun",
+      "best_for": ["Aventure", "Nature sauvage", "Camping"],
+      "best_time": "October - May",
+      "how_to_get_there": "Bateau du parc national depuis la jetee de Pak Bara",
+      "description": "Koh Tarutao est l'ile principale du parc national marin de Tarutao et l'une des iles les plus sauvages de Thailande. Pas de complexes de luxe ici : l'hebergement se limite aux bungalows du parc national et au camping. L'ile a un caractere brut et sauvage, avec des forets de mangroves, des grottes calcaires et des plages desertes qui recompensent ceux qui acceptent de sortir des sentiers battus.",
+      "key_facts": ["Parc national marin", "Veritablement sauvage", "Hebergement en camping"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Tarutao Satun Thailand"
+    }
+  ],
+  "tips": [
+    "Verifiez les saisons de mousson avant de reserver : la cote d'Andaman (Phuket, Phi Phi, Lipe, Similans) est ideale de novembre a avril ; la cote du Golfe (Samui, Phangan, Tao) de janvier a aout",
+    "Reservez les excursions aux iles Similan bien a l'avance — les permis se vendent vite en haute saison et le parc ferme de mai a octobre",
+    "Les horaires de ferry changent selon la saison et peuvent etre annules en cas de mer agitee — prevoyez toujours un plan de secours flexible",
+    "Les iles sans aeroport (la plupart) necessitent des liaisons par ferry ; prenez en compte le temps de trajet pour planifier des circuits multi-iles",
+    "Maya Bay a Koh Phi Phi a des quotas journaliers de visiteurs — arrivez tot ou reservez via un operateur qui garantit l'entree",
+    "Emportez de la creme solaire respectueuse des recifs ; plusieurs parcs marins restreignent desormais les cremes solaires chimiques nocives pour les coraux"
+  ],
+  "generated_at": "2026-03-10"
+}

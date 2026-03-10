@@ -1,0 +1,160 @@
+{
+  "title": "태국 섬 — 완벽 가이드 (2026)",
+  "meta_description": "푸켓부터 꼬리뻬까지, 태국 최고의 섬 12곳을 탐험하세요. 실제 교통 정보, 최적 시즌, 여행자 유형별 솔직한 추천.",
+  "intro": "수년간 태국의 안다만 해안과 걸프 해안을 넘나들며 섬 여행을 한 끝에, 같은 느낌의 섬은 하나도 없다는 것을 깨달았습니다. 꼬따오 다이빙 포인트에서 일출을 보고, 꼬리뻬의 고운 모래 해변에서 일몰을 감상했습니다. 꼬팡안에서 대나무 오두막에 머물고, 꼬사무이에서 럭셔리 빌라에 묵기도 했습니다. 이 가이드는 직접 방문한 12개 섬을 순위별로 정리하여, 푸켓으로 첫 여행을 떠나는 초보자든 시밀란의 투명한 바다를 찾는 다이버든 적합한 섬을 고를 수 있도록 도와드립니다.",
+  "items": [
+    {
+      "rank": 1,
+      "name": "Phuket",
+      "province": "Phang Nga",
+      "best_for": ["첫 방문자", "가족 여행", "나이트라이프"],
+      "best_time": "November - April",
+      "how_to_get_there": "아시아 및 유럽 주요 도시에서 직항편이 있는 국제공항 보유",
+      "description": "태국에서 가장 큰 섬이자 접근성이 가장 좋은 곳입니다. 국제공항이 있어 페리나 연결선 없이 가장 쉽게 도착할 수 있습니다. 서해안 해변은 번화한 파통부터 조용한 까타와 까론까지 다양하며, 올드타운에는 시노-포르투갈 건축물과 현지 먹거리 시장이 있습니다.",
+      "key_facts": ["태국 최대 섬", "국제공항 보유"],
+      "coast": "Andaman",
+      "google_maps_query": "Phuket Thailand"
+    },
+    {
+      "rank": 2,
+      "name": "Koh Samui",
+      "province": "Surat Thani",
+      "best_for": ["럭셔리", "웰니스", "가족 여행"],
+      "best_time": "January - August",
+      "how_to_get_there": "방콕, 싱가포르, 홍콩에서 항공편이 있는 사무이 국제공항",
+      "description": "태국에서 두 번째로 큰 섬으로, 럭셔리 리조트와 진정한 태국 문화가 어우러집니다. 꼬팡안과 꼬따오로 가는 관문 역할을 하여 걸프 섬 여행의 자연스러운 출발점입니다. 세계적 수준의 스파, 웰니스 리트릿, 야자수가 늘어선 해안을 따라 가족 친화적인 해변이 있습니다.",
+      "key_facts": ["두 번째로 큰 섬", "팡안/따오 관문"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Samui Surat Thani Thailand"
+    },
+    {
+      "rank": 3,
+      "name": "Koh Phi Phi",
+      "province": "Krabi",
+      "best_for": ["섬 호핑", "다이빙", "절경"],
+      "best_time": "November - April",
+      "how_to_get_there": "푸켓(2시간) 또는 끄라비(1.5시간)에서 페리",
+      "description": "극적인 석회암 카르스트와 터콰이즈빛 바다로 태국에서 가장 많이 촬영되는 명소 중 하나입니다. 영화 '더 비치'로 유명해진 마야 베이는 산호 생태계 보호를 위해 현재 방문자 수 제한을 시행하고 있습니다. 본섬 피피 돈은 차량 통행이 없으며, 롱테일 보트가 해변을 연결합니다.",
+      "key_facts": ["마야 베이 방문자 수 제한", "차량 없는 섬"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Phi Phi Krabi Thailand"
+    },
+    {
+      "rank": 4,
+      "name": "Koh Tao",
+      "province": "Surat Thani",
+      "best_for": ["저렴한 다이빙", "배낭여행", "스노클링"],
+      "best_time": "January - August",
+      "how_to_get_there": "꼬사무이(1.5시간) 또는 춤폰(2-3시간)에서 페리",
+      "description": "태국의 다이빙 수도로 알려진 꼬따오는 세계에서 가장 저렴한 다이빙 자격증 과정을 제공합니다. 여유로운 분위기와 접근 가능한 리프 포인트로 배낭여행자와 다이빙 애호가를 끌어들이는 작은 섬입니다. 재패니즈 가든이나 망고 베이 같은 얕은 만은 스노클러와 초보자에게 이상적입니다.",
+      "key_facts": ["태국 다이빙 수도", "저렴한 다이빙 자격증"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Tao Surat Thani Thailand"
+    },
+    {
+      "rank": 5,
+      "name": "Koh Lipe",
+      "province": "Satun",
+      "best_for": ["스노클링", "해변", "커플"],
+      "best_time": "November - April",
+      "how_to_get_there": "빡바라 부두 또는 랑카위 페리",
+      "description": "'태국의 몰디브'라 불리는 꼬리뻬는 말레이시아 국경 근처 따루따오 국립해양공원 내에 위치합니다. 파타야, 선라이즈, 선셋 세 개의 주요 해변이 접근성 좋은 다른 섬들보다 한적한 백사장과 맑은 바다를 제공합니다. 외진 위치 덕분에 관광객 수가 적절하게 유지됩니다.",
+      "key_facts": ["태국의 몰디브", "따루따오 국립해양공원"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Lipe Satun Thailand"
+    },
+    {
+      "rank": 6,
+      "name": "Koh Phangan",
+      "province": "Surat Thani",
+      "best_for": ["웰니스", "요가", "나이트라이프"],
+      "best_time": "January - August",
+      "how_to_get_there": "꼬사무이에서 페리(30분-1시간)",
+      "description": "꼬팡안은 두 가지 상반된 정체성을 지닙니다. 하드린 해변에 수천 명의 파티 인파를 불러모으는 풀문파티 명소이자, 조용한 북쪽 해안에 요가 스튜디오와 명상 센터가 흩어져 있는 힐링 섬입니다. 두 가지 면이 이 중형 걸프 섬에서 공존합니다.",
+      "key_facts": ["풀문파티", "힐링 리트릿"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Phangan Surat Thani Thailand"
+    },
+    {
+      "rank": 7,
+      "name": "Koh Chang",
+      "province": "Trat",
+      "best_for": ["자연", "폭포", "가성비"],
+      "best_time": "Year-round",
+      "how_to_get_there": "램응옵 부두에서 페리(뜨랏 인근, 방콕에서 버스 또는 항공편 이용)",
+      "description": "태국에서 두 번째로 큰 섬이지만 푸켓이나 사무이보다 개발이 덜 되어 있으며, 울창한 열대우림과 산악 내륙을 관통하는 폭포로 뒤덮여 있습니다. 서해안에 대부분의 해변과 숙소가 있고, 동해안은 조용하고 현지적인 분위기를 유지합니다. 연중 접근 가능하고 저렴한 가격으로 안다만 섬들의 훌륭한 대안입니다.",
+      "key_facts": ["두 번째로 큰 섬", "열대우림과 폭포"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Chang Trat Thailand"
+    },
+    {
+      "rank": 8,
+      "name": "Koh Lanta",
+      "province": "Krabi",
+      "best_for": ["가족 여행", "느린 여행", "휴식"],
+      "best_time": "November - April",
+      "how_to_get_there": "끄라비, 푸켓 또는 피피에서 페리. 본토에서 다리를 통해 차량으로도 접근 가능",
+      "description": "꼬란타는 한적한 긴 해변과 여유로운 속도를 찾는 여행자를 끌어들입니다. 서해안을 따라 해변이 이어지며, 남쪽으로 갈수록 더 조용해집니다. 다른 태국 섬들과 달리 본토와 다리로 연결되어 있어 페리 없이도 차량으로 접근할 수 있습니다.",
+      "key_facts": ["긴 해변", "여유로운 분위기", "차량 접근 가능"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Lanta Krabi Thailand"
+    },
+    {
+      "rank": 9,
+      "name": "Similan Islands",
+      "province": "Phang Nga",
+      "best_for": ["다이빙", "청정 해역", "당일 투어"],
+      "best_time": "October - May only",
+      "how_to_get_there": "카오락 또는 푸켓에서 리브어보드 또는 당일 투어",
+      "description": "시밀란 제도는 태국에서 가장 맑은 물과 건강한 산호초를 보유한 11개 섬으로 이루어진 국립공원 군도입니다. 개방 시즌으로 접근이 제한되며 사전 예약이 필수로, 놀라울 정도로 자연 그대로의 환경이 유지됩니다. 리브어보드 다이빙이 최상의 경험을 제공하며, 카오락에서 당일 투어도 가능합니다.",
+      "key_facts": ["11개 섬", "사전 예약 필수", "국립공원"],
+      "coast": "Andaman",
+      "google_maps_query": "Similan Islands Phang Nga Thailand"
+    },
+    {
+      "rank": 10,
+      "name": "Koh Samet",
+      "province": "Rayong",
+      "best_for": ["주말 여행", "해변 휴양"],
+      "best_time": "Year-round",
+      "how_to_get_there": "반패 부두에서 페리, 방콕에서 차로 약 2시간",
+      "description": "방콕에서 가장 가까운 섬으로, 현지인과 외국인 거주자 모두에게 인기 있는 주말 휴양지입니다. 작은 섬의 동해안을 따라 백사장 해변이 이어지며, 사이깨우 비치가 가장 붐빕니다. 수도에서 가까워 주말과 공휴일에는 혼잡하지만 평일에는 비교적 한적합니다.",
+      "key_facts": ["방콕에서 가장 가까운 섬", "주말 여행지"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Samet Rayong Thailand"
+    },
+    {
+      "rank": 11,
+      "name": "Koh Yao Noi",
+      "province": "Phang Nga",
+      "best_for": ["허니문", "평온함", "전통 문화"],
+      "best_time": "November - April",
+      "how_to_get_there": "푸켓에서 스피드보트(30-40분)",
+      "description": "꼬야오노이는 푸켓과 끄라비 사이 팡아만에 위치하지만, 두 곳과는 전혀 다른 세계처럼 느껴집니다. 논, 고무 농장, 이슬람 어촌 마을과 함께 조용하고 현지적인 분위기를 유지하고 있습니다. 더 개발된 관광지에서는 이미 사라진 전통적인 태국 섬 생활을 엿볼 수 있습니다.",
+      "key_facts": ["한적한 도피처", "진정한 현지 문화"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Yao Noi Phang Nga Thailand"
+    },
+    {
+      "rank": 12,
+      "name": "Koh Tarutao",
+      "province": "Satun",
+      "best_for": ["모험", "순수한 자연", "캠핑"],
+      "best_time": "October - May",
+      "how_to_get_there": "빡바라 부두에서 국립공원 보트",
+      "description": "따루따오 국립해양공원의 본섬으로 태국에서 가장 손때 묻지 않은 섬 중 하나입니다. 럭셔리 리조트는 없으며, 숙박은 국립공원 방갈로와 캠핑이 전부입니다. 맹그로브 숲, 석회암 동굴, 인적 없는 해변이 있는 야생적이고 거친 매력의 섬으로, 자연을 감수할 준비가 된 이들에게 보답합니다.",
+      "key_facts": ["해양 국립공원", "진정한 야생", "캠핑 숙박"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Tarutao Satun Thailand"
+    }
+  ],
+  "tips": [
+    "예약 전 몬순 시즌을 확인하세요: 안다만 해안(푸켓, 피피, 리뻬, 시밀란)은 11월-4월, 걸프 해안(사무이, 팡안, 따오)은 1월-8월이 최적입니다",
+    "시밀란 제도 투어는 일찍 예약하세요 — 성수기에는 입장 허가가 매진되며, 공원은 5-10월에 폐쇄됩니다",
+    "페리 시간표는 계절에 따라 변경되며 거친 파도로 결항될 수 있습니다 — 항상 유연한 대비 계획을 세우세요",
+    "공항이 없는 섬(대부분)은 페리 연결이 필요합니다. 여러 섬 여행을 계획할 때 이동 시간을 고려하세요",
+    "꼬피피의 마야 베이는 일일 방문자 수 제한이 있습니다 — 일찍 도착하거나 입장을 보장하는 업체를 통해 예약하세요",
+    "리프 세이프 선크림을 챙기세요. 여러 해양공원에서 산호를 손상시키는 화학 선크림을 제한하고 있습니다"
+  ],
+  "generated_at": "2026-03-10"
+}

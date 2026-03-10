@@ -13,6 +13,7 @@ const LOCALE_TO_HREFLANG: Record<string, string> = {
   ru: 'ru',
   ja: 'ja',
   ko: 'ko',
+  th: 'th',
 };
 
 export default function Hreflang() {

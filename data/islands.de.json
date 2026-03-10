@@ -1,0 +1,160 @@
+{
+  "title": "Thailands Inseln — Kompletter Reisefuhrer (2026)",
+  "meta_description": "Entdecke 12 der schonsten Inseln Thailands von Phuket bis Koh Lipe. Echte Anreiseinfos, beste Reisezeiten und ehrliche Empfehlungen fur jeden Reisetyp.",
+  "intro": "Nach Jahren des Inselhuepfens entlang Thailands Andamanen- und Golfkuste habe ich gelernt, dass keine zwei Inseln sich gleich anfuhlen. Ich habe Sonnenaufgange uber Koh Taos Tauchplatzen und Sonnenuntergange von Koh Lipes puderzuckerweissen Stranden erlebt, in Bambushutten auf Koh Phangan und Luxusvillen auf Koh Samui geschlafen. Dieser Guide umfasst 12 Inseln, die ich personlich besucht habe — ob du zum ersten Mal nach Phuket fliegst oder als Taucher die kristallklaren Gewasser der Similans suchst.",
+  "items": [
+    {
+      "rank": 1,
+      "name": "Phuket",
+      "province": "Phang Nga",
+      "best_for": ["Erstbesucher", "Familien", "Nachtleben"],
+      "best_time": "November - April",
+      "how_to_get_there": "Internationaler Flughafen mit Direktflugen aus wichtigen asiatischen und europaischen Stadten",
+      "description": "Thailands grosste Insel und die am leichtesten erreichbare. Phuket hat einen internationalen Flughafen und ist damit ohne Fahren oder Anschlussboote erreichbar. Die Westkusten-Strande reichen vom lebhaften Patong bis zum ruhigeren Kata und Karon, wahrend die Altstadt sino-portugiesische Architektur und lokale Essensmarkte bietet.",
+      "key_facts": ["Grosste thailandische Insel", "Internationaler Flughafen"],
+      "coast": "Andaman",
+      "google_maps_query": "Phuket Thailand"
+    },
+    {
+      "rank": 2,
+      "name": "Koh Samui",
+      "province": "Surat Thani",
+      "best_for": ["Luxus", "Wellness", "Familien"],
+      "best_time": "January - August",
+      "how_to_get_there": "Samui International Airport mit Flugen aus Bangkok, Singapur und Hongkong",
+      "description": "Thailands zweitgrosste Insel verbindet Luxusresorts mit authentischer thailandischer Kultur. Koh Samui dient als Tor zu Koh Phangan und Koh Tao und ist damit der ideale Ausgangspunkt fur Golf-Inselreisen. Die Insel bietet erstklassige Spas, Wellness-Retreats und familienfreundliche Strande entlang ihrer palmengesaumten Kuste.",
+      "key_facts": ["Zweitgrosste Insel", "Tor zu Phangan/Tao"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Samui Surat Thani Thailand"
+    },
+    {
+      "rank": 3,
+      "name": "Koh Phi Phi",
+      "province": "Krabi",
+      "best_for": ["Inselhupfen", "Tauchen", "Landschaft"],
+      "best_time": "November - April",
+      "how_to_get_there": "Fahre von Phuket (2 Stunden) oder Krabi (1,5 Stunden)",
+      "description": "Die dramatischen Kalksteinfelsen und turkisfarbenen Gewasser von Koh Phi Phi machen es zu einem der meistfotografierten Reiseziele Thailands. Die Maya Bay, bekannt durch den Film \"The Beach\", operiert jetzt mit Besucherlimits zum Schutz des sich erholenden Korallenokosystems. Die Hauptinsel Phi Phi Don ist autofrei, Longtail-Boote verbinden die Strande.",
+      "key_facts": ["Maya Bay hat Besucherlimits", "Autofreie Insel"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Phi Phi Krabi Thailand"
+    },
+    {
+      "rank": 4,
+      "name": "Koh Tao",
+      "province": "Surat Thani",
+      "best_for": ["Gunstiges Tauchen", "Backpacker", "Schnorcheln"],
+      "best_time": "January - August",
+      "how_to_get_there": "Fahre von Koh Samui (1,5 Stunden) oder Chumphon (2-3 Stunden)",
+      "description": "Als Tauchhauptstadt Thailands bekannt, bietet Koh Tao einige der gunstigsten Tauchzertifizierungen weltweit. Die kleine Insel zieht Backpacker und Tauchbegeisterte mit ihrer entspannten Atmosphare und gut zuganglichen Riffplatzen an. Flache Buchten wie Japanese Garden und Mango Bay sind ideal fur Schnorchler und Anfanger.",
+      "key_facts": ["Thailands Tauchhauptstadt", "Gunstige Tauchzertifizierungen"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Tao Surat Thani Thailand"
+    },
+    {
+      "rank": 5,
+      "name": "Koh Lipe",
+      "province": "Satun",
+      "best_for": ["Schnorcheln", "Strande", "Paare"],
+      "best_time": "November - April",
+      "how_to_get_there": "Pak Bara Pier oder Fahre von Langkawi",
+      "description": "Oft als das Malediven Thailands bezeichnet, liegt Koh Lipe im Tarutao National Marine Park nahe der malaysischen Grenze. Die drei Hauptstrande der Insel — Pattaya, Sunrise und Sunset — bieten weissen Sand und klares Wasser ohne die Massen der leichter erreichbaren Inseln. Die abgelegene Lage halt die Besucherzahlen uberschaubar.",
+      "key_facts": ["Malediven Thailands", "Tarutao National Marine Park"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Lipe Satun Thailand"
+    },
+    {
+      "rank": 6,
+      "name": "Koh Phangan",
+      "province": "Surat Thani",
+      "best_for": ["Wellness", "Yoga", "Nachtleben"],
+      "best_time": "January - August",
+      "how_to_get_there": "Fahre von Koh Samui (30 Minuten - 1 Stunde)",
+      "description": "Koh Phangan vereint zwei scheinbar widerspruchliche Identitaten: das Full-Moon-Party-Ziel, das tausende Feiernde an den Haad Rin Beach lockt, und eine spirituelle Retreat-Insel mit Yogastudios und Meditationszentren an der ruhigeren Nordkuste. Beide Seiten koexistieren auf dieser mittelgrossen Golf-Insel.",
+      "key_facts": ["Full Moon Party", "Spirituelle Retreats"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Phangan Surat Thani Thailand"
+    },
+    {
+      "rank": 7,
+      "name": "Koh Chang",
+      "province": "Trat",
+      "best_for": ["Natur", "Wasserfalle", "Budget"],
+      "best_time": "Year-round",
+      "how_to_get_there": "Fahre vom Laem Ngop Pier (bei Trat, erreichbar per Bus oder Flug von Bangkok)",
+      "description": "Thailands zweitgrosste Insel ist weniger erschlossen als Phuket oder Samui, bedeckt von dichtem Regenwald mit Wasserfallen, die durch das bergige Innere sturzen. Die Westkuste bietet die meisten Strande und Unterkunfte, wahrend die Ostkuste ruhig und lokal bleibt. Die ganzjahrige Erreichbarkeit und niedrigeren Preise machen sie zu einer soliden Alternative zu den Andamanen-Inseln.",
+      "key_facts": ["Zweitgrosste Insel", "Regenwalder und Wasserfalle"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Chang Trat Thailand"
+    },
+    {
+      "rank": 8,
+      "name": "Koh Lanta",
+      "province": "Krabi",
+      "best_for": ["Familien", "Slow Travel", "Entspannung"],
+      "best_time": "November - April",
+      "how_to_get_there": "Fahre von Krabi, Phuket oder Phi Phi; auch per Strasse uber eine Brucke vom Festland erreichbar",
+      "description": "Koh Lanta zieht Reisende an, die lange, unuberfullte Strande und ein entspanntes Tempo suchen. Die Strande der Insel erstrecken sich entlang der Westkuste und werden ruhiger, je weiter sudlich man kommt. Anders als viele thailandische Inseln ist Lanta uber eine Brucke mit dem Festland verbunden und somit auch per Auto erreichbar.",
+      "key_facts": ["Lange Strande", "Entspannte Atmosphare", "Per Strasse erreichbar"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Lanta Krabi Thailand"
+    },
+    {
+      "rank": 9,
+      "name": "Similan Islands",
+      "province": "Phang Nga",
+      "best_for": ["Tauchen", "Glasklares Wasser", "Tagesausfluge"],
+      "best_time": "October - May only",
+      "how_to_get_there": "Tauchsafari-Boote oder Tagesausfluge von Khao Lak oder Phuket",
+      "description": "Die Similan Islands sind ein Nationalpark-Archipel aus 11 Inseln mit einigen der klarsten Gewasser und gesundesten Korallenriffe Thailands. Der Zugang ist auf die offene Saison beschrankt und eine Vorausbuchung ist erforderlich, was die Umgebung bemerkenswert unberuhrt halt. Tauchsafaris bieten das beste Erlebnis, Tagesausfluge von Khao Lak sind ebenfalls moglich.",
+      "key_facts": ["11 Inseln", "Vorausbuchung erforderlich", "Nationalpark"],
+      "coast": "Andaman",
+      "google_maps_query": "Similan Islands Phang Nga Thailand"
+    },
+    {
+      "rank": 10,
+      "name": "Koh Samet",
+      "province": "Rayong",
+      "best_for": ["Wochenendausfluge", "Strandurlaub"],
+      "best_time": "Year-round",
+      "how_to_get_there": "Fahre vom Ban Phe Pier, ca. 2 Stunden von Bangkok mit dem Auto",
+      "description": "Koh Samet ist die nachstgelegene Insel zu Bangkok und damit ein beliebtes Wochenendziel fur Einheimische und Expats. Die kleine Insel hat eine Reihe weisser Sandstrande an der Ostkuste, wobei Sai Kaew Beach der belebteste ist. Die Nahe zur Hauptstadt bedeutet, dass es an Wochenenden und Feiertagen voll wird, aber unter der Woche relativ ruhig bleibt.",
+      "key_facts": ["Nachste Insel zu Bangkok", "Beliebtes Wochenendziel"],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Samet Rayong Thailand"
+    },
+    {
+      "rank": 11,
+      "name": "Koh Yao Noi",
+      "province": "Phang Nga",
+      "best_for": ["Flitterwochen", "Ruhe", "Authentische Kultur"],
+      "best_time": "November - April",
+      "how_to_get_there": "Speedboot von Phuket (30-40 Minuten)",
+      "description": "Koh Yao Noi liegt in der Phang Nga Bay zwischen Phuket und Krabi, fuhlt sich aber weltweit von beiden entfernt an. Die Insel hat ihren ruhigen, lokalen Charakter mit Reisfeldern, Kautschukplantagen und einer muslimischen Fischergemeinschaft bewahrt. Sie bietet einen Einblick in das traditionelle thailandische Inselleben, das an den meisten erschlossenen Reisezielen langst verschwunden ist.",
+      "key_facts": ["Ruhige Zuflucht", "Authentische lokale Kultur"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Yao Noi Phang Nga Thailand"
+    },
+    {
+      "rank": 12,
+      "name": "Koh Tarutao",
+      "province": "Satun",
+      "best_for": ["Abenteuer", "Unberuhrte Natur", "Camping"],
+      "best_time": "October - May",
+      "how_to_get_there": "Nationalpark-Boot vom Pak Bara Pier",
+      "description": "Koh Tarutao ist die Hauptinsel des Tarutao National Marine Park und eine der unberuehrtesten Inseln Thailands. Luxusresorts gibt es hier nicht — Unterkunfte sind Nationalpark-Bungalows und Campingplatze. Die Insel hat einen wilden, rauen Charakter mit Mangrovenwaldern, Kalksteinhohlen und verlassenen Stranden, die jene belohnen, die bereit sind, auf Komfort zu verzichten.",
+      "key_facts": ["Mariner Nationalpark", "Wirklich wild", "Camping-Unterkunfte"],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Tarutao Satun Thailand"
+    }
+  ],
+  "tips": [
+    "Monsunsaison vor der Buchung prufen: Andamanenkuste (Phuket, Phi Phi, Lipe, Similans) ist am besten November-April; Golfkuste (Samui, Phangan, Tao) am besten Januar-August",
+    "Similan-Islands-Trips weit im Voraus buchen — Genehmigungen sind in der Hochsaison schnell ausverkauft und der Park schliesst Mai-Oktober",
+    "Fahrplane andern sich saisonal und konnen bei rauer See abgesagt werden — immer einen flexiblen Backup-Plan haben",
+    "Inseln ohne Flughafen (die meisten) erfordern Fahrverbindungen; Reisezeit bei Mehrinsel-Trips einplanen",
+    "Maya Bay auf Koh Phi Phi hat tagliche Besucherlimits — fruh kommen oder uber einen Anbieter buchen, der den Eintritt garantiert",
+    "Riffvertraeglichen Sonnenschutz mitnehmen; mehrere Meeresnationalparks verbieten inzwischen chemische Sonnenschutzmittel, die Korallen schaden"
+  ],
+  "generated_at": "2026-03-10"
+}
