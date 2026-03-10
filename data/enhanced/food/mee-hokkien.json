@@ -272,6 +272,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Mee Hokkien est un plat principal copieux et savoureux apprécié du sud de la Thaïlande, avec une chaleur subtile. Des nouilles Hokkien sautées aux fruits de mer à la mode de Phuket. Cette recette de difficulté moyenne nécessite environ 20 minutes de préparation et représente les saveurs authentiques de la cuisine du sud de la Thaïlande, caractérisée par des épices intenses, des fruits de mer et des currys à base de coco. La combinaison de nouilles jaunes, de crevettes et de calamars crée un mélange harmonieux qui a fait de ce plat un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à prix raisonnable.",
+      "detailed_ingredients": [
+        {
+          "name": "Nouilles jaunes",
+          "purpose": "Essentiel pour la saveur authentique du Mee Hokkien",
+          "substitutes": [
+            "Nouilles jaunes fraîches",
+            "Nouilles jaunes séchées",
+            "Nouilles aux œufs"
+          ]
+        },
+        {
+          "name": "Crevettes",
+          "purpose": "Essentiel pour la saveur authentique du Mee Hokkien",
+          "substitutes": [
+            "Crevettes fraîches",
+            "Crevettes séchées",
+            "Pâte de crevettes"
+          ]
+        },
+        {
+          "name": "Calamar",
+          "purpose": "Essentiel pour la saveur authentique du Mee Hokkien",
+          "substitutes": [
+            "Calamar frais",
+            "Calamar séché",
+            "Calamars en anneaux"
+          ]
+        },
+        {
+          "name": "Porc",
+          "purpose": "Essentiel pour la saveur authentique du Mee Hokkien",
+          "substitutes": [
+            "Porc frais",
+            "Filet de poulet",
+            "Tofu"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sauté au wok",
+        "steps_overview": "La préparation du Mee Hokkien nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez des nouilles jaunes fraîches pour un meilleur résultat",
+          "Ajustez le niveau de piquant selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Mee Hokkien est un pilier de la cuisine du sud de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce plat représente le cœur de la cuisine du sud de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Mee Hokkien Classique",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Mee Hokkien Moderne",
+          "description": "Version contemporaine avec des ingrédients premium"
+        },
+        {
+          "name": "Mee Hokkien Végétarien",
+          "description": "Version végétale avec du tofu ou des champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais",
+          "Herbes thaïlandaises"
+        ],
+        "presentation": "Servi sur une assiette dans le style traditionnel du sud de la Thaïlande",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère selon la coutume thaïlandaise"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Restaurants locaux du sud de la Thaïlande",
+          "Stands de cuisine de rue authentiques",
+          "Marchés traditionnels",
+          "Restaurants familiaux"
+        ],
+        "street_food_areas": [
+          "Marchés de nuit",
+          "Marchés frais du matin",
+          "Food courts locaux"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
