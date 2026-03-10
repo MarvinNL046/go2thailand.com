@@ -358,6 +358,99 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Tom Yum Goong ist Thailand in einer Schüssel — eine wilde und duftende Suppe, die die thailändische Philosophie der ausbalancierten Extreme verkörpert. Diese scharfe und saure Garnelensuppe ist eine Meisterklasse im Schichten von Aromen: der zitrische Punch von Zitronengras, die blumigen Noten von Galgant, die Schärfe der Chilischoten — alles schwimmt in einer Brühe, die gleichzeitig wohltuend und belebend ist. Sie ist heilsam, magisch und absolut unverwechselbar.",
+      "detailed_ingredients": [
+        {
+          "name": "Zitronengras",
+          "purpose": "Verleiht das charakteristische Zitrusaroma und hat antibakterielle Eigenschaften",
+          "substitutes": [
+            "Zitronenschale (wird nicht dasselbe sein)",
+            "Zitronengraspaste aus dem Glas"
+          ]
+        },
+        {
+          "name": "Galgant",
+          "purpose": "Fügt scharfe, pfeffrige Noten hinzu, die sich von Ingwer unterscheiden",
+          "substitutes": [
+            "Frischer Ingwer (anderes Geschmacksprofil)",
+            "Tiefgefrorener Galgant"
+          ]
+        },
+        {
+          "name": "Kaffir-Limettenblätter",
+          "purpose": "Bringen blumige Zitrusnoten und ätherische Öle ein",
+          "substitutes": [
+            "Limettenschale",
+            "Lorbeerblätter mit Limettensaft"
+          ]
+        },
+        {
+          "name": "Nam Prik Pao (Chiliöl)",
+          "purpose": "Verleiht Tiefe, Farbe und Umami der klaren Version",
+          "substitutes": [
+            "Chilipaste",
+            "Sambal Oelek mit Zucker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Aromatische Infusion und schnelles Kochen",
+        "steps_overview": "Bei Tom Yum geht es um den Aufbau von Geschmacksschichten. Aromatische Zutaten werden angedrückt und aufgegossen, Proteine schnell gegart und der letzte Schliff abseits der Hitze hinzugefügt. Der Schlüssel ist, die Kräuter nicht zu lange zu kochen — das würde sie bitter machen.",
+        "cooking_tips": [
+          "Zitronengras und Galgant andrücken, um die Öle freizusetzen",
+          "Die Kräuter niemals zu lange kochen — ziehen lassen und entfernen",
+          "Limettensaft abseits der Hitze hinzufügen, um Vitamin C zu erhalten",
+          "Garnelen mit Schale verwenden für mehr Geschmack",
+          "Die Brühe sollte einen leicht zum Husten bringen — das ist die perfekte Schärfe"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Entstanden in Zentralthailand entlang des Chao Phraya Flusses, wo Garnelen im Überfluss vorhanden waren. Die Suppe entwickelte sich aus alten thailändischen Heilbrühen, die Krankheiten abwehren sollten.",
+        "cultural_importance": "Tom Yum ist Thailands Hühnersuppe — gegessen bei Krankheit, Trauer oder zum Feiern. Während der asiatischen Finanzkrise 1997 wurde 'Tom Yum Goong Krise' zum Spitznamen, was zeigt, wie tief verwurzelt dieses Gericht in der thailändischen Kultur ist.",
+        "traditional_occasions": [
+          "Hausmittel gegen Erkältung und Grippe",
+          "Katerkur",
+          "Willkommensgericht für Gäste",
+          "Wohlfühlessen in der Monsunzeit"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Nam Khon",
+          "description": "Cremige Version mit Kondensmilch — moderner Bangkok-Stil"
+        },
+        {
+          "name": "Tom Yum Nam Sai",
+          "description": "Klare Brühenversion — das Original und die Wahl der Puristen"
+        },
+        {
+          "name": "Tom Yum Talay",
+          "description": "Gemischte Meeresfrüchte-Version — beliebt in Küstengebieten"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse"
+        ],
+        "presentation": "Heiß serviert im traditionellen thailändischen Stil",
+        "eating_etiquette": "Mit Gabel und Löffel genossen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Pe Aor (Bangkok) — Berühmt für Tom Yum Nudeln",
+          "Pee Aor (Bangkok) — Anderes Lokal, ebenso berühmt",
+          "Jedes Flussrestaurant für authentische Versionen"
+        ],
+        "street_food_areas": [
+          "Chatuchak Weekend Market",
+          "Wang Lang Market bei Siriraj Hospital",
+          "Chinatown Abendstände"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
