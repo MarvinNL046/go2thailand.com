@@ -363,6 +363,101 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Grünes Curry (Gaeng Keow Wan) ist das smaragdgrüne Juwel der thailändischen Küche — ein Kokosnusscurry, das cremige Reichhaltigkeit perfekt mit kräutrig-scharfer Hitze ausbalanciert. Anders als seine roten und gelben Verwandten erhält grünes Curry seine Farbe und sein Aroma von frischen grünen Chilis und Kräutern, was es frisch, aromatisch und überraschend komplex macht. Der Name bedeutet wörtlich ‚süßes grünes Curry', aber lassen Sie sich nicht täuschen — es ist ordentlich scharf.",
+      "detailed_ingredients": [
+        {
+          "name": "Grüne Currypaste",
+          "purpose": "Die Seele des Gerichts — frische Kräuter und Chilis zusammen gemahlen",
+          "substitutes": [
+            "Fertige Paste (Marke Mae Ploy)",
+            "Selbst herstellen (beste Option)"
+          ]
+        },
+        {
+          "name": "Thailändische Aubergine",
+          "purpose": "Fügt Textur hinzu und nimmt die Curryaromen auf",
+          "substitutes": [
+            "Normale Aubergine, kleiner geschnitten",
+            "Zucchini",
+            "Grüne Bohnen"
+          ]
+        },
+        {
+          "name": "Thai-Basilikum",
+          "purpose": "Frische aromatische Note, die das reichhaltige Curry aufhellt",
+          "substitutes": [
+            "Süßes Basilikum",
+            "Heiliges Basilikum",
+            "Minze (anders, aber funktioniert)"
+          ]
+        },
+        {
+          "name": "Kokoscreme",
+          "purpose": "Bildet die reichhaltige Basis und mildert die Schärfe",
+          "substitutes": [
+            "Vollfett-Kokosmilch",
+            "Cashewcreme für eine leichtere Version"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Paste anbraten und langsam köcheln",
+        "steps_overview": "Das Geheimnis ist das ‚Aufbrechen' der Kokoscreme — sie erhitzen, bis sich das Öl absetzt, und dann die Currypaste in diesem Öl anbraten. Dieser Röstvorgang ist entscheidend für die Entwicklung tiefer Aromen, bevor Flüssigkeiten hinzugefügt werden.",
+        "cooking_tips": [
+          "Currypaste anbraten bis sie unglaublich duftet — das ist entscheidend",
+          "Zuerst den dicken Teil der Kokosmilch verwenden",
+          "Nicht stark kochen — sanftes Köcheln bewahrt die Farbe",
+          "Gemüse nach Garzeit hinzufügen — härtestes zuerst",
+          "Basilikum erst nach dem Ausschalten der Hitze hinzufügen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "In den königlichen Küchen Zentralthailands entwickelt, steht grünes Curry für die Raffinesse der Palastküche. Die Verwendung frischer Kräuter statt getrockneter Gewürze zeigt den Überfluss an Kräutern in Thailand.",
+        "cultural_importance": "Grünes Curry ist ein Test für das Können eines Kochs — Schärfe, Süße und Salz auszubalancieren und dabei die leuchtend grüne Farbe zu bewahren. Es gilt als feiner als rotes Curry und wird oft bei wichtigen Abendessen serviert.",
+        "traditional_occasions": [
+          "Buddhistische Feste",
+          "Königliche Zeremonien",
+          "Hochzeitsbankette",
+          "Empfang von Ehrengästen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Keow Wan Gai",
+          "description": "Klassische Hähnchenversion mit thailändischer Aubergine"
+        },
+        {
+          "name": "Gaeng Keow Wan Luk Chin Pla",
+          "description": "Fischbällchen-Version — beliebte Straßenküchen-Variante"
+        },
+        {
+          "name": "Vegetarisches Grünes Curry",
+          "description": "Mit Tofu und gemischtem Gemüse, ohne Fischsauce"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse"
+        ],
+        "presentation": "Heiß serviert im traditionellen thailändischen Stil",
+        "eating_etiquette": "Wird mit Gabel und Löffel gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Krua Apsorn (Bangkok) — Königliche Thai-Küche",
+          "The Local (Bangkok) — Traditionelle Rezepte",
+          "Jedes muslimisch-thailändische Restaurant für einzigartige Versionen"
+        ],
+        "street_food_areas": [
+          "Or Tor Kor Market Food Court",
+          "Saphan Phut Nachtmarkt",
+          "Universitätskantinen für günstige authentische Versionen"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
