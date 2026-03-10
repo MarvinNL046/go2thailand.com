@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 493
+    "completed": 494
   },
   "queue": [
     {
@@ -3960,8 +3960,9 @@
       "type": "city",
       "file": "data/enhanced/lampang.json",
       "locale": "de",
-      "status": "pending",
-      "priority": 11
+      "status": "completed",
+      "priority": 11,
+      "completedAt": "2026-03-10T00:00:00.000Z"
     },
     {
       "type": "city",
