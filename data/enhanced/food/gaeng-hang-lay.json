@@ -370,6 +370,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Gaeng Hang Lay ist ein beliebtes reichhaltiges und aromatisches Curry aus Nordthailand mit einer dezenten Wärme. Mildes Curry mit Schweinebauch und birmanischen Einflüssen. Dieses Rezept mittlerer Schwierigkeit benötigt etwa 90 Minuten Zubereitungszeit und repräsentiert die authentischen Aromen der nordthailändischen Küche, die sich durch mildere Geschmacksrichtungen, Klebreis und Kräuter auszeichnet. Die Kombination aus Schweinebauch, Schalotten und Knoblauch ergibt eine harmonische Mischung, die dieses Gericht zum Liebling bei Einheimischen und Besuchern gleichermaßen gemacht hat. Perfekt für alle, die erschwingliche authentische Thai-Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Schweinebauch",
+          "purpose": "Unverzichtbar für den authentischen Gaeng Hang Lay Geschmack",
+          "substitutes": [
+            "Frischer Schweinebauch",
+            "Getrockneter Schweinebauch",
+            "Schweinebauchpaste"
+          ]
+        },
+        {
+          "name": "Schalotten",
+          "purpose": "Unverzichtbar für den authentischen Gaeng Hang Lay Geschmack",
+          "substitutes": [
+            "Frische Schalotten",
+            "Getrocknete Schalotten",
+            "Schalottenpaste"
+          ]
+        },
+        {
+          "name": "Knoblauch",
+          "purpose": "Unverzichtbar für den authentischen Gaeng Hang Lay Geschmack",
+          "substitutes": [
+            "Frischer Knoblauch",
+            "Getrockneter Knoblauch",
+            "Knoblauchpaste"
+          ]
+        },
+        {
+          "name": "Ingwer",
+          "purpose": "Unverzichtbar für den authentischen Gaeng Hang Lay Geschmack",
+          "substitutes": [
+            "Frischer Ingwer",
+            "Getrockneter Ingwer",
+            "Ingwerpaste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Currypaste anbraten und Kokosmilchreduktion",
+        "steps_overview": "Die Zubereitung von Gaeng Hang Lay erfordert Liebe zum Detail und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die über Generationen weitergegeben wurden, garantieren authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frischen Schweinebauch für das beste Ergebnis",
+          "Passen Sie die Schärfe nach Ihrem Geschmack an",
+          "Nicht zu lange kochen, um die Textur zu erhalten",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng Hang Lay ist seit Generationen ein fester Bestandteil der nordthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht repräsentiert das Herzstück der nordthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Festivals",
+          "Straßenküchen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Hang Lay Klassisch",
+          "description": "Die traditionelle Version wie sie in lokalen Haushalten serviert wird"
+        },
+        {
+          "name": "Gaeng Hang Lay Modern",
+          "description": "Zeitgenössische Variante mit Premium-Zutaten"
+        },
+        {
+          "name": "Vegetarisches Gaeng Hang Lay",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Klebreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "Serviert in einer Schüssel im traditionellen nordthailändischen Stil",
+        "eating_etiquette": "Wird mit Klebreis gegessen, der mit den Fingern gegessen wird, nach nordthailändischer Sitte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale nordthailändische Restaurants",
+          "Authentische Straßenküchen-Stände",
+          "Traditionelle Märkte",
+          "Familiengeführte Lokale"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Morgendliche Frischmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
