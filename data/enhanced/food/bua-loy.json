@@ -369,6 +369,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Bua Loy ist ein beliebtes, herrlich süßes Dessert aus Südthailand, das sanft zum Gaumen ist. Reismehlbällchen in süßer Kokosmilch. Dieses einfache Rezept benötigt etwa 30 Minuten Zubereitungszeit und verkörpert die authentischen Aromen der südthailändischen Küche mit ihren intensiven Gewürzen, Meeresfrüchten und Currys auf Kokosbasis. Die Kombination aus Reismehl, Kokosmilch und Palmzucker ergibt eine harmonische Mischung, die dieses Dessert zu einem Favoriten bei Einheimischen und Besuchern gleichermaßen gemacht hat. Perfekt für alle, die erschwingliche authentische thailändische Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Reismehl",
+          "purpose": "Unverzichtbar für den authentischen Bua Loy-Geschmack",
+          "substitutes": [
+            "Frisches Reismehl",
+            "Getrocknetes Reismehl",
+            "Reismehlpaste"
+          ]
+        },
+        {
+          "name": "Kokosmilch",
+          "purpose": "Unverzichtbar für den authentischen Bua Loy-Geschmack",
+          "substitutes": [
+            "Frische Kokosmilch",
+            "Kokosmilchpulver",
+            "Kokoscreme"
+          ]
+        },
+        {
+          "name": "Palmzucker",
+          "purpose": "Unverzichtbar für den authentischen Bua Loy-Geschmack",
+          "substitutes": [
+            "Frischer Palmzucker",
+            "Kokoszucker",
+            "Brauner Zucker"
+          ]
+        },
+        {
+          "name": "Salz",
+          "purpose": "Unverzichtbar für den authentischen Bua Loy-Geschmack",
+          "substitutes": [
+            "Meersalz",
+            "Feines Salz",
+            "Himalayasalz"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionelle Zubereitung",
+        "steps_overview": "Die Zubereitung von Bua Loy erfordert Liebe zum Detail und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die über Generationen weitergegeben wurden, sorgen für authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frisches Reismehl für das beste Ergebnis",
+          "Passen Sie die Süße nach Ihrem Geschmack an",
+          "Nicht zu lange kochen, um die Textur zu bewahren",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Bua Loy ist seit Generationen ein fester Bestandteil der südthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Dessert verkörpert das Herz der südthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Feste",
+          "Straßenessen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Bua Loy Klassisch",
+          "description": "Die traditionelle Version, wie sie in einheimischen Haushalten serviert wird"
+        },
+        {
+          "name": "Bua Loy Modern",
+          "description": "Zeitgenössische Variante mit Premium-Zutaten"
+        },
+        {
+          "name": "Vegetarisches Bua Loy",
+          "description": "Pflanzliche Version, von Natur aus vegetarisch"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Warm serviert",
+          "Frische Kokosmilch",
+          "Pandanblatt als Garnierung"
+        ],
+        "presentation": "In einer Schale im traditionellen thailändischen Stil serviert",
+        "eating_etiquette": "Mit einem Löffel als warmes Dessert nach thailändischer Sitte genossen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale südthailändische Restaurants",
+          "Authentische Straßenessen-Stände",
+          "Traditionelle Märkte",
+          "Familienbetriebene Lokale"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Morgendliche Frischmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
