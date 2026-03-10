@@ -188,5 +188,112 @@
       "restaurant": "15-40 THB",
       "upscale": "40-80 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Oh Aew (โอ้เอ๋ว) is het meest iconische traditionele dessert van Phuket, een verfrissende Hokkien-Chinese geschaafd-ijs lekkernij die bijna uitsluitend te vinden is in Phuket Old Town. De kenmerkende gelei wordt gemaakt van o-aew zaden — de zaden van de klimvijgplant (Ficus pumila var. awkeotsang). De zaden worden ongeveer een uur geweekt, daarna gemengd met bananensap (dat de natuurlijke geur van de zaden neutraliseert) en calciumsulfaat, en vervolgens ongeveer 7 uur laten opstijven tot een stevige, doorschijnende gelei. Deze gelei wordt in blokjes gesneden en geserveerd op geschaafd ijs met rode bonen, grasgelei (chao kuai) en palmsuikersiroop. Het dessert is nauw verwant aan Taiwans aiyu-gelei (愛玉), aangezien beide afkomstig zijn van dezelfde plantenfamilie. Oh Aew wordt al sinds minstens de late 19e eeuw in Phuket geserveerd, toen Hokkien-Chinese kolonisten arriveerden tijdens de tinmijnboom. Traditionele kraampjes in Phuket Old Town serveren het nog steeds vanaf slechts 15 THB, waardoor het een van de meest betaalbare en authentieke desserts op het eiland is.",
+      "detailed_ingredients": [
+        {
+          "name": "O-Aew zaadgelei",
+          "purpose": "Het kenmerkende bestanddeel — gemaakt van zaden van de klimvijgplant (Ficus pumila var. awkeotsang), geweekt en gestold met calciumsulfaat tot een stevige, doorschijnende gelei",
+          "substitutes": [
+            "Aiyu-gelei (Taiwanees equivalent van dezelfde plantenfamilie)",
+            "Agargelei (andere textuur, gebruikelijk buiten Phuket)"
+          ]
+        },
+        {
+          "name": "Bananensap",
+          "purpose": "Wordt tijdens de bereiding met de zaden gemengd om de natuurlijke geur van de o-aew zaden te neutraliseren",
+          "substitutes": []
+        },
+        {
+          "name": "Rode bonen",
+          "purpose": "Klassieke topping die textuur en milde zoetheid toevoegt, een weerspiegeling van de Chinese desserttraditie",
+          "substitutes": [
+            "Zwarte bonen"
+          ]
+        },
+        {
+          "name": "Grasgelei (Chao Kuai)",
+          "purpose": "Donkere, licht bittere gelei die de zoetheid in balans brengt en kleurcontrast toevoegt",
+          "substitutes": []
+        },
+        {
+          "name": "Geschaafd ijs",
+          "purpose": "Zorgt voor het verkoelende element en de luchtige textuur",
+          "substitutes": [
+            "Gemalen ijs (minder luchtig)"
+          ]
+        },
+        {
+          "name": "Palmsuikersiroop",
+          "purpose": "Voegt karamelachtige zoetheid toe; traditionele Phuket-kraampjes gebruiken lokaal gemaakte palmsuiker",
+          "substitutes": [
+            "Suikersiroop",
+            "Kokossuikersiroop"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Zaden weken, gelei laten stollen met calciumsulfaat, daarna assembleren met geschaafd ijs",
+        "steps_overview": "Het maken van Oh Aew is een tijdrovend proces. De o-aew zaden (van de klimvijgplant) worden ongeveer 1 uur in water geweekt tot ze een gel afgeven. De gel wordt vervolgens gemengd met bananensap om de natuurlijke geur van de zaden te neutraliseren, en calciumsulfaat wordt toegevoegd als stollingsmiddel. Dit mengsel wordt ongeveer 7 uur laten stollen tot het stevig is. De resulterende doorschijnende gelei wordt in blokjes gesneden. Om te serveren worden de geleiblokjes in een kom gedaan met geschaafd ijs, rode bonen, grasgelei en afgetopt met palmsuikersiroop.",
+        "cooking_tips": [
+          "Week de zaden volledig minstens 1 uur om maximale gel vrij te maken",
+          "Bananensap is essentieel om de onaangename geur van de zaden te verwijderen",
+          "De verhouding calciumsulfaat moet precies zijn — te veel maakt de gelei rubberachtig",
+          "Laat de volledige 7 uur stollen; haasten levert zwakke gelei op",
+          "Schaaf het ijs pas vlak voor het serveren voor de beste textuur",
+          "Gebruik natuurlijke kleurstof van pandan of blauwe vlinderbloemthee voor gekleurde geleivarianten"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Oh Aew werd geïntroduceerd in Phuket door Hokkien-Chinese kolonisten die arriveerden tijdens het tinmijntijdperk in het midden van de 19e eeuw. De naam is afgeleid van het Hokkien-woord 'ò-giô' (薁蕘), verwijzend naar de klimvijgplant waarvan de zaden worden gebruikt om de gelei te maken. Het dessert is nauw verwant aan Taiwans aiyu-gelei (愛玉冰), aangezien beide zaden gebruiken van de Ficus pumila-familie. Door de generaties heen ontwikkelde de Phuket-versie een eigen identiteit met de toevoeging van lokale toppings zoals rode bonen en grasgelei.",
+        "cultural_importance": "Oh Aew is een levend symbool van Phukets Peranakan (Baba-Nyonya) erfgoed — de unieke cultuur ontstaan uit Chinese kolonisten die trouwden met lokale Thaise en Maleisische gemeenschappen. Het dessert is bijna onmogelijk te vinden buiten Phuket, wat het een echte regionale specialiteit maakt. Het weerspiegelt de Hokkien-Chinese culinaire tradities die de voedselcultuur van Phuket Old Town hebben gevormd, naast andere gerechten van Hokkien-oorsprong zoals Hokkien mee en mee hun.",
+        "traditional_occasions": [
+          "Phuket Vegetarisch Festival (เทศกาลกินเจ) — geserveerd als plantaardig traktatie",
+          "Middagverfrissing in de tropische hitte van Phuket",
+          "Phuket Old Town Sunday Walking Street markt",
+          "Tussendoortje voor schoolkinderen na school nabij Dibuk Road"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Oh Aew Boran (Traditioneel)",
+          "description": "De klassieke versie met o-aew zaadgelei, rode bonen, grasgelei, geschaafd ijs en palmsuikersiroop. Te vinden bij traditionele kraampjes zoals Oh Ew Paelee."
+        },
+        {
+          "name": "Oh Aew Nam Kathi",
+          "description": "Versie met toegevoegde kokosmelk of kokosroom voor extra rijkheid, populair bij sommige marktkramen."
+        },
+        {
+          "name": "Oh Aew Modern/Creatief",
+          "description": "Café-stijl versies met extra toppings zoals taro, zoete aardappel of fruit. Te vinden bij moderne cafés zoals Cafe'in nabij Thai Hua Museum."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Rode bonen (standaard topping)",
+          "Grasgelei / chao kuai (standaard topping)",
+          "Palmsuikersiroop",
+          "Kokosmelk (optioneel, in Nam Kathi-variant)"
+        ],
+        "presentation": "Geserveerd in een kom of beker met geschaafd ijs bovenop, gelei en bonen zichtbaar door het ijs",
+        "eating_etiquette": "Voorzichtig mengen voor het eten om de siroop gelijkmatig te verdelen, het beste te genieten wanneer het ijs nog luchtig is en niet is gesmolten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Oh Ew Paelee (โอ้เอ๋ว แป๊ะหลี) — Thanon Dibuk, Soi Soon Uthit, Phuket Old Town (15 THB)",
+          "Cafe'in — 24 Krabi Road, nabij Thai Hua Museum, Phuket Old Town (40-80 THB)",
+          "Lock Tien Food Court — Dibuk Road kruising, Phuket Old Town (15-30 THB)",
+          "Cham Cha Market — Ranong Road, Phuket Old Town (15-25 THB)"
+        ],
+        "street_food_areas": [
+          "Phuket Old Town (Thalang Road, Dibuk Road, Krabi Road)",
+          "Sunday Walking Street Market (Thalang Road)",
+          "Lock Tien Food Court-gebied"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }
