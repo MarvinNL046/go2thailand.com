@@ -369,6 +369,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Nam Prik Goong Siap ist ein beliebtes deftiges und schmackhaftes Hauptgericht aus Südthailand, das feurig und kräftig ist. Ein scharfer Dip mit geräucherten getrockneten Garnelen. Dieses einfache Rezept benötigt etwa 20 Minuten Zubereitungszeit und repräsentiert die authentischen Aromen der südthailändischen Küche, die sich durch intensive Gewürze, Meeresfrüchte und Currys auf Kokosbasis auszeichnet. Die Kombination aus getrockneten Garnelen, Chili und Knoblauch ergibt eine harmonische Mischung, die dieses Gericht sowohl bei Einheimischen als auch bei Besuchern zum Favoriten gemacht hat. Perfekt für alle, die erschwingliche authentische thailändische Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Getrocknete Garnelen",
+          "purpose": "Unverzichtbar für den authentischen Nam Prik Goong Siap Geschmack",
+          "substitutes": [
+            "Frische getrocknete Garnelen",
+            "Garnelenpaste",
+            "Getrockneter Fisch"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Unverzichtbar für den authentischen Nam Prik Goong Siap Geschmack",
+          "substitutes": [
+            "Frische Chili",
+            "Getrocknete Chili",
+            "Chilipaste"
+          ]
+        },
+        {
+          "name": "Knoblauch",
+          "purpose": "Unverzichtbar für den authentischen Nam Prik Goong Siap Geschmack",
+          "substitutes": [
+            "Frischer Knoblauch",
+            "Getrockneter Knoblauch",
+            "Knoblauchpaste"
+          ]
+        },
+        {
+          "name": "Schalotten",
+          "purpose": "Unverzichtbar für den authentischen Nam Prik Goong Siap Geschmack",
+          "substitutes": [
+            "Frische Schalotten",
+            "Getrocknete Schalotten",
+            "Rote Zwiebel"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stampfen und Mischen",
+        "steps_overview": "Die Zubereitung von Nam Prik Goong Siap erfordert Liebe zum Detail und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die von Generation zu Generation weitergegeben werden, garantieren einen authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frische getrocknete Garnelen für das beste Ergebnis",
+          "Passen Sie die Schärfe nach Ihrem Geschmack an",
+          "Nicht zu lange kochen, um die Textur zu erhalten",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Goong Siap ist seit Generationen ein fester Bestandteil der südthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht repräsentiert das Herz der südthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Feste",
+          "Straßenessen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Goong Siap Klassisch",
+          "description": "Die traditionelle Version, wie sie in einheimischen Haushalten serviert wird"
+        },
+        {
+          "name": "Nam Prik Goong Siap Modern",
+          "description": "Zeitgemäße Variante mit Premium-Zutaten"
+        },
+        {
+          "name": "Vegetarisches Nam Prik Goong Siap",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "Auf einem Teller im traditionellen südthailändischen Stil serviert",
+        "eating_etiquette": "Wird nach thailändischer Sitte mit Gabel und Löffel gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale südthailändische Restaurants",
+          "Authentische Straßenessen-Stände",
+          "Traditionelle Märkte",
+          "Familienbetriebe"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Frische Morgenmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
