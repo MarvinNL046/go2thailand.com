@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 443
+    "completed": 444
   },
   "queue": [
     {
@@ -3560,8 +3560,9 @@
       "type": "top10",
       "file": "data/top10/nong-khai-attractions.json",
       "locale": "de",
-      "status": "pending",
-      "priority": 11
+      "status": "completed",
+      "priority": 11,
+      "completedAt": "2026-03-10T00:00:00.000Z"
     },
     {
       "type": "top10",
