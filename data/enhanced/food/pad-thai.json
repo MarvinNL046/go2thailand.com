@@ -275,6 +275,102 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Pad Thai est le plat le plus emblématique de Thaïlande, une harmonie parfaite de saveurs sucrées, acides et salées enveloppées autour de nouilles de riz soyeuses. Né d'une campagne nationaliste des années 1930, ce plat de nouilles sautées est devenu l'ambassadeur mondial de la cuisine thaïlandaise. Le secret réside dans la sauce à base de tamarin et le wok hei (souffle du wok) qui ne vient que d'une cuisson experte à haute température.",
+      "detailed_ingredients": [
+        {
+          "name": "Nouilles de riz (Sen Lek)",
+          "purpose": "La base — des nouilles de riz plates qui absorbent toutes les saveurs",
+          "substitutes": [
+            "Nouilles de riz fraîches",
+            "Linguine (en cas d'urgence)",
+            "Nouilles de courgette pour une version pauvre en glucides"
+          ]
+        },
+        {
+          "name": "Pâte de tamarin",
+          "purpose": "Apporte la saveur aigre-douce caractéristique qui définit le Pad Thai authentique",
+          "substitutes": [
+            "Jus de citron vert avec sucre brun",
+            "Vinaigre de riz avec sirop de dattes"
+          ]
+        },
+        {
+          "name": "Sucre de palme",
+          "purpose": "Ajoute une douceur caramélisée qui équilibre l'acidité du tamarin",
+          "substitutes": [
+            "Sucre brun",
+            "Sucre de coco",
+            "Sucre blanc avec mélasse"
+          ]
+        },
+        {
+          "name": "Crevettes séchées",
+          "purpose": "Ajoute une profondeur umami et une saveur authentique",
+          "substitutes": [
+            "Sauce de poisson (augmenter la quantité)",
+            "Pâte d'anchois",
+            "Pâte de miso pour la version végétarienne"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sauté au wok avec un séquençage précis",
+        "steps_overview": "Le Pad Thai est entièrement une question de timing et de technique. Chaque ingrédient entre dans le wok au moment précis. Les nouilles doivent être tendres mais pas molles, l'œuf doit être tissé à travers, et le tout doit être retourné avec assez de force pour mélanger mais assez de délicatesse pour ne pas casser les nouilles.",
+        "cooking_tips": [
+          "Trempez les nouilles dans de l'eau à température ambiante, pas chaude — cela évite qu'elles deviennent pâteuses",
+          "Gardez les ingrédients constamment en mouvement dans le wok",
+          "Poussez les ingrédients sur les côtés du wok pour créer des zones de cuisson",
+          "La sauce doit légèrement caraméliser sur les nouilles",
+          "Ajoutez les germes de soja tout à la fin pour le croquant"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Créé dans les années 1930 dans le cadre de la campagne de construction nationale du Premier ministre Plaek Phibunsongkhram. Il voulait un plat national qui unifierait la Thaïlande et réduirait la consommation de riz pendant la Seconde Guerre mondiale. Le nom signifie littéralement 'sauté à la thaïlandaise'.",
+        "cultural_importance": "Le Pad Thai représente la diplomatie culinaire thaïlandaise. C'est souvent le premier plat thaïlandais que les étrangers goûtent et il est devenu synonyme de cuisine thaïlandaise dans le monde entier. En Thaïlande, la qualité d'un cuisinier est souvent jugée à son Pad Thai.",
+        "traditional_occasions": [
+          "Incontournable de la cuisine de rue",
+          "En-cas de fin de soirée",
+          "Nourriture de festival",
+          "Introduction touristique à la cuisine thaïlandaise"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Thai Goong Sod",
+          "description": "Version aux crevettes fraîches — la variante traditionnelle la plus luxueuse"
+        },
+        {
+          "name": "Pad Thai Woonsen",
+          "description": "Préparé avec des vermicelles de verre au lieu de nouilles de riz"
+        },
+        {
+          "name": "Pad Thai Ho Kai",
+          "description": "Enveloppé dans une fine omelette — présentation de style restaurant"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais"
+        ],
+        "presentation": "Servi chaud dans le style traditionnel thaïlandais",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) — Le légendaire 'Roi du Pad Thai'",
+          "Pad Thai Fai Ta Lu (Bangkok) — Célèbre pour son wok hei",
+          "Baan Phadthai (Bangkok) — Interprétations haut de gamme"
+        ],
+        "street_food_areas": [
+          "Chinatown Bangkok — Essayez les vendeurs près de Wat Traimit",
+          "Khao San Road — Versions adaptées aux touristes",
+          "Or Tor Kor Market — Ingrédients de haute qualité"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
