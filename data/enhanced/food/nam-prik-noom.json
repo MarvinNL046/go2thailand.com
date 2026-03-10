@@ -272,6 +272,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Nam Prik Noom est un plat principal copieux et savoureux apprécié du nord de la Thaïlande, avec une agréable pointe de piquant. Une sauce au piment vert grillé accompagnée de légumes grillés. Cette recette facile nécessite environ 25 minutes de préparation et représente les saveurs authentiques de la cuisine du nord de la Thaïlande, caractérisée par des saveurs plus douces, du riz gluant et des herbes. La combinaison de piment vert, d'ail et d'échalotes crée un mélange harmonieux qui a fait de ce plat un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à petit prix.",
+      "detailed_ingredients": [
+        {
+          "name": "Piment vert",
+          "purpose": "Essentiel pour la saveur authentique du Nam Prik Noom",
+          "substitutes": [
+            "Piment vert frais",
+            "Piment vert séché",
+            "Pâte de piment vert"
+          ]
+        },
+        {
+          "name": "Ail",
+          "purpose": "Essentiel pour la saveur authentique du Nam Prik Noom",
+          "substitutes": [
+            "Ail frais",
+            "Ail séché",
+            "Pâte d'ail"
+          ]
+        },
+        {
+          "name": "Échalotes",
+          "purpose": "Essentiel pour la saveur authentique du Nam Prik Noom",
+          "substitutes": [
+            "Échalotes fraîches",
+            "Échalotes séchées",
+            "Oignon rouge"
+          ]
+        },
+        {
+          "name": "Tomates",
+          "purpose": "Essentiel pour la saveur authentique du Nam Prik Noom",
+          "substitutes": [
+            "Tomates fraîches",
+            "Tomates séchées",
+            "Purée de tomates"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillage et pilonnage",
+        "steps_overview": "La préparation du Nam Prik Noom nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez du piment vert frais pour un meilleur résultat",
+          "Ajustez le niveau de piquant selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Nam Prik Noom est un pilier de la cuisine du nord de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce plat représente le cœur de la cuisine du nord de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Noom Classique",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Nam Prik Noom Moderne",
+          "description": "Version contemporaine avec des ingrédients premium"
+        },
+        {
+          "name": "Nam Prik Noom Végétarien",
+          "description": "Version végétale avec du tofu ou des champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais",
+          "Herbes thaïlandaises"
+        ],
+        "presentation": "Servi sur une assiette dans le style traditionnel du nord de la Thaïlande",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère selon la coutume thaïlandaise"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Restaurants locaux du nord de la Thaïlande",
+          "Stands de cuisine de rue authentiques",
+          "Marchés traditionnels",
+          "Restaurants familiaux"
+        ],
+        "street_food_areas": [
+          "Marchés de nuit",
+          "Marchés frais du matin",
+          "Food courts locaux"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
