@@ -365,6 +365,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Gai Tod Hat Yai ist ein beliebtes deftiges und schmackhaftes Hauptgericht aus Südthailand mit einer dezenten Wärme. Gebratenes Hähnchen im Hat Yai Stil mit knusprigen Schalotten. Dieses Rezept mittlerer Schwierigkeit benötigt etwa 40 Minuten Zubereitungszeit und repräsentiert die authentischen Aromen der südthailändischen Küche, die sich durch intensive Gewürze, Meeresfrüchte und Currys auf Kokosbasis auszeichnet. Die Kombination aus Hähnchen, Schalotten und Knoblauch ergibt eine harmonische Mischung, die dieses Gericht zum Liebling bei Einheimischen und Besuchern gleichermaßen gemacht hat. Perfekt für alle, die erschwingliche authentische Thai-Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Hähnchen",
+          "purpose": "Unverzichtbar für den authentischen Gai Tod Hat Yai Geschmack",
+          "substitutes": [
+            "Frisches Hähnchen",
+            "Getrocknetes Hähnchen",
+            "Hähnchenpaste"
+          ]
+        },
+        {
+          "name": "Schalotten",
+          "purpose": "Unverzichtbar für den authentischen Gai Tod Hat Yai Geschmack",
+          "substitutes": [
+            "Frische Schalotten",
+            "Getrocknete Schalotten",
+            "Schalottenpaste"
+          ]
+        },
+        {
+          "name": "Knoblauch",
+          "purpose": "Unverzichtbar für den authentischen Gai Tod Hat Yai Geschmack",
+          "substitutes": [
+            "Frischer Knoblauch",
+            "Getrockneter Knoblauch",
+            "Knoblauchpaste"
+          ]
+        },
+        {
+          "name": "Weißer Pfeffer",
+          "purpose": "Unverzichtbar für den authentischen Gai Tod Hat Yai Geschmack",
+          "substitutes": [
+            "Frischer weißer Pfeffer",
+            "Gemahlener weißer Pfeffer",
+            "Weiße Pfefferkörner"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Frittieren und Braten",
+        "steps_overview": "Die Zubereitung von Gai Tod Hat Yai erfordert Liebe zum Detail und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die über Generationen weitergegeben wurden, garantieren authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frisches Hähnchen für das beste Ergebnis",
+          "Passen Sie die Schärfe nach Ihrem Geschmack an",
+          "Nicht zu lange kochen, um die Textur zu erhalten",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gai Tod Hat Yai ist seit Generationen ein fester Bestandteil der südthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht repräsentiert das Herzstück der südthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Festivals",
+          "Straßenküchen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gai Tod Hat Yai Klassisch",
+          "description": "Die traditionelle Version wie sie in lokalen Haushalten serviert wird"
+        },
+        {
+          "name": "Gai Tod Hat Yai Modern",
+          "description": "Zeitgenössische Variante mit Premium-Zutaten"
+        },
+        {
+          "name": "Vegetarisches Gai Tod Hat Yai",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "Serviert auf einem Teller im traditionellen südthailändischen Stil",
+        "eating_etiquette": "Wird mit Gabel und Löffel nach thailändischer Sitte gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale südthailändische Restaurants",
+          "Authentische Straßenküchen-Stände",
+          "Traditionelle Märkte",
+          "Familiengeführte Lokale"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Morgendliche Frischmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
