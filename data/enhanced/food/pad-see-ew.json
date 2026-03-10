@@ -247,6 +247,93 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Pad See Ew est le cousin plus sombre et plus fumé du Pad Thai — un sauté d'influence chinoise qui met en valeur l'art du wok hei (souffle du wok). Ces nouilles de riz soyeuses sont embrassées par les flammes, créant des bords légèrement carbonisés tandis que la sauce soja foncée sucrée caramélise à la perfection. C'est le plat réconfortant par excellence — des ingrédients simples transformés par la technique et une chaleur ardente.",
+      "detailed_ingredients": [
+        {
+          "name": "Nouilles de riz larges fraîches",
+          "purpose": "Large surface pour capter le wok hei et absorber la sauce",
+          "substitutes": [
+            "Nouilles de riz larges séchées",
+            "Nouilles ho fun fraîches",
+            "Fettuccine (en cas d'urgence uniquement)"
+          ]
+        },
+        {
+          "name": "Sauce soja foncée sucrée",
+          "purpose": "Crée la couleur foncée caractéristique et la saveur sucrée-salée",
+          "substitutes": [
+            "Sauce soja ordinaire avec sucre de palme",
+            "Kecap manis"
+          ]
+        },
+        {
+          "name": "Brocoli chinois",
+          "purpose": "Ajoute une légère amertume et du croquant pour équilibrer la richesse",
+          "substitutes": [
+            "Brocoli ordinaire",
+            "Bok choy",
+            "Chou frisé"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Saisie à feu vif au wok",
+        "steps_overview": "Le wok doit être brûlant — si chaud que cela semble dangereux. Les nouilles sont ajoutées en petites portions, légèrement carbonisées avant d'être retournées. L'ensemble du processus prend moins de 3 minutes mais nécessite un mouvement constant et un timing au dixième de seconde.",
+        "cooking_tips": [
+          "Si votre wok ne fume pas, il n'est pas assez chaud",
+          "Travaillez en petites portions — trop remplir tue le wok hei",
+          "Laissez les nouilles reposer et carboniser avant le premier retournement",
+          "Gardez les ingrédients en mouvement avec un geste de cuillère",
+          "Si ce n'est pas légèrement fumé, vous ne le faites pas correctement"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Apporté par les immigrants chinois Teochew en Thaïlande. Le plat a évolué à partir du chow fun chinois, adapté avec des ingrédients thaïlandais et un profil de saveur plus sucré pour correspondre aux goûts locaux.",
+        "cultural_importance": "Le Pad See Ew représente la fusion thaï-chinoise qui définit une grande partie de la culture culinaire de Bangkok. C'est le carburant de la classe ouvrière — bon marché, rassasiant et disponible 24h/24 dans les chariots de rue.",
+        "traditional_occasions": [
+          "Nourriture de fin de soirée après avoir bu",
+          "Déjeuner rapide pour les travailleurs",
+          "Plat réconfortant pour les Sino-Thaïlandais nostalgiques",
+          "Incontournable de la cuisine de rue"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad See Ew Moo",
+          "description": "Version au porc — la plus courante et traditionnelle"
+        },
+        {
+          "name": "Pad See Ew Talay",
+          "description": "Version aux fruits de mer avec calamars et crevettes"
+        },
+        {
+          "name": "Pad See Ew Sen Yai",
+          "description": "Nouilles extra-larges pour un wok hei maximal"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais"
+        ],
+        "presentation": "Servi chaud dans le style traditionnel thaïlandais",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — cuisine de rue étoilée Michelin",
+          "Soei Restaurant (Bangkok) — perfection à l'ancienne",
+          "N'importe quelle échoppe avec un brûleur à wok surpuissant"
+        ],
+        "street_food_areas": [
+          "Chinatown après la tombée de la nuit",
+          "Stands de Silom Soi 20",
+          "Vendeurs de rue de Victory Monument"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
