@@ -340,6 +340,93 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Khao Pad (Thailändischer Gebratener Reis) ist das ultimative thailändische Wohlfühlessen — der Reis von gestern verwandelt in die Zufriedenheit von heute. Im Gegensatz zu chinesischem Bratreis ist die thailändische Version leichter, aromatischer und wird oft mit frischen Beilagen serviert. Jedes Korn sollte einzeln und leicht mit Sauce überzogen sein — die perfekte Balance aus Wok Hei und frischen Aromen.",
+      "detailed_ingredients": [
+        {
+          "name": "Einen Tag alter Jasminreis",
+          "purpose": "Getrockneter Reis brät besser und klumpt nicht",
+          "substitutes": [
+            "Frisch gekochter Reis, ausgebreitet und abgekühlt",
+            "Jeder Langkornreis",
+            "Blumenkohlreis für Low-Carb"
+          ]
+        },
+        {
+          "name": "Thailändische helle Sojasauce",
+          "purpose": "Leichter als chinesische Sojasauce, salzt ohne Farbe hinzuzufügen",
+          "substitutes": [
+            "Helle Sojasauce",
+            "Verdünnte Fischsauce",
+            "Tamari für glutenfreie Variante"
+          ]
+        },
+        {
+          "name": "Weißer Pfeffer",
+          "purpose": "Typisch thailändisches Gewürz, das Schärfe ohne Farbe hinzufügt",
+          "substitutes": [
+            "Schwarzer Pfeffer (verändert das Aussehen)",
+            "Gemahlener Szechuan-Pfeffer"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Braten bei hoher Hitze im Wok mit richtiger Reisvorbereitung",
+        "steps_overview": "Der Erfolg hängt von der Vorbereitung ab — der Reis muss trocken sein, der Wok heiß und die Zutaten bereit. Alles geht schnell, der Reis wird zuletzt hinzugefügt und ständig gewendet, um Anbrennen zu verhindern und gleichzeitig ein rauchiges Aroma zu entwickeln.",
+        "cooking_tips": [
+          "Reisklumpen vor dem Braten auflösen",
+          "Die höchstmögliche Hitze verwenden",
+          "Den Reis ständig in Bewegung halten",
+          "Saucen am Wokrand hinzufügen, nicht direkt auf den Reis",
+          "Mit frischer Gurke und Limette abschließen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Entstanden aus dem Bratreis chinesischer Einwanderer, aber an den thailändischen Geschmack angepasst mit leichterer Würzung und frischen Beilagen. Wurde populär als Möglichkeit, übrig gebliebenen Reis in thailändischen Haushalten zu verwerten.",
+        "cultural_importance": "Khao Pad ist Thailands Alltagsheld — überall zu finden, von Straßenkarren bis zu Hotel-Frühstücksbuffets. Es verkörpert thailändische Praktikabilität und die Fähigkeit, aus einfachen Zutaten etwas Köstliches zu zaubern.",
+        "traditional_occasions": [
+          "Schnelles Frühstück",
+          "Spätes Straßenessen",
+          "Reste-Verwandlung",
+          "Lieblingsgericht der Kinder"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Poo",
+          "description": "Gebratener Reis mit Krabbe — die Luxusvariante"
+        },
+        {
+          "name": "Khao Pad American",
+          "description": "Mit Ketchup, Hotdogs und Rosinen — die thailändische Interpretation von 'amerikanischem' Essen"
+        },
+        {
+          "name": "Khao Pad Sapparot",
+          "description": "Serviert in einer Ananas mit Cashewnüssen — Touristenliebling"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse"
+        ],
+        "presentation": "Heiß serviert im traditionellen thailändischen Stil",
+        "eating_etiquette": "Mit Gabel und Löffel genossen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) — Berühmt für Pad Thai, aber auch großartiger Bratreis",
+          "Raan Jay Fai (Bangkok) — Krabben-Bratreis, der das Warten lohnt",
+          "Jeder Straßenverkäufer mit einem gut eingebrannten Wok"
+        ],
+        "street_food_areas": [
+          "Buchstäblich jede Straßenecke in Thailand",
+          "Nachtmärkte überall",
+          "24-Stunden-Lokale in der Nähe von Krankenhäusern und Universitäten"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
