@@ -301,6 +301,117 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Pad Krapow est le plat réconfortant par excellence de la Thaïlande — un sauté ardent et aromatique qui équilibre parfaitement la puissance poivrée du basilic sacré avec de la viande hachée savoureuse. Ce plat ultra-rapide est un incontournable des stands de rue et des restaurants à travers toute la Thaïlande, apprécié pour ses saveurs audacieuses et sa simplicité satisfaisante. La magie réside dans le basilic sacré (bai krapow), qui libère son arôme distinctif rappelant le clou de girofle lorsqu'il touche le wok brûlant, créant un plat immédiatement reconnaissable rien qu'à son parfum enivrant.",
+      "detailed_ingredients": [
+        {
+          "name": "Basilic sacré (Bai Krapow)",
+          "purpose": "L'ingrédient vedette qui donne à ce plat son nom et sa saveur distinctive poivrée rappelant le clou de girofle",
+          "substitutes": [
+            "Basilic thaï (moins authentique mais acceptable)",
+            "Basilic italien mélangé à de la menthe (substitut de secours)"
+          ]
+        },
+        {
+          "name": "Piments thaï (Bird's Eye)",
+          "purpose": "Apporte la chaleur essentielle qui rend ce plat authentiquement épicé",
+          "substitutes": [
+            "Piments serrano",
+            "Piments rouges frais",
+            "Flocons de piment (ajuster la quantité)"
+          ]
+        },
+        {
+          "name": "Porc ou poulet haché",
+          "purpose": "Base protéinée traditionnelle qui absorbe toutes les saveurs",
+          "substitutes": [
+            "Bœuf haché",
+            "Tofu émietté",
+            "Champignons hachés pour la version végétarienne"
+          ]
+        },
+        {
+          "name": "Sauce de poisson",
+          "purpose": "Ajoute une profondeur umami et une saveur thaïlandaise authentique",
+          "substitutes": [
+            "Sauce soja claire avec une pincée de sel",
+            "Sauce végétarienne aux champignons"
+          ]
+        },
+        {
+          "name": "Sauce soja foncée",
+          "purpose": "Apporte de la couleur et une subtile douceur pour équilibrer le piquant",
+          "substitutes": [
+            "Sauce soja ordinaire avec une touche de mélasse"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sauté à feu vif au wok",
+        "steps_overview": "La clé d'un Pad Krapow parfait est une chaleur extrême et la rapidité. Tout se passe en moins de 5 minutes une fois que vous commencez à cuisiner. Le wok doit être fumant, créant le convoité 'wok hei' (souffle du wok) qui confère au plat sa saveur fumée caractéristique.",
+        "cooking_tips": [
+          "Utilisez la chaleur la plus élevée que votre cuisinière puisse produire — ce plat nécessite un feu intense",
+          "Ayez tous les ingrédients préparés et à portée de main avant de commencer",
+          "Ne faites pas trop cuire le basilic sacré — ajoutez-le tout à la fin pour préserver sa saveur",
+          "La viande doit grésiller violemment lorsqu'elle touche le wok",
+          "Pour une saveur authentique, pilez l'ail et les piments au mortier et pilon",
+          "L'œuf au plat doit avoir des bords croustillants mais un jaune coulant"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Pad Krapow est né de la culture de la cuisine de rue thaïlandaise, où des repas rapides et abordables étaient nécessaires pour les travailleurs pressés. Le plat a gagné en popularité dans les années 1960 avec l'urbanisation croissante et les vendeurs de rue qui avaient besoin de plats pouvant être préparés rapidement sur des brûleurs à gaz portables.",
+        "cultural_importance": "C'est le plat réconfortant incontournable de la Thaïlande, l'équivalent d'un croque-monsieur en France. C'est le plat dont les Thaïlandais rêvent quand ils ont le mal du pays, qu'ils commandent quand ils ont la gueule de bois, et qu'ils apprennent en premier à cuisiner à leurs enfants. L'expression 'pad krapow kai dao' (avec œuf au plat) est aussi thaïlandaise que possible.",
+        "traditional_occasions": [
+          "Cuisine de rue tard le soir",
+          "Déjeuner rapide pour les employés de bureau",
+          "Repas économiques pour étudiants",
+          "Plat réconfortant quand on ne se sent pas bien"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Krapow Moo Krob",
+          "description": "Préparé avec de la poitrine de porc croustillante au lieu de viande hachée pour plus de richesse et de texture"
+        },
+        {
+          "name": "Pad Krapow Talay",
+          "description": "Version aux fruits de mer avec crevettes, calamars et poisson — populaire dans les régions côtières"
+        },
+        {
+          "name": "Pad Krapow Kai",
+          "description": "Version au poulet, souvent préférée par ceux qui recherchent une option plus légère"
+        },
+        {
+          "name": "Pad Krapow Végétarien",
+          "description": "Préparé avec du tofu, des champignons ou des légumes variés, avec une sauce sautée végétarienne"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin (essentiel — ne jamais servir sans)",
+          "Œuf au plat avec jaune coulant (kai dao)",
+          "Tranches de concombre frais",
+          "Sauce de poisson aux piments (prik nam pla)",
+          "Thé glacé thaï bien froid pour combattre le piquant"
+        ],
+        "presentation": "Servi sur une assiette avec le riz d'un côté, le sauté de l'autre, surmonté d'un œuf au plat. Le jaune doit être percé et mélangé avec le riz et la viande.",
+        "eating_etiquette": "Se mange avec une cuillère dans la main droite et une fourchette dans la main gauche. La fourchette sert à pousser la nourriture sur la cuillère. Percer le jaune d'œuf et le laisser napper le riz fait partie de l'expérience."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — version étoilée Michelin",
+          "Soei Restaurant (Bangkok) — favori des locaux",
+          "N'importe quel stand de rue avec une file d'attente de locaux"
+        ],
+        "street_food_areas": [
+          "Chinatown (Yaowarat), Bangkok",
+          "Quartier de Victory Monument, Bangkok",
+          "Chiang Mai Night Bazaar",
+          "Phuket Weekend Market"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
