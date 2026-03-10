@@ -365,6 +365,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Moo Palo ist ein beliebtes deftiges und sättigendes Hauptgericht aus Nordthailand mit einer dezenten Wärme. Schweinebauch geschmort in süßer Sojasauce mit Eiern. Dieses Rezept mittlerer Schwierigkeit benötigt etwa 90 Minuten Zubereitungszeit und repräsentiert die authentischen Aromen der nordthailändischen Küche, die sich durch mildere Geschmäcker, Klebreis und Kräuter auszeichnet. Die Kombination aus Schweinebauch, Eiern und Sojasauce ergibt eine harmonische Mischung, die dieses Gericht sowohl bei Einheimischen als auch bei Besuchern zum Favoriten gemacht hat. Perfekt für alle, die erschwingliche authentische thailändische Küche suchen.",
+      "detailed_ingredients": [
+        {
+          "name": "Schweinebauch",
+          "purpose": "Unverzichtbar für den authentischen Moo Palo Geschmack",
+          "substitutes": [
+            "Frischer Schweinebauch",
+            "Getrockneter Schweinebauch",
+            "Schweineschulter"
+          ]
+        },
+        {
+          "name": "Eier",
+          "purpose": "Unverzichtbar für den authentischen Moo Palo Geschmack",
+          "substitutes": [
+            "Frische Eier",
+            "Wachteleier",
+            "Tofu (für die vegetarische Version)"
+          ]
+        },
+        {
+          "name": "Sojasauce",
+          "purpose": "Unverzichtbar für den authentischen Moo Palo Geschmack",
+          "substitutes": [
+            "Helle Sojasauce",
+            "Dunkle Sojasauce",
+            "Ketjap Manis"
+          ]
+        },
+        {
+          "name": "Palmzucker",
+          "purpose": "Unverzichtbar für den authentischen Moo Palo Geschmack",
+          "substitutes": [
+            "Frischer Palmzucker",
+            "Kokoszucker",
+            "Brauner Zucker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langsames Schmoren",
+        "steps_overview": "Die Zubereitung von Moo Palo erfordert Liebe zum Detail und gutes Timing. Der Schlüssel liegt darin, alle Aromen auszubalancieren und gleichzeitig die Textur jeder Zutat zu bewahren. Traditionelle Methoden, die von Generation zu Generation weitergegeben werden, garantieren einen authentischen Geschmack.",
+        "cooking_tips": [
+          "Verwenden Sie frischen Schweinebauch für das beste Ergebnis",
+          "Passen Sie die Schärfe nach Ihrem Geschmack an",
+          "Nicht zu lange kochen, um die Textur zu erhalten",
+          "Vor dem Servieren abschmecken und nachwürzen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Palo ist seit Generationen ein fester Bestandteil der nordthailändischen Küche und spiegelt die einzigartigen kulinarischen Traditionen und lokalen Zutaten der Region wider.",
+        "cultural_importance": "Dieses Gericht repräsentiert das Herz der nordthailändischen Kochkunst und zeigt die Balance und Harmonie, für die die thailändische Küche weltweit berühmt ist.",
+        "traditional_occasions": [
+          "Familientreffen",
+          "Lokale Feste",
+          "Straßenessen-Märkte",
+          "Besondere Feierlichkeiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Palo Klassisch",
+          "description": "Die traditionelle Version, wie sie in einheimischen Haushalten serviert wird"
+        },
+        {
+          "name": "Moo Palo Modern",
+          "description": "Zeitgemäße Variante mit Premium-Zutaten"
+        },
+        {
+          "name": "Vegetarisches Moo Palo",
+          "description": "Pflanzliche Version mit Tofu oder Pilzen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasminreis",
+          "Frisches Gemüse",
+          "Thailändische Kräuter"
+        ],
+        "presentation": "Auf einem Teller im traditionellen nordthailändischen Stil serviert",
+        "eating_etiquette": "Wird nach thailändischer Sitte mit Gabel und Löffel gegessen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale nordthailändische Restaurants",
+          "Authentische Straßenessen-Stände",
+          "Traditionelle Märkte",
+          "Familienbetriebe"
+        ],
+        "street_food_areas": [
+          "Nachtmärkte",
+          "Frische Morgenmärkte",
+          "Lokale Food Courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
