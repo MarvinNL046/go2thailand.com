@@ -268,6 +268,101 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Curry Vert (Gaeng Keow Wan) est le joyau émeraude de la cuisine thaïlandaise — un curry au lait de coco qui équilibre parfaitement la richesse crémeuse et la chaleur herbacée. Contrairement à ses cousins rouge et jaune, le curry vert tire sa couleur et sa saveur des piments verts frais et des herbes, ce qui le rend vif, aromatique et étonnamment complexe. Le nom signifie littéralement « curry vert sucré » mais ne vous y trompez pas — il est vraiment piquant.",
+      "detailed_ingredients": [
+        {
+          "name": "Pâte de curry vert",
+          "purpose": "L'âme du plat — herbes fraîches et piments broyés ensemble",
+          "substitutes": [
+            "Pâte du commerce (marque Mae Ploy)",
+            "Faire soi-même (meilleure option)"
+          ]
+        },
+        {
+          "name": "Aubergine thaïlandaise",
+          "purpose": "Ajoute de la texture et absorbe les saveurs du curry",
+          "substitutes": [
+            "Aubergine classique coupée plus petite",
+            "Courgette",
+            "Haricots verts"
+          ]
+        },
+        {
+          "name": "Basilic thaïlandais",
+          "purpose": "Touche aromatique fraîche qui illumine le curry riche",
+          "substitutes": [
+            "Basilic doux",
+            "Basilic sacré",
+            "Menthe (différent mais ça fonctionne)"
+          ]
+        },
+        {
+          "name": "Crème de coco",
+          "purpose": "Crée la base riche et tempère la chaleur",
+          "substitutes": [
+            "Lait de coco entier",
+            "Crème de noix de cajou pour une version plus légère"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Friture de la pâte et mijotage lent",
+        "steps_overview": "Le secret est de « craquer » la crème de coco — la chauffer jusqu'à ce que l'huile se sépare, puis faire revenir la pâte de curry dans cette huile. Ce processus de torréfaction est crucial pour développer des saveurs profondes avant d'ajouter les liquides.",
+        "cooking_tips": [
+          "Faites revenir la pâte de curry jusqu'à ce qu'elle soit incroyablement parfumée — c'est essentiel",
+          "Utilisez d'abord la partie épaisse du lait de coco",
+          "Ne faites pas bouillir vigoureusement — un mijotage doux préserve la couleur",
+          "Ajoutez les légumes selon leur temps de cuisson — les plus durs en premier",
+          "Ajoutez le basilic hors du feu"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Développé dans les cuisines royales du centre de la Thaïlande, le curry vert représente la sophistication de la cuisine palatiale. L'utilisation d'herbes fraîches au lieu d'épices séchées témoigne de l'abondance des herbes en Thaïlande.",
+        "cultural_importance": "Le curry vert est un test du savoir-faire d'un cuisinier — équilibrer la chaleur, la douceur et le sel tout en maintenant la couleur vert vif. Il est considéré comme plus raffiné que le curry rouge et est souvent servi lors de dîners importants.",
+        "traditional_occasions": [
+          "Festivals bouddhistes",
+          "Cérémonies royales",
+          "Banquets de mariage",
+          "Accueil d'invités d'honneur"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Keow Wan Gai",
+          "description": "Version classique au poulet avec aubergine thaïlandaise"
+        },
+        {
+          "name": "Gaeng Keow Wan Luk Chin Pla",
+          "description": "Version aux boulettes de poisson — variante populaire de cuisine de rue"
+        },
+        {
+          "name": "Curry Vert Végétarien",
+          "description": "Avec du tofu et des légumes variés, sans sauce de poisson"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Riz au jasmin",
+          "Légumes frais"
+        ],
+        "presentation": "Servi chaud dans le style traditionnel thaïlandais",
+        "eating_etiquette": "Dégusté avec une fourchette et une cuillère"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Krua Apsorn (Bangkok) — Cuisine royale thaïlandaise",
+          "The Local (Bangkok) — Recettes traditionnelles",
+          "Tout restaurant thaï-musulman pour des versions uniques"
+        ],
+        "street_food_areas": [
+          "Food court du marché Or Tor Kor",
+          "Marché de nuit de Saphan Phut",
+          "Cantines universitaires pour des versions authentiques bon marché"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
