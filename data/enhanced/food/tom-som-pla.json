@@ -172,5 +172,105 @@
       "market_stall": "40-60 THB",
       "restaurant": "60-100 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Tom Som Pla is een geliefde zielsverwarmende soep uit Zuid-Thailand met een aangename pittige kick. Zure en pittige vissoep met kurkuma. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curries op basis van kokosnoot. De combinatie van vis, kurkuma en tamarinde creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Vis",
+          "purpose": "Essentieel voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "Vispasta"
+          ]
+        },
+        {
+          "name": "Kurkuma",
+          "purpose": "Essentieel voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkumapasta"
+          ]
+        },
+        {
+          "name": "Tamarinde",
+          "purpose": "Essentieel voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse tamarinde",
+            "Gedroogde tamarinde",
+            "Tamarindepasta"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Essentieel voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chilipasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Tom Som Pla vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse vis voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Som Pla is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Som Pla Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Tom Som Pla Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Tom Som Pla",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }

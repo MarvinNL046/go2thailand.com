@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1316,
-    "completed": 184
+    "completed": 185
   },
   "queue": [
     {
@@ -1481,9 +1481,10 @@
     {
       "type": "food",
       "file": "data/enhanced/food/tom-som-pla.json",
-      "status": "pending",
+      "status": "completed",
       "priority": 4,
-      "locale": "nl"
+      "locale": "nl",
+      "completedAt": "2026-03-10"
     },
     {
       "type": "food",
