@@ -271,6 +271,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Bua Loy est un dessert délicieux et apprécié du sud de la Thaïlande, doux pour le palais. Des boulettes de farine de riz dans du lait de coco sucré. Cette recette facile nécessite environ 30 minutes de préparation et représente les saveurs authentiques de la cuisine du sud de la Thaïlande, avec ses épices intenses, ses fruits de mer et ses currys à base de coco. La combinaison de farine de riz, de lait de coco et de sucre de palme crée un mélange harmonieux qui a fait de ce dessert un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à petit prix.",
+      "detailed_ingredients": [
+        {
+          "name": "Farine de riz",
+          "purpose": "Essentiel pour la saveur authentique du Bua Loy",
+          "substitutes": [
+            "Farine de riz fraîche",
+            "Farine de riz séchée",
+            "Pâte de farine de riz"
+          ]
+        },
+        {
+          "name": "Lait de coco",
+          "purpose": "Essentiel pour la saveur authentique du Bua Loy",
+          "substitutes": [
+            "Lait de coco frais",
+            "Lait de coco en poudre",
+            "Crème de coco"
+          ]
+        },
+        {
+          "name": "Sucre de palme",
+          "purpose": "Essentiel pour la saveur authentique du Bua Loy",
+          "substitutes": [
+            "Sucre de palme frais",
+            "Sucre de coco",
+            "Sucre brun"
+          ]
+        },
+        {
+          "name": "Sel",
+          "purpose": "Essentiel pour la saveur authentique du Bua Loy",
+          "substitutes": [
+            "Sel de mer",
+            "Sel fin",
+            "Sel de l'Himalaya"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Préparation traditionnelle",
+        "steps_overview": "La préparation du Bua Loy nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez de la farine de riz fraîche pour un meilleur résultat",
+          "Ajustez la douceur selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Bua Loy est un pilier de la cuisine du sud de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce dessert représente le cœur de la cuisine du sud de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Bua Loy Classique",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Bua Loy Moderne",
+          "description": "Version contemporaine avec des ingrédients premium"
+        },
+        {
+          "name": "Bua Loy Végétarien",
+          "description": "Version végétale, naturellement végétarienne"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Servi chaud",
+          "Lait de coco frais",
+          "Feuille de pandan en garniture"
+        ],
+        "presentation": "Servi dans un bol dans le style traditionnel thaïlandais",
+        "eating_etiquette": "Dégusté à la cuillère comme dessert chaud selon la coutume thaïlandaise"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Restaurants locaux du sud de la Thaïlande",
+          "Stands de cuisine de rue authentiques",
+          "Marchés traditionnels",
+          "Restaurants familiaux"
+        ],
+        "street_food_areas": [
+          "Marchés de nuit",
+          "Marchés frais du matin",
+          "Food courts locaux"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
     }
   }
 }
