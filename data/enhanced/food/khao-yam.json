@@ -172,5 +172,105 @@
       "market_stall": "40-60 THB",
       "restaurant": "60-100 THB"
     }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Khao Yam is een geliefde frisse en levendige salade uit Zuid-Thailand met een subtiele warmte. Zuidelijke Thaise rijstsalade met kruiden en kokos. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 30 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van rijst, kokos en kruiden creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Rijst",
+          "purpose": "Essentieel voor de authentieke Khao Yam smaak",
+          "substitutes": [
+            "Jasmijnrijst",
+            "Gekookte rijst",
+            "Kleefrijst"
+          ]
+        },
+        {
+          "name": "Kokos",
+          "purpose": "Essentieel voor de authentieke Khao Yam smaak",
+          "substitutes": [
+            "Verse kokos",
+            "Gedroogde kokos",
+            "Kokosrasp"
+          ]
+        },
+        {
+          "name": "Kruiden",
+          "purpose": "Essentieel voor de authentieke Khao Yam smaak",
+          "substitutes": [
+            "Verse kruiden",
+            "Gedroogde kruiden",
+            "Kruidenpasta"
+          ]
+        },
+        {
+          "name": "Gedroogde garnalen",
+          "purpose": "Essentieel voor de authentieke Khao Yam smaak",
+          "substitutes": [
+            "Verse gedroogde garnalen",
+            "Garnalenvlokken",
+            "Garnalenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Verse bereiding en mengen",
+        "steps_overview": "Het bereiden van Khao Yam vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijst voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Yam is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Yam Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Khao Yam Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Khao Yam",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Thaise kruiden",
+          "Limoen"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    }
   }
 }
