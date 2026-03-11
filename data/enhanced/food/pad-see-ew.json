@@ -421,6 +421,93 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Pad See Ew是Pad Thai更深沉、更烟熏的表亲——一道受中国影响的炒菜，展现了锅气（wok hei）的精妙艺术。丝滑的宽米粉被火焰轻吻，边缘微微焦脆，甜黑酱油焦糖化至完美。这是comfort food的巅峰——简单的食材通过技巧和猛烈的高温升华。",
+      "detailed_ingredients": [
+        {
+          "name": "新鲜宽米粉",
+          "purpose": "宽大的表面积能充分捕捉锅气并吸收酱汁",
+          "substitutes": [
+            "干宽米粉",
+            "新鲜河粉",
+            "意大利宽面（仅限应急）"
+          ]
+        },
+        {
+          "name": "甜黑酱油（老抽）",
+          "purpose": "赋予标志性的深色和甜咸风味",
+          "substitutes": [
+            "普通酱油加棕榈糖",
+            "甜酱油（kecap manis）"
+          ]
+        },
+        {
+          "name": "芥兰（中国芥蓝）",
+          "purpose": "增添微苦和脆感，平衡整体的浓郁口味",
+          "substitutes": [
+            "普通西兰花",
+            "小白菜",
+            "羽衣甘蓝"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "大火爆炒焦化",
+        "steps_overview": "锅必须烧到极烫——烫到看起来危险的程度。米粉分小批加入，让其稍微焦化后再翻炒。整个过程不到3分钟，但需要持续翻动和分秒必争的时机把控。",
+        "cooking_tips": [
+          "如果你的锅没有冒烟，说明还不够热",
+          "分小批炒——锅里太满会杀死锅气",
+          "第一次翻炒前让米粉静置焦化片刻",
+          "用铲起的动作保持食材不断翻动",
+          "如果没有一点烟熏感，说明你做错了"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "由潮州华人移民带入泰国。这道菜从中国的炒河粉演变而来，融入了泰国食材，调整为更甜的口味以迎合当地人的喜好。",
+        "cultural_importance": "Pad See Ew代表了定义曼谷大部分饮食文化的泰中融合风格。这是工薪阶层的能量补给——便宜、管饱，街头推车24小时供应。",
+        "traditional_occasions": [
+          "深夜酒后美食",
+          "工人的快速午餐",
+          "思乡的泰国华人的comfort food",
+          "街头美食经典"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad See Ew Moo",
+          "description": "猪肉版——最常见的传统做法"
+        },
+        {
+          "name": "Pad See Ew Talay",
+          "description": "海鲜版，加入鱿鱼和虾"
+        },
+        {
+          "name": "Pad See Ew Sen Yai",
+          "description": "超宽米粉版，锅气最大化"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米",
+          "新鲜蔬菜"
+        ],
+        "presentation": "趁热以传统泰式风格上桌",
+        "eating_etiquette": "使用叉子和勺子食用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — 米其林星级街头美食",
+          "Soei Restaurant (Bangkok) — 老派完美之作",
+          "任何一家配备喷气式炉灶的排档"
+        ],
+        "street_food_areas": [
+          "入夜后的Chinatown",
+          "Silom Soi 20美食摊位",
+          "Victory Monument街头小贩"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
