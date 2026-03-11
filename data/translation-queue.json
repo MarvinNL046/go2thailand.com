@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 830
+    "completed": 831
   },
   "queue": [
     {
@@ -6656,8 +6656,9 @@
       "type": "top10",
       "file": "data/top10/phitsanulok-restaurants.json",
       "locale": "ru",
-      "status": "pending",
-      "priority": 13
+      "status": "completed",
+      "priority": 13,
+      "completedAt": "2026-03-11T00:00:00.000Z"
     },
     {
       "type": "top10",
