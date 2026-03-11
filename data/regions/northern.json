@@ -7,7 +7,8 @@
     "fr": "Thaïlande du Nord",
     "de": "Nordthailand",
     "zh": "泰国北部",
-    "ru": "Северный Таиланд"
+    "ru": "Северный Таиланд",
+    "ja": "タイ北部"
   },
   "description": {
     "en": "Mountainous region known for ancient temples, hill tribes, cooler climate, and cultural heritage.",
@@ -15,7 +16,8 @@
     "fr": "Région montagneuse connue pour ses temples anciens, ses tribus des collines, son climat plus frais et son patrimoine culturel.",
     "de": "Bergige Region bekannt für antike Tempel, Bergvölker, kühleres Klima und kulturelles Erbe.",
     "zh": "以古老寺庙、山地部落、凉爽气候和文化遗产闻名的山区。",
-    "ru": "Горный регион, известный древними храмами, горными племенами, прохладным климатом и культурным наследием."
+    "ru": "Горный регион, известный древними храмами, горными племенами, прохладным климатом и культурным наследием.",
+    "ja": "古代寺院、山岳民族、涼しい気候、文化遺産で知られる山岳地帯。"
   },
   "highlights": {
     "en": [
@@ -59,6 +61,13 @@
       "Прохладный климат",
       "Культурное наследие",
       "Горный треккинг"
+    ],
+    "ja": [
+      "古代寺院",
+      "山岳民族",
+      "涼しい気候",
+      "文化遺産",
+      "山岳トレッキング"
     ]
   },
   "cities": [
@@ -75,7 +84,8 @@
     "fr": "Frais et sec (nov-fév), chaud (mars-mai), pluvieux (juin-oct)",
     "de": "Kühl und trocken (Nov-Feb), heiß (März-Mai), Regenzeit (Juni-Okt)",
     "zh": "凉爽干燥（11月-2月），炎热（3月-5月），雨季（6月-10月）",
-    "ru": "Прохладно и сухо (ноябрь-февраль), жарко (март-май), сезон дождей (июнь-октябрь)"
+    "ru": "Прохладно и сухо (ноябрь-февраль), жарко (март-май), сезон дождей (июнь-октябрь)",
+    "ja": "涼しく乾燥（11月〜2月）、暑い（3月〜5月）、雨季（6月〜10月）"
   },
   "bestTimeToVisit": {
     "en": "November to February",
@@ -83,7 +93,8 @@
     "fr": "Novembre à février",
     "de": "November bis Februar",
     "zh": "11月至2月",
-    "ru": "С ноября по февраль"
+    "ru": "С ноября по февраль",
+    "ja": "11月から2月"
   },
   "image": "/images/regions/northern-thailand.webp",
   "geography": {
@@ -92,7 +103,8 @@
     "fr": "Terrain montagneux avec des sommets dépassant 2000 m. Forêts denses, vallées fluviales et villages de tribus des collines. Frontières avec le Myanmar et le Laos.",
     "de": "Bergiges Gelände mit Gipfeln über 2000 m. Dichte Wälder, Flusstäler und Bergvölker-Dörfer. Grenzt an Myanmar und Laos.",
     "zh": "山地地形，山峰超过2000米。茂密的森林、河谷和山地部落村庄。与缅甸和老挝接壤。",
-    "ru": "Горная местность с вершинами выше 2000 м. Густые леса, речные долины и деревни горных племён. Граничит с Мьянмой и Лаосом."
+    "ru": "Горная местность с вершинами выше 2000 м. Густые леса, речные долины и деревни горных племён. Граничит с Мьянмой и Лаосом.",
+    "ja": "標高2000mを超える山々が連なる山岳地帯。深い森、河川の谷、山岳民族の村が点在。ミャンマーとラオスに接する。"
   },
   "culture": {
     "en": "Rich Lanna heritage with distinct architecture, crafts, and traditions. Home to various hill tribes including Hmong, Karen, and Akha peoples.",
@@ -100,7 +112,8 @@
     "fr": "Riche patrimoine Lanna avec une architecture, un artisanat et des traditions distincts. Terre d'accueil de diverses tribus des collines dont les peuples Hmong, Karen et Akha.",
     "de": "Reiches Lanna-Erbe mit einzigartiger Architektur, Kunsthandwerk und Traditionen. Heimat verschiedener Bergvölker, darunter die Hmong, Karen und Akha.",
     "zh": "丰富的兰纳文化遗产，拥有独特的建筑、手工艺和传统。多个山地部落的家园，包括苗族、克伦族和阿卡族。",
-    "ru": "Богатое наследие Ланны с самобытной архитектурой, ремёслами и традициями. Родина различных горных племён, включая хмонгов, каренов и акха."
+    "ru": "Богатое наследие Ланны с самобытной архитектурой, ремёслами и традициями. Родина различных горных племён, включая хмонгов, каренов и акха.",
+    "ja": "独自の建築、工芸、伝統を持つ豊かなランナー王朝の遺産。モン族、カレン族、アカ族など、さまざまな山岳民族の故郷。"
   },
   "cuisine": {
     "en": "Khao Soi curry noodles, Sai Oua sausage, sticky rice, northern curries. Influenced by Burmese and Lao cuisine.",
@@ -108,7 +121,8 @@
     "fr": "Nouilles au curry Khao Soi, saucisse Sai Oua, riz gluant, currys du nord. Influencée par les cuisines birmane et laotienne.",
     "de": "Khao Soi Currynudeln, Sai Oua Wurst, Klebreis, nördliche Currys. Beeinflusst von der burmesischen und laotischen Küche.",
     "zh": "Khao Soi咖喱面、Sai Oua香肠、糯米饭、北方咖喱。受缅甸和老挝美食影响。",
-    "ru": "Лапша карри Кхао Сой, колбаса Сай Уа, клейкий рис, северные карри. Влияние бирманской и лаосской кухни."
+    "ru": "Лапша карри Кхао Сой, колбаса Сай Уа, клейкий рис, северные карри. Влияние бирманской и лаосской кухни.",
+    "ja": "カオソーイカレーヌードル、サイウア・ソーセージ、もち米、北部カレー。ビルマ料理とラオス料理の影響を受ける。"
   },
   "transportation": {
     "en": "Domestic flights to Chiang Mai/Chiang Rai. Buses connect cities. Songthaews and tuk-tuks locally. Motorbike rentals popular.",
@@ -116,7 +130,8 @@
     "fr": "Vols intérieurs vers Chiang Mai/Chiang Rai. Des bus relient les villes. Songthaews et tuk-tuks localement. Location de motos populaire.",
     "de": "Inlandsflüge nach Chiang Mai/Chiang Rai. Busse verbinden die Städte. Songthaews und Tuk-Tuks vor Ort. Motorradverleih beliebt.",
     "zh": "国内航班飞往清迈/清莱。巴士连接各城市。当地有双条车和嘟嘟车。摩托车租赁很受欢迎。",
-    "ru": "Внутренние рейсы до Чиангмая/Чианграя. Автобусы соединяют города. Местный транспорт — сонгтэу и тук-туки. Популярна аренда мотоциклов."
+    "ru": "Внутренние рейсы до Чиангмая/Чианграя. Автобусы соединяют города. Местный транспорт — сонгтэу и тук-туки. Популярна аренда мотоциклов.",
+    "ja": "チェンマイ/チェンライへの国内線。バスが各都市を結ぶ。現地ではソンテウやトゥクトゥクが利用可能。バイクレンタルも人気。"
   },
   "budgetInfo": {
     "en": "Budget: $25-40/day. Mid-range: $40-80/day. Luxury: $80+/day. Accommodation cheaper than Bangkok.",
@@ -124,7 +139,8 @@
     "fr": "Budget : $25-40/jour. Milieu de gamme : $40-80/jour. Luxe : $80+/jour. Hébergement moins cher qu'à Bangkok.",
     "de": "Budget: $25-40/Tag. Mittelklasse: $40-80/Tag. Luxus: $80+/Tag. Unterkünfte günstiger als in Bangkok.",
     "zh": "经济型：$25-40/天。中档：$40-80/天。豪华：$80+/天。住宿比曼谷便宜。",
-    "ru": "Бюджет: $25-40/день. Средний класс: $40-80/день. Люкс: $80+/день. Проживание дешевле, чем в Бангкоке."
+    "ru": "Бюджет: $25-40/день. Средний класс: $40-80/день. Люкс: $80+/день. Проживание дешевле, чем в Бангкоке.",
+    "ja": "格安：$25-40/日。中級：$40-80/日。高級：$80+/日。宿泊費はバンコクより安い。"
   },
   "topActivities": {
     "en": [
@@ -144,6 +160,9 @@
     ],
     "ru": [
       "Посещение храмов, треккинг к горным племенам, кулинарные мастер-классы, заповедники слонов, зиплайн, рафтинг, горячие источники"
+    ],
+    "ja": [
+      "寺院巡り、山岳民族トレッキング、料理教室、象の保護施設、ジップライン、ラフティング、温泉"
     ]
   },
   "hiddenGems": {
@@ -164,6 +183,9 @@
     ],
     "ru": [
       "Каньон Пай, петля Мэхонгсон, чайные плантации Дой Мэсалонг, Сангклабури, мост Мон"
+    ],
+    "ja": [
+      "パーイ渓谷、メーホンソン・ループ、ドイメーサロン茶畑、サンクラブリー、モン橋"
     ]
   },
   "localFestivals": {
@@ -184,6 +206,9 @@
     ],
     "ru": [
       "Лой Кратонг (ноябрь), Сонгкран (апрель), фестиваль фонарей Йи Пенг (ноябрь), фестиваль цветов (февраль)"
+    ],
+    "ja": [
+      "ロイクラトン（11月）、ソンクラーン（4月）、イーペン・ランタン祭り（11月）、花祭り（2月）"
     ]
   },
   "travelTips": {
@@ -204,6 +229,9 @@
     ],
     "ru": [
       "Возьмите тёплую одежду для вечеров. Уважайте обычаи горных племён. Бронируйте экскурсии через проверенных операторов. Выучите базовые тайские фразы."
+    ],
+    "ja": [
+      "夜間用に暖かい服を持参。山岳民族の慣習を尊重。信頼できるツアー会社で予約。基本的なタイ語フレーズを覚えておくと便利。"
     ]
   },
   "whatToPack": {
@@ -224,6 +252,9 @@
     ],
     "ru": [
       "Тёплая куртка, удобная обувь для ходьбы, репеллент от насекомых, солнцезащитный крем, скромная одежда для храмов, дождевик"
+    ],
+    "ja": [
+      "暖かいジャケット、歩きやすい靴、虫除けスプレー、日焼け止め、寺院用の控えめな服装、レインジャケット"
     ]
   },
   "seo": {
@@ -233,7 +264,8 @@
       "fr": "Guide de voyage Thaïlande du Nord 2026 | Go2Thailand",
       "de": "Nordthailand Reiseführer 2026 | Go2Thailand",
       "zh": "泰国北部旅游指南2026 | Go2Thailand",
-      "ru": "Путеводитель по Северному Таиланду 2026 | Go2Thailand"
+      "ru": "Путеводитель по Северному Таиланду 2026 | Go2Thailand",
+      "ja": "タイ北部旅行ガイド2026 | Go2Thailand"
     },
     "metaDescription": {
       "en": "Northern Thailand travel guide 2026. Best cities, attractions, climate, and travel tips for Chiang Mai, Chiang Rai, Pai and more.",
@@ -241,7 +273,8 @@
       "fr": "Guide de voyage Thaïlande du Nord 2026. Meilleures villes, attractions, climat et conseils de voyage pour Chiang Mai, Chiang Rai, Pai et plus.",
       "de": "Nordthailand Reiseführer 2026. Beste Städte, Sehenswürdigkeiten, Klima und Reisetipps für Chiang Mai, Chiang Rai, Pai und mehr.",
       "zh": "泰国北部旅游指南2026。清迈、清莱、拜县等最佳城市、景点、气候和旅行攻略。",
-      "ru": "Путеводитель по Северному Таиланду 2026. Лучшие города, достопримечательности, климат и советы для Чиангмая, Чианграя, Пая и других."
+      "ru": "Путеводитель по Северному Таиланду 2026. Лучшие города, достопримечательности, климат и советы для Чиангмая, Чианграя, Пая и других.",
+      "ja": "タイ北部旅行ガイド2026。チェンマイ、チェンライ、パーイなどのおすすめ都市、観光スポット、気候、旅行のヒント。"
     }
   },
   "categories": {
@@ -251,7 +284,8 @@
       "fr": "Principales attractions en Thaïlande du Nord",
       "de": "Top-Sehenswürdigkeiten in Nordthailand",
       "zh": "泰国北部热门景点",
-      "ru": "Лучшие достопримечательности Северного Таиланда"
+      "ru": "Лучшие достопримечательности Северного Таиланда",
+      "ja": "タイ北部の人気観光スポット"
     },
     "cities": {
       "en": "Best cities to visit in Northern Thailand",
@@ -259,7 +293,8 @@
       "fr": "Meilleures villes à visiter en Thaïlande du Nord",
       "de": "Beste Städte in Nordthailand",
       "zh": "泰国北部最佳旅游城市",
-      "ru": "Лучшие города для посещения в Северном Таиланде"
+      "ru": "Лучшие города для посещения в Северном Таиланде",
+      "ja": "タイ北部のおすすめ都市"
     },
     "climate": {
       "en": "Climate and weather in Northern Thailand",
@@ -267,7 +302,8 @@
       "fr": "Climat et météo en Thaïlande du Nord",
       "de": "Klima und Wetter in Nordthailand",
       "zh": "泰国北部气候与天气",
-      "ru": "Климат и погода в Северном Таиланде"
+      "ru": "Климат и погода в Северном Таиланде",
+      "ja": "タイ北部の気候と天気"
     }
   },
   "tags": [
