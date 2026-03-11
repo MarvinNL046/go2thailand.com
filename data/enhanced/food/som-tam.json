@@ -442,6 +442,96 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Som Tam（青木瓜沙拉）是伊桑地区献给世界的礼物——一种爆炸性的风味组合，同时冲击你所有的味蕾。这道捣碎的沙拉起源于老挝和泰国东北部，在那里，研钵和杵发出的有节奏的'噗噗'声是每个市场的背景音。它清爽、辛辣、独特而令人上瘾——口感与味道的完美平衡。",
+      "detailed_ingredients": [
+        {
+          "name": "青木瓜",
+          "purpose": "提供脆爽的口感和温和的味道，能充分吸收调料",
+          "substitutes": [
+            "青芒果",
+            "黄瓜胡萝卜混合",
+            "苤蓝",
+            "青苹果增添甜味"
+          ]
+        },
+        {
+          "name": "Pla Ra（发酵鱼露）",
+          "purpose": "伊桑风格Som Tam的鲜香灵魂",
+          "substitutes": [
+            "鱼露（味道较温和）",
+            "虾酱",
+            "凤尾鱼",
+            "酱油（素食替代）"
+          ]
+        },
+        {
+          "name": "泰国辣椒",
+          "purpose": "带来让这道沙拉成为传奇的辣度",
+          "substitutes": [
+            "塞拉诺辣椒",
+            "鸟眼辣椒",
+            "墨西哥辣椒（温和得多）"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "在陶制研钵（khrok）中捣碎",
+        "steps_overview": "魔法发生在研钵中。每种食材都被轻轻捣碎而非压烂，释放风味的同时保持口感。捣碎的顺序很重要——先放大蒜和辣椒，然后是调味料，最后放入木瓜，同时用勺子翻拌。",
+        "cooking_tips": [
+          "使用陶制研钵，不要用木制的——它能更好地抓住食材",
+          "捣碎和翻拌，不要压烂——保持口感",
+          "不断品尝和调整——每份都是独特的",
+          "木瓜应该被捣软但仍然脆爽",
+          "做得比你想象的更辣——甜味会平衡它"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "起源于老挝，后传遍整个伊桑（泰国东北部）。农村社区创造了这道菜，作为利用未熟木瓜和保存鱼类的方式。这道菜代表了伊桑人民的智慧与创造力。",
+        "cultural_importance": "Som Tam不仅仅是食物——它是一种社交仪式。人们聚集在Som Tam摊贩周围，定制自己的订单并分享餐盘。它是泰国点单最多的菜肴，每天有数百万人食用。",
+        "traditional_occasions": [
+          "搭配糯米饭的午餐主食",
+          "配啤酒的下酒菜",
+          "丰收庆典",
+          "寺庙节日"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Som Tam Thai",
+          "description": "加了虾干、花生和鱼露的'安全'版本"
+        },
+        {
+          "name": "Som Tam Poo Pla Ra",
+          "description": "伊桑风格，加发酵鱼露和田蟹——勇敢者的选择"
+        },
+        {
+          "name": "Som Tam Ponlamai",
+          "description": "水果沙拉版，加苹果、葡萄和花生"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米",
+          "新鲜蔬菜"
+        ],
+        "presentation": "以传统泰式风格热腾腾上桌",
+        "eating_etiquette": "用叉子和勺子食用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Nua (Bangkok) — 现代伊桑连锁餐厅",
+          "Laab Ubon (Bangkok) — 正宗伊桑风味",
+          "任何有塑料凳子的伊桑餐厅"
+        ],
+        "street_food_areas": [
+          "Soi 38 Night Market, Bangkok",
+          "JJ Green Night Market",
+          "任何工地的午餐时间（跟着工人走就对了）"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
