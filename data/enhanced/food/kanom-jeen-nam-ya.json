@@ -467,6 +467,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Kanom Jeen Nam Ya是一道深受喜爱的南泰丰盛主菜，带有令人愉悦的辣度。发酵米线配鱼咖喱酱。这道难度较高的菜肴大约需要45分钟准备，代表了南泰料理的正宗风味，以浓郁的香料、海鲜和椰基咖喱为特色。发酵米线、鱼和香茅的组合创造出和谐的口味融合，使这道菜成为当地人和游客的最爱。非常适合寻找经济实惠的正宗泰式料理的食客。",
+      "detailed_ingredients": [
+        {
+          "name": "发酵米线",
+          "purpose": "Kanom Jeen Nam Ya正宗风味的关键食材",
+          "substitutes": [
+            "新鲜发酵米线",
+            "干发酵米线",
+            "普通米线"
+          ]
+        },
+        {
+          "name": "鱼",
+          "purpose": "Kanom Jeen Nam Ya正宗风味的关键食材",
+          "substitutes": [
+            "新鲜鱼",
+            "鱼干",
+            "鱼酱"
+          ]
+        },
+        {
+          "name": "香茅",
+          "purpose": "Kanom Jeen Nam Ya正宗风味的关键食材",
+          "substitutes": [
+            "新鲜香茅",
+            "干香茅",
+            "香茅酱"
+          ]
+        },
+        {
+          "name": "南姜",
+          "purpose": "Kanom Jeen Nam Ya正宗风味的关键食材",
+          "substitutes": [
+            "新鲜南姜",
+            "干南姜",
+            "南姜酱"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "熬煮和炖制",
+        "steps_overview": "制作Kanom Jeen Nam Ya需要注重细节和掌握好时机。关键在于平衡所有风味的同时保持每种食材的口感。代代相传的传统烹饪方法确保了正宗的味道。",
+        "cooking_tips": [
+          "使用新鲜发酵米线以获得最佳效果",
+          "根据个人口味调整辣度",
+          "避免过度烹饪以保持口感",
+          "上菜前品尝并调整调味"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kanom Jeen Nam Ya世代以来一直是南泰料理的经典菜肴，体现了该地区独特的烹饪传统和本地食材。",
+        "cultural_importance": "这道菜代表了南泰烹饪的精髓，展现了使泰国料理享誉全球的平衡与和谐。",
+        "traditional_occasions": [
+          "家庭聚会",
+          "当地节庆",
+          "街头美食市场",
+          "特殊庆典"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Kanom Jeen Nam Ya",
+          "description": "当地家庭传统烹饪的经典版本"
+        },
+        {
+          "name": "现代Kanom Jeen Nam Ya",
+          "description": "使用优质食材的现代创新版本"
+        },
+        {
+          "name": "素食Kanom Jeen Nam Ya",
+          "description": "使用豆腐或蘑菇的植物性版本"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "新鲜蔬菜",
+          "泰式香草",
+          "腌制蔬菜等配菜"
+        ],
+        "presentation": "以传统南泰风格盛盘上桌",
+        "eating_etiquette": "按照泰式习惯用叉子和勺子食用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "当地南泰餐厅",
+          "正宗街头小吃摊",
+          "传统市场",
+          "家庭经营的小餐馆"
+        ],
+        "street_food_areas": [
+          "夜市",
+          "早市",
+          "当地美食广场"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
