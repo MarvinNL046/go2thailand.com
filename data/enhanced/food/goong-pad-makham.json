@@ -467,6 +467,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Goong Pad Makham是一道深受喜爱的南泰丰盛主菜，带有微妙的温热感。鲜虾在酸甜的罗望子酱中翻炒而成。这道简单的菜肴大约需要15分钟准备，代表了南泰料理的正宗风味，以浓郁的香料、海鲜和椰基咖喱为特色。鲜虾、罗望子酱和棕榈糖的组合创造出和谐的口味融合，使这道菜成为当地人和游客的最爱。非常适合寻找价格实惠的正宗泰式料理的食客。",
+      "detailed_ingredients": [
+        {
+          "name": "鲜虾",
+          "purpose": "Goong Pad Makham正宗风味的关键食材",
+          "substitutes": [
+            "新鲜大虾",
+            "虾干",
+            "虾酱"
+          ]
+        },
+        {
+          "name": "罗望子酱",
+          "purpose": "Goong Pad Makham正宗风味的关键食材",
+          "substitutes": [
+            "新鲜罗望子酱",
+            "干罗望子",
+            "罗望子浓缩汁"
+          ]
+        },
+        {
+          "name": "棕榈糖",
+          "purpose": "Goong Pad Makham正宗风味的关键食材",
+          "substitutes": [
+            "新鲜棕榈糖",
+            "椰糖",
+            "红糖"
+          ]
+        },
+        {
+          "name": "鱼露",
+          "purpose": "Goong Pad Makham正宗风味的关键食材",
+          "substitutes": [
+            "新鲜鱼露",
+            "酱油",
+            "蚝油"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "爆炒",
+        "steps_overview": "制作Goong Pad Makham需要注重细节和掌握好时机。关键在于平衡所有风味的同时保持每种食材的口感。代代相传的传统烹饪方法确保了正宗的味道。",
+        "cooking_tips": [
+          "使用新鲜虾以获得最佳效果",
+          "根据个人口味调整辣度",
+          "避免过度烹饪以保持口感",
+          "上菜前品尝并调整调味"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Goong Pad Makham世代以来一直是南泰料理的经典菜肴，体现了该地区独特的烹饪传统和本地食材。",
+        "cultural_importance": "这道菜代表了南泰烹饪的精髓，展现了使泰国料理享誉全球的平衡与和谐。",
+        "traditional_occasions": [
+          "家庭聚会",
+          "当地节庆",
+          "街头美食市场",
+          "特殊庆典"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Goong Pad Makham",
+          "description": "当地家庭传统烹饪的经典版本"
+        },
+        {
+          "name": "现代Goong Pad Makham",
+          "description": "使用优质食材的现代创新版本"
+        },
+        {
+          "name": "素食Goong Pad Makham",
+          "description": "使用豆腐或蘑菇的植物性版本"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米",
+          "新鲜蔬菜",
+          "泰式香草"
+        ],
+        "presentation": "以传统南泰风格盛盘上桌",
+        "eating_etiquette": "按照泰式习惯用叉子和勺子食用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "当地南泰餐厅",
+          "正宗街头小吃摊",
+          "传统市场",
+          "家庭经营的小餐馆"
+        ],
+        "street_food_areas": [
+          "夜市",
+          "早市",
+          "当地美食广场"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
