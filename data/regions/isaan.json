@@ -6,14 +6,16 @@
     "nl": "Isaan (Noordoost-Thailand)",
     "fr": "Isaan (Nord-Est de la Thaïlande)",
     "de": "Isaan (Nordostthailand)",
-    "zh": "伊桑（泰国东北部）"
+    "zh": "伊桑（泰国东北部）",
+    "ru": "Исан (Северо-Восточный Таиланд)"
   },
   "description": {
     "en": "Authentic rural Thailand with unique Lao-influenced culture, spicy cuisine, and traditional festivals.",
     "nl": "Authentiek ruraal Thailand met unieke Lao-beïnvloede cultuur, pittig eten en traditionele festivals.",
     "fr": "Thaïlande rurale authentique avec une culture unique d'influence laotienne, une cuisine épicée et des festivals traditionnels.",
     "de": "Authentisches ländliches Thailand mit einzigartiger laotisch beeinflusster Kultur, scharfer Küche und traditionellen Festen.",
-    "zh": "原汁原味的泰国乡村，拥有独特的老挝文化影响、辛辣美食和传统节日。"
+    "zh": "原汁原味的泰国乡村，拥有独特的老挝文化影响、辛辣美食和传统节日。",
+    "ru": "Аутентичный сельский Таиланд с уникальной культурой лаосского влияния, острой кухней и традиционными фестивалями."
   },
   "highlights": {
     "en": [
@@ -55,6 +57,14 @@
       "乡村生活",
       "丝绸编织",
       "古高棉遗迹"
+    ],
+    "ru": [
+      "Аутентичная культура",
+      "Острая кухня",
+      "Традиционные фестивали",
+      "Сельский уклад жизни",
+      "Шёлкоткачество",
+      "Древние кхмерские руины"
     ]
   },
   "cities": [
@@ -73,14 +83,16 @@
     "nl": "Heet en droog (nov-feb), zeer heet (mrt-mei), regenseizoen (jun-okt)",
     "fr": "Chaud et sec (nov-fév), très chaud (mars-mai), pluvieux (juin-oct)",
     "de": "Heiß und trocken (Nov-Feb), sehr heiß (März-Mai), Regenzeit (Juni-Okt)",
-    "zh": "炎热干燥（11月-2月），极热（3月-5月），雨季（6月-10月）"
+    "zh": "炎热干燥（11月-2月），极热（3月-5月），雨季（6月-10月）",
+    "ru": "Жарко и сухо (ноябрь-февраль), очень жарко (март-май), дождливо (июнь-октябрь)"
   },
   "bestTimeToVisit": {
     "en": "November to February",
     "nl": "November tot februari",
     "fr": "Novembre à février",
     "de": "November bis Februar",
-    "zh": "11月至2月"
+    "zh": "11月至2月",
+    "ru": "С ноября по февраль"
   },
   "image": "/images/regions/isaan-thailand.webp",
   "geography": {
@@ -88,35 +100,40 @@
     "nl": "Verhoogd plateau met een gemiddelde hoogte van 200 meter boven zeeniveau. Grenst aan Laos en Cambodja. Grootste regio, beslaat een derde van Thailand.",
     "fr": "Plateau élevé à 200 m d'altitude en moyenne. Frontières avec le Laos et le Cambodge. Plus grande région couvrant un tiers de la Thaïlande.",
     "de": "Hochebene mit durchschnittlich 200 m über dem Meeresspiegel. Grenzt an Laos und Kambodscha. Größte Region, die ein Drittel Thailands einnimmt.",
-    "zh": "平均海拔200米的高原。与老挝和柬埔寨接壤。泰国最大的地区，占国土面积的三分之一。"
+    "zh": "平均海拔200米的高原。与老挝和柬埔寨接壤。泰国最大的地区，占国土面积的三分之一。",
+    "ru": "Возвышенное плато со средней высотой 200 м над уровнем моря. Граничит с Лаосом и Камбоджей. Крупнейший регион, занимающий треть территории Таиланда."
   },
   "culture": {
     "en": "Strong Lao influence with distinct language, music, and traditions. Known for warm hospitality and village community life.",
     "nl": "Sterke Laotiaanse invloed met eigen taal, muziek en tradities. Bekend om warme gastvrijheid en dorpsgemeenschapsleven.",
     "fr": "Forte influence laotienne avec une langue, une musique et des traditions distinctes. Connue pour son hospitalité chaleureuse et sa vie communautaire villageoise.",
     "de": "Starker laotischer Einfluss mit eigener Sprache, Musik und Traditionen. Bekannt für herzliche Gastfreundschaft und dörfliches Gemeinschaftsleben.",
-    "zh": "深受老挝影响，拥有独特的语言、音乐和传统。以热情好客和淳朴的乡村社区生活著称。"
+    "zh": "深受老挝影响，拥有独特的语言、音乐和传统。以热情好客和淳朴的乡村社区生活著称。",
+    "ru": "Сильное лаосское влияние с самобытным языком, музыкой и традициями. Известен тёплым гостеприимством и деревенским укладом жизни."
   },
   "cuisine": {
     "en": "Som tam papaya salad, larb meat salad, sticky rice, jeow dipping sauces, grilled fish. Spiciest and most flavorful Thai cuisine.",
     "nl": "Som tam papajasalade, larb vleessalade, kleefrijst, jeow dipsauzen, gegrilde vis. De pittigste en meest smaakvolle Thaise keuken.",
     "fr": "Salade de papaye som tam, salade de viande larb, riz gluant, sauces jeow, poisson grillé. La cuisine thaïlandaise la plus épicée et la plus savoureuse.",
     "de": "Som Tam Papayasalat, Larb Fleischsalat, Klebreis, Jeow Dipsaucen, gegrillter Fisch. Die schärfste und geschmackvollste thailändische Küche.",
-    "zh": "青木瓜沙拉、Larb肉沙拉、糯米饭、Jeow蘸酱、烤鱼。泰国最辣、最有味道的菜系。"
+    "zh": "青木瓜沙拉、Larb肉沙拉、糯米饭、Jeow蘸酱、烤鱼。泰国最辣、最有味道的菜系。",
+    "ru": "Салат из папайи сом там, мясной салат ларб, клейкий рис, соусы джео, рыба на гриле. Самая острая и ароматная тайская кухня."
   },
   "transportation": {
     "en": "Limited flights to major cities. Buses connect all provinces. Local songthaews and tuk-tuks. Motorbike rentals common.",
     "nl": "Beperkte vluchten naar grote steden. Bussen verbinden alle provincies. Lokaal songthaews en tuk-tuks. Motorverhuur is gebruikelijk.",
     "fr": "Vols limités vers les grandes villes. Des bus relient toutes les provinces. Songthaews et tuk-tuks locaux. Location de motos courante.",
     "de": "Begrenzte Flüge in größere Städte. Busse verbinden alle Provinzen. Lokale Songthaews und Tuk-Tuks. Motorradverleih üblich.",
-    "zh": "飞往主要城市的航班有限。巴士连接各府。当地有双条车和嘟嘟车。摩托车租赁普遍。"
+    "zh": "飞往主要城市的航班有限。巴士连接各府。当地有双条车和嘟嘟车。摩托车租赁普遍。",
+    "ru": "Ограниченное авиасообщение с крупными городами. Автобусы соединяют все провинции. Местные сонгтэу и тук-туки. Аренда мотоциклов распространена."
   },
   "budgetInfo": {
     "en": "Budget: $15-25/day. Mid-range: $25-50/day. Luxury: $50+/day. Cheapest region in Thailand for travelers.",
     "nl": "Budget: $15-25/dag. Middenklasse: $25-50/dag. Luxe: $50+/dag. Goedkoopste regio in Thailand voor reizigers.",
     "fr": "Budget : $15-25/jour. Milieu de gamme : $25-50/jour. Luxe : $50+/jour. Région la moins chère de Thaïlande pour les voyageurs.",
     "de": "Budget: $15-25/Tag. Mittelklasse: $25-50/Tag. Luxus: $50+/Tag. Günstigste Region Thailands für Reisende.",
-    "zh": "经济型：$15-25/天。中档：$25-50/天。豪华：$50+/天。泰国对旅行者最实惠的地区。"
+    "zh": "经济型：$15-25/天。中档：$25-50/天。豪华：$50+/天。泰国对旅行者最实惠的地区。",
+    "ru": "Бюджет: $15-25/день. Средний класс: $25-50/день. Люкс: $50+/день. Самый дешёвый регион Таиланда для путешественников."
   },
   "topActivities": {
     "en": [
@@ -133,6 +150,9 @@
     ],
     "zh": [
       "寺庙参观、丝绸编织村、传统市场、高棉遗迹探索、节日参与、乡间骑行"
+    ],
+    "ru": [
+      "Посещение храмов, деревни шёлкоткачества, традиционные рынки, исследование кхмерских руин, участие в фестивалях, велопрогулки по сельской местности"
     ]
   },
   "hiddenGems": {
@@ -150,6 +170,9 @@
     ],
     "zh": [
       "帕侬蓝历史公园、披迈石宫、帕登国家公园、班清考古遗址、穆达汉河滨"
+    ],
+    "ru": [
+      "Исторический парк Пханом Рунг, Прасат Хин Пхимай, национальный парк Пха Тэм, археологический памятник Бан Чианг, набережная Мукдахана"
     ]
   },
   "localFestivals": {
@@ -167,6 +190,9 @@
     ],
     "zh": [
       "邦飞火箭节（5月）、Phi Ta Khon鬼面节（6月）、蜡烛节（7月）、赛船节（10月）"
+    ],
+    "ru": [
+      "Фестиваль ракет Бун Банг Фай (май), фестиваль духов Пхи Та Кхон (июнь), Фестиваль свечей (июль), гонки на лодках (октябрь)"
     ]
   },
   "travelTips": {
@@ -184,6 +210,9 @@
     ],
     "zh": [
       "学习基本的伊桑方言。尊重乡村习俗。尝试当地美食市场。旱季注意补水。礼貌地砍价。"
+    ],
+    "ru": [
+      "Выучите базовые фразы на исанском диалекте. Уважайте сельские обычаи. Попробуйте местные продуктовые рынки. Пейте больше воды в сухой сезон. Торгуйтесь уважительно."
     ]
   },
   "whatToPack": {
@@ -201,6 +230,9 @@
     ],
     "zh": [
       "轻薄棉质衣物、遮阳帽、舒适凉鞋、免洗洗手液、胃药、驱虫剂、现金"
+    ],
+    "ru": [
+      "Лёгкая хлопковая одежда, шляпа от солнца, удобные сандалии, антисептик для рук, лекарство для желудка, средство от насекомых, наличные"
     ]
   },
   "seo": {
@@ -209,14 +241,16 @@
       "nl": "Isaan (Noordoost-Thailand) Reisgids 2026",
       "fr": "Isaan (Nord-Est de la Thaïlande) Guide de voyage 2026",
       "de": "Isaan (Nordostthailand) Reiseführer 2026",
-      "zh": "伊桑（泰国东北部）旅游指南2026"
+      "zh": "伊桑（泰国东北部）旅游指南2026",
+      "ru": "Исан (Северо-Восточный Таиланд) — путеводитель 2026"
     },
     "metaDescription": {
       "en": "Isaan travel guide 2026. Best cities, attractions, culture, and travel tips for Northeast Thailand's authentic destinations.",
       "nl": "Isaan reisgids 2026. Beste steden, attracties, cultuur en reistips voor de authentieke bestemmingen van Noordoost-Thailand.",
       "fr": "Guide de voyage Isaan 2026. Meilleures villes, attractions, culture et conseils de voyage pour les destinations authentiques du Nord-Est de la Thaïlande.",
       "de": "Isaan Reiseführer 2026. Beste Städte, Sehenswürdigkeiten, Kultur und Reisetipps für die authentischen Reiseziele Nordostthailands.",
-      "zh": "伊桑旅游指南2026。泰国东北部原生态目的地的最佳城市、景点、文化和旅行攻略。"
+      "zh": "伊桑旅游指南2026。泰国东北部原生态目的地的最佳城市、景点、文化和旅行攻略。",
+      "ru": "Путеводитель по Исану 2026. Лучшие города, достопримечательности, культура и советы для аутентичных направлений Северо-Восточного Таиланда."
     }
   },
   "categories": {
@@ -225,21 +259,24 @@
       "nl": "Top bezienswaardigheden in Isaan (Noordoost-Thailand)",
       "fr": "Principales attractions en Isaan (Nord-Est de la Thaïlande)",
       "de": "Top-Sehenswürdigkeiten im Isaan (Nordostthailand)",
-      "zh": "伊桑（泰国东北部）热门景点"
+      "zh": "伊桑（泰国东北部）热门景点",
+      "ru": "Лучшие достопримечательности Исана (Северо-Восточный Таиланд)"
     },
     "cities": {
       "en": "Best cities to visit in Isaan (Northeast Thailand)",
       "nl": "Beste steden om te bezoeken in Isaan (Noordoost-Thailand)",
       "fr": "Meilleures villes à visiter en Isaan (Nord-Est de la Thaïlande)",
       "de": "Beste Städte im Isaan (Nordostthailand)",
-      "zh": "伊桑（泰国东北部）最佳旅游城市"
+      "zh": "伊桑（泰国东北部）最佳旅游城市",
+      "ru": "Лучшие города Исана (Северо-Восточный Таиланд)"
     },
     "climate": {
       "en": "Climate and weather in Isaan (Northeast Thailand)",
       "nl": "Klimaat en weer in Isaan (Noordoost-Thailand)",
       "fr": "Climat et météo en Isaan (Nord-Est de la Thaïlande)",
       "de": "Klima und Wetter im Isaan (Nordostthailand)",
-      "zh": "伊桑（泰国东北部）气候与天气"
+      "zh": "伊桑（泰国东北部）气候与天气",
+      "ru": "Климат и погода в Исане (Северо-Восточный Таиланд)"
     }
   },
   "tags": [
