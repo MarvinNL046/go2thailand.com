@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 614
+    "completed": 615
   },
   "queue": [
     {
@@ -4928,8 +4928,9 @@
       "type": "top10",
       "file": "data/top10/lopburi-hotels.json",
       "locale": "zh",
-      "status": "pending",
-      "priority": 12
+      "status": "completed",
+      "priority": 12,
+      "completedAt": "2026-03-11T00:00:00.000Z"
     },
     {
       "type": "top10",
