@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 835
+    "completed": 836
   },
   "queue": [
     {
@@ -6696,7 +6696,8 @@
       "type": "top10",
       "file": "data/top10/rayong-hotels.json",
       "locale": "ru",
-      "status": "pending",
+      "status": "completed",
+      "completedAt": "2026-03-11T00:00:00.000Z",
       "priority": 13
     },
     {
