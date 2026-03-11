@@ -6,14 +6,16 @@
     "nl": "Centraal-Thailand",
     "fr": "Thaïlande centrale",
     "de": "Zentralthailand",
-    "zh": "泰国中部"
+    "zh": "泰国中部",
+    "ru": "Центральный Таиланд"
   },
   "description": {
     "en": "The heart of Thailand with bustling Bangkok, historic Ayutthaya, and easy access to beaches.",
     "nl": "Het hart van Thailand met het bruisende Bangkok, historisch Ayutthaya en gemakkelijke toegang tot stranden.",
     "fr": "Le cœur de la Thaïlande avec Bangkok l'animée, l'historique Ayutthaya et un accès facile aux plages.",
     "de": "Das Herz Thailands mit dem pulsierenden Bangkok, dem historischen Ayutthaya und einfachem Zugang zu Stränden.",
-    "zh": "泰国的心脏地带，拥有繁华的曼谷、历史悠久的大城府，以及便捷的海滩交通。"
+    "zh": "泰国的心脏地带，拥有繁华的曼谷、历史悠久的大城府，以及便捷的海滩交通。",
+    "ru": "Сердце Таиланда с оживлённым Бангкоком, историческим Аюттхаей и удобным доступом к пляжам."
   },
   "highlights": {
     "en": [
@@ -50,6 +52,13 @@
       "便捷交通",
       "文化景点",
       "城市与历史的融合"
+    ],
+    "ru": [
+      "Столица Бангкок",
+      "Исторические достопримечательности",
+      "Удобный транспорт",
+      "Культурные достопримечательности",
+      "Сочетание городского и исторического"
     ]
   },
   "cities": [
@@ -69,14 +78,16 @@
     "nl": "Heet (mrt-mei), regenseizoen (jun-okt), koel en droog (nov-feb)",
     "fr": "Chaud (mars-mai), pluvieux (juin-oct), frais et sec (nov-fév)",
     "de": "Heiß (März-Mai), Regenzeit (Juni-Okt), kühl und trocken (Nov-Feb)",
-    "zh": "炎热（3月-5月），雨季（6月-10月），凉爽干燥（11月-2月）"
+    "zh": "炎热（3月-5月），雨季（6月-10月），凉爽干燥（11月-2月）",
+    "ru": "Жарко (март-май), дождливо (июнь-октябрь), прохладно и сухо (ноябрь-февраль)"
   },
   "bestTimeToVisit": {
     "en": "November to February",
     "nl": "November tot februari",
     "fr": "Novembre à février",
     "de": "November bis Februar",
-    "zh": "11月至2月"
+    "zh": "11月至2月",
+    "ru": "С ноября по февраль"
   },
   "image": "/images/regions/central-thailand.webp",
   "geography": {
@@ -84,35 +95,40 @@
     "nl": "Vlakke rivierdelta langs de Chao Phraya-rivier. Stedelijke uitbreiding rond Bangkok met historische plekken en drijvende markten.",
     "fr": "Plaines deltaïques plates le long du fleuve Chao Phraya. Étalement urbain autour de Bangkok avec des sites historiques et des marchés flottants.",
     "de": "Flache Flussdelta-Ebenen entlang des Chao Phraya. Städtische Ausdehnung um Bangkok mit historischen Stätten und schwimmenden Märkten.",
-    "zh": "沿湄南河的平坦河流三角洲平原。曼谷周边城市扩展，拥有历史遗迹和水上市场。"
+    "zh": "沿湄南河的平坦河流三角洲平原。曼谷周边城市扩展，拥有历史遗迹和水上市场。",
+    "ru": "Плоские равнины речной дельты вдоль реки Чаопхрая. Городская застройка вокруг Бангкока с историческими памятниками и плавучими рынками."
   },
   "culture": {
     "en": "Mix of traditional Thai culture and modern cosmopolitan lifestyle. Royal heritage and Buddhist temples alongside skyscrapers.",
     "nl": "Mix van traditionele Thaise cultuur en modern kosmopolitisch leven. Koninklijk erfgoed en boeddhistische tempels naast wolkenkrabbers.",
     "fr": "Mélange de culture thaïlandaise traditionnelle et de mode de vie cosmopolite moderne. Patrimoine royal et temples bouddhistes aux côtés de gratte-ciel.",
     "de": "Mix aus traditioneller thailändischer Kultur und modernem kosmopolitischem Lebensstil. Königliches Erbe und buddhistische Tempel neben Wolkenkratzern.",
-    "zh": "传统泰国文化与现代国际化生活方式的融合。皇家遗产和佛教寺庙与摩天大楼并存。"
+    "zh": "传统泰国文化与现代国际化生活方式的融合。皇家遗产和佛教寺庙与摩天大楼并存。",
+    "ru": "Сочетание традиционной тайской культуры и современного космополитичного образа жизни. Королевское наследие и буддийские храмы соседствуют с небоскрёбами."
   },
   "cuisine": {
     "en": "Pad Thai, Tom Yum, Green Curry, Mango Sticky Rice. Street food capital with diverse international cuisine in Bangkok.",
     "nl": "Pad Thai, Tom Yum, groene curry, Mango Sticky Rice. Street food-hoofdstad met diverse internationale keuken in Bangkok.",
     "fr": "Pad Thai, Tom Yum, curry vert, Mango Sticky Rice. Capitale de la street food avec une cuisine internationale variée à Bangkok.",
     "de": "Pad Thai, Tom Yum, grünes Curry, Mango Sticky Rice. Street-Food-Hauptstadt mit vielfältiger internationaler Küche in Bangkok.",
-    "zh": "泰式炒河粉、冬阴功、绿咖喱、芒果糯米饭。曼谷是街头美食之都，汇聚多元国际美食。"
+    "zh": "泰式炒河粉、冬阴功、绿咖喱、芒果糯米饭。曼谷是街头美食之都，汇聚多元国际美食。",
+    "ru": "Пад Тай, Том Ям, зелёное карри, манго со сладким рисом. Бангкок — столица уличной еды с разнообразной международной кухней."
   },
   "transportation": {
     "en": "Excellent BTS/MRT in Bangkok. Trains to Ayutthaya. Buses and taxis widely available. Don Mueang and Suvarnabhumi airports.",
     "nl": "Uitstekend BTS/MRT in Bangkok. Treinen naar Ayutthaya. Bussen en taxi's ruim beschikbaar. Luchthavens Don Mueang en Suvarnabhumi.",
     "fr": "Excellent BTS/MRT à Bangkok. Trains vers Ayutthaya. Bus et taxis largement disponibles. Aéroports Don Mueang et Suvarnabhumi.",
     "de": "Ausgezeichnetes BTS/MRT in Bangkok. Züge nach Ayutthaya. Busse und Taxis weithin verfügbar. Flughäfen Don Mueang und Suvarnabhumi.",
-    "zh": "曼谷拥有优秀的BTS/MRT轻轨系统。火车可达大城府。巴士和出租车随处可见。廊曼机场和素万那普机场。"
+    "zh": "曼谷拥有优秀的BTS/MRT轻轨系统。火车可达大城府。巴士和出租车随处可见。廊曼机场和素万那普机场。",
+    "ru": "Отличное метро BTS/MRT в Бангкоке. Поезда до Аюттхаи. Автобусы и такси повсеместно доступны. Аэропорты Дон Муанг и Суварнабхуми."
   },
   "budgetInfo": {
     "en": "Budget: $30-50/day. Mid-range: $50-100/day. Luxury: $100+/day. Bangkok more expensive than other regions.",
     "nl": "Budget: $30-50/dag. Middenklasse: $50-100/dag. Luxe: $100+/dag. Bangkok is duurder dan andere regio's.",
     "fr": "Budget : $30-50/jour. Milieu de gamme : $50-100/jour. Luxe : $100+/jour. Bangkok est plus cher que les autres régions.",
     "de": "Budget: $30-50/Tag. Mittelklasse: $50-100/Tag. Luxus: $100+/Tag. Bangkok ist teurer als andere Regionen.",
-    "zh": "经济型：$30-50/天。中档：$50-100/天。豪华：$100+/天。曼谷消费高于其他地区。"
+    "zh": "经济型：$30-50/天。中档：$50-100/天。豪华：$100+/天。曼谷消费高于其他地区。",
+    "ru": "Бюджет: $30-50/день. Средний класс: $50-100/день. Люкс: $100+/день. Бангкок дороже других регионов."
   },
   "topActivities": {
     "en": [
@@ -129,6 +145,9 @@
     ],
     "zh": [
       "参观大皇宫、水上市场、寺庙巡游、街头美食之旅、购物、河上巡游、大城府一日游"
+    ],
+    "ru": [
+      "Посещение Большого дворца, плавучие рынки, экскурсии по храмам, гастрономические туры по уличной еде, шопинг, речные круизы, однодневные поездки в Аюттхаю"
     ]
   },
   "hiddenGems": {
@@ -146,6 +165,9 @@
     ],
     "zh": [
       "安帕瓦水上市场、邦喀造绿肺、美功铁道市场、帕南寺玻璃佛塔、空叻玛永水上市场"
+    ],
+    "ru": [
+      "Плавучий рынок Амфава, зелёные лёгкие Банг Крачао, железнодорожный рынок Мэклонг, стеклянная чеди Ват Пакнам, Клонг Лат Майом"
     ]
   },
   "localFestivals": {
@@ -163,6 +185,9 @@
     ],
     "zh": [
       "泼水节（4月）、水灯节（11月）、春节（1月/2月）、皇家典礼、金山寺庙会"
+    ],
+    "ru": [
+      "Сонгкран (апрель), Лой Кратонг (ноябрь), Китайский Новый год (янв/фев), королевские церемонии, ярмарка Золотой горы"
     ]
   },
   "travelTips": {
@@ -180,6 +205,9 @@
     ],
     "zh": [
       "乘坐BTS/MRT避开拥堵。协商出租车价格。注意补水。参观寺庙着装端庄。谨防诈骗。"
+    ],
+    "ru": [
+      "Используйте BTS/MRT, чтобы избежать пробок. Торгуйтесь за стоимость такси. Пейте больше воды. Одевайтесь скромно для посещения храмов. Остерегайтесь мошенников."
     ]
   },
   "whatToPack": {
@@ -197,6 +225,9 @@
     ],
     "zh": [
       "轻薄透气衣物、舒适的步行鞋、雨衣、寺庙端庄着装、防雾霾口罩、免洗洗手液"
+    ],
+    "ru": [
+      "Лёгкая дышащая одежда, удобная обувь для прогулок, дождевик, скромная одежда для храмов, маска от загрязнения воздуха, антисептик для рук"
     ]
   },
   "seo": {
@@ -205,14 +236,16 @@
       "nl": "Centraal-Thailand Reisgids 2026 | Go2Thailand",
       "fr": "Guide de voyage Thaïlande centrale 2026 | Go2Thailand",
       "de": "Zentralthailand Reiseführer 2026 | Go2Thailand",
-      "zh": "泰国中部旅游指南2026 | Go2Thailand"
+      "zh": "泰国中部旅游指南2026 | Go2Thailand",
+      "ru": "Путеводитель по Центральному Таиланду 2026 | Go2Thailand"
     },
     "metaDescription": {
       "en": "Central Thailand travel guide 2026. Best cities, attractions, climate, and travel tips for Bangkok, Ayutthaya, Kanchanaburi and more.",
       "nl": "Centraal-Thailand reisgids 2026. Beste steden, attracties, klimaat en reistips voor Bangkok, Ayutthaya, Kanchanaburi en meer.",
       "fr": "Guide de voyage Thaïlande centrale 2026. Meilleures villes, attractions, climat et conseils de voyage pour Bangkok, Ayutthaya, Kanchanaburi et plus.",
       "de": "Zentralthailand Reiseführer 2026. Beste Städte, Sehenswürdigkeiten, Klima und Reisetipps für Bangkok, Ayutthaya, Kanchanaburi und mehr.",
-      "zh": "泰国中部旅游指南2026。曼谷、大城府、北碧等最佳城市、景点、气候和旅行攻略。"
+      "zh": "泰国中部旅游指南2026。曼谷、大城府、北碧等最佳城市、景点、气候和旅行攻略。",
+      "ru": "Путеводитель по Центральному Таиланду 2026. Лучшие города, достопримечательности, климат и советы для Бангкока, Аюттхаи, Канчанабури и других."
     }
   },
   "categories": {
@@ -221,21 +254,24 @@
       "nl": "Top bezienswaardigheden in Centraal-Thailand",
       "fr": "Principales attractions en Thaïlande centrale",
       "de": "Top-Sehenswürdigkeiten in Zentralthailand",
-      "zh": "泰国中部热门景点"
+      "zh": "泰国中部热门景点",
+      "ru": "Лучшие достопримечательности Центрального Таиланда"
     },
     "cities": {
       "en": "Best cities to visit in Central Thailand",
       "nl": "Beste steden om te bezoeken in Centraal-Thailand",
       "fr": "Meilleures villes à visiter en Thaïlande centrale",
       "de": "Beste Städte in Zentralthailand",
-      "zh": "泰国中部最佳旅游城市"
+      "zh": "泰国中部最佳旅游城市",
+      "ru": "Лучшие города Центрального Таиланда"
     },
     "climate": {
       "en": "Climate and weather in Central Thailand",
       "nl": "Klimaat en weer in Centraal-Thailand",
       "fr": "Climat et météo en Thaïlande centrale",
       "de": "Klima und Wetter in Zentralthailand",
-      "zh": "泰国中部气候与天气"
+      "zh": "泰国中部气候与天气",
+      "ru": "Климат и погода в Центральном Таиланде"
     }
   },
   "tags": [
