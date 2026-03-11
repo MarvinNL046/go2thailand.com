@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 728
+    "completed": 729
   },
   "queue": [
     {
@@ -5840,7 +5840,8 @@
       "type": "food",
       "file": "data/enhanced/food/moo-palo.json",
       "locale": "zh",
-      "status": "pending",
+      "status": "completed",
+      "completedAt": "2026-03-11T00:00:00.000Z",
       "priority": 12
     },
     {
