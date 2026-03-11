@@ -463,6 +463,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Khao Kan Jin是一道深受喜爱的北泰丰盛主菜，带有微妙的温热感。用蕉叶包裹的猪血蒸饭。这道难度较高的菜肴大约需要60分钟准备，代表了北泰料理的正宗风味，以口味温和、糯米和香草为特色。米饭、猪血和大蒜的组合创造出和谐的口味融合，使这道菜成为当地人和游客的最爱。非常适合寻找经济实惠的正宗泰式料理的食客。",
+      "detailed_ingredients": [
+        {
+          "name": "米饭",
+          "purpose": "Khao Kan Jin正宗风味的关键食材",
+          "substitutes": [
+            "新鲜米饭",
+            "糯米",
+            "茉莉香米"
+          ]
+        },
+        {
+          "name": "猪血",
+          "purpose": "Khao Kan Jin正宗风味的关键食材",
+          "substitutes": [
+            "新鲜猪血",
+            "干猪血",
+            "猪血汤"
+          ]
+        },
+        {
+          "name": "大蒜",
+          "purpose": "Khao Kan Jin正宗风味的关键食材",
+          "substitutes": [
+            "新鲜大蒜",
+            "干蒜",
+            "蒜蓉酱"
+          ]
+        },
+        {
+          "name": "红葱头",
+          "purpose": "Khao Kan Jin正宗风味的关键食材",
+          "substitutes": [
+            "新鲜红葱头",
+            "干红葱头",
+            "红葱头酱"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "蕉叶蒸制",
+        "steps_overview": "制作Khao Kan Jin需要注重细节和掌握好时机。关键在于平衡所有风味的同时保持每种食材的口感。代代相传的传统烹饪方法确保了正宗的味道。",
+        "cooking_tips": [
+          "使用新鲜米饭以获得最佳效果",
+          "根据个人口味调整辣度",
+          "避免过度烹饪以保持口感",
+          "上菜前品尝并调整调味"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Kan Jin世代以来一直是北泰料理的经典菜肴，体现了该地区独特的烹饪传统和本地食材。",
+        "cultural_importance": "这道菜代表了北泰烹饪的精髓，展现了使泰国料理享誉全球的平衡与和谐。",
+        "traditional_occasions": [
+          "家庭聚会",
+          "当地节庆",
+          "街头美食市场",
+          "特殊庆典"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Khao Kan Jin",
+          "description": "当地家庭传统烹饪的经典版本"
+        },
+        {
+          "name": "现代Khao Kan Jin",
+          "description": "使用优质食材的现代创新版本"
+        },
+        {
+          "name": "素食Khao Kan Jin",
+          "description": "使用豆腐或蘑菇的植物性版本"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "糯米",
+          "新鲜蔬菜",
+          "泰式香草"
+        ],
+        "presentation": "以传统北泰风格用蕉叶包装上桌",
+        "eating_etiquette": "按照北泰习惯用手或叉子和勺子食用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "当地北泰餐厅",
+          "正宗街头小吃摊",
+          "传统市场",
+          "家庭经营的小餐馆"
+        ],
+        "street_food_areas": [
+          "夜市",
+          "早市",
+          "当地美食广场"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
