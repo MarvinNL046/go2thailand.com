@@ -35,15 +35,6 @@
       },
       "locale": "en",
       "subscribedAt": "2026-03-10T18:23:00.755Z"
-    },
-    {
-      "endpoint": "https://fcm.googleapis.com/fcm/send/e9vnFLd3ph4:APA91bFKRR8Uh7xoPIdrItU9ALkYgJF9alw9i5KFzaTZtJ3rjuJjBqnGtJx73mQ2GfdQBooHO3lw_Vj5pLcDAbH2vP3g156DLa_gC7fEGG-UdojKOVhmDFqWHp_tjaUdIRe2tUBoDCym",
-      "keys": {
-        "p256dh": "BBqiRUeuXz3FoZ_FEssntsaO29ahMMcbJpdYWYIuDL2Ja9MOxM2y_a56Yg5sIGJ5kJHiHNukHq6dGDegn2YFDo8",
-        "auth": "S4hAqoX6em4aaETyM-A4Rw"
-      },
-      "locale": "en",
-      "subscribedAt": "2026-03-10T19:40:52.881Z"
     }
   ]
 }
