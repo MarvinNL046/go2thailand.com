@@ -451,6 +451,99 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Tom Yum Goong就是一碗泰国——一道猛烈而芬芳的汤品，体现了泰国平衡极致的饮食哲学。这道酸辣虾汤是层层叠加风味的大师课：香茅的柑橘冲击、南姜的花香、辣椒的热力，全都在一锅既温暖又提神的汤中交融。它既是良药，又是魔法，绝对独一无二。",
+      "detailed_ingredients": [
+        {
+          "name": "香茅",
+          "purpose": "提供标志性的柑橘香气和抗菌特性",
+          "substitutes": [
+            "柠檬皮（味道会不同）",
+            "瓶装香茅酱"
+          ]
+        },
+        {
+          "name": "南姜",
+          "purpose": "添加与生姜不同的尖锐胡椒味",
+          "substitutes": [
+            "新鲜生姜（风味不同）",
+            "冷冻南姜"
+          ]
+        },
+        {
+          "name": "青柠叶",
+          "purpose": "带来花香柑橘味和芳香精油",
+          "substitutes": [
+            "青柠皮屑",
+            "月桂叶加青柠汁"
+          ]
+        },
+        {
+          "name": "Nam Prik Pao（辣椒油）",
+          "purpose": "为清汤版增添深度、色泽和鲜味",
+          "substitutes": [
+            "辣椒酱",
+            "参巴辣椒酱加糖"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "芳香浸泡和快速烹饪",
+        "steps_overview": "Tom Yum的关键在于层层构建风味。香料被拍碎浸泡，蛋白质快速烹熟，最后的调味在离火后添加。关键是不要过久煮沸香草，否则会变苦。",
+        "cooking_tips": [
+          "拍碎香茅和南姜以释放精油",
+          "切勿将香草煮太久——浸泡后取出",
+          "离火后再加青柠汁以保留维生素C",
+          "使用带壳虾以增加风味",
+          "汤应该让你微微咳嗽——那就是完美的辣度"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "起源于泰国中部湄南河沿岸，那里盛产大虾。这道汤从古代泰国用于驱除疾病的药膳汤中演变而来。",
+        "cultural_importance": "Tom Yum是泰国的鸡汤——生病时喝、伤心时喝、庆祝时也喝。1997年亚洲金融危机被称为'冬阴功危机'（Tom Yum Goong Crisis），可见这道菜在泰国文化中根深蒂固。",
+        "traditional_occasions": [
+          "治疗感冒和流感的良药",
+          "解酒良方",
+          "待客迎宾菜",
+          "雨季的暖心美食"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Nam Khon",
+          "description": "加淡奶的奶白版——现代曼谷风格"
+        },
+        {
+          "name": "Tom Yum Nam Sai",
+          "description": "清汤版——最正宗的原始版本"
+        },
+        {
+          "name": "Tom Yum Talay",
+          "description": "混合海鲜版——沿海地区的热门选择"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米",
+          "新鲜蔬菜"
+        ],
+        "presentation": "以传统泰式风格热腾腾上桌",
+        "eating_etiquette": "用叉子和勺子食用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Pe Aor (Bangkok) — 以冬阴功面条闻名",
+          "Pee Aor (Bangkok) — 不同的店，同样出名",
+          "任何河畔餐厅都有正宗版本"
+        ],
+        "street_food_areas": [
+          "Chatuchak Weekend Market",
+          "Wang Lang Market（Siriraj Hospital附近）",
+          "唐人街晚间摊位"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
