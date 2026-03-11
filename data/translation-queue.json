@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 976
+    "completed": 977
   },
   "queue": [
     {
@@ -7824,8 +7824,9 @@
       "type": "top10",
       "file": "data/top10/kanchanaburi-restaurants.json",
       "locale": "ja",
-      "status": "pending",
-      "priority": 14
+      "status": "completed",
+      "priority": 14,
+      "completedAt": "2026-03-11T00:00:00.000Z"
     },
     {
       "type": "top10",
