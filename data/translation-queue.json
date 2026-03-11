@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 839
+    "completed": 840
   },
   "queue": [
     {
@@ -6728,7 +6728,8 @@
       "type": "top10",
       "file": "data/top10/sukhothai-restaurants.json",
       "locale": "ru",
-      "status": "pending",
+      "status": "completed",
+      "completedAt": "2026-03-11T00:00:00.000Z",
       "priority": 13
     },
     {
