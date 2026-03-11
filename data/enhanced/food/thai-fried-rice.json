@@ -427,6 +427,93 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Khao Pad（泰式炒饭）是泰国最经典的家常美食——将昨天的剩饭变成今天的满足。与中式炒饭不同，泰式版本更清爽、更芳香，通常搭配新鲜配菜。每一粒米饭都应该粒粒分明，轻裹酱汁，达到镬气与清新风味的完美平衡。",
+      "detailed_ingredients": [
+        {
+          "name": "隔夜茉莉香米",
+          "purpose": "干燥的米饭炒起来更好，不会结块",
+          "substitutes": [
+            "新煮的米饭摊开冷却",
+            "任何长粒米",
+            "花椰菜米（低碳水替代）"
+          ]
+        },
+        {
+          "name": "泰式淡酱油",
+          "purpose": "比中式酱油更清淡，增添咸味而不加深颜色",
+          "substitutes": [
+            "生抽",
+            "稀释的鱼露",
+            "无麸质酱油"
+          ]
+        },
+        {
+          "name": "白胡椒",
+          "purpose": "独特的泰式调味料，增添辣度而不改变颜色",
+          "substitutes": [
+            "黑胡椒（会改变外观）",
+            "研磨花椒粉"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "大火炒锅烹饪，配合适当的米饭准备",
+        "steps_overview": "成功取决于准备工作——米饭必须干燥，锅必须烧热，食材必须备好。一切都很快，米饭最后加入，不断翻炒以防粘锅，同时发展出烟熏风味。",
+        "cooking_tips": [
+          "炒之前先把米饭结块弄散",
+          "使用最大火力",
+          "保持米饭不断翻动",
+          "沿锅边加酱汁，不要直接浇在米饭上",
+          "最后搭配新鲜黄瓜和青柠"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "由华人移民的炒饭演变而来，但根据泰国口味进行了调整，使用更清淡的调味和新鲜配菜。作为利用泰国家庭剩饭的方式而流行开来。",
+        "cultural_importance": "Khao Pad是泰国的日常英雄——从街边推车到酒店早餐自助餐，无处不在。它代表了泰国人的实用精神和用简单食材创造美味的能力。",
+        "traditional_occasions": [
+          "快速早餐",
+          "深夜街头美食",
+          "剩饭大变身",
+          "孩子们最爱的饭菜"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Poo",
+          "description": "蟹肉炒饭——豪华版本"
+        },
+        {
+          "name": "Khao Pad American",
+          "description": "加番茄酱、热狗和葡萄干——泰国人对'美式'食物的诠释"
+        },
+        {
+          "name": "Khao Pad Sapparot",
+          "description": "装在菠萝里搭配腰果——游客最爱"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米",
+          "新鲜蔬菜"
+        ],
+        "presentation": "以传统泰式风格热腾腾上桌",
+        "eating_etiquette": "用叉子和勺子食用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) — 以泰式炒面闻名，但炒饭也很棒",
+          "Raan Jay Fai (Bangkok) — 蟹肉炒饭值得等待",
+          "任何拥有一口老锅的街头摊贩"
+        ],
+        "street_food_areas": [
+          "泰国的每一个街角都有",
+          "到处都是的夜市",
+          "医院和大学附近的24小时餐馆"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
