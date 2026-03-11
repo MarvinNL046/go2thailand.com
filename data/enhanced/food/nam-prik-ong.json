@@ -463,6 +463,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Nam Prik Ong是一道深受喜爱的泰北丰盛主菜，带有令人愉悦的辣味。这是一道以番茄和猪肉末为主料的辣蘸酱，搭配蔬菜食用。这道简单的食谱大约需要25分钟准备，代表了泰北料理的正宗风味——以温和的口味、糯米和香草为特色。番茄、猪肉末和红葱头的组合创造出和谐的风味搭配，使这道菜深受当地人和游客的喜爱。非常适合寻找实惠正宗泰式料理的食客。",
+      "detailed_ingredients": [
+        {
+          "name": "番茄",
+          "purpose": "Nam Prik Ong正宗风味的关键食材",
+          "substitutes": [
+            "新鲜番茄",
+            "番茄干",
+            "番茄酱"
+          ]
+        },
+        {
+          "name": "猪肉末",
+          "purpose": "Nam Prik Ong正宗风味的关键食材",
+          "substitutes": [
+            "新鲜猪肉末",
+            "鸡肉末",
+            "豆腐（素食版本）"
+          ]
+        },
+        {
+          "name": "红葱头",
+          "purpose": "Nam Prik Ong正宗风味的关键食材",
+          "substitutes": [
+            "新鲜红葱头",
+            "干红葱头",
+            "红洋葱"
+          ]
+        },
+        {
+          "name": "大蒜",
+          "purpose": "Nam Prik Ong正宗风味的关键食材",
+          "substitutes": [
+            "新鲜大蒜",
+            "蒜粉",
+            "蒜蓉酱"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "翻炒与捣碎",
+        "steps_overview": "制作Nam Prik Ong需要注重细节和恰当的时间掌控。关键在于平衡所有风味，同时保持每种食材的口感。世代相传的传统做法确保了正宗的味道。",
+        "cooking_tips": [
+          "使用新鲜番茄以获得最佳风味",
+          "根据个人喜好调整辣度",
+          "不要过度烹煮以保持口感",
+          "上菜前品尝并调整调味"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Ong世代以来一直是泰北料理的主食，反映了该地区独特的烹饪传统和本地食材。",
+        "cultural_importance": "这道菜代表了泰北烹饪的精髓，展现了泰式料理举世闻名的平衡与和谐。",
+        "traditional_occasions": [
+          "家庭聚会",
+          "地方节日",
+          "街头美食市场",
+          "特殊庆典"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Nam Prik Ong",
+          "description": "当地家庭烹制的传统版本"
+        },
+        {
+          "name": "现代Nam Prik Ong",
+          "description": "使用高级食材的现代创新版本"
+        },
+        {
+          "name": "素食Nam Prik Ong",
+          "description": "使用豆腐或蘑菇的素食版本"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米",
+          "新鲜蔬菜",
+          "泰式香草"
+        ],
+        "presentation": "以传统泰北风格盛在盘中",
+        "eating_etiquette": "按照泰国习俗使用叉子和勺子食用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "当地泰北餐厅",
+          "正宗街头美食摊位",
+          "传统市场",
+          "家庭经营的小餐馆"
+        ],
+        "street_food_areas": [
+          "夜市",
+          "早市",
+          "当地美食广场"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
