@@ -427,6 +427,94 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Larb是老挝和泰国东北部的国菜——一种肉沙拉，实际上更像是解构的香肠。这道充满活力的香草"沙拉"将烤米粉、新鲜香草和青柠汁与肉末相结合，产生令人惊叹的口感和风味爆发。搭配糯米和生蔬菜食用，体现了伊桑地区的饮食方式：集体分享、平衡搭配、大胆调味。",
+      "detailed_ingredients": [
+        {
+          "name": "烤米粉（Khao Khua）",
+          "purpose": "增添坚果般的香味和独特的颗粒口感——这是这道菜的标志性元素",
+          "substitutes": [
+            "自己烘烤大米",
+            "碾碎的米饼",
+            "烘烤的藜麦片"
+          ]
+        },
+        {
+          "name": "新鲜薄荷",
+          "purpose": "为肉类和辣味提供清凉的对比",
+          "substitutes": [
+            "泰式罗勒",
+            "芫荽",
+            "紫苏叶"
+          ]
+        },
+        {
+          "name": "红葱头",
+          "purpose": "增添辛辣而带甜的爽脆口感",
+          "substitutes": [
+            "红洋葱",
+            "小葱",
+            "韭葱（切细丝）"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "快速烹制与新鲜拌合",
+        "steps_overview": "肉类快速烹熟（传统版本则保持生食），然后趁热立即与香草和调料混合。余温会让香草微微萎蔫，释放出精油香气。所有食材在上桌前才拌在一起。",
+        "cooking_tips": [
+          "不要过度烹煮肉类——拌合时余温会继续加热",
+          "将大米烤至金黄色并散发香气",
+          "在最后时刻加入香草以保持新鲜度",
+          "尝味调整——应该是酸、辣、咸的平衡",
+          "立即上桌——这道菜不适合久放"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "这是一道古老的老挝菜肴，可追溯到有文字记载之前。最初用生肉和血制作，是特殊场合的仪式性菜肴。'Larb'一词在老挝语中意为'好运'。",
+        "cultural_importance": "Larb出现在每一个重要的伊桑仪式上——出生、丧事、婚礼和新年。它代表了社区和分享的精神，总是搭配搓成小球的糯米一起食用。",
+        "traditional_occasions": [
+          "拴线祈福仪式（Baci）",
+          "寺庙节日",
+          "新年庆典",
+          "欢迎贵宾的宴会"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Larb Dip",
+          "description": "生牛肉加血的版本——传统伊桑风格"
+        },
+        {
+          "name": "Larb Pla",
+          "description": "鱼肉版本，在湄公河沿岸地区很受欢迎"
+        },
+        {
+          "name": "Larb Moo",
+          "description": "熟猪肉版本——最常见也最安全"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "糯米",
+          "新鲜蔬菜"
+        ],
+        "presentation": "以传统泰式风格热食上桌",
+        "eating_etiquette": "用手将糯米搓成小球蘸取食用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Jay So（曼谷）——正宗伊桑风味",
+          "Larb Loi（曼谷）——专营Larb的餐厅",
+          "任何播放Mor Lam音乐的伊桑餐厅"
+        ],
+        "street_food_areas": [
+          "Huai Khwang Night Market",
+          "JJ Green Night Market",
+          "Saphan Phut Night Market"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
