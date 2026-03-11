@@ -454,6 +454,100 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "玛莎曼咖喱是泰国最复杂的咖喱，一道壮丽的泰式与印度-波斯风味融合之作，讲述着古老贸易路线的故事。这道浓郁温和的咖喱将豆蔻和肉桂等暖身香料与泰式食材相结合，创造出一道既异域又温暖人心的菜肴。CNN曾将它评为世界上最美味的食物，一口就能明白其中缘由。",
+      "detailed_ingredients": [
+        {
+          "name": "玛莎曼咖喱酱",
+          "purpose": "包含肉豆蔻等非传统泰式食材的复合香料酱",
+          "substitutes": [
+            "成品咖喱酱（推荐Maesri品牌）",
+            "印度综合香料（garam masala）加泰式元素"
+          ]
+        },
+        {
+          "name": "整粒香料",
+          "purpose": "豆蔻、肉桂、八角赋予波斯风味",
+          "substitutes": [
+            "研磨版（香气较弱）",
+            "中式五香粉"
+          ]
+        },
+        {
+          "name": "罗望子酱",
+          "purpose": "提供这道菜标志性的酸甜风味",
+          "substitutes": [
+            "青柠汁配棕榈糖",
+            "伍斯特酱"
+          ]
+        },
+        {
+          "name": "花生",
+          "purpose": "增添口感和坚果的浓郁风味",
+          "substitutes": [
+            "腰果",
+            "杏仁",
+            "过敏者可省略"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "慢炖与香料烘烤",
+        "steps_overview": "玛莎曼咖喱需要耐心——这是一道慢炖咖喱，坚韧的肉块在长时间烹煮中变得酥软，香料融合成复杂的和谐风味。整粒香料先烘烤，咖喱酱炒香，然后所有食材小火慢炖数小时。",
+        "cooking_tips": [
+          "加入前先烘烤整粒香料以释放精油",
+          "使用较硬的牛肉部位——炖后会变得极其软嫩",
+          "小火慢炖——急躁会毁了这道菜",
+          "整个烹饪过程中平衡甜、酸、咸的味道",
+          "放置一夜——隔天味道更好"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "17世纪通过波斯-印度穆斯林商人传入泰国。名称源自'Mussulman'，是穆斯林的古称。泰国宫廷厨师用当地食材对其进行了改良。",
+        "cultural_importance": "玛莎曼咖喱代表了泰国在保持自身特色的同时对外来影响的包容。它出现在外交宴会上，代表着泰国的烹饪精粹。",
+        "traditional_occasions": [
+          "泰国南部的开斋节庆祝活动",
+          "皇家宴会",
+          "婚宴",
+          "重要商务宴请"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Massaman Nuea",
+          "description": "牛肉版——最传统也最受欢迎"
+        },
+        {
+          "name": "Massaman Gai",
+          "description": "鸡肉版——烹饪更快，适合日常餐食"
+        },
+        {
+          "name": "Massaman羊肉",
+          "description": "奢华版本，在高档餐厅颇受欢迎"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米",
+          "新鲜蔬菜"
+        ],
+        "presentation": "以传统泰式风格热食上桌",
+        "eating_etiquette": "用叉子和勺子享用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Nahm（曼谷）——米其林星级的完美呈现",
+          "Blue Elephant（曼谷）——皇家泰式料理",
+          "Charoen Krung Road上的穆斯林餐厅"
+        ],
+        "street_food_areas": [
+          "因烹饪时间长，很少作为街头小吃出现",
+          "Or Tor Kor Market有少量摊贩",
+          "曼谷的穆斯林美食中心"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
