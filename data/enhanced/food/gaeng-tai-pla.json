@@ -467,6 +467,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Gaeng Tai Pla是一道深受喜爱的泰国南部浓郁芳香咖喱，对真正的辣椒爱好者来说极其过瘾。这道极辣的南部鱼内脏咖喱难度较高，约需40分钟准备，体现了泰国南部料理的正宗风味——以浓烈香料、海鲜和椰基咖喱著称。鱼内脏、辣椒和香茅的组合创造出和谐的口感，使这道菜深受当地人和游客的喜爱。非常适合寻找平价正宗泰国美食的食客。",
+      "detailed_ingredients": [
+        {
+          "name": "鱼内脏",
+          "purpose": "正宗Gaeng Tai Pla风味的关键食材",
+          "substitutes": [
+            "新鲜鱼内脏",
+            "干鱼内脏",
+            "鱼内脏酱"
+          ]
+        },
+        {
+          "name": "辣椒",
+          "purpose": "正宗Gaeng Tai Pla风味的关键食材",
+          "substitutes": [
+            "新鲜辣椒",
+            "干辣椒",
+            "辣椒酱"
+          ]
+        },
+        {
+          "name": "香茅",
+          "purpose": "正宗Gaeng Tai Pla风味的关键食材",
+          "substitutes": [
+            "新鲜香茅",
+            "干香茅",
+            "香茅酱"
+          ]
+        },
+        {
+          "name": "姜黄",
+          "purpose": "正宗Gaeng Tai Pla风味的关键食材",
+          "substitutes": [
+            "新鲜姜黄",
+            "干姜黄粉",
+            "姜黄酱"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒咖喱酱和椰奶收汁",
+        "steps_overview": "制作Gaeng Tai Pla需要注重细节和掌握好时间。关键在于平衡所有味道的同时保持每种食材的口感。代代相传的传统做法确保了正宗的味道。",
+        "cooking_tips": [
+          "使用新鲜鱼内脏以获得最佳效果",
+          "根据个人喜好调整辣度",
+          "不要过度烹煮以保持口感",
+          "上桌前品尝并调整调味"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng Tai Pla世代以来一直是泰国南部料理的经典，反映了该地区独特的烹饪传统和本地食材。",
+        "cultural_importance": "这道菜代表了泰国南部烹饪的精髓，展示了泰国料理闻名世界的平衡与和谐。",
+        "traditional_occasions": [
+          "家庭聚会",
+          "本地节庆",
+          "街头美食市场",
+          "特殊庆典"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Gaeng Tai Pla",
+          "description": "当地家庭中供应的传统版本"
+        },
+        {
+          "name": "现代Gaeng Tai Pla",
+          "description": "使用高级食材的现代演绎"
+        },
+        {
+          "name": "素食Gaeng Tai Pla",
+          "description": "使用豆腐或蘑菇的素食版本"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米",
+          "新鲜蔬菜",
+          "泰式香草"
+        ],
+        "presentation": "以传统泰南风格盛于碗中",
+        "eating_etiquette": "按照泰国习惯使用叉子和勺子食用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "当地泰国南部餐厅",
+          "正宗街头小吃摊",
+          "传统市场",
+          "家庭式小餐馆"
+        ],
+        "street_food_areas": [
+          "夜市",
+          "早市",
+          "本地美食广场"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
