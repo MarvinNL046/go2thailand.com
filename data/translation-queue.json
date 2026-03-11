@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 856
+    "completed": 857
   },
   "queue": [
     {
@@ -6864,7 +6864,8 @@
       "type": "city",
       "file": "data/enhanced/bangkok.json",
       "locale": "ru",
-      "status": "pending",
+      "status": "completed",
+      "completedAt": "2026-03-11T00:00:00.000Z",
       "priority": 13
     },
     {
