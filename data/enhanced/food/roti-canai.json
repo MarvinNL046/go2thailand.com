@@ -468,6 +468,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Roti Canai是一道深受喜爱的泰南丰盛主菜，带有温和的风味。这是一种马来-泰式薄饼，搭配咖喱食用。这道中等难度的食谱大约需要20分钟准备，代表了泰南料理的正宗风味——以浓烈的香料、海鲜和椰奶咖喱为特色。面粉、酥油和鸡蛋的组合创造出和谐的风味搭配，使这道菜深受当地人和游客的喜爱。非常适合寻找实惠正宗泰式料理的食客。",
+      "detailed_ingredients": [
+        {
+          "name": "面粉",
+          "purpose": "Roti Canai正宗风味的关键食材",
+          "substitutes": [
+            "小麦面粉",
+            "自发粉",
+            "斯佩尔特面粉"
+          ]
+        },
+        {
+          "name": "酥油（Ghee）",
+          "purpose": "Roti Canai正宗风味的关键食材",
+          "substitutes": [
+            "澄清黄油",
+            "黄油",
+            "植物油"
+          ]
+        },
+        {
+          "name": "鸡蛋",
+          "purpose": "Roti Canai正宗风味的关键食材",
+          "substitutes": [
+            "新鲜鸡蛋",
+            "鸡蛋替代品",
+            "省略（纯素版本）"
+          ]
+        },
+        {
+          "name": "盐",
+          "purpose": "Roti Canai正宗风味的关键食材",
+          "substitutes": [
+            "海盐",
+            "喜马拉雅盐",
+            "细食用盐"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "拉面与热板煎烤",
+        "steps_overview": "制作Roti Canai需要注重细节和恰当的时间掌控。关键在于平衡所有风味，同时保持每种食材的口感。世代相传的传统做法确保了正宗的味道。",
+        "cooking_tips": [
+          "使用新鲜面粉以获得最佳效果",
+          "根据个人喜好调整辣度",
+          "不要烤制过度以保持口感",
+          "上菜前品尝并调整调味"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Roti Canai世代以来一直是泰南料理的主食，反映了该地区独特的烹饪传统和本地食材。",
+        "cultural_importance": "这道菜代表了泰南烹饪的精髓，展现了泰式料理举世闻名的平衡与和谐。",
+        "traditional_occasions": [
+          "家庭聚会",
+          "地方节日",
+          "街头美食市场",
+          "特殊庆典"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Roti Canai",
+          "description": "当地家庭烹制的传统版本"
+        },
+        {
+          "name": "现代Roti Canai",
+          "description": "使用高级食材的现代创新版本"
+        },
+        {
+          "name": "素食Roti Canai",
+          "description": "使用豆腐或蘑菇的素食版本"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米",
+          "新鲜蔬菜",
+          "泰式香草"
+        ],
+        "presentation": "以传统泰南风格盛在盘中",
+        "eating_etiquette": "按照泰国习俗使用叉子和勺子食用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "当地泰南餐厅",
+          "正宗街头美食摊位",
+          "传统市场",
+          "家庭经营的小餐馆"
+        ],
+        "street_food_areas": [
+          "夜市",
+          "早市",
+          "当地美食广场"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
