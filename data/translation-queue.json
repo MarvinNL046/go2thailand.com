@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 673
+    "completed": 674
   },
   "queue": [
     {
@@ -5400,8 +5400,9 @@
       "type": "city",
       "file": "data/enhanced/chiang-rai.json",
       "locale": "zh",
-      "status": "pending",
-      "priority": 12
+      "status": "completed",
+      "priority": 12,
+      "completedAt": "2026-03-11T00:00:00.000Z"
     },
     {
       "type": "city",
