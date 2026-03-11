@@ -7,7 +7,8 @@
     "fr": "Thaïlande du Sud",
     "de": "Südthailand",
     "zh": "泰国南部",
-    "ru": "Южный Таиланд"
+    "ru": "Южный Таиланд",
+    "ja": "タイ南部"
   },
   "description": {
     "en": "Tropical paradise with stunning beaches, islands, marine life, and vibrant nightlife.",
@@ -15,7 +16,8 @@
     "fr": "Paradis tropical avec des plages magnifiques, des îles, une vie marine riche et une vie nocturne animée.",
     "de": "Tropisches Paradies mit atemberaubenden Stränden, Inseln, Meeresleben und pulsierendem Nachtleben.",
     "zh": "热带天堂，拥有迷人的海滩、岛屿、海洋生物和热闹的夜生活。",
-    "ru": "Тропический рай с потрясающими пляжами, островами, морской фауной и яркой ночной жизнью."
+    "ru": "Тропический рай с потрясающими пляжами, островами, морской фауной и яркой ночной жизнью.",
+    "ja": "美しいビーチ、島々、海洋生物、活気あるナイトライフが楽しめるトロピカルパラダイス。"
   },
   "highlights": {
     "en": [
@@ -59,6 +61,13 @@
       "Морские развлечения",
       "Тропический климат",
       "Кухня из морепродуктов"
+    ],
+    "ja": [
+      "美しいビーチ",
+      "アイランドホッピング",
+      "マリンアクティビティ",
+      "熱帯気候",
+      "シーフード料理"
     ]
   },
   "cities": [
@@ -77,7 +86,8 @@
     "fr": "Chaud et humide toute l'année, sec (déc-avr), pluvieux (mai-nov)",
     "de": "Heiß und feucht das ganze Jahr, trocken (Dez-Apr), Regenzeit (Mai-Nov)",
     "zh": "全年炎热潮湿，干季（12月-4月），雨季（5月-11月）",
-    "ru": "Жарко и влажно круглый год, сухой сезон (дек-апр), дождливый сезон (май-ноябрь)"
+    "ru": "Жарко и влажно круглый год, сухой сезон (дек-апр), дождливый сезон (май-ноябрь)",
+    "ja": "年間を通じて高温多湿、乾季（12月〜4月）、雨季（5月〜11月）"
   },
   "bestTimeToVisit": {
     "en": "December to April",
@@ -85,7 +95,8 @@
     "fr": "Décembre à avril",
     "de": "Dezember bis April",
     "zh": "12月至4月",
-    "ru": "С декабря по апрель"
+    "ru": "С декабря по апрель",
+    "ja": "12月から4月"
   },
   "image": "/images/regions/southern-thailand.webp",
   "geography": {
@@ -94,7 +105,8 @@
     "fr": "Deux côtes : mer d'Andaman (ouest) et golfe de Thaïlande (est). Karsts calcaires, plages immaculées et îles tropicales.",
     "de": "Zwei Küstenlinien: Andamanensee (Westen) und Golf von Thailand (Osten). Kalksteinkarste, unberührte Strände und tropische Inseln.",
     "zh": "两条海岸线：安达曼海（西部）和泰国湾（东部）。石灰岩喀斯特地貌、原始海滩和热带岛屿。",
-    "ru": "Два побережья: Андаманское море (запад) и Сиамский залив (восток). Известняковые карстовые образования, нетронутые пляжи и тропические острова."
+    "ru": "Два побережья: Андаманское море (запад) и Сиамский залив (восток). Известняковые карстовые образования, нетронутые пляжи и тропические острова.",
+    "ja": "2つの海岸線：アンダマン海（西側）とタイ湾（東側）。石灰岩カルスト、手つかずのビーチ、熱帯の島々。"
   },
   "culture": {
     "en": "Relaxed beach culture mixed with Muslim influences in the south. Fishing communities and tourism-focused areas.",
@@ -102,7 +114,8 @@
     "fr": "Culture balnéaire décontractée mêlée d'influences musulmanes dans le sud. Communautés de pêcheurs et zones touristiques.",
     "de": "Entspannte Strandkultur gemischt mit muslimischen Einflüssen im Süden. Fischergemeinden und tourismusorientierte Gebiete.",
     "zh": "悠闲的海滩文化与南部穆斯林文化的融合。渔村社区和旅游重点区域。",
-    "ru": "Расслабленная пляжная культура с мусульманским влиянием на юге. Рыбацкие общины и туристические зоны."
+    "ru": "Расслабленная пляжная культура с мусульманским влиянием на юге. Рыбацкие общины и туристические зоны.",
+    "ja": "リラックスしたビーチカルチャーと南部のイスラム文化が融合。漁村コミュニティと観光エリア。"
   },
   "cuisine": {
     "en": "Fresh seafood, southern curries, coconut-based dishes, tropical fruits. Spicier than northern cuisine with Malay influences.",
@@ -110,7 +123,8 @@
     "fr": "Fruits de mer frais, currys du sud, plats à base de noix de coco, fruits tropicaux. Plus épicé que la cuisine du nord avec des influences malaises.",
     "de": "Frische Meeresfrüchte, südliche Currys, Gerichte auf Kokosnussbasis, tropische Früchte. Schärfer als die nördliche Küche mit malaiischen Einflüssen.",
     "zh": "新鲜海鲜、南方咖喱、椰奶菜肴、热带水果。比北方菜更辣，受马来美食影响。",
-    "ru": "Свежие морепродукты, южные карри, блюда на основе кокоса, тропические фрукты. Острее северной кухни, с малайским влиянием."
+    "ru": "Свежие морепродукты, южные карри, блюда на основе кокоса, тропические фрукты. Острее северной кухни, с малайским влиянием.",
+    "ja": "新鮮なシーフード、南部カレー、ココナッツベースの料理、トロピカルフルーツ。北部料理より辛く、マレー料理の影響を受ける。"
   },
   "transportation": {
     "en": "Domestic flights to Phuket/Krabi/Surat Thani. Ferries to islands. Buses along coast. Longtail boats and speedboats.",
@@ -118,7 +132,8 @@
     "fr": "Vols intérieurs vers Phuket/Krabi/Surat Thani. Ferries vers les îles. Bus le long de la côte. Bateaux longtail et hors-bord.",
     "de": "Inlandsflüge nach Phuket/Krabi/Surat Thani. Fähren zu den Inseln. Busse entlang der Küste. Longtailboote und Schnellboote.",
     "zh": "国内航班飞往普吉/甲米/素叻他尼。渡轮前往各岛屿。沿海巴士。长尾船和快艇。",
-    "ru": "Внутренние рейсы до Пхукета/Краби/Сураттхани. Паромы на острова. Автобусы вдоль побережья. Лодки-длиннохвостки и скоростные катера."
+    "ru": "Внутренние рейсы до Пхукета/Краби/Сураттхани. Паромы на острова. Автобусы вдоль побережья. Лодки-длиннохвостки и скоростные катера.",
+    "ja": "プーケット/クラビ/スラータニーへの国内線。島へのフェリー。沿岸バス。ロングテールボートとスピードボート。"
   },
   "budgetInfo": {
     "en": "Budget: $20-35/day. Mid-range: $35-70/day. Luxury: $70+/day. Island prices higher, especially Phuket.",
@@ -126,7 +141,8 @@
     "fr": "Budget : $20-35/jour. Milieu de gamme : $35-70/jour. Luxe : $70+/jour. Les prix sur les îles sont plus élevés, surtout à Phuket.",
     "de": "Budget: $20-35/Tag. Mittelklasse: $35-70/Tag. Luxus: $70+/Tag. Inselpreise sind höher, besonders Phuket.",
     "zh": "经济型：$20-35/天。中档：$35-70/天。豪华：$70+/天。岛屿价格较高，尤其是普吉岛。",
-    "ru": "Бюджет: $20-35/день. Средний класс: $35-70/день. Люкс: $70+/день. Цены на островах выше, особенно на Пхукете."
+    "ru": "Бюджет: $20-35/день. Средний класс: $35-70/день. Люкс: $70+/день. Цены на островах выше, особенно на Пхукете.",
+    "ja": "格安：$20-35/日。中級：$35-70/日。高級：$70+/日。島の物価は高め、特にプーケット。"
   },
   "topActivities": {
     "en": [
@@ -146,6 +162,9 @@
     ],
     "ru": [
       "Пляжный отдых, снорклинг, дайвинг, островные туры, скалолазание, морской каякинг, круизы на закате, пляжные вечеринки"
+    ],
+    "ja": [
+      "ビーチ巡り、シュノーケリング、ダイビング、アイランドツアー、ロッククライミング、シーカヤック、サンセットクルーズ、ビーチパーティー"
     ]
   },
   "hiddenGems": {
@@ -166,6 +185,9 @@
     ],
     "ru": [
       "Ко Липе, дайвинг на Ко Тао, скалолазание на Рейли Бич, национальный парк Кхао Сок, остров Джеймса Бонда, Симиланские острова"
+    ],
+    "ja": [
+      "リペ島、タオ島でのダイビング、ライレービーチでのクライミング、カオソック国立公園、ジェームズボンド島、シミラン諸島"
     ]
   },
   "localFestivals": {
@@ -186,6 +208,9 @@
     ],
     "ru": [
       "Full Moon Party (ежемесячно), Сонгкран (апрель), фестиваль Чак Пхра (окт), Вегетарианский фестиваль (окт), Лой Кратонг (ноябрь)"
+    ],
+    "ja": [
+      "フルムーンパーティー（毎月）、ソンクラーン（4月）、チャークプラー祭り（10月）、ベジタリアン・フェスティバル（10月）、ロイクラトン（11月）"
     ]
   },
   "travelTips": {
@@ -206,6 +231,9 @@
     ],
     "ru": [
       "Бронируйте транспорт на острова заранее. Берегите морскую фауну. Пейте больше воды. Используйте безопасный для рифов солнцезащитный крем. Проверяйте прогноз погоды."
+    ],
+    "ja": [
+      "島への交通手段は事前予約を。海洋生物を大切に。水分補給を忘れずに。サンゴに優しい日焼け止めを使用。天気予報を確認。"
     ]
   },
   "whatToPack": {
@@ -226,6 +254,9 @@
     ],
     "ru": [
       "Купальник, безопасный для рифов солнцезащитный крем, аквашузы, быстросохнущая одежда, дождевик, снаряжение для снорклинга, лёгкая вечерняя одежда, спрей от комаров"
+    ],
+    "ja": [
+      "水着、サンゴに優しい日焼け止め、ウォーターシューズ、速乾性の服、レインジャケット、シュノーケリング用品、軽めの夜用ウェア、虫除けスプレー"
     ]
   },
   "seo": {
@@ -235,7 +266,8 @@
       "fr": "Guide de voyage Thaïlande du Sud 2026 | Go2Thailand",
       "de": "Südthailand Reiseführer 2026 | Go2Thailand",
       "zh": "泰国南部旅游指南2026 | Go2Thailand",
-      "ru": "Путеводитель по Южному Таиланду 2026 | Go2Thailand"
+      "ru": "Путеводитель по Южному Таиланду 2026 | Go2Thailand",
+      "ja": "タイ南部旅行ガイド2026 | Go2Thailand"
     },
     "metaDescription": {
       "en": "Southern Thailand travel guide 2026. Best cities, islands, beaches, and travel tips for Phuket, Krabi, Koh Samui and more.",
@@ -243,7 +275,8 @@
       "fr": "Guide de voyage Thaïlande du Sud 2026. Meilleures villes, îles, plages et conseils de voyage pour Phuket, Krabi, Koh Samui et plus.",
       "de": "Südthailand Reiseführer 2026. Beste Städte, Inseln, Strände und Reisetipps für Phuket, Krabi, Koh Samui und mehr.",
       "zh": "泰国南部旅游指南2026。普吉岛、甲米、苏梅岛等最佳城市、岛屿、海滩和旅行攻略。",
-      "ru": "Путеводитель по Южному Таиланду 2026. Лучшие города, острова, пляжи и советы для Пхукета, Краби, Ко Самуи и других."
+      "ru": "Путеводитель по Южному Таиланду 2026. Лучшие города, острова, пляжи и советы для Пхукета, Краби, Ко Самуи и других.",
+      "ja": "タイ南部旅行ガイド2026。プーケット、クラビ、サムイ島などのおすすめ都市、島、ビーチ、旅行のヒント。"
     }
   },
   "categories": {
@@ -253,7 +286,8 @@
       "fr": "Principales attractions en Thaïlande du Sud",
       "de": "Top-Sehenswürdigkeiten in Südthailand",
       "zh": "泰国南部热门景点",
-      "ru": "Лучшие достопримечательности Южного Таиланда"
+      "ru": "Лучшие достопримечательности Южного Таиланда",
+      "ja": "タイ南部の人気観光スポット"
     },
     "cities": {
       "en": "Best cities to visit in Southern Thailand",
@@ -261,7 +295,8 @@
       "fr": "Meilleures villes à visiter en Thaïlande du Sud",
       "de": "Beste Städte in Südthailand",
       "zh": "泰国南部最佳旅游城市",
-      "ru": "Лучшие города Южного Таиланда"
+      "ru": "Лучшие города Южного Таиланда",
+      "ja": "タイ南部のおすすめ都市"
     },
     "climate": {
       "en": "Climate and weather in Southern Thailand",
@@ -269,7 +304,8 @@
       "fr": "Climat et météo en Thaïlande du Sud",
       "de": "Klima und Wetter in Südthailand",
       "zh": "泰国南部气候与天气",
-      "ru": "Климат и погода в Южном Таиланде"
+      "ru": "Климат и погода в Южном Таиланде",
+      "ja": "タイ南部の気候と天気"
     }
   },
   "tags": [
