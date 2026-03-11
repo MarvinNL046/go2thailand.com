@@ -458,6 +458,101 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "绿咖喱（Gaeng Keow Wan）是泰国料理中的翡翠瑰宝——一道椰奶咖喱，完美平衡了奶香的浓郁与草本的辛辣。不同于红咖喱和黄咖喱，绿咖喱的颜色和风味来自新鲜的绿辣椒和香草，使其清新、芳香且层次丰富。名字的字面意思是"甜绿咖喱"，但别被蒙骗——它的辣度相当惊人。",
+      "detailed_ingredients": [
+        {
+          "name": "绿咖喱酱",
+          "purpose": "这道菜的灵魂——新鲜香草和辣椒一起研磨而成",
+          "substitutes": [
+            "商店购买的咖喱酱（Mae Ploy品牌）",
+            "自制（最佳选择）"
+          ]
+        },
+        {
+          "name": "泰国茄子",
+          "purpose": "增添口感并吸收咖喱的风味",
+          "substitutes": [
+            "普通茄子切小块",
+            "西葫芦",
+            "四季豆"
+          ]
+        },
+        {
+          "name": "泰式罗勒",
+          "purpose": "新鲜的芳香收尾，为浓郁的咖喱增添明亮感",
+          "substitutes": [
+            "甜罗勒",
+            "圣罗勒",
+            "薄荷（风味不同但可替代）"
+          ]
+        },
+        {
+          "name": "椰浆",
+          "purpose": "打造浓郁的基底并缓和辣度",
+          "substitutes": [
+            "全脂椰奶",
+            "腰果奶油（更清淡的版本）"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒酱和慢炖",
+        "steps_overview": "秘诀在于"裂开"椰浆——将其加热至油脂分离，然后在这层油中炒制咖喱酱。这一炒香过程对于在加入液体之前发展深层风味至关重要。",
+        "cooking_tips": [
+          "将咖喱酱炒至极度芳香——这是关键",
+          "先使用椰奶的浓稠部分",
+          "不要大火煮沸——小火慢炖才能保持绿色",
+          "按烹饪时间依次加入蔬菜——最硬的先放",
+          "关火后再加入罗勒"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "绿咖喱诞生于泰国中部的皇家厨房，代表了宫廷料理的精致。使用新鲜香草而非干香料，展现了泰国丰富的草本资源。",
+        "cultural_importance": "绿咖喱是检验厨师功力的试金石——在保持鲜亮绿色的同时平衡辣、甜、咸。它被认为比红咖喱更精致，常在重要宴席上供应。",
+        "traditional_occasions": [
+          "佛教节日",
+          "皇家典礼",
+          "婚宴",
+          "迎接贵宾"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Keow Wan Gai",
+          "description": "经典鸡肉版本，搭配泰国茄子"
+        },
+        {
+          "name": "Gaeng Keow Wan Luk Chin Pla",
+          "description": "鱼丸版本——热门街头小吃变体"
+        },
+        {
+          "name": "素食绿咖喱",
+          "description": "搭配豆腐和混合蔬菜，不加鱼露"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米",
+          "新鲜蔬菜"
+        ],
+        "presentation": "以传统泰式风格趁热上桌",
+        "eating_etiquette": "用叉子和勺子食用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Krua Apsorn（曼谷）——皇家泰式料理",
+          "The Local（曼谷）——传统食谱",
+          "任何穆斯林泰式餐厅都有独特版本"
+        ],
+        "street_food_areas": [
+          "Or Tor Kor Market美食广场",
+          "Saphan Phut夜市",
+          "大学食堂提供便宜的正宗版本"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
