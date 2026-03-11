@@ -466,6 +466,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Pla Pao是一道深受喜爱的泰国中部丰盛主菜，带有温和的风味。这是一道用粗盐裹制的烤全鱼，搭配辣味海鲜蘸酱食用。这道中等难度的食谱大约需要40分钟准备，代表了泰国中部料理的正宗风味——完美平衡甜、酸、咸、辣四种味道。全鱼、粗盐和香茅的组合创造出和谐的风味搭配，使这道菜深受当地人和游客的喜爱。非常适合寻找价格适中的正宗泰式料理的食客。",
+      "detailed_ingredients": [
+        {
+          "name": "全鱼",
+          "purpose": "Pla Pao正宗风味的关键食材",
+          "substitutes": [
+            "新鲜全鱼",
+            "罗非鱼",
+            "鲈鱼"
+          ]
+        },
+        {
+          "name": "粗盐",
+          "purpose": "Pla Pao正宗风味的关键食材",
+          "substitutes": [
+            "海盐",
+            "岩盐",
+            "喜马拉雅盐"
+          ]
+        },
+        {
+          "name": "香茅",
+          "purpose": "Pla Pao正宗风味的关键食材",
+          "substitutes": [
+            "新鲜香茅",
+            "干香茅",
+            "香茅酱"
+          ]
+        },
+        {
+          "name": "青柠叶",
+          "purpose": "Pla Pao正宗风味的关键食材",
+          "substitutes": [
+            "新鲜青柠叶",
+            "干青柠叶",
+            "青柠皮碎"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "盐壳烤制",
+        "steps_overview": "制作Pla Pao需要注重细节和恰当的时间掌控。关键在于平衡所有风味，同时保持每种食材的口感。世代相传的传统做法确保了正宗的味道。",
+        "cooking_tips": [
+          "使用新鲜全鱼以获得最佳风味",
+          "根据个人喜好调整辣度",
+          "不要烤制过度以保持口感",
+          "上菜前品尝并调整调味"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pla Pao世代以来一直是泰国中部料理的主食，反映了该地区独特的烹饪传统和本地食材。",
+        "cultural_importance": "这道菜代表了泰国中部烹饪的精髓，展现了泰式料理举世闻名的平衡与和谐。",
+        "traditional_occasions": [
+          "家庭聚会",
+          "地方节日",
+          "街头美食市场",
+          "特殊庆典"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Pla Pao",
+          "description": "当地家庭烹制的传统版本"
+        },
+        {
+          "name": "现代Pla Pao",
+          "description": "使用高级食材的现代创新版本"
+        },
+        {
+          "name": "素食Pla Pao",
+          "description": "使用豆腐或蘑菇的素食版本"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米",
+          "新鲜蔬菜",
+          "泰式香草"
+        ],
+        "presentation": "以传统泰国中部风格盛在盘中",
+        "eating_etiquette": "按照泰国习俗使用叉子和勺子食用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "当地泰国中部餐厅",
+          "正宗街头美食摊位",
+          "传统市场",
+          "家庭经营的小餐馆"
+        ],
+        "street_food_areas": [
+          "夜市",
+          "早市",
+          "当地美食广场"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
