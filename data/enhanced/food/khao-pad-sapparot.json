@@ -467,6 +467,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Khao Pad Sapparot是一道深受喜爱的丰盛主菜，来自泰国中部，带有微妙的温暖风味。菠萝炒饭盛放在掏空的菠萝壳中上桌。这道中等难度的菜肴大约需要20分钟准备，代表了中部泰式料理的正宗风味——完美平衡酸、甜、咸、辣。米饭、菠萝和鲜虾的组合创造出和谐的口感，使这道菜成为当地人和游客的最爱。非常适合寻找价格实惠的正宗泰式美食的食客。",
+      "detailed_ingredients": [
+        {
+          "name": "米饭",
+          "purpose": "Khao Pad Sapparot正宗风味的核心食材",
+          "substitutes": [
+            "茉莉香米",
+            "隔夜米饭",
+            "长粒米"
+          ]
+        },
+        {
+          "name": "菠萝",
+          "purpose": "Khao Pad Sapparot正宗风味的核心食材",
+          "substitutes": [
+            "新鲜菠萝",
+            "罐装菠萝",
+            "菠萝干"
+          ]
+        },
+        {
+          "name": "鲜虾",
+          "purpose": "Khao Pad Sapparot正宗风味的核心食材",
+          "substitutes": [
+            "新鲜虾仁",
+            "虾干",
+            "虾酱"
+          ]
+        },
+        {
+          "name": "腰果",
+          "purpose": "Khao Pad Sapparot正宗风味的核心食材",
+          "substitutes": [
+            "新鲜腰果",
+            "烘烤腰果",
+            "花生"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "翻炒",
+        "steps_overview": "制作Khao Pad Sapparot需要注重细节和恰当的火候掌控。关键在于平衡所有味道的同时保持每种食材的口感。代代相传的传统烹饪方法确保了正宗的味道。",
+        "cooking_tips": [
+          "使用隔夜米饭效果最佳",
+          "根据个人喜好调整辣度",
+          "不要过度翻炒以保持食材口感",
+          "上桌前尝味并调整调料"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Pad Sapparot世代以来一直是泰国中部料理的经典菜肴，体现了该地区独特的烹饪传统和当地食材的运用。",
+        "cultural_importance": "这道菜代表了中部泰式烹饪的精髓，展现了泰国料理闻名世界的平衡与和谐之道。",
+        "traditional_occasions": [
+          "家庭聚会",
+          "当地节庆",
+          "街头美食市场",
+          "特殊庆典"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Khao Pad Sapparot",
+          "description": "当地家庭的传统做法"
+        },
+        {
+          "name": "创新Khao Pad Sapparot",
+          "description": "使用优质食材的现代创新版本"
+        },
+        {
+          "name": "素食Khao Pad Sapparot",
+          "description": "使用豆腐或蘑菇的素食版本"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米",
+          "新鲜蔬菜",
+          "泰式香草"
+        ],
+        "presentation": "以传统泰式风格盛放在掏空的菠萝壳中上桌",
+        "eating_etiquette": "按照泰国习俗使用叉子和勺子享用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "当地中部泰式餐厅",
+          "正宗街头小吃摊",
+          "传统市场",
+          "家庭经营的小店"
+        ],
+        "street_food_areas": [
+          "夜市",
+          "早市",
+          "当地美食广场"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
