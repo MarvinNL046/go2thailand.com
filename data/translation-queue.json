@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 821
+    "completed": 822
   },
   "queue": [
     {
@@ -6584,7 +6584,8 @@
       "type": "top10",
       "file": "data/top10/nong-khai-restaurants.json",
       "locale": "ru",
-      "status": "pending",
+      "status": "completed",
+      "completedAt": "2026-03-11T00:00:00.000Z",
       "priority": 13
     },
     {
