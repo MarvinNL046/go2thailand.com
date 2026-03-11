@@ -523,6 +523,117 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Pad Krapow是泰国最极致的comfort food——一道火辣芳香的爆炒菜，将打抛叶（holy basil）的辛辣气息与鲜美的肉末完美融合。这道闪电般快速的菜肴是泰国街头摊位和餐厅的主打美食，以其大胆的风味和令人满足的简约而深受喜爱。魔力在于打抛叶（bai krapow），当它触及滚烫的铁锅时释放出独特的丁香般香气，仅凭这醉人的香味就能让人立刻辨认出这道菜。",
+      "detailed_ingredients": [
+        {
+          "name": "打抛叶（Bai Krapow）",
+          "purpose": "赋予这道菜名称和独特辛辣、丁香般风味的核心食材",
+          "substitutes": [
+            "泰式九层塔（不够正宗但可接受）",
+            "意大利罗勒混合薄荷（应急替代品）"
+          ]
+        },
+        {
+          "name": "泰国鸟眼辣椒",
+          "purpose": "提供使这道菜正宗辛辣的关键辣度",
+          "substitutes": [
+            "塞拉诺辣椒",
+            "新鲜红辣椒",
+            "辣椒碎（调整用量）"
+          ]
+        },
+        {
+          "name": "猪肉末或鸡肉末",
+          "purpose": "能充分吸收所有调味的传统蛋白质底料",
+          "substitutes": [
+            "牛肉末",
+            "碎豆腐",
+            "蘑菇碎（素食版）"
+          ]
+        },
+        {
+          "name": "鱼露",
+          "purpose": "增添鲜味深度和正宗泰式风味",
+          "substitutes": [
+            "生抽加少许盐",
+            "素食蘑菇酱油"
+          ]
+        },
+        {
+          "name": "老抽",
+          "purpose": "提供颜色和微妙的甜味以平衡辣度",
+          "substitutes": [
+            "普通酱油加少许糖蜜"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "大火爆炒",
+        "steps_overview": "完美Pad Krapow的关键是极高的温度和速度。从开始烹饪起，一切在5分钟内完成。锅必须烧到冒烟，产生令人向往的'锅气'（wok hei），赋予菜肴标志性的烟熏风味。",
+        "cooking_tips": [
+          "使用炉灶能达到的最高火力——这道菜需要猛火",
+          "开始烹饪前，确保所有食材已备好并放在触手可及的地方",
+          "不要过度翻炒打抛叶——在最后一刻加入以保留风味",
+          "肉末下锅时必须发出强烈的嗞嗞声",
+          "用研钵捣碎大蒜和辣椒能获得更正宗的风味",
+          "煎蛋要边缘酥脆、蛋黄流淌"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pad Krapow源自泰国的街头饮食文化，为忙碌的工人提供快速、实惠的餐食。这道菜在1960年代随着城市化加速而流行起来，街头摊贩需要能在便携式燃气灶上快速烹制的菜品。",
+        "cultural_importance": "这是泰国人的终极comfort food，就像中国人的蛋炒饭。这是泰国人想家时渴望的菜、宿醉时点的菜、教孩子最先学做的菜。'pad krapow kai dao'（配煎蛋）这句话本身就是泰式生活的缩影。",
+        "traditional_occasions": [
+          "深夜街头美食",
+          "上班族的快速午餐",
+          "学生的平价餐",
+          "身体不适时的comfort food"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Krapow Moo Krob",
+          "description": "用酥脆五花肉代替肉末，口感更丰富有层次"
+        },
+        {
+          "name": "Pad Krapow Talay",
+          "description": "海鲜版本，加入虾、鱿鱼和鱼——在沿海地区尤为流行"
+        },
+        {
+          "name": "Pad Krapow Kai",
+          "description": "鸡肉版本，适合想要清淡选择的食客"
+        },
+        {
+          "name": "素食Pad Krapow",
+          "description": "用豆腐、蘑菇或什锦蔬菜制作，搭配素食炒酱"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米（必备——绝不能少）",
+          "溏心煎蛋（kai dao）",
+          "新鲜黄瓜片",
+          "辣椒鱼露蘸料（prik nam pla）",
+          "冰泰式奶茶——用来对抗辣味"
+        ],
+        "presentation": "盛在盘中，一边是米饭，一边是炒菜，上面盖一个煎蛋。蛋黄要戳破，让它流淌在米饭和肉末上。",
+        "eating_etiquette": "右手拿勺、左手拿叉食用。叉子用来把食物推到勺子上。戳破蛋黄让它裹住米饭是这道菜的精髓体验。"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — 米其林星级版本",
+          "Soei Restaurant (Bangkok) — 当地人最爱",
+          "任何一个排着本地人长队的街头摊位"
+        ],
+        "street_food_areas": [
+          "Chinatown (Yaowarat), Bangkok",
+          "Victory Monument区域, Bangkok",
+          "Chiang Mai Night Bazaar",
+          "Phuket Weekend Market"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
