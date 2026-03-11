@@ -467,6 +467,102 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Pad Thai是泰国最具标志性的菜肴，将甜、酸、咸的完美平衡包裹在丝滑的米粉中。这道炒面诞生于1930年代的民族主义运动，如今已成为泰式料理的全球大使。其秘诀在于罗望子酱和只有高温大师级烹饪才能呈现的锅气（wok hei）。",
+      "detailed_ingredients": [
+        {
+          "name": "米粉（Sen Lek）",
+          "purpose": "基底——扁平的米粉能吸收所有风味",
+          "substitutes": [
+            "新鲜米粉",
+            "意大利细面（应急替代）",
+            "西葫芦面条（低碳版）"
+          ]
+        },
+        {
+          "name": "罗望子酱",
+          "purpose": "赋予正宗Pad Thai标志性的酸甜风味",
+          "substitutes": [
+            "青柠汁加红糖",
+            "米醋加枣糖浆"
+          ]
+        },
+        {
+          "name": "棕榈糖",
+          "purpose": "增添焦糖般的甜味，平衡罗望子的酸味",
+          "substitutes": [
+            "红糖",
+            "椰糖",
+            "白糖加糖蜜"
+          ]
+        },
+        {
+          "name": "干虾",
+          "purpose": "增添鲜味深度和正宗风味",
+          "substitutes": [
+            "鱼露（增加用量）",
+            "凤尾鱼酱",
+            "味噌酱（素食版）"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "锅中按序炒制",
+        "steps_overview": "Pad Thai全靠时机和技巧。每种食材在恰到好处的时刻入锅。米粉要软而不烂，鸡蛋丝状穿插其中，翻炒力度既要充分混合又要温柔不断面。",
+        "cooking_tips": [
+          "用常温水泡米粉，不要用热水——防止糊烂",
+          "锅中食材要不断翻动",
+          "将食材推到锅壁上方，形成不同的加热区域",
+          "酱汁要在米粉上稍微焦糖化",
+          "豆芽最后才放，保持脆爽"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pad Thai诞生于1930年代銮披汶·颂堪总理的国家建设运动。他希望创造一道能统一泰国的国菜，同时在二战期间减少大米消费。这个名字字面意思就是'泰式炒'。",
+        "cultural_importance": "Pad Thai代表了泰国的美食外交。它通常是外国人尝试的第一道泰式菜肴，已在全球成为泰式料理的代名词。在泰国，一个厨师的水平常常通过他做的Pad Thai来评判。",
+        "traditional_occasions": [
+          "街头美食经典",
+          "深夜小吃",
+          "节日美食",
+          "游客认识泰式料理的入门菜"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Thai Goong Sod",
+          "description": "鲜虾版——最奢华的传统变体"
+        },
+        {
+          "name": "Pad Thai Woonsen",
+          "description": "用粉丝代替米粉制作"
+        },
+        {
+          "name": "Pad Thai Ho Kai",
+          "description": "用薄蛋皮包裹——餐厅级别的精致呈现"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米",
+          "新鲜蔬菜"
+        ],
+        "presentation": "趁热以传统泰式风格上桌",
+        "eating_etiquette": "使用叉子和勺子食用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) — 传奇的'Pad Thai之王'",
+          "Pad Thai Fai Ta Lu (Bangkok) — 以锅气闻名",
+          "Baan Phadthai (Bangkok) — 高端创新诠释"
+        ],
+        "street_food_areas": [
+          "Chinatown Bangkok — 试试Wat Traimit附近的摊位",
+          "Khao San Road — 游客友好版本",
+          "Or Tor Kor Market — 高品质食材"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
