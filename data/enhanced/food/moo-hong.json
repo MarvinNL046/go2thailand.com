@@ -463,6 +463,104 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Moo Hong是一道深受喜爱的丰盛主菜，来自泰国南部，带有微妙的温暖风味。普吉风格的甜酱油慢炖五花肉。这道中等难度的菜肴大约需要90分钟准备，代表了南部泰式料理的正宗风味——以浓烈的香料、海鲜和椰基咖喱为特色。五花肉、酱油和棕榈糖的组合创造出和谐的口感，使这道菜成为当地人和游客的最爱。非常适合寻找价格合理的正宗泰式美食的食客。",
+      "detailed_ingredients": [
+        {
+          "name": "五花肉",
+          "purpose": "Moo Hong正宗风味的核心食材",
+          "substitutes": [
+            "新鲜五花肉",
+            "风干五花肉",
+            "猪肩肉"
+          ]
+        },
+        {
+          "name": "酱油",
+          "purpose": "Moo Hong正宗风味的核心食材",
+          "substitutes": [
+            "生抽",
+            "老抽",
+            "甜酱油"
+          ]
+        },
+        {
+          "name": "棕榈糖",
+          "purpose": "Moo Hong正宗风味的核心食材",
+          "substitutes": [
+            "新鲜棕榈糖",
+            "椰糖",
+            "红糖"
+          ]
+        },
+        {
+          "name": "大蒜",
+          "purpose": "Moo Hong正宗风味的核心食材",
+          "substitutes": [
+            "新鲜大蒜",
+            "蒜干",
+            "蒜蓉酱"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "慢炖",
+        "steps_overview": "制作Moo Hong需要注重细节和恰当的时间掌控。关键在于平衡所有味道的同时保持每种食材的口感。代代相传的传统烹饪方法确保了正宗的味道。",
+        "cooking_tips": [
+          "使用新鲜五花肉效果最佳",
+          "根据个人喜好调整辣度",
+          "不要过度烹煮以保持食材口感",
+          "上桌前尝味并调整调料"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Hong世代以来一直是泰国南部料理的经典菜肴，体现了该地区独特的烹饪传统和当地食材的运用。",
+        "cultural_importance": "这道菜代表了南部泰式烹饪的精髓，展现了泰国料理闻名世界的平衡与和谐之道。",
+        "traditional_occasions": [
+          "家庭聚会",
+          "当地节庆",
+          "街头美食市场",
+          "特殊庆典"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Moo Hong",
+          "description": "当地家庭的传统做法"
+        },
+        {
+          "name": "创新Moo Hong",
+          "description": "使用优质食材的现代创新版本"
+        },
+        {
+          "name": "素食Moo Hong",
+          "description": "使用豆腐或蘑菇的素食版本"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "茉莉香米",
+          "新鲜蔬菜",
+          "泰式香草"
+        ],
+        "presentation": "以传统南部泰式风格盛放在盘中上桌",
+        "eating_etiquette": "按照泰国习俗使用叉子和勺子享用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "当地南部泰式餐厅",
+          "正宗街头小吃摊",
+          "传统市场",
+          "家庭经营的小店"
+        ],
+        "street_food_areas": [
+          "夜市",
+          "早市",
+          "当地美食广场"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
