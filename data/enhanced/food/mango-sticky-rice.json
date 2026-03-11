@@ -420,6 +420,92 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Khao Niao Mamuang（芒果糯米饭）是泰国最受欢迎的甜品——一种看似简单的组合，却通过优质食材和精准技法达到了完美。用椰奶浸润的甜糯米搭配完美成熟的芒果，创造出风味与口感的和谐，捕捉了泰式甜品的精髓：不会太甜、天然调味、依赖时令。",
+      "detailed_ingredients": [
+        {
+          "name": "Nam Dok Mai芒果",
+          "purpose": "泰国顶级芒果品种——甘甜、细腻、无纤维",
+          "substitutes": [
+            "Ok Rong芒果",
+            "Ataulfo芒果",
+            "任何成熟的甜芒果"
+          ]
+        },
+        {
+          "name": "糯米",
+          "purpose": "特殊的糯米，蒸熟后变得绵软黏糯",
+          "substitutes": [
+            "没有真正的替代品——普通大米无法替代",
+            "日式糯米（口感不同）"
+          ]
+        },
+        {
+          "name": "椰浆",
+          "purpose": "浓郁的浇料，将所有风味融为一体",
+          "substitutes": [
+            "浓稠椰奶",
+            "腰果奶油（更清淡的版本）"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "蒸制与精准时间掌控",
+        "steps_overview": "糯米浸泡一整夜后放入竹蒸笼蒸熟。趁热将甜椰奶拌入米中，让糯米吸收风味。芒果必须恰到好处地成熟——硬度足以切片但又香甜芬芳。",
+        "cooking_tips": [
+          "糯米至少浸泡8小时——隔夜浸泡效果最佳",
+          "用竹蒸笼蒸制以获得正宗风味",
+          "趁糯米还热时拌入椰汁",
+          "选择果蒂处散发甜香的芒果",
+          "室温上桌，不要冷藏"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "起源于皇宫，最好的芒果专供皇室贵族享用。这道甜品庆祝芒果季节（四月至五月），恰好与泰国新年（泼水节）重合。",
+        "cultural_importance": "这款甜品代表了泰国农业的丰饶和时令的重要性。它是少数未被改良或全年供应的泰式菜肴之一——只在芒果成熟时才能品尝。",
+        "traditional_occasions": [
+          "泼水节（Songkran）",
+          "芒果季庆典",
+          "寺庙供奉",
+          "特殊场合甜品"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Niao Thurian",
+          "description": "榴莲版本——专为狂热水果爱好者"
+        },
+        {
+          "name": "Khao Niao Dam",
+          "description": "用黑糯米制作——口感更浓郁带坚果香"
+        },
+        {
+          "name": "Khao Niao Moon",
+          "description": "额外搭配斑斓叶味蛋奶冻"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "新鲜芒果",
+          "额外的椰浆"
+        ],
+        "presentation": "以传统泰式风格在室温下上桌",
+        "eating_etiquette": "用叉子和勺子享用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Mae Varee（曼谷）——最有名的芒果糯米饭店",
+          "Kor Panich（曼谷）——始于1947年",
+          "After You Dessert Cafe——现代创新诠释"
+        ],
+        "street_food_areas": [
+          "通罗街头小贩（四月至六月）",
+          "Chatuchak Weekend Market",
+          "芒果季期间的任何生鲜市场"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
