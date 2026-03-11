@@ -504,6 +504,111 @@
         ]
       },
       "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Oh Aew（โอ้เอ๋ว）是普吉岛最具标志性的传统甜品，一种清爽的闽南华人刨冰美食，几乎只能在普吉老城找到。其标志性的果冻由o-aew籽制成——即薜荔（Ficus pumila var. awkeotsang）的种子。种子浸泡约一小时后，与香蕉汁（用于中和种子的天然气味）和硫酸钙混合，静置约7小时凝固成坚实的半透明果冻。果冻切成小块后，铺在刨冰上，配以红豆、仙草冻（chao kuai）和棕榈糖浆食用。这道甜品与台湾的爱玉冰（愛玉）密切相关，因为两者都来自同一植物科。Oh Aew自19世纪末期起就在普吉岛供应，当时闽南华人移民在锡矿繁荣时期来到此地。普吉老城的传统摊位至今仍以低至15 THB的价格供应，使其成为岛上最实惠、最正宗的甜品之一。",
+      "detailed_ingredients": [
+        {
+          "name": "O-Aew籽果冻",
+          "purpose": "标志性成分——由薜荔（Ficus pumila var. awkeotsang）的种子制成，浸泡后用硫酸钙凝固成坚实的半透明果冻",
+          "substitutes": [
+            "爱玉冻（台湾同科植物的等价物）",
+            "琼脂果冻（口感不同，普吉岛外较常见）"
+          ]
+        },
+        {
+          "name": "香蕉汁",
+          "purpose": "在制作过程中与种子混合，用于中和o-aew籽的天然气味",
+          "substitutes": []
+        },
+        {
+          "name": "红豆",
+          "purpose": "经典配料，增添口感和淡淡的甜味，体现中式甜品传统",
+          "substitutes": [
+            "黑豆"
+          ]
+        },
+        {
+          "name": "仙草冻（Chao Kuai）",
+          "purpose": "深色、微苦的果冻，平衡甜味并增添色彩对比",
+          "substitutes": []
+        },
+        {
+          "name": "刨冰",
+          "purpose": "提供清凉感和蓬松口感",
+          "substitutes": [
+            "碎冰（口感没那么蓬松）"
+          ]
+        },
+        {
+          "name": "棕榈糖浆",
+          "purpose": "增添焦糖般的甜味；普吉传统摊位使用当地手工棕榈糖",
+          "substitutes": [
+            "糖浆",
+            "椰糖糖浆"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "种子浸泡，用硫酸钙凝固果冻，再与刨冰组装",
+        "steps_overview": "制作Oh Aew是一个耗时的过程。O-aew籽（来自薜荔）在水中浸泡约1小时，直到释放出凝胶。然后将凝胶与香蕉汁混合以中和种子的天然气味，并加入硫酸钙作为凝固剂。这一混合物静置约7小时直到凝固。得到的半透明果冻切成小块。食用时，将果冻块放入碗中，加上刨冰、红豆、仙草冻，最后淋上棕榈糖浆。",
+        "cooking_tips": [
+          "将种子充分浸泡至少1小时以释放最大量的凝胶",
+          "香蕉汁是去除种子不良气味的关键",
+          "硫酸钙的比例必须精确——过多会使果冻变得橡胶般",
+          "留足7小时的凝固时间；仓促制作会导致果冻不够坚实",
+          "食用前才刨冰以获得最佳口感",
+          "可使用斑兰叶或蝶豆花的天然色素制作彩色果冻变体"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Oh Aew是在19世纪中期锡矿时代由闽南华人移民带到普吉岛的。其名称源自闽南语'ò-giô'（薁蕘），指的是用来制作果冻的薜荔。这道甜品与台湾的爱玉冰（愛玉冰）密切相关，因为两者都使用薜荔科（Ficus pumila）的种子。经过数代传承，普吉版本通过加入红豆和仙草冻等本地配料，发展出了自己独特的风格。",
+        "cultural_importance": "Oh Aew是普吉岛峇峇娘惹（Peranakan/Baba-Nyonya）文化遗产的活化石——这一独特文化诞生于华人移民与当地泰族和马来族社区的通婚融合。这道甜品在普吉岛以外几乎找不到，使其成为真正的地方特色。它反映了塑造普吉老城美食文化的闽南华人烹饪传统，与福建面（Hokkien mee）和米粉（mee hun）等其他闽南菜一脉相承。",
+        "traditional_occasions": [
+          "普吉素食节（เทศกาลกินเจ）——作为植物性美食供应",
+          "普吉热带午后的清凉点心",
+          "普吉老城周日步行街市场",
+          "Dibuk Road附近学生放学后的零食"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Oh Aew Boran（传统版）",
+          "description": "经典版本，配有o-aew籽果冻、红豆、仙草冻、刨冰和棕榈糖浆。可在Oh Ew Paelee等传统摊位找到。"
+        },
+        {
+          "name": "Oh Aew Nam Kathi",
+          "description": "添加椰奶或椰浆的版本，口感更加浓郁，在一些市场摊位颇受欢迎。"
+        },
+        {
+          "name": "Oh Aew 现代/创意版",
+          "description": "咖啡馆风格的版本，加入芋头、红薯或水果等额外配料。可在Thai Hua Museum附近的Cafe'in等现代咖啡馆找到。"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "红豆（标准配料）",
+          "仙草冻 / chao kuai（标准配料）",
+          "棕榈糖浆",
+          "椰奶（可选，用于Nam Kathi版本）"
+        ],
+        "presentation": "盛在碗或杯中，刨冰覆盖在上面，果冻和红豆透过冰层可见",
+        "eating_etiquette": "食用前轻轻搅拌使糖浆均匀分布，趁刨冰还蓬松未融化时尽快享用"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Oh Ew Paelee (โอ้เอ๋ว แป๊ะหลี) — Thanon Dibuk, Soi Soon Uthit, Phuket Old Town (15 THB)",
+          "Cafe'in — 24 Krabi Road, Thai Hua Museum附近, Phuket Old Town (40-80 THB)",
+          "Lock Tien Food Court — Dibuk Road路口, Phuket Old Town (15-30 THB)",
+          "Cham Cha Market — Ranong Road, Phuket Old Town (15-25 THB)"
+        ],
+        "street_food_areas": [
+          "Phuket Old Town (Thalang Road, Dibuk Road, Krabi Road)",
+          "Sunday Walking Street Market (Thalang Road)",
+          "Lock Tien Food Court区域"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
     }
   }
 }
