@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-09",
   "stats": {
     "total": 1504,
-    "completed": 626
+    "completed": 627
   },
   "queue": [
     {
@@ -5024,7 +5024,8 @@
       "type": "top10",
       "file": "data/top10/nakhon-ratchasima-hotels.json",
       "locale": "zh",
-      "status": "pending",
+      "status": "completed",
+      "completedAt": "2026-03-11T00:00:00.000Z",
       "priority": 12
     },
     {
