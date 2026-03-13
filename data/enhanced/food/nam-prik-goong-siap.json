@@ -4,14 +4,16 @@
   "name": {
     "en": "Nam Prik Goong Siap",
     "nl": "Nam Prik Goong Siap",
-    "thai": "น้ำพริกกุ้งเสียบ"
+    "thai": "น้ำพริกกุ้งเสียบ",
+    "ja": "ナムプリック・グンシアップ"
   },
   "category": "main-dish",
   "region": "southern",
   "spice_level": "hot",
   "description": {
     "en": "Spicy dip with smoked dried shrimp",
-    "nl": "Pittige dipsaus met gerookte gedroogde garnalen"
+    "nl": "Pittige dipsaus met gerookte gedroogde garnalen",
+    "ja": "燻製干しエビのスパイシーディップ"
   },
   "ingredients": [
     "dried shrimp",
@@ -32,11 +34,13 @@
   "seo": {
     "metaTitle": {
       "en": "Nam Prik Goong Siap Recipe | Authentic Thai main dish",
-      "nl": "Nam Prik Goong Siap Recept | Authentieke Thaise main dish"
+      "nl": "Nam Prik Goong Siap Recept | Authentieke Thaise main dish",
+      "ja": "ナムプリック・グンシアップのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Spicy dip with smoked dried shrimp...",
-      "nl": "Leer over Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Pittige dipsaus met gerookte gedroogde garnalen..."
+      "nl": "Leer over Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Pittige dipsaus met gerookte gedroogde garnalen...",
+      "ja": "ナムプリック・グンシアップ（น้ำพริกกุ้งเสียบ）について — 燻製干しエビを使ったスパイシーディップ。"
     }
   },
   "tags": [
