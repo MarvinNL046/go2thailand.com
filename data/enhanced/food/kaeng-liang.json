@@ -4,14 +4,16 @@
   "name": {
     "en": "Kaeng Liang",
     "nl": "Kaeng Liang",
-    "thai": "แกงเลียง"
+    "thai": "แกงเลียง",
+    "ja": "ゲーン・リアン"
   },
   "category": "soup",
   "region": "northern",
   "spice_level": "medium",
   "description": {
     "en": "Spicy vegetable soup with shrimp",
-    "nl": "Pittige groentesoep met garnalen"
+    "nl": "Pittige groentesoep met garnalen",
+    "ja": "胡椒とエシャロットで味付けした野菜たっぷりのスパイシースープ"
   },
   "ingredients": [
     "mixed vegetables",
@@ -31,11 +33,13 @@
   "seo": {
     "metaTitle": {
       "en": "Kaeng Liang Recipe | Authentic Thai soup",
-      "nl": "Kaeng Liang Recept | Authentieke Thaise soup"
+      "nl": "Kaeng Liang Recept | Authentieke Thaise soup",
+      "ja": "ゲーン・リアンのレシピ | 本格タイスープ"
     },
     "metaDescription": {
       "en": "Learn about Kaeng Liang (แกงเลียง) - Spicy vegetable soup with shrimp...",
-      "nl": "Leer over Kaeng Liang (แกงเลียง) - Pittige groentesoep met garnalen..."
+      "nl": "Leer over Kaeng Liang (แกงเลียง) - Pittige groentesoep met garnalen...",
+      "ja": "ゲーン・リアン（แกงเลียง）について — 胡椒とエシャロットで味付けした野菜たっぷりのタイの伝統スープ。"
     }
   },
   "tags": [
