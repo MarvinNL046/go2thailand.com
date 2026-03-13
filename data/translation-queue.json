@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-13",
   "stats": {
     "total": 1504,
-    "completed": 1072
+    "completed": 1073
   },
   "queue": [
     {
@@ -8600,14 +8600,15 @@
       "type": "city",
       "file": "data/enhanced/trat.json",
       "locale": "ja",
-      "status": "in_progress",
-      "priority": 14
+      "status": "completed",
+      "priority": 14,
+      "completedAt": "2026-03-13"
     },
     {
       "type": "city",
       "file": "data/enhanced/ubon-ratchathani.json",
       "locale": "ja",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 14
     },
     {
