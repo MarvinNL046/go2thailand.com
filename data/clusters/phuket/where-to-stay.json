@@ -1,0 +1,130 @@
+{
+  "seo": {
+    "title": "Where To Stay in Phuket: Best Areas & Beaches (2026)",
+    "metaDescription": "Find the best area to stay in Phuket. Patong for nightlife, Kata for families, Rawai for locals, Old Town for culture. Honest neighborhood comparison.",
+    "slug": "phuket"
+  },
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "intro": "Where you stay in Phuket completely shapes your experience. The island stretches 48 km north to south with dramatically different vibes at each beach. Party seekers head to Patong, families love Kata and Karon, luxury travelers choose Surin or Bang Tao, and long-stayers settle in Rawai. Here's an honest guide to each area so you pick the right one.",
+  "neighborhoods": [
+    {
+      "name": "Patong Beach",
+      "description": "Phuket's most famous and busiest beach area. The epicenter of nightlife (Bangla Road), shopping (Jungceylon Mall), and mass tourism. The beach itself is wide but crowded, and the streets are chaotic with tuk-tuks, massage shops, and restaurants. If you want nonstop energy and the convenience of having everything at your doorstep, this is it.",
+      "bestFor": "Nightlife & first-timers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Bangla Road walking street — Phuket's nightlife epicenter",
+        "Widest range of hotels, restaurants, and tour operators on the island",
+        "Jungceylon Mall for shopping and rainy-day entertainment",
+        "Every tour operator picks up from Patong",
+        "Best public transport connections via Smart Bus"
+      ],
+      "recommendedHotels": ["Lub d Phuket Patong", "Beyond Patong", "Millennium Resort Patong"],
+      "walkingScore": "7/10",
+      "transportNotes": ["Smart Bus stop on the main road", "Tuk-tuks everywhere but overpriced (400+ THB)", "Walking distance to everything within Patong"],
+      "sources": [{"sourceName": "Bren on the Road", "sourceUrl": "https://brenontheroad.com/where-to-stay-in-phuket-everything-you-need-to-know/", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Kata Beach",
+      "description": "A beautiful crescent-shaped beach 15 minutes south of Patong with a more relaxed village atmosphere. Excellent for families with calm swimming waters (Nov–Apr), good restaurants, and easy access to surf schools during monsoon season. Kata Noi at the southern end is even quieter.",
+      "bestFor": "Families & couples",
+      "priceLevel": "Mid-Range",
+      "highlights": [
+        "One of Phuket's best swimming beaches (Nov–Apr)",
+        "Surf schools during monsoon season (Jun–Sep)",
+        "Family-friendly restaurants and night market",
+        "Karon Viewpoint nearby for three-beach panorama",
+        "Quieter than Patong but with enough restaurants and shops"
+      ],
+      "recommendedHotels": ["Kata Beach Resort & Spa"],
+      "walkingScore": "6/10",
+      "transportNotes": ["15 minutes south of Patong by Grab (150–200 THB)", "Smart Bus stop on the main road", "Walkable within Kata village but scooter needed for exploring wider island"],
+      "sources": [{"sourceName": "Travel Food Expert", "sourceUrl": "https://travelfoodexpert.com/where-to-stay-in-phuket-for-the-first-time/", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Karon Beach",
+      "description": "A long, wide beach between Patong and Kata with a resort-town feel. More spacious and less hectic than either neighbor, with big international hotels lining the beachfront road. The beach itself is one of the longest on the island with relatively uncrowded sand.",
+      "bestFor": "Quiet beach holidays & couples",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "One of Phuket's longest beaches — never feels crowded",
+        "Wide selection of mid-range and luxury resorts",
+        "Quieter atmosphere than Patong but not isolated",
+        "Good restaurants along the main road",
+        "Between Patong (15 min) and Kata (5 min) by road"
+      ],
+      "recommendedHotels": ["Karon Sea Sands Resort", "Avista Grande Karon — MGallery"],
+      "walkingScore": "5/10",
+      "transportNotes": ["Long beach road — walkable along the beachfront but spread out", "Smart Bus stop available", "Grab to Patong 150–200 THB (15 min)"],
+      "sources": [{"sourceName": "Agoda", "sourceUrl": "https://www.agoda.com/travel-guides/thailand/phuket/where-to-stay-in-phuket-ultimate-guide-to-best-neighborhoods-areas/", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Surin & Bang Tao (Laguna)",
+      "description": "Phuket's upscale beach zone on the central-north west coast. Surin Beach has luxury resorts and beach clubs (including the famous Catch Beach Club at Twinpalms). Bang Tao is home to the massive Laguna Phuket resort complex with Banyan Tree, Angsana, and Outrigger properties connected by a lagoon shuttle.",
+      "bestFor": "Luxury travelers & golf lovers",
+      "priceLevel": "Luxury",
+      "highlights": [
+        "Catch Beach Club at Twinpalms — Phuket's most famous beach club",
+        "Laguna Phuket complex: golf, spa, and multiple resort brands",
+        "Beautiful beaches without the Patong crowds",
+        "Upscale dining and sunset cocktails",
+        "Gateway to quieter northern beaches (Layan, Nai Yang)"
+      ],
+      "recommendedHotels": ["Twinpalms Phuket", "Banyan Tree Phuket"],
+      "walkingScore": "3/10",
+      "transportNotes": ["25–30 minutes from Patong by car", "Own transport essential (scooter or car rental)", "Laguna complex has internal shuttle boats between resorts"],
+      "sources": [{"sourceName": "The Hotel Guru", "sourceUrl": "https://www.thehotelguru.com/en-us/where-to-stay/phuket", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Rawai & Nai Harn",
+      "description": "The southern tip of Phuket with a distinctly local flavor. Rawai has no swimming beach but has the island's best seafood market and a community of long-stay expats. Nai Harn, 5 minutes away, has one of Phuket's most beautiful beaches backed by a Buddhist monastery. Quieter, more authentic, and significantly cheaper than the west coast tourist areas.",
+      "bestFor": "Long-stayers & food lovers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Rawai Seafood Market — buy-and-cook fresh seafood at local prices",
+        "Nai Harn Beach — one of Phuket's prettiest and least developed beaches",
+        "Promthep Cape sunset viewpoint 5 minutes away",
+        "Strong expat community with monthly rental apartments",
+        "Local prices for food, massage, and daily expenses"
+      ],
+      "recommendedHotels": ["The Nai Harn"],
+      "walkingScore": "4/10",
+      "transportNotes": ["30–40 minutes from Patong", "Own transport essential", "Monthly scooter rentals popular with long-stayers (3,000–4,000 THB/month)"],
+      "sources": [{"sourceName": "Phuket Insider", "sourceUrl": "https://phuket-insider.com/en/blog/14-popular-districts-of-phuket-how-to-choose/", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Phuket Old Town",
+      "description": "The historic heart of the island on the east coast, far from the beaches but rich in culture and cuisine. Colorful Sino-Portuguese shophouses, street art, independent cafes, museums, and the island's best local food scene. Increasingly popular with culture-focused travelers and those who want to experience the real Phuket beyond the beaches.",
+      "bestFor": "Culture lovers & foodies",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Sino-Portuguese architecture — Phuket's most photogenic streets",
+        "Sunday Walking Street Market on Thalang Road",
+        "Best and cheapest food on the island — mee hokkien, moo hong, kanom jeen",
+        "Thai Hua Museum and other cultural sites",
+        "Boutique guesthouses in restored shophouses"
+      ],
+      "walkingScore": "8/10",
+      "transportNotes": ["30–40 minutes from Patong by Grab (250–350 THB)", "No Smart Bus — need Grab or scooter to reach beaches", "Very walkable within Old Town itself"],
+      "sources": [{"sourceName": "Thailand Routes", "sourceUrl": "https://www.thailandroutes.com/en/where-to-stay-in-phuket-the-ultimate-guide-to-patong-kata-karon-old-town-and-beyond/", "lastVerified": "2026-03-13"}]
+    }
+  ],
+  "generalTips": [
+    "Patong is convenient but loud and touristy — stay here only if nightlife is a priority",
+    "Kata and Karon offer the best balance of beach quality, restaurants, and peace for families",
+    "For a luxury stay, Surin/Bang Tao delivers better value than Patong's luxury hotels — same price, better experience",
+    "Rawai is the smart choice for stays of 2+ weeks — monthly apartments from 8,000 THB with full kitchens",
+    "Phuket Old Town has zero beach but the best food, culture, and cheapest accommodation on the island",
+    "Peak season (Dec–Jan) prices can be 3x higher than monsoon season — book early or visit May/October for the best value",
+    "Always check if your hotel includes airport transfer — the taxi from the airport costs 600–800 THB"
+  ],
+  "generatedAt": "2026-03-13",
+  "lastUpdated": "2026-03-13",
+  "sources": [
+    {"sourceName": "Bren on the Road", "sourceUrl": "https://brenontheroad.com/where-to-stay-in-phuket-everything-you-need-to-know/", "lastVerified": "2026-03-13"},
+    {"sourceName": "Agoda", "sourceUrl": "https://www.agoda.com/travel-guides/thailand/phuket/where-to-stay-in-phuket-ultimate-guide-to-best-neighborhoods-areas/", "lastVerified": "2026-03-13"},
+    {"sourceName": "Travel Food Expert", "sourceUrl": "https://travelfoodexpert.com/where-to-stay-in-phuket-for-the-first-time/", "lastVerified": "2026-03-13"},
+    {"sourceName": "Phuket Insider", "sourceUrl": "https://phuket-insider.com/en/blog/14-popular-districts-of-phuket-how-to-choose/", "lastVerified": "2026-03-13"}
+  ]
+}

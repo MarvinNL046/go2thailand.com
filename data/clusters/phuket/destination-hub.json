@@ -1,0 +1,114 @@
+{
+  "seo": {
+    "title": "Phuket: Complete Travel Guide 2026 — Best Beaches, Hotels & Things To Do",
+    "metaDescription": "Plan your Phuket trip with our complete 2026 guide. Best beaches, island tours, hotels from budget to luxury, and insider tips for Thailand's largest island.",
+    "slug": "phuket"
+  },
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "overview": "Phuket is Thailand's largest island and the Andaman Sea's premier beach destination, connected to the mainland by the Sarasin Bridge. The west coast is lined with famous beaches — from the buzzing nightlife of Patong to the tranquil sands of Nai Harn. Beyond the beaches, Phuket offers a UNESCO-recognized food scene, a charming Sino-Portuguese Old Town, world-class diving, and easy day trips to Phi Phi Islands and Phang Nga Bay. It's Thailand's most complete resort island, catering to every budget from backpacker hostels to ultra-luxury pool villas.",
+  "highlights": [
+    "22 distinct beaches along the west coast, each with its own character — from party-central Patong to serene Mai Khao",
+    "Phi Phi Islands and Phang Nga Bay (James Bond Island) accessible by speedboat day trip",
+    "UNESCO City of Gastronomy — unique Phuket cuisine blending Thai, Chinese, and Malay flavors",
+    "Phuket Old Town's Sino-Portuguese architecture, street art, and Sunday Walking Street Market",
+    "Big Buddha — a 45-meter white marble statue with 360° island views from the hilltop",
+    "World-class diving and snorkeling at the Similan Islands (Nov–Apr season)",
+    "Wat Chalong — Phuket's largest and most important Buddhist temple, free to visit",
+    "Phuket Smart Bus connecting airport to all major beach towns for just 50–170 THB",
+    "Year-round tropical climate with peak season November to April",
+    "International airport with direct flights from Bangkok (1.5 hours), Singapore, KL, and major Asian cities"
+  ],
+  "bestTimeToVisit": {
+    "peak": "Nov–Apr: Dry season with sunny skies, calm seas perfect for diving and island tours. December–January is busiest with highest prices. February–April offers equally good weather with slightly fewer crowds.",
+    "shoulder": "May & Oct: Transition months with occasional rain but still plenty of sunshine. Hotel prices drop 20–40%. Good swimming conditions on most days.",
+    "lowSeason": "Jun–Sep: Southwest monsoon brings afternoon showers and rougher seas on the west coast. East coast beaches (Ao Po, Cape Panwa) remain swimmable. Hotel prices at their lowest — luxury villas for mid-range prices. Surfing season at Kata Beach.",
+    "recommendation": "Visit November to February for guaranteed beach weather and calm seas. For the best value, May and October offer dry-season-quality days at monsoon-season prices. Avoid west coast beaches for swimming during June–August when red flags indicate strong currents."
+  },
+  "topAttractions": [
+    {
+      "name": "Phang Nga Bay (James Bond Island)",
+      "description": "A dramatic seascape of towering limestone karsts rising from emerald-green waters. Highlights include the famous Khao Phing Kan (James Bond Island), sea caves accessible by kayak, and the floating Muslim fishing village of Koh Panyee. Day tours by longtail boat or speedboat depart from Ao Po pier.",
+      "type": "nature",
+      "location": "Phang Nga Bay, northeast of Phuket",
+      "entranceFee": "Day tours 1,500–3,500 THB (~$42–100 USD) including transport and lunch",
+      "tips": ["Longtail boat tours are cheaper and more atmospheric than speedboat tours", "Book the early departure (7:30 AM) to beat the crowds at James Bond Island"],
+      "googleMapsUrl": "https://maps.google.com/?q=Phang+Nga+Bay",
+      "sources": [{"sourceName": "Northabroad", "sourceUrl": "https://northabroad.com/phuket-travel-guide/", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Big Buddha (Phra Puttamingmongkol Akenakkiri)",
+      "description": "A 45-meter tall white Burmese marble Buddha statue visible from anywhere on the southern half of the island. The hilltop location at 400 meters elevation offers 360° panoramic views of Chalong Bay, Kata Beach, and the Andaman Sea. Still technically under construction after 20+ years but fully visitable.",
+      "type": "landmark",
+      "location": "Nakkerd Hills, between Chalong and Kata",
+      "entranceFee": "Free (donations appreciated)",
+      "tips": ["Visit at sunset for the best light and views", "Dress modestly — free sarongs available at the entrance"],
+      "googleMapsUrl": "https://maps.google.com/?q=Big+Buddha+Phuket",
+      "sources": [{"sourceName": "TripAdvisor", "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g1389361-d2433844-Reviews-Big_Buddha_Phuket-Chalong_Phuket_Town_Phuket.html", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Wat Chalong",
+      "description": "Phuket's largest and most revered Buddhist temple, dating to the early 19th century. The Grand Pagoda houses a bone fragment of the Buddha and offers views from the top floor. The ornate interiors feature detailed murals depicting the life of the Buddha.",
+      "type": "temple",
+      "location": "Chalong, central-south Phuket",
+      "entranceFee": "Free",
+      "tips": ["Open 7 AM – 5 PM daily", "Combine with a visit to Big Buddha, which is only 10 minutes drive away"],
+      "googleMapsUrl": "https://maps.google.com/?q=Wat+Chalong+Phuket",
+      "sources": [{"sourceName": "Forever Vacation", "sourceUrl": "https://forevervacation.com/phi-phi-islands/wat-chalong", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Phuket Old Town",
+      "description": "The historic heart of the island, featuring colorful Sino-Portuguese shophouses, street art murals, independent cafes, and galleries. Thalang Road and Soi Romanee are the most photogenic streets. The Sunday Walking Street Market (4–10 PM) is excellent for local food and crafts.",
+      "type": "landmark",
+      "location": "Phuket Town, east side of island",
+      "entranceFee": "Free",
+      "tips": ["The Thai Hua Museum (200 THB) gives excellent context on the town's Chinese-Thai history", "Sunday Walking Street Market on Thalang Road is the best market on the island"],
+      "googleMapsUrl": "https://maps.google.com/?q=Phuket+Old+Town",
+      "sources": [{"sourceName": "Lonely Planet", "sourceUrl": "https://www.lonelyplanet.com/articles/guide-to-phuket", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Phi Phi Islands",
+      "description": "An archipelago of six islands an hour southeast of Phuket by speedboat. Phi Phi Don has accommodation and nightlife, while Phi Phi Leh is home to the famous Maya Bay (reopened with visitor caps). Crystal-clear waters with abundant marine life make it a top snorkeling destination.",
+      "type": "nature",
+      "location": "90 minutes by speedboat from Rassada Pier",
+      "entranceFee": "400 THB national park fee + tour 1,500–3,000 THB",
+      "tips": ["Maya Bay has daily visitor caps — book ahead in peak season", "Stay overnight on Phi Phi Don if you want to see it without day-trippers"],
+      "googleMapsUrl": "https://maps.google.com/?q=Phi+Phi+Islands",
+      "sources": [{"sourceName": "GetYourGuide", "sourceUrl": "https://www.getyourguide.com/phuket-l32123/", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Promthep Cape",
+      "description": "The southernmost point of Phuket and the island's most famous viewpoint. The clifftop offers unobstructed views of the Andaman Sea, Nai Harn Beach, and surrounding islands. Considered one of the best sunset spots in Thailand.",
+      "type": "landmark",
+      "location": "Southern tip of Phuket",
+      "entranceFee": "Free",
+      "tips": ["Arrive 30 minutes before sunset to secure a good spot — it gets crowded", "The small lighthouse museum nearby has additional views"],
+      "googleMapsUrl": "https://maps.google.com/?q=Promthep+Cape+Phuket",
+      "sources": [{"sourceName": "Phuket 101", "sourceUrl": "https://www.phuket101.net/things-to-do-in-phuket/", "lastVerified": "2026-03-13"}]
+    }
+  ],
+  "travelTips": [
+    "Rent a scooter (250–400 THB/day) to explore beyond your beach area — the island is hilly so get at least a 125cc bike",
+    "The Phuket Smart Bus runs airport to Rawai (50–170 THB) making stops at all major beaches — cheapest transport option",
+    "West coast beaches have red-flag warnings for strong currents June–September — always check before swimming",
+    "Tuk-tuks in Phuket are notoriously expensive — 400–600 THB for a 15-minute ride. Use Grab or Bolt instead (100–200 THB same ride)",
+    "Phuket Old Town has the best local food at the lowest prices — skip the tourist-priced beachfront restaurants",
+    "Book Similan Islands diving/snorkeling trips November to April only — the islands close May–October",
+    "The east coast (Ao Po, Cape Panwa) is swimmable year-round even when the west coast has rough surf",
+    "International driving permit is technically required for scooter rental and checked occasionally at police stops",
+    "ATM fees are 220 THB per withdrawal — take out larger amounts or use cards at 7-Eleven for cashback",
+    "Beware of jet ski scams at Patong Beach — never rent without documenting existing damage on video first"
+  ],
+  "gettingThere": "Phuket International Airport (HKT) receives direct flights from Bangkok (1.5 hours, from 1,500 THB on AirAsia/Thai Lion/Nok Air), plus international flights from Singapore, KL, Hong Kong, and major Asian hubs. VIP buses from Bangkok's Southern Terminal take 12–14 hours (from 750 THB). There's no train to Phuket — the nearest station is Surat Thani (5 hours by bus from Phuket).",
+  "gettingAround": "Phuket is a large island (48 km north to south) and public transport is limited. The Phuket Smart Bus connects the airport to Rawai via all western beaches (50–170 THB). Grab and Bolt ride-hailing apps offer the best value for point-to-point trips (100–300 THB). Scooter rental is popular at 250–400 THB/day. Local tuk-tuks (actually small vans) are expensive at 400–600 THB per trip — always negotiate before boarding. Car rental with insurance starts from 1,000 THB/day.",
+  "generatedAt": "2026-03-13",
+  "lastUpdated": "2026-03-13",
+  "sources": [
+    {"sourceName": "Lonely Planet", "sourceUrl": "https://www.lonelyplanet.com/articles/guide-to-phuket", "lastVerified": "2026-03-13"},
+    {"sourceName": "Northabroad", "sourceUrl": "https://northabroad.com/phuket-travel-guide/", "lastVerified": "2026-03-13"},
+    {"sourceName": "Phuket 101", "sourceUrl": "https://www.phuket101.net/things-to-do-in-phuket/", "lastVerified": "2026-03-13"},
+    {"sourceName": "Thailand Insider Guide", "sourceUrl": "https://thailandinsiderguide.com/en/explore-thailand/destinations/phuket-travel-guide/", "lastVerified": "2026-03-13"},
+    {"sourceName": "TripAdvisor", "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g1389361-d2433844-Reviews-Big_Buddha_Phuket-Chalong_Phuket_Town_Phuket.html", "lastVerified": "2026-03-13"},
+    {"sourceName": "GetYourGuide", "sourceUrl": "https://www.getyourguide.com/phuket-l32123/", "lastVerified": "2026-03-13"}
+  ]
+}
