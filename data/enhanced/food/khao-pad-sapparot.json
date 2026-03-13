@@ -4,14 +4,16 @@
   "name": {
     "en": "Khao Pad Sapparot",
     "nl": "Khao Pad Sapparot",
-    "thai": "ข้าวผัดสับปะรด"
+    "thai": "ข้าวผัดสับปะรด",
+    "ja": "カオパッサパロット"
   },
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Pineapple fried rice served in pineapple shell",
-    "nl": "Ananas gebakken rijst geserveerd in ananasschil"
+    "nl": "Ananas gebakken rijst geserveerd in ananasschil",
+    "ja": "パイナップルの器に入ったパイナップル入りチャーハン、カシューナッツとレーズン添え"
   },
   "ingredients": [
     "rice",
@@ -32,11 +34,13 @@
   "seo": {
     "metaTitle": {
       "en": "Khao Pad Sapparot Recipe | Authentic Thai main dish",
-      "nl": "Khao Pad Sapparot Recept | Authentieke Thaise main dish"
+      "nl": "Khao Pad Sapparot Recept | Authentieke Thaise main dish",
+      "ja": "カオパッサパロットのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Khao Pad Sapparot (ข้าวผัดสับปะรด) - Pineapple fried rice served in pineapple shell...",
-      "nl": "Leer over Khao Pad Sapparot (ข้าวผัดสับปะรด) - Ananas gebakken rijst geserveerd in ananasschil..."
+      "nl": "Leer over Khao Pad Sapparot (ข้าวผัดสับปะรด) - Ananas gebakken rijst geserveerd in ananasschil...",
+      "ja": "カオパッサパロット（ข้าวผัดสับปะรด）について — パイナップルの器で提供されるタイ風チャーハン。"
     }
   },
   "tags": [
