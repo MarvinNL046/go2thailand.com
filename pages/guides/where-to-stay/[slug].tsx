@@ -7,9 +7,8 @@ import AffiliateBox from '../../../components/AffiliateBox';
 import {
   getWhereToStay,
   getClusterCities,
-  WhereToStayPage,
-  ClusterNeighborhood,
 } from '../../../lib/clusters';
+import type { WhereToStayPage, ClusterNeighborhood } from '../../../lib/clusters';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 // --- Price level badge colors ---

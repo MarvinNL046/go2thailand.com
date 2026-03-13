@@ -7,8 +7,8 @@ import AffiliateBox from '../../../components/AffiliateBox';
 import {
   getTravelGuide,
   getClusterCities,
-  TravelGuidePage,
 } from '../../../lib/clusters';
+import type { TravelGuidePage } from '../../../lib/clusters';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface Props {
