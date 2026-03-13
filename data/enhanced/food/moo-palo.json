@@ -4,14 +4,16 @@
   "name": {
     "en": "Moo Palo",
     "nl": "Moo Palo",
-    "thai": "หมูพะโล้"
+    "thai": "หมูพะโล้",
+    "ja": "ムーパロー"
   },
   "category": "main-dish",
   "region": "northern",
   "spice_level": "mild",
   "description": {
     "en": "Pork belly stewed in sweet soy sauce with eggs",
-    "nl": "Varkensbuik gestoofd in zoete sojasaus met eieren"
+    "nl": "Varkensbuik gestoofd in zoete sojasaus met eieren",
+    "ja": "甘い醤油と卵で煮込んだ豚バラ肉の煮込み"
   },
   "ingredients": [
     "pork belly",
@@ -30,11 +32,13 @@
   "seo": {
     "metaTitle": {
       "en": "Moo Palo Recipe | Authentic Thai main dish",
-      "nl": "Moo Palo Recept | Authentieke Thaise main dish"
+      "nl": "Moo Palo Recept | Authentieke Thaise main dish",
+      "ja": "ムーパローのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Moo Palo (หมูพะโล้) - Pork belly stewed in sweet soy sauce with eggs...",
-      "nl": "Leer over Moo Palo (หมูพะโล้) - Varkensbuik gestoofd in zoete sojasaus met eieren..."
+      "nl": "Leer over Moo Palo (หมูพะโล้) - Varkensbuik gestoofd in zoete sojasaus met eieren...",
+      "ja": "ムーパロー（หมูพะโล้）について — 甘い醤油と卵で煮込んだ豚バラ肉。中華系タイ料理の定番。"
     }
   },
   "tags": [
