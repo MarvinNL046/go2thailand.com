@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-13",
   "stats": {
     "total": 1504,
-    "completed": 1075
+    "completed": 1076
   },
   "queue": [
     {
@@ -8624,14 +8624,15 @@
       "type": "food",
       "file": "data/enhanced/food/boat-noodles.json",
       "locale": "ja",
-      "status": "in_progress",
-      "priority": 14
+      "status": "completed",
+      "priority": 14,
+      "completedAt": "2026-03-13"
     },
     {
       "type": "food",
       "file": "data/enhanced/food/bua-loy.json",
       "locale": "ja",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 14
     },
     {

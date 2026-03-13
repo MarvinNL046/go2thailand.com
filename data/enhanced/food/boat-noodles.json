@@ -4,14 +4,16 @@
   "name": {
     "en": "Boat Noodles",
     "nl": "Boot Noedels",
-    "thai": "ก๋วยเตี๋ยวเรือ"
+    "thai": "ก๋วยเตี๋ยวเรือ",
+    "ja": "ボートヌードル"
   },
   "category": "soup",
   "region": "central",
   "spice_level": "medium",
   "description": {
     "en": "Rich pork or beef noodle soup traditionally served in small portions",
-    "nl": "Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties"
+    "nl": "Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties",
+    "ja": "豚肉や牛肉の濃厚なスープに麺を入れた伝統的な一品で、小さなお椀で提供されるのが特徴です"
   },
   "ingredients": [
     "rice noodles",
@@ -30,11 +32,13 @@
   "seo": {
     "metaTitle": {
       "en": "Boat Noodles Recipe | Authentic Thai soup",
-      "nl": "Boot Noedels Recept | Authentieke Thaise soup"
+      "nl": "Boot Noedels Recept | Authentieke Thaise soup",
+      "ja": "ボートヌードルのレシピ | 本格タイスープ"
     },
     "metaDescription": {
       "en": "Learn about Boat Noodles (ก๋วยเตี๋ยวเรือ) - Rich pork or beef noodle soup traditionally served in small portions...",
-      "nl": "Leer over Boot Noedels (ก๋วยเตี๋ยวเรือ) - Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties..."
+      "nl": "Leer over Boot Noedels (ก๋วยเตี๋ยวเรือ) - Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties...",
+      "ja": "ボートヌードル（ก๋วยเตี๋ยวเรือ）について — 豚肉や牛肉の濃厚なスープに麺を入れた伝統的なタイ料理。小さなお椀で提供されるのが特徴です。"
     }
   },
   "tags": [
