@@ -5,14 +5,16 @@
     "name": {
       "en": "Pad Krapow",
       "nl": "Pad Krapow",
-      "thai": "ผัดกะเพรา"
+      "thai": "ผัดกะเพรา",
+      "ja": "パッガパオ"
     },
     "category": "main-dish",
     "region": "central",
     "spice_level": "hot",
     "description": {
       "en": "Stir-fried Thai basil with minced pork or chicken served over rice with a fried egg",
-      "nl": "Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei"
+      "nl": "Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei",
+      "ja": "ひき肉とタイバジルの炒め物、目玉焼きのせご飯"
     },
     "ingredients": [
       "thai basil",
@@ -33,11 +35,13 @@
     "seo": {
       "metaTitle": {
         "en": "Pad Krapow Recipe | Authentic Thai main dish",
-        "nl": "Pad Krapow Recept | Authentieke Thaise main dish"
+        "nl": "Pad Krapow Recept | Authentieke Thaise main dish",
+        "ja": "パッガパオのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Pad Krapow (ผัดกะเพรา) - Stir-fried Thai basil with minced pork or chicken served over rice with a fried egg...",
-        "nl": "Leer over Pad Krapow (ผัดกะเพรา) - Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei..."
+        "nl": "Leer over Pad Krapow (ผัดกะเพรา) - Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei...",
+        "ja": "パッガパオ（ผัดกะเพรา）について — ひき肉とタイバジルの炒め物。タイの国民食。"
       }
     },
     "tags": [
@@ -70,14 +74,16 @@
     "name": {
       "en": "Pad Thai",
       "nl": "Pad Thai",
-      "thai": "ผัดไทย"
+      "thai": "ผัดไทย",
+      "ja": "パッタイ"
     },
     "category": "main-dish",
     "region": "central",
     "spice_level": "mild",
     "description": {
       "en": "Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce",
-      "nl": "Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus"
+      "nl": "Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus",
+      "ja": "米麺を豆腐やエビ、もやし、タマリンドソースで炒めた定番料理"
     },
     "ingredients": [
       "rice noodles",
@@ -101,11 +107,13 @@
     "seo": {
       "metaTitle": {
         "en": "Pad Thai Recipe | Authentic Thai main dish",
-        "nl": "Pad Thai Recept | Authentieke Thaise main dish"
+        "nl": "Pad Thai Recept | Authentieke Thaise main dish",
+        "ja": "パッタイのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Pad Thai (ผัดไทย) - Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce...",
-        "nl": "Leer over Pad Thai (ผัดไทย) - Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus..."
+        "nl": "Leer over Pad Thai (ผัดไทย) - Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus...",
+        "ja": "パッタイ（ผัดไทย）について — 米麺を豆腐やエビと炒めたタイを代表する麺料理。"
       }
     },
     "tags": [
@@ -142,14 +150,16 @@
     "name": {
       "en": "Pad See Ew",
       "nl": "Pad See Ew",
-      "thai": "ผัดซีอิ๊ว"
+      "thai": "ผัดซีอิ๊ว",
+      "ja": "パッシーイウ"
     },
     "category": "main-dish",
     "region": "central",
     "spice_level": "mild",
     "description": {
       "en": "Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg",
-      "nl": "Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei"
+      "nl": "Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei",
+      "ja": "太い米麺をダークソイソース、カイラン菜、卵で炒めた一品"
     },
     "ingredients": [
       "wide rice noodles",
@@ -167,11 +177,13 @@
     "seo": {
       "metaTitle": {
         "en": "Pad See Ew Recipe | Authentic Thai main dish",
-        "nl": "Pad See Ew Recept | Authentieke Thaise main dish"
+        "nl": "Pad See Ew Recept | Authentieke Thaise main dish",
+        "ja": "パッシーイウのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Pad See Ew (ผัดซีอิ๊ว) - Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg...",
-        "nl": "Leer over Pad See Ew (ผัดซีอิ๊ว) - Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei..."
+        "nl": "Leer over Pad See Ew (ผัดซีอิ๊ว) - Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei...",
+        "ja": "パッシーイウ（ผัดซีอิ๊ว）について — 太い米麺をダークソイソースで炒めたタイの定番麺料理。"
       }
     },
     "tags": [
@@ -204,14 +216,16 @@
     "name": {
       "en": "Thai Fried Rice",
       "nl": "Thaise Gebakken Rijst",
-      "thai": "ข้าวผัด"
+      "thai": "ข้าวผัด",
+      "ja": "タイ風チャーハン"
     },
     "category": "main-dish",
     "region": "central",
     "spice_level": "mild",
     "description": {
       "en": "Fragrant fried rice with jasmine rice fish sauce and fresh vegetables",
-      "nl": "Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten"
+      "nl": "Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten",
+      "ja": "ジャスミンライスをナンプラーと新鮮な野菜で炒めた香り高いチャーハン"
     },
     "ingredients": [
       "jasmine rice",
@@ -233,11 +247,13 @@
     "seo": {
       "metaTitle": {
         "en": "Thai Fried Rice Recipe | Authentic Thai main dish",
-        "nl": "Thaise Gebakken Rijst Recept | Authentieke Thaise main dish"
+        "nl": "Thaise Gebakken Rijst Recept | Authentieke Thaise main dish",
+        "ja": "タイ風チャーハンのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Thai Fried Rice (ข้าวผัด) - Fragrant fried rice with jasmine rice fish sauce and fresh vegetables...",
-        "nl": "Leer over Thaise Gebakken Rijst (ข้าวผัด) - Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten..."
+        "nl": "Leer over Thaise Gebakken Rijst (ข้าวผัด) - Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten...",
+        "ja": "タイ風チャーハン（ข้าวผัด）について — ジャスミンライスを使った香り高いタイのチャーハン。"
       }
     },
     "tags": [
@@ -272,14 +288,16 @@
     "name": {
       "en": "Khao Man Gai",
       "nl": "Khao Man Gai",
-      "thai": "ข้าวมันไก่"
+      "thai": "ข้าวมันไก่",
+      "ja": "カオマンガイ"
     },
     "category": "main-dish",
     "region": "central",
     "spice_level": "mild",
     "description": {
       "en": "Steamed chicken with rice cooked in chicken broth and ginger-chili sauce",
-      "nl": "Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus"
+      "nl": "Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus",
+      "ja": "鶏のスープで炊いたご飯に茹で鶏をのせた定番料理、生姜チリソース付き"
     },
     "ingredients": [
       "chicken",
@@ -299,11 +317,13 @@
     "seo": {
       "metaTitle": {
         "en": "Khao Man Gai Recipe | Authentic Thai main dish",
-        "nl": "Khao Man Gai Recept | Authentieke Thaise main dish"
+        "nl": "Khao Man Gai Recept | Authentieke Thaise main dish",
+        "ja": "カオマンガイのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Khao Man Gai (ข้าวมันไก่) - Steamed chicken with rice cooked in chicken broth and ginger-chili sauce...",
-        "nl": "Leer over Khao Man Gai (ข้าวมันไก่) - Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus..."
+        "nl": "Leer over Khao Man Gai (ข้าวมันไก่) - Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus...",
+        "ja": "カオマンガイ（ข้าวมันไก่）について — 鶏のスープで炊いたご飯に茹で鶏をのせたタイの国民食。"
       }
     },
     "tags": [
@@ -336,14 +356,16 @@
     "name": {
       "en": "Sai Ua",
       "nl": "Sai Ua",
-      "thai": "ไส้อั่ว"
+      "thai": "ไส้อั่ว",
+      "ja": "サイウア"
     },
     "category": "main-dish",
     "region": "northern",
     "spice_level": "hot",
     "description": {
       "en": "Spicy northern Thai sausage with herbs and spices",
-      "nl": "Pittige noordelijke Thaise worst met kruiden en specerijen"
+      "nl": "Pittige noordelijke Thaise worst met kruiden en specerijen",
+      "ja": "ハーブとスパイスをたっぷり使った北タイのスパイシーソーセージ"
     },
     "ingredients": [
       "pork",
@@ -363,11 +385,13 @@
     "seo": {
       "metaTitle": {
         "en": "Sai Ua Recipe | Authentic Thai main dish",
-        "nl": "Sai Ua Recept | Authentieke Thaise main dish"
+        "nl": "Sai Ua Recept | Authentieke Thaise main dish",
+        "ja": "サイウアのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Sai Ua (ไส้อั่ว) - Spicy northern Thai sausage with herbs and spices...",
-        "nl": "Leer over Sai Ua (ไส้อั่ว) - Pittige noordelijke Thaise worst met kruiden en specerijen..."
+        "nl": "Leer over Sai Ua (ไส้อั่ว) - Pittige noordelijke Thaise worst met kruiden en specerijen...",
+        "ja": "サイウア（ไส้อั่ว）について — ハーブとスパイスたっぷりの北タイ名物スパイシーソーセージ。"
       }
     },
     "tags": [
@@ -400,14 +424,16 @@
     "name": {
       "en": "Nam Prik Ong",
       "nl": "Nam Prik Ong",
-      "thai": "น้ำพริกอ่อง"
+      "thai": "น้ำพริกอ่อง",
+      "ja": "ナムプリックオン"
     },
     "category": "main-dish",
     "region": "northern",
     "spice_level": "medium",
     "description": {
       "en": "Tomato and minced pork chili dip served with vegetables",
-      "nl": "Tomaten-chili dip met varkensgehakt geserveerd met groenten"
+      "nl": "Tomaten-chili dip met varkensgehakt geserveerd met groenten",
+      "ja": "トマトと豚ひき肉のチリディップ、生野菜を添えて"
     },
     "ingredients": [
       "tomatoes",
@@ -426,11 +452,13 @@
     "seo": {
       "metaTitle": {
         "en": "Nam Prik Ong Recipe | Authentic Thai main dish",
-        "nl": "Nam Prik Ong Recept | Authentieke Thaise main dish"
+        "nl": "Nam Prik Ong Recept | Authentieke Thaise main dish",
+        "ja": "ナムプリックオンのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Nam Prik Ong (น้ำพริกอ่อง) - Tomato and minced pork chili dip served with vegetables...",
-        "nl": "Leer over Nam Prik Ong (น้ำพริกอ่อง) - Tomaten-chili dip met varkensgehakt geserveerd met groenten..."
+        "nl": "Leer over Nam Prik Ong (น้ำพริกอ่อง) - Tomaten-chili dip met varkensgehakt geserveerd met groenten...",
+        "ja": "ナムプリックオン（น้ำพริกอ่อง）について — トマトと豚ひき肉のチリディップ。北タイの定番おかず。"
       }
     },
     "tags": [
@@ -463,14 +491,16 @@
     "name": {
       "en": "Mee Hokkien",
       "nl": "Mee Hokkien",
-      "thai": "หมี่ฮกเกี้ยน"
+      "thai": "หมี่ฮกเกี้ยน",
+      "ja": "ミーホッケン"
     },
     "category": "main-dish",
     "region": "southern",
     "spice_level": "mild",
     "description": {
       "en": "Stir-fried Hokkien noodles with seafood Phuket style",
-      "nl": "Gebakken Hokkien-noedels met zeevruchten Phuket stijl"
+      "nl": "Gebakken Hokkien-noedels met zeevruchten Phuket stijl",
+      "ja": "プーケット風シーフード入り福建焼きそば"
     },
     "ingredients": [
       "yellow noodles",
@@ -492,11 +522,13 @@
     "seo": {
       "metaTitle": {
         "en": "Mee Hokkien Recipe | Authentic Thai main dish",
-        "nl": "Mee Hokkien Recept | Authentieke Thaise main dish"
+        "nl": "Mee Hokkien Recept | Authentieke Thaise main dish",
+        "ja": "ミーホッケンのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Mee Hokkien (หมี่ฮกเกี้ยน) - Stir-fried Hokkien noodles with seafood Phuket style...",
-        "nl": "Leer over Mee Hokkien (หมี่ฮกเกี้ยน) - Gebakken Hokkien-noedels met zeevruchten Phuket stijl..."
+        "nl": "Leer over Mee Hokkien (หมี่ฮกเกี้ยน) - Gebakken Hokkien-noedels met zeevruchten Phuket stijl...",
+        "ja": "ミーホッケン（หมี่ฮกเกี้ยน）について — プーケット風シーフード入りの福建焼きそば。"
       }
     },
     "tags": [
@@ -531,14 +563,16 @@
     "name": {
       "en": "Nam Prik Goong Siap",
       "nl": "Nam Prik Goong Siap",
-      "thai": "น้ำพริกกุ้งเสียบ"
+      "thai": "น้ำพริกกุ้งเสียบ",
+      "ja": "ナムプリック・グンシアップ"
     },
     "category": "main-dish",
     "region": "southern",
     "spice_level": "hot",
     "description": {
       "en": "Spicy dip with smoked dried shrimp",
-      "nl": "Pittige dipsaus met gerookte gedroogde garnalen"
+      "nl": "Pittige dipsaus met gerookte gedroogde garnalen",
+      "ja": "燻製干しエビのスパイシーディップ"
     },
     "ingredients": [
       "dried shrimp",
@@ -559,11 +593,13 @@
     "seo": {
       "metaTitle": {
         "en": "Nam Prik Goong Siap Recipe | Authentic Thai main dish",
-        "nl": "Nam Prik Goong Siap Recept | Authentieke Thaise main dish"
+        "nl": "Nam Prik Goong Siap Recept | Authentieke Thaise main dish",
+        "ja": "ナムプリック・グンシアップのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Spicy dip with smoked dried shrimp...",
-        "nl": "Leer over Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Pittige dipsaus met gerookte gedroogde garnalen..."
+        "nl": "Leer over Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Pittige dipsaus met gerookte gedroogde garnalen...",
+        "ja": "ナムプリック・グンシアップ（น้ำพริกกุ้งเสียบ）について — 燻製干しエビのスパイシーディップ。"
       }
     },
     "tags": [
@@ -598,14 +634,16 @@
     "name": {
       "en": "Moo Hong",
       "nl": "Moo Hong",
-      "thai": "หมูฮ้อง"
+      "thai": "หมูฮ้อง",
+      "ja": "ムーホン"
     },
     "category": "main-dish",
     "region": "southern",
     "spice_level": "mild",
     "description": {
       "en": "Braised pork belly in sweet soy sauce Phuket style",
-      "nl": "Gestoofd varkensbuik in zoete sojasaus Phuket stijl"
+      "nl": "Gestoofd varkensbuik in zoete sojasaus Phuket stijl",
+      "ja": "プーケット風甘い醤油で煮込んだ豚バラ肉"
     },
     "ingredients": [
       "pork belly",
@@ -624,11 +662,13 @@
     "seo": {
       "metaTitle": {
         "en": "Moo Hong Recipe | Authentic Thai main dish",
-        "nl": "Moo Hong Recept | Authentieke Thaise main dish"
+        "nl": "Moo Hong Recept | Authentieke Thaise main dish",
+        "ja": "ムーホンのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Moo Hong (หมูฮ้อง) - Braised pork belly in sweet soy sauce Phuket style...",
-        "nl": "Leer over Moo Hong (หมูฮ้อง) - Gestoofd varkensbuik in zoete sojasaus Phuket stijl..."
+        "nl": "Leer over Moo Hong (หมูฮ้อง) - Gestoofd varkensbuik in zoete sojasaus Phuket stijl...",
+        "ja": "ムーホン（หมูฮ้อง）について — プーケット風の甘い醤油で煮込んだ豚バラ肉。"
       }
     },
     "tags": [
@@ -661,14 +701,16 @@
     "name": {
       "en": "Kanom Jeen Nam Ya",
       "nl": "Kanom Jeen Nam Ya",
-      "thai": "ขนมจีนน้ำยา"
+      "thai": "ขนมจีนน้ำยา",
+      "ja": "カノムジーン・ナムヤー"
     },
     "category": "main-dish",
     "region": "southern",
     "spice_level": "medium",
     "description": {
       "en": "Fermented rice noodles with fish curry sauce",
-      "nl": "Gefermenteerde rijstnoedels met viscurrysaus"
+      "nl": "Gefermenteerde rijstnoedels met viscurrysaus",
+      "ja": "発酵米麺に魚のカレーソースをかけた伝統料理"
     },
     "ingredients": [
       "fermented rice noodles",
@@ -689,11 +731,13 @@
     "seo": {
       "metaTitle": {
         "en": "Kanom Jeen Nam Ya Recipe | Authentic Thai main dish",
-        "nl": "Kanom Jeen Nam Ya Recept | Authentieke Thaise main dish"
+        "nl": "Kanom Jeen Nam Ya Recept | Authentieke Thaise main dish",
+        "ja": "カノムジーン・ナムヤーのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Fermented rice noodles with fish curry sauce...",
-        "nl": "Leer over Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Gefermenteerde rijstnoedels met viscurrysaus..."
+        "nl": "Leer over Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Gefermenteerde rijstnoedels met viscurrysaus...",
+        "ja": "カノムジーン・ナムヤー（ขนมจีนน้ำยา）について — 発酵米麺に魚のカレーソースをかけたタイの伝統料理。"
       }
     },
     "tags": [
@@ -728,14 +772,16 @@
     "name": {
       "en": "Hoy Tod",
       "nl": "Hoy Tod",
-      "thai": "หอยทอด"
+      "thai": "หอยทอด",
+      "ja": "ホイトート"
     },
     "category": "main-dish",
     "region": "central",
     "spice_level": "mild",
     "description": {
       "en": "Crispy mussel or oyster pancake with bean sprouts",
-      "nl": "Knapperige mossel- of oesterpannenkoek met taugé"
+      "nl": "Knapperige mossel- of oesterpannenkoek met taugé",
+      "ja": "カリカリの衣で揚げたムール貝のオムレツ、もやし入り"
     },
     "ingredients": [
       "mussels or oysters",
@@ -755,11 +801,13 @@
     "seo": {
       "metaTitle": {
         "en": "Hoy Tod Recipe | Authentic Thai main dish",
-        "nl": "Hoy Tod Recept | Authentieke Thaise main dish"
+        "nl": "Hoy Tod Recept | Authentieke Thaise main dish",
+        "ja": "ホイトートのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Hoy Tod (หอยทอด) - Crispy mussel or oyster pancake with bean sprouts...",
-        "nl": "Leer over Hoy Tod (หอยทอด) - Knapperige mossel- of oesterpannenkoek met taugé..."
+        "nl": "Leer over Hoy Tod (หอยทอด) - Knapperige mossel- of oesterpannenkoek met taugé...",
+        "ja": "ホイトート（หอยทอด）について — カリカリの衣で揚げたムール貝のオムレツ。タイの人気屋台料理。"
       }
     },
     "tags": [
@@ -794,14 +842,16 @@
     "name": {
       "en": "Pla Pao",
       "nl": "Pla Pao",
-      "thai": "ปลาเผา"
+      "thai": "ปลาเผา",
+      "ja": "プラパオ"
     },
     "category": "main-dish",
     "region": "central",
     "spice_level": "mild",
     "description": {
       "en": "Grilled fish in salt crust served with spicy seafood sauce",
-      "nl": "Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus"
+      "nl": "Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus",
+      "ja": "塩の皮で包んで焼いた魚、スパイシーシーフードソース添え"
     },
     "ingredients": [
       "whole fish",
@@ -821,11 +871,13 @@
     "seo": {
       "metaTitle": {
         "en": "Pla Pao Recipe | Authentic Thai main dish",
-        "nl": "Pla Pao Recept | Authentieke Thaise main dish"
+        "nl": "Pla Pao Recept | Authentieke Thaise main dish",
+        "ja": "プラパオのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Pla Pao (ปลาเผา) - Grilled fish in salt crust served with spicy seafood sauce...",
-        "nl": "Leer over Pla Pao (ปลาเผา) - Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus..."
+        "nl": "Leer over Pla Pao (ปลาเผา) - Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus...",
+        "ja": "プラパオ（ปลาเผา）について — 塩の皮で包んで焼いた魚。スパイシーソース添え。"
       }
     },
     "tags": [
@@ -860,14 +912,16 @@
     "name": {
       "en": "Khao Pad Sapparot",
       "nl": "Khao Pad Sapparot",
-      "thai": "ข้าวผัดสับปะรด"
+      "thai": "ข้าวผัดสับปะรด",
+      "ja": "カオパッサパロット"
     },
     "category": "main-dish",
     "region": "central",
     "spice_level": "mild",
     "description": {
       "en": "Pineapple fried rice served in pineapple shell",
-      "nl": "Ananas gebakken rijst geserveerd in ananasschil"
+      "nl": "Ananas gebakken rijst geserveerd in ananasschil",
+      "ja": "パイナップルの器に入ったパイナップル入りチャーハン"
     },
     "ingredients": [
       "rice",
@@ -888,11 +942,13 @@
     "seo": {
       "metaTitle": {
         "en": "Khao Pad Sapparot Recipe | Authentic Thai main dish",
-        "nl": "Khao Pad Sapparot Recept | Authentieke Thaise main dish"
+        "nl": "Khao Pad Sapparot Recept | Authentieke Thaise main dish",
+        "ja": "カオパッサパロットのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Khao Pad Sapparot (ข้าวผัดสับปะรด) - Pineapple fried rice served in pineapple shell...",
-        "nl": "Leer over Khao Pad Sapparot (ข้าวผัดสับปะรด) - Ananas gebakken rijst geserveerd in ananasschil..."
+        "nl": "Leer over Khao Pad Sapparot (ข้าวผัดสับปะรด) - Ananas gebakken rijst geserveerd in ananasschil...",
+        "ja": "カオパッサパロット（ข้าวผัดสับปะรด）について — パイナップルの器で提供されるタイ風チャーハン。"
       }
     },
     "tags": [
@@ -927,14 +983,16 @@
     "name": {
       "en": "Khao Mok Gai",
       "nl": "Khao Mok Gai",
-      "thai": "ข้าวหมกไก่"
+      "thai": "ข้าวหมกไก่",
+      "ja": "カオモックガイ"
     },
     "category": "main-dish",
     "region": "southern",
     "spice_level": "mild",
     "description": {
       "en": "Thai-style biryani with chicken and fragrant yellow rice",
-      "nl": "Thaise biryani met kip en geurige gele rijst"
+      "nl": "Thaise biryani met kip en geurige gele rijst",
+      "ja": "ターメリックライスと鶏肉のタイ風ビリヤニ"
     },
     "ingredients": [
       "chicken",
@@ -954,11 +1012,13 @@
     "seo": {
       "metaTitle": {
         "en": "Khao Mok Gai Recipe | Authentic Thai main dish",
-        "nl": "Khao Mok Gai Recept | Authentieke Thaise main dish"
+        "nl": "Khao Mok Gai Recept | Authentieke Thaise main dish",
+        "ja": "カオモックガイのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Khao Mok Gai (ข้าวหมกไก่) - Thai-style biryani with chicken and fragrant yellow rice...",
-        "nl": "Leer over Khao Mok Gai (ข้าวหมกไก่) - Thaise biryani met kip en geurige gele rijst..."
+        "nl": "Leer over Khao Mok Gai (ข้าวหมกไก่) - Thaise biryani met kip en geurige gele rijst...",
+        "ja": "カオモックガイ（ข้าวหมกไก่）について — ターメリックライスと鶏肉のタイ風ビリヤニ。"
       }
     },
     "tags": [
@@ -991,14 +1051,16 @@
     "name": {
       "en": "Goong Pad Makham",
       "nl": "Goong Pad Makham",
-      "thai": "กุ้งผัดมะขาม"
+      "thai": "กุ้งผัดมะขาม",
+      "ja": "グンパッマカーム"
     },
     "category": "main-dish",
     "region": "southern",
     "spice_level": "mild",
     "description": {
       "en": "Prawns stir-fried in tangy tamarind sauce",
-      "nl": "Garnalen geroerbakt in pittige tamarindesaus"
+      "nl": "Garnalen geroerbakt in pittige tamarindesaus",
+      "ja": "タマリンドソースで炒めたエビ"
     },
     "ingredients": [
       "prawns",
@@ -1019,11 +1081,13 @@
     "seo": {
       "metaTitle": {
         "en": "Goong Pad Makham Recipe | Authentic Thai main dish",
-        "nl": "Goong Pad Makham Recept | Authentieke Thaise main dish"
+        "nl": "Goong Pad Makham Recept | Authentieke Thaise main dish",
+        "ja": "グンパッマカームのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Goong Pad Makham (กุ้งผัดมะขาม) - Prawns stir-fried in tangy tamarind sauce...",
-        "nl": "Leer over Goong Pad Makham (กุ้งผัดมะขาม) - Garnalen geroerbakt in pittige tamarindesaus..."
+        "nl": "Leer over Goong Pad Makham (กุ้งผัดมะขาม) - Garnalen geroerbakt in pittige tamarindesaus...",
+        "ja": "グンパッマカーム（กุ้งผัดมะขาม）について — タマリンドソースで炒めたエビの甘酸っぱい一品。"
       }
     },
     "tags": [
@@ -1058,14 +1122,16 @@
     "name": {
       "en": "Gai Tod Hat Yai",
       "nl": "Gai Tod Hat Yai",
-      "thai": "ไก่ทอดหาดใหญ่"
+      "thai": "ไก่ทอดหาดใหญ่",
+      "ja": "ガイトート・ハートヤイ"
     },
     "category": "main-dish",
     "region": "southern",
     "spice_level": "mild",
     "description": {
       "en": "Hat Yai style fried chicken with crispy shallots",
-      "nl": "Hat Yai stijl gefrituurde kip met krokante sjalotten"
+      "nl": "Hat Yai stijl gefrituurde kip met krokante sjalotten",
+      "ja": "ハートヤイ名物のフライドチキン、フライドシャロット添え"
     },
     "ingredients": [
       "chicken",
@@ -1084,11 +1150,13 @@
     "seo": {
       "metaTitle": {
         "en": "Gai Tod Hat Yai Recipe | Authentic Thai main dish",
-        "nl": "Gai Tod Hat Yai Recept | Authentieke Thaise main dish"
+        "nl": "Gai Tod Hat Yai Recept | Authentieke Thaise main dish",
+        "ja": "ガイトート・ハートヤイのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai style fried chicken with crispy shallots...",
-        "nl": "Leer over Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai stijl gefrituurde kip met krokante sjalotten..."
+        "nl": "Leer over Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai stijl gefrituurde kip met krokante sjalotten...",
+        "ja": "ガイトート・ハートヤイ（ไก่ทอดหาดใหญ่）について — ハートヤイ名物のカリカリフライドチキン。"
       }
     },
     "tags": [
@@ -1121,14 +1189,16 @@
     "name": {
       "en": "Khao Kan Jin",
       "nl": "Khao Kan Jin",
-      "thai": "ข้าวกั้นจิ๊น"
+      "thai": "ข้าวกั้นจิ๊น",
+      "ja": "カオカンジン"
     },
     "category": "main-dish",
     "region": "northern",
     "spice_level": "mild",
     "description": {
       "en": "Steamed rice with pork blood in banana leaf",
-      "nl": "Gestoomde rijst met varkensbloed in bananenblad"
+      "nl": "Gestoomde rijst met varkensbloed in bananenblad",
+      "ja": "バナナの葉に包んだ豚の血入り蒸しもち米"
     },
     "ingredients": [
       "rice",
@@ -1147,11 +1217,13 @@
     "seo": {
       "metaTitle": {
         "en": "Khao Kan Jin Recipe | Authentic Thai main dish",
-        "nl": "Khao Kan Jin Recept | Authentieke Thaise main dish"
+        "nl": "Khao Kan Jin Recept | Authentieke Thaise main dish",
+        "ja": "カオカンジンのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Khao Kan Jin (ข้าวกั้นจิ๊น) - Steamed rice with pork blood in banana leaf...",
-        "nl": "Leer over Khao Kan Jin (ข้าวกั้นจิ๊น) - Gestoomde rijst met varkensbloed in bananenblad..."
+        "nl": "Leer over Khao Kan Jin (ข้าวกั้นจิ๊น) - Gestoomde rijst met varkensbloed in bananenblad...",
+        "ja": "カオカンジン（ข้าวกั้นจิ๊น）について — バナナの葉に包んだ豚の血入り蒸しもち米。北タイの朝食。"
       }
     },
     "tags": [
@@ -1184,14 +1256,16 @@
     "name": {
       "en": "Roti Canai",
       "nl": "Roti Canai",
-      "thai": "โรตีกะหรี่"
+      "thai": "โรตีกะหรี่",
+      "ja": "ロティ・チャナイ"
     },
     "category": "main-dish",
     "region": "southern",
     "spice_level": "mild",
     "description": {
       "en": "Malaysian-Thai flatbread served with curry",
-      "nl": "Maleisisch-Thais platbrood geserveerd met curry"
+      "nl": "Maleisisch-Thais platbrood geserveerd met curry",
+      "ja": "カレーと一緒に食べるマレーシア・タイ風フラットブレッド"
     },
     "ingredients": [
       "flour",
@@ -1211,11 +1285,13 @@
     "seo": {
       "metaTitle": {
         "en": "Roti Canai Recipe | Authentic Thai main dish",
-        "nl": "Roti Canai Recept | Authentieke Thaise main dish"
+        "nl": "Roti Canai Recept | Authentieke Thaise main dish",
+        "ja": "ロティ・チャナイのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Roti Canai (โรตีกะหรี่) - Malaysian-Thai flatbread served with curry...",
-        "nl": "Leer over Roti Canai (โรตีกะหรี่) - Maleisisch-Thais platbrood geserveerd met curry..."
+        "nl": "Leer over Roti Canai (โรตีกะหรี่) - Maleisisch-Thais platbrood geserveerd met curry...",
+        "ja": "ロティ・チャナイ（โรตีกะหรี่）について — カレーと一緒に食べるマレーシア・タイ風フラットブレッド。"
       }
     },
     "tags": [
@@ -1250,14 +1326,16 @@
     "name": {
       "en": "Moo Palo",
       "nl": "Moo Palo",
-      "thai": "หมูพะโล้"
+      "thai": "หมูพะโล้",
+      "ja": "ムーパロー"
     },
     "category": "main-dish",
     "region": "northern",
     "spice_level": "mild",
     "description": {
       "en": "Pork belly stewed in sweet soy sauce with eggs",
-      "nl": "Varkensbuik gestoofd in zoete sojasaus met eieren"
+      "nl": "Varkensbuik gestoofd in zoete sojasaus met eieren",
+      "ja": "甘い醤油と卵で煮込んだ豚バラ肉の煮込み"
     },
     "ingredients": [
       "pork belly",
@@ -1276,11 +1354,13 @@
     "seo": {
       "metaTitle": {
         "en": "Moo Palo Recipe | Authentic Thai main dish",
-        "nl": "Moo Palo Recept | Authentieke Thaise main dish"
+        "nl": "Moo Palo Recept | Authentieke Thaise main dish",
+        "ja": "ムーパローのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Moo Palo (หมูพะโล้) - Pork belly stewed in sweet soy sauce with eggs...",
-        "nl": "Leer over Moo Palo (หมูพะโล้) - Varkensbuik gestoofd in zoete sojasaus met eieren..."
+        "nl": "Leer over Moo Palo (หมูพะโล้) - Varkensbuik gestoofd in zoete sojasaus met eieren...",
+        "ja": "ムーパロー（หมูพะโล้）について — 甘い醤油と卵で煮込んだ豚バラ肉。中華系タイ料理の定番。"
       }
     },
     "tags": [
@@ -1313,14 +1393,16 @@
     "name": {
       "en": "Nam Prik Noom",
       "nl": "Nam Prik Noom",
-      "thai": "น้ำพริกหนุ่ม"
+      "thai": "น้ำพริกหนุ่ม",
+      "ja": "ナムプリック・ヌム"
     },
     "category": "main-dish",
     "region": "northern",
     "spice_level": "medium",
     "description": {
       "en": "Northern green chili dip with grilled vegetables",
-      "nl": "Noordelijke groene chili dip met gegrilde groenten"
+      "nl": "Noordelijke groene chili dip met gegrilde groenten",
+      "ja": "焼き野菜を添えた北タイの青唐辛子ディップ"
     },
     "ingredients": [
       "green chili",
@@ -1340,11 +1422,13 @@
     "seo": {
       "metaTitle": {
         "en": "Nam Prik Noom Recipe | Authentic Thai main dish",
-        "nl": "Nam Prik Noom Recept | Authentieke Thaise main dish"
+        "nl": "Nam Prik Noom Recept | Authentieke Thaise main dish",
+        "ja": "ナムプリック・ヌムのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Nam Prik Noom (น้ำพริกหนุ่ม) - Northern green chili dip with grilled vegetables...",
-        "nl": "Leer over Nam Prik Noom (น้ำพริกหนุ่ม) - Noordelijke groene chili dip met gegrilde groenten..."
+        "nl": "Leer over Nam Prik Noom (น้ำพริกหนุ่ม) - Noordelijke groene chili dip met gegrilde groenten...",
+        "ja": "ナムプリック・ヌム（น้ำพริกหนุ่ม）について — 焼き野菜を添えた北タイの青唐辛子ディップ。"
       }
     },
     "tags": [
@@ -1379,14 +1463,16 @@
     "name": {
       "en": "Nam Prik Kapi",
       "nl": "Nam Prik Kapi",
-      "thai": "น้ำพริกกะปิ"
+      "thai": "น้ำพริกกะปิ",
+      "ja": "ナムプリック・カピ"
     },
     "category": "main-dish",
     "region": "southern",
     "spice_level": "hot",
     "description": {
       "en": "Shrimp paste chili dip with fresh vegetables",
-      "nl": "Garnalenpasta chili dip met verse groenten"
+      "nl": "Garnalenpasta chili dip met verse groenten",
+      "ja": "エビペーストのチリディップ、新鮮な野菜を添えて"
     },
     "ingredients": [
       "shrimp paste",
@@ -1406,11 +1492,13 @@
     "seo": {
       "metaTitle": {
         "en": "Nam Prik Kapi Recipe | Authentic Thai main dish",
-        "nl": "Nam Prik Kapi Recept | Authentieke Thaise main dish"
+        "nl": "Nam Prik Kapi Recept | Authentieke Thaise main dish",
+        "ja": "ナムプリック・カピのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Nam Prik Kapi (น้ำพริกกะปิ) - Shrimp paste chili dip with fresh vegetables...",
-        "nl": "Leer over Nam Prik Kapi (น้ำพริกกะปิ) - Garnalenpasta chili dip met verse groenten..."
+        "nl": "Leer over Nam Prik Kapi (น้ำพริกกะปิ) - Garnalenpasta chili dip met verse groenten...",
+        "ja": "ナムプリック・カピ（น้ำพริกกะปิ）について — エビペーストのチリディップ。新鮮な野菜と一緒に。"
       }
     },
     "tags": [
@@ -1445,14 +1533,16 @@
     "name": {
       "en": "Goong Pad Sator",
       "nl": "Goong Pad Sator",
-      "thai": "กุ้งผัดสะตอ"
+      "thai": "กุ้งผัดสะตอ",
+      "ja": "グンパッサトー"
     },
     "category": "main-dish",
     "region": "southern",
     "spice_level": "medium",
     "description": {
       "en": "Prawns stir-fried with stink beans",
-      "nl": "Garnalen geroerbakt met stinkbonen"
+      "nl": "Garnalen geroerbakt met stinkbonen",
+      "ja": "エビとサトー豆のカレーペースト炒め"
     },
     "ingredients": [
       "prawns",
@@ -1472,11 +1562,13 @@
     "seo": {
       "metaTitle": {
         "en": "Goong Pad Sator Recipe | Authentic Thai main dish",
-        "nl": "Goong Pad Sator Recept | Authentieke Thaise main dish"
+        "nl": "Goong Pad Sator Recept | Authentieke Thaise main dish",
+        "ja": "グンパッサトーのレシピ | 本格タイ料理"
       },
       "metaDescription": {
         "en": "Learn about Goong Pad Sator (กุ้งผัดสะตอ) - Prawns stir-fried with stink beans...",
-        "nl": "Leer over Goong Pad Sator (กุ้งผัดสะตอ) - Garnalen geroerbakt met stinkbonen..."
+        "nl": "Leer over Goong Pad Sator (กุ้งผัดสะตอ) - Garnalen geroerbakt met stinkbonen...",
+        "ja": "グンパッサトー（กุ้งผัดสะตอ）について — エビとサトー豆のカレーペースト炒め。南タイの名物。"
       }
     },
     "tags": [

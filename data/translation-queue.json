@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-14",
   "stats": {
     "total": 1504,
-    "completed": 1098
+    "completed": 1099
   },
   "queue": [
     {
@@ -8808,14 +8808,15 @@
       "type": "food",
       "file": "data/enhanced/food/main-dish.json",
       "locale": "ja",
-      "status": "in_progress",
-      "priority": 14
+      "status": "completed",
+      "priority": 14,
+      "completedAt": "2026-03-14"
     },
     {
       "type": "food",
       "file": "data/enhanced/food/mango-sticky-rice.json",
       "locale": "ja",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 14
     },
     {
