@@ -3,13 +3,15 @@
   "slug": "trang",
   "name": {
     "en": "Trang",
-    "nl": "Trang"
+    "nl": "Trang",
+    "ja": "トラン"
   },
   "region": "Southern",
   "province": "Trang",
   "description": {
     "en": "A laid-back southern Thai city renowned for its roasted pork, hidden emerald caves, and pristine islands. Trang offers an authentic slice of southern Thai life with a thriving food culture and access to stunning Andaman Sea islands.",
-    "nl": "Een ontspannen Zuid-Thaise stad beroemd om zijn geroosterd varkensvlees, verborgen smaragdgroene grotten en ongerepte eilanden. Trang biedt een authentiek stukje Zuid-Thais leven met een bloeiende eetcultuur en toegang tot prachtige eilanden in de Andamanzee."
+    "nl": "Een ontspannen Zuid-Thaise stad beroemd om zijn geroosterd varkensvlees, verborgen smaragdgroene grotten en ongerepte eilanden. Trang biedt een authentiek stukje Zuid-Thais leven met een bloeiende eetcultuur en toegang tot prachtige eilanden in de Andamanzee.",
+    "ja": "ローストポーク、エメラルドの洞窟、隠れた島々で知られるのんびりとしたタイ南部の街トランは、知る人ぞ知る秘境リゾートの玄関口です。"
   },
   "population": 65000,
   "highlights": [
@@ -26,25 +28,30 @@
   "seo": {
     "metaTitle": {
       "en": "Discover Trang | What to do in Trang?",
-      "nl": "Ontdek Trang | Wat te doen in Trang?"
+      "nl": "Ontdek Trang | Wat te doen in Trang?",
+      "ja": "トランを満喫 | トランの観光・見どころガイド"
     },
     "metaDescription": {
       "en": "Your guide to Trang, Thailand – hidden islands, emerald caves, roasted pork and dim sum.",
-      "nl": "Jouw gids voor Trang, Thailand – verborgen eilanden, smaragdgroene grotten, geroosterd varkensvlees en dim sum."
+      "nl": "Jouw gids voor Trang, Thailand – verborgen eilanden, smaragdgroene grotten, geroosterd varkensvlees en dim sum.",
+      "ja": "タイ・トランの旅行ガイド — 隠れた島々、エメラルドの洞窟、ローストポークの魅力をご紹介。"
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Trang",
-      "nl": "Beste restaurants en streetfood in Trang"
+      "nl": "Beste restaurants en streetfood in Trang",
+      "ja": "トランのおすすめレストラン＆ストリートフード"
     },
     "hotels": {
       "en": "Top hotels in Trang | Tips & deals",
-      "nl": "Beste hotels in Trang | Tips & aanbiedingen"
+      "nl": "Beste hotels in Trang | Tips & aanbiedingen",
+      "ja": "トランのおすすめホテル｜お得な情報＆アドバイス"
     },
     "attractions": {
       "en": "Top attractions in Trang",
-      "nl": "Top bezienswaardigheden in Trang"
+      "nl": "Top bezienswaardigheden in Trang",
+      "ja": "トランの人気観光スポット"
     }
   },
   "tags": [
@@ -60,55 +67,65 @@
     {
       "name": {
         "en": "Koh Kradan Beach",
-        "nl": "Koh Kradan Strand"
+        "nl": "Koh Kradan Strand",
+        "ja": "クラダン島ビーチ"
       },
       "description": {
         "en": "Often called the most beautiful beach in Thailand, this small island's eastern shore has powdery white sand meeting crystal-clear water over a coral reef. No roads, no ATMs, just pristine beach perfection with a handful of small resorts.",
-        "nl": "Vaak het mooiste strand van Thailand genoemd, heeft de oostkust van dit kleine eiland poederachtig wit zand dat kristalhelder water ontmoet boven een koraalrif. Geen wegen, geen geldautomaten, alleen puur strandperfectie met een handvol kleine resorts."
+        "nl": "Vaak het mooiste strand van Thailand genoemd, heeft de oostkust van dit kleine eiland poederachtig wit zand dat kristalhelder water ontmoet boven een koraalrif. Geen wegen, geen geldautomaten, alleen puur strandperfectie met een handvol kleine resorts.",
+        "ja": "タイで最も美しいビーチとも称される小さな島で、東側の砂浜は透明度抜群の海と白砂が広がります。観光客が少なく、手つかずの自然が残る楽園です。"
       },
       "type": "nature"
     },
     {
       "name": {
         "en": "Ko Pi Breakfast House",
-        "nl": "Ko Pi Ontbijthuis"
+        "nl": "Ko Pi Ontbijthuis",
+        "ja": "コー・ピー朝食店"
       },
       "description": {
         "en": "A legendary Trang breakfast institution on Phraram VI Road serving perfect roasted pork, handmade dim sum, and strong filtered coffee since the 1940s. Arrive before 7 AM to secure a seat among the local regulars.",
-        "nl": "Een legendarisch Trang ontbijtinstituut aan de Phraram VI Road dat perfecte gebraden varkensvlees, handgemaakte dim sum en sterke filterkoffie serveert sinds de jaren 1940. Kom voor 7 uur aan om een stoel te bemachtigen tussen de vaste locale klanten."
+        "nl": "Een legendarisch Trang ontbijtinstituut aan de Phraram VI Road dat perfecte gebraden varkensvlees, handgemaakte dim sum en sterke filterkoffie serveert sinds de jaren 1940. Kom voor 7 uur aan om een stoel te bemachtigen tussen de vaste locale klanten.",
+        "ja": "プララーム6世通りにある伝説的なトランの朝食店で、完璧なローストポークとコーヒーを早朝から提供しています。地元の人々に長年愛される名店です。"
       },
       "type": "restaurant"
     },
     {
       "name": {
         "en": "Koh Libong Dugong Watching",
-        "nl": "Koh Libong Doejong Spotten"
+        "nl": "Koh Libong Doejong Spotten",
+        "ja": "リボン島ジュゴンウォッチング"
       },
       "description": {
         "en": "One of the last places in Thailand to spot wild dugongs grazing on seagrass beds. The island's east coast is a protected marine area where these gentle sea mammals can be observed from boats in the early morning.",
-        "nl": "Een van de laatste plaatsen in Thailand om wilde doejongs te zien grazen op zeegrasgebieden. De oostkust van het eiland is een beschermd marien gebied waar deze vriendelijke zeezoogdieren 's ochtends vroeg vanuit boten kunnen worden geobserveerd."
+        "nl": "Een van de laatste plaatsen in Thailand om wilde doejongs te zien grazen op zeegrasgebieden. De oostkust van het eiland is een beschermd marien gebied waar deze vriendelijke zeezoogdieren 's ochtends vroeg vanuit boten kunnen worden geobserveerd.",
+        "ja": "タイで野生のジュゴンが海草を食む姿を観察できる数少ない場所の一つです。早朝のボートツアーで遭遇の確率が高く、貴重な自然体験ができます。"
       },
       "type": "nature"
     },
     {
       "name": {
         "en": "Phraya Ratsadanupradit Monument Area",
-        "nl": "Phraya Ratsadanupradit Monument Gebied"
+        "nl": "Phraya Ratsadanupradit Monument Gebied",
+        "ja": "プラヤー・ラッサダーヌプラディット記念碑エリア"
       },
       "description": {
         "en": "The tree-lined plaza around the monument to Trang's beloved governor features old colonial-era buildings, morning exercise groups, and a lively food stall area. A perfect spot to observe daily Trang life with a coffee in hand.",
-        "nl": "Het met bomen omzoomde plein rond het monument van Trang's geliefde gouverneur heeft oude koloniale gebouwen, ochtendgymnastiekgroepen en een levendig eetkraampjesgebied. Een perfecte plek om het dagelijks leven van Trang te observeren met een koffie in de hand."
+        "nl": "Het met bomen omzoomde plein rond het monument van Trang's geliefde gouverneur heeft oude koloniale gebouwen, ochtendgymnastiekgroepen en een levendig eetkraampjesgebied. Een perfecte plek om het dagelijks leven van Trang te observeren met een koffie in de hand.",
+        "ja": "トランの愛された知事の記念碑周辺の並木道の広場で、古いショップハウスやカフェが点在しています。街の歴史と雰囲気を感じられる散歩スポットです。"
       },
       "type": "cultural"
     },
     {
       "name": {
         "en": "Than Le Waterfall",
-        "nl": "Than Le Waterval"
+        "nl": "Than Le Waterval",
+        "ja": "ターンレー滝"
       },
       "description": {
         "en": "A series of limestone cascades in a forest park just 40 minutes from Trang town. The natural pools are popular swimming spots for locals on weekends, with almost no foreign visitors and a peaceful jungle atmosphere.",
-        "nl": "Een reeks kalksteencascades in een bospark op slechts 40 minuten van de stad Trang. De natuurlijke zwembaden zijn populaire zwemplekken voor locals in het weekend, met bijna geen buitenlandse bezoekers en een vredige jungle-sfeer."
+        "nl": "Een reeks kalksteencascades in een bospark op slechts 40 minuten van de stad Trang. De natuurlijke zwembaden zijn populaire zwemplekken voor locals in het weekend, met bijna geen buitenlandse bezoekers en een vredige jungle-sfeer.",
+        "ja": "トランの街から車で約40分の森林公園にある石灰岩の段々滝です。天然のプールで泳ぐことができ、地元のピクニックスポットとして人気です。"
       },
       "type": "nature"
     }
@@ -265,70 +282,84 @@
     {
       "title": {
         "en": "Don't Skip Breakfast",
-        "nl": "Sla het Ontbijt Niet Over"
+        "nl": "Sla het Ontbijt Niet Over",
+        "ja": "朝食を見逃すな"
       },
       "content": {
         "en": "Trang's breakfast culture is legendary. Wake up early and head to Phraram VI Road for moo yang (roasted pork), dim sum, and strong local coffee. This is a once-in-Thailand experience that rivals any meal in Bangkok. Shops close by 10 AM.",
-        "nl": "De ontbijtcultuur van Trang is legendarisch. Sta vroeg op en ga naar Phraram VI Road voor moo yang (geroosterd varkensvlees), dim sum en sterke lokale koffie. Dit is een unieke ervaring in Thailand die elke maaltijd in Bangkok evenaart. Winkels sluiten om 10 uur."
+        "nl": "De ontbijtcultuur van Trang is legendarisch. Sta vroeg op en ga naar Phraram VI Road voor moo yang (geroosterd varkensvlees), dim sum en sterke lokale koffie. Dit is een unieke ervaring in Thailand die elke maaltijd in Bangkok evenaart. Winkels sluiten om 10 uur.",
+        "ja": "トランの朝食文化は伝説的です。早起きしてプララーム6世通りへ行き、名物のローストポークとブラックコーヒーを味わいましょう。6時〜8時頃がベストです。"
       }
     },
     {
       "title": {
         "en": "Island Hopping Strategy",
-        "nl": "Eilandhoppen Strategie"
+        "nl": "Eilandhoppen Strategie",
+        "ja": "島巡りの戦略"
       },
       "content": {
         "en": "Book island tours from Pak Meng pier (30 min from Trang town). A four-island tour covering Koh Muk, Koh Kradan, Koh Ngai, and Tham Morakot costs 800-1,500 THB. For a deeper experience, stay overnight on Koh Muk or Koh Kradan.",
-        "nl": "Boek eilandtours vanaf Pak Meng pier (30 min van Trang stad). Een vier-eilandentour met Koh Muk, Koh Kradan, Koh Ngai en Tham Morakot kost 800-1.500 THB. Voor een diepere ervaring, overnacht op Koh Muk of Koh Kradan."
+        "nl": "Boek eilandtours vanaf Pak Meng pier (30 min van Trang stad). Een vier-eilandentour met Koh Muk, Koh Kradan, Koh Ngai en Tham Morakot kost 800-1.500 THB. Voor een diepere ervaring, overnacht op Koh Muk of Koh Kradan.",
+        "ja": "パクメン桟橋（トランの街から30分）から島巡りツアーを予約しましょう。4島ツアーは1人約800〜1,200バーツで、エメラルド洞窟やクラダン島を巡ります。"
       }
     },
     {
       "title": {
         "en": "Emerald Cave Timing",
-        "nl": "Smaragd Grot Timing"
+        "nl": "Smaragd Grot Timing",
+        "ja": "エメラルド洞窟のタイミング"
       },
       "content": {
         "en": "Visit Tham Morakot (Emerald Cave) during low tide for the easiest swim through the 80-meter cave. Bring a waterproof bag for your camera. The cave can be crowded midday — arrive early or late afternoon for a more magical experience.",
-        "nl": "Bezoek Tham Morakot (Smaragd Grot) tijdens eb voor de makkelijkste zwemtocht door de 80 meter lange grot. Neem een waterdichte tas mee voor je camera. De grot kan druk zijn rond het middaguur — kom vroeg of laat in de middag voor een magischere ervaring."
+        "nl": "Bezoek Tham Morakot (Smaragd Grot) tijdens eb voor de makkelijkste zwemtocht door de 80 meter lange grot. Neem een waterdichte tas mee voor je camera. De grot kan druk zijn rond het middaguur — kom vroeg of laat in de middag voor een magischere ervaring.",
+        "ja": "タム・モラコット（エメラルド洞窟）は干潮時に訪れるのがベストで、暗い洞窟を泳いで通り抜けやすくなります。ツアーガイドが潮の状況を確認してくれます。"
       }
     },
     {
       "title": {
         "en": "Getting Around Trang",
-        "nl": "Vervoer in Trang"
+        "nl": "Vervoer in Trang",
+        "ja": "トランの移動方法"
       },
       "content": {
         "en": "The city center is walkable, but you'll need a motorbike (200 THB/day) or tuk-tuk for beaches and piers. Minivans run from Trang to Pak Meng pier hourly. There's no Grab service — negotiate tuk-tuk prices before boarding.",
-        "nl": "Het stadscentrum is bewandelbaar, maar je hebt een motor (200 THB/dag) of tuk-tuk nodig voor stranden en pieren. Minibusjes rijden elk uur van Trang naar Pak Meng pier. Er is geen Grab service — onderhandel tuk-tuk prijzen voordat je instapt."
+        "nl": "Het stadscentrum is bewandelbaar, maar je hebt een motor (200 THB/dag) of tuk-tuk nodig voor stranden en pieren. Minibusjes rijden elk uur van Trang naar Pak Meng pier. Er is geen Grab service — onderhandel tuk-tuk prijzen voordat je instapt.",
+        "ja": "市内中心部は徒歩で回れますが、ビーチや桟橋へはバイク（1日200バーツ）かトゥクトゥクが必要です。レンタカーもおすすめです。"
       }
     },
     {
       "title": {
         "en": "Low Season Advantage",
-        "nl": "Laagseizoen Voordeel"
+        "nl": "Laagseizoen Voordeel",
+        "ja": "ローシーズンの利点"
       },
       "content": {
         "en": "Trang's islands are quieter and cheaper from May to October, though seas can be rough. The city itself is great year-round since the food scene never closes. Some island resorts close entirely in low season, so book ahead.",
-        "nl": "Trang's eilanden zijn rustiger en goedkoper van mei tot oktober, hoewel de zee ruw kan zijn. De stad zelf is het hele jaar door geweldig omdat de eetscene nooit sluit. Sommige eilandresorts sluiten helemaal in het laagseizoen, dus boek vooruit."
+        "nl": "Trang's eilanden zijn rustiger en goedkoper van mei tot oktober, hoewel de zee ruw kan zijn. De stad zelf is het hele jaar door geweldig omdat de eetscene nooit sluit. Sommige eilandresorts sluiten helemaal in het laagseizoen, dus boek vooruit.",
+        "ja": "5月〜10月のトランの島々は観光客が少なく料金も安くなりますが、海が荒れることがあります。ホテルの大幅割引が魅力です。"
       }
     }
   ],
   "best_time_to_visit": {
     "en": "November to April offers the best weather for island hopping with calm seas and sunny skies. December to February is peak season. The city's food scene is excellent year-round. May to October brings rain and rougher seas, but lower prices and fewer tourists on the islands.",
-    "nl": "November tot april biedt het beste weer voor eilandhoppen met kalme zeeën en zonnige luchten. December tot februari is het hoogseizoen. De eetscene van de stad is het hele jaar door uitstekend. Mei tot oktober brengt regen en ruwere zeeën, maar lagere prijzen en minder toeristen op de eilanden."
+    "nl": "November tot april biedt het beste weer voor eilandhoppen met kalme zeeën en zonnige luchten. December tot februari is het hoogseizoen. De eetscene van de stad is het hele jaar door uitstekend. Mei tot oktober brengt regen en ruwere zeeën, maar lagere prijzen en minder toeristen op de eilanden.",
+    "ja": "11月〜4月が島巡りに最適で、穏やかな海と晴天が楽しめます。エメラルド洞窟やクラダン島へのツアーもこの時期がベストです。"
   },
   "budget_info": {
     "budget_per_day": {
       "en": "$15-25",
-      "nl": "$15-25"
+      "nl": "$15-25",
+      "ja": "1日1,500〜2,500円"
     },
     "midrange_per_day": {
       "en": "$40-70",
-      "nl": "$40-70"
+      "nl": "$40-70",
+      "ja": "1日4,000〜7,000円"
     },
     "luxury_per_day": {
       "en": "$120+",
-      "nl": "$120+"
+      "nl": "$120+",
+      "ja": "1日12,000円以上"
     }
   },
   "overview": "Trang is a laid-back southern Thai gem that remains refreshingly authentic and largely untouched by mass tourism. This coastal province has earned a stellar reputation among food lovers for its exceptional roasted pork (Moo Yang) and dim sum breakfast culture that rivals Bangkok's offerings. Beyond the culinary scene, Trang serves as the gateway to some of Thailand's most pristine islands and natural wonders, including the famous Emerald Cave with its hidden inland beach, making it an ideal base for both relaxation and adventure.",
