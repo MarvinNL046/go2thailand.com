@@ -4,14 +4,16 @@
   "name": {
     "en": "Mee Hokkien",
     "nl": "Mee Hokkien",
-    "thai": "หมี่ฮกเกี้ยน"
+    "thai": "หมี่ฮกเกี้ยน",
+    "ja": "ミーホッケン"
   },
   "category": "main-dish",
   "region": "southern",
   "spice_level": "mild",
   "description": {
     "en": "Stir-fried Hokkien noodles with seafood Phuket style",
-    "nl": "Gebakken Hokkien-noedels met zeevruchten Phuket stijl"
+    "nl": "Gebakken Hokkien-noedels met zeevruchten Phuket stijl",
+    "ja": "プーケット風シーフード入り福建焼きそば"
   },
   "ingredients": [
     "yellow noodles",
@@ -33,11 +35,13 @@
   "seo": {
     "metaTitle": {
       "en": "Mee Hokkien Recipe | Authentic Thai main dish",
-      "nl": "Mee Hokkien Recept | Authentieke Thaise main dish"
+      "nl": "Mee Hokkien Recept | Authentieke Thaise main dish",
+      "ja": "ミーホッケンのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Mee Hokkien (หมี่ฮกเกี้ยน) - Stir-fried Hokkien noodles with seafood Phuket style...",
-      "nl": "Leer over Mee Hokkien (หมี่ฮกเกี้ยน) - Gebakken Hokkien-noedels met zeevruchten Phuket stijl..."
+      "nl": "Leer over Mee Hokkien (หมี่ฮกเกี้ยน) - Gebakken Hokkien-noedels met zeevruchten Phuket stijl...",
+      "ja": "ミーホッケン（หมี่ฮกเกี้ยน）について — プーケット風シーフード入りの福建焼きそば。"
     }
   },
   "tags": [
