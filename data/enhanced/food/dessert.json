@@ -5,14 +5,16 @@
     "name": {
       "en": "Mango Sticky Rice",
       "nl": "Mango Sticky Rice",
-      "thai": "ข้าวเหนียวมะม่วง"
+      "thai": "ข้าวเหนียวมะม่วง",
+      "ja": "マンゴースティッキーライス"
     },
     "category": "dessert",
     "region": "central",
     "spice_level": "none",
     "description": {
       "en": "Sweet sticky rice served with fresh mango slices and coconut cream",
-      "nl": "Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom"
+      "nl": "Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom",
+      "ja": "もち米に新鮮なマンゴーとココナッツクリームを添えた甘いデザート"
     },
     "ingredients": [
       "sticky rice",
@@ -32,11 +34,13 @@
     "seo": {
       "metaTitle": {
         "en": "Mango Sticky Rice Recipe | Authentic Thai dessert",
-        "nl": "Mango Sticky Rice Recept | Authentieke Thaise dessert"
+        "nl": "Mango Sticky Rice Recept | Authentieke Thaise dessert",
+        "ja": "マンゴースティッキーライスのレシピ | 本格タイデザート"
       },
       "metaDescription": {
         "en": "Learn about Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Sweet sticky rice served with fresh mango slices and coconut cream...",
-        "nl": "Leer over Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom..."
+        "nl": "Leer over Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom...",
+        "ja": "マンゴースティッキーライス（ข้าวเหนียวมะม่วง）について — もち米に新鮮なマンゴーとココナッツクリームを添えたタイの定番デザート。"
       }
     },
     "tags": [
@@ -70,14 +74,16 @@
     "name": {
       "en": "Oh Aew",
       "nl": "Oh Aew",
-      "thai": "โอ้เอ๋ว"
+      "thai": "โอ้เอ๋ว",
+      "ja": "オーエウ"
     },
     "category": "dessert",
     "region": "southern",
     "spice_level": "none",
     "description": {
       "en": "Shaved ice dessert with jelly made from banana flour",
-      "nl": "IJsdessert met gelei van bananenmeel"
+      "nl": "IJsdessert met gelei van bananenmeel",
+      "ja": "バナナ粉のゼリーを使ったかき氷デザート"
     },
     "ingredients": [
       "banana flour jelly",
@@ -96,11 +102,13 @@
     "seo": {
       "metaTitle": {
         "en": "Oh Aew Recipe | Authentic Thai dessert",
-        "nl": "Oh Aew Recept | Authentieke Thaise dessert"
+        "nl": "Oh Aew Recept | Authentieke Thaise dessert",
+        "ja": "オーエウのレシピ | 本格タイデザート"
       },
       "metaDescription": {
         "en": "Learn about Oh Aew (โอ้เอ๋ว) - Shaved ice dessert with jelly made from banana flour...",
-        "nl": "Leer over Oh Aew (โอ้เอ๋ว) - IJsdessert met gelei van bananenmeel..."
+        "nl": "Leer over Oh Aew (โอ้เอ๋ว) - IJsdessert met gelei van bananenmeel...",
+        "ja": "オーエウ（โอ้เอ๋ว）について — バナナ粉のゼリーを使ったプーケット発祥のかき氷デザート。"
       }
     },
     "tags": [
@@ -134,14 +142,16 @@
     "name": {
       "en": "Roti Sai Mai",
       "nl": "Roti Sai Mai",
-      "thai": "โรตีสายไหม"
+      "thai": "โรตีสายไหม",
+      "ja": "ロティ・サイマイ"
     },
     "category": "dessert",
     "region": "central",
     "spice_level": "none",
     "description": {
       "en": "Thai cotton candy wrapped in thin roti from Ayutthaya",
-      "nl": "Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya"
+      "nl": "Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya",
+      "ja": "アユタヤ名物の薄いロティで綿菓子を包んだタイスイーツ"
     },
     "ingredients": [
       "flour",
@@ -161,11 +171,13 @@
     "seo": {
       "metaTitle": {
         "en": "Roti Sai Mai Recipe | Authentic Thai dessert",
-        "nl": "Roti Sai Mai Recept | Authentieke Thaise dessert"
+        "nl": "Roti Sai Mai Recept | Authentieke Thaise dessert",
+        "ja": "ロティ・サイマイのレシピ | 本格タイデザート"
       },
       "metaDescription": {
         "en": "Learn about Roti Sai Mai (โรตีสายไหม) - Thai cotton candy wrapped in thin roti from Ayutthaya...",
-        "nl": "Leer over Roti Sai Mai (โรตีสายไหม) - Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya..."
+        "nl": "Leer over Roti Sai Mai (โรตีสายไหม) - Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya...",
+        "ja": "ロティ・サイマイ（โรตีสายไหม）について — アユタヤ名物の薄いロティで綿菓子を包んだタイの伝統スイーツ。"
       }
     },
     "tags": [
@@ -199,14 +211,16 @@
     "name": {
       "en": "Bua Loy",
       "nl": "Bua Loy",
-      "thai": "บัวลอย"
+      "thai": "บัวลอย",
+      "ja": "ブアローイ"
     },
     "category": "dessert",
     "region": "southern",
     "spice_level": "none",
     "description": {
       "en": "Rice flour balls in sweet coconut milk",
-      "nl": "Rijstmeelballetjes in zoete kokosmelk"
+      "nl": "Rijstmeelballetjes in zoete kokosmelk",
+      "ja": "もち米粉の団子を甘いココナッツミルクに浮かべたデザート"
     },
     "ingredients": [
       "rice flour",
@@ -226,11 +240,13 @@
     "seo": {
       "metaTitle": {
         "en": "Bua Loy Recipe | Authentic Thai dessert",
-        "nl": "Bua Loy Recept | Authentieke Thaise dessert"
+        "nl": "Bua Loy Recept | Authentieke Thaise dessert",
+        "ja": "ブアローイのレシピ | 本格タイデザート"
       },
       "metaDescription": {
         "en": "Learn about Bua Loy (บัวลอย) - Rice flour balls in sweet coconut milk...",
-        "nl": "Leer over Bua Loy (บัวลอย) - Rijstmeelballetjes in zoete kokosmelk..."
+        "nl": "Leer over Bua Loy (บัวลอย) - Rijstmeelballetjes in zoete kokosmelk...",
+        "ja": "ブアローイ（บัวลอย）について — もち米粉の団子を甘いココナッツミルクに浮かべたタイの伝統デザート。"
       }
     },
     "tags": [
@@ -264,14 +280,16 @@
     "name": {
       "en": "Lod Chong",
       "nl": "Lod Chong",
-      "thai": "ลอดช่อง"
+      "thai": "ลอดช่อง",
+      "ja": "ロッチョン"
     },
     "category": "dessert",
     "region": "southern",
     "spice_level": "none",
     "description": {
       "en": "Pandan jelly noodles in coconut milk",
-      "nl": "Pandan gelei noedels in kokosmelk"
+      "nl": "Pandan gelei noedels in kokosmelk",
+      "ja": "パンダンリーフ風味のゼリー麺をココナッツミルクに入れたデザート"
     },
     "ingredients": [
       "rice flour",
@@ -291,11 +309,13 @@
     "seo": {
       "metaTitle": {
         "en": "Lod Chong Recipe | Authentic Thai dessert",
-        "nl": "Lod Chong Recept | Authentieke Thaise dessert"
+        "nl": "Lod Chong Recept | Authentieke Thaise dessert",
+        "ja": "ロッチョンのレシピ | 本格タイデザート"
       },
       "metaDescription": {
         "en": "Learn about Lod Chong (ลอดช่อง) - Pandan jelly noodles in coconut milk...",
-        "nl": "Leer over Lod Chong (ลอดช่อง) - Pandan gelei noedels in kokosmelk..."
+        "nl": "Leer over Lod Chong (ลอดช่อง) - Pandan gelei noedels in kokosmelk...",
+        "ja": "ロッチョン（ลอดช่อง）について — パンダンリーフ風味のゼリー麺をココナッツミルクに入れたタイの冷たいデザート。"
       }
     },
     "tags": [
