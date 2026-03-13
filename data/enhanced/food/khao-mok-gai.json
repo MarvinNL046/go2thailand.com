@@ -4,14 +4,16 @@
   "name": {
     "en": "Khao Mok Gai",
     "nl": "Khao Mok Gai",
-    "thai": "ข้าวหมกไก่"
+    "thai": "ข้าวหมกไก่",
+    "ja": "カオモックガイ"
   },
   "category": "main-dish",
   "region": "southern",
   "spice_level": "mild",
   "description": {
     "en": "Thai-style biryani with chicken and fragrant yellow rice",
-    "nl": "Thaise biryani met kip en geurige gele rijst"
+    "nl": "Thaise biryani met kip en geurige gele rijst",
+    "ja": "ターメリックライスと鶏肉のタイ風ビリヤニ、南タイのイスラム料理"
   },
   "ingredients": [
     "chicken",
@@ -31,11 +33,13 @@
   "seo": {
     "metaTitle": {
       "en": "Khao Mok Gai Recipe | Authentic Thai main dish",
-      "nl": "Khao Mok Gai Recept | Authentieke Thaise main dish"
+      "nl": "Khao Mok Gai Recept | Authentieke Thaise main dish",
+      "ja": "カオモックガイのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Khao Mok Gai (ข้าวหมกไก่) - Thai-style biryani with chicken and fragrant yellow rice...",
-      "nl": "Leer over Khao Mok Gai (ข้าวหมกไก่) - Thaise biryani met kip en geurige gele rijst..."
+      "nl": "Leer over Khao Mok Gai (ข้าวหมกไก่) - Thaise biryani met kip en geurige gele rijst...",
+      "ja": "カオモックガイ（ข้าวหมกไก่）について — ターメリックライスと鶏肉のタイ風ビリヤニ。南タイのイスラム料理。"
     }
   },
   "tags": [
