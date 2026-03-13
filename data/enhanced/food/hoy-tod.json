@@ -4,14 +4,16 @@
   "name": {
     "en": "Hoy Tod",
     "nl": "Hoy Tod",
-    "thai": "หอยทอด"
+    "thai": "หอยทอด",
+    "ja": "ホイトート"
   },
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Crispy mussel or oyster pancake with bean sprouts",
-    "nl": "Knapperige mossel- of oesterpannenkoek met taugé"
+    "nl": "Knapperige mossel- of oesterpannenkoek met taugé",
+    "ja": "カリカリの衣で揚げたムール貝のオムレツ、もやしと卵入り"
   },
   "ingredients": [
     "mussels or oysters",
@@ -31,11 +33,13 @@
   "seo": {
     "metaTitle": {
       "en": "Hoy Tod Recipe | Authentic Thai main dish",
-      "nl": "Hoy Tod Recept | Authentieke Thaise main dish"
+      "nl": "Hoy Tod Recept | Authentieke Thaise main dish",
+      "ja": "ホイトートのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Hoy Tod (หอยทอด) - Crispy mussel or oyster pancake with bean sprouts...",
-      "nl": "Leer over Hoy Tod (หอยทอด) - Knapperige mossel- of oesterpannenkoek met taugé..."
+      "nl": "Leer over Hoy Tod (หอยทอด) - Knapperige mossel- of oesterpannenkoek met taugé...",
+      "ja": "ホイトート（หอยทอด）について — カリカリの衣で揚げたムール貝のオムレツ。タイの人気屋台料理。"
     }
   },
   "tags": [
