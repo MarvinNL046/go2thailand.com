@@ -1,0 +1,136 @@
+{
+  "seo": {
+    "title": "Bangkok Province, Thailand — Complete Guide 2026",
+    "metaDescription": "Everything about Bangkok Province: Grand Palace, Wat Pho, Chatuchak Market, and 50 districts to explore. Area: 1,569 km², population: 10.5 million. Plan your visit.",
+    "slug": "bangkok"
+  },
+  "provinceSlug": "bangkok",
+  "provinceName": "Bangkok",
+  "provinceNameThai": "กรุงเทพมหานคร",
+  "region": "central",
+  "capital": "Bangkok",
+  "area": 1568.7,
+  "population": 10539000,
+  "populationYear": 2020,
+  "districts": 50,
+  "coordinates": { "lat": 13.7563, "lng": 100.5018 },
+  "overview": "Bangkok is Thailand's capital and by far its largest city, a sprawling metropolis of over 10 million people straddling the Chao Phraya River in the central plains. Officially a special administrative area (not a standard province), Bangkok holds the status of both city and province with 50 districts (khet). It serves as Thailand's political, economic, and cultural center — home to the Grand Palace, over 400 Buddhist temples, world-famous street food, and a modern skyline punctuated by mega-malls and rooftop bars.",
+  "geography": "Bangkok sits on the Chao Phraya River delta at an average elevation of just 1.5 meters above sea level, making it one of the world's most flood-prone capitals. The flat terrain is crisscrossed by an extensive network of canals (khlongs) that once earned it the nickname 'Venice of the East.' The city covers 1,568.7 km² and is bordered by six provinces forming the greater Bangkok Metropolitan Region.",
+  "highlights": [
+    "The Grand Palace and Wat Phra Kaew — Thailand's most sacred Buddhist site housing the Emerald Buddha",
+    "Over 400 Buddhist temples including Wat Pho (Reclining Buddha) and Wat Arun (Temple of Dawn)",
+    "Chatuchak Weekend Market — one of the world's largest outdoor markets with 15,000+ stalls",
+    "World-renowned street food scene — named best street food city by CNN multiple years running",
+    "Chao Phraya River and canal networks with express boat commuting and floating markets",
+    "Modern transit system (BTS Skytrain + MRT) connecting temples, malls, and nightlife districts",
+    "Chinatown (Yaowarat) — the oldest and most vibrant Chinese quarter in Southeast Asia",
+    "Khao San Road — the legendary backpacker hub for budget travelers since the 1980s"
+  ],
+  "bestTimeToVisit": {
+    "peak": "Nov–Feb: Cool season with temperatures of 25–32°C, low humidity, and almost no rain. The most comfortable time for temple visits and outdoor exploration. Highest tourist numbers and hotel prices.",
+    "shoulder": "Mar–May: Hot season with temperatures reaching 35–40°C. April hosts Songkran (Thai New Year water festival) which is a highlight despite the extreme heat. Air-conditioned malls become essential refuges.",
+    "lowSeason": "Jun–Oct: Monsoon season with heavy afternoon downpours (usually 1–2 hours). Mornings are often dry. Hotel prices drop 20–40%. The city is less crowded but humidity is high.",
+    "recommendation": "Visit November to February for the best weather. If you don't mind heat, April's Songkran festival is an unforgettable experience. The monsoon season is manageable — rain comes in short bursts and the BTS/MRT keeps you dry between stops."
+  },
+  "topAttractions": [
+    {
+      "name": "Grand Palace & Wat Phra Kaew",
+      "description": "Thailand's most visited landmark and the ceremonial residence of the Thai monarch since 1782. The complex houses Wat Phra Kaew (Temple of the Emerald Buddha), Thailand's most sacred Buddhist site. Ornate spires, golden chedis, and mythical guardian statues fill the 21-hectare grounds.",
+      "type": "landmark",
+      "entranceFee": "500 THB (~$14 USD), includes Queen Sirikit Textile Museum. Children under 120 cm free",
+      "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+Bangkok",
+      "sources": [{"sourceName": "Emerald Buddha Official", "sourceUrl": "https://www.emerald-buddha.com/entrance-fee", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Wat Pho (Temple of the Reclining Buddha)",
+      "description": "Home to the 46-meter-long gold-plated Reclining Buddha — one of Bangkok's most iconic images. The temple complex is also the birthplace of traditional Thai massage, with a massage school still operating on the grounds. Located 700 meters south of the Grand Palace.",
+      "type": "temple",
+      "entranceFee": "100 THB (~$3 USD), cash only",
+      "googleMapsUrl": "https://maps.google.com/?q=Wat+Pho+Bangkok",
+      "sources": [{"sourceName": "Your Thai Guide", "sourceUrl": "https://yourthaiguide.com/bangkok-big-list-of-entry-fees/", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Wat Arun (Temple of Dawn)",
+      "description": "An iconic riverside temple on the west bank of the Chao Phraya with a 70-meter central prang (tower) decorated in colorful porcelain and seashells. Climb the steep steps for views of the river and Grand Palace opposite. Dramatically lit at night.",
+      "type": "temple",
+      "entranceFee": "100 THB (~$3 USD), cash only. Ferry from Wat Pho side: 4 THB",
+      "googleMapsUrl": "https://maps.google.com/?q=Wat+Arun+Bangkok",
+      "sources": [{"sourceName": "Agoda Travel Guide", "sourceUrl": "https://www.agoda.com/travel-guides/thailand/bangkok/maximize-your-visit-wat-arun-entrance-fee-for-foreigners/", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Chatuchak Weekend Market",
+      "description": "One of the world's largest outdoor markets with over 15,000 stalls spread across 35 acres. Open Saturday and Sunday, selling everything from vintage clothing and handmade crafts to pets, antiques, and Thai street food. Divided into 27 numbered sections.",
+      "type": "market",
+      "entranceFee": "Free",
+      "googleMapsUrl": "https://maps.google.com/?q=Chatuchak+Weekend+Market+Bangkok",
+      "sources": [{"sourceName": "Wikipedia", "sourceUrl": "https://en.wikipedia.org/wiki/Chatuchak_weekend_market", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Chinatown (Yaowarat Road)",
+      "description": "Bangkok's oldest and most vibrant neighborhood, centered on Yaowarat Road. By day it's a bustling commercial district; by night it transforms into one of Asia's greatest street food corridors. Gold shops, Chinese temples, and narrow alleys (trok) full of hidden gems.",
+      "type": "market",
+      "entranceFee": "Free",
+      "googleMapsUrl": "https://maps.google.com/?q=Yaowarat+Road+Bangkok+Chinatown",
+      "sources": [{"sourceName": "Wikipedia", "sourceUrl": "https://en.wikipedia.org/wiki/Bangkok", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Jim Thompson House Museum",
+      "description": "The beautifully preserved teak home of American silk entrepreneur Jim Thompson, who mysteriously disappeared in Malaysia in 1967. Six traditional Thai houses reassembled on a lush canal-side garden, filled with his Southeast Asian art collection.",
+      "type": "museum",
+      "entranceFee": "200 THB (~$6 USD)",
+      "googleMapsUrl": "https://maps.google.com/?q=Jim+Thompson+House+Bangkok",
+      "sources": [{"sourceName": "Your Thai Guide", "sourceUrl": "https://yourthaiguide.com/bangkok-big-list-of-entry-fees/", "lastVerified": "2026-03-13"}]
+    }
+  ],
+  "localFood": [
+    "Pad Thai — stir-fried rice noodles with shrimp, tofu, peanuts, and lime (Thip Samai is the legendary spot)",
+    "Tom Yum Goong — hot and sour prawn soup with lemongrass, galangal, and kaffir lime",
+    "Som Tam — spicy green papaya salad pounded fresh in a mortar and pestle",
+    "Khao Man Gai — Hainanese chicken rice, Bangkok's favorite lunch (try Kuang Heng on Pratunam)",
+    "Pad Kra Pao — stir-fried holy basil with minced pork or chicken, served over rice with a fried egg",
+    "Boat Noodles — intensely flavored pork or beef broth noodles, served in tiny bowls at canal-side shops",
+    "Mango Sticky Rice — fresh mango with coconut-cream-drenched sticky rice (seasonal April–June)",
+    "Yaowarat street food — grilled seafood, oyster omelets, and ba mee (egg noodles) along Chinatown's night strip"
+  ],
+  "culture": "Bangkok is the seat of Thailand's constitutional monarchy, home to the Grand Palace and the nation's most important Buddhist ceremonies. The city blends traditional Thai culture — from sacred temple rituals and classical dance to spirit houses on every corner — with a hyper-modern commercial landscape. Loy Krathong (November) sees thousands of floating lanterns on the Chao Phraya, while Songkran (April) transforms the entire city into a massive water fight celebrating Thai New Year.",
+  "gettingThere": "Bangkok has two international airports: Suvarnabhumi (BKK) for most international and full-service flights, and Don Mueang (DMK) for budget carriers like AirAsia and Nok Air. Both are connected to the city center by rail — the Airport Rail Link from Suvarnabhumi (45 THB, 30 min to Phaya Thai) and the SRT Red Line from Don Mueang. Long-distance trains arrive at Hua Lamphong or Bang Sue Grand Station. Buses from all Thai provinces arrive at Mo Chit (north), Ekkamai (east), or the Southern Terminal.",
+  "gettingAround": "The BTS Skytrain and MRT subway cover the main commercial and tourist areas efficiently (16–59 THB per ride, day pass 140 THB). Chao Phraya Express Boats run along the river past the Grand Palace, Wat Arun, and Chinatown (15–32 THB). Grab and Bolt ride-hailing apps are the best value for door-to-door trips. Tuk-tuks are fun but negotiate the price first (60–150 THB for short trips). Avoid taxis that refuse to use the meter — flag another one.",
+  "travelTips": [
+    "Always use metered taxis — refuse any driver who quotes a flat rate (legal requirement to use the meter)",
+    "The BTS + MRT combo gets you to 90% of tourist attractions without sitting in Bangkok's notorious traffic",
+    "Grand Palace enforces a strict dress code — long pants, covered shoulders, no sandals. Rental wraps available",
+    "Avoid tuk-tuk drivers who offer 'free tours' — they earn commissions by taking you to gem shops and tailor scams",
+    "The Chao Phraya Express Boat is the fastest way between the Grand Palace area and Saphan Taksin (BTS connection)",
+    "Bangkok's street food is safe — look for vendors with high turnover and food cooked to order",
+    "Download the BTS/MRT map app before arriving — Google Maps transit directions work well in Bangkok",
+    "Visit the Grand Palace first thing at 8:30 AM opening — by 10 AM it's packed with tour groups"
+  ],
+  "neighboringProvinces": [
+    { "name": "Nonthaburi", "slug": "nonthaburi" },
+    { "name": "Pathum Thani", "slug": "pathum-thani" },
+    { "name": "Chachoengsao", "slug": "chachoengsao" },
+    { "name": "Samut Prakan", "slug": "samut-prakan" },
+    { "name": "Samut Sakhon", "slug": "samut-sakhon" },
+    { "name": "Nakhon Pathom", "slug": "nakhon-pathom" }
+  ],
+  "cities": [
+    {
+      "name": "Bangkok",
+      "slug": "bangkok",
+      "hasCluster": true,
+      "hasCityPage": true
+    }
+  ],
+  "generatedAt": "2026-03-13",
+  "lastUpdated": "2026-03-13",
+  "sources": [
+    {"sourceName": "Wikipedia", "sourceUrl": "https://en.wikipedia.org/wiki/Bangkok", "lastVerified": "2026-03-13"},
+    {"sourceName": "MacroTrends", "sourceUrl": "https://www.macrotrends.net/global-metrics/cities/22617/bangkok/population", "lastVerified": "2026-03-13"},
+    {"sourceName": "Wikipedia — Bangkok Metropolitan Region", "sourceUrl": "https://en.wikipedia.org/wiki/Bangkok_Metropolitan_Region", "lastVerified": "2026-03-13"},
+    {"sourceName": "Grand Palace Official", "sourceUrl": "https://www.emerald-buddha.com/entrance-fee", "lastVerified": "2026-03-13"},
+    {"sourceName": "Your Thai Guide", "sourceUrl": "https://yourthaiguide.com/bangkok-big-list-of-entry-fees/", "lastVerified": "2026-03-13"},
+    {"sourceName": "Agoda Travel Guide", "sourceUrl": "https://www.agoda.com/travel-guides/thailand/bangkok/maximize-your-visit-wat-arun-entrance-fee-for-foreigners/", "lastVerified": "2026-03-13"},
+    {"sourceName": "Chasing Gambozinos", "sourceUrl": "https://chasinggambozinos.com/bangkok-must-visit-temples", "lastVerified": "2026-03-13"},
+    {"sourceName": "The Blond Travels", "sourceUrl": "https://www.theblondtravels.com/grand-palace-wat-pho-wat-arun-bangkok", "lastVerified": "2026-03-13"}
+  ]
+}
