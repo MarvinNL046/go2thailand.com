@@ -4,14 +4,16 @@
   "name": {
     "en": "Khao Soi",
     "nl": "Khao Soi",
-    "thai": "ข้าวซอย"
+    "thai": "ข้าวซอย",
+    "ja": "カオソーイ"
   },
   "category": "soup",
   "region": "northern",
   "spice_level": "medium",
   "description": {
     "en": "Creamy coconut curry noodle soup with crispy noodles on top",
-    "nl": "Romige kokoscurry-noedelsoep met krokante noedels bovenop"
+    "nl": "Romige kokoscurry-noedelsoep met krokante noedels bovenop",
+    "ja": "ココナッツカレースープに卵麺とカリカリ揚げ麺をのせた北タイの名物料理"
   },
   "ingredients": [
     "egg noodles",
@@ -31,11 +33,13 @@
   "seo": {
     "metaTitle": {
       "en": "Khao Soi Recipe | Authentic Thai soup",
-      "nl": "Khao Soi Recept | Authentieke Thaise soup"
+      "nl": "Khao Soi Recept | Authentieke Thaise soup",
+      "ja": "カオソーイのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Khao Soi (ข้าวซอย) - Creamy coconut curry noodle soup with crispy noodles on top...",
-      "nl": "Leer over Khao Soi (ข้าวซอย) - Romige kokoscurry-noedelsoep met krokante noedels bovenop..."
+      "nl": "Leer over Khao Soi (ข้าวซอย) - Romige kokoscurry-noedelsoep met krokante noedels bovenop...",
+      "ja": "カオソーイ（ข้าวซอย）について — ココナッツカレースープに卵麺とカリカリ揚げ麺をのせた北タイの名物ヌードル。"
     }
   },
   "tags": [
