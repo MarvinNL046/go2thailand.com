@@ -4,14 +4,16 @@
   "name": {
     "en": "Goong Pad Makham",
     "nl": "Goong Pad Makham",
-    "thai": "กุ้งผัดมะขาม"
+    "thai": "กุ้งผัดมะขาม",
+    "ja": "グンパッマカーム"
   },
   "category": "main-dish",
   "region": "southern",
   "spice_level": "mild",
   "description": {
     "en": "Prawns stir-fried in tangy tamarind sauce",
-    "nl": "Garnalen geroerbakt in pittige tamarindesaus"
+    "nl": "Garnalen geroerbakt in pittige tamarindesaus",
+    "ja": "タマリンドソースで炒めたエビ、甘酸っぱい味わいが特徴"
   },
   "ingredients": [
     "prawns",
@@ -32,11 +34,13 @@
   "seo": {
     "metaTitle": {
       "en": "Goong Pad Makham Recipe | Authentic Thai main dish",
-      "nl": "Goong Pad Makham Recept | Authentieke Thaise main dish"
+      "nl": "Goong Pad Makham Recept | Authentieke Thaise main dish",
+      "ja": "グンパッマカームのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Goong Pad Makham (กุ้งผัดมะขาม) - Prawns stir-fried in tangy tamarind sauce...",
-      "nl": "Leer over Goong Pad Makham (กุ้งผัดมะขาม) - Garnalen geroerbakt in pittige tamarindesaus..."
+      "nl": "Leer over Goong Pad Makham (กุ้งผัดมะขาม) - Garnalen geroerbakt in pittige tamarindesaus...",
+      "ja": "グンパッマカーム（กุ้งผัดมะขาม）について — タマリンドソースで炒めたエビの甘酸っぱい一品。"
     }
   },
   "tags": [
