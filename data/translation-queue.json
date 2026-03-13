@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-13",
   "stats": {
     "total": 1504,
-    "completed": 1010
+    "completed": 1011
   },
   "queue": [
     {
@@ -8096,14 +8096,15 @@
       "type": "top10",
       "file": "data/top10/pai-attractions.json",
       "locale": "ja",
-      "status": "in_progress",
-      "priority": 14
+      "status": "completed",
+      "priority": 14,
+      "completedAt": "2026-03-13"
     },
     {
       "type": "top10",
       "file": "data/top10/pai-hotels.json",
       "locale": "ja",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 14
     },
     {
