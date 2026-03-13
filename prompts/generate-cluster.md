@@ -18,9 +18,12 @@ Pick the next city from this priority list (skip cities that already have a fold
 
 **Tier 1 (highest traffic):** bangkok, chiang-mai, phuket
 **Tier 2 (high traffic):** krabi, koh-samui, pattaya, chiang-rai
-**Tier 3 (medium traffic):** pai, ayutthaya, hua-hin, kanchanaburi, koh-phangan, koh-tao
+**Tier 3 (medium traffic):** pai, ayutthaya, hua-hin, kanchanaburi
 **Tier 4 (growing):** sukhothai, trat, nong-khai, lampang, mae-hong-son, khon-kaen, hat-yai
-**Tier 5 (long-tail):** remaining cities
+**Tier 5 (long-tail):** lopburi, chumphon, surat-thani, nakhon-si-thammarat, trang, rayong, phitsanulok
+**Tier 6 (niche/Isaan):** udon-thani, ubon-ratchathani, nakhon-ratchasima, nakhon-phanom, mukdahan, chiang-khan, chanthaburi, bueng-kan
+
+Total: 33 cities. Every tier must be completed before moving to the next.
 
 Choose the highest-priority city that doesn't have a cluster yet.
 
