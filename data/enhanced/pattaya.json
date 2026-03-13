@@ -3,13 +3,15 @@
   "slug": "pattaya",
   "name": {
     "en": "Pattaya",
-    "nl": "Pattaya"
+    "nl": "Pattaya",
+    "ja": "パタヤ"
   },
   "region": "Central",
   "province": "Chonburi",
   "description": {
     "en": "Lively coastal city close to Bangkok, known for beaches, nightlife, and family attractions.",
-    "nl": "Levendige kuststad nabij Bangkok, bekend om stranden, uitgaan en attracties."
+    "nl": "Levendige kuststad nabij Bangkok, bekend om stranden, uitgaan en attracties.",
+    "ja": "バンコクから近い活気ある海岸都市パタヤは、ビーチ、ナイトライフ、ファミリー向けアトラクションで知られ、多彩な楽しみ方ができるリゾート地です。"
   },
   "population": 119000,
   "highlights": [
@@ -26,25 +28,30 @@
   "seo": {
     "metaTitle": {
       "en": "Discover Pattaya | What to do in Pattaya?",
-      "nl": "Ontdek Pattaya | Wat te doen in Pattaya?"
+      "nl": "Ontdek Pattaya | Wat te doen in Pattaya?",
+      "ja": "パタヤを満喫 | パタヤの観光・見どころガイド"
     },
     "metaDescription": {
       "en": "Your guide to Pattaya, Thailand – tips, highlights, food, hotels.",
-      "nl": "Jouw gids voor Pattaya, Thailand – tips, highlights, eten, hotels."
+      "nl": "Jouw gids voor Pattaya, Thailand – tips, highlights, eten, hotels.",
+      "ja": "タイ・パタヤの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。"
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Pattaya",
-      "nl": "Beste restaurants en streetfood in Pattaya"
+      "nl": "Beste restaurants en streetfood in Pattaya",
+      "ja": "パタヤのおすすめレストラン＆ストリートフード"
     },
     "hotels": {
       "en": "Top hotels in Pattaya | Tips & deals",
-      "nl": "Beste hotels in Pattaya | Tips & aanbiedingen"
+      "nl": "Beste hotels in Pattaya | Tips & aanbiedingen",
+      "ja": "パタヤのおすすめホテル｜お得な情報＆アドバイス"
     },
     "attractions": {
       "en": "Top attractions in Pattaya",
-      "nl": "Top bezienswaardigheden in Pattaya"
+      "nl": "Top bezienswaardigheden in Pattaya",
+      "ja": "パタヤの人気観光スポット"
     }
   },
   "tags": [
