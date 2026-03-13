@@ -4,14 +4,16 @@
   "name": {
     "en": "Larb",
     "nl": "Larb",
-    "thai": "ลาบ"
+    "thai": "ลาบ",
+    "ja": "ラープ"
   },
   "category": "salad",
   "region": "northeastern",
   "spice_level": "hot",
   "description": {
     "en": "Spicy meat salad with herbs lime juice and toasted rice powder",
-    "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder"
+    "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder",
+    "ja": "ひき肉をライム、唐辛子、ハーブで和えたイサーンの代表的なサラダ"
   },
   "ingredients": [
     "minced pork",
@@ -31,11 +33,13 @@
   "seo": {
     "metaTitle": {
       "en": "Larb Recipe | Authentic Thai salad",
-      "nl": "Larb Recept | Authentieke Thaise salad"
+      "nl": "Larb Recept | Authentieke Thaise salad",
+      "ja": "ラープのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Larb (ลาบ) - Spicy meat salad with herbs lime juice and toasted rice powder...",
-      "nl": "Leer over Larb (ลาบ) - Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder..."
+      "nl": "Leer over Larb (ลาบ) - Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder...",
+      "ja": "ラープ（ลาบ）について — ひき肉をライム、唐辛子、ハーブで和えたイサーン地方の代表的なサラダ。"
     }
   },
   "tags": [
