@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-13",
   "stats": {
     "total": 1504,
-    "completed": 1037
+    "completed": 1038
   },
   "queue": [
     {
@@ -8320,14 +8320,15 @@
       "type": "top10",
       "file": "data/top10/ubon-ratchathani-hotels.json",
       "locale": "ja",
-      "status": "in_progress",
-      "priority": 14
+      "status": "completed",
+      "priority": 14,
+      "completedAt": "2026-03-13"
     },
     {
       "type": "top10",
       "file": "data/top10/ubon-ratchathani-restaurants.json",
       "locale": "ja",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 14
     },
     {
