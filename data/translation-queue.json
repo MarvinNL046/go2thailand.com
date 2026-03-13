@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-13",
   "stats": {
     "total": 1504,
-    "completed": 1047
+    "completed": 1048
   },
   "queue": [
     {
@@ -8400,14 +8400,15 @@
       "type": "city",
       "file": "data/enhanced/chiang-mai.json",
       "locale": "ja",
-      "status": "in_progress",
-      "priority": 14
+      "status": "completed",
+      "priority": 14,
+      "completedAt": "2026-03-13"
     },
     {
       "type": "city",
       "file": "data/enhanced/chiang-rai.json",
       "locale": "ja",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 14
     },
     {
