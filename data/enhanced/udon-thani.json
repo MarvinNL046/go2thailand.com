@@ -3,13 +3,15 @@
   "slug": "udon-thani",
   "name": {
     "en": "Udon Thani",
-    "nl": "Udon Thani"
+    "nl": "Udon Thani",
+    "ja": "ウドーンターニー"
   },
   "region": "Isaan",
   "province": "Udon Thani",
   "description": {
     "en": "A vibrant Isaan city that blends ancient history with modern convenience, Udon Thani is home to the UNESCO-listed Ban Chiang Archaeological Site and the spectacular Red Lotus Sea. With a growing expat community and excellent local markets, it offers a genuine taste of northeastern Thai life.",
-    "nl": "Een levendige Isaan-stad die oude geschiedenis combineert met modern comfort, Udon Thani is de thuisbasis van de UNESCO-geregistreerde archeologische vindplaats Ban Chiang en de spectaculaire Rode Lotuszee. Met een groeiende expatgemeenschap en uitstekende lokale markten biedt het een echte smaak van het Noordoost-Thaise leven."
+    "nl": "Een levendige Isaan-stad die oude geschiedenis combineert met modern comfort, Udon Thani is de thuisbasis van de UNESCO-geregistreerde archeologische vindplaats Ban Chiang en de spectaculaire Rode Lotuszee. Met een groeiende expatgemeenschap en uitstekende lokale markten biedt het een echte smaak van het Noordoost-Thaise leven.",
+    "ja": "古代の歴史と現代の利便性が融合するイサーンの活気ある街ウドーンターニーは、ユネスコ世界遺産のバーンチエン遺跡や紅い蓮の海で知られています。"
   },
   "population": 290000,
   "highlights": [
@@ -26,25 +28,30 @@
   "seo": {
     "metaTitle": {
       "en": "Discover Udon Thani | What to do in Udon Thani?",
-      "nl": "Ontdek Udon Thani | Wat te doen in Udon Thani?"
+      "nl": "Ontdek Udon Thani | Wat te doen in Udon Thani?",
+      "ja": "ウドーンターニーを満喫 | 観光・見どころガイド"
     },
     "metaDescription": {
       "en": "Your guide to Udon Thani, Thailand – tips, highlights, UNESCO site, Red Lotus Sea and Isaan culture.",
-      "nl": "Jouw gids voor Udon Thani, Thailand – tips, highlights, UNESCO-site, Rode Lotuszee en Isaan-cultuur."
+      "nl": "Jouw gids voor Udon Thani, Thailand – tips, highlights, UNESCO-site, Rode Lotuszee en Isaan-cultuur.",
+      "ja": "タイ・ウドーンターニーの旅行ガイド — ユネスコ遺産、紅い蓮の海、イサーングルメの魅力をご紹介。"
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Udon Thani",
-      "nl": "Beste restaurants en streetfood in Udon Thani"
+      "nl": "Beste restaurants en streetfood in Udon Thani",
+      "ja": "ウドーンターニーのおすすめレストラン＆ストリートフード"
     },
     "hotels": {
       "en": "Top hotels in Udon Thani | Tips & deals",
-      "nl": "Beste hotels in Udon Thani | Tips & aanbiedingen"
+      "nl": "Beste hotels in Udon Thani | Tips & aanbiedingen",
+      "ja": "ウドーンターニーのおすすめホテル｜お得な情報＆アドバイス"
     },
     "attractions": {
       "en": "Top attractions in Udon Thani",
-      "nl": "Top bezienswaardigheden in Udon Thani"
+      "nl": "Top bezienswaardigheden in Udon Thani",
+      "ja": "ウドーンターニーの人気観光スポット"
     }
   },
   "tags": [
@@ -60,55 +67,65 @@
     {
       "name": {
         "en": "Erawan Cave (Tham Erawan)",
-        "nl": "Erawan Grot (Tham Erawan)"
+        "nl": "Erawan Grot (Tham Erawan)",
+        "ja": "エラワン洞窟（タム・エラワン）"
       },
       "description": {
         "en": "A sacred cave temple 60 km west of Udon Thani with a naturally formed rock resembling Erawan, the three-headed elephant of Hindu mythology. Dramatic stalactite formations and a peaceful forest setting.",
-        "nl": "Een heilige grottempel op 60 km ten westen van Udon Thani met een natuurlijk gevormde rots die lijkt op Erawan, de driekoppige olifant uit de hindoeïstische mythologie. Dramatische stalactietformaties en een rustige bosomgeving."
+        "nl": "Een heilige grottempel op 60 km ten westen van Udon Thani met een natuurlijk gevormde rots die lijkt op Erawan, de driekoppige olifant uit de hindoeïstische mythologie. Dramatische stalactietformaties en een rustige bosomgeving.",
+        "ja": "ウドーンターニーから西へ60kmにある神聖な洞窟寺院で、自然に形成された岩がエラワン象に似ていることから名付けられました。地元の信仰の場であり、神秘的な雰囲気が漂います。"
       },
       "type": "temple"
     },
     {
       "name": {
         "en": "Phu Phrabat Historical Park",
-        "nl": "Phu Phrabat Historisch Park"
+        "nl": "Phu Phrabat Historisch Park",
+        "ja": "プー・プラバート歴史公園"
       },
       "description": {
         "en": "Extraordinary sandstone rock formations with prehistoric cave paintings and Buddhist hermit shelters dating back 3,000 years. Recently added to UNESCO Tentative List. About 60 km northwest of the city.",
-        "nl": "Buitengewone zandstenen rotsformaties met prehistorische grotschilderingen en boeddhistische kluizenaarsbeschuttingen van 3.000 jaar oud. Recent toegevoegd aan de UNESCO Voorlopige Lijst. Ongeveer 60 km ten noordwesten van de stad."
+        "nl": "Buitengewone zandstenen rotsformaties met prehistorische grotschilderingen en boeddhistische kluizenaarsbeschuttingen van 3.000 jaar oud. Recent toegevoegd aan de UNESCO Voorlopige Lijst. Ongeveer 60 km ten noordwesten van de stad.",
+        "ja": "先史時代の洞窟壁画や仏教遺跡が残る驚異的な砂岩の奇岩群で、ユネスコ世界遺産の暫定リストに登録されています。自然と歴史が融合した絶景スポットです。"
       },
       "type": "nature"
     },
     {
       "name": {
         "en": "Ban Na Kha Handicraft Village",
-        "nl": "Ban Na Kha Ambachtsdorp"
+        "nl": "Ban Na Kha Ambachtsdorp",
+        "ja": "バーン・ナーカー手工芸村"
       },
       "description": {
         "en": "A traditional weaving village where skilled artisans produce intricate mudmee silk and cotton textiles using techniques unchanged for centuries. Buy directly from weavers at local prices.",
-        "nl": "Een traditioneel weef-dorp waar bekwame ambachtslieden ingewikkelde mudmee zijde- en katoenen stoffen produceren met technieken die eeuwenlang onveranderd zijn. Koop rechtstreeks van wevers tegen lokale prijzen."
+        "nl": "Een traditioneel weef-dorp waar bekwame ambachtslieden ingewikkelde mudmee zijde- en katoenen stoffen produceren met technieken die eeuwenlang onveranderd zijn. Koop rechtstreeks van wevers tegen lokale prijzen.",
+        "ja": "熟練の職人がムッドミーシルク（絣織り）を織る伝統的な織物の村で、制作工程を見学し、美しいシルク製品を直接購入できます。"
       },
       "type": "experience"
     },
     {
       "name": {
         "en": "Wat Pa Ban Tat Forest Monastery",
-        "nl": "Wat Pa Ban Tat Bosklooster"
+        "nl": "Wat Pa Ban Tat Bosklooster",
+        "ja": "ワット・パー・バーンタート森林僧院"
       },
       "description": {
         "en": "The forest monastery of the late Ajahn Maha Boowa, one of Thailand's most revered forest tradition monks. A serene place for meditation with a small museum dedicated to his teachings.",
-        "nl": "Het bosklooster van wijlen Ajahn Maha Boowa, een van Thailand's meest vereerde bostraditiemonniken. Een serene plek voor meditatie met een klein museum gewijd aan zijn leer."
+        "nl": "Het bosklooster van wijlen Ajahn Maha Boowa, een van Thailand's meest vereerde bostraditiemonniken. Een serene plek voor meditatie met een klein museum gewijd aan zijn leer.",
+        "ja": "タイで最も尊敬された僧侶の一人、故アーチャン・マハーブーワの森林僧院です。瞑想修行の場として知られ、静寂な森の中で仏教文化に触れられます。"
       },
       "type": "temple"
     },
     {
       "name": {
         "en": "Udon Thani Central Market (Talat Pracha)",
-        "nl": "Udon Thani Centrale Markt (Talat Pracha)"
+        "nl": "Udon Thani Centrale Markt (Talat Pracha)",
+        "ja": "ウドーンターニー中央市場（タラート・プラチャー）"
       },
       "description": {
         "en": "The city's sprawling central market on Pracha Road is a feast for the senses with hundreds of vendors selling everything from live frogs and fermented fish to silk fabrics and herbal medicines.",
-        "nl": "De uitgestrekte centrale markt van de stad op Pracha Road is een feest voor de zintuigen met honderden verkopers die alles verkopen, van levende kikkers en gefermenteerde vis tot zijden stoffen en kruidengeneesmiddelen."
+        "nl": "De uitgestrekte centrale markt van de stad op Pracha Road is een feest voor de zintuigen met honderden verkopers die alles verkopen, van levende kikkers en gefermenteerde vis tot zijden stoffen en kruidengeneesmiddelen.",
+        "ja": "プラチャー通りに広がる巨大な中央市場で、新鮮な食材、衣料品、日用品が所狭しと並んでいます。地元の活気を肌で感じられるスポットです。"
       },
       "type": "market"
     }
@@ -258,70 +275,84 @@
     {
       "title": {
         "en": "Red Lotus Sea Timing",
-        "nl": "Rode Lotuszee timing"
+        "nl": "Rode Lotuszee timing",
+        "ja": "紅い蓮の海のタイミング"
       },
       "content": {
         "en": "The Red Lotus Sea (Talay Bua Daeng) blooms from December to February only. Visit between 6 AM and 11 AM when the flowers are fully open. Hire a longtail boat at the pier in Kumphawapi (300-500 baht per boat for 1-2 hours). The lake is 50 km south of the city.",
-        "nl": "De Rode Lotuszee (Talay Bua Daeng) bloeit alleen van december tot februari. Bezoek tussen 6:00 en 11:00 uur wanneer de bloemen volledig open zijn. Huur een longtailboot bij de pier in Kumphawapi (300-500 baht per boot voor 1-2 uur). Het meer ligt 50 km ten zuiden van de stad."
+        "nl": "De Rode Lotuszee (Talay Bua Daeng) bloeit alleen van december tot februari. Bezoek tussen 6:00 en 11:00 uur wanneer de bloemen volledig open zijn. Huur een longtailboot bij de pier in Kumphawapi (300-500 baht per boot voor 1-2 uur). Het meer ligt 50 km ten zuiden van de stad.",
+        "ja": "紅い蓮の海（タレー・ブアデーン）は12月〜2月のみ開花します。早朝6時〜8時頃がベストで、ボートツアーで満開の蓮の花を間近で楽しめます。"
       }
     },
     {
       "title": {
         "en": "Ban Chiang Day Trip",
-        "nl": "Ban Chiang dagtocht"
+        "nl": "Ban Chiang dagtocht",
+        "ja": "バーンチエン日帰り旅行"
       },
       "content": {
         "en": "Ban Chiang is 50 km east of Udon Thani. Take a bus from Bus Terminal 1 to Ban Chiang village (50 baht, 1 hour). The museum is open 9 AM - 4 PM daily, admission 150 baht for foreigners. Allow 2-3 hours for the museum and excavation site.",
-        "nl": "Ban Chiang ligt 50 km ten oosten van Udon Thani. Neem een bus vanaf Busterminal 1 naar het dorp Ban Chiang (50 baht, 1 uur). Het museum is dagelijks open van 9:00-16:00, toegang 150 baht voor buitenlanders. Plan 2-3 uur voor het museum en de opgraving."
+        "nl": "Ban Chiang ligt 50 km ten oosten van Udon Thani. Neem een bus vanaf Busterminal 1 naar het dorp Ban Chiang (50 baht, 1 uur). Het museum is dagelijks open van 9:00-16:00, toegang 150 baht voor buitenlanders. Plan 2-3 uur voor het museum en de opgraving.",
+        "ja": "バーンチエンはウドーンターニーから東へ50kmです。バスターミナル1からバスで行けます。ユネスコ世界遺産の博物館と発掘現場は必見です。"
       }
     },
     {
       "title": {
         "en": "Cross-Border Trip to Laos",
-        "nl": "Grensoverschrijdende trip naar Laos"
+        "nl": "Grensoverschrijdende trip naar Laos",
+        "ja": "ラオスへの国境越え旅行"
       },
       "content": {
         "en": "Udon Thani is only 55 km from the Friendship Bridge to Vientiane, Laos. Buses run regularly from the bus terminal (50 baht). You can get a Laos visa on arrival at the bridge. Many travelers use Udon Thani as a base for Laos day trips.",
-        "nl": "Udon Thani ligt slechts 55 km van de Vriendschapsbrug naar Vientiane, Laos. Bussen rijden regelmatig vanaf het busterminal (50 baht). Je kunt een Laos-visum bij aankomst krijgen bij de brug. Veel reizigers gebruiken Udon Thani als uitvalsbasis voor dagtochten naar Laos."
+        "nl": "Udon Thani ligt slechts 55 km van de Vriendschapsbrug naar Vientiane, Laos. Bussen rijden regelmatig vanaf het busterminal (50 baht). Je kunt een Laos-visum bij aankomst krijgen bij de brug. Veel reizigers gebruiken Udon Thani als uitvalsbasis voor dagtochten naar Laos.",
+        "ja": "ウドーンターニーから友好橋を渡ってラオスのビエンチャンまでわずか55kmです。バスが頻繁に運行しており、日帰り旅行も可能です。"
       }
     },
     {
       "title": {
         "en": "Expat Community Tips",
-        "nl": "Tips voor expatgemeenschap"
+        "nl": "Tips voor expatgemeenschap",
+        "ja": "外国人コミュニティ情報"
       },
       "content": {
         "en": "Udon Thani has a large Western expat community. UD Town and Central Plaza are modern shopping areas. International food is widely available. The city has good private hospitals (Aek Udon) and international schools, making it popular for long-stay visitors.",
-        "nl": "Udon Thani heeft een grote westerse expatgemeenschap. UD Town en Central Plaza zijn moderne winkelgebieden. Internationaal eten is overal verkrijgbaar. De stad heeft goede prive-ziekenhuizen (Aek Udon) en internationale scholen, waardoor het populair is voor langeverblijf bezoekers."
+        "nl": "Udon Thani heeft een grote westerse expatgemeenschap. UD Town en Central Plaza zijn moderne winkelgebieden. Internationaal eten is overal verkrijgbaar. De stad heeft goede prive-ziekenhuizen (Aek Udon) en internationale scholen, waardoor het populair is voor langeverblijf bezoekers.",
+        "ja": "ウドーンターニーには大きな欧米人コミュニティがあります。UDタウンやセントラルプラザは近代的なショッピングモールで、西洋料理やカフェも充実しています。"
       }
     },
     {
       "title": {
         "en": "Getting Around",
-        "nl": "Vervoer in de stad"
+        "nl": "Vervoer in de stad",
+        "ja": "市内の移動方法"
       },
       "content": {
         "en": "Udon Thani has no public bus system. Get around by tuk-tuk (40-80 baht per trip), Grab taxi app, or rent a motorbike (200-300 baht/day). For day trips to Ban Chiang or the Red Lotus Sea, hire a car with driver (1,500-2,000 baht/day).",
-        "nl": "Udon Thani heeft geen openbaar bussysteem. Verplaats je per tuk-tuk (40-80 baht per rit), Grab taxi-app of huur een scooter (200-300 baht/dag). Voor dagtochten naar Ban Chiang of de Rode Lotuszee, huur een auto met chauffeur (1.500-2.000 baht/dag)."
+        "nl": "Udon Thani heeft geen openbaar bussysteem. Verplaats je per tuk-tuk (40-80 baht per rit), Grab taxi-app of huur een scooter (200-300 baht/dag). Voor dagtochten naar Ban Chiang of de Rode Lotuszee, huur een auto met chauffeur (1.500-2.000 baht/dag).",
+        "ja": "ウドーンターニーには公共バスシステムがありません。トゥクトゥク（1回40〜80バーツ）、Grabタクシー、またはレンタルバイクで移動しましょう。"
       }
     }
   ],
   "best_time_to_visit": {
     "en": "December to February is ideal - the Red Lotus Sea blooms, the weather is cool and dry, and the countryside is at its most beautiful. The hot season (March-May) brings temperatures above 40 degrees Celsius. The rainy season (June-October) is warm and humid but brings lush green landscapes.",
-    "nl": "December tot februari is ideaal - de Rode Lotuszee bloeit, het weer is koel en droog en het platteland is op zijn mooist. Het hete seizoen (maart-mei) brengt temperaturen boven de 40 graden Celsius. Het regenseizoen (juni-oktober) is warm en vochtig maar brengt weelderig groen landschap."
+    "nl": "December tot februari is ideaal - de Rode Lotuszee bloeit, het weer is koel en droog en het platteland is op zijn mooist. Het hete seizoen (maart-mei) brengt temperaturen boven de 40 graden Celsius. Het regenseizoen (juni-oktober) is warm en vochtig maar brengt weelderig groen landschap.",
+    "ja": "12月〜2月がベストシーズンで、紅い蓮の海が開花し、涼しく快適な天候が楽しめます。バーンチエン遺跡やプー・プラバートの観光にも最適です。"
   },
   "budget_info": {
     "budget_per_day": {
       "en": "$20-30",
-      "nl": "$20-30"
+      "nl": "$20-30",
+      "ja": "1日2,000〜3,000円"
     },
     "midrange_per_day": {
       "en": "$50-80",
-      "nl": "$50-80"
+      "nl": "$50-80",
+      "ja": "1日5,000〜8,000円"
     },
     "luxury_per_day": {
       "en": "$130+",
-      "nl": "$130+"
+      "nl": "$130+",
+      "ja": "1日13,000円以上"
     }
   },
   "enhanced_at": "2026-02-22T00:00:00.000Z",
