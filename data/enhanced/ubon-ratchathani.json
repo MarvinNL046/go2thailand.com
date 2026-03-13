@@ -3,13 +3,15 @@
   "slug": "ubon-ratchathani",
   "name": {
     "en": "Ubon Ratchathani",
-    "nl": "Ubon Ratchathani"
+    "nl": "Ubon Ratchathani",
+    "ja": "ウボンラーチャターニー"
   },
   "region": "Isaan",
   "province": "Ubon Ratchathani",
   "description": {
     "en": "A major Isaan city on the Mekong River, Ubon Ratchathani is famous for its spectacular Candle Festival, prehistoric cliff paintings at Pha Taem, and the breathtaking Sam Phan Bok canyon known as the Grand Canyon of Thailand.",
-    "nl": "Een grote Isaan-stad aan de Mekong rivier, Ubon Ratchathani is beroemd om het spectaculaire Kaarsen Festival, prehistorische rotstekeningen bij Pha Taem en de adembenemende Sam Phan Bok kloof, bekend als de Grand Canyon van Thailand."
+    "nl": "Een grote Isaan-stad aan de Mekong rivier, Ubon Ratchathani is beroemd om het spectaculaire Kaarsen Festival, prehistorische rotstekeningen bij Pha Taem en de adembenemende Sam Phan Bok kloof, bekend als de Grand Canyon van Thailand.",
+    "ja": "メコン川沿いのイサーン主要都市ウボンラーチャターニーは、壮大なろうそく祭り、サムパンボーク（3000の穴）、イサーン料理で有名です。"
   },
   "population": 191000,
   "highlights": [
@@ -26,25 +28,30 @@
   "seo": {
     "metaTitle": {
       "en": "Discover Ubon Ratchathani | What to do in Ubon Ratchathani?",
-      "nl": "Ontdek Ubon Ratchathani | Wat te doen in Ubon Ratchathani?"
+      "nl": "Ontdek Ubon Ratchathani | Wat te doen in Ubon Ratchathani?",
+      "ja": "ウボンラーチャターニーを満喫 | 観光・見どころガイド"
     },
     "metaDescription": {
       "en": "Your guide to Ubon Ratchathani, Thailand – candle festival, Mekong canyon, Isaan culture and nature.",
-      "nl": "Jouw gids voor Ubon Ratchathani, Thailand – kaarsenfestival, Mekong kloof, Isaan cultuur en natuur."
+      "nl": "Jouw gids voor Ubon Ratchathani, Thailand – kaarsenfestival, Mekong kloof, Isaan cultuur en natuur.",
+      "ja": "タイ・ウボンラーチャターニーの旅行ガイド — ろうそく祭り、メコン峡谷、イサーン料理の魅力をご紹介。"
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Ubon Ratchathani",
-      "nl": "Beste restaurants en streetfood in Ubon Ratchathani"
+      "nl": "Beste restaurants en streetfood in Ubon Ratchathani",
+      "ja": "ウボンラーチャターニーのおすすめレストラン＆ストリートフード"
     },
     "hotels": {
       "en": "Top hotels in Ubon Ratchathani | Tips & deals",
-      "nl": "Beste hotels in Ubon Ratchathani | Tips & aanbiedingen"
+      "nl": "Beste hotels in Ubon Ratchathani | Tips & aanbiedingen",
+      "ja": "ウボンラーチャターニーのおすすめホテル｜お得な情報＆アドバイス"
     },
     "attractions": {
       "en": "Top attractions in Ubon Ratchathani",
-      "nl": "Top bezienswaardigheden in Ubon Ratchathani"
+      "nl": "Top bezienswaardigheden in Ubon Ratchathani",
+      "ja": "ウボンラーチャターニーの人気観光スポット"
     }
   },
   "tags": [
@@ -60,55 +67,65 @@
     {
       "name": {
         "en": "Sam Phan Bok (3000 Holes)",
-        "nl": "Sam Phan Bok (3000 Gaten)"
+        "nl": "Sam Phan Bok (3000 Gaten)",
+        "ja": "サムパンボーク（3000の穴）"
       },
       "description": {
         "en": "A spectacular section of the Mekong riverbed that reveals thousands of eroded rock holes and turquoise pools during the dry season. Often called the Grand Canyon of Thailand, this geological wonder is best visited from December to May.",
-        "nl": "Een spectaculair deel van de Mekong rivierbedding dat duizenden geërodeerde rotsgaten en turquoise poelen onthult tijdens het droge seizoen. Vaak de Grand Canyon van Thailand genoemd, is dit geologische wonder het beste te bezoeken van december tot mei."
+        "nl": "Een spectaculair deel van de Mekong rivierbedding dat duizenden geërodeerde rotsgaten en turquoise poelen onthult tijdens het droge seizoen. Vaak de Grand Canyon van Thailand genoemd, is dit geologische wonder het beste te bezoeken van december tot mei.",
+        "ja": "メコン川の水位が下がると現れる何千もの侵食された岩穴が広がる壮観な川床で、「タイのグランドキャニオン」とも呼ばれます。乾季限定の絶景スポットです。"
       },
       "type": "nature"
     },
     {
       "name": {
         "en": "Wat Sirindhorn Wararam (Glow Temple)",
-        "nl": "Wat Sirindhorn Wararam (Gloeitempe)"
+        "nl": "Wat Sirindhorn Wararam (Gloeitempe)",
+        "ja": "ワット・シリントーン・ワラーラーム（光る寺院）"
       },
       "description": {
         "en": "A modern temple whose exterior walls are painted with fluorescent murals depicting the Bodhi tree and mythical creatures. After dark, the paintings glow an eerie green, creating one of the most unique temple experiences in Thailand.",
-        "nl": "Een moderne tempel waarvan de buitenmuren zijn beschilderd met fluorescerende muurschilderingen van de Bodhi-boom en mythische wezens. Na het donker gloeien de schilderingen spookachtig groen, wat een van de meest unieke tempelervaringen in Thailand oplevert."
+        "nl": "Een moderne tempel waarvan de buitenmuren zijn beschilderd met fluorescerende muurschilderingen van de Bodhi-boom en mythische wezens. Na het donker gloeien de schilderingen spookachtig groen, wat een van de meest unieke tempelervaringen in Thailand oplevert.",
+        "ja": "外壁に蛍光塗料で描かれた壁画がある近代的な寺院で、日没後に壁画が緑色に光り輝きます。「光る寺院」として知られるフォトジェニックなスポットです。"
       },
       "type": "temple"
     },
     {
       "name": {
         "en": "Kaeng Saphu Rapids",
-        "nl": "Kaeng Saphu Stroomversnellingen"
+        "nl": "Kaeng Saphu Stroomversnellingen",
+        "ja": "ケーン・サプー急流"
       },
       "description": {
         "en": "A scenic stretch of the Mekong River with rocky rapids and a riverside park popular with local picnickers. The sunset views over Laos from the riverside restaurants here are spectacular and completely tourist-free.",
-        "nl": "Een schilderachtig stuk van de Mekong rivier met rotsachtige stroomversnellingen en een park langs de rivier populair bij lokale picknickers. De zonsondergang over Laos vanuit de restaurants langs de rivier is spectaculair en volledig toeristenvrij."
+        "nl": "Een schilderachtig stuk van de Mekong rivier met rotsachtige stroomversnellingen en een park langs de rivier populair bij lokale picknickers. De zonsondergang over Laos vanuit de restaurants langs de rivier is spectaculair en volledig toeristenvrij.",
+        "ja": "メコン川の岩場の急流が見られる景勝地で、川沿いの公園は地元の人々のピクニックスポットとして人気です。夕日が美しい場所でもあります。"
       },
       "type": "nature"
     },
     {
       "name": {
         "en": "Wat Nong Bua",
-        "nl": "Wat Nong Bua"
+        "nl": "Wat Nong Bua",
+        "ja": "ワット・ノーンブア"
       },
       "description": {
         "en": "A beautiful Isaan temple modeled after the Mahabodhi Temple in India's Bodh Gaya. The interior features stunning murals by local artists depicting the life of the Buddha and traditional Isaan village scenes.",
-        "nl": "Een prachtige Isaan-tempel gemodelleerd naar de Mahabodhi Tempel in India's Bodh Gaya. Het interieur heeft prachtige muurschilderingen van lokale kunstenaars die het leven van de Boeddha en traditionele Isaan dorpsscènes uitbeelden."
+        "nl": "Een prachtige Isaan-tempel gemodelleerd naar de Mahabodhi Tempel in India's Bodh Gaya. Het interieur heeft prachtige muurschilderingen van lokale kunstenaars die het leven van de Boeddha en traditionele Isaan dorpsscènes uitbeelden.",
+        "ja": "インドのブッダガヤにあるマハーボーディ寺院をモデルにした美しいイサーンの寺院で、精緻な彫刻と壁画が見事です。"
       },
       "type": "temple"
     },
     {
       "name": {
         "en": "Ratchabut Road Night Market",
-        "nl": "Ratchabut Road Nachtmarkt"
+        "nl": "Ratchabut Road Nachtmarkt",
+        "ja": "ラチャブット通りナイトマーケット"
       },
       "description": {
         "en": "The city's sprawling evening food market where Isaan cuisine shines — fermented sausages, grilled chicken, papaya salad with fermented fish, and sweet sticky rice with mango. A genuine local gathering spot with rock-bottom prices.",
-        "nl": "De uitgebreide avondvoedselmarkt van de stad waar de Isaan keuken schittert — gefermenteerde worstjes, gegrilde kip, papajasalade met gefermenteerde vis en zoete kleefrijst met mango. Een echte lokale ontmoetingsplek met bodemprijzen."
+        "nl": "De uitgebreide avondvoedselmarkt van de stad waar de Isaan keuken schittert — gefermenteerde worstjes, gegrilde kip, papajasalade met gefermenteerde vis en zoete kleefrijst met mango. Een echte lokale ontmoetingsplek met bodemprijzen.",
+        "ja": "イサーン料理が輝く街最大の夕方フードマーケットで、発酵ソーセージ、ソムタム、焼き鳥など本格的な地元グルメが楽しめます。"
       },
       "type": "market"
     }
@@ -253,70 +270,84 @@
     {
       "title": {
         "en": "Timing Sam Phan Bok",
-        "nl": "Timing Sam Phan Bok"
+        "nl": "Timing Sam Phan Bok",
+        "ja": "サムパンボークのタイミング"
       },
       "content": {
         "en": "Sam Phan Bok is only visible when the Mekong water level is low — visit between December and May. The rock formations are most spectacular in January-March. During rainy season (June-November), the site is completely submerged.",
-        "nl": "Sam Phan Bok is alleen zichtbaar als het waterpeil van de Mekong laag is — bezoek tussen december en mei. De rotsformaties zijn het meest spectaculair in januari-maart. Tijdens het regenseizoen (juni-november) staat de locatie volledig onder water."
+        "nl": "Sam Phan Bok is alleen zichtbaar als het waterpeil van de Mekong laag is — bezoek tussen december en mei. De rotsformaties zijn het meest spectaculair in januari-maart. Tijdens het regenseizoen (juni-november) staat de locatie volledig onder water.",
+        "ja": "サムパンボークはメコン川の水位が低い時のみ見られます。12月〜5月に訪れましょう。6月〜11月は水没しており見学できません。"
       }
     },
     {
       "title": {
         "en": "Candle Festival Dates",
-        "nl": "Kaarsen Festival Data"
+        "nl": "Kaarsen Festival Data",
+        "ja": "ろうそく祭りの日程"
       },
       "content": {
         "en": "The Candle Festival falls on Asanha Bucha Day in July (exact date varies yearly by lunar calendar). Book accommodation well in advance — the city fills up completely. The parade typically runs along Upparat Road in the morning.",
-        "nl": "Het Kaarsenfestival valt op Asanha Bucha Dag in juli (exacte datum verschilt jaarlijks volgens de maankalender). Boek accommodatie ruim van tevoren — de stad zit helemaal vol. De optocht loopt doorgaans langs Upparat Road in de ochtend."
+        "nl": "Het Kaarsenfestival valt op Asanha Bucha Dag in juli (exacte datum verschilt jaarlijks volgens de maankalender). Boek accommodatie ruim van tevoren — de stad zit helemaal vol. De optocht loopt doorgaans langs Upparat Road in de ochtend.",
+        "ja": "ろうそく祭りは7月のアーサーラハブーチャの日に開催されます（毎年日付が変わるため要確認）。巨大なろうそく彫刻のパレードは圧巻です。"
       }
     },
     {
       "title": {
         "en": "Rent a Car for the Parks",
-        "nl": "Huur een Auto voor de Parken"
+        "nl": "Huur een Auto voor de Parken",
+        "ja": "国立公園にはレンタカーを"
       },
       "content": {
         "en": "Pha Taem and Sam Phan Bok are 70-100 km from the city with limited public transport. Rent a car (800-1,200 THB/day) or hire a driver through your hotel. The roads are good but the distances require a full day for each site.",
-        "nl": "Pha Taem en Sam Phan Bok liggen 70-100 km van de stad met beperkt openbaar vervoer. Huur een auto (800-1.200 THB/dag) of huur een chauffeur via je hotel. De wegen zijn goed maar de afstanden vereisen een hele dag per locatie."
+        "nl": "Pha Taem en Sam Phan Bok liggen 70-100 km van de stad met beperkt openbaar vervoer. Huur een auto (800-1.200 THB/dag) of huur een chauffeur via je hotel. De wegen zijn goed maar de afstanden vereisen een hele dag per locatie.",
+        "ja": "パーテムやサムパンボークは市内から70〜100km離れており、公共交通が限られています。レンタカーかチャーターでの訪問がおすすめです。"
       }
     },
     {
       "title": {
         "en": "Eat Like Isaan",
-        "nl": "Eet als Isaan"
+        "nl": "Eet als Isaan",
+        "ja": "イサーン流の食事を楽しもう"
       },
       "content": {
         "en": "Embrace the local eating style: sticky rice eaten with your fingers, shared plates of larb and som tam, and liberal use of fermented fish sauce (pla ra). The flavors are more intense than tourist-area Thai food. Ask for 'pet nit noy' (a little spicy) if you're cautious.",
-        "nl": "Omarm de lokale eetstijl: kleefrijst gegeten met je vingers, gedeelde borden larb en som tam, en rijkelijk gebruik van gefermenteerde vissaus (pla ra). De smaken zijn intenser dan Thais eten in toeristische gebieden. Vraag om 'pet nit noy' (een beetje pittig) als je voorzichtig bent."
+        "nl": "Omarm de lokale eetstijl: kleefrijst gegeten met je vingers, gedeelde borden larb en som tam, en rijkelijk gebruik van gefermenteerde vissaus (pla ra). De smaken zijn intenser dan Thais eten in toeristische gebieden. Vraag om 'pet nit noy' (een beetje pittig) als je voorzichtig bent.",
+        "ja": "地元の食事スタイルを体験しましょう。もち米を手で食べ、おかずをシェアし、辛いソムタムやラープに挑戦してみてください。"
       }
     },
     {
       "title": {
         "en": "Border Crossing to Laos",
-        "nl": "Grensovergang naar Laos"
+        "nl": "Grensovergang naar Laos",
+        "ja": "ラオスへの国境越え"
       },
       "content": {
         "en": "The Chong Mek border crossing to Laos (Pakse) is about 90 km from Ubon. Laos visa on arrival is available for most nationalities. You can combine Ubon with a trip to Laos's 4000 Islands or Wat Phou temple complex.",
-        "nl": "De Chong Mek grensovergang naar Laos (Pakse) ligt ongeveer 90 km van Ubon. Visum bij aankomst in Laos is beschikbaar voor de meeste nationaliteiten. Je kunt Ubon combineren met een trip naar Laos's 4000 Eilanden of het Wat Phou tempelcomplex."
+        "nl": "De Chong Mek grensovergang naar Laos (Pakse) ligt ongeveer 90 km van Ubon. Visum bij aankomst in Laos is beschikbaar voor de meeste nationaliteiten. Je kunt Ubon combineren met een trip naar Laos's 4000 Eilanden of het Wat Phou tempelcomplex.",
+        "ja": "チョンメック国境（ラオスのパークセー）はウボンから約90kmです。ラオスのビザはイミグレーションで取得可能で、パークセーやワット・プーへの日帰り旅行ができます。"
       }
     }
   ],
   "best_time_to_visit": {
     "en": "November to February offers cool, dry weather ideal for outdoor exploration. December to May is essential for Sam Phan Bok when the Mekong water level drops. July brings the spectacular Candle Festival. Avoid September-October when monsoon rains can make park roads difficult.",
-    "nl": "November tot februari biedt koel, droog weer ideaal voor buiten verkennen. December tot mei is essentieel voor Sam Phan Bok wanneer het Mekong waterpeil daalt. Juli brengt het spectaculaire Kaarsenfestival. Vermijd september-oktober wanneer moessonregens parkwegen moeilijk begaanbaar kunnen maken."
+    "nl": "November tot februari biedt koel, droog weer ideaal voor buiten verkennen. December tot mei is essentieel voor Sam Phan Bok wanneer het Mekong waterpeil daalt. Juli brengt het spectaculaire Kaarsenfestival. Vermijd september-oktober wanneer moessonregens parkwegen moeilijk begaanbaar kunnen maken.",
+    "ja": "11月〜2月が涼しく乾燥した天候で、アウトドア観光に最適です。12月〜5月はサムパンボークが見られる時期。7月のろうそく祭りも必見です。"
   },
   "budget_info": {
     "budget_per_day": {
       "en": "$15-25",
-      "nl": "$15-25"
+      "nl": "$15-25",
+      "ja": "1日1,500〜2,500円"
     },
     "midrange_per_day": {
       "en": "$35-60",
-      "nl": "$35-60"
+      "nl": "$35-60",
+      "ja": "1日3,500〜6,000円"
     },
     "luxury_per_day": {
       "en": "$80+",
-      "nl": "$80+"
+      "nl": "$80+",
+      "ja": "1日8,000円以上"
     }
   },
   "overview": "Ubon Ratchathani, located in Thailand's Isaan region along the Mekong River, is a hidden gem that rivals more famous Thai destinations with its unique cultural attractions and natural wonders. The city of 190,000 people is most famous for its spectacular Candle Festival held each July, where massive wax sculptures parade through the streets accompanied by traditional Mor lam music. Beyond the festival, Ubon offers breathtaking natural attractions like Sam Phan Bok (the \"Grand Canyon of Thailand\"), prehistoric cliff paintings at Pha Taem National Park, and the scenic confluence of two rivers at Khong Jiam, making it an ideal destination for travelers seeking authentic Isaan experiences away from Bangkok's crowds.",
@@ -439,7 +470,8 @@
   },
   "safetyTips": {
     "en": "Ubon Ratchathani is generally a safe destination for travelers with low crime rates against tourists. Standard precautions apply: avoid displaying expensive jewelry or electronics, be cautious with valuables in crowded night markets, and use trusted taxis or Grab rather than hailing unmarked vehicles. Road safety is a consideration — if renting a motorbike, wear helmets (required by law) and drive defensively as local traffic can be chaotic. Petty theft occurs occasionally in crowded areas, so keep bags secure and valuables in hotel safes. The Mekong River and waterfalls are popular attractions but respect warning signs; drownings have occurred at unsafe locations. Waterfall areas such as Soi Sawan are extremely slippery — injuries are common, so wear proper footwear and exercise caution on wet rocks. Typhoon season (typically September-November) can bring extreme weather originating from the Philippines and Vietnam, causing sudden heavy rain, flooding, and dangerous conditions at outdoor attractions. Watch out for wasp nests along rural roads and trails near the national parks — they can be aggressive if disturbed. When visiting temples, dress respectfully with covered shoulders and knees. Tap water is generally not recommended for drinking; purchase bottled water instead. Ubon remains one of Thailand's safer cities with minimal gang activity or serious crime affecting tourists.",
-    "nl": "Ubon Ratchathani is over het algemeen een veilige bestemming voor reizigers met lage criminaliteitscijfers tegen toeristen. Standaard voorzorgsmaatregelen gelden: vermijd het tonen van dure sieraden of elektronica, wees voorzichtig met waardevolle spullen op drukke nachtmarkten en gebruik betrouwbare taxi's of Grab in plaats van ongemarkeerde voertuigen aan te houden. Verkeersveiligheid is een aandachtspunt — als je een scooter huurt, draag dan een helm (wettelijk verplicht) en rij defensief want het lokale verkeer kan chaotisch zijn. Kleine diefstal komt af en toe voor op drukke plekken, dus houd tassen veilig en berg waardevolle spullen op in hotelkluizen. De Mekong en watervallen zijn populaire attracties maar respecteer waarschuwingsborden; verdrinkingen zijn voorgekomen op onveilige locaties. Watervalgebieden zoals Soi Sawan zijn extreem glad — verwondingen komen veel voor, dus draag goed schoeisel en wees voorzichtig op natte rotsen. Het tyfoonseizoen (doorgaans september-november) kan extreem weer brengen afkomstig uit de Filipijnen en Vietnam, met plotselinge hevige regenval, overstromingen en gevaarlijke omstandigheden bij buitenattracties. Let op wespennesten langs landelijke wegen en paden nabij de nationale parken — ze kunnen agressief zijn als ze gestoord worden. Kleed je respectvol bij tempelbezoek met bedekte schouders en knieën. Kraanwater wordt over het algemeen niet aanbevolen om te drinken; koop flessenwater. Ubon blijft een van de veiligste steden van Thailand met minimale bende-activiteit of ernstige criminaliteit die toeristen treft."
+    "nl": "Ubon Ratchathani is over het algemeen een veilige bestemming voor reizigers met lage criminaliteitscijfers tegen toeristen. Standaard voorzorgsmaatregelen gelden: vermijd het tonen van dure sieraden of elektronica, wees voorzichtig met waardevolle spullen op drukke nachtmarkten en gebruik betrouwbare taxi's of Grab in plaats van ongemarkeerde voertuigen aan te houden. Verkeersveiligheid is een aandachtspunt — als je een scooter huurt, draag dan een helm (wettelijk verplicht) en rij defensief want het lokale verkeer kan chaotisch zijn. Kleine diefstal komt af en toe voor op drukke plekken, dus houd tassen veilig en berg waardevolle spullen op in hotelkluizen. De Mekong en watervallen zijn populaire attracties maar respecteer waarschuwingsborden; verdrinkingen zijn voorgekomen op onveilige locaties. Watervalgebieden zoals Soi Sawan zijn extreem glad — verwondingen komen veel voor, dus draag goed schoeisel en wees voorzichtig op natte rotsen. Het tyfoonseizoen (doorgaans september-november) kan extreem weer brengen afkomstig uit de Filipijnen en Vietnam, met plotselinge hevige regenval, overstromingen en gevaarlijke omstandigheden bij buitenattracties. Let op wespennesten langs landelijke wegen en paden nabij de nationale parken — ze kunnen agressief zijn als ze gestoord worden. Kleed je respectvol bij tempelbezoek met bedekte schouders en knieën. Kraanwater wordt over het algemeen niet aanbevolen om te drinken; koop flessenwater. Ubon blijft een van de veiligste steden van Thailand met minimale bende-activiteit of ernstige criminaliteit die toeristen treft.",
+    "ja": "ウボンラーチャターニーは犯罪率が低く、旅行者にとって一般的に安全な街です。一般的な注意を払えば問題なく過ごせます。夜間の一人歩きも比較的安全です。"
   },
   "faq": [
     {
@@ -621,19 +653,12 @@
     },
     "zh": {
       "enhanced_description": "乌汶叻差他尼位于泰国最东端，湄南河在此汇入湄公河，老挝近在咫尺，对岸依稀可见。这是一座极少外国旅行者造访的泰国城市，而正因如此，来到这里才会有真正发现新大陆的感觉。我从曼谷乘夜车抵达——穿越伊桑平原十二个小时——走下火车时，迎面而来的是一座与大多数游客印象中的泰国截然不同的城市。空气中弥漫着炭烤鸡和糯米饭的香气，街道宽阔林荫掩映，晨光洒落在典雅的寺庙、法式殖民时代的店屋和湄南河宽阔的褐色河湾上。没有人试图向我推销任何东西，没有人叫我「朋友「。我难得地，只是安静地存在于某个地方。\n\n这座城市的皇冠明珠是每年的蜡烛节（Khao Phansa），于七月举办，标志着佛教守夏节的开始。全省各地的社区花费数月时间雕刻巨大的蜡像——有的堪比一辆巴士——描绘本生经故事和泰国神话中的场景。节日当天，这些纪念碑般的巨烛被装上花车在城中巡游，成千上万的人夹道围观、跳舞、欢宴。我有幸赶上了蜡烛节，工匠们的手艺之精湛令我目瞪口呆。一座蜡烛雕塑刻画了一尊多臂神祇，被火焰和天界生灵环绕，每一个细节——每一根羽毛、每一根手指、每一缕火焰的卷曲——都由蜂蜡历经三个月手工雕刻而成。许多匠人本身就是僧侣，他们静静地站在自己的作品旁，神情中带着无声的自豪，巡游队伍伴随着莫兰音乐，那是伊桑传统的歌唱，同时充满欢愉与忧伤——东北的声音。\n\n帕丹国家公园距离城市以东约100公里，沿着湄公河蜿蜒而行，这里展现出的伊桑地貌远比大多数人想象中的平坦稻田要壮观得多。悬崖边缘垂直落差数百米直至湄公河面，岩壁上留有3,000至4,000年前的史前岩画——手印、鱼类、几何图案。黎明时分我站在崖边，那个清晨第一个到达观景台的人，看着太阳从老挝上方升起，脚下的湄公河闪烁着金银两色的光芒，寂静只被梵天鸢在热气流中盘旋时的鸣叫声打破。这是泰国最震撼的风景之一，而我独享了这一切。\n\nSam Phan Bok，意为「三千孔「，是乌汶的另一处自然奇观——一段经历千年侵蚀的湄公河河床，被雕琢出数以千计的坑洞、沟渠和岩石地貌，在旱季（12月至5月）水位下降时露出水面。我二月份前往，裸露的岩石如同月球表面般延伸开去，坑洞中盛满碧绿的池水，宽阔的湄公河和远方老挝的轮廓将整个景象框成一幅画。当地家庭在岩石上野餐，孩子们在天然水池中嬉戏，小贩在临时搭建的烤架上烤着鸡肉。大约五十个人散布在一片有好几个足球场大的区域里。与大峡谷的类比不在于规模，而在于那种敬畏感——这是一个让你停下脚步、静静凝望的地方。\n\n回到城里，食物纯粹是伊桑风味——大胆、酸辣、发酵。我吃了辣得嘴唇发麻的碎猪肉沙拉（Larb Moo），用发酵鱼酱（Pla Ra）调制的青木瓜沙拉，那种深邃的鲜味是任何旅游区版本都无法企及的，还有用手指以传统方式撕着吃的糯米饭。叻察布路沿线的夜市是我每晚的固定行程——一大片热闹的摊位区，在这里我发现了柠檬草蒜香腌制的烤鸡（Kai Yang）、伊桑发酵香肠（Sai Krok Isaan），以及一份甜糯米配新鲜芒果的甜品，只要20泰铢，尝起来仿佛泰国所有的美好都被浓缩进了这一道菜。乌汶叻差他尼不容易抵达，也不急于被人发现，而这恰恰是它非凡之处。",
-
       "overview": "乌汶叻差他尼位于泰国伊桑地区湄公河沿岸，是一颗隐藏的明珠，凭借其独特的文化景点和自然奇观，与更知名的泰国旅游目的地不相上下。这座拥有19万人口的城市因每年七月举办的壮观蜡烛节而闻名，巨大的蜡烛雕塑在传统莫兰音乐的伴奏下巡游街头。蜡烛节之外，乌汶还拥有令人叹为观止的自然景观，如Sam Phan Bok（「泰国大峡谷「）、帕丹国家公园的史前岩画以及空暹县两河交汇处的如画风光，是远离曼谷喧嚣、寻求正宗伊桑体验的旅行者的理想目的地。",
-
       "thingsToDo": "乌汶叻差他尼提供从自然奇观到文化体验的多样景点。蜡烛节（每年七月）是城市的标志性活动，在通西芒寺举办巨型蜡烛雕塑巡游和传统莫兰音乐表演（免费入场）。Sam Phan Bok位于东面75公里的空暹县，展示着数百个被碧绿池水填满的岩石坑洞（门票200泰铢/$6，仅12月至5月可进入）。帕丹国家公园（东面80公里）拥有3,500年历史的史前岩画和壮美的湄公河观景台（门票200泰铢/$6）。空暹村位于湄南河与湄公河交汇处，提供日落美景，也是探索东部景点的出发基地（免费进入）。汪巴蓬森林寺院提供禅修和寺院生活体验（免费）。乌汶夜市位于汽车站附近，提供正宗的伊桑街头美食和本地文化体验，价格非常亲民（每份20-100泰铢起）。大多数景点需要租车或参加一日游团。",
-
       "whereToStay": "乌汶叻差他尼拥有适合各类预算的住宿选择，大部分集中在通西芒公园附近的市中心。背包客可以找到舒适的民宿和基础酒店，每晚$13-25，房间干净、设施齐全。中档酒店（$30-70/晚）提供更舒适的环境、空调和通常包含的早餐，性价比极高。这些住宿通常位于商业中心，步行即可到达餐厅和夜市。追求奢华的旅客可选择高端酒店和度假村，通常配有泳池和精致餐饮，但乌汶的高端选择比曼谷的同类住宿便宜不少。许多住宿距乌汶叻差他尼机场仅15分钟车程，酒店工作人员可以安排接送服务。",
-
       "gettingAround": "乌汶叻差他尼相对紧凑，适合步行探索。嘟嘟车是最常见的本地交通工具，市内大多数路程收费30-50泰铢（$1-1.50）。双条车（共享小巴）沿固定路线运行，每程10-20泰铢（$0.30-0.60）。Grab在乌汶可用，提供固定价格，机场至市中心通常200-300泰铢（$6-9）。前往Sam Phan Bok、帕丹国家公园和空暹县（东面75-80公里）的一日游，建议租车（600-800泰铢/$18-24每天）或使用Grab。多家店铺提供摩托车租赁，每天150-250泰铢（$5-8），适合有经验的骑手。民宿可租自行车用于市区探索，每天50-100泰铢（$1.50-3）。",
-
       "bestTimeToVisit": "游览乌汶叻差他尼的最佳时间是11月至2月，此时气温在15-30°C之间，湿度最低。这是凉爽干燥的季节，最适合探索Sam Phan Bok等自然景点。七月的蜡烛节是乌汶的标志性活动，吸引数千游客观赏巨型蜡烛雕塑巡游和传统庆典，但七月处于雨季，湿度高且偶有降雨。如果专程前往Sam Phan Bok，时间选择至关重要——该景点仅在12月至5月水位足够低时才开放，届时标志性的岩石地貌方可显露。3月至5月逐渐炎热难耐，气温超过35°C。建议避开9月至10月的强降雨季节，此时公路出行困难且自然景点能见度降低。",
-
       "safetyTips": "乌汶叻差他尼总体上是一座安全的旅游城市，犯罪率较低。基本的旅行安全常识适用：避免炫耀昂贵珠宝或电子设备，在热闹的夜市注意看管贵重物品，选择正规出租车或Grab而非拦截无标识车辆。交通安全值得关注——如果租摩托车，务必佩戴头盔（法律强制要求）并谨慎驾驶，当地交通可能比较混乱。前往Sam Phan Bok和帕丹国家公园时请穿结实的鞋子，因为岩石表面可能很滑，尤其是清晨有露水时。雨季（6月至10月）部分乡村道路可能暂时被洪水淹没。伊桑的阳光非常强烈，户外游览时请携带防晒霜、帽子和充足的饮用水。自来水一般不建议直接饮用，请购买瓶装水。乌汶依然是泰国最安全的城市之一，极少有影响游客的严重犯罪。",
-
       "translated_at": "2026-03-11T00:00:00.000Z"
     },
     "ru": {
