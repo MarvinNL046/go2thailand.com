@@ -3,13 +3,15 @@
   "slug": "surat-thani",
   "name": {
     "en": "Surat Thani",
-    "nl": "Surat Thani"
+    "nl": "Surat Thani",
+    "ja": "スラーターニー"
   },
   "region": "Southern",
   "province": "Surat Thani",
   "description": {
     "en": "Transport hub to islands like Koh Samui, Koh Phangan, and Koh Tao.",
-    "nl": "Vervoersknooppunt naar eilanden als Koh Samui, Koh Phangan en Koh Tao."
+    "nl": "Vervoersknooppunt naar eilanden als Koh Samui, Koh Phangan en Koh Tao.",
+    "ja": "サムイ島、パンガン島、タオ島など人気の島々へのフェリー拠点となる交通の要所です。"
   },
   "population": 132000,
   "highlights": [
@@ -25,25 +27,30 @@
   "seo": {
     "metaTitle": {
       "en": "Discover Surat Thani | What to do in Surat Thani?",
-      "nl": "Ontdek Surat Thani | Wat te doen in Surat Thani?"
+      "nl": "Ontdek Surat Thani | Wat te doen in Surat Thani?",
+      "ja": "スラーターニーを満喫 | スラーターニーの観光・見どころガイド"
     },
     "metaDescription": {
       "en": "Your guide to Surat Thani, Thailand – tips, highlights, food, hotels.",
-      "nl": "Jouw gids voor Surat Thani, Thailand – tips, highlights, eten, hotels."
+      "nl": "Jouw gids voor Surat Thani, Thailand – tips, highlights, eten, hotels.",
+      "ja": "タイ・スラーターニーの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。"
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Surat Thani",
-      "nl": "Beste restaurants en streetfood in Surat Thani"
+      "nl": "Beste restaurants en streetfood in Surat Thani",
+      "ja": "スラーターニーのおすすめレストラン＆ストリートフード"
     },
     "hotels": {
       "en": "Top hotels in Surat Thani | Tips & deals",
-      "nl": "Beste hotels in Surat Thani | Tips & aanbiedingen"
+      "nl": "Beste hotels in Surat Thani | Tips & aanbiedingen",
+      "ja": "スラーターニーのおすすめホテル｜お得な情報＆アドバイス"
     },
     "attractions": {
       "en": "Top attractions in Surat Thani",
-      "nl": "Top bezienswaardigheden in Surat Thani"
+      "nl": "Top bezienswaardigheden in Surat Thani",
+      "ja": "スラーターニーの人気観光スポット"
     }
   },
   "tags": [
