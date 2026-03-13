@@ -3,13 +3,15 @@
   "slug": "mukdahan",
   "name": {
     "en": "Mukdahan",
-    "nl": "Mukdahan"
+    "nl": "Mukdahan",
+    "ja": "ムクダーハーン"
   },
   "region": "Isaan",
   "province": "Mukdahan",
   "description": {
     "en": "A relaxed Mekong riverside town facing Savannakhet, Laos, known for its colorful Naga Temple, enormous white Big Buddha with panoramic views, and beautiful Loy Krathong celebrations on the river.",
-    "nl": "Een ontspannen stadje aan de Mekong tegenover Savannakhet, Laos, bekend om de kleurrijke Naga Tempel, enorme witte Grote Boeddha met panoramisch uitzicht en prachtige Loy Krathong-vieringen op de rivier."
+    "nl": "Een ontspannen stadje aan de Mekong tegenover Savannakhet, Laos, bekend om de kleurrijke Naga Tempel, enorme witte Grote Boeddha met panoramisch uitzicht en prachtige Loy Krathong-vieringen op de rivier.",
+    "ja": "ラオスのサワンナケートと向かい合うメコン川沿いの穏やかな街ムクダーハーンは、カラフルなナーガ寺院や大仏、インドシナ市場で知られています。"
   },
   "population": 35000,
   "highlights": [
@@ -27,25 +29,30 @@
   "seo": {
     "metaTitle": {
       "en": "Discover Mukdahan | Mekong Riverside Town Guide",
-      "nl": "Ontdek Mukdahan | Mekong Rivierstadje Gids"
+      "nl": "Ontdek Mukdahan | Mekong Rivierstadje Gids",
+      "ja": "ムクダーハーンを満喫 | メコン川沿いの街ガイド"
     },
     "metaDescription": {
       "en": "Your guide to Mukdahan — relaxed Mekong town with the spectacular Naga Temple, Big Buddha, Loy Krathong on the river, and charming riverside bungalows.",
-      "nl": "Jouw gids voor Mukdahan — ontspannen Mekong-stadje met de spectaculaire Naga Tempel, Grote Boeddha, Loy Krathong op de rivier en charmante bungalows aan het water."
+      "nl": "Jouw gids voor Mukdahan — ontspannen Mekong-stadje met de spectaculaire Naga Tempel, Grote Boeddha, Loy Krathong op de rivier en charmante bungalows aan het water.",
+      "ja": "ムクダーハーン旅行ガイド — 壮大なナーガ寺院、大仏、メコン川沿いの穏やかな街の魅力をご紹介。"
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and riverside dining in Mukdahan",
-      "nl": "Beste restaurants en eetgelegenheden aan de rivier in Mukdahan"
+      "nl": "Beste restaurants en eetgelegenheden aan de rivier in Mukdahan",
+      "ja": "ムクダーハーンのおすすめレストラン＆川沿いダイニング"
     },
     "hotels": {
       "en": "Top hotels and riverside bungalows in Mukdahan",
-      "nl": "Beste hotels en bungalows aan de rivier in Mukdahan"
+      "nl": "Beste hotels en bungalows aan de rivier in Mukdahan",
+      "ja": "ムクダーハーンのおすすめホテル＆リバーサイドバンガロー"
     },
     "attractions": {
       "en": "Top attractions in Mukdahan",
-      "nl": "Top bezienswaardigheden in Mukdahan"
+      "nl": "Top bezienswaardigheden in Mukdahan",
+      "ja": "ムクダーハーンの人気観光スポット"
     }
   },
   "tags": [
@@ -173,7 +180,8 @@
       "max": 25,
       "description": {
         "en": "Budget travelers can enjoy Mukdahan on $15-25/day (540-900 THB). Stay in a simple riverside guesthouse ($10-18/night, 500-700 THB), eat at local street food stalls ($1-3 per meal, 30-80 THB), and walk everywhere. The Naga Temple and Big Buddha are free to visit with free shuttle bus (100 THB donation suggested). A Loy Krathong krathong costs 20 THB. Songthaew transport 20-40 THB.",
-        "nl": "Budgetreizigers kunnen van Mukdahan genieten voor $15-25/dag (540-900 THB). Verblijf in een eenvoudig pension aan de rivier ($10-18/nacht, 500-700 THB), eet bij lokale kraampjes ($1-3 per maaltijd, 30-80 THB) en loop overal naartoe. De Naga Tempel en Grote Boeddha zijn gratis te bezoeken met gratis shuttlebus (100 THB donatie aanbevolen). Een Loy Krathong-krathong kost 20 THB. Songthaew-vervoer 20-40 THB."
+        "nl": "Budgetreizigers kunnen van Mukdahan genieten voor $15-25/dag (540-900 THB). Verblijf in een eenvoudig pension aan de rivier ($10-18/nacht, 500-700 THB), eet bij lokale kraampjes ($1-3 per maaltijd, 30-80 THB) en loop overal naartoe. De Naga Tempel en Grote Boeddha zijn gratis te bezoeken met gratis shuttlebus (100 THB donatie aanbevolen). Een Loy Krathong-krathong kost 20 THB. Songthaew-vervoer 20-40 THB.",
+        "ja": "節約旅行者は1日1,500〜2,500円（540〜900バーツ）でムクダーハーンを楽しめます。シンプルなゲストハウスに泊まり、屋台や市場で食事をすれば十分です。"
       }
     },
     "midrange": {
@@ -181,7 +189,8 @@
       "max": 50,
       "description": {
         "en": "Mid-range travelers spend $25-50/day (900-1,800 THB) for a comfortable stay. Book a midrange hotel or riverside bungalow ($20-35/night, 720-1,260 THB), enjoy riverside restaurant meals ($4-8 per meal, 150-280 THB) with cold beer (60-100 THB), and visit all main sights including That Phanom day trip. Motorcycle rental 150-250 THB/day. Very good value for a charming riverside experience.",
-        "nl": "Middensegment reizigers besteden $25-50/dag (900-1,800 THB) voor een comfortabel verblijf. Boek een midrangehotel of Mekong-bungalow ($20-35/nacht, 720-1,260 THB), geniet van maaltijden aan de rivier ($4-8 per maaltijd, 150-280 THB) met koud bier (60-100 THB), en bezoek alle belangrijke bezienswaardigheden inclusief dagtocht naar That Phanom. Motorfietsverhuizing 150-250 THB/dag. Zeer goede waarde voor een charmante rivierervaring."
+        "nl": "Middensegment reizigers besteden $25-50/dag (900-1,800 THB) voor een comfortabel verblijf. Boek een midrangehotel of Mekong-bungalow ($20-35/nacht, 720-1,260 THB), geniet van maaltijden aan de rivier ($4-8 per maaltijd, 150-280 THB) met koud bier (60-100 THB), en bezoek alle belangrijke bezienswaardigheden inclusief dagtocht naar That Phanom. Motorfietsverhuizing 150-250 THB/dag. Zeer goede waarde voor een charmante rivierervaring.",
+        "ja": "中級旅行者は1日2,500〜5,000円（900〜1,800バーツ）で快適に過ごせます。エアコン付きのホテルに泊まり、レストランでの食事やソンテウでの移動が楽しめます。"
       }
     },
     "luxury": {
@@ -189,7 +198,8 @@
       "max": 100,
       "description": {
         "en": "Luxury in Mukdahan is relative—this is a small Isaan town, not Bangkok. The best riverside accommodation costs $25-35/night (900-1,260 THB at Hotel Muq or similar), and generous meals with drinks cost $8-15 per meal (300-500 THB). Budget $50-100/day for mid-range hotel rooms, all meals at quality riverside restaurants, craft beer (60-100 THB per glass), motorbike rental (150-250 THB/day), and day trips to That Phanom or Savannakhet across the border.",
-        "nl": "Luxe in Mukdahan is relatief—dit is een klein Isaan-stadje, geen Bangkok. De beste accommodatie aan de rivier kost $25-35/nacht (900-1,260 THB bij Hotel Muq of vergelijkbaar), en uitgebreide maaltijden met drankjes kosten $8-15 per maaltijd (300-500 THB). Reken op $50-100/dag voor midrange hotelkamers, alle maaltijden in kwaliteitsrestaurants aan de rivier, craft bier (60-100 THB per glas), motorfietsverhuizing (150-250 THB/dag) en dagtochten naar That Phanom of Savannakhet over de grens."
+        "nl": "Luxe in Mukdahan is relatief—dit is een klein Isaan-stadje, geen Bangkok. De beste accommodatie aan de rivier kost $25-35/nacht (900-1,260 THB bij Hotel Muq of vergelijkbaar), en uitgebreide maaltijden met drankjes kosten $8-15 per maaltijd (300-500 THB). Reken op $50-100/dag voor midrange hotelkamers, alle maaltijden in kwaliteitsrestaurants aan de rivier, craft bier (60-100 THB per glas), motorfietsverhuizing (150-250 THB/dag) en dagtochten naar That Phanom of Savannakhet over de grens.",
+        "ja": "ムクダーハーンの贅沢はバンコクとは違い、小さなイサーンの街ならではです。リバービューの最高級ホテルでも1泊2,000〜3,000バーツ程度とお手頃です。"
       }
     }
   },
@@ -198,51 +208,61 @@
     {
       "question": {
         "en": "How do I get to Mukdahan?",
-        "nl": "Hoe kom ik in Mukdahan?"
+        "nl": "Hoe kom ik in Mukdahan?",
+        "ja": "ムクダーハーンへの行き方は？"
       },
       "answer": {
         "en": "Mukdahan is most commonly reached by bus from Bangkok (approximately 10-12 hours, 300-500 THB) or by driving/riding from other Isaan cities. The nearest airport is Nakhon Phanom (about 100km north), with connecting flights from Bangkok. Airport transfer costs 800-1,200 THB by car/minivan (1.5-2 hours). Many travelers visit Mukdahan as part of a Mekong River road trip from Nong Khai or Nakhon Phanom. The scenic motorcycle route from Nakhon Phanom passes through That Phanom with its beautiful golden stupas.",
-        "nl": "Mukdahan is het makkelijkst bereikbaar per bus vanuit Bangkok (ongeveer 10-12 uur, 300-500 THB) of door te rijden vanuit andere Isaan-steden. De dichtstbijzijnde luchthaven is Nakhon Phanom (ongeveer 100 km naar het noorden) met aansluitvluchten vanuit Bangkok. Luchthavenoverdracht kost 800-1.200 THB per auto/minibus (1,5-2 uur). Veel reizigers bezoeken Mukdahan als onderdeel van een Mekong-roadtrip vanuit Nong Khai of Nakhon Phanom. De schilderachtige motorfietsroute vanuit Nakhon Phanom gaat langs That Phanom met prachtige gouden stupa's."
+        "nl": "Mukdahan is het makkelijkst bereikbaar per bus vanuit Bangkok (ongeveer 10-12 uur, 300-500 THB) of door te rijden vanuit andere Isaan-steden. De dichtstbijzijnde luchthaven is Nakhon Phanom (ongeveer 100 km naar het noorden) met aansluitvluchten vanuit Bangkok. Luchthavenoverdracht kost 800-1.200 THB per auto/minibus (1,5-2 uur). Veel reizigers bezoeken Mukdahan als onderdeel van een Mekong-roadtrip vanuit Nong Khai of Nakhon Phanom. De schilderachtige motorfietsroute vanuit Nakhon Phanom gaat langs That Phanom met prachtige gouden stupa's.",
+        "ja": "ムクダーハーンへはバンコクからバスで約10〜12時間、またはウボンラーチャターニーやコンケーンからバスで3〜4時間です。最寄りの空港はウボンラーチャターニーかナコンパノムにあります。"
       }
     },
     {
       "question": {
         "en": "What is the Naga Temple in Mukdahan?",
-        "nl": "Wat is de Naga Tempel in Mukdahan?"
+        "nl": "Wat is de Naga Tempel in Mukdahan?",
+        "ja": "ムクダーハーンのナーガ寺院とは？"
       },
       "answer": {
         "en": "The Naga Temple features a giant colorful Naga statue rising from dramatic lava-like rock, adorned with red prayer ribbons. The Naga is believed to be the guardian of the rivers, bringing luck and prosperity. Visitors whisper their wishes with a pure heart, and the Naga is said to carry them down the Mekong. Entry is free, with a free shuttle bus to the hilltop. A donation of 100 THB is suggested for the shuttle service. The temple sits on the same hill as the Big Buddha statue.",
-        "nl": "De Naga Tempel heeft een reusachtig kleurrijk Naga-beeld dat oprijst uit dramatisch lavagesteente, versierd met rode gebedslintjes. De Naga wordt beschouwd als de beschermer van de rivieren, die geluk en voorspoed brengt. Bezoekers fluisteren hun wensen met een puur hart, en de Naga zou ze langs de Mekong meedragen. Toegang is gratis, met een gratis shuttlebus naar de heuveltop. Een donatie van 100 THB wordt aanbevolen. De tempel staat op dezelfde heuvel als de Grote Boeddha."
+        "nl": "De Naga Tempel heeft een reusachtig kleurrijk Naga-beeld dat oprijst uit dramatisch lavagesteente, versierd met rode gebedslintjes. De Naga wordt beschouwd als de beschermer van de rivieren, die geluk en voorspoed brengt. Bezoekers fluisteren hun wensen met een puur hart, en de Naga zou ze langs de Mekong meedragen. Toegang is gratis, met een gratis shuttlebus naar de heuveltop. Een donatie van 100 THB wordt aanbevolen. De tempel staat op dezelfde heuvel als de Grote Boeddha.",
+        "ja": "ナーガ寺院には溶岩のような岩場からそびえ立つ巨大なカラフルなナーガ像があり、ムクダーハーンで最もフォトジェニックなスポットです。丘の上にあり、メコン川の絶景も楽しめます。"
       }
     },
     {
       "question": {
         "en": "Can I see the Big Buddha in Mukdahan?",
-        "nl": "Kan ik de Grote Boeddha in Mukdahan zien?"
+        "nl": "Kan ik de Grote Boeddha in Mukdahan zien?",
+        "ja": "ムクダーハーンの大仏は見られますか？"
       },
       "answer": {
         "en": "Yes! The enormous white Big Buddha statue sits at the top of the same hill as the Naga Temple. It is fully finished and gleaming white. You can touch the giant fingers as a deep gesture of respect. From the top, you get panoramic views of Mukdahan city, the Mekong River, and Savannakhet (Laos) across the water. Entry is free, and a free shuttle bus takes you up the hill (100 THB donation suggested).",
-        "nl": "Ja! Het enorme witte Grote Boeddha-beeld staat op dezelfde heuvel als de Naga Tempel. Het is volledig afgebouwd en stralend wit. Je kunt de reusachtige vingers aanraken als een diep gebaar van respect. Vanaf de top heb je panoramisch uitzicht over Mukdahan, de Mekong en Savannakhet (Laos) aan de overkant. Toegang is gratis en een gratis shuttlebus brengt je naar boven (100 THB donatie aanbevolen)."
+        "nl": "Ja! Het enorme witte Grote Boeddha-beeld staat op dezelfde heuvel als de Naga Tempel. Het is volledig afgebouwd en stralend wit. Je kunt de reusachtige vingers aanraken als een diep gebaar van respect. Vanaf de top heb je panoramisch uitzicht over Mukdahan, de Mekong en Savannakhet (Laos) aan de overkant. Toegang is gratis en een gratis shuttlebus brengt je naar boven (100 THB donatie aanbevolen).",
+        "ja": "はい！巨大な白い大仏像はナーガ寺院と同じ丘の頂上にあります。メコン川とラオスを一望できる壮大な景色とともに、無料で見学できます。"
       }
     },
     {
       "question": {
         "en": "What is the best time to visit Mukdahan?",
-        "nl": "Wat is het beste moment om Mukdahan te bezoeken?"
+        "nl": "Wat is het beste moment om Mukdahan te bezoeken?",
+        "ja": "ムクダーハーンのベストシーズンは？"
       },
       "answer": {
         "en": "The best time to visit is during the cool season from November to February, when temperatures are comfortable (18-28°C) and the Mekong is calm. November is particularly special if your visit coincides with Loy Krathong, the full moon festival when families float krathongs (20 THB each) on the Mekong. The rainy season (June-October) brings higher river levels and occasional flooding, while the hot season (March-May) can be oppressively humid. Weekdays are quieter, though Mukdahan never feels particularly crowded.",
-        "nl": "Het beste moment om te bezoeken is tijdens het koude seizoen van november tot februari, wanneer de temperaturen aangenaam zijn (18-28°C) en de Mekong kalm is. November is bijzonder als uw bezoek samenvalt met Loy Krathong, het volle maan festival wanneer families krathongs (20 THB elk) op de Mekong laten drijven. Het regenseizoen (juni-oktober) brengt hogere waterstanden en af en toe overstroming, terwijl het hete seizoen (maart-mei) drukkend vochtig kan zijn. Weekdagen zijn rustiger, hoewel Mukdahan zich nooit bijzonder druk voelt."
+        "nl": "Het beste moment om te bezoeken is tijdens het koude seizoen van november tot februari, wanneer de temperaturen aangenaam zijn (18-28°C) en de Mekong kalm is. November is bijzonder als uw bezoek samenvalt met Loy Krathong, het volle maan festival wanneer families krathongs (20 THB elk) op de Mekong laten drijven. Het regenseizoen (juni-oktober) brengt hogere waterstanden en af en toe overstroming, terwijl het hete seizoen (maart-mei) drukkend vochtig kan zijn. Weekdagen zijn rustiger, hoewel Mukdahan zich nooit bijzonder druk voelt.",
+        "ja": "11月〜2月の涼しい季節がベストです。気温が過ごしやすく、メコン川沿いの散歩やアウトドア観光に最適です。3月〜5月は非常に暑くなります。"
       }
     },
     {
       "question": {
         "en": "How long should I spend in Mukdahan?",
-        "nl": "Hoe lang zou ik in Mukdahan moeten doorbrengen?"
+        "nl": "Hoe lang zou ik in Mukdahan moeten doorbrengen?",
+        "ja": "ムクダーハーンの滞在日数は？"
       },
       "answer": {
         "en": "Two to three days is ideal for Mukdahan. Day 1: Visit the Naga Temple and Big Buddha (free shuttle, 100 THB suggested donation). Day 2: Day trip to That Phanom (40km away, about 1 hour by motorcycle or songthaew 40 THB) to see the golden Lao-style stupas, and explore riverside restaurants and bars in evening. Day 3: Relax by the Mekong, visit restaurants like Nut Pob or Thai Kitchen & Ice Cream Jai Jai (meals 150-300 THB), and enjoy sunset at the craft beer tent. Many visitors integrate Mukdahan into a longer Mekong road trip.",
-        "nl": "Twee tot drie dagen is ideaal voor Mukdahan. Dag 1: Bezoek Naga Tempel en Grote Boeddha (gratis shuttlebus, 100 THB aanbevolen donatie). Dag 2: Dagtocht naar That Phanom (40 km weg, ongeveer 1 uur per motorfiets of songthaew 40 THB) om gouden Lao-stijl stupa's te zien, en restaurants en bars aan de rivier verkennen. Dag 3: Ontspan aan de Mekong, bezoek restaurants en geniet van zonsondergang. Veel bezoekers integreren Mukdahan in een langere Mekong-roadtrip."
+        "nl": "Twee tot drie dagen is ideaal voor Mukdahan. Dag 1: Bezoek Naga Tempel en Grote Boeddha (gratis shuttlebus, 100 THB aanbevolen donatie). Dag 2: Dagtocht naar That Phanom (40 km weg, ongeveer 1 uur per motorfiets of songthaew 40 THB) om gouden Lao-stijl stupa's te zien, en restaurants en bars aan de rivier verkennen. Dag 3: Ontspan aan de Mekong, bezoek restaurants en geniet van zonsondergang. Veel bezoekers integreren Mukdahan in een langere Mekong-roadtrip.",
+        "ja": "2〜3日が理想的です。1日目：ナーガ寺院と大仏を見学。2日目：インドシナ市場とメコン川沿い散策。3日目：ムクダーハーン国立公園やラオスへの日帰り旅行。"
       }
     }
   ],
