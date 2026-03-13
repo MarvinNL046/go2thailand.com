@@ -37,7 +37,7 @@ Thailand has been the **budget backpacker** gateway to Southeast Asia for decade
 | How much does street food cost? | **Thai street food** runs 30-70 THB per meal -- see our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) for top dishes |
 | What about ATM fees and money? | **ATM withdrawals** cost 220 THB per transaction; use a Wise card to reduce fees -- read our [ATM & money guide](/practical-info/atm-money/) |
 | When is the cheapest time to visit? | **Shoulder season** (May-June, Sep-Oct) offers the lowest prices on everything -- check our [weather guide](/weather/) for details |
-| Do I need travel insurance? | Yes, **[travel insurance](/travel-insurance/)** is essential and costs far less than a single hospital visit in Thailand |
+| Do I need travel insurance? | Yes, **[travel insurance](/travel-insurance-thailand/)** is essential and costs far less than a single hospital visit in Thailand |
 | How do I get around cheaply? | **Trains and buses** are the cheapest intercity options; see our [transport guide](/transport/) for routes like [Bangkok to Chiang Mai](/transport/bangkok-to-chiang-mai/) |
 
 ## 1. Daily Budget Overview
@@ -147,7 +147,7 @@ Read our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) for d
 - **Songthaew (shared truck):** 20-30 THB per ride in [Chiang Mai](/city/chiang-mai/)
 - **Motorbike taxi:** 20-50 THB for short hops in Bangkok
 - **Grab (ride-hailing app):** Often cheaper than tuk-tuks. A 10-minute ride is typically 50-100 THB.
-- **Scooter rental:** 200-300 THB/day on [islands](/islands/) and in [Chiang Mai](/city/chiang-mai/). Only if you are experienced -- Thai traffic is not forgiving. Make sure your [travel insurance](/travel-insurance/) covers **scooter rental** accidents.
+- **Scooter rental:** 200-300 THB/day on [islands](/islands/) and in [Chiang Mai](/city/chiang-mai/). Only if you are experienced -- Thai traffic is not forgiving. Make sure your [travel insurance](/travel-insurance-thailand/) covers **scooter rental** accidents.
 
 > **Pro Tip:** Never take a tuk-tuk without agreeing on the price first. In [Bangkok](/city/bangkok/), tuk-tuks are often more expensive than a Grab car. They are fun for the experience, but not for your budget. Read our [scams & safety guide](/practical-info/scams-safety/) so you know the common **tourist traps** to avoid.
 
@@ -219,7 +219,7 @@ Here is what a realistic 2-week **backpacking Thailand** trip costs:
 
 This works out to about **1,480 THB ($41) per day**, which is a comfortable **budget backpacker** pace. You could go lower by sticking to shoestring accommodation and cooking some meals, or higher by adding diving courses on [Koh Tao](/islands/koh-tao/) and nicer hotels.
 
-Note: This does not include international flights or **[travel insurance](/travel-insurance/)**, which you should absolutely have. A good **travel insurance** policy costs around $30-50 for a month and covers medical emergencies, theft, and trip cancellations. Do not skip it.
+Note: This does not include international flights or **[travel insurance](/travel-insurance-thailand/)**, which you should absolutely have. A good **travel insurance** policy costs around $30-50 for a month and covers medical emergencies, theft, and trip cancellations. Do not skip it.
 
 ## 9. Top Money-Saving Tips
 
@@ -251,7 +251,7 @@ Thailand remains one of the best-value travel destinations on the planet. With a
 
 Before you go, make sure you have:
 - A valid **[visa](/blog/thailand-visa-guide-2026/)** sorted out (most nationalities get 60 days visa-free)
-- **[Travel insurance](/travel-insurance/)** that covers medical emergencies and **scooter rental**
+- **[Travel insurance](/travel-insurance-thailand/)** that covers medical emergencies and **scooter rental**
 - An **[eSIM](/esim/)** or SIM card plan for staying connected
 - A basic understanding of [Thai money and ATMs](/practical-info/atm-money/)
 - Knowledge of [common scams](/practical-info/scams-safety/) to watch out for

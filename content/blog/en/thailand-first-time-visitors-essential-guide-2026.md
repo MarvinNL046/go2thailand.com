@@ -517,7 +517,7 @@ A classic 2-week itinerary: 3–4 days in [Bangkok](https://go2-thailand.com/cit
 
 ### Do I need travel insurance?
 
-Absolutely. Medical emergencies, flight cancellations, and theft can happen. Travel insurance costs 20–40 USD for 2 weeks and covers evacuation, hospital stays, and lost luggage. It's non-negotiable. Check [travel insurance options](https://go2-thailand.com/travel-insurance/).
+Absolutely. Medical emergencies, flight cancellations, and theft can happen. Travel insurance costs 20–40 USD for 2 weeks and covers evacuation, hospital stays, and lost luggage. It's non-negotiable. Check [travel insurance options](https://go2-thailand.com/travel-insurance-thailand/).
 
 ### What should I pack?
 

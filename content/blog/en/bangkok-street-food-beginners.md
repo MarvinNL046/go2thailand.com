@@ -128,7 +128,7 @@ Having a working phone helps for translation apps and maps -- consider getting a
 - **Stay hydrated** -- **Bangkok is hot** and spicy food dehydrates you. Carry a water bottle, especially during the [hot season](/weather/).
 - **Fresh fruit** -- Pre-cut fruit from stalls is generally safe. **Pineapple**, mango, and watermelon are popular and refreshing.
 
-For broader safety advice including common tourist scams, check our [scams and safety guide](/practical-info/scams-safety/). It is also wise to arrange [travel insurance](/travel-insurance/) before your trip -- stomach issues are rare but having coverage gives peace of mind.
+For broader safety advice including common tourist scams, check our [scams and safety guide](/practical-info/scams-safety/). It is also wise to arrange [travel insurance](/travel-insurance-thailand/) before your trip -- stomach issues are rare but having coverage gives peace of mind.
 
 ## 6. Eating on a Budget
 
@@ -163,6 +163,6 @@ Explore our full [food section](/food/) for dish guides, recipes, and regional r
 
 ## 9. Final Thoughts
 
-**Bangkok street food** is safe, delicious, cheap, and endlessly varied. Do not overthink it. Walk up to a stall, point at something that looks good, and enjoy one of the world's great **culinary traditions** for the price of a coffee back home. With the right [travel insurance](/travel-insurance/) and a sense of adventure, your stomach will thank you.
+**Bangkok street food** is safe, delicious, cheap, and endlessly varied. Do not overthink it. Walk up to a stall, point at something that looks good, and enjoy one of the world's great **culinary traditions** for the price of a coffee back home. With the right [travel insurance](/travel-insurance-thailand/) and a sense of adventure, your stomach will thank you.
 
 Ready to plan your trip? Start with our [Bangkok city guide](/city/bangkok/), figure out the [best time to visit](/blog/best-time-to-visit-thailand/), and explore [practical info](/practical-info/scams-safety/) to make your journey smooth from landing to your last bite of **mango sticky rice**.

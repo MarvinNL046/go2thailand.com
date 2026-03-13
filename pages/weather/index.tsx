@@ -295,7 +295,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
               <p className="text-sm text-gray-600">Get an eSIM for Thailand</p>
             </Link>
             <Link
-              href="/travel-insurance/"
+              href="/travel-insurance-thailand/"
               className="bg-white text-thailand-blue rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all block"
             >
               <div className="text-3xl mb-3"></div>

@@ -292,7 +292,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                     : 'Some visas require travel insurance. Compare the best options.'}
                 </p>
                 <Link
-                  href="/travel-insurance/"
+                  href="/travel-insurance-thailand/"
                   className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-red-700 transition-colors"
                 >
                   {lang === 'nl' ? 'Vergelijk Verzekeringen' : 'Compare Insurance'}
@@ -375,7 +375,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
               <div className="flex flex-wrap justify-center gap-3">
                 <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Booking.com</a>
                 <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Trip.com</a>
-                <Link href="/travel-insurance/" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Insurance</Link>
+                <Link href="/travel-insurance-thailand/" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Insurance</Link>
                 <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">eSIM</a>
                 <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Transport</a>
               </div>

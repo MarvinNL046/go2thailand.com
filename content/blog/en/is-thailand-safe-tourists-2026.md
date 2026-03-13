@@ -35,7 +35,7 @@ Thailand welcomes over 35 million international visitors annually, and the vast 
 | **Is Thailand generally safe?** | Yes, it's one of Southeast Asia's safer destinations. Exercise normal precautions in tourist areas. |
 | **What are the biggest risks?** | Petty theft, drink spiking, motorbike accidents, and tourist scams—not violent crime. |
 | **Which areas are safest?** | [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), and established beach resorts. Avoid border regions and late-night street drinking. |
-| **Do I need travel insurance?** | Absolutely. Medical care is affordable but comprehensive [travel insurance](https://go2-thailand.com/travel-insurance/) protects against emergencies. |
+| **Do I need travel insurance?** | Absolutely. Medical care is affordable but comprehensive [travel insurance](https://go2-thailand.com/travel-insurance-thailand/) protects against emergencies. |
 | **What's the biggest scam?** | Gem scams, overpriced tuk-tuks, and drink spiking in nightlife areas. Always use metered taxis or apps. |
 | **Should I be worried about crime?** | Petty theft is more common than violent crime. Violent incidents involving tourists are rare if you avoid late-night confrontations. |
 | **Is it safe for solo female travelers?** | Yes, but take standard precautions: avoid walking alone very late, don't accept drinks from strangers, trust your instincts. |
@@ -241,7 +241,7 @@ Thailand's healthcare system is excellent—and shockingly affordable. Private h
 - Hospital stay (private, per night): 3,000-10,000 baht ($84-280 USD)
 - Emergency room: 1,000-5,000 baht ($28-140 USD)
 
-**Recommendation:** Get comprehensive [travel insurance](https://go2-thailand.com/travel-insurance/) before arrival. It costs 15-30 USD for two weeks and covers medical evacuation, which can cost 100,000+ baht if needed.
+**Recommendation:** Get comprehensive [travel insurance](https://go2-thailand.com/travel-insurance-thailand/) before arrival. It costs 15-30 USD for two weeks and covers medical evacuation, which can cost 100,000+ baht if needed.
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -465,7 +465,7 @@ Yes, for both men and women. Thousands of solo travelers visit Thailand annually
 
 The key is informed caution, not paranoia. Don't let fear prevent you from exploring this magical country. We've spent years here and keep coming back because Thailand—despite its quirks—is genuinely welcoming and safe for respectful travelers.
 
-Ready to book your trip? Check out our [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), and [island guides](https://go2-thailand.com/islands/) for detailed planning. And don't skip [travel insurance](https://go2-thailand.com/travel-insurance/)—it's the one thing that makes everything else worry-free.
+Ready to book your trip? Check out our [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), and [island guides](https://go2-thailand.com/islands/) for detailed planning. And don't skip [travel insurance](https://go2-thailand.com/travel-insurance-thailand/)—it's the one thing that makes everything else worry-free.
 
 **Have questions about safety in a specific area?** Drop a comment below or reach out to our team. We've been there and can give you the real story.
 

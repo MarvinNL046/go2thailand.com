@@ -439,7 +439,7 @@ Ja, maar het vereist strikt budgetteren. Je zou in eenvoudige slaapzalen moeten 
 Haal Thai Baht op van geldautomaten met je debetkaart — wisselkoersen zijn meestal beter dan in wisselkantoren. Vermijd geldwisseling op luchthavens of in toeristische gebieden. Houd wat USD als backup voor noodgevallen.
 
 ### Heb ik reisverzekering nodig voor Thailand?
-Ja, reisverzekering wordt sterk aanbevolen. Het is betaalbaar ($1–3 USD per dag) en dekt medische noodgevallen, evacuatie en annuleringen van reizen. Controleer [reisverzekeringopties](https://go2-thailand.com/travel-insurance/) voordat je vertrekt.
+Ja, reisverzekering wordt sterk aanbevolen. Het is betaalbaar ($1–3 USD per dag) en dekt medische noodgevallen, evacuatie en annuleringen van reizen. Controleer [reisverzekeringopties](https://go2-thailand.com/travel-insurance-thailand/) voordat je vertrekt.
 
 ### Wat is de beste manier om goedkoop rond Thailand te reizen?
 Gebruik openbaar vervoer in steden (BTS/MRT in Bangkok, songthaews elders), nachtbussen voor lange afstanden en veerponten tussen eilanden. Boek vervoer via 12Go Asia of rechtstreeks op bushaltes in plaats van via toeristische agentschappen.

@@ -129,7 +129,7 @@ const Header = () => {
                       <Link href="/esim/" className={dropdownItemClass}>
                         {t('nav.esim')}
                       </Link>
-                      <Link href="/travel-insurance/" className={dropdownItemClass}>
+                      <Link href="/travel-insurance-thailand/" className={dropdownItemClass}>
                         {t('nav.insurance')}
                       </Link>
                       <Link href="/travel-gear/" className={dropdownItemClass}>
@@ -436,7 +436,7 @@ const Header = () => {
               {t('nav.esim')}
             </Link>
             <Link
-              href="/travel-insurance/"
+              href="/travel-insurance-thailand/"
               className={mobileSubLinkClass}
               onClick={() => setIsMobileMenuOpen(false)}
             >

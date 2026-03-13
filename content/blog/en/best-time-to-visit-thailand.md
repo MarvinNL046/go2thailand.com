@@ -58,7 +58,7 @@ Thailand does not have the four seasons you might be used to. Instead, the year 
 - Lush green landscapes and waterfalls at their best
 - Lowest prices for accommodation and flights -- ideal for **budget travellers**
 - Some **Andaman Sea** islands ([Koh Phi Phi](/islands/koh-phi-phi/), [Koh Lipe](/islands/koh-lipe/)) have reduced ferry services -- check [transport options](/transport/) before booking
-- Consider [travel insurance](/travel-insurance/) for **rainy season** trips, especially if booking ferries and flights
+- Consider [travel insurance](/travel-insurance-thailand/) for **rainy season** trips, especially if booking ferries and flights
 
 ### Cool Season (November - February)
 - The most comfortable weather: **25-32C** with lower humidity
@@ -188,6 +188,6 @@ From late February through April, farmers in northern Thailand and neighbouring 
 
 There is no truly bad time to visit Thailand. **Peak season** (November-February) offers the most predictable weather, but **low season** brings lower prices, fewer crowds, and a more authentic experience. The rain during **monsoon** months is rarely an all-day affair, and a thunderstorm can be one of the most dramatic things to watch from a beachside bar.
 
-No matter when you go, make sure you have the right [travel insurance](/travel-insurance/), a reliable [eSIM](/esim/) for staying connected, and a clear picture of the [visa requirements](/blog/thailand-visa-guide-2026/) for your nationality. Check our [transport guide](/transport/) for getting between destinations, and browse our [practical travel tips](/practical-info/) for everything else you need to know before you land.
+No matter when you go, make sure you have the right [travel insurance](/travel-insurance-thailand/), a reliable [eSIM](/esim/) for staying connected, and a clear picture of the [visa requirements](/blog/thailand-visa-guide-2026/) for your nationality. Check our [transport guide](/transport/) for getting between destinations, and browse our [practical travel tips](/practical-info/) for everything else you need to know before you land.
 
 Start planning your trip with our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) or explore [Thai street food](/food/) to start building your must-eat list. For city-specific advice, dive into our guides for [Bangkok](/city/bangkok/), [Chiang Mai](/city/chiang-mai/), [Phuket](/city/phuket/), and [Krabi](/city/krabi/).

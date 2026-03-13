@@ -537,7 +537,7 @@ visa:
 practical-info:
 - [Practical Info](https://go2-thailand.com/practical-info/)
 - [Thailand Weather](https://go2-thailand.com/weather/)
-- [Travel Insurance](https://go2-thailand.com/travel-insurance/)
+- [Travel Insurance](https://go2-thailand.com/travel-insurance-thailand/)
 - [Travel Gear](https://go2-thailand.com/travel-gear/)
 - [eSIM Thailand](https://go2-thailand.com/esim/)
 

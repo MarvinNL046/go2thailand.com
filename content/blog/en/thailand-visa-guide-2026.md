@@ -171,7 +171,7 @@ If caught at an internal checkpoint (not at departure), the penalties are even m
 - Be wary of scams at busy border crossings -- only pay fees at official windows. Read our [scams & safety guide](/practical-info/scams-safety/) so you know what to watch out for
 
 ### After Clearing Immigration
-Once you are through **immigration**, make sure to sort out [transport from the airport](/transport/) to your accommodation, pick up a local [eSIM](/esim/) if you have not already, and consider arranging [travel insurance](/travel-insurance/) if you have not done so before departure. Our [practical info hub](/practical-info/) covers everything from [ATMs and money](/practical-info/atm-money/) to [health and vaccinations](/practical-info/health-vaccinations/).
+Once you are through **immigration**, make sure to sort out [transport from the airport](/transport/) to your accommodation, pick up a local [eSIM](/esim/) if you have not already, and consider arranging [travel insurance](/travel-insurance-thailand/) if you have not done so before departure. Our [practical info hub](/practical-info/) covers everything from [ATMs and money](/practical-info/atm-money/) to [health and vaccinations](/practical-info/health-vaccinations/).
 
 ## 9. Quick Reference: Which Visa Do You Need?
 

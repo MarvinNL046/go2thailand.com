@@ -356,7 +356,7 @@ export default function TravelSecurityPage() {
               <Link href="/esim/" className="bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-red-700 transition-colors">
                 eSIM Data Plans
               </Link>
-              <Link href="/travel-insurance/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
+              <Link href="/travel-insurance-thailand/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
                 Travel Insurance
               </Link>
               <Link href="/city/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">

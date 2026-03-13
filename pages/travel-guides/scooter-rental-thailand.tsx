@@ -152,7 +152,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
               </div>
 
               <p className="text-center mt-6">
-                <Link href="/travel-insurance/" className="text-thailand-blue hover:underline font-medium">
+                <Link href="/travel-insurance-thailand/" className="text-thailand-blue hover:underline font-medium">
                   Compare travel insurance options with motorcycle coverage →
                 </Link>
               </p>
@@ -309,7 +309,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
                   <p className="text-gray-600 text-sm">Stay connected with the best SIM & eSIM options</p>
                 </div>
               </Link>
-              <Link href="/travel-insurance/" className="group">
+              <Link href="/travel-insurance-thailand/" className="group">
                 <div className="bg-white rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-3">🛡️</div>
                   <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">Travel Insurance</h3>

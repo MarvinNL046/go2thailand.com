@@ -58,7 +58,7 @@ Thailand heeft niet de vier seizoenen die je gewend bent. In plaats daarvan is h
 - Weelderig groen landschap en watervallen op hun mooist
 - Laagste prijzen voor accommodatie en vluchten -- ideaal voor **budgetreizigers**
 - Sommige **Andamanse Zee**-eilanden ([Koh Phi Phi](/islands/koh-phi-phi/), [Koh Lipe](/islands/koh-lipe/)) hebben minder veerbootdiensten -- check de [vervoersopties](/transport/) voordat je boekt
-- Overweeg een [reisverzekering](/travel-insurance/) voor trips in het **regenseizoen**, vooral als je veerboten en vluchten boekt
+- Overweeg een [reisverzekering](/travel-insurance-thailand/) voor trips in het **regenseizoen**, vooral als je veerboten en vluchten boekt
 
 ### Koele Seizoen (november - februari)
 - Het meest comfortabele weer: **25-32 graden** met lagere luchtvochtigheid
@@ -188,6 +188,6 @@ Van eind februari tot april verbranden boeren in Noord-Thailand en buurlanden hu
 
 Er is eigenlijk geen slechte tijd om Thailand te bezoeken. Het **hoogseizoen** (november-februari) biedt het meest voorspelbare weer, maar het **laagseizoen** brengt lagere prijzen, minder drukte en een authentiekere ervaring. De regen tijdens de **moesson**maanden duurt zelden de hele dag, en een tropisch onweer kan een van de meest spectaculaire dingen zijn om te bekijken vanuit een strandbar.
 
-Wanneer je ook gaat, zorg dat je de juiste [reisverzekering](/travel-insurance/) hebt, een betrouwbare [eSIM](/esim/) om verbonden te blijven en een duidelijk beeld van de [visumvereisten](/blog/thailand-visa-guide-2026/) voor jouw nationaliteit. Check onze [vervoersgids](/transport/) voor het reizen tussen bestemmingen en bekijk onze [praktische reistips](/practical-info/) voor alles wat je verder moet weten voordat je landt.
+Wanneer je ook gaat, zorg dat je de juiste [reisverzekering](/travel-insurance-thailand/) hebt, een betrouwbare [eSIM](/esim/) om verbonden te blijven en een duidelijk beeld van de [visumvereisten](/blog/thailand-visa-guide-2026/) voor jouw nationaliteit. Check onze [vervoersgids](/transport/) voor het reizen tussen bestemmingen en bekijk onze [praktische reistips](/practical-info/) voor alles wat je verder moet weten voordat je landt.
 
 Begin je reis te plannen met onze [Thailand eilandhop-gids](/blog/thailand-island-hopping-guide/) of ontdek [Thaise streetfood](/food/) om alvast je must-eat-lijst samen te stellen. Voor stadsspecifiek advies, duik in onze gidsen voor [Bangkok](/city/bangkok/), [Chiang Mai](/city/chiang-mai/), [Phuket](/city/phuket/) en [Krabi](/city/krabi/).

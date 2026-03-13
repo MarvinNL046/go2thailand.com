@@ -128,7 +128,7 @@ Een werkende telefoon is handig voor vertaalapps en kaarten -- overweeg om een [
 - **Blijf gehydrateerd** -- **Bangkok is heet** en pittig eten droogt je uit. Neem een waterfles mee, vooral tijdens het [hete seizoen](/weather/).
 - **Vers fruit** -- Voorgesneden fruit van kraampjes is over het algemeen veilig. **Ananas**, mango en watermeloen zijn populair en verfrissend.
 
-Bekijk voor bredere veiligheidstips inclusief veelvoorkomende toeristenzwendel onze [zwendel- en veiligheidsgids](/practical-info/scams-safety/). Het is ook verstandig om een [reisverzekering](/travel-insurance/) af te sluiten voor je vertrek -- maagklachten zijn zeldzaam, maar een dekking geeft gemoedsrust.
+Bekijk voor bredere veiligheidstips inclusief veelvoorkomende toeristenzwendel onze [zwendel- en veiligheidsgids](/practical-info/scams-safety/). Het is ook verstandig om een [reisverzekering](/travel-insurance-thailand/) af te sluiten voor je vertrek -- maagklachten zijn zeldzaam, maar een dekking geeft gemoedsrust.
 
 ## 6. Eten op een Budget
 
@@ -163,6 +163,6 @@ Ontdek onze volledige [food-sectie](/food/) voor gerechteninfo, recepten en regi
 
 ## 9. Tot Slot
 
-**Bangkok street food** is veilig, heerlijk, goedkoop en eindeloos gevarieerd. Denk er niet te lang over na. Loop naar een kraampje, wijs iets aan dat er lekker uitziet en geniet van een van de grootste **culinaire tradities** ter wereld -- voor de prijs van een kopje koffie thuis. Met de juiste [reisverzekering](/travel-insurance/) en een gezonde dosis avonturierszin zal je maag je dankbaar zijn.
+**Bangkok street food** is veilig, heerlijk, goedkoop en eindeloos gevarieerd. Denk er niet te lang over na. Loop naar een kraampje, wijs iets aan dat er lekker uitziet en geniet van een van de grootste **culinaire tradities** ter wereld -- voor de prijs van een kopje koffie thuis. Met de juiste [reisverzekering](/travel-insurance-thailand/) en een gezonde dosis avonturierszin zal je maag je dankbaar zijn.
 
 Klaar om je reis te plannen? Begin met onze [Bangkok stadsgids](/city/bangkok/), bepaal het [beste moment om te gaan](/blog/best-time-to-visit-thailand/) en bekijk de [praktische info](/practical-info/scams-safety/) om je reis soepel te laten verlopen van landing tot je laatste hap **mango sticky rice**.

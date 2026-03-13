@@ -37,7 +37,7 @@ Thailand telt meer dan 1.400 eilanden, verspreid over de **Golf van Thailand** e
 | Wanneer is de beste tijd om te gaan? | **December tot april** werkt voor de meeste eilanden; bekijk de [Thailand weergids](/weather/) voor detail per maand |
 | Hoeveel kost eilandhoppen? | Budgetreizigers besteden **700-1.750 THB per dag**; lees onze [backpacker budgetgids](/blog/thailand-budget-backpacker-guide/) voor bespaartips |
 | Heb ik een visum nodig? | De meeste nationaliteiten krijgen 60 dagen visumvrij -- zie de [Thailand visumgids 2026](/blog/thailand-visa-guide-2026/) voor alle details |
-| Is een reisverzekering noodzakelijk? | Ja -- **duiken**, **snorkelen** en boottransfers vereisen goede dekking; vergelijk opties in onze [reisverzekeringsgids](/travel-insurance/) |
+| Is een reisverzekering noodzakelijk? | Ja -- **duiken**, **snorkelen** en boottransfers vereisen goede dekking; vergelijk opties in onze [reisverzekeringsgids](/travel-insurance-thailand/) |
 | Hoe blijf ik verbonden op de eilanden? | Koop een **Thaise eSIM** voordat je vertrekt voor data op elk eiland -- zie onze [eSIM-gids](/esim/) |
 
 ## 1. De Twee Belangrijkste Eilandhoppen-Routes
@@ -133,7 +133,7 @@ Licht reizen is cruciaal wanneer je van eiland naar eiland springt. **Veerboten*
 
 - **Check de [weersomstandigheden](/weather/)** voordat je boten boekt. Als de zee ruw is, stel je reis dan uit -- vooral tijdens het **moessonseizoen**.
 - **Draag altijd een reddingsvest** op elke boot, ook als andere passagiers het overslaan.
-- **[Reisverzekering](/travel-insurance/)** is een must. Zorg ervoor dat je polis **duiken**, **snorkelen**, wateractiviteiten en medische evacuatie van eilanden dekt. Lees onze [reisverzekeringsgids](/travel-insurance/) om opties te vergelijken.
+- **[Reisverzekering](/travel-insurance-thailand/)** is een must. Zorg ervoor dat je polis **duiken**, **snorkelen**, wateractiviteiten en medische evacuatie van eilanden dekt. Lees onze [reisverzekeringsgids](/travel-insurance-thailand/) om opties te vergelijken.
 - **Let op kwallen** tijdens het regenseizoen, vooral bij de Golfeilanden tussen juli en oktober.
 - Houd je [visum](/visa/)-geldigheid in de gaten als je een langere **eilandhoppen**-route plant -- bekijk de [Thailand visumgids 2026](/blog/thailand-visa-guide-2026/) voor verlengingsopties.
 - Bewaar voor noodgevallen en [praktische reisinformatie](/practical-info/) de lokale alarmnummers en het contactadres van je ambassade voordat je naar afgelegen eilanden vertrekt.
@@ -157,4 +157,4 @@ Dit reisschema werkt het best in **januari tot maart**, wanneer beide kusten dro
 
 **Eilandhoppen** in Thailand is een van de mooiste reiservaringen die Zuidoost-Azie te bieden heeft. Of je nu een **backpacker** bent die in bamboehutjes slaapt of een stel dat uitkijkt naar luxe strandresorts -- er is een route en budget dat bij je past. Begin met het kiezen van je kust, check het [seizoen](/weather/) en boek je eerste **veerboot**. De rest komt vanzelf.
 
-Bekijk al onze [eilandgidsen](/islands/) om je route te plannen, of lees onze [Thailand visumgids](/blog/thailand-visa-guide-2026/) om te zorgen dat je papierwerk in orde is. Vergeet niet om een [reisverzekering](/travel-insurance/) af te sluiten die wateractiviteiten dekt, koop een [Thaise eSIM](/esim/) voor connectiviteit, en bekijk de [vervoerspagina](/transport/) voor de meest actuele veerbootdienstregelingen.
+Bekijk al onze [eilandgidsen](/islands/) om je route te plannen, of lees onze [Thailand visumgids](/blog/thailand-visa-guide-2026/) om te zorgen dat je papierwerk in orde is. Vergeet niet om een [reisverzekering](/travel-insurance-thailand/) af te sluiten die wateractiviteiten dekt, koop een [Thaise eSIM](/esim/) voor connectiviteit, en bekijk de [vervoerspagina](/transport/) voor de meest actuele veerbootdienstregelingen.

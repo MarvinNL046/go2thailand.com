@@ -594,7 +594,7 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     Tours & Activities (Klook)
                   </a>
                   <Link
-                    href="/travel-insurance/"
+                    href="/travel-insurance-thailand/"
                     className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
                   >
                     Travel Insurance

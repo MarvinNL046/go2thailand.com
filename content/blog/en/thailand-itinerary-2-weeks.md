@@ -47,7 +47,7 @@ Before you book a single flight, handle the administrative basics. Most Western 
 
 Upon arrival, you'll be required to complete the Thailand Digital Arrival Card (TDAC) online at least 3 days before your flight. This replaced the old TM.6 form and takes about 5 minutes. You'll receive a QR code to scan at immigration—no paper required.
 
-**Travel insurance is non-negotiable.** Thailand has excellent hospitals, but costs add up fast. A decent policy covering medical evacuation, trip cancellation, and lost baggage runs ฿3,000–5,000 ($85–140 USD) for two weeks. We recommend checking [travel insurance options](https://go2-thailand.com/travel-insurance/) before departure.
+**Travel insurance is non-negotiable.** Thailand has excellent hospitals, but costs add up fast. A decent policy covering medical evacuation, trip cancellation, and lost baggage runs ฿3,000–5,000 ($85–140 USD) for two weeks. We recommend checking [travel insurance options](https://go2-thailand.com/travel-insurance-thailand/) before departure.
 
 > **Did You Know?** Thailand receives over 40 million international visitors annually, making it Southeast Asia's most visited country.
 >

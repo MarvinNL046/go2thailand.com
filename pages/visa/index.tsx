@@ -210,7 +210,7 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
                 >
                   Trip.com
                 </a>
-                <Link href="/travel-insurance/" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">
+                <Link href="/travel-insurance-thailand/" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">
                   Travel Insurance
                 </Link>
                 <a

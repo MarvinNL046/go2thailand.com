@@ -273,7 +273,7 @@ While **Songkran** is generally safe, the massive crowds and water activities pr
 
 ### Travel Insurance
 
-We strongly recommend [travel insurance](https://go2-thailand.com/travel-insurance/) covering medical emergencies, trip cancellation, and theft. Songkran's crowds and water activities increase accident risk.
+We strongly recommend [travel insurance](https://go2-thailand.com/travel-insurance-thailand/) covering medical emergencies, trip cancellation, and theft. Songkran's crowds and water activities increase accident risk.
 
 <div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:12px;">

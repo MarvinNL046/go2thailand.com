@@ -2,6 +2,11 @@ import Head from 'next/head';
 import { useRouter } from 'next/router';
 
 const SITE_URL = 'https://go2-thailand.com';
+const CANONICAL_PATH_MAP: Record<string, string> = {
+  '/travel-insurance': '/travel-insurance-thailand',
+  '/travel-insurance/': '/travel-insurance-thailand',
+  '/travel-insurance-thailand/': '/travel-insurance-thailand',
+};
 
 // Map Next.js locale codes to hreflang language codes
 const LOCALE_TO_HREFLANG: Record<string, string> = {
@@ -23,11 +28,12 @@ export default function Hreflang() {
 
   // Remove query string and hash from path
   const cleanPath = asPath.split('?')[0].split('#')[0];
+  const seoPath = CANONICAL_PATH_MAP[cleanPath] || cleanPath;
 
   // Determine active locales based on page type
   // Compare pages only have EN + NL content; transport route pages only EN
-  const isComparePage = cleanPath.startsWith('/compare/') && cleanPath !== '/compare/';
-  const isTransportRoute = cleanPath.startsWith('/transport/') && cleanPath !== '/transport/';
+  const isComparePage = seoPath.startsWith('/compare/') && seoPath !== '/compare/';
+  const isTransportRoute = seoPath.startsWith('/transport/') && seoPath !== '/transport/';
 
   let activeLocales = locales;
   if (isComparePage) {
@@ -38,8 +44,8 @@ export default function Hreflang() {
 
   const canonicalUrl =
     currentLocale === 'en'
-      ? `${SITE_URL}${cleanPath}`
-      : `${SITE_URL}/${currentLocale}${cleanPath}`;
+      ? `${SITE_URL}${seoPath}`
+      : `${SITE_URL}/${currentLocale}${seoPath}`;
 
   return (
     <Head>
@@ -47,8 +53,8 @@ export default function Hreflang() {
         const hreflang = LOCALE_TO_HREFLANG[locale] || locale;
         const href =
           locale === 'en'
-            ? `${SITE_URL}${cleanPath}`
-            : `${SITE_URL}/${locale}${cleanPath}`;
+            ? `${SITE_URL}${seoPath}`
+            : `${SITE_URL}/${locale}${seoPath}`;
 
         return (
           <link
@@ -60,7 +66,7 @@ export default function Hreflang() {
         );
       })}
       {/* x-default points to the English (default) version */}
-      <link rel="alternate" hrefLang="x-default" href={`${SITE_URL}${cleanPath}`} />
+      <link rel="alternate" hrefLang="x-default" href={`${SITE_URL}${seoPath}`} />
       {/* Canonical always points to current locale version */}
       <link key="canonical" rel="canonical" href={canonicalUrl} />
       {/* Open Graph defaults - pages can override these with their own Head tags */}

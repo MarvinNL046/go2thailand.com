@@ -580,7 +580,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   try {
     // Configure web-push
     webpush.setVapidDetails(
-      'mailto:info@go2-thailand.com',
+      'mailto:hello@go2-thailand.com',
       process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY!,
       process.env.VAPID_PRIVATE_KEY!
     );

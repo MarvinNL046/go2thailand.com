@@ -311,7 +311,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
                   <p className="text-gray-600 text-sm">Stay connected with affordable data plans. No physical SIM needed.</p>
                 </div>
               </Link>
-              <Link href="/travel-insurance/" className="group">
+              <Link href="/travel-insurance-thailand/" className="group">
                 <div className="bg-white rounded-2xl shadow-md p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-4"></div>
                   <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">Travel Insurance</h3>

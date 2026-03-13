@@ -138,7 +138,7 @@ export default function PracticalInfoIndexPage({ items }: PracticalInfoPageProps
               <div className="flex flex-wrap justify-center gap-3">
                 <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-surface-cream transition-colors">Booking.com</a>
                 <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-surface-cream transition-colors">Trip.com</a>
-                <Link href="/travel-insurance/" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-surface-cream transition-colors">Insurance</Link>
+                <Link href="/travel-insurance-thailand/" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-surface-cream transition-colors">Insurance</Link>
                 <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-surface-cream transition-colors">eSIM</a>
               </div>
             </div>

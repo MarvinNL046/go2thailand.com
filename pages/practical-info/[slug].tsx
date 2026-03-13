@@ -197,7 +197,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                     ? 'Bescherm jezelf op reis. Vergelijk de beste reisverzekeringen.'
                     : 'Protect yourself while traveling. Compare the best travel insurance.'}
                 </p>
-                <Link href="/travel-insurance/" className="block bg-white text-thailand-blue text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
+                <Link href="/travel-insurance-thailand/" className="block bg-white text-thailand-blue text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
                   {lang === 'nl' ? 'Vergelijk Nu' : 'Compare Now'}
                 </Link>
               </div>

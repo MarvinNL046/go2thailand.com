@@ -458,7 +458,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                   </Link>
                 </li>
                 <li>
-                  <Link href="/travel-insurance" className="text-thailand-red hover:text-thailand-red-600">
+                  <Link href="/travel-insurance-thailand/" className="text-thailand-red hover:text-thailand-red-600">
                     Travel Insurance
                   </Link>
                 </li>

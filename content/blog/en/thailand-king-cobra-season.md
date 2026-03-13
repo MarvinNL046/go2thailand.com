@@ -439,4 +439,4 @@ Yes, strongly recommended. Ensure your policy covers adventure activities and me
 
 Whether you're a serious herpetologist or a curious traveler seeking adventure, Thailand's cobra season delivers. Plan ahead, pack smart, respect the snakes, and embrace the experience. For more seasonal travel inspiration, explore our [Thailand seasonal travel guides](https://go2thailand.com/blog/category/seasonal/) and discover what makes each season special.
 
-**Ready to plan your king cobra adventure?** Start by reviewing our [Thailand visa requirements](https://go2thailand.com/visa/) and [travel insurance options](https://go2thailand.com/travel-insurance/) to ensure a smooth journey.
+**Ready to plan your king cobra adventure?** Start by reviewing our [Thailand visa requirements](https://go2thailand.com/visa/) and [travel insurance options](https://go2-thailand.com/travel-insurance-thailand/) to ensure a smooth journey.

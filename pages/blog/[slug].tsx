@@ -421,7 +421,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                   <p className="text-sm opacity-90 mb-4">
                     Protect yourself while traveling. Compare the best travel insurance.
                   </p>
-                  <Link href="/travel-insurance/" className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
+                  <Link href="/travel-insurance-thailand/" className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
                     Compare Now
                   </Link>
                 </div>

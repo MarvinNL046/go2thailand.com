@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-08T14:23:38.317Z",
+    "generated_at": "2026-03-08T18:57:53.728Z",
     "city_count": 33,
     "data_version": "1.0.0",
     "source_hashes": {
@@ -9,39 +9,39 @@
       "regions": "2e23cfc4f090",
       "nomad_enrichment": "95daf32a040f",
       "safety_enrichment": "503f4c44942b",
-      "city:ayutthaya": "ec7e3415aec2",
-      "city:bangkok": "b73fccdc4f50",
-      "city:bueng-kan": "4b14aed7ffaf",
-      "city:chanthaburi": "000de51e7b7a",
-      "city:chiang-khan": "96f0bd44d55b",
-      "city:chiang-mai": "5802c6e31cf0",
-      "city:chiang-rai": "9891bd018be5",
-      "city:chumphon": "8a09e8eab93a",
-      "city:hat-yai": "d0fd63a6079f",
-      "city:hua-hin": "d8973081cfd6",
-      "city:kanchanaburi": "07152fdf1b9d",
-      "city:khon-kaen": "c03af55f2707",
-      "city:koh-samui": "2c0f04500c71",
-      "city:krabi": "951b7155578a",
-      "city:lampang": "18a78eafad6b",
-      "city:lopburi": "693cd5d5216a",
-      "city:mae-hong-son": "74b9c42081cf",
-      "city:mukdahan": "084da4e50870",
-      "city:nakhon-phanom": "7fef9bea5aad",
-      "city:nakhon-ratchasima": "4c63ae4a9421",
-      "city:nakhon-si-thammarat": "85dba16bde8e",
-      "city:nong-khai": "10428a776213",
-      "city:pai": "83ec08988174",
-      "city:pattaya": "127d2a5f4369",
-      "city:phitsanulok": "80fcc5e45af5",
-      "city:phuket": "1743bed90f90",
-      "city:rayong": "f6586af852e6",
-      "city:sukhothai": "6efeba5e3617",
-      "city:surat-thani": "027e9ed235bf",
-      "city:trang": "d71f7e12f021",
-      "city:trat": "d5b688ea8d5e",
-      "city:ubon-ratchathani": "f89f5f978aa7",
-      "city:udon-thani": "52c29fad3d92"
+      "city:ayutthaya": "b8e3286037cc",
+      "city:bangkok": "c04182358181",
+      "city:bueng-kan": "c902686f6614",
+      "city:chanthaburi": "04e8f99b3d0e",
+      "city:chiang-khan": "377db93b09be",
+      "city:chiang-mai": "1bf91d6c3ef1",
+      "city:chiang-rai": "c757452684b6",
+      "city:chumphon": "f6073279b397",
+      "city:hat-yai": "f17183789037",
+      "city:hua-hin": "289bf369d4e8",
+      "city:kanchanaburi": "3913c8de4f9c",
+      "city:khon-kaen": "b0d02f312833",
+      "city:koh-samui": "fa37e14d8b0d",
+      "city:krabi": "dca24f17b4dc",
+      "city:lampang": "bb817ee135bd",
+      "city:lopburi": "569b189e4a3a",
+      "city:mae-hong-son": "8059ac1ad328",
+      "city:mukdahan": "4a9b9caeb89d",
+      "city:nakhon-phanom": "9ede575e390a",
+      "city:nakhon-ratchasima": "4f5495300714",
+      "city:nakhon-si-thammarat": "217b132b5b0f",
+      "city:nong-khai": "82a90b1a74a7",
+      "city:pai": "efb61ba36e18",
+      "city:pattaya": "320d72b72166",
+      "city:phitsanulok": "c32a9774d5f4",
+      "city:phuket": "a7b2c3216b3f",
+      "city:rayong": "ff079b32c44e",
+      "city:sukhothai": "dc6b1c4800ed",
+      "city:surat-thani": "ee63a3feaa06",
+      "city:trang": "8c0ad88b4717",
+      "city:trat": "6b571f90a961",
+      "city:ubon-ratchathani": "535051cad6df",
+      "city:udon-thani": "ec0ac79abfc8"
     },
     "weather_coverage": 10,
     "transport_routes_count": 245,
@@ -68,7 +68,7 @@
         "lat": 14.3532,
         "lng": 100.5689
       },
-      "population": 52000,
+      "population": 75200,
       "scores": {
         "budget_score": 0.5,
         "weather_score": 0.626,
@@ -569,7 +569,7 @@
         "lat": 12.6113,
         "lng": 102.1032
       },
-      "population": 75000,
+      "population": 35897,
       "scores": {
         "budget_score": 0.75,
         "weather_score": null,
@@ -792,7 +792,7 @@
         "lat": 18.7883,
         "lng": 98.9853
       },
-      "population": 127000,
+      "population": 1100000,
       "scores": {
         "budget_score": 0.5,
         "weather_score": 0.647,
@@ -990,7 +990,7 @@
         "lat": 19.9105,
         "lng": 99.8406
       },
-      "population": 200000,
+      "population": 75847,
       "scores": {
         "budget_score": 0.5,
         "weather_score": 0.618,
@@ -1599,7 +1599,7 @@
         "lat": 14.0223,
         "lng": 99.5328
       },
-      "population": 63000,
+      "population": 31242,
       "scores": {
         "budget_score": 0.65,
         "weather_score": null,
@@ -2790,7 +2790,7 @@
         "lat": 14.9799,
         "lng": 102.0978
       },
-      "population": 460000,
+      "population": 461000,
       "scores": {
         "budget_score": 0.69,
         "weather_score": null,
@@ -3020,7 +3020,7 @@
         "lat": 17.8783,
         "lng": 102.745
       },
-      "population": 80000,
+      "population": 47000,
       "scores": {
         "budget_score": 0.76,
         "weather_score": null,
@@ -4411,7 +4411,7 @@
         "lat": 15.2287,
         "lng": 104.8564
       },
-      "population": 190000,
+      "population": 191000,
       "scores": {
         "budget_score": 0.75,
         "weather_score": null,

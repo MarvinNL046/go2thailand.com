@@ -37,7 +37,7 @@ Thailand is al decennialang de **budget backpacker** poort naar Zuidoost-Azie, e
 | Hoeveel kost street food? | **Thais street food** kost 30-70 THB per maaltijd -- bekijk onze [Bangkok street food-gids](/blog/bangkok-street-food-beginners/) voor de beste gerechten |
 | Hoe zit het met pinkosten en geld? | **Pinautomaten** rekenen 220 THB per transactie; gebruik een Wise-kaart om kosten te beperken -- lees onze [pinautomaten- & geldgids](/practical-info/atm-money/) |
 | Wanneer is het goedkoopst om te gaan? | Het **tussenseizoen** (mei-juni, sep-okt) biedt de laagste prijzen op alles -- bekijk onze [weergids](/weather/) voor details |
-| Heb ik een reisverzekering nodig? | Ja, een **[reisverzekering](/travel-insurance/)** is essentieel en kost veel minder dan een enkel ziekenhuisbezoek in Thailand |
+| Heb ik een reisverzekering nodig? | Ja, een **[reisverzekering](/travel-insurance-thailand/)** is essentieel en kost veel minder dan een enkel ziekenhuisbezoek in Thailand |
 | Hoe reis ik goedkoop door Thailand? | **Treinen en bussen** zijn de goedkoopste opties tussen steden; bekijk onze [vervoersgids](/transport/) voor routes zoals [Bangkok naar Chiang Mai](/transport/bangkok-to-chiang-mai/) |
 
 ## 1. Dagbudget Overzicht
@@ -147,7 +147,7 @@ Lees onze [Bangkok street food-gids](/blog/bangkok-street-food-beginners/) voor 
 - **Songthaew (gedeelde truck):** 20-30 THB per rit in [Chiang Mai](/city/chiang-mai/)
 - **Motortaxi:** 20-50 THB voor korte ritten in Bangkok
 - **Grab (taxi-app):** Vaak goedkoper dan tuk-tuks. Een rit van 10 minuten kost meestal 50-100 THB.
-- **Scooter huren:** 200-300 THB/dag op [eilanden](/islands/) en in [Chiang Mai](/city/chiang-mai/). Alleen als je ervaren bent -- Thais verkeer is niet vergevingsgezind. Zorg dat je **[reisverzekering](/travel-insurance/)** ongelukken met een **huurscooter** dekt.
+- **Scooter huren:** 200-300 THB/dag op [eilanden](/islands/) en in [Chiang Mai](/city/chiang-mai/). Alleen als je ervaren bent -- Thais verkeer is niet vergevingsgezind. Zorg dat je **[reisverzekering](/travel-insurance-thailand/)** ongelukken met een **huurscooter** dekt.
 
 > **Pro Tip:** Neem nooit een tuk-tuk zonder vooraf een prijs af te spreken. In [Bangkok](/city/bangkok/) zijn tuk-tuks vaak duurder dan een Grab-auto. Ze zijn leuk voor de ervaring, maar niet voor je budget. Lees onze [oplichting- & veiligheidsgids](/practical-info/scams-safety/) zodat je de veelvoorkomende **toeristenvallen** kent.
 
@@ -219,7 +219,7 @@ Dit is wat een realistische **backpackreis van twee weken** door Thailand kost:
 
 Dat komt neer op zo'n **1.480 THB (40 euro) per dag**, wat een comfortabel **budget backpacker** tempo is. Je kunt lager gaan door nog zuiniger op accommodatie te zijn en af en toe zelf te koken, of hoger door duikcursussen op [Koh Tao](/islands/koh-tao/) en mooiere hotels toe te voegen.
 
-Let op: dit is exclusief internationale vluchten en **[reisverzekering](/travel-insurance/)**, die je absoluut moet hebben. Een goede **reisverzekering** kost rond de 25-45 euro per maand en dekt medische noodgevallen, diefstal en annuleringen. Sla dit niet over.
+Let op: dit is exclusief internationale vluchten en **[reisverzekering](/travel-insurance-thailand/)**, die je absoluut moet hebben. Een goede **reisverzekering** kost rond de 25-45 euro per maand en dekt medische noodgevallen, diefstal en annuleringen. Sla dit niet over.
 
 ## 9. Top Bespaartips
 
@@ -251,7 +251,7 @@ Thailand blijft een van de bestbetaalbare reisbestemmingen ter wereld. Met een *
 
 Zorg voordat je vertrekt dat je het volgende geregeld hebt:
 - Een geldig **[visum](/blog/thailand-visa-guide-2026/)** (de meeste nationaliteiten krijgen 60 dagen visumvrij)
-- Een **[reisverzekering](/travel-insurance/)** die medische noodgevallen en **huurscooter**ongelukken dekt
+- Een **[reisverzekering](/travel-insurance-thailand/)** die medische noodgevallen en **huurscooter**ongelukken dekt
 - Een **[eSIM](/esim/)** of simkaartplan om verbonden te blijven
 - Basiskennis van [Thais geld en pinautomaten](/practical-info/atm-money/)
 - Kennis van [veelvoorkomende oplichtingstrucs](/practical-info/scams-safety/) om op te letten

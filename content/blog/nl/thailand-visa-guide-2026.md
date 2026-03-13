@@ -171,7 +171,7 @@ Als je wordt betrapt bij een interne controle (niet bij vertrek), zijn de straff
 - Wees op je hoede voor oplichting bij drukke grensovergangen -- betaal alleen kosten bij officiele loketten. Lees onze [oplichting & veiligheidsgids](/practical-info/scams-safety/) zodat je weet waar je op moet letten
 
 ### Na de Immigratiecontrole
-Zodra je door de **immigratie** bent, regel dan [vervoer vanaf de luchthaven](/transport/) naar je accommodatie, haal een lokale [eSIM](/esim/) op als je dat nog niet hebt gedaan, en overweeg een [reisverzekering](/travel-insurance/) af te sluiten als je dat voor vertrek nog niet had geregeld. Onze [praktische info hub](/practical-info/) behandelt alles van [geldautomaten en geld](/practical-info/atm-money/) tot [gezondheid en vaccinaties](/practical-info/health-vaccinations/).
+Zodra je door de **immigratie** bent, regel dan [vervoer vanaf de luchthaven](/transport/) naar je accommodatie, haal een lokale [eSIM](/esim/) op als je dat nog niet hebt gedaan, en overweeg een [reisverzekering](/travel-insurance-thailand/) af te sluiten als je dat voor vertrek nog niet had geregeld. Onze [praktische info hub](/practical-info/) behandelt alles van [geldautomaten en geld](/practical-info/atm-money/) tot [gezondheid en vaccinaties](/practical-info/health-vaccinations/).
 
 ## 9. Snel Overzicht: Welk Visum Heb Jij Nodig?
 

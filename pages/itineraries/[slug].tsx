@@ -876,7 +876,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                     <p className="text-sm opacity-90 mb-4">
                       Protect yourself while traveling Thailand. Compare the best travel insurance.
                     </p>
-                    <Link href="/travel-insurance/" className="block bg-white text-thailand-blue text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
+                    <Link href="/travel-insurance-thailand/" className="block bg-white text-thailand-blue text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
                       Compare Now
                     </Link>
                   </div>
