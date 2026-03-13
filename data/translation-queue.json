@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-13",
   "stats": {
     "total": 1504,
-    "completed": 1009
+    "completed": 1010
   },
   "queue": [
     {
@@ -8088,14 +8088,15 @@
       "type": "top10",
       "file": "data/top10/nong-khai-restaurants.json",
       "locale": "ja",
-      "status": "in_progress",
-      "priority": 14
+      "status": "completed",
+      "priority": 14,
+      "completedAt": "2026-03-13"
     },
     {
       "type": "top10",
       "file": "data/top10/pai-attractions.json",
       "locale": "ja",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 14
     },
     {
