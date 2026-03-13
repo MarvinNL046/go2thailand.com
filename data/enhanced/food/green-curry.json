@@ -4,14 +4,16 @@
   "name": {
     "en": "Green Curry",
     "nl": "Groene Curry",
-    "thai": "แกงเขียวหวาน"
+    "thai": "แกงเขียวหวาน",
+    "ja": "グリーンカレー"
   },
   "category": "curry",
   "region": "central",
   "spice_level": "hot",
   "description": {
     "en": "Spicy green curry with coconut milk Thai eggplant and basil",
-    "nl": "Pittige groene curry met kokosmelk Thaise aubergine en basilicum"
+    "nl": "Pittige groene curry met kokosmelk Thaise aubergine en basilicum",
+    "ja": "ココナッツミルク、タイなす、バジルを使ったスパイシーなグリーンカレー"
   },
   "ingredients": [
     "green curry paste",
@@ -32,11 +34,13 @@
   "seo": {
     "metaTitle": {
       "en": "Green Curry Recipe | Authentic Thai curry",
-      "nl": "Groene Curry Recept | Authentieke Thaise curry"
+      "nl": "Groene Curry Recept | Authentieke Thaise curry",
+      "ja": "グリーンカレーのレシピ | 本格タイカレー"
     },
     "metaDescription": {
       "en": "Learn about Green Curry (แกงเขียวหวาน) - Spicy green curry with coconut milk Thai eggplant and basil...",
-      "nl": "Leer over Groene Curry (แกงเขียวหวาน) - Pittige groene curry met kokosmelk Thaise aubergine en basilicum..."
+      "nl": "Leer over Groene Curry (แกงเขียวหวาน) - Pittige groene curry met kokosmelk Thaise aubergine en basilicum...",
+      "ja": "グリーンカレー（แกงเขียวหวาน）について — ココナッツミルク、タイなす、バジルを使ったタイを代表するスパイシーカレー。"
     }
   },
   "tags": [
