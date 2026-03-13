@@ -3,13 +3,15 @@
   "slug": "pai",
   "name": {
     "en": "Pai",
-    "nl": "Pai"
+    "nl": "Pai",
+    "ja": "パーイ"
   },
   "region": "Northern",
   "province": "Mae Hong Son",
   "description": {
     "en": "A bohemian mountain town nestled in a valley surrounded by misty peaks, Pai is the ultimate backpacker paradise in northern Thailand. Known for its laid-back hippie culture, stunning canyon viewpoints, hot springs, and vibrant walking street night market.",
-    "nl": "Een bohemien bergstadje genesteld in een vallei omringd door mistige bergtoppen, Pai is het ultieme backpackersparadijs in Noord-Thailand. Bekend om zijn relaxte hippiecultuur, adembenemende canyonuitzichten, warmwaterbronnen en de levendige walking street nachtmarkt."
+    "nl": "Een bohemien bergstadje genesteld in een vallei omringd door mistige bergtoppen, Pai is het ultieme backpackersparadijs in Noord-Thailand. Bekend om zijn relaxte hippiecultuur, adembenemende canyonuitzichten, warmwaterbronnen en de levendige walking street nachtmarkt.",
+    "ja": "霧に包まれた山々に囲まれた谷間のボヘミアンな山間の街パーイは、バックパッカーの聖地であり、ヨガ、温泉、ナイトマーケット、壮大な自然が楽しめます。"
   },
   "population": 2200,
   "highlights": [
@@ -26,25 +28,30 @@
   "seo": {
     "metaTitle": {
       "en": "Discover Pai | What to do in Pai?",
-      "nl": "Ontdek Pai | Wat te doen in Pai?"
+      "nl": "Ontdek Pai | Wat te doen in Pai?",
+      "ja": "パーイを満喫 | パーイの観光・見どころガイド"
     },
     "metaDescription": {
       "en": "Your guide to Pai, Thailand – tips, highlights, food, hotels and the best mountain scenery.",
-      "nl": "Jouw gids voor Pai, Thailand – tips, highlights, eten, hotels en het mooiste berglandschap."
+      "nl": "Jouw gids voor Pai, Thailand – tips, highlights, eten, hotels en het mooiste berglandschap.",
+      "ja": "タイ・パーイの旅行ガイド — おすすめスポット、グルメ、ホテル、山間の絶景情報をご紹介。"
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Pai",
-      "nl": "Beste restaurants en streetfood in Pai"
+      "nl": "Beste restaurants en streetfood in Pai",
+      "ja": "パーイのおすすめレストラン＆ストリートフード"
     },
     "hotels": {
       "en": "Top hotels in Pai | Tips & deals",
-      "nl": "Beste hotels in Pai | Tips & aanbiedingen"
+      "nl": "Beste hotels in Pai | Tips & aanbiedingen",
+      "ja": "パーイのおすすめホテル｜お得な情報＆アドバイス"
     },
     "attractions": {
       "en": "Top attractions in Pai",
-      "nl": "Top bezienswaardigheden in Pai"
+      "nl": "Top bezienswaardigheden in Pai",
+      "ja": "パーイの人気観光スポット"
     }
   },
   "tags": [
@@ -60,55 +67,65 @@
     {
       "name": {
         "en": "Land Split (Pam Bok Waterfall area)",
-        "nl": "Land Split (Pam Bok Waterval gebied)"
+        "nl": "Land Split (Pam Bok Waterval gebied)",
+        "ja": "ランドスプリット（パムボック滝エリア）"
       },
       "description": {
         "en": "A bizarre geological crack in the earth that split a farmer's land in two, now a quirky attraction with a small cafe serving fresh fruit shakes amid lush gardens.",
-        "nl": "Een bizarre geologische scheur in de aarde die het land van een boer in tweeen spleet, nu een bijzondere attractie met een klein cafe dat verse fruitsap serveert temidden van weelderige tuinen."
+        "nl": "Een bizarre geologische scheur in de aarde die het land van een boer in tweeen spleet, nu een bijzondere attractie met een klein cafe dat verse fruitsap serveert temidden van weelderige tuinen.",
+        "ja": "農家の土地が二つに割れた奇妙な地質現象の跡地で、今ではユニークな観光スポットになっています。割れ目の中を歩いて探検でき、無料で見学できます。"
       },
       "type": "nature"
     },
     {
       "name": {
         "en": "Lod Cave (Tham Lod near Pai)",
-        "nl": "Lod Grot (Tham Lod bij Pai)"
+        "nl": "Lod Grot (Tham Lod bij Pai)",
+        "ja": "ロート洞窟（パーイ近郊のタム・ロート）"
       },
       "description": {
         "en": "A spectacular cave system about 70 km north of Pai with underground river, massive stalactites, and ancient coffin cave paintings. Best visited at dusk to see millions of swifts returning to roost.",
-        "nl": "Een spectaculair grottensysteem zo'n 70 km ten noorden van Pai met een ondergrondse rivier, enorme stalactieten en oude doodkistgrotschilderingen. Het beste te bezoeken bij schemering om miljoenen gierzwaluwen te zien terugkeren."
+        "nl": "Een spectaculair grottensysteem zo'n 70 km ten noorden van Pai met een ondergrondse rivier, enorme stalactieten en oude doodkistgrotschilderingen. Het beste te bezoeken bij schemering om miljoenen gierzwaluwen te zien terugkeren.",
+        "ja": "パーイの北約70kmにある壮大な洞窟群で、地下河川、巨大な鍾乳石、先史時代の木棺が見られます。ガイド付きの筏で洞窟内の川を渡る体験は圧巻です。"
       },
       "type": "nature"
     },
     {
       "name": {
         "en": "Pai Treehouse",
-        "nl": "Pai Boomhut"
+        "nl": "Pai Boomhut",
+        "ja": "パーイ・ツリーハウス"
       },
       "description": {
         "en": "A giant banyan tree turned into a viewpoint platform in the middle of rice paddies, offering stunning 360-degree views of the valley especially at sunset.",
-        "nl": "Een enorme banyan-boom omgebouwd tot een uitkijkplatform midden in de rijstvelden, met adembenemend 360-graden uitzicht over de vallei, vooral bij zonsondergang."
+        "nl": "Een enorme banyan-boom omgebouwd tot een uitkijkplatform midden in de rijstvelden, met adembenemend 360-graden uitzicht over de vallei, vooral bij zonsondergang.",
+        "ja": "田園地帯の真ん中にある巨大な菩提樹を利用した展望台で、360度の水田と山々のパノラマビューが楽しめます。写真映えするスポットとして人気です。"
       },
       "type": "nature"
     },
     {
       "name": {
         "en": "Cafe Amazon at Pai River",
-        "nl": "Cafe Amazon bij de Pai Rivier"
+        "nl": "Cafe Amazon bij de Pai Rivier",
+        "ja": "パーイ川沿いのカフェ・アマゾン"
       },
       "description": {
         "en": "Hidden riverside cafe downstream from the main town where locals gather for cold coffee and river swimming on lazy afternoons.",
-        "nl": "Verborgen cafe aan de rivier stroomafwaarts van het centrum waar lokale bevolking samenkomt voor koude koffie en zwemmen in de rivier op luie middagen."
+        "nl": "Verborgen cafe aan de rivier stroomafwaarts van het centrum waar lokale bevolking samenkomt voor koude koffie en zwemmen in de rivier op luie middagen.",
+        "ja": "街の中心から川沿いに少し下った隠れ家的なリバーサイドカフェで、地元の人々がコールドドリンクを楽しみに集まります。静かで穏やかな雰囲気が魅力です。"
       },
       "type": "restaurant"
     },
     {
       "name": {
         "en": "Yun Lai Viewpoint",
-        "nl": "Yun Lai Uitkijkpunt"
+        "nl": "Yun Lai Uitkijkpunt",
+        "ja": "ユンライ・ビューポイント"
       },
       "description": {
         "en": "A lesser-known sunrise viewpoint in the Chinese Village with panoramic views over the misty Pai valley, far less crowded than Pai Canyon. Serves Chinese tea at the top.",
-        "nl": "Een minder bekend zonsopgang-uitkijkpunt in het Chinese Dorp met panoramisch uitzicht over de mistige Pai-vallei, veel minder druk dan Pai Canyon. Serveert Chinese thee op de top."
+        "nl": "Een minder bekend zonsopgang-uitkijkpunt in het Chinese Dorp met panoramisch uitzicht over de mistige Pai-vallei, veel minder druk dan Pai Canyon. Serveert Chinese thee op de top.",
+        "ja": "チャイニーズビレッジにあるあまり知られていない日の出スポットで、パーイの谷を一望するパノラマビューが楽しめます。中国茶を飲みながら朝霧を眺められます。"
       },
       "type": "nature"
     }
@@ -262,70 +279,84 @@
     {
       "title": {
         "en": "Surviving the 762 Curves",
-        "nl": "De 762 bochten overleven"
+        "nl": "De 762 bochten overleven",
+        "ja": "762のカーブを乗り越える"
       },
       "content": {
         "en": "The road from Chiang Mai to Pai has 762 curves and takes about 3 hours by minivan. Take motion sickness medicine 30 minutes before departure. Alternatively, fly from Chiang Mai with Kan Air (20 minutes) if your budget allows.",
-        "nl": "De weg van Chiang Mai naar Pai heeft 762 bochten en duurt ongeveer 3 uur per minibusje. Neem 30 minuten voor vertrek een reisziektepil. Als alternatief kun je vliegen vanuit Chiang Mai met Kan Air (20 minuten) als je budget het toelaat."
+        "nl": "De weg van Chiang Mai naar Pai heeft 762 bochten en duurt ongeveer 3 uur per minibusje. Neem 30 minuten voor vertrek een reisziektepil. Als alternatief kun je vliegen vanuit Chiang Mai met Kan Air (20 minuten) als je budget het toelaat.",
+        "ja": "チェンマイからパーイへの道は762のカーブがあり、ミニバンで約3時間かかります。乗り物酔いしやすい方は酔い止め薬を用意し、前方の席に座りましょう。"
       }
     },
     {
       "title": {
         "en": "Rent a Motorbike",
-        "nl": "Huur een scooter"
+        "nl": "Huur een scooter",
+        "ja": "バイクをレンタルしよう"
       },
       "content": {
         "en": "A motorbike is essential in Pai as attractions are spread out. Rent from Aya Service on Chaisongkhram Road for 150-250 baht/day. Drive carefully on mountain roads, especially during rainy season when roads become slippery.",
-        "nl": "Een scooter is essentieel in Pai omdat de bezienswaardigheden verspreid liggen. Huur bij Aya Service op Chaisongkhram Road voor 150-250 baht/dag. Rij voorzichtig op bergwegen, vooral tijdens het regenseizoen wanneer wegen glad worden."
+        "nl": "Een scooter is essentieel in Pai omdat de bezienswaardigheden verspreid liggen. Huur bij Aya Service op Chaisongkhram Road voor 150-250 baht/dag. Rij voorzichtig op bergwegen, vooral tijdens het regenseizoen wanneer wegen glad worden.",
+        "ja": "パーイではバイクが必須です。観光スポットが点在しているため、Ayaサービスなどで1日150〜250バーツで借りられます。国際免許証を忘れずに。"
       }
     },
     {
       "title": {
         "en": "Best Time for Pai Canyon",
-        "nl": "Beste tijd voor Pai Canyon"
+        "nl": "Beste tijd voor Pai Canyon",
+        "ja": "パーイキャニオンのベストタイム"
       },
       "content": {
         "en": "Visit Pai Canyon at sunrise or sunset for the most dramatic views and fewer crowds. The narrow ridgeline can be nerve-wracking in flip-flops, so wear proper shoes with grip.",
-        "nl": "Bezoek Pai Canyon bij zonsopgang of zonsondergang voor het meest dramatische uitzicht en minder drukte. De smalle bergkam kan zenuwslopend zijn op slippers, dus draag degelijke schoenen met grip."
+        "nl": "Bezoek Pai Canyon bij zonsopgang of zonsondergang voor het meest dramatische uitzicht en minder drukte. De smalle bergkam kan zenuwslopend zijn op slippers, dus draag degelijke schoenen met grip.",
+        "ja": "パーイキャニオンは日の出か夕暮れ時が最もドラマチックな景色を楽しめ、混雑も少なくなります。狭い尾根道なので、サンダルではなく運動靴がおすすめです。"
       }
     },
     {
       "title": {
         "en": "Pack Layers",
-        "nl": "Neem laagjes kleding mee"
+        "nl": "Neem laagjes kleding mee",
+        "ja": "重ね着を用意しよう"
       },
       "content": {
         "en": "Pai gets surprisingly cold from November to February, with temperatures dropping to 5-10 degrees Celsius at night. Bring a warm jacket and long pants. During the day it is pleasant at 20-25 degrees.",
-        "nl": "Pai wordt verrassend koud van november tot februari, met temperaturen die 's nachts dalen tot 5-10 graden Celsius. Neem een warme jas en lange broek mee. Overdag is het aangenaam met 20-25 graden."
+        "nl": "Pai wordt verrassend koud van november tot februari, met temperaturen die 's nachts dalen tot 5-10 graden Celsius. Neem een warme jas en lange broek mee. Overdag is het aangenaam met 20-25 graden.",
+        "ja": "パーイは11月〜2月にかなり冷え込み、夜間は10℃以下になることもあります。フリースやジャケットなど暖かい服を必ず持参しましょう。"
       }
     },
     {
       "title": {
         "en": "Cash is King",
-        "nl": "Contant geld is koning"
+        "nl": "Contant geld is koning",
+        "ja": "現金が主流"
       },
       "content": {
         "en": "Many small shops, market stalls, and guesthouses in Pai only accept cash. There are ATMs on the main street but they charge 220 baht per withdrawal. Bring enough cash from Chiang Mai.",
-        "nl": "Veel kleine winkels, marktkraampjes en pensions in Pai accepteren alleen contant geld. Er zijn geldautomaten op de hoofdstraat maar die rekenen 220 baht per opname. Neem genoeg contant geld mee vanuit Chiang Mai."
+        "nl": "Veel kleine winkels, marktkraampjes en pensions in Pai accepteren alleen contant geld. Er zijn geldautomaten op de hoofdstraat maar die rekenen 220 baht per opname. Neem genoeg contant geld mee vanuit Chiang Mai.",
+        "ja": "パーイの多くの小さなお店、屋台、ゲストハウスは現金のみです。ATMは数カ所ありますが手数料がかかるため、十分な現金を持参しましょう。"
       }
     }
   ],
   "best_time_to_visit": {
     "en": "November to February is the best time to visit Pai, when the weather is cool and dry with clear mountain views. December and January can get quite cold at night (5-10 degrees Celsius). The rainy season from June to October brings lush green landscapes but muddy roads.",
-    "nl": "November tot februari is de beste tijd om Pai te bezoeken, wanneer het weer koel en droog is met helder bergzicht. December en januari kunnen 's nachts behoorlijk koud worden (5-10 graden Celsius). Het regenseizoen van juni tot oktober brengt weelderig groen landschap maar modderige wegen."
+    "nl": "November tot februari is de beste tijd om Pai te bezoeken, wanneer het weer koel en droog is met helder bergzicht. December en januari kunnen 's nachts behoorlijk koud worden (5-10 graden Celsius). Het regenseizoen van juni tot oktober brengt weelderig groen landschap maar modderige wegen.",
+    "ja": "11月〜2月がベストシーズンで、涼しく爽やかな天候が楽しめます。朝霧の風景が美しく、ナイトマーケットも活気づきます。3月〜5月は焼畑の煙害に注意が必要です。"
   },
   "budget_info": {
     "budget_per_day": {
       "en": "$15-25",
-      "nl": "$15-25"
+      "nl": "$15-25",
+      "ja": "1日1,500〜2,500円"
     },
     "midrange_per_day": {
       "en": "$40-70",
-      "nl": "$40-70"
+      "nl": "$40-70",
+      "ja": "1日4,000〜7,000円"
     },
     "luxury_per_day": {
       "en": "$120+",
-      "nl": "$120+"
+      "nl": "$120+",
+      "ja": "1日12,000円以上"
     }
   },
   "enhanced_at": "2026-02-22T00:00:00.000Z",
