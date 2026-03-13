@@ -4,14 +4,16 @@
   "name": {
     "en": "Khao Yam",
     "nl": "Khao Yam",
-    "thai": "ข้าวยำ"
+    "thai": "ข้าวยำ",
+    "ja": "カオヤム"
   },
   "category": "salad",
   "region": "southern",
   "spice_level": "mild",
   "description": {
     "en": "Southern Thai rice salad with herbs and coconut",
-    "nl": "Zuidelijke Thaise rijstsalade met kruiden en kokos"
+    "nl": "Zuidelijke Thaise rijstsalade met kruiden en kokos",
+    "ja": "ハーブ、野菜、ブドゥーソースで和えた南タイのライスサラダ"
   },
   "ingredients": [
     "rice",
@@ -32,11 +34,13 @@
   "seo": {
     "metaTitle": {
       "en": "Khao Yam Recipe | Authentic Thai salad",
-      "nl": "Khao Yam Recept | Authentieke Thaise salad"
+      "nl": "Khao Yam Recept | Authentieke Thaise salad",
+      "ja": "カオヤムのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Khao Yam (ข้าวยำ) - Southern Thai rice salad with herbs and coconut...",
-      "nl": "Leer over Khao Yam (ข้าวยำ) - Zuidelijke Thaise rijstsalade met kruiden en kokos..."
+      "nl": "Leer over Khao Yam (ข้าวยำ) - Zuidelijke Thaise rijstsalade met kruiden en kokos...",
+      "ja": "カオヤム（ข้าวยำ）について — ハーブ、野菜、ブドゥーソースで和えた南タイの伝統的なライスサラダ。"
     }
   },
   "tags": [
