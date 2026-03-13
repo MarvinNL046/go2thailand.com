@@ -1,0 +1,134 @@
+{
+  "seo": {
+    "title": "Phuket Province, Thailand — Complete Guide 2026",
+    "metaDescription": "Everything about Phuket Province: best beaches, temples, Old Town, and island hopping. Area: 576 km², population: 443,000. Plan your visit.",
+    "slug": "phuket"
+  },
+  "provinceSlug": "phuket",
+  "provinceName": "Phuket",
+  "provinceNameThai": "ภูเก็ต",
+  "region": "southern",
+  "capital": "Phuket City",
+  "area": 576,
+  "population": 443000,
+  "populationYear": 2022,
+  "districts": 3,
+  "coordinates": { "lat": 7.8804, "lng": 98.3923 },
+  "overview": "Phuket is Thailand's largest island and the country's smallest province by area, located in the Andaman Sea off the west coast of southern Thailand. Connected to the mainland via the Sarasin Bridge, the province encompasses Phuket Island and 32 smaller islands. It is one of Thailand's wealthiest and most-visited provinces, attracting millions of international tourists annually with its white-sand beaches, vibrant nightlife, and Sino-Portuguese heritage architecture.",
+  "geography": "Phuket Island measures approximately 48 km north-to-south and 21 km east-to-west, with a total provincial area of 576 km² including all surrounding islands. The island is about 70% mountainous, with the Phuket Mountain Range running from north to south. The western coast features world-famous beaches like Patong, Kata, and Karon, while the eastern side is characterized by mangrove forests and sheltered bays.",
+  "highlights": [
+    "Patong Beach — Phuket's most famous beach strip with nightlife centered on Bangla Road",
+    "Big Buddha — 45-meter-tall Maravijaya Buddha statue atop Nakkerd Hills with panoramic views",
+    "Phuket Old Town — Sino-Portuguese architecture, colorful shophouses, street art, and local cafés",
+    "Phi Phi Islands — stunning limestone archipelago reachable by speedboat (part of Krabi province)",
+    "Phang Nga Bay — dramatic karst limestone formations and James Bond Island day trips",
+    "Wat Chalong — Phuket's largest and most revered Buddhist temple with a 60-meter stupa",
+    "Promthep Cape — the island's southernmost point and most popular sunset viewpoint",
+    "Phuket Vegetarian Festival — nine-day Taoist celebration held annually in October"
+  ],
+  "bestTimeToVisit": {
+    "peak": "Nov–Feb: Dry northeast monsoon season with temperatures of 25–31°C, low humidity, and calm Andaman seas. Perfect for beaches and diving. Highest hotel prices and tourist crowds, especially over Christmas and New Year.",
+    "shoulder": "Mar–May: Hot season with temperatures reaching 33–36°C. Seas remain mostly calm through April. Songkran (mid-April) brings festive water fights. Fewer tourists than peak season.",
+    "lowSeason": "Jun–Oct: Southwest monsoon brings rain and rougher seas on the west coast. Some beaches display red flag warnings. Hotel prices drop 30–50%. East coast beaches like Ao Por and Cape Panwa remain swimmable. September–October is wettest.",
+    "recommendation": "Visit November to February for the best weather and diving conditions. For budget travelers, June and early July offer good value with manageable rain (mostly afternoon showers). Avoid west coast swimming during red flag days in monsoon season."
+  },
+  "topAttractions": [
+    {
+      "name": "Big Buddha (Phra Phutthamingmongkol Akenakkiri)",
+      "description": "A 45-meter-tall white marble Maravijaya Buddha statue sitting atop Nakkerd Hills at 400 meters elevation. Visible from much of southern Phuket, the statue offers 360-degree views over Chalong Bay, Kata, and the surrounding islands. Construction began in 2004 and the site remains an active place of worship.",
+      "type": "landmark",
+      "entranceFee": "Free (donations welcome)",
+      "googleMapsUrl": "https://maps.google.com/?q=Big+Buddha+Phuket",
+      "sources": [{"sourceName": "Phuket101", "sourceUrl": "https://www.phuket101.net/phuket-big-buddha/", "lastVerified": "2026-03-14"}]
+    },
+    {
+      "name": "Wat Chalong (Wat Chaiyathararam)",
+      "description": "Phuket's largest and most important Buddhist temple, built in the early 19th century. The temple complex features a 60-meter-tall Grand Pagoda housing a fragment of bone from the Buddha. Two revered monks, Luang Por Chaem and Luang Por Chuang, are commemorated with statues inside the main hall.",
+      "type": "temple",
+      "entranceFee": "Free (donations welcome)",
+      "googleMapsUrl": "https://maps.google.com/?q=Wat+Chalong+Phuket",
+      "sources": [{"sourceName": "Tourism Authority of Thailand", "sourceUrl": "https://www.tourismthailand.org/Attraction/wat-chalong", "lastVerified": "2026-03-14"}]
+    },
+    {
+      "name": "Phuket Old Town",
+      "description": "A historic quarter featuring beautifully preserved Sino-Portuguese shophouses dating from the tin-mining era of the 19th century. Thalang Road and Soi Romanee showcase colorful facades, street art, boutique cafés, and local museums. The Sunday Walking Street market transforms the area weekly with local food stalls and crafts.",
+      "type": "landmark",
+      "entranceFee": "Free",
+      "googleMapsUrl": "https://maps.google.com/?q=Phuket+Old+Town",
+      "sources": [{"sourceName": "Tourism Authority of Thailand", "sourceUrl": "https://www.tourismthailand.org/Attraction/phuket-old-town", "lastVerified": "2026-03-14"}]
+    },
+    {
+      "name": "Promthep Cape",
+      "description": "The southernmost tip of Phuket Island and arguably the most photographed sunset viewpoint in Thailand. A hilltop lighthouse houses a small naval museum (20 THB entry). The cape offers sweeping views of the Andaman Sea, Nai Harn Beach, and the Windmill Viewpoint nearby.",
+      "type": "nature",
+      "entranceFee": "Free (lighthouse museum 20 THB)",
+      "googleMapsUrl": "https://maps.google.com/?q=Promthep+Cape+Phuket",
+      "sources": [{"sourceName": "Phuket101", "sourceUrl": "https://www.phuket101.net/promthep-cape/", "lastVerified": "2026-03-14"}]
+    },
+    {
+      "name": "Phang Nga Bay (day trip from Phuket)",
+      "description": "A dramatic bay featuring towering limestone karsts rising from emerald-green waters. James Bond Island (Khao Phing Kan) is the most famous formation, featured in The Man with the Golden Gun (1974). Day trips from Phuket include sea canoeing through cave systems and visits to the Koh Panyee floating village.",
+      "type": "nature",
+      "entranceFee": "300 THB national park fee (foreigners); day trip tours 1,500–3,500 THB",
+      "googleMapsUrl": "https://maps.google.com/?q=Phang+Nga+Bay",
+      "sources": [{"sourceName": "Simba Sea Trips", "sourceUrl": "https://simbaseatrips.com/national-park-fees-in-phuket-what-you-need-to-know/", "lastVerified": "2026-03-14"}]
+    },
+    {
+      "name": "Sirinat National Park",
+      "description": "A national park covering 90 km² on Phuket's northwest coast, protecting Mai Khao Beach (Phuket's longest at 11 km), Nai Yang Beach, and Nai Thon Beach. The park is a nesting site for Olive Ridley and Leatherback sea turtles between November and February. It also includes mangrove forests and coral reefs.",
+      "type": "nature",
+      "entranceFee": "200 THB (foreigners), 40 THB (Thai nationals)",
+      "googleMapsUrl": "https://maps.google.com/?q=Sirinat+National+Park+Phuket",
+      "sources": [{"sourceName": "DNP Thailand", "sourceUrl": "https://portal.dnp.go.th/Content/nationalpark?contentId=639", "lastVerified": "2026-03-14"}]
+    },
+    {
+      "name": "Kata and Karon Beaches",
+      "description": "Two of Phuket's most popular west coast beaches. Karon Beach stretches 3 km with fine white sand and a coral reef at its southern end. Kata Beach is smaller and more sheltered, split into Kata Yai and Kata Noi, popular with families and surfers during monsoon season. Both have a wide range of restaurants and accommodation.",
+      "type": "beach",
+      "entranceFee": "Free",
+      "googleMapsUrl": "https://maps.google.com/?q=Kata+Beach+Phuket",
+      "sources": [{"sourceName": "Tourism Authority of Thailand", "sourceUrl": "https://www.tourismthailand.org/Attraction/kata-beach", "lastVerified": "2026-03-14"}]
+    }
+  ],
+  "localFood": [
+    "Mee Hokkien — stir-fried yellow noodles with seafood and pork in a rich soy-based sauce, Phuket's signature Hokkien Chinese noodle dish",
+    "Moo Hong — slow-braised pork belly with garlic, coriander root, black pepper, and star anise; a Sino-Thai comfort food staple",
+    "Oh Tao — Phuket-style oyster omelet with taro and crispy tapioca-flour batter, served with chili sauce",
+    "Oh Aew — shaved ice dessert with chewy rice-flour jelly cubes, red beans, and syrup, found in Old Town shops",
+    "Loba — steamed rolls of minced pork and spices wrapped in tofu skin, unique to Phuket's Hokkien community",
+    "Gaeng Lueang — southern Thai yellow curry, spicier than central Thai versions, typically with fish and bamboo shoots"
+  ],
+  "culture": "Phuket's culture reflects a unique blend of Thai, Chinese Hokkien, Malay, and Portuguese influences dating from the tin-mining boom of the 19th century. The Sino-Portuguese architecture in Old Town, the annual Vegetarian Festival (Tesagan Gin Je) with its dramatic firewalking and piercing rituals, and the local Baba-Yaya Peranakan heritage distinguish Phuket from any other Thai province. Chinese shrines dot the island alongside Buddhist temples, and the local Phuketian dialect blends Thai with Hokkien loanwords.",
+  "gettingThere": "Phuket International Airport (HKT) receives direct flights from Bangkok (1h 20min, from 1,000–3,500 THB one-way with AirAsia, Thai Smile, or Bangkok Airways). International flights arrive from Singapore, Kuala Lumpur, Hong Kong, and many other Asian cities. VIP buses from Bangkok's Southern Bus Terminal take 12–13 hours (800–1,400 THB). Budget minivans also run from Krabi (2.5h, 200–350 THB) and Phang Nga (2h, 150–250 THB).",
+  "gettingAround": "Phuket Smart Bus runs along the airport-to-Rawai west coast route for 50–170 THB per trip. Grab is widely available for car and motorbike rides (50–500 THB depending on distance). Songthaew (shared trucks) connect Phuket Town to major beaches for 30–50 THB. Motorbike rental is popular (200–350 THB/day, international license required). Tuk-tuks are the most expensive option (200–600 THB per trip, always negotiate before boarding).",
+  "travelTips": [
+    "Always negotiate tuk-tuk fares before getting in — they are significantly more expensive than Grab or Smart Bus",
+    "West coast beaches may have dangerous riptides during monsoon season (Jun–Oct) — always obey red flag warnings",
+    "Book Phi Phi and Phang Nga Bay day trips at least one day in advance during peak season",
+    "Rent motorbikes only if experienced — Phuket's hilly roads and traffic cause frequent tourist accidents",
+    "Visit Old Town on Sunday evening for the Walking Street market (4–10 PM on Thalang Road)",
+    "The Vegetarian Festival in October is fascinating but intense — some rituals involve graphic self-mortification",
+    "ATMs charge 220 THB per withdrawal — bring a travel card with no foreign transaction fees",
+    "Phuket has two distinct coasts — the west coast has tourist beaches, the east coast is quieter with local fishing villages"
+  ],
+  "neighboringProvinces": [
+    { "name": "Phang Nga", "slug": "phang-nga" }
+  ],
+  "cities": [
+    {
+      "name": "Phuket",
+      "slug": "phuket",
+      "hasCluster": true,
+      "hasCityPage": true
+    }
+  ],
+  "generatedAt": "2026-03-14",
+  "lastUpdated": "2026-03-14",
+  "sources": [
+    {"sourceName": "Wikipedia — Phuket Province", "sourceUrl": "https://en.wikipedia.org/wiki/Phuket_province", "lastVerified": "2026-03-14"},
+    {"sourceName": "Tourism Authority of Thailand", "sourceUrl": "https://www.tourismthailand.org/Destinations/Provinces/Phuket/367", "lastVerified": "2026-03-14"},
+    {"sourceName": "Phuket101", "sourceUrl": "https://www.phuket101.net/things-to-do-in-phuket/", "lastVerified": "2026-03-14"},
+    {"sourceName": "Simba Sea Trips — National Park Fees", "sourceUrl": "https://simbaseatrips.com/national-park-fees-in-phuket-what-you-need-to-know/", "lastVerified": "2026-03-14"},
+    {"sourceName": "YoPhuket — Food Guide", "sourceUrl": "https://en.yophuket.com/content/view/phuket-food-guide", "lastVerified": "2026-03-14"}
+  ]
+}
