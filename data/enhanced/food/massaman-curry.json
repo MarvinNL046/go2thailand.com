@@ -4,14 +4,16 @@
   "name": {
     "en": "Massaman Curry",
     "nl": "Massaman Curry",
-    "thai": "แกงมัสมั่น"
+    "thai": "แกงมัสมั่น",
+    "ja": "マッサマンカレー"
   },
   "category": "curry",
   "region": "southern",
   "spice_level": "medium",
   "description": {
     "en": "Rich and mild curry with Persian influences containing potatoes and peanuts",
-    "nl": "Rijke en milde curry met Perzische invloeden met aardappelen en pinda's"
+    "nl": "Rijke en milde curry met Perzische invloeden met aardappelen en pinda's",
+    "ja": "ペルシャの影響を受けた濃厚でマイルドなカレーで、じゃがいもとピーナッツ入り"
   },
   "ingredients": [
     "massaman paste",
@@ -32,11 +34,13 @@
   "seo": {
     "metaTitle": {
       "en": "Massaman Curry Recipe | Authentic Thai curry",
-      "nl": "Massaman Curry Recept | Authentieke Thaise curry"
+      "nl": "Massaman Curry Recept | Authentieke Thaise curry",
+      "ja": "マッサマンカレーのレシピ | 本格タイカレー"
     },
     "metaDescription": {
       "en": "Learn about Massaman Curry (แกงมัสมั่น) - Rich and mild curry with Persian influences containing potatoes and peanuts...",
-      "nl": "Leer over Massaman Curry (แกงมัสมั่น) - Rijke en milde curry met Perzische invloeden met aardappelen en pinda's..."
+      "nl": "Leer over Massaman Curry (แกงมัสมั่น) - Rijke en milde curry met Perzische invloeden met aardappelen en pinda's...",
+      "ja": "マッサマンカレー（แกงมัสมั่น）について — ペルシャの影響を受けた濃厚でマイルドなタイカレー。じゃがいもとピーナッツ入り。"
     }
   },
   "tags": [
