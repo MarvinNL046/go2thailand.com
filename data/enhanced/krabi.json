@@ -3,13 +3,15 @@
   "slug": "krabi",
   "name": {
     "en": "Krabi",
-    "nl": "Krabi"
+    "nl": "Krabi",
+    "ja": "クラビ"
   },
   "region": "Southern",
   "province": "Krabi",
   "description": {
     "en": "Famous for stunning limestone cliffs, beaches, and island hopping (Railay, Ao Nang, Koh Phi Phi).",
-    "nl": "Bekend om de kalkstenen kliffen, stranden en eilanden zoals Railay en Phi Phi."
+    "nl": "Bekend om de kalkstenen kliffen, stranden en eilanden zoals Railay en Phi Phi.",
+    "ja": "壮大な石灰岩の崖、美しいビーチ、島巡り（ライレイ、アオナン）で有名なクラビは、タイ南部を代表するリゾート地です。"
   },
   "population": 36000,
   "highlights": [
@@ -26,25 +28,30 @@
   "seo": {
     "metaTitle": {
       "en": "Discover Krabi | What to do in Krabi?",
-      "nl": "Ontdek Krabi | Wat te doen in Krabi?"
+      "nl": "Ontdek Krabi | Wat te doen in Krabi?",
+      "ja": "クラビを満喫 | クラビの観光・見どころガイド"
     },
     "metaDescription": {
       "en": "Your guide to Krabi, Thailand – tips, highlights, food, hotels.",
-      "nl": "Jouw gids voor Krabi, Thailand – tips, highlights, eten, hotels."
+      "nl": "Jouw gids voor Krabi, Thailand – tips, highlights, eten, hotels.",
+      "ja": "タイ・クラビの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。"
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Krabi",
-      "nl": "Beste restaurants en streetfood in Krabi"
+      "nl": "Beste restaurants en streetfood in Krabi",
+      "ja": "クラビのおすすめレストラン＆ストリートフード"
     },
     "hotels": {
       "en": "Top hotels in Krabi | Tips & deals",
-      "nl": "Beste hotels in Krabi | Tips & aanbiedingen"
+      "nl": "Beste hotels in Krabi | Tips & aanbiedingen",
+      "ja": "クラビのおすすめホテル｜お得な情報＆アドバイス"
     },
     "attractions": {
       "en": "Top attractions in Krabi",
-      "nl": "Top bezienswaardigheden in Krabi"
+      "nl": "Top bezienswaardigheden in Krabi",
+      "ja": "クラビの人気観光スポット"
     }
   },
   "tags": [
@@ -714,35 +721,45 @@
           "story": "Ik ontdekte Koh Hong tijdens een rustige dag van verkennen. Een lokale visser, die mijn nieuwsgierigheid zag, bood aan me met een privé longtailboot naar dit verborgen paradijs te brengen. De lagune was adembenemend, omringd door torenhoge kliffen en weelderig groen.",
           "how_to_find": "Neem een longtailboot vanaf Ao Nang Beach; onderhandel met de bootlieden bij de pier voor een halvedagtrip.",
           "best_time": "Vroeg in de ochtend om de drukte voor te zijn en de zonsopgang te vangen.",
-          "local_insights": ["Neem je eigen snacks en drankjes mee; er zijn geen winkels op het eiland."]
+          "local_insights": [
+            "Neem je eigen snacks en drankjes mee; er zijn geen winkels op het eiland."
+          ]
         },
         {
           "name": "Klong Thom Hot Springs",
           "story": "Op een regenachtige dag vond ik troost in de Klong Thom Hot Springs. Het warme water was een perfecte ontsnapping, en ik deelde lachbuien met lokale bewoners die me lieten zien hoe je kruidenkompressen maakt van de nabijgelegen planten.",
           "how_to_find": "Ongeveer 30 minuten van Krabi Town; volg de borden naar het dorp Klong Thom.",
           "best_time": "Doordeweeks is het minder druk, vooral in de vroege ochtend.",
-          "local_insights": ["Neem een handdoek mee en bereid je voor om te ontspannen; het is een favoriet van de lokale bevolking."]
+          "local_insights": [
+            "Neem een handdoek mee en bereid je voor om te ontspannen; het is een favoriet van de lokale bevolking."
+          ]
         },
         {
           "name": "Ao Thalane",
           "story": "Kajakken door Ao Thalane was een magische ervaring. Ik herinner me hoe ik stil door de mangroven gleed, apen boven me zag slingeren, en een moment van verwondering deelde met een lokale gids die me over het ecosysteem vertelde.",
           "how_to_find": "Rijd of neem een taxi naar Ao Thalane; er zijn verschillende kajakverhuurwinkels bij de ingang.",
           "best_time": "Late namiddag wanneer het licht zacht is en de dieren actief zijn.",
-          "local_insights": ["Huur een lokale gids voor een betere ervaring; zij kennen de beste plekjes."]
+          "local_insights": [
+            "Huur een lokale gids voor een betere ervaring; zij kennen de beste plekjes."
+          ]
         },
         {
           "name": "Phra Nang Cave Beach",
           "story": "Ik vond Phra Nang Cave Beach na een lange wandeling. De grot, gevuld met offers aan de geest van de verdronken prinses, fascineerde me. Ik bracht uren door met het opzuigen van de schoonheid en de verhalen die het bevatte.",
           "how_to_find": "Bereikbaar per boot vanuit Ao Nang of Railay Beach; het is vaak minder druk in de late namiddag.",
           "best_time": "Late namiddag om de zonsondergang te vangen.",
-          "local_insights": ["Respecteer de lokale gebruiken; het is een heilige plek voor vissers."]
+          "local_insights": [
+            "Respecteer de lokale gebruiken; het is een heilige plek voor vissers."
+          ]
         },
         {
           "name": "Koh Poda",
           "story": "Tijdens het eilandhoppen werd ik verliefd op Koh Poda. Het zand voelde als poeder tussen mijn tenen, en ik deelde verhalen met medereizigers terwijl we naar de zonsondergang over de Andamanzee keken.",
           "how_to_find": "Boek een tour vanuit Ao Nang of huur een longtailboot.",
           "best_time": "Zonsondergang voor het mooiste uitzicht.",
-          "local_insights": ["Neem een picknick mee; er zijn geen winkels op het eiland."]
+          "local_insights": [
+            "Neem een picknick mee; er zijn geen winkels op het eiland."
+          ]
         }
       ],
       "authentic_experiences": [
@@ -751,35 +768,45 @@
           "story": "Ik volgde een kookles bij een lokale chef die me leerde hoe je Pad Thai vanaf nul maakt. We bezochten samen de markt om verse ingrediënten te halen, en ik leerde de betekenis van elk gerecht in de Thaise cultuur.",
           "cultural_significance": "Koken is een manier voor lokale bewoners om hun erfgoed te delen en met anderen in contact te komen.",
           "how_to_participate": "Zoek naar lessen in Ao Nang; veel bieden marktbezoeken inbegrepen.",
-          "insights": ["Sta open voor nieuwe smaken; het is onderdeel van de ervaring."]
+          "insights": [
+            "Sta open voor nieuwe smaken; het is onderdeel van de ervaring."
+          ]
         },
         {
           "activity": "Muay Thai-training",
           "story": "Ik besloot Muay Thai te proberen in een lokale sportschool. De trainers waren streng maar vriendelijk, ze duwden me tot mijn grenzen terwijl ze verhalen deelden over hun eigen reis in de sport.",
           "cultural_significance": "Muay Thai is diep geworteld in de Thaise cultuur en staat symbool voor kracht en traditie.",
           "how_to_participate": "Doe mee aan een beginnerles in een van de lokale sportscholen in Ao Nang.",
-          "insights": ["Respecteer de trainers; ze waarderen toewijding en inzet."]
+          "insights": [
+            "Respecteer de trainers; ze waarderen toewijding en inzet."
+          ]
         },
         {
           "activity": "Vrijwilligerswerk bij een olifantenopvang",
           "story": "Een dag doorbrengen bij een olifantenopvang was levensveranderend. Ik leerde over olifantenbescherming en deelde een speciale band met deze zachtaardige reuzen terwijl ik ze voerde en waste.",
           "cultural_significance": "Olifanten hebben een grote culturele betekenis in Thailand en symboliseren kracht en wijsheid.",
           "how_to_participate": "Zoek en boek een dag bij een van de ethische opvangcentra in de buurt van Krabi.",
-          "insights": ["Wees respectvol en volg de richtlijnen; het is cruciaal voor het welzijn van de olifanten."]
+          "insights": [
+            "Wees respectvol en volg de richtlijnen; het is cruciaal voor het welzijn van de olifanten."
+          ]
         },
         {
           "activity": "Lokaal vissen met vissers",
           "story": "Ik bracht een ochtend door op een vissersboot met lokale vissers. Ze leerden me traditionele vistechnieken en deelden verhalen over hun voorouders, waardoor ik me verbonden voelde met het land en de zee.",
           "cultural_significance": "Vissen is een essentieel onderdeel van het leven in Krabi en biedt levensonderhoud en een gevoel van gemeenschap.",
           "how_to_participate": "Regel een visuitstapje via lokale touroperators of guesthouses.",
-          "insights": ["Wees geduldig; vissen kost tijd en respect voor de natuur."]
+          "insights": [
+            "Wees geduldig; vissen kost tijd en respect voor de natuur."
+          ]
         },
         {
           "activity": "Thaise massage workshop",
           "story": "Ik deed mee aan een workshop om traditionele Thaise massage te leren. De instructeur was een meester, en ik voelde de helende kracht van de technieken terwijl ik oefende op medestudenten.",
           "cultural_significance": "Massage is een integraal onderdeel van de Thaise cultuur en bevordert welzijn en ontspanning.",
           "how_to_participate": "Zoek naar workshops in Ao Nang of Krabi Town; veel worden aangeboden door lokale spa's.",
-          "insights": ["Neem de tijd om te leren; het gaat om het verbinden met de energie van het lichaam."]
+          "insights": [
+            "Neem de tijd om te leren; het gaat om het verbinden met de energie van het lichaam."
+          ]
         }
       ],
       "foodie_adventures": [
@@ -788,56 +815,72 @@
           "location": "Roti Chao Wang in Krabi Town",
           "story": "De eerste keer dat ik Khao Soi proefde, was ik weggeblazen door de complexe smaken van de curry en de knapperigheid van de gebakken noedels. Het voelde als een warme knuffel op een regenachtige dag.",
           "price_range": "Ongeveer 60 baht.",
-          "ordering_tips": ["Vraag om pittig; de lokale bevolking houdt van hun hitte."]
+          "ordering_tips": [
+            "Vraag om pittig; de lokale bevolking houdt van hun hitte."
+          ]
         },
         {
           "dish": "Som Tum (Papajasalade)",
           "location": "Lokale straatkraampjes in Ao Nang",
           "story": "Ik keek toe hoe de verkoper de ingrediënten samen stampte, het geluid weerklinkend op de bruisende markt. De eerste hap was een perfecte balans van zoet, zuur en pittig.",
           "price_range": "30-50 baht.",
-          "ordering_tips": ["Geef je pittig-niveau aan; het kan intens worden!"]
+          "ordering_tips": [
+            "Geef je pittig-niveau aan; het kan intens worden!"
+          ]
         },
         {
           "dish": "Massaman Curry",
           "location": "Chao Nang Restaurant in Ao Nang",
           "story": "De rijkdom van de Massaman curry verraste me. Het langzaam gegaarde rundvlees smolt in mijn mond, en ik genoot van elke lepel met rijst.",
           "price_range": "80-120 baht.",
-          "ordering_tips": ["Combineer het met roti voor een authentieke ervaring."]
+          "ordering_tips": [
+            "Combineer het met roti voor een authentieke ervaring."
+          ]
         },
         {
           "dish": "Mango Sticky Rice",
           "location": "Som's Cafe at Railay Beach",
           "story": "Som's versie was de beste die ik ooit heb gehad, met perfect rijpe mango en romige kokossaus. Het is een zoete herinnering die ik koester.",
           "price_range": "50 baht.",
-          "ordering_tips": ["Vraag om extra kokossaus; het is hemels!"]
+          "ordering_tips": [
+            "Vraag om extra kokossaus; het is hemels!"
+          ]
         },
         {
           "dish": "Pad Thai",
           "location": "Nadia's Pad Thai in Ao Nang",
           "story": "Nadia's Pad Thai is legendarisch. Haar zien koken met zoveel passie was een genot, en de smaak was een perfecte mix van smaken.",
           "price_range": "50-70 baht.",
-          "ordering_tips": ["Probeer het met garnalen voor een traktatie."]
+          "ordering_tips": [
+            "Probeer het met garnalen voor een traktatie."
+          ]
         },
         {
           "dish": "Gegrilde Garnalen",
           "location": "Strandkraampjes in Ao Nang",
           "story": "Zittend op het strand met een bord gegrilde garnalen voelde ik me alsof ik het paradijs had ontdekt. De rokerige smaak paste perfect bij een koud biertje.",
           "price_range": "100-150 baht.",
-          "ordering_tips": ["Vraag om de pittige dipsaus; die is een must!"]
+          "ordering_tips": [
+            "Vraag om de pittige dipsaus; die is een must!"
+          ]
         },
         {
           "dish": "Kokosijs",
           "location": "Lokale verkopers in Ao Nang",
           "story": "Op een warme dag is er niets beter dan de verfrissende smaak van kokosijs geserveerd in een kokosnootschaal. Het was een heerlijke traktatie die me deed glimlachen.",
           "price_range": "30 baht.",
-          "ordering_tips": ["Voeg toppings toe zoals pinda's en zoete maïs voor een twist."]
+          "ordering_tips": [
+            "Voeg toppings toe zoals pinda's en zoete maïs voor een twist."
+          ]
         },
         {
           "dish": "Larb Gai (Pittige Kipsalade)",
           "location": "Lokale markten in Krabi Town",
           "story": "Ik aarzelde eerst, maar de eerste hap Larb Gai was een openbaring. De frisheid van de kruiden en de knapperigheid van de groenten waren opwindend.",
           "price_range": "40 baht.",
-          "ordering_tips": ["Sla de kleefrijst niet over; het is de perfecte aanvulling op het gerecht."]
+          "ordering_tips": [
+            "Sla de kleefrijst niet over; het is de perfecte aanvulling op het gerecht."
+          ]
         }
       ],
       "translated_at": "2026-03-09T00:00:00.000Z"
@@ -856,35 +899,45 @@
           "story": "J'ai découvert Koh Hong lors d'une journée tranquille d'exploration. Un pêcheur local, voyant ma curiosité, a proposé de m'emmener dans ce paradis caché en longtail boat privé. Le lagon était à couper le souffle, entouré de falaises imposantes et d'une végétation luxuriante.",
           "how_to_find": "Prenez un longtail boat depuis Ao Nang Beach ; négociez avec les bateliers au quai pour une excursion d'une demi-journée.",
           "best_time": "Tôt le matin pour devancer la foule et admirer le lever du soleil.",
-          "local_insights": ["Apportez vos propres encas et boissons ; il n'y a pas de boutiques sur l'île."]
+          "local_insights": [
+            "Apportez vos propres encas et boissons ; il n'y a pas de boutiques sur l'île."
+          ]
         },
         {
           "name": "Klong Thom Hot Springs",
           "story": "Par un jour de pluie, j'ai trouvé réconfort aux Klong Thom Hot Springs. L'eau chaude était une échappée parfaite, et j'ai partagé des fous rires avec des habitants qui m'ont montré comment préparer des compresses d'herbes à partir des plantes environnantes.",
           "how_to_find": "À environ 30 minutes de Krabi Town ; suivez les panneaux vers le village de Klong Thom.",
           "best_time": "En semaine c'est moins bondé, surtout tôt le matin.",
-          "local_insights": ["Apportez une serviette et préparez-vous à vous détendre ; c'est un lieu de prédilection des habitants."]
+          "local_insights": [
+            "Apportez une serviette et préparez-vous à vous détendre ; c'est un lieu de prédilection des habitants."
+          ]
         },
         {
           "name": "Ao Thalane",
           "story": "Faire du kayak à travers Ao Thalane fut une expérience magique. Je me souviens avoir glissé silencieusement à travers les mangroves, observant des singes se balancer au-dessus de moi, et partageant un moment d'émerveillement avec un guide local qui me parlait de l'écosystème.",
           "how_to_find": "Conduisez ou prenez un taxi jusqu'à Ao Thalane ; il y a plusieurs boutiques de location de kayaks à l'entrée.",
           "best_time": "En fin d'après-midi quand la lumière est douce et que les animaux sont actifs.",
-          "local_insights": ["Engagez un guide local pour une meilleure expérience ; ils connaissent les meilleurs endroits."]
+          "local_insights": [
+            "Engagez un guide local pour une meilleure expérience ; ils connaissent les meilleurs endroits."
+          ]
         },
         {
           "name": "Phra Nang Cave Beach",
           "story": "J'ai trouvé Phra Nang Cave Beach après une longue promenade. La grotte, remplie d'offrandes à l'esprit de la princesse noyée, m'a fasciné. J'ai passé des heures à absorber la beauté et les histoires qu'elle renfermait.",
           "how_to_find": "Accessible par bateau depuis Ao Nang ou Railay Beach ; c'est souvent moins bondé en fin d'après-midi.",
           "best_time": "En fin d'après-midi pour admirer le coucher de soleil.",
-          "local_insights": ["Respectez les coutumes locales ; c'est un lieu sacré pour les pêcheurs."]
+          "local_insights": [
+            "Respectez les coutumes locales ; c'est un lieu sacré pour les pêcheurs."
+          ]
         },
         {
           "name": "Koh Poda",
           "story": "Lors d'une excursion d'île en île, je suis tombé amoureux de Koh Poda. Le sable était comme de la poudre entre mes orteils, et j'ai partagé des histoires avec d'autres voyageurs en regardant le coucher de soleil sur la mer d'Andaman.",
           "how_to_find": "Réservez une excursion depuis Ao Nang ou louez un longtail boat.",
           "best_time": "Au coucher du soleil pour la plus belle vue.",
-          "local_insights": ["Apportez un pique-nique ; il n'y a pas de boutiques sur l'île."]
+          "local_insights": [
+            "Apportez un pique-nique ; il n'y a pas de boutiques sur l'île."
+          ]
         }
       ],
       "authentic_experiences": [
@@ -893,35 +946,45 @@
           "story": "J'ai suivi un cours de cuisine avec un chef local qui m'a appris à préparer un Pad Thai de A à Z. Nous avons visité le marché ensemble pour acheter des ingrédients frais, et j'ai appris la signification de chaque plat dans la culture thaïlandaise.",
           "cultural_significance": "La cuisine est un moyen pour les habitants de partager leur patrimoine et de créer des liens avec les autres.",
           "how_to_participate": "Cherchez des cours à Ao Nang ; beaucoup incluent des visites au marché.",
-          "insights": ["Soyez ouvert aux nouvelles saveurs ; ça fait partie de l'expérience."]
+          "insights": [
+            "Soyez ouvert aux nouvelles saveurs ; ça fait partie de l'expérience."
+          ]
         },
         {
           "activity": "Entraînement de Muay Thai",
           "story": "J'ai décidé d'essayer le Muay Thai dans une salle locale. Les entraîneurs étaient stricts mais bienveillants, me poussant jusqu'à mes limites tout en partageant des histoires sur leur propre parcours dans ce sport.",
           "cultural_significance": "Le Muay Thai est profondément ancré dans la culture thaïlandaise et symbolise la force et la tradition.",
           "how_to_participate": "Inscrivez-vous à un cours pour débutants dans l'une des salles locales à Ao Nang.",
-          "insights": ["Respectez les entraîneurs ; ils apprécient le dévouement et l'engagement."]
+          "insights": [
+            "Respectez les entraîneurs ; ils apprécient le dévouement et l'engagement."
+          ]
         },
         {
           "activity": "Bénévolat dans un sanctuaire d'éléphants",
           "story": "Passer une journée dans un sanctuaire d'éléphants a changé ma vie. J'ai appris sur la conservation des éléphants et partagé un lien spécial avec ces doux géants en les nourrissant et les baignant.",
           "cultural_significance": "Les éléphants ont une grande importance culturelle en Thaïlande et symbolisent la force et la sagesse.",
           "how_to_participate": "Recherchez et réservez une journée dans l'un des centres de refuge éthiques près de Krabi.",
-          "insights": ["Soyez respectueux et suivez les consignes ; c'est crucial pour le bien-être des éléphants."]
+          "insights": [
+            "Soyez respectueux et suivez les consignes ; c'est crucial pour le bien-être des éléphants."
+          ]
         },
         {
           "activity": "Pêche locale avec des pêcheurs",
           "story": "J'ai passé une matinée sur un bateau de pêche avec des pêcheurs locaux. Ils m'ont enseigné des techniques de pêche traditionnelles et partagé des histoires sur leurs ancêtres, me faisant sentir connecté à la terre et à la mer.",
           "cultural_significance": "La pêche est une partie essentielle de la vie à Krabi et offre subsistance et sentiment de communauté.",
           "how_to_participate": "Organisez une sortie de pêche via des tour-opérateurs locaux ou des pensions.",
-          "insights": ["Soyez patient ; la pêche demande du temps et du respect pour la nature."]
+          "insights": [
+            "Soyez patient ; la pêche demande du temps et du respect pour la nature."
+          ]
         },
         {
           "activity": "Atelier de massage thaïlandais",
           "story": "J'ai participé à un atelier pour apprendre le massage thaïlandais traditionnel. L'instructeur était un maître, et j'ai ressenti le pouvoir guérisseur des techniques en pratiquant sur d'autres élèves.",
           "cultural_significance": "Le massage fait partie intégrante de la culture thaïlandaise et favorise le bien-être et la relaxation.",
           "how_to_participate": "Cherchez des ateliers à Ao Nang ou Krabi Town ; beaucoup sont proposés par des spas locaux.",
-          "insights": ["Prenez votre temps pour apprendre ; il s'agit de se connecter avec l'énergie du corps."]
+          "insights": [
+            "Prenez votre temps pour apprendre ; il s'agit de se connecter avec l'énergie du corps."
+          ]
         }
       ],
       "foodie_adventures": [
@@ -930,56 +993,72 @@
           "location": "Roti Chao Wang in Krabi Town",
           "story": "La première fois que j'ai goûté le Khao Soi, j'ai été époustouflé par les saveurs complexes du curry et le croustillant des nouilles frites. C'était comme un câlin chaleureux par un jour de pluie.",
           "price_range": "Environ 60 baht.",
-          "ordering_tips": ["Demandez épicé ; les locaux adorent le piquant."]
+          "ordering_tips": [
+            "Demandez épicé ; les locaux adorent le piquant."
+          ]
         },
         {
           "dish": "Som Tum (Salade de papaye)",
           "location": "Échoppes de rue locales à Ao Nang",
           "story": "J'ai regardé le vendeur piler les ingrédients ensemble, le son résonnant sur le marché animé. La première bouchée était un équilibre parfait entre sucré, acide et épicé.",
           "price_range": "30-50 baht.",
-          "ordering_tips": ["Indiquez votre niveau de piquant ; ça peut devenir intense !"]
+          "ordering_tips": [
+            "Indiquez votre niveau de piquant ; ça peut devenir intense !"
+          ]
         },
         {
           "dish": "Massaman Curry",
           "location": "Chao Nang Restaurant in Ao Nang",
           "story": "La richesse du Massaman curry m'a surpris. Le bœuf mijoté lentement fondait dans ma bouche, et j'ai savouré chaque cuillerée avec du riz.",
           "price_range": "80-120 baht.",
-          "ordering_tips": ["Accompagnez-le de roti pour une expérience authentique."]
+          "ordering_tips": [
+            "Accompagnez-le de roti pour une expérience authentique."
+          ]
         },
         {
           "dish": "Mango Sticky Rice",
           "location": "Som's Cafe at Railay Beach",
           "story": "La version de Som était la meilleure que j'aie jamais goûtée, avec une mangue parfaitement mûre et une sauce crémeuse à la noix de coco. C'est un doux souvenir que je chéris.",
           "price_range": "50 baht.",
-          "ordering_tips": ["Demandez un supplément de sauce coco ; c'est divin !"]
+          "ordering_tips": [
+            "Demandez un supplément de sauce coco ; c'est divin !"
+          ]
         },
         {
           "dish": "Pad Thai",
           "location": "Nadia's Pad Thai in Ao Nang",
           "story": "Le Pad Thai de Nadia est légendaire. La voir cuisiner avec autant de passion était un plaisir, et le goût était un mélange parfait de saveurs.",
           "price_range": "50-70 baht.",
-          "ordering_tips": ["Essayez-le avec des crevettes pour un régal."]
+          "ordering_tips": [
+            "Essayez-le avec des crevettes pour un régal."
+          ]
         },
         {
           "dish": "Crevettes grillées",
           "location": "Échoppes de plage à Ao Nang",
           "story": "Assis sur la plage avec une assiette de crevettes grillées, j'avais l'impression d'avoir découvert le paradis. La saveur fumée se mariait parfaitement avec une bière fraîche.",
           "price_range": "100-150 baht.",
-          "ordering_tips": ["Demandez la sauce piquante ; c'est un incontournable !"]
+          "ordering_tips": [
+            "Demandez la sauce piquante ; c'est un incontournable !"
+          ]
         },
         {
           "dish": "Glace à la noix de coco",
           "location": "Vendeurs locaux à Ao Nang",
           "story": "Par une journée chaude, rien ne vaut le goût rafraîchissant de la glace à la noix de coco servie dans une coque de noix de coco. C'était un délice qui m'a fait sourire.",
           "price_range": "30 baht.",
-          "ordering_tips": ["Ajoutez des garnitures comme des cacahuètes et du maïs sucré pour une touche originale."]
+          "ordering_tips": [
+            "Ajoutez des garnitures comme des cacahuètes et du maïs sucré pour une touche originale."
+          ]
         },
         {
           "dish": "Larb Gai (Salade de poulet épicée)",
           "location": "Marchés locaux à Krabi Town",
           "story": "J'ai d'abord hésité, mais la première bouchée de Larb Gai fut une révélation. La fraîcheur des herbes et le croquant des légumes étaient exaltants.",
           "price_range": "40 baht.",
-          "ordering_tips": ["Ne faites pas l'impasse sur le riz gluant ; c'est le complément parfait du plat."]
+          "ordering_tips": [
+            "Ne faites pas l'impasse sur le riz gluant ; c'est le complément parfait du plat."
+          ]
         }
       ],
       "translated_at": "2026-03-10T00:00:00.000Z"
@@ -998,35 +1077,45 @@
           "story": "Ich entdeckte Koh Hong während eines ruhigen Erkundungstages. Ein einheimischer Fischer, der meine Neugier bemerkte, bot an, mich mit einem privaten Longtail-Boot in dieses verborgene Paradies zu bringen. Die Lagune war atemberaubend, umgeben von hoch aufragenden Klippen und üppigem Grün.",
           "how_to_find": "Nehmen Sie ein Longtail-Boot vom Ao Nang Beach; verhandeln Sie mit den Bootsmännern am Pier für einen Halbtagesausflug.",
           "best_time": "Früh morgens, um den Menschenmassen zuvorzukommen und den Sonnenaufgang zu erleben.",
-          "local_insights": ["Bringen Sie eigene Snacks und Getränke mit; es gibt keine Geschäfte auf der Insel."]
+          "local_insights": [
+            "Bringen Sie eigene Snacks und Getränke mit; es gibt keine Geschäfte auf der Insel."
+          ]
         },
         {
           "name": "Klong Thom Hot Springs",
           "story": "An einem Regentag fand ich Trost in den Klong Thom Hot Springs. Das warme Wasser war eine perfekte Flucht, und ich teilte Lachkrämpfe mit Einheimischen, die mir zeigten, wie man Kräuterkompressen aus den umliegenden Pflanzen herstellt.",
           "how_to_find": "Etwa 30 Minuten von Krabi Town; folgen Sie den Schildern zum Dorf Klong Thom.",
           "best_time": "Unter der Woche ist es weniger überfüllt, besonders am frühen Morgen.",
-          "local_insights": ["Bringen Sie ein Handtuch mit und bereiten Sie sich auf Entspannung vor; es ist ein Lieblingsort der Einheimischen."]
+          "local_insights": [
+            "Bringen Sie ein Handtuch mit und bereiten Sie sich auf Entspannung vor; es ist ein Lieblingsort der Einheimischen."
+          ]
         },
         {
           "name": "Ao Thalane",
           "story": "Kajakfahren durch Ao Thalane war ein magisches Erlebnis. Ich erinnere mich, wie ich lautlos durch die Mangroven glitt, Affen über mir schwingen sah und einen Moment des Staunens mit einem einheimischen Guide teilte, der mir vom Ökosystem erzählte.",
           "how_to_find": "Fahren Sie oder nehmen Sie ein Taxi nach Ao Thalane; es gibt mehrere Kajakverleihgeschäfte am Eingang.",
           "best_time": "Am späten Nachmittag, wenn das Licht weich ist und die Tiere aktiv sind.",
-          "local_insights": ["Engagieren Sie einen einheimischen Guide für ein besseres Erlebnis; sie kennen die besten Plätze."]
+          "local_insights": [
+            "Engagieren Sie einen einheimischen Guide für ein besseres Erlebnis; sie kennen die besten Plätze."
+          ]
         },
         {
           "name": "Phra Nang Cave Beach",
           "story": "Ich fand Phra Nang Cave Beach nach einem langen Spaziergang. Die Höhle, gefüllt mit Opfergaben an den Geist der ertrunkenen Prinzessin, faszinierte mich. Ich verbrachte Stunden damit, die Schönheit und die Geschichten, die sie barg, aufzusaugen.",
           "how_to_find": "Erreichbar per Boot von Ao Nang oder Railay Beach; am späten Nachmittag ist es oft weniger überfüllt.",
           "best_time": "Am späten Nachmittag, um den Sonnenuntergang zu erleben.",
-          "local_insights": ["Respektieren Sie die lokalen Bräuche; es ist ein heiliger Ort für Fischer."]
+          "local_insights": [
+            "Respektieren Sie die lokalen Bräuche; es ist ein heiliger Ort für Fischer."
+          ]
         },
         {
           "name": "Koh Poda",
           "story": "Beim Inselhopping verliebte ich mich in Koh Poda. Der Sand fühlte sich wie Puder zwischen meinen Zehen an, und ich teilte Geschichten mit Mitreisenden, während wir den Sonnenuntergang über der Andamanensee betrachteten.",
           "how_to_find": "Buchen Sie eine Tour ab Ao Nang oder mieten Sie ein Longtail-Boot.",
           "best_time": "Zum Sonnenuntergang für die schönste Aussicht.",
-          "local_insights": ["Bringen Sie ein Picknick mit; es gibt keine Geschäfte auf der Insel."]
+          "local_insights": [
+            "Bringen Sie ein Picknick mit; es gibt keine Geschäfte auf der Insel."
+          ]
         }
       ],
       "authentic_experiences": [
@@ -1035,35 +1124,45 @@
           "story": "Ich nahm an einem Kochkurs bei einem einheimischen Koch teil, der mir beibrachte, Pad Thai von Grund auf zuzubereiten. Wir besuchten zusammen den Markt, um frische Zutaten zu kaufen, und ich lernte die Bedeutung jedes Gerichts in der thailändischen Kultur.",
           "cultural_significance": "Kochen ist eine Art für Einheimische, ihr Erbe zu teilen und sich mit anderen zu verbinden.",
           "how_to_participate": "Suchen Sie nach Kursen in Ao Nang; viele beinhalten Marktbesuche.",
-          "insights": ["Seien Sie offen für neue Geschmäcker; das gehört zum Erlebnis."]
+          "insights": [
+            "Seien Sie offen für neue Geschmäcker; das gehört zum Erlebnis."
+          ]
         },
         {
           "activity": "Muay Thai-Training",
           "story": "Ich beschloss, Muay Thai in einem lokalen Gym auszuprobieren. Die Trainer waren streng, aber freundlich, sie trieben mich bis an meine Grenzen und teilten dabei Geschichten über ihren eigenen Weg im Sport.",
           "cultural_significance": "Muay Thai ist tief in der thailändischen Kultur verwurzelt und symbolisiert Stärke und Tradition.",
           "how_to_participate": "Melden Sie sich für einen Anfängerkurs in einem der lokalen Gyms in Ao Nang an.",
-          "insights": ["Respektieren Sie die Trainer; sie schätzen Hingabe und Einsatz."]
+          "insights": [
+            "Respektieren Sie die Trainer; sie schätzen Hingabe und Einsatz."
+          ]
         },
         {
           "activity": "Freiwilligenarbeit in einem Elefantenschutzgebiet",
           "story": "Einen Tag in einem Elefantenschutzgebiet zu verbringen war lebensverändernd. Ich lernte über Elefantenschutz und teilte eine besondere Verbindung mit diesen sanften Riesen, während ich sie fütterte und badete.",
           "cultural_significance": "Elefanten haben eine große kulturelle Bedeutung in Thailand und symbolisieren Stärke und Weisheit.",
           "how_to_participate": "Recherchieren und buchen Sie einen Tag in einem der ethischen Schutzgebiete in der Nähe von Krabi.",
-          "insights": ["Seien Sie respektvoll und befolgen Sie die Richtlinien; das ist entscheidend für das Wohlergehen der Elefanten."]
+          "insights": [
+            "Seien Sie respektvoll und befolgen Sie die Richtlinien; das ist entscheidend für das Wohlergehen der Elefanten."
+          ]
         },
         {
           "activity": "Lokales Fischen mit Fischern",
           "story": "Ich verbrachte einen Morgen auf einem Fischerboot mit einheimischen Fischern. Sie brachten mir traditionelle Fangtechniken bei und teilten Geschichten über ihre Vorfahren, wodurch ich mich mit dem Land und dem Meer verbunden fühlte.",
           "cultural_significance": "Fischen ist ein wesentlicher Teil des Lebens in Krabi und bietet Lebensunterhalt und ein Gemeinschaftsgefühl.",
           "how_to_participate": "Organisieren Sie einen Angelausflug über lokale Reiseveranstalter oder Gästehäuser.",
-          "insights": ["Seien Sie geduldig; Fischen braucht Zeit und Respekt vor der Natur."]
+          "insights": [
+            "Seien Sie geduldig; Fischen braucht Zeit und Respekt vor der Natur."
+          ]
         },
         {
           "activity": "Thailändische Massage-Workshop",
           "story": "Ich nahm an einem Workshop teil, um traditionelle thailändische Massage zu lernen. Der Kursleiter war ein Meister, und ich spürte die heilende Kraft der Techniken, während ich an Mitschülern übte.",
           "cultural_significance": "Massage ist ein fester Bestandteil der thailändischen Kultur und fördert Wohlbefinden und Entspannung.",
           "how_to_participate": "Suchen Sie nach Workshops in Ao Nang oder Krabi Town; viele werden von lokalen Spas angeboten.",
-          "insights": ["Nehmen Sie sich Zeit zum Lernen; es geht darum, sich mit der Energie des Körpers zu verbinden."]
+          "insights": [
+            "Nehmen Sie sich Zeit zum Lernen; es geht darum, sich mit der Energie des Körpers zu verbinden."
+          ]
         }
       ],
       "foodie_adventures": [
@@ -1072,56 +1171,72 @@
           "location": "Roti Chao Wang in Krabi Town",
           "story": "Als ich zum ersten Mal Khao Soi probierte, war ich überwältigt von den komplexen Aromen des Currys und der Knusprigkeit der gebratenen Nudeln. Es fühlte sich an wie eine warme Umarmung an einem Regentag.",
           "price_range": "Etwa 60 Baht.",
-          "ordering_tips": ["Bestellen Sie es scharf; die Einheimischen lieben ihre Schärfe."]
+          "ordering_tips": [
+            "Bestellen Sie es scharf; die Einheimischen lieben ihre Schärfe."
+          ]
         },
         {
           "dish": "Som Tum (Papayasalat)",
           "location": "Lokale Straßenstände in Ao Nang",
           "story": "Ich sah zu, wie der Verkäufer die Zutaten zusammenstampfte, das Geräusch hallte über den belebten Markt. Der erste Bissen war eine perfekte Balance aus süß, sauer und scharf.",
           "price_range": "30-50 Baht.",
-          "ordering_tips": ["Geben Sie Ihren Schärfegrad an; es kann intensiv werden!"]
+          "ordering_tips": [
+            "Geben Sie Ihren Schärfegrad an; es kann intensiv werden!"
+          ]
         },
         {
           "dish": "Massaman Curry",
           "location": "Chao Nang Restaurant in Ao Nang",
           "story": "Die Reichhaltigkeit des Massaman Curry überraschte mich. Das langsam geschmorte Rindfleisch zerging mir auf der Zunge, und ich genoss jeden Löffel mit Reis.",
           "price_range": "80-120 Baht.",
-          "ordering_tips": ["Kombinieren Sie es mit Roti für ein authentisches Erlebnis."]
+          "ordering_tips": [
+            "Kombinieren Sie es mit Roti für ein authentisches Erlebnis."
+          ]
         },
         {
           "dish": "Mango Sticky Rice",
           "location": "Som's Cafe at Railay Beach",
           "story": "Soms Version war die beste, die ich je hatte, mit perfekt reifer Mango und cremiger Kokosnusssauce. Es ist eine süße Erinnerung, die ich in Ehren halte.",
           "price_range": "50 Baht.",
-          "ordering_tips": ["Bitten Sie um extra Kokosnusssauce; es ist himmlisch!"]
+          "ordering_tips": [
+            "Bitten Sie um extra Kokosnusssauce; es ist himmlisch!"
+          ]
         },
         {
           "dish": "Pad Thai",
           "location": "Nadia's Pad Thai in Ao Nang",
           "story": "Nadias Pad Thai ist legendär. Sie beim Kochen mit so viel Leidenschaft zu beobachten war ein Genuss, und der Geschmack war eine perfekte Mischung aus Aromen.",
           "price_range": "50-70 Baht.",
-          "ordering_tips": ["Probieren Sie es mit Garnelen als besonderes Extra."]
+          "ordering_tips": [
+            "Probieren Sie es mit Garnelen als besonderes Extra."
+          ]
         },
         {
           "dish": "Gegrillte Garnelen",
           "location": "Strandstände in Ao Nang",
           "story": "Am Strand sitzend mit einem Teller gegrillter Garnelen fühlte es sich an, als hätte ich das Paradies entdeckt. Der rauchige Geschmack passte perfekt zu einem kalten Bier.",
           "price_range": "100-150 Baht.",
-          "ordering_tips": ["Fragen Sie nach der scharfen Dipsauce; die ist ein Muss!"]
+          "ordering_tips": [
+            "Fragen Sie nach der scharfen Dipsauce; die ist ein Muss!"
+          ]
         },
         {
           "dish": "Kokoseis",
           "location": "Lokale Verkäufer in Ao Nang",
           "story": "An einem heißen Tag gibt es nichts Besseres als den erfrischenden Geschmack von Kokoseis, serviert in einer Kokosnussschale. Es war ein köstliches Vergnügen, das mich zum Lächeln brachte.",
           "price_range": "30 Baht.",
-          "ordering_tips": ["Fügen Sie Toppings wie Erdnüsse und süßen Mais für eine besondere Note hinzu."]
+          "ordering_tips": [
+            "Fügen Sie Toppings wie Erdnüsse und süßen Mais für eine besondere Note hinzu."
+          ]
         },
         {
           "dish": "Larb Gai (Scharfer Hühnersalat)",
           "location": "Lokale Märkte in Krabi Town",
           "story": "Ich zögerte zunächst, aber der erste Bissen Larb Gai war eine Offenbarung. Die Frische der Kräuter und die Knackigkeit des Gemüses waren aufregend.",
           "price_range": "40 Baht.",
-          "ordering_tips": ["Lassen Sie den Klebreis nicht aus; er ist die perfekte Ergänzung zum Gericht."]
+          "ordering_tips": [
+            "Lassen Sie den Klebreis nicht aus; er ist die perfekte Ergänzung zum Gericht."
+          ]
         }
       ],
       "translated_at": "2026-03-10T00:00:00.000Z"
@@ -1303,35 +1418,45 @@
           "story": "Я обнаружил Ко Хонг во время спокойного дня исследований. Местный рыбак, заметив мой интерес, предложил отвезти меня на частном длиннохвостом катере в этот скрытый рай. Лагуна была захватывающей, окружённая высокими скалами и пышной зеленью.",
           "how_to_find": "Возьмите длиннохвостый катер с пляжа Ао Нанг; торгуйтесь с лодочниками у пирса за полудневную поездку.",
           "best_time": "Раннее утро, чтобы опередить толпы и встретить рассвет.",
-          "local_insights": ["Берите свои закуски и напитки — на острове нет магазинов."]
+          "local_insights": [
+            "Берите свои закуски и напитки — на острове нет магазинов."
+          ]
         },
         {
           "name": "Klong Thom Hot Springs",
           "story": "В дождливый день я нашёл утешение в горячих источниках Клонг Тхом. Тёплые воды стали идеальным убежищем, а с местными жителями, которые показали мне, как делать травяные компрессы из окрестных растений, мы вместе посмеялись.",
           "how_to_find": "Примерно в 30 минутах езды от города Краби; следуйте указателям на деревню Клонг Тхом.",
           "best_time": "Будние дни менее многолюдны, особенно ранним утром.",
-          "local_insights": ["Берите полотенце и готовьтесь расслабиться — это любимое место отдыха местных."]
+          "local_insights": [
+            "Берите полотенце и готовьтесь расслабиться — это любимое место отдыха местных."
+          ]
         },
         {
           "name": "Ao Thalane",
           "story": "Каякинг по Ао Тхалане стал волшебным опытом. Помню, как бесшумно скользил среди мангровых зарослей, наблюдая за обезьянами, качающимися над головой, и разделяя момент восхищения с местным гидом, который рассказывал мне об экосистеме.",
           "how_to_find": "Доберитесь на машине или такси до Ао Тхалане; у входа есть несколько пунктов проката каяков.",
           "best_time": "Поздний вечер, когда свет мягкий и дикая природа активна.",
-          "local_insights": ["Наймите местного гида — он знает лучшие места."]
+          "local_insights": [
+            "Наймите местного гида — он знает лучшие места."
+          ]
         },
         {
           "name": "Phra Nang Cave Beach",
           "story": "Я нашёл пляж Пещеры Пхра Нанг после долгого похода. Пещера, заполненная подношениями духу утонувшей принцессы, очаровала меня. Я провёл часы, впитывая красоту и истории этого места.",
           "how_to_find": "Добраться можно на лодке из Ао Нанга или с пляжа Рейли; ближе к вечеру обычно меньше народа.",
           "best_time": "Поздний вечер, чтобы встретить закат.",
-          "local_insights": ["Уважайте местные обычаи — это священное место для рыбаков."]
+          "local_insights": [
+            "Уважайте местные обычаи — это священное место для рыбаков."
+          ]
         },
         {
           "name": "Koh Poda",
           "story": "Во время островного тура я влюбился в Ко Пода. Песок казался пудрой между пальцами ног, и я делился историями с другими путешественниками, наблюдая за закатом над Андаманским морем.",
           "how_to_find": "Закажите тур из Ао Нанга или арендуйте длиннохвостый катер.",
           "best_time": "Закат для самых потрясающих видов.",
-          "local_insights": ["Устройте пикник — на острове нет магазинов."]
+          "local_insights": [
+            "Устройте пикник — на острове нет магазинов."
+          ]
         }
       ],
       "authentic_experiences": [
@@ -1340,35 +1465,45 @@
           "story": "Я записался на кулинарный мастер-класс к местному шефу, который научил меня готовить Пад Тай с нуля. Мы вместе сходили на рынок за свежими ингредиентами, и я узнал о значении каждого блюда в тайской культуре.",
           "cultural_significance": "Кулинария — это способ для местных делиться наследием и общаться с другими.",
           "how_to_participate": "Ищите мастер-классы в Ао Нанге; многие включают экскурсию по рынку.",
-          "insights": ["Будьте открыты новым вкусам — это часть опыта."]
+          "insights": [
+            "Будьте открыты новым вкусам — это часть опыта."
+          ]
         },
         {
           "activity": "Тренировка Муай Тай",
           "story": "Я решил попробовать Муай Тай в местном зале. Тренеры были строгими, но добрыми, подталкивая к пределу и делясь историями о своём пути в спорте.",
           "cultural_significance": "Муай Тай глубоко укоренён в тайской культуре, олицетворяя силу и традиции.",
           "how_to_participate": "Запишитесь на занятие для начинающих в одном из залов в Ао Нанге.",
-          "insights": ["Уважайте тренеров — они ценят преданность и старание."]
+          "insights": [
+            "Уважайте тренеров — они ценят преданность и старание."
+          ]
         },
         {
           "activity": "Волонтёрство в слоновьем заповеднике",
           "story": "День в слоновьем заповеднике изменил мою жизнь. Я узнал о сохранении слонов и установил особую связь с этими нежными гигантами, кормя и купая их.",
           "cultural_significance": "Слоны занимают важное культурное место в Таиланде, символизируя силу и мудрость.",
           "how_to_participate": "Заранее изучите и забронируйте посещение одного из этичных заповедников недалеко от Краби.",
-          "insights": ["Будьте уважительны и следуйте правилам — это важно для благополучия слонов."]
+          "insights": [
+            "Будьте уважительны и следуйте правилам — это важно для благополучия слонов."
+          ]
         },
         {
           "activity": "Рыбалка с местными рыбаками",
           "story": "Я провёл утро на рыбацкой лодке с местными рыбаками. Они научили меня традиционным техникам ловли и рассказали истории о своих предках, связав меня с землёй и морем.",
           "cultural_significance": "Рыбалка — жизненно важная часть жизни в Краби, обеспечивающая пропитание и чувство общности.",
           "how_to_participate": "Организуйте рыбалку через местных туроператоров или гостевые дома.",
-          "insights": ["Будьте терпеливы — рыбалка требует времени и уважения к природе."]
+          "insights": [
+            "Будьте терпеливы — рыбалка требует времени и уважения к природе."
+          ]
         },
         {
           "activity": "Мастер-класс по тайскому массажу",
           "story": "Я записался на мастер-класс по традиционному тайскому массажу. Инструктор был настоящим мастером, и я ощутил целительную силу техник, практикуясь на других учениках.",
           "cultural_significance": "Массаж — неотъемлемая часть тайской культуры, способствующая здоровью и расслаблению.",
           "how_to_participate": "Ищите мастер-классы в Ао Нанге или городе Краби; многие предлагаются местными спа-центрами.",
-          "insights": ["Не торопитесь учиться — это о соединении с энергией тела."]
+          "insights": [
+            "Не торопитесь учиться — это о соединении с энергией тела."
+          ]
         }
       ],
       "foodie_adventures": [
@@ -1377,56 +1512,72 @@
           "location": "Roti Chao Wang in Krabi Town",
           "story": "Впервые попробовав Кхао Сой, я был поражён сложными вкусами карри и хрустом жареной лапши. В дождливый день это было словно тёплое объятие.",
           "price_range": "Around 60 baht.",
-          "ordering_tips": ["Просите поострее — местные любят погорячее."]
+          "ordering_tips": [
+            "Просите поострее — местные любят погорячее."
+          ]
         },
         {
           "dish": "Som Tum (салат из папайи)",
           "location": "Local street stalls in Ao Nang",
           "story": "Я наблюдал, как продавец толчёт ингредиенты вместе, ритмичные звуки разносятся по оживлённому рынку. Первый укус — идеальный баланс сладкого, кислого и острого.",
           "price_range": "30-50 baht.",
-          "ordering_tips": ["Укажите желаемую степень остроты — может быть очень жгуче!"]
+          "ordering_tips": [
+            "Укажите желаемую степень остроты — может быть очень жгуче!"
+          ]
         },
         {
           "dish": "Massaman Curry",
           "location": "Chao Nang Restaurant in Ao Nang",
           "story": "Насыщенность Массаман карри стала для меня сюрпризом. Медленно тушёная говядина таяла во рту, и каждую ложку с рисом хотелось смаковать.",
           "price_range": "80-120 baht.",
-          "ordering_tips": ["Закажите с роти для аутентичного опыта."]
+          "ordering_tips": [
+            "Закажите с роти для аутентичного опыта."
+          ]
         },
         {
           "dish": "Манго со сладким рисом",
           "location": "Som's Cafe at Railay Beach",
           "story": "Версия Сом была лучшей из всех, что я пробовал — идеально спелое манго и сливочный кокосовый соус. Это сладкое воспоминание, которое я храню.",
           "price_range": "50 baht.",
-          "ordering_tips": ["Попросите побольше кокосового соуса — это божественно!"]
+          "ordering_tips": [
+            "Попросите побольше кокосового соуса — это божественно!"
+          ]
         },
         {
           "dish": "Pad Thai",
           "location": "Nadia's Pad Thai in Ao Nang",
           "story": "Пад Тай у Нади — легенда. Наблюдать, как она готовит с такой страстью, было наслаждением, а вкус — идеальное сочетание ароматов.",
           "price_range": "50-70 baht.",
-          "ordering_tips": ["Попробуйте с креветками — настоящее удовольствие."]
+          "ordering_tips": [
+            "Попробуйте с креветками — настоящее удовольствие."
+          ]
         },
         {
           "dish": "Жареные креветки на гриле",
           "location": "Beachfront stalls in Ao Nang",
           "story": "Сидя на пляже с тарелкой жареных креветок, я чувствовал, что нашёл рай. Дымный аромат идеально сочетался с холодным пивом.",
           "price_range": "100-150 baht.",
-          "ordering_tips": ["Закажите острый соус для обмакивания — обязательно!"]
+          "ordering_tips": [
+            "Закажите острый соус для обмакивания — обязательно!"
+          ]
         },
         {
           "dish": "Кокосовое мороженое",
           "location": "Local vendors in Ao Nang",
           "story": "В жаркий день нет ничего лучше освежающего кокосового мороженого, поданного в кокосовой скорлупе. Это восхитительное лакомство, от которого невозможно не улыбнуться.",
           "price_range": "30 baht.",
-          "ordering_tips": ["Добавьте топпинги — арахис и сладкую кукурузу для разнообразия."]
+          "ordering_tips": [
+            "Добавьте топпинги — арахис и сладкую кукурузу для разнообразия."
+          ]
         },
         {
           "dish": "Larb Gai (острый куриный салат)",
           "location": "Local markets in Krabi Town",
           "story": "Сначала я сомневался, но первый укус Ларб Гай стал откровением. Свежесть трав и хруст овощей были восхитительны.",
           "price_range": "40 baht.",
-          "ordering_tips": ["Не забудьте клейкий рис — он идеально дополняет блюдо."]
+          "ordering_tips": [
+            "Не забудьте клейкий рис — он идеально дополняет блюдо."
+          ]
         }
       ],
       "overview": "Краби — красивая прибрежная провинция на юге Таиланда, знаменитая впечатляющими известняковыми скалами, нетронутыми пляжами и островными турами мирового уровня. Это направление очаровывает путешественников культовыми местами, такими как пляж Рейли и изумрудные воды вокруг Ко Пхи-Пхи. Краби предлагает идеальный баланс для искателей приключений и тех, кто ищет отдых — от скалолазания на отвесных стенах до ленивых дней на пудровых пляжах с кокосовым напитком в руке.",
