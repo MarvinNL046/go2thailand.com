@@ -69,8 +69,8 @@ function HotelCard({ hotel }: { hotel: ClusterHotel }) {
 export default function BestHotelsPage({ data, affiliates }: Props) {
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Best Hotels', href: '/best/' },
-    { name: `Hotels in ${data.cityName}`, href: `/best/hotels-${data.citySlug}/` },
+    { name: 'Best Hotels', href: '/best-hotels/' },
+    { name: `Hotels in ${data.cityName}`, href: `/best-hotels/${data.citySlug}/` },
   ];
 
   const grouped = categoryOrder.reduce<Record<string, ClusterHotel[]>>((acc, cat) => {
@@ -143,7 +143,7 @@ export default function BestHotelsPage({ data, affiliates }: Props) {
             <h2 className="text-2xl font-bold text-gray-900 mb-4">More {data.cityName} Hotel Guides</h2>
             <div className="grid sm:grid-cols-2 gap-4">
               <Link
-                href={`/guides/where-to-stay-${data.citySlug}/`}
+                href={`/guides/where-to-stay/${data.citySlug}/`}
                 className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
               >
                 <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue mb-1">
@@ -183,17 +183,17 @@ export default function BestHotelsPage({ data, affiliates }: Props) {
 export const getStaticPaths: GetStaticPaths = async () => {
   const cities = getClusterCities();
   return {
-    paths: cities.map(city => ({ params: { slug: `hotels-${city}` } })),
+    paths: cities.map(city => ({ params: { slug: city } })),
     fallback: 'blocking',
   };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-  const citySlug = (params?.slug as string).replace(/^hotels-/, '');
-  const data = getHotelsPage(citySlug);
+  const slug = params?.slug as string;
+  const data = getHotelsPage(slug);
   if (!data) return { notFound: true };
   return {
-    props: { data, affiliates: getAffiliates(citySlug) },
+    props: { data, affiliates: getAffiliates(slug) },
     revalidate: 86400,
   };
 };
