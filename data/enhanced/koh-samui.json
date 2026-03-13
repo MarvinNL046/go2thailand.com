@@ -3,13 +3,15 @@
   "slug": "koh-samui",
   "name": {
     "en": "Koh Samui",
-    "nl": "Koh Samui"
+    "nl": "Koh Samui",
+    "ja": "サムイ島"
   },
   "region": "Southern",
   "province": "Surat Thani",
   "description": {
     "en": "Thailand's second-largest island, Koh Samui is a tropical paradise famous for palm-fringed beaches, luxury resorts, and the iconic Big Buddha Temple. A gateway to the Gulf islands with vibrant nightlife and pristine nature.",
-    "nl": "Het op een na grootste eiland van Thailand, Koh Samui is een tropisch paradijs beroemd om zijn palmbomen-omzoomde stranden, luxe resorts en de iconische Grote Boeddha Tempel. Een toegangspoort tot de Golfeilanden met bruisend nachtleven en ongerepte natuur."
+    "nl": "Het op een na grootste eiland van Thailand, Koh Samui is een tropisch paradijs beroemd om zijn palmbomen-omzoomde stranden, luxe resorts en de iconische Grote Boeddha Tempel. Een toegangspoort tot de Golfeilanden met bruisend nachtleven en ongerepte natuur.",
+    "ja": "タイで2番目に大きな島。ヤシの木が並ぶビーチ、豪華リゾート、アイランドホッピングで有名な熱帯の楽園。"
   },
   "population": 63000,
   "highlights": [
@@ -26,25 +28,30 @@
   "seo": {
     "metaTitle": {
       "en": "Discover Koh Samui | What to do in Koh Samui?",
-      "nl": "Ontdek Koh Samui | Wat te doen op Koh Samui?"
+      "nl": "Ontdek Koh Samui | Wat te doen op Koh Samui?",
+      "ja": "サムイ島 タイ — ビーチ＆観光ガイド 2026"
     },
     "metaDescription": {
       "en": "Your guide to Koh Samui, Thailand – beaches, temples, island hopping, food and hotels.",
-      "nl": "Jouw gids voor Koh Samui, Thailand – stranden, tempels, eilandhoppen, eten en hotels."
+      "nl": "Jouw gids voor Koh Samui, Thailand – stranden, tempels, eilandhoppen, eten en hotels.",
+      "ja": "サムイ島（タイ）旅行ガイド — ビーチ、寺院、アイランドホッピング、グルメ、ホテル情報。2026年更新。"
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Koh Samui",
-      "nl": "Beste restaurants en streetfood op Koh Samui"
+      "nl": "Beste restaurants en streetfood op Koh Samui",
+      "ja": "サムイ島のおすすめレストランとストリートフード"
     },
     "hotels": {
       "en": "Top hotels in Koh Samui | Tips & deals",
-      "nl": "Beste hotels op Koh Samui | Tips & aanbiedingen"
+      "nl": "Beste hotels op Koh Samui | Tips & aanbiedingen",
+      "ja": "サムイ島のおすすめホテル | ヒント＆お得情報"
     },
     "attractions": {
       "en": "Top attractions in Koh Samui",
-      "nl": "Top bezienswaardigheden op Koh Samui"
+      "nl": "Top bezienswaardigheden op Koh Samui",
+      "ja": "サムイ島の人気観光スポット"
     }
   },
   "tags": [
@@ -60,55 +67,65 @@
     {
       "name": {
         "en": "Secret Buddha Garden",
-        "nl": "Geheime Boeddha Tuin"
+        "nl": "Geheime Boeddha Tuin",
+        "ja": "シークレット・ブッダガーデン"
       },
       "description": {
         "en": "Hidden in the jungle-covered hills of Samui's interior, this mystical garden features dozens of stone statues and figures scattered among moss-covered rocks and towering trees. Built by a local farmer in 1976, it offers a magical escape from the beaches below.",
-        "nl": "Verborgen in de jungle-bedekte heuvels van Samui's binnenland, heeft deze mystieke tuin tientallen stenen beelden en figuren verspreid tussen mosbegroeid gesteente en hoge bomen. Gebouwd door een lokale boer in 1976, biedt het een magische ontsnapping van de stranden beneden."
+        "nl": "Verborgen in de jungle-bedekte heuvels van Samui's binnenland, heeft deze mystieke tuin tientallen stenen beelden en figuren verspreid tussen mosbegroeid gesteente en hoge bomen. Gebouwd door een lokale boer in 1976, biedt het een magische ontsnapping van de stranden beneden.",
+        "ja": "サムイ島内陸のジャングルに覆われた丘に隠された神秘的な庭園。数十体の石像が点在。"
       },
       "type": "nature"
     },
     {
       "name": {
         "en": "Lipa Noi Beach",
-        "nl": "Lipa Noi Strand"
+        "nl": "Lipa Noi Strand",
+        "ja": "リパノイビーチ"
       },
       "description": {
         "en": "A tranquil west-coast beach largely untouched by tourism, perfect for watching spectacular sunsets over the Gulf of Thailand. Local fishing boats dot the shoreline and the shallow water stretches far out, making it ideal for families.",
-        "nl": "Een rustig strand aan de westkust, grotendeels ongeraakt door toerisme, perfect om spectaculaire zonsondergangen boven de Golf van Thailand te bekijken. Lokale vissersboten staan langs de kustlijn en het ondiepe water strekt zich ver uit, ideaal voor families."
+        "nl": "Een rustig strand aan de westkust, grotendeels ongeraakt door toerisme, perfect om spectaculaire zonsondergangen boven de Golf van Thailand te bekijken. Lokale vissersboten staan langs de kustlijn en het ondiepe water strekt zich ver uit, ideaal voor families.",
+        "ja": "観光開発がほとんど入っていない西海岸の静かなビーチ。壮大な夕日を眺めるのに最適。"
       },
       "type": "nature"
     },
     {
       "name": {
         "en": "Hin Lad Waterfall Temple",
-        "nl": "Hin Lad Waterval Tempel"
+        "nl": "Hin Lad Waterval Tempel",
+        "ja": "ヒンラッド滝寺院"
       },
       "description": {
         "en": "A peaceful forest monastery at the base of a waterfall in the island's interior. Monks meditate here among the rocks and flowing water. The short jungle trail is lined with mindfulness signs and natural beauty.",
-        "nl": "Een vredig bosklooster aan de voet van een waterval in het binnenland van het eiland. Monniken mediteren hier tussen de rotsen en stromend water. Het korte jungle-pad is omzoomd met mindfulness-borden en natuurlijke schoonheid."
+        "nl": "Een vredig bosklooster aan de voet van een waterval in het binnenland van het eiland. Monniken mediteren hier tussen de rotsen en stromend water. Het korte jungle-pad is omzoomd met mindfulness-borden en natuurlijke schoonheid.",
+        "ja": "島の内陸部、滝のふもとにある平和な森の僧院。僧侶がここで瞑想しています。"
       },
       "type": "temple"
     },
     {
       "name": {
         "en": "Bophut Old Street Cafes",
-        "nl": "Bophut Oude Straat Cafes"
+        "nl": "Bophut Oude Straat Cafes",
+        "ja": "ボープット旧市街のカフェ"
       },
       "description": {
         "en": "The charming old Chinese shophouses along Bophut's main street house independent cafes and galleries that most tourists overlook during non-market days. Try Karma Sutra restaurant for fusion Thai tapas with a sea view.",
-        "nl": "De charmante oude Chinese winkelpanden langs de hoofdstraat van Bophut herbergen onafhankelijke cafes en galerieën die de meeste toeristen overslaan op niet-marktdagen. Probeer het Karma Sutra restaurant voor fusion Thaise tapas met zeezicht."
+        "nl": "De charmante oude Chinese winkelpanden langs de hoofdstraat van Bophut herbergen onafhankelijke cafes en galerieën die de meeste toeristen overslaan op niet-marktdagen. Probeer het Karma Sutra restaurant voor fusion Thaise tapas met zeezicht.",
+        "ja": "ボープットのメインストリートに並ぶ趣のある中国風ショップハウスに個性的なカフェやギャラリーが入居。"
       },
       "type": "restaurant"
     },
     {
       "name": {
         "en": "Laem Sor Pagoda",
-        "nl": "Laem Sor Pagode"
+        "nl": "Laem Sor Pagode",
+        "ja": "レームソー・パゴダ"
       },
       "description": {
         "en": "A striking golden pagoda perched on the quiet southern tip of the island, overlooking pristine coastline. Rarely visited by tourists, it offers some of the most peaceful sunset views on Samui with no crowds in sight.",
-        "nl": "Een opvallende gouden pagode gelegen op de rustige zuidpunt van het eiland, met uitzicht over de ongerepte kustlijn. Zelden bezocht door toeristen, biedt het een van de meest vredige zonsondergangen op Samui zonder drukte in zicht."
+        "nl": "Een opvallende gouden pagode gelegen op de rustige zuidpunt van het eiland, met uitzicht over de ongerepte kustlijn. Zelden bezocht door toeristen, biedt het een van de meest vredige zonsondergangen op Samui zonder drukte in zicht.",
+        "ja": "島の静かな南端に建つ印象的な黄金のパゴダ。手つかずの海岸線を見渡せます。"
       },
       "type": "temple"
     }
@@ -254,70 +271,84 @@
     {
       "title": {
         "en": "Getting Around the Island",
-        "nl": "Vervoer op het Eiland"
+        "nl": "Vervoer op het Eiland",
+        "ja": "島内の移動手段"
       },
       "content": {
         "en": "Rent a scooter (200-300 THB/day) to explore Samui's ring road at your own pace. Songthaews (shared pickup trucks) run along the coast for 50-100 THB per ride. Avoid taxi touts at the airport — book transfers in advance or use the Grab app.",
-        "nl": "Huur een scooter (200-300 THB/dag) om de ringweg van Samui op eigen tempo te verkennen. Songthaews (gedeelde pick-up trucks) rijden langs de kust voor 50-100 THB per rit. Vermijd taxichauffeurs op het vliegveld — boek transfers van tevoren of gebruik de Grab app."
+        "nl": "Huur een scooter (200-300 THB/dag) om de ringweg van Samui op eigen tempo te verkennen. Songthaews (gedeelde pick-up trucks) rijden langs de kust voor 50-100 THB per rit. Vermijd taxichauffeurs op het vliegveld — boek transfers van tevoren of gebruik de Grab app.",
+        "ja": "スクーターレンタル（1日200〜300バーツ）でサムイ島の環状道路を自分のペースで探索。ソンテウも利用可能。"
       }
     },
     {
       "title": {
         "en": "Best Beaches for Every Mood",
-        "nl": "Beste Stranden voor Elke Stemming"
+        "nl": "Beste Stranden voor Elke Stemming",
+        "ja": "気分別ベストビーチ"
       },
       "content": {
         "en": "Chaweng is for action and nightlife, Lamai for a balance of buzz and relaxation, Bophut for culture and dining, Maenam for quiet seclusion, and Lipa Noi for the best sunsets. Match your beach to your vibe.",
-        "nl": "Chaweng is voor actie en nachtleven, Lamai voor een balans van drukte en ontspanning, Bophut voor cultuur en uit eten, Maenam voor rustige afzondering en Lipa Noi voor de mooiste zonsondergangen. Kies je strand op basis van je stemming."
+        "nl": "Chaweng is voor actie en nachtleven, Lamai voor een balans van drukte en ontspanning, Bophut voor cultuur en uit eten, Maenam voor rustige afzondering en Lipa Noi voor de mooiste zonsondergangen. Kies je strand op basis van je stemming.",
+        "ja": "チャウエンはアクション＆ナイトライフ、ラマイは賑わいとリラックスのバランス、ボープットは文化的な雰囲気。"
       }
     },
     {
       "title": {
         "en": "Island Hopping from Samui",
-        "nl": "Eilandhoppen vanuit Samui"
+        "nl": "Eilandhoppen vanuit Samui",
+        "ja": "サムイ島からのアイランドホッピング"
       },
       "content": {
         "en": "Book day trips to Ang Thong Marine Park (1,500-2,500 THB) or ferries to Koh Phangan (300-600 THB, 30 min) and Koh Tao (600-1,000 THB, 2 hours). Full Moon Party ferries to Phangan run monthly with late-night return boats.",
-        "nl": "Boek dagtochten naar Ang Thong Marine Park (1.500-2.500 THB) of veerboten naar Koh Phangan (300-600 THB, 30 min) en Koh Tao (600-1.000 THB, 2 uur). Full Moon Party veerboten naar Phangan varen maandelijks met laat terugkeer boten."
+        "nl": "Boek dagtochten naar Ang Thong Marine Park (1.500-2.500 THB) of veerboten naar Koh Phangan (300-600 THB, 30 min) en Koh Tao (600-1.000 THB, 2 uur). Full Moon Party veerboten naar Phangan varen maandelijks met laat terugkeer boten.",
+        "ja": "アントン海洋国立公園への日帰りツアー（1,500〜2,500バーツ）やパンガン島へのフェリー（300〜600バーツ、30分）。"
       }
     },
     {
       "title": {
         "en": "Rainy Season Reality",
-        "nl": "Regenseizoen Realiteit"
+        "nl": "Regenseizoen Realiteit",
+        "ja": "雨季の実態"
       },
       "content": {
         "en": "Samui's Gulf coast means its rainy season (October-December) differs from the Andaman coast. Expect afternoon showers, not all-day rain. Prices drop significantly and beaches are less crowded. November can be very wet with occasional flooding.",
-        "nl": "Samui's ligging aan de Golf betekent dat het regenseizoen (oktober-december) verschilt van de Andamankust. Verwacht middagbuien, geen hele dag regen. Prijzen dalen aanzienlijk en stranden zijn rustiger. November kan erg nat zijn met af en toe overstromingen."
+        "nl": "Samui's ligging aan de Golf betekent dat het regenseizoen (oktober-december) verschilt van de Andamankust. Verwacht middagbuien, geen hele dag regen. Prijzen dalen aanzienlijk en stranden zijn rustiger. November kan erg nat zijn met af en toe overstromingen.",
+        "ja": "サムイ島はタイ湾岸のため雨季（10月〜12月）がアンダマン海岸と異なります。短時間のスコールが多いです。"
       }
     },
     {
       "title": {
         "en": "Avoiding Tourist Traps",
-        "nl": "Toeristenvallen Vermijden"
+        "nl": "Toeristenvallen Vermijden",
+        "ja": "観光客の罠を避ける"
       },
       "content": {
         "en": "Skip overpriced restaurants on Chaweng Beach Road and eat at Laem Din market stalls instead. Negotiate longtail boat prices before boarding. The 'elephant trekking' operations should be avoided — visit ethical sanctuaries instead.",
-        "nl": "Sla te dure restaurants aan Chaweng Beach Road over en eet bij de marktkramen van Laem Din. Onderhandel over de prijzen van longtailboten voordat je instapt. De 'olifantentrekking' operaties kun je beter vermijden — bezoek in plaats daarvan ethische opvangcentra."
+        "nl": "Sla te dure restaurants aan Chaweng Beach Road over en eet bij de marktkramen van Laem Din. Onderhandel over de prijzen van longtailboten voordat je instapt. De 'olifantentrekking' operaties kun je beter vermijden — bezoek in plaats daarvan ethische opvangcentra.",
+        "ja": "チャウエンビーチ通りの割高なレストランは避けて、レームディン市場の屋台で食事を。値段交渉も忘れずに。"
       }
     }
   ],
   "best_time_to_visit": {
     "en": "December to April offers the best weather with sunny skies and calm seas, ideal for beach activities and island hopping. January to March is peak season with higher prices. The Gulf coast rainy season runs October to December, with November typically the wettest month.",
-    "nl": "December tot april biedt het beste weer met zonnige luchten en kalme zeeën, ideaal voor strandactiviteiten en eilandhoppen. Januari tot maart is het hoogseizoen met hogere prijzen. Het regenseizoen aan de Golfkust loopt van oktober tot december, met november als doorgaans de natste maand."
+    "nl": "December tot april biedt het beste weer met zonnige luchten en kalme zeeën, ideaal voor strandactiviteiten en eilandhoppen. Januari tot maart is het hoogseizoen met hogere prijzen. Het regenseizoen aan de Golfkust loopt van oktober tot december, met november als doorgaans de natste maand.",
+    "ja": "12月〜4月が晴天と穏やかな海のベストシーズン。ビーチアクティビティやアイランドホッピングに最適。"
   },
   "budget_info": {
     "budget_per_day": {
       "en": "$25-40",
-      "nl": "$25-40"
+      "nl": "$25-40",
+      "ja": "¥3,700〜5,900"
     },
     "midrange_per_day": {
       "en": "$60-120",
-      "nl": "$60-120"
+      "nl": "$60-120",
+      "ja": "¥8,900〜17,800"
     },
     "luxury_per_day": {
       "en": "$200+",
-      "nl": "$200+"
+      "nl": "$200+",
+      "ja": "¥29,800〜"
     }
   },
   "overview": "Koh Samui, Thailand's second-largest island, is a tropical paradise located in the Gulf of Thailand within Surat Thani Province. With a population of around 63,000, this island has evolved into a sophisticated blend of natural beauty and luxury tourism, famous for its palm-fringed beaches, world-class resorts, and iconic landmarks like the Big Buddha Temple. From the vibrant 3km stretch of Chaweng Beach with its thriving nightlife to the serene Fisherman's Village in Bophut, Koh Samui offers diverse experiences for every type of traveler. The island serves as a gateway to the Ang Thong Marine Park, featuring 42 islands perfect for kayaking and snorkeling, while maintaining pristine natural attractions like Na Muang Waterfall and the unique Secret Buddha Garden.",
