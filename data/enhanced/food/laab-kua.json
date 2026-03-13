@@ -4,14 +4,16 @@
   "name": {
     "en": "Laab Kua",
     "nl": "Laab Kua",
-    "thai": "ลาบคั่ว"
+    "thai": "ลาบคั่ว",
+    "ja": "ラープクア"
   },
   "category": "salad",
   "region": "northern",
   "spice_level": "hot",
   "description": {
     "en": "Northern style meat salad with spices and herbs",
-    "nl": "Noordelijke stijl vleessalade met specerijen en kruiden"
+    "nl": "Noordelijke stijl vleessalade met specerijen en kruiden",
+    "ja": "北タイ式の炒めたラープ、豚ひき肉とドライスパイスを使った香ばしい一品"
   },
   "ingredients": [
     "minced pork or beef",
@@ -29,11 +31,13 @@
   "seo": {
     "metaTitle": {
       "en": "Laab Kua Recipe | Authentic Thai salad",
-      "nl": "Laab Kua Recept | Authentieke Thaise salad"
+      "nl": "Laab Kua Recept | Authentieke Thaise salad",
+      "ja": "ラープクアのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Laab Kua (ลาบคั่ว) - Northern style meat salad with spices and herbs...",
-      "nl": "Leer over Laab Kua (ลาบคั่ว) - Noordelijke stijl vleessalade met specerijen en kruiden..."
+      "nl": "Leer over Laab Kua (ลาบคั่ว) - Noordelijke stijl vleessalade met specerijen en kruiden...",
+      "ja": "ラープクア（ลาบคั่ว）について — 北タイ式の炒めたラープ。豚ひき肉とドライスパイスの香ばしい味わい。"
     }
   },
   "tags": [
