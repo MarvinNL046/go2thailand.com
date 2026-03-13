@@ -3,13 +3,15 @@
   "slug": "rayong",
   "name": {
     "en": "Rayong",
-    "nl": "Rayong"
+    "nl": "Rayong",
+    "ja": "ラヨーン"
   },
   "region": "Central",
   "province": "Rayong",
   "description": {
     "en": "Coastal province east of Bangkok, gateway to the popular island of Koh Samet. Famous for tropical fruit orchards, long sandy beaches, fresh seafood, and a relaxed atmosphere away from the tourist crowds.",
-    "nl": "Kustprovincie ten oosten van Bangkok, toegangspoort tot het populaire eiland Koh Samet. Beroemd om tropische fruitboomgaarden, lange zandstranden, verse zeevruchten en een ontspannen sfeer weg van de toeristische drukte."
+    "nl": "Kustprovincie ten oosten van Bangkok, toegangspoort tot het populaire eiland Koh Samet. Beroemd om tropische fruitboomgaarden, lange zandstranden, verse zeevruchten en een ontspannen sfeer weg van de toeristische drukte.",
+    "ja": "バンコクの東に位置する海岸沿いの県ラヨーンは、人気のサメット島への玄関口であり、フルーツ農園やシーフードでも有名です。"
   },
   "population": 65000,
   "highlights": [
@@ -26,25 +28,30 @@
   "seo": {
     "metaTitle": {
       "en": "Discover Rayong | What to do in Rayong?",
-      "nl": "Ontdek Rayong | Wat te doen in Rayong?"
+      "nl": "Ontdek Rayong | Wat te doen in Rayong?",
+      "ja": "ラヨーンを満喫 | ラヨーンの観光・見どころガイド"
     },
     "metaDescription": {
       "en": "Your guide to Rayong, Thailand – tips, highlights, food, hotels.",
-      "nl": "Jouw gids voor Rayong, Thailand – tips, highlights, eten, hotels."
+      "nl": "Jouw gids voor Rayong, Thailand – tips, highlights, eten, hotels.",
+      "ja": "タイ・ラヨーンの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。"
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Rayong",
-      "nl": "Beste restaurants en streetfood in Rayong"
+      "nl": "Beste restaurants en streetfood in Rayong",
+      "ja": "ラヨーンのおすすめレストラン＆ストリートフード"
     },
     "hotels": {
       "en": "Top hotels in Rayong | Tips & deals",
-      "nl": "Beste hotels in Rayong | Tips & aanbiedingen"
+      "nl": "Beste hotels in Rayong | Tips & aanbiedingen",
+      "ja": "ラヨーンのおすすめホテル｜お得な情報＆アドバイス"
     },
     "attractions": {
       "en": "Top attractions in Rayong",
-      "nl": "Top bezienswaardigheden in Rayong"
+      "nl": "Top bezienswaardigheden in Rayong",
+      "ja": "ラヨーンの人気観光スポット"
     }
   },
   "tags": [
@@ -60,55 +67,65 @@
     {
       "name": {
         "en": "Rayong Fruit Orchards (Suan Lamai)",
-        "nl": "Rayong Fruitboomgaarden (Suan Lamai)"
+        "nl": "Rayong Fruitboomgaarden (Suan Lamai)",
+        "ja": "ラヨーン・フルーツ農園（スアン・ラマイ）"
       },
       "description": {
         "en": "Visit local orchards during fruit season (April-June) to pick your own durian, rambutan, mangosteen, and longkong straight from the trees. Many farmers welcome visitors for a small fee.",
-        "nl": "Bezoek lokale boomgaarden tijdens het fruitseizoen (april-juni) om je eigen durian, rambutan, mangosteen en longkong direct van de bomen te plukken. Veel boeren verwelkomen bezoekers voor een kleine vergoeding."
+        "nl": "Bezoek lokale boomgaarden tijdens het fruitseizoen (april-juni) om je eigen durian, rambutan, mangosteen en longkong direct van de bomen te plukken. Veel boeren verwelkomen bezoekers voor een kleine vergoeding.",
+        "ja": "フルーツシーズン（4月〜6月）に地元の農園でドリアン、ランブータン、マンゴスチンなどを自分で収穫できます。新鮮なトロピカルフルーツを味わえる貴重な体験です。"
       },
       "type": "experience"
     },
     {
       "name": {
         "en": "Ao Prao Beach (Koh Samet)",
-        "nl": "Ao Prao Strand (Koh Samet)"
+        "nl": "Ao Prao Strand (Koh Samet)",
+        "ja": "アオプラオビーチ（サメット島）"
       },
       "description": {
         "en": "The only beach on Koh Samet's quieter west coast, accessible by a short trail or boat. Stunning sunset views with a fraction of the east coast crowds. Home to just a couple of upscale resorts.",
-        "nl": "Het enige strand aan de rustigere westkust van Koh Samet, bereikbaar via een kort pad of boot. Prachtige zonsondergangen met een fractie van de drukte van de oostkust. Slechts een paar luxe resorts."
+        "nl": "Het enige strand aan de rustigere westkust van Koh Samet, bereikbaar via een kort pad of boot. Prachtige zonsondergangen met een fractie van de drukte van de oostkust. Slechts een paar luxe resorts.",
+        "ja": "サメット島の静かな西海岸にある唯一のビーチで、短いトレイルかボートタクシーでアクセスできます。夕日が美しく、東海岸より穏やかな雰囲気です。"
       },
       "type": "nature"
     },
     {
       "name": {
         "en": "Rayong Shrimp Paste Village (Ban Phe)",
-        "nl": "Rayong Garnalenpasta Dorp (Ban Phe)"
+        "nl": "Rayong Garnalenpasta Dorp (Ban Phe)",
+        "ja": "ラヨーン・エビペースト村（バーンペー）"
       },
       "description": {
         "en": "The fishing village of Ban Phe is famous for producing kapi, Thai shrimp paste, using traditional sun-drying methods. Watch the production process and buy the freshest kapi in Thailand.",
-        "nl": "Het vissersdorp Ban Phe is beroemd om de productie van kapi, Thaise garnalenpasta, met traditionele zondroging. Bekijk het productieproces en koop de versste kapi van Thailand."
+        "nl": "Het vissersdorp Ban Phe is beroemd om de productie van kapi, Thaise garnalenpasta, met traditionele zondroging. Bekijk het productieproces en koop de versste kapi van Thailand.",
+        "ja": "バーンペーの漁村はタイのエビペースト（カピ）の名産地で、伝統的な製法を見学し、新鮮なシーフードも楽しめます。"
       },
       "type": "experience"
     },
     {
       "name": {
         "en": "Khao Laem Ya Viewpoint",
-        "nl": "Khao Laem Ya Uitzichtpunt"
+        "nl": "Khao Laem Ya Uitzichtpunt",
+        "ja": "カオ・レームヤー展望台"
       },
       "description": {
         "en": "A rocky headland at the tip of the national park mainland section with panoramic views of Koh Samet and the Gulf islands. The sunset from the viewpoint rocks is breathtaking.",
-        "nl": "Een rotsachtige kaap aan de punt van het vastelanddeel van het nationale park met panoramisch uitzicht op Koh Samet en de Golfeilanden. De zonsondergang vanaf de uitzichtrotsen is adembenemend."
+        "nl": "Een rotsachtige kaap aan de punt van het vastelanddeel van het nationale park met panoramisch uitzicht op Koh Samet en de Golfeilanden. De zonsondergang vanaf de uitzichtrotsen is adembenemend.",
+        "ja": "国立公園の本土側にある岩場の岬で、海とサメット島のパノラマビューが楽しめます。夕暮れ時が特におすすめです。"
       },
       "type": "nature"
     },
     {
       "name": {
         "en": "Suan Son Beach (Pine Beach)",
-        "nl": "Suan Son Strand (Dennenstrand)"
+        "nl": "Suan Son Strand (Dennenstrand)",
+        "ja": "スアンソン・ビーチ（松林ビーチ）"
       },
       "description": {
         "en": "A military-maintained beach with casuarina pines providing natural shade, popular with Thai families on weekends but deserted midweek. Clean sand, calm water, and zero tourist infrastructure.",
-        "nl": "Een door het leger onderhouden strand met casuarinadennen die natuurlijke schaduw bieden, populair bij Thaise families in het weekend maar verlaten doordeweeks. Schoon zand, kalm water en geen toeristische infrastructuur."
+        "nl": "Een door het leger onderhouden strand met casuarinadennen die natuurlijke schaduw bieden, populair bij Thaise families in het weekend maar verlaten doordeweeks. Schoon zand, kalm water en geen toeristische infrastructuur.",
+        "ja": "軍が管理するカジュアリーナ松の木陰が心地よいビーチで、週末にはタイ人家族に人気のピクニックスポットです。観光客が少なく穏やかな雰囲気です。"
       },
       "type": "nature"
     }
@@ -303,70 +320,84 @@
     {
       "title": {
         "en": "Getting to Koh Samet",
-        "nl": "Naar Koh Samet reizen"
+        "nl": "Naar Koh Samet reizen",
+        "ja": "サメット島への行き方"
       },
       "content": {
         "en": "Take a minivan from Bangkok's Eastern Bus Terminal (Ekkamai) to Ban Phe pier (3-3.5 hours). Speedboats to Koh Samet take 15 minutes and ferries take 40 minutes. Most boats land at Na Dan pier.",
-        "nl": "Neem een minivan vanaf het oostelijke busstation van Bangkok (Ekkamai) naar Ban Phe-pier (3-3,5 uur). Speedboten naar Koh Samet doen 15 minuten en veerboten 40 minuten. De meeste boten landen bij Na Dan-pier."
+        "nl": "Neem een minivan vanaf het oostelijke busstation van Bangkok (Ekkamai) naar Ban Phe-pier (3-3,5 uur). Speedboten naar Koh Samet doen 15 minuten en veerboten 40 minuten. De meeste boten landen bij Na Dan-pier.",
+        "ja": "バンコクの東バスターミナル（エカマイ）からバーンペー桟橋までミニバンで3〜3.5時間、そこからフェリーで約40分でサメット島に到着します。"
       }
     },
     {
       "title": {
         "en": "National Park Fee",
-        "nl": "Nationaal Park Toeslag"
+        "nl": "Nationaal Park Toeslag",
+        "ja": "国立公園入園料"
       },
       "content": {
         "en": "Koh Samet is part of a national park. Foreign visitors pay 200 THB entry fee at the pier. Keep your receipt as rangers occasionally check. Thai nationals pay 40 THB.",
-        "nl": "Koh Samet maakt deel uit van een nationaal park. Buitenlandse bezoekers betalen 200 THB entreegeld bij de pier. Bewaar je bon want rangers controleren af en toe. Thaise staatsburgers betalen 40 THB."
+        "nl": "Koh Samet maakt deel uit van een nationaal park. Buitenlandse bezoekers betalen 200 THB entreegeld bij de pier. Bewaar je bon want rangers controleren af en toe. Thaise staatsburgers betalen 40 THB.",
+        "ja": "サメット島は国立公園の一部です。外国人は桟橋で200バーツの入園料を支払います。パスポートの提示を求められることがあります。"
       }
     },
     {
       "title": {
         "en": "Fruit Season Planning",
-        "nl": "Fruitseizoen planning"
+        "nl": "Fruitseizoen planning",
+        "ja": "フルーツシーズンの計画"
       },
       "content": {
         "en": "Visit Rayong's orchards between April and June for durian, rambutan, mangosteen, and longkong at their peak. The annual Rayong Fruit Festival in May or June is a colorful celebration worth attending.",
-        "nl": "Bezoek Rayong's boomgaarden tussen april en juni voor durian, rambutan, mangosteen en longkong op hun hoogtepunt. Het jaarlijkse Rayong Fruitfestival in mei of juni is een kleurrijk feest dat de moeite waard is."
+        "nl": "Bezoek Rayong's boomgaarden tussen april en juni voor durian, rambutan, mangosteen en longkong op hun hoogtepunt. Het jaarlijkse Rayong Fruitfestival in mei of juni is een kleurrijk feest dat de moeite waard is.",
+        "ja": "4月〜6月にラヨーンの農園を訪れると、ドリアン、ランブータン、マンゴスチンの収穫体験ができます。タイのフルーツの王様ドリアンの産地としても有名です。"
       }
     },
     {
       "title": {
         "en": "Weekend Traffic Warning",
-        "nl": "Weekendverkeerswaarschuwing"
+        "nl": "Weekendverkeerswaarschuwing",
+        "ja": "週末の渋滞に注意"
       },
       "content": {
         "en": "Bangkok residents flock to Rayong and Koh Samet on weekends and holidays. The drive can take 5 hours instead of 3 due to traffic. Leave early on Friday or travel midweek for a stress-free trip.",
-        "nl": "Inwoners van Bangkok stromen in het weekend en op feestdagen naar Rayong en Koh Samet. De rit kan 5 uur duren in plaats van 3 door het verkeer. Vertrek vroeg op vrijdag of reis doordeweeks voor een stressvrije trip."
+        "nl": "Inwoners van Bangkok stromen in het weekend en op feestdagen naar Rayong en Koh Samet. De rit kan 5 uur duren in plaats van 3 door het verkeer. Vertrek vroeg op vrijdag of reis doordeweeks voor een stressvrije trip.",
+        "ja": "週末や祝日にはバンコクからの観光客が殺到し、道路が混雑します。平日に訪れるか、早朝に出発することをおすすめします。"
       }
     },
     {
       "title": {
         "en": "Mainland Beaches Are Worth Exploring",
-        "nl": "Vastelandstranden zijn het verkennen waard"
+        "nl": "Vastelandstranden zijn het verkennen waard",
+        "ja": "本土のビーチも探索しよう"
       },
       "content": {
         "en": "Do not overlook the mainland beaches. Mae Ramphueng Beach is 12 km of uncrowded sand, and the seafood restaurants at Paknam Rayong serve lunch at half the price of Koh Samet's beach restaurants.",
-        "nl": "Vergeet de vastelandstranden niet. Mae Ramphueng Beach is 12 km ondruk strand en de visrestaurants bij Paknam Rayong serveren lunch voor de helft van de prijs van Koh Samet's strandrestaurants."
+        "nl": "Vergeet de vastelandstranden niet. Mae Ramphueng Beach is 12 km ondruk strand en de visrestaurants bij Paknam Rayong serveren lunch voor de helft van de prijs van Koh Samet's strandrestaurants.",
+        "ja": "本土のビーチも見逃せません。メーランプーン・ビーチは12kmの人が少ない砂浜で、サメット島の混雑を避けたい方に最適です。"
       }
     }
   ],
   "best_time_to_visit": {
     "en": "November to April is the dry season with sunny skies and calm seas, ideal for beach activities and island hopping. The fruit season peaks from April to June. Koh Samet is accessible year-round as its microclimate keeps it drier than the mainland even during monsoon season.",
-    "nl": "November tot april is het droge seizoen met zonnige luchten en kalme zeeen, ideaal voor strandactiviteiten en eilandhoppen. Het fruitseizoen piekt van april tot juni. Koh Samet is het hele jaar toegankelijk omdat het microklimaat het droger houdt dan het vasteland, zelfs tijdens het moessonseizoen."
+    "nl": "November tot april is het droge seizoen met zonnige luchten en kalme zeeen, ideaal voor strandactiviteiten en eilandhoppen. Het fruitseizoen piekt van april tot juni. Koh Samet is het hele jaar toegankelijk omdat het microklimaat het droger houdt dan het vasteland, zelfs tijdens het moessonseizoen.",
+    "ja": "11月〜4月が乾季で、晴天と穏やかな海がビーチやシュノーケリングに最適です。4月〜6月はフルーツシーズンで農園巡りも楽しめます。"
   },
   "budget_info": {
     "budget_per_day": {
       "en": "$20-35",
-      "nl": "$20-35"
+      "nl": "$20-35",
+      "ja": "1日2,000〜3,500円"
     },
     "midrange_per_day": {
       "en": "$50-90",
-      "nl": "$50-90"
+      "nl": "$50-90",
+      "ja": "1日5,000〜9,000円"
     },
     "luxury_per_day": {
       "en": "$150+",
-      "nl": "$150+"
+      "nl": "$150+",
+      "ja": "1日15,000円以上"
     }
   },
   "enhanced_at": "2026-02-22T10:00:00.000Z",
@@ -706,19 +737,12 @@
     },
     "zh": {
       "enhanced_description": "从曼谷沿高速公路驱车不到三小时即可抵达罗勇，过了春武里之后，沿途的风景从工业区渐变为果园和椰子林。我在Ban Phe附近下了高速，跟随手绘招牌「榴莲、红毛丹、山竹「的指引，来到了路边一片果园，一位名叫Somchai的果农让我直接从树上采摘红毛丹。他用砍刀劈开一个榴莲，那温热的奶油状果肉远胜于超市里塑料包装的版本，我又买了两个带回酒店。这就是罗勇的第一份馈赠：泰国的水果篮，这里的果园供应着全国一半的热带水果收成。\n\n但大多数游客来罗勇只为一个原因：沙美岛。从Ban Phe码头乘快艇只需二十分钟，当岛上白色的月牙形沙滩透过水花出现时，我感受到了那种熟悉的岛屿到达的兴奋。沙美岛在泰国岛屿中占据着恰到好处的位置：发展程度足以提供舒适的住宿和不错的餐厅，但又小到一辆摩托车一小时就能绕岛一圈。我住在Ao Wong Duean，东海岸一个马蹄形的海湾，那里碧绿的海水温暖如浴缸，沙子是明信片上承诺却很少兑现的那种细腻白色粉末。\n\n回到大陆，Mae Ramphueng海滩的长度和空旷让我惊叹。这条十二公里长的金色沙滩从渔村Paknam Rayong向南延伸，一个周二的早晨，我走了一个小时都没看到另一个游客。渔船在村子那头排列在海岸边，一排摆着塑料椅和水泥地板的海鲜餐厅以令人重新考虑是否还要在曼谷吃饭的价格供应当天的渔获。我点了pla kapong neung manao——清蒸鲈鱼配青柠和辣椒，新鲜到鱼肉近乎透明，还有一盘从锅中滋滋作响端上来的蒜香炒鱿鱼。\n\n罗勇城本身是一座功能齐全的泰国省级城市，虽不特别秀美，但有着真实的本地特色。Mae Ramphueng海滩东端的罗勇水族馆是一个规模不大但具有教育意义的景点，尤其适合家庭。城里素坤逸路上的早市色彩缤纷：成堆的虾酱、罗勇出产的泰国著名nam pla ra发酵鱼露、成篮的干鱿鱼，以及堆成小山的热带水果。我在一个摊位尝了用罗勇虾酱做的som tum，那发酵、辛辣、酸爽的复杂风味几乎让我落泪。\n\n罗勇的与众不同之处在于它的可及性和真实性。不像一小时北面的芭提雅那样被大众旅游淹没，罗勇距曼谷足够近，可以来一场真正的周末短途旅行。Khao Laem Ya-Mu Ko Samet国家公园保护着整座岛屿和一段美丽的岩石海岸线，有潮汐池、观景台和轻松的徒步小径。在我的最后一个傍晚，我坐在Khao Laem Ya海角的岩石上，看着太阳沉入泰国湾，渔船在琥珀色天空下化为剪影，心想有时候泰国最好的目的地正是那些没人告诉你的地方。",
-
       "overview": "罗勇是曼谷东部的一颗海滨明珠，既是通往泰国深受喜爱的沙美岛的门户，也以自身远离曼谷喧嚣的悠闲魅力吸引着游客。这座省会城市将原始海滩、新鲜海鲜餐饮和热带果园完美融合，是理想的周末短途或长期度假之选。仅有65,000人口的罗勇保持着真实的泰式氛围，吸引着寻求真实体验而非拥挤旅游设施的旅行者。",
-
       "thingsToDo": "沙美岛是罗勇的瑰宝，从渔村Ban Phe乘渡船即可到达，国家公园门票200 THB ($6 USD)。岛上拥有白沙海滩、清澈的海水和热闹的海滩夜生活，既适合放松也适合夜间娱乐。在大陆，Mae Ramphueng海滩提供12公里清静的沙滩，沿海有优质的新鲜海鲜餐厅——免费进入，非常适合悠闲的海滩日。独特体验方面，4月至6月旺季可参观罗勇的热带果园（100 THB/$3 USD门票），亲手采摘水果并品尝新鲜榴莲。别错过Sai Kaew海滩（又称钻石海滩），拥有粉白色沙滩、水上运动和夜间火舞表演，除国家公园门票外免费进入。罗勇水族馆（50 THB/$1.50 USD）提供海洋教育展览和家庭友好活动，而Khao Laem Ya-Mu Ko Samet国家公园（200 THB/$6 USD）提供海岸观景台和潮汐池，涵盖岛屿和大陆两部分。渔村Ban Phe既是渡船出发点，也是可以体验真实当地海洋文化和享用新鲜海鲜的渔业工作村。",
-
       "whereToStay": "罗勇提供各价位住宿，从豪华海滨度假村到经济旅馆应有尽有。城里有多家国际连锁品牌如Novotel Rayong Star Convention Centre和Hilton Garden Inn Rayong，适合寻求熟悉舒适感的旅客，而Le Vimarn Cottages & Spa和Paradee则提供具有泰式特色的豪华体验。中档选项在市中心和海滩区域丰富多样，$50-100/晚性价比优良。预算旅行者可在海滩和市中心附近找到约$15-30/晚的众多旅馆和小型酒店。沙美岛本身也有岛上住宿，从简单的海滩小屋到高端度假村不等，如西海岸Ao Prao海滩的度假村，可欣赏宁静的日落和更私密的氛围。",
-
       "gettingAround": "罗勇的当地交通主要依靠嘟嘟车和双条车（共享红色出租车），在市区和海滩区域随处可见且价格实惠，每程通常40-100 THB ($1.20-3 USD)。摩托车租赁在游客中非常受欢迎，租赁点众多，每天150-250 THB ($5-8 USD)，可自由探索全省和周边景点。Grab叫车应用在罗勇运行良好，虽然比嘟嘟车略贵，但提供固定价格和安全保障。前往沙美岛的主要渡船从渔村Ban Phe出发，全天有定期班次——码头从罗勇市中心乘嘟嘟车约30-45分钟可达（100-150 THB/$3-4.50 USD）。长途出行方面，巴士连接罗勇与曼谷东部汽车站（2-3小时，100-150 THB/$3-4.50 USD）及其他省份，提供经济实惠的交通选择。",
-
       "bestTimeToVisit": "罗勇的最佳旅行季节为11月至次年2月，此时气温较凉爽（20-28°C）且降雨极少，最适合海滩活动和户外出游。3月至5月气温逐渐升高，其中4月-6月是芒果和其他水果的旺季，适合参观果园，但天气也更热。5月至10月的西南季风季带来更多降雨和较大海浪，水上活动不太理想，但此期间价格大幅下降，景色变得郁郁葱葱。12月和1月是旅游旺季，游客最多、价格最高，而11月和2月在天气依然极好的同时性价比更优。如需在宜人天气、较少人群和合理价格之间取得最佳平衡，建议11月、2月或3月初到访。",
-
       "safetyTips": "罗勇对游客总体安全，犯罪率低且氛围轻松。需注意常规热带防范措施：充分涂抹防晒霜（紫外线强烈），保持水分补充，季风季节注意强流和大浪可能使游泳变得危险——务必查看海滩状况旗帜。游览沙美岛时，通过正规渠道购买船票，避免夜间独自在僻静海滩行走，将贵重物品存放在酒店保险箱而非留在海滩上无人看管。骑摩托车者应佩戴头盔（法律要求），注意泰国交通规则与西方国家不同；如不熟悉当地驾驶习惯，建议使用嘟嘟车或Grab。拥挤区域和海滩小镇偶有小偷小摸，请将背包放在身边，避免展示昂贵首饰或电子设备。",
-
       "translated_at": "2026-03-11T00:00:00.000Z"
     },
     "ru": {
