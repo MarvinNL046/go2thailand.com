@@ -4,6 +4,7 @@ interface CityExploreMoreProps {
   citySlug: string;
   cityName: string;
   currentPage: string;
+  hasCluster?: boolean;
 }
 
 interface SubPage {
@@ -32,6 +33,7 @@ export default function CityExploreMore({
   citySlug,
   cityName,
   currentPage,
+  hasCluster = false,
 }: CityExploreMoreProps) {
   const isNichePage = nicheSubPages.some((p) => p.slug === currentPage);
 
@@ -39,7 +41,14 @@ export default function CityExploreMore({
   const allPages = isNichePage ? [...coreSubPages, ...nicheSubPages] : coreSubPages;
   const pages = allPages.filter((p) => p.slug !== currentPage);
 
-  if (pages.length === 0) return null;
+  const clusterLinks = hasCluster
+    ? [
+        { href: `/destinations/${citySlug}/`, icon: '🗺️', title: 'Destination Guide' },
+        { href: `/things-to-do/${citySlug}/`, icon: '🎯', title: 'Things To Do' },
+      ]
+    : [];
+
+  if (pages.length === 0 && clusterLinks.length === 0) return null;
 
   return (
     <section className="mt-12 mb-8">
@@ -47,6 +56,20 @@ export default function CityExploreMore({
         Explore More in {cityName}
       </h2>
       <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+        {clusterLinks.map((link) => (
+          <Link
+            key={link.href}
+            href={link.href}
+            className="bg-white rounded-2xl shadow-sm border border-blue-100 p-4 flex items-center gap-3 hover:shadow-md hover:border-blue-300 transition-all duration-200"
+          >
+            <span className="text-2xl flex-shrink-0" role="img" aria-hidden="true">
+              {link.icon}
+            </span>
+            <span className="text-sm font-medium text-gray-800 leading-tight">
+              {link.title}
+            </span>
+          </Link>
+        ))}
         {pages.map((page) => (
           <Link
             key={page.slug}
