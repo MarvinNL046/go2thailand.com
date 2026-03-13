@@ -3,13 +3,15 @@
   "slug": "kanchanaburi",
   "name": {
     "en": "Kanchanaburi",
-    "nl": "Kanchanaburi"
+    "nl": "Kanchanaburi",
+    "ja": "カンチャナブリー"
   },
   "region": "Central",
   "province": "Kanchanaburi",
   "description": {
     "en": "Historic city on the River Kwai, known for WWII sites, stunning waterfalls, and jungle adventures. Home to the famous Bridge over the River Kwai and the breathtaking Erawan National Park.",
-    "nl": "Historische stad aan de rivier Kwai, bekend om WOII-locaties, prachtige watervallen en jungleavonturen. Thuisbasis van de beroemde Brug over de Rivier Kwai en het adembenemende Erawan Nationaal Park."
+    "nl": "Historische stad aan de rivier Kwai, bekend om WOII-locaties, prachtige watervallen en jungleavonturen. Thuisbasis van de beroemde Brug over de Rivier Kwai en het adembenemende Erawan Nationaal Park.",
+    "ja": "クワイ川沿いの歴史ある街。第二次世界大戦の史跡、壮大な滝、ジャングルアドベンチャーで有名。"
   },
   "population": 31242,
   "highlights": [
@@ -26,25 +28,30 @@
   "seo": {
     "metaTitle": {
       "en": "Discover Kanchanaburi | What to do in Kanchanaburi?",
-      "nl": "Ontdek Kanchanaburi | Wat te doen in Kanchanaburi?"
+      "nl": "Ontdek Kanchanaburi | Wat te doen in Kanchanaburi?",
+      "ja": "カンチャナブリー タイ — クワイ川観光ガイド 2026"
     },
     "metaDescription": {
       "en": "Your guide to Kanchanaburi, Thailand – tips, highlights, food, hotels.",
-      "nl": "Jouw gids voor Kanchanaburi, Thailand – tips, highlights, eten, hotels."
+      "nl": "Jouw gids voor Kanchanaburi, Thailand – tips, highlights, eten, hotels.",
+      "ja": "カンチャナブリー（タイ）旅行ガイド — おすすめスポット、グルメ、ホテル情報。2026年更新。"
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Kanchanaburi",
-      "nl": "Beste restaurants en streetfood in Kanchanaburi"
+      "nl": "Beste restaurants en streetfood in Kanchanaburi",
+      "ja": "カンチャナブリーのおすすめレストランとストリートフード"
     },
     "hotels": {
       "en": "Top hotels in Kanchanaburi | Tips & deals",
-      "nl": "Beste hotels in Kanchanaburi | Tips & aanbiedingen"
+      "nl": "Beste hotels in Kanchanaburi | Tips & aanbiedingen",
+      "ja": "カンチャナブリーのおすすめホテル | ヒント＆お得情報"
     },
     "attractions": {
       "en": "Top attractions in Kanchanaburi",
-      "nl": "Top bezienswaardigheden in Kanchanaburi"
+      "nl": "Top bezienswaardigheden in Kanchanaburi",
+      "ja": "カンチャナブリーの人気観光スポット"
     }
   },
   "tags": [
@@ -60,55 +67,65 @@
     {
       "name": {
         "en": "Prasat Muang Singh Historical Park",
-        "nl": "Prasat Muang Singh Historisch Park"
+        "nl": "Prasat Muang Singh Historisch Park",
+        "ja": "プラサートムアンシン歴史公園"
       },
       "description": {
         "en": "A rarely visited Khmer ruin complex along the River Kwai Noi, dating from the 13th century. Far quieter than Ayutthaya, with atmospheric laterite structures set against jungle backdrop.",
-        "nl": "Een zelden bezocht Khmer-ruinecomplex langs de rivier Kwai Noi, daterend uit de 13e eeuw. Veel rustiger dan Ayutthaya, met sfeervolle laterietstructuren tegen een jungleachtergrond."
+        "nl": "Een zelden bezocht Khmer-ruinecomplex langs de rivier Kwai Noi, daterend uit de 13e eeuw. Veel rustiger dan Ayutthaya, met sfeervolle laterietstructuren tegen een jungleachtergrond.",
+        "ja": "クワイノイ川沿いの13世紀のクメール遺跡群。観光客が少なく静かに歴史を感じられる穴場。"
       },
       "type": "temple"
     },
     {
       "name": {
         "en": "Lawa Cave (Tham Lawa)",
-        "nl": "Lawa-grot (Tham Lawa)"
+        "nl": "Lawa-grot (Tham Lawa)",
+        "ja": "ラワ洞窟（タムラワ）"
       },
       "description": {
         "en": "A stunning cave with dramatic stalactites accessible by longtail boat along the Kwai Noi River. Few tourists make the journey, making it a peaceful underground adventure.",
-        "nl": "Een prachtige grot met dramatische stalactieten, bereikbaar per longtailboot langs de rivier Kwai Noi. Weinig toeristen maken de reis, waardoor het een vredig ondergronds avontuur is."
+        "nl": "Een prachtige grot met dramatische stalactieten, bereikbaar per longtailboot langs de rivier Kwai Noi. Weinig toeristen maken de reis, waardoor het een vredig ondergronds avontuur is.",
+        "ja": "クワイノイ川沿いをロングテールボートでアクセスする壮大な鍾乳洞。訪問者が少ない秘境。"
       },
       "type": "nature"
     },
     {
       "name": {
         "en": "Ban Kao National Museum",
-        "nl": "Ban Kao Nationaal Museum"
+        "nl": "Ban Kao Nationaal Museum",
+        "ja": "バーンカオ国立博物館"
       },
       "description": {
         "en": "Small but fascinating museum built around a Neolithic burial site discovered during railway construction. Displays prehistoric tools and artifacts found in the Kwai valley.",
-        "nl": "Klein maar fascinerend museum gebouwd rond een neolithische begraafplaats die tijdens de spoorwegaanleg werd ontdekt. Toont prehistorisch gereedschap en artefacten uit de Kwai-vallei."
+        "nl": "Klein maar fascinerend museum gebouwd rond een neolithische begraafplaats die tijdens de spoorwegaanleg werd ontdekt. Toont prehistorisch gereedschap en artefacten uit de Kwai-vallei.",
+        "ja": "鉄道建設中に発見された新石器時代の埋葬地に建てられた小さいながらも魅力的な博物館。"
       },
       "type": "museum"
     },
     {
       "name": {
         "en": "Kanchanaburi Morning Market",
-        "nl": "Kanchanaburi Ochtendmarkt"
+        "nl": "Kanchanaburi Ochtendmarkt",
+        "ja": "カンチャナブリー朝市"
       },
       "description": {
         "en": "The bustling morning market near the train station on Saeng Chuto Road, where locals shop for fresh produce, grilled meats, and traditional Thai sweets starting at dawn.",
-        "nl": "De bruisende ochtendmarkt bij het treinstation aan Saeng Chuto Road, waar locals vanaf de vroege ochtend verse producten, gegrild vlees en traditionele Thaise snoepjes kopen."
+        "nl": "De bruisende ochtendmarkt bij het treinstation aan Saeng Chuto Road, waar locals vanaf de vroege ochtend verse producten, gegrild vlees en traditionele Thaise snoepjes kopen.",
+        "ja": "駅近くのセーンチュートー通りにある活気ある朝市。地元の人々が新鮮な食材を買い求めます。"
       },
       "type": "market"
     },
     {
       "name": {
         "en": "Keeree Tara Riverside Restaurant",
-        "nl": "Keeree Tara Rivierrestaurant"
+        "nl": "Keeree Tara Rivierrestaurant",
+        "ja": "キーリータラ・リバーサイドレストラン"
       },
       "description": {
         "en": "A hidden gem restaurant perched on rocks overlooking the confluence of the Kwai rivers. Famous for its giant river prawns grilled over charcoal, best visited at sunset.",
-        "nl": "Een verborgen juweeltje van een restaurant op de rotsen met uitzicht op de samenvloeiing van de Kwai-rivieren. Beroemd om reusachtige riviergarnalen gegrild op houtskool, het beste te bezoeken bij zonsondergang."
+        "nl": "Een verborgen juweeltje van een restaurant op de rotsen met uitzicht op de samenvloeiing van de Kwai-rivieren. Beroemd om reusachtige riviergarnalen gegrild op houtskool, het beste te bezoeken bij zonsondergang.",
+        "ja": "クワイ川の合流点を見下ろす岩場に佇む隠れた名店。絶景のシーフードレストラン。"
       },
       "type": "restaurant"
     }
@@ -265,70 +282,84 @@
     {
       "title": {
         "en": "Getting There from Bangkok",
-        "nl": "Hoe kom je er vanuit Bangkok"
+        "nl": "Hoe kom je er vanuit Bangkok",
+        "ja": "バンコクからのアクセス"
       },
       "content": {
         "en": "Take a minivan from Bangkok's Southern Bus Terminal (Mo Chit) for about 3 hours, or ride the historic train from Thonburi station which takes longer but follows a scenic route along the River Kwai.",
-        "nl": "Neem een minivan vanaf het zuidelijke busstation van Bangkok (Mo Chit) voor ongeveer 3 uur, of neem de historische trein vanaf Thonburi-station, wat langer duurt maar een schilderachtige route langs de rivier Kwai volgt."
+        "nl": "Neem een minivan vanaf het zuidelijke busstation van Bangkok (Mo Chit) voor ongeveer 3 uur, of neem de historische trein vanaf Thonburi-station, wat langer duurt maar een schilderachtige route langs de rivier Kwai volgt.",
+        "ja": "バンコク南バスターミナル（モーチット）からミニバンで約3時間。歴史ある鉄道ルートも風情があります。"
       }
     },
     {
       "title": {
         "en": "Renting a Motorbike",
-        "nl": "Een motor huren"
+        "nl": "Een motor huren",
+        "ja": "バイクレンタル"
       },
       "content": {
         "en": "A motorbike is the best way to explore Kanchanaburi independently. Rentals start at 200 THB per day on Maenam Kwai Road. Essential for reaching Erawan Falls and Hellfire Pass at your own pace.",
-        "nl": "Een motor is de beste manier om Kanchanaburi zelfstandig te verkennen. Verhuur begint bij 200 THB per dag aan Maenam Kwai Road. Essentieel om Erawan Falls en Hellfire Pass op eigen tempo te bereiken."
+        "nl": "Een motor is de beste manier om Kanchanaburi zelfstandig te verkennen. Verhuur begint bij 200 THB per dag aan Maenam Kwai Road. Essentieel om Erawan Falls en Hellfire Pass op eigen tempo te bereiken.",
+        "ja": "カンチャナブリーを自由に探索するにはバイクが最適。レンタルは1日200バーツから。"
       }
     },
     {
       "title": {
         "en": "Visit Erawan Falls Early",
-        "nl": "Bezoek Erawan Falls vroeg"
+        "nl": "Bezoek Erawan Falls vroeg",
+        "ja": "エラワン滝は早朝に"
       },
       "content": {
         "en": "Arrive at Erawan National Park when it opens at 8:00 AM to avoid crowds. The lower tiers get busy by mid-morning. Bring water shoes for the slippery rocks and a waterproof bag for your phone.",
-        "nl": "Arriveer bij Erawan National Park wanneer het opent om 8:00 uur om drukte te vermijden. De lagere niveaus worden druk tegen het midden van de ochtend. Neem waterschoenen mee voor de gladde rotsen en een waterdichte tas voor je telefoon."
+        "nl": "Arriveer bij Erawan National Park wanneer het opent om 8:00 uur om drukte te vermijden. De lagere niveaus worden druk tegen het midden van de ochtend. Neem waterschoenen mee voor de gladde rotsen en een waterdichte tas voor je telefoon.",
+        "ja": "エラワン国立公園は開園の8:00に到着すると混雑を避けられます。下層は10時頃から混み始めます。"
       }
     },
     {
       "title": {
         "en": "Respect at War Sites",
-        "nl": "Respect op oorlogslocaties"
+        "nl": "Respect op oorlogslocaties",
+        "ja": "戦争関連施設での敬意"
       },
       "content": {
         "en": "The war cemeteries and museums are solemn places. Dress respectfully, keep voices low, and avoid selfies at the graves. The Thailand-Burma Railway Centre provides excellent historical context before visiting.",
-        "nl": "De oorlogsbegraafplaatsen en musea zijn plechtige plaatsen. Kleed je respectvol, houd stemmen laag en vermijd selfies bij de graven. Het Thailand-Burma Railway Centre biedt uitstekende historische context voor een bezoek."
+        "nl": "De oorlogsbegraafplaatsen en musea zijn plechtige plaatsen. Kleed je respectvol, houd stemmen laag en vermijd selfies bij de graven. Het Thailand-Burma Railway Centre biedt uitstekende historische context voor een bezoek.",
+        "ja": "戦争墓地や博物館は厳粛な場所です。礼儀正しい服装で、声を抑え、自撮りは控えてください。"
       }
     },
     {
       "title": {
         "en": "Weekend vs Weekday Visits",
-        "nl": "Weekend vs doordeweeks bezoek"
+        "nl": "Weekend vs doordeweeks bezoek",
+        "ja": "週末 vs 平日"
       },
       "content": {
         "en": "Kanchanaburi is a popular weekend escape for Bangkokians. Prices rise and attractions get crowded on Saturday and Sunday. Visit midweek for a quieter, more authentic experience.",
-        "nl": "Kanchanaburi is een populaire weekenduitje voor inwoners van Bangkok. Prijzen stijgen en attracties worden druk op zaterdag en zondag. Bezoek doordeweeks voor een rustiger, authentieker ervaring."
+        "nl": "Kanchanaburi is een populaire weekenduitje voor inwoners van Bangkok. Prijzen stijgen en attracties worden druk op zaterdag en zondag. Bezoek doordeweeks voor een rustiger, authentieker ervaring.",
+        "ja": "カンチャナブリーはバンコクからの週末旅行先として人気。週末は料金が上がり観光地も混雑します。平日がおすすめ。"
       }
     }
   ],
   "best_time_to_visit": {
     "en": "November to February offers the most comfortable weather with cool temperatures perfect for waterfall hikes and outdoor exploration. The rainy season (June to October) brings lush greenery and the waterfalls at their most spectacular, though some trails may be slippery.",
-    "nl": "November tot februari biedt het aangenaamste weer met koele temperaturen, perfect voor watervalwandelingen en buitenactiviteiten. Het regenseizoen (juni tot oktober) brengt weelderig groen en de watervallen op hun spectaculairst, hoewel sommige paden glad kunnen zijn."
+    "nl": "November tot februari biedt het aangenaamste weer met koele temperaturen, perfect voor watervalwandelingen en buitenactiviteiten. Het regenseizoen (juni tot oktober) brengt weelderig groen en de watervallen op hun spectaculairst, hoewel sommige paden glad kunnen zijn.",
+    "ja": "11月〜2月が最も快適な気候。滝巡りやジャングルハイキングに最適な涼しい気温。"
   },
   "budget_info": {
     "budget_per_day": {
       "en": "$20-35",
-      "nl": "$20-35"
+      "nl": "$20-35",
+      "ja": "¥3,000〜5,200"
     },
     "midrange_per_day": {
       "en": "$50-80",
-      "nl": "$50-80"
+      "nl": "$50-80",
+      "ja": "¥7,400〜11,900"
     },
     "luxury_per_day": {
       "en": "$150+",
-      "nl": "$150+"
+      "nl": "$150+",
+      "ja": "¥22,300〜"
     }
   },
   "enhanced_at": "2026-02-22T10:00:00.000Z",
