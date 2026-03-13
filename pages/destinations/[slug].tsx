@@ -4,7 +4,8 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import ClusterNav from '../../components/ClusterNav';
 import AffiliateBox from '../../components/AffiliateBox';
-import { getDestinationHub, getClusterCities, getClusterLinks, DestinationHub } from '../../lib/clusters';
+import type { DestinationHub } from '../../lib/cluster-types';
+import { getClusterLinks } from '../../lib/cluster-types';
 import { getAffiliates, CityAffiliates } from '../../lib/affiliates';
 
 interface Props {
@@ -114,6 +115,7 @@ export default function DestinationHubPage({ data, affiliates }: Props) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
+  const { getClusterCities } = await import('../../lib/clusters');
   const cities = getClusterCities();
   return {
     paths: cities.map(slug => ({ params: { slug } })),
@@ -122,6 +124,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
+  const { getDestinationHub } = await import('../../lib/clusters');
   const slug = params?.slug as string;
   const data = getDestinationHub(slug);
   if (!data) return { notFound: true };

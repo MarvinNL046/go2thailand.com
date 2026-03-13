@@ -4,12 +4,9 @@ import SEOHead from '../../../components/SEOHead';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import ClusterNav from '../../../components/ClusterNav';
 import AffiliateBox from '../../../components/AffiliateBox';
-import {
-  getTravelGuide,
-  getClusterCities,
-} from '../../../lib/clusters';
-import type { TravelGuidePage } from '../../../lib/clusters';
+import type { TravelGuidePage } from '../../../lib/cluster-types';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
+// NOTE: clusters.ts imported dynamically in getStaticPaths/Props to avoid bundling 'fs' client-side
 
 interface Props {
   data: TravelGuidePage;
@@ -194,6 +191,7 @@ export default function TravelGuidePage({ data, affiliates }: Props) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
+  const { getClusterCities } = await import('../../../lib/clusters');
   const cities = getClusterCities();
   return {
     paths: cities.map((city) => ({ params: { slug: city } })),
@@ -202,6 +200,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
+  const { getTravelGuide } = await import('../../../lib/clusters');
   const slug = params?.slug as string;
   const data = getTravelGuide(slug);
   if (!data) return { notFound: true };

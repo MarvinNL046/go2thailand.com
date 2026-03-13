@@ -4,9 +4,10 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import ClusterNav from '../../components/ClusterNav';
 import AffiliateBox from '../../components/AffiliateBox';
-import { getThingsToDo, getClusterCities, getClusterLinks } from '../../lib/clusters';
-import type { ThingsToDoPage, ClusterActivity } from '../../lib/clusters';
+import type { ThingsToDoPage, ClusterActivity } from '../../lib/cluster-types';
+import { getClusterLinks } from '../../lib/cluster-types';
 import { getAffiliates, CityAffiliates } from '../../lib/affiliates';
+// NOTE: clusters.ts imported dynamically in getStaticPaths/Props to avoid bundling 'fs' client-side
 
 interface Props {
   data: ThingsToDoPage;
@@ -199,6 +200,7 @@ export default function ThingsToDoPage({ data, affiliates }: Props) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
+  const { getClusterCities } = await import('../../lib/clusters');
   const cities = getClusterCities();
   return {
     paths: cities.map(slug => ({ params: { slug } })),
@@ -207,6 +209,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
+  const { getThingsToDo } = await import('../../lib/clusters');
   const slug = params?.slug as string;
   const data = getThingsToDo(slug);
   if (!data) return { notFound: true };

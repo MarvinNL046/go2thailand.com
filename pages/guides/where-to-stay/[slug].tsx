@@ -4,12 +4,9 @@ import SEOHead from '../../../components/SEOHead';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import ClusterNav from '../../../components/ClusterNav';
 import AffiliateBox from '../../../components/AffiliateBox';
-import {
-  getWhereToStay,
-  getClusterCities,
-} from '../../../lib/clusters';
-import type { WhereToStayPage, ClusterNeighborhood } from '../../../lib/clusters';
+import type { WhereToStayPage, ClusterNeighborhood } from '../../../lib/cluster-types';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
+// NOTE: clusters.ts imported dynamically in getStaticPaths/Props to avoid bundling 'fs' client-side
 
 // --- Price level badge colors ---
 const priceLevelColors: Record<string, string> = {
@@ -163,6 +160,7 @@ export default function WhereToStayPage({ data, affiliates }: Props) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
+  const { getClusterCities } = await import('../../../lib/clusters');
   const cities = getClusterCities();
   return {
     paths: cities.map((city) => ({ params: { slug: city } })),
@@ -171,6 +169,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
+  const { getWhereToStay } = await import('../../../lib/clusters');
   const slug = params?.slug as string;
   const data = getWhereToStay(slug);
   if (!data) return { notFound: true };

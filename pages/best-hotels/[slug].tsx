@@ -4,8 +4,9 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import ClusterNav from '../../components/ClusterNav';
 import AffiliateBox from '../../components/AffiliateBox';
-import { getHotelsPage, getClusterCities, ClusterHotel, type HotelsPage } from '../../lib/clusters';
+import type { HotelsPage, ClusterHotel } from '../../lib/cluster-types';
 import { getAffiliates, CityAffiliates } from '../../lib/affiliates';
+// NOTE: clusters.ts imported dynamically in getStaticPaths/Props to avoid bundling 'fs' client-side
 
 interface Props {
   data: HotelsPage;
@@ -181,6 +182,7 @@ export default function BestHotelsPage({ data, affiliates }: Props) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
+  const { getClusterCities } = await import('../../lib/clusters');
   const cities = getClusterCities();
   return {
     paths: cities.map(city => ({ params: { slug: city } })),
@@ -189,6 +191,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
+  const { getHotelsPage } = await import('../../lib/clusters');
   const slug = params?.slug as string;
   const data = getHotelsPage(slug);
   if (!data) return { notFound: true };
