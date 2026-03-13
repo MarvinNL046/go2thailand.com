@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-13",
   "stats": {
     "total": 1504,
-    "completed": 1021
+    "completed": 1022
   },
   "queue": [
     {
@@ -8184,14 +8184,15 @@
       "type": "top10",
       "file": "data/top10/phuket-restaurants.json",
       "locale": "ja",
-      "status": "in_progress",
-      "priority": 14
+      "status": "completed",
+      "priority": 14,
+      "completedAt": "2026-03-13"
     },
     {
       "type": "top10",
       "file": "data/top10/rayong-attractions.json",
       "locale": "ja",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 14
     },
     {
