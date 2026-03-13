@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-13",
   "stats": {
     "total": 1504,
-    "completed": 1067
+    "completed": 1068
   },
   "queue": [
     {
@@ -8560,14 +8560,15 @@
       "type": "city",
       "file": "data/enhanced/phuket.json",
       "locale": "ja",
-      "status": "in_progress",
-      "priority": 14
+      "status": "completed",
+      "priority": 14,
+      "completedAt": "2026-03-13"
     },
     {
       "type": "city",
       "file": "data/enhanced/rayong.json",
       "locale": "ja",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 14
     },
     {
