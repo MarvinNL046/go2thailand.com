@@ -4,14 +4,16 @@
   "name": {
     "en": "Gai Tod Hat Yai",
     "nl": "Gai Tod Hat Yai",
-    "thai": "ไก่ทอดหาดใหญ่"
+    "thai": "ไก่ทอดหาดใหญ่",
+    "ja": "ガイトート・ハートヤイ"
   },
   "category": "main-dish",
   "region": "southern",
   "spice_level": "mild",
   "description": {
     "en": "Hat Yai style fried chicken with crispy shallots",
-    "nl": "Hat Yai stijl gefrituurde kip met krokante sjalotten"
+    "nl": "Hat Yai stijl gefrituurde kip met krokante sjalotten",
+    "ja": "ハートヤイ名物のカリカリに揚げたフライドチキン、フライドシャロットを添えて"
   },
   "ingredients": [
     "chicken",
@@ -30,11 +32,13 @@
   "seo": {
     "metaTitle": {
       "en": "Gai Tod Hat Yai Recipe | Authentic Thai main dish",
-      "nl": "Gai Tod Hat Yai Recept | Authentieke Thaise main dish"
+      "nl": "Gai Tod Hat Yai Recept | Authentieke Thaise main dish",
+      "ja": "ガイトート・ハートヤイのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai style fried chicken with crispy shallots...",
-      "nl": "Leer over Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai stijl gefrituurde kip met krokante sjalotten..."
+      "nl": "Leer over Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai stijl gefrituurde kip met krokante sjalotten...",
+      "ja": "ガイトート・ハートヤイ（ไก่ทอดหาดใหญ่）について — ハートヤイ名物のカリカリフライドチキン。フライドシャロット添え。"
     }
   },
   "tags": [
