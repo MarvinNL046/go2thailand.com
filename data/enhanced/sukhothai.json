@@ -3,13 +3,15 @@
   "slug": "sukhothai",
   "name": {
     "en": "Sukhothai",
-    "nl": "Sukhothai"
+    "nl": "Sukhothai",
+    "ja": "スコータイ"
   },
   "region": "Northern",
   "province": "Sukhothai",
   "description": {
     "en": "Famous for Sukhothai Historical Park, ruins of Thailand's first capital.",
-    "nl": "Beroemd om Sukhothai Historical Park, ruïnes van de eerste Thaise hoofdstad."
+    "nl": "Beroemd om Sukhothai Historical Park, ruïnes van de eerste Thaise hoofdstad.",
+    "ja": "タイ最初の王都の遺跡が残るスコータイ歴史公園で有名な、ユネスコ世界遺産の古都です。"
   },
   "population": 37000,
   "highlights": [
@@ -26,25 +28,30 @@
   "seo": {
     "metaTitle": {
       "en": "Discover Sukhothai | What to do in Sukhothai?",
-      "nl": "Ontdek Sukhothai | Wat te doen in Sukhothai?"
+      "nl": "Ontdek Sukhothai | Wat te doen in Sukhothai?",
+      "ja": "スコータイを満喫 | スコータイの観光・見どころガイド"
     },
     "metaDescription": {
       "en": "Your guide to Sukhothai, Thailand – tips, highlights, food, hotels.",
-      "nl": "Jouw gids voor Sukhothai, Thailand – tips, highlights, eten, hotels."
+      "nl": "Jouw gids voor Sukhothai, Thailand – tips, highlights, eten, hotels.",
+      "ja": "タイ・スコータイの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。"
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Sukhothai",
-      "nl": "Beste restaurants en streetfood in Sukhothai"
+      "nl": "Beste restaurants en streetfood in Sukhothai",
+      "ja": "スコータイのおすすめレストラン＆ストリートフード"
     },
     "hotels": {
       "en": "Top hotels in Sukhothai | Tips & deals",
-      "nl": "Beste hotels in Sukhothai | Tips & aanbiedingen"
+      "nl": "Beste hotels in Sukhothai | Tips & aanbiedingen",
+      "ja": "スコータイのおすすめホテル｜お得な情報＆アドバイス"
     },
     "attractions": {
       "en": "Top attractions in Sukhothai",
-      "nl": "Top bezienswaardigheden in Sukhothai"
+      "nl": "Top bezienswaardigheden in Sukhothai",
+      "ja": "スコータイの人気観光スポット"
     }
   },
   "tags": [
