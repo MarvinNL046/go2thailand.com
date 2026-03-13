@@ -4,14 +4,16 @@
   "name": {
     "en": "Khao Kan Jin",
     "nl": "Khao Kan Jin",
-    "thai": "ข้าวกั้นจิ๊น"
+    "thai": "ข้าวกั้นจิ๊น",
+    "ja": "カオカンジン"
   },
   "category": "main-dish",
   "region": "northern",
   "spice_level": "mild",
   "description": {
     "en": "Steamed rice with pork blood in banana leaf",
-    "nl": "Gestoomde rijst met varkensbloed in bananenblad"
+    "nl": "Gestoomde rijst met varkensbloed in bananenblad",
+    "ja": "豚の血と香辛料を混ぜた蒸しもち米、北タイの伝統的な朝食"
   },
   "ingredients": [
     "rice",
@@ -30,11 +32,13 @@
   "seo": {
     "metaTitle": {
       "en": "Khao Kan Jin Recipe | Authentic Thai main dish",
-      "nl": "Khao Kan Jin Recept | Authentieke Thaise main dish"
+      "nl": "Khao Kan Jin Recept | Authentieke Thaise main dish",
+      "ja": "カオカンジンのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Khao Kan Jin (ข้าวกั้นจิ๊น) - Steamed rice with pork blood in banana leaf...",
-      "nl": "Leer over Khao Kan Jin (ข้าวกั้นจิ๊น) - Gestoomde rijst met varkensbloed in bananenblad..."
+      "nl": "Leer over Khao Kan Jin (ข้าวกั้นจิ๊น) - Gestoomde rijst met varkensbloed in bananenblad...",
+      "ja": "カオカンジン（ข้าวกั้นจิ้น）について — 豚の血と香辛料を混ぜた蒸しもち米。北タイの伝統的な朝食料理。"
     }
   },
   "tags": [
