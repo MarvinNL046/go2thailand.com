@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-13",
   "stats": {
     "total": 1504,
-    "completed": 1006
+    "completed": 1007
   },
   "queue": [
     {
@@ -8064,14 +8064,15 @@
       "type": "top10",
       "file": "data/top10/nakhon-si-thammarat-restaurants.json",
       "locale": "ja",
-      "status": "in_progress",
-      "priority": 14
+      "status": "completed",
+      "priority": 14,
+      "completedAt": "2026-03-13"
     },
     {
       "type": "top10",
       "file": "data/top10/nong-khai-attractions.json",
       "locale": "ja",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 14
     },
     {
