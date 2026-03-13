@@ -4,14 +4,16 @@
   "name": {
     "en": "Bua Loy",
     "nl": "Bua Loy",
-    "thai": "บัวลอย"
+    "thai": "บัวลอย",
+    "ja": "ブアローイ"
   },
   "category": "dessert",
   "region": "southern",
   "spice_level": "none",
   "description": {
     "en": "Rice flour balls in sweet coconut milk",
-    "nl": "Rijstmeelballetjes in zoete kokosmelk"
+    "nl": "Rijstmeelballetjes in zoete kokosmelk",
+    "ja": "もち米粉の団子を甘いココナッツミルクに浮かべたタイの伝統デザート"
   },
   "ingredients": [
     "rice flour",
@@ -31,11 +33,13 @@
   "seo": {
     "metaTitle": {
       "en": "Bua Loy Recipe | Authentic Thai dessert",
-      "nl": "Bua Loy Recept | Authentieke Thaise dessert"
+      "nl": "Bua Loy Recept | Authentieke Thaise dessert",
+      "ja": "ブアローイのレシピ | 本格タイデザート"
     },
     "metaDescription": {
       "en": "Learn about Bua Loy (บัวลอย) - Rice flour balls in sweet coconut milk...",
-      "nl": "Leer over Bua Loy (บัวลอย) - Rijstmeelballetjes in zoete kokosmelk..."
+      "nl": "Leer over Bua Loy (บัวลอย) - Rijstmeelballetjes in zoete kokosmelk...",
+      "ja": "ブアローイ（บัวลอย）について — もち米粉の団子を甘いココナッツミルクに浮かべたタイの伝統デザート。"
     }
   },
   "tags": [
