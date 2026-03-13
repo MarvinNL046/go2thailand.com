@@ -4,14 +4,16 @@
   "name": {
     "en": "Nam Ngiao",
     "nl": "Nam Ngiao",
-    "thai": "น้ำเงี้ยว"
+    "thai": "น้ำเงี้ยว",
+    "ja": "ナムニアオ"
   },
   "category": "soup",
   "region": "northern",
   "spice_level": "medium",
   "description": {
     "en": "Northern noodle soup with pork blood and tomatoes",
-    "nl": "Noordelijke noedelsoep met varkensbloed en tomaten"
+    "nl": "Noordelijke noedelsoep met varkensbloed en tomaten",
+    "ja": "トマトと豚の血を使った北タイのスパイシーヌードルスープ"
   },
   "ingredients": [
     "rice noodles",
@@ -30,11 +32,13 @@
   "seo": {
     "metaTitle": {
       "en": "Nam Ngiao Recipe | Authentic Thai soup",
-      "nl": "Nam Ngiao Recept | Authentieke Thaise soup"
+      "nl": "Nam Ngiao Recept | Authentieke Thaise soup",
+      "ja": "ナムニアオのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Nam Ngiao (น้ำเงี้ยว) - Northern noodle soup with pork blood and tomatoes...",
-      "nl": "Leer over Nam Ngiao (น้ำเงี้ยว) - Noordelijke noedelsoep met varkensbloed en tomaten..."
+      "nl": "Leer over Nam Ngiao (น้ำเงี้ยว) - Noordelijke noedelsoep met varkensbloed en tomaten...",
+      "ja": "ナムニアオ（น้ำเงี้ยว）について — トマトと豚の血を使った北タイのスパイシーヌードルスープ。"
     }
   },
   "tags": [
