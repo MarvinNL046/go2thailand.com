@@ -4,14 +4,16 @@
   "name": {
     "en": "Kanom Jeen Nam Ya",
     "nl": "Kanom Jeen Nam Ya",
-    "thai": "ขนมจีนน้ำยา"
+    "thai": "ขนมจีนน้ำยา",
+    "ja": "カノムジーン・ナムヤー"
   },
   "category": "main-dish",
   "region": "southern",
   "spice_level": "medium",
   "description": {
     "en": "Fermented rice noodles with fish curry sauce",
-    "nl": "Gefermenteerde rijstnoedels met viscurrysaus"
+    "nl": "Gefermenteerde rijstnoedels met viscurrysaus",
+    "ja": "米粉麺に魚のカレーソースをかけた伝統料理、新鮮な野菜を添えて"
   },
   "ingredients": [
     "fermented rice noodles",
@@ -32,11 +34,13 @@
   "seo": {
     "metaTitle": {
       "en": "Kanom Jeen Nam Ya Recipe | Authentic Thai main dish",
-      "nl": "Kanom Jeen Nam Ya Recept | Authentieke Thaise main dish"
+      "nl": "Kanom Jeen Nam Ya Recept | Authentieke Thaise main dish",
+      "ja": "カノムジーン・ナムヤーのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Fermented rice noodles with fish curry sauce...",
-      "nl": "Leer over Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Gefermenteerde rijstnoedels met viscurrysaus..."
+      "nl": "Leer over Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Gefermenteerde rijstnoedels met viscurrysaus...",
+      "ja": "カノムジーン・ナムヤー（ขนมจีนน้ำยา）について — 米粉麺に魚のカレーソースをかけたタイの伝統料理。"
     }
   },
   "tags": [
