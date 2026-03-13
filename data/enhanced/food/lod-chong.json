@@ -4,14 +4,16 @@
   "name": {
     "en": "Lod Chong",
     "nl": "Lod Chong",
-    "thai": "ลอดช่อง"
+    "thai": "ลอดช่อง",
+    "ja": "ロッチョン"
   },
   "category": "dessert",
   "region": "southern",
   "spice_level": "none",
   "description": {
     "en": "Pandan jelly noodles in coconut milk",
-    "nl": "Pandan gelei noedels in kokosmelk"
+    "nl": "Pandan gelei noedels in kokosmelk",
+    "ja": "パンダンリーフ風味のゼリー麺をココナッツミルクに入れた冷たいデザート"
   },
   "ingredients": [
     "rice flour",
@@ -31,11 +33,13 @@
   "seo": {
     "metaTitle": {
       "en": "Lod Chong Recipe | Authentic Thai dessert",
-      "nl": "Lod Chong Recept | Authentieke Thaise dessert"
+      "nl": "Lod Chong Recept | Authentieke Thaise dessert",
+      "ja": "ロッチョンのレシピ | 本格タイデザート"
     },
     "metaDescription": {
       "en": "Learn about Lod Chong (ลอดช่อง) - Pandan jelly noodles in coconut milk...",
-      "nl": "Leer over Lod Chong (ลอดช่อง) - Pandan gelei noedels in kokosmelk..."
+      "nl": "Leer over Lod Chong (ลอดช่อง) - Pandan gelei noedels in kokosmelk...",
+      "ja": "ロッチョン（ลอดช่อง）について — パンダンリーフ風味のゼリー麺をココナッツミルクに入れたタイの冷たいデザート。"
     }
   },
   "tags": [
