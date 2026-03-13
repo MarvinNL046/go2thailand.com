@@ -1,0 +1,114 @@
+{
+  "seo": {
+    "title": "Chiang Mai: Complete Travel Guide 2026 — Top Things To Do & Best Hotels",
+    "metaDescription": "Plan your trip to Chiang Mai, Thailand. Discover ancient temples, night markets, elephant sanctuaries, and the best neighborhoods to stay in 2026.",
+    "slug": "chiang-mai"
+  },
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "overview": "Chiang Mai is Northern Thailand's cultural capital, a 700-year-old city surrounded by misty mountains and home to over 300 Buddhist temples. The moat-encircled Old City blends ancient Lanna heritage with a thriving digital nomad scene, world-class street food, and easy access to hill tribe villages and national parks. Whether you're exploring night markets, learning Thai cooking, or trekking through jungle to hidden waterfalls, Chiang Mai delivers an authentic Thai experience at a fraction of Bangkok's pace and price.",
+  "highlights": [
+    "Over 300 Buddhist temples including the iconic Wat Phra That Doi Suthep on the mountaintop",
+    "Sunday Walking Street Market — Thailand's largest weekly pedestrian market stretching through the Old City",
+    "Ethical elephant sanctuaries offering bathing and feeding experiences",
+    "Doi Inthanon National Park — Thailand's highest peak at 2,565 meters with twin chedis and cloud forests",
+    "Khao Soi — the signature northern Thai curry noodle soup you won't find this good anywhere else",
+    "World-renowned Thai cooking classes using ingredients from local markets",
+    "Nimman neighborhood — Chiang Mai's hip coffee and co-working hub for digital nomads",
+    "Chiang Mai Night Safari — an open-air wildlife park with 130+ species",
+    "Yi Peng Lantern Festival in November — thousands of floating sky lanterns",
+    "Affordable cost of living — quality meals from 50 THB, comfortable hotels from 500 THB/night"
+  ],
+  "bestTimeToVisit": {
+    "peak": "Nov–Feb: Cool, dry weather with daytime highs of 26–28°C and nights dropping to 13–15°C. Perfect for temple visits, trekking, and the Yi Peng Lantern Festival (November). Busiest and most expensive period.",
+    "shoulder": "Oct & Jun: October marks the transition from rainy to cool season — fewer tourists, great deals. June has lighter rainfall than July–September. Avoid March–April (burning season creates severe haze and unhealthy air quality).",
+    "lowSeason": "Jul–Sep: Monsoon rains bring brief afternoon showers, lush green rice terraces, and waterfalls at full flow. Hotel prices drop 30–50%. Fruit season peaks with mangosteen and rambutan.",
+    "recommendation": "Visit November to February for the best weather and festivals. If you're budget-conscious, October offers cool weather without the crowds. Strictly avoid mid-February to April when agricultural burning creates dangerous smog levels."
+  },
+  "topAttractions": [
+    {
+      "name": "Wat Phra That Doi Suthep",
+      "description": "Chiang Mai's most sacred temple sits atop Doi Suthep mountain at 1,070 meters, reached by climbing 306 naga-flanked steps or taking the funicular. The gilded chedi enshrines a relic of the Buddha and offers panoramic city views.",
+      "type": "temple",
+      "location": "Doi Suthep Mountain, 15 km west of city",
+      "entranceFee": "100 THB (~$3 USD) for foreigners, funicular 20 THB extra",
+      "tips": ["Visit at sunrise for fewer crowds and cooler temperatures", "Dress modestly — shoulders and knees must be covered"],
+      "googleMapsUrl": "https://maps.google.com/?q=Wat+Phra+That+Doi+Suthep",
+      "sources": [{"sourceName": "Tourism Authority of Thailand", "sourceUrl": "https://www.tourismthailand.org/Attraction/wat-phra-that-doi-suthep", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Wat Chedi Luang",
+      "description": "This 14th-century temple in the heart of the Old City features a massive ruined chedi that once stood 82 meters tall. It formerly housed the Emerald Buddha (now in Bangkok's Grand Palace) and remains one of Chiang Mai's most impressive archaeological sites.",
+      "type": "temple",
+      "location": "Old City center",
+      "entranceFee": "40 THB (~$1.10 USD)",
+      "tips": ["Free monk chat sessions available daily in the afternoon", "The chedi is dramatically lit at night — worth a second visit after dark"],
+      "googleMapsUrl": "https://maps.google.com/?q=Wat+Chedi+Luang+Chiang+Mai",
+      "sources": [{"sourceName": "Chiang Mai Traveller", "sourceUrl": "https://www.chiangmaitraveller.com/wat-chedi-luang/", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Wat Phra Singh",
+      "description": "One of Chiang Mai's most revered temples, dating to 1345, housing the Phra Singh Buddha image in a beautifully ornate Lanna-style chapel. The temple complex showcases classic northern Thai architecture at its finest.",
+      "type": "temple",
+      "location": "Old City, west end of Ratchadamnoen Road",
+      "entranceFee": "Free (donation appreciated)",
+      "tips": ["Visit early morning when monks chant — a serene experience", "Starting point for the Sunday Walking Street Market"],
+      "googleMapsUrl": "https://maps.google.com/?q=Wat+Phra+Singh+Chiang+Mai",
+      "sources": [{"sourceName": "Tourism Authority of Thailand", "sourceUrl": "https://www.tourismthailand.org/Attraction/wat-chedi-luang-varavihara", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Doi Inthanon National Park",
+      "description": "Thailand's highest peak at 2,565 meters features cloud forests, twin royal chedis with stunning gardens, and several impressive waterfalls including Wachirathan and Mae Ya. The park is home to hill tribe communities and over 360 bird species.",
+      "type": "nature",
+      "location": "90 km southwest of Chiang Mai",
+      "entranceFee": "300 THB (~$8.50 USD) adults, 150 THB children, valid for 5 days",
+      "tips": ["Bring a jacket — summit temperatures can drop to 5°C", "Hire a local guide to visit Hmong and Karen hill tribe villages"],
+      "googleMapsUrl": "https://maps.google.com/?q=Doi+Inthanon+National+Park",
+      "sources": [{"sourceName": "Holidify", "sourceUrl": "https://www.holidify.com/places/chiang-mai/sightseeing-and-things-to-do.html", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Sunday Walking Street Market",
+      "description": "Every Sunday from 4 PM to midnight, Ratchadamnoen Road transforms into Thailand's largest weekly pedestrian market. Hundreds of vendors sell handmade crafts, local art, Lanna textiles, and street food stretching from Tha Phae Gate deep into the Old City.",
+      "type": "market",
+      "location": "Ratchadamnoen Road, Old City",
+      "entranceFee": "Free",
+      "tips": ["Arrive by 5 PM for the best selection before it gets packed", "Side streets (sois) off the main road often have the best food stalls"],
+      "googleMapsUrl": "https://maps.google.com/?q=Sunday+Walking+Street+Chiang+Mai",
+      "sources": [{"sourceName": "The Manduls", "sourceUrl": "https://themanduls.com/things-to-do-in-chiang-mai/", "lastVerified": "2026-03-13"}]
+    },
+    {
+      "name": "Chiang Mai Night Safari",
+      "description": "An open-air nocturnal wildlife park home to over 130 species. Tram rides take visitors through the Savanna Safari and Predator Prowl zones after dark, plus a walking zone with a jaguar trail and lake.",
+      "type": "park",
+      "location": "Hang Dong, 12 km south of city center",
+      "entranceFee": "800 THB (~$22 USD) adults, 400 THB children",
+      "tips": ["The 7 PM tram departure is less crowded than the 8:30 PM slot", "Combined daytime + nighttime tickets offer better value"],
+      "googleMapsUrl": "https://maps.google.com/?q=Chiang+Mai+Night+Safari",
+      "sources": [{"sourceName": "Chiang Mai Night Safari Official", "sourceUrl": "https://chiangmainightsafari.com/en/promotion/ticket-price/", "lastVerified": "2026-03-13"}]
+    }
+  ],
+  "travelTips": [
+    "Rent a scooter (150–400 THB/day) for easy exploring — but always wear a helmet and carry your international driving permit",
+    "Learn basic Thai greetings — a 'sawadee khrap/ka' with a wai goes a long way in the north",
+    "Always remove shoes before entering temples and cover shoulders and knees",
+    "Use Grab (Southeast Asia's Uber) for fair-priced rides — motorbike taxis from 30–60 THB, cars 150–300 THB",
+    "The red songthaew trucks are shared taxis — 30 THB per person for rides within the Old City, negotiate for longer distances",
+    "Drink bottled or filtered water only — tap water is not safe for drinking",
+    "Book elephant sanctuaries that are genuinely ethical (no riding, chains, or hooks)",
+    "Carry cash — many street vendors, temples, and smaller restaurants don't accept cards",
+    "Avoid March–April due to severe air pollution from agricultural burning season",
+    "Sunday Market is significantly better than the Saturday version — plan your days accordingly"
+  ],
+  "gettingThere": "Chiang Mai International Airport (CNX) receives direct flights from Bangkok (1 hour, from 1,200 THB one-way on AirAsia/Nok Air), plus international flights from Singapore, Kuala Lumpur, and other Asian cities. Overnight trains from Bangkok's Hua Lamphong station take 12–14 hours (sleeper berths from 800 THB). VIP buses from Bangkok's Mo Chit terminal take 9–10 hours (from 550 THB).",
+  "gettingAround": "The Old City is walkable on foot. Red songthaews (shared trucks) run fixed routes for 30 THB/person. Grab works well for door-to-door rides. Scooter rental is popular at 150–400 THB/day. Tuk-tuks charge 60–150 THB per trip — always negotiate before boarding. For day trips to Doi Inthanon or Doi Suthep, hire a private songthaew (800–1,500 THB) or join a group tour.",
+  "generatedAt": "2026-03-13",
+  "lastUpdated": "2026-03-13",
+  "sources": [
+    {"sourceName": "Tourism Authority of Thailand", "sourceUrl": "https://www.tourismthailand.org/Attraction/wat-phra-that-doi-suthep", "lastVerified": "2026-03-13"},
+    {"sourceName": "Lonely Planet", "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai", "lastVerified": "2026-03-13"},
+    {"sourceName": "Nomadic Matt", "sourceUrl": "https://www.nomadicmatt.com/travel-guides/thailand-travel-tips/chiang-mai/", "lastVerified": "2026-03-13"},
+    {"sourceName": "Chiang Mai Traveller", "sourceUrl": "https://www.chiangmaitraveller.com/best-time-visit-chiang-mai-weather-seasons/", "lastVerified": "2026-03-13"},
+    {"sourceName": "The Manduls", "sourceUrl": "https://themanduls.com/things-to-do-in-chiang-mai/", "lastVerified": "2026-03-13"},
+    {"sourceName": "Chiang Mai Night Safari Official", "sourceUrl": "https://chiangmainightsafari.com/en/promotion/ticket-price/", "lastVerified": "2026-03-13"}
+  ]
+}
