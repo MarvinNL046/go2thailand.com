@@ -5,7 +5,8 @@
     "en": "Sai Ua",
     "nl": "Sai Ua",
     "thai": "ไส้อั่ว",
-    "ko": "사이우아"
+    "ko": "사이우아",
+    "th": "ไส้อั่ว"
   },
   "category": "main-dish",
   "region": "northern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Spicy northern Thai sausage with herbs and spices",
     "nl": "Pittige noordelijke Thaise worst met kruiden en specerijen",
-    "ko": "레몬그라스, 카피르 라임잎, 갈랑갈 등 허브를 넣어 만든 태국 북부 매운 돼지고기 소시지"
+    "ko": "레몬그라스, 카피르 라임잎, 갈랑갈 등 허브를 넣어 만든 태국 북부 매운 돼지고기 소시지",
+    "th": "ไส้อั่ว ไส้กรอกเหนือสอดไส้สมุนไพร ตะไคร้ ใบมะกรูด พริก หอมเผ็ดกรุ่น"
   },
   "ingredients": [
     "pork",
@@ -34,12 +36,14 @@
     "metaTitle": {
       "en": "Sai Ua Recipe | Authentic Thai main dish",
       "nl": "Sai Ua Recept | Authentieke Thaise main dish",
-      "ko": "사이우아 레시피 | 치앙마이 명물 태국 북부 허브 소시지"
+      "ko": "사이우아 레시피 | 치앙마이 명물 태국 북부 허브 소시지",
+      "th": "สูตรไส้อั่ว | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Sai Ua (ไส้อั่ว) - Spicy northern Thai sausage with herbs and spices...",
       "nl": "Leer over Sai Ua (ไส้อั่ว) - Pittige noordelijke Thaise worst met kruiden en specerijen...",
-      "ko": "사이우아(ไส้อั่ว) - 레몬그라스, 갈랑갈, 카피르 라임잎 등 10가지 이상의 허브로 만든 치앙마이 대표 란나 소시지. 레시피, 재료, 문화적 의미, 맛집 정보."
+      "ko": "사이우아(ไส้อั่ว) - 레몬그라스, 갈랑갈, 카피르 라임잎 등 10가지 이상의 허브로 만든 치앙마이 대표 란나 소시지. 레시피, 재료, 문화적 의미, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับไส้อั่ว — ไส้อั่ว ไส้กรอกเหนือสอดไส้สมุนไพร ตะไคร้ ใบมะกรูด พริก หอมเผ็ดกรุ่น สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -782,6 +786,109 @@
           "street_food": "40-80 THB (1줄)",
           "restaurant": "80-150 THB",
           "upscale": "150-300 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ไส้อั่วเป็นไส้กรอกเหนือที่สอดไส้ด้วยสมุนไพรนานาชนิด ทั้งตะไคร้ ใบมะกรูด พริก ข่า กระเทียม หอมเผ็ดกรุ่น เป็นอาหารประจำภาคเหนือที่นักท่องเที่ยวต้องลอง",
+      "detailed_ingredients": [
+        {
+          "name": "Pork",
+          "purpose": "สำคัญสำหรับรสชาติSai Uaแท้",
+          "substitutes": [
+            "Fresh pork",
+            "Dried pork",
+            "pork paste"
+          ]
+        },
+        {
+          "name": "Lemongrass",
+          "purpose": "สำคัญสำหรับรสชาติSai Uaแท้",
+          "substitutes": [
+            "Fresh lemongrass",
+            "Dried lemongrass",
+            "lemongrass paste"
+          ]
+        },
+        {
+          "name": "Kaffir lime leaves",
+          "purpose": "สำคัญสำหรับรสชาติSai Uaแท้",
+          "substitutes": [
+            "Fresh kaffir lime leaves",
+            "Dried kaffir lime leaves",
+            "kaffir lime leaves paste"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "สำคัญสำหรับรสชาติSai Uaแท้",
+          "substitutes": [
+            "Fresh shallots",
+            "Dried shallots",
+            "shallots paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมSai Uaต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้porkสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคเหนือมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคเหนือ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sai Ua Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Sai Ua Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Sai Ua",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารเหนือท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

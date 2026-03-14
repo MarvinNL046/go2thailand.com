@@ -5,7 +5,8 @@
     "en": "Boat Noodles",
     "nl": "Boot Noedels",
     "thai": "ก๋วยเตี๋ยวเรือ",
-    "ko": "보트 누들"
+    "ko": "보트 누들",
+    "th": "ก๋วยเตี๋ยวเรือ"
   },
   "category": "soup",
   "region": "central",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Rich pork or beef noodle soup traditionally served in small portions",
     "nl": "Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties",
-    "ko": "전통적으로 작은 그릇에 제공되는 진한 돼지고기 또는 소고기 국수 수프"
+    "ko": "전통적으로 작은 그릇에 제공되는 진한 돼지고기 또는 소고기 국수 수프",
+    "th": "ก๋วยเตี๋ยวเรือรสเข้มข้นที่เสิร์ฟในถ้วยเล็ก เครื่องเยอะ น้ำซุปเข้มข้นจากเลือดหมูหรือเนื้อ"
   },
   "ingredients": [
     "rice noodles",
@@ -33,12 +35,14 @@
     "metaTitle": {
       "en": "Boat Noodles Recipe | Authentic Thai soup",
       "nl": "Boot Noedels Recept | Authentieke Thaise soup",
-      "ko": "보트 누들 레시피 | 정통 태국 국수 수프"
+      "ko": "보트 누들 레시피 | 정통 태국 국수 수프",
+      "th": "สูตรก๋วยเตี๋ยวเรือ | ซุปไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Boat Noodles (ก๋วยเตี๋ยวเรือ) - Rich pork or beef noodle soup traditionally served in small portions...",
       "nl": "Leer over Boot Noedels (ก๋วยเตี๋ยวเรือ) - Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties...",
-      "ko": "보트 누들(ก๋วยเตี๋ยวเรือ)에 대해 알아보세요 - 전통적으로 작은 그릇에 제공되는 진한 돼지고기 또는 소고기 국수 수프..."
+      "ko": "보트 누들(ก๋วยเตี๋ยวเรือ)에 대해 알아보세요 - 전통적으로 작은 그릇에 제공되는 진한 돼지고기 또는 소고기 국수 수프...",
+      "th": "เรียนรู้เกี่ยวกับก๋วยเตี๋ยวเรือ — ก๋วยเตี๋ยวเรือรสเข้มข้นที่เสิร์ฟในถ้วยเล็ก เครื่องเยอะ น้ำซุปเข้มข้นจากเลือดหมูหรือเนื้อ สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -751,6 +755,109 @@
           "야시장",
           "아침 시장",
           "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ก๋วยเตี๋ยวเรือเป็นอาหารไทยที่ได้รับความนิยมมายาวนาน เป็นก๋วยเตี๋ยวน้ำซุปเข้มข้นจากเครื่องเทศและเลือดหมูหรือเนื้อ เสิร์ฟในถ้วยเล็กตามธรรมเนียมดั้งเดิม มีรสชาติกลมกล่อมทั้งหวาน เค็ม และเผ็ดอ่อนๆ เป็นอาหารริมทางที่หาทานได้ทั่วไปในภาคกลางของไทย ราคาไม่แพง",
+      "detailed_ingredients": [
+        {
+          "name": "Rice noodles",
+          "purpose": "สำคัญสำหรับรสชาติBoat Noodlesแท้",
+          "substitutes": [
+            "Fresh rice noodles",
+            "Dried rice noodles",
+            "rice noodles paste"
+          ]
+        },
+        {
+          "name": "Pork or beef",
+          "purpose": "สำคัญสำหรับรสชาติBoat Noodlesแท้",
+          "substitutes": [
+            "Fresh pork or beef",
+            "Dried pork or beef",
+            "pork or beef paste"
+          ]
+        },
+        {
+          "name": "Dark soy sauce",
+          "purpose": "สำคัญสำหรับรสชาติBoat Noodlesแท้",
+          "substitutes": [
+            "Fresh dark soy sauce",
+            "Dried dark soy sauce",
+            "dark soy sauce paste"
+          ]
+        },
+        {
+          "name": "Chinese five spice",
+          "purpose": "สำคัญสำหรับรสชาติBoat Noodlesแท้",
+          "substitutes": [
+            "Fresh chinese five spice",
+            "Dried chinese five spice",
+            "chinese five spice paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การเคี่ยวและการเพิ่มรสชาติทีละชั้น",
+        "steps_overview": "การเตรียมBoat Noodlesต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้เส้นก๋วยเตี๋ยวสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคกลางมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคกลาง แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Boat Noodles Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Boat Noodles Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Boat Noodles",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในชามแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารไทยภาคกลาง",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

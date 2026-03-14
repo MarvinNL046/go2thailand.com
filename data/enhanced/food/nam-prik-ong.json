@@ -5,7 +5,8 @@
     "en": "Nam Prik Ong",
     "nl": "Nam Prik Ong",
     "thai": "น้ำพริกอ่อง",
-    "ko": "남프릭옹"
+    "ko": "남프릭옹",
+    "th": "น้ำพริกอ่อง"
   },
   "category": "main-dish",
   "region": "northern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Tomato and minced pork chili dip served with vegetables",
     "nl": "Tomaten-chili dip met varkensgehakt geserveerd met groenten",
-    "ko": "다진 돼지고기와 토마토를 넣은 북부 태국 칠리 딥"
+    "ko": "다진 돼지고기와 토마토를 넣은 북부 태국 칠리 딥",
+    "th": "น้ำพริกอ่อง น้ำพริกมะเขือเทศกับหมูสับ รสหวานเผ็ดอ่อนๆ กินกับผักสดแนมแคบหมู"
   },
   "ingredients": [
     "tomatoes",
@@ -33,12 +35,14 @@
     "metaTitle": {
       "en": "Nam Prik Ong Recipe | Authentic Thai main dish",
       "nl": "Nam Prik Ong Recept | Authentieke Thaise main dish",
-      "ko": "남프릭옹 레시피 | 정통 태국 북부 토마토 돼지고기 칠리 딥"
+      "ko": "남프릭옹 레시피 | 정통 태국 북부 토마토 돼지고기 칠리 딥",
+      "th": "สูตรน้ำพริกอ่อง | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Nam Prik Ong (น้ำพริกอ่อง) - Tomato and minced pork chili dip served with vegetables...",
       "nl": "Leer over Nam Prik Ong (น้ำพริกอ่อง) - Tomaten-chili dip met varkensgehakt geserveerd met groenten...",
-      "ko": "남프릭옹(น้ำพริกอ่อง) - 다진 돼지고기, 토마토, 건고추로 만든 태국 북부 란나 전통 칠리 딥. 채소와 찹쌀에 곁들이는 레시피와 맛집 정보."
+      "ko": "남프릭옹(น้ำพริกอ่อง) - 다진 돼지고기, 토마토, 건고추로 만든 태국 북부 란나 전통 칠리 딥. 채소와 찹쌀에 곁들이는 레시피와 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับน้ำพริกอ่อง — น้ำพริกอ่อง น้ำพริกมะเขือเทศกับหมูสับ รสหวานเผ็ดอ่อนๆ กินกับผักสดแนมแคบหมู สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -764,6 +768,109 @@
           "street_vendor": "25-40 THB",
           "market_stall": "30-50 THB",
           "restaurant": "50-80 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "น้ำพริกอ่องเป็นน้ำพริกเหนือรสอ่อนโยน ทำจากมะเขือเทศกับหมูสับ รสหวานเผ็ดอ่อนๆ เสิร์ฟกับผักสดและแคบหมู เหมาะสำหรับทุกวัย",
+      "detailed_ingredients": [
+        {
+          "name": "Tomatoes",
+          "purpose": "สำคัญสำหรับรสชาติNam Prik Ongแท้",
+          "substitutes": [
+            "Fresh tomatoes",
+            "Dried tomatoes",
+            "tomatoes paste"
+          ]
+        },
+        {
+          "name": "Minced pork",
+          "purpose": "สำคัญสำหรับรสชาติNam Prik Ongแท้",
+          "substitutes": [
+            "Fresh minced pork",
+            "Dried minced pork",
+            "minced pork paste"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "สำคัญสำหรับรสชาติNam Prik Ongแท้",
+          "substitutes": [
+            "Fresh shallots",
+            "Dried shallots",
+            "shallots paste"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "สำคัญสำหรับรสชาติNam Prik Ongแท้",
+          "substitutes": [
+            "Fresh garlic",
+            "Dried garlic",
+            "garlic paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมNam Prik Ongต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้tomatoesสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคเหนือมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคเหนือ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Ong Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Nam Prik Ong Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Nam Prik Ong",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารเหนือท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

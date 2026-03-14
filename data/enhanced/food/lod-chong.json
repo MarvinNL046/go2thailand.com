@@ -5,7 +5,8 @@
     "en": "Lod Chong",
     "nl": "Lod Chong",
     "thai": "ลอดช่อง",
-    "ko": "롯총"
+    "ko": "롯총",
+    "th": "ลอดช่อง"
   },
   "category": "dessert",
   "region": "southern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Pandan jelly noodles in coconut milk",
     "nl": "Pandan gelei noedels in kokosmelk",
-    "ko": "코코넛 밀크에 담긴 판단 젤리 누들"
+    "ko": "코코넛 밀크에 담긴 판단 젤리 누들",
+    "th": "ลอดช่องน้ำกะทิ เส้นแป้งใบเตยสีเขียวในน้ำกะทิหวานเย็น ของหวานไทยคลาสสิก"
   },
   "ingredients": [
     "rice flour",
@@ -34,12 +36,14 @@
     "metaTitle": {
       "en": "Lod Chong Recipe | Authentic Thai dessert",
       "nl": "Lod Chong Recept | Authentieke Thaise dessert",
-      "ko": "롯총 레시피 | 정통 태국 판단 젤리 디저트"
+      "ko": "롯총 레시피 | 정통 태국 판단 젤리 디저트",
+      "th": "สูตรลอดช่อง | ของหวานไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Lod Chong (ลอดช่อง) - Pandan jelly noodles in coconut milk...",
       "nl": "Leer over Lod Chong (ลอดช่อง) - Pandan gelei noedels in kokosmelk...",
-      "ko": "롯총(ลอดช่อง) - 코코넛 밀크에 담긴 초록색 판단 젤리 누들. 태국 전통 디저트의 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "롯총(ลอดช่อง) - 코코넛 밀크에 담긴 초록색 판단 젤리 누들. 태국 전통 디저트의 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับลอดช่อง — ลอดช่องน้ำกะทิ เส้นแป้งใบเตยสีเขียวในน้ำกะทิหวานเย็น ของหวานไทยคลาสสิก สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -807,6 +811,114 @@
           "street_vendor": "20-40 THB",
           "market_stall": "30-50 THB",
           "restaurant": "50-80 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ลอดช่องเป็นขนมหวานไทยเก่าแก่ตั้งแต่สมัยสมเด็จพระนารายณ์ เส้นแป้งใบเตยสีเขียวลอยในน้ำกะทิหวานเย็น มีความหมายมงคลในพิธีแต่งงานไทย สดชื่นเย็นใจ",
+      "detailed_ingredients": [
+        {
+          "name": "Rice flour",
+          "purpose": "Forms the base of the jelly noodles, giving them their chewy texture",
+          "substitutes": [
+            "Tapioca starch (for a softer texture)",
+            "Mung bean starch"
+          ]
+        },
+        {
+          "name": "Pandan juice",
+          "purpose": "Provides the signature green color and fragrant aroma",
+          "substitutes": [
+            "Pandan extract (concentrated, use less)",
+            "Pandan paste (available in Asian grocery stores)"
+          ]
+        },
+        {
+          "name": "Coconut milk",
+          "purpose": "The sweet, creamy base in which the noodles are served",
+          "substitutes": [
+            "Canned coconut milk (full-fat preferred)",
+            "Coconut cream diluted with water"
+          ]
+        },
+        {
+          "name": "Palm sugar",
+          "purpose": "Sweetens the coconut milk with a distinctive caramel flavor",
+          "substitutes": [
+            "Coconut sugar",
+            "Brown sugar (less authentic but works)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การกดผ่านตะแกรงลงน้ำเย็น",
+        "steps_overview": "ผสมแป้งข้าวเจ้ากับน้ำใบเตยเป็นแป้งเขียว ต้มจนสุก แล้วกดผ่านตะแกรงลงในน้ำเย็น เสิร์ฟกับน้ำกะทิหวาน",
+        "cooking_tips": [
+          "ใช้pandan leaves for the brightest green color and best aromaสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "Keep the cold water very cold (add ice) to set the noodles quickly",
+          "Press the dough through the sieve steadily for uniform noodle size",
+          "Add a pinch of salt to the coconut milk to enhance the sweetness"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "ลอดช่องมีมาตั้งแต่สมัยสมเด็จพระนารายณ์ (พ.ศ. 2215-2231) เป็นขนมไทยเก่าแก่ที่สุดอย่างหนึ่ง",
+        "cultural_importance": "Lod Chong holds deep symbolic meaning in Thai culture, particularly in weddings. The green pandan color represents parrots, which in Thai tradition signify fidelity, while the dessert itself symbolizes enduring love. It is part of a broader Southeast Asian dessert family that includes Malaysian/Singaporean cendol, Indonesian dawet, and Vietnamese banh lot — all sharing the concept of pressed jelly noodles in sweet coconut milk.",
+        "traditional_occasions": [
+          "Thai weddings (symbolizes enduring love and fidelity)",
+          "Royal ceremonies (part of the four-cup dessert set)",
+          "Buddhist temple fairs and merit-making",
+          "Family gatherings and local festivals",
+          "Street food markets throughout Thailand"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Standard Thai Lod Chong",
+          "description": "Green pandan jelly noodles in sweetened coconut milk with crushed ice. The most common version found throughout Thailand."
+        },
+        {
+          "name": "Phetchaburi Style",
+          "description": "Palm sugar is poured over the top rather than mixed in, creating distinctive caramel notes. Phetchaburi is famous for its premium palm sugar."
+        },
+        {
+          "name": "Cendol (Malaysia/Singapore)",
+          "description": "Adapted to hawker culture with gula melaka (palm sugar syrup), red beans, and sometimes corn. A national favorite in both countries."
+        },
+        {
+          "name": "Dawet (Indonesia)",
+          "description": "Multiple regional varieties exist across Indonesia. Often uses coconut sugar and can include jackfruit or other local additions."
+        },
+        {
+          "name": "Banh Lot (Vietnam)",
+          "description": "Vietnamese adaptation with pandan jelly noodles in coconut milk, part of the shared Southeast Asian dessert tradition."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Crushed ice",
+          "Extra coconut milk",
+          "Palm sugar syrup"
+        ],
+        "presentation": "Served in a bowl or glass with green pandan noodles swimming in sweetened coconut milk over crushed ice",
+        "eating_etiquette": "Eaten with a spoon, sipping the coconut milk between bites of the jelly noodles"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารใต้ท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

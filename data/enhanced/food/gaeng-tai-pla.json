@@ -5,7 +5,8 @@
     "en": "Gaeng Tai Pla",
     "nl": "Gaeng Tai Pla",
     "thai": "แกงไตปลา",
-    "ko": "깽따이쁠라"
+    "ko": "깽따이쁠라",
+    "th": "แกงไตปลา"
   },
   "category": "curry",
   "region": "southern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Intensely spicy southern fish organ curry",
     "nl": "Intens pittige zuidelijke visorganen curry",
-    "ko": "생선 내장으로 만든 매우 매운 남부 태국 커리"
+    "ko": "생선 내장으로 만든 매우 매운 남부 태국 커리",
+    "th": "แกงไตปลารสจัดจ้านของภาคใต้ ทำจากไตปลา พริก ตะไคร้ เผ็ดร้อนถึงใจ"
   },
   "ingredients": [
     "fish organs",
@@ -35,12 +37,14 @@
     "metaTitle": {
       "en": "Gaeng Tai Pla Recipe | Authentic Thai curry",
       "nl": "Gaeng Tai Pla Recept | Authentieke Thaise curry",
-      "ko": "깽따이쁠라 레시피 | 정통 태국 남부 커리"
+      "ko": "깽따이쁠라 레시피 | 정통 태국 남부 커리",
+      "th": "สูตรแกงไตปลา | แกงไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Gaeng Tai Pla (แกงไตปลา) - Intensely spicy southern fish organ curry...",
       "nl": "Leer over Gaeng Tai Pla (แกงไตปลา) - Intens pittige zuidelijke visorganen curry...",
-      "ko": "깽따이쁠라(แกงไตปลา) - 생선 내장으로 만든 극강의 매운맛 남부 태국 커리. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "깽따이쁠라(แกงไตปลา) - 생선 내장으로 만든 극강의 매운맛 남부 태국 커리. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับแกงไตปลา — แกงไตปลารสจัดจ้านของภาคใต้ ทำจากไตปลา พริก ตะไคร้ เผ็ดร้อนถึงใจ สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -762,6 +766,109 @@
           "야시장",
           "아침 시장",
           "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "แกงไตปลาเป็นแกงปักษ์ใต้ที่ขึ้นชื่อว่าเผ็ดที่สุดอย่างหนึ่งของอาหารไทย ทำจากไตปลา (เครื่องในปลา) ปรุงกับพริก ตะไคร้ ขมิ้น รสเผ็ดร้อนจัดจ้านถึงใจ เป็นอาหารที่แสดงถึงเอกลักษณ์ของอาหารใต้อย่างแท้จริง",
+      "detailed_ingredients": [
+        {
+          "name": "Fish organs",
+          "purpose": "สำคัญสำหรับรสชาติGaeng Tai Plaแท้",
+          "substitutes": [
+            "Fresh fish organs",
+            "Dried fish organs",
+            "fish organs paste"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "สำคัญสำหรับรสชาติGaeng Tai Plaแท้",
+          "substitutes": [
+            "Fresh chili",
+            "Dried chili",
+            "chili paste"
+          ]
+        },
+        {
+          "name": "Lemongrass",
+          "purpose": "สำคัญสำหรับรสชาติGaeng Tai Plaแท้",
+          "substitutes": [
+            "Fresh lemongrass",
+            "Dried lemongrass",
+            "lemongrass paste"
+          ]
+        },
+        {
+          "name": "Turmeric",
+          "purpose": "สำคัญสำหรับรสชาติGaeng Tai Plaแท้",
+          "substitutes": [
+            "Fresh turmeric",
+            "Dried turmeric",
+            "turmeric paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดพริกแกงและเคี่ยวกะทิ",
+        "steps_overview": "การเตรียมGaeng Tai Plaต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้fish organsสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคใต้มาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคใต้ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Tai Pla Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Gaeng Tai Pla Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Gaeng Tai Pla",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารใต้ท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

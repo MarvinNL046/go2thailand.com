@@ -5,7 +5,8 @@
     "en": "Mango Sticky Rice",
     "nl": "Mango Sticky Rice",
     "thai": "ข้าวเหนียวมะม่วง",
-    "ko": "카오니아오 마무앙"
+    "ko": "카오니아오 마무앙",
+    "th": "ข้าวเหนียวมะม่วง"
   },
   "category": "dessert",
   "region": "central",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Sweet sticky rice served with fresh mango slices and coconut cream",
     "nl": "Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom",
-    "ko": "신선한 망고 슬라이스와 코코넛 크림을 곁들인 달콤한 찹쌀"
+    "ko": "신선한 망고 슬라이스와 코코넛 크림을 곁들인 달콤한 찹쌀",
+    "th": "ข้าวเหนียวมะม่วง ข้าวเหนียวนึ่งราดกะทิหวานเสิร์ฟกับมะม่วงสุกหอมหวาน"
   },
   "ingredients": [
     "sticky rice",
@@ -34,12 +36,14 @@
     "metaTitle": {
       "en": "Mango Sticky Rice Recipe | Authentic Thai dessert",
       "nl": "Mango Sticky Rice Recept | Authentieke Thaise dessert",
-      "ko": "카오니아오 마무앙 레시피 | 정통 태국 망고 찹쌀 디저트"
+      "ko": "카오니아오 마무앙 레시피 | 정통 태국 망고 찹쌀 디저트",
+      "th": "สูตรข้าวเหนียวมะม่วง | ของหวานไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Sweet sticky rice served with fresh mango slices and coconut cream...",
       "nl": "Leer over Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom...",
-      "ko": "카오니아오 마무앙(ข้าวเหนียวมะม่วง) - 신선한 망고 슬라이스와 코코넛 크림을 곁들인 태국 대표 디저트. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "카오니아오 마무앙(ข้าวเหนียวมะม่วง) - 신선한 망고 슬라이스와 코코넛 크림을 곁들인 태국 대표 디저트. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับข้าวเหนียวมะม่วง — ข้าวเหนียวมะม่วง ข้าวเหนียวนึ่งราดกะทิหวานเสิร์ฟกับมะม่วงสุกหอมหวาน สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -686,6 +690,97 @@
           "street_vendor": "40-80 THB",
           "market_stall": "60-100 THB",
           "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ข้าวเหนียวมะม่วงเป็นของหวานไทยที่โด่งดังไปทั่วโลก ข้าวเหนียวนึ่งราดกะทิหวานเค็ม เสิร์ฟกับมะม่วงน้ำดอกไม้สุกหอมหวาน โรยถั่วเหลืองทอด เป็นของหวานประจำฤดูร้อนของไทย",
+      "detailed_ingredients": [
+        {
+          "name": "Nam Dok Mai Mango",
+          "purpose": "The premium Thai mango variety - sweet, smooth, and fiberless",
+          "substitutes": [
+            "Ok Rong mango",
+            "Ataulfo mango",
+            "Any ripe, sweet mango"
+          ]
+        },
+        {
+          "name": "Glutinous Rice",
+          "purpose": "Special sticky rice that becomes creamy when cooked",
+          "substitutes": [
+            "No real substitute - regular rice won't work",
+            "Japanese mochi rice (different texture)"
+          ]
+        },
+        {
+          "name": "Coconut Cream",
+          "purpose": "Rich topping that brings everything together",
+          "substitutes": [
+            "Thick coconut milk",
+            "Cashew cream for lighter version"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Steaming and careful timing",
+        "steps_overview": "Sticky rice is soaked overnight then steamed in bamboo baskets. While warm, it's mixed with sweetened coconut milk, absorbing the flavors. The mango must be at perfect ripeness - firm enough to slice but sweet and aromatic.",
+        "cooking_tips": [
+          "Soak rice for at least 8 hours - overnight is best",
+          "Steam in bamboo for authentic flavor",
+          "Mix coconut sauce while rice is still warm",
+          "Choose mangoes that smell sweet at the stem",
+          "Serve at room temperature, not cold"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "ข้าวเหนียวมะม่วงเป็นของหวานไทยที่ผูกพันกับฤดูร้อน ช่วงเดือนเมษายน-พฤษภาคมที่มะม่วงน้ำดอกไม้สุกหอม เป็นของหวานที่สะท้อนวิถีเกษตรกรรมไทย",
+        "cultural_importance": "This dessert represents Thai agricultural abundance and the importance of seasonality. It's one of the few Thai dishes that hasn't been adapted or available year-round - you eat it when mangoes are ready.",
+        "traditional_occasions": [
+          "Songkran festival",
+          "Mango season celebration",
+          "Temple offerings",
+          "Special occasion dessert"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Niao Thurian",
+          "description": "Durian version - for hardcore fruit lovers"
+        },
+        {
+          "name": "Khao Niao Dam",
+          "description": "Made with black sticky rice - nuttier flavor"
+        },
+        {
+          "name": "Khao Niao Moon",
+          "description": "With additional pandan-flavored custard"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด"
+        ],
+        "presentation": "เสิร์ฟร้อนๆ แบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อม"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Mae Varee (Bangkok) - Most famous mango sticky rice shop",
+          "Kor Panich (Bangkok) - Since 1947",
+          "After You Dessert Cafe - Modern interpretation"
+        ],
+        "street_food_areas": [
+          "Thonglor Street vendors (April-June)",
+          "Chatuchak Weekend Market",
+          "Any fresh market during mango season"
+        ],
+        "price_ranges": {
+          "street_food": "50-80 THB ($1.50-$2.40)",
+          "restaurant": "120-200 THB ($3.60-$6)",
+          "upscale": "250-400 THB ($7.50-$12)"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

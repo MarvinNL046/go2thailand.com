@@ -5,7 +5,8 @@
     "en": "Mee Hokkien",
     "nl": "Mee Hokkien",
     "thai": "หมี่ฮกเกี้ยน",
-    "ko": "미 호끼엔"
+    "ko": "미 호끼엔",
+    "th": "หมี่ฮกเกี้ยน"
   },
   "category": "main-dish",
   "region": "southern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Stir-fried Hokkien noodles with seafood Phuket style",
     "nl": "Gebakken Hokkien-noedels met zeevruchten Phuket stijl",
-    "ko": "푸켓 스타일 해산물 호끼엔 볶음면"
+    "ko": "푸켓 스타일 해산물 호끼엔 볶음면",
+    "th": "หมี่ฮกเกี้ยนภูเก็ต บะหมี่เหลืองผัดกับอาหารทะเลในน้ำซุปเข้มข้น"
   },
   "ingredients": [
     "yellow noodles",
@@ -36,12 +38,14 @@
     "metaTitle": {
       "en": "Mee Hokkien Recipe | Authentic Thai main dish",
       "nl": "Mee Hokkien Recept | Authentieke Thaise main dish",
-      "ko": "미 호끼엔 레시피 | 정통 푸켓 호끼엔 볶음면"
+      "ko": "미 호끼엔 레시피 | 정통 푸켓 호끼엔 볶음면",
+      "th": "สูตรหมี่ฮกเกี้ยน | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Mee Hokkien (หมี่ฮกเกี้ยน) - Stir-fried Hokkien noodles with seafood Phuket style...",
       "nl": "Leer over Mee Hokkien (หมี่ฮกเกี้ยน) - Gebakken Hokkien-noedels met zeevruchten Phuket stijl...",
-      "ko": "미 호끼엔(หมี่ฮกเกี้ยน) - 새우, 오징어, 돼지고기를 넣은 푸켓 스타일 호끼엔 볶음면. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "미 호끼엔(หมี่ฮกเกี้ยน) - 새우, 오징어, 돼지고기를 넣은 푸켓 스타일 호끼엔 볶음면. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับหมี่ฮกเกี้ยน — หมี่ฮกเกี้ยนภูเก็ต บะหมี่เหลืองผัดกับอาหารทะเลในน้ำซุปเข้มข้น สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -763,6 +767,109 @@
           "푸켓 올드타운",
           "야시장",
           "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "หมี่ฮกเกี้ยนเป็นอาหารเส้นสไตล์ภูเก็ต บะหมี่เหลืองผัดกับอาหารทะเลสดในน้ำซุปเข้มข้น ได้รับอิทธิพลจากชาวจีนฮกเกี้ยนที่ตั้งรกรากในภูเก็ต",
+      "detailed_ingredients": [
+        {
+          "name": "Yellow noodles",
+          "purpose": "สำคัญสำหรับรสชาติMee Hokkienแท้",
+          "substitutes": [
+            "Fresh yellow noodles",
+            "Dried yellow noodles",
+            "yellow noodles paste"
+          ]
+        },
+        {
+          "name": "Shrimp",
+          "purpose": "สำคัญสำหรับรสชาติMee Hokkienแท้",
+          "substitutes": [
+            "Fresh shrimp",
+            "Dried shrimp",
+            "shrimp paste"
+          ]
+        },
+        {
+          "name": "Squid",
+          "purpose": "สำคัญสำหรับรสชาติMee Hokkienแท้",
+          "substitutes": [
+            "Fresh squid",
+            "Dried squid",
+            "squid paste"
+          ]
+        },
+        {
+          "name": "Pork",
+          "purpose": "สำคัญสำหรับรสชาติMee Hokkienแท้",
+          "substitutes": [
+            "Fresh pork",
+            "Dried pork",
+            "pork paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมMee Hokkienต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้yellow noodlesสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคใต้มาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคใต้ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Mee Hokkien Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Mee Hokkien Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Mee Hokkien",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารใต้ท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
         ],
         "price_ranges": {
           "street_vendor": "50-80 THB",

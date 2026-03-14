@@ -5,7 +5,8 @@
     "en": "Gaeng Hang Lay",
     "nl": "Gaeng Hang Lay",
     "thai": "แกงฮังเล",
-    "ko": "깽항레"
+    "ko": "깽항레",
+    "th": "แกงฮังเล"
   },
   "category": "curry",
   "region": "northern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Mild curry with pork belly and Burmese influences",
     "nl": "Milde curry met varkensbuik en Birmese invloeden",
-    "ko": "삼겹살과 미얀마 영향이 가미된 순한 북부 커리"
+    "ko": "삼겹살과 미얀마 영향이 가미된 순한 북부 커리",
+    "th": "แกงฮังเลหมูสามชั้นรสนุ่มนวลกลิ่นหอมเครื่องเทศ ได้รับอิทธิพลจากพม่า"
   },
   "ingredients": [
     "pork belly",
@@ -36,12 +38,14 @@
     "metaTitle": {
       "en": "Gaeng Hang Lay Recipe | Authentic Thai curry",
       "nl": "Gaeng Hang Lay Recept | Authentieke Thaise curry",
-      "ko": "깽항레 레시피 | 정통 태국 북부 커리"
+      "ko": "깽항레 레시피 | 정통 태국 북부 커리",
+      "th": "สูตรแกงฮังเล | แกงไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Gaeng Hang Lay (แกงฮังเล) - Mild curry with pork belly and Burmese influences...",
       "nl": "Leer over Gaeng Hang Lay (แกงฮังเล) - Milde curry met varkensbuik en Birmese invloeden...",
-      "ko": "깽항레(แกงฮังเล) - 삼겹살과 미얀마 영향의 순한 북부 태국 커리. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "깽항레(แกงฮังเล) - 삼겹살과 미얀마 영향의 순한 북부 태국 커리. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับแกงฮังเล — แกงฮังเลหมูสามชั้นรสนุ่มนวลกลิ่นหอมเครื่องเทศ ได้รับอิทธิพลจากพม่า สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -763,6 +767,109 @@
           "야시장",
           "아침 시장",
           "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "แกงฮังเลเป็นแกงเหนือที่ได้รับอิทธิพลจากพม่า ใช้หมูสามชั้นเป็นหลัก ปรุงกับเครื่องแกงหอมกรุ่นจากขิง ขมิ้น และเครื่องเทศหลายชนิด รสชาตินุ่มนวลไม่เผ็ดมาก หวานเค็มกลมกล่อม เป็นอาหารประจำจังหวัดเชียงใหม่และลำพูน",
+      "detailed_ingredients": [
+        {
+          "name": "Pork belly",
+          "purpose": "สำคัญสำหรับรสชาติGaeng Hang Layแท้",
+          "substitutes": [
+            "Fresh pork belly",
+            "Dried pork belly",
+            "pork belly paste"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "สำคัญสำหรับรสชาติGaeng Hang Layแท้",
+          "substitutes": [
+            "Fresh shallots",
+            "Dried shallots",
+            "shallots paste"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "สำคัญสำหรับรสชาติGaeng Hang Layแท้",
+          "substitutes": [
+            "Fresh garlic",
+            "Dried garlic",
+            "garlic paste"
+          ]
+        },
+        {
+          "name": "Ginger",
+          "purpose": "สำคัญสำหรับรสชาติGaeng Hang Layแท้",
+          "substitutes": [
+            "Fresh ginger",
+            "Dried ginger",
+            "ginger paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดพริกแกงและเคี่ยวกะทิ",
+        "steps_overview": "การเตรียมGaeng Hang Layต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้pork bellyสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคเหนือมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคเหนือ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Hang Lay Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Gaeng Hang Lay Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Gaeng Hang Lay",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารเหนือท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
         ],
         "price_ranges": {
           "street_vendor": "50-80 THB",

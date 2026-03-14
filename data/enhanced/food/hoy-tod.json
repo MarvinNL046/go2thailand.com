@@ -5,7 +5,8 @@
     "en": "Hoy Tod",
     "nl": "Hoy Tod",
     "thai": "หอยทอด",
-    "ko": "호이똣"
+    "ko": "호이똣",
+    "th": "หอยทอด"
   },
   "category": "main-dish",
   "region": "central",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Crispy mussel or oyster pancake with bean sprouts",
     "nl": "Knapperige mossel- of oesterpannenkoek met taugé",
-    "ko": "숙주나물을 곁들인 바삭한 홍합/굴 팬케이크"
+    "ko": "숙주나물을 곁들인 바삭한 홍합/굴 팬케이크",
+    "th": "หอยทอดกรอบนอกนุ่มใน ผสมแป้งทอดกับหอยแมลงภู่หรือหอยนางรม เสิร์ฟกับถั่วงอก"
   },
   "ingredients": [
     "mussels or oysters",
@@ -34,12 +36,14 @@
     "metaTitle": {
       "en": "Hoy Tod Recipe | Authentic Thai main dish",
       "nl": "Hoy Tod Recept | Authentieke Thaise main dish",
-      "ko": "호이똣 레시피 | 정통 태국 해산물 팬케이크"
+      "ko": "호이똣 레시피 | 정통 태국 해산물 팬케이크",
+      "th": "สูตรหอยทอด | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Hoy Tod (หอยทอด) - Crispy mussel or oyster pancake with bean sprouts...",
       "nl": "Leer over Hoy Tod (หอยทอด) - Knapperige mossel- of oesterpannenkoek met taugé...",
-      "ko": "호이똣(หอยทอด) - 숙주나물을 곁들인 바삭한 홍합 또는 굴 팬케이크. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "호이똣(หอยทอด) - 숙주나물을 곁들인 바삭한 홍합 또는 굴 팬케이크. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับหอยทอด — หอยทอดกรอบนอกนุ่มใน ผสมแป้งทอดกับหอยแมลงภู่หรือหอยนางรม เสิร์ฟกับถั่วงอก สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -761,6 +765,109 @@
           "야시장",
           "아침 시장",
           "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "หอยทอดเป็นอาหารริมทางยอดนิยมของไทย ทำจากหอยแมลงภู่หรือหอยนางรมผสมแป้งทอดกรอบ เสิร์ฟกับถั่วงอกสดและน้ำจิ้ม กรอบนอกนุ่มใน เป็นเมนูที่หาทานได้ทั่วไปตามตลาดนัดและร้านริมทาง",
+      "detailed_ingredients": [
+        {
+          "name": "Mussels or oysters",
+          "purpose": "สำคัญสำหรับรสชาติHoy Todแท้",
+          "substitutes": [
+            "Fresh mussels or oysters",
+            "Dried mussels or oysters",
+            "mussels or oysters paste"
+          ]
+        },
+        {
+          "name": "Flour",
+          "purpose": "สำคัญสำหรับรสชาติHoy Todแท้",
+          "substitutes": [
+            "Fresh flour",
+            "Dried flour",
+            "flour paste"
+          ]
+        },
+        {
+          "name": "Egg",
+          "purpose": "สำคัญสำหรับรสชาติHoy Todแท้",
+          "substitutes": [
+            "Fresh egg",
+            "Dried egg",
+            "egg paste"
+          ]
+        },
+        {
+          "name": "Bean sprouts",
+          "purpose": "สำคัญสำหรับรสชาติHoy Todแท้",
+          "substitutes": [
+            "Fresh bean sprouts",
+            "Dried bean sprouts",
+            "bean sprouts paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมHoy Todต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้mussels or oystersสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคกลางมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคกลาง แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Hoy Tod Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Hoy Tod Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Hoy Tod",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารไทยภาคกลาง",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

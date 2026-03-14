@@ -5,7 +5,8 @@
     "en": "Laab Kua",
     "nl": "Laab Kua",
     "thai": "ลาบคั่ว",
-    "ko": "랍꾸아"
+    "ko": "랍꾸아",
+    "th": "ลาบคั่ว"
   },
   "category": "salad",
   "region": "northern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Northern style meat salad with spices and herbs",
     "nl": "Noordelijke stijl vleessalade met specerijen en kruiden",
-    "ko": "향신료와 허브를 곁들인 북부 스타일 고기 샐러드"
+    "ko": "향신료와 허브를 곁들인 북부 스타일 고기 샐러드",
+    "th": "ลาบคั่วเหนือ เนื้อสับคั่วกับสมุนไพรและเครื่องเทศ รสเผ็ดจัดจ้าน"
   },
   "ingredients": [
     "minced pork or beef",
@@ -32,12 +34,14 @@
     "metaTitle": {
       "en": "Laab Kua Recipe | Authentic Thai salad",
       "nl": "Laab Kua Recept | Authentieke Thaise salad",
-      "ko": "랍꾸아 레시피 | 정통 태국 북부 볶음 랍"
+      "ko": "랍꾸아 레시피 | 정통 태국 북부 볶음 랍",
+      "th": "สูตรลาบคั่ว | สลัดไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Laab Kua (ลาบคั่ว) - Northern style meat salad with spices and herbs...",
       "nl": "Leer over Laab Kua (ลาบคั่ว) - Noordelijke stijl vleessalade met specerijen en kruiden...",
-      "ko": "랍꾸아(ลาบคั่ว) - 향신료와 허브로 볶아낸 태국 북부 스타일 고기 샐러드. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "랍꾸아(ลาบคั่ว) - 향신료와 허브로 볶아낸 태국 북부 스타일 고기 샐러드. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับลาบคั่ว — ลาบคั่วเหนือ เนื้อสับคั่วกับสมุนไพรและเครื่องเทศ รสเผ็ดจัดจ้าน สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -764,6 +768,109 @@
           "street_vendor": "40-60 THB",
           "market_stall": "50-80 THB",
           "restaurant": "80-150 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ลาบคั่วเป็นอาหารเหนือที่มีเอกลักษณ์เฉพาะ เนื้อสับคั่วในกระทะแห้งกับสมุนไพรและเครื่องเทศจนหอมกรุ่น รสเผ็ดจัดจ้านตามสไตล์คนเหนือ ต่างจากลาบอีสานที่เป็นแบบสด",
+      "detailed_ingredients": [
+        {
+          "name": "Minced pork or beef",
+          "purpose": "สำคัญสำหรับรสชาติLaab Kuaแท้",
+          "substitutes": [
+            "Fresh minced pork or beef",
+            "Dried minced pork or beef",
+            "minced pork or beef paste"
+          ]
+        },
+        {
+          "name": "Dried spices",
+          "purpose": "สำคัญสำหรับรสชาติLaab Kuaแท้",
+          "substitutes": [
+            "Fresh dried spices",
+            "Dried dried spices",
+            "dried spices paste"
+          ]
+        },
+        {
+          "name": "Herbs",
+          "purpose": "สำคัญสำหรับรสชาติLaab Kuaแท้",
+          "substitutes": [
+            "Fresh herbs",
+            "Dried herbs",
+            "herbs paste"
+          ]
+        },
+        {
+          "name": "Lime juice",
+          "purpose": "สำคัญสำหรับรสชาติLaab Kuaแท้",
+          "substitutes": [
+            "Fresh lime juice",
+            "Dried lime juice",
+            "lime juice paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การเตรียมสดและคลุกเคล้า",
+        "steps_overview": "การเตรียมLaab Kuaต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้minced pork or beefสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคเหนือมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคเหนือ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Laab Kua Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Laab Kua Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Laab Kua",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารเหนือท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

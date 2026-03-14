@@ -5,7 +5,8 @@
     "en": "Khao Man Gai",
     "nl": "Khao Man Gai",
     "thai": "ข้าวมันไก่",
-    "ko": "카오만가이"
+    "ko": "카오만가이",
+    "th": "ข้าวมันไก่"
   },
   "category": "main-dish",
   "region": "central",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Steamed chicken with rice cooked in chicken broth and ginger-chili sauce",
     "nl": "Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus",
-    "ko": "닭 육수로 지은 밥에 찐 닭고기와 생강 칠리 소스를 곁들인 요리"
+    "ko": "닭 육수로 지은 밥에 찐 닭고기와 생강 칠리 소스를 곁들인 요리",
+    "th": "ข้าวมันไก่ ข้าวหุงน้ำซุปไก่เสิร์ฟกับไก่ต้มนุ่ม น้ำจิ้มซีอิ๊วขิงเผ็ด"
   },
   "ingredients": [
     "chicken",
@@ -34,12 +36,14 @@
     "metaTitle": {
       "en": "Khao Man Gai Recipe | Authentic Thai main dish",
       "nl": "Khao Man Gai Recept | Authentieke Thaise main dish",
-      "ko": "카오만가이 레시피 | 정통 태국 치킨 라이스"
+      "ko": "카오만가이 레시피 | 정통 태국 치킨 라이스",
+      "th": "สูตรข้าวมันไก่ | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Khao Man Gai (ข้าวมันไก่) - Steamed chicken with rice cooked in chicken broth and ginger-chili sauce...",
       "nl": "Leer over Khao Man Gai (ข้าวมันไก่) - Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus...",
-      "ko": "카오만가이(ข้าวมันไก่) - 닭 육수로 지은 밥에 부드러운 찐 닭고기와 생강 칠리 소스. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "카오만가이(ข้าวมันไก่) - 닭 육수로 지은 밥에 부드러운 찐 닭고기와 생강 칠리 소스. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับข้าวมันไก่ — ข้าวมันไก่ ข้าวหุงน้ำซุปไก่เสิร์ฟกับไก่ต้มนุ่ม น้ำจิ้มซีอิ๊วขิงเผ็ด สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -764,6 +768,109 @@
           "street_vendor": "40-50 THB",
           "market_stall": "40-60 THB",
           "restaurant": "60-120 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ข้าวมันไก่เป็นอาหารจานเดียวยอดนิยมของไทย ข้าวหุงกับน้ำซุปไก่และน้ำมันไก่ เสิร์ฟกับไก่ต้มนุ่ม น้ำจิ้มซีอิ๊วขิงเผ็ด และน้ำซุปร้อน เป็นอาหารที่หาทานได้ทุกมุมเมืองของไทย",
+      "detailed_ingredients": [
+        {
+          "name": "Chicken",
+          "purpose": "สำคัญสำหรับรสชาติKhao Man Gaiแท้",
+          "substitutes": [
+            "Fresh chicken",
+            "Dried chicken",
+            "chicken paste"
+          ]
+        },
+        {
+          "name": "Rice",
+          "purpose": "สำคัญสำหรับรสชาติKhao Man Gaiแท้",
+          "substitutes": [
+            "Fresh rice",
+            "Dried rice",
+            "rice paste"
+          ]
+        },
+        {
+          "name": "Ginger",
+          "purpose": "สำคัญสำหรับรสชาติKhao Man Gaiแท้",
+          "substitutes": [
+            "Fresh ginger",
+            "Dried ginger",
+            "ginger paste"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "สำคัญสำหรับรสชาติKhao Man Gaiแท้",
+          "substitutes": [
+            "Fresh garlic",
+            "Dried garlic",
+            "garlic paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมKhao Man Gaiต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้chickenสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคกลางมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคกลาง แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Man Gai Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Khao Man Gai Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Khao Man Gai",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารไทยภาคกลาง",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

@@ -5,7 +5,8 @@
     "en": "Sukhothai Noodles",
     "nl": "Sukhothai Noedels",
     "thai": "ก๋วยเตี๋ยวสุโขทัย",
-    "ko": "꾸어이띠아오 수코타이"
+    "ko": "꾸어이띠아오 수코타이",
+    "th": "ก๋วยเตี๋ยวสุโขทัย"
   },
   "category": "soup",
   "region": "northern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Sukhothai style noodles with ground peanuts",
     "nl": "Sukhothai stijl noedels met gemalen pinda's",
-    "ko": "갈은 땅콩, 돼지고기, 풋콩을 올린 수코타이 고유의 쌀국수"
+    "ko": "갈은 땅콩, 돼지고기, 풋콩을 올린 수코타이 고유의 쌀국수",
+    "th": "ก๋วยเตี๋ยวสุโขทัย เส้นเล็กน้ำใสหวานอมเปรี้ยว โรยถั่วลิสงป่น หมูสับ"
   },
   "ingredients": [
     "rice noodles",
@@ -35,12 +37,14 @@
     "metaTitle": {
       "en": "Sukhothai Noodles Recipe | Authentic Thai soup",
       "nl": "Sukhothai Noedels Recept | Authentieke Thaise soup",
-      "ko": "수코타이 누들 레시피 | 수코타이 명물 땅콩 쌀국수"
+      "ko": "수코타이 누들 레시피 | 수코타이 명물 땅콩 쌀국수",
+      "th": "สูตรก๋วยเตี๋ยวสุโขทัย | ซุปไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Sukhothai Noodles (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai style noodles with ground peanuts...",
       "nl": "Leer over Sukhothai Noedels (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai stijl noedels met gemalen pinda's...",
-      "ko": "꾸어이띠아오 수코타이(ก๋วยเตี๋ยวสุโขทัย) - 갈은 땅콩, 돼지고기, 풋콩, 라임을 넣은 수코타이 고유의 면 요리. 역사적 수도에서 탄생한 레시피와 맛집 정보."
+      "ko": "꾸어이띠아오 수코타이(ก๋วยเตี๋ยวสุโขทัย) - 갈은 땅콩, 돼지고기, 풋콩, 라임을 넣은 수코타이 고유의 면 요리. 역사적 수도에서 탄생한 레시피와 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับก๋วยเตี๋ยวสุโขทัย — ก๋วยเตี๋ยวสุโขทัย เส้นเล็กน้ำใสหวานอมเปรี้ยว โรยถั่วลิสงป่น หมูสับ สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -766,6 +770,109 @@
           "street_food": "30-50 THB",
           "restaurant": "50-80 THB",
           "upscale": "80-150 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ก๋วยเตี๋ยวสุโขทัยเป็นก๋วยเตี๋ยวสไตล์เฉพาะตัว เส้นเล็กในน้ำซุปใสหวานอมเปรี้ยว โรยถั่วลิสงป่น หมูสับ และถั่วฝักยาว เป็นอาหารขึ้นชื่อของจังหวัดสุโขทัย",
+      "detailed_ingredients": [
+        {
+          "name": "Rice noodles",
+          "purpose": "สำคัญสำหรับรสชาติSukhothai Noodlesแท้",
+          "substitutes": [
+            "Fresh rice noodles",
+            "Dried rice noodles",
+            "rice noodles paste"
+          ]
+        },
+        {
+          "name": "Pork",
+          "purpose": "สำคัญสำหรับรสชาติSukhothai Noodlesแท้",
+          "substitutes": [
+            "Fresh pork",
+            "Dried pork",
+            "pork paste"
+          ]
+        },
+        {
+          "name": "Ground peanuts",
+          "purpose": "สำคัญสำหรับรสชาติSukhothai Noodlesแท้",
+          "substitutes": [
+            "Fresh ground peanuts",
+            "Dried ground peanuts",
+            "ground peanuts paste"
+          ]
+        },
+        {
+          "name": "Green beans",
+          "purpose": "สำคัญสำหรับรสชาติSukhothai Noodlesแท้",
+          "substitutes": [
+            "Fresh green beans",
+            "Dried green beans",
+            "green beans paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การเคี่ยวและการเพิ่มรสชาติทีละชั้น",
+        "steps_overview": "การเตรียมSukhothai Noodlesต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้เส้นก๋วยเตี๋ยวสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคเหนือมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคเหนือ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sukhothai Noodles Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Sukhothai Noodles Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Sukhothai Noodles",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในชามแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารเหนือท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

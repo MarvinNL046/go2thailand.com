@@ -5,7 +5,8 @@
     "en": "Nam Ngiao",
     "nl": "Nam Ngiao",
     "thai": "น้ำเงี้ยว",
-    "ko": "남응이아오"
+    "ko": "남응이아오",
+    "th": "น้ำเงี้ยว"
   },
   "category": "soup",
   "region": "northern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Northern noodle soup with pork blood and tomatoes",
     "nl": "Noordelijke noedelsoep met varkensbloed en tomaten",
-    "ko": "돼지피와 토마토를 넣은 태국 북부 쌀국수"
+    "ko": "돼지피와 토마토를 넣은 태국 북부 쌀국수",
+    "th": "น้ำเงี้ยว ก๋วยเตี๋ยวเส้นเล็กน้ำซุปมะเขือเทศกับเลือดหมู อาหารเหนือรสจัด"
   },
   "ingredients": [
     "rice noodles",
@@ -33,12 +35,14 @@
     "metaTitle": {
       "en": "Nam Ngiao Recipe | Authentic Thai soup",
       "nl": "Nam Ngiao Recept | Authentieke Thaise soup",
-      "ko": "남응이아오 레시피 | 정통 태국 북부 토마토 돼지뼈 국수"
+      "ko": "남응이아오 레시피 | 정통 태국 북부 토마토 돼지뼈 국수",
+      "th": "สูตรน้ำเงี้ยว | ซุปไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Nam Ngiao (น้ำเงี้ยว) - Northern noodle soup with pork blood and tomatoes...",
       "nl": "Leer over Nam Ngiao (น้ำเงี้ยว) - Noordelijke noedelsoep met varkensbloed en tomaten...",
-      "ko": "남응이아오(น้ำเงี้ยว) - 돼지피, 토마토, 발효 콩을 넣은 태국 북부 전통 쌀국수. 샨족 유래 국수의 레시피, 재료, 맛집 정보."
+      "ko": "남응이아오(น้ำเงี้ยว) - 돼지피, 토마토, 발효 콩을 넣은 태국 북부 전통 쌀국수. 샨족 유래 국수의 레시피, 재료, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับน้ำเงี้ยว — น้ำเงี้ยว ก๋วยเตี๋ยวเส้นเล็กน้ำซุปมะเขือเทศกับเลือดหมู อาหารเหนือรสจัด สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -762,6 +766,109 @@
         ],
         "price_ranges": {
           "street_vendor": "35-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "น้ำเงี้ยวเป็นก๋วยเตี๋ยวเหนือรสจัด น้ำซุปมะเขือเทศเข้มข้นกับเลือดหมูและเครื่องเทศ เสิร์ฟกับเส้นเล็กหรือขนมจีน เป็นอาหารขึ้นชื่อของเชียงราย",
+      "detailed_ingredients": [
+        {
+          "name": "Rice noodles",
+          "purpose": "สำคัญสำหรับรสชาติNam Ngiaoแท้",
+          "substitutes": [
+            "Fresh rice noodles",
+            "Dried rice noodles",
+            "rice noodles paste"
+          ]
+        },
+        {
+          "name": "Pork ribs",
+          "purpose": "สำคัญสำหรับรสชาติNam Ngiaoแท้",
+          "substitutes": [
+            "Fresh pork ribs",
+            "Dried pork ribs",
+            "pork ribs paste"
+          ]
+        },
+        {
+          "name": "Tomatoes",
+          "purpose": "สำคัญสำหรับรสชาติNam Ngiaoแท้",
+          "substitutes": [
+            "Fresh tomatoes",
+            "Dried tomatoes",
+            "tomatoes paste"
+          ]
+        },
+        {
+          "name": "Fermented soybeans",
+          "purpose": "สำคัญสำหรับรสชาติNam Ngiaoแท้",
+          "substitutes": [
+            "Fresh fermented soybeans",
+            "Dried fermented soybeans",
+            "fermented soybeans paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การเคี่ยวและการเพิ่มรสชาติทีละชั้น",
+        "steps_overview": "การเตรียมNam Ngiaoต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้เส้นก๋วยเตี๋ยวสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคเหนือมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคเหนือ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Ngiao Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Nam Ngiao Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Nam Ngiao",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในชามแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารเหนือท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
           "market_stall": "40-60 THB",
           "restaurant": "60-100 THB"
         }

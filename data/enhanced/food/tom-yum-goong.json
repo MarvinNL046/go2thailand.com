@@ -5,7 +5,8 @@
     "en": "Tom Yum Goong",
     "nl": "Tom Yum Goong",
     "thai": "ต้มยำกุ้ง",
-    "ko": "똠얌꿍"
+    "ko": "똠얌꿍",
+    "th": "ต้มยำกุ้ง"
   },
   "category": "soup",
   "region": "central",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Spicy and sour Thai soup with shrimp lemongrass and lime leaves",
     "nl": "Pittige en zure Thaise soep met garnalen citroengras en limoenbladeren",
-    "ko": "새우, 레몬그라스, 카피르 라임잎을 넣은 매콤새콤한 태국 대표 수프"
+    "ko": "새우, 레몬그라스, 카피르 라임잎을 넣은 매콤새콤한 태국 대표 수프",
+    "th": "ต้มยำกุ้ง ซุปเผ็ดเปรี้ยวกับกุ้ง ตะไคร้ ใบมะกรูด รสจัดจ้านถึงใจ"
   },
   "ingredients": [
     "shrimp",
@@ -36,12 +38,14 @@
     "metaTitle": {
       "en": "Tom Yum Goong Recipe | Authentic Thai soup",
       "nl": "Tom Yum Goong Recept | Authentieke Thaise soup",
-      "ko": "똠얌꿍 레시피 | 태국 국민 수프 새우 매콤새콤탕"
+      "ko": "똠얌꿍 레시피 | 태국 국민 수프 새우 매콤새콤탕",
+      "th": "สูตรต้มยำกุ้ง | ซุปไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Tom Yum Goong (ต้มยำกุ้ง) - Spicy and sour Thai soup with shrimp lemongrass and lime leaves...",
       "nl": "Leer over Tom Yum Goong (ต้มยำกุ้ง) - Pittige en zure Thaise soep met garnalen citroengras en limoenbladeren...",
-      "ko": "똠얌꿍(ต้มยำกุ้ง) - 레몬그라스, 갈랑갈, 카피르 라임잎의 향과 새우의 감칠맛이 어우러진 태국 대표 수프. 1997년 금융위기 별명이 될 만큼 태국 문화에 깊이 뿌리내린 요리의 레시피와 맛집 정보."
+      "ko": "똠얌꿍(ต้มยำกุ้ง) - 레몬그라스, 갈랑갈, 카피르 라임잎의 향과 새우의 감칠맛이 어우러진 태국 대표 수프. 1997년 금융위기 별명이 될 만큼 태국 문화에 깊이 뿌리내린 요리의 레시피와 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับต้มยำกุ้ง — ต้มยำกุ้ง ซุปเผ็ดเปรี้ยวกับกุ้ง ตะไคร้ ใบมะกรูด รสจัดจ้านถึงใจ สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -738,6 +742,104 @@
           "street_food": "60-100 THB",
           "restaurant": "150-300 THB",
           "upscale": "400-800 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ต้มยำกุ้งเป็นซุปไทยที่โด่งดังที่สุดในโลก น้ำซุปเผ็ดเปรี้ยวจากตะไคร้ ใบมะกรูด น้ำมะนาว กับกุ้งสดตัวโต รสจัดจ้านถึงใจ เป็นอาหารที่ได้รับการขึ้นทะเบียนเป็นมรดกวัฒนธรรมที่จับต้องไม่ได้ของยูเนสโก",
+      "detailed_ingredients": [
+        {
+          "name": "Lemongrass",
+          "purpose": "Provides the signature citrus aroma and antibacterial properties",
+          "substitutes": [
+            "Lemon zest (won't be the same)",
+            "Preserved lemongrass paste"
+          ]
+        },
+        {
+          "name": "Galangal",
+          "purpose": "Adds sharp, peppery notes distinct from ginger",
+          "substitutes": [
+            "Fresh ginger (different flavor profile)",
+            "Frozen galangal"
+          ]
+        },
+        {
+          "name": "Kaffir Lime Leaves",
+          "purpose": "Contributes floral citrus notes and aromatic oils",
+          "substitutes": [
+            "Lime zest",
+            "Bay leaves with lime juice"
+          ]
+        },
+        {
+          "name": "Nam Prik Pao (Chili Oil)",
+          "purpose": "Adds depth, color, and umami to the clear version",
+          "substitutes": [
+            "Chili paste",
+            "Sambal oelek with sugar"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Aromatic infusion and quick cooking",
+        "steps_overview": "Tom Yum is about building layers of flavor. Aromatics are bruised and infused, proteins quickly cooked, and finishing touches added off heat. The key is not overboiling the herbs, which would make them bitter.",
+        "cooking_tips": [
+          "Bruise lemongrass and galangal to release oils",
+          "Never boil the herbs too long - infuse and remove",
+          "Add lime juice off the heat to preserve vitamin C",
+          "Use shell-on prawns for more flavor",
+          "The broth should make you cough slightly - that's perfect heat"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "ต้มยำกุ้งเป็นซุปไทยโบราณที่สืบทอดมาหลายร้อยปี ได้รับการขึ้นทะเบียนเป็นมรดกทางวัฒนธรรมที่จับต้องไม่ได้จากยูเนสโก สะท้อนภูมิปัญญาการใช้สมุนไพรของคนไทย",
+        "cultural_importance": "ต้มยำกุ้งเป็นสัญลักษณ์ของอาหารไทยในเวทีโลก สะท้อนปรัชญาการใช้สมุนไพรสดเป็นทั้งยาและอาหาร",
+        "traditional_occasions": [
+          "Remedy for colds and flu",
+          "Hangover cure",
+          "Welcoming dish for guests",
+          "Comfort food during monsoon season"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Nam Khon",
+          "description": "Creamy version with evaporated milk - modern Bangkok style"
+        },
+        {
+          "name": "Tom Yum Nam Sai",
+          "description": "Clear broth version - the original and purist's choice"
+        },
+        {
+          "name": "Tom Yum Talay",
+          "description": "Mixed seafood version - popular in coastal areas"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด"
+        ],
+        "presentation": "เสิร์ฟร้อนๆ แบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อม"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Pe Aor (Bangkok) - Famous for tom yum noodles",
+          "Pee Aor (Bangkok) - Different place, equally famous",
+          "Any riverside restaurant for authentic versions"
+        ],
+        "street_food_areas": [
+          "Chatuchak Weekend Market",
+          "Wang Lang Market near Siriraj Hospital",
+          "Chinatown evening stalls"
+        ],
+        "price_ranges": {
+          "street_food": "60-100 THB ($1.80-$3)",
+          "restaurant": "150-300 THB ($4.50-$9)",
+          "upscale": "400-800 THB ($12-$24)"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

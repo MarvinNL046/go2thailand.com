@@ -5,7 +5,8 @@
     "en": "Khao Yam",
     "nl": "Khao Yam",
     "thai": "ข้าวยำ",
-    "ko": "카오얌"
+    "ko": "카오얌",
+    "th": "ข้าวยำ"
   },
   "category": "salad",
   "region": "southern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Southern Thai rice salad with herbs and coconut",
     "nl": "Zuidelijke Thaise rijstsalade met kruiden en kokos",
-    "ko": "허브와 코코넛을 곁들인 태국 남부 쌀 샐러드"
+    "ko": "허브와 코코넛을 곁들인 태국 남부 쌀 샐러드",
+    "th": "ข้าวยำสไตล์ใต้ ข้าวสวยคลุกกับสมุนไพรสด มะพร้าวคั่ว น้ำบูดู รสสดชื่น"
   },
   "ingredients": [
     "rice",
@@ -35,12 +37,14 @@
     "metaTitle": {
       "en": "Khao Yam Recipe | Authentic Thai salad",
       "nl": "Khao Yam Recept | Authentieke Thaise salad",
-      "ko": "카오얌 레시피 | 정통 태국 남부 쌀 샐러드"
+      "ko": "카오얌 레시피 | 정통 태국 남부 쌀 샐러드",
+      "th": "สูตรข้าวยำ | สลัดไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Khao Yam (ข้าวยำ) - Southern Thai rice salad with herbs and coconut...",
       "nl": "Leer over Khao Yam (ข้าวยำ) - Zuidelijke Thaise rijstsalade met kruiden en kokos...",
-      "ko": "카오얌(ข้าวยำ) - 허브, 코코넛, 건새우를 곁들인 태국 남부 전통 쌀 샐러드. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "카오얌(ข้าวยำ) - 허브, 코코넛, 건새우를 곁들인 태국 남부 전통 쌀 샐러드. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับข้าวยำ — ข้าวยำสไตล์ใต้ ข้าวสวยคลุกกับสมุนไพรสด มะพร้าวคั่ว น้ำบูดู รสสดชื่น สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -763,6 +767,109 @@
           "아침 시장",
           "현지 푸드코트",
           "남부 태국 야시장"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ข้าวยำเป็นอาหารใต้ที่สดชื่นและดีต่อสุขภาพ ข้าวสวยคลุกกับสมุนไพรสดหลายชนิด มะพร้าวคั่ว กุ้งแห้ง ราดน้ำบูดูรสเค็มหอม เป็นอาหารที่แสดงถึงภูมิปัญญาของคนใต้",
+      "detailed_ingredients": [
+        {
+          "name": "Rice",
+          "purpose": "สำคัญสำหรับรสชาติKhao Yamแท้",
+          "substitutes": [
+            "Fresh rice",
+            "Dried rice",
+            "rice paste"
+          ]
+        },
+        {
+          "name": "Coconut",
+          "purpose": "สำคัญสำหรับรสชาติKhao Yamแท้",
+          "substitutes": [
+            "Fresh coconut",
+            "Dried coconut",
+            "coconut paste"
+          ]
+        },
+        {
+          "name": "Herbs",
+          "purpose": "สำคัญสำหรับรสชาติKhao Yamแท้",
+          "substitutes": [
+            "Fresh herbs",
+            "Dried herbs",
+            "herbs paste"
+          ]
+        },
+        {
+          "name": "Dried shrimp",
+          "purpose": "สำคัญสำหรับรสชาติKhao Yamแท้",
+          "substitutes": [
+            "Fresh dried shrimp",
+            "Dried dried shrimp",
+            "dried shrimp paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การเตรียมสดและคลุกเคล้า",
+        "steps_overview": "การเตรียมKhao Yamต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้riceสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคใต้มาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคใต้ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Yam Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Khao Yam Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Khao Yam",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารใต้ท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

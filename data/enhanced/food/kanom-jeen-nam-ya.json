@@ -5,7 +5,8 @@
     "en": "Kanom Jeen Nam Ya",
     "nl": "Kanom Jeen Nam Ya",
     "thai": "ขนมจีนน้ำยา",
-    "ko": "카놈찐남야"
+    "ko": "카놈찐남야",
+    "th": "ขนมจีนน้ำยา"
   },
   "category": "main-dish",
   "region": "southern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Fermented rice noodles with fish curry sauce",
     "nl": "Gefermenteerde rijstnoedels met viscurrysaus",
-    "ko": "생선 커리 소스를 곁들인 발효 쌀국수"
+    "ko": "생선 커리 소스를 곁들인 발효 쌀국수",
+    "th": "ขนมจีนน้ำยาปลา เส้นขนมจีนราดน้ำยากะทิเข้มข้น เสิร์ฟกับผักสดหลากชนิด"
   },
   "ingredients": [
     "fermented rice noodles",
@@ -35,12 +37,14 @@
     "metaTitle": {
       "en": "Kanom Jeen Nam Ya Recipe | Authentic Thai main dish",
       "nl": "Kanom Jeen Nam Ya Recept | Authentieke Thaise main dish",
-      "ko": "카놈찐남야 레시피 | 정통 태국 남부 생선 커리 국수"
+      "ko": "카놈찐남야 레시피 | 정통 태국 남부 생선 커리 국수",
+      "th": "สูตรขนมจีนน้ำยา | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Fermented rice noodles with fish curry sauce...",
       "nl": "Leer over Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Gefermenteerde rijstnoedels met viscurrysaus...",
-      "ko": "카놈찐남야(ขนมจีนน้ำยา) - 생선 커리 소스를 곁들인 발효 쌀국수. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "카놈찐남야(ขนมจีนน้ำยา) - 생선 커리 소스를 곁들인 발효 쌀국수. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับขนมจีนน้ำยา — ขนมจีนน้ำยาปลา เส้นขนมจีนราดน้ำยากะทิเข้มข้น เสิร์ฟกับผักสดหลากชนิด สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -762,6 +766,109 @@
           "아침 시장",
           "야시장",
           "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ขนมจีนน้ำยาเป็นอาหารไทยโบราณ เส้นขนมจีนหมักราดน้ำยากะทิเข้มข้นจากปลา เสิร์ฟกับผักสดหลากชนิด เป็นอาหารที่นิยมทานในงานบุญและเทศกาลของภาคใต้",
+      "detailed_ingredients": [
+        {
+          "name": "Fermented rice noodles",
+          "purpose": "สำคัญสำหรับรสชาติKanom Jeen Nam Yaแท้",
+          "substitutes": [
+            "Fresh fermented rice noodles",
+            "Dried fermented rice noodles",
+            "fermented rice noodles paste"
+          ]
+        },
+        {
+          "name": "Fish",
+          "purpose": "สำคัญสำหรับรสชาติKanom Jeen Nam Yaแท้",
+          "substitutes": [
+            "Fresh fish",
+            "Dried fish",
+            "fish paste"
+          ]
+        },
+        {
+          "name": "Lemongrass",
+          "purpose": "สำคัญสำหรับรสชาติKanom Jeen Nam Yaแท้",
+          "substitutes": [
+            "Fresh lemongrass",
+            "Dried lemongrass",
+            "lemongrass paste"
+          ]
+        },
+        {
+          "name": "Galangal",
+          "purpose": "สำคัญสำหรับรสชาติKanom Jeen Nam Yaแท้",
+          "substitutes": [
+            "Fresh galangal",
+            "Dried galangal",
+            "galangal paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมKanom Jeen Nam Yaต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้fermented rice noodlesสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคใต้มาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคใต้ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kanom Jeen Nam Ya Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Kanom Jeen Nam Ya Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Kanom Jeen Nam Ya",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารใต้ท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

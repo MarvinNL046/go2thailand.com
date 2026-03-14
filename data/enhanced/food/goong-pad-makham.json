@@ -5,7 +5,8 @@
     "en": "Goong Pad Makham",
     "nl": "Goong Pad Makham",
     "thai": "กุ้งผัดมะขาม",
-    "ko": "꿍팟마캄"
+    "ko": "꿍팟마캄",
+    "th": "กุ้งผัดมะขาม"
   },
   "category": "main-dish",
   "region": "southern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Prawns stir-fried in tangy tamarind sauce",
     "nl": "Garnalen geroerbakt in pittige tamarindesaus",
-    "ko": "새콤달콤한 타마린드 소스에 볶은 새우"
+    "ko": "새콤달콤한 타마린드 소스에 볶은 새우",
+    "th": "กุ้งผัดซอสมะขามเปรี้ยวหวาน กุ้งตัวโตเนื้อแน่น ผัดกับซอสมะขามรสกลมกล่อม"
   },
   "ingredients": [
     "prawns",
@@ -35,12 +37,14 @@
     "metaTitle": {
       "en": "Goong Pad Makham Recipe | Authentic Thai main dish",
       "nl": "Goong Pad Makham Recept | Authentieke Thaise main dish",
-      "ko": "꿍팟마캄 레시피 | 정통 태국 타마린드 새우 볶음"
+      "ko": "꿍팟마캄 레시피 | 정통 태국 타마린드 새우 볶음",
+      "th": "สูตรกุ้งผัดมะขาม | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Goong Pad Makham (กุ้งผัดมะขาม) - Prawns stir-fried in tangy tamarind sauce...",
       "nl": "Leer over Goong Pad Makham (กุ้งผัดมะขาม) - Garnalen geroerbakt in pittige tamarindesaus...",
-      "ko": "꿍팟마캄(กุ้งผัดมะขาม) - 새콤달콤한 타마린드 소스에 볶은 새우 요리. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "꿍팟마캄(กุ้งผัดมะขาม) - 새콤달콤한 타마린드 소스에 볶은 새우 요리. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับกุ้งผัดมะขาม — กุ้งผัดซอสมะขามเปรี้ยวหวาน กุ้งตัวโตเนื้อแน่น ผัดกับซอสมะขามรสกลมกล่อม สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -762,6 +766,109 @@
           "야시장",
           "아침 시장",
           "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "กุ้งผัดมะขามเป็นอาหารไทยที่ได้รับความนิยมทั้งในร้านอาหารและที่บ้าน กุ้งตัวโตผัดกับซอสมะขามเปรี้ยวหวาน รสชาติกลมกล่อม เป็นเมนูที่แสดงถึงความสมดุลของรสชาติอาหารไทยอย่างลงตัว",
+      "detailed_ingredients": [
+        {
+          "name": "Prawns",
+          "purpose": "สำคัญสำหรับรสชาติGoong Pad Makhamแท้",
+          "substitutes": [
+            "Fresh prawns",
+            "Dried prawns",
+            "prawns paste"
+          ]
+        },
+        {
+          "name": "Tamarind paste",
+          "purpose": "สำคัญสำหรับรสชาติGoong Pad Makhamแท้",
+          "substitutes": [
+            "Fresh tamarind paste",
+            "Dried tamarind paste",
+            "tamarind paste paste"
+          ]
+        },
+        {
+          "name": "Palm sugar",
+          "purpose": "สำคัญสำหรับรสชาติGoong Pad Makhamแท้",
+          "substitutes": [
+            "Fresh palm sugar",
+            "Dried palm sugar",
+            "palm sugar paste"
+          ]
+        },
+        {
+          "name": "Fish sauce",
+          "purpose": "สำคัญสำหรับรสชาติGoong Pad Makhamแท้",
+          "substitutes": [
+            "Fresh fish sauce",
+            "Dried fish sauce",
+            "fish sauce paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมGoong Pad Makhamต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้prawnsสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคใต้มาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคใต้ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Goong Pad Makham Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Goong Pad Makham Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Goong Pad Makham",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารใต้ท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
         ],
         "price_ranges": {
           "street_vendor": "50-80 THB",

@@ -5,7 +5,8 @@
     "en": "Massaman Curry",
     "nl": "Massaman Curry",
     "thai": "แกงมัสมั่น",
-    "ko": "마사만 커리"
+    "ko": "마사만 커리",
+    "th": "แกงมัสมั่น"
   },
   "category": "curry",
   "region": "southern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Rich and mild curry with Persian influences containing potatoes and peanuts",
     "nl": "Rijke en milde curry met Perzische invloeden met aardappelen en pinda's",
-    "ko": "감자와 땅콩이 들어간 페르시아 영향의 풍부하고 부드러운 커리"
+    "ko": "감자와 땅콩이 들어간 페르시아 영향의 풍부하고 부드러운 커리",
+    "th": "แกงมัสมั่นเนื้อนุ่ม รสหวานเค็มกลมกล่อม ใส่มันฝรั่ง ถั่วลิสง อบเชย"
   },
   "ingredients": [
     "massaman paste",
@@ -35,12 +37,14 @@
     "metaTitle": {
       "en": "Massaman Curry Recipe | Authentic Thai curry",
       "nl": "Massaman Curry Recept | Authentieke Thaise curry",
-      "ko": "마사만 커리 레시피 | 정통 태국 마사만 커리"
+      "ko": "마사만 커리 레시피 | 정통 태국 마사만 커리",
+      "th": "สูตรแกงมัสมั่น | แกงไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Massaman Curry (แกงมัสมั่น) - Rich and mild curry with Persian influences containing potatoes and peanuts...",
       "nl": "Leer over Massaman Curry (แกงมัสมั่น) - Rijke en milde curry met Perzische invloeden met aardappelen en pinda's...",
-      "ko": "마사만 커리(แกงมัสมั่น) - 감자와 땅콩이 들어간 페르시아 영향의 태국 커리. CNN 선정 세계 최고 음식. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "마사만 커리(แกงมัสมั่น) - 감자와 땅콩이 들어간 페르시아 영향의 태국 커리. CNN 선정 세계 최고 음식. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับแกงมัสมั่น — แกงมัสมั่นเนื้อนุ่ม รสหวานเค็มกลมกล่อม ใส่มันฝรั่ง ถั่วลิสง อบเชย สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -744,6 +748,105 @@
           "street_food": "60-100 THB",
           "restaurant": "150-300 THB",
           "upscale": "350-600 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "แกงมัสมั่นเป็นแกงไทยที่ได้รับอิทธิพลจากเปอร์เซีย รสหวานเค็มกลมกล่อมไม่เผ็ดมาก ใส่มันฝรั่ง ถั่วลิสง อบเชย กานพลู เป็นแกงที่ได้รับการยกย่องว่าอร่อยที่สุดในโลก",
+      "detailed_ingredients": [
+        {
+          "name": "Massaman Curry Paste",
+          "purpose": "Complex spice blend including unusual Thai ingredients like nutmeg",
+          "substitutes": [
+            "Store-bought (Maesri brand recommended)",
+            "Indian garam masala with Thai elements"
+          ]
+        },
+        {
+          "name": "Whole Spices",
+          "purpose": "Cardamom, cinnamon, star anise add Persian influence",
+          "substitutes": [
+            "Ground versions (less aromatic)",
+            "Chinese five-spice blend"
+          ]
+        },
+        {
+          "name": "Tamarind Paste",
+          "purpose": "Provides tangy sweetness characteristic of the dish",
+          "substitutes": [
+            "Lime juice with palm sugar",
+            "Worcestershire sauce"
+          ]
+        },
+        {
+          "name": "Peanuts",
+          "purpose": "Adds texture and nutty richness",
+          "substitutes": [
+            "Cashews",
+            "Almonds",
+            "Skip for allergies"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Slow braising and spice toasting",
+        "steps_overview": "Massaman requires patience - it's a slow-cooked curry where tough cuts of meat become tender and spices meld into complex harmony. Whole spices are toasted, paste is fried, and everything simmers gently for hours.",
+        "cooking_tips": [
+          "Toast whole spices before adding to release oils",
+          "Use tough cuts of beef - they become incredibly tender",
+          "Cook low and slow - rushing ruins it",
+          "Balance sweet, sour, and salty throughout cooking",
+          "Let it rest overnight - even better the next day"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "แกงมัสมั่นได้รับอิทธิพลจากพ่อค้าชาวเปอร์เซียและมุสลิมที่เข้ามาค้าขายในสมัยอยุธยา ผสมผสานเครื่องเทศตะวันออกกลางกับวัตถุดิบไทย เป็นหลักฐานของการแลกเปลี่ยนวัฒนธรรมอาหาร",
+        "cultural_importance": "Massaman represents Thailand's openness to foreign influences while maintaining Thai identity. It's served at diplomatic dinners and represents Thai culinary sophistication.",
+        "traditional_occasions": [
+          "Eid celebrations in Southern Thailand",
+          "Royal banquets",
+          "Wedding feasts",
+          "Important business dinners"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Massaman Nuea",
+          "description": "Beef version - the most traditional and popular"
+        },
+        {
+          "name": "Massaman Gai",
+          "description": "Chicken version - quicker cooking for everyday meals"
+        },
+        {
+          "name": "Massaman Lamb",
+          "description": "Luxurious version popular in upscale restaurants"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด"
+        ],
+        "presentation": "เสิร์ฟร้อนๆ แบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อม"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Nahm (Bangkok) - Michelin-starred perfection",
+          "Blue Elephant (Bangkok) - Royal Thai cuisine",
+          "Muslim restaurants on Charoen Krung Road"
+        ],
+        "street_food_areas": [
+          "Rarely found as street food due to long cooking time",
+          "Some vendors at Or Tor Kor Market",
+          "Muslim food centers in Bangkok"
+        ],
+        "price_ranges": {
+          "street_food": "80-120 THB ($2.40-$3.60) when available",
+          "restaurant": "200-400 THB ($6-$12)",
+          "upscale": "500-1200 THB ($15-$36)"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

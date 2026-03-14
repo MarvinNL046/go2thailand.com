@@ -5,7 +5,8 @@
     "en": "Pla Pao",
     "nl": "Pla Pao",
     "thai": "ปลาเผา",
-    "ko": "쁠라파오"
+    "ko": "쁠라파오",
+    "th": "ปลาเผา"
   },
   "category": "main-dish",
   "region": "central",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Grilled fish in salt crust served with spicy seafood sauce",
     "nl": "Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus",
-    "ko": "굵은 소금으로 감싸 숯불에 구운 통생선에 매콤한 해산물 소스를 곁들인 요리"
+    "ko": "굵은 소금으로 감싸 숯불에 구운 통생선에 매콤한 해산물 소스를 곁들인 요리",
+    "th": "ปลาเผาเกลือ ปลาตัวโตเผาในเปลือกเกลือจนสุกหอม เสิร์ฟกับน้ำจิ้มซีฟู้ด"
   },
   "ingredients": [
     "whole fish",
@@ -34,12 +36,14 @@
     "metaTitle": {
       "en": "Pla Pao Recipe | Authentic Thai main dish",
       "nl": "Pla Pao Recept | Authentieke Thaise main dish",
-      "ko": "쁠라파오 레시피 | 정통 태국 소금 껍질 숯불 구이 생선"
+      "ko": "쁠라파오 레시피 | 정통 태국 소금 껍질 숯불 구이 생선",
+      "th": "สูตรปลาเผา | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Pla Pao (ปลาเผา) - Grilled fish in salt crust served with spicy seafood sauce...",
       "nl": "Leer over Pla Pao (ปลาเผา) - Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus...",
-      "ko": "쁠라파오(ปลาเผา) - 굵은 소금으로 감싸 숯불에 구운 태국 전통 통생선 요리. 레몬그라스와 카피르 라임잎으로 속을 채워 구운 생선에 남찜 딥 소스를 곁들입니다."
+      "ko": "쁠라파오(ปลาเผา) - 굵은 소금으로 감싸 숯불에 구운 태국 전통 통생선 요리. 레몬그라스와 카피르 라임잎으로 속을 채워 구운 생선에 남찜 딥 소스를 곁들입니다.",
+      "th": "เรียนรู้เกี่ยวกับปลาเผา — ปลาเผาเกลือ ปลาตัวโตเผาในเปลือกเกลือจนสุกหอม เสิร์ฟกับน้ำจิ้มซีฟู้ด สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -767,6 +771,109 @@
           "street_food": "80-120 THB",
           "restaurant": "120-250 THB",
           "upscale": "250-500 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ปลาเผาเกลือเป็นอาหารไทยที่นิยมทั้งในร้านอาหารและงานเลี้ยง ปลาตัวโตเผาในเปลือกเกลือจนสุกหอม เนื้อนุ่มฉ่ำ เสิร์ฟกับน้ำจิ้มซีฟู้ดรสเผ็ดเปรี้ยว",
+      "detailed_ingredients": [
+        {
+          "name": "Whole fish",
+          "purpose": "สำคัญสำหรับรสชาติPla Paoแท้",
+          "substitutes": [
+            "Fresh whole fish",
+            "Dried whole fish",
+            "whole fish paste"
+          ]
+        },
+        {
+          "name": "Coarse salt",
+          "purpose": "สำคัญสำหรับรสชาติPla Paoแท้",
+          "substitutes": [
+            "Fresh coarse salt",
+            "Dried coarse salt",
+            "coarse salt paste"
+          ]
+        },
+        {
+          "name": "Lemongrass",
+          "purpose": "สำคัญสำหรับรสชาติPla Paoแท้",
+          "substitutes": [
+            "Fresh lemongrass",
+            "Dried lemongrass",
+            "lemongrass paste"
+          ]
+        },
+        {
+          "name": "Lime leaves",
+          "purpose": "สำคัญสำหรับรสชาติPla Paoแท้",
+          "substitutes": [
+            "Fresh lime leaves",
+            "Dried lime leaves",
+            "lime leaves paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมPla Paoต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้whole fishสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคกลางมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคกลาง แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pla Pao Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Pla Pao Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Pla Pao",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารไทยภาคกลาง",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

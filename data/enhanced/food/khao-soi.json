@@ -5,7 +5,8 @@
     "en": "Khao Soi",
     "nl": "Khao Soi",
     "thai": "ข้าวซอย",
-    "ko": "카오소이"
+    "ko": "카오소이",
+    "th": "ข้าวซอย"
   },
   "category": "soup",
   "region": "northern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Creamy coconut curry noodle soup with crispy noodles on top",
     "nl": "Romige kokoscurry-noedelsoep met krokante noedels bovenop",
-    "ko": "바삭한 튀김 면을 올린 크리미한 코코넛 커리 누들 수프"
+    "ko": "바삭한 튀김 면을 올린 크리미한 코코넛 커리 누들 수프",
+    "th": "ข้าวซอยเชียงใหม่ ก๋วยเตี๋ยวแกงกะทิข้นเข้มโรยบะหมี่กรอบ อาหารเหนือขึ้นชื่อ"
   },
   "ingredients": [
     "egg noodles",
@@ -34,12 +36,14 @@
     "metaTitle": {
       "en": "Khao Soi Recipe | Authentic Thai soup",
       "nl": "Khao Soi Recept | Authentieke Thaise soup",
-      "ko": "카오소이 레시피 | 정통 태국 북부 코코넛 커리 누들"
+      "ko": "카오소이 레시피 | 정통 태국 북부 코코넛 커리 누들",
+      "th": "สูตรข้าวซอย | ซุปไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Khao Soi (ข้าวซอย) - Creamy coconut curry noodle soup with crispy noodles on top...",
       "nl": "Leer over Khao Soi (ข้าวซอย) - Romige kokoscurry-noedelsoep met krokante noedels bovenop...",
-      "ko": "카오소이(ข้าวซอย) - 바삭한 튀김 면을 올린 크리미한 코코넛 커리 누들 수프. 치앙마이 대표 요리의 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "카오소이(ข้าวซอย) - 바삭한 튀김 면을 올린 크리미한 코코넛 커리 누들 수프. 치앙마이 대표 요리의 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับข้าวซอย — ข้าวซอยเชียงใหม่ ก๋วยเตี๋ยวแกงกะทิข้นเข้มโรยบะหมี่กรอบ อาหารเหนือขึ้นชื่อ สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -765,6 +769,109 @@
           "street_vendor": "40-60 THB",
           "market_stall": "50-70 THB",
           "restaurant": "70-120 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ข้าวซอยเป็นอาหารขึ้นชื่อของเชียงใหม่ ก๋วยเตี๋ยวไข่ในน้ำแกงกะทิเข้มข้น โรยบะหมี่กรอบด้านบน เสิร์ฟกับหอมแดงดอง มะนาว และผักกาดดอง รสชาติเผ็ดหวานมันกลมกล่อม",
+      "detailed_ingredients": [
+        {
+          "name": "Egg noodles",
+          "purpose": "สำคัญสำหรับรสชาติKhao Soiแท้",
+          "substitutes": [
+            "Fresh egg noodles",
+            "Dried egg noodles",
+            "egg noodles paste"
+          ]
+        },
+        {
+          "name": "Coconut milk",
+          "purpose": "สำคัญสำหรับรสชาติKhao Soiแท้",
+          "substitutes": [
+            "Fresh coconut milk",
+            "Dried coconut milk",
+            "coconut milk paste"
+          ]
+        },
+        {
+          "name": "Curry paste",
+          "purpose": "สำคัญสำหรับรสชาติKhao Soiแท้",
+          "substitutes": [
+            "Fresh curry paste",
+            "Dried curry paste",
+            "curry paste paste"
+          ]
+        },
+        {
+          "name": "Chicken",
+          "purpose": "สำคัญสำหรับรสชาติKhao Soiแท้",
+          "substitutes": [
+            "Fresh chicken",
+            "Dried chicken",
+            "chicken paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การเคี่ยวและการเพิ่มรสชาติทีละชั้น",
+        "steps_overview": "การเตรียมKhao Soiต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้egg noodlesสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคเหนือมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคเหนือ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Soi Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Khao Soi Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Khao Soi",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในชามแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารเหนือท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

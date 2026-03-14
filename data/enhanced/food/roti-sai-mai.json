@@ -5,7 +5,8 @@
     "en": "Roti Sai Mai",
     "nl": "Roti Sai Mai",
     "thai": "โรตีสายไหม",
-    "ko": "로띠 사이마이"
+    "ko": "로띠 사이마이",
+    "th": "โรตีสายไหม"
   },
   "category": "dessert",
   "region": "central",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Thai cotton candy wrapped in thin roti from Ayutthaya",
     "nl": "Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya",
-    "ko": "아유타야 명물 얇은 로띠에 색색의 솜사탕을 말아 먹는 태국 전통 디저트"
+    "ko": "아유타야 명물 얇은 로띠에 색색의 솜사탕을 말아 먹는 태국 전통 디저트",
+    "th": "โรตีสายไหม ขนมหวานจากอยุธยา สายไหมน้ำตาลหลากสีห่อในแผ่นโรตีบาง"
   },
   "ingredients": [
     "flour",
@@ -34,12 +36,14 @@
     "metaTitle": {
       "en": "Roti Sai Mai Recipe | Authentic Thai dessert",
       "nl": "Roti Sai Mai Recept | Authentieke Thaise dessert",
-      "ko": "로띠 사이마이 레시피 | 아유타야 명물 태국 솜사탕 로띠 디저트"
+      "ko": "로띠 사이마이 레시피 | 아유타야 명물 태국 솜사탕 로띠 디저트",
+      "th": "สูตรโรตีสายไหม | ของหวานไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Roti Sai Mai (โรตีสายไหม) - Thai cotton candy wrapped in thin roti from Ayutthaya...",
       "nl": "Leer over Roti Sai Mai (โรตีสายไหม) - Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya...",
-      "ko": "로띠 사이마이(โรตีสายไหม) - 아유타야의 상징적인 디저트. 종이처럼 얇은 로띠에 파스텔 색상의 설탕 실을 올려 말아 먹는 전통 간식. 만드는 법, 유래, 맛집 정보."
+      "ko": "로띠 사이마이(โรตีสายไหม) - 아유타야의 상징적인 디저트. 종이처럼 얇은 로띠에 파스텔 색상의 설탕 실을 올려 말아 먹는 전통 간식. 만드는 법, 유래, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับโรตีสายไหม — โรตีสายไหม ขนมหวานจากอยุธยา สายไหมน้ำตาลหลากสีห่อในแผ่นโรตีบาง สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -763,6 +767,109 @@
           "street_food": "20-40 THB (소량)",
           "gift_set": "50-100 THB (선물용 세트)",
           "premium": "100-200 THB (대형 세트)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "โรตีสายไหมเป็นขนมหวานดั้งเดิมจากอยุธยา สายไหมน้ำตาลสีสันสดใสห่อในแผ่นโรตีบางกรอบ เป็นของฝากขึ้นชื่อที่สะท้อนภูมิปัญญาขนมไทยโบราณ",
+      "detailed_ingredients": [
+        {
+          "name": "Flour",
+          "purpose": "สำคัญสำหรับรสชาติRoti Sai Maiแท้",
+          "substitutes": [
+            "Fresh flour",
+            "Dried flour",
+            "flour paste"
+          ]
+        },
+        {
+          "name": "Sugar",
+          "purpose": "สำคัญสำหรับรสชาติRoti Sai Maiแท้",
+          "substitutes": [
+            "Fresh sugar",
+            "Dried sugar",
+            "sugar paste"
+          ]
+        },
+        {
+          "name": "Food coloring",
+          "purpose": "สำคัญสำหรับรสชาติRoti Sai Maiแท้",
+          "substitutes": [
+            "Fresh food coloring",
+            "Dried food coloring",
+            "food coloring paste"
+          ]
+        },
+        {
+          "name": "Water",
+          "purpose": "สำคัญสำหรับรสชาติRoti Sai Maiแท้",
+          "substitutes": [
+            "Fresh water",
+            "Dried water",
+            "water paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การเตรียมแบบดั้งเดิม",
+        "steps_overview": "การเตรียมRoti Sai Maiต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้flourสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคกลางมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคกลาง แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Roti Sai Mai Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Roti Sai Mai Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Roti Sai Mai",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารไทยภาคกลาง",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

@@ -5,7 +5,8 @@
     "en": "Roti Canai",
     "nl": "Roti Canai",
     "thai": "โรตีกะหรี่",
-    "ko": "로띠 까나이"
+    "ko": "로띠 까나이",
+    "th": "โรตีกะหรี่"
   },
   "category": "main-dish",
   "region": "southern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Malaysian-Thai flatbread served with curry",
     "nl": "Maleisisch-Thais platbrood geserveerd met curry",
-    "ko": "기(버터오일)로 바삭하게 구운 말레이-태국식 납작빵에 커리를 곁들인 요리"
+    "ko": "기(버터오일)로 바삭하게 구운 말레이-태국식 납작빵에 커리를 곁들인 요리",
+    "th": "โรตีกะหรี่ แผ่นแป้งกรอบนอกนุ่มในเสิร์ฟกับแกงกะหรี่ สไตล์มาเลย์-ไทย"
   },
   "ingredients": [
     "flour",
@@ -34,12 +36,14 @@
     "metaTitle": {
       "en": "Roti Canai Recipe | Authentic Thai main dish",
       "nl": "Roti Canai Recept | Authentieke Thaise main dish",
-      "ko": "로띠 까나이 레시피 | 태국 남부 말레이식 납작빵과 커리"
+      "ko": "로띠 까나이 레시피 | 태국 남부 말레이식 납작빵과 커리",
+      "th": "สูตรโรตีกะหรี่ | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Roti Canai (โรตีกะหรี่) - Malaysian-Thai flatbread served with curry...",
       "nl": "Leer over Roti Canai (โรตีกะหรี่) - Maleisisch-Thais platbrood geserveerd met curry...",
-      "ko": "로띠 까나이(โรตีกะหรี่) - 기(버터오일)로 겹겹이 바삭하게 구운 태국 남부 말레이식 납작빵. 맛사만 커리나 달(렌틸콩) 소스에 찍어 먹는 레시피와 맛집 정보."
+      "ko": "로띠 까나이(โรตีกะหรี่) - 기(버터오일)로 겹겹이 바삭하게 구운 태국 남부 말레이식 납작빵. 맛사만 커리나 달(렌틸콩) 소스에 찍어 먹는 레시피와 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับโรตีกะหรี่ — โรตีกะหรี่ แผ่นแป้งกรอบนอกนุ่มในเสิร์ฟกับแกงกะหรี่ สไตล์มาเลย์-ไทย สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -774,6 +778,109 @@
           "street_food": "15-30 THB",
           "restaurant": "30-60 THB",
           "upscale": "60-120 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "โรตีกะหรี่เป็นอาหารสไตล์มาเลย์-ไทยที่นิยมในภาคใต้ แผ่นแป้งทอดกรอบนอกนุ่มใน เสิร์ฟกับแกงกะหรี่เข้มข้น ได้รับอิทธิพลจากวัฒนธรรมมุสลิมมลายู",
+      "detailed_ingredients": [
+        {
+          "name": "Flour",
+          "purpose": "สำคัญสำหรับรสชาติRoti Canaiแท้",
+          "substitutes": [
+            "Fresh flour",
+            "Dried flour",
+            "flour paste"
+          ]
+        },
+        {
+          "name": "Ghee",
+          "purpose": "สำคัญสำหรับรสชาติRoti Canaiแท้",
+          "substitutes": [
+            "Fresh ghee",
+            "Dried ghee",
+            "ghee paste"
+          ]
+        },
+        {
+          "name": "Egg",
+          "purpose": "สำคัญสำหรับรสชาติRoti Canaiแท้",
+          "substitutes": [
+            "Fresh egg",
+            "Dried egg",
+            "egg paste"
+          ]
+        },
+        {
+          "name": "Salt",
+          "purpose": "สำคัญสำหรับรสชาติRoti Canaiแท้",
+          "substitutes": [
+            "Fresh salt",
+            "Dried salt",
+            "salt paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมRoti Canaiต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้flourสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคใต้มาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคใต้ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Roti Canai Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Roti Canai Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Roti Canai",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารใต้ท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

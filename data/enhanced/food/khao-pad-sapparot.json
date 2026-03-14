@@ -5,7 +5,8 @@
     "en": "Khao Pad Sapparot",
     "nl": "Khao Pad Sapparot",
     "thai": "ข้าวผัดสับปะรด",
-    "ko": "카오팟 싸빠롯"
+    "ko": "카오팟 싸빠롯",
+    "th": "ข้าวผัดสับปะรด"
   },
   "category": "main-dish",
   "region": "central",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Pineapple fried rice served in pineapple shell",
     "nl": "Ananas gebakken rijst geserveerd in ananasschil",
-    "ko": "파인애플 껍질에 담아 제공하는 파인애플 볶음밥"
+    "ko": "파인애플 껍질에 담아 제공하는 파인애플 볶음밥",
+    "th": "ข้าวผัดสับปะรด เสิร์ฟในเปลือกสับปะรด หอมกลิ่นผงกะหรี่ มีเม็ดมะม่วงหิมพานต์"
   },
   "ingredients": [
     "rice",
@@ -35,12 +37,14 @@
     "metaTitle": {
       "en": "Khao Pad Sapparot Recipe | Authentic Thai main dish",
       "nl": "Khao Pad Sapparot Recept | Authentieke Thaise main dish",
-      "ko": "카오팟 싸빠롯 레시피 | 정통 태국 파인애플 볶음밥"
+      "ko": "카오팟 싸빠롯 레시피 | 정통 태국 파인애플 볶음밥",
+      "th": "สูตรข้าวผัดสับปะรด | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Khao Pad Sapparot (ข้าวผัดสับปะรด) - Pineapple fried rice served in pineapple shell...",
       "nl": "Leer over Khao Pad Sapparot (ข้าวผัดสับปะรด) - Ananas gebakken rijst geserveerd in ananasschil...",
-      "ko": "카오팟 싸빠롯(ข้าวผัดสับปะรด) - 파인애플 껍질에 담아 제공하는 새우와 캐슈넛이 들어간 태국 파인애플 볶음밥. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "카오팟 싸빠롯(ข้าวผัดสับปะรด) - 파인애플 껍질에 담아 제공하는 새우와 캐슈넛이 들어간 태국 파인애플 볶음밥. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับข้าวผัดสับปะรด — ข้าวผัดสับปะรด เสิร์ฟในเปลือกสับปะรด หอมกลิ่นผงกะหรี่ มีเม็ดมะม่วงหิมพานต์ สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -762,6 +766,109 @@
           "야시장",
           "해변 노점",
           "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ข้าวผัดสับปะรดเป็นอาหารไทยที่โดดเด่นด้วยการเสิร์ฟในเปลือกสับปะรด ข้าวหอมมะลิผัดกับสับปะรด เม็ดมะม่วงหิมพานต์ ลูกเกด และผงกะหรี่ รสชาติหวานอมเค็มหอมกรุ่น",
+      "detailed_ingredients": [
+        {
+          "name": "Rice",
+          "purpose": "สำคัญสำหรับรสชาติKhao Pad Sapparotแท้",
+          "substitutes": [
+            "Fresh rice",
+            "Dried rice",
+            "rice paste"
+          ]
+        },
+        {
+          "name": "Pineapple",
+          "purpose": "สำคัญสำหรับรสชาติKhao Pad Sapparotแท้",
+          "substitutes": [
+            "Fresh pineapple",
+            "Dried pineapple",
+            "pineapple paste"
+          ]
+        },
+        {
+          "name": "Shrimp",
+          "purpose": "สำคัญสำหรับรสชาติKhao Pad Sapparotแท้",
+          "substitutes": [
+            "Fresh shrimp",
+            "Dried shrimp",
+            "shrimp paste"
+          ]
+        },
+        {
+          "name": "Cashew nuts",
+          "purpose": "สำคัญสำหรับรสชาติKhao Pad Sapparotแท้",
+          "substitutes": [
+            "Fresh cashew nuts",
+            "Dried cashew nuts",
+            "cashew nuts paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมKhao Pad Sapparotต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้riceสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคกลางมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคกลาง แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Sapparot Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Khao Pad Sapparot Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Khao Pad Sapparot",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารไทยภาคกลาง",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
         ],
         "price_ranges": {
           "street_vendor": "50-80 THB",
