@@ -4,14 +4,16 @@
   "name": {
     "en": "Oh Aew",
     "nl": "Oh Aew",
-    "thai": "โอ้เอ๋ว"
+    "thai": "โอ้เอ๋ว",
+    "ja": "オーエウ"
   },
   "category": "dessert",
   "region": "southern",
   "spice_level": "none",
   "description": {
     "en": "Shaved ice dessert with jelly made from banana flour",
-    "nl": "IJsdessert met gelei van bananenmeel"
+    "nl": "IJsdessert met gelei van bananenmeel",
+    "ja": "バナナ粉のゼリーを使ったプーケット発祥のかき氷デザート"
   },
   "ingredients": [
     "banana flour jelly",
@@ -37,11 +39,13 @@
   "seo": {
     "metaTitle": {
       "en": "Oh Aew Recipe | Authentic Thai dessert",
-      "nl": "Oh Aew Recept | Authentieke Thaise dessert"
+      "nl": "Oh Aew Recept | Authentieke Thaise dessert",
+      "ja": "オーエウのレシピ | 本格タイデザート"
     },
     "metaDescription": {
       "en": "Learn about Oh Aew (โอ้เอ๋ว) - Shaved ice dessert with jelly made from banana flour...",
-      "nl": "Leer over Oh Aew (โอ้เอ๋ว) - IJsdessert met gelei van bananenmeel..."
+      "nl": "Leer over Oh Aew (โอ้เอ๋ว) - IJsdessert met gelei van bananenmeel...",
+      "ja": "オーエウ（โอ้เอ๋ว）について — バナナ粉のゼリーを使ったプーケット発祥のかき氷デザート。"
     }
   },
   "tags": [
