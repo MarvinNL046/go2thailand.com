@@ -6,6 +6,7 @@ import ClusterNav from '../../../components/ClusterNav';
 import AffiliateBox from '../../../components/AffiliateBox';
 import type { WhereToStayPage, ClusterNeighborhood } from '../../../lib/cluster-types';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
+import { normalizeWhereToStay } from '../../../lib/normalize-cluster';
 // NOTE: clusters.ts imported dynamically in getStaticPaths/Props to avoid bundling 'fs' client-side
 
 // --- Price level badge colors ---
@@ -171,8 +172,9 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   const { getWhereToStay } = await import('../../../lib/clusters');
   const slug = params?.slug as string;
-  const data = getWhereToStay(slug);
-  if (!data) return { notFound: true };
+  const raw = getWhereToStay(slug);
+  if (!raw) return { notFound: true };
+  const data = normalizeWhereToStay(raw);
   return {
     props: { data, affiliates: getAffiliates(slug) },
     revalidate: 86400,
