@@ -4,14 +4,16 @@
   "name": {
     "en": "Pad Krapow",
     "nl": "Pad Krapow",
-    "thai": "ผัดกะเพรา"
+    "thai": "ผัดกะเพรา",
+    "ja": "パッガパオ"
   },
   "category": "main-dish",
   "region": "central",
   "spice_level": "hot",
   "description": {
     "en": "Stir-fried Thai basil with minced pork or chicken served over rice with a fried egg",
-    "nl": "Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei"
+    "nl": "Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei",
+    "ja": "ひき肉とタイバジルの炒め物、目玉焼きのせご飯"
   },
   "ingredients": [
     "thai basil",
@@ -160,11 +162,13 @@
   "seo": {
     "metaTitle": {
       "en": "Pad Krapow Recipe | Authentic Thai main dish",
-      "nl": "Pad Krapow Recept | Authentieke Thaise main dish"
+      "nl": "Pad Krapow Recept | Authentieke Thaise main dish",
+      "ja": "パッガパオのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Pad Krapow (ผัดกะเพรา) - Stir-fried Thai basil with minced pork or chicken served over rice with a fried egg...",
-      "nl": "Leer over Pad Krapow (ผัดกะเพรา) - Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei..."
+      "nl": "Leer over Pad Krapow (ผัดกะเพรา) - Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei...",
+      "ja": "パッガパオ（ผัดกะเพรา）について — ひき肉とタイバジルの炒め物。タイの国民食。"
     }
   },
   "tags": [
