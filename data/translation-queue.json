@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-14",
   "stats": {
     "total": 1504,
-    "completed": 1167
+    "completed": 1168
   },
   "queue": [
     {
@@ -9352,14 +9352,15 @@
       "type": "top10",
       "file": "data/top10/khon-kaen-restaurants.json",
       "locale": "ko",
-      "status": "in_progress",
-      "priority": 15
+      "status": "completed",
+      "priority": 15,
+      "completedAt": "2026-03-14"
     },
     {
       "type": "top10",
       "file": "data/top10/koh-samui-attractions.json",
       "locale": "ko",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 15
     },
     {
