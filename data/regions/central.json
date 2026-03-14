@@ -8,7 +8,8 @@
     "de": "Zentralthailand",
     "zh": "泰国中部",
     "ru": "Центральный Таиланд",
-    "ja": "タイ中部"
+    "ja": "タイ中部",
+    "ko": "태국 중부"
   },
   "description": {
     "en": "The heart of Thailand with bustling Bangkok, historic Ayutthaya, and easy access to beaches.",
@@ -17,7 +18,8 @@
     "de": "Das Herz Thailands mit dem pulsierenden Bangkok, dem historischen Ayutthaya und einfachem Zugang zu Stränden.",
     "zh": "泰国的心脏地带，拥有繁华的曼谷、历史悠久的大城府，以及便捷的海滩交通。",
     "ru": "Сердце Таиланда с оживлённым Бангкоком, историческим Аюттхаей и удобным доступом к пляжам.",
-    "ja": "活気あふれるバンコク、歴史的なアユタヤ、ビーチへのアクセスも良いタイの中心地。"
+    "ja": "活気あふれるバンコク、歴史的なアユタヤ、ビーチへのアクセスも良いタイの中心地。",
+    "ko": "활기찬 방콕, 역사적인 아유타야, 해변으로의 편리한 접근성을 갖춘 태국의 심장부."
   },
   "highlights": {
     "en": [
@@ -68,6 +70,13 @@
       "便利な交通",
       "文化的観光スポット",
       "都市と歴史の融合"
+    ],
+    "ko": [
+      "수도 방콕",
+      "역사 유적지",
+      "편리한 교통",
+      "문화 관광지",
+      "도시와 역사의 조화"
     ]
   },
   "cities": [
@@ -89,7 +98,8 @@
     "de": "Heiß (März-Mai), Regenzeit (Juni-Okt), kühl und trocken (Nov-Feb)",
     "zh": "炎热（3月-5月），雨季（6月-10月），凉爽干燥（11月-2月）",
     "ru": "Жарко (март-май), дождливо (июнь-октябрь), прохладно и сухо (ноябрь-февраль)",
-    "ja": "暑い（3月〜5月）、雨季（6月〜10月）、涼しく乾燥（11月〜2月）"
+    "ja": "暑い（3月〜5月）、雨季（6月〜10月）、涼しく乾燥（11月〜2月）",
+    "ko": "더움 (3월-5월), 우기 (6월-10월), 시원하고 건조함 (11월-2월)"
   },
   "bestTimeToVisit": {
     "en": "November to February",
@@ -98,7 +108,8 @@
     "de": "November bis Februar",
     "zh": "11月至2月",
     "ru": "С ноября по февраль",
-    "ja": "11月から2月"
+    "ja": "11月から2月",
+    "ko": "11월부터 2월"
   },
   "image": "/images/regions/central-thailand.webp",
   "geography": {
@@ -108,7 +119,8 @@
     "de": "Flache Flussdelta-Ebenen entlang des Chao Phraya. Städtische Ausdehnung um Bangkok mit historischen Stätten und schwimmenden Märkten.",
     "zh": "沿湄南河的平坦河流三角洲平原。曼谷周边城市扩展，拥有历史遗迹和水上市场。",
     "ru": "Плоские равнины речной дельты вдоль реки Чаопхрая. Городская застройка вокруг Бангкока с историческими памятниками и плавучими рынками.",
-    "ja": "チャオプラヤー川沿いの平坦な河川デルタ平原。バンコク周辺の都市部には歴史的名所や水上マーケットが点在。"
+    "ja": "チャオプラヤー川沿いの平坦な河川デルタ平原。バンコク周辺の都市部には歴史的名所や水上マーケットが点在。",
+    "ko": "짜오프라야강을 따라 형성된 평탄한 하천 삼각주 평원. 방콕 주변의 도시 확장 지역에 역사 유적지와 수상 시장이 있다."
   },
   "culture": {
     "en": "Mix of traditional Thai culture and modern cosmopolitan lifestyle. Royal heritage and Buddhist temples alongside skyscrapers.",
@@ -117,7 +129,8 @@
     "de": "Mix aus traditioneller thailändischer Kultur und modernem kosmopolitischem Lebensstil. Königliches Erbe und buddhistische Tempel neben Wolkenkratzern.",
     "zh": "传统泰国文化与现代国际化生活方式的融合。皇家遗产和佛教寺庙与摩天大楼并存。",
     "ru": "Сочетание традиционной тайской культуры и современного космополитичного образа жизни. Королевское наследие и буддийские храмы соседствуют с небоскрёбами.",
-    "ja": "伝統的なタイ文化と現代的なコスモポリタンライフスタイルの融合。王室の遺産と仏教寺院が高層ビルと共存。"
+    "ja": "伝統的なタイ文化と現代的なコスモポリタンライフスタイルの融合。王室の遺産と仏教寺院が高層ビルと共存。",
+    "ko": "전통 태국 문화와 현대 국제적 생활방식의 조화. 왕실 유산과 불교 사원이 고층 빌딩과 공존."
   },
   "cuisine": {
     "en": "Pad Thai, Tom Yum, Green Curry, Mango Sticky Rice. Street food capital with diverse international cuisine in Bangkok.",
@@ -126,7 +139,8 @@
     "de": "Pad Thai, Tom Yum, grünes Curry, Mango Sticky Rice. Street-Food-Hauptstadt mit vielfältiger internationaler Küche in Bangkok.",
     "zh": "泰式炒河粉、冬阴功、绿咖喱、芒果糯米饭。曼谷是街头美食之都，汇聚多元国际美食。",
     "ru": "Пад Тай, Том Ям, зелёное карри, манго со сладким рисом. Бангкок — столица уличной еды с разнообразной международной кухней.",
-    "ja": "パッタイ、トムヤム、グリーンカレー、マンゴースティッキーライス。バンコクは多彩な国際料理が楽しめるストリートフードの首都。"
+    "ja": "パッタイ、トムヤム、グリーンカレー、マンゴースティッキーライス。バンコクは多彩な国際料理が楽しめるストリートフードの首都。",
+    "ko": "팟타이, 똠얌, 그린 커리, 망고 스티키 라이스. 방콕은 다양한 국제 요리를 즐길 수 있는 길거리 음식의 수도."
   },
   "transportation": {
     "en": "Excellent BTS/MRT in Bangkok. Trains to Ayutthaya. Buses and taxis widely available. Don Mueang and Suvarnabhumi airports.",
@@ -135,7 +149,8 @@
     "de": "Ausgezeichnetes BTS/MRT in Bangkok. Züge nach Ayutthaya. Busse und Taxis weithin verfügbar. Flughäfen Don Mueang und Suvarnabhumi.",
     "zh": "曼谷拥有优秀的BTS/MRT轻轨系统。火车可达大城府。巴士和出租车随处可见。廊曼机场和素万那普机场。",
     "ru": "Отличное метро BTS/MRT в Бангкоке. Поезда до Аюттхаи. Автобусы и такси повсеместно доступны. Аэропорты Дон Муанг и Суварнабхуми.",
-    "ja": "バンコクにはBTS/MRTの優れた交通網。アユタヤへの列車あり。バスとタクシーが広く利用可能。ドンムアン空港とスワンナプーム空港。"
+    "ja": "バンコクにはBTS/MRTの優れた交通網。アユタヤへの列車あり。バスとタクシーが広く利用可能。ドンムアン空港とスワンナプーム空港。",
+    "ko": "방콕의 우수한 BTS/MRT 교통망. 아유타야행 기차. 버스와 택시 널리 이용 가능. 돈므앙 공항과 수완나품 공항."
   },
   "budgetInfo": {
     "en": "Budget: $30-50/day. Mid-range: $50-100/day. Luxury: $100+/day. Bangkok more expensive than other regions.",
@@ -144,7 +159,8 @@
     "de": "Budget: $30-50/Tag. Mittelklasse: $50-100/Tag. Luxus: $100+/Tag. Bangkok ist teurer als andere Regionen.",
     "zh": "经济型：$30-50/天。中档：$50-100/天。豪华：$100+/天。曼谷消费高于其他地区。",
     "ru": "Бюджет: $30-50/день. Средний класс: $50-100/день. Люкс: $100+/день. Бангкок дороже других регионов.",
-    "ja": "格安：$30-50/日。中級：$50-100/日。高級：$100+/日。バンコクは他の地域より物価が高い。"
+    "ja": "格安：$30-50/日。中級：$50-100/日。高級：$100+/日。バンコクは他の地域より物価が高い。",
+    "ko": "저예산: $30-50/일. 중급: $50-100/일. 고급: $100+/일. 방콕은 다른 지역보다 물가가 높음."
   },
   "topActivities": {
     "en": [
@@ -167,6 +183,9 @@
     ],
     "ja": [
       "王宮見学、水上マーケット、寺院巡り、ストリートフードツアー、ショッピング、リバークルーズ、アユタヤ日帰り旅行"
+    ],
+    "ko": [
+      "왕궁 방문, 수상 시장, 사원 투어, 길거리 음식 투어, 쇼핑, 리버 크루즈, 아유타야 당일치기"
     ]
   },
   "hiddenGems": {
@@ -190,6 +209,9 @@
     ],
     "ja": [
       "アンパワー水上マーケット、バーンカチャオの緑の肺、メークロン線路市場、ワットパクナムのガラス仏塔、クローンラットマヨム"
+    ],
+    "ko": [
+      "암파와 수상 시장, 방꺼짜오 녹색 허파, 매끌렁 기찻길 시장, 왓빠끄남 유리 체디, 클롱랏마욤"
     ]
   },
   "localFestivals": {
@@ -213,6 +235,9 @@
     ],
     "ja": [
       "ソンクラーン（4月）、ロイクラトン（11月）、旧正月（1月/2月）、王室式典、ゴールデンマウント祭り"
+    ],
+    "ko": [
+      "송끄란 (4월), 로이끄라통 (11월), 설날 (1월/2월), 왕실 의식, 골든마운트 축제"
     ]
   },
   "travelTips": {
@@ -236,6 +261,9 @@
     ],
     "ja": [
       "渋滞回避にBTS/MRTを活用。タクシー料金は交渉を。水分補給を忘れずに。寺院では控えめな服装で。詐欺に注意。"
+    ],
+    "ko": [
+      "교통 체증을 피하려면 BTS/MRT를 이용하세요. 택시 요금은 흥정하세요. 수분 보충을 잊지 마세요. 사원에서는 단정한 복장을 갖추세요. 사기에 주의하세요."
     ]
   },
   "whatToPack": {
@@ -259,6 +287,9 @@
     ],
     "ja": [
       "軽くて通気性の良い服、歩きやすい靴、レインジャケット、寺院用の控えめな服装、大気汚染マスク、手指消毒剤"
+    ],
+    "ko": [
+      "가볍고 통기성 좋은 옷, 편한 워킹화, 레인 재킷, 사원용 단정한 복장, 미세먼지 마스크, 손 소독제"
     ]
   },
   "seo": {
@@ -269,7 +300,8 @@
       "de": "Zentralthailand Reiseführer 2026 | Go2Thailand",
       "zh": "泰国中部旅游指南2026 | Go2Thailand",
       "ru": "Путеводитель по Центральному Таиланду 2026 | Go2Thailand",
-      "ja": "タイ中部旅行ガイド2026 | Go2Thailand"
+      "ja": "タイ中部旅行ガイド2026 | Go2Thailand",
+      "ko": "태국 중부 여행 가이드 2026 | Go2Thailand"
     },
     "metaDescription": {
       "en": "Central Thailand travel guide 2026. Best cities, attractions, climate, and travel tips for Bangkok, Ayutthaya, Kanchanaburi and more.",
@@ -278,7 +310,8 @@
       "de": "Zentralthailand Reiseführer 2026. Beste Städte, Sehenswürdigkeiten, Klima und Reisetipps für Bangkok, Ayutthaya, Kanchanaburi und mehr.",
       "zh": "泰国中部旅游指南2026。曼谷、大城府、北碧等最佳城市、景点、气候和旅行攻略。",
       "ru": "Путеводитель по Центральному Таиланду 2026. Лучшие города, достопримечательности, климат и советы для Бангкока, Аюттхаи, Канчанабури и других.",
-      "ja": "タイ中部旅行ガイド2026。バンコク、アユタヤ、カンチャナブリーなどのおすすめ都市、観光スポット、気候、旅行のヒント。"
+      "ja": "タイ中部旅行ガイド2026。バンコク、アユタヤ、カンチャナブリーなどのおすすめ都市、観光スポット、気候、旅行のヒント。",
+      "ko": "태국 중부 여행 가이드 2026. 방콕, 아유타야, 깐짜나부리 등 추천 도시, 관광지, 기후, 여행 팁."
     }
   },
   "categories": {
@@ -289,7 +322,8 @@
       "de": "Top-Sehenswürdigkeiten in Zentralthailand",
       "zh": "泰国中部热门景点",
       "ru": "Лучшие достопримечательности Центрального Таиланда",
-      "ja": "タイ中部の人気観光スポット"
+      "ja": "タイ中部の人気観光スポット",
+      "ko": "태국 중부 인기 관광지"
     },
     "cities": {
       "en": "Best cities to visit in Central Thailand",
@@ -298,7 +332,8 @@
       "de": "Beste Städte in Zentralthailand",
       "zh": "泰国中部最佳旅游城市",
       "ru": "Лучшие города Центрального Таиланда",
-      "ja": "タイ中部のおすすめ都市"
+      "ja": "タイ中部のおすすめ都市",
+      "ko": "태국 중부 추천 도시"
     },
     "climate": {
       "en": "Climate and weather in Central Thailand",
@@ -307,7 +342,8 @@
       "de": "Klima und Wetter in Zentralthailand",
       "zh": "泰国中部气候与天气",
       "ru": "Климат и погода в Центральном Таиланде",
-      "ja": "タイ中部の気候と天気"
+      "ja": "タイ中部の気候と天気",
+      "ko": "태국 중부 기후와 날씨"
     }
   },
   "tags": [
