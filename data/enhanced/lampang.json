@@ -4,14 +4,16 @@
   "name": {
     "en": "Lampang",
     "nl": "Lampang",
-    "ja": "ランパーン"
+    "ja": "ランパーン",
+    "ko": "람빵"
   },
   "region": "Northern",
   "province": "Lampang",
   "description": {
     "en": "The only city in Thailand where horse-drawn carriages still roam the streets, Lampang is a charming northern city with magnificent Lanna temples and a famous elephant conservation center. Often overlooked by tourists, it offers authentic Thai culture without the crowds.",
     "nl": "De enige stad in Thailand waar paardenkoetsen nog door de straten rijden, Lampang is een charmante noordelijke stad met prachtige Lanna-tempels en een beroemd olifantenopvangcentrum. Vaak over het hoofd gezien door toeristen, biedt het authentieke Thaise cultuur zonder de drukte.",
-    "ja": "タイで唯一、馬車が今も街を走る都市ランパーンは、ランナー様式の寺院、陶磁器の伝統、そして穏やかな川沿いの雰囲気が魅力です。"
+    "ja": "タイで唯一、馬車が今も街を走る都市ランパーンは、ランナー様式の寺院、陶磁器の伝統、そして穏やかな川沿いの雰囲気が魅力です。",
+    "ko": "태국에서 유일하게 마차가 거리를 달리는 도시인 람빵은 웅장한 란나 사원과 유명한 코끼리 보호 센터가 있는 매력적인 북부 도시입니다. 관광객에게 종종 간과되지만, 인파 없이 정통 태국 문화를 경험할 수 있습니다."
   },
   "population": 59000,
   "highlights": [
@@ -29,29 +31,34 @@
     "metaTitle": {
       "en": "Discover Lampang | What to do in Lampang?",
       "nl": "Ontdek Lampang | Wat te doen in Lampang?",
-      "ja": "ランパーンを満喫 | ランパーンの観光・見どころガイド"
+      "ja": "ランパーンを満喫 | ランパーンの観光・見どころガイド",
+      "ko": "람빵 태국 — 마차의 도시 여행 가이드 2026"
     },
     "metaDescription": {
       "en": "Your guide to Lampang, Thailand – tips, highlights, horse carriages, temples and elephant center.",
       "nl": "Jouw gids voor Lampang, Thailand – tips, highlights, paardenkoetsen, tempels en olifantencentrum.",
-      "ja": "タイ・ランパーンの旅行ガイド — おすすめスポット、馬車、寺院、グルメ情報をご紹介。"
+      "ja": "タイ・ランパーンの旅行ガイド — おすすめスポット、馬車、寺院、グルメ情報をご紹介。",
+      "ko": "람빵(태국) 완벽 여행 가이드: 란나 사원, 마차 투어, 코끼리 보호 센터. 가격, 팁, 교통편 정보."
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Lampang",
       "nl": "Beste restaurants en streetfood in Lampang",
-      "ja": "ランパーンのおすすめレストラン＆ストリートフード"
+      "ja": "ランパーンのおすすめレストラン＆ストリートフード",
+      "ko": "람빵 추천 레스토랑과 길거리 음식"
     },
     "hotels": {
       "en": "Top hotels in Lampang | Tips & deals",
       "nl": "Beste hotels in Lampang | Tips & aanbiedingen",
-      "ja": "ランパーンのおすすめホテル｜お得な情報＆アドバイス"
+      "ja": "ランパーンのおすすめホテル｜お得な情報＆アドバイス",
+      "ko": "람빵 추천 호텔 | 팁 & 특가"
     },
     "attractions": {
       "en": "Top attractions in Lampang",
       "nl": "Top bezienswaardigheden in Lampang",
-      "ja": "ランパーンの人気観光スポット"
+      "ja": "ランパーンの人気観光スポット",
+      "ko": "람빵 인기 관광 명소"
     }
   },
   "tags": [
@@ -68,12 +75,14 @@
       "name": {
         "en": "Dhanabadee Ceramic Museum",
         "nl": "Dhanabadee Keramiekmuseum",
-        "ja": "ダナバディー陶磁器博物館"
+        "ja": "ダナバディー陶磁器博物館",
+        "ko": "타나바디 도자기 박물관"
       },
       "description": {
         "en": "A fascinating museum housed in a historic ceramics factory that tells the story of Lampang's 100-year ceramics industry. Includes hands-on pottery painting workshops with the iconic rooster bowls.",
         "nl": "Een fascinerend museum gehuisvest in een historische keramiekfabriek dat het verhaal vertelt van Lampang's 100-jarige keramiekindustrie. Inclusief praktische aardewerk-schilderworkshops met de iconische hanenkommen.",
-        "ja": "歴史ある陶磁器工場を改装した博物館で、ランパーンの陶磁器産業の歴史を伝えています。実際の窯や職人の実演も見学でき、タイの陶芸文化を深く知ることができます。"
+        "ja": "歴史ある陶磁器工場を改装した博物館で、ランパーンの陶磁器産業の歴史を伝えています。実際の窯や職人の実演も見学でき、タイの陶芸文化を深く知ることができます。",
+        "ko": "람빵의 도자기 전통을 소개하는 박물관으로, 닭 그릇(까이 람빵)의 역사를 배울 수 있습니다."
       },
       "type": "museum"
     },
@@ -81,12 +90,14 @@
       "name": {
         "en": "Wat Chedi Sao Lang (Temple of Twenty Pagodas)",
         "nl": "Wat Chedi Sao Lang (Tempel van Twintig Pagodes)",
-        "ja": "ワット・チェディ・サオ・ラーン（二十仏塔寺院）"
+        "ja": "ワット・チェディ・サオ・ラーン（二十仏塔寺院）",
+        "ko": "왓 체디 싸오 랑 (20탑 사원)"
       },
       "description": {
         "en": "A serene temple with twenty white chedis in the rice paddies north of town. Contains a solid gold Buddha weighing 8 kg and offers peaceful countryside views with almost no tourists.",
         "nl": "Een serene tempel met twintig witte chedi's in de rijstvelden ten noorden van het stadje. Bevat een massief gouden Boeddha van 8 kg en biedt vredig uitzicht over het platteland met vrijwel geen toeristen.",
-        "ja": "街の北にある田園地帯に佇む静かな寺院で、20基の白い仏塔が並んでいます。黄金の仏像が安置されており、観光客が少なく穏やかな雰囲気が魅力です。"
+        "ja": "街の北にある田園地帯に佇む静かな寺院で、20基の白い仏塔が並んでいます。黄金の仏像が安置されており、観光客が少なく穏やかな雰囲気が魅力です。",
+        "ko": "20개의 흰색 체디가 늘어선 아름다운 사원으로, 관광객이 적어 조용히 참배할 수 있습니다."
       },
       "type": "temple"
     },
@@ -94,12 +105,14 @@
       "name": {
         "en": "Ban Sao Nak (Many Pillars House)",
         "nl": "Ban Sao Nak (Huis van Vele Pilaren)",
-        "ja": "バーン・サオ・ナック（百柱の家）"
+        "ja": "バーン・サオ・ナック（百柱の家）",
+        "ko": "반싸오낙 (다주 가옥)"
       },
       "description": {
         "en": "A magnificent 100-year-old teak mansion built on 116 teak pillars, showcasing traditional Lanna aristocratic lifestyle with original furnishings and Burmese lacquerware.",
         "nl": "Een prachtig 100 jaar oud teakhouten herenhuis gebouwd op 116 teakhouten pilaren, dat de traditionele Lanna-aristocratische levensstijl toont met origineel meubilair en Burmees lakwerk.",
-        "ja": "116本のチーク材の柱の上に建つ築100年以上の壮麗なチーク造りの邸宅で、伝統的なランナー建築を今に伝えています。内部にはアンティーク家具や調度品が展示されています。"
+        "ja": "116本のチーク材の柱の上に建つ築100年以上の壮麗なチーク造りの邸宅で、伝統的なランナー建築を今に伝えています。内部にはアンティーク家具や調度品が展示されています。",
+        "ko": "116개의 티크 기둥으로 지어진 100년 이상 된 란나 양식 전통 가옥입니다."
       },
       "type": "cultural"
     },
@@ -107,12 +120,14 @@
       "name": {
         "en": "Chae Son National Park Hot Springs",
         "nl": "Chae Son Nationaal Park Warmwaterbronnen",
-        "ja": "チェーソン国立公園温泉"
+        "ja": "チェーソン国立公園温泉",
+        "ko": "채손 국립공원 온천"
       },
       "description": {
         "en": "Natural hot springs in a forested national park 70 km from town with geysers, mineral pools, and a waterfall. Perfect day trip combining nature and relaxation.",
         "nl": "Natuurlijke warmwaterbronnen in een bebost nationaal park op 70 km van het stadje met geisers, mineraalbaden en een waterval. Perfecte dagtocht die natuur en ontspanning combineert.",
-        "ja": "街から70kmの森林地帯にある天然温泉で、間欠泉や鉱泉プール、温泉卵を茹でられるスポットがあります。涼しい季節には特に人気のリラックススポットです。"
+        "ja": "街から70kmの森林地帯にある天然温泉で、間欠泉や鉱泉プール、温泉卵を茹でられるスポットがあります。涼しい季節には特に人気のリラックススポットです。",
+        "ko": "정글 속 천연 온천으로, 현지인들이 즐겨 찾는 힐링 명소입니다."
       },
       "type": "nature"
     },
@@ -120,12 +135,14 @@
       "name": {
         "en": "Talad Gao Heritage District",
         "nl": "Talad Gao Erfgoedwijk",
-        "ja": "タラート・ガオ歴史地区"
+        "ja": "タラート・ガオ歴史地区",
+        "ko": "딸랏가오 헤리티지 지구"
       },
       "description": {
         "en": "The atmospheric old market district along the Wang River with century-old teak shophouses, vintage cafes, and independent art galleries in restored buildings.",
         "nl": "De sfeervolle oude marktwijk langs de Wang-rivier met honderd jaar oude teakhouten winkelpanden, vintage cafes en onafhankelijke kunstgalerijen in gerestaureerde gebouwen.",
-        "ja": "ワン川沿いに広がる情緒あふれる旧市場地区で、築100年以上のチーク造りの商家が立ち並んでいます。カフェやギャラリーが点在し、散策に最適なエリアです。"
+        "ja": "ワン川沿いに広がる情緒あふれる旧市場地区で、築100年以上のチーク造りの商家が立ち並んでいます。カフェやギャラリーが点在し、散策に最適なエリアです。",
+        "ko": "람빵의 역사적인 구시가지로, 식민지 시대 건축물과 현지 카페가 매력적입니다."
       },
       "type": "market"
     }
@@ -695,6 +712,40 @@
       "bestTimeToVisit": "Лучшее время для посещения Лампанга — с ноября по февраль, когда прохладная сухая погода делает осмотр храмов и старого города комфортным. Ноябрь открывает прохладный сезон с приятными температурами около 25–28°C, декабрь и январь предлагают самые комфортные условия с вечерней прохладой 15–20°C. Февраль становится чуть теплее, но остаётся идеальным для активного отдыха. Избегайте мая–сентября, когда юго-западный муссон приносит сильные дожди и высокую влажность, которые могут помешать посещению храмов и активному отдыху. В октябре ещё возможны значительные осадки, хотя фестивали вроде Лой Кратхонг в ноябре добавляют особые культурные впечатления. Сезон сжигания с марта по апрель создаёт дымку на севере Таиланда, влияя на качество воздуха и видимость отдалённых достопримечательностей.",
       "safetyTips": "Лампанг — очень безопасное направление с минимальным уровнем преступности в отношении туристов и расслабленной, гостеприимной атмосферой. Местные жители дружелюбны и привыкли к уважительным посетителям, хотя город остаётся гораздо менее туристическим, чем Чиангмай. Стандартные меры предосторожности для Юго-Восточной Азии: не оставляйте ценные вещи без присмотра, будьте осторожны на мотоцикле после наступления темноты и пользуйтесь зарегистрированными такси или организованным отелем транспортом для ночных поездок. Старый город безопасен для пеших прогулок днём и ранним вечером, когда местные жители на улицах. Дорожные условия в целом хорошие, но при аренде мотоцикла надевайте шлем и будьте осторожны на сельских дорогах. Водопроводная вода пригодна для питья в большинстве заведений, но бутилированная вода дешёвая и доступна повсюду. Серьёзные кражи или насильственные преступления в городе крайне редки, что делает его значительно безопаснее многих тайских туристических направлений.",
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "람빵은 태국 북부에서 가장 정통하면서도 저평가된 여행지입니다. 치앙마이에서 남동쪽으로 약 100km 거리에 위치하며, 태국에서 유일하게 마차가 교통수단으로 활용되는 독특한 도시입니다.\n\n왕강 주변의 역사 지구는 란나 왕국의 유산을 간직하고 있습니다. 왓 프라탓 람빵 루앙은 태국 북부에서 가장 중요한 사원 중 하나로, 정교한 목조 건축과 금빛 체디가 인상적입니다. 마차를 타고 도시를 둘러보는 것은 람빵만의 독특한 경험입니다.\n\n태국 코끼리 보호 센터(TECC)는 아시아 코끼리의 보호와 재활에 전념하는 시설로, 윤리적인 코끼리 체험을 원하는 여행자에게 최고의 선택입니다. 람빵은 또한 '까이 람빵'이라 불리는 닭 그림 도자기의 고향으로, 도자기 공방 방문도 추천합니다.",
+      "hidden_gems": [
+        {
+          "name": "타나바디 도자기 박물관",
+          "description": "람빵 도자기 전통과 닭 그릇의 역사를 소개하는 박물관입니다."
+        },
+        {
+          "name": "왓 체디 싸오 랑",
+          "description": "20개의 흰색 체디가 늘어선 조용하고 아름다운 사원입니다."
+        },
+        {
+          "name": "반싸오낙",
+          "description": "116개의 티크 기둥으로 지어진 란나 양식 전통 가옥입니다."
+        },
+        {
+          "name": "채손 국립공원 온천",
+          "description": "정글 속 천연 온천으로 현지인들의 힐링 명소입니다."
+        },
+        {
+          "name": "딸랏가오 헤리티지 지구",
+          "description": "식민지 시대 건축물과 카페가 있는 역사적 구시가지입니다."
+        }
+      ],
+      "authentic_experiences": [],
+      "foodie_adventures": [],
+      "overview": "람빵은 태국 북부에서 가장 정통하면서도 저평가된 여행지로, 태국에서 유일하게 마차가 거리를 달리는 도시입니다. 웅장한 란나 사원, 코끼리 보호 센터, 전통 도자기 공방이 주요 볼거리입니다.",
+      "thingsToDo": "람빵의 명소는 풍부한 문화유산과 자연의 아름다움을 보여줍니다. 왓 프라탓 람빵 루앙에서 란나 건축을 감상하고, 마차 투어로 도시를 둘러보세요. 태국 코끼리 보호 센터에서 윤리적 코끼리 체험을 하고, 도자기 공방에서 까이 람빵을 만들어 보세요.",
+      "whereToStay": "람빵은 모든 가격대의 숙소를 제공하며, 대부분 시내 중심에 밀집해 있습니다. 왕강 주변의 부티크 호텔이 분위기 있고, 기차역 근처에는 예산 숙소가 있습니다.",
+      "gettingAround": "람빵은 컴팩트한 도시로 이동이 간편합니다. 송태우(합승 미니버스), 마차, 오토바이 대여가 주요 교통수단입니다. 시내 중심은 도보로 충분히 탐험할 수 있습니다.",
+      "bestTimeToVisit": "람빵의 최적 방문 시기는 11월부터 2월까지로, 서늘하고 건조한 날씨가 이어집니다. 3월부터 4월은 연무(haze) 시즌으로 공기질이 좋지 않을 수 있습니다.",
+      "safetyTips": "람빵은 매우 안전한 도시로, 관광객에 대한 범죄가 거의 없습니다. 코끼리 보호 센터 방문 시 안전 지침을 따르고, 3-4월의 연무 시즌에는 마스크를 준비하세요.",
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
