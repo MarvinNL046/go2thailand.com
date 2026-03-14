@@ -6,7 +6,8 @@
     "nl": "Mee Hokkien",
     "thai": "หมี่ฮกเกี้ยน",
     "ko": "미 호끼엔",
-    "th": "หมี่ฮกเกี้ยน"
+    "th": "หมี่ฮกเกี้ยน",
+    "ja": "ミー・ホッキエン（タイ南部風シーフード炒め麺）"
   },
   "category": "main-dish",
   "region": "southern",
@@ -39,13 +40,15 @@
       "en": "Mee Hokkien Recipe | Authentic Thai main dish",
       "nl": "Mee Hokkien Recept | Authentieke Thaise main dish",
       "ko": "미 호끼엔 레시피 | 정통 푸켓 호끼엔 볶음면",
-      "th": "สูตรหมี่ฮกเกี้ยน | อาหารจานหลักไทยแท้"
+      "th": "สูตรหมี่ฮกเกี้ยน | อาหารจานหลักไทยแท้",
+      "ja": "ミー・ホッキエン レシピ | 本格的なタイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Mee Hokkien (หมี่ฮกเกี้ยน) - Stir-fried Hokkien noodles with seafood Phuket style...",
       "nl": "Leer over Mee Hokkien (หมี่ฮกเกี้ยน) - Gebakken Hokkien-noedels met zeevruchten Phuket stijl...",
       "ko": "미 호끼엔(หมี่ฮกเกี้ยน) - 새우, 오징어, 돼지고기를 넣은 푸켓 스타일 호끼엔 볶음면. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับหมี่ฮกเกี้ยน — หมี่ฮกเกี้ยนภูเก็ต บะหมี่เหลืองผัดกับอาหารทะเลในน้ำซุปเข้มข้น สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับหมี่ฮกเกี้ยน — หมี่ฮกเกี้ยนภูเก็ต บะหมี่เหลืองผัดกับอาหารทะเลในน้ำซุปเข้มข้น สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "ミー・ホッキエン（หมี่ฮกเกี้ยน）について学ぶ - Phuket風のシーフードを使った福建麺の炒め物です。本格的な南タイ料理の風味と香辛料、海鮮、ココナッツベースのカレーの組み合わせを味わえます。"
     }
   },
   "tags": [
@@ -870,6 +873,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Mee Hokkien は、タイ南部の愛されるボリューム満点の主菜で、穏やかな温かさを持ちます。Phuket風のシーフード炒め福建麺。この中程度のレシピは準備に約20分で、南タイ料理の本格的な風味を表現します。強い香辛料、海鮮、ココナッツベースのカレーが特徴です。黄麺、エビ、イカの組み合わせは調和のとれた風味の融合を生み、地元の人々と訪問者の双方に長く愛されています。手頃な価格で本物のタイ料理を求める人に最適。",
+      "detailed_ingredients": [
+        {
+          "name": "Yellow noodles",
+          "purpose": "本格的な Mee Hokkien の風味を作り出すために不可欠",
+          "substitutes": [
+            "生黄麺",
+            "乾燥黄麺",
+            "黄麺ペースト"
+          ]
+        },
+        {
+          "name": "Shrimp",
+          "purpose": "本格的な Mee Hokkien の風味を作り出すために不可欠",
+          "substitutes": [
+            "生エビ",
+            "乾燥エビ",
+            "エビペースト"
+          ]
+        },
+        {
+          "name": "Squid",
+          "purpose": "本格的な Mee Hokkien の風味を作り出すために不可欠",
+          "substitutes": [
+            "生イカ",
+            "干しイカ",
+            "イカペースト"
+          ]
+        },
+        {
+          "name": "Pork",
+          "purpose": "本格的な Mee Hokkien の風味を作り出すために不可欠",
+          "substitutes": [
+            "生豚肉",
+            "干し豚肉",
+            "豚ペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒めるまたは焼く",
+        "steps_overview": "Mee Hokkien の準備には細部への注意と適切なタイミングが必要です。鍵はすべての風味のバランスを取りつつ各材料の食感を保つことです。世代を超えて伝わる伝統的な方法が本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果を得るには生黄麺を使用する",
+          "辛さはお好みに合わせて調整する",
+          "食感を保つために過度に加熱しない",
+          "提供前に味を確かめて調味する"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Mee Hokkien は、タイ南部の伝統的な料理文化の長い歴史の中で育まれてきました。地域特有の調理法と地元の食材を反映しています。",
+        "cultural_importance": "この料理は、タイ料理の中心的な調和とバランスを世界に示す、南タイ料理の心臓部を象徴します。",
+        "traditional_occasions": [
+          "家族の集い",
+          "地域の祭り",
+          "屋台市場",
+          "特別な祝い事"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Mee Hokkien Classic",
+          "description": "地元の家庭で提供される伝統的な版"
+        },
+        {
+          "name": "Mee Hokkien Modern",
+          "description": "高級食材を使った現代的アレンジ"
+        },
+        {
+          "name": "Vegetarian Mee Hokkien",
+          "description": "豆腐やキノコを使った植物ベースの版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ風盛り付けで皿に盛り付ける",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "地元の南タイ料理レストラン",
+          "本格的な屋台",
+          "伝統的な市場",
+          "家族経営の飲食店"
+        ],
+        "street_food_areas": [
+          "ナイトマーケット",
+          "朝の新鮮市場",
+          "ローカル・フードコート"
         ],
         "price_ranges": {
           "street_vendor": "50-80 THB",

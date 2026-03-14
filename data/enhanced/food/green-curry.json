@@ -6,7 +6,8 @@
     "nl": "Groene Curry",
     "thai": "แกงเขียวหวาน",
     "ko": "그린 커리",
-    "th": "แกงเขียวหวาน"
+    "th": "แกงเขียวหวาน",
+    "ja": "グリーンカレー（Gaeng Keow Wan）"
   },
   "category": "curry",
   "region": "central",
@@ -38,13 +39,15 @@
       "en": "Green Curry Recipe | Authentic Thai curry",
       "nl": "Groene Curry Recept | Authentieke Thaise curry",
       "ko": "그린 커리 레시피 | 정통 태국 커리",
-      "th": "สูตรแกงเขียวหวาน | แกงไทยแท้"
+      "th": "สูตรแกงเขียวหวาน | แกงไทยแท้",
+      "ja": "グリーンカレー レシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Green Curry (แกงเขียวหวาน) - Spicy green curry with coconut milk Thai eggplant and basil...",
       "nl": "Leer over Groene Curry (แกงเขียวหวาน) - Pittige groene curry met kokosmelk Thaise aubergine en basilicum...",
       "ko": "그린 커리(แกงเขียวหวาน) - 코코넛 밀크, 태국 가지, 바질을 넣은 매콤한 태국 커리. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับแกงเขียวหวาน — แกงเขียวหวานกะทิเข้มข้น หอมเครื่องแกงสด มะเขือ โหระพา รสเผ็ดหวานกลมกล่อม สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับแกงเขียวหวาน — แกงเขียวหวานกะทิเข้มข้น หอมเครื่องแกงสด มะเขือ โหระพา รสเผ็ดหวานกลมกล่อม สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "グリーンカレー（แกงเขียวหวาน）について学ぶ。ココナツミルクとタイの茄子、バジルを使った辛味のあるグリーンカレーです…"
     }
   },
   "tags": [
@@ -853,6 +856,106 @@
           "street_food": "40-70 THB ($1.20-$2.10)",
           "restaurant": "120-250 THB ($3.60-$7.50)",
           "upscale": "350-600 THB ($10.50-$18)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Green Curry（Gaeng Keow Wan）はタイ料理のエメラルドの宝石のような存在で、ココナツミルクのクリーミーさとハーブの辛さを完璧に調和させたカレーです。赤や黄のカレーとは異なり、グリーンカレーは新鮮な青唐辛子とハーブからその色と風味を得て、明るく香り高く、実に複雑です。「甘い緑のカレー」という直訳の名前ですが、侮ってはいけません—強い辛さを秘めています。",
+      "detailed_ingredients": [
+        {
+          "name": "Green Curry Paste（グリーンカレーペースト）",
+          "purpose": "料理の魂—新鮮なハーブと唐辛子を一緒に挽いたもの",
+          "substitutes": [
+            "市販ペースト（Mae Ploy ブランド）",
+            "自作（最良の選択）"
+          ]
+        },
+        {
+          "name": "Thai Eggplant（タイ産ナス）",
+          "purpose": "食感を加え、カレーの風味を吸収させる",
+          "substitutes": [
+            "通常のナスを小さく切る",
+            "ズッキーニ",
+            "インゲン"
+          ]
+        },
+        {
+          "name": "Thai Basil（タイバジル）",
+          "purpose": "リッチなカレーを明るくする新鮮な香りの仕上げ",
+          "substitutes": [
+            "スイートバジル",
+            "ホーリーバジル",
+            "ミント（風味は異なるが代用可）"
+          ]
+        },
+        {
+          "name": "Coconut Cream（ココナツクリーム）",
+          "purpose": "コクのあるベースを作り、辛さを和らげる",
+          "substitutes": [
+            "脂肪分の多いココナツミルク",
+            "軽めのバージョンにはカシューナッツクリーム"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "ペーストの油炒めとじっくり煮込み",
+        "steps_overview": "秘訣はココナツクリームを“割る”こと。油が分離するまで温め、その油でカレーペーストを炒る。この“花開く”過程は、液体を加える前に深い風味を生み出すために重要です。",
+        "cooking_tips": [
+          "カレーペーストをとても香り高くなるまで炒めることが鍵です",
+          "ココナツミルクの濃い部分を先に使う",
+          "強く沸騰させない。穏やかな煮込みで色を保つ",
+          "野菜は煮込み時間順に加える。硬いものから先に",
+          "火を止めてからバジルを加える"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "中部タイの王宮厨房で生まれたグリーンカレーは、宮廷料理の洗練さを象徴します。乾燥スパイスではなく新鮮なハーブを使う点が、タイのハーブの豊かさを示しています。",
+        "cultural_importance": "グリーンカレーは調理人の技術を試す料理です。辛さ、甘さ、塩味のバランスを取りつつ、鮮やかな緑色を保つこと。レッドカレーよりも上品とされ、重要なディナーでよく出されます。",
+        "traditional_occasions": [
+          "仏教の祭り",
+          "王室式典",
+          "結婚披露宴",
+          "名誉ある客人を迎える場"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Keow Wan Gai",
+          "description": "タイのナス入りの定番チキンバージョン"
+        },
+        {
+          "name": "Gaeng Keow Wan Luk Chin Pla",
+          "description": "魚団子入りのバージョン—屋台の人気バリエーション"
+        },
+        {
+          "name": "Vegetarian Green Curry",
+          "description": "豆腐と野菜のミックス入り、魚醤不使用"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜"
+        ],
+        "presentation": "タイの伝統的なスタイルで熱い状態で提供されます",
+        "eating_etiquette": "フォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Krua Apsorn (Bangkok) - ロイヤルタイ料理店",
+          "The Local (Bangkok) - 伝統的なレシピ",
+          "Any Muslim-Thai restaurant for unique versions - ユニークなバージョンを提供するムスリム-タイ料理店"
+        ],
+        "street_food_areas": [
+          "Or Tor Kor Market food court - オー・トー・コー市場のフードコート",
+          "Saphan Phut night market - サファン・プット夜市",
+          "University canteens for cheap authentic versions - 大学の学食で安価で本格的なバージョン"
+        ],
+        "price_ranges": {
+          "street_food": "40-70 THB (約$1.20-$2.10)",
+          "restaurant": "120-250 THB (約$3.60-$7.50)",
+          "upscale": "350-600 THB（約$10.50-$18）"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

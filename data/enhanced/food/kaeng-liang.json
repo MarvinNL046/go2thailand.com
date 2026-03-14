@@ -6,7 +6,8 @@
     "nl": "Kaeng Liang",
     "thai": "แกงเลียง",
     "ko": "깽리앙",
-    "th": "แกงเลียง"
+    "th": "แกงเลียง",
+    "ja": "ゲーン・リャン"
   },
   "category": "soup",
   "region": "northern",
@@ -37,13 +38,15 @@
       "en": "Kaeng Liang Recipe | Authentic Thai soup",
       "nl": "Kaeng Liang Recept | Authentieke Thaise soup",
       "ko": "깽리앙 레시피 | 정통 태국 채소 수프",
-      "th": "สูตรแกงเลียง | ซุปไทยแท้"
+      "th": "สูตรแกงเลียง | ซุปไทยแท้",
+      "ja": "ゲーン・リャン レシピ | 本格タイ料理のスープ"
     },
     "metaDescription": {
       "en": "Learn about Kaeng Liang (แกงเลียง) - Spicy vegetable soup with shrimp...",
       "nl": "Leer over Kaeng Liang (แกงเลียง) - Pittige groentesoep met garnalen...",
       "ko": "깽리앙(แกงเลียง) - 새우와 다양한 채소가 들어간 매콤한 태국 전통 수프. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับแกงเลียง — แกงเลียงผักรวมกับกุ้ง น้ำซุปใสรสเผ็ดร้อนจากพริกไทย หอมใบแมงลัก สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับแกงเลียง — แกงเลียงผักรวมกับกุ้ง น้ำซุปใสรสเผ็ดร้อนจากพริกไทย หอมใบแมงลัก สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "ゲーンレーン（แกงเลียง）について。エビ入りの辛味野菜スープ。北タイ地方の家庭で楽しまれている伝統的な味を紹介します。"
     }
   },
   "tags": [
@@ -868,6 +871,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Kaeng Liang は北タイ地方の心を温める定番スープで、心地よい辛さがアクセントです。エビ入りの辛味野菜スープ。こちらの簡単なレシピは約25分程度で完成し、北タイ料理の本場の味を体現します。北部の味は穏やかな風味、もち米、ハーブが特徴です。野菜のミックス、エビ、エビペーストの組み合わせが調和した風味を作り出し、地元の人々にも観光客にも愛されています。手頃な価格で本格的なタイ料理を楽しみたい人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "Mixed vegetables",
+          "purpose": "本場の Kaeng Liang の風味には欠かせない",
+          "substitutes": [
+            "新鮮なミックス野菜",
+            "乾燥ミックス野菜",
+            "野菜ミックスペースト"
+          ]
+        },
+        {
+          "name": "Shrimp",
+          "purpose": "本場の Kaeng Liang の風味には欠かせない",
+          "substitutes": [
+            "生のエビ",
+            "干しエビ",
+            "エビペースト"
+          ]
+        },
+        {
+          "name": "Shrimp paste",
+          "purpose": "本場の Kaeng Liang の風味には欠かせない",
+          "substitutes": [
+            "生エビペースト",
+            "乾燥エビペースト",
+            "エビペーストそのもの"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "本場の Kaeng Liang の風味には欠かせない",
+          "substitutes": [
+            "新鮮なシャロット",
+            "乾燥シャロット",
+            "シャロットペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "煮込みと風味を重ねる技法",
+        "steps_overview": "Kaeng Liang の準備には細部への注意と適切なタイミングが必要です。ポイントはすべての風味のバランスを取りつつ、各材料の食感を保つことです。世代を超えて受け継がれる伝統的な方法が、本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果のためには新鮮なミックス野菜を使う",
+          "好みに合わせて辛さを調整する",
+          "食感を保つために煮込みすぎない",
+          "提供前に味を確認し、調味を整える"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kaeng Liang は北タイ料理の長い歴史の中で欠かせない一品で、地域特有の料理伝統と地元の材料を反映しています。",
+        "cultural_importance": "この料理は北タイ料理の中心を象徴し、タイ料理が世界中で称賛されている“調和とバランス”を体現しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地元の祭り",
+          "屋台市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kaeng Liang Classic",
+          "description": "地域の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Kaeng Liang Modern",
+          "description": "上質な食材を使った現代風のアレンジ"
+        },
+        {
+          "name": "Vegetarian Kaeng Liang",
+          "description": "豆腐やキノコを使った植物性バージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ風の器に盛って供する",
+        "eating_etiquette": "タイの慣習に従い、フォークとスプーンでいただきます"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "地元の北部タイ料理店",
+          "本格的な屋台",
+          "伝統的な市場",
+          "家族経営の飲食店"
+        ],
+        "street_food_areas": [
+          "夜市",
+          "朝市",
+          "地元のフードコート"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

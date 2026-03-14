@@ -6,7 +6,8 @@
     "nl": "Pad Thai",
     "thai": "ผัดไทย",
     "ko": "팟타이",
-    "th": "ผัดไทย"
+    "th": "ผัดไทย",
+    "ja": "パッタイ"
   },
   "category": "main-dish",
   "region": "central",
@@ -41,13 +42,15 @@
       "en": "Pad Thai Recipe | Authentic Thai main dish",
       "nl": "Pad Thai Recept | Authentieke Thaise main dish",
       "ko": "팟타이 레시피 | 정통 태국 볶음 쌀국수",
-      "th": "สูตรผัดไทย | อาหารจานหลักไทยแท้"
+      "th": "สูตรผัดไทย | อาหารจานหลักไทยแท้",
+      "ja": "パッタイのレシピ | 本格タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Pad Thai (ผัดไทย) - Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce...",
       "nl": "Leer over Pad Thai (ผัดไทย) - Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus...",
       "ko": "팟타이(ผัดไทย) - 타마린드 소스, 두부, 새우, 땅콩을 넣은 태국 대표 볶음 쌀국수. CNN 세계 최고 음식 선정. 레시피, 유래, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับผัดไทย — ผัดไทย เส้นจันท์ผัดกับเต้าหู้หรือกุ้ง ถั่วงอก ซอสมะขาม รสเปรี้ยวหวานเค็ม สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับผัดไทย — ผัดไทย เส้นจันท์ผัดกับเต้าหู้หรือกุ้ง ถั่วงอก ซอสมะขาม รสเปรี้ยวหวานเค็ม สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "パッタイ（ผัดไทย）について学ぶ。豆腐またはエビ、もやしと米麺を炒め、タマリンドソースで仕上げる、タイを代表する料理です。"
     }
   },
   "tags": [
@@ -870,6 +873,107 @@
           "street_food": "40-60 THB ($1.20-$1.80)",
           "restaurant": "100-200 THB ($3-$6)",
           "upscale": "250-500 THB ($7.50-$15)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "パッタイはタイを代表する最も象徴的な料理で、甘味・酸味・塩味の完璧なハーモニーが、滑らかな米麺に包み込まれています。1930年代の国家建設キャンペーンの中で生まれたこの炒め麺料理は、タイ料理の世界的なアンバサダーとなりました。秘密はタマリンドを基調としたソースと、中華鍋の高温調理ならではの wok hei（中華鍋の息吹）にあります。",
+      "detailed_ingredients": [
+        {
+          "name": "Rice Noodles (Sen Lek)",
+          "purpose": "味のベースとなる平たい米麺。すべての風味を吸収するベースの役割。",
+          "substitutes": [
+            "生米麺",
+            "Linguine（緊急時）",
+            "低糖質向けのズッキーニヌードル"
+          ]
+        },
+        {
+          "name": "Tamarind Paste",
+          "purpose": " authentic Pad Thai の決定的な酸味と甘味を生み出すタマリンドペースト",
+          "substitutes": [
+            "ライム果汁と黒糖",
+            "米酢とデーツシロップ"
+          ]
+        },
+        {
+          "name": "Palm Sugar",
+          "purpose": "タマリンドの酸味と相殺するキャラメルの甘味を加える",
+          "substitutes": [
+            "黒糖",
+            "ココナッツシュガー",
+            "モラセス入りの白砂糖"
+          ]
+        },
+        {
+          "name": "Dried Shrimp",
+          "purpose": "旨味の深みと本格的な風味を加える",
+          "substitutes": [
+            "魚醤を多めに加える",
+            "アンチョビペースト",
+            "味噌ペースト（ベジタリアン向け）"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "中華鍋を使った炒め技法と適切な順序",
+        "steps_overview": "パッタイはタイミングと技術がすべてです。各材料は鍋に投入するタイミングを正確に合わせ、麺は柔らかすぎず、卵はリボン状に絡ませ、全てを十分な力で素早く混ぜて材料を合わせつつ、麺を壊さないように優しく扱います。",
+        "cooking_tips": [
+          "麺は室温の水に浸しておく。熱すぎる水は避け、崩れを防ぐ。",
+          "鍋の中の材料を常に動かす。",
+          "材料を鍋の縁に押しつけ、炒めゾーンを作る。",
+          "ソースは麺の上で軽くキャラメライズさせる。",
+          "最後にモヤシを加えてシャキリとした食感を出す。"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "1930年代、Plaek Phibunsongkhram（プラーク・ピブンスンソンクルーム）首相の国家建設キャンペーンの一環として生まれました。彼はタイを一体化させ、第二次世界大戦中の米の消費を抑える国民食を作ろうとしました。名前の意味は文字通り「タイ風の炒め物」です。",
+        "cultural_importance": "パッタイはタイ料理外交の象徴。外国人が最初に口にするタイ料理としてよく選ばれ、世界的にタイ料理の代名詞となっています。タイ国内では、料理人の技量はパッタイの完成度で評価されることが多いです。",
+        "traditional_occasions": [
+          "屋台の定番",
+          "深夜のおつまみ/夜食",
+          "お祭りの料理",
+          "観光客向けタイ料理入門の一つ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Thai Goong Sod",
+          "description": "生エビを使った版。伝統的な最も豪華なバリエーション"
+        },
+        {
+          "name": "Pad Thai Woonsen",
+          "description": "米麺の代わりに春雨を使ったバージョン"
+        },
+        {
+          "name": "Pad Thai Ho Kai",
+          "description": "薄焼き卵で包んだスタイル。レストラン風の盛り付け"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜"
+        ],
+        "presentation": "熱いうちに伝統的なタイ式の盛り付けで提供",
+        "eating_etiquette": "フォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) - 伝説の『Pad Thai King』",
+          "Pad Thai Fai Ta Lu (Bangkok) - wok hei で有名",
+          "Baan Phadthai (Bangkok) - 洗練された解釈"
+        ],
+        "street_food_areas": [
+          "Chinatown Bangkok - Wat Traimit の近くの露店を試してみてください",
+          "Khao San Road - 観光客向けのバージョン",
+          "Or Tor Kor Market - 高品質な材料"
+        ],
+        "price_ranges": {
+          "street_food": "40-60 THB（$1.20-$1.80）",
+          "restaurant": "100-200 THB（$3-$6）",
+          "upscale": "250-500 THB（$7.50-$15）"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

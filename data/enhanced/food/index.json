@@ -7,7 +7,12 @@
       "nl": "Pad Krapow",
       "thai": "ผัดกะเพรา",
       "ko": "팟끄라파오",
-      "th": "ผัดกะเพรา"
+      "th": "ผัดกะเพรา",
+      "zh": "泰式罗勒炒肉末",
+      "de": "Pad Kra Pao – Basilikum-Hackfleischpfanne",
+      "fr": "Basilic thaï au porc haché",
+      "ru": "Пад Крапао",
+      "ja": "ガパオライス"
     },
     "category": "main-dish",
     "region": "central",
@@ -30,7 +35,12 @@
       "nl": "Som Tam",
       "thai": "ส้มตำ",
       "ko": "솜땀",
-      "th": "ส้มตำ"
+      "th": "ส้มตำ",
+      "zh": "泰式青木瓜沙拉",
+      "de": "Papayasalat",
+      "fr": "Salade de papaye verte (Som Tam)",
+      "ru": "Сом Там",
+      "ja": "ソムタム"
     },
     "category": "salad",
     "region": "northeastern",
@@ -53,7 +63,12 @@
       "nl": "Tom Yum Goong",
       "thai": "ต้มยำกุ้ง",
       "ko": "똠얌꿍",
-      "th": "ต้มยำกุ้ง"
+      "th": "ต้มยำกุ้ง",
+      "zh": "冬阴功汤",
+      "de": "Tom Yum Gung – scharf-säuerliche Garnelensuppe",
+      "fr": "Soupe Tom Yum aux crevettes",
+      "ru": "Том Ям Гуанг",
+      "ja": "トムヤムクン"
     },
     "category": "soup",
     "region": "central",
@@ -76,7 +91,12 @@
       "nl": "Pad Thai",
       "thai": "ผัดไทย",
       "ko": "팟타이",
-      "th": "ผัดไทย"
+      "th": "ผัดไทย",
+      "zh": "泰式炒米粉",
+      "de": "Pad Thai – Gebratene Reisnudeln",
+      "fr": "Pad Thaï",
+      "ru": "Пад Тай",
+      "ja": "パッタイ"
     },
     "category": "main-dish",
     "region": "central",
@@ -99,7 +119,12 @@
       "nl": "Groene Curry",
       "thai": "แกงเขียวหวาน",
       "ko": "그린 커리",
-      "th": "แกงเขียวหวาน"
+      "th": "แกงเขียวหวาน",
+      "zh": "泰式绿咖喱",
+      "de": "Grünes Curry",
+      "fr": "Curry vert thaï",
+      "ru": "Зеленое карри",
+      "ja": "グリーンカレー"
     },
     "category": "curry",
     "region": "central",
@@ -122,7 +147,12 @@
       "nl": "Mango Sticky Rice",
       "thai": "ข้าวเหนียวมะม่วง",
       "ko": "카오니아오 마무앙",
-      "th": "ข้าวเหนียวมะม่วง"
+      "th": "ข้าวเหนียวมะม่วง",
+      "zh": "芒果糯米饭",
+      "de": "Mango-Klebreis",
+      "fr": "Riz gluant à la mangue",
+      "ru": "Манго с клейким рисом",
+      "ja": "マンゴースティッキーライス"
     },
     "category": "dessert",
     "region": "central",
@@ -145,7 +175,12 @@
       "nl": "Massaman Curry",
       "thai": "แกงมัสมั่น",
       "ko": "마사만 커리",
-      "th": "แกงมัสมั่น"
+      "th": "แกงมัสมั่น",
+      "zh": "马沙曼咖喱",
+      "de": "Massaman-Curry",
+      "fr": "Curry massaman",
+      "ru": "Масаман карри",
+      "ja": "マサマンカレー"
     },
     "category": "curry",
     "region": "southern",
@@ -168,7 +203,12 @@
       "nl": "Larb",
       "thai": "ลาบ",
       "ko": "랍",
-      "th": "ลาบ"
+      "th": "ลาบ",
+      "zh": "泰式香辣碎肉拌沙拉",
+      "de": "Larb – Thailändischer Hackfleischsalat",
+      "fr": "Laab épicé (salade de viande hachée)",
+      "ru": "Ларб",
+      "ja": "ラープ"
     },
     "category": "salad",
     "region": "northeastern",
@@ -191,7 +231,12 @@
       "nl": "Pad See Ew",
       "thai": "ผัดซีอิ๊ว",
       "ko": "팟씨유",
-      "th": "ผัดซีอิ๊ว"
+      "th": "ผัดซีอิ๊ว",
+      "zh": "泰式炒宽米粉",
+      "de": "Pad See Ew – Gebratene Reisbandnudeln",
+      "fr": "Nouilles plates sautées à la sauce soja",
+      "ru": "Пад Си Еу",
+      "ja": "パットシーウー"
     },
     "category": "main-dish",
     "region": "central",
@@ -214,7 +259,12 @@
       "nl": "Thaise Gebakken Rijst",
       "thai": "ข้าวผัด",
       "ko": "카오팟",
-      "th": "ข้าวผัด"
+      "th": "ข้าวผัด",
+      "zh": "泰式炒饭",
+      "de": "Thai gebratener Reis",
+      "fr": "Riz frit thaïlandais",
+      "ru": "Тайский жареный рис",
+      "ja": "タイ風チャーハン"
     },
     "category": "main-dish",
     "region": "central",
@@ -237,7 +287,12 @@
       "nl": "Khao Man Gai",
       "thai": "ข้าวมันไก่",
       "ko": "카오만가이",
-      "th": "ข้าวมันไก่"
+      "th": "ข้าวมันไก่",
+      "zh": "泰式海南鸡饭",
+      "de": "Khao Man Gai – Hähnchen mit Reis (Hainan-Stil)",
+      "fr": "Poulet bouilli sur riz parfumé",
+      "ru": "Кхао Ман Гай",
+      "ja": "カオマンガイ"
     },
     "category": "main-dish",
     "region": "central",
@@ -260,7 +315,12 @@
       "nl": "Boot Noedels",
       "thai": "ก๋วยเตี๋ยวเรือ",
       "ko": "보트 누들",
-      "th": "ก๋วยเตี๋ยวเรือ"
+      "th": "ก๋วยเตี๋ยวเรือ",
+      "zh": "船面",
+      "de": "Boot-Nudeln – Nudelsuppe",
+      "fr": "Soupe de nouilles de bateau",
+      "ru": "Лодочная лапша",
+      "ja": "ボートヌードル"
     },
     "category": "soup",
     "region": "central",
@@ -283,7 +343,12 @@
       "nl": "Khao Soi",
       "thai": "ข้าวซอย",
       "ko": "카오소이",
-      "th": "ข้าวซอย"
+      "th": "ข้าวซอย",
+      "zh": "清迈咖喱面",
+      "de": "Khao Soi – Nordthailändische Curry-Nudelsuppe",
+      "fr": "Soupe de nouilles au curry du nord",
+      "ru": "Кхао Сой",
+      "ja": "カオソイ"
     },
     "category": "soup",
     "region": "northern",
@@ -306,7 +371,12 @@
       "nl": "Sai Ua",
       "thai": "ไส้อั่ว",
       "ko": "사이우아",
-      "th": "ไส้อั่ว"
+      "th": "ไส้อั่ว",
+      "zh": "泰北香肠",
+      "de": "Sai Ua – Chiang-Mai-Wurst",
+      "fr": "Saucisse thaïe Sai Ua",
+      "ru": "Саи Уа",
+      "ja": "サイウア"
     },
     "category": "main-dish",
     "region": "northern",
@@ -329,7 +399,12 @@
       "nl": "Nam Prik Ong",
       "thai": "น้ำพริกอ่อง",
       "ko": "남프릭옹",
-      "th": "น้ำพริกอ่อง"
+      "th": "น้ำพริกอ่อง",
+      "zh": "番茄辣椒酱拌肉末",
+      "de": "Nam Prik Ong – Tomaten-Chili-Dip",
+      "fr": "Nam Prik Ong — purée épicée de porc et tomate",
+      "ru": "Нам Прик Онг",
+      "ja": "ナムプリックオーン"
     },
     "category": "main-dish",
     "region": "northern",
@@ -352,7 +427,12 @@
       "nl": "Gaeng Hang Lay",
       "thai": "แกงฮังเล",
       "ko": "깽항레",
-      "th": "แกงฮังเล"
+      "th": "แกงฮังเล",
+      "zh": "泰北风味猪肉咖喱",
+      "de": "Gaeng Hang Lay – Thai-Schweinecurry",
+      "fr": "Curry Hang Lay",
+      "ru": "Ганг Ханг Лай",
+      "ja": "ゲーン・ハーン・レイ"
     },
     "category": "curry",
     "region": "northern",
@@ -375,7 +455,12 @@
       "nl": "Mee Hokkien",
       "thai": "หมี่ฮกเกี้ยน",
       "ko": "미 호끼엔",
-      "th": "หมี่ฮกเกี้ยน"
+      "th": "หมี่ฮกเกี้ยน",
+      "zh": "福建炒麵",
+      "de": "Mee Hokkien – Gebratene Nudeln nach Hokkien-Art",
+      "fr": "Nouilles Hokkien",
+      "ru": "Ми Хоккьен",
+      "ja": "ミー・ホッキェン"
     },
     "category": "main-dish",
     "region": "southern",
@@ -398,7 +483,12 @@
       "nl": "Oh Aew",
       "thai": "โอ้เอ๋ว",
       "ko": "오에우",
-      "th": "โอ้เอ๋ว"
+      "th": "โอ้เอ๋ว",
+      "zh": "玫瑰苹果",
+      "de": "Oh Aew – Thailändisches Dessert (Gelee)",
+      "fr": "Oh Aew",
+      "ru": "О Аев",
+      "ja": "オーアー"
     },
     "category": "dessert",
     "region": "southern",
@@ -421,7 +511,12 @@
       "nl": "Nam Prik Goong Siap",
       "thai": "น้ำพริกกุ้งเสียบ",
       "ko": "남프릭꿍시압",
-      "th": "น้ำพริกกุ้งเสียบ"
+      "th": "น้ำพริกกุ้งเสียบ",
+      "zh": "虾干辣椒蘸酱",
+      "de": "Nam Prik Goong Siap – Chili-Paste mit Garnelenpaste",
+      "fr": "Dip épicé thaï aux crevettes sèches",
+      "ru": "Нам Прик Гонг Сиап",
+      "ja": "ナムプリック・クン・サップ"
     },
     "category": "main-dish",
     "region": "southern",
@@ -444,7 +539,12 @@
       "nl": "Moo Hong",
       "thai": "หมูฮ้อง",
       "ko": "무홍",
-      "th": "หมูฮ้อง"
+      "th": "หมูฮ้อง",
+      "zh": "泰式红烧猪肉",
+      "de": "Moo Hong – Geschmortes Schweinefleisch",
+      "fr": "Porc braisé Moo Hong",
+      "ru": "Муу Хонг",
+      "ja": "ムーホン"
     },
     "category": "main-dish",
     "region": "southern",
@@ -467,7 +567,12 @@
       "nl": "Kanom Jeen Nam Ya",
       "thai": "ขนมจีนน้ำยา",
       "ko": "카놈찐남야",
-      "th": "ขนมจีนน้ำยา"
+      "th": "ขนมจีนน้ำยา",
+      "zh": "米粉配鱼咖喱酱",
+      "de": "Kanom Jeen Nam Ya – Reisnudeln mit Fischcurry",
+      "fr": "Kanom Jeen Nam Ya — nouilles de riz fermentées avec sauce Nam Ya (poisson épicé)",
+      "ru": "Каном Джин Нам Я",
+      "ja": "カノムジェーン・ナムヤ"
     },
     "category": "main-dish",
     "region": "southern",
@@ -490,7 +595,12 @@
       "nl": "Hoy Tod",
       "thai": "หอยทอด",
       "ko": "호이똣",
-      "th": "หอยทอด"
+      "th": "หอยทอด",
+      "zh": "蚝煎",
+      "de": "Hoy Tod – Frittierte Miesmuscheln",
+      "fr": "Omelette croustillante aux huîtres",
+      "ru": "Хой Тод",
+      "ja": "ホイトード"
     },
     "category": "main-dish",
     "region": "central",
@@ -513,7 +623,12 @@
       "nl": "Pla Pao",
       "thai": "ปลาเผา",
       "ko": "쁠라파오",
-      "th": "ปลาเผา"
+      "th": "ปลาเผา",
+      "zh": "蕉叶烤鱼",
+      "de": "Pla Pao – Gegrillter Fisch im Bananenblatt",
+      "fr": "Poisson grillé en feuilles de bananier",
+      "ru": "Пла Пао",
+      "ja": "プラパオ"
     },
     "category": "main-dish",
     "region": "central",
@@ -536,7 +651,12 @@
       "nl": "Yam Woon Sen",
       "thai": "ยำวุ้นเส้น",
       "ko": "얌운센",
-      "th": "ยำวุ้นเส้น"
+      "th": "ยำวุ้นเส้น",
+      "zh": "酸辣粉丝虾沙拉",
+      "de": "Yam Woon Sen – Glasnudelsalat",
+      "fr": "Salade de vermicelles de verre au porc et fruits de mer",
+      "ru": "Ям Вон Сен",
+      "ja": "ヤムウンセン"
     },
     "category": "salad",
     "region": "central",
@@ -559,7 +679,12 @@
       "nl": "Khao Pad Sapparot",
       "thai": "ข้าวผัดสับปะรด",
       "ko": "카오팟 싸빠롯",
-      "th": "ข้าวผัดสับปะรด"
+      "th": "ข้าวผัดสับปะรด",
+      "zh": "菠萝炒饭",
+      "de": "Khao Pad Sapparot – Ananas-Reis",
+      "fr": "Riz frit à l'ananas",
+      "ru": "Жареный рис с ананасом",
+      "ja": "カオパット・サパロット"
     },
     "category": "main-dish",
     "region": "central",
@@ -582,7 +707,12 @@
       "nl": "Roti Sai Mai",
       "thai": "โรตีสายไหม",
       "ko": "로띠 사이마이",
-      "th": "โรตีสายไหม"
+      "th": "โรตีสายไหม",
+      "zh": "印度煎饼配糖丝",
+      "de": "Roti Sai Mai – Fladenbrot mit Zuckerwatte",
+      "fr": "Roti thaïlandais à la barbe à papa",
+      "ru": "Роти с сахарной ниткой",
+      "ja": "ロティ・サイマイ"
     },
     "category": "dessert",
     "region": "central",
@@ -605,7 +735,12 @@
       "nl": "Tom Yum Noedels",
       "thai": "ก๋วยเตี๋ยวต้มยำ",
       "ko": "똠얌 누들",
-      "th": "ก๋วยเตี๋ยวต้มยำ"
+      "th": "ก๋วยเตี๋ยวต้มยำ",
+      "zh": "冬阴功汤面",
+      "de": "Tom Yum Nudeln – Nudeln in Tom-Yum-Suppe",
+      "fr": "Nouilles Tom Yum",
+      "ru": "Лапша Том Ям",
+      "ja": "トムヤムヌードル"
     },
     "category": "soup",
     "region": "central",
@@ -628,7 +763,12 @@
       "nl": "Khao Mok Gai",
       "thai": "ข้าวหมกไก่",
       "ko": "카오목가이",
-      "th": "ข้าวหมกไก่"
+      "th": "ข้าวหมกไก่",
+      "zh": "泰式鸡肉香饭",
+      "de": "Khao Mok Gai – Hühnchen-Reis (Biryani-ähnlich)",
+      "fr": "Poulet biryani thaïlandais",
+      "ru": "Кхао Мок Гай",
+      "ja": "カオモックガイ"
     },
     "category": "main-dish",
     "region": "southern",
@@ -651,7 +791,12 @@
       "nl": "Goong Pad Makham",
       "thai": "กุ้งผัดมะขาม",
       "ko": "꿍팟마캄",
-      "th": "กุ้งผัดมะขาม"
+      "th": "กุ้งผัดมะขาม",
+      "zh": "虾仁酸角炒",
+      "de": "Goong Pad Makham – Garnelen in Tamarinde-Soße",
+      "fr": "Crevettes sautées au tamarin",
+      "ru": "Креветки, жареные в тамариндовом соусе",
+      "ja": "ゴーン・パッド・マックム"
     },
     "category": "main-dish",
     "region": "southern",
@@ -674,7 +819,12 @@
       "nl": "Tom Som Pla",
       "thai": "ต้มส้มปลา",
       "ko": "똠솜쁠라",
-      "th": "ต้มส้มปลา"
+      "th": "ต้มส้มปลา",
+      "zh": "酸辣鱼汤",
+      "de": "Tom Som Pla – Saure Fischsuppe",
+      "fr": "Soupe Tom Som au poisson",
+      "ru": "Том Сом Пла",
+      "ja": "トムソム・プラー"
     },
     "category": "soup",
     "region": "southern",
@@ -697,7 +847,12 @@
       "nl": "Gai Tod Hat Yai",
       "thai": "ไก่ทอดหาดใหญ่",
       "ko": "가이똣 핫야이",
-      "th": "ไก่ทอดหาดใหญ่"
+      "th": "ไก่ทอดหาดใหญ่",
+      "zh": "合艾式炸鸡",
+      "de": "Gai Tod Hat Yai – Gebratenes Hähnchen (Stil Hat Yai)",
+      "fr": "Poulet frit de Hat Yai",
+      "ru": "Кай Тод Хат Яй",
+      "ja": "ガイ・トード・ハットヤイ"
     },
     "category": "main-dish",
     "region": "southern",
@@ -720,7 +875,12 @@
       "nl": "Khao Yam",
       "thai": "ข้าวยำ",
       "ko": "카오얌",
-      "th": "ข้าวยำ"
+      "th": "ข้าวยำ",
+      "zh": "香草拌饭",
+      "de": "Khao Yam – Südthailändischer Reissalat",
+      "fr": "Salade de riz thaï (Khao Yam)",
+      "ru": "Кхао Ям",
+      "ja": "カオヤム"
     },
     "category": "salad",
     "region": "southern",
@@ -743,7 +903,12 @@
       "nl": "Nam Ngiao",
       "thai": "น้ำเงี้ยว",
       "ko": "남응이아오",
-      "th": "น้ำเงี้ยว"
+      "th": "น้ำเงี้ยว",
+      "zh": "南拗汤米线",
+      "de": "Nam Ngiao – Nordthailändische Nudelsuppe",
+      "fr": "Nam Ngiao — soupe de nouilles au porc du nord",
+      "ru": "Нам Нгио",
+      "ja": "ナムンギャオ"
     },
     "category": "soup",
     "region": "northern",
@@ -766,7 +931,12 @@
       "nl": "Laab Kua",
       "thai": "ลาบคั่ว",
       "ko": "랍꾸아",
-      "th": "ลาบคั่ว"
+      "th": "ลาบคั่ว",
+      "zh": "泰北香草碎肉拌",
+      "de": "Laab Kua – Hackfleischsalat",
+      "fr": "Laab Kua — salade épicée de viande",
+      "ru": "Лааб Куа",
+      "ja": "ラープ・クア"
     },
     "category": "salad",
     "region": "northern",
@@ -789,7 +959,12 @@
       "nl": "Tam Khanun",
       "thai": "ตำขนุน",
       "ko": "땀카눈",
-      "th": "ตำขนุน"
+      "th": "ตำขนุน",
+      "zh": "辣拌茄子",
+      "de": "Tam Khanun – Auberginen-Salat",
+      "fr": "Tam Khanun — salade d'aubergines épicée",
+      "ru": "Там Канун",
+      "ja": "タム・カヌン"
     },
     "category": "salad",
     "region": "northern",
@@ -812,7 +987,12 @@
       "nl": "Khao Kan Jin",
       "thai": "ข้าวกั้นจิ๊น",
       "ko": "카오깐진",
-      "th": "ข้าวกั้นจิ๊น"
+      "th": "ข้าวกั้นจิ๊น",
+      "zh": "金香米饭",
+      "de": "Khao Kan Jin – Thailändisches Gericht",
+      "fr": "Khao Kan Jin",
+      "ru": "Кхао Кан Джин",
+      "ja": "カオ・カンジン"
     },
     "category": "main-dish",
     "region": "northern",
@@ -835,7 +1015,12 @@
       "nl": "Roti Canai",
       "thai": "โรตีกะหรี่",
       "ko": "로띠 짜나이",
-      "th": "โรตีกะหรี่"
+      "th": "โรตีกะหรี่",
+      "zh": "马来薄饼",
+      "de": "Roti Canai – Fladenbrot",
+      "fr": "Roti Canai",
+      "ru": "Роти Канай",
+      "ja": "ロティ・チャナイ"
     },
     "category": "main-dish",
     "region": "southern",
@@ -858,7 +1043,12 @@
       "nl": "Bua Loy",
       "thai": "บัวลอย",
       "ko": "부아로이",
-      "th": "บัวลอย"
+      "th": "บัวลอย",
+      "zh": "椰奶汤圆",
+      "de": "Bua Loy – Klebreisbällchen in Kokosmilch",
+      "fr": "Bua Loy",
+      "ru": "Буа Лой",
+      "ja": "ブアローイ"
     },
     "category": "dessert",
     "region": "southern",
@@ -881,7 +1071,12 @@
       "nl": "Sukhothai Noedels",
       "thai": "ก๋วยเตี๋ยวสุโขทัย",
       "ko": "수코타이 누들",
-      "th": "ก๋วยเตี๋ยวสุโขทัย"
+      "th": "ก๋วยเตี๋ยวสุโขทัย",
+      "zh": "素可泰风味米线",
+      "de": "Sukhothai-Nudeln – Thai-Nudeln aus Sukhothai",
+      "fr": "Nouilles de Sukhothai",
+      "ru": "Лапша Сукхотай",
+      "ja": "スコータイヌードル"
     },
     "category": "soup",
     "region": "northern",
@@ -904,7 +1099,12 @@
       "nl": "Kaeng Liang",
       "thai": "แกงเลียง",
       "ko": "깽리앙",
-      "th": "แกงเลียง"
+      "th": "แกงเลียง",
+      "zh": "泰式香辣虾汤",
+      "de": "Kaeng Liang – Gemüsecurry (scharf)",
+      "fr": "Curry végétarien thaïlandais",
+      "ru": "Канг Лианг",
+      "ja": "ゲーン・リアン"
     },
     "category": "soup",
     "region": "northern",
@@ -927,7 +1127,12 @@
       "nl": "Moo Palo",
       "thai": "หมูพะโล้",
       "ko": "무빠로",
-      "th": "หมูพะโล้"
+      "th": "หมูพะโล้",
+      "zh": "泰式卤猪肉",
+      "de": "Moo Palo – Geschmortes Schweinefleischgericht mit Tofu",
+      "fr": "Porc braisé Moo Palo",
+      "ru": "Муу Пало",
+      "ja": "ムーポーロー"
     },
     "category": "main-dish",
     "region": "northern",
@@ -950,7 +1155,12 @@
       "nl": "Nam Prik Noom",
       "thai": "น้ำพริกหนุ่ม",
       "ko": "남프릭눔",
-      "th": "น้ำพริกหนุ่ม"
+      "th": "น้ำพริกหนุ่ม",
+      "zh": "青辣椒蘸酱",
+      "de": "Nam Prik Noom – Grüner Chili-Dip",
+      "fr": "Nam Prik Noom — purée de piments verts",
+      "ru": "Нам Прик Нум",
+      "ja": "ナムプリック・ノーム"
     },
     "category": "main-dish",
     "region": "northern",
@@ -973,7 +1183,12 @@
       "nl": "Nam Prik Kapi",
       "thai": "น้ำพริกกะปิ",
       "ko": "남프릭까삐",
-      "th": "น้ำพริกกะปิ"
+      "th": "น้ำพริกกะปิ",
+      "zh": "虾膏辣椒蘸酱",
+      "de": "Nam Prik Kapi – Chili-Dip mit Garnelenpaste",
+      "fr": "Dip épicé Nam Prik Kapi",
+      "ru": "Нам Прик Капи",
+      "ja": "ナムプリック・カピ"
     },
     "category": "main-dish",
     "region": "southern",
@@ -996,7 +1211,12 @@
       "nl": "Gaeng Tai Pla",
       "thai": "แกงไตปลา",
       "ko": "깽따이쁠라",
-      "th": "แกงไตปลา"
+      "th": "แกงไตปลา",
+      "zh": "泰式发酵鱼咖喱",
+      "de": "Gaeng Tai Pla – Würziges Curry mit fermentiertem Fisch",
+      "fr": "Curry thaï au poisson fermenté Tai Pla",
+      "ru": "Ганг Тай Пла",
+      "ja": "ゲーン・タイプラー"
     },
     "category": "curry",
     "region": "southern",
@@ -1019,7 +1239,12 @@
       "nl": "Goong Pad Sator",
       "thai": "กุ้งผัดสะตอ",
       "ko": "꿍팟사또",
-      "th": "กุ้งผัดสะตอ"
+      "th": "กุ้งผัดสะตอ",
+      "zh": "虾仁炒臭豆荚",
+      "de": "Goong Pad Sator – Garnelen mit Sator-Blättern",
+      "fr": "Crevettes sautées aux feuilles de sator",
+      "ru": "Гонг Пад Сатор",
+      "ja": "ゴーン・パット・サトー"
     },
     "category": "main-dish",
     "region": "southern",
@@ -1042,7 +1267,12 @@
       "nl": "Lod Chong",
       "thai": "ลอดช่อง",
       "ko": "롯총",
-      "th": "ลอดช่อง"
+      "th": "ลอดช่อง",
+      "zh": "香兰椰奶糖丝",
+      "de": "Lod Chong – Pandan-Nudeln in Kokosmilch",
+      "fr": "Lod Chong — nouilles de riz vertes au lait de coco",
+      "ru": "Лод Чонг",
+      "ja": "ロッドチョン"
     },
     "category": "dessert",
     "region": "southern",

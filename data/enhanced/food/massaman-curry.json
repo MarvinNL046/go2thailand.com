@@ -6,7 +6,8 @@
     "nl": "Massaman Curry",
     "thai": "แกงมัสมั่น",
     "ko": "마사만 커리",
-    "th": "แกงมัสมั่น"
+    "th": "แกงมัสมั่น",
+    "ja": "Massaman Curry（マサマンカレー）"
   },
   "category": "curry",
   "region": "southern",
@@ -38,13 +39,15 @@
       "en": "Massaman Curry Recipe | Authentic Thai curry",
       "nl": "Massaman Curry Recept | Authentieke Thaise curry",
       "ko": "마사만 커리 레시피 | 정통 태국 마사만 커리",
-      "th": "สูตรแกงมัสมั่น | แกงไทยแท้"
+      "th": "สูตรแกงมัสมั่น | แกงไทยแท้",
+      "ja": "Massaman Curry レシピ | 本格タイカレー"
     },
     "metaDescription": {
       "en": "Learn about Massaman Curry (แกงมัสมั่น) - Rich and mild curry with Persian influences containing potatoes and peanuts...",
       "nl": "Leer over Massaman Curry (แกงมัสมั่น) - Rijke en milde curry met Perzische invloeden met aardappelen en pinda's...",
       "ko": "마사만 커리(แกงมัสมั่น) - 감자와 땅콩이 들어간 페르시아 영향의 태국 커리. CNN 선정 세계 최고 음식. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับแกงมัสมั่น — แกงมัสมั่นเนื้อนุ่ม รสหวานเค็มกลมกล่อม ใส่มันฝรั่ง ถั่วลิสง อบเชย สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับแกงมัสมั่น — แกงมัสมั่นเนื้อนุ่ม รสหวานเค็มกลมกล่อม ใส่มันฝรั่ง ถั่วลิสง อบเชย สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "マッサマンカレー（แกงมัสมั่น）について知る。ポテトとピーナッツを含み、ペルシャの影響を受けた豊かな風味の、深くコクのあるマイルドなカレーです。"
     }
   },
   "tags": [
@@ -847,6 +850,105 @@
           "street_food": "80-120 THB ($2.40-$3.60) when available",
           "restaurant": "200-400 THB ($6-$12)",
           "upscale": "500-1200 THB ($15-$36)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Massaman Curryはタイで最も複雑なカレーで、タイとインド・ペルシャの風味が見事に融合した料理です。17世紀にペルシャ・インド系ムスリムの交易者を通じてタイへ伝来し、名称は『Mussulman』というイスラム教徒を指す古語に由来します。タイの宮廷料理人が地元の材料を用いて適応させました。豊かなこのカレーはカルダモンやシナモンといった温まるスパイスを、タイの食材と組み合わせ、エキゾチックでありながら心地よい一皿を作ります。CNNが世界で最もおいしい料理と名づけたことがあり、その魅力は一口で理解できます。",
+      "detailed_ingredients": [
+        {
+          "name": "Massaman Curry Paste",
+          "purpose": "タイでは珍しい材料（ナツメグなど）を含む複雑な香辛料ブレンド",
+          "substitutes": [
+            "市販品（Maesriブランド推奨）",
+            "タイ要素を含むインドのガラムマサラ"
+          ]
+        },
+        {
+          "name": "Whole Spices",
+          "purpose": "カルダモン、シナモン、スターアニスを加え、ペルシャの影響を付加する",
+          "substitutes": [
+            "粉末版（香りは劣る）",
+            "中国の五香粉"
+          ]
+        },
+        {
+          "name": "Tamarind Paste",
+          "purpose": "この料理の特徴である酸味と甘味のバランスを提供する",
+          "substitutes": [
+            "ライム汁とヤシ糖",
+            "ウスターソース"
+          ]
+        },
+        {
+          "name": "Peanuts",
+          "purpose": "食感とナッツの風味を加える",
+          "substitutes": [
+            "カシューナッツ",
+            "アーモンド",
+            "アレルギーの場合は省略"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "低温での煮込みと香辛料のトースト",
+        "steps_overview": "Massamanは忍耐を要する。硬い肉の塊が柔らかくなり、香辛料が複雑なハーモニーへと融け合う、時間をかけた煮込みカレーです。ホールスパイスを炒り、ペーストを揚げ、全てを何時間も弱火でじっくり煮込みます。",
+        "cooking_tips": [
+          "香りを引き出すために、ホールスパイスを加える前に炒る",
+          "牛の硬い部位を使うと、煮込みでとても柔らかくなる",
+          "低温でゆっくり調理すること。急ぐと台無しになる",
+          "調理中は甘味・酸味・塩味のバランスを保つ",
+          "一晩寝かせるとさらに美味しくなる"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "17世紀、ペルシャ・インド系ムスリムの交易者によってタイへ伝来。名称は『Mussulman』というイスラム教徒を指す古語に由来。タイの宮廷料理人が地元の材料を用いて適応させました。",
+        "cultural_importance": "マッサマンは、タイのアイデンティティを保ちつつ外国の影響を受け入れる姿勢を象徴します。外交的な夕食会で提供され、タイ料理の高度な技法を体現する一品です。",
+        "traditional_occasions": [
+          "タイ南部でのイドの祝宴",
+          "王室の宴",
+          "結婚式のご祝宴",
+          "重要なビジネスディナー"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Massaman Nuea",
+          "description": "牛肉版。最も伝統的で人気のあるバージョン。"
+        },
+        {
+          "name": "Massaman Gai",
+          "description": "鶏肉版 - 日常の食事に適した調理時間"
+        },
+        {
+          "name": "Massaman Lamb",
+          "description": "高級感のあるバージョン。高級店で人気。"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜"
+        ],
+        "presentation": "タイの伝統的なスタイルで温かく盛り付け",
+        "eating_etiquette": "フォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Nahm (Bangkok) - ミシュラン星付きの絶品",
+          "Blue Elephant (Bangkok) - ロイヤルタイ料理",
+          "Muslim restaurants on Charoen Krung Road"
+        ],
+        "street_food_areas": [
+          "長時間の煮込みのため、屋台で見つけることは稀です",
+          "Or Tor Kor Marketの出店の一部",
+          "バンコクのムスリム料理センター"
+        ],
+        "price_ranges": {
+          "street_food": "利用可能な場合、屋台の価格は80-120 THB（約$2.40-$3.60）",
+          "restaurant": "200-400 THB（約$6-$12）",
+          "upscale": "500-1200 THB（約$15-$36）"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

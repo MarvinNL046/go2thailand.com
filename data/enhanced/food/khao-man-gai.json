@@ -6,7 +6,8 @@
     "nl": "Khao Man Gai",
     "thai": "ข้าวมันไก่",
     "ko": "카오만가이",
-    "th": "ข้าวมันไก่"
+    "th": "ข้าวมันไก่",
+    "ja": "カオマンガイ"
   },
   "category": "main-dish",
   "region": "central",
@@ -37,13 +38,15 @@
       "en": "Khao Man Gai Recipe | Authentic Thai main dish",
       "nl": "Khao Man Gai Recept | Authentieke Thaise main dish",
       "ko": "카오만가이 레시피 | 정통 태국 치킨 라이스",
-      "th": "สูตรข้าวมันไก่ | อาหารจานหลักไทยแท้"
+      "th": "สูตรข้าวมันไก่ | อาหารจานหลักไทยแท้",
+      "ja": "カオマンガイ レシピ | 本格的なタイの主菜"
     },
     "metaDescription": {
       "en": "Learn about Khao Man Gai (ข้าวมันไก่) - Steamed chicken with rice cooked in chicken broth and ginger-chili sauce...",
       "nl": "Leer over Khao Man Gai (ข้าวมันไก่) - Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus...",
       "ko": "카오만가이(ข้าวมันไก่) - 닭 육수로 지은 밥에 부드러운 찐 닭고기와 생강 칠리 소스. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับข้าวมันไก่ — ข้าวมันไก่ ข้าวหุงน้ำซุปไก่เสิร์ฟกับไก่ต้มนุ่ม น้ำจิ้มซีอิ๊วขิงเผ็ด สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับข้าวมันไก่ — ข้าวมันไก่ ข้าวหุงน้ำซุปไก่เสิร์ฟกับไก่ต้มนุ่ม น้ำจิ้มซีอิ๊วขิงเผ็ด สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "カオマンガイ（ข้าวมันไก่）について解説。鶏のだしで炊いたご飯と蒸し鶏、しょうがと唐辛子のソースが特徴の本格タイ料理の主菜です。"
     }
   },
   "tags": [
@@ -866,6 +869,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "カオマンガイは、タイ中部の家庭的でボリューム感のある主菜として長く愛されてきた料理で、ほのかな温かみが特徴です。鶏のだしで炊いたご飯と蒸し鶏、しょうがと唐辛子のソースを合わせた一皿です。タイ中部料理の本格的な風味を表現するこのレシピは、準備に約45分を要します。甘味・酸味・塩味・辛味のバランスを完璧に取り入れ、鶏肉・米・生姜の組み合わせが調和のとれた風味を生み出します。地元の人々と訪問者の双方に長く愛されてきたこの料理は、手頃な価格で本格的なタイ料理を楽しみたい人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "Chicken",
+          "purpose": "本格的なカオマンガイの風味には欠かせない",
+          "substitutes": [
+            "新鮮な鶏肉",
+            "鶏肉の乾燥品",
+            "鶏ペースト"
+          ]
+        },
+        {
+          "name": "Rice",
+          "purpose": "本格的なカオマンガイの風味には欠かせない",
+          "substitutes": [
+            "新鮮な米",
+            "乾燥米",
+            "米ペースト"
+          ]
+        },
+        {
+          "name": "Ginger",
+          "purpose": "本格的なカオマンガイの風味には欠かせない",
+          "substitutes": [
+            "新鮮な生姜",
+            "乾燥生姜",
+            "生姜ペースト"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "本格的なカオマンガイの風味には欠かせない",
+          "substitutes": [
+            "新鮮なにんにく",
+            "乾燥にんにく",
+            "にんにくペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒めるまたは焼く",
+        "steps_overview": "カオマンガイを準備するには、細部への気配りと適切なタイミングが必要です。すべての風味のバランスを取りつつ、各材料の食感を保つことが肝要です。世代を超えて受け継がれてきた伝統的な方法は、本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果のためには新鮮な鶏肉を使うこと",
+          "辛さはお好みに合わせて調整する",
+          "食感を保つために過度に加熱しない",
+          "盛付前に味を試して調味を整える"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "カオマンガイは代々、タイ中部料理の主食として受け継がれてきた料理で、地域の独自の食文化と地元の食材を反映している。",
+        "cultural_importance": "この料理はタイ中部料理の核心を成しており、世界中でタイ料理が称賛される“バランスと調和”を体現している。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地域のお祭り",
+          "屋台市場・ストリートフード市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Man Gai Classic",
+          "description": "地元の家庭で出される伝統的なバージョン"
+        },
+        {
+          "name": "Khao Man Gai Modern",
+          "description": "高品質の材料を使った現代的なひねり"
+        },
+        {
+          "name": "Vegetarian Khao Man Gai",
+          "description": "豆腐やきのこを使った植物性バージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ風スタイルの皿盛りで提供",
+        "eating_etiquette": "タイの慣習に従いフォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local central Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

@@ -6,7 +6,8 @@
     "nl": "Hoy Tod",
     "thai": "หอยทอด",
     "ko": "호이똣",
-    "th": "หอยทอด"
+    "th": "หอยทอด",
+    "ja": "Hoy Tod（ホイ・トード）"
   },
   "category": "main-dish",
   "region": "central",
@@ -37,13 +38,15 @@
       "en": "Hoy Tod Recipe | Authentic Thai main dish",
       "nl": "Hoy Tod Recept | Authentieke Thaise main dish",
       "ko": "호이똣 레시피 | 정통 태국 해산물 팬케이크",
-      "th": "สูตรหอยทอด | อาหารจานหลักไทยแท้"
+      "th": "สูตรหอยทอด | อาหารจานหลักไทยแท้",
+      "ja": "Hoy Tod レシピ | 本格タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Hoy Tod (หอยทอด) - Crispy mussel or oyster pancake with bean sprouts...",
       "nl": "Leer over Hoy Tod (หอยทอด) - Knapperige mossel- of oesterpannenkoek met taugé...",
       "ko": "호이똣(หอยทอด) - 숙주나물을 곁들인 바삭한 홍합 또는 굴 팬케이크. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับหอยทอด — หอยทอดกรอบนอกนุ่มใน ผสมแป้งทอดกับหอยแมลงภู่หรือหอยนางรม เสิร์ฟกับถั่วงอก สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับหอยทอด — หอยทอดกรอบนอกนุ่มใน ผสมแป้งทอดกับหอยแมลงภู่หรือหอยนางรม เสิร์ฟกับถั่วงอก สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "ホイ トード（หอยทอด）について学ぶ - もやしを添えたカリカリのムール貝またはカキのパンケーキ。"
     }
   },
   "tags": [
@@ -868,6 +871,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Hoy Todは、中央タイの家庭で愛されるボリューム感のある満足感を提供する主菜で、ほどよい温かさがあります。もやしを添えたカリカリのムール貝またはカキのパンケーキです。このレシピは準備に約15分かかり、中央タイ料理の本格的な風味を、甘味・酸味・塩味・辛味のバランスが完璧に表現しています。ムール貝またはカキ、薄力粉、卵の組み合わせが調和のとれた味を生み出し、地元の人々にも訪問者にも愛されています。手頃で本格的なタイ料理を求める人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "ムール貝またはカキ",
+          "purpose": "ホイトードの本格的な風味に不可欠",
+          "substitutes": [
+            "新鮮なムール貝またはカキ",
+            "乾燥ムール貝またはカキ",
+            "ムール貝またはカキのペースト"
+          ]
+        },
+        {
+          "name": "小麦粉",
+          "purpose": "ホイトードの本格的な風味に不可欠",
+          "substitutes": [
+            "生の小麦粉",
+            "乾燥小麦粉",
+            "小麦粉ペースト"
+          ]
+        },
+        {
+          "name": "卵",
+          "purpose": "ホイトードの本格的な風味に不可欠",
+          "substitutes": [
+            "新鮮な卵",
+            "乾燥卵",
+            "卵ペースト"
+          ]
+        },
+        {
+          "name": "もやし",
+          "purpose": "ホイトードの本格的な風味に不可欠",
+          "substitutes": [
+            "新鮮なもやし",
+            "乾燥もやし",
+            "もやしペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒めるまたは焼く",
+        "steps_overview": "Hoy Todを準備するには、細部への注意と適切なタイミングが必要です。鍵は、全ての風味のバランスを保ちながら各材料の食感を維持することです。世代を超えて伝えられてきた伝統的な方法が、本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果のために新鮮なムール貝またはカキを使用する",
+          "辛さのレベルはお好みに合わせて調整",
+          "食感を保つために過剰に火を通さない",
+          "提供前に味を調整する"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Hoy Todは世代を超えて中央タイ料理の定番であり、地域の独自の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は、世界中で有名なタイ料理のバランスと調和を象徴する中央タイ料理の心臓部を表しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地域の祭り",
+          "ストリートフード市場",
+          "特別な祝い事"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Hoy Tod クラシック",
+          "description": "地元の家庭で供される伝統版"
+        },
+        {
+          "name": "Hoy Tod モダン",
+          "description": "高級食材を用いた現代風のアレンジ"
+        },
+        {
+          "name": "Vegetarian Hoy Tod",
+          "description": "豆腐やキノコを使った植物ベースの版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ風の皿盛りで提供",
+        "eating_etiquette": "タイの習慣に従い、フォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local central Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

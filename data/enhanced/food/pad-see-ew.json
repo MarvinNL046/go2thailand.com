@@ -6,7 +6,8 @@
     "nl": "Pad See Ew",
     "thai": "ผัดซีอิ๊ว",
     "ko": "팟씨유",
-    "th": "ผัดซีอิ๊ว"
+    "th": "ผัดซีอิ๊ว",
+    "ja": "Pad See Ew（パット・シーウー）"
   },
   "category": "main-dish",
   "region": "central",
@@ -35,13 +36,15 @@
       "en": "Pad See Ew Recipe | Authentic Thai main dish",
       "nl": "Pad See Ew Recept | Authentieke Thaise main dish",
       "ko": "팟씨유 레시피 | 정통 태국 간장 볶음 넓은 쌀국수",
-      "th": "สูตรผัดซีอิ๊ว | อาหารจานหลักไทยแท้"
+      "th": "สูตรผัดซีอิ๊ว | อาหารจานหลักไทยแท้",
+      "ja": "Pad See Ew レシピ | 本格タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Pad See Ew (ผัดซีอิ๊ว) - Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg...",
       "nl": "Leer over Pad See Ew (ผัดซีอิ๊ว) - Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei...",
       "ko": "팟씨유(ผัดซีอิ๊ว) - 넓은 쌀국수를 진간장에 볶아 웍헤이 훈연향을 입힌 태국 대표 면 요리. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับผัดซีอิ๊ว — ผัดซีอิ๊ว เส้นใหญ่ผัดซีอิ๊วดำกับคะน้าและไข่ รสหวานเค็มกลมกล่อม สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับผัดซีอิ๊ว — ผัดซีอิ๊ว เส้นใหญ่ผัดซีอิ๊วดำกับคะน้าและไข่ รสหวานเค็มกลมกล่อม สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Pad See Ew（ผัดซีอิ๊ว）について詳しく知る。広幅米麺を黒甘口醤油と中国ブロッコリー、卵と一緒に炒める、タイ風の中華風炒め麺の魅力を解説。"
     }
   },
   "tags": [
@@ -785,6 +788,98 @@
           "street_food": "40-60 THB ($1.20-$1.80)",
           "restaurant": "80-150 THB ($2.40-$4.50)",
           "upscale": "200-400 THB ($6-$12)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Pad See EwはPad Thaiの濃くて煙たい従兄弟のような存在です。中国風の炒め物で、鍋の香りを引き出す wok hei の技術を体現します。滑らかな幅広米麺は炎に包まれ、わずかに焦げ目の縁ができ、濃く甘い黒甘口醤油がキャラメルのようにとろりと絡みつきます。これは最高の家庭料理のひとつで、シンプルな材料が技術と激しい熱によって変化した一皿です。",
+      "detailed_ingredients": [
+        {
+          "name": "生の幅広米麺",
+          "purpose": "wok heiを捉え、ソースを吸収するための広い表面積",
+          "substitutes": [
+            "乾燥幅広米麺",
+            "生の河粉麺",
+            "フェットチーネ（緊急時のみ）"
+          ]
+        },
+        {
+          "name": "黒甘口醤油",
+          "purpose": "特有の濃い色と甘辛い風味を生み出す",
+          "substitutes": [
+            "パームシュガー入りの普通の醤油",
+            "ケチャップ・マニス"
+          ]
+        },
+        {
+          "name": "中国ブロッコリー",
+          "purpose": "風味のバランスを取るための軽い苦味と食感を加える",
+          "substitutes": [
+            "普通のブロッコリー",
+            "チンゲン菜",
+            "ケール"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "高温の中華鍋による香りづけ（wok hei）",
+        "steps_overview": "鍋は炎のように熱く、危険に見えるほどでなければならない。麺は小分けに加え、わずかに焦げ目がつくまで焼いてから投げる。全工程は3分未満で完了するが、常に動かし続け、秒単位のタイミングが求められる。",
+        "cooking_tips": [
+          "鍋が煙を上げていないなら、熱さが足りない",
+          "小分けで作る—過密は wok hei を失わせる",
+          "最初の炒め前に麺を少し置いて焼き色をつける",
+          "すくい上げるような動きで、材料を常に動かす",
+          "わずかに煙が出ていないなら、作り方が間違っている"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "潮州系華人移民がタイに持ち込み、中国のチャオフンに起源をもち、タイの食材とより甘い風味へと適応して地元の味に進化した。",
+        "cultural_importance": "Pad See Ewは、タイ-中華の融合を象徴し、バンコクの食文化の多くを定義する存在です。庶民の燃料源であり、安価で満腹感があり、24時間営業の屋台で手に入ります。",
+        "traditional_occasions": [
+          "深夜の飲酒後のつまみ",
+          "労働者の手早い昼食",
+          "中国系タイ人のホームシックを癒すコンフォートフード",
+          "屋台の定番料理"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad See Ew Moo",
+          "description": "豚肉版 - 最も一般的で伝統的"
+        },
+        {
+          "name": "Pad See Ew Talay",
+          "description": "イカとエビのシーフード版"
+        },
+        {
+          "name": "Pad See Ew Sen Yai",
+          "description": "超幅広麺で最大の wok hei を狙う版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜"
+        ],
+        "presentation": "熱々のまま伝統的なタイ式で提供",
+        "eating_etiquette": "フォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) - ミシュラン星付きの屋台料理",
+          "Soei Restaurant (Bangkok) - 昔ながらの完璧さ",
+          "Any shophouse with a jet engine wok burner"
+        ],
+        "street_food_areas": [
+          "Chinatown after dark",
+          "Silom Soi 20 food stalls",
+          "Victory Monument street vendors"
+        ],
+        "price_ranges": {
+          "street_food": "屋台街 40-60 THB ($1.20-$1.80)",
+          "restaurant": "レストラン 80-150 THB ($2.40-$4.50)",
+          "upscale": "高級店 200-400 THB ($6-$12)"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

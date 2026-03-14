@@ -6,7 +6,8 @@
     "nl": "Nam Prik Ong",
     "thai": "น้ำพริกอ่อง",
     "ko": "남프릭옹",
-    "th": "น้ำพริกอ่อง"
+    "th": "น้ำพริกอ่อง",
+    "ja": "Nam Prik Ong（ナムプリック・オーン）"
   },
   "category": "main-dish",
   "region": "northern",
@@ -36,13 +37,15 @@
       "en": "Nam Prik Ong Recipe | Authentic Thai main dish",
       "nl": "Nam Prik Ong Recept | Authentieke Thaise main dish",
       "ko": "남프릭옹 레시피 | 정통 태국 북부 토마토 돼지고기 칠리 딥",
-      "th": "สูตรน้ำพริกอ่อง | อาหารจานหลักไทยแท้"
+      "th": "สูตรน้ำพริกอ่อง | อาหารจานหลักไทยแท้",
+      "ja": "Nam Prik Ongのレシピ | 本場タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Nam Prik Ong (น้ำพริกอ่อง) - Tomato and minced pork chili dip served with vegetables...",
       "nl": "Leer over Nam Prik Ong (น้ำพริกอ่อง) - Tomaten-chili dip met varkensgehakt geserveerd met groenten...",
       "ko": "남프릭옹(น้ำพริกอ่อง) - 다진 돼지고기, 토마토, 건고추로 만든 태국 북부 란나 전통 칠리 딥. 채소와 찹쌀에 곁들이는 레시피와 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับน้ำพริกอ่อง — น้ำพริกอ่อง น้ำพริกมะเขือเทศกับหมูสับ รสหวานเผ็ดอ่อนๆ กินกับผักสดแนมแคบหมู สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับน้ำพริกอ่อง — น้ำพริกอ่อง น้ำพริกมะเขือเทศกับหมูสับ รสหวานเผ็ดอ่อนๆ กินกับผักสดแนมแคบหมู สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Nam Prik Ong（น้ำพริกอ่อง）について学ぶ。トマトと豚ひき肉を使った唐辛子ディップを野菜と一緒に添えて提供します…"
     }
   },
   "tags": [
@@ -866,6 +869,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Nam Prik Ongは北部タイの家庭料理として長年愛されてきた、心地よい辛味のある主菜です。トマトと豚ひき肉を使ったチリディップを野菜と一緒に供します。このレシピは準備に約25分で、北部タイ料理の本格的な風味を体現しており、穏やかな風味、もち米、ハーブが特徴です。トマト・豚ひき肉・玉ねぎ（シャロット）・にんにくの組み合わせが調和のとれた風味のハーモニーを生み出し、地元の人々や訪問客の双方に愛されています。手頃な価格で本格的なタイ料理を楽しみたい人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "トマト",
+          "purpose": "Nam Prik Ong の本格的な風味の基礎となる素材",
+          "substitutes": [
+            "生トマト",
+            "乾燥トマト",
+            "トマトペースト"
+          ]
+        },
+        {
+          "name": "豚ひき肉",
+          "purpose": "Nam Prik Ong の風味の要となる素材",
+          "substitutes": [
+            "新鮮な豚ひき肉",
+            "乾燥豚ひき肉",
+            "豚ひき肉ペースト"
+          ]
+        },
+        {
+          "name": "シャロット（小玉ねぎ）",
+          "purpose": "Nam Prik Ong の風味の要となる素材",
+          "substitutes": [
+            "生シャロット",
+            "乾燥シャロット",
+            "シャロットペースト"
+          ]
+        },
+        {
+          "name": "にんにく",
+          "purpose": "Nam Prik Ong の風味の要となる素材",
+          "substitutes": [
+            "生にんにく",
+            "乾燥にんにく",
+            "にんにくペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒め物またはグリル/焼き物",
+        "steps_overview": "Nam Prik Ong を作るには細部への注意と適切なタイミングが要求されます。すべての風味をバランスさせつつ、各材料の食感を保つことが鍵です。世代を超えて伝わる伝統的な方法が本格的な味を保証します。",
+        "cooking_tips": [
+          "新鮮なトマトを使用して最高の仕上がりを目指す",
+          "辛さはお好みに合わせて調整する",
+          "食感を保つために過度に加熱しない",
+          "提供前に味を試して調味を整える"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Ongは北部タイ料理の伝統的な主菜として世代を超えて親しまれており、地域の独自の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は北タイ料理の中心をなすもので、タイ料理が世界的に有名な調和とバランスを体現しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地域のお祭り",
+          "屋台市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Ong Classic",
+          "description": "地元の家庭で供される伝統的なバージョン"
+        },
+        {
+          "name": "Nam Prik Ong Modern",
+          "description": "プレミアムな食材を使った現代風のアレンジ"
+        },
+        {
+          "name": "Vegetarian Nam Prik Ong",
+          "description": "豆腐またはきのこを使った植物ベースの版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ風の皿盛りで提供",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local northern Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

@@ -6,7 +6,8 @@
     "nl": "Kanom Jeen Nam Ya",
     "thai": "ขนมจีนน้ำยา",
     "ko": "카놈찐남야",
-    "th": "ขนมจีนน้ำยา"
+    "th": "ขนมจีนน้ำยา",
+    "ja": "Kanom Jeen Nam Ya（カノム・ジーン・ナムヤ）"
   },
   "category": "main-dish",
   "region": "southern",
@@ -38,13 +39,15 @@
       "en": "Kanom Jeen Nam Ya Recipe | Authentic Thai main dish",
       "nl": "Kanom Jeen Nam Ya Recept | Authentieke Thaise main dish",
       "ko": "카놈찐남야 레시피 | 정통 태국 남부 생선 커리 국수",
-      "th": "สูตรขนมจีนน้ำยา | อาหารจานหลักไทยแท้"
+      "th": "สูตรขนมจีนน้ำยา | อาหารจานหลักไทยแท้",
+      "ja": "Kanom Jeen Nam Ya レシピ | 本格的タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Fermented rice noodles with fish curry sauce...",
       "nl": "Leer over Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Gefermenteerde rijstnoedels met viscurrysaus...",
       "ko": "카놈찐남야(ขนมจีนน้ำยา) - 생선 커리 소스를 곁들인 발효 쌀국수. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับขนมจีนน้ำยา — ขนมจีนน้ำยาปลา เส้นขนมจีนราดน้ำยากะทิเข้มข้น เสิร์ฟกับผักสดหลากชนิด สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับขนมจีนน้ำยา — ขนมจีนน้ำยาปลา เส้นขนมจีนราดน้ำยากะทิเข้มข้น เสิร์ฟกับผักสดหลากชนิด สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Kanom Jeen Nam Ya（ขนมจีนน้ำยา）とは、発酵米麺と魚のカレーソースを用いたタイの伝統的な主菜です。"
     }
   },
   "tags": [
@@ -869,6 +872,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Kanom Jeen Nam Yaは、南部タイの愛されるボリューム感のある満足感の高い主菜で、心地よい辛味が特徴です。発酵米麺と魚のカレーソース。所要約45分のこの難易度の高いレシピは、香辛料の強さ、海鮮、ココナッツベースのカレーを特徴とする南部タイ料理の本格的な味を体現します。発酵米麺と魚、レモングラスの組み合わせが調和の取れた風味を生み出し、地元の人々にも訪れる人々にも愛されています。手頃で本格的なタイ料理を求める人にぴったりです。",
+      "detailed_ingredients": [
+        {
+          "name": "発酵米麺",
+          "purpose": "本格的な Kanom Jeen Nam Ya の風味に不可欠",
+          "substitutes": [
+            "新鮮な発酵米麺",
+            "乾燥した発酵米麺",
+            "発酵米麺ペースト"
+          ]
+        },
+        {
+          "name": "魚",
+          "purpose": "本格的な Kanom Jeen Nam Ya の風味に不可欠",
+          "substitutes": [
+            "新鮮な魚",
+            "乾燥魚",
+            "魚ペースト"
+          ]
+        },
+        {
+          "name": "レモングラス",
+          "purpose": "本格的な Kanom Jeen Nam Ya の風味に不可欠",
+          "substitutes": [
+            "新鮮なレモングラス",
+            "乾燥レモングラス",
+            "レモングラスペースト"
+          ]
+        },
+        {
+          "name": "ガランガル",
+          "purpose": "本格的な Kanom Jeen Nam Ya の風味に不可欠",
+          "substitutes": [
+            "新鮮なガランガル",
+            "乾燥ガランガル",
+            "ガランガルペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒めるまたは焼く",
+        "steps_overview": "Kanom Jeen Nam Yaを作るには、細部への注意と適切なタイミングが必要です。全体の風味を調和させつつ、素材ごとの食感を保つことが鍵です。何世代にもわたって伝えられてきた伝統的な手法が本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果のためには新鮮な発酵米麺を使用してください",
+          "辛さはお好みに合わせて調整してください",
+          "食感を保つため、過剰に加熱しないでください",
+          "盛り付け前に味を試し、調味を整えてください"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kanom Jeen Nam Yaは、世代を超えて南部タイ料理の主食として親しまれており、この地域の独自の料理伝統と地元食材を反映しています。",
+        "cultural_importance": "この料理は南部タイ料理の中心を成すもので、世界中で有名なタイ料理のバランスと調和を体現しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地域の祭り",
+          "街の屋台市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kanom Jeen Nam Ya クラシック版",
+          "description": "地元の家庭で出される伝統的なバージョン"
+        },
+        {
+          "name": "Kanom Jeen Nam Ya モダン版",
+          "description": "プレミアム食材を使った現代的なひねり"
+        },
+        {
+          "name": "ベジタリアン Kanom Jeen Nam Ya",
+          "description": "豆腐やきのこを使った植物ベースの版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "タイの伝統的なスタイルで皿に盛り付けられます",
+        "eating_etiquette": "タイの慣習に従ってフォークとスプーンで楽しみます"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local southern Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

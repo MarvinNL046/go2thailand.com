@@ -6,7 +6,8 @@
     "nl": "Gai Tod Hat Yai",
     "thai": "ไก่ทอดหาดใหญ่",
     "ko": "가이똣 핫야이",
-    "th": "ไก่ทอดหาดใหญ่"
+    "th": "ไก่ทอดหาดใหญ่",
+    "ja": "Gai Tod Hat Yai（ガイトード・ハットヤイ）"
   },
   "category": "main-dish",
   "region": "southern",
@@ -36,13 +37,15 @@
       "en": "Gai Tod Hat Yai Recipe | Authentic Thai main dish",
       "nl": "Gai Tod Hat Yai Recept | Authentieke Thaise main dish",
       "ko": "가이똣 핫야이 레시피 | 정통 태국 남부 프라이드 치킨",
-      "th": "สูตรไก่ทอดหาดใหญ่ | อาหารจานหลักไทยแท้"
+      "th": "สูตรไก่ทอดหาดใหญ่ | อาหารจานหลักไทยแท้",
+      "ja": "Gai Tod Hat Yai レシピ | 本格的なタイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai style fried chicken with crispy shallots...",
       "nl": "Leer over Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai stijl gefrituurde kip met krokante sjalotten...",
       "ko": "가이똣 핫야이(ไก่ทอดหาดใหญ่) - 바삭한 샬롯을 곁들인 핫야이 스타일 프라이드 치킨. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับไก่ทอดหาดใหญ่ — ไก่ทอดหาดใหญ่สูตรดั้งเดิม หนังกรอบ เนื้อนุ่มฉ่ำ โรยหอมเจียวกรอบ สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับไก่ทอดหาดใหญ่ — ไก่ทอดหาดใหญ่สูตรดั้งเดิม หนังกรอบ เนื้อนุ่มฉ่ำ โรยหอมเจียวกรอบ สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Gai Tod Hat Yai（ไก่ทอดหาดใหญ่）について学ぶ。Hat Yai風の揚げ鶏とサクサクのシャロットを添えた南タイスタイルの一皿です。"
     }
   },
   "tags": [
@@ -865,6 +868,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Gai Tod Hat Yai は、南タイ料理の伝統的で心温まる満足感のある主菜として長年愛されてきました。Hat Yai 風の揚げ鶏はカリカリのシャロットと共に香り高く仕上がります。準備には約40分を要するこの中程度の難易度のレシピは、南タイ料理の本格的な風味を表しており、強い香辛料、海鮮、ココナッツをベースにしたカレーが特徴です。鶏肉、シャロット、ニンニクの組み合わせは調和の取れた風味のハーモニーを作り出し、この料理は地元の人々と訪問者の間で長く愛されてきました。手頃で本格的なタイ料理を求める人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "鶏肉",
+          "purpose": "Gai Tod Hat Yai の本格的な風味に欠かせない食材",
+          "substitutes": [
+            "生の鶏肉",
+            "乾燥鶏肉",
+            "鶏肉ペースト"
+          ]
+        },
+        {
+          "name": "シャロット",
+          "purpose": "Gai Tod Hat Yai の本格的な風味に欠かせない",
+          "substitutes": [
+            "生のシャロット",
+            "乾燥シャロット",
+            "シャロットペースト"
+          ]
+        },
+        {
+          "name": "ニンニク",
+          "purpose": "Gai Tod Hat Yai の本格的な風味に欠かせない",
+          "substitutes": [
+            "生のニンニク",
+            "乾燥ニンニク",
+            "ニンニクペースト"
+          ]
+        },
+        {
+          "name": "白胡椒",
+          "purpose": "Gai Tod Hat Yai の本格的な風味に欠かせない",
+          "substitutes": [
+            "新鮮な白胡椒",
+            "乾燥白胡椒",
+            "白胡椒ペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒め物またはグリル",
+        "steps_overview": "Gai Tod Hat Yai の準備には細部への注意と適切なタイミングが要求されます。鍵はすべての風味をバランスさせつつ、各食材の食感を保つことです。代々伝わる伝統的な調理法が本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果のためには新鮮な鶏肉を使用してください",
+          "お好みに合わせてスパイスの量を調整してください",
+          "食感を保つため、過剰に加熱しないでください",
+          "提供前に味を確かめ、味付けを調整してください"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gai Tod Hat Yai は南タイ料理の代々の定番であり、地域特有の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は南タイ料理の心臓部を表しており、世界中でタイ料理が称賛されるバランスと調和を体現しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地域の祭り",
+          "屋台市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "ガイ・トード・ハットヤイ・クラシック",
+          "description": "地元の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "ガイ・トード・ハットヤイ・モダン",
+          "description": "高級食材を使用した現代的なアレンジ"
+        },
+        {
+          "name": "ベジタリアン版 ガイ・トード・ハットヤイ",
+          "description": "豆腐またはきのこを使った植物ベースの版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ風の盛り付けで皿に盛る",
+        "eating_etiquette": "タイの慣習に従いフォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local southern Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

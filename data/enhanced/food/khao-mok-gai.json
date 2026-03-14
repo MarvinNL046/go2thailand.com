@@ -6,7 +6,8 @@
     "nl": "Khao Mok Gai",
     "thai": "ข้าวหมกไก่",
     "ko": "카오목가이",
-    "th": "ข้าวหมกไก่"
+    "th": "ข้าวหมกไก่",
+    "ja": "Khao Mok Gai（カオモックガイ）"
   },
   "category": "main-dish",
   "region": "southern",
@@ -37,13 +38,15 @@
       "en": "Khao Mok Gai Recipe | Authentic Thai main dish",
       "nl": "Khao Mok Gai Recept | Authentieke Thaise main dish",
       "ko": "카오목가이 레시피 | 정통 태국식 치킨 비리야니",
-      "th": "สูตรข้าวหมกไก่ | อาหารจานหลักไทยแท้"
+      "th": "สูตรข้าวหมกไก่ | อาหารจานหลักไทยแท้",
+      "ja": "Khao Mok Gaiのレシピ | 本格タイ風主菜"
     },
     "metaDescription": {
       "en": "Learn about Khao Mok Gai (ข้าวหมกไก่) - Thai-style biryani with chicken and fragrant yellow rice...",
       "nl": "Leer over Khao Mok Gai (ข้าวหมกไก่) - Thaise biryani met kip en geurige gele rijst...",
       "ko": "카오목가이(ข้าวหมกไก่) - 닭고기와 향긋한 강황 쌀밥으로 만든 태국식 비리야니. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับข้าวหมกไก่ — ข้าวหมกไก่สูตรไทย ข้าวหอมเหลืองอร่ามหุงกับเครื่องเทศ เสิร์ฟกับไก่เนื้อนุ่ม สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับข้าวหมกไก่ — ข้าวหมกไก่สูตรไทย ข้าวหอมเหลืองอร่ามหุงกับเครื่องเทศ เสิร์ฟกับไก่เนื้อนุ่ม สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Khao Mok Gai（ข้าวหมกไก่）について学ぶ。チキンと香り高い黄色いご飯を使ったタイ風ビリヤニの代表格です。"
     }
   },
   "tags": [
@@ -866,6 +869,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Khao Mok Gai は、穏やかな温かみを伴う南部タイの定番であり、心温まる満足感のある主菜です。チキンと香り高い黄色いご飯を使うタイ風ビリヤニです。準備には約60分を要するこの中程度の難易度のレシピは、海産物やココナツベースのカレーを特徴とする南部タイ料理の本格的な風味を表現します。鶏肉、米、ターメリックの組み合わせは調和の取れた味わいを生み出し、地元民と訪問者の双方に愛される理由となっています。手頃で本格的なタイ料理を求める人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "Chicken",
+          "purpose": "本格的な Khao Mok Gai の風味に欠かせない主要材料",
+          "substitutes": [
+            "新鮮な鶏肉",
+            "乾燥鶏肉",
+            "鶏ペースト"
+          ]
+        },
+        {
+          "name": "Rice",
+          "purpose": "本格的な Khao Mok Gai の風味に欠かせない主食",
+          "substitutes": [
+            "新鮮な米",
+            "乾燥米",
+            "米ペースト"
+          ]
+        },
+        {
+          "name": "Turmeric",
+          "purpose": "本格的な Khao Mok Gai の風味に欠かせないスパイス",
+          "substitutes": [
+            "新鮮なターメリック",
+            "乾燥ターメリック",
+            "ターメリックペースト"
+          ]
+        },
+        {
+          "name": "Bay leaves",
+          "purpose": "本格的な Khao Mok Gai の風味に欠かせない香りづけの葉",
+          "substitutes": [
+            "新鮮な月桂葉",
+            "乾燥月桂葉",
+            "月桂葉ペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒めるまたは焼く",
+        "steps_overview": "Khao Mok Gai の準備には細部への気配りと適切なタイミングが必要です。すべての風味のバランスを取りつつ、それぞれの材料の食感を保つことが鍵です。世代を超えて伝えられてきた伝統的方法が、本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果を得るには新鮮な鶏肉を使用する",
+          "辛さはお好みに合わせて調整する",
+          "食感を保つために過剰に加熱しない",
+          "盛り付け前に味を最終調整する"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Mok Gai は代々南部タイ料理の重要な定番であり、その地域の独自の料理伝統と地元の材料を反映しています。",
+        "cultural_importance": "この料理はタイ料理が世界的に有名な調和とバランスの核心を示しており、南部料理の中心的役割を果たしています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地元の祭り",
+          "屋台市場",
+          "特別な祝事"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Mok Gai Classic",
+          "description": "地元の家庭で出される伝統的なバージョン"
+        },
+        {
+          "name": "Khao Mok Gai Modern",
+          "description": "高品質な食材を使った現代風アレンジ"
+        },
+        {
+          "name": "Vegetarian Khao Mok Gai",
+          "description": "豆腐またはきのこを使った植物性バージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイハーブ"
+        ],
+        "presentation": "伝統的なタイ風スタイルの皿盛りで提供",
+        "eating_etiquette": "タイの習慣に従い、フォークとスプーンを使って楽しむ"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local southern Thai restaurants (地元の南部タイ料理レストラン)",
+          "Authentic street food stalls (本格的な屋台)",
+          "Traditional markets (伝統的な市場)",
+          "Family-run eateries (家族経営の食堂)"
+        ],
+        "street_food_areas": [
+          "Night markets (ナイトマーケット)",
+          "Morning fresh markets (朝の新鮮市場)",
+          "Local food courts (地元のフードコート)"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

@@ -6,7 +6,8 @@
     "nl": "Nam Ngiao",
     "thai": "น้ำเงี้ยว",
     "ko": "남응이아오",
-    "th": "น้ำเงี้ยว"
+    "th": "น้ำเงี้ยว",
+    "ja": "Nam Ngiao（ナム・ンギャオ）"
   },
   "category": "soup",
   "region": "northern",
@@ -36,13 +37,15 @@
       "en": "Nam Ngiao Recipe | Authentic Thai soup",
       "nl": "Nam Ngiao Recept | Authentieke Thaise soup",
       "ko": "남응이아오 레시피 | 정통 태국 북부 토마토 돼지뼈 국수",
-      "th": "สูตรน้ำเงี้ยว | ซุปไทยแท้"
+      "th": "สูตรน้ำเงี้ยว | ซุปไทยแท้",
+      "ja": "Nam Ngiao レシピ | 本場タイ料理のスープ"
     },
     "metaDescription": {
       "en": "Learn about Nam Ngiao (น้ำเงี้ยว) - Northern noodle soup with pork blood and tomatoes...",
       "nl": "Leer over Nam Ngiao (น้ำเงี้ยว) - Noordelijke noedelsoep met varkensbloed en tomaten...",
       "ko": "남응이아오(น้ำเงี้ยว) - 돼지피, 토마토, 발효 콩을 넣은 태국 북부 전통 쌀국수. 샨족 유래 국수의 레시피, 재료, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับน้ำเงี้ยว — น้ำเงี้ยว ก๋วยเตี๋ยวเส้นเล็กน้ำซุปมะเขือเทศกับเลือดหมู อาหารเหนือรสจัด สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับน้ำเงี้ยว — น้ำเงี้ยว ก๋วยเตี๋ยวเส้นเล็กน้ำซุปมะเขือเทศกับเลือดหมู อาหารเหนือรสจัด สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Nam Ngiao（น้ำเงี้ยว）について学ぶ — 北部タイの豚血とトマトを使った麺スープの解説です。"
     }
   },
   "tags": [
@@ -866,6 +869,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Nam Ngiaoは北部タイの心を温める愛されるスープで、心地よい辛さがアクセントです。豚の血とトマトを使った北部のヌードルスープです。この本格レシピは準備に約45分かかり、北部タイ料理の本場の風味を代表します。北部料理は穏やかな風味、もち米、ハーブが特徴です。米麺、豚スペアリブ、トマトの組み合わせは調和のとれた味わいを生み出し、地元の人々にも訪れる人々にも愛されています。手頃な価格で本格的なタイ料理を求める人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "米麺",
+          "purpose": "Nam Ngiao の本格的な風味を引き出す重要な要素",
+          "substitutes": [
+            "生米麺",
+            "乾燥米麺",
+            "米麺ペースト"
+          ]
+        },
+        {
+          "name": "豚スペアリブ",
+          "purpose": "Nam Ngiao の本格的な風味を引き出す",
+          "substitutes": [
+            "生豚スペアリブ",
+            "乾燥豚スペアリブ",
+            "豚スペアリブペースト"
+          ]
+        },
+        {
+          "name": "トマト",
+          "purpose": "Nam Ngiao の本格的な風味を引き出す",
+          "substitutes": [
+            "完熟トマト",
+            "乾燥トマト",
+            "トマトペースト"
+          ]
+        },
+        {
+          "name": "発酵大豆",
+          "purpose": "Nam Ngiao の本格的な風味を引き出す",
+          "substitutes": [
+            "生発酵大豆",
+            "乾燥発酵大豆",
+            "発酵大豆ペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "煮込みと風味を層状に重ねる技法",
+        "steps_overview": "Nam Ngiao の準備には細部への注意と適切なタイミングが必要です。すべての風味をバランスさせつつ、各材料の食感を保つことが鍵です。代々受け継がれる伝統的な方法が本格的な味を保証します。",
+        "cooking_tips": [
+          "最高の仕上がりのためには生米麺を使うこと",
+          "お好みの辛さに合わせて調整してください",
+          "食感を保つために煮すぎないでください",
+          "提供前に味を試して調味を調整してください"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Ngiaoは何世代にもわたり北タイ料理の主力料理であり、地域の独自の調理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は北タイ料理の心臓部を象徴し、世界中でタイ料理が有名な調和とバランスを示しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地元の祭り",
+          "屋台市場",
+          "特別な祝い事"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Ngiao Classic",
+          "description": "地域の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Nam Ngiao Modern",
+          "description": "上質な食材を用いた現代的なひねり"
+        },
+        {
+          "name": "Vegetarian Nam Ngiao",
+          "description": "豆腐やキノコを使った植物性バージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "生野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ風の器に盛り付け",
+        "eating_etiquette": "タイの作法に従いフォークとスプーンを使って召し上がる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "北タイの現地レストラン",
+          "本格的な屋台",
+          "伝統市場",
+          "家族経営の飲食店"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

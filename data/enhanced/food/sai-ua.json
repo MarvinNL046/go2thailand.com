@@ -6,7 +6,8 @@
     "nl": "Sai Ua",
     "thai": "ไส้อั่ว",
     "ko": "사이우아",
-    "th": "ไส้อั่ว"
+    "th": "ไส้อั่ว",
+    "ja": "Sai Ua（サイウア）"
   },
   "category": "main-dish",
   "region": "northern",
@@ -37,13 +38,15 @@
       "en": "Sai Ua Recipe | Authentic Thai main dish",
       "nl": "Sai Ua Recept | Authentieke Thaise main dish",
       "ko": "사이우아 레시피 | 치앙마이 명물 태국 북부 허브 소시지",
-      "th": "สูตรไส้อั่ว | อาหารจานหลักไทยแท้"
+      "th": "สูตรไส้อั่ว | อาหารจานหลักไทยแท้",
+      "ja": "Sai Ua レシピ | 本格タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Sai Ua (ไส้อั่ว) - Spicy northern Thai sausage with herbs and spices...",
       "nl": "Leer over Sai Ua (ไส้อั่ว) - Pittige noordelijke Thaise worst met kruiden en specerijen...",
       "ko": "사이우아(ไส้อั่ว) - 레몬그라스, 갈랑갈, 카피르 라임잎 등 10가지 이상의 허브로 만든 치앙마이 대표 란나 소시지. 레시피, 재료, 문화적 의미, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับไส้อั่ว — ไส้อั่ว ไส้กรอกเหนือสอดไส้สมุนไพร ตะไคร้ ใบมะกรูด พริก หอมเผ็ดกรุ่น สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับไส้อั่ว — ไส้อั่ว ไส้กรอกเหนือสอดไส้สมุนไพร ตะไคร้ ใบมะกรูด พริก หอมเผ็ดกรุ่น สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Sai Ua（ไส้อั่ว）とは、ハーブとスパイスを組み合わせた北部タイの辛口ソーセージです。本格派レシピで北部タイ料理の味わいを楽しみましょう。"
     }
   },
   "tags": [
@@ -889,6 +892,109 @@
           "street_vendor": "50-80 THB",
           "market_stall": "60-100 THB",
           "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Sai Ua は北部タイの定番で、辛味が強くボリューム感のある主菜です。ハーブとスパイスを効かせた北部タイ風のソーセージで、約60分ほどかけて作ります。本格的な北部タイ料理の風味は、香り高いハーブともち米の粘りが生み出す独特のバランスに特徴があります。豚肉、レモングラス、カフィアライムの葉の組み合わせが調和のとれた味を作り出し、地元の人々と訪問者の双方に長く愛されています。手頃な価格で本格的なタイ料理を楽しみたい人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "豚肉",
+          "purpose": "本格的な Sai Ua の風味に欠かせない材料",
+          "substitutes": [
+            "新鮮な豚肉",
+            "乾燥豚肉",
+            "豚ペースト"
+          ]
+        },
+        {
+          "name": "レモングラス",
+          "purpose": "本格的な Sai Ua の風味に欠かせない材料",
+          "substitutes": [
+            "新鮮なレモングラス",
+            "乾燥レモングラス",
+            "レモングラスペースト"
+          ]
+        },
+        {
+          "name": "カフィアライムの葉",
+          "purpose": "本格的な Sai Ua の風味に欠かせない材料",
+          "substitutes": [
+            "新鮮なカフィアライムの葉",
+            "乾燥カフィアライムの葉",
+            "カフィアライムの葉ペースト"
+          ]
+        },
+        {
+          "name": "シャロット",
+          "purpose": "本格的な Sai Ua の風味に欠かせない材料",
+          "substitutes": [
+            "新鮮なシャロット",
+            "乾燥シャロット",
+            "シャロットペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "技法: 炒めるまたは焼く",
+        "steps_overview": "Sai Ua の準備には細部への注意と適切なタイミングが必要です。全ての風味を均等に整え、材料の食感を保つことが鍵です。何世代にもわたり伝承されてきた伝統的な方法が、本格的な味を保証します。",
+        "cooking_tips": [
+          "最高の結果のためには新鮮な豚肉を使用する",
+          "辛さはお好みに合わせて調整する",
+          "食感を保つために過剰に加熱しない",
+          "盛り付け前に味を確かめ、調味を整える"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sai Ua は何世代にもわたって北部タイ料理の定番であり、この地域の独自の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は北部タイ料理の心臓を表しており、タイ料理が世界的に有名な調和とバランスを体現しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地元の祭り",
+          "路上の屋台市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sai Ua Classic",
+          "description": "地元の家庭で供される伝統的なバージョン"
+        },
+        {
+          "name": "Sai Ua Modern",
+          "description": "プレミアム食材を使った現代的なひねり"
+        },
+        {
+          "name": "Vegetarian Sai Ua",
+          "description": "豆腐やキノコを使った植物ベースの版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ風の盛り付けで皿に盛って提供",
+        "eating_etiquette": "タイの慣習に従い、フォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local northern Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 バーツ",
+          "market_stall": "60-100 バーツ",
+          "restaurant": "100-200 バーツ"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

@@ -6,7 +6,8 @@
     "nl": "Goong Pad Sator",
     "thai": "กุ้งผัดสะตอ",
     "ko": "꿍팟사또",
-    "th": "กุ้งผัดสะตอ"
+    "th": "กุ้งผัดสะตอ",
+    "ja": "Goong Pad Sator（グーン・パッド・サトー）"
   },
   "category": "main-dish",
   "region": "southern",
@@ -37,13 +38,15 @@
       "en": "Goong Pad Sator Recipe | Authentic Thai main dish",
       "nl": "Goong Pad Sator Recept | Authentieke Thaise main dish",
       "ko": "꿍팟사또 레시피 | 정통 태국 남부 새우 볶음",
-      "th": "สูตรกุ้งผัดสะตอ | อาหารจานหลักไทยแท้"
+      "th": "สูตรกุ้งผัดสะตอ | อาหารจานหลักไทยแท้",
+      "ja": "Goong Pad Sator レシピ | 本格タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Goong Pad Sator (กุ้งผัดสะตอ) - Prawns stir-fried with stink beans...",
       "nl": "Leer over Goong Pad Sator (กุ้งผัดสะตอ) - Garnalen geroerbakt met stinkbonen...",
       "ko": "꿍팟사또(กุ้งผัดสะตอ) - 남부 태국 특산 냄새콩과 새우를 볶은 매콤한 요리. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับกุ้งผัดสะตอ — กุ้งผัดสะตอ อาหารใต้ยอดนิยม กุ้งสดผัดกับสะตอและพริกแกง หอมเผ็ดร้อน สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับกุ้งผัดสะตอ — กุ้งผัดสะตอ อาหารใต้ยอดนิยม กุ้งสดผัดกับสะตอและพริกแกง หอมเผ็ดร้อน สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Goong Pad Sator（กุ้งผัดสะตอ）とは、สะตอとエビを香り高く炒めたタイ南部の伝統料理です。本格的な風味を手軽に楽しめる主菜レシピを紹介します。"
     }
   },
   "tags": [
@@ -868,6 +871,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Goong Pad Sator は南部タイの愛される主菜で、程よい辛さの刺激を持つ一品です。エビをสะตอ（サトー豆）と一緒に炒める料理で、この簡単なレシピは約15分で仕上がり、南部タイ料理の本格的な風味を体現します。強烈な香辛料、海鮮、ココナッツベースのカレーが特徴で、エビ・サトー豆・エビペーストの組み合わせが調和の取れた風味を生み出し、地元民にも観光客にも長く愛されています。手頃な価格で本格的なタイ料理を楽しみたい人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "Prawns（エビ）",
+          "purpose": "Goong Pad Sator の本格的な風味を左右する重要な食材",
+          "substitutes": [
+            "新鮮なエビ",
+            "乾燥エビ",
+            "エビペースト"
+          ]
+        },
+        {
+          "name": "Stink beans（サトー豆）",
+          "purpose": "Goong Pad Sator の本格風味を生み出す重要な材料",
+          "substitutes": [
+            "新鮮なサトー豆",
+            "乾燥サトー豆",
+            "サトー豆ペースト"
+          ]
+        },
+        {
+          "name": "Shrimp paste（エビペースト）",
+          "purpose": "Goong Pad Sator の本格風味を引き出す重要な食材",
+          "substitutes": [
+            "新鮮なエビペースト",
+            "乾燥エビペースト",
+            "エビペースト"
+          ]
+        },
+        {
+          "name": "Chili（唐辛子）",
+          "purpose": "Goong Pad Sator の辛味を決定づける素材",
+          "substitutes": [
+            "新鮮な唐辛子",
+            "乾燥唐辛子",
+            "チリペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒め物またはグリル",
+        "steps_overview": "Goong Pad Sator の準備には細部と適切なタイミングに注意します。すべての風味のバランスを取りつつ、各食材の食感を維持することが鍵です。代々伝わる伝統的方法により、本格的な味を再現します。",
+        "cooking_tips": [
+          "最良の結果のためには新鮮なエビを使用する",
+          "辛さはお好みに合わせて調整する",
+          "食感を保つため過剰に加熱しない",
+          "提供前に味を確かめ、調味を調整する"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Goong Pad Sator は世代を越えて南部タイ料理の定番であり、地域の独自の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は南部タイ料理の心臓部を象徴し、タイ料理が世界的に有名な調和とバランスを体現していることを示しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地域の祭り",
+          "ストリートフード市場",
+          "特殊な祝宴"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Goong Pad Sator Classic",
+          "description": "現地の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Goong Pad Sator Modern",
+          "description": "高級食材を使った現代風のアレンジ"
+        },
+        {
+          "name": "Vegetarian Goong Pad Sator",
+          "description": "豆腐やきのこを使った植物ベースの版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ風の盛り付けで皿に盛る",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local southern Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "50-80 THB",

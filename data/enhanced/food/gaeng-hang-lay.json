@@ -6,7 +6,8 @@
     "nl": "Gaeng Hang Lay",
     "thai": "แกงฮังเล",
     "ko": "깽항레",
-    "th": "แกงฮังเล"
+    "th": "แกงฮังเล",
+    "ja": "Gaeng Hang Lay（ゲーン・ハン・レイ）"
   },
   "category": "curry",
   "region": "northern",
@@ -39,13 +40,15 @@
       "en": "Gaeng Hang Lay Recipe | Authentic Thai curry",
       "nl": "Gaeng Hang Lay Recept | Authentieke Thaise curry",
       "ko": "깽항레 레시피 | 정통 태국 북부 커리",
-      "th": "สูตรแกงฮังเล | แกงไทยแท้"
+      "th": "สูตรแกงฮังเล | แกงไทยแท้",
+      "ja": "Gaeng Hang Lay レシピ | 本格タイカレー"
     },
     "metaDescription": {
       "en": "Learn about Gaeng Hang Lay (แกงฮังเล) - Mild curry with pork belly and Burmese influences...",
       "nl": "Leer over Gaeng Hang Lay (แกงฮังเล) - Milde curry met varkensbuik en Birmese invloeden...",
       "ko": "깽항레(แกงฮังเล) - 삼겹살과 미얀마 영향의 순한 북부 태국 커리. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับแกงฮังเล — แกงฮังเลหมูสามชั้นรสนุ่มนวลกลิ่นหอมเครื่องเทศ ได้รับอิทธิพลจากพม่า สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับแกงฮังเล — แกงฮังเลหมูสามชั้นรสนุ่มนวลกลิ่นหอมเครื่องเทศ ได้รับอิทธิพลจากพม่า สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "ゲーン・ハン・レイ（แกงฮังเล）について知ろう。豚バラ肉を使ったマイルドなカレーで、ビルマ風の影響を受けた北タイ料理です。"
     }
   },
   "tags": [
@@ -870,6 +873,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "ゲーン・ハン・レイは、北タイの豊かで香り高いカレーで、ほのかな温かみを持ちます。豚バラ肉を使い、ビルマ風の影響を受けたマイルドなカレーです。このレシピは準備に約90分かかる中級レベルで、北タイ料理の本格的な風味を表現します。北タイ料理は穏やかな味わい、もち米と香草が特徴です。豚バラ肉・エシャロット・にんにくの組み合わせが調和のとれた味わいを生み出し、地元の人々にも訪問者にも愛されています。手頃な価格で本格的なタイ料理を求める方にぴったりです。",
+      "detailed_ingredients": [
+        {
+          "name": "Pork belly",
+          "purpose": "ゲーン・ハン・レイの本格的な風味を作るために不可欠",
+          "substitutes": [
+            "新鮮な豚バラ肉",
+            "乾燥豚バラ肉",
+            "豚バラペースト"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "ゲーン・ハン・レイの本格的な風味を作るために不可欠",
+          "substitutes": [
+            "新鮮なエシャロット",
+            "乾燥エシャロット",
+            "エシャロットペースト"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "ゲーン・ハン・レイの本格的な風味を作るために不可欠",
+          "substitutes": [
+            "新鮮なにんにく",
+            "乾燥にんにく",
+            "にんにくペースト"
+          ]
+        },
+        {
+          "name": "Ginger",
+          "purpose": "ゲーン・ハン・レイの本格的な風味を作るために不可欠",
+          "substitutes": [
+            "新鮮な生姜",
+            "乾燥生姜",
+            "生姜ペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "カレー・ペーストを炒め、ココナツミルクを煮詰める",
+        "steps_overview": "ゲーン・ハン・レイの準備には細部への注意と適切なタイミングが必要です。風味のバランスを取りつつ、各材料の食感を保つことが鍵です。代々受け継がれる伝統的方法が本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果を得るには新鮮な豚バラ肉を使用すること",
+          "お好みの辛さに合わせてスパイスの量を調整する",
+          "食感を保つため煮込み過ぎない",
+          "提供前に味を試して調味を調整する"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "ゲーン・ハン・レイは何世代にもわたり北タイ料理の定番であり、地域の独自の調理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は北タイ料理の心臓部を象徴しており、タイ料理が世界的に有名な調和とバランスを示しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地元の祭り",
+          "屋台市場",
+          "特別な祝い事"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Hang Lay Classic（ゲーン・ハン・レイ・クラシック）",
+          "description": "地元の家庭で供される伝統的なバージョン"
+        },
+        {
+          "name": "Gaeng Hang Lay Modern（ゲーン・ハン・レイ・モダン）",
+          "description": "プレミアム食材を使った現代的なアレンジ"
+        },
+        {
+          "name": "Vegetarian Gaeng Hang Lay（ベジタリアン・ゲーン・ハン・レイ）",
+          "description": "豆腐またはきのこを使った植物ベースの版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmine rice（ジャスミンライス）",
+          "Fresh vegetables（新鮮な野菜）",
+          "Thai herbs（タイハーブ）"
+        ],
+        "presentation": "伝統的なタイ風の盛り付けで皿に盛られて提供されます。",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンで食べます。"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local northern Thai restaurants（北タイの地元レストラン）",
+          "Authentic street food stalls（本格的な屋台）",
+          "Traditional markets（伝統的市場）",
+          "Family-run eateries（家族経営の飲食店）"
+        ],
+        "street_food_areas": [
+          "Night markets（ナイトマーケット）",
+          "Morning fresh markets（朝市）",
+          "Local food courts（地元のフードコート）"
         ],
         "price_ranges": {
           "street_vendor": "50-80 THB",

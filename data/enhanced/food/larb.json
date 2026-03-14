@@ -6,7 +6,8 @@
     "nl": "Larb",
     "thai": "ลาบ",
     "ko": "랍",
-    "th": "ลาบ"
+    "th": "ลาบ",
+    "ja": "ラープ"
   },
   "category": "salad",
   "region": "northeastern",
@@ -37,13 +38,15 @@
       "en": "Larb Recipe | Authentic Thai salad",
       "nl": "Larb Recept | Authentieke Thaise salad",
       "ko": "랍 레시피 | 정통 태국 이산 고기 샐러드",
-      "th": "สูตรลาบ | สลัดไทยแท้"
+      "th": "สูตรลาบ | สลัดไทยแท้",
+      "ja": "ラープのレシピ | 本格タイ料理のサラダ"
     },
     "metaDescription": {
       "en": "Learn about Larb (ลาบ) - Spicy meat salad with herbs lime juice and toasted rice powder...",
       "nl": "Leer over Larb (ลาบ) - Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder...",
       "ko": "랍(ลาบ) - 허브, 라임즙, 볶은 쌀가루를 곁들인 태국 이산 지역의 매콤한 고기 샐러드. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับลาบ — ลาบ สลัดเนื้อสับปรุงรสด้วยน้ำมะนาว น้ำปลา ข้าวคั่ว สมุนไพรสด รสเผ็ดเปรี้ยว สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับลาบ — ลาบ สลัดเนื้อสับปรุงรสด้วยน้ำมะนาว น้ำปลา ข้าวคั่ว สมุนไพรสด รสเผ็ดเปรี้ยว สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "ラープ（ลาบ）とは、ハーブとライムジュース、炒り米粉を組み合わせたスパイシーな肉のサラダです。"
     }
   },
   "tags": [
@@ -805,6 +808,108 @@
           "street_food": "40-70 THB ($1.20-$2.10)",
           "restaurant": "80-150 THB ($2.40-$4.50)",
           "upscale": "200-400 THB ($6-$12)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "ラープはラオスと東北タイの国民料理で、肉のサラダをソーセージを分解したような料理です。この刺激的でハーブが豊かな“サラダ”は、炒り米粉・新鮮なハーブ・ライムジュースをひき肉と合わせ、食感と風味の爆発を生み出します。もち米と生野菜とともに食べ、Isaan流の食べ方を体現しています。共同体性・バランス・大胆な風味を特徴としています。",
+      "detailed_ingredients": [
+        {
+          "name": "Toasted Rice Powder (Khao Khua)",
+          "purpose": "香ばしい風味と独特の粒状感を加える、ラープの決定的な要素",
+          "substitutes": [
+            "自家製の炒り米",
+            "砕いた米クラッカー",
+            "焙煎したキヌアフレーク"
+          ]
+        },
+        {
+          "name": "Fresh Mint（ミント）",
+          "purpose": "肉とスパイスの刺激を和らげるクールな対比を提供する",
+          "substitutes": [
+            "タイバジル",
+            "コリアンダー（香菜）",
+            "シソの葉"
+          ]
+        },
+        {
+          "name": "Shallots（シャロット）",
+          "purpose": "鋭く甘い食感を加える",
+          "substitutes": [
+            "赤玉ねぎ",
+            "青ねぎ",
+            "リーク（薄切り）"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "素早い加熱と温かいうちの新鮮な混合",
+        "steps_overview": "肉は短時間で加熱する（伝統的には生のままでも可）。温かいうちに香草と調味料と合わせ、余熱でハーブがしんなりし香りが引き出される。盛り付け直前に全体を和える。",
+        "cooking_tips": [
+          "肉を過度に火を通さない。混ぜると余熱でさらに火が通る。",
+          "米を黄金色で香り立つまで炒る。",
+          "新鮮さを保つため、最後の瞬間にハーブを加える。",
+          "味を見て調整する。酸味・辛味・塩味のバランスを整える。",
+          "すぐに提供する。長持ちはしない。"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "歴史が記録される以前の古代ラオス料理。元々は生肉と血を使い、特別な儀式の料理として作られていました。ラープという語はラオ語で「幸運」を意味します。",
+        "cultural_importance": "ラープはIsaanのすべての重要な儀式で供されます。出生、死、結婚式、新年。共同体と分かち合いを象徴し、もち米を球状にして食べるのが伝統です。",
+        "traditional_occasions": [
+          "Baci の儀式",
+          "寺院の祭り",
+          "新年のお祝い",
+          "名誉ある来訪者を迎える歓迎パーティー"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Larb Dip",
+          "description": "血を用いた生肉ディップ - 伝統的なIsaanスタイル"
+        },
+        {
+          "name": "Larb Pla",
+          "description": "魚版（Larb Pla） - メコン川流域で人気"
+        },
+        {
+          "name": "Larb Moo",
+          "description": "加熱した豚肉版 - 最も一般的で安全性が高い"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミン米",
+          "生野菜"
+        ],
+        "presentation": "熱々の状態で伝統的なタイ風スタイルで提供",
+        "eating_etiquette": "フォークとスプーンで食べるのが一般的"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          {
+            "name": "Som Tam Jay So (Bangkok)",
+            "description": "本格的なIsaanの風味を提供するレストラン"
+          },
+          {
+            "name": "Larb Loi (Bangkok)",
+            "description": "ラープを専門とするレストラン"
+          },
+          {
+            "name": "Any Isaan restaurant with mor lam music playing",
+            "description": "モーラムの音楽が流れるIsaan料理店でラープを楽しめます"
+          }
+        ],
+        "street_food_areas": [
+          "Huai Khwang Night Market",
+          "JJ Green Night Market",
+          "Saphan Phut Night Market"
+        ],
+        "price_ranges": {
+          "street_food": "ストリートフード: 40-70 THB ($1.20-$2.10)",
+          "restaurant": "レストラン: 80-150 THB ($2.40-$4.50)",
+          "upscale": "高級: 200-400 THB ($6-$12)"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

@@ -6,7 +6,8 @@
     "nl": "Khao Kan Jin",
     "thai": "ข้าวกั้นจิ๊น",
     "ko": "카오깐진",
-    "th": "ข้าวกั้นจิ๊น"
+    "th": "ข้าวกั้นจิ๊น",
+    "ja": "Khao Kan Jin（カオ・カンジン）"
   },
   "category": "main-dish",
   "region": "northern",
@@ -36,13 +37,15 @@
       "en": "Khao Kan Jin Recipe | Authentic Thai main dish",
       "nl": "Khao Kan Jin Recept | Authentieke Thaise main dish",
       "ko": "카오깐진 레시피 | 정통 태국 북부 바나나잎 돼지피 밥",
-      "th": "สูตรข้าวกั้นจิ๊น | อาหารจานหลักไทยแท้"
+      "th": "สูตรข้าวกั้นจิ๊น | อาหารจานหลักไทยแท้",
+      "ja": "Khao Kan Jin レシピ | 本場タイ北部の主菜"
     },
     "metaDescription": {
       "en": "Learn about Khao Kan Jin (ข้าวกั้นจิ๊น) - Steamed rice with pork blood in banana leaf...",
       "nl": "Leer over Khao Kan Jin (ข้าวกั้นจิ๊น) - Gestoomde rijst met varkensbloed in bananenblad...",
       "ko": "카오깐진(ข้าวกั้นจิ๊น) - 바나나잎에 싸서 찐 돼지피 밥. 태국 북부 전통 요리의 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับข้าวกั้นจิ๊น — ข้าวกั้นจิ๊น ข้าวนึ่งผสมเลือดหมูห่อใบตองนึ่ง อาหารเช้าเหนือสุดคลาสสิก สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับข้าวกั้นจิ๊น — ข้าวกั้นจิ๊น ข้าวนึ่งผสมเลือดหมูห่อใบตองนึ่ง อาหารเช้าเหนือสุดคลาสสิก สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "ข้าวกั้นจิ๊น（Khao Kan Jin）とは、バナナの葉で包んだ豚の血を混ぜた蒸しご飯です。北タイの伝統的な味わいを探求しましょう。"
     }
   },
   "tags": [
@@ -865,6 +868,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "カオ カン ジンは、北タイの家庭料理として愛されてきた、ボリュームがあり満足感の高い主菜です。バナナの葉で包んだ豚の血を使った蒸しご飯です。この本格レシピの準備には約60分を要し、北タイ料理の伝統的な風味を体現します。北タイ料理は穏やかな風味、もち米、ハーブが特徴です。米、豚の血、にんにくの組み合わせが調和のとれた味わいを生み出し、地元の人々や訪問者の双方に長く愛されています。手頃で本格的なタイ料理を求める人にぴったりです。",
+      "detailed_ingredients": [
+        {
+          "name": "Rice",
+          "purpose": "本場の Khao Kan Jin の風味に不可欠",
+          "substitutes": [
+            "新米",
+            "乾燥米",
+            "米ペースト"
+          ]
+        },
+        {
+          "name": "Pork blood",
+          "purpose": "本場の Khao Kan Jin の風味に不可欠",
+          "substitutes": [
+            "新鮮な豚血",
+            "乾燥豚血",
+            "豚血ペースト"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "本場の Khao Kan Jin の風味に不可欠",
+          "substitutes": [
+            "生のにんにく",
+            "乾燥にんにく",
+            "にんにくペースト"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "本場の Khao Kan Jin の風味に不可欠",
+          "substitutes": [
+            "新鮮なシャロット",
+            "乾燥シャロット",
+            "シャロットペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒めるまたは焼く",
+        "steps_overview": "Khao Kan Jin の準備には細部と適切なタイミングが要求されます。鍵は全ての風味をバランスさせつつ、各材料の食感を保つことです。世代を超えて伝わる伝統的な方法が、北タイの味を保証します。",
+        "cooking_tips": [
+          "最も良い結果のためには新鮮な米を使う",
+          "お好みに合わせて辛さを調整する",
+          "食感を保つために加熱を控えめにする",
+          "盛り付け前に味を試して調味を整える"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Kan Jin は北タイ料理の世代を超えた家庭料理の定番であり、地域の独自の料理伝統と地元の材料を反映しています。",
+        "cultural_importance": "この料理は北タイ料理の心臓部を象徴し、タイ料理が世界的に有名な調和とバランスを体現しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地域の祭り",
+          "露店市場",
+          "特別な祝い事"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Kan Jin Classic",
+          "description": "地元の家庭で供される伝統的な版"
+        },
+        {
+          "name": "Khao Kan Jin Modern",
+          "description": "高品質の食材を用いた現代風のアレンジ"
+        },
+        {
+          "name": "Vegetarian Khao Kan Jin",
+          "description": "豆腐やきのこを使った植物性の版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイハーブ"
+        ],
+        "presentation": "伝統的なタイ風の盛り付けで皿に盛り付け",
+        "eating_etiquette": "タイの習慣に従い、フォークとスプーンを使って食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "北タイ料理の地元のレストラン",
+          "本格的なストリートフードの露店",
+          "伝統的な市場",
+          "家族経営の飲食店"
+        ],
+        "street_food_areas": [
+          "ナイトマーケット",
+          "朝市",
+          "ローカルフードコート"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

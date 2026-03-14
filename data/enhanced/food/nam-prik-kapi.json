@@ -6,7 +6,8 @@
     "nl": "Nam Prik Kapi",
     "thai": "น้ำพริกกะปิ",
     "ko": "남프릭까삐",
-    "th": "น้ำพริกกะปิ"
+    "th": "น้ำพริกกะปิ",
+    "ja": "Nam Prik Kapi（ナムプリック・カピ）"
   },
   "category": "main-dish",
   "region": "southern",
@@ -37,13 +38,15 @@
       "en": "Nam Prik Kapi Recipe | Authentic Thai main dish",
       "nl": "Nam Prik Kapi Recept | Authentieke Thaise main dish",
       "ko": "남프릭까삐 레시피 | 정통 태국 새우 페이스트 칠리 딥",
-      "th": "สูตรน้ำพริกกะปิ | อาหารจานหลักไทยแท้"
+      "th": "สูตรน้ำพริกกะปิ | อาหารจานหลักไทยแท้",
+      "ja": "Nam Prik Kapi レシピ | 本格タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Nam Prik Kapi (น้ำพริกกะปิ) - Shrimp paste chili dip with fresh vegetables...",
       "nl": "Leer over Nam Prik Kapi (น้ำพริกกะปิ) - Garnalenpasta chili dip met verse groenten...",
       "ko": "남프릭까삐(น้ำพริกกะปิ) - 새우 페이스트(까삐), 고추, 마늘, 라임즙으로 만든 태국 전통 칠리 딥. 밥과 채소에 곁들이는 레시피와 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับน้ำพริกกะปิ — น้ำพริกกะปิ น้ำพริกรสเข้มข้นจากกะปิ เสิร์ฟกับผักสดและปลาทู สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับน้ำพริกกะปิ — น้ำพริกกะปิ น้ำพริกรสเข้มข้นจากกะปิ เสิร์ฟกับผักสดและปลาทู สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Nam Prik Kapi（น้ำพริกกะปิ）について学ぶ。新鮮な野菜を添えたエビペースト入り唐辛子ディップで、南タイの本格料理の風味を体験できます。"
     }
   },
   "tags": [
@@ -870,6 +873,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Nam Prik Kapi は、南タイの愛される心温まる満足感のある主菜で、炎のような辛さと力強さが特徴です。新鮮な野菜を添えたエビペースト入り唐辛子ディップです。この簡単なレシピは約15分で用意でき、南タイ料理の本格的な風味を体現します。強い香辛料、海鮮、ココナツベースのカレーが特徴です。エビペースト、唐辛子、ニンニクの組み合わせが調和の取れた風味を生み出し、地元の人々や訪問者の間でこの料理をお気に入りにしています。手頃な価格で本格的なタイ料理を求める人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "Shrimp paste（カピ）",
+          "purpose": "Nam Prik Kapi の本格的な風味には欠かせない",
+          "substitutes": [
+            "新鮮なエビペースト",
+            "乾燥エビペースト",
+            "エビペースト風のペースト"
+          ]
+        },
+        {
+          "name": "Chili（チリ）",
+          "purpose": "Nam Prik Kapi の本格的な風味には欠かせない",
+          "substitutes": [
+            "新鮮な唐辛子",
+            "乾燥唐辛子",
+            "チリペースト"
+          ]
+        },
+        {
+          "name": "Garlic（ニンニク）",
+          "purpose": "Nam Prik Kapi の本格的な風味には欠かせない",
+          "substitutes": [
+            "新鮮なにんにく",
+            "乾燥にんにく",
+            "にんにくペースト"
+          ]
+        },
+        {
+          "name": "Lime juice（ライムジュース）",
+          "purpose": "Nam Prik Kapi の本格的な風味には欠かせない",
+          "substitutes": [
+            "新鮮なライムジュース",
+            "乾燥ライムジュース",
+            "ライムジュースのペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "技法: 炒めるまたは焼く",
+        "steps_overview": "Nam Prik Kapi の準備には、細部への注意と適切なタイミングが必要です。要点は、各材料の食感を保ちつつ、すべての風味のバランスを取ることです。世代を超えて受け継がれてきた伝統的な作法が、本格的な味を保証します。",
+        "cooking_tips": [
+          "最高の結果のためには新鮮なエビペーストを使用する",
+          "辛さはお好みに合わせて調整する",
+          "食感を保つために過剰に加熱しない",
+          "提供前に味をチェックして味を整える"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Kapi は世代を超えて南タイ料理の定番であり、地域の独自の調理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は南タイ料理の心臓部を象徴しており、タイ料理が世界的に有名とされるバランスと調和を示しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地元の祭り",
+          "屋台市場",
+          "特別な祝い事"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Kapi Classic",
+          "description": "地元の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Nam Prik Kapi Modern",
+          "description": "プレミアム食材を使った現代風のアレンジ"
+        },
+        {
+          "name": "Vegetarian Nam Prik Kapi",
+          "description": "豆腐またはキノコを使った植物ベースの版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイのスタイルで皿に盛り付け",
+        "eating_etiquette": "タイの習慣としてフォークとスプーンを使って食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local southern Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",
