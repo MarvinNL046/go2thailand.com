@@ -4,14 +4,16 @@
   "name": {
     "en": "Yam Woon Sen",
     "nl": "Yam Woon Sen",
-    "thai": "ยำวุ้นเส้น"
+    "thai": "ยำวุ้นเส้น",
+    "ja": "ヤムウンセン"
   },
   "category": "salad",
   "region": "central",
   "spice_level": "medium",
   "description": {
     "en": "Glass noodle salad with shrimp and ground pork",
-    "nl": "Glasnoedelsalade met garnalen en varkensgehakt"
+    "nl": "Glasnoedelsalade met garnalen en varkensgehakt",
+    "ja": "エビと豚ひき肉の春雨サラダ"
   },
   "ingredients": [
     "glass noodles",
@@ -33,11 +35,13 @@
   "seo": {
     "metaTitle": {
       "en": "Yam Woon Sen Recipe | Authentic Thai salad",
-      "nl": "Yam Woon Sen Recept | Authentieke Thaise salad"
+      "nl": "Yam Woon Sen Recept | Authentieke Thaise salad",
+      "ja": "ヤムウンセンのレシピ | 本格タイサラダ"
     },
     "metaDescription": {
       "en": "Learn about Yam Woon Sen (ยำวุ้นเส้น) - Glass noodle salad with shrimp and ground pork...",
-      "nl": "Leer over Yam Woon Sen (ยำวุ้นเส้น) - Glasnoedelsalade met garnalen en varkensgehakt..."
+      "nl": "Leer over Yam Woon Sen (ยำวุ้นเส้น) - Glasnoedelsalade met garnalen en varkensgehakt...",
+      "ja": "ヤムウンセン（ยำวุ้นเส้น）について — エビと豚ひき肉を使ったタイの春雨サラダ。"
     }
   },
   "tags": [
