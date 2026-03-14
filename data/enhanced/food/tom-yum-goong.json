@@ -4,14 +4,16 @@
   "name": {
     "en": "Tom Yum Goong",
     "nl": "Tom Yum Goong",
-    "thai": "ต้มยำกุ้ง"
+    "thai": "ต้มยำกุ้ง",
+    "ja": "トムヤムクン"
   },
   "category": "soup",
   "region": "central",
   "spice_level": "hot",
   "description": {
     "en": "Spicy and sour Thai soup with shrimp lemongrass and lime leaves",
-    "nl": "Pittige en zure Thaise soep met garnalen citroengras en limoenbladeren"
+    "nl": "Pittige en zure Thaise soep met garnalen citroengras en limoenbladeren",
+    "ja": "エビ、レモングラス、こぶみかんの葉を使ったスパイシー酸っぱいタイスープ"
   },
   "ingredients": [
     "shrimp",
@@ -33,11 +35,13 @@
   "seo": {
     "metaTitle": {
       "en": "Tom Yum Goong Recipe | Authentic Thai soup",
-      "nl": "Tom Yum Goong Recept | Authentieke Thaise soup"
+      "nl": "Tom Yum Goong Recept | Authentieke Thaise soup",
+      "ja": "トムヤムクンのレシピ | 本格タイスープ"
     },
     "metaDescription": {
       "en": "Learn about Tom Yum Goong (ต้มยำกุ้ง) - Spicy and sour Thai soup with shrimp lemongrass and lime leaves...",
-      "nl": "Leer over Tom Yum Goong (ต้มยำกุ้ง) - Pittige en zure Thaise soep met garnalen citroengras en limoenbladeren..."
+      "nl": "Leer over Tom Yum Goong (ต้มยำกุ้ง) - Pittige en zure Thaise soep met garnalen citroengras en limoenbladeren...",
+      "ja": "トムヤムクン（ต้มยำกุ้ง）について — エビを使ったスパイシーで酸っぱいタイの代表的スープ。"
     }
   },
   "tags": [
