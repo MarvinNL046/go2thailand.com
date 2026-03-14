@@ -6,7 +6,11 @@
     "nl": "Bangkok",
     "ja": "バンコク",
     "ko": "방콕",
-    "th": "กรุงเทพฯ"
+    "th": "กรุงเทพฯ",
+    "de": "Bangkok",
+    "fr": "Bangkok",
+    "ru": "Бангкок",
+    "zh": "曼谷"
   },
   "region": "Central",
   "province": "Bangkok",
@@ -15,7 +19,11 @@
     "nl": "De bruisende hoofdstad van Thailand, beroemd om streetfood, uitgaansleven, tempels en markten.",
     "ja": "タイの賑やかな首都。ストリートフード、ナイトライフ、寺院、ショッピングで有名。",
     "ko": "활기 넘치는 태국의 수도, 길거리 음식, 야경, 사원, 시장으로 유명.",
-    "th": "เมืองหลวงอันคึกคักของประเทศไทย มีชื่อเสียงด้านอาหารริมทาง ไลฟ์สไตล์ยามค่ำคืน วัดวาอาราม และตลาด"
+    "th": "เมืองหลวงอันคึกคักของประเทศไทย มีชื่อเสียงด้านอาหารริมทาง ไลฟ์สไตล์ยามค่ำคืน วัดวาอาราม และตลาด",
+    "de": "Die pulsierende Hauptstadt Thailands, berühmt für Straßenessen, Nachtleben, Tempel und Märkte.",
+    "fr": "La capitale animée de Thaïlande, célèbre pour la street food, la vie nocturne, ses temples et ses marchés.",
+    "ru": "Бангкок — шумная столица Таиланда, известная уличной едой, ночной жизнью, храмами и рынками.",
+    "zh": "泰国繁忙的首都，以街头小吃、夜生活、寺庙和市场闻名。"
   },
   "population": 10539000,
   "highlights": [
@@ -35,14 +43,22 @@
       "nl": "Ontdek Bangkok | Wat te doen in Bangkok?",
       "ja": "バンコク タイ — 完全観光ガイド 2026",
       "ko": "방콕 태국 — 여행 가이드 2026",
-      "th": "กรุงเทพฯ ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026"
+      "th": "กรุงเทพฯ ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "de": "Bangkok entdecken | Was kann man in Bangkok unternehmen?",
+      "fr": "Découvrir Bangkok | Que faire à Bangkok ?",
+      "ru": "Откройте для себя Бангкок | Чем заняться в Бангкоке?",
+      "zh": "探索曼谷 | 在曼谷做什么？"
     },
     "metaDescription": {
       "en": "Your guide to Bangkok, Thailand – tips, highlights, food, hotels.",
       "nl": "Jouw gids voor Bangkok, Thailand – tips, highlights, eten, hotels.",
       "ja": "バンコク（タイ）旅行ガイド — おすすめスポット、グルメ、ホテル情報。2026年更新。",
       "ko": "태국 방콕 여행 가이드 — 팁, 하이라이트, 맛집, 호텔 정보.",
-      "th": "คู่มือท่องเที่ยวกรุงเทพฯ ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026"
+      "th": "คู่มือท่องเที่ยวกรุงเทพฯ ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
+      "de": "Ihr Guide zu Bangkok, Thailand – Tipps, Highlights, Essen, Hotels.",
+      "fr": "Votre guide de Bangkok, Thaïlande – conseils, temps forts, nourriture, hôtels.",
+      "ru": "Ваш гид по Бангкоку, Таиланд — советы, достопримечательности, еда, отели.",
+      "zh": "您的曼谷指南——提示、亮点、美食、酒店。"
     }
   },
   "categories": {

@@ -6,7 +6,11 @@
     "nl": "Pai",
     "ja": "パーイ",
     "ko": "빠이",
-    "th": "ปาย"
+    "th": "ปาย",
+    "de": "Pai",
+    "fr": "Pai",
+    "ru": "Pai",
+    "zh": "Pai"
   },
   "region": "Northern",
   "province": "Mae Hong Son",
@@ -15,7 +19,11 @@
     "nl": "Een bohemien bergstadje genesteld in een vallei omringd door mistige bergtoppen, Pai is het ultieme backpackersparadijs in Noord-Thailand. Bekend om zijn relaxte hippiecultuur, adembenemende canyonuitzichten, warmwaterbronnen en de levendige walking street nachtmarkt.",
     "ja": "霧に包まれた山々に囲まれた谷間のボヘミアンな山間の街パーイは、バックパッカーの聖地であり、ヨガ、温泉、ナイトマーケット、壮大な自然が楽しめます。",
     "ko": "안개 낀 산봉우리에 둘러싸인 골짜기에 자리한 보헤미안 산간 마을인 빠이는 태국 북부의 궁극적인 배낭여행자 천국입니다. 여유로운 히피 문화, 멋진 캐니언 전망대, 온천, 활기찬 워킹스트리트 야시장으로 유명합니다.",
-    "th": "เมืองเล็กในหุบเขา บรรยากาศโบฮีเมียน มีสะพานไม้ไผ่ น้ำพุร้อน และคาเฟ่น่ารัก"
+    "th": "เมืองเล็กในหุบเขา บรรยากาศโบฮีเมียน มีสะพานไม้ไผ่ น้ำพุร้อน และคาเฟ่น่ารัก",
+    "de": "Eine bohemische Bergstadt, eingebettet in ein Tal, umgeben von nebligen Gipfeln. Pai ist das ultimative Backpacker-Paradies im Norden Thailands. Bekannt für seine entspannte Hippie-Kultur, atemberaubende Canyon-Aussichten, heiße Quellen und den lebhaften Nachtmarkt in der Walking Street.",
+    "fr": "Une ville de montagne bohème, nichée dans une vallée entourée de pics brumeux, Pai est le paradis ultime des routards dans le nord de la Thaïlande. Connue pour sa culture hippie détendue, ses panoramas canyons à couper le souffle, ses sources chaudes et son marché nocturne animé sur la Walking Street.",
+    "ru": "Бохемский горный город, спрятанный в долине и окружённый туманными вершинами. Pai — настоящий рай для бэкпекеров на севере Таиланда. Известен своей расслабленной хиппи‑культурой, потрясающими видами на каньоны, горячими источниками и ярким ночным рынком Walking Street.",
+    "zh": "一个波西米亚风格的山城，坐落在被雾气环绕的山峰包围的山谷中，Pai 是泰国北部背包客的终极天堂。以其悠闲的嬉皮文化、令人惊叹的峡谷观景点、温泉，以及充满活力的步行街夜市而闻名。"
   },
   "population": 2200,
   "highlights": [
@@ -35,14 +43,22 @@
       "nl": "Ontdek Pai | Wat te doen in Pai?",
       "ja": "パーイを満喫 | パーイの観光・見どころガイド",
       "ko": "빠이 태국 — 산간 마을 여행 가이드 2026",
-      "th": "ปาย ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026"
+      "th": "ปาย ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "de": "Pai entdecken | Was tun in Pai?",
+      "fr": "Découvrez Pai | Que faire à Pai ?",
+      "ru": "Откройте Pai | Чем заняться в Pai?",
+      "zh": "发现 Pai | 在 Pai 能做什么？"
     },
     "metaDescription": {
       "en": "Your guide to Pai, Thailand – tips, highlights, food, hotels and the best mountain scenery.",
       "nl": "Jouw gids voor Pai, Thailand – tips, highlights, eten, hotels en het mooiste berglandschap.",
       "ja": "タイ・パーイの旅行ガイド — おすすめスポット、グルメ、ホテル、山間の絶景情報をご紹介。",
       "ko": "빠이(태국) 완벽 여행 가이드: 캐니언, 온천, 야시장, 폭포. 가격, 팁, 치앙마이에서 가는 법.",
-      "th": "คู่มือท่องเที่ยวปาย ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026"
+      "th": "คู่มือท่องเที่ยวปาย ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
+      "de": "Ihr Reiseführer zu Pai, Thailand – Tipps, Highlights, Essen, Hotels und die beste Berglandschaft.",
+      "fr": "Votre guide de Pai, Thaïlande – conseils, points forts, gastronomie, hôtels et les plus beaux paysages de montagne.",
+      "ru": "Ваш гид по Pai, Таиланд — советы, главные достопримечательности, еда, отели и лучшие горные пейзажи.",
+      "zh": "您的 Pai，泰国旅游指南——贴士、亮点、美食、酒店，以及最美的山景。"
     }
   },
   "categories": {
