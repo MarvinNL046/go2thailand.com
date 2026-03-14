@@ -4,14 +4,16 @@
   "name": {
     "en": "Thai Fried Rice",
     "nl": "Thaise Gebakken Rijst",
-    "thai": "ข้าวผัด"
+    "thai": "ข้าวผัด",
+    "ja": "タイ風チャーハン"
   },
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Fragrant fried rice with jasmine rice fish sauce and fresh vegetables",
-    "nl": "Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten"
+    "nl": "Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten",
+    "ja": "ジャスミンライスをナンプラーと新鮮な野菜で炒めた香り高いチャーハン"
   },
   "ingredients": [
     "jasmine rice",
@@ -33,11 +35,13 @@
   "seo": {
     "metaTitle": {
       "en": "Thai Fried Rice Recipe | Authentic Thai main dish",
-      "nl": "Thaise Gebakken Rijst Recept | Authentieke Thaise main dish"
+      "nl": "Thaise Gebakken Rijst Recept | Authentieke Thaise main dish",
+      "ja": "タイ風チャーハンのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Thai Fried Rice (ข้าวผัด) - Fragrant fried rice with jasmine rice fish sauce and fresh vegetables...",
-      "nl": "Leer over Thaise Gebakken Rijst (ข้าวผัด) - Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten..."
+      "nl": "Leer over Thaise Gebakken Rijst (ข้าวผัด) - Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten...",
+      "ja": "タイ風チャーハン（ข้าวผัด）について — ジャスミンライスを使った香り高いタイのチャーハン。"
     }
   },
   "tags": [
