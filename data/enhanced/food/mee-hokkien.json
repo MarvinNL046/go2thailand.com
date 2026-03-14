@@ -5,7 +5,7 @@
     "en": "Mee Hokkien",
     "nl": "Mee Hokkien",
     "thai": "หมี่ฮกเกี้ยน",
-    "ja": "ミーホッケン"
+    "ko": "미 호끼엔"
   },
   "category": "main-dish",
   "region": "southern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Stir-fried Hokkien noodles with seafood Phuket style",
     "nl": "Gebakken Hokkien-noedels met zeevruchten Phuket stijl",
-    "ja": "プーケット風シーフード入り福建焼きそば"
+    "ko": "푸켓 스타일 해산물 호끼엔 볶음면"
   },
   "ingredients": [
     "yellow noodles",
@@ -36,12 +36,12 @@
     "metaTitle": {
       "en": "Mee Hokkien Recipe | Authentic Thai main dish",
       "nl": "Mee Hokkien Recept | Authentieke Thaise main dish",
-      "ja": "ミーホッケンのレシピ | 本格タイ料理"
+      "ko": "미 호끼엔 레시피 | 정통 푸켓 호끼엔 볶음면"
     },
     "metaDescription": {
       "en": "Learn about Mee Hokkien (หมี่ฮกเกี้ยน) - Stir-fried Hokkien noodles with seafood Phuket style...",
       "nl": "Leer over Mee Hokkien (หมี่ฮกเกี้ยน) - Gebakken Hokkien-noedels met zeevruchten Phuket stijl...",
-      "ja": "ミーホッケン（หมี่ฮกเกี้ยน）について — プーケット風シーフード入りの福建焼きそば。"
+      "ko": "미 호끼엔(หมี่ฮกเกี้ยน) - 새우, 오징어, 돼지고기를 넣은 푸켓 스타일 호끼엔 볶음면. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -668,6 +668,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "미 호끼엔은 태국 남부 푸켓의 대표적인 면 요리로, 중국 푸젠성(호끼엔) 이민자들이 가져온 요리가 태국 남부 스타일로 발전한 것입니다. 두꺼운 노란 면에 새우, 오징어, 돼지고기 등을 넣고 간장 소스로 볶아낸 풍미 깊은 볶음면입니다. 약 20분이면 완성할 수 있는 중간 난이도의 레시피로, 노란 면의 쫄깃한 식감과 해산물의 감칠맛, 중국식 케일(카이란)의 아삭함이 조화를 이룹니다. 푸켓의 독특한 중국-태국 퓨전 음식 문화를 대표하는 요리입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "노란 면 (바미)",
+          "purpose": "호끼엔 볶음면의 베이스가 되는 두꺼운 달걀면",
+          "substitutes": [
+            "신선한 노란 면",
+            "건조 노란 면",
+            "우동면 (대체용)"
+          ]
+        },
+        {
+          "name": "새우",
+          "purpose": "해산물의 감칠맛과 탱탱한 식감을 더하는 주재료",
+          "substitutes": [
+            "신선한 새우",
+            "냉동 새우",
+            "건새우"
+          ]
+        },
+        {
+          "name": "오징어",
+          "purpose": "쫄깃한 식감과 해산물 풍미를 더하는 재료",
+          "substitutes": [
+            "신선한 오징어",
+            "냉동 오징어",
+            "조개 (대체용)"
+          ]
+        },
+        {
+          "name": "돼지고기",
+          "purpose": "감칠맛과 풍미를 더하는 고기 재료",
+          "substitutes": [
+            "돼지고기 슬라이스",
+            "닭고기 (대체용)",
+            "두부 (채식 대체)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "웍 볶음 (고온 단시간 조리)",
+        "steps_overview": "미 호끼엔을 만들려면 뜨거운 웍에 기름을 두르고 마늘을 볶아 향을 냅니다. 돼지고기를 넣어 익힌 후 새우와 오징어를 넣어 빠르게 볶습니다. 노란 면을 넣고 간장, 굴소스로 간을 하며, 달걀을 풀어 넣고 중국식 케일(카이란)을 추가합니다. 강한 불에서 면에 훈연향(웍헤이)이 배도록 볶아 완성합니다.",
+        "cooking_tips": [
+          "면은 미리 살짝 데쳐두면 볶을 때 달라붙지 않습니다",
+          "웍의 온도가 충분히 높아야 훈연향(웍헤이)이 납니다",
+          "해산물은 과하게 익히면 질겨지므로 빠르게 볶으세요",
+          "간장은 두 종류(진간장 + 시유담)를 섞으면 깊은 맛이 납니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "미 호끼엔은 중국 푸젠성(호끼엔)에서 온 이민자들이 푸켓에 정착하면서 가져온 요리입니다. 푸켓의 풍부한 해산물과 태국 남부의 양념이 더해져 원래의 호끼엔면과는 다른 독특한 푸켓 버전으로 발전했습니다.",
+        "cultural_importance": "이 요리는 푸켓의 바바-뻬라나칸(중국-태국 혼혈) 음식 문화를 대표합니다. 푸켓 올드타운의 중국식 샵하우스 레스토랑에서 즐기는 것이 가장 정통적이며, 푸켓을 방문하는 여행자들의 필수 체험 메뉴 중 하나입니다.",
+        "traditional_occasions": [
+          "가족 모임",
+          "축제 음식",
+          "일상 식사",
+          "관광객 필수 체험"
+        ]
+      },
+      "variations": [
+        {
+          "name": "미 호끼엔 전통식",
+          "description": "새우, 오징어, 돼지고기가 모두 들어간 가장 전통적인 버전입니다."
+        },
+        {
+          "name": "미 호끼엔 해산물 스페셜",
+          "description": "게, 가리비 등 추가 해산물을 넣은 풍성한 버전입니다."
+        },
+        {
+          "name": "채식 미 호끼엔",
+          "description": "해산물과 고기 대신 두부와 채소를 사용한 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "라임 웨지",
+          "칠리 소스",
+          "식초 절임 고추"
+        ],
+        "presentation": "접시에 담아 라임과 함께 푸켓 스타일로 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락 또는 젓가락으로 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "푸켓 올드타운 중국식 레스토랑",
+          "미똤뽀 (푸켓) — 유명 전문점",
+          "현지 식당",
+          "야시장"
+        ],
+        "street_food_areas": [
+          "푸켓 올드타운",
+          "야시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
