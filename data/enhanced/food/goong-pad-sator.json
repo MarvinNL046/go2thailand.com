@@ -5,7 +5,7 @@
     "en": "Goong Pad Sator",
     "nl": "Goong Pad Sator",
     "thai": "กุ้งผัดสะตอ",
-    "ja": "グンパッサトー"
+    "ko": "꿍팟사또"
   },
   "category": "main-dish",
   "region": "southern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Prawns stir-fried with stink beans",
     "nl": "Garnalen geroerbakt met stinkbonen",
-    "ja": "エビとサトー豆（臭い豆）のカレーペースト炒め、南タイの名物料理"
+    "ko": "사또(냄새콩)와 함께 볶은 새우"
   },
   "ingredients": [
     "prawns",
@@ -34,12 +34,12 @@
     "metaTitle": {
       "en": "Goong Pad Sator Recipe | Authentic Thai main dish",
       "nl": "Goong Pad Sator Recept | Authentieke Thaise main dish",
-      "ja": "グンパッサトーのレシピ | 本格タイ料理"
+      "ko": "꿍팟사또 레시피 | 정통 태국 남부 새우 볶음"
     },
     "metaDescription": {
       "en": "Learn about Goong Pad Sator (กุ้งผัดสะตอ) - Prawns stir-fried with stink beans...",
       "nl": "Leer over Goong Pad Sator (กุ้งผัดสะตอ) - Garnalen geroerbakt met stinkbonen...",
-      "ja": "グンパッサトー（กุ้งผัดสะตอ）について — エビとサトー豆のカレーペースト炒め。南タイの名物料理。"
+      "ko": "꿍팟사또(กุ้งผัดสะตอ) - 남부 태국 특산 냄새콩과 새우를 볶은 매콤한 요리. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -666,6 +666,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "꿍팟사또는 태국 남부의 대표적인 볶음 요리로, 신선한 새우와 남부 태국 특산 사또(냄새콩/스팅크빈)를 까삐(새우 페이스트)와 고추로 매콤하게 볶아낸 요리입니다. 약 15분이면 완성할 수 있는 간단한 레시피로, 남부 태국 요리의 강렬한 맛을 경험할 수 있습니다. 새우, 사또, 까삐의 조합이 독특하고 조화로운 풍미를 만들어내며, 남부 태국에서는 빠질 수 없는 인기 메뉴입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "새우 (대하)",
+          "purpose": "이 요리의 주재료로, 신선한 새우의 탱탱한 식감이 핵심입니다",
+          "substitutes": [
+            "왕새우",
+            "중하",
+            "오징어 (대체용)"
+          ]
+        },
+        {
+          "name": "사또 (냄새콩/스팅크빈)",
+          "purpose": "남부 태국 특산 콩으로, 독특한 향과 식감이 이 요리의 정체성입니다",
+          "substitutes": [
+            "냉동 사또",
+            "완두콩 (대체용)",
+            "잠두 (대체용)"
+          ]
+        },
+        {
+          "name": "까삐 (새우 페이스트)",
+          "purpose": "깊은 감칠맛과 짭짤함을 더하는 핵심 조미료",
+          "substitutes": [
+            "새우장",
+            "멸치젓",
+            "액젓 (대체용)"
+          ]
+        },
+        {
+          "name": "고추 (프릭키누)",
+          "purpose": "매콤한 맛을 더하는 남부 태국 요리의 필수 재료",
+          "substitutes": [
+            "건고추",
+            "고추 페이스트",
+            "프릭치파 (큰 고추)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "웍 볶음 (고온 단시간 조리)",
+        "steps_overview": "꿍팟사또를 만들려면 먼저 까삐와 고추를 볶아 향을 낸 후, 마늘을 넣고 볶습니다. 새우를 넣어 색이 변할 때까지 볶은 다음, 사또를 넣고 액젓과 설탕으로 간을 합니다. 강한 불에서 빠르게 볶아 새우의 식감과 사또의 아삭함을 살리는 것이 포인트입니다.",
+        "cooking_tips": [
+          "새우는 과하게 익히면 질겨지므로 빠르게 볶으세요",
+          "사또는 너무 오래 볶으면 물러지니 마지막에 넣으세요",
+          "까삐는 먼저 볶아 향을 충분히 내야 깊은 맛이 납니다",
+          "매운맛이 걱정되면 고추의 양을 줄이세요"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "꿍팟사또는 태국 남부 해안 지역에서 유래한 요리로, 이 지역에서 풍부하게 자라는 사또(파키아 콩)와 신선한 해산물을 결합한 남부 태국의 대표적인 가정식입니다.",
+        "cultural_importance": "이 요리는 남부 태국 음식 문화의 핵심을 보여줍니다. 사또의 독특한 향은 처음에는 강하게 느껴질 수 있지만, 남부 태국인들에게는 고향의 맛이자 자부심의 상징입니다.",
+        "traditional_occasions": [
+          "일상 식사",
+          "가족 모임",
+          "해산물 레스토랑",
+          "야시장"
+        ]
+      },
+      "variations": [
+        {
+          "name": "꿍팟사또 전통식",
+          "description": "까삐를 넉넉히 사용한 가장 전통적이고 풍미 강한 버전입니다."
+        },
+        {
+          "name": "꿍팟사또 무 끄롭 (바삭한 삼겹살)",
+          "description": "새우 대신 바삭하게 튀긴 삼겹살을 사용한 인기 변형입니다."
+        },
+        {
+          "name": "채식 팟사또",
+          "description": "두부와 버섯을 사용한 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "재스민 쌀밥",
+          "신선한 채소",
+          "오믈렛 (카이찌아오)"
+        ],
+        "presentation": "접시에 담아 전통 남부 태국 스타일로 밥과 함께 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 밥과 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 남부 태국 레스토랑",
+          "해산물 전문 식당",
+          "전통 시장",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "야시장",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
