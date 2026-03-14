@@ -4,14 +4,16 @@
   "name": {
     "en": "Pai",
     "nl": "Pai",
-    "ja": "パーイ"
+    "ja": "パーイ",
+    "ko": "빠이"
   },
   "region": "Northern",
   "province": "Mae Hong Son",
   "description": {
     "en": "A bohemian mountain town nestled in a valley surrounded by misty peaks, Pai is the ultimate backpacker paradise in northern Thailand. Known for its laid-back hippie culture, stunning canyon viewpoints, hot springs, and vibrant walking street night market.",
     "nl": "Een bohemien bergstadje genesteld in een vallei omringd door mistige bergtoppen, Pai is het ultieme backpackersparadijs in Noord-Thailand. Bekend om zijn relaxte hippiecultuur, adembenemende canyonuitzichten, warmwaterbronnen en de levendige walking street nachtmarkt.",
-    "ja": "霧に包まれた山々に囲まれた谷間のボヘミアンな山間の街パーイは、バックパッカーの聖地であり、ヨガ、温泉、ナイトマーケット、壮大な自然が楽しめます。"
+    "ja": "霧に包まれた山々に囲まれた谷間のボヘミアンな山間の街パーイは、バックパッカーの聖地であり、ヨガ、温泉、ナイトマーケット、壮大な自然が楽しめます。",
+    "ko": "안개 낀 산봉우리에 둘러싸인 골짜기에 자리한 보헤미안 산간 마을인 빠이는 태국 북부의 궁극적인 배낭여행자 천국입니다. 여유로운 히피 문화, 멋진 캐니언 전망대, 온천, 활기찬 워킹스트리트 야시장으로 유명합니다."
   },
   "population": 2200,
   "highlights": [
@@ -29,29 +31,34 @@
     "metaTitle": {
       "en": "Discover Pai | What to do in Pai?",
       "nl": "Ontdek Pai | Wat te doen in Pai?",
-      "ja": "パーイを満喫 | パーイの観光・見どころガイド"
+      "ja": "パーイを満喫 | パーイの観光・見どころガイド",
+      "ko": "빠이 태국 — 산간 마을 여행 가이드 2026"
     },
     "metaDescription": {
       "en": "Your guide to Pai, Thailand – tips, highlights, food, hotels and the best mountain scenery.",
       "nl": "Jouw gids voor Pai, Thailand – tips, highlights, eten, hotels en het mooiste berglandschap.",
-      "ja": "タイ・パーイの旅行ガイド — おすすめスポット、グルメ、ホテル、山間の絶景情報をご紹介。"
+      "ja": "タイ・パーイの旅行ガイド — おすすめスポット、グルメ、ホテル、山間の絶景情報をご紹介。",
+      "ko": "빠이(태국) 완벽 여행 가이드: 캐니언, 온천, 야시장, 폭포. 가격, 팁, 치앙마이에서 가는 법."
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Pai",
       "nl": "Beste restaurants en streetfood in Pai",
-      "ja": "パーイのおすすめレストラン＆ストリートフード"
+      "ja": "パーイのおすすめレストラン＆ストリートフード",
+      "ko": "빠이 추천 레스토랑과 길거리 음식"
     },
     "hotels": {
       "en": "Top hotels in Pai | Tips & deals",
       "nl": "Beste hotels in Pai | Tips & aanbiedingen",
-      "ja": "パーイのおすすめホテル｜お得な情報＆アドバイス"
+      "ja": "パーイのおすすめホテル｜お得な情報＆アドバイス",
+      "ko": "빠이 추천 호텔 | 팁 & 특가"
     },
     "attractions": {
       "en": "Top attractions in Pai",
       "nl": "Top bezienswaardigheden in Pai",
-      "ja": "パーイの人気観光スポット"
+      "ja": "パーイの人気観光スポット",
+      "ko": "빠이 인기 관광 명소"
     }
   },
   "tags": [
@@ -68,12 +75,14 @@
       "name": {
         "en": "Land Split (Pam Bok Waterfall area)",
         "nl": "Land Split (Pam Bok Waterval gebied)",
-        "ja": "ランドスプリット（パムボック滝エリア）"
+        "ja": "ランドスプリット（パムボック滝エリア）",
+        "ko": "랜드 스플릿 (팜복 폭포 지역)"
       },
       "description": {
         "en": "A bizarre geological crack in the earth that split a farmer's land in two, now a quirky attraction with a small cafe serving fresh fruit shakes amid lush gardens.",
         "nl": "Een bizarre geologische scheur in de aarde die het land van een boer in tweeen spleet, nu een bijzondere attractie met een klein cafe dat verse fruitsap serveert temidden van weelderige tuinen.",
-        "ja": "農家の土地が二つに割れた奇妙な地質現象の跡地で、今ではユニークな観光スポットになっています。割れ目の中を歩いて探検でき、無料で見学できます。"
+        "ja": "農家の土地が二つに割れた奇妙な地質現象の跡地で、今ではユニークな観光スポットになっています。割れ目の中を歩いて探検でき、無料で見学できます。",
+        "ko": "2008년 지진으로 땅이 갈라진 독특한 자연 현상으로, 현지 농부가 관리하는 소박한 관광 명소입니다."
       },
       "type": "nature"
     },
@@ -81,12 +90,14 @@
       "name": {
         "en": "Lod Cave (Tham Lod near Pai)",
         "nl": "Lod Grot (Tham Lod bij Pai)",
-        "ja": "ロート洞窟（パーイ近郊のタム・ロート）"
+        "ja": "ロート洞窟（パーイ近郊のタム・ロート）",
+        "ko": "롯 동굴 (탐롯)"
       },
       "description": {
         "en": "A spectacular cave system about 70 km north of Pai with underground river, massive stalactites, and ancient coffin cave paintings. Best visited at dusk to see millions of swifts returning to roost.",
         "nl": "Een spectaculair grottensysteem zo'n 70 km ten noorden van Pai met een ondergrondse rivier, enorme stalactieten en oude doodkistgrotschilderingen. Het beste te bezoeken bij schemering om miljoenen gierzwaluwen te zien terugkeren.",
-        "ja": "パーイの北約70kmにある壮大な洞窟群で、地下河川、巨大な鍾乳石、先史時代の木棺が見られます。ガイド付きの筏で洞窟内の川を渡る体験は圧巻です。"
+        "ja": "パーイの北約70kmにある壮大な洞窟群で、地下河川、巨大な鍾乳石、先史時代の木棺が見られます。ガイド付きの筏で洞窟内の川を渡る体験は圧巻です。",
+        "ko": "빠이 근교의 장대한 석회암 동굴로, 대나무 뗏목을 타고 동굴 속 강을 따라 탐험할 수 있습니다."
       },
       "type": "nature"
     },
@@ -94,12 +105,14 @@
       "name": {
         "en": "Pai Treehouse",
         "nl": "Pai Boomhut",
-        "ja": "パーイ・ツリーハウス"
+        "ja": "パーイ・ツリーハウス",
+        "ko": "빠이 트리하우스"
       },
       "description": {
         "en": "A giant banyan tree turned into a viewpoint platform in the middle of rice paddies, offering stunning 360-degree views of the valley especially at sunset.",
         "nl": "Een enorme banyan-boom omgebouwd tot een uitkijkplatform midden in de rijstvelden, met adembenemend 360-graden uitzicht over de vallei, vooral bij zonsondergang.",
-        "ja": "田園地帯の真ん中にある巨大な菩提樹を利用した展望台で、360度の水田と山々のパノラマビューが楽しめます。写真映えするスポットとして人気です。"
+        "ja": "田園地帯の真ん中にある巨大な菩提樹を利用した展望台で、360度の水田と山々のパノラマビューが楽しめます。写真映えするスポットとして人気です。",
+        "ko": "나무 위에 지어진 독특한 숙소로, 논밭과 산 풍경을 내려다보는 특별한 경험을 제공합니다."
       },
       "type": "nature"
     },
@@ -107,12 +120,14 @@
       "name": {
         "en": "Cafe Amazon at Pai River",
         "nl": "Cafe Amazon bij de Pai Rivier",
-        "ja": "パーイ川沿いのカフェ・アマゾン"
+        "ja": "パーイ川沿いのカフェ・アマゾン",
+        "ko": "카페 아마존 빠이강변"
       },
       "description": {
         "en": "Hidden riverside cafe downstream from the main town where locals gather for cold coffee and river swimming on lazy afternoons.",
         "nl": "Verborgen cafe aan de rivier stroomafwaarts van het centrum waar lokale bevolking samenkomt voor koude koffie en zwemmen in de rivier op luie middagen.",
-        "ja": "街の中心から川沿いに少し下った隠れ家的なリバーサイドカフェで、地元の人々がコールドドリンクを楽しみに集まります。静かで穏やかな雰囲気が魅力です。"
+        "ja": "街の中心から川沿いに少し下った隠れ家的なリバーサイドカフェで、地元の人々がコールドドリンクを楽しみに集まります。静かで穏やかな雰囲気が魅力です。",
+        "ko": "빠이강변에 위치한 카페로, 한적한 강 풍경을 즐기며 커피를 마실 수 있는 숨겨진 휴식처입니다."
       },
       "type": "restaurant"
     },
@@ -120,12 +135,14 @@
       "name": {
         "en": "Yun Lai Viewpoint",
         "nl": "Yun Lai Uitkijkpunt",
-        "ja": "ユンライ・ビューポイント"
+        "ja": "ユンライ・ビューポイント",
+        "ko": "윤라이 전망대"
       },
       "description": {
         "en": "A lesser-known sunrise viewpoint in the Chinese Village with panoramic views over the misty Pai valley, far less crowded than Pai Canyon. Serves Chinese tea at the top.",
         "nl": "Een minder bekend zonsopgang-uitkijkpunt in het Chinese Dorp met panoramisch uitzicht over de mistige Pai-vallei, veel minder druk dan Pai Canyon. Serveert Chinese thee op de top.",
-        "ja": "チャイニーズビレッジにあるあまり知られていない日の出スポットで、パーイの谷を一望するパノラマビューが楽しめます。中国茶を飲みながら朝霧を眺められます。"
+        "ja": "チャイニーズビレッジにあるあまり知られていない日の出スポットで、パーイの谷を一望するパノラマビューが楽しめます。中国茶を飲みながら朝霧を眺められます。",
+        "ko": "중국계 산촌 마을에 있는 전망대로, 빠이 골짜기의 360도 파노라마를 감상할 수 있습니다."
       },
       "type": "nature"
     }
@@ -677,6 +694,40 @@
       "bestTimeToVisit": "Идеальное время для посещения Пая — с ноября по февраль, когда на севере Таиланда стоит прохладная сухая погода, прекрасно подходящая для прогулок на свежем воздухе. Дневная температура 20–25°C со свежими утрами, идеальными для рассветных походов к каньону Пай, а прохладные вечера — для прогулок по Walking Street. С марта по май жарко и пыльно, температура поднимается выше 35°C, что делает активный отдых менее комфортным, несмотря на ясное небо. Сезон муссонов с июня по октябрь приносит сильные дожди, превращающие пейзаж в пышную зелень, но затрудняющие треккинг и посещение водопадов. Ноябрь — идеальное время прибытия: горный туман рассеивается, температура падает. Декабрь–январь привлекает больше всего гостей. Февраль остаётся отличным с прохладной погодой и меньшей загруженностью. Для баланса хорошей погоды и отсутствия толп идеальны начало ноября или конец января.",
       "safetyTips": "Пай в целом очень безопасен для путешественников при соблюдении обычных мер предосторожности. Сообщество приветливо, преступления против туристов минимальны, хотя стандартные правила безопасности действуют — не демонстрируйте ценные вещи, храните имущество в безопасности, для поздних поездок используйте зарегистрированные такси или Grab, а не ходите в одиночку в темноте. Аренда мотоциклов распространена, но требует осторожности: убедитесь в наличии адекватной страховки, носите шлем (требование закона), учитывайте, что дорожные условия могут быть сложными в сезон дождей. Расслабленная атмосфера городка иногда маскирует реальность строгих антинаркотических законов Таиланда — хранение любых контролируемых веществ грозит суровыми наказаниями, включая длительные сроки заключения, поэтому полностью избегайте наркотиков, несмотря на их доступность. Будьте осторожны с навязчивыми продавцами или мошенничеством на рынке Walking Street; выбирайте проверенных торговцев и относитесь с подозрением к слишком выгодным предложениям. Водопроводная вода в Пае в целом пригодна для питья, но многие путешественники предпочитают бутилированную. Местные клиники справляются с мелкими проблемами, но серьёзная медицинская помощь требует поездки в Чиангмай.",
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "빠이는 태국 북부 매홍손 지방의 푸른 골짜기에 자리한 보헤미안 산간 마을입니다. 치앙마이에서 762개의 커브를 따라 약 3시간을 달려야 도착하는 이 작은 마을은, 1990년대부터 배낭여행자들의 성지로 자리잡았습니다.\n\n빠이 캐니언은 마을의 가장 인기 있는 명소로, 좁은 능선을 따라 걸으며 아래로 펼쳐진 골짜기의 장관을 감상할 수 있습니다. 특히 일몰 시간의 풍경이 압도적입니다. 타이야이 온천에서는 자연 온천수에 몸을 담그며 정글 속에서 힐링할 수 있습니다.\n\n워킹스트리트 야시장은 매일 저녁 열리며, 수제 주얼리, 보헤미안 패션, 그리고 다양한 길거리 음식을 맛볼 수 있습니다. 빠이의 매력은 시간이 느리게 흐르는 듯한 여유로운 분위기에 있습니다. 카페에서 책을 읽고, 오토바이로 폭포를 탐험하고, 요가 수업에 참여하는 것이 빠이의 일상입니다.",
+      "hidden_gems": [
+        {
+          "name": "랜드 스플릿",
+          "description": "지진으로 땅이 갈라진 독특한 자연 현상으로, 현지 농부가 관리합니다."
+        },
+        {
+          "name": "롯 동굴",
+          "description": "대나무 뗏목으로 동굴 속 강을 탐험하는 장대한 석회암 동굴입니다."
+        },
+        {
+          "name": "빠이 트리하우스",
+          "description": "나무 위 숙소에서 논밭과 산 풍경을 내려다보는 독특한 경험입니다."
+        },
+        {
+          "name": "카페 아마존 빠이강변",
+          "description": "강변의 한적한 카페로, 여유로운 휴식처입니다."
+        },
+        {
+          "name": "윤라이 전망대",
+          "description": "빠이 골짜기의 360도 파노라마를 감상할 수 있는 전망대입니다."
+        }
+      ],
+      "authentic_experiences": [],
+      "foodie_adventures": [],
+      "overview": "빠이는 매홍손 지방의 푸른 골짜기에 자리한 보헤미안 산간 마을로, 태국 북부 배낭여행자들의 성지입니다. 캐니언, 온천, 폭포, 워킹스트리트 야시장이 주요 볼거리입니다.",
+      "thingsToDo": "빠이 캐니언에서 일몰을 감상하고, 타이야이 온천에서 정글 속 힐링을 즐기세요. 빠이 대나무 다리를 건너고, 모파엥 폭포에서 수영하세요. 매일 저녁 열리는 워킹스트리트 야시장에서 길거리 음식과 쇼핑을 즐기세요.",
+      "whereToStay": "빠이는 모든 예산에 맞는 숙소를 제공합니다. 시내 중심에 게스트하우스와 호스텔이 밀집해 있고, 외곽에는 논밭이 보이는 방갈로와 리조트가 있습니다. 성수기(11-2월)에는 예약을 추천합니다.",
+      "gettingAround": "빠이는 컴팩트하여 시내 중심은 도보로 충분합니다. 외곽 명소(캐니언, 온천, 폭포)는 오토바이 대여(150-250바트/일)가 가장 편리합니다. 762개 커브의 산악 도로이므로 운전에 자신 있는 분만 오토바이를 추천합니다.",
+      "bestTimeToVisit": "빠이의 최적 방문 시기는 11월부터 2월까지로, 서늘하고 건조한 날씨가 이어집니다. 12-1월 밤 기온은 10°C 이하로 떨어질 수 있으니 따뜻한 옷을 준비하세요. 3-4월은 연무 시즌입니다.",
+      "safetyTips": "빠이는 안전한 마을이지만, 오토바이 사고가 빈번합니다. 반드시 헬멧을 착용하고, 운전 경험이 적다면 대여를 피하세요. 762개 커브의 산악 도로는 특히 주의가 필요합니다. 밤에 비포장 도로 운전은 피하세요.",
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
