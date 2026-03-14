@@ -4,14 +4,16 @@
   "name": {
     "en": "Som Tam",
     "nl": "Som Tam",
-    "thai": "ส้มตำ"
+    "thai": "ส้มตำ",
+    "ja": "ソムタム"
   },
   "category": "salad",
   "region": "northeastern",
   "spice_level": "medium",
   "description": {
     "en": "Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts",
-    "nl": "Pittige groene papajasalade met tomaten limoensap vissaus en pinda's"
+    "nl": "Pittige groene papajasalade met tomaten limoensap vissaus en pinda's",
+    "ja": "トマト、ライム、ナンプラー、ピーナッツで和えたスパイシーな青パパイヤサラダ"
   },
   "ingredients": [
     "green papaya",
@@ -34,11 +36,13 @@
   "seo": {
     "metaTitle": {
       "en": "Som Tam Recipe | Authentic Thai salad",
-      "nl": "Som Tam Recept | Authentieke Thaise salad"
+      "nl": "Som Tam Recept | Authentieke Thaise salad",
+      "ja": "ソムタムのレシピ | 本格タイサラダ"
     },
     "metaDescription": {
       "en": "Learn about Som Tam (ส้มตำ) - Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts...",
-      "nl": "Leer over Som Tam (ส้มตำ) - Pittige groene papajasalade met tomaten limoensap vissaus en pinda's..."
+      "nl": "Leer over Som Tam (ส้มตำ) - Pittige groene papajasalade met tomaten limoensap vissaus en pinda's...",
+      "ja": "ソムタム（ส้มตำ）について — スパイシーな青パパイヤサラダ。タイを代表する一品。"
     }
   },
   "tags": [
