@@ -1,0 +1,133 @@
+{
+  "seo": {
+    "title": "Pattaya: Complete Travel Guide 2026 — Top Things To Do",
+    "metaDescription": "Plan your Pattaya trip with our 2026 guide. Best attractions, beaches, nightlife, hotels from budget to luxury, and transport from Bangkok in under 2 hours.",
+    "slug": "pattaya"
+  },
+  "citySlug": "pattaya",
+  "cityName": "Pattaya",
+  "overview": "Pattaya is a coastal city on the eastern Gulf of Thailand, just 150 km southeast of Bangkok. Once known primarily for its nightlife, the city has reinvented itself into a surprisingly versatile destination with family-friendly attractions, water parks, island day trips, and a thriving food scene. The beachfront stretches from the quiet northern shores of Naklua and Wongamat through bustling Central Pattaya to the laid-back Jomtien area in the south. With easy bus connections from Bangkok (under 2 hours), Pattaya works as both a weekend escape and a week-long base for exploring Thailand's eastern seaboard.",
+  "highlights": [
+    "Sanctuary of Truth — a 105-meter tall hand-carved wooden temple on the Naklua coastline, still under construction since 1981",
+    "Walking Street — Pattaya's famous 1-km neon-lit strip of clubs, bars, and seafood restaurants in South Pattaya",
+    "Koh Larn (Coral Island) — crystal-clear water and white sand beaches just a 30-minute ferry from Bali Hai Pier",
+    "Nong Nooch Tropical Garden — a 500-acre botanical garden with cultural shows, elephant exhibits, and themed gardens",
+    "Ramayana Water Park — Southeast Asia's largest water park with 50+ slides and attractions",
+    "Jomtien Beach — a quieter 6-km stretch of sand popular with families, joggers, and kite surfers",
+    "Pattaya Floating Market — a Four Regions-themed market with canal boat rides, street food, and handicrafts",
+    "Under 2 hours from Bangkok by bus — one of the easiest beach escapes from the capital",
+    "Thepprasit Night Market — buzzing weekend market with Thai street food from 30 THB and cheap shopping",
+    "Year-round warm weather with peak season from November to February"
+  ],
+  "bestTimeToVisit": {
+    "peak": "Nov–Feb: Cool, dry season with temperatures around 25–31°C. Best weather for beaches and outdoor activities. Busiest period with highest hotel prices, especially around Christmas and New Year.",
+    "shoulder": "Mar–May: Hot season with temperatures reaching 35°C+. Still mostly dry. Songkran (Thai New Year) in April brings massive water fights. Hotel prices moderate except during Songkran week.",
+    "lowSeason": "Jun–Oct: Rainy season with afternoon showers, but mornings are usually clear. Hotel prices drop 30–50%. Fewer crowds at attractions. Rain rarely lasts all day — still very visitiable.",
+    "recommendation": "Visit November to February for the best beach weather. For value, June and September offer low-season prices with manageable rain. Avoid the Songkran week in April unless you want to join the water fights."
+  },
+  "topAttractions": [
+    {
+      "name": "Sanctuary of Truth (Prasat Satchatham)",
+      "description": "A 105-meter tall wooden temple entirely hand-carved from teak, featuring intricate sculptures inspired by Hindu and Buddhist philosophy. Construction began in 1981 and continues today with artisans working on-site. The building stands dramatically on the Naklua coastline overlooking the sea. Tours include hard hats as sections are still being carved.",
+      "type": "landmark",
+      "location": "Naklua, North Pattaya",
+      "entranceFee": "500 THB (~$14 USD) for adults, 250 THB for children",
+      "tips": ["Visit in the late afternoon when sunlight illuminates the carvings", "Dolphin shows and longtail boat rides available for extra fee", "Allow 1.5–2 hours for the full tour"],
+      "googleMapsUrl": "https://maps.google.com/?q=Sanctuary+of+Truth+Pattaya",
+      "sources": [{"sourceName": "Sanctuary of Truth Official", "sourceUrl": "https://sanctuaryoftruthmuseum.com/visit-us/", "lastVerified": "2026-03-14"}]
+    },
+    {
+      "name": "Nong Nooch Tropical Garden",
+      "description": "A sprawling 500-acre botanical garden featuring themed sections including a French garden, cactus garden, and one of the world's largest palm collections. Daily cultural shows include traditional Thai dance, martial arts, and elephant demonstrations. The grounds also include a dinosaur valley and butterfly hill.",
+      "type": "nature",
+      "location": "Najomtien, 15 km south of Pattaya",
+      "entranceFee": "500 THB (~$14 USD) garden only; 800 THB (~$22 USD) with shows",
+      "tips": ["The cultural show at 10:30 AM and 3:00 PM is included with the combo ticket", "Rent a golf cart (300 THB) to cover the vast grounds comfortably", "Combine with a visit to Silverlake Vineyard nearby"],
+      "googleMapsUrl": "https://maps.google.com/?q=Nong+Nooch+Tropical+Garden+Pattaya",
+      "sources": [{"sourceName": "Klook", "sourceUrl": "https://www.klook.com/en-US/activity/335-nong-nooch-tropical-garden-pattaya/", "lastVerified": "2026-03-14"}]
+    },
+    {
+      "name": "Koh Larn (Coral Island)",
+      "description": "A small island 7.5 km offshore with six beaches of white sand and crystal-clear water — far cleaner than Pattaya's mainland beaches. Tawaen Beach is the busiest, while Tien Beach and Nual Beach offer more tranquility. Activities include snorkeling, parasailing, jet skiing, and glass-bottom boat tours.",
+      "type": "nature",
+      "location": "7.5 km offshore from Bali Hai Pier",
+      "entranceFee": "Ferry 30 THB one-way; speedboat 150–300 THB per person",
+      "tips": ["Take the public ferry from Bali Hai Pier (30 min) rather than a private speedboat to save money", "Go to Tien Beach or Nual Beach to avoid the Tawaen Beach crowds", "Last ferry back departs at 6:30 PM — don't miss it"],
+      "googleMapsUrl": "https://maps.google.com/?q=Koh+Larn+Pattaya",
+      "sources": [{"sourceName": "TripAdvisor", "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g293919-d317643-Reviews-Koh_Larn-Pattaya_Chonburi_Province.html", "lastVerified": "2026-03-14"}]
+    },
+    {
+      "name": "Walking Street",
+      "description": "Pattaya's most famous nightlife strip — a 1-km pedestrian-only road (after 6 PM) in South Pattaya lined with clubs, go-go bars, beer bars, live music venues, and seafood restaurants. The street comes alive at night with neon signs, street performers, and a carnival atmosphere. Also home to some excellent rooftop bars and seafood places.",
+      "type": "nightlife",
+      "location": "South Pattaya, off Beach Road",
+      "entranceFee": "Free to walk; drinks from 100–200 THB",
+      "tips": ["Walk the full length before committing to a bar — prices vary widely", "Seafood restaurants at the pier end offer fresh catches with bay views", "Go-go bars have cover charges — always ask before entering"],
+      "googleMapsUrl": "https://maps.google.com/?q=Walking+Street+Pattaya",
+      "sources": [{"sourceName": "Lonely Planet", "sourceUrl": "https://www.lonelyplanet.com/thailand/pattaya", "lastVerified": "2026-03-14"}]
+    },
+    {
+      "name": "Ramayana Water Park",
+      "description": "Southeast Asia's largest water park, spanning 18 hectares with over 50 rides and slides set among lush tropical landscaping and Thai-themed architecture. Highlights include the Aqualoop freefall slide, lazy river, and a massive wave pool. Cleaner and better maintained than most water parks in the region.",
+      "type": "adventure",
+      "location": "Na Jomtien, 20 km south of Pattaya",
+      "entranceFee": "1,190 THB (~$33 USD) adults; 890 THB (~$25 USD) children. Online discounts available",
+      "tips": ["Buy tickets online for 20–30% discount", "Arrive at opening (10 AM) to enjoy the big slides without queues", "Lockers and towels available for rent"],
+      "googleMapsUrl": "https://maps.google.com/?q=Ramayana+Water+Park+Pattaya",
+      "sources": [{"sourceName": "Ramayana Water Park", "sourceUrl": "https://www.ramayanawaterpark.com", "lastVerified": "2026-03-14"}]
+    },
+    {
+      "name": "Pattaya Floating Market",
+      "description": "A purpose-built floating market representing Thailand's four regions (North, Northeast, Central, South) with over 100 shops and food stalls along wooden walkways and canals. Ride a wooden boat through the market while browsing handicrafts, souvenirs, and fresh Thai food. More tourist-oriented than authentic, but fun and photogenic.",
+      "type": "culture",
+      "location": "Sukhumvit Road, South Pattaya",
+      "entranceFee": "200 THB (~$6 USD) entry; boat ride 200 THB extra",
+      "tips": ["The boat ride adds to the atmosphere — worth the extra 200 THB", "Food stalls in the Isan (Northeast) section have the best somtam and grilled chicken", "Visit in the morning for cooler temps and smaller crowds"],
+      "googleMapsUrl": "https://maps.google.com/?q=Pattaya+Floating+Market",
+      "sources": [{"sourceName": "TripAdvisor", "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g293919-d2279951-Reviews-Pattaya_Floating_Market-Pattaya_Chonburi_Province.html", "lastVerified": "2026-03-14"}]
+    },
+    {
+      "name": "Art in Paradise",
+      "description": "An interactive 3D art museum with over 150 hand-painted optical illusion artworks spread across themed zones (Aquatic, Safari, Classic Art, Egyptian, Dinosaur). Visitors become part of the paintings when photographed from the right angle. A fun rainy-day option and one of Pattaya's most Instagram-friendly spots.",
+      "type": "culture",
+      "location": "Second Road, Central Pattaya",
+      "entranceFee": "500 THB (~$14 USD) adults; 300 THB (~$8 USD) children",
+      "tips": ["Bring a friend — the illusions work best with someone in the photo", "The painted footprint markers show you exactly where to stand", "Allow 1–1.5 hours for the full museum"],
+      "googleMapsUrl": "https://maps.google.com/?q=Art+in+Paradise+Pattaya",
+      "sources": [{"sourceName": "Art in Paradise Official", "sourceUrl": "https://www.artinparadise.co.th", "lastVerified": "2026-03-14"}]
+    },
+    {
+      "name": "Khao Phra Tamnak (Pattaya Viewpoint)",
+      "description": "A hilltop viewpoint between Pattaya and Jomtien offering panoramic views of the bay, the city skyline, and Koh Larn in the distance. Home to the golden Wat Khao Phra Bat temple and a large standing Buddha statue. One of the best sunset spots in the city.",
+      "type": "landmark",
+      "location": "Pratumnak Hill, between South Pattaya and Jomtien",
+      "entranceFee": "Free",
+      "tips": ["Visit at sunset for the most dramatic views", "The temple is free to enter — dress modestly", "Combine with a walk or drive through the leafy Pratumnak Hill neighborhood"],
+      "googleMapsUrl": "https://maps.google.com/?q=Khao+Phra+Tamnak+Pattaya+Viewpoint",
+      "sources": [{"sourceName": "TripAdvisor", "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g293919-d3432023-Reviews-Khao_Phra_Tamnak-Pattaya_Chonburi_Province.html", "lastVerified": "2026-03-14"}]
+    }
+  ],
+  "travelTips": [
+    "Pattaya's mainland beaches (Pattaya Beach, Jomtien) are okay for sunbathing but not great for swimming — take the ferry to Koh Larn for clean, clear water",
+    "Songthaews (shared pickup trucks) run fixed routes along Beach Road and Second Road for just 10 THB — the cheapest way to get around",
+    "Grab works well in Pattaya for taxis and food delivery — much more reliable than negotiating with motorbike taxi drivers",
+    "Walking Street is pedestrian-only from 6 PM — arrive early to walk comfortably before the biggest crowds at 10 PM+",
+    "The Thepprasit Night Market (Fri–Sun, 5–11 PM) is where locals shop and eat — far better value than tourist-oriented markets",
+    "Always negotiate prices for jet skis and parasailing on the beach — scams involving alleged damage are common",
+    "ATMs charge 220 THB per withdrawal — bring enough cash or use a bank with international fee reimbursement",
+    "Central Festival Pattaya Beach mall has air-conditioning, a cinema, and supermarket — great for a midday escape from the heat",
+    "Book Sanctuary of Truth and Nong Nooch tickets online through Klook or GetYourGuide for 20–30% discounts",
+    "Pattaya is safe for tourists, but use common sense on Walking Street late at night and always agree on taxi/motorbike prices before departing"
+  ],
+  "gettingThere": "Pattaya is 150 km southeast of Bangkok, reachable in under 2 hours by road. Buses from Bangkok's Ekkamai Eastern Bus Terminal depart every 30–60 minutes (120–150 THB, 2 hours). Buses also run from Mo Chit Northern Terminal. Private taxis from Bangkok cost 1,200–1,500 THB (1.5–2 hours depending on traffic). From Suvarnabhumi Airport, direct buses run to Pattaya (250 THB, 2 hours) or take a private transfer (1,500–2,000 THB). U-Tapao Airport near Rayong/Pattaya has limited domestic and international flights.",
+  "gettingAround": "Songthaews (converted pickup trucks) are the main public transport — 10 THB for fixed routes along Beach Road and Second Road. To go off-route, negotiate a fare (80–150 THB). Motorbike taxis cost 20–100 THB for short trips. Grab ride-hailing works well for point-to-point transport. Scooter rental costs 200–300 THB/day (international driving permit technically required). Car rental starts from 800 THB/day through local agencies.",
+  "generatedAt": "2026-03-14",
+  "lastUpdated": "2026-03-14",
+  "sources": [
+    {"sourceName": "Sanctuary of Truth Official", "sourceUrl": "https://sanctuaryoftruthmuseum.com/visit-us/", "lastVerified": "2026-03-14"},
+    {"sourceName": "Klook Nong Nooch", "sourceUrl": "https://www.klook.com/en-US/activity/335-nong-nooch-tropical-garden-pattaya/", "lastVerified": "2026-03-14"},
+    {"sourceName": "TripAdvisor Pattaya", "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html", "lastVerified": "2026-03-14"},
+    {"sourceName": "Thailand Life - Bangkok to Pattaya", "sourceUrl": "https://thailandlife.info/how-to-get-from-bangkok-to-pattaya/", "lastVerified": "2026-03-14"},
+    {"sourceName": "Come to Pattaya", "sourceUrl": "https://cometopattaya.com/best-area-to-stay-in-pattaya/", "lastVerified": "2026-03-14"}
+  ]
+}

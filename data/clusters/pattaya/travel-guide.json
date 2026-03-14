@@ -1,0 +1,210 @@
+{
+  "seo": {
+    "title": "Pattaya Travel Guide: Everything You Need to Know (2026)",
+    "metaDescription": "Complete Pattaya travel guide for 2026. 4-day itinerary, bus from Bangkok (120 THB), best beaches, street food, budget breakdown, and practical tips.",
+    "slug": "pattaya"
+  },
+  "citySlug": "pattaya",
+  "cityName": "Pattaya",
+  "intro": "Pattaya is Thailand's most accessible beach city — under 2 hours from Bangkok by bus and packed with enough attractions, food, and nightlife to fill a week. This guide covers the practical essentials: how to get there cheaply, how to get around without getting ripped off, what to eat beyond pad thai, and how much to actually budget. Whether you're here for a weekend escape or a longer stay, these tips will save you time and money.",
+  "itinerary": {
+    "title": "4 Days in Pattaya: Beaches, Culture & Nightlife",
+    "days": [
+      {
+        "day": 1,
+        "title": "Central Pattaya & Beach Road",
+        "activities": [
+          "Morning: Arrive from Bangkok by bus (120–150 THB from Ekkamai, 2 hours). Check into your hotel and get oriented",
+          "Lunch: Hit Terminal 21 Pattaya food court — excellent Thai food from 40–80 THB per dish in air-conditioned comfort",
+          "Afternoon: Walk Pattaya Beach Road from north to south. Stop at CentralFestival mall for a supermarket run (water, sunscreen, snacks)",
+          "Sunset: Head to a Beach Road bar for sunset drinks — the northern end is calmer with better views",
+          "Evening: Walk through Walking Street to experience the neon-lit chaos. Grab seafood at a pier-end restaurant with bay views"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Koh Larn Island Day Trip",
+        "activities": [
+          "Morning: Take the 9 AM public ferry from Bali Hai Pier to Koh Larn (30 THB, 30 minutes)",
+          "Mid-morning: Rent a scooter on the island (200 THB) or take a songthaew to Tien Beach for crystal-clear swimming",
+          "Lunch: Fresh seafood at a beachside restaurant on Tien or Nual Beach (200–400 THB)",
+          "Afternoon: Snorkeling off the east coast (200 THB gear rental) or parasailing at Samae Beach (600–800 THB)",
+          "Return: Take the 5 PM or 6:30 PM (last) ferry back to Pattaya",
+          "Evening: Thepprasit Night Market if it's Friday–Sunday — street food from 30 THB and local shopping"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Sanctuary of Truth & Naklua Culture",
+        "activities": [
+          "Morning: Visit the Sanctuary of Truth (500 THB) — allow 1.5–2 hours for the full tour with hard hat",
+          "Mid-morning: Walk to nearby Naklua Fish Market for fresh seafood brunch — pick your catch and have it cooked (200–400 THB)",
+          "Lunch: Try authentic Thai food in the Naklua neighborhood — look for restaurants full of locals",
+          "Afternoon: Nong Nooch Tropical Garden (500–800 THB, 3–4 hours) or Art in Paradise 3D Museum (500 THB, 1.5 hours)",
+          "Late afternoon: Sunset at Khao Phra Tamnak Viewpoint on Pratumnak Hill (free)",
+          "Evening: Tiffany's or Alcazar cabaret show (800–1,200 THB) — book VIP seats for the best experience"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Jomtien Beach & Water Park",
+        "activities": [
+          "Morning: Ramayana Water Park (1,190 THB adults — buy online for discount). Arrive at 10 AM opening for shortest queues",
+          "Alternatively: Cartoon Network Amazone for families with younger kids (1,090 THB)",
+          "Lunch: Seafood on Jomtien Beach Road — grilled prawns with nam jim seafood dipping sauce is the must-order",
+          "Afternoon: Jomtien Beach relaxation — rent a beach chair (50–100 THB), get a Thai massage (200–400 THB/hour)",
+          "Late afternoon: Mini Siam (300 THB) if you have energy — better at night when illuminated",
+          "Evening: Final dinner at a beachfront restaurant. Last-minute shopping at a night market"
+        ]
+      }
+    ]
+  },
+  "transport": {
+    "fromBangkok": {
+      "bus": {
+        "description": "The cheapest and most popular option. Air-conditioned buses depart every 30–60 minutes from Bangkok's Ekkamai Eastern Bus Terminal (BTS Ekkamai) and Mo Chit Northern Terminal (BTS Mo Chit/Chatuchak).",
+        "price": "120–150 THB (~$3–4 USD)",
+        "duration": "2–2.5 hours depending on traffic",
+        "tips": ["Ekkamai Terminal is more convenient — right at the BTS station", "Buses run from 5 AM to 11 PM", "Buy tickets at the counter — no advance booking needed"]
+      },
+      "minivan": {
+        "description": "Faster than buses but less comfortable. Minivans depart from Victory Monument and Ekkamai when full (typically 10–15 minute waits).",
+        "price": "150–200 THB (~$4–6 USD)",
+        "duration": "1.5–2 hours",
+        "tips": ["Less legroom than buses", "Depart when full — no fixed schedule"]
+      },
+      "privateTaxi": {
+        "description": "Direct door-to-door service. Can be booked through Grab, hotel concierge, or arranged at the airport. From Suvarnabhumi Airport, there are also direct airport buses.",
+        "price": "1,200–1,500 THB (~$34–42 USD) from Bangkok; 1,500–2,000 THB from Suvarnabhumi Airport",
+        "duration": "1.5–2 hours depending on traffic",
+        "tips": ["Airport bus from Suvarnabhumi runs direct to Pattaya for 250 THB", "Agree on price before departing if using a non-metered taxi"]
+      },
+      "utapaoAirport": {
+        "description": "U-Tapao Airport (UTP) is 30 km south of Pattaya with limited domestic flights (Bangkok Airways) and some international connections. Useful if flying from a connecting city.",
+        "price": "Flights vary; taxi from airport 400–600 THB",
+        "duration": "30 minutes from airport to Pattaya",
+        "tips": ["Very limited flight schedule — check availability before planning around it"]
+      }
+    },
+    "localTransport": [
+      "Songthaew (shared pickup truck): 10 THB for fixed routes along Beach Road and Second Road. To go off-route, negotiate 80–150 THB. Wave one down and hop on the back — pay when you get off",
+      "Motorbike taxi: 20–100 THB for short trips. Drivers wear numbered vests. Agree on price before riding",
+      "Grab: The ride-hailing app works well in Pattaya. More reliable pricing than negotiating with songthaew/motorbike drivers. Central Pattaya to Jomtien typically 80–120 THB",
+      "Scooter rental: 200–300 THB/day from numerous shops. International driving permit technically required. Helmets provided — always wear one",
+      "Car rental: From 800 THB/day through local agencies. Useful for day trips to Nong Nooch, Ramayana, or Rayong"
+    ]
+  },
+  "food": {
+    "mustTry": [
+      {
+        "name": "Grilled Seafood (Pla Pao, Kung Pao)",
+        "description": "Pattaya's coastal location means incredibly fresh grilled fish (pla pao) and prawns (kung pao), served with spicy nam jim seafood dipping sauce. Best at Jomtien beachfront restaurants or Naklua Fish Market.",
+        "priceRange": "120–400 THB per dish"
+      },
+      {
+        "name": "Som Tum (Green Papaya Salad)",
+        "description": "Thailand's ubiquitous spicy salad is everywhere in Pattaya. The Isan-style version at Thepprasit Night Market is the real deal — pounded fresh to order with dried shrimp, peanuts, and chili.",
+        "priceRange": "40–80 THB"
+      },
+      {
+        "name": "Khao Pad Sapparot (Pineapple Fried Rice)",
+        "description": "A Pattaya beachside classic — fried rice served inside a carved pineapple half with shrimp, cashews, and raisins. Touristy but delicious.",
+        "priceRange": "80–150 THB"
+      },
+      {
+        "name": "Pad Thai Kung Sod (Pad Thai with Fresh Prawns)",
+        "description": "Street food pad thai with plump fresh prawns — a step up from the standard chicken version. Best from market stalls where it's cooked in high-heat woks.",
+        "priceRange": "60–120 THB"
+      },
+      {
+        "name": "Hoi Tod (Crispy Mussel/Oyster Omelette)",
+        "description": "A Thai-Chinese street food favorite: crispy battered mussels or oysters in an egg crepe with bean sprouts and chili sauce. Popular at night markets.",
+        "priceRange": "50–100 THB"
+      },
+      {
+        "name": "Mango Sticky Rice (Khao Niew Mamuang)",
+        "description": "Thailand's most beloved dessert — sweet sticky rice with fresh ripe mango and coconut cream. Available year-round but best during mango season (March–June).",
+        "priceRange": "60–100 THB"
+      }
+    ],
+    "foodAreas": [
+      {
+        "name": "Thepprasit Night Market",
+        "description": "Pattaya's best food market — Friday to Sunday evenings with hundreds of street food stalls. Where locals eat. Dishes from 30–100 THB.",
+        "bestFor": "Budget street food and authentic Thai snacks"
+      },
+      {
+        "name": "Naklua Fish Market",
+        "description": "Authentic morning fish market where you pick fresh seafood and have it cooked at adjacent restaurants. Much cheaper than tourist-area seafood restaurants.",
+        "bestFor": "Fresh grilled seafood at local prices"
+      },
+      {
+        "name": "Jomtien Beachfront Road",
+        "description": "Open-air seafood restaurants lining the beach road. Order whole fish, prawns, and crab by weight — fresh from the catch.",
+        "bestFor": "Seafood dinners with beach atmosphere"
+      },
+      {
+        "name": "Terminal 21 Food Court",
+        "description": "Air-conditioned food court in the Terminal 21 mall with stalls representing different Thai regions. Meals from 40–80 THB — best value lunch in central Pattaya.",
+        "bestFor": "Air-conditioned budget lunch"
+      },
+      {
+        "name": "Soi Buakhao Area",
+        "description": "A lively street between Second Road and Third Road with a mix of Thai and international restaurants, bars, and an excellent Tuesday/Friday market with street food.",
+        "bestFor": "Mix of Thai and international food with nightlife"
+      }
+    ],
+    "tips": [
+      "Night markets offer the best value — full meals for 50–100 THB",
+      "Beachfront restaurants in central Pattaya charge tourist prices — Jomtien and Naklua are 30–50% cheaper for the same quality",
+      "Terminal 21 and CentralFestival food courts use prepaid cards — buy credit at the counter, refund unused balance when leaving",
+      "Street food in Thailand is generally safe — look for stalls with high turnover and freshly cooked items"
+    ]
+  },
+  "etiquette": [
+    "Cover shoulders and knees when visiting temples (Wat Phra Yai, Sanctuary of Truth)",
+    "Remove shoes before entering temples and some shops — follow what locals do",
+    "The Thai royal family is deeply respected — never make disrespectful comments",
+    "Tipping is not mandatory but appreciated — 20–50 THB for restaurants, 50–100 THB for massage, round up for taxis",
+    "Avoid touching people's heads — the head is considered the most sacred part of the body",
+    "Don't point your feet at Buddha images or people — feet are considered the lowest part of the body",
+    "Always negotiate water sport prices (jet skis, parasailing) before starting — and photograph the equipment's condition",
+    "Be aware of common scams: jet ski damage claims, gem store tours, and tuk-tuk drivers offering 'free' trips to shops"
+  ],
+  "budget": {
+    "budget": {
+      "accommodation": "400–1,000 THB/night ($11–28)",
+      "food": "200–400 THB/day ($6–11)",
+      "transport": "100–200 THB/day ($3–6)",
+      "activities": "300–600 THB/day ($8–17)",
+      "dailyTotal": "1,000–2,200 THB/day (~$28–62 USD)",
+      "notes": "Stay in South Pattaya or Jomtien. Eat at night markets and food courts. Use songthaews. Focus on free beaches and viewpoints with one or two paid attractions."
+    },
+    "midRange": {
+      "accommodation": "1,500–3,500 THB/night ($42–98)",
+      "food": "500–1,000 THB/day ($14–28)",
+      "transport": "200–400 THB/day ($6–11)",
+      "activities": "500–1,200 THB/day ($14–34)",
+      "dailyTotal": "2,700–6,100 THB/day (~$76–171 USD)",
+      "notes": "Stay in Central Pattaya or North Pattaya. Mix of restaurant meals and street food. Grab for transport. Include Koh Larn trip, Sanctuary of Truth, and a water park."
+    },
+    "luxury": {
+      "accommodation": "5,000–12,000 THB/night ($140–336)",
+      "food": "1,500–3,000 THB/day ($42–84)",
+      "transport": "500–1,000 THB/day ($14–28)",
+      "activities": "1,000–3,000 THB/day ($28–84)",
+      "dailyTotal": "8,000–19,000 THB/day (~$224–532 USD)",
+      "notes": "Stay at Hilton, Dusit Thani, or Centara Grand Mirage. Fine dining and beachfront seafood. Private transfers. VIP experiences at attractions and cabaret shows."
+    }
+  },
+  "generatedAt": "2026-03-14",
+  "lastUpdated": "2026-03-14",
+  "sources": [
+    {"sourceName": "Thailand Life - Bangkok to Pattaya", "sourceUrl": "https://thailandlife.info/how-to-get-from-bangkok-to-pattaya/", "lastVerified": "2026-03-14"},
+    {"sourceName": "Pattaya Bus Official", "sourceUrl": "https://pattayabus.com/", "lastVerified": "2026-03-14"},
+    {"sourceName": "TripAdvisor Pattaya", "sourceUrl": "https://www.tripadvisor.com/Tourism-g293919-Pattaya_Chonburi_Province-Vacations.html", "lastVerified": "2026-03-14"},
+    {"sourceName": "Thepprasit Night Market TripAdvisor", "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g293919-d4554040-Reviews-Thepprasit_Road_Nightmarket-Pattaya_Chonburi_Province.html", "lastVerified": "2026-03-14"},
+    {"sourceName": "Come to Pattaya", "sourceUrl": "https://cometopattaya.com/best-area-to-stay-in-pattaya/", "lastVerified": "2026-03-14"},
+    {"sourceName": "Thailand Routes Night Markets", "sourceUrl": "https://www.thailandroutes.com/en/pattaya-night-market-guide-2025-2026-locations-shopping-tips-street-food-local-secrets/", "lastVerified": "2026-03-14"}
+  ]
+}
