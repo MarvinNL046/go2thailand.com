@@ -4,14 +4,16 @@
   "name": {
     "en": "Mae Hong Son",
     "nl": "Mae Hong Son",
-    "ja": "メーホンソーン"
+    "ja": "メーホンソーン",
+    "ko": "매홍손"
   },
   "region": "Northern",
   "province": "Mae Hong Son",
   "description": {
     "en": "One of Thailand's most remote and atmospheric provincial capitals, Mae Hong Son sits in a misty mountain valley near the Myanmar border. Famous for its ethereal morning mist, spectacular caves, hill tribe communities, and the iconic Su Tong Pae bamboo bridge.",
     "nl": "Een van de meest afgelegen en sfeervolle provinciale hoofdsteden van Thailand, Mae Hong Son ligt in een mistige bergvallei dicht bij de grens met Myanmar. Beroemd om zijn etherische ochtendmist, spectaculaire grotten, bergstamgemeenschappen en de iconische Su Tong Pae bamboebrug.",
-    "ja": "タイで最も辺境にある県都の一つ、メーホンソーンは霧に包まれた山々、シャン様式の寺院、多様な山岳民族の文化が魅力の秘境です。"
+    "ja": "タイで最も辺境にある県都の一つ、メーホンソーンは霧に包まれた山々、シャン様式の寺院、多様な山岳民族の文化が魅力の秘境です。",
+    "ko": "태국에서 가장 외지고 분위기 있는 도청 소재지 중 하나인 매홍손은 미얀마 국경 근처 안개 낀 산골 분지에 자리합니다. 몽환적인 아침 안개, 장엄한 동굴, 산악 소수민족 마을, 상징적인 수통패 대나무 다리로 유명합니다."
   },
   "population": 10000,
   "highlights": [
@@ -29,29 +31,34 @@
     "metaTitle": {
       "en": "Discover Mae Hong Son | What to do in Mae Hong Son?",
       "nl": "Ontdek Mae Hong Son | Wat te doen in Mae Hong Son?",
-      "ja": "メーホンソーンを満喫 | メーホンソーンの観光・見どころガイド"
+      "ja": "メーホンソーンを満喫 | メーホンソーンの観光・見どころガイド",
+      "ko": "매홍손 태국 — 안개의 도시 여행 가이드 2026"
     },
     "metaDescription": {
       "en": "Your guide to Mae Hong Son, Thailand – tips, highlights, caves, hill tribes and misty mountain scenery.",
       "nl": "Jouw gids voor Mae Hong Son, Thailand – tips, highlights, grotten, bergstammen en mistig berglandschap.",
-      "ja": "タイ・メーホンソーンの旅行ガイド — おすすめスポット、洞窟、山岳民族、グルメ情報をご紹介。"
+      "ja": "タイ・メーホンソーンの旅行ガイド — おすすめスポット、洞窟、山岳民族、グルメ情報をご紹介。",
+      "ko": "매홍손(태국) 완벽 여행 가이드: 안개 산골, 대나무 다리, 동굴, 산악 소수민족. 가격, 팁, 가는 법."
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Mae Hong Son",
       "nl": "Beste restaurants en streetfood in Mae Hong Son",
-      "ja": "メーホンソーンのおすすめレストラン＆ストリートフード"
+      "ja": "メーホンソーンのおすすめレストラン＆ストリートフード",
+      "ko": "매홍손 추천 레스토랑과 길거리 음식"
     },
     "hotels": {
       "en": "Top hotels in Mae Hong Son | Tips & deals",
       "nl": "Beste hotels in Mae Hong Son | Tips & aanbiedingen",
-      "ja": "メーホンソーンのおすすめホテル｜お得な情報＆アドバイス"
+      "ja": "メーホンソーンのおすすめホテル｜お得な情報＆アドバイス",
+      "ko": "매홍손 추천 호텔 | 팁 & 특가"
     },
     "attractions": {
       "en": "Top attractions in Mae Hong Son",
       "nl": "Top bezienswaardigheden in Mae Hong Son",
-      "ja": "メーホンソーンの人気観光スポット"
+      "ja": "メーホンソーンの人気観光スポット",
+      "ko": "매홍손 인기 관광 명소"
     }
   },
   "tags": [
@@ -68,12 +75,14 @@
       "name": {
         "en": "Pha Sua Waterfall",
         "nl": "Pha Sua Waterval",
-        "ja": "パースア滝"
+        "ja": "パースア滝",
+        "ko": "파수아 폭포"
       },
       "description": {
         "en": "A powerful multi-tiered waterfall hidden in the forest 26 km north of town, most spectacular during the rainy season when the water thunders through giant boulders.",
         "nl": "Een krachtige waterval met meerdere niveaus verborgen in het bos 26 km ten noorden van het stadje, het meest spectaculair tijdens het regenseizoen wanneer het water door enorme rotsblokken dondert.",
-        "ja": "街の北26kmの森の中に隠れた迫力ある多段式の滝で、雨季（7月〜11月）に最も水量が多くなります。観光客が少なく、自然を満喫できる穴場スポットです。"
+        "ja": "街の北26kmの森の中に隠れた迫力ある多段式の滝で、雨季（7月〜11月）に最も水量が多くなります。観光客が少なく、自然を満喫できる穴場スポットです。",
+        "ko": "매홍손 외곽의 웅장한 폭포로, 우기에 특히 장관을 이루며 관광객이 적은 자연 명소입니다."
       },
       "type": "nature"
     },
@@ -81,12 +90,14 @@
       "name": {
         "en": "Ban Rak Thai (Mae Aw)",
         "nl": "Ban Rak Thai (Mae Aw)",
-        "ja": "バーン・ラック・タイ（メーアウ）"
+        "ja": "バーン・ラック・タイ（メーアウ）",
+        "ko": "반락타이 (매아우)"
       },
       "description": {
         "en": "A Chinese Kuomintang settlement village on the Myanmar border where you can sip Yunnan oolong tea overlooking a serene reservoir, surrounded by tea plantations and misty mountains.",
         "nl": "Een Chinees Kuomintang-nederzettingsdorp aan de grens met Myanmar waar je Yunnan oolongthee kunt drinken met uitzicht op een sereen stuwmeer, omringd door theeplantages en mistige bergen.",
-        "ja": "ミャンマー国境沿いの中国国民党系の村で、湖畔でウーロン茶を飲みながら茶畑の景色を楽しめます。中国雲南料理も味わえる異国情緒あふれるスポットです。"
+        "ja": "ミャンマー国境沿いの中国国民党系の村で、湖畔でウーロン茶を飲みながら茶畑の景色を楽しめます。中国雲南料理も味わえる異国情緒あふれるスポットです。",
+        "ko": "미얀마 국경 근처 산꼭대기의 중국계 마을로, 운남식 차와 호수 풍경이 매력적인 숨겨진 보석입니다."
       },
       "type": "experience"
     },
@@ -94,12 +105,14 @@
       "name": {
         "en": "Nam Tok Mae Surin",
         "nl": "Nam Tok Mae Surin",
-        "ja": "ナムトック・メースリン"
+        "ja": "ナムトック・メースリン",
+        "ko": "남똑 매수린"
       },
       "description": {
         "en": "One of Southeast Asia's tallest single-drop waterfalls at 100 meters, located in a remote national park. The trek to reach it is rewarding and rarely visited by tourists.",
         "nl": "Een van de hoogste watervallen in Zuidoost-Azie met een enkele val van 100 meter, gelegen in een afgelegen nationaal park. De tocht ernaartoe is lonend en wordt zelden bezocht door toeristen.",
-        "ja": "落差100メートルの東南アジア有数の一段滝で、サラウィン国立公園内にあります。雨季には壮大な水量を誇る圧巻の眺めが楽しめます。"
+        "ja": "落差100メートルの東南アジア有数の一段滝で、サラウィン国立公園内にあります。雨季には壮大な水量を誇る圧巻の眺めが楽しめます。",
+        "ko": "태국에서 가장 높은 단일 낙하 폭포 중 하나로, 접근이 어렵지만 그만한 가치가 있는 명소입니다."
       },
       "type": "nature"
     },
@@ -107,12 +120,14 @@
       "name": {
         "en": "Morning Market (Talat Sao)",
         "nl": "Ochtendmarkt (Talat Sao)",
-        "ja": "朝市（タラート・サオ）"
+        "ja": "朝市（タラート・サオ）",
+        "ko": "아침 시장 (딸랏싸오)"
       },
       "description": {
         "en": "The authentic early morning market on Phanit Wattana Road where Shan and Karen hill tribe vendors sell Burmese curries, fresh produce, and traditional medicines from 5 AM.",
         "nl": "De authentieke vroege ochtendmarkt op Phanit Wattana Road waar Shan- en Karen-bergstamverkopers Burmese curry's, verse producten en traditionele medicijnen verkopen vanaf 5 uur 's ochtends.",
-        "ja": "パニットワッタナー通りにある早朝市場で、シャン族やカレン族の山岳民族が新鮮な農産物や伝統料理を売っています。地元の暮らしを垣間見れる貴重な場所です。"
+        "ja": "パニットワッタナー通りにある早朝市場で、シャン族やカレン族の山岳民族が新鮮な農産物や伝統料理を売っています。地元の暮らしを垣間見れる貴重な場所です。",
+        "ko": "현지인들의 일상을 엿볼 수 있는 아침 시장으로, 산악 소수민족의 식재료와 수공예품을 볼 수 있습니다."
       },
       "type": "market"
     },
@@ -120,12 +135,14 @@
       "name": {
         "en": "Tham Pla (Fish Cave)",
         "nl": "Tham Pla (Vissengrot)",
-        "ja": "タム・プラー（魚の洞窟）"
+        "ja": "タム・プラー（魚の洞窟）",
+        "ko": "탐쁠라 (물고기 동굴)"
       },
       "description": {
         "en": "A mysterious cave spring pool filled with thousands of giant soro brook carp that are considered sacred. Located in a lush forest park 17 km from town.",
         "nl": "Een mysterieuze grotbron gevuld met duizenden enorme soro-beekkarpers die als heilig worden beschouwd. Gelegen in een weelderig bospark op 17 km van het stadje.",
-        "ja": "何千匹もの巨大なソロブルックコイが棲む神秘的な洞窟の泉で、地元の人々に神聖視されています。魚は保護されており、餌やり体験もできます。"
+        "ja": "何千匹もの巨大なソロブルックコイが棲む神秘的な洞窟の泉で、地元の人々に神聖視されています。魚は保護されており、餌やり体験もできます。",
+        "ko": "동굴 입구에 수백 마리의 물고기가 모여 사는 독특한 자연 현상을 볼 수 있는 곳입니다."
       },
       "type": "nature"
     }
@@ -696,6 +713,40 @@
       "bestTimeToVisit": "Лучшее время для посещения Мэхонгсона — с ноября по февраль, когда погода прохладная и сухая, температура 15–25°C, а знаменитый утренний туман наиболее надёжен и зрелищен. Этот период совпадает с сухим сезоном по всему северному Таиланду и предлагает самую стабильную погоду для активного отдыха и исследования пещер. В эти месяцы видимость отличная для фотографии, а прохладный климат делает треккинг и прогулки комфортнее, чем в жаркие сезоны. Декабрь и январь — пиковые туристические месяцы с лучшими условиями для тумана, но могут означать более высокие цены и многолюдные достопримечательности.\n\nС марта по май жарко и становится всё более влажно, температура превышает 30°C, активный отдых менее приятен, а явление тумана значительно ослабевает. С июня по октябрь — сезон дождей: впечатляющие водопады вроде Пха Суа достигают пика, но частые ливни могут ограничить активности и создать опасные дорожные условия в горной местности. Сезон дождей предлагает меньше туристов, более низкие цены на жильё и пышные зелёные пейзажи — подходит для путешественников, готовых к погодным сюрпризам.",
       "safetyTips": "Мэхонгсон в целом очень безопасное направление с низким уровнем преступности и расслабленной, гостеприимной атмосферой. Насильственные преступления в городке минимальны, мелкие кражи редки по сравнению с другими тайскими туристическими направлениями. Стандартные меры предосторожности: храните ценные вещи в безопасности, не демонстрируйте дорогие украшения или электронику, следите за личными вещами на оживлённых рынках.\n\nУчтите, что Мэхонгсон расположен вблизи границы с Мьянмой, и хотя сам городок полностью безопасен, путешественникам не следует пытаться незаконно пересекать границу или посещать запретные зоны. Горные дороги к достопримечательностям вроде Панг Унг и пещеры Тхам Лод могут быть узкими и извилистыми с большими перепадами высот; при езде на скутере будьте особенно осторожны, особенно в сезон дождей, когда дороги становятся скользкими. Спелеологические активности вроде сплава в Тхам Лод следует проводить только с проверенными операторами, предоставляющими спасательное оборудование. Медицинские учреждения в Мэхонгсоне ограничены; серьёзные медицинские проблемы могут потребовать эвакуации в Чиангмай, поэтому рекомендуется туристическая страховка. Женщины, путешествующие в одиночку, обычно чувствуют себя безопасно, хотя стандартные меры предосторожности для сольных путешествий применимы к поздним поездкам и обмену информацией о месте проживания.",
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "매홍손은 태국 북서부 미얀마 국경 근처의 안개 낀 산골 분지에 자리한 도시로, 태국에서 가장 외지고 신비로운 여행지 중 하나입니다. 치앙마이에서 비행기로 30분 또는 매홍손 루프(1,864개의 커브가 있는 산악 도로)를 따라 차로 약 6시간 거리에 있습니다.\n\n이른 아침, 종루앙 호수 위로 피어오르는 안개 속에서 샨 양식의 왓 종끌랑과 왓 종캄 사원의 실루엣이 드러나는 풍경은 태국에서 가장 몽환적인 장면 중 하나입니다. 수통패 대나무 다리는 논밭 위를 가로지르는 500미터 길이의 대나무 다리로, 일출 시간에 승려들이 탁발하러 건너는 모습이 장관입니다.\n\n매홍손 주변에는 카렌, 리수, 라후 등 다양한 산악 소수민족 마을이 있어, 각기 다른 문화와 전통을 체험할 수 있습니다. 탐롯 동굴에서의 대나무 뗏목 탐험과 반락타이의 운남식 차 문화는 이 지역만의 독특한 경험입니다.",
+      "hidden_gems": [
+        {
+          "name": "파수아 폭포",
+          "description": "매홍손 외곽의 웅장한 폭포로, 우기에 특히 장관입니다."
+        },
+        {
+          "name": "반락타이 (매아우)",
+          "description": "미얀마 국경 근처 산꼭대기의 중국계 마을로, 운남식 차와 호수 풍경이 매력적입니다."
+        },
+        {
+          "name": "남똑 매수린",
+          "description": "태국에서 가장 높은 단일 낙하 폭포 중 하나입니다."
+        },
+        {
+          "name": "아침 시장",
+          "description": "산악 소수민족의 식재료와 수공예품을 볼 수 있는 현지 시장입니다."
+        },
+        {
+          "name": "탐쁠라 (물고기 동굴)",
+          "description": "동굴 입구에 물고기가 모여 사는 독특한 자연 현상을 볼 수 있습니다."
+        }
+      ],
+      "authentic_experiences": [],
+      "foodie_adventures": [],
+      "overview": "매홍손은 태국에서 가장 매력적이고 외진 도청 소재지 중 하나로, 미얀마 국경 근처 안개 낀 산골 분지에 위치합니다. 샨 양식 사원, 수통패 대나무 다리, 산악 소수민족 문화가 주요 볼거리입니다.",
+      "thingsToDo": "매홍손의 명소는 자연의 아름다움과 문화 유산을 보여줍니다. 탐롯 동굴에서 대나무 뗏목 탐험을 하고, 수통패 대나무 다리에서 일출을 감상하세요. 산악 소수민족 마을 방문과 종루앙 호수변 산책도 추천합니다.",
+      "whereToStay": "매홍손은 모든 예산에 맞는 숙소를 제공합니다. 종루앙 호수 주변의 게스트하우스와 부티크 호텔이 분위기 있고, 시내 중심에 예산 숙소가 있습니다.",
+      "gettingAround": "매홍손 시내는 컴팩트하여 도보로 충분합니다. 툭툭은 40-100바트 정도이며, 외곽 명소는 오토바이 대여나 투어가 편리합니다.",
+      "bestTimeToVisit": "매홍손의 최적 방문 시기는 11월부터 2월까지로, 날씨가 서늘하고 건조하며 아침 안개가 가장 아름답습니다. 3-4월은 연무 시즌으로 공기질이 좋지 않을 수 있습니다.",
+      "safetyTips": "매홍손은 안전한 여행지이지만, 산악 도로 운전 시 각별한 주의가 필요합니다. 1,864개의 커브가 있는 매홍손 루프는 경험 있는 운전자에게만 권장됩니다. 우기에는 산사태 위험이 있으므로 도로 상황을 확인하세요.",
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
