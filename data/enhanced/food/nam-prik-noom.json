@@ -4,14 +4,16 @@
   "name": {
     "en": "Nam Prik Noom",
     "nl": "Nam Prik Noom",
-    "thai": "น้ำพริกหนุ่ม"
+    "thai": "น้ำพริกหนุ่ม",
+    "ja": "ナムプリック・ヌム"
   },
   "category": "main-dish",
   "region": "northern",
   "spice_level": "medium",
   "description": {
     "en": "Northern green chili dip with grilled vegetables",
-    "nl": "Noordelijke groene chili dip met gegrilde groenten"
+    "nl": "Noordelijke groene chili dip met gegrilde groenten",
+    "ja": "焼き野菜を添えた北タイの青唐辛子ディップ"
   },
   "ingredients": [
     "green chili",
@@ -31,11 +33,13 @@
   "seo": {
     "metaTitle": {
       "en": "Nam Prik Noom Recipe | Authentic Thai main dish",
-      "nl": "Nam Prik Noom Recept | Authentieke Thaise main dish"
+      "nl": "Nam Prik Noom Recept | Authentieke Thaise main dish",
+      "ja": "ナムプリック・ヌムのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Nam Prik Noom (น้ำพริกหนุ่ม) - Northern green chili dip with grilled vegetables...",
-      "nl": "Leer over Nam Prik Noom (น้ำพริกหนุ่ม) - Noordelijke groene chili dip met gegrilde groenten..."
+      "nl": "Leer over Nam Prik Noom (น้ำพริกหนุ่ม) - Noordelijke groene chili dip met gegrilde groenten...",
+      "ja": "ナムプリック・ヌム（น้ำพริกหนุ่ม）について — 焼き野菜を添えた北タイの青唐辛子ディップ。"
     }
   },
   "tags": [
