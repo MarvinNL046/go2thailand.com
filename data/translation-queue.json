@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-14",
   "stats": {
     "total": 1504,
-    "completed": 1254
+    "completed": 1255
   },
   "queue": [
     {
@@ -10048,14 +10048,15 @@
       "type": "city",
       "file": "data/enhanced/pattaya.json",
       "locale": "ko",
-      "status": "in_progress",
-      "priority": 15
+      "status": "completed",
+      "priority": 15,
+      "completedAt": "2026-03-14"
     },
     {
       "type": "city",
       "file": "data/enhanced/phitsanulok.json",
       "locale": "ko",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 15
     },
     {
