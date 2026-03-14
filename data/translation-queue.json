@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-14",
   "stats": {
     "total": 1504,
-    "completed": 1217
+    "completed": 1218
   },
   "queue": [
     {
@@ -9752,14 +9752,15 @@
       "type": "top10",
       "file": "data/top10/surat-thani-hotels.json",
       "locale": "ko",
-      "status": "in_progress",
-      "priority": 15
+      "status": "completed",
+      "priority": 15,
+      "completedAt": "2026-03-14"
     },
     {
       "type": "top10",
       "file": "data/top10/surat-thani-restaurants.json",
       "locale": "ko",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 15
     },
     {
