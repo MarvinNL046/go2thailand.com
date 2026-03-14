@@ -5,7 +5,7 @@
     "en": "Pad Thai",
     "nl": "Pad Thai",
     "thai": "ผัดไทย",
-    "ja": "パッタイ"
+    "ko": "팟타이"
   },
   "category": "main-dish",
   "region": "central",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce",
     "nl": "Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus",
-    "ja": "米麺を豆腐やエビ、もやし、タマリンドソースで炒めた定番料理"
+    "ko": "두부 또는 새우, 숙주나물, 타마린드 소스를 넣은 볶음 쌀국수"
   },
   "ingredients": [
     "rice noodles",
@@ -38,12 +38,12 @@
     "metaTitle": {
       "en": "Pad Thai Recipe | Authentic Thai main dish",
       "nl": "Pad Thai Recept | Authentieke Thaise main dish",
-      "ja": "パッタイのレシピ | 本格タイ料理"
+      "ko": "팟타이 레시피 | 정통 태국 볶음 쌀국수"
     },
     "metaDescription": {
       "en": "Learn about Pad Thai (ผัดไทย) - Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce...",
       "nl": "Leer over Pad Thai (ผัดไทย) - Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus...",
-      "ja": "パッタイ（ผัดไทย）について — 米麺を豆腐やエビと炒めたタイを代表する麺料理。"
+      "ko": "팟타이(ผัดไทย) - 타마린드 소스, 두부, 새우, 땅콩을 넣은 태국 대표 볶음 쌀국수. CNN 세계 최고 음식 선정. 레시피, 유래, 맛집 정보."
     }
   },
   "tags": [
@@ -663,6 +663,111 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "팟타이는 태국에서 가장 상징적인 요리로, 달콤함, 새콤함, 짭짤함이 완벽하게 조화를 이루며 실크 같은 쌀국수를 감싸는 요리입니다. 1930년대 국가 통합 캠페인에서 탄생한 이 볶음면 요리는 태국 요리의 세계적인 대사가 되었습니다. 비밀은 타마린드 기반 소스와 숙련된 고온 조리에서만 나오는 웍헤이(웍의 숨결)에 있습니다.",
+      "detailed_ingredients": [
+        {
+          "name": "쌀국수 (센렉)",
+          "purpose": "모든 풍미를 흡수하는 납작한 쌀국수 — 이 요리의 토대",
+          "substitutes": [
+            "신선한 쌀국수",
+            "링귀네 (비상용)",
+            "주키니 면 (저탄수화물용)"
+          ]
+        },
+        {
+          "name": "타마린드 페이스트",
+          "purpose": "정통 팟타이를 정의하는 새콤달콤한 풍미를 만드는 핵심 재료",
+          "substitutes": [
+            "라임즙 + 흑설탕",
+            "쌀식초 + 대추 시럽"
+          ]
+        },
+        {
+          "name": "야자 설탕",
+          "purpose": "캐러멜 같은 단맛으로 타마린드의 새콤함과 균형을 잡아주는 감미료",
+          "substitutes": [
+            "흑설탕",
+            "코코넛 설탕",
+            "백설탕 + 당밀"
+          ]
+        },
+        {
+          "name": "건새우",
+          "purpose": "감칠맛의 깊이와 정통 풍미를 더하는 재료",
+          "substitutes": [
+            "피시소스 (양 늘리기)",
+            "멸치 페이스트",
+            "미소 (채식용)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "웍 볶음과 정확한 순서 조리",
+        "steps_overview": "팟타이는 타이밍과 기술이 전부입니다. 각 재료가 정확한 순간에 웍에 들어가야 합니다. 면은 부드럽되 물러지지 않아야 하고, 달걀은 리본처럼 풀어져야 하며, 모든 것이 충분한 힘으로 섞이되 면이 끊어지지 않을 정도로 부드럽게 다뤄져야 합니다.",
+        "cooking_tips": [
+          "면은 상온의 물에 불리세요 — 뜨거운 물은 면을 물러지게 합니다",
+          "웍 안에서 재료를 끊임없이 움직이세요",
+          "재료를 웍 옆면으로 밀어 올려 조리 영역을 나누세요",
+          "소스가 면 위에서 살짝 캐러멜화되어야 합니다",
+          "숙주나물은 맨 마지막에 넣어야 아삭함이 유지됩니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "1930년대 쁠랙 피분송크람 총리의 국가 건설 캠페인의 일환으로 만들어졌습니다. 그는 태국을 통합하고 제2차 세계대전 중 쌀 소비를 줄일 수 있는 국민 요리를 원했습니다. '팟타이'라는 이름은 문자 그대로 '태국식 볶음'을 의미합니다.",
+        "cultural_importance": "팟타이는 태국의 요리 외교를 대표합니다. 외국인이 처음 접하는 태국 음식인 경우가 많으며, 전 세계적으로 태국 요리의 대명사가 되었습니다. 태국에서는 요리사의 실력을 종종 팟타이 솜씨로 판단합니다.",
+        "traditional_occasions": [
+          "길거리 음식의 기본",
+          "야식",
+          "축제 음식",
+          "관광객의 태국 음식 첫 경험"
+        ]
+      },
+      "variations": [
+        {
+          "name": "팟타이 꿍솟",
+          "description": "신선한 새우를 사용한 버전 — 가장 고급스러운 전통 변형입니다."
+        },
+        {
+          "name": "팟타이 운센",
+          "description": "쌀국수 대신 당면(유리면)을 사용한 버전입니다."
+        },
+        {
+          "name": "팟타이 호카이",
+          "description": "얇은 달걀 오믈렛으로 감싼 레스토랑 스타일 프레젠테이션입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "라임 웨지 (필수)",
+          "으깬 땅콩",
+          "숙주나물",
+          "부추",
+          "고추 가루",
+          "설탕 (태국식 조미료)"
+        ],
+        "presentation": "접시에 담아 라임, 숙주나물, 땅콩을 곁들여 즉시 제공합니다",
+        "eating_etiquette": "포크와 숟가락으로 먹습니다. 라임을 짜서 뿌리고 기호에 따라 설탕, 고추 가루, 피시소스로 맛을 조절합니다."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "팁싸마이 (방콕) — 전설적인 '팟타이 왕'",
+          "팟타이 파이따루 (방콕) — 웍헤이로 유명",
+          "반팟타이 (방콕) — 고급 해석"
+        ],
+        "street_food_areas": [
+          "차이나타운 방콕 — 왓 트라이밋 근처 상인",
+          "카오산 로드 — 관광객 친화적 버전",
+          "오또꺼 시장 — 고품질 재료"
+        ],
+        "price_ranges": {
+          "street_food": "40-60 THB",
+          "restaurant": "100-200 THB",
+          "upscale": "250-500 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
