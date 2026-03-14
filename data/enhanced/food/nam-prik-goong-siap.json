@@ -5,7 +5,7 @@
     "en": "Nam Prik Goong Siap",
     "nl": "Nam Prik Goong Siap",
     "thai": "น้ำพริกกุ้งเสียบ",
-    "ja": "ナムプリック・グンシアップ"
+    "ko": "남프릭꿍시압"
   },
   "category": "main-dish",
   "region": "southern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Spicy dip with smoked dried shrimp",
     "nl": "Pittige dipsaus met gerookte gedroogde garnalen",
-    "ja": "燻製干しエビのスパイシーディップ"
+    "ko": "훈제 건새우로 만든 매콤한 칠리 딥"
   },
   "ingredients": [
     "dried shrimp",
@@ -35,12 +35,12 @@
     "metaTitle": {
       "en": "Nam Prik Goong Siap Recipe | Authentic Thai main dish",
       "nl": "Nam Prik Goong Siap Recept | Authentieke Thaise main dish",
-      "ja": "ナムプリック・グンシアップのレシピ | 本格タイ料理"
+      "ko": "남프릭꿍시압 레시피 | 정통 태국 남부 건새우 칠리 딥"
     },
     "metaDescription": {
       "en": "Learn about Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Spicy dip with smoked dried shrimp...",
       "nl": "Leer over Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Pittige dipsaus met gerookte gedroogde garnalen...",
-      "ja": "ナムプリック・グンシアップ（น้ำพริกกุ้งเสียบ）について — 燻製干しエビを使ったスパイシーディップ。"
+      "ko": "남프릭꿍시압(น้ำพริกกุ้งเสียบ) - 훈제 건새우, 고추, 마늘, 샬롯으로 만든 태국 남부 매콤한 칠리 딥. 레시피, 재료, 맛집 정보."
     }
   },
   "tags": [
@@ -667,6 +667,110 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "남프릭꿍시압은 태국 남부의 대표적인 칠리 딥(남프릭) 중 하나로, 꼬치에 꽂아 숯불에 구운 건새우를 절구에 빻아 만드는 강렬하고 매콤한 양념입니다. 약 20분이면 완성할 수 있는 쉬운 레시피로, 건새우의 진한 해산물 감칠맛에 고추의 화끈한 매운맛, 라임즙의 새콤함이 어우러져 밥과 채소를 함께 먹으면 중독성 있는 맛을 만들어냅니다. '꿍시압'은 새우를 꼬치에 꽂아(시압) 구운다는 뜻으로, 조리 방식 자체가 이름이 된 요리입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "건새우 (꿍행)",
+          "purpose": "숯불에 구워 깊은 감칠맛과 훈연향을 내는 주재료",
+          "substitutes": [
+            "건새우",
+            "새우 페이스트 (까삐)",
+            "건멸치 (맛이 다름)"
+          ]
+        },
+        {
+          "name": "고추 (프릭치파)",
+          "purpose": "화끈한 매운맛과 붉은 색을 만드는 핵심 재료",
+          "substitutes": [
+            "건고추",
+            "생고추",
+            "고추장 (한국식 대체)"
+          ]
+        },
+        {
+          "name": "마늘과 샬롯",
+          "purpose": "향과 단맛의 베이스를 만드는 향신 재료",
+          "substitutes": [
+            "마늘",
+            "적양파 (샬롯 대체)",
+            "양파"
+          ]
+        },
+        {
+          "name": "라임즙과 야자 설탕",
+          "purpose": "매운맛의 균형을 잡아주는 새콤달콤한 양념",
+          "substitutes": [
+            "라임즙",
+            "레몬즙",
+            "설탕 + 식초"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "숯불 굽기와 절구 빻기",
+        "steps_overview": "남프릭꿍시압을 만들려면 건새우를 대나무 꼬치에 꽂아 숯불에 노릇하게 구워 향을 냅니다. 마늘과 샬롯도 껍질째 숯불에 구워 달콤한 향을 만듭니다. 고추, 구운 마늘, 구운 샬롯을 절구에 넣고 빻은 후 구운 건새우를 넣어 거칠게 빻습니다. 라임즙, 피시소스, 야자 설탕으로 간을 맞춰 완성합니다.",
+        "cooking_tips": [
+          "건새우는 숯불에 구워야 정통 훈연향이 납니다 — 프라이팬도 가능합니다",
+          "절구로 빻을 때 너무 곱게 빻지 마세요 — 거친 식감이 특징입니다",
+          "매운맛은 고추 양으로 조절하세요",
+          "만든 직후보다 30분 정도 두면 맛이 더 어우러집니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "남프릭꿍시압은 태국 남부 해안 지역에서 풍부한 해산물을 활용하여 발전한 전통 칠리 딥입니다. 어부들이 잡은 새우를 건조하고 훈제하여 보존하던 방법에서 유래했으며, 남부 태국의 강렬한 맛 선호를 반영합니다.",
+        "cultural_importance": "남프릭(칠리 딥)은 태국 식사 문화의 핵심으로, 밥과 채소를 곁들여 먹는 공동 식사의 중심이 됩니다. 남프릭꿍시압은 특히 남부 태국에서 일상적으로 즐기는 반찬으로, 간단하지만 깊은 맛의 정수를 보여줍니다.",
+        "traditional_occasions": [
+          "일상 가정식",
+          "공동 식사",
+          "시장 반찬",
+          "해안 마을 음식"
+        ]
+      },
+      "variations": [
+        {
+          "name": "남프릭꿍시압 전통식",
+          "description": "숯불에 구운 건새우로 만든 가장 전통적인 남부 스타일입니다."
+        },
+        {
+          "name": "남프릭꿍시압 매운맛",
+          "description": "고추를 더 많이 넣은 매운 버전입니다."
+        },
+        {
+          "name": "남프릭꿍행",
+          "description": "건새우를 굽지 않고 그대로 사용한 간단한 변형입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "재스민 쌀밥",
+          "신선한 채소 (오이, 가지, 장두)",
+          "삶은 채소",
+          "돼지 껍데기 튀김"
+        ],
+        "presentation": "작은 그릇에 남프릭을 담고 밥과 채소를 둘러 함께 제공합니다",
+        "eating_etiquette": "숟가락으로 남프릭을 밥에 올려 채소와 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "남부 태국 현지 식당",
+          "해안 마을 식당",
+          "전통 시장 반찬 가게",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "아침 시장",
+          "야시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
