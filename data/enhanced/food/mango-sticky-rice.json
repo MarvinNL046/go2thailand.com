@@ -5,7 +5,7 @@
     "en": "Mango Sticky Rice",
     "nl": "Mango Sticky Rice",
     "thai": "ข้าวเหนียวมะม่วง",
-    "ja": "マンゴースティッキーライス"
+    "ko": "카오니아오 마무앙"
   },
   "category": "dessert",
   "region": "central",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Sweet sticky rice served with fresh mango slices and coconut cream",
     "nl": "Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom",
-    "ja": "もち米に新鮮なマンゴーとココナッツクリームを添えた甘いデザート"
+    "ko": "신선한 망고 슬라이스와 코코넛 크림을 곁들인 달콤한 찹쌀"
   },
   "ingredients": [
     "sticky rice",
@@ -34,12 +34,12 @@
     "metaTitle": {
       "en": "Mango Sticky Rice Recipe | Authentic Thai dessert",
       "nl": "Mango Sticky Rice Recept | Authentieke Thaise dessert",
-      "ja": "マンゴースティッキーライスのレシピ | 本格タイデザート"
+      "ko": "카오니아오 마무앙 레시피 | 정통 태국 망고 찹쌀 디저트"
     },
     "metaDescription": {
       "en": "Learn about Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Sweet sticky rice served with fresh mango slices and coconut cream...",
       "nl": "Leer over Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom...",
-      "ja": "マンゴースティッキーライス（ข้าวเหนียวมะม่วง）について — もち米に新鮮なマンゴーとココナッツクリームを添えたタイの定番デザート。"
+      "ko": "카오니아오 마무앙(ข้าวเหนียวมะม่วง) - 신선한 망고 슬라이스와 코코넛 크림을 곁들인 태국 대표 디저트. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -596,6 +596,99 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "카오니아오 마무앙(망고 스티키 라이스)은 태국에서 가장 사랑받는 디저트로, 단순해 보이지만 최고의 재료와 정밀한 기술로 완벽함을 이루는 요리입니다. 코코넛 밀크에 절인 달콤한 찹쌀에 완벽하게 익은 망고를 곁들이면, 태국 디저트의 정수를 담은 풍미와 식감의 조화가 탄생합니다 — 지나치게 달지 않고, 자연의 맛을 살리며, 제철에만 즐길 수 있는 특별한 디저트입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "남독마이 망고",
+          "purpose": "태국 프리미엄 망고 품종 — 달콤하고 부드러우며 섬유질이 없는 것이 특징",
+          "substitutes": [
+            "옥롱 망고",
+            "아타울포 망고",
+            "잘 익은 달콤한 망고 아무 품종"
+          ]
+        },
+        {
+          "name": "찹쌀 (카오니아오)",
+          "purpose": "익히면 크리미해지는 특별한 찹쌀 — 이 디저트의 핵심",
+          "substitutes": [
+            "대체재가 없음 — 일반 쌀은 불가",
+            "일본 모찌 쌀 (식감이 다름)"
+          ]
+        },
+        {
+          "name": "코코넛 크림",
+          "purpose": "모든 맛을 하나로 묶어주는 풍부한 토핑",
+          "substitutes": [
+            "진한 코코넛 밀크",
+            "캐슈 크림 (가벼운 버전용)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "찜과 세심한 타이밍",
+        "steps_overview": "찹쌀을 하룻밤 불린 후 대나무 바구니에 쪄냅니다. 따뜻할 때 달콤한 코코넛 밀크를 섞으면 쌀이 풍미를 흡수합니다. 망고는 완벽한 숙성 상태여야 합니다 — 슬라이스할 수 있을 만큼 단단하면서 달콤하고 향기로운 상태.",
+        "cooking_tips": [
+          "쌀은 최소 8시간 불려야 합니다 — 하룻밤이 가장 좋습니다",
+          "대나무 찜통에 쪄야 정통 풍미가 납니다",
+          "코코넛 소스는 쌀이 아직 따뜻할 때 섞어야 잘 흡수됩니다",
+          "줄기 부분에서 달콤한 향이 나는 망고를 고르세요",
+          "차갑게가 아닌 실온에서 제공하세요"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "왕실 주방에서 유래했으며, 최고의 망고는 귀족을 위해 보관되었습니다. 이 디저트는 태국 새해(송크란)와 겹치는 망고 시즌(4-5월)을 기념합니다.",
+        "cultural_importance": "이 디저트는 태국의 농업적 풍요와 제철 음식의 중요성을 상징합니다. 연중 내내 먹을 수 있도록 변형되지 않은 몇 안 되는 태국 요리 중 하나 — 망고가 익을 때만 즐기는 특별한 계절 디저트입니다.",
+        "traditional_occasions": [
+          "송크란 축제",
+          "망고 시즌 축하",
+          "사원 공양",
+          "특별한 날의 디저트"
+        ]
+      },
+      "variations": [
+        {
+          "name": "카오니아오 투리안",
+          "description": "두리안 버전 — 열대과일 마니아를 위한 선택입니다."
+        },
+        {
+          "name": "카오니아오 담 (흑미)",
+          "description": "흑미 찹쌀로 만든 버전 — 더 고소한 풍미가 특징입니다."
+        },
+        {
+          "name": "카오니아오 문",
+          "description": "판단향 커스터드를 추가한 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "코코넛 크림",
+          "볶은 녹두",
+          "으깬 얼음 (여름)"
+        ],
+        "presentation": "접시에 찹쌀을 담고 망고 슬라이스와 코코넛 크림을 올려 제공합니다",
+        "eating_etiquette": "숟가락으로 찹쌀과 망고, 코코넛 크림을 함께 떠서 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "매 와리 (방콕) — 가장 유명한 전문점",
+          "전통 디저트 가게",
+          "사원 근처 노점",
+          "야시장 디저트 부스"
+        ],
+        "street_food_areas": [
+          "카오산 로드 (방콕)",
+          "짜뚜짝 시장",
+          "전국 야시장"
+        ],
+        "price_ranges": {
+          "street_vendor": "40-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
