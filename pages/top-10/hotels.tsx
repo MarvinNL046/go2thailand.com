@@ -386,7 +386,7 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
           city,
           title: data.title,
           meta_description: data.meta_description,
-          last_updated: data.last_perplexity_update || data.generated_at,
+          last_updated: data.last_perplexity_update || data.generated_at || null,
           item_count: data.items?.length || 10,
           has_current_data: !!(data.data_sources && data.data_sources.length > 0)
         };
