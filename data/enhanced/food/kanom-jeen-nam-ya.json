@@ -5,7 +5,7 @@
     "en": "Kanom Jeen Nam Ya",
     "nl": "Kanom Jeen Nam Ya",
     "thai": "ขนมจีนน้ำยา",
-    "ja": "カノムジーン・ナムヤー"
+    "ko": "카놈찐남야"
   },
   "category": "main-dish",
   "region": "southern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Fermented rice noodles with fish curry sauce",
     "nl": "Gefermenteerde rijstnoedels met viscurrysaus",
-    "ja": "米粉麺に魚のカレーソースをかけた伝統料理、新鮮な野菜を添えて"
+    "ko": "생선 커리 소스를 곁들인 발효 쌀국수"
   },
   "ingredients": [
     "fermented rice noodles",
@@ -35,12 +35,12 @@
     "metaTitle": {
       "en": "Kanom Jeen Nam Ya Recipe | Authentic Thai main dish",
       "nl": "Kanom Jeen Nam Ya Recept | Authentieke Thaise main dish",
-      "ja": "カノムジーン・ナムヤーのレシピ | 本格タイ料理"
+      "ko": "카놈찐남야 레시피 | 정통 태국 남부 생선 커리 국수"
     },
     "metaDescription": {
       "en": "Learn about Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Fermented rice noodles with fish curry sauce...",
       "nl": "Leer over Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Gefermenteerde rijstnoedels met viscurrysaus...",
-      "ja": "カノムジーン・ナムヤー（ขนมจีนน้ำยา）について — 米粉麺に魚のカレーソースをかけたタイの伝統料理。"
+      "ko": "카놈찐남야(ขนมจีนน้ำยา) - 생선 커리 소스를 곁들인 발효 쌀국수. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -667,6 +667,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "카놈찐남야는 태국 남부의 대표적인 국수 요리로, 발효 쌀국수에 생선살로 만든 진한 커리 소스를 끼얹어 먹는 풍미 깊은 요리입니다. 약 45분이 소요되는 다소 정성이 필요한 레시피이지만, 남부 태국 요리의 강렬한 향신료, 해산물, 코코넛 커리의 정수를 보여줍니다. 발효 쌀국수의 쫄깃한 식감, 생선과 레몬그라스, 갈랑갈의 조합이 깊고 조화로운 맛을 만들어내어 현지인과 관광객 모두에게 사랑받는 메뉴입니다. 합리적인 가격에 정통 태국 요리를 즐길 수 있습니다.",
+      "detailed_ingredients": [
+        {
+          "name": "카놈찐 (발효 쌀국수)",
+          "purpose": "이 요리의 베이스가 되는 쫄깃한 발효 쌀국수로, 독특한 식감과 은은한 발효 향이 특징입니다",
+          "substitutes": [
+            "생 카놈찐",
+            "건조 쌀국수",
+            "일반 쌀국수 (대체용)"
+          ]
+        },
+        {
+          "name": "생선 (주로 민물 생선)",
+          "purpose": "커리 소스의 주재료로, 생선살을 으깨어 진한 감칠맛의 베이스를 만듭니다",
+          "substitutes": [
+            "신선한 생선",
+            "건어물",
+            "생선 페이스트"
+          ]
+        },
+        {
+          "name": "레몬그라스",
+          "purpose": "커리 페이스트의 핵심 향신료로, 상쾌한 시트러스 향을 더합니다",
+          "substitutes": [
+            "신선한 레몬그라스",
+            "건조 레몬그라스",
+            "레몬그라스 페이스트"
+          ]
+        },
+        {
+          "name": "갈랑갈 (카)",
+          "purpose": "커리 페이스트에 깊은 향과 따뜻한 풍미를 더하는 향신료",
+          "substitutes": [
+            "신선한 갈랑갈",
+            "건조 갈랑갈",
+            "생강 (대체용)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "끓이기와 졸이기 (커리 소스 조리)",
+        "steps_overview": "카놈찐남야를 만들려면 먼저 생선을 삶아 살을 발라내고, 레몬그라스, 갈랑갈, 고추, 샬롯 등을 빻아 커리 페이스트를 만듭니다. 코코넛 밀크에 페이스트를 풀고 생선살을 넣어 걸쭉하게 끓입니다. 발효 쌀국수를 접시에 담고 뜨거운 커리 소스를 끼얹어 완성합니다.",
+        "cooking_tips": [
+          "신선한 발효 쌀국수(카놈찐)를 사용하면 최상의 식감을 얻을 수 있습니다",
+          "생선살은 뼈를 완전히 제거해야 부드러운 소스가 됩니다",
+          "커리 페이스트를 충분히 볶아야 깊은 풍미가 납니다",
+          "곁들임 채소와 함께 먹으면 맛의 균형이 좋아집니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "카놈찐남야는 태국 남부에서 수세대에 걸쳐 전해 내려온 전통 요리로, 이 지역의 풍부한 해산물과 독특한 향신료 문화를 반영합니다. '카놈찐'이라는 이름은 몬어에서 유래한 것으로, 태국의 다문화적 음식 역사를 보여줍니다.",
+        "cultural_importance": "이 요리는 남부 태국 요리의 정수를 대표하며, 특히 축제나 사원 행사에서 대량으로 준비되어 나눠 먹는 공동체 음식으로서의 의미가 큽니다. 태국인들에게 카놈찐남야는 어머니의 손맛과 고향의 추억을 떠올리게 하는 요리입니다.",
+        "traditional_occasions": [
+          "사원 축제",
+          "가족 모임",
+          "지역 행사",
+          "일상 식사"
+        ]
+      },
+      "variations": [
+        {
+          "name": "카놈찐남야 전통식",
+          "description": "민물 생선으로 만든 진한 커리 소스의 가장 전통적인 버전입니다."
+        },
+        {
+          "name": "카놈찐남야 따이 (남부식)",
+          "description": "남부 태국 특유의 강한 향신료와 강황을 사용한 더 매콤한 버전입니다."
+        },
+        {
+          "name": "채식 카놈찐남야",
+          "description": "생선 대신 두부와 버섯으로 만든 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "신선한 채소 (숙주, 깻잎, 부추)",
+          "삶은 달걀",
+          "피클 (절임 채소)"
+        ],
+        "presentation": "접시에 국수를 담고 커리 소스를 끼얹어 남부 태국 스타일로 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 국수와 소스를 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 남부 태국 레스토랑",
+          "사원 근처 식당",
+          "전통 시장",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "아침 시장",
+          "야시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
