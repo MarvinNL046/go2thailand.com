@@ -4,14 +4,16 @@
   "name": {
     "en": "Pad See Ew",
     "nl": "Pad See Ew",
-    "thai": "ผัดซีอิ๊ว"
+    "thai": "ผัดซีอิ๊ว",
+    "ja": "パッシーイウ"
   },
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg",
-    "nl": "Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei"
+    "nl": "Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei",
+    "ja": "太い米麺をダークソイソース、カイラン菜、卵で炒めた一品"
   },
   "ingredients": [
     "wide rice noodles",
@@ -29,11 +31,13 @@
   "seo": {
     "metaTitle": {
       "en": "Pad See Ew Recipe | Authentic Thai main dish",
-      "nl": "Pad See Ew Recept | Authentieke Thaise main dish"
+      "nl": "Pad See Ew Recept | Authentieke Thaise main dish",
+      "ja": "パッシーイウのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Pad See Ew (ผัดซีอิ๊ว) - Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg...",
-      "nl": "Leer over Pad See Ew (ผัดซีอิ๊ว) - Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei..."
+      "nl": "Leer over Pad See Ew (ผัดซีอิ๊ว) - Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei...",
+      "ja": "パッシーイウ（ผัดซีอิ๊ว）について — 太い米麺をダークソイソースで炒めたタイの定番麺料理。"
     }
   },
   "tags": [
