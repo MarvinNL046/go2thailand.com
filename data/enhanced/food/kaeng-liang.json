@@ -5,7 +5,7 @@
     "en": "Kaeng Liang",
     "nl": "Kaeng Liang",
     "thai": "แกงเลียง",
-    "ja": "ゲーン・リアン"
+    "ko": "깽리앙"
   },
   "category": "soup",
   "region": "northern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Spicy vegetable soup with shrimp",
     "nl": "Pittige groentesoep met garnalen",
-    "ja": "胡椒とエシャロットで味付けした野菜たっぷりのスパイシースープ"
+    "ko": "새우가 들어간 매콤한 태국 채소 수프"
   },
   "ingredients": [
     "mixed vegetables",
@@ -34,12 +34,12 @@
     "metaTitle": {
       "en": "Kaeng Liang Recipe | Authentic Thai soup",
       "nl": "Kaeng Liang Recept | Authentieke Thaise soup",
-      "ja": "ゲーン・リアンのレシピ | 本格タイスープ"
+      "ko": "깽리앙 레시피 | 정통 태국 채소 수프"
     },
     "metaDescription": {
       "en": "Learn about Kaeng Liang (แกงเลียง) - Spicy vegetable soup with shrimp...",
       "nl": "Leer over Kaeng Liang (แกงเลียง) - Pittige groentesoep met garnalen...",
-      "ja": "ゲーン・リアン（แกงเลียง）について — 胡椒とエシャロットで味付けした野菜たっぷりのタイの伝統スープ。"
+      "ko": "깽리앙(แกงเลียง) - 새우와 다양한 채소가 들어간 매콤한 태국 전통 수프. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -666,6 +666,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "깽리앙은 태국의 전통 채소 수프로, 다양한 채소와 새우를 까삐(새우 페이스트)와 백후추로 매콤하게 끓인 영양 가득한 건강식입니다. 약 25분이면 완성할 수 있는 간단한 레시피로, 태국 가정식의 정수를 보여줍니다. 각종 채소, 새우, 까삐의 조합이 깊은 감칠맛과 조화로운 풍미를 만들어내며, 태국인들이 건강을 위해 즐겨 먹는 전통 수프입니다. 합리적인 가격에 정통 태국 가정 요리를 즐길 수 있습니다.",
+      "detailed_ingredients": [
+        {
+          "name": "각종 채소 (호박, 옥수수, 바질 등)",
+          "purpose": "수프의 영양과 식감을 풍부하게 하는 주재료",
+          "substitutes": [
+            "시금치",
+            "애호박",
+            "양배추"
+          ]
+        },
+        {
+          "name": "새우",
+          "purpose": "해산물의 감칠맛과 단백질을 더하는 재료",
+          "substitutes": [
+            "건새우",
+            "새우살",
+            "두부 (채식 대체)"
+          ]
+        },
+        {
+          "name": "까삐 (새우 페이스트)",
+          "purpose": "깊은 감칠맛의 베이스가 되는 핵심 조미료",
+          "substitutes": [
+            "새우장",
+            "액젓",
+            "된장 (대체용)"
+          ]
+        },
+        {
+          "name": "백후추",
+          "purpose": "은은하고 따뜻한 매콤함을 더하는 향신료",
+          "substitutes": [
+            "백후추 가루",
+            "통후추",
+            "흑후추 (대체용)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "끓이기 (수프 조리)",
+        "steps_overview": "깽리앙을 만들려면 먼저 까삐, 샬롯, 백후추를 절구에 빻아 페이스트를 만듭니다. 물을 끓이고 페이스트를 풀어넣은 다음, 단단한 채소부터 순서대로 넣어 익힙니다. 새우를 넣고 익으면 바질잎을 올려 완성합니다.",
+        "cooking_tips": [
+          "채소는 단단한 것부터 순서대로 넣어야 골고루 익습니다",
+          "까삐를 먼저 충분히 풀어야 감칠맛이 깊어집니다",
+          "새우는 마지막에 넣어 과하게 익지 않게 하세요",
+          "바질은 불을 끄기 직전에 넣어 향을 살리세요"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "깽리앙은 태국의 전통 가정식 수프로, 특히 산모의 산후 조리용 음식으로 유명합니다. 백후추와 다양한 채소가 몸을 따뜻하게 하고 영양을 보충해 주는 것으로 알려져 있습니다.",
+        "cultural_importance": "이 수프는 태국 가정 요리의 지혜를 대표하며, 건강식으로서의 태국 요리의 면모를 보여줍니다. 약선 요리로도 인식되어 몸이 아플 때나 기력 회복이 필요할 때 즐겨 먹습니다.",
+        "traditional_occasions": [
+          "산후 조리",
+          "가족 일상 식사",
+          "건강 회복기",
+          "우기철 따뜻한 식사"
+        ]
+      },
+      "variations": [
+        {
+          "name": "깽리앙 전통식",
+          "description": "다양한 제철 채소와 새우를 넣은 가장 전통적인 버전입니다."
+        },
+        {
+          "name": "깽리앙 채식",
+          "description": "새우와 까삐를 빼고 된장으로 대체한 채식 버전입니다."
+        },
+        {
+          "name": "깽리앙 해산물",
+          "description": "새우 외에 오징어와 조개를 추가한 해산물 풍성한 변형입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "재스민 쌀밥",
+          "신선한 채소",
+          "태국식 오믈렛"
+        ],
+        "presentation": "그릇에 담아 전통 태국 스타일로 따뜻하게 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 숟가락으로 밥과 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 가정식 레스토랑",
+          "전통 태국 식당",
+          "시장 내 식당",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "아침 시장",
+          "현지 푸드코트",
+          "대학 식당"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
