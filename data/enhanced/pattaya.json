@@ -6,7 +6,11 @@
     "nl": "Pattaya",
     "ja": "パタヤ",
     "ko": "파타야",
-    "th": "พัทยา"
+    "th": "พัทยา",
+    "de": "Pattaya",
+    "fr": "Pattaya",
+    "ru": "Паттайя",
+    "zh": "芭堤雅"
   },
   "region": "Central",
   "province": "Chonburi",
@@ -15,7 +19,11 @@
     "nl": "Levendige kuststad nabij Bangkok, bekend om stranden, uitgaan en attracties.",
     "ja": "バンコクから近い活気ある海岸都市パタヤは、ビーチ、ナイトライフ、ファミリー向けアトラクションで知られ、多彩な楽しみ方ができるリゾート地です。",
     "ko": "방콕에서 가까운 활기찬 해안 도시로, 해변, 나이트라이프, 가족 어트랙션으로 유명합니다.",
-    "th": "เมืองชายทะเลใกล้กรุงเทพฯ มีหาดทราย สวนน้ำ ชีวิตยามค่ำคืน และวอล์กกิ้งสตรีท"
+    "th": "เมืองชายทะเลใกล้กรุงเทพฯ มีหาดทราย สวนน้ำ ชีวิตยามค่ำคืน และวอล์กกิ้งสตรีท",
+    "de": "Lebendige Küstenstadt in der Nähe von Bangkok, bekannt für Strände, Nachtleben und familienfreundliche Attraktionen.",
+    "fr": "Ville côtière animée près de Bangkok, connue pour ses plages, sa vie nocturne et ses attractions familiales.",
+    "ru": "Оживлённый приморский город рядом с Бангкоком, известный пляжами, ночной жизнью и развлечениями для всей семьи.",
+    "zh": "靠近曼谷的热闹海滨城市，以海滩、夜生活和适合家庭的景点而闻名。"
   },
   "population": 119000,
   "highlights": [
@@ -35,14 +43,22 @@
       "nl": "Ontdek Pattaya | Wat te doen in Pattaya?",
       "ja": "パタヤを満喫 | パタヤの観光・見どころガイド",
       "ko": "파타야 태국 — 해변 & 나이트라이프 여행 가이드 2026",
-      "th": "พัทยา ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026"
+      "th": "พัทยา ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "de": "Entdecken Sie Pattaya | Was kann man in Pattaya erleben?",
+      "fr": "Découvrez Pattaya | Que faire à Pattaya ?",
+      "ru": "Откройте для себя Паттайю | Что делать в Паттайе?",
+      "zh": "发现芭堤雅 | 在芭堤雅做什么？"
     },
     "metaDescription": {
       "en": "Your guide to Pattaya, Thailand – tips, highlights, food, hotels.",
       "nl": "Jouw gids voor Pattaya, Thailand – tips, highlights, eten, hotels.",
       "ja": "タイ・パタヤの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。",
       "ko": "파타야(태국) 완벽 여행 가이드: 해변, 나이트라이프, 가족 어트랙션, 섬 투어. 가격, 팁, 방콕에서 가는 법.",
-      "th": "คู่มือท่องเที่ยวพัทยา ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026"
+      "th": "คู่มือท่องเที่ยวพัทยา ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
+      "de": "Ihr Guide zu Pattaya, Thailand – Tipps, Highlights, Essen, Hotels.",
+      "fr": "Votre guide de Pattaya, Thaïlande – conseils, points forts, gastronomie, hôtels.",
+      "ru": "Ваш гид по Паттайе, Таиланд — советы, достопримечательности, еда, отели.",
+      "zh": "您的泰国芭堤雅指南——提示、亮点、美食、酒店。"
     }
   },
   "categories": {

@@ -6,7 +6,11 @@
     "nl": "Rayong",
     "ja": "ラヨーン",
     "ko": "라용",
-    "th": "ระยอง"
+    "th": "ระยอง",
+    "de": "Rayong",
+    "fr": "Rayong",
+    "ru": "Rayong",
+    "zh": "罗勇"
   },
   "region": "Central",
   "province": "Rayong",
@@ -15,7 +19,11 @@
     "nl": "Kustprovincie ten oosten van Bangkok, toegangspoort tot het populaire eiland Koh Samet. Beroemd om tropische fruitboomgaarden, lange zandstranden, verse zeevruchten en een ontspannen sfeer weg van de toeristische drukte.",
     "ja": "バンコクの東に位置する海岸沿いの県ラヨーンは、人気のサメット島への玄関口であり、フルーツ農園やシーフードでも有名です。",
     "ko": "방콕 동쪽의 해안 지방으로, 인기 있는 꼬사멧 섬의 관문입니다. 열대 과일 농장, 긴 모래 해변, 신선한 해산물, 관광객 인파에서 벗어난 여유로운 분위기로 유명합니다.",
-    "th": "จังหวัดชายทะเลตะวันออก มีเกาะเสม็ด ทุเรียน ผลไม้สด และหาดทรายสะอาด"
+    "th": "จังหวัดชายทะเลตะวันออก มีเกาะเสม็ด ทุเรียน ผลไม้สด และหาดทรายสะอาด",
+    "de": "Die Küstenprovinz östlich von Bangkok, Tor zur beliebten Insel Koh Samet. Bekannt für tropische Obstgärten, lange Sandstrände, frische Meeresfrüchte und eine entspannte Atmosphäre fernab der Touristenmassen.",
+    "fr": "Province côtière à l’est de Bangkok, porte d’entrée vers la populaire île de Koh Samet. Connue pour ses vergers de fruits tropicaux, ses longues plages de sable, ses fruits de mer frais et une ambiance détendue loin des foules de touristes.",
+    "ru": "Прибрежная провинция к востоку от Бангкока, ворота к популярному острову Ко Самет. Известна тропическими фруктовыми садами, длинными песчаными пляжами, свежими морепродуктами и непринуждённой атмосферой вдали от туристических толп.",
+    "zh": "海岸省份，位于曼谷以东，是前往热门的考桑美特岛的门户。以热带水果园、漫长的白沙海滩、新鲜的海鲜以及远离游客人群的放松氛围而闻名。"
   },
   "population": 65000,
   "highlights": [
@@ -35,14 +43,22 @@
       "nl": "Ontdek Rayong | Wat te doen in Rayong?",
       "ja": "ラヨーンを満喫 | ラヨーンの観光・見どころガイド",
       "ko": "라용 태국 — 꼬사멧 & 해변 여행 가이드 2026",
-      "th": "ระยอง ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026"
+      "th": "ระยอง ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "de": "Entdecken Sie Rayong | Was tun in Rayong?",
+      "fr": "Découvrez Rayong | Que faire à Rayong ?",
+      "ru": "Откройте для себя Районг | Что делать в Районге?",
+      "zh": "发现罗勇 | 在罗勇做什么？"
     },
     "metaDescription": {
       "en": "Your guide to Rayong, Thailand – tips, highlights, food, hotels.",
       "nl": "Jouw gids voor Rayong, Thailand – tips, highlights, eten, hotels.",
       "ja": "タイ・ラヨーンの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。",
       "ko": "라용(태국) 완벽 여행 가이드: 꼬사멧 섬, 과일 농장, 해산물, 해변. 가격, 팁, 방콕에서 가는 법.",
-      "th": "คู่มือท่องเที่ยวระยอง ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026"
+      "th": "คู่มือท่องเที่ยวระยอง ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
+      "de": "Ihr Guide zu Rayong, Thailand – Tipps, Highlights, Essen, Hotels.",
+      "fr": "Votre guide pour Rayong, Thaïlande – conseils, points forts, gastronomie, hôtels.",
+      "ru": "Ваш гид по Районгу, Таиланд — советы, достопримечательности, еда, отели.",
+      "zh": "您的泰国罗勇指南——小贴士、亮点、美食、酒店。"
     }
   },
   "categories": {
