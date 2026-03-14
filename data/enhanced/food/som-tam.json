@@ -5,7 +5,7 @@
     "en": "Som Tam",
     "nl": "Som Tam",
     "thai": "ส้มตำ",
-    "ja": "ソムタム"
+    "ko": "쏨땀"
   },
   "category": "salad",
   "region": "northeastern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts",
     "nl": "Pittige groene papajasalade met tomaten limoensap vissaus en pinda's",
-    "ja": "トマト、ライム、ナンプラー、ピーナッツで和えたスパイシーな青パパイヤサラダ"
+    "ko": "덜 익은 파파야를 절구에 빻아 토마토, 라임즙, 피시소스, 땅콩을 넣은 매콤한 샐러드"
   },
   "ingredients": [
     "green papaya",
@@ -37,12 +37,12 @@
     "metaTitle": {
       "en": "Som Tam Recipe | Authentic Thai salad",
       "nl": "Som Tam Recept | Authentieke Thaise salad",
-      "ja": "ソムタムのレシピ | 本格タイサラダ"
+      "ko": "쏨땀 레시피 | 정통 태국 이산 파파야 샐러드"
     },
     "metaDescription": {
       "en": "Learn about Som Tam (ส้มตำ) - Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts...",
       "nl": "Leer over Som Tam (ส้มตำ) - Pittige groene papajasalade met tomaten limoensap vissaus en pinda's...",
-      "ja": "ソムタム（ส้มตำ）について — スパイシーな青パパイヤサラダ。タイを代表する一品。"
+      "ko": "쏨땀(ส้มตำ) - 이산 지역이 세계에 선사한 파파야 샐러드. 절구에서 빻아 만드는 매콤새콤 중독성 샐러드의 레시피, 변형, 맛집 정보."
     }
   },
   "tags": [
@@ -626,6 +626,97 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "쏨땀(파파야 샐러드)은 이산(태국 동북부)이 세계에 선사한 폭발적인 맛의 선물입니다. 모든 미각을 동시에 공격하는 강렬한 풍미의 조합이 이 샐러드에 담겨 있습니다. 라오스와 태국 동북부에서 시작된 이 절구 샐러드는, 시장 어디서든 들리는 '뽁뽁' 소리 — 절구와 절구봉의 리듬감 있는 타격음 — 가 상징입니다. 상쾌하고, 매콤하고, 강렬하고, 중독적인 — 식감과 맛의 완벽한 균형을 이루는 요리입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "덜 익은 파파야",
+          "purpose": "아삭한 식감과 순한 맛으로 양념을 흡수하는 베이스 재료",
+          "substitutes": [
+            "덜 익은 망고",
+            "오이와 당근 믹스",
+            "콜라비",
+            "풋사과 (약간의 단맛 추가)"
+          ]
+        },
+        {
+          "name": "쁠라라 (발효 생선)",
+          "purpose": "이산 스타일 쏨땀의 강렬한 감칠맛의 핵심 — 독특한 발효 풍미를 더하는 재료",
+          "substitutes": [
+            "피시소스 (더 순한 맛)",
+            "새우 페이스트",
+            "멸치",
+            "간장 (채식용)"
+          ]
+        },
+        {
+          "name": "쥐눈이 고추 (프릭키누)",
+          "purpose": "이 샐러드를 전설로 만드는 강렬한 매운맛을 담당하는 재료",
+          "substitutes": [
+            "세라노 페퍼",
+            "버드아이 칠리",
+            "할라페뇨 (훨씬 순함)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "토기 절구(크록)에서 빻기",
+        "steps_overview": "마법은 절구 안에서 일어납니다. 각 재료를 으깨지 않고 '살짝 빻아' 풍미를 끌어내면서도 식감은 유지합니다. 빻는 순서가 중요합니다 — 마늘과 고추를 먼저, 그다음 양념, 마지막에 파파야를 넣고, 숟가락으로 뒤집어가며 빻습니다.",
+        "cooking_tips": [
+          "나무 절구가 아닌 토기 절구를 사용하세요 — 재료를 더 잘 잡아줍니다",
+          "빻되 으깨지 마세요 — 식감을 살려야 합니다",
+          "계속 맛보며 조절하세요 — 매번 맛이 다릅니다",
+          "파파야는 살짝 상처가 나되 여전히 아삭해야 합니다",
+          "생각보다 더 맵게 만드세요 — 단맛이 균형을 잡아줍니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "라오스에서 시작되어 이산(태국 동북부) 전역으로 퍼졌습니다. 농촌 공동체가 덜 익은 파파야를 활용하고 생선을 보존하는 방법으로 만들었으며, 이산 사람들의 창의성과 자원 활용 능력을 대표하는 요리입니다.",
+        "cultural_importance": "쏨땀은 단순한 음식 이상 — 사회적 의식입니다. 사람들이 쏨땀 노점 주위에 모여 각자의 주문을 맞춤 요청하고 함께 나눠 먹습니다. 태국에서 가장 많이 주문되는 요리로, 매일 수백만 명이 먹습니다.",
+        "traditional_occasions": [
+          "찹쌀과 함께하는 점심 기본 메뉴",
+          "맥주 안주",
+          "수확 축제",
+          "사원 행사"
+        ]
+      },
+      "variations": [
+        {
+          "name": "쏨땀 타이",
+          "description": "건새우, 땅콩, 피시소스를 넣은 '안전한' 버전 — 외국인에게 가장 추천되는 스타일입니다."
+        },
+        {
+          "name": "쏨땀 뿌 쁠라라",
+          "description": "발효 생선(쁠라라)과 논게(뿌)를 넣은 이산 정통 스타일 — 용감한 미각을 위한 버전입니다."
+        },
+        {
+          "name": "쏨땀 뽄라마이",
+          "description": "사과, 포도, 땅콩을 넣은 과일 샐러드 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "찹쌀 (카오니아오) — 필수",
+          "까이양 (숯불 구이 닭)",
+          "신선한 채소 (양배추, 풋콩, 바질)"
+        ],
+        "presentation": "절구에서 바로 접시에 담아 제공합니다",
+        "eating_etiquette": "찹쌀을 손으로 뭉쳐 쏨땀에 찍어 먹거나, 포크와 숟가락으로 먹습니다. 매운 정도는 주문 시 고추 개수로 조절합니다."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "쏨땀 누아 (방콕) — 모던 이산 레스토랑 체인",
+          "랍 우본 (방콕) — 정통 이산 맛",
+          "플라스틱 의자가 있는 아무 이산 식당"
+        ],
+        "street_food_areas": [
+          "소이 38 야시장, 방콕",
+          "JJ 그린 야시장",
+          "점심시간 아무 공사 현장 (노동자들을 따라가세요)"
+        ]
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
