@@ -4,14 +4,16 @@
   "name": {
     "en": "Tom Som Pla",
     "nl": "Tom Som Pla",
-    "thai": "ต้มส้มปลา"
+    "thai": "ต้มส้มปลา",
+    "ja": "トムソムプラー"
   },
   "category": "soup",
   "region": "southern",
   "spice_level": "medium",
   "description": {
     "en": "Sour and spicy fish soup with turmeric",
-    "nl": "Zure en pittige vissoep met kurkuma"
+    "nl": "Zure en pittige vissoep met kurkuma",
+    "ja": "ターメリックを使った酸っぱくてスパイシーな魚のスープ"
   },
   "ingredients": [
     "fish",
@@ -32,11 +34,13 @@
   "seo": {
     "metaTitle": {
       "en": "Tom Som Pla Recipe | Authentic Thai soup",
-      "nl": "Tom Som Pla Recept | Authentieke Thaise soup"
+      "nl": "Tom Som Pla Recept | Authentieke Thaise soup",
+      "ja": "トムソムプラーのレシピ | 本格タイスープ"
     },
     "metaDescription": {
       "en": "Learn about Tom Som Pla (ต้มส้มปลา) - Sour and spicy fish soup with turmeric...",
-      "nl": "Leer over Tom Som Pla (ต้มส้มปลา) - Zure en pittige vissoep met kurkuma..."
+      "nl": "Leer over Tom Som Pla (ต้มส้มปลา) - Zure en pittige vissoep met kurkuma...",
+      "ja": "トムソムプラー（ต้มส้มปลา）について — ターメリックを使った酸っぱくてスパイシーな魚のスープ。"
     }
   },
   "tags": [
