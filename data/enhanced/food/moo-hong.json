@@ -5,7 +5,7 @@
     "en": "Moo Hong",
     "nl": "Moo Hong",
     "thai": "หมูฮ้อง",
-    "ja": "ムーホン"
+    "ko": "무홍"
   },
   "category": "main-dish",
   "region": "southern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Braised pork belly in sweet soy sauce Phuket style",
     "nl": "Gestoofd varkensbuik in zoete sojasaus Phuket stijl",
-    "ja": "プーケット風甘い醤油で煮込んだ豚バラ肉"
+    "ko": "푸켓 스타일 달콤한 간장 소스에 조린 삼겹살"
   },
   "ingredients": [
     "pork belly",
@@ -33,12 +33,12 @@
     "metaTitle": {
       "en": "Moo Hong Recipe | Authentic Thai main dish",
       "nl": "Moo Hong Recept | Authentieke Thaise main dish",
-      "ja": "ムーホンのレシピ | 本格タイ料理"
+      "ko": "무홍 레시피 | 정통 푸켓 간장 삼겹살 조림"
     },
     "metaDescription": {
       "en": "Learn about Moo Hong (หมูฮ้อง) - Braised pork belly in sweet soy sauce Phuket style...",
       "nl": "Leer over Moo Hong (หมูฮ้อง) - Gestoofd varkensbuik in zoete sojasaus Phuket stijl...",
-      "ja": "ムーホン（หมูฮ้อง）について — プーケット風の甘い醤油でじっくり煮込んだ豚バラ肉。"
+      "ko": "무홍(หมูฮ้อง) - 달콤한 간장 소스에 오래 조린 푸켓 스타일 삼겹살. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -663,6 +663,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "무홍은 태국 남부 푸켓의 대표적인 조림 요리로, 삼겹살을 간장과 야자 설탕, 마늘, 백후추, 고수 뿌리와 함께 오랜 시간 천천히 조려 만드는 달콤짭짤한 돼지고기 요리입니다. 약 90분이 소요되는 중간 난이도의 레시피로, 중국 푸젠성의 돼지고기 조림이 푸켓에서 독자적으로 발전한 것입니다. 오랜 조림 과정을 거친 삼겹살은 입 안에서 녹을 정도로 부드럽고, 간장과 야자 설탕의 달콤짭짤한 소스가 깊은 감칠맛을 만들어냅니다. 푸켓의 뻬라나칸 음식 문화를 대표하는 소울 푸드입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "삼겹살 (껍질 포함)",
+          "purpose": "오래 조리면 살은 부드럽고 껍질은 쫄깃해지는 이 요리의 주재료",
+          "substitutes": [
+            "삼겹살",
+            "목살",
+            "앞다리살 (기름기 적은 대체)"
+          ]
+        },
+        {
+          "name": "간장 (시유담 + 시유카오)",
+          "purpose": "짙은 색과 달콤짭짤한 맛의 베이스가 되는 핵심 양념",
+          "substitutes": [
+            "진간장 + 국간장",
+            "중국식 노추 + 생추",
+            "타마리 소스"
+          ]
+        },
+        {
+          "name": "야자 설탕 (남딴삡)",
+          "purpose": "독특한 캐러멜 풍미의 달콤함을 더하는 전통 감미료",
+          "substitutes": [
+            "코코넛 설탕",
+            "흑설탕",
+            "황설탕"
+          ]
+        },
+        {
+          "name": "마늘과 고수 뿌리",
+          "purpose": "깊은 향과 풍미의 베이스를 만드는 향신 재료",
+          "substitutes": [
+            "마늘 페이스트",
+            "고수 줄기 (뿌리 대체)",
+            "백후추"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "저온 장시간 조림 (브레이징)",
+        "steps_overview": "무홍을 만들려면 먼저 삼겹살을 큼직하게 썰어 끓는 물에 데칩니다. 별도의 냄비에 마늘, 고수 뿌리, 백후추를 빻은 것을 볶아 향을 내고, 삼겹살을 넣어 겉면을 익힙니다. 간장, 야자 설탕, 물을 넣고 뚜껑을 덮어 약한 불에서 1시간 이상 천천히 조립니다. 소스가 걸쭉해지고 고기가 부드러워지면 완성입니다.",
+        "cooking_tips": [
+          "삼겹살은 껍질이 붙은 것을 사용해야 정통 식감이 납니다",
+          "약한 불에서 천천히 조려야 고기가 부드러워집니다 — 서두르면 질겨집니다",
+          "중간중간 뒤집어가며 조려야 골고루 색과 맛이 배어듭니다",
+          "하룻밤 재워두면 맛이 더 깊어집니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "무홍은 중국 푸젠성(호끼엔) 이민자들이 푸켓에 가져온 돼지고기 조림 요리가 현지화된 것입니다. 수세대에 걸쳐 태국 남부의 재료(야자 설탕, 고수 뿌리 등)가 더해져 독특한 푸켓 스타일의 조림으로 발전했습니다.",
+        "cultural_importance": "이 요리는 푸켓의 바바-뻬라나칸(중국-태국 혼혈) 음식 문화의 핵심입니다. 특히 명절이나 가족 행사에 빠지지 않는 요리로, 푸켓 사람들에게 어머니의 손맛과 가정의 따뜻함을 상징합니다. 푸켓 올드타운의 전통 식당에서 맛볼 수 있습니다.",
+        "traditional_occasions": [
+          "가족 모임",
+          "명절 음식",
+          "축제 음식",
+          "일상 가정식"
+        ]
+      },
+      "variations": [
+        {
+          "name": "무홍 전통식",
+          "description": "야자 설탕과 간장으로 오래 조린 가장 전통적인 푸켓 버전입니다."
+        },
+        {
+          "name": "무홍 오향식",
+          "description": "오향 가루와 팔각을 추가한 더 중국적인 풍미의 변형입니다."
+        },
+        {
+          "name": "무홍 계란 추가",
+          "description": "삶은 달걀을 함께 조려 단백질을 추가한 인기 변형입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "재스민 쌀밥",
+          "절임 겨자잎",
+          "삶은 채소"
+        ],
+        "presentation": "접시에 밥과 함께 담아 소스를 끼얹어 푸켓 스타일로 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 밥과 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "푸켓 올드타운 뻬라나칸 레스토랑",
+          "현지 가정식 식당",
+          "전통 시장",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "푸켓 올드타운",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
