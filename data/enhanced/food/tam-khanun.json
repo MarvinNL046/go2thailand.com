@@ -4,14 +4,16 @@
   "name": {
     "en": "Tam Khanun",
     "nl": "Tam Khanun",
-    "thai": "ตำขนุน"
+    "thai": "ตำขนุน",
+    "ja": "タムカヌン"
   },
   "category": "salad",
   "region": "northern",
   "spice_level": "hot",
   "description": {
     "en": "Spicy young jackfruit salad",
-    "nl": "Pittige jonge jackfruit salade"
+    "nl": "Pittige jonge jackfruit salade",
+    "ja": "若いジャックフルーツのスパイシーサラダ"
   },
   "ingredients": [
     "young jackfruit",
@@ -32,11 +34,13 @@
   "seo": {
     "metaTitle": {
       "en": "Tam Khanun Recipe | Authentic Thai salad",
-      "nl": "Tam Khanun Recept | Authentieke Thaise salad"
+      "nl": "Tam Khanun Recept | Authentieke Thaise salad",
+      "ja": "タムカヌンのレシピ | 本格タイサラダ"
     },
     "metaDescription": {
       "en": "Learn about Tam Khanun (ตำขนุน) - Spicy young jackfruit salad...",
-      "nl": "Leer over Tam Khanun (ตำขนุน) - Pittige jonge jackfruit salade..."
+      "nl": "Leer over Tam Khanun (ตำขนุน) - Pittige jonge jackfruit salade...",
+      "ja": "タムカヌン（ตำขนุน）について — 若いジャックフルーツを使ったスパイシーサラダ。"
     }
   },
   "tags": [

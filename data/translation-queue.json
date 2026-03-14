@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-14",
   "stats": {
     "total": 1504,
-    "completed": 1121
+    "completed": 1122
   },
   "queue": [
     {
@@ -8992,14 +8992,15 @@
       "type": "food",
       "file": "data/enhanced/food/tam-khanun.json",
       "locale": "ja",
-      "status": "in_progress",
-      "priority": 14
+      "status": "completed",
+      "priority": 14,
+      "completedAt": "2026-03-14"
     },
     {
       "type": "food",
       "file": "data/enhanced/food/thai-fried-rice.json",
       "locale": "ja",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 14
     },
     {
