@@ -4,19 +4,14 @@
   "name": {
     "en": "Thai Fried Rice",
     "nl": "Thaise Gebakken Rijst",
-    "thai": "ข้าวผัด",
-    "ko": "카오팟",
-    "th": "ข้าวผัด",
-    "ja": "Thai Fried Rice（タイ風炒飯）"
+    "thai": "ข้าวผัด"
   },
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Fragrant fried rice with jasmine rice fish sauce and fresh vegetables",
-    "nl": "Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten",
-    "ko": "재스민 쌀밥을 피시소스, 마늘, 채소와 함께 웍에 볶은 태국식 볶음밥",
-    "th": "ข้าวผัดไทย ข้าวหอมมะลิผัดน้ำปลากับผักสดและไข่ หอมกรุ่นจากกระทะร้อน"
+    "nl": "Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten"
   },
   "ingredients": [
     "jasmine rice",
@@ -38,17 +33,11 @@
   "seo": {
     "metaTitle": {
       "en": "Thai Fried Rice Recipe | Authentic Thai main dish",
-      "nl": "Thaise Gebakken Rijst Recept | Authentieke Thaise main dish",
-      "ko": "카오팟 레시피 | 정통 태국 볶음밥 (카오팟)",
-      "th": "สูตรข้าวผัด | อาหารจานหลักไทยแท้",
-      "ja": "Thai Fried Rice レシピ | 本格的なタイ料理の主菜"
+      "nl": "Thaise Gebakken Rijst Recept | Authentieke Thaise main dish"
     },
     "metaDescription": {
       "en": "Learn about Thai Fried Rice (ข้าวผัด) - Fragrant fried rice with jasmine rice fish sauce and fresh vegetables...",
-      "nl": "Leer over Thaise Gebakken Rijst (ข้าวผัด) - Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten...",
-      "ko": "카오팟(ข้าวผัด) - 전날 남은 재스민 쌀밥을 웍에 볶아 만드는 태국 대표 가정식. 중국식보다 가볍고 향긋한 태국 볶음밥의 레시피, 변형, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับข้าวผัด — ข้าวผัดไทย ข้าวหอมมะลิผัดน้ำปลากับผักสดและไข่ หอมกรุ่นจากกระทะร้อน สูตร วิธีทำ ประวัติ และร้านแนะนำ",
-      "ja": "タイの焼き飯（ข้าวผัด）について学ぶ。ジャスミンライス、魚醤、そして新鮮な野菜を使った香り高い焼き飯です。"
+      "nl": "Leer over Thaise Gebakken Rijst (ข้าวผัด) - Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten..."
     }
   },
   "tags": [

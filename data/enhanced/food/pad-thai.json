@@ -4,19 +4,14 @@
   "name": {
     "en": "Pad Thai",
     "nl": "Pad Thai",
-    "thai": "ผัดไทย",
-    "ko": "팟타이",
-    "th": "ผัดไทย",
-    "ja": "パッタイ"
+    "thai": "ผัดไทย"
   },
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce",
-    "nl": "Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus",
-    "ko": "두부 또는 새우, 숙주나물, 타마린드 소스를 넣은 볶음 쌀국수",
-    "th": "ผัดไทย เส้นจันท์ผัดกับเต้าหู้หรือกุ้ง ถั่วงอก ซอสมะขาม รสเปรี้ยวหวานเค็ม"
+    "nl": "Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus"
   },
   "ingredients": [
     "rice noodles",
@@ -40,17 +35,11 @@
   "seo": {
     "metaTitle": {
       "en": "Pad Thai Recipe | Authentic Thai main dish",
-      "nl": "Pad Thai Recept | Authentieke Thaise main dish",
-      "ko": "팟타이 레시피 | 정통 태국 볶음 쌀국수",
-      "th": "สูตรผัดไทย | อาหารจานหลักไทยแท้",
-      "ja": "パッタイのレシピ | 本格タイ料理の主菜"
+      "nl": "Pad Thai Recept | Authentieke Thaise main dish"
     },
     "metaDescription": {
       "en": "Learn about Pad Thai (ผัดไทย) - Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce...",
-      "nl": "Leer over Pad Thai (ผัดไทย) - Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus...",
-      "ko": "팟타이(ผัดไทย) - 타마린드 소스, 두부, 새우, 땅콩을 넣은 태국 대표 볶음 쌀국수. CNN 세계 최고 음식 선정. 레시피, 유래, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับผัดไทย — ผัดไทย เส้นจันท์ผัดกับเต้าหู้หรือกุ้ง ถั่วงอก ซอสมะขาม รสเปรี้ยวหวานเค็ม สูตร วิธีทำ ประวัติ และร้านแนะนำ",
-      "ja": "パッタイ（ผัดไทย）について学ぶ。豆腐またはエビ、もやしと米麺を炒め、タマリンドソースで仕上げる、タイを代表する料理です。"
+      "nl": "Leer over Pad Thai (ผัดไทย) - Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus..."
     }
   },
   "tags": [

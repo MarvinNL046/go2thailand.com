@@ -4,19 +4,14 @@
   "name": {
     "en": "Khao Man Gai",
     "nl": "Khao Man Gai",
-    "thai": "ข้าวมันไก่",
-    "ko": "카오만가이",
-    "th": "ข้าวมันไก่",
-    "ja": "カオマンガイ"
+    "thai": "ข้าวมันไก่"
   },
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Steamed chicken with rice cooked in chicken broth and ginger-chili sauce",
-    "nl": "Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus",
-    "ko": "닭 육수로 지은 밥에 찐 닭고기와 생강 칠리 소스를 곁들인 요리",
-    "th": "ข้าวมันไก่ ข้าวหุงน้ำซุปไก่เสิร์ฟกับไก่ต้มนุ่ม น้ำจิ้มซีอิ๊วขิงเผ็ด"
+    "nl": "Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus"
   },
   "ingredients": [
     "chicken",
@@ -36,17 +31,11 @@
   "seo": {
     "metaTitle": {
       "en": "Khao Man Gai Recipe | Authentic Thai main dish",
-      "nl": "Khao Man Gai Recept | Authentieke Thaise main dish",
-      "ko": "카오만가이 레시피 | 정통 태국 치킨 라이스",
-      "th": "สูตรข้าวมันไก่ | อาหารจานหลักไทยแท้",
-      "ja": "カオマンガイ レシピ | 本格的なタイの主菜"
+      "nl": "Khao Man Gai Recept | Authentieke Thaise main dish"
     },
     "metaDescription": {
       "en": "Learn about Khao Man Gai (ข้าวมันไก่) - Steamed chicken with rice cooked in chicken broth and ginger-chili sauce...",
-      "nl": "Leer over Khao Man Gai (ข้าวมันไก่) - Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus...",
-      "ko": "카오만가이(ข้าวมันไก่) - 닭 육수로 지은 밥에 부드러운 찐 닭고기와 생강 칠리 소스. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับข้าวมันไก่ — ข้าวมันไก่ ข้าวหุงน้ำซุปไก่เสิร์ฟกับไก่ต้มนุ่ม น้ำจิ้มซีอิ๊วขิงเผ็ด สูตร วิธีทำ ประวัติ และร้านแนะนำ",
-      "ja": "カオマンガイ（ข้าวมันไก่）について解説。鶏のだしで炊いたご飯と蒸し鶏、しょうがと唐辛子のソースが特徴の本格タイ料理の主菜です。"
+      "nl": "Leer over Khao Man Gai (ข้าวมันไก่) - Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus..."
     }
   },
   "tags": [

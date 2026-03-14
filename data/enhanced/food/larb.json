@@ -4,19 +4,14 @@
   "name": {
     "en": "Larb",
     "nl": "Larb",
-    "thai": "ลาบ",
-    "ko": "랍",
-    "th": "ลาบ",
-    "ja": "ラープ"
+    "thai": "ลาบ"
   },
   "category": "salad",
   "region": "northeastern",
   "spice_level": "hot",
   "description": {
     "en": "Spicy meat salad with herbs lime juice and toasted rice powder",
-    "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder",
-    "ko": "허브, 라임즙, 볶은 쌀가루를 곁들인 매콤한 고기 샐러드",
-    "th": "ลาบ สลัดเนื้อสับปรุงรสด้วยน้ำมะนาว น้ำปลา ข้าวคั่ว สมุนไพรสด รสเผ็ดเปรี้ยว"
+    "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder"
   },
   "ingredients": [
     "minced pork",
@@ -36,17 +31,11 @@
   "seo": {
     "metaTitle": {
       "en": "Larb Recipe | Authentic Thai salad",
-      "nl": "Larb Recept | Authentieke Thaise salad",
-      "ko": "랍 레시피 | 정통 태국 이산 고기 샐러드",
-      "th": "สูตรลาบ | สลัดไทยแท้",
-      "ja": "ラープのレシピ | 本格タイ料理のサラダ"
+      "nl": "Larb Recept | Authentieke Thaise salad"
     },
     "metaDescription": {
       "en": "Learn about Larb (ลาบ) - Spicy meat salad with herbs lime juice and toasted rice powder...",
-      "nl": "Leer over Larb (ลาบ) - Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder...",
-      "ko": "랍(ลาบ) - 허브, 라임즙, 볶은 쌀가루를 곁들인 태국 이산 지역의 매콤한 고기 샐러드. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับลาบ — ลาบ สลัดเนื้อสับปรุงรสด้วยน้ำมะนาว น้ำปลา ข้าวคั่ว สมุนไพรสด รสเผ็ดเปรี้ยว สูตร วิธีทำ ประวัติ และร้านแนะนำ",
-      "ja": "ラープ（ลาบ）とは、ハーブとライムジュース、炒り米粉を組み合わせたスパイシーな肉のサラダです。"
+      "nl": "Leer over Larb (ลาบ) - Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder..."
     }
   },
   "tags": [
