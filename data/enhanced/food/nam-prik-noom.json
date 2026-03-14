@@ -5,7 +5,7 @@
     "en": "Nam Prik Noom",
     "nl": "Nam Prik Noom",
     "thai": "น้ำพริกหนุ่ม",
-    "ja": "ナムプリック・ヌム"
+    "ko": "남프릭눔"
   },
   "category": "main-dish",
   "region": "northern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Northern green chili dip with grilled vegetables",
     "nl": "Noordelijke groene chili dip met gegrilde groenten",
-    "ja": "焼き野菜を添えた北タイの青唐辛子ディップ"
+    "ko": "구운 청고추로 만든 태국 북부 칠리 딥"
   },
   "ingredients": [
     "green chili",
@@ -34,12 +34,12 @@
     "metaTitle": {
       "en": "Nam Prik Noom Recipe | Authentic Thai main dish",
       "nl": "Nam Prik Noom Recept | Authentieke Thaise main dish",
-      "ja": "ナムプリック・ヌムのレシピ | 本格タイ料理"
+      "ko": "남프릭눔 레시피 | 정통 태국 북부 구운 청고추 칠리 딥"
     },
     "metaDescription": {
       "en": "Learn about Nam Prik Noom (น้ำพริกหนุ่ม) - Northern green chili dip with grilled vegetables...",
       "nl": "Leer over Nam Prik Noom (น้ำพริกหนุ่ม) - Noordelijke groene chili dip met gegrilde groenten...",
-      "ja": "ナムプリック・ヌム（น้ำพริกหนุ่ม）について — 焼き野菜を添えた北タイの青唐辛子ディップ。"
+      "ko": "남프릭눔(น้ำพริกหนุ่ม) - 숯불에 구운 청고추, 마늘, 샬롯으로 만든 태국 북부 란나 전통 칠리 딥. 채식 가능. 레시피, 재료, 맛집 정보."
     }
   },
   "tags": [
@@ -668,6 +668,110 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "남프릭눔은 태국 북부 란나 지역의 대표적인 칠리 딥으로, 큰 청고추(프릭눔)를 숯불에 구워 절구에 빻아 만드는 향긋하고 매콤한 양념입니다. 약 25분이면 완성할 수 있는 쉬운 레시피로, '눔'은 태국 북부 방언으로 '젊은'이라는 뜻으로 덜 익은 초록색 고추를 가리킵니다. 숯불에 구운 청고추의 훈연향과 마늘, 샬롯의 달콤한 향, 고수의 신선함이 어우러져 찹쌀(카오니아오)과 함께 먹으면 중독성 있는 맛을 만들어냅니다. 채식 가능한 요리로, 사이우아(북부 소시지), 캡무(돼지 껍데기 튀김)와 함께 란나 식사의 3대 필수 요소로 불립니다.",
+      "detailed_ingredients": [
+        {
+          "name": "프릭눔 (큰 청고추)",
+          "purpose": "숯불에 구워 훈연향과 중간 매운맛을 내는 주재료",
+          "substitutes": [
+            "아나하임 고추",
+            "할라페뇨 (더 매움)",
+            "시시토 고추 (덜 매움)"
+          ]
+        },
+        {
+          "name": "마늘과 샬롯",
+          "purpose": "숯불에 구워 달콤하고 깊은 향의 베이스를 만드는 향신 재료",
+          "substitutes": [
+            "생마늘 + 적양파",
+            "구운 양파",
+            "샬롯 페이스트"
+          ]
+        },
+        {
+          "name": "토마토",
+          "purpose": "자연스러운 새콤함과 수분을 더해 딥의 농도를 조절하는 재료",
+          "substitutes": [
+            "신선한 토마토",
+            "체리 토마토",
+            "방울토마토"
+          ]
+        },
+        {
+          "name": "고수 (팍치)",
+          "purpose": "신선한 향과 생동감을 더하는 마무리 허브",
+          "substitutes": [
+            "신선한 고수",
+            "태국 바질",
+            "파 (대체용)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "숯불 굽기와 절구 빻기",
+        "steps_overview": "남프릭눔을 만들려면 먼저 청고추, 마늘 (껍질째), 샬롯 (껍질째), 토마토를 숯불이나 직화에 올려 겉이 까맣게 탈 때까지 구워 훈연향을 냅니다. 구운 재료의 껍질을 벗기고 절구에 넣어 거칠게 빻습니다. 피시소스와 라임즙으로 간을 맞추고, 다진 고수를 섞어 완성합니다.",
+        "cooking_tips": [
+          "고추는 겉이 까맣게 탈 때까지 구워야 정통 훈연향이 납니다",
+          "절구로 빻을 때 너무 곱게 빻지 마세요 — 울퉁불퉁한 식감이 매력입니다",
+          "매운맛은 고추 씨를 제거하면 줄일 수 있습니다",
+          "찹쌀(카오니아오)과 함께 먹는 것이 정통 북부 스타일입니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "남프릭눔은 태국 북부 란나 왕국의 전통 음식으로, 치앙마이와 치앙라이 지역에서 수세대에 걸쳐 사랑받아 온 요리입니다. 북부 태국에서 재배되는 큰 청고추(프릭눔)를 활용한 것으로, 란나 고유의 음식 문화를 대표합니다.",
+        "cultural_importance": "남프릭눔은 사이우아(북부 소시지), 캡무(돼지 껍데기 튀김)와 함께 '란나 3종 세트'로 불리며, 북부 태국 식사에 빠질 수 없는 핵심 요소입니다. 채식 가능한 남프릭으로 사원 공양에도 적합하며, 치앙마이를 방문하는 여행자들의 필수 체험 음식입니다.",
+        "traditional_occasions": [
+          "란나 전통 식사 (칸톡)",
+          "일상 가정식",
+          "사원 공양",
+          "축제 음식"
+        ]
+      },
+      "variations": [
+        {
+          "name": "남프릭눔 전통식",
+          "description": "숯불에 구운 청고추로 만든 가장 전통적인 란나 스타일입니다."
+        },
+        {
+          "name": "남프릭눔 매운맛",
+          "description": "프릭키누(쥐눈이 고추)를 추가한 더 매운 버전입니다."
+        },
+        {
+          "name": "남프릭눔 채식",
+          "description": "피시소스 대신 간장으로 만든 완전 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "찹쌀 (카오니아오)",
+          "캡무 (돼지 껍데기 튀김)",
+          "신선한 채소 (오이, 가지, 장두)",
+          "삶은 채소"
+        ],
+        "presentation": "작은 그릇에 남프릭을 담고 찹쌀과 채소를 둘러 칸톡 스타일로 제공합니다",
+        "eating_etiquette": "찹쌀을 손으로 뭉쳐 남프릭을 찍어 먹는 것이 정통 북부 스타일입니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "치앙마이 칸톡 디너 레스토랑",
+          "북부 태국 전통 식당",
+          "와로롯 시장 반찬 가게",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "치앙마이 아침 시장",
+          "치앙라이 야시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "20-40 THB",
+          "market_stall": "30-50 THB",
+          "restaurant": "50-80 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
