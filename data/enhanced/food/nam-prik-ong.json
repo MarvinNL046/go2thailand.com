@@ -5,7 +5,7 @@
     "en": "Nam Prik Ong",
     "nl": "Nam Prik Ong",
     "thai": "น้ำพริกอ่อง",
-    "ja": "ナムプリックオン"
+    "ko": "남프릭옹"
   },
   "category": "main-dish",
   "region": "northern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Tomato and minced pork chili dip served with vegetables",
     "nl": "Tomaten-chili dip met varkensgehakt geserveerd met groenten",
-    "ja": "トマトと豚ひき肉のチリディップ、生野菜を添えて"
+    "ko": "다진 돼지고기와 토마토를 넣은 북부 태국 칠리 딥"
   },
   "ingredients": [
     "tomatoes",
@@ -33,12 +33,12 @@
     "metaTitle": {
       "en": "Nam Prik Ong Recipe | Authentic Thai main dish",
       "nl": "Nam Prik Ong Recept | Authentieke Thaise main dish",
-      "ja": "ナムプリックオンのレシピ | 本格タイ料理"
+      "ko": "남프릭옹 레시피 | 정통 태국 북부 토마토 돼지고기 칠리 딥"
     },
     "metaDescription": {
       "en": "Learn about Nam Prik Ong (น้ำพริกอ่อง) - Tomato and minced pork chili dip served with vegetables...",
       "nl": "Leer over Nam Prik Ong (น้ำพริกอ่อง) - Tomaten-chili dip met varkensgehakt geserveerd met groenten...",
-      "ja": "ナムプリックオン（น้ำพริกอ่อง）について — トマトと豚ひき肉のチリディップ。北タイの定番おかず。"
+      "ko": "남프릭옹(น้ำพริกอ่อง) - 다진 돼지고기, 토마토, 건고추로 만든 태국 북부 란나 전통 칠리 딥. 채소와 찹쌀에 곁들이는 레시피와 맛집 정보."
     }
   },
   "tags": [
@@ -663,6 +663,110 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "남프릭옹은 태국 북부 란나 지역의 대표적인 칠리 딥으로, 다진 돼지고기와 토마토를 건고추 페이스트와 함께 볶아 만드는 걸쭉하고 풍미 깊은 양념입니다. 약 25분이면 완성할 수 있는 쉬운 레시피로, 종종 '태국식 볼로네제'에 비유되지만 그보다 훨씬 복합적인 맛을 가지고 있습니다. 토마토의 자연스러운 새콤함, 다진 돼지고기의 감칠맛, 건고추의 은은한 매운맛이 조화를 이루며, 찹쌀과 신선한 채소를 곁들여 먹으면 완벽한 한 끼가 됩니다. 남프릭눔, 사이우아와 함께 란나 식사의 핵심 3종 세트를 이룹니다.",
+      "detailed_ingredients": [
+        {
+          "name": "다진 돼지고기",
+          "purpose": "감칠맛과 단백질의 베이스가 되는 주재료",
+          "substitutes": [
+            "다진 돼지고기",
+            "다진 닭고기",
+            "두부 크럼블 (채식 대체)"
+          ]
+        },
+        {
+          "name": "토마토",
+          "purpose": "자연스러운 새콤함과 수분, 붉은 색을 더하는 핵심 재료",
+          "substitutes": [
+            "신선한 토마토",
+            "체리 토마토",
+            "토마토 페이스트"
+          ]
+        },
+        {
+          "name": "건고추 페이스트",
+          "purpose": "매운맛과 깊은 색을 만드는 양념 베이스",
+          "substitutes": [
+            "건고추 + 새우 페이스트",
+            "고추장 (한국식 대체)",
+            "칠리 페이스트"
+          ]
+        },
+        {
+          "name": "마늘과 샬롯",
+          "purpose": "향과 풍미의 깊이를 더하는 기본 향신 재료",
+          "substitutes": [
+            "생마늘 + 샬롯",
+            "적양파",
+            "양파"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "볶기 (커리 페이스트 볶음)",
+        "steps_overview": "남프릭옹을 만들려면 먼저 건고추, 마늘, 샬롯, 새우 페이스트를 절구에 빻아 커리 페이스트를 만듭니다. 웍이나 냄비에 기름을 두르고 페이스트를 향이 날 때까지 볶은 후 다진 돼지고기를 넣어 익힙니다. 다진 토마토를 넣고 토마토가 부드러워지고 소스가 걸쭉해질 때까지 볶습니다. 피시소스와 야자 설탕으로 간을 맞춰 완성합니다.",
+        "cooking_tips": [
+          "토마토는 잘 익은 것을 사용해야 자연스러운 새콤함이 납니다",
+          "커리 페이스트는 기름이 분리될 때까지 충분히 볶아야 향이 깊어집니다",
+          "너무 오래 볶으면 토마토가 녹아 수프처럼 되니 적당한 농도에서 멈추세요",
+          "찹쌀과 캡무(돼지 껍데기 튀김)와 함께 먹으면 최고입니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "남프릭옹은 태국 북부 란나 왕국의 전통 음식으로, 버마(미얀마) 음식의 영향도 받은 것으로 알려져 있습니다. '옹'이라는 이름의 유래에 대해서는 여러 설이 있으며, 토마토가 동남아시아에 전래된 이후 발전한 비교적 근대적인 요리입니다.",
+        "cultural_importance": "남프릭옹은 남프릭눔, 사이우아와 함께 란나 식사의 '3대 필수 요소'로 꼽힙니다. 칸톡(란나 전통 식사) 디너에 빠지지 않는 요리이며, 치앙마이를 방문하는 여행자들이 반드시 맛봐야 할 북부 태국의 대표 음식입니다.",
+        "traditional_occasions": [
+          "칸톡 디너",
+          "란나 전통 축제",
+          "일상 가정식",
+          "사원 행사 음식"
+        ]
+      },
+      "variations": [
+        {
+          "name": "남프릭옹 전통식",
+          "description": "다진 돼지고기와 토마토로 만든 가장 전통적인 란나 스타일입니다."
+        },
+        {
+          "name": "남프릭옹 닭고기",
+          "description": "다진 닭고기를 사용한 가벼운 변형입니다."
+        },
+        {
+          "name": "채식 남프릭옹",
+          "description": "두부 크럼블과 토마토로 만든 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "찹쌀 (카오니아오)",
+          "캡무 (돼지 껍데기 튀김)",
+          "신선한 채소 (오이, 가지, 양배추)",
+          "삶은 채소"
+        ],
+        "presentation": "작은 그릇에 남프릭을 담고 찹쌀과 채소를 둘러 칸톡 스타일로 제공합니다",
+        "eating_etiquette": "찹쌀을 손으로 뭉쳐 남프릭을 찍어 먹거나, 채소에 올려 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "치앙마이 칸톡 디너 레스토랑",
+          "북부 태국 전통 식당",
+          "와로롯 시장 반찬 가게",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "치앙마이 아침 시장",
+          "치앙라이 야시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "25-40 THB",
+          "market_stall": "30-50 THB",
+          "restaurant": "50-80 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
