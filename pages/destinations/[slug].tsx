@@ -100,8 +100,8 @@ export default function DestinationHubPage({ data, affiliates }: Props) {
           <section className="mb-10">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Getting There & Around</h2>
             <div className="bg-white rounded-2xl p-6 shadow-sm grid md:grid-cols-2 gap-6">
-              <div><h3 className="font-bold mb-2">Getting There</h3><p className="text-gray-600">{data.gettingThere}</p></div>
-              <div><h3 className="font-bold mb-2">Getting Around</h3><p className="text-gray-600">{data.gettingAround}</p></div>
+              <div><h3 className="font-bold mb-2">Getting There</h3><p className="text-gray-600">{typeof data.gettingThere === 'string' ? data.gettingThere : Object.values(data.gettingThere).join(' ')}</p></div>
+              <div><h3 className="font-bold mb-2">Getting Around</h3><p className="text-gray-600">{typeof data.gettingAround === 'string' ? data.gettingAround : Array.isArray(data.gettingAround) ? (data.gettingAround as string[]).join(' ') : String(data.gettingAround)}</p></div>
             </div>
           </section>
 

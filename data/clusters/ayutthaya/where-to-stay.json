@@ -20,7 +20,11 @@
         "Quiet, atmospheric evenings among ancient ruins",
         "Bicycle rental shops concentrated on Naresuan Road"
       ],
-      "recommendedHotels": ["The Avail Ayutthaya", "Mayuu Ayutthaya Hotel", "S3 Ayutthaya Hotel"],
+      "recommendedHotels": [
+        "The Avail Ayutthaya",
+        "Mayuu Ayutthaya Hotel",
+        "S3 Ayutthaya Hotel"
+      ],
       "walkingScore": "8/10 — compact island, flat terrain, most temples within 2 km",
       "transportNotes": [
         "Everything on the island is reachable by bicycle (50–100 THB/day)",
@@ -53,7 +57,11 @@
         "Easy ferry connection to the island (5 THB, 2 minutes)",
         "Riverside restaurants serving fresh river prawns"
       ],
-      "recommendedHotels": ["Sala Ayutthaya", "iuDia on the River", "Baan Keang Chon Ayutthaya"],
+      "recommendedHotels": [
+        "Sala Ayutthaya",
+        "iuDia on the River",
+        "Baan Keang Chon Ayutthaya"
+      ],
       "walkingScore": "6/10 — riverside is pleasant for walking but temples require crossing the river",
       "transportNotes": [
         "Ferry to the island from multiple piers (5 THB, runs frequently)",
@@ -86,7 +94,10 @@
         "Ferry to the island within a 5-minute walk",
         "Bicycle rental shops near the station"
       ],
-      "recommendedHotels": ["Ayothaya Riverside Hotel", "Baan Are Gong Riverside Homestay"],
+      "recommendedHotels": [
+        "Ayothaya Riverside Hotel",
+        "Baan Are Gong Riverside Homestay"
+      ],
       "walkingScore": "5/10 — practical for immediate area but temples require crossing the river",
       "transportNotes": [
         "Train station within walking distance — direct trains to/from Bangkok",
@@ -114,7 +125,10 @@
         "Shopping, banks and restaurants along U-Thong Road",
         "Free parking — useful if driving from Bangkok"
       ],
-      "recommendedHotels": ["Classic Kameo Hotel & Serviced Apartments", "Centara Ayutthaya"],
+      "recommendedHotels": [
+        "Classic Kameo Hotel & Serviced Apartments",
+        "Centara Ayutthaya"
+      ],
       "walkingScore": "6/10 — walkable to the eastern temples but cycling is more practical for the full circuit",
       "transportNotes": [
         "On the main road connecting the island to the train station and highway",
@@ -149,5 +163,6 @@
       "sourceUrl": "https://www.tripadvisor.com/Hotels-g303897-Ayutthaya_Ayutthaya_Province-Hotels.html",
       "lastVerified": "2026-03-14"
     }
-  ]
+  ],
+  "generalTips": []
 }

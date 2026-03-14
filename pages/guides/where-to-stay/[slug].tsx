@@ -109,7 +109,7 @@ export default function WhereToStayPage({ data, affiliates }: Props) {
           )}
 
           {/* General tips */}
-          {data.generalTips.length > 0 && (
+          {data.generalTips && data.generalTips.length > 0 && (
             <section className="mb-10">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">
                 Tips for Booking Hotels in {data.cityName}

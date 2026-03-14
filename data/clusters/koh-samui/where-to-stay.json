@@ -20,10 +20,23 @@
         "Central Laem Din market for cheap Thai street food",
         "Water sports: jet ski, parasailing, paddleboard rentals available on the beach"
       ],
-      "recommendedHotels": ["Lub d Koh Samui Chaweng Beach", "Hyatt Regency Koh Samui"],
+      "recommendedHotels": [
+        "Lub d Koh Samui Chaweng Beach",
+        "Hyatt Regency Koh Samui"
+      ],
       "walkingScore": "8/10",
-      "transportNotes": ["Walking distance to everything within Chaweng", "Songthaews along the ring road to other beaches 40–100 THB", "Grab available but surge pricing common at night"],
-      "sources": [{"sourceName": "Destination Well Known", "sourceUrl": "https://destinationwellknown.com/where-to-stay-koh-samui/", "lastVerified": "2026-03-14"}]
+      "transportNotes": [
+        "Walking distance to everything within Chaweng",
+        "Songthaews along the ring road to other beaches 40–100 THB",
+        "Grab available but surge pricing common at night"
+      ],
+      "sources": [
+        {
+          "sourceName": "Destination Well Known",
+          "sourceUrl": "https://destinationwellknown.com/where-to-stay-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
     },
     {
       "name": "Lamai Beach",
@@ -37,10 +50,23 @@
         "Good snorkeling at the rocky northern end of the beach",
         "Smaller, less touristy night market with authentic local food"
       ],
-      "recommendedHotels": ["Baan Talay Resort", "Banyan Tree Samui"],
+      "recommendedHotels": [
+        "Baan Talay Resort",
+        "Banyan Tree Samui"
+      ],
       "walkingScore": "6/10",
-      "transportNotes": ["15 minutes from Chaweng by songthaew (50–80 THB)", "Ring road access to all other beaches", "Scooter recommended for exploring beyond Lamai"],
-      "sources": [{"sourceName": "North Abroad", "sourceUrl": "https://northabroad.com/where-to-stay-on-koh-samui/", "lastVerified": "2026-03-14"}]
+      "transportNotes": [
+        "15 minutes from Chaweng by songthaew (50–80 THB)",
+        "Ring road access to all other beaches",
+        "Scooter recommended for exploring beyond Lamai"
+      ],
+      "sources": [
+        {
+          "sourceName": "North Abroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-on-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
     },
     {
       "name": "Bophut (Fisherman's Village)",
@@ -54,10 +80,23 @@
         "Boutique hotel scene with more character than chain resorts",
         "Close to Big Buddha and Wat Plai Laem temples"
       ],
-      "recommendedHotels": ["Karma Resort", "Zazen Boutique Resort & Spa"],
+      "recommendedHotels": [
+        "Karma Resort",
+        "Zazen Boutique Resort & Spa"
+      ],
       "walkingScore": "7/10",
-      "transportNotes": ["Compact village — most things walkable along the waterfront", "10 minutes to Chaweng by songthaew or Grab", "Maenam pier (for Koh Phangan ferries) is 10 minutes west"],
-      "sources": [{"sourceName": "The Koh Samui Guide", "sourceUrl": "https://www.thekohsamuiguide.com/post/where-to-stay-koh-samui", "lastVerified": "2026-03-14"}]
+      "transportNotes": [
+        "Compact village — most things walkable along the waterfront",
+        "10 minutes to Chaweng by songthaew or Grab",
+        "Maenam pier (for Koh Phangan ferries) is 10 minutes west"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Koh Samui Guide",
+          "sourceUrl": "https://www.thekohsamuiguide.com/post/where-to-stay-koh-samui",
+          "lastVerified": "2026-03-14"
+        }
+      ]
     },
     {
       "name": "Maenam Beach",
@@ -71,10 +110,22 @@
         "Excellent sunset views facing north-northwest",
         "Several wellness retreats and yoga studios"
       ],
-      "recommendedHotels": ["Prana Resort Samui"],
+      "recommendedHotels": [
+        "Prana Resort Samui"
+      ],
       "walkingScore": "5/10",
-      "transportNotes": ["Spread out along the coast — scooter or songthaew needed", "Ferry pier for Koh Phangan and Koh Tao", "20 minutes from Chaweng via the ring road"],
-      "sources": [{"sourceName": "Santorinidave", "sourceUrl": "https://santorinidave.com/best-places-koh-samui", "lastVerified": "2026-03-14"}]
+      "transportNotes": [
+        "Spread out along the coast — scooter or songthaew needed",
+        "Ferry pier for Koh Phangan and Koh Tao",
+        "20 minutes from Chaweng via the ring road"
+      ],
+      "sources": [
+        {
+          "sourceName": "Santorinidave",
+          "sourceUrl": "https://santorinidave.com/best-places-koh-samui",
+          "lastVerified": "2026-03-14"
+        }
+      ]
     },
     {
       "name": "Choeng Mon",
@@ -88,10 +139,22 @@
         "Small village with independent restaurants — not touristy",
         "Close to Big Buddha and Wat Plai Laem (10 minutes)"
       ],
-      "recommendedHotels": ["Kimpton Kitalay Samui"],
+      "recommendedHotels": [
+        "Kimpton Kitalay Samui"
+      ],
       "walkingScore": "4/10",
-      "transportNotes": ["Small area — walkable within the bay but isolated from other areas", "15 minutes to Chaweng by Grab (200–300 THB)", "Scooter essential for independent exploration"],
-      "sources": [{"sourceName": "The Manduls", "sourceUrl": "https://themanduls.com/where-to-stay-in-koh-samui/", "lastVerified": "2026-03-14"}]
+      "transportNotes": [
+        "Small area — walkable within the bay but isolated from other areas",
+        "15 minutes to Chaweng by Grab (200–300 THB)",
+        "Scooter essential for independent exploration"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Manduls",
+          "sourceUrl": "https://themanduls.com/where-to-stay-in-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
     },
     {
       "name": "Nathon (Town)",
@@ -107,16 +170,43 @@
       ],
       "recommendedHotels": [],
       "walkingScore": "7/10",
-      "transportNotes": ["Compact town center — walkable", "Main ferry terminal for mainland connections", "Songthaews depart from here to all beach areas"],
-      "sources": [{"sourceName": "Koh Samui Travel Tips", "sourceUrl": "https://www.kohsamui-traveltips.com/districts-and-map/", "lastVerified": "2026-03-14"}]
+      "transportNotes": [
+        "Compact town center — walkable",
+        "Main ferry terminal for mainland connections",
+        "Songthaews depart from here to all beach areas"
+      ],
+      "sources": [
+        {
+          "sourceName": "Koh Samui Travel Tips",
+          "sourceUrl": "https://www.kohsamui-traveltips.com/districts-and-map/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
     }
   ],
   "generatedAt": "2026-03-14",
   "lastUpdated": "2026-03-14",
   "sources": [
-    {"sourceName": "Destination Well Known", "sourceUrl": "https://destinationwellknown.com/where-to-stay-koh-samui/", "lastVerified": "2026-03-14"},
-    {"sourceName": "The Manduls", "sourceUrl": "https://themanduls.com/where-to-stay-in-koh-samui/", "lastVerified": "2026-03-14"},
-    {"sourceName": "Santorinidave", "sourceUrl": "https://santorinidave.com/best-places-koh-samui", "lastVerified": "2026-03-14"},
-    {"sourceName": "The Koh Samui Guide", "sourceUrl": "https://www.thekohsamuiguide.com/post/where-to-stay-koh-samui", "lastVerified": "2026-03-14"}
-  ]
+    {
+      "sourceName": "Destination Well Known",
+      "sourceUrl": "https://destinationwellknown.com/where-to-stay-koh-samui/",
+      "lastVerified": "2026-03-14"
+    },
+    {
+      "sourceName": "The Manduls",
+      "sourceUrl": "https://themanduls.com/where-to-stay-in-koh-samui/",
+      "lastVerified": "2026-03-14"
+    },
+    {
+      "sourceName": "Santorinidave",
+      "sourceUrl": "https://santorinidave.com/best-places-koh-samui",
+      "lastVerified": "2026-03-14"
+    },
+    {
+      "sourceName": "The Koh Samui Guide",
+      "sourceUrl": "https://www.thekohsamuiguide.com/post/where-to-stay-koh-samui",
+      "lastVerified": "2026-03-14"
+    }
+  ],
+  "generalTips": []
 }

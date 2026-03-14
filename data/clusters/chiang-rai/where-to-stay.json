@@ -20,10 +20,24 @@
         "ATMs, 7-Elevens, and pharmacies within steps",
         "Most affordable accommodation in the province"
       ],
-      "recommendedHotels": ["Mercy Hostel", "Nak Nakara Hotel", "Wiang Inn Hotel"],
+      "recommendedHotels": [
+        "Mercy Hostel",
+        "Nak Nakara Hotel",
+        "Wiang Inn Hotel"
+      ],
       "walkingScore": "9/10",
-      "transportNotes": ["Everything central is walkable", "Songthaews and tuk-tuks cruise the main roads", "Grab available but with fewer drivers than Chiang Mai"],
-      "sources": [{"sourceName": "The Lost Passport", "sourceUrl": "https://www.thelostpassport.com/top-hotels-chiang-rai/", "lastVerified": "2026-03-14"}]
+      "transportNotes": [
+        "Everything central is walkable",
+        "Songthaews and tuk-tuks cruise the main roads",
+        "Grab available but with fewer drivers than Chiang Mai"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Lost Passport",
+          "sourceUrl": "https://www.thelostpassport.com/top-hotels-chiang-rai/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
     },
     {
       "name": "Kok Riverside",
@@ -37,10 +51,23 @@
         "Quieter than the city center with a resort atmosphere",
         "5-minute tuk-tuk ride to the Night Bazaar and Clock Tower"
       ],
-      "recommendedHotels": ["The Riverie by Katathani", "Le Meridien Chiang Rai Resort"],
+      "recommendedHotels": [
+        "The Riverie by Katathani",
+        "Le Meridien Chiang Rai Resort"
+      ],
       "walkingScore": "5/10",
-      "transportNotes": ["Need tuk-tuk or Grab to reach city center (50–80 THB)", "Hotels arrange shuttle services", "Good base if you have a rental car or motorbike"],
-      "sources": [{"sourceName": "Travelocity", "sourceUrl": "https://www.travelocity.com/Chiang-Rai-Hotels-The-Riverie-By-Katathani.h24134312.Hotel-Information", "lastVerified": "2026-03-14"}]
+      "transportNotes": [
+        "Need tuk-tuk or Grab to reach city center (50–80 THB)",
+        "Hotels arrange shuttle services",
+        "Good base if you have a rental car or motorbike"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelocity",
+          "sourceUrl": "https://www.travelocity.com/Chiang-Rai-Hotels-The-Riverie-By-Katathani.h24134312.Hotel-Information",
+          "lastVerified": "2026-03-14"
+        }
+      ]
     },
     {
       "name": "Golden Triangle Area",
@@ -54,10 +81,23 @@
         "Hall of Opium museum and Chiang Saen ruins nearby",
         "Far from crowds — total tranquility"
       ],
-      "recommendedHotels": ["Four Seasons Tented Camp Golden Triangle", "Anantara Golden Triangle Elephant Camp & Resort"],
+      "recommendedHotels": [
+        "Four Seasons Tented Camp Golden Triangle",
+        "Anantara Golden Triangle Elephant Camp & Resort"
+      ],
       "walkingScore": "2/10",
-      "transportNotes": ["1.5-hour drive from Chiang Rai city — resorts arrange private transfers", "No public transport — entirely resort-dependent", "Best combined with 2–3 nights in the city for temple visits"],
-      "sources": [{"sourceName": "TripAdvisor", "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-zff12-Chiang_Rai_Chiang_Rai_Province-Hotels.html", "lastVerified": "2026-03-14"}]
+      "transportNotes": [
+        "1.5-hour drive from Chiang Rai city — resorts arrange private transfers",
+        "No public transport — entirely resort-dependent",
+        "Best combined with 2–3 nights in the city for temple visits"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-zff12-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
     },
     {
       "name": "Doi Mae Salong Area",
@@ -71,10 +111,22 @@
         "Akha and Lahu hill tribe villages accessible by motorbike",
         "Sunrise views over the tea-covered hills"
       ],
-      "recommendedHotels": ["Doi Mae Salong guesthouses (limited — book ahead in cool season)"],
+      "recommendedHotels": [
+        "Doi Mae Salong guesthouses (limited — book ahead in cool season)"
+      ],
       "walkingScore": "4/10",
-      "transportNotes": ["1.5 hours from Chiang Rai city by winding mountain road", "Motorbike or chartered songthaew required", "No Grab service — arrange transport in advance"],
-      "sources": [{"sourceName": "Voyage Tips", "sourceUrl": "https://www.voyagetips.com/en/things-to-do-in-chiang-rai/", "lastVerified": "2026-03-14"}]
+      "transportNotes": [
+        "1.5 hours from Chiang Rai city by winding mountain road",
+        "Motorbike or chartered songthaew required",
+        "No Grab service — arrange transport in advance"
+      ],
+      "sources": [
+        {
+          "sourceName": "Voyage Tips",
+          "sourceUrl": "https://www.voyagetips.com/en/things-to-do-in-chiang-rai/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
     },
     {
       "name": "Mae Sai Border Area",
@@ -88,17 +140,42 @@
         "Cheaper accommodation than Chiang Rai city",
         "Authentic Thai border town atmosphere — few tourists"
       ],
-      "recommendedHotels": ["Mae Sai guesthouses and small hotels"],
+      "recommendedHotels": [
+        "Mae Sai guesthouses and small hotels"
+      ],
       "walkingScore": "6/10",
-      "transportNotes": ["1-hour drive from Chiang Rai city center", "Songthaews run between Mae Sai and Chiang Rai (40 THB)", "Good base if you're exploring the northern border region"],
-      "sources": [{"sourceName": "Novo Monde", "sourceUrl": "https://www.novo-monde.com/en/things-to-do-chiang-rai/", "lastVerified": "2026-03-14"}]
+      "transportNotes": [
+        "1-hour drive from Chiang Rai city center",
+        "Songthaews run between Mae Sai and Chiang Rai (40 THB)",
+        "Good base if you're exploring the northern border region"
+      ],
+      "sources": [
+        {
+          "sourceName": "Novo Monde",
+          "sourceUrl": "https://www.novo-monde.com/en/things-to-do-chiang-rai/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
     }
   ],
   "generatedAt": "2026-03-14",
   "lastUpdated": "2026-03-14",
   "sources": [
-    {"sourceName": "The Lost Passport", "sourceUrl": "https://www.thelostpassport.com/top-hotels-chiang-rai/", "lastVerified": "2026-03-14"},
-    {"sourceName": "TripAdvisor", "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html", "lastVerified": "2026-03-14"},
-    {"sourceName": "Voyage Tips", "sourceUrl": "https://www.voyagetips.com/en/things-to-do-in-chiang-rai/", "lastVerified": "2026-03-14"}
-  ]
+    {
+      "sourceName": "The Lost Passport",
+      "sourceUrl": "https://www.thelostpassport.com/top-hotels-chiang-rai/",
+      "lastVerified": "2026-03-14"
+    },
+    {
+      "sourceName": "TripAdvisor",
+      "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+      "lastVerified": "2026-03-14"
+    },
+    {
+      "sourceName": "Voyage Tips",
+      "sourceUrl": "https://www.voyagetips.com/en/things-to-do-in-chiang-rai/",
+      "lastVerified": "2026-03-14"
+    }
+  ],
+  "generalTips": []
 }

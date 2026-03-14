@@ -69,7 +69,7 @@ export default function TravelGuidePage({ data, affiliates }: Props) {
             <div className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 grid md:grid-cols-2 gap-6">
               <div>
                 <h3 className="font-bold text-gray-900 mb-2">From Bangkok</h3>
-                <p className="text-gray-600">{data.transport.fromBangkok}</p>
+                <p className="text-gray-600">{typeof data.transport.fromBangkok === 'string' ? data.transport.fromBangkok : Object.values(data.transport.fromBangkok).map((v: any) => typeof v === 'object' ? v.description : v).join(' ')}</p>
               </div>
               <div>
                 <h3 className="font-bold text-gray-900 mb-2">Local Transport</h3>
