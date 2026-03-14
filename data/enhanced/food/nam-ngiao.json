@@ -5,7 +5,7 @@
     "en": "Nam Ngiao",
     "nl": "Nam Ngiao",
     "thai": "น้ำเงี้ยว",
-    "ja": "ナムニアオ"
+    "ko": "남응이아오"
   },
   "category": "soup",
   "region": "northern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Northern noodle soup with pork blood and tomatoes",
     "nl": "Noordelijke noedelsoep met varkensbloed en tomaten",
-    "ja": "トマトと豚の血を使った北タイのスパイシーヌードルスープ"
+    "ko": "돼지피와 토마토를 넣은 태국 북부 쌀국수"
   },
   "ingredients": [
     "rice noodles",
@@ -33,12 +33,12 @@
     "metaTitle": {
       "en": "Nam Ngiao Recipe | Authentic Thai soup",
       "nl": "Nam Ngiao Recept | Authentieke Thaise soup",
-      "ja": "ナムニアオのレシピ | 本格タイ料理"
+      "ko": "남응이아오 레시피 | 정통 태국 북부 토마토 돼지뼈 국수"
     },
     "metaDescription": {
       "en": "Learn about Nam Ngiao (น้ำเงี้ยว) - Northern noodle soup with pork blood and tomatoes...",
       "nl": "Leer over Nam Ngiao (น้ำเงี้ยว) - Noordelijke noedelsoep met varkensbloed en tomaten...",
-      "ja": "ナムニアオ（น้ำเงี้ยว）について — トマトと豚の血を使った北タイのスパイシーヌードルスープ。"
+      "ko": "남응이아오(น้ำเงี้ยว) - 돼지피, 토마토, 발효 콩을 넣은 태국 북부 전통 쌀국수. 샨족 유래 국수의 레시피, 재료, 맛집 정보."
     }
   },
   "tags": [
@@ -663,6 +663,110 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "남응이아오는 태국 북부 치앙마이와 치앙라이 지역의 대표적인 국수 요리로, 샨족(타이야이)의 영향을 받은 매콤하고 새콤한 돼지뼈 육수의 쌀국수입니다. 약 45분이 소요되는 고급 난이도의 레시피로, 건고추와 발효 콩(뚜아나오)이 만들어내는 복합적인 감칠맛에 토마토의 새콤함, 돼지갈비의 진한 육수가 어우러집니다. 붉은빛 국물에 돼지피 젤리와 다진 토마토가 떠있는 모습이 특징적이며, 카오소이와 함께 태국 북부를 대표하는 국수 요리입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "쌀국수 (카놈찐 또는 센렉)",
+          "purpose": "진한 국물을 잘 흡수하는 이 요리의 면 베이스",
+          "substitutes": [
+            "카놈찐 (발효 쌀국수)",
+            "센렉 (넓은 쌀국수)",
+            "센미 (가는 쌀국수)"
+          ]
+        },
+        {
+          "name": "돼지갈비",
+          "purpose": "깊은 감칠맛의 육수 베이스가 되는 핵심 재료",
+          "substitutes": [
+            "돼지 등뼈",
+            "돼지 목살",
+            "닭뼈 (가벼운 대체)"
+          ]
+        },
+        {
+          "name": "토마토",
+          "purpose": "국물에 자연스러운 새콤함과 붉은빛을 더하는 재료",
+          "substitutes": [
+            "신선한 토마토",
+            "체리 토마토",
+            "토마토 페이스트"
+          ]
+        },
+        {
+          "name": "뚜아나오 (발효 콩)",
+          "purpose": "태국 북부 특유의 깊은 감칠맛을 만드는 비밀 재료",
+          "substitutes": [
+            "뚜아나오 디스크 (건조)",
+            "된장",
+            "미소 (일본식 대체)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "오래 끓이기와 향신료 층 쌓기",
+        "steps_overview": "남응이아오를 만들려면 먼저 돼지갈비를 물에 넣고 푹 끓여 진한 육수를 만듭니다. 별도로 건고추, 갈랑갈, 레몬그라스, 뚜아나오를 빻아 커리 페이스트를 만듭니다. 페이스트를 기름에 볶아 향을 내고 육수에 풀어 넣습니다. 다진 토마토와 돼지피 젤리를 넣고 간장과 야자 설탕으로 간을 맞춥니다. 삶은 쌀국수 위에 국물을 부어 완성합니다.",
+        "cooking_tips": [
+          "돼지갈비 육수는 최소 30분 이상 끓여야 깊은 맛이 납니다",
+          "뚜아나오가 없으면 된장으로 대체할 수 있지만 맛이 다릅니다",
+          "돼지피가 부담스러우면 생략해도 됩니다 — 맛에 큰 영향은 없습니다",
+          "먹기 직전에 라임즙과 건고추 가루를 뿌려 맛을 조절하세요"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "남응이아오는 태국 북부와 미얀마 국경 지역의 샨족(타이야이, 응이아오) 음식에서 유래했습니다. '남응이아오'라는 이름은 '샨족의 국물'이라는 뜻으로, 수세대에 걸쳐 란나 왕국의 영토였던 치앙마이, 치앙라이 지역에서 사랑받아 온 요리입니다.",
+        "cultural_importance": "이 요리는 태국 북부(란나)의 다문화적 음식 유산을 보여주는 대표적인 예입니다. 카오소이와 함께 태국 북부 여행의 필수 체험 음식으로, 특히 치앙마이 와로롯 시장과 현지 식당에서 즐기는 것이 가장 정통적입니다.",
+        "traditional_occasions": [
+          "아침 시장 식사",
+          "일상 점심",
+          "북부 지역 축제",
+          "사원 행사 음식"
+        ]
+      },
+      "variations": [
+        {
+          "name": "남응이아오 전통식",
+          "description": "돼지피와 토마토가 들어간 가장 전통적인 샨족 스타일 버전입니다."
+        },
+        {
+          "name": "남응이아오 무피",
+          "description": "돼지피를 뺀 가벼운 버전으로 관광객에게 인기 있습니다."
+        },
+        {
+          "name": "남응이아오 닭고기",
+          "description": "돼지고기 대신 닭고기를 사용한 변형입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "건고추 가루",
+          "라임 웨지",
+          "절임 채소",
+          "돼지 껍데기 튀김 (캡무)"
+        ],
+        "presentation": "그릇에 쌀국수를 담고 국물을 부어 토핑을 올려 제공합니다",
+        "eating_etiquette": "젓가락으로 면을 먹고 숟가락으로 국물을 떠먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "치앙마이 와로롯 시장 주변 식당",
+          "치앙라이 현지 국수 전문점",
+          "북부 태국 전통 식당",
+          "아침 시장 노점"
+        ],
+        "street_food_areas": [
+          "치앙마이 아침 시장",
+          "치앙라이 야시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "35-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
