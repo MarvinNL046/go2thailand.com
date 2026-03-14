@@ -4,14 +4,16 @@
   "name": {
     "en": "Roti Sai Mai",
     "nl": "Roti Sai Mai",
-    "thai": "โรตีสายไหม"
+    "thai": "โรตีสายไหม",
+    "ja": "ロティ・サイマイ"
   },
   "category": "dessert",
   "region": "central",
   "spice_level": "none",
   "description": {
     "en": "Thai cotton candy wrapped in thin roti from Ayutthaya",
-    "nl": "Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya"
+    "nl": "Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya",
+    "ja": "アユタヤ名物の薄いロティで綿菓子を包んだタイスイーツ"
   },
   "ingredients": [
     "flour",
@@ -31,11 +33,13 @@
   "seo": {
     "metaTitle": {
       "en": "Roti Sai Mai Recipe | Authentic Thai dessert",
-      "nl": "Roti Sai Mai Recept | Authentieke Thaise dessert"
+      "nl": "Roti Sai Mai Recept | Authentieke Thaise dessert",
+      "ja": "ロティ・サイマイのレシピ | 本格タイデザート"
     },
     "metaDescription": {
       "en": "Learn about Roti Sai Mai (โรตีสายไหม) - Thai cotton candy wrapped in thin roti from Ayutthaya...",
-      "nl": "Leer over Roti Sai Mai (โรตีสายไหม) - Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya..."
+      "nl": "Leer over Roti Sai Mai (โรตีสายไหม) - Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya...",
+      "ja": "ロティ・サイマイ（โรตีสายไหม）について — アユタヤ名物の薄いロティで綿菓子を包んだタイの伝統スイーツ。"
     }
   },
   "tags": [
