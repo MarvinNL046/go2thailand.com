@@ -4,14 +4,16 @@
   "name": {
     "en": "Kanchanaburi",
     "nl": "Kanchanaburi",
-    "ja": "カンチャナブリー"
+    "ja": "カンチャナブリー",
+    "ko": "칸차나부리"
   },
   "region": "Central",
   "province": "Kanchanaburi",
   "description": {
     "en": "Historic city on the River Kwai, known for WWII sites, stunning waterfalls, and jungle adventures. Home to the famous Bridge over the River Kwai and the breathtaking Erawan National Park.",
     "nl": "Historische stad aan de rivier Kwai, bekend om WOII-locaties, prachtige watervallen en jungleavonturen. Thuisbasis van de beroemde Brug over de Rivier Kwai en het adembenemende Erawan Nationaal Park.",
-    "ja": "クワイ川沿いの歴史ある街。第二次世界大戦の史跡、壮大な滝、ジャングルアドベンチャーで有名。"
+    "ja": "クワイ川沿いの歴史ある街。第二次世界大戦の史跡、壮大な滝、ジャングルアドベンチャーで有名。",
+    "ko": "콰이강변의 역사적인 도시로, 제2차 세계대전 유적지, 멋진 폭포, 정글 어드벤처로 유명합니다. 유명한 콰이강의 다리와 숨막히는 에라완 국립공원이 있습니다."
   },
   "population": 31242,
   "highlights": [
@@ -29,29 +31,34 @@
     "metaTitle": {
       "en": "Discover Kanchanaburi | What to do in Kanchanaburi?",
       "nl": "Ontdek Kanchanaburi | Wat te doen in Kanchanaburi?",
-      "ja": "カンチャナブリー タイ — クワイ川観光ガイド 2026"
+      "ja": "カンチャナブリー タイ — クワイ川観光ガイド 2026",
+      "ko": "칸차나부리 태국 — 여행 가이드, 역사 & 즐길거리 2026"
     },
     "metaDescription": {
       "en": "Your guide to Kanchanaburi, Thailand – tips, highlights, food, hotels.",
       "nl": "Jouw gids voor Kanchanaburi, Thailand – tips, highlights, eten, hotels.",
-      "ja": "カンチャナブリー（タイ）旅行ガイド — おすすめスポット、グルメ、ホテル情報。2026年更新。"
+      "ja": "カンチャナブリー（タイ）旅行ガイド — おすすめスポット、グルメ、ホテル情報。2026年更新。",
+      "ko": "칸차나부리(태국) 완벽 여행 가이드: 콰이강의 다리, 에라완 폭포, 정글 투어. 가격, 팁, 방콕에서 가는 법."
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Kanchanaburi",
       "nl": "Beste restaurants en streetfood in Kanchanaburi",
-      "ja": "カンチャナブリーのおすすめレストランとストリートフード"
+      "ja": "カンチャナブリーのおすすめレストランとストリートフード",
+      "ko": "칸차나부리 추천 레스토랑과 길거리 음식"
     },
     "hotels": {
       "en": "Top hotels in Kanchanaburi | Tips & deals",
       "nl": "Beste hotels in Kanchanaburi | Tips & aanbiedingen",
-      "ja": "カンチャナブリーのおすすめホテル | ヒント＆お得情報"
+      "ja": "カンチャナブリーのおすすめホテル | ヒント＆お得情報",
+      "ko": "칸차나부리 추천 호텔 | 팁 & 특가"
     },
     "attractions": {
       "en": "Top attractions in Kanchanaburi",
       "nl": "Top bezienswaardigheden in Kanchanaburi",
-      "ja": "カンチャナブリーの人気観光スポット"
+      "ja": "カンチャナブリーの人気観光スポット",
+      "ko": "칸차나부리 인기 관광 명소"
     }
   },
   "tags": [
@@ -68,12 +75,14 @@
       "name": {
         "en": "Prasat Muang Singh Historical Park",
         "nl": "Prasat Muang Singh Historisch Park",
-        "ja": "プラサートムアンシン歴史公園"
+        "ja": "プラサートムアンシン歴史公園",
+        "ko": "쁘라삿 므앙싱 역사공원"
       },
       "description": {
         "en": "A rarely visited Khmer ruin complex along the River Kwai Noi, dating from the 13th century. Far quieter than Ayutthaya, with atmospheric laterite structures set against jungle backdrop.",
         "nl": "Een zelden bezocht Khmer-ruinecomplex langs de rivier Kwai Noi, daterend uit de 13e eeuw. Veel rustiger dan Ayutthaya, met sfeervolle laterietstructuren tegen een jungleachtergrond.",
-        "ja": "クワイノイ川沿いの13世紀のクメール遺跡群。観光客が少なく静かに歴史を感じられる穴場。"
+        "ja": "クワイノイ川沿いの13世紀のクメール遺跡群。観光客が少なく静かに歴史を感じられる穴場。",
+        "ko": "콰이노이강변에 위치한 13세기 크메르 유적지로, 관광객이 적어 조용히 역사를 탐험할 수 있습니다."
       },
       "type": "temple"
     },
@@ -81,12 +90,14 @@
       "name": {
         "en": "Lawa Cave (Tham Lawa)",
         "nl": "Lawa-grot (Tham Lawa)",
-        "ja": "ラワ洞窟（タムラワ）"
+        "ja": "ラワ洞窟（タムラワ）",
+        "ko": "라와 동굴 (탐 라와)"
       },
       "description": {
         "en": "A stunning cave with dramatic stalactites accessible by longtail boat along the Kwai Noi River. Few tourists make the journey, making it a peaceful underground adventure.",
         "nl": "Een prachtige grot met dramatische stalactieten, bereikbaar per longtailboot langs de rivier Kwai Noi. Weinig toeristen maken de reis, waardoor het een vredig ondergronds avontuur is.",
-        "ja": "クワイノイ川沿いをロングテールボートでアクセスする壮大な鍾乳洞。訪問者が少ない秘境。"
+        "ja": "クワイノイ川沿いをロングテールボートでアクセスする壮大な鍾乳洞。訪問者が少ない秘境。",
+        "ko": "콰이노이강을 따라 롱테일 보트로 접근하는 드라마틱한 종유석 동굴. 관광객이 거의 없는 숨겨진 명소입니다."
       },
       "type": "nature"
     },
@@ -94,12 +105,14 @@
       "name": {
         "en": "Ban Kao National Museum",
         "nl": "Ban Kao Nationaal Museum",
-        "ja": "バーンカオ国立博物館"
+        "ja": "バーンカオ国立博物館",
+        "ko": "반카오 국립박물관"
       },
       "description": {
         "en": "Small but fascinating museum built around a Neolithic burial site discovered during railway construction. Displays prehistoric tools and artifacts found in the Kwai valley.",
         "nl": "Klein maar fascinerend museum gebouwd rond een neolithische begraafplaats die tijdens de spoorwegaanleg werd ontdekt. Toont prehistorisch gereedschap en artefacten uit de Kwai-vallei.",
-        "ja": "鉄道建設中に発見された新石器時代の埋葬地に建てられた小さいながらも魅力的な博物館。"
+        "ja": "鉄道建設中に発見された新石器時代の埋葬地に建てられた小さいながらも魅力的な博物館。",
+        "ko": "철도 건설 중 발견된 신석기 시대 매장지 위에 세워진 작지만 매력적인 박물관입니다."
       },
       "type": "museum"
     },
@@ -107,12 +120,14 @@
       "name": {
         "en": "Kanchanaburi Morning Market",
         "nl": "Kanchanaburi Ochtendmarkt",
-        "ja": "カンチャナブリー朝市"
+        "ja": "カンチャナブリー朝市",
+        "ko": "칸차나부리 아침 시장"
       },
       "description": {
         "en": "The bustling morning market near the train station on Saeng Chuto Road, where locals shop for fresh produce, grilled meats, and traditional Thai sweets starting at dawn.",
         "nl": "De bruisende ochtendmarkt bij het treinstation aan Saeng Chuto Road, waar locals vanaf de vroege ochtend verse producten, gegrild vlees en traditionele Thaise snoepjes kopen.",
-        "ja": "駅近くのセーンチュートー通りにある活気ある朝市。地元の人々が新鮮な食材を買い求めます。"
+        "ja": "駅近くのセーンチュートー通りにある活気ある朝市。地元の人々が新鮮な食材を買い求めます。",
+        "ko": "기차역 근처 생추토 도로의 활기찬 아침 시장으로, 현지인들이 신선한 식재료를 구매하는 곳입니다."
       },
       "type": "market"
     },
@@ -120,12 +135,14 @@
       "name": {
         "en": "Keeree Tara Riverside Restaurant",
         "nl": "Keeree Tara Rivierrestaurant",
-        "ja": "キーリータラ・リバーサイドレストラン"
+        "ja": "キーリータラ・リバーサイドレストラン",
+        "ko": "키리타라 리버사이드 레스토랑"
       },
       "description": {
         "en": "A hidden gem restaurant perched on rocks overlooking the confluence of the Kwai rivers. Famous for its giant river prawns grilled over charcoal, best visited at sunset.",
         "nl": "Een verborgen juweeltje van een restaurant op de rotsen met uitzicht op de samenvloeiing van de Kwai-rivieren. Beroemd om reusachtige riviergarnalen gegrild op houtskool, het beste te bezoeken bij zonsondergang.",
-        "ja": "クワイ川の合流点を見下ろす岩場に佇む隠れた名店。絶景のシーフードレストラン。"
+        "ja": "クワイ川の合流点を見下ろす岩場に佇む隠れた名店。絶景のシーフードレストラン。",
+        "ko": "콰이강 합류점이 내려다보이는 바위 위에 자리한 숨겨진 보석 같은 레스토랑입니다."
       },
       "type": "restaurant"
     }
@@ -684,6 +701,40 @@
       "bestTimeToVisit": "Идеальное время для посещения Канчанабури — с ноября по февраль, когда прохладный сезон приносит комфортную температуру 20-28°C и минимальные осадки. Декабрь и январь — пик туристического сезона с самой стабильной погодой, идеальной для походов к водопадам и осмотра исторических мест. С марта по май — жарко и влажно (до 35-40°C), что затрудняет дневные прогулки, но обеспечивает меньше толп и дешевле жильё. Юго-западный муссон (май-октябрь) приносит сильные дожди, особенно в августе-сентябре, делая тропы скользкими. Для посещения военных кладбищ и мест Второй мировой подходит любой месяц, но прохладный сезон создаёт более комфортные условия для рефлексии.",
       "safetyTips": "Канчанабури — безопасное направление для туристов без специфических угроз. Стандартные меры предосторожности: не демонстрируйте крупные суммы наличных, будьте осторожны в многолюдных местах, пользуйтесь проверенным транспортом. При посещении исторических мест, особенно Перевала Адского огня, берите достаточно воды, солнцезащиту и крепкую обувь — тропы могут быть крутыми и неровными. Поезд Дороги смерти в целом безопасен, но следите за вещами. При аренде мотоцикла или посещении удалённых водопадов носите шлем, следуйте местным советам и по возможности путешествуйте группой. Речные развлечения хорошо организованы, но убедитесь в этичности слоновьих заповедников перед посещением. Местные жители дружелюбны, туристическая инфраструктура развита, хорошие медицинские учреждения доступны в городе.",
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "칸차나부리는 태국에서 가장 역사적으로 중요한 여행지로, 제2차 세계대전 당시 '죽음의 철도' 건설과 관련된 이야기로 세계에 알려졌습니다. 콰이강의 다리는 전쟁의 비극을 상기시키는 상징적인 장소이며, 매년 수십만 명의 방문객이 찾습니다.\n\n그러나 칸차나부리는 역사만의 도시가 아닙니다. 에라완 국립공원의 7단 폭포는 태국에서 가장 아름다운 자연 경관 중 하나로, 에메랄드빛 물에서 수영을 즐길 수 있습니다. 정글 트레킹, 래프팅, 코끼리 보호구역 방문 등 다양한 모험 액티비티가 기다리고 있습니다.\n\n콰이강변의 수상 가옥 리조트에서 하룻밤을 보내는 것은 칸차나부리만의 특별한 경험입니다. 강물 소리를 들으며 잠들고, 안개 속 산 풍경을 바라보며 눈을 뜨는 아침은 잊을 수 없는 기억이 됩니다.",
+      "hidden_gems": [
+        {
+          "name": "쁘라삿 므앙싱 역사공원",
+          "description": "콰이노이강변의 13세기 크메르 유적지로, 관광객이 적어 조용히 탐험할 수 있습니다."
+        },
+        {
+          "name": "라와 동굴",
+          "description": "롱테일 보트로 접근하는 드라마틱한 종유석 동굴입니다."
+        },
+        {
+          "name": "반카오 국립박물관",
+          "description": "신석기 시대 매장지 위에 세워진 매력적인 소규모 박물관입니다."
+        },
+        {
+          "name": "칸차나부리 아침 시장",
+          "description": "기차역 근처의 활기찬 현지 아침 시장입니다."
+        },
+        {
+          "name": "키리타라 리버사이드 레스토랑",
+          "description": "콰이강 합류점이 보이는 바위 위의 숨겨진 레스토랑입니다."
+        }
+      ],
+      "authentic_experiences": [],
+      "foodie_adventures": [],
+      "overview": "칸차나부리는 태국에서 가장 역사적으로 중요한 여행지로, 제2차 세계대전 당시 '죽음의 철도'와 콰이강의 다리로 세계에 알려졌습니다. 방콕에서 서쪽으로 약 130km 거리에 위치하며, 역사 유적과 자연 경관이 완벽하게 어우러진 곳입니다.",
+      "thingsToDo": "콰이강의 다리는 무료로 방문할 수 있는 주요 명소입니다. 에라완 국립공원의 7단 폭포에서 수영을 즐기고, JEATH 전쟁박물관에서 역사를 배우세요. 정글 래프팅, 코끼리 보호구역 방문, 사이욕 폭포 탐험 등 다양한 액티비티가 있습니다.",
+      "whereToStay": "칸차나부리의 숙소는 콰이강변 게스트하우스부터 수상 리조트까지 다양합니다. 수상 가옥 리조트는 칸차나부리만의 독특한 숙박 경험을 제공합니다. 시내 중심에는 예산 숙소가 밀집해 있습니다.",
+      "gettingAround": "칸차나부리에는 소규모지만 실용적인 현지 교통 시스템이 있습니다. 툭툭이 가장 일반적인 교통수단이며, 오토바이 대여도 가능합니다. 에라완 폭포 등 외곽 명소는 투어 또는 렌터카가 편리합니다.",
+      "bestTimeToVisit": "칸차나부리의 최적 방문 시기는 11월부터 2월까지입니다. 태국 건기에 해당하며 기온이 쾌적합니다. 에라완 폭포는 우기(6-10월)에 물이 가장 풍부하지만, 트레일이 미끄러울 수 있습니다.",
+      "safetyTips": "칸차나부리는 대체로 안전한 여행지입니다. 폭포와 강에서 수영할 때 안전에 주의하고, 정글 트레킹 시 가이드와 함께 하는 것을 권장합니다. 우기에는 급류와 미끄러운 길에 주의하세요.",
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
