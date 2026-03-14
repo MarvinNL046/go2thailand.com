@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-14",
   "stats": {
     "total": 1504,
-    "completed": 1237
+    "completed": 1238
   },
   "queue": [
     {
@@ -9912,14 +9912,15 @@
       "type": "city",
       "file": "data/enhanced/chiang-rai.json",
       "locale": "ko",
-      "status": "in_progress",
-      "priority": 15
+      "status": "completed",
+      "priority": 15,
+      "completedAt": "2026-03-14"
     },
     {
       "type": "city",
       "file": "data/enhanced/chumphon.json",
       "locale": "ko",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 15
     },
     {
