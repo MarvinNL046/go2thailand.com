@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-14",
   "stats": {
     "total": 1504,
-    "completed": 1292
+    "completed": 1293
   },
   "queue": [
     {
@@ -10352,14 +10352,15 @@
       "type": "food",
       "file": "data/enhanced/food/moo-palo.json",
       "locale": "ko",
-      "status": "in_progress",
-      "priority": 15
+      "status": "completed",
+      "priority": 15,
+      "completedAt": "2026-03-14"
     },
     {
       "type": "food",
       "file": "data/enhanced/food/nam-ngiao.json",
       "locale": "ko",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 15
     },
     {

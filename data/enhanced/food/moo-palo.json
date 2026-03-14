@@ -5,7 +5,7 @@
     "en": "Moo Palo",
     "nl": "Moo Palo",
     "thai": "หมูพะโล้",
-    "ja": "ムーパロー"
+    "ko": "무빠로"
   },
   "category": "main-dish",
   "region": "northern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Pork belly stewed in sweet soy sauce with eggs",
     "nl": "Varkensbuik gestoofd in zoete sojasaus met eieren",
-    "ja": "甘い醤油と卵で煮込んだ豚バラ肉の煮込み"
+    "ko": "오향 가루와 간장으로 조린 삼겹살과 달걀"
   },
   "ingredients": [
     "pork belly",
@@ -33,12 +33,12 @@
     "metaTitle": {
       "en": "Moo Palo Recipe | Authentic Thai main dish",
       "nl": "Moo Palo Recept | Authentieke Thaise main dish",
-      "ja": "ムーパローのレシピ | 本格タイ料理"
+      "ko": "무빠로 레시피 | 정통 태국 중화풍 오향 돼지고기 조림"
     },
     "metaDescription": {
       "en": "Learn about Moo Palo (หมูพะโล้) - Pork belly stewed in sweet soy sauce with eggs...",
       "nl": "Leer over Moo Palo (หมูพะโล้) - Varkensbuik gestoofd in zoete sojasaus met eieren...",
-      "ja": "ムーパロー（หมูพะโล้）について — 甘い醤油と卵で煮込んだ豚バラ肉。中華系タイ料理の定番。"
+      "ko": "무빠로(หมูพะโล้) - 오향 가루, 간장, 야자 설탕으로 조린 삼겹살과 달걀. 중국-태국 퓨전 조림 요리의 레시피, 재료, 맛집 정보."
     }
   },
   "tags": [
@@ -663,6 +663,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "무빠로는 중국 오향분을 활용한 태국식 돼지고기 조림으로, 삼겹살과 삶은 달걀을 간장, 야자 설탕, 오향 가루, 고수 뿌리와 함께 오랜 시간 천천히 조려 만드는 깊은 풍미의 요리입니다. 약 90분이 소요되는 중간 난이도의 레시피로, 중국 루웨이(卤味) 조림 기법이 태국에서 독자적으로 발전한 것입니다. 오향 가루의 따뜻한 향신료 향과 간장의 감칠맛, 야자 설탕의 달콤함이 어우러져 밥 한 그릇이 절로 들어가는 편안한 맛을 만들어냅니다. 태국 전역의 가정에서 사랑받는 대표적인 가정식 조림 요리입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "삼겹살",
+          "purpose": "오래 조리면 입 안에서 녹는 부드러운 식감이 되는 주재료",
+          "substitutes": [
+            "삼겹살 (껍질 포함)",
+            "목살",
+            "앞다리살"
+          ]
+        },
+        {
+          "name": "삶은 달걀",
+          "purpose": "간장 소스의 맛을 흡수하여 진한 갈색으로 물드는 필수 재료",
+          "substitutes": [
+            "계란",
+            "메추리알",
+            "두부 (채식 대체)"
+          ]
+        },
+        {
+          "name": "간장 (시유담 + 시유카오)",
+          "purpose": "짙은 색과 짭짤한 감칠맛의 베이스가 되는 핵심 양념",
+          "substitutes": [
+            "진간장 + 국간장",
+            "중국식 노추 + 생추",
+            "케찹 마니스"
+          ]
+        },
+        {
+          "name": "오향 가루와 고수 뿌리",
+          "purpose": "계피, 팔각, 정향, 회향의 따뜻한 향과 깊은 풍미를 더하는 향신료",
+          "substitutes": [
+            "중국 오향분",
+            "팔각 + 계피 (개별 향신료)",
+            "가람 마살라 (대체용)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "저온 장시간 조림 (브레이징)",
+        "steps_overview": "무빠로를 만들려면 먼저 삼겹살을 큼직하게 썰어 끓는 물에 데쳐 잡내를 제거합니다. 냄비에 마늘, 고수 뿌리, 백후추를 빻은 것을 기름에 볶아 향을 내고, 삼겹살을 넣어 겉면을 노릇하게 익힙니다. 간장, 야자 설탕, 오향 가루, 물을 넣고 끓인 후 약한 불로 줄여 1시간 이상 조립니다. 삶은 달걀을 넣어 마지막 20-30분간 함께 조리면 완성됩니다.",
+        "cooking_tips": [
+          "삼겹살은 데쳐서 잡내를 제거한 후 조리해야 깔끔한 맛이 납니다",
+          "약한 불에서 천천히 조려야 고기가 부드러워집니다 — 강한 불은 고기를 질기게 합니다",
+          "달걀은 껍질을 벗긴 후 포크로 구멍을 내면 소스가 잘 배어듭니다",
+          "하룻밤 냉장 보관 후 다시 데우면 맛이 더 깊어집니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "무빠로는 중국 조주(潮州) 지역의 루웨이(卤味) 조림 기법이 태국에 전해져 현지화된 요리입니다. '빠로'라는 이름 자체가 조주어로 '루(卤)'를 뜻하며, 태국에 정착한 중국 이민자들이 현지의 야자 설탕과 고수 뿌리를 더해 독자적인 태국 버전으로 발전시켰습니다.",
+        "cultural_importance": "무빠로는 태국 전역에서 사랑받는 대표적인 가정식으로, 어머니의 손맛을 상징하는 편안한 요리입니다. 태국의 중국계 가정에서 특히 명절에 빠지지 않는 요리이며, 길거리 음식과 푸드코트에서도 쉽게 접할 수 있는 일상적인 메뉴입니다.",
+        "traditional_occasions": [
+          "가족 모임",
+          "명절 음식",
+          "일상 가정식",
+          "사원 공양"
+        ]
+      },
+      "variations": [
+        {
+          "name": "무빠로 전통식",
+          "description": "오향 가루와 간장으로 오래 조린 가장 전통적인 버전입니다."
+        },
+        {
+          "name": "무빠로 카이(달걀)",
+          "description": "삼겹살보다 달걀이 주인공인 간단한 버전입니다."
+        },
+        {
+          "name": "채식 무빠로",
+          "description": "두부와 버섯을 사용한 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "재스민 쌀밥",
+          "절임 생강",
+          "신선한 채소"
+        ],
+        "presentation": "그릇에 밥과 함께 담아 소스를 끼얹어 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 밥과 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "중국계 태국 레스토랑",
+          "현지 가정식 식당",
+          "전통 시장 식당",
+          "푸드코트"
+        ],
+        "street_food_areas": [
+          "야시장",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "40-70 THB",
+          "market_stall": "50-80 THB",
+          "restaurant": "80-150 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
