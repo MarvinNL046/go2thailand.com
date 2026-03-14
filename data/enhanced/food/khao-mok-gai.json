@@ -5,7 +5,7 @@
     "en": "Khao Mok Gai",
     "nl": "Khao Mok Gai",
     "thai": "ข้าวหมกไก่",
-    "ja": "カオモックガイ"
+    "ko": "카오목가이"
   },
   "category": "main-dish",
   "region": "southern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Thai-style biryani with chicken and fragrant yellow rice",
     "nl": "Thaise biryani met kip en geurige gele rijst",
-    "ja": "ターメリックライスと鶏肉のタイ風ビリヤニ、南タイのイスラム料理"
+    "ko": "닭고기와 향긋한 노란 쌀로 만든 태국식 비리야니"
   },
   "ingredients": [
     "chicken",
@@ -34,12 +34,12 @@
     "metaTitle": {
       "en": "Khao Mok Gai Recipe | Authentic Thai main dish",
       "nl": "Khao Mok Gai Recept | Authentieke Thaise main dish",
-      "ja": "カオモックガイのレシピ | 本格タイ料理"
+      "ko": "카오목가이 레시피 | 정통 태국식 치킨 비리야니"
     },
     "metaDescription": {
       "en": "Learn about Khao Mok Gai (ข้าวหมกไก่) - Thai-style biryani with chicken and fragrant yellow rice...",
       "nl": "Leer over Khao Mok Gai (ข้าวหมกไก่) - Thaise biryani met kip en geurige gele rijst...",
-      "ja": "カオモックガイ（ข้าวหมกไก่）について — ターメリックライスと鶏肉のタイ風ビリヤニ。南タイのイスラム料理。"
+      "ko": "카오목가이(ข้าวหมกไก่) - 닭고기와 향긋한 강황 쌀밥으로 만든 태국식 비리야니. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -664,6 +664,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "카오목가이는 태국 남부의 무슬림 커뮤니티에서 유래한 태국식 비리야니로, 강황과 각종 향신료로 향긋하게 지은 노란 쌀밥에 부드럽게 익힌 닭고기를 곁들인 요리입니다. 약 60분이 소요되는 중간 난이도의 레시피로, 인도·중동의 비리야니가 태국만의 독특한 스타일로 발전한 것입니다. 강황, 계피, 카다멈, 월계수잎 등 향신료의 조합이 밥에 깊고 향긋한 풍미를 더하며, 새콤달콤한 디핑 소스와 함께 먹으면 완벽한 맛의 조화를 이룹니다.",
+      "detailed_ingredients": [
+        {
+          "name": "닭고기 (닭다리살 또는 통닭)",
+          "purpose": "향신료와 함께 익혀 부드럽고 풍미 깊은 맛을 내는 주재료",
+          "substitutes": [
+            "닭다리살",
+            "닭가슴살",
+            "양고기 (카오목 변형)"
+          ]
+        },
+        {
+          "name": "쌀 (재스민 또는 바스마티)",
+          "purpose": "향신료와 강황으로 노랗게 물들여 향긋한 밥을 짓는 베이스",
+          "substitutes": [
+            "재스민 쌀",
+            "바스마티 쌀",
+            "장립종 쌀"
+          ]
+        },
+        {
+          "name": "강황 (카민)",
+          "purpose": "밥에 아름다운 노란색과 은은한 향을 더하는 핵심 향신료",
+          "substitutes": [
+            "신선한 강황",
+            "강황 가루",
+            "사프란 (고급 대체)"
+          ]
+        },
+        {
+          "name": "향신료 (계피, 카다멈, 월계수잎)",
+          "purpose": "깊고 따뜻한 향을 더하는 비리야니의 필수 향신료들",
+          "substitutes": [
+            "통향신료 세트",
+            "가람 마살라 (간편 대체)",
+            "오향 가루 (대체용)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "향신료 밥 짓기와 닭고기 조림",
+        "steps_overview": "카오목가이를 만들려면 먼저 닭고기를 강황, 마늘, 고수 뿌리로 재워둡니다. 냄비에 기름을 두르고 계피, 카다멈, 월계수잎 등 통향신료를 볶아 향을 낸 뒤, 양파와 마늘을 볶습니다. 재운 닭고기를 넣어 겉면을 익히고, 불린 쌀과 물을 넣어 밥을 짓습니다. 약한 불에서 밥과 닭이 함께 익으면 건포도를 올려 완성합니다.",
+        "cooking_tips": [
+          "닭고기를 미리 재워두면 향이 깊게 배어듭니다",
+          "통향신료는 먼저 볶아 향을 충분히 내야 합니다",
+          "밥을 지을 때 불 조절이 중요합니다 — 약한 불에서 천천히 지으세요",
+          "새콤달콤한 소스 (남찜)와 함께 제공하면 맛이 완성됩니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "카오목가이는 태국 남부의 무슬림 커뮤니티에서 유래한 요리로, 인도와 중동의 비리야니가 동남아시아를 거쳐 태국에 전파된 것입니다. 수세대에 걸쳐 태국의 향신료와 조리법이 더해져 오늘날의 독특한 태국식 비리야니로 발전했습니다.",
+        "cultural_importance": "이 요리는 태국의 다문화적 음식 문화를 대표하며, 특히 남부 태국과 방콕의 무슬림 지역에서 일상적으로 즐겨 먹는 음식입니다. 할랄 음식이기 때문에 무슬림 여행자들에게도 안심하고 추천할 수 있는 메뉴입니다.",
+        "traditional_occasions": [
+          "일상 식사",
+          "금요 예배 후 식사",
+          "라마단 이프타르",
+          "가족 모임"
+        ]
+      },
+      "variations": [
+        {
+          "name": "카오목가이 전통식",
+          "description": "강황 쌀밥에 삶은 닭고기를 올린 가장 전통적인 버전입니다."
+        },
+        {
+          "name": "카오목 양고기 (카오목 깨)",
+          "description": "닭고기 대신 양고기를 사용한 더 풍미 강한 변형입니다."
+        },
+        {
+          "name": "카오목 채식",
+          "description": "닭고기 대신 두부와 채소를 사용한 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "새콤달콤한 디핑 소스 (남찜)",
+          "오이 슬라이스",
+          "튀긴 샬롯"
+        ],
+        "presentation": "접시에 노란 밥을 담고 닭고기를 올려 남부 태국 스타일로 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 밥과 닭고기를 소스에 찍어 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 남부 태국 무슬림 식당",
+          "방콕 반 크루아 지역",
+          "전통 시장",
+          "할랄 레스토랑"
+        ],
+        "street_food_areas": [
+          "아침 시장",
+          "야시장",
+          "무슬림 지역 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "40-60 THB",
+          "market_stall": "50-70 THB",
+          "restaurant": "70-120 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
