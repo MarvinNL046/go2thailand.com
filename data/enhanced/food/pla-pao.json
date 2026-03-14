@@ -4,14 +4,16 @@
   "name": {
     "en": "Pla Pao",
     "nl": "Pla Pao",
-    "thai": "ปลาเผา"
+    "thai": "ปลาเผา",
+    "ja": "プラパオ"
   },
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Grilled fish in salt crust served with spicy seafood sauce",
-    "nl": "Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus"
+    "nl": "Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus",
+    "ja": "塩の皮で包んで焼いた魚、スパイシーシーフードソース添え"
   },
   "ingredients": [
     "whole fish",
@@ -31,11 +33,13 @@
   "seo": {
     "metaTitle": {
       "en": "Pla Pao Recipe | Authentic Thai main dish",
-      "nl": "Pla Pao Recept | Authentieke Thaise main dish"
+      "nl": "Pla Pao Recept | Authentieke Thaise main dish",
+      "ja": "プラパオのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Pla Pao (ปลาเผา) - Grilled fish in salt crust served with spicy seafood sauce...",
-      "nl": "Leer over Pla Pao (ปลาเผา) - Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus..."
+      "nl": "Leer over Pla Pao (ปลาเผา) - Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus...",
+      "ja": "プラパオ（ปลาเผา）について — 塩の皮で包んで炭火焼きした魚。スパイシーソース添え。"
     }
   },
   "tags": [
