@@ -8,7 +8,8 @@
     "de": "Isaan (Nordostthailand)",
     "zh": "伊桑（泰国东北部）",
     "ru": "Исан (Северо-Восточный Таиланд)",
-    "ja": "イサーン（タイ東北部）"
+    "ja": "イサーン（タイ東北部）",
+    "ko": "이산 (태국 동북부)"
   },
   "description": {
     "en": "Authentic rural Thailand with unique Lao-influenced culture, spicy cuisine, and traditional festivals.",
@@ -17,7 +18,8 @@
     "de": "Authentisches ländliches Thailand mit einzigartiger laotisch beeinflusster Kultur, scharfer Küche und traditionellen Festen.",
     "zh": "原汁原味的泰国乡村，拥有独特的老挝文化影响、辛辣美食和传统节日。",
     "ru": "Аутентичный сельский Таиланд с уникальной культурой лаосского влияния, острой кухней и традиционными фестивалями.",
-    "ja": "ラオスの影響を受けた独自の文化、スパイシーな料理、伝統的な祭りが特徴のタイの本格的な農村地帯。"
+    "ja": "ラオスの影響を受けた独自の文化、スパイシーな料理、伝統的な祭りが特徴のタイの本格的な農村地帯。",
+    "ko": "라오스의 영향을 받은 독특한 문화, 매운 요리, 전통 축제가 특징인 태국의 정통 농촌 지역."
   },
   "highlights": {
     "en": [
@@ -75,6 +77,14 @@
       "農村の暮らし",
       "絹織物",
       "古代クメール遺跡"
+    ],
+    "ko": [
+      "정통 문화",
+      "매운 요리",
+      "전통 축제",
+      "농촌 생활",
+      "비단 직조",
+      "고대 크메르 유적"
     ]
   },
   "cities": [
@@ -95,7 +105,8 @@
     "de": "Heiß und trocken (Nov-Feb), sehr heiß (März-Mai), Regenzeit (Juni-Okt)",
     "zh": "炎热干燥（11月-2月），极热（3月-5月），雨季（6月-10月）",
     "ru": "Жарко и сухо (ноябрь-февраль), очень жарко (март-май), дождливо (июнь-октябрь)",
-    "ja": "暑く乾燥（11月〜2月）、非常に暑い（3月〜5月）、雨季（6月〜10月）"
+    "ja": "暑く乾燥（11月〜2月）、非常に暑い（3月〜5月）、雨季（6月〜10月）",
+    "ko": "덥고 건조함 (11월-2월), 매우 더움 (3월-5월), 우기 (6월-10월)"
   },
   "bestTimeToVisit": {
     "en": "November to February",
@@ -104,7 +115,8 @@
     "de": "November bis Februar",
     "zh": "11月至2月",
     "ru": "С ноября по февраль",
-    "ja": "11月から2月"
+    "ja": "11月から2月",
+    "ko": "11월부터 2월"
   },
   "image": "/images/regions/isaan-thailand.webp",
   "geography": {
@@ -114,7 +126,8 @@
     "de": "Hochebene mit durchschnittlich 200 m über dem Meeresspiegel. Grenzt an Laos und Kambodscha. Größte Region, die ein Drittel Thailands einnimmt.",
     "zh": "平均海拔200米的高原。与老挝和柬埔寨接壤。泰国最大的地区，占国土面积的三分之一。",
     "ru": "Возвышенное плато со средней высотой 200 м над уровнем моря. Граничит с Лаосом и Камбоджей. Крупнейший регион, занимающий треть территории Таиланда.",
-    "ja": "平均標高200mの高原地帯。ラオスとカンボジアに接する。タイの国土の3分の1を占める最大の地域。"
+    "ja": "平均標高200mの高原地帯。ラオスとカンボジアに接する。タイの国土の3分の1を占める最大の地域。",
+    "ko": "해발 평균 200m의 고원 지대. 라오스와 캄보디아에 접경. 태국 국토의 3분의 1을 차지하는 최대 지역."
   },
   "culture": {
     "en": "Strong Lao influence with distinct language, music, and traditions. Known for warm hospitality and village community life.",
@@ -123,7 +136,8 @@
     "de": "Starker laotischer Einfluss mit eigener Sprache, Musik und Traditionen. Bekannt für herzliche Gastfreundschaft und dörfliches Gemeinschaftsleben.",
     "zh": "深受老挝影响，拥有独特的语言、音乐和传统。以热情好客和淳朴的乡村社区生活著称。",
     "ru": "Сильное лаосское влияние с самобытным языком, музыкой и традициями. Известен тёплым гостеприимством и деревенским укладом жизни.",
-    "ja": "独自の言語、音楽、伝統を持つラオスの強い影響。温かいおもてなしと村のコミュニティ生活で知られる。"
+    "ja": "独自の言語、音楽、伝統を持つラオスの強い影響。温かいおもてなしと村のコミュニティ生活で知られる。",
+    "ko": "독자적인 언어, 음악, 전통을 가진 강한 라오스의 영향. 따뜻한 환대와 마을 공동체 생활로 유명."
   },
   "cuisine": {
     "en": "Som tam papaya salad, larb meat salad, sticky rice, jeow dipping sauces, grilled fish. Spiciest and most flavorful Thai cuisine.",
@@ -132,7 +146,8 @@
     "de": "Som Tam Papayasalat, Larb Fleischsalat, Klebreis, Jeow Dipsaucen, gegrillter Fisch. Die schärfste und geschmackvollste thailändische Küche.",
     "zh": "青木瓜沙拉、Larb肉沙拉、糯米饭、Jeow蘸酱、烤鱼。泰国最辣、最有味道的菜系。",
     "ru": "Салат из папайи сом там, мясной салат ларб, клейкий рис, соусы джео, рыба на гриле. Самая острая и ароматная тайская кухня.",
-    "ja": "ソムタム・パパイヤサラダ、ラープ肉サラダ、もち米、ジェオ・ディップソース、焼き魚。タイ料理で最も辛く、最も風味豊かな地方料理。"
+    "ja": "ソムタム・パパイヤサラダ、ラープ肉サラダ、もち米、ジェオ・ディップソース、焼き魚。タイ料理で最も辛く、最も風味豊かな地方料理。",
+    "ko": "쏨땀 파파야 샐러드, 랍 고기 샐러드, 찹쌀밥, 쩨오 딥 소스, 생선구이. 태국에서 가장 맵고 풍미 넘치는 지방 요리."
   },
   "transportation": {
     "en": "Limited flights to major cities. Buses connect all provinces. Local songthaews and tuk-tuks. Motorbike rentals common.",
@@ -141,7 +156,8 @@
     "de": "Begrenzte Flüge in größere Städte. Busse verbinden alle Provinzen. Lokale Songthaews und Tuk-Tuks. Motorradverleih üblich.",
     "zh": "飞往主要城市的航班有限。巴士连接各府。当地有双条车和嘟嘟车。摩托车租赁普遍。",
     "ru": "Ограниченное авиасообщение с крупными городами. Автобусы соединяют все провинции. Местные сонгтэу и тук-туки. Аренда мотоциклов распространена.",
-    "ja": "主要都市への便は限られる。バスが全県を結ぶ。現地ではソンテウやトゥクトゥクが利用可能。バイクレンタルも一般的。"
+    "ja": "主要都市への便は限られる。バスが全県を結ぶ。現地ではソンテウやトゥクトゥクが利用可能。バイクレンタルも一般的。",
+    "ko": "주요 도시로의 항공편은 제한적. 버스가 모든 주를 연결. 현지에서는 쏭태우와 툭툭 이용 가능. 오토바이 대여 보편적."
   },
   "budgetInfo": {
     "en": "Budget: $15-25/day. Mid-range: $25-50/day. Luxury: $50+/day. Cheapest region in Thailand for travelers.",
@@ -150,7 +166,8 @@
     "de": "Budget: $15-25/Tag. Mittelklasse: $25-50/Tag. Luxus: $50+/Tag. Günstigste Region Thailands für Reisende.",
     "zh": "经济型：$15-25/天。中档：$25-50/天。豪华：$50+/天。泰国对旅行者最实惠的地区。",
     "ru": "Бюджет: $15-25/день. Средний класс: $25-50/день. Люкс: $50+/день. Самый дешёвый регион Таиланда для путешественников.",
-    "ja": "格安：$15-25/日。中級：$25-50/日。高級：$50+/日。タイで最も物価が安い地域。"
+    "ja": "格安：$15-25/日。中級：$25-50/日。高級：$50+/日。タイで最も物価が安い地域。",
+    "ko": "저예산: $15-25/일. 중급: $25-50/일. 고급: $50+/일. 태국에서 여행자에게 가장 저렴한 지역."
   },
   "topActivities": {
     "en": [
@@ -173,6 +190,9 @@
     ],
     "ja": [
       "寺院参拝、絹織物の村、伝統市場、クメール遺跡探訪、祭りへの参加、田園サイクリング"
+    ],
+    "ko": [
+      "사원 방문, 비단 직조 마을, 전통 시장, 크메르 유적 탐방, 축제 참여, 시골 자전거 여행"
     ]
   },
   "hiddenGems": {
@@ -196,6 +216,9 @@
     ],
     "ja": [
       "パノムルン歴史公園、プラサート・ヒン・ピマーイ、パーテム国立公園、バーンチエン遺跡、ムクダハーン川沿い"
+    ],
+    "ko": [
+      "파놈룽 역사공원, 쁘라삿 힌 피마이, 파땜 국립공원, 반치앙 고고학 유적지, 묵다한 강변"
     ]
   },
   "localFestivals": {
@@ -219,6 +242,9 @@
     ],
     "ja": [
       "ブンバンファイ・ロケット祭り（5月）、ピーターコーン・ゴースト祭り（6月）、ろうそく祭り（7月）、ボートレース（10月）"
+    ],
+    "ko": [
+      "분방파이 로켓 축제 (5월), 피따콘 유령 축제 (6월), 양초 축제 (7월), 보트 레이스 (10월)"
     ]
   },
   "travelTips": {
@@ -242,6 +268,9 @@
     ],
     "ja": [
       "基本的なイサーン方言を覚えておくと便利。農村の習慣を尊重。地元の食品市場を試してみて。乾季は水分補給を忘れずに。丁寧に値段交渉を。"
+    ],
+    "ko": [
+      "기본 이산 방언을 익혀두세요. 시골 관습을 존중하세요. 현지 식품 시장을 방문해 보세요. 건기에는 수분 보충을 잊지 마세요. 정중하게 흥정하세요."
     ]
   },
   "whatToPack": {
@@ -265,6 +294,9 @@
     ],
     "ja": [
       "軽い綿の服、日よけ帽子、歩きやすいサンダル、手指消毒剤、胃腸薬、虫除け、現金"
+    ],
+    "ko": [
+      "가벼운 면 옷, 자외선 차단 모자, 편한 샌들, 손 소독제, 위장약, 벌레 퇴치제, 현금"
     ]
   },
   "seo": {
@@ -275,7 +307,8 @@
       "de": "Isaan (Nordostthailand) Reiseführer 2026",
       "zh": "伊桑（泰国东北部）旅游指南2026",
       "ru": "Исан (Северо-Восточный Таиланд) — путеводитель 2026",
-      "ja": "イサーン（タイ東北部）旅行ガイド2026"
+      "ja": "イサーン（タイ東北部）旅行ガイド2026",
+      "ko": "이산 (태국 동북부) 여행 가이드 2026"
     },
     "metaDescription": {
       "en": "Isaan travel guide 2026. Best cities, attractions, culture, and travel tips for Northeast Thailand's authentic destinations.",
@@ -284,7 +317,8 @@
       "de": "Isaan Reiseführer 2026. Beste Städte, Sehenswürdigkeiten, Kultur und Reisetipps für die authentischen Reiseziele Nordostthailands.",
       "zh": "伊桑旅游指南2026。泰国东北部原生态目的地的最佳城市、景点、文化和旅行攻略。",
       "ru": "Путеводитель по Исану 2026. Лучшие города, достопримечательности, культура и советы для аутентичных направлений Северо-Восточного Таиланда.",
-      "ja": "イサーン旅行ガイド2026。タイ東北部の本格的な旅先のおすすめ都市、観光スポット、文化、旅行のヒント。"
+      "ja": "イサーン旅行ガイド2026。タイ東北部の本格的な旅先のおすすめ都市、観光スポット、文化、旅行のヒント。",
+      "ko": "이산 여행 가이드 2026. 태국 동북부의 정통 여행지 추천 도시, 관광지, 문화, 여행 팁."
     }
   },
   "categories": {
@@ -295,7 +329,8 @@
       "de": "Top-Sehenswürdigkeiten im Isaan (Nordostthailand)",
       "zh": "伊桑（泰国东北部）热门景点",
       "ru": "Лучшие достопримечательности Исана (Северо-Восточный Таиланд)",
-      "ja": "イサーン（タイ東北部）の人気観光スポット"
+      "ja": "イサーン（タイ東北部）の人気観光スポット",
+      "ko": "이산 (태국 동북부) 인기 관광지"
     },
     "cities": {
       "en": "Best cities to visit in Isaan (Northeast Thailand)",
@@ -304,7 +339,8 @@
       "de": "Beste Städte im Isaan (Nordostthailand)",
       "zh": "伊桑（泰国东北部）最佳旅游城市",
       "ru": "Лучшие города Исана (Северо-Восточный Таиланд)",
-      "ja": "イサーン（タイ東北部）のおすすめ都市"
+      "ja": "イサーン（タイ東北部）のおすすめ都市",
+      "ko": "이산 (태국 동북부) 추천 도시"
     },
     "climate": {
       "en": "Climate and weather in Isaan (Northeast Thailand)",
@@ -313,7 +349,8 @@
       "de": "Klima und Wetter im Isaan (Nordostthailand)",
       "zh": "伊桑（泰国东北部）气候与天气",
       "ru": "Климат и погода в Исане (Северо-Восточный Таиланд)",
-      "ja": "イサーン（タイ東北部）の気候と天気"
+      "ja": "イサーン（タイ東北部）の気候と天気",
+      "ko": "이산 (태국 동북부) 기후와 날씨"
     }
   },
   "tags": [
