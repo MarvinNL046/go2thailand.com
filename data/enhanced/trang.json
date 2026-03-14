@@ -4,14 +4,16 @@
   "name": {
     "en": "Trang",
     "nl": "Trang",
-    "ja": "トラン"
+    "ja": "トラン",
+    "ko": "뜨랑"
   },
   "region": "Southern",
   "province": "Trang",
   "description": {
     "en": "A laid-back southern Thai city renowned for its roasted pork, hidden emerald caves, and pristine islands. Trang offers an authentic slice of southern Thai life with a thriving food culture and access to stunning Andaman Sea islands.",
     "nl": "Een ontspannen Zuid-Thaise stad beroemd om zijn geroosterd varkensvlees, verborgen smaragdgroene grotten en ongerepte eilanden. Trang biedt een authentiek stukje Zuid-Thais leven met een bloeiende eetcultuur en toegang tot prachtige eilanden in de Andamanzee.",
-    "ja": "ローストポーク、エメラルドの洞窟、隠れた島々で知られるのんびりとしたタイ南部の街トランは、知る人ぞ知る秘境リゾートの玄関口です。"
+    "ja": "ローストポーク、エメラルドの洞窟、隠れた島々で知られるのんびりとしたタイ南部の街トランは、知る人ぞ知る秘境リゾートの玄関口です。",
+    "ko": "로스트 포크, 숨겨진 에메랄드 동굴, 천혜의 섬들로 유명한 여유로운 남부 태국 도시입니다. 뜨랑은 번성하는 음식 문화와 멋진 안다만해 섬들로의 접근성을 갖춘 정통 남부 태국 생활을 보여줍니다."
   },
   "population": 65000,
   "highlights": [
@@ -29,29 +31,34 @@
     "metaTitle": {
       "en": "Discover Trang | What to do in Trang?",
       "nl": "Ontdek Trang | Wat te doen in Trang?",
-      "ja": "トランを満喫 | トランの観光・見どころガイド"
+      "ja": "トランを満喫 | トランの観光・見どころガイド",
+      "ko": "뜨랑 태국 — 숨겨진 섬 & 음식 여행 가이드 2026"
     },
     "metaDescription": {
       "en": "Your guide to Trang, Thailand – hidden islands, emerald caves, roasted pork and dim sum.",
       "nl": "Jouw gids voor Trang, Thailand – verborgen eilanden, smaragdgroene grotten, geroosterd varkensvlees en dim sum.",
-      "ja": "タイ・トランの旅行ガイド — 隠れた島々、エメラルドの洞窟、ローストポークの魅力をご紹介。"
+      "ja": "タイ・トランの旅行ガイド — 隠れた島々、エメラルドの洞窟、ローストポークの魅力をご紹介。",
+      "ko": "뜨랑(태국) 완벽 여행 가이드: 에메랄드 동굴, 꼬끄라단, 로스트 포크, 숨겨진 섬. 가격, 팁, 가는 법."
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Trang",
       "nl": "Beste restaurants en streetfood in Trang",
-      "ja": "トランのおすすめレストラン＆ストリートフード"
+      "ja": "トランのおすすめレストラン＆ストリートフード",
+      "ko": "뜨랑 추천 레스토랑과 길거리 음식"
     },
     "hotels": {
       "en": "Top hotels in Trang | Tips & deals",
       "nl": "Beste hotels in Trang | Tips & aanbiedingen",
-      "ja": "トランのおすすめホテル｜お得な情報＆アドバイス"
+      "ja": "トランのおすすめホテル｜お得な情報＆アドバイス",
+      "ko": "뜨랑 추천 호텔 | 팁 & 특가"
     },
     "attractions": {
       "en": "Top attractions in Trang",
       "nl": "Top bezienswaardigheden in Trang",
-      "ja": "トランの人気観光スポット"
+      "ja": "トランの人気観光スポット",
+      "ko": "뜨랑 인기 관광 명소"
     }
   },
   "tags": [
@@ -68,12 +75,14 @@
       "name": {
         "en": "Koh Kradan Beach",
         "nl": "Koh Kradan Strand",
-        "ja": "クラダン島ビーチ"
+        "ja": "クラダン島ビーチ",
+        "ko": "꼬끄라단 해변"
       },
       "description": {
         "en": "Often called the most beautiful beach in Thailand, this small island's eastern shore has powdery white sand meeting crystal-clear water over a coral reef. No roads, no ATMs, just pristine beach perfection with a handful of small resorts.",
         "nl": "Vaak het mooiste strand van Thailand genoemd, heeft de oostkust van dit kleine eiland poederachtig wit zand dat kristalhelder water ontmoet boven een koraalrif. Geen wegen, geen geldautomaten, alleen puur strandperfectie met een handvol kleine resorts.",
-        "ja": "タイで最も美しいビーチとも称される小さな島で、東側の砂浜は透明度抜群の海と白砂が広がります。観光客が少なく、手つかずの自然が残る楽園です。"
+        "ja": "タイで最も美しいビーチとも称される小さな島で、東側の砂浜は透明度抜群の海と白砂が広がります。観光客が少なく、手つかずの自然が残る楽園です。",
+        "ko": "태국에서 가장 아름다운 해변 중 하나로, 맑은 바다와 백사장이 매력적인 숨겨진 섬입니다."
       },
       "type": "nature"
     },
@@ -81,12 +90,14 @@
       "name": {
         "en": "Ko Pi Breakfast House",
         "nl": "Ko Pi Ontbijthuis",
-        "ja": "コー・ピー朝食店"
+        "ja": "コー・ピー朝食店",
+        "ko": "코피 아침식사 집"
       },
       "description": {
         "en": "A legendary Trang breakfast institution on Phraram VI Road serving perfect roasted pork, handmade dim sum, and strong filtered coffee since the 1940s. Arrive before 7 AM to secure a seat among the local regulars.",
         "nl": "Een legendarisch Trang ontbijtinstituut aan de Phraram VI Road dat perfecte gebraden varkensvlees, handgemaakte dim sum en sterke filterkoffie serveert sinds de jaren 1940. Kom voor 7 uur aan om een stoel te bemachtigen tussen de vaste locale klanten.",
-        "ja": "プララーム6世通りにある伝説的なトランの朝食店で、完璧なローストポークとコーヒーを早朝から提供しています。地元の人々に長年愛される名店です。"
+        "ja": "プララーム6世通りにある伝説的なトランの朝食店で、完璧なローストポークとコーヒーを早朝から提供しています。地元の人々に長年愛される名店です。",
+        "ko": "뜨랑 시내의 전통 아침식사 가게로, 현지인들이 사랑하는 로스트 포크와 딤섬을 맛볼 수 있습니다."
       },
       "type": "restaurant"
     },
@@ -94,12 +105,14 @@
       "name": {
         "en": "Koh Libong Dugong Watching",
         "nl": "Koh Libong Doejong Spotten",
-        "ja": "リボン島ジュゴンウォッチング"
+        "ja": "リボン島ジュゴンウォッチング",
+        "ko": "꼬리봉 듀공 관찰"
       },
       "description": {
         "en": "One of the last places in Thailand to spot wild dugongs grazing on seagrass beds. The island's east coast is a protected marine area where these gentle sea mammals can be observed from boats in the early morning.",
         "nl": "Een van de laatste plaatsen in Thailand om wilde doejongs te zien grazen op zeegrasgebieden. De oostkust van het eiland is een beschermd marien gebied waar deze vriendelijke zeezoogdieren 's ochtends vroeg vanuit boten kunnen worden geobserveerd.",
-        "ja": "タイで野生のジュゴンが海草を食む姿を観察できる数少ない場所の一つです。早朝のボートツアーで遭遇の確率が高く、貴重な自然体験ができます。"
+        "ja": "タイで野生のジュゴンが海草を食む姿を観察できる数少ない場所の一つです。早朝のボートツアーで遭遇の確率が高く、貴重な自然体験ができます。",
+        "ko": "멸종 위기 해양 포유류인 듀공을 자연 서식지에서 관찰할 수 있는 희귀한 에코투어입니다."
       },
       "type": "nature"
     },
@@ -107,12 +120,14 @@
       "name": {
         "en": "Phraya Ratsadanupradit Monument Area",
         "nl": "Phraya Ratsadanupradit Monument Gebied",
-        "ja": "プラヤー・ラッサダーヌプラディット記念碑エリア"
+        "ja": "プラヤー・ラッサダーヌプラディット記念碑エリア",
+        "ko": "프라야 랏사다누쁘라딧 기념비 지역"
       },
       "description": {
         "en": "The tree-lined plaza around the monument to Trang's beloved governor features old colonial-era buildings, morning exercise groups, and a lively food stall area. A perfect spot to observe daily Trang life with a coffee in hand.",
         "nl": "Het met bomen omzoomde plein rond het monument van Trang's geliefde gouverneur heeft oude koloniale gebouwen, ochtendgymnastiekgroepen en een levendig eetkraampjesgebied. Een perfecte plek om het dagelijks leven van Trang te observeren met een koffie in de hand.",
-        "ja": "トランの愛された知事の記念碑周辺の並木道の広場で、古いショップハウスやカフェが点在しています。街の歴史と雰囲気を感じられる散歩スポットです。"
+        "ja": "トランの愛された知事の記念碑周辺の並木道の広場で、古いショップハウスやカフェが点在しています。街の歴史と雰囲気を感じられる散歩スポットです。",
+        "ko": "뜨랑의 역사적 영웅을 기리는 기념비 주변의 역사 지구입니다."
       },
       "type": "cultural"
     },
@@ -120,12 +135,14 @@
       "name": {
         "en": "Than Le Waterfall",
         "nl": "Than Le Waterval",
-        "ja": "ターンレー滝"
+        "ja": "ターンレー滝",
+        "ko": "탄레 폭포"
       },
       "description": {
         "en": "A series of limestone cascades in a forest park just 40 minutes from Trang town. The natural pools are popular swimming spots for locals on weekends, with almost no foreign visitors and a peaceful jungle atmosphere.",
         "nl": "Een reeks kalksteencascades in een bospark op slechts 40 minuten van de stad Trang. De natuurlijke zwembaden zijn populaire zwemplekken voor locals in het weekend, met bijna geen buitenlandse bezoekers en een vredige jungle-sfeer.",
-        "ja": "トランの街から車で約40分の森林公園にある石灰岩の段々滝です。天然のプールで泳ぐことができ、地元のピクニックスポットとして人気です。"
+        "ja": "トランの街から車で約40分の森林公園にある石灰岩の段々滝です。天然のプールで泳ぐことができ、地元のピクニックスポットとして人気です。",
+        "ko": "정글 속 아름다운 폭포로, 현지인들의 주말 나들이 장소입니다."
       },
       "type": "nature"
     }
@@ -697,6 +714,40 @@
       "bestTimeToVisit": "Лучший сезон для посещения Транга — с ноября по февраль, когда стоит сухая и приятная погода с температурой 25–30°C. Этот период обеспечивает наиболее стабильные условия для островных активностей и пляжного отдыха. С марта по май жарко и влажно (выше 35°C), что затрудняет активный отдых, но туристов меньше. Юго-западный муссон с мая по октябрь приносит сильные дожди и бурное море — островные экскурсии реже, водные активности рискованнее; многие островные курорты сокращают работу. Транг страдает от муссонов чуть меньше некоторых районов, но сентябрь и октябрь остаются самыми дождливыми месяцами. Для гастрономических визитов подходит любой сезон — ночные рынки и рестораны работают круглый год. Если вы сочетаете островные экскурсии с кулинарными открытиями, ноябрь–январь — оптимальный баланс отличной погоды и умеренных толп.",
       "safetyTips": "Транг — в целом безопасное направление с низким уровнем насильственной преступности. Местные жители дружелюбны и гостеприимны. Стандартные меры предосторожности: не демонстрируйте дорогие украшения и электронику, храните ценности в сейфе отеля, следите за сумками на оживлённых ночных рынках. При посещении островов соблюдайте безопасность на воде — надевайте спасательные жилеты, проверяйте погоду перед выходом, пользуйтесь надёжными туроператорами. Дорожная безопасность важна: при аренде мотоцикла надевайте шлем и ведите осторожно — местное движение может быть хаотичным. Избегайте поздних прогулок в одиночку по незнакомым районам, держитесь хорошо освещённых и оживлённых улиц. В сезон дождей (сентябрь–октябрь) возможны бурное море и подтопления в низинах — проверяйте условия перед островными поездками. Политические демонстрации редки, но возможны — избегайте больших скоплений. В целом Транг остаётся одним из самых безопасных и спокойных направлений Таиланда.",
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "뜨랑은 태국 남부 안다만해 연안의 여유로운 도시로, 관광객에게 아직 덜 알려진 숨겨진 보석입니다. 끄라비의 인파를 피해 조용하고 정통적인 남부 태국을 경험하고 싶다면 뜨랑이 최적의 선택입니다.\n\n에메랄드 동굴(탐모라꼿)은 뜨랑의 하이라이트로, 어둠 속 좁은 동굴을 헤엄쳐 통과하면 햇빛이 비치는 숨겨진 에메랄드빛 라군에 도착합니다. 꼬끄라단은 태국에서 가장 아름다운 해변 중 하나로, 맑은 바다에서 스노클링을 즐길 수 있습니다.\n\n뜨랑의 음식 문화는 남부 태국에서도 독보적입니다. 아침마다 현지인들은 전통 커피숍에서 로스트 포크, 딤섬, 커피로 하루를 시작합니다. 뜨랑 로스트 포크(무양)는 전국적으로 유명한 특산물입니다. 꼬리봉에서의 듀공 관찰 에코투어는 이 지역만의 독특한 경험입니다.",
+      "hidden_gems": [
+        {
+          "name": "꼬끄라단 해변",
+          "description": "태국에서 가장 아름다운 해변 중 하나로, 맑은 바다가 매력적입니다."
+        },
+        {
+          "name": "코피 아침식사 집",
+          "description": "현지인이 사랑하는 전통 아침식사 가게로, 로스트 포크와 딤섬이 유명합니다."
+        },
+        {
+          "name": "꼬리봉 듀공 관찰",
+          "description": "멸종 위기 듀공을 자연 서식지에서 관찰하는 에코투어입니다."
+        },
+        {
+          "name": "프라야 랏사다누쁘라딧 기념비",
+          "description": "뜨랑 역사 영웅의 기념비가 있는 역사 지구입니다."
+        },
+        {
+          "name": "탄레 폭포",
+          "description": "정글 속 아름다운 폭포로, 현지인들의 나들이 장소입니다."
+        }
+      ],
+      "authentic_experiences": [],
+      "foodie_adventures": [],
+      "overview": "뜨랑은 남부 태국의 여유로운 보석으로, 정통적이고 관광객이 적은 매력을 유지하고 있습니다. 에메랄드 동굴, 꼬끄라단 해변, 로스트 포크 문화가 주요 매력입니다.",
+      "thingsToDo": "뜨랑의 주요 명소는 섬과 자연 경관을 중심으로 합니다. 에메랄드 동굴에서 숨겨진 라군을 발견하고, 꼬끄라단에서 스노클링을 즐기세요. 꼬리봉에서 듀공 관찰 투어를 하고, 시내 전통 커피숍에서 로스트 포크 아침식사를 맛보세요.",
+      "whereToStay": "뜨랑 시내에 다양한 숙소가 있으며, 예산 게스트하우스부터 중급 호텔까지 선택할 수 있습니다. 섬에서 숙박하려면 꼬끄라단이나 꼬므국의 리조트를 추천합니다.",
+      "gettingAround": "뜨랑 시내는 작고 도보로 충분합니다. 툭툭이 주요 교통수단이며, 섬과 해변으로는 반페 선착장에서 보트를 이용합니다. 오토바이 대여도 가능합니다.",
+      "bestTimeToVisit": "뜨랑의 최적 방문 시기는 11월부터 2월까지로, 건조하고 쾌적한 날씨에 섬 투어가 가능합니다. 우기(5-10월)에는 일부 섬 투어가 중단될 수 있습니다.",
+      "safetyTips": "뜨랑은 안전한 여행지입니다. 에메랄드 동굴 수영 시 구명조끼를 착용하고, 보트 투어 시 날씨를 확인하세요. 우기에는 해류가 강해질 수 있으니 주의하세요.",
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
