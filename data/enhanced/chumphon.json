@@ -4,14 +4,16 @@
   "name": {
     "en": "Chumphon",
     "nl": "Chumphon",
-    "ja": "チュムポーン"
+    "ja": "チュムポーン",
+    "ko": "춤폰"
   },
   "region": "Southern",
   "province": "Chumphon",
   "description": {
     "en": "The gateway to Koh Tao and the Gulf islands, Chumphon is a coastal province with unspoiled beaches, excellent diving, and kiteboarding. A refreshingly untouristy destination where Thai beach culture thrives without the crowds.",
     "nl": "De toegangspoort tot Koh Tao en de Golfeilanden, Chumphon is een kustprovincie met ongerepte stranden, uitstekende duikmogelijkheden en kiteboarden. Een verfrissend ontoeristisch reisdoel waar de Thaise strandcultuur bloeit zonder de drukte.",
-    "ja": "タオ島とガルフ諸島への玄関口。手つかずのビーチ、ダイビング、カイトボードが楽しめる沿岸県。"
+    "ja": "タオ島とガルフ諸島への玄関口。手つかずのビーチ、ダイビング、カイトボードが楽しめる沿岸県。",
+    "ko": "꼬따오와 걸프 섬들로 가는 관문인 춤폰은 깨끗한 해변, 훌륭한 다이빙, 카이트보딩을 갖춘 해안 주입니다. 인파 없이 태국 해변 문화가 번성하는 상쾌하게 비관광적인 여행지."
   },
   "population": 34000,
   "highlights": [
@@ -29,29 +31,34 @@
     "metaTitle": {
       "en": "Discover Chumphon | What to do in Chumphon?",
       "nl": "Ontdek Chumphon | Wat te doen in Chumphon?",
-      "ja": "チュムポーン タイ — タオ島への玄関口ガイド 2026"
+      "ja": "チュムポーン タイ — タオ島への玄関口ガイド 2026",
+      "ko": "춤폰 태국 — 깨끗한 해변 & 꼬따오 관문 가이드"
     },
     "metaDescription": {
       "en": "Your guide to Chumphon, Thailand – unspoiled beaches, diving, Koh Tao gateway and kiteboarding.",
       "nl": "Jouw gids voor Chumphon, Thailand – ongerepte stranden, duiken, toegangspoort tot Koh Tao en kiteboarden.",
-      "ja": "チュムポーン（タイ）旅行ガイド — 手つかずのビーチ、ダイビング、タオ島への行き方、カイトボード情報。2026年更新。"
+      "ja": "チュムポーン（タイ）旅行ガイド — 手つかずのビーチ、ダイビング、タオ島への行き方、カイトボード情報。2026年更新。",
+      "ko": "춤폰 가이드 — 깨끗한 해변, 다이빙, 꼬따오 관문, 카이트보딩 정보."
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Chumphon",
       "nl": "Beste restaurants en streetfood in Chumphon",
-      "ja": "チュムポーンのおすすめレストランとストリートフード"
+      "ja": "チュムポーンのおすすめレストランとストリートフード",
+      "ko": "춤폰 추천 레스토랑과 길거리 음식"
     },
     "hotels": {
       "en": "Top hotels in Chumphon | Tips & deals",
       "nl": "Beste hotels in Chumphon | Tips & aanbiedingen",
-      "ja": "チュムポーンのおすすめホテル | ヒント＆お得情報"
+      "ja": "チュムポーンのおすすめホテル | ヒント＆お得情報",
+      "ko": "춤폰 추천 호텔 | 팁 & 특가"
     },
     "attractions": {
       "en": "Top attractions in Chumphon",
       "nl": "Top bezienswaardigheden in Chumphon",
-      "ja": "チュムポーンの人気観光スポット"
+      "ja": "チュムポーンの人気観光スポット",
+      "ko": "춤폰 인기 관광 명소"
     }
   },
   "tags": [
@@ -68,12 +75,14 @@
       "name": {
         "en": "Ao Thung Makham Bay",
         "nl": "Ao Thung Makham Baai",
-        "ja": "アオトゥンマカーム湾"
+        "ja": "アオトゥンマカーム湾",
+        "ko": "아오퉁마캄 만"
       },
       "description": {
         "en": "A sheltered bay south of town where fishing communities serve the morning's catch at stilted waterfront restaurants. Some of the freshest and cheapest seafood on the Gulf coast, with zero tourist presence.",
         "nl": "Een beschutte baai ten zuiden van de stad waar vissersgemeenschappen de ochtendvangst serveren in restaurants op palen boven het water. Enkele van de versste en goedkoopste zeevruchten aan de Golfkust, zonder enige toerist.",
-        "ja": "町の南にある入り江。漁師コミュニティが朝の水揚げを高床式の水辺レストランで提供。"
+        "ja": "町の南にある入り江。漁師コミュニティが朝の水揚げを高床式の水辺レストランで提供。",
+        "ko": "시내 남쪽의 보호된 만으로, 어촌 공동체가 높은 기둥 위의 수변 레스토랑에서 아침 어획물을 내놓습니다. 관광객이 전혀 없는 걸프 해안에서 가장 신선하고 저렴한 해산물."
       },
       "type": "restaurant"
     },
@@ -81,12 +90,14 @@
       "name": {
         "en": "Khao Matsee Viewpoint",
         "nl": "Khao Matsee Uitkijkpunt",
-        "ja": "カオマッシー展望台"
+        "ja": "カオマッシー展望台",
+        "ko": "카오맛시 전망대"
       },
       "description": {
         "en": "A hilltop viewpoint near Pak Nam Chumphon offering panoramic views of the coastline, river estuary, and offshore islands. Best at sunset when the whole Gulf turns golden. Rarely visited by anyone except local joggers.",
         "nl": "Een uitkijkpunt op een heuvel bij Pak Nam Chumphon met panoramisch uitzicht over de kustlijn, riviermonding en eilanden. Het mooist bij zonsondergang als de hele Golf goud kleurt. Zelden bezocht door iemand anders dan lokale joggers.",
-        "ja": "パクナムチュムポーン近くの丘の上の展望台。海岸線、河口、漁船のパノラマビューが楽しめます。"
+        "ja": "パクナムチュムポーン近くの丘の上の展望台。海岸線、河口、漁船のパノラマビューが楽しめます。",
+        "ko": "팍남춤폰 근처의 언덕 위 전망대로 해안선, 강 하구, 앞바다 섬의 파노라마 전망을 제공합니다. 걸프 전체가 금빛으로 변하는 일몰 때가 최고. 현지 조깅하는 사람 외에는 거의 방문하지 않습니다."
       },
       "type": "nature"
     },
@@ -94,12 +105,14 @@
       "name": {
         "en": "Suan Nai Dum Homestay Area",
         "nl": "Suan Nai Dum Homestay Gebied",
-        "ja": "スアンナイダム・ホームステイエリア"
+        "ja": "スアンナイダム・ホームステイエリア",
+        "ko": "수안나이담 홈스테이 지역"
       },
       "description": {
         "en": "A community tourism area where visitors can stay with local farming families, learn about coconut and fruit cultivation, and experience authentic rural southern Thai life far from any tourist infrastructure.",
         "nl": "Een gemeenschapstoerismegebied waar bezoekers bij lokale boerenfamilies kunnen verblijven, leren over kokos- en fruitteelt en het authentieke landelijke Zuid-Thaise leven kunnen ervaren, ver van elke toeristische infrastructuur.",
-        "ja": "地元の農家に滞在し、ココナッツやフルーツ農業について学べるコミュニティツーリズムエリア。"
+        "ja": "地元の農家に滞在し、ココナッツやフルーツ農業について学べるコミュニティツーリズムエリア。",
+        "ko": "방문자가 현지 농가에 머물며 코코넛과 과일 재배를 배우고, 관광 인프라와 거리가 먼 진정한 남부 태국 시골 생활을 경험할 수 있는 커뮤니티 관광 지역."
       },
       "type": "experience"
     },
@@ -107,12 +120,14 @@
       "name": {
         "en": "Rab Ro Canal",
         "nl": "Rab Ro Kanaal",
-        "ja": "ラブロー運河"
+        "ja": "ラブロー運河",
+        "ko": "랍로 운하"
       },
       "description": {
         "en": "A scenic mangrove canal near the coast where you can kayak through tunnels of overhanging trees. Monkeys, kingfishers, and monitor lizards are common sights. Local guides offer inexpensive paddling tours.",
         "nl": "Een schilderachtig mangrovekanaal bij de kust waar je kunt kajakken door tunnels van overhangende bomen. Apen, ijsvogels en varanen zijn veelvoorkomend. Lokale gidsen bieden goedkope kajaktoers aan.",
-        "ja": "海岸近くの景観豊かなマングローブ運河。木々のトンネルをカヤックで抜けられます。"
+        "ja": "海岸近くの景観豊かなマングローブ運河。木々のトンネルをカヤックで抜けられます。",
+        "ko": "해안 근처의 경치 좋은 맹그로브 운하로 늘어진 나무 터널 사이를 카약으로 다닐 수 있습니다. 원숭이, 물총새, 왕도마뱀을 흔히 볼 수 있습니다. 현지 가이드가 저렴한 패들링 투어를 제공합니다."
       },
       "type": "nature"
     },
@@ -120,12 +135,14 @@
       "name": {
         "en": "Chumphon Morning Market",
         "nl": "Chumphon Ochtendmarkt",
-        "ja": "チュムポーン朝市"
+        "ja": "チュムポーン朝市",
+        "ko": "춤폰 아침 시장"
       },
       "description": {
         "en": "The bustling market near the train station where locals shop for fresh tropical fruits, dried seafood, and southern Thai ingredients. A genuine local experience where vendors are delighted to see foreign visitors and offer generous samples.",
         "nl": "De bruisende markt bij het treinstation waar locals verse tropische vruchten, gedroogde zeevruchten en Zuid-Thaise ingrediënten kopen. Een echte lokale ervaring waar verkopers blij zijn om buitenlandse bezoekers te zien en royale proeverijen aanbieden.",
-        "ja": "駅近くの活気ある市場。地元の人々が新鮮な熱帯果物、干物、南部のカレーペーストを買い求めます。"
+        "ja": "駅近くの活気ある市場。地元の人々が新鮮な熱帯果物、干物、南部のカレーペーストを買い求めます。",
+        "ko": "기차역 근처의 활기찬 시장으로 현지인들이 신선한 열대 과일, 건어물, 남부 태국 식재료를 구매합니다. 상인들이 외국인 방문자를 보고 기뻐하며 넉넉한 시식을 제공하는 진정한 현지 체험."
       },
       "type": "market"
     }
@@ -694,6 +711,19 @@
       "bestTimeToVisit": "Лучший сезон для посещения Чумпхона — с ноября по февраль, когда температура опускается до комфортных 24-28°C, влажность снижается и осадки минимальны. Декабрь и январь — пиковые месяцы с лучшей погодой, идеальной для пляжного отдыха, снорклинга и дайвинга с отличной видимостью. С марта по май — жаркая погода (32-35°C) с повышенной влажностью. С июня по октябрь — юго-западный муссон с сильными дождями, бурным морем и возможной отменой островных паромов — подходит только для бюджетных путешественников или тех, кто ищет подлинного местного опыта без туристов. Для дайвинга и водных видов спорта ноябрь-апрель обеспечивает самое спокойное море и лучшую подводную видимость.",
       "safetyTips": "Чумпхон в целом очень безопасен для туристов с низким уровнем преступности и дружелюбным местным населением. Стандартные меры предосторожности: не демонстрируйте дорогие вещи, храните ценности в безопасности на рынках и в сонгтэо, будьте осторожны при аренде мотоцикла, если не знакомы с тайским дорожным движением. Центр города и пляжи безопасны для ночных прогулок, но уединённых пляжных зон после наступления темноты лучше избегать. Мелкие кражи редки, но возможны на ночном рынке и автовокзале. Пользуйтесь проверенным транспортом (официальные такси, Grab). Безопасность на воде важна — купайтесь только в отведённых зонах пляжей Тхунг Вуа Лэн и Сай Ри. При дайвинге проверяйте сертификаты операторов. Уважайте местные обычаи, особенно у храмов и Мемориала Принца Чумпхона.",
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "대부분의 여행자는 춤폰을 흐릿하게 경험합니다 — 버스 정류장, 페리 부두, 꼬따오로 가는 야간 환승의 흐릿함. 저도 같은 실수를 할 뻔했습니다. 방콕에서 야간 기차를 타고 아침 롬프라야 쌍동선을 잡아 점심쯤에는 꼬따오에서 스노클링을 하려던 계획이었습니다. 하지만 기차가 일찍 도착하고, 페리가 오전 7시까지 없었고, 새벽 전 부두에서 보내는 고요한 시간에 한 번도 본 적 없는 분홍빛으로 변하는 하늘, 항구에서 부드럽게 흔들리는 어선, 숯불 버너 위에서 달걀을 부치는 여성이 눈에 들어왔습니다. 30바트에 달걀프라이 덮밥 두 개를 사서 콘크리트 기둥에 앉아 타이 만 위로 떠오르는 해를 바라보며 머무르기로 결정했습니다.\n\n퉁와랜 비치는 우회할 가치를 만드는 계시입니다. 카수아리나 나무와 소박한 방갈로 리조트를 배경으로 한 긴 초승달 모양의 금빛 모래사장으로, 더 유명한 해변들이 20년 전에 잃어버린 아름다움을 간직하고 있습니다. 2킬로미터 전체 길이를 걸으며 열두 명도 채 안 되는 사람을 지나쳤습니다 — 나무 아래서 피크닉하는 태국 가족, 남쪽 끝에서 출발하는 유럽인 카이터 두어 명, 모래 위에서 탁발하는 근처 사원의 승려. 해변 가판대에서 마스크를 100바트에 빌려 1시간 동안 방아쇠고기, 나비고기, 작은 푸른점가오리가 가득한 사슴뿔산호 정원 위를 떠다녔습니다.\n\n춤폰 시내는 작고 기분 좋게 평범합니다 — 관광에 대한 허세 없는 제대로 된 태국 시장 도시. 기차역 근처 아침 시장은 주변 농장의 신선한 람부탄, 망고스틴, 코코넛을 팔며, 상인들이 파랑(외국인)이 통로를 구경하는 것에 놀라 기뻐하며 과일 시식을 손에 쥐어주었습니다. 타타파오 로드의 국수집에서 점심을 먹었습니다 — 풍부한 돼지고기와 허브 육수의 꾸어이띠아오르어, 보트 누들 한 그릇 — 건설 노동자와 학생들에 둘러싸여 35바트.\n\n춤폰의 해안선은 대부분의 여행자가 생각하는 것보다 훨씬 길게 뻗어 있습니다. 오토바이를 빌려 코코넛 농장과 고무나무 숲을 지나 해안 도로를 따라 남쪽으로 달려 아오퉁마캄에 갔습니다 — 어촌 공동체가 대대로 같은 바다에서 일해 온 보호된 만. 여기 해산물 레스토랑들 — 물 위에 기둥으로 세운 야외 정자 — 은 그날 아침 배가 가져온 것을 그대로 내놓습니다. 여행 내내 최고의 쁠라까뽕능마나우(라임 찐 농어)를 먹은 곳은 주인이 수조에서 헤엄치는 생선을 가리키며 골라보라고 한 이름 없는 레스토랑이었습니다.",
+      "hidden_gems": [],
+      "authentic_experiences": [],
+      "foodie_adventures": [],
+      "overview": "춤폰은 관광객 인파 없이 진정한 해안 경험을 찾는 여행자에게 태국의 가장 잘 간직된 비밀입니다. 후아힌과 수랏타니 사이 상부 걸프 해안에 위치한 이 항구 도시는 꼬따오와 무꼬춤폰 국립공원 섬들로 가는 관문 역할을 합니다. 인구 34,000명의 춤폰은 금빛 모래와 훌륭한 카이트보딩 조건의 퉁와랜 같은 깨끗한 해변과 더 유명한 여행지에 견줄 만한 세계적 수준의 다이빙 기회를 제공합니다. 도시는 태국 해변 문화가 자연스럽게 번성하는 상쾌하게 비관광적인 분위기를 유지하며, 저렴한 해산물 시장, 경치 좋은 워터프론트 공원, 조용한 해변과 섬 당일치기에 대한 쉬운 접근성을 갖추고 있습니다.",
+      "thingsToDo": "춤폰 모험은 퉁와랜 비치에서 시작하세요 — 카이트보딩과 앞바다 스노클링에 완벽한 무료 입장 금빛 모래 해변으로, 투어 그룹 대신 주로 현지 가족을 만날 수 있습니다. 핵심 명소는 무꼬춤폰 국립공원(입장료 200바트)으로, 본토에서 쉽게 보트로 접근 가능한 여러 섬에서 놀라운 산호초 다이빙, 섬 호핑, 스노클링을 제공합니다. 문화 탐방으로 춤폰 왕자 기념 사당을 방문하세요 — 태국 해군 역사를 기리는 언덕 위 기념물로 파노라마 바다 전망과 무료 입장이며 일몰 촬영에 시간을 맞추면 좋습니다. 팍남춤폰 어항은 현지 생활의 심장으로 매일 생선 경매를 구경하고, 수변 레스토랑에서 놀랍도록 신선한 해산물을 먹고, 꼬따오 행 페리를 탈 수 있습니다. 맹그로브 터널을 카약으로 지나며 야생동물을 관찰하는 랍로 운하, 극적인 해안선 전망의 카오맛시 전망대, 왕자 사당 근처의 조용한 수영 해변 사플리 비치도 놓치지 마세요.",
+      "whereToStay": "춤폰은 모든 숙소 수준에서 훌륭한 가성비를 제공하며, 버짓 게스트하우스는 1박 $12-15부터, 중급 호텔은 $37-46입니다. 주요 숙박 지역은 해변 접근과 수상 스포츠를 위한 퉁와랜 비치 주변, 페리와 해산물 식사 근접성을 위한 팍남, 야시장과 교통 허브 근처의 므앙 중심 지구입니다. 버짓 여행자는 무료 와이파이와 동료 여행자를 만날 수 있는 사교적 분위기의 호스텔과 기본 게스트하우스가 있는 팍남 지역과 시내를 찾아보세요. 중급 옵션은 해변과 시내에 모여 있으며 에어컨 객실, 개인 욕실, 때로는 수영장 접근을 제공합니다. 나나비치 호텔 & 리조트($37+) 같은 고급 리조트 스타일 숙소도 해변 위치에 적절한 편의시설을 제공하지만, 춤폰의 매력은 메가 리조트가 없다는 점에 있습니다.",
+      "gettingAround": "춤폰은 컴팩트하고 도보가 가능한 도시로 다양한 교통 옵션이 있습니다. 툭툭이 시내 및 근처 해변 단거리의 주요 교통수단으로 1회 보통 50-100바트($1.50-3)입니다. 쏭태우(공유 빨간 밴)가 시내와 퉁와랜 비치 같은 주변 지역으로 고정 노선을 매우 저렴하게 운행합니다(20-40바트, $1.25 미만). 더 유연하게 오토바이 대여(하루 150-250바트/$4.50-7.50)가 널리 가능하지만, 태국 도로 환경에 익숙해야 합니다. 장거리 버스가 메인 버스 터미널에서 다른 도시로 출발하고, 기차가 춤폰과 방콕 및 다른 도시를 연결합니다. 그랩 앱도 점점 이용 가능합니다. 섬 접근을 위해 꼬따오 행 페리와 팍남 어항 출발 투어는 호텔이나 항구에서 직접 예약 가능합니다(꼬따오 페리 300-500바트/$9-15).",
+      "bestTimeToVisit": "춤폰의 최적 방문 시즌은 11월부터 2월로, 기온이 쾌적한 수준(24-28°C)으로 내려가고 습도가 떨어지며 강우가 최소입니다. 12월과 1월이 가장 편안한 날씨의 피크 달로 — 해변 활동, 스노클링, 수중 시야가 뛰어난 다이빙에 이상적입니다. 3-5월은 점점 더워지는 날씨(32-35°C)에 높은 습도로 야외 활동이 덜 편하지만 여전히 가능합니다. 6-10월은 남서 몬순 시즌으로 폭우, 거친 바다, 간헐적 섬 페리 운휴가 있어 — 해변 활동에 무관한 버짓 여행자나 관광객 없는 진정한 현지 경험을 원하는 이에게만 적합합니다. 다이빙과 수상 스포츠에는 11-4월이 가장 잔잔한 바다와 최고의 수중 시야를 제공합니다.",
+      "safetyTips": "춤폰은 관광객에게 일반적으로 매우 안전하며, 범죄율이 낮고 섬 페리를 이용하는 방문자에 익숙한 친절한 현지 주민이 있습니다. 기본 주의사항이 적용됩니다: 비싼 귀중품을 드러내지 말고, 혼잡한 시장과 쏭태우에서 소지품을 안전하게 보관하며, 태국 교통 패턴에 익숙하지 않다면 오토바이 대여에 주의하세요. 시내와 해변은 밤에도 안전하게 걸을 수 있지만, 어두운 외진 해변 지역은 피하세요. 소매치기는 드물지만 야시장과 버스 정류장 같은 혼잡 지역에서 가능합니다. 길에서 차량을 잡기보다 확립된 교통수단(공식 택시, 그랩, 호텔 배정 툭툭)을 이용하세요. 수상 안전이 중요합니다 — 조건이 모니터링되는 퉁와랜과 사이리 비치의 지정 해변 구역에서만 수영하세요. 다이빙 업체와 함께할 때는 안전 인증을 확인하고 장비 관리에 대해 문의하세요.",
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
