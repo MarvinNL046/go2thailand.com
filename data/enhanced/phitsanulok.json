@@ -4,14 +4,16 @@
   "name": {
     "en": "Phitsanulok",
     "nl": "Phitsanulok",
-    "ja": "ピッサヌローク"
+    "ja": "ピッサヌローク",
+    "ko": "핏사눌록"
   },
   "region": "Central",
   "province": "Phitsanulok",
   "description": {
     "en": "Gateway city between central and northern Thailand, home to one of the country's most revered Buddha images at Wat Phra Si Rattana Mahathat. A lively river city with rich cultural heritage and excellent local cuisine.",
     "nl": "Poortstad tussen centraal en Noord-Thailand, met een van de meest vereerde Boeddhabeelden van het land in Wat Phra Si Rattana Mahathat. Een levendige rivierstad met rijk cultureel erfgoed en uitstekende lokale keuken.",
-    "ja": "タイ中部と北部を結ぶ玄関口の街ピッサヌロークは、タイで最も美しい仏像の一つ「プラ・プッタ・チンナラート」を安置するワット・ヤイで有名です。"
+    "ja": "タイ中部と北部を結ぶ玄関口の街ピッサヌロークは、タイで最も美しい仏像の一つ「プラ・プッタ・チンナラート」を安置するワット・ヤイで有名です。",
+    "ko": "태국 중부와 북부를 연결하는 관문 도시로, 왓 프라시 랏따나 마하탓에 있는 태국에서 가장 존경받는 불상 중 하나가 있습니다. 풍부한 문화유산과 훌륭한 현지 음식을 지닌 활기찬 강변 도시입니다."
   },
   "population": 84000,
   "highlights": [
@@ -29,29 +31,34 @@
     "metaTitle": {
       "en": "Discover Phitsanulok | What to do in Phitsanulok?",
       "nl": "Ontdek Phitsanulok | Wat te doen in Phitsanulok?",
-      "ja": "ピッサヌロークを満喫 | ピッサヌロークの観光・見どころガイド"
+      "ja": "ピッサヌロークを満喫 | ピッサヌロークの観光・見どころガイド",
+      "ko": "핏사눌록 태국 — 역사 & 문화 여행 가이드 2026"
     },
     "metaDescription": {
       "en": "Your guide to Phitsanulok, Thailand – tips, highlights, food, hotels.",
       "nl": "Jouw gids voor Phitsanulok, Thailand – tips, highlights, eten, hotels.",
-      "ja": "タイ・ピッサヌロークの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。"
+      "ja": "タイ・ピッサヌロークの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。",
+      "ko": "핏사눌록(태국) 완벽 여행 가이드: 왓 야이, 수상시장, 푸힌롱끌라 국립공원. 가격, 팁, 가는 법."
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Phitsanulok",
       "nl": "Beste restaurants en streetfood in Phitsanulok",
-      "ja": "ピッサヌロークのおすすめレストラン＆ストリートフード"
+      "ja": "ピッサヌロークのおすすめレストラン＆ストリートフード",
+      "ko": "핏사눌록 추천 레스토랑과 길거리 음식"
     },
     "hotels": {
       "en": "Top hotels in Phitsanulok | Tips & deals",
       "nl": "Beste hotels in Phitsanulok | Tips & aanbiedingen",
-      "ja": "ピッサヌロークのおすすめホテル｜お得な情報＆アドバイス"
+      "ja": "ピッサヌロークのおすすめホテル｜お得な情報＆アドバイス",
+      "ko": "핏사눌록 추천 호텔 | 팁 & 특가"
     },
     "attractions": {
       "en": "Top attractions in Phitsanulok",
       "nl": "Top bezienswaardigheden in Phitsanulok",
-      "ja": "ピッサヌロークの人気観光スポット"
+      "ja": "ピッサヌロークの人気観光スポット",
+      "ko": "핏사눌록 인기 관광 명소"
     }
   },
   "tags": [
@@ -68,12 +75,14 @@
       "name": {
         "en": "Phitsanulok Floating Market (Talad Nam)",
         "nl": "Phitsanulok Drijvende Markt (Talad Nam)",
-        "ja": "ピッサヌローク水上マーケット（タラート・ナーム）"
+        "ja": "ピッサヌローク水上マーケット（タラート・ナーム）",
+        "ko": "핏사눌록 수상시장 (딸랏남)"
       },
       "description": {
         "en": "A small but authentic floating market on the Nan River where vendors sell food and goods from wooden boats. Less touristy than Bangkok's famous versions and much more genuine.",
         "nl": "Een kleine maar authentieke drijvende markt op de Nan-rivier waar verkopers eten en goederen verkopen vanuit houten boten. Minder toeristisch dan de beroemde versies van Bangkok en veel authentieker.",
-        "ja": "ナーン川沿いの小さいながらも本格的な水上マーケットで、船上の売り手が食べ物や土産物を販売しています。観光客が少ない素朴な雰囲気が魅力です。"
+        "ja": "ナーン川沿いの小さいながらも本格的な水上マーケットで、船上の売り手が食べ物や土産物を販売しています。観光客が少ない素朴な雰囲気が魅力です。",
+        "ko": "난강 위의 전통 수상시장으로, 보트에서 현지 음식과 간식을 판매합니다. 관광객보다 현지인이 많은 정통 시장입니다."
       },
       "type": "market"
     },
@@ -81,12 +90,14 @@
       "name": {
         "en": "Phu Hin Rong Kla National Park",
         "nl": "Phu Hin Rong Kla Nationaal Park",
-        "ja": "プーヒンロンクラー国立公園"
+        "ja": "プーヒンロンクラー国立公園",
+        "ko": "푸힌롱끌라 국립공원"
       },
       "description": {
         "en": "A highland national park 90 minutes from the city with surreal rock formations, cool climate, and the ruins of a former Communist Party headquarters. Spectacular in the cool season.",
         "nl": "Een hooglanden nationaal park 90 minuten van de stad met surrealistische rotsformaties, koel klimaat en de ruines van een voormalig communistisch partijhoofdkwartier. Spectaculair in het koele seizoen.",
-        "ja": "市内から車で約90分の高原にある国立公園で、幻想的な岩の造形、高原の草原、共産ゲリラの歴史的な拠点跡が見られます。涼しい気候も魅力です。"
+        "ja": "市内から車で約90分の高原にある国立公園で、幻想的な岩の造形、高原の草原、共産ゲリラの歴史的な拠点跡が見られます。涼しい気候も魅力です。",
+        "ko": "1970년대 공산당 게릴라 기지였던 역사적 장소로, 독특한 바위 지형과 폭포, 서늘한 기후가 매력적입니다."
       },
       "type": "nature"
     },
@@ -94,12 +105,14 @@
       "name": {
         "en": "Baan Khun Phra Foundry",
         "nl": "Baan Khun Phra Gieterij",
-        "ja": "バーン・クン・プラー鋳造所"
+        "ja": "バーン・クン・プラー鋳造所",
+        "ko": "반쿤프라 주조소"
       },
       "description": {
         "en": "A traditional bronze-casting workshop near Wat Yai where artisans still create Buddha images using ancient lost-wax techniques. Visitors can watch the fascinating centuries-old process.",
         "nl": "Een traditionele bronsgieterijwerkplaats bij Wat Yai waar ambachtslieden nog steeds Boeddhabeelden maken met oude verloren-was-technieken. Bezoekers kunnen het fascinerende eeuwenoude proces bekijken.",
-        "ja": "ワット・ヤイ近くの伝統的な青銅鋳造工房で、職人たちが古代の技法で仏像を制作する様子を見学できます。小さな仏像をお土産に購入することもできます。"
+        "ja": "ワット・ヤイ近くの伝統的な青銅鋳造工房で、職人たちが古代の技法で仏像を制作する様子を見学できます。小さな仏像をお土産に購入することもできます。",
+        "ko": "전통 불상 주조 기법을 볼 수 있는 공방으로, 핏사눌록의 불교 예술 전통을 체험할 수 있습니다."
       },
       "type": "experience"
     },
@@ -107,12 +120,14 @@
       "name": {
         "en": "Nan River Promenade Evening Walk",
         "nl": "Nan Rivier Promenade Avondwandeling",
-        "ja": "ナーン川プロムナード夕方散歩"
+        "ja": "ナーン川プロムナード夕方散歩",
+        "ko": "난강변 저녁 산책로"
       },
       "description": {
         "en": "The tree-lined riverside walkway between Naresuan Bridge and Ekathotsarot Bridge comes alive at dusk with joggers, food carts, and families. The temple reflections on the water are magical.",
         "nl": "De met bomen omzoomde wandelpad langs de rivier tussen Naresuan Brug en Ekathotsarot Brug komt tot leven bij schemering met joggers, voedskarren en families. De tempelreflecties op het water zijn magisch.",
-        "ja": "ナレースワン橋とエカトッサロット橋の間の並木道のリバーサイド遊歩道で、夕方になると屋台や地元の人々で賑わいます。川風を感じながらの散歩に最適です。"
+        "ja": "ナレースワン橋とエカトッサロット橋の間の並木道のリバーサイド遊歩道で、夕方になると屋台や地元の人々で賑わいます。川風を感じながらの散歩に最適です。",
+        "ko": "난강을 따라 조성된 산책로로, 해질녘 현지인들과 함께 여유로운 산책을 즐기기에 완벽합니다."
       },
       "type": "experience"
     },
@@ -120,12 +135,14 @@
       "name": {
         "en": "Wat Nang Phaya",
         "nl": "Wat Nang Phaya",
-        "ja": "ワット・ナーン・パヤー"
+        "ja": "ワット・ナーン・パヤー",
+        "ko": "왓 낭파야"
       },
       "description": {
         "en": "A beautiful Ayutthaya-period temple just south of Wat Yai, known for its unique stucco decorations and far fewer visitors. Its fine plasterwork is considered among the best from the period.",
         "nl": "Een prachtige tempel uit de Ayutthaya-periode net ten zuiden van Wat Yai, bekend om de unieke stucdecoraties en veel minder bezoekers. Het fijne pleisterwerk wordt beschouwd als een van de beste uit die periode.",
-        "ja": "ワット・ヤイのすぐ南にあるアユタヤ時代の美しい寺院で、独特の漆喰装飾と護符で知られています。静かに参拝できる穴場の寺院です。"
+        "ja": "ワット・ヤイのすぐ南にあるアユタヤ時代の美しい寺院で、独特の漆喰装飾と護符で知られています。静かに参拝できる穴場の寺院です。",
+        "ko": "아유타야 시대의 역사적 사원으로, 정교한 벽화와 고요한 분위기가 인상적인 숨겨진 명소입니다."
       },
       "type": "temple"
     }
@@ -722,6 +739,40 @@
       "bestTimeToVisit": "Идеальное время для посещения Пхитсанулока — с ноября по февраль, когда стоит прохладная сухая погода с температурой 15–28°C. Декабрь и январь особенно приятны с минимумом осадков и комфортными условиями для посещения храмов и активного отдыха. С марта по май жарко и сухо с температурой выше 35°C — терпимо, но менее комфортно для экскурсий. Юго-западный муссон (май–октябрь) приносит обильные дожди, особенно в июле–сентябре, что может вызывать небольшие наводнения и затруднять посещение национальных парков. Однако сезон дождей дарит пышную зелень и меньше туристов. Избегайте октября, когда риск наводнений в регионе максимален. В Пхитсанулоке проходят различные местные фестивали по буддийскому календарю, особенно во время Сонгкрана (апрель) и Лой Кратхонга (ноябрь), когда на берегу реки разворачиваются культурные празднования.",
       "safetyTips": "Пхитсанулок в целом безопасный город для туристов с высоким индексом безопасности 80–85 и минимальной насильственной преступностью. Однако мелкие кражи возможны на оживлённых рынках и ночных базарах — храните ценные вещи в безопасности и не демонстрируйте дорогие предметы. В сезон дождей (май–октябрь) помните о риске лихорадки денге — используйте репеллент с DEET и носите длинные рукава на рассвете и закате, когда комары наиболее активны. Небольшие наводнения могут затрагивать низинные участки при сильных дождях в сентябре–октябре; проверяйте местные условия перед посещением прибрежных районов. Водопроводную воду обычно не рекомендуют для питья; бутилированная вода широко доступна по всему городу. Соблюдайте храмовые обычаи: одевайтесь скромно (закрывайте плечи и колени), снимайте обувь при входе в священные помещения и никогда не проявляйте неуважение к статуям Будды. Избегайте ношения крупных сумм наличных; банкоматы широко представлены в центре города.",
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "핏사눌록은 태국 중부와 북부를 연결하는 전략적 위치의 활기찬 도시입니다. 방콕에서 북쪽으로 약 370km, 치앙마이에서 남쪽으로 약 300km 거리에 있어 태국 종단 여행의 중간 거점으로 이상적입니다.\n\n왓 프라시 랏따나 마하탓(왓 야이)은 핏사눌록의 핵심 명소로, '프라 풋타 친나랏'이라 불리는 태국에서 가장 아름다운 불상을 모시고 있습니다. 수코타이 시대에 제작된 이 불상은 태국 전역에서 참배자들이 찾아올 정도로 신성시됩니다.\n\n난강은 도시를 가로질러 흐르며, 강변을 따라 수상가옥 레스토랑에서 현지 음식을 즐길 수 있습니다. 핏사눌록의 명물인 '쁠라라드프릭'(튀긴 생선에 칠리 소스)은 반드시 맛봐야 할 현지 요리입니다. 푸힌롱끌라 국립공원은 역사와 자연이 어우러진 독특한 명소로, 당일치기 여행에 추천합니다.",
+      "hidden_gems": [
+        {
+          "name": "핏사눌록 수상시장",
+          "description": "난강 위의 정통 수상시장으로, 보트에서 현지 음식을 판매합니다."
+        },
+        {
+          "name": "푸힌롱끌라 국립공원",
+          "description": "역사적 게릴라 기지였던 곳으로, 독특한 바위 지형과 서늘한 기후가 매력적입니다."
+        },
+        {
+          "name": "반쿤프라 주조소",
+          "description": "전통 불상 주조 기법을 볼 수 있는 공방입니다."
+        },
+        {
+          "name": "난강변 저녁 산책로",
+          "description": "해질녘 여유로운 산책을 즐기기에 완벽한 강변 산책로입니다."
+        },
+        {
+          "name": "왓 낭파야",
+          "description": "아유타야 시대의 역사적 사원으로, 정교한 벽화가 인상적입니다."
+        }
+      ],
+      "authentic_experiences": [],
+      "foodie_adventures": [],
+      "overview": "핏사눌록은 태국 중부와 북부를 연결하는 활기찬 관문 도시로, 태국에서 가장 아름다운 불상이 있는 왓 야이, 수상시장, 푸힌롱끌라 국립공원이 주요 볼거리입니다.",
+      "thingsToDo": "왓 프라시 랏따나 마하탓(왓 야이)은 무료 입장이며, 태국에서 가장 아름다운 불상 '프라 풋타 친나랏'을 모시고 있습니다. 수상시장에서 보트 위의 현지 음식을 즐기고, 푸힌롱끌라 국립공원에서 트레킹을 하세요. 반쿤프라 주조소에서 불상 제작 과정도 볼 수 있습니다.",
+      "whereToStay": "핏사눌록은 모든 예산에 맞는 숙소를 제공하며, 대부분 시내 중심과 기차역 근처에 위치합니다. 난강변의 게스트하우스가 분위기 있습니다.",
+      "gettingAround": "핏사눌록은 컴팩트한 도시로, 툭툭이 가장 일반적인 교통수단입니다. 시내 중심은 도보로도 충분하며, 외곽 명소는 오토바이 대여가 편리합니다.",
+      "bestTimeToVisit": "핏사눌록의 최적 방문 시기는 11월부터 2월까지로, 서늘하고 건조한 날씨가 이어집니다. 3-5월은 매우 덥습니다(40°C 이상).",
+      "safetyTips": "핏사눌록은 매우 안전한 도시입니다. 사원 방문 시 적절한 복장을 갖추고, 푸힌롱끌라 국립공원 트레킹 시 충분한 물과 간식을 준비하세요.",
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
