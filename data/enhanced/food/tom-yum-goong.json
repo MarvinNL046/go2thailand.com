@@ -5,7 +5,7 @@
     "en": "Tom Yum Goong",
     "nl": "Tom Yum Goong",
     "thai": "ต้มยำกุ้ง",
-    "ja": "トムヤムクン"
+    "ko": "똠얌꿍"
   },
   "category": "soup",
   "region": "central",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Spicy and sour Thai soup with shrimp lemongrass and lime leaves",
     "nl": "Pittige en zure Thaise soep met garnalen citroengras en limoenbladeren",
-    "ja": "エビ、レモングラス、こぶみかんの葉を使ったスパイシー酸っぱいタイスープ"
+    "ko": "새우, 레몬그라스, 카피르 라임잎을 넣은 매콤새콤한 태국 대표 수프"
   },
   "ingredients": [
     "shrimp",
@@ -36,12 +36,12 @@
     "metaTitle": {
       "en": "Tom Yum Goong Recipe | Authentic Thai soup",
       "nl": "Tom Yum Goong Recept | Authentieke Thaise soup",
-      "ja": "トムヤムクンのレシピ | 本格タイスープ"
+      "ko": "똠얌꿍 레시피 | 태국 국민 수프 새우 매콤새콤탕"
     },
     "metaDescription": {
       "en": "Learn about Tom Yum Goong (ต้มยำกุ้ง) - Spicy and sour Thai soup with shrimp lemongrass and lime leaves...",
       "nl": "Leer over Tom Yum Goong (ต้มยำกุ้ง) - Pittige en zure Thaise soep met garnalen citroengras en limoenbladeren...",
-      "ja": "トムヤムクン（ต้มยำกุ้ง）について — エビを使ったスパイシーで酸っぱいタイの代表的スープ。"
+      "ko": "똠얌꿍(ต้มยำกุ้ง) - 레몬그라스, 갈랑갈, 카피르 라임잎의 향과 새우의 감칠맛이 어우러진 태국 대표 수프. 1997년 금융위기 별명이 될 만큼 태국 문화에 깊이 뿌리내린 요리의 레시피와 맛집 정보."
     }
   },
   "tags": [
@@ -641,6 +641,106 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "똠얌꿍은 태국을 한 그릇에 담은 요리입니다 — 균형 잡힌 극단의 태국 음식 철학을 구현하는 강렬하고 향기로운 수프입니다. 이 매콤새콤 새우 수프는 맛의 층을 쌓는 마스터클래스입니다: 레몬그라스의 시트러스 펀치, 갈랑갈의 꽃향, 고추의 화끈한 열기가 모두 위로와 활력을 동시에 주는 국물 속에서 헤엄칩니다. 약이 되고, 마법이 되며, 절대 다른 것과 혼동할 수 없는 맛입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "레몬그라스 (따크라이)",
+          "purpose": "똠얌의 시그니처 시트러스 향과 항균 효과를 제공하는 핵심 허브",
+          "substitutes": [
+            "레몬 제스트 (같은 맛은 안 남)",
+            "레몬그라스 페이스트"
+          ]
+        },
+        {
+          "name": "갈랑갈 (카)",
+          "purpose": "생강과는 다른 날카롭고 후추 같은 향을 더하는 뿌리 향신료",
+          "substitutes": [
+            "생강 (맛이 다름)",
+            "냉동 갈랑갈"
+          ]
+        },
+        {
+          "name": "카피르 라임잎 (바이마크룻)",
+          "purpose": "꽃향 나는 시트러스 노트와 방향유를 제공하는 허브",
+          "substitutes": [
+            "라임 제스트",
+            "월계수잎 + 라임즙"
+          ]
+        },
+        {
+          "name": "남프릭파오 (고추기름)",
+          "purpose": "맑은 국물에 깊이, 색깔, 감칠맛을 더하는 양념",
+          "substitutes": [
+            "고추장",
+            "삼발올렉 + 설탕"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "향 우려내기와 빠른 조리",
+        "steps_overview": "똠얌은 맛의 층을 쌓는 것이 핵심입니다. 향신료를 두들겨 향을 우려내고, 단백질은 빠르게 익히며, 마지막 양념은 불에서 내린 후 넣습니다. 허브를 너무 오래 끓이면 쓴맛이 나므로 주의해야 합니다.",
+        "cooking_tips": [
+          "레몬그라스와 갈랑갈을 두들겨서 향유를 방출시키세요",
+          "허브를 너무 오래 끓이지 마세요 — 우려낸 후 건져내세요",
+          "라임즙은 불에서 내린 후 넣어야 비타민 C가 보존됩니다",
+          "새우는 껍질째 넣으면 국물 맛이 훨씬 깊어집니다",
+          "국물이 살짝 기침이 나올 정도면 완벽한 매운맛입니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "새우가 풍부한 짜오프라야강 유역의 중부 태국에서 유래했습니다. 질병을 물리치기 위해 만들어진 고대 태국 약선 국물에서 발전한 요리로, 수백 년의 역사를 가지고 있습니다.",
+        "cultural_importance": "똠얌은 태국의 '치킨수프'입니다 — 아플 때, 슬플 때, 축하할 때 먹습니다. 1997년 아시아 금융위기 때 '똠얌꿍 위기(Tom Yum Goong Crisis)'라는 별명이 붙을 정도로 태국 문화에 깊이 뿌리내린 요리입니다. 2023년 유네스코 무형문화유산에 등재되었습니다.",
+        "traditional_occasions": [
+          "감기와 독감 치료제",
+          "숙취 해소 음식",
+          "손님 환영 요리",
+          "우기(몬순) 보양식"
+        ]
+      },
+      "variations": [
+        {
+          "name": "똠얌 남콘 (크리미 버전)",
+          "description": "연유를 넣어 뿌옇고 크리미한 맛을 내는 현대 방콕 스타일 — 가장 인기 있는 버전입니다."
+        },
+        {
+          "name": "똠얌 남사이 (맑은 국물)",
+          "description": "맑은 국물의 원조 스타일 — 순수주의자의 선택으로, 허브 향이 더 선명합니다."
+        },
+        {
+          "name": "똠얌 탈레 (해물 모듬)",
+          "description": "새우 외에 오징어, 홍합, 생선 등을 넣은 해안 지역 인기 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "재스민 쌀밥",
+          "신선한 채소",
+          "피시소스 (추가 간용)",
+          "고추 (매운맛 조절용)"
+        ],
+        "presentation": "뚝배기나 깊은 그릇에 뜨겁게 담아 제공합니다",
+        "eating_etiquette": "숟가락으로 국물을 떠서 밥과 함께 먹습니다. 레몬그라스, 갈랑갈, 라임잎은 향을 내는 재료이므로 먹지 않고 옆으로 치워둡니다."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "삐아오 (Pe Aor, 방콕) — 똠얌 누들로 유명한 미슐랭 빕 구르망",
+          "삐아오 (Pee Aor, 방콕) — 다른 가게지만 똑같이 유명",
+          "짜오프라야강 주변 아무 리버사이드 레스토랑"
+        ],
+        "street_food_areas": [
+          "짜뚜짝 주말 시장",
+          "왕랑 시장 (씨리랏 병원 근처)",
+          "차이나타운 (야오와랏) 저녁 노점"
+        ],
+        "price_ranges": {
+          "street_food": "60-100 THB",
+          "restaurant": "150-300 THB",
+          "upscale": "400-800 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
