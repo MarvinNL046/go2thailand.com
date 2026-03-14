@@ -5,7 +5,8 @@
     "en": "Bangkok",
     "nl": "Bangkok",
     "ja": "バンコク",
-    "ko": "방콕"
+    "ko": "방콕",
+    "th": "กรุงเทพฯ"
   },
   "region": "Central",
   "province": "Bangkok",
@@ -13,7 +14,8 @@
     "en": "The bustling capital of Thailand, famous for street food, nightlife, temples, and markets.",
     "nl": "De bruisende hoofdstad van Thailand, beroemd om streetfood, uitgaansleven, tempels en markten.",
     "ja": "タイの賑やかな首都。ストリートフード、ナイトライフ、寺院、ショッピングで有名。",
-    "ko": "활기 넘치는 태국의 수도, 길거리 음식, 야경, 사원, 시장으로 유명."
+    "ko": "활기 넘치는 태국의 수도, 길거리 음식, 야경, 사원, 시장으로 유명.",
+    "th": "เมืองหลวงอันคึกคักของประเทศไทย มีชื่อเสียงด้านอาหารริมทาง ไลฟ์สไตล์ยามค่ำคืน วัดวาอาราม และตลาด"
   },
   "population": 10539000,
   "highlights": [
@@ -32,13 +34,15 @@
       "en": "Discover Bangkok | What to do in Bangkok?",
       "nl": "Ontdek Bangkok | Wat te doen in Bangkok?",
       "ja": "バンコク タイ — 完全観光ガイド 2026",
-      "ko": "방콕 태국 — 여행 가이드 2026"
+      "ko": "방콕 태국 — 여행 가이드 2026",
+      "th": "กรุงเทพฯ ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026"
     },
     "metaDescription": {
       "en": "Your guide to Bangkok, Thailand – tips, highlights, food, hotels.",
       "nl": "Jouw gids voor Bangkok, Thailand – tips, highlights, eten, hotels.",
       "ja": "バンコク（タイ）旅行ガイド — おすすめスポット、グルメ、ホテル情報。2026年更新。",
-      "ko": "태국 방콕 여행 가이드 — 팁, 하이라이트, 맛집, 호텔 정보."
+      "ko": "태국 방콕 여행 가이드 — 팁, 하이라이트, 맛집, 호텔 정보.",
+      "th": "คู่มือท่องเที่ยวกรุงเทพฯ ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026"
     }
   },
   "categories": {
@@ -46,19 +50,22 @@
       "en": "Best restaurants and street food in Bangkok",
       "nl": "Beste restaurants en streetfood in Bangkok",
       "ja": "バンコクのおすすめレストランとストリートフード",
-      "ko": "방콕 추천 레스토랑과 길거리 음식"
+      "ko": "방콕 추천 레스토랑과 길거리 음식",
+      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในกรุงเทพฯ"
     },
     "hotels": {
       "en": "Top hotels in Bangkok | Tips & deals",
       "nl": "Beste hotels in Bangkok | Tips & aanbiedingen",
       "ja": "バンコクのおすすめホテル | ヒント＆お得情報",
-      "ko": "방콕 추천 호텔 | 팁 & 특가"
+      "ko": "방콕 추천 호텔 | 팁 & 특가",
+      "th": "โรงแรมแนะนำในกรุงเทพฯ | เคล็ดลับและดีล"
     },
     "attractions": {
       "en": "Top attractions in Bangkok",
       "nl": "Top bezienswaardigheden in Bangkok",
       "ja": "バンコクの人気観光スポット",
-      "ko": "방콕 인기 관광 명소"
+      "ko": "방콕 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในกรุงเทพฯ"
     }
   },
   "tags": [
