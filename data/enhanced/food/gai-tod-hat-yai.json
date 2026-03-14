@@ -5,7 +5,7 @@
     "en": "Gai Tod Hat Yai",
     "nl": "Gai Tod Hat Yai",
     "thai": "ไก่ทอดหาดใหญ่",
-    "ja": "ガイトート・ハートヤイ"
+    "ko": "가이똣 핫야이"
   },
   "category": "main-dish",
   "region": "southern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Hat Yai style fried chicken with crispy shallots",
     "nl": "Hat Yai stijl gefrituurde kip met krokante sjalotten",
-    "ja": "ハートヤイ名物のカリカリに揚げたフライドチキン、フライドシャロットを添えて"
+    "ko": "바삭한 샬롯을 곁들인 핫야이 스타일 프라이드 치킨"
   },
   "ingredients": [
     "chicken",
@@ -33,12 +33,12 @@
     "metaTitle": {
       "en": "Gai Tod Hat Yai Recipe | Authentic Thai main dish",
       "nl": "Gai Tod Hat Yai Recept | Authentieke Thaise main dish",
-      "ja": "ガイトート・ハートヤイのレシピ | 本格タイ料理"
+      "ko": "가이똣 핫야이 레시피 | 정통 태국 남부 프라이드 치킨"
     },
     "metaDescription": {
       "en": "Learn about Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai style fried chicken with crispy shallots...",
       "nl": "Leer over Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai stijl gefrituurde kip met krokante sjalotten...",
-      "ja": "ガイトート・ハートヤイ（ไก่ทอดหาดใหญ่）について — ハートヤイ名物のカリカリフライドチキン。フライドシャロット添え。"
+      "ko": "가이똣 핫야이(ไก่ทอดหาดใหญ่) - 바삭한 샬롯을 곁들인 핫야이 스타일 프라이드 치킨. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -663,6 +663,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "가이똣 핫야이는 태국 남부 핫야이 지역의 명물 프라이드 치킨으로, 바삭하게 튀긴 샬롯을 곁들여 먹는 것이 특징입니다. 약 40분의 조리 시간이 필요하며, 남부 태국 요리의 정통 맛을 담고 있습니다. 닭고기를 마늘, 백후추, 액젓으로 양념한 후 쌀가루를 입혀 바삭하게 튀깁니다. 위에 올린 바삭한 프라이드 샬롯이 독특한 풍미와 식감을 더해줍니다. 현지인과 관광객 모두에게 사랑받는 합리적인 가격의 정통 태국 요리입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "닭고기 (닭다리 또는 닭날개)",
+          "purpose": "프라이드 치킨의 주재료로, 뼈가 있는 부위가 풍미가 좋습니다",
+          "substitutes": [
+            "닭다리살",
+            "닭가슴살",
+            "닭날개"
+          ]
+        },
+        {
+          "name": "샬롯 (작은 양파)",
+          "purpose": "바삭하게 튀겨 토핑으로 올리는 핵심 재료",
+          "substitutes": [
+            "적양파 (얇게 썬 것)",
+            "일반 양파",
+            "프라이드 어니언"
+          ]
+        },
+        {
+          "name": "마늘",
+          "purpose": "양념에 깊은 풍미를 더하는 필수 재료",
+          "substitutes": [
+            "다진 마늘",
+            "마늘 가루",
+            "마늘 페이스트"
+          ]
+        },
+        {
+          "name": "백후추",
+          "purpose": "은은하고 따뜻한 매콤함을 더하는 핵심 향신료",
+          "substitutes": [
+            "백후추 가루",
+            "백후추 통알",
+            "흑후추 (대체용)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "딥 프라이 (튀김)",
+        "steps_overview": "가이똣 핫야이를 만들려면 먼저 닭고기를 마늘, 백후추, 액젓, 간장으로 최소 30분 이상 재워둡니다. 쌀가루를 입혀 180도 기름에 황금빛이 될 때까지 바삭하게 튀깁니다. 별도로 샬롯을 얇게 썰어 황금빛이 될 때까지 튀긴 후, 치킨 위에 듬뿍 올려 완성합니다.",
+        "cooking_tips": [
+          "닭고기는 최소 30분 이상 재워야 맛이 배어듭니다",
+          "기름 온도를 180도로 유지하면 바삭하게 튀겨집니다",
+          "샬롯은 타기 쉬우니 중불에서 천천히 튀기세요",
+          "두 번 튀기면 더 바삭한 식감을 얻을 수 있습니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "가이똣 핫야이는 태국 남부 핫야이 시에서 유래한 요리로, 이 지역의 중국계 태국인 커뮤니티의 영향을 받았습니다. 핫야이는 말레이시아 국경 근처의 상업 도시로, 다양한 문화가 교차하는 음식 문화의 허브입니다.",
+        "cultural_importance": "이 프라이드 치킨은 핫야이의 상징적인 음식으로, 기차역과 버스터미널 주변에서 여행객들을 위한 포장 음식으로도 유명합니다. 태국 전역에서 '핫야이 치킨'이라는 이름으로 사랑받고 있습니다.",
+        "traditional_occasions": [
+          "간식",
+          "여행 도시락",
+          "가족 모임",
+          "야시장 먹거리"
+        ]
+      },
+      "variations": [
+        {
+          "name": "가이똣 핫야이 전통식",
+          "description": "뼈가 있는 닭다리를 통째로 튀긴 가장 전통적인 버전입니다."
+        },
+        {
+          "name": "가이똣 핫야이 순살",
+          "description": "뼈를 제거한 순살 닭고기를 사용한 현대적 변형입니다."
+        },
+        {
+          "name": "채식 가이똣 핫야이",
+          "description": "두부나 버섯을 사용한 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "재스민 쌀밥",
+          "찹쌀밥",
+          "스위트 칠리소스"
+        ],
+        "presentation": "접시에 담아 바삭한 프라이드 샬롯을 듬뿍 올려 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 밥과 함께 먹거나, 손으로 들고 먹기도 합니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "핫야이 현지 식당",
+          "남부 태국 레스토랑",
+          "전통 시장",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "야시장",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
