@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-14",
   "stats": {
     "total": 1504,
-    "completed": 1214
+    "completed": 1215
   },
   "queue": [
     {
@@ -9728,14 +9728,15 @@
       "type": "top10",
       "file": "data/top10/sukhothai-hotels.json",
       "locale": "ko",
-      "status": "in_progress",
-      "priority": 15
+      "status": "completed",
+      "priority": 15,
+      "completedAt": "2026-03-14"
     },
     {
       "type": "top10",
       "file": "data/top10/sukhothai-restaurants.json",
       "locale": "ko",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 15
     },
     {
