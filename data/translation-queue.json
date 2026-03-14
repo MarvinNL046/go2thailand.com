@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-14",
   "stats": {
     "total": 1504,
-    "completed": 1315
+    "completed": 1316
   },
   "queue": [
     {
@@ -10536,14 +10536,15 @@
       "type": "food",
       "file": "data/enhanced/food/yam-woon-sen.json",
       "locale": "ko",
-      "status": "in_progress",
-      "priority": 15
+      "status": "completed",
+      "priority": 15,
+      "completedAt": "2026-03-14"
     },
     {
       "type": "region",
       "file": "data/regions/northern.json",
       "locale": "th",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 16
     },
     {
