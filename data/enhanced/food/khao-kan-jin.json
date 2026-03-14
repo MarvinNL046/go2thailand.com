@@ -5,7 +5,7 @@
     "en": "Khao Kan Jin",
     "nl": "Khao Kan Jin",
     "thai": "ข้าวกั้นจิ๊น",
-    "ja": "カオカンジン"
+    "ko": "카오깐진"
   },
   "category": "main-dish",
   "region": "northern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Steamed rice with pork blood in banana leaf",
     "nl": "Gestoomde rijst met varkensbloed in bananenblad",
-    "ja": "豚の血と香辛料を混ぜた蒸しもち米、北タイの伝統的な朝食"
+    "ko": "바나나잎에 싸서 찐 돼지피 밥"
   },
   "ingredients": [
     "rice",
@@ -33,12 +33,12 @@
     "metaTitle": {
       "en": "Khao Kan Jin Recipe | Authentic Thai main dish",
       "nl": "Khao Kan Jin Recept | Authentieke Thaise main dish",
-      "ja": "カオカンジンのレシピ | 本格タイ料理"
+      "ko": "카오깐진 레시피 | 정통 태국 북부 바나나잎 돼지피 밥"
     },
     "metaDescription": {
       "en": "Learn about Khao Kan Jin (ข้าวกั้นจิ๊น) - Steamed rice with pork blood in banana leaf...",
       "nl": "Leer over Khao Kan Jin (ข้าวกั้นจิ๊น) - Gestoomde rijst met varkensbloed in bananenblad...",
-      "ja": "カオカンジン（ข้าวกั้นจิ้น）について — 豚の血と香辛料を混ぜた蒸しもち米。北タイの伝統的な朝食料理。"
+      "ko": "카오깐진(ข้าวกั้นจิ๊น) - 바나나잎에 싸서 찐 돼지피 밥. 태국 북부 전통 요리의 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -663,6 +663,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "카오깐진은 태국 북부의 독특한 전통 요리로, 쌀밥에 돼지피, 마늘, 샬롯, 레몬그라스를 섞어 바나나잎에 싸서 찐 음식입니다. 약 60분이 소요되는 정성이 필요한 레시피이지만, 북부 태국 요리의 부드럽고 향긋한 특색을 잘 보여줍니다. 돼지피가 밥에 풍부한 감칠맛과 독특한 붉은 색을 더하고, 마늘과 샬롯이 깊은 풍미를 만들어냅니다. 바나나잎의 은은한 향이 전체적인 맛을 완성하는 북부 태국의 소울 푸드입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "찹쌀 또는 멥쌀",
+          "purpose": "요리의 베이스가 되는 주재료로, 돼지피와 섞여 독특한 식감을 만듭니다",
+          "substitutes": [
+            "찹쌀",
+            "재스민 쌀",
+            "일반 백미"
+          ]
+        },
+        {
+          "name": "돼지피",
+          "purpose": "밥에 감칠맛과 독특한 붉은 색을 더하는 핵심 재료",
+          "substitutes": [
+            "신선한 돼지피",
+            "응고된 돼지피",
+            "닭피 (대체용)"
+          ]
+        },
+        {
+          "name": "마늘",
+          "purpose": "깊은 풍미와 향을 더하는 기본 향신료",
+          "substitutes": [
+            "신선한 마늘",
+            "구운 마늘",
+            "마늘 페이스트"
+          ]
+        },
+        {
+          "name": "샬롯",
+          "purpose": "은은한 단맛과 향을 더하는 향신 재료",
+          "substitutes": [
+            "신선한 샬롯",
+            "적양파",
+            "쪽파 (대체용)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "바나나잎 찜 (증기 조리)",
+        "steps_overview": "카오깐진을 만들려면 먼저 돼지피를 잘게 썰거나 으깨고, 마늘, 샬롯, 레몬그라스를 다져 준비합니다. 밥에 돼지피와 향신료를 골고루 섞고 소금으로 간을 합니다. 바나나잎을 적당한 크기로 잘라 밥을 올리고 단단히 싸서 찜통에 넣어 쪄냅니다. 바나나잎이 밥에 은은한 향을 더해줍니다.",
+        "cooking_tips": [
+          "돼지피는 신선한 것을 사용해야 맛과 색이 좋습니다",
+          "바나나잎은 살짝 불에 쬐면 접기 쉬워집니다",
+          "밥과 돼지피의 비율을 잘 맞춰야 맛의 균형이 좋습니다",
+          "충분히 찌지 않으면 밥이 풀어지므로 시간을 지켜주세요"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "카오깐진은 태국 북부 란나 왕국의 전통 음식으로, 수세대에 걸쳐 이 지역의 가정에서 만들어져 왔습니다. 돼지피를 활용한 이 요리는 북부 태국의 검소하면서도 창의적인 음식 문화를 보여줍니다.",
+        "cultural_importance": "이 요리는 북부 태국의 전통 시장과 아침 식사 문화의 핵심입니다. 바나나잎에 싸서 휴대하기 간편하기 때문에 시장에서 사서 먹는 간편식으로 인기가 높으며, 북부 태국인들의 일상적인 아침 식사이기도 합니다.",
+        "traditional_occasions": [
+          "아침 시장 간식",
+          "가족 모임",
+          "사원 축제",
+          "일상 식사"
+        ]
+      },
+      "variations": [
+        {
+          "name": "카오깐진 전통식",
+          "description": "돼지피와 기본 향신료로 만든 가장 전통적인 버전입니다."
+        },
+        {
+          "name": "카오깐진 허브식",
+          "description": "레몬그라스와 갈랑갈을 넉넉히 넣어 향이 더 풍부한 버전입니다."
+        },
+        {
+          "name": "채식 카오깐진",
+          "description": "돼지피 대신 비트 주스로 색을 내고 버섯으로 감칠맛을 더한 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "신선한 채소",
+          "절임 채소",
+          "고추"
+        ],
+        "presentation": "바나나잎을 펼쳐 전통 북부 태국 스타일로 제공합니다",
+        "eating_etiquette": "북부 태국 관습에 따라 손으로 떼어 먹거나 포크와 숟가락으로 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 북부 태국 레스토랑",
+          "전통 아침 시장",
+          "란나 전통 식당",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "아침 시장",
+          "야시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "10-20 THB",
+          "market_stall": "15-30 THB",
+          "restaurant": "30-50 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
