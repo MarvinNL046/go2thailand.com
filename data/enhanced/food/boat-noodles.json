@@ -5,7 +5,7 @@
     "en": "Boat Noodles",
     "nl": "Boot Noedels",
     "thai": "ก๋วยเตี๋ยวเรือ",
-    "ja": "ボートヌードル"
+    "ko": "보트 누들"
   },
   "category": "soup",
   "region": "central",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Rich pork or beef noodle soup traditionally served in small portions",
     "nl": "Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties",
-    "ja": "豚肉や牛肉の濃厚なスープに麺を入れた伝統的な一品で、小さなお椀で提供されるのが特徴です"
+    "ko": "전통적으로 작은 그릇에 제공되는 진한 돼지고기 또는 소고기 국수 수프"
   },
   "ingredients": [
     "rice noodles",
@@ -33,12 +33,12 @@
     "metaTitle": {
       "en": "Boat Noodles Recipe | Authentic Thai soup",
       "nl": "Boot Noedels Recept | Authentieke Thaise soup",
-      "ja": "ボートヌードルのレシピ | 本格タイスープ"
+      "ko": "보트 누들 레시피 | 정통 태국 국수 수프"
     },
     "metaDescription": {
       "en": "Learn about Boat Noodles (ก๋วยเตี๋ยวเรือ) - Rich pork or beef noodle soup traditionally served in small portions...",
       "nl": "Leer over Boot Noedels (ก๋วยเตี๋ยวเรือ) - Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties...",
-      "ja": "ボートヌードル（ก๋วยเตี๋ยวเรือ）について — 豚肉や牛肉の濃厚なスープに麺を入れた伝統的なタイ料理。小さなお椀で提供されるのが特徴です。"
+      "ko": "보트 누들(ก๋วยเตี๋ยวเรือ)에 대해 알아보세요 - 전통적으로 작은 그릇에 제공되는 진한 돼지고기 또는 소고기 국수 수프..."
     }
   },
   "tags": [
@@ -663,6 +663,102 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "보트 누들은 태국 중부에서 유래한 사랑받는 영혼을 따뜻하게 하는 수프로, 적당한 매운맛이 특징입니다. 전통적으로 작은 그릇에 제공되는 진한 돼지고기 또는 소고기 국수 수프입니다. 이 중급 난이도 레시피는 약 30분이 소요됩니다. 원래 운하를 떠다니는 배에서 판매되었기에 이 이름이 붙었으며, 지금도 방콕의 전통 시장에서 한 그릇에 10-15바트라는 저렴한 가격에 즐길 수 있습니다. 여러 그릇을 주문해 맛보는 것이 전통적인 먹는 방법입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "쌀국수",
+          "purpose": "정통 보트 누들 맛의 핵심 재료",
+          "substitutes": [
+            "생 쌀국수",
+            "건조 쌀국수"
+          ]
+        },
+        {
+          "name": "돼지고기 또는 소고기",
+          "purpose": "정통 보트 누들 맛의 핵심 재료",
+          "substitutes": [
+            "생 돼지고기",
+            "소고기 볼"
+          ]
+        },
+        {
+          "name": "진간장",
+          "purpose": "깊은 색과 풍미 부여",
+          "substitutes": [
+            "일반 간장",
+            "타마리"
+          ]
+        },
+        {
+          "name": "오향분",
+          "purpose": "독특한 향신료 풍미 부여",
+          "substitutes": [
+            "계피와 팔각 조합"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "끓이기와 맛 층 쌓기",
+        "steps_overview": "보트 누들 준비에는 세심한 주의와 적절한 타이밍이 필요합니다. 핵심은 각 재료의 식감을 유지하면서 모든 맛의 균형을 맞추는 것입니다. 세대를 거쳐 전해진 전통 방법이 정통 맛을 보장합니다.",
+        "cooking_tips": [
+          "최고의 결과를 위해 생 쌀국수를 사용하세요",
+          "취향에 맞게 매운 정도를 조절하세요",
+          "국물은 천천히 오래 끓여야 깊은 맛이 납니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "보트 누들은 세대에 걸쳐 태국 중부 요리의 주요 음식으로, 이 지역의 독특한 요리 전통과 현지 재료를 반영합니다.",
+        "cultural_importance": "이 요리는 태국 중부 요리의 핵심을 대표하며, 태국 요리가 세계적으로 유명한 균형과 조화를 보여줍니다.",
+        "traditional_occasions": [
+          "가족 모임",
+          "현지 축제",
+          "일상 식사"
+        ]
+      },
+      "variations": [
+        {
+          "name": "보트 누들 클래식",
+          "description": "현지 가정에서 제공되는 전통 버전"
+        },
+        {
+          "name": "보트 누들 모던",
+          "description": "프리미엄 재료를 사용한 현대적 변형"
+        },
+        {
+          "name": "채식 보트 누들",
+          "description": "두부나 버섯을 사용한 식물성 버전"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "자스민 라이스",
+          "신선한 채소",
+          "태국 허브"
+        ],
+        "presentation": "태국 전통 방식으로 작은 그릇에 제공",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 즐깁니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 태국 중부 식당",
+          "정통 길거리 음식 노점",
+          "전통 시장",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "야시장",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
