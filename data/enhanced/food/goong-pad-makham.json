@@ -5,7 +5,7 @@
     "en": "Goong Pad Makham",
     "nl": "Goong Pad Makham",
     "thai": "กุ้งผัดมะขาม",
-    "ja": "グンパッマカーム"
+    "ko": "꿍팟마캄"
   },
   "category": "main-dish",
   "region": "southern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Prawns stir-fried in tangy tamarind sauce",
     "nl": "Garnalen geroerbakt in pittige tamarindesaus",
-    "ja": "タマリンドソースで炒めたエビ、甘酸っぱい味わいが特徴"
+    "ko": "새콤달콤한 타마린드 소스에 볶은 새우"
   },
   "ingredients": [
     "prawns",
@@ -35,12 +35,12 @@
     "metaTitle": {
       "en": "Goong Pad Makham Recipe | Authentic Thai main dish",
       "nl": "Goong Pad Makham Recept | Authentieke Thaise main dish",
-      "ja": "グンパッマカームのレシピ | 本格タイ料理"
+      "ko": "꿍팟마캄 레시피 | 정통 태국 타마린드 새우 볶음"
     },
     "metaDescription": {
       "en": "Learn about Goong Pad Makham (กุ้งผัดมะขาม) - Prawns stir-fried in tangy tamarind sauce...",
       "nl": "Leer over Goong Pad Makham (กุ้งผัดมะขาม) - Garnalen geroerbakt in pittige tamarindesaus...",
-      "ja": "グンパッマカーム（กุ้งผัดมะขาม）について — タマリンドソースで炒めたエビの甘酸っぱい一品。"
+      "ko": "꿍팟마캄(กุ้งผัดมะขาม) - 새콤달콤한 타마린드 소스에 볶은 새우 요리. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -667,6 +667,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "꿍팟마캄은 태국 남부의 인기 있는 메인 요리로, 탱탱한 새우를 새콤달콤한 타마린드 소스에 볶아낸 풍미 넘치는 해산물 요리입니다. 약 15분이면 완성할 수 있는 간단한 레시피로, 남부 태국 요리의 정통 맛을 담고 있습니다. 새우, 타마린드 페이스트, 야자설탕의 조합이 새콤하고 달콤하며 짭짤한 완벽한 균형의 소스를 만들어내며, 건고추의 은은한 매콤함이 풍미를 더합니다. 합리적인 가격에 정통 태국 해산물 요리를 즐길 수 있습니다.",
+      "detailed_ingredients": [
+        {
+          "name": "새우 (대하)",
+          "purpose": "이 요리의 주재료로, 신선한 대하를 사용해야 탱탱한 식감을 살릴 수 있습니다",
+          "substitutes": [
+            "왕새우",
+            "중하",
+            "냉동 새우 (해동 후 사용)"
+          ]
+        },
+        {
+          "name": "타마린드 페이스트",
+          "purpose": "새콤한 맛의 핵심으로, 소스의 베이스가 됩니다",
+          "substitutes": [
+            "타마린드 농축액",
+            "생 타마린드",
+            "레몬즙 + 설탕 (대체용)"
+          ]
+        },
+        {
+          "name": "야자설탕",
+          "purpose": "타마린드의 신맛과 균형을 맞추는 천연 감미료",
+          "substitutes": [
+            "코코넛 설탕",
+            "흑설탕",
+            "황설탕"
+          ]
+        },
+        {
+          "name": "액젓 (남쁠라)",
+          "purpose": "감칠맛과 짭짤함을 더하는 태국 요리의 필수 조미료",
+          "substitutes": [
+            "간장",
+            "굴소스",
+            "멸치 액젓"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "웍 볶음 (고온 단시간 조리)",
+        "steps_overview": "꿍팟마캄을 만들려면 먼저 타마린드 페이스트, 야자설탕, 액젓으로 소스를 만듭니다. 팬에 기름을 두르고 마늘과 샬롯을 볶은 후 새우를 넣어 색이 변할 때까지 볶습니다. 준비한 소스를 넣고 새우에 고루 코팅되도록 빠르게 볶아 완성합니다. 건고추를 함께 볶으면 은은한 매콤함이 더해집니다.",
+        "cooking_tips": [
+          "새우는 과하게 익히면 질겨지므로 색이 변하면 바로 소스를 넣으세요",
+          "타마린드와 야자설탕의 비율로 새콤달콤한 균형을 조절하세요",
+          "강한 불에서 빠르게 볶아야 새우의 식감이 살아납니다",
+          "접시에 담기 직전에 프라이드 샬롯을 올리면 바삭함이 유지됩니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "꿍팟마캄은 태국 남부 해안 지역에서 유래한 요리로, 풍부한 해산물과 타마린드를 활용한 남부 태국의 새콤한 맛 문화를 반영합니다. 태국 전역의 레스토랑에서 인기 있는 메뉴가 되었습니다.",
+        "cultural_importance": "이 요리는 태국 남부 해산물 요리의 정수를 보여주며, 새콤-달콤-짭짤의 균형이라는 태국 요리의 핵심 철학을 잘 나타냅니다. 가족 모임이나 특별한 자리에서도 자주 등장합니다.",
+        "traditional_occasions": [
+          "가족 모임",
+          "특별한 저녁 식사",
+          "해산물 레스토랑",
+          "축하 자리"
+        ]
+      },
+      "variations": [
+        {
+          "name": "꿍팟마캄 전통식",
+          "description": "대하를 통째로 사용한 가장 전통적인 버전입니다."
+        },
+        {
+          "name": "꿍팟마캄 프리미엄",
+          "description": "킹프라운이나 로브스터를 사용한 고급 버전입니다."
+        },
+        {
+          "name": "채식 팟마캄",
+          "description": "두부와 버섯을 사용한 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "재스민 쌀밥",
+          "신선한 채소",
+          "프라이드 샬롯"
+        ],
+        "presentation": "접시에 담아 전통 태국 스타일로 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 밥과 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 남부 태국 레스토랑",
+          "해산물 전문 레스토랑",
+          "전통 시장",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "야시장",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
