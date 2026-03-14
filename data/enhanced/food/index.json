@@ -6,7 +6,7 @@
       "en": "Pad Krapow",
       "nl": "Pad Krapow",
       "thai": "ผัดกะเพรา",
-      "ja": "パッガパオ"
+      "ko": "팟끄라파오"
     },
     "category": "main-dish",
     "region": "central",
@@ -28,7 +28,7 @@
       "en": "Som Tam",
       "nl": "Som Tam",
       "thai": "ส้มตำ",
-      "ja": "ソムタム"
+      "ko": "솜땀"
     },
     "category": "salad",
     "region": "northeastern",
@@ -50,7 +50,7 @@
       "en": "Tom Yum Goong",
       "nl": "Tom Yum Goong",
       "thai": "ต้มยำกุ้ง",
-      "ja": "トムヤムクン"
+      "ko": "똠얌꿍"
     },
     "category": "soup",
     "region": "central",
@@ -72,7 +72,7 @@
       "en": "Pad Thai",
       "nl": "Pad Thai",
       "thai": "ผัดไทย",
-      "ja": "パッタイ"
+      "ko": "팟타이"
     },
     "category": "main-dish",
     "region": "central",
@@ -94,7 +94,7 @@
       "en": "Green Curry",
       "nl": "Groene Curry",
       "thai": "แกงเขียวหวาน",
-      "ja": "グリーンカレー"
+      "ko": "그린 커리"
     },
     "category": "curry",
     "region": "central",
@@ -116,7 +116,7 @@
       "en": "Mango Sticky Rice",
       "nl": "Mango Sticky Rice",
       "thai": "ข้าวเหนียวมะม่วง",
-      "ja": "マンゴースティッキーライス"
+      "ko": "카오니아오 마무앙"
     },
     "category": "dessert",
     "region": "central",
@@ -138,7 +138,7 @@
       "en": "Massaman Curry",
       "nl": "Massaman Curry",
       "thai": "แกงมัสมั่น",
-      "ja": "マッサマンカレー"
+      "ko": "마사만 커리"
     },
     "category": "curry",
     "region": "southern",
@@ -160,7 +160,7 @@
       "en": "Larb",
       "nl": "Larb",
       "thai": "ลาบ",
-      "ja": "ラープ"
+      "ko": "랍"
     },
     "category": "salad",
     "region": "northeastern",
@@ -182,7 +182,7 @@
       "en": "Pad See Ew",
       "nl": "Pad See Ew",
       "thai": "ผัดซีอิ๊ว",
-      "ja": "パッシーイウ"
+      "ko": "팟씨유"
     },
     "category": "main-dish",
     "region": "central",
@@ -204,7 +204,7 @@
       "en": "Thai Fried Rice",
       "nl": "Thaise Gebakken Rijst",
       "thai": "ข้าวผัด",
-      "ja": "タイ風チャーハン"
+      "ko": "카오팟"
     },
     "category": "main-dish",
     "region": "central",
@@ -226,7 +226,7 @@
       "en": "Khao Man Gai",
       "nl": "Khao Man Gai",
       "thai": "ข้าวมันไก่",
-      "ja": "カオマンガイ"
+      "ko": "카오만가이"
     },
     "category": "main-dish",
     "region": "central",
@@ -248,7 +248,7 @@
       "en": "Boat Noodles",
       "nl": "Boot Noedels",
       "thai": "ก๋วยเตี๋ยวเรือ",
-      "ja": "ボートヌードル"
+      "ko": "보트 누들"
     },
     "category": "soup",
     "region": "central",
@@ -270,7 +270,7 @@
       "en": "Khao Soi",
       "nl": "Khao Soi",
       "thai": "ข้าวซอย",
-      "ja": "カオソーイ"
+      "ko": "카오소이"
     },
     "category": "soup",
     "region": "northern",
@@ -292,7 +292,7 @@
       "en": "Sai Ua",
       "nl": "Sai Ua",
       "thai": "ไส้อั่ว",
-      "ja": "サイウア"
+      "ko": "사이우아"
     },
     "category": "main-dish",
     "region": "northern",
@@ -314,7 +314,7 @@
       "en": "Nam Prik Ong",
       "nl": "Nam Prik Ong",
       "thai": "น้ำพริกอ่อง",
-      "ja": "ナムプリックオン"
+      "ko": "남프릭옹"
     },
     "category": "main-dish",
     "region": "northern",
@@ -336,7 +336,7 @@
       "en": "Gaeng Hang Lay",
       "nl": "Gaeng Hang Lay",
       "thai": "แกงฮังเล",
-      "ja": "ゲーン・ハンレー"
+      "ko": "깽항레"
     },
     "category": "curry",
     "region": "northern",
@@ -358,7 +358,7 @@
       "en": "Mee Hokkien",
       "nl": "Mee Hokkien",
       "thai": "หมี่ฮกเกี้ยน",
-      "ja": "ミーホッケン"
+      "ko": "미 호끼엔"
     },
     "category": "main-dish",
     "region": "southern",
@@ -380,7 +380,7 @@
       "en": "Oh Aew",
       "nl": "Oh Aew",
       "thai": "โอ้เอ๋ว",
-      "ja": "オーエウ"
+      "ko": "오에우"
     },
     "category": "dessert",
     "region": "southern",
@@ -402,7 +402,7 @@
       "en": "Nam Prik Goong Siap",
       "nl": "Nam Prik Goong Siap",
       "thai": "น้ำพริกกุ้งเสียบ",
-      "ja": "ナムプリック・グンシアップ"
+      "ko": "남프릭꿍시압"
     },
     "category": "main-dish",
     "region": "southern",
@@ -424,7 +424,7 @@
       "en": "Moo Hong",
       "nl": "Moo Hong",
       "thai": "หมูฮ้อง",
-      "ja": "ムーホン"
+      "ko": "무홍"
     },
     "category": "main-dish",
     "region": "southern",
@@ -446,7 +446,7 @@
       "en": "Kanom Jeen Nam Ya",
       "nl": "Kanom Jeen Nam Ya",
       "thai": "ขนมจีนน้ำยา",
-      "ja": "カノムジーン・ナムヤー"
+      "ko": "카놈찐남야"
     },
     "category": "main-dish",
     "region": "southern",
@@ -468,7 +468,7 @@
       "en": "Hoy Tod",
       "nl": "Hoy Tod",
       "thai": "หอยทอด",
-      "ja": "ホイトート"
+      "ko": "호이똣"
     },
     "category": "main-dish",
     "region": "central",
@@ -490,7 +490,7 @@
       "en": "Pla Pao",
       "nl": "Pla Pao",
       "thai": "ปลาเผา",
-      "ja": "プラパオ"
+      "ko": "쁠라파오"
     },
     "category": "main-dish",
     "region": "central",
@@ -512,7 +512,7 @@
       "en": "Yam Woon Sen",
       "nl": "Yam Woon Sen",
       "thai": "ยำวุ้นเส้น",
-      "ja": "ヤムウンセン"
+      "ko": "얌운센"
     },
     "category": "salad",
     "region": "central",
@@ -534,7 +534,7 @@
       "en": "Khao Pad Sapparot",
       "nl": "Khao Pad Sapparot",
       "thai": "ข้าวผัดสับปะรด",
-      "ja": "カオパッサパロット"
+      "ko": "카오팟 싸빠롯"
     },
     "category": "main-dish",
     "region": "central",
@@ -556,7 +556,7 @@
       "en": "Roti Sai Mai",
       "nl": "Roti Sai Mai",
       "thai": "โรตีสายไหม",
-      "ja": "ロティ・サイマイ"
+      "ko": "로띠 사이마이"
     },
     "category": "dessert",
     "region": "central",
@@ -578,7 +578,7 @@
       "en": "Tom Yum Noodles",
       "nl": "Tom Yum Noedels",
       "thai": "ก๋วยเตี๋ยวต้มยำ",
-      "ja": "トムヤムヌードル"
+      "ko": "똠얌 누들"
     },
     "category": "soup",
     "region": "central",
@@ -600,7 +600,7 @@
       "en": "Khao Mok Gai",
       "nl": "Khao Mok Gai",
       "thai": "ข้าวหมกไก่",
-      "ja": "カオモックガイ"
+      "ko": "카오목가이"
     },
     "category": "main-dish",
     "region": "southern",
@@ -622,7 +622,7 @@
       "en": "Goong Pad Makham",
       "nl": "Goong Pad Makham",
       "thai": "กุ้งผัดมะขาม",
-      "ja": "グンパッマカーム"
+      "ko": "꿍팟마캄"
     },
     "category": "main-dish",
     "region": "southern",
@@ -644,7 +644,7 @@
       "en": "Tom Som Pla",
       "nl": "Tom Som Pla",
       "thai": "ต้มส้มปลา",
-      "ja": "トムソムプラー"
+      "ko": "똠솜쁠라"
     },
     "category": "soup",
     "region": "southern",
@@ -666,7 +666,7 @@
       "en": "Gai Tod Hat Yai",
       "nl": "Gai Tod Hat Yai",
       "thai": "ไก่ทอดหาดใหญ่",
-      "ja": "ガイトート・ハートヤイ"
+      "ko": "가이똣 핫야이"
     },
     "category": "main-dish",
     "region": "southern",
@@ -688,7 +688,7 @@
       "en": "Khao Yam",
       "nl": "Khao Yam",
       "thai": "ข้าวยำ",
-      "ja": "カオヤム"
+      "ko": "카오얌"
     },
     "category": "salad",
     "region": "southern",
@@ -710,7 +710,7 @@
       "en": "Nam Ngiao",
       "nl": "Nam Ngiao",
       "thai": "น้ำเงี้ยว",
-      "ja": "ナムニアオ"
+      "ko": "남응이아오"
     },
     "category": "soup",
     "region": "northern",
@@ -732,7 +732,7 @@
       "en": "Laab Kua",
       "nl": "Laab Kua",
       "thai": "ลาบคั่ว",
-      "ja": "ラープクア"
+      "ko": "랍꾸아"
     },
     "category": "salad",
     "region": "northern",
@@ -754,7 +754,7 @@
       "en": "Tam Khanun",
       "nl": "Tam Khanun",
       "thai": "ตำขนุน",
-      "ja": "タムカヌン"
+      "ko": "땀카눈"
     },
     "category": "salad",
     "region": "northern",
@@ -776,7 +776,7 @@
       "en": "Khao Kan Jin",
       "nl": "Khao Kan Jin",
       "thai": "ข้าวกั้นจิ๊น",
-      "ja": "カオカンジン"
+      "ko": "카오깐진"
     },
     "category": "main-dish",
     "region": "northern",
@@ -798,7 +798,7 @@
       "en": "Roti Canai",
       "nl": "Roti Canai",
       "thai": "โรตีกะหรี่",
-      "ja": "ロティ・チャナイ"
+      "ko": "로띠 짜나이"
     },
     "category": "main-dish",
     "region": "southern",
@@ -820,7 +820,7 @@
       "en": "Bua Loy",
       "nl": "Bua Loy",
       "thai": "บัวลอย",
-      "ja": "ブアローイ"
+      "ko": "부아로이"
     },
     "category": "dessert",
     "region": "southern",
@@ -842,7 +842,7 @@
       "en": "Sukhothai Noodles",
       "nl": "Sukhothai Noedels",
       "thai": "ก๋วยเตี๋ยวสุโขทัย",
-      "ja": "スコータイヌードル"
+      "ko": "수코타이 누들"
     },
     "category": "soup",
     "region": "northern",
@@ -864,7 +864,7 @@
       "en": "Kaeng Liang",
       "nl": "Kaeng Liang",
       "thai": "แกงเลียง",
-      "ja": "ゲーン・リアン"
+      "ko": "깽리앙"
     },
     "category": "soup",
     "region": "northern",
@@ -886,7 +886,7 @@
       "en": "Moo Palo",
       "nl": "Moo Palo",
       "thai": "หมูพะโล้",
-      "ja": "ムーパロー"
+      "ko": "무빠로"
     },
     "category": "main-dish",
     "region": "northern",
@@ -908,7 +908,7 @@
       "en": "Nam Prik Noom",
       "nl": "Nam Prik Noom",
       "thai": "น้ำพริกหนุ่ม",
-      "ja": "ナムプリック・ヌム"
+      "ko": "남프릭눔"
     },
     "category": "main-dish",
     "region": "northern",
@@ -930,7 +930,7 @@
       "en": "Nam Prik Kapi",
       "nl": "Nam Prik Kapi",
       "thai": "น้ำพริกกะปิ",
-      "ja": "ナムプリック・カピ"
+      "ko": "남프릭까삐"
     },
     "category": "main-dish",
     "region": "southern",
@@ -952,7 +952,7 @@
       "en": "Gaeng Tai Pla",
       "nl": "Gaeng Tai Pla",
       "thai": "แกงไตปลา",
-      "ja": "ゲーン・タイプラー"
+      "ko": "깽따이쁠라"
     },
     "category": "curry",
     "region": "southern",
@@ -974,7 +974,7 @@
       "en": "Goong Pad Sator",
       "nl": "Goong Pad Sator",
       "thai": "กุ้งผัดสะตอ",
-      "ja": "グンパッサトー"
+      "ko": "꿍팟사또"
     },
     "category": "main-dish",
     "region": "southern",
@@ -996,7 +996,7 @@
       "en": "Lod Chong",
       "nl": "Lod Chong",
       "thai": "ลอดช่อง",
-      "ja": "ロッチョン"
+      "ko": "롯총"
     },
     "category": "dessert",
     "region": "southern",
