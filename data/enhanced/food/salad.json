@@ -7,7 +7,12 @@
       "nl": "Som Tam",
       "thai": "ส้มตำ",
       "ko": "쏨땀",
-      "th": "ส้มตำ"
+      "th": "ส้มตำ",
+      "zh": "酸辣青木瓜丝沙拉",
+      "de": "Scharfer Papayasalat aus grüner Papaya",
+      "fr": "Salade de papaye verte épicée",
+      "ru": "Сом Там",
+      "ja": "ソムタム"
     },
     "category": "salad",
     "region": "northeastern",
@@ -16,7 +21,12 @@
       "en": "Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts",
       "nl": "Pittige groene papajasalade met tomaten limoensap vissaus en pinda's",
       "ko": "덜 익은 파파야를 절구에 빻아 토마토, 라임즙, 피시소스, 땅콩을 넣은 매콤한 샐러드",
-      "th": "ส้มตำ สลัดมะละกอดิบตำกับมะเขือเทศ น้ำมะนาว น้ำปลา ถั่วลิสง รสเผ็ดเปรี้ยว"
+      "th": "ส้มตำ สลัดมะละกอดิบตำกับมะเขือเทศ น้ำมะนาว น้ำปลา ถั่วลิสง รสเผ็ดเปรี้ยว",
+      "zh": "辣味青木瓜丝拌番茄、青柠汁、鱼露和花生",
+      "de": "Scharfer grüner Papayasalat mit Tomaten, Limettensaft, Fischsauce und Erdnüssen",
+      "fr": "Salade épicée de papaye verte avec des tomates, du jus de citron vert, de la sauce de poisson et des cacahuètes.",
+      "ru": "Острый салат из зелёной папайи с помидорами, соком лайма, рыбным соусом и арахисом.",
+      "ja": "トマト、ライム汁、魚醤、ピーナッツを使った辛い青パパイヤのサラダ"
     },
     "ingredients": [
       "green papaya",
@@ -86,7 +96,12 @@
       "nl": "Larb",
       "thai": "ลาบ",
       "ko": "랍",
-      "th": "ลาบ"
+      "th": "ลาบ",
+      "zh": "辣味香草拌肉末",
+      "de": "Würziger Fleischsalat mit Kräutern",
+      "fr": "Laab (salade de viande épicée)",
+      "ru": "Ларб",
+      "ja": "ラープ"
     },
     "category": "salad",
     "region": "northeastern",
@@ -95,7 +110,12 @@
       "en": "Spicy meat salad with herbs lime juice and toasted rice powder",
       "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder",
       "ko": "다진 고기에 허브, 라임즙, 볶은 쌀가루를 넣어 버무린 매콤한 고기 샐러드",
-      "th": "ลาบ สลัดเนื้อสับปรุงรสด้วยน้ำมะนาว น้ำปลา ข้าวคั่ว สมุนไพรสด รสเผ็ดเปรี้ยว"
+      "th": "ลาบ สลัดเนื้อสับปรุงรสด้วยน้ำมะนาว น้ำปลา ข้าวคั่ว สมุนไพรสด รสเผ็ดเปรี้ยว",
+      "zh": "辣味香草拌肉末，配青柠汁和炒香米粉",
+      "de": "Würziger Fleischsalat mit Kräutern, Limettensaft und geröstetem Reispulver",
+      "fr": "Salade de viande épicée avec des herbes, du jus de citron vert et de la poudre de riz grillé.",
+      "ru": "Острый мясной салат с травами, соком лайма и пудрой из поджаренного риса.",
+      "ja": "香草とライム汁、炒り米粉を使った辛い挽き肉のサラダ"
     },
     "ingredients": [
       "minced pork",
@@ -158,7 +178,12 @@
       "nl": "Yam Woon Sen",
       "thai": "ยำวุ้นเส้น",
       "ko": "얌운센",
-      "th": "ยำวุ้นเส้น"
+      "th": "ยำวุ้นเส้น",
+      "zh": "玻璃粉丝拌虾仁和猪肉末",
+      "de": "Glasnudelsalat mit Garnelen und Hackfleisch",
+      "fr": "Salade de vermicelles de verre",
+      "ru": "Ям Вон Сен",
+      "ja": "ヤムウンセン"
     },
     "category": "salad",
     "region": "central",
@@ -167,7 +192,12 @@
       "en": "Glass noodle salad with shrimp and ground pork",
       "nl": "Glasnoedelsalade met garnalen en varkensgehakt",
       "ko": "당면에 새우, 다진 돼지고기, 토마토, 양파를 넣은 매콤새콤한 유리면 샐러드",
-      "th": "ยำวุ้นเส้น สลัดวุ้นเส้นกับกุ้งและหมูสับ ปรุงรสเปรี้ยวเผ็ด สดชื่น"
+      "th": "ยำวุ้นเส้น สลัดวุ้นเส้นกับกุ้งและหมูสับ ปรุงรสเปรี้ยวเผ็ด สดชื่น",
+      "zh": "以玻璃粉丝为主的沙拉，配虾仁和猪肉末",
+      "de": "Glasnudelsalat mit Garnelen und Hackfleisch",
+      "fr": "Salade de vermicelles de verre avec des crevettes et du porc haché.",
+      "ru": "Салат из стеклянной лапши с креветками и свиным фаршем.",
+      "ja": "エビと挽き豚を入れた春雨サラダ"
     },
     "ingredients": [
       "glass noodles",
@@ -234,7 +264,12 @@
       "nl": "Khao Yam",
       "thai": "ข้าวยำ",
       "ko": "카오얌",
-      "th": "ข้าวยำ"
+      "th": "ข้าวยำ",
+      "zh": "泰南香米沙拉",
+      "de": "Südthailändischer Reissalat mit Kräutern und Kokosnuss",
+      "fr": "Salade de riz du sud thaïlandais aux herbes et à la noix de coco",
+      "ru": "Кхао Ям",
+      "ja": "カオヤム"
     },
     "category": "salad",
     "region": "southern",
@@ -243,7 +278,12 @@
       "en": "Southern Thai rice salad with herbs and coconut",
       "nl": "Zuidelijke Thaise rijstsalade met kruiden en kokos",
       "ko": "허브, 코코넛, 건새우를 넣은 태국 남부 전통 쌀 샐러드",
-      "th": "ข้าวยำสไตล์ใต้ ข้าวสวยคลุกกับสมุนไพรสด มะพร้าวคั่ว น้ำบูดู รสสดชื่น"
+      "th": "ข้าวยำสไตล์ใต้ ข้าวสวยคลุกกับสมุนไพรสด มะพร้าวคั่ว น้ำบูดู รสสดชื่น",
+      "zh": "泰南风味香草和椰丝的香米沙拉",
+      "de": "Südthailändischer Reissalat mit Kräutern und Kokosnuss",
+      "fr": "Salade de riz du sud thaïlandais avec des herbes et de la noix de coco.",
+      "ru": "Южнотайский рисовый салат с травами и кокосом.",
+      "ja": "ハーブとココナツを使った南部タイの米サラダ"
     },
     "ingredients": [
       "rice",
@@ -309,7 +349,12 @@
       "nl": "Laab Kua",
       "thai": "ลาบคั่ว",
       "ko": "랍쿠아",
-      "th": "ลาบคั่ว"
+      "th": "ลาบคั่ว",
+      "zh": "北部风味香草香料拌肉末",
+      "de": "Nordthailändischer Fleischsalat mit Gewürzen und Kräutern",
+      "fr": "Laab Kua (salade de viande du nord)",
+      "ru": "Лааб Куа",
+      "ja": "ラープクア"
     },
     "category": "salad",
     "region": "northern",
@@ -318,7 +363,12 @@
       "en": "Northern style meat salad with spices and herbs",
       "nl": "Noordelijke stijl vleessalade met specerijen en kruiden",
       "ko": "다진 고기를 향신료, 허브와 함께 볶아 만든 태국 북부 스타일 고기 샐러드",
-      "th": "ลาบคั่วเหนือ เนื้อสับคั่วกับสมุนไพรและเครื่องเทศ รสเผ็ดจัดจ้าน"
+      "th": "ลาบคั่วเหนือ เนื้อสับคั่วกับสมุนไพรและเครื่องเทศ รสเผ็ดจัดจ้าน",
+      "zh": "北部风味的肉末拌香料和香草",
+      "de": "Nordthailändischer Fleischsalat mit Gewürzen und Kräutern",
+      "fr": "Salade de viande du nord avec des épices et des herbes.",
+      "ru": "Мясной салат северного тайского стиля с пряностями и травами.",
+      "ja": "香辛料と香草を使った北部風の肉サラダ"
     },
     "ingredients": [
       "minced pork or beef",
@@ -379,7 +429,12 @@
       "nl": "Tam Khanun",
       "thai": "ตำขนุน",
       "ko": "땀카눈",
-      "th": "ตำขนุน"
+      "th": "ตำขนุน",
+      "zh": "辣味嫩木菠萝蜜沙拉",
+      "de": "Scharfer Jackfrucht-Salat",
+      "fr": "Salade épicée de jacquier jeune",
+      "ru": "Там Канун",
+      "ja": "ジャックフルーツの辛いサラダ"
     },
     "category": "salad",
     "region": "northern",
@@ -388,7 +443,12 @@
       "en": "Spicy young jackfruit salad",
       "nl": "Pittige jonge jackfruit salade",
       "ko": "덜 익은 잭프루트를 절구에 빻아 만든 매콤한 북부 태국 샐러드",
-      "th": "ตำขนุน สลัดขนุนอ่อนตำรสเผ็ด อาหารอีสานรสจัดจ้าน"
+      "th": "ตำขนุน สลัดขนุนอ่อนตำรสเผ็ด อาหารอีสานรสจัดจ้าน",
+      "zh": "辣味嫩木菠萝蜜沙拉",
+      "de": "Scharfer Salat aus unreifer Jackfrucht",
+      "fr": "Salade épicée de jacquier jeune.",
+      "ru": "Острый салат из молодого джекфрута.",
+      "ja": "未熟なジャックフルーツを使った辛いサラダ"
     },
     "ingredients": [
       "young jackfruit",

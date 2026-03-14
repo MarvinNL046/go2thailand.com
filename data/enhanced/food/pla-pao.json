@@ -6,7 +6,8 @@
     "nl": "Pla Pao",
     "thai": "ปลาเผา",
     "ko": "쁠라파오",
-    "th": "ปลาเผา"
+    "th": "ปลาเผา",
+    "ja": "Pla Pao（プラ・パオ）"
   },
   "category": "main-dish",
   "region": "central",
@@ -37,13 +38,15 @@
       "en": "Pla Pao Recipe | Authentic Thai main dish",
       "nl": "Pla Pao Recept | Authentieke Thaise main dish",
       "ko": "쁠라파오 레시피 | 정통 태국 소금 껍질 숯불 구이 생선",
-      "th": "สูตรปลาเผา | อาหารจานหลักไทยแท้"
+      "th": "สูตรปลาเผา | อาหารจานหลักไทยแท้",
+      "ja": "Pla Pao レシピ | 本格タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Pla Pao (ปลาเผา) - Grilled fish in salt crust served with spicy seafood sauce...",
       "nl": "Leer over Pla Pao (ปลาเผา) - Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus...",
       "ko": "쁠라파오(ปลาเผา) - 굵은 소금으로 감싸 숯불에 구운 태국 전통 통생선 요리. 레몬그라스와 카피르 라임잎으로 속을 채워 구운 생선에 남찜 딥 소스를 곁들입니다.",
-      "th": "เรียนรู้เกี่ยวกับปลาเผา — ปลาเผาเกลือ ปลาตัวโตเผาในเปลือกเกลือจนสุกหอม เสิร์ฟกับน้ำจิ้มซีฟู้ด สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับปลาเผา — ปลาเผาเกลือ ปลาตัวโตเผาในเปลือกเกลือจนสุกหอม เสิร์ฟกับน้ำจิ้มซีฟู้ด สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Pla Pao（ปลาเผา）について—塩の殻で焼いた魚を辛口のシーフードソースとともに供するタイの定番料理を学びましょう。"
     }
   },
   "tags": [
@@ -874,6 +877,109 @@
           "street_vendor": "50-80 THB",
           "market_stall": "60-100 THB",
           "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Pla Pao は中央タイの家庭的で満足感のある主菜です。塩の殻で焼いた魚を辛口のシーフードソースとともに提供します。中程度の難易度のレシピで、準備には約40分かかります。中央タイ料理の本格的な風味を、甘味・酸味・塩味・辛味のバランスが完璧に表現します。丸ごと魚と粗塩、レモングラスの組み合わせが調和の取れた風味を生み出し、地元の人々と訪問者の双方に長く愛されています。手頃な価格で本格的なタイ料理を楽しみたい人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "丸ごと魚",
+          "purpose": "本格的な Pla Pao の風味を引き出すために欠かせない",
+          "substitutes": [
+            "新鮮な丸ごと魚",
+            "乾燥した丸ごと魚",
+            "丸ごと魚ペースト"
+          ]
+        },
+        {
+          "name": "粗塩",
+          "purpose": "本格的な Pla Pao の風味を引き出すために欠かせない",
+          "substitutes": [
+            "新鮮な粗塩",
+            "乾燥した粗塩",
+            "粗塩ペースト"
+          ]
+        },
+        {
+          "name": "レモングラス",
+          "purpose": "本格的な Pla Pao の風味を引き出すために欠かせない",
+          "substitutes": [
+            "新鮮なレモングラス",
+            "乾燥レモングラス",
+            "レモングラスペースト"
+          ]
+        },
+        {
+          "name": "ライムリーフ",
+          "purpose": "本格的な Pla Pao の風味を引き出すために欠かせない",
+          "substitutes": [
+            "新鮮なライムリーフ",
+            "乾燥ライムリーフ",
+            "ライムリーフペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "技法: 炒めるまたは焼く",
+        "steps_overview": "Pla Pao を準備するには、細部への注意と適切なタイミングが求められます。鍵は、全ての風味のバランスを保ちながら材料ごとの食感を生かすことです。 generations に伝わる伝統的な方法で本格的な味を確保します。",
+        "cooking_tips": [
+          "最良の結果を得るには新鮮な丸ごと魚を使用する",
+          "辛さは好みに合わせて調整する",
+          "食感を保つために過剰調理を避ける",
+          "盛り付け前に味を調整する"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pla Pao は世代を超えて中部タイ料理の主食として地域の伝統と地元の食材を反映してきました。",
+        "cultural_importance": "この料理は、タイ料理が世界的に有名な調和とバランスの中心を代表しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地元の祭り",
+          "屋台市場",
+          "特別な祝祭"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pla Pao クラシック",
+          "description": "地域の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Pla Pao モダン",
+          "description": "プレミアムな食材を使った現代風のひねり"
+        },
+        {
+          "name": "Pla Pao ベジタリアン",
+          "description": "豆腐またはキノコを使った植物ベース版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイハーブ"
+        ],
+        "presentation": "タイの伝統的な盛り付けで皿に盛り付ける",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンで楽しむ"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "地元の中部タイ料理店",
+          "本格的な屋台",
+          "伝統的な市場",
+          "家族経営の小さな食事処"
+        ],
+        "street_food_areas": [
+          "Night markets（ナイトマーケット）",
+          "Morning fresh markets（モーニング・フレッシュ・マーケット）",
+          "Local food courts（ローカル・フードコート）"
+        ],
+        "price_ranges": {
+          "street_vendor": "露店価格 50-80 THB",
+          "market_stall": "市場露店価格 60-100 THB",
+          "restaurant": "レストラン価格 100-200 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

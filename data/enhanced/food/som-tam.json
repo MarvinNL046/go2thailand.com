@@ -6,7 +6,8 @@
     "nl": "Som Tam",
     "thai": "ส้มตำ",
     "ko": "쏨땀",
-    "th": "ส้มตำ"
+    "th": "ส้มตำ",
+    "ja": "Som Tam（ソムタム）"
   },
   "category": "salad",
   "region": "northeastern",
@@ -40,13 +41,15 @@
       "en": "Som Tam Recipe | Authentic Thai salad",
       "nl": "Som Tam Recept | Authentieke Thaise salad",
       "ko": "쏨땀 레시피 | 정통 태국 이산 파파야 샐러드",
-      "th": "สูตรส้มตำ | สลัดไทยแท้"
+      "th": "สูตรส้มตำ | สลัดไทยแท้",
+      "ja": "Som Tam レシピ | 本格タイ風サラダ"
     },
     "metaDescription": {
       "en": "Learn about Som Tam (ส้มตำ) - Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts...",
       "nl": "Leer over Som Tam (ส้มตำ) - Pittige groene papajasalade met tomaten limoensap vissaus en pinda's...",
       "ko": "쏨땀(ส้มตำ) - 이산 지역이 세계에 선사한 파파야 샐러드. 절구에서 빻아 만드는 매콤새콤 중독성 샐러드의 레시피, 변형, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับส้มตำ — ส้มตำ สลัดมะละกอดิบตำกับมะเขือเทศ น้ำมะนาว น้ำปลา ถั่วลิสง รสเผ็ดเปรี้ยว สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับส้มตำ — ส้มตำ สลัดมะละกอดิบตำกับมะเขือเทศ น้ำมะนาว น้ำปลา ถั่วลิสง รสเผ็ดเปรี้ยว สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "ソム・タム（ส้มตำ）について学ぶ。トマト、ライムジュース、ナンプラー、ピーナッツを使った辛味のあるグリーンパパイヤサラダです..."
     }
   },
   "tags": [
@@ -813,6 +816,101 @@
           "street_food": "30-50 THB ($0.90-$1.50)",
           "restaurant": "60-120 THB ($1.80-$3.60)",
           "upscale": "150-300 THB ($4.50-$9)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Som Tam（グリーンパパイヤサラダ）は、イサーン地方が世界にもたらした料理のひとつです。味覚を同時に刺激する、爆発的な風味の組み合わせ。この潰しサラダはラオスとタイ北東部で発祥し、モルタルとペストルを打つリズム音“pok pok”が市場のサウンドトラックとして響きます。爽やかで辛く、ファンキーで中毒性があり、食感と味のバランスが完璧です。",
+      "detailed_ingredients": [
+        {
+          "name": "Green Papaya（グリーンパパイヤ）",
+          "purpose": "シャキッとした食感とドレッシングを吸収する穏やかな風味を提供する",
+          "substitutes": [
+            "グリーンマンゴー",
+            "キュウリとニンジンの混合",
+            "コールラビ",
+            "甘味づけ用のグリーンアップル"
+          ]
+        },
+        {
+          "name": "Pla Ra（プラ・ラー／発酵魚）",
+          "purpose": "イサーン風ソムタムのファンキーでうま味の核",
+          "substitutes": [
+            "ナンプラー（風味が穏やか）",
+            "エビペースト",
+            "アンチョビ",
+            "野菜用しょうゆ"
+          ]
+        },
+        {
+          "name": "Thai Chilies（タイ唐辛子）",
+          "purpose": "このサラダを伝説的な辛さにする",
+          "substitutes": [
+            "セラーノペッパー",
+            "鶏の目唐辛子",
+            "ハラペーニョ（かなりマイルド）"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "粘土製の臼（khrok）で叩く技法",
+        "steps_overview": "臼の中で魔法が起きる。材料は潰しすぎず軽くつぶして風味を引き出しつつ食感を保つ。潰す順序が重要で、まずにんにくと唐辛子を潰し、次に香りづけの材料を入れ、最後にパパイヤを加え、スプーンで混ぜながら和える。",
+        "cooking_tips": [
+          "木製ではなく粘土製の臼を使う—材料をしっかりと掴みやすい",
+          "潰しすぎず折りたたんで混ぜる—食感を保つ",
+          "味を常に確かめて調整する— batchごとに風味が異なる",
+          "パパイヤは軽くつぶす程度で、まだ歯ごたえを残す",
+          "思っているより辛くしてOK—甘さが全体を引き締める"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "発祥はラオスで、イサーン全体（タイ東北部）へ広がった。未熟なパパイヤを活用し、魚を保存する方法として農村コミュニティが生み出した料理。この料理はイサーンの人々の機転とたくましさを象徴している。",
+        "cultural_importance": "ソムタムは食べ物以上のもの—社会的な儀式です。人々はソムタムの露店の周りに集まり、注文を自分好みに調整し、皿を分け合います。タイで最も注文される料理で、何百万人が日常的に食べています。",
+        "traditional_occasions": [
+          "もち米と共に食べる昼食の定番",
+          "ビールのおつまみ",
+          "収穫祭",
+          "寺院の祭り"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Som Tam Thai",
+          "description": "ドライエビ、ピーナッツ、ナンプラーを使った“安全版”のソムタム"
+        },
+        {
+          "name": "Som Tam Poo Pla Ra",
+          "description": "発酵魚と野外のカニを使ったイサーン風ソムタム—勇敢な人向け"
+        },
+        {
+          "name": "Som Tam Ponlamai",
+          "description": "リンゴ、ブドウ、ピーナッツを使った果物サラダ版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜"
+        ],
+        "presentation": "伝統的なタイ風の温かい状態で提供",
+        "eating_etiquette": "フォークとスプーンを使って楽しむ"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Nua (Bangkok) - モダンなイサーン料理チェーン",
+          "Laab Ubon (Bangkok) - 本格的なイサーンの風味",
+          "Any Isaan restaurant with plastic stools - プラスチック椅子のあるイサーン料理店ならどこでも"
+        ],
+        "street_food_areas": [
+          "Soi 38 Night Market, Bangkok",
+          "JJ Green Night Market",
+          "Any construction site at lunch (follow the workers)"
+        ],
+        "price_ranges": {
+          "street_food": "30-50 THB（$0.90-$1.50）",
+          "restaurant": "60-120 THB（$1.80-$3.60）",
+          "upscale": "150-300 THB（$4.50-$9）"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

@@ -6,7 +6,8 @@
     "nl": "Boot Noedels",
     "thai": "ก๋วยเตี๋ยวเรือ",
     "ko": "보트 누들",
-    "th": "ก๋วยเตี๋ยวเรือ"
+    "th": "ก๋วยเตี๋ยวเรือ",
+    "ja": "ボートヌードル"
   },
   "category": "soup",
   "region": "central",
@@ -36,13 +37,15 @@
       "en": "Boat Noodles Recipe | Authentic Thai soup",
       "nl": "Boot Noedels Recept | Authentieke Thaise soup",
       "ko": "보트 누들 레시피 | 정통 태국 국수 수프",
-      "th": "สูตรก๋วยเตี๋ยวเรือ | ซุปไทยแท้"
+      "th": "สูตรก๋วยเตี๋ยวเรือ | ซุปไทยแท้",
+      "ja": "ボートヌードルのレシピ | 本格タイスープ"
     },
     "metaDescription": {
       "en": "Learn about Boat Noodles (ก๋วยเตี๋ยวเรือ) - Rich pork or beef noodle soup traditionally served in small portions...",
       "nl": "Leer over Boot Noedels (ก๋วยเตี๋ยวเรือ) - Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties...",
       "ko": "보트 누들(ก๋วยเตี๋ยวเรือ)에 대해 알아보세요 - 전통적으로 작은 그릇에 제공되는 진한 돼지고기 또는 소고기 국수 수프...",
-      "th": "เรียนรู้เกี่ยวกับก๋วยเตี๋ยวเรือ — ก๋วยเตี๋ยวเรือรสเข้มข้นที่เสิร์ฟในถ้วยเล็ก เครื่องเยอะ น้ำซุปเข้มข้นจากเลือดหมูหรือเนื้อ สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับก๋วยเตี๋ยวเรือ — ก๋วยเตี๋ยวเรือรสเข้มข้นที่เสิร์ฟในถ้วยเล็ก เครื่องเยอะ น้ำซุปเข้มข้นจากเลือดหมูหรือเนื้อ สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "ボートヌードル（ก๋วยเตี๋ยวเรือ）について学ぶ。豚肉または牛肉を使った濃厚な麺スープで、伝統的に小さなポーションで提供されます。"
     }
   },
   "tags": [
@@ -858,6 +861,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "ボートヌードルは、中央タイの心を温める愛されるスープで、心地よい辛さが特徴です。豚肉または牛肉を使った濃厚な麺スープを、伝統的に小さなポーションで提供します。この中程度のレシピは約30分で準備でき、中央タイ料理の本格的な味を表現します。甘味・酸味・塩味・辛味のバランスが完璧で、米麺と豚肉/牛肉、黒醤油の組み合わせが調和のとれた風味を生み出し、地元の人々と訪問者の双方に愛されています。手頃で本格的なタイ料理を求める人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "ライスヌードル",
+          "purpose": "ボートヌードルの本格風味に不可欠",
+          "substitutes": [
+            "新鮮なライスヌードル",
+            "乾燥ライスヌードル",
+            "ライスヌードルペースト"
+          ]
+        },
+        {
+          "name": "豚肉または牛肉",
+          "purpose": "ボートヌードルの本格風味に不可欠",
+          "substitutes": [
+            "新鮮な豚肉または牛肉",
+            "乾燥豚肉または牛肉",
+            "豚肉または牛肉ペースト"
+          ]
+        },
+        {
+          "name": "黒醤油",
+          "purpose": "ボートヌードルの本格風味に不可欠",
+          "substitutes": [
+            "新鮮な黒醤油",
+            "乾燥黒醤油",
+            "黒醤油ペースト"
+          ]
+        },
+        {
+          "name": "中華五香粉",
+          "purpose": "ボートヌードルの本格風味に不可欠",
+          "substitutes": [
+            "新鮮な中華五香粉",
+            "乾燥中華五香粉",
+            "五香粉ペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "煮込みと風味を重ねる技法",
+        "steps_overview": "ボートヌードルを作るには細部への注意と適切なタイミングが必要です。要点は、各材料の食感を保ちながら、すべての風味のバランスを取ることです。代々伝えられてきた伝統的な手法が、本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果のために新鮮なライスヌードルを使用する",
+          "好みに合わせて辛さを調整する",
+          "食感を保つために過剰に煮過ぎない",
+          "提供前に味を確認し、味付けを調整する"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "ボートヌードルは長年、中央タイ料理の重要な一品であり、その地域特有の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は中央タイ料理の心臓部を象徴し、世界中で有名なタイ料理のバランスと調和を示しています。",
+        "traditional_occasions": [
+          "家族での集まり",
+          "地域の祭り",
+          "屋台市場",
+          "特別な祝い事"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Boat Noodles Classic",
+          "description": "地元の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Boat Noodles Modern",
+          "description": "プレミアム食材を使った現代風のひねり"
+        },
+        {
+          "name": "Vegetarian Boat Noodles",
+          "description": "豆腐やきのこを使った植物ベースのバージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ風のボウルで提供",
+        "eating_etiquette": "タイの習慣に従い、フォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local central Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

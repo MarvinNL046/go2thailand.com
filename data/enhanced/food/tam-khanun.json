@@ -6,7 +6,8 @@
     "nl": "Tam Khanun",
     "thai": "ตำขนุน",
     "ko": "땀카눈",
-    "th": "ตำขนุน"
+    "th": "ตำขนุน",
+    "ja": "Tam Khanun（タム・カヌン）"
   },
   "category": "salad",
   "region": "northern",
@@ -38,13 +39,15 @@
       "en": "Tam Khanun Recipe | Authentic Thai salad",
       "nl": "Tam Khanun Recept | Authentieke Thaise salad",
       "ko": "땀카눈 레시피 | 태국 북부 매콤 잭프루트 샐러드",
-      "th": "สูตรตำขนุน | สลัดไทยแท้"
+      "th": "สูตรตำขนุน | สลัดไทยแท้",
+      "ja": "Tam Khanun レシピ | 本格タイ風サラダ"
     },
     "metaDescription": {
       "en": "Learn about Tam Khanun (ตำขนุน) - Spicy young jackfruit salad...",
       "nl": "Leer over Tam Khanun (ตำขนุน) - Pittige jonge jackfruit salade...",
       "ko": "땀카눈(ตำขนุน) - 덜 익은 잭프루트를 고추, 마늘, 토마토, 라임즙과 함께 절구에 빻아 만든 태국 북부 란나 전통 매콤 샐러드. 레시피와 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับตำขนุน — ตำขนุน สลัดขนุนอ่อนตำรสเผ็ด อาหารอีสานรสจัดจ้าน สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับตำขนุน — ตำขนุน สลัดขนุนอ่อนตำรสเผ็ด อาหารอีสานรสจัดจ้าน สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Tam Khanun（ตำขนุน）について学ぶ。辛味のある若いジャックフルーツのサラダです。"
     }
   },
   "tags": [
@@ -885,6 +888,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Tam Khanun は北部タイの愛される新鮮で生き生きとしたサラダで、辛口で大胆です。辛味のある若いジャックフルーツのサラダです。 このレシピは準備に約20分かかり、北部タイ料理の本格的な味を体現します。北部タイ料理は穏やかな風味、もち米、ハーブで特徴づけられます。若いジャックフルーツ、唐辛子、にんにくの組み合わせが調和のとれたブレンドを作り、この料理を地元の人々と訪問者の双方に好まれる一品にしています。手頃な本格タイ料理を求める人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "若いジャックフルーツ",
+          "purpose": "本格的な Tam Khanun の風味のために不可欠",
+          "substitutes": [
+            "生の若いジャックフルーツ",
+            "乾燥した若いジャックフルーツ",
+            "ジャックフルーツペースト"
+          ]
+        },
+        {
+          "name": "唐辛子",
+          "purpose": "本格的 Tam Khanun の風味に不可欠",
+          "substitutes": [
+            "生の唐辛子",
+            "乾燥唐辛子",
+            "唐辛子ペースト"
+          ]
+        },
+        {
+          "name": "にんにく",
+          "purpose": "本格的 Tam Khanun の風味に不可欠",
+          "substitutes": [
+            "生のにんにく",
+            "乾燥したにんにく",
+            "にんにくペースト"
+          ]
+        },
+        {
+          "name": "ライム果汁",
+          "purpose": "本格的 Tam Khanun の風味に不可欠",
+          "substitutes": [
+            "新鮮なライム果汁",
+            "乾燥ライム果汁",
+            "ライム果汁ペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "新鮮な食材の準備と混合",
+        "steps_overview": "Tam Khanun の準備には細部への注意と適切なタイミングが求められます。要点は、すべての風味のバランスを取りつつ、各材料の食感を保つことです。代々伝わる伝統的な方法が、本格的な味を保証します。",
+        "cooking_tips": [
+          "最高の仕上がりのためには新鮮な若いジャックフルーツを使う",
+          "お好みに合わせて辛さを調整する",
+          "食感を保つために過剰に加熱しない",
+          "提供前に味を試し、味付けを調整する"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tam Khanun は北部タイ料理の伝統的な食文化の長い歴史を持つサラダで、地域独自の料理伝統と地元の素材を反映しています。",
+        "cultural_importance": "この料理は北部タイ料理の核心を成しており、タイ料理が世界的に有名な調和とバランスを体現しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地元の祭り",
+          "屋台市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tam Khanun Classic",
+          "description": "地元の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Tam Khanun Modern",
+          "description": "高級食材を使用した現代的なアレンジ"
+        },
+        {
+          "name": "Vegetarian Tam Khanun",
+          "description": "豆腐やきのこを使った植物ベース版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミン米",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ様式の皿に盛り付け",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンを使用して食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "北部タイの現地レストラン",
+          "本格的な屋台",
+          "伝統市場",
+          "家族経営の飲食店"
+        ],
+        "street_food_areas": [
+          "夜市",
+          "朝市",
+          "地元のフードコート"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

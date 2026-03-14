@@ -6,7 +6,8 @@
     "nl": "Oh Aew",
     "thai": "โอ้เอ๋ว",
     "ko": "오에우",
-    "th": "โอ้เอ๋ว"
+    "th": "โอ้เอ๋ว",
+    "ja": "Oh Aew（オー・アウ）"
   },
   "category": "dessert",
   "region": "southern",
@@ -43,13 +44,15 @@
       "en": "Oh Aew Recipe | Authentic Thai dessert",
       "nl": "Oh Aew Recept | Authentieke Thaise dessert",
       "ko": "오에우 레시피 | 푸켓 올드타운 전통 호끼엔 빙수 디저트",
-      "th": "สูตรโอ้เอ๋ว | ของหวานไทยแท้"
+      "th": "สูตรโอ้เอ๋ว | ของหวานไทยแท้",
+      "ja": "Oh Aewのレシピ | タイ本場デザート"
     },
     "metaDescription": {
       "en": "Learn about Oh Aew (โอ้เอ๋ว) - Shaved ice dessert with jelly made from banana flour...",
       "nl": "Leer over Oh Aew (โอ้เอ๋ว) - IJsdessert met gelei van bananenmeel...",
       "ko": "오에우(โอ้เอ๋ว) - 푸켓 올드타운의 호끼엔 전통 빙수. 오에우 씨앗 젤리, 팥, 선초 젤리, 야자 설탕 시럽. 레시피, 유래, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับโอ้เอ๋ว — โอ้เอ๋ว ขนมหวานน้ำแข็งไสของภูเก็ต ใส่วุ้นจากแป้งกล้วย ราดน้ำเชื่อม สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับโอ้เอ๋ว — โอ้เอ๋ว ขนมหวานน้ำแข็งไสของภูเก็ต ใส่วุ้นจากแป้งกล้วย ราดน้ำเชื่อม สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Oh Aew（โอ้เอ๋ว）について学ぶ。バナナ粉から作るゼリーを乗せた削り氷デザートで、プーケット旧市街を中心に楽しまれています。オリジナルのオー・アウは現地のトッピングとともに、台湾の愛玉ゼリーとつながりを持つ伝統的なデザートです。"
     }
   },
   "tags": [
@@ -926,6 +929,116 @@
       "where_to_find": {
         "best_restaurants": [
           "Oh Ew Paelee (โอ้เอ๋ว แป๊ะหลี) — Thanon Dibuk, Soi Soon Uthit, Phuket Old Town (15 THB)",
+          "Cafe'in — 24 Krabi Road, near Thai Hua Museum, Phuket Old Town (40-80 THB)",
+          "Lock Tien Food Court — Dibuk Road intersection, Phuket Old Town (15-30 THB)",
+          "Cham Cha Market — Ranong Road, Phuket Old Town (15-25 THB)"
+        ],
+        "street_food_areas": [
+          "Phuket Old Town (Thalang Road, Dibuk Road, Krabi Road)",
+          "Sunday Walking Street Market (Thalang Road)",
+          "Lock Tien Food Court area"
+        ],
+        "price_ranges": {
+          "street_food": "10-20 THB",
+          "restaurant": "15-40 THB",
+          "upscale": "40-80 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Oh Aew（オーエウ）は、プーケットを代表する伝統的なデザートで、主にプーケット旧市街で見られる涼感あふれる福建系中国系の削り氷デザートです。 signatureのゼリーは o-aew seeds（つる性のイチジク植物 Ficus pumila var. awkeotsang の種）から作られます。種は約1時間水に浸してゲルを放出させ、バナナジュースと混ぜて種の自然な匂いを中和し、カルシウム硫酸塩を固化剤として加え、約7時間かけてしっかりとした半透明のゼリーに固めます。得られたゼリーは角切りにされ、削り氷の上に赤豆・草ゼリー・パームシュガーシロップをのせて供されます。このデザートは台湾の愛玉ゼリー（愛玉冰）と密接に関連しており、同じ植物科に由来します。Oh Aew は1800年代後半以降、錫鉱ブームの時期に福建系中国系移民がプーケットへ到来した頃から提供されてきました。プーケット旧市街の伝統的な露店では現在も15 THB程度で提供されており、島内で最も手頃で本格的なデザートのひとつとして親しまれています。",
+      "detailed_ingredients": [
+        {
+          "name": "O-Aew種ゼリー",
+          "purpose": "特徴的な要素。蔦植物の種（Ficus pumila var. awkeotsang）を水に約1時間浸してゲルを放出させ、カルシウム硫酸塩で固まらせてしっかりとした半透明のゼリーにする。",
+          "substitutes": [
+            "愛玉ゼリー（同じ植物科の台湾由来）",
+            "寒天ゼリー（異なる食感、プーケット以外で一般的）"
+          ]
+        },
+        {
+          "name": "バナナジュース",
+          "purpose": "種の自然な匂いを中和させるため、種と混ぜる",
+          "substitutes": []
+        },
+        {
+          "name": "小豆",
+          "purpose": "食感と穏やかな甘さを加える定番のトッピング。中国菓子の伝統を反映。",
+          "substitutes": [
+            "黒豆"
+          ]
+        },
+        {
+          "name": "草ゼリー（Chao Kuai）",
+          "purpose": "暗く、やや苦味のあるゼリーで、甘さのバランスと色のコントラストを加える",
+          "substitutes": []
+        },
+        {
+          "name": "削り氷",
+          "purpose": "冷却要素とふわふわした食感を提供",
+          "substitutes": [
+            "砕氷（ふわふわ感は少ない）"
+          ]
+        },
+        {
+          "name": "パームシュガーシロップ",
+          "purpose": "カラメルのような甘さを加える。プーケットの伝統的な露店では地元で作られたパームシュガーが使われる",
+          "substitutes": [
+            "シンプルシロップ",
+            "ココナッツシュガーシロップ"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "種子の浸漬、カルシウム硫酸塩でゼリーを固め、削り氷と組み立てる",
+        "steps_overview": "Oh Aew の作成は時間のかかるプロセスです。蔦性イチジクの o-aew seeds を約1時間水に浸してゲルを放出させ、そのゲルをバナナジュースと混ぜて自然な匂いを中和します。次にカルシウム硫酸塩を凝固剤として加え、約7時間かけて硬く透明なゼリーに固めます。得られたゼリーをキューブ状に切り、削り氷のボウルの上に赤豆・草ゼリーと共に入れ、パームシュガーシロップをかけて仕上げます。",
+        "cooking_tips": [
+          "種を最大限のゲルを放出させるには、最低1時間は完全に浸すこと",
+          "バナナジュースは種の不快な匂いを取り除くために必須",
+          "カルシウム硫酸塩の比率は正確に — 使いすぎるとゼリーがゴム状になる",
+          "固まるまで7時間は必ず待つ; 急ぐと弱いゼリーになる",
+          "盛り付け直前に氷を削ると最高の食感",
+          "パンダン葉や蝶豆花の天然着色料を使って色付きゼリーの variation にする"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Oh Aew は、プーケットへ錫鉱採掘時代の福建系中国系移民が持ち込んだ歴史を持つ。名前は福建語の ò-giô（薁蕘）に由来し、ゼリーを作る種は蔦性イチジクの植物（Ficus pumila var. awkeotsang）の種である。デザートは台湾の愛玉ゼリーと密接に関連しており、両者は同じ植物科に由来する。時を経て、プーケット版は小豆や草ゼリーなど地元のトッピングが加わり、独自のアイデンティティを育んできた。",
+        "cultural_importance": "Oh Aew はプーケットのペラナカン文化（Baba-Nyonya）の生きた象徴であり、中国系移民と地元のタイ・マレー系共同体の結婚から生まれた独自の文化を体現している。デザートはプーケット以外ではほとんど見られず、地域の名物としての地位を確立している。福建料理の伝統がプーケット旧市街の食文化を形成した要素であり、Hokkien Mee や Mee Hun などの伝統料理とも深く結びついている。",
+        "traditional_occasions": [
+          "プーケット精進料理祭（เทศกาลกินเจ）",
+          "プーケットの暑さを癒す午後のひととき",
+          "プーケット旧市街の日曜ウォーキングストリート",
+          "Dibuk Road 近くの学校帰りのおやつ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Oh Aew Boran（伝統）",
+          "description": "オーエウ種ゼリー、赤豆、草ゼリー、削り氷、パームシュガーシロップの伝統的な組み合わせ。Oh Ew Paeleeのような露店で提供されるclassicバージョン。"
+        },
+        {
+          "name": "Oh Aew Nam Kathi",
+          "description": "ココナッツミルクを加えてリッチ感を出したバージョン。市場の露店で見かけることがある。"
+        },
+        {
+          "name": "Oh Aew Modern/Creative",
+          "description": "タロイモ、サツマイモ、フルーツなどのトッピングを加えたカフェ風の現代版。Cafe'in など現代カフェで見られることがある。"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "赤豆（定番トッピング）",
+          "草ゼリー / chao kuai（定番トッピング）",
+          "パームシュガーシロップ",
+          "ココナッツミルク（Nam Kathi 版のみ optional）"
+        ],
+        "presentation": "ボウルまたはカップに削り氷を上にのせ、ゼリーと豆が氷の中に透けて見える状態で盛り付ける",
+        "eating_etiquette": "食べる前に優しく混ぜてシロップを均等に行き渡らせ、氷がまだふわふわのうちにすぐ食べるのがベスト"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Oh Ew Paelee（โอ้เอ๋ว แป๊ะหลี）— Thanon Dibuk, Soi Soon Uthit, Phuket Old Town (15 THB)",
           "Cafe'in — 24 Krabi Road, near Thai Hua Museum, Phuket Old Town (40-80 THB)",
           "Lock Tien Food Court — Dibuk Road intersection, Phuket Old Town (15-30 THB)",
           "Cham Cha Market — Ranong Road, Phuket Old Town (15-25 THB)"

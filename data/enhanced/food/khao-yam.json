@@ -6,7 +6,8 @@
     "nl": "Khao Yam",
     "thai": "ข้าวยำ",
     "ko": "카오얌",
-    "th": "ข้าวยำ"
+    "th": "ข้าวยำ",
+    "ja": "Khao Yam（カオヤム）"
   },
   "category": "salad",
   "region": "southern",
@@ -38,13 +39,15 @@
       "en": "Khao Yam Recipe | Authentic Thai salad",
       "nl": "Khao Yam Recept | Authentieke Thaise salad",
       "ko": "카오얌 레시피 | 정통 태국 남부 쌀 샐러드",
-      "th": "สูตรข้าวยำ | สลัดไทยแท้"
+      "th": "สูตรข้าวยำ | สลัดไทยแท้",
+      "ja": "カオヤム レシピ | 本格タイ風サラダ"
     },
     "metaDescription": {
       "en": "Learn about Khao Yam (ข้าวยำ) - Southern Thai rice salad with herbs and coconut...",
       "nl": "Leer over Khao Yam (ข้าวยำ) - Zuidelijke Thaise rijstsalade met kruiden en kokos...",
       "ko": "카오얌(ข้าวยำ) - 허브, 코코넛, 건새우를 곁들인 태국 남부 전통 쌀 샐러드. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับข้าวยำ — ข้าวยำสไตล์ใต้ ข้าวสวยคลุกกับสมุนไพรสด มะพร้าวคั่ว น้ำบูดู รสสดชื่น สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับข้าวยำ — ข้าวยำสไตล์ใต้ ข้าวสวยคลุกกับสมุนไพรสด มะพร้าวคั่ว น้ำบูดู รสสดชื่น สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "南部タイのライスサラダ、香草とココナツを使ったKhao Yam（ข้าวยำ）について解説します。"
     }
   },
   "tags": [
@@ -870,6 +873,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Khao Yamは、南部タイの新鮮で活気あるサラダで、穏やかな温かみを持ちます。香草とココナツを使った南部タイのライスサラダです。このレシピは約30分で準備でき、南部タイ料理の本格的な味を代表します。強いスパイス、魚介類、ココナツベースのカレーが特徴で、米・ココナツ・香草の組み合わせが調和を生み、地元の人々や訪問者の間で長く愛されてきました。お手頃な価格で本場のタイ料理を楽しみたい方に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "米",
+          "purpose": "本格的なKhao Yamの風味を作るうえで不可欠。",
+          "substitutes": [
+            "生米",
+            "乾燥米",
+            "米ペースト"
+          ]
+        },
+        {
+          "name": "ココナッツ",
+          "purpose": "本格的なKhao Yamの風味を作るうえで不可欠。",
+          "substitutes": [
+            "生ココナッツ",
+            "乾燥ココナッツ",
+            "ココナツペースト"
+          ]
+        },
+        {
+          "name": "香草",
+          "purpose": "本格的なKhao Yamの風味を作るうえで不可欠。",
+          "substitutes": [
+            "生の香草",
+            "乾燥香草",
+            "香草ペースト"
+          ]
+        },
+        {
+          "name": "干しエビ",
+          "purpose": "本格的なKhao Yamの風味を作るうえで不可欠。",
+          "substitutes": [
+            "生エビ",
+            "乾燥エビ",
+            "干しエビペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "新鮮な材料の準備と混ぜ合わせ",
+        "steps_overview": "Khao Yamを作るには、細部に注意し適切なタイミングで仕上げることが重要です。すべての風味のバランスを取りつつ、各材料の食感を保つことがカギとなります。世代を超えて受け継がれてきた伝統的な技法が、本場の味を保証します。",
+        "cooking_tips": [
+          "最良の結果のために米は新米を使う",
+          "辛さはお好みで調整する",
+          "食感を保つために過度に加熱しない",
+          "盛り付け前に味を確かめ、調味を調整する"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Yamは南部タイ料理の世代を超える定番で、地域の独自の料理伝統と地元の材料を反映しています。",
+        "cultural_importance": "この料理は南部タイ料理の心臓部を象徴しており、世界中で有名なタイ料理の調和とバランスを体現しています。",
+        "traditional_occasions": [
+          "家族の集い",
+          "地域の祭り",
+          "屋台市場",
+          "特別な祝宴"
+        ]
+      },
+      "variations": [
+        {
+          "name": "カオヤム・クラシック",
+          "description": "地元の家庭で伝統的に提供されるバージョン"
+        },
+        {
+          "name": "カオヤム・モダン",
+          "description": "高級素材を使った現代的なアレンジ版"
+        },
+        {
+          "name": "ベジタリアン・カオヤム",
+          "description": "豆腐やキノコを使った植物ベースのバージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "生野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "タイ式の伝統的な皿盛りで提供されます",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンで食べます"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local southern Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

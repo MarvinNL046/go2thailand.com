@@ -6,7 +6,8 @@
     "nl": "Moo Hong",
     "thai": "หมูฮ้อง",
     "ko": "무홍",
-    "th": "หมูฮ้อง"
+    "th": "หมูฮ้อง",
+    "ja": "Moo Hong（ムー・ホン）"
   },
   "category": "main-dish",
   "region": "southern",
@@ -36,13 +37,15 @@
       "en": "Moo Hong Recipe | Authentic Thai main dish",
       "nl": "Moo Hong Recept | Authentieke Thaise main dish",
       "ko": "무홍 레시피 | 정통 푸켓 간장 삼겹살 조림",
-      "th": "สูตรหมูฮ้อง | อาหารจานหลักไทยแท้"
+      "th": "สูตรหมูฮ้อง | อาหารจานหลักไทยแท้",
+      "ja": "Moo Hong レシピ | 本格タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Moo Hong (หมูฮ้อง) - Braised pork belly in sweet soy sauce Phuket style...",
       "nl": "Leer over Moo Hong (หมูฮ้อง) - Gestoofd varkensbuik in zoete sojasaus Phuket stijl...",
       "ko": "무홍(หมูฮ้อง) - 달콤한 간장 소스에 오래 조린 푸켓 스타일 삼겹살. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับหมูฮ้อง — หมูฮ้อง หมูสามชั้นตุ๋นซีอิ๊วหวานสไตล์ภูเก็ต เนื้อนุ่มเปื่อยรสหวานเค็ม สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับหมูฮ้อง — หมูฮ้อง หมูสามชั้นตุ๋นซีอิ๊วหวานสไตล์ภูเก็ต เนื้อนุ่มเปื่อยรสหวานเค็ม สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "ムー・ホン（หมูฮ้อง）とは？プーケット風の甘い醤油で豚バラ肉を煮込んだタイ南部の郷土料理です。"
     }
   },
   "tags": [
@@ -865,6 +868,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Moo Hongは、タイ南部の家庭で親しまれる、温かみのあるボリューム満点の主菜です。プーケット風の甘い醤油で煮込んだ豚バラ肉。中程度の難易度のレシピで、準備には約90分を要します。南タイ料理の本格的な風味を表現し、強い香辛料、海鮮、ココナツベースのカレーが特徴です。豚バラ肉、醤油、パームシュガーの組み合わせが調和のとれた風味を生み出し、地元の人々にも訪問者にも人気の料理となっています。手頃な価格で本格的なタイ料理を求める人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "豚バラ肉",
+          "purpose": "本格的な Moo Hong の風味に不可欠",
+          "substitutes": [
+            "新鮮な豚バラ肉",
+            "乾燥豚バラ肉",
+            "豚バラペースト"
+          ]
+        },
+        {
+          "name": "醤油",
+          "purpose": "本格的な Moo Hong の風味に不可欠",
+          "substitutes": [
+            "生しょうゆ",
+            "乾燥しょうゆ",
+            "しょうゆペースト"
+          ]
+        },
+        {
+          "name": "パームシュガー",
+          "purpose": "本格的な Moo Hong の風味に不可欠",
+          "substitutes": [
+            "新鮮なパームシュガー",
+            "乾燥パームシュガー",
+            "パームシュガーペースト"
+          ]
+        },
+        {
+          "name": "にんにく",
+          "purpose": "本格的な Moo Hong の風味に不可欠",
+          "substitutes": [
+            "新鮮なにんにく",
+            "乾燥にんにく",
+            "にんにくペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒め煮またはグリル",
+        "steps_overview": "Moo Hongを作るには、細部に注意を払い、適切なタイミングが重要です。全体の風味のバランスを取りつつ、各材料の食感を保つことが鍵です。代々受け継がれてきた伝統的な手法が、本格的な味を保証します。",
+        "cooking_tips": [
+          "新鮮な豚バラ肉を使うと最良の結果",
+          "スパイスの辛さはお好みに合わせて調整",
+          "食感を保つために煮過ぎない",
+          "盛り付け前に味を見て調整"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "ムー・ホンは何世代にもわたりタイ南部の料理の主軸であり、その地域独自の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理はタイ南部料理の核心を成しており、タイ料理が世界中で有名な“調和とバランス”を体現しています。",
+        "traditional_occasions": [
+          "家族の集い",
+          "地域の祭り",
+          "路上の屋台市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Hong Classic",
+          "description": "地元の家庭で伝統的に提供されるオーソドックスな版"
+        },
+        {
+          "name": "Moo Hong Modern",
+          "description": "プレミアム素材を用いた現代的なアレンジ"
+        },
+        {
+          "name": "Vegetarian Moo Hong",
+          "description": "豆腐またはキノコを使ったベジタリアン版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイハーブ"
+        ],
+        "presentation": "伝統的なタイ風の盛り付けで皿に盛り付け",
+        "eating_etiquette": "タイの習慣に従い、フォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local southern Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "50-80 THB",

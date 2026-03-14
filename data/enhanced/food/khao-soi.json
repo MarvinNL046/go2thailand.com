@@ -6,7 +6,8 @@
     "nl": "Khao Soi",
     "thai": "ข้าวซอย",
     "ko": "카오소이",
-    "th": "ข้าวซอย"
+    "th": "ข้าวซอย",
+    "ja": "カオソーイ"
   },
   "category": "soup",
   "region": "northern",
@@ -37,13 +38,15 @@
       "en": "Khao Soi Recipe | Authentic Thai soup",
       "nl": "Khao Soi Recept | Authentieke Thaise soup",
       "ko": "카오소이 레시피 | 정통 태국 북부 코코넛 커리 누들",
-      "th": "สูตรข้าวซอย | ซุปไทยแท้"
+      "th": "สูตรข้าวซอย | ซุปไทยแท้",
+      "ja": "カオソーイのレシピ | 本格タイ料理のスープ"
     },
     "metaDescription": {
       "en": "Learn about Khao Soi (ข้าวซอย) - Creamy coconut curry noodle soup with crispy noodles on top...",
       "nl": "Leer over Khao Soi (ข้าวซอย) - Romige kokoscurry-noedelsoep met krokante noedels bovenop...",
       "ko": "카오소이(ข้าวซอย) - 바삭한 튀김 면을 올린 크리미한 코코넛 커리 누들 수프. 치앙마이 대표 요리의 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับข้าวซอย — ข้าวซอยเชียงใหม่ ก๋วยเตี๋ยวแกงกะทิข้นเข้มโรยบะหมี่กรอบ อาหารเหนือขึ้นชื่อ สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับข้าวซอย — ข้าวซอยเชียงใหม่ ก๋วยเตี๋ยวแกงกะทิข้นเข้มโรยบะหมี่กรอบ อาหารเหนือขึ้นชื่อ สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "カオソーイ（ข้าวซอย）について学びましょう。上にカリカリの揚げ麺をのせた、ココナッツミルク入りのクリーミーなカレー風味のヌードルスープです。"
     }
   },
   "tags": [
@@ -867,6 +870,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "カオソーイは北部タイの心を温めるスープで、適度な辛さが特徴です。上にカリカリの揚げ麺をのせた、ココナッツミルク入りのクリーミーなカレー風味のヌードルスープです。中程度のレシピで準備には約35分かかります。本格的な北タイ料理の風味は、穏やかな味わい、もち米、ハーブで特徴づけられます。卵麺、ココナッツミルク、カレーペーストの組み合わせは、調和のとれた味わいを生み出し、この料理を地元民と訪問者の双方に愛されるものにしています。手頃な価格で本格的なタイ料理を楽しみたい人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "卵麺",
+          "purpose": "本格的なカオソーイの風味には欠かせない",
+          "substitutes": [
+            "新鮮な卵麺",
+            "乾燥卵麺",
+            "卵麺ペースト"
+          ]
+        },
+        {
+          "name": "ココナッツミルク",
+          "purpose": "本格的なカオソーイの風味には欠かせない",
+          "substitutes": [
+            "新鮮なココナッツミルク",
+            "乾燥ココナッツミルク",
+            "ココナッツミルクペースト"
+          ]
+        },
+        {
+          "name": "カレーペースト",
+          "purpose": "本格的なカオソーイの風味には欠かせない",
+          "substitutes": [
+            "新鮮なカレーペースト",
+            "乾燥カレーペースト",
+            "カレーペーストペースト"
+          ]
+        },
+        {
+          "name": "鶏肉",
+          "purpose": "本格的なカオソーイの風味には欠かせない",
+          "substitutes": [
+            "新鮮な鶏肉",
+            "乾燥鶏肉",
+            "鶏肉ペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "煮込みと風味の層を重ねる調理法",
+        "steps_overview": "カオソーイの準備には細部への注意と適切なタイミングが必要です。鍵は、すべての風味をバランスさせつつ、各材料の食感を保つことです。代々伝わる伝統的な方法が、本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果を得るには新鮮な卵麺を使用する",
+          "辛さはお好みに合わせて調整する",
+          "食感を保つために過剰に煮過ぎない",
+          "提供前に味を試して味を整える"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "カオソーイは何世代にもわたり北タイ料理の定番であり、地域独自の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は北タイ料理の核心を表しており、タイ料理が世界的に有名なバランスと調和を体現しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地域の祭り",
+          "路上市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Soi Classic",
+          "description": "地元の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Khao Soi Modern",
+          "description": "高級素材を使った現代的なひねり"
+        },
+        {
+          "name": "Vegetarian Khao Soi",
+          "description": "豆腐やキノコを使った植物ベースのバージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ風の器でボウルに盛り付ける",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local northern Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

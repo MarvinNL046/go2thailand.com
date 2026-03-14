@@ -6,7 +6,8 @@
     "nl": "Sukhothai Noedels",
     "thai": "ก๋วยเตี๋ยวสุโขทัย",
     "ko": "꾸어이띠아오 수코타이",
-    "th": "ก๋วยเตี๋ยวสุโขทัย"
+    "th": "ก๋วยเตี๋ยวสุโขทัย",
+    "ja": "Sukhothai Noodles（スコータイヌードル）"
   },
   "category": "soup",
   "region": "northern",
@@ -38,13 +39,15 @@
       "en": "Sukhothai Noodles Recipe | Authentic Thai soup",
       "nl": "Sukhothai Noedels Recept | Authentieke Thaise soup",
       "ko": "수코타이 누들 레시피 | 수코타이 명물 땅콩 쌀국수",
-      "th": "สูตรก๋วยเตี๋ยวสุโขทัย | ซุปไทยแท้"
+      "th": "สูตรก๋วยเตี๋ยวสุโขทัย | ซุปไทยแท้",
+      "ja": "Sukhothai Noodles レシピ | 本格的なタイ風スープ"
     },
     "metaDescription": {
       "en": "Learn about Sukhothai Noodles (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai style noodles with ground peanuts...",
       "nl": "Leer over Sukhothai Noedels (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai stijl noedels met gemalen pinda's...",
       "ko": "꾸어이띠아오 수코타이(ก๋วยเตี๋ยวสุโขทัย) - 갈은 땅콩, 돼지고기, 풋콩, 라임을 넣은 수코타이 고유의 면 요리. 역사적 수도에서 탄생한 레시피와 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับก๋วยเตี๋ยวสุโขทัย — ก๋วยเตี๋ยวสุโขทัย เส้นเล็กน้ำใสหวานอมเปรี้ยว โรยถั่วลิสงป่น หมูสับ สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับก๋วยเตี๋ยวสุโขทัย — ก๋วยเตี๋ยวสุโขทัย เส้นเล็กน้ำใสหวานอมเปรี้ยว โรยถั่วลิสงป่น หมูสับ สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Sukhothai Noodles（ก๋วยเตี๋ยวสุโขทัย）について知る。北タイ風ヌードルと挽きピーナッツを使ったソースの組み合わせをご紹介します。"
     }
   },
   "tags": [
@@ -868,6 +871,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Sukhothai Noodles は、穏やかな温かさを持つ北タイの心温まる定番スープです。スコータイ風のヌードルは挽きピーナッツを使ったソースが特徴です。この簡単なレシピは約20分で用意でき、北タイ料理の本格的な味を体現します。北タイ料理は比較的穏やかな風味、もち米、ハーブを特徴とします。米麺と豚肉、挽きピーナッツの組み合わせは調和のとれたブレンドを生み、この料理を地元の人々や訪問者の間で人気の一品にしています。手頃で本格的なタイ料理を求める人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "Rice noodles",
+          "purpose": "本格的な Sukhothai Noodles の風味に欠かせない",
+          "substitutes": [
+            "生米麺",
+            "乾燥米麺",
+            "米麺ペースト"
+          ]
+        },
+        {
+          "name": "Pork",
+          "purpose": "本格的な Sukhothai Noodles の風味に欠かせない",
+          "substitutes": [
+            "生の豚肉",
+            "乾燥豚肉",
+            "豚肉ペースト"
+          ]
+        },
+        {
+          "name": "Ground peanuts",
+          "purpose": "本格的な Sukhothai Noodles の風味に欠かせない",
+          "substitutes": [
+            "挽きたてのピーナッツ",
+            "乾燥挽きピーナッツ",
+            "挽きピーナッツペースト"
+          ]
+        },
+        {
+          "name": "Green beans",
+          "purpose": "本格的な Sukhothai Noodles の風味に欠かせない",
+          "substitutes": [
+            "生のさやいんげん",
+            "乾燥いんげん豆",
+            "いんげん豆ペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "煮込みと風味の層を重ねる",
+        "steps_overview": "Sukhothai Noodles の準備には細部と適切なタイミングが求められます。全ての風味をバランスよく整え、各材料の食感を保つことが要点です。長年にわたり伝統的に受け継がれてきた方法で本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の仕上がりには生米麺を使用してください",
+          "辛さはお好みに合わせて調整してください",
+          "食感を保つために過剰に煮過ぎないでください",
+          "盛り付け前に味を試して調整してください"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sukhothai Noodles は世代を超えて北タイ料理の定番であり、地域の独自の料理伝統と地元の素材を反映しています。",
+        "cultural_importance": "この料理は北タイ料理の要を象徴しており、タイ料理が世界的に有名なバランスと調和を体現しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地元の祭り",
+          "屋台市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sukhothai Noodles Classic",
+          "description": "地元の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Sukhothai Noodles Modern",
+          "description": "プレミアム食材を使った現代風のひねり"
+        },
+        {
+          "name": "Vegetarian Sukhothai Noodles",
+          "description": "豆腐やキノコを使った植物ベースの版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ風の器に盛り付けられたボウルで提供",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンで食べます"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local northern Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

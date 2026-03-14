@@ -6,7 +6,8 @@
     "nl": "Goong Pad Makham",
     "thai": "กุ้งผัดมะขาม",
     "ko": "꿍팟마캄",
-    "th": "กุ้งผัดมะขาม"
+    "th": "กุ้งผัดมะขาม",
+    "ja": "Goong Pad Makham（グーン・パッド・マカム）"
   },
   "category": "main-dish",
   "region": "southern",
@@ -38,13 +39,15 @@
       "en": "Goong Pad Makham Recipe | Authentic Thai main dish",
       "nl": "Goong Pad Makham Recept | Authentieke Thaise main dish",
       "ko": "꿍팟마캄 레시피 | 정통 태국 타마린드 새우 볶음",
-      "th": "สูตรกุ้งผัดมะขาม | อาหารจานหลักไทยแท้"
+      "th": "สูตรกุ้งผัดมะขาม | อาหารจานหลักไทยแท้",
+      "ja": "Goong Pad Makham レシピ | 本格タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Goong Pad Makham (กุ้งผัดมะขาม) - Prawns stir-fried in tangy tamarind sauce...",
       "nl": "Leer over Goong Pad Makham (กุ้งผัดมะขาม) - Garnalen geroerbakt in pittige tamarindesaus...",
       "ko": "꿍팟마캄(กุ้งผัดมะขาม) - 새콤달콤한 타마린드 소스에 볶은 새우 요리. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับกุ้งผัดมะขาม — กุ้งผัดซอสมะขามเปรี้ยวหวาน กุ้งตัวโตเนื้อแน่น ผัดกับซอสมะขามรสกลมกล่อม สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับกุ้งผัดมะขาม — กุ้งผัดซอสมะขามเปรี้ยวหวาน กุ้งตัวโตเนื้อแน่น ผัดกับซอสมะขามรสกลมกล่อม สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Goong Pad Makham（กุ้งผัดมะขาม）について知ろう。酸味のあるタマリンドソースでエビを炒める、南部タイ料理の主菜のレシピです。"
     }
   },
   "tags": [
@@ -869,6 +872,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Goong Pad Makhamは、南部タイの伝統的でボリューム感のある主菜として長く愛されており、ほのかな温かみを持っています。タマリンドの酸味ソースでエビを炒める料理です。この簡単なレシピは準備時間およそ15分で、南部タイ料理の本格的な風味を味わえる一品です。香り高いスパイスと海産物、ココナツをベースにしたカレーの特徴を併せ持ちます。エビ、タマリンドペースト、パームシュガーの組み合わせは調和のとれた風味を生み出し、地元の人々と観光客の双方にこの料理を愛される定番にしています。手頃な価格で本格的タイ料理を楽しみたい人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "エビ",
+          "purpose": "本格的なGoong Pad Makhamの風味を引き出すために不可欠",
+          "substitutes": [
+            "新鮮なエビ",
+            "乾燥エビ",
+            "エビペースト"
+          ]
+        },
+        {
+          "name": "タマリンドペースト",
+          "purpose": "本格的なGoong Pad Makhamの風味を引き出すために不可欠",
+          "substitutes": [
+            "新鮮なタマリンドペースト",
+            "乾燥タマリンドペースト",
+            "タマリンドペースト"
+          ]
+        },
+        {
+          "name": "パームシュガー",
+          "purpose": "本格的なGoong Pad Makhamの風味を引き出すために不可欠",
+          "substitutes": [
+            "新鮮なパームシュガー",
+            "乾燥パームシュガー",
+            "パームシュガーペースト"
+          ]
+        },
+        {
+          "name": "ナンプラー",
+          "purpose": "本格的なGoong Pad Makhamの風味を引き出すために不可欠",
+          "substitutes": [
+            "新鮮なナンプラー",
+            "乾燥ナンプラー",
+            "ナンプラーペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒め物・焼き物",
+        "steps_overview": "Goong Pad Makhamの準備には、細部とタイミングに注意することが鍵です。全ての風味をバランス良く引き出しつつ、素材それぞれの食感を保つことが重要です。世代を超えて伝わる伝統的な手法が、本格的な味を確実にします。",
+        "cooking_tips": [
+          "最良の結果を得るには新鮮なエビを使用する",
+          "辛さはお好みに合わせて調整",
+          "食感を保つために長く火を通しすぎない",
+          "提供前に味を確かめ、調味を調整"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Goong Pad Makhamは、何世代にもわたり南部タイ料理の主力であり、地域独自の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は、世界的に有名なタイ料理の調和とバランスを体現する、南部タイ料理の中心を象徴しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地元の祭り",
+          "屋台市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Goong Pad Makham Classic",
+          "description": "地元の家庭で提供される伝統的なスタイル"
+        },
+        {
+          "name": "Goong Pad Makham Modern",
+          "description": "高品質な食材を使った現代的なアレンジ"
+        },
+        {
+          "name": "Vegetarian Goong Pad Makham",
+          "description": "豆腐やきのこを使った植物性バージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "生野菜",
+          "タイハーブ"
+        ],
+        "presentation": "タイの伝統的な盛り付けで皿に盛りつけ",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンで楽しむ"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local southern Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "50-80 THB",

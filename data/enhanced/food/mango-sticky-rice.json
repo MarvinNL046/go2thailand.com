@@ -6,7 +6,8 @@
     "nl": "Mango Sticky Rice",
     "thai": "ข้าวเหนียวมะม่วง",
     "ko": "카오니아오 마무앙",
-    "th": "ข้าวเหนียวมะม่วง"
+    "th": "ข้าวเหนียวมะม่วง",
+    "ja": "マンゴー・スティッキー・ライス"
   },
   "category": "dessert",
   "region": "central",
@@ -37,13 +38,15 @@
       "en": "Mango Sticky Rice Recipe | Authentic Thai dessert",
       "nl": "Mango Sticky Rice Recept | Authentieke Thaise dessert",
       "ko": "카오니아오 마무앙 레시피 | 정통 태국 망고 찹쌀 디저트",
-      "th": "สูตรข้าวเหนียวมะม่วง | ของหวานไทยแท้"
+      "th": "สูตรข้าวเหนียวมะม่วง | ของหวานไทยแท้",
+      "ja": "マンゴー・スティッキー・ライスのレシピ | 本格タイ料理デザート"
     },
     "metaDescription": {
       "en": "Learn about Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Sweet sticky rice served with fresh mango slices and coconut cream...",
       "nl": "Leer over Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom...",
       "ko": "카오니아오 마무앙(ข้าวเหนียวมะม่วง) - 신선한 망고 슬라이스와 코코넛 크림을 곁들인 태국 대표 디저트. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับข้าวเหนียวมะม่วง — ข้าวเหนียวมะม่วง ข้าวเหนียวนึ่งราดกะทิหวานเสิร์ฟกับมะม่วงสุกหอมหวาน สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับข้าวเหนียวมะม่วง — ข้าวเหนียวมะม่วง ข้าวเหนียวนึ่งราดกะทิหวานเสิร์ฟกับมะม่วงสุกหอมหวาน สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "マンゴー・スティッキー・ライス（ข้าวเหนียวมะม่วง）について学ぶ - 新鮮なマンゴーのスライスとココナッツクリームを添えた甘いもち米デザートの紹介..."
     }
   },
   "tags": [
@@ -776,6 +779,97 @@
           "Thonglor Street vendors (April-June)",
           "Chatuchak Weekend Market",
           "Any fresh market during mango season"
+        ],
+        "price_ranges": {
+          "street_food": "50-80 THB ($1.50-$2.40)",
+          "restaurant": "120-200 THB ($3.60-$6)",
+          "upscale": "250-400 THB ($7.50-$12)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "カオ・ニャオ・マムアン（マンゴー・スティッキー・ライス）はタイで最も愛されるデザートで、質の高い材料と正確な技術によって成立する、見た目にはシンプルな組み合わせです。甘いココナツミルクに包まれたもち米と、完熟したマンゴーが風味と食感の調和を生み出し、タイ菓子の本質をとらえています。甘さは強すぎず、自然な香りづけで、季節の変化に依存します。",
+      "detailed_ingredients": [
+        {
+          "name": "Nam Dok Mai Mango（ナム・ドーク・マイ・マンゴー）",
+          "purpose": "タイ産の高級マンゴー品種で、甘く滑らか、繊維が少ない",
+          "substitutes": [
+            "Ok Rongマンゴー（オークロンマンゴー）",
+            "Ataulfoマンゴー",
+            "熟して甘いマンゴーなら何でも"
+          ]
+        },
+        {
+          "name": "Glutinous Rice（もち米）",
+          "purpose": "蒸すとクリーミーになる特別なもち米",
+          "substitutes": [
+            "代替となる実質的なものはなし - 普通のお米では代用不可",
+            "日本のもち米（食感が異なる）"
+          ]
+        },
+        {
+          "name": "Coconut Cream（ココナッツクリーム）",
+          "purpose": "全体をまとめるリッチなトッピング",
+          "substitutes": [
+            "濃厚なココナッツミルク",
+            "軽めにはカシューナッツクリーム"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "蒸しと丁寧なタイミング",
+        "steps_overview": "もち米は一晩以上水に浸してから竹籠で蒸します。温かいうちに砂糖で味付けしたココナッツミルクと混ぜ、風味を米に吸収させます。マンゴーは完熟度が高く、切りやすく香り高い状態である必要があります。",
+        "cooking_tips": [
+          "米は最低8時間以上浸水させる - 一晩が最適です",
+          "本格的な風味のため竹籠で蒸す",
+          "米が温かいうちにココナッツソースを混ぜる",
+          "茎元から甘い香りがするマンゴーを選ぶ",
+          "室温で提供、冷たくしない"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "起源は王宮で、最高級のマンゴーが貴族のために温存されていた時代にさかのぼります。この料理はマンゴーの季節（4月〜5月）を祝うもので、タイの新年ソンクランと重なる時期でもあります。",
+        "cultural_importance": "このデザートはタイの農業の豊穣さと季節性の重要性を象徴します。年中常に提供されているわけではなく、マンゴーが熟した時期にしか味わえない貴重な一品です。",
+        "traditional_occasions": [
+          "ソンクラン祭り",
+          "マンゴーの季節の祝い",
+          "寺院への供え物",
+          "特別な occasion デザート"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Niao Thurian（カオニオ・トゥリアン）",
+          "description": "デュリアン版 - 果物愛好者向け"
+        },
+        {
+          "name": "Khao Niao Dam（カオニオ・ダム）",
+          "description": "黒もち米を使ったよりナッツのような風味のバージョン"
+        },
+        {
+          "name": "Khao Niao Moon（カオニオ・ムーン）",
+          "description": "追加のパンダン風味カスタードを加えたバージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜"
+        ],
+        "presentation": "伝統的なタイ風の熱々で盛り付ける",
+        "eating_etiquette": "フォークとスプーンを使って食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Mae Varee (Bangkok) - 最も有名なマンゴー・スティッキー・ライスのお店",
+          "Kor Panich (Bangkok) - 1947年創業",
+          "After You Dessert Cafe - 現代的な解釈"
+        ],
+        "street_food_areas": [
+          "Thonglor Street vendors（4月-6月）",
+          "Chatuchak Weekend Market（チャトゥチャック・ウィークエンド・マーケット）",
+          "マンゴーの季節には、どの新鮮市場でも"
         ],
         "price_ranges": {
           "street_food": "50-80 THB ($1.50-$2.40)",

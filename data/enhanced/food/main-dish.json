@@ -7,7 +7,12 @@
       "nl": "Pad Krapow",
       "thai": "ผัดกะเพรา",
       "ko": "팟끄라파오",
-      "th": "ผัดกะเพรา"
+      "th": "ผัดกะเพรา",
+      "zh": "泰式罗勒炒肉末",
+      "de": "Thai-Basilikum-Hackfleisch-Pfanne",
+      "fr": "Basilic thaï sauté (Pad Krapow) au porc ou poulet",
+      "ru": "Пад Крапоу",
+      "ja": "ガパオライス"
     },
     "category": "main-dish",
     "region": "central",
@@ -16,7 +21,12 @@
       "en": "Stir-fried Thai basil with minced pork or chicken served over rice with a fried egg",
       "nl": "Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei",
       "ko": "다진 돼지고기 또는 닭고기를 태국 바질과 함께 볶아 밥과 계란프라이 위에 올린 요리",
-      "th": "ผัดกะเพราหมูสับ ผัดใบกะเพราหอมฉุน เสิร์ฟบนข้าวสวยร้อนๆ ราดไข่ดาว"
+      "th": "ผัดกะเพราหมูสับ ผัดใบกะเพราหอมฉุน เสิร์ฟบนข้าวสวยร้อนๆ ราดไข่ดาว",
+      "zh": "用猪肉末或鸡肉炒香罗勒叶，盖浇在米饭上并附煎蛋。",
+      "de": "Gebratenes Thai-Basilikum-Hackfleisch (Schweine- oder Hähnchenhackfleisch), serviert über Reis mit Spiegelei",
+      "fr": "Basilic thaï sauté avec du porc ou du poulet haché, servi sur du riz avec un œuf frit",
+      "ru": "Жареный тайский базилик с фаршем из свинины или курицы, подается на рисе с жареным яйцом.",
+      "ja": "タイバジルと挽き肉（豚肉または鶏肉）を炒め、ライスの上に目玉焼きをのせて提供されるタイ料理。"
     },
     "ingredients": [
       "thai basil",
@@ -80,7 +90,12 @@
       "nl": "Pad Thai",
       "thai": "ผัดไทย",
       "ko": "팟타이",
-      "th": "ผัดไทย"
+      "th": "ผัดไทย",
+      "zh": "泰式炒米粉",
+      "de": "Gebratene Reisnudeln mit Tofu oder Garnelen, Sprossen und Tamarindensoße",
+      "fr": "Pad thaï",
+      "ru": "Пад Тай",
+      "ja": "パッタイ"
     },
     "category": "main-dish",
     "region": "central",
@@ -89,7 +104,12 @@
       "en": "Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce",
       "nl": "Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus",
       "ko": "두부 또는 새우, 숙주나물, 타마린드 소스를 넣은 볶음 쌀국수",
-      "th": "ผัดไทย เส้นจันท์ผัดกับเต้าหู้หรือกุ้ง ถั่วงอก ซอสมะขาม รสเปรี้ยวหวานเค็ม"
+      "th": "ผัดไทย เส้นจันท์ผัดกับเต้าหู้หรือกุ้ง ถั่วงอก ซอสมะขาม รสเปรี้ยวหวานเค็ม",
+      "zh": "将米粉与豆腐或虾、豆芽以及酸角酱一同炒制。",
+      "de": "Gebratene Reisnudeln mit Tofu oder Garnelen, Sprossen und Tamarindensoße",
+      "fr": "Nouilles de riz sautées avec tofu ou crevettes, germes de soja et sauce tamarin",
+      "ru": "Жареные рисовые лапши с тофу или креветками, проростками фасоли и тамариндовым соусом.",
+      "ja": "豆腐またはエビ、もやしとともに炒めた米麺のタイ風焼きそば、タマリンドソース入り。"
     },
     "ingredients": [
       "rice noodles",
@@ -160,7 +180,12 @@
       "nl": "Pad See Ew",
       "thai": "ผัดซีอิ๊ว",
       "ko": "팟씨유",
-      "th": "ผัดซีอิ๊ว"
+      "th": "ผัดซีอิ๊ว",
+      "zh": "黑酱炒宽米粉",
+      "de": "Breite Reisnudeln in dunkler Sojasauce mit Chinakohl und Ei",
+      "fr": "Nouilles épaisses sautées au soja noir (Pad See Ew)",
+      "ru": "Пад Си Еу",
+      "ja": "パッシーウー"
     },
     "category": "main-dish",
     "region": "central",
@@ -169,7 +194,12 @@
       "en": "Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg",
       "nl": "Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei",
       "ko": "넓은 쌀국수를 간장 소스에 볶은 요리",
-      "th": "ผัดซีอิ๊ว เส้นใหญ่ผัดซีอิ๊วดำกับคะน้าและไข่ รสหวานเค็มกลมกล่อม"
+      "th": "ผัดซีอิ๊ว เส้นใหญ่ผัดซีอิ๊วดำกับคะน้าและไข่ รสหวานเค็มกลมกล่อม",
+      "zh": "将宽米粉用黑酱油炒制，配芥兰和鸡蛋。",
+      "de": "Gebratene breite Reisnudeln mit dunkler Sojasauce, Chinakohl und Ei",
+      "fr": "Nouilles de riz plates sautées dans une sauce au soja noir, avec du chou chinois et un œuf",
+      "ru": "Жареные широкие рисовые лапши с темным соевым соусом, китайской брокколи и яйцом.",
+      "ja": "濃い醤油で炒めた幅広米麺と中国ブロッコリー、卵を使った炒め物。"
     },
     "ingredients": [
       "wide rice noodles",
@@ -230,7 +260,12 @@
       "nl": "Thaise Gebakken Rijst",
       "thai": "ข้าวผัด",
       "ko": "카오팟",
-      "th": "ข้าวผัด"
+      "th": "ข้าวผัด",
+      "zh": "泰式炒饭",
+      "de": "Thailändischer gebratener Reis",
+      "fr": "Riz frit thaï",
+      "ru": "Тайский жареный рис",
+      "ja": "タイ風チャーハン"
     },
     "category": "main-dish",
     "region": "central",
@@ -239,7 +274,12 @@
       "en": "Fragrant fried rice with jasmine rice fish sauce and fresh vegetables",
       "nl": "Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten",
       "ko": "마늘, 달걀, 채소를 넣은 태국식 볶음밥",
-      "th": "ข้าวผัดไทย ข้าวหอมมะลิผัดน้ำปลากับผักสดและไข่ หอมกรุ่นจากกระทะร้อน"
+      "th": "ข้าวผัดไทย ข้าวหอมมะลิผัดน้ำปลากับผักสดและไข่ หอมกรุ่นจากกระทะร้อน",
+      "zh": "以茉莉香米炒制，加入鱼露与新鲜蔬菜。",
+      "de": "Duftender gebratener Reis mit Jasminreis, Fischsauce und frischem Gemüse",
+      "fr": "Riz frit parfumé au jasmin, assaisonné de sauce poisson et accompagné de légumes frais",
+      "ru": "Ароматный жареный рис с жасминовым рисом, рыбным соусом и свежими овощами.",
+      "ja": "ジャスミン米を使い、魚醤と新鮮な野菜を加えた香り高いチャーハン。"
     },
     "ingredients": [
       "jasmine rice",
@@ -306,7 +346,12 @@
       "nl": "Khao Man Gai",
       "thai": "ข้าวมันไก่",
       "ko": "카오만가이",
-      "th": "ข้าวมันไก่"
+      "th": "ข้าวมันไก่",
+      "zh": "海南鸡饭",
+      "de": "Hähnchen mit Reis nach Khao Man Gai",
+      "fr": "Poulet vapeur sur riz parfumé au bouillon de poulet et sauce gingembre-piment",
+      "ru": "Кхао Ман Гай",
+      "ja": "カオマンガイ"
     },
     "category": "main-dish",
     "region": "central",
@@ -315,7 +360,12 @@
       "en": "Steamed chicken with rice cooked in chicken broth and ginger-chili sauce",
       "nl": "Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus",
       "ko": "닭 육수로 지은 밥에 찐 닭고기와 생강 칠리 소스를 곁들인 요리",
-      "th": "ข้าวมันไก่ ข้าวหุงน้ำซุปไก่เสิร์ฟกับไก่ต้มนุ่ม น้ำจิ้มซีอิ๊วขิงเผ็ด"
+      "th": "ข้าวมันไก่ ข้าวหุงน้ำซุปไก่เสิร์ฟกับไก่ต้มนุ่ม น้ำจิ้มซีอิ๊วขิงเผ็ด",
+      "zh": "用鸡汤煮米饭后蒸熟的鸡肉，搭配姜辣酱。",
+      "de": "Gedämpftes Hähnchen mit Reis, gekocht in Hühnerbrühe, dazu Ingwer-Chili-Sauce",
+      "fr": "Poulet vapeur sur riz cuit dans du bouillon de poulet et accompagné d'une sauce gingembre-piment",
+      "ru": "Парёная курица подается с рисом, сваренным в курином бульоне, и соусом имбирь-чили.",
+      "ja": "鶏のだしで炊いたご飯と蒸し鶏、しょうがと唐辛子入りのソースを添えて。"
     },
     "ingredients": [
       "chicken",
@@ -378,7 +428,12 @@
       "nl": "Sai Ua",
       "thai": "ไส้อั่ว",
       "ko": "사이우아",
-      "th": "ไส้อั่ว"
+      "th": "ไส้อั่ว",
+      "zh": "北部香草香肠",
+      "de": "Nordthailändische Kräuterwurst",
+      "fr": "Sai Ua — saucisse du nord thaïlandais épicée aux herbes et épices",
+      "ru": "Сай Уа",
+      "ja": "サイウア（北部タイ風ハーブ入りソーセージ）"
     },
     "category": "main-dish",
     "region": "northern",
@@ -387,7 +442,12 @@
       "en": "Spicy northern Thai sausage with herbs and spices",
       "nl": "Pittige noordelijke Thaise worst met kruiden en specerijen",
       "ko": "허브와 향신료를 넣은 태국 북부 스타일 소시지",
-      "th": "ไส้อั่ว ไส้กรอกเหนือสอดไส้สมุนไพร ตะไคร้ ใบมะกรูด พริก หอมเผ็ดกรุ่น"
+      "th": "ไส้อั่ว ไส้กรอกเหนือสอดไส้สมุนไพร ตะไคร้ ใบมะกรูด พริก หอมเผ็ดกรุ่น",
+      "zh": "辣味北部泰式香肠，香草与香料点缀。",
+      "de": "Würzige Nordthailändische Wurst mit Kräutern und Gewürzen",
+      "fr": "Saucisse nord-thaïlandaise épicée aux herbes et épices",
+      "ru": "Острая северная тайская колбаса с травами и специями.",
+      "ja": "ハーブとスパイスを効かせた辛口の北部タイ風ソーセージ。"
     },
     "ingredients": [
       "pork",
@@ -450,7 +510,12 @@
       "nl": "Nam Prik Ong",
       "thai": "น้ำพริกอ่อง",
       "ko": "남프릭옹",
-      "th": "น้ำพริกอ่อง"
+      "th": "น้ำพริกอ่อง",
+      "zh": "番茄猪肉末辣椒酱",
+      "de": "Tomaten-Hackfleisch-Chili-Dip Nam Prik Ong",
+      "fr": "Nam Prik Ong — pâte piment tomate et porc haché",
+      "ru": "Нам Прик Онг",
+      "ja": "ナムプリック・オーン"
     },
     "category": "main-dish",
     "region": "northern",
@@ -459,7 +524,12 @@
       "en": "Tomato and minced pork chili dip served with vegetables",
       "nl": "Tomaten-chili dip met varkensgehakt geserveerd met groenten",
       "ko": "다진 돼지고기와 토마토를 넣은 북부 태국 칠리 딥",
-      "th": "น้ำพริกอ่อง น้ำพริกมะเขือเทศกับหมูสับ รสหวานเผ็ดอ่อนๆ กินกับผักสดแนมแคบหมู"
+      "th": "น้ำพริกอ่อง น้ำพริกมะเขือเทศกับหมูสับ รสหวานเผ็ดอ่อนๆ กินกับผักสดแนมแคบหมู",
+      "zh": "番茄猪肉末辣椒酱，配蔬菜食用。",
+      "de": "Tomaten-Hackfleisch-Chili-Dip, serviert mit Gemüse",
+      "fr": "Pâte épicée tomate et porc haché, servie avec des légumes frais",
+      "ru": "Острый соус из помидоров и свиного фарша, подается с овощами.",
+      "ja": "トマトと豚ひき肉のチリディップを野菜と一緒に。"
     },
     "ingredients": [
       "tomatoes",
@@ -521,7 +591,12 @@
       "nl": "Mee Hokkien",
       "thai": "หมี่ฮกเกี้ยน",
       "ko": "미 호끼엔",
-      "th": "หมี่ฮกเกี้ยน"
+      "th": "หมี่ฮกเกี้ยน",
+      "zh": "福建炒面",
+      "de": "Phuket-Style Hokkien-Nudeln mit Meeresfrüchten",
+      "fr": "Nouilles Hokkien sautées (style Phuket)",
+      "ru": "Ми Хоккьен",
+      "ja": "ミー・ホッケン"
     },
     "category": "main-dish",
     "region": "southern",
@@ -530,7 +605,12 @@
       "en": "Stir-fried Hokkien noodles with seafood Phuket style",
       "nl": "Gebakken Hokkien-noedels met zeevruchten Phuket stijl",
       "ko": "해산물과 두꺼운 면을 볶은 호끼엔 스타일 볶음면",
-      "th": "หมี่ฮกเกี้ยนภูเก็ต บะหมี่เหลืองผัดกับอาหารทะเลในน้ำซุปเข้มข้น"
+      "th": "หมี่ฮกเกี้ยนภูเก็ต บะหมี่เหลืองผัดกับอาหารทะเลในน้ำซุปเข้มข้น",
+      "zh": "普吉岛风味的福建炒面，以海鲜为主。",
+      "de": "Gebratene Hokkien-Nudeln mit Meeresfrüchten, Phuket-Stil",
+      "fr": "Nouilles Hokkien sautées aux fruits de mer, façon Phuket",
+      "ru": "Жареные лапша по стилю Хоккьен с морепродуктами по-пхукетски.",
+      "ja": "海鮮を添えたプーケット風のミー・ホッケン・ヌードルの炒め物。"
     },
     "ingredients": [
       "yellow noodles",
@@ -597,7 +677,12 @@
       "nl": "Nam Prik Goong Siap",
       "thai": "น้ำพริกกุ้งเสียบ",
       "ko": "남프릭꿍시압",
-      "th": "น้ำพริกกุ้งเสียบ"
+      "th": "น้ำพริกกุ้งเสียบ",
+      "zh": "辣虾膏蘸酱",
+      "de": "Würziger Dip mit geräucherten Garnelen",
+      "fr": "Nam Prik Goong Siap — pâte pimentée aux crevettes fumées",
+      "ru": "Нам Прик Гонг Сиап",
+      "ja": "ナムプリック・ゴーン・シアップ"
     },
     "category": "main-dish",
     "region": "southern",
@@ -606,7 +691,12 @@
       "en": "Spicy dip with smoked dried shrimp",
       "nl": "Pittige dipsaus met gerookte gedroogde garnalen",
       "ko": "건새우를 넣은 매콤한 칠리 딥",
-      "th": "น้ำพริกกุ้งเสียบ น้ำพริกเผ็ดร้อนกับกุ้งแห้งรมควัน กินกับผักสด"
+      "th": "น้ำพริกกุ้งเสียบ น้ำพริกเผ็ดร้อนกับกุ้งแห้งรมควัน กินกับผักสด",
+      "zh": "辣虾膏蘸酱，配烟熏干虾。",
+      "de": "Würziger Dip mit geräucherten getrockneten Garnelen",
+      "fr": "Dip épicé à la pâte de crevettes fumées, servi avec des légumes frais",
+      "ru": "Острый дип с копчеными сушёными креветками.",
+      "ja": "燻製干しえび入りの辛口ディップ。"
     },
     "ingredients": [
       "dried shrimp",
@@ -672,7 +762,12 @@
       "nl": "Moo Hong",
       "thai": "หมูฮ้อง",
       "ko": "무홍",
-      "th": "หมูฮ้อง"
+      "th": "หมูฮ้อง",
+      "zh": "普吉岛风味甜酱油卤猪五花肉",
+      "de": "Schweinebauch in süßer Sojasauce Phuket-Stil",
+      "fr": "Moo Hong — porc braisé dans une sauce soja douce, style Phuket",
+      "ru": "Моо Хонг",
+      "ja": "ムー・ホン"
     },
     "category": "main-dish",
     "region": "southern",
@@ -681,7 +776,12 @@
       "en": "Braised pork belly in sweet soy sauce Phuket style",
       "nl": "Gestoofd varkensbuik in zoete sojasaus Phuket stijl",
       "ko": "간장과 향신료로 오래 조린 돼지고기",
-      "th": "หมูฮ้อง หมูสามชั้นตุ๋นซีอิ๊วหวานสไตล์ภูเก็ต เนื้อนุ่มเปื่อยรสหวานเค็ม"
+      "th": "หมูฮ้อง หมูสามชั้นตุ๋นซีอิ๊วหวานสไตล์ภูเก็ต เนื้อนุ่มเปื่อยรสหวานเค็ม",
+      "zh": "普吉岛风格的甜酱油卤猪五花肉，配煮蛋。",
+      "de": "In süßer Sojasauce geschmorter Schweinebauch, Phuket-Stil",
+      "fr": "Porc braisé dans une sauce soja douce, style Phuket, accompagné d'œufs",
+      "ru": "Свиная брюшина, тушёная в сладком соевом соусе по-пхукетски.",
+      "ja": "甘辛い醤油で煮込んだ豚バラと卵の煮込み料理（プーケット風）。"
     },
     "ingredients": [
       "pork belly",
@@ -743,7 +843,12 @@
       "nl": "Kanom Jeen Nam Ya",
       "thai": "ขนมจีนน้ำยา",
       "ko": "카놈찐남야",
-      "th": "ขนมจีนน้ำยา"
+      "th": "ขนมจีนน้ำยา",
+      "zh": "发酵米粉配鱼咖喱酱",
+      "de": "Fermentierte Reisnudeln mit Fischcurry",
+      "fr": "Kanom Jeen Nam Ya — nouilles de riz fermentées avec sauce curry au poisson",
+      "ru": "Каном Джен Нам Я",
+      "ja": "カノム・ジーン・ナムヤー"
     },
     "category": "main-dish",
     "region": "southern",
@@ -752,7 +857,12 @@
       "en": "Fermented rice noodles with fish curry sauce",
       "nl": "Gefermenteerde rijstnoedels met viscurrysaus",
       "ko": "생선 커리 소스를 곁들인 발효 쌀국수",
-      "th": "ขนมจีนน้ำยาปลา เส้นขนมจีนราดน้ำยากะทิเข้มข้น เสิร์ฟกับผักสดหลากชนิด"
+      "th": "ขนมจีนน้ำยาปลา เส้นขนมจีนราดน้ำยากะทิเข้มข้น เสิร์ฟกับผักสดหลากชนิด",
+      "zh": "发酵米粉，搭配鱼咖喱酱。",
+      "de": "Fermentierte Reisnudeln mit Fisch-Curry-Sauce",
+      "fr": "Nouilles de riz fermentées servies avec sauce curry au poisson",
+      "ru": "Ферментированная рисовая лапша с соусом рыбного карри.",
+      "ja": "発酵米麺に魚のカレーソースをかけて。"
     },
     "ingredients": [
       "fermented rice noodles",
@@ -818,7 +928,12 @@
       "nl": "Hoy Tod",
       "thai": "หอยทอด",
       "ko": "호이똣",
-      "th": "หอยทอด"
+      "th": "หอยทอด",
+      "zh": "脆皮蚝煎",
+      "de": "Knuspriger Muschel- oder Austern-Pfannkuchen",
+      "fr": "Hoy Tod — crêpe croustillante aux moules ou aux palourdes",
+      "ru": "Хой Тод",
+      "ja": "ホイ・トード"
     },
     "category": "main-dish",
     "region": "central",
@@ -827,7 +942,12 @@
       "en": "Crispy mussel or oyster pancake with bean sprouts",
       "nl": "Knapperige mossel- of oesterpannenkoek met taugé",
       "ko": "숙주나물을 곁들인 바삭한 홍합/굴 팬케이크",
-      "th": "หอยทอดกรอบนอกนุ่มใน ผสมแป้งทอดกับหอยแมลงภู่หรือหอยนางรม เสิร์ฟกับถั่วงอก"
+      "th": "หอยทอดกรอบนอกนุ่มใน ผสมแป้งทอดกับหอยแมลงภู่หรือหอยนางรม เสิร์ฟกับถั่วงอก",
+      "zh": "脆皮蚝煎（也有贻贝煎）配豆芽。",
+      "de": "Knuspriger Pfannenpfannkuchen aus Muscheln oder Austern mit Sprossen",
+      "fr": "Crêpe croustillante de moules ou de palourdes, accompagnée de germes de soja",
+      "ru": "Хрустящая лепешка из моллюсков (мидий) или устриц с проростками фасоли.",
+      "ja": "もやし入りのカリカリムール貝または牡蠣のパンケーキ。"
     },
     "ingredients": [
       "mussels or oysters",
@@ -892,7 +1012,12 @@
       "nl": "Pla Pao",
       "thai": "ปลาเผา",
       "ko": "쁠라파오",
-      "th": "ปลาเผา"
+      "th": "ปลาเผา",
+      "zh": "盐壳烤鱼",
+      "de": "Gegrillter Fisch in Salzkruste",
+      "fr": "Pla Pao — poisson grillé en croûte de sel, servi avec sauce piquante de fruits de mer",
+      "ru": "Пла Пао",
+      "ja": "プラー・パオ"
     },
     "category": "main-dish",
     "region": "central",
@@ -901,7 +1026,12 @@
       "en": "Grilled fish in salt crust served with spicy seafood sauce",
       "nl": "Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus",
       "ko": "소금 껍질로 구운 통생선",
-      "th": "ปลาเผาเกลือ ปลาตัวโตเผาในเปลือกเกลือจนสุกหอม เสิร์ฟกับน้ำจิ้มซีฟู้ด"
+      "th": "ปลาเผาเกลือ ปลาตัวโตเผาในเปลือกเกลือจนสุกหอม เสิร์ฟกับน้ำจิ้มซีฟู้ด",
+      "zh": "以盐壳烤制的鱼，搭配辣海鲜酱。",
+      "de": "Gegrillter Fisch in einer Salzkruste, serviert mit scharfer Meeresfrüchte-Sauce",
+      "fr": "Poisson grillé dans une croûte de sel, accompagné d'une sauce épicée de fruits de mer",
+      "ru": "Рыба на гриле в сольной корке подается с острым соусом из морепродуктов.",
+      "ja": "塩の殻で焼いた魚を辛いシーフードソースと一緒に。"
     },
     "ingredients": [
       "whole fish",
@@ -966,7 +1096,12 @@
       "nl": "Khao Pad Sapparot",
       "thai": "ข้าวผัดสับปะรด",
       "ko": "카오팟 싸빠롯",
-      "th": "ข้าวผัดสับปะรด"
+      "th": "ข้าวผัดสับปะรด",
+      "zh": "菠萝盅炒饭",
+      "de": "Ananasreis in der Ananas-Schale",
+      "fr": "Riz frit à l’ananas",
+      "ru": "Кхао Пад Саппарот",
+      "ja": "カオパット・サパロット"
     },
     "category": "main-dish",
     "region": "central",
@@ -975,7 +1110,12 @@
       "en": "Pineapple fried rice served in pineapple shell",
       "nl": "Ananas gebakken rijst geserveerd in ananasschil",
       "ko": "파인애플 껍질에 담아 제공하는 파인애플 볶음밥",
-      "th": "ข้าวผัดสับปะรด เสิร์ฟในเปลือกสับปะรด หอมกลิ่นผงกะหรี่ มีเม็ดมะม่วงหิมพานต์"
+      "th": "ข้าวผัดสับปะรด เสิร์ฟในเปลือกสับปะรด หอมกลิ่นผงกะหรี่ มีเม็ดมะม่วงหิมพานต์",
+      "zh": "菠萝盅内的炒饭。",
+      "de": "Gebratener Reis mit Ananas, serviert in einer Ananas-Schale",
+      "fr": "Riz frit à l'ananas, présenté dans sa coque d'ananas",
+      "ru": "Жареный рис с ананасом, поданный в скорлупе ананаса.",
+      "ja": "パイナップルの器に盛られたパイナップル炒飯。"
     },
     "ingredients": [
       "rice",
@@ -1041,7 +1181,12 @@
       "nl": "Khao Mok Gai",
       "thai": "ข้าวหมกไก่",
       "ko": "카오목가이",
-      "th": "ข้าวหมกไก่"
+      "th": "ข้าวหมกไก่",
+      "zh": "泰式鸡肉香米饭",
+      "de": "Hähnchen-Biryani mit duftendem gelbem Reis",
+      "fr": "Khao Mok Gai — biryani thaï au poulet et riz jaune parfumé",
+      "ru": "Кхао Мок Гай",
+      "ja": "カオモークガイ"
     },
     "category": "main-dish",
     "region": "southern",
@@ -1050,7 +1195,12 @@
       "en": "Thai-style biryani with chicken and fragrant yellow rice",
       "nl": "Thaise biryani met kip en geurige gele rijst",
       "ko": "닭고기와 향긋한 노란 쌀로 만든 태국식 비리야니",
-      "th": "ข้าวหมกไก่สูตรไทย ข้าวหอมเหลืองอร่ามหุงกับเครื่องเทศ เสิร์ฟกับไก่เนื้อนุ่ม"
+      "th": "ข้าวหมกไก่สูตรไทย ข้าวหอมเหลืองอร่ามหุงกับเครื่องเทศ เสิร์ฟกับไก่เนื้อนุ่ม",
+      "zh": "泰式香料鸡肉香米饭。",
+      "de": "Thailändisches Biryani mit Hähnchen und aromatischem gelbem Reis",
+      "fr": "Biryani thaï au poulet et riz jaune parfumé",
+      "ru": "Таиландский бирьяни с курицей и ароматным желтым рисом.",
+      "ja": "鶏肉と香り高い黄色米のタイ風ビリヤニ。"
     },
     "ingredients": [
       "chicken",
@@ -1113,7 +1263,12 @@
       "nl": "Goong Pad Makham",
       "thai": "กุ้งผัดมะขาม",
       "ko": "꿍팟마캄",
-      "th": "กุ้งผัดมะขาม"
+      "th": "กุ้งผัดมะขาม",
+      "zh": "酸辣罗望子酱炒虾",
+      "de": "Garnelen in Tamarindensauce gebraten",
+      "fr": "Goong Pad Makham — crevettes sautées dans sauce tamarin aigre-douce",
+      "ru": "Гонг Пад Макхам",
+      "ja": "ゴーング・パット・マックム"
     },
     "category": "main-dish",
     "region": "southern",
@@ -1122,7 +1277,12 @@
       "en": "Prawns stir-fried in tangy tamarind sauce",
       "nl": "Garnalen geroerbakt in pittige tamarindesaus",
       "ko": "타마린드 소스로 볶은 새우",
-      "th": "กุ้งผัดซอสมะขามเปรี้ยวหวาน กุ้งตัวโตเนื้อแน่น ผัดกับซอสมะขามรสกลมกล่อม"
+      "th": "กุ้งผัดซอสมะขามเปรี้ยวหวาน กุ้งตัวโตเนื้อแน่น ผัดกับซอสมะขามรสกลมกล่อม",
+      "zh": "用酸甜的罗望子酱炒虾。",
+      "de": "Garnelen gebraten in würziger Tamarindensauce",
+      "fr": "Crevettes sautées dans une sauce tamarin acidulée",
+      "ru": "Креветки, обжаренные в кислой тамариндовой подливе.",
+      "ja": "酸味のタマリンドソースで炒めたエビ。"
     },
     "ingredients": [
       "prawns",
@@ -1188,7 +1348,12 @@
       "nl": "Gai Tod Hat Yai",
       "thai": "ไก่ทอดหาดใหญ่",
       "ko": "가이똣 핫야이",
-      "th": "ไก่ทอดหาดใหญ่"
+      "th": "ไก่ทอดหาดใหญ่",
+      "zh": "合艾风味炸鸡",
+      "de": "Hähnchen nach Hat-Yai-Art, frittiert",
+      "fr": "Gai Tod Hat Yai — poulet frit façon Hat Yai avec échalotes croustillantes",
+      "ru": "Гай Тод Хат Яй",
+      "ja": "ガイ・トード・ハートヤイ"
     },
     "category": "main-dish",
     "region": "southern",
@@ -1197,7 +1362,12 @@
       "en": "Hat Yai style fried chicken with crispy shallots",
       "nl": "Hat Yai stijl gefrituurde kip met krokante sjalotten",
       "ko": "튀긴 샬롯을 곁들인 핫야이 스타일 프라이드 치킨",
-      "th": "ไก่ทอดหาดใหญ่สูตรดั้งเดิม หนังกรอบ เนื้อนุ่มฉ่ำ โรยหอมเจียวกรอบ"
+      "th": "ไก่ทอดหาดใหญ่สูตรดั้งเดิม หนังกรอบ เนื้อนุ่มฉ่ำ โรยหอมเจียวกรอบ",
+      "zh": "合艾风味炸鸡，配脆葱。",
+      "de": "Hat-Yai-Stil frittiertes Hähnchen mit knusprigen Schalotten",
+      "fr": "Poulet frit à la mode Hat Yai avec échalotes croustillantes",
+      "ru": "Жареная курица по стилю Хат Яй с хрустящими луком-шалотами.",
+      "ja": "ハートヤイ風のフライドチキン、カリカリのエシャロット添え。"
     },
     "ingredients": [
       "chicken",
@@ -1259,7 +1429,12 @@
       "nl": "Khao Kan Jin",
       "thai": "ข้าวกั้นจิ๊น",
       "ko": "카오깐진",
-      "th": "ข้าวกั้นจิ๊น"
+      "th": "ข้าวกั้นจิ๊น",
+      "zh": "蕉叶蒸猪血饭",
+      "de": "Gedämpfter Reis mit Schweineblut in Bananenblatt",
+      "fr": "Khao Kan Jin — riz vapeur au sang de porc dans une feuille de bananier",
+      "ru": "Кхао Кан Джин",
+      "ja": "カオ・カンジン"
     },
     "category": "main-dish",
     "region": "northern",
@@ -1268,7 +1443,12 @@
       "en": "Steamed rice with pork blood in banana leaf",
       "nl": "Gestoomde rijst met varkensbloed in bananenblad",
       "ko": "바나나잎에 싸서 찐 돼지피 밥",
-      "th": "ข้าวกั้นจิ๊น ข้าวนึ่งผสมเลือดหมูห่อใบตองนึ่ง อาหารเช้าเหนือสุดคลาสสิก"
+      "th": "ข้าวกั้นจิ๊น ข้าวนึ่งผสมเลือดหมูห่อใบตองนึ่ง อาหารเช้าเหนือสุดคลาสสิก",
+      "zh": "香蕉叶包裹的猪血蒸饭。",
+      "de": "Gedämpfter Reis mit Schweineblut, in Bananenblatt gewickelt",
+      "fr": "Riz cuit à la vapeur avec du sang de porc dans une feuille de bananier",
+      "ru": "Паровой рис с кровяной свининой, завернутый в банановый лист.",
+      "ja": "バナナの葉で包んだ豚血入りの蒸しご飯。"
     },
     "ingredients": [
       "rice",
@@ -1330,7 +1510,12 @@
       "nl": "Roti Canai",
       "thai": "โรตีกะหรี่",
       "ko": "로띠 짜나이",
-      "th": "โรตีกะหรี่"
+      "th": "โรตีกะหรี่",
+      "zh": "印式扁薄饼（罗蒂）配咖喱",
+      "de": "Roti Canai – Malaysisch-thailändisches Fladenbrot",
+      "fr": "Roti Canai — galette malaise-thaïe servie avec curry",
+      "ru": "Роти Канай",
+      "ja": "ロティ・カナイ"
     },
     "category": "main-dish",
     "region": "southern",
@@ -1339,7 +1524,12 @@
       "en": "Malaysian-Thai flatbread served with curry",
       "nl": "Maleisisch-Thais platbrood geserveerd met curry",
       "ko": "바삭하고 층이 있는 태국 남부 플랫브레드",
-      "th": "โรตีกะหรี่ แผ่นแป้งกรอบนอกนุ่มในเสิร์ฟกับแกงกะหรี่ สไตล์มาเลย์-ไทย"
+      "th": "โรตีกะหรี่ แผ่นแป้งกรอบนอกนุ่มในเสิร์ฟกับแกงกะหรี่ สไตล์มาเลย์-ไทย",
+      "zh": "印式扁薄饼（罗蒂）配咖喱。",
+      "de": "Malaysisch-thailändisches Fladenbrot, serviert mit Curry",
+      "fr": "Pain plat malaise-thaïien servi avec curry",
+      "ru": "Малайско-тайский плоский хлеб, подается с карри.",
+      "ja": "カレーを添えたマレーシア風タイ風の平たいパン。"
     },
     "ingredients": [
       "flour",
@@ -1404,7 +1594,12 @@
       "nl": "Moo Palo",
       "thai": "หมูพะโล้",
       "ko": "무빠로",
-      "th": "หมูพะโล้"
+      "th": "หมูพะโล้",
+      "zh": "甜酱油卤猪五花肉",
+      "de": "Schweinebauch in süßer Sojasauce geschmort, mit Eiern",
+      "fr": "Moo Palo — ventre de porc braisé dans une sauce soja sucrée, avec œufs",
+      "ru": "Моо Пало",
+      "ja": "ムー・パロー"
     },
     "category": "main-dish",
     "region": "northern",
@@ -1413,7 +1608,12 @@
       "en": "Pork belly stewed in sweet soy sauce with eggs",
       "nl": "Varkensbuik gestoofd in zoete sojasaus met eieren",
       "ko": "오향 가루와 간장으로 조린 돼지고기와 달걀",
-      "th": "หมูพะโล้ หมูสามชั้นตุ๋นซีอิ๊วดำกับไข่ต้ม เครื่องเทศจีนหอมกรุ่น"
+      "th": "หมูพะโล้ หมูสามชั้นตุ๋นซีอิ๊วดำกับไข่ต้ม เครื่องเทศจีนหอมกรุ่น",
+      "zh": "甜酱油卤猪五花肉，配鸡蛋。",
+      "de": "Schweinebauch im süßen Sojasauce geschmort, mit Eiern",
+      "fr": "Ventre de porc braisé dans une sauce soja douce, accompagné d'œufs",
+      "ru": "Свиная брюшина, тушёная в сладком соевом соусе с яйцами.",
+      "ja": "卵入りの甘い醤油で煮込んだ豚バラ。"
     },
     "ingredients": [
       "pork belly",
@@ -1475,7 +1675,12 @@
       "nl": "Nam Prik Noom",
       "thai": "น้ำพริกหนุ่ม",
       "ko": "남프릭눔",
-      "th": "น้ำพริกหนุ่ม"
+      "th": "น้ำพริกหนุ่ม",
+      "zh": "北部青辣椒蘸酱",
+      "de": "Nordthailändischer grüner Chili-Dip mit gegrilltem Gemüse",
+      "fr": "Nam Prik Noom — dip vert du nord au piment avec légumes grillés",
+      "ru": "Нам Прик Нум",
+      "ja": "ナムプリック・ノーム"
     },
     "category": "main-dish",
     "region": "northern",
@@ -1484,7 +1689,12 @@
       "en": "Northern green chili dip with grilled vegetables",
       "nl": "Noordelijke groene chili dip met gegrilde groenten",
       "ko": "구운 청고추로 만든 북부 태국 칠리 딥",
-      "th": "น้ำพริกหนุ่ม พริกหนุ่มย่างตำกับกระเทียม หอมแดง รสเผ็ดหอม กินกับแคบหมู"
+      "th": "น้ำพริกหนุ่ม พริกหนุ่มย่างตำกับกระเทียม หอมแดง รสเผ็ดหอม กินกับแคบหมู",
+      "zh": "北部青辣椒蘸酱，配烤蔬菜。",
+      "de": "Nordthailändischer grüner Chili-Dip mit gegrilltem Gemüse",
+      "fr": "Dip vert du nord avec piment et légumes grillés",
+      "ru": "Северный зелёный чили-дип с жареными овощами.",
+      "ja": "グリーンチリの北部風ディップと焼き野菜。"
     },
     "ingredients": [
       "green chili",
@@ -1549,7 +1759,12 @@
       "nl": "Nam Prik Kapi",
       "thai": "น้ำพริกกะปิ",
       "ko": "남프릭까삐",
-      "th": "น้ำพริกกะปิ"
+      "th": "น้ำพริกกะปิ",
+      "zh": "虾膏辣椒蘸酱",
+      "de": "Chili-Dip mit Garnelenpaste und Gemüse",
+      "fr": "Nam Prik Kapi — dip de pâte de crevette et piment avec légumes frais",
+      "ru": "Нам Прик Капи",
+      "ja": "ナムプリック・カピ"
     },
     "category": "main-dish",
     "region": "southern",
@@ -1558,7 +1773,12 @@
       "en": "Shrimp paste chili dip with fresh vegetables",
       "nl": "Garnalenpasta chili dip met verse groenten",
       "ko": "새우 페이스트로 만든 전통 칠리 딥",
-      "th": "น้ำพริกกะปิ น้ำพริกรสเข้มข้นจากกะปิ เสิร์ฟกับผักสดและปลาทู"
+      "th": "น้ำพริกกะปิ น้ำพริกรสเข้มข้นจากกะปิ เสิร์ฟกับผักสดและปลาทู",
+      "zh": "虾膏辣椒蘸酱，配新鲜蔬菜。",
+      "de": "Chili-Dip mit Garnelenpaste, serviert mit frischem Gemüse",
+      "fr": "Pâte de crevette et piment épicée, servie avec des légumes frais",
+      "ru": "Острый дип из пасты креветок с свежими овощами.",
+      "ja": "エビペースト入り唐辛子ディップ、野菜添え。"
     },
     "ingredients": [
       "shrimp paste",
@@ -1623,7 +1843,12 @@
       "nl": "Goong Pad Sator",
       "thai": "กุ้งผัดสะตอ",
       "ko": "꿍팟사또",
-      "th": "กุ้งผัดสะตอ"
+      "th": "กุ้งผัดสะตอ",
+      "zh": "虾仁炒臭豆荚",
+      "de": "Garnelen gebraten mit Stinkbohnen",
+      "fr": "Goong Pad Sator — crevettes sautées avec des haricots odorants (sator)",
+      "ru": "Гонг Пад Сатор",
+      "ja": "ゴーン・パット・サター"
     },
     "category": "main-dish",
     "region": "southern",
@@ -1632,7 +1857,12 @@
       "en": "Prawns stir-fried with stink beans",
       "nl": "Garnalen geroerbakt met stinkbonen",
       "ko": "사또(냄새콩)와 함께 볶은 새우",
-      "th": "กุ้งผัดสะตอ อาหารใต้ยอดนิยม กุ้งสดผัดกับสะตอและพริกแกง หอมเผ็ดร้อน"
+      "th": "กุ้งผัดสะตอ อาหารใต้ยอดนิยม กุ้งสดผัดกับสะตอและพริกแกง หอมเผ็ดร้อน",
+      "zh": "虾仁炒臭豆荚。",
+      "de": "Garnelen gebraten mit Stinkbohnen",
+      "fr": "Crevettes sautées avec des haricots odorants (sator)",
+      "ru": "Креветки, обжаренные с пахучей фасолью сатор.",
+      "ja": "臭い豆（サトー豆）とエビを炒めた料理。"
     },
     "ingredients": [
       "prawns",

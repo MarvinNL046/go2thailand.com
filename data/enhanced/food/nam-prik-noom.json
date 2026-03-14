@@ -6,7 +6,8 @@
     "nl": "Nam Prik Noom",
     "thai": "น้ำพริกหนุ่ม",
     "ko": "남프릭눔",
-    "th": "น้ำพริกหนุ่ม"
+    "th": "น้ำพริกหนุ่ม",
+    "ja": "Nam Prik Noom（ナムプリック・ノーム）"
   },
   "category": "main-dish",
   "region": "northern",
@@ -37,13 +38,15 @@
       "en": "Nam Prik Noom Recipe | Authentic Thai main dish",
       "nl": "Nam Prik Noom Recept | Authentieke Thaise main dish",
       "ko": "남프릭눔 레시피 | 정통 태국 북부 구운 청고추 칠리 딥",
-      "th": "สูตรน้ำพริกหนุ่ม | อาหารจานหลักไทยแท้"
+      "th": "สูตรน้ำพริกหนุ่ม | อาหารจานหลักไทยแท้",
+      "ja": "Nam Prik Noomのレシピ | 本格タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Nam Prik Noom (น้ำพริกหนุ่ม) - Northern green chili dip with grilled vegetables...",
       "nl": "Leer over Nam Prik Noom (น้ำพริกหนุ่ม) - Noordelijke groene chili dip met gegrilde groenten...",
       "ko": "남프릭눔(น้ำพริกหนุ่ม) - 숯불에 구운 청고추, 마늘, 샬롯으로 만든 태국 북부 란나 전통 칠리 딥. 채식 가능. 레시피, 재료, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับน้ำพริกหนุ่ม — น้ำพริกหนุ่ม พริกหนุ่มย่างตำกับกระเทียม หอมแดง รสเผ็ดหอม กินกับแคบหมู สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับน้ำพริกหนุ่ม — น้ำพริกหนุ่ม พริกหนุ่มย่างตำกับกระเทียม หอมแดง รสเผ็ดหอม กินกับแคบหมู สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Nam Prik Noom（น้ำพริกหนุ่ม）について知る — 北部タイの緑唐辛子ディップと焼き野菜の組み合わせを学べるレシピガイド。"
     }
   },
   "tags": [
@@ -876,6 +879,109 @@
           "street_vendor": "30-50 THB",
           "market_stall": "40-60 THB",
           "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Nam Prik Noom は、北部タイの愛されるボリューム感と満足感を与える主菜で、心地よい辛さが特徴です。焼き野菜と一緒に提供される北部の緑唐辛子ディップです。このレシピは約25分で作れ、北部タイ料理の本格的な味を示しています。北部料理は穏やかな風味、もち米、ハーブが特徴です。緑唐辛子・にんにく・シャロットの組み合わせが調和の取れた風味を生み出し、地元の人々も訪れる人々にも親しまれてきました。手頃な価格で本格的なタイ料理を求める方に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "グリーンチリ（青唐辛子）",
+          "purpose": "Nam Prik Noom の本格的な風味に欠かせない材料",
+          "substitutes": [
+            "新鮮な青唐辛子",
+            "乾燥青唐辛子",
+            "青唐辛子ペースト"
+          ]
+        },
+        {
+          "name": "にんにく",
+          "purpose": "Nam Prik Noom の本格的な風味に欠かせない材料",
+          "substitutes": [
+            "新鮮なにんにく",
+            "乾燥にんにく",
+            "にんにくペースト"
+          ]
+        },
+        {
+          "name": "シャロット",
+          "purpose": "Nam Prik Noom の本格的な風味に欠かせない材料",
+          "substitutes": [
+            "新鮮なシャロット",
+            "乾燥シャロット",
+            "シャロットペースト"
+          ]
+        },
+        {
+          "name": "トマト",
+          "purpose": "Nam Prik Noom の本格的な風味に欠かせない材料",
+          "substitutes": [
+            "新鮮なトマト",
+            "乾燥トマト",
+            "トマトペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒めるまたは焼く",
+        "steps_overview": "Nam Prik Noom の準備には細部への注意と適切なタイミングが必要です。すべての風味のバランスを取りつつ、各材料の食感を保つことが鍵です。世代を超えて伝えられた伝統的な方法が本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果を得るには新鮮な青唐辛子を使う",
+          "辛さをお好みに合わせて調整する",
+          "食感を保つために過剰に加熱しすぎない",
+          "提供前に味を確かめて調味を調整する"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Noom は、何世代にもわたって北部タイ料理の定番であり、この地域の独自の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は北部タイ料理の心髄を代表し、タイ料理が世界中で有名な調和とバランスを体現しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地元のお祭り",
+          "屋台市場",
+          "特別な祝い事"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Noom クラシック",
+          "description": "地元の家庭で出される伝統的なバージョン"
+        },
+        {
+          "name": "Nam Prik Noom モダン",
+          "description": "高級食材を使った現代風のアレンジ"
+        },
+        {
+          "name": "Nam Prik Noom ベジタリアン",
+          "description": "豆腐やきのこを使った植物性バージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "タイの伝統的な盛り付けで皿に盛り付けられます",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "地元の北部タイ料理レストラン",
+          "本格的な屋台",
+          "伝統的な市場",
+          "家族経営の食堂"
+        ],
+        "street_food_areas": [
+          "夜市",
+          "朝市",
+          "ローカルフードコート"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 バーツ",
+          "market_stall": "40-60 バーツ",
+          "restaurant": "60-100 バーツ"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

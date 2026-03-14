@@ -6,7 +6,8 @@
     "nl": "Thaise Gebakken Rijst",
     "thai": "ข้าวผัด",
     "ko": "카오팟",
-    "th": "ข้าวผัด"
+    "th": "ข้าวผัด",
+    "ja": "Thai Fried Rice（タイ風炒飯）"
   },
   "category": "main-dish",
   "region": "central",
@@ -39,13 +40,15 @@
       "en": "Thai Fried Rice Recipe | Authentic Thai main dish",
       "nl": "Thaise Gebakken Rijst Recept | Authentieke Thaise main dish",
       "ko": "카오팟 레시피 | 정통 태국 볶음밥 (카오팟)",
-      "th": "สูตรข้าวผัด | อาหารจานหลักไทยแท้"
+      "th": "สูตรข้าวผัด | อาหารจานหลักไทยแท้",
+      "ja": "Thai Fried Rice レシピ | 本格的なタイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Thai Fried Rice (ข้าวผัด) - Fragrant fried rice with jasmine rice fish sauce and fresh vegetables...",
       "nl": "Leer over Thaise Gebakken Rijst (ข้าวผัด) - Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten...",
       "ko": "카오팟(ข้าวผัด) - 전날 남은 재스민 쌀밥을 웍에 볶아 만드는 태국 대표 가정식. 중국식보다 가볍고 향긋한 태국 볶음밥의 레시피, 변형, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับข้าวผัด — ข้าวผัดไทย ข้าวหอมมะลิผัดน้ำปลากับผักสดและไข่ หอมกรุ่นจากกระทะร้อน สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับข้าวผัด — ข้าวผัดไทย ข้าวหอมมะลิผัดน้ำปลากับผักสดและไข่ หอมกรุ่นจากกระทะร้อน สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "タイの焼き飯（ข้าวผัด）について学ぶ。ジャスミンライス、魚醤、そして新鮮な野菜を使った香り高い焼き飯です。"
     }
   },
   "tags": [
@@ -788,6 +791,98 @@
           "street_food": "40-60 THB ($1.20-$1.80)",
           "restaurant": "80-150 THB ($2.40-$4.50)",
           "upscale": "200-500 THB ($6-$15) for crab version"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Khao Pad (Thai Fried Rice) はタイの究極のコンフォートフードです。昨日のご飯を今日の満足へと変える料理。中国系移民の fried rice から発展しましたが、タイの味覚に合わせて香りを軽くし、新鮮な付け合わせとともに提供されることが多いです。米粒は一粒一粒が離れていて、ソースで軽くコーティングされ、鍋の香りと新鮮な風味の完璧なバランスを生み出します。",
+      "detailed_ingredients": [
+        {
+          "name": "前日分のジャスミンライス",
+          "purpose": "乾燥しているため炒めやすく、固まりにくくなる",
+          "substitutes": [
+            "冷まして広げたご飯",
+            "長粒米（どの長粒米でも可）",
+            "低糖質用のカリフラワーライス"
+          ]
+        },
+        {
+          "name": "タイ薄口しょうゆ",
+          "purpose": "中国のしょうゆより色が薄く、色づけをせず塩味を加える",
+          "substitutes": [
+            "ライトソイソース",
+            "魚醤を薄めたもの",
+            "グルテンフリー用のタマリ"
+          ]
+        },
+        {
+          "name": "白胡椒",
+          "purpose": "色をつけずに辛味を加えるタイ独特の香辛料",
+          "substitutes": [
+            "黒胡椒（見た目が変わる）",
+            "挽き花椒"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "高温の中華鍋を使った炒飯",
+        "steps_overview": "準備が成功の鍵。米は乾燥させ、鍋は熱く、材料はすべて用意しておく。すべての動作は速く進み、最後に米を加えて絶えず炒り混ぜ、焦げ付きを防ぎながら鍋の香りを引き出す。",
+        "cooking_tips": [
+          "炒める前に米の塊をほぐす",
+          "可能な限り高温を使う",
+          "米を絶えず動かし続ける",
+          "ソースは米の上に直接かけず、鍋の縁に沿って加える",
+          "仕上げにきゅうりとライムを添える"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "中国系移民の fried rice から発展したが、タイの味覚に合わせて香味を軽くし、新鮮な付け合わせとともに提供されるよう適応しました。タイの家庭で余った米を活用する方法として人気が広まりました。",
+        "cultural_importance": "Khao Pad はタイの毎日を支えるヒーロー。路上の屋台からホテルの朝食ブッフェまで、どこでも見られ、シンプルな材料から美味しい一皿を作るタイの実用性を象徴しています。",
+        "traditional_occasions": [
+          "素早い朝食",
+          "夜遅い街の屋台",
+          "余ったご飯の活用",
+          "子どもに人気の食事"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Poo（蟹炒飯）",
+          "description": "蟹入りの炒飯 - 贅沢版"
+        },
+        {
+          "name": "Khao Pad American",
+          "description": "ケチャップ、ホットドッグ、レーズンを添えた、タイ流の“アメリカン”料理の解釈"
+        },
+        {
+          "name": "Khao Pad Sapparot",
+          "description": "パイナップルの器にカシューナッツを添えた、観光客に人気の一品"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜"
+        ],
+        "presentation": "伝統的なタイ風の盛り付けで熱々の状態で提供",
+        "eating_etiquette": "フォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) - Pad Thaiで有名だが、炒飯も素晴らしい",
+          "Raan Jay Fai (Bangkok) - 待つ価値のある蟹炒飯",
+          "使い込まれた中華鍋を使う路上の露店"
+        ],
+        "street_food_areas": [
+          "タイの路上のどこでも",
+          "夜市が至る所に",
+          "病院や大学の近くの24時間スポット"
+        ],
+        "price_ranges": {
+          "street_food": "路上フード：40-60 THB ($1.20-$1.80)",
+          "restaurant": "レストラン：80-150 THB ($2.40-$4.50)",
+          "upscale": "蟹バージョン：200-500 THB ($6-$15)"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

@@ -7,7 +7,12 @@
       "nl": "Groene Curry",
       "thai": "แกงเขียวหวาน",
       "ko": "그린 커리",
-      "th": "แกงเขียวหวาน"
+      "th": "แกงเขียวหวาน",
+      "zh": "绿咖喱",
+      "de": "Grünes Curry",
+      "fr": "Curry vert thaïlandais",
+      "ru": "Зеленый карри",
+      "ja": "グリーンカレー"
     },
     "category": "curry",
     "region": "central",
@@ -16,7 +21,12 @@
       "en": "Spicy green curry with coconut milk Thai eggplant and basil",
       "nl": "Pittige groene curry met kokosmelk Thaise aubergine en basilicum",
       "ko": "코코넛 밀크, 태국 가지, 바질을 넣은 매콤한 그린 커리",
-      "th": "แกงเขียวหวานกะทิเข้มข้น หอมเครื่องแกงสด มะเขือ โหระพา รสเผ็ดหวานกลมกล่อม"
+      "th": "แกงเขียวหวานกะทิเข้มข้น หอมเครื่องแกงสด มะเขือ โหระพา รสเผ็ดหวานกลมกล่อม",
+      "zh": "以椰奶为基底的辣绿咖喱，搭配泰国茄子和罗勒叶",
+      "de": "Würziges grünes Curry mit Kokosmilch, Thai-Auberginen und Basilikum.",
+      "fr": "Curry vert épicé au lait de coco, aubergines thaïlandaises et basilic.",
+      "ru": "Острый зелёный карри на кокосовом молоке с тайскими баклажанами и базиликом.",
+      "ja": "ココナツミルクとタイ産の小さなナス、バジルを使った辛いグリーンカレー。"
     },
     "ingredients": [
       "green curry paste",
@@ -82,7 +92,12 @@
       "nl": "Massaman Curry",
       "thai": "แกงมัสมั่น",
       "ko": "마사만 커리",
-      "th": "แกงมัสมั่น"
+      "th": "แกงมัสมั่น",
+      "zh": "马萨曼咖喱",
+      "de": "Massaman-Curry",
+      "fr": "Curry massaman",
+      "ru": "Карри массаман",
+      "ja": "マッサマンカレー"
     },
     "category": "curry",
     "region": "southern",
@@ -91,7 +106,12 @@
       "en": "Rich and mild curry with Persian influences containing potatoes and peanuts",
       "nl": "Rijke en milde curry met Perzische invloeden met aardappelen en pinda's",
       "ko": "감자와 땅콩이 들어간 페르시아 영향의 진하고 순한 커리",
-      "th": "แกงมัสมั่นเนื้อนุ่ม รสหวานเค็มกลมกล่อม ใส่มันฝรั่ง ถั่วลิสง อบเชย"
+      "th": "แกงมัสมั่นเนื้อนุ่ม รสหวานเค็มกลมกล่อม ใส่มันฝรั่ง ถั่วลิสง อบเชย",
+      "zh": "浓郁且温和的咖喱，带有波斯影响，含土豆和花生",
+      "de": "Reiches, mildes Curry mit persischen Einflüssen, das Kartoffeln und Erdnüsse enthält.",
+      "fr": "Curry riche et doux aux influences perses, contenant des pommes de terre et des cacahuètes.",
+      "ru": "Богатое и мягкое карри с персидскими влияниями, содержащее картофель и арахис.",
+      "ja": "ペルシアの影響を受けた、ジャガイモとピーナッツを含む、濃厚でマイルドなカレー。"
     },
     "ingredients": [
       "massaman paste",
@@ -157,7 +177,12 @@
       "nl": "Gaeng Hang Lay",
       "thai": "แกงฮังเล",
       "ko": "깽항레",
-      "th": "แกงฮังเล"
+      "th": "แกงฮังเล",
+      "zh": "亨莱咖喱",
+      "de": "Hang-Lay-Curry",
+      "fr": "Gaeng Hang Lay",
+      "ru": "Карри Ханг Лай",
+      "ja": "ゲーン・ハン・レイ"
     },
     "category": "curry",
     "region": "northern",
@@ -166,7 +191,12 @@
       "en": "Mild curry with pork belly and Burmese influences",
       "nl": "Milde curry met varkensbuik en Birmese invloeden",
       "ko": "삼겹살과 미얀마 영향이 가미된 순한 북부 커리",
-      "th": "แกงฮังเลหมูสามชั้นรสนุ่มนวลกลิ่นหอมเครื่องเทศ ได้รับอิทธิพลจากพม่า"
+      "th": "แกงฮังเลหมูสามชั้นรสนุ่มนวลกลิ่นหอมเครื่องเทศ ได้รับอิทธิพลจากพม่า",
+      "zh": "温和的咖喱，使用猪腩，带有缅甸风味",
+      "de": "Mildes Curry mit Schweinebauch und burmesischen Einflüssen.",
+      "fr": "Curry doux avec de la poitrine de porc et des influences birmanes.",
+      "ru": "Мягкое карри со свиной грудинкой и бирманскими влияниями.",
+      "ja": "豚バラ肉を使い、ビルマ（ミャンマー）の影響を受けたマイルドなカレー。"
     },
     "ingredients": [
       "pork belly",
@@ -233,7 +263,12 @@
       "nl": "Gaeng Tai Pla",
       "thai": "แกงไตปลา",
       "ko": "깽따이쁠라",
-      "th": "แกงไตปลา"
+      "th": "แกงไตปลา",
+      "zh": "泰南鱼内脏咖喱",
+      "de": "Tai-Pla-Fisch-Curry",
+      "fr": "Gaeng Tai Pla",
+      "ru": "Карри Тай Пла",
+      "ja": "ゲーン・タイ・プラー"
     },
     "category": "curry",
     "region": "southern",
@@ -242,7 +277,12 @@
       "en": "Intensely spicy southern fish organ curry",
       "nl": "Intens pittige zuidelijke visorganen curry",
       "ko": "생선 내장으로 만든 매우 매운 남부 태국 커리",
-      "th": "แกงไตปลารสจัดจ้านของภาคใต้ ทำจากไตปลา พริก ตะไคร้ เผ็ดร้อนถึงใจ"
+      "th": "แกงไตปลารสจัดจ้านของภาคใต้ ทำจากไตปลา พริก ตะไคร้ เผ็ดร้อนถึงใจ",
+      "zh": "极辣的南部鱼内脏咖喱",
+      "de": "Äußerst scharfes Curry mit Fischorganen aus dem Süden.",
+      "fr": "Curry très épicé du sud, à base d'abats de poisson.",
+      "ru": "Южное карри из рыбьих органов Таиланда, крайне острое.",
+      "ja": "激しく辛い南部風の魚の内臓カレー。"
     },
     "ingredients": [
       "fish organs",

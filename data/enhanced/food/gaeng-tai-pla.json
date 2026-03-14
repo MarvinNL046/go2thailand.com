@@ -6,7 +6,8 @@
     "nl": "Gaeng Tai Pla",
     "thai": "แกงไตปลา",
     "ko": "깽따이쁠라",
-    "th": "แกงไตปลา"
+    "th": "แกงไตปลา",
+    "ja": "Gaeng Tai Pla（ゲーン・タイ・プラー）"
   },
   "category": "curry",
   "region": "southern",
@@ -38,13 +39,15 @@
       "en": "Gaeng Tai Pla Recipe | Authentic Thai curry",
       "nl": "Gaeng Tai Pla Recept | Authentieke Thaise curry",
       "ko": "깽따이쁠라 레시피 | 정통 태국 남부 커리",
-      "th": "สูตรแกงไตปลา | แกงไทยแท้"
+      "th": "สูตรแกงไตปลา | แกงไทยแท้",
+      "ja": "Gaeng Tai Pla レシピ | 本格的なタイ料理のカレー"
     },
     "metaDescription": {
       "en": "Learn about Gaeng Tai Pla (แกงไตปลา) - Intensely spicy southern fish organ curry...",
       "nl": "Leer over Gaeng Tai Pla (แกงไตปลา) - Intens pittige zuidelijke visorganen curry...",
       "ko": "깽따이쁠라(แกงไตปลา) - 생선 내장으로 만든 극강의 매운맛 남부 태국 커리. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับแกงไตปลา — แกงไตปลารสจัดจ้านของภาคใต้ ทำจากไตปลา พริก ตะไคร้ เผ็ดร้อนถึงใจ สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับแกงไตปลา — แกงไตปลารสจัดจ้านของภาคใต้ ทำจากไตปลา พริก ตะไคร้ เผ็ดร้อนถึงใจ สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Gaeng Tai Pla（แกงไตปลา）について詳しく解説します。南部タイの魚の内臓を使った激辛のカレーで、スパイス、シーフード、ココナツミルクが調和します。"
     }
   },
   "tags": [
@@ -869,6 +872,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Gaeng Tai Pla は南部タイ王国の豊かで香り高いカレーで、真の辛党にはたまらない激辛の一皿です。南部の魚の内臓を使った強烈な辛さのカレー。難易度の高いこのレシピは約40分で準備でき、海鮮とココナツミルクをベースにした南部タイ料理の本格的な風味を体現します。魚の内臓、唐辛子、レモングラスの組み合わせが調和の取れた風味を生み出し、地元民にも訪問者にも人気の一皿となっています。手頃な価格で本格的なタイ料理を求める人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "魚の内臓（Fish organs）",
+          "purpose": "本格的な Gaeng Tai Pla の風味に不可欠",
+          "substitutes": [
+            "新鮮な魚の内臓",
+            "乾燥魚の内臓",
+            "魚の内臓ペースト"
+          ]
+        },
+        {
+          "name": "唐辛子（Chili）",
+          "purpose": "本格的な Gaeng Tai Pla の風味に不可欠",
+          "substitutes": [
+            "新鮮な唐辛子",
+            "乾燥唐辛子",
+            "チリペースト"
+          ]
+        },
+        {
+          "name": "レモングラス（Lemongrass）",
+          "purpose": "本格的な Gaeng Tai Pla の風味に不可欠",
+          "substitutes": [
+            "新鮮なレモングラス",
+            "乾燥レモングラス",
+            "レモングラスペースト"
+          ]
+        },
+        {
+          "name": "ウコン（Turmeric）",
+          "purpose": "本格的な Gaeng Tai Pla の風味に不可欠",
+          "substitutes": [
+            "新鮮なウコン",
+            "乾燥ウコン",
+            "ウコンペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "カレーペーストの炒めとココナツミルクの煮詰め",
+        "steps_overview": "Gaeng Tai Pla の準備には細部への気配りと適切なタイミングが必要です。全ての風味のバランスを取りつつ、各具材の食感を保つことが鍵です。世代を超えて受け継がれる伝統的な方法が、本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果のためには新鮮な魚の内臓を使用する",
+          "辛さはお好みに合わせて調整する",
+          "食感を保つために煮過ぎない",
+          "盛り付け前に味を確かめ、調味を調整する"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng Tai Pla は代々南部タイ料理の主食として親しまれており、この地域の独自の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は南部タイ料理の心臓部を代表し、タイ料理が世界的に有名な調和とバランスを体現しています。",
+        "traditional_occasions": [
+          "家族の集い",
+          "地元の祭り",
+          "路上食品市場",
+          "特別な祝宴"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Tai Pla Classic（ゲーン タイ プラー クラシック）",
+          "description": "地元の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Gaeng Tai Pla Modern（ゲーン タイ プラー モダン）",
+          "description": "高級食材を使った現代風のアレンジ"
+        },
+        {
+          "name": "Vegetarian Gaeng Tai Pla（ベジタリアン ガーン タイ プラー）",
+          "description": "豆腐やきのこを使った植物性バージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "生野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "タイ風の伝統的な盛り付けで皿に盛る",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンを使って食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local southern Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

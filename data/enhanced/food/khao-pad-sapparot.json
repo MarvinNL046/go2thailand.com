@@ -6,7 +6,8 @@
     "nl": "Khao Pad Sapparot",
     "thai": "ข้าวผัดสับปะรด",
     "ko": "카오팟 싸빠롯",
-    "th": "ข้าวผัดสับปะรด"
+    "th": "ข้าวผัดสับปะรด",
+    "ja": "Khao Pad Sapparot（カオパット・サパロット）"
   },
   "category": "main-dish",
   "region": "central",
@@ -38,13 +39,15 @@
       "en": "Khao Pad Sapparot Recipe | Authentic Thai main dish",
       "nl": "Khao Pad Sapparot Recept | Authentieke Thaise main dish",
       "ko": "카오팟 싸빠롯 레시피 | 정통 태국 파인애플 볶음밥",
-      "th": "สูตรข้าวผัดสับปะรด | อาหารจานหลักไทยแท้"
+      "th": "สูตรข้าวผัดสับปะรด | อาหารจานหลักไทยแท้",
+      "ja": "Khao Pad Sapparot レシピ | 本格的タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Khao Pad Sapparot (ข้าวผัดสับปะรด) - Pineapple fried rice served in pineapple shell...",
       "nl": "Leer over Khao Pad Sapparot (ข้าวผัดสับปะรด) - Ananas gebakken rijst geserveerd in ananasschil...",
       "ko": "카오팟 싸빠롯(ข้าวผัดสับปะรด) - 파인애플 껍질에 담아 제공하는 새우와 캐슈넛이 들어간 태국 파인애플 볶음밥. 레시피, 재료, 조리법, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับข้าวผัดสับปะรด — ข้าวผัดสับปะรด เสิร์ฟในเปลือกสับปะรด หอมกลิ่นผงกะหรี่ มีเม็ดมะม่วงหิมพานต์ สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับข้าวผัดสับปะรด — ข้าวผัดสับปะรด เสิร์ฟในเปลือกสับปะรด หอมกลิ่นผงกะหรี่ มีเม็ดมะม่วงหิมพานต์ สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "ข้าวผัดสับปะรด（Khao Pad Sapparot）について学ぶ。パイナップルの殻に盛られたパイナップル炒飯の本格レシピと風味の解説。"
     }
   },
   "tags": [
@@ -869,6 +872,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Khao Pad Sapparot は中部タイの定番で、心温まる主菜として親しまれています。パイナップルの殻に盛られたパイナップル炒飯です。このレシピは約20分で作れる中庸なもので、中部タイ料理の本格的な味を表現し、甘味、酸味、塩味、辛味のバランスを完璧に整えます。米、パイナップル、エビの組み合わせは調和のとれたハーモニーを生み出し、地元の人々と訪れる人々の双方に人気の一品となっています。手頃な価格で本格的タイ料理を求める方に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "米",
+          "purpose": "本格的な Khao Pad Sapparot の風味を作るために欠かせない",
+          "substitutes": [
+            "新米",
+            "乾燥米",
+            "米ペースト"
+          ]
+        },
+        {
+          "name": "パイナップル",
+          "purpose": "本格的な Khao Pad Sapparot の風味に不可欠",
+          "substitutes": [
+            "生パイナップル",
+            "乾燥パイナップル",
+            "パイナップルペースト"
+          ]
+        },
+        {
+          "name": "エビ",
+          "purpose": "本格的な Khao Pad Sapparot の風味に不可欠",
+          "substitutes": [
+            "生エビ",
+            "干しエビ",
+            "エビペースト"
+          ]
+        },
+        {
+          "name": "カシューナッツ",
+          "purpose": "本格的な Khao Pad Sapparot の風味に不可欠",
+          "substitutes": [
+            "生カシューナッツ",
+            "乾燥カシューナッツ",
+            "カシューナッツペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "技法: 炒める（または焼く）",
+        "steps_overview": "カオパット・サパロットの準備には、細部と適切なタイミングに注意します。すべての風味をバランスさせ、各材料の食感を保つことが鍵です。代々受け継がれてきた伝統的な方法で、本格的な味を確実に再現します。",
+        "cooking_tips": [
+          "最良の結果のためには、できるだけ新米を使用してください",
+          "辛さのレベルはお好みに合わせて調整してください",
+          "食感を保つためには、過度に加熱しないでください",
+          "提供前に味を調整して、味を確定させてください"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Pad Sapparot は代々中部タイ料理の定番で、地域の独自の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理はタイ料理の中部の料理の心臓部を表しており、世界中で知られるそのバランスと調和を示しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地元の祭り",
+          "屋台市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Sapparot Classic",
+          "description": "地域の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Khao Pad Sapparot Modern",
+          "description": "現代的なアレンジでプレミアム食材を使用"
+        },
+        {
+          "name": "Vegetarian Khao Pad Sapparot",
+          "description": "豆腐やキノコを使った植物ベースのバージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "生野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "タイ式の伝統的な盛り付けで皿に盛られて提供されます",
+        "eating_etiquette": "タイの慣習に従い、フォークとスプーンを使って食べます"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "地元の中部タイ料理店",
+          "本格的な屋台",
+          "伝統的市場",
+          "家族経営の飲食店"
+        ],
+        "street_food_areas": [
+          "夜市",
+          "朝市",
+          "地元のフードコート"
         ],
         "price_ranges": {
           "street_vendor": "50-80 THB",

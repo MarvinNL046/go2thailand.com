@@ -6,7 +6,8 @@
     "nl": "Nam Prik Goong Siap",
     "thai": "น้ำพริกกุ้งเสียบ",
     "ko": "남프릭꿍시압",
-    "th": "น้ำพริกกุ้งเสียบ"
+    "th": "น้ำพริกกุ้งเสียบ",
+    "ja": "Nam Prik Goong Siap（ナムプリック・グーン・シアップ）"
   },
   "category": "main-dish",
   "region": "southern",
@@ -38,13 +39,15 @@
       "en": "Nam Prik Goong Siap Recipe | Authentic Thai main dish",
       "nl": "Nam Prik Goong Siap Recept | Authentieke Thaise main dish",
       "ko": "남프릭꿍시압 레시피 | 정통 태국 남부 건새우 칠리 딥",
-      "th": "สูตรน้ำพริกกุ้งเสียบ | อาหารจานหลักไทยแท้"
+      "th": "สูตรน้ำพริกกุ้งเสียบ | อาหารจานหลักไทยแท้",
+      "ja": "Nam Prik Goong Siap レシピ | 本格タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Spicy dip with smoked dried shrimp...",
       "nl": "Leer over Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Pittige dipsaus met gerookte gedroogde garnalen...",
       "ko": "남프릭꿍시압(น้ำพริกกุ้งเสียบ) - 훈제 건새우, 고추, 마늘, 샬롯으로 만든 태국 남부 매콤한 칠리 딥. 레시피, 재료, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับน้ำพริกกุ้งเสียบ — น้ำพริกกุ้งเสียบ น้ำพริกเผ็ดร้อนกับกุ้งแห้งรมควัน กินกับผักสด สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับน้ำพริกกุ้งเสียบ — น้ำพริกกุ้งเสียบ น้ำพริกเผ็ดร้อนกับกุ้งแห้งรมควัน กินกับผักสด สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "Nam Prik Goong Siap（น้ำพริกกุ้งเสียบ）について解説します。燻製乾燥えびを使った辛味ディップで、南部タイ料理を代表する主菜の一つです。"
     }
   },
   "tags": [
@@ -870,6 +873,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Nam Prik Goong Siap は、南部タイの郷土料理として長く愛されてきた、辛くてボリューム感のある主菜です。燻製の乾燥えびを使った辛味ディップで、作り方は約20分。南部タイ料理の本格的な風味を表現し、強い香辛料と魚介、ココナツベースのカレーが特徴です。干しえび、唐辛子、にんにくの組み合わせは、食材の食感を生かしつつ調和のとれた風味のハーモニーを生み出し、地元の人々はもちろん訪れる観光客にも愛されています。手頃で本格的なタイ料理を求める人にぴったりの一品です。",
+      "detailed_ingredients": [
+        {
+          "name": "乾燥えび",
+          "purpose": "Nam Prik Goong Siap の本格的な風味に不可欠",
+          "substitutes": [
+            "新鮮なえび",
+            "干しえび",
+            "えびペースト"
+          ]
+        },
+        {
+          "name": "唐辛子",
+          "purpose": "Nam Prik Goong Siap の本格的な風味に不可欠",
+          "substitutes": [
+            "新鮮な唐辛子",
+            "乾燥唐辛子",
+            "チリペースト"
+          ]
+        },
+        {
+          "name": "にんにく",
+          "purpose": "Nam Prik Goong Siap の本格的な風味に不可欠",
+          "substitutes": [
+            "生のにんにく",
+            "乾燥にんにく",
+            "にんにくペースト"
+          ]
+        },
+        {
+          "name": "エシャロット",
+          "purpose": "Nam Prik Goong Siap の本格的な風味に不可欠",
+          "substitutes": [
+            "生のエシャロット",
+            "乾燥エシャロット",
+            "エシャロットペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒めるまたは焼く",
+        "steps_overview": "Nam Prik Goong Siap の準備には、細部とタイミングへの注意が必要です。風味のバランスを取りつつ、各材料の食感を保つことが鍵です。世代を超えて伝わる伝統的な方法で、本格的な味を確保します。",
+        "cooking_tips": [
+          "最高の結果を得るには、できるだけ新鮮な乾燥えびを選ぶ。",
+          "お好みで辛さを調整してください。",
+          "食感を保つため、過度に加熱しすぎないでください。",
+          "盛り付け前に味を確認し、味付けを調整してください。"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Goong Siap は代々南部タイ料理の定番であり、地域の独自の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は、世界的に有名なタイ料理の和とバランスを体現する、南部タイ料理の心臓部を代表します。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地域の祭り",
+          "屋台市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Goong Siap Classic",
+          "description": "地元の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Nam Prik Goong Siap Modern",
+          "description": "プレミアム食材を使った現代的なアレンジ"
+        },
+        {
+          "name": "Vegetarian Nam Prik Goong Siap",
+          "description": "豆腐やきのこを使った植物ベースのバージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミン米",
+          "新鮮な野菜",
+          "タイハーブ"
+        ],
+        "presentation": "タイ伝統の盛り付けスタイルで皿に盛り付けられます",
+        "eating_etiquette": "タイの習慣に従い、フォークとスプーンを使って楽しみます"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local southern Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

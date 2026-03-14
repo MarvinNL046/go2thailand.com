@@ -6,7 +6,8 @@
     "nl": "Pad Krapow",
     "thai": "ผัดกะเพรา",
     "ko": "팟끄라파오",
-    "th": "ผัดกะเพรา"
+    "th": "ผัดกะเพรา",
+    "ja": "Pad Krapow（パット・クラポー）"
   },
   "category": "main-dish",
   "region": "central",
@@ -166,13 +167,15 @@
       "en": "Pad Krapow Recipe | Authentic Thai main dish",
       "nl": "Pad Krapow Recept | Authentieke Thaise main dish",
       "ko": "팟끄라파오 레시피 | 정통 태국 바질 다진고기 볶음",
-      "th": "สูตรผัดกะเพรา | อาหารจานหลักไทยแท้"
+      "th": "สูตรผัดกะเพรา | อาหารจานหลักไทยแท้",
+      "ja": "Pad Krapow レシピ | 本格タイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Pad Krapow (ผัดกะเพรา) - Stir-fried Thai basil with minced pork or chicken served over rice with a fried egg...",
       "nl": "Leer over Pad Krapow (ผัดกะเพรา) - Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei...",
       "ko": "팟끄라파오(ผัดกะเพรา) - 홀리 바질과 다진 고기를 강한 불에 볶아 밥과 계란프라이와 함께 먹는 태국 국민 요리. 레시피, 재료, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับผัดกะเพรา — ผัดกะเพราหมูสับ ผัดใบกะเพราหอมฉุน เสิร์ฟบนข้าวสวยร้อนๆ ราดไข่ดาว สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับผัดกะเพรา — ผัดกะเพราหมูสับ ผัดใบกะเพราหอมฉุน เสิร์ฟบนข้าวสวยร้อนๆ ราดไข่ดาว สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "パット・クラポー（ผัดกะเพรา）について知る。タイのバジルと挽き肉を強火で炒め、ご飯の上に目玉焼きをのせた定番の一品です。"
     }
   },
   "tags": [
@@ -982,6 +985,122 @@
           "street_food": "40-60 THB ($1.20-$1.80)",
           "restaurant": "80-150 THB ($2.40-$4.50)",
           "upscale": "200-400 THB ($6-$12)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Pad Krapowはタイの究極のコンフォートフードです。ホーリーバジルの香り高い刺激と、香ばしい挽き肉の旨味のバランスが絶妙な激辛の炒め物。路上の屋台やレストランで広く親しまれるこの料理は、力強い風味と満足感のあるシンプルさが魅力です。秘密はホーリーバジル（Bai Krapow）にあり、強火で炒めると特有のクローブのような香りが引き出され、鼻をくすぐる芳香だけで食欲をそそる一品になります。",
+      "detailed_ingredients": [
+        {
+          "name": "ホーリーバジル (Bai Krapow)",
+          "purpose": "この料理の名と特徴的なペッパーの風味を生む主役の材料",
+          "substitutes": [
+            "タイバジル（本格的ではないが許容される代替）",
+            "ミントを混ぜたイタリアンバジル（緊急代替）"
+          ]
+        },
+        {
+          "name": "タイ・バードアイ・チリ（Thai Bird's Eye Chilies）",
+          "purpose": "この料理を本格的に辛くする主要な辛味",
+          "substitutes": [
+            "セラーノペッパー",
+            "生紅唐辛子",
+            "唐辛子フレーク（量を調整）"
+          ]
+        },
+        {
+          "name": "挽き豚肉または鶏挽肉",
+          "purpose": "伝統的なタンパク源で、風味をすべて吸収する",
+          "substitutes": [
+            "挽き牛肉",
+            "砕いた豆腐",
+            "ベジタリアン向けのみじん切りきのこ"
+          ]
+        },
+        {
+          "name": "魚醤（Fish Sauce）",
+          "purpose": "旨味深さと本格的なタイ風味を加える",
+          "substitutes": [
+            "塩をひとつまみ加えた薄口醤油",
+            "ベジタリアン用マッシュルームソース"
+          ]
+        },
+        {
+          "name": "濃い醤油（Dark Soy Sauce）",
+          "purpose": "色と、辛さのバランスをとる微かな甘さを提供",
+          "substitutes": [
+            "モラセスを少し足した普通の醤油"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "強火の中華鍋炒め",
+        "steps_overview": "パット・クラポーを完璧に仕上げる鍵は、極端な高温とスピード。調理を始めてから5分以内にすべてが起こる。中華鍋は煙を上げるほど熱くなり、料理の特徴的な燻香である“Wok Hei（風味）”を生む。",
+        "cooking_tips": [
+          "調理台の最大火力を使うこと - この料理には強い火力が必要です",
+          "材料はすべて下ごしらえして、手元に用意しておく",
+          "ホーリーバジルは過剰に火を通さない - 最後に加えて風味を保つ",
+          "肉は中華鍋に入るときに激しくジュージュー音を立てるべき",
+          "本格的な風味を出すには、にんにくと唐辛子をすり鉢で潰す",
+          "目玉焼きは縁がカリカリで黄身はとろりとする"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pad Krapowはタイのストリートフード文化から生まれました。忙しい労働者のために、すぐに作れて安価な食事が求められていました。1960年代の都市化の進展とともに、路上の屋台が携帯用ガスコンロの上で素早く調理できる料理として人気を得ました。",
+        "cultural_importance": "これはタイの定番のコンフォートフードで、アメリカのグリルドチーズサンドに相当します。タイ人が故郷を恋しくなるとき、二日酔いのとき、そして子どもに料理を最初に教えるときに求める料理です。「pad krapow kai dao（パッド・クラポー・カイ・ダオ）」はタイの象徴的な表現です。",
+        "traditional_occasions": [
+          "夜遅い時間の屋台料理",
+          "オフィスワーカーの手早いランチ",
+          "学生の予算に優しい食事",
+          "体調が優れないときの定番の慰めの料理"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Krapow Moo Krob",
+          "description": "挽き肉の代わりに豚バラ肉のクリスピーさと豊かな食感を加えたバリエーション"
+        },
+        {
+          "name": "Pad Krapow Talay",
+          "description": "エビ、イカ、魚を使った海鮮版。沿岸部で人気"
+        },
+        {
+          "name": "Pad Krapow Kai",
+          "description": "鶏肉版。より軽い選択を求める人に好まれる"
+        },
+        {
+          "name": "Vegetarian Pad Krapow",
+          "description": "豆腐、キノコ、野菜の混合を使い、ベジタリアン炒めソースで仕上げ"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス（必須—これなしでは出さない）",
+          "黄身がとろりとした目玉焼き（kai dao）",
+          "新鮮なきゅうりのスライス",
+          "チリ入り魚醤（ prik nam pla）",
+          "暑さ対策の冷たいタイ・アイスティー"
+        ],
+        "presentation": "ご飯を一方に、炒め物をもう一方に盛り付け、上に目玉焼きを乗せる。黄身を割ってご飯と肉に絡めると香りと味が一体になる。",
+        "eating_etiquette": "右手でスプーン、左手でフォークを使って食べる。フォークは食べ物をスプーンへ押しのせるために使う。卵黄を割って米と肉に絡めるのも食体験の一部。"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) - ミシュラン星付きバージョン",
+          "Soei Restaurant (Bangkok) - 地元のお気に入り",
+          "地元の人々が並ぶ屋台"
+        ],
+        "street_food_areas": [
+          "Chinatown (Yaowarat), Bangkok",
+          "Victory Monument area, Bangkok",
+          "Chiang Mai Night Bazaar",
+          "Phuket Weekend Market"
+        ],
+        "price_ranges": {
+          "street_food": "ストリートフード 40-60 THB ($1.20-$1.80)",
+          "restaurant": "レストラン 80-150 THB ($2.40-$4.50)",
+          "upscale": "高級 200-400 THB ($6-$12)"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

@@ -6,7 +6,8 @@
     "nl": "Roti Sai Mai",
     "thai": "โรตีสายไหม",
     "ko": "로띠 사이마이",
-    "th": "โรตีสายไหม"
+    "th": "โรตีสายไหม",
+    "ja": "Roti Sai Mai（ロティ・サイマイ）"
   },
   "category": "dessert",
   "region": "central",
@@ -37,13 +38,15 @@
       "en": "Roti Sai Mai Recipe | Authentic Thai dessert",
       "nl": "Roti Sai Mai Recept | Authentieke Thaise dessert",
       "ko": "로띠 사이마이 레시피 | 아유타야 명물 태국 솜사탕 로띠 디저트",
-      "th": "สูตรโรตีสายไหม | ของหวานไทยแท้"
+      "th": "สูตรโรตีสายไหม | ของหวานไทยแท้",
+      "ja": "Roti Sai Mai レシピ | 本場タイのデザート"
     },
     "metaDescription": {
       "en": "Learn about Roti Sai Mai (โรตีสายไหม) - Thai cotton candy wrapped in thin roti from Ayutthaya...",
       "nl": "Leer over Roti Sai Mai (โรตีสายไหม) - Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya...",
       "ko": "로띠 사이마이(โรตีสายไหม) - 아유타야의 상징적인 디저트. 종이처럼 얇은 로띠에 파스텔 색상의 설탕 실을 올려 말아 먹는 전통 간식. 만드는 법, 유래, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับโรตีสายไหม — โรตีสายไหม ขนมหวานจากอยุธยา สายไหมน้ำตาลหลากสีห่อในแผ่นโรตีบาง สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับโรตีสายไหม — โรตีสายไหม ขนมหวานจากอยุธยา สายไหมน้ำตาลหลากสีห่อในแผ่นโรตีบาง สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "ロティ・サイマイ（โรตีสายไหม）について詳しく解説します。アユタヤ産の薄いロティで包んだタイの綿菓子は、タイ中部の伝統的なデザートとして親しまれています。"
     }
   },
   "tags": [
@@ -865,6 +868,109 @@
           "ตลาดนัดกลางคืน",
           "ตลาดเช้า",
           "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "ロティ・サイマイはタイ中部の人々に愛される甘くて上品なスイーツで、口当たりは優しいです。アユタヤ産の薄いロティで包んだタイの綿菓子です。この本格レシピは準備に約30分かかり、タイ中部料理の本格的な味を表現し、甘味・酸味・塩味・辛味のバランスを完璧に保ちます。小麦粉・砂糖・着色料の組み合わせが調和した風味を生み出し、地元の人々にも訪問者にも人気の一品となっています。手頃な価格で本格的なタイ料理を求める人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "小麦粉",
+          "purpose": "本格的なロティ・サイマイの風味を作るために欠かせない材料",
+          "substitutes": [
+            "新鮮な小麦粉",
+            "乾燥小麦粉",
+            "小麦粉ペースト"
+          ]
+        },
+        {
+          "name": "砂糖",
+          "purpose": "本格的なロティ・サイマイの風味の要",
+          "substitutes": [
+            "新鮮な砂糖",
+            "乾燥砂糖",
+            "砂糖ペースト"
+          ]
+        },
+        {
+          "name": "食用着色料",
+          "purpose": "本格的な見た目と風味を出すために欠かせない",
+          "substitutes": [
+            "新鮮な食用着色料",
+            "乾燥着色料",
+            "着色ペースト"
+          ]
+        },
+        {
+          "name": "水",
+          "purpose": "本格的なロティ・サイマイの風味を引き立てる",
+          "substitutes": [
+            "新鮮な水",
+            "乾燥水",
+            "水ペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "伝統的な作り方",
+        "steps_overview": "ロティ・サイマイを作るには細部への注意と適切なタイミングが求められます。すべての風味のバランスを取りつつ、各材料の食感を保つことが鍵です。代々受け継がれてきた伝統法が、本格的な味を確実にします。",
+        "cooking_tips": [
+          "最良の結果を得るには新鮮な小麦粉を使用してください",
+          "お好みに合わせて風味の強さを調整してください",
+          "食感を保つため、過度に加熱しないでください",
+          "提供前に味を確かめ、調味を整えてください"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "ロティ・サイマイは長い間タイ中部料理の定番として親しまれてきたもので、この地域の独自の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理はタイ中部料理の心臓部を象徴しており、タイ料理が世界的に有名なバランスとハーモニーを体現しています。",
+        "traditional_occasions": [
+          "家族の集い",
+          "地域の祭り",
+          "ストリートフードマーケット",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Roti Sai Mai Classic",
+          "description": "地域の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Roti Sai Mai Modern",
+          "description": "プレミアム食材を使った現代的なひねり"
+        },
+        {
+          "name": "Vegetarian Roti Sai Mai",
+          "description": "豆腐またはきのこを使った植物ベースのバージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミン米",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ風の盛り付けで皿に盛る",
+        "eating_etiquette": "タイの慣習に従いフォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local central Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

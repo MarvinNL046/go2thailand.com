@@ -6,7 +6,8 @@
     "nl": "Moo Palo",
     "thai": "หมูพะโล้",
     "ko": "무빠로",
-    "th": "หมูพะโล้"
+    "th": "หมูพะโล้",
+    "ja": "Moo Palo（ムー・パロー）"
   },
   "category": "main-dish",
   "region": "northern",
@@ -36,13 +37,15 @@
       "en": "Moo Palo Recipe | Authentic Thai main dish",
       "nl": "Moo Palo Recept | Authentieke Thaise main dish",
       "ko": "무빠로 레시피 | 정통 태국 중화풍 오향 돼지고기 조림",
-      "th": "สูตรหมูพะโล้ | อาหารจานหลักไทยแท้"
+      "th": "สูตรหมูพะโล้ | อาหารจานหลักไทยแท้",
+      "ja": "Moo Palo レシピ | 本格的なタイ料理の主菜"
     },
     "metaDescription": {
       "en": "Learn about Moo Palo (หมูพะโล้) - Pork belly stewed in sweet soy sauce with eggs...",
       "nl": "Leer over Moo Palo (หมูพะโล้) - Varkensbuik gestoofd in zoete sojasaus met eieren...",
       "ko": "무빠로(หมูพะโล้) - 오향 가루, 간장, 야자 설탕으로 조린 삼겹살과 달걀. 중국-태국 퓨전 조림 요리의 레시피, 재료, 맛집 정보.",
-      "th": "เรียนรู้เกี่ยวกับหมูพะโล้ — หมูพะโล้ หมูสามชั้นตุ๋นซีอิ๊วดำกับไข่ต้ม เครื่องเทศจีนหอมกรุ่น สูตร วิธีทำ ประวัติ และร้านแนะนำ"
+      "th": "เรียนรู้เกี่ยวกับหมูพะโล้ — หมูพะโล้ หมูสามชั้นตุ๋นซีอิ๊วดำกับไข่ต้ม เครื่องเทศจีนหอมกรุ่น สูตร วิธีทำ ประวัติ และร้านแนะนำ",
+      "ja": "タイ北部の郷土料理 Moo Palo（หมูพะโล้）- 玉子入りの甘い醤油で煮込んだ豚バラの旨煮について解説します。"
     }
   },
   "tags": [
@@ -870,6 +873,109 @@
           "street_vendor": "30-50 THB",
           "market_stall": "40-60 THB",
           "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Moo Palo は北タイの家庭で広く親しまれている、ほどよい温かさを感じる主菜です。豚バラ肉を玉子とともに、甘い醤油で煮込みます。中程度の難易度のレシピで、準備には約90分を要します。北タイ料理の本格的な風味は、穏やかな味わい、もち米、ハーブによって特徴づけられます。豚バラ肉と玉子、醤油の組み合わせが調和のとれた味を生み出し、地元の人々や訪問者の間でこの料理をお気に入りの一つにしています。手頃な価格で本格的なタイ料理を探している人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "豚バラ肉",
+          "purpose": "本格的 Moo Palo の風味に不可欠",
+          "substitutes": [
+            "新鮮な豚バラ肉",
+            "乾燥豚バラ",
+            "豚バラペースト"
+          ]
+        },
+        {
+          "name": "卵",
+          "purpose": "本格的 Moo Palo の風味に不可欠",
+          "substitutes": [
+            "新鮮な卵",
+            "乾燥卵",
+            "卵ペースト"
+          ]
+        },
+        {
+          "name": "醤油",
+          "purpose": "本格的 Moo Palo の風味に不可欠",
+          "substitutes": [
+            "新鮮な醤油",
+            "乾燥醤油",
+            "醤油ペースト"
+          ]
+        },
+        {
+          "name": "パームシュガー",
+          "purpose": "本格的 Moo Palo の風味に不可欠",
+          "substitutes": [
+            "新鮮なパームシュガー",
+            "乾燥パームシュガー",
+            "パームシュガーペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒め煮または焼く",
+        "steps_overview": "Moo Palo の準備には細部への注意と適切なタイミングが必要です。全ての風味をバランスよく整えつつ、材料ごとの食感を保つことが重要です。何世代にもわたり受け継がれてきた伝統的な方法が本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果のために新鮮な豚バラ肉を使用する",
+          "お好みに合わせて辛さを調整する",
+          "食感を保つために煮過ぎない",
+          "提供前に味見して調味を整える"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Palo は北タイ料理の伝統的な定番で、世代を超えて地域の独自の料理伝統と地元の材料を反映してきました。",
+        "cultural_importance": "この料理は北タイ料理の核心を成しており、タイ料理が世界各地で評価される調和とバランスを体現しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地元の祭り",
+          "屋台市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Palo Classic",
+          "description": "地元の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Moo Palo Modern",
+          "description": "プレミアム食材を使った現代的なひねり"
+        },
+        {
+          "name": "Vegetarian Moo Palo",
+          "description": "豆腐またはキノコを使った植物ベース版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "タイの伝統的な盛り付けで皿に盛り付け",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Local northern Thai restaurants",
+          "Authentic street food stalls",
+          "Traditional markets",
+          "Family-run eateries"
+        ],
+        "street_food_areas": [
+          "Night markets",
+          "Morning fresh markets",
+          "Local food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "露店 30-50 THB",
+          "market_stall": "市場のスタンド 40-60 THB",
+          "restaurant": "レストラン 60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"
