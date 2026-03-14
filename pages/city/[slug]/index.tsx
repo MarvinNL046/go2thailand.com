@@ -371,7 +371,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 "name": "Go2Thailand.com",
                 "url": "https://go2-thailand.com"
               },
-              "inLanguage": locale === 'nl' ? 'nl' : 'en',
+              "inLanguage": locale || 'en',
               "image": city.image?.startsWith('http') ? city.image : `https://go2-thailand.com${city.image}`
             })
           }}
@@ -1646,7 +1646,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const cities = getCityStaticPaths();
-  const locales = ['en', 'zh', 'de', 'fr', 'ru', 'ja', 'ko'];
+  const locales = ['en', 'zh', 'de', 'fr', 'ru', 'ja', 'ko', 'th'];
   
   // Generate paths for all locales
   const paths = [];

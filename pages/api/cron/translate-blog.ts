@@ -30,7 +30,7 @@ export default async function handler(
       return res.status(200).json({ message: "No English blog posts found" });
     }
 
-    const allLocales: TranslationLocale[] = ["nl", "zh", "de", "fr", "ru", "ja", "ko"];
+    const allLocales: TranslationLocale[] = ["nl", "zh", "de", "fr", "ru", "ja", "ko", "th"];
     const enFiles = fs.readdirSync(enDir).filter((f) => f.endsWith(".md"));
 
     // Sort by frontmatter date (newest first) — mtime is unreliable on Vercel
@@ -45,7 +45,7 @@ export default async function handler(
 
     // Prioritize NL first, then other locales — NL is our primary secondary language
     const priorityLocales: TranslationLocale[] = ["nl"];
-    const otherLocales: TranslationLocale[] = ["zh", "de", "fr", "ru", "ja", "ko"];
+    const otherLocales: TranslationLocale[] = ["zh", "de", "fr", "ru", "ja", "ko", "th"];
 
     // Scan ALL posts for missing translations (no slice limit)
     // Priority: NL translations first across all posts, then other locales

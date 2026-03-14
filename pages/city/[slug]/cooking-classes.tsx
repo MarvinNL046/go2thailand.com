@@ -389,7 +389,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   const citySlugs = getAllCookingClassCities();
   const paths: { params: { slug: string }; locale?: string }[] = [];
 
-  const locales = ['en', 'nl', 'zh', 'de', 'fr', 'ru', 'ja', 'ko'];
+  const locales = ['en', 'nl', 'zh', 'de', 'fr', 'ru', 'ja', 'ko', 'th'];
   citySlugs.forEach(slug => {
     // Only generate for cities that exist in the cities index (not islands like koh-samui)
     const city = getCityBySlug(slug);

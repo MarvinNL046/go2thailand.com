@@ -367,7 +367,7 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
   const cities = getAllCities();
   const availableGuides: Top10Guide[] = [];
   const featuredGuides: Top10Guide[] = [];
@@ -375,7 +375,9 @@ export const getStaticProps: GetStaticProps = async () => {
   // Check which cities have hotel guides
   for (const city of cities) {
     try {
-      const dataPath = path.join(process.cwd(), 'data', 'top10', `${city.slug}-hotels.json`);
+      const localePath = locale && locale !== 'en' ? path.join(process.cwd(), 'data', 'top10', locale, `${city.slug}-hotels.json`) : '';
+      const defaultPath = path.join(process.cwd(), 'data', 'top10', `${city.slug}-hotels.json`);
+      const dataPath = localePath && fs.existsSync(localePath) ? localePath : defaultPath;
       if (fs.existsSync(dataPath)) {
         const fileContent = fs.readFileSync(dataPath, 'utf8');
         const data = JSON.parse(fileContent);

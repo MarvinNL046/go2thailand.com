@@ -68,10 +68,17 @@ export function useTranslatedContent(contentType: string, slug?: string) {
                 throw new Error(`Translations not available for ${contentType}`);
             }
           } catch (err) {
-            // If no translation exists, fall back to English
+            // If no separate translation file, try extracting locale from base data
+            const baseData = await loadEnglishContent(contentType, slug);
+            const extracted = extractLocaleFromData(baseData, locale);
+            if (extracted) {
+              setContent(extracted);
+              return;
+            }
+            // Final fallback to English
             console.warn(`No ${locale} translation for ${contentType}/${slug}, using English`);
-            const englishData = await loadEnglishContent(contentType, slug);
-            setContent(englishData);
+            const englishFallback = mergeTranslations(baseData, null, 'en');
+            setContent(englishFallback);
             return;
           }
 
@@ -162,6 +169,57 @@ function mergeTranslations(baseContent: any, translations: any, locale: string):
   }
   
   return merged;
+}
+
+// Extract locale-specific values from data files with locale-keyed fields (e.g., name: { en: "...", th: "..." })
+function extractLocaleFromData(data: any, locale: string): any | null {
+  if (!data) return null;
+
+  let hasLocaleData = false;
+  const extracted = { ...data };
+
+  // Check common locale-keyed fields
+  const localeKeyedFields = ['name', 'description', 'highlights', 'climate', 'bestTimeToVisit', 'geography', 'culture', 'cuisine', 'transportation', 'budgetInfo'];
+
+  for (const field of localeKeyedFields) {
+    if (extracted[field] && typeof extracted[field] === 'object' && !Array.isArray(extracted[field]) && extracted[field][locale]) {
+      extracted[field] = extracted[field][locale];
+      hasLocaleData = true;
+    }
+  }
+
+  // Handle SEO fields
+  if (extracted.seo) {
+    if (extracted.seo.metaTitle && typeof extracted.seo.metaTitle === 'object' && extracted.seo.metaTitle[locale]) {
+      extracted.seo = { ...extracted.seo, metaTitle: extracted.seo.metaTitle[locale] };
+      hasLocaleData = true;
+    }
+    if (extracted.seo.metaDescription && typeof extracted.seo.metaDescription === 'object' && extracted.seo.metaDescription[locale]) {
+      extracted.seo = { ...extracted.seo, metaDescription: extracted.seo.metaDescription[locale] };
+      hasLocaleData = true;
+    }
+  }
+
+  // Handle categories
+  if (extracted.categories) {
+    Object.keys(extracted.categories).forEach(key => {
+      if (extracted.categories[key] && typeof extracted.categories[key] === 'object' && extracted.categories[key][locale]) {
+        extracted.categories[key] = extracted.categories[key][locale];
+        hasLocaleData = true;
+      }
+    });
+  }
+
+  // Handle translations block (used by food items)
+  if (extracted.translations && extracted.translations[locale]) {
+    const localeTranslations = extracted.translations[locale];
+    Object.keys(localeTranslations).forEach(key => {
+      extracted[key] = localeTranslations[key];
+    });
+    hasLocaleData = true;
+  }
+
+  return hasLocaleData ? extracted : null;
 }
 
 // Hook for getting translated text from common translations

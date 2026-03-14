@@ -416,16 +416,18 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths, fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
   const city = getCityBySlug(slug);
 
   if (!city) return { notFound: true };
 
-  // Try to load top 10 attractions data
+  // Try to load locale-specific top 10 attractions data, fallback to English
   let attractionsData = null;
   try {
-    const dataPath = path.join(process.cwd(), 'data', 'top10', `${slug}-attractions.json`);
+    const localePath = locale && locale !== 'en' ? path.join(process.cwd(), 'data', 'top10', locale, `${slug}-attractions.json`) : '';
+    const defaultPath = path.join(process.cwd(), 'data', 'top10', `${slug}-attractions.json`);
+    const dataPath = localePath && fs.existsSync(localePath) ? localePath : defaultPath;
     if (fs.existsSync(dataPath)) {
       const fileContent = fs.readFileSync(dataPath, 'utf8');
       attractionsData = JSON.parse(fileContent);

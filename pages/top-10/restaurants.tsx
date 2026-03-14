@@ -327,7 +327,7 @@ export default function Top10RestaurantsIndex({ availableGuides, featuredGuides 
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
   const cities = getAllCities();
   const availableGuides: Top10Guide[] = [];
   const featuredGuides: Top10Guide[] = [];
@@ -335,7 +335,9 @@ export const getStaticProps: GetStaticProps = async () => {
   // Check which cities have restaurant guides
   for (const city of cities) {
     try {
-      const dataPath = path.join(process.cwd(), 'data', 'top10', `${city.slug}-restaurants.json`);
+      const localePath = locale && locale !== 'en' ? path.join(process.cwd(), 'data', 'top10', locale, `${city.slug}-restaurants.json`) : '';
+      const defaultPath = path.join(process.cwd(), 'data', 'top10', `${city.slug}-restaurants.json`);
+      const dataPath = localePath && fs.existsSync(localePath) ? localePath : defaultPath;
       if (fs.existsSync(dataPath)) {
         const fileContent = fs.readFileSync(dataPath, 'utf8');
         const data = JSON.parse(fileContent);

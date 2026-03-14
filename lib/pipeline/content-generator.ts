@@ -134,7 +134,7 @@ const TOPIC_BANK: Record<PostCategory, string[]> = {
 };
 
 // Supported translation locales (English is source)
-const TRANSLATION_LOCALES = ["nl", "zh", "de", "fr", "ru", "ja", "ko"] as const;
+const TRANSLATION_LOCALES = ["nl", "zh", "de", "fr", "ru", "ja", "ko", "th"] as const;
 export type TranslationLocale = (typeof TRANSLATION_LOCALES)[number];
 
 // -------------------------------------------------------------------
@@ -379,6 +379,7 @@ export async function translatePost(
     ru: "Russian",
     ja: "Japanese",
     ko: "Korean",
+    th: "Thai",
   };
 
   const localeName = localeNames[targetLocale];

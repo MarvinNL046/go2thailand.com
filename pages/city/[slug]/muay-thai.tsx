@@ -571,7 +571,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   const citySlugs = getAllMuayThaiCities();
   const paths: { params: { slug: string }; locale?: string }[] = [];
 
-  const locales = ['en', 'nl', 'zh', 'de', 'fr', 'ru', 'ja', 'ko'];
+  const locales = ['en', 'nl', 'zh', 'de', 'fr', 'ru', 'ja', 'ko', 'th'];
   citySlugs.forEach(slug => {
     const city = getCityBySlug(slug);
     if (!city) return;
