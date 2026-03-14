@@ -4,14 +4,16 @@
   "name": {
     "en": "Sukhothai Noodles",
     "nl": "Sukhothai Noedels",
-    "thai": "ก๋วยเตี๋ยวสุโขทัย"
+    "thai": "ก๋วยเตี๋ยวสุโขทัย",
+    "ja": "スコータイヌードル"
   },
   "category": "soup",
   "region": "northern",
   "spice_level": "mild",
   "description": {
     "en": "Sukhothai style noodles with ground peanuts",
-    "nl": "Sukhothai stijl noedels met gemalen pinda's"
+    "nl": "Sukhothai stijl noedels met gemalen pinda's",
+    "ja": "砕きピーナッツを添えたスコータイ風ヌードル"
   },
   "ingredients": [
     "rice noodles",
@@ -32,11 +34,13 @@
   "seo": {
     "metaTitle": {
       "en": "Sukhothai Noodles Recipe | Authentic Thai soup",
-      "nl": "Sukhothai Noedels Recept | Authentieke Thaise soup"
+      "nl": "Sukhothai Noedels Recept | Authentieke Thaise soup",
+      "ja": "スコータイヌードルのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Sukhothai Noodles (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai style noodles with ground peanuts...",
-      "nl": "Leer over Sukhothai Noedels (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai stijl noedels met gemalen pinda's..."
+      "nl": "Leer over Sukhothai Noedels (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai stijl noedels met gemalen pinda's...",
+      "ja": "スコータイヌードル（ก๋วยเตี๋ยวสุโขทัย）について — 砕きピーナッツを添えたスコータイ風ヌードル。"
     }
   },
   "tags": [

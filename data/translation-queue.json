@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-14",
   "stats": {
     "total": 1504,
-    "completed": 1120
+    "completed": 1121
   },
   "queue": [
     {
@@ -8984,14 +8984,15 @@
       "type": "food",
       "file": "data/enhanced/food/sukhothai-noodles.json",
       "locale": "ja",
-      "status": "in_progress",
-      "priority": 14
+      "status": "completed",
+      "priority": 14,
+      "completedAt": "2026-03-14"
     },
     {
       "type": "food",
       "file": "data/enhanced/food/tam-khanun.json",
       "locale": "ja",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 14
     },
     {
