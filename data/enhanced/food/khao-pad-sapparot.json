@@ -5,7 +5,7 @@
     "en": "Khao Pad Sapparot",
     "nl": "Khao Pad Sapparot",
     "thai": "ข้าวผัดสับปะรด",
-    "ja": "カオパッサパロット"
+    "ko": "카오팟 싸빠롯"
   },
   "category": "main-dish",
   "region": "central",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Pineapple fried rice served in pineapple shell",
     "nl": "Ananas gebakken rijst geserveerd in ananasschil",
-    "ja": "パイナップルの器に入ったパイナップル入りチャーハン、カシューナッツとレーズン添え"
+    "ko": "파인애플 껍질에 담아 제공하는 파인애플 볶음밥"
   },
   "ingredients": [
     "rice",
@@ -35,12 +35,12 @@
     "metaTitle": {
       "en": "Khao Pad Sapparot Recipe | Authentic Thai main dish",
       "nl": "Khao Pad Sapparot Recept | Authentieke Thaise main dish",
-      "ja": "カオパッサパロットのレシピ | 本格タイ料理"
+      "ko": "카오팟 싸빠롯 레시피 | 정통 태국 파인애플 볶음밥"
     },
     "metaDescription": {
       "en": "Learn about Khao Pad Sapparot (ข้าวผัดสับปะรด) - Pineapple fried rice served in pineapple shell...",
       "nl": "Leer over Khao Pad Sapparot (ข้าวผัดสับปะรด) - Ananas gebakken rijst geserveerd in ananasschil...",
-      "ja": "カオパッサパロット（ข้าวผัดสับปะรด）について — パイナップルの器で提供されるタイ風チャーハン。"
+      "ko": "카오팟 싸빠롯(ข้าวผัดสับปะรด) - 파인애플 껍질에 담아 제공하는 새우와 캐슈넛이 들어간 태국 파인애플 볶음밥. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -667,6 +667,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "카오팟 싸빠롯은 태국 중부의 대표적인 볶음밥 요리로, 파인애플의 새콤달콤함과 새우의 감칠맛, 캐슈넛의 고소한 식감이 완벽하게 어우러진 화려한 메뉴입니다. 약 20분이면 완성할 수 있는 간편한 레시피로, 속을 파낸 파인애플 껍질에 담아 제공하는 비주얼이 인상적입니다. 커리 파우더의 은은한 향, 건포도의 달콤함, 새우와 캐슈넛의 풍미가 밥과 조화를 이루며, 태국 요리의 단맛-짠맛-신맛의 균형을 완벽하게 보여줍니다. 관광객과 현지인 모두에게 사랑받는 인기 메뉴입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "밥 (하루 묵은 밥)",
+          "purpose": "볶음밥의 베이스로, 하루 묵힌 밥이 가장 좋은 식감을 냅니다",
+          "substitutes": [
+            "재스민 쌀밥",
+            "장립종 밥",
+            "현미밥 (건강 대체)"
+          ]
+        },
+        {
+          "name": "파인애플",
+          "purpose": "새콤달콤한 맛과 열대 과일의 풍미를 더하는 핵심 재료",
+          "substitutes": [
+            "신선한 파인애플",
+            "통조림 파인애플",
+            "건조 파인애플"
+          ]
+        },
+        {
+          "name": "새우",
+          "purpose": "해산물의 감칠맛과 단백질을 더하는 주재료",
+          "substitutes": [
+            "신선한 새우",
+            "냉동 새우",
+            "닭고기 (대체용)"
+          ]
+        },
+        {
+          "name": "캐슈넛",
+          "purpose": "고소한 맛과 아삭한 식감을 더하는 토핑",
+          "substitutes": [
+            "볶은 캐슈넛",
+            "땅콩",
+            "마카다미아 (고급 대체)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "웍 볶음 (고온 단시간 조리)",
+        "steps_overview": "카오팟 싸빠롯을 만들려면 먼저 파인애플을 세로로 반 가르고 속을 파냅니다. 뜨거운 웍에 기름을 두르고 마늘을 볶은 후 새우를 넣어 익힙니다. 하루 묵은 밥을 넣고 커리 파우더, 간장, 액젓으로 간을 합니다. 파인애플 조각, 건포도, 캐슈넛을 넣고 빠르게 볶아 파인애플 껍질에 담아 완성합니다.",
+        "cooking_tips": [
+          "하루 묵은 밥을 사용해야 볶을 때 눅눅해지지 않습니다",
+          "파인애플은 너무 오래 볶으면 물러지니 마지막에 넣으세요",
+          "커리 파우더는 소량만 사용해야 파인애플 맛을 살릴 수 있습니다",
+          "캐슈넛은 미리 볶아두면 더 고소합니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "카오팟 싸빠롯은 태국의 풍부한 열대 과일 문화와 볶음밥 전통이 결합된 요리로, 특히 관광 산업이 발전하면서 태국을 대표하는 비주얼 메뉴로 자리잡았습니다. 파인애플 껍질에 담는 독특한 프레젠테이션이 이 요리의 상징이 되었습니다.",
+        "cultural_importance": "이 요리는 태국 요리의 창의성과 프레젠테이션 감각을 보여주는 대표적인 예입니다. 단맛, 짠맛, 신맛의 균형이 태국 요리 철학의 핵심을 담고 있으며, 해변 레스토랑과 관광지에서 특히 인기가 높습니다.",
+        "traditional_occasions": [
+          "관광객 환영 식사",
+          "해변 레스토랑",
+          "가족 외식",
+          "축제 음식"
+        ]
+      },
+      "variations": [
+        {
+          "name": "카오팟 싸빠롯 새우 (전통식)",
+          "description": "새우와 캐슈넛이 들어간 가장 전통적이고 인기 있는 버전입니다."
+        },
+        {
+          "name": "카오팟 싸빠롯 닭고기",
+          "description": "새우 대신 닭고기를 사용한 변형으로, 해산물 알레르기가 있는 분들에게 좋습니다."
+        },
+        {
+          "name": "채식 카오팟 싸빠롯",
+          "description": "두부와 채소를 사용한 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "오이 슬라이스",
+          "라임 웨지",
+          "칠리 소스"
+        ],
+        "presentation": "속을 파낸 파인애플 껍질에 담아 화려하게 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "해변 레스토랑",
+          "관광지 태국 레스토랑",
+          "야시장",
+          "호텔 레스토랑"
+        ],
+        "street_food_areas": [
+          "야시장",
+          "해변 노점",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
