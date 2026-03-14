@@ -5,7 +5,7 @@
     "en": "Khao Yam",
     "nl": "Khao Yam",
     "thai": "ข้าวยำ",
-    "ja": "カオヤム"
+    "ko": "카오얌"
   },
   "category": "salad",
   "region": "southern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Southern Thai rice salad with herbs and coconut",
     "nl": "Zuidelijke Thaise rijstsalade met kruiden en kokos",
-    "ja": "ハーブ、野菜、ブドゥーソースで和えた南タイのライスサラダ"
+    "ko": "허브와 코코넛을 곁들인 태국 남부 쌀 샐러드"
   },
   "ingredients": [
     "rice",
@@ -35,12 +35,12 @@
     "metaTitle": {
       "en": "Khao Yam Recipe | Authentic Thai salad",
       "nl": "Khao Yam Recept | Authentieke Thaise salad",
-      "ja": "カオヤムのレシピ | 本格タイ料理"
+      "ko": "카오얌 레시피 | 정통 태국 남부 쌀 샐러드"
     },
     "metaDescription": {
       "en": "Learn about Khao Yam (ข้าวยำ) - Southern Thai rice salad with herbs and coconut...",
       "nl": "Leer over Khao Yam (ข้าวยำ) - Zuidelijke Thaise rijstsalade met kruiden en kokos...",
-      "ja": "カオヤム（ข้าวยำ）について — ハーブ、野菜、ブドゥーソースで和えた南タイの伝統的なライスサラダ。"
+      "ko": "카오얌(ข้าวยำ) - 허브, 코코넛, 건새우를 곁들인 태국 남부 전통 쌀 샐러드. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -667,6 +667,110 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "카오얌은 태국 남부의 전통 쌀 샐러드로, 밥에 다양한 신선한 허브, 볶은 코코넛, 건새우, 채소를 섞고 부두(남부 태국 특유의 소스)를 뿌려 비벼 먹는 상쾌하고 건강한 요리입니다. 약 30분이면 준비할 수 있는 중간 난이도의 레시피로, 불을 사용하지 않는 신선한 조리법이 특징입니다. 각종 허브의 향긋함, 코코넛의 고소함, 건새우의 감칠맛, 라임의 상큼함이 밥과 어우러져 놀라울 정도로 복합적인 맛을 만들어냅니다. 태국 남부의 건강 음식 문화를 대표하는 요리입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "밥 (찬밥)",
+          "purpose": "샐러드의 베이스가 되는 주재료로, 식힌 밥이 다른 재료와 잘 어우러집니다",
+          "substitutes": [
+            "재스민 쌀밥",
+            "현미밥",
+            "찹쌀 (변형)"
+          ]
+        },
+        {
+          "name": "볶은 코코넛 (마프라오 쿠아)",
+          "purpose": "고소한 맛과 바삭한 식감을 더하는 핵심 재료",
+          "substitutes": [
+            "건조 코코넛",
+            "코코넛 플레이크",
+            "볶은 코코넛 가루"
+          ]
+        },
+        {
+          "name": "신선한 허브 (레몬그라스, 카피르 라임잎 등)",
+          "purpose": "향긋하고 상쾌한 풍미를 더하는 남부 태국 요리의 핵심",
+          "substitutes": [
+            "레몬그라스",
+            "카피르 라임잎",
+            "민트",
+            "바질"
+          ]
+        },
+        {
+          "name": "건새우",
+          "purpose": "감칠맛과 단백질을 더하는 해산물 재료",
+          "substitutes": [
+            "작은 건새우",
+            "새우 가루",
+            "볶은 건새우"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "신선한 재료 준비와 비비기 (비조리)",
+        "steps_overview": "카오얌을 만들려면 먼저 밥을 식히고, 각종 허브와 채소를 잘게 썹니다. 코코넛을 황금색이 될 때까지 볶고, 부두 소스를 만듭니다(액젓, 라임즙, 설탕, 생선 내장 소스 등). 식힌 밥에 썰어둔 허브, 볶은 코코넛, 건새우, 채소를 올리고 부두 소스를 뿌려 골고루 비벼 먹습니다.",
+        "cooking_tips": [
+          "밥은 완전히 식혀야 다른 재료와 잘 섞이고 눅눅해지지 않습니다",
+          "허브는 가능한 한 신선한 것을 사용하세요 — 맛의 핵심입니다",
+          "코코넛은 약한 불에서 천천히 볶아야 고르게 황금색이 됩니다",
+          "부두 소스의 양을 조절하여 자신의 입맛에 맞추세요"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "카오얌은 태국 남부에서 수세대에 걸쳐 전해져 온 전통 음식으로, 이 지역의 풍부한 허브 문화와 건강식 전통을 반영합니다. 더운 기후에서 시원하게 먹을 수 있는 영양 가득한 한 끼로 발전했습니다.",
+        "cultural_importance": "이 요리는 태국 남부의 건강 음식 문화를 대표하며, 특히 아침 식사로 즐겨 먹습니다. 다양한 허브와 신선한 재료를 사용하는 것이 남부 태국 요리의 특색을 잘 보여주며, 최근에는 건강식으로서 전국적으로 인기가 높아지고 있습니다.",
+        "traditional_occasions": [
+          "아침 식사",
+          "건강식",
+          "사원 행사",
+          "일상 식사"
+        ]
+      },
+      "variations": [
+        {
+          "name": "카오얌 전통식",
+          "description": "부두 소스와 다양한 허브를 사용한 가장 전통적인 남부 버전입니다."
+        },
+        {
+          "name": "카오얌 빠따니",
+          "description": "빠따니 지역 특유의 향신료와 재료를 사용한 변형입니다."
+        },
+        {
+          "name": "채식 카오얌",
+          "description": "건새우를 빼고 버섯과 견과류로 대체한 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "부두 소스 (남부 특유 드레싱)",
+          "신선한 채소",
+          "삶은 달걀"
+        ],
+        "presentation": "접시에 밥을 담고 토핑을 올려 남부 태국 스타일로 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 숟가락으로 골고루 비벼서 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 남부 태국 레스토랑",
+          "아침 시장 식당",
+          "전통 시장",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "아침 시장",
+          "현지 푸드코트",
+          "남부 태국 야시장"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
