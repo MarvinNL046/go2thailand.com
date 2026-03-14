@@ -4,14 +4,16 @@
   "name": {
     "en": "Rayong",
     "nl": "Rayong",
-    "ja": "ラヨーン"
+    "ja": "ラヨーン",
+    "ko": "라용"
   },
   "region": "Central",
   "province": "Rayong",
   "description": {
     "en": "Coastal province east of Bangkok, gateway to the popular island of Koh Samet. Famous for tropical fruit orchards, long sandy beaches, fresh seafood, and a relaxed atmosphere away from the tourist crowds.",
     "nl": "Kustprovincie ten oosten van Bangkok, toegangspoort tot het populaire eiland Koh Samet. Beroemd om tropische fruitboomgaarden, lange zandstranden, verse zeevruchten en een ontspannen sfeer weg van de toeristische drukte.",
-    "ja": "バンコクの東に位置する海岸沿いの県ラヨーンは、人気のサメット島への玄関口であり、フルーツ農園やシーフードでも有名です。"
+    "ja": "バンコクの東に位置する海岸沿いの県ラヨーンは、人気のサメット島への玄関口であり、フルーツ農園やシーフードでも有名です。",
+    "ko": "방콕 동쪽의 해안 지방으로, 인기 있는 꼬사멧 섬의 관문입니다. 열대 과일 농장, 긴 모래 해변, 신선한 해산물, 관광객 인파에서 벗어난 여유로운 분위기로 유명합니다."
   },
   "population": 65000,
   "highlights": [
@@ -29,29 +31,34 @@
     "metaTitle": {
       "en": "Discover Rayong | What to do in Rayong?",
       "nl": "Ontdek Rayong | Wat te doen in Rayong?",
-      "ja": "ラヨーンを満喫 | ラヨーンの観光・見どころガイド"
+      "ja": "ラヨーンを満喫 | ラヨーンの観光・見どころガイド",
+      "ko": "라용 태국 — 꼬사멧 & 해변 여행 가이드 2026"
     },
     "metaDescription": {
       "en": "Your guide to Rayong, Thailand – tips, highlights, food, hotels.",
       "nl": "Jouw gids voor Rayong, Thailand – tips, highlights, eten, hotels.",
-      "ja": "タイ・ラヨーンの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。"
+      "ja": "タイ・ラヨーンの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。",
+      "ko": "라용(태국) 완벽 여행 가이드: 꼬사멧 섬, 과일 농장, 해산물, 해변. 가격, 팁, 방콕에서 가는 법."
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Rayong",
       "nl": "Beste restaurants en streetfood in Rayong",
-      "ja": "ラヨーンのおすすめレストラン＆ストリートフード"
+      "ja": "ラヨーンのおすすめレストラン＆ストリートフード",
+      "ko": "라용 추천 레스토랑과 길거리 음식"
     },
     "hotels": {
       "en": "Top hotels in Rayong | Tips & deals",
       "nl": "Beste hotels in Rayong | Tips & aanbiedingen",
-      "ja": "ラヨーンのおすすめホテル｜お得な情報＆アドバイス"
+      "ja": "ラヨーンのおすすめホテル｜お得な情報＆アドバイス",
+      "ko": "라용 추천 호텔 | 팁 & 특가"
     },
     "attractions": {
       "en": "Top attractions in Rayong",
       "nl": "Top bezienswaardigheden in Rayong",
-      "ja": "ラヨーンの人気観光スポット"
+      "ja": "ラヨーンの人気観光スポット",
+      "ko": "라용 인기 관광 명소"
     }
   },
   "tags": [
@@ -68,12 +75,14 @@
       "name": {
         "en": "Rayong Fruit Orchards (Suan Lamai)",
         "nl": "Rayong Fruitboomgaarden (Suan Lamai)",
-        "ja": "ラヨーン・フルーツ農園（スアン・ラマイ）"
+        "ja": "ラヨーン・フルーツ農園（スアン・ラマイ）",
+        "ko": "라용 과일 농장 (쑤안 라마이)"
       },
       "description": {
         "en": "Visit local orchards during fruit season (April-June) to pick your own durian, rambutan, mangosteen, and longkong straight from the trees. Many farmers welcome visitors for a small fee.",
         "nl": "Bezoek lokale boomgaarden tijdens het fruitseizoen (april-juni) om je eigen durian, rambutan, mangosteen en longkong direct van de bomen te plukken. Veel boeren verwelkomen bezoekers voor een kleine vergoeding.",
-        "ja": "フルーツシーズン（4月〜6月）に地元の農園でドリアン、ランブータン、マンゴスチンなどを自分で収穫できます。新鮮なトロピカルフルーツを味わえる貴重な体験です。"
+        "ja": "フルーツシーズン（4月〜6月）に地元の農園でドリアン、ランブータン、マンゴスチンなどを自分で収穫できます。新鮮なトロピカルフルーツを味わえる貴重な体験です。",
+        "ko": "두리안, 망고스틴, 람부탄 등 열대 과일을 직접 따서 맛볼 수 있는 농장으로, 5-6월이 최적 시기입니다."
       },
       "type": "experience"
     },
@@ -81,12 +90,14 @@
       "name": {
         "en": "Ao Prao Beach (Koh Samet)",
         "nl": "Ao Prao Strand (Koh Samet)",
-        "ja": "アオプラオビーチ（サメット島）"
+        "ja": "アオプラオビーチ（サメット島）",
+        "ko": "아오쁘라오 해변 (꼬사멧)"
       },
       "description": {
         "en": "The only beach on Koh Samet's quieter west coast, accessible by a short trail or boat. Stunning sunset views with a fraction of the east coast crowds. Home to just a couple of upscale resorts.",
         "nl": "Het enige strand aan de rustigere westkust van Koh Samet, bereikbaar via een kort pad of boot. Prachtige zonsondergangen met een fractie van de drukte van de oostkust. Slechts een paar luxe resorts.",
-        "ja": "サメット島の静かな西海岸にある唯一のビーチで、短いトレイルかボートタクシーでアクセスできます。夕日が美しく、東海岸より穏やかな雰囲気です。"
+        "ja": "サメット島の静かな西海岸にある唯一のビーチで、短いトレイルかボートタクシーでアクセスできます。夕日が美しく、東海岸より穏やかな雰囲気です。",
+        "ko": "꼬사멧 서쪽의 조용한 해변으로, 관광객이 적고 일몰이 아름다운 숨겨진 명소입니다."
       },
       "type": "nature"
     },
@@ -94,12 +105,14 @@
       "name": {
         "en": "Rayong Shrimp Paste Village (Ban Phe)",
         "nl": "Rayong Garnalenpasta Dorp (Ban Phe)",
-        "ja": "ラヨーン・エビペースト村（バーンペー）"
+        "ja": "ラヨーン・エビペースト村（バーンペー）",
+        "ko": "라용 새우젓 마을 (반페)"
       },
       "description": {
         "en": "The fishing village of Ban Phe is famous for producing kapi, Thai shrimp paste, using traditional sun-drying methods. Watch the production process and buy the freshest kapi in Thailand.",
         "nl": "Het vissersdorp Ban Phe is beroemd om de productie van kapi, Thaise garnalenpasta, met traditionele zondroging. Bekijk het productieproces en koop de versste kapi van Thailand.",
-        "ja": "バーンペーの漁村はタイのエビペースト（カピ）の名産地で、伝統的な製法を見学し、新鮮なシーフードも楽しめます。"
+        "ja": "バーンペーの漁村はタイのエビペースト（カピ）の名産地で、伝統的な製法を見学し、新鮮なシーフードも楽しめます。",
+        "ko": "전통 새우젓(까삐) 제조 과정을 볼 수 있는 어촌 마을로, 태국 요리의 핵심 재료를 만드는 현장입니다."
       },
       "type": "experience"
     },
@@ -107,12 +120,14 @@
       "name": {
         "en": "Khao Laem Ya Viewpoint",
         "nl": "Khao Laem Ya Uitzichtpunt",
-        "ja": "カオ・レームヤー展望台"
+        "ja": "カオ・レームヤー展望台",
+        "ko": "카오람야 전망대"
       },
       "description": {
         "en": "A rocky headland at the tip of the national park mainland section with panoramic views of Koh Samet and the Gulf islands. The sunset from the viewpoint rocks is breathtaking.",
         "nl": "Een rotsachtige kaap aan de punt van het vastelanddeel van het nationale park met panoramisch uitzicht op Koh Samet en de Golfeilanden. De zonsondergang vanaf de uitzichtrotsen is adembenemend.",
-        "ja": "国立公園の本土側にある岩場の岬で、海とサメット島のパノラマビューが楽しめます。夕暮れ時が特におすすめです。"
+        "ja": "国立公園の本土側にある岩場の岬で、海とサメット島のパノラマビューが楽しめます。夕暮れ時が特におすすめです。",
+        "ko": "라용 해안선과 섬들의 파노라마를 감상할 수 있는 국립공원 내 전망대입니다."
       },
       "type": "nature"
     },
@@ -120,12 +135,14 @@
       "name": {
         "en": "Suan Son Beach (Pine Beach)",
         "nl": "Suan Son Strand (Dennenstrand)",
-        "ja": "スアンソン・ビーチ（松林ビーチ）"
+        "ja": "スアンソン・ビーチ（松林ビーチ）",
+        "ko": "쑤안손 해변 (소나무 해변)"
       },
       "description": {
         "en": "A military-maintained beach with casuarina pines providing natural shade, popular with Thai families on weekends but deserted midweek. Clean sand, calm water, and zero tourist infrastructure.",
         "nl": "Een door het leger onderhouden strand met casuarinadennen die natuurlijke schaduw bieden, populair bij Thaise families in het weekend maar verlaten doordeweeks. Schoon zand, kalm water en geen toeristische infrastructuur.",
-        "ja": "軍が管理するカジュアリーナ松の木陰が心地よいビーチで、週末にはタイ人家族に人気のピクニックスポットです。観光客が少なく穏やかな雰囲気です。"
+        "ja": "軍が管理するカジュアリーナ松の木陰が心地よいビーチで、週末にはタイ人家族に人気のピクニックスポットです。観光客が少なく穏やかな雰囲気です。",
+        "ko": "소나무 숲으로 둘러싸인 조용한 해변으로, 태국 해군이 관리하며 현지인들이 즐겨 찾습니다."
       },
       "type": "nature"
     }
@@ -754,6 +771,40 @@
       "bestTimeToVisit": "Оптимальное время для посещения Районга — с ноября по февраль, когда температура прохладнее (20–28°C) и осадки минимальны, что идеально для пляжного отдыха и активностей на свежем воздухе. С марта по май становится жарче, при этом апрель–июнь — сезон манго и других фруктов для посещения садов. Юго-западный муссон с мая по октябрь приносит больше дождей и волнение на море, но цены значительно снижаются, а пейзажи становятся пышно-зелёными. Декабрь и январь — пик сезона с максимумом туристов и высокими ценами, тогда как ноябрь и февраль дают лучшее соотношение цены и качества при отличной погоде. Для идеального баланса погоды, малолюдности и разумных цен рекомендуем ноябрь, февраль или начало марта.",
       "safetyTips": "Районг — в целом безопасное направление с низким уровнем преступности и расслабленной атмосферой. Действуют стандартные тропические меры предосторожности: обильно наносите солнцезащитный крем (УФ-излучение интенсивно), пейте достаточно воды, в сезон муссонов будьте осторожны с сильными течениями и волнами — всегда проверяйте пляжные флаги. При посещении Ко Самета покупайте билеты на паром через официальные каналы, не гуляйте в одиночку ночью по безлюдным пляжам, храните ценности в сейфе отеля. При езде на мотоцикле обязателен шлем (требование закона), учитывайте, что тайские правила дорожного движения отличаются от западных; если не знакомы с местным стилем вождения, пользуйтесь тук-туками или Grab. Мелкие кражи иногда случаются в оживлённых зонах и на пляжах — держите рюкзак при себе и не демонстрируйте дорогие украшения или технику.",
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "라용은 방콕에서 동쪽으로 약 180km 거리에 위치한 해안 지방으로, 태국에서 가장 인기 있는 섬 중 하나인 꼬사멧으로의 관문입니다.\n\n꼬사멧은 반페 선착장에서 페리로 약 45분 거리에 있으며, 맑은 바다와 백사장이 매력적인 작은 섬입니다. 사이깨오 해변은 가장 활기찬 곳이고, 아오프라오와 아오와이는 조용한 휴식을 원하는 여행자에게 적합합니다.\n\n라용 본토도 매력이 넘칩니다. 5-6월의 과일 시즌에는 두리안, 망고스틴, 람부탄 등 열대 과일 농장을 방문하여 신선한 과일을 맛볼 수 있습니다. 반페의 해산물 시장에서 갓 잡은 해산물을 즐기고, 카오람야-꼬사멧 국립공원에서 자연을 탐험하세요. 소나무 숲이 우거진 쑤안손 해변은 현지인들의 피크닉 명소입니다.",
+      "hidden_gems": [
+        {
+          "name": "라용 과일 농장",
+          "description": "열대 과일을 직접 따서 맛볼 수 있는 농장으로, 5-6월이 최적입니다."
+        },
+        {
+          "name": "아오쁘라오 해변",
+          "description": "꼬사멧 서쪽의 조용한 해변으로 일몰이 아름답습니다."
+        },
+        {
+          "name": "새우젓 마을 (반페)",
+          "description": "전통 새우젓 제조 과정을 볼 수 있는 어촌 마을입니다."
+        },
+        {
+          "name": "카오람야 전망대",
+          "description": "라용 해안선의 파노라마를 감상할 수 있는 전망대입니다."
+        },
+        {
+          "name": "쑤안손 해변",
+          "description": "소나무 숲으로 둘러싸인 현지인들의 피크닉 해변입니다."
+        }
+      ],
+      "authentic_experiences": [],
+      "foodie_adventures": [],
+      "overview": "라용은 방콕 동쪽의 해안 보석으로, 태국에서 가장 인기 있는 꼬사멧 섬의 관문입니다. 열대 과일 농장, 신선한 해산물, 조용한 해변이 주요 매력입니다.",
+      "thingsToDo": "꼬사멧 섬은 라용의 최고 명소로, 반페에서 페리로 접근합니다. 꼬사멧에서 스노클링과 해수욕을 즐기고, 라용 본토에서는 과일 농장 투어(5-6월), 카오람야 국립공원 트레킹, 반페 해산물 시장을 방문하세요.",
+      "whereToStay": "라용은 해변 럭셔리 리조트부터 예산 게스트하우스까지 다양한 숙소를 제공합니다. 꼬사멧의 해변 방갈로가 인기이며, 라용 본토에는 가성비 좋은 호텔이 있습니다.",
+      "gettingAround": "라용의 교통은 주로 툭툭과 송태우에 의존합니다. 꼬사멧 섬 내에서는 도보와 오토바이 택시를 이용합니다. 라용 본토 탐험에는 오토바이 대여가 편리합니다.",
+      "bestTimeToVisit": "라용의 최적 방문 시기는 11월부터 2월까지로, 기온이 쾌적하고 비가 적습니다. 과일 시즌(5-6월)도 농장 방문에 추천합니다.",
+      "safetyTips": "라용은 안전한 여행지입니다. 꼬사멧에서 해수욕 시 해류에 주의하고, 보트 탑승 시 구명조끼를 확인하세요. 우기(6-10월)에는 바다 상태를 확인하세요.",
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
