@@ -5,7 +5,7 @@
     "en": "Larb",
     "nl": "Larb",
     "thai": "ลาบ",
-    "ja": "ラープ"
+    "ko": "랍"
   },
   "category": "salad",
   "region": "northeastern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Spicy meat salad with herbs lime juice and toasted rice powder",
     "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder",
-    "ja": "ひき肉をライム、唐辛子、ハーブで和えたイサーンの代表的なサラダ"
+    "ko": "허브, 라임즙, 볶은 쌀가루를 곁들인 매콤한 고기 샐러드"
   },
   "ingredients": [
     "minced pork",
@@ -34,12 +34,12 @@
     "metaTitle": {
       "en": "Larb Recipe | Authentic Thai salad",
       "nl": "Larb Recept | Authentieke Thaise salad",
-      "ja": "ラープのレシピ | 本格タイ料理"
+      "ko": "랍 레시피 | 정통 태국 이산 고기 샐러드"
     },
     "metaDescription": {
       "en": "Learn about Larb (ลาบ) - Spicy meat salad with herbs lime juice and toasted rice powder...",
       "nl": "Leer over Larb (ลาบ) - Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder...",
-      "ja": "ラープ（ลาบ）について — ひき肉をライム、唐辛子、ハーブで和えたイサーン地方の代表的なサラダ。"
+      "ko": "랍(ลาบ) - 허브, 라임즙, 볶은 쌀가루를 곁들인 태국 이산 지역의 매콤한 고기 샐러드. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -607,6 +607,110 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "랍은 라오스와 태국 동북부(이산) 지역의 국민 요리로, 단순한 고기 샐러드를 넘어 해체된 소시지에 가까운 풍미의 폭발입니다. 다진 고기에 볶은 쌀가루의 고소한 식감, 신선한 허브의 향긋함, 라임즙의 상큼함이 어우러져 독특하고 강렬한 맛을 만들어냅니다. 찹쌀과 생채소를 곁들여 먹는 이산 식문화의 정수 — 공동체적이고, 균형 잡히고, 대담한 풍미의 음식입니다. 약 15분이면 완성할 수 있는 간단한 레시피이지만, 그 맛의 깊이는 놀라울 정도입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "볶은 쌀가루 (카오쿠아)",
+          "purpose": "고소한 풍미와 독특한 알갱이 식감을 더하는 랍의 시그니처 재료",
+          "substitutes": [
+            "직접 볶은 쌀가루",
+            "으깬 쌀과자",
+            "볶은 퀴노아 플레이크"
+          ]
+        },
+        {
+          "name": "신선한 민트",
+          "purpose": "고기와 매운맛에 시원한 대비를 더하는 필수 허브",
+          "substitutes": [
+            "태국 바질",
+            "고수",
+            "들깻잎"
+          ]
+        },
+        {
+          "name": "샬롯",
+          "purpose": "날카로운 달콤함과 아삭한 식감을 더하는 재료",
+          "substitutes": [
+            "적양파",
+            "쪽파",
+            "대파 (가늘게 썬 것)"
+          ]
+        },
+        {
+          "name": "다진 돼지고기",
+          "purpose": "이 요리의 주재료로, 빠르게 익혀 다른 재료와 섞습니다",
+          "substitutes": [
+            "다진 닭고기",
+            "다진 소고기",
+            "다진 생선 (랍쁠라)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "빠른 조리와 신선한 비비기",
+        "steps_overview": "고기를 빠르게 익힌 후(전통 버전은 날것으로), 따뜻할 때 바로 허브와 양념을 넣어 섞습니다. 잔열이 허브를 살짝 숨죽여 향기 기름을 방출시킵니다. 모든 재료를 제공 직전에 함께 버무립니다.",
+        "cooking_tips": [
+          "고기를 너무 익히지 마세요 — 섞을 때 잔열로 계속 익습니다",
+          "쌀은 황금색이 되고 향이 날 때까지 충분히 볶으세요",
+          "허브는 마지막 순간에 넣어 신선함을 보존하세요",
+          "맛을 보며 조절하세요 — 신맛, 매운맛, 짠맛이 균형을 이뤄야 합니다",
+          "바로 드세요 — 시간이 지나면 맛이 변합니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "기록된 역사 이전부터 존재하는 고대 라오스 요리입니다. 원래는 생고기와 피로 만드는 의식용 음식이었으며, '랍'이라는 단어는 라오어로 '행운'을 의미합니다.",
+        "cultural_importance": "랍은 이산 지역의 모든 중요한 행사에 등장합니다 — 출생, 장례, 결혼, 새해. 공동체와 나눔을 상징하며, 항상 찹쌀을 둥글게 뭉쳐 함께 먹습니다. 태국에서 가장 사랑받는 요리 중 하나로, 전국 어디서나 만날 수 있습니다.",
+        "traditional_occasions": [
+          "바시 의식",
+          "사원 축제",
+          "새해 축하",
+          "귀빈 환영 파티"
+        ]
+      },
+      "variations": [
+        {
+          "name": "랍 딥 (생고기 랍)",
+          "description": "피를 사용한 생 소고기 버전 — 전통적인 이산 스타일입니다."
+        },
+        {
+          "name": "랍 무 (돼지고기)",
+          "description": "다진 돼지고기를 사용한 가장 일반적이고 인기 있는 버전입니다."
+        },
+        {
+          "name": "랍 가이 (닭고기)",
+          "description": "다진 닭고기를 사용한 가벼운 버전으로, 건강을 생각하는 분들에게 인기입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "찹쌀 (카오니아오)",
+          "신선한 채소 (양배추, 깻잎, 깍지콩)",
+          "고추"
+        ],
+        "presentation": "접시에 담아 신선한 허브와 채소를 곁들여 이산 스타일로 제공합니다",
+        "eating_etiquette": "이산 관습에 따라 찹쌀을 손으로 둥글게 뭉쳐 랍과 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "이산 전문 레스토랑",
+          "솜땀 전문점 (랍도 함께 판매)",
+          "현지 시장 식당",
+          "맥주 레스토랑"
+        ],
+        "street_food_areas": [
+          "야시장",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "40-60 THB",
+          "market_stall": "50-80 THB",
+          "restaurant": "80-150 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
