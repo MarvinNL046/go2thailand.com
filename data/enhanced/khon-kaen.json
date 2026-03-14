@@ -4,14 +4,16 @@
   "name": {
     "en": "Khon Kaen",
     "nl": "Khon Kaen",
-    "ja": "コーンケーン"
+    "ja": "コーンケーン",
+    "ko": "콘깬"
   },
   "region": "Isaan",
   "province": "Khon Kaen",
   "description": {
     "en": "The unofficial capital of Isaan, Khon Kaen is a thriving university city that serves as the gateway to northeastern Thailand. Home to world-class dinosaur fossils, a beautiful lakeside park, renowned silk weaving villages, and some of the most authentic Isaan street food in the country.",
     "nl": "De onofficiële hoofdstad van Isaan, Khon Kaen is een bruisende universiteitsstad die dient als poort naar Noordoost-Thailand. Thuisbasis van wereldklasse dinosaurusfossielen, een prachtig park aan het meer, beroemde zijdeweef-dorpen en de meest authentieke Isaan-streetfood van het land.",
-    "ja": "イサーン地方の非公式の首都。大学都市として栄え、東北タイへの玄関口。恐竜博物館とシルク村で有名。"
+    "ja": "イサーン地方の非公式の首都。大学都市として栄え、東北タイへの玄関口。恐竜博物館とシルク村で有名。",
+    "ko": "이산 지방의 비공식 수도인 콘깬은 번영하는 대학 도시로 태국 동북부의 관문입니다. 세계적 수준의 공룡 화석, 아름다운 호수 공원, 유명한 실크 직조 마을, 태국에서 가장 정통 이산 길거리 음식이 있습니다."
   },
   "population": 400000,
   "highlights": [
@@ -29,29 +31,34 @@
     "metaTitle": {
       "en": "Discover Khon Kaen | What to do in Khon Kaen?",
       "nl": "Ontdek Khon Kaen | Wat te doen in Khon Kaen?",
-      "ja": "コーンケーン タイ — イサーンの大学都市ガイド 2026"
+      "ja": "コーンケーン タイ — イサーンの大学都市ガイド 2026",
+      "ko": "콘깬 태국 — 이산 수도 여행 가이드 2026"
     },
     "metaDescription": {
       "en": "Your guide to Khon Kaen, Thailand – tips, highlights, dinosaur museum, silk villages and Isaan food.",
       "nl": "Jouw gids voor Khon Kaen, Thailand – tips, highlights, dinosaurusmuseum, zijdedorpen en Isaan-eten.",
-      "ja": "コーンケーン（タイ）旅行ガイド — 恐竜博物館、シルク村、イサーン料理情報。2026年更新。"
+      "ja": "コーンケーン（タイ）旅行ガイド — 恐竜博物館、シルク村、イサーン料理情報。2026年更新。",
+      "ko": "콘깬(태국) 완벽 여행 가이드: 공룡 박물관, 실크 마을, 이산 음식. 가격, 팁, 교통편 정보."
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Khon Kaen",
       "nl": "Beste restaurants en streetfood in Khon Kaen",
-      "ja": "コーンケーンのおすすめレストランとストリートフード"
+      "ja": "コーンケーンのおすすめレストランとストリートフード",
+      "ko": "콘깬 추천 레스토랑과 길거리 음식"
     },
     "hotels": {
       "en": "Top hotels in Khon Kaen | Tips & deals",
       "nl": "Beste hotels in Khon Kaen | Tips & aanbiedingen",
-      "ja": "コーンケーンのおすすめホテル | ヒント＆お得情報"
+      "ja": "コーンケーンのおすすめホテル | ヒント＆お得情報",
+      "ko": "콘깬 추천 호텔 | 팁 & 특가"
     },
     "attractions": {
       "en": "Top attractions in Khon Kaen",
       "nl": "Top bezienswaardigheden in Khon Kaen",
-      "ja": "コーンケーンの人気観光スポット"
+      "ja": "コーンケーンの人気観光スポット",
+      "ko": "콘깬 인기 관광 명소"
     }
   },
   "tags": [
@@ -68,12 +75,14 @@
       "name": {
         "en": "King Cobra Village (Ban Khok Sa-Nga)",
         "nl": "Koningscobra Dorp (Ban Khok Sa-Nga)",
-        "ja": "キングコブラ村（バーンコックサンガー）"
+        "ja": "キングコブラ村（バーンコックサンガー）",
+        "ko": "킹코브라 마을 (반콕사응아)"
       },
       "description": {
         "en": "A unique village 50 km from Khon Kaen where residents have coexisted with king cobras for generations. Villagers demonstrate traditional snake handling and cobra shows. Fascinating and slightly terrifying.",
         "nl": "Een uniek dorp op 50 km van Khon Kaen waar bewoners al generaties lang samenleven met koningscobra's. Dorpsbewoners demonstreren traditionele slangenbezwering en cobra-shows. Fascinerend en een beetje angstaanjagend.",
-        "ja": "コーンケーンから50kmの独特な村。住民が何世代にもわたりキングコブラと共存してきた場所。"
+        "ja": "コーンケーンから50kmの独特な村。住民が何世代にもわたりキングコブラと共存してきた場所。",
+        "ko": "킹코브라와 함께 살아가는 독특한 마을로, 뱀 쇼와 전통 문화를 체험할 수 있는 이색 명소입니다."
       },
       "type": "experience"
     },
@@ -81,12 +90,14 @@
       "name": {
         "en": "Ton Tann Green Market",
         "nl": "Ton Tann Green Market",
-        "ja": "トンタン・グリーンマーケット"
+        "ja": "トンタン・グリーンマーケット",
+        "ko": "톤탄 그린 마켓"
       },
       "description": {
         "en": "A modern outdoor night market popular with Khon Kaen University students offering trendy street food, live music, craft beer, and vintage clothing in a hip park-like setting.",
         "nl": "Een moderne openlucht nachtmarkt populair bij studenten van Khon Kaen University met trendy streetfood, live muziek, craft bier en vintage kleding in een hippe parkachtige omgeving.",
-        "ja": "コーンケーン大学の学生に人気のモダンな屋外ナイトマーケット。トレンディなストリートフードが楽しめます。"
+        "ja": "コーンケーン大学の学生に人気のモダンな屋外ナイトマーケット。トレンディなストリートフードが楽しめます。",
+        "ko": "현지인들이 사랑하는 친환경 시장으로, 유기농 식품과 수공예품을 판매합니다."
       },
       "type": "market"
     },
@@ -94,12 +105,14 @@
       "name": {
         "en": "Wat Pa Ban Kho (Glass Temple)",
         "nl": "Wat Pa Ban Kho (Glazen Tempel)",
-        "ja": "ワット・パーバーンコー（ガラスの寺院）"
+        "ja": "ワット・パーバーンコー（ガラスの寺院）",
+        "ko": "왓파반코 (유리 사원)"
       },
       "description": {
         "en": "A striking temple decorated entirely with recycled glass bottles, creating dazzling kaleidoscopic patterns when sunlight streams through. A quirky hidden gem about 40 km from the city.",
         "nl": "Een opvallende tempel geheel versierd met gerecyclede glazen flessen, die verbluffende caleidoscopische patronen creeren wanneer zonlicht erdoorheen schijnt. Een eigenzinnige verborgen parel op ongeveer 40 km van de stad.",
-        "ja": "リサイクルガラスボトルで全面装飾された印象的な寺院。万華鏡のような美しい模様を生み出しています。"
+        "ja": "リサイクルガラスボトルで全面装飾された印象的な寺院。万華鏡のような美しい模様を生み出しています。",
+        "ko": "수백만 개의 유리병으로 장식된 독특한 사원으로, 재활용 예술의 걸작입니다."
       },
       "type": "temple"
     },
@@ -107,12 +120,14 @@
       "name": {
         "en": "Pratunam Market (Morning Market)",
         "nl": "Pratunam Markt (Ochtendmarkt)",
-        "ja": "プラトゥーナム市場（朝市）"
+        "ja": "プラトゥーナム市場（朝市）",
+        "ko": "쁘라뚜남 시장 (아침 시장)"
       },
       "description": {
         "en": "The city's oldest and most authentic wet market where locals shop for fresh produce, Isaan herbs, fermented fish, and prepared foods from 4 AM. The real heartbeat of Khon Kaen.",
         "nl": "De oudste en meest authentieke versmarkt van de stad waar locals verse producten, Isaan-kruiden, gefermenteerde vis en bereide gerechten kopen vanaf 4 uur 's ochtends. Het echte kloppende hart van Khon Kaen.",
-        "ja": "市内最古の本格的な生鮮市場。地元の人々が新鮮な農産物、イサーンのハーブ、発酵食品を購入します。"
+        "ja": "市内最古の本格的な生鮮市場。地元の人々が新鮮な農産物、イサーンのハーブ、発酵食品を購入します。",
+        "ko": "현지인들의 아침 장보기 명소로, 신선한 식재료와 이산 전통 음식을 맛볼 수 있습니다."
       },
       "type": "market"
     },
@@ -120,12 +135,14 @@
       "name": {
         "en": "Nam Phong National Park",
         "nl": "Nam Phong Nationaal Park",
-        "ja": "ナムポン国立公園"
+        "ja": "ナムポン国立公園",
+        "ko": "남퐁 국립공원"
       },
       "description": {
         "en": "A quiet national park 50 km north of the city with scenic reservoir views, hiking trails, and the Tat Fa waterfall. Popular with locals for weekend picnics but virtually unknown to foreign visitors.",
         "nl": "Een rustig nationaal park op 50 km ten noorden van de stad met schilderachtig stuwmeeruitzicht, wandelpaden en de Tat Fa-waterval. Populair bij locals voor weekendpicknicks maar vrijwel onbekend bij buitenlandse bezoekers.",
-        "ja": "市の北50kmにある静かな国立公園。貯水池の景色、ハイキングコース、滝が楽しめます。"
+        "ja": "市の北50kmにある静かな国立公園。貯水池の景色、ハイキングコース、滝が楽しめます。",
+        "ko": "콘깬 근교의 국립공원으로, 트레킹과 자연 관찰에 최적인 숨겨진 명소입니다."
       },
       "type": "nature"
     }
@@ -697,6 +714,40 @@
       "bestTimeToVisit": "Лучшие месяцы для посещения Кхонкэна — прохладный сезон с ноября по февраль, когда температура 20-28°C, небо ясное и влажность значительно снижается. Декабрь и январь — абсолютный пик с наиболее комфортными условиями, хотя цены на жильё могут быть немного выше. С марта по май — жарко и влажно, температура превышает 35°C, что затрудняет прогулки. Сезон муссонов (июнь-октябрь) приносит сильные дожди, особенно в августе-сентябре, но цены падают и туристов меньше.",
       "safetyTips": "Кхонкэн — в целом безопасный город с низким уровнем насильственных преступлений. Стандартные меры предосторожности: не демонстрируйте дорогие украшения и камеры на рынках, храните ценности в сейфе отеля. Университетская атмосфера обеспечивает хорошую безопасность. Дорожная безопасность заслуживает внимания — тайские дороги отличаются агрессивным вождением, будьте крайне осторожны при переходе улиц и езде на мотоцикле. Мелкие кражи изредка случаются на ночных рынках — держите рюкзак впереди. Водопроводную воду пить не рекомендуется — бутилированная вода стоит 8-15 THB. Медицинские учреждения достаточны для базовой помощи, серьёзные случаи могут потребовать поездки в Бангкок.",
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "콘깬은 이산(태국 동북부) 지방의 비공식 수도로, 방콕에서 비행기로 약 1시간 거리에 있습니다. 40만 명 이상의 인구와 대학이 밀집한 활기찬 도시로, 현대적 편의시설과 전통 이산 문화가 공존합니다.\n\n콘깬의 가장 큰 매력은 정통 이산 음식입니다. 쏨땀(파파야 샐러드), 가이양(구운 닭), 꼬이(생고기 샐러드) 등 이산 지방의 대표 음식을 가장 본격적으로 즐길 수 있는 곳입니다. 야시장과 아침 시장에서 현지인들과 어울리며 맛보는 음식은 방콕의 세련된 레스토랑과는 또 다른 매력이 있습니다.\n\n부위앙 공룡 박물관은 세계적으로 중요한 공룡 화석을 소장하고 있으며, 실크 직조 마을인 초나봇에서는 전통 무따미 실크 제작 과정을 직접 볼 수 있습니다. 분짱 호수 공원은 도시의 중심에 위치한 오아시스로, 조깅이나 자전거를 즐기며 현지 생활을 느낄 수 있습니다.",
+      "hidden_gems": [
+        {
+          "name": "킹코브라 마을",
+          "description": "킹코브라와 공존하는 독특한 마을로, 뱀 쇼와 전통 문화를 체험할 수 있습니다."
+        },
+        {
+          "name": "톤탄 그린 마켓",
+          "description": "현지인들이 사랑하는 친환경 시장입니다."
+        },
+        {
+          "name": "왓파반코 (유리 사원)",
+          "description": "수백만 개의 유리병으로 장식된 독특한 재활용 예술 사원입니다."
+        },
+        {
+          "name": "쁘라뚜남 시장",
+          "description": "현지인들의 아침 장보기 명소로, 이산 전통 음식을 맛볼 수 있습니다."
+        },
+        {
+          "name": "남퐁 국립공원",
+          "description": "콘깬 근교의 트레킹과 자연 관찰 명소입니다."
+        }
+      ],
+      "authentic_experiences": [],
+      "foodie_adventures": [],
+      "overview": "콘깬은 이산 지방의 비공식 수도이자 태국 동북부의 활기찬 관문입니다. 대학 도시로서의 젊은 에너지와 전통 이산 문화가 공존하며, 공룡 화석, 실크 마을, 호수 공원 등 다양한 볼거리가 있습니다.",
+      "thingsToDo": "역사 애호가라면 부위앙 공룡 박물관(입장료 100바트/$3)을 놓치지 마세요. 초나봇 실크 마을에서 전통 실크 제작을 관람하고, 분짱 호수 공원에서 여유로운 시간을 보내세요. 킹코브라 마을은 독특한 체험을 원하는 여행자에게 추천합니다.",
+      "whereToStay": "콘깬은 다양한 가격대의 숙소를 제공합니다. 시내 중심에는 비즈니스 호텔과 예산 숙소가 밀집해 있고, 분짱 호수 주변은 조용한 분위기를 원하는 여행자에게 적합합니다.",
+      "gettingAround": "콘깬의 시내 교통은 주로 툭툭과 송태우(합승 미니버스)에 의존합니다. Grab 앱도 사용 가능하며, 오토바이 대여는 외곽 명소 방문에 편리합니다.",
+      "bestTimeToVisit": "콘깬의 최적 방문 시기는 11월부터 2월까지의 건기입니다. 기온이 쾌적하고 비가 적습니다. 3월부터 5월은 매우 덥고(40°C 이상), 6월부터 10월은 우기입니다.",
+      "safetyTips": "콘깬은 대체로 안전한 도시입니다. 대학 도시답게 젊은 분위기가 있으며, 일반적인 소지품 관리에 주의하면 됩니다. 킹코브라 마을 방문 시 가이드의 안내를 따르세요.",
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
