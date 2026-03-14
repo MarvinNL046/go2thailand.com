@@ -4,14 +4,16 @@
   "name": {
     "en": "Koh Samui",
     "nl": "Koh Samui",
-    "ja": "サムイ島"
+    "ja": "サムイ島",
+    "ko": "코사무이"
   },
   "region": "Southern",
   "province": "Surat Thani",
   "description": {
     "en": "Thailand's second-largest island, Koh Samui is a tropical paradise famous for palm-fringed beaches, luxury resorts, and the iconic Big Buddha Temple. A gateway to the Gulf islands with vibrant nightlife and pristine nature.",
     "nl": "Het op een na grootste eiland van Thailand, Koh Samui is een tropisch paradijs beroemd om zijn palmbomen-omzoomde stranden, luxe resorts en de iconische Grote Boeddha Tempel. Een toegangspoort tot de Golfeilanden met bruisend nachtleven en ongerepte natuur.",
-    "ja": "タイで2番目に大きな島。ヤシの木が並ぶビーチ、豪華リゾート、アイランドホッピングで有名な熱帯の楽園。"
+    "ja": "タイで2番目に大きな島。ヤシの木が並ぶビーチ、豪華リゾート、アイランドホッピングで有名な熱帯の楽園。",
+    "ko": "태국에서 두 번째로 큰 섬인 코사무이는 야자수가 늘어선 해변, 럭셔리 리조트, 상징적인 빅 부다 사원으로 유명한 열대 낙원입니다. 활기찬 나이트라이프와 천혜의 자연을 갖춘 걸프만 섬들의 관문입니다."
   },
   "population": 63000,
   "highlights": [
@@ -29,29 +31,34 @@
     "metaTitle": {
       "en": "Discover Koh Samui | What to do in Koh Samui?",
       "nl": "Ontdek Koh Samui | Wat te doen op Koh Samui?",
-      "ja": "サムイ島 タイ — ビーチ＆観光ガイド 2026"
+      "ja": "サムイ島 タイ — ビーチ＆観光ガイド 2026",
+      "ko": "코사무이 태국 — 해변, 리조트 & 여행 가이드 2026"
     },
     "metaDescription": {
       "en": "Your guide to Koh Samui, Thailand – beaches, temples, island hopping, food and hotels.",
       "nl": "Jouw gids voor Koh Samui, Thailand – stranden, tempels, eilandhoppen, eten en hotels.",
-      "ja": "サムイ島（タイ）旅行ガイド — ビーチ、寺院、アイランドホッピング、グルメ、ホテル情報。2026年更新。"
+      "ja": "サムイ島（タイ）旅行ガイド — ビーチ、寺院、アイランドホッピング、グルメ、ホテル情報。2026年更新。",
+      "ko": "코사무이 완벽 여행 가이드: 최고의 해변, 럭셔리 리조트, 빅 부다 사원 & 아일랜드 호핑. 가격, 팁, 가는 법."
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Koh Samui",
       "nl": "Beste restaurants en streetfood op Koh Samui",
-      "ja": "サムイ島のおすすめレストランとストリートフード"
+      "ja": "サムイ島のおすすめレストランとストリートフード",
+      "ko": "코사무이 추천 레스토랑과 길거리 음식"
     },
     "hotels": {
       "en": "Top hotels in Koh Samui | Tips & deals",
       "nl": "Beste hotels op Koh Samui | Tips & aanbiedingen",
-      "ja": "サムイ島のおすすめホテル | ヒント＆お得情報"
+      "ja": "サムイ島のおすすめホテル | ヒント＆お得情報",
+      "ko": "코사무이 추천 호텔 | 팁 & 특가"
     },
     "attractions": {
       "en": "Top attractions in Koh Samui",
       "nl": "Top bezienswaardigheden op Koh Samui",
-      "ja": "サムイ島の人気観光スポット"
+      "ja": "サムイ島の人気観光スポット",
+      "ko": "코사무이 인기 관광 명소"
     }
   },
   "tags": [
@@ -68,12 +75,14 @@
       "name": {
         "en": "Secret Buddha Garden",
         "nl": "Geheime Boeddha Tuin",
-        "ja": "シークレット・ブッダガーデン"
+        "ja": "シークレット・ブッダガーデン",
+        "ko": "시크릿 부다 가든"
       },
       "description": {
         "en": "Hidden in the jungle-covered hills of Samui's interior, this mystical garden features dozens of stone statues and figures scattered among moss-covered rocks and towering trees. Built by a local farmer in 1976, it offers a magical escape from the beaches below.",
         "nl": "Verborgen in de jungle-bedekte heuvels van Samui's binnenland, heeft deze mystieke tuin tientallen stenen beelden en figuren verspreid tussen mosbegroeid gesteente en hoge bomen. Gebouwd door een lokale boer in 1976, biedt het een magische ontsnapping van de stranden beneden.",
-        "ja": "サムイ島内陸のジャングルに覆われた丘に隠された神秘的な庭園。数十体の石像が点在。"
+        "ja": "サムイ島内陸のジャングルに覆われた丘に隠された神秘的な庭園。数十体の石像が点在。",
+        "ko": "섬 중앙 정글 깊숙이 숨겨진 신비로운 조각 정원으로, 4WD로만 접근 가능한 숨겨진 명소입니다."
       },
       "type": "nature"
     },
@@ -81,12 +90,14 @@
       "name": {
         "en": "Lipa Noi Beach",
         "nl": "Lipa Noi Strand",
-        "ja": "リパノイビーチ"
+        "ja": "リパノイビーチ",
+        "ko": "리파노이 해변"
       },
       "description": {
         "en": "A tranquil west-coast beach largely untouched by tourism, perfect for watching spectacular sunsets over the Gulf of Thailand. Local fishing boats dot the shoreline and the shallow water stretches far out, making it ideal for families.",
         "nl": "Een rustig strand aan de westkust, grotendeels ongeraakt door toerisme, perfect om spectaculaire zonsondergangen boven de Golf van Thailand te bekijken. Lokale vissersboten staan langs de kustlijn en het ondiepe water strekt zich ver uit, ideaal voor families.",
-        "ja": "観光開発がほとんど入っていない西海岸の静かなビーチ。壮大な夕日を眺めるのに最適。"
+        "ja": "観光開発がほとんど入っていない西海岸の静かなビーチ。壮大な夕日を眺めるのに最適。",
+        "ko": "관광객이 적은 조용한 서쪽 해변으로, 아름다운 일몰을 감상하기에 최적인 곳입니다."
       },
       "type": "nature"
     },
@@ -94,12 +105,14 @@
       "name": {
         "en": "Hin Lad Waterfall Temple",
         "nl": "Hin Lad Waterval Tempel",
-        "ja": "ヒンラッド滝寺院"
+        "ja": "ヒンラッド滝寺院",
+        "ko": "힌랏 폭포 사원"
       },
       "description": {
         "en": "A peaceful forest monastery at the base of a waterfall in the island's interior. Monks meditate here among the rocks and flowing water. The short jungle trail is lined with mindfulness signs and natural beauty.",
         "nl": "Een vredig bosklooster aan de voet van een waterval in het binnenland van het eiland. Monniken mediteren hier tussen de rotsen en stromend water. Het korte jungle-pad is omzoomd met mindfulness-borden en natuurlijke schoonheid.",
-        "ja": "島の内陸部、滝のふもとにある平和な森の僧院。僧侶がここで瞑想しています。"
+        "ja": "島の内陸部、滝のふもとにある平和な森の僧院。僧侶がここで瞑想しています。",
+        "ko": "정글 속 폭포와 사원이 어우러진 명상적인 공간으로, 짧은 트레킹으로 도달할 수 있습니다."
       },
       "type": "temple"
     },
@@ -107,12 +120,14 @@
       "name": {
         "en": "Bophut Old Street Cafes",
         "nl": "Bophut Oude Straat Cafes",
-        "ja": "ボープット旧市街のカフェ"
+        "ja": "ボープット旧市街のカフェ",
+        "ko": "보풋 올드 스트리트 카페"
       },
       "description": {
         "en": "The charming old Chinese shophouses along Bophut's main street house independent cafes and galleries that most tourists overlook during non-market days. Try Karma Sutra restaurant for fusion Thai tapas with a sea view.",
         "nl": "De charmante oude Chinese winkelpanden langs de hoofdstraat van Bophut herbergen onafhankelijke cafes en galerieën die de meeste toeristen overslaan op niet-marktdagen. Probeer het Karma Sutra restaurant voor fusion Thaise tapas met zeezicht.",
-        "ja": "ボープットのメインストリートに並ぶ趣のある中国風ショップハウスに個性的なカフェやギャラリーが入居。"
+        "ja": "ボープットのメインストリートに並ぶ趣のある中国風ショップハウスに個性的なカフェやギャラリーが入居。",
+        "ko": "보풋 피셔맨스 빌리지의 아기자기한 골목 카페들로, 현지 분위기를 즐기기에 완벽합니다."
       },
       "type": "restaurant"
     },
@@ -120,12 +135,14 @@
       "name": {
         "en": "Laem Sor Pagoda",
         "nl": "Laem Sor Pagode",
-        "ja": "レームソー・パゴダ"
+        "ja": "レームソー・パゴダ",
+        "ko": "램소르 파고다"
       },
       "description": {
         "en": "A striking golden pagoda perched on the quiet southern tip of the island, overlooking pristine coastline. Rarely visited by tourists, it offers some of the most peaceful sunset views on Samui with no crowds in sight.",
         "nl": "Een opvallende gouden pagode gelegen op de rustige zuidpunt van het eiland, met uitzicht over de ongerepte kustlijn. Zelden bezocht door toeristen, biedt het een van de meest vredige zonsondergangen op Samui zonder drukte in zicht.",
-        "ja": "島の静かな南端に建つ印象的な黄金のパゴダ。手つかずの海岸線を見渡せます。"
+        "ja": "島の静かな南端に建つ印象的な黄金のパゴダ。手つかずの海岸線を見渡せます。",
+        "ko": "섬 남쪽 끝에 위치한 황금 파고다로, 관광객이 거의 없는 평화로운 사원입니다."
       },
       "type": "temple"
     }
@@ -709,6 +726,40 @@
       "bestTimeToVisit": "Идеальный сезон для Ко Самуи — с ноября по февраль: сухая погода, лёгкий бриз и спокойное море — отличные условия для пляжного отдыха и островных экскурсий в Анг Тхонг. Декабрь и январь — пик сезона с обильным солнцем и температурой 28-30°C, но жильё бронируется быстро и цены растут. Февраль — похожая погода с меньшим количеством туристов. С марта по май — жарко и влажно, выше 33°C, с редкими послеобеденными ливнями. Юго-западный муссон (май-октябрь) приносит сильные дожди и бурное море. Полностью избегайте сентябрь и октябрь — пик дождей и риск тайфунов.",
       "safetyTips": "Ко Самуи в целом безопасен для туристов. Стандартные меры предосторожности: избегайте одиночных прогулок поздно ночью в районе ночной жизни Чавенга, где случаются кражи и подсыпание в напитки. Храните ценности в сейфе отеля, а не на пляже. При аренде мотоцикла — носите шлем (обязательно по закону), ездите оборонительно по узким островным дорогам, не садитесь за руль в нетрезвом виде. Безопасность на воде важна в сезон муссонов (май-октябрь): сильные течения и бурное море делают купание опасным. Купайтесь только в отведённых зонах с спасателями. Мелкие кражи случаются на пляжах и в многолюдных местах. ДТП — главная опасность; будьте крайне осторожны на дорогах. Уважайте местные обычаи: одевайтесь скромно в храмах, снимайте обувь.",
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "코사무이는 태국 걸프만에 위치한 태국에서 두 번째로 큰 섬으로, 방콕에서 비행기로 약 1시간 거리에 있습니다. 1970년대까지 배낭여행자들의 숨겨진 보석이었던 이 섬은 이제 세계적인 리조트 섬으로 발전했지만, 여전히 열대 섬의 매력을 간직하고 있습니다.\n\n차웽 해변은 가장 유명한 해변으로 활기찬 나이트라이프와 워터스포츠를 즐길 수 있고, 라마이 해변은 좀 더 여유로운 분위기를 원하는 여행자에게 적합합니다. 빅 부다 사원은 12미터 높이의 황금 좌불상이 인상적이며, 섬의 상징적인 랜드마크입니다.\n\n코사무이의 진정한 매력은 다양성에 있습니다. 럭셔리 풀빌라에서의 프라이빗한 휴식부터, 보풋 피셔맨스 빌리지에서의 현지 문화 체험, 앙통 국립해양공원으로의 아일랜드 호핑까지 — 모든 취향의 여행자를 만족시킵니다. 시크릿 부다 가든으로 이어지는 정글 트레킹은 섬의 또 다른 매력을 발견하게 해줍니다.",
+      "hidden_gems": [
+        {
+          "name": "시크릿 부다 가든",
+          "description": "정글 깊숙이 숨겨진 신비로운 조각 정원으로, 4WD로만 접근 가능합니다."
+        },
+        {
+          "name": "리파노이 해변",
+          "description": "관광객이 적은 서쪽의 조용한 해변으로, 일몰이 아름답습니다."
+        },
+        {
+          "name": "힌랏 폭포 사원",
+          "description": "정글 속 폭포와 사원이 어우러진 명상의 공간입니다."
+        },
+        {
+          "name": "보풋 올드 스트리트 카페",
+          "description": "피셔맨스 빌리지의 아기자기한 카페 골목입니다."
+        },
+        {
+          "name": "램소르 파고다",
+          "description": "섬 남쪽 끝의 평화로운 황금 파고다입니다."
+        }
+      ],
+      "authentic_experiences": [],
+      "foodie_adventures": [],
+      "overview": "코사무이는 태국에서 두 번째로 큰 섬으로, 걸프만에 위치한 열대 낙원입니다. 야자수가 늘어선 해변, 럭셔리 리조트, 빅 부다 사원이 유명하며, 앙통 국립해양공원으로의 아일랜드 호핑 출발지이기도 합니다.",
+      "thingsToDo": "코사무이의 명소는 문화 랜드마크, 자연 경관, 수상 액티비티를 아우릅니다. 빅 부다 사원 방문, 앙통 해양공원 아일랜드 호핑, 시크릿 부다 가든 트레킹, 보풋 피셔맨스 빌리지 산책, 그리고 차웽 해변에서의 워터스포츠를 즐기세요.",
+      "whereToStay": "코사무이는 모든 예산에 맞는 다양한 숙소를 제공합니다. 차웽은 가장 활기찬 지역으로 나이트라이프에 적합하고, 라마이는 좀 더 조용하며, 보풋은 가족 여행에 이상적입니다. 북쪽 해변의 럭셔리 풀빌라도 인기입니다.",
+      "gettingAround": "코사무이는 다양한 교통수단으로 섬을 탐험할 수 있습니다. 오토바이 대여(200-300바트/일), 택시, 송태우가 주요 수단이며, Grab 앱도 사용 가능합니다. 해안 도로를 따라 섬을 일주할 수 있습니다.",
+      "bestTimeToVisit": "코사무이의 최적 방문 시기는 11월부터 2월까지로, 건조하고 쾌적한 날씨가 이어집니다. 걸프만 기후 특성상 서쪽 해안(푸켓 등)과 우기 시기가 다르므로, 10-11월에 폭우가 올 수 있습니다.",
+      "safetyTips": "코사무이는 대체로 안전한 여행지입니다. 오토바이 대여 시 헬멧 착용과 국제 면허증을 확인하세요. 해변에서 소지품을 관리하고, 보트 투어 시 안전 장비를 확인하세요. 우기에는 해류에 주의가 필요합니다.",
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
