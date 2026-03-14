@@ -5,7 +5,7 @@
     "en": "Gaeng Tai Pla",
     "nl": "Gaeng Tai Pla",
     "thai": "แกงไตปลา",
-    "ja": "ゲーン・タイプラー"
+    "ko": "깽따이쁠라"
   },
   "category": "curry",
   "region": "southern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Intensely spicy southern fish organ curry",
     "nl": "Intens pittige zuidelijke visorganen curry",
-    "ja": "魚の内臓を使った南タイの激辛カレー"
+    "ko": "생선 내장으로 만든 매우 매운 남부 태국 커리"
   },
   "ingredients": [
     "fish organs",
@@ -35,12 +35,12 @@
     "metaTitle": {
       "en": "Gaeng Tai Pla Recipe | Authentic Thai curry",
       "nl": "Gaeng Tai Pla Recept | Authentieke Thaise curry",
-      "ja": "ゲーン・タイプラーのレシピ | 本格タイカレー"
+      "ko": "깽따이쁠라 레시피 | 정통 태국 남부 커리"
     },
     "metaDescription": {
       "en": "Learn about Gaeng Tai Pla (แกงไตปลา) - Intensely spicy southern fish organ curry...",
       "nl": "Leer over Gaeng Tai Pla (แกงไตปลา) - Intens pittige zuidelijke visorganen curry...",
-      "ja": "ゲーン・タイプラー（แกงไตปลา）について — 魚の内臓を使った南タイの激辛カレー。地元で愛される本格的な味。"
+      "ko": "깽따이쁠라(แกงไตปลา) - 생선 내장으로 만든 극강의 매운맛 남부 태국 커리. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -667,6 +667,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "깽따이쁠라는 태국 남부를 대표하는 강렬한 커리로, 진정한 매운맛 애호가를 위한 요리입니다. '따이쁠라'는 생선 내장을 발효시킨 것으로, 이 커리의 독특하고 깊은 감칠맛의 원천입니다. 약 40분의 조리 시간이 필요하며, 남부 태국 요리의 정수를 보여줍니다. 생선 내장, 고추, 레몬그라스, 강황의 조합이 강렬하면서도 조화로운 풍미를 만들어냅니다. 태국에서 가장 매운 커리 중 하나로, 현지인들 사이에서도 매운맛의 기준이 되는 요리입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "따이쁠라 (발효 생선 내장)",
+          "purpose": "깽따이쁠라의 독특한 감칠맛과 깊은 풍미의 핵심 재료",
+          "substitutes": [
+            "생선 내장",
+            "까삐 (새우 페이스트)",
+            "남쁠라 (액젓) 농축"
+          ]
+        },
+        {
+          "name": "고추 (프릭키누)",
+          "purpose": "강렬한 매운맛을 내는 필수 재료",
+          "substitutes": [
+            "건고추",
+            "고추 페이스트",
+            "프릭치파 (큰 고추)"
+          ]
+        },
+        {
+          "name": "레몬그라스",
+          "purpose": "상쾌한 시트러스 향을 더하는 향신료",
+          "substitutes": [
+            "레몬그라스 페이스트",
+            "레몬 제스트",
+            "건조 레몬그라스"
+          ]
+        },
+        {
+          "name": "강황",
+          "purpose": "노란색과 흙냄새 같은 풍미를 더하는 향신료",
+          "substitutes": [
+            "생 강황",
+            "강황 가루",
+            "강황 페이스트"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "커리 페이스트 볶기와 장시간 끓이기",
+        "steps_overview": "깽따이쁠라를 만들려면 먼저 고추, 레몬그라스, 강황, 갈랑갈 등으로 커리 페이스트를 만듭니다. 페이스트를 볶은 후 따이쁠라(발효 생선 내장)를 넣고 잘 섞은 다음, 물과 채소를 넣어 끓입니다. 죽순, 긴 콩, 가지 등 다양한 채소가 들어갑니다.",
+        "cooking_tips": [
+          "따이쁠라의 양으로 감칠맛의 강도를 조절하세요",
+          "매운맛이 걱정되면 고추 씨를 제거하세요 (그래도 매울 수 있습니다)",
+          "채소는 마지막에 넣어 식감을 살리세요",
+          "밥과 함께 먹으면 매운맛이 완화됩니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "깽따이쁠라는 태국 남부 어촌 지역에서 유래한 요리로, 생선을 잡은 후 내장을 버리지 않고 발효시켜 활용한 데서 시작되었습니다. 남부 태국의 자원 활용 정신과 풍부한 해산물 문화를 반영합니다.",
+        "cultural_importance": "이 커리는 남부 태국인의 정체성을 대표하는 요리로, '깽따이쁠라를 먹을 수 있으면 진정한 남부 사람'이라는 말이 있을 정도입니다. 매운맛에 대한 자부심의 상징이기도 합니다.",
+        "traditional_occasions": [
+          "가족 식사",
+          "어촌 마을 축제",
+          "전통 시장",
+          "남부 태국 명절"
+        ]
+      },
+      "variations": [
+        {
+          "name": "깽따이쁠라 전통식",
+          "description": "발효 생선 내장을 사용한 가장 정통적인 버전으로, 극강의 매운맛입니다."
+        },
+        {
+          "name": "깽따이쁠라 순한 맛",
+          "description": "고추의 양을 줄이고 코코넛 밀크를 추가한 순한 버전입니다."
+        },
+        {
+          "name": "깽따이쁠라 해산물",
+          "description": "새우와 오징어를 추가한 해산물 풍성한 변형입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "재스민 쌀밥",
+          "신선한 채소",
+          "삶은 달걀"
+        ],
+        "presentation": "전통 남부 태국 스타일로 그릇에 담아 밥과 함께 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 밥과 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 남부 태국 레스토랑",
+          "남부 해안 어촌 식당",
+          "전통 시장",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "야시장",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
