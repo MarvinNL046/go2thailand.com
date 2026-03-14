@@ -5,7 +5,7 @@
     "en": "Green Curry",
     "nl": "Groene Curry",
     "thai": "แกงเขียวหวาน",
-    "ja": "グリーンカレー"
+    "ko": "그린 커리"
   },
   "category": "curry",
   "region": "central",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Spicy green curry with coconut milk Thai eggplant and basil",
     "nl": "Pittige groene curry met kokosmelk Thaise aubergine en basilicum",
-    "ja": "ココナッツミルク、タイなす、バジルを使ったスパイシーなグリーンカレー"
+    "ko": "코코넛 밀크, 태국 가지, 바질을 넣은 매콤한 그린 커리"
   },
   "ingredients": [
     "green curry paste",
@@ -35,12 +35,12 @@
     "metaTitle": {
       "en": "Green Curry Recipe | Authentic Thai curry",
       "nl": "Groene Curry Recept | Authentieke Thaise curry",
-      "ja": "グリーンカレーのレシピ | 本格タイカレー"
+      "ko": "그린 커리 레시피 | 정통 태국 커리"
     },
     "metaDescription": {
       "en": "Learn about Green Curry (แกงเขียวหวาน) - Spicy green curry with coconut milk Thai eggplant and basil...",
       "nl": "Leer over Groene Curry (แกงเขียวหวาน) - Pittige groene curry met kokosmelk Thaise aubergine en basilicum...",
-      "ja": "グリーンカレー（แกงเขียวหวาน）について — ココナッツミルク、タイなす、バジルを使ったタイを代表するスパイシーカレー。"
+      "ko": "그린 커리(แกงเขียวหวาน) - 코코넛 밀크, 태국 가지, 바질을 넣은 매콤한 태국 커리. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -652,6 +652,106 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "그린 커리(깽끼아오완)는 태국 요리의 에메랄드 보석으로, 크리미한 코코넛의 풍미와 허브의 매콤함이 완벽하게 균형을 이루는 커리입니다. 레드 커리나 옐로 커리와 달리 신선한 풋고추와 허브에서 색과 풍미를 얻어 밝고 향기로우며 놀라울 정도로 복합적입니다. 이름은 직역하면 '달콤한 초록 커리'지만 속지 마세요 — 상당히 매운 요리입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "그린 커리 페이스트",
+          "purpose": "이 요리의 영혼 — 신선한 허브와 고추를 함께 갈아 만든 것",
+          "substitutes": [
+            "시판 페이스트 (매플로이 브랜드)",
+            "직접 만들기 (최상의 선택)"
+          ]
+        },
+        {
+          "name": "태국 가지 (마쿠아 프로)",
+          "purpose": "식감을 더하고 커리의 풍미를 흡수합니다",
+          "substitutes": [
+            "일반 가지 작게 썬 것",
+            "애호박",
+            "깍지콩"
+          ]
+        },
+        {
+          "name": "태국 바질 (호라파)",
+          "purpose": "진한 커리에 상쾌한 향기를 더하는 마무리 재료",
+          "substitutes": [
+            "스위트 바질",
+            "홀리 바질",
+            "민트 (다르지만 가능)"
+          ]
+        },
+        {
+          "name": "코코넛 크림",
+          "purpose": "풍부한 맛의 베이스를 만들고 매운맛을 부드럽게 합니다",
+          "substitutes": [
+            "풀팻 코코넛 밀크",
+            "캐슈 크림 (가벼운 버전용)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "커리 페이스트 볶기와 은근히 끓이기",
+        "steps_overview": "비결은 코코넛 크림을 '깨는' 것입니다 — 기름이 분리될 때까지 가열한 후 이 기름에 커리 페이스트를 볶습니다. 이 과정은 액체를 넣기 전에 깊은 풍미를 발전시키는 데 결정적으로 중요합니다.",
+        "cooking_tips": [
+          "커리 페이스트를 강한 향이 날 때까지 충분히 볶으세요 — 이것이 핵심입니다",
+          "코코넛 밀크의 진한 부분을 먼저 사용하세요",
+          "강하게 끓이지 마세요 — 은근히 끓여야 초록색이 유지됩니다",
+          "채소는 조리 시간에 따라 단단한 것부터 넣으세요",
+          "바질은 불을 끈 후에 넣으세요"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "태국 중부의 궁중 주방에서 발전한 그린 커리는 궁중 요리의 정교함을 대표합니다. 건조 향신료 대신 신선한 허브를 사용하는 것은 태국의 풍부한 허브 자원을 보여줍니다.",
+        "cultural_importance": "그린 커리는 요리사의 실력을 시험하는 요리입니다 — 선명한 초록색을 유지하면서 매운맛, 단맛, 짠맛의 균형을 맞춰야 합니다. 레드 커리보다 더 세련된 것으로 여겨지며, 중요한 만찬에서 자주 제공됩니다.",
+        "traditional_occasions": [
+          "불교 축제",
+          "왕실 행사",
+          "결혼 피로연",
+          "귀빈 환영 만찬"
+        ]
+      },
+      "variations": [
+        {
+          "name": "깽끼아오완 가이 (닭고기)",
+          "description": "태국 가지를 넣은 가장 전통적인 닭고기 버전입니다."
+        },
+        {
+          "name": "깽끼아오완 룩친쁠라 (어묵)",
+          "description": "어묵을 넣은 인기 길거리 음식 변형입니다."
+        },
+        {
+          "name": "채식 그린 커리",
+          "description": "두부와 각종 채소를 넣고 액젓 없이 만든 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "재스민 쌀밥",
+          "신선한 채소"
+        ],
+        "presentation": "전통 태국 스타일로 뜨겁게 제공합니다",
+        "eating_etiquette": "포크와 숟가락으로 밥과 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "끄루아 압손 (방콕) — 궁중 태국 요리",
+          "더 로컬 (방콕) — 전통 레시피",
+          "무슬림-태국 레스토랑의 독특한 버전"
+        ],
+        "street_food_areas": [
+          "오또꼬 시장 푸드코트",
+          "싸판풋 야시장",
+          "대학 식당의 저렴한 정통 버전"
+        ],
+        "price_ranges": {
+          "street_food": "40-70 THB ($1.20-$2.10)",
+          "restaurant": "120-250 THB ($3.60-$7.50)",
+          "upscale": "350-600 THB ($10.50-$18)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
