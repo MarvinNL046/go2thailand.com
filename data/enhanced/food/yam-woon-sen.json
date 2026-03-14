@@ -5,7 +5,8 @@
     "en": "Yam Woon Sen",
     "nl": "Yam Woon Sen",
     "thai": "ยำวุ้นเส้น",
-    "ko": "얌운센"
+    "ko": "얌운센",
+    "th": "ยำวุ้นเส้น"
   },
   "category": "salad",
   "region": "central",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Glass noodle salad with shrimp and ground pork",
     "nl": "Glasnoedelsalade met garnalen en varkensgehakt",
-    "ko": "새우와 돼지고기 다짐육을 넣은 태국식 매콤새콤 당면 샐러드"
+    "ko": "새우와 돼지고기 다짐육을 넣은 태국식 매콤새콤 당면 샐러드",
+    "th": "ยำวุ้นเส้น สลัดวุ้นเส้นกับกุ้งและหมูสับ ปรุงรสเปรี้ยวเผ็ด สดชื่น"
   },
   "ingredients": [
     "glass noodles",
@@ -36,12 +38,14 @@
     "metaTitle": {
       "en": "Yam Woon Sen Recipe | Authentic Thai salad",
       "nl": "Yam Woon Sen Recept | Authentieke Thaise salad",
-      "ko": "얌운센 레시피 | 태국 매콤새콤 당면 샐러드"
+      "ko": "얌운센 레시피 | 태국 매콤새콤 당면 샐러드",
+      "th": "สูตรยำวุ้นเส้น | สลัดไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Yam Woon Sen (ยำวุ้นเส้น) - Glass noodle salad with shrimp and ground pork...",
       "nl": "Leer over Yam Woon Sen (ยำวุ้นเส้น) - Glasnoedelsalade met garnalen en varkensgehakt...",
-      "ko": "얌운센(ยำวุ้นเส้น) - 새우, 돼지고기 다짐육, 토마토, 양파를 라임즙과 피시소스로 버무린 태국 대표 당면 샐러드. 상큼하고 매콤한 맛의 레시피와 맛집 정보."
+      "ko": "얌운센(ยำวุ้นเส้น) - 새우, 돼지고기 다짐육, 토마토, 양파를 라임즙과 피시소스로 버무린 태국 대표 당면 샐러드. 상큼하고 매콤한 맛의 레시피와 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับยำวุ้นเส้น — ยำวุ้นเส้น สลัดวุ้นเส้นกับกุ้งและหมูสับ ปรุงรสเปรี้ยวเผ็ด สดชื่น สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -778,6 +782,109 @@
           "street_vendor": "30-50 THB",
           "market_stall": "40-60 THB",
           "restaurant": "60-120 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ยำวุ้นเส้นเป็นสลัดไทยรสเปรี้ยวเผ็ดที่ทำจากวุ้นเส้นกับกุ้งและหมูสับ ปรุงรสด้วยน้ำมะนาว น้ำปลา พริก หอมแดง ขึ้นฉ่าย รสชาติสดชื่นถึงใจ",
+      "detailed_ingredients": [
+        {
+          "name": "Glass noodles",
+          "purpose": "สำคัญสำหรับรสชาติYam Woon Senแท้",
+          "substitutes": [
+            "Fresh glass noodles",
+            "Dried glass noodles",
+            "glass noodles paste"
+          ]
+        },
+        {
+          "name": "Shrimp",
+          "purpose": "สำคัญสำหรับรสชาติYam Woon Senแท้",
+          "substitutes": [
+            "Fresh shrimp",
+            "Dried shrimp",
+            "shrimp paste"
+          ]
+        },
+        {
+          "name": "Ground pork",
+          "purpose": "สำคัญสำหรับรสชาติYam Woon Senแท้",
+          "substitutes": [
+            "Fresh ground pork",
+            "Dried ground pork",
+            "ground pork paste"
+          ]
+        },
+        {
+          "name": "Tomatoes",
+          "purpose": "สำคัญสำหรับรสชาติYam Woon Senแท้",
+          "substitutes": [
+            "Fresh tomatoes",
+            "Dried tomatoes",
+            "tomatoes paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การเตรียมสดและคลุกเคล้า",
+        "steps_overview": "การเตรียมYam Woon Senต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้glass noodlesสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคกลางมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคกลาง แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Yam Woon Sen Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Yam Woon Sen Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Yam Woon Sen",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารไทยภาคกลาง",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

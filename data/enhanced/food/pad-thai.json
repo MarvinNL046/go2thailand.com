@@ -5,7 +5,8 @@
     "en": "Pad Thai",
     "nl": "Pad Thai",
     "thai": "ผัดไทย",
-    "ko": "팟타이"
+    "ko": "팟타이",
+    "th": "ผัดไทย"
   },
   "category": "main-dish",
   "region": "central",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce",
     "nl": "Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus",
-    "ko": "두부 또는 새우, 숙주나물, 타마린드 소스를 넣은 볶음 쌀국수"
+    "ko": "두부 또는 새우, 숙주나물, 타마린드 소스를 넣은 볶음 쌀국수",
+    "th": "ผัดไทย เส้นจันท์ผัดกับเต้าหู้หรือกุ้ง ถั่วงอก ซอสมะขาม รสเปรี้ยวหวานเค็ม"
   },
   "ingredients": [
     "rice noodles",
@@ -38,12 +40,14 @@
     "metaTitle": {
       "en": "Pad Thai Recipe | Authentic Thai main dish",
       "nl": "Pad Thai Recept | Authentieke Thaise main dish",
-      "ko": "팟타이 레시피 | 정통 태국 볶음 쌀국수"
+      "ko": "팟타이 레시피 | 정통 태국 볶음 쌀국수",
+      "th": "สูตรผัดไทย | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Pad Thai (ผัดไทย) - Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce...",
       "nl": "Leer over Pad Thai (ผัดไทย) - Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus...",
-      "ko": "팟타이(ผัดไทย) - 타마린드 소스, 두부, 새우, 땅콩을 넣은 태국 대표 볶음 쌀국수. CNN 세계 최고 음식 선정. 레시피, 유래, 맛집 정보."
+      "ko": "팟타이(ผัดไทย) - 타마린드 소스, 두부, 새우, 땅콩을 넣은 태국 대표 볶음 쌀국수. CNN 세계 최고 음식 선정. 레시피, 유래, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับผัดไทย — ผัดไทย เส้นจันท์ผัดกับเต้าหู้หรือกุ้ง ถั่วงอก ซอสมะขาม รสเปรี้ยวหวานเค็ม สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -765,6 +769,107 @@
           "street_food": "40-60 THB",
           "restaurant": "100-200 THB",
           "upscale": "250-500 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ผัดไทยเป็นอาหารไทยที่โด่งดังที่สุดในโลก เส้นจันท์ผัดกับเต้าหู้หรือกุ้ง ถั่วงอก ซอสมะขาม รสเปรี้ยวหวานเค็มลงตัว ถือกำเนิดจากนโยบายสร้างชาติของจอมพล ป. พิบูลสงคราม ในทศวรรษ 1930 กลายเป็นทูตอาหารไทยสู่สากล",
+      "detailed_ingredients": [
+        {
+          "name": "Rice Noodles (Sen Lek)",
+          "purpose": "พื้นฐานของเมนู — เส้นก๋วยเตี๋ยวแบนที่ดูดซับรสชาติทั้งหมด",
+          "substitutes": [
+            "Fresh rice noodles",
+            "Linguine (in emergencies)",
+            "Zucchini noodles for low-carb"
+          ]
+        },
+        {
+          "name": "Tamarind Paste",
+          "purpose": "ให้รสเปรี้ยวหวานอันเป็นเอกลักษณ์ของผัดไทยแท้",
+          "substitutes": [
+            "Lime juice with brown sugar",
+            "Rice vinegar with date syrup"
+          ]
+        },
+        {
+          "name": "Palm Sugar",
+          "purpose": "เพิ่มความหวานคาราเมลที่สมดุลกับรสเปรี้ยวของมะขาม",
+          "substitutes": [
+            "Brown sugar",
+            "Coconut sugar",
+            "White sugar with molasses"
+          ]
+        },
+        {
+          "name": "Dried Shrimp",
+          "purpose": "เพิ่มความอูมามิและรสชาติดั้งเดิม",
+          "substitutes": [
+            "Fish sauce (increase amount)",
+            "Anchovy paste",
+            "Miso paste for vegetarian"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดในกระทะร้อนตามลำดับที่ถูกต้อง",
+        "steps_overview": "ผัดไทยต้องอาศัยจังหวะเวลาและเทคนิค เครื่องปรุงแต่ละอย่างต้องลงกระทะในเวลาที่พอดี เส้นต้องนุ่มแต่ไม่เละ ไข่ต้องเป็นริ้วพันเส้น ทั้งหมดต้องผัดแรงพอที่จะเข้ากัน แต่เบาพอที่จะไม่ทำให้เส้นขาด",
+        "cooking_tips": [
+          "แช่เส้นในน้ำอุณหภูมิห้อง ไม่ใช่น้ำร้อน — กันเส้นเละ",
+          "คนเครื่องปรุงในกระทะตลอดเวลา",
+          "ดันเครื่องปรุงขึ้นข้างกระทะเพื่อสร้างโซนทำอาหาร",
+          "ซอสควรคาราเมลเล็กน้อยบนเส้น",
+          "ใส่ถั่วงอกตอนท้ายสุดเพื่อความกรอบ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "สร้างขึ้นในทศวรรษ 1930 ในรัชสมัยจอมพล ป. พิบูลสงคราม เป็นส่วนหนึ่งของนโยบายสร้างชาติ ต้องการอาหารประจำชาติที่จะรวมคนไทยเป็นหนึ่ง และลดการบริโภคข้าวในช่วงสงครามโลกครั้งที่ 2 ชื่อ 'ผัดไทย' แปลตรงตัวว่า 'ผัดแบบไทย'",
+        "cultural_importance": "ผัดไทยเป็นตัวแทนการทูตอาหารของไทย มักเป็นอาหารไทยจานแรกที่ชาวต่างชาติลอง และกลายเป็นคำพ้องกับอาหารไทยทั่วโลก ในเมืองไทย ฝีมือพ่อครัวมักถูกตัดสินจากผัดไทยของเขา",
+        "traditional_occasions": [
+          "อาหารริมทางยอดนิยม",
+          "อาหารดึก",
+          "อาหารงานเทศกาล",
+          "อาหารไทยจานแรกของนักท่องเที่ยว"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Thai Goong Sod",
+          "description": "เวอร์ชันกุ้งสด — รูปแบบดั้งเดิมที่หรูหราที่สุด"
+        },
+        {
+          "name": "Pad Thai Woonsen",
+          "description": "ทำจากวุ้นเส้นแทนเส้นจันท์"
+        },
+        {
+          "name": "Pad Thai Ho Kai",
+          "description": "ห่อด้วยไข่เจียวบาง — การจัดจานแบบร้านอาหาร"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด"
+        ],
+        "presentation": "เสิร์ฟร้อนๆ แบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อม"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) - The legendary 'Pad Thai King'",
+          "Pad Thai Fai Ta Lu (Bangkok) - Famous for wok hei",
+          "Baan Phadthai (Bangkok) - Upscale interpretations"
+        ],
+        "street_food_areas": [
+          "Chinatown Bangkok - Try the vendors near Wat Traimit",
+          "Khao San Road - Tourist-friendly versions",
+          "Or Tor Kor Market - High-quality ingredients"
+        ],
+        "price_ranges": {
+          "street_food": "40-60 THB ($1.20-$1.80)",
+          "restaurant": "100-200 THB ($3-$6)",
+          "upscale": "250-500 THB ($7.50-$15)"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

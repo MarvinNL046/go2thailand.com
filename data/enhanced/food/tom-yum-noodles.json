@@ -5,7 +5,8 @@
     "en": "Tom Yum Noodles",
     "nl": "Tom Yum Noedels",
     "thai": "ก๋วยเตี๋ยวต้มยำ",
-    "ko": "꾸어이띠아오 똠얌"
+    "ko": "꾸어이띠아오 똠얌",
+    "th": "ก๋วยเตี๋ยวต้มยำ"
   },
   "category": "soup",
   "region": "central",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Spicy and sour noodle soup with fish balls",
     "nl": "Pittige en zure noedelsoep met visballen",
-    "ko": "어묵과 쌀국수를 넣은 매콤새콤한 똠얌 스타일 면 요리"
+    "ko": "어묵과 쌀국수를 넣은 매콤새콤한 똠얌 스타일 면 요리",
+    "th": "ก๋วยเตี๋ยวต้มยำ เส้นในน้ำซุปต้มยำเผ็ดเปรี้ยว ใส่ลูกชิ้นปลา"
   },
   "ingredients": [
     "rice noodles",
@@ -35,12 +37,14 @@
     "metaTitle": {
       "en": "Tom Yum Noodles Recipe | Authentic Thai soup",
       "nl": "Tom Yum Noedels Recept | Authentieke Thaise soup",
-      "ko": "똠얌 누들 레시피 | 태국 매콤새콤 어묵 쌀국수"
+      "ko": "똠얌 누들 레시피 | 태국 매콤새콤 어묵 쌀국수",
+      "th": "สูตรก๋วยเตี๋ยวต้มยำ | ซุปไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Tom Yum Noodles (ก๋วยเตี๋ยวต้มยำ) - Spicy and sour noodle soup with fish balls...",
       "nl": "Leer over Tom Yum Noedels (ก๋วยเตี๋ยวต้มยำ) - Pittige en zure noedelsoep met visballen...",
-      "ko": "꾸어이띠아오 똠얌(ก๋วยเตี๋ยวต้มยำ) - 똠얌의 매콤새콤한 맛을 국수로 즐기는 태국 인기 길거리 면 요리. 어묵, 라임즙, 고추, 땅콩을 넣은 레시피와 맛집 정보."
+      "ko": "꾸어이띠아오 똠얌(ก๋วยเตี๋ยวต้มยำ) - 똠얌의 매콤새콤한 맛을 국수로 즐기는 태국 인기 길거리 면 요리. 어묵, 라임즙, 고추, 땅콩을 넣은 레시피와 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับก๋วยเตี๋ยวต้มยำ — ก๋วยเตี๋ยวต้มยำ เส้นในน้ำซุปต้มยำเผ็ดเปรี้ยว ใส่ลูกชิ้นปลา สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -771,6 +775,109 @@
           "왕랑 시장 (씨리랏 병원 근처)",
           "차이나타운 (야오와랏) 저녁 노점",
           "점심시간 오피스 밀집 지역 노점"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ก๋วยเตี๋ยวต้มยำเป็นเส้นในน้ำซุปต้มยำเผ็ดเปรี้ยว ใส่ลูกชิ้นปลา ถั่วลิสงป่น และผักชี รสชาติเผ็ดร้อนสดชื่น เป็นอาหารริมทางที่หาทานได้ทั่วไป",
+      "detailed_ingredients": [
+        {
+          "name": "Rice noodles",
+          "purpose": "สำคัญสำหรับรสชาติTom Yum Noodlesแท้",
+          "substitutes": [
+            "Fresh rice noodles",
+            "Dried rice noodles",
+            "rice noodles paste"
+          ]
+        },
+        {
+          "name": "Fish balls",
+          "purpose": "สำคัญสำหรับรสชาติTom Yum Noodlesแท้",
+          "substitutes": [
+            "Fresh fish balls",
+            "Dried fish balls",
+            "fish balls paste"
+          ]
+        },
+        {
+          "name": "Lime juice",
+          "purpose": "สำคัญสำหรับรสชาติTom Yum Noodlesแท้",
+          "substitutes": [
+            "Fresh lime juice",
+            "Dried lime juice",
+            "lime juice paste"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "สำคัญสำหรับรสชาติTom Yum Noodlesแท้",
+          "substitutes": [
+            "Fresh chili",
+            "Dried chili",
+            "chili paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การเคี่ยวและการเพิ่มรสชาติทีละชั้น",
+        "steps_overview": "การเตรียมTom Yum Noodlesต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้เส้นก๋วยเตี๋ยวสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคกลางมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคกลาง แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Noodles Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Tom Yum Noodles Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Tom Yum Noodles",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในชามแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารไทยภาคกลาง",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

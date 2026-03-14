@@ -5,7 +5,8 @@
     "en": "Khao Mok Gai",
     "nl": "Khao Mok Gai",
     "thai": "ข้าวหมกไก่",
-    "ko": "카오목가이"
+    "ko": "카오목가이",
+    "th": "ข้าวหมกไก่"
   },
   "category": "main-dish",
   "region": "southern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Thai-style biryani with chicken and fragrant yellow rice",
     "nl": "Thaise biryani met kip en geurige gele rijst",
-    "ko": "닭고기와 향긋한 노란 쌀로 만든 태국식 비리야니"
+    "ko": "닭고기와 향긋한 노란 쌀로 만든 태국식 비리야니",
+    "th": "ข้าวหมกไก่สูตรไทย ข้าวหอมเหลืองอร่ามหุงกับเครื่องเทศ เสิร์ฟกับไก่เนื้อนุ่ม"
   },
   "ingredients": [
     "chicken",
@@ -34,12 +36,14 @@
     "metaTitle": {
       "en": "Khao Mok Gai Recipe | Authentic Thai main dish",
       "nl": "Khao Mok Gai Recept | Authentieke Thaise main dish",
-      "ko": "카오목가이 레시피 | 정통 태국식 치킨 비리야니"
+      "ko": "카오목가이 레시피 | 정통 태국식 치킨 비리야니",
+      "th": "สูตรข้าวหมกไก่ | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Khao Mok Gai (ข้าวหมกไก่) - Thai-style biryani with chicken and fragrant yellow rice...",
       "nl": "Leer over Khao Mok Gai (ข้าวหมกไก่) - Thaise biryani met kip en geurige gele rijst...",
-      "ko": "카오목가이(ข้าวหมกไก่) - 닭고기와 향긋한 강황 쌀밥으로 만든 태국식 비리야니. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "카오목가이(ข้าวหมกไก่) - 닭고기와 향긋한 강황 쌀밥으로 만든 태국식 비리야니. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับข้าวหมกไก่ — ข้าวหมกไก่สูตรไทย ข้าวหอมเหลืองอร่ามหุงกับเครื่องเทศ เสิร์ฟกับไก่เนื้อนุ่ม สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -764,6 +768,109 @@
           "street_vendor": "40-60 THB",
           "market_stall": "50-70 THB",
           "restaurant": "70-120 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ข้าวหมกไก่เป็นข้าวหอมเหลืองสไตล์บิรยานีแบบไทย หุงกับเครื่องเทศหอมกรุ่น เสิร์ฟกับไก่เนื้อนุ่มและน้ำจิ้มเปรี้ยวหวาน ได้รับอิทธิพลจากอาหารมุสลิมในภาคใต้",
+      "detailed_ingredients": [
+        {
+          "name": "Chicken",
+          "purpose": "สำคัญสำหรับรสชาติKhao Mok Gaiแท้",
+          "substitutes": [
+            "Fresh chicken",
+            "Dried chicken",
+            "chicken paste"
+          ]
+        },
+        {
+          "name": "Rice",
+          "purpose": "สำคัญสำหรับรสชาติKhao Mok Gaiแท้",
+          "substitutes": [
+            "Fresh rice",
+            "Dried rice",
+            "rice paste"
+          ]
+        },
+        {
+          "name": "Turmeric",
+          "purpose": "สำคัญสำหรับรสชาติKhao Mok Gaiแท้",
+          "substitutes": [
+            "Fresh turmeric",
+            "Dried turmeric",
+            "turmeric paste"
+          ]
+        },
+        {
+          "name": "Bay leaves",
+          "purpose": "สำคัญสำหรับรสชาติKhao Mok Gaiแท้",
+          "substitutes": [
+            "Fresh bay leaves",
+            "Dried bay leaves",
+            "bay leaves paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมKhao Mok Gaiต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้chickenสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคใต้มาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคใต้ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Mok Gai Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Khao Mok Gai Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Khao Mok Gai",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารใต้ท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

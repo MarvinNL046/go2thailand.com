@@ -5,7 +5,8 @@
     "en": "Khao Kan Jin",
     "nl": "Khao Kan Jin",
     "thai": "ข้าวกั้นจิ๊น",
-    "ko": "카오깐진"
+    "ko": "카오깐진",
+    "th": "ข้าวกั้นจิ๊น"
   },
   "category": "main-dish",
   "region": "northern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Steamed rice with pork blood in banana leaf",
     "nl": "Gestoomde rijst met varkensbloed in bananenblad",
-    "ko": "바나나잎에 싸서 찐 돼지피 밥"
+    "ko": "바나나잎에 싸서 찐 돼지피 밥",
+    "th": "ข้าวกั้นจิ๊น ข้าวนึ่งผสมเลือดหมูห่อใบตองนึ่ง อาหารเช้าเหนือสุดคลาสสิก"
   },
   "ingredients": [
     "rice",
@@ -33,12 +35,14 @@
     "metaTitle": {
       "en": "Khao Kan Jin Recipe | Authentic Thai main dish",
       "nl": "Khao Kan Jin Recept | Authentieke Thaise main dish",
-      "ko": "카오깐진 레시피 | 정통 태국 북부 바나나잎 돼지피 밥"
+      "ko": "카오깐진 레시피 | 정통 태국 북부 바나나잎 돼지피 밥",
+      "th": "สูตรข้าวกั้นจิ๊น | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Khao Kan Jin (ข้าวกั้นจิ๊น) - Steamed rice with pork blood in banana leaf...",
       "nl": "Leer over Khao Kan Jin (ข้าวกั้นจิ๊น) - Gestoomde rijst met varkensbloed in bananenblad...",
-      "ko": "카오깐진(ข้าวกั้นจิ๊น) - 바나나잎에 싸서 찐 돼지피 밥. 태국 북부 전통 요리의 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "카오깐진(ข้าวกั้นจิ๊น) - 바나나잎에 싸서 찐 돼지피 밥. 태국 북부 전통 요리의 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับข้าวกั้นจิ๊น — ข้าวกั้นจิ๊น ข้าวนึ่งผสมเลือดหมูห่อใบตองนึ่ง อาหารเช้าเหนือสุดคลาสสิก สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -763,6 +767,109 @@
           "street_vendor": "10-20 THB",
           "market_stall": "15-30 THB",
           "restaurant": "30-50 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ข้าวกั้นจิ๊นเป็นอาหารเช้าเหนือสุดคลาสสิก ข้าวเหนียวนึ่งผสมเลือดหมูห่อใบตองนึ่งจนสุก ทานกับน้ำพริกหรือแกง เป็นอาหารที่สะท้อนวิถีชีวิตดั้งเดิมของคนเหนือ",
+      "detailed_ingredients": [
+        {
+          "name": "Rice",
+          "purpose": "สำคัญสำหรับรสชาติKhao Kan Jinแท้",
+          "substitutes": [
+            "Fresh rice",
+            "Dried rice",
+            "rice paste"
+          ]
+        },
+        {
+          "name": "Pork blood",
+          "purpose": "สำคัญสำหรับรสชาติKhao Kan Jinแท้",
+          "substitutes": [
+            "Fresh pork blood",
+            "Dried pork blood",
+            "pork blood paste"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "สำคัญสำหรับรสชาติKhao Kan Jinแท้",
+          "substitutes": [
+            "Fresh garlic",
+            "Dried garlic",
+            "garlic paste"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "สำคัญสำหรับรสชาติKhao Kan Jinแท้",
+          "substitutes": [
+            "Fresh shallots",
+            "Dried shallots",
+            "shallots paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมKhao Kan Jinต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้riceสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคเหนือมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคเหนือ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Kan Jin Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Khao Kan Jin Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Khao Kan Jin",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารเหนือท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

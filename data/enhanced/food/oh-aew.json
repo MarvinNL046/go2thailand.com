@@ -5,7 +5,8 @@
     "en": "Oh Aew",
     "nl": "Oh Aew",
     "thai": "โอ้เอ๋ว",
-    "ko": "오에우"
+    "ko": "오에우",
+    "th": "โอ้เอ๋ว"
   },
   "category": "dessert",
   "region": "southern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Shaved ice dessert with jelly made from banana flour",
     "nl": "IJsdessert met gelei van bananenmeel",
-    "ko": "바나나 가루 젤리를 넣은 빙수 디저트"
+    "ko": "바나나 가루 젤리를 넣은 빙수 디저트",
+    "th": "โอ้เอ๋ว ขนมหวานน้ำแข็งไสของภูเก็ต ใส่วุ้นจากแป้งกล้วย ราดน้ำเชื่อม"
   },
   "ingredients": [
     "banana flour jelly",
@@ -40,12 +42,14 @@
     "metaTitle": {
       "en": "Oh Aew Recipe | Authentic Thai dessert",
       "nl": "Oh Aew Recept | Authentieke Thaise dessert",
-      "ko": "오에우 레시피 | 푸켓 올드타운 전통 호끼엔 빙수 디저트"
+      "ko": "오에우 레시피 | 푸켓 올드타운 전통 호끼엔 빙수 디저트",
+      "th": "สูตรโอ้เอ๋ว | ของหวานไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Oh Aew (โอ้เอ๋ว) - Shaved ice dessert with jelly made from banana flour...",
       "nl": "Leer over Oh Aew (โอ้เอ๋ว) - IJsdessert met gelei van bananenmeel...",
-      "ko": "오에우(โอ้เอ๋ว) - 푸켓 올드타운의 호끼엔 전통 빙수. 오에우 씨앗 젤리, 팥, 선초 젤리, 야자 설탕 시럽. 레시피, 유래, 맛집 정보."
+      "ko": "오에우(โอ้เอ๋ว) - 푸켓 올드타운의 호끼엔 전통 빙수. 오에우 씨앗 젤리, 팥, 선초 젤리, 야자 설탕 시럽. 레시피, 유래, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับโอ้เอ๋ว — โอ้เอ๋ว ขนมหวานน้ำแข็งไสของภูเก็ต ใส่วุ้นจากแป้งกล้วย ราดน้ำเชื่อม สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -820,6 +824,116 @@
           "푸켓 올드타운 (탈랑 로드, 디북 로드, 크라비 로드)",
           "일요일 워킹 스트리트 마켓 (탈랑 로드)",
           "록띠엔 푸드코트 주변"
+        ],
+        "price_ranges": {
+          "street_food": "10-20 THB",
+          "restaurant": "15-40 THB",
+          "upscale": "40-80 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "โอ้เอ๋วเป็นขนมหวานน้ำแข็งไสขึ้นชื่อของภูเก็ต ใส่วุ้นจากแป้งกล้วยหอมๆ ราดน้ำเชื่อมหวานเย็น เป็นของหวานที่สดชื่นเหมาะกับอากาศร้อน",
+      "detailed_ingredients": [
+        {
+          "name": "O-Aew Seed Jelly",
+          "purpose": "The signature component — made from seeds of the creeping fig plant (Ficus pumila var. awkeotsang), soaked and set with calcium sulphate into a firm, translucent jelly",
+          "substitutes": [
+            "Aiyu jelly (Taiwanese equivalent from same plant family)",
+            "Agar jelly (different texture, common outside Phuket)"
+          ]
+        },
+        {
+          "name": "Banana Juice",
+          "purpose": "Mixed with the seeds during preparation to neutralize the natural odor of the o-aew seeds",
+          "substitutes": []
+        },
+        {
+          "name": "Red Beans",
+          "purpose": "Classic topping that adds texture and mild sweetness, reflecting Chinese dessert tradition",
+          "substitutes": [
+            "Black beans"
+          ]
+        },
+        {
+          "name": "Grass Jelly (Chao Kuai)",
+          "purpose": "Dark, slightly bitter jelly that balances the sweetness and adds color contrast",
+          "substitutes": []
+        },
+        {
+          "name": "Shaved Ice",
+          "purpose": "Provides the cooling element and fluffy texture",
+          "substitutes": [
+            "Crushed ice (less fluffy)"
+          ]
+        },
+        {
+          "name": "Palm Sugar Syrup",
+          "purpose": "Adds caramel-like sweetness; traditional Phuket stalls use locally made palm sugar",
+          "substitutes": [
+            "Simple syrup",
+            "Coconut sugar syrup"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Seed soaking, jelly setting with calcium sulphate, then assembling with shaved ice",
+        "steps_overview": "Making Oh Aew is a time-intensive process. The o-aew seeds (from the creeping fig plant) are soaked in water for approximately 1 hour until they release a gel. The gel is then mixed with banana juice to neutralize the seeds' natural odor, and calcium sulphate is added as a setting agent. This mixture is left to set for approximately 7 hours until firm. The resulting translucent jelly is cut into cubes. To serve, the jelly cubes are placed in a bowl with shaved ice, red beans, grass jelly, and topped with palm sugar syrup.",
+        "cooking_tips": [
+          "Soak seeds fully for at least 1 hour to release maximum gel",
+          "Banana juice is essential to remove the seeds' unpleasant odor",
+          "Calcium sulphate ratio must be precise — too much makes jelly rubbery",
+          "Allow full 7 hours for setting; rushing produces weak jelly",
+          "Shave ice just before serving for best texture",
+          "Use natural food coloring from pandan or butterfly pea flowers for colored jelly variations"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Oh Aew was introduced to Phuket by Hokkien Chinese settlers who arrived during the tin mining era in the mid-1800s. The name derives from the Hokkien word 'ò-giô' (薁蕘), referring to the creeping fig plant whose seeds are used to make the jelly. The dessert is closely related to Taiwan's aiyu jelly (愛玉冰), as both use seeds from the Ficus pumila family. Over generations, Phuket's version developed its own identity with the addition of local toppings like red beans and grass jelly.",
+        "cultural_importance": "Oh Aew is a living symbol of Phuket's Peranakan (Baba-Nyonya) heritage — the unique culture born from Chinese settlers intermarrying with local Thai and Malay communities. The dessert is almost impossible to find outside Phuket, making it a true regional specialty. It reflects the Hokkien Chinese culinary traditions that shaped Phuket Old Town's food culture, alongside other Hokkien-origin dishes like Hokkien mee and mee hun.",
+        "traditional_occasions": [
+          "Phuket Vegetarian Festival (เทศกาลกินเจ) — served as a plant-based treat",
+          "Afternoon refreshment in Phuket's tropical heat",
+          "Phuket Old Town Sunday Walking Street market",
+          "School children's after-class snack near Dibuk Road"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Oh Aew Boran (Traditional)",
+          "description": "The classic version with o-aew seed jelly, red beans, grass jelly, shaved ice, and palm sugar syrup. Found at traditional stalls like Oh Ew Paelee."
+        },
+        {
+          "name": "Oh Aew Nam Kathi",
+          "description": "Version with added coconut milk or coconut cream for extra richness, popular at some market stalls."
+        },
+        {
+          "name": "Oh Aew Modern/Creative",
+          "description": "Cafe-style versions with added toppings like taro, sweet potato, or fruit. Found at modern cafes like Cafe'in near Thai Hua Museum."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Red beans (standard topping)",
+          "Grass jelly / chao kuai (standard topping)",
+          "Palm sugar syrup",
+          "Coconut milk (optional, in Nam Kathi variation)"
+        ],
+        "presentation": "Served in a bowl or cup with shaved ice on top, jelly and beans visible through the ice",
+        "eating_etiquette": "Mix gently before eating to distribute syrup evenly, best enjoyed immediately while ice is still fluffy and hasn't melted"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Oh Ew Paelee (โอ้เอ๋ว แป๊ะหลี) — Thanon Dibuk, Soi Soon Uthit, Phuket Old Town (15 THB)",
+          "Cafe'in — 24 Krabi Road, near Thai Hua Museum, Phuket Old Town (40-80 THB)",
+          "Lock Tien Food Court — Dibuk Road intersection, Phuket Old Town (15-30 THB)",
+          "Cham Cha Market — Ranong Road, Phuket Old Town (15-25 THB)"
+        ],
+        "street_food_areas": [
+          "Phuket Old Town (Thalang Road, Dibuk Road, Krabi Road)",
+          "Sunday Walking Street Market (Thalang Road)",
+          "Lock Tien Food Court area"
         ],
         "price_ranges": {
           "street_food": "10-20 THB",

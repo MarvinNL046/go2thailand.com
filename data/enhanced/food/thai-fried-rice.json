@@ -5,7 +5,8 @@
     "en": "Thai Fried Rice",
     "nl": "Thaise Gebakken Rijst",
     "thai": "ข้าวผัด",
-    "ko": "카오팟"
+    "ko": "카오팟",
+    "th": "ข้าวผัด"
   },
   "category": "main-dish",
   "region": "central",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Fragrant fried rice with jasmine rice fish sauce and fresh vegetables",
     "nl": "Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten",
-    "ko": "재스민 쌀밥을 피시소스, 마늘, 채소와 함께 웍에 볶은 태국식 볶음밥"
+    "ko": "재스민 쌀밥을 피시소스, 마늘, 채소와 함께 웍에 볶은 태국식 볶음밥",
+    "th": "ข้าวผัดไทย ข้าวหอมมะลิผัดน้ำปลากับผักสดและไข่ หอมกรุ่นจากกระทะร้อน"
   },
   "ingredients": [
     "jasmine rice",
@@ -36,12 +38,14 @@
     "metaTitle": {
       "en": "Thai Fried Rice Recipe | Authentic Thai main dish",
       "nl": "Thaise Gebakken Rijst Recept | Authentieke Thaise main dish",
-      "ko": "카오팟 레시피 | 정통 태국 볶음밥 (카오팟)"
+      "ko": "카오팟 레시피 | 정통 태국 볶음밥 (카오팟)",
+      "th": "สูตรข้าวผัด | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Thai Fried Rice (ข้าวผัด) - Fragrant fried rice with jasmine rice fish sauce and fresh vegetables...",
       "nl": "Leer over Thaise Gebakken Rijst (ข้าวผัด) - Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten...",
-      "ko": "카오팟(ข้าวผัด) - 전날 남은 재스민 쌀밥을 웍에 볶아 만드는 태국 대표 가정식. 중국식보다 가볍고 향긋한 태국 볶음밥의 레시피, 변형, 맛집 정보."
+      "ko": "카오팟(ข้าวผัด) - 전날 남은 재스민 쌀밥을 웍에 볶아 만드는 태국 대표 가정식. 중국식보다 가볍고 향긋한 태국 볶음밥의 레시피, 변형, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับข้าวผัด — ข้าวผัดไทย ข้าวหอมมะลิผัดน้ำปลากับผักสดและไข่ หอมกรุ่นจากกระทะร้อน สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -693,6 +697,98 @@
           "어디서든 야시장",
           "병원과 대학 근처 24시간 식당"
         ]
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ข้าวผัดไทยเป็นอาหารจานเดียวที่ทำง่ายแต่อร่อย ข้าวหอมมะลิผัดกับน้ำปลา กระเทียม ไข่ และผักสด หอมกรุ่นจากไฟแรงในกระทะ เป็นอาหารที่ทุกบ้านในไทยทำเป็น",
+      "detailed_ingredients": [
+        {
+          "name": "Day-old Jasmine Rice",
+          "purpose": "Dried out rice fries better and doesn't clump",
+          "substitutes": [
+            "Fresh rice spread and cooled",
+            "Any long-grain rice",
+            "Cauliflower rice for low-carb"
+          ]
+        },
+        {
+          "name": "Thai Thin Soy Sauce",
+          "purpose": "Lighter than Chinese soy sauce, adds salt without color",
+          "substitutes": [
+            "Light soy sauce",
+            "Fish sauce diluted",
+            "Tamari for gluten-free"
+          ]
+        },
+        {
+          "name": "White Pepper",
+          "purpose": "Distinctive Thai seasoning that adds heat without color",
+          "substitutes": [
+            "Black pepper (changes appearance)",
+            "Ground Sichuan pepper"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "High-heat wok frying with proper rice preparation",
+        "steps_overview": "Success depends on preparation - rice must be dry, wok must be hot, and ingredients ready. Everything happens fast, with rice added last and tossed constantly to prevent sticking while developing smoky flavor.",
+        "cooking_tips": [
+          "Break up rice clumps before cooking",
+          "Use the highest heat possible",
+          "Keep rice moving constantly",
+          "Add sauces around the wok edge, not directly on rice",
+          "Finish with fresh cucumber and lime"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Evolved from Chinese immigrants' fried rice but adapted to Thai tastes with lighter seasonings and fresh accompaniments. Became popular as a way to use leftover rice in Thai households.",
+        "cultural_importance": "Khao Pad is Thailand's everyday hero - found everywhere from street carts to hotel breakfast buffets. It represents Thai practicality and the ability to make something delicious from simple ingredients.",
+        "traditional_occasions": [
+          "Quick breakfast",
+          "Late-night street food",
+          "Leftover transformation",
+          "Children's favorite meal"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Poo",
+          "description": "Crab fried rice - the luxury version"
+        },
+        {
+          "name": "Khao Pad American",
+          "description": "With ketchup, hot dogs, and raisins - Thai interpretation of 'American' food"
+        },
+        {
+          "name": "Khao Pad Sapparot",
+          "description": "Served in a pineapple with cashews - tourist favorite"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด"
+        ],
+        "presentation": "เสิร์ฟร้อนๆ แบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อม"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) - Famous for pad thai but great fried rice",
+          "Raan Jay Fai (Bangkok) - Crab fried rice worth the wait",
+          "Any street vendor with a well-worn wok"
+        ],
+        "street_food_areas": [
+          "Literally every street corner in Thailand",
+          "Night markets everywhere",
+          "24-hour spots near hospitals and universities"
+        ],
+        "price_ranges": {
+          "street_food": "40-60 THB ($1.20-$1.80)",
+          "restaurant": "80-150 THB ($2.40-$4.50)",
+          "upscale": "200-500 THB ($6-$15) for crab version"
+        }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"
     }

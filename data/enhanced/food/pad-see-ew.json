@@ -5,7 +5,8 @@
     "en": "Pad See Ew",
     "nl": "Pad See Ew",
     "thai": "ผัดซีอิ๊ว",
-    "ko": "팟씨유"
+    "ko": "팟씨유",
+    "th": "ผัดซีอิ๊ว"
   },
   "category": "main-dish",
   "region": "central",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg",
     "nl": "Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei",
-    "ko": "넓은 쌀국수를 진간장, 중국식 브로콜리, 달걀과 함께 볶은 요리"
+    "ko": "넓은 쌀국수를 진간장, 중국식 브로콜리, 달걀과 함께 볶은 요리",
+    "th": "ผัดซีอิ๊ว เส้นใหญ่ผัดซีอิ๊วดำกับคะน้าและไข่ รสหวานเค็มกลมกล่อม"
   },
   "ingredients": [
     "wide rice noodles",
@@ -32,12 +34,14 @@
     "metaTitle": {
       "en": "Pad See Ew Recipe | Authentic Thai main dish",
       "nl": "Pad See Ew Recept | Authentieke Thaise main dish",
-      "ko": "팟씨유 레시피 | 정통 태국 간장 볶음 넓은 쌀국수"
+      "ko": "팟씨유 레시피 | 정통 태국 간장 볶음 넓은 쌀국수",
+      "th": "สูตรผัดซีอิ๊ว | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Pad See Ew (ผัดซีอิ๊ว) - Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg...",
       "nl": "Leer over Pad See Ew (ผัดซีอิ๊ว) - Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei...",
-      "ko": "팟씨유(ผัดซีอิ๊ว) - 넓은 쌀국수를 진간장에 볶아 웍헤이 훈연향을 입힌 태국 대표 면 요리. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "팟씨유(ผัดซีอิ๊ว) - 넓은 쌀국수를 진간장에 볶아 웍헤이 훈연향을 입힌 태국 대표 면 요리. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับผัดซีอิ๊ว — ผัดซีอิ๊ว เส้นใหญ่ผัดซีอิ๊วดำกับคะน้าและไข่ รสหวานเค็มกลมกล่อม สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -689,6 +693,98 @@
           "street_food": "40-60 THB",
           "restaurant": "80-150 THB",
           "upscale": "200-400 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ผัดซีอิ๊วเป็นอาหารเส้นยอดนิยมของไทย เส้นใหญ่ผัดกับซีอิ๊วดำ คะน้า และไข่ในกระทะร้อน รสหวานเค็มกลมกล่อมจากซีอิ๊วและน้ำตาล หาทานได้ทั่วไปตามร้านก๋วยเตี๋ยว",
+      "detailed_ingredients": [
+        {
+          "name": "Fresh Wide Rice Noodles",
+          "purpose": "Wide surface area to catch wok hei and absorb sauce",
+          "substitutes": [
+            "Dried wide rice noodles",
+            "Fresh ho fun noodles",
+            "Fettuccine (emergency only)"
+          ]
+        },
+        {
+          "name": "Dark Sweet Soy Sauce",
+          "purpose": "Creates the signature dark color and sweet-savory flavor",
+          "substitutes": [
+            "Regular soy sauce with palm sugar",
+            "Kecap manis"
+          ]
+        },
+        {
+          "name": "Chinese Broccoli",
+          "purpose": "Adds slight bitterness and crunch to balance richness",
+          "substitutes": [
+            "Regular broccoli",
+            "Bok choy",
+            "Kale"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "High-heat wok charring",
+        "steps_overview": "The wok must be screaming hot - so hot it seems dangerous. Noodles are added in small batches, allowed to char slightly before tossing. The whole process takes under 3 minutes but requires constant motion and split-second timing.",
+        "cooking_tips": [
+          "If your wok isn't smoking, it's not hot enough",
+          "Work in small batches - overcrowding kills wok hei",
+          "Let noodles sit and char before first toss",
+          "Keep ingredients moving with a scooping motion",
+          "If it's not slightly smoky, you're doing it wrong"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Brought by Teochew Chinese immigrants to Thailand. The dish evolved from Chinese chow fun, adapted with Thai ingredients and sweeter flavor profile to suit local tastes.",
+        "cultural_importance": "Pad See Ew represents the Thai-Chinese fusion that defines much of Bangkok's food culture. It's working-class fuel - cheap, filling, and available 24/7 from street carts.",
+        "traditional_occasions": [
+          "Late-night drinking food",
+          "Quick lunch for workers",
+          "Comfort food for homesick Chinese-Thais",
+          "อาหารริมทางยอดนิยม"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad See Ew Moo",
+          "description": "Pork version - the most common and traditional"
+        },
+        {
+          "name": "Pad See Ew Talay",
+          "description": "Seafood version with squid and shrimp"
+        },
+        {
+          "name": "Pad See Ew Sen Yai",
+          "description": "Extra-wide noodles for maximum wok hei"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด"
+        ],
+        "presentation": "เสิร์ฟร้อนๆ แบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อม"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) - Michelin-starred street food",
+          "Soei Restaurant (Bangkok) - Old-school perfection",
+          "Any shophouse with a jet engine wok burner"
+        ],
+        "street_food_areas": [
+          "Chinatown after dark",
+          "Silom Soi 20 food stalls",
+          "Victory Monument street vendors"
+        ],
+        "price_ranges": {
+          "street_food": "40-60 THB ($1.20-$1.80)",
+          "restaurant": "80-150 THB ($2.40-$4.50)",
+          "upscale": "200-400 THB ($6-$12)"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

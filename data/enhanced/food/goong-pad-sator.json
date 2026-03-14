@@ -5,7 +5,8 @@
     "en": "Goong Pad Sator",
     "nl": "Goong Pad Sator",
     "thai": "กุ้งผัดสะตอ",
-    "ko": "꿍팟사또"
+    "ko": "꿍팟사또",
+    "th": "กุ้งผัดสะตอ"
   },
   "category": "main-dish",
   "region": "southern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Prawns stir-fried with stink beans",
     "nl": "Garnalen geroerbakt met stinkbonen",
-    "ko": "사또(냄새콩)와 함께 볶은 새우"
+    "ko": "사또(냄새콩)와 함께 볶은 새우",
+    "th": "กุ้งผัดสะตอ อาหารใต้ยอดนิยม กุ้งสดผัดกับสะตอและพริกแกง หอมเผ็ดร้อน"
   },
   "ingredients": [
     "prawns",
@@ -34,12 +36,14 @@
     "metaTitle": {
       "en": "Goong Pad Sator Recipe | Authentic Thai main dish",
       "nl": "Goong Pad Sator Recept | Authentieke Thaise main dish",
-      "ko": "꿍팟사또 레시피 | 정통 태국 남부 새우 볶음"
+      "ko": "꿍팟사또 레시피 | 정통 태국 남부 새우 볶음",
+      "th": "สูตรกุ้งผัดสะตอ | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Goong Pad Sator (กุ้งผัดสะตอ) - Prawns stir-fried with stink beans...",
       "nl": "Leer over Goong Pad Sator (กุ้งผัดสะตอ) - Garnalen geroerbakt met stinkbonen...",
-      "ko": "꿍팟사또(กุ้งผัดสะตอ) - 남부 태국 특산 냄새콩과 새우를 볶은 매콤한 요리. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "꿍팟사또(กุ้งผัดสะตอ) - 남부 태국 특산 냄새콩과 새우를 볶은 매콤한 요리. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับกุ้งผัดสะตอ — กุ้งผัดสะตอ อาหารใต้ยอดนิยม กุ้งสดผัดกับสะตอและพริกแกง หอมเผ็ดร้อน สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -761,6 +765,109 @@
           "야시장",
           "아침 시장",
           "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "กุ้งผัดสะตอเป็นอาหารปักษ์ใต้ยอดนิยม กุ้งสดผัดกับสะตอและพริกแกงเผ็ดร้อน สะตอมีกลิ่นเฉพาะตัวที่คนใต้ชื่นชอบ รสชาติเผ็ดจัดจ้านหอมกรุ่น เป็นอาหารที่แสดงถึงวัฒนธรรมการกินของภาคใต้",
+      "detailed_ingredients": [
+        {
+          "name": "Prawns",
+          "purpose": "สำคัญสำหรับรสชาติGoong Pad Satorแท้",
+          "substitutes": [
+            "Fresh prawns",
+            "Dried prawns",
+            "prawns paste"
+          ]
+        },
+        {
+          "name": "Stink beans",
+          "purpose": "สำคัญสำหรับรสชาติGoong Pad Satorแท้",
+          "substitutes": [
+            "Fresh stink beans",
+            "Dried stink beans",
+            "stink beans paste"
+          ]
+        },
+        {
+          "name": "Shrimp paste",
+          "purpose": "สำคัญสำหรับรสชาติGoong Pad Satorแท้",
+          "substitutes": [
+            "Fresh shrimp paste",
+            "Dried shrimp paste",
+            "shrimp paste paste"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "สำคัญสำหรับรสชาติGoong Pad Satorแท้",
+          "substitutes": [
+            "Fresh chili",
+            "Dried chili",
+            "chili paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมGoong Pad Satorต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้prawnsสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคใต้มาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคใต้ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Goong Pad Sator Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Goong Pad Sator Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Goong Pad Sator",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารใต้ท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
         ],
         "price_ranges": {
           "street_vendor": "50-80 THB",

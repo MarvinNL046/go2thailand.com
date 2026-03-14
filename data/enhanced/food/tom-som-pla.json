@@ -5,7 +5,8 @@
     "en": "Tom Som Pla",
     "nl": "Tom Som Pla",
     "thai": "ต้มส้มปลา",
-    "ko": "똠쏨쁠라"
+    "ko": "똠쏨쁠라",
+    "th": "ต้มส้มปลา"
   },
   "category": "soup",
   "region": "southern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Sour and spicy fish soup with turmeric",
     "nl": "Zure en pittige vissoep met kurkuma",
-    "ko": "강황과 타마린드를 넣은 태국 남부 전통 새콤매콤 생선 수프"
+    "ko": "강황과 타마린드를 넣은 태국 남부 전통 새콤매콤 생선 수프",
+    "th": "ต้มส้มปลา ต้มปลารสเปรี้ยวจัดหอมขมิ้น น้ำซุปใสรสกลมกล่อม"
   },
   "ingredients": [
     "fish",
@@ -35,12 +37,14 @@
     "metaTitle": {
       "en": "Tom Som Pla Recipe | Authentic Thai soup",
       "nl": "Tom Som Pla Recept | Authentieke Thaise soup",
-      "ko": "똠쏨쁠라 레시피 | 태국 남부 강황 새콤 생선 수프"
+      "ko": "똠쏨쁠라 레시피 | 태국 남부 강황 새콤 생선 수프",
+      "th": "สูตรต้มส้มปลา | ซุปไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Tom Som Pla (ต้มส้มปลา) - Sour and spicy fish soup with turmeric...",
       "nl": "Leer over Tom Som Pla (ต้มส้มปลา) - Zure en pittige vissoep met kurkuma...",
-      "ko": "똠쏨쁠라(ต้มส้มปลา) - 강황의 황금빛과 타마린드의 새콤함이 어우러진 태국 남부 전통 생선 수프. 피시소스와 고추로 맛을 낸 건강한 향토 요리의 레시피와 맛집 정보."
+      "ko": "똠쏨쁠라(ต้มส้มปลา) - 강황의 황금빛과 타마린드의 새콤함이 어우러진 태국 남부 전통 생선 수프. 피시소스와 고추로 맛을 낸 건강한 향토 요리의 레시피와 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับต้มส้มปลา — ต้มส้มปลา ต้มปลารสเปรี้ยวจัดหอมขมิ้น น้ำซุปใสรสกลมกล่อม สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -775,6 +779,109 @@
           "street_vendor": "30-50 THB",
           "market_stall": "40-60 THB",
           "restaurant": "60-120 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ต้มส้มปลาเป็นซุปปลาไทยรสเปรี้ยวจัดจากมะขามเปียก หอมขมิ้นสดสีเหลืองทอง น้ำซุปใสรสกลมกล่อม เป็นอาหารที่ดีต่อสุขภาพและย่อยง่าย",
+      "detailed_ingredients": [
+        {
+          "name": "Fish",
+          "purpose": "สำคัญสำหรับรสชาติTom Som Plaแท้",
+          "substitutes": [
+            "Fresh fish",
+            "Dried fish",
+            "fish paste"
+          ]
+        },
+        {
+          "name": "Turmeric",
+          "purpose": "สำคัญสำหรับรสชาติTom Som Plaแท้",
+          "substitutes": [
+            "Fresh turmeric",
+            "Dried turmeric",
+            "turmeric paste"
+          ]
+        },
+        {
+          "name": "Tamarind",
+          "purpose": "สำคัญสำหรับรสชาติTom Som Plaแท้",
+          "substitutes": [
+            "Fresh tamarind",
+            "Dried tamarind",
+            "tamarind paste"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "สำคัญสำหรับรสชาติTom Som Plaแท้",
+          "substitutes": [
+            "Fresh chili",
+            "Dried chili",
+            "chili paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การเคี่ยวและการเพิ่มรสชาติทีละชั้น",
+        "steps_overview": "การเตรียมTom Som Plaต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้fishสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคใต้มาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคใต้ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Som Pla Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Tom Som Pla Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Tom Som Pla",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในชามแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารใต้ท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

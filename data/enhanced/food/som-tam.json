@@ -5,7 +5,8 @@
     "en": "Som Tam",
     "nl": "Som Tam",
     "thai": "ส้มตำ",
-    "ko": "쏨땀"
+    "ko": "쏨땀",
+    "th": "ส้มตำ"
   },
   "category": "salad",
   "region": "northeastern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts",
     "nl": "Pittige groene papajasalade met tomaten limoensap vissaus en pinda's",
-    "ko": "덜 익은 파파야를 절구에 빻아 토마토, 라임즙, 피시소스, 땅콩을 넣은 매콤한 샐러드"
+    "ko": "덜 익은 파파야를 절구에 빻아 토마토, 라임즙, 피시소스, 땅콩을 넣은 매콤한 샐러드",
+    "th": "ส้มตำ สลัดมะละกอดิบตำกับมะเขือเทศ น้ำมะนาว น้ำปลา ถั่วลิสง รสเผ็ดเปรี้ยว"
   },
   "ingredients": [
     "green papaya",
@@ -37,12 +39,14 @@
     "metaTitle": {
       "en": "Som Tam Recipe | Authentic Thai salad",
       "nl": "Som Tam Recept | Authentieke Thaise salad",
-      "ko": "쏨땀 레시피 | 정통 태국 이산 파파야 샐러드"
+      "ko": "쏨땀 레시피 | 정통 태국 이산 파파야 샐러드",
+      "th": "สูตรส้มตำ | สลัดไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Som Tam (ส้มตำ) - Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts...",
       "nl": "Leer over Som Tam (ส้มตำ) - Pittige groene papajasalade met tomaten limoensap vissaus en pinda's...",
-      "ko": "쏨땀(ส้มตำ) - 이산 지역이 세계에 선사한 파파야 샐러드. 절구에서 빻아 만드는 매콤새콤 중독성 샐러드의 레시피, 변형, 맛집 정보."
+      "ko": "쏨땀(ส้มตำ) - 이산 지역이 세계에 선사한 파파야 샐러드. 절구에서 빻아 만드는 매콤새콤 중독성 샐러드의 레시피, 변형, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับส้มตำ — ส้มตำ สลัดมะละกอดิบตำกับมะเขือเทศ น้ำมะนาว น้ำปลา ถั่วลิสง รสเผ็ดเปรี้ยว สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -715,6 +719,101 @@
           "JJ 그린 야시장",
           "점심시간 아무 공사 현장 (노동자들을 따라가세요)"
         ]
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ส้มตำเป็นสลัดไทยที่โด่งดังไปทั่วโลก มะละกอดิบขูดเป็นเส้นตำในครกกับมะเขือเทศ ถั่วลิสง น้ำมะนาว น้ำปลา พริก รสเปรี้ยว เผ็ด เค็ม หวาน ครบรส เป็นอาหารอีสานที่กลายเป็นจานประจำชาติ",
+      "detailed_ingredients": [
+        {
+          "name": "Green Papaya",
+          "purpose": "Provides crisp texture and mild flavor that absorbs the dressing",
+          "substitutes": [
+            "Green mango",
+            "Cucumber and carrot mix",
+            "Kohlrabi",
+            "Green apple for sweetness"
+          ]
+        },
+        {
+          "name": "Pla Ra (Fermented Fish)",
+          "purpose": "The funky, umami heart of Isaan-style som tam",
+          "substitutes": [
+            "Fish sauce (milder flavor)",
+            "Shrimp paste",
+            "Anchovies",
+            "Soy sauce for vegetarian"
+          ]
+        },
+        {
+          "name": "Thai Chilies",
+          "purpose": "Brings the heat that makes this salad legendary",
+          "substitutes": [
+            "Serrano peppers",
+            "Bird's eye chilies",
+            "Jalapeños (much milder)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Pounding in a clay mortar (khrok)",
+        "steps_overview": "ตำเครื่องปรุงในครกทีละอย่าง เริ่มจากกระเทียมและพริก แล้วเพิ่มถั่วลิสง มะเขือเทศ และมะละกอดิบ ปรุงรสด้วยน้ำปลา น้ำมะนาว และน้ำตาลปี๊บ",
+        "cooking_tips": [
+          "Use a clay mortar, not wood - it grips ingredients better",
+          "Pound and fold, don't mash - preserve the texture",
+          "Taste constantly and adjust - every batch is unique",
+          "The papaya should be bruised but still crunchy",
+          "Make it spicier than you think - the sweetness balances it"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "ส้มตำมีต้นกำเนิดจากภาคอีสานของไทย เป็นอาหารพื้นบ้านที่ชาวนาทำกินจากวัตถุดิบในท้องถิ่น ปัจจุบันกลายเป็นอาหารประจำชาติที่คนทั่วโลกรู้จัก",
+        "cultural_importance": "ส้มตำเป็นอาหารที่แสดงถึงจิตวิญญาณของอาหารไทย — การผสมผสานรสชาติที่ตัดกันอย่างลงตัวในจานเดียว",
+        "traditional_occasions": [
+          "Lunch staple with sticky rice",
+          "Drinking food with beer",
+          "Harvest celebrations",
+          "Temple festivals"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Som Tam Thai",
+          "description": "The 'safe' version with dried shrimp, peanuts, and fish sauce"
+        },
+        {
+          "name": "Som Tam Poo Pla Ra",
+          "description": "Isaan style with fermented fish and field crabs - for brave souls"
+        },
+        {
+          "name": "Som Tam Ponlamai",
+          "description": "Fruit salad version with apples, grapes, and peanuts"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด"
+        ],
+        "presentation": "เสิร์ฟร้อนๆ แบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อม"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Nua (Bangkok) - Modern Isaan restaurant chain",
+          "Laab Ubon (Bangkok) - Authentic Isaan flavors",
+          "Any Isaan restaurant with plastic stools"
+        ],
+        "street_food_areas": [
+          "Soi 38 Night Market, Bangkok",
+          "JJ Green Night Market",
+          "Any construction site at lunch (follow the workers)"
+        ],
+        "price_ranges": {
+          "street_food": "30-50 THB ($0.90-$1.50)",
+          "restaurant": "60-120 THB ($1.80-$3.60)",
+          "upscale": "150-300 THB ($4.50-$9)"
+        }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"
     }

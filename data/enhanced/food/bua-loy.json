@@ -5,7 +5,8 @@
     "en": "Bua Loy",
     "nl": "Bua Loy",
     "thai": "บัวลอย",
-    "ko": "부아로이"
+    "ko": "부아로이",
+    "th": "บัวลอย"
   },
   "category": "dessert",
   "region": "southern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Rice flour balls in sweet coconut milk",
     "nl": "Rijstmeelballetjes in zoete kokosmelk",
-    "ko": "달콤한 코코넛 밀크에 담긴 쌀가루 경단"
+    "ko": "달콤한 코코넛 밀크에 담긴 쌀가루 경단",
+    "th": "บัวลอยลูกกลมนุ่มจากแป้งข้าวเหนียวในน้ำกะทิหวาน ของหวานไทยโบราณ"
   },
   "ingredients": [
     "rice flour",
@@ -34,12 +36,14 @@
     "metaTitle": {
       "en": "Bua Loy Recipe | Authentic Thai dessert",
       "nl": "Bua Loy Recept | Authentieke Thaise dessert",
-      "ko": "부아로이 레시피 | 정통 태국 디저트"
+      "ko": "부아로이 레시피 | 정통 태국 디저트",
+      "th": "สูตรบัวลอย | ของหวานไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Bua Loy (บัวลอย) - Rice flour balls in sweet coconut milk...",
       "nl": "Leer over Bua Loy (บัวลอย) - Rijstmeelballetjes in zoete kokosmelk...",
-      "ko": "부아로이(บัวลอย) - 달콤한 코코넛 밀크에 담긴 색색의 쌀가루 경단. 레시피, 재료, 맛집 정보."
+      "ko": "부아로이(บัวลอย) - 달콤한 코코넛 밀크에 담긴 색색의 쌀가루 경단. 레시피, 재료, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับบัวลอย — บัวลอยลูกกลมนุ่มจากแป้งข้าวเหนียวในน้ำกะทิหวาน ของหวานไทยโบราณ สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -762,6 +766,109 @@
           "야시장",
           "아침 시장",
           "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "บัวลอยเป็นขนมหวานไทยโบราณที่ทำจากแป้งข้าวเหนียวปั้นเป็นลูกกลมสีสันสวยงาม ลอยในน้ำกะทิหวานร้อนๆ รสชาติหวานมันอ่อนละมุน เป็นของหวานที่นิยมทานในงานมงคลและเทศกาลต่างๆ ของไทย",
+      "detailed_ingredients": [
+        {
+          "name": "Rice flour",
+          "purpose": "สำคัญสำหรับรสชาติBua Loyแท้",
+          "substitutes": [
+            "Fresh rice flour",
+            "Dried rice flour",
+            "rice flour paste"
+          ]
+        },
+        {
+          "name": "Coconut milk",
+          "purpose": "สำคัญสำหรับรสชาติBua Loyแท้",
+          "substitutes": [
+            "Fresh coconut milk",
+            "Dried coconut milk",
+            "coconut milk paste"
+          ]
+        },
+        {
+          "name": "Palm sugar",
+          "purpose": "สำคัญสำหรับรสชาติBua Loyแท้",
+          "substitutes": [
+            "Fresh palm sugar",
+            "Dried palm sugar",
+            "palm sugar paste"
+          ]
+        },
+        {
+          "name": "Salt",
+          "purpose": "สำคัญสำหรับรสชาติBua Loyแท้",
+          "substitutes": [
+            "Fresh salt",
+            "Dried salt",
+            "salt paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การเตรียมแบบดั้งเดิม",
+        "steps_overview": "การเตรียมBua Loyต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้rice flourสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคใต้มาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคใต้ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Bua Loy Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Bua Loy Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Bua Loy",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารใต้ท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
         ],
         "price_ranges": {
           "street_vendor": "30-50 THB",

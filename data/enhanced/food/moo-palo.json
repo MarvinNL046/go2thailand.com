@@ -5,7 +5,8 @@
     "en": "Moo Palo",
     "nl": "Moo Palo",
     "thai": "หมูพะโล้",
-    "ko": "무빠로"
+    "ko": "무빠로",
+    "th": "หมูพะโล้"
   },
   "category": "main-dish",
   "region": "northern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Pork belly stewed in sweet soy sauce with eggs",
     "nl": "Varkensbuik gestoofd in zoete sojasaus met eieren",
-    "ko": "오향 가루와 간장으로 조린 삼겹살과 달걀"
+    "ko": "오향 가루와 간장으로 조린 삼겹살과 달걀",
+    "th": "หมูพะโล้ หมูสามชั้นตุ๋นซีอิ๊วดำกับไข่ต้ม เครื่องเทศจีนหอมกรุ่น"
   },
   "ingredients": [
     "pork belly",
@@ -33,12 +35,14 @@
     "metaTitle": {
       "en": "Moo Palo Recipe | Authentic Thai main dish",
       "nl": "Moo Palo Recept | Authentieke Thaise main dish",
-      "ko": "무빠로 레시피 | 정통 태국 중화풍 오향 돼지고기 조림"
+      "ko": "무빠로 레시피 | 정통 태국 중화풍 오향 돼지고기 조림",
+      "th": "สูตรหมูพะโล้ | อาหารจานหลักไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Moo Palo (หมูพะโล้) - Pork belly stewed in sweet soy sauce with eggs...",
       "nl": "Leer over Moo Palo (หมูพะโล้) - Varkensbuik gestoofd in zoete sojasaus met eieren...",
-      "ko": "무빠로(หมูพะโล้) - 오향 가루, 간장, 야자 설탕으로 조린 삼겹살과 달걀. 중국-태국 퓨전 조림 요리의 레시피, 재료, 맛집 정보."
+      "ko": "무빠로(หมูพะโล้) - 오향 가루, 간장, 야자 설탕으로 조린 삼겹살과 달걀. 중국-태국 퓨전 조림 요리의 레시피, 재료, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับหมูพะโล้ — หมูพะโล้ หมูสามชั้นตุ๋นซีอิ๊วดำกับไข่ต้ม เครื่องเทศจีนหอมกรุ่น สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -763,6 +767,109 @@
           "street_vendor": "40-70 THB",
           "market_stall": "50-80 THB",
           "restaurant": "80-150 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "หมูพะโล้เป็นอาหารไทย-จีนที่นิยมทั่วประเทศ หมูสามชั้นตุ๋นในน้ำพะโล้ซีอิ๊วดำกับไข่ต้ม หอมเครื่องเทศจีนทั้งอบเชย โป๊ยกั๊ก ผักชี รสหวานเค็มนุ่มลึก",
+      "detailed_ingredients": [
+        {
+          "name": "Pork belly",
+          "purpose": "สำคัญสำหรับรสชาติMoo Paloแท้",
+          "substitutes": [
+            "Fresh pork belly",
+            "Dried pork belly",
+            "pork belly paste"
+          ]
+        },
+        {
+          "name": "Eggs",
+          "purpose": "สำคัญสำหรับรสชาติMoo Paloแท้",
+          "substitutes": [
+            "Fresh eggs",
+            "Dried eggs",
+            "eggs paste"
+          ]
+        },
+        {
+          "name": "Soy sauce",
+          "purpose": "สำคัญสำหรับรสชาติMoo Paloแท้",
+          "substitutes": [
+            "Fresh soy sauce",
+            "Dried soy sauce",
+            "soy sauce paste"
+          ]
+        },
+        {
+          "name": "Palm sugar",
+          "purpose": "สำคัญสำหรับรสชาติMoo Paloแท้",
+          "substitutes": [
+            "Fresh palm sugar",
+            "Dried palm sugar",
+            "palm sugar paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมMoo Paloต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้pork bellyสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคเหนือมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคเหนือ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Palo Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Moo Palo Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Moo Palo",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารเหนือท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

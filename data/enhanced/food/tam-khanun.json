@@ -5,7 +5,8 @@
     "en": "Tam Khanun",
     "nl": "Tam Khanun",
     "thai": "ตำขนุน",
-    "ko": "땀카눈"
+    "ko": "땀카눈",
+    "th": "ตำขนุน"
   },
   "category": "salad",
   "region": "northern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Spicy young jackfruit salad",
     "nl": "Pittige jonge jackfruit salade",
-    "ko": "덜 익은 잭프루트를 절구에 빻아 고추, 마늘, 라임즙, 피시소스로 버무린 태국 북부 매콤 샐러드"
+    "ko": "덜 익은 잭프루트를 절구에 빻아 고추, 마늘, 라임즙, 피시소스로 버무린 태국 북부 매콤 샐러드",
+    "th": "ตำขนุน สลัดขนุนอ่อนตำรสเผ็ด อาหารอีสานรสจัดจ้าน"
   },
   "ingredients": [
     "young jackfruit",
@@ -35,12 +37,14 @@
     "metaTitle": {
       "en": "Tam Khanun Recipe | Authentic Thai salad",
       "nl": "Tam Khanun Recept | Authentieke Thaise salad",
-      "ko": "땀카눈 레시피 | 태국 북부 매콤 잭프루트 샐러드"
+      "ko": "땀카눈 레시피 | 태국 북부 매콤 잭프루트 샐러드",
+      "th": "สูตรตำขนุน | สลัดไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Tam Khanun (ตำขนุน) - Spicy young jackfruit salad...",
       "nl": "Leer over Tam Khanun (ตำขนุน) - Pittige jonge jackfruit salade...",
-      "ko": "땀카눈(ตำขนุน) - 덜 익은 잭프루트를 고추, 마늘, 토마토, 라임즙과 함께 절구에 빻아 만든 태국 북부 란나 전통 매콤 샐러드. 레시피와 맛집 정보."
+      "ko": "땀카눈(ตำขนุน) - 덜 익은 잭프루트를 고추, 마늘, 토마토, 라임즙과 함께 절구에 빻아 만든 태국 북부 란나 전통 매콤 샐러드. 레시피와 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับตำขนุน — ตำขนุน สลัดขนุนอ่อนตำรสเผ็ด อาหารอีสานรสจัดจ้าน สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -783,6 +787,109 @@
           "street_food": "30-50 THB",
           "restaurant": "50-80 THB",
           "upscale": "80-150 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ตำขนุนเป็นอาหารอีสานรสจัดจ้าน ขนุนอ่อนตำกับเครื่องปรุงรสเผ็ด เค็ม เปรี้ยว คล้ายส้มตำแต่ใช้ขนุนแทนมะละกอ มีเนื้อสัมผัสเหนียวนุ่มเฉพาะตัว",
+      "detailed_ingredients": [
+        {
+          "name": "Young jackfruit",
+          "purpose": "สำคัญสำหรับรสชาติTam Khanunแท้",
+          "substitutes": [
+            "Fresh young jackfruit",
+            "Dried young jackfruit",
+            "young jackfruit paste"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "สำคัญสำหรับรสชาติTam Khanunแท้",
+          "substitutes": [
+            "Fresh chili",
+            "Dried chili",
+            "chili paste"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "สำคัญสำหรับรสชาติTam Khanunแท้",
+          "substitutes": [
+            "Fresh garlic",
+            "Dried garlic",
+            "garlic paste"
+          ]
+        },
+        {
+          "name": "Lime juice",
+          "purpose": "สำคัญสำหรับรสชาติTam Khanunแท้",
+          "substitutes": [
+            "Fresh lime juice",
+            "Dried lime juice",
+            "lime juice paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การเตรียมสดและคลุกเคล้า",
+        "steps_overview": "การเตรียมTam Khanunต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้young jackfruitสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคเหนือมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคเหนือ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tam Khanun Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Tam Khanun Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Tam Khanun",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารเหนือท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"

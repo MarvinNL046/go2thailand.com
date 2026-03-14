@@ -5,7 +5,8 @@
     "en": "Larb",
     "nl": "Larb",
     "thai": "ลาบ",
-    "ko": "랍"
+    "ko": "랍",
+    "th": "ลาบ"
   },
   "category": "salad",
   "region": "northeastern",
@@ -13,7 +14,8 @@
   "description": {
     "en": "Spicy meat salad with herbs lime juice and toasted rice powder",
     "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder",
-    "ko": "허브, 라임즙, 볶은 쌀가루를 곁들인 매콤한 고기 샐러드"
+    "ko": "허브, 라임즙, 볶은 쌀가루를 곁들인 매콤한 고기 샐러드",
+    "th": "ลาบ สลัดเนื้อสับปรุงรสด้วยน้ำมะนาว น้ำปลา ข้าวคั่ว สมุนไพรสด รสเผ็ดเปรี้ยว"
   },
   "ingredients": [
     "minced pork",
@@ -34,12 +36,14 @@
     "metaTitle": {
       "en": "Larb Recipe | Authentic Thai salad",
       "nl": "Larb Recept | Authentieke Thaise salad",
-      "ko": "랍 레시피 | 정통 태국 이산 고기 샐러드"
+      "ko": "랍 레시피 | 정통 태국 이산 고기 샐러드",
+      "th": "สูตรลาบ | สลัดไทยแท้"
     },
     "metaDescription": {
       "en": "Learn about Larb (ลาบ) - Spicy meat salad with herbs lime juice and toasted rice powder...",
       "nl": "Leer over Larb (ลาบ) - Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder...",
-      "ko": "랍(ลาบ) - 허브, 라임즙, 볶은 쌀가루를 곁들인 태국 이산 지역의 매콤한 고기 샐러드. 레시피, 재료, 조리법, 맛집 정보."
+      "ko": "랍(ลาบ) - 허브, 라임즙, 볶은 쌀가루를 곁들인 태국 이산 지역의 매콤한 고기 샐러드. 레시피, 재료, 조리법, 맛집 정보.",
+      "th": "เรียนรู้เกี่ยวกับลาบ — ลาบ สลัดเนื้อสับปรุงรสด้วยน้ำมะนาว น้ำปลา ข้าวคั่ว สมุนไพรสด รสเผ็ดเปรี้ยว สูตร วิธีทำ ประวัติ และร้านแนะนำ"
     }
   },
   "tags": [
@@ -708,6 +712,99 @@
           "street_vendor": "40-60 THB",
           "market_stall": "50-80 THB",
           "restaurant": "80-150 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ลาบเป็นจานประจำชาติของลาวและอีสาน เนื้อสับปรุงรสด้วยน้ำมะนาว น้ำปลา ข้าวคั่ว พริกป่น และสมุนไพรสด เป็นยำเนื้อที่มีรสเปรี้ยว เผ็ด เค็ม ครบทุกรส เสิร์ฟทุกงานสำคัญ",
+      "detailed_ingredients": [
+        {
+          "name": "Toasted Rice Powder (Khao Khua)",
+          "purpose": "Adds nutty flavor and unique grainy texture - the signature element",
+          "substitutes": [
+            "Toast your own rice",
+            "Crushed rice crackers",
+            "Quinoa flakes toasted"
+          ]
+        },
+        {
+          "name": "Fresh Mint",
+          "purpose": "Provides cooling contrast to the meat and spice",
+          "substitutes": [
+            "Thai basil",
+            "Cilantro",
+            "Shiso leaves"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "Adds sharp, sweet crunch",
+          "substitutes": [
+            "Red onion",
+            "Spring onions",
+            "Leeks (finely sliced)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การปรุงเร็วและคลุกเคล้าสด",
+        "steps_overview": "เนื้อสับผัดสุกเร็ว (หรือทานดิบในแบบดั้งเดิม) แล้วคลุกเคล้าทันทีกับน้ำมะนาว น้ำปลา ข้าวคั่ว พริกป่น และสมุนไพรสด",
+        "cooking_tips": [
+          "Don't overcook the meat - it continues cooking when mixed",
+          "Toast rice until golden and fragrant",
+          "Add herbs at the last moment to preserve freshness",
+          "Taste and adjust - should be sour, spicy, and salty",
+          "Serve immediately - it doesn't keep well"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "เป็นอาหารลาวโบราณที่มีมาก่อนประวัติศาสตร์ที่บันทึกไว้ เดิมทำจากเนื้อดิบและสมุนไพรป่า ปัจจุบันเป็นอาหารประจำชาติของลาวและอีสาน",
+        "cultural_importance": "ลาบเสิร์ฟในทุกพิธีสำคัญของชาวอีสาน ทั้งงานเกิด งานตาย งานแต่ง และงานบวช",
+        "traditional_occasions": [
+          "Baci ceremonies",
+          "Temple festivals",
+          "New Year celebrations",
+          "Welcome parties for honored guests"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Larb Dip",
+          "description": "Raw beef version with blood - traditional Isaan style"
+        },
+        {
+          "name": "Larb Pla",
+          "description": "Fish version popular along the Mekong River"
+        },
+        {
+          "name": "Larb Moo",
+          "description": "Cooked pork version - most common and safest"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด"
+        ],
+        "presentation": "เสิร์ฟร้อนๆ แบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อม"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Jay So (Bangkok) - Authentic Isaan flavors",
+          "Larb Loi (Bangkok) - Specialized larb restaurant",
+          "Any Isaan restaurant with mor lam music playing"
+        ],
+        "street_food_areas": [
+          "Huai Khwang Night Market",
+          "JJ Green Night Market",
+          "Saphan Phut Night Market"
+        ],
+        "price_ranges": {
+          "street_food": "40-70 THB ($1.20-$2.10)",
+          "restaurant": "80-150 THB ($2.40-$4.50)",
+          "upscale": "200-400 THB ($6-$12)"
         }
       },
       "translated_at": "2026-03-14T00:00:00.000Z"
