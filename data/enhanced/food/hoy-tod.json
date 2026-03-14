@@ -5,7 +5,7 @@
     "en": "Hoy Tod",
     "nl": "Hoy Tod",
     "thai": "หอยทอด",
-    "ja": "ホイトート"
+    "ko": "호이똣"
   },
   "category": "main-dish",
   "region": "central",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Crispy mussel or oyster pancake with bean sprouts",
     "nl": "Knapperige mossel- of oesterpannenkoek met taugé",
-    "ja": "カリカリの衣で揚げたムール貝のオムレツ、もやしと卵入り"
+    "ko": "숙주나물을 곁들인 바삭한 홍합/굴 팬케이크"
   },
   "ingredients": [
     "mussels or oysters",
@@ -34,12 +34,12 @@
     "metaTitle": {
       "en": "Hoy Tod Recipe | Authentic Thai main dish",
       "nl": "Hoy Tod Recept | Authentieke Thaise main dish",
-      "ja": "ホイトートのレシピ | 本格タイ料理"
+      "ko": "호이똣 레시피 | 정통 태국 해산물 팬케이크"
     },
     "metaDescription": {
       "en": "Learn about Hoy Tod (หอยทอด) - Crispy mussel or oyster pancake with bean sprouts...",
       "nl": "Leer over Hoy Tod (หอยทอด) - Knapperige mossel- of oesterpannenkoek met taugé...",
-      "ja": "ホイトート（หอยทอด）について — カリカリの衣で揚げたムール貝のオムレツ。タイの人気屋台料理。"
+      "ko": "호이똣(หอยทอด) - 숙주나물을 곁들인 바삭한 홍합 또는 굴 팬케이크. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -666,6 +666,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "호이똣은 태국 중부의 인기 있는 길거리 음식으로, 홍합이나 굴을 반죽에 섞어 바삭하게 부친 해산물 팬케이크입니다. 약 15분이면 완성할 수 있으며, 태국 중부 요리의 단맛-신맛-짠맛-매운맛의 완벽한 균형을 보여줍니다. 홍합이나 굴, 밀가루, 달걀의 조합이 바삭한 겉면과 부드러운 속을 만들어내며, 숙주나물과 부추가 아삭한 식감을 더합니다. 합리적인 가격에 정통 태국 해산물 요리를 즐길 수 있는 인기 메뉴입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "홍합 또는 굴",
+          "purpose": "해산물의 감칠맛을 더하는 주재료",
+          "substitutes": [
+            "신선한 홍합",
+            "신선한 굴",
+            "새우 (대체용)"
+          ]
+        },
+        {
+          "name": "밀가루/타피오카 전분 혼합",
+          "purpose": "바삭한 겉면을 만드는 반죽의 베이스",
+          "substitutes": [
+            "쌀가루",
+            "타피오카 전분",
+            "옥수수 전분"
+          ]
+        },
+        {
+          "name": "달걀",
+          "purpose": "반죽을 결합시키고 풍미를 더하는 역할",
+          "substitutes": [
+            "오리알",
+            "달걀 흰자",
+            "달걀 노른자"
+          ]
+        },
+        {
+          "name": "숙주나물",
+          "purpose": "아삭한 식감과 신선함을 더하는 토핑",
+          "substitutes": [
+            "콩나물",
+            "부추",
+            "쪽파"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "팬 프라이 (철판 부침)",
+        "steps_overview": "호이똣을 만들려면 밀가루와 타피오카 전분을 물에 섞어 묽은 반죽을 만듭니다. 뜨거운 철판에 기름을 넉넉히 두르고 반죽을 붓고 홍합이나 굴을 올립니다. 바삭해지면 달걀을 풀어 위에 붓고, 숙주나물과 부추를 올려 접어 완성합니다. 바삭한 가장자리가 핵심입니다.",
+        "cooking_tips": [
+          "기름을 넉넉히 사용해야 바삭한 식감을 얻을 수 있습니다",
+          "반죽을 얇게 펼쳐야 바삭하게 부쳐집니다",
+          "홍합이나 굴은 과하게 익히면 질겨지니 주의하세요",
+          "스리라차 소스나 칠리 소스와 함께 즐기세요"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "호이똣은 태국 중부의 중국계 커뮤니티에서 유래한 것으로, 중국의 해산물 오믈렛(蚵仔煎)이 태국화된 요리입니다. 수세대에 걸쳐 태국만의 독특한 풍미와 스타일로 발전했습니다.",
+        "cultural_importance": "이 요리는 태국 길거리 음식 문화의 핵심을 대표하며, 야시장과 길거리 노점에서 빠질 수 없는 인기 메뉴입니다. 바삭한 식감과 해산물의 풍미가 어우러진 태국의 맛을 보여줍니다.",
+        "traditional_occasions": [
+          "야시장 먹거리",
+          "가족 외식",
+          "길거리 음식",
+          "축제 음식"
+        ]
+      },
+      "variations": [
+        {
+          "name": "호이똣 (바삭한 버전)",
+          "description": "반죽을 얇게 펴서 바삭하게 부친 가장 인기 있는 버전입니다."
+        },
+        {
+          "name": "호이남넝 (부드러운 버전)",
+          "description": "반죽을 두껍게 하여 부드러운 오믈렛 스타일로 만든 변형입니다."
+        },
+        {
+          "name": "채식 호이똣",
+          "description": "해산물 대신 두부와 버섯을 사용한 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "스리라차 소스",
+          "숙주나물",
+          "부추"
+        ],
+        "presentation": "접시에 담아 전통 태국 스타일로 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 중부 태국 레스토랑",
+          "야시장 전문 노점",
+          "전통 시장",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "야시장",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
