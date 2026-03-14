@@ -5,7 +5,7 @@
     "en": "Laab Kua",
     "nl": "Laab Kua",
     "thai": "ลาบคั่ว",
-    "ja": "ラープクア"
+    "ko": "랍꾸아"
   },
   "category": "salad",
   "region": "northern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Northern style meat salad with spices and herbs",
     "nl": "Noordelijke stijl vleessalade met specerijen en kruiden",
-    "ja": "北タイ式の炒めたラープ、豚ひき肉とドライスパイスを使った香ばしい一品"
+    "ko": "향신료와 허브를 곁들인 북부 스타일 고기 샐러드"
   },
   "ingredients": [
     "minced pork or beef",
@@ -32,12 +32,12 @@
     "metaTitle": {
       "en": "Laab Kua Recipe | Authentic Thai salad",
       "nl": "Laab Kua Recept | Authentieke Thaise salad",
-      "ja": "ラープクアのレシピ | 本格タイ料理"
+      "ko": "랍꾸아 레시피 | 정통 태국 북부 볶음 랍"
     },
     "metaDescription": {
       "en": "Learn about Laab Kua (ลาบคั่ว) - Northern style meat salad with spices and herbs...",
       "nl": "Leer over Laab Kua (ลาบคั่ว) - Noordelijke stijl vleessalade met specerijen en kruiden...",
-      "ja": "ラープクア（ลาบคั่ว）について — 北タイ式の炒めたラープ。豚ひき肉とドライスパイスの香ばしい味わい。"
+      "ko": "랍꾸아(ลาบคั่ว) - 향신료와 허브로 볶아낸 태국 북부 스타일 고기 샐러드. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -662,6 +662,111 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "랍꾸아는 태국 북부 치앙마이의 대표적인 고기 요리로, 이산(동북부) 지역의 '랍'과는 완전히 다른 요리입니다. 다진 돼지고기나 소고기를 건조 향신료와 함께 웍에서 볶아내는 것이 특징으로, '꾸아'는 태국어로 '볶다'라는 뜻입니다. 약 20분이면 완성할 수 있으며, 일반적인 생 랍과 달리 고기를 완전히 익히는 것이 핵심입니다. 건조 향신료(긴 후추, 마카엔, 커민 등)의 강렬하고 향긋한 풍미와 허브의 신선함이 조화를 이루는 매콤하고 중독성 있는 북부 태국의 소울 푸드입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "다진 돼지고기 또는 소고기",
+          "purpose": "웍에서 볶아 감칠맛을 내는 이 요리의 주재료",
+          "substitutes": [
+            "다진 돼지고기",
+            "다진 소고기",
+            "다진 닭고기 (대체용)"
+          ]
+        },
+        {
+          "name": "건조 향신료 (긴 후추, 마카엔, 커민 등)",
+          "purpose": "랍꾸아의 정체성을 만드는 핵심 — 북부 태국 특유의 향신료 블렌드",
+          "substitutes": [
+            "북부 태국 랍 향신료 믹스",
+            "볶은 쌀가루 + 건고추",
+            "오향 가루 (간단 대체)"
+          ]
+        },
+        {
+          "name": "신선한 허브 (민트, 고수, 쪽파 등)",
+          "purpose": "볶은 고기에 신선한 향과 아삭한 식감을 더하는 마무리 재료",
+          "substitutes": [
+            "민트",
+            "고수",
+            "쪽파",
+            "깻잎"
+          ]
+        },
+        {
+          "name": "라임즙과 액젓",
+          "purpose": "신맛과 짠맛의 균형을 맞추는 핵심 양념",
+          "substitutes": [
+            "라임즙",
+            "레몬즙 (대체)",
+            "액젓",
+            "간장 (대체)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "웍 볶음 (건조 향신료와 고온 볶음)",
+        "steps_overview": "랍꾸아를 만들려면 먼저 건조 향신료(긴 후추, 마카엔, 커민 등)를 팬에 볶아 향을 낸 후 빻아 가루를 만듭니다. 뜨거운 웍에 기름 없이 다진 고기를 넣고 볶다가 수분이 날아가면 향신료 가루를 넣어 함께 볶습니다. 액젓으로 간을 하고 불을 끈 후 신선한 허브와 쪽파를 넣어 섞으면 완성입니다.",
+        "cooking_tips": [
+          "건조 향신료는 직접 볶아서 빻으면 시판 가루보다 향이 훨씬 좋습니다",
+          "고기를 볶을 때 기름을 넣지 않고 고기 자체의 기름으로 볶는 것이 전통 방식입니다",
+          "수분이 완전히 날아갈 때까지 볶아야 바삭한 식감이 납니다",
+          "허브는 불을 끈 후에 넣어야 신선한 향이 살아납니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "랍꾸아는 태국 북부 란나 왕국의 전통 요리로, 이산 지역의 생 랍(랍 이산)과는 완전히 다른 계보의 요리입니다. 북부 태국 특유의 건조 향신료 문화(마카엔, 긴 후추 등)를 반영하며, 미얀마와 중국 윈난 지방의 영향도 받았습니다.",
+        "cultural_importance": "랍꾸아는 치앙마이와 북부 태국의 음식 정체성을 대표합니다. 이산의 랍이 전국적으로 유명하지만, 북부 사람들은 자신들의 '꾸아' 방식이 진정한 랍이라고 자부합니다. 특히 찹쌀과 함께 먹는 것이 전통이며, 맥주 안주로도 인기가 높습니다.",
+        "traditional_occasions": [
+          "가족 모임",
+          "맥주 안주",
+          "축제 음식",
+          "일상 식사"
+        ]
+      },
+      "variations": [
+        {
+          "name": "랍꾸아 무 (돼지고기)",
+          "description": "다진 돼지고기를 사용한 가장 전통적이고 인기 있는 버전입니다."
+        },
+        {
+          "name": "랍꾸아 느아 (소고기)",
+          "description": "다진 소고기를 사용한 변형으로, 더 진한 감칠맛이 특징입니다."
+        },
+        {
+          "name": "랍꾸아 크루앙나이 (내장)",
+          "description": "간, 허파 등 내장을 사용한 전통적인 변형입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "찹쌀 (카오니아오)",
+          "신선한 채소 (양배추, 깻잎, 민트)",
+          "고추"
+        ],
+        "presentation": "접시에 담아 신선한 허브와 함께 북부 태국 스타일로 제공합니다",
+        "eating_etiquette": "북부 태국 관습에 따라 찹쌀을 손으로 뜯어 랍과 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 북부 태국 레스토랑",
+          "치앙마이 올드시티 식당",
+          "란나 전통 식당",
+          "맥주 레스토랑"
+        ],
+        "street_food_areas": [
+          "치앙마이 야시장",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "40-60 THB",
+          "market_stall": "50-80 THB",
+          "restaurant": "80-150 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
