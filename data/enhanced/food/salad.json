@@ -5,14 +5,16 @@
     "name": {
       "en": "Som Tam",
       "nl": "Som Tam",
-      "thai": "ส้มตำ"
+      "thai": "ส้มตำ",
+      "ja": "ソムタム"
     },
     "category": "salad",
     "region": "northeastern",
     "spice_level": "medium",
     "description": {
       "en": "Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts",
-      "nl": "Pittige groene papajasalade met tomaten limoensap vissaus en pinda's"
+      "nl": "Pittige groene papajasalade met tomaten limoensap vissaus en pinda's",
+      "ja": "トマト、ライム、ナンプラー、ピーナッツで和えたスパイシーな青パパイヤサラダ"
     },
     "ingredients": [
       "green papaya",
@@ -35,11 +37,13 @@
     "seo": {
       "metaTitle": {
         "en": "Som Tam Recipe | Authentic Thai salad",
-        "nl": "Som Tam Recept | Authentieke Thaise salad"
+        "nl": "Som Tam Recept | Authentieke Thaise salad",
+        "ja": "ソムタムのレシピ | 本格タイサラダ"
       },
       "metaDescription": {
         "en": "Learn about Som Tam (ส้มตำ) - Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts...",
-        "nl": "Leer over Som Tam (ส้มตำ) - Pittige groene papajasalade met tomaten limoensap vissaus en pinda's..."
+        "nl": "Leer over Som Tam (ส้มตำ) - Pittige groene papajasalade met tomaten limoensap vissaus en pinda's...",
+        "ja": "ソムタム（ส้มตำ）について — スパイシーな青パパイヤサラダ。タイを代表する一品。"
       }
     },
     "tags": [
@@ -76,14 +80,16 @@
     "name": {
       "en": "Larb",
       "nl": "Larb",
-      "thai": "ลาบ"
+      "thai": "ลาบ",
+      "ja": "ラープ"
     },
     "category": "salad",
     "region": "northeastern",
     "spice_level": "hot",
     "description": {
       "en": "Spicy meat salad with herbs lime juice and toasted rice powder",
-      "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder"
+      "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder",
+      "ja": "ひき肉をライム、ハーブ、炒り米粉で和えたスパイシーサラダ"
     },
     "ingredients": [
       "minced pork",
@@ -103,11 +109,13 @@
     "seo": {
       "metaTitle": {
         "en": "Larb Recipe | Authentic Thai salad",
-        "nl": "Larb Recept | Authentieke Thaise salad"
+        "nl": "Larb Recept | Authentieke Thaise salad",
+        "ja": "ラープのレシピ | 本格タイサラダ"
       },
       "metaDescription": {
         "en": "Learn about Larb (ลาบ) - Spicy meat salad with herbs lime juice and toasted rice powder...",
-        "nl": "Leer over Larb (ลาบ) - Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder..."
+        "nl": "Leer over Larb (ลาบ) - Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder...",
+        "ja": "ラープ（ลาบ）について — ひき肉をライムとハーブで和えたイサーンのスパイシーサラダ。"
       }
     },
     "tags": [
@@ -140,14 +148,16 @@
     "name": {
       "en": "Yam Woon Sen",
       "nl": "Yam Woon Sen",
-      "thai": "ยำวุ้นเส้น"
+      "thai": "ยำวุ้นเส้น",
+      "ja": "ヤムウンセン"
     },
     "category": "salad",
     "region": "central",
     "spice_level": "medium",
     "description": {
       "en": "Glass noodle salad with shrimp and ground pork",
-      "nl": "Glasnoedelsalade met garnalen en varkensgehakt"
+      "nl": "Glasnoedelsalade met garnalen en varkensgehakt",
+      "ja": "エビと豚ひき肉の春雨サラダ"
     },
     "ingredients": [
       "glass noodles",
@@ -169,11 +179,13 @@
     "seo": {
       "metaTitle": {
         "en": "Yam Woon Sen Recipe | Authentic Thai salad",
-        "nl": "Yam Woon Sen Recept | Authentieke Thaise salad"
+        "nl": "Yam Woon Sen Recept | Authentieke Thaise salad",
+        "ja": "ヤムウンセンのレシピ | 本格タイサラダ"
       },
       "metaDescription": {
         "en": "Learn about Yam Woon Sen (ยำวุ้นเส้น) - Glass noodle salad with shrimp and ground pork...",
-        "nl": "Leer over Yam Woon Sen (ยำวุ้นเส้น) - Glasnoedelsalade met garnalen en varkensgehakt..."
+        "nl": "Leer over Yam Woon Sen (ยำวุ้นเส้น) - Glasnoedelsalade met garnalen en varkensgehakt...",
+        "ja": "ヤムウンセン（ยำวุ้นเส้น）について — エビと豚ひき肉を使ったタイの春雨サラダ。"
       }
     },
     "tags": [
@@ -208,14 +220,16 @@
     "name": {
       "en": "Khao Yam",
       "nl": "Khao Yam",
-      "thai": "ข้าวยำ"
+      "thai": "ข้าวยำ",
+      "ja": "カオヤム"
     },
     "category": "salad",
     "region": "southern",
     "spice_level": "mild",
     "description": {
       "en": "Southern Thai rice salad with herbs and coconut",
-      "nl": "Zuidelijke Thaise rijstsalade met kruiden en kokos"
+      "nl": "Zuidelijke Thaise rijstsalade met kruiden en kokos",
+      "ja": "ハーブとココナッツで和えた南タイのライスサラダ"
     },
     "ingredients": [
       "rice",
@@ -236,11 +250,13 @@
     "seo": {
       "metaTitle": {
         "en": "Khao Yam Recipe | Authentic Thai salad",
-        "nl": "Khao Yam Recept | Authentieke Thaise salad"
+        "nl": "Khao Yam Recept | Authentieke Thaise salad",
+        "ja": "カオヤムのレシピ | 本格タイサラダ"
       },
       "metaDescription": {
         "en": "Learn about Khao Yam (ข้าวยำ) - Southern Thai rice salad with herbs and coconut...",
-        "nl": "Leer over Khao Yam (ข้าวยำ) - Zuidelijke Thaise rijstsalade met kruiden en kokos..."
+        "nl": "Leer over Khao Yam (ข้าวยำ) - Zuidelijke Thaise rijstsalade met kruiden en kokos...",
+        "ja": "カオヤム（ข้าวยำ）について — ハーブとココナッツで和えた南タイの伝統的なライスサラダ。"
       }
     },
     "tags": [
@@ -275,14 +291,16 @@
     "name": {
       "en": "Laab Kua",
       "nl": "Laab Kua",
-      "thai": "ลาบคั่ว"
+      "thai": "ลาบคั่ว",
+      "ja": "ラープクア"
     },
     "category": "salad",
     "region": "northern",
     "spice_level": "hot",
     "description": {
       "en": "Northern style meat salad with spices and herbs",
-      "nl": "Noordelijke stijl vleessalade met specerijen en kruiden"
+      "nl": "Noordelijke stijl vleessalade met specerijen en kruiden",
+      "ja": "スパイスとハーブを使った北タイ式の炒め肉サラダ"
     },
     "ingredients": [
       "minced pork or beef",
@@ -300,11 +318,13 @@
     "seo": {
       "metaTitle": {
         "en": "Laab Kua Recipe | Authentic Thai salad",
-        "nl": "Laab Kua Recept | Authentieke Thaise salad"
+        "nl": "Laab Kua Recept | Authentieke Thaise salad",
+        "ja": "ラープクアのレシピ | 本格タイサラダ"
       },
       "metaDescription": {
         "en": "Learn about Laab Kua (ลาบคั่ว) - Northern style meat salad with spices and herbs...",
-        "nl": "Leer over Laab Kua (ลาบคั่ว) - Noordelijke stijl vleessalade met specerijen en kruiden..."
+        "nl": "Leer over Laab Kua (ลาบคั่ว) - Noordelijke stijl vleessalade met specerijen en kruiden...",
+        "ja": "ラープクア（ลาบคั่ว）について — スパイスとハーブを使った北タイ式の炒め肉サラダ。"
       }
     },
     "tags": [
@@ -337,14 +357,16 @@
     "name": {
       "en": "Tam Khanun",
       "nl": "Tam Khanun",
-      "thai": "ตำขนุน"
+      "thai": "ตำขนุน",
+      "ja": "タムカヌン"
     },
     "category": "salad",
     "region": "northern",
     "spice_level": "hot",
     "description": {
       "en": "Spicy young jackfruit salad",
-      "nl": "Pittige jonge jackfruit salade"
+      "nl": "Pittige jonge jackfruit salade",
+      "ja": "若いジャックフルーツのスパイシーサラダ"
     },
     "ingredients": [
       "young jackfruit",
@@ -365,11 +387,13 @@
     "seo": {
       "metaTitle": {
         "en": "Tam Khanun Recipe | Authentic Thai salad",
-        "nl": "Tam Khanun Recept | Authentieke Thaise salad"
+        "nl": "Tam Khanun Recept | Authentieke Thaise salad",
+        "ja": "タムカヌンのレシピ | 本格タイサラダ"
       },
       "metaDescription": {
         "en": "Learn about Tam Khanun (ตำขนุน) - Spicy young jackfruit salad...",
-        "nl": "Leer over Tam Khanun (ตำขนุน) - Pittige jonge jackfruit salade..."
+        "nl": "Leer over Tam Khanun (ตำขนุน) - Pittige jonge jackfruit salade...",
+        "ja": "タムカヌン（ตำขนุน）について — 若いジャックフルーツのスパイシーサラダ。"
       }
     },
     "tags": [
