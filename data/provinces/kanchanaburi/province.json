@@ -99,41 +99,15 @@
     }
   ],
   "localFood": [
-    {
-      "name": "Kaeng Som Pla (Sour Fish Curry)",
-      "description": "A tangy, spicy orange curry made with freshwater fish from the River Kwai, tamarind paste, and local vegetables. A staple in riverside restaurants throughout the province."
-    },
-    {
-      "name": "Pla Chon Lui Suan (Snakehead Fish Garden)",
-      "description": "Deep-fried snakehead fish topped with a fresh herb salad of lemongrass, chilies, and mango. Freshwater fish is abundant in Kanchanaburi's rivers and reservoirs."
-    },
-    {
-      "name": "Kaeng Mon (Mon Curry)",
-      "description": "Authentic Mon-style curry found especially in Sangkhlaburi, with unique spice blends reflecting the Mon ethnic community's distinct culinary heritage."
-    },
-    {
-      "name": "Khanom Jeen Nam Ya",
-      "description": "Rice noodles served with a rich, fragrant fish curry sauce and a plate of fresh vegetables on the side. A common and affordable breakfast throughout the province."
-    },
-    {
-      "name": "Moo Satay (Pork Satay)",
-      "description": "Grilled pork skewers with peanut sauce and cucumber relish, widely sold at Kanchanaburi's night markets and street stalls along the river."
-    },
-    {
-      "name": "Khao Lam (Bamboo Sticky Rice)",
-      "description": "Sweet sticky rice with coconut milk and black beans, cooked inside bamboo tubes over charcoal — a popular roadside snack throughout the province."
-    }
+    "Kaeng Som Pla — tangy, spicy orange curry made with freshwater fish from the River Kwai, tamarind paste, and local vegetables",
+    "Pla Chon Lui Suan — deep-fried snakehead fish topped with a fresh herb salad of lemongrass, chilies, and mango",
+    "Kaeng Mon — authentic Mon-style curry found in Sangkhlaburi, with unique spice blends from the Mon ethnic community",
+    "Khanom Jeen Nam Ya — rice noodles with rich fish curry sauce and fresh vegetables, a common breakfast throughout the province",
+    "Moo Satay — grilled pork skewers with peanut sauce and cucumber relish, widely sold at night markets along the river",
+    "Khao Lam — sweet sticky rice with coconut milk and black beans, cooked inside bamboo tubes over charcoal"
   ],
   "culture": "Kanchanaburi's culture is deeply shaped by its World War II history and ethnic diversity. The province was a key construction site for the Thailand–Burma Railway (1942–1943), where over 100,000 forced laborers and 12,000 Allied POWs perished. This history is commemorated at the Kanchanaburi War Cemetery, Hellfire Pass Memorial, and multiple museums. The annual River Kwai Bridge Week in late November features historical reenactments, a sound-and-light show, and cultural performances. Beyond WWII history, Kanchanaburi is home to significant Mon and Karen ethnic communities, particularly around Sangkhlaburi and the Three Pagodas Pass border area. Mon people maintain their language, weaving traditions, and distinct Buddhist practices. Karen hill tribe villages in the western mountains preserve traditional agricultural and textile traditions. The province also has important ancient Khmer ruins at Prasat Muang Singh, a 13th-century laterite temple on the Khwae Noi river.",
-  "gettingThere": {
-    "fromBangkok": {
-      "bus": "Regular buses depart from Bangkok's Sai Tai Mai (Southern Bus Terminal) every 30 minutes from 04:00–20:00. Journey time approximately 2.5–3 hours. Fare: 110–150 THB for standard bus.",
-      "train": "Two daily trains from Thonburi Station (Bangkok Noi): departure at 07:50 and 13:55. Journey time approximately 2.5 hours. Fare: 100 THB for third-class seats. The train follows the original route through scenic countryside.",
-      "minivan": "Minivans depart from Victory Monument and Sai Tai Mai every 30 minutes. Journey time approximately 2 hours. Fare: 120–150 THB.",
-      "car": "Take Highway 4 (Phetkasem Road) west, then Highway 323 north. Distance: approximately 129 km. Driving time: 2–2.5 hours depending on traffic."
-    },
-    "nearestAirport": "Kanchanaburi does not have a commercial airport. The nearest airports are Don Mueang (DMK) and Suvarnabhumi (BKK) in Bangkok, both approximately 2.5–3 hours by road."
-  },
+  "gettingThere": "Regular buses from Bangkok's Sai Tai Mai (Southern Bus Terminal) depart every 30 minutes (110–150 THB, 2.5–3 hours). Two daily trains from Thonburi Station at 07:50 and 13:55 (100 THB third-class, 2.5 hours). Minivans from Victory Monument every 30 minutes (120–150 THB, 2 hours). By car via Highway 4 and 323, approximately 129 km (2–2.5 hours). No commercial airport — nearest are Bangkok's Don Mueang (DMK) and Suvarnabhumi (BKK).",
   "gettingAround": "Within Kanchanaburi city, songthaews (shared pickup trucks) run fixed routes for 10–20 THB. Motorbike rental is popular and costs 200–300 THB/day — essential for reaching attractions like Erawan Falls independently. The Death Railway train runs from Kanchanaburi to Nam Tok station (2 hours, 100 THB) passing the famous Wampo Viaduct, a wooden trestle bridge clinging to the cliffside. For distant attractions like Sangkhlaburi (220 km north), buses run from the Kanchanaburi bus station. Renting a car (1,000–1,500 THB/day) is the most flexible option for exploring multiple national parks.",
   "travelTips": [
     "Arrive at Erawan Falls before 8 AM to enjoy the upper tiers without crowds — weekdays are far quieter than weekends",
@@ -146,12 +120,11 @@
     "The River Kwai Bridge Week (late November) is the best time to visit for cultural events, but book accommodation well ahead"
   ],
   "neighboringProvinces": [
-    { "name": "Tak", "direction": "north" },
-    { "name": "Uthai Thani", "direction": "northeast" },
-    { "name": "Suphan Buri", "direction": "east" },
-    { "name": "Nakhon Pathom", "direction": "southeast" },
-    { "name": "Ratchaburi", "direction": "south" },
-    { "name": "Myanmar (Kayin State, Mon State, Tanintharyi Region)", "direction": "west" }
+    { "name": "Tak", "slug": "tak" },
+    { "name": "Uthai Thani", "slug": "uthai-thani" },
+    { "name": "Suphan Buri", "slug": "suphan-buri" },
+    { "name": "Nakhon Pathom", "slug": "nakhon-pathom" },
+    { "name": "Ratchaburi", "slug": "ratchaburi" }
   ],
   "cities": [
     {
