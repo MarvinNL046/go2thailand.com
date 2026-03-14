@@ -5,7 +5,7 @@
     "en": "Bua Loy",
     "nl": "Bua Loy",
     "thai": "บัวลอย",
-    "ja": "ブアローイ"
+    "ko": "부아로이"
   },
   "category": "dessert",
   "region": "southern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Rice flour balls in sweet coconut milk",
     "nl": "Rijstmeelballetjes in zoete kokosmelk",
-    "ja": "もち米粉の団子を甘いココナッツミルクに浮かべたタイの伝統デザート"
+    "ko": "달콤한 코코넛 밀크에 담긴 쌀가루 경단"
   },
   "ingredients": [
     "rice flour",
@@ -34,12 +34,12 @@
     "metaTitle": {
       "en": "Bua Loy Recipe | Authentic Thai dessert",
       "nl": "Bua Loy Recept | Authentieke Thaise dessert",
-      "ja": "ブアローイのレシピ | 本格タイデザート"
+      "ko": "부아로이 레시피 | 정통 태국 디저트"
     },
     "metaDescription": {
       "en": "Learn about Bua Loy (บัวลอย) - Rice flour balls in sweet coconut milk...",
       "nl": "Leer over Bua Loy (บัวลอย) - Rijstmeelballetjes in zoete kokosmelk...",
-      "ja": "ブアローイ（บัวลอย）について — もち米粉の団子を甘いココナッツミルクに浮かべたタイの伝統デザート。"
+      "ko": "부아로이(บัวลอย) - 달콤한 코코넛 밀크에 담긴 색색의 쌀가루 경단. 레시피, 재료, 맛집 정보."
     }
   },
   "tags": [
@@ -667,6 +667,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "부아로이는 태국 남부에서 유래한 사랑받는 디저트로, 부드럽고 달콤한 맛이 특징입니다. 쌀가루로 만든 알록달록한 경단을 달콤한 코코넛 밀크에 넣어 끓인 따뜻한 디저트입니다. 약 30분이면 완성할 수 있는 간단한 레시피로, 태국 남부 요리의 정통 풍미를 담고 있습니다. 쌀가루, 코코넛 밀크, 야자설탕의 조합이 조화로운 맛을 만들어내며, 현지인과 관광객 모두에게 인기 있는 디저트입니다. 합리적인 가격에 정통 태국 디저트를 즐기기에 완벽합니다.",
+      "detailed_ingredients": [
+        {
+          "name": "쌀가루 (찹쌀가루)",
+          "purpose": "경단의 쫄깃한 식감을 만드는 핵심 재료",
+          "substitutes": [
+            "찹쌀가루",
+            "일반 쌀가루",
+            "타피오카 전분 혼합"
+          ]
+        },
+        {
+          "name": "코코넛 밀크",
+          "purpose": "달콤하고 고소한 국물의 베이스",
+          "substitutes": [
+            "생 코코넛 밀크",
+            "코코넛 크림",
+            "코코넛 밀크 파우더"
+          ]
+        },
+        {
+          "name": "야자설탕",
+          "purpose": "깊고 은은한 단맛을 더하는 천연 감미료",
+          "substitutes": [
+            "코코넛 설탕",
+            "흑설탕",
+            "황설탕"
+          ]
+        },
+        {
+          "name": "소금",
+          "purpose": "단맛의 균형을 잡아주는 역할",
+          "substitutes": [
+            "천일염",
+            "바다소금",
+            "히말라야 소금"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "전통 조리법",
+        "steps_overview": "부아로이를 만들려면 세심한 주의와 적절한 타이밍이 필요합니다. 쌀가루 반죽에 천연 색소(판단잎, 나비완두꽃, 호박 등)를 넣어 색색의 경단을 빚고, 끓는 물에 삶아 떠오르면 건져냅니다. 야자설탕과 소금으로 간한 코코넛 밀크를 끓여 경단을 넣으면 완성입니다.",
+        "cooking_tips": [
+          "찹쌀가루를 사용하면 더 쫄깃한 식감을 얻을 수 있습니다",
+          "경단이 물에 떠오르면 익은 것이므로 바로 건져주세요",
+          "코코넛 밀크를 너무 오래 끓이면 분리될 수 있으니 주의하세요",
+          "판단잎을 넣으면 향긋한 풍미가 더해집니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "부아로이는 태국 남부 요리의 전통을 이어온 디저트로, '부아'는 연꽃, '로이'는 떠다니다는 뜻으로, 코코넛 밀크 위에 떠 있는 경단의 모습을 연꽃에 비유한 이름입니다.",
+        "cultural_importance": "이 디저트는 태국 가정식의 정겨운 맛을 대표하며, 특히 겨울철과 명절에 가족이 함께 나누어 먹는 따뜻한 간식입니다. 태국 요리의 균형과 조화를 상징합니다.",
+        "traditional_occasions": [
+          "가족 모임",
+          "로이끄라통 축제",
+          "설날",
+          "사원 행사"
+        ]
+      },
+      "variations": [
+        {
+          "name": "부아로이 팍쪽 (호박 부아로이)",
+          "description": "호박을 넣어 노란색 경단을 만든 전통 변형으로, 자연스러운 단맛이 특징입니다."
+        },
+        {
+          "name": "부아로이 카이완 (메추리알 부아로이)",
+          "description": "경단 대신 삶은 메추리알을 넣은 변형으로, 단짠의 조합이 독특합니다."
+        },
+        {
+          "name": "부아로이 타로",
+          "description": "타로(토란)를 넣어 보라색 경단을 만든 현대적 변형입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "따뜻하게 제공",
+          "코코넛 크림 추가",
+          "판단잎 장식"
+        ],
+        "presentation": "전통 태국 그릇에 담아 따뜻하게 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 숟가락으로 따뜻한 디저트로 즐깁니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 남부 태국 레스토랑",
+          "전통 디저트 전문점",
+          "야시장 디저트 노점",
+          "사원 주변 노점"
+        ],
+        "street_food_areas": [
+          "야시장",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
