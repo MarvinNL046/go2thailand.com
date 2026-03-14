@@ -5,7 +5,7 @@
     "en": "Khao Man Gai",
     "nl": "Khao Man Gai",
     "thai": "ข้าวมันไก่",
-    "ja": "カオマンガイ"
+    "ko": "카오만가이"
   },
   "category": "main-dish",
   "region": "central",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Steamed chicken with rice cooked in chicken broth and ginger-chili sauce",
     "nl": "Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus",
-    "ja": "鶏のスープで炊いたご飯に茹で鶏をのせた定番料理、特製タレ付き"
+    "ko": "닭 육수로 지은 밥에 찐 닭고기와 생강 칠리 소스를 곁들인 요리"
   },
   "ingredients": [
     "chicken",
@@ -34,12 +34,12 @@
     "metaTitle": {
       "en": "Khao Man Gai Recipe | Authentic Thai main dish",
       "nl": "Khao Man Gai Recept | Authentieke Thaise main dish",
-      "ja": "カオマンガイのレシピ | 本格タイ料理"
+      "ko": "카오만가이 레시피 | 정통 태국 치킨 라이스"
     },
     "metaDescription": {
       "en": "Learn about Khao Man Gai (ข้าวมันไก่) - Steamed chicken with rice cooked in chicken broth and ginger-chili sauce...",
       "nl": "Leer over Khao Man Gai (ข้าวมันไก่) - Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus...",
-      "ja": "カオマンガイ（ข้าวมันไก่）について — 鶏のスープで炊いたご飯に茹で鶏をのせたタイの国民食。"
+      "ko": "카오만가이(ข้าวมันไก่) - 닭 육수로 지은 밥에 부드러운 찐 닭고기와 생강 칠리 소스. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -664,6 +664,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "카오만가이는 태국에서 가장 사랑받는 일상 음식 중 하나로, 하이난 치킨 라이스의 태국식 버전입니다. 닭 육수로 지은 기름진 밥 위에 부드럽게 삶은 닭고기를 올리고, 태국만의 독특한 생강-칠리-된장 소스를 곁들여 먹습니다. 약 45분이면 완성할 수 있는 중간 난이도의 레시피로, 단순하지만 깊은 맛을 자랑합니다. 닭고기의 부드러운 식감, 육수 밥의 고소함, 매콤달콤한 소스의 조합이 완벽한 균형을 이루며, 아침부터 저녁까지 언제든 즐길 수 있는 태국의 국민 음식입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "통닭 또는 닭다리살",
+          "purpose": "부드럽고 촉촉한 닭고기가 이 요리의 핵심으로, 육수의 베이스이기도 합니다",
+          "substitutes": [
+            "통닭",
+            "닭다리살",
+            "닭가슴살 (덜 촉촉함)"
+          ]
+        },
+        {
+          "name": "재스민 쌀",
+          "purpose": "닭 육수와 닭기름으로 지어 고소하고 향긋한 밥을 만드는 주재료",
+          "substitutes": [
+            "재스민 쌀",
+            "장립종 쌀",
+            "판단 쌀"
+          ]
+        },
+        {
+          "name": "생강",
+          "purpose": "소스의 핵심 재료로 상쾌한 매콤함과 향을 더합니다",
+          "substitutes": [
+            "신선한 생강",
+            "갈랑갈",
+            "생강 페이스트"
+          ]
+        },
+        {
+          "name": "타오찌아오 (된장/발효 콩 페이스트)",
+          "purpose": "소스에 깊은 감칠맛과 짭짤한 풍미를 더하는 핵심 조미료",
+          "substitutes": [
+            "태국식 된장",
+            "일본 미소 (대체용)",
+            "간장 (간단 대체)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "삶기와 육수밥 짓기",
+        "steps_overview": "카오만가이를 만들려면 먼저 통닭을 생강, 마늘, 고수 뿌리와 함께 부드럽게 삶습니다. 삶은 육수의 기름을 걷어 쌀에 섞고, 마늘을 볶은 후 육수로 밥을 짓습니다. 닭고기는 먹기 좋게 썰어 밥 위에 올리고, 생강-칠리-된장 소스, 닭 육수 국물, 오이를 곁들여 완성합니다.",
+        "cooking_tips": [
+          "닭고기는 약한 불에서 천천히 삶아야 부드럽고 촉촉합니다",
+          "밥을 지을 때 닭기름을 넣으면 고소함이 배가됩니다",
+          "소스의 생강은 곱게 다져야 식감이 좋습니다",
+          "삶은 닭고기를 얼음물에 담그면 껍질이 쫄깃해집니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "카오만가이는 중국 하이난성에서 유래한 치킨 라이스가 태국에 전파되어 독자적으로 발전한 요리입니다. 중국계 이민자들이 가져온 원래 레시피에 태국의 향신료와 소스 문화가 더해져 오늘날의 독특한 태국식 카오만가이가 탄생했습니다.",
+        "cultural_importance": "카오만가이는 태국의 진정한 국민 음식으로, 고급 레스토랑부터 길거리 노점까지 어디서든 만날 수 있습니다. 특히 유명한 카오만가이 전문점들은 수십 년의 역사를 자랑하며, 점심시간이면 긴 줄이 늘어서는 것이 흔한 풍경입니다.",
+        "traditional_occasions": [
+          "일상 식사",
+          "아침 식사",
+          "점심 식사",
+          "간편한 외식"
+        ]
+      },
+      "variations": [
+        {
+          "name": "카오만가이 삶은 닭 (전통식)",
+          "description": "부드럽게 삶은 닭고기를 올린 가장 전통적이고 인기 있는 버전입니다."
+        },
+        {
+          "name": "카오만가이 톳 (튀긴 닭)",
+          "description": "바삭하게 튀긴 닭고기를 올린 변형으로, 달콤한 소스와 함께 제공됩니다."
+        },
+        {
+          "name": "카오만가이 합 (혼합)",
+          "description": "삶은 닭과 튀긴 닭을 반반 올린 인기 변형입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "생강 칠리 소스",
+          "맑은 닭 육수 국물",
+          "오이 슬라이스"
+        ],
+        "presentation": "접시에 밥을 담고 썬 닭고기를 올려 전통 태국 스타일로 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 밥과 닭고기를 소스에 찍어 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "꿍앗까이 쁘라뚜남 (방콕) — 가장 유명한 카오만가이 전문점",
+          "몽콘와타나 (방콕)",
+          "현지 카오만가이 전문 노점",
+          "푸드코트"
+        ],
+        "street_food_areas": [
+          "쁘라뚜남 (방콕)",
+          "실롬 (방콕)",
+          "전국 어디서나 찾을 수 있는 노점"
+        ],
+        "price_ranges": {
+          "street_vendor": "40-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-120 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
