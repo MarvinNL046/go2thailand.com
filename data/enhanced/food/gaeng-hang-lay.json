@@ -5,7 +5,7 @@
     "en": "Gaeng Hang Lay",
     "nl": "Gaeng Hang Lay",
     "thai": "แกงฮังเล",
-    "ja": "ゲーン・ハンレー"
+    "ko": "깽항레"
   },
   "category": "curry",
   "region": "northern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Mild curry with pork belly and Burmese influences",
     "nl": "Milde curry met varkensbuik en Birmese invloeden",
-    "ja": "ビルマの影響を受けた豚バラ肉のマイルドなカレー"
+    "ko": "삼겹살과 미얀마 영향이 가미된 순한 북부 커리"
   },
   "ingredients": [
     "pork belly",
@@ -36,12 +36,12 @@
     "metaTitle": {
       "en": "Gaeng Hang Lay Recipe | Authentic Thai curry",
       "nl": "Gaeng Hang Lay Recept | Authentieke Thaise curry",
-      "ja": "ゲーン・ハンレーのレシピ | 本格タイカレー"
+      "ko": "깽항레 레시피 | 정통 태국 북부 커리"
     },
     "metaDescription": {
       "en": "Learn about Gaeng Hang Lay (แกงฮังเล) - Mild curry with pork belly and Burmese influences...",
       "nl": "Leer over Gaeng Hang Lay (แกงฮังเล) - Milde curry met varkensbuik en Birmese invloeden...",
-      "ja": "ゲーン・ハンレー（แกงฮังเล）について — ビルマの影響を受けた豚バラ肉を使う北タイのマイルドなカレー。"
+      "ko": "깽항레(แกงฮังเล) - 삼겹살과 미얀마 영향의 순한 북부 태국 커리. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -668,6 +668,109 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "깽항레는 태국 북부의 대표적인 커리로, 미얀마(버마)의 영향을 받은 독특한 풍미가 특징입니다. 삼겹살을 사용한 진하고 향기로운 커리로, 코코넛 밀크를 사용하지 않는 것이 다른 태국 커리와의 차별점입니다. 약 90분의 조리 시간이 필요하며, 북부 태국 요리의 정통 맛을 담고 있습니다. 삼겹살, 샬롯, 마늘, 생강의 조합이 조화로운 풍미를 만들어내며, 타마린드의 새콤함과 야자설탕의 단맛이 균형을 이룹니다. 현지인과 관광객 모두에게 사랑받는 북부 태국의 소울 푸드입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "삼겹살",
+          "purpose": "깽항레의 진한 맛과 부드러운 식감을 만드는 핵심 재료",
+          "substitutes": [
+            "돼지 앞다리살",
+            "돼지 목살",
+            "닭다리살 (대체용)"
+          ]
+        },
+        {
+          "name": "샬롯 (작은 양파)",
+          "purpose": "커리의 달콤한 풍미 베이스",
+          "substitutes": [
+            "적양파",
+            "일반 양파",
+            "쪽파"
+          ]
+        },
+        {
+          "name": "마늘",
+          "purpose": "깊고 풍부한 향을 더하는 필수 향신료",
+          "substitutes": [
+            "다진 마늘",
+            "구운 마늘",
+            "마늘 페이스트"
+          ]
+        },
+        {
+          "name": "생강",
+          "purpose": "따뜻하고 얼얼한 풍미를 더하는 향신료",
+          "substitutes": [
+            "갈랑갈",
+            "생강 가루",
+            "생강 페이스트"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "커리 페이스트 볶기와 장시간 조림",
+        "steps_overview": "깽항레를 만들려면 먼저 커리 페이스트를 만들어 볶은 후, 삼겹살을 넣고 타마린드 물, 야자설탕, 생강, 땅콩과 함께 낮은 불에서 천천히 조립니다. 고기가 부드러워지고 양념이 깊이 배일 때까지 충분히 익히는 것이 핵심입니다.",
+        "cooking_tips": [
+          "삼겹살은 큼직하게 썰어 오래 조리해도 형태가 유지되도록 합니다",
+          "타마린드의 양으로 새콤한 정도를 조절하세요",
+          "낮은 불에서 천천히 조려야 고기가 부드러워집니다",
+          "하루 전날 만들면 맛이 더 깊어집니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "깽항레는 미얀마의 힌레 커리에서 유래한 것으로, 태국 북부 란나 왕국 시대에 미얀마와의 교류를 통해 전해졌습니다. 수세기에 걸쳐 태국 북부의 재료와 조리법이 가미되어 독자적인 요리로 발전했습니다.",
+        "cultural_importance": "이 커리는 태국 북부 칸똑(전통 밥상) 문화의 핵심 요리로, 가족 모임이나 명절에 빠지지 않는 요리입니다. 치앙마이를 비롯한 북부 지역의 정체성을 대표합니다.",
+        "traditional_occasions": [
+          "칸똑 전통 만찬",
+          "가족 모임",
+          "송끄란 축제",
+          "사원 행사"
+        ]
+      },
+      "variations": [
+        {
+          "name": "깽항레 무 (돼지고기)",
+          "description": "삼겹살을 사용한 가장 전통적인 버전입니다."
+        },
+        {
+          "name": "깽항레 가이 (닭고기)",
+          "description": "닭고기를 사용한 가벼운 변형으로, 조리 시간이 짧습니다."
+        },
+        {
+          "name": "채식 깽항레",
+          "description": "두부와 버섯을 사용한 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "찹쌀밥 (카오니아오)",
+          "신선한 채소",
+          "삶은 달걀"
+        ],
+        "presentation": "전통 북부 태국 스타일로 그릇에 담아 제공합니다",
+        "eating_etiquette": "북부 태국 관습에 따라 찹쌀밥을 손으로 뜯어 커리와 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 북부 태국 레스토랑",
+          "치앙마이 올드시티 식당",
+          "전통 시장",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "야시장",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
