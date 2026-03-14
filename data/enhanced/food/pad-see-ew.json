@@ -5,7 +5,7 @@
     "en": "Pad See Ew",
     "nl": "Pad See Ew",
     "thai": "ผัดซีอิ๊ว",
-    "ja": "パッシーイウ"
+    "ko": "팟씨유"
   },
   "category": "main-dish",
   "region": "central",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg",
     "nl": "Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei",
-    "ja": "太い米麺をダークソイソース、カイラン菜、卵で炒めた一品"
+    "ko": "넓은 쌀국수를 진간장, 중국식 브로콜리, 달걀과 함께 볶은 요리"
   },
   "ingredients": [
     "wide rice noodles",
@@ -32,12 +32,12 @@
     "metaTitle": {
       "en": "Pad See Ew Recipe | Authentic Thai main dish",
       "nl": "Pad See Ew Recept | Authentieke Thaise main dish",
-      "ja": "パッシーイウのレシピ | 本格タイ料理"
+      "ko": "팟씨유 레시피 | 정통 태국 간장 볶음 넓은 쌀국수"
     },
     "metaDescription": {
       "en": "Learn about Pad See Ew (ผัดซีอิ๊ว) - Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg...",
       "nl": "Leer over Pad See Ew (ผัดซีอิ๊ว) - Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei...",
-      "ja": "パッシーイウ（ผัดซีอิ๊ว）について — 太い米麺をダークソイソースで炒めたタイの定番麺料理。"
+      "ko": "팟씨유(ผัดซีอิ๊ว) - 넓은 쌀국수를 진간장에 볶아 웍헤이 훈연향을 입힌 태국 대표 면 요리. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -599,6 +599,99 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "팟씨유는 팟타이의 더 진하고 훈연향 가득한 사촌격 요리로, 웍헤이(웍의 숨결)의 기술을 보여주는 중국 영향의 볶음면입니다. 실크처럼 부드러운 넓은 쌀국수가 불꽃에 살짝 그을려 가장자리가 바삭해지고, 달콤한 진간장이 캐러멜화되어 완벽한 맛을 만들어냅니다. 이것이야말로 최고의 소울 푸드입니다 — 단순한 재료들이 기술과 맹렬한 불꽃에 의해 변신하는 요리입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "신선한 넓은 쌀국수 (센야이)",
+          "purpose": "넓은 표면적으로 웍헤이와 소스를 흡수하는 면 베이스",
+          "substitutes": [
+            "건조 넓은 쌀국수",
+            "호펀 면",
+            "페투치네 (비상용만)"
+          ]
+        },
+        {
+          "name": "진간장 (시유담)",
+          "purpose": "짙은 색과 달콤짭짤한 풍미를 만드는 핵심 양념",
+          "substitutes": [
+            "일반 간장 + 야자 설탕",
+            "케찹 마니스"
+          ]
+        },
+        {
+          "name": "중국식 브로콜리 (카이란)",
+          "purpose": "약간의 쌉싸름함과 아삭한 식감으로 진한 맛의 균형을 잡아주는 채소",
+          "substitutes": [
+            "일반 브로콜리",
+            "청경채",
+            "케일"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "고온 웍 차링 (그을리기)",
+        "steps_overview": "웍은 비명을 지를 정도로 뜨거워야 합니다 — 위험해 보일 정도로 뜨거운 것이 맞습니다. 면을 소량씩 넣어 살짝 그을린 후 뒤집습니다. 전체 과정은 3분도 걸리지 않지만, 끊임없는 움직임과 찰나의 타이밍이 필요합니다.",
+        "cooking_tips": [
+          "웍에서 연기가 나지 않으면 아직 온도가 부족한 것입니다",
+          "소량씩 볶으세요 — 너무 많이 넣으면 웍헤이가 사라집니다",
+          "면을 넣고 처음 뒤집기 전에 잠시 그을리도록 두세요",
+          "퍼올리는 동작으로 재료를 계속 움직이세요",
+          "약간의 훈연향이 없다면 제대로 하고 있지 않은 것입니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "팟씨유는 조주(潮州) 중국 이민자들이 태국에 가져온 요리입니다. 중국의 차오펀(炒粉)에서 발전했으며, 태국 재료와 현지인의 입맛에 맞는 더 달콤한 풍미로 적응시켰습니다.",
+        "cultural_importance": "팟씨유는 방콕 음식 문화의 상당 부분을 정의하는 태국-중국 퓨전을 대표합니다. 노동자 계층의 연료 같은 음식으로, 저렴하고, 배부르며, 길거리 수레에서 24시간 구할 수 있습니다.",
+        "traditional_occasions": [
+          "야식 (술 마신 후)",
+          "직장인 빠른 점심",
+          "중국계 태국인의 향수 음식",
+          "길거리 음식의 기본"
+        ]
+      },
+      "variations": [
+        {
+          "name": "팟씨유 무",
+          "description": "돼지고기 버전 — 가장 흔하고 전통적인 스타일입니다."
+        },
+        {
+          "name": "팟씨유 탈레",
+          "description": "오징어와 새우가 들어간 해산물 버전입니다."
+        },
+        {
+          "name": "팟씨유 센야이",
+          "description": "더 넓은 면을 사용하여 웍헤이를 극대화한 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "고추 식초 (프릭남솜)",
+          "칠리 플레이크",
+          "설탕 (태국식 조미료)"
+        ],
+        "presentation": "접시에 뜨겁게 담아 즉시 제공합니다",
+        "eating_etiquette": "포크와 숟가락으로 먹거나 젓가락을 사용합니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "쩨이 파이 (방콕) — 미슐랭 스타 길거리 음식",
+          "쓰이 레스토랑 (방콕) — 올드스쿨의 완벽함",
+          "제트 엔진급 웍 버너가 있는 아무 식당"
+        ],
+        "street_food_areas": [
+          "차이나타운 (야오와랏) 야간",
+          "실롬 소이 20 노점",
+          "빅토리 모뉴먼트 길거리 상인"
+        ],
+        "price_ranges": {
+          "street_food": "40-60 THB",
+          "restaurant": "80-150 THB",
+          "upscale": "200-400 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
