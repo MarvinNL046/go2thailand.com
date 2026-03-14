@@ -4,14 +4,16 @@
   "name": {
     "en": "Sai Ua",
     "nl": "Sai Ua",
-    "thai": "ไส้อั่ว"
+    "thai": "ไส้อั่ว",
+    "ja": "サイウア"
   },
   "category": "main-dish",
   "region": "northern",
   "spice_level": "hot",
   "description": {
     "en": "Spicy northern Thai sausage with herbs and spices",
-    "nl": "Pittige noordelijke Thaise worst met kruiden en specerijen"
+    "nl": "Pittige noordelijke Thaise worst met kruiden en specerijen",
+    "ja": "ハーブとスパイスをたっぷり使った北タイのスパイシーソーセージ"
   },
   "ingredients": [
     "pork",
@@ -31,11 +33,13 @@
   "seo": {
     "metaTitle": {
       "en": "Sai Ua Recipe | Authentic Thai main dish",
-      "nl": "Sai Ua Recept | Authentieke Thaise main dish"
+      "nl": "Sai Ua Recept | Authentieke Thaise main dish",
+      "ja": "サイウアのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Sai Ua (ไส้อั่ว) - Spicy northern Thai sausage with herbs and spices...",
-      "nl": "Leer over Sai Ua (ไส้อั่ว) - Pittige noordelijke Thaise worst met kruiden en specerijen..."
+      "nl": "Leer over Sai Ua (ไส้อั่ว) - Pittige noordelijke Thaise worst met kruiden en specerijen...",
+      "ja": "サイウア（ไส้อั่ว）について — ハーブとスパイスたっぷりの北タイ名物スパイシーソーセージ。"
     }
   },
   "tags": [
