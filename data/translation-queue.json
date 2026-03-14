@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-14",
   "stats": {
     "total": 1504,
-    "completed": 1319
+    "completed": 1320
   },
   "queue": [
     {
@@ -10568,14 +10568,15 @@
       "type": "region",
       "file": "data/regions/isaan.json",
       "locale": "th",
-      "status": "in_progress",
-      "priority": 16
+      "status": "completed",
+      "priority": 16,
+      "completedAt": "2026-03-14"
     },
     {
       "type": "top10",
       "file": "data/top10/ayutthaya-attractions.json",
       "locale": "th",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 16
     },
     {
