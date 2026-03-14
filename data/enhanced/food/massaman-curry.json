@@ -5,7 +5,7 @@
     "en": "Massaman Curry",
     "nl": "Massaman Curry",
     "thai": "แกงมัสมั่น",
-    "ja": "マッサマンカレー"
+    "ko": "마사만 커리"
   },
   "category": "curry",
   "region": "southern",
@@ -13,7 +13,7 @@
   "description": {
     "en": "Rich and mild curry with Persian influences containing potatoes and peanuts",
     "nl": "Rijke en milde curry met Perzische invloeden met aardappelen en pinda's",
-    "ja": "ペルシャの影響を受けた濃厚でマイルドなカレーで、じゃがいもとピーナッツ入り"
+    "ko": "감자와 땅콩이 들어간 페르시아 영향의 풍부하고 부드러운 커리"
   },
   "ingredients": [
     "massaman paste",
@@ -35,12 +35,12 @@
     "metaTitle": {
       "en": "Massaman Curry Recipe | Authentic Thai curry",
       "nl": "Massaman Curry Recept | Authentieke Thaise curry",
-      "ja": "マッサマンカレーのレシピ | 本格タイカレー"
+      "ko": "마사만 커리 레시피 | 정통 태국 마사만 커리"
     },
     "metaDescription": {
       "en": "Learn about Massaman Curry (แกงมัสมั่น) - Rich and mild curry with Persian influences containing potatoes and peanuts...",
       "nl": "Leer over Massaman Curry (แกงมัสมั่น) - Rijke en milde curry met Perzische invloeden met aardappelen en pinda's...",
-      "ja": "マッサマンカレー（แกงมัสมั่น）について — ペルシャの影響を受けた濃厚でマイルドなタイカレー。じゃがいもとピーナッツ入り。"
+      "ko": "마사만 커리(แกงมัสมั่น) - 감자와 땅콩이 들어간 페르시아 영향의 태국 커리. CNN 선정 세계 최고 음식. 레시피, 재료, 조리법, 맛집 정보."
     }
   },
   "tags": [
@@ -646,6 +646,107 @@
         ]
       },
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "마사만 커리는 태국에서 가장 복합적인 커리로, 고대 무역로의 이야기를 전하는 태국과 인도-페르시아 풍미의 장엄한 퓨전입니다. 카다멈과 계피 같은 따뜻한 향신료와 태국 재료가 결합되어 이국적이면서도 편안한 맛을 만들어냅니다. CNN이 한때 '세계에서 가장 맛있는 음식'으로 선정했으며, 한 입만 맛보면 그 이유를 알 수 있습니다.",
+      "detailed_ingredients": [
+        {
+          "name": "마사만 커리 페이스트",
+          "purpose": "넛메그 같은 특이한 태국 재료를 포함하는 복합적인 향신료 블렌드",
+          "substitutes": [
+            "시판 페이스트 (매스리 브랜드 추천)",
+            "인도 가람 마살라에 태국 재료 추가"
+          ]
+        },
+        {
+          "name": "통향신료 (카다멈, 계피, 팔각)",
+          "purpose": "페르시아의 영향을 더하는 따뜻하고 향긋한 향신료들",
+          "substitutes": [
+            "가루 향신료 (향이 덜함)",
+            "중국 오향 가루"
+          ]
+        },
+        {
+          "name": "타마린드 페이스트",
+          "purpose": "이 요리 특유의 새콤달콤한 맛을 만드는 핵심 재료",
+          "substitutes": [
+            "라임즙 + 야자 설탕",
+            "우스터셔 소스"
+          ]
+        },
+        {
+          "name": "땅콩",
+          "purpose": "식감과 고소한 풍미를 더하는 재료",
+          "substitutes": [
+            "캐슈넛",
+            "아몬드",
+            "알레르기 시 생략"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "저온 조림과 향신료 볶기",
+        "steps_overview": "마사만 커리는 인내가 필요합니다 — 질긴 고기가 부드러워지고 향신료가 복합적인 조화를 이룰 때까지 천천히 조리하는 커리입니다. 통향신료를 볶고, 페이스트를 튀기고, 모든 것을 수 시간 동안 은근히 끓입니다.",
+        "cooking_tips": [
+          "통향신료를 먼저 볶아 기름을 방출시키세요",
+          "질긴 부위의 소고기를 사용하세요 — 놀라울 정도로 부드러워집니다",
+          "약한 불에서 천천히 조리하세요 — 서두르면 맛이 망가집니다",
+          "조리 내내 단맛, 신맛, 짠맛의 균형을 맞추세요",
+          "하룻밤 재워두면 더 맛있어집니다 — 다음 날이 최고입니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "17세기 페르시아-인도 무슬림 상인들을 통해 태국에 전래되었습니다. '마사만'이라는 이름은 무슬림의 옛 표현인 'Mussulman'에서 유래했습니다. 태국 궁중 요리사들이 현지 재료를 활용하여 독자적으로 발전시켰습니다.",
+        "cultural_importance": "마사만은 자국의 정체성을 유지하면서도 외래 문화에 열린 태국의 자세를 상징합니다. 외교 만찬에서 제공되며, 태국 요리의 정교함을 대표합니다.",
+        "traditional_occasions": [
+          "남부 태국의 이드 축하",
+          "왕실 연회",
+          "결혼 피로연",
+          "중요한 비즈니스 만찬"
+        ]
+      },
+      "variations": [
+        {
+          "name": "마사만 느아 (소고기)",
+          "description": "가장 전통적이고 인기 있는 소고기 버전입니다."
+        },
+        {
+          "name": "마사만 가이 (닭고기)",
+          "description": "닭고기를 사용한 더 가볍고 빠르게 만들 수 있는 버전입니다."
+        },
+        {
+          "name": "채식 마사만",
+          "description": "두부와 각종 채소를 사용한 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "재스민 쌀밥",
+          "로띠 (플랫브레드)",
+          "절임 채소"
+        ],
+        "presentation": "그릇에 담아 밥과 함께 전통 태국 스타일로 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 밥과 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "끄루아 압손 (방콕) — 궁중 태국 요리",
+          "남부 태국 무슬림 레스토랑",
+          "전통 태국 레스토랑",
+          "호텔 레스토랑"
+        ],
+        "street_food_areas": [
+          "푸드코트",
+          "야시장",
+          "무슬림 지역 식당가"
+        ],
+        "price_ranges": {
+          "street_food": "60-100 THB",
+          "restaurant": "150-300 THB",
+          "upscale": "350-600 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
