@@ -4,14 +4,16 @@
   "name": {
     "en": "Roti Canai",
     "nl": "Roti Canai",
-    "thai": "โรตีกะหรี่"
+    "thai": "โรตีกะหรี่",
+    "ja": "ロティ・チャナイ"
   },
   "category": "main-dish",
   "region": "southern",
   "spice_level": "mild",
   "description": {
     "en": "Malaysian-Thai flatbread served with curry",
-    "nl": "Maleisisch-Thais platbrood geserveerd met curry"
+    "nl": "Maleisisch-Thais platbrood geserveerd met curry",
+    "ja": "カレーと一緒に食べるマレーシア・タイ風フラットブレッド"
   },
   "ingredients": [
     "flour",
@@ -31,11 +33,13 @@
   "seo": {
     "metaTitle": {
       "en": "Roti Canai Recipe | Authentic Thai main dish",
-      "nl": "Roti Canai Recept | Authentieke Thaise main dish"
+      "nl": "Roti Canai Recept | Authentieke Thaise main dish",
+      "ja": "ロティ・チャナイのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Roti Canai (โรตีกะหรี่) - Malaysian-Thai flatbread served with curry...",
-      "nl": "Leer over Roti Canai (โรตีกะหรี่) - Maleisisch-Thais platbrood geserveerd met curry..."
+      "nl": "Leer over Roti Canai (โรตีกะหรี่) - Maleisisch-Thais platbrood geserveerd met curry...",
+      "ja": "ロティ・チャナイ（โรตีกะหรี่）について — カレーと一緒に食べるマレーシア・タイ風フラットブレッド。"
     }
   },
   "tags": [
