@@ -4,14 +4,16 @@
   "name": {
     "en": "Pad Thai",
     "nl": "Pad Thai",
-    "thai": "ผัดไทย"
+    "thai": "ผัดไทย",
+    "ja": "パッタイ"
   },
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce",
-    "nl": "Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus"
+    "nl": "Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus",
+    "ja": "米麺を豆腐やエビ、もやし、タマリンドソースで炒めた定番料理"
   },
   "ingredients": [
     "rice noodles",
@@ -35,11 +37,13 @@
   "seo": {
     "metaTitle": {
       "en": "Pad Thai Recipe | Authentic Thai main dish",
-      "nl": "Pad Thai Recept | Authentieke Thaise main dish"
+      "nl": "Pad Thai Recept | Authentieke Thaise main dish",
+      "ja": "パッタイのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Pad Thai (ผัดไทย) - Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce...",
-      "nl": "Leer over Pad Thai (ผัดไทย) - Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus..."
+      "nl": "Leer over Pad Thai (ผัดไทย) - Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus...",
+      "ja": "パッタイ（ผัดไทย）について — 米麺を豆腐やエビと炒めたタイを代表する麺料理。"
     }
   },
   "tags": [
