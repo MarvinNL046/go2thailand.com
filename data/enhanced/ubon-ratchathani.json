@@ -4,14 +4,16 @@
   "name": {
     "en": "Ubon Ratchathani",
     "nl": "Ubon Ratchathani",
-    "ja": "ウボンラーチャターニー"
+    "ja": "ウボンラーチャターニー",
+    "ko": "우본랏차타니"
   },
   "region": "Isaan",
   "province": "Ubon Ratchathani",
   "description": {
     "en": "A major Isaan city on the Mekong River, Ubon Ratchathani is famous for its spectacular Candle Festival, prehistoric cliff paintings at Pha Taem, and the breathtaking Sam Phan Bok canyon known as the Grand Canyon of Thailand.",
     "nl": "Een grote Isaan-stad aan de Mekong rivier, Ubon Ratchathani is beroemd om het spectaculaire Kaarsen Festival, prehistorische rotstekeningen bij Pha Taem en de adembenemende Sam Phan Bok kloof, bekend als de Grand Canyon van Thailand.",
-    "ja": "メコン川沿いのイサーン主要都市ウボンラーチャターニーは、壮大なろうそく祭り、サムパンボーク（3000の穴）、イサーン料理で有名です。"
+    "ja": "メコン川沿いのイサーン主要都市ウボンラーチャターニーは、壮大なろうそく祭り、サムパンボーク（3000の穴）、イサーン料理で有名です。",
+    "ko": "메콩강변의 이산 주요 도시인 우본랏차타니는 장엄한 양초 축제, 파탬의 선사시대 절벽 벽화, 태국의 그랜드 캐니언으로 불리는 삼판복 협곡으로 유명합니다."
   },
   "population": 191000,
   "highlights": [
@@ -29,29 +31,34 @@
     "metaTitle": {
       "en": "Discover Ubon Ratchathani | What to do in Ubon Ratchathani?",
       "nl": "Ontdek Ubon Ratchathani | Wat te doen in Ubon Ratchathani?",
-      "ja": "ウボンラーチャターニーを満喫 | 観光・見どころガイド"
+      "ja": "ウボンラーチャターニーを満喫 | 観光・見どころガイド",
+      "ko": "우본랏차타니 태국 — 양초 축제 & 자연 여행 가이드 2026"
     },
     "metaDescription": {
       "en": "Your guide to Ubon Ratchathani, Thailand – candle festival, Mekong canyon, Isaan culture and nature.",
       "nl": "Jouw gids voor Ubon Ratchathani, Thailand – kaarsenfestival, Mekong kloof, Isaan cultuur en natuur.",
-      "ja": "タイ・ウボンラーチャターニーの旅行ガイド — ろうそく祭り、メコン峡谷、イサーン料理の魅力をご紹介。"
+      "ja": "タイ・ウボンラーチャターニーの旅行ガイド — ろうそく祭り、メコン峡谷、イサーン料理の魅力をご紹介。",
+      "ko": "우본랏차타니(태국) 완벽 여행 가이드: 양초 축제, 삼판복, 파탬 절벽 벽화. 가격, 팁, 가는 법."
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Ubon Ratchathani",
       "nl": "Beste restaurants en streetfood in Ubon Ratchathani",
-      "ja": "ウボンラーチャターニーのおすすめレストラン＆ストリートフード"
+      "ja": "ウボンラーチャターニーのおすすめレストラン＆ストリートフード",
+      "ko": "우본랏차타니 추천 레스토랑과 길거리 음식"
     },
     "hotels": {
       "en": "Top hotels in Ubon Ratchathani | Tips & deals",
       "nl": "Beste hotels in Ubon Ratchathani | Tips & aanbiedingen",
-      "ja": "ウボンラーチャターニーのおすすめホテル｜お得な情報＆アドバイス"
+      "ja": "ウボンラーチャターニーのおすすめホテル｜お得な情報＆アドバイス",
+      "ko": "우본랏차타니 추천 호텔 | 팁 & 특가"
     },
     "attractions": {
       "en": "Top attractions in Ubon Ratchathani",
       "nl": "Top bezienswaardigheden in Ubon Ratchathani",
-      "ja": "ウボンラーチャターニーの人気観光スポット"
+      "ja": "ウボンラーチャターニーの人気観光スポット",
+      "ko": "우본랏차타니 인기 관광 명소"
     }
   },
   "tags": [
@@ -68,12 +75,14 @@
       "name": {
         "en": "Sam Phan Bok (3000 Holes)",
         "nl": "Sam Phan Bok (3000 Gaten)",
-        "ja": "サムパンボーク（3000の穴）"
+        "ja": "サムパンボーク（3000の穴）",
+        "ko": "삼판복 (3000개의 구멍)"
       },
       "description": {
         "en": "A spectacular section of the Mekong riverbed that reveals thousands of eroded rock holes and turquoise pools during the dry season. Often called the Grand Canyon of Thailand, this geological wonder is best visited from December to May.",
         "nl": "Een spectaculair deel van de Mekong rivierbedding dat duizenden geërodeerde rotsgaten en turquoise poelen onthult tijdens het droge seizoen. Vaak de Grand Canyon van Thailand genoemd, is dit geologische wonder het beste te bezoeken van december tot mei.",
-        "ja": "メコン川の水位が下がると現れる何千もの侵食された岩穴が広がる壮観な川床で、「タイのグランドキャニオン」とも呼ばれます。乾季限定の絶景スポットです。"
+        "ja": "メコン川の水位が下がると現れる何千もの侵食された岩穴が広がる壮観な川床で、「タイのグランドキャニオン」とも呼ばれます。乾季限定の絶景スポットです。",
+        "ko": "메콩강이 만들어낸 독특한 바위 지형으로, 건기에만 모습을 드러내는 태국의 그랜드 캐니언입니다."
       },
       "type": "nature"
     },
@@ -81,12 +90,14 @@
       "name": {
         "en": "Wat Sirindhorn Wararam (Glow Temple)",
         "nl": "Wat Sirindhorn Wararam (Gloeitempe)",
-        "ja": "ワット・シリントーン・ワラーラーム（光る寺院）"
+        "ja": "ワット・シリントーン・ワラーラーム（光る寺院）",
+        "ko": "왓 시린톤 와라람 (야광 사원)"
       },
       "description": {
         "en": "A modern temple whose exterior walls are painted with fluorescent murals depicting the Bodhi tree and mythical creatures. After dark, the paintings glow an eerie green, creating one of the most unique temple experiences in Thailand.",
         "nl": "Een moderne tempel waarvan de buitenmuren zijn beschilderd met fluorescerende muurschilderingen van de Bodhi-boom en mythische wezens. Na het donker gloeien de schilderingen spookachtig groen, wat een van de meest unieke tempelervaringen in Thailand oplevert.",
-        "ja": "外壁に蛍光塗料で描かれた壁画がある近代的な寺院で、日没後に壁画が緑色に光り輝きます。「光る寺院」として知られるフォトジェニックなスポットです。"
+        "ja": "外壁に蛍光塗料で描かれた壁画がある近代的な寺院で、日没後に壁画が緑色に光り輝きます。「光る寺院」として知られるフォトジェニックなスポットです。",
+        "ko": "밤에 형광빛으로 빛나는 보리수 벽화가 인상적인 현대적 사원으로, 독특한 야간 명소입니다."
       },
       "type": "temple"
     },
@@ -94,12 +105,14 @@
       "name": {
         "en": "Kaeng Saphu Rapids",
         "nl": "Kaeng Saphu Stroomversnellingen",
-        "ja": "ケーン・サプー急流"
+        "ja": "ケーン・サプー急流",
+        "ko": "깽사푸 급류"
       },
       "description": {
         "en": "A scenic stretch of the Mekong River with rocky rapids and a riverside park popular with local picnickers. The sunset views over Laos from the riverside restaurants here are spectacular and completely tourist-free.",
         "nl": "Een schilderachtig stuk van de Mekong rivier met rotsachtige stroomversnellingen en een park langs de rivier populair bij lokale picknickers. De zonsondergang over Laos vanuit de restaurants langs de rivier is spectaculair en volledig toeristenvrij.",
-        "ja": "メコン川の岩場の急流が見られる景勝地で、川沿いの公園は地元の人々のピクニックスポットとして人気です。夕日が美しい場所でもあります。"
+        "ja": "メコン川の岩場の急流が見られる景勝地で、川沿いの公園は地元の人々のピクニックスポットとして人気です。夕日が美しい場所でもあります。",
+        "ko": "메콩강의 급류 지대로, 건기에 독특한 바위 지형이 드러나며 아름다운 풍경을 만들어냅니다."
       },
       "type": "nature"
     },
@@ -107,12 +120,14 @@
       "name": {
         "en": "Wat Nong Bua",
         "nl": "Wat Nong Bua",
-        "ja": "ワット・ノーンブア"
+        "ja": "ワット・ノーンブア",
+        "ko": "왓 농부아"
       },
       "description": {
         "en": "A beautiful Isaan temple modeled after the Mahabodhi Temple in India's Bodh Gaya. The interior features stunning murals by local artists depicting the life of the Buddha and traditional Isaan village scenes.",
         "nl": "Een prachtige Isaan-tempel gemodelleerd naar de Mahabodhi Tempel in India's Bodh Gaya. Het interieur heeft prachtige muurschilderingen van lokale kunstenaars die het leven van de Boeddha en traditionele Isaan dorpsscènes uitbeelden.",
-        "ja": "インドのブッダガヤにあるマハーボーディ寺院をモデルにした美しいイサーンの寺院で、精緻な彫刻と壁画が見事です。"
+        "ja": "インドのブッダガヤにあるマハーボーディ寺院をモデルにした美しいイサーンの寺院で、精緻な彫刻と壁画が見事です。",
+        "ko": "인도 보드가야의 마하보디 사원을 모델로 한 독특한 양식의 사원입니다."
       },
       "type": "temple"
     },
@@ -120,12 +135,14 @@
       "name": {
         "en": "Ratchabut Road Night Market",
         "nl": "Ratchabut Road Nachtmarkt",
-        "ja": "ラチャブット通りナイトマーケット"
+        "ja": "ラチャブット通りナイトマーケット",
+        "ko": "랏차붓 도로 야시장"
       },
       "description": {
         "en": "The city's sprawling evening food market where Isaan cuisine shines — fermented sausages, grilled chicken, papaya salad with fermented fish, and sweet sticky rice with mango. A genuine local gathering spot with rock-bottom prices.",
         "nl": "De uitgebreide avondvoedselmarkt van de stad waar de Isaan keuken schittert — gefermenteerde worstjes, gegrilde kip, papajasalade met gefermenteerde vis en zoete kleefrijst met mango. Een echte lokale ontmoetingsplek met bodemprijzen.",
-        "ja": "イサーン料理が輝く街最大の夕方フードマーケットで、発酵ソーセージ、ソムタム、焼き鳥など本格的な地元グルメが楽しめます。"
+        "ja": "イサーン料理が輝く街最大の夕方フードマーケットで、発酵ソーセージ、ソムタム、焼き鳥など本格的な地元グルメが楽しめます。",
+        "ko": "현지인들이 즐겨 찾는 야시장으로, 이산 특유의 길거리 음식을 맛볼 수 있습니다."
       },
       "type": "market"
     }
@@ -471,7 +488,8 @@
   "safetyTips": {
     "en": "Ubon Ratchathani is generally a safe destination for travelers with low crime rates against tourists. Standard precautions apply: avoid displaying expensive jewelry or electronics, be cautious with valuables in crowded night markets, and use trusted taxis or Grab rather than hailing unmarked vehicles. Road safety is a consideration — if renting a motorbike, wear helmets (required by law) and drive defensively as local traffic can be chaotic. Petty theft occurs occasionally in crowded areas, so keep bags secure and valuables in hotel safes. The Mekong River and waterfalls are popular attractions but respect warning signs; drownings have occurred at unsafe locations. Waterfall areas such as Soi Sawan are extremely slippery — injuries are common, so wear proper footwear and exercise caution on wet rocks. Typhoon season (typically September-November) can bring extreme weather originating from the Philippines and Vietnam, causing sudden heavy rain, flooding, and dangerous conditions at outdoor attractions. Watch out for wasp nests along rural roads and trails near the national parks — they can be aggressive if disturbed. When visiting temples, dress respectfully with covered shoulders and knees. Tap water is generally not recommended for drinking; purchase bottled water instead. Ubon remains one of Thailand's safer cities with minimal gang activity or serious crime affecting tourists.",
     "nl": "Ubon Ratchathani is over het algemeen een veilige bestemming voor reizigers met lage criminaliteitscijfers tegen toeristen. Standaard voorzorgsmaatregelen gelden: vermijd het tonen van dure sieraden of elektronica, wees voorzichtig met waardevolle spullen op drukke nachtmarkten en gebruik betrouwbare taxi's of Grab in plaats van ongemarkeerde voertuigen aan te houden. Verkeersveiligheid is een aandachtspunt — als je een scooter huurt, draag dan een helm (wettelijk verplicht) en rij defensief want het lokale verkeer kan chaotisch zijn. Kleine diefstal komt af en toe voor op drukke plekken, dus houd tassen veilig en berg waardevolle spullen op in hotelkluizen. De Mekong en watervallen zijn populaire attracties maar respecteer waarschuwingsborden; verdrinkingen zijn voorgekomen op onveilige locaties. Watervalgebieden zoals Soi Sawan zijn extreem glad — verwondingen komen veel voor, dus draag goed schoeisel en wees voorzichtig op natte rotsen. Het tyfoonseizoen (doorgaans september-november) kan extreem weer brengen afkomstig uit de Filipijnen en Vietnam, met plotselinge hevige regenval, overstromingen en gevaarlijke omstandigheden bij buitenattracties. Let op wespennesten langs landelijke wegen en paden nabij de nationale parken — ze kunnen agressief zijn als ze gestoord worden. Kleed je respectvol bij tempelbezoek met bedekte schouders en knieën. Kraanwater wordt over het algemeen niet aanbevolen om te drinken; koop flessenwater. Ubon blijft een van de veiligste steden van Thailand met minimale bende-activiteit of ernstige criminaliteit die toeristen treft.",
-    "ja": "ウボンラーチャターニーは犯罪率が低く、旅行者にとって一般的に安全な街です。一般的な注意を払えば問題なく過ごせます。夜間の一人歩きも比較的安全です。"
+    "ja": "ウボンラーチャターニーは犯罪率が低く、旅行者にとって一般的に安全な街です。一般的な注意を払えば問題なく過ごせます。夜間の一人歩きも比較的安全です。",
+    "ko": "우본랏차타니는 대체로 안전한 도시입니다. 삼판복과 파탬 국립공원 방문 시 절벽 가장자리에 주의하세요. 우기에는 메콩강 수위가 높아져 일부 명소가 침수될 수 있습니다. 오토바이 운전 시 헬멧을 착용하세요."
   },
   "faq": [
     {
@@ -670,6 +688,40 @@
       "bestTimeToVisit": "Лучшее время для посещения Убон Ратчатхани — с ноября по февраль, когда температура 15–30°C и влажность минимальна. Это прохладный сухой сезон, оптимальный для осмотра природных достопримечательностей вроде Сам Пхан Бок. Фестиваль свечей в июле — главное событие, привлекающее тысячи гостей, хотя июль приходится на сезон муссонов с высокой влажностью и дождями. Если вы едете специально ради Сам Пхан Бок — выбор времени критичен: место доступно только с декабря по май, когда уровень воды достаточно низок. С марта по май становится всё жарче (выше 35°C). Избегайте сентября–октября из-за сильных муссонных дождей, затрудняющих передвижение и ухудшающих видимость на природных объектах.",
       "safetyTips": "Убон Ратчатхани — в целом безопасный город с низким уровнем преступности. Стандартные меры предосторожности: не демонстрируйте дорогие украшения и электронику, следите за вещами на оживлённых ночных рынках, пользуйтесь проверенными такси или Grab. Дорожная безопасность важна — при аренде мотоцикла надевайте шлем (обязательно по закону) и ведите осторожно. При посещении Сам Пхан Бок и Пха Тем надевайте прочную обувь — скальные поверхности бывают скользкими, особенно утром из-за росы. В сезон дождей (июнь–октябрь) некоторые сельские дороги могут быть подтоплены. Солнце в Исане интенсивное — берите солнцезащитный крем, шляпу и достаточно воды. Водопроводную воду пить не рекомендуется — повсюду доступна бутилированная. Убон остаётся одним из самых безопасных городов Таиланда.",
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "우본랏차타니는 태국 동북부 이산 지방의 메콩강변에 위치한 주요 도시로, 라오스 국경과 접하고 있습니다. 방콕에서 비행기로 약 1시간 거리입니다.\n\n매년 7월의 양초 축제(카오판사)는 우본랏차타니의 하이라이트로, 거대한 밀랍 조각 작품들이 시내를 퍼레이드합니다. 수개월간 정성을 들여 제작된 양초 조각은 예술 작품 수준이며, 태국 전역에서 관람객이 몰려듭니다.\n\n삼판복은 건기(12-5월)에만 모습을 드러내는 메콩강의 독특한 바위 지형으로, 수천 개의 구멍이 뚫린 바위가 장관을 이룹니다. 파탬 국립공원에서는 3,000년 이상 된 선사시대 절벽 벽화를 볼 수 있으며, 태국에서 가장 먼저 해가 뜨는 곳으로도 유명합니다. 왓 시린톤 와라람은 밤에 형광빛으로 빛나는 보리수 벽화가 인상적인 현대적 사원입니다.",
+      "hidden_gems": [
+        {
+          "name": "삼판복",
+          "description": "건기에만 드러나는 메콩강의 독특한 바위 지형, 태국의 그랜드 캐니언입니다."
+        },
+        {
+          "name": "왓 시린톤 와라람",
+          "description": "밤에 형광빛으로 빛나는 보리수 벽화가 인상적인 야광 사원입니다."
+        },
+        {
+          "name": "깽사푸 급류",
+          "description": "메콩강의 급류 지대로, 건기에 독특한 바위 지형이 드러납니다."
+        },
+        {
+          "name": "왓 농부아",
+          "description": "인도 보드가야 마하보디 사원을 모델로 한 독특한 사원입니다."
+        },
+        {
+          "name": "랏차붓 도로 야시장",
+          "description": "이산 특유의 길거리 음식을 맛볼 수 있는 현지 야시장입니다."
+        }
+      ],
+      "authentic_experiences": [],
+      "foodie_adventures": [],
+      "overview": "우본랏차타니는 이산 지방 메콩강변의 주요 도시로, 양초 축제, 삼판복 협곡, 파탬 절벽 벽화, 야광 사원이 주요 볼거리입니다.",
+      "thingsToDo": "우본랏차타니는 자연 경관과 문화 유산을 아우르는 다양한 명소를 제공합니다. 삼판복에서 태국의 그랜드 캐니언을 감상하고, 파탬 국립공원에서 선사시대 벽화와 일출을 즐기세요. 왓 시린톤 와라람의 야광 벽화는 밤에 방문하세요. 7월의 양초 축제는 필수입니다.",
+      "whereToStay": "우본랏차타니는 모든 예산에 맞는 숙소가 시내 중심에 밀집해 있습니다. 메콩강변의 게스트하우스도 분위기 있습니다.",
+      "gettingAround": "우본랏차타니 시내는 비교적 컴팩트합니다. 툭툭이 가장 일반적인 교통수단이며, 삼판복과 파탬 등 외곽 명소는 렌터카나 투어가 편리합니다.",
+      "bestTimeToVisit": "우본랏차타니의 최적 방문 시기는 11월부터 2월까지입니다. 건기에 삼판복이 모습을 드러내며, 7월의 양초 축제도 놓치지 마세요.",
+      "safetyTips": "우본랏차타니는 안전한 도시입니다. 삼판복과 파탬 국립공원에서 절벽 가장자리에 주의하세요. 우기에는 메콩강 수위 상승으로 일부 명소가 접근 불가할 수 있습니다.",
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
