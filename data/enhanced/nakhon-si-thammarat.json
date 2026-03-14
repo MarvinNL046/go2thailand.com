@@ -4,14 +4,16 @@
   "name": {
     "en": "Nakhon Si Thammarat",
     "nl": "Nakhon Si Thammarat",
-    "ja": "ナコーンシータンマラート"
+    "ja": "ナコーンシータンマラート",
+    "ko": "나콘시탐마랏"
   },
   "region": "Southern",
   "province": "Nakhon Si Thammarat",
   "description": {
     "en": "One of the oldest cities in southern Thailand, Nakhon Si Thammarat is a cultural treasure with magnificent temples, traditional shadow puppetry, and the stunning Khao Luang National Park. An authentic destination far from the tourist trail.",
     "nl": "Een van de oudste steden in Zuid-Thailand, Nakhon Si Thammarat is een culturele schat met prachtige tempels, traditioneel schaduwpoppenspel en het schitterende Khao Luang Nationaal Park. Een authentieke bestemming ver van het toeristische pad.",
-    "ja": "タイ南部で最も歴史ある都市の一つ、ナコーンシータンマラートは仏教文化の中心地であり、影絵人形、南部料理、壮大なワット・プラマハタートで知られています。"
+    "ja": "タイ南部で最も歴史ある都市の一つ、ナコーンシータンマラートは仏教文化の中心地であり、影絵人形、南部料理、壮大なワット・プラマハタートで知られています。",
+    "ko": "태국 남부에서 가장 오래된 도시 중 하나인 나콘시탐마랏은 웅장한 사원, 전통 그림자 인형극, 멋진 카오루앙 국립공원이 있는 문화의 보고입니다. 관광 루트에서 벗어난 정통 여행지입니다."
   },
   "population": 105000,
   "highlights": [
@@ -29,29 +31,34 @@
     "metaTitle": {
       "en": "Discover Nakhon Si Thammarat | What to do in Nakhon Si Thammarat?",
       "nl": "Ontdek Nakhon Si Thammarat | Wat te doen in Nakhon Si Thammarat?",
-      "ja": "ナコーンシータンマラートを満喫 | 観光・見どころガイド"
+      "ja": "ナコーンシータンマラートを満喫 | 観光・見どころガイド",
+      "ko": "나콘시탐마랏 태국 — 역사 & 문화 여행 가이드 2026"
     },
     "metaDescription": {
       "en": "Your guide to Nakhon Si Thammarat, Thailand – ancient temples, shadow puppets, nature and culture.",
       "nl": "Jouw gids voor Nakhon Si Thammarat, Thailand – oude tempels, schimmenspel, natuur en cultuur.",
-      "ja": "タイ・ナコーンシータンマラートの旅行ガイド — 古代寺院、影絵人形、南部料理の魅力をご紹介。"
+      "ja": "タイ・ナコーンシータンマラートの旅行ガイド — 古代寺院、影絵人形、南部料理の魅力をご紹介。",
+      "ko": "나콘시탐마랏(태국) 완벽 여행 가이드: 왓 프라마하탓, 그림자 인형극, 카오루앙 국립공원. 가격, 팁, 가는 법."
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Nakhon Si Thammarat",
       "nl": "Beste restaurants en streetfood in Nakhon Si Thammarat",
-      "ja": "ナコーンシータンマラートのおすすめレストラン＆ストリートフード"
+      "ja": "ナコーンシータンマラートのおすすめレストラン＆ストリートフード",
+      "ko": "나콘시탐마랏 추천 레스토랑과 길거리 음식"
     },
     "hotels": {
       "en": "Top hotels in Nakhon Si Thammarat | Tips & deals",
       "nl": "Beste hotels in Nakhon Si Thammarat | Tips & aanbiedingen",
-      "ja": "ナコーンシータンマラートのおすすめホテル｜お得な情報＆アドバイス"
+      "ja": "ナコーンシータンマラートのおすすめホテル｜お得な情報＆アドバイス",
+      "ko": "나콘시탐마랏 추천 호텔 | 팁 & 특가"
     },
     "attractions": {
       "en": "Top attractions in Nakhon Si Thammarat",
       "nl": "Top bezienswaardigheden in Nakhon Si Thammarat",
-      "ja": "ナコーンシータンマラートの人気観光スポット"
+      "ja": "ナコーンシータンマラートの人気観光スポット",
+      "ko": "나콘시탐마랏 인기 관광 명소"
     }
   },
   "tags": [
@@ -68,12 +75,14 @@
       "name": {
         "en": "Kiriwong Village",
         "nl": "Kiriwong Dorp",
-        "ja": "キーリーウォン村"
+        "ja": "キーリーウォン村",
+        "ko": "끼리웡 마을"
       },
       "description": {
         "en": "A peaceful community at the foot of Khao Luang mountain known as Thailand's best ozone village. Famous for clean air, organic fruit orchards, batik workshops, and homestay experiences with local families. A true off-the-beaten-path gem.",
         "nl": "Een vredig gemeenschap aan de voet van de Khao Luang berg, bekend als Thailand's beste ozon-dorp. Beroemd om schone lucht, biologische fruitboomgaarden, batik workshops en homestay ervaringen bij lokale families. Een echte verborgen parel.",
-        "ja": "カオルアン山の麓にある静かな集落で、タイで最も空気がきれいな場所として知られています。ホームステイや自然散策が楽しめるエコツーリズムの拠点です。"
+        "ja": "カオルアン山の麓にある静かな集落で、タイで最も空気がきれいな場所として知られています。ホームステイや自然散策が楽しめるエコツーリズムの拠点です。",
+        "ko": "태국에서 가장 깨끗한 공기를 자랑하는 산촌 마을로, 홈스테이와 자연 트레킹을 즐길 수 있는 에코투어 명소입니다."
       },
       "type": "nature"
     },
@@ -81,12 +90,14 @@
       "name": {
         "en": "Suchart Subsin Shadow Puppet House",
         "nl": "Suchart Subsin Schimmenspel Huis",
-        "ja": "スチャート・サプシン影絵人形の家"
+        "ja": "スチャート・サプシン影絵人形の家",
+        "ko": "수차트 숩신 그림자 인형 박물관"
       },
       "description": {
         "en": "The workshop and museum of a legendary shadow puppet master family, where you can watch live performances and see artisans hand-carving intricate cowhide puppets using centuries-old techniques.",
         "nl": "De werkplaats en het museum van een legendarische schimmenspeelmeester-familie, waar je live optredens kunt bekijken en ambachtslieden fijngesneden koeienhuidpoppen kunt zien maken met eeuwenoude technieken.",
-        "ja": "伝説的な影絵人形師一族の工房兼博物館で、人形の制作過程を見学し、伝統的な影絵芝居の実演を鑑賞できます。タイの無形文化遺産に触れられる貴重な場所です。"
+        "ja": "伝説的な影絵人形師一族の工房兼博物館で、人形の制作過程を見学し、伝統的な影絵芝居の実演を鑑賞できます。タイの無形文化遺産に触れられる貴重な場所です。",
+        "ko": "남부 태국 전통 그림자 인형극(낭 딸룽)의 장인이 운영하는 박물관으로, 공연과 인형 제작 과정을 볼 수 있습니다."
       },
       "type": "cultural"
     },
@@ -94,12 +105,14 @@
       "name": {
         "en": "Bovorn Bazaar Night Market",
         "nl": "Bovorn Bazaar Nachtmarkt",
-        "ja": "ボーウォーン・バザール・ナイトマーケット"
+        "ja": "ボーウォーン・バザール・ナイトマーケット",
+        "ko": "보원 바자 야시장"
       },
       "description": {
         "en": "An authentic local night market where Nakhon's residents gather for grilled seafood, khanom jeen, and southern Thai street food. Zero tourist presence and prices that reflect genuine local economics.",
         "nl": "Een authentieke lokale nachtmarkt waar de inwoners van Nakhon samenkomen voor gegrilde zeevruchten, khanom jeen en Zuid-Thais straatvoedsel. Geen toeristen en prijzen die de echte lokale economie weerspiegelen.",
-        "ja": "地元住民が集う本格的なナイトマーケットで、焼きシーフード、南部タイ料理のカレー、スイーツなどが楽しめます。観光客向けではない本物のローカル体験ができます。"
+        "ja": "地元住民が集う本格的なナイトマーケットで、焼きシーフード、南部タイ料理のカレー、スイーツなどが楽しめます。観光客向けではない本物のローカル体験ができます。",
+        "ko": "현지인들이 즐겨 찾는 야시장으로, 남부 태국 특유의 길거리 음식과 활기찬 분위기가 매력적입니다."
       },
       "type": "market"
     },
@@ -107,12 +120,14 @@
       "name": {
         "en": "Wat Wang Tawan Tok",
         "nl": "Wat Wang Tawan Tok",
-        "ja": "ワット・ワンタワントック"
+        "ja": "ワット・ワンタワントック",
+        "ko": "왓 왕 따완 떡"
       },
       "description": {
         "en": "A lesser-known temple housing exquisite southern Thai murals depicting scenes from the Jataka tales. The art dates from the Ayutthaya period and offers a fascinating glimpse into historic temple painting traditions.",
         "nl": "Een minder bekende tempel met prachtige Zuid-Thaise muurschilderingen die scènes uit de Jataka-verhalen uitbeelden. De kunst dateert uit de Ayutthaya-periode en biedt een fascinerende blik op historische tempel-schildertradities.",
-        "ja": "あまり知られていない寺院ですが、ラーマーヤナやジャータカ物語を描いた精緻な南部タイ様式の壁画が見事です。静かに芸術を鑑賞できる穴場スポットです。"
+        "ja": "あまり知られていない寺院ですが、ラーマーヤナやジャータカ物語を描いた精緻な南部タイ様式の壁画が見事です。静かに芸術を鑑賞できる穴場スポットです。",
+        "ko": "관광객이 거의 없는 조용한 사원으로, 아름다운 남부 양식 건축이 인상적입니다."
       },
       "type": "temple"
     },
@@ -120,12 +135,14 @@
       "name": {
         "en": "Krung Ching Waterfall",
         "nl": "Krung Ching Waterval",
-        "ja": "クルンチン滝"
+        "ja": "クルンチン滝",
+        "ko": "끄룽칭 폭포"
       },
       "description": {
         "en": "A magnificent multi-tiered waterfall deep in Khao Luang National Park, reached via a 4-kilometer jungle trail through old-growth rainforest. The hike passes through pristine wilderness home to tapirs, bears, and rare birds.",
         "nl": "Een prachtige waterval met meerdere niveaus diep in het Khao Luang Nationaal Park, bereikbaar via een 4 kilometer lang junglepad door oeroud regenwoud. De wandeling gaat door ongerepte wildernis waar tapirs, beren en zeldzame vogels leven.",
-        "ja": "カオルアン国立公園の奥深くにある壮大な多段式の滝で、約4kmのジャングルトレイルを歩いてたどり着きます。自然好きにはたまらない秘境です。"
+        "ja": "カオルアン国立公園の奥深くにある壮大な多段式の滝で、約4kmのジャングルトレイルを歩いてたどり着きます。自然好きにはたまらない秘境です。",
+        "ko": "카오루앙 국립공원 내 웅장한 폭포로, 정글 트레킹을 통해 도달하는 자연의 경이입니다."
       },
       "type": "nature"
     }
@@ -717,6 +734,40 @@
       "bestTimeToVisit": "Лучшее время для посещения Накхонситхаммарата — с ноября по февраль, когда прохладная и сухая погода с температурой 20–28°C делает осмотр храмов и пешие прогулки к водопадам по-настоящему комфортными. Избегайте юго-западного муссона с мая по сентябрь, когда сильные дожди могут ограничить активности на открытом воздухе и изредка вызывать наводнения в низинах, хотя туристов в это время меньше. Межсезонье в марте–апреле и октябре приносит периодическую жару и случайные ливни, но меньше народу; декабрь и январь — пиковые месяцы с оптимальной погодой и полной доступностью храмов и национальных парков. Март и апрель приносят интенсивную жару выше 35°C, что делает дневные прогулки утомительными, несмотря на меньшее число посетителей.",
       "safetyTips": "Накхонситхаммарат значительно безопаснее многих других городов Южного Таиланда, таких как Хатъяй: насильственные преступления против туристов исключительно редки, а мелкие кражи можно предотвратить стандартными мерами предосторожности — не демонстрируйте ценные вещи и крупные суммы наличных. Город отличается мирной, общинной атмосферой с заметным присутствием полиции у храмов и основных достопримечательностей; одиночные путешественники обоих полов отмечают, что чувствуют себя в безопасности, гуляя по городу и ночным рынкам в вечернее время. Стандартные правила путешествий применимы: избегайте немаркированных такси (используйте Grab или транспорт от отеля), следите за вещами в переполненных автобусах и на рынках, уважайте местные обычаи у храмов и религиозных мест. Медицинские учреждения адекватны для обычных потребностей — несколько больниц с англоговорящим персоналом, хотя серьёзные медицинские проблемы могут потребовать поездки в крупные города вроде Бангкока.",
       "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "나콘시탐마랏은 태국 남부에서 가장 역사적이고 문화적으로 풍요로운 도시 중 하나입니다. 스리비자야 왕국 시대부터 불교 문화의 중심지였으며, 태국에서 가장 중요한 불교 사원 중 하나인 왓 프라마하탓 워라마하위한이 있습니다.\n\n왓 프라마하탓의 황금 체디(불탑)는 남부 태국의 상징적인 랜드마크로, 사리를 모신 것으로 전해집니다. 사원 주변의 아침 시장에서는 남부 태국 특유의 향신료가 풍부한 음식을 맛볼 수 있습니다.\n\n나콘시탐마랏은 '낭 딸룽'이라 불리는 전통 그림자 인형극의 본고장입니다. 수차트 숩신 가문은 이 전통을 지켜온 장인 가문으로, 직접 방문하여 공연을 감상하고 인형 제작 과정을 볼 수 있습니다. 카오루앙 국립공원은 트레킹과 폭포 탐험의 최적지이며, 끼리웡 마을에서의 홈스테이는 진정한 태국 시골 생활을 체험할 수 있는 기회입니다.",
+      "hidden_gems": [
+        {
+          "name": "끼리웡 마을",
+          "description": "태국에서 가장 깨끗한 공기의 산촌 마을로, 에코투어와 홈스테이 명소입니다."
+        },
+        {
+          "name": "수차트 숩신 그림자 인형 박물관",
+          "description": "전통 그림자 인형극 장인의 박물관으로, 공연과 제작 과정을 볼 수 있습니다."
+        },
+        {
+          "name": "보원 바자 야시장",
+          "description": "남부 태국 길거리 음식과 활기찬 분위기의 현지 야시장입니다."
+        },
+        {
+          "name": "왓 왕 따완 떡",
+          "description": "관광객이 없는 조용한 남부 양식 사원입니다."
+        },
+        {
+          "name": "끄룽칭 폭포",
+          "description": "카오루앙 국립공원 내 정글 트레킹으로 도달하는 웅장한 폭포입니다."
+        }
+      ],
+      "authentic_experiences": [],
+      "foodie_adventures": [],
+      "overview": "나콘시탐마랏은 태국 남부에서 가장 정통하고 역사적인 도시로, 왓 프라마하탓, 전통 그림자 인형극, 카오루앙 국립공원이 주요 볼거리입니다. 관광 루트에서 벗어난 진정한 태국 문화를 경험할 수 있습니다.",
+      "thingsToDo": "왓 프라마하탓 워라마하위한은 나콘시탐마랏의 영적 중심지로, 황금 체디가 인상적입니다. 수차트 숩신 박물관에서 전통 그림자 인형극을 감상하고, 카오루앙 국립공원에서 트레킹을 즐기세요. 끼리웡 마을에서 에코투어도 추천합니다.",
+      "whereToStay": "나콘시탐마랏은 모든 예산에 맞는 숙소를 제공하며, 대부분 시내 중심에 위치합니다. 사원 근처에 편리한 게스트하우스가 있고, 해변 근처 리조트도 있습니다.",
+      "gettingAround": "나콘시탐마랏 시내는 컴팩트하여 도보로 주요 사원과 시장을 둘러볼 수 있습니다. 외곽 명소는 오토바이 대여나 송태우를 이용하세요.",
+      "bestTimeToVisit": "나콘시탐마랏의 최적 방문 시기는 11월부터 2월까지입니다. 남부 태국 특성상 우기가 길어(9-12월 폭우 가능), 날씨를 확인하세요.",
+      "safetyTips": "나콘시탐마랏은 안전한 도시입니다. 카오루앙 국립공원 트레킹 시 가이드와 함께 하는 것을 권장하며, 우기에는 폭포 근처 급류에 주의하세요.",
+      "translated_at": "2026-03-14T00:00:00.000Z"
     }
   }
 }
