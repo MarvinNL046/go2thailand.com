@@ -1,9 +1,9 @@
 {
-  "description": "Translation queue \u2014 all locale translations. Processed by /loop.",
+  "description": "Translation queue — all locale translations. Processed by /loop.",
   "lastUpdated": "2026-03-14",
   "stats": {
     "total": 1504,
-    "completed": 1150
+    "completed": 1151
   },
   "queue": [
     {
@@ -9216,14 +9216,15 @@
       "type": "top10",
       "file": "data/top10/chiang-rai-attractions.json",
       "locale": "ko",
-      "status": "in_progress",
-      "priority": 15
+      "status": "completed",
+      "priority": 15,
+      "completedAt": "2026-03-14"
     },
     {
       "type": "top10",
       "file": "data/top10/chiang-rai-hotels.json",
       "locale": "ko",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 15
     },
     {
