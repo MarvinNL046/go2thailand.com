@@ -4,14 +4,16 @@
   "name": {
     "en": "Nam Prik Ong",
     "nl": "Nam Prik Ong",
-    "thai": "น้ำพริกอ่อง"
+    "thai": "น้ำพริกอ่อง",
+    "ja": "ナムプリックオン"
   },
   "category": "main-dish",
   "region": "northern",
   "spice_level": "medium",
   "description": {
     "en": "Tomato and minced pork chili dip served with vegetables",
-    "nl": "Tomaten-chili dip met varkensgehakt geserveerd met groenten"
+    "nl": "Tomaten-chili dip met varkensgehakt geserveerd met groenten",
+    "ja": "トマトと豚ひき肉のチリディップ、生野菜を添えて"
   },
   "ingredients": [
     "tomatoes",
@@ -30,11 +32,13 @@
   "seo": {
     "metaTitle": {
       "en": "Nam Prik Ong Recipe | Authentic Thai main dish",
-      "nl": "Nam Prik Ong Recept | Authentieke Thaise main dish"
+      "nl": "Nam Prik Ong Recept | Authentieke Thaise main dish",
+      "ja": "ナムプリックオンのレシピ | 本格タイ料理"
     },
     "metaDescription": {
       "en": "Learn about Nam Prik Ong (น้ำพริกอ่อง) - Tomato and minced pork chili dip served with vegetables...",
-      "nl": "Leer over Nam Prik Ong (น้ำพริกอ่อง) - Tomaten-chili dip met varkensgehakt geserveerd met groenten..."
+      "nl": "Leer over Nam Prik Ong (น้ำพริกอ่อง) - Tomaten-chili dip met varkensgehakt geserveerd met groenten...",
+      "ja": "ナムプリックオン（น้ำพริกอ่อง）について — トマトと豚ひき肉のチリディップ。北タイの定番おかず。"
     }
   },
   "tags": [
