@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-14",
   "stats": {
     "total": 1504,
-    "completed": 1312
+    "completed": 1313
   },
   "queue": [
     {
@@ -10512,14 +10512,15 @@
       "type": "food",
       "file": "data/enhanced/food/tom-som-pla.json",
       "locale": "ko",
-      "status": "in_progress",
-      "priority": 15
+      "status": "completed",
+      "priority": 15,
+      "completedAt": "2026-03-14"
     },
     {
       "type": "food",
       "file": "data/enhanced/food/tom-yum-goong.json",
       "locale": "ko",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 15
     },
     {
