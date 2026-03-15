@@ -86,6 +86,20 @@ async function getNextFoodTopic(): Promise<FoodTopic | null> {
     const STOP_WORDS = new Set(["in", "the", "a", "an", "of", "for", "to", "and", "or", "is", "vs", "at", "on", "per", "your", "you", "best", "top", "guide", "complete", "ultimate", "2026", "2025"]);
     const existingSlugList = [...existingSlugs];
 
+    // Normalize word for matching: strip possessives, parentheses, and basic plural stemming
+    const normalize = (w: string): string => {
+      let n = w.replace(/[()]/g, "").replace(/'s$/i, "");
+      if (n.endsWith("ies")) n = n.slice(0, -3) + "y";
+      else if (n.endsWith("es") && n.length > 4) n = n.slice(0, -2);
+      else if (n.endsWith("s") && !n.endsWith("ss") && n.length > 3) n = n.slice(0, -1);
+      return n;
+    };
+
+    const wordMatchesSlug = (word: string, slug: string): boolean => {
+      const nWord = normalize(word);
+      return slug.split("-").some((seg) => normalize(seg) === nWord || seg.includes(nWord) || nWord.includes(seg));
+    };
+
     for (const item of sorted) {
       const keywordWords = item.targetKeyword
         .toLowerCase()
@@ -95,15 +109,16 @@ async function getNextFoodTopic(): Promise<FoodTopic | null> {
       // Also extract significant words from topic title (catches more variations)
       const topicWords = item.topic
         .toLowerCase()
-        .split(/[\s:—\-,]+/)
+        .split(/[\s:—\-,()]+/)
         .filter((w) => !STOP_WORDS.has(w) && w.length > 2);
 
-      // Either ALL keyword words match, or 60%+ of topic title words match
+      // 70%+ of keyword words match, OR 3+ topic words match AND 40%+ ratio
       const alreadyPublished = existingSlugList.some((slug) => {
-        const allKeywordsMatch = keywordWords.length > 0 && keywordWords.every((word) => slug.includes(word));
-        const topicMatchCount = topicWords.filter((word) => slug.includes(word)).length;
+        const keywordMatchCount = keywordWords.filter((word) => wordMatchesSlug(word, slug)).length;
+        const keywordMatchRatio = keywordWords.length > 0 ? keywordMatchCount / keywordWords.length : 0;
+        const topicMatchCount = topicWords.filter((word) => wordMatchesSlug(word, slug)).length;
         const topicMatchRatio = topicWords.length > 0 ? topicMatchCount / topicWords.length : 0;
-        return allKeywordsMatch || (topicMatchCount >= 3 && topicMatchRatio >= 0.5);
+        return (keywordMatchRatio >= 0.7) || (topicMatchCount >= 3 && topicMatchRatio >= 0.4);
       });
 
       if (!alreadyPublished) {
