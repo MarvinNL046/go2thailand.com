@@ -86,6 +86,7 @@ export default function App({ Component, pageProps }: AppProps) {
       <GoogleConsent />
       <ToastProvider>
         <div className="min-h-screen flex flex-col overflow-x-hidden">
+          <PushBanner />
           <Header />
           <main className="flex-grow overflow-x-hidden">
             <Component {...pageProps} />
@@ -94,7 +95,6 @@ export default function App({ Component, pageProps }: AppProps) {
           <CookieConsent />
           <FeedbackRibbon />
           <ExitIntentPopup />
-          <PushBanner />
         </div>
       </ToastProvider>
     </>
