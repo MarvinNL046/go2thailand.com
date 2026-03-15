@@ -1,0 +1,158 @@
+{
+  "seo": {
+    "title": "Phang Nga Province, Thailand — Complete Guide 2026",
+    "metaDescription": "Everything about Phang Nga Province: James Bond Island, Khao Lak, Similan Islands, and Ao Phang Nga National Park. Area: 4,170 km², population: 266,000. Plan your visit.",
+    "slug": "phang-nga"
+  },
+  "provinceSlug": "phang-nga",
+  "provinceName": "Phang Nga",
+  "provinceNameThai": "พังงา",
+  "region": "southern",
+  "capital": "Phang Nga",
+  "area": 4170,
+  "population": 266296,
+  "populationYear": 2023,
+  "districts": 8,
+  "coordinates": { "lat": 8.4509, "lng": 98.5299 },
+  "overview": "Phang Nga is a largely undeveloped southern province straddling the narrow Malay Peninsula between the Andaman Sea and the Gulf of Thailand. Famous worldwide for the dramatic limestone karst scenery of Phang Nga Bay — immortalised as the setting of the 1974 James Bond film 'The Man with the Golden Gun' — the province also encompasses Khao Lak, the Andaman coast's most family-friendly beach resort area, and the world-class dive destinations of the Similan and Surin island chains. Despite its proximity to Phuket, Phang Nga retains a quieter, less commercialised character, with vast mangrove forests, sea caves, and fishing villages largely intact.",
+  "geography": "Phang Nga covers 4,170 km² and consists of a narrow coastal strip backed by jungle-clad mountains. The western coast faces the Andaman Sea with long stretches of beach around Khao Lak and Takua Pa. The southern portion opens into Phang Nga Bay, a shallow marine environment studded with over 40 limestone islands rising vertically from the sea. Offshore lie the Similan Islands (80 km west) and the Surin Islands (100 km northwest), both remote national marine parks in the open Andaman Sea. The province borders Myanmar's Andaman coast to the northwest.",
+  "highlights": [
+    "Phang Nga Bay (Ao Phang Nga National Park) — dramatic karst limestone islands including Ko Tapu (James Bond Island), sea caves, and the floating Muslim village of Ko Panyi",
+    "Khao Lak — 30 km of uncrowded beaches with calm seas, family-friendly resorts, and the closest departure point for the Similan Islands",
+    "Similan Islands National Marine Park — consistently ranked among the world's top dive and snorkel destinations with pristine coral reefs and abundant marine life",
+    "Surin Islands — remote national marine park with some of Thailand's best untouched reefs, manta ray cleaning stations, and encounters with Moken sea nomads",
+    "Ban Nam Khem Tsunami Memorial — solemn free-entry memorial park honouring victims of the 2004 Indian Ocean tsunami, one of Thailand's most important commemorative sites",
+    "Wat Suwan Khuha (Monkey Cave Temple) — a revered Buddhist cave temple 10 km from Phang Nga town with a 15-meter reclining Buddha surrounded by wild macaques",
+    "Sea kayaking through mangrove tunnels and hidden lagoons (hongs) only accessible at low tide",
+    "Takua Pa Old Town — a historic Sino-Portuguese shophouse district preserving Hokkien-Chinese heritage dating back to the tin-mining era"
+  ],
+  "bestTimeToVisit": {
+    "peak": "Nov–Apr: The Andaman dry season brings calm seas, sunshine, and excellent visibility for diving and snorkelling. The Similan and Surin Islands are open (mid-Oct to mid-May). Peak crowds and highest prices Dec–Jan.",
+    "shoulder": "Oct–Nov: The transition month of October can bring occasional rain but seas begin to calm. Good deals before peak season begins. Similan Islands reopen mid-October.",
+    "lowSeason": "May–Oct: Southwest monsoon brings heavy swells and rain to the Andaman coast. The Similan and Surin Islands close. Khao Lak beaches are rough and unsafe for swimming. Most resorts discount 30–50% or close entirely.",
+    "recommendation": "Visit November to April for ideal beach and diving conditions. December to February is the absolute prime season. Avoid May to October entirely for Khao Lak and island trips — the monsoon makes sea activities unsafe."
+  },
+  "topAttractions": [
+    {
+      "name": "Ao Phang Nga National Park & James Bond Island",
+      "description": "A UNESCO-worthy seascape of 42 limestone karst islands rising from shallow emerald waters. The highlight is Ko Tapu (James Bond Island), the needle-shaped rock made famous in 'The Man with the Golden Gun' (1974). Tours combine kayaking through sea caves, a visit to Ko Panyi floating village, and stops at cave temples. Most tours depart from Phang Nga town or Phuket.",
+      "type": "national_park",
+      "entranceFee": "300 THB (~$9 USD) national park fee per person; usually included in tour prices",
+      "googleMapsUrl": "https://maps.google.com/?q=Ao+Phang+Nga+National+Park+Thailand",
+      "sources": [
+        {"sourceName": "Ticket2Attraction", "sourceUrl": "https://www.ticket2attraction.com/blogs/james-bond-island-tours/", "lastVerified": "2026-03-16"},
+        {"sourceName": "Voyage in Style", "sourceUrl": "https://voyageinstyle.net/thailand/how-to-visit-phang-nga-bay-and-james-bond-island/", "lastVerified": "2026-03-16"}
+      ]
+    },
+    {
+      "name": "Similan Islands National Marine Park",
+      "description": "Nine granite islands 80 km offshore from Khao Lak, consistently ranked among the world's top dive sites. Crystal-clear visibility up to 30 meters, vibrant coral gardens, whale sharks, manta rays, and sea turtles. Day trips depart from Thap Lamu Pier near Khao Lak by speedboat (75 min). Open mid-October to mid-May only.",
+      "type": "national_park",
+      "entranceFee": "500 THB adults (~$14 USD), 250 THB children; additional diver fee applies. Usually included in day-trip packages.",
+      "googleMapsUrl": "https://maps.google.com/?q=Similan+Islands+National+Park+Thailand",
+      "sources": [
+        {"sourceName": "Go2Similan", "sourceUrl": "https://go2similan.com/similans-surins-national-park-fees-entry-requirements/", "lastVerified": "2026-03-16"},
+        {"sourceName": "Pullman Khao Lak", "sourceUrl": "https://www.pullmankhaolakresort.com/pullman-khao-lak-resort/khao-lak-attractions/similan-islands/", "lastVerified": "2026-03-16"}
+      ]
+    },
+    {
+      "name": "Khao Lak Beaches",
+      "description": "A 30-km stretch of uncrowded sandy beaches along the Andaman coast including Bang Niang, Khuk Khak, and Nang Thong beaches. Far less developed than Phuket, with a relaxed family-friendly atmosphere, beachfront resorts, and excellent food. The calm, clear waters (Nov–Apr) are ideal for swimming. Home to the closest pier to the Similan Islands.",
+      "type": "beach",
+      "entranceFee": "Free",
+      "googleMapsUrl": "https://maps.google.com/?q=Khao+Lak+Beach+Phang+Nga+Thailand",
+      "sources": [
+        {"sourceName": "Khao Lak Center", "sourceUrl": "https://www.khaolakcenter.com/how-to-get-from-phuket-airport-to-khao-lak/", "lastVerified": "2026-03-16"}
+      ]
+    },
+    {
+      "name": "Surin Islands National Marine Park",
+      "description": "Five islands 100 km northwest of Khao Lak in open Andaman waters — more remote and less visited than the Similans. Renowned for manta ray cleaning stations, untouched reefs, and encounters with Moken (sea nomad) communities. Open mid-October to mid-May. Primarily reached via liveaboard dive trips or chartered speedboats from Khao Lak.",
+      "type": "national_park",
+      "entranceFee": "500 THB adults (~$14 USD), 250 THB children",
+      "googleMapsUrl": "https://maps.google.com/?q=Surin+Islands+National+Park+Thailand",
+      "sources": [
+        {"sourceName": "Aussie Divers Phuket", "sourceUrl": "https://www.aussiediversphuket.com/what-are-the-similan-and-surin-island-national-park-fees/", "lastVerified": "2026-03-16"}
+      ]
+    },
+    {
+      "name": "Wat Suwan Khuha (Monkey Cave Temple)",
+      "description": "A sacred Buddhist cave temple carved into a limestone cliff 10 km southeast of Phang Nga town. Inside is a magnificent 15-meter reclining Buddha and several standing images. Wild macaques roam the grounds freely — fruit and nuts can be purchased to feed them. Easy half-day trip from Phang Nga town or Phuket.",
+      "type": "temple",
+      "entranceFee": "20–100 THB (donation-based; foreigners typically 100 THB)",
+      "googleMapsUrl": "https://maps.google.com/?q=Wat+Suwan+Khuha+Phang+Nga+Thailand",
+      "sources": [
+        {"sourceName": "Forever Vacation", "sourceUrl": "https://forevervacation.com/phuket/wat-suwan-kuha-cave-temple", "lastVerified": "2026-03-16"},
+        {"sourceName": "Chris and Wren's World", "sourceUrl": "https://chrisandwrensworld.com/wat-suwan-khuha/", "lastVerified": "2026-03-16"}
+      ]
+    },
+    {
+      "name": "Ban Nam Khem Tsunami Memorial Park",
+      "description": "A solemn open-air memorial park in the village hardest hit by the 2004 Indian Ocean tsunami, which killed over 5,000 people in Phang Nga province alone. Features a curved wall inscribed with victims' names, a Golden Buddha statue, and sea views. The adjacent tsunami museum (opened 2022) documents the disaster and Thailand's disaster-preparedness response. 25 km north of Khao Lak.",
+      "type": "memorial",
+      "entranceFee": "Free, open daily 8:00–20:00",
+      "googleMapsUrl": "https://maps.google.com/?q=Ban+Nam+Khem+Tsunami+Memorial+Phang+Nga+Thailand",
+      "sources": [
+        {"sourceName": "Pipeaway", "sourceUrl": "https://www.pipeaway.com/ban-nam-khem-tsunami-memorial-park-khao-lak/", "lastVerified": "2026-03-16"},
+        {"sourceName": "Khao Lak Center", "sourceUrl": "https://khaolakcenter.com/tsunami-memorial-sites-in-khao-lak/", "lastVerified": "2026-03-16"}
+      ]
+    }
+  ],
+  "localFood": [
+    "Gaeng Som Phang Nga — tangy southern-style sour curry made with locally caught fish and tamarind unique to the region",
+    "Kaeng Tai Pla — pungent southern curry made with fermented fish innards (tai pla), vegetables, and bamboo shoots; intensely flavoured and found throughout the province",
+    "Kaeng Kati Pu Nim — coconut cream curry with soft-shell crab, a Phang Nga specialty served at old-town restaurants",
+    "Khanom Tao So — a traditional mung bean cake filled with sweet bean paste, the most iconic dessert of Takua Pa district",
+    "Khanom Krok Takua Pa — sugarless coconut rice pancakes cooked in a cast-iron mold; a regional variation distinct from the sweeter Bangkok version",
+    "Dim sum and Hokkien noodles (Takua Pa Old Town) — authentic Chinese-Hokkien dishes preserved by Takua Pa's historic Sino-Thai community, including mi suea stir-fried noodles and steamed buns",
+    "Satay and Massaman Curry — rich Muslim-influenced dishes with turmeric, cumin, and cinnamon reflecting the province's Malay and Indian culinary heritage",
+    "Fresh Andaman seafood — grilled river prawns, steamed mangrove crabs, and whole fish at beachside restaurants from Khao Lak to Phang Nga Bay piers"
+  ],
+  "culture": "Phang Nga is a cultural crossroads shaped by Sino-Thai tin miners, Malay Muslim fishing communities, and Moken sea nomads. The historic town of Takua Pa preserves one of Thailand's best-maintained Hokkien-Chinese shophouse districts, with century-old family businesses still operating. Islam is prominent in coastal communities around Phang Nga Bay, including Ko Panyi — a floating village of some 200 families built entirely on stilts above the bay. The 2004 tsunami, which devastated the coastline, left a profound mark on local identity, and annual memorial ceremonies draw visitors alongside survivors.",
+  "gettingThere": "Phang Nga province has no commercial airport of its own. The main gateway is Phuket International Airport (HKT), approximately 80 km south of Phang Nga town and 90 km south of Khao Lak. From Phuket Airport, private transfers to Khao Lak take 1 hour 15 minutes (1,200–1,500 THB by taxi). Minivan services run every few hours (approximately 350–500 THB). From Bangkok, Thai Airways and AirAsia operate frequent flights to Phuket (1.5 hrs, from 1,500 THB). By bus from Bangkok's Southern Terminal, the journey to Khao Lak or Phang Nga town takes approximately 12–14 hours (500–900 THB). Krabi Airport (KBV) is an alternative entry point, roughly 100 km east of Phang Nga town.",
+  "gettingAround": "Phang Nga province has no public transport system worth relying on. Renting a scooter (250–350 THB/day) or car (1,000–1,500 THB/day) is the most practical option for exploring independently between Khao Lak, Phang Nga town, and surrounding attractions. Grab is available in limited areas around Khao Lak. For island excursions, boats depart from Thap Lamu Pier (Khao Lak area) to the Similan Islands and from Tha Dan Pier (Phang Nga town) for Phang Nga Bay tours. Tour operators in Khao Lak and Phuket organise day trips to all major attractions with hotel pickup included.",
+  "travelTips": [
+    "Book Similan Islands day trips in advance during peak season (Dec–Feb) — boats fill quickly and operators can sell out weeks ahead",
+    "The Similan and Surin Islands are closed May to mid-October — plan accordingly or choose a different destination",
+    "Khao Lak is the best base for Similan Islands access — far closer than Phuket and with a more relaxed atmosphere",
+    "Phang Nga Bay tours can be booked from both Phuket (slightly cheaper) and from Phang Nga town piers (shorter boat ride)",
+    "Dress respectfully at Wat Suwan Khuha — cover shoulders and knees; sarongs are usually available to borrow",
+    "The Ban Nam Khem Tsunami Memorial is free but carry water — there is little shade and the midday heat is intense",
+    "Rent a scooter or car in Khao Lak for flexibility — public transport is almost non-existent between attractions",
+    "Sea conditions in the Andaman can deteriorate quickly outside peak season — check weather forecasts before booking boat trips"
+  ],
+  "neighboringProvinces": [
+    { "name": "Ranong", "slug": "ranong" },
+    { "name": "Surat Thani", "slug": "surat-thani" },
+    { "name": "Krabi", "slug": "krabi" },
+    { "name": "Phuket", "slug": "phuket" }
+  ],
+  "cities": [
+    {
+      "name": "Khao Lak",
+      "slug": "khao-lak",
+      "hasCluster": false,
+      "hasCityPage": false
+    },
+    {
+      "name": "Phang Nga Town",
+      "slug": "phang-nga",
+      "hasCluster": false,
+      "hasCityPage": false
+    }
+  ],
+  "generatedAt": "2026-03-16",
+  "lastUpdated": "2026-03-16",
+  "sources": [
+    {"sourceName": "Wikipedia — Phang Nga Province", "sourceUrl": "https://en.wikipedia.org/wiki/Phang_Nga_province", "lastVerified": "2026-03-16"},
+    {"sourceName": "CityPopulation.de — Phang Nga", "sourceUrl": "https://www.citypopulation.de/en/thailand/prov/admin/southern/82__phang_nga/", "lastVerified": "2026-03-16"},
+    {"sourceName": "Latitude.to — Phang Nga coordinates", "sourceUrl": "https://latitude.to/map/th/thailand/cities/phang-nga", "lastVerified": "2026-03-16"},
+    {"sourceName": "Ticket2Attraction — James Bond Island Tours", "sourceUrl": "https://www.ticket2attraction.com/blogs/james-bond-island-tours/", "lastVerified": "2026-03-16"},
+    {"sourceName": "Go2Similan — National Park Fees", "sourceUrl": "https://go2similan.com/similans-surins-national-park-fees-entry-requirements/", "lastVerified": "2026-03-16"},
+    {"sourceName": "Forever Vacation — Wat Suwan Khuha", "sourceUrl": "https://forevervacation.com/phuket/wat-suwan-kuha-cave-temple", "lastVerified": "2026-03-16"},
+    {"sourceName": "Pipeaway — Ban Nam Khem Memorial", "sourceUrl": "https://www.pipeaway.com/ban-nam-khem-tsunami-memorial-park-khao-lak/", "lastVerified": "2026-03-16"},
+    {"sourceName": "Michelin Guide — Takua Pa Food", "sourceUrl": "https://guide.michelin.com/en/article/features/on-the-culinary-trail-taste-of-history-at-takua-pa-phang-nga-province", "lastVerified": "2026-03-16"},
+    {"sourceName": "Andaman Sea Kayak — Phang Nga Culture", "sourceUrl": "https://andamanseakayak.com/a-deeper-look-into-phang-nga-culture-traditions-and-local-stories/", "lastVerified": "2026-03-16"},
+    {"sourceName": "Khao Lak Center — Transport Guide", "sourceUrl": "https://www.khaolakcenter.com/how-to-get-from-phuket-airport-to-khao-lak/", "lastVerified": "2026-03-16"}
+  ]
+}
