@@ -1,0 +1,96 @@
+{
+  "seo": {
+    "title": "Where To Stay in Rayong: Best Areas & Beaches (2026)",
+    "metaDescription": "Find the best area to stay in Rayong. Ban Phe for Koh Samet access, Mae Ramphueng for uncrowded beaches, Koh Samet for island life. Honest neighborhood comparison.",
+    "slug": "rayong"
+  },
+  "citySlug": "rayong",
+  "cityName": "Rayong",
+  "intro": "Where you base in Rayong depends on what you're here for. Ban Phe is the practical choice for Koh Samet day-trippers — piers, cheap food, and budget guesthouses. Mae Ramphueng and Laem Mae Phim give you 12 km of quiet beach with far fewer tourists and lower mainland prices. Koh Samet island itself offers the full island-resort experience at a premium. Rayong City is the local's choice — cheapest accommodation and the most authentic Thai provincial life. Here's the honest breakdown.",
+  "neighborhoods": [
+    {
+      "name": "Ban Phe",
+      "description": "The coastal town that serves as the gateway to Koh Samet — a working pier town with five ferry departure points, a busy fish market, and the best concentration of seafood restaurants in Rayong province. Accommodation is basic: small guesthouses and family-run hotels clustered within walking distance of the piers. Not a resort destination but extremely practical. The morning seafood market (5-9 AM) is one of the best on the Eastern Seaboard. Ban Phe has genuine character — fishing boats, drying squid on racks in the sun, and Bangkok weekenders packing onto ferries — that distinguishes it from anonymous resort areas.",
+      "bestFor": "Koh Samet access, budget travelers & fresh seafood",
+      "priceLevel": "Budget",
+      "highlights": [
+        "Walking distance to Nuanthip and Sribanphe ferry piers — first boat to Koh Samet from 7 AM",
+        "Ban Phe Market: dried squid, shrimp paste, nam pla fish sauce at producer prices",
+        "Cheapest seafood restaurants in the Rayong coastal area",
+        "Morning fish market from 5 AM with overnight-catch seafood",
+        "Bus connections to Bangkok's Ekkamai Bus Terminal (3.5-4 hours)"
+      ],
+      "recommendedHotels": ["Ban Phe Guesthouse (various budget options near piers)"],
+      "walkingScore": "8/10",
+      "transportNotes": ["Hourly ferries to Koh Samet from 7 AM-6 PM (50-150 THB)", "Songthaew along the coast road to Mae Ramphueng and Laem Mae Phim (20-40 THB)", "Bus to Bangkok Ekkamai Terminal from Ban Phe (3.5-4 hrs, 160-200 THB)"],
+      "sources": [{"sourceName": "Phuket Ferry", "sourceUrl": "https://www.phuketferry.com/sribanphe-pier-rayong.html", "lastVerified": "2026-03-15"}]
+    },
+    {
+      "name": "Mae Ramphueng Beach & Laem Mae Phim",
+      "description": "The 12 km mainland beach strip stretching west from Ban Phe to the Laem Mae Phim headland — the best area for a genuine beach holiday in Rayong without the crowds or premium prices of Koh Samet. Mae Ramphueng beach is so long that it never feels crowded even on Thai holiday weekends. The water is calm and shallow — ideal for families. A string of beachside restaurants and resorts line Route 3183 along the coast. Laem Mae Phim at the southern end has the Rayong Marriott Resort and a cluster of upmarket properties as well as the pier for speedboats to Koh Munnork island.",
+      "bestFor": "Beach holidays, families & value accommodation",
+      "priceLevel": "Budget to Luxury",
+      "highlights": [
+        "12 km of beach — almost always less crowded than any comparable Thai beach",
+        "Calm, shallow Gulf water — ideal for families and non-swimmers",
+        "Rayong Marriott Resort on Laem Mae Phim Bay — the best mainland luxury option",
+        "Speedboat access to Koh Munnork island from Mae Phim pier",
+        "Sunset viewpoint at Laem Mae Phim headland with sea and island views"
+      ],
+      "recommendedHotels": ["Mooban Talay Resort", "Wang Gaew Resort", "Rayong Marriott Resort & Spa"],
+      "walkingScore": "5/10",
+      "transportNotes": ["Songthaew from Ban Phe along Route 3183 (20-40 THB)", "Rental scooter recommended (250-350 THB/day) for exploring the full 12 km stretch", "Laem Mae Phim speedboats to Koh Munnork (500-800 THB return)"],
+      "sources": [{"sourceName": "TripAdvisor", "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g297935-d7812830-Reviews-Mae_Ramphueng_Beach-Rayong_Rayong_Province.html", "lastVerified": "2026-03-15"}]
+    },
+    {
+      "name": "Koh Samet Island",
+      "description": "A national park island 45 minutes by ferry from Ban Phe with brilliant white-sand beaches and the island-resort atmosphere that draws most foreign visitors to Rayong province. Hat Sai Kaew (White Sand Beach) on the north is the most developed with the most restaurants, bars, fire shows, and accommodation. Moving south, beaches become progressively quieter: Ao Phai is best for snorkeling, Ao Cho and Ao Nuan are secluded, and Ao Prao on the west coast offers the exclusive Le Vimarn resort and the island's only sunset views. Prices on the island are 30-60% higher than equivalent mainland accommodation — you're paying for the island atmosphere. Everything from food to bottled water is more expensive because it all comes by boat.",
+      "bestFor": "Island atmosphere, white sand beaches & snorkeling",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "Hat Sai Kaew — brilliant white quartz sand and the island's main beach scene",
+        "Ao Phai — best snorkeling beach on Koh Samet",
+        "Ao Prao (west coast) — only beach with sunset views, exclusive Le Vimarn resort",
+        "Fire shows every evening at Hat Sai Kaew beach bars",
+        "National park island — limited development keeps the natural environment relatively intact"
+      ],
+      "recommendedHotels": ["Samed Cabana Resort (Hat Sai Kaew)", "Malibu Garden Resort (Ao Phai)", "Ao Phai Hut (budget, Ao Phai)", "Le Vimarn Cottages & Spa (Ao Prao, luxury)"],
+      "walkingScore": "7/10",
+      "transportNotes": ["Ferry from Ban Phe: slow (50-70 THB, 40 min) or catamaran (150 THB, 15 min)", "National park fee: 200 THB foreigners (valid 1 week)", "Songthaew between beaches on the island: 30-100 THB", "Motorcycle rental on island: 300-400 THB/day"],
+      "sources": [{"sourceName": "Feastography Blog", "sourceUrl": "https://www.feastographyblog.com/blog/koh-samet-travel-guide", "lastVerified": "2026-03-15"}]
+    },
+    {
+      "name": "Rayong City",
+      "description": "The provincial capital 30 km inland from Ban Phe — completely off the foreign tourist radar but the most authentic place to base yourself if you want to understand eastern Thai life. The Holiday Inn is the best hotel in the city; plenty of cheaper Thai-run hotels are available near the bus terminal. Rayong Aquarium, Sunthorn Phu Museum, fresh morning markets, and outstanding local restaurants are the draws. You'll need a rental car or motorbike to reach the coast (30 min drive), but you'll save 30-50% on accommodation versus the beach areas. The city's food scene is excellent and completely untouristy — pad kra pao, khao man gai, and local seafood at prices that barely register.",
+      "bestFor": "Budget travelers, local culture & provincial Thai authenticity",
+      "priceLevel": "Budget",
+      "highlights": [
+        "Holiday Inn & Suites — best international-standard hotel in Rayong at reasonable prices",
+        "Rayong Aquarium on Sukhumvit Road — 30 THB entrance, good for families",
+        "Morning fresh market near the city clock tower — opens 5 AM",
+        "Local restaurants serving eastern Thai food at genuine local prices (50-100 THB/dish)",
+        "Bus terminal with direct connections to Bangkok Ekkamai (3 hours, 160 THB)"
+      ],
+      "recommendedHotels": ["Holiday Inn & Suites Rayong City Centre"],
+      "walkingScore": "6/10",
+      "transportNotes": ["30 km to Ban Phe pier (30-40 min by car or motorbike)", "Songthaew from city center toward coast (20-30 THB, but infrequent)", "Rental car from Rayong recommended (from 800 THB/day) for coastal exploration", "Grab works reliably in Rayong City"],
+      "sources": [{"sourceName": "IHG", "sourceUrl": "https://rayong.holidayinn.com", "lastVerified": "2026-03-15"}]
+    }
+  ],
+  "generalTips": [
+    "For a Koh Samet-focused trip, base in Ban Phe to save money — stay on the mainland, take day trips, and avoid paying the Koh Samet island accommodation premium",
+    "Families with young children should choose Mae Ramphueng Beach on the mainland — calm, shallow water, long beach, far fewer crowds than Koh Samet, and 40-50% cheaper accommodation",
+    "Koh Samet is worth at least one overnight — the island transforms after day-trippers leave and the evening fire shows and quiet mornings are the highlights",
+    "Ao Prao (west coast, Koh Samet) is for couples seeking seclusion and sunset views — Le Vimarn is the only resort there and it's excellent",
+    "Avoid basing in Rayong City unless you have your own transport — without a car or motorbike, reaching the coast (30 km) is difficult and time-consuming",
+    "Book Koh Samet accommodation well ahead for New Year's, Songkran (April), and Thai public holidays — the island completely sells out"
+  ],
+  "generatedAt": "2026-03-15",
+  "lastUpdated": "2026-03-15",
+  "sources": [
+    {"sourceName": "TripAdvisor", "sourceUrl": "https://www.tripadvisor.com/Hotels-g297935-Rayong_Rayong_Province-Hotels.html", "lastVerified": "2026-03-15"},
+    {"sourceName": "Feastography Blog", "sourceUrl": "https://www.feastographyblog.com/blog/koh-samet-travel-guide", "lastVerified": "2026-03-15"},
+    {"sourceName": "Phuket Ferry", "sourceUrl": "https://www.phuketferry.com/sribanphe-pier-rayong.html", "lastVerified": "2026-03-15"},
+    {"sourceName": "IHG", "sourceUrl": "https://rayong.holidayinn.com", "lastVerified": "2026-03-15"}
+  ]
+}
