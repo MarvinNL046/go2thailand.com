@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-13T16:08:17.097Z",
+    "generated_at": "2026-03-14T20:08:41.173Z",
     "city_count": 33,
     "data_version": "1.0.0",
     "source_hashes": {
@@ -9,39 +9,39 @@
       "regions": "2e23cfc4f090",
       "nomad_enrichment": "95daf32a040f",
       "safety_enrichment": "503f4c44942b",
-      "city:ayutthaya": "0506b2fd2233",
-      "city:bangkok": "0af40f6b8271",
-      "city:bueng-kan": "7ccc24c26c86",
-      "city:chanthaburi": "1e3b1e98f9ed",
-      "city:chiang-khan": "8d674142d10c",
-      "city:chiang-mai": "fc546607d0a8",
-      "city:chiang-rai": "4b5fe184af1f",
-      "city:chumphon": "c81f4bfe9970",
-      "city:hat-yai": "898e4378754b",
-      "city:hua-hin": "d17ea840bb9c",
-      "city:kanchanaburi": "aaff5ea7b064",
-      "city:khon-kaen": "2580f1d3be5b",
-      "city:koh-samui": "8a9887a42af0",
-      "city:krabi": "6f0db06b2c4c",
-      "city:lampang": "b43d634be333",
-      "city:lopburi": "fcff05b79301",
-      "city:mae-hong-son": "a9190b1f19f7",
-      "city:mukdahan": "9a61113379b7",
-      "city:nakhon-phanom": "bdc318d97830",
-      "city:nakhon-ratchasima": "8573d29d5079",
-      "city:nakhon-si-thammarat": "fb1432db12e2",
-      "city:nong-khai": "d6d97cb40202",
-      "city:pai": "c69b58252d13",
-      "city:pattaya": "361dfbd0bc04",
-      "city:phitsanulok": "5fff331915c0",
-      "city:phuket": "b889e5467167",
-      "city:rayong": "b5f4c9fd7956",
-      "city:sukhothai": "9097e29b088e",
-      "city:surat-thani": "d9f8e57ef6dc",
-      "city:trang": "ce75b58674d5",
-      "city:trat": "9b4620c5f115",
-      "city:ubon-ratchathani": "37345be71f33",
-      "city:udon-thani": "d2f360ee2424"
+      "city:ayutthaya": "97cc5d33b826",
+      "city:bangkok": "6847ce40beef",
+      "city:bueng-kan": "ad705b9d3ac3",
+      "city:chanthaburi": "ae2c3f3660b1",
+      "city:chiang-khan": "83133cd32f2f",
+      "city:chiang-mai": "c512f8fb1ab5",
+      "city:chiang-rai": "fd5ab969070a",
+      "city:chumphon": "7f6ea9a8d41f",
+      "city:hat-yai": "18214d99f424",
+      "city:hua-hin": "74d830e1df59",
+      "city:kanchanaburi": "0971291d0769",
+      "city:khon-kaen": "e45388791930",
+      "city:koh-samui": "db55e642300d",
+      "city:krabi": "26723affce79",
+      "city:lampang": "2ac3dcf27a97",
+      "city:lopburi": "d28cfc093183",
+      "city:mae-hong-son": "d32174aa271c",
+      "city:mukdahan": "cc633a3ac359",
+      "city:nakhon-phanom": "a6a813f29c70",
+      "city:nakhon-ratchasima": "44db121df9b3",
+      "city:nakhon-si-thammarat": "f1a10a487285",
+      "city:nong-khai": "d9d3cd60003f",
+      "city:pai": "d68d435eb357",
+      "city:pattaya": "b8f25e790ef7",
+      "city:phitsanulok": "5aa42a2812c4",
+      "city:phuket": "4821a793808a",
+      "city:rayong": "4323723c46f4",
+      "city:sukhothai": "5d7ce7931432",
+      "city:surat-thani": "0d85eb43d481",
+      "city:trang": "7cd25ed2ba7f",
+      "city:trat": "56c380e1dc96",
+      "city:ubon-ratchathani": "0f8ba0240c8c",
+      "city:udon-thani": "85e3b965ee32"
     },
     "weather_coverage": 10,
     "transport_routes_count": 245,
@@ -54,7 +54,14 @@
       "slug": "ayutthaya",
       "name": {
         "en": "Ayutthaya",
-        "nl": "Ayutthaya"
+        "nl": "Ayutthaya",
+        "ja": "アユタヤ",
+        "ko": "아유타야",
+        "th": "อยุธยา",
+        "de": "Ayutthaya",
+        "fr": "Ayutthaya",
+        "ru": "Ayutthaya",
+        "zh": "Ayutthaya"
       },
       "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
       "region": {
@@ -247,7 +254,14 @@
       "slug": "bangkok",
       "name": {
         "en": "Bangkok",
-        "nl": "Bangkok"
+        "nl": "Bangkok",
+        "ja": "バンコク",
+        "ko": "방콕",
+        "th": "กรุงเทพฯ",
+        "de": "Bangkok",
+        "fr": "Bangkok",
+        "ru": "Бангкок",
+        "zh": "曼谷"
       },
       "image": "/images/cities/bangkok/downtown-bangkok.webp",
       "region": {
@@ -448,7 +462,14 @@
       "slug": "bueng-kan",
       "name": {
         "en": "Bueng Kan",
-        "nl": "Bueng Kan"
+        "nl": "Bueng Kan",
+        "ja": "ブンカーン",
+        "ko": "붕칸",
+        "th": "บึงกาฬ",
+        "de": "Bueng Kan",
+        "fr": "Bueng Kan",
+        "ru": "Буэн Кан",
+        "zh": "布恩干"
       },
       "image": "/images/cities/bangkok/downtown-bangkok.webp",
       "region": null,
@@ -555,7 +576,14 @@
       "slug": "chanthaburi",
       "name": {
         "en": "Chanthaburi",
-        "nl": "Chanthaburi"
+        "nl": "Chanthaburi",
+        "ja": "チャンタブリー",
+        "ko": "찬타부리",
+        "th": "จันทบุรี",
+        "de": "Chanthaburi",
+        "fr": "Chanthaburi",
+        "ru": "Chanthaburi",
+        "zh": "Chanthaburi"
       },
       "image": "/images/cities/bangkok/downtown-bangkok.webp",
       "region": {
@@ -671,7 +699,14 @@
       "slug": "chiang-khan",
       "name": {
         "en": "Chiang Khan",
-        "nl": "Chiang Khan"
+        "nl": "Chiang Khan",
+        "ja": "チエンカーン",
+        "ko": "치앙칸",
+        "th": "เชียงคาน",
+        "de": "Chiang Khan",
+        "fr": "Chiang Khan",
+        "ru": "Chiang Khan",
+        "zh": "Chiang Khan"
       },
       "image": "/images/cities/bangkok/downtown-bangkok.webp",
       "region": null,
@@ -778,7 +813,14 @@
       "slug": "chiang-mai",
       "name": {
         "en": "Chiang Mai",
-        "nl": "Chiang Mai"
+        "nl": "Chiang Mai",
+        "ja": "チェンマイ",
+        "ko": "치앙마이",
+        "th": "เชียงใหม่",
+        "de": "Chiang Mai",
+        "fr": "Chiang Mai",
+        "ru": "Чиангмай",
+        "zh": "清迈"
       },
       "image": "/images/cities/chiangmai/chiang-mai-park.webp",
       "region": {
@@ -976,7 +1018,14 @@
       "slug": "chiang-rai",
       "name": {
         "en": "Chiang Rai",
-        "nl": "Chiang Rai"
+        "nl": "Chiang Rai",
+        "ja": "チェンライ",
+        "ko": "치앙라이",
+        "th": "เชียงราย",
+        "de": "Chiang Rai",
+        "fr": "Chiang Rai",
+        "ru": "Chiang Rai",
+        "zh": "清莱"
       },
       "image": "/images/cities/chiang-rai/chiang-rai-temple-front.webp",
       "region": {
@@ -1158,7 +1207,14 @@
       "slug": "chumphon",
       "name": {
         "en": "Chumphon",
-        "nl": "Chumphon"
+        "nl": "Chumphon",
+        "ja": "チュムポーン",
+        "ko": "춤폰",
+        "th": "ชุมพร",
+        "de": "Chumphon",
+        "fr": "Chumphon",
+        "ru": "Чумпхон",
+        "zh": "春蓬"
       },
       "image": "/images/cities/krabi/krabi-mountain-view.webp",
       "region": {
@@ -1273,7 +1329,14 @@
       "slug": "hat-yai",
       "name": {
         "en": "Hat Yai",
-        "nl": "Hat Yai"
+        "nl": "Hat Yai",
+        "ja": "ハジャイ",
+        "ko": "핫야이",
+        "th": "หาดใหญ่",
+        "de": "Hat Yai",
+        "fr": "Hat Yai",
+        "ru": "Hat Yai",
+        "zh": "Hat Yai"
       },
       "image": "/images/cities/bangkok/business-district-bangkok.webp",
       "region": {
@@ -1415,7 +1478,14 @@
       "slug": "hua-hin",
       "name": {
         "en": "Hua Hin",
-        "nl": "Hua Hin"
+        "nl": "Hua Hin",
+        "ja": "ホアヒン",
+        "ko": "후아힌",
+        "th": "หัวหิน",
+        "de": "Hua Hin",
+        "fr": "Hua Hin",
+        "ru": "Хуа-Хин",
+        "zh": "华欣"
       },
       "image": "/images/cities/phuket/phuket-old-town.webp",
       "region": {
@@ -1585,7 +1655,14 @@
       "slug": "kanchanaburi",
       "name": {
         "en": "Kanchanaburi",
-        "nl": "Kanchanaburi"
+        "nl": "Kanchanaburi",
+        "ja": "カンチャナブリー",
+        "ko": "칸차나부리",
+        "th": "กาญจนบุรี",
+        "de": "Kanchanaburi",
+        "fr": "Kanchanaburi",
+        "ru": "Kanchanaburi",
+        "zh": "Kanchanaburi"
       },
       "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
       "region": {
@@ -1750,7 +1827,14 @@
       "slug": "khon-kaen",
       "name": {
         "en": "Khon Kaen",
-        "nl": "Khon Kaen"
+        "nl": "Khon Kaen",
+        "ja": "コーンケーン",
+        "ko": "콘깬",
+        "th": "ขอนแก่น",
+        "de": "Khon Kaen",
+        "fr": "Khon Kaen",
+        "ru": "Кхон Каен",
+        "zh": "孔敬"
       },
       "image": "/images/cities/bangkok/downtown-bangkok.webp",
       "region": {
@@ -1868,7 +1952,14 @@
       "slug": "koh-samui",
       "name": {
         "en": "Koh Samui",
-        "nl": "Koh Samui"
+        "nl": "Koh Samui",
+        "ja": "サムイ島",
+        "ko": "코사무이",
+        "th": "เกาะสมุย",
+        "de": "Koh Samui",
+        "fr": "Koh Samui",
+        "ru": "Ко Самуи",
+        "zh": "苏梅岛"
       },
       "image": "/images/cities/phuket/phuket-old-town.webp",
       "region": {
@@ -2031,7 +2122,14 @@
       "slug": "krabi",
       "name": {
         "en": "Krabi",
-        "nl": "Krabi"
+        "nl": "Krabi",
+        "ja": "クラビ",
+        "ko": "끄라비",
+        "th": "กระบี่",
+        "de": "Krabi",
+        "fr": "Krabi",
+        "ru": "Краби",
+        "zh": "甲米"
       },
       "image": "/images/cities/krabi/krabi-mountain-view.webp",
       "region": {
@@ -2219,7 +2317,14 @@
       "slug": "lampang",
       "name": {
         "en": "Lampang",
-        "nl": "Lampang"
+        "nl": "Lampang",
+        "ja": "ランパーン",
+        "ko": "람빵",
+        "th": "ลำปาง",
+        "de": "Lampang",
+        "fr": "Lampang",
+        "ru": "Лампанг",
+        "zh": "兰邦"
       },
       "image": "/images/cities/chiangmai/chiang-mai-park.webp",
       "region": {
@@ -2333,7 +2438,14 @@
       "slug": "lopburi",
       "name": {
         "en": "Lopburi",
-        "nl": "Lopburi"
+        "nl": "Lopburi",
+        "ja": "ロッブリー",
+        "ko": "롭부리",
+        "th": "ลพบุรี",
+        "de": "Lopburi",
+        "fr": "Lopburi",
+        "ru": "Лопбури",
+        "zh": "罗布里"
       },
       "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
       "region": {
@@ -2447,7 +2559,14 @@
       "slug": "mae-hong-son",
       "name": {
         "en": "Mae Hong Son",
-        "nl": "Mae Hong Son"
+        "nl": "Mae Hong Son",
+        "ja": "メーホンソーン",
+        "ko": "매홍손",
+        "th": "แม่ฮ่องสอน",
+        "de": "Mae Hong Son",
+        "fr": "Mae Hong Son",
+        "ru": "Mae Hong Son",
+        "zh": "Mae Hong Son"
       },
       "image": "/images/cities/chiangmai/chiang-mai-park.webp",
       "region": {
@@ -2561,7 +2680,14 @@
       "slug": "mukdahan",
       "name": {
         "en": "Mukdahan",
-        "nl": "Mukdahan"
+        "nl": "Mukdahan",
+        "ja": "ムクダーハーン",
+        "ko": "묵다한",
+        "th": "มุกดาหาร",
+        "de": "Mukdahan",
+        "fr": "Mukdahan",
+        "ru": "Mukdahan",
+        "zh": "Mukdahan"
       },
       "image": "/images/cities/bangkok/downtown-bangkok.webp",
       "region": null,
@@ -2668,7 +2794,14 @@
       "slug": "nakhon-phanom",
       "name": {
         "en": "Nakhon Phanom",
-        "nl": "Nakhon Phanom"
+        "nl": "Nakhon Phanom",
+        "ja": "ナコーンパノム",
+        "ko": "나콘파놈",
+        "th": "นครพนม",
+        "de": "Nakhon Phanom",
+        "fr": "Nakhon Phanom",
+        "ru": "Nakhon Phanom",
+        "zh": "Nakhon Phanom"
       },
       "image": "/images/cities/bangkok/downtown-bangkok.webp",
       "region": null,
@@ -2776,7 +2909,14 @@
       "slug": "nakhon-ratchasima",
       "name": {
         "en": "Nakhon Ratchasima (Korat)",
-        "nl": "Nakhon Ratchasima (Korat)"
+        "nl": "Nakhon Ratchasima (Korat)",
+        "ja": "ナコーンラーチャシーマー（コラート）",
+        "ko": "나콘랏차시마 (코랏)",
+        "th": "นครราชสีมา",
+        "de": "Nakhon Ratchasima (Korat)",
+        "fr": "Nakhon Ratchasima (Korat)",
+        "ru": "Nakhon Ratchasima (Korat)",
+        "zh": "Nakhon Ratchasima (Korat)"
       },
       "image": "/images/cities/bangkok/downtown-bangkok.webp",
       "region": {
@@ -2896,7 +3036,14 @@
       "slug": "nakhon-si-thammarat",
       "name": {
         "en": "Nakhon Si Thammarat",
-        "nl": "Nakhon Si Thammarat"
+        "nl": "Nakhon Si Thammarat",
+        "ja": "ナコーンシータンマラート",
+        "ko": "나콘시탐마랏",
+        "th": "นครศรีธรรมราช",
+        "de": "Nakhon Si Thammarat",
+        "fr": "Nakhon Si Thammarat",
+        "ru": "Nakhon Si Thammarat",
+        "zh": "Nakhon Si Thammarat"
       },
       "image": "/images/cities/phuket/phuket-old-town.webp",
       "region": {
@@ -3012,7 +3159,14 @@
       "slug": "nong-khai",
       "name": {
         "en": "Nong Khai",
-        "nl": "Nong Khai"
+        "nl": "Nong Khai",
+        "ja": "ノーンカーイ",
+        "ko": "농카이",
+        "th": "หนองคาย",
+        "de": "Nong Khai",
+        "fr": "Nong Khai",
+        "ru": "Nong Khai",
+        "zh": "Nong Khai"
       },
       "image": "/images/cities/bangkok/downtown-bangkok.webp",
       "region": null,
@@ -3119,7 +3273,14 @@
       "slug": "pai",
       "name": {
         "en": "Pai",
-        "nl": "Pai"
+        "nl": "Pai",
+        "ja": "パーイ",
+        "ko": "빠이",
+        "th": "ปาย",
+        "de": "Pai",
+        "fr": "Pai",
+        "ru": "Pai",
+        "zh": "Pai"
       },
       "image": "/images/cities/chiangmai/chiang-mai-park.webp",
       "region": {
@@ -3264,7 +3425,14 @@
       "slug": "pattaya",
       "name": {
         "en": "Pattaya",
-        "nl": "Pattaya"
+        "nl": "Pattaya",
+        "ja": "パタヤ",
+        "ko": "파타야",
+        "th": "พัทยา",
+        "de": "Pattaya",
+        "fr": "Pattaya",
+        "ru": "Паттайя",
+        "zh": "芭堤雅"
       },
       "image": "/images/cities/pattaya/pattaya-sanctuary-truth.webp",
       "region": {
@@ -3458,7 +3626,14 @@
       "slug": "phitsanulok",
       "name": {
         "en": "Phitsanulok",
-        "nl": "Phitsanulok"
+        "nl": "Phitsanulok",
+        "ja": "ピッサヌローク",
+        "ko": "핏사눌록",
+        "th": "พิษณุโลก",
+        "de": "Phitsanulok",
+        "fr": "Phitsanulok",
+        "ru": "Phitsanulok",
+        "zh": "Phitsanulok"
       },
       "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
       "region": {
@@ -3573,7 +3748,14 @@
       "slug": "phuket",
       "name": {
         "en": "Phuket",
-        "nl": "Phuket"
+        "nl": "Phuket",
+        "ja": "プーケット",
+        "ko": "푸켓",
+        "th": "ภูเก็ต",
+        "de": "Phuket",
+        "fr": "Phuket",
+        "ru": "Пхукет",
+        "zh": "普吉岛"
       },
       "image": "/images/cities/phuket/phuket-old-town.webp",
       "region": {
@@ -3765,7 +3947,14 @@
       "slug": "rayong",
       "name": {
         "en": "Rayong",
-        "nl": "Rayong"
+        "nl": "Rayong",
+        "ja": "ラヨーン",
+        "ko": "라용",
+        "th": "ระยอง",
+        "de": "Rayong",
+        "fr": "Rayong",
+        "ru": "Rayong",
+        "zh": "罗勇"
       },
       "image": "/images/cities/phuket/phuket-old-town.webp",
       "region": {
@@ -3885,7 +4074,14 @@
       "slug": "sukhothai",
       "name": {
         "en": "Sukhothai",
-        "nl": "Sukhothai"
+        "nl": "Sukhothai",
+        "ja": "スコータイ",
+        "ko": "수코타이",
+        "th": "สุโขทัย",
+        "de": "Sukhothai",
+        "fr": "Sukhothai",
+        "ru": "Sukhothai",
+        "zh": "素可泰"
       },
       "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
       "region": {
@@ -4025,7 +4221,14 @@
       "slug": "surat-thani",
       "name": {
         "en": "Surat Thani",
-        "nl": "Surat Thani"
+        "nl": "Surat Thani",
+        "ja": "スラーターニー",
+        "ko": "수랏타니",
+        "th": "สุราษฎร์ธานี",
+        "de": "Surat Thani",
+        "fr": "Surat Thani",
+        "ru": "Surat Thani",
+        "zh": "Surat Thani"
       },
       "image": "/images/cities/phuket/phuket-old-town.webp",
       "region": {
@@ -4168,7 +4371,14 @@
       "slug": "trang",
       "name": {
         "en": "Trang",
-        "nl": "Trang"
+        "nl": "Trang",
+        "ja": "トラン",
+        "ko": "뜨랑",
+        "th": "ตรัง",
+        "de": "Trang",
+        "fr": "Trang",
+        "ru": "Trang",
+        "zh": "Trang"
       },
       "image": "/images/cities/krabi/krabi-mountain-view.webp",
       "region": {
@@ -4283,7 +4493,14 @@
       "slug": "trat",
       "name": {
         "en": "Trat",
-        "nl": "Trat"
+        "nl": "Trat",
+        "ja": "トラート",
+        "ko": "뜨랏",
+        "th": "ตราด",
+        "de": "Trat",
+        "fr": "Trat",
+        "ru": "Трат",
+        "zh": "特拉特"
       },
       "image": "/images/cities/phuket/phuket-old-town.webp",
       "region": {
@@ -4397,7 +4614,14 @@
       "slug": "ubon-ratchathani",
       "name": {
         "en": "Ubon Ratchathani",
-        "nl": "Ubon Ratchathani"
+        "nl": "Ubon Ratchathani",
+        "ja": "ウボンラーチャターニー",
+        "ko": "우본랏차타니",
+        "th": "อุบลราชธานี",
+        "de": "Ubon Ratchathani",
+        "fr": "Ubon Ratchathani",
+        "ru": "Ubon Ratchathani",
+        "zh": "Ubon Ratchathani"
       },
       "image": "/images/cities/bangkok/downtown-bangkok.webp",
       "region": {
@@ -4512,7 +4736,14 @@
       "slug": "udon-thani",
       "name": {
         "en": "Udon Thani",
-        "nl": "Udon Thani"
+        "nl": "Udon Thani",
+        "ja": "ウドーンターニー",
+        "ko": "우돈타니",
+        "th": "อุดรธานี",
+        "de": "Udon Thani",
+        "fr": "Udon Thani",
+        "ru": "Удон-Тхани",
+        "zh": "乌登他尼"
       },
       "image": "/images/cities/bangkok/downtown-bangkok.webp",
       "region": {
@@ -4639,7 +4870,14 @@
           "slug": "bueng-kan",
           "name": {
             "en": "Bueng Kan",
-            "nl": "Bueng Kan"
+            "nl": "Bueng Kan",
+            "ja": "ブンカーン",
+            "ko": "붕칸",
+            "th": "บึงกาฬ",
+            "de": "Bueng Kan",
+            "fr": "Bueng Kan",
+            "ru": "Буэн Кан",
+            "zh": "布恩干"
           },
           "value": 19,
           "rank": 1
@@ -4648,7 +4886,14 @@
           "slug": "nong-khai",
           "name": {
             "en": "Nong Khai",
-            "nl": "Nong Khai"
+            "nl": "Nong Khai",
+            "ja": "ノーンカーイ",
+            "ko": "농카이",
+            "th": "หนองคาย",
+            "de": "Nong Khai",
+            "fr": "Nong Khai",
+            "ru": "Nong Khai",
+            "zh": "Nong Khai"
           },
           "value": 19,
           "rank": 2
@@ -4657,7 +4902,14 @@
           "slug": "chanthaburi",
           "name": {
             "en": "Chanthaburi",
-            "nl": "Chanthaburi"
+            "nl": "Chanthaburi",
+            "ja": "チャンタブリー",
+            "ko": "찬타부리",
+            "th": "จันทบุรี",
+            "de": "Chanthaburi",
+            "fr": "Chanthaburi",
+            "ru": "Chanthaburi",
+            "zh": "Chanthaburi"
           },
           "value": 20,
           "rank": 3
@@ -4666,7 +4918,14 @@
           "slug": "chumphon",
           "name": {
             "en": "Chumphon",
-            "nl": "Chumphon"
+            "nl": "Chumphon",
+            "ja": "チュムポーン",
+            "ko": "춤폰",
+            "th": "ชุมพร",
+            "de": "Chumphon",
+            "fr": "Chumphon",
+            "ru": "Чумпхон",
+            "zh": "春蓬"
           },
           "value": 20,
           "rank": 4
@@ -4675,7 +4934,14 @@
           "slug": "lampang",
           "name": {
             "en": "Lampang",
-            "nl": "Lampang"
+            "nl": "Lampang",
+            "ja": "ランパーン",
+            "ko": "람빵",
+            "th": "ลำปาง",
+            "de": "Lampang",
+            "fr": "Lampang",
+            "ru": "Лампанг",
+            "zh": "兰邦"
           },
           "value": 20,
           "rank": 5
@@ -4684,7 +4950,14 @@
           "slug": "lopburi",
           "name": {
             "en": "Lopburi",
-            "nl": "Lopburi"
+            "nl": "Lopburi",
+            "ja": "ロッブリー",
+            "ko": "롭부리",
+            "th": "ลพบุรี",
+            "de": "Lopburi",
+            "fr": "Lopburi",
+            "ru": "Лопбури",
+            "zh": "罗布里"
           },
           "value": 20,
           "rank": 6
@@ -4693,7 +4966,14 @@
           "slug": "mae-hong-son",
           "name": {
             "en": "Mae Hong Son",
-            "nl": "Mae Hong Son"
+            "nl": "Mae Hong Son",
+            "ja": "メーホンソーン",
+            "ko": "매홍손",
+            "th": "แม่ฮ่องสอน",
+            "de": "Mae Hong Son",
+            "fr": "Mae Hong Son",
+            "ru": "Mae Hong Son",
+            "zh": "Mae Hong Son"
           },
           "value": 20,
           "rank": 7
@@ -4702,7 +4982,14 @@
           "slug": "mukdahan",
           "name": {
             "en": "Mukdahan",
-            "nl": "Mukdahan"
+            "nl": "Mukdahan",
+            "ja": "ムクダーハーン",
+            "ko": "묵다한",
+            "th": "มุกดาหาร",
+            "de": "Mukdahan",
+            "fr": "Mukdahan",
+            "ru": "Mukdahan",
+            "zh": "Mukdahan"
           },
           "value": 20,
           "rank": 8
@@ -4711,7 +4998,14 @@
           "slug": "nakhon-phanom",
           "name": {
             "en": "Nakhon Phanom",
-            "nl": "Nakhon Phanom"
+            "nl": "Nakhon Phanom",
+            "ja": "ナコーンパノム",
+            "ko": "나콘파놈",
+            "th": "นครพนม",
+            "de": "Nakhon Phanom",
+            "fr": "Nakhon Phanom",
+            "ru": "Nakhon Phanom",
+            "zh": "Nakhon Phanom"
           },
           "value": 20,
           "rank": 9
@@ -4720,7 +5014,14 @@
           "slug": "nakhon-si-thammarat",
           "name": {
             "en": "Nakhon Si Thammarat",
-            "nl": "Nakhon Si Thammarat"
+            "nl": "Nakhon Si Thammarat",
+            "ja": "ナコーンシータンマラート",
+            "ko": "나콘시탐마랏",
+            "th": "นครศรีธรรมราช",
+            "de": "Nakhon Si Thammarat",
+            "fr": "Nakhon Si Thammarat",
+            "ru": "Nakhon Si Thammarat",
+            "zh": "Nakhon Si Thammarat"
           },
           "value": 20,
           "rank": 10
@@ -4729,7 +5030,14 @@
           "slug": "pai",
           "name": {
             "en": "Pai",
-            "nl": "Pai"
+            "nl": "Pai",
+            "ja": "パーイ",
+            "ko": "빠이",
+            "th": "ปาย",
+            "de": "Pai",
+            "fr": "Pai",
+            "ru": "Pai",
+            "zh": "Pai"
           },
           "value": 20,
           "rank": 11
@@ -4738,7 +5046,14 @@
           "slug": "phitsanulok",
           "name": {
             "en": "Phitsanulok",
-            "nl": "Phitsanulok"
+            "nl": "Phitsanulok",
+            "ja": "ピッサヌローク",
+            "ko": "핏사눌록",
+            "th": "พิษณุโลก",
+            "de": "Phitsanulok",
+            "fr": "Phitsanulok",
+            "ru": "Phitsanulok",
+            "zh": "Phitsanulok"
           },
           "value": 20,
           "rank": 12
@@ -4747,7 +5062,14 @@
           "slug": "trang",
           "name": {
             "en": "Trang",
-            "nl": "Trang"
+            "nl": "Trang",
+            "ja": "トラン",
+            "ko": "뜨랑",
+            "th": "ตรัง",
+            "de": "Trang",
+            "fr": "Trang",
+            "ru": "Trang",
+            "zh": "Trang"
           },
           "value": 20,
           "rank": 13
@@ -4756,7 +5078,14 @@
           "slug": "ubon-ratchathani",
           "name": {
             "en": "Ubon Ratchathani",
-            "nl": "Ubon Ratchathani"
+            "nl": "Ubon Ratchathani",
+            "ja": "ウボンラーチャターニー",
+            "ko": "우본랏차타니",
+            "th": "อุบลราชธานี",
+            "de": "Ubon Ratchathani",
+            "fr": "Ubon Ratchathani",
+            "ru": "Ubon Ratchathani",
+            "zh": "Ubon Ratchathani"
           },
           "value": 20,
           "rank": 14
@@ -4765,7 +5094,14 @@
           "slug": "chiang-khan",
           "name": {
             "en": "Chiang Khan",
-            "nl": "Chiang Khan"
+            "nl": "Chiang Khan",
+            "ja": "チエンカーン",
+            "ko": "치앙칸",
+            "th": "เชียงคาน",
+            "de": "Chiang Khan",
+            "fr": "Chiang Khan",
+            "ru": "Chiang Khan",
+            "zh": "Chiang Khan"
           },
           "value": 23,
           "rank": 15
@@ -4774,7 +5110,14 @@
           "slug": "khon-kaen",
           "name": {
             "en": "Khon Kaen",
-            "nl": "Khon Kaen"
+            "nl": "Khon Kaen",
+            "ja": "コーンケーン",
+            "ko": "콘깬",
+            "th": "ขอนแก่น",
+            "de": "Khon Kaen",
+            "fr": "Khon Kaen",
+            "ru": "Кхон Каен",
+            "zh": "孔敬"
           },
           "value": 25,
           "rank": 16
@@ -4783,7 +5126,14 @@
           "slug": "nakhon-ratchasima",
           "name": {
             "en": "Nakhon Ratchasima (Korat)",
-            "nl": "Nakhon Ratchasima (Korat)"
+            "nl": "Nakhon Ratchasima (Korat)",
+            "ja": "ナコーンラーチャシーマー（コラート）",
+            "ko": "나콘랏차시마 (코랏)",
+            "th": "นครราชสีมา",
+            "de": "Nakhon Ratchasima (Korat)",
+            "fr": "Nakhon Ratchasima (Korat)",
+            "ru": "Nakhon Ratchasima (Korat)",
+            "zh": "Nakhon Ratchasima (Korat)"
           },
           "value": 25,
           "rank": 17
@@ -4792,7 +5142,14 @@
           "slug": "udon-thani",
           "name": {
             "en": "Udon Thani",
-            "nl": "Udon Thani"
+            "nl": "Udon Thani",
+            "ja": "ウドーンターニー",
+            "ko": "우돈타니",
+            "th": "อุดรธานี",
+            "de": "Udon Thani",
+            "fr": "Udon Thani",
+            "ru": "Удон-Тхани",
+            "zh": "乌登他尼"
           },
           "value": 25,
           "rank": 18
@@ -4801,7 +5158,14 @@
           "slug": "kanchanaburi",
           "name": {
             "en": "Kanchanaburi",
-            "nl": "Kanchanaburi"
+            "nl": "Kanchanaburi",
+            "ja": "カンチャナブリー",
+            "ko": "칸차나부리",
+            "th": "กาญจนบุรี",
+            "de": "Kanchanaburi",
+            "fr": "Kanchanaburi",
+            "ru": "Kanchanaburi",
+            "zh": "Kanchanaburi"
           },
           "value": 28,
           "rank": 19
@@ -4810,7 +5174,14 @@
           "slug": "rayong",
           "name": {
             "en": "Rayong",
-            "nl": "Rayong"
+            "nl": "Rayong",
+            "ja": "ラヨーン",
+            "ko": "라용",
+            "th": "ระยอง",
+            "de": "Rayong",
+            "fr": "Rayong",
+            "ru": "Rayong",
+            "zh": "罗勇"
           },
           "value": 28,
           "rank": 20
@@ -4819,7 +5190,14 @@
           "slug": "hua-hin",
           "name": {
             "en": "Hua Hin",
-            "nl": "Hua Hin"
+            "nl": "Hua Hin",
+            "ja": "ホアヒン",
+            "ko": "후아힌",
+            "th": "หัวหิน",
+            "de": "Hua Hin",
+            "fr": "Hua Hin",
+            "ru": "Хуа-Хин",
+            "zh": "华欣"
           },
           "value": 33,
           "rank": 21
@@ -4828,7 +5206,14 @@
           "slug": "koh-samui",
           "name": {
             "en": "Koh Samui",
-            "nl": "Koh Samui"
+            "nl": "Koh Samui",
+            "ja": "サムイ島",
+            "ko": "코사무이",
+            "th": "เกาะสมุย",
+            "de": "Koh Samui",
+            "fr": "Koh Samui",
+            "ru": "Ко Самуи",
+            "zh": "苏梅岛"
           },
           "value": 33,
           "rank": 22
@@ -4837,7 +5222,14 @@
           "slug": "trat",
           "name": {
             "en": "Trat",
-            "nl": "Trat"
+            "nl": "Trat",
+            "ja": "トラート",
+            "ko": "뜨랏",
+            "th": "ตราด",
+            "de": "Trat",
+            "fr": "Trat",
+            "ru": "Трат",
+            "zh": "特拉特"
           },
           "value": 33,
           "rank": 23
@@ -4846,7 +5238,14 @@
           "slug": "ayutthaya",
           "name": {
             "en": "Ayutthaya",
-            "nl": "Ayutthaya"
+            "nl": "Ayutthaya",
+            "ja": "アユタヤ",
+            "ko": "아유타야",
+            "th": "อยุธยา",
+            "de": "Ayutthaya",
+            "fr": "Ayutthaya",
+            "ru": "Ayutthaya",
+            "zh": "Ayutthaya"
           },
           "value": 40,
           "rank": 24
@@ -4855,7 +5254,14 @@
           "slug": "bangkok",
           "name": {
             "en": "Bangkok",
-            "nl": "Bangkok"
+            "nl": "Bangkok",
+            "ja": "バンコク",
+            "ko": "방콕",
+            "th": "กรุงเทพฯ",
+            "de": "Bangkok",
+            "fr": "Bangkok",
+            "ru": "Бангкок",
+            "zh": "曼谷"
           },
           "value": 40,
           "rank": 25
@@ -4864,7 +5270,14 @@
           "slug": "chiang-mai",
           "name": {
             "en": "Chiang Mai",
-            "nl": "Chiang Mai"
+            "nl": "Chiang Mai",
+            "ja": "チェンマイ",
+            "ko": "치앙마이",
+            "th": "เชียงใหม่",
+            "de": "Chiang Mai",
+            "fr": "Chiang Mai",
+            "ru": "Чиангмай",
+            "zh": "清迈"
           },
           "value": 40,
           "rank": 26
@@ -4873,7 +5286,14 @@
           "slug": "chiang-rai",
           "name": {
             "en": "Chiang Rai",
-            "nl": "Chiang Rai"
+            "nl": "Chiang Rai",
+            "ja": "チェンライ",
+            "ko": "치앙라이",
+            "th": "เชียงราย",
+            "de": "Chiang Rai",
+            "fr": "Chiang Rai",
+            "ru": "Chiang Rai",
+            "zh": "清莱"
           },
           "value": 40,
           "rank": 27
@@ -4882,7 +5302,14 @@
           "slug": "hat-yai",
           "name": {
             "en": "Hat Yai",
-            "nl": "Hat Yai"
+            "nl": "Hat Yai",
+            "ja": "ハジャイ",
+            "ko": "핫야이",
+            "th": "หาดใหญ่",
+            "de": "Hat Yai",
+            "fr": "Hat Yai",
+            "ru": "Hat Yai",
+            "zh": "Hat Yai"
           },
           "value": 40,
           "rank": 28
@@ -4891,7 +5318,14 @@
           "slug": "krabi",
           "name": {
             "en": "Krabi",
-            "nl": "Krabi"
+            "nl": "Krabi",
+            "ja": "クラビ",
+            "ko": "끄라비",
+            "th": "กระบี่",
+            "de": "Krabi",
+            "fr": "Krabi",
+            "ru": "Краби",
+            "zh": "甲米"
           },
           "value": 40,
           "rank": 29
@@ -4900,7 +5334,14 @@
           "slug": "pattaya",
           "name": {
             "en": "Pattaya",
-            "nl": "Pattaya"
+            "nl": "Pattaya",
+            "ja": "パタヤ",
+            "ko": "파타야",
+            "th": "พัทยา",
+            "de": "Pattaya",
+            "fr": "Pattaya",
+            "ru": "Паттайя",
+            "zh": "芭堤雅"
           },
           "value": 40,
           "rank": 30
@@ -4909,7 +5350,14 @@
           "slug": "phuket",
           "name": {
             "en": "Phuket",
-            "nl": "Phuket"
+            "nl": "Phuket",
+            "ja": "プーケット",
+            "ko": "푸켓",
+            "th": "ภูเก็ต",
+            "de": "Phuket",
+            "fr": "Phuket",
+            "ru": "Пхукет",
+            "zh": "普吉岛"
           },
           "value": 40,
           "rank": 31
@@ -4918,7 +5366,14 @@
           "slug": "sukhothai",
           "name": {
             "en": "Sukhothai",
-            "nl": "Sukhothai"
+            "nl": "Sukhothai",
+            "ja": "スコータイ",
+            "ko": "수코타이",
+            "th": "สุโขทัย",
+            "de": "Sukhothai",
+            "fr": "Sukhothai",
+            "ru": "Sukhothai",
+            "zh": "素可泰"
           },
           "value": 40,
           "rank": 32
@@ -4927,7 +5382,14 @@
           "slug": "surat-thani",
           "name": {
             "en": "Surat Thani",
-            "nl": "Surat Thani"
+            "nl": "Surat Thani",
+            "ja": "スラーターニー",
+            "ko": "수랏타니",
+            "th": "สุราษฎร์ธานี",
+            "de": "Surat Thani",
+            "fr": "Surat Thani",
+            "ru": "Surat Thani",
+            "zh": "Surat Thani"
           },
           "value": 40,
           "rank": 33
@@ -4942,7 +5404,14 @@
           "slug": "surat-thani",
           "name": {
             "en": "Surat Thani",
-            "nl": "Surat Thani"
+            "nl": "Surat Thani",
+            "ja": "スラーターニー",
+            "ko": "수랏타니",
+            "th": "สุราษฎร์ธานี",
+            "de": "Surat Thani",
+            "fr": "Surat Thani",
+            "ru": "Surat Thani",
+            "zh": "Surat Thani"
           },
           "value": 40,
           "rank": 1
@@ -4951,7 +5420,14 @@
           "slug": "sukhothai",
           "name": {
             "en": "Sukhothai",
-            "nl": "Sukhothai"
+            "nl": "Sukhothai",
+            "ja": "スコータイ",
+            "ko": "수코타이",
+            "th": "สุโขทัย",
+            "de": "Sukhothai",
+            "fr": "Sukhothai",
+            "ru": "Sukhothai",
+            "zh": "素可泰"
           },
           "value": 40,
           "rank": 2
@@ -4960,7 +5436,14 @@
           "slug": "phuket",
           "name": {
             "en": "Phuket",
-            "nl": "Phuket"
+            "nl": "Phuket",
+            "ja": "プーケット",
+            "ko": "푸켓",
+            "th": "ภูเก็ต",
+            "de": "Phuket",
+            "fr": "Phuket",
+            "ru": "Пхукет",
+            "zh": "普吉岛"
           },
           "value": 40,
           "rank": 3
@@ -4969,7 +5452,14 @@
           "slug": "pattaya",
           "name": {
             "en": "Pattaya",
-            "nl": "Pattaya"
+            "nl": "Pattaya",
+            "ja": "パタヤ",
+            "ko": "파타야",
+            "th": "พัทยา",
+            "de": "Pattaya",
+            "fr": "Pattaya",
+            "ru": "Паттайя",
+            "zh": "芭堤雅"
           },
           "value": 40,
           "rank": 4
@@ -4978,7 +5468,14 @@
           "slug": "krabi",
           "name": {
             "en": "Krabi",
-            "nl": "Krabi"
+            "nl": "Krabi",
+            "ja": "クラビ",
+            "ko": "끄라비",
+            "th": "กระบี่",
+            "de": "Krabi",
+            "fr": "Krabi",
+            "ru": "Краби",
+            "zh": "甲米"
           },
           "value": 40,
           "rank": 5
@@ -4987,7 +5484,14 @@
           "slug": "hat-yai",
           "name": {
             "en": "Hat Yai",
-            "nl": "Hat Yai"
+            "nl": "Hat Yai",
+            "ja": "ハジャイ",
+            "ko": "핫야이",
+            "th": "หาดใหญ่",
+            "de": "Hat Yai",
+            "fr": "Hat Yai",
+            "ru": "Hat Yai",
+            "zh": "Hat Yai"
           },
           "value": 40,
           "rank": 6
@@ -4996,7 +5500,14 @@
           "slug": "chiang-rai",
           "name": {
             "en": "Chiang Rai",
-            "nl": "Chiang Rai"
+            "nl": "Chiang Rai",
+            "ja": "チェンライ",
+            "ko": "치앙라이",
+            "th": "เชียงราย",
+            "de": "Chiang Rai",
+            "fr": "Chiang Rai",
+            "ru": "Chiang Rai",
+            "zh": "清莱"
           },
           "value": 40,
           "rank": 7
@@ -5005,7 +5516,14 @@
           "slug": "chiang-mai",
           "name": {
             "en": "Chiang Mai",
-            "nl": "Chiang Mai"
+            "nl": "Chiang Mai",
+            "ja": "チェンマイ",
+            "ko": "치앙마이",
+            "th": "เชียงใหม่",
+            "de": "Chiang Mai",
+            "fr": "Chiang Mai",
+            "ru": "Чиангмай",
+            "zh": "清迈"
           },
           "value": 40,
           "rank": 8
@@ -5014,7 +5532,14 @@
           "slug": "bangkok",
           "name": {
             "en": "Bangkok",
-            "nl": "Bangkok"
+            "nl": "Bangkok",
+            "ja": "バンコク",
+            "ko": "방콕",
+            "th": "กรุงเทพฯ",
+            "de": "Bangkok",
+            "fr": "Bangkok",
+            "ru": "Бангкок",
+            "zh": "曼谷"
           },
           "value": 40,
           "rank": 9
@@ -5023,7 +5548,14 @@
           "slug": "ayutthaya",
           "name": {
             "en": "Ayutthaya",
-            "nl": "Ayutthaya"
+            "nl": "Ayutthaya",
+            "ja": "アユタヤ",
+            "ko": "아유타야",
+            "th": "อยุธยา",
+            "de": "Ayutthaya",
+            "fr": "Ayutthaya",
+            "ru": "Ayutthaya",
+            "zh": "Ayutthaya"
           },
           "value": 40,
           "rank": 10
@@ -5032,7 +5564,14 @@
           "slug": "trat",
           "name": {
             "en": "Trat",
-            "nl": "Trat"
+            "nl": "Trat",
+            "ja": "トラート",
+            "ko": "뜨랏",
+            "th": "ตราด",
+            "de": "Trat",
+            "fr": "Trat",
+            "ru": "Трат",
+            "zh": "特拉特"
           },
           "value": 33,
           "rank": 11
@@ -5041,7 +5580,14 @@
           "slug": "koh-samui",
           "name": {
             "en": "Koh Samui",
-            "nl": "Koh Samui"
+            "nl": "Koh Samui",
+            "ja": "サムイ島",
+            "ko": "코사무이",
+            "th": "เกาะสมุย",
+            "de": "Koh Samui",
+            "fr": "Koh Samui",
+            "ru": "Ко Самуи",
+            "zh": "苏梅岛"
           },
           "value": 33,
           "rank": 12
@@ -5050,7 +5596,14 @@
           "slug": "hua-hin",
           "name": {
             "en": "Hua Hin",
-            "nl": "Hua Hin"
+            "nl": "Hua Hin",
+            "ja": "ホアヒン",
+            "ko": "후아힌",
+            "th": "หัวหิน",
+            "de": "Hua Hin",
+            "fr": "Hua Hin",
+            "ru": "Хуа-Хин",
+            "zh": "华欣"
           },
           "value": 33,
           "rank": 13
@@ -5059,7 +5612,14 @@
           "slug": "rayong",
           "name": {
             "en": "Rayong",
-            "nl": "Rayong"
+            "nl": "Rayong",
+            "ja": "ラヨーン",
+            "ko": "라용",
+            "th": "ระยอง",
+            "de": "Rayong",
+            "fr": "Rayong",
+            "ru": "Rayong",
+            "zh": "罗勇"
           },
           "value": 28,
           "rank": 14
@@ -5068,7 +5628,14 @@
           "slug": "kanchanaburi",
           "name": {
             "en": "Kanchanaburi",
-            "nl": "Kanchanaburi"
+            "nl": "Kanchanaburi",
+            "ja": "カンチャナブリー",
+            "ko": "칸차나부리",
+            "th": "กาญจนบุรี",
+            "de": "Kanchanaburi",
+            "fr": "Kanchanaburi",
+            "ru": "Kanchanaburi",
+            "zh": "Kanchanaburi"
           },
           "value": 28,
           "rank": 15
@@ -5077,7 +5644,14 @@
           "slug": "udon-thani",
           "name": {
             "en": "Udon Thani",
-            "nl": "Udon Thani"
+            "nl": "Udon Thani",
+            "ja": "ウドーンターニー",
+            "ko": "우돈타니",
+            "th": "อุดรธานี",
+            "de": "Udon Thani",
+            "fr": "Udon Thani",
+            "ru": "Удон-Тхани",
+            "zh": "乌登他尼"
           },
           "value": 25,
           "rank": 16
@@ -5086,7 +5660,14 @@
           "slug": "nakhon-ratchasima",
           "name": {
             "en": "Nakhon Ratchasima (Korat)",
-            "nl": "Nakhon Ratchasima (Korat)"
+            "nl": "Nakhon Ratchasima (Korat)",
+            "ja": "ナコーンラーチャシーマー（コラート）",
+            "ko": "나콘랏차시마 (코랏)",
+            "th": "นครราชสีมา",
+            "de": "Nakhon Ratchasima (Korat)",
+            "fr": "Nakhon Ratchasima (Korat)",
+            "ru": "Nakhon Ratchasima (Korat)",
+            "zh": "Nakhon Ratchasima (Korat)"
           },
           "value": 25,
           "rank": 17
@@ -5095,7 +5676,14 @@
           "slug": "khon-kaen",
           "name": {
             "en": "Khon Kaen",
-            "nl": "Khon Kaen"
+            "nl": "Khon Kaen",
+            "ja": "コーンケーン",
+            "ko": "콘깬",
+            "th": "ขอนแก่น",
+            "de": "Khon Kaen",
+            "fr": "Khon Kaen",
+            "ru": "Кхон Каен",
+            "zh": "孔敬"
           },
           "value": 25,
           "rank": 18
@@ -5104,7 +5692,14 @@
           "slug": "chiang-khan",
           "name": {
             "en": "Chiang Khan",
-            "nl": "Chiang Khan"
+            "nl": "Chiang Khan",
+            "ja": "チエンカーン",
+            "ko": "치앙칸",
+            "th": "เชียงคาน",
+            "de": "Chiang Khan",
+            "fr": "Chiang Khan",
+            "ru": "Chiang Khan",
+            "zh": "Chiang Khan"
           },
           "value": 23,
           "rank": 19
@@ -5113,7 +5708,14 @@
           "slug": "ubon-ratchathani",
           "name": {
             "en": "Ubon Ratchathani",
-            "nl": "Ubon Ratchathani"
+            "nl": "Ubon Ratchathani",
+            "ja": "ウボンラーチャターニー",
+            "ko": "우본랏차타니",
+            "th": "อุบลราชธานี",
+            "de": "Ubon Ratchathani",
+            "fr": "Ubon Ratchathani",
+            "ru": "Ubon Ratchathani",
+            "zh": "Ubon Ratchathani"
           },
           "value": 20,
           "rank": 20
@@ -5122,7 +5724,14 @@
           "slug": "trang",
           "name": {
             "en": "Trang",
-            "nl": "Trang"
+            "nl": "Trang",
+            "ja": "トラン",
+            "ko": "뜨랑",
+            "th": "ตรัง",
+            "de": "Trang",
+            "fr": "Trang",
+            "ru": "Trang",
+            "zh": "Trang"
           },
           "value": 20,
           "rank": 21
@@ -5131,7 +5740,14 @@
           "slug": "phitsanulok",
           "name": {
             "en": "Phitsanulok",
-            "nl": "Phitsanulok"
+            "nl": "Phitsanulok",
+            "ja": "ピッサヌローク",
+            "ko": "핏사눌록",
+            "th": "พิษณุโลก",
+            "de": "Phitsanulok",
+            "fr": "Phitsanulok",
+            "ru": "Phitsanulok",
+            "zh": "Phitsanulok"
           },
           "value": 20,
           "rank": 22
@@ -5140,7 +5756,14 @@
           "slug": "pai",
           "name": {
             "en": "Pai",
-            "nl": "Pai"
+            "nl": "Pai",
+            "ja": "パーイ",
+            "ko": "빠이",
+            "th": "ปาย",
+            "de": "Pai",
+            "fr": "Pai",
+            "ru": "Pai",
+            "zh": "Pai"
           },
           "value": 20,
           "rank": 23
@@ -5149,7 +5772,14 @@
           "slug": "nakhon-si-thammarat",
           "name": {
             "en": "Nakhon Si Thammarat",
-            "nl": "Nakhon Si Thammarat"
+            "nl": "Nakhon Si Thammarat",
+            "ja": "ナコーンシータンマラート",
+            "ko": "나콘시탐마랏",
+            "th": "นครศรีธรรมราช",
+            "de": "Nakhon Si Thammarat",
+            "fr": "Nakhon Si Thammarat",
+            "ru": "Nakhon Si Thammarat",
+            "zh": "Nakhon Si Thammarat"
           },
           "value": 20,
           "rank": 24
@@ -5158,7 +5788,14 @@
           "slug": "nakhon-phanom",
           "name": {
             "en": "Nakhon Phanom",
-            "nl": "Nakhon Phanom"
+            "nl": "Nakhon Phanom",
+            "ja": "ナコーンパノム",
+            "ko": "나콘파놈",
+            "th": "นครพนม",
+            "de": "Nakhon Phanom",
+            "fr": "Nakhon Phanom",
+            "ru": "Nakhon Phanom",
+            "zh": "Nakhon Phanom"
           },
           "value": 20,
           "rank": 25
@@ -5167,7 +5804,14 @@
           "slug": "mukdahan",
           "name": {
             "en": "Mukdahan",
-            "nl": "Mukdahan"
+            "nl": "Mukdahan",
+            "ja": "ムクダーハーン",
+            "ko": "묵다한",
+            "th": "มุกดาหาร",
+            "de": "Mukdahan",
+            "fr": "Mukdahan",
+            "ru": "Mukdahan",
+            "zh": "Mukdahan"
           },
           "value": 20,
           "rank": 26
@@ -5176,7 +5820,14 @@
           "slug": "mae-hong-son",
           "name": {
             "en": "Mae Hong Son",
-            "nl": "Mae Hong Son"
+            "nl": "Mae Hong Son",
+            "ja": "メーホンソーン",
+            "ko": "매홍손",
+            "th": "แม่ฮ่องสอน",
+            "de": "Mae Hong Son",
+            "fr": "Mae Hong Son",
+            "ru": "Mae Hong Son",
+            "zh": "Mae Hong Son"
           },
           "value": 20,
           "rank": 27
@@ -5185,7 +5836,14 @@
           "slug": "lopburi",
           "name": {
             "en": "Lopburi",
-            "nl": "Lopburi"
+            "nl": "Lopburi",
+            "ja": "ロッブリー",
+            "ko": "롭부리",
+            "th": "ลพบุรี",
+            "de": "Lopburi",
+            "fr": "Lopburi",
+            "ru": "Лопбури",
+            "zh": "罗布里"
           },
           "value": 20,
           "rank": 28
@@ -5194,7 +5852,14 @@
           "slug": "lampang",
           "name": {
             "en": "Lampang",
-            "nl": "Lampang"
+            "nl": "Lampang",
+            "ja": "ランパーン",
+            "ko": "람빵",
+            "th": "ลำปาง",
+            "de": "Lampang",
+            "fr": "Lampang",
+            "ru": "Лампанг",
+            "zh": "兰邦"
           },
           "value": 20,
           "rank": 29
@@ -5203,7 +5868,14 @@
           "slug": "chumphon",
           "name": {
             "en": "Chumphon",
-            "nl": "Chumphon"
+            "nl": "Chumphon",
+            "ja": "チュムポーン",
+            "ko": "춤폰",
+            "th": "ชุมพร",
+            "de": "Chumphon",
+            "fr": "Chumphon",
+            "ru": "Чумпхон",
+            "zh": "春蓬"
           },
           "value": 20,
           "rank": 30
@@ -5212,7 +5884,14 @@
           "slug": "chanthaburi",
           "name": {
             "en": "Chanthaburi",
-            "nl": "Chanthaburi"
+            "nl": "Chanthaburi",
+            "ja": "チャンタブリー",
+            "ko": "찬타부리",
+            "th": "จันทบุรี",
+            "de": "Chanthaburi",
+            "fr": "Chanthaburi",
+            "ru": "Chanthaburi",
+            "zh": "Chanthaburi"
           },
           "value": 20,
           "rank": 31
@@ -5221,7 +5900,14 @@
           "slug": "nong-khai",
           "name": {
             "en": "Nong Khai",
-            "nl": "Nong Khai"
+            "nl": "Nong Khai",
+            "ja": "ノーンカーイ",
+            "ko": "농카이",
+            "th": "หนองคาย",
+            "de": "Nong Khai",
+            "fr": "Nong Khai",
+            "ru": "Nong Khai",
+            "zh": "Nong Khai"
           },
           "value": 19,
           "rank": 32
@@ -5230,7 +5916,14 @@
           "slug": "bueng-kan",
           "name": {
             "en": "Bueng Kan",
-            "nl": "Bueng Kan"
+            "nl": "Bueng Kan",
+            "ja": "ブンカーン",
+            "ko": "붕칸",
+            "th": "บึงกาฬ",
+            "de": "Bueng Kan",
+            "fr": "Bueng Kan",
+            "ru": "Буэн Кан",
+            "zh": "布恩干"
           },
           "value": 19,
           "rank": 33
@@ -5245,7 +5938,14 @@
           "slug": "sukhothai",
           "name": {
             "en": "Sukhothai",
-            "nl": "Sukhothai"
+            "nl": "Sukhothai",
+            "ja": "スコータイ",
+            "ko": "수코타이",
+            "th": "สุโขทัย",
+            "de": "Sukhothai",
+            "fr": "Sukhothai",
+            "ru": "Sukhothai",
+            "zh": "素可泰"
           },
           "value": 0.649,
           "rank": 1
@@ -5254,7 +5954,14 @@
           "slug": "chiang-mai",
           "name": {
             "en": "Chiang Mai",
-            "nl": "Chiang Mai"
+            "nl": "Chiang Mai",
+            "ja": "チェンマイ",
+            "ko": "치앙마이",
+            "th": "เชียงใหม่",
+            "de": "Chiang Mai",
+            "fr": "Chiang Mai",
+            "ru": "Чиангмай",
+            "zh": "清迈"
           },
           "value": 0.647,
           "rank": 2
@@ -5263,7 +5970,14 @@
           "slug": "ayutthaya",
           "name": {
             "en": "Ayutthaya",
-            "nl": "Ayutthaya"
+            "nl": "Ayutthaya",
+            "ja": "アユタヤ",
+            "ko": "아유타야",
+            "th": "อยุธยา",
+            "de": "Ayutthaya",
+            "fr": "Ayutthaya",
+            "ru": "Ayutthaya",
+            "zh": "Ayutthaya"
           },
           "value": 0.626,
           "rank": 3
@@ -5272,7 +5986,14 @@
           "slug": "pattaya",
           "name": {
             "en": "Pattaya",
-            "nl": "Pattaya"
+            "nl": "Pattaya",
+            "ja": "パタヤ",
+            "ko": "파타야",
+            "th": "พัทยา",
+            "de": "Pattaya",
+            "fr": "Pattaya",
+            "ru": "Паттайя",
+            "zh": "芭堤雅"
           },
           "value": 0.625,
           "rank": 4
@@ -5281,7 +6002,14 @@
           "slug": "chiang-rai",
           "name": {
             "en": "Chiang Rai",
-            "nl": "Chiang Rai"
+            "nl": "Chiang Rai",
+            "ja": "チェンライ",
+            "ko": "치앙라이",
+            "th": "เชียงราย",
+            "de": "Chiang Rai",
+            "fr": "Chiang Rai",
+            "ru": "Chiang Rai",
+            "zh": "清莱"
           },
           "value": 0.618,
           "rank": 5
@@ -5290,7 +6018,14 @@
           "slug": "bangkok",
           "name": {
             "en": "Bangkok",
-            "nl": "Bangkok"
+            "nl": "Bangkok",
+            "ja": "バンコク",
+            "ko": "방콕",
+            "th": "กรุงเทพฯ",
+            "de": "Bangkok",
+            "fr": "Bangkok",
+            "ru": "Бангкок",
+            "zh": "曼谷"
           },
           "value": 0.594,
           "rank": 6
@@ -5299,7 +6034,14 @@
           "slug": "surat-thani",
           "name": {
             "en": "Surat Thani",
-            "nl": "Surat Thani"
+            "nl": "Surat Thani",
+            "ja": "スラーターニー",
+            "ko": "수랏타니",
+            "th": "สุราษฎร์ธานี",
+            "de": "Surat Thani",
+            "fr": "Surat Thani",
+            "ru": "Surat Thani",
+            "zh": "Surat Thani"
           },
           "value": 0.589,
           "rank": 7
@@ -5308,7 +6050,14 @@
           "slug": "hat-yai",
           "name": {
             "en": "Hat Yai",
-            "nl": "Hat Yai"
+            "nl": "Hat Yai",
+            "ja": "ハジャイ",
+            "ko": "핫야이",
+            "th": "หาดใหญ่",
+            "de": "Hat Yai",
+            "fr": "Hat Yai",
+            "ru": "Hat Yai",
+            "zh": "Hat Yai"
           },
           "value": 0.569,
           "rank": 8
@@ -5317,7 +6066,14 @@
           "slug": "krabi",
           "name": {
             "en": "Krabi",
-            "nl": "Krabi"
+            "nl": "Krabi",
+            "ja": "クラビ",
+            "ko": "끄라비",
+            "th": "กระบี่",
+            "de": "Krabi",
+            "fr": "Krabi",
+            "ru": "Краби",
+            "zh": "甲米"
           },
           "value": 0.534,
           "rank": 9
@@ -5326,7 +6082,14 @@
           "slug": "phuket",
           "name": {
             "en": "Phuket",
-            "nl": "Phuket"
+            "nl": "Phuket",
+            "ja": "プーケット",
+            "ko": "푸켓",
+            "th": "ภูเก็ต",
+            "de": "Phuket",
+            "fr": "Phuket",
+            "ru": "Пхукет",
+            "zh": "普吉岛"
           },
           "value": 0.519,
           "rank": 10
@@ -5341,7 +6104,14 @@
           "slug": "bangkok",
           "name": {
             "en": "Bangkok",
-            "nl": "Bangkok"
+            "nl": "Bangkok",
+            "ja": "バンコク",
+            "ko": "방콕",
+            "th": "กรุงเทพฯ",
+            "de": "Bangkok",
+            "fr": "Bangkok",
+            "ru": "Бангкок",
+            "zh": "曼谷"
           },
           "value": 1,
           "rank": 1
@@ -5350,7 +6120,14 @@
           "slug": "chiang-mai",
           "name": {
             "en": "Chiang Mai",
-            "nl": "Chiang Mai"
+            "nl": "Chiang Mai",
+            "ja": "チェンマイ",
+            "ko": "치앙마이",
+            "th": "เชียงใหม่",
+            "de": "Chiang Mai",
+            "fr": "Chiang Mai",
+            "ru": "Чиангмай",
+            "zh": "清迈"
           },
           "value": 0.722,
           "rank": 2
@@ -5359,7 +6136,14 @@
           "slug": "phuket",
           "name": {
             "en": "Phuket",
-            "nl": "Phuket"
+            "nl": "Phuket",
+            "ja": "プーケット",
+            "ko": "푸켓",
+            "th": "ภูเก็ต",
+            "de": "Phuket",
+            "fr": "Phuket",
+            "ru": "Пхукет",
+            "zh": "普吉岛"
           },
           "value": 0.577,
           "rank": 3
@@ -5368,7 +6152,14 @@
           "slug": "hua-hin",
           "name": {
             "en": "Hua Hin",
-            "nl": "Hua Hin"
+            "nl": "Hua Hin",
+            "ja": "ホアヒン",
+            "ko": "후아힌",
+            "th": "หัวหิน",
+            "de": "Hua Hin",
+            "fr": "Hua Hin",
+            "ru": "Хуа-Хин",
+            "zh": "华欣"
           },
           "value": 0.517,
           "rank": 4
@@ -5377,7 +6168,14 @@
           "slug": "pattaya",
           "name": {
             "en": "Pattaya",
-            "nl": "Pattaya"
+            "nl": "Pattaya",
+            "ja": "パタヤ",
+            "ko": "파타야",
+            "th": "พัทยา",
+            "de": "Pattaya",
+            "fr": "Pattaya",
+            "ru": "Паттайя",
+            "zh": "芭堤雅"
           },
           "value": 0.492,
           "rank": 5
@@ -5386,7 +6184,14 @@
           "slug": "ayutthaya",
           "name": {
             "en": "Ayutthaya",
-            "nl": "Ayutthaya"
+            "nl": "Ayutthaya",
+            "ja": "アユタヤ",
+            "ko": "아유타야",
+            "th": "อยุธยา",
+            "de": "Ayutthaya",
+            "fr": "Ayutthaya",
+            "ru": "Ayutthaya",
+            "zh": "Ayutthaya"
           },
           "value": 0.464,
           "rank": 6
@@ -5395,7 +6200,14 @@
           "slug": "krabi",
           "name": {
             "en": "Krabi",
-            "nl": "Krabi"
+            "nl": "Krabi",
+            "ja": "クラビ",
+            "ko": "끄라비",
+            "th": "กระบี่",
+            "de": "Krabi",
+            "fr": "Krabi",
+            "ru": "Краби",
+            "zh": "甲米"
           },
           "value": 0.464,
           "rank": 7
@@ -5404,7 +6216,14 @@
           "slug": "kanchanaburi",
           "name": {
             "en": "Kanchanaburi",
-            "nl": "Kanchanaburi"
+            "nl": "Kanchanaburi",
+            "ja": "カンチャナブリー",
+            "ko": "칸차나부리",
+            "th": "กาญจนบุรี",
+            "de": "Kanchanaburi",
+            "fr": "Kanchanaburi",
+            "ru": "Kanchanaburi",
+            "zh": "Kanchanaburi"
           },
           "value": 0.407,
           "rank": 8
@@ -5413,7 +6232,14 @@
           "slug": "koh-samui",
           "name": {
             "en": "Koh Samui",
-            "nl": "Koh Samui"
+            "nl": "Koh Samui",
+            "ja": "サムイ島",
+            "ko": "코사무이",
+            "th": "เกาะสมุย",
+            "de": "Koh Samui",
+            "fr": "Koh Samui",
+            "ru": "Ко Самуи",
+            "zh": "苏梅岛"
           },
           "value": 0.356,
           "rank": 9
@@ -5422,7 +6248,14 @@
           "slug": "chiang-rai",
           "name": {
             "en": "Chiang Rai",
-            "nl": "Chiang Rai"
+            "nl": "Chiang Rai",
+            "ja": "チェンライ",
+            "ko": "치앙라이",
+            "th": "เชียงราย",
+            "de": "Chiang Rai",
+            "fr": "Chiang Rai",
+            "ru": "Chiang Rai",
+            "zh": "清莱"
           },
           "value": 0.3,
           "rank": 10
@@ -5431,7 +6264,14 @@
           "slug": "lopburi",
           "name": {
             "en": "Lopburi",
-            "nl": "Lopburi"
+            "nl": "Lopburi",
+            "ja": "ロッブリー",
+            "ko": "롭부리",
+            "th": "ลพบุรี",
+            "de": "Lopburi",
+            "fr": "Lopburi",
+            "ru": "Лопбури",
+            "zh": "罗布里"
           },
           "value": 0.256,
           "rank": 11
@@ -5440,7 +6280,14 @@
           "slug": "nakhon-ratchasima",
           "name": {
             "en": "Nakhon Ratchasima (Korat)",
-            "nl": "Nakhon Ratchasima (Korat)"
+            "nl": "Nakhon Ratchasima (Korat)",
+            "ja": "ナコーンラーチャシーマー（コラート）",
+            "ko": "나콘랏차시마 (코랏)",
+            "th": "นครราชสีมา",
+            "de": "Nakhon Ratchasima (Korat)",
+            "fr": "Nakhon Ratchasima (Korat)",
+            "ru": "Nakhon Ratchasima (Korat)",
+            "zh": "Nakhon Ratchasima (Korat)"
           },
           "value": 0.246,
           "rank": 12
@@ -5449,7 +6296,14 @@
           "slug": "pai",
           "name": {
             "en": "Pai",
-            "nl": "Pai"
+            "nl": "Pai",
+            "ja": "パーイ",
+            "ko": "빠이",
+            "th": "ปาย",
+            "de": "Pai",
+            "fr": "Pai",
+            "ru": "Pai",
+            "zh": "Pai"
           },
           "value": 0.246,
           "rank": 13
@@ -5458,7 +6312,14 @@
           "slug": "khon-kaen",
           "name": {
             "en": "Khon Kaen",
-            "nl": "Khon Kaen"
+            "nl": "Khon Kaen",
+            "ja": "コーンケーン",
+            "ko": "콘깬",
+            "th": "ขอนแก่น",
+            "de": "Khon Kaen",
+            "fr": "Khon Kaen",
+            "ru": "Кхон Каен",
+            "zh": "孔敬"
           },
           "value": 0.237,
           "rank": 14
@@ -5467,7 +6328,14 @@
           "slug": "phitsanulok",
           "name": {
             "en": "Phitsanulok",
-            "nl": "Phitsanulok"
+            "nl": "Phitsanulok",
+            "ja": "ピッサヌローク",
+            "ko": "핏사눌록",
+            "th": "พิษณุโลก",
+            "de": "Phitsanulok",
+            "fr": "Phitsanulok",
+            "ru": "Phitsanulok",
+            "zh": "Phitsanulok"
           },
           "value": 0.227,
           "rank": 15
@@ -5476,7 +6344,14 @@
           "slug": "rayong",
           "name": {
             "en": "Rayong",
-            "nl": "Rayong"
+            "nl": "Rayong",
+            "ja": "ラヨーン",
+            "ko": "라용",
+            "th": "ระยอง",
+            "de": "Rayong",
+            "fr": "Rayong",
+            "ru": "Rayong",
+            "zh": "罗勇"
           },
           "value": 0.218,
           "rank": 16
@@ -5485,7 +6360,14 @@
           "slug": "chiang-khan",
           "name": {
             "en": "Chiang Khan",
-            "nl": "Chiang Khan"
+            "nl": "Chiang Khan",
+            "ja": "チエンカーン",
+            "ko": "치앙칸",
+            "th": "เชียงคาน",
+            "de": "Chiang Khan",
+            "fr": "Chiang Khan",
+            "ru": "Chiang Khan",
+            "zh": "Chiang Khan"
           },
           "value": 0.208,
           "rank": 17
@@ -5494,7 +6376,14 @@
           "slug": "udon-thani",
           "name": {
             "en": "Udon Thani",
-            "nl": "Udon Thani"
+            "nl": "Udon Thani",
+            "ja": "ウドーンターニー",
+            "ko": "우돈타니",
+            "th": "อุดรธานี",
+            "de": "Udon Thani",
+            "fr": "Udon Thani",
+            "ru": "Удон-Тхани",
+            "zh": "乌登他尼"
           },
           "value": 0.199,
           "rank": 18
@@ -5503,7 +6392,14 @@
           "slug": "chanthaburi",
           "name": {
             "en": "Chanthaburi",
-            "nl": "Chanthaburi"
+            "nl": "Chanthaburi",
+            "ja": "チャンタブリー",
+            "ko": "찬타부리",
+            "th": "จันทบุรี",
+            "de": "Chanthaburi",
+            "fr": "Chanthaburi",
+            "ru": "Chanthaburi",
+            "zh": "Chanthaburi"
           },
           "value": 0.189,
           "rank": 19
@@ -5512,7 +6408,14 @@
           "slug": "lampang",
           "name": {
             "en": "Lampang",
-            "nl": "Lampang"
+            "nl": "Lampang",
+            "ja": "ランパーン",
+            "ko": "람빵",
+            "th": "ลำปาง",
+            "de": "Lampang",
+            "fr": "Lampang",
+            "ru": "Лампанг",
+            "zh": "兰邦"
           },
           "value": 0.18,
           "rank": 20
@@ -5521,7 +6424,14 @@
           "slug": "nakhon-si-thammarat",
           "name": {
             "en": "Nakhon Si Thammarat",
-            "nl": "Nakhon Si Thammarat"
+            "nl": "Nakhon Si Thammarat",
+            "ja": "ナコーンシータンマラート",
+            "ko": "나콘시탐마랏",
+            "th": "นครศรีธรรมราช",
+            "de": "Nakhon Si Thammarat",
+            "fr": "Nakhon Si Thammarat",
+            "ru": "Nakhon Si Thammarat",
+            "zh": "Nakhon Si Thammarat"
           },
           "value": 0.18,
           "rank": 21
@@ -5530,7 +6440,14 @@
           "slug": "surat-thani",
           "name": {
             "en": "Surat Thani",
-            "nl": "Surat Thani"
+            "nl": "Surat Thani",
+            "ja": "スラーターニー",
+            "ko": "수랏타니",
+            "th": "สุราษฎร์ธานี",
+            "de": "Surat Thani",
+            "fr": "Surat Thani",
+            "ru": "Surat Thani",
+            "zh": "Surat Thani"
           },
           "value": 0.18,
           "rank": 22
@@ -5539,7 +6456,14 @@
           "slug": "chumphon",
           "name": {
             "en": "Chumphon",
-            "nl": "Chumphon"
+            "nl": "Chumphon",
+            "ja": "チュムポーン",
+            "ko": "춤폰",
+            "th": "ชุมพร",
+            "de": "Chumphon",
+            "fr": "Chumphon",
+            "ru": "Чумпхон",
+            "zh": "春蓬"
           },
           "value": 0.161,
           "rank": 23
@@ -5548,7 +6472,14 @@
           "slug": "hat-yai",
           "name": {
             "en": "Hat Yai",
-            "nl": "Hat Yai"
+            "nl": "Hat Yai",
+            "ja": "ハジャイ",
+            "ko": "핫야이",
+            "th": "หาดใหญ่",
+            "de": "Hat Yai",
+            "fr": "Hat Yai",
+            "ru": "Hat Yai",
+            "zh": "Hat Yai"
           },
           "value": 0.161,
           "rank": 24
@@ -5557,7 +6488,14 @@
           "slug": "trang",
           "name": {
             "en": "Trang",
-            "nl": "Trang"
+            "nl": "Trang",
+            "ja": "トラン",
+            "ko": "뜨랑",
+            "th": "ตรัง",
+            "de": "Trang",
+            "fr": "Trang",
+            "ru": "Trang",
+            "zh": "Trang"
           },
           "value": 0.161,
           "rank": 25
@@ -5566,7 +6504,14 @@
           "slug": "nong-khai",
           "name": {
             "en": "Nong Khai",
-            "nl": "Nong Khai"
+            "nl": "Nong Khai",
+            "ja": "ノーンカーイ",
+            "ko": "농카이",
+            "th": "หนองคาย",
+            "de": "Nong Khai",
+            "fr": "Nong Khai",
+            "ru": "Nong Khai",
+            "zh": "Nong Khai"
           },
           "value": 0.151,
           "rank": 26
@@ -5575,7 +6520,14 @@
           "slug": "sukhothai",
           "name": {
             "en": "Sukhothai",
-            "nl": "Sukhothai"
+            "nl": "Sukhothai",
+            "ja": "スコータイ",
+            "ko": "수코타이",
+            "th": "สุโขทัย",
+            "de": "Sukhothai",
+            "fr": "Sukhothai",
+            "ru": "Sukhothai",
+            "zh": "素可泰"
           },
           "value": 0.151,
           "rank": 27
@@ -5584,7 +6536,14 @@
           "slug": "bueng-kan",
           "name": {
             "en": "Bueng Kan",
-            "nl": "Bueng Kan"
+            "nl": "Bueng Kan",
+            "ja": "ブンカーン",
+            "ko": "붕칸",
+            "th": "บึงกาฬ",
+            "de": "Bueng Kan",
+            "fr": "Bueng Kan",
+            "ru": "Буэн Кан",
+            "zh": "布恩干"
           },
           "value": 0.132,
           "rank": 28
@@ -5593,7 +6552,14 @@
           "slug": "mukdahan",
           "name": {
             "en": "Mukdahan",
-            "nl": "Mukdahan"
+            "nl": "Mukdahan",
+            "ja": "ムクダーハーン",
+            "ko": "묵다한",
+            "th": "มุกดาหาร",
+            "de": "Mukdahan",
+            "fr": "Mukdahan",
+            "ru": "Mukdahan",
+            "zh": "Mukdahan"
           },
           "value": 0.132,
           "rank": 29
@@ -5602,7 +6568,14 @@
           "slug": "nakhon-phanom",
           "name": {
             "en": "Nakhon Phanom",
-            "nl": "Nakhon Phanom"
+            "nl": "Nakhon Phanom",
+            "ja": "ナコーンパノム",
+            "ko": "나콘파놈",
+            "th": "นครพนม",
+            "de": "Nakhon Phanom",
+            "fr": "Nakhon Phanom",
+            "ru": "Nakhon Phanom",
+            "zh": "Nakhon Phanom"
           },
           "value": 0.132,
           "rank": 30
@@ -5611,7 +6584,14 @@
           "slug": "mae-hong-son",
           "name": {
             "en": "Mae Hong Son",
-            "nl": "Mae Hong Son"
+            "nl": "Mae Hong Son",
+            "ja": "メーホンソーン",
+            "ko": "매홍손",
+            "th": "แม่ฮ่องสอน",
+            "de": "Mae Hong Son",
+            "fr": "Mae Hong Son",
+            "ru": "Mae Hong Son",
+            "zh": "Mae Hong Son"
           },
           "value": 0.123,
           "rank": 31
@@ -5620,7 +6600,14 @@
           "slug": "trat",
           "name": {
             "en": "Trat",
-            "nl": "Trat"
+            "nl": "Trat",
+            "ja": "トラート",
+            "ko": "뜨랏",
+            "th": "ตราด",
+            "de": "Trat",
+            "fr": "Trat",
+            "ru": "Трат",
+            "zh": "特拉特"
           },
           "value": 0.123,
           "rank": 32
@@ -5629,7 +6616,14 @@
           "slug": "ubon-ratchathani",
           "name": {
             "en": "Ubon Ratchathani",
-            "nl": "Ubon Ratchathani"
+            "nl": "Ubon Ratchathani",
+            "ja": "ウボンラーチャターニー",
+            "ko": "우본랏차타니",
+            "th": "อุบลราชธานี",
+            "de": "Ubon Ratchathani",
+            "fr": "Ubon Ratchathani",
+            "ru": "Ubon Ratchathani",
+            "zh": "Ubon Ratchathani"
           },
           "value": 0.095,
           "rank": 33
@@ -5644,7 +6638,14 @@
           "slug": "bangkok",
           "name": {
             "en": "Bangkok",
-            "nl": "Bangkok"
+            "nl": "Bangkok",
+            "ja": "バンコク",
+            "ko": "방콕",
+            "th": "กรุงเทพฯ",
+            "de": "Bangkok",
+            "fr": "Bangkok",
+            "ru": "Бангкок",
+            "zh": "曼谷"
           },
           "value": 0.71,
           "rank": 1
@@ -5653,7 +6654,14 @@
           "slug": "chiang-mai",
           "name": {
             "en": "Chiang Mai",
-            "nl": "Chiang Mai"
+            "nl": "Chiang Mai",
+            "ja": "チェンマイ",
+            "ko": "치앙마이",
+            "th": "เชียงใหม่",
+            "de": "Chiang Mai",
+            "fr": "Chiang Mai",
+            "ru": "Чиангмай",
+            "zh": "清迈"
           },
           "value": 0.64,
           "rank": 2
@@ -5662,7 +6670,14 @@
           "slug": "ayutthaya",
           "name": {
             "en": "Ayutthaya",
-            "nl": "Ayutthaya"
+            "nl": "Ayutthaya",
+            "ja": "アユタヤ",
+            "ko": "아유타야",
+            "th": "อยุธยา",
+            "de": "Ayutthaya",
+            "fr": "Ayutthaya",
+            "ru": "Ayutthaya",
+            "zh": "Ayutthaya"
           },
           "value": 0.57,
           "rank": 3
@@ -5671,7 +6686,14 @@
           "slug": "phuket",
           "name": {
             "en": "Phuket",
-            "nl": "Phuket"
+            "nl": "Phuket",
+            "ja": "プーケット",
+            "ko": "푸켓",
+            "th": "ภูเก็ต",
+            "de": "Phuket",
+            "fr": "Phuket",
+            "ru": "Пхукет",
+            "zh": "普吉岛"
           },
           "value": 0.56,
           "rank": 4
@@ -5680,7 +6702,14 @@
           "slug": "chiang-rai",
           "name": {
             "en": "Chiang Rai",
-            "nl": "Chiang Rai"
+            "nl": "Chiang Rai",
+            "ja": "チェンライ",
+            "ko": "치앙라이",
+            "th": "เชียงราย",
+            "de": "Chiang Rai",
+            "fr": "Chiang Rai",
+            "ru": "Chiang Rai",
+            "zh": "清莱"
           },
           "value": 0.54,
           "rank": 5
@@ -5689,7 +6718,14 @@
           "slug": "hua-hin",
           "name": {
             "en": "Hua Hin",
-            "nl": "Hua Hin"
+            "nl": "Hua Hin",
+            "ja": "ホアヒン",
+            "ko": "후아힌",
+            "th": "หัวหิน",
+            "de": "Hua Hin",
+            "fr": "Hua Hin",
+            "ru": "Хуа-Хин",
+            "zh": "华欣"
           },
           "value": 0.54,
           "rank": 6
@@ -5698,7 +6734,14 @@
           "slug": "krabi",
           "name": {
             "en": "Krabi",
-            "nl": "Krabi"
+            "nl": "Krabi",
+            "ja": "クラビ",
+            "ko": "끄라비",
+            "th": "กระบี่",
+            "de": "Krabi",
+            "fr": "Krabi",
+            "ru": "Краби",
+            "zh": "甲米"
           },
           "value": 0.54,
           "rank": 7
@@ -5707,7 +6750,14 @@
           "slug": "pattaya",
           "name": {
             "en": "Pattaya",
-            "nl": "Pattaya"
+            "nl": "Pattaya",
+            "ja": "パタヤ",
+            "ko": "파타야",
+            "th": "พัทยา",
+            "de": "Pattaya",
+            "fr": "Pattaya",
+            "ru": "Паттайя",
+            "zh": "芭堤雅"
           },
           "value": 0.54,
           "rank": 8
@@ -5716,7 +6766,14 @@
           "slug": "kanchanaburi",
           "name": {
             "en": "Kanchanaburi",
-            "nl": "Kanchanaburi"
+            "nl": "Kanchanaburi",
+            "ja": "カンチャナブリー",
+            "ko": "칸차나부리",
+            "th": "กาญจนบุรี",
+            "de": "Kanchanaburi",
+            "fr": "Kanchanaburi",
+            "ru": "Kanchanaburi",
+            "zh": "Kanchanaburi"
           },
           "value": 0.52,
           "rank": 9
@@ -5725,7 +6782,14 @@
           "slug": "lopburi",
           "name": {
             "en": "Lopburi",
-            "nl": "Lopburi"
+            "nl": "Lopburi",
+            "ja": "ロッブリー",
+            "ko": "롭부리",
+            "th": "ลพบุรี",
+            "de": "Lopburi",
+            "fr": "Lopburi",
+            "ru": "Лопбури",
+            "zh": "罗布里"
           },
           "value": 0.51,
           "rank": 10
@@ -5734,7 +6798,14 @@
           "slug": "pai",
           "name": {
             "en": "Pai",
-            "nl": "Pai"
+            "nl": "Pai",
+            "ja": "パーイ",
+            "ko": "빠이",
+            "th": "ปาย",
+            "de": "Pai",
+            "fr": "Pai",
+            "ru": "Pai",
+            "zh": "Pai"
           },
           "value": 0.51,
           "rank": 11
@@ -5743,7 +6814,14 @@
           "slug": "phitsanulok",
           "name": {
             "en": "Phitsanulok",
-            "nl": "Phitsanulok"
+            "nl": "Phitsanulok",
+            "ja": "ピッサヌローク",
+            "ko": "핏사눌록",
+            "th": "พิษณุโลก",
+            "de": "Phitsanulok",
+            "fr": "Phitsanulok",
+            "ru": "Phitsanulok",
+            "zh": "Phitsanulok"
           },
           "value": 0.51,
           "rank": 12
@@ -5752,7 +6830,14 @@
           "slug": "sukhothai",
           "name": {
             "en": "Sukhothai",
-            "nl": "Sukhothai"
+            "nl": "Sukhothai",
+            "ja": "スコータイ",
+            "ko": "수코타이",
+            "th": "สุโขทัย",
+            "de": "Sukhothai",
+            "fr": "Sukhothai",
+            "ru": "Sukhothai",
+            "zh": "素可泰"
           },
           "value": 0.5,
           "rank": 13
@@ -5761,7 +6846,14 @@
           "slug": "chanthaburi",
           "name": {
             "en": "Chanthaburi",
-            "nl": "Chanthaburi"
+            "nl": "Chanthaburi",
+            "ja": "チャンタブリー",
+            "ko": "찬타부리",
+            "th": "จันทบุรี",
+            "de": "Chanthaburi",
+            "fr": "Chanthaburi",
+            "ru": "Chanthaburi",
+            "zh": "Chanthaburi"
           },
           "value": 0.49,
           "rank": 14
@@ -5770,7 +6862,14 @@
           "slug": "chiang-khan",
           "name": {
             "en": "Chiang Khan",
-            "nl": "Chiang Khan"
+            "nl": "Chiang Khan",
+            "ja": "チエンカーン",
+            "ko": "치앙칸",
+            "th": "เชียงคาน",
+            "de": "Chiang Khan",
+            "fr": "Chiang Khan",
+            "ru": "Chiang Khan",
+            "zh": "Chiang Khan"
           },
           "value": 0.49,
           "rank": 15
@@ -5779,7 +6878,14 @@
           "slug": "chumphon",
           "name": {
             "en": "Chumphon",
-            "nl": "Chumphon"
+            "nl": "Chumphon",
+            "ja": "チュムポーン",
+            "ko": "춤폰",
+            "th": "ชุมพร",
+            "de": "Chumphon",
+            "fr": "Chumphon",
+            "ru": "Чумпхон",
+            "zh": "春蓬"
           },
           "value": 0.49,
           "rank": 16
@@ -5788,7 +6894,14 @@
           "slug": "hat-yai",
           "name": {
             "en": "Hat Yai",
-            "nl": "Hat Yai"
+            "nl": "Hat Yai",
+            "ja": "ハジャイ",
+            "ko": "핫야이",
+            "th": "หาดใหญ่",
+            "de": "Hat Yai",
+            "fr": "Hat Yai",
+            "ru": "Hat Yai",
+            "zh": "Hat Yai"
           },
           "value": 0.49,
           "rank": 17
@@ -5797,7 +6910,14 @@
           "slug": "khon-kaen",
           "name": {
             "en": "Khon Kaen",
-            "nl": "Khon Kaen"
+            "nl": "Khon Kaen",
+            "ja": "コーンケーン",
+            "ko": "콘깬",
+            "th": "ขอนแก่น",
+            "de": "Khon Kaen",
+            "fr": "Khon Kaen",
+            "ru": "Кхон Каен",
+            "zh": "孔敬"
           },
           "value": 0.49,
           "rank": 18
@@ -5806,7 +6926,14 @@
           "slug": "koh-samui",
           "name": {
             "en": "Koh Samui",
-            "nl": "Koh Samui"
+            "nl": "Koh Samui",
+            "ja": "サムイ島",
+            "ko": "코사무이",
+            "th": "เกาะสมุย",
+            "de": "Koh Samui",
+            "fr": "Koh Samui",
+            "ru": "Ко Самуи",
+            "zh": "苏梅岛"
           },
           "value": 0.49,
           "rank": 19
@@ -5815,7 +6942,14 @@
           "slug": "lampang",
           "name": {
             "en": "Lampang",
-            "nl": "Lampang"
+            "nl": "Lampang",
+            "ja": "ランパーン",
+            "ko": "람빵",
+            "th": "ลำปาง",
+            "de": "Lampang",
+            "fr": "Lampang",
+            "ru": "Лампанг",
+            "zh": "兰邦"
           },
           "value": 0.49,
           "rank": 20
@@ -5824,7 +6958,14 @@
           "slug": "nakhon-ratchasima",
           "name": {
             "en": "Nakhon Ratchasima (Korat)",
-            "nl": "Nakhon Ratchasima (Korat)"
+            "nl": "Nakhon Ratchasima (Korat)",
+            "ja": "ナコーンラーチャシーマー（コラート）",
+            "ko": "나콘랏차시마 (코랏)",
+            "th": "นครราชสีมา",
+            "de": "Nakhon Ratchasima (Korat)",
+            "fr": "Nakhon Ratchasima (Korat)",
+            "ru": "Nakhon Ratchasima (Korat)",
+            "zh": "Nakhon Ratchasima (Korat)"
           },
           "value": 0.49,
           "rank": 21
@@ -5833,7 +6974,14 @@
           "slug": "nakhon-si-thammarat",
           "name": {
             "en": "Nakhon Si Thammarat",
-            "nl": "Nakhon Si Thammarat"
+            "nl": "Nakhon Si Thammarat",
+            "ja": "ナコーンシータンマラート",
+            "ko": "나콘시탐마랏",
+            "th": "นครศรีธรรมราช",
+            "de": "Nakhon Si Thammarat",
+            "fr": "Nakhon Si Thammarat",
+            "ru": "Nakhon Si Thammarat",
+            "zh": "Nakhon Si Thammarat"
           },
           "value": 0.49,
           "rank": 22
@@ -5842,7 +6990,14 @@
           "slug": "nong-khai",
           "name": {
             "en": "Nong Khai",
-            "nl": "Nong Khai"
+            "nl": "Nong Khai",
+            "ja": "ノーンカーイ",
+            "ko": "농카이",
+            "th": "หนองคาย",
+            "de": "Nong Khai",
+            "fr": "Nong Khai",
+            "ru": "Nong Khai",
+            "zh": "Nong Khai"
           },
           "value": 0.49,
           "rank": 23
@@ -5851,7 +7006,14 @@
           "slug": "trang",
           "name": {
             "en": "Trang",
-            "nl": "Trang"
+            "nl": "Trang",
+            "ja": "トラン",
+            "ko": "뜨랑",
+            "th": "ตรัง",
+            "de": "Trang",
+            "fr": "Trang",
+            "ru": "Trang",
+            "zh": "Trang"
           },
           "value": 0.49,
           "rank": 24
@@ -5860,7 +7022,14 @@
           "slug": "bueng-kan",
           "name": {
             "en": "Bueng Kan",
-            "nl": "Bueng Kan"
+            "nl": "Bueng Kan",
+            "ja": "ブンカーン",
+            "ko": "붕칸",
+            "th": "บึงกาฬ",
+            "de": "Bueng Kan",
+            "fr": "Bueng Kan",
+            "ru": "Буэн Кан",
+            "zh": "布恩干"
           },
           "value": 0.48,
           "rank": 25
@@ -5869,7 +7038,14 @@
           "slug": "mukdahan",
           "name": {
             "en": "Mukdahan",
-            "nl": "Mukdahan"
+            "nl": "Mukdahan",
+            "ja": "ムクダーハーン",
+            "ko": "묵다한",
+            "th": "มุกดาหาร",
+            "de": "Mukdahan",
+            "fr": "Mukdahan",
+            "ru": "Mukdahan",
+            "zh": "Mukdahan"
           },
           "value": 0.48,
           "rank": 26
@@ -5878,7 +7054,14 @@
           "slug": "nakhon-phanom",
           "name": {
             "en": "Nakhon Phanom",
-            "nl": "Nakhon Phanom"
+            "nl": "Nakhon Phanom",
+            "ja": "ナコーンパノム",
+            "ko": "나콘파놈",
+            "th": "นครพนม",
+            "de": "Nakhon Phanom",
+            "fr": "Nakhon Phanom",
+            "ru": "Nakhon Phanom",
+            "zh": "Nakhon Phanom"
           },
           "value": 0.48,
           "rank": 27
@@ -5887,7 +7070,14 @@
           "slug": "surat-thani",
           "name": {
             "en": "Surat Thani",
-            "nl": "Surat Thani"
+            "nl": "Surat Thani",
+            "ja": "スラーターニー",
+            "ko": "수랏타니",
+            "th": "สุราษฎร์ธานี",
+            "de": "Surat Thani",
+            "fr": "Surat Thani",
+            "ru": "Surat Thani",
+            "zh": "Surat Thani"
           },
           "value": 0.48,
           "rank": 28
@@ -5896,7 +7086,14 @@
           "slug": "udon-thani",
           "name": {
             "en": "Udon Thani",
-            "nl": "Udon Thani"
+            "nl": "Udon Thani",
+            "ja": "ウドーンターニー",
+            "ko": "우돈타니",
+            "th": "อุดรธานี",
+            "de": "Udon Thani",
+            "fr": "Udon Thani",
+            "ru": "Удон-Тхани",
+            "zh": "乌登他尼"
           },
           "value": 0.48,
           "rank": 29
@@ -5905,7 +7102,14 @@
           "slug": "mae-hong-son",
           "name": {
             "en": "Mae Hong Son",
-            "nl": "Mae Hong Son"
+            "nl": "Mae Hong Son",
+            "ja": "メーホンソーン",
+            "ko": "매홍손",
+            "th": "แม่ฮ่องสอน",
+            "de": "Mae Hong Son",
+            "fr": "Mae Hong Son",
+            "ru": "Mae Hong Son",
+            "zh": "Mae Hong Son"
           },
           "value": 0.47,
           "rank": 30
@@ -5914,7 +7118,14 @@
           "slug": "rayong",
           "name": {
             "en": "Rayong",
-            "nl": "Rayong"
+            "nl": "Rayong",
+            "ja": "ラヨーン",
+            "ko": "라용",
+            "th": "ระยอง",
+            "de": "Rayong",
+            "fr": "Rayong",
+            "ru": "Rayong",
+            "zh": "罗勇"
           },
           "value": 0.47,
           "rank": 31
@@ -5923,7 +7134,14 @@
           "slug": "ubon-ratchathani",
           "name": {
             "en": "Ubon Ratchathani",
-            "nl": "Ubon Ratchathani"
+            "nl": "Ubon Ratchathani",
+            "ja": "ウボンラーチャターニー",
+            "ko": "우본랏차타니",
+            "th": "อุบลราชธานี",
+            "de": "Ubon Ratchathani",
+            "fr": "Ubon Ratchathani",
+            "ru": "Ubon Ratchathani",
+            "zh": "Ubon Ratchathani"
           },
           "value": 0.47,
           "rank": 32
@@ -5932,7 +7150,14 @@
           "slug": "trat",
           "name": {
             "en": "Trat",
-            "nl": "Trat"
+            "nl": "Trat",
+            "ja": "トラート",
+            "ko": "뜨랏",
+            "th": "ตราด",
+            "de": "Trat",
+            "fr": "Trat",
+            "ru": "Трат",
+            "zh": "特拉特"
           },
           "value": 0.42,
           "rank": 33
@@ -5947,7 +7172,14 @@
           "slug": "bangkok",
           "name": {
             "en": "Bangkok",
-            "nl": "Bangkok"
+            "nl": "Bangkok",
+            "ja": "バンコク",
+            "ko": "방콕",
+            "th": "กรุงเทพฯ",
+            "de": "Bangkok",
+            "fr": "Bangkok",
+            "ru": "Бангкок",
+            "zh": "曼谷"
           },
           "value": 0.79,
           "rank": 1
@@ -5956,7 +7188,14 @@
           "slug": "nakhon-ratchasima",
           "name": {
             "en": "Nakhon Ratchasima (Korat)",
-            "nl": "Nakhon Ratchasima (Korat)"
+            "nl": "Nakhon Ratchasima (Korat)",
+            "ja": "ナコーンラーチャシーマー（コラート）",
+            "ko": "나콘랏차시마 (코랏)",
+            "th": "นครราชสีมา",
+            "de": "Nakhon Ratchasima (Korat)",
+            "fr": "Nakhon Ratchasima (Korat)",
+            "ru": "Nakhon Ratchasima (Korat)",
+            "zh": "Nakhon Ratchasima (Korat)"
           },
           "value": 0.63,
           "rank": 2
@@ -5965,7 +7204,14 @@
           "slug": "chiang-mai",
           "name": {
             "en": "Chiang Mai",
-            "nl": "Chiang Mai"
+            "nl": "Chiang Mai",
+            "ja": "チェンマイ",
+            "ko": "치앙마이",
+            "th": "เชียงใหม่",
+            "de": "Chiang Mai",
+            "fr": "Chiang Mai",
+            "ru": "Чиангмай",
+            "zh": "清迈"
           },
           "value": 0.62,
           "rank": 3
@@ -5974,7 +7220,14 @@
           "slug": "chiang-rai",
           "name": {
             "en": "Chiang Rai",
-            "nl": "Chiang Rai"
+            "nl": "Chiang Rai",
+            "ja": "チェンライ",
+            "ko": "치앙라이",
+            "th": "เชียงราย",
+            "de": "Chiang Rai",
+            "fr": "Chiang Rai",
+            "ru": "Chiang Rai",
+            "zh": "清莱"
           },
           "value": 0.54,
           "rank": 4
@@ -5983,7 +7236,14 @@
           "slug": "ayutthaya",
           "name": {
             "en": "Ayutthaya",
-            "nl": "Ayutthaya"
+            "nl": "Ayutthaya",
+            "ja": "アユタヤ",
+            "ko": "아유타야",
+            "th": "อยุธยา",
+            "de": "Ayutthaya",
+            "fr": "Ayutthaya",
+            "ru": "Ayutthaya",
+            "zh": "Ayutthaya"
           },
           "value": 0.52,
           "rank": 5
@@ -5992,7 +7252,14 @@
           "slug": "hat-yai",
           "name": {
             "en": "Hat Yai",
-            "nl": "Hat Yai"
+            "nl": "Hat Yai",
+            "ja": "ハジャイ",
+            "ko": "핫야이",
+            "th": "หาดใหญ่",
+            "de": "Hat Yai",
+            "fr": "Hat Yai",
+            "ru": "Hat Yai",
+            "zh": "Hat Yai"
           },
           "value": 0.52,
           "rank": 6
@@ -6001,7 +7268,14 @@
           "slug": "kanchanaburi",
           "name": {
             "en": "Kanchanaburi",
-            "nl": "Kanchanaburi"
+            "nl": "Kanchanaburi",
+            "ja": "カンチャナブリー",
+            "ko": "칸차나부리",
+            "th": "กาญจนบุรี",
+            "de": "Kanchanaburi",
+            "fr": "Kanchanaburi",
+            "ru": "Kanchanaburi",
+            "zh": "Kanchanaburi"
           },
           "value": 0.52,
           "rank": 7
@@ -6010,7 +7284,14 @@
           "slug": "khon-kaen",
           "name": {
             "en": "Khon Kaen",
-            "nl": "Khon Kaen"
+            "nl": "Khon Kaen",
+            "ja": "コーンケーン",
+            "ko": "콘깬",
+            "th": "ขอนแก่น",
+            "de": "Khon Kaen",
+            "fr": "Khon Kaen",
+            "ru": "Кхон Каен",
+            "zh": "孔敬"
           },
           "value": 0.52,
           "rank": 8
@@ -6019,7 +7300,14 @@
           "slug": "rayong",
           "name": {
             "en": "Rayong",
-            "nl": "Rayong"
+            "nl": "Rayong",
+            "ja": "ラヨーン",
+            "ko": "라용",
+            "th": "ระยอง",
+            "de": "Rayong",
+            "fr": "Rayong",
+            "ru": "Rayong",
+            "zh": "罗勇"
           },
           "value": 0.52,
           "rank": 9
@@ -6028,7 +7316,14 @@
           "slug": "phuket",
           "name": {
             "en": "Phuket",
-            "nl": "Phuket"
+            "nl": "Phuket",
+            "ja": "プーケット",
+            "ko": "푸켓",
+            "th": "ภูเก็ต",
+            "de": "Phuket",
+            "fr": "Phuket",
+            "ru": "Пхукет",
+            "zh": "普吉岛"
           },
           "value": 0.49,
           "rank": 10
@@ -6037,7 +7332,14 @@
           "slug": "pai",
           "name": {
             "en": "Pai",
-            "nl": "Pai"
+            "nl": "Pai",
+            "ja": "パーイ",
+            "ko": "빠이",
+            "th": "ปาย",
+            "de": "Pai",
+            "fr": "Pai",
+            "ru": "Pai",
+            "zh": "Pai"
           },
           "value": 0.47,
           "rank": 11
@@ -6046,7 +7348,14 @@
           "slug": "krabi",
           "name": {
             "en": "Krabi",
-            "nl": "Krabi"
+            "nl": "Krabi",
+            "ja": "クラビ",
+            "ko": "끄라비",
+            "th": "กระบี่",
+            "de": "Krabi",
+            "fr": "Krabi",
+            "ru": "Краби",
+            "zh": "甲米"
           },
           "value": 0.46,
           "rank": 12
@@ -6055,7 +7364,14 @@
           "slug": "chanthaburi",
           "name": {
             "en": "Chanthaburi",
-            "nl": "Chanthaburi"
+            "nl": "Chanthaburi",
+            "ja": "チャンタブリー",
+            "ko": "찬타부리",
+            "th": "จันทบุรี",
+            "de": "Chanthaburi",
+            "fr": "Chanthaburi",
+            "ru": "Chanthaburi",
+            "zh": "Chanthaburi"
           },
           "value": 0.42,
           "rank": 13
@@ -6064,7 +7380,14 @@
           "slug": "chiang-khan",
           "name": {
             "en": "Chiang Khan",
-            "nl": "Chiang Khan"
+            "nl": "Chiang Khan",
+            "ja": "チエンカーン",
+            "ko": "치앙칸",
+            "th": "เชียงคาน",
+            "de": "Chiang Khan",
+            "fr": "Chiang Khan",
+            "ru": "Chiang Khan",
+            "zh": "Chiang Khan"
           },
           "value": 0.42,
           "rank": 14
@@ -6073,7 +7396,14 @@
           "slug": "lampang",
           "name": {
             "en": "Lampang",
-            "nl": "Lampang"
+            "nl": "Lampang",
+            "ja": "ランパーン",
+            "ko": "람빵",
+            "th": "ลำปาง",
+            "de": "Lampang",
+            "fr": "Lampang",
+            "ru": "Лампанг",
+            "zh": "兰邦"
           },
           "value": 0.42,
           "rank": 15
@@ -6082,7 +7412,14 @@
           "slug": "lopburi",
           "name": {
             "en": "Lopburi",
-            "nl": "Lopburi"
+            "nl": "Lopburi",
+            "ja": "ロッブリー",
+            "ko": "롭부리",
+            "th": "ลพบุรี",
+            "de": "Lopburi",
+            "fr": "Lopburi",
+            "ru": "Лопбури",
+            "zh": "罗布里"
           },
           "value": 0.42,
           "rank": 16
@@ -6091,7 +7428,14 @@
           "slug": "nakhon-si-thammarat",
           "name": {
             "en": "Nakhon Si Thammarat",
-            "nl": "Nakhon Si Thammarat"
+            "nl": "Nakhon Si Thammarat",
+            "ja": "ナコーンシータンマラート",
+            "ko": "나콘시탐마랏",
+            "th": "นครศรีธรรมราช",
+            "de": "Nakhon Si Thammarat",
+            "fr": "Nakhon Si Thammarat",
+            "ru": "Nakhon Si Thammarat",
+            "zh": "Nakhon Si Thammarat"
           },
           "value": 0.42,
           "rank": 17
@@ -6100,7 +7444,14 @@
           "slug": "nong-khai",
           "name": {
             "en": "Nong Khai",
-            "nl": "Nong Khai"
+            "nl": "Nong Khai",
+            "ja": "ノーンカーイ",
+            "ko": "농카이",
+            "th": "หนองคาย",
+            "de": "Nong Khai",
+            "fr": "Nong Khai",
+            "ru": "Nong Khai",
+            "zh": "Nong Khai"
           },
           "value": 0.42,
           "rank": 18
@@ -6109,7 +7460,14 @@
           "slug": "phitsanulok",
           "name": {
             "en": "Phitsanulok",
-            "nl": "Phitsanulok"
+            "nl": "Phitsanulok",
+            "ja": "ピッサヌローク",
+            "ko": "핏사눌록",
+            "th": "พิษณุโลก",
+            "de": "Phitsanulok",
+            "fr": "Phitsanulok",
+            "ru": "Phitsanulok",
+            "zh": "Phitsanulok"
           },
           "value": 0.42,
           "rank": 19
@@ -6118,7 +7476,14 @@
           "slug": "sukhothai",
           "name": {
             "en": "Sukhothai",
-            "nl": "Sukhothai"
+            "nl": "Sukhothai",
+            "ja": "スコータイ",
+            "ko": "수코타이",
+            "th": "สุโขทัย",
+            "de": "Sukhothai",
+            "fr": "Sukhothai",
+            "ru": "Sukhothai",
+            "zh": "素可泰"
           },
           "value": 0.42,
           "rank": 20
@@ -6127,7 +7492,14 @@
           "slug": "surat-thani",
           "name": {
             "en": "Surat Thani",
-            "nl": "Surat Thani"
+            "nl": "Surat Thani",
+            "ja": "スラーターニー",
+            "ko": "수랏타니",
+            "th": "สุราษฎร์ธานี",
+            "de": "Surat Thani",
+            "fr": "Surat Thani",
+            "ru": "Surat Thani",
+            "zh": "Surat Thani"
           },
           "value": 0.42,
           "rank": 21
@@ -6136,7 +7508,14 @@
           "slug": "trang",
           "name": {
             "en": "Trang",
-            "nl": "Trang"
+            "nl": "Trang",
+            "ja": "トラン",
+            "ko": "뜨랑",
+            "th": "ตรัง",
+            "de": "Trang",
+            "fr": "Trang",
+            "ru": "Trang",
+            "zh": "Trang"
           },
           "value": 0.42,
           "rank": 22
@@ -6145,7 +7524,14 @@
           "slug": "ubon-ratchathani",
           "name": {
             "en": "Ubon Ratchathani",
-            "nl": "Ubon Ratchathani"
+            "nl": "Ubon Ratchathani",
+            "ja": "ウボンラーチャターニー",
+            "ko": "우본랏차타니",
+            "th": "อุบลราชธานี",
+            "de": "Ubon Ratchathani",
+            "fr": "Ubon Ratchathani",
+            "ru": "Ubon Ratchathani",
+            "zh": "Ubon Ratchathani"
           },
           "value": 0.42,
           "rank": 23
@@ -6154,7 +7540,14 @@
           "slug": "udon-thani",
           "name": {
             "en": "Udon Thani",
-            "nl": "Udon Thani"
+            "nl": "Udon Thani",
+            "ja": "ウドーンターニー",
+            "ko": "우돈타니",
+            "th": "อุดรธานี",
+            "de": "Udon Thani",
+            "fr": "Udon Thani",
+            "ru": "Удон-Тхани",
+            "zh": "乌登他尼"
           },
           "value": 0.42,
           "rank": 24
@@ -6163,7 +7556,14 @@
           "slug": "mae-hong-son",
           "name": {
             "en": "Mae Hong Son",
-            "nl": "Mae Hong Son"
+            "nl": "Mae Hong Son",
+            "ja": "メーホンソーン",
+            "ko": "매홍손",
+            "th": "แม่ฮ่องสอน",
+            "de": "Mae Hong Son",
+            "fr": "Mae Hong Son",
+            "ru": "Mae Hong Son",
+            "zh": "Mae Hong Son"
           },
           "value": 0.38,
           "rank": 25
@@ -6172,7 +7572,14 @@
           "slug": "pattaya",
           "name": {
             "en": "Pattaya",
-            "nl": "Pattaya"
+            "nl": "Pattaya",
+            "ja": "パタヤ",
+            "ko": "파타야",
+            "th": "พัทยา",
+            "de": "Pattaya",
+            "fr": "Pattaya",
+            "ru": "Паттайя",
+            "zh": "芭堤雅"
           },
           "value": 0.38,
           "rank": 26
@@ -6181,7 +7588,14 @@
           "slug": "trat",
           "name": {
             "en": "Trat",
-            "nl": "Trat"
+            "nl": "Trat",
+            "ja": "トラート",
+            "ko": "뜨랏",
+            "th": "ตราด",
+            "de": "Trat",
+            "fr": "Trat",
+            "ru": "Трат",
+            "zh": "特拉特"
           },
           "value": 0.38,
           "rank": 27
@@ -6190,7 +7604,14 @@
           "slug": "koh-samui",
           "name": {
             "en": "Koh Samui",
-            "nl": "Koh Samui"
+            "nl": "Koh Samui",
+            "ja": "サムイ島",
+            "ko": "코사무이",
+            "th": "เกาะสมุย",
+            "de": "Koh Samui",
+            "fr": "Koh Samui",
+            "ru": "Ко Самуи",
+            "zh": "苏梅岛"
           },
           "value": 0.37,
           "rank": 28
@@ -6199,7 +7620,14 @@
           "slug": "bueng-kan",
           "name": {
             "en": "Bueng Kan",
-            "nl": "Bueng Kan"
+            "nl": "Bueng Kan",
+            "ja": "ブンカーン",
+            "ko": "붕칸",
+            "th": "บึงกาฬ",
+            "de": "Bueng Kan",
+            "fr": "Bueng Kan",
+            "ru": "Буэн Кан",
+            "zh": "布恩干"
           },
           "value": 0.32,
           "rank": 29
@@ -6208,7 +7636,14 @@
           "slug": "chumphon",
           "name": {
             "en": "Chumphon",
-            "nl": "Chumphon"
+            "nl": "Chumphon",
+            "ja": "チュムポーン",
+            "ko": "춤폰",
+            "th": "ชุมพร",
+            "de": "Chumphon",
+            "fr": "Chumphon",
+            "ru": "Чумпхон",
+            "zh": "春蓬"
           },
           "value": 0.32,
           "rank": 30
@@ -6217,7 +7652,14 @@
           "slug": "mukdahan",
           "name": {
             "en": "Mukdahan",
-            "nl": "Mukdahan"
+            "nl": "Mukdahan",
+            "ja": "ムクダーハーン",
+            "ko": "묵다한",
+            "th": "มุกดาหาร",
+            "de": "Mukdahan",
+            "fr": "Mukdahan",
+            "ru": "Mukdahan",
+            "zh": "Mukdahan"
           },
           "value": 0.32,
           "rank": 31
@@ -6226,7 +7668,14 @@
           "slug": "nakhon-phanom",
           "name": {
             "en": "Nakhon Phanom",
-            "nl": "Nakhon Phanom"
+            "nl": "Nakhon Phanom",
+            "ja": "ナコーンパノム",
+            "ko": "나콘파놈",
+            "th": "นครพนม",
+            "de": "Nakhon Phanom",
+            "fr": "Nakhon Phanom",
+            "ru": "Nakhon Phanom",
+            "zh": "Nakhon Phanom"
           },
           "value": 0.32,
           "rank": 32
@@ -6235,7 +7684,14 @@
           "slug": "hua-hin",
           "name": {
             "en": "Hua Hin",
-            "nl": "Hua Hin"
+            "nl": "Hua Hin",
+            "ja": "ホアヒン",
+            "ko": "후아힌",
+            "th": "หัวหิน",
+            "de": "Hua Hin",
+            "fr": "Hua Hin",
+            "ru": "Хуа-Хин",
+            "zh": "华欣"
           },
           "value": 0.28,
           "rank": 33
@@ -6250,7 +7706,14 @@
           "slug": "ayutthaya",
           "name": {
             "en": "Ayutthaya",
-            "nl": "Ayutthaya"
+            "nl": "Ayutthaya",
+            "ja": "アユタヤ",
+            "ko": "아유타야",
+            "th": "อยุธยา",
+            "de": "Ayutthaya",
+            "fr": "Ayutthaya",
+            "ru": "Ayutthaya",
+            "zh": "Ayutthaya"
           },
           "value": 0.78,
           "rank": 1
@@ -6259,7 +7722,14 @@
           "slug": "bangkok",
           "name": {
             "en": "Bangkok",
-            "nl": "Bangkok"
+            "nl": "Bangkok",
+            "ja": "バンコク",
+            "ko": "방콕",
+            "th": "กรุงเทพฯ",
+            "de": "Bangkok",
+            "fr": "Bangkok",
+            "ru": "Бангкок",
+            "zh": "曼谷"
           },
           "value": 0.78,
           "rank": 2
@@ -6268,7 +7738,14 @@
           "slug": "chanthaburi",
           "name": {
             "en": "Chanthaburi",
-            "nl": "Chanthaburi"
+            "nl": "Chanthaburi",
+            "ja": "チャンタブリー",
+            "ko": "찬타부리",
+            "th": "จันทบุรี",
+            "de": "Chanthaburi",
+            "fr": "Chanthaburi",
+            "ru": "Chanthaburi",
+            "zh": "Chanthaburi"
           },
           "value": 0.78,
           "rank": 3
@@ -6277,7 +7754,14 @@
           "slug": "chiang-khan",
           "name": {
             "en": "Chiang Khan",
-            "nl": "Chiang Khan"
+            "nl": "Chiang Khan",
+            "ja": "チエンカーン",
+            "ko": "치앙칸",
+            "th": "เชียงคาน",
+            "de": "Chiang Khan",
+            "fr": "Chiang Khan",
+            "ru": "Chiang Khan",
+            "zh": "Chiang Khan"
           },
           "value": 0.78,
           "rank": 4
@@ -6286,7 +7770,14 @@
           "slug": "chiang-mai",
           "name": {
             "en": "Chiang Mai",
-            "nl": "Chiang Mai"
+            "nl": "Chiang Mai",
+            "ja": "チェンマイ",
+            "ko": "치앙마이",
+            "th": "เชียงใหม่",
+            "de": "Chiang Mai",
+            "fr": "Chiang Mai",
+            "ru": "Чиангмай",
+            "zh": "清迈"
           },
           "value": 0.78,
           "rank": 5
@@ -6295,7 +7786,14 @@
           "slug": "chiang-rai",
           "name": {
             "en": "Chiang Rai",
-            "nl": "Chiang Rai"
+            "nl": "Chiang Rai",
+            "ja": "チェンライ",
+            "ko": "치앙라이",
+            "th": "เชียงราย",
+            "de": "Chiang Rai",
+            "fr": "Chiang Rai",
+            "ru": "Chiang Rai",
+            "zh": "清莱"
           },
           "value": 0.78,
           "rank": 6
@@ -6304,7 +7802,14 @@
           "slug": "hua-hin",
           "name": {
             "en": "Hua Hin",
-            "nl": "Hua Hin"
+            "nl": "Hua Hin",
+            "ja": "ホアヒン",
+            "ko": "후아힌",
+            "th": "หัวหิน",
+            "de": "Hua Hin",
+            "fr": "Hua Hin",
+            "ru": "Хуа-Хин",
+            "zh": "华欣"
           },
           "value": 0.78,
           "rank": 7
@@ -6313,7 +7818,14 @@
           "slug": "kanchanaburi",
           "name": {
             "en": "Kanchanaburi",
-            "nl": "Kanchanaburi"
+            "nl": "Kanchanaburi",
+            "ja": "カンチャナブリー",
+            "ko": "칸차나부리",
+            "th": "กาญจนบุรี",
+            "de": "Kanchanaburi",
+            "fr": "Kanchanaburi",
+            "ru": "Kanchanaburi",
+            "zh": "Kanchanaburi"
           },
           "value": 0.78,
           "rank": 8
@@ -6322,7 +7834,14 @@
           "slug": "krabi",
           "name": {
             "en": "Krabi",
-            "nl": "Krabi"
+            "nl": "Krabi",
+            "ja": "クラビ",
+            "ko": "끄라비",
+            "th": "กระบี่",
+            "de": "Krabi",
+            "fr": "Krabi",
+            "ru": "Краби",
+            "zh": "甲米"
           },
           "value": 0.78,
           "rank": 9
@@ -6331,7 +7850,14 @@
           "slug": "lampang",
           "name": {
             "en": "Lampang",
-            "nl": "Lampang"
+            "nl": "Lampang",
+            "ja": "ランパーン",
+            "ko": "람빵",
+            "th": "ลำปาง",
+            "de": "Lampang",
+            "fr": "Lampang",
+            "ru": "Лампанг",
+            "zh": "兰邦"
           },
           "value": 0.78,
           "rank": 10
@@ -6340,7 +7866,14 @@
           "slug": "mae-hong-son",
           "name": {
             "en": "Mae Hong Son",
-            "nl": "Mae Hong Son"
+            "nl": "Mae Hong Son",
+            "ja": "メーホンソーン",
+            "ko": "매홍손",
+            "th": "แม่ฮ่องสอน",
+            "de": "Mae Hong Son",
+            "fr": "Mae Hong Son",
+            "ru": "Mae Hong Son",
+            "zh": "Mae Hong Son"
           },
           "value": 0.78,
           "rank": 11
@@ -6349,7 +7882,14 @@
           "slug": "nong-khai",
           "name": {
             "en": "Nong Khai",
-            "nl": "Nong Khai"
+            "nl": "Nong Khai",
+            "ja": "ノーンカーイ",
+            "ko": "농카이",
+            "th": "หนองคาย",
+            "de": "Nong Khai",
+            "fr": "Nong Khai",
+            "ru": "Nong Khai",
+            "zh": "Nong Khai"
           },
           "value": 0.78,
           "rank": 12
@@ -6358,7 +7898,14 @@
           "slug": "pai",
           "name": {
             "en": "Pai",
-            "nl": "Pai"
+            "nl": "Pai",
+            "ja": "パーイ",
+            "ko": "빠이",
+            "th": "ปาย",
+            "de": "Pai",
+            "fr": "Pai",
+            "ru": "Pai",
+            "zh": "Pai"
           },
           "value": 0.78,
           "rank": 13
@@ -6367,7 +7914,14 @@
           "slug": "phitsanulok",
           "name": {
             "en": "Phitsanulok",
-            "nl": "Phitsanulok"
+            "nl": "Phitsanulok",
+            "ja": "ピッサヌローク",
+            "ko": "핏사눌록",
+            "th": "พิษณุโลก",
+            "de": "Phitsanulok",
+            "fr": "Phitsanulok",
+            "ru": "Phitsanulok",
+            "zh": "Phitsanulok"
           },
           "value": 0.78,
           "rank": 14
@@ -6376,7 +7930,14 @@
           "slug": "sukhothai",
           "name": {
             "en": "Sukhothai",
-            "nl": "Sukhothai"
+            "nl": "Sukhothai",
+            "ja": "スコータイ",
+            "ko": "수코타이",
+            "th": "สุโขทัย",
+            "de": "Sukhothai",
+            "fr": "Sukhothai",
+            "ru": "Sukhothai",
+            "zh": "素可泰"
           },
           "value": 0.78,
           "rank": 15
@@ -6385,7 +7946,14 @@
           "slug": "bueng-kan",
           "name": {
             "en": "Bueng Kan",
-            "nl": "Bueng Kan"
+            "nl": "Bueng Kan",
+            "ja": "ブンカーン",
+            "ko": "붕칸",
+            "th": "บึงกาฬ",
+            "de": "Bueng Kan",
+            "fr": "Bueng Kan",
+            "ru": "Буэн Кан",
+            "zh": "布恩干"
           },
           "value": 0.75,
           "rank": 16
@@ -6394,7 +7962,14 @@
           "slug": "hat-yai",
           "name": {
             "en": "Hat Yai",
-            "nl": "Hat Yai"
+            "nl": "Hat Yai",
+            "ja": "ハジャイ",
+            "ko": "핫야이",
+            "th": "หาดใหญ่",
+            "de": "Hat Yai",
+            "fr": "Hat Yai",
+            "ru": "Hat Yai",
+            "zh": "Hat Yai"
           },
           "value": 0.75,
           "rank": 17
@@ -6403,7 +7978,14 @@
           "slug": "khon-kaen",
           "name": {
             "en": "Khon Kaen",
-            "nl": "Khon Kaen"
+            "nl": "Khon Kaen",
+            "ja": "コーンケーン",
+            "ko": "콘깬",
+            "th": "ขอนแก่น",
+            "de": "Khon Kaen",
+            "fr": "Khon Kaen",
+            "ru": "Кхон Каен",
+            "zh": "孔敬"
           },
           "value": 0.75,
           "rank": 18
@@ -6412,7 +7994,14 @@
           "slug": "koh-samui",
           "name": {
             "en": "Koh Samui",
-            "nl": "Koh Samui"
+            "nl": "Koh Samui",
+            "ja": "サムイ島",
+            "ko": "코사무이",
+            "th": "เกาะสมุย",
+            "de": "Koh Samui",
+            "fr": "Koh Samui",
+            "ru": "Ко Самуи",
+            "zh": "苏梅岛"
           },
           "value": 0.75,
           "rank": 19
@@ -6421,7 +8010,14 @@
           "slug": "lopburi",
           "name": {
             "en": "Lopburi",
-            "nl": "Lopburi"
+            "nl": "Lopburi",
+            "ja": "ロッブリー",
+            "ko": "롭부리",
+            "th": "ลพบุรี",
+            "de": "Lopburi",
+            "fr": "Lopburi",
+            "ru": "Лопбури",
+            "zh": "罗布里"
           },
           "value": 0.75,
           "rank": 20
@@ -6430,7 +8026,14 @@
           "slug": "mukdahan",
           "name": {
             "en": "Mukdahan",
-            "nl": "Mukdahan"
+            "nl": "Mukdahan",
+            "ja": "ムクダーハーン",
+            "ko": "묵다한",
+            "th": "มุกดาหาร",
+            "de": "Mukdahan",
+            "fr": "Mukdahan",
+            "ru": "Mukdahan",
+            "zh": "Mukdahan"
           },
           "value": 0.75,
           "rank": 21
@@ -6439,7 +8042,14 @@
           "slug": "nakhon-phanom",
           "name": {
             "en": "Nakhon Phanom",
-            "nl": "Nakhon Phanom"
+            "nl": "Nakhon Phanom",
+            "ja": "ナコーンパノム",
+            "ko": "나콘파놈",
+            "th": "นครพนม",
+            "de": "Nakhon Phanom",
+            "fr": "Nakhon Phanom",
+            "ru": "Nakhon Phanom",
+            "zh": "Nakhon Phanom"
           },
           "value": 0.75,
           "rank": 22
@@ -6448,7 +8058,14 @@
           "slug": "nakhon-ratchasima",
           "name": {
             "en": "Nakhon Ratchasima (Korat)",
-            "nl": "Nakhon Ratchasima (Korat)"
+            "nl": "Nakhon Ratchasima (Korat)",
+            "ja": "ナコーンラーチャシーマー（コラート）",
+            "ko": "나콘랏차시마 (코랏)",
+            "th": "นครราชสีมา",
+            "de": "Nakhon Ratchasima (Korat)",
+            "fr": "Nakhon Ratchasima (Korat)",
+            "ru": "Nakhon Ratchasima (Korat)",
+            "zh": "Nakhon Ratchasima (Korat)"
           },
           "value": 0.75,
           "rank": 23
@@ -6457,7 +8074,14 @@
           "slug": "nakhon-si-thammarat",
           "name": {
             "en": "Nakhon Si Thammarat",
-            "nl": "Nakhon Si Thammarat"
+            "nl": "Nakhon Si Thammarat",
+            "ja": "ナコーンシータンマラート",
+            "ko": "나콘시탐마랏",
+            "th": "นครศรีธรรมราช",
+            "de": "Nakhon Si Thammarat",
+            "fr": "Nakhon Si Thammarat",
+            "ru": "Nakhon Si Thammarat",
+            "zh": "Nakhon Si Thammarat"
           },
           "value": 0.75,
           "rank": 24
@@ -6466,7 +8090,14 @@
           "slug": "phuket",
           "name": {
             "en": "Phuket",
-            "nl": "Phuket"
+            "nl": "Phuket",
+            "ja": "プーケット",
+            "ko": "푸켓",
+            "th": "ภูเก็ต",
+            "de": "Phuket",
+            "fr": "Phuket",
+            "ru": "Пхукет",
+            "zh": "普吉岛"
           },
           "value": 0.75,
           "rank": 25
@@ -6475,7 +8106,14 @@
           "slug": "rayong",
           "name": {
             "en": "Rayong",
-            "nl": "Rayong"
+            "nl": "Rayong",
+            "ja": "ラヨーン",
+            "ko": "라용",
+            "th": "ระยอง",
+            "de": "Rayong",
+            "fr": "Rayong",
+            "ru": "Rayong",
+            "zh": "罗勇"
           },
           "value": 0.75,
           "rank": 26
@@ -6484,7 +8122,14 @@
           "slug": "surat-thani",
           "name": {
             "en": "Surat Thani",
-            "nl": "Surat Thani"
+            "nl": "Surat Thani",
+            "ja": "スラーターニー",
+            "ko": "수랏타니",
+            "th": "สุราษฎร์ธานี",
+            "de": "Surat Thani",
+            "fr": "Surat Thani",
+            "ru": "Surat Thani",
+            "zh": "Surat Thani"
           },
           "value": 0.75,
           "rank": 27
@@ -6493,7 +8138,14 @@
           "slug": "trang",
           "name": {
             "en": "Trang",
-            "nl": "Trang"
+            "nl": "Trang",
+            "ja": "トラン",
+            "ko": "뜨랑",
+            "th": "ตรัง",
+            "de": "Trang",
+            "fr": "Trang",
+            "ru": "Trang",
+            "zh": "Trang"
           },
           "value": 0.75,
           "rank": 28
@@ -6502,7 +8154,14 @@
           "slug": "trat",
           "name": {
             "en": "Trat",
-            "nl": "Trat"
+            "nl": "Trat",
+            "ja": "トラート",
+            "ko": "뜨랏",
+            "th": "ตราด",
+            "de": "Trat",
+            "fr": "Trat",
+            "ru": "Трат",
+            "zh": "特拉特"
           },
           "value": 0.75,
           "rank": 29
@@ -6511,7 +8170,14 @@
           "slug": "ubon-ratchathani",
           "name": {
             "en": "Ubon Ratchathani",
-            "nl": "Ubon Ratchathani"
+            "nl": "Ubon Ratchathani",
+            "ja": "ウボンラーチャターニー",
+            "ko": "우본랏차타니",
+            "th": "อุบลราชธานี",
+            "de": "Ubon Ratchathani",
+            "fr": "Ubon Ratchathani",
+            "ru": "Ubon Ratchathani",
+            "zh": "Ubon Ratchathani"
           },
           "value": 0.75,
           "rank": 30
@@ -6520,7 +8186,14 @@
           "slug": "udon-thani",
           "name": {
             "en": "Udon Thani",
-            "nl": "Udon Thani"
+            "nl": "Udon Thani",
+            "ja": "ウドーンターニー",
+            "ko": "우돈타니",
+            "th": "อุดรธานี",
+            "de": "Udon Thani",
+            "fr": "Udon Thani",
+            "ru": "Удон-Тхани",
+            "zh": "乌登他尼"
           },
           "value": 0.75,
           "rank": 31
@@ -6529,7 +8202,14 @@
           "slug": "chumphon",
           "name": {
             "en": "Chumphon",
-            "nl": "Chumphon"
+            "nl": "Chumphon",
+            "ja": "チュムポーン",
+            "ko": "춤폰",
+            "th": "ชุมพร",
+            "de": "Chumphon",
+            "fr": "Chumphon",
+            "ru": "Чумпхон",
+            "zh": "春蓬"
           },
           "value": 0.72,
           "rank": 32
@@ -6538,7 +8218,14 @@
           "slug": "pattaya",
           "name": {
             "en": "Pattaya",
-            "nl": "Pattaya"
+            "nl": "Pattaya",
+            "ja": "パタヤ",
+            "ko": "파타야",
+            "th": "พัทยา",
+            "de": "Pattaya",
+            "fr": "Pattaya",
+            "ru": "Паттайя",
+            "zh": "芭堤雅"
           },
           "value": 0.72,
           "rank": 33
