@@ -1,0 +1,96 @@
+{
+  "seo": {
+    "title": "Where To Stay in Trang: Best Areas & Islands (2026)",
+    "metaDescription": "Find the best area to stay in Trang, Thailand. City center for dim sum culture, Koh Kradan for beaches, Koh Mook for Emerald Cave access. Honest neighborhood guide with hotel recommendations.",
+    "slug": "trang"
+  },
+  "citySlug": "trang",
+  "cityName": "Trang",
+  "intro": "Where you stay in Trang determines your entire trip rhythm. The city center puts you in the heart of the legendary dim sum breakfast culture and gives you the flexibility to day-trip to any island. Koh Kradan and Koh Mook reward overnight stays with near-private beach mornings and authentic island life. Si Kao and Hat Chao Mai offer luxury resort stays right on the national park coastline. Here's an honest breakdown of each area to help you choose.",
+  "neighborhoods": [
+    {
+      "name": "Trang City Center (Near Train Station)",
+      "description": "The practical base for most Trang visitors — a walkable area centered on Thanon Phra Ram VI and Thanon Ratchadamnoen, a 5-minute walk from the train station. This is where the legendary dim sum culture lives: dozens of shophouses open at 5 AM serving bamboo-steamed dim sum and moo yang roast pork. The city center has ATMs, convenience stores, the night market on Thanon Wiset Kunthorn, the Kew Ong Ear shrine, and a range of accommodation from basic guesthouses to the Rua Rasada Hotel. Tour operators arrange island speedboats from here with hotel pickup included.",
+      "bestFor": "Dim sum enthusiasts, independent travelers & those doing island day trips",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Thanon Ratchadamnoen dim sum strip — Trang's legendary breakfast culture, starts at 5 AM",
+        "Train station connections to Bangkok (overnight sleeper) and Hat Yai",
+        "Night market on Thanon Wiset Kunthorn (6-10 PM daily) — khanom phing, grilled seafood, southern Thai food",
+        "Easiest base for arranging island tours with hotel pickup",
+        "Kew Ong Ear Chinese shrine (5 min walk) — center of Trang's Vegetarian Festival each October"
+      ],
+      "recommendedHotels": ["A Local Something", "Yamawa Guesthouse", "Sri Trang Hotel", "Trang Hotel", "Rua Rasada Hotel"],
+      "walkingScore": "8/10",
+      "transportNotes": ["Train station 5 min walk — overnight sleeper to Bangkok ~14 hours (600-1,200 THB)", "Minivan to Ban Chao Mai pier (38 km south) for island speedboats — 100-150 THB", "Motorbike taxi around city 40-80 THB", "Minivan to Krabi 1.5 hours (250 THB), Satun 2 hours (250 THB), Hat Yai 2 hours (180 THB)"],
+      "sources": [{"sourceName": "Travelfish", "sourceUrl": "https://www.travelfish.org/accommodation/thailand/southern_thailand/trang/trang/all", "lastVerified": "2026-03-15"}]
+    },
+    {
+      "name": "Koh Kradan",
+      "description": "Staying on Koh Kradan is one of Thailand's most genuinely rewarding beach experiences — a nearly undeveloped national park island with a world-class beach, and so few accommodation options that day-trippers leave by 4 PM and the beach becomes yours alone. The accommodation is simple eco-resort style (no roads, no cars, generator power after dark), but the setting — white sand, healthy coral reef, and absolute silence after sunset — is extraordinary. Essential for anyone who has ever complained that Thailand's famous beaches are too crowded.",
+      "bestFor": "Beach purists, snorkelers & couples seeking undeveloped island experience",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "After 4 PM the beach is exclusively for overnight guests — near-private beach experience",
+        "Snorkeling reef directly off the main beach — healthy coral in crystal-clear water",
+        "Sunsets facing west across the Andaman Sea — one of Trang Province's most beautiful",
+        "National park location means development is permanently controlled — no beach bars, no jet skis",
+        "Koh Cheuk and Koh Waen snorkeling sites are 20 minutes by longtail from the island"
+      ],
+      "recommendedHotels": ["Koh Kradan Paradise Beach Resort"],
+      "walkingScore": "6/10",
+      "transportNotes": ["Speedboat from Ban Chao Mai pier ~1.5 hours, usually included in resort rate", "No road access — all supplies and guests arrive by boat", "National park entrance 200 THB payable on arrival at the island pier"],
+      "sources": [{"sourceName": "Lonely Planet", "sourceUrl": "https://www.lonelyplanet.com/thailand/southern-thailand-gulf-coast/trang", "lastVerified": "2026-03-15"}]
+    },
+    {
+      "name": "Koh Mook",
+      "description": "Koh Mook offers the best compromise for travelers who want island accommodation without total isolation — a real island with a Muslim fishing village, rubber plantations, and a local community alongside the tourist infrastructure around Charlie Beach. The Emerald Cave is 20 minutes by kayak from Charlie Beach, meaning overnight guests can experience it at dawn before tour boats arrive — the definitive Trang experience. Accommodation ranges from basic fan bungalows to the Mook Lamai Spa Resort.",
+      "bestFor": "Emerald Cave enthusiasts, adventurous couples & travelers wanting authentic island life",
+      "priceLevel": "Budget to Luxury",
+      "highlights": [
+        "Dawn Emerald Cave access — kayak from Charlie Beach at 7 AM, before tour boats arrive at 10 AM",
+        "Real fishing village atmosphere — Muslim community, fresh seafood, local markets",
+        "Charlie Beach is a legitimate beautiful beach in its own right, not just an Emerald Cave base",
+        "More accommodation and dining options than Koh Kradan — more independent flexibility",
+        "Longtail boats connect to Koh Kradan and Koh Ngai for day trips"
+      ],
+      "recommendedHotels": ["Pawapi Beach Resort", "Mook Lamai Resort and Spa"],
+      "walkingScore": "5/10",
+      "transportNotes": ["Speedboat from Ban Chao Mai pier ~1 hour", "Ferry from Trang Pier also available (slower, cheaper, ~200 THB)", "Kayak rental from Charlie Beach 100 THB/hour for Emerald Cave visits"],
+      "sources": [{"sourceName": "The Always Wanderer", "sourceUrl": "https://thealwayswanderer.com/koh-mook-thailand-hidden-gem/", "lastVerified": "2026-03-15"}]
+    },
+    {
+      "name": "Si Kao / Hat Chao Mai Coast",
+      "description": "The mainland coastline near Hat Chao Mai National Park — specifically the Si Kao area around 40 km south of Trang City — hosts Trang Province's most luxurious accommodation, led by the Anantara Si Kao Resort. This area puts you on the national park's coastline with direct access to mangrove kayaking and private speedboat service to the islands. The setting is tropical and secluded with no tourist town infrastructure. For independent travelers wanting to explore beyond the resort, a rental car or motorbike is essential.",
+      "bestFor": "Luxury travelers, honeymooners & resort holiday seekers",
+      "priceLevel": "Luxury",
+      "highlights": [
+        "Anantara Si Kao Resort — Trang Province's most luxurious hotel with infinity pool and private speedboat",
+        "Direct access to Hat Chao Mai National Park mangrove kayaking",
+        "Private speedboat transfers to Koh Mook and Koh Kradan arranged by resort",
+        "Secluded coastline with minimal tourist development — genuinely peaceful",
+        "40 km from Trang City dim sum — early morning resort car service available"
+      ],
+      "recommendedHotels": ["Anantara Si Kao Resort"],
+      "walkingScore": "2/10",
+      "transportNotes": ["40 km south of Trang City (40 min by car)", "Resort arranges all transfers and island tours", "Rental car or motorbike essential for independent exploration"],
+      "sources": [{"sourceName": "Anantara", "sourceUrl": "https://www.anantara.com/en/si-kao-trang", "lastVerified": "2026-03-15"}]
+    }
+  ],
+  "generalTips": [
+    "First-timers should spend night 1-2 in Trang City for the dim sum breakfast culture, then move to an island (Koh Kradan or Koh Mook) for nights 3-4",
+    "For the Emerald Cave at its best, stay on Koh Mook and kayak there at dawn — the difference between a 7 AM cave visit and an 11 AM tour boat visit is night and day",
+    "Koh Kradan overnight stays are far superior to day trips — the beach belongs to you after 4 PM and before 9 AM",
+    "Budget travelers should base entirely in Trang City — day trips to all islands and caves are possible from a central base at 1/3 the cost of island accommodation",
+    "Book island accommodation 2-4 weeks ahead for December-January — limited room counts sell out fast during Thai holiday periods",
+    "Si Kao / Anantara is the most luxurious option but requires full resort dependency for transport — not ideal for independent travelers"
+  ],
+  "generatedAt": "2026-03-15",
+  "lastUpdated": "2026-03-15",
+  "sources": [
+    {"sourceName": "Travelfish", "sourceUrl": "https://www.travelfish.org/accommodation/thailand/southern_thailand/trang/trang/all", "lastVerified": "2026-03-15"},
+    {"sourceName": "Lonely Planet", "sourceUrl": "https://www.lonelyplanet.com/thailand/southern-thailand-gulf-coast/trang", "lastVerified": "2026-03-15"},
+    {"sourceName": "The Always Wanderer", "sourceUrl": "https://thealwayswanderer.com/koh-mook-thailand-hidden-gem/", "lastVerified": "2026-03-15"},
+    {"sourceName": "Anantara Hotels", "sourceUrl": "https://www.anantara.com/en/si-kao-trang", "lastVerified": "2026-03-15"}
+  ]
+}
