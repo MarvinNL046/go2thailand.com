@@ -271,6 +271,110 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
             </p>
           </div>
         </section>
+
+        {/* Explore More */}
+        <section className="bg-white py-12">
+          <div className="container-custom">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4 text-center">
+              Explore More of Thailand
+            </h2>
+            <p className="text-lg text-gray-600 max-w-2xl mx-auto text-center mb-8">
+              Dive deeper into Thailand's cities, islands, food, transport, and travel data.
+            </p>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 max-w-4xl mx-auto">
+              <Link
+                href="/city/"
+                className="flex items-center p-4 bg-gray-50 rounded-lg border border-gray-200 hover:border-thailand-blue hover:bg-blue-50 transition-colors group"
+              >
+                <div className="flex-shrink-0 w-10 h-10 bg-thailand-blue rounded-md flex items-center justify-center mr-4">
+                  <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                  </svg>
+                </div>
+                <div>
+                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">All City Guides</div>
+                  <div className="text-sm text-gray-500">33 cities covered in depth</div>
+                </div>
+              </Link>
+
+              <Link
+                href="/islands/"
+                className="flex items-center p-4 bg-gray-50 rounded-lg border border-gray-200 hover:border-thailand-blue hover:bg-blue-50 transition-colors group"
+              >
+                <div className="flex-shrink-0 w-10 h-10 bg-thailand-blue rounded-md flex items-center justify-center mr-4">
+                  <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064" />
+                  </svg>
+                </div>
+                <div>
+                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">Thai Islands</div>
+                  <div className="text-sm text-gray-500">Beaches, diving & island hopping</div>
+                </div>
+              </Link>
+
+              <Link
+                href="/thailand-index/"
+                className="flex items-center p-4 bg-gray-50 rounded-lg border border-gray-200 hover:border-thailand-blue hover:bg-blue-50 transition-colors group"
+              >
+                <div className="flex-shrink-0 w-10 h-10 bg-thailand-blue rounded-md flex items-center justify-center mr-4">
+                  <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+                  </svg>
+                </div>
+                <div>
+                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">Thailand Travel Index</div>
+                  <div className="text-sm text-gray-500">Budget, weather & rankings</div>
+                </div>
+              </Link>
+
+              <Link
+                href="/transport/"
+                className="flex items-center p-4 bg-gray-50 rounded-lg border border-gray-200 hover:border-thailand-blue hover:bg-blue-50 transition-colors group"
+              >
+                <div className="flex-shrink-0 w-10 h-10 bg-thailand-blue rounded-md flex items-center justify-center mr-4">
+                  <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
+                  </svg>
+                </div>
+                <div>
+                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">Transport Routes</div>
+                  <div className="text-sm text-gray-500">245 routes between cities</div>
+                </div>
+              </Link>
+
+              <Link
+                href="/weather/"
+                className="flex items-center p-4 bg-gray-50 rounded-lg border border-gray-200 hover:border-thailand-blue hover:bg-blue-50 transition-colors group"
+              >
+                <div className="flex-shrink-0 w-10 h-10 bg-thailand-blue rounded-md flex items-center justify-center mr-4">
+                  <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z" />
+                  </svg>
+                </div>
+                <div>
+                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">Weather Guide</div>
+                  <div className="text-sm text-gray-500">Best time to visit each region</div>
+                </div>
+              </Link>
+
+              <Link
+                href="/food/"
+                className="flex items-center p-4 bg-gray-50 rounded-lg border border-gray-200 hover:border-thailand-blue hover:bg-blue-50 transition-colors group"
+              >
+                <div className="flex-shrink-0 w-10 h-10 bg-thailand-blue rounded-md flex items-center justify-center mr-4">
+                  <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                  </svg>
+                </div>
+                <div>
+                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">Thai Food Guide</div>
+                  <div className="text-sm text-gray-500">Dishes, drinks & street food</div>
+                </div>
+              </Link>
+            </div>
+          </div>
+        </section>
       </div>
     </>
   );

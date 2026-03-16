@@ -576,6 +576,21 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
               <Link href="/food/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
                 Thai Food Guide
               </Link>
+              <Link href="/visa/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
+                Visa Guide
+              </Link>
+              <Link href="/weather/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
+                Weather Guide
+              </Link>
+              <Link href="/thailand-travel-guide/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
+                Thailand Travel Guide
+              </Link>
+              <Link href="/compare/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
+                Compare Destinations
+              </Link>
+              <Link href="/thailand-for-first-timers/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
+                First Timer's Guide
+              </Link>
             </div>
           </div>
         </section>

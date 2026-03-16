@@ -163,6 +163,85 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
         </div>
       </section>
 
+      {/* Travel Guides */}
+      <section className="section-padding bg-surface-cream">
+        <div className="container-custom">
+          <div className="text-center mb-10">
+            <span className="section-label">Explore Thailand</span>
+            <h2 className="section-title mb-3">Travel Guides</h2>
+            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+              Everything you need to plan your perfect Thailand trip — restaurants, hotels, attractions, and more.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-5xl mx-auto">
+            <Link
+              href="/top-10/restaurants/"
+              className="flex flex-col items-center gap-3 px-4 py-6 bg-white rounded-xl border border-gray-100 shadow-sm hover:shadow-md hover:border-thailand-red/30 transition-all group"
+            >
+              <span className="text-3xl">🍜</span>
+              <span className="font-medium text-sm text-gray-800 group-hover:text-thailand-red transition-colors text-center">Restaurant Guides</span>
+            </Link>
+
+            <Link
+              href="/top-10/hotels/"
+              className="flex flex-col items-center gap-3 px-4 py-6 bg-white rounded-xl border border-gray-100 shadow-sm hover:shadow-md hover:border-thailand-red/30 transition-all group"
+            >
+              <span className="text-3xl">🏨</span>
+              <span className="font-medium text-sm text-gray-800 group-hover:text-thailand-red transition-colors text-center">Hotel Guides</span>
+            </Link>
+
+            <Link
+              href="/top-10/attractions/"
+              className="flex flex-col items-center gap-3 px-4 py-6 bg-white rounded-xl border border-gray-100 shadow-sm hover:shadow-md hover:border-thailand-red/30 transition-all group"
+            >
+              <span className="text-3xl">🗺️</span>
+              <span className="font-medium text-sm text-gray-800 group-hover:text-thailand-red transition-colors text-center">Attraction Guides</span>
+            </Link>
+
+            <Link
+              href="/food/"
+              className="flex flex-col items-center gap-3 px-4 py-6 bg-white rounded-xl border border-gray-100 shadow-sm hover:shadow-md hover:border-thailand-red/30 transition-all group"
+            >
+              <span className="text-3xl">🌶️</span>
+              <span className="font-medium text-sm text-gray-800 group-hover:text-thailand-red transition-colors text-center">Thai Food Guide</span>
+            </Link>
+
+            <Link
+              href="/islands/"
+              className="flex flex-col items-center gap-3 px-4 py-6 bg-white rounded-xl border border-gray-100 shadow-sm hover:shadow-md hover:border-thailand-red/30 transition-all group"
+            >
+              <span className="text-3xl">🏝️</span>
+              <span className="font-medium text-sm text-gray-800 group-hover:text-thailand-red transition-colors text-center">Thai Islands</span>
+            </Link>
+
+            <Link
+              href="/thailand-index/"
+              className="flex flex-col items-center gap-3 px-4 py-6 bg-white rounded-xl border border-gray-100 shadow-sm hover:shadow-md hover:border-thailand-red/30 transition-all group"
+            >
+              <span className="text-3xl">📊</span>
+              <span className="font-medium text-sm text-gray-800 group-hover:text-thailand-red transition-colors text-center">Thailand Travel Index</span>
+            </Link>
+
+            <Link
+              href="/compare/"
+              className="flex flex-col items-center gap-3 px-4 py-6 bg-white rounded-xl border border-gray-100 shadow-sm hover:shadow-md hover:border-thailand-red/30 transition-all group"
+            >
+              <span className="text-3xl">⚖️</span>
+              <span className="font-medium text-sm text-gray-800 group-hover:text-thailand-red transition-colors text-center">Compare Destinations</span>
+            </Link>
+
+            <Link
+              href="/transport/"
+              className="flex flex-col items-center gap-3 px-4 py-6 bg-white rounded-xl border border-gray-100 shadow-sm hover:shadow-md hover:border-thailand-red/30 transition-all group"
+            >
+              <span className="text-3xl">🚌</span>
+              <span className="font-medium text-sm text-gray-800 group-hover:text-thailand-red transition-colors text-center">Transport Routes</span>
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* Regional Stats */}
       <section className="bg-surface-dark py-14" ref={statsAnim.ref}>
         <div className="container-custom">
