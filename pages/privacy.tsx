@@ -26,12 +26,29 @@ export default function PrivacyPolicy() {
     };
   }, []);
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: 'Privacy Policy',
+    description: 'Privacy Policy for Go2Thailand.com - Learn how we collect, use, and protect your personal information.',
+    url: 'https://go2-thailand.com/privacy',
+    publisher: {
+      '@type': 'Organization',
+      name: 'Go2Thailand.com',
+      url: 'https://go2-thailand.com',
+    },
+  };
+
   return (
     <>
       <Head>
         <title>Privacy Policy - Go2Thailand.com</title>
         <meta name="description" content="Privacy Policy for Go2Thailand.com - Learn how we collect, use, and protect your personal information." />
         <meta name="robots" content="noindex, follow" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
       </Head>
 
       <div className="min-h-screen bg-surface-cream">

@@ -8,12 +8,29 @@ export default function TermsOfService() {
     { name: 'Terms of Service', href: '/terms' }
   ];
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: 'Terms of Service',
+    description: 'Terms of Service for Go2Thailand.com - Read our terms and conditions for using our travel guide website.',
+    url: 'https://go2-thailand.com/terms',
+    publisher: {
+      '@type': 'Organization',
+      name: 'Go2Thailand.com',
+      url: 'https://go2-thailand.com',
+    },
+  };
+
   return (
     <>
       <Head>
         <title>Terms of Service - Go2Thailand.com</title>
         <meta name="description" content="Terms of Service for Go2Thailand.com - Read our terms and conditions for using our travel guide website." />
         <meta name="robots" content="noindex, follow" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
       </Head>
 
       <div className="min-h-screen bg-surface-cream">
