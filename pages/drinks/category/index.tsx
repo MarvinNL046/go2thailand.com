@@ -161,53 +161,22 @@ export default function DrinkCategoriesIndex({ categoryCounts }: DrinkCategories
           </div>
         </section>
 
-        {/* Affiliate: Experience Thai Food & Drink Culture */}
+        {/* Experience Thai Food & Drink Culture */}
         <section className="bg-white py-16">
-          <div className="container-custom">
-            <div className="text-center mb-10">
-              <p className="section-label font-script text-thailand-gold">Experience</p>
-              <h2 className="text-3xl lg:text-4xl font-heading font-bold text-gray-900 mb-4">
-                Experience Thai Food &amp; Drink Culture
-              </h2>
-              <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                Taste the best of Thailand with guided food tours, night market visits, and hands-on cooking experiences
-              </p>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-              <div className="bg-white rounded-2xl shadow-md p-8 text-center">
-                <div className="text-5xl mb-4"></div>
-                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Street Food &amp; Night Market Tours</h3>
-                <p className="text-gray-600 mb-6">
-                  Street food &amp; night market tours
-                </p>
-                <a
-                  href="https://klook.tpo.lv/aq6ZFxvc"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-block bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-blue transition-colors"
-                >
-                  Browse on Klook
-                </a>
-              </div>
-              <div className="bg-white rounded-2xl shadow-md p-8 text-center">
-                <div className="text-5xl mb-4"></div>
-                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Cooking &amp; Tasting Experiences</h3>
-                <p className="text-gray-600 mb-6">
-                  Thai cooking &amp; tasting experiences
-                </p>
-                <a
-                  href="https://getyourguide.tpo.lv/GuAFfGGK"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-block bg-thailand-blue text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-red transition-colors"
-                >
-                  Browse on GetYourGuide
-                </a>
-              </div>
-            </div>
-            <p className="text-center text-xs text-gray-400 mt-6">
-              We may earn a commission when you book through our links, at no extra cost to you. This helps us keep Go2Thailand running.
+          <div className="container-custom text-center">
+            <p className="section-label font-script text-thailand-gold">Experience</p>
+            <h2 className="text-3xl lg:text-4xl font-heading font-bold text-gray-900 mb-4">
+              Experience Thai Food &amp; Drink Culture
+            </h2>
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-8">
+              Discover the flavors behind these drinks by exploring our <Link href="/food/" className="text-thailand-blue hover:underline">Thai food guide</Link> or learning to cook them yourself.
             </p>
+            <Link
+              href="/best-cooking-classes-in-thailand/"
+              className="inline-block bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-blue transition-colors"
+            >
+              Compare Cooking Classes Across Thailand
+            </Link>
           </div>
         </section>
 

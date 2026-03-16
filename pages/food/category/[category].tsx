@@ -273,12 +273,17 @@ export default function FoodCategoryPage({ category, dishes }: CategoryPageProps
           </div>
         </section>
 
-        {/* Back to Food Index */}
+        {/* Cooking Classes + Back to Food Index */}
         <section className="py-8 bg-surface-cream">
-          <div className="container-custom text-center">
-            <Link href="/food/" className="btn-primary">
-              ← Back to All Thai Dishes
+          <div className="container-custom text-center space-y-4">
+            <Link href="/best-cooking-classes-in-thailand/" className="inline-flex items-center gap-2 text-thailand-red font-semibold hover:underline">
+              Learn to cook these dishes — Compare cooking classes across Thailand →
             </Link>
+            <div>
+              <Link href="/food/" className="btn-primary">
+                ← Back to All Thai Dishes
+              </Link>
+            </div>
           </div>
         </section>
 

@@ -193,9 +193,9 @@ export default function DishPage({ dish, relatedDishes, citiesForDish }: DishPag
                   <span className={`px-3 py-1 rounded-full text-sm font-medium ${getDifficultyColor(dish.difficulty)}`}>
                     {dish.difficulty}
                   </span>
-                  <span className="px-3 py-1 rounded-full text-sm font-medium bg-thailand-blue/10 text-thailand-blue capitalize">
+                  <Link href={`/food/category/${dish.category}/`} className="px-3 py-1 rounded-full text-sm font-medium bg-thailand-blue/10 text-thailand-blue capitalize hover:bg-thailand-blue/20 transition-colors">
                     {dish.category.replace('-', ' ')}
-                  </span>
+                  </Link>
                 </div>
 
                 <h1 className="text-4xl lg:text-5xl font-heading font-bold text-gray-900 mb-4">

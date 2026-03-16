@@ -341,6 +341,12 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
                   Explore {drink.region === 'isaan' ? 'Isaan' : `${drink.region.charAt(0).toUpperCase() + drink.region.slice(1)} Thailand`}
                 </Link>
               )}
+              <Link
+                href="/best-cooking-classes-in-thailand/"
+                className="inline-flex items-center gap-2 border-2 border-thailand-red text-thailand-red px-5 py-3 rounded-xl font-semibold hover:bg-thailand-red hover:text-white transition-colors"
+              >
+                Learn Thai Cooking
+              </Link>
             </div>
           </div>
         </section>

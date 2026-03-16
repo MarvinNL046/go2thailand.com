@@ -369,6 +369,17 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
           </div>
         </section>
 
+        {/* Cooking Classes Cross-Link */}
+        <section className="section-padding">
+          <div className="container-custom text-center">
+            <h2 className="text-2xl font-heading font-bold text-gray-900 mb-3">Learn to Cook Thai Food</h2>
+            <p className="text-gray-600 mb-6">Take a hands-on cooking class and learn to recreate these dishes at home.</p>
+            <Link href="/best-cooking-classes-in-thailand/" className="inline-flex items-center gap-2 bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors">
+              Compare Cooking Classes Across Thailand
+            </Link>
+          </div>
+        </section>
+
         {/* CTA Section */}
         <section className="bg-surface-dark text-white section-padding">
           <div className="container-custom text-center">
