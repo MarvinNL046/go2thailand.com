@@ -719,6 +719,39 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   </div>
                 </div>
 
+                {/* Experiences Cross-Links */}
+                <div className="bg-white rounded-2xl shadow-md p-6 my-6">
+                  <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">
+                    Experiences in {city.name.en}
+                  </h3>
+                  <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+                    <Link
+                      href={`/city/${city.slug}/cooking-classes/`}
+                      className="flex items-center gap-2 p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-sm font-medium text-gray-800"
+                    >
+                      <span className="text-lg">👨‍🍳</span> Cooking Classes
+                    </Link>
+                    <Link
+                      href={`/city/${city.slug}/muay-thai/`}
+                      className="flex items-center gap-2 p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-sm font-medium text-gray-800"
+                    >
+                      <span className="text-lg">🥊</span> Muay Thai
+                    </Link>
+                    <Link
+                      href={`/city/${city.slug}/diving-snorkeling/`}
+                      className="flex items-center gap-2 p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-sm font-medium text-gray-800"
+                    >
+                      <span className="text-lg">🤿</span> Diving
+                    </Link>
+                    <Link
+                      href={`/city/${city.slug}/elephant-sanctuaries/`}
+                      className="flex items-center gap-2 p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-sm font-medium text-gray-800"
+                    >
+                      <span className="text-lg">🐘</span> Elephants
+                    </Link>
+                  </div>
+                </div>
+
                 {/* Where to Stay Section */}
                 <div className="mb-12">
                   <span className="section-label">Book your stay</span>
@@ -1396,7 +1429,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   <div className="space-y-3">
                     <div className="flex justify-between">
                       <span className="text-gray-600">Region:</span>
-                      <span className="font-medium">{city.region}</span>
+                      <Link href={`/region/${city.region}/`} className="font-medium text-thailand-blue hover:underline capitalize">{city.region}</Link>
                     </div>
                     <div className="flex justify-between">
                       <span className="text-gray-600">Province:</span>
