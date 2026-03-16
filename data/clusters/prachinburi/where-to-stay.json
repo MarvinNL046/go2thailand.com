@@ -1,0 +1,95 @@
+{
+  "seo": {
+    "title": "Where To Stay in Prachinburi: Best Areas (2026)",
+    "metaDescription": "Find the best area to stay in Prachinburi. Town center for culture, Kabin Buri for waterfalls, Na Di for Thap Lan wildlife, Khao Yai east for luxury forest resorts. Honest area comparison.",
+    "slug": "prachinburi"
+  },
+  "citySlug": "prachinburi",
+  "cityName": "Prachinburi",
+  "intro": "Where you stay in Prachinburi Province shapes everything about your trip. The provincial town gives you culture, markets, the National Museum, and the widest choice of restaurants. Kabin Buri district puts you close to Khao I-To Waterfall and bamboo rafting. Na Di district is the gateway for dawn wildlife at Thap Lan National Park on Route 304. The Khao Yai eastern zone has the most atmospheric luxury forest resorts. Here's an honest breakdown for each area.",
+  "neighborhoods": [
+    {
+      "name": "Prachinburi Town Center",
+      "description": "The provincial capital on the banks of the Prachinburi River offers the most facilities of any area in the province. The National Museum (Wed-Sun) is a 5-minute walk from most town hotels, the Wednesday and Saturday morning markets are excellent for local food, and Wat Kaeo Phichit on the river is peaceful at dawn. Si Mahosot Ancient City is 20 km south by car. The town is authentically Thai with minimal tourist infrastructure — a feature, not a bug, for travelers who want genuine local atmosphere rather than resort bubble.",
+      "bestFor": "History & culture lovers, market enthusiasts & base campers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Walking distance to Prachinburi National Museum (Wed-Sun, one of central Thailand's best)",
+        "Wednesday and Saturday markets from 6 AM — fresh river prawns, seasonal fruit, local breakfast",
+        "Wat Kaeo Phichit riverside temple with morning alms-giving ceremony",
+        "Si Mahosot Ancient City 20 km south — Dvaravati ruins from the 5th-12th century",
+        "Cheapest accommodation in the province with the widest restaurant selection"
+      ],
+      "recommendedHotels": ["Prachinburi Riverview Guesthouse", "Story Telling House Prachinburi Herb Town"],
+      "walkingScore": "6/10",
+      "transportNotes": ["Car essential for national parks — park gates are 60-100 km from town", "Songthaews serve local routes within town for 15-30 THB", "Grab available in town for inter-district rides"],
+      "sources": [{"sourceName": "TripAdvisor Prachinburi", "sourceUrl": "https://www.tripadvisor.com/Tourism-g982714-Prachin_Buri_Prachin_Buri_Province-Vacations.html", "lastVerified": "2026-03-16"}]
+    },
+    {
+      "name": "Kabin Buri District",
+      "description": "Kabin Buri is Prachinburi's main tourist sub-district, sitting at the junction of several key attractions. Khao I-To Waterfall is 10 km away — the most popular natural attraction in the province. Bamboo rafting operators work the rivers here. The Dasada Gallery contemporary art space is in this area. Route 304 heading north towards Thap Lan National Park starts from Kabin Buri. A good central base for visitors wanting to cover the widest range of Prachinburi's highlights in 2-3 days.",
+      "bestFor": "Waterfall visitors, bamboo rafters & art lovers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Khao I-To Waterfall only 10 km away — Prachinburi's top-rated natural attraction",
+        "Bamboo rafting operators on local rivers — popular Bangkok weekend activity",
+        "Dasada Gallery contemporary art and sculpture garden",
+        "Gateway to Route 304 and Thap Lan National Park (60 km north)",
+        "More restaurants and facilities than Na Di District"
+      ],
+      "recommendedHotels": ["Kabin Buri Resort", "Baan Suan Resort Prachinburi"],
+      "walkingScore": "4/10",
+      "transportNotes": ["Car essential for waterfall and park visits", "Route 304 north connects Kabin Buri to Thap Lan National Park in 1 hour", "Local songthaews for town routes only"],
+      "sources": [{"sourceName": "TripAdvisor Prachinburi Province", "sourceUrl": "https://www.tripadvisor.com/Attractions-g2098630-Activities-Prachin_Buri_Province.html", "lastVerified": "2026-03-16"}]
+    },
+    {
+      "name": "Na Di District / Route 304 Forest Zone",
+      "description": "Na Di district sits at the heart of the Route 304 forest corridor through Thap Lan National Park — Thailand's most remarkable rainforest highway. Staying here means waking up in or adjacent to UNESCO World Heritage forest, and reaching the Thap Lan park gates in minutes rather than the 60+ minute drive from town. Dawn wildlife access is the defining advantage — elephants cross Route 304 at first light, and the cool forest air at 6 AM is something day-trippers never experience. Facilities are basic but the setting is extraordinary.",
+      "bestFor": "Wildlife watchers, dawn hikers & national park immersion",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Minutes from Thap Lan National Park Route 304 entrance — critical for dawn wildlife access",
+        "Route 304 forest drive — elephants cross this road at dawn, arguably Thailand's best wildlife road",
+        "UNESCO World Heritage forest literally surrounds you — hornbills, gibbons, deer at the forest edge",
+        "Quietest area in the province — genuinely off the tourist trail",
+        "National park bungalows inside Thap Lan itself are just 20-30 minutes further"
+      ],
+      "recommendedHotels": ["Na Di Forest Resort", "Pang Sida National Park Bungalows"],
+      "walkingScore": "2/10",
+      "transportNotes": ["Car essential — no public transport in Na Di district", "30 min drive from Kabin Buri", "90 min drive from Prachinburi town", "Thap Lan park gates 20-30 min from Na Di accommodation"],
+      "sources": [{"sourceName": "The Bear Travel Thap Lan", "sourceUrl": "https://thebear.travel/182/Thap-Lan-National-Park:-Visit-its-Breathtaking-View-in-Prachinburi", "lastVerified": "2026-03-16"}]
+    },
+    {
+      "name": "Khao Yai East Zone (Nakhon Nayok border area)",
+      "description": "The eastern zone of Khao Yai National Park, accessed via Prachinburi's northeastern border with Nakhon Nayok province, hosts the region's most luxurious forest resorts. This area offers the full Khao Yai experience — elephant sightings, dramatic waterfalls like Haew Narok (150 meters), gibbon calls at dawn — without the over-touristification of the western Pak Chong side. Luxury pool villas and tree-house resorts here attract honeymooners and Bangkok couples willing to pay for nature in comfort.",
+      "bestFor": "Honeymooners, luxury nature seekers & Khao Yai wildlife access",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "Access to Khao Yai's eastern entrance — less crowded than the Pak Chong western side",
+        "Haew Narok Waterfall (150 meters, three tiers) accessible without the tourist hordes",
+        "Luxury tree-house and pool villa resorts in genuine forest settings",
+        "Dawn gibbon calls and wildlife sightings from resort grounds",
+        "Concierge-arranged park tours and night safaris"
+      ],
+      "recommendedHotels": ["Santhiya Tree Khaoyai Resort", "Palio Khao Yai Forest Villas", "Khaoyai Garden Lodge"],
+      "walkingScore": "2/10",
+      "transportNotes": ["Car essential — most guests drive from Bangkok (2.5 hrs via Highway 305)", "Most luxury resorts offer Bangkok transfers for 2,000-4,000 THB", "Khao Yai national park entrance is 20-40 min drive from resorts in this zone"],
+      "sources": [{"sourceName": "TripAdvisor Prachinburi Province Resorts", "sourceUrl": "https://www.tripadvisor.com/Hotels-g2098630-zff8-Prachin_Buri_Province-Hotels.html", "lastVerified": "2026-03-16"}]
+    }
+  ],
+  "generalTips": [
+    "First-time visitors should base in Prachinburi town for the first night to visit the National Museum, then move to a forest lodge near Thap Lan or Pang Sida for the nature experience",
+    "If wildlife watching is your priority, staying inside or adjacent to Thap Lan or Pang Sida national parks for at least one night is transformative — dawn in the forest is unlike anything from a day trip",
+    "Kabin Buri district is the best all-rounder base for a 2-3 day visit combining waterfalls, bamboo rafting, the art gallery, and national park day trips",
+    "The Khao Yai east zone is worth the higher price for honeymooners and couples — the luxury forest resorts here deliver a genuinely romantic setting unlike anything in Bangkok or beach destinations",
+    "All areas require a car — public transport between neighborhoods and national parks is essentially non-existent"
+  ],
+  "generatedAt": "2026-03-16",
+  "lastUpdated": "2026-03-16",
+  "sources": [
+    {"sourceName": "TripAdvisor Prachinburi", "sourceUrl": "https://www.tripadvisor.com/Tourism-g982714-Prachin_Buri_Prachin_Buri_Province-Vacations.html", "lastVerified": "2026-03-16"},
+    {"sourceName": "TripAdvisor Prachinburi Province Resorts", "sourceUrl": "https://www.tripadvisor.com/Hotels-g2098630-zff8-Prachin_Buri_Province-Hotels.html", "lastVerified": "2026-03-16"},
+    {"sourceName": "Booking.com Prachinburi", "sourceUrl": "https://www.booking.com/region/th/prachinburi.html", "lastVerified": "2026-03-16"},
+    {"sourceName": "Thai National Parks", "sourceUrl": "https://www.thainationalparks.com/pang-sida-national-park", "lastVerified": "2026-03-16"}
+  ]
+}
