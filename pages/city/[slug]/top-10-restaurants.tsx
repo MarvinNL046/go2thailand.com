@@ -5,6 +5,8 @@ import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
+import AffiliateBox from '../../../components/AffiliateBox';
+import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 import fs from 'fs';
 import path from 'path';
 
@@ -64,9 +66,10 @@ interface Top10RestaurantsData {
 interface Top10RestaurantsPageProps {
   city: City;
   restaurantsData: Top10RestaurantsData | null;
+  affiliates: CityAffiliates | null;
 }
 
-export default function Top10RestaurantsPage({ city, restaurantsData }: Top10RestaurantsPageProps) {
+export default function Top10RestaurantsPage({ city, restaurantsData, affiliates }: Top10RestaurantsPageProps) {
   if (!city) return <div>City not found</div>;
 
   const breadcrumbs = [
@@ -370,35 +373,9 @@ export default function Top10RestaurantsPage({ city, restaurantsData }: Top10Res
                   </div>
 
                   {/* Book a Food Experience - Affiliate CTA */}
-                  <div className="bg-surface-cream rounded-2xl shadow-md p-8 text-center border-0">
-                    <h3 className="text-2xl font-bold font-heading text-gray-900 mb-3">
-                      Book a Food Experience in {city.name.en}
-                    </h3>
-                    <p className="text-gray-600 mb-6">
-                      Take your taste buds further with hands-on cooking classes and guided food tours in {city.name.en}.
-                    </p>
-                    <div className="flex flex-col sm:flex-row gap-4 justify-center mb-4">
-                      <a
-                        href="https://klook.tpo.lv/aq6ZFxvc"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-block bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors"
-                      >
-                        Cooking Classes on Klook
-                      </a>
-                      <a
-                        href="https://getyourguide.tpo.lv/GuAFfGGK"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-block bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors"
-                      >
-                        Food Tours on GetYourGuide
-                      </a>
-                    </div>
-                    <p className="text-xs text-gray-500">
-                      We earn a commission at no extra cost to you
-                    </p>
-                  </div>
+                  {affiliates && (
+                    <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="activities" />
+                  )}
 
                   {/* Call to Action */}
                   <div className="bg-white rounded-2xl shadow-md p-8 text-center">
@@ -440,6 +417,8 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
 
   if (!city) return { notFound: true };
 
+  const affiliates = getAffiliates(params.slug as string);
+
   // Try to load locale-specific top 10 restaurants data, fallback to English
   let restaurantsData = null;
   try {
@@ -454,10 +433,11 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     // No top 10 restaurants data found for this city
   }
 
-  return { 
-    props: { 
+  return {
+    props: {
       city,
-      restaurantsData 
+      restaurantsData,
+      affiliates
     },
     revalidate: 86400 // Revalidate daily
   };
