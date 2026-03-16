@@ -1,4 +1,6 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
+import fs from 'fs';
+import pathModule from 'path';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -93,6 +95,7 @@ interface IslandPageProps {
   relatedIslands: RelatedIsland[];
   comparisons: ComparisonLink[];
   affiliates: CityAffiliates | null;
+  relevantRoutes: Array<{ slug: string; from: string; to: string }>;
 }
 
 const getTransportIcon = (method: string) => {
@@ -105,7 +108,7 @@ const getTransportIcon = (method: string) => {
   return '';
 };
 
-export default function IslandPage({ island, relatedIslands, comparisons, affiliates }: IslandPageProps) {
+export default function IslandPage({ island, relatedIslands, comparisons, affiliates, relevantRoutes }: IslandPageProps) {
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
   const breadcrumbs = generateIslandBreadcrumbs(island);
@@ -343,6 +346,22 @@ export default function IslandPage({ island, relatedIslands, comparisons, affili
                     </div>
                   ))}
                 </div>
+                {relevantRoutes && relevantRoutes.length > 0 && (
+                  <div className="mt-4 p-4 bg-surface-cream rounded-xl">
+                    <h4 className="font-heading font-semibold text-gray-900 mb-2 text-sm">Transport Route Guides</h4>
+                    <div className="flex flex-wrap gap-2">
+                      {relevantRoutes.map((route: any) => (
+                        <Link
+                          key={route.slug}
+                          href={`/transport/${route.slug}/`}
+                          className="text-sm text-thailand-blue hover:underline"
+                        >
+                          {route.from} → {route.to}
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                )}
                 <div className="mt-6 bg-white rounded-2xl shadow-md p-6">
                   <h3 className="text-lg font-heading font-bold text-gray-900 mb-3">Book Transport to {island.name.en}</h3>
                   <AffiliateWidget
@@ -640,12 +659,24 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     return other ? { slug: s, otherName: other.name, otherSlug: other.slug } : null;
   }).filter(Boolean);
 
+  const transportRoutesPath = pathModule.join(process.cwd(), 'data', 'transport-routes.json');
+  const transportData = JSON.parse(fs.readFileSync(transportRoutesPath, 'utf-8'));
+  const relevantRoutes = (transportData.routes || [])
+    .filter((r: any) => r.to === slug || r.from === slug)
+    .slice(0, 3)
+    .map((r: any) => ({
+      slug: r.slug,
+      from: r.from.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
+      to: r.to.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
+    }));
+
   return {
     props: {
       island,
       relatedIslands,
       comparisons,
-      affiliates
+      affiliates,
+      relevantRoutes
     },
     revalidate: 86400
   };
