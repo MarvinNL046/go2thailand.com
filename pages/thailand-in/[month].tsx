@@ -330,6 +330,78 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                     ))}
                   </div>
                 </div>
+
+                {/* Explore Thailand — internal linking section */}
+                <div className="bg-white rounded-2xl shadow-md p-8">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">
+                    Plan Your Visit to Thailand
+                  </h2>
+                  <p className="text-gray-600 mb-6">
+                    Everything you need to research, plan, and book your Thailand trip.
+                  </p>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    <Link
+                      href="/city/"
+                      className="flex items-center gap-3 bg-surface-cream rounded-xl p-4 hover:shadow-md transition-all group"
+                    >
+                      <span className="text-2xl">🏙️</span>
+                      <div>
+                        <div className="font-semibold font-heading text-gray-900 group-hover:text-thailand-blue">City Guides</div>
+                        <div className="text-sm text-gray-600">Explore all 33 Thai cities</div>
+                      </div>
+                    </Link>
+                    <Link
+                      href="/islands/"
+                      className="flex items-center gap-3 bg-surface-cream rounded-xl p-4 hover:shadow-md transition-all group"
+                    >
+                      <span className="text-2xl">🏝️</span>
+                      <div>
+                        <div className="font-semibold font-heading text-gray-900 group-hover:text-thailand-blue">Thai Islands</div>
+                        <div className="text-sm text-gray-600">Beaches, diving & island life</div>
+                      </div>
+                    </Link>
+                    <Link
+                      href="/food/"
+                      className="flex items-center gap-3 bg-surface-cream rounded-xl p-4 hover:shadow-md transition-all group"
+                    >
+                      <span className="text-2xl">🍜</span>
+                      <div>
+                        <div className="font-semibold font-heading text-gray-900 group-hover:text-thailand-blue">Thai Food Guide</div>
+                        <div className="text-sm text-gray-600">Dishes, street food & where to eat</div>
+                      </div>
+                    </Link>
+                    <Link
+                      href="/thailand-index/best-time"
+                      className="flex items-center gap-3 bg-surface-cream rounded-xl p-4 hover:shadow-md transition-all group"
+                    >
+                      <span className="text-2xl">📅</span>
+                      <div>
+                        <div className="font-semibold font-heading text-gray-900 group-hover:text-thailand-blue">Best Time to Visit</div>
+                        <div className="text-sm text-gray-600">Month-by-month weather index</div>
+                      </div>
+                    </Link>
+                    <Link
+                      href="/weather/"
+                      className="flex items-center gap-3 bg-surface-cream rounded-xl p-4 hover:shadow-md transition-all group"
+                    >
+                      <span className="text-2xl">🌤️</span>
+                      <div>
+                        <div className="font-semibold font-heading text-gray-900 group-hover:text-thailand-blue">Weather Guide</div>
+                        <div className="text-sm text-gray-600">Seasons, regions & forecasts</div>
+                      </div>
+                    </Link>
+                    <Link
+                      href="/thailand-for-first-timers/"
+                      className="flex items-center gap-3 bg-surface-cream rounded-xl p-4 hover:shadow-md transition-all group"
+                    >
+                      <span className="text-2xl">✈️</span>
+                      <div>
+                        <div className="font-semibold font-heading text-gray-900 group-hover:text-thailand-blue">First Timer&apos;s Guide</div>
+                        <div className="text-sm text-gray-600">Tips, budgets & what to expect</div>
+                      </div>
+                    </Link>
+                  </div>
+                </div>
               </div>
 
               {/* Sidebar */}

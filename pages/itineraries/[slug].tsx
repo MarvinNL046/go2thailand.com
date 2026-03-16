@@ -717,6 +717,73 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                     </div>
                   </div>
                 )}
+                {/* Related Guides */}
+                <div className="bg-surface-cream rounded-2xl p-8 mb-8">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">
+                    Plan Your Trip — Related Guides
+                  </h2>
+                  <p className="text-gray-600 text-sm mb-6">
+                    Everything you need to make the most of your Thailand adventure.
+                  </p>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                    <Link href="/city/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
+                      <span className="text-2xl flex-shrink-0">🏙️</span>
+                      <div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">City Guides</div>
+                        <div className="text-xs text-gray-500">Explore all 33 Thai cities in depth</div>
+                      </div>
+                    </Link>
+                    <Link href="/food/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
+                      <span className="text-2xl flex-shrink-0">🍜</span>
+                      <div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Thai Food Guide</div>
+                        <div className="text-xs text-gray-500">Dishes, street food & where to eat</div>
+                      </div>
+                    </Link>
+                    <Link href="/transport/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
+                      <span className="text-2xl flex-shrink-0">🚌</span>
+                      <div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Transport Routes</div>
+                        <div className="text-xs text-gray-500">Buses, trains & ferries between cities</div>
+                      </div>
+                    </Link>
+                    <Link href="/islands/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
+                      <span className="text-2xl flex-shrink-0">🏝️</span>
+                      <div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Thai Islands</div>
+                        <div className="text-xs text-gray-500">Best islands, beaches & dive spots</div>
+                      </div>
+                    </Link>
+                    <Link href="/thailand-index/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
+                      <span className="text-2xl flex-shrink-0">📊</span>
+                      <div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Thailand Travel Index</div>
+                        <div className="text-xs text-gray-500">Compare costs, weather & rankings</div>
+                      </div>
+                    </Link>
+                    <Link href="/weather/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
+                      <span className="text-2xl flex-shrink-0">☀️</span>
+                      <div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Weather Guide</div>
+                        <div className="text-xs text-gray-500">Best time to visit every region</div>
+                      </div>
+                    </Link>
+                    <Link href="/best-places-to-visit-thailand/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
+                      <span className="text-2xl flex-shrink-0">📍</span>
+                      <div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Best Places to Visit</div>
+                        <div className="text-xs text-gray-500">Top destinations for every travel style</div>
+                      </div>
+                    </Link>
+                    <Link href="/thailand-for-first-timers/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
+                      <span className="text-2xl flex-shrink-0">✈️</span>
+                      <div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">First Timer's Guide</div>
+                        <div className="text-xs text-gray-500">Essential tips before your first visit</div>
+                      </div>
+                    </Link>
+                  </div>
+                </div>
               </div>
 
               {/* Sidebar (1/3) */}
