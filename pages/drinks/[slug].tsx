@@ -133,9 +133,15 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
                     <span className="bg-surface-cream px-3 py-1 rounded-full text-sm">
                       {drink.price_range}
                     </span>
-                    <span className="bg-surface-cream px-3 py-1 rounded-full text-sm">
-                      {drink.region === 'all' ? 'All Thailand' : `${drink.region} region`}
-                    </span>
+                    {drink.region && drink.region !== 'all' ? (
+                      <Link href={`/region/${drink.region}/`} className="bg-surface-cream px-3 py-1 rounded-full text-sm text-thailand-blue hover:underline">
+                        {drink.region === 'isaan' ? 'Isaan (Northeast)' : `${drink.region.charAt(0).toUpperCase() + drink.region.slice(1)} Thailand`}
+                      </Link>
+                    ) : (
+                      <span className="bg-surface-cream px-3 py-1 rounded-full text-sm">
+                        All Thailand
+                      </span>
+                    )}
                   </div>
                 </FadeInText>
 
@@ -243,21 +249,6 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
                     </ul>
                   </div>
                 )}
-                {/* Inline Cooking Class CTA */}
-                <div className="mt-6 p-4 bg-green-50 rounded-xl border border-green-200">
-                  <p className="text-gray-700 text-sm">
-                    Want to experience Thai drink culture firsthand?{' '}
-                    <a
-                      href="https://klook.tpo.lv/aq6ZFxvc"
-                      target="_blank"
-                      rel="noopener noreferrer sponsored"
-                      className="text-green-700 font-semibold hover:underline"
-                    >
-                      Book a cooking class on Klook
-                    </a>
-                    {' '}and learn to make {drink.name.en} and more.
-                  </p>
-                </div>
               </div>
             </div>
           </section>
@@ -321,71 +312,36 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
                   </div>
                 </div>
               </div>
-              {/* Inline Food Tour CTA */}
-              <div className="mt-4 p-3 bg-orange-50 rounded-xl border border-orange-200">
-                <p className="text-gray-700 text-sm">
-                  <a
-                    href="https://getyourguide.tpo.lv/GuAFfGGK"
-                    target="_blank"
-                    rel="noopener noreferrer sponsored"
-                    className="text-orange-700 font-semibold hover:underline"
-                  >
-                    Join a food tour
-                  </a>
-                  {' '}to discover the best local drinks and street food with a guide.
-                </p>
-              </div>
             </div>
           </section>
         )}
 
-        {/* Affiliate: Experience Thai Food & Drink Culture */}
-        <section className="bg-white py-16">
-          <div className="container-custom">
-            <div className="text-center mb-10">
-              <p className="section-label font-script text-thailand-gold">Experience</p>
-              <h2 className="text-3xl lg:text-4xl font-heading font-bold text-gray-900 mb-4">
-                Experience Thai Food &amp; Drink Culture
-              </h2>
-              <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                Taste the best of Thailand with guided food tours, night market visits, and hands-on cooking experiences
-              </p>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-              <div className="bg-white rounded-2xl shadow-md p-8 text-center">
-                <div className="text-5xl mb-4"></div>
-                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Street Food &amp; Night Market Tours</h3>
-                <p className="text-gray-600 mb-6">
-                  Street food &amp; night market tours
-                </p>
-                <a
-                  href="https://klook.tpo.lv/aq6ZFxvc"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-block bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-blue transition-colors"
-                >
-                  Browse on Klook
-                </a>
-              </div>
-              <div className="bg-white rounded-2xl shadow-md p-8 text-center">
-                <div className="text-5xl mb-4"></div>
-                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Cooking &amp; Tasting Experiences</h3>
-                <p className="text-gray-600 mb-6">
-                  Thai cooking &amp; tasting experiences
-                </p>
-                <a
-                  href="https://getyourguide.tpo.lv/GuAFfGGK"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-block bg-thailand-blue text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-red transition-colors"
-                >
-                  Browse on GetYourGuide
-                </a>
-              </div>
-            </div>
-            <p className="text-center text-xs text-gray-400 mt-6">
-              We may earn a commission when you book through our links, at no extra cost to you. This helps us keep Go2Thailand running.
+        {/* Cross-Links: Region & Food */}
+        <section className="bg-surface-cream section-padding">
+          <div className="container-custom max-w-4xl mx-auto text-center">
+            <p className="section-label font-script text-thailand-gold">Discover More</p>
+            <h2 className="text-2xl font-heading font-bold text-gray-900 mb-4">
+              Pair with Thai Cuisine
+            </h2>
+            <p className="text-gray-600 mb-6">
+              Explore the dishes that go perfectly with {drink.name.en}.
             </p>
+            <div className="flex flex-wrap gap-3 justify-center">
+              <Link
+                href="/food/"
+                className="inline-flex items-center gap-2 bg-thailand-red text-white px-5 py-3 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors"
+              >
+                Explore Thai Dishes
+              </Link>
+              {drink.region && drink.region !== 'all' && (
+                <Link
+                  href={`/region/${drink.region}/`}
+                  className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors"
+                >
+                  Explore {drink.region === 'isaan' ? 'Isaan' : `${drink.region.charAt(0).toUpperCase() + drink.region.slice(1)} Thailand`}
+                </Link>
+              )}
+            </div>
           </div>
         </section>
 
