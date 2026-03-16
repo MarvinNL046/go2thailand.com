@@ -1,0 +1,99 @@
+{
+  "slug": "phetchaburi",
+  "name": "Phetchaburi",
+  "nameThai": "เพชรบุรี",
+  "region": "central",
+  "capital": "Phetchaburi",
+  "area": 6225,
+  "population": 472000,
+  "districts": 8,
+  "description": "Phetchaburi, often called the 'City of Three Palaces', is a historically rich province in western-central Thailand that blends royal heritage with extraordinary natural landscapes. Its ancient town preserves Khmer-era temples and grand palaces built for Thai royalty, while the province's western reaches are dominated by Kaeng Krachan National Park — Thailand's largest national park and a UNESCO World Heritage site renowned for exceptional birdwatching. The province is equally celebrated for its exceptional sweets, particularly Kanom Mo Kaeng, a rich egg custard dessert that has been a local specialty for generations. From the hilltop palace of Khao Wang to the ethereal cave temple of Tham Khao Luang and the coastal resort town of Cha-am, Phetchaburi rewards visitors with a rare combination of culture, nature, and culinary tradition.",
+  "highlights": [
+    "Khao Wang (Phra Nakhon Khiri) — a hilltop palace complex with stunning panoramic views over the city, reachable by cable car or a winding forest path",
+    "Kaeng Krachan National Park — Thailand's largest national park, a biodiversity hotspot with over 400 bird species and diverse wildlife including elephants and tigers",
+    "Tham Khao Luang — a magnificent cave temple where dramatic shafts of sunlight illuminate golden Buddha images inside enormous limestone chambers",
+    "Ban Puen Palace — a neoclassical royal palace built by Rama V, blending European and Thai architectural styles",
+    "Mrigadayavan Palace — an elegant seaside royal retreat built from golden teak wood, set among coastal pines near Cha-am",
+    "Cha-am Beach — a quieter alternative to Hua Hin, popular with Thai families and offering fresh seafood along a long, laid-back shoreline"
+  ],
+  "localFood": [
+    "Kanom Mo Kaeng",
+    "Kanom Tan",
+    "Kluay Khai (finger bananas)",
+    "Kanom Phing",
+    "Nam Prik Phrik Khing",
+    "Pla Haeng Tod (fried dried fish)",
+    "Khao Chae (royal rice in jasmine-scented water)",
+    "Kanom Buang Phetchaburi"
+  ],
+  "festivals": [
+    {
+      "name": "Phra Nakhon Khiri Diamond Festival",
+      "month": "February",
+      "description": "An annual celebration held at Khao Wang palace featuring sound-and-light shows, cultural performances, traditional crafts markets, and royal ceremonies commemorating the historic hilltop complex."
+    },
+    {
+      "name": "Kanom Mo Kaeng Festival",
+      "month": "October",
+      "description": "A local food festival celebrating Phetchaburi's most famous dessert, with competitions for the best Kanom Mo Kaeng recipe, cooking demonstrations, and stalls offering a wide variety of traditional sweets."
+    },
+    {
+      "name": "Loy Krathong at Kaeng Krachan",
+      "month": "November",
+      "description": "A serene Loy Krathong celebration held at the reservoir of Kaeng Krachan National Park, where floating krathongs drift across the water against a backdrop of forested mountains."
+    }
+  ],
+  "gettingThere": "Phetchaburi is approximately 160 km south of Bangkok and is well connected by road and rail. By car or bus, take Highway 4 (Phetkasem Road) south from Bangkok, with the journey taking around 2.5 to 3 hours depending on traffic. Buses depart frequently from Bangkok's Southern Bus Terminal (Sai Tai Mai) and take around 2.5 hours. The State Railway of Thailand operates regular trains from Hua Lamphong and Bang Sue stations with stops at Phetchaburi station; the journey takes approximately 3 to 4 hours. Minivans also run from Bangkok's Victory Monument and Ekkamai areas.",
+  "gettingAround": "Within the city, songthaews (shared pickup trucks) and tuk-tuks cover the main historic sites and markets at low cost. Renting a motorbike or car is the most practical option for exploring Kaeng Krachan National Park and more remote temple sites. Bicycle rental is available in the old town and suits the flat city centre well. Many guesthouses and hotels can arrange day-trip taxis or minivan charters to the national park and surrounding attractions.",
+  "cities": [
+    {
+      "name": "Phetchaburi",
+      "slug": "phetchaburi",
+      "description": "The provincial capital, packed with Khmer-influenced temples, the iconic hilltop Khao Wang palace, and legendary sweet shops producing Kanom Mo Kaeng. The old town is easily walkable and retains a strong traditional character.",
+      "hasCluster": true,
+      "hasCityPage": false
+    },
+    {
+      "name": "Cha-am",
+      "slug": "cha-am",
+      "description": "A relaxed beach resort town popular with Thai weekenders, offering a long sandy shoreline, fresh seafood restaurants, and a quieter atmosphere than nearby Hua Hin. Mrigadayavan Palace is located just north of town.",
+      "hasCluster": false,
+      "hasCityPage": false
+    },
+    {
+      "name": "Kaeng Krachan",
+      "slug": "kaeng-krachan",
+      "description": "The gateway town to Kaeng Krachan National Park, Thailand's largest national park. The area is a premier destination for birdwatching, wildlife safaris, trekking, and kayaking on the vast reservoir.",
+      "hasCluster": false,
+      "hasCityPage": false
+    },
+    {
+      "name": "Ban Lat",
+      "slug": "ban-lat",
+      "description": "A small agricultural district known for its sugar palm plantations and the production of palm sugar, a key ingredient in many of Phetchaburi's famous sweets.",
+      "hasCluster": false,
+      "hasCityPage": false
+    }
+  ],
+  "neighboringProvinces": [
+    {
+      "name": "Ratchaburi",
+      "slug": "ratchaburi",
+      "direction": "north"
+    },
+    {
+      "name": "Samut Songkhram",
+      "slug": "samut-songkhram",
+      "direction": "east"
+    },
+    {
+      "name": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan",
+      "direction": "south"
+    }
+  ],
+  "geography": "Phetchaburi covers approximately 6,225 km² in western-central Thailand. The province is bisected by the Phetchaburi River, which flows from the Tenasserim Hills in the west to the Gulf of Thailand in the east. The western portion is mountainous, forming part of the Dawna Range along the Myanmar border, and is covered by the dense tropical forest of Kaeng Krachan National Park. The central zone transitions into fertile river plains used for agriculture, while the eastern coastline faces the upper Gulf of Thailand with a mix of beaches and mangrove-fringed shorelines.",
+  "climate": "Phetchaburi has a tropical monsoon climate with three distinct seasons. The hot season runs from March to May, with temperatures frequently reaching 35–38°C. The wet season spans June to October, brought by the southwest monsoon; Kaeng Krachan National Park can receive heavy rainfall and road access may be limited during peak monsoon. The cool season from November to February is the most pleasant time to visit, with lower humidity, temperatures around 20–28°C, and clear skies ideal for outdoor activities and national park exploration.",
+  "economy": "The provincial economy is grounded in agriculture, particularly sugar palm cultivation, coconut farming, and rice. The sugar palm industry underpins the thriving local confectionery sector, with Kanom Mo Kaeng and other palm-sugar-based sweets sold throughout Thailand and exported. Tourism is a growing contributor, driven by Khao Wang, Kaeng Krachan National Park, and the coastal resort of Cha-am. Fishing communities along the Gulf coast supply fresh seafood to local markets and restaurants.",
+  "history": "Phetchaburi is one of Thailand's oldest continuously inhabited cities, with evidence of settlement dating back over a thousand years. It served as an important outpost during the Khmer Empire, and several Khmer-style prangs still stand in the city today. The city flourished as a trading hub during the Ayutthaya and early Rattanakosin periods, benefiting from its position on the route between Bangkok and the Malay Peninsula. Rama IV (King Mongkut) chose the hilltop of Khao Wang as a retreat and observatory in the 19th century, commissioning the eclectic palace complex that now dominates the city's skyline. Rama V later built Ban Puen Palace in the city and Mrigadayavan Palace on the coast, cementing Phetchaburi's status as a favoured royal retreat."
+}
