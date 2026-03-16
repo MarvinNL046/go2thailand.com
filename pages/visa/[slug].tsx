@@ -269,14 +269,26 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                 </ul>
               </div>
 
-              {/* Other Visa Types */}
+              {/* Related Guides */}
               <div className="bg-white rounded-2xl shadow-md p-6">
                 <h3 className="text-xl font-bold font-heading mb-4">
-                  {lang === 'nl' ? 'Andere Visum Types' : 'Other Visa Types'}
+                  {lang === 'nl' ? 'Gerelateerde Gidsen' : 'Related Guides'}
                 </h3>
                 <div className="space-y-2">
                   <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">
-                    ← {lang === 'nl' ? 'Alle visum types bekijken' : 'View all visa types'}
+                    ← {lang === 'nl' ? 'Alle visum types' : 'All visa types'}
+                  </Link>
+                  <Link href="/travel-insurance-thailand/" className="block text-thailand-blue hover:underline text-sm">
+                    {lang === 'nl' ? 'Reisverzekering Thailand' : 'Travel Insurance Thailand'}
+                  </Link>
+                  <Link href="/esim/" className="block text-thailand-blue hover:underline text-sm">
+                    {lang === 'nl' ? 'eSIM Thailand' : 'Stay Connected — eSIM Guide'}
+                  </Link>
+                  <Link href="/thailand-for-first-timers/" className="block text-thailand-blue hover:underline text-sm">
+                    {lang === 'nl' ? 'Eerste Keer Thailand' : "First Timer's Guide"}
+                  </Link>
+                  <Link href="/city/" className="block text-thailand-blue hover:underline text-sm">
+                    {lang === 'nl' ? 'Bestemmingen verkennen' : 'Explore Destinations'}
                   </Link>
                 </div>
               </div>
@@ -359,6 +371,87 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
             </aside>
           </div>
         </div>
+
+        {/* Plan Your Stay */}
+        <section className="py-12 bg-white">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
+              {lang === 'nl' ? 'Plan Je Verblijf' : 'Plan Your Stay'}
+            </h2>
+            <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-4">
+              <Link
+                href="/visa/"
+                className="bg-surface-cream rounded-2xl border border-gray-200 hover:shadow-lg hover:-translate-y-1 transition-all p-5 group flex flex-col items-start gap-3"
+              >
+                <span className="text-3xl">📋</span>
+                <div>
+                  <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors">
+                    {lang === 'nl' ? 'Alle Visum Types' : 'All Visa Types'}
+                  </h3>
+                  <p className="text-sm text-gray-600 mt-1">
+                    {lang === 'nl' ? 'Terug naar visum overzicht' : 'Back to visa overview'}
+                  </p>
+                </div>
+              </Link>
+              <Link
+                href="/travel-insurance-thailand/"
+                className="bg-surface-cream rounded-2xl border border-gray-200 hover:shadow-lg hover:-translate-y-1 transition-all p-5 group flex flex-col items-start gap-3"
+              >
+                <span className="text-3xl"></span>
+                <div>
+                  <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors">
+                    {lang === 'nl' ? 'Reisverzekering' : 'Travel Insurance'}
+                  </h3>
+                  <p className="text-sm text-gray-600 mt-1">
+                    {lang === 'nl' ? 'Vergelijk de beste opties' : 'Compare the best options'}
+                  </p>
+                </div>
+              </Link>
+              <Link
+                href="/esim/"
+                className="bg-surface-cream rounded-2xl border border-gray-200 hover:shadow-lg hover:-translate-y-1 transition-all p-5 group flex flex-col items-start gap-3"
+              >
+                <span className="text-3xl">📱</span>
+                <div>
+                  <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors">
+                    {lang === 'nl' ? 'Verbonden Blijven' : 'Stay Connected'}
+                  </h3>
+                  <p className="text-sm text-gray-600 mt-1">
+                    {lang === 'nl' ? 'eSIM gids voor Thailand' : 'eSIM guide for Thailand'}
+                  </p>
+                </div>
+              </Link>
+              <Link
+                href="/thailand-for-first-timers/"
+                className="bg-surface-cream rounded-2xl border border-gray-200 hover:shadow-lg hover:-translate-y-1 transition-all p-5 group flex flex-col items-start gap-3"
+              >
+                <span className="text-3xl">✈️</span>
+                <div>
+                  <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors">
+                    {lang === 'nl' ? 'Eerste Keer Thailand' : "First Timer's Guide"}
+                  </h3>
+                  <p className="text-sm text-gray-600 mt-1">
+                    {lang === 'nl' ? 'Alles voor je eerste reis' : 'Everything for your first trip'}
+                  </p>
+                </div>
+              </Link>
+              <Link
+                href="/city/"
+                className="bg-surface-cream rounded-2xl border border-gray-200 hover:shadow-lg hover:-translate-y-1 transition-all p-5 group flex flex-col items-start gap-3"
+              >
+                <span className="text-3xl">🏙️</span>
+                <div>
+                  <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors">
+                    {lang === 'nl' ? 'Bestemmingen' : 'Explore Destinations'}
+                  </h3>
+                  <p className="text-sm text-gray-600 mt-1">
+                    {lang === 'nl' ? 'Ontdek 33 Thai steden' : 'Discover 33 Thai cities'}
+                  </p>
+                </div>
+              </Link>
+            </div>
+          </div>
+        </section>
 
         {/* Affiliate Banner */}
         <section className="bg-surface-dark">

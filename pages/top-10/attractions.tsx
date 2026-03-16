@@ -327,27 +327,62 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
           </div>
         </section>
 
-        {/* Call to Action */}
+        {/* Explore More Guides */}
         <section className="section-padding bg-white">
           <div className="container-custom">
-            <div className="text-center max-w-2xl mx-auto">
-              <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                Complete Your Thailand Experience
-              </h3>
-              <p className="text-gray-600 mb-8">
-                Explore our complete collection of Top 10 guides for restaurants and hotels too.
+            <div className="text-center mb-10">
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-3">
+                Explore More Guides
+              </h2>
+              <p className="text-gray-600 max-w-2xl mx-auto">
+                Continue planning your perfect Thailand trip with our other curated guides and travel resources.
               </p>
+            </div>
 
-              <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
-                <Link href="/top-10/restaurants/" className="bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+              <Link href="/top-10/restaurants/" className="group bg-surface-cream hover:bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-all">
+                <div className="text-thailand-red font-bold font-heading text-lg mb-1 group-hover:underline">
                   Restaurant Guides
-                </Link>
-                <Link href="/top-10/hotels/" className="bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue-600 transition-colors">
-                  Hotel Guides
-                </Link>
-              </div>
+                </div>
+                <p className="text-gray-600 text-sm">Best dining spots in every Thai city</p>
+              </Link>
 
-              {/* Bottom Ad */}
+              <Link href="/top-10/hotels/" className="group bg-surface-cream hover:bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-all">
+                <div className="text-thailand-blue font-bold font-heading text-lg mb-1 group-hover:underline">
+                  Hotel Guides
+                </div>
+                <p className="text-gray-600 text-sm">Best accommodation for every budget</p>
+              </Link>
+
+              <Link href="/city/" className="group bg-surface-cream hover:bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-all">
+                <div className="text-gray-900 font-bold font-heading text-lg mb-1 group-hover:underline">
+                  All City Guides
+                </div>
+                <p className="text-gray-600 text-sm">Complete guides for 33 Thai cities</p>
+              </Link>
+
+              <Link href="/thailand-index/" className="group bg-surface-cream hover:bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-all">
+                <div className="text-gray-900 font-bold font-heading text-lg mb-1 group-hover:underline">
+                  Thailand Travel Index
+                </div>
+                <p className="text-gray-600 text-sm">Compare costs, weather, and rankings</p>
+              </Link>
+            </div>
+
+            <div className="mt-4 grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-2xl mx-auto">
+              <Link href="/compare/" className="group bg-surface-cream hover:bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-all text-center">
+                <div className="text-gray-900 font-bold font-heading text-lg mb-1 group-hover:underline">
+                  Compare Destinations
+                </div>
+                <p className="text-gray-600 text-sm">Side-by-side city comparisons</p>
+              </Link>
+
+              <Link href="/top-10/" className="group bg-surface-cream hover:bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-all text-center">
+                <div className="text-gray-900 font-bold font-heading text-lg mb-1 group-hover:underline">
+                  All Top 10 Guides
+                </div>
+                <p className="text-gray-600 text-sm">Browse every category in one place</p>
+              </Link>
             </div>
           </div>
         </section>

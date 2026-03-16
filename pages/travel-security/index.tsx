@@ -298,6 +298,87 @@ export default function TravelSecurityPage() {
           </div>
         </section>
 
+        {/* Related Travel Guides */}
+        <section className="bg-white section-padding">
+          <div className="container-custom">
+            <p className="section-label text-center">Related Guides</p>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4 text-center">
+              Complete Your Thailand Travel Prep
+            </h2>
+            <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
+              Digital security is just one piece of the puzzle. Here are the other essential guides for a safe and smooth Thailand trip.
+            </p>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              <Link href="/esim/" className="bg-surface-cream rounded-2xl shadow-md p-6 hover:shadow-lg transition-shadow group">
+                <div className="w-12 h-12 bg-thailand-red bg-opacity-10 rounded-xl flex items-center justify-center mb-4">
+                  <span className="text-2xl">📶</span>
+                </div>
+                <h3 className="font-semibold font-heading text-gray-900 mb-2 group-hover:text-thailand-red transition-colors">
+                  eSIM Guide
+                </h3>
+                <p className="text-gray-600 text-sm">
+                  Get secure mobile data in Thailand from day one — no SIM swap needed.
+                </p>
+              </Link>
+              <Link href="/travel-insurance-thailand/" className="bg-surface-cream rounded-2xl shadow-md p-6 hover:shadow-lg transition-shadow group">
+                <div className="w-12 h-12 bg-thailand-blue bg-opacity-10 rounded-xl flex items-center justify-center mb-4">
+                  <span className="text-2xl">🛡️</span>
+                </div>
+                <h3 className="font-semibold font-heading text-gray-900 mb-2 group-hover:text-thailand-blue transition-colors">
+                  Travel Insurance
+                </h3>
+                <p className="text-gray-600 text-sm">
+                  Cover medical emergencies, trip cancellations, and lost gear while abroad.
+                </p>
+              </Link>
+              <Link href="/travel-gear/" className="bg-surface-cream rounded-2xl shadow-md p-6 hover:shadow-lg transition-shadow group">
+                <div className="w-12 h-12 bg-thailand-gold bg-opacity-20 rounded-xl flex items-center justify-center mb-4">
+                  <span className="text-2xl">🎒</span>
+                </div>
+                <h3 className="font-semibold font-heading text-gray-900 mb-2 group-hover:text-yellow-700 transition-colors">
+                  Travel Gear
+                </h3>
+                <p className="text-gray-600 text-sm">
+                  The essential packing list for travelers heading to Thailand.
+                </p>
+              </Link>
+              <Link href="/visa/" className="bg-surface-cream rounded-2xl shadow-md p-6 hover:shadow-lg transition-shadow group">
+                <div className="w-12 h-12 bg-green-100 rounded-xl flex items-center justify-center mb-4">
+                  <span className="text-2xl">🛂</span>
+                </div>
+                <h3 className="font-semibold font-heading text-gray-900 mb-2 group-hover:text-green-700 transition-colors">
+                  Visa Guide
+                </h3>
+                <p className="text-gray-600 text-sm">
+                  Visa-on-arrival, tourist visas, and long-stay options explained for every nationality.
+                </p>
+              </Link>
+              <Link href="/thailand-for-first-timers/" className="bg-surface-cream rounded-2xl shadow-md p-6 hover:shadow-lg transition-shadow group">
+                <div className="w-12 h-12 bg-purple-100 rounded-xl flex items-center justify-center mb-4">
+                  <span className="text-2xl">✈️</span>
+                </div>
+                <h3 className="font-semibold font-heading text-gray-900 mb-2 group-hover:text-purple-700 transition-colors">
+                  First Timer&apos;s Guide
+                </h3>
+                <p className="text-gray-600 text-sm">
+                  Everything you need to know before your first trip to Thailand.
+                </p>
+              </Link>
+              <Link href="/is-thailand-safe/" className="bg-surface-cream rounded-2xl shadow-md p-6 hover:shadow-lg transition-shadow group">
+                <div className="w-12 h-12 bg-orange-100 rounded-xl flex items-center justify-center mb-4">
+                  <span className="text-2xl">🔒</span>
+                </div>
+                <h3 className="font-semibold font-heading text-gray-900 mb-2 group-hover:text-orange-700 transition-colors">
+                  Is Thailand Safe?
+                </h3>
+                <p className="text-gray-600 text-sm">
+                  Honest safety guide covering scams, health risks, and tips to stay protected.
+                </p>
+              </Link>
+            </div>
+          </div>
+        </section>
+
         {/* FAQ Section */}
         <section className="section-padding">
           <div className="container-custom">
@@ -358,6 +439,15 @@ export default function TravelSecurityPage() {
               </Link>
               <Link href="/travel-insurance-thailand/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
                 Travel Insurance
+              </Link>
+              <Link href="/travel-gear/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
+                Travel Gear
+              </Link>
+              <Link href="/visa/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
+                Visa Guide
+              </Link>
+              <Link href="/thailand-for-first-timers/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
+                First Timer&apos;s Guide
               </Link>
               <Link href="/city/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
                 Explore Cities

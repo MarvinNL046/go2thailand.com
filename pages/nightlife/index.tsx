@@ -61,6 +61,59 @@ export default function NightlifeIndex() {
             </div>
           </div>
         </section>
+
+        {/* Explore More */}
+        <section className="section-padding bg-white">
+          <div className="container-custom">
+            <div className="max-w-4xl mx-auto">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
+                Explore More of Thailand
+              </h2>
+              <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+                <Link
+                  href="/food/"
+                  className="bg-surface-cream rounded-xl p-5 hover:shadow-md border border-transparent hover:border-thailand-gold/30 transition-all group"
+                >
+                  <div className="text-2xl mb-2">🍜</div>
+                  <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                    Thai Food Guide
+                  </h3>
+                  <p className="text-sm text-gray-500">Dishes, street food & where to eat</p>
+                </Link>
+                <Link
+                  href="/drinks/"
+                  className="bg-surface-cream rounded-xl p-5 hover:shadow-md border border-transparent hover:border-thailand-gold/30 transition-all group"
+                >
+                  <div className="text-2xl mb-2">🍹</div>
+                  <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                    Thai Drinks Guide
+                  </h3>
+                  <p className="text-sm text-gray-500">Cocktails, beers & local drinks</p>
+                </Link>
+                <Link
+                  href="/city/"
+                  className="bg-surface-cream rounded-xl p-5 hover:shadow-md border border-transparent hover:border-thailand-gold/30 transition-all group"
+                >
+                  <div className="text-2xl mb-2">🏙️</div>
+                  <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                    All Cities
+                  </h3>
+                  <p className="text-sm text-gray-500">Full travel guides for 33 cities</p>
+                </Link>
+                <Link
+                  href="/best-places-to-visit-thailand/"
+                  className="bg-surface-cream rounded-xl p-5 hover:shadow-md border border-transparent hover:border-thailand-gold/30 transition-all group"
+                >
+                  <div className="text-2xl mb-2">📍</div>
+                  <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                    Best Places to Visit
+                  </h3>
+                  <p className="text-sm text-gray-500">Top destinations ranked & reviewed</p>
+                </Link>
+              </div>
+            </div>
+          </div>
+        </section>
       </div>
     </>
   );

@@ -175,6 +175,27 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
               </div>
             </div>
 
+            {/* More Resources */}
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
+                More Thailand Travel Resources
+              </h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                <Link href="/thailand-index/" className="group bg-surface-cream hover:bg-white rounded-xl p-5 shadow-sm hover:shadow-md transition-all">
+                  <div className="text-gray-900 font-bold font-heading text-base mb-1 group-hover:underline">Thailand Travel Index</div>
+                  <p className="text-gray-600 text-sm">Compare costs, weather, and city rankings across 33 destinations</p>
+                </Link>
+                <Link href="/compare/" className="group bg-surface-cream hover:bg-white rounded-xl p-5 shadow-sm hover:shadow-md transition-all">
+                  <div className="text-gray-900 font-bold font-heading text-base mb-1 group-hover:underline">Compare Destinations</div>
+                  <p className="text-gray-600 text-sm">Side-by-side comparisons of Thai cities to help you decide</p>
+                </Link>
+                <Link href="/city/" className="group bg-surface-cream hover:bg-white rounded-xl p-5 shadow-sm hover:shadow-md transition-all">
+                  <div className="text-gray-900 font-bold font-heading text-base mb-1 group-hover:underline">All City Guides</div>
+                  <p className="text-gray-600 text-sm">In-depth travel guides for every major Thai city</p>
+                </Link>
+              </div>
+            </div>
+
             {/* Book Your Thailand Experience - Affiliate Section */}
             <div className="bg-surface-dark rounded-2xl p-8 mt-12">
               <h2 className="text-3xl font-bold font-heading text-white mb-4 text-center">

@@ -295,6 +295,51 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
           </div>
         </section>
 
+        {/* Plan Your Trip - Internal Links Section */}
+        <section className="py-12 bg-white">
+          <div className="container-custom">
+            <p className="section-label text-center">Plan Your Trip</p>
+            <h2 className="text-3xl font-bold font-heading text-center mb-3">Related Travel Guides</h2>
+            <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
+              Great gear is just the start. Use these guides to plan every detail of your Thailand adventure.
+            </p>
+            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-5 max-w-5xl mx-auto">
+              <Link href="/weather/" className="group">
+                <div className="bg-surface-cream rounded-2xl p-6 hover:shadow-lg hover:-translate-y-1 transition-all h-full flex flex-col">
+                  <div className="text-3xl mb-3"></div>
+                  <h3 className="font-bold font-heading text-base mb-2 group-hover:text-thailand-blue transition-colors">Weather Guide</h3>
+                  <p className="text-gray-600 text-sm flex-1">Pack for the right season — know when to bring rain gear or beach essentials.</p>
+                  <span className="text-thailand-blue text-sm font-medium mt-3 inline-block">Check weather →</span>
+                </div>
+              </Link>
+              <Link href="/city/" className="group">
+                <div className="bg-surface-cream rounded-2xl p-6 hover:shadow-lg hover:-translate-y-1 transition-all h-full flex flex-col">
+                  <div className="text-3xl mb-3"></div>
+                  <h3 className="font-bold font-heading text-base mb-2 group-hover:text-thailand-blue transition-colors">City Guides</h3>
+                  <p className="text-gray-600 text-sm flex-1">Explore 33 Thai cities — each with unique gear needs from Bangkok temples to Chiang Mai trekking.</p>
+                  <span className="text-thailand-blue text-sm font-medium mt-3 inline-block">Browse cities →</span>
+                </div>
+              </Link>
+              <Link href="/islands/" className="group">
+                <div className="bg-surface-cream rounded-2xl p-6 hover:shadow-lg hover:-translate-y-1 transition-all h-full flex flex-col">
+                  <div className="text-3xl mb-3"></div>
+                  <h3 className="font-bold font-heading text-base mb-2 group-hover:text-thailand-blue transition-colors">Island Guide</h3>
+                  <p className="text-gray-600 text-sm flex-1">Heading to the beaches? See our island guide for what beach and water gear to pack.</p>
+                  <span className="text-thailand-blue text-sm font-medium mt-3 inline-block">Explore islands →</span>
+                </div>
+              </Link>
+              <Link href="/thailand-for-first-timers/" className="group">
+                <div className="bg-surface-cream rounded-2xl p-6 hover:shadow-lg hover:-translate-y-1 transition-all h-full flex flex-col">
+                  <div className="text-3xl mb-3"></div>
+                  <h3 className="font-bold font-heading text-base mb-2 group-hover:text-thailand-blue transition-colors">First Timer's Guide</h3>
+                  <p className="text-gray-600 text-sm flex-1">First trip to Thailand? This complete guide covers everything you need to know before you go.</p>
+                  <span className="text-thailand-blue text-sm font-medium mt-3 inline-block">Read the guide →</span>
+                </div>
+              </Link>
+            </div>
+          </div>
+        </section>
+
         {/* More Travel Essentials - Cross-sell Section */}
         <section className="py-12 bg-surface-cream">
           <div className="container-custom">

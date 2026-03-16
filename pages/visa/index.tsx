@@ -181,6 +181,87 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
           </div>
         </section>
 
+        {/* Travel Planning */}
+        <section className="py-12">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
+              {lang === 'nl' ? 'Reisplanning' : 'Travel Planning'}
+            </h2>
+            <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-4">
+              <Link
+                href="/travel-insurance-thailand/"
+                className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-5 group flex flex-col items-start gap-3"
+              >
+                <span className="text-3xl"></span>
+                <div>
+                  <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors">
+                    {lang === 'nl' ? 'Reisverzekering' : 'Travel Insurance'}
+                  </h3>
+                  <p className="text-sm text-gray-600 mt-1">
+                    {lang === 'nl' ? 'Vergelijk de beste opties' : 'Compare the best options'}
+                  </p>
+                </div>
+              </Link>
+              <Link
+                href="/esim/"
+                className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-5 group flex flex-col items-start gap-3"
+              >
+                <span className="text-3xl">📱</span>
+                <div>
+                  <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors">
+                    {lang === 'nl' ? 'eSIM Gids' : 'eSIM Guide'}
+                  </h3>
+                  <p className="text-sm text-gray-600 mt-1">
+                    {lang === 'nl' ? 'Blijf verbonden in Thailand' : 'Stay connected in Thailand'}
+                  </p>
+                </div>
+              </Link>
+              <Link
+                href="/thailand-for-first-timers/"
+                className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-5 group flex flex-col items-start gap-3"
+              >
+                <span className="text-3xl">✈️</span>
+                <div>
+                  <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors">
+                    {lang === 'nl' ? 'Eerste Keer Thailand' : "First Timer's Guide"}
+                  </h3>
+                  <p className="text-sm text-gray-600 mt-1">
+                    {lang === 'nl' ? 'Alles voor je eerste reis' : 'Everything for your first trip'}
+                  </p>
+                </div>
+              </Link>
+              <Link
+                href="/thailand-travel-guide/"
+                className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-5 group flex flex-col items-start gap-3"
+              >
+                <span className="text-3xl">🗺️</span>
+                <div>
+                  <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors">
+                    {lang === 'nl' ? 'Thailand Reisgids' : 'Thailand Travel Guide'}
+                  </h3>
+                  <p className="text-sm text-gray-600 mt-1">
+                    {lang === 'nl' ? 'Complete reisgids 2026' : 'Complete guide 2026'}
+                  </p>
+                </div>
+              </Link>
+              <Link
+                href="/city/"
+                className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-5 group flex flex-col items-start gap-3"
+              >
+                <span className="text-3xl">🏙️</span>
+                <div>
+                  <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors">
+                    {lang === 'nl' ? 'Stedengidsen' : 'City Guides'}
+                  </h3>
+                  <p className="text-sm text-gray-600 mt-1">
+                    {lang === 'nl' ? 'Ontdek 33 steden' : 'Explore 33 cities'}
+                  </p>
+                </div>
+              </Link>
+            </div>
+          </div>
+        </section>
+
         {/* Affiliate Banner */}
         <section className="bg-surface-dark">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

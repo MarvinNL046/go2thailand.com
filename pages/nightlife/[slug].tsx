@@ -327,6 +327,59 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
             </div>
           </div>
         </section>
+
+        {/* Related Guides */}
+        <section className="section-padding">
+          <div className="container-custom">
+            <div className="max-w-4xl mx-auto">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
+                Related Guides
+              </h2>
+              <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+                <Link
+                  href="/nightlife/"
+                  className="bg-surface-cream rounded-xl p-5 hover:shadow-md border border-transparent hover:border-thailand-gold/30 transition-all group"
+                >
+                  <div className="text-2xl mb-2">🌃</div>
+                  <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                    All Nightlife Guides
+                  </h3>
+                  <p className="text-sm text-gray-500">Compare nightlife across Thailand's cities</p>
+                </Link>
+                <Link
+                  href="/drinks/"
+                  className="bg-surface-cream rounded-xl p-5 hover:shadow-md border border-transparent hover:border-thailand-gold/30 transition-all group"
+                >
+                  <div className="text-2xl mb-2">🍹</div>
+                  <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                    Thai Drinks Guide
+                  </h3>
+                  <p className="text-sm text-gray-500">Cocktails, local spirits & drink prices</p>
+                </Link>
+                <Link
+                  href="/food/"
+                  className="bg-surface-cream rounded-xl p-5 hover:shadow-md border border-transparent hover:border-thailand-gold/30 transition-all group"
+                >
+                  <div className="text-2xl mb-2">🍜</div>
+                  <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                    Thai Food Guide
+                  </h3>
+                  <p className="text-sm text-gray-500">Street food, dishes & where to eat</p>
+                </Link>
+                <Link
+                  href={`/city/${slug}/`}
+                  className="bg-surface-cream rounded-xl p-5 hover:shadow-md border border-transparent hover:border-thailand-gold/30 transition-all group"
+                >
+                  <div className="text-2xl mb-2">🏙️</div>
+                  <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                    {cityName} City Guide
+                  </h3>
+                  <p className="text-sm text-gray-500">Hotels, attractions & travel tips</p>
+                </Link>
+              </div>
+            </div>
+          </div>
+        </section>
       </div>
     </>
   );
