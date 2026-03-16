@@ -97,6 +97,9 @@ interface City {
   province: string;
   image: string;
   highlights: string[];
+  hasTop10Hotels?: boolean;
+  hasTop10Restaurants?: boolean;
+  hasTop10Attractions?: boolean;
 }
 
 interface RegionalDish {
@@ -392,7 +395,24 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                   </p>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                     {cities.map((city) => (
-                      <CityCard key={city.id} city={city} />
+                      <div key={city.id}>
+                        <CityCard city={city} />
+                        {(city.hasTop10Hotels || city.hasTop10Restaurants || city.hasTop10Attractions) && (
+                          <div className="flex flex-wrap gap-2 mt-2 px-1">
+                            {city.hasTop10Hotels && (
+                              <Link href={`/city/${city.slug}/top-10-hotels/`} className="text-xs text-thailand-blue hover:underline">Hotels</Link>
+                            )}
+                            {city.hasTop10Hotels && city.hasTop10Restaurants && <span className="text-gray-300">·</span>}
+                            {city.hasTop10Restaurants && (
+                              <Link href={`/city/${city.slug}/top-10-restaurants/`} className="text-xs text-thailand-blue hover:underline">Restaurants</Link>
+                            )}
+                            {(city.hasTop10Hotels || city.hasTop10Restaurants) && city.hasTop10Attractions && <span className="text-gray-300">·</span>}
+                            {city.hasTop10Attractions && (
+                              <Link href={`/city/${city.slug}/top-10-attractions/`} className="text-xs text-thailand-blue hover:underline">Attractions</Link>
+                            )}
+                          </div>
+                        )}
+                      </div>
                     ))}
                   </div>
                 </div>
@@ -1018,6 +1038,13 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   };
   const regionName = regionMap[slug] || slug;
   const cities = allCities.filter((city: any) => city.region === regionName);
+  const top10Dir = path.join(process.cwd(), 'data', 'top10');
+  const citiesWithTop10Info = cities.map((city: any) => ({
+    ...city,
+    hasTop10Hotels: fs.existsSync(path.join(top10Dir, `${city.slug}-hotels.json`)),
+    hasTop10Restaurants: fs.existsSync(path.join(top10Dir, `${city.slug}-restaurants.json`)),
+    hasTop10Attractions: fs.existsSync(path.join(top10Dir, `${city.slug}-attractions.json`)),
+  }));
   const citySlugs = new Set(cities.map((c: any) => c.slug));
 
   // Regional food dishes
@@ -1098,7 +1125,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   return {
     props: {
       region,
-      cities,
+      cities: citiesWithTop10Info,
       regionalDishes,
       regionalItineraries,
       regionalComparisons,
