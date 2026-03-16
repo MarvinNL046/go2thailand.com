@@ -185,3 +185,33 @@ export const affiliateCities = Object.keys(cityAffiliates);
 export function getAffiliates(citySlug: string): CityAffiliates | null {
   return cityAffiliates[citySlug] ?? null;
 }
+
+// Island → nearest city mapping for affiliate lookups
+export const islandAffiliateMap: Record<string, string> = {
+  'koh-samui': 'koh-samui',
+  'koh-phangan': 'koh-samui',
+  'koh-tao': 'koh-samui',
+  'koh-lanta': 'krabi',
+  'koh-phi-phi': 'krabi',
+  'koh-chang': 'pattaya',
+  'koh-samet': 'pattaya',
+  'koh-lipe': 'hat-yai',
+  'koh-yao-noi': 'phuket',
+  'koh-mak': 'pattaya',
+  'phuket': 'phuket',
+};
+
+// Region → featured cities for affiliate display
+export const regionFeaturedCities: Record<string, string[]> = {
+  northern: ['chiang-mai', 'chiang-rai'],
+  central: ['bangkok', 'ayutthaya'],
+  southern: ['phuket', 'krabi'],
+  isaan: ['khon-kaen', 'udon-thani'],
+};
+
+// Get affiliates for an island (resolves to nearest city)
+export function getIslandAffiliates(islandSlug: string): CityAffiliates | null {
+  const citySlug = islandAffiliateMap[islandSlug];
+  if (!citySlug) return null;
+  return getAffiliates(citySlug);
+}
