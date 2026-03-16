@@ -54,6 +54,20 @@ const translations = {
     findBestDeals: 'Find the best deals on hotels, flights, and tours',
     affiliateDisclaimer: 'Some links are affiliate links. We may earn a commission at no extra cost to you.',
     compare: 'Compare',
+    exploreMore: 'Explore More Thailand Guides',
+    exploreMoreSubtitle: 'Everything you need to plan your perfect Thailand trip',
+    weatherGuide: 'Weather Guide',
+    weatherGuideDesc: 'Choose your destination by climate and season',
+    travelIndex: 'Thailand Travel Index',
+    travelIndexDesc: 'Compare cities by budget, weather, and transport',
+    cityGuides: 'All City Guides',
+    cityGuidesDesc: 'In-depth guides for 33 Thai cities',
+    firstTimers: "First Timer's Guide",
+    firstTimersDesc: 'Everything you need to know before your first trip',
+    hotelGuides: 'Hotel Guides',
+    hotelGuidesDesc: 'Find the best hotels in every destination',
+    travelInsurance: 'Travel Insurance',
+    travelInsuranceDesc: 'Stay protected on your Thailand adventure',
   },
   nl: {
     pageTitle: 'Thailand Vergelijkingen 2026 | Go2Thailand',
@@ -79,6 +93,20 @@ const translations = {
     findBestDeals: 'Vind de beste deals voor hotels, vluchten en tours',
     affiliateDisclaimer: 'Sommige links zijn affiliate links. We kunnen een commissie verdienen zonder extra kosten voor jou.',
     compare: 'Vergelijken',
+    exploreMore: 'Meer Thailand Gidsen',
+    exploreMoreSubtitle: 'Alles wat je nodig hebt voor je perfecte Thailand reis',
+    weatherGuide: 'Weergids',
+    weatherGuideDesc: 'Kies je bestemming op klimaat en seizoen',
+    travelIndex: 'Thailand Reisindex',
+    travelIndexDesc: 'Vergelijk steden op budget, weer en transport',
+    cityGuides: 'Alle Stadsgidsen',
+    cityGuidesDesc: 'Uitgebreide gidsen voor 33 Thaise steden',
+    firstTimers: 'Gids voor Eerstebezoeker',
+    firstTimersDesc: 'Alles wat je moet weten voor je eerste reis',
+    hotelGuides: 'Hotelgidsen',
+    hotelGuidesDesc: 'Vind de beste hotels op elke bestemming',
+    travelInsurance: 'Reisverzekering',
+    travelInsuranceDesc: 'Beschermd op reis door Thailand',
   },
 };
 
@@ -280,6 +308,68 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
               <p>{t.islandVsIslandP}</p>
               <h3 className="text-xl font-semibold font-heading text-gray-900 mt-6 mb-3">{t.cityVsCity}</h3>
               <p>{t.cityVsCityP}</p>
+            </div>
+          </div>
+        </section>
+
+        {/* Explore More */}
+        <section className="py-12 bg-surface-cream">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="mb-8">
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-2">
+                {t.exploreMore}
+              </h2>
+              <p className="text-gray-600">{t.exploreMoreSubtitle}</p>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+              <Link
+                href="/weather/"
+                className="block bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-5 border-l-4 border-thailand-blue group"
+              >
+                <div className="text-2xl mb-2">🌤️</div>
+                <div className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors">{t.weatherGuide}</div>
+                <div className="text-sm text-gray-500 mt-1">{t.weatherGuideDesc}</div>
+              </Link>
+              <Link
+                href="/thailand-index/"
+                className="block bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-5 border-l-4 border-thailand-blue group"
+              >
+                <div className="text-2xl mb-2">📊</div>
+                <div className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors">{t.travelIndex}</div>
+                <div className="text-sm text-gray-500 mt-1">{t.travelIndexDesc}</div>
+              </Link>
+              <Link
+                href="/city/"
+                className="block bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-5 border-l-4 border-thailand-blue group"
+              >
+                <div className="text-2xl mb-2">🏙️</div>
+                <div className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors">{t.cityGuides}</div>
+                <div className="text-sm text-gray-500 mt-1">{t.cityGuidesDesc}</div>
+              </Link>
+              <Link
+                href="/thailand-for-first-timers/"
+                className="block bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-5 border-l-4 border-thailand-red group"
+              >
+                <div className="text-2xl mb-2">✈️</div>
+                <div className="font-bold text-gray-900 group-hover:text-thailand-red transition-colors">{t.firstTimers}</div>
+                <div className="text-sm text-gray-500 mt-1">{t.firstTimersDesc}</div>
+              </Link>
+              <Link
+                href="/top-10/hotels/"
+                className="block bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-5 border-l-4 border-thailand-red group"
+              >
+                <div className="text-2xl mb-2">🏨</div>
+                <div className="font-bold text-gray-900 group-hover:text-thailand-red transition-colors">{t.hotelGuides}</div>
+                <div className="text-sm text-gray-500 mt-1">{t.hotelGuidesDesc}</div>
+              </Link>
+              <Link
+                href="/travel-insurance-thailand/"
+                className="block bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-5 border-l-4 border-thailand-red group"
+              >
+                <div className="text-2xl mb-2">🛡️</div>
+                <div className="font-bold text-gray-900 group-hover:text-thailand-red transition-colors">{t.travelInsurance}</div>
+                <div className="text-sm text-gray-500 mt-1">{t.travelInsuranceDesc}</div>
+              </Link>
             </div>
           </div>
         </section>

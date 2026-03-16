@@ -160,6 +160,18 @@ const translations = {
     learnMore: 'Learn More',
     fullGuide: (name: string) => `Full Guide: ${name}`,
     compare: 'Compare',
+    relatedGuides: 'Related Guides',
+    relatedGuidesSubtitle: 'Continue planning your Thailand trip',
+    allComparisons: 'All Comparisons',
+    allComparisonsDesc: 'Browse all Thailand destination comparisons',
+    cityGuides: 'City Guides',
+    cityGuidesDesc: 'In-depth guides for all 33 Thai cities',
+    travelIndex: 'Thailand Index',
+    travelIndexDesc: 'Compare cities by budget, weather & transport',
+    weatherGuide: 'Weather Guide',
+    weatherGuideDesc: 'Find the best time to visit each destination',
+    hotelGuides: 'Hotel Guides',
+    hotelGuidesDesc: 'Find the best hotels across Thailand',
   },
   nl: {
     island: 'Eiland',
@@ -192,6 +204,18 @@ const translations = {
     learnMore: 'Meer Informatie',
     fullGuide: (name: string) => `Complete Gids: ${name}`,
     compare: 'Vergelijken',
+    relatedGuides: 'Gerelateerde Gidsen',
+    relatedGuidesSubtitle: 'Ga verder met het plannen van je Thailand reis',
+    allComparisons: 'Alle Vergelijkingen',
+    allComparisonsDesc: 'Bekijk alle Thailand bestemmingsvergelijkingen',
+    cityGuides: 'Stadsgidsen',
+    cityGuidesDesc: 'Uitgebreide gidsen voor alle 33 Thaise steden',
+    travelIndex: 'Thailand Index',
+    travelIndexDesc: 'Vergelijk steden op budget, weer & transport',
+    weatherGuide: 'Weergids',
+    weatherGuideDesc: 'Vind de beste tijd om elke bestemming te bezoeken',
+    hotelGuides: 'Hotelgidsen',
+    hotelGuidesDesc: 'Vind de beste hotels door heel Thailand',
   },
 };
 
@@ -670,6 +694,49 @@ export default function ComparisonPage({
                   {t.fullGuide(item2Name)} &rarr;
                 </Link>
               </div>
+            </div>
+          </section>
+
+          {/* Related Guides */}
+          <section className="mb-8">
+            <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">{t.relatedGuides}</h2>
+            <p className="text-gray-600 mb-5">{t.relatedGuidesSubtitle}</p>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+              <Link
+                href="/compare/"
+                className="block bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-5 border-l-4 border-thailand-blue group"
+              >
+                <div className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors">{t.allComparisons}</div>
+                <div className="text-sm text-gray-500 mt-1">{t.allComparisonsDesc}</div>
+              </Link>
+              <Link
+                href="/city/"
+                className="block bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-5 border-l-4 border-thailand-blue group"
+              >
+                <div className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors">{t.cityGuides}</div>
+                <div className="text-sm text-gray-500 mt-1">{t.cityGuidesDesc}</div>
+              </Link>
+              <Link
+                href="/thailand-index/"
+                className="block bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-5 border-l-4 border-thailand-blue group"
+              >
+                <div className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors">{t.travelIndex}</div>
+                <div className="text-sm text-gray-500 mt-1">{t.travelIndexDesc}</div>
+              </Link>
+              <Link
+                href="/weather/"
+                className="block bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-5 border-l-4 border-thailand-red group"
+              >
+                <div className="font-bold text-gray-900 group-hover:text-thailand-red transition-colors">{t.weatherGuide}</div>
+                <div className="text-sm text-gray-500 mt-1">{t.weatherGuideDesc}</div>
+              </Link>
+              <Link
+                href="/top-10/hotels/"
+                className="block bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-5 border-l-4 border-thailand-red group"
+              >
+                <div className="font-bold text-gray-900 group-hover:text-thailand-red transition-colors">{t.hotelGuides}</div>
+                <div className="text-sm text-gray-500 mt-1">{t.hotelGuidesDesc}</div>
+              </Link>
             </div>
           </section>
 

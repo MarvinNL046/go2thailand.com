@@ -268,6 +268,74 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
           </aside>
         </div>
 
+        {/* Explore More */}
+        <section className="bg-white rounded-2xl shadow-md p-6 mt-8">
+          <p className="section-label">Explore More</p>
+          <h2 className="text-2xl font-bold font-heading mb-6">Plan Your Trip to Thailand</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            <Link
+              href="/city/"
+              className="flex items-center justify-between p-4 bg-surface-cream rounded-2xl hover:shadow-lg transition-shadow group"
+            >
+              <div>
+                <h3 className="font-semibold font-heading text-gray-900 group-hover:text-thailand-blue">City Guides</h3>
+                <p className="text-sm text-gray-600">Explore all 33 Thai cities</p>
+              </div>
+              <span className="text-thailand-blue group-hover:translate-x-1 transition-transform text-lg">→</span>
+            </Link>
+            <Link
+              href="/compare/"
+              className="flex items-center justify-between p-4 bg-surface-cream rounded-2xl hover:shadow-lg transition-shadow group"
+            >
+              <div>
+                <h3 className="font-semibold font-heading text-gray-900 group-hover:text-thailand-blue">Compare Destinations</h3>
+                <p className="text-sm text-gray-600">Side-by-side city comparisons</p>
+              </div>
+              <span className="text-thailand-blue group-hover:translate-x-1 transition-transform text-lg">→</span>
+            </Link>
+            <Link
+              href="/thailand-index/best-time"
+              className="flex items-center justify-between p-4 bg-surface-cream rounded-2xl hover:shadow-lg transition-shadow group"
+            >
+              <div>
+                <h3 className="font-semibold font-heading text-gray-900 group-hover:text-thailand-blue">Best Time to Visit</h3>
+                <p className="text-sm text-gray-600">Data-driven month-by-month index</p>
+              </div>
+              <span className="text-thailand-blue group-hover:translate-x-1 transition-transform text-lg">→</span>
+            </Link>
+            <Link
+              href="/thailand-for-first-timers/"
+              className="flex items-center justify-between p-4 bg-surface-cream rounded-2xl hover:shadow-lg transition-shadow group"
+            >
+              <div>
+                <h3 className="font-semibold font-heading text-gray-900 group-hover:text-thailand-blue">First Timer's Guide</h3>
+                <p className="text-sm text-gray-600">Everything you need to know</p>
+              </div>
+              <span className="text-thailand-blue group-hover:translate-x-1 transition-transform text-lg">→</span>
+            </Link>
+            <Link
+              href="/islands/"
+              className="flex items-center justify-between p-4 bg-surface-cream rounded-2xl hover:shadow-lg transition-shadow group"
+            >
+              <div>
+                <h3 className="font-semibold font-heading text-gray-900 group-hover:text-thailand-blue">Thai Islands</h3>
+                <p className="text-sm text-gray-600">Beaches, diving & island life</p>
+              </div>
+              <span className="text-thailand-blue group-hover:translate-x-1 transition-transform text-lg">→</span>
+            </Link>
+            <Link
+              href="/travel-gear/"
+              className="flex items-center justify-between p-4 bg-surface-cream rounded-2xl hover:shadow-lg transition-shadow group"
+            >
+              <div>
+                <h3 className="font-semibold font-heading text-gray-900 group-hover:text-thailand-blue">Travel Gear</h3>
+                <p className="text-sm text-gray-600">Pack smart for every season</p>
+              </div>
+              <span className="text-thailand-blue group-hover:translate-x-1 transition-transform text-lg">→</span>
+            </Link>
+          </div>
+        </section>
+
         {/* Ready to Book Section */}
         <section className="bg-surface-dark rounded-2xl p-8 text-white mt-12">
           <p className="font-script text-thailand-gold text-center mb-2">Plan Ahead</p>

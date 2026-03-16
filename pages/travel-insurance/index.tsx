@@ -716,6 +716,47 @@ export default function TravelInsurancePage() {
           </div>
         </section>
 
+        <section className="py-12">
+          <div className="container-custom">
+            <div className="mx-auto max-w-4xl">
+              <p className="section-label text-center">Trip Planning</p>
+              <h2 className="mb-6 text-center text-3xl font-bold font-heading text-gray-900">
+                Plan Your Trip
+              </h2>
+              <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+                <Link
+                  href="/visa/"
+                  className="rounded-2xl bg-white p-5 shadow-md transition-all hover:-translate-y-1 hover:shadow-lg"
+                >
+                  <h3 className="mb-1 font-bold font-heading text-gray-900">Visa Guide</h3>
+                  <p className="text-sm text-gray-600">Entry requirements, visa on arrival, and e-visa for Thailand.</p>
+                </Link>
+                <Link
+                  href="/weather/"
+                  className="rounded-2xl bg-white p-5 shadow-md transition-all hover:-translate-y-1 hover:shadow-lg"
+                >
+                  <h3 className="mb-1 font-bold font-heading text-gray-900">Weather Guide</h3>
+                  <p className="text-sm text-gray-600">Best time to visit, rainy season, and regional climate differences.</p>
+                </Link>
+                <Link
+                  href="/compare/"
+                  className="rounded-2xl bg-white p-5 shadow-md transition-all hover:-translate-y-1 hover:shadow-lg"
+                >
+                  <h3 className="mb-1 font-bold font-heading text-gray-900">Compare Destinations</h3>
+                  <p className="text-sm text-gray-600">Side-by-side comparisons of Thai cities to help you decide where to go.</p>
+                </Link>
+                <Link
+                  href="/city/"
+                  className="rounded-2xl bg-white p-5 shadow-md transition-all hover:-translate-y-1 hover:shadow-lg"
+                >
+                  <h3 className="mb-1 font-bold font-heading text-gray-900">City Guides</h3>
+                  <p className="text-sm text-gray-600">In-depth guides for all 33 Thai cities — attractions, food, transport, and more.</p>
+                </Link>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="bg-white py-12">
           <div className="container-custom">
             <div className="mx-auto max-w-5xl">

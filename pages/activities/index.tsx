@@ -229,7 +229,7 @@ export default function ActivitiesPage({ activities }: Props) {
             </div>
 
             {/* FAQ */}
-            <div className="bg-white rounded-2xl shadow-md p-8">
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
               <p className="section-label">FAQ</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Frequently Asked Questions</h2>
               <div className="space-y-6">
@@ -245,6 +245,31 @@ export default function ActivitiesPage({ activities }: Props) {
                   <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">Which city has the most activities?</h3>
                   <p className="text-gray-700">Phuket offers the widest range — diving, Muay Thai, elephant sanctuaries, and cooking classes. Chiang Mai is top for cooking classes and elephant sanctuaries. Bangkok has the best Muay Thai fight stadiums.</p>
                 </div>
+              </div>
+            </div>
+
+            {/* Related Guides */}
+            <div className="mb-8">
+              <p className="section-label">Related Guides</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Plan Your Trip</h2>
+              <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+                {[
+                  { href: '/travel-gear/', title: 'Travel Gear', description: 'Pack smart for activities — what to bring for diving, trekking, and outdoor adventures in Thailand.' },
+                  { href: '/visa/', title: 'Visa Guide', description: 'Visa on arrival, e-visa, and exemptions explained — everything you need to enter Thailand legally.' },
+                  { href: '/thailand-for-first-timers/', title: "First Timer's Guide", description: 'Essential tips for first-time visitors: safety, etiquette, transport, and must-do experiences.' },
+                  { href: '/weather/', title: 'Weather Guide', description: 'Find the best time for outdoor activities — avoid the rainy season and plan around regional weather.' },
+                  { href: '/compare/', title: 'Compare Destinations', description: 'Compare Thai cities side by side on cost, activities, beaches, and nightlife to pick your ideal base.' },
+                  { href: '/travel-insurance-thailand/', title: 'Travel Insurance', description: 'Check activity coverage before you book — Muay Thai, diving, and scooters often need special policies.' },
+                ].map((guide) => (
+                  <Link
+                    key={guide.href}
+                    href={guide.href}
+                    className="rounded-2xl bg-surface-cream p-5 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md"
+                  >
+                    <h3 className="mb-2 font-bold font-heading text-gray-900">{guide.title}</h3>
+                    <p className="text-sm text-gray-600">{guide.description}</p>
+                  </Link>
+                ))}
               </div>
             </div>
 
