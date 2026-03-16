@@ -335,53 +335,37 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
           </div>
         </section>
 
-        {/* Affiliate: Book a Thai Cooking Class */}
-        <section className="bg-white section-padding">
+        {/* Explore by Region */}
+        <section className="bg-surface-cream section-padding">
           <div className="container-custom">
-            <div className="text-center mb-10">
-              <p className="section-label font-script text-thailand-gold">Experience</p>
-              <h2 className="text-3xl lg:text-4xl font-heading font-bold text-gray-900 mb-4">
-                Book a Thai Cooking Class
-              </h2>
-              <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                Learn to cook authentic Thai dishes with expert local chefs — from street food favorites to royal Thai cuisine
-              </p>
+            <div className="text-center mb-8">
+              <p className="section-label font-script text-thailand-gold">By Region</p>
+              <h2 className="text-3xl font-heading font-bold text-gray-900">Explore Thai Food by Region</h2>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-              <div className="bg-white rounded-2xl shadow-md p-8 text-center">
-                <div className="text-5xl mb-4"></div>
-                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Cooking Classes &amp; Food Tours</h3>
-                <p className="text-gray-600 mb-6">
-                  Cooking classes and food tours across Thailand
-                </p>
-                <a
-                  href="https://klook.tpo.lv/aq6ZFxvc"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-block bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-blue transition-colors"
-                >
-                  Browse on Klook
-                </a>
-              </div>
-              <div className="bg-white rounded-2xl shadow-md p-8 text-center">
-                <div className="text-5xl mb-4"></div>
-                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Food Walking Tours</h3>
-                <p className="text-gray-600 mb-6">
-                  Guided food walking tours
-                </p>
-                <a
-                  href="https://getyourguide.tpo.lv/GuAFfGGK"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-block bg-thailand-blue text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-red transition-colors"
-                >
-                  Browse on GetYourGuide
-                </a>
-              </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+              {[
+                { slug: 'northern', name: 'Northern Thailand', desc: 'Mountain herbs, mild flavors, sticky rice' },
+                { slug: 'central', name: 'Central Thailand', desc: 'Royal cuisine, balanced flavors, coconut milk' },
+                { slug: 'southern', name: 'Southern Thailand', desc: 'Bold spices, seafood, turmeric' },
+                { slug: 'isaan', name: 'Isaan (Northeast)', desc: 'Fermented fish, grilled meats, spicy salads' },
+              ].map(region => (
+                <Link key={region.slug} href={`/region/${region.slug}/`} className="bg-white rounded-2xl p-5 shadow-sm hover:shadow-md transition-shadow">
+                  <h3 className="font-heading font-bold text-gray-900 mb-1">{region.name}</h3>
+                  <p className="text-gray-600 text-sm">{region.desc}</p>
+                </Link>
+              ))}
             </div>
-            <p className="text-center text-xs text-gray-400 mt-6">
-              We may earn a commission when you book through our links, at no extra cost to you. This helps us keep Go2Thailand running.
-            </p>
+          </div>
+        </section>
+
+        {/* Drinks Cross-Link */}
+        <section className="section-padding">
+          <div className="container-custom text-center">
+            <h2 className="text-2xl font-heading font-bold text-gray-900 mb-3">Complete Your Thai Meal</h2>
+            <p className="text-gray-600 mb-6">Discover traditional Thai drinks and beverages to pair with your favorite dishes.</p>
+            <Link href="/drinks/" className="inline-flex items-center gap-2 bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors">
+              Explore Thai Drinks
+            </Link>
           </div>
         </section>
 
