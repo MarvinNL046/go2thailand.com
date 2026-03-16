@@ -7,6 +7,8 @@ import CityCard from '../../components/CityCard';
 import { getAllCities, toAbsoluteImageUrl } from '../../lib/cities';
 import { useScrollAnimation } from '../../hooks/useScrollAnimation';
 import { useRouter } from 'next/router';
+import AffiliateBox from '../../components/AffiliateBox';
+import { getAffiliates, regionFeaturedCities, CityAffiliates } from '../../lib/affiliates';
 const { getAllDishes } = require('../../lib/food');
 const { getAllItineraries } = require('../../lib/itineraries');
 
@@ -131,9 +133,10 @@ interface RegionPageProps {
   regionalItineraries: RegionalItinerary[];
   regionalComparisons: RegionalComparison[];
   regionalTransportRoutes: RegionalTransportRoute[];
+  featuredCityAffiliates: Array<{ cityName: string; citySlug: string; affiliates: CityAffiliates }>;
 }
 
-export default function RegionPage({ region, cities, regionalDishes, regionalItineraries, regionalComparisons, regionalTransportRoutes }: RegionPageProps) {
+export default function RegionPage({ region, cities, regionalDishes, regionalItineraries, regionalComparisons, regionalTransportRoutes, featuredCityAffiliates }: RegionPageProps) {
   const { locale } = useRouter();
   const lang = locale || 'en';
   const contentAnim = useScrollAnimation(0.05);
@@ -849,14 +852,9 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 </div>
                 <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">Hotels & Accommodation</h3>
                 <p className="text-gray-600 text-sm mb-4">Compare prices on top booking platforms for {region.name.en}.</p>
-                <div className="space-y-2">
-                  <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="block bg-blue-600 text-white py-2 px-4 rounded-xl font-medium hover:bg-blue-700 transition-colors text-sm">
-                    Search on Trip.com
-                  </a>
-                  <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer" className="block bg-indigo-600 text-white py-2 px-4 rounded-xl font-medium hover:bg-indigo-700 transition-colors text-sm">
-                    Search on Booking.com
-                  </a>
-                </div>
+                {featuredCityAffiliates.map(({ cityName, affiliates }) => (
+                  <AffiliateBox key={cityName} affiliates={affiliates} cityName={cityName} type="hotels" />
+                ))}
               </div>
 
               {/* Transport */}
@@ -887,6 +885,16 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 </Link>
               </div>
             </div>
+
+            {featuredCityAffiliates[0] && (
+              <div className="mt-6">
+                <AffiliateBox
+                  affiliates={featuredCityAffiliates[0].affiliates}
+                  cityName={featuredCityAffiliates[0].cityName}
+                  type="activities"
+                />
+              </div>
+            )}
 
             <p className="text-xs text-gray-500 text-center">
               This section contains affiliate links. We may earn a small commission at no extra cost to you.
@@ -1078,6 +1086,15 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       distance: r.distance || '',
     }));
 
+  const featuredSlugs = regionFeaturedCities[region.slug] || [];
+  const featuredCityAffiliates = featuredSlugs
+    .map(slug => {
+      const aff = getAffiliates(slug);
+      const city = cities.find((c: any) => c.slug === slug);
+      return aff && city ? { cityName: city.name.en, citySlug: slug, affiliates: aff } : null;
+    })
+    .filter((x): x is { cityName: string; citySlug: string; affiliates: CityAffiliates } => x !== null);
+
   return {
     props: {
       region,
@@ -1086,6 +1103,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       regionalItineraries,
       regionalComparisons,
       regionalTransportRoutes,
+      featuredCityAffiliates,
     },
     revalidate: 86400,
   };
