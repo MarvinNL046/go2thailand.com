@@ -208,6 +208,31 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
           </div>
         </section>
 
+        {/* Explore More */}
+        <section className="py-12 bg-white">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6">Explore More of Thailand</h2>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+              <Link href="/region/southern/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
+                <div className="font-semibold text-gray-900">Southern Thailand</div>
+                <div className="text-xs text-gray-600">Andaman & Gulf coasts</div>
+              </Link>
+              <Link href="/region/central/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
+                <div className="font-semibold text-gray-900">Central Thailand</div>
+                <div className="text-xs text-gray-600">Bangkok & surrounds</div>
+              </Link>
+              <Link href="/transport/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
+                <div className="font-semibold text-gray-900">Transport Routes</div>
+                <div className="text-xs text-gray-600">Ferries, buses & flights</div>
+              </Link>
+              <Link href="/food/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
+                <div className="font-semibold text-gray-900">Thai Food Guide</div>
+                <div className="text-xs text-gray-600">Island cuisine & more</div>
+              </Link>
+            </div>
+          </div>
+        </section>
+
         {/* Affiliate Banner */}
         <section className="bg-surface-dark">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

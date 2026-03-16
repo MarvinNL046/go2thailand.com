@@ -975,6 +975,20 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 </div>
               </Link>
 
+              <Link href="/islands/" className={`group scroll-fade-up ${exploreAnim.isVisible ? 'is-visible' : ''}`}>
+                <div className="bg-white p-6 rounded-2xl shadow-sm hover:shadow-lg transition-shadow">
+                  <div className="text-center">
+                    <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-3">
+                      <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z" />
+                      </svg>
+                    </div>
+                    <h3 className="font-semibold font-heading text-gray-900 mb-2">Thai Islands</h3>
+                    <p className="text-gray-600 text-sm">Beach paradise guide</p>
+                  </div>
+                </div>
+              </Link>
+
               <Link href="/top-10/" className={`group scroll-fade-up ${exploreAnim.isVisible ? 'is-visible' : ''}`}>
                 <div className="bg-white p-6 rounded-2xl shadow-sm hover:shadow-lg transition-shadow">
                   <div className="text-center">

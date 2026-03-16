@@ -596,6 +596,24 @@ export default function IslandPage({ island, relatedIslands, comparisons, affili
                   >
                     Travel Insurance
                   </Link>
+                  <Link
+                    href={`/region/${island.region}/`}
+                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
+                  >
+                    Explore {island.region === 'isaan' ? 'Isaan' : `${island.region.charAt(0).toUpperCase() + island.region.slice(1)}`} Region
+                  </Link>
+                  <Link
+                    href="/islands/"
+                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
+                  >
+                    All Thai Islands
+                  </Link>
+                  <Link
+                    href="/food/"
+                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
+                  >
+                    Thai Food Guide
+                  </Link>
                   <a
                     href="https://getyourguide.tpo.lv/GuAFfGGK"
                     target="_blank"

@@ -310,6 +310,29 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
           </div>
         </section>
 
+        {/* Explore More */}
+        <section className="mt-12 bg-white rounded-2xl shadow-md p-6">
+          <h2 className="text-2xl font-bold font-heading mb-4">Explore Thailand</h2>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+            <Link href="/islands/" className="p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
+              <div className="font-semibold text-gray-900 text-sm">Thai Islands</div>
+              <div className="text-xs text-gray-600">Ferry destinations</div>
+            </Link>
+            <Link href="/city/" className="p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
+              <div className="font-semibold text-gray-900 text-sm">All Cities</div>
+              <div className="text-xs text-gray-600">Browse destinations</div>
+            </Link>
+            <Link href="/region/" className="p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
+              <div className="font-semibold text-gray-900 text-sm">Regions</div>
+              <div className="text-xs text-gray-600">North, South, Central</div>
+            </Link>
+            <Link href="/food/" className="p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
+              <div className="font-semibold text-gray-900 text-sm">Thai Food</div>
+              <div className="text-xs text-gray-600">Cuisine guide</div>
+            </Link>
+          </div>
+        </section>
+
       </main>
     </div>
   );
