@@ -13,7 +13,7 @@
       "slug": "serendipity-beach-resort-koh-lipe",
       "category": "luxury",
       "area": "Sunrise Beach, Koh Lipe",
-      "priceRange": { "min": 5500, "max": 14000, "currency": "THB" },
+      "priceRange": "5,500–14,000 THB (~$155–$395 USD)",
       "description": "One of Koh Lipe's most established luxury properties, Serendipity occupies prime Sunrise Beach frontage with direct access to the island's best swimming. The resort offers bungalow-style villas with outdoor terraces, a beachfront infinity pool, a dive center, and one of the island's better restaurants. The villas are thoughtfully designed using local natural materials — bamboo, teak, and woven grass — creating a refined tropical aesthetic without feeling over-built. Sunrise views from the beachfront villas are genuinely spectacular.",
       "highlights": [
         "Direct Sunrise Beach frontage — arguably Koh Lipe's best beach position",
@@ -27,7 +27,7 @@
       "slug": "idyllic-concept-resort-koh-lipe",
       "category": "luxury",
       "area": "Sunrise Beach, Koh Lipe",
-      "priceRange": { "min": 4500, "max": 12000, "currency": "THB" },
+      "priceRange": "4,500–12,000 THB (~$125–$340 USD)",
       "description": "A boutique luxury resort on Sunrise Beach with a strong design sensibility — whitewashed walls, infinity pool, and minimalist interiors that let the natural setting do the work. The resort has 40 rooms across several categories, from garden-view rooms to beachfront pool villas. The spa uses locally sourced herbs and coconut products. Staff are notably professional for a remote island property. Strong repeat visitor loyalty suggests consistent quality across seasons.",
       "highlights": [
         "Minimalist boutique design with strong sense of place",
@@ -41,7 +41,7 @@
       "slug": "ananya-lipe-resort",
       "category": "boutique",
       "area": "Sunset Beach, Koh Lipe",
-      "priceRange": { "min": 2800, "max": 7500, "currency": "THB" },
+      "priceRange": "2,800–7,500 THB (~$80–$210 USD)",
       "description": "A charming boutique property on the quieter Sunset Beach side of Koh Lipe, where the western coast catches dramatic sunsets over Koh Adang. The resort has 24 rooms in two-storey pavilion buildings set in a tropical garden. Rooms have wooden interiors, large windows, and private terraces. The beachside restaurant and bar are lively at sunset without the nightlife noise of Walking Street. A good mid-luxury choice for couples seeking romance over convenience.",
       "highlights": [
         "Sunset Beach location — direct sunset views over Koh Adang",
@@ -55,7 +55,7 @@
       "slug": "castaway-resort-koh-lipe",
       "category": "mid-range",
       "area": "Sunrise Beach, Koh Lipe",
-      "priceRange": { "min": 1800, "max": 4500, "currency": "THB" },
+      "priceRange": "1,800–4,500 THB (~$50–$125 USD)",
       "description": "A well-run mid-range resort on Sunrise Beach offering the best value-for-location ratio on Koh Lipe. Rooms are in multi-storey buildings with sea-view balconies — not traditional bungalows, but the location is hard to beat. The resort has its own dive operation (Castaway Divers, highly rated), a restaurant with above-average food, and a reliable snorkeling rental setup. A strong choice for divers wanting a convenient base with quality instruction.",
       "highlights": [
         "Sunrise Beach location at mid-range pricing",
@@ -69,7 +69,7 @@
       "slug": "poohs-bungalow-koh-lipe",
       "category": "budget",
       "area": "Walking Street / Pattaya Beach, Koh Lipe",
-      "priceRange": { "min": 500, "max": 1200, "currency": "THB" },
+      "priceRange": "500–1,200 THB (~$15–$35 USD)",
       "description": "One of Koh Lipe's longest-running budget guesthouses, Pooh's Bungalow has wooden fan and air-conditioned bungalows in a garden setting near the Walking Street. Rooms are simple but clean, with mosquito nets and basic bathrooms. The location — central island near Pattaya Beach arrivals — is the most convenient on Koh Lipe for moving around. Ideal for budget travelers who want to spend their money on diving and food rather than accommodation.",
       "highlights": [
         "Reliable budget option with consistently good cleanliness standards",
@@ -83,7 +83,7 @@
       "slug": "mountain-resort-koh-lipe",
       "category": "mid-range",
       "area": "Inland / Walking Street, Koh Lipe",
-      "priceRange": { "min": 1200, "max": 2800, "currency": "THB" },
+      "priceRange": "1,200–2,800 THB (~$35–$80 USD)",
       "description": "Set on the elevated inland area of Koh Lipe with jungle-garden surroundings, Mountain Resort offers a cooler, quieter alternative to beachfront properties. Bungalows are well-maintained with air conditioning, hot showers, and private verandas surrounded by tropical plants. The short walk to both Sunrise and Pattaya beaches makes this a genuinely convenient option. Good option for travelers who find beachfront properties too noisy at night.",
       "highlights": [
         "Elevated jungle garden setting — cooler and quieter than beach properties",
@@ -97,7 +97,7 @@
       "slug": "pakbara-seaside-guesthouse",
       "category": "budget",
       "area": "Pak Bara, mainland Satun",
-      "priceRange": { "min": 350, "max": 700, "currency": "THB" },
+      "priceRange": "350–700 THB (~$10–$20 USD)",
       "description": "The most practical budget option for travelers catching early morning ferries from Pak Bara to Koh Lipe or Koh Tarutao. Clean rooms with fan or AC, 5 minutes' walk from the pier. The guesthouse staff are experienced at helping with ferry schedules and ticket booking. Simple Thai breakfast available from 6 AM — useful for catching 8 AM boat departures. No frills but exactly what a pier-side overnight requires.",
       "highlights": [
         "5-minute walk to Pak Bara ferry pier",
@@ -111,7 +111,7 @@
       "slug": "wan-wang-resort-pak-bara",
       "category": "mid-range",
       "area": "Pak Bara beach, mainland Satun",
-      "priceRange": { "min": 800, "max": 1800, "currency": "THB" },
+      "priceRange": "800–1,800 THB (~$25–$50 USD)",
       "description": "A step above the basic pier guesthouses, Wan Wang Resort sits on the small beach north of Pak Bara village with clean rooms, a pool, and sea views over the Andaman. Useful for travelers who want a more relaxed mainland base to explore the geopark and mainland Satun before or after island time. The resort can arrange longtail boat trips to nearby sea caves and mangrove channels.",
       "highlights": [
         "Small pool with sea views — rare at this price on the mainland",
@@ -125,7 +125,7 @@
       "slug": "sinkiat-thani-hotel-satun",
       "category": "mid-range",
       "area": "Satun town center",
-      "priceRange": { "min": 900, "max": 1800, "currency": "THB" },
+      "priceRange": "900–1,800 THB (~$25–$50 USD)",
       "description": "The most comfortable hotel option in Satun town — a Thai business hotel with clean air-conditioned rooms, reliable wifi, a small fitness room, and a restaurant serving both Thai and halal Malay dishes. Centrally located within walking distance of the town market, geopark visitor center, and bus station. A good base for exploring mainland Satun including the geopark, cave rivers, and the Malaysian border ferry terminal at Tammalang Pier.",
       "highlights": [
         "Most comfortable option in Satun town with reliable facilities",
@@ -139,7 +139,7 @@
       "slug": "coco-tarutao-resort",
       "category": "boutique",
       "area": "Koh Tarutao (national park)",
-      "priceRange": { "min": 1500, "max": 3500, "currency": "THB" },
+      "priceRange": "1,500–3,500 THB (~$40–$100 USD)",
       "description": "The only private accommodation on Koh Tarutao — a small eco-lodge with wooden bungalows set at the edge of Ao Phante Malacca beach under palm trees. Being the only place to stay on Thailand's most historically dramatic uninhabited island is itself an experience. Evenings here are genuinely dark and quiet — the national park generator powers down at 10 PM. Watch sea turtles nest on the beach in season (November-February) and wake to the island before any day visitors arrive.",
       "highlights": [
         "The only non-park bungalow accommodation on Koh Tarutao",

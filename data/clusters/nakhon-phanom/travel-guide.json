@@ -8,32 +8,53 @@
   "cityName": "Nakhon Phanom",
   "intro": "Nakhon Phanom rewards travellers who venture this far northeast of Bangkok with experiences found nowhere else in Thailand — a sacred Buddhist pilgrimage site, the mysterious Naga fireballs, Vietnamese revolutionary history, Phu Thai ethnic culture and the most dramatic Mekong scenery in the country. This practical guide gives you everything you need to plan a visit, from getting there to what to eat.",
   "itinerary": {
-    "days": 3,
     "title": "3 Days in Nakhon Phanom — The Essential Itinerary",
-    "days_detail": [
+    "days": [
       {
         "day": 1,
-        "title": "City Exploration — Mekong, Museums & Vietnamese Heritage",
-        "morning": "Begin at the Mekong Riverfront Promenade for an early morning walk when the mist rises from the river and the Lao mountains are at their most dramatic. Stop at one of the riverside Vietnamese coffee shops in the Ban Na Chok area for a traditional Vietnamese iced coffee (ca phe sua da) and a banh mi breakfast (40–60 THB). Walk to the City Pillar Shrine (Lak Mueang) for a quiet moment of reflection.",
-        "midday": "Visit the Nakhon Phanom Provincial Museum (free, closed Monday) for a thorough overview of the province's history, Phu Thai culture and the Naga Fireball phenomenon. This is the best way to contextualise everything else you will see. Have lunch at a local Isaan restaurant near the market — try khao moo daeng (red pork on rice, Vietnamese-influenced) for around 60–80 THB.",
-        "afternoon": "Drive or Grab to Ho Chi Minh's Former Residence (free) in Ban Na Chok village for a fascinating hour exploring the reconstructed house and exhibition. Return to the city centre and browse the Central Market for fresh fruit, local snacks and Vietnamese sausages to try. Rent a bicycle (80–120 THB) for the late afternoon.",
-        "evening": "Cycle to the best sunset viewpoint on the riverfront promenade by 17:30. As the Lao mountains turn gold and pink, join locals gathered to watch. Return your bicycle and head to the Riverfront Night Market for dinner — try the Mekong grilled fish (pla pao), Vietnamese spring rolls and a cold Beer Lao (60–100 THB per bottle). Budget for the day: 500–900 THB."
+        "title": "Day 1: City Exploration — Mekong, Museums & Vietnamese Heritage",
+        "activities": [
+          "07:00 — Morning walk on Mekong Riverfront Promenade (1 hour): Arrive early when mist rises from the river and the Lao mountains are at their most dramatic. Join locals doing their morning exercise along the promenade.",
+          "08:00 — Vietnamese breakfast at a Ban Na Chok café (45 minutes): Order a traditional Vietnamese iced coffee (ca phe sua da) and a banh mi (40–60 THB). These riverside Vietnamese coffee shops are among the most atmospheric in Thailand.",
+          "09:00 — Visit City Pillar Shrine (Lak Mueang) (30 minutes): A quiet moment of reflection at this spiritual centre of the city. Respectful dress is expected.",
+          "10:00 — Nakhon Phanom Provincial Museum (2 hours): Free entry, closed on Mondays. Best way to contextualise the province's history, Phu Thai culture and the Naga Fireball phenomenon before seeing the sites.",
+          "12:30 — Lunch at a local Isaan restaurant near the market (1 hour): Try khao moo daeng (red pork on rice, Vietnamese-influenced) for around 60–80 THB. Sit where locals eat for the authentic experience.",
+          "14:00 — Ho Chi Minh's Former Residence in Ban Na Chok village (1.5 hours): Free entry. Take a Grab (60–80 THB one way) or rent a bicycle. The reconstructed house and exhibition provide a fascinating window into Vietnamese revolutionary history.",
+          "15:30 — Browse Nakhon Phanom Central Market (1 hour): Pick up fresh fruit, local snacks and Vietnamese sausages to try. Rent a bicycle here (80–120 THB) for the late afternoon riverfront ride.",
+          "17:30 — Mekong sunset from the riverfront promenade (1 hour): The best sunset viewpoint in the city. Join locals as the Lao mountains turn gold and pink. Arrive a few minutes early to find a good spot.",
+          "19:00 — Dinner at the Riverfront Night Market (1.5 hours): Try the Mekong grilled fish (pla pao), Vietnamese spring rolls and a cold Beer Lao (60–100 THB per bottle). Budget for the day: 500–900 THB."
+        ]
       },
       {
         "day": 2,
-        "title": "Sacred Sites — Phra That Phanom & Renu Nakhon",
-        "morning": "Leave Nakhon Phanom by 07:00 (rent a motorbike the night before, 250–300 THB per day, or hire a songthaew or Grab for approximately 400–600 THB return). Drive south 50 km on Highway 212 to That Phanom. Arrive at Phra That Phanom by 08:00 for the early morning pilgrimage hour — watching devout Thai and Lao Buddhists perform krab (prostration prayer) around the golden chedi is one of the most moving experiences in all of Thailand. Walk the ceremonial circuits at a respectful pace. Breakfast at the That Phanom morning market: kuay jap (rolled rice noodles in dark broth, 40–50 THB).",
-        "midday": "Continue south 20 km to Renu Nakhon. If visiting on a Wednesday (highly recommended), arrive by 09:30 to browse the Phu Thai market before the 10:00 dance performance. Purchase handwoven Phu Thai silk if desired — scarves from 300 THB, fabrics from 1,500 THB. Have lunch at a Renu Nakhon village restaurant: traditional Phu Thai sticky rice with grilled chicken and tam mak hung (Isaan-style papaya salad), approximately 80–120 THB.",
-        "afternoon": "Return north, stopping at the That Phanom riverfront for the afternoon river view (the light at 15:00–16:00 is excellent for photography). If time allows, explore the colonial shophouses of That Phanom town. Return to Nakhon Phanom by 17:00.",
-        "evening": "Enjoy a Mekong sunset cruise (book at the pier, 300–600 THB per person, about 1 hour). Dinner at a riverfront restaurant — order the house specialty of steamed Mekong fish with lemon grass and chilli (150–250 THB). Budget for the day: 900–1,500 THB including motorbike rental and activities."
+        "title": "Day 2: Sacred Sites — Phra That Phanom & Renu Nakhon",
+        "activities": [
+          "07:00 — Depart for Phra That Phanom (1 hour drive): Rent a motorbike the night before (250–300 THB per day), or hire a songthaew or Grab (400–600 THB return). Drive south 50 km on Highway 212.",
+          "08:00 — Morning pilgrimage at Phra That Phanom (1.5 hours): The early morning pilgrimage hour is the most moving time to visit — watch devout Thai and Lao Buddhists perform krab (prostration prayer) around the golden chedi. Walk the ceremonial circuits at a respectful pace. Dress very conservatively.",
+          "09:30 — Breakfast at That Phanom morning market (45 minutes): Try kuay jap (rolled rice noodles in dark broth, 40–50 THB). The market is at its best before 10:00.",
+          "10:30 — Drive to Renu Nakhon (30 minutes drive): Continue south 20 km on Highway 212. If visiting on a Wednesday (highly recommended), arrive by 10:00 for the Phu Thai dance performance.",
+          "11:00 — Renu Nakhon Phu Thai market and dance performance (1.5 hours): Browse handwoven Phu Thai silk — scarves from 300 THB, fabrics from 1,500 THB. The Wednesday dance performance starts at 10:00 and is a rare authentic cultural showcase.",
+          "12:30 — Lunch at a Renu Nakhon village restaurant (1 hour): Order traditional Phu Thai sticky rice with grilled chicken and tam mak hung (Isaan-style papaya salad), approximately 80–120 THB.",
+          "14:00 — Return north — That Phanom riverfront stop (1 hour): The afternoon light between 15:00–16:00 is excellent for photography of the river view. Explore the colonial shophouses of That Phanom town if time allows.",
+          "17:00 — Return to Nakhon Phanom (1 hour drive): Return your motorbike and freshen up before the evening.",
+          "18:30 — Mekong sunset cruise (1 hour): Book at the pier (300–600 THB per person). The views of the Lao mountains from the water are spectacular. Budget for the day: 900–1,500 THB including motorbike and activities.",
+          "20:00 — Dinner at a riverfront restaurant (1.5 hours): Order the house specialty of steamed Mekong fish with lemongrass and chilli (150–250 THB)."
+        ]
       },
       {
         "day": 3,
-        "title": "Cross-Border Excursion — Laos, Temples & Final Sunset",
-        "morning": "Take a half-day trip to Laos via the Third Thai-Lao Friendship Bridge. The bridge shuttle bus (50 THB) crosses to the Lao immigration post, where you can obtain a visa on arrival (approximately USD 30–42 plus a small weekend/holiday surcharge). Thakhek is a charming colonial French town with good local food — try khao piak (Lao rice noodle soup, 20,000–30,000 Lao Kip, approx. 35–55 THB equivalent) for a late breakfast. Walk the old town streets to admire the crumbling French colonial architecture.",
-        "midday": "Return to Thailand by 12:00 to allow a relaxed afternoon. Lunch at the Nakhon Phanom city central market or a local restaurant near the riverfront — try khao jee pate (Vietnamese-style banh mi, 30–50 THB) or lao-style noodles.",
-        "afternoon": "Visit any remaining temples on your list — Wat Okat Si Bua Ban is particularly photogenic and peaceful. If interested in photography, take the elevated road west of the city toward Phu Pha Yon for panoramic views over Nakhon Phanom and the Mekong Valley. Stop at a local café for a final Vietnamese iced coffee.",
-        "evening": "One last sunset on the Mekong promenade. Farewell dinner at your favourite riverside restaurant — a whole grilled Mekong fish (pla pao tom), sticky rice and cold beers makes an excellent final meal, approximately 300–500 THB. Budget for the day: 1,200–2,000 THB including Lao visa costs."
+        "title": "Day 3: Cross-Border Excursion — Laos, Temples & Final Sunset",
+        "activities": [
+          "08:00 — Cross to Laos via Third Thai-Lao Friendship Bridge (30 minutes transit): The bridge shuttle bus costs 50 THB. Obtain a Lao visa on arrival at the immigration post (approximately USD 30–42 plus a small weekend/holiday surcharge). Bring a passport photo and USD cash.",
+          "08:30 — Explore Thakhek old town (2.5 hours): Walk the old town streets to admire the crumbling French colonial architecture. Try khao piak (Lao rice noodle soup, approx. 35–55 THB equivalent) at a local café for breakfast.",
+          "11:00 — Return to Thailand (30 minutes transit): Cross back before 12:00 to allow a relaxed afternoon. Keep your Thai departure card for re-entry.",
+          "12:00 — Lunch at Nakhon Phanom riverfront (1 hour): Try khao jee pate (Vietnamese-style banh mi, 30–50 THB) or Lao-style noodles at the central market or a local riverside restaurant.",
+          "13:30 — Visit Wat Okat Si Bua Ban (1 hour): Particularly photogenic and peaceful temple — well worth a slow walk around the grounds. Far fewer tourists than That Phanom.",
+          "15:00 — Panoramic views from Phu Pha Yon road (1.5 hours): Take the elevated road west of the city toward Phu Pha Yon for sweeping views over Nakhon Phanom and the Mekong Valley. Rental vehicle essential for this detour.",
+          "16:30 — Final Vietnamese iced coffee at a riverside café (45 minutes): A perfect last taste of Nakhon Phanom's unique Vietnamese-Thai border culture. Sip slowly and enjoy the view.",
+          "17:30 — Farewell sunset on the Mekong promenade (1 hour): Return to your favourite spot on the riverfront promenade for one last sunset over Laos.",
+          "19:00 — Farewell dinner at a riverside restaurant (1.5 hours): A whole grilled Mekong fish (pla pao), sticky rice and cold beers makes an excellent final meal (300–500 THB). Budget for the day: 1,200–2,000 THB including Lao visa costs."
+        ]
       }
     ]
   },
