@@ -161,7 +161,7 @@ export default function PrivacyPolicy() {
                   If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
                 </p>
                 <p className="mb-4">
-                  Email: info@staycoolairco.nl<br />
+                  Email: hello@go2-thailand.com<br />
                   Website: Go2Thailand.com
                 </p>
               </section>

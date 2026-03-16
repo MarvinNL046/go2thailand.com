@@ -129,7 +129,7 @@ export default function TermsOfService() {
                   If you have any questions about these Terms of Service, please contact us at:
                 </p>
                 <p className="mb-4">
-                  Email: info@staycoolairco.nl<br />
+                  Email: hello@go2-thailand.com<br />
                   Website: Go2Thailand.com
                 </p>
               </section>
