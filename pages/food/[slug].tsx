@@ -218,7 +218,11 @@ export default function DishPage({ dish, relatedDishes, citiesForDish }: DishPag
                   <div className="bg-surface-cream rounded-xl p-4">
                     <div className="text-2xl mb-2"></div>
                     <div className="text-sm text-gray-600">Region</div>
-                    <div className="font-semibold capitalize">{dish.region}</div>
+                    <div className="font-semibold capitalize">
+                      <Link href={`/region/${dish.region}/`} className="text-thailand-blue hover:underline">
+                        {dish.region === 'isaan' ? 'Isaan (Northeast)' : `${dish.region.charAt(0).toUpperCase() + dish.region.slice(1)} Thailand`}
+                      </Link>
+                    </div>
                   </div>
                   <div className="bg-surface-cream rounded-xl p-4">
                     <div className="text-2xl mb-2"></div>
@@ -505,6 +509,33 @@ export default function DishPage({ dish, relatedDishes, citiesForDish }: DishPag
         <section className="section-padding">
           <div className="container-custom max-w-4xl mx-auto">
             <FoodAffiliateCTA category={dish.category} dishName={dish.name.en} />
+          </div>
+        </section>
+
+        {/* Regional Cuisine Context */}
+        <section className="bg-surface-cream section-padding">
+          <div className="container-custom max-w-4xl mx-auto text-center">
+            <p className="section-label font-script text-thailand-gold">Regional Cuisine</p>
+            <h2 className="text-2xl font-heading font-bold text-gray-900 mb-4">
+              {dish.name.en} is a {dish.region === 'isaan' ? 'Isaan (Northeast)' : `${dish.region.charAt(0).toUpperCase() + dish.region.slice(1)} Thailand`} Dish
+            </h2>
+            <p className="text-gray-600 mb-6">
+              Discover more dishes and travel experiences from this region.
+            </p>
+            <div className="flex flex-wrap gap-3 justify-center">
+              <Link
+                href={`/region/${dish.region}/`}
+                className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors"
+              >
+                Explore {dish.region === 'isaan' ? 'Isaan' : `${dish.region.charAt(0).toUpperCase() + dish.region.slice(1)} Thailand`}
+              </Link>
+              <Link
+                href="/drinks/"
+                className="inline-flex items-center gap-2 bg-white border border-gray-200 text-gray-800 px-5 py-3 rounded-xl font-semibold hover:bg-gray-50 transition-colors"
+              >
+                Thai Drinks &amp; Beverages
+              </Link>
+            </div>
           </div>
         </section>
 
