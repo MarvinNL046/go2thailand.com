@@ -1,0 +1,113 @@
+{
+  "generatedAt": "2026-03-16T05:00:18.953Z",
+  "period": {
+    "recent": "2026-03-06 to 2026-03-13",
+    "previous": "2026-02-27 to 2026-03-06"
+  },
+  "summary": {
+    "totalClicks": 3,
+    "totalImpressions": 2261,
+    "avgCTR": 0.1,
+    "avgPosition": 52.2,
+    "uniqueQueries": 740,
+    "uniquePages": 161
+  },
+  "cannibalization": [
+    {
+      "query": "korat thailand",
+      "pages": [
+        {
+          "page": "https://go2-thailand.com/city/nakhon-ratchasima/",
+          "clicks": 0,
+          "impressions": 15,
+          "position": 58.266666666666666
+        },
+        {
+          "page": "https://go2-thailand.com/ru/city/nakhon-ratchasima/",
+          "clicks": 0,
+          "impressions": 14,
+          "position": 68.21428571428571
+        }
+      ]
+    },
+    {
+      "query": "ayutthaya",
+      "pages": [
+        {
+          "page": "https://go2-thailand.com/ko/city/ayutthaya/",
+          "clicks": 0,
+          "impressions": 2,
+          "position": 51.5
+        },
+        {
+          "page": "https://go2-thailand.com/city/ayutthaya/",
+          "clicks": 0,
+          "impressions": 22,
+          "position": 77.04545454545455
+        }
+      ]
+    },
+    {
+      "query": "lod chong recipe",
+      "pages": [
+        {
+          "page": "https://go2-thailand.com/nl/food/lod-chong/",
+          "clicks": 0,
+          "impressions": 1,
+          "position": 2
+        },
+        {
+          "page": "https://go2-thailand.com/food/lod-chong/",
+          "clicks": 1,
+          "impressions": 19,
+          "position": 9.368421052631579
+        }
+      ]
+    },
+    {
+      "query": "chiang mai attractions",
+      "pages": [
+        {
+          "page": "https://go2-thailand.com/fr/city/chiang-mai/top-10-attractions/",
+          "clicks": 0,
+          "impressions": 4,
+          "position": 61.5
+        },
+        {
+          "page": "https://go2-thailand.com/city/chiang-mai/top-10-attractions/",
+          "clicks": 0,
+          "impressions": 10,
+          "position": 69
+        }
+      ]
+    },
+    {
+      "query": "koh phangan moon party",
+      "pages": [
+        {
+          "page": "https://go2-thailand.com/nl/blog/full-moon-party-koh-phangan-guide-2026/",
+          "clicks": 0,
+          "impressions": 10,
+          "position": 57.7
+        },
+        {
+          "page": "https://go2-thailand.com/blog/full-moon-party-koh-phangan-guide-2026/",
+          "clicks": 0,
+          "impressions": 1,
+          "position": 70
+        }
+      ]
+    }
+  ],
+  "contentDecay": [],
+  "quickWins": [
+    {
+      "page": "https://go2-thailand.com/food/oh-aew/",
+      "query": "โอ้เอ๋ว",
+      "impressions": 159,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 10.1
+    }
+  ]
+}
