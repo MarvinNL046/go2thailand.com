@@ -76,6 +76,21 @@ const INTERNAL_GUIDES = [
     title: 'Thailand eSIM Guide',
     description: 'Save your policy docs, insurer hotline, and hospital directions on a working phone.',
   },
+  {
+    href: '/thailand-travel-guide/',
+    title: 'Thailand Travel Guide',
+    description: 'Complete planning guide for your Thailand trip — from visas to budgets.',
+  },
+  {
+    href: '/thailand-for-first-timers/',
+    title: 'Thailand for First Timers',
+    description: 'Everything first-time visitors need to know before arriving.',
+  },
+  {
+    href: '/islands/',
+    title: 'Thai Islands Guide',
+    description: 'Island hopping often needs boat insurance add-ons — check your coverage.',
+  },
 ];
 
 function AffiliateButton({

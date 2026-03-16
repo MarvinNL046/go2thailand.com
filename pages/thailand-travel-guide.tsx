@@ -226,6 +226,18 @@ export default function ThailandTravelGuide({ topCities, itineraryCount }: Trave
               </Link>
             </section>
 
+            <div className="bg-white rounded-2xl shadow-md p-6 mb-6">
+              <h2 className="text-xl font-bold font-heading text-gray-900 mb-3">Explore Thailand</h2>
+              <div className="grid grid-cols-2 gap-2">
+                <Link href="/food/" className="p-3 bg-surface-cream rounded-xl hover:shadow-sm transition-all text-sm font-medium text-gray-800">Thai Food Guide</Link>
+                <Link href="/best-cooking-classes-in-thailand/" className="p-3 bg-surface-cream rounded-xl hover:shadow-sm transition-all text-sm font-medium text-gray-800">Cooking Classes</Link>
+                <Link href="/region/" className="p-3 bg-surface-cream rounded-xl hover:shadow-sm transition-all text-sm font-medium text-gray-800">Regions</Link>
+                <Link href="/transport/" className="p-3 bg-surface-cream rounded-xl hover:shadow-sm transition-all text-sm font-medium text-gray-800">Transport Routes</Link>
+                <Link href="/drinks/" className="p-3 bg-surface-cream rounded-xl hover:shadow-sm transition-all text-sm font-medium text-gray-800">Thai Drinks</Link>
+                <Link href="/best-beaches-in-thailand/" className="p-3 bg-surface-cream rounded-xl hover:shadow-sm transition-all text-sm font-medium text-gray-800">Best Beaches</Link>
+              </div>
+            </div>
+
             <div className="bg-white rounded-2xl shadow-md p-6">
               <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">FAQ</h2>
               <div className="space-y-4">

@@ -92,6 +92,46 @@ export default function BestPlacesPage({ cities }: PageProps) {
             ))}
           </div>
         </section>
+        {/* Explore More */}
+        <section className="bg-white py-12">
+          <div className="max-w-6xl mx-auto px-4">
+            <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6 text-center">Plan Your Thailand Trip</h2>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+              <Link href="/thailand-travel-guide/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
+                <div className="font-semibold text-gray-900 text-sm">Travel Guide</div>
+                <div className="text-xs text-gray-600">Everything you need</div>
+              </Link>
+              <Link href="/thailand-itinerary/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
+                <div className="font-semibold text-gray-900 text-sm">Itineraries</div>
+                <div className="text-xs text-gray-600">Ready-made routes</div>
+              </Link>
+              <Link href="/islands/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
+                <div className="font-semibold text-gray-900 text-sm">Thai Islands</div>
+                <div className="text-xs text-gray-600">Beach paradise</div>
+              </Link>
+              <Link href="/food/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
+                <div className="font-semibold text-gray-900 text-sm">Thai Food</div>
+                <div className="text-xs text-gray-600">Cuisine guide</div>
+              </Link>
+              <Link href="/region/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
+                <div className="font-semibold text-gray-900 text-sm">Regions</div>
+                <div className="text-xs text-gray-600">North, South, Central</div>
+              </Link>
+              <Link href="/transport/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
+                <div className="font-semibold text-gray-900 text-sm">Transport</div>
+                <div className="text-xs text-gray-600">Buses, trains, flights</div>
+              </Link>
+              <Link href="/best-cooking-classes-in-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
+                <div className="font-semibold text-gray-900 text-sm">Cooking Classes</div>
+                <div className="text-xs text-gray-600">Learn Thai cooking</div>
+              </Link>
+              <Link href="/is-thailand-safe/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
+                <div className="font-semibold text-gray-900 text-sm">Safety Guide</div>
+                <div className="text-xs text-gray-600">Stay safe in Thailand</div>
+              </Link>
+            </div>
+          </div>
+        </section>
       </div>
     </>
   );

@@ -135,7 +135,7 @@ export default function ThailandForFirstTimers() {
               </div>
             </section>
 
-            <div className="bg-white rounded-2xl shadow-md p-6">
+            <div className="bg-white rounded-2xl shadow-md p-6 mb-6">
               <h2 className="text-xl font-bold font-heading text-gray-900 mb-3">More guides</h2>
               <ul className="space-y-2">
                 <li><Link href="/thailand-travel-guide/" className="text-thailand-blue hover:underline">Complete Thailand Travel Guide</Link></li>
@@ -144,6 +144,18 @@ export default function ThailandForFirstTimers() {
                 <li><Link href="/city/bangkok/" className="text-thailand-blue hover:underline">Bangkok Guide</Link></li>
                 <li><Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">Chiang Mai Guide</Link></li>
                 <li><Link href="/travel-insurance-thailand/" className="text-thailand-blue hover:underline">Travel Insurance for Thailand</Link></li>
+              </ul>
+            </div>
+
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h2 className="text-xl font-bold font-heading text-gray-900 mb-3">Plan your experience</h2>
+              <ul className="space-y-2">
+                <li><Link href="/thailand-itinerary/" className="text-thailand-blue hover:underline">Thailand Itinerary Templates</Link></li>
+                <li><Link href="/islands/" className="text-thailand-blue hover:underline">Thai Islands Guide</Link></li>
+                <li><Link href="/food/" className="text-thailand-blue hover:underline">Thai Food Guide</Link></li>
+                <li><Link href="/best-cooking-classes-in-thailand/" className="text-thailand-blue hover:underline">Cooking Classes</Link></li>
+                <li><Link href="/transport/" className="text-thailand-blue hover:underline">Transport Routes</Link></li>
+                <li><Link href="/best-places-to-visit-thailand/" className="text-thailand-blue hover:underline">Best Places to Visit</Link></li>
               </ul>
             </div>
 

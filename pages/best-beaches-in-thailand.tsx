@@ -823,6 +823,13 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                 </span>
               </Link>
             </div>
+
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3 max-w-3xl mx-auto mt-8">
+              <Link href="/thailand-travel-guide/" className="p-3 bg-surface-cream rounded-xl hover:shadow-sm transition-all text-center text-sm font-medium text-gray-800">Travel Guide</Link>
+              <Link href="/thailand-for-first-timers/" className="p-3 bg-surface-cream rounded-xl hover:shadow-sm transition-all text-center text-sm font-medium text-gray-800">First Timers</Link>
+              <Link href="/food/" className="p-3 bg-surface-cream rounded-xl hover:shadow-sm transition-all text-center text-sm font-medium text-gray-800">Thai Food</Link>
+              <Link href="/transport/" className="p-3 bg-surface-cream rounded-xl hover:shadow-sm transition-all text-center text-sm font-medium text-gray-800">Transport</Link>
+            </div>
           </div>
         </section>
       </div>

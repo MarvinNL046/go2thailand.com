@@ -98,7 +98,7 @@ export default function IsThailandSafePage() {
               ))}
             </div>
 
-            <div className="bg-white rounded-2xl shadow-md p-6">
+            <div className="bg-white rounded-2xl shadow-md p-6 mb-6">
               <h2 className="text-xl font-bold font-heading text-gray-900 mb-3">More Thailand guides</h2>
               <ul className="space-y-2">
                 <li><Link href="/thailand-travel-guide/" className="text-thailand-blue hover:underline">Thailand Travel Guide 2026</Link></li>
@@ -106,6 +106,17 @@ export default function IsThailandSafePage() {
                 <li><Link href="/visa/" className="text-thailand-blue hover:underline">Thailand Visa Guide</Link></li>
                 <li><Link href="/travel-security/" className="text-thailand-blue hover:underline">Travel Security Tips</Link></li>
                 <li><Link href="/travel-insurance-thailand/" className="text-thailand-blue hover:underline">Travel Insurance for Thailand</Link></li>
+              </ul>
+            </div>
+
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h2 className="text-xl font-bold font-heading text-gray-900 mb-3">Explore Destinations</h2>
+              <ul className="space-y-2">
+                <li><Link href="/city/bangkok/" className="text-thailand-blue hover:underline">Bangkok Guide</Link></li>
+                <li><Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">Chiang Mai Guide</Link></li>
+                <li><Link href="/city/phuket/" className="text-thailand-blue hover:underline">Phuket Guide</Link></li>
+                <li><Link href="/islands/" className="text-thailand-blue hover:underline">Thai Islands Guide</Link></li>
+                <li><Link href="/best-places-to-visit-thailand/" className="text-thailand-blue hover:underline">Best Places to Visit</Link></li>
               </ul>
             </div>
           </div>

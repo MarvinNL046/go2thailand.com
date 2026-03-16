@@ -136,13 +136,25 @@ export default function ThailandItineraryPage({ itineraries }: PageProps) {
               </div>
             </section>
 
-            <div className="bg-white rounded-2xl shadow-md p-6">
+            <div className="bg-white rounded-2xl shadow-md p-6 mb-6">
               <h2 className="text-xl font-bold font-heading text-gray-900 mb-3">Plan your trip</h2>
               <ul className="space-y-2">
                 <li><Link href="/thailand-travel-guide/" className="text-thailand-blue hover:underline">Complete Thailand Travel Guide</Link></li>
                 <li><Link href="/best-places-to-visit-thailand/" className="text-thailand-blue hover:underline">Best Places to Visit</Link></li>
                 <li><Link href="/thailand-index/best-time/" className="text-thailand-blue hover:underline">Best Time to Visit</Link></li>
                 <li><Link href="/thailand-index/budget/" className="text-thailand-blue hover:underline">Budget Guide</Link></li>
+              </ul>
+            </div>
+
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h2 className="text-xl font-bold font-heading text-gray-900 mb-3">Add to your itinerary</h2>
+              <ul className="space-y-2">
+                <li><Link href="/islands/" className="text-thailand-blue hover:underline">Thai Islands Guide</Link></li>
+                <li><Link href="/food/" className="text-thailand-blue hover:underline">Thai Food Guide</Link></li>
+                <li><Link href="/best-cooking-classes-in-thailand/" className="text-thailand-blue hover:underline">Cooking Classes</Link></li>
+                <li><Link href="/transport/" className="text-thailand-blue hover:underline">Transport Routes</Link></li>
+                <li><Link href="/region/" className="text-thailand-blue hover:underline">Explore by Region</Link></li>
+                <li><Link href="/travel-insurance-thailand/" className="text-thailand-blue hover:underline">Travel Insurance</Link></li>
               </ul>
             </div>
 
