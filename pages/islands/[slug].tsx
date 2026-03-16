@@ -6,6 +6,8 @@ import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
 import AffiliateWidget from '../../components/AffiliateWidget';
+import AffiliateBox from '../../components/AffiliateBox';
+import { getIslandAffiliates, CityAffiliates } from '../../lib/affiliates';
 import { getAllIslands, getIslandBySlug, getRelatedIslands, generateIslandBreadcrumbs } from '../../lib/islands';
 import { getComparisonsForItem, getComparisonPair } from '../../lib/comparisons';
 
@@ -90,6 +92,7 @@ interface IslandPageProps {
   island: Island;
   relatedIslands: RelatedIsland[];
   comparisons: ComparisonLink[];
+  affiliates: CityAffiliates | null;
 }
 
 const getTransportIcon = (method: string) => {
@@ -102,7 +105,7 @@ const getTransportIcon = (method: string) => {
   return '';
 };
 
-export default function IslandPage({ island, relatedIslands, comparisons }: IslandPageProps) {
+export default function IslandPage({ island, relatedIslands, comparisons, affiliates }: IslandPageProps) {
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
   const breadcrumbs = generateIslandBreadcrumbs(island);
@@ -388,24 +391,19 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
                     </div>
                   ))}
                 </div>
-                <div className="mt-4 flex flex-wrap gap-3">
-                  <a
-                    href="https://booking.tpo.lv/2PT1kR82"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-block bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red transition-colors"
-                  >
-                    Booking.com →
-                  </a>
+                <div className="mt-4 space-y-3">
+                  {affiliates && (
+                    <AffiliateBox affiliates={affiliates} cityName={island.name.en} type="hotels" />
+                  )}
                   <a
                     href="https://trip.tpo.lv/TmObooZ5"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer sponsored"
                     className="inline-block bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue transition-colors"
                   >
                     Trip.com →
                   </a>
-                  <p className="w-full text-gray-500 text-xs mt-1">Affiliate links - we may earn a commission at no extra cost to you</p>
+                  <p className="text-gray-500 text-xs mt-1">Affiliate links - we may earn a commission at no extra cost to you</p>
                 </div>
               </section>
               {/* FAQ Section */}
@@ -533,29 +531,9 @@ export default function IslandPage({ island, relatedIslands, comparisons }: Isla
               />
 
               {/* Activities & Tours */}
-              <div className="bg-white rounded-2xl shadow-md p-6">
-                <h3 className="text-xl font-heading font-bold mb-4">Tours & Activities</h3>
-                <p className="text-sm text-gray-600 mb-4">Book the best activities on {island.name.en}</p>
-                <div className="space-y-3">
-                  <a
-                    href="https://klook.tpo.lv/7Dt6WApj"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
-                  >
-                    Klook Activities
-                  </a>
-                  <a
-                    href="https://getyourguide.tpo.lv/GuAFfGGK"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
-                  >
-                    GetYourGuide Tours
-                  </a>
-                </div>
-                <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
-              </div>
+              {affiliates && (
+                <AffiliateBox affiliates={affiliates} cityName={island.name.en} type="activities" />
+              )}
 
               {/* Quick Links */}
               <div className="bg-surface-dark text-white rounded-2xl p-6">
@@ -650,6 +628,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   }
 
   const relatedIslands = getRelatedIslands(island, 3);
+  const affiliates = getIslandAffiliates(params.slug as string);
 
   const comparisonSlugs = getComparisonsForItem(slug, 'island');
   const comparisons = comparisonSlugs.map((s: string) => {
@@ -665,7 +644,8 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     props: {
       island,
       relatedIslands,
-      comparisons
+      comparisons,
+      affiliates
     },
     revalidate: 86400
   };
