@@ -7,6 +7,8 @@ import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
+import AffiliateBox from '../../../components/AffiliateBox';
+import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface MuayThaiActivity {
   name: string;
@@ -62,6 +64,7 @@ interface City {
 interface Props {
   city: City;
   muayThaiData: CityData;
+  affiliates: CityAffiliates | null;
 }
 
 const GYG_AFFILIATE = 'https://getyourguide.tpo.lv/6HngJ5FC';
@@ -96,7 +99,7 @@ function TypeBadge({ type }: { type: string }) {
   return <span className={`text-xs font-semibold px-2 py-1 rounded ${color}`}>{label}</span>;
 }
 
-export default function MuayThaiPage({ city, muayThaiData }: Props) {
+export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) {
   const { locale } = useRouter();
   const loc = locale || 'en';
   if (!city || !muayThaiData) return <div>Not found</div>;
@@ -255,7 +258,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                             <a
                               href={GYG_AFFILIATE}
                               target="_blank"
-                              rel="noopener noreferrer"
+                              rel="noopener noreferrer sponsored"
                               className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
                             >
                               View on GetYourGuide
@@ -323,7 +326,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                             <a
                               href={GYG_AFFILIATE}
                               target="_blank"
-                              rel="noopener noreferrer"
+                              rel="noopener noreferrer sponsored"
                               className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
                             >
                               View on GetYourGuide
@@ -388,7 +391,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                             <a
                               href={GYG_AFFILIATE}
                               target="_blank"
-                              rel="noopener noreferrer"
+                              rel="noopener noreferrer sponsored"
                               className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
                             >
                               View on GetYourGuide
@@ -488,35 +491,11 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
             </div>
 
             {/* Book Section */}
-            <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
-              <h2 className="text-3xl font-bold font-heading mb-4">
-                Book Your Muay Thai Experience in {city.name.en}
-              </h2>
-              <p className="text-lg mb-6 opacity-90">
-                Compare prices and find the perfect Muay Thai experience on these trusted platforms.
-              </p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <a
-                  href={GYG_AFFILIATE}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-red font-semibold rounded-xl hover:bg-gray-100 transition-colors"
-                >
-                  Browse on GetYourGuide
-                </a>
-                <a
-                  href={KLOOK_AFFILIATE}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40"
-                >
-                  Browse on Klook
-                </a>
+            {affiliates && (
+              <div className="mb-12">
+                <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="activities" />
               </div>
-              <p className="text-xs text-white/70 mt-4">
-                We may earn a commission when you book through our links, at no extra cost to you.
-              </p>
-            </div>
+            )}
 
             {/* FAQ */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
@@ -591,5 +570,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const muayThaiData = getMuayThaiByCity(slug);
   if (!muayThaiData) return { notFound: true };
 
-  return { props: { city, muayThaiData }, revalidate: 86400 };
+  const affiliates = getAffiliates(slug);
+
+  return { props: { city, muayThaiData, affiliates }, revalidate: 86400 };
 };
