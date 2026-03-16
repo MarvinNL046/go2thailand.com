@@ -5,6 +5,7 @@ import path from 'path';
 import { getEnhancedDishBySlug, getDishStaticPaths, generateDishMetadata, getRelatedDishes, generateFoodBreadcrumbs } from '../../lib/food';
 import SEOHead from '../../components/SEOHead';
 import FoodCityLinks from '../../components/FoodCityLinks';
+import FoodAffiliateCTA from '../../components/FoodAffiliateCTA';
 
 interface EnhancedDish {
   id: number;
@@ -305,21 +306,6 @@ export default function DishPage({ dish, relatedDishes, citiesForDish }: DishPag
                         </div>
                       )}
                     </div>
-                    {/* Inline Cooking Class CTA */}
-                    <div className="mt-6 p-4 bg-green-50 rounded-xl border border-green-200">
-                      <p className="text-gray-700 text-sm">
-                        Want to learn from a Thai chef?{' '}
-                        <a
-                          href="https://klook.tpo.lv/aq6ZFxvc"
-                          target="_blank"
-                          rel="noopener noreferrer sponsored"
-                          className="text-green-700 font-semibold hover:underline"
-                        >
-                          Book a cooking class on Klook
-                        </a>
-                        {' '}and master {dish.name.en} hands-on.
-                      </p>
-                    </div>
                   </div>
                 )}
 
@@ -445,20 +431,6 @@ export default function DishPage({ dish, relatedDishes, citiesForDish }: DishPag
                         </div>
                       </div>
                     </div>
-                    {/* Inline Food Tour CTA */}
-                    <div className="mt-4 p-3 bg-orange-50 rounded-xl border border-orange-200">
-                      <p className="text-gray-700 text-sm">
-                        <a
-                          href="https://getyourguide.tpo.lv/GuAFfGGK"
-                          target="_blank"
-                          rel="noopener noreferrer sponsored"
-                          className="text-orange-700 font-semibold hover:underline"
-                        >
-                          Join a food tour
-                        </a>
-                        {' '}to discover the best {dish.name.en} spots with a local guide.
-                      </p>
-                    </div>
                   </div>
                 )}
 
@@ -530,53 +502,9 @@ export default function DishPage({ dish, relatedDishes, citiesForDish }: DishPag
           </section>
         )}
 
-        {/* Affiliate: Book a Thai Cooking Class */}
-        <section className="bg-white section-padding">
-          <div className="container-custom">
-            <div className="text-center mb-10">
-              <p className="section-label font-script text-thailand-gold">Experience</p>
-              <h2 className="text-3xl lg:text-4xl font-heading font-bold text-gray-900 mb-4">
-                Book a Thai Cooking Class
-              </h2>
-              <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                Learn to cook authentic Thai dishes with expert local chefs — from street food favorites to royal Thai cuisine
-              </p>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-              <div className="bg-white rounded-2xl shadow-md p-8 text-center">
-                <div className="text-5xl mb-4"></div>
-                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Cooking Classes &amp; Food Tours</h3>
-                <p className="text-gray-600 mb-6">
-                  Cooking classes and food tours across Thailand
-                </p>
-                <a
-                  href="https://klook.tpo.lv/aq6ZFxvc"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-block bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-blue transition-colors"
-                >
-                  Browse on Klook
-                </a>
-              </div>
-              <div className="bg-white rounded-2xl shadow-md p-8 text-center">
-                <div className="text-5xl mb-4"></div>
-                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Food Walking Tours</h3>
-                <p className="text-gray-600 mb-6">
-                  Guided food walking tours
-                </p>
-                <a
-                  href="https://getyourguide.tpo.lv/GuAFfGGK"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-block bg-thailand-blue text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-red transition-colors"
-                >
-                  Browse on GetYourGuide
-                </a>
-              </div>
-            </div>
-            <p className="text-center text-xs text-gray-400 mt-6">
-              We may earn a commission when you book through our links, at no extra cost to you. This helps us keep Go2Thailand running.
-            </p>
+        <section className="section-padding">
+          <div className="container-custom max-w-4xl mx-auto">
+            <FoodAffiliateCTA category={dish.category} dishName={dish.name.en} />
           </div>
         </section>
 
