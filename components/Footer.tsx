@@ -188,12 +188,30 @@ const Footer = () => {
               <p className="text-gray-500 text-sm">
                 © {currentYear} Go2Thailand.com. {t('footer.rights')}.
               </p>
-              <div className="flex items-center gap-6 text-sm">
+              <div className="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm">
+                <Link href="/about" className="text-gray-500 hover:text-white transition-colors">
+                  About Us
+                </Link>
+                <Link href="/contact" className="text-gray-500 hover:text-white transition-colors">
+                  Contact
+                </Link>
+                <Link href="/editorial-policy" className="text-gray-500 hover:text-white transition-colors">
+                  Editorial Policy
+                </Link>
+                <Link href="/affiliate-disclosure" className="text-gray-500 hover:text-white transition-colors">
+                  Affiliate Disclosure
+                </Link>
                 <Link href="/privacy" className="text-gray-500 hover:text-white transition-colors">
                   {t('footer.privacy')}
                 </Link>
                 <Link href="/terms" className="text-gray-500 hover:text-white transition-colors">
                   {t('footer.terms')}
+                </Link>
+                <Link href="/cookie-policy" className="text-gray-500 hover:text-white transition-colors">
+                  Cookie Policy
+                </Link>
+                <Link href="/sitemap" className="text-gray-500 hover:text-white transition-colors">
+                  Sitemap
                 </Link>
               </div>
             </div>
