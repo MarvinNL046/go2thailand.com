@@ -88,7 +88,7 @@ git commit -m "feat: add island/region affiliate mappings to lib/affiliates.ts"
 **Files:**
 - Modify: `pages/region/[slug].tsx`
 
-**Context:** The region page currently has a "Plan Your Trip" section (lines ~830-895) with 3 cards: Hotels (hard-coded Booking.com + Trip.com links), Transport (hard-coded 12Go), Activities (links to /activities/). We replace the Hotels card with AffiliateBox for the top 2 featured cities, and the Activities card with AffiliateBox type="activities". Keep the Transport card with 12Go as-is (AffiliateBox doesn't cover 12Go).
+**Context:** The region page currently has a "Plan Your Trip" section (lines ~830-895) with 3 cards: Hotels (hard-coded Booking.com + Trip.com links), Transport (hard-coded 12Go), Activities (internal link to /activities/). We replace the Hotels card with AffiliateBox for the top 2 featured cities. Keep the Transport card with 12Go as-is. Keep the Activities card as-is (it's an internal link, not an affiliate link) but ADD an AffiliateBox below the grid.
 
 - [ ] **Step 1: Add imports at top of file**
 
@@ -109,35 +109,44 @@ featuredCityAffiliates: Array<{ cityName: string; citySlug: string; affiliates: 
 
 In the component destructuring (line ~136), add `featuredCityAffiliates` to the props.
 
-- [ ] **Step 3: Replace the "Plan Your Trip" section (lines ~830-895)**
+- [ ] **Step 3: Replace Hotels card only, keep Transport + Activities cards, add AffiliateBox below grid**
 
-Replace the entire Hotels card (the `<div>` from line ~844 to line ~860) with:
+Replace the Hotels card (the `<div>` from line ~844 to line ~860 — the one with `Hotels & Accommodation` heading and Booking.com/Trip.com links) with:
 
 ```tsx
 {/* Hotels - AffiliateBox per featured city */}
-<div className={`col-span-1 md:col-span-2 space-y-4 scroll-fade-up ${planAnim.isVisible ? 'is-visible' : ''}`}>
+<div className={`bg-white rounded-2xl shadow-sm p-6 text-center hover:shadow-lg transition-shadow scroll-fade-up ${planAnim.isVisible ? 'is-visible' : ''}`}>
+  <div className="w-14 h-14 bg-blue-500 rounded-xl flex items-center justify-center mx-auto mb-4">
+    <svg className="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+    </svg>
+  </div>
+  <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">Hotels & Accommodation</h3>
+  <p className="text-gray-600 text-sm mb-4">Find the best hotels in {region.name.en}.</p>
   {featuredCityAffiliates.map(({ cityName, affiliates }) => (
     <AffiliateBox key={cityName} affiliates={affiliates} cityName={cityName} type="hotels" />
   ))}
 </div>
 ```
 
-Replace the Activities card (lines ~877-888) with:
+Keep the Transport card (lines ~862-874) with the 12Go link **as-is**.
+Keep the Activities card (lines ~877-888) with the internal `/activities/` link **as-is** (it's not an affiliate link).
+
+After the closing `</div>` of the 3-column grid (line ~889), and before the affiliate disclosure, add:
 
 ```tsx
-{/* Activities - AffiliateBox for first featured city */}
-<div className={`scroll-fade-up ${planAnim.isVisible ? 'is-visible' : ''}`}>
-  {featuredCityAffiliates[0] && (
+{/* Tours AffiliateBox */}
+{featuredCityAffiliates[0] && (
+  <div className="mt-6">
     <AffiliateBox
       affiliates={featuredCityAffiliates[0].affiliates}
       cityName={featuredCityAffiliates[0].cityName}
       type="activities"
     />
-  )}
-</div>
+  </div>
+)}
 ```
 
-Keep the Transport card (lines ~862-874) with the 12Go link as-is.
 Keep the affiliate disclosure text (line ~891-893) as-is.
 
 - [ ] **Step 4: Add affiliates to getStaticProps**
@@ -152,7 +161,7 @@ const featuredCityAffiliates = featuredSlugs
     const city = cities.find((c: any) => c.slug === slug);
     return aff && city ? { cityName: city.name.en, citySlug: slug, affiliates: aff } : null;
   })
-  .filter(Boolean);
+  .filter((x): x is { cityName: string; citySlug: string; affiliates: CityAffiliates } => x !== null);
 ```
 
 Add `featuredCityAffiliates` to the returned props object.
@@ -176,44 +185,58 @@ git commit -m "feat(region): replace hard-coded affiliate links with AffiliateBo
 **Files:**
 - Modify: `pages/region/[slug].tsx`
 
-**Context:** Region pages show city cards via `CityCard` component. We want to add small links below each card pointing to cluster subpages (hotels, things-to-do, top-10). We need to check which cluster data exists for each city.
+**Context:** Region pages show city cards via `CityCard` component. We want to add small links below each card pointing to top-10 subpages. We check which top-10 JSON files actually exist in `data/top10/` for each city.
 
 - [ ] **Step 1: Find the cities grid section in the region page**
 
-Look for the section that renders city cards (search for `CityCard` usage). Add a helper to check if cluster data exists for a city.
+Look for the section that renders city cards (search for `CityCard` usage). Add a helper to check which top-10 data files exist.
 
-In `getStaticProps`, for each city in the region, check if cluster data exists:
+In `getStaticProps`, for each city in the region, check top-10 data existence:
 
 ```typescript
 import fs from 'fs';
 import pathModule from 'path';
 
 // Inside getStaticProps, after getting cities:
-const citiesWithClusterInfo = cities.map((city: any) => {
-  const clusterDir = pathModule.join(process.cwd(), 'data', 'clusters', city.slug);
-  const hasCluster = fs.existsSync(clusterDir);
-  return { ...city, hasCluster };
-});
+const top10Dir = pathModule.join(process.cwd(), 'data', 'top10');
+const citiesWithTop10Info = cities.map((city: any) => ({
+  ...city,
+  hasTop10Hotels: fs.existsSync(pathModule.join(top10Dir, `${city.slug}-hotels.json`)),
+  hasTop10Restaurants: fs.existsSync(pathModule.join(top10Dir, `${city.slug}-restaurants.json`)),
+  hasTop10Attractions: fs.existsSync(pathModule.join(top10Dir, `${city.slug}-attractions.json`)),
+}));
 ```
 
-Replace `cities` with `citiesWithClusterInfo` in the returned props.
+Replace `cities` with `citiesWithTop10Info` in the returned props.
 
 - [ ] **Step 2: Update the City interface**
 
-Add `hasCluster?: boolean` to the `City` interface in the region page.
+Add to the `City` interface in the region page:
 
-- [ ] **Step 3: Add cluster links below each city card**
+```typescript
+hasTop10Hotels?: boolean;
+hasTop10Restaurants?: boolean;
+hasTop10Attractions?: boolean;
+```
+
+- [ ] **Step 3: Add top-10 links below each city card**
 
 After each `<CityCard>` component in the cities grid, add:
 
 ```tsx
-{city.hasCluster && (
+{(city.hasTop10Hotels || city.hasTop10Restaurants || city.hasTop10Attractions) && (
   <div className="flex flex-wrap gap-2 mt-2 px-1">
-    <Link href={`/city/${city.slug}/top-10-hotels/`} className="text-xs text-thailand-blue hover:underline">Hotels</Link>
-    <span className="text-gray-300">·</span>
-    <Link href={`/city/${city.slug}/top-10-restaurants/`} className="text-xs text-thailand-blue hover:underline">Restaurants</Link>
-    <span className="text-gray-300">·</span>
-    <Link href={`/city/${city.slug}/top-10-attractions/`} className="text-xs text-thailand-blue hover:underline">Attractions</Link>
+    {city.hasTop10Hotels && (
+      <Link href={`/city/${city.slug}/top-10-hotels/`} className="text-xs text-thailand-blue hover:underline">Hotels</Link>
+    )}
+    {city.hasTop10Hotels && city.hasTop10Restaurants && <span className="text-gray-300">·</span>}
+    {city.hasTop10Restaurants && (
+      <Link href={`/city/${city.slug}/top-10-restaurants/`} className="text-xs text-thailand-blue hover:underline">Restaurants</Link>
+    )}
+    {(city.hasTop10Hotels || city.hasTop10Restaurants) && city.hasTop10Attractions && <span className="text-gray-300">·</span>}
+    {city.hasTop10Attractions && (
+      <Link href={`/city/${city.slug}/top-10-attractions/`} className="text-xs text-thailand-blue hover:underline">Attractions</Link>
+    )}
   </div>
 )}
 ```
@@ -334,16 +357,20 @@ const affiliates = getAffiliates(params.slug as string);
 
 Add `affiliates` to the returned props object.
 
-- [ ] **Step 5: Verify build**
+- [ ] **Step 5: Add `sponsored` to kept per-item GYG links**
+
+The per-item "View on GetYourGuide" buttons on activity cards (lines ~256, 324, 389) use `rel="noopener noreferrer"` but should include `sponsored` for SEO compliance. Find all per-item GYG links and change their `rel` attribute to `rel="noopener noreferrer sponsored"`.
+
+- [ ] **Step 6: Verify build**
 
 Run: `npx next build 2>&1 | tail -20`
 Expected: Build succeeds
 
-- [ ] **Step 6: Commit**
+- [ ] **Step 7: Commit**
 
 ```bash
 git add pages/city/[slug]/muay-thai.tsx
-git commit -m "feat(muay-thai): replace hard-coded bottom CTA with AffiliateBox"
+git commit -m "feat(muay-thai): replace hard-coded bottom CTA with AffiliateBox, add rel=sponsored to per-item links"
 ```
 
 ---
@@ -449,25 +476,11 @@ import FoodAffiliateCTA from '../../components/FoodAffiliateCTA';
 
 - [ ] **Step 2: Remove inline cooking class CTA (lines 308-322)**
 
-Delete the entire `{/* Inline Cooking Class CTA */}` block:
-
-```tsx
-{/* Inline Cooking Class CTA */}
-<div className="mt-6 p-4 bg-green-50 rounded-xl border border-green-200">
-  ...
-</div>
-```
+Delete ONLY the inner CTA div — NOT the parent `{dish.cooking_method && (...)}` wrapper. Remove the `{/* Inline Cooking Class CTA */}` comment and the `<div className="mt-6 p-4 bg-green-50 ...">` block (from comment line to closing `</div>`). The cooking method section's other content (steps, tips) should remain.
 
 - [ ] **Step 3: Remove inline food tour CTA (lines 448-461)**
 
-Delete the entire `{/* Inline Food Tour CTA */}` block:
-
-```tsx
-{/* Inline Food Tour CTA */}
-<div className="mt-4 p-3 bg-orange-50 rounded-xl border border-orange-200">
-  ...
-</div>
-```
+Delete ONLY the inner CTA div — NOT the parent `{dish.where_to_find && (...)}` wrapper. Remove the `{/* Inline Food Tour CTA */}` comment and the `<div className="mt-4 p-3 bg-orange-50 ...">` block. The where_to_find section's other content (price ranges, regions) should remain.
 
 - [ ] **Step 4: Replace the bottom "Book a Thai Cooking Class" section (lines 533-581)**
 
@@ -526,14 +539,23 @@ Add `affiliates` to the component function's destructured props.
 
 - [ ] **Step 3: Replace "Where to Stay" affiliate links (lines 391-409)**
 
-Find the `<div className="mt-4 flex flex-wrap gap-3">` after the accommodation areas grid. Replace the Booking.com + Trip.com links and the disclosure paragraph with:
+Find the `<div className="mt-4 flex flex-wrap gap-3">` after the accommodation areas grid. Replace the Booking.com link with AffiliateBox but **keep** the Trip.com link (AffiliateBox `type="hotels"` only renders Booking.com). Use `island.name.en` for the heading (not locale-specific, since AffiliateBox headings are always English):
 
 ```tsx
-{affiliates && (
-  <div className="mt-4">
-    <AffiliateBox affiliates={affiliates} cityName={island.name[lang] || island.name.en} type="hotels" />
-  </div>
-)}
+<div className="mt-4 space-y-3">
+  {affiliates && (
+    <AffiliateBox affiliates={affiliates} cityName={island.name.en} type="hotels" />
+  )}
+  <a
+    href="https://trip.tpo.lv/TmObooZ5"
+    target="_blank"
+    rel="noopener noreferrer sponsored"
+    className="inline-block bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue transition-colors"
+  >
+    Trip.com →
+  </a>
+  <p className="text-gray-500 text-xs mt-1">Affiliate links - we may earn a commission at no extra cost to you</p>
+</div>
 ```
 
 - [ ] **Step 4: Replace "Tours & Activities" sidebar (lines 536-558)**
@@ -542,7 +564,7 @@ Find the `<div className="bg-white rounded-2xl shadow-md p-6">` with heading "To
 
 ```tsx
 {affiliates && (
-  <AffiliateBox affiliates={affiliates} cityName={island.name[lang] || island.name.en} type="activities" />
+  <AffiliateBox affiliates={affiliates} cityName={island.name.en} type="activities" />
 )}
 ```
 
@@ -581,18 +603,25 @@ git commit -m "feat(islands): replace hard-coded hotel/activity CTAs with Affili
 
 - [ ] **Step 1: In getStaticProps, find matching transport routes**
 
+The transport routes JSON has structure `{ routes: [...] }` where each route has `from` and `to` as **slugs** (e.g., `"koh-samui"`, not display names). The island slug from `params.slug` can be matched directly.
+
 ```typescript
 import fs from 'fs';
 import pathModule from 'path';
 
 // Inside getStaticProps:
 const transportRoutesPath = pathModule.join(process.cwd(), 'data', 'transport-routes.json');
-const allRoutes = JSON.parse(fs.readFileSync(transportRoutesPath, 'utf-8'));
-const islandName = island.name.en.toLowerCase();
-const relevantRoutes = allRoutes
-  .filter((r: any) => r.to?.toLowerCase().includes(islandName) || r.from?.toLowerCase().includes(islandName))
+const transportData = JSON.parse(fs.readFileSync(transportRoutesPath, 'utf-8'));
+const slug = params.slug as string;
+const relevantRoutes = (transportData.routes || [])
+  .filter((r: any) => r.to === slug || r.from === slug)
   .slice(0, 3)
-  .map((r: any) => ({ slug: r.slug, from: r.from, to: r.to }));
+  .map((r: any) => ({
+    slug: r.slug,
+    // Convert slugs to display names: "koh-samui" → "Koh Samui"
+    from: r.from.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
+    to: r.to.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
+  }));
 ```
 
 Add `relevantRoutes` to props.
@@ -660,21 +689,33 @@ After the main overview/highlights section and before the ClusterNav or footer s
       href={`/city/${city.slug}/top-10-restaurants/`}
       className="flex items-center gap-3 p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all"
     >
-      <span className="text-2xl">🍜</span>
+      <div className="w-8 h-8 bg-thailand-red rounded-lg flex items-center justify-center flex-shrink-0">
+        <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+        </svg>
+      </div>
       <span className="font-medium text-gray-800 text-sm">Top 10 Restaurants</span>
     </Link>
     <Link
       href={`/city/${city.slug}/top-10-hotels/`}
       className="flex items-center gap-3 p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all"
     >
-      <span className="text-2xl">🏨</span>
+      <div className="w-8 h-8 bg-thailand-blue rounded-lg flex items-center justify-center flex-shrink-0">
+        <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+        </svg>
+      </div>
       <span className="font-medium text-gray-800 text-sm">Top 10 Hotels</span>
     </Link>
     <Link
       href={`/city/${city.slug}/top-10-attractions/`}
       className="flex items-center gap-3 p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all"
     >
-      <span className="text-2xl">⭐</span>
+      <div className="w-8 h-8 bg-thailand-gold rounded-lg flex items-center justify-center flex-shrink-0">
+        <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
+        </svg>
+      </div>
       <span className="font-medium text-gray-800 text-sm">Top 10 Attractions</span>
     </Link>
   </div>
