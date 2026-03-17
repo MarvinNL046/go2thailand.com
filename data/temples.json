@@ -55,12 +55,22 @@
       "name": "Wat Saket (Golden Mount)",
       "city": "Bangkok",
       "city_slug": "bangkok",
-      "entry_fee": "50 THB",
-      "opening_hours": "9am–7pm",
-      "description": "Built on an 80-metre artificial hill, Wat Saket requires a climb of 300 steps to reach the golden chedi at the top. The reward is a full 360-degree panoramic view across Bangkok's skyline.",
-      "key_facts": ["80m artificial hill", "300 steps to the top", "360° city views"],
+      "entry_fee": "100 THB",
+      "opening_hours": "9:00am–7:00pm daily",
+      "description": "Built on an 80-metre artificial hill, Wat Saket requires a climb of 300 steps through a shaded, winding pathway to reach the golden chedi at the top. The reward is a full 360-degree panoramic view across Bangkok's skyline — one of the best viewpoints in the old city. The temple grounds at the base are free to enter and worth exploring for their quiet atmosphere away from the tourist crowds.",
+      "key_facts": ["80m artificial hill with 300-step climb", "360° panoramic views of Bangkok", "Temple grounds free — 100 THB for the golden chedi only", "Near Giant Swing and Loha Prasat (Metal Castle)", "Annual temple fair in November during Loy Krathong"],
       "type": "Buddhist temple",
-      "google_maps_query": "Wat Saket Golden Mount Bangkok Thailand"
+      "google_maps_query": "Wat Saket Golden Mount Bangkok Thailand",
+      "enriched": true,
+      "address": "344 Thanon Chakkraphatdi Phong, Ban Bat, Pom Prap Sattru Phai, Bangkok 10100",
+      "dress_code": "Cover knees and shoulders. Men need long pants and sleeved shirts. Women need skirts or pants to the knee and covered shoulders. Shawls available at entrance for 50 THB rental. Shoes removed before entering sacred areas — signs indicate where.",
+      "getting_there": "Nearest MRT is Sam Yot Station (Blue Line), about 15 minutes' walk via Maha Chai Road. Canal boat on Khlong Saen Saep to Phan Fa Lilat Pier drops you at the base. Taxi or Grab from central Bangkok is easiest — most drivers know 'Golden Mount' well.",
+      "visitor_tips": [
+        "Visit between 8–10am or after 4pm — the 300-step climb is uncomfortable in midday heat",
+        "The temple grounds at the base are free and peaceful — don't skip them for the chedi alone",
+        "Combine with nearby Loha Prasat (Metal Castle), Giant Swing, and Wat Suthat — all walkable"
+      ],
+      "nearby_temples": ["wat-pho", "wat-arun", "wat-phra-kaew"]
     },
     {
       "rank": 4,
