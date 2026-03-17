@@ -1,0 +1,13 @@
+{
+  "current_cluster": "temples",
+  "current_step": "enrichment",
+  "completed_pages": ["temples-infrastructure"],
+  "clusters": {
+    "temples": { "status": "in_progress", "pages_created": 0, "infrastructure_done": true },
+    "nomad-cities": { "status": "pending", "pages_created": 0 },
+    "safety": { "status": "pending", "pages_created": 0 },
+    "beaches": { "status": "pending", "pages_created": 0 },
+    "festivals": { "status": "pending", "pages_created": 0 },
+    "markets": { "status": "pending", "pages_created": 0 }
+  }
+}

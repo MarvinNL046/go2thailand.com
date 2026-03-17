@@ -5,6 +5,7 @@
   "items": [
     {
       "rank": 1,
+      "slug": "wat-pho",
       "name": "Wat Pho (Temple of the Reclining Buddha)",
       "city": "Bangkok",
       "city_slug": "bangkok",
@@ -17,6 +18,7 @@
     },
     {
       "rank": 2,
+      "slug": "wat-arun",
       "name": "Wat Arun (Temple of Dawn)",
       "city": "Bangkok",
       "city_slug": "bangkok",
@@ -29,6 +31,7 @@
     },
     {
       "rank": 3,
+      "slug": "wat-saket",
       "name": "Wat Saket (Golden Mount)",
       "city": "Bangkok",
       "city_slug": "bangkok",
@@ -41,6 +44,7 @@
     },
     {
       "rank": 4,
+      "slug": "wat-phra-kaew",
       "name": "Wat Phra Kaew (Temple of the Emerald Buddha)",
       "city": "Bangkok",
       "city_slug": "bangkok",
@@ -53,6 +57,7 @@
     },
     {
       "rank": 5,
+      "slug": "wat-phra-that-doi-suthep",
       "name": "Wat Phra That Doi Suthep",
       "city": "Chiang Mai",
       "city_slug": "chiang-mai",
@@ -65,6 +70,7 @@
     },
     {
       "rank": 6,
+      "slug": "wat-chedi-luang",
       "name": "Wat Chedi Luang",
       "city": "Chiang Mai",
       "city_slug": "chiang-mai",
@@ -77,6 +83,7 @@
     },
     {
       "rank": 7,
+      "slug": "wat-suan-dok",
       "name": "Wat Suan Dok",
       "city": "Chiang Mai",
       "city_slug": "chiang-mai",
@@ -89,6 +96,7 @@
     },
     {
       "rank": 8,
+      "slug": "wat-u-mong",
       "name": "Wat U Mong",
       "city": "Chiang Mai",
       "city_slug": "chiang-mai",
@@ -101,6 +109,7 @@
     },
     {
       "rank": 9,
+      "slug": "wat-rong-khun",
       "name": "Wat Rong Khun (White Temple)",
       "city": "Chiang Rai",
       "city_slug": "chiang-rai",
@@ -113,6 +122,7 @@
     },
     {
       "rank": 10,
+      "slug": "wat-rong-seur-ten",
       "name": "Wat Rong Seur Ten (Blue Temple)",
       "city": "Chiang Rai",
       "city_slug": "chiang-rai",
@@ -125,6 +135,7 @@
     },
     {
       "rank": 11,
+      "slug": "wat-phra-sri-sanphet",
       "name": "Wat Phra Sri Sanphet",
       "city": "Ayutthaya",
       "city_slug": "ayutthaya",
@@ -137,6 +148,7 @@
     },
     {
       "rank": 12,
+      "slug": "tiger-cave-temple",
       "name": "Tiger Cave Temple (Wat Tham Suea)",
       "city": "Krabi",
       "city_slug": "krabi",
@@ -149,6 +161,7 @@
     },
     {
       "rank": 13,
+      "slug": "big-buddha-phuket",
       "name": "Big Buddha (Wat Phra Yai)",
       "city": "Phuket",
       "city_slug": "phuket",
@@ -161,6 +174,7 @@
     },
     {
       "rank": 14,
+      "slug": "phanom-rung",
       "name": "Phanom Rung Historical Park",
       "city": "Buriram",
       "city_slug": "buriram",
@@ -173,6 +187,7 @@
     },
     {
       "rank": 15,
+      "slug": "sanctuary-of-truth",
       "name": "Sanctuary of Truth",
       "city": "Pattaya",
       "city_slug": "pattaya",
@@ -185,6 +200,7 @@
     },
     {
       "rank": 16,
+      "slug": "wat-phra-that-mae-yen",
       "name": "Wat Phra That Mae Yen",
       "city": "Pai",
       "city_slug": "pai",
