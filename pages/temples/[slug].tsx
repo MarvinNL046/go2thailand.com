@@ -38,6 +38,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
     description: temple.description,
     address: {
       '@type': 'PostalAddress',
+      ...(temple.address && { streetAddress: temple.address }),
       addressLocality: temple.city,
       addressCountry: 'TH',
     },
@@ -210,14 +211,18 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                 <div className="bg-white rounded-2xl shadow-md p-8">
                   <p className="section-label">Getting There</p>
                   <h2 className="section-title font-heading mb-4">How to Reach {temple.name}</h2>
+                  {temple.getting_there && (
+                    <p className="text-gray-700 leading-relaxed mb-4">
+                      {temple.getting_there}
+                    </p>
+                  )}
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    {temple.name} is located in {temple.city}. For full transport options including
+                    For full transport options including
                     buses, tuk-tuks, taxis, and Grab, visit our{' '}
                     <Link href={`/city/${temple.city_slug}/`} className="text-thailand-blue hover:underline font-medium">
                       {temple.city} city guide
                     </Link>
-                    . We cover all major routes and local transport tips to make your journey as smooth
-                    as possible.
+                    .
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-5">
                     Planning to travel between cities? Check our{' '}
@@ -244,6 +249,19 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                 <div className="bg-white rounded-2xl shadow-md p-8">
                   <p className="section-label">Etiquette &amp; Advice</p>
                   <h2 className="section-title font-heading mb-6">Visitor Tips for {temple.name}</h2>
+                  {temple.visitor_tips && temple.visitor_tips.length > 0 && (
+                    <div className="mb-6 bg-thailand-gold/10 rounded-xl p-5">
+                      <h3 className="font-bold font-heading text-gray-900 mb-3 text-sm uppercase tracking-wide">Tips Specific to {temple.name}</h3>
+                      <ul className="space-y-2">
+                        {temple.visitor_tips.map((tip, i) => (
+                          <li key={i} className="flex items-start gap-2 text-gray-700 text-sm leading-relaxed">
+                            <span className="text-thailand-gold mt-0.5 flex-shrink-0">&#10003;</span>
+                            {tip}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
                   <div className="grid sm:grid-cols-2 gap-4">
                     {visitorTips.map((tip, i) => (
                       <div key={i} className="flex items-start gap-3 bg-surface-cream rounded-xl p-4">
@@ -351,9 +369,17 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                         Dress Code
                       </dt>
                       <dd className="text-gray-700 text-sm">
-                        Shoulders and knees must be covered. Remove shoes before entering buildings.
+                        {temple.dress_code || 'Shoulders and knees must be covered. Remove shoes before entering buildings.'}
                       </dd>
                     </div>
+                    {temple.address && (
+                      <div className="border-t pt-4">
+                        <dt className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">
+                          Address
+                        </dt>
+                        <dd className="text-gray-700 text-sm">{temple.address}</dd>
+                      </div>
+                    )}
                     <div className="border-t pt-4">
                       <dt className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">
                         Location

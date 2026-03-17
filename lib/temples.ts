@@ -14,6 +14,13 @@ export interface Temple {
   key_facts: string[];
   type: string;
   google_maps_query: string;
+  // Enrichment fields (added per-temple via web search)
+  enriched?: boolean;
+  address?: string;
+  dress_code?: string;
+  getting_there?: string;
+  visitor_tips?: string[];
+  nearby_temples?: string[];
 }
 
 interface TemplesData {

@@ -9,12 +9,22 @@
       "name": "Wat Pho (Temple of the Reclining Buddha)",
       "city": "Bangkok",
       "city_slug": "bangkok",
-      "entry_fee": "200 THB",
-      "opening_hours": null,
-      "description": "Home to Thailand's largest reclining Buddha at 46 metres long and 15 metres high, Wat Pho also holds the country's largest collection of Buddha images. The temple is recognised as Thailand's first university, historically a centre for education in medicine and Thai massage.",
-      "key_facts": ["46m reclining Buddha", "15m high", "Largest collection of Buddha images in Thailand", "Thailand's first university"],
+      "entry_fee": "300 THB",
+      "opening_hours": "8:00am–6:30pm daily",
+      "description": "Home to Thailand's largest reclining Buddha at 46 metres long and 15 metres high, Wat Pho also holds the country's largest collection of Buddha images — over 1,000 in total. The temple is recognised as Thailand's first university and has been a centre for traditional Thai massage since 1955. The complex covers 80,000 sq metres and is one of the oldest temples in Bangkok, predating the city itself.",
+      "key_facts": ["46m reclining Buddha covered in gold leaf", "Over 1,000 Buddha images — most of any temple in Thailand", "Thailand's first university and traditional medicine centre", "Thai massage school on-site since 1955", "UNESCO Memory of the World heritage"],
       "type": "Buddhist temple",
-      "google_maps_query": "Wat Pho Bangkok Thailand"
+      "google_maps_query": "Wat Pho Bangkok Thailand",
+      "enriched": true,
+      "address": "2 Sanam Chai Rd, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200",
+      "dress_code": "Cover shoulders and knees. No sleeveless shirts, shorts, miniskirts, or see-through clothing. Remove shoes before entering buildings — you receive a bag to carry them. Wraps available at entrance if needed.",
+      "getting_there": "MRT Sanam Chai Station is a 5-minute walk. Alternatively, take the BTS to Saphan Taksin, then a Chao Phraya Express Boat to Tha Tien Pier. Taxi from central Bangkok costs 80–150 THB depending on traffic.",
+      "visitor_tips": [
+        "Visit before 10am to avoid tour groups — the Reclining Buddha hall gets crowded by midday",
+        "Budget 1.5–2 hours to see the full complex including the massage pavilions and 4 chedis",
+        "Traditional Thai massage available on-site from 460 THB (30 min) — book early as slots fill up"
+      ],
+      "nearby_temples": ["wat-arun", "wat-phra-kaew", "wat-saket"]
     },
     {
       "rank": 2,
