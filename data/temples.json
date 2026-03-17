@@ -78,12 +78,22 @@
       "name": "Wat Phra Kaew (Temple of the Emerald Buddha)",
       "city": "Bangkok",
       "city_slug": "bangkok",
-      "entry_fee": "Included in Grand Palace (500 THB)",
-      "opening_hours": null,
-      "description": "Located within the Grand Palace complex, Wat Phra Kaew houses the Emerald Buddha — Thailand's most sacred Buddhist image. Entry is included with the Grand Palace admission fee.",
-      "key_facts": ["Temple of the Emerald Buddha", "Located within the Grand Palace"],
+      "entry_fee": "500 THB (includes Grand Palace + Queen Sirikit Museum of Textiles)",
+      "opening_hours": "8:30am–3:30pm daily (ticket sales close at 3:30pm)",
+      "description": "Located within the Grand Palace complex, Wat Phra Kaew houses the Emerald Buddha — Thailand's most sacred Buddhist image, carved from a single block of jade. The temple is the most important in Thailand and serves as the spiritual heart of the kingdom. The Grand Palace grounds surrounding it are equally impressive, with ornate buildings, murals, and guards in ceremonial dress. Note: the complex closes for special royal ceremonies — check the official site before visiting.",
+      "key_facts": ["Houses the Emerald Buddha — Thailand's most sacred Buddhist image", "Located within the Grand Palace complex", "500 THB admission includes Grand Palace + Queen Sirikit Museum of Textiles", "Children under 120cm enter free", "Strictest dress code of any Bangkok temple"],
       "type": "Buddhist temple",
-      "google_maps_query": "Wat Phra Kaew Bangkok Thailand"
+      "google_maps_query": "Wat Phra Kaew Bangkok Thailand",
+      "enriched": true,
+      "address": "Na Phra Lan Rd, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200",
+      "dress_code": "Strictest dress code in Bangkok. Must cover shoulders, upper arms, and legs to ankles. No sleeveless shirts, crop tops, shorts, miniskirts, torn clothing, see-through tops, or culottes. Scarves alone cannot cover bare shoulders. Sarongs and long pants available for rent at entrance (may run out during peak hours).",
+      "getting_there": "MRT Sanam Chai Station (Blue Line, Exit 1) is a 15-minute walk. Or take the BTS to Saphan Taksin, then an orange flag express boat (15 THB) to Tha Chang Pier (N9) — 5-minute walk from there. Tha Tien Pier (N8) also works.",
+      "visitor_tips": [
+        "Arrive at 8:30am opening to beat crowds — by 10am it gets very busy, especially on weekends",
+        "Ignore anyone outside the gate saying the palace is 'closed today' — this is a known scam to redirect tourists to gem shops",
+        "Budget 2–3 hours for the full complex; audio guides available in multiple languages at the entrance"
+      ],
+      "nearby_temples": ["wat-pho", "wat-arun", "wat-saket"]
     },
     {
       "rank": 5,
