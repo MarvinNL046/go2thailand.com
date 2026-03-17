@@ -285,6 +285,44 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                 ))}
               </div>
             </div>
+
+            {/* Explore More */}
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <p className="section-label">Explore More</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
+                Related Guides
+              </h2>
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+                <Link href="/travel-insurance-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
+                  <div className="font-semibold text-gray-900">Travel Insurance</div>
+                  <div className="text-xs text-gray-600">Essential for activities</div>
+                </Link>
+                <Link href="/food/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
+                  <div className="font-semibold text-gray-900">Thai Food Guide</div>
+                  <div className="text-xs text-gray-600">Cuisine & street food</div>
+                </Link>
+                <Link href="/best-places-to-visit-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
+                  <div className="font-semibold text-gray-900">Best Places to Visit</div>
+                  <div className="text-xs text-gray-600">Top destinations</div>
+                </Link>
+                <Link href="/islands/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
+                  <div className="font-semibold text-gray-900">Thai Islands</div>
+                  <div className="text-xs text-gray-600">Beaches & island life</div>
+                </Link>
+                <Link href="/thailand-for-first-timers/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
+                  <div className="font-semibold text-gray-900">First Timer&apos;s Guide</div>
+                  <div className="text-xs text-gray-600">Everything you need to know</div>
+                </Link>
+                <Link href="/best-diving-snorkeling-in-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
+                  <div className="font-semibold text-gray-900">Diving &amp; Snorkeling</div>
+                  <div className="text-xs text-gray-600">Reefs & underwater life</div>
+                </Link>
+                <Link href="/best-muay-thai-in-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
+                  <div className="font-semibold text-gray-900">Muay Thai</div>
+                  <div className="text-xs text-gray-600">Training & fight nights</div>
+                </Link>
+              </div>
+            </div>
           </div>
         </section>
       </div>

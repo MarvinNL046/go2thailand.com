@@ -241,6 +241,22 @@ export default function Top10RestaurantsPage({ city, restaurantsData, affiliates
                       </Link>
                     </div>
                   </div>
+
+                  {/* Related Guides */}
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Related Guides</h3>
+                    <div className="space-y-3">
+                      <Link href="/food/" className="block text-thailand-blue hover:underline">
+                        Thai Food Guide
+                      </Link>
+                      <Link href="/best-cooking-classes-in-thailand/" className="block text-thailand-blue hover:underline">
+                        Cooking Classes
+                      </Link>
+                      <Link href="/drinks/" className="block text-thailand-blue hover:underline">
+                        Thai Drinks Guide
+                      </Link>
+                    </div>
+                  </div>
                 </div>
               </aside>
 
@@ -391,6 +407,42 @@ export default function Top10RestaurantsPage({ city, restaurantsData, affiliates
                       </Link>
                       <Link href={`/city/${city.slug}/top-10-hotels/`} className="btn-secondary">
                         Top 10 Hotels
+                      </Link>
+                    </div>
+                  </div>
+
+                  {/* Related Guides */}
+                  <div className="bg-white rounded-2xl shadow-md p-8">
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">
+                      Explore Thai Food &amp; Drink
+                    </h3>
+                    <div className="grid sm:grid-cols-3 gap-4">
+                      <Link
+                        href="/food/"
+                        className="bg-surface-cream rounded-xl p-4 hover:shadow-md transition-shadow group"
+                      >
+                        <h4 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                          Thai Food Guide
+                        </h4>
+                        <p className="text-sm text-gray-500">Dishes, flavours &amp; where to eat →</p>
+                      </Link>
+                      <Link
+                        href="/best-cooking-classes-in-thailand/"
+                        className="bg-surface-cream rounded-xl p-4 hover:shadow-md transition-shadow group"
+                      >
+                        <h4 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                          Cooking Classes
+                        </h4>
+                        <p className="text-sm text-gray-500">Learn to cook Thai food →</p>
+                      </Link>
+                      <Link
+                        href="/drinks/"
+                        className="bg-surface-cream rounded-xl p-4 hover:shadow-md transition-shadow group"
+                      >
+                        <h4 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                          Thai Drinks Guide
+                        </h4>
+                        <p className="text-sm text-gray-500">What to drink in Thailand →</p>
                       </Link>
                     </div>
                   </div>

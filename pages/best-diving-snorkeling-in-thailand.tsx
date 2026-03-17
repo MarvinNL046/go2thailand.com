@@ -298,6 +298,32 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
                 ))}
               </div>
             </div>
+
+            {/* Related Guides */}
+            <div className="mb-8">
+              <p className="section-label">Related Guides</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Plan Your Thailand Trip</h2>
+              <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+                {[
+                  { href: '/islands/', title: 'Thai Islands', description: 'Explore Thailand\'s best islands — from party hubs like Koh Samui to remote diving paradises like Koh Lipe.' },
+                  { href: '/best-beaches-in-thailand/', title: 'Best Beaches', description: 'Top beaches in Thailand ranked by water clarity, crowds, and facilities — from Phuket to the Gulf Coast.' },
+                  { href: '/food/', title: 'Thai Food Guide', description: 'From street food to regional classics — everything you need to eat well across Thailand.' },
+                  { href: '/best-places-to-visit-thailand/', title: 'Best Places to Visit', description: 'The top destinations in Thailand ranked by experiences, beaches, culture, and value for money.' },
+                  { href: '/thailand-for-first-timers/', title: "First Timer's Guide", description: 'Essential tips for first-time visitors: safety, etiquette, transport, and must-do experiences.' },
+                  { href: '/best-elephant-sanctuaries-in-thailand/', title: 'Elephant Sanctuaries', description: 'Ethical elephant experiences in Thailand — sanctuaries that prioritize animal welfare over entertainment.' },
+                  { href: '/best-muay-thai-in-thailand/', title: 'Muay Thai', description: 'Watch live Muay Thai fights or train with pros — the best stadiums and training camps across Thailand.' },
+                ].map((guide) => (
+                  <Link
+                    key={guide.href}
+                    href={guide.href}
+                    className="rounded-2xl bg-surface-cream p-5 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md"
+                  >
+                    <h3 className="mb-2 font-bold font-heading text-gray-900">{guide.title}</h3>
+                    <p className="text-sm text-gray-600">{guide.description}</p>
+                  </Link>
+                ))}
+              </div>
+            </div>
           </div>
         </section>
       </div>

@@ -184,6 +184,49 @@ export default function TravelGuidePage({ data, affiliates }: Props) {
             <AffiliateBox affiliates={affiliates} cityName={data.cityName} type="tours" />
           )}
 
+          {/* Explore More */}
+          <section className="mb-10">
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">Explore More</h2>
+            <div className="grid sm:grid-cols-2 gap-4">
+              <Link
+                href="/city/"
+                className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
+              >
+                <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                  City Guides
+                </h3>
+                <p className="text-sm text-gray-500">Browse all 33 Thailand destinations →</p>
+              </Link>
+              <Link
+                href="/food/"
+                className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
+              >
+                <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                  Thai Food Guide
+                </h3>
+                <p className="text-sm text-gray-500">Dishes, street food &amp; dining tips →</p>
+              </Link>
+              <Link
+                href="/travel-insurance-thailand/"
+                className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
+              >
+                <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                  Travel Insurance
+                </h3>
+                <p className="text-sm text-gray-500">Stay protected on your trip →</p>
+              </Link>
+              <Link
+                href="/thailand-for-first-timers/"
+                className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
+              >
+                <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
+                  First Timer&apos;s Guide
+                </h3>
+                <p className="text-sm text-gray-500">Everything you need before you go →</p>
+              </Link>
+            </div>
+          </section>
+
           <ClusterNav citySlug={data.citySlug} cityName={data.cityName} currentPage="travel-guide" />
         </div>
       </div>

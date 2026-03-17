@@ -433,6 +433,32 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                 ))}
               </div>
             </div>
+
+            {/* Related Guides */}
+            <div className="mb-8">
+              <p className="section-label">Related Guides</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Plan Your Trip</h2>
+              <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+                {[
+                  { href: '/food/', title: 'Thai Food Guide', description: 'Explore the flavours of Thailand — street food, regional dishes, and where to eat in every city.' },
+                  { href: '/nightlife/', title: 'Nightlife Guide', description: 'From Bangkok rooftop bars to Full Moon Party beaches — the best nightlife spots across Thailand.' },
+                  { href: '/best-places-to-visit-thailand/', title: 'Best Places to Visit', description: 'Compare Thailand\'s top destinations: beaches, cities, islands, and hidden gems for every travel style.' },
+                  { href: '/thailand-for-first-timers/', title: "First Timer's Guide", description: 'Essential tips for first-time visitors: safety, etiquette, transport, and must-do experiences.' },
+                  { href: '/best-diving-snorkeling-in-thailand/', title: 'Diving & Snorkeling', description: 'The best dive sites, liveaboards, and snorkeling spots across Thailand\'s Andaman and Gulf coasts.' },
+                  { href: '/best-elephant-sanctuaries-in-thailand/', title: 'Elephant Sanctuaries', description: 'Find ethical elephant experiences — sanctuaries that prioritise welfare over entertainment.' },
+                  { href: '/best-cooking-classes-in-thailand/', title: 'Cooking Classes', description: 'Learn to cook authentic Thai food with hands-on classes in Bangkok, Chiang Mai, and beyond.' },
+                ].map((guide) => (
+                  <Link
+                    key={guide.href}
+                    href={guide.href}
+                    className="rounded-2xl bg-surface-cream p-5 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md"
+                  >
+                    <h3 className="mb-2 font-bold font-heading text-gray-900">{guide.title}</h3>
+                    <p className="text-sm text-gray-600">{guide.description}</p>
+                  </Link>
+                ))}
+              </div>
+            </div>
           </div>
         </section>
       </div>
