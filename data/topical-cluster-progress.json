@@ -1,9 +1,9 @@
 {
   "current_cluster": "temples",
   "current_step": "enrichment",
-  "completed_pages": ["temples-infrastructure", "wat-pho", "wat-arun", "wat-saket", "wat-phra-kaew"],
+  "completed_pages": ["temples-infrastructure", "wat-pho", "wat-arun", "wat-saket", "wat-phra-kaew", "wat-phra-that-doi-suthep"],
   "clusters": {
-    "temples": { "status": "in_progress", "pages_created": 4, "infrastructure_done": true },
+    "temples": { "status": "in_progress", "pages_created": 5, "infrastructure_done": true },
     "nomad-cities": { "status": "pending", "pages_created": 0 },
     "safety": { "status": "pending", "pages_created": 0 },
     "beaches": { "status": "pending", "pages_created": 0 },
