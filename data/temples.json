@@ -32,12 +32,22 @@
       "name": "Wat Arun (Temple of Dawn)",
       "city": "Bangkok",
       "city_slug": "bangkok",
-      "entry_fee": "100 THB",
-      "opening_hours": "8:30am–5:30pm",
-      "description": "Rising over 70 metres along the Chao Phraya River, Wat Arun's spires are covered in colourful porcelain and glass fragments that catch the light throughout the day. Known as the Temple of Dawn, it is one of Bangkok's most recognisable landmarks.",
-      "key_facts": ["70m+ spires", "Covered in porcelain and glass", "Temple of Dawn"],
+      "entry_fee": "200 THB",
+      "opening_hours": "8:00am–5:30pm daily",
+      "description": "Rising over 70 metres along the Chao Phraya River, Wat Arun's central prang is covered in colourful porcelain and seashell fragments that catch the light throughout the day. Known as the Temple of Dawn, visitors can climb the steep steps of the spire for sweeping views over the river and Bangkok's old town. The temple is one of Bangkok's most recognisable landmarks and looks particularly striking at sunset when lit up from across the river.",
+      "key_facts": ["70m+ central prang — climbable for river views", "Decorated with porcelain and seashell mosaic", "Temple of Dawn — best photographed at sunset", "Part of Bangkok's historic temple trio with Wat Pho and Grand Palace"],
       "type": "Buddhist temple",
-      "google_maps_query": "Wat Arun Bangkok Thailand"
+      "google_maps_query": "Wat Arun Bangkok Thailand",
+      "enriched": true,
+      "address": "158 Wang Doem Rd, Wat Arun, Bangkok Yai, Bangkok 10600",
+      "dress_code": "Long pants required (shorts not allowed even if knee-length). Cover shoulders — no sleeveless shirts or see-through clothing. Hats and caps not permitted inside the temple. Sarongs available for rent near the entrance.",
+      "getting_there": "Take the BTS to Saphan Taksin Station (Exit 2), then a Chao Phraya Express Boat (16 THB) to Tha Tien Pier. From there, catch the cross-river ferry (4 THB, every 10–15 min, 3-min crossing) directly to Wat Arun. Alternatively, taxi from central Bangkok costs 100–200 THB.",
+      "visitor_tips": [
+        "Visit early morning or late afternoon — midday is extremely hot with harsh light for photos",
+        "Allow 1–2 hours; the steep central prang climb is the highlight but requires sturdy shoes",
+        "Combine with Wat Pho and Grand Palace across the river — all three can be done in one morning"
+      ],
+      "nearby_temples": ["wat-pho", "wat-phra-kaew", "wat-saket"]
     },
     {
       "rank": 3,
