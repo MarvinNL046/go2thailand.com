@@ -102,11 +102,21 @@
       "city": "Chiang Mai",
       "city_slug": "chiang-mai",
       "entry_fee": "30 THB",
-      "opening_hours": "6:30am–6:30pm",
-      "description": "Perched on a mountainside above Chiang Mai, this temple is reached via a 306-step Naga stairway flanked by serpent balustrades. Built in 1383, the golden pagoda is said to contain a relic of the Buddha.",
-      "key_facts": ["306-step Naga stairway", "Golden pagoda", "Contains a Buddha relic", "Built in 1383"],
+      "opening_hours": "6:00am–8:00pm daily",
+      "description": "Perched at 1,073 metres elevation on the mountainside above Chiang Mai, Wat Phra That Doi Suthep is the most sacred temple in northern Thailand. The temple is reached via a 306-step Naga stairway flanked by serpent balustrades, or by a funicular tram (20 THB). Built in 1383, the golden pagoda is said to contain a relic of the Buddha. On a clear day, the temple terrace offers sweeping views over the entire Chiang Mai valley.",
+      "key_facts": ["306-step Naga stairway or funicular tram (20 THB)", "Golden pagoda at 1,073m elevation", "Contains a relic of the Buddha — built in 1383", "Most sacred temple in northern Thailand", "Panoramic views over the Chiang Mai valley"],
       "type": "Buddhist temple",
-      "google_maps_query": "Wat Phra That Doi Suthep Chiang Mai Thailand"
+      "google_maps_query": "Wat Phra That Doi Suthep Chiang Mai Thailand",
+      "enriched": true,
+      "address": "Doi Suthep Rd, Tambon Su Thep, Mueang Chiang Mai, Chiang Mai 50200",
+      "dress_code": "Cover shoulders and knees. Sarongs and wraps available for rent at entrance. Shoes must be removed before entering the temple terrace.",
+      "getting_there": "15 km from Chiang Mai city centre, 30–45 min drive. Red songthaews depart from Wat Phra Singh or Kad Suan Kaew (100 THB/person, leaves when 10 passengers). Alternatively rent a scooter or take a Grab. Adventurous visitors can hike the Monk's Trail (passes the hidden Wat Pha Lat jungle temple).",
+      "visitor_tips": [
+        "Visit early morning for cooler temperatures and fewer crowds — the 306 steps are tough in midday heat",
+        "Take a funicular tram (20 THB) from the car park if you want to skip the staircase climb",
+        "Combine with Bhubing Palace (royal winter residence, open when royals are away) and Wat Pha Lat on the Monk's Trail"
+      ],
+      "nearby_temples": ["wat-chedi-luang", "wat-suan-dok", "wat-u-mong"]
     },
     {
       "rank": 6,
