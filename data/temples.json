@@ -125,11 +125,21 @@
       "city": "Chiang Mai",
       "city_slug": "chiang-mai",
       "entry_fee": "40 THB",
-      "opening_hours": null,
-      "description": "Dating from the 14th century, Wat Chedi Luang features a massive stupa adorned with elephant statues. The temple is a prime example of Lanna architecture and remains one of Chiang Mai's most important religious sites.",
-      "key_facts": ["14th century", "Massive stupa", "Elephant statues", "Lanna architecture"],
+      "opening_hours": "6:00am–6:00pm daily",
+      "description": "Dating from the 14th century, Wat Chedi Luang features a massive ruined stupa that once stood 82 metres tall — the tallest structure in old Chiang Mai. The chedi is adorned with elephant statues at its base and is a prime example of Lanna architecture. The temple once housed the Emerald Buddha (now at Wat Phra Kaew in Bangkok) and remains one of Chiang Mai's most important active religious sites. A popular daily 'Monk Chat' programme lets visitors have informal conversations with English-speaking monks.",
+      "key_facts": ["14th-century ruined stupa — originally 82m tall", "Elephant statues at the base of the chedi", "Once housed the Emerald Buddha (before Bangkok)", "Lanna architecture in the heart of the old city", "Daily Monk Chat programme (9am–6pm)"],
       "type": "Buddhist temple",
-      "google_maps_query": "Wat Chedi Luang Chiang Mai Thailand"
+      "google_maps_query": "Wat Chedi Luang Chiang Mai Thailand",
+      "enriched": true,
+      "address": "103 Prapokkloa Rd, Tambon Si Phum, Mueang Chiang Mai, Chiang Mai 50200",
+      "dress_code": "Cover shoulders, chest, and knees. Women: long pants/skirt and conservative blouse. Men: knee-length shorts minimum, no tank tops. T-shirts and sarongs available for hire (deposit refunded on return). Remove shoes before entering buildings.",
+      "getting_there": "Located in the centre of Chiang Mai's old city (inside the moat), walkable from most old town accommodation. From outside the old city, take a tuk-tuk or Grab — most drivers know it well. Short walk south from the Ratchadamnoen Road intersection.",
+      "visitor_tips": [
+        "Join the free Monk Chat (daily 9am–6pm) — monks practise English while sharing insights into Buddhist life",
+        "Visit early morning or late afternoon for cooler temperatures and fewer crowds",
+        "Walk next door to Wat Phantao and combine with Wat Phra Singh (10 min walk) for a full old city temple circuit"
+      ],
+      "nearby_temples": ["wat-phra-that-doi-suthep", "wat-suan-dok", "wat-u-mong"]
     },
     {
       "rank": 7,
