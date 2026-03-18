@@ -147,12 +147,22 @@
       "name": "Wat Suan Dok",
       "city": "Chiang Mai",
       "city_slug": "chiang-mai",
-      "entry_fee": "Free",
-      "opening_hours": "6am–5pm",
-      "description": "The 'Flower Garden Temple' dates from the 14th century and is known for its 48-metre golden chedi surrounded by a collection of white pagodas containing royal ashes. The expansive grounds offer a peaceful atmosphere.",
-      "key_facts": ["Flower garden temple", "48m golden chedi", "14th century", "White pagodas"],
+      "entry_fee": "Free (donations appreciated)",
+      "opening_hours": "6:00am–6:00pm daily",
+      "description": "The 'Flower Garden Temple' was built in 1370 and is known for its 48-metre golden chedi surrounded by a collection of white chedis containing the ashes of Chiang Mai's royal family. The temple houses a golden Buddha image cast in the 16th century and is home to a popular Monk Chat programme and weekly meditation retreats. The expansive grounds offer a peaceful atmosphere away from the old city crowds.",
+      "key_facts": ["Built in 1370 — 'Flower Garden Temple'", "48m golden chedi with Buddha relics", "White chedis contain royal family ashes", "Free Monk Chat: Mon, Wed, Fri 5–7pm", "Weekly 2-day meditation retreat (Tue–Wed, donations only)"],
       "type": "Buddhist temple",
-      "google_maps_query": "Wat Suan Dok Chiang Mai Thailand"
+      "google_maps_query": "Wat Suan Dok Chiang Mai Thailand",
+      "enriched": true,
+      "address": "139 Suthep Rd, Tambon Su Thep, Mueang Chiang Mai, Chiang Mai 50200",
+      "dress_code": "Cover shoulders and knees. Remove shoes before entering buildings. Standard temple dress code — wraps available if needed.",
+      "getting_there": "Located on Suthep Road just west of the old city, about 1.5 km from Suan Dok Gate. Walkable in 20 minutes from the old city, or take a red songthaew (20–30 THB) or Grab. On the same road that leads up to Doi Suthep.",
+      "visitor_tips": [
+        "Join the free Monk Chat (Mon/Wed/Fri 5–7pm) — young monks practise English while sharing insights into Buddhism",
+        "Visit at twilight for the best photography — the golden chedi against the sunset is spectacular",
+        "Consider the 2-day meditation retreat (departs Tue 2pm) — free, donations 200–1,000 THB suggested"
+      ],
+      "nearby_temples": ["wat-chedi-luang", "wat-phra-that-doi-suthep", "wat-u-mong"]
     },
     {
       "rank": 8,
