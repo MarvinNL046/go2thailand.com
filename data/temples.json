@@ -398,7 +398,31 @@
         "Combine with nearby Wat Phra Sri Sanphet and Wat Ratchaburana for a half-day temple circuit",
         "Bring sunscreen, water, and a hat — the ruins offer almost no shade and Ayutthaya is significantly hotter than Bangkok"
       ],
-      "nearby_temples": ["wat-phra-sri-sanphet"]
+      "nearby_temples": ["wat-phra-sri-sanphet", "wat-chaiwatthanaram"]
+    },
+    {
+      "rank": 18,
+      "slug": "wat-chaiwatthanaram",
+      "name": "Wat Chaiwatthanaram",
+      "city": "Ayutthaya",
+      "city_slug": "ayutthaya",
+      "entry_fee": "50 THB (foreigners)",
+      "opening_hours": "8:00am–6:00pm daily",
+      "description": "Built in 1630 by King Prasat Thong to honour his mother, Wat Chaiwatthanaram is one of the most photogenic temple ruins in Ayutthaya. The Khmer-style architecture features a central 35-metre prang surrounded by four smaller prangs and eight chedi-shaped chapels, arranged in a layout inspired by the Hindu-Buddhist cosmological concept of Mount Meru. Rows of seated Buddha images in various states of preservation line the gallery walls. Located on the west bank of the Chao Phraya River, the temple is particularly atmospheric at sunset when the warm light illuminates the sandstone towers.",
+      "key_facts": ["Built in 1630 by King Prasat Thong in honour of his mother", "Khmer-style central prang (35m) with four surrounding prangs", "Mount Meru-inspired layout — Hindu-Buddhist cosmological design", "Rows of seated Buddha images along the gallery walls", "UNESCO World Heritage Site as part of Ayutthaya Historical Park"],
+      "type": "Khmer-influenced temple ruins",
+      "google_maps_query": "Wat Chaiwatthanaram Ayutthaya Thailand",
+      "enriched": true,
+      "address": "Tambon Ban Pom, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000 (west bank of the Chao Phraya River, about 3 km from the island centre)",
+      "dress_code": "Cover shoulders and knees. Light, loose clothing recommended for the heat. Enforcement is relaxed as an outdoor ruin site, but respectful dress is expected.",
+      "getting_there": "Located 3 km southwest of the Ayutthaya island centre on the west bank of the Chao Phraya River. By bicycle: 15-minute ride from the island (cross the river bridge). By tuk-tuk: part of a standard temple circuit (~200 THB/hour). By boat: scenic longtail boat trips from the island include a stop at Wat Chaiwatthanaram. From Bangkok: same options as other Ayutthaya temples — train (1.5–2.5 hours), minivan from Mo Chit, or taxi/car (1–1.5 hours).",
+      "visitor_tips": [
+        "Visit late afternoon for the best photography light — the sunset over the prangs is Ayutthaya's most iconic view",
+        "The temple is slightly off the main island circuit so it's less crowded than Wat Mahathat, especially in the morning",
+        "Walk the full gallery perimeter to see the seated Buddha images — many are overlooked by visitors who only photograph the central prang",
+        "Bring water and sun protection — there is no shade on the temple grounds and the heat radiates off the stone"
+      ],
+      "nearby_temples": ["wat-mahathat-ayutthaya", "wat-phra-sri-sanphet"]
     }
   ],
   "tips": [
