@@ -286,12 +286,23 @@
       "name": "Big Buddha (Wat Phra Yai)",
       "city": "Phuket",
       "city_slug": "phuket",
-      "entry_fee": "Free",
-      "opening_hours": null,
-      "description": "The 45-metre tall white marble Buddha sits atop Nakkerd Hill, visible from much of the island. The hilltop location provides 360-degree views across Phuket's coastline and interior.",
-      "key_facts": ["45m tall", "Hilltop location", "360° views"],
+      "entry_fee": "Free (donations encouraged)",
+      "opening_hours": "8:00am–7:00pm daily (check current status — site was temporarily closed in 2024–2025 due to landslide repairs)",
+      "description": "The 45-metre tall white marble Buddha sits atop Nakkerd Hill at 400 metres elevation, visible from much of the island. Construction began in 2004 and the statue is clad in white Burmese marble. The hilltop location provides sweeping 360-degree views over Chalong Bay, Kata and Karon beaches, Phuket Town, and the Andaman Sea. The site remains an active place of worship and meditation, with several smaller shrines and Buddha images on the surrounding terraces.",
+      "key_facts": ["45m tall white marble Buddha statue — one of the tallest in Thailand", "Located atop Nakkerd Hill at 400m elevation with 360° panoramic views", "Construction began in 2004, funded entirely by donations", "Visible from much of southern Phuket including Chalong, Kata and Karon", "Several smaller Buddha statues and shrines on the surrounding terraces"],
       "type": "Buddhist temple",
-      "google_maps_query": "Big Buddha Wat Phra Yai Phuket Thailand"
+      "google_maps_query": "Big Buddha Wat Phra Yai Phuket Thailand",
+      "enriched": true,
+      "address": "Soi Yot Sane 1, Chaofa West Road, Nakkerd Hill, Chalong, Mueang Phuket, Phuket 83100",
+      "dress_code": "Cover shoulders and knees — no sleeveless tops, tank tops, short skirts or shorts above the knee. Free sarongs available at the entrance for visitors who need cover. Remove shoes before entering temple buildings.",
+      "getting_there": "30–40 minutes by car or motorbike from Phuket Town or Patong via a paved but steep road off Chaofa West Road near Chalong. Grab or Bolt ride is typically cheapest at 300–500 THB. Tuk-tuk costs 500–800 THB depending on starting point — agree on price in advance. Many guided tours combine Big Buddha with nearby Wat Chalong and include hotel pickup.",
+      "visitor_tips": [
+        "Visit in the late afternoon for the best light and sunset views over Chalong Bay",
+        "The access road is steep with sharp curves — drive carefully on a scooter, especially in wet conditions",
+        "Watch for monkeys on the terrace areas — don't carry open food or drinks",
+        "Check current opening status before visiting — the site was closed for landslide repairs and may have limited access"
+      ],
+      "nearby_temples": []
     },
     {
       "rank": 14,
