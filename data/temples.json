@@ -193,12 +193,22 @@
       "name": "Wat Rong Khun (White Temple)",
       "city": "Chiang Rai",
       "city_slug": "chiang-rai",
-      "entry_fee": "50 THB",
-      "opening_hours": "8am–5pm",
-      "description": "A contemporary art exhibit in the form of a Buddhist temple, Wat Rong Khun is entirely white and covered in mirrored glass. This privately owned creation blends traditional Thai temple elements with modern artistic expression.",
-      "key_facts": ["Contemporary art exhibit", "All-white design", "Privately owned"],
+      "entry_fee": "200 THB (as of Jan 2026; free for Thai nationals, over-70s, and children under 120cm)",
+      "opening_hours": "8:00am–5:00pm daily",
+      "description": "A contemporary art exhibit in the form of a Buddhist temple, Wat Rong Khun is entirely white and covered in mirrored glass fragments that sparkle in sunlight. Created by Thai artist Chalermchai Kositpipat, this privately owned temple blends traditional Thai temple architecture with surreal modern art — including pop culture references inside the main hall. The ticket includes access to the Cave of Art gallery. Construction began in 1997 and is still ongoing, with the complex planned to eventually include nine buildings.",
+      "key_facts": ["All-white design covered in mirrored glass", "Created by artist Chalermchai Kositpipat — still under construction since 1997", "Ticket includes Cave of Art gallery", "200 THB entry (doubled from 100 THB in Jan 2026)", "13 km south of Chiang Rai city — 15-min drive"],
       "type": "Buddhist temple",
-      "google_maps_query": "Wat Rong Khun White Temple Chiang Rai Thailand"
+      "google_maps_query": "Wat Rong Khun White Temple Chiang Rai Thailand",
+      "enriched": true,
+      "address": "Pa O Don Chai, Mueang Chiang Rai, Chiang Rai 57000",
+      "dress_code": "Cover shoulders and knees (all genders). Shoes removed before entering the temple. Free sarong loans available. Vendors near entrance sell pants and scarves if needed.",
+      "getting_there": "13 km south of Chiang Rai city (15–20 min drive). Local bus from the main bus station near the night market costs just 20 THB. Taxi 150–200 THB one way or 300 THB round trip with waiting. Tuk-tuk ~400 THB round trip with 1-hour wait. Scooter rental ~250 THB/day.",
+      "visitor_tips": [
+        "Arrive at 8am opening to beat the tour bus crowds — by 10am it gets very busy",
+        "Watch your footing inside — mirrored glass floors can be slippery, especially in socks",
+        "Combine with the Blue Temple (Wat Rong Seur Ten) back in the city for a full Chiang Rai temple day"
+      ],
+      "nearby_temples": ["wat-rong-seur-ten"]
     },
     {
       "rank": 10,
