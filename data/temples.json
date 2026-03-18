@@ -170,12 +170,22 @@
       "name": "Wat U Mong",
       "city": "Chiang Mai",
       "city_slug": "chiang-mai",
-      "entry_fee": null,
-      "opening_hours": null,
-      "description": "A 14th-century forest temple set among trees on the outskirts of Chiang Mai. Wat U Mong is distinctive for its underground tunnels and shrines, giving it a meditative atmosphere unlike any other temple in the region.",
-      "key_facts": ["14th century", "Underground tunnels and shrines"],
+      "entry_fee": "Free (donations welcome)",
+      "opening_hours": "6:00am–6:00pm daily",
+      "description": "Chiang Mai's only forest temple, Wat U Mong sits at the base of Doi Suthep among ancient trees, dating back over 700 years. The temple is distinctive for its underground tunnels — dimly lit passages adorned with centuries-old Buddhist murals. Above ground, a large stupa tops the hill, and the forested grounds include a lake, meditation areas, and a 'talking trees' section with Buddhist proverbs pinned to the trunks. The atmosphere is meditative and unlike any other temple in northern Thailand.",
+      "key_facts": ["700+ year old forest temple at the base of Doi Suthep", "Underground tunnels with ancient Buddhist murals", "Large stupa on the hilltop above the tunnels", "'Talking trees' with Buddhist proverbs pinned to trunks", "Free admission — Chiang Mai's most peaceful temple"],
       "type": "Buddhist temple",
-      "google_maps_query": "Wat U Mong Chiang Mai Thailand"
+      "google_maps_query": "Wat U Mong Chiang Mai Thailand",
+      "enriched": true,
+      "address": "135 Moo 10, Tambon Su Thep, Mueang Chiang Mai, Chiang Mai 50200",
+      "dress_code": "Cover shoulders and knees. Shoes must be removed before entering the tunnels. Comfortable walking shoes recommended for the uneven forest terrain.",
+      "getting_there": "About 15 minutes west of the old city near the base of Doi Suthep. Take a Grab, tuk-tuk, or red songthaew via Suthep Road. Private taxi around 250 THB one way. Tip: book a round trip as return rides can be hard to find at the temple.",
+      "visitor_tips": [
+        "Visit early morning or late afternoon for the most atmospheric experience — the forest setting stays cool",
+        "Wear sturdy shoes — the grounds are uneven with forest paths, steps, and the tunnel floors can be slippery",
+        "Combine with Wat Suan Dok (10 min drive) and Doi Suthep (15 min further up the mountain) for a half-day west-side temple circuit"
+      ],
+      "nearby_temples": ["wat-suan-dok", "wat-chedi-luang", "wat-phra-that-doi-suthep"]
     },
     {
       "rank": 9,
