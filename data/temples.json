@@ -471,6 +471,30 @@
         "After visiting, walk to the Chao Sam Phraya National Museum (nearby) to see the golden treasures found in the crypt"
       ],
       "nearby_temples": ["wat-mahathat-ayutthaya", "wat-phra-sri-sanphet", "wat-chaiwatthanaram", "wat-yai-chai-mongkol"]
+    },
+    {
+      "rank": 21,
+      "slug": "wat-mahathat-sukhothai",
+      "name": "Wat Mahathat (Sukhothai)",
+      "city": "Sukhothai",
+      "city_slug": "sukhothai",
+      "entry_fee": "200 THB (central zone, foreigners)",
+      "opening_hours": "6:30am–7:30pm daily",
+      "description": "The spiritual and political heart of the ancient Sukhothai Kingdom, Wat Mahathat is the largest and most important temple in Sukhothai Historical Park. Built between 1292 and 1347, it was said to enshrine authentic relics of the Buddha in its iconic lotus-bud-shaped central chedi. The complex contains nearly 200 chedis, numerous Buddha images, and ornate stucco reliefs. The main chedi's distinctive lotus-bud crown is considered the defining architectural style of the Sukhothai period and influenced Thai temple design for centuries. The site is part of the UNESCO World Heritage-listed Sukhothai Historical Park.",
+      "key_facts": ["Largest temple in Sukhothai Historical Park — nearly 200 chedis", "Built 1292–1347, said to enshrine authentic Buddha relics", "Iconic lotus-bud-shaped chedi — the defining Sukhothai architectural style", "UNESCO World Heritage Site since 1991", "Central to the entire Sukhothai Kingdom as its spiritual and political heart"],
+      "type": "Ancient temple ruins",
+      "google_maps_query": "Wat Mahathat Sukhothai Historical Park Thailand",
+      "enriched": true,
+      "address": "Central Zone, Sukhothai Historical Park, Mueang Kao, Mueang Sukhothai District, Sukhothai 64210",
+      "dress_code": "Cover shoulders and knees. Bring a light long-sleeved shirt or scarf to put on before entering temple areas. Sarongs are useful for quick cover. As an outdoor ruin site enforcement is moderate, but respectful dress is expected.",
+      "getting_there": "From Bangkok: VIP bus from Mo Chit terminal (7 hours, 365–500 THB) or fly to Phitsanulok (1 hour), then bus/taxi to Sukhothai (1 hour, 40–60 THB by bus). Within Sukhothai: the historical park is 12 km west of new Sukhothai town — songthaew runs regularly (30 THB). Rent a bicycle at the park entrance (30–50 THB/day) to explore the ruins — the central zone is flat and easy to cycle.",
+      "visitor_tips": [
+        "Rent a bicycle at the park entrance (30–50 THB/day) — the central zone is flat and cycling is by far the best way to explore",
+        "Visit early morning (before 10am) or late afternoon (after 4pm) — the ruins offer almost no shade and midday heat is intense",
+        "The 200 THB central zone ticket covers Wat Mahathat plus all other temples in the walled area — budget 2–3 hours minimum",
+        "The northern and western zones (100 THB each) contain excellent additional temples like Wat Si Chum and Wat Saphan Hin if you have time"
+      ],
+      "nearby_temples": []
     }
   ],
   "tips": [
