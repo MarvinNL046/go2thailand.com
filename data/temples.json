@@ -398,7 +398,7 @@
         "Combine with nearby Wat Phra Sri Sanphet and Wat Ratchaburana for a half-day temple circuit",
         "Bring sunscreen, water, and a hat — the ruins offer almost no shade and Ayutthaya is significantly hotter than Bangkok"
       ],
-      "nearby_temples": ["wat-phra-sri-sanphet", "wat-chaiwatthanaram"]
+      "nearby_temples": ["wat-phra-sri-sanphet", "wat-chaiwatthanaram", "wat-ratchaburana"]
     },
     {
       "rank": 18,
@@ -447,6 +447,30 @@
         "This is one of the most affordable Ayutthaya temples at just 20 THB — good first stop on a temple circuit"
       ],
       "nearby_temples": ["wat-mahathat-ayutthaya", "wat-chaiwatthanaram", "wat-phra-sri-sanphet"]
+    },
+    {
+      "rank": 20,
+      "slug": "wat-ratchaburana",
+      "name": "Wat Ratchaburana",
+      "city": "Ayutthaya",
+      "city_slug": "ayutthaya",
+      "entry_fee": "50 THB (foreigners)",
+      "opening_hours": "8:00am–5:00pm daily",
+      "description": "Built in 1424 by King Borommarachathirat II on the cremation site of his two elder brothers — who killed each other in a duel for the royal succession — Wat Ratchaburana is one of the most historically significant temples in Ayutthaya. The imposing central Khmer-style prang still retains original stucco work depicting Garuda, naga, and mythical creatures. A steep stairway on the eastern side leads down to a concealed crypt containing some of Thailand's oldest surviving mural paintings (15th century), depicting the Buddhist cosmos with demons, deities, and scenes from the life of the Buddha. Most treasures found in the crypt, including golden royal tablets, are displayed at the Chao Sam Phraya National Museum nearby.",
+      "key_facts": ["Founded 1424 by King Borommarachathirat II on his brothers' cremation site", "Concealed crypt with 15th-century murals — among Thailand's oldest surviving paintings", "Original Khmer-style stucco work: Garuda, naga, and mythical creatures", "Golden royal tablets found in the crypt — now in Chao Sam Phraya National Museum", "UNESCO World Heritage Site as part of Ayutthaya Historical Park"],
+      "type": "Khmer-influenced temple ruins",
+      "google_maps_query": "Wat Ratchaburana Ayutthaya Thailand",
+      "enriched": true,
+      "address": "Chi Kun Road, Tambon Tha Wa Su Kri, Phra Nakhon Si Ayutthaya District, Ayutthaya 13000 (immediately north of Wat Mahathat on the historical island)",
+      "dress_code": "Cover shoulders and knees. This is an outdoor ruin site so enforcement is relaxed, but respectful dress is expected as a sacred historical site.",
+      "getting_there": "Located on the historical island, immediately north of Wat Mahathat — a 2-minute walk between the two. Same transport as other Ayutthaya temples: bicycle (50 THB/day), tuk-tuk (200 THB/hour), or walk from the train station ferry crossing. From Bangkok: train (1.5–2.5 hours, 15–300 THB) or minivan from Mo Chit (1.5–2 hours).",
+      "visitor_tips": [
+        "Descend the steep stairway into the crypt to see the rare 15th-century murals — one of the few places in Thailand where paintings this old survive",
+        "Combine with Wat Mahathat next door — the two temples are a 2-minute walk apart and share the same entry fee structure",
+        "Visit late afternoon (after 3pm) for softer light on the prang and fewer tour groups",
+        "After visiting, walk to the Chao Sam Phraya National Museum (nearby) to see the golden treasures found in the crypt"
+      ],
+      "nearby_temples": ["wat-mahathat-ayutthaya", "wat-phra-sri-sanphet", "wat-chaiwatthanaram", "wat-yai-chai-mongkol"]
     }
   ],
   "tips": [
