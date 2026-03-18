@@ -262,12 +262,23 @@
       "name": "Tiger Cave Temple (Wat Tham Suea)",
       "city": "Krabi",
       "city_slug": "krabi",
-      "entry_fee": "Free",
-      "opening_hours": null,
-      "description": "A challenging climb of 1,260 steps to an elevation of 278 metres rewards visitors with sweeping views over Krabi province. The temple complex at the base includes caves and shrines set into the limestone karst landscape.",
-      "key_facts": ["1,260 steps", "278m elevation"],
+      "entry_fee": "Free (donations encouraged)",
+      "opening_hours": "5:00am–6:00pm daily",
+      "description": "A challenging climb of 1,260 steps to an elevation of 278 metres rewards visitors with sweeping views over Krabi province. The temple complex at the base includes caves and shrines set into the limestone karst landscape. The lower cave temple houses a tiger paw print in stone — the origin of the name — along with meditation cells used by monks. Founded in 1975, it remains an active meditation centre.",
+      "key_facts": ["1,260 steep steps to the summit (25–45 min climb)", "278m elevation with panoramic views over Krabi, Andaman Sea and karst islands", "Lower cave complex with meditation cells and tiger paw print in stone", "Active meditation centre founded in 1975", "Giant golden Buddha footprint at the summit"],
       "type": "Buddhist temple",
-      "google_maps_query": "Tiger Cave Temple Wat Tham Suea Krabi Thailand"
+      "google_maps_query": "Tiger Cave Temple Wat Tham Suea Krabi Thailand",
+      "enriched": true,
+      "address": "Tambon Krabi Noi, Mueang Krabi District, Krabi 81000 (approximately 8 km northeast of Krabi Town)",
+      "dress_code": "Cover shoulders and knees for the lower temple area. Shorts and sleeveless tops are acceptable for the summit climb given the physical exertion, but avoid swimwear or very revealing clothing. Free sarongs available at the base for those needing cover. Remove shoes before entering temple buildings.",
+      "getting_there": "Located 8 km northeast of Krabi Town, about 15 minutes by car or scooter. From Ao Nang, it's approximately 30 minutes. Tuk-tuk from Krabi Town costs around 200–300 THB one-way. Scooter rental is the cheapest option at 200–300 THB/day. No public bus service directly to the temple.",
+      "visitor_tips": [
+        "Start the climb early morning (before 8am) or late afternoon (after 3pm) to avoid the worst heat — the steps are fully exposed to the sun",
+        "Bring at least 1 litre of water per person — there are no vendors on the stairway",
+        "Watch for macaque monkeys in the lower temple area — they are bold and will grab bags, sunglasses and food",
+        "Wear proper shoes with grip, not flip-flops — the steps are steep, uneven, and can be slippery"
+      ],
+      "nearby_temples": []
     },
     {
       "rank": 13,
