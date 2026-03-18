@@ -216,12 +216,22 @@
       "name": "Wat Rong Seur Ten (Blue Temple)",
       "city": "Chiang Rai",
       "city_slug": "chiang-rai",
-      "entry_fee": "Free",
-      "opening_hours": null,
-      "description": "Unlike the nearby White Temple, the Blue Temple is an actual functioning Buddhist temple. Its striking all-blue interior and exterior make it one of the most visually distinctive temples in Thailand.",
-      "key_facts": ["All-blue interior and exterior", "Functioning Buddhist temple"],
+      "entry_fee": "Free (donations welcome)",
+      "opening_hours": "7:00am–8:00pm daily",
+      "description": "Unlike the nearby White Temple, the Blue Temple is an actual functioning Buddhist temple. Its striking all-blue interior and exterior — with intricate gold detailing and a large white seated Buddha — make it one of the most visually distinctive temples in Thailand. Built by artist Putha Kabkaew, a student of the White Temple's creator, the Blue Temple is newer and less crowded but equally photogenic. A quick visit of about 30 minutes is enough to see everything.",
+      "key_facts": ["All-blue interior and exterior with gold detailing", "Active functioning Buddhist temple (unlike the White Temple)", "Built by Putha Kabkaew — student of White Temple's creator", "Free entry — open 7am to 8pm", "6 km north of Chiang Rai city — 10-min drive"],
       "type": "Buddhist temple",
-      "google_maps_query": "Wat Rong Seur Ten Blue Temple Chiang Rai Thailand"
+      "google_maps_query": "Wat Rong Seur Ten Blue Temple Chiang Rai Thailand",
+      "enriched": true,
+      "address": "306 Moo 2, Maekok Rd, Tambon Rim Kok, Mueang Chiang Rai, Chiang Rai 57100",
+      "dress_code": "Cover shoulders and knees. Avoid tight or revealing clothing. Shoes removed before entering. Free sarongs provided at the entrance for both men and women.",
+      "getting_there": "6 km north of Chiang Rai city centre, about 8–10 min by car. Grab or tuk-tuk costs 80–120 THB each way. Scooter rental ~210 THB/day. Many day tours combine with the White Temple and Baan Dam Museum.",
+      "visitor_tips": [
+        "Visit in the afternoon when tour groups have left and the light brings out the vibrant blue colours",
+        "Allow 30 minutes — it's smaller than the White Temple but the interior is equally impressive",
+        "Combine with White Temple (22 min away) and Baan Dam Museum (17 min) for a half-day Chiang Rai art circuit"
+      ],
+      "nearby_temples": ["wat-rong-khun"]
     },
     {
       "rank": 11,
