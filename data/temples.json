@@ -310,12 +310,23 @@
       "name": "Phanom Rung Historical Park",
       "city": "Buriram",
       "city_slug": "buriram",
-      "entry_fee": "100 THB",
-      "opening_hours": null,
-      "description": "A Khmer temple complex built from laterite and sandstone, Phanom Rung resembles the architecture of Angkor Wat in Cambodia. Situated on an extinct volcano, it is one of the finest examples of Khmer architecture in Thailand.",
-      "key_facts": ["Khmer architecture", "Resembles Angkor Wat", "Built from laterite and sandstone"],
+      "entry_fee": "100 THB (foreigners), 20 THB (Thais)",
+      "opening_hours": "6:00am–6:00pm daily",
+      "description": "A Khmer temple complex built between the 10th and 13th centuries from laterite and sandstone, Phanom Rung sits on the rim of an extinct volcano at 402 metres elevation. The architecture closely resembles Angkor Wat in Cambodia and is considered the finest example of Khmer architecture in Thailand. The complex was originally a Hindu shrine dedicated to Shiva, connected to the Angkor empire by an ancient road. An annual solar alignment event in April sees the sun shine through all 15 doorways of the main sanctuary.",
+      "key_facts": ["Built 10th–13th century as a Hindu shrine dedicated to Shiva", "Set on the rim of an extinct volcano at 402m elevation", "Finest example of Khmer architecture in Thailand — comparable to Angkor Wat", "Annual solar alignment through 15 doorways (April)", "Connected to the Angkor empire via an ancient road network"],
       "type": "Khmer temple",
-      "google_maps_query": "Phanom Rung Historical Park Buriram Thailand"
+      "google_maps_query": "Phanom Rung Historical Park Buriram Thailand",
+      "enriched": true,
+      "address": "Ta Pek Subdistrict, Chaloem Phra Kiat District, Buriram Province 31110 (approximately 77 km south of Buriram city)",
+      "dress_code": "Cover shoulders and knees — no tank tops or very short shorts. Men should wear long pants and shirts with sleeves. This is enforced more strictly than at many other Thai temples as it is a national historical park.",
+      "getting_there": "From Bangkok: bus from Mo Chit terminal to Nang Rong (5–6 hours, 250–350 THB), then songthaew (300–400 THB round trip) or motorbike taxi (150–200 THB) to the park. By train: Bangkok to Buriram (6–8 hours, 90–1,000 THB depending on class), then taxi to the park (800–1,200 THB return). Car rental or motorbike from Nang Rong (250–300 THB/day) is the most flexible option. Grab availability is limited near the park.",
+      "visitor_tips": [
+        "Visit during the cool season (November–February) — the exposed stone terraces have almost no shade and are brutal in the hot season",
+        "Bring water and wear comfortable shoes with grip — there are numerous steep steps and uneven stone surfaces",
+        "The annual Phanom Rung Festival (April) features the solar alignment through all 15 doorways — spectacular but very crowded",
+        "Don't climb on the carvings or stone structures — this is a protected national heritage site"
+      ],
+      "nearby_temples": []
     },
     {
       "rank": 15,
