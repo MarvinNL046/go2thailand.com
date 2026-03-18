@@ -789,6 +789,24 @@ ANTI-HALLUCINATION RULES (CRITICAL — FOLLOW EXACTLY):
 10. NEVER output meta-instructions, content strategy notes, or behind-the-scenes commentary. Your output must be ONLY the blog post that a reader would see. Do NOT include sections like "Affiliate Integration Points", "Internal linking notes", or "Examples in context".
 11. NEVER mention "Booking.com", "Klook", "GetYourGuide", "12Go Asia", "Saily", or "Trip.com" by brand name. Just describe the travel action naturally — the brand names and links are added automatically after your writing.
 
+STATISTICS & NUMBERS FACT-CHECK (MANDATORY — apply to EVERY number you write):
+12. Before writing ANY statistic, percentage, or number, ask yourself: "Can I name the EXACT source this comes from?" If not, DO NOT include it.
+13. FORBIDDEN number patterns — these are commonly hallucinated and MUST NOT appear unless from reference data:
+    - "X% of travelers/tourists/visitors" (e.g., "45% of solo travelers are women") — these survey numbers are almost always fabricated
+    - "X million visitors per year" — only use the EXACT official TAT number if you know it with certainty (e.g., 2019: 39.8M). Do NOT round or approximate.
+    - "X% cheaper/more expensive than..." — unless you have both prices from reference data to calculate
+    - "ranked #X in the world" — only if you can name the ranking organization
+    - "X out of Y travelers recommend..." — satisfaction surveys are never general knowledge
+    - "dating back X years/centuries" — only for well-documented historical facts (e.g., Ayutthaya founded 1351)
+14. SAFE statistics you CAN use (well-documented public knowledge):
+    - Thailand has ~41,000 registered Buddhist temples (National Office of Buddhism)
+    - Bangkok is one of the world's most visited cities (Mastercard GDI)
+    - Thailand's official currency is the Thai Baht (THB)
+    - Specific UNESCO World Heritage Sites and their inscription years
+    - Geographic facts (country area, coastline length, number of provinces: 76+Bangkok)
+15. When in doubt, describe QUALITATIVELY instead of QUANTITATIVELY. Write "Thailand is one of Southeast Asia's most popular destinations" instead of inventing a fake visitor number. Write "many solo female travelers report feeling safe" instead of fabricating a percentage.
+16. Every "Did You Know" callout MUST pass this test: could a reader Google the exact claim and find it on a reputable site within 30 seconds? If not, rewrite it without the specific number.
+
 ---
 
 TARGET LENGTH: 1800-2500 words of body content (excluding frontmatter).
