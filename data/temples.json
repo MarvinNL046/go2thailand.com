@@ -1,7 +1,7 @@
 {
   "title": "Thailand Temples — Must-Visit Sacred Sites",
-  "meta_description": "Guide to 16 must-visit temples across Thailand with entry fees, opening hours and key facts. From Bangkok's Wat Pho to Chiang Rai's White Temple.",
-  "intro": "After visiting dozens of temples across Thailand over multiple trips, these 16 stand out as the ones that left the deepest impression. Each has its own character — from the ancient Khmer stonework of Phanom Rung to the contemporary all-white vision of Wat Rong Khun. I've included real entry fees, opening hours where available, and the practical details you need to plan your visits. Thai temples are active places of worship, so approach them with the same respect you'd bring to any sacred site.",
+  "meta_description": "Guide to 17+ must-visit temples across Thailand with entry fees, opening hours and key facts. From Bangkok's Wat Pho to Ayutthaya's ancient ruins.",
+  "intro": "After visiting dozens of temples across Thailand over multiple trips, these stand out as the ones that left the deepest impression. Each has its own character — from the ancient Khmer stonework of Phanom Rung to the contemporary all-white vision of Wat Rong Khun. I've included real entry fees, opening hours where available, and the practical details you need to plan your visits. Thai temples are active places of worship, so approach them with the same respect you'd bring to any sacred site.",
   "items": [
     {
       "rank": 1,
@@ -254,7 +254,7 @@
         "Rent a bicycle in Ayutthaya to cover multiple temples easily — Wat Mahathat and Wat Ratchaburana are nearby",
         "Don't miss adjacent Viharn Phra Mongkhon Bophit — a 12.6m bronze seated Buddha, free entry"
       ],
-      "nearby_temples": []
+      "nearby_temples": ["wat-mahathat-ayutthaya"]
     },
     {
       "rank": 12,
@@ -375,6 +375,30 @@
         "The temple sustained fire damage in early 2025 — some areas may still be under renovation with scaffolding"
       ],
       "nearby_temples": []
+    },
+    {
+      "rank": 17,
+      "slug": "wat-mahathat-ayutthaya",
+      "name": "Wat Mahathat (Ayutthaya)",
+      "city": "Ayutthaya",
+      "city_slug": "ayutthaya",
+      "entry_fee": "50 THB (foreigners), 10 THB (Thais)",
+      "opening_hours": "8:00am–5:00pm daily",
+      "description": "One of the most photographed temples in Thailand, Wat Mahathat is famous for the serene Buddha head entwined in the roots of a bodhi tree. Dating from the late 14th century during the reign of King Borommaracha I, it was once one of the most important temples in the Ayutthaya Kingdom and housed a relic of the Buddha. The ruins include the remains of the main prang (which collapsed), rows of headless Buddha statues, laterite walls, and ornate stucco work. The temple was sacked by the Burmese in 1767 when Ayutthaya fell.",
+      "key_facts": ["Famous Buddha head entwined in bodhi tree roots — Thailand's most iconic temple photograph", "Founded late 14th century under King Borommaracha I", "Once housed a relic of the Buddha in the main prang", "Sacked by the Burmese in 1767 during the fall of Ayutthaya", "UNESCO World Heritage Site as part of Ayutthaya Historical Park"],
+      "type": "Khmer-influenced temple ruins",
+      "google_maps_query": "Wat Mahathat Ayutthaya Thailand",
+      "enriched": true,
+      "address": "Tha Wasukri, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000 (within Ayutthaya Historical Park)",
+      "dress_code": "Cover shoulders and knees — no tank tops, short shorts, or sleeveless shirts. Enforcement is less strict than at active Bangkok temples since this is an outdoor ruin site, but respectful dress is expected. A light scarf is useful for unplanned temple visits.",
+      "getting_there": "From Bangkok: train from Hua Lamphong or Bang Sue station to Ayutthaya (1.5–2.5 hours, 15–300 THB depending on class — the 8:30am express takes 77 minutes). Minivan from Mo Chit terminal (1.5–2 hours, around 60–80 THB). Once in Ayutthaya, rent a bicycle (50 THB/day) or hire a tuk-tuk (200 THB/hour) to explore the ruins. Wat Mahathat is centrally located within the historical park, walkable from the train station ferry crossing.",
+      "visitor_tips": [
+        "When photographing the Buddha head in the tree, kneel or crouch so your head is below the Buddha's — this shows respect in Thai culture",
+        "Arrive early (8am) to have the Buddha head tree to yourself — tour buses from Bangkok arrive from 10am onwards",
+        "Combine with nearby Wat Phra Sri Sanphet and Wat Ratchaburana for a half-day temple circuit",
+        "Bring sunscreen, water, and a hat — the ruins offer almost no shade and Ayutthaya is significantly hotter than Bangkok"
+      ],
+      "nearby_temples": ["wat-phra-sri-sanphet"]
     }
   ],
   "tips": [
