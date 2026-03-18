@@ -359,11 +359,22 @@
       "city": "Pai",
       "city_slug": "pai",
       "entry_fee": "Free",
-      "opening_hours": null,
-      "description": "A hilltop temple east of Pai town, reached by climbing 353 steps. The giant white Buddha statue at the top overlooks the Pai valley and surrounding mountains.",
-      "key_facts": ["Giant white Buddha statue", "353 steps"],
+      "opening_hours": "6:00am–6:00pm daily",
+      "description": "A hilltop temple east of Pai town, reached by climbing 353 steps flanked by a Naga (serpent) balustrade. The white Buddha statue — Phra Phuttha Lokuttara Maha Muni — sits in the Mara-Vijaya (victory over temptation) posture and is visible from across the valley. The summit offers 360-degree panoramic views over Pai's rice fields, winding river, and surrounding mountains. A white stupa and smaller shrines sit alongside the main statue.",
+      "key_facts": ["353 steps via a Naga staircase to the hilltop", "White Buddha statue (Phra Phuttha Lokuttara Maha Muni) visible from across Pai", "360° panoramic views over rice fields, river, and mountain ranges", "Free entry — donations appreciated", "Small market at the base selling handmade hats and scarves"],
       "type": "Buddhist temple",
-      "google_maps_query": "Wat Phra That Mae Yen Pai Thailand"
+      "google_maps_query": "Wat Phra That Mae Yen Pai Thailand",
+      "enriched": true,
+      "address": "Mae Hi, Pai District, Mae Hong Son 58130 (approximately 2 km east of Pai town centre)",
+      "dress_code": "Cover shoulders and knees. Sarongs available for rent at the base of the stairs for a small fee. Remove shoes at the top — the floor can be extremely hot in the afternoon sun, so consider bringing socks.",
+      "getting_there": "About 2 km east of Pai town centre — walkable in 20–30 minutes, or a quick scooter/motorbike ride. You can drive up a winding paved road to the top, or climb the 353-step Naga staircase from the base. Parking available near the base of the steps. Scooter rental in Pai costs 150–250 THB/day. No public transport runs to the temple.",
+      "visitor_tips": [
+        "Visit at sunrise for the best light and a peaceful experience with few other visitors",
+        "The floor at the top gets scorching hot in the afternoon — bring socks or visit in the morning",
+        "Bring water for the climb — the 353 steps are steep and exposed, especially in the hot season",
+        "The temple sustained fire damage in early 2025 — some areas may still be under renovation with scaffolding"
+      ],
+      "nearby_temples": []
     }
   ],
   "tips": [
