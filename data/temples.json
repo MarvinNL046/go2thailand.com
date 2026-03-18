@@ -334,12 +334,23 @@
       "name": "Sanctuary of Truth",
       "city": "Pattaya",
       "city_slug": "pattaya",
-      "entry_fee": null,
-      "opening_hours": null,
-      "description": "An ongoing construction project and artistic masterpiece, the Sanctuary of Truth is built entirely from hand-carved wood without the use of nails. The structure sits on the oceanfront in Pattaya and blends religious and philosophical themes from across Asia.",
-      "key_facts": ["Ongoing masterpiece", "Hand-carved wood", "No nails used", "Oceanfront location"],
+      "entry_fee": "500 THB (adults), 250 THB (children)",
+      "opening_hours": "8:00am–6:00pm daily",
+      "description": "An ongoing construction project and artistic masterpiece, the Sanctuary of Truth is built entirely from hand-carved wood without the use of nails. Towering at 105 metres, it sits on the oceanfront in north Pattaya and blends religious and philosophical themes from four traditions: Thai, Khmer, Chinese, and Indian. Construction began in 1981 under the vision of Thai businessman Lek Viriyaphant and is still not complete — artisans continuously carve and replace weathered sections. Guided tours in English, Thai, Russian, and Chinese are included with admission.",
+      "key_facts": ["105m tall — one of the largest all-wood structures in the world", "Built entirely from hand-carved wood without nails", "Construction ongoing since 1981 — artisans work on-site daily", "Blends Buddhist, Hindu, Khmer, and Chinese religious art and philosophy", "Guided tours included with admission in 4 languages"],
       "type": "Wooden temple / art",
-      "google_maps_query": "Sanctuary of Truth Pattaya Thailand"
+      "google_maps_query": "Sanctuary of Truth Pattaya Thailand",
+      "enriched": true,
+      "address": "206/2 Pattaya-Na Kluea Road, Muang Pattaya, Bang Lamung District, Chon Buri 20150",
+      "dress_code": "Cover shoulders and knees — no shorts, short skirts, or tank tops. Sarongs and shawls available on-site with a 200 THB refundable deposit. Hard hats are provided and required inside the structure (active construction site).",
+      "getting_there": "Located in north Pattaya, 15–20 minutes from central Pattaya by Grab or Bolt (around 100–150 THB). Motorcycle taxis available for quick access. From Bangkok: bus from Ekamai or Mo Chit terminal to Pattaya (2 hours, around 320 THB), then local transport to the site. Taxi from Bangkok costs around 1,200 THB one-way (1.5 hours).",
+      "visitor_tips": [
+        "Visit early morning (8am) or late afternoon (after 3pm) for cooler temperatures and fewer crowds",
+        "Wear comfortable shoes — there is extensive walking on wooden floors and outdoor paths",
+        "Book tickets online in advance for a discount on the 500 THB entry fee",
+        "Budget at least 1.5–2 hours for the guided tour and to properly appreciate the carvings"
+      ],
+      "nearby_temples": []
     },
     {
       "rank": 16,
