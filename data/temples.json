@@ -239,12 +239,22 @@
       "name": "Wat Phra Sri Sanphet",
       "city": "Ayutthaya",
       "city_slug": "ayutthaya",
-      "entry_fee": "220 THB (Ayutthaya day pass)",
-      "opening_hours": null,
-      "description": "The most important temple in the ancient city of Ayutthaya, Wat Phra Sri Sanphet stands among the ruins of the former capital. Its three iconic chedis are the enduring symbol of Ayutthaya's historical grandeur.",
-      "key_facts": ["Most important Ayutthaya temple", "Ancient city ruins"],
+      "entry_fee": "50 THB",
+      "opening_hours": "8:00am–6:00pm daily",
+      "description": "The most important temple in the ancient city of Ayutthaya, Wat Phra Sri Sanphet was the royal temple within the old Grand Palace grounds. Its three iconic Sri Lankan-style chedis — containing the ashes of three Ayutthaya kings — are the enduring symbol of the former capital's grandeur. Destroyed by the Burmese in 1767, the ruins remain one of Thailand's most significant historical sites and are part of the UNESCO World Heritage Ayutthaya Historical Park.",
+      "key_facts": ["Three Sri Lankan-style chedis containing royal ashes", "Former royal temple within the Grand Palace grounds", "UNESCO World Heritage — Ayutthaya Historical Park", "Destroyed by Burmese in 1767 — ruins preserved", "Adjacent to Viharn Phra Mongkhon Bophit (12.6m bronze Buddha)"],
       "type": "Buddhist temple",
-      "google_maps_query": "Wat Phra Sri Sanphet Ayutthaya Thailand"
+      "google_maps_query": "Wat Phra Sri Sanphet Ayutthaya Thailand",
+      "enriched": true,
+      "address": "Tambon Pratuchai, Phra Nakhon Si Ayutthaya District, Ayutthaya 13000",
+      "dress_code": "Ayutthaya ruins have a relaxed dress code compared to active Bangkok temples, but covering shoulders and knees is still respectful. No strict enforcement — treated more as a historic site than active temple.",
+      "getting_there": "From Bangkok: train from Krung Thep Aphiwat Central Terminal to Ayutthaya (45 min, 35–1,000 THB depending on class). Bus from Mo Chit terminal (1.5 hours, ~160 THB). Drive takes about 1 hour. In Ayutthaya: rent a bicycle (50 THB/day) or hire a tuk-tuk driver (~200 THB/hour for a temple circuit).",
+      "visitor_tips": [
+        "Visit early morning or late afternoon to avoid harsh midday sun — the ruins offer almost no shade",
+        "Rent a bicycle in Ayutthaya to cover multiple temples easily — Wat Mahathat and Wat Ratchaburana are nearby",
+        "Don't miss adjacent Viharn Phra Mongkhon Bophit — a 12.6m bronze seated Buddha, free entry"
+      ],
+      "nearby_temples": []
     },
     {
       "rank": 12,
