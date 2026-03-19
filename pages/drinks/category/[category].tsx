@@ -124,6 +124,7 @@ export default function DrinkCategoryPage({ category, drinks }: CategoryPageProp
         title={`${info.title} - Thai ${category} Drinks & Recipes | Go2Thailand`}
         description={`Discover authentic Thai ${category} drinks and beverages. ${info.description} Learn recipes and find where to try them in Thailand.`}
       >
+        <meta name="robots" content="noindex, follow" />
         <meta name="keywords" content={`Thai ${category}, ${category} drinks Thailand, Thai beverages, ${info.title.toLowerCase()}`} />
       </SEOHead>
 

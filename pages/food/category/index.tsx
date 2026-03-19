@@ -46,6 +46,7 @@ export default function FoodCategoriesIndex() {
         title="Thai Food Categories - Explore Dishes by Type | Go2Thailand"
         description="Browse Thai dishes by category. Explore main dishes, soups, curries, salads, and desserts. Find authentic recipes from all regions of Thailand."
       >
+        <meta name="robots" content="noindex, follow" />
         <meta name="keywords" content="Thai food categories, Thai dishes, Thai recipes, Thai cuisine types, Thai main dishes, Thai soups, Thai curries" />
       </SEOHead>
 

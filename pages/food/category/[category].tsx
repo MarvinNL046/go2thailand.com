@@ -92,6 +92,7 @@ export default function FoodCategoryPage({ category, dishes }: CategoryPageProps
         title={`${info.title} - Authentic Thai ${category.replace('-', ' ')} Recipes | Go2Thailand`}
         description={`Discover authentic Thai ${category.replace('-', ' ')} recipes. ${info.description} Learn to cook traditional dishes from all regions of Thailand.`}
       >
+        <meta name="robots" content="noindex, follow" />
         <meta name="keywords" content={`Thai ${category}, ${category} recipes, Thai cooking, authentic Thai food, ${info.title.toLowerCase()}`} />
       </SEOHead>
 

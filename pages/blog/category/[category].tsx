@@ -34,7 +34,9 @@ export default function BlogCategoryPage({ category, posts }: CategoryPageProps)
       <SEOHead
         title={`${category.charAt(0).toUpperCase() + category.slice(1)} Articles | Go2Thailand`}
         description={`Explore our ${category} articles about Thailand. In-depth travel guides, expert tips, local insights and stories to help plan your perfect Thai trip.`}
-      />
+      >
+        <meta name="robots" content="noindex, follow" />
+      </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">
         <section className="bg-surface-dark text-white">

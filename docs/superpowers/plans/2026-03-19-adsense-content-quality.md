@@ -63,8 +63,8 @@
 - Modify: `pages/food/category/[category].tsx` — add noindex
 - Modify: `pages/drinks/category/[category].tsx` — add noindex
 
-- [ ] **Step 1:** Add noindex to all category/tag listing pages
-- [ ] **Step 2:** Commit: `seo: noindex category and tag listing pages`
+- [x] **Step 1:** Added noindex to 6 listing pages: blog/category/[category], blog/tag/[tag], food/category/[category], food/category/index, drinks/category/[category], drinks/category/index
+- [x] **Step 2:** Commit: `seo: noindex category and tag listing pages`
 
 ---
 

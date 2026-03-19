@@ -34,7 +34,9 @@ export default function BlogTagPage({ tag, posts }: TagPageProps) {
       <SEOHead
         title={`#${tag} Articles | Go2Thailand`}
         description={`Browse all Thailand travel articles tagged "${tag}". Expert guides, local tips and insider knowledge to help you plan an unforgettable trip to Thailand.`}
-      />
+      >
+        <meta name="robots" content="noindex, follow" />
+      </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">
         <section className="bg-surface-dark text-white">

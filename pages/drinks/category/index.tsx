@@ -67,6 +67,7 @@ export default function DrinkCategoriesIndex({ categoryCounts }: DrinkCategories
         title="Thai Drink Categories - Browse by Type | Go2Thailand"
         description="Explore Thai drinks by category. From traditional teas and coffee to tropical juices and Thai beer. Find your perfect Thai beverage."
       >
+        <meta name="robots" content="noindex, follow" />
         <meta name="keywords" content="Thai drink categories, Thai beverages, Thai tea, Thai coffee, Thai beer, Thai juice, Thai drinks by type" />
       </SEOHead>
 
