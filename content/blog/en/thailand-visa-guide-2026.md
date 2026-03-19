@@ -13,7 +13,7 @@ image: "/images/cities/bangkok/business-district-bangkok.webp"
 description: "Complete Thailand visa guide for 2026. Learn about visa-free entry, tourist visas, the new DTV visa, extensions, and tips for a hassle-free arrival."
 featured: true
 readingTime: 8
-lastUpdated: "2026-02-17"
+lastUpdated: "2026-03-18"
 sources:
   - name: "Thai Immigration Bureau"
     url: "https://www.immigration.go.th/"
@@ -31,7 +31,7 @@ Planning a trip to Thailand and confused by **Thailand visa** rules? You are not
 
 | Question | Key Answer |
 |----------|------------|
-| How long can I stay without a visa? | **Visa-free entry** grants **60 days** for 90+ nationalities -- [see details](/visa/visa-free-entry/) |
+| How long can I stay without a visa? | **Visa-free entry** currently grants **60 days** for 90+ nationalities, but is being reduced to **30 days** (date TBD) -- [see details](/visa/visa-free-entry/) |
 | Can I extend my stay? | Yes, a **visa extension** of 30 days costs 1,900 THB at any immigration office -- [extension guide](/visa/visa-extension/) |
 | What is the DTV visa? | The **Destination Thailand Visa** is a **digital nomad** visa offering 180 days per entry -- [full DTV guide](/visa/digital-nomad-visa/) |
 | Which visa for a holiday under 90 days? | Use **visa-free entry** (60 days) + 30-day extension, or apply for a **tourist visa** beforehand -- [tourist visa page](/visa/tourist-visa/) |
@@ -39,7 +39,9 @@ Planning a trip to Thailand and confused by **Thailand visa** rules? You are not
 | What happens if I overstay? | **Overstay** penalties start at 500 THB/day and can lead to multi-year bans from Thailand |
 | Where do I find all visa types? | Our complete [visa overview](/visa/) covers every option with requirements and costs |
 
-## 1. Visa-Free Entry (60 Days)
+## 1. Visa-Free Entry (Currently 60 Days — Changing to 30)
+
+> **UPDATE March 2026:** Thailand has announced that visa-free entry will be **reduced from 60 days back to 30 days**. The exact date of this change has not yet been confirmed. The reason is to crack down on people living and working illegally on tourist entries. Until the change takes effect, the current 60-day entry remains valid. Once implemented, you will get 30 days on arrival + a 30-day extension at immigration = 60 days maximum (down from 90).
 
 As of mid-2024, Thailand extended its **visa-free** stay from 30 to **60 days** for citizens of most Western countries. This applies to passport holders from:
 
@@ -71,7 +73,31 @@ If you know you want to stay longer than 60 days, apply for a [Tourist Visa (TR)
 
 For most travellers from visa-free countries, the [visa-free 60-day entry](/visa/visa-free-entry/) is sufficient. The **tourist visa** mainly benefits those who want the certainty of a pre-approved longer stay.
 
-## 3. Destination Thailand Visa (DTV) -- 180 Days
+## 3. Multiple Entry Visa (MEV) — Up to 270 Days
+
+The **Multiple Entry Visa (MEV)** is a brand-new option in 2026 and is perfect for travelers on a long trip or exploring multiple countries in Southeast Asia. This visa is valid for **6 months** with **unlimited entries**.
+
+**How it works:**
+- Each entry grants **60 days**, extendable by **30 days** at immigration (1,900 THB)
+- After 90 days, you must leave Thailand and re-enter for up to another 90 days
+- The visa end date means your **last entry** must be before that date — not that you must leave the country by then
+- If you enter on day 179 (the day before expiry), you receive another 60+30 days on top of that
+- This means a maximum theoretical stay of close to **270 days**
+
+**Requirements:**
+- Proof of funds (minimum **$2,000 USD** bank balance throughout the statement period)
+- Bank statement
+- Flight bookings or a proposed itinerary
+- Accommodation plans
+- Apply at a Thai embassy or consulate before traveling
+
+**Cost:** $150-250 USD depending on your country. Each 30-day extension at immigration costs 1,900 THB.
+
+The MEV is especially attractive now that [visa-free entry](/visa/visa-free-entry/) is being reduced from 60 to 30 days. If you plan multiple visits within 6 months, this visa offers guaranteed 60-day entries without worrying about being denied at the border.
+
+> **Pro Tip:** The MEV is a much safer option than relying on back-to-back visa-free entries. Immigration officers may question frequent visa-free entries, but an MEV shows you have a legitimate multiple-entry visa.
+
+## 4. Destination Thailand Visa (DTV) -- 180 Days
 
 The **Destination Thailand Visa** launched in 2024 and has been a game-changer for **digital nomads**, remote workers, and long-stay travellers. It allows a stay of **180 days**, extendable once for another 180 days.
 
@@ -91,7 +117,7 @@ The **DTV visa** is a **multiple-entry visa**, meaning you can leave and re-ente
 
 Visit our [DTV visa page](/visa/digital-nomad-visa/) for a full application walkthrough. Popular bases for **digital nomads** include [Bangkok](/city/bangkok/) for its urban energy and coworking spaces, and [Chiang Mai](/city/chiang-mai/) for its affordable cost of living and thriving expat community.
 
-## 4. Other Visa Types
+## 5. Other Visa Types
 
 ### Non-Immigrant Visa B (Business)
 For those working in Thailand with a job offer. Requires a work permit. Usually arranged by your employer.
@@ -111,7 +137,23 @@ A newer option for wealthy individuals, retirees with pensions, remote workers e
 
 Read our complete [visa types overview](/visa/) for details on each option.
 
-## 5. How to Extend Your Stay
+## 6. Tourist Tax & Departure Tax (New in 2026)
+
+### 300 Baht Tourism Fee (Arrival)
+
+Thailand has been discussing a **300 THB (~$9 USD) tourism fee** for foreign visitors for years, and it is likely to begin in 2026 — although no start date has been confirmed yet. This fee will be **added to the cost of your flight ticket**, so you will not need to pay anything separately at the airport.
+
+The tax is intended to fund tourism infrastructure and general maintenance in tourist areas. Thailand is not alone in this: **Japan, Bali, Mexico**, and many cities across **Europe** already charge visitors a similar tourism fee.
+
+> **Note:** This tourism fee does **not** replace dual pricing at tourist attractions. Those separate pricing policies remain in effect.
+
+### 1,120 Baht Departure Tax (From June 2026)
+
+From **June 2026**, a **1,120 THB (~$32 USD) departure tax** will be added to outbound flight tickets. Like the tourism fee, this is built into the ticket price — you do not pay it separately at the airport.
+
+Departure taxes are common worldwide. Combined with rising fuel surcharges, this is another reason to book flights early and compare prices across airlines.
+
+## 7. How to Extend Your Stay
 
 **Visa extensions** are handled at **immigration offices** around Thailand. The main offices are in:
 
@@ -131,18 +173,20 @@ Most **visa extensions** are granted on the spot. The 30-day extension applies t
 
 > **Pro Tip:** **Immigration** offices in smaller cities like [Chiang Mai](/city/chiang-mai/) or Hua Hin are much less crowded than Bangkok. If you can plan your extension around a visit to one of these cities, you will save hours of waiting. Combine it with some sightseeing -- check our [practical info section](/practical-info/) for tips on getting around.
 
-## 6. Border Runs: What You Need to Know
+## 8. Border Runs: What You Need to Know
 
 A "border run" means leaving Thailand and re-entering to get a fresh **entry stamp**. While this was common in the past, **immigration** officials now scrutinize repeated entries more closely.
 
 **Current rules:**
 - You are allowed **2 visa-free land border entries per calendar year**
-- Air entries have no official limit, but a pattern of repeated short stays may raise questions
+- There is **no written law** on how many times you can enter Thailand by air on visa-free entry — but multiple long stays back to back will raise alarms
+- If immigration officers see a pattern suggesting you are living in Thailand, they may **warn you on entry** and make a note on your file. If you come back again without having sorted a proper visa, you may be **denied entry**
 - Officers can refuse entry if they suspect you are living in Thailand without the proper **visa**
+- If you are a genuine holiday visitor coming and going, you will have **no issues** — they can see how often you come and how long you stay
 
 If you plan to stay long-term, the [DTV visa](/visa/digital-nomad-visa/) or a proper Non-Immigrant visa is a far better option than relying on border runs. For information on getting to and from border crossings, see our [transport guide](/transport/).
 
-## 7. Overstay Penalties
+## 9. Overstay Penalties
 
 Do not **overstay** your visa. Thailand enforces **overstay penalties** strictly:
 
@@ -156,7 +200,7 @@ Do not **overstay** your visa. Thailand enforces **overstay penalties** strictly
 
 If caught at an internal checkpoint (not at departure), the penalties are even more severe. Set a reminder on your phone 2 weeks before your stamp expires. If you are unsure about your permitted stay, visit the nearest **immigration** office or check your [visa extension options](/visa/visa-extension/).
 
-## 8. Arrival Tips
+## 10. Arrival Tips
 
 ### At the Airport
 - Fill out the **TM.6 departure card** on the plane (some airports have eliminated this, but it is still in use at most)
@@ -173,20 +217,21 @@ If caught at an internal checkpoint (not at departure), the penalties are even m
 ### After Clearing Immigration
 Once you are through **immigration**, make sure to sort out [transport from the airport](/transport/) to your accommodation, pick up a local [eSIM](/esim/) if you have not already, and consider arranging [travel insurance](/travel-insurance-thailand/) if you have not done so before departure. Our [practical info hub](/practical-info/) covers everything from [ATMs and money](/practical-info/atm-money/) to [health and vaccinations](/practical-info/health-vaccinations/).
 
-## 9. Quick Reference: Which Visa Do You Need?
+## 11. Quick Reference: Which Visa Do You Need?
 
 | Situation | Recommended Visa |
 |-----------|-----------------|
-| Holiday up to 60 days | [Visa-free entry](/visa/visa-free-entry/) |
-| Holiday up to 90 days | [Visa-free](/visa/visa-free-entry/) + [30-day extension](/visa/visa-extension/) |
+| Holiday up to 30 days | [Visa-free entry](/visa/visa-free-entry/) (currently 60 days, changing to 30) |
+| Holiday up to 60 days | [Visa-free](/visa/visa-free-entry/) + [30-day extension](/visa/visa-extension/), or [MEV](/visa/tourist-visa/) |
+| Multiple trips within 6 months | [Multiple Entry Visa (MEV)](/visa/tourist-visa/) — 60 days per entry, unlimited entries |
 | Digital nomad / remote work | [DTV (180 days)](/visa/digital-nomad-visa/) |
 | Studying Thai / Muay Thai | [Education visa (ED)](/visa/education-visa/) |
 | Retiring in Thailand | [Non-Immigrant O](/visa/retirement-visa/) |
 | Working for Thai company | Non-Immigrant B |
 | Long-term luxury stays | [Thailand Elite Visa](/visa/thailand-elite-visa/) |
 
-## 10. Final Thoughts
+## 12. Final Thoughts
 
-Thailand's **visa** system is more welcoming than ever in 2026. For most visitors, the **60-day visa-free entry** (plus a **30-day extension**) is more than enough time to explore the country -- from the temples of [Bangkok](/city/bangkok/) to the beaches of [Koh Phi Phi](/islands/koh-phi-phi/) and the mountains of [Chiang Mai](/city/chiang-mai/). **Digital nomads** and long-stay travellers should look seriously at the **DTV visa**, which offers flexibility that was simply not available a few years ago.
+Thailand's **visa** system continues to evolve in 2026. While the **visa-free entry** is being reduced from 60 to 30 days, the introduction of the **Multiple Entry Visa (MEV)** gives travelers a powerful new option for extended stays. For most short-term visitors, the visa-free entry (plus a 30-day extension) will still be enough to explore the country -- from the temples of [Bangkok](/city/bangkok/) to the beaches of [Koh Phi Phi](/islands/koh-phi-phi/) and the mountains of [Chiang Mai](/city/chiang-mai/). **Digital nomads** and long-stay travellers should look seriously at the **DTV visa**, which offers flexibility that was simply not available a few years ago.
 
 Check our full [visa section](/visa/) for country-specific guides, browse our [practical travel info](/practical-info/) for arrival preparation, or start planning your itinerary with our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/). If you are heading to the islands, our [complete islands overview](/islands/) helps you pick the perfect destination -- whether it is [Koh Samui](/islands/koh-samui/) for luxury resorts, [Koh Tao](/islands/koh-tao/) for diving, or [Koh Lanta](/islands/koh-lanta/) for a laid-back vibe.

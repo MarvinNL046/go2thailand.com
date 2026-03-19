@@ -2,9 +2,9 @@
   {
     "id": 1,
     "slug": "visa-free-entry",
-    "title": { "en": "Visa-Free Entry (60 Days)", "nl": "Visumvrije Toegang (60 Dagen)" },
+    "title": { "en": "Visa-Free Entry (60 → 30 Days)", "nl": "Visumvrije Toegang (60 → 30 Dagen)" },
     "icon": "🛂",
-    "duration": "60 days",
+    "duration": "60 days (changing to 30)",
     "cost": "Free",
     "category": "tourist"
   },
@@ -79,5 +79,14 @@
     "duration": "N/A",
     "cost": "Free",
     "category": "general"
+  },
+  {
+    "id": 10,
+    "slug": "tourist-visa",
+    "title": { "en": "Multiple Entry Visa (MEV)", "nl": "Multiple Entry Visa (MEV)" },
+    "icon": "🔁",
+    "duration": "6 months (60 days per entry)",
+    "cost": "$150-250 USD",
+    "category": "tourist"
   }
 ]

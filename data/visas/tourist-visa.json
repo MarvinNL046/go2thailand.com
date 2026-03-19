@@ -4,8 +4,8 @@
   "icon": "✈️",
   "category": "tourist",
   "description": {
-    "en": "The Thailand Tourist Visa (TR) is a single or multiple-entry visa that allows you to stay in Thailand for 60 days per entry. It is ideal for travelers who want guaranteed entry or who come from countries not eligible for visa-free entry. The multiple-entry version is valid for 6 months and allows unlimited entries during that period.",
-    "nl": "Het Thailand Toeristenvisum (TR) is een visum voor enkele of meervoudige binnenkomst dat je toestaat om 60 dagen per binnenkomst in Thailand te verblijven. Het is ideaal voor reizigers die gegarandeerde toegang willen of uit landen komen die niet in aanmerking komen voor visumvrije toegang. De meervoudige versie is 6 maanden geldig en staat onbeperkt binnenkomsten toe gedurende die periode."
+    "en": "The Thailand Tourist Visa (TR) is a single or multiple-entry visa that allows you to stay in Thailand for 60 days per entry. It is ideal for travelers who want guaranteed entry or who come from countries not eligible for visa-free entry. The new Multiple Entry Visa (MEV) is valid for 6 months with unlimited entries — perfect for travelers exploring Southeast Asia with Thailand as a base. Each entry grants 60 days, extendable by 30 days at immigration. The MEV has become especially attractive now that visa-free entry is being reduced from 60 to 30 days.",
+    "nl": "Het Thailand Toeristenvisum (TR) is een visum voor enkele of meervoudige binnenkomst dat je toestaat om 60 dagen per binnenkomst in Thailand te verblijven. Het is ideaal voor reizigers die gegarandeerde toegang willen of uit landen komen die niet in aanmerking komen voor visumvrije toegang. Het nieuwe Multiple Entry Visa (MEV) is 6 maanden geldig met onbeperkte binnenkomsten — perfect voor reizigers die Zuidoost-Azië verkennen met Thailand als uitvalsbasis. Elke binnenkomst geeft 60 dagen, verlengbaar met 30 dagen bij immigratie. Het MEV is bijzonder aantrekkelijk nu de visumvrije toegang wordt teruggebracht van 60 naar 30 dagen."
   },
   "requirements": [
     {
@@ -41,7 +41,7 @@
     }
   },
   "cost": {
-    "entry": "1,000 THB (~$30 USD) for single entry, 5,000 THB (~$145 USD) for multiple entry",
+    "entry": "1,000 THB (~$30 USD) for single entry, $150-250 USD for the 6-month Multiple Entry Visa (MEV) — cost varies by country",
     "extension": "1,900 THB (~$55 USD) per extension"
   },
   "process": {
@@ -86,7 +86,15 @@
     },
     {
       "question": { "en": "Do I need a Tourist Visa if my country has visa-free entry?", "nl": "Heb ik een toeristenvisum nodig als mijn land visumvrije toegang heeft?" },
-      "answer": { "en": "No, if your country is on the visa-free list (including Netherlands, Belgium, and most EU countries), you can enter Thailand without a visa for 60 days. The Tourist Visa is mainly useful for nationalities not on the visa-free list, or if you want the multiple-entry option for frequent visits.", "nl": "Nee, als je land op de visumvrije lijst staat (inclusief Nederland, Belgie en de meeste EU-landen), kun je Thailand binnenkomen zonder visum voor 60 dagen. Het toeristenvisum is vooral nuttig voor nationaliteiten die niet op de visumvrije lijst staan, of als je de meervoudige binnenkomst-optie wilt voor frequente bezoeken." }
+      "answer": { "en": "With visa-free entry being reduced from 60 to 30 days (date TBD), the Multiple Entry Visa (MEV) is becoming a much more attractive option — even for nationalities that qualify for visa-free entry. The MEV gives you 60 days per entry with a 30-day extension, and unlimited entries over 6 months. If you plan multiple trips or a longer stay, the MEV is worth the $150-250 investment.", "nl": "Nu de visumvrije toegang wordt teruggebracht van 60 naar 30 dagen (datum onbekend), wordt het Multiple Entry Visa (MEV) een veel aantrekkelijkere optie — zelfs voor nationaliteiten die in aanmerking komen voor visumvrije toegang. Het MEV geeft je 60 dagen per binnenkomst met een 30-dagenverlenging, en onbeperkte binnenkomsten gedurende 6 maanden. Als je meerdere reizen of een langer verblijf plant, is het MEV de investering van $150-250 waard." }
+    },
+    {
+      "question": { "en": "What is the new Multiple Entry Visa (MEV) and how does it work?", "nl": "Wat is het nieuwe Multiple Entry Visa (MEV) en hoe werkt het?" },
+      "answer": { "en": "The MEV is a 6-month tourist visa with unlimited entries. Each entry grants 60 days, extendable by 30 days at immigration (1,900 THB). After 90 days you must leave and re-enter for another 90. You need proof of funds (minimum $2,000 bank balance), a bank statement, flight bookings or proposed itinerary, and accommodation plans. Cost is $150-250 USD depending on your country. Apply at a Thai embassy before traveling.", "nl": "Het MEV is een 6 maanden geldig toeristenvisum met onbeperkte binnenkomsten. Elke binnenkomst geeft 60 dagen, verlengbaar met 30 dagen bij immigratie (1.900 THB). Na 90 dagen moet je vertrekken en opnieuw binnenkomen voor nog eens 90. Je hebt bewijs van financiële middelen nodig (minimaal $2.000 banksaldo), een bankafschrift, vliegtickets of een voorgesteld reisschema, en accommodatieplannen. Kosten: $150-250 USD afhankelijk van je land. Aanvragen bij een Thaise ambassade voor vertrek." }
+    },
+    {
+      "question": { "en": "Can I stay longer than 6 months on the MEV?", "nl": "Kan ik langer dan 6 maanden blijven met het MEV?" },
+      "answer": { "en": "Yes, potentially. The visa end date means your last entry must be before that date — it does not mean you must leave the country on that date. So if you enter Thailand on day 179 (one day before the visa expires), you receive another 60 days on arrival, extendable by 30 days. This means you could theoretically stay for close to 270 days. However, it remains to be seen whether this flexibility will continue.", "nl": "Ja, mogelijk wel. De einddatum van het visum betekent dat je laatste binnenkomst voor die datum moet zijn — het betekent niet dat je het land moet verlaten op die datum. Als je Thailand binnenkomt op dag 179 (één dag voor het visum verloopt), ontvang je nog 60 dagen bij aankomst, verlengbaar met 30 dagen. Dit betekent dat je theoretisch bijna 270 dagen zou kunnen verblijven. Het is echter afwachten of deze flexibiliteit blijft bestaan." }
     }
   ],
   "tips": [
@@ -95,7 +103,7 @@
     { "en": "Keep digital copies of all submitted documents in case the embassy requests additional information.", "nl": "Bewaar digitale kopieen van alle ingediende documenten voor het geval de ambassade aanvullende informatie nodig heeft." },
     { "en": "The Thai embassy in The Hague processes visa applications for Dutch residents - check their website for current requirements.", "nl": "De Thaise ambassade in Den Haag verwerkt visumaanvragen voor Nederlandse ingezetenen - controleer hun website voor actuele vereisten." }
   ],
-  "last_updated": "2026-02-17",
+  "last_updated": "2026-03-18",
   "seo": {
     "metaTitle": { "en": "Thailand Tourist Visa 2026: Application, Cost & Requirements", "nl": "Thailand Toeristenvisum 2026: Aanvraag, Kosten & Vereisten" },
     "metaDescription": { "en": "How to apply for a Thailand Tourist Visa in 2026. Single and multiple entry options, e-Visa process, costs, required documents and processing times explained.", "nl": "Hoe vraag je een Thailand Toeristenvisum aan in 2026. Enkele en meervoudige binnenkomst, e-Visum procedure, kosten, vereiste documenten en verwerkingstijden uitgelegd." }

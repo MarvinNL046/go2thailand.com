@@ -32,8 +32,8 @@
   "duration": {
     "initial": "Varies by original visa type",
     "extensions": {
-      "en": "Visa-free entry: +30 days extension. Tourist Visa (TR): +30 days. DTV: +180 days. Non-O/O-A retirement: +1 year. Education Visa: +90 days increments. For border runs, you receive a fresh 60-day visa-free stamp upon re-entry (if eligible).",
-      "nl": "Visumvrije toegang: +30 dagen verlenging. Toeristenvisum (TR): +30 dagen. DTV: +180 dagen. Non-O/O-A pensioen: +1 jaar. Studievisum: +90 dagen stappen. Bij border runs ontvang je een nieuwe 60-dagenvisumvrije stempel bij hernieuwde binnenkomst (als je in aanmerking komt)."
+      "en": "Visa-free entry: +30 days extension (currently 60+30=90 days max, changing to 30+30=60 days max once the reduction takes effect). Tourist Visa (TR) / MEV: +30 days per entry (60+30=90 days per entry). DTV: +180 days. Non-O/O-A retirement: +1 year. Education Visa: +90 days increments. For border runs, you currently receive a fresh 60-day visa-free stamp upon re-entry (this will become 30 days once the change takes effect).",
+      "nl": "Visumvrije toegang: +30 dagen verlenging (momenteel 60+30=90 dagen max, wordt 30+30=60 dagen max zodra de verkorting ingaat). Toeristenvisum (TR) / MEV: +30 dagen per binnenkomst (60+30=90 dagen per binnenkomst). DTV: +180 dagen. Non-O/O-A pensioen: +1 jaar. Studievisum: +90 dagen stappen. Bij border runs ontvang je momenteel een nieuwe 60-dagenvisumvrije stempel bij hernieuwde binnenkomst (dit wordt 30 dagen zodra de wijziging ingaat)."
     }
   },
   "cost": {
@@ -95,7 +95,7 @@
     { "en": "Always get a re-entry permit before leaving Thailand if you have a long-stay visa - otherwise your extension is cancelled.", "nl": "Haal altijd een re-entry permit voordat je Thailand verlaat als je een langverblijfsvisum hebt - anders wordt je verlenging geannuleerd." },
     { "en": "Bring extra passport photos and copies of your passport - you may need them even if not listed in the requirements.", "nl": "Neem extra pasfoto's en kopieen van je paspoort mee - je kunt ze nodig hebben ook als ze niet in de vereisten staan." }
   ],
-  "last_updated": "2026-02-17",
+  "last_updated": "2026-03-18",
   "seo": {
     "metaTitle": { "en": "Thailand Visa Extension & Border Run Guide 2026", "nl": "Thailand Visumverlenging & Border Run Gids 2026" },
     "metaDescription": { "en": "How to extend your Thailand visa in 2026. Step-by-step extension process, border run options, overstay penalties, and immigration office tips.", "nl": "Hoe verleng je je Thailand visum in 2026. Stapsgewijs verlengingsproces, border run opties, overstay-boetes en tips voor het immigratiekantoor." }
