@@ -141,8 +141,8 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
           }}
         />
       </SEOHead>
-      {/* noindex for non-EN locales — transport content is English-only */}
-      {locale !== 'en' && (
+      {/* noindex for non-EN locales and non-popular routes (thin content) */}
+      {(locale !== 'en' || !route.popular) && (
         <Head>
           <meta name="robots" content="noindex, follow" />
         </Head>

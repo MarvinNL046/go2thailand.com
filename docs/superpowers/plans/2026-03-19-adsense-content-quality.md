@@ -32,15 +32,9 @@
 - Modify: `pages/transport/[route].tsx`
 - Reference: `data/transport-routes.json` (has `popular: true/false` flag)
 
-- [ ] **Step 1:** In `pages/transport/[route].tsx`, add noindex meta tag for non-popular routes. The route data already has a `popular` boolean — use it:
-```tsx
-// In the Head section, after existing noindex logic for non-EN locales:
-{!route.popular && (
-  <meta name="robots" content="noindex, follow" />
-)}
-```
-- [ ] **Step 2:** Verify the popular flag exists on routes by checking `data/transport-routes.json`
-- [ ] **Step 3:** Commit: `seo: noindex 176 non-popular transport routes (keep 69 popular)`
+- [x] **Step 1:** In `pages/transport/[route].tsx`, add noindex meta tag for non-popular routes. Combined with existing non-EN locale check into single condition: `(locale !== 'en' || !route.popular)`
+- [x] **Step 2:** Verified: 69 popular, 176 non-popular routes. `popular` boolean exists on all routes.
+- [x] **Step 3:** Commit: `seo: noindex 176 non-popular transport routes (keep 69 popular)`
 
 ### Task 3: noindex thin city subpages
 
