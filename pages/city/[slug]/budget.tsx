@@ -94,6 +94,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
         title={metadata.title}
         description={metadata.description}
       >
+        <meta name="robots" content="noindex, follow" />
         <meta name="keywords" content={`${city.name.en} cost, ${city.name.en} budget, how much does ${city.name.en} cost, ${city.name.en} daily budget, ${city.name.en} travel cost 2026`} />
         <script
           type="application/ld+json"

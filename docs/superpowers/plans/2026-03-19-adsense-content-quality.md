@@ -48,8 +48,8 @@
 - Modify: `pages/city/[slug]/cooking-classes.tsx` — add noindex
 - Modify: `pages/city/[slug]/elephant-sanctuaries.tsx` — add noindex
 
-- [ ] **Step 1:** Add `<meta name="robots" content="noindex, follow" />` to the Head of each thin city subpage listed above. These pages have minimal unique content and are mostly data tables.
-- [ ] **Step 2:** Commit: `seo: noindex thin city subpages (budget, weather/month, niche activities)`
+- [x] **Step 1:** Added `<meta name="robots" content="noindex, follow" />` via SEOHead children to: budget.tsx, muay-thai.tsx, diving-snorkeling.tsx, cooking-classes.tsx, elephant-sanctuaries.tsx, weather/[month].tsx
+- [x] **Step 2:** Commit: `seo: noindex thin city subpages (budget, weather/month, niche activities)`
 
 **Impact:** Removes ~33×6 = ~198 thin pages from index.
 

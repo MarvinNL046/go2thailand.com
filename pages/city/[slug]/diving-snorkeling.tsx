@@ -192,6 +192,7 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
   return (
     <>
       <SEOHead title={title} description={description}>
+        <meta name="robots" content="noindex, follow" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}

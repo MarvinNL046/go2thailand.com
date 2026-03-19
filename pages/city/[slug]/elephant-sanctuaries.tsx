@@ -118,6 +118,7 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
   return (
     <>
       <SEOHead title={title} description={description}>
+        <meta name="robots" content="noindex, follow" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
