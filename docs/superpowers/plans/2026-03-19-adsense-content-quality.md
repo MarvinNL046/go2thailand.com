@@ -91,9 +91,9 @@
 **Files:**
 - Modify: `lib/sitemap.js`
 
-- [ ] **Step 1:** For non-EN/NL locale sitemaps, only include pages that have been properly translated AND are high-value (blog posts, main city index pages, food/drink index). Exclude all city subpages, transport, compare from non-EN/NL sitemaps.
-- [ ] **Step 2:** Rebuild sitemaps and verify counts
-- [ ] **Step 3:** Commit: `seo: slim non-EN locale sitemaps to translated quality pages only`
+- [x] **Step 1:** Reduced non-EN/NL locales to high-value translated pages only (homepage, food, city main, blog). NL reduced from all bilingual pages to focused set (no city subpages). Other locales stripped of static pages, top10, regions.
+- [x] **Step 2:** Verified: NL 972→487, ZH 221→89, DE/FR/RU/JA/KO/TH ~220→~86 each. Total 3,582→2,173 (-39%).
+- [x] **Step 3:** Commit: `seo: slim non-EN locale sitemaps to translated quality pages only`
 
 ---
 
