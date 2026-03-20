@@ -12,18 +12,12 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-01"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/Destinations/Provinces/Ko-Phi-Phi/359"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "National Geographic"
-    url: "https://www.nationalgeographic.com/"
-factCheck:
-  status: "needs-review"
-  flaggedClaims: 47
-  riskLevel: "high"
+  - name: "Ko Phi Phi Le - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Ko_Phi_Phi_Le"
+  - name: "CNN - How conservationists saved Maya Bay"
+    url: "https://edition.cnn.com/travel/article/maya-bay-thailand-recovery-c2e-spc-intl"
+  - name: "TIME - Maya Bay overtourism"
+    url: "https://time.com/6204958/thailand-travel-phi-phi-maya-bay/"
 ---
 While **Phi Phi Islands** conjure images of pristine limestone cliffs and turquoise waters, most visitors never venture beyond Maya Bay's Instagram-famous shores. The reality? These islands offer far more than the crowds suggest—if you know where to look. After spending weeks island-hopping through the Andaman Sea, we've discovered the quieter corners, hidden beaches, and authentic experiences that make Phi Phi genuinely special.
 
@@ -61,9 +55,9 @@ Phi Phi Don is the only inhabited island with permanent residents, shops, restau
 
 **Bamboo Island (Koh Mai Phai)** lies northeast of Phi Phi Don and is a popular day-trip destination. Unlike Phi Phi Le, overnight stays are permitted here, though accommodation is minimal. The beach is stunning—white sand, calm water, and fewer crowds than Maya Bay—but it requires a dedicated boat trip (usually 45 minutes from Tonsai, 800–1,200 THB for private longtail).
 
-> **Did You Know?** Phi Phi Islands receive approximately 2 million visitors annually, with peak months (December–January) seeing over 5,000 visitors per day. Yet 80% of these visitors never leave the Tonsai area.
+> **Did You Know?** At its peak, Maya Bay received up to 5,000 visitors per day — causing such severe damage that 80% of the surrounding coral was destroyed. The bay was closed for over three years (2018–2022) for recovery, and daily visitors are now capped at 4,125 by the Department of National Parks.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/Destinations/Provinces/Ko-Phi-Phi/359)*
+> *Source: [CNN — How conservationists saved Maya Bay](https://edition.cnn.com/travel/article/maya-bay-thailand-recovery-c2e-spc-intl)*
 
 ---
 
@@ -152,9 +146,9 @@ The Phi Phi Islands are part of a protected national park. Follow these guidelin
 - **Maintain distance from sea turtles** (at least 1 meter)
 - **Don't collect shells or souvenirs** from the reef
 
-> **Did You Know?** Phi Phi's coral reefs have experienced 30–40% bleaching during warm water events, particularly in 2016 and 2020. Responsible tourism practices directly impact recovery rates.
+> **Did You Know?** Marine biologists found that 80% of Maya Bay's coral reefs were destroyed by boat traffic and pollution at the peak of overtourism. After the bay's three-year closure, coral is showing strong signs of recovery, with vibrant colors returning and marine life rebounding.
 >
-> *Source: [National Geographic](https://www.nationalgeographic.com/)*
+> *Source: [TIME — Maya Bay overtourism](https://time.com/6204958/thailand-travel-phi-phi-maya-bay/)*
 
 ---
 
@@ -344,7 +338,7 @@ Tonsai Beach's bars are predictable—electronic music, bucket drinks (150–200
 
 **November to April** is the dry season and peak tourist season. Weather is perfect—sunny, warm, minimal rain. Crowds are heaviest December 20–January 5 and around Chinese New Year (late January/early February). Book accommodation well in advance during these periods.
 
-**May to October** is the low season and monsoon period. Rain is frequent but typically brief afternoon showers. Seas can be rough, and some boats reduce service. However, prices drop 30–50%, beaches are nearly empty, and the islands feel genuinely peaceful. If you can tolerate occasional rain, this is when Phi Phi reveals its true character.
+**May to October** is the low season and monsoon period. Rain is frequent but typically brief afternoon showers. Seas can be rough, and some boats reduce service. However, prices drop substantially, beaches are nearly empty, and the islands feel genuinely peaceful. If you can tolerate occasional rain, this is when Phi Phi reveals its true character.
 
 **April and October** are shoulder months—decent weather, moderate crowds, and reasonable prices. These are ideal for budget-conscious travelers seeking a balance.
 
