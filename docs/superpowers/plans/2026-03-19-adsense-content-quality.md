@@ -137,7 +137,9 @@
 8. ~~thailand-with-kids-family-travel-guide.md (67)~~ ✅ DONE — fixed fabricated WHO street food claim with real ScienceDirect study, ATM fee 150-220→220 THB, replaced 3 unverifiable percentages with qualitative language, replaced 5 homepage sources with specific URLs (ScienceDirect, CDC, TDAC, TMD)
 9. ~~15-hidden-gems-thailand-tourists-miss.md (67)~~ ✅ DONE — critical fix: Pai elevation 1,300m→~500m (was more than double!), Koh Chang 2nd→3rd largest island, Isaan tourism "less than 5%"→"2-3%" with source, fixed 2 Did You Know callouts with real sources, replaced 2 unverifiable percentages, replaced 5 homepage sources with specific URLs
 10. ~~songkran-festival-2026-guide.md (66)~~ ✅ DONE — fixed UNESCO terminology ("Representative List" not "Masterpiece") + added inscription date (Dec 2023), replaced unverified "2 million people" with real 2025 data (558K visitors, 725K at Silom+Khao San), fixed Silom attendance with real data (265K/3 days), replaced 6 unverifiable percentages, replaced 5 homepage sources with specific URLs (UNESCO, Nation Thailand, TAT)
-11. (remaining 12 flagged posts, then 32 unflagged)
+11. ~~10-biggest-thailand-travel-mistakes.md (45)~~ ✅ DONE
+12. ~~best-wellness-retreats-thailand-2026.md (32)~~ ✅ DONE — fixed "$4.2B" → $14B wellness tourism (Travel Daily News), "2.5M wellness tourists 2nd in Asia" → 15th globally with 36.4% growth, "35% of revenue" → replaced with verified THB 670B health tourism data (Nation Thailand). All 3 homepage sources replaced.
+13. (remaining 11 flagged posts, then 32 unflagged)
 
 **Important:** This phase will take many cron runs. That's fine — quality over speed. Each post gets its own commit so progress is trackable.
 

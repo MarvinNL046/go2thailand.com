@@ -12,20 +12,12 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-16"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "World Health Organization Wellness Tourism"
-    url: "https://www.who.int/"
-  - name: "International Spa Association"
-    url: "https://www.spaassociation.org/"
-factCheck:
-  status: "needs-review"
-  flaggedClaims: 32
-  riskLevel: "high"
+  - name: "Thailand wellness market reaches $42.7bn - Travel Daily News Asia"
+    url: "https://www.traveldailynews.asia/special-interest-travel/thailand-wellness-market-reaches-42-7bn-in-2024/"
+  - name: "Thailand health tourism surges to THB 670 billion - Nation Thailand"
+    url: "https://www.nationthailand.com/news/tourism/40056290"
+  - name: "Thailand wellness tourism 36.4% growth - Travel And Tour World"
+    url: "https://www.travelandtourworld.com/news/article/thailands-wellness-tourism-market-soars-with-36-4-growth-making-it-the-fastest-growing-destination-for-global-health-seekers/"
 ---
 
 Thailand has quietly become the world's wellness capital—and for good reason. With over 1,000 dedicated **wellness retreats** scattered across the country, from jungle hideaways in the north to beachfront sanctuaries in the south, Thailand offers something for every traveler seeking rejuvenation. Whether you're looking for traditional Thai massage, intensive yoga programs, or comprehensive detox experiences, the options are both abundant and remarkably affordable compared to Western alternatives.
@@ -54,9 +46,9 @@ Thailand's wellness offerings fall into three distinct categories, each with dif
 
 **Traditional Thai Wellness** focuses on time-honored practices like Thai massage, herbal medicine, and Buddhist meditation. These retreats often operate in smaller, more intimate settings and emphasize cultural immersion alongside physical healing. **Modern Wellness Centers** blend Western fitness science with Eastern practices, offering yoga, fitness classes, nutritional counseling, and spa treatments in contemporary facilities. **Specialized Detox & Medical Retreats** provide intensive programs supervised by medical professionals, targeting specific health goals like weight loss, addiction recovery, or chronic disease management.
 
-> **Did You Know?** Thailand attracts over 2.5 million wellness tourists annually, making it the second-largest wellness tourism destination in Asia after Indonesia.
+> **Did You Know?** Thailand's wellness tourism spending grew 36.4% between 2023 and 2024, reaching $14 billion and ranking the country 15th globally for wellness tourism. The broader wellness economy hit $42.7 billion in 2024.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
+> *Source: [Travel Daily News Asia — Thailand wellness market reaches $42.7bn](https://www.traveldailynews.asia/special-interest-travel/thailand-wellness-market-reaches-42-7bn-in-2024/)*
 
 ## 2. Top Wellness Retreat Destinations in Thailand
 
@@ -336,9 +328,9 @@ Luxury retreats offer premium accommodations (often private villas or beachfront
 
 **Best for:** Travelers prioritizing comfort and luxury, those with specific health goals requiring expert supervision, special occasions.
 
-> **Did You Know?** Thailand's wellness tourism industry generates approximately $4.2 billion annually, with wellness retreats accounting for roughly 35% of that revenue.
+> **Did You Know?** Thailand's health tourism sector comprises over 92,000 operators and generated an estimated THB 670 billion in revenue in 2025, according to the Ministry of Tourism and Sports. Wellness tourism is one of the fastest-growing segments, with 36.4% growth between 2023 and 2024.
 >
-> *Source: [Global Wellness Institute](https://www.globalwellnessinstitute.org/)*
+> *Source: [Nation Thailand — Health tourism surges to THB 670 billion](https://www.nationthailand.com/news/tourism/40056290)*
 
 ## 9. Practical Considerations & Honest Assessments
 
