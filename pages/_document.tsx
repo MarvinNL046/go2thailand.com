@@ -30,6 +30,12 @@ export default class MyDocument extends Document<MyDocumentProps> {
             {/* Google Ads/AdSense */}
             <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
             <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+            <script
+              async
+              src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9667530069853985"
+              crossOrigin="anonymous"
+            />
+            <meta name="google-adsense-account" content="ca-pub-9667530069853985" />
 
             {/* Ahrefs Analytics */}
             <script src="https://analytics.ahrefs.com/analytics.js" data-key="E+8IfL9xrF74c70Fe+NC7w" async />
