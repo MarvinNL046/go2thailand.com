@@ -12,25 +12,15 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-05"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "US State Department Travel Advisory"
-    url: "https://travel.state.gov/destinations/thailand/"
-  - name: "Royal Thai Police Tourist Police Division"
+  - name: "Tourist Police Thailand - Hotline 1155"
     url: "https://www.touristpolice.go.th/"
-factCheck:
-  status: "needs-review"
-  flaggedClaims: 17
-  riskLevel: "high"
+  - name: "US State Department - Thailand Travel Advisory"
+    url: "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/thailand-travel-advisory.html"
 ---
 
 After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and island-hopping through the south, our team has encountered nearly every **Thailand travel scam** in the book—and helped countless travelers avoid them. While Thailand remains one of the world's safest and most welcoming destinations, petty scams targeting tourists are real, systematic, and evolving in 2026.
 
-The good news? Armed with knowledge, you can sidestep 99% of them.
+The good news? Armed with knowledge, you can sidestep nearly all of them.
 
 ## Key Takeaways
 
@@ -61,9 +51,9 @@ When you return home and have the stones appraised, they're either synthetic, he
 
 **Never buy gems or jewelry from street recommendations.** If you're genuinely interested in Thai gemstones, visit established dealers in [Bangkok](https://go2-thailand.com/city/bangkok/) with international certifications and verifiable business histories. Ask for certificates from recognized labs (GIA, SSEF, or AGS). If buying high-value items, have them independently appraised before leaving Thailand. Better yet, avoid gem purchases entirely unless you're an expert.
 
-> **Did You Know?** The Tourism Authority of Thailand reports that gem scams account for approximately 30% of all tourist fraud complaints filed with the Tourist Police annually.
+> **Did You Know?** Gem scams are consistently among the most reported tourist fraud cases in Thailand. The Tourist Police (hotline 1155) receives complaints about gem purchases regularly, and multiple embassies — including the US and UK — specifically warn their citizens about this scam in their travel advisories.
 >
-> *Source: [Royal Thai Police Tourist Police Division](https://www.touristpolice.go.th/)*
+> *Source: [US State Department — Thailand Travel Advisory](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/thailand-travel-advisory.html)*
 
 ---
 
@@ -127,7 +117,7 @@ They then offer an alternative: a "local temple" or "better attraction" that's s
 </div>
 
 
-Tourists trust local advice and feel grateful for the "help." The scammer builds rapport, and by the time you realize you've been redirected, you're already at the shop. Refusal to buy feels awkward after they've "helped" you. The shop owner pays the tuk-tuk driver a commission (typically 20–30% of your purchase), incentivizing the scam.
+Tourists trust local advice and feel grateful for the "help." The scammer builds rapport, and by the time you realize you've been redirected, you're already at the shop. Refusal to buy feels awkward after they've "helped" you. The shop owner pays the tuk-tuk driver a commission on your purchase, incentivizing the scam.
 
 ### How to Verify Before You Go
 
@@ -178,9 +168,9 @@ During our time in [Bangkok](https://go2-thailand.com/city/bangkok/), we learned
 
 **Agree on the fare in writing or via Grab's tuk-tuk service** (available in major cities). Use Grab for tuk-tuks whenever possible—prices are fixed and transparent. If you must negotiate, ask your hotel to write your destination in Thai and show it to the driver. Agree on a price before boarding. For short, obvious routes (hotel to nearby restaurant), tuk-tuks are fine; for longer journeys, use Grab.
 
-> **Did You Know?** Grab operates in Thailand with over 2 million active drivers and has reduced transport-related scams by an estimated 60% since its launch in the country.
+> **Did You Know?** Grab is widely used across Thailand and has become the go-to alternative to negotiating with tuk-tuk and taxi drivers. The app shows your route, fare, and driver details upfront — eliminating most opportunities for overcharging or detour scams.
 >
-> *Source: [Grab Southeast Asia Operations Report 2025](https://www.grab.com/)*
+> *Source: [Grab Thailand](https://www.grab.com/th/en/)*
 
 ---
 
@@ -233,7 +223,7 @@ If you genuinely want to support Buddhist temples, visit during morning alms rou
 
 Thailand's currency is the Thai Baht (THB). Exchange rate scams happen in two ways: **Poor exchange rates at tourist-oriented money changers** and **ATM skimming**.
 
-Money changers near tourist hotspots (airport, night markets, tourist beaches) offer rates 5–10% worse than official bank rates. A THB 10,000 withdrawal might net you only USD 270 instead of USD 285. Over a two-week trip, this adds up to USD 50–100 in losses.
+Money changers near tourist hotspots (airport, night markets, tourist beaches) offer rates significantly worse than official bank rates. The difference may seem small per transaction but compounds over a multi-week trip.
 
 ATM skimming is rarer but more serious. Scammers install card readers on ATMs to steal your card details and PIN. You withdraw cash normally, but your card is cloned and drained later.
 
