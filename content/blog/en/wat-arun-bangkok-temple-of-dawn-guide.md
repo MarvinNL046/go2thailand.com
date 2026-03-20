@@ -12,22 +12,14 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-02-28"
 sources:
-  - name: "Tourism Authority of Thailand"
+  - name: "Wat Arun - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Wat_Arun"
+  - name: "Wat Arun Ratchawararam - ThaiWebsites"
+    url: "https://www.thaiwebsites.com/watarun.asp"
+  - name: "TAT - Wat Arun Ratchawararam"
     url: "https://www.tourismthailand.org/Attraction/wat-arun-ratchawararam-ratchawaramahawihan"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
-  - name: "Go2Thailand Bangkok Guide"
-    url: "https://go2-thailand.com/city/bangkok/"
-factCheck:
-  status: "needs-review"
-  flaggedClaims: 48
-  riskLevel: "high"
 ---
-Watch the sunrise paint **Wat Arun** in shades of gold and orange, and you'll understand why this 280-year-old temple earned its nickname: the Temple of Dawn. Perched on the Thon Buri side of the Chao Phraya River, this iconic spire rises 79 meters above the water, its intricate porcelain-encrusted prang visible from across [Bangkok](https://go2-thailand.com/city/bangkok/). Whether you're a first-time visitor or a seasoned Thailand traveler, Wat Arun is non-negotiable—but there's far more to this temple than Instagram-worthy photos.
+Watch the sunrise paint **Wat Arun** in shades of gold and orange, and you'll understand why this 280-year-old temple earned its nickname: the Temple of Dawn. Perched on the Thon Buri side of the Chao Phraya River, this iconic spire rises approximately 82 meters above the water, its intricate porcelain-encrusted prang visible from across [Bangkok](https://go2-thailand.com/city/bangkok/). Whether you're a first-time visitor or a seasoned Thailand traveler, Wat Arun is non-negotiable—but there's far more to this temple than Instagram-worthy photos.
 
 ## Key Takeaways
 
@@ -49,7 +41,7 @@ When we visited during the cool season, the temple's spiritual energy was palpab
 
 ### The Prang: Thailand's Most Photogenic Spire
 
-The central prang towers 79 meters and is surrounded by four smaller prangs at each corner, creating a mandala-like silhouette. The structure is decorated with millions of pieces of porcelain and ceramic—a technique called "kranok"—which catches the light differently throughout the day. At sunrise, the tiles glow amber and gold. By midday, they're brilliant white. At sunset, they turn deep orange.
+The central prang towers approximately 82 meters and is surrounded by four smaller prangs at each corner, creating a mandala-like silhouette. The structure is decorated with thousands of pieces of Chinese porcelain and Benjarong ceramics, which catch the light differently throughout the day. At sunrise, the tiles glow amber and gold. By midday, they're brilliant white. At sunset, they turn deep orange.
 
 ### A Temple Born from War and Transition
 
@@ -57,7 +49,7 @@ Wat Arun's significance extends beyond its architecture. The temple marks the bo
 
 > **Did You Know?** Wat Arun was originally called Wat Chaeng, meaning "Temple of the Dawn," but was renamed Wat Arun Ratchawararam when it became a royal temple. The name "Arun" comes from the Hindu god Aruna, the personification of dawn.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/Attraction/wat-arun-ratchawararam-ratchawaramahawihan)*
+> *Source: [Wat Arun — Wikipedia](https://en.wikipedia.org/wiki/Wat_Arun)*
 
 ## 2. Getting There: River Crossings & Transport Options
 
@@ -174,7 +166,7 @@ Four smaller prangs surround the central spire at each cardinal direction. These
 
 > **Did You Know?** The porcelain tiles covering Wat Arun's prangs were imported from China during the Ayutthaya and early Bangkok periods. Each tile was hand-placed by artisans, making the prang a masterpiece of decorative craftsmanship.
 >
-> *Source: [Thailand Blog](https://thailandblog.nl/en/)*
+> *Source: [Wat Arun Ratchawararam — ThaiWebsites](https://www.thaiwebsites.com/watarun.asp)*
 
 ## 5. Best Times to Visit: Sunrise, Sunset & Avoiding Crowds
 
