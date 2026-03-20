@@ -12,12 +12,10 @@ featured: false
 readingTime: 14
 lastUpdated: "2026-02-28"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Bangkok Metropolitan Administration"
-    url: "https://www.bangkok.go.th/"
-  - name: "Paddy Doyle (YouTube)"
-    url: "https://www.youtube.com/@PaddyDoyle"
+  - name: "Paddy Doyle — 24 Hours in Talad Noi (YouTube)"
+    url: "https://www.youtube.com/watch?v=vho1vpX0__E"
+  - name: "So Heng Tai House — Google Maps"
+    url: "https://www.google.com/maps/place/So+Heng+Tai+House/"
 ---
 You've probably seen it on Instagram or TikTok—colourful murals of cats, rust-stained walls covered in street art, and hipster cafés tucked inside century-old shophouses. That's **Talad Noi**, one of [Bangkok's](https://go2-thailand.com/city/bangkok/) oldest and most photogenic neighbourhoods, sitting quietly beside Chinatown along the banks of the Chao Phraya River. But is there more to discover here than just a few cafés and pretty paintings? After spending a full 24 hours exploring every alley, eating at street stalls, sleeping in a converted heritage guesthouse, and drinking cocktails on a rooftop at sunset—the answer is a resounding yes.
 
@@ -93,7 +91,7 @@ Skip the tourist restaurants and look for the **green flags**: stalls packed wit
 
 > **Did You Know?** Half of Talad Noi borders the Chao Phraya River. You literally cannot get lost—if you keep walking in one direction, you'll reach the river. This makes it one of the most stress-free neighbourhoods in Bangkok to explore on foot.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
+> *Source: [Talad Noi — Google Maps](https://www.google.com/maps/place/Talat+Noi/)*
 
 ## Afternoon (2:00–4:00 PM): Check In and Recharge
 
