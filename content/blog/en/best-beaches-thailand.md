@@ -12,14 +12,12 @@ featured: false
 readingTime: 12
 lastUpdated: "2026-02-18"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
+  - name: "Ko Phi Phi Le - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Ko_Phi_Phi_Le"
+  - name: "Tarutao National Marine Park - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Tarutao_National_Marine_Park"
+  - name: "Thai Meteorological Department"
+    url: "https://www.tmd.go.th/en/"
 ---
 Thailand's coastline stretches over 3,000 kilometers, dotted with some of the world's most breathtaking **beaches in Thailand**. Whether you're seeking turquoise lagoons, limestone cliffs, vibrant nightlife, or untouched wilderness, Thailand's shores deliver experiences that range from backpacker havens to luxury escapes. After three years exploring the Thai islands and countless beach days across the Andaman Sea and Gulf of Thailand, we've compiled this definitive guide to help you find your perfect stretch of sand.
 
@@ -121,9 +119,9 @@ During our visit post-reopening, the bay felt less crowded than pre-closure stor
 - **Cost:** Day trip from Phuket or Krabi: 1,500–2,500 THB (includes boat, guide, lunch)
 - **Limitation:** Daily visitor cap of 5,000 people; book tours in advance during peak season
 
-> **Did You Know?** Maya Bay was closed entirely from June 2018 to January 2022 to allow the ecosystem to recover from overtourism. Seagrass beds and coral have since rebounded significantly.
+> **Did You Know?** Maya Bay was closed entirely from June 2018 to January 2022 to allow the ecosystem to recover from overtourism. Marine biologists found that 80% of the coral had been destroyed at its peak, but seagrass beds and coral have since rebounded significantly.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
+> *Source: [CNN — How conservationists saved Maya Bay](https://edition.cnn.com/travel/article/maya-bay-thailand-recovery-c2e-spc-intl)*
 
 ## 4. Koh Samui — The Developed Island Paradise
 
@@ -185,7 +183,7 @@ When we spent a week on Koh Tao, we were struck by how the diving culture shapes
   </div>
 </div>
 
-**Certification Courses:** Open Water certification costs 9,000–11,000 THB (3 days); Advanced Open Water runs 6,000–8,000 THB. These prices are 30–40% cheaper than Western countries, making Tao a diving education hub.
+**Certification Courses:** Open Water certification costs 9,000–11,000 THB (3 days); Advanced Open Water runs 6,000–8,000 THB. These prices are a fraction of what you'd pay in Western countries, making Tao one of the world's most affordable diving education hubs.
 
 **Dive Sites:** Chumphon Pinnacle (40 meters, advanced) features schools of barracuda and grouper. Hin Wong Pinnacle offers excellent macro photography. Shark Point occasionally rewards divers with reef shark sightings.
 
@@ -351,7 +349,7 @@ The island's three main beaches (Pattaya, Sunrise, and Sunset) each have distinc
 
 > **Did You Know?** Koh Lipe sits within Tarutao National Marine Park, one of Thailand's most pristine marine ecosystems. The park protects over 51 islands and is home to endangered sea turtles and dugongs.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
+> *Source: [Tarutao National Marine Park — Wikipedia](https://en.wikipedia.org/wiki/Tarutao_National_Marine_Park)*
 
 ## 11. Ao Nang, Krabi — The Mainland Beach Hub
 
@@ -523,7 +521,7 @@ Thailand's beaches are affected by two monsoon seasons. The **best time to visit
 
 > **Did You Know?** Thailand's monsoon seasons are reversed between coasts. The southwest monsoon (May–October) affects the Andaman Sea (western beaches), while the northeast monsoon (November–February) affects the Gulf of Thailand (eastern beaches). This means you can always find a good beach somewhere in Thailand.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
+> *Source: [Thai Meteorological Department](https://www.tmd.go.th/en/)*
 
 ## Practical Tips for Beach Hopping
 
