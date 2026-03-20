@@ -12,20 +12,12 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-05"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Thai Immigration Bureau"
-    url: "https://immigration.go.th/"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
-factCheck:
-  status: "needs-review"
-  flaggedClaims: 45
-  riskLevel: "high"
+  - name: "Thailand Digital Arrival Card (TDAC)"
+    url: "https://tdac.immigration.go.th/arrival-card/#/home"
+  - name: "US State Department - Thailand Travel Advisory"
+    url: "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/thailand-travel-advisory.html"
+  - name: "Thailand Immigration Bureau"
+    url: "https://www.immigration.go.th/"
 ---
 
 After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and countless trips island-hopping through the south, our team has seen nearly every **Thailand travel mistake** in the book. We've watched first-time visitors overpay by 300%, miss their trains, fall for scams, and leave Thailand frustrated—when a few simple precautions would have changed everything. This guide distills a decade of collective [experience](https://getyourguide.tpo.lv/GuAFfGGK) into 10 critical mistakes you absolutely must avoid.
@@ -34,9 +26,9 @@ After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-ma
 
 | Question | Answer |
 |----------|--------|
-| **What's the #1 travel mistake in Thailand?** | Not booking accommodation in advance during peak season (Nov-Feb); prices spike 40-60% |
+| **What's the #1 travel mistake in Thailand?** | Not booking accommodation in advance during peak season (Nov-Feb); prices spike dramatically |
 | **How much does a visa cost?** | Visa-free entry for 30-60 days (depends on nationality); Tourist Visa ≈ 2,000 THB (~$57 USD) |
-| **Should I use ATMs or exchange money?** | ATMs offer better rates; expect 220 THB per USD (rates vary); avoid airport exchanges |
+| **Should I use ATMs or exchange money?** | ATMs offer better exchange rates than airport booths; Thai ATMs charge a flat 220 THB foreign withdrawal fee |
 | **Is it safe to travel alone?** | Yes, but avoid night travel, use registered taxis, and stay aware of common scams |
 | **What transport should I book ahead?** | Overnight trains and long-distance buses during holidays; domestic flights 2-4 weeks prior |
 | **How do I [stay connected](https://saily.tpo.lv/rf9lidnE)?** | Buy a local SIM card (≈100-200 THB) or eSIM; 4G coverage is excellent nationwide |
@@ -106,7 +98,7 @@ The mistake: arriving with a fixed budget and spending it all in [Bangkok](https
 
 This is the #1 mistake we see during peak season (November-February). Travelers assume they'll "find something when they arrive," only to discover hotels are fully booked and prices have doubled.
 
-During high season, popular guesthouses in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/) fill 2-4 weeks in advance. Prices spike 40-60% as availability shrinks. We've seen travelers paying 3,500 THB for a room that costs 2,000 THB in low season—simply because they waited.
+During high season, popular guesthouses in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/) fill 2-4 weeks in advance. Prices spike significantly as availability shrinks. We've seen travelers paying 3,500 THB for a room that costs 2,000 THB in low season—simply because they waited.
 
 ### When to Book (Timeline)
 
@@ -170,13 +162,13 @@ For longer distances between cities, use registered bus services or trains. A bu
 
 ## 5. Not Exchanging Money Properly or Using Airport Exchanges
 
-Airport currency exchanges offer the worst rates in Thailand. A typical airport exchange gives you 210 THB per USD; a bank ATM gives you 220-222 THB per USD. That 5% difference compounds quickly on larger amounts.
+Airport currency exchanges offer the worst rates in Thailand. The spread between airport exchange rates and bank ATM rates can be significant — often several percent worse. That difference compounds quickly on larger amounts.
 
 Worse, some travelers exchange large sums at the airport ("just in case"), then carry thousands of baht they don't need. Unused cash is dead money, and carrying large amounts is a security risk.
 
 ### The Right Way to Handle Money
 
-**Use ATMs, not exchange booths.** Every Thai bank has ATMs; they're everywhere. Withdraw 2,000-5,000 THB at a time. Your home bank will charge a small fee (typically $2-3 USD per withdrawal), but the exchange rate is fair and you only carry what you need.
+**Use ATMs, not exchange booths.** Every Thai bank has ATMs; they're everywhere. Withdraw 2,000-5,000 THB at a time. Thai ATMs charge a flat 220 THB fee per foreign withdrawal, and your home bank may add its own fee — but the exchange rate is better than airport or street exchangers.
 
 Avoid airport exchanges entirely. If you must exchange money, do it at a bank in the city (Kasikornbank, Bangkok Bank, Krungsri) or a dedicated money changer—rates are 1-2% better than airports.
 
@@ -330,9 +322,9 @@ Check our [Thailand eSIM guide](https://go2-thailand.com/esim/) for detailed com
 
 ---
 
-> **Did You Know?** Thailand has some of the fastest mobile data speeds in Southeast Asia, with 4G coverage in 95%+ of populated areas.
+> **Did You Know?** Thailand has excellent mobile infrastructure with three major carriers (AIS, True Move, DTAC) providing widespread 4G coverage in cities and towns. A prepaid tourist SIM with data costs just 100-300 THB at any airport or convenience store.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
+> *Source: [AIS Thailand Coverage](https://www.ais.th/)*
 
 ---
 
