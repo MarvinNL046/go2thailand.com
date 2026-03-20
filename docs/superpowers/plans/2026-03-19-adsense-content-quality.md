@@ -135,7 +135,7 @@
 6. ~~best-day-trips-from-bangkok.md (78)~~ ✅ DONE — fixed wild elephants 3,000→4,013-4,422 (Thai FYI 2024 census), Erawan entry 200→300 THB, Khao Yai area 2,168→2,166 km² + UNESCO 2005 date, verified Phra Pathom Chedi 127m + Sukhothai UNESCO 1991, replaced 5 homepage sources with specific URLs (UNESCO, Wikipedia, Thai FYI)
 7. ~~krabi-travel-guide.md (74)~~ ✅ DONE — fixed airport code HKT→KBV (HKT is Phuket!), verified shell cemetery 75M years (TAT source), replaced unverifiable microclimate Did You Know with verified national park facts, replaced 4 unverifiable percentages with qualitative language, replaced 4 homepage sources with specific URLs
 8. ~~thailand-with-kids-family-travel-guide.md (67)~~ ✅ DONE — fixed fabricated WHO street food claim with real ScienceDirect study, ATM fee 150-220→220 THB, replaced 3 unverifiable percentages with qualitative language, replaced 5 homepage sources with specific URLs (ScienceDirect, CDC, TDAC, TMD)
-9. 15-hidden-gems-thailand-tourists-miss.md (67)
+9. ~~15-hidden-gems-thailand-tourists-miss.md (67)~~ ✅ DONE — critical fix: Pai elevation 1,300m→~500m (was more than double!), Koh Chang 2nd→3rd largest island, Isaan tourism "less than 5%"→"2-3%" with source, fixed 2 Did You Know callouts with real sources, replaced 2 unverifiable percentages, replaced 5 homepage sources with specific URLs
 10. songkran-festival-2026-guide.md (66)
 11. (remaining 12 flagged posts, then 32 unflagged)
 
