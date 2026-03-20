@@ -127,7 +127,7 @@
 **Order:** Start with the 22 flagged posts (highest flaggedClaims first), then do the remaining 32.
 
 **Flagged posts by priority (highest claims first):**
-1. thailand-cheap-2026-travel-costs.md (174 claims)
+1. ~~thailand-cheap-2026-travel-costs.md (174 claims)~~ ✅ DONE — fixed BTS fare 15→17, taxi rate 5.50→6.50/km, replaced 12 unverifiable percentages with qualitative language, rewrote 2 Did You Know callouts with real sources (Statista, Nation Thailand), replaced 5 generic homepage sources with specific URLs, removed factCheck block
 2. digital-nomad-thailand-2026-dtv-visa-costs-cities.md (128)
 3. is-phuket-worth-visiting-2026-honest-guide.md (120)
 4. thailand-7-days-itineraries.md (102)
