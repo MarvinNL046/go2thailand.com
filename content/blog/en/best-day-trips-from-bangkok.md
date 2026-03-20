@@ -12,20 +12,14 @@ featured: false
 readingTime: 12
 lastUpdated: "2026-03-03"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
-  - name: "Thai Government Tourism"
-    url: "https://www.tatnews.org/"
-factCheck:
-  status: "needs-review"
-  flaggedClaims: 78
-  riskLevel: "high"
+  - name: "Sukhothai UNESCO World Heritage Site"
+    url: "https://whc.unesco.org/en/list/574/"
+  - name: "Dong Phayayen-Khao Yai Forest Complex - UNESCO"
+    url: "https://whc.unesco.org/en/list/590/"
+  - name: "Phra Pathom Chedi - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Phra_Pathommachedi"
+  - name: "Thailand Wild Elephant Population - Thai FYI"
+    url: "https://www.thai.fyi/2025/01/08/809/wild-elephants-thailand-conservation"
 ---
 
 Stuck in [Bangkok](https://go2-thailand.com/city/bangkok/) for a few days? The Thai capital's sprawling energy is intoxicating, but some of the country's most iconic temples, vibrant floating markets, and natural wonders lie just beyond the city limits. **Best day trips from Bangkok** offer everything from the ancient ruins of Ayutthaya to the limestone cliffs of Kanchanaburi—all reachable in 1-3 hours by car, train, or bus. Our team has explored every corner of Bangkok's surrounding provinces, and we're sharing the 15 most rewarding escapes that deliver genuine Thai culture, stunning temples, and unforgettable experiences without requiring an overnight stay.
@@ -216,7 +210,7 @@ The park is massive—you'll need 4–6 hours to see everything, or rent a golf 
 
 ## 6. Khao Yai National Park: Wildlife, Hiking & Jungle Immersion
 
-Khao Yai, 120 km northeast of Bangkok, is Thailand's oldest and most visited national park. Unlike the temple-focused day trips, Khao Yai offers **genuine jungle immersion**: elephant herds, gibbons, hornbills, and wild boar roam freely. The park covers 2,168 square kilometers of protected forest and sits at the edge of the Dongphayayen-Khao Yai Forest Complex, a UNESCO World Heritage Site.
+Khao Yai, 120 km northeast of Bangkok, is Thailand's oldest and most visited national park. Unlike the temple-focused day trips, Khao Yai offers **genuine jungle immersion**: elephant herds, gibbons, hornbills, and wild boar roam freely. The park covers approximately 2,166 square kilometers of protected forest and sits within the Dong Phayayen-Khao Yai Forest Complex, inscribed as a UNESCO World Heritage Site in 2005.
 
 ### Wildlife & Trekking
 
@@ -252,9 +246,9 @@ This is the "market on the tracks"—vendors set up stalls directly on an active
 
 ---
 
-> **Did You Know?** Maeklong Railway Market has been operating on the same tracks since 1905, making it one of Thailand's oldest markets. The train still runs on its original schedule, and vendors have perfected the art of the quick collapse and setup—it takes less than 2 minutes to clear the tracks.
+> **Did You Know?** The Maeklong Railway line opened in 1905, and the market gradually grew around its tracks. Today, trains pass through the market several times daily, and vendors have perfected the art of the quick collapse — clearing the tracks in under two minutes before setting up again as if nothing happened.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
+> *Source: [Maeklong Railway — Wikipedia](https://en.wikipedia.org/wiki/Mae_Klong_railway_line)*
 
 ---
 
@@ -336,7 +330,7 @@ The full hike to the 7th tier takes 1.5–2 hours and involves wading through co
 
 ### Practical Info
 
-Entry to the park is 200 THB. The nearest town is Kanchanaburi (65 km away). Most visitors combine Erawan with other Kanchanaburi attractions (Bridge Over the River Kwai, War Museum) in a full day trip. Arrive early (7–8 AM) to beat crowds and heat.
+Entry to the park is 300 THB for foreign visitors. The nearest town is Kanchanaburi (65 km away). Most visitors combine Erawan with other Kanchanaburi attractions (Bridge Over the River Kwai, War Museum) in a full day trip. Arrive early (7–8 AM) to beat crowds and heat.
 
 - **Swimming:** The pools are refreshingly cold and perfect for swimming. Bring a change of clothes.
 - **Local Food:** Pack snacks or eat at the park's simple restaurant near the entrance.
@@ -469,7 +463,9 @@ The facility offers elephant rides (30–60 minutes), bathing experiences, feedi
 
 ---
 
-> **Did You Know?** Thailand has approximately 3,000 wild elephants remaining in the country, down from tens of thousands a century ago. Conservation efforts are ongoing, but habitat loss remains a critical threat.
+> **Did You Know?** Thailand's wild elephant population has grown from just 1,797 in 1989 to an estimated 4,013–4,422 in 2024, thanks to conservation efforts. However, this success has created new challenges — wild elephants exited conservation areas over 11,000 times in 2024, leading to significant human-wildlife conflicts.
+>
+> *Source: [Thai FYI — Thailand's Wild Elephant Population Reaches 4,422](https://www.thai.fyi/2025/01/08/809/wild-elephants-thailand-conservation)*
 >
 > *Source: [World Wildlife Fund Thailand](https://www.worldwildlife.org/)*
 
