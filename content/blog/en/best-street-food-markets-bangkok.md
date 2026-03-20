@@ -12,12 +12,10 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-02-26"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
+  - name: "Or Tor Kor Market - TAT"
+    url: "https://www.tourismthailand.org/Attraction/or-tor-kor-market"
+  - name: "Bangkok Street Food Vendors - Nation Thailand"
+    url: "https://www.nationthailand.com/business/economy/40051100"
   - name: "Bangkok Post"
     url: "https://www.bangkokpost.com/"
   - name: "Bangkok Food Guide"
@@ -153,9 +151,9 @@ Or Tor Kor operates daily from early morning (around 5 AM) until early evening (
 - **Less overwhelming**—compared to Yaowarat or Chatuchak, Or Tor Kor feels manageable for first-time visitors
 - **Proximity to Chatuchak**—easily combined with a Chatuchak visit for a full day of eating
 
-> **Did You Know?** Or Tor Kor Market was established in 1910 as a cooperative to support Thai farmers and ensure fair prices. Today, it's considered one of Asia's best farmers' markets and has won multiple international awards for food safety and quality standards.
+> **Did You Know?** Or Tor Kor Market (formally the Agricultural Market Organization) is widely regarded as one of the best fresh markets in Asia. It's known for exceptionally high food safety standards and showcases premium Thai produce from across the country's regions.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
+> *Source: [Or Tor Kor Market — TAT](https://www.tourismthailand.org/Attraction/or-tor-kor-market)*
 
 ## 4. Talad Rot Fai (Train Market): The Vintage Night Market
 
@@ -371,9 +369,9 @@ To maximize your street food experience, consider combining multiple markets in 
 
 This schedule allows you to experience multiple markets, taste diverse dishes, and avoid overwhelming your digestive system. Alternatively, focus on a single market and explore it thoroughly—depth often beats breadth when it comes to street food.
 
-> **Did You Know?** Bangkok has over 14,000 registered street food vendors, making it one of the world's largest street food ecosystems. The industry generates an estimated 60 billion THB annually and employs over 100,000 people directly and indirectly.
+> **Did You Know?** Bangkok's street food ecosystem is one of the world's largest. Authorities estimate the city has tens of thousands of vendors — some counts suggest as many as 170,000 — creating fierce competition that keeps prices remarkably low for both locals and visitors.
 >
-> *Source: [Thailand Blog](https://thailandblog.nl/en/)*
+> *Source: [Nation Thailand — Bangkok Street Food Vendors](https://www.nationthailand.com/business/economy/40051100)*
 
 ## Frequently Asked Questions
 
