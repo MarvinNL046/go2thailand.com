@@ -12,20 +12,12 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-02"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
-  - name: "Thai National News Bureau"
-    url: "https://thainews.prd.go.th/"
-factCheck:
-  status: "needs-review"
-  flaggedClaims: 66
-  riskLevel: "high"
+  - name: "Songkran - UNESCO Intangible Cultural Heritage"
+    url: "https://ich.unesco.org/en/RL/songkran-in-thailand-traditional-thai-new-year-festival-01719"
+  - name: "Maha Songkran 2025 draws 558K visitors - Nation Thailand"
+    url: "https://www.nationthailand.com/news/tourism/40048802"
+  - name: "TAT - Songkran UNESCO declaration"
+    url: "https://www.tatnews.org/2023/12/songkran-in-thailand-declared-an-unesco-intangible-cultural-heritage/"
 ---
 
 Imagine stepping into the streets of **Songkran Festival** — Thailand's most exuberant celebration — where strangers become water-soaked allies, temple blessings blend with playful chaos, and the entire nation pauses to welcome the Buddhist New Year. This isn't just a festival; it's a cultural phenomenon that transforms cities and islands into open-air water parks where tradition meets unbridled joy.
@@ -56,9 +48,9 @@ Beyond the water fights, **Songkran** maintains profound spiritual significance.
 
 The modern **Songkran** experience varies dramatically by location. In [Bangkok](https://go2-thailand.com/city/bangkok/), Silom Road becomes a war zone of water guns and buckets. In [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), the festival stretches across three days with parades, beauty pageants, and traditional water blessings. Rural villages maintain quieter, family-centered traditions. Understanding this spectrum helps you choose the right destination for your Songkran experience.
 
-> **Did You Know?** Songkran is recognized by UNESCO as a Masterpiece of the Oral and Intangible Heritage of Humanity, highlighting its cultural significance beyond Thailand's borders.
+> **Did You Know?** In December 2023, UNESCO inscribed "Songkran in Thailand, traditional Thai New Year festival" on the Representative List of the Intangible Cultural Heritage of Humanity, recognizing its cultural significance beyond Thailand's borders.
 >
-> *Source: [UNESCO Intangible Cultural Heritage](https://ich.unesco.org/)*
+> *Source: [UNESCO — Songkran in Thailand](https://ich.unesco.org/en/RL/songkran-in-thailand-traditional-thai-new-year-festival-01719)*
 
 ## 2. Songkran 2026 Dates and Official Schedule
 
@@ -167,13 +159,13 @@ For a more authentic, less touristy Songkran, consider smaller towns like Sukhot
 
 ## 4. Accommodation Booking Strategy for Songkran 2026
 
-**Songkran is peak season**, and accommodation fills months in advance. We recommend booking 2–3 months ahead (mid-January for April travel). Prices spike 30–50% above normal rates, and availability becomes scarce within 6 weeks of the festival.
+**Songkran is peak season**, and accommodation fills months in advance. We recommend booking 2–3 months ahead (mid-January for April travel). Prices spike well above normal rates, and availability becomes scarce within 6 weeks of the festival.
 
 ### Booking Timeline and Strategy
 
 - **January 15–February 15**: Ideal booking window; good selection; moderate price premiums
-- **February 16–March 15**: Acceptable window; selection narrows; prices rise 40–50%
-- **March 16–April 10**: [Last-minute](https://booking.tpo.lv/pDNjHJA1) availability only; expect 50–70% price premiums; limited choices
+- **February 16–March 15**: Acceptable window; selection narrows; prices rise significantly
+- **March 16–April 10**: [Last-minute](https://booking.tpo.lv/pDNjHJA1) availability only; expect steep price premiums; limited choices
 - **After April 10**: Mostly booked; only cancellations and premium properties available
 
 ### Price Ranges by Destination
@@ -226,9 +218,9 @@ By noon, the water wars begin. Armed with water guns, buckets, and hoses, thousa
 
 Evening brings organized parades, live music, food stalls, and bar celebrations. In [Bangkok](https://go2-thailand.com/city/bangkok/), Silom Road transforms into a massive open-air club. In [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), evening water activities continue around the moat, followed by temple illuminations and cultural performances.
 
-> **Did You Know?** Songkran water battles can involve up to 2 million people in Bangkok alone, making it one of the world's largest water festivals by participation.
+> **Did You Know?** During the 2025 Maha Songkran World Water Festival, over 558,000 visitors attended the official celebrations in just three days, with more than 725,000 people counted at the Silom Road and Khao San Road festival zones combined.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
+> *Source: [Nation Thailand — Maha Songkran 2025 draws 558K visitors](https://www.nationthailand.com/news/tourism/40048802)*
 
 ## 6. Safety, Health, and Practical Considerations
 
@@ -383,7 +375,7 @@ Getting around during **Songkran** requires planning. Traffic congestion, festiv
 **Book transport in advance**: Buses, trains, and flights fill quickly during Songkran. Reserve seats 2–4 weeks ahead.
 
 **Best transport options:**
-- **Flights**: Fastest option; prices spike 30–50%; book early
+- **Flights**: Fastest option; prices spike significantly during Songkran; book early
 - **Trains**: Scenic, comfortable; overnight trains avoid daytime crowds; book 1–2 weeks ahead
 - **Buses**: Most economical; frequent departures; book 1–2 weeks ahead
 - **Driving**: Possible but challenging; roads are congested; consider hiring a driver
@@ -393,7 +385,7 @@ Getting around during **Songkran** requires planning. Traffic congestion, festiv
 - **Taxis and Tuk-tuks**: Expect higher fares (2–3x normal) and longer wait times; negotiate prices beforehand
 - **BTS/MRT (Bangkok)**: Most reliable; avoid peak hours (11 AM–3 PM, 6 PM–8 PM)
 - **Walking**: In festival zones, walking is often faster than vehicles
-- **Grab/Uber**: Available but surge pricing applies; fares increase 50–100% during peak hours
+- **Grab/Uber**: Available but surge pricing applies; expect substantially higher fares during peak hours
 
 ### Avoiding Festival Closures
 
@@ -415,7 +407,7 @@ Major roads close during parades and water activities. Check local news for clos
 
 ### Money-Saving Tips
 
-**Stay outside festival zones**: Accommodation 2–3 km from Silom or Khao San Road costs 30–40% less and offers quieter nights.
+**Stay outside festival zones**: Accommodation 2–3 km from Silom or Khao San Road costs considerably less and offers quieter nights.
 
 **Eat where locals eat**: Street food and local restaurants cost 50–100 THB per meal; tourist restaurants charge 200–500 THB.
 
@@ -447,7 +439,7 @@ Yes, Songkran is generally safe for solo travelers, but exercise caution. Stick 
 
 ### How crowded is Songkran?
 
-Peak crowding occurs April 13–14 in [Bangkok](https://go2-thailand.com/city/bangkok/) and [Chiang Mai](https://go2-thailand.com/city/chiang-mai/). Silom Road in Bangkok can host 100,000+ people daily. If you prefer smaller crowds, celebrate April 11–12 or April 16–17, or choose smaller towns.
+Peak crowding occurs April 13–14 in [Bangkok](https://go2-thailand.com/city/bangkok/) and [Chiang Mai](https://go2-thailand.com/city/chiang-mai/). Silom Road in Bangkok drew over 265,000 visitors across three festival days in 2025. If you prefer smaller crowds, celebrate April 11–12 or April 16–17, or choose smaller towns.
 
 ### Do I need a visa to enter Thailand for Songkran?
 
