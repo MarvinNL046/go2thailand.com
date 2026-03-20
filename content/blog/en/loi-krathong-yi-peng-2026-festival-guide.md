@@ -12,20 +12,12 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-01"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
-  - name: "Sukhothai Historical Park"
-    url: "https://www.sukhothai.go.th/"
-factCheck:
-  status: "needs-review"
-  flaggedClaims: 61
-  riskLevel: "high"
+  - name: "Loy Krathong - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Loy_Krathong"
+  - name: "Sukhothai UNESCO World Heritage Site"
+    url: "https://whc.unesco.org/en/list/574/"
+  - name: "TAT - Loi Krathong Festival"
+    url: "https://www.tourismthailand.org/Articles/loi-krathong-2025-all-area-en"
 ---
 
 Imagine thousands of glowing lanterns rising simultaneously into a starlit sky, each one carrying the wishes and prayers of the person who released it. This is **Loi Krathong and Yi Peng**, Thailand's most enchanting festivals, where ancient tradition meets breathtaking spectacle. If you're planning to [experience](https://getyourguide.tpo.lv/GuAFfGGK) these magical celebrations in 2026, this comprehensive guide will help you navigate the crowds, book strategically, and create memories that last a lifetime.
@@ -38,7 +30,7 @@ Imagine thousands of glowing lanterns rising simultaneously into a starlit sky, 
 | **How much does it cost?** | Festival attendance is free; accommodation ranges from 800-5,000+ THB/night depending on location and comfort level. Lantern kits cost 100-500 THB. |
 | **How do I get there?** | [Fly to](https://trip.tpo.lv/TmObooZ5) [Bangkok](https://go2-thailand.com/city/bangkok/) or [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), then take buses, trains, or domestic flights to festival locations. |
 | **Is it safe?** | Yes. Festivals are well-organized and heavily policed. Avoid pickpockets in crowded areas; use common sense with valuables. |
-| **What should I book in advance?** | Hotels (essential), flights, and organized lantern-release tours. Booking 60+ days ahead saves 30-50% on accommodation. |
+| **What should I book in advance?** | Hotels (essential), flights, and organized lantern-release tours. Booking 60+ days ahead saves significantly on accommodation. |
 | **What's the difference between Loi Krathong and Yi Peng?** | **Loi Krathong** is the nationwide water festival (floating leaf boats). **Yi Peng** is the northern sky lantern festival unique to Chiang Mai and Chiang Rai. |
 
 ---
@@ -51,9 +43,9 @@ Imagine thousands of glowing lanterns rising simultaneously into a starlit sky, 
 
 **Yi Peng**, unique to northern Thailand, is the sky lantern festival where thousands of paper lanterns are released into the night sky. The sight of these glowing orbs ascending together is unforgettable. However, it's important to note that Yi Peng's scale and organization vary by location—some events are officially organized, while others are more spontaneous community celebrations.
 
-> **Did You Know?** Loi Krathong dates back to the 13th century during the Sukhothai Kingdom, making it one of Thailand's oldest and most culturally significant festivals.
+> **Did You Know?** Loi Krathong is traditionally associated with the Sukhothai Kingdom (13th–14th century), though historians debate whether it originated as a Hindu Brahmanical ritual adapted by Thai Buddhists. King Rama IV wrote in 1863 that it was originally a Hindu ceremony to honor the water goddess Mae Kongka.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
+> *Source: [Loy Krathong — Wikipedia](https://en.wikipedia.org/wiki/Loy_Krathong)*
 
 ### The Cultural Significance
 
@@ -149,8 +141,8 @@ Timing is everything when planning a **Loi Krathong and Yi Peng** trip. The fest
 
 **Book 90 days (3 months) before the festival.** This is the sweet spot where prices are still reasonable but availability remains good. For November 2026 festivals, this means booking by August 2026. Here's why this timing matters:
 
-- **60-90 days out:** Hotels offer 20-30% discounts compared to last-minute rates
-- **30-60 days out:** Prices increase 30-50%; availability shrinks
+- **60-90 days out:** Hotels offer the best rates compared to last-minute bookings
+- **30-60 days out:** Prices increase significantly; availability shrinks
 - **14 days out:** Only premium and budget properties remain; expect 2-3x normal rates
 - **Week of festival:** Virtually no availability in popular locations
 
@@ -225,7 +217,7 @@ If targeting Yi Peng in Chiang Mai, proximity to the main venue (MECC) matters l
 - Budget guesthouses outside the Old City
 - Airbnb apartments in residential neighborhoods
 
-**Pro Tip:** Book accommodation in neighborhoods slightly outside the main tourist areas. You'll pay 20-30% less, experience more local atmosphere, and still be within 10-15 minutes of festival venues via tuk-tuk or [songthaew](https://12go.tpo.lv/tNA80urD).
+**Pro Tip:** Book accommodation in neighborhoods slightly outside the main tourist areas. You'll pay considerably less, experience more local atmosphere, and still be within 10-15 minutes of festival venues via tuk-tuk or [songthaew](https://12go.tpo.lv/tNA80urD).
 
 ### Sukhothai Accommodation Strategy
 
@@ -426,7 +418,7 @@ Thailand's festivals are generally safe, but crowds and unfamiliar environments 
 - Don't touch people's heads or point feet at Buddha images
 - Ask permission before photographing people
 
-> **Did You Know?** Thailand has strict laws protecting the monarchy. Disrespectful comments or images can result in fines up to 500,000 THB or imprisonment. Always show respect.
+> **Did You Know?** Thailand's lèse-majesté law (Section 112 of the Criminal Code) carries penalties of 3–15 years imprisonment per offense. Even comments on social media can lead to prosecution. Always show respect toward the monarchy.
 >
 > *Source: [Thailand Practical Information Guide](https://go2-thailand.com/practical-info/etiquette-culture/)*
 
@@ -581,8 +573,8 @@ Understanding costs helps you budget accurately and avoid surprises. Here's what
 - **Krathong or lantern kit:** 100-500 THB
 - **Organized lantern tour:** 1,500-3,500 THB
 - **Festival entrance fees:** Free to 200 THB (most events are free)
-- **Premium accommodation (festival markup):** Add 30-100% to normal rates
-- **Festival dining:** Add 50-100% to normal restaurant prices
+- **Premium accommodation (festival markup):** Expect substantially higher rates than normal
+- **Festival dining:** Expect higher-than-usual restaurant prices
 
 ### Money Management Tips
 
@@ -627,7 +619,7 @@ Sky lanterns are generally safe when released at official venues with proper pre
 
 ### How far in advance should I book accommodation?
 
-Book 90 days (3 months) ahead for the best prices and availability. Booking 60 days ahead is acceptable but prices increase 30-50%. Waiting until 30 days before the festival means limited options and 2-3x normal rates. For popular locations like Chiang Mai, even 90-day booking can be tight.
+Book 90 days (3 months) ahead for the best prices and availability. Booking 60 days ahead is acceptable but prices increase substantially. Waiting until 30 days before the festival means limited options and steep premiums. For popular locations like Chiang Mai, even 90-day booking can be tight.
 
 ### What should I pack for the festivals?
 
