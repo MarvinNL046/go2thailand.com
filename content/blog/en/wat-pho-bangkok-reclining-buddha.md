@@ -12,20 +12,12 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-20"
 sources:
-  - name: "Tourism Authority of Thailand"
+  - name: "Wat Pho - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Wat_Pho"
+  - name: "Wat Pho Official Website - Reclining Buddha"
+    url: "https://www.watpho.com/en/buddha/detail/204"
+  - name: "TAT - Wat Pho"
     url: "https://www.tourismthailand.org/Attraction/wat-phra-chetuphon-wimonmangkalaram-ratchaworamahawihan-or-wat-pho"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "National Office of Buddhism Thailand"
-    url: "https://www.onab.go.th/"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
-factCheck:
-  status: "needs-review"
-  flaggedClaims: 22
-  riskLevel: "high"
 ---
 Imagine stepping into a temple so vast that your footsteps echo off marble floors, then rounding a corner to face a **Reclining Buddha** so enormous—46 meters long—that it fills your entire field of vision. This is **Wat Pho**, Bangkok's most visited temple and one of Thailand's most sacred sites. Located just steps from the Grand Palace in the heart of the old city, Wat Pho isn't just a tourist attraction—it's a living monastery where monks study, meditate, and preserve centuries of Thai Buddhist knowledge.
 
@@ -57,9 +49,9 @@ The reclining position isn't random—it represents Buddha's final moments befor
 
 The 108 designs on the soles of Buddha's feet are one of the temple's most intricate features. In Buddhist tradition, 108 is a sacred number representing the 108 earthly desires that humans must overcome to reach enlightenment. Each inlay tells a different story from Buddhist scripture, and together they form a visual encyclopedia of Buddhist wisdom. During our time exploring the temple, we noticed visitors spending 15–20 minutes just studying these details—it's a meditative practice in itself.
 
-> **Did You Know?** The Reclining Buddha was originally constructed during the reign of King Rama I (1782–1809) and was extensively renovated during King Rama III's reign. The mother-of-pearl inlays were added later to enhance the spiritual and artistic value of the statue.
+> **Did You Know?** Wat Pho is considered the birthplace of traditional Thai massage. The temple has served as a center of education since King Rama III's era and is home to inscriptions and illustrations of massage techniques that formed the basis of what is now UNESCO-recognized Nuad Thai.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/Attraction/wat-phra-chetuphon-wimonmangkalaram-ratchaworamahawihan-or-wat-pho)*
+> *Source: [Wat Pho — Wikipedia](https://en.wikipedia.org/wiki/Wat_Pho)*
 
 ---
 
