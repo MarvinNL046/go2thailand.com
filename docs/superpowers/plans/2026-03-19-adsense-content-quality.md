@@ -129,7 +129,7 @@
 **Flagged posts by priority (highest claims first):**
 1. ~~thailand-cheap-2026-travel-costs.md (174 claims)~~ ✅ DONE — fixed BTS fare 15→17, taxi rate 5.50→6.50/km, replaced 12 unverifiable percentages with qualitative language, rewrote 2 Did You Know callouts with real sources (Statista, Nation Thailand), replaced 5 generic homepage sources with specific URLs, removed factCheck block
 2. ~~digital-nomad-thailand-2026-dtv-visa-costs-cities.md (128)~~ ✅ DONE — fixed DTV income req 40K THB/month→500K THB balance, updated to e-visa system (thaievisa.go.th), min wage 450→337-400 THB/day, 90-day fine 1,600→2,000/5,000 THB, ATM fee standardized to 220 THB, added visa run limit (max 2/year), TDAC requirement, replaced 4 generic sources with specific URLs
-3. is-phuket-worth-visiting-2026-honest-guide.md (120)
+3. ~~is-phuket-worth-visiting-2026-honest-guide.md (120)~~ ✅ DONE — fixed visitor count 9.3M→8.65M (C9 Hotelworks), airport ranking 2nd→3rd busiest, replaced unverifiable seafood Did You Know with verified Big Buddha facts (Wikipedia), replaced 7 unverifiable percentages with qualitative language, replaced 4 homepage sources with specific URLs
 4. thailand-7-days-itineraries.md (102)
 5. solo-female-travel-thailand-safety-tips.md (78)
 6. best-day-trips-from-bangkok.md (78)
