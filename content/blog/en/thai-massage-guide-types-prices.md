@@ -12,18 +12,10 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-19"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Thai Massage Association"
-    url: "https://www.thaimassageassociation.org/"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
-factCheck:
-  status: "needs-review"
-  flaggedClaims: 11
-  riskLevel: "high"
+  - name: "Nuad Thai - UNESCO Intangible Cultural Heritage"
+    url: "https://ich.unesco.org/en/RL/nuad-thai-traditional-thai-massage-01384"
+  - name: "TAT - Thai massage listed as UNESCO heritage"
+    url: "https://www.tatnews.org/2019/12/traditional-thai-massage-listed-as-an-unesco-intangible-cultural-heritage/"
 ---
 ## Thai Massage Guide: Types, Prices & What to Expect (2026)
 
@@ -57,9 +49,9 @@ Thai massage is based on the belief that illness and tension arise from blocked 
 
 Unlike oil-based Swedish or deep tissue massage, traditional Thai massage is performed fully clothed on a padded mat. There's no oil involved in the classic version (though oil massage is a popular variation). The session typically includes stretching sequences that feel like assisted yoga—your therapist will gently guide your body into deeper stretches than you could achieve alone. This combination of acupressure and stretching is what makes Thai massage uniquely effective for flexibility and tension relief.
 
-> **Did You Know?** Thai massage is listed by UNESCO as a Masterpiece of the Oral and Intangible Heritage of Humanity, recognizing its cultural significance and therapeutic value.
+> **Did You Know?** Nuad Thai (traditional Thai massage) was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2019, recognizing its roots in Thai peasant society where village healers treated farmers' muscle aches — a tradition spanning over 2,500 years.
 >
-> *Source: [UNESCO Intangible Cultural Heritage](https://ich.unesco.org/)*
+> *Source: [UNESCO — Nuad Thai, traditional Thai massage](https://ich.unesco.org/en/RL/nuad-thai-traditional-thai-massage-01384)*
 
 ---
 
@@ -447,7 +439,7 @@ How and where you book depends on your location, timeline, and preferences.
 - Reviews from other travelers
 
 **Disadvantages:**
-- Higher prices (20–40% markup)
+- Higher prices (significant markup in tourist areas)
 - Less flexibility in timing
 - May feel less authentic
 
