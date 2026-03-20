@@ -133,7 +133,7 @@
 4. ~~thailand-7-days-itineraries.md (102)~~ ✅ DONE — fixed Erawan entry 200→300 THB, train station name (Hua Lamphong→Krung Thep Aphiwat), train price 15→20 THB, ATM fee 150-220→220 THB, replaced "60-70% lower" with qualitative, added lèse-majesté prison term detail (3-15 years), replaced 4 homepage sources with specific URLs, added specific Numbeo Thailand URL
 5. ~~solo-female-travel-thailand-safety-tips.md (78)~~ ✅ DONE — removed fabricated "45% solo female travelers" stat, fixed visitor count 39.5→39.8M + added 2024 recovery (35.5M), fixed temples to "~41,000" with National Office of Buddhism source, BTS 15→17 THB, ATM 200→220 THB, replaced 5 homepage sources with specific URLs
 6. ~~best-day-trips-from-bangkok.md (78)~~ ✅ DONE — fixed wild elephants 3,000→4,013-4,422 (Thai FYI 2024 census), Erawan entry 200→300 THB, Khao Yai area 2,168→2,166 km² + UNESCO 2005 date, verified Phra Pathom Chedi 127m + Sukhothai UNESCO 1991, replaced 5 homepage sources with specific URLs (UNESCO, Wikipedia, Thai FYI)
-7. krabi-travel-guide.md (74)
+7. ~~krabi-travel-guide.md (74)~~ ✅ DONE — fixed airport code HKT→KBV (HKT is Phuket!), verified shell cemetery 75M years (TAT source), replaced unverifiable microclimate Did You Know with verified national park facts, replaced 4 unverifiable percentages with qualitative language, replaced 4 homepage sources with specific URLs
 8. thailand-with-kids-family-travel-guide.md (67)
 9. 15-hidden-gems-thailand-tourists-miss.md (67)
 10. songkran-festival-2026-guide.md (66)

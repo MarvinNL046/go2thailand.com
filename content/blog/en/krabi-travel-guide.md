@@ -12,18 +12,12 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-01"
 sources:
-  - name: "Tourism Authority of Thailand"
+  - name: "TAT - 75 Million-year-old Shell Cemetery"
+    url: "https://www.tourismthailand.org/Attraction/75-million-year-old-shell-cemetery"
+  - name: "Ko Lanta Yai - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Ko_Lanta_Yai"
+  - name: "Krabi Province - Tourism Thailand"
     url: "https://www.tourismthailand.org/Destinations/Provinces/Krabi/344"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Bangkok Post Travel"
-    url: "https://www.bangkokpost.com/"
-factCheck:
-  status: "needs-review"
-  flaggedClaims: 74
-  riskLevel: "high"
 ---
 
 Imagine towering limestone cliffs rising straight from turquoise waters, hidden lagoons accessible only by kayak, and some of the world's most stunning sunsets painting the sky in shades of orange and pink. Welcome to **Krabi**, Thailand's adventure coast—a destination that has transformed from a quiet fishing province into one of Southeast Asia's most sought-after beach and climbing destinations. Whether you're scaling vertical rock faces, island-hopping to pristine atolls, or simply soaking in the drama of Phra Nang Cape, Krabi delivers experiences that linger long after you leave.
@@ -55,15 +49,15 @@ When we first explored Krabi three years ago, we were struck by how the landscap
 
 **Koh Lanta & Koh Phi Phi** are island destinations requiring [ferry](https://12go.tpo.lv/tNA80urD) trips but offering the most pristine, undeveloped experiences. Koh Lanta especially appeals to travelers seeking slower-paced beach life away from crowds.
 
-> **Did You Know?** Krabi's limestone cliffs are part of the same geological formation that extends across the Andaman region, created over 75 million years ago when this area was underwater. The karst landscape is now recognized as one of the world's most important rock-climbing destinations.
+> **Did You Know?** Krabi's limestone karst landscape was formed when this area was underwater millions of years ago. The province is also home to the Susan Hoi (Fossil Shell Beach) — a 75-million-year-old shell cemetery that is one of only three such geological formations in the world.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/Destinations/Provinces/Krabi/344)*
+> *Source: [TAT — 75 Million-year-old Shell Cemetery](https://www.tourismthailand.org/Attraction/75-million-year-old-shell-cemetery)*
 
 ---
 
 ## 2. Getting to Krabi: Transportation Options
 
-Reaching Krabi is straightforward, with multiple transport options depending on your budget, time, and comfort preferences. **Krabi International Airport (HKT)** is the fastest entry point, with direct flights from Bangkok (1 hour), Chiang Mai (2 hours), and international connections via Bangkok or Phuket.
+Reaching Krabi is straightforward, with multiple transport options depending on your budget, time, and comfort preferences. **Krabi International Airport (KBV)** is the fastest entry point, with direct flights from Bangkok (1 hour), Chiang Mai (2 hours), and international connections via Bangkok or Phuket.
 
 During our team's recent visit, we tested all major transport routes and found that flying remains the most practical option for most travelers. However, overland routes offer cheaper alternatives and the chance to see Thailand's landscape unfold.
 
@@ -314,7 +308,7 @@ Make sure to try **[pad thai](https://go2-thailand.com/food/pad-thai/)** (stir-f
 </div>
 
 
-**December–January** is peak season, with perfect weather, calm seas, and full accommodation. However, prices spike 30–50%, and beaches are crowded. Book accommodation 6–12 months in advance.
+**December–January** is peak season, with perfect weather, calm seas, and full accommodation. However, prices spike significantly, and beaches are crowded. Book accommodation 6–12 months in advance.
 
 ### Shoulder Seasons: March & October–November
 
@@ -322,11 +316,11 @@ Make sure to try **[pad thai](https://go2-thailand.com/food/pad-thai/)** (stir-f
 
 ### Rainy Season: May–October
 
-**May–October** brings afternoon rain, rough seas (limiting island trips), and occasional closures of smaller attractions. However, prices drop significantly (30–40% cheaper), and you'll have beaches largely to yourself. Rock climbing is less ideal due to wet rock.
+**May–October** brings afternoon rain, rough seas (limiting island trips), and occasional closures of smaller attractions. However, prices drop substantially, and you'll have beaches largely to yourself. Rock climbing is less ideal due to wet rock.
 
-> **Did You Know?** Krabi's limestone cliffs create their own microclimates—Railey Beach can be sunny while Ao Nang experiences rain just 5 km away. The karst formations trap moisture and create localized weather patterns.
+> **Did You Know?** Krabi province has over 200 islands, 154 of which are part of the Hat Noppharat Thara-Mu Ko Phi Phi National Park. The park protects both the limestone karst landscape and the marine ecosystem, making it one of Thailand's most important coastal conservation areas.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/Destinations/Provinces/Krabi/344)*
+> *Source: [Krabi Province — Tourism Thailand](https://www.tourismthailand.org/Destinations/Provinces/Krabi/344)*
 
 ---
 
@@ -502,8 +496,8 @@ Most nationalities receive a 30-day visa exemption upon arrival in Thailand. Ens
 
 ### Money-Saving Tips
 
-- **Eat where locals eat:** Markets and small family restaurants offer 50% cheaper meals than tourist restaurants.
-- **Visit in shoulder season:** March and October–November offer excellent weather with 30–40% cheaper accommodation and fewer crowds.
+- **Eat where locals eat:** Markets and small family restaurants are far cheaper than tourist restaurants.
+- **Visit in shoulder season:** March and October–November offer excellent weather with significantly cheaper accommodation and fewer crowds.
 - **Book multi-day tours in advance:** Tour operators offer discounts for bookings made several days ahead.
 - **Stay in Koh Lanta or Railey:** These areas are cheaper than Ao Nang while offering superior experiences.
 
