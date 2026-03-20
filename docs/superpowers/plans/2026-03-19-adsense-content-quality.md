@@ -131,7 +131,7 @@
 2. ~~digital-nomad-thailand-2026-dtv-visa-costs-cities.md (128)~~ ✅ DONE — fixed DTV income req 40K THB/month→500K THB balance, updated to e-visa system (thaievisa.go.th), min wage 450→337-400 THB/day, 90-day fine 1,600→2,000/5,000 THB, ATM fee standardized to 220 THB, added visa run limit (max 2/year), TDAC requirement, replaced 4 generic sources with specific URLs
 3. ~~is-phuket-worth-visiting-2026-honest-guide.md (120)~~ ✅ DONE — fixed visitor count 9.3M→8.65M (C9 Hotelworks), airport ranking 2nd→3rd busiest, replaced unverifiable seafood Did You Know with verified Big Buddha facts (Wikipedia), replaced 7 unverifiable percentages with qualitative language, replaced 4 homepage sources with specific URLs
 4. ~~thailand-7-days-itineraries.md (102)~~ ✅ DONE — fixed Erawan entry 200→300 THB, train station name (Hua Lamphong→Krung Thep Aphiwat), train price 15→20 THB, ATM fee 150-220→220 THB, replaced "60-70% lower" with qualitative, added lèse-majesté prison term detail (3-15 years), replaced 4 homepage sources with specific URLs, added specific Numbeo Thailand URL
-5. solo-female-travel-thailand-safety-tips.md (78)
+5. ~~solo-female-travel-thailand-safety-tips.md (78)~~ ✅ DONE — removed fabricated "45% solo female travelers" stat, fixed visitor count 39.5→39.8M + added 2024 recovery (35.5M), fixed temples to "~41,000" with National Office of Buddhism source, BTS 15→17 THB, ATM 200→220 THB, replaced 5 homepage sources with specific URLs
 6. best-day-trips-from-bangkok.md (78)
 7. krabi-travel-guide.md (74)
 8. thailand-with-kids-family-travel-guide.md (67)
