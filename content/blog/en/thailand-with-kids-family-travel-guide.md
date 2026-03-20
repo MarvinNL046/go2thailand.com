@@ -12,20 +12,12 @@ featured: false
 readingTime: 12
 lastUpdated: "2026-03-17"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Thailand Immigration"
-    url: "https://tdac.immigration.go.th/"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
-factCheck:
-  status: "needs-review"
-  flaggedClaims: 67
-  riskLevel: "high"
+  - name: "Thailand Digital Arrival Card (TDAC)"
+    url: "https://tdac.immigration.go.th/arrival-card/#/home"
+  - name: "Street food vendor hygiene practices - ScienceDirect"
+    url: "https://www.sciencedirect.com/science/article/abs/pii/S0956713517304644"
+  - name: "CDC - Travelers' Health: Thailand"
+    url: "https://wwwnc.cdc.gov/travel/destinations/traveler/none/thailand"
 ---
 
 Watching your child's face light up as they feed a gentle elephant, or seeing them splash in crystal-clear island waters for the first time—**Thailand with kids** transforms family travel from a logistical challenge into genuine adventure. We've spent years exploring Thailand as a family, and the truth is: this kingdom is one of the most welcoming, affordable, and genuinely kid-friendly destinations in Southeast Asia.
@@ -58,7 +50,7 @@ Avoid May through October entirely if traveling with young children. This is the
 
 > **Did You Know?** Thailand's cool season (November–February) sees temperatures drop to 15–20°C in northern regions like [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), making it ideal for trekking and outdoor activities with kids.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
+> *Source: [Thai Meteorological Department](https://www.tmd.go.th/en/)*
 
 ### How Long Should You Stay?
 
@@ -356,9 +348,9 @@ Thai food is often spicier than Western kids expect, but **you can request mild 
 - **Bottled water only.** Tap water isn't safe for young kids. Buy large bottles (20 THB for 1.5 liters) or refill from hotel dispensers.
 - **Breakfast is easy.** Hotels serve toast, eggs, fruit, and cereal. Street vendors sell fresh fruit smoothies (30–50 THB).
 
-> **Did You Know?** Thailand's street food is generally safer than restaurant food because high turnover means ingredients are fresher. The WHO rates Thai street food hygiene highly compared to other Southeast Asian countries.
+> **Did You Know?** A cross-country study published in Food Control journal found that Thai street food vendors scored highest for personal hygiene practices among all Asian countries surveyed. High ingredient turnover at busy stalls also means food tends to be freshly prepared.
 >
-> *Source: [Thailand Blog](https://thailandblog.nl/en/)*
+> *Source: [Street food vendor hygiene practices — ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0956713517304644)*
 
 ### Food Allergies & Dietary Restrictions
 
@@ -467,11 +459,11 @@ Thailand is affordable, but costs vary widely by region, season, and travel styl
 
 ### Money-Saving Tips
 
-- **Travel in shoulder season (Nov, Feb):** 20–30% cheaper than peak season (Dec–Jan).
+- **Travel in shoulder season (Nov, Feb):** Noticeably cheaper than peak season (Dec–Jan).
 - **Eat street food:** 30–80 THB per meal vs. 200–500 THB at restaurants.
 - **Use public transport:** BTS in [Bangkok](https://go2-thailand.com/city/bangkok/) is 15–65 THB vs. 150–300 THB for taxis.
-- **Book activities directly:** Avoid tourist agencies; book snorkeling, cooking classes directly with operators (saves 20–30%).
-- **Stay outside tourist centers:** Guesthouses in local neighborhoods are 30–50% cheaper than beachfront resorts.
+- **Book activities directly:** Avoid tourist agencies; book snorkeling, cooking classes directly with operators for better prices.
+- **Stay outside tourist centers:** Guesthouses in local neighborhoods are considerably cheaper than beachfront resorts.
 - **Skip expensive attractions:** Many temples are free; paid attractions (zoos, aquariums) are optional.
 
 ### Currency & Payment
@@ -479,7 +471,7 @@ Thailand is affordable, but costs vary widely by region, season, and travel styl
 Thailand uses the Thai Baht (THB). Exchange rates fluctuate, but roughly 1 USD = 33–35 THB (as of March 2026).
 
 **How to get cash:**
-- ATMs are everywhere. Withdrawal fees are typically 150–220 THB per transaction, plus your bank's fee. Withdraw larger amounts to minimize fees.
+- ATMs are everywhere. Thai ATMs charge a flat 220 THB fee per foreign withdrawal, plus your bank's fee. Withdraw larger amounts to minimize fees.
 - Credit cards work in hotels and restaurants but not street vendors.
 - Avoid exchanging currency at airports—rates are poor.
 

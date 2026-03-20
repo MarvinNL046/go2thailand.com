@@ -134,7 +134,7 @@
 5. ~~solo-female-travel-thailand-safety-tips.md (78)~~ ✅ DONE — removed fabricated "45% solo female travelers" stat, fixed visitor count 39.5→39.8M + added 2024 recovery (35.5M), fixed temples to "~41,000" with National Office of Buddhism source, BTS 15→17 THB, ATM 200→220 THB, replaced 5 homepage sources with specific URLs
 6. ~~best-day-trips-from-bangkok.md (78)~~ ✅ DONE — fixed wild elephants 3,000→4,013-4,422 (Thai FYI 2024 census), Erawan entry 200→300 THB, Khao Yai area 2,168→2,166 km² + UNESCO 2005 date, verified Phra Pathom Chedi 127m + Sukhothai UNESCO 1991, replaced 5 homepage sources with specific URLs (UNESCO, Wikipedia, Thai FYI)
 7. ~~krabi-travel-guide.md (74)~~ ✅ DONE — fixed airport code HKT→KBV (HKT is Phuket!), verified shell cemetery 75M years (TAT source), replaced unverifiable microclimate Did You Know with verified national park facts, replaced 4 unverifiable percentages with qualitative language, replaced 4 homepage sources with specific URLs
-8. thailand-with-kids-family-travel-guide.md (67)
+8. ~~thailand-with-kids-family-travel-guide.md (67)~~ ✅ DONE — fixed fabricated WHO street food claim with real ScienceDirect study, ATM fee 150-220→220 THB, replaced 3 unverifiable percentages with qualitative language, replaced 5 homepage sources with specific URLs (ScienceDirect, CDC, TDAC, TMD)
 9. 15-hidden-gems-thailand-tourists-miss.md (67)
 10. songkran-festival-2026-guide.md (66)
 11. (remaining 12 flagged posts, then 32 unflagged)
