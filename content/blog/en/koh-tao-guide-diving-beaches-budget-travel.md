@@ -12,20 +12,12 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-02"
 sources:
-  - name: "Tourism Authority of Thailand"
+  - name: "Ko Tao - Tourism Authority of Thailand"
     url: "https://www.tourismthailand.org/Destinations/Provinces/Ko-Tao/361"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "PADI Diving Organization"
-    url: "https://www.padi.com/"
-  - name: "Chumphon Port Authority"
-    url: "https://www.chumphonport.com/"
-factCheck:
-  status: "needs-review"
-  flaggedClaims: 62
-  riskLevel: "high"
+  - name: "New Heaven Reef Conservation - Sea Turtle Program"
+    url: "https://www.newheavenreefconservation.org/index.php?option=com_content&view=article&id=75:sea-turtle-headstarting&catid=2"
+  - name: "PADI Dive Courses Koh Tao - Black Turtle Dive"
+    url: "https://www.blackturtledive.com/diving-course-prices/"
 ---
 Imagine descending 12 meters below the surface, surrounded by schools of barracuda and giant grouper, with a coral garden blooming beneath you—this is **Koh Tao**, Thailand's world-class diving destination. Just 45 kilometers north of [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/), this tiny island has transformed from a sleepy backpacker hideaway into one of Southeast Asia's premier [scuba diving](https://klook.tpo.lv/7Dt6WApj) hubs, while somehow maintaining its laid-back charm.
 
@@ -43,7 +35,7 @@ Imagine descending 12 meters below the surface, surrounded by schools of barracu
 
 ## 1. Why Koh Tao Is the Diving Capital of Thailand
 
-**Koh Tao diving** has earned its reputation as one of the world's most affordable places to get certified, with PADI Open Water courses starting at just 8,000–10,000 THB (roughly $220–280 USD). When we visited in February, we watched dozens of new divers emerge from the water with enormous grins—the magic moment when underwater exploration clicks into place.
+**Koh Tao diving** has earned its reputation as one of the world's most affordable places to get certified, with PADI Open Water courses starting at just 9,500–12,000 THB (roughly $220–280 USD). When we visited in February, we watched dozens of new divers emerge from the water with enormous grins—the magic moment when underwater exploration clicks into place.
 
 The island sits in a unique position in the Gulf of Thailand, where warm currents and nutrient-rich waters create ideal conditions for both marine life and diving visibility. The best time to visit is **February to April**, when seas are calmest and visibility reaches 20–30 meters. During monsoon season (May–October), diving is still possible but conditions are less reliable.
 
@@ -58,13 +50,13 @@ The island is also a critical breeding ground for Hawksbill and Green sea turtle
 - **Advanced:** Chumphon Pinnacle deep dives, Shark Point
 - **Snorkeling Alternative:** Koh Nang Yuan (nearby island with stunning shallow reefs)
 
-> **Did You Know?** Koh Tao is home to one of the world's largest sea turtle hatcheries. The island's Turtle Foundation has successfully reintroduced over 5,000 juvenile turtles to Thai waters since 2010.
+> **Did You Know?** Koh Tao's name literally means "Turtle Island" in Thai. The New Heaven Reef Conservation Program runs a turtle head-starting initiative, raising 5–20 hatchlings per year to 25cm before releasing them — giving juveniles a much better chance of surviving predation in the wild.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/Destinations/Provinces/Ko-Tao/361)*
+> *Source: [New Heaven Reef Conservation — Sea Turtle Head-Starting](https://www.newheavenreefconservation.org/index.php?option=com_content&view=article&id=75:sea-turtle-headstarting&catid=2)*
 
 ### Dive Operators and Certification Courses
 
-The island hosts dozens of dive schools, most clustered around Sairee Beach and Mae Haad. Reputable operators include Big Blue Diving, Koh Tao Divers, and Scuba Junction. A typical **PADI Open Water course** runs 3–4 days and includes classroom work, confined water training, and four open water dives. Prices cluster around 8,000–10,000 THB.
+The island hosts dozens of dive schools, most clustered around Sairee Beach and Mae Haad. A typical **PADI Open Water course** runs 3–4 days and includes classroom work, confined water training, and four open water dives. Prices range from 9,500–12,000 THB depending on the school and what's included.
 
 For experienced divers, fun dives cost 1,200–1,500 THB per dive, including equipment rental. Many operators offer multi-dive packages at discounts. During peak season (February–March), book courses 1–2 days in advance to secure a spot.
 
@@ -155,7 +147,7 @@ While diving dominates Koh Tao's reputation, the island's beaches are equally co
 
 ### Activities and Diving
 
-**PADI Open Water Course:** 8,000–10,000 THB (3–4 days)
+**PADI Open Water Course:** 9,500–12,000 THB (3–4 days)
 **Fun Dives:** 1,200–1,500 THB per dive
 **Snorkeling Trip:** 600–1,000 THB (half-day)
 **Motorbike Rental:** 200–300 THB per day
@@ -172,7 +164,7 @@ While diving dominates Koh Tao's reputation, the island's beaches are equally co
 
 > **Did You Know?** Koh Tao has one of the lowest PADI certification costs in the world. A four-day Open Water course here costs roughly half the price of the same course in Western countries.
 >
-> *Source: [PADI Diving Organization](https://www.padi.com/)*
+> *Source: [Black Turtle Dive — PADI Course Prices Koh Tao](https://www.blackturtledive.com/diving-course-prices/)*
 
 <div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -282,11 +274,11 @@ For many visitors, **scuba diving in Koh Tao** is the main event. The island has
 </div>
 
 
-**Open Water (OW):** The entry-level certification. Takes 3–4 days and costs 8,000–10,000 THB. You'll learn theory, practice in confined water (the pool or shallow bay), and complete four open water dives. After this, you can dive to 18 meters independently.
+**Open Water (OW):** The entry-level certification. Takes 3–4 days and costs 9,500–12,000 THB. You'll learn theory, practice in confined water (the pool or shallow bay), and complete four open water dives. After this, you can dive to 18 meters independently.
 
 **Advanced Open Water (AOW):** Builds on OW skills and allows dives to 40 meters. Takes 2 days and costs 6,000–8,000 THB. Includes specialty dives like deep diving, navigation, and wreck diving.
 
-**Rescue Diver and Divemaster:** For those considering diving as a career or serious hobby. Rescue takes 3 days (8,000–10,000 THB); Divemaster is a 10-day course (25,000–35,000 THB).
+**Rescue Diver and Divemaster:** For those considering diving as a career or serious hobby. Rescue takes 3 days (9,500–12,000 THB); Divemaster is a 10-day course (25,000–35,000 THB).
 
 ### Choosing a Dive School
 
@@ -398,9 +390,9 @@ Koh Tao's nightlife is modest compared to [Koh Phangan](https://go2-thailand.com
 
 **Internet:** Available but not always reliable. Most bungalows and restaurants have WiFi, but don't count on it for important work.
 
-> **Did You Know?** Koh Tao's name literally means "Turtle Island" in Thai. The island remains a critical breeding ground for endangered Hawksbill and Green sea turtles, with conservation efforts protecting nesting sites and juvenile turtles.
+> **Did You Know?** Koh Tao's conservation efforts extend beyond turtles. The New Heaven Reef Conservation Program also monitors coral health, conducts reef cleanups, and works with the Thai Department of Marine and Coastal Resources (DMCR) to protect the island's marine ecosystem.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/Destinations/Provinces/Ko-Tao/361)*
+> *Source: [New Heaven Reef Conservation](https://www.newheavenreefconservation.org/)*
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
