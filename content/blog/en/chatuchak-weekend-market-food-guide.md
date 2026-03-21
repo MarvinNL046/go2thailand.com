@@ -12,12 +12,10 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-19"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
+  - name: "Chatuchak Weekend Market"
+    url: "https://www.chatuchakmarket.org/"
+  - name: "Chatuchak Market - TAT"
+    url: "https://www.tourismthailand.org/Attraction/chatuchak-weekend-market"
   - name: "The Thaiger"
     url: "https://thethaiger.com/"
 ---

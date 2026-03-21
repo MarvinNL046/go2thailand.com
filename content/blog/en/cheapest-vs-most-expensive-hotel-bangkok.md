@@ -14,8 +14,8 @@ lastUpdated: "2026-02-21"
 sources:
   - name: "Four Seasons Hotels and Resorts"
     url: "https://www.fourseasons.com/bangkok/"
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
+  - name: "Four Seasons Bangkok at Chao Phraya River"
+    url: "https://www.fourseasons.com/bangkokchaopraya/"
   - name: "Travel + Leisure World's Best Awards"
     url: "https://www.travelandleisure.com/worlds-best"
 ---

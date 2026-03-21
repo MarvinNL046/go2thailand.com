@@ -12,12 +12,10 @@ featured: false
 readingTime: 8
 lastUpdated: "2026-02-18"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
+  - name: "Thai Street Food - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Street_food_of_Thailand"
+  - name: "Numbeo - Cost of Living in Thailand"
+    url: "https://www.numbeo.com/cost-of-living/country_result.jsp?country=Thailand"
   - name: "Bangkok Budget Guide 2026"
     url: "https://www.machupicchu.org/bangkok-budget-guide-2026-complete-cost-breakdown.htm"
 ---
@@ -50,9 +48,9 @@ Understanding these categories will transform your budget:
 - **Food Courts in Shopping Malls (50–100 baht):** Clean, air-conditioned, with multiple vendors in one space. Popular with office workers. Prices are slightly higher than street carts but still incredibly affordable.
 - **Neighborhood Restaurants (60–150 baht):** Small, family-run shops with plastic chairs and basic decor. These serve the same food as street carts but with seating and sometimes a cold drink included.
 
-> **Did You Know?** According to the Tourism Authority of Thailand, the average Thai worker spends approximately 100–150 baht ($2.80–$4.20 USD) per day on food across all meals.
+> **Did You Know?** Many Thai workers spend just 100–150 baht ($2.80–$4.20 USD) per day on all their meals — thanks to the abundance of affordable street food stalls and market vendors competing for local customers.
 >
-> *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
+> *Source: [Numbeo — Cost of Living in Thailand](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Thailand)*
 
 ---
 
