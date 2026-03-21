@@ -182,8 +182,8 @@ export default async function handler(
     // 4. Inject affiliate links into English content
     const contentWithAffiliates = injectAffiliateLinks(post.content, {
       inlineLinks: true,
-      ctaBoxes: true,
-      ctaCount: 3,
+      ctaBoxes: false,
+      ctaCount: 2,
     });
     post.content = contentWithAffiliates;
 
