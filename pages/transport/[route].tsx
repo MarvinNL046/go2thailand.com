@@ -9,6 +9,7 @@ import path from 'path';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
 import AffiliateWidget from '../../components/AffiliateWidget';
+import InlineAd from '../../components/ads/InlineAd';
 import transportRoutes from '../../data/transport-routes.json';
 import citiesData from '../../data/cities/index.json';
 
@@ -248,6 +249,8 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
               ))}
             </section>
 
+            {/* Ad between transport options and tips */}
+            <InlineAd />
 
             {/* Travel Tips */}
             <section className="bg-white rounded-2xl shadow-md p-6 mb-8">

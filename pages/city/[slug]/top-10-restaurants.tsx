@@ -6,6 +6,7 @@ import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import AffiliateBox from '../../../components/AffiliateBox';
+import InlineAd from '../../../components/ads/InlineAd';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 import fs from 'fs';
 import path from 'path';
@@ -370,14 +371,12 @@ export default function Top10RestaurantsPage({ city, restaurantsData, affiliates
                       </article>
 
                       {/* Ad Placements */}
-                      {index === 2 && (
-                        <div className="my-8">
-                        </div>
+                      {index === 4 && (
+                        <InlineAd />
                       )}
-                      
-                      {index === 6 && (
-                        <div className="my-8">
-                        </div>
+
+                      {index === 7 && (
+                        <InlineAd />
                       )}
                     </div>
                   ))}

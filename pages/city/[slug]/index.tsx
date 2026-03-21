@@ -14,6 +14,7 @@ import { useTranslatedContent } from '../../../hooks/useTranslatedContent';
 import { useRouter } from 'next/router';
 import { formatNumber, formatPopulation } from '../../../utils/formatNumber';
 import AffiliateWidget from '../../../components/AffiliateWidget';
+import InlineAd from '../../../components/ads/InlineAd';
 import transportRoutes from '../../../data/transport-routes.json';
 
 interface City {
@@ -688,6 +689,9 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     )}
                   </div>
                 )}
+
+                {/* Ad between sections */}
+                <InlineAd />
 
                 {/* Top Guides Cross-Links */}
                 <div className="bg-white rounded-2xl shadow-md p-6 my-6">

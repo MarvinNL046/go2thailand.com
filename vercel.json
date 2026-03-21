@@ -2,11 +2,11 @@
   "crons": [
     {
       "path": "/api/cron/generate-blog/",
-      "schedule": "0 6 * * *"
+      "schedule": "0 6 * * 1"
     },
     {
       "path": "/api/cron/translate-blog/",
-      "schedule": "30 6 * * *"
+      "schedule": "30 6 * * 1"
     },
     {
       "path": "/api/cron/submit-indexnow/",
@@ -14,7 +14,19 @@
     },
     {
       "path": "/api/cron/generate-food-blog/",
-      "schedule": "0 9 * * *"
+      "schedule": "0 9 * * 1"
+    },
+    {
+      "path": "/api/cron/generate-blog/",
+      "schedule": "0 6 * * 4"
+    },
+    {
+      "path": "/api/cron/translate-blog/",
+      "schedule": "30 6 * * 4"
+    },
+    {
+      "path": "/api/cron/generate-food-blog/",
+      "schedule": "0 9 * * 4"
     },
     {
       "path": "/api/cron/send-push-digest/",

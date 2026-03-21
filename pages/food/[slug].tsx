@@ -6,6 +6,7 @@ import { getEnhancedDishBySlug, getDishStaticPaths, generateDishMetadata, getRel
 import SEOHead from '../../components/SEOHead';
 import FoodCityLinks from '../../components/FoodCityLinks';
 import FoodAffiliateCTA from '../../components/FoodAffiliateCTA';
+import InlineAd from '../../components/ads/InlineAd';
 
 interface EnhancedDish {
   id: number;
@@ -265,6 +266,11 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
             </div>
           </section>
         )}
+
+        {/* Ad after hero/description */}
+        <div className="container-custom">
+          <InlineAd />
+        </div>
 
         {/* Content Sections */}
         <section className="section-padding">
