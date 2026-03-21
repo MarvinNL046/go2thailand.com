@@ -134,6 +134,27 @@ export default function AboutPage() {
               </p>
             </div>
 
+            {/* How We Create Content */}
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">How We Create Content</h2>
+              <p className="text-gray-700 mb-4">
+                Our content is created by a team of Thailand-based travel writers, long-term expats, and technology
+                specialists. We combine firsthand travel experience with data-driven research to produce guides that
+                are both practical and trustworthy.
+              </p>
+              <p className="text-gray-700 mb-4">
+                <strong>AI-assisted, human-verified:</strong> We use AI tools to assist with research, drafting, and
+                data analysis. All content is reviewed, fact-checked, and verified by our editorial team before
+                publication. Statistics are sourced from official organizations (Tourism Authority of Thailand, UNESCO,
+                government agencies) and linked directly to their origin.
+              </p>
+              <p className="text-gray-700">
+                <strong>Correction policy:</strong> If you find an error in our content, please{' '}
+                <Link href="/contact/" className="text-thailand-blue hover:underline">contact us</Link>. We take
+                accuracy seriously and will correct verified errors within 24 hours.
+              </p>
+            </div>
+
             {/* How We're Different */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">How We&apos;re Different</h2>

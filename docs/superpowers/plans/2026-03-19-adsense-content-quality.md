@@ -220,28 +220,28 @@
 **Files:**
 - Create: `pages/about.tsx` (or modify if exists)
 
-- [ ] **Step 1:** Check if `pages/about.tsx` exists and what it contains
-- [ ] **Step 2:** Create/enhance the About page with:
+- [x] **Step 1:** Checked — pages/about.tsx already exists with mission, coverage, editorial standards, E-E-A-T section, contact
+- [x] **Step 2:** Enhanced the About page with:
   - Team description: "A team of Thailand-based travel writers and long-term expats"
   - Years of experience living/traveling in Thailand
   - Editorial standards section: "How we create content"
   - AI disclosure: "We use AI tools to assist with research and drafting, but all content is reviewed and verified by our editorial team"
   - Contact information
-- [ ] **Step 3:** Commit: `feat: add comprehensive About page with E-E-A-T signals`
+- [x] **Step 3:** Commit: `feat: enhance About page with AI disclosure, content creation process, correction policy`
 
 ### Task 16: Add editorial standards page
 
 **Files:**
 - Create: `pages/editorial-standards.tsx`
 
-- [ ] **Step 1:** Create an editorial standards page covering:
+- [x] **Step 1:** SKIP — editorial standards already covered in About page + existing /editorial-policy/ page. Creating a third page would be redundant. The About page now includes:
   - Fact-checking process
   - Source requirements
   - Update frequency
   - AI usage disclosure
   - Correction policy
-- [ ] **Step 2:** Link from footer and About page
-- [ ] **Step 3:** Commit: `feat: add editorial standards page for trust signals`
+- [x] **Step 2:** Already linked from About page to /editorial-policy/ and /affiliate-disclosure/
+- [x] **Step 3:** Covered by About page enhancement commit
 
 ### Task 17: Remove ai_generated markers from data
 
