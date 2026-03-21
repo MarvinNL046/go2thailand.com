@@ -81,8 +81,8 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
     return (
       <>
         <SEOHead
-          title={`10 Best Hotels in ${city.name.en} 2026 — Prices & Reviews`}
-          description={`Find the 10 best hotels in ${city.name.en}, Thailand. Compare current prices, guest reviews, and booking tips updated for 2026.`}
+          title={`Best Hotels ${city.name.en} 2026 — From Budget to Luxury`}
+          description={`The 10 best hotels in ${city.name.en}, Thailand for 2026. Real prices, guest ratings, location tips, and which area to stay in for every budget.`}
         />
 
         <div className="bg-surface-cream min-h-screen">

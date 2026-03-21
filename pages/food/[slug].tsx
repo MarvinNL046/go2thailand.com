@@ -90,9 +90,11 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   // Optimized SEO title and description (overrides lib defaults)
   const categoryLabel = dish.category.replace('-', ' ');
-  const seoTitle = `${dish.name.en} — Authentic Recipe, Restaurants & Street Food`;
+  // Use custom SEO title from JSON if available, otherwise generate
+  const dishAny = dish as Record<string, any>;
+  const seoTitle = dishAny.seo?.metaTitle?.en || `${dish.name.en} (${dish.name.thai}) — What It Is, Where to Eat It & Prices`;
   const descriptionBase = (dish.enhanced_description || dish.description.en).substring(0, 100);
-  const seoDescription = `${dish.name.en} (${dish.name.thai}) — ${descriptionBase}. Recipe, best restaurants and street food prices in Thailand.`;
+  const seoDescription = dishAny.seo?.metaDescription?.en || `${dish.name.en} (${dish.name.thai}) — ${descriptionBase}. Where to find it, prices, and what makes it special.`;
 
   const getSpiceLevelColor = (level: string) => {
     switch (level) {

@@ -83,8 +83,8 @@ export default function Top10RestaurantsPage({ city, restaurantsData, affiliates
     return (
       <>
         <SEOHead
-          title={`10 Best Restaurants in ${city.name.en} 2026 — Local Picks`}
-          description={`Discover the 10 best restaurants in ${city.name.en}, Thailand. Current prices, local favorites, and insider tips updated for 2026.`}
+          title={`Best Restaurants ${city.name.en} 2026 — Local Picks & Prices`}
+          description={`The 10 best restaurants in ${city.name.en}, Thailand for 2026. Local favorites with real prices, what to order, and insider tips from frequent visitors.`}
         />
 
         <div className="bg-surface-cream min-h-screen">

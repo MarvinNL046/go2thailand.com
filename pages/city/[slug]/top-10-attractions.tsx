@@ -68,8 +68,8 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
     return (
       <>
         <SEOHead
-          title={`10 Best Attractions in ${city.name.en} 2026 — Must-See`}
-          description={`Discover the 10 must-see attractions in ${city.name.en}, Thailand. Current entrance fees, opening hours, and visitor tips for 2026.`}
+          title={`Top 10 Things to Do in ${city.name.en} 2026 — With Prices`}
+          description={`The 10 best attractions in ${city.name.en}, Thailand for 2026. Entrance fees, opening hours, how to get there, and tips to skip the crowds.`}
         />
 
         <div className="bg-surface-cream min-h-screen">
