@@ -107,22 +107,22 @@
 
 **Process per blog post (repeat for all 54):**
 
-- [ ] **Step 1:** Read the blog post markdown
-- [ ] **Step 2:** Extract every factual claim that contains a number, percentage, statistic, or specific assertion. List them.
-- [ ] **Step 3:** For each claim, fact-check via WebFetch:
+- [x] **Step 1:** Read the blog post markdown
+- [x] **Step 2:** Extract every factual claim that contains a number, percentage, statistic, or specific assertion. List them.
+- [x] **Step 3:** For each claim, fact-check via WebFetch:
   - Search for the exact claim on authoritative sources (TAT, WHO, UNESCO, Wikipedia, Bangkok Post, government sites)
   - If the claim is **correct**: replace generic source citation with the actual URL where the fact was verified
   - If the claim is **wrong**: fix it with the correct number + real source URL
   - If the claim is **unverifiable** (no source found anywhere): rewrite qualitatively ("many travelers" instead of "45% of travelers")
-- [ ] **Step 4:** Fix "Did You Know?" callouts specifically:
+- [x] **Step 4:** Fix "Did You Know?" callouts specifically:
   - Every callout MUST have a real, clickable source URL to a specific page (not a homepage)
   - If no real source exists for the claim, rewrite the callout with a verifiable fact instead
-- [ ] **Step 5:** Replace generic source citations in frontmatter:
+- [x] **Step 5:** Replace generic source citations in frontmatter:
   - `"https://www.tourismthailand.org/"` → link to specific TAT page about the topic
   - `"https://www.lonelyplanet.com/thailand"` → link to specific LP article if one exists
   - Remove sources that are just homepage links with no relation to the content
-- [ ] **Step 6:** Remove `factCheck:` frontmatter block (if present) after cleanup
-- [ ] **Step 7:** Commit cleaned post: `content: fact-check [post-slug] — verified X claims, fixed Y`
+- [x] **Step 6:** Remove `factCheck:` frontmatter block (if present) after cleanup
+- [x] **Step 7:** Commit cleaned post: `content: fact-check [post-slug] — verified X claims, fixed Y`
 
 **Order:** Start with the 22 flagged posts (highest flaggedClaims first), then do the remaining 32.
 
