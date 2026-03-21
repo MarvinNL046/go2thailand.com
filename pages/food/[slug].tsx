@@ -80,9 +80,10 @@ interface DishPageProps {
   dish: EnhancedDish;
   relatedDishes: EnhancedDish[];
   citiesForDish: CityLink[];
+  editorial?: string;
 }
 
-export default function DishPage({ dish, relatedDishes, citiesForDish }: DishPageProps) {
+export default function DishPage({ dish, relatedDishes, citiesForDish, editorial }: DishPageProps) {
   if (!dish) return <div>Dish not found</div>;
 
   const metadata = generateDishMetadata(dish);
@@ -251,6 +252,17 @@ export default function DishPage({ dish, relatedDishes, citiesForDish }: DishPag
           </div>
         </section>
 
+
+        {/* Editorial Introduction */}
+        {editorial && (
+          <section className="bg-white border-b">
+            <div className="container-custom py-8">
+              <p className="text-lg text-gray-700 leading-relaxed max-w-4xl">
+                {editorial}
+              </p>
+            </div>
+          </section>
+        )}
 
         {/* Content Sections */}
         <section className="section-padding">
@@ -598,11 +610,24 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     }
   } catch { /* enhanced dir not found */ }
 
+  // Load food editorial if available
+  let editorial = '';
+  try {
+    const editorialsPath = path.join(process.cwd(), 'data', 'food-editorials.json');
+    if (fs.existsSync(editorialsPath)) {
+      const editorials = JSON.parse(fs.readFileSync(editorialsPath, 'utf8'));
+      if (editorials[slug]?.en) {
+        editorial = editorials[slug].en;
+      }
+    }
+  } catch {}
+
   return {
     props: {
       dish,
       relatedDishes,
       citiesForDish: citiesForDish.slice(0, 6),
+      editorial,
     },
     revalidate: 86400
   };
