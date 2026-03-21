@@ -48,8 +48,8 @@ export default function IsThailandSafePage() {
   return (
     <>
       <SEOHead
-        title="Is Thailand Safe for Tourists? 2026 Safety Guide | Go2 Thailand"
-        description="Is Thailand safe to visit in 2026? Honest safety guide covering crime, scams, traffic, health, solo travel, and what to watch out for. Updated 2026."
+        title="Is Thailand Safe? Yes — Here's What 35M Tourists Per Year Experience (2026)"
+        description="Thailand is one of Asia's safest tourist destinations. Low violent crime, friendly locals, great healthcare. See the real risks (scams, traffic, drinks) and how to avoid them. Updated March 2026."
       >
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
       </SEOHead>

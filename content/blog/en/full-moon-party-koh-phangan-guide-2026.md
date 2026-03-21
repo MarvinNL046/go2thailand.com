@@ -1,5 +1,5 @@
 ---
-title: "Full Moon Party Koh Phangan 2026 — Dates & Tips"
+title: "Full Moon Party 2026: All 14 Dates, Budget From $61 & Survival Tips"
 slug: "full-moon-party-koh-phangan-guide-2026"
 date: "2026-02-28"
 author:
@@ -7,7 +7,7 @@ author:
 category: "activities"
 tags: ["koh-phangan", "full-moon-party", "nightlife", "beach-parties", "southern-thailand"]
 image: "/images/blog/full-moon-party-koh-phangan-guide-2026.webp"
-description: "Complete guide to Full Moon Party Koh Phangan 2026: dates, costs, safety tips, and insider recommendations from experienced travelers."
+description: "Full Moon Party Koh Phangan 2026: all 14 dates (Jan-Dec), realistic budget from $61/night, what to bring, drink safety warnings & where to stay. First-hand tips from repeat visitors."
 featured: false
 readingTime: 9
 lastUpdated: "2026-02-28"

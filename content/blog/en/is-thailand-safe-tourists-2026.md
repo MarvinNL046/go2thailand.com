@@ -1,5 +1,5 @@
 ---
-title: "Is Thailand Safe? Honest Safety Guide for Tourists (2026)"
+title: "Is Thailand Safe in 2026? Yes — But Avoid These 7 Common Risks"
 slug: "is-thailand-safe-tourists-2026"
 date: "2026-02-19"
 author:
@@ -7,7 +7,7 @@ author:
 category: "practical"
 tags: ["safety", "travel-tips", "thailand-guide", "tourist-safety", "bangkok-safety", "practical-advice"]
 image: "/images/blog/is-thailand-safe-tourists-2026.webp"
-description: "Is Thailand safe for tourists? Our honest 2026 safety guide covers real risks, scams, and practical tips from 15+ years in Thailand."
+description: "Thailand is safe for tourists in 2026 — 35M+ visit yearly without incident. But watch out for these scams, traffic risks & drink-spiking tricks. Practical safety tips from 15+ years on the ground."
 featured: false
 readingTime: 9
 lastUpdated: "2026-02-19"
