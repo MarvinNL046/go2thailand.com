@@ -247,9 +247,9 @@
 
 **Context:** 100 attraction descriptions marked `ai_generated: true`. This metadata is visible in page source and signals to Google that content is machine-generated.
 
-- [ ] **Step 1:** Create script to remove `ai_generated` field from all JSON files in `data/enhanced/`
-- [ ] **Step 2:** Run the script
-- [ ] **Step 3:** Commit: `chore: remove ai_generated metadata from attraction data`
+- [x] **Step 1:** Used sed to remove all `"ai_generated"` lines from 132 JSON files in data/enhanced/
+- [x] **Step 2:** Verified: 0 files remaining with ai_generated field
+- [x] **Step 3:** Commit: `chore: remove ai_generated metadata from 132 data files`
 
 ---
 
