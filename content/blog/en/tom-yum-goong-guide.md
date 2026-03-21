@@ -12,12 +12,8 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-15"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
+  - name: "Wikipedia — Tom Yum"
+    url: "https://en.wikipedia.org/wiki/Tom_yum"
   - name: "Fora Travel Thailand Guide"
     url: "https://www.foratravel.com/the-journal/definitive-guide-thailand"
   - name: "Trip.com Thailand Moments"

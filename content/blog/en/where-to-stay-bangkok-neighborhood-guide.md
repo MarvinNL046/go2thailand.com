@@ -12,14 +12,10 @@ featured: false
 readingTime: 12
 lastUpdated: "2026-02-27"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
+  - name: "TAT — Bangkok"
+    url: "https://www.tourismthailand.org/Destinations/Provinces/Bangkok/350"
+  - name: "Wikipedia — Bangkok"
+    url: "https://en.wikipedia.org/wiki/Bangkok"
   - name: "BTS Skytrain Official"
     url: "https://www.bts.co.th/"
 ---

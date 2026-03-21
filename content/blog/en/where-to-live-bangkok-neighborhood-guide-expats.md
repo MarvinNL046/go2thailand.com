@@ -12,10 +12,10 @@ featured: false
 readingTime: 18
 lastUpdated: "2026-02-28"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
+  - name: "Wikipedia — Bangkok"
+    url: "https://en.wikipedia.org/wiki/Bangkok"
+  - name: "Numbeo — Cost of Living Bangkok"
+    url: "https://www.numbeo.com/cost-of-living/in/Bangkok"
   - name: "BTS Skytrain Official"
     url: "https://www.bts.co.th/"
   - name: "Sam Seiber (YouTube)"

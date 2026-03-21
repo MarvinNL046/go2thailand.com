@@ -12,14 +12,10 @@ featured: false
 readingTime: 8
 lastUpdated: "2026-02-17"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
+  - name: "Wikipedia — Street Food of Thailand"
+    url: "https://en.wikipedia.org/wiki/Street_food_of_Thailand"
+  - name: "Statista — Thailand Dining Out"
+    url: "https://www.statista.com/outlook/emo/food/thailand"
   - name: "Thai Food Master"
     url: "https://thaifoodmaster.com/"
 ---

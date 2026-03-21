@@ -18,10 +18,10 @@ sources:
     url: "https://exploreherpetology.com/expedition-northern-thailand-2026"
   - name: "TripAdvisor - King Cobra Village"
     url: "https://www.tripadvisor.com/Attraction_Review-g297926-d546718-Reviews-King_Cobra_Village-Khon_Kaen_Khon_Kaen_Province.html"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
+  - name: "Wikipedia — King Cobra"
+    url: "https://en.wikipedia.org/wiki/King_cobra"
+  - name: "Thai Department of National Parks"
+    url: "https://www.dnp.go.th/wildlife_it/n_web/king_cobra.html"
 ---
 
 Picture this: you're trekking through dense jungle in northern Thailand, the air thick with humidity, when your guide suddenly freezes and points ahead. There, coiled on a sun-warmed rock, is one of the world's most iconic—and dangerous—snakes. The **king cobra season** in Thailand transforms the landscape into a wildlife spectacle that draws adventure seekers from around the globe. But visiting during peak season requires preparation, respect for these magnificent creatures, and an understanding of when and where to encounter them safely.
