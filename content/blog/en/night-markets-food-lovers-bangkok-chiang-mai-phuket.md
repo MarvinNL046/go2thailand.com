@@ -12,14 +12,10 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-17"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Bangkok Post Food & Dining"
-    url: "https://www.bangkokpost.com/"
+  - name: "Chiang Mai Sunday Walking Street - TAT"
+    url: "https://www.tourismthailand.org/Attraction/sunday-walking-street"
+  - name: "Jodd Fairs Bangkok"
+    url: "https://www.facebook.com/JoddFairs/"
   - name: "Chiang Mai City Life"
     url: "https://www.chiangmaicitylife.com/"
 ---

@@ -12,12 +12,12 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-02-19"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Australian Government Smart Traveller"
+  - name: "US State Department - Thailand Travel Advisory"
+    url: "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/thailand-travel-advisory.html"
+  - name: "Australian Government Smart Traveller - Thailand"
     url: "https://www.smartraveller.gov.au/destinations/asia/thailand"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
+  - name: "Tourist Police Thailand - Hotline 1155"
+    url: "https://www.touristpolice.go.th/"
   - name: "Travel Fika Thailand Safety Guide"
     url: "https://www.travelfika.com/tourism/thailand/is-thailand-safe-for-tourists"
 ---

@@ -12,14 +12,10 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-20"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Bangkok Post Food & Dining"
-    url: "https://www.bangkokpost.com/"
+  - name: "Mango Sticky Rice - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Mango_sticky_rice"
+  - name: "Thai Mango Varieties - Department of Agriculture"
+    url: "https://www.doa.go.th/"
   - name: "Thai National Archives - Agricultural Seasons"
     url: "https://www.thai.go.th/"
 ---

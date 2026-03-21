@@ -12,12 +12,10 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-02-28"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
+  - name: "Full Moon Party - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Full_Moon_Party"
+  - name: "Ko Phangan - TAT"
+    url: "https://www.tourismthailand.org/Destinations/Provinces/Ko-Phangan/362"
   - name: "Koh Phangan Official Tourism"
     url: "https://www.kohphangan.com/"
   - name: "Bangkok Post Travel"
