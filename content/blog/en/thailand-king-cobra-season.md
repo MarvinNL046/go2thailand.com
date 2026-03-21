@@ -12,8 +12,8 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-02-18"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
+  - name: "Queen Saovabha Snake Farm - Thai Red Cross"
+    url: "https://www.saovabha.com/"
   - name: "Explore Herpetology"
     url: "https://exploreherpetology.com/expedition-northern-thailand-2026"
   - name: "TripAdvisor - King Cobra Village"
