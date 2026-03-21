@@ -52,9 +52,10 @@ interface Top10AttractionsPageProps {
   city: City;
   attractionsData: Top10AttractionsData | null;
   affiliates: CityAffiliates | null;
+  editorial?: string;
 }
 
-export default function Top10AttractionsPage({ city, attractionsData, affiliates }: Top10AttractionsPageProps) {
+export default function Top10AttractionsPage({ city, attractionsData, affiliates, editorial }: Top10AttractionsPageProps) {
   if (!city) return <div>City not found</div>;
 
   const breadcrumbs = [
@@ -192,16 +193,23 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
           </div>
         </section>
 
+        {/* Editorial Introduction */}
+        {editorial && (
+          <div className="max-w-4xl mx-auto px-4 py-6">
+            <p className="text-lg text-gray-700 leading-relaxed">{editorial}</p>
+          </div>
+        )}
+
         {/* Main Content */}
         <section className="section-padding">
           <div className="container-custom">
             <div className="lg:grid lg:grid-cols-12 lg:gap-8">
-              
+
               {/* Sidebar - Desktop */}
               <aside className="hidden lg:block lg:col-span-3">
                 <div className="sticky top-4 space-y-6">
                   {/* Sticky Sidebar Ad */}
-                  
+
                   {/* Quick Navigation */}
                   <div className="bg-white rounded-2xl shadow-md p-6">
                     <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Quick Jump</h3>
@@ -438,11 +446,24 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
 
   const affiliates = getAffiliates(params.slug as string);
 
+  let editorial = '';
+  try {
+    const editorialsPath = path.join(process.cwd(), 'data', 'top10-editorials.json');
+    if (fs.existsSync(editorialsPath)) {
+      const editorials = JSON.parse(fs.readFileSync(editorialsPath, 'utf8'));
+      const key = `${slug}-attractions`;
+      if (editorials[key]?.en) {
+        editorial = editorials[key].en;
+      }
+    }
+  } catch {}
+
   return {
     props: {
       city,
       attractionsData,
       affiliates,
+      editorial,
     },
     revalidate: 86400 // Revalidate daily
   };

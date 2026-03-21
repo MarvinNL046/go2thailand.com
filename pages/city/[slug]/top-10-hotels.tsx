@@ -65,9 +65,10 @@ interface Top10HotelsData {
 interface Top10HotelsPageProps {
   city: City;
   hotelsData: Top10HotelsData | null;
+  editorial?: string;
 }
 
-export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPageProps) {
+export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10HotelsPageProps) {
   if (!city) return <div>City not found</div>;
 
   const breadcrumbs = [
@@ -197,6 +198,13 @@ export default function Top10HotelsPage({ city, hotelsData }: Top10HotelsPagePro
             </div>
           </div>
         </section>
+
+        {/* Editorial Introduction */}
+        {editorial && (
+          <div className="max-w-4xl mx-auto px-4 py-6">
+            <p className="text-lg text-gray-700 leading-relaxed">{editorial}</p>
+          </div>
+        )}
 
         {/* Trip.com Hotels Widget */}
         <section className="py-8 bg-surface-cream">
@@ -489,10 +497,23 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     // No top 10 hotels data found for this city
   }
 
-  return { 
-    props: { 
+  let editorial = '';
+  try {
+    const editorialsPath = path.join(process.cwd(), 'data', 'top10-editorials.json');
+    if (fs.existsSync(editorialsPath)) {
+      const editorials = JSON.parse(fs.readFileSync(editorialsPath, 'utf8'));
+      const key = `${slug}-hotels`;
+      if (editorials[key]?.en) {
+        editorial = editorials[key].en;
+      }
+    }
+  } catch {}
+
+  return {
+    props: {
       city,
-      hotelsData 
+      hotelsData,
+      editorial,
     },
     revalidate: 86400 // Revalidate daily
   };

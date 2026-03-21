@@ -169,22 +169,24 @@
 
 **Context:** Food/drink pages are JSON data displays. Add unique cultural context paragraphs.
 
-- [ ] **Step 1:** For the top 20 food items, Claude Opus writes 100-150 word cultural context paragraphs:
+- [x] **Step 1:** All 20 food items now have cultural context paragraphs in data/food-editorials.json:
   - Research via WebFetch for authentic cultural background
   - Regional origins, traditional preparation, local eating customs
   - NO fabricated claims — verify via real sources
   Store in `data/food-editorials.json`
-- [ ] **Step 2:** Modify `pages/food/[slug].tsx` to render editorial content above the data section
-- [ ] **Step 3:** Commit: `content: add cultural context to top 20 food pages`
+- [x] **Step 2:** Modified pages/food/[slug].tsx — editorial renders between hero and content sections
+- [x] **Step 3:** Committed: food-editorials.json + template modification
 
 ### Task 12: Add editorial to top-10 pages
 
 **Context:** top-10-attractions, top-10-hotels, top-10-restaurants per city are high-value pages. Add unique intro paragraphs.
 
-- [ ] **Step 1:** For the top 10 cities (Bangkok, Chiang Mai, Phuket, Krabi, Pattaya, Koh Samui, Chiang Rai, Pai, Hua Hin, Kanchanaburi), Claude Opus writes 100-150 word intro paragraphs for each of their 3 top-10 pages (attractions, hotels, restaurants). WebFetch for current info.
+- [x] **Step 1:** All 10 cities × 3 categories = 30 editorial intros written in data/top10-editorials.json (~4,200 words total):
   Store in `data/top10-editorials.json`
-- [ ] **Step 2:** Modify the 3 top-10 page templates to render editorial intro
-- [ ] **Step 3:** Commit: `content: add editorial intros to top-10 pages for 10 major cities`
+- [x] **Step 2:** Modified all 3 top-10 templates (attractions, hotels, restaurants) to load and render editorials
+- [x] **Step 3:** Committed: top10-editorials.json + 3 template modifications
+
+**PHASE 4 COMPLETE — All editorial content tasks done.**
 
 ---
 
