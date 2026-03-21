@@ -274,9 +274,14 @@
 
 ### Task 19: Re-submit to AdSense
 
-- [ ] **Step 1:** After deploy is live, wait 24-48 hours for Google to recrawl
-- [ ] **Step 2:** Submit new AdSense application
-- [ ] **Step 3:** Monitor Google Search Console for any new crawl errors
+- [x] **Step 1:** Deploy is live as of March 21, 2026. All changes pushed to origin/main. Wait 24-48 hours for Google to recrawl the updated sitemap and pages.
+- [ ] **Step 2:** USER ACTION REQUIRED: Submit new AdSense application at https://www.google.com/adsense/ — log in and re-apply. When asked about site content, highlight:
+  - 57 fact-checked blog posts with verified sources
+  - 14 original news articles in dedicated /news section
+  - 2,175 sitemap URLs (reduced from 4,443)
+  - Editorial standards page with AI disclosure
+  - E-E-A-T signals: real sources, correction policy, transparent affiliates
+- [ ] **Step 3:** Monitor Google Search Console for crawl errors after the recrawl completes. Check: Coverage report, Sitemaps report, and Core Web Vitals.
 
 ---
 
