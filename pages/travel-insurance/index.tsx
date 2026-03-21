@@ -184,8 +184,8 @@ export default function TravelInsurancePage() {
   return (
     <>
       <SEOHead
-        title="Best Travel Insurance for Thailand 2026 — Compared & Reviewed"
-        description="Compare the best travel insurance for Thailand in 2026. We review Ekta and SafetyWing on price, scooter cover, medical limits, evacuation and the exclusions that actually matter."
+        title="Best Travel Insurance for Thailand 2026 — From $0.99/Day"
+        description="We compared Ekta (from $0.99/day) and SafetyWing ($62/4 weeks) for Thailand. Scooter cover, medical limits up to $250K, evacuation rules & the exclusions that actually matter."
       >
         <meta
           name="keywords"

@@ -1,5 +1,5 @@
 ---
-title: "Where to Live in Bangkok: 15 Neighbourhoods Ranked for Expats and Digital Nomads (2026)"
+title: "Where to Live in Bangkok 2026: 15 Areas Ranked by Rent, Vibe & BTS Access"
 slug: "where-to-live-bangkok-neighborhood-guide-expats"
 date: "2026-02-28"
 author:
@@ -7,7 +7,7 @@ author:
 category: "city-guide"
 tags: ["Bangkok", "expat life", "digital nomad", "Bangkok neighbourhoods", "cost of living", "long-term stay", "condo Bangkok"]
 image: "/images/blog/where-to-live-bangkok-neighborhood-guide-expats.webp"
-description: "Honest guide to 15 Bangkok neighbourhoods for expats and digital nomads. Rent prices, lifestyle, transport, gyms, nightlife, and which area actually fits how you live."
+description: "We ranked 15 Bangkok neighbourhoods for expats and nomads with real 2026 rent prices (8,000-60,000 THB). Asok, Thong Lor, Ari, On Nut & more — BTS access, gyms, nightlife & who each area suits."
 featured: false
 readingTime: 18
 lastUpdated: "2026-02-28"

@@ -1,5 +1,5 @@
 ---
-title: "Jodd Fairs Bangkok — Night Market Guide & Tips 2026"
+title: "Jodd Fairs Bangkok 2026 — 10 Best Stalls, Prices & How to Get There"
 slug: "jodd-fairs-bangkok-night-market-guide"
 date: "2026-02-21"
 author:
@@ -7,7 +7,7 @@ author:
 category: "food"
 tags: ["night markets", "Bangkok food", "street food", "shopping", "local experiences"]
 image: "/images/blog/jodd-fairs-bangkok-night-market-guide.webp"
-description: "Jodd Fairs Ratchada (2026): 700+ stalls next to Big C, open 17:00-01:00 daily. 3-min walk from MRT Thailand Cultural Centre Exit 4. Leng Zabb volcano ribs from 180 THB, moo ping 10 THB/stick & more."
+description: "Jodd Fairs Ratchada 2026: volcano ribs from 180 THB, moo ping 10 THB/stick, 700+ stalls. Open daily 17:00-01:00, 3-min walk from MRT Exit 4. We list the 10 best food stalls, prices & tips."
 featured: false
 readingTime: 9
 lastUpdated: "2026-03-10"
