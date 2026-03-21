@@ -12,12 +12,12 @@ featured: false
 readingTime: 12
 lastUpdated: "2026-02-27"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
+  - name: "TAT - Plan Your Trip"
+    url: "https://www.tourismthailand.org/plan-your-trip"
+  - name: "Wikipedia - Tourism in Thailand"
+    url: "https://en.wikipedia.org/wiki/Tourism_in_Thailand"
+  - name: "Wikipedia - Culture of Thailand"
+    url: "https://en.wikipedia.org/wiki/Culture_of_Thailand"
   - name: "Thailand Immigration Bureau"
     url: "https://tdac.immigration.go.th/"
   - name: "The Roaming Renegades"

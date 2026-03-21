@@ -12,12 +12,12 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-02-27"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
+  - name: "Numbeo - Cost of Living in Thailand"
+    url: "https://www.numbeo.com/cost-of-living/country_result.jsp?country=Thailand"
+  - name: "Wikipedia - Tourism in Thailand"
+    url: "https://en.wikipedia.org/wiki/Tourism_in_Thailand"
+  - name: "Wikipedia - Economy of Thailand"
+    url: "https://en.wikipedia.org/wiki/Economy_of_Thailand"
   - name: "Nomadic Matt Travel Blog"
     url: "https://www.nomadicmatt.com/travel-blogs/how-much-a-holiday-in-thailand-costs/"
   - name: "Off Path Thailand"

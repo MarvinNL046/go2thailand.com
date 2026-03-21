@@ -16,10 +16,10 @@ sources:
     url: "https://www.tourismthailand.org/Articles/tdac"
   - name: "Thailand Immigration Bureau (TDAC Official)"
     url: "https://tdac.immigration.go.th/arrival-card/#/home"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
+  - name: "Wikipedia - Visa Policy of Thailand"
+    url: "https://en.wikipedia.org/wiki/Visa_policy_of_Thailand"
+  - name: "Thailand Digital Arrival Card (TDAC) Official"
+    url: "https://tdac.immigration.go.th/arrival-card/#/home"
 ---
 # Thailand Digital Arrival Card (TDAC): Complete Step-by-Step Guide 2026
 

@@ -12,16 +12,16 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-02-21"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
+  - name: "TAT - Bangkok"
+    url: "https://www.tourismthailand.org/destinations/bangkok"
+  - name: "TAT - Chiang Mai"
+    url: "https://www.tourismthailand.org/destinations/chiang-mai"
+  - name: "Wikipedia - Tourism in Thailand"
+    url: "https://en.wikipedia.org/wiki/Tourism_in_Thailand"
   - name: "Thailand Immigration (TDAC)"
     url: "https://tdac.immigration.go.th/arrival-card/"
-  - name: "Bangkok Post"
-    url: "https://www.bangkokpost.com/"
+  - name: "Wikipedia - Phuket Province"
+    url: "https://en.wikipedia.org/wiki/Phuket_province"
 ---
 Two weeks in Thailand sounds like a dream—and it absolutely can be. But without a solid plan, you'll waste precious days figuring out logistics instead of experiencing the magic. **A Thailand itinerary 2 weeks** is the sweet spot: long enough to escape the tourist treadmill, short enough to stay focused and energized.
 

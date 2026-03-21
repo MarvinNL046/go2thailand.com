@@ -16,8 +16,8 @@ featured: false
 readingTime: 12
 lastUpdated: "2026-02-17"
 sources:
-  - name: "Tourism Authority of Thailand (TAT)"
-    url: "https://www.tourismthailand.org/"
+  - name: "Wikipedia - Backpacking (travel)"
+    url: "https://en.wikipedia.org/wiki/Backpacking_(travel)"
   - name: "Bank of Thailand - Exchange Rates"
     url: "https://www.bot.or.th/en/statistics/exchange-rate.html"
   - name: "Numbeo - Cost of Living in Thailand"
