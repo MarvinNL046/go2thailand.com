@@ -47,7 +47,7 @@ Before you book a single flight, handle the administrative basics. Most Western 
 
 Upon arrival, you'll be required to complete the Thailand Digital Arrival Card (TDAC) online at least 3 days before your flight. This replaced the old TM.6 form and takes about 5 minutes. You'll receive a QR code to scan at immigration—no paper required.
 
-**Travel insurance is non-negotiable.** Thailand has excellent hospitals, but costs add up fast. A decent policy covering medical evacuation, trip cancellation, and lost baggage runs ฿3,000–5,000 ($85–140 USD) for two weeks. We recommend checking [travel insurance options](https://go2-thailand.com/travel-insurance-thailand/) before departure.
+**Travel insurance is non-negotiable.** Thailand has excellent hospitals, but costs add up fast. A decent policy covering medical evacuation, trip cancellation, and lost baggage runs ฿3,000–5,000 ($85–140 USD) for two weeks. We recommend checking [travel insurance options](https://go2-thailand.com/travel-insurance-thailand/) before departure — our detailed [travel insurance Thailand guide](/blog/travel-insurance-thailand-guide) compares the best providers and coverage levels for 2026.
 
 > **Did You Know?** Thailand receives over 40 million international visitors annually, making it Southeast Asia's most visited country.
 >
@@ -432,9 +432,9 @@ Yes. Thailand is generally safe. Avoid displaying expensive items, don't accept 
 
 ## Conclusion
 
-Two weeks in Thailand is enough to experience the country's soul—the chaos of Bangkok, the spirituality of Chiang Mai, and the paradise of the islands. This itinerary balances must-see sights with breathing room for spontaneity. You'll eat incredible food, meet kind locals, and leave wanting to return.
+Two weeks in Thailand is enough to experience the country's soul—the chaos of Bangkok, the spirituality of Chiang Mai, and the paradise of the islands. This itinerary balances must-see sights with breathing room for spontaneity. You'll eat incredible food, meet kind locals, and leave wanting to return. Not sure if two weeks is the right length? Our guide on [how long to spend in Thailand](/blog/how-long-spend-thailand) helps you decide based on your travel style.
 
-**Ready to book?** Start with flights, then lock in accommodation in peak season. Use our guides on [Bangkok attractions](https://go2-thailand.com/city/bangkok/attractions/), [Chiang Mai hotels](https://go2-thailand.com/city/chiang-mai/hotels/), and [island comparisons](https://go2-thailand.com/compare/koh-samui-vs-koh-phangan/) to plan each leg.
+**Ready to book?** For a broader overview of route options, see our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026). Start with flights, then lock in accommodation in peak season. Use our guides on [Bangkok attractions](https://go2-thailand.com/city/bangkok/attractions/), [Chiang Mai hotels](https://go2-thailand.com/city/chiang-mai/hotels/), and [island comparisons](https://go2-thailand.com/compare/koh-samui-vs-koh-phangan/) to plan each leg.
 
 Have questions? Check out our comprehensive [Thailand travel guides](https://go2-thailand.com/travel-guides/) or reach out. We've been there—we know what works.
 

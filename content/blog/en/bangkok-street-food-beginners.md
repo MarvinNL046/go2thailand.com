@@ -42,7 +42,7 @@ sources:
 
 ## 1. Why Bangkok Street Food Is Special
 
-**Thai street food** is not a downgraded version of restaurant food. Many of **Bangkok's best meals** come from vendors who have perfected a single dish over decades. Some of these stalls have earned **Michelin recognition**. The quality is exceptional, the variety is staggering, and the prices remain remarkably low -- most dishes cost between **30 and 80 THB** (roughly 0.80-2.20 USD). For tips on managing your money, check our [ATM and money guide](/practical-info/atm-money/).
+**Thai street food** is not a downgraded version of restaurant food — it is one of the pillars of [what makes Thai cuisine so unique](/blog/what-is-thai-food-cuisine-guide). Many of **Bangkok's best meals** come from vendors who have perfected a single dish over decades. Some of these stalls have earned **Michelin recognition**. The quality is exceptional, the variety is staggering, and the prices remain remarkably low -- most dishes cost between **30 and 80 THB** (roughly 0.80-2.20 USD). For tips on managing your money, check our [ATM and money guide](/practical-info/atm-money/).
 
 **Street food** is also deeply woven into Thai daily life. Thais eat out constantly, and **street stalls** serve as informal neighbourhood kitchens. Joining in is one of the best ways to experience **local Thai culture**. If you are planning when to go, our guide on the [best time to visit Thailand](/blog/best-time-to-visit-thailand/) can help you pick the ideal season -- [Bangkok's weather](/weather/) is hot year-round, but some months are more comfortable for walking food tours.
 
@@ -124,7 +124,7 @@ Having a working phone helps for translation apps and maps -- consider getting a
 - **Eat where locals eat** -- High turnover means fresh ingredients and constant cooking. A busy stall is a **safe stall**.
 - **Watch the cooking** -- If food is cooked to order on high heat, bacteria are not a concern.
 - **Be careful with ice** -- Tube ice (hollow cylinders) is factory-made and safe. Crushed ice from unknown sources is riskier, though in practice most ice in tourist areas is fine.
-- **Start slow** -- If your stomach is not used to **Thai food**, ease in with mild dishes like **khao man gai** before tackling **spicy som tam**.
+- **Start slow** -- If your stomach is not used to **Thai food**, ease in with mild dishes like **khao man gai** before tackling **spicy som tam**. Not sure how hot things will get? Our guide on [whether Thai food is spicy](/blog/is-thai-food-spicy-guide) breaks down heat levels by dish.
 - **Stay hydrated** -- **Bangkok is hot** and spicy food dehydrates you. Carry a water bottle, especially during the [hot season](/weather/).
 - **Fresh fruit** -- Pre-cut fruit from stalls is generally safe. **Pineapple**, mango, and watermelon are popular and refreshing.
 
@@ -142,7 +142,7 @@ For broader safety advice including common tourist scams, check our [scams and s
 | Dinner | Pad thai + beer | 120 |
 | **Total** | | **270 THB (~7.50 USD)** |
 
-Even adding a **mango sticky rice** for dessert (80 THB), you are still under **350 THB for a full day** of excellent eating. Compare that to a restaurant meal that starts at 150-300 THB for a single dish.
+Even adding a **mango sticky rice** for dessert (80 THB), you are still under **350 THB for a full day** of excellent eating. Compare that to a restaurant meal that starts at 150-300 THB for a single dish. Wondering about the nutritional side of all that street food? Check out our guide on [whether Thai food is healthy](/blog/is-thai-food-healthy).
 
 For more **budget tips** on accommodation, transport, and activities, check our [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/). Getting around Bangkok cheaply is easy with the BTS and MRT -- read our [transport guide](/transport/) for routes and fares.
 

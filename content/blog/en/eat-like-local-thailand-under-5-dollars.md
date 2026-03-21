@@ -38,7 +38,7 @@ Sitting on a plastic stool at a Bangkok street corner at 6 a.m., watching vendor
 
 When we first arrived in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) three years ago, we made the mistake of eating at restaurants with English menus and tourist signage. We were paying 150–200 baht for dishes that locals bought for 40–60 baht from the same vendors. The difference? We were paying for the chair, the air conditioning, and the English-speaking staff—not better food.
 
-**Local Thai food culture is built on efficiency and community.** Thais don't cook elaborate meals at home for breakfast or lunch. Instead, they visit neighborhood food vendors who've perfected a single dish over decades. A vendor selling pad thai might make only pad thai, every single day, for 20 years. This specialization keeps prices low and quality high.
+**Local Thai food culture is built on efficiency and community.** Thais don't cook elaborate meals at home for breakfast or lunch. Instead, they visit neighborhood food vendors who've perfected a single dish over decades. And contrary to popular belief, much of this food is surprisingly nutritious — our guide on [whether Thai food is healthy](/blog/is-thai-food-healthy) explains why. A vendor selling pad thai might make only pad thai, every single day, for 20 years. This specialization keeps prices low and quality high.
 
 ### The Three Tiers of Thai Eating
 
@@ -370,7 +370,7 @@ Eating for under $5 daily is possible and genuinely enjoyable, but there are mom
 
 - **Specialty regional dishes:** If you're in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), try khao soi (Northern curry noodles) at a proper restaurant (80–120 baht). It's worth the extra cost because it's a regional specialty.
 - **Seafood in coastal areas:** If you're on an island like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) or [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/), fresh seafood is actually cheaper than in inland areas. Splurge on grilled fish or prawns (100–150 baht).
-- **Cooking classes:** A Thai cooking class (typically 500–800 baht) teaches you skills that save money long-term. You'll understand Thai flavors and be able to cook at home.
+- **Cooking classes:** A Thai cooking class (typically 500–800 baht) teaches you skills that save money long-term. You'll understand Thai flavors and be able to cook at home. Travelers following a plant-based diet should check our [vegan Thai food guide](/blog/vegan-thai-food-guide), while those needing [halal food in Thailand](/blog/halal-food-thailand-guide) will find more options than they expect.
 - **Night markets:** Bangkok's night markets (like Talad Rot Fai) offer unique street food experiences. Prices are slightly higher (60–100 baht per item) but the variety and quality justify it.
 
 ### Not Worth Splurging On

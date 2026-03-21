@@ -513,11 +513,11 @@ Yes. Thailand is one of Southeast Asia's safest countries for solo travelers. Mi
 
 ### What's the best itinerary for two weeks?
 
-A classic 2-week itinerary: 3–4 days in [Bangkok](https://go2-thailand.com/city/bangkok/), 4–5 days in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) (north), 4–5 days on an island like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) or [Koh Tao](https://go2-thailand.com/islands/koh-tao/) (south). This covers culture, nature, and beaches. See our [2-week itinerary guide](https://go2-thailand.com/blog/thailand-itinerary-2-weeks/) for detailed day-by-day planning.
+A classic 2-week itinerary: 3–4 days in [Bangkok](https://go2-thailand.com/city/bangkok/), 4–5 days in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) (north), 4–5 days on an island like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) or [Koh Tao](https://go2-thailand.com/islands/koh-tao/) (south). This covers culture, nature, and beaches. See our [2-week itinerary guide](https://go2-thailand.com/blog/thailand-itinerary-2-weeks/) for detailed day-by-day planning, or check the [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026) for even more route options. First-timers may also want our dedicated [Thailand itinerary for first-timers](/blog/thailand-itinerary-first-timers) which is designed specifically for newcomers.
 
 ### Do I need travel insurance?
 
-Absolutely. Medical emergencies, flight cancellations, and theft can happen. Travel insurance costs 20–40 USD for 2 weeks and covers evacuation, hospital stays, and lost luggage. It's non-negotiable. Check [travel insurance options](https://go2-thailand.com/travel-insurance-thailand/).
+Absolutely. Medical emergencies, flight cancellations, and theft can happen. Travel insurance costs 20–40 USD for 2 weeks and covers evacuation, hospital stays, and lost luggage. It's non-negotiable. Check [travel insurance options](https://go2-thailand.com/travel-insurance-thailand/) and read our in-depth [travel insurance Thailand guide](/blog/travel-insurance-thailand-guide) for provider comparisons and what to look for in a policy.
 
 ### What should I pack?
 
@@ -533,6 +533,6 @@ Thailand rewards preparation and flexibility in equal measure. Understand the vi
 
 Your first trip to Thailand will likely change how you see travel. You'll return home with stories, friendships, and a deep desire to go back. That's the Thailand effect.
 
-Ready to start planning? Explore our [complete Thailand travel guides](https://go2-thailand.com/travel-guides/) for city-specific advice, [island comparisons](https://go2-thailand.com/compare/), and [detailed itineraries](https://go2-thailand.com/itineraries/). The Go2Thailand team has spent years in this country and loves helping first-timers make the most of their visit.
+Ready to start planning? Explore our [complete Thailand travel guides](https://go2-thailand.com/travel-guides/) for city-specific advice, [island comparisons](https://go2-thailand.com/compare/), and [detailed itineraries](https://go2-thailand.com/itineraries/). If you prefer a pre-planned route, our [Thailand travel packages guide](/blog/thailand-travel-packages-guide) breaks down the best organized options for 2026. The Go2Thailand team has spent years in this country and loves helping first-timers make the most of their visit.
 
 **Safe travels, and we'll see you in Thailand.** 🇹🇭

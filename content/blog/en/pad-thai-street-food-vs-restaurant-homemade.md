@@ -37,7 +37,7 @@ You're standing at a Bangkok street stall at 7 PM, watching a vendor toss noodle
 
 ## 1. What Is Pad Thai, and Why Does It Matter?
 
-**Pad Thai** (ผัดไทย) translates literally to "Thai stir-fry"—a deceptively simple name for one of the world's most beloved noodle dishes. It's a relatively modern creation, popularized in the 1930s–1950s as a nationalist dish to unite Thailand under a common culinary identity. Today, it's the unofficial ambassador of Thai cuisine, served in every corner of the country and recognized globally.
+**Pad Thai** (ผัดไทย) translates literally to "Thai stir-fry"—a deceptively simple name for one of the world's most beloved noodle dishes. It's a relatively modern creation, popularized in the 1930s–1950s as a nationalist dish to unite Thailand under a common culinary identity. To understand how Pad Thai fits into the broader [history of Thai cuisine](/blog/history-of-thai-cuisine), our dedicated guide traces the evolution from royal courts to street stalls. Today, it's the unofficial ambassador of Thai cuisine, served in every corner of the country and recognized globally.
 
 The core components are always the same: thin rice noodles, tamarind paste for sourness, fish sauce for umami depth, palm sugar for balance, eggs, protein (chicken, shrimp, or tofu), and aromatics like garlic and shallots. Toppings vary but typically include crushed roasted peanuts, fresh lime, dried chili flakes, and sometimes bean sprouts or Chinese chives. Yet despite this simplicity, the three versions you'll encounter—street, restaurant, and homemade—taste remarkably different. Understanding why teaches you something fundamental about Thai cooking: **technique and heat matter as much as ingredients**.
 
@@ -443,7 +443,7 @@ Yes, street Pad Thai is generally very safe, often safer than restaurants. High 
 
 ### Can I request Pad Thai without fish sauce?
 
-Yes, most vendors will make Pad Thai without fish sauce if you ask ("mai sai pla"). However, the flavor will be noticeably different—fish sauce provides umami depth that's hard to replicate. If you're sensitive to fish sauce, try a small amount first; some people find they tolerate it better in cooked dishes than in other applications.
+Yes, most vendors will make Pad Thai without fish sauce if you ask ("mai sai pla"). However, the flavor will be noticeably different—fish sauce provides umami depth that's hard to replicate. If you're sensitive to fish sauce, try a small amount first; some people find they tolerate it better in cooked dishes than in other applications. If you have celiac disease or gluten sensitivity, check our guide on [whether Thai food is gluten-free](/blog/is-thai-food-gluten-free) — rice noodle-based Pad Thai is generally a safe choice, but soy sauce substitutions can introduce gluten.
 
 ### What's the best protein for Pad Thai?
 
@@ -459,6 +459,6 @@ If you're visiting Thailand, prioritize eating street Pad Thai from a busy vendo
 
 The real lesson isn't about Pad Thai specifically—it's that Thai cuisine is fundamentally about balance, technique, and respect for ingredients. Whether you're eating from a street stall for 50 THB or cooking in your own kitchen, understanding these principles elevates your experience.
 
-**Ready to explore Thai food culture deeper?** Check out our comprehensive [Thai food guide](https://go2-thailand.com/food/) for profiles of other iconic dishes like [Pad Krapow](https://go2-thailand.com/food/pad-krapow/), [Som Tam](https://go2-thailand.com/food/som-tam/), and [Tom Yum Goong](https://go2-thailand.com/food/tom-yum-goong/). Or explore [cooking classes in Chiang Mai](https://go2-thailand.com/blog/thai-cooking-classes-chiang-mai/) to learn these techniques hands-on from expert instructors.
+**Ready to explore Thai food culture deeper?** Start with our pillar guide on [what Thai food really is](/blog/what-is-thai-food-cuisine-guide), then check out our comprehensive [Thai food guide](https://go2-thailand.com/food/) for profiles of other iconic dishes like [Pad Krapow](https://go2-thailand.com/food/pad-krapow/), [Som Tam](https://go2-thailand.com/food/som-tam/), and [Tom Yum Goong](https://go2-thailand.com/food/tom-yum-goong/). Or explore [cooking classes in Chiang Mai](https://go2-thailand.com/blog/thai-cooking-classes-chiang-mai/) to learn these techniques hands-on from expert instructors.
 
 **Trust us:** We've eaten Pad Thai from street stalls to Michelin-recognized restaurants across Thailand. The street vendor version still wins, every time.

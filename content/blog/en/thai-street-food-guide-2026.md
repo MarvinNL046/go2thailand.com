@@ -23,7 +23,7 @@ sources:
 
 ## Opening Paragraph
 
-Did you know that **Thai street food** has been recognized as one of the world's best culinary experiences? From sizzling woks to fragrant stalls, the streets of Thailand offer an endless array of flavors that capture the essence of Thai culture. In this guide, we'll explore 15 must-try dishes that every food lover should sample in 2026.
+Did you know that **Thai street food** has been recognized as one of the world's best culinary experiences? From sizzling woks to fragrant stalls, the streets of Thailand offer an endless array of flavors that capture the essence of Thai culture. If you want to understand the foundations behind these flavors, read our complete guide on [what Thai food is and what makes it unique](/blog/what-is-thai-food-cuisine-guide). In this guide, we'll explore 15 must-try dishes that every food lover should sample in 2026.
 
 ## Key Takeaways
 
@@ -78,7 +78,7 @@ Tom Yum Goong is a hot and sour soup known for its fragrant broth infused with l
 ### Where to Enjoy the Best Tom Yum
 We recommend trying the Tom Yum at Jay Fai, a Michelin-starred street food vendor in Bangkok.
 
-**Ordering Like a Local**: Ask for "Tom Yum Goong, phet!" for a spicy kick.
+**Ordering Like a Local**: Ask for "Tom Yum Goong, phet!" for a spicy kick. Curious about what gives Thai food its signature heat? Our guide explains [whether Thai food is really spicy](/blog/is-thai-food-spicy-guide) and how to navigate spice levels.
 
 ## 4. Larb (Spicy Minced Meat Salad)
 
@@ -167,7 +167,7 @@ During our island-hopping adventures, we found the best Mango Sticky Rice in Koh
 Pad Thai is often recommended as a starting point for newcomers to Thai street food.
 
 ### Are there vegetarian options available?
-Yes, many street food vendors offer vegetarian dishes like Pad Thai without meat and various vegetable salads.
+Yes, many street food vendors offer vegetarian dishes like Pad Thai without meat and various vegetable salads. For a deeper look at plant-based options, see our [vegan Thai food guide](/blog/vegan-thai-food-guide). Travelers following [halal dietary requirements](/blog/halal-food-thailand-guide) will also find plenty of choices.
 
 ### How can I ensure the food is safe to eat?
 Choose busy stalls with high turnover, as this indicates fresh ingredients.

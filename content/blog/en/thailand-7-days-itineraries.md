@@ -486,7 +486,7 @@ Thai food is one of the main reasons to visit. Don't eat only at tourist restaur
 
 ### Can I do Thailand in 7 days as a first-timer?
 
-Yes, absolutely. Seven days is enough to see Bangkok, visit one or two other cities, and get a real feel for the country. You won't see everything, but you'll understand why Thailand is so beloved.
+Yes, absolutely. Seven days is enough to see Bangkok, visit one or two other cities, and get a real feel for the country. You won't see everything, but you'll understand why Thailand is so beloved. If you have more time, consider our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026) or the popular [10-day itinerary](/blog/thailand-10-day-itinerary) for a deeper experience.
 
 ### Is 7 days enough for island hopping?
 
@@ -498,7 +498,7 @@ Buses are cheapest (300–800 THB), but overnight trains are more comfortable an
 
 ### Do I need travel insurance?
 
-Yes. Medical costs in Thailand are low, but accidents happen. Travel insurance is 10–20 USD for a week and covers evacuation, which is critical. Get it before you leave home.
+Yes. Medical costs in Thailand are low, but accidents happen. Travel insurance is 10–20 USD for a week and covers evacuation, which is critical. Get it before you leave home. Our [travel insurance Thailand guide](/blog/travel-insurance-thailand-guide) compares the best policies and explains exactly what coverage you need.
 
 ### Is it okay to travel solo in Thailand?
 

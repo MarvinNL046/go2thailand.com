@@ -181,7 +181,7 @@ Chiang Mai has a thriving health-food community. **Pink House Garden** is a dedi
 
 ### Phuket and the Islands
 
-Tourist areas in Phuket, Koh Samui, and Koh Phangan have restaurants that cater to Western dietary needs. Many beachfront restaurants display allergen menus. These areas are generally easier for gluten-free travelers than off-the-beaten-path destinations.
+Tourist areas in Phuket, Koh Samui, and Koh Phangan have restaurants that cater to Western dietary needs and often display allergen menus.
 
 ## Practical Tips for Eating Gluten Free in Thailand
 
@@ -204,7 +204,7 @@ Look for stalls that focus on **grilled meats with sticky rice**, papaya salad, 
 
 ### Shop at Supermarkets and Convenience Stores
 
-**7-Eleven** stores are everywhere in Thailand and carry some naturally gluten-free snacks: plain rice crackers, fresh fruit, nuts, and some yoghurts. For a wider selection, visit **Tops**, **Villa Market**, or **Big C** where you can find imported gluten-free products.
+**7-Eleven** stores carry naturally gluten-free snacks: rice crackers, fresh fruit, and nuts. For imported GF products, visit **Tops**, **Villa Market**, or **Big C**.
 
 ### Book Accommodation with a Kitchen
 
@@ -212,7 +212,7 @@ If you have severe celiac disease, consider accommodation with a kitchen so you 
 
 ### Be Cautious with Alcohol
 
-Most Thai beers, including Singha, Chang, and Leo, are brewed with **barley and contain gluten**. Safer options include Thai rice whiskey (like Mekhong), wine, ciders, and cocktails made with spirits. Sato, a traditional Thai rice wine, is naturally gluten free.
+Most Thai beers (Singha, Chang, Leo) are brewed with **barley and contain gluten**. Safer options include rice whiskey (Mekhong), wine, ciders, and spirits. Sato, a traditional Thai rice wine, is naturally gluten free.
 
 Interested in plant-based options while in Thailand? Many gluten-free dishes overlap with vegan ones -- see our [vegan Thai food guide](/blog/vegan-thai-food-guide/).
 
@@ -244,7 +244,7 @@ Popular options include **Veganerie** (four locations, labelled GF menu), **Thee
 
 ### Is fish sauce gluten free?
 
-**Most fish sauce is gluten free**, as it is made from fermented fish and salt. Major Thai brands like Tiparos and Squid Brand are generally considered safe. However, a small number of cheaper brands may include wheat-derived additives, so check the label if you are buying bottled fish sauce to take home.
+**Most fish sauce is gluten free** -- fermented fish and salt. Major Thai brands like Tiparos and Squid Brand are considered safe. A small number of cheaper brands may include wheat-derived additives, so check labels when buying bottles.
 
 ### Can I do a Thai cooking class with celiac disease?
 
@@ -252,4 +252,4 @@ Popular options include **Veganerie** (four locations, labelled GF menu), **Thee
 
 ---
 
-Eating gluten free in Thailand is **very manageable** once you understand the risks and learn how to communicate. The cuisine's rice-based foundation works in your favour, and with a few precautions around soy sauce and oyster sauce, you can enjoy an incredible range of Thai dishes safely. Print your allergy card, pack your tamari, and get ready to eat well. For more practical travel advice, check our [practical info guides](/practical-info/).
+Eating gluten free in Thailand is **very manageable** once you understand the risks and learn how to communicate. The rice-based foundation works in your favour -- print your allergy card, pack your tamari, and get ready to eat well. For more practical travel advice, check our [practical info guides](/practical-info/).

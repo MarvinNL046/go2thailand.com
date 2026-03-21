@@ -1,5 +1,5 @@
 ---
-title: "Chatuchak Weekend Market Food Guide: What to Eat and Skip"
+title: "Chatuchak Market Food Guide [2026]: 15 Must-Try Dishes"
 slug: "chatuchak-weekend-market-food-guide"
 date: "2026-03-19"
 author:
@@ -7,7 +7,7 @@ author:
 category: "food"
 tags: ["chatuchak market", "Bangkok food", "street food guide", "Thai markets", "weekend markets", "Bangkok eating guide"]
 image: "/images/blog/chatuchak-weekend-market-food-guide.webp"
-description: "Expert guide to eating at Chatuchak Weekend Market. Discover must-try dishes, hidden gems, vendor tips, and what to avoid. Eat like a local."
+description: "The best food at Chatuchak Weekend Market in 2026. 15 must-try dishes, hidden local stalls, prices, and what to skip. Updated insider tips."
 featured: false
 readingTime: 9
 lastUpdated: "2026-03-19"

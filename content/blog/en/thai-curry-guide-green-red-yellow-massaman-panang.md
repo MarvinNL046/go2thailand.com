@@ -70,7 +70,7 @@ Different regions of Thailand favor different curries based on local ingredients
 
 ## 2. Green Curry (Gaeng Keow Wan): The Fieriest Choice
 
-**Green curry** is the heat champion of the Thai curry world. Despite its vibrant, almost innocent appearance, green curry packs the most punch because it's made with young, unripe green chilies—which contain more capsaicin than mature red ones. The name "keow wan" literally means "sweet green," but don't let that fool you.
+**Green curry** is the heat champion of the Thai curry world. Despite its vibrant, almost innocent appearance, green curry packs the most punch because it's made with young, unripe green chilies—which contain more capsaicin than mature red ones. Our guide on [what makes Thai food spicy](/blog/what-makes-thai-food-spicy) dives deep into the science behind these chilies and capsaicin levels. The name "keow wan" literally means "sweet green," but don't let that fool you.
 
 In our experience exploring street food stalls in [Bangkok's](https://go2-thailand.com/city/bangkok/) Chinatown, we found that green curry is beloved by locals who grew up with spice tolerance. The paste includes fresh basil (Thai basil, not Italian), which gives it a distinctive peppery, slightly anise-like flavor that sets it apart from its red cousin. The coconut milk is typically lighter than in Panang or Massaman, allowing the heat and herb flavors to shine.
 
@@ -318,7 +318,7 @@ Ordering curry in Thailand is an art form. Thais customize their curries based o
 </div>
 
 
-This is crucial: **always specify your spice level**. Thais eat curries significantly spicier than most Western visitors can handle. When you order, say:
+This is crucial: **always specify your spice level**. If you're unsure about your tolerance, our guide on [how spicy Thai food really is](/blog/is-thai-food-spicy-guide) explains what to expect at each level. Thais eat curries significantly spicier than most Western visitors can handle. When you order, say:
 
 - "Pet nit noi" (เผ็ดนิดหน่อย) = A little spicy
 - "Pet nit noi nit noi" (เผ็ดนิดหน่อยนิดหน่อย) = Very mild
@@ -378,7 +378,7 @@ Green curry (gaeng keow wan) is the spiciest. It's made with young, unripe green
 
 ### Can I make Thai curry vegetarian?
 
-Absolutely. Replace the protein with tofu, mushrooms, or extra vegetables. The curry paste traditionally contains shrimp paste (kapi), but vegetarian versions use soy sauce or omit it entirely. Ask restaurants for "vegetarian curry" (gaeng jeh) and specify no fish sauce if you're strict vegetarian.
+Absolutely. Replace the protein with tofu, mushrooms, or extra vegetables. The curry paste traditionally contains shrimp paste (kapi), but vegetarian versions use soy sauce or omit it entirely. Ask restaurants for "vegetarian curry" (gaeng jeh) and specify no fish sauce if you're strict vegetarian. For a comprehensive look at plant-based eating across Thailand, see our [vegan Thai food guide](/blog/vegan-thai-food-guide).
 
 ### What's the difference between curry paste and curry powder?
 

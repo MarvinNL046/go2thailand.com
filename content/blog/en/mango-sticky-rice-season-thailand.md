@@ -43,7 +43,7 @@ During our three years living in [Chiang Mai](https://go2-thailand.com/city/chia
 
 **Mango sticky rice** is far more than a random pairing of ingredients—it's a carefully balanced dessert rooted in Thai culinary tradition and Buddhist temple culture. The dish emerged from the royal courts of Thailand, where sticky rice (khao niao) was already a staple, and coconut-based sweets were reserved for special occasions.
 
-The genius of this dessert lies in its simplicity and the harmony between three core elements: the glutinous texture of sticky rice, the natural sweetness and slight tartness of ripe mango, and the rich, creamy coconut sauce that binds everything together. When we first tasted authentic mango sticky rice at a night market in [Bangkok](https://go2-thailand.com/city/bangkok/), we immediately understood why it's become Thailand's most iconic dessert globally.
+The genius of this dessert lies in its simplicity and the harmony between three core elements: the glutinous texture of sticky rice, the natural sweetness and slight tartness of ripe mango, and the rich, creamy coconut sauce that binds everything together. This balance of flavors is central to [what makes Thai food so special](/blog/what-is-thai-food-cuisine-guide). When we first tasted authentic mango sticky rice at a night market in [Bangkok](https://go2-thailand.com/city/bangkok/), we immediately understood why it's become Thailand's most iconic dessert globally.
 
 ### The History & Cultural Significance
 
@@ -407,7 +407,7 @@ If you're making mango sticky rice outside Thailand, source the best mangoes ava
 3. **Select ripe mango:** The mango should yield slightly to pressure but not be mushy.
 4. **Assemble:** Arrange warm sticky rice on a plate, top with mango slices, and drizzle with coconut sauce.
 
-**Pro tip:** The quality of your sticky rice is paramount. Use jasmine sticky rice (available at Asian markets), not regular jasmine rice.
+**Pro tip:** The quality of your sticky rice is paramount. Use jasmine sticky rice (available at Asian markets), not regular jasmine rice. Good news for those with celiac disease: mango sticky rice is naturally gluten-free — learn more in our [guide to whether Thai food is gluten-free](/blog/is-thai-food-gluten-free).
 
 ---
 

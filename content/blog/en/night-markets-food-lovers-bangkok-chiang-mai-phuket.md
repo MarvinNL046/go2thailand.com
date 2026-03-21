@@ -1,5 +1,5 @@
 ---
-title: "Night Markets for Food Lovers: Bangkok, Chiang Mai & Phuket Compared"
+title: "Best Night Markets Bangkok: Jodd Fairs & More [2026]"
 slug: "night-markets-food-lovers-bangkok-chiang-mai-phuket"
 date: "2026-03-17"
 author:
@@ -7,7 +7,7 @@ author:
 category: "food"
 tags: ["night markets", "street food", "Bangkok food", "Chiang Mai food", "Phuket food", "Thai cuisine"]
 image: "/images/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket.webp"
-description: "Explore Thailand's best night markets in Bangkok, Chiang Mai & Phuket. Compare food stalls, prices, atmosphere & what to eat like a local."
+description: "Compare the best night markets in Bangkok, Chiang Mai & Phuket for 2026. Jodd Fairs, Chatuchak Night, prices, top food stalls, and local tips."
 featured: false
 readingTime: 9
 lastUpdated: "2026-03-17"

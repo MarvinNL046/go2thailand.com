@@ -1,5 +1,5 @@
 ---
-title: "Som Tam (Green Papaya Salad): Regional Variations Across Thailand"
+title: "Som Tam Guide: 8 Thai Papaya Salad Styles [2026]"
 slug: "som-tam-regional-variations-thailand"
 date: "2026-03-18"
 author:
@@ -7,7 +7,7 @@ author:
 category: "food"
 tags: ["som tam", "green papaya salad", "Thai cuisine", "regional food", "street food", "Isaan cuisine"]
 image: "/images/blog/som-tam-regional-variations-thailand.webp"
-description: "Discover som tam variations across Thailand's regions. Learn regional flavors, where to eat, and how to order like a local."
+description: "Explore 8 som tam (papaya salad) regional variations across Thailand. From Isaan pla ra to Bangkok-style, with ordering tips and spice levels."
 featured: false
 readingTime: 9
 lastUpdated: "2026-03-18"

@@ -1,5 +1,5 @@
 ---
-title: "Khao Soi: Chiang Mai's Signature Dish and Where to Find the Best Bowl"
+title: "Khao Soi Chiang Mai: 7 Best Restaurants [2026]"
 slug: "khao-soi-chiang-mai-guide"
 date: "2026-03-21"
 author:
@@ -7,7 +7,7 @@ author:
 category: "food"
 tags: ["khao soi", "chiang mai food", "thai cuisine", "northern thai dishes", "street food"]
 image: "/images/blog/khao-soi-chiang-mai-guide.webp"
-description: "Discover Chiang Mai's iconic khao soi: its history, regional variations, and where locals eat the best bowls. A complete guide to Thailand's most beloved noodle curry."
+description: "Find the best khao soi in Chiang Mai for 2026. 7 local restaurants, recipe tips, prices from 50 THB, and how to order like a local."
 featured: false
 readingTime: 9
 lastUpdated: "2026-03-21"
@@ -50,7 +50,7 @@ The dish consists of several distinct components that work together in harmony. 
 
 ### The Broth: Heart of the Dish
 
-The curry broth is where khao soi's complexity lives. Unlike the thin, clear broths of some Thai noodle soups, khao soi's broth is thick, creamy, and deeply flavored. The base typically includes turmeric, coriander, cumin, and sometimes cardamom—spices that hint at the dish's historical connections to Burma and the Silk Road. When we tasted khao soi from different vendors across Chiang Mai, the variations in broth depth were striking. Some stalls use a lighter touch with coconut milk, creating a more savory profile, while others lean into richness with extra cream and meat stock.
+The curry broth is where khao soi's complexity lives. Unlike the thin, clear broths of some Thai noodle soups, khao soi's broth is thick, creamy, and deeply flavored. The base typically includes turmeric, coriander, cumin, and sometimes cardamom—spices that hint at the dish's historical connections to Burma and the Silk Road. Curious about the chili science behind that warmth? Our guide on [what makes Thai food spicy](/blog/what-makes-thai-food-spicy) breaks down how capsaicin works in curry pastes like khao soi's. When we tasted khao soi from different vendors across Chiang Mai, the variations in broth depth were striking. Some stalls use a lighter touch with coconut milk, creating a more savory profile, while others lean into richness with extra cream and meat stock.
 
 The meat—usually chicken, pork, or duck—is simmered in this broth until tender, absorbing the spices completely. The best versions use bone-in cuts or stock made from bones, which adds a subtle depth that you can taste but can't quite name.
 
@@ -369,7 +369,7 @@ Based on our years of eating khao soi in Chiang Mai, here are practical tips tha
 
 ### Is khao soi spicy?
 
-Traditional khao soi has a mild to medium level of spice from the turmeric and chili in the curry paste. However, you can request "mai pet" (not spicy) when ordering, and the vendor will prepare a milder version. You can also add extra heat with dried chili flakes if you prefer more spice.
+Traditional khao soi has a mild to medium level of spice from the turmeric and chili in the curry paste. However, you can request "mai pet" (not spicy) when ordering, and the vendor will prepare a milder version. You can also add extra heat with dried chili flakes if you prefer more spice. For a broader overview of heat levels across Thai dishes, see our guide on [whether Thai food is spicy](/blog/is-thai-food-spicy-guide).
 
 ### Can I eat khao soi if I'm vegetarian?
 
