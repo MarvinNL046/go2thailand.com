@@ -12,14 +12,10 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-08"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Bangkok Post Food & Dining"
-    url: "https://www.bangkokpost.com/"
+  - name: "Thai Curry - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Thai_curry"
+  - name: "Massaman Curry - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Massaman_curry"
   - name: "Thai Ministry of Culture"
     url: "https://www.moc.go.th/"
 ---

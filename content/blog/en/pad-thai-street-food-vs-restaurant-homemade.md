@@ -12,14 +12,8 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-16"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Bangkok Post Food & Dining"
-    url: "https://www.bangkokpost.com/"
+  - name: "Pad Thai - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Pad_thai"
   - name: "Thai Street Food Foundation"
     url: "https://www.thaistfood.com/"
 ---

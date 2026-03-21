@@ -12,12 +12,10 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-18"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Bangkok Post Food & Dining"
-    url: "https://www.bangkokpost.com/"
+  - name: "Som Tam - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Som_tam"
+  - name: "Isaan Cuisine - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Isan_cuisine"
   - name: "The Thaiger Thailand News"
     url: "https://thethaiger.com/"
 ---

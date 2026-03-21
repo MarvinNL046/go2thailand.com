@@ -12,12 +12,10 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-03-09"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
+  - name: "Chiang Mai Province - TAT"
+    url: "https://www.tourismthailand.org/Destinations/Provinces/Chiang-Mai/101"
+  - name: "Thai Cuisine - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Thai_cuisine"
   - name: "Chiang Mai City Municipality"
     url: "https://www.chiangmai.go.th/"
 ---

@@ -12,14 +12,10 @@ featured: false
 readingTime: 9
 lastUpdated: "2026-02-28"
 sources:
-  - name: "Tourism Authority of Thailand"
-    url: "https://www.tourismthailand.org/"
-  - name: "Thailand Blog"
-    url: "https://thailandblog.nl/en/"
-  - name: "Lonely Planet Thailand"
-    url: "https://www.lonelyplanet.com/thailand"
-  - name: "Bangkok Post Travel"
-    url: "https://www.bangkokpost.com/travel"
+  - name: "Phuket Province - TAT"
+    url: "https://www.tourismthailand.org/Destinations/Provinces/Phuket/350"
+  - name: "Phuket Big Buddha - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Phuket_Big_Buddha"
   - name: "Phuket News"
     url: "https://www.phuketgazette.net/"
 ---
