@@ -188,13 +188,14 @@ interface TransportRouteLink {
 }
 
 interface CityPageProps {
+  editorial?: string;
   city: City;
   relatedCities: any[];
   comparisons: CityComparisonLink[];
   transportLinks: TransportRouteLink[];
 }
 
-export default function CityPage({ city, relatedCities, comparisons, transportLinks }: CityPageProps) {
+export default function CityPage({ city, relatedCities, comparisons, transportLinks, editorial }: CityPageProps) {
   const router = useRouter();
   const { locale = 'en' } = router;
   const [showFullDescription, setShowFullDescription] = useState(false);
@@ -417,6 +418,17 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
           </div>
         </section>
 
+
+        {/* Editorial Introduction */}
+        {editorial && (
+          <section className="bg-white border-b">
+            <div className="container-custom py-8">
+              <p className="text-lg text-gray-700 leading-relaxed max-w-4xl">
+                {editorial}
+              </p>
+            </div>
+          </section>
+        )}
 
         {/* Content */}
         <section className="bg-white">
@@ -1851,12 +1863,26 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     return other ? { slug: s, otherName: other.name, otherSlug: other.slug } : null;
   }).filter(Boolean);
 
+  // Load editorial introduction if available
+  let editorial = '';
+  try {
+    const editorialsPath = require('path').join(process.cwd(), 'data', 'city-editorials.json');
+    const fs = require('fs');
+    if (fs.existsSync(editorialsPath)) {
+      const editorials = JSON.parse(fs.readFileSync(editorialsPath, 'utf8'));
+      if (editorials[slug]?.en) {
+        editorial = editorials[slug].en;
+      }
+    }
+  } catch {}
+
   return {
     props: {
       city,
       relatedCities,
       comparisons,
       transportLinks: cityTransportLinks,
+      editorial,
     },
     revalidate: 86400,
   };
