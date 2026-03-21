@@ -142,3 +142,25 @@ That said, the price is **three to four times higher** than many excellent cooki
 - [Chatuchak Market Guide](/blog/chatuchak-market-bangkok-guide/) -- shopping and food at Bangkok's biggest market
 - [Bangkok City Guide](/city/bangkok/) -- everything you need to plan your visit
 - [Best Time to Visit Thailand](/blog/best-time-to-visit-thailand/) -- when to plan your trip
+
+## FAQ
+
+### How much does the Blue Elephant cooking class cost?
+
+The class starts from **EUR 121 per person**. This includes a market tour, chef demonstration, hands-on cooking of four dishes, lunch in the restaurant, a recipe booklet, an apron, and a certificate. Budget alternatives in Bangkok start from EUR 22.
+
+### How long is the Blue Elephant cooking class?
+
+It is a **full-day experience** that runs from the morning to early afternoon. The schedule includes a market visit, a chef demonstration, hands-on cooking of four dishes, and a sit-down lunch in the Blue Elephant restaurant.
+
+### Do I need to book the Blue Elephant class in advance?
+
+Yes, booking ahead is strongly recommended. Blue Elephant is one of Bangkok's most popular cooking schools and classes fill up, especially during peak tourist season from November to March. You can book online through GetYourGuide or directly through their website.
+
+### Is the Blue Elephant cooking class worth the price?
+
+For beginners who want a premium, polished experience, yes. The heritage building, expert instruction from Chef Nor's team, market tour, and restaurant-quality lunch justify the higher price. If you are on a tight budget or want advanced techniques, more affordable classes may be a better fit.
+
+### What do you cook at Blue Elephant?
+
+You cook **four dishes**: Thai green curry (from scratch, including pounding the curry paste by hand), golden bags (prawn and pork wontons), chicken cashew nut stir-fry, and pad Thai. All recipes are included in a take-home booklet.

@@ -625,6 +625,22 @@ Book 90 days (3 months) ahead for the best prices and availability. Booking 60 d
 
 Bring comfortable walking shoes, lightweight clothing (November is warm), a light jacket for evenings, sunscreen, insect repellent, a portable charger for your phone, and a camera. Avoid large bags at crowded venues. Wear modest clothing if visiting temples. Consider a small backpack rather than a purse for security.
 
+### When exactly is Loi Krathong 2026?
+
+Loi Krathong 2026 is expected to fall around **November 10-12**, based on the full moon of the 12th lunar month. The exact dates are confirmed annually by the Thai government. Festivities typically extend 3-5 days around the main full moon night.
+
+### Which city is best for Loi Krathong and Yi Peng?
+
+Chiang Mai is the best for the Yi Peng sky lantern spectacle, with 10,000+ lanterns released in coordinated events. Sukhothai offers the most visually stunning and authentic Loi Krathong experience with its UNESCO World Heritage temple backdrop. Bangkok provides urban convenience with multiple celebration venues.
+
+### What is a krathong?
+
+A krathong is a decorated floating basket, traditionally made from banana leaves, containing a candle, incense sticks, and flowers. You light the candle and incense, make a silent wish or prayer, then gently place it on water. The floating krathong symbolizes letting go of negativity and bad luck from the past year.
+
+### Can tourists participate in Loi Krathong and Yi Peng?
+
+Absolutely. Both festivals welcome visitors warmly. You can buy a krathong (100-500 THB) and float it on the water, or purchase a sky lantern kit at organized Yi Peng events. Temple ceremonies are open to respectful visitors. No advance registration is needed for most public celebrations.
+
 ### Can I visit during the festivals if I don't want to participate in lantern releases?
 
 Absolutely. The festivals offer cultural experiences, temple visits, local food, and people-watching beyond lantern releases. You can enjoy the atmosphere, attend performances, explore historical sites, and participate in other activities without releasing lanterns. Many visitors find the overall festival experience rewarding even without direct participation.

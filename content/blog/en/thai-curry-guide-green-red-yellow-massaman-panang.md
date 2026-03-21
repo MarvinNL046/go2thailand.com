@@ -407,3 +407,20 @@ The key to mastering Thai curry is simple: ask questions, specify your preferenc
 For more authentic Thai food experiences, explore our comprehensive [Thai food guide](https://go2-thailand.com/food/) and discover other essential dishes like [Pad Thai](https://go2-thailand.com/food/pad-thai/), [Tom Yum Goong](https://go2-thailand.com/food/tom-yum-goong/), and [Mango Sticky Rice](https://go2-thailand.com/food/mango-sticky-rice/). Ready to plan your curry adventure? Check out our [Thailand itineraries](https://go2-thailand.com/itineraries/) for food-focused trips.
 
 **Trust us:** after years of living and eating in Thailand, we can confidently say that understanding curries transforms your entire Thailand experience. You're not just eating—you're participating in a culinary tradition that spans centuries and connects you to the heart of Thai culture.
+
+## FAQ
+
+### Which Thai curry is the mildest?
+Yellow curry (gaeng garee) is the mildest Thai curry. It uses turmeric and dried chilies rather than fresh ones, resulting in a warm, comforting flavor with minimal heat. It is the most approachable curry for first-time visitors and children, often served with potatoes and chicken.
+
+### What is the difference between green curry and red curry?
+Green curry uses young, unripe green chilies and is actually spicier than red curry, which uses mature red chilies. Green curry has a more herbaceous, fresh flavor with prominent Thai basil notes, while red curry is sweeter, deeper, and more rounded. Red curry also tends to have richer coconut milk content.
+
+### Is Massaman curry spicy?
+Massaman curry is mild to medium in spiciness, rated about 2 out of 5 on the heat scale. Its warmth comes primarily from aromatic spices like cinnamon, cardamom, and cloves rather than chili heat. The peanuts and potatoes further temper any spiciness, making it one of the most approachable Thai curries for those sensitive to heat.
+
+### Which Thai curry is the most popular?
+Green curry and red curry are the most popular Thai curries both in Thailand and internationally. Red curry appears on nearly every restaurant menu across the country because of its balanced flavor that appeals to most palates. Among locals, green curry is a favorite for those who enjoy more heat and herbaceous complexity.
+
+### Are Thai curries healthy?
+Thai curries are generally nutritious, packed with vegetables, lean protein, and beneficial spices like turmeric and galangal that have anti-inflammatory properties. However, they are high in saturated fat from coconut milk and contain significant sodium from fish sauce. Eaten in moderation as part of a balanced diet, Thai curries provide fiber, vitamins, and protein.

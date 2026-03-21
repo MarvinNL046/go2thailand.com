@@ -465,6 +465,14 @@ Pack light. You'll do laundry frequently, and heavy luggage is a burden. Essenti
 
 Yes. Apply for a [Tourist Visa](https://go2-thailand.com/visa/tourist-visa/) (60 days) before arrival, or do a visa run to a neighboring country (Cambodia, Laos, Myanmar) and re-enter for another 30 days. Many solo travelers do multiple visa runs. Alternatively, apply for a [Digital Nomad Visa](https://go2-thailand.com/visa/digital-nomad-visa/) (180 days) if you have a remote income.
 
+### What should solo women wear in Thailand?
+
+Dress modestly and comfortably. Cover shoulders and knees when visiting temples or rural areas. Lightweight, breathable fabrics work best in the tropical heat. Avoid very tight or revealing clothing, which can attract unwanted attention. A light cardigan or scarf is useful for temple visits and air-conditioned spaces.
+
+### Is it safe for solo women to go out at night in Thailand?
+
+Stick to well-lit, populated areas and use the Grab app for transportation rather than hailing taxis on the street. Avoid isolated alleys and excessive alcohol consumption. Bangkok's BTS areas and Chiang Mai's Old City are generally safe at night. Always trust your instincts and leave any situation that feels uncomfortable.
+
 ### What's the best way to meet other travelers?
 
 Stay in social hostels, take group cooking classes, join organized tours, and attend meetups advertised in Facebook groups. [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and [Bangkok](https://go2-thailand.com/city/bangkok/) have active solo traveler communities. You'll make friends quickly.

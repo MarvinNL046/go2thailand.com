@@ -37,7 +37,7 @@ We've spent years in Chiang Mai, taken multiple cooking classes ourselves, and t
 
 ## 1. Why Chiang Mai Is Thailand's Cooking Class Capital
 
-**Chiang Mai has become the epicenter of Thai culinary tourism**, and for good reason. The city sits in the heart of [Northern Thailand](https://go2-thailand.com/region/northern/), where the food is distinctly different from what you'll find in Bangkok or the islands. Northern Thai cuisine—called "Lanna food"—uses more herbs, less coconut milk, and emphasizes fresh vegetables and sticky rice over jasmine rice.
+**Chiang Mai has become the epicenter of Thai culinary tourism**, and for good reason. The city sits in the heart of [Northern Thailand](https://go2-thailand.com/region/northern/), where the food is distinctly different from what you'll find in Bangkok or the islands. Northern Thai cuisine—called "Lanna food"—uses more herbs, less coconut milk, and emphasizes fresh vegetables and sticky rice over jasmine rice. Understanding [what makes Thai food unique](/blog/what-is-thai-food-cuisine-guide) will help you appreciate what you'll learn in class.
 
 When we first arrived in Chiang Mai three years ago, there were maybe a dozen cooking schools. Now there are over 40. The competition has actually driven quality up. Schools know that word-of-mouth reviews can make or break them, so they've invested in better instructors, cleaner facilities, and more authentic market experiences.
 
@@ -441,6 +441,18 @@ Wear comfortable, casual clothes. You'll be standing in a hot kitchen, so light,
 ### How do I get to the cooking school?
 
 Most schools offer hotel pickup and drop-off. If not, you can take a songthaew (shared red truck) from the Old City for about 30–50 THB, or grab a taxi for 100–150 THB. Ask your hotel for directions or use Google Maps.
+
+### How much do cooking classes in Chiang Mai cost?
+
+Half-day classes cost 800-1,200 THB ($22-33 USD) and full-day classes run 1,500-2,500 THB ($42-70 USD) per person. Home-based classes are the cheapest option at 800-1,500 THB, while traditional schools charge more but offer more structured programs. The price usually includes ingredients, instruction, and the meal you cook.
+
+### Which cooking class in Chiang Mai is best?
+
+The "best" depends on your priorities. Home-based classes offer the most authentic experience and personal attention. Traditional schools provide structured learning and certificates. Market-to-table classes teach valuable shopping skills. Read recent reviews focusing on instructor quality rather than facilities.
+
+### Can I learn Thai food at home after taking a class?
+
+Yes, but success depends on committing to practice. Take detailed notes and photos during class, buy specialty ingredients before leaving Thailand, and cook your first dish within a week of returning home. Curry pastes can be frozen for up to three months, making them a practical takeaway skill.
 
 ### Is it worth the money?
 

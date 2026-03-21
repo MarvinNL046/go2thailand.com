@@ -166,3 +166,25 @@ Explore our full [food section](/food/) for dish guides, recipes, and regional r
 **Bangkok street food** is safe, delicious, cheap, and endlessly varied. Do not overthink it. Walk up to a stall, point at something that looks good, and enjoy one of the world's great **culinary traditions** for the price of a coffee back home. With the right [travel insurance](/travel-insurance-thailand/) and a sense of adventure, your stomach will thank you.
 
 Ready to plan your trip? Start with our [Bangkok city guide](/city/bangkok/), figure out the [best time to visit](/blog/best-time-to-visit-thailand/), and explore [practical info](/practical-info/scams-safety/) to make your journey smooth from landing to your last bite of **mango sticky rice**.
+
+## FAQ
+
+### Is Bangkok street food safe to eat?
+
+Yes. Millions of locals eat street food every day without issues. Stick to busy stalls with high turnover where food is cooked to order on high heat. If a stall has a queue of Thai customers, that is a reliable sign of both quality and freshness.
+
+### What is the best area for street food in Bangkok?
+
+**Yaowarat (Chinatown)** is the most famous street food destination, especially after dark. Other top areas include **Or Tor Kor Market** for premium quality, **Victory Monument** for budget eats, and **Silom** for lunchtime variety.
+
+### How much does street food cost in Bangkok?
+
+Most dishes cost between **30 and 80 THB** (roughly 0.80-2.20 USD). A full day of eating from street stalls typically costs around **270-350 THB** (7.50-10 USD), making it one of the cheapest ways to eat well anywhere in the world.
+
+### What is the best time of day to eat street food?
+
+Lunchtime (11:00-13:00) and evening (17:00-22:00) offer the widest selection. Many stalls only open during one of these windows. Night markets like Yaowarat come alive after sunset, while office areas like Silom are best at midday.
+
+### Can I eat vegetarian street food in Bangkok?
+
+Yes. Many stalls offer vegetarian options. Say **"jay"** (เจ) for vegan food or **"mai sai neua sat"** (no meat) when ordering. Look for yellow flags with a red "เจ" symbol, which indicate dedicated vegan food stalls -- these are common throughout Bangkok.

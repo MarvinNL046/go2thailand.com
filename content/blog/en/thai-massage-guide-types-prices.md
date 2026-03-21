@@ -614,3 +614,20 @@ For more wellness experiences in Thailand, explore our [best wellness retreats g
 ---
 
 *The Go2Thailand Team has lived and traveled throughout Thailand for over a decade. We've experienced hundreds of massages—from THB 120 clinics to luxury resort spas—and share this knowledge to help you find authentic, safe, and genuinely therapeutic experiences. Trust our recommendations; we've done the research so you don't have to.*
+
+## FAQ
+
+### How much does a Thai massage cost?
+A traditional Thai massage costs THB 150-300 ($4-9 USD) at budget clinics, THB 300-500 ($9-14 USD) at mid-range spas, and THB 600-1,500 ($17-43 USD) at luxury spas. Prices in Chiang Mai are generally 20-30% lower than Bangkok. Foot massage is the cheapest option at THB 150-250 ($4-7 USD) per hour at most clinics.
+
+### Is Thai massage painful?
+Traditional Thai massage involves firm pressure and stretching that can feel intense, but it should not be painful. Some discomfort is normal as the therapist works on tight muscles, but sharp pain means the pressure is too strong. Always communicate with your therapist by saying "bao bao" (softer) if needed. Mild soreness the next day is common and indicates the massage was effective.
+
+### Where is the best place for a massage in Bangkok?
+The best massage experiences in Bangkok are found in the Old City (Rattanakosin) area for traditional clinics with authentic techniques, and in Silom for a good mix of mid-range options. Avoid establishments in heavy tourist zones like Khao San Road where quality is inconsistent. Ask your hotel concierge for local recommendations, as they typically know the most reputable nearby clinics.
+
+### Should I tip after a Thai massage?
+Tipping is appreciated but not mandatory after a Thai massage. A standard tip is THB 50-100 ($1.50-3 USD) for good service at traditional clinics and mid-range spas. At luxury spas, 10% of the treatment cost is appropriate. Always tip in cash, as most establishments are cash-only. The tip goes directly to your therapist.
+
+### What is the difference between oil massage and traditional Thai massage?
+Traditional Thai massage is performed fully clothed on a floor mat, uses acupressure and yoga-like stretching along energy lines, and is more active and therapeutic. Oil massage uses coconut or herbal oils on bare skin with flowing, gentler pressure focused on muscle relaxation. Traditional massage is better for flexibility and deep tension relief, while oil massage is ideal for pure relaxation and aromatherapy benefits.

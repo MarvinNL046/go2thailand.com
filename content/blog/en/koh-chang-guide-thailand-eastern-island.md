@@ -488,3 +488,20 @@ For more island inspiration, explore our [comprehensive island guides](https://g
 ---
 
 *The Go2Thailand Team has lived in and traveled throughout Thailand extensively, including 3 years based in Chiang Mai, island-hopping across the south, and navigating Bangkok as locals. This guide reflects genuine first-hand experience and ongoing research into Thailand's destinations.*
+
+## FAQ
+
+### Is Koh Chang worth visiting?
+Yes, Koh Chang is well worth visiting. As Thailand's second-largest island, it offers pristine beaches, jungle-covered mountains, waterfalls, and excellent snorkeling without the heavy tourist crowds found on southern islands like Phuket or Koh Samui. Its proximity to Bangkok (5-7 hours by bus and ferry) makes it ideal for shorter trips and long weekends.
+
+### How do I get to Koh Chang from Bangkok?
+The most popular route is a bus from Bangkok's Eastern Bus Terminal (Ekamai) to Trat Province (5-6 hours, 250-400 THB), followed by a ferry from Laem Ngop pier to Koh Chang (45 minutes, 100-150 THB). For a faster option, Bangkok Airways flies to Trat Airport in about 1 hour (1,500-3,000 THB), from where it is a short transfer to the ferry terminal.
+
+### What is the best time to visit Koh Chang?
+November to February is the best time, with cool, dry weather, calm seas, and ideal conditions for snorkeling and beach activities. March to May is hot but still dry with fewer tourists. The rainy season from June to October brings frequent showers and rougher seas, though accommodation prices drop significantly and beaches are nearly empty.
+
+### Which is the best beach on Koh Chang?
+Hat Sai Khao (White Sand Beach) is the most popular and longest beach, offering a good balance of amenities and natural beauty. For families, Hat Kai Muk provides calm, sheltered waters and a quieter atmosphere. Hat Ta Nam (Lonely Beach) suits younger travelers seeking a social, laid-back vibe with affordable accommodation and easy access to jungle activities.
+
+### Is Koh Chang touristy?
+Koh Chang is less touristy than southern islands like Phuket, Koh Samui, or Koh Phangan. It has resisted mass commercialization, with no party scene or large shopping malls. The island attracts a mix of Thai families, budget backpackers, and mid-range travelers. While the main beaches have adequate tourism infrastructure, the atmosphere remains relaxed and authentically Thai.

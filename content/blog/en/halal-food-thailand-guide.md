@@ -162,3 +162,25 @@ Not by default. However, Muslim-run street stalls (look for vendors wearing hija
 
 **How much does halal food cost in Thailand?**
 Prices are the same as non-halal food. Street food runs **30-80 THB** (~1-2.50 USD) per dish, and restaurant meals cost **80-300 THB** (~2.50-9 USD) depending on the venue.
+
+## FAQ
+
+### Is Thailand a halal-friendly travel destination?
+
+Yes. Thailand has a Muslim population of around 5-6% (4 million people), over 3,500 halal-certified restaurants, a government-backed certification system through the **Central Islamic Council of Thailand (CICOT)**, and halal-friendly infrastructure in major tourist areas. Muslim travelers from Malaysia, Indonesia, and the Middle East visit regularly.
+
+### What is the best area for halal food in Bangkok?
+
+**Sukhumvit Soi 3 (Nana)** is the top spot, known as Bangkok's "Arab Quarter" with Middle Eastern restaurants, Indian eateries, and halal Thai food stalls. The **Ramkhamhaeng area** has excellent Muslim-run Thai restaurants, and **MBK Center** has a dedicated halal food court on the 6th floor.
+
+### Is Thai street food halal?
+
+Not by default. However, Muslim-run street stalls are common, especially in areas with large Muslim communities. Look for vendors wearing hijab or taqiyah, and check for the green **CICOT halal certification logo**. When in doubt, ask or stick to certified restaurants.
+
+### Is Thailand's halal certification reliable?
+
+Yes. The **Central Islamic Council of Thailand (CICOT)** manages one of Southeast Asia's most established halal certification systems. Restaurants undergo inspections of ingredients, preparation methods, and kitchen practices, with annual renewal. Thailand exports halal food products to over 50 countries.
+
+### Are there halal-friendly hotels in Thailand?
+
+Yes. Several hotels in Bangkok, Phuket, and Krabi market themselves as Muslim-friendly, offering halal room service, prayer mats, and qibla direction indicators. Booking platforms like **HalalTrip** and **HalalBooking** specialize in listing these properties.

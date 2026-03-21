@@ -167,3 +167,25 @@ Street food vegan dishes cost **30-80 THB** (~1-2.50 USD). Restaurant meals rang
 
 **What is the Thai Vegetarian Festival?**
 The Vegetarian Festival (Tesagan Gin Jay) is a nine-day Taoist celebration held during the ninth lunar month, usually in October. Participants eat strictly vegan (jay) food, and the festival is celebrated nationwide, with the largest festivities in Phuket.
+
+## FAQ
+
+### Is Thailand a good destination for vegans?
+
+Yes. Thailand is one of the best countries in Asia for vegan travelers. Buddhist culture encourages plant-based eating, fresh vegetables and tofu are staple ingredients, coconut milk replaces dairy in curries, and dedicated **jay** (vegan) restaurants are found in every city. The annual Vegetarian Festival in October makes it even easier.
+
+### What does "jay" mean in Thai?
+
+**Jay** (เจ) means strict vegan food -- no meat, seafood, eggs, dairy, or pungent herbs like garlic and onion. Look for yellow flags with a red "เจ" character to find dedicated jay food stalls. It is stricter than most Western vegan diets but guarantees your meal is 100% plant-based.
+
+### Is Pad Thai vegan?
+
+Standard Pad Thai is **not vegan**. It typically contains fish sauce, egg, and sometimes dried shrimp. To get a vegan version, ask for "Pad Thai jay" and specify "mai sai nam pla" (no fish sauce), "mai sai kai" (no egg), and "mai sai goong haeng" (no dried shrimp).
+
+### What is the best city in Thailand for vegan food?
+
+**Chiang Mai** is widely considered the best, with a dense concentration of vegan restaurants, smoothie bowls, and organic cafes in the Old City and Nimman Road area. **Bangkok** has the most total options, and **Phuket** is the epicenter of the annual Vegetarian Festival.
+
+### What hidden animal products should vegans watch for in Thai food?
+
+The main culprits are **fish sauce** (nam pla), **oyster sauce** (nam man hoy), **shrimp paste** (kapi), and **egg**. These are added to many dishes that otherwise appear plant-based, including pad Thai, stir-fries, and curry pastes. Always specify "jay" when ordering to avoid all animal-derived ingredients.

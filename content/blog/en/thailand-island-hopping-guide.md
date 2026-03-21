@@ -158,3 +158,25 @@ This itinerary works best in **January through March**, when both coasts enjoy d
 Thailand **island hopping** is one of Southeast Asia's greatest travel experiences. Whether you are a **backpacking** traveller sleeping in bamboo huts or a couple looking for overwater villas, there is a route and budget that works for you. Start by picking your coast, check the [season](/weather/), and book your first **ferry**. The rest will fall into place.
 
 Browse all our [island guides](/islands/) to start planning your route, or read our [Thailand visa guide](/blog/thailand-visa-guide-2026/) to make sure your paperwork is sorted before you go. Do not forget to arrange [travel insurance](/travel-insurance-thailand/) that covers water activities, grab a [Thai eSIM](/esim/) for connectivity, and check the [transport page](/transport/) for the latest ferry schedules.
+
+## FAQ
+
+### What is the best island hopping route in Thailand?
+
+The most popular route for first-timers is the **Gulf route**: Koh Samui to Koh Phangan to Koh Tao. It offers a mix of luxury beaches, nightlife, and world-class diving with reliable ferry connections. The **Andaman route** (Phuket to Koh Phi Phi to Koh Lanta) is best for dramatic scenery and snorkelling.
+
+### How many days do I need for island hopping in Thailand?
+
+Plan at least **10-14 days** to comfortably cover one coast. Spending 2-3 days on each island avoids a rushed pace and gives you time to enjoy each destination. If you want to cover both coasts, allow three weeks or more.
+
+### When is the best time for island hopping in Thailand?
+
+**December to April** works for most islands. The Gulf islands (Koh Samui, Koh Phangan, Koh Tao) are best from December through August, while the Andaman islands (Phuket, Koh Phi Phi, Koh Lanta) are best from November through April. Avoid monsoon season when ferry services are reduced.
+
+### Can I island hop by ferry in Thailand?
+
+Yes. Ferries are the main transport between Thai islands, costing **200-600 THB per leg**. Large ferries run daily between major islands during peak season. You can book at the pier or online through 12Go Asia. Joint bus-and-ferry tickets are also available for door-to-door convenience.
+
+### How much does island hopping in Thailand cost?
+
+Budget travelers spend around **700-1,750 THB (20-50 USD) per day** covering accommodation, food, and ferry tickets. A two-week island hopping trip costs roughly **15,000-25,000 THB (400-700 USD)** not including international flights. Island prices are slightly higher than the mainland.

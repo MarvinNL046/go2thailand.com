@@ -191,3 +191,20 @@ There is no truly bad time to visit Thailand. **Peak season** (November-February
 No matter when you go, make sure you have the right [travel insurance](/travel-insurance-thailand/), a reliable [eSIM](/esim/) for staying connected, and a clear picture of the [visa requirements](/blog/thailand-visa-guide-2026/) for your nationality. Check our [transport guide](/transport/) for getting between destinations, and browse our [practical travel tips](/practical-info/) for everything else you need to know before you land.
 
 Start planning your trip with our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) or explore [Thai street food](/food/) to start building your must-eat list. For city-specific advice, dive into our guides for [Bangkok](/city/bangkok/), [Chiang Mai](/city/chiang-mai/), [Phuket](/city/phuket/), and [Krabi](/city/krabi/).
+
+## FAQ
+
+### What is the cheapest month to visit Thailand?
+September is typically the cheapest month, as it falls in the wettest part of the rainy season with the fewest tourists. Flights and accommodation can be 30-50% cheaper than peak season. June through October in general offers the best deals.
+
+### What is the best month for beaches in Thailand?
+December through March offers the best beach weather on the Andaman coast (Phuket, Koh Phi Phi, Koh Lanta, Koh Lipe), with calm seas and clear skies. For Gulf islands like Koh Samui and Koh Tao, January through April is ideal.
+
+### What is the best month to visit Chiang Mai?
+November through February is the best time for Chiang Mai, with cool temperatures around 15-25C and low humidity. Avoid late February through April when burning season creates heavy haze and poor air quality across northern Thailand.
+
+### When should I avoid Thailand because of the monsoon?
+The southwest monsoon hits hardest from June through October, especially on the Andaman coast. However, the Gulf coast (Koh Samui, Koh Phangan, Koh Tao) has its worst weather in October and November. Rain is rarely all-day -- expect short, heavy afternoon downpours followed by sunshine.
+
+### Is the shoulder season a good time to visit Thailand?
+Yes. March to May and October to November are shoulder months offering a balance of lower prices, fewer crowds, and decent weather. October and November are especially good as the rains ease and the cool season begins, but peak-season prices have not yet kicked in.

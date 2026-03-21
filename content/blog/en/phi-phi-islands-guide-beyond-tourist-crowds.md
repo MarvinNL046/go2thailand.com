@@ -482,3 +482,20 @@ The key is intentionality. Plan your visit during shoulder or low seasons, book 
 Ready to explore Phi Phi beyond the crowds? Start by checking accommodation options and booking your ferry in advance. For more island inspiration, explore our guides to [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/), and [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) for comparison. And if you're planning a broader southern Thailand trip, our [7-day island-hopping itinerary](https://go2-thailand.com/itineraries/7-days-island-hopping/) covers Phi Phi alongside other gems.
 
 **Trust us:** We've spent years exploring Thailand's islands. Phi Phi is beautiful—you just need to know where to find the beauty beyond the crowds.
+
+## FAQ
+
+### Is Phi Phi worth visiting despite the crowds?
+Yes, Phi Phi is worth visiting for its genuinely stunning natural beauty, excellent snorkeling, and dramatic limestone scenery. The key is managing expectations and timing. Visit during shoulder seasons (November, March-April) or low season (May-September) for fewer crowds. Staying on quieter beaches like Loh Dalum or Laem Tong and skipping the most crowded spots makes the experience far more enjoyable.
+
+### Can you stay overnight on the Phi Phi Islands?
+You can stay overnight on Phi Phi Don, which is the main inhabited island with hotels, restaurants, and shops ranging from budget bungalows to luxury resorts. However, you cannot stay overnight on Phi Phi Le (where Maya Bay is located), as it is an uninhabited protected island that only allows day-trip visitors. Bamboo Island also permits overnight stays with minimal accommodation.
+
+### Is Maya Bay open to visitors?
+Yes, Maya Bay reopened to visitors in 2022 after a three-year closure for environmental recovery. However, daily visitor numbers are now capped to protect the recovering ecosystem. Boats can no longer enter the bay directly, and visitors must walk through a designated path. Visit early morning (arrive by 7:30 AM) or late afternoon to avoid peak crowds.
+
+### How do I get to the Phi Phi Islands?
+Phi Phi Don is accessible only by boat. The most common routes are ferry from Phuket (1.5-2 hours, 400-600 THB), speedboat from Krabi (45 minutes, 600-800 THB), or ferry from Ao Nang (45 minutes, 400-500 THB). Ferries run 2-3 times daily from each departure point. Book tickets a day in advance during peak season.
+
+### What is the best time to visit the Phi Phi Islands?
+November to April is the dry season with the best weather, calm seas, and excellent visibility for snorkeling and diving. Avoid December 20-January 5 for peak crowds and inflated prices. November, March, and April offer excellent weather with significantly fewer tourists. May to October is monsoon season with lower prices but rougher seas and occasional ferry disruptions.

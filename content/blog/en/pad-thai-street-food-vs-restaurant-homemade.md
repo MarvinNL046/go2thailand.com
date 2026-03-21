@@ -462,3 +462,20 @@ The real lesson isn't about Pad Thai specifically—it's that Thai cuisine is fu
 **Ready to explore Thai food culture deeper?** Start with our pillar guide on [what Thai food really is](/blog/what-is-thai-food-cuisine-guide), then check out our comprehensive [Thai food guide](https://go2-thailand.com/food/) for profiles of other iconic dishes like [Pad Krapow](https://go2-thailand.com/food/pad-krapow/), [Som Tam](https://go2-thailand.com/food/som-tam/), and [Tom Yum Goong](https://go2-thailand.com/food/tom-yum-goong/). Or explore [cooking classes in Chiang Mai](https://go2-thailand.com/blog/thai-cooking-classes-chiang-mai/) to learn these techniques hands-on from expert instructors.
 
 **Trust us:** We've eaten Pad Thai from street stalls to Michelin-recognized restaurants across Thailand. The street vendor version still wins, every time.
+
+## FAQ
+
+### Is Pad Thai healthy?
+Pad Thai can be a reasonably healthy meal. It contains rice noodles, vegetables, protein, and peanuts, providing carbohydrates, fiber, and essential nutrients. However, it is high in sodium from fish sauce and can be calorie-dense due to oil and sugar. Street versions tend to use less oil than restaurant versions, making them slightly lighter.
+
+### What is the original Pad Thai recipe?
+The original Pad Thai recipe consists of thin rice noodles stir-fried with tamarind paste, fish sauce, palm sugar, garlic, shallots, eggs, dried shrimp, and tofu. It is garnished with crushed roasted peanuts, fresh lime, bean sprouts, and Chinese chives. The dish was popularized in the 1930s-1950s as a national dish to promote Thai identity.
+
+### Where can I find the best Pad Thai in Bangkok?
+The best Pad Thai in Bangkok is found at street stalls in local neighborhoods rather than tourist areas. Head to Talad Noi, Yaowarat (Chinatown), or smaller sois in Silom and Sukhumvit. Look for vendors with queues of Thai locals and a single wok operation. Night markets in residential areas consistently deliver the most authentic versions.
+
+### Is Pad Thai spicy?
+Traditional Pad Thai is not spicy by default. The base flavor profile is sweet, sour, and salty from tamarind, fish sauce, and palm sugar. However, diners can add dried chili flakes or fresh chili from condiment trays to their desired heat level. If you want it spicy, ask for "Pad Thai pet" when ordering.
+
+### Why does street Pad Thai taste different from restaurant Pad Thai?
+Street Pad Thai tastes different primarily because of wok temperature. Street vendors cook over gas flames reaching 400-500°F, creating smoky caramelization and slight char on the noodles. Restaurants typically use lower-heat electric equipment, resulting in softer noodles and less complex flavor. Street vendors also buy ingredients daily, ensuring maximum freshness.

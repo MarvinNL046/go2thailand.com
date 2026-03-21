@@ -107,3 +107,25 @@ No. MSG contains about **one-third the sodium** of table salt. Some cooks use it
 
 **Do Thai restaurants outside Thailand use MSG?**
 Many do, though an increasing number advertise "no MSG" in response to customer preferences, compensating with extra fish sauce or mushroom powder.
+
+## FAQ
+
+### Is MSG harmful to your health?
+
+No. The **FDA**, **WHO**, and **European Food Safety Authority** all classify MSG as safe for consumption in normal amounts. Decades of double-blind studies have found no reliable link between MSG at typical dietary levels and adverse health effects. A small number of people may be sensitive to large amounts on an empty stomach.
+
+### How do I say "no MSG" in Thai?
+
+Say **"mai sai phong chu rot"** (ไม่ใส่ผงชูรส). This phrase works at street food stalls, restaurants, and food courts. Most cooks will leave it out without any issue, though the dish may taste slightly different.
+
+### Do all Thai restaurants use MSG?
+
+No. While MSG is common in street food stalls and local restaurants, many higher-end restaurants advertise "no MSG" cooking. Health-conscious vendors in Bangkok and Chiang Mai sometimes skip it as well. Jay (vegan) restaurants also tend to avoid it.
+
+### Is fish sauce the same as MSG?
+
+Fish sauce is not MSG, but it is naturally rich in **glutamate**, the same amino acid compound found in MSG. This is why Thai food tastes deeply savory even without added MSG powder. Other glutamate-rich Thai ingredients include oyster sauce, shrimp paste, and fermented soybeans.
+
+### Can you taste MSG in food?
+
+Most people cannot identify MSG as a distinct flavor. It enhances the overall **umami** (savory) quality of a dish rather than adding its own recognizable taste. Foods with MSG tend to taste richer, deeper, and more satisfying, but the effect is subtle and blends with other flavors.

@@ -235,3 +235,20 @@ Once you are through **immigration**, make sure to sort out [transport from the 
 Thailand's **visa** system continues to evolve in 2026. While the **visa-free entry** is being reduced from 60 to 30 days, the introduction of the **Multiple Entry Visa (MEV)** gives travelers a powerful new option for extended stays. For most short-term visitors, the visa-free entry (plus a 30-day extension) will still be enough to explore the country -- from the temples of [Bangkok](/city/bangkok/) to the beaches of [Koh Phi Phi](/islands/koh-phi-phi/) and the mountains of [Chiang Mai](/city/chiang-mai/). **Digital nomads** and long-stay travellers should look seriously at the **DTV visa**, which offers flexibility that was simply not available a few years ago.
 
 Check our full [visa section](/visa/) for country-specific guides, browse our [practical travel info](/practical-info/) for arrival preparation, or start planning your itinerary with our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/). If you are heading to the islands, our [complete islands overview](/islands/) helps you pick the perfect destination -- whether it is [Koh Samui](/islands/koh-samui/) for luxury resorts, [Koh Tao](/islands/koh-tao/) for diving, or [Koh Lanta](/islands/koh-lanta/) for a laid-back vibe.
+
+## FAQ
+
+### Do I need a visa to visit Thailand?
+Most Western nationalities (US, UK, EU, Canada, Australia) do not need a visa in advance. You currently receive 60 days on arrival under visa-free entry, though this is being reduced to 30 days (date TBD). For longer stays, apply for a Tourist Visa or DTV visa before departure.
+
+### How long can I stay in Thailand without a visa?
+Currently 60 days under visa-free entry, which will be reduced to 30 days once the announced change takes effect. You can extend your stay by 30 days at any immigration office for 1,900 THB, giving you up to 90 days total (or 60 days once the new rules apply).
+
+### Can I extend my Thailand visa?
+Yes. Both visa-free entries and Tourist Visas can be extended by 30 days at any immigration office in Thailand. The cost is 1,900 THB. Bring your passport, a passport photo, and copies of your passport and entry stamp. The process typically takes 1-3 hours.
+
+### Do I need a return ticket to enter Thailand?
+Technically yes. Immigration may ask for proof of onward travel (a return flight or ticket to another country). While this is not always checked, airlines may deny boarding without proof of onward travel. A cheap onward flight booking is recommended as a backup.
+
+### What is the DTV visa?
+The Destination Thailand Visa is a long-stay visa for digital nomads and remote workers, offering 180 days per entry with multiple entries allowed. It requires proof of remote work or a qualifying activity and 500,000 THB in savings. The fee is 10,000 THB, and it can be renewed for up to 5 years.

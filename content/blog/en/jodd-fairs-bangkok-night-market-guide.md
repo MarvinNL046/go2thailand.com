@@ -474,3 +474,20 @@ For more authentic Bangkok experiences, explore our [Bangkok food guide](https:/
 ---
 
 *The Go2Thailand team has explored Bangkok's markets, street food, and neighborhoods extensively. This guide reflects our genuine experiences and current conditions as of March 2026. Note: Both the original Jodd Fairs Rama 9 and Jodd Fairs DanNeramit (Phahonyothin Road) have permanently closed as of January 2025. All operations are consolidated at the Ratchada location next to Big C supermarket, a 3-minute walk from MRT Thailand Cultural Centre Exit 4. Prices and hours are subject to change; verify before visiting.*
+
+## FAQ
+
+### Is Jodd Fairs open every day?
+Yes, Jodd Fairs Ratchada is open every day from 17:00 to 01:00 (5 PM to 1 AM). Unlike many Bangkok night markets that only operate on weekends, Jodd Fairs runs daily with consistent hours. Weekday evenings tend to be less crowded while still offering the full range of food and shopping stalls.
+
+### What is the best food to try at Jodd Fairs?
+The must-try dish is the Leng Zabb volcano ribs, Jodd Fairs' signature item featuring slow-cooked pork ribs with fiery herbs starting at 180 THB. Moo ping (grilled pork skewers) at 10-15 THB per stick is the perfect walking snack. Other highlights include mookata (Thai BBQ), grilled seafood skewers, and the elephant-shaped waffles for dessert.
+
+### What time should I visit Jodd Fairs?
+The best time to visit is between 7 PM and 9 PM, when all food stalls are in full swing and the atmosphere is at its most vibrant. Arrive at 6 PM if you want first picks at food stalls without queues. Weekday evenings offer the best balance of atmosphere and manageable crowds compared to busier weekends.
+
+### Is Jodd Fairs expensive?
+Jodd Fairs is very affordable by Bangkok standards. Street food dishes range from 10 THB for moo ping skewers to 80 THB for pad thai. A full meal with drinks costs 150-300 THB per person. Clothing and accessories are also reasonably priced since the market targets locals rather than tourists. Budget 500-1,000 THB for a comfortable evening of eating and browsing.
+
+### Which MRT station is nearest to Jodd Fairs?
+Jodd Fairs Ratchada is a 3-minute walk from Exit 4 of Thailand Cultural Centre MRT Station on the Blue Line. From Sukhumvit, take the BTS to Asok, transfer to the MRT at Sukhumvit Station, and ride to Thailand Cultural Centre in about 12 minutes. The fare is approximately 42 THB.

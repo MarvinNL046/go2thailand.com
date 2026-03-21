@@ -20,7 +20,7 @@ sources:
     url: "https://thethaiger.com/"
 ---
 
-Walk into any Thai market from [Bangkok](https://go2-thailand.com/city/bangkok/) to the remote villages of [Isaan](https://go2-thailand.com/region/isaan/), and you'll hear the distinctive *thump-thump-thump* of wooden mortars pounding fresh papaya. That sound is **som tam** (green papaya salad) being born—and depending on where you are, it tastes completely different. This beloved dish is Thailand's greatest culinary chameleon, shifting flavors, heat levels, and ingredients as dramatically as the landscape changes from the central plains to the northern mountains.
+Walk into any Thai market from [Bangkok](https://go2-thailand.com/city/bangkok/) to the remote villages of [Isaan](https://go2-thailand.com/region/isaan/), and you'll hear the distinctive *thump-thump-thump* of wooden mortars pounding fresh papaya. That sound is **som tam** (green papaya salad) being born—and depending on where you are, it tastes completely different. This beloved dish is Thailand's greatest culinary chameleon, shifting flavors, heat levels, and ingredients as dramatically as the landscape changes from the central plains to the northern mountains. If you're wondering just how hot things can get, our [guide to Thai food spice levels](/blog/is-thai-food-spicy-guide) will help you prepare.
 
 ## Key Takeaways
 
@@ -400,6 +400,22 @@ This is entirely personal preference. If you're new to Thai food, start with "pe
 ### Can I make som tam ahead of time?
 
 Som tam is best eaten immediately after preparation—the papaya loses its crispness if it sits for more than 15–20 minutes. The dressing also continues to soften the papaya over time. Always order fresh to order, or prepare it just before eating.
+
+### Which som tam variation is the spiciest?
+
+Isaan som tam is by far the spiciest version, with vendors using multiple Thai bird's eye chilies as standard. The combination of aggressive fish sauce, dried shrimp, and high heat levels makes it the most intense regional variation. Northern and Bangkok versions are significantly milder.
+
+### Is som tam a healthy dish?
+
+Yes, som tam is one of the healthiest Thai dishes. Green papaya is low in calories and high in fiber, vitamins A and C. The fresh lime juice provides vitamin C, and the dish contains minimal oil or fat. Just watch the added sugar content and portion size of any accompanying sticky rice.
+
+### What is pla ra in som tam?
+
+Pla ra is a fermented fish sauce commonly used in Isaan-style som tam. It's made from small freshwater fish fermented with rice bran and salt for months, creating a pungent, funky condiment that adds deep umami flavor. It's an acquired taste for many visitors but essential to authentic Isaan som tam.
+
+### Can I order som tam mild or without spice?
+
+Absolutely. Simply say "mai pet" (not spicy) or "pet nit noi" (a little spicy) when ordering. Thai vendors are accustomed to adjusting spice levels and will happily make a mild version. You'll still get all the sour, salty, and sweet flavors without the heat.
 
 ### What's the best drink pairing with som tam?
 

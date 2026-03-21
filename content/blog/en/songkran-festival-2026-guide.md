@@ -445,6 +445,14 @@ Peak crowding occurs April 13–14 in [Bangkok](https://go2-thailand.com/city/ba
 
 Visa requirements depend on your nationality. Most visitors qualify for visa-free entry for up to 30 days. Check the [Thailand visa guide](https://go2-thailand.com/visa/) for your specific situation. Remember to complete the [Thailand Digital Arrival Card](https://tdac.immigration.go.th/arrival-card/#/home) 3 days before arrival.
 
+### What should I wear during Songkran?
+
+Wear lightweight, quick-dry clothing in synthetic fabrics — avoid cotton as it stays wet and heavy. Old clothes you don't mind getting soaked or stained are ideal. Water sandals or old sneakers provide better footing than flip-flops on wet pavement. Leave expensive accessories at your hotel.
+
+### How long does Songkran last?
+
+The official Songkran dates are April 13-15, but festivities typically extend from April 11-17 across most of Thailand. The main water battles peak on April 13-14, with celebrations gradually winding down through April 16-17. Some cities like Chiang Mai celebrate for the full week.
+
 ### What should I do if I get sick during Songkran?
 
 Thailand has excellent hospitals in major cities. Bangkok Hospital, Bumrungrad International Hospital, and Chiang Mai Ram are well-equipped. Travel insurance covers medical emergencies. For minor issues, 7-Elevens stock basic medications, and pharmacists can recommend over-the-counter remedies.

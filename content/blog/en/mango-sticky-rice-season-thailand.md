@@ -433,6 +433,14 @@ At street stalls and night markets: 60–100 THB ($1.70–$2.90 USD). At dessert
 
 Bangkok versions tend to be sweeter with richer coconut sauce and more generous mango portions. Chiang Mai versions are slightly less sweet, with a higher ratio of sticky rice to sauce, and a creamier rice texture. Both are authentic; it's a matter of regional preference.
 
+### Is mango sticky rice gluten-free?
+
+Yes, mango sticky rice is naturally gluten-free. Glutinous (sticky) rice does not contain gluten despite its name — the "glutinous" refers to its sticky texture. The coconut cream, palm sugar, and fresh mango are all gluten-free as well. For more on navigating Thai food with celiac disease, see our [guide to gluten-free Thai food](/blog/is-thai-food-gluten-free).
+
+### Where is the best mango sticky rice in Bangkok?
+
+Night markets like Chatuchak Weekend Market and Yaowarat offer the most authentic versions at the best prices (60-100 THB). For premium experiences, dedicated dessert shops in the Silom and Sukhumvit areas source top-quality Nam Doc Mai mangoes. Competition among vendors keeps quality high across the city.
+
 ### Is there a "best" mango variety for mango sticky rice?
 
 Nam Doc Mai is considered the gold standard for its balanced sweetness, creamy texture, and floral aroma. Nam Hom is an excellent alternative with more intense fragrance. Other varieties work but are generally considered inferior for this specific dish.
