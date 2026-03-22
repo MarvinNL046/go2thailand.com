@@ -6,12 +6,17 @@
     "nl": "Gaeng Hang Lay",
     "thai": "แกงฮังเล"
   },
+  "thai_name": "แกงฮังเล (Gaeng Hang Lay)",
+  "origin_region": "northern",
   "category": "curry",
   "region": "northern",
   "spice_level": "mild",
   "description": {
     "en": "Mild curry with pork belly and Burmese influences",
     "nl": "Milde curry met varkensbuik en Birmese invloeden"
+  },
+  "extended_description": {
+    "en": "## What Is Gaeng Hang Lay?\n\nGaeng Hang Lay (แกงฮังเล) is a rich, aromatic pork belly curry from Northern Thailand that stands apart from every other Thai curry you will encounter. Unlike the coconut milk-based curries of central and southern Thailand, this Lanna specialty relies on a complex blend of dried spices, tamarind, and ginger to create a deeply layered, sweet-savory flavor. Thick chunks of pork belly and spare ribs are braised until meltingly tender in a dark, fragrant sauce. The curry has a mild heat level with warm, earthy undertones from spices like cumin, turmeric, and cinnamon. It is comfort food at its finest, the kind of dish that Chiang Mai locals cook for family gatherings, temple festivals, and special occasions. Many restaurants in Chiang Mai proudly call it \"Burmese curry\" in acknowledgment of its cross-border heritage.\n\n## History & Origins\n\nThe name \"hang lay\" derives from the Burmese word \"hin lay\" (ဟင်းလေး), meaning \"heavy curry.\" The dish entered Thai cuisine through centuries of cultural exchange between the Lanna Kingdom and Burma, particularly during the Burmese occupation of Northern Thailand from 1558 to 1775. Trade routes, migration, and intermarriage between Burmese and Lanna communities brought Burmese spice traditions into Northern Thai kitchens. Over time, Thai cooks adapted the recipe with local ingredients like tamarind and palm sugar, creating a dish that is neither fully Burmese nor fully Thai but uniquely Lanna.\n\n## How It's Made\n\nThe foundation is the phong hang lay spice mix, a roasted blend that can include over a dozen dried spices: cumin, coriander seed, turmeric, cinnamon, cloves, nutmeg, mace, fennel, fenugreek, long pepper, black pepper, cardamom, and dried ginger. Pork belly is cut into large chunks and seared. The curry paste combines the spice mix with shallots, garlic, shrimp paste, and dried chilies. Everything goes into a pot with tamarind juice, palm sugar, fish sauce, and fresh ginger. The curry simmers slowly for an hour or more until the pork is fall-apart tender and the sauce has reduced into a thick, glossy coating. Roasted peanuts are scattered on top before serving. Unlike most Thai curries, gaeng hang lay contains no coconut milk and is eaten with steamed long-grain rice rather than sticky rice.\n\n## Where to Eat It\n\nChiang Mai is the undisputed home of gaeng hang lay. Huen Phen on Ratchamanka Road is one of the most celebrated spots, serving it in a traditional wooden house setting. SP Chicken on Samlan Road pairs it with their famous grilled chicken. The Kad Luang (Warorot Market) food court has affordable versions. At Chiang Mai's Sunday Walking Street market, several vendors serve it from large pots. Khao Soi Khun Yai also keeps excellent gaeng hang lay on the menu. Outside Chiang Mai, look for it in Lamphun, Lampang, and Mae Hong Son.\n\n## How to Order\n\nAsk for \"gaeng hang lay\" or \"gaeng hung lay.\" It is almost always made with pork (moo), so you rarely need to specify the protein. At khao kaeng (rice and curry) shops, simply point at the pot. In restaurants, it typically comes as a single dish to share. Some places offer it with khao niao (sticky rice), but traditionally it pairs with steamed jasmine rice. If you want extra peanuts, ask for \"sai tua pieng\" (add peanuts).\n\n## Price Guide\n\nAt Chiang Mai khao kaeng shops and market stalls, a plate of rice with gaeng hang lay costs 40-60 THB. Sit-down restaurants in the old city charge 80-150 THB per dish. At popular tourist-oriented spots like Huen Phen, expect 120-180 THB. High-end Northern Thai restaurants in Bangkok price it at 180-280 THB."
   },
   "ingredients": [
     "pork belly",
@@ -30,6 +35,29 @@
   "preparation_time": "90 minutes",
   "difficulty": "medium",
   "price_range": "mid-range",
+  "best_places": [
+    "Huen Phen, Ratchamanka Road, Chiang Mai",
+    "SP Chicken, Samlan Road, Chiang Mai",
+    "Warorot Market (Kad Luang) food court, Chiang Mai",
+    "Sunday Walking Street Market, Chiang Mai",
+    "Khao Soi Khun Yai, Chiang Mai"
+  ],
+  "variations": [
+    "Gaeng Hang Lay Moo (classic pork belly version)",
+    "Gaeng Hang Lay Gai (chicken version)",
+    "Gaeng Hang Lay with spare ribs"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'gaeng hang lay' at any Northern Thai restaurant. Always made with pork unless specified otherwise. Pair with steamed jasmine rice, not sticky rice. At khao kaeng shops, just point at the curry pot.",
+    "nl": "Vraag om 'gaeng hang lay' in elk Noord-Thais restaurant. Altijd gemaakt met varkensvlees tenzij anders aangegeven. Combineer met gestoomde jasmijnrijst, niet met kleverige rijst."
+  },
+  "pairs_well_with": [
+    "Steamed jasmine rice",
+    "Khao soi",
+    "Som tam (green papaya salad)",
+    "Sai ua (Northern Thai sausage)"
+  ],
+  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Gaeng Hang Lay Recipe | Authentic Thai curry",
@@ -64,5 +92,6 @@
     ],
     "dietary": [],
     "price_range": "mid-range"
-  }
+  },
+  "enriched_at": "2026-03-22"
 }

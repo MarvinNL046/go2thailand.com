@@ -6,12 +6,17 @@
     "nl": "Gaeng Tai Pla",
     "thai": "แกงไตปลา"
   },
+  "thai_name": "แกงไตปลา (Gaeng Tai Pla)",
+  "origin_region": "southern",
   "category": "curry",
   "region": "southern",
   "spice_level": "very hot",
   "description": {
     "en": "Intensely spicy southern fish organ curry",
     "nl": "Intens pittige zuidelijke visorganen curry"
+  },
+  "extended_description": {
+    "en": "## What Is Gaeng Tai Pla?\n\nGaeng Tai Pla (แกงไตปลา) is the most intensely flavored curry in all of Thai cuisine, a fiery, pungent, salty explosion from the deep south. The name literally means \"fish kidney curry,\" though it actually refers to a fermented sauce made from fish entrails (tai pla) that gives this dish its unmistakable character. The curry has a dark, murky appearance and a powerful aroma that divides people immediately: southerners consider it the ultimate comfort food, while first-timers may find the fermented fish smell overwhelming. The flavor is complex beyond description: deeply salty, searingly spicy, slightly bitter, and intensely umami. Vegetables like bamboo shoots, long beans, and Thai eggplant add texture and help balance the potent sauce. This is not a tourist-friendly dish, and that is exactly what makes it special.\n\n## History & Origins\n\nGaeng tai pla was born in the fishing villages of Southern Thailand, where communities needed ways to preserve and use every part of their catch. Fishermen's wives developed the tai pla fermentation process: the innards of small ocean fish like pla thoo (short mackerel) are packed with sea salt, bottled, and left to ferment in the sun for two to three days. This ingenious preservation technique turned waste into one of the most prized condiments in Southern Thai cooking. Nakhon Si Thammarat province is considered the spiritual home of this curry, where the most authentic versions are prepared.\n\n## How It's Made\n\nThe curry paste is pounded from dried chilies, lemongrass, galangal, kaffir lime peel, fresh turmeric, shallots, garlic, and shrimp paste. Unlike central Thai curries, gaeng tai pla uses no coconut milk; it is a water-based curry, which concentrates the flavors even further. The fermented fish organ sauce (tai pla) is strained and added to boiling water along with the curry paste. Chunks of dried fish or fresh fish are added for protein. Vegetables go in next: bamboo shoots, long beans, Thai eggplant, and sometimes pumpkin. In the Nakhon Si Thammarat version, considered the most authentic, vegetables are often omitted entirely, and the curry is devastatingly spicy. The dish simmers until the fish is cooked through and the flavors have melded together.\n\n## Where to Eat It\n\nFor the most authentic experience, head to Nakhon Si Thammarat, where nearly every local restaurant and khao kaeng shop serves gaeng tai pla. In Songkhla and Hat Yai, it appears on most Southern Thai menus. In Bangkok, Janhom (ร้านจันทร์หอม) on Charoen Krung Road is widely regarded as the best Southern Thai restaurant in the capital and serves an excellent version. Khua Kling Pak Sod has branches across Bangkok and offers a reliable gaeng tai pla. At Krua Nai Baan near Silom, the Southern Thai menu always includes it.\n\n## How to Order\n\nAsk for \"gaeng tai pla\" and brace yourself. At khao kaeng shops in the south, it sits in a pot alongside other curries; just point. In Bangkok restaurants, order it as a shared dish. Be warned: even Thai people from other regions find this curry extremely spicy and intense. If you want to ease into it, order a mild curry alongside it and alternate bites. Always eat it with plenty of steamed rice, which helps temper the heat. Some people pair it with sweet-fried dishes to balance the saltiness.\n\n## Price Guide\n\nIn Southern Thailand, gaeng tai pla is everyday food and priced accordingly. At khao kaeng shops in Nakhon Si Thammarat and Songkhla, a plate of rice with gaeng tai pla costs 35-50 THB. In Hat Yai restaurants, expect 60-100 THB. Bangkok Southern Thai restaurants charge 120-200 THB per dish. At Janhom in Bangkok, dishes run 100-180 THB."
   },
   "ingredients": [
     "fish organs",
@@ -29,6 +34,29 @@
   "preparation_time": "40 minutes",
   "difficulty": "hard",
   "price_range": "budget",
+  "best_places": [
+    "Khao kaeng shops in Nakhon Si Thammarat",
+    "Janhom (ร้านจันทร์หอม), Charoen Krung Road, Bangkok",
+    "Khua Kling Pak Sod, Bangkok (multiple branches)",
+    "Local restaurants in Songkhla and Hat Yai"
+  ],
+  "variations": [
+    "Gaeng Tai Pla Nakhon Si Thammarat style (no vegetables, extremely spicy)",
+    "Gaeng Tai Pla with bamboo shoots and eggplant",
+    "Gaeng Tai Pla with fresh fish",
+    "Gaeng Tai Pla with dried fish"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'gaeng tai pla' and expect serious heat. At khao kaeng shops in the south, just point at the curry pot. Order plenty of plain steamed rice to balance the saltiness and spice. Pair with a milder dish if you are not used to extreme heat.",
+    "nl": "Vraag om 'gaeng tai pla' en verwacht serieuze pittigheid. Bestel genoeg gestoomde rijst om de zoutigheid en pittigheid te balanceren. Combineer met een milder gerecht als je niet gewend bent aan extreme hitte."
+  },
+  "pairs_well_with": [
+    "Steamed jasmine rice",
+    "Fried sweet pork (moo wan)",
+    "Thai omelet (khai jiao)",
+    "Fresh vegetables"
+  ],
+  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Gaeng Tai Pla Recipe | Authentic Thai curry",
@@ -63,5 +91,6 @@
     ],
     "dietary": [],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-22"
 }

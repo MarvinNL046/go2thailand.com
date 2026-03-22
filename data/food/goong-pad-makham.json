@@ -6,12 +6,17 @@
     "nl": "Goong Pad Makham",
     "thai": "กุ้งผัดมะขาม"
   },
+  "thai_name": "กุ้งผัดมะขาม (Goong Pad Makham)",
+  "origin_region": "central",
   "category": "main-dish",
   "region": "southern",
   "spice_level": "mild",
   "description": {
     "en": "Prawns stir-fried in tangy tamarind sauce",
     "nl": "Garnalen geroerbakt in pittige tamarindesaus"
+  },
+  "extended_description": {
+    "en": "## What Is Goong Pad Makham?\n\nGoong Pad Makham (กุ้งผัดมะขาม) is a stunning Thai stir-fry of large prawns tossed in a glistening, caramel-colored tamarind sauce that perfectly balances sweet, sour, and salty in every bite. It is one of the dishes that best showcases the Thai philosophy of flavor harmony. The prawns are typically tiger prawns or river prawns, cooked shell-on to lock in moisture, then coated in a luscious sauce made from tamarind paste, palm sugar, and fish sauce. The result is prawns with a glossy, sticky glaze and a flavor that hits multiple taste registers simultaneously. Crispy fried shallots and dried chilies scattered on top add crunch and a gentle warmth. This dish appears on menus from humble seaside restaurants to Bangkok's finest dining rooms, and it never fails to impress.\n\n## History & Origins\n\nTamarind has been a cornerstone of Thai cooking for centuries, used as the primary souring agent before limes became widespread. Goong pad makham evolved from the broader Thai tradition of pad makham (tamarind stir-fry), which can be made with any protein. The prawn version gained prominence in coastal communities where fresh seafood was abundant and tamarind trees grew wild. As Thailand's culinary reputation grew internationally, goong pad makham became a signature dish in Thai seafood restaurants worldwide, though the most authentic versions are still found at beachside eateries along the Gulf of Thailand and Andaman coast.\n\n## How It's Made\n\nThe tamarind sauce is prepared first by combining tamarind paste with palm sugar, fish sauce, and a splash of water, then simmering until the sugar dissolves and the sauce thickens slightly. Large prawns are cleaned and deveined but left shell-on for the best flavor and texture. The prawns are stir-fried quickly in hot oil with garlic until they turn pink. The tamarind sauce is poured in, and everything is tossed together over high heat until the prawns are coated in the glossy, sticky sauce. Fried shallots and dried red chilies are added at the end for texture. Some versions include a handful of cashew nuts for extra crunch. The dish is served immediately while the sauce is still bubbling, typically on a bed of crisp morning glory or alongside steamed jasmine rice.\n\n## Where to Eat It\n\nCoastal seafood restaurants are the best places to try goong pad makham with the freshest prawns. In Bangkok, Somboon Seafood on Surawong Road is famous for it, as is Laem Charoen Seafood which has branches across the city. At Hua Hin's night market, several seafood stalls serve excellent versions using local Gulf prawns. In Phuket, Raya Restaurant in Old Town and seafood restaurants along Rawai Beach are reliable choices. For river prawns, head to Ayutthaya where giant freshwater prawns from the Chao Phraya River are the star ingredient.\n\n## How to Order\n\nAsk for \"goong pad makham\" (กุ้งผัดมะขาม). At seafood restaurants, you often choose your prawns by weight from a display and specify how you want them cooked. River prawns (goong mae nam) are larger and pricier than sea prawns (goong talay). Say \"mai pet\" (not spicy) if you want it without chilies, though the dish is naturally mild. For the best value, order it as part of a shared seafood meal with two or three other dishes.\n\n## Price Guide\n\nPricing depends heavily on the size and type of prawns. At local seafood restaurants, a plate with regular sea prawns costs 150-250 THB. Tiger prawns push the price to 250-400 THB. Giant river prawns (goong mae nam) at specialty restaurants in Ayutthaya run 400-800 THB per dish. Bangkok upscale seafood restaurants like Somboon charge 350-600 THB. Street-side seafood stalls at beach destinations offer it for 120-200 THB."
   },
   "ingredients": [
     "prawns",
@@ -29,6 +34,30 @@
   "preparation_time": "15 minutes",
   "difficulty": "easy",
   "price_range": "mid-range",
+  "best_places": [
+    "Somboon Seafood, Surawong Road, Bangkok",
+    "Laem Charoen Seafood, Bangkok (multiple branches)",
+    "Hua Hin Night Market seafood stalls",
+    "Raya Restaurant, Old Town Phuket",
+    "Riverside restaurants in Ayutthaya (for river prawns)"
+  ],
+  "variations": [
+    "Goong Pad Makham with tiger prawns",
+    "Goong Mae Nam Pad Makham (river prawns version)",
+    "Goong Pad Makham with cashew nuts",
+    "Pla Pad Makham (fish with tamarind sauce)"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'goong pad makham' at seafood restaurants. Choose prawns by size: regular sea prawns for budget, tiger prawns or river prawns for a splurge. Say 'mai pet' for no chili. Best ordered as part of a shared seafood spread.",
+    "nl": "Vraag om 'goong pad makham' bij visrestaurants. Kies garnalen op grootte: gewone zeegarnalen voor budget, tijgergarnalen of riviergarnalen voor luxe. Zeg 'mai pet' voor zonder chili."
+  },
+  "pairs_well_with": [
+    "Steamed jasmine rice",
+    "Stir-fried morning glory",
+    "Tom yum goong",
+    "Thai beer (Singha or Chang)"
+  ],
+  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Goong Pad Makham Recipe | Authentic Thai main dish",
@@ -63,5 +92,6 @@
     ],
     "dietary": [],
     "price_range": "mid-range"
-  }
+  },
+  "enriched_at": "2026-03-22"
 }

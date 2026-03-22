@@ -6,12 +6,17 @@
     "nl": "Goong Pad Sator",
     "thai": "กุ้งผัดสะตอ"
   },
+  "thai_name": "กุ้งผัดสะตอ (Goong Pad Sator)",
+  "origin_region": "southern",
   "category": "main-dish",
   "region": "southern",
   "spice_level": "medium",
   "description": {
     "en": "Prawns stir-fried with stink beans",
     "nl": "Garnalen geroerbakt met stinkbonen"
+  },
+  "extended_description": {
+    "en": "## What Is Goong Pad Sator?\n\nGoong Pad Sator (กุ้งผัดสะตอ) is a bold, pungent stir-fry from Southern Thailand that pairs plump prawns with sator beans, also known as stink beans or petai (Parkia speciosa). These bright green, flat beans have a powerful flavor often compared to garlic or asparagus but amplified three to five times in intensity. The beans are stir-fried with prawns, shrimp paste (kapi), chilies, and garlic, creating a dish that is salty, spicy, and unmistakably aromatic. Sator beans have a distinctive bitter, gassy quality that is an acquired taste for many but an absolute obsession for Southern Thais. The combination of sweet prawns and pungent beans creates a flavor contrast that keeps you coming back for more. This is authentic Southern Thai food at its most unapologetic.\n\n## History & Origins\n\nSator beans grow naturally throughout Southeast Asia, particularly in the tropical forests of Southern Thailand, Malaysia, and Indonesia. Southern Thai communities have cooked with these beans for generations, using them in everything from stir-fries to curries. The prawn version became the most famous preparation because Southern Thailand's coastal location provides an abundance of fresh seafood. The dish is deeply tied to the seasonal rhythm of the south: sator season begins in May with the early summer rains, and when the beans appear at markets, Southern Thai food lovers celebrate. The dish has remained firmly regional, rarely appearing on menus outside Southern Thai restaurants.\n\n## How It's Made\n\nFresh sator beans are peeled from their thick pods and the outer skin of each bean is removed. Prawns are cleaned and deveined. The aromatics are prepared: garlic is sliced, dried chilies are broken, and shrimp paste (kapi) is measured out. A wok is heated to smoking, oil goes in, then the garlic and dried chilies are fried briefly. The shrimp paste is added and stir-fried until fragrant, a matter of seconds. Prawns go in next and are tossed quickly until they begin to turn pink. The sator beans are added along with fish sauce, palm sugar, and a squeeze of lime juice. Everything is stir-fried on high heat for just a minute or two; the beans should stay bright green and crunchy, not overcooked. Some cooks use red curry paste instead of shrimp paste for a variation called pad ped sator goong.\n\n## Where to Eat It\n\nSouthern Thailand is the heartland. In Phuket, Raya Restaurant in Old Town and local seafood restaurants in Rawai and Kamala serve excellent versions. In Krabi, the night market and restaurants near Ao Nang Beach have it when sator is in season. In Hat Yai, look for it at khao kaeng shops on Niphat Uthit Road. In Bangkok, Khua Kling Pak Sod (multiple branches) is the go-to for authentic Southern Thai cooking including goong pad sator. Baan Ice on Soi Thonglor also serves a celebrated version. The dish is seasonal, so availability peaks from May through August.\n\n## How to Order\n\nAsk for \"goong pad sator\" (กุ้งผัดสะตอ) or \"pad sator goong.\" If you want it with pork instead, say \"moo pad sator.\" For the red curry paste version, ask for \"pad ped sator goong.\" The dish comes with a standard medium heat level; say \"pet mak\" for extra spicy or \"mai pet\" for mild. Sator beans have a strong smell and taste that lingers; this is completely normal and part of the experience. Order steamed rice alongside it.\n\n## Price Guide\n\nIn Southern Thailand, goong pad sator costs 80-150 THB at local restaurants when sator is in season. In Phuket tourist-area restaurants, expect 150-280 THB. In Bangkok, Southern Thai restaurants charge 150-250 THB. Sator beans can be expensive outside of season or outside the south, pushing prices higher. When made with large tiger prawns, the dish can reach 300-450 THB at upscale restaurants."
   },
   "ingredients": [
     "prawns",
@@ -28,6 +33,30 @@
   "preparation_time": "15 minutes",
   "difficulty": "easy",
   "price_range": "mid-range",
+  "best_places": [
+    "Raya Restaurant, Old Town Phuket",
+    "Khua Kling Pak Sod, Bangkok (multiple branches)",
+    "Baan Ice, Soi Thonglor, Bangkok",
+    "Night market and restaurants near Ao Nang, Krabi",
+    "Khao kaeng shops on Niphat Uthit Road, Hat Yai"
+  ],
+  "variations": [
+    "Goong Pad Sator (classic shrimp paste version)",
+    "Pad Ped Sator Goong (with red curry paste)",
+    "Moo Pad Sator (with pork instead of prawns)",
+    "Sator Pad Kapi (vegetarian with just shrimp paste and beans)"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'goong pad sator' or 'pad sator goong.' The dish is seasonal, peaking May through August. Say 'pet mak' for extra spicy or 'mai pet' for mild. The strong smell of sator beans is normal. Order with steamed rice.",
+    "nl": "Vraag om 'goong pad sator' of 'pad sator goong.' Het gerecht is seizoensgebonden, met een piek van mei tot augustus. Zeg 'pet mak' voor extra pittig of 'mai pet' voor mild."
+  },
+  "pairs_well_with": [
+    "Steamed jasmine rice",
+    "Tom kha gai (coconut chicken soup)",
+    "Thai omelet (khai jiao)",
+    "Thai beer or fresh coconut water"
+  ],
+  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Goong Pad Sator Recipe | Authentic Thai main dish",
@@ -62,5 +91,6 @@
     ],
     "dietary": [],
     "price_range": "mid-range"
-  }
+  },
+  "enriched_at": "2026-03-22"
 }

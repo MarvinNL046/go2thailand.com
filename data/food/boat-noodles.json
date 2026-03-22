@@ -6,12 +6,17 @@
     "nl": "Boot Noedels",
     "thai": "ก๋วยเตี๋ยวเรือ"
   },
+  "thai_name": "ก๋วยเตี๋ยวเรือ (Kuay Teow Reua)",
+  "origin_region": "central",
   "category": "soup",
   "region": "central",
   "spice_level": "medium",
   "description": {
     "en": "Rich pork or beef noodle soup traditionally served in small portions",
     "nl": "Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties"
+  },
+  "extended_description": {
+    "en": "## What Are Boat Noodles?\n\nBoat noodles, known as kuay teow reua (ก๋วยเตี๋ยวเรือ), are one of Thailand's most iconic noodle soups. Served in small bowls no bigger than a rice bowl, they pack an incredibly deep, complex flavor into every spoonful. The rich, dark broth gets its distinctive character from a slow-simmered base of pork or beef bones, dark soy sauce, Chinese five spice, star anise, and cinnamon. What truly sets boat noodles apart is the traditional addition of a small amount of animal blood, which thickens the broth and gives it a velvety texture and deep mahogany color. Each bowl comes loaded with thin rice noodles, tender slices of meat, meatballs, morning glory, and crunchy bean sprouts. Because the portions are intentionally small, most people order between three and eight bowls per sitting, stacking the empties as they go.\n\n## History & Origins\n\nBoat noodles trace their origins to the canals of Ayutthaya and Bangkok during the Plaek Phibunsongkhram era around 1942. Vendors would cook and serve the noodles from small boats traveling along the khlongs (canals) that served as Bangkok's main transportation network. The tiny bowls were practical: they prevented spilling on the rocking boats and kept the broth hot. By the 1970s, as Bangkok urbanized and canals were filled in, the vendors moved permanently to land, but the small-bowl tradition stuck.\n\n## How It's Made\n\nThe broth is the heart of boat noodles and requires hours of simmering. Pork or beef bones go into the pot with dark soy sauce, Chinese five spice, star anise, cinnamon sticks, and garlic. The broth reduces slowly until it develops a deep, almost black color. Near the end, a small amount of pork or beef blood is stirred in to give the soup its signature richness. Thin rice noodles (sen lek) are blanched, placed in the bowl, topped with sliced meat, pork or beef meatballs, crispy pork rinds, morning glory, and bean sprouts. The hot broth is ladled over everything. Condiments like dried chili flakes, sugar, fish sauce, and vinegar with chilies are added at the table.\n\n## Where to Eat It\n\nThe most famous spot in Bangkok is Boat Noodle Alley near Victory Monument, where dozens of vendors line the banks of Khlong Samsen. Doy Kuay Teow Reua on Phahonyothin Road is a Bangkok institution that earned praise for its traditional recipe. Sud Yod Kuay Teow Reua near Wat Intharawihan is another local favorite. In Ayutthaya, the original birthplace, head to the floating market area near the old city for an atmospheric experience.\n\n## How to Order\n\nAsk for kuay teow reua moo (pork) or neua (beef). Specify your noodle type: sen lek (thin rice), sen yai (wide rice), sen mee (vermicelli), or bami (egg noodles). Most locals order nam tok (with blood) for the authentic version. Say \"mai sai lueat\" if you want it without blood. Start with three to five bowls and order more as you go. Condiments are self-serve at the table.\n\n## Price Guide\n\nBoat noodles remain one of Bangkok's best bargains. A small bowl costs 15-25 THB at street stalls and traditional shops. At Boat Noodle Alley, expect to pay around 20 THB per bowl. A satisfying meal of five to eight bowls runs 100-200 THB. Sit-down restaurants with larger bowls charge 50-80 THB per portion."
   },
   "ingredients": [
     "rice noodles",
@@ -27,6 +32,29 @@
   "preparation_time": "30 minutes",
   "difficulty": "medium",
   "price_range": "budget",
+  "best_places": [
+    "Boat Noodle Alley, Victory Monument, Bangkok",
+    "Doy Kuay Teow Reua, Phahonyothin Road, Bangkok",
+    "Sud Yod Kuay Teow Reua, near Wat Intharawihan, Bangkok",
+    "Ayutthaya Floating Market, Ayutthaya"
+  ],
+  "variations": [
+    "Kuay Teow Reua Moo (pork version)",
+    "Kuay Teow Reua Neua (beef version)",
+    "Nam Tok (with blood broth)",
+    "Nam Sai (clear broth without blood)",
+    "Kuay Teow Reua Haeng (dry version without soup)"
+  ],
+  "ordering_tips": {
+    "en": "Order 'kuay teow reua moo' for pork or 'neua' for beef. Choose sen lek for thin rice noodles. Say 'nam tok' for traditional blood broth or 'nam sai' for clear broth. Start with 3-5 bowls and stack empties to count.",
+    "nl": "Bestel 'kuay teow reua moo' voor varkensvlees of 'neua' voor rundvlees. Kies sen lek voor dunne rijstnoedels. Zeg 'nam tok' voor traditionele bloedbouilion of 'nam sai' voor heldere bouillon."
+  },
+  "pairs_well_with": [
+    "Crispy pork rinds",
+    "Thai iced tea",
+    "Pickled chilies in vinegar"
+  ],
+  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Boat Noodles Recipe | Authentic Thai soup",
@@ -59,5 +87,6 @@
     "allergens": [],
     "dietary": [],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-22"
 }
