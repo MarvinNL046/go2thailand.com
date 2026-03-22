@@ -769,5 +769,70 @@
       "safetyTips": "람빵은 매우 안전한 도시로, 관광객에 대한 범죄가 거의 없습니다. 코끼리 보호 센터 방문 시 안전 지침을 따르고, 3-4월의 연무 시즌에는 마스크를 준비하세요.",
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
-  }
+  },
+  "extended_description": "## Overview\nLampang is the city that Chiang Mai used to be — a charming northern Thai town with magnificent Lanna temples, a gentle pace of life, and almost no tourist crowds. It is the only place in Thailand where horse-drawn carriages still clip-clop through the streets, a tradition dating back to the logging era when Burmese teak merchants settled here. The city sits on the Wang River about 100 km southeast of Chiang Mai, yet feels a world apart from its famous neighbor. Wat Phra That Lampang Luang, one of the most important Lanna temples in all of northern Thailand, is reason enough to visit — its 13th-century architecture and ancient murals are staggeringly beautiful. Add in the Thai Elephant Conservation Center, a thriving ceramics tradition (the rooster bowl is Lampang’s icon), and a weekend walking street that locals actually attend, and you have a destination that rewards the kind of traveler who prefers authenticity over Instagram spots.\n\n## Best Time to Visit\nNovember to February is the sweet spot with cool temperatures (15–28°C), clear skies, and the best conditions for temple visits and elephant center outings. December and January nights can get genuinely cold by Thai standards (12–15°C), so bring a light jacket. March to May is the burning season — farmers clear fields with fire, creating a thick haze that blankets all of northern Thailand and makes outdoor sightseeing unpleasant. Avoid March and April if you have respiratory concerns. June to October brings the monsoon with lush green landscapes and occasional heavy rains, but the city is perfectly visitable — just carry an umbrella. The Lampang Luang temple is magical in the rainy season when fewer visitors come.\n\n## How to Get There\nFrom Chiang Mai, buses and minivans depart frequently from Arcade Bus Terminal, taking 1.5–2 hours and costing 80–150 THB. The train from Chiang Mai to Lampang takes about 2 hours with fares starting at 30 THB (third class) — the 8:50am departure is convenient and scenic. From Bangkok, overnight buses take 8–9 hours (400–700 THB), and the overnight train takes 10–11 hours with sleeper berths from 600–1,200 THB. Lampang does not have a commercial airport, but Chiang Mai Airport is just 1.5 hours away by road.\n\n## Where to Stay\nThe old town along the Wang River is the most atmospheric area, with converted teak houses and boutique guesthouses from 400–1,200 THB. The Riverside Guest House and Pin Hotel are local favorites with river views at budget prices. Mid-range hotels in the city center near the clock tower run 600–1,800 THB and are walking distance to the night market and Kad Kong Ta walking street. For something unique, a few homestays in the surrounding countryside offer a taste of rural Lanna life from 300–600 THB including breakfast. There are no international chain hotels here — the charm is in the locally run properties.\n\n## What to Do\nWat Phra That Lampang Luang (20 km south of town, free entry) is the undisputed highlight — a fortified temple complex dating to the 13th century with some of the oldest wooden structures in Thailand, intricate Lanna wood carvings, and a small building where a natural camera obscura projects an inverted image of the main chedi. Inside the city, Wat Phra Kaeo Don Tao once housed the Emerald Buddha (now in Bangkok) and has a Burmese-style prayer hall worth exploring. Take a horse-drawn carriage ride through the old town (200–300 THB for 30 minutes) for the quintessential Lampang experience. The Thai Elephant Conservation Center (30 km north, 200 THB entry) is one of the most ethical elephant facilities in Thailand, offering bathing and feeding programs rather than riding. Kad Kong Ta Walking Street (Saturday and Sunday evenings) stretches along the old teak houses with local food stalls, crafts, and live music — it feels genuinely local, not tourist-manufactured.\n\n## Food & Dining\nNorthern Thai (Lanna) cuisine dominates, with khao soi (coconut curry noodles) being the signature dish — find it at any noodle shop for 40–60 THB. Lampang’s version is slightly different from Chiang Mai’s, often with a richer broth. Try nam prik ong (tomato-pork chili dip served with pork rinds and vegetables, 30–50 THB) and sai ua (herbed northern sausage, 30–50 THB). The Kad Kong Ta Walking Street on weekends has the best concentrated food scene: grilled pork skewers, kanom jeen nam ngiao (rice noodles in spicy tomato-pork broth, 30–50 THB), and traditional Lanna desserts. For coffee, Lampang’s cafe scene is quietly excellent — Cafe Amazon and local roasters serve beans from nearby highland farms. The riverside area has several atmospheric restaurants where a full Thai dinner runs 100–250 THB per person.\n\n## Budget Guide\nLampang is extremely affordable, even by Thai standards. Backpackers get by on 400–700 THB/day ($11–19): guesthouse (300–400 THB), street food and market meals (100–150 THB), temple visits (mostly free), and a songthaew ride (20 THB). Mid-range travelers spend 1,000–2,000 THB/day ($28–55): boutique hotel, restaurant meals, horse-carriage ride, and elephant center visit. Renting a motorbike (150–200 THB/day) is the best way to reach Wat Phra That Lampang Luang and the elephant center, both outside the city.\n\n## Safety & Tips\nLampang is one of the safest cities in Thailand with virtually zero tourist crime. The city is compact enough to walk around the center, but you will need transport to reach Wat Phra That Lampang Luang and the Elephant Conservation Center. Songthaews from the bus or train station are a flat 20 THB. Dress conservatively at temples — shoulders and knees must be covered. The elephant center is ethical and government-run, but always research any elephant attraction before visiting. March–April haze from burning season can be severe — check air quality readings and bring a mask if traveling in this period. The train from Chiang Mai is scenic and cheap but only runs three times daily, so check schedules. Lampang people are exceptionally friendly and not accustomed to tourists — a smile and a sawadee krap/ka goes a long way.",
+  "getting_there": {
+    "from_bangkok": {
+      "bus": "8-9 hours overnight, 400-700 THB",
+      "train": "10-11 hours, 600-1,200 THB sleeper from Krung Thep Aphiwat Central Terminal"
+    },
+    "from_chiang_mai": {
+      "bus": "1.5-2 hours, 80-150 THB from Arcade Bus Terminal",
+      "train": "2 hours, 30-100 THB (3 departures daily)"
+    },
+    "airport": "None — nearest is Chiang Mai Airport (1.5 hours by road)"
+  },
+  "best_time": {
+    "peak": "Nov-Feb",
+    "shoulder": "Jun-Oct",
+    "low": "Mar-May",
+    "avoid": "Mar-Apr (severe burning-season haze)",
+    "best_months": "Nov-Jan",
+    "why": "Cool dry season with clear skies, comfortable for temple visits and outdoor activities."
+  },
+  "budget": {
+    "backpacker": "$11-19/day",
+    "mid_range": "$28-55/day",
+    "luxury": "$70+/day",
+    "typical_meal": "30-60 THB street food, 80-200 THB restaurant"
+  },
+  "neighborhoods": [
+    {
+      "name": "Old Town / Wang Riverside",
+      "vibe": "Historic teak houses, river views, walking distance to Kad Kong Ta",
+      "best_for": "Culture seekers, couples, photographers",
+      "price_range": "400-1,200 THB/night"
+    },
+    {
+      "name": "City Center (Clock Tower area)",
+      "vibe": "Practical, near night market and bus/train station",
+      "best_for": "First-timers, transit stays, budget travelers",
+      "price_range": "300-1,800 THB/night"
+    },
+    {
+      "name": "Countryside homestays",
+      "vibe": "Rural Lanna life, rice paddies, quiet mornings",
+      "best_for": "Adventurers, long-stay travelers, families",
+      "price_range": "300-600 THB/night"
+    }
+  ],
+  "must_try_food": [
+    "Khao soi from any local noodle shop — Lampang’s version has a richer broth than Chiang Mai’s (40-60 THB)",
+    "Kanom jeen nam ngiao (rice noodles in spicy tomato-pork broth) at Kad Kong Ta Walking Street (30-50 THB)",
+    "Sai ua (herbed Lanna pork sausage) — smoky, fragrant, best from market stalls (30-50 THB)"
+  ],
+  "local_tips": [
+    "Rent a motorbike (150-200 THB/day) to visit Wat Phra That Lampang Luang and the Elephant Conservation Center — both are outside the city",
+    "The camera obscura inside Wat Phra That Lampang Luang projects an inverted image of the chedi — ask a monk to show you the viewing room",
+    "Kad Kong Ta Walking Street (Saturday-Sunday evenings) is one of the most authentic walking streets in Thailand — mostly locals, not tourists",
+    "Take the 8:50am train from Chiang Mai for the most convenient and scenic connection to Lampang",
+    "Horse-carriage rides (200-300 THB for 30 min) are touristy but genuinely unique to Lampang — do it once"
+  ],
+  "day_trips": [
+    "Wat Phra That Lampang Luang (20 km south) — 13th-century fortified Lanna temple, finest in northern Thailand, free entry",
+    "Thai Elephant Conservation Center (30 km north) — ethical government-run facility, bathing and feeding programs (200 THB)",
+    "Chae Son National Park (70 km northeast) — hot springs, waterfall, jungle trails",
+    "Wat Chaloem Phra Kiat (Doi Pu Yak, 75 km north) — hilltop pagodas among misty peaks, one of Thailand’s most dramatic temple settings"
+  ],
+  "enriched_at": "2026-03-22"
 }

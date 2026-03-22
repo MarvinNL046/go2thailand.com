@@ -784,5 +784,82 @@
       "safetyTips": "코사무이는 대체로 안전한 여행지입니다. 오토바이 대여 시 헬멧 착용과 국제 면허증을 확인하세요. 해변에서 소지품을 관리하고, 보트 투어 시 안전 장비를 확인하세요. 우기에는 해류에 주의가 필요합니다.",
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
-  }
+  },
+  "extended_description": "## Overview\nKoh Samui is Thailand’s second-largest island, a coconut-palm-covered oval in the Gulf of Thailand that somehow manages to serve both the backpacker on a shoestring and the honeymooner in a private pool villa. Unlike Phuket’s urbanized sprawl, Samui has retained pockets of genuine island charm — fishing villages where longtail boats still launch at dawn, interior hills thick with jungle, and a ring road that passes temples, waterfalls, and viewpoints between the beach towns. The island is the gateway to the Ang Thong Marine Park and the Full Moon Party on neighboring Koh Phangan, but it stands perfectly well on its own with world-class diving, a booming wellness scene, and sunsets over Fisherman’s Village that rival anywhere in Southeast Asia. With its own international airport, Koh Samui is one of the easiest Thai islands to reach.\n\n## Best Time to Visit\nDecember to April is the dry season with calm seas, blue skies, and temperatures around 26–32°C — perfect for beach days and island hopping. January and February are the driest months and peak tourist season, meaning higher hotel prices and busier beaches. Koh Samui’s monsoon pattern differs from the Andaman coast: the heaviest rains fall October to December, with November being the wettest month when flooding can occasionally affect low-lying roads. May to September is a pleasant shoulder season — brief afternoon showers, fewer tourists, and hotel rates drop 30–50%. The Gulf is warmest from April to June, making it ideal for snorkeling and diving.\n\n## How to Get There\nKoh Samui Airport (USM) is operated by Bangkok Airways, which keeps ticket prices higher than mainland airports — expect 2,500–5,000 THB one-way from Bangkok (1 hour). The budget alternative is to fly to Surat Thani Airport (URT) on AirAsia or Nok Air (800–1,800 THB) and take a combined bus-and-ferry transfer (2–3 hours, 350–500 THB). From Bangkok by land, overnight buses to Surat Thani cost 500–700 THB (10 hours), plus a ferry (130–250 THB, 1.5 hours). Lomprayah and Seatran operate high-speed catamarans from Surat Thani’s Donsak Pier. The sleeper train from Bangkok to Surat Thani (600–1,500 THB, 10–12 hours) is a classic route, with ferry connections timed to morning arrivals. From Koh Phangan or Koh Tao, direct ferries run multiple times daily (200–600 THB).\n\n## Where to Stay\nChaweng Beach is the island’s busiest strip with everything from 400 THB backpacker rooms to 15,000+ THB luxury resorts, plus the densest nightlife. Lamai Beach is slightly quieter with a good mix of mid-range hotels (800–2,500 THB) and excellent restaurants. Maenam Beach on the north coast is the budget traveler’s favorite — simple bungalows from 400–800 THB, a laid-back vibe, and easy ferry access to Koh Phangan. Bophut’s Fisherman’s Village is the most charming area, with boutique hotels (1,500–4,000 THB), Friday Walking Street, and waterfront dining. For total seclusion, the south coast around Lipa Noi and Taling Ngam has luxury pool villas (5,000–20,000 THB) with private sunset views.\n\n## What to Do\nThe Big Buddha (Wat Phra Yai) sits on a small connected island at the northeast tip — the 12-meter golden statue is free to visit and best photographed in morning light. Nearby Wat Plai Laem features a striking 18-armed Guanyin statue surrounded by a fish-filled lake. Ang Thong Marine Park (day trip by speedboat, 1,500–2,500 THB) is a jaw-dropping archipelago of 42 limestone islands with emerald lagoons, viewpoint hikes, and kayaking. Na Muang Waterfalls (two cascades, free entry) offer jungle swimming pools accessible by a short hike. For diving, Sail Rock between Samui and Koh Tao is one of the Gulf’s best sites (3,500–4,500 THB for two dives). The island has a growing wellness scene — Kamalaya and Samahita are world-renowned retreat centers, but affordable Thai massage starts at 300 THB on every beach.\n\n## Food & Dining\nFisherman’s Village in Bophut hosts a Friday Walking Street with dozens of food stalls selling seafood, Thai curries, and coconut ice cream (30–80 THB per item). Lamai Night Market (open nightly) is the best value for authentic Thai food on the island: pad thai (50–70 THB), massaman curry with rice (60–80 THB), and fresh seafood barbecue (100–200 THB per plate). Chaweng’s restaurant strip is more tourist-oriented with higher prices (200–500 THB per dish), but spots like The Hut Cafe serve excellent Thai food at fair prices. For a splurge, beachfront seafood restaurants in Bophut serve whole grilled snapper or prawns for 300–600 THB. Do not miss coconut ice cream from beach vendors (40–60 THB) — Samui’s coconuts are the best in Thailand.\n\n## Budget Guide\nKoh Samui is pricier than mainland Thailand but manageable on a budget. Backpackers spend 800–1,200 THB/day ($22–33): basic bungalow at Maenam (400–600 THB), market meals (200–300 THB), songthaew transport (50–100 THB). Mid-range travelers spend 2,500–5,000 THB/day ($69–139): beachfront hotel, restaurant dining, one boat trip. Scooter rental (200–350 THB/day) is the standard way to get around — the ring road is 51 km and easy to navigate. Taxis on Samui are notoriously expensive (300–500 THB for short rides) with no meters, so always negotiate or use the Samui Bus app. Shared songthaews along the ring road cost 50–100 THB.\n\n## Safety & Tips\nKoh Samui is generally safe but scooter accidents are the biggest risk — always wear a helmet, check brakes before renting, and carry your international driving permit. The ring road has blind curves and speeding trucks. Rip currents occur at Chaweng and Lamai during monsoon season (October–December) — heed red-flag warnings. Jellyfish (box jellyfish) can appear October through January; vinegar stations are set up on major beaches. Book Ang Thong Marine Park trips through reputable operators — cheap tours may skimp on safety equipment. If attending a Full Moon Party on Koh Phangan, take the ferry over and back (last ferry around midnight) or book accommodation on the island. Keep valuables in your hotel safe, not on the beach.",
+  "getting_there": {
+    "from_bangkok": {
+      "flight": "1 hour direct to Samui (USM), 2,500-5,000 THB (Bangkok Airways); or fly to Surat Thani (URT) 800-1,800 THB + bus/ferry 350-500 THB",
+      "bus_ferry": "10 hours bus to Surat Thani (500-700 THB) + 1.5 hour ferry (130-250 THB)",
+      "train_ferry": "10-12 hours sleeper train to Surat Thani (600-1,500 THB) + ferry"
+    },
+    "from_koh_phangan": {
+      "ferry": "30 min - 1 hour, 200-400 THB (Lomprayah, Seatran)"
+    },
+    "airport": "Samui Airport (USM) — Bangkok Airways hub"
+  },
+  "best_time": {
+    "peak": "Dec-Apr",
+    "shoulder": "May-Sep",
+    "low": "Oct-Dec (monsoon)",
+    "avoid": "November (heaviest rainfall, possible flooding)",
+    "best_months": "Jan-Mar",
+    "why": "Driest months with calm seas, ideal for beaches and Ang Thong Marine Park trips."
+  },
+  "budget": {
+    "backpacker": "$22-33/day",
+    "mid_range": "$69-139/day",
+    "luxury": "$200+/day",
+    "typical_meal": "50-80 THB street food, 150-400 THB restaurant"
+  },
+  "neighborhoods": [
+    {
+      "name": "Chaweng Beach",
+      "vibe": "Busy main strip, nightlife, shopping, widest beach",
+      "best_for": "First-timers, nightlife seekers, solo travelers",
+      "price_range": "400-15,000 THB/night"
+    },
+    {
+      "name": "Lamai Beach",
+      "vibe": "Slightly quieter than Chaweng, good restaurants, rocky south end",
+      "best_for": "Couples, mid-range travelers",
+      "price_range": "600-4,000 THB/night"
+    },
+    {
+      "name": "Maenam Beach",
+      "vibe": "Laid-back, budget bungalows, easy ferry to Koh Phangan",
+      "best_for": "Backpackers, long-stay travelers",
+      "price_range": "400-1,500 THB/night"
+    },
+    {
+      "name": "Bophut / Fisherman’s Village",
+      "vibe": "Charming, boutique hotels, Friday Walking Street, waterfront dining",
+      "best_for": "Couples, families, foodies",
+      "price_range": "1,500-6,000 THB/night"
+    },
+    {
+      "name": "South Coast (Lipa Noi / Taling Ngam)",
+      "vibe": "Secluded, luxury villas, best sunsets on the island",
+      "best_for": "Luxury travelers, honeymoons",
+      "price_range": "5,000-20,000 THB/night"
+    }
+  ],
+  "must_try_food": [
+    "Whole grilled snapper at a Bophut beachfront restaurant — fresh catch served with spicy seafood sauce (300-500 THB)",
+    "Coconut ice cream from beach vendors — Samui coconuts are the best in Thailand (40-60 THB)",
+    "Massaman curry with rice at Lamai Night Market — rich, creamy southern Thai classic (60-80 THB)"
+  ],
+  "local_tips": [
+    "Rent a scooter (200-350 THB/day) — the 51 km ring road is easy to navigate and taxis are overpriced",
+    "Visit Big Buddha and Wat Plai Laem together in the morning — they are 5 minutes apart and best in soft light",
+    "Book Ang Thong Marine Park trips at least a day ahead in peak season — boats fill up fast",
+    "Fisherman’s Village Friday Walking Street starts at 5pm — arrive early for the best food stall selection",
+    "If heading to a Full Moon Party on Koh Phangan, book a round-trip ferry ticket in advance and arrange accommodation — the last ferry back is around midnight"
+  ],
+  "day_trips": [
+    "Ang Thong Marine Park (boat day trip) — 42 limestone islands, emerald lagoon, kayaking, viewpoint hikes (1,500-2,500 THB)",
+    "Koh Phangan (30 min ferry) — Full Moon Party, Bottle Beach, Thong Nai Pan for quieter vibes",
+    "Koh Tao (2 hour ferry) — world-class budget diving and snorkeling",
+    "Sail Rock (speedboat trip) — the Gulf’s best dive site between Samui and Koh Tao (3,500-4,500 THB for 2 dives)"
+  ],
+  "enriched_at": "2026-03-22"
 }
