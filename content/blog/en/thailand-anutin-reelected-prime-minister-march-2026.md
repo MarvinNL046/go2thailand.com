@@ -1,11 +1,12 @@
 ---
 title: "Anutin Charnvirakul Re-elected as Thailand's Prime Minister in Landslide Parliamentary Vote"
-date: 2026-03-21
+date: "2026-03-21"
 description: "Bhumjaithai Party leader Anutin Charnvirakul was re-elected as Thailand's 32nd prime minister on March 19, 2026, securing 293 votes in a parliamentary session and becoming the first Thai PM voted back to office in two decades."
 category: "news"
-author: "Go2Thailand Team"
+author:
+  name: "Go2Thailand Team"
 tags: ["thailand politics", "anutin charnvirakul", "bhumjaithai party", "thailand government 2026"]
-image: ""
+image: "/images/blog/thailand-news-default.webp"
 draft: false
 ---
 

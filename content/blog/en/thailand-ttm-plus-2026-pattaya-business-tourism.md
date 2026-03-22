@@ -1,12 +1,13 @@
 ---
 title: "Thailand Travel Mart Plus 2026 Heads to Pattaya: What It Means for Tourism"
-date: 2026-03-21
+date: "2026-03-21"
 description: "TTM Plus 2026, Thailand's flagship B2B tourism platform, moves to Pattaya in June with 400 sellers and 400 international buyers from over 50 countries."
 category: "news"
 tags: ["pattaya", "ttm plus", "business tourism", "mice", "tat", "2026"]
-author: "Go2Thailand Team"
+author:
+  name: "Go2Thailand Team"
 reading_time: 4
-image: ""
+image: "/images/blog/thailand-news-default.webp"
 draft: false
 ---
 

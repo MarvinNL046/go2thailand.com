@@ -1,11 +1,12 @@
 ---
 title: "Oil Crisis Hits Thailand: Flight Prices Surge and Energy Costs Squeeze Travelers"
-date: 2026-03-21
+date: "2026-03-21"
 description: "Rising oil prices from the Middle East conflict are pushing Thailand flight costs up by over 20%, while the government considers freezing electricity rates. What travelers need to know about the impact on their trip budget."
 category: "news"
-author: "Go2Thailand Team"
+author:
+  name: "Go2Thailand Team"
 tags: ["thailand travel costs", "flight prices 2026", "oil crisis thailand", "thailand energy prices"]
-image: ""
+image: "/images/blog/thailand-news-default.webp"
 draft: false
 ---
 

@@ -1,12 +1,13 @@
 ---
 title: "Michelin Guide Thailand 2026: Sühring Earns Third Star in Historic First"
-date: 2026-03-22
+date: "2026-03-22"
 description: "The Michelin Guide Thailand 2026 awards 10 new stars, with Sühring becoming only the second restaurant in Thailand to hold three Michelin stars."
 category: "news"
 tags: ["michelin guide", "bangkok", "restaurants", "fine dining", "street food", "2026"]
-author: "Go2Thailand Team"
+author:
+  name: "Go2Thailand Team"
 reading_time: 4
-image: ""
+image: "/images/blog/thailand-news-default.webp"
 draft: false
 ---
 

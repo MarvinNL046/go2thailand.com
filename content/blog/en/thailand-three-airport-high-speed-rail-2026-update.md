@@ -1,11 +1,12 @@
 ---
 title: "Thailand's Three-Airport High-Speed Rail: Contract Expected by July 2026, Service by 2032"
-date: 2026-03-22
+date: "2026-03-22"
 description: "Thailand's long-delayed high-speed rail project linking Don Mueang, Suvarnabhumi, and U-Tapao airports moves forward with a contract signing expected in July 2026 and a target service launch in 2032."
 category: "news"
-author: "Go2Thailand Team"
+author:
+  name: "Go2Thailand Team"
 tags: ["thailand high-speed rail", "bangkok airport rail", "thailand infrastructure 2026", "suvarnabhumi airport", "thailand transport"]
-image: ""
+image: "/images/blog/thailand-news-default.webp"
 draft: false
 ---
 
