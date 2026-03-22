@@ -698,5 +698,66 @@
       "safetyTips": "찬타부리는 일반적으로 폭력 범죄율이 낮은 안전한 여행지이며, 대부분의 방문자는 문제 없이 체류합니다. 밤늦게 낯선 지역을 혼자 걷지 않기, 귀중품 호텔 금고 보관, 많은 현금 주의 등 기본 예방조치를 취하세요 — ATM은 밝고 잘 보이는 곳에서 이용하세요. 보석 시장은 합법적이지만 간혹 지나치게 열성적인 판매자가 있습니다; 평판 좋은 딜러에게서만 보석을 구매하고 낯선 사람의 원치 않는 제안에 주의하세요. 오토바이를 빌릴 때는 헬멧을 착용하고, 혼잡할 수 있는 현지 도로에서 방어적으로 운전하며, 보험이 적절한지 확인하세요. 몬순 시즌(5-10월)에는 폭포와 불어난 강 근처에서 주의하세요. 호텔의 수돗물은 일반적으로 안전하지만 민감한 위장에는 생수를 권장하며, 길거리 음식은 회전율이 높은 바쁜 가판대에서 구매하면 대체로 안전합니다.",
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
-  }
+  },
+  "extended_description": "## Overview\nThree hours east of Bangkok, where the lush hills meet the Gulf of Thailand, Chanthaburi quietly operates as one of the most fascinating small cities in the country. It is simultaneously Thailand's gem capital — home to one of the world's largest colored gemstone trading markets — and the nation's fruit basket, producing more durian than any other province. Add to that a stunning French-Gothic cathedral, a riverside old town with Vietnamese-influenced architecture, and waterfalls hidden in national parks, and you have a destination that defies easy categorization. Chanthaburi attracts Thai weekenders who come for the fruit, gem dealers who fly in from Madagascar and Myanmar, and a small but growing number of foreign travelers who have discovered that this unassuming riverside town punches well above its weight. Spend a weekend here and you will eat better, learn more, and feel more connected to real Thailand than a week on any tourist island.\n\n## Best Time to Visit\nNovember to February brings cool, dry weather (22-32°C) perfect for exploring the old town and waterfalls. The Gem Market runs year-round on Fridays through Sundays. For fruit lovers, the durian and mangosteen season peaks from April to June — Chanthaburi's annual Fruit Festival (usually late May or early June) is a spectacular celebration with fruit sculptures, tasting competitions, and durian-eating contests. The rainy season (June-October) makes waterfalls more impressive but some forest trails muddy. Khao Khitchakut National Park's annual pilgrimage season runs February to April.\n\n## How to Get There\nFrom Bangkok, drive east on Route 344/Route 3 for 3-3.5 hours (245 km). Air-conditioned buses depart from Ekkamai Eastern Bus Terminal every 2-3 hours (270-350 THB, 4-5 hours). Minivans from Ekkamai are faster at 3.5-4 hours (250-300 THB). There is no airport in Chanthaburi; the nearest is U-Tapao (Pattaya), 2 hours west. If coming from Trat or Koh Chang, Chanthaburi is a 1.5-hour bus ride west (100-150 THB). A private taxi from Bangkok costs around 3,000-4,000 THB.\n\n## Where to Stay\nThe Chanthaboon Waterfront Community area is the most atmospheric neighborhood, with converted shophouses turned into boutique guesthouses and cafes (800-2,000 THB/night, $22-55). The city center near the Gem Market on Si Chan Road has practical mid-range hotels from 600-1,500 THB ($17-42), convenient for early morning gem market visits. Budget guesthouses around the bus station area offer basic rooms from 350-600 THB ($10-17). For a beach escape, Chao Lao Beach (30 minutes south) has beachfront resorts from 1,000-3,000 THB ($28-83).\n\n## What to Do\nWalk through the Gem Market on Si Chan Road (Friday-Sunday, busiest Saturday morning) — even non-buyers will be mesmerized watching dealers examine rubies, sapphires, and semi-precious stones under loupes, negotiating in Thai, Khmer, Burmese, and English. The Chanthaburi Gem and Jewelry Center nearby has a 3D exhibition explaining the gem trade and live demonstrations by gem cutters. Visit the Cathedral of the Immaculate Conception, the largest Catholic church in Thailand with French Gothic spires and stunning stained glass — a reminder of the French occupation (1893-1905). Stroll the Chanthaboon Waterfront Community with its pastel shophouses, Vietnamese-influenced architecture, cafes, and art galleries. Drive 15 minutes to Namtok Phlio National Park for the Phlio Waterfall, where you can wade in crystal-clear pools with enormous carp swimming around your feet (entrance 200 THB for foreigners). During fruit season, visit a durian orchard for a tasting tour (200-500 THB including all-you-can-eat fruit).\n\n## Food & Dining\nChanthaburi's food scene reflects its multicultural heritage. Kuay tiaw yuan (Vietnamese-style noodle soup) is the local specialty — thin rice noodles in a star anise and cinnamon broth, remarkably similar to pho, found at riverside restaurants for 40-60 THB. The Chanthaboon Waterfront has excellent cafes serving Vietnamese spring rolls and Thai-Vietnamese fusion dishes. Sen Chan noodles (local flat rice noodles) are unique to this province. Fresh seafood from the Gulf coast is excellent and affordable — grilled squid (60-100 THB) and crab fried rice (80-150 THB) at Chao Lao Beach restaurants. During durian season, roadside stalls sell Monthong durian by the kilo — expect to pay 200-600 THB/kg depending on quality.\n\n## Budget Guide\nBackpackers manage on 600-1,000 THB/day ($17-28): budget guesthouse, market food, and walking around the old town. Mid-range travelers spend 1,500-3,000 THB/day ($42-83) with a comfortable hotel, restaurant meals, national park entry, and fruit orchard visits. Transport to/from Bangkok is the largest fixed cost.\n\n## Safety & Tips\nThe Gem Market is a professional trading floor, not a tourist bazaar — if you plan to buy, bring someone knowledgeable or risk overpaying. Durian season brings heavy trucks on rural roads between orchards — drive carefully. Namtok Phlio gets crowded on weekends; visit on weekday mornings for a peaceful experience. The old town is extremely walkable, but you need a car or motorbike for waterfalls and orchards. Chanthaburi is very safe — it is a small, friendly city with minimal tourist-related crime.",
+  "getting_there": {
+    "from_bangkok": {
+      "method": "bus/minivan/car",
+      "duration": "3.5-5h",
+      "cost": "$7-12"
+    },
+    "airport": "N/A (nearest: U-Tapao/Pattaya, 2h west)"
+  },
+  "best_time": {
+    "peak": "Nov-Feb",
+    "shoulder": "Mar-May",
+    "low": "Jun-Oct",
+    "best_months": "Nov-Feb (general), Apr-Jun (fruit season)",
+    "why": "Cool dry weather for exploring, or visit April-June for durian season and the annual Fruit Festival."
+  },
+  "budget": {
+    "backpacker": "$17-28/day",
+    "mid_range": "$42-83/day",
+    "luxury": "$83+/day",
+    "typical_meal": "40-60 THB noodle soup, 80-150 THB restaurant seafood"
+  },
+  "neighborhoods": [
+    {
+      "name": "Chanthaboon Waterfront Community",
+      "vibe": "Heritage riverside, cafes and galleries",
+      "best_for": "Culture lovers, photographers",
+      "price_range": "$22-55/night"
+    },
+    {
+      "name": "City Center (Si Chan Road / Gem Market)",
+      "vibe": "Practical, central, market buzz",
+      "best_for": "Gem market visitors, convenience",
+      "price_range": "$17-42/night"
+    },
+    {
+      "name": "Chao Lao Beach (30 min south)",
+      "vibe": "Quiet coastal escape",
+      "best_for": "Beach lovers, weekend relaxation",
+      "price_range": "$28-83/night"
+    }
+  ],
+  "must_try_food": [
+    "Kuay tiaw yuan - Vietnamese-style noodle soup with star anise broth, Chanthaburi's signature dish (40-60 THB)",
+    "Fresh Monthong durian from a local orchard - creamy, sweet, custard-like flesh at its peak from April to June (200-600 THB/kg)",
+    "Sen Chan noodles - local flat rice noodles unique to Chanthaburi province, stir-fried or in soup (40-80 THB)"
+  ],
+  "local_tips": [
+    "Visit the Gem Market Saturday morning for peak activity — dealers arrive early and the best stones go fast",
+    "Bring a knowledgeable friend if buying gemstones — the market is for professional traders, not tourist trinkets",
+    "Namtok Phlio waterfall is best visited on weekday mornings — weekends draw crowds of Thai families",
+    "Rent a motorbike (200-300 THB/day) to reach waterfalls and orchards outside town — the old town is walkable",
+    "During durian season (Apr-Jun), orchards offer all-you-can-eat fruit buffets for 200-500 THB — worth every baht"
+  ],
+  "day_trips": [
+    "Namtok Phlio National Park (15 km) - crystal-clear waterfall pools with friendly giant carp",
+    "Khao Khitchakut National Park (30 km) - hiking trails and annual Buddhist pilgrimage site (Feb-Apr)",
+    "Chao Lao Beach (30 min south) - quiet Gulf beach for swimming and seafood",
+    "Trat & Koh Chang (1.5h east) - island-hopping and beach paradise"
+  ],
+  "enriched_at": "2026-03-22"
 }

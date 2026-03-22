@@ -574,5 +574,60 @@
       "bestTimeToVisit": "11월부터 2월까지의 시원한 시즌이 붕칸 방문에 가장 편안한 시기로, 쾌적한 기온(15-25°C)과 맑은 하늘이 특징입니다. 하지만 우기 끝(9-10월)은 독특하게 극적인 경험을 제공합니다 — 비 후 안개가 고래 바위 형성물을 감싸며 사진작가들이 꿈꾸는 놀랍도록 분위기 있고 거의 선사시대 같은 풍경을 만듭니다. 젖은 바위가 회색 하늘을 배경으로 짙은 붉은 빛으로 반짝이고, 구름이 사암 기둥 사이를 누빕니다. 더운 시즌(3-5월)은 이산이 매우 덥고 건조해 야외 탐험에 덜 쾌적합니다. 평일이 더 조용하지만, 붕칸은 국제 관광 기준으로는 결코 붐비지 않습니다. 태국 공휴일에는 국내 방문자가 고래 바위를 찾을 수 있습니다.",
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
-  }
+  },
+  "extended_description": "## Overview\nForget everything you know about tourist Thailand. Bueng Kan is the country's youngest province (established in 2011), a remote frontier along the Mekong River in the far northeast where the landscape shifts between ancient sandstone formations, misty rainforest, and sleepy riverside villages. This is deep Isaan — the Thailand that package tourists never see. The star attraction is Hin Sam Wan (Three Whale Rock), a 75-million-year-old sandstone formation that resembles a family of sperm whales breaching from a 200-meter cliff edge, surrounded by nothing but forest and fog. Combine that with Wat Phu Tok, one of Thailand's most vertigo-inducing temples built into sheer cliff faces, and you have a destination that rewards the adventurous traveler with experiences money cannot buy in Phuket or Pattaya.\n\n## Best Time to Visit\nNovember through February offers the best conditions: cool mornings (15-25°C) create stunning mist over the Mekong and around Three Whale Rock, making for dramatic photographs. The rock formations are most photogenic at sunrise when fog clings to the forest canopy. March to May is extremely hot (35-40°C) and the haze from agricultural burning can limit visibility. June through October brings heavy rains that make the dirt roads to Hin Sam Wan muddy and challenging — the 4WD truck ride to Three Whale Rock passes through deep mud pits during this period. The Naga Fireball festival along the Mekong in October is a unique spectacle if you time it right.\n\n## How to Get There\nBueng Kan has no airport and no train station — getting here is part of the adventure. The fastest route is to fly Bangkok to Udon Thani (1 hour, 1,500-3,000 THB on AirAsia or Nok Air), then drive 3 hours east to Bueng Kan. Direct overnight buses run from Bangkok's Mo Chit Terminal (11 hours, 600-900 THB, departing afternoon/evening). You can also fly to Nakhon Phanom (1.5 hours) and drive 2 hours west. From Udon Thani, rent a car (1,000-1,500 THB/day) — you will need your own vehicle to reach the main attractions, as public transport within the province is almost nonexistent.\n\n## Where to Stay\nBueng Kan town has a handful of basic hotels and guesthouses along the Mekong riverfront, with rooms from 400-800 THB/night ($11-22). The town is small and walkable, centered around the clock tower area on Thai Sammakhi Road. For a more atmospheric stay, look for riverside guesthouses with Mekong views — watching the sunset over Laos from your balcony is unforgettable. There are no luxury resorts here; this is authentic small-town Thailand. Book ahead during long Thai holidays when domestic visitors descend on the province. Some travelers base themselves in Nong Khai or Udon Thani (3 hours away) and visit Bueng Kan as a day trip.\n\n## What to Do\nThe unmissable experience is Three Whale Rock (Hin Sam Wan) in Phu Sing Forest Park — you ride in the back of a 4WD truck through dense forest for 30-45 minutes, then walk across the massive sandstone formation that drops sheer 200 meters on all sides. There are no railings, so vertigo sufferers beware. The rock genuinely resembles breaching whales when viewed from the air. Allow 2-3 hours for the full trip. Wat Phu Tok (45 km southeast of town) is equally unforgettable: a Buddhist temple carved into a 360-meter sandstone cliff face, reached by seven levels of wooden walkways and steep staircases bolted to the rock. The views from the top are staggering. Visit Beung Khong Long, a vast freshwater lake teeming with birdlife, for a peaceful afternoon. The Mekong riverfront in town is pleasant for an evening stroll with grilled fish and Isaan food at waterfront restaurants.\n\n## Food & Dining\nBueng Kan is pure Isaan territory. Expect fiery som tam (papaya salad) made with pla ra (fermented fish paste), laab (spicy minced meat salad), gai yang (charcoal-grilled chicken), and sticky rice as the staple carb. Mekong River fish — grilled whole with salt crust or in sour tom yum — is a highlight at riverside restaurants (80-150 THB for a whole fish). The morning market near the clock tower sells fresh produce, grilled meats, and local snacks for 20-50 THB per item. Don't expect international cuisine or fancy restaurants — this is small-town Isaan cooking at its most authentic and most affordable.\n\n## Budget Guide\nBueng Kan is one of Thailand's cheapest destinations. Backpackers can manage on 500-800 THB/day ($14-22): basic guesthouse, street food, and local transport. Mid-range travelers spend 1,000-2,000 THB/day ($28-55) with car rental factored in. The biggest expense is getting here and renting a vehicle to reach the attractions.\n\n## Safety & Tips\nThree Whale Rock has no safety railings at its cliff edges — stay well back from the drop, especially when the rock is wet. The 4WD truck rides to Hin Sam Wan are rough; hold on tight and bring something to cushion the wooden benches. Wat Phu Tok's wooden walkways are steep and can be slippery after rain — wear proper shoes, not flip-flops. English is rarely spoken here, so download Google Translate's Thai offline pack. Bring cash — ATMs exist in town but are limited, and card payment is almost nonexistent outside hotels.",
+  "getting_there": {
+    "from_bangkok": {
+      "method": "bus direct or fly to Udon Thani + drive",
+      "duration": "11h bus / 4h via flight",
+      "cost": "$17-85"
+    },
+    "airport": "N/A (nearest: Udon Thani, 3h drive)"
+  },
+  "best_time": {
+    "peak": "Nov-Feb",
+    "shoulder": "Mar-May",
+    "low": "Jun-Oct",
+    "best_months": "Nov-Feb",
+    "why": "Cool mornings create dramatic mist over Three Whale Rock and the Mekong. Roads to attractions are dry and passable."
+  },
+  "budget": {
+    "backpacker": "$14-22/day",
+    "mid_range": "$28-55/day",
+    "luxury": "$55+/day",
+    "typical_meal": "20-50 THB market food, 80-150 THB restaurant"
+  },
+  "neighborhoods": [
+    {
+      "name": "Bueng Kan Town Center (Clock Tower area)",
+      "vibe": "Sleepy market town, walkable",
+      "best_for": "Base for day trips, budget travelers",
+      "price_range": "$11-22/night"
+    },
+    {
+      "name": "Mekong Riverfront",
+      "vibe": "Quiet, scenic, sunset views over Laos",
+      "best_for": "Atmosphere seekers, photographers",
+      "price_range": "$14-25/night"
+    }
+  ],
+  "must_try_food": [
+    "Grilled Mekong river fish with salt crust - whole fish charcoal-grilled and served with spicy dipping sauce (80-150 THB)",
+    "Laab Isaan - spicy minced pork or chicken salad with roasted rice powder, fish sauce, and herbs, eaten with sticky rice (40-60 THB)",
+    "Som tam pla ra - Isaan-style papaya salad with fermented fish paste, not for the faint-hearted but deeply authentic (30-50 THB)"
+  ],
+  "local_tips": [
+    "Rent a car in Udon Thani — public transport within Bueng Kan province is nearly nonexistent and you need wheels for the attractions",
+    "Visit Three Whale Rock at sunrise for the best mist and photography conditions — arrive at Phu Sing Forest Park by 6am",
+    "Wear proper closed-toe shoes for Wat Phu Tok, not flip-flops — the wooden walkways are steep and slippery when wet",
+    "Download Google Translate Thai offline — English speakers are extremely rare in this part of Isaan",
+    "Bring enough cash for your entire stay — ATMs exist in town but card payment is almost nonexistent"
+  ],
+  "day_trips": [
+    "Wat Phu Tok (45 km southeast) - clifftop temple with seven levels of wooden walkways",
+    "Beung Khong Long (60 km south) - vast freshwater lake with birdwatching",
+    "Nakhon Phanom (2h east) - Mekong riverside city with Vietnamese heritage and That Phanom stupa",
+    "Ban Ahong (30 km west) - Mekong rapids viewpoint and local fishing village"
+  ],
+  "enriched_at": "2026-03-22"
 }
