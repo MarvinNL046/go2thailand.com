@@ -70,7 +70,9 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
         <SEOHead
           title={`Top 10 Things to Do in ${city.name.en} 2026 — With Prices`}
           description={`The 10 best attractions in ${city.name.en}, Thailand for 2026. Entrance fees, opening hours, how to get there, and tips to skip the crowds.`}
-        />
+        >
+          <meta name="robots" content="noindex, follow" />
+        </SEOHead>
 
         <div className="bg-surface-cream min-h-screen">
           <section className="bg-white shadow-sm">
@@ -81,7 +83,7 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
                   Top 10 Attractions in {city.name.en}
                 </h1>
                 <p className="text-xl text-gray-600 mb-8">
-                  Coming soon! We're working on adding current attraction recommendations with up-to-date pricing.
+                  Attraction recommendations for {city.name.en} are being prepared with entrance fees, hours, and insider tips.
                 </p>
                 <Link href={`/city/${city.slug}/`} className="btn-primary">
                   ← Back to {city.name.en}
@@ -100,6 +102,7 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
         title={attractionsData.title}
         description={attractionsData.meta_description}
       >
+        <meta name="robots" content="noindex, follow" />
         <meta name="keywords" content={`${city.name.en} attractions, Thailand tourism, ${city.name.en} sightseeing, things to do, tourist attractions`} />
         <script
           type="application/ld+json"

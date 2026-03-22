@@ -86,7 +86,9 @@ export default function Top10RestaurantsPage({ city, restaurantsData, affiliates
         <SEOHead
           title={`Best Restaurants ${city.name.en} 2026 — Local Picks & Prices`}
           description={`The 10 best restaurants in ${city.name.en}, Thailand for 2026. Local favorites with real prices, what to order, and insider tips from frequent visitors.`}
-        />
+        >
+          <meta name="robots" content="noindex, follow" />
+        </SEOHead>
 
         <div className="bg-surface-cream min-h-screen">
           <section className="bg-white shadow-sm">
@@ -97,7 +99,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData, affiliates
                   Top 10 Restaurants in {city.name.en}
                 </h1>
                 <p className="text-xl text-gray-600 mb-8">
-                  Coming soon! We're working on adding current restaurant recommendations with up-to-date pricing.
+                  Restaurant recommendations for {city.name.en} are being prepared with up-to-date pricing and local picks.
                 </p>
                 <Link href={`/city/${city.slug}/`} className="btn-primary">
                   ← Back to {city.name.en}
@@ -116,6 +118,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData, affiliates
         title={restaurantsData.title}
         description={restaurantsData.meta_description}
       >
+        <meta name="robots" content="noindex, follow" />
         <meta name="keywords" content={`${city.name.en} restaurants, Thailand dining, local food, ${city.name.en} cuisine, restaurant guide`} />
         <script
           type="application/ld+json"

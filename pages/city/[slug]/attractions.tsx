@@ -293,10 +293,10 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                         </svg>
                       </div>
                       <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                        Attractions Coming Soon
+                        Explore {city.name.en} Attractions
                       </h3>
                       <p className="text-gray-600 mb-6">
-                        We're working on adding detailed attraction information for {city.name.en}.
+                        Detailed attraction guides for {city.name.en} are being prepared. In the meantime, check out our city overview for highlights and travel tips.
                       </p>
                     </div>
                   )}

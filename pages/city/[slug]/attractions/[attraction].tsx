@@ -78,6 +78,20 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
   const breadcrumbs = generateAttractionBreadcrumbs(city, attraction);
   const metadata = generateAttractionMetadata(attraction, city);
 
+  // Noindex thin pages with less than 100 words of description content
+  const descriptionText = [
+    attraction.enhanced_description || '',
+    attraction.description?.en || '',
+    attraction.detailed_history || '',
+    attraction.visitor_experience || '',
+    attraction.cultural_significance || '',
+  ].join(' ');
+  const wordCount = descriptionText.split(/\s+/).filter(Boolean).length;
+  const shouldIndex = wordCount >= 100;
+
+  // Hide affiliate widgets on pages with less than 300 words
+  const showAffiliates = wordCount >= 300;
+
   return (
     <>
       <SEOHead
@@ -85,6 +99,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
         description={metadata.description}
         ogImage={toAbsoluteImageUrl(attraction.image)}
       >
+        {!shouldIndex && <meta name="robots" content="noindex, follow" />}
         <meta name="keywords" content={metadata.keywords} />
         <script
           type="application/ld+json"
@@ -381,53 +396,57 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                   </div>
                 )}
 
-                {/* Trip.com Bundle Widget */}
-                <div className="bg-surface-cream rounded-2xl p-8">
-                  <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-4 text-center">
-                    Save on Hotels & Flights
-                  </h3>
-                  <p className="text-gray-700 text-center mb-6">
-                    Bundle your {city.name.en} hotel and flight for the best deals
-                  </p>
-                  <TripcomWidget city={city.name.en} type="bundle" />
-                </div>
-
-                {/* Book This Experience - Affiliate Section */}
-                <div className="bg-surface-cream rounded-2xl p-8">
-                  <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
-                    Book This Experience
-                  </h3>
-                  <p className="text-gray-600 text-center mb-6">
-                    Find tours, tickets, and activities for {attraction.name.en} and other attractions in {city.name.en}.
-                  </p>
-                  <div className="flex flex-col sm:flex-row gap-4">
-                    <a
-                      href="https://klook.tpo.lv/aq6ZFxvc"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex-1 inline-flex items-center justify-center px-6 py-4 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors shadow-md hover:shadow-xl"
-                    >
-                      <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z" />
-                      </svg>
-                      Book on Klook
-                    </a>
-                    <a
-                      href="https://getyourguide.tpo.lv/GuAFfGGK"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex-1 inline-flex items-center justify-center px-6 py-4 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors shadow-md hover:shadow-xl"
-                    >
-                      <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                      </svg>
-                      Book on GetYourGuide
-                    </a>
+                {/* Trip.com Bundle Widget - Only show on pages with sufficient content */}
+                {showAffiliates && (
+                  <div className="bg-surface-cream rounded-2xl p-8">
+                    <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-4 text-center">
+                      Save on Hotels & Flights
+                    </h3>
+                    <p className="text-gray-700 text-center mb-6">
+                      Bundle your {city.name.en} hotel and flight for the best deals
+                    </p>
+                    <TripcomWidget city={city.name.en} type="bundle" />
                   </div>
-                  <p className="text-xs text-gray-500 text-center mt-4">
-                    Affiliate disclosure: We may earn a commission when you book through our partner links, at no extra cost to you.
-                  </p>
-                </div>
+                )}
+
+                {/* Book This Experience - Affiliate Section - Only show on pages with sufficient content */}
+                {showAffiliates && (
+                  <div className="bg-surface-cream rounded-2xl p-8">
+                    <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
+                      Book This Experience
+                    </h3>
+                    <p className="text-gray-600 text-center mb-6">
+                      Find tours, tickets, and activities for {attraction.name.en} and other attractions in {city.name.en}.
+                    </p>
+                    <div className="flex flex-col sm:flex-row gap-4">
+                      <a
+                        href="https://klook.tpo.lv/aq6ZFxvc"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex-1 inline-flex items-center justify-center px-6 py-4 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors shadow-md hover:shadow-xl"
+                      >
+                        <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z" />
+                        </svg>
+                        Book on Klook
+                      </a>
+                      <a
+                        href="https://getyourguide.tpo.lv/GuAFfGGK"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex-1 inline-flex items-center justify-center px-6 py-4 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors shadow-md hover:shadow-xl"
+                      >
+                        <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                        Book on GetYourGuide
+                      </a>
+                    </div>
+                    <p className="text-xs text-gray-500 text-center mt-4">
+                      Affiliate disclosure: We may earn a commission when you book through our partner links, at no extra cost to you.
+                    </p>
+                  </div>
+                )}
 
                 {/* Navigation */}
                 <div className="bg-white rounded-2xl shadow-md p-8">
@@ -513,32 +532,47 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 </div>
 
                 {/* Map */}
-                <div className="bg-white rounded-2xl shadow-md p-6 mb-8">
-                  <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4">Location</h3>
-                  <div className="aspect-w-16 aspect-h-9 bg-gray-200 rounded-lg flex items-center justify-center">
-                    <div className="text-center">
-                      <svg className="w-12 h-12 text-gray-400 mx-auto mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                      </svg>
-                      <p className="text-sm text-gray-600">Interactive map coming soon</p>
-                    </div>
+                {attraction.location?.lat && attraction.location?.lng && (
+                  <div className="bg-white rounded-2xl shadow-md p-6 mb-8">
+                    <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4">Location</h3>
+                    <a
+                      href={attraction.googleMapsUrl || `https://www.google.com/maps/search/?api=1&query=${attraction.location.lat},${attraction.location.lng}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block aspect-w-16 aspect-h-9 bg-gray-200 rounded-lg overflow-hidden hover:opacity-90 transition-opacity"
+                    >
+                      <img
+                        src={`https://maps.googleapis.com/maps/api/staticmap?center=${attraction.location.lat},${attraction.location.lng}&zoom=15&size=400x200&markers=color:red%7C${attraction.location.lat},${attraction.location.lng}&key=`}
+                        alt={`Map of ${attraction.name.en}`}
+                        className="w-full h-full object-cover"
+                        loading="lazy"
+                        onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
+                      />
+                      <div className="flex items-center justify-center text-sm text-thailand-blue font-medium mt-2">
+                        <svg className="w-4 h-4 mr-1" viewBox="0 0 24 24" fill="currentColor">
+                          <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+                        </svg>
+                        View on Google Maps
+                      </div>
+                    </a>
                   </div>
-                </div>
+                )}
 
-                {/* Trip.com Search Widget */}
-                <div className="bg-white rounded-2xl shadow-md p-6 mb-8">
-                  <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4 flex items-center">
-                    <svg className="w-5 h-5 mr-2 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
-                      <path fillRule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clipRule="evenodd" />
-                    </svg>
-                    Plan Your Visit
-                  </h3>
-                  <p className="text-sm text-gray-600 mb-4">
-                    Search for hotels, flights, and activities in {city.name.en}
-                  </p>
-                  <TripcomWidget city={city.name.en} type="searchbox" />
-                </div>
+                {/* Trip.com Search Widget - Only show on pages with sufficient content */}
+                {showAffiliates && (
+                  <div className="bg-white rounded-2xl shadow-md p-6 mb-8">
+                    <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4 flex items-center">
+                      <svg className="w-5 h-5 mr-2 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
+                        <path fillRule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clipRule="evenodd" />
+                      </svg>
+                      Plan Your Visit
+                    </h3>
+                    <p className="text-sm text-gray-600 mb-4">
+                      Search for hotels, flights, and activities in {city.name.en}
+                    </p>
+                    <TripcomWidget city={city.name.en} type="searchbox" />
+                  </div>
+                )}
 
                 {/* Sidebar Ad */}
               </div>

@@ -83,7 +83,9 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
         <SEOHead
           title={`Best Hotels ${city.name.en} 2026 — From Budget to Luxury`}
           description={`The 10 best hotels in ${city.name.en}, Thailand for 2026. Real prices, guest ratings, location tips, and which area to stay in for every budget.`}
-        />
+        >
+          <meta name="robots" content="noindex, follow" />
+        </SEOHead>
 
         <div className="bg-surface-cream min-h-screen">
           <section className="bg-white shadow-sm">
@@ -94,7 +96,7 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
                   Top 10 Hotels in {city.name.en}
                 </h1>
                 <p className="text-xl text-gray-600 mb-8">
-                  Coming soon! We're working on adding current hotel recommendations with up-to-date pricing.
+                  Hotel recommendations for {city.name.en} are being prepared with up-to-date pricing and guest ratings.
                 </p>
                 <Link href={`/city/${city.slug}/`} className="btn-primary">
                   ← Back to {city.name.en}
@@ -113,6 +115,7 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
         title={hotelsData.title}
         description={hotelsData.meta_description}
       >
+        <meta name="robots" content="noindex, follow" />
         <meta name="keywords" content={`${city.name.en} hotels, Thailand accommodation, ${city.name.en} resorts, hotel booking, where to stay`} />
         <script
           type="application/ld+json"

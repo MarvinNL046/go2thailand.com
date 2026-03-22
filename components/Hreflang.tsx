@@ -47,8 +47,14 @@ export default function Hreflang() {
       ? `${SITE_URL}${seoPath}`
       : `${SITE_URL}/${currentLocale}${seoPath}`;
 
+  // Noindex non-English locales — content is not truly translated, just English with localized URLs
+  // Only English and Dutch have real content translations for most pages
+  const LOCALES_WITH_REAL_CONTENT = ['en', 'nl'];
+  const shouldNoindex = currentLocale && !LOCALES_WITH_REAL_CONTENT.includes(currentLocale);
+
   return (
     <Head>
+      {shouldNoindex && <meta name="robots" content="noindex, follow" />}
       {activeLocales.map((locale) => {
         const hreflang = LOCALE_TO_HREFLANG[locale] || locale;
         const href =

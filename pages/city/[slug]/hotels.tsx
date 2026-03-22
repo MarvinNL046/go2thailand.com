@@ -325,10 +325,10 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                     </svg>
                   </div>
                   <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                    Hotel Guide Coming Soon
+                    Where to Stay in {city.name.en}
                   </h3>
                   <p className="text-gray-600 mb-6">
-                    We're working on adding hotel recommendations and accommodation guides for {city.name.en}.
+                    Detailed hotel guides for {city.name.en} are being prepared. Browse our city overview for travel tips and general accommodation advice.
                   </p>
                   <Link href={`/city/${city.slug}/`} className="btn-primary">
                     ← Back to {city.name.en}

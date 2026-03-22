@@ -353,10 +353,10 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                     </svg>
                   </div>
                   <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                    Budget Information Coming Soon
+                    {city.name.en} Budget Guide
                   </h3>
                   <p className="text-gray-600 mb-6">
-                    We're working on adding a detailed budget guide for {city.name.en}. Check back soon for daily cost breakdowns, money-saving tips, and more.
+                    A detailed budget breakdown for {city.name.en} is being prepared. Browse our city overview for general travel costs and tips.
                   </p>
                   <Link href={`/city/${city.slug}/`} className="btn-primary">
                     ← Back to {city.name.en}

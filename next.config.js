@@ -59,6 +59,22 @@ const nextConfig = {
         destination: '/city/phuket/',
         permanent: true,
       },
+      // Consolidate duplicate section URLs to canonical city pages
+      {
+        source: '/destinations/:slug/',
+        destination: '/city/:slug/',
+        permanent: true,
+      },
+      {
+        source: '/things-to-do/:slug/',
+        destination: '/city/:slug/attractions/',
+        permanent: true,
+      },
+      {
+        source: '/best-hotels/:slug/',
+        destination: '/city/:slug/hotels/',
+        permanent: true,
+      },
     ]
   },
   // Optimize for Vercel deployment
