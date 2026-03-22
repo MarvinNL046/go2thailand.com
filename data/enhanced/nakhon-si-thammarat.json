@@ -792,5 +792,60 @@
       "safetyTips": "나콘시탐마랏은 안전한 도시입니다. 카오루앙 국립공원 트레킹 시 가이드와 함께 하는 것을 권장하며, 우기에는 폭포 근처 급류에 주의하세요.",
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
-  }
+  },
+  "extended_description": "## Overview\nNakhon Si Thammarat is one of the oldest continuously inhabited cities in Southeast Asia, with roots stretching back over 1,500 years to the Srivijaya and Dvaravati kingdoms. Located 780 kilometers south of Bangkok on the Gulf of Thailand coast, this provincial capital of roughly 105,000 people remains the cultural heartbeat of southern Thailand — a place where ancient Buddhist traditions, Nora dance performances, and the flickering art of Nang Talung shadow puppetry have survived largely intact while beach-bound tourists whiz past to Koh Samui or Krabi. The city's crowning landmark, Wat Phra Mahathat Woramahawihan, houses a relic said to be of the Buddha himself beneath a towering gilded chedi visible from across the plains. For travelers seeking genuine Thai culture without the tourist gloss, Nakhon Si Thammarat delivers an experience that feels untouched by mass tourism.\n\n## Best Time to Visit\nThe ideal window is January through April, when skies are mostly clear and temperatures hover around 28-34°C. Unlike much of Thailand, Nakhon Si Thammarat's heaviest rains fall between October and December due to the northeast monsoon hitting the Gulf coast — November can see 500mm or more, causing localized flooding. The Hae Pha Khuen That festival in late September or October draws enormous crowds when locals carry a cloth to wrap the great chedi of Wat Phra Mahathat, making it a spectacular but busy time. March through May gets hot (35°C+) but remains dry. The shoulder months of May through September bring occasional afternoon showers but far fewer visitors.\n\n## How to Get There\nNakhon Si Thammarat Airport (NST) receives daily flights from Bangkok's Don Mueang on Nok Air and AirAsia, with fares typically 900-2,500 THB if booked early. The flight takes about 1 hour 15 minutes. A fixed-rate airport taxi to the city center costs 300 THB. Overnight trains from Bangkok's Krung Thep Aphiwat Central Terminal take 12-14 hours, with second-class sleepers costing 500-800 THB and third-class seats from 245 THB — an atmospheric journey through the southern countryside. Air-conditioned buses from Bangkok's Southern Bus Terminal (Sai Tai Mai) run throughout the day and evening for 450-700 THB, taking 10-12 hours. From nearby southern cities, minivans connect to Surat Thani (2.5 hours, 150 THB), Trang (2 hours, 130 THB), and Phuket (5+ hours, 350 THB).\n\n## Where to Stay\nThe city center around Ratchadamnoen Road and the old town offers the most convenient base. Budget guesthouses and fan rooms start from 250-400 THB/night, with simple but clean options near the train station and Bovorn Bazaar area. The Twin Lotus Hotel is the city's best-known mid-range option with air-conditioned rooms from 800-1,500 THB/night and a rooftop pool. For a more local experience, homestays in Kiriwong Village at the foot of Khao Luang mountain offer bamboo bungalows surrounded by orchards for 300-600 THB/night. The area around Sanam Na Mueang park is pleasant for evening walks and close to food stalls.\n\n## What to Do\nWat Phra Mahathat Woramahawihan is the essential first stop — the 77-meter-tall golden chedi dominates the skyline and the surrounding temple complex is one of the most important in Southeast Asia. Entry is free. The adjacent Viharn Kien museum displays Srivijaya-era artifacts including Hindu-Buddhist sculptures from the 8th-13th centuries. The Shadow Puppet Museum (Suchart Subsin House) on Thammasok Soi 3 offers free demonstrations of Nang Talung shadow puppetry by master craftsmen who still carve the buffalo-hide figures by hand — truly one of Thailand's most intimate cultural encounters. Kiriwong Village, 25 kilometers west at the base of Khao Luang mountain (1,835m, southern Thailand's highest peak), is a community tourism model where visitors can trek through old-growth forest, bathe in mountain streams, and sample organic fruit. The Nakhon Si Thammarat National Museum (admission 150 THB) houses outstanding Dvaravati and Srivijaya bronzes.\n\n## Food & Dining\nThe southern Thai cuisine here is legendary and noticeably spicier than central Thai food. Khanom Jeen — fresh rice noodles served with fiery curry sauces (nam ya, gaeng tai pla, or nam prik) — is the signature breakfast dish, found at dozens of stalls near the old city wall for 25-40 THB per plate. Khao Yam, a rice salad mixed with herbs, dried shrimp, toasted coconut, and budu fish sauce dressing, is another southern staple available at morning markets for 30-50 THB. The night market stretching along Chamroenwithi Road serves excellent roti (crispy flatbread with curry, 20-40 THB), grilled seafood, and kluay thot (fried banana fritters, 10-20 THB). For sit-down meals, restaurants along Ratchadamnoen Road offer full southern Thai spreads of gaeng som (sour curry with fish) and pad sator (stir-fried stink beans with shrimp) from 60-120 THB per dish.\n\n## Budget Guide\nNakhon Si Thammarat is remarkably affordable. Backpackers can manage on 500-800 THB/day ($14-22) covering a fan room, street food meals, and local transport. Mid-range travelers spending 1,200-2,000 THB/day ($33-55) get air-conditioned hotels, restaurant meals, and day trips. The main temple attractions are free or very cheap (museum 150 THB). Songthaews around town cost 10-20 THB per ride, and motorbike taxis charge 20-40 THB for short hops. Motorbike rental for exploring Kiriwong Village and surroundings costs 200-300 THB/day.\n\n## Safety & Tips\nNakhon Si Thammarat is a safe and welcoming city where violent crime against tourists is extremely rare. The main concerns are the heavy monsoon rains from October to December — check weather forecasts before venturing to Khao Luang National Park, as trails can become dangerously slippery and streams rise quickly. Dress conservatively when visiting Wat Phra Mahathat (shoulders and knees covered). English signage is limited outside the main temple area, so having a translation app helps. The city rewards slow exploration — spend at least two nights to properly experience the food, temples, and shadow puppet traditions rather than rushing through as a day trip.",
+  "getting_there": {
+    "from_bangkok": {
+      "method": "Flight (Nok Air/AirAsia) or overnight train/bus",
+      "duration": "1h15m flight / 12-14h train / 10-12h bus",
+      "cost": "900-2,500 THB flight / 245-800 THB train / 450-700 THB bus"
+    },
+    "airport": "Nakhon Si Thammarat Airport (NST), 12 km north of city center, taxi 300 THB"
+  },
+  "best_time": {
+    "peak": "Jan-Apr",
+    "shoulder": "May-Sep",
+    "low": "Oct-Dec",
+    "best_months": "Jan-Mar",
+    "why": "Dry season on the Gulf coast. Oct-Dec sees heavy monsoon rains unlike rest of Thailand. Hae Pha Khuen That festival in Sep/Oct is spectacular."
+  },
+  "budget": {
+    "backpacker": "$14-22/day",
+    "mid_range": "$33-55/day",
+    "luxury": "$55+/day",
+    "typical_meal": "25-50 THB street food, 60-120 THB restaurant"
+  },
+  "neighborhoods": [
+    {
+      "name": "Old Town / Ratchadamnoen Road",
+      "vibe": "Historic, temple-filled, walkable center",
+      "best_for": "Sightseeing, food, budget accommodation",
+      "price_range": "$7-14/night"
+    },
+    {
+      "name": "Kiriwong Village",
+      "vibe": "Rural mountain village, community tourism",
+      "best_for": "Nature lovers, trekking, local homestays",
+      "price_range": "$8-17/night"
+    }
+  ],
+  "must_try_food": [
+    "Khanom Jeen - fresh rice noodles with fiery southern curry sauces, the essential breakfast (25-40 THB)",
+    "Khao Yam - herb rice salad with dried shrimp, coconut, and budu dressing, found at morning markets (30-50 THB)",
+    "Gaeng Tai Pla - intense fermented fish intestine curry, the ultimate southern Thai dish for adventurous eaters (50-80 THB)"
+  ],
+  "local_tips": [
+    "Visit Suchart Subsin's Shadow Puppet House for free Nang Talung demonstrations — one of Thailand's most intimate cultural experiences",
+    "October-December brings the heaviest rain on the Gulf coast — plan around this if you want dry weather",
+    "Kiriwong Village makes an excellent overnight stay, not just a day trip — bamboo bungalows with mountain stream swimming",
+    "The night market on Chamroenwithi Road has the best concentration of southern Thai street food in one place",
+    "Combine with Khanom beach (90 min east) for a coast-and-culture itinerary that few tourists know about"
+  ],
+  "day_trips": [
+    "Kiriwong Village (25 km west) - community tourism model at the foot of Khao Luang, trekking and swimming holes",
+    "Khao Luang National Park (30 km west) - southern Thailand's highest peak at 1,835m, waterfalls and old-growth forest",
+    "Khanom (90 km east) - quiet Gulf beach town with pink dolphin sightings and mangrove kayaking",
+    "Sichon (65 km north) - emerging beach destination with boutique resorts and traditional fishing villages"
+  ],
+  "enriched_at": "2026-03-22"
 }

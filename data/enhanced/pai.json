@@ -751,5 +751,66 @@
       "safetyTips": "빠이는 안전한 마을이지만, 오토바이 사고가 빈번합니다. 반드시 헬멧을 착용하고, 운전 경험이 적다면 대여를 피하세요. 762개 커브의 산악 도로는 특히 주의가 필요합니다. 밤에 비포장 도로 운전은 피하세요.",
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
-  }
+  },
+  "extended_description": "## Overview\nPai is a small mountain town of roughly 2,200 permanent residents tucked into a verdant valley in Mae Hong Son Province, about 135 kilometers northwest of Chiang Mai. Reached via a legendary road with 762 curves winding through misty mountain passes, Pai has evolved from a quiet farming village into northern Thailand's most beloved backpacker hub — a place where bamboo bridges cross rice paddies, hot springs steam beside jungle rivers, and the walking street night market transforms the main road into a carnival of food stalls and live music every evening. Despite its popularity, Pai retains a genuinely laid-back bohemian atmosphere that has drawn artists, yogis, digital nomads, and long-term travelers for decades. The surrounding countryside of waterfalls, canyons, hill-tribe villages, and terraced rice fields makes it one of Thailand's most scenically rewarding destinations.\n\n## Best Time to Visit\nNovember through February is peak season with cool temperatures (daytime 25-30°C, nighttime dropping to 10-15°C in December-January — bring warm layers). Skies are clear, rice fields golden, and the valley mist creates magical morning landscapes. This is also the busiest period, so book accommodation ahead on weekends and holidays. March through April brings the burning season when farmers clear fields, creating thick haze that ruins visibility — avoid these months. May through October is green season with lush landscapes and occasional afternoon rain showers, plus significantly fewer tourists and lower prices. The Pai Jazz Festival and Loy Krathong in November add festive energy.\n\n## How to Get There\nThe standard route is a minibus from Chiang Mai's Arcade Bus Station operated by Aya Service or Prempracha Transport, costing 150-200 THB per person and taking 3-3.5 hours over the famous 762 curves. Book in advance during peak season as seats sell out. Motion sickness pills are strongly recommended — the road is genuinely nauseous for many riders. Alternatively, rent a motorbike in Chiang Mai for a thrilling but demanding ride (one-way rentals available from Aya Service for 200-300 THB). There is no train or airport in Pai. From Bangkok, fly to Chiang Mai (1-2 hours, 1,000-3,000 THB) then catch the minibus. Some travelers arrive from Mae Hong Son (2-3 hours by minibus, 150 THB), completing the famous Mae Hong Son Loop.\n\n## Where to Stay\nPai's accommodation ranges from ultra-budget bamboo huts to boutique riverside resorts. The town center along Walking Street has hostels with dorm beds from 150-250 THB/night and private rooms from 300-500 THB. For more atmosphere, head to the guesthouses south of town along the Pai River where bungalows with river views start from 400-800 THB/night. The rice paddy area north of town features Instagram-famous bamboo bungalows and treehouse-style accommodation from 500-1,200 THB/night. Mid-range resorts with pools cluster along the road to Pai Hot Springs, with rooms from 1,000-2,500 THB/night. During cool-season weekends and Thai holidays, prices jump and availability tightens — book 1-2 weeks ahead.\n\n## What to Do\nPai Canyon (Kong Lan) is the most iconic viewpoint — a narrow ridge of eroded sandstone with dizzying drop-offs on both sides and panoramic valley views, especially stunning at sunset. Free entry, 8 km south of town. Pai Hot Springs in Huai Nam Dang National Park (entry 300 THB for foreigners) features natural mineral pools where you can soak among the trees — the lower pools are comfortably warm while the upper streams are genuinely hot. The bamboo bridge (Kho Ku So) stretching across rice paddies is best visited in the green season (July-October) when the fields are vivid emerald. Pai Walking Street transforms the main road nightly from 18:00 into a bustling market with handmade crafts, tie-dye clothes, and dozens of food vendors. Pam Bok Waterfall (free, 8 km south) has a natural swimming hole perfect on hot days. The Chinese village of Santichon offers Yunnan-style tea houses and viewpoints. Land Split (free entry) is a quirky geological fissure with a charming garden cafe where the elderly owner serves free herbal tea.\n\n## Food & Dining\nPai's food scene punches well above its size. The Walking Street night market is the main event, with vendors selling everything from pad thai (40-60 THB) and khao soi (northern curry noodles, 50-80 THB) to rotis with Nutella (30-40 THB) and fresh mango sticky rice (60-80 THB). For sit-down meals, the backpacker restaurants along Chaisongkhram Road serve Thai and Western dishes from 60-150 THB. Na's Kitchen and Charlie & Lek are long-standing favorites for authentic northern Thai food. The organic and vegetarian scene is strong — Pai has multiple health-food cafes serving smoothie bowls, vegan curries, and cold-pressed juices (80-150 THB). For coffee, Pai's dozens of quirky hillside cafes with mountain views charge 50-100 THB for espresso drinks. Morning markets near the bus station sell fresh khao soi and jok (rice porridge) from 30-40 THB.\n\n## Budget Guide\nPai is very backpacker-friendly. Shoestring travelers manage on 500-800 THB/day ($14-22) with a dorm bed, street food, and free attractions like Pai Canyon and Land Split. Comfortable budget travelers spending 1,000-1,600 THB/day ($28-45) get a private bungalow, restaurant meals, and motorbike rental. Mid-range visitors budget 2,000-3,500 THB/day ($55-97) for boutique resorts and activities. Motorbike rental costs 150-250 THB/day and is essential for reaching attractions outside town. Many natural sights (Pai Canyon, Pam Bok Waterfall, bamboo bridge, Land Split) are free.\n\n## Safety & Tips\nMotorbike accidents are by far the biggest risk in Pai — the combination of inexperienced riders, mountain roads, and loose gravel sends multiple tourists to the small local hospital daily. Always wear a helmet, check brakes before riding, and avoid night driving on unlit rural roads. The 762-curve road to Chiang Mai is not suitable for first-time riders. Take motion sickness medication before the minibus ride if you are prone to car sickness. December and January nights are genuinely cold (below 10°C) — most budget bungalows have thin walls and no heating, so bring warm clothing. The town has limited ATMs and some smaller establishments are cash-only. Pai is extremely safe in terms of crime — the biggest \"danger\" is staying longer than planned, as many travelers intended for a two-night visit and ended up spending weeks.",
+  "getting_there": {
+    "from_bangkok": {
+      "method": "Fly to Chiang Mai, then minibus (3-3.5h, 762 curves)",
+      "duration": "1-2h flight + 3-3.5h minibus",
+      "cost": "1,000-3,000 THB flight + 150-200 THB minibus"
+    },
+    "airport": "N/A — nearest airport is Chiang Mai (135 km, 3-3.5h by minibus)"
+  },
+  "best_time": {
+    "peak": "Nov-Feb",
+    "shoulder": "May-Oct",
+    "low": "Mar-Apr",
+    "best_months": "Nov-Jan",
+    "why": "Cool mountain weather with morning mist. March-April brings severe haze from burning season. December-January nights can drop below 10°C."
+  },
+  "budget": {
+    "backpacker": "$14-22/day",
+    "mid_range": "$28-45/day",
+    "luxury": "$55-97/day",
+    "typical_meal": "40-80 THB street food, 60-150 THB restaurant"
+  },
+  "neighborhoods": [
+    {
+      "name": "Town Center / Walking Street",
+      "vibe": "Lively, backpacker, night market hub",
+      "best_for": "Nightlife, food, budget hostels, socializing",
+      "price_range": "$4-14/night"
+    },
+    {
+      "name": "Pai River / South of Town",
+      "vibe": "Peaceful, riverside bungalows, nature",
+      "best_for": "Couples, relaxation, river views",
+      "price_range": "$11-22/night"
+    },
+    {
+      "name": "Rice Paddy Area / North",
+      "vibe": "Scenic, Instagram-worthy, rural charm",
+      "best_for": "Photography, boutique stays, sunrise views",
+      "price_range": "$14-33/night"
+    }
+  ],
+  "must_try_food": [
+    "Khao soi - northern Thai coconut curry noodles, the regional signature dish (50-80 THB)",
+    "Walking Street night market roti - crispy flatbread with banana and Nutella, the classic Pai street snack (30-40 THB)",
+    "Mango sticky rice - fresh mango with coconut cream and sticky rice, best from market vendors (60-80 THB)"
+  ],
+  "local_tips": [
+    "Rent a motorbike (150-250 THB/day) — it's essential for reaching Pai Canyon, hot springs, and waterfalls outside town",
+    "Take motion sickness pills before the 762-curve minibus ride from Chiang Mai — many people get sick without them",
+    "Visit Pai Canyon at sunset for the best light and avoid the midday heat on the exposed ridgeline",
+    "Bring warm clothes for December-January — nights drop below 10°C and budget bungalows have no heating",
+    "Land Split is a quirky free attraction where the elderly owner serves complimentary herbal tea in a garden cafe"
+  ],
+  "day_trips": [
+    "Tham Lod Cave (45 km north) - massive cave system with prehistoric coffins, explored by bamboo raft with a local guide (450 THB)",
+    "Mae Hong Son (3h west) - sleepy mountain town with Burmese-style temples reflected in Jong Kham Lake",
+    "Mor Paeng Waterfall (9 km south) - tiered waterfall with natural rock slides, free entry",
+    "Ban Santichon Chinese Village (5 km west) - Yunnan settlement with tea houses, clay shooting, and mountain viewpoints"
+  ],
+  "enriched_at": "2026-03-22"
 }
