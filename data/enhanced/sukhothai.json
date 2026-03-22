@@ -965,5 +965,64 @@
       "safetyTips": "수코타이는 매우 안전한 도시입니다. 역사공원 자전거 투어 시 자외선 차단과 충분한 수분 섭취에 주의하세요. 우기(6-10월)에는 일부 유적 주변이 침수될 수 있습니다.",
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
-  }
+  },
+  "extended_description": "## Overview\nSukhothai — meaning \"Dawn of Happiness\" — was the cradle of Thai civilization, serving as the kingdom's first capital from 1238 to 1438. Today its ruins are preserved in the magnificent Sukhothai Historical Park, a UNESCO World Heritage Site spread across 70 square kilometers with the remains of more than 190 temples, stupas, and royal structures. The atmosphere is unlike anything else in Thailand: instead of crowded tourist attractions, you find serene lotus ponds reflecting ancient Buddha statues, crumbling laterite walls overgrown with tropical trees, and remarkably few visitors compared to Ayutthaya or Angkor Wat. The park is divided into five zones, with the central zone containing the most impressive temples clustered around the royal palace grounds. Modern Sukhothai (New Sukhothai) sits 12 kilometers east as a small, pleasant Thai town with good food, friendly guesthouses, and a genuine local character that feels untouched by mass tourism.\n\n## Best Time to Visit\nNovember through February is the ideal season, with cool temperatures (20-30 degrees Celsius), clear skies, and comfortable cycling conditions. The Loy Krathong festival in November is spectacularly celebrated at Sukhothai Historical Park with a sound-and-light show and floating lanterns among the ruins — it is arguably the most beautiful Loy Krathong celebration in all of Thailand. March through May is scorching hot (up to 40 degrees), making temple cycling exhausting — start before 7am if you visit then. The rainy season (June to October) brings afternoon showers that can temporarily flood some pathways in the park, but mornings are often clear and the ruins look dramatic in moody light.\n\n## How to Get There\nThere is no railway to Sukhothai. Direct buses from Bangkok's Mo Chit terminal take 7-8 hours (350-500 THB for standard, up to 550 THB for VIP). Alternatively, fly to Sukhothai Airport with Bangkok Airways (1 hour 20 minutes, the only airline on this route, typically 2,500-5,000 THB — expensive but scenic). A more budget-friendly flight option is to fly to Phitsanulok (1 hour, 1,000-2,500 THB on multiple airlines) and then take a bus or minivan to Sukhothai (1 hour, 60-80 THB). From Chiang Mai, buses take 5-6 hours (250-350 THB). Local songthaews between New Sukhothai and Old Sukhothai (the historical park area) run from 6:30am to 5pm and cost 30 THB per person. Tuk-tuks from the bus station charge a posted 60 THB to New Sukhothai guesthouses or 150 THB to Old Sukhothai.\n\n## Where to Stay\nMost travelers stay in either New Sukhothai or Old Sukhothai. New Sukhothai has the widest range of budget accommodation — guesthouses and hostels from 250-500 THB, mid-range hotels from 600-1,500 THB — plus the town's restaurants and night market. Old Sukhothai (near the historical park) is more atmospheric for early-morning temple visits, with charming guesthouses and small resorts from 400-2,500 THB set among rice paddies. The area around the park entrance has several bike-friendly guesthouses that include bicycle rental. For a splurge, Sukhothai Heritage Resort and Legendha Sukhothai Resort both offer pool villas near the park from 3,000-6,000 THB.\n\n## What to Do\nRent a bicycle (30-50 THB per day from shops near the park entrance) and explore at your own pace — cycling is the definitive Sukhothai experience. The central zone (100 THB entry for foreigners) contains the most important ruins: Wat Mahathat, the spiritual heart of old Sukhothai with its iconic lotus-bud stupas and seated Buddhas; Wat Sri Sawai with its three Khmer-style prangs; and the royal palace foundations. The northern zone (100 THB separately) holds Wat Si Chum, home to a massive seated Buddha framed by narrow slit walls — one of the most photographed images in Thai travel. The western zone is the most atmospheric and least visited, with hilltop temples and forested paths. Budget an entire day to cover all three main zones (330 THB total for all zone entries plus bicycle). In the evening, explore the Ramkhamhaeng National Museum (150 THB) for context on Sukhothai-era art and the invention of the Thai script.\n\n## Food & Dining\nSukhothai noodles (kuay tiao Sukhothai) are the local specialty and arguably the best noodle soup in Thailand — a slightly sweet broth with sliced pork, green beans, ground peanuts, and dried chili, served at shops throughout both old and new towns (40-60 THB per bowl). New Sukhothai's night market along the river operates nightly with grilled meats, som tam, pad Thai, and seasonal fruits (30-60 THB per dish). Old Sukhothai has a smaller selection of restaurants near the park entrance, but the family-run shops serve excellent home-style Thai food. For coffee and breakfast, several small cafes near the park offer espresso drinks and Thai-style breakfasts. Do not miss the local dessert sangkhaya fak thong (pumpkin custard) sold at the market.\n\n## Budget Guide\nSukhothai is one of Thailand's most affordable destinations. Backpackers can easily manage on 600-1,000 THB per day (17-28 USD): guesthouse (250-400 THB), noodle meals and market food (100-200 THB), bicycle rental (30-50 THB), and park entry (100-330 THB depending on zones). Mid-range travelers spend 1,500-3,000 THB per day (42-83 USD): comfortable hotel, restaurant dining, guided cycling tour (1,500-2,000 THB for a full day with English-speaking guide). Everything is walkable or bikeable, so transport costs are nearly zero once you are at the park.\n\n## Safety & Tips\nSukhothai is extremely safe — it is a quiet, rural Thai town with very low crime. The biggest risks are sunburn and dehydration while cycling the ruins: bring sunscreen, a hat, and at least 1.5 liters of water per person. Start cycling before 8am to enjoy the ruins in cooler morning light and avoid the worst midday heat. Stray dogs roam the park but are generally harmless — do not feed them. During Loy Krathong (usually November), book accommodation months ahead as the town fills completely. The historical park is well-maintained and bike paths are flat and easy — suitable for all ages and fitness levels. Mosquito repellent is useful for late-afternoon visits near the lotus ponds.",
+  "getting_there": {
+    "from_bangkok": {
+      "flight": "1h 20min to Sukhothai Airport (Bangkok Airways only, 2,500-5,000 THB) or 1h to Phitsanulok (multiple airlines, 1,000-2,500 THB) + 1h bus",
+      "bus": "7-8 hours from Mo Chit, 350-550 THB"
+    },
+    "from_chiang_mai": {
+      "bus": "5-6 hours, 250-350 THB"
+    },
+    "local": "Songthaew New-Old Sukhothai 30 THB, bicycle rental 30-50 THB/day at park entrance",
+    "airport": "Sukhothai Airport (THS) — Bangkok Airways only; or Phitsanulok Airport (PHS)"
+  },
+  "best_time": {
+    "peak": "Nov-Feb (cool season, Loy Krathong in Nov)",
+    "shoulder": "Mar, Oct",
+    "low": "Apr-Sep (extreme heat Apr-May, rain Jun-Sep)",
+    "avoid": "April-May midday cycling (temperatures reach 40°C)",
+    "best_months": "Nov-Jan",
+    "why": "Cool weather for cycling, Loy Krathong festival, clear skies for photography."
+  },
+  "budget": {
+    "backpacker": "$17-28/day",
+    "mid_range": "$42-83/day",
+    "luxury": "$100+/day",
+    "typical_meal": "40-60 THB noodles, 100-200 THB restaurant"
+  },
+  "neighborhoods": [
+    {
+      "name": "Old Sukhothai (Historical Park area)",
+      "vibe": "Atmospheric guesthouses among rice paddies, steps from ruins, quiet evenings",
+      "best_for": "History buffs, photographers, early-morning temple explorers",
+      "price_range": "400-6,000 THB/night"
+    },
+    {
+      "name": "New Sukhothai",
+      "vibe": "Working Thai town, night market, bus station, wider food and accommodation choice",
+      "best_for": "Budget travelers, foodies, those wanting evening entertainment",
+      "price_range": "250-1,500 THB/night"
+    }
+  ],
+  "must_try_food": [
+    "Kuay tiao Sukhothai (Sukhothai noodles) — sweet-savory broth with sliced pork, green beans, ground peanuts, and dried chili (40-60 THB)",
+    "Sangkhaya fak thong (pumpkin custard) — creamy coconut custard steamed inside a pumpkin, sold at the night market (30-50 THB)",
+    "Grilled pork skewers (moo ping) at the New Sukhothai night market — smoky, sweet, and served with sticky rice (10-20 THB each)"
+  ],
+  "local_tips": [
+    "Rent a bicycle (30-50 THB) and start at the central zone before 8am — you will have the ruins almost to yourself in golden morning light",
+    "Do not skip the northern zone for Wat Si Chum — the giant seated Buddha framed by narrow walls is one of Thailand's most iconic images",
+    "The Loy Krathong festival (November) at Sukhothai Historical Park is the most spectacular in Thailand — book accommodation months ahead",
+    "Buy a combined ticket if visiting multiple zones (330 THB for central + north + west) rather than paying separately",
+    "Songthaews between New and Old Sukhothai stop at 5pm — after that you need a tuk-tuk (150 THB) or your own transport"
+  ],
+  "day_trips": [
+    "Si Satchanalai Historical Park (55 km north) — less visited sister site with atmospheric hilltop ruins and Celadon pottery village (100 THB entry)",
+    "Ramkhamhaeng National Museum — context on Sukhothai-era art, the Thai script, and Khmer influences (150 THB)",
+    "Phitsanulok (60 km east) — Wat Phra Si Rattana Mahathat with Thailand's most beautiful Buddha image (Phra Buddha Chinnarat)",
+    "Cycling the countryside — rice paddies, local villages, and small temples beyond the main park zones (free, bring water)"
+  ],
+  "enriched_at": "2026-03-22"
 }

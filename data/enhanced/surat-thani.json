@@ -978,5 +978,73 @@
       "safetyTips": "수랏타니는 안전한 도시입니다. 페리 탑승 시 공인된 업체를 이용하고, 카오속 국립공원 트레킹 시 가이드와 함께 하세요. 야간 페리 이용 시 소지품을 관리하세요.",
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
-  }
+  },
+  "extended_description": "## Overview\nSurat Thani is southern Thailand's largest province and the essential transit hub for anyone heading to the Gulf Islands — Koh Samui, Koh Phangan, and Koh Tao. Most travelers pass through quickly, but those who linger discover a surprisingly rewarding destination in its own right. The provincial capital sits along the Tapi River with a bustling night market, authentic southern Thai food stalls, and a genuine local atmosphere untouched by tourism. More importantly, Surat Thani province contains Khao Sok National Park, one of Southeast Asia's most spectacular wilderness areas, with ancient rainforest, dramatic limestone karsts, and the otherworldly Cheow Lan Lake. The name \"Surat Thani\" means \"City of Good People,\" and the warm welcome from locals who rarely interact with foreign tourists reinforces that reputation.\n\n## Best Time to Visit\nThe Gulf of Thailand coast has a different weather pattern than the Andaman side. The driest months are January through April, with February and March being the calmest for ferry crossings. The monsoon season hits hardest from October through December, when rough seas can delay or cancel ferries to the islands — November is the wettest month. However, Khao Sok National Park is best visited from December through April when trails are dry and the lake is at its most scenic. June through October brings heavy rain to Khao Sok, and some trails close. The Full Moon Party on Koh Phangan happens monthly and creates a surge in ferry demand — book transport a few days ahead if your travel coincides.\n\n## How to Get There\nSurat Thani Airport (URT) receives flights from Bangkok (1 hour 10 minutes, 1,000-3,000 THB on AirAsia, Thai Lion Air, Nok Air from Don Mueang). From the airport, shared minivans to the ferry piers cost 150-200 THB. Overnight trains from Bangkok's Hua Lamphong station take 8-12 hours (sleeper berths 500-1,200 THB, seat class 250-500 THB) and arrive at Surat Thani railway station, from where shuttle buses connect to the piers. Overnight buses from Bangkok's Southern Terminal take 10-11 hours (400-700 THB). Many travelers buy combined bus-ferry or train-ferry tickets from travel agents on Khao San Road or online (600-1,200 THB all-in to Koh Samui or Koh Phangan). Ferries depart from Donsak Pier (1 hour east of Surat Thani city) to Koh Samui (1.5-3 hours, 200-600 THB depending on boat type) and Koh Phangan (2.5-4 hours, 300-700 THB).\n\n## Where to Stay\nMost travelers only spend one night in Surat Thani city before catching an early ferry. Budget guesthouses near the train station and night market start at 300-600 THB. The Tapi River area has a few mid-range hotels from 800-1,800 THB with river views. For Khao Sok National Park (about 1.5 hours west of Surat Thani city), accommodation ranges from basic bamboo bungalows at 300-500 THB to floating raft houses on Cheow Lan Lake from 1,500-5,000 THB per night (including boat transfer and meals). The lakeside floating bungalows are a once-in-a-lifetime experience — waking up surrounded by limestone cliffs and jungle is unforgettable.\n\n## What to Do\nKhao Sok National Park is the undisputed highlight of Surat Thani province. The 739-square-kilometer park protects rainforest older than the Amazon, with towering limestone karsts, gibbons, hornbills, and the world's largest flower (Rafflesia kerrii, blooming December-February). A day trip to Cheow Lan Lake includes a longtail boat ride through flooded forest, swimming, and kayaking between limestone towers (day trips 1,500-2,500 THB; overnight on floating bungalows 2,500-5,000 THB). Jungle trekking with guides costs 800-1,500 THB per day. In Surat Thani city itself, the Tapi River night market is worth an evening for excellent southern Thai food and local atmosphere. Monkey Training College in Kanchanadit district is a unique Surat Thani attraction where pig-tailed macaques are trained to harvest coconuts — an ancient local tradition (free or donation-based). For spiritual sites, Wat Suan Mokkh is a renowned forest meditation temple offering 10-day silent retreats.\n\n## Food & Dining\nSurat Thani is a gateway to southern Thai cuisine at its most authentic — fiery, pungent, and intensely flavored. The Tapi River night market (daily from 5pm) is the place to eat: khao mok gai (chicken biryani, a Muslim-Thai specialty, 40-60 THB), gaeng tai pla (fermented fish-organ curry with vegetables, 50-80 THB), and roti canai with curry dipping sauce (20-30 THB). Surat Thani is also famous for its oyster farms — fresh oysters are sold at the pier areas for 100-200 THB per plate. Pad tai Surat (the local pad Thai variation with a punchier flavor) is a must-try at the market. Khao Sok village has a handful of restaurants serving Thai food at tourist-friendly prices (80-200 THB) along the main road.\n\n## Budget Guide\nSurat Thani itself is remarkably cheap. Budget travelers passing through spend 500-900 THB per night including accommodation and food. For Khao Sok, budget 1,500-3,000 THB per day (42-83 USD) including guesthouse, park entry (300 THB for foreigners), and one activity. The biggest expense for most travelers is the combined transport to the islands: bus-ferry packages from Bangkok run 600-1,200 THB, while flight-ferry combos are 2,000-4,000 THB. Ferries from Donsak Pier start at 200 THB for the slow car ferry to Koh Samui. Budget travelers heading to Koh Tao (the furthest island) should take the night boat from Surat Thani city pier (350-500 THB, departing around 11pm, arriving 6am).\n\n## Safety & Tips\nSurat Thani is a safe transit city. Be cautious with combined travel packages booked through Khao San Road agencies — while most are legitimate, some use substandard buses. Book through reputable companies like Lomprayah, Seatran, or Raja Ferry for the island crossings. Ferry cancellations during monsoon season (October-December) can strand travelers — have flexible dates and consider flying to Koh Samui directly during peak monsoon. In Khao Sok, always trek with a guide and watch for leeches during the rainy season. The night boat to Koh Tao is basic — bring a sleeping bag or travel sheet and secure your belongings. If arriving by overnight train, the station is 14 kilometers from town — shuttle buses and shared taxis wait for every train arrival.",
+  "getting_there": {
+    "from_bangkok": {
+      "flight": "1h 10min, 1,000-3,000 THB (AirAsia, Thai Lion Air, Nok Air from Don Mueang)",
+      "train": "8-12 hours overnight, 250-1,200 THB (sleeper berths available)",
+      "bus": "10-11 hours overnight, 400-700 THB from Southern Terminal"
+    },
+    "to_islands": {
+      "koh_samui": "Ferry from Donsak Pier, 1.5-3 hours, 200-600 THB",
+      "koh_phangan": "Ferry from Donsak Pier, 2.5-4 hours, 300-700 THB",
+      "koh_tao": "Night boat from Surat Thani pier 350-500 THB (11pm-6am) or high-speed catamaran via Donsak"
+    },
+    "local": "Shared minivans to Donsak Pier 150-200 THB, songthaews in town 20-30 THB",
+    "airport": "Surat Thani Airport (URT)"
+  },
+  "best_time": {
+    "peak": "Jan-Apr (driest, calmest seas)",
+    "shoulder": "May, Dec",
+    "low": "Oct-Nov (heaviest rain, rough ferry crossings)",
+    "avoid": "November for island ferries (peak monsoon, cancellations common)",
+    "best_months": "Feb-Mar",
+    "why": "Driest weather, calm seas for ferry crossings, Khao Sok trails open and scenic."
+  },
+  "budget": {
+    "backpacker": "$14-25/day (city transit only)",
+    "mid_range": "$42-83/day (with Khao Sok)",
+    "luxury": "$120+/day (floating bungalow experience)",
+    "typical_meal": "40-60 THB street food, 80-200 THB restaurant"
+  },
+  "neighborhoods": [
+    {
+      "name": "Surat Thani City Center",
+      "vibe": "Transit hub, Tapi River night market, authentic southern atmosphere",
+      "best_for": "Budget travelers in transit, foodies seeking real Thai flavors",
+      "price_range": "300-1,800 THB/night"
+    },
+    {
+      "name": "Khao Sok National Park",
+      "vibe": "Ancient rainforest, limestone karsts, Cheow Lan Lake, floating bungalows",
+      "best_for": "Nature lovers, adventure travelers, photographers",
+      "price_range": "300-5,000 THB/night"
+    },
+    {
+      "name": "Donsak Pier area",
+      "vibe": "Ferry departure zone, basic accommodation, functional transit stop",
+      "best_for": "Travelers catching early ferries",
+      "price_range": "400-1,200 THB/night"
+    }
+  ],
+  "must_try_food": [
+    "Khao mok gai (chicken biryani) — fragrant Muslim-Thai rice dish at the Tapi River night market (40-60 THB)",
+    "Fresh oysters from Surat Thani's oyster farms — served raw or grilled at the pier-area stalls (100-200 THB per plate)",
+    "Gaeng tai pla (fermented fish-organ curry) — intense southern Thai flavor, an acquired taste but unforgettable (50-80 THB)"
+  ],
+  "local_tips": [
+    "Buy combined bus-ferry or train-ferry tickets through Lomprayah or Seatran rather than Khao San Road agencies for more reliable service",
+    "The night boat to Koh Tao (350-500 THB, departing 11pm) saves a night of accommodation but is very basic — bring a sleeping sheet",
+    "Khao Sok floating bungalows on Cheow Lan Lake are worth the splurge — book at least a week ahead in peak season",
+    "The Tapi River night market is the best food in town — arrive by 5pm for the widest selection",
+    "If ferries are cancelled due to weather, Nok Air and Bangkok Airways fly direct to Koh Samui as a backup (expensive but reliable)"
+  ],
+  "day_trips": [
+    "Khao Sok National Park & Cheow Lan Lake (day trip or overnight) — longtail boat through limestone karsts, kayaking, jungle swimming (1,500-5,000 THB)",
+    "Ang Thong National Marine Park (from Koh Samui) — 42 islands with emerald lagoons and viewpoint hikes, accessible by speedboat (1,800-2,500 THB)",
+    "Monkey Training College (Kanchanadit) — watch pig-tailed macaques trained in the ancient art of coconut harvesting (free/donation)",
+    "Wat Suan Mokkh (Chaiya) — famous forest meditation temple offering 10-day silent retreats, peaceful day visit for non-retreaters (free)"
+  ],
+  "enriched_at": "2026-03-22"
 }

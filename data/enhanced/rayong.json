@@ -828,5 +828,76 @@
       "safetyTips": "라용은 안전한 여행지입니다. 꼬사멧에서 해수욕 시 해류에 주의하고, 보트 탑승 시 구명조끼를 확인하세요. 우기(6-10월)에는 바다 상태를 확인하세요.",
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
-  }
+  },
+  "extended_description": "## Overview\nRayong province stretches along Thailand's eastern seaboard, roughly 180 kilometers from Bangkok, offering a refreshing coastal escape that most international visitors overlook entirely. While nearby Pattaya draws millions, Rayong keeps a lower profile with its long sandy beaches, thriving fruit orchards, fresh seafood markets, and the popular island of Koh Samet just offshore. The provincial capital is a small, working Thai city with genuine local character — fishing boats bob in the harbor, durian vendors line the roadsides during fruit season, and weekend markets buzz with Bangkok families rather than tour groups. Rayong is also home to some of Thailand's best tropical fruit, earning it the unofficial title of the country's fruit capital. From April through July, orchards open their gates for all-you-can-eat fruit buffets featuring durian, mangosteen, rambutan, and longan straight from the tree.\n\n## Best Time to Visit\nNovember through February is the sweet spot — cool and dry with pleasant sea breezes and comfortable temperatures around 25-32 degrees Celsius. This is also the best period for Koh Samet's beaches, with calm, clear water perfect for snorkeling. The fruit season runs April through July, with peak harvest in May and June — visit then if tropical fruit is your priority. The monsoon season (June to October) brings afternoon showers but rarely all-day rain; Koh Samet stays accessible year-round thanks to its sheltered position in the Gulf of Thailand. Weekends year-round see an influx of Bangkok visitors, so aim for weekday visits if you want quieter beaches.\n\n## How to Get There\nFrom Bangkok, minivans and buses depart frequently from the Eastern Bus Terminal (Ekkamai) to Rayong city (2.5-3 hours, 200-300 THB) or directly to Ban Phe pier for Koh Samet (3-3.5 hours, 200-300 THB). Private taxis take about 2 hours via Motorway 7 and cost 2,000-2,500 THB. U-Tapao Rayong-Pattaya International Airport is within the province (about 45 minutes from Rayong town) with flights from a few domestic and international routes. From Ban Phe, ferries to Koh Samet run every hour from 8am to 5pm (40-60 minutes, 100-200 THB one way) or speedboats cut the crossing to 15-20 minutes (300-500 THB per person).\n\n## Where to Stay\nRayong town itself has budget guesthouses and business hotels from 400-1,000 THB per night — functional but not tourist-focused. Mae Ramphueng Beach, a 12-kilometer stretch of sand east of town, has mid-range resorts and beachfront bungalows from 800-3,000 THB. On Koh Samet, Sai Kaew Beach (Diamond Beach) is the most developed strip with hostels from 400 THB and resorts up to 5,000 THB. Ao Wong Duean is family-friendly with mid-range options, while Ao Sang Thian and Ao Wai are quieter southern beaches with rustic bungalows from 500-2,000 THB. Ao Phrao on the west coast has upscale resorts (3,000-8,000 THB) and is the only beach facing sunset.\n\n## What to Do\nKoh Samet is the headline attraction — a small island (just 7 kilometers long) with 16 distinct beaches, each with its own character. Sai Kaew is the longest and liveliest with water sports and fire shows at night. Ao Phrao is serene and sunset-facing. Snorkeling is decent off the southern beaches (gear rental 100-200 THB). On the mainland, visit Suphattra Land or one of the many fruit orchards during harvest season (April-July) for a trolley tour through the plantations and an all-you-can-eat fruit buffet (300-500 THB for foreigners). Rayong Aquarium is a solid family stop with marine life displays (free entry). Mae Ramphueng Beach is a locals' favorite for seafood dinners at sunset — far less touristy than anything on Koh Samet.\n\n## Food & Dining\nSeafood is king in Rayong. Along Mae Ramphueng Beach and in the town center, seafood restaurants serve grilled prawns, steamed fish, crab fried rice, and som tam with fresh crab at very reasonable prices (100-300 THB per dish). Rayong is famous for nam pla (fish sauce) and shrimp paste production — you can visit local factories near the coast. The night market in town center operates daily with grilled squid, pad Thai, fried chicken, and tropical fruit shakes (30-60 THB per item). On Koh Samet, beachfront restaurants are pricier (150-400 THB per dish) but the seafood barbecues on Sai Kaew Beach at night are memorable. For the freshest catch, head to Ban Phe fishing village where you can buy straight from the boats.\n\n## Budget Guide\nRayong and Koh Samet are quite affordable, especially compared to southern island destinations. Backpackers can manage on 800-1,200 THB per day (22-33 USD): hostel or basic bungalow on Koh Samet (400-600 THB), street food and market meals (150-250 THB), ferry and local transport (100-200 THB). Mid-range travelers spend 1,800-3,500 THB per day (50-97 USD): beachfront room, restaurant seafood dinners, fruit orchard visit. Note that Koh Samet charges a 200 THB national park entrance fee for foreign visitors. Scooter rental on the island costs 200-300 THB per day. Songthaews on the island run from the pier to the main beaches for 20-50 THB.\n\n## Safety & Tips\nRayong and Koh Samet are safe destinations. On Koh Samet, the roads are narrow and hilly — scooter accidents happen regularly, so ride carefully and wear a helmet. Jellyfish can appear in the Gulf of Thailand during June to September; ask locals about conditions before swimming. Fire shows on Sai Kaew Beach are entertaining but keep a safe distance. During fruit season, durian is banned from most hotels and ferries due to its powerful smell — eat it at the orchards instead. Ban Phe pier can get chaotic on weekends; buy ferry tickets from the official counters, not from touts. If visiting on a weekend, book Koh Samet accommodation in advance as Bangkok visitors fill up the popular beaches.",
+  "getting_there": {
+    "from_bangkok": {
+      "bus": "2.5-3 hours, 200-300 THB from Eastern Bus Terminal (Ekkamai)",
+      "taxi": "2 hours via Motorway 7, 2,000-2,500 THB"
+    },
+    "to_koh_samet": {
+      "ferry": "40-60 min from Ban Phe pier, 100-200 THB; speedboat 15-20 min, 300-500 THB"
+    },
+    "local": "Songthaews on Koh Samet 20-50 THB, scooter rental 200-300 THB/day",
+    "airport": "U-Tapao Rayong-Pattaya International Airport (UTP), 45 min from town"
+  },
+  "best_time": {
+    "peak": "Nov-Feb",
+    "shoulder": "Mar-Apr, Oct",
+    "low": "May-Sep (occasional rain, still accessible)",
+    "avoid": "Weekends year-round if you want quiet beaches (Bangkok crowds)",
+    "best_months": "Nov-Feb",
+    "why": "Cool dry weather, calm seas, best snorkeling visibility off Koh Samet."
+  },
+  "budget": {
+    "backpacker": "$22-33/day",
+    "mid_range": "$50-97/day",
+    "luxury": "$120+/day",
+    "typical_meal": "30-60 THB street food, 100-300 THB seafood restaurant"
+  },
+  "neighborhoods": [
+    {
+      "name": "Sai Kaew Beach (Koh Samet)",
+      "vibe": "Longest beach, fire shows at night, most developed, water sports",
+      "best_for": "First-timers, party travelers, groups",
+      "price_range": "400-5,000 THB/night"
+    },
+    {
+      "name": "Ao Phrao (Koh Samet)",
+      "vibe": "West-coast sunset beach, upscale resorts, quiet and exclusive",
+      "best_for": "Couples, luxury travelers",
+      "price_range": "3,000-8,000 THB/night"
+    },
+    {
+      "name": "Mae Ramphueng Beach",
+      "vibe": "12 km mainland beach, local seafood restaurants, Thai weekend crowd",
+      "best_for": "Budget travelers, families, those avoiding island prices",
+      "price_range": "800-3,000 THB/night"
+    },
+    {
+      "name": "Ban Phe",
+      "vibe": "Fishing village, ferry departure point, fresh seafood market",
+      "best_for": "Foodies, overnight before early ferry",
+      "price_range": "400-1,200 THB/night"
+    }
+  ],
+  "must_try_food": [
+    "Grilled prawns and squid at Mae Ramphueng Beach seafood restaurants — fresh from the Gulf, served with spicy nam jim sauce (100-250 THB)",
+    "All-you-can-eat tropical fruit buffet at Suphattra Land (Apr-Jul) — durian, mangosteen, rambutan, longan straight from the tree (300-500 THB)",
+    "Som tam with fresh blue crab (som tam poo ma) — Rayong's coastal twist on the classic papaya salad (50-80 THB)"
+  ],
+  "local_tips": [
+    "Visit Koh Samet on weekdays to avoid the Bangkok weekend crowds — prices are lower and beaches are calmer",
+    "Buy ferry tickets at the official Ban Phe pier counters, not from touts on the street who charge inflated prices",
+    "Fruit orchards only open April to July — Suphattra Land is the most organized but smaller family orchards offer a more authentic experience",
+    "The national park fee on Koh Samet (200 THB for foreigners) is valid for re-entry within 2 weeks — keep your receipt",
+    "For the best sunset on Koh Samet, head to Ao Phrao on the west coast — it is the only beach facing west"
+  ],
+  "day_trips": [
+    "Koh Samet island hopping (full day) — visit multiple beaches by songthaew or rent a scooter to explore all 16 beaches (200-300 THB)",
+    "Suphattra Land fruit orchard (Apr-Jul) — trolley tour and all-you-can-eat tropical fruit buffet (300-500 THB)",
+    "Ban Phe fishing village — fresh seafood market, local temples, and departure point for Koh Samet",
+    "Khao Chamao-Khao Wong National Park (30 km north) — waterfalls, jungle trails, and swimming holes (200 THB entry)"
+  ],
+  "enriched_at": "2026-03-22"
 }
