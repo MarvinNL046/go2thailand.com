@@ -6,12 +6,17 @@
     "nl": "Khao Mok Gai",
     "thai": "ข้าวหมกไก่"
   },
+  "thai_name": "ข้าวหมกไก่ (Khao Mok Gai)",
+  "origin_region": "southern",
   "category": "main-dish",
   "region": "southern",
   "spice_level": "mild",
   "description": {
     "en": "Thai-style biryani with chicken and fragrant yellow rice",
     "nl": "Thaise biryani met kip en geurige gele rijst"
+  },
+  "extended_description": {
+    "en": "## What Is Khao Mok Gai?\n\nKhao mok gai (ข้าวหมกไก่) is Thailand's own version of biryani, a fragrant one-pot dish of tender chicken buried in golden yellow rice spiced with turmeric, cardamom, cinnamon, and cloves. The name tells the story: khao means rice, mok means to bury or cover, and gai means chicken, referring to how the chicken is buried beneath the rice as it cooks. Each plate comes topped with a generous handful of crispy fried shallots and is served with a tangy dipping sauce called ajad, made from cucumber, shallots, vinegar, and chilies. A small cup of clear soup often accompanies the dish.\n\n## History & Origins\n\nKhao mok gai arrived in Thailand through Persian and Indian Muslim traders who settled along the southern coast, particularly in Phuket, Krabi, and the deep south provinces bordering Malaysia. These merchants brought their biryani traditions, which gradually merged with Thai aromatics and cooking techniques. The Thai-Muslim communities in the south adapted the recipe by using local spices, coconut milk, and Thai jasmine rice instead of basmati. To this day, most khao mok gai shops in Thailand are run by Muslim families, and the dish is halal by tradition. From its southern stronghold, it spread to Bangkok and beyond, becoming a popular lunch option across the country.\n\n## How It's Made\n\nChicken pieces are marinated for at least two hours in a mixture of yogurt or coconut milk, turmeric, cumin, coriander, cardamom, cinnamon, and garlic. Jasmine rice is rinsed and briefly fried with turmeric and butter or ghee until the grains turn golden. The marinated chicken is placed in a heavy pot, covered with the par-fried rice, and the whole thing is cooked together over low heat so the steam infuses every grain with the chicken's juices. Some cooks add bay leaves, star anise, and raisins for extra complexity. The crucial final touch is a thick layer of crispy fried shallots scattered on top, adding sweetness and crunch.\n\n## Where to Eat It\n\nIn Bangkok, head to the Muslim restaurants along Charoen Krung Road near Haroon Mosque in the Bang Rak district, one of the city's oldest Thai-Muslim communities. Karim Roti Mataba on Phra Athit Road near Khao San also serves a well-regarded version. In the south, Phuket Town has excellent khao mok gai at Muslim restaurants around Thalang Road. Hat Yai, with its large Muslim population, is another hotspot. Krabi Town's night market vendors serve outstanding plates. The deep south provinces of Pattani, Yala, and Narathiwat are considered the heartland.\n\n## How to Order\n\nAsk for khao mok gai at any Muslim restaurant or stall. Some shops offer a choice between chicken leg (\"nong gai\") and breast (\"ok gai\"), with the leg being juicier and more popular. The ajad dipping sauce and soup come automatically. If you want extra rice, ask for \"khao pee-set.\" At some stalls you can also find khao mok neua (beef) or khao mok peh (duck) as alternatives.\n\n## Price Guide\n\nKhao mok gai is a solid budget meal. Street stalls and Muslim shops charge 40-60 THB per plate with a chicken leg piece. In Bangkok, prices range from 50-80 THB at local restaurants. Food courts in malls charge 60-90 THB. Southern Thailand tends to be slightly cheaper at 35-55 THB. The dish offers excellent value given the generous portion of protein and rice."
   },
   "ingredients": [
     "chicken",
@@ -28,6 +33,29 @@
   "preparation_time": "60 minutes",
   "difficulty": "medium",
   "price_range": "budget",
+  "best_places": [
+    "Muslim restaurants near Haroon Mosque, Bang Rak, Bangkok",
+    "Karim Roti Mataba, Phra Athit Road, Bangkok",
+    "Muslim restaurants on Thalang Road, Phuket Town",
+    "Hat Yai night market stalls"
+  ],
+  "variations": [
+    "Khao Mok Gai (chicken, most common)",
+    "Khao Mok Neua (beef version)",
+    "Khao Mok Peh (duck version)",
+    "Khao Mok Gae (lamb version, rare)"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'khao mok gai' at Muslim restaurants. Choose 'nong gai' (leg) for juicier meat or 'ok gai' (breast) for leaner. The ajad sauce and soup come automatically. Say 'khao pee-set' for extra rice.",
+    "nl": "Vraag om 'khao mok gai' bij moslimrestaurants. Kies 'nong gai' (poot) voor sappiger vlees of 'ok gai' (borst) voor magerder. De ajad saus en soep worden automatisch geserveerd."
+  },
+  "pairs_well_with": [
+    "Ajad cucumber dipping sauce",
+    "Clear chicken soup",
+    "Roti canai",
+    "Thai iced tea"
+  ],
+  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Khao Mok Gai Recipe | Authentic Thai main dish",
@@ -60,5 +88,6 @@
     "allergens": [],
     "dietary": [],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }

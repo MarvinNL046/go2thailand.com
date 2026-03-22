@@ -6,12 +6,17 @@
     "nl": "Kanom Jeen Nam Ya",
     "thai": "ขนมจีนน้ำยา"
   },
+  "thai_name": "ขนมจีนน้ำยา (Khanom Jeen Nam Ya)",
+  "origin_region": "southern",
   "category": "main-dish",
   "region": "southern",
   "spice_level": "medium",
   "description": {
     "en": "Fermented rice noodles with fish curry sauce",
     "nl": "Gefermenteerde rijstnoedels met viscurrysaus"
+  },
+  "extended_description": {
+    "en": "## What Is Kanom Jeen Nam Ya?\n\nKanom jeen nam ya (ขนมจีนน้ำยา) is one of Thailand's oldest and most beloved noodle dishes. Soft, slightly tangy fermented rice noodles are topped with a thick, aromatic fish curry sauce made from pounded herbs and coconut milk. The name breaks down into two parts: kanom jeen refers to the fermented rice noodles themselves, while nam ya describes the rich curry sauce poured on top. Unlike stir-fried noodle dishes, this is a composed plate where the noodles sit in neat coils and the warm curry is ladled generously over them, accompanied by a spread of fresh vegetables and herbs on the side.\n\n## History & Origins\n\nKanom jeen nam ya is deeply rooted in Thai culinary tradition, with the fermented rice noodle-making technique dating back centuries across Southeast Asia. The fermentation process was originally developed as a way to preserve rice and create noodles with a distinctive slightly sour flavor. While the dish is found across all of Thailand, the nam ya curry sauce is believed to have originated in the southern provinces, where abundant fresh fish and bold spice pastes define the local cooking style. Over time, regional variations emerged: southern versions tend to be spicier and more pungent, while central Thai preparations are milder and creamier with more coconut milk.\n\n## How It's Made\n\nThe curry sauce is the soul of this dish. Fresh fish, typically mackerel or catfish, is steamed or boiled until tender, then flaked and pounded in a mortar with a fragrant paste of lemongrass, galangal, kaffir lime rind, shrimp paste, dried chilies, and garlic. This paste is simmered with coconut milk until it thickens into a rich, creamy curry with a deep orange-red color. The fermented rice noodles are made separately through a labor-intensive process: rice is soaked, fermented for several days, ground into a paste, and then extruded through a press to form long, spaghetti-like strands that are blanched in boiling water. The noodles are arranged in neat, swirled portions on the plate.\n\n## Where to Eat It\n\nIn Bangkok, look for kanom jeen stalls at Aw Taw Kaw Market (Or Tor Kor) near Chatuchak, where southern-style vendors serve outstanding versions. Kanom Jeen Baan Suan in the Thonburi area is a well-known specialist. In the south, Nakhon Si Thammarat province is considered the heartland of nam ya curry, and morning markets there serve it fresh daily. Phuket Town and Krabi also have excellent local shops serving the dish for breakfast.\n\n## How to Order\n\nAsk for kanom jeen nam ya and point to the curry you want, as many stalls offer multiple sauces. Specify if you want extra coconut milk by saying \"nam ya kathi\" for a richer version. The dish comes with a tray of fresh vegetables: shredded cabbage, bean sprouts, long beans, pickled mustard greens, and fresh herbs like Thai basil. Add these freely to each bite for crunch and freshness. In southern Thailand, it is traditional to eat this dish for breakfast or lunch rather than dinner.\n\n## Price Guide\n\nKanom jeen nam ya is a true budget meal across Thailand. Street stalls and morning markets charge 30-50 THB per plate. Sit-down restaurants in Bangkok typically charge 50-80 THB. In southern provinces like Nakhon Si Thammarat and Songkhla, prices stay as low as 25-40 THB. Upscale Thai restaurants in tourist areas may charge 120-180 THB for a more refined presentation."
   },
   "ingredients": [
     "fermented rice noodles",
@@ -29,6 +34,29 @@
   "preparation_time": "45 minutes",
   "difficulty": "hard",
   "price_range": "budget",
+  "best_places": [
+    "Aw Taw Kaw Market (Or Tor Kor), Chatuchak, Bangkok",
+    "Kanom Jeen Baan Suan, Thonburi, Bangkok",
+    "Morning markets in Nakhon Si Thammarat",
+    "Phuket Town local shops"
+  ],
+  "variations": [
+    "Nam Ya Tai (southern style, spicier with more shrimp paste)",
+    "Nam Ya Pak Klang (central Thai style, milder and creamier)",
+    "Kanom Jeen Nam Ya Kathi (extra coconut milk version)",
+    "Kanom Jeen Nam Prik (with chili relish instead of curry)"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'kanom jeen nam ya' and choose from available curries. Say 'phet nit noi' for mild or 'phet mak' for spicy. Load up on the free side vegetables for the best experience. Best eaten for breakfast or lunch.",
+    "nl": "Vraag om 'kanom jeen nam ya' en kies uit de beschikbare curry's. Zeg 'phet nit noi' voor mild of 'phet mak' voor pittig. Neem ruim van de gratis groenten erbij voor de beste ervaring."
+  },
+  "pairs_well_with": [
+    "Fresh Thai basil and bean sprouts",
+    "Pickled mustard greens",
+    "Thai iced coffee",
+    "Shredded cabbage and long beans"
+  ],
+  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Kanom Jeen Nam Ya Recipe | Authentic Thai main dish",
@@ -63,5 +91,6 @@
     ],
     "dietary": [],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }

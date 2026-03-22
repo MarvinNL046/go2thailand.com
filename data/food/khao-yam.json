@@ -6,12 +6,17 @@
     "nl": "Khao Yam",
     "thai": "ข้าวยำ"
   },
+  "thai_name": "ข้าวยำ (Khao Yam)",
+  "origin_region": "southern",
   "category": "salad",
   "region": "southern",
   "spice_level": "mild",
   "description": {
     "en": "Southern Thai rice salad with herbs and coconut",
     "nl": "Zuidelijke Thaise rijstsalade met kruiden en kokos"
+  },
+  "extended_description": {
+    "en": "## What Is Khao Yam?\n\nKhao yam (ข้าวยำ) is a vibrant southern Thai rice salad where cooked rice is tossed with a colorful assortment of finely shredded herbs, toasted coconut, dried shrimp, bean sprouts, and a sweet-salty-funky dressing made from budu, a fermented fish sauce unique to southern Thailand. The dish is a feast for the eyes: ingredients are traditionally arranged in separate piles around a mound of rice on the plate, sometimes tinted blue with butterfly pea flower extract, creating a rainbow effect. Each diner mixes everything together with the dressing before eating. It is light, refreshing, and packed with herbal complexity, making it the perfect antidote to the heavy curries the south is also known for.\n\n## History & Origins\n\nKhao yam is a deeply traditional dish from the Malay-influenced provinces of southern Thailand, particularly Nakhon Si Thammarat, Songkhla, Pattani, and Trang. The dish shares roots with Malay and Indonesian rice salad traditions but has evolved into a distinctly Thai-southern creation through the use of budu sauce and local herbs. Historically, it was a way to use leftover rice and whatever herbs and vegetables were available in the garden. Buddhist monks in the south traditionally eat khao yam as their midday meal, and the dish appears frequently at temple fairs and community gatherings. Its popularity has grown nationally in recent years as Thai diners seek out regional specialties.\n\n## How It's Made\n\nCooked jasmine rice, sometimes colored blue with butterfly pea flower water, forms the base. Around the rice, a cook arranges finely shredded kaffir lime leaves, thinly sliced lemongrass, toasted grated coconut, dried shrimp powder, bean sprouts, pomelo segments, sliced green mango, and finely diced long beans. The critical element is the budu dressing: budu (fermented fish sauce from anchovies), palm sugar, sliced shallots, lemongrass, galangal, kaffir lime leaves, and sometimes shrimp paste are simmered together until the sugar dissolves and the mixture thickens slightly. The dressing is strained, cooled, and drizzled over the assembled salad. Everything gets mixed together by hand just before eating.\n\n## Where to Eat It\n\nKhao yam is most easily found in southern Thailand. Nakhon Si Thammarat's morning and evening markets are prime hunting grounds, where vendors serve it fresh daily. Songkhla's old town restaurants feature it prominently. In Hat Yai, look for it at local Thai-Muslim eateries. In Bangkok, southern Thai specialty restaurants like Khua Kling Pak Sod (multiple branches) and Baan Ice serve excellent versions. Phuket Town's weekend market and Trang's night market also offer this dish regularly.\n\n## How to Order\n\nAsk for khao yam at any southern Thai restaurant or market stall. The dish typically comes pre-assembled with the dressing on the side. Mix everything together before eating. If you prefer less fishy flavor, ask for \"nam budu nit noi\" (a little budu dressing). Some restaurants offer a vegetarian version without the dried shrimp, though the budu dressing itself contains fish. In Bangkok, you may need to specifically request it at southern Thai restaurants as it is not always on the regular menu.\n\n## Price Guide\n\nKhao yam is a budget dish despite its elaborate appearance. Market stalls in southern Thailand charge 30-50 THB per plate. Sit-down restaurants in the south charge 40-70 THB. In Bangkok, southern Thai restaurants charge 60-100 THB. The dish occasionally appears at upscale Thai restaurants for 120-180 THB as a refined appetizer course."
   },
   "ingredients": [
     "rice",
@@ -29,6 +34,29 @@
   "preparation_time": "30 minutes",
   "difficulty": "medium",
   "price_range": "budget",
+  "best_places": [
+    "Morning markets in Nakhon Si Thammarat",
+    "Khua Kling Pak Sod, Bangkok (multiple branches)",
+    "Songkhla old town restaurants",
+    "Trang night market"
+  ],
+  "variations": [
+    "Khao Yam Pak Tai (classic southern version with budu)",
+    "Khao Yam Dok Anchan (with blue butterfly pea flower rice)",
+    "Khao Yam Jay (vegetarian, without dried shrimp)",
+    "Khao Yam with fresh pomelo and green mango"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'khao yam' at southern Thai restaurants. Mix all ingredients together with the budu dressing before eating. Say 'nam budu nit noi' for less dressing. Best eaten at lunch when the herbs are freshest.",
+    "nl": "Vraag om 'khao yam' bij Zuid-Thaise restaurants. Meng alle ingredienten met de budu-dressing voor het eten. Zeg 'nam budu nit noi' voor minder dressing. Het beste bij de lunch wanneer de kruiden het verst zijn."
+  },
+  "pairs_well_with": [
+    "Budu fermented fish dressing",
+    "Southern Thai curry",
+    "Fresh pomelo segments",
+    "Thai iced coffee"
+  ],
+  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Khao Yam Recipe | Authentic Thai salad",
@@ -63,5 +91,6 @@
     ],
     "dietary": [],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }

@@ -6,12 +6,17 @@
     "nl": "Khao Soi",
     "thai": "ข้าวซอย"
   },
+  "thai_name": "ข้าวซอย (Khao Soi)",
+  "origin_region": "northern",
   "category": "soup",
   "region": "northern",
   "spice_level": "medium",
   "description": {
     "en": "Creamy coconut curry noodle soup with crispy noodles on top",
     "nl": "Romige kokoscurry-noedelsoep met krokante noedels bovenop"
+  },
+  "extended_description": {
+    "en": "## What Is Khao Soi?\n\nKhao soi (ข้าวซอย) is northern Thailand's most iconic dish: a bowl of egg noodles swimming in a rich, creamy coconut curry broth, crowned with a tangle of crispy deep-fried noodles on top. The contrast between the soft boiled noodles below and the shattering crunch of the fried noodles above is what makes every bowl unforgettable. A chicken drumstick or piece of beef is the standard protein, braised until fall-apart tender in the curry. The bowl arrives with a small plate of accompaniments: pickled mustard greens, sliced shallots, a wedge of lime, and sometimes a spoonful of chili oil. Squeeze, sprinkle, and stir to customize each bite.\n\n## History & Origins\n\nDespite being called \"Chiang Mai noodles\" in the West, khao soi did not originate in Chiang Mai. The dish was brought to northern Thailand by Hui Chinese-Muslim traders from the Yunnan province of China who migrated south through Myanmar. In 1877, King Rama V granted the Hui refugees official permission to settle in Chiang Mai and Lampang provinces. They brought a soup noodle dish that originally had no coconut milk at all. The coconut milk was added only after World War II, when the recipe was adapted to suit Thai tastes. The name khao soi comes from the Thai word \"soi,\" meaning to slice or julienne, referring to the original method of cutting flat noodle sheets into strips. Over time, the dish became inseparable from Chiang Mai's identity.\n\n## How It's Made\n\nThe curry base starts with a paste of dried red chilies, shallots, garlic, ginger, turmeric, coriander, and shrimp paste, which is fried until fragrant. Coconut milk is added in two stages: the first portion is cracked over high heat until the oil separates and the curry paste fries in the coconut fat, building deep flavor. The second portion of coconut milk, along with chicken stock, is added to create the broth. Chicken legs or beef chunks are braised directly in this curry until tender. Fresh egg noodles are boiled separately and placed in the bowl, topped with the curry and meat. A handful of the same egg noodles is deep-fried until golden and crispy, then perched on top. The condiment plate is assembled alongside.\n\n## Where to Eat It\n\nIn Chiang Mai, Khao Soi Khun Yai on Charoenprathet Road is widely considered one of the best, with lines out the door at lunchtime. Khao Soi Lam Duan Fah Ham on Charoen Rat Road has served a beloved version for decades. Khao Soi Mae Sai near Chang Phuak Gate is another local favorite. Outside Chiang Mai, the dish is found throughout Chiang Rai, Lampang, Lamphun, and Mae Hong Son. In Bangkok, Khao Soi Mae Manee in the Ari neighborhood serves an authentic northern version, and Ongtong Khao Soi on Ekkamai Soi 12 is a modern specialist.\n\n## How to Order\n\nAsk for khao soi gai (chicken) or khao soi neua (beef). Some shops also offer khao soi moo (pork) or khao soi jay (vegetarian with tofu). Squeeze the lime over the broth, add pickled mustard greens a little at a time, and sprinkle raw shallots on top. If available, add a spoonful of roasted chili oil for extra kick. Crush the crispy noodles into the soup as you eat so they absorb the curry. Most shops serve one size only.\n\n## Price Guide\n\nKhao soi is a budget-friendly meal throughout northern Thailand. Local shops in Chiang Mai charge 40-60 THB per bowl. The famous tourist-popular spots like Khun Yai charge 50-70 THB. In Bangkok, northern Thai restaurants charge 70-120 THB. Upscale restaurants and hotel versions may run 150-250 THB. The price almost always includes the full condiment plate on the side."
   },
   "ingredients": [
     "egg noodles",
@@ -28,6 +33,29 @@
   "preparation_time": "35 minutes",
   "difficulty": "medium",
   "price_range": "budget",
+  "best_places": [
+    "Khao Soi Khun Yai, Charoenprathet Road, Chiang Mai",
+    "Khao Soi Lam Duan Fah Ham, Charoen Rat Road, Chiang Mai",
+    "Khao Soi Mae Sai, near Chang Phuak Gate, Chiang Mai",
+    "Ongtong Khao Soi, Ekkamai Soi 12, Bangkok"
+  ],
+  "variations": [
+    "Khao Soi Gai (chicken, most popular)",
+    "Khao Soi Neua (beef version)",
+    "Khao Soi Moo (pork version)",
+    "Khao Soi Jay (vegetarian with tofu)"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'khao soi gai' (chicken) or 'khao soi neua' (beef). Squeeze lime into the broth, add pickled mustard greens, and sprinkle shallots. Crush the crispy noodles into the soup as you eat. Add chili oil for extra heat.",
+    "nl": "Vraag om 'khao soi gai' (kip) of 'khao soi neua' (rundvlees). Knijp limoen in de bouillon, voeg ingelegde mosterdgroenten toe en strooi sjalotten erover. Verkruimel de krokante noedels in de soep terwijl je eet."
+  },
+  "pairs_well_with": [
+    "Pickled mustard greens",
+    "Raw shallot slices",
+    "Roasted chili oil",
+    "Fresh lime wedge"
+  ],
+  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
       "en": "Khao Soi Recipe | Authentic Thai soup",
@@ -60,5 +88,6 @@
     "allergens": [],
     "dietary": [],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }

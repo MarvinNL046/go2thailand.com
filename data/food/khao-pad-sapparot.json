@@ -6,12 +6,17 @@
     "nl": "Khao Pad Sapparot",
     "thai": "ข้าวผัดสับปะรด"
   },
+  "thai_name": "ข้าวผัดสับปะรด (Khao Pad Sapparot)",
+  "origin_region": "central",
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Pineapple fried rice served in pineapple shell",
     "nl": "Ananas gebakken rijst geserveerd in ananasschil"
+  },
+  "extended_description": {
+    "en": "## What Is Khao Pad Sapparot?\n\nKhao pad sapparot (ข้าวผัดสับปะรด) is Thailand's show-stopping pineapple fried rice, a sweet-savory stir-fry of jasmine rice, fresh pineapple chunks, shrimp, cashew nuts, raisins, and egg, often served inside a hollowed-out pineapple shell for dramatic presentation. The name is straightforward Thai: khao means rice, pad means stir-fried, and sapparot means pineapple. What sets it apart from regular fried rice is the interplay between the natural sweetness of pineapple and the salty depth of fish sauce and soy sauce, with curry powder adding a gentle warmth that ties everything together. It is one of the most photogenic dishes in all of Thai cuisine.\n\n## History & Origins\n\nPineapple fried rice emerged from the creative street food culture of central Thailand, particularly Bangkok, where vendors and home cooks experimented with combining tropical fruits and fried rice. Thailand is one of the world's largest pineapple producers, and the fruit has been woven into Thai cooking for generations. The dish gained widespread popularity in the 1970s and 1980s as tourism grew and restaurants sought visually impressive dishes to appeal to international visitors. The idea of serving fried rice inside the pineapple shell became a signature presentation in Thai restaurants worldwide. While it started as a tourist-friendly dish, Thai people themselves love it, and it is now a standard offering at restaurants and food courts across the country.\n\n## How It's Made\n\nDay-old jasmine rice is essential for the best texture, as freshly cooked rice turns mushy in the wok. The rice hits a smoking-hot wok with oil, followed by beaten egg that scrambles into golden bits. Shrimp are tossed in and cooked until pink, then fresh pineapple chunks, cashew nuts, and raisins are added. The seasoning comes from a mix of fish sauce, light soy sauce, a pinch of sugar, and a dusting of curry powder that gives the rice its faint yellow tint. Everything is stir-fried at high heat for just a minute or two so the pineapple stays juicy rather than mushy. The finished rice is scooped into a halved pineapple shell and garnished with a sprinkle of sliced spring onions and cilantro.\n\n## Where to Eat It\n\nKhao pad sapparot is available at virtually every Thai restaurant with a fried rice section, but some places excel. In Bangkok, Thip Samai on Mahachai Road (famous for pad thai) also serves an excellent version. Coastal destinations like Phuket, Krabi, Koh Samui, and Pattaya serve particularly good versions using ultra-fresh local pineapples. Night markets across Thailand commonly offer it. For the best presentation in the carved pineapple shell, look for sit-down restaurants rather than street carts.\n\n## How to Order\n\nAsk for khao pad sapparot. Most restaurants serve it with shrimp by default, but you can request khao pad sapparot gai (chicken) or moo (pork) instead. Vegetarian versions are widely available upon request. If you want it served in the pineapple shell, specify \"sai nai sapparot\" (in the pineapple). Some restaurants charge a small premium for the pineapple shell presentation. Ask for \"mai phet\" if you want it completely mild.\n\n## Price Guide\n\nKhao pad sapparot is mid-range by Thai standards due to the shrimp and cashew nuts. Street stalls serve it on a plate for 50-80 THB. Sit-down restaurants with the pineapple shell presentation charge 80-150 THB. Beachside restaurants in tourist areas like Phuket and Koh Samui may charge 120-200 THB. Food court versions run 60-90 THB. It remains excellent value for the generous portion and premium ingredients."
   },
   "ingredients": [
     "rice",
@@ -29,6 +34,29 @@
   "preparation_time": "20 minutes",
   "difficulty": "medium",
   "price_range": "mid-range",
+  "best_places": [
+    "Thip Samai, Mahachai Road, Bangkok",
+    "Beachside restaurants in Phuket and Koh Samui",
+    "Night markets across Thailand",
+    "Krabi Town seafood restaurants"
+  ],
+  "variations": [
+    "Khao Pad Sapparot Goong (with shrimp, most common)",
+    "Khao Pad Sapparot Gai (chicken version)",
+    "Khao Pad Sapparot Talay (mixed seafood)",
+    "Khao Pad Sapparot Jay (vegetarian version)"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'khao pad sapparot' with your protein choice: goong (shrimp), gai (chicken), or moo (pork). Say 'sai nai sapparot' for pineapple shell presentation. Say 'mai phet' for no spice or 'jay' for vegetarian.",
+    "nl": "Vraag om 'khao pad sapparot' met je eiwitkeuze: goong (garnalen), gai (kip), of moo (varkensvlees). Zeg 'sai nai sapparot' voor presentatie in de ananasschil. Zeg 'mai phet' voor niet pittig."
+  },
+  "pairs_well_with": [
+    "Thai iced tea",
+    "Tom yum soup",
+    "Fresh lime wedge",
+    "Cucumber slices"
+  ],
+  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
       "en": "Khao Pad Sapparot Recipe | Authentic Thai main dish",
@@ -63,5 +91,6 @@
     ],
     "dietary": [],
     "price_range": "mid-range"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }

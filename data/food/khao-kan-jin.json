@@ -6,12 +6,17 @@
     "nl": "Khao Kan Jin",
     "thai": "ข้าวกั้นจิ๊น"
   },
+  "thai_name": "ข้าวกั๊นจิ๊น (Khao Kan Jin)",
+  "origin_region": "northern",
   "category": "main-dish",
   "region": "northern",
   "spice_level": "mild",
   "description": {
     "en": "Steamed rice with pork blood in banana leaf",
     "nl": "Gestoomde rijst met varkensbloed in bananenblad"
+  },
+  "extended_description": {
+    "en": "## What Is Khao Kan Jin?\n\nKhao kan jin (ข้าวกั๊นจิ๊น) is a traditional northern Thai dish of steamed rice mixed with minced pork and pork blood, wrapped tightly in banana leaves and steamed until firm. The result is a compact, savory rice parcel with a deep reddish-brown color and a rich, meaty flavor. In the Shan language, \"kan\" means to mix or knead and \"jin\" means meat, so the name literally translates to rice kneaded with meat. Each parcel is unwrapped to reveal a dense, slightly sticky block of seasoned rice that is sliced or eaten by hand with accompaniments.\n\n## History & Origins\n\nKhao kan jin originated with the Tai Yai (Shan) ethnic group before spreading throughout the Lanna Kingdom of northern Thailand. The dish reflects the Shan culinary tradition of preserving and flavoring food using animal blood, a practice common among mountain communities across mainland Southeast Asia. As the Shan people migrated through what is now northern Thailand, Myanmar, and Laos, they brought this recipe with them. Today it remains most popular in Chiang Mai, Chiang Rai, Lamphun, and Mae Hong Son provinces, where it is a staple at morning markets and a common breakfast food. The dish is rarely found outside the north and remains one of Thailand's most hyper-regional specialties.\n\n## How It's Made\n\nCooked sticky rice or regular rice is mixed thoroughly with fresh pork blood, minced pork, finely sliced garlic, chopped shallots, salt, sugar, and a small amount of vegetable oil. The blood acts as a binder and gives the rice its distinctive dark color and iron-rich flavor. The seasoned mixture is portioned onto squares of banana leaf, shaped into compact rectangular parcels, and secured with thin bamboo sticks or toothpicks. The wrapped parcels are steamed for about thirty minutes, during which the banana leaf infuses a subtle herbal aroma into the rice. The steaming also firms up the blood, setting the parcel into a sliceable block.\n\n## Where to Eat It\n\nThe best place to find khao kan jin is at morning markets throughout Chiang Mai. Warorot Market (Kad Luang) in the old city has several vendors selling freshly steamed parcels from early morning. The Saturday and Sunday walking street markets along Wualai Road and Ratchadamnoen Road also feature vendors. In Chiang Rai, the central morning market near the clock tower is another reliable spot. Mae Hong Son and Pai also have market stalls selling this dish. Outside of northern Thailand, khao kan jin is extremely difficult to find.\n\n## How to Order\n\nSimply point at the banana leaf parcels at any northern market stall. They are usually sold individually for a few baht each. Most people buy two to four parcels for a single meal. The standard accompaniments are fried garlic chips, fried dried bird's eye chilies, sliced cucumber, and sometimes pickled ginger. Some vendors offer a small bag of crispy pork crackling on the side. Eat the rice directly from the unwrapped banana leaf with your hands or a fork.\n\n## Price Guide\n\nKhao kan jin is one of the cheapest foods you can find in northern Thailand. Individual parcels cost just 5-10 THB each at morning markets. A satisfying breakfast of three or four parcels with accompaniments runs 20-40 THB. Even at tourist-oriented markets in Chiang Mai, prices rarely exceed 15 THB per parcel. This is genuine local food at local prices."
   },
   "ingredients": [
     "rice",
@@ -27,6 +32,29 @@
   "preparation_time": "60 minutes",
   "difficulty": "hard",
   "price_range": "budget",
+  "best_places": [
+    "Warorot Market (Kad Luang), Chiang Mai",
+    "Sunday Walking Street, Ratchadamnoen Road, Chiang Mai",
+    "Central morning market, Chiang Rai",
+    "Morning markets in Mae Hong Son and Pai"
+  ],
+  "variations": [
+    "Khao Kan Jin Moo (standard pork version)",
+    "Khao Kan Jin with extra crispy pork crackling",
+    "Khao Kan Jin Sai Ua (served alongside northern sausage)",
+    "Khao Kan Jin with pickled ginger side"
+  ],
+  "ordering_tips": {
+    "en": "Point at the banana leaf parcels at market stalls. Buy 2-4 per person. Ask for 'prik khua' (fried chilies) and 'kratiam jiaw' (fried garlic) on the side. Best eaten for breakfast at a morning market.",
+    "nl": "Wijs naar de bananenbladpakketjes bij de marktkraam. Koop 2-4 per persoon. Vraag om 'prik khua' (gebakken pepers) en 'kratiam jiaw' (gebakken knoflook) erbij. Het beste als ontbijt op een ochtendmarkt."
+  },
+  "pairs_well_with": [
+    "Fried garlic chips",
+    "Fried dried bird's eye chilies",
+    "Fresh cucumber slices",
+    "Northern Thai sausage (sai ua)"
+  ],
+  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Khao Kan Jin Recipe | Authentic Thai main dish",
@@ -59,5 +87,6 @@
     "allergens": [],
     "dietary": [],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }
