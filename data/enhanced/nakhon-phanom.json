@@ -538,5 +538,61 @@
       "safetyTips": "나콘파놈은 매우 안전한 도시로, 관광객에 대한 범죄가 거의 없습니다. 라오스 국경을 건널 때 여권과 비자를 확인하세요.",
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
-  }
+  },
+  "extended_description": "## Overview\nNakhon Phanom is one of Thailand's most beautiful and least visited Mekong River cities, sitting on the western bank directly across from the dramatic limestone karst mountains of Tha Khek in Laos. What makes this city genuinely unique is its deep Vietnamese cultural heritage — Ho Chi Minh himself lived here in exile during the 1920s, hiding from French colonial authorities while organizing Vietnamese independence movements. His reconstructed wooden house is now a museum surrounded by fruit trees he planted by hand. The skyline is punctuated by distinctive Lao-style golden pointed stupas found nowhere else in Thailand, while the Mekong promenade comes alive every evening with local families, food vendors, and weekend walking street markets. For travelers seeking authentic Mekong experiences without tourist crowds, Nakhon Phanom delivers something rare in modern Thailand.\n\n## Best Time to Visit\nNovember through February is ideal — cool temperatures (15-28°C) and clear skies make for perfect riverside walks and sunset cruises. December can be surprisingly cold this far northeast, dropping to 10-12°C at night — pack warm layers for evenings along the Mekong. The Illuminated Boat Procession (Lai Reua Fai) during Ok Phansa in October is Nakhon Phanom's signature festival, with elaborately decorated boats of fire floating down the Mekong in a spectacular celebration. The That Phanom Festival in January or February draws pilgrims to the sacred stupa from across Isaan. March through May is scorching (35-42°C). The rainy season (June-October) brings a swollen, dramatic Mekong and occasional afternoon downpours.\n\n## How to Get There\nThe easiest route is a direct flight from Bangkok to Nakhon Phanom Airport (1 hour, 1,500-3,000 THB on Nok Air or AirAsia). From the airport (18 km west of town), airport minibuses shuttle to hotels for 100 THB or taxis cost 200-250 THB. Overnight buses from Bangkok's Mo Chit Terminal take 11-14 hours (430-855 THB depending on class). From Khon Kaen, buses run several times daily (5 hours, 234 THB). From Udon Thani, buses depart every 30 minutes (4 hours, 210 THB). Nakhon Phanom connects easily with the Mekong trail — Mukdahan is 190 km south and Bueng Kan is 2 hours west.\n\n## Where to Stay\nThe Mekong riverfront is the place to be. Riverside guesthouses and hotels with direct river views offer exceptional value — wake up to the sight of Laotian mountains reflected in the Mekong. The River Hotel (1,400-2,050 THB/night) earns consistently top ratings for its river views and central location. Fortune View Khong Hotel (1,830-8,030 THB) offers more upscale Mekong-facing rooms. Budget travelers find clean rooms at Hop Inn (684-972 THB) and Siam Grand Hotel (540-972 THB). Vela Dhi is the premium option for those seeking luxury. The town center is compact and walkable — staying near the promenade puts you within easy reach of restaurants, the night market, and the sunset cruise departure point. Book ahead during festival season and cool-season weekends.\n\n## What to Do\nStart at the Ho Chi Minh House Museum (200 THB foreigners, 30 THB Thai nationals) — walk through the reconstructed wooden house where the Vietnamese leader lived in exile, surrounded by pomelo, guava, and jackfruit trees he planted himself. Stroll the Mekong Promenade past the golden Naga statue landmark with views of Tha Khek's limestone mountains across the river. The weekend Walking Street (Friday-Sunday) stretches 800 meters along the riverfront with food stalls, live music, and local handicrafts. At 5:30pm, board a sunset Mekong cruise boat near the golden Naga — just 150 THB including beer, drinks, and food as you drift along the river watching the sky explode in color over Laos. Explore the Lao-style golden pointed stupas scattered throughout the city — their sharp spires are architecturally distinct from anything in Bangkok or Chiang Mai.\n\n## Food & Dining\nNakhon Phanom's food scene reflects its multicultural heritage. Vietnamese-Thai fusion is the star — morning stalls serve perfect banh mi-style pancakes and dumplings for 30-50 THB. Chomchan restaurant earns the highest ratings for authentic Thai cuisine. Kitchen Khong serves excellent Isaan specialties. Riverside restaurants like Chelsea Riverside and Viewkong offer Mekong views with meals from 80-250 THB. The Vietnamese Pancakes and Dumplings House is a local institution for breakfast. Wooden House Congee serves the best rice porridge in town. Evening dining along the promenade pairs Mekong sunset views with cold beers (60-80 THB) and grilled river fish (80-180 THB).\n\n## Budget Guide\nNakhon Phanom offers outstanding value. Budget travelers spend 500-900 THB/day ($14-25): budget hotel, market food, promenade walking, and the sunset cruise (150 THB with drinks included). Mid-range travelers budget 1,100-2,200 THB/day ($30-60) with riverside hotels, restaurant meals, all attractions, and the sunset cruise. Even the luxury tier is affordable at 2,200-3,600 THB/day ($60-100) — premium hotels here cost a fraction of Bangkok or Chiang Mai prices. The main attractions are cheap: Ho Chi Minh House 200 THB, sunset cruise 150 THB, promenade and stupas are free.\n\n## Safety & Tips\nNakhon Phanom is extremely safe with virtually no crime against tourists. This is a real Thai community, not a tourist town, so people are genuinely welcoming. Never swim in the Mekong — currents are strong and depths unpredictable. Cool-season nights (December-January) can be surprisingly cold along the river — bring a proper jacket, not just a thin layer. The Walking Street (Friday-Sunday) along the promenade is the best evening experience — arrive by 5pm to combine sunset viewing with market browsing. For the sunset cruise, arrive at the Naga statue departure point by 5:15pm to secure a good spot on the boat. If you have an extra day, visit Wat Phra That Phanom (50 km south) — one of the most sacred Buddhist sites in all of Isaan.",
+  "getting_there": {
+    "from_bangkok": {
+      "method": "Direct flight (best) or overnight bus",
+      "duration": "1h flight / 11-14h bus",
+      "cost": "1,500-3,000 THB flight / 430-855 THB bus"
+    },
+    "airport": "Nakhon Phanom Airport (KOP), 18km west of town, direct from Bangkok"
+  },
+  "best_time": {
+    "peak": "Nov-Feb",
+    "shoulder": "Jun-Oct",
+    "low": "Mar-May",
+    "best_months": "Nov-Feb",
+    "why": "Cool weather perfect for riverside walks and sunset cruises. Illuminated Boat Procession in October and That Phanom Festival in January/February."
+  },
+  "budget": {
+    "backpacker": "$14-25/day",
+    "mid_range": "$30-60/day",
+    "luxury": "$60-100/day",
+    "typical_meal": "30-50 THB market food, 80-250 THB restaurant"
+  },
+  "neighborhoods": [
+    {
+      "name": "Mekong Riverfront / Promenade",
+      "vibe": "Scenic, evening life, sunset views to Laos",
+      "best_for": "Best location for atmosphere, Walking Street access, dining",
+      "price_range": "$22-55/night"
+    },
+    {
+      "name": "City Center",
+      "vibe": "Compact, walkable, budget-friendly",
+      "best_for": "Budget travelers, proximity to transport",
+      "price_range": "$11-22/night"
+    }
+  ],
+  "must_try_food": [
+    "Vietnamese pancakes and dumplings - morning breakfast specialty unique to Nakhon Phanom, served at Vietnamese-Thai fusion stalls (30-50 THB)",
+    "Mekong grilled river fish - whole fish charcoal-grilled with salt crust, served at riverside restaurants with spicy dipping sauce (80-180 THB)",
+    "Wooden House congee - famous local rice porridge shop, perfect for a warming Mekong-side breakfast (30-50 THB)"
+  ],
+  "local_tips": [
+    "The sunset cruise (150 THB with drinks and food included) departs at 5:30pm from the golden Naga statue — arrive by 5:15pm to get a good spot",
+    "The Walking Street (Fri-Sun evenings) along the promenade is the best night experience — combine with sunset viewing from 5pm",
+    "December nights can drop to 10-12°C along the Mekong — bring a warm jacket, scarf, and hat, not just a thin layer",
+    "Rise early to watch traditional Mekong fishermen casting bamboo nets — a timeless scene best viewed from the promenade at dawn",
+    "Visit Wat Phra That Phanom (50 km south) as a half-day trip — one of the most sacred Buddhist sites in Isaan"
+  ],
+  "day_trips": [
+    "Wat Phra That Phanom (50 km south) - one of Isaan's most sacred Buddhist stupas, Lao-style golden architecture",
+    "Sacred Naga Spirit Lake near Bueng Kan border (2h) - boat trips and spiritual traditions, 50 THB boat + 30 THB entry",
+    "Tha Khek, Laos (across the river) - limestone karst scenery, the Loop motorcycle route starting point",
+    "Mukdahan (190 km south) - Indochina Market, Naga Temple, Big Buddha, Mekong riverside dining",
+    "Renu Nakhon (50 km south) - Phu Thai ethnic village with traditional weaving and cultural performances"
+  ],
+  "enriched_at": "2026-03-22"
 }

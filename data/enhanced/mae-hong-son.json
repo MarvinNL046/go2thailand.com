@@ -770,5 +770,67 @@
       "safetyTips": "매홍손은 안전한 여행지이지만, 산악 도로 운전 시 각별한 주의가 필요합니다. 1,864개의 커브가 있는 매홍손 루프는 경험 있는 운전자에게만 권장됩니다. 우기에는 산사태 위험이 있으므로 도로 상황을 확인하세요.",
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
-  }
+  },
+  "extended_description": "## Overview\nMae Hong Son is Thailand's most remote provincial capital, a tiny mountain town of barely 7,000 people tucked into a misty valley near the Myanmar border. Known as Muang Sam Mok — the City of Three Mists — fog rolls through at dawn, midday, and dusk during the cool season, draping Jong Kham Lake and its twin Burmese-style temples in ethereal white. This is where Thailand feels least like Thailand: the architecture is Shan-Burmese with multi-tiered wooden roofs and delicate filigree, the food draws heavily from Shan and Karen traditions, and the surrounding mountains shelter hill tribe communities — Padaung, Lisu, Lahu, Karen, and Hmong — whose cultures have endured for centuries. Getting here is half the adventure, whether you fly in over the mountains from Chiang Mai or drive the legendary 1,864-curve Mae Hong Son Loop through some of Southeast Asia's most dramatic scenery.\n\n## Best Time to Visit\nNovember through February is the prime season, with cool temperatures (10-25°C), clear skies, and the famous morning mist that makes Jong Kham Lake look like a painting. December and January can drop to near-freezing at higher elevations like Pang Ung — bring warm layers. The Poy Sang Long festival in March, a colorful Shan initiation ceremony for young boys, is culturally spectacular. Avoid mid-February through April when agricultural burning creates thick haze that obscures mountain views and makes breathing unpleasant. The rainy season (June-October) brings lush green landscapes but road conditions deteriorate, especially on unpaved routes to remote attractions.\n\n## How to Get There\nThe fastest option is flying from Chiang Mai to Mae Hong Son — Nok Air and Kan Air operate small turboprop flights (35 minutes, 1,500-3,000 THB one-way) that swoop through mountain passes in a thrilling approach. Minivans depart from Chiang Mai Arcade Bus Terminal via the northern route through Pai (6 hours, 200-350 THB) or the southern route through Mae Sariang (8 hours, 250-400 THB). The Mae Hong Son Loop by motorbike or car from Chiang Mai is the classic adventure: 600 km through 1,864 curves, typically done clockwise via Pai (northern route) over 3-5 days. Motorbike rental in Chiang Mai runs 200-350 THB/day for a scooter or 800-1,200 THB for a proper trail bike. No trains serve the province.\n\n## Where to Stay\nMae Hong Son town is small enough to walk in 20 minutes end-to-end. The most atmospheric area is around Jong Kham Lake, where guesthouses with lake views start from 400-600 THB/night ($11-17). Fern Resort, 7 km outside town, offers upscale bungalows set in a lush garden from 2,500-5,000 THB/night ($70-140) and is consistently rated the best accommodation in the province. Budget backpacker joints cluster near the bus station and morning market from 200-400 THB/night. In Pang Ung, the Royal Forest Department rents basic tents (300-500 THB) and bamboo raft houses directly on the reservoir — sleeping on the lake under a blanket of stars at 1,800 meters elevation is unforgettable. Book Pang Ung well ahead on weekends and holidays.\n\n## What to Do\nStart at Jong Kham Lake before dawn to watch the mist lift off the water with Wat Jong Kham and Wat Jong Klang reflected below. Climb to Wat Phra That Doi Kong Mu on the hill for panoramic views of the entire valley. The highlight is Tham Lod Cave (45 min north) — explore by bamboo raft through enormous chambers with stalactites the size of chandeliers and 2,000-year-old coffin cave paintings, then at dusk watch hundreds of thousands of swifts spiral into the cave entrance in one of nature's most extraordinary spectacles. Entrance is 250 THB for foreigners plus 150 THB mandatory guide fee and 400 THB for the bamboo raft. Pang Ung reservoir (44 km from town, 1,800m elevation) earns its nickname as Thailand's Switzerland with pine forests reflected in still water. Su Tong Pae bamboo bridge stretches 500 meters across rice paddies to a small monastery — crossing it at sunrise with monks in saffron robes is iconic Mae Hong Son.\n\n## Food & Dining\nThe morning market on Phanit Wattana Road is ground zero for Shan cuisine. Try khanom jeen nam ngiew — spicy tomato noodle soup with pork ribs that is the signature dish of northern Thailand (30-50 THB). Thohu nwe (Shan tofu made from chickpea flour) is served fried or in soup and costs 20-40 THB. Burmese-style curries with pickled tea leaf salad appear at market stalls for 30-60 THB. Khao soi, the famous northern Thai coconut curry noodle, is excellent here. In the evening, small restaurants around Jong Kham Lake serve grilled river fish, jungle curry, and bamboo shoot soup from 60-150 THB per dish. The night market on Khunlum Praphat Road has hill tribe crafts alongside grilled meats and sticky rice.\n\n## Budget Guide\nMae Hong Son is very affordable once you get there — the biggest expense is transport. Budget travelers spend 500-900 THB/day ($14-25): basic guesthouse, market food, and local exploration. Mid-range visitors budget 1,500-3,000 THB/day ($42-85) including comfortable accommodation, guided cave trips, and motorbike rental. Pang Ung raft house stays add 300-500 THB/night. The main expense is Tham Lod Cave at 800 THB total (entrance + guide + raft). Local food is remarkably cheap — full market breakfasts rarely exceed 50 THB.\n\n## Safety & Tips\nThe mountain roads are the main hazard. The Mae Hong Son Loop has 1,864 curves — many sharp, steep, and without guardrails. Only ride a motorbike if you have genuine experience on mountain roads. Rainy season (June-October) makes many roads treacherous with mud and landslide risk. At Pang Ung, temperatures can drop to near-freezing in December-January — bring proper warm clothing, not just a thin jacket. Tham Lod Cave requires closed-toe shoes (bamboo rafts are narrow and cave floors are slippery). Hill tribe village visits should be done respectfully — ask before photographing people, buy crafts directly from artisans, and avoid villages that feel exploitative. Download offline maps; cellular coverage is spotty outside the main town.",
+  "getting_there": {
+    "from_bangkok": {
+      "method": "Fly to Chiang Mai + domestic flight or minivan",
+      "duration": "1h flight + 35min flight / 6h minivan",
+      "cost": "2,500-5,000 THB via Chiang Mai"
+    },
+    "airport": "Mae Hong Son Airport (HGN), 35-min flight from Chiang Mai"
+  },
+  "best_time": {
+    "peak": "Nov-Feb",
+    "shoulder": "Jun-Oct",
+    "low": "Mar-May",
+    "best_months": "Nov-Feb",
+    "why": "Cool temps, iconic morning mist over Jong Kham Lake, clear mountain views. Poy Sang Long festival in March is culturally spectacular."
+  },
+  "budget": {
+    "backpacker": "$14-25/day",
+    "mid_range": "$42-85/day",
+    "luxury": "$85+/day",
+    "typical_meal": "30-60 THB market food, 60-150 THB restaurant"
+  },
+  "neighborhoods": [
+    {
+      "name": "Jong Kham Lake Area",
+      "vibe": "Atmospheric, misty, temple views",
+      "best_for": "Photography, temple walks, ambiance",
+      "price_range": "$11-17/night"
+    },
+    {
+      "name": "Bus Station / Morning Market Area",
+      "vibe": "Backpacker hub, food stalls",
+      "best_for": "Budget travelers, Shan cuisine",
+      "price_range": "$6-11/night"
+    },
+    {
+      "name": "Pang Ung (44 km from town)",
+      "vibe": "Alpine, remote, pine forests on a reservoir",
+      "best_for": "Nature lovers, star-gazing, romantic getaway",
+      "price_range": "$8-14/night (raft house/tent)"
+    }
+  ],
+  "must_try_food": [
+    "Khanom jeen nam ngiew - spicy tomato noodle soup with pork ribs, the signature dish of the north (30-50 THB)",
+    "Thohu nwe - Shan tofu made from chickpea flour, served fried or in soup at morning market stalls (20-40 THB)",
+    "Khao soi - northern Thai coconut curry noodles with crispy fried noodles on top, excellent in Mae Hong Son (40-60 THB)"
+  ],
+  "local_tips": [
+    "Arrive at Jong Kham Lake before 6:30am for the best mist photography — bring a tripod if you have one",
+    "Do the Mae Hong Son Loop clockwise (Chiang Mai > Pai > Mae Hong Son) for the most scenic approach with mountains on your left",
+    "Book Pang Ung raft houses through the Royal Forest Department well in advance — they sell out every weekend in cool season",
+    "Tham Lod Cave is best visited at dusk to witness the swift spectacle — time your arrival for 4:30pm",
+    "The morning market on Phanit Wattana Road is the best food experience in town — skip hotel breakfast and eat Shan"
+  ],
+  "day_trips": [
+    "Tham Lod Cave (45 km north) - bamboo raft through massive cave system with coffin paintings and dusk swift spectacle",
+    "Pang Ung (44 km from town) - alpine reservoir at 1,800m with pine forests, raft houses, and near-freezing mornings",
+    "Pai (111 km east) - backpacker town with hot springs, Pai Canyon, and walking street nightlife",
+    "Pha Sua Waterfall (26 km from town) - scenic multi-tiered waterfall in the national park, best in rainy season",
+    "Ban Rak Thai (44 km north) - Chinese Yunnan settlement on a lake near Myanmar border, famous for Yunnan tea"
+  ],
+  "enriched_at": "2026-03-22"
 }

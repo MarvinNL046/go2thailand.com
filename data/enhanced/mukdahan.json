@@ -657,5 +657,61 @@
       "safetyTips": "묵다한은 매우 안전한 도시입니다. 라오스 국경을 건널 때는 여권과 비자를 확인하세요. 메콩강변에서 밤 산책 시 어두운 구간에 주의하세요.",
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
-  }
+  },
+  "extended_description": "## Overview\nMukdahan is one of those Mekong River towns that rewards travelers who slow down. Sitting directly across the water from Savannakhet in Laos, connected by the Thai-Lao Second Friendship Bridge, this quiet Isaan city offers a genuine slice of northeastern Thai life without a tourist trap in sight. The star attraction is the extraordinary Wat Roi Phra Phutthabat Phu Manorom complex on the hill above town, where a giant colorful Naga statue rises from volcanic-looking rock alongside an enormous white Big Buddha that surveys the Mekong River, the city below, and Laos beyond. The Indochina Market on the riverfront is a treasure trove of Vietnamese goods, Lao imports, and local handicrafts. Mukdahan sits on the Mekong trail between Nakhon Phanom and Ubon Ratchathani, making it a natural stop for travelers exploring the river route through deep Isaan.\n\n## Best Time to Visit\nNovember through February is the sweet spot — cool temperatures (18-28°C), clear skies, and the Mekong at a manageable level for scenic views. Loy Krathong in November is magical here, with illuminated krathong floating down the Mekong against the backdrop of Savannakhet's lights across the river. The Illuminated Boat Procession during Ok Phansa (usually October) is another spectacular event. March through May is extremely hot (35-42°C) and hazy from agricultural burning. The rainy season (June-October) swells the Mekong dramatically — interesting to see but limits some riverside activities.\n\n## How to Get There\nMukdahan has no airport. The nearest airports are Ubon Ratchathani (170 km south, 2.5h drive, flights from Bangkok 1,500-3,000 THB) and Nakhon Phanom (190 km north, 3h drive, flights from Bangkok 1,500-3,000 THB). Direct buses from Bangkok's Mo Chit Terminal run overnight (9-11 hours, 450-700 THB). From Khon Kaen, buses take 4-5 hours (200-280 THB). From Ubon Ratchathani, minivans depart frequently (2.5h, 150-200 THB). The Second Friendship Bridge connects to Savannakhet, Laos — cross by bus (50 THB) for a day trip with a visa on arrival (1,500 THB for most nationalities at the Lao border).\n\n## Where to Stay\nThe Mekong riverfront is the best area, with several charming riverside bungalow resorts that are Mukdahan's signature accommodation style — wooden bungalows set along the river bank with sunset views over Laos. Expect 600-1,500 THB/night ($17-42) for riverside bungalows. In town, budget hotels near the Indochina Market start from 400-600 THB/night ($11-17). The Ploy Palace Hotel in the center offers reliable mid-range rooms from 800-1,200 THB ($22-33). Mukdahan Tower Hotel provides the best views in town from its upper floors. The town is compact — wherever you stay, everything is walkable.\n\n## What to Do\nBegin at the hilltop Wat Roi Phra Phutthabat Phu Manorom complex where the massive white Big Buddha and the colorful Naga statue offer panoramic Mekong views — free entrance, best at sunrise or sunset. Walk the Mekong Riverside Promenade from Ho Kaew Tower (Mukdahan Tower, a distinctive local landmark) south along the river for sunset views. The Indochina Market (open daily 8am-5pm) stretches along the riverfront selling Vietnamese coffee, dried goods, Lao whisky, textiles, silverware, and affordable souvenirs — bargaining is expected. Cross the Second Friendship Bridge to Savannakhet for a day trip exploring French colonial architecture and Lao street food. Mukdahan National Park (16 km south) features unusual mushroom-shaped rock formations, sandstone cliffs, and prehistoric cave paintings at Pha Taem.\n\n## Food & Dining\nMukdahan is a serious Isaan food town. The city is famous for moo yor — a local pork sausage with a finer texture and more delicate spicing than other regional versions (available everywhere, 30-60 THB per package). Riverside restaurants serve grilled Mekong fish with salt crust (80-180 THB for a whole fish), fiery som tam, sticky rice, and laab. The morning market near the Indochina Market area has Vietnamese-influenced banh mi-style sandwiches and strong Vietnamese drip coffee for 20-30 THB. Evening dining along the river promenade offers craft beer at several newer bar-restaurants where you can watch the Mekong turn gold at sunset — expect 60-150 THB for beer and 80-200 THB for food. The night market near the Indochina Market area fires up on weekends.\n\n## Budget Guide\nMukdahan is very budget-friendly. Backpackers manage on 500-800 THB/day ($14-22): basic hotel, market food, riverside walks, and free temple visits. Mid-range travelers spend 1,200-2,000 THB/day ($33-55) with bungalow stays, restaurant meals, and a Savannakhet day trip. The Laos border crossing adds about 1,600-2,000 THB (visa on arrival + bus fare). The main attractions — Naga Temple, Big Buddha, promenade, Indochina Market — are all free. Shopping at the Indochina Market is where most money goes, with Vietnamese coffee, textiles, and souvenirs from 50-500 THB.\n\n## Safety & Tips\nMukdahan is an extremely safe city. If crossing to Laos, bring your passport and ensure you have the correct visa documentation — Thai visa on arrival for Laos costs 1,500 THB for most nationalities at the border. The bridge bus to Savannakhet runs during daylight hours only. The Mekong has strong currents — do not swim in the river. During the hot season, the hilltop temple complex is exposed and brutally hot — bring water and visit early morning or late afternoon. The Indochina Market vendors speak basic English and prices are already reasonable, but gentle bargaining (10-20% off) is expected. Download offline maps — cellular coverage in town is fine but can drop at the national park.",
+  "getting_there": {
+    "from_bangkok": {
+      "method": "Overnight bus direct or fly to Ubon/Nakhon Phanom + minivan",
+      "duration": "9-11h bus / 3.5-4h via flight",
+      "cost": "450-700 THB bus / 2,000-4,000 THB via flight"
+    },
+    "airport": "N/A (nearest: Ubon Ratchathani 2.5h or Nakhon Phanom 3h)"
+  },
+  "best_time": {
+    "peak": "Nov-Feb",
+    "shoulder": "Jun-Oct",
+    "low": "Mar-May",
+    "best_months": "Nov-Feb",
+    "why": "Cool weather, Loy Krathong on the Mekong in November, clear Mekong views, and the Illuminated Boat Procession in October."
+  },
+  "budget": {
+    "backpacker": "$14-22/day",
+    "mid_range": "$33-55/day",
+    "luxury": "$55+/day",
+    "typical_meal": "30-60 THB market food, 80-200 THB riverside restaurant"
+  },
+  "neighborhoods": [
+    {
+      "name": "Mekong Riverfront / Bungalow Area",
+      "vibe": "Scenic, relaxed, sunset views over Laos",
+      "best_for": "Atmosphere, riverside bungalow stays",
+      "price_range": "$17-42/night"
+    },
+    {
+      "name": "Town Center / Indochina Market Area",
+      "vibe": "Market bustle, walkable, budget-friendly",
+      "best_for": "Shopping, street food, budget travelers",
+      "price_range": "$11-22/night"
+    }
+  ],
+  "must_try_food": [
+    "Moo yor - Mukdahan-style pork sausage with finer texture and delicate spicing, a local specialty sold everywhere (30-60 THB)",
+    "Grilled Mekong river fish - whole fish with salt crust, charcoal-grilled and served with spicy dipping sauce at riverside restaurants (80-180 THB)",
+    "Vietnamese drip coffee - strong and sweet, sold at the morning market near the Indochina Market for 20-30 THB"
+  ],
+  "local_tips": [
+    "Visit the Big Buddha and Naga Temple at sunset for the best Mekong panorama and lighting for photographs",
+    "The Indochina Market is best on weekend mornings when the full range of vendors is present — go early before the heat",
+    "Cross to Savannakhet, Laos for a half-day trip — the French colonial architecture and Lao coffee shops are worth the border crossing",
+    "Walk the full Mekong promenade from Ho Kaew Tower southward at golden hour for the best riverside experience",
+    "Try multiple moo yor vendors to find your favorite — quality varies and locals each have their preferred supplier"
+  ],
+  "day_trips": [
+    "Savannakhet, Laos (across the bridge) - French colonial town with Lao street food and Buddhist temples",
+    "Mukdahan National Park (16 km south) - mushroom-shaped rock formations, sandstone cliffs, prehistoric cave paintings",
+    "Phu Pha Thoep National Park (16 km south) - sandstone formations and viewpoints overlooking the Mekong valley",
+    "That Phanom (100 km north) - sacred Lao-style golden stupa, one of Isaan's most important Buddhist sites",
+    "Nakhon Phanom (190 km north) - Vietnamese heritage, Ho Chi Minh House, sunset Mekong cruises"
+  ],
+  "enriched_at": "2026-03-22"
 }

@@ -716,5 +716,60 @@
       "safetyTips": "롭부리에서는 원숭이에 주의가 필요합니다. 음식을 보이는 곳에 두지 말고, 선글라스와 모자 등 빼앗길 수 있는 물건을 조심하세요. 원숭이에게 먹이를 줄 때는 거리를 유지하세요.",
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
-  }
+  },
+  "extended_description": "## Overview\nLopburi is Thailand's undisputed monkey city, a place where several thousand crab-eating macaques have taken over the old town center with the casual confidence of permanent residents. But behind the primate chaos lies one of Thailand's most historically layered cities — a settlement that has been continuously inhabited for over a thousand years, serving as a Dvaravati outpost, a major Khmer Empire center, and eventually the second capital of the Ayutthaya Kingdom under the cosmopolitan King Narai the Great. Located just 150 kilometers north of Bangkok in the central plains, Lopburi offers a fascinating day trip or overnight stay that combines ancient Khmer architecture, royal Ayutthaya-era palaces, and one of Thailand's most surreal wildlife spectacles.\n\n## Best Time to Visit\nThe cool season from November through February is ideal, with pleasant temperatures around 22-30°C and the added bonus of the sunflower fields that blanket the surrounding countryside in golden blooms from mid-November through early January. Late November brings the famous Monkey Buffet Festival at Prang Sam Yot, when mountains of fruit, vegetables, and sweets are laid out for the macaques in a surreal banquet that draws international media attention. Avoid March through May when temperatures regularly exceed 38°C and the heat reflecting off the stone ruins becomes punishing. The rainy season (June-October) brings afternoon downpours but fewer crowds.\n\n## How to Get There\nThe cheapest and most atmospheric option is the train from Bangkok's Krung Thep Aphiwat Central Terminal — ordinary third-class tickets cost just 56 THB and the journey takes about 2.5-3 hours through the central rice plains. More comfortable second-class air-con trains run several times daily for around 200-350 THB. Buses depart from Bangkok's Mo Chit Terminal every hour (120-200 THB, approximately 3 hours). The train station drops you right in the heart of the old town, within walking distance of all major attractions. Many travelers combine Lopburi with Ayutthaya as a two-stop day trip — the train between the two cities takes under an hour and costs 13-56 THB.\n\n## Where to Stay\nMost travelers visit Lopburi as a day trip from Bangkok or Ayutthaya, but staying overnight reveals the city's quieter side. Budget guesthouses near the train station on Narai Maharat Road start from 300-500 THB/night (-14). The Noom Guesthouse and Sap Villa are reliable backpacker options with clean rooms and helpful owners. Mid-range hotels like The Grand Narai Hotel offer air-conditioned rooms from 800-1,500 THB/night (2-42). The monkey-free new town east of the railway tracks has more modern accommodation options for those who prefer distance from the macaque mayhem. Book ahead during the Monkey Buffet Festival in November when the town fills up.\n\n## What to Do\nStart at Prang Sam Yot, the iconic 13th-century Khmer temple with three laterite and sandstone prangs rising above the railway roundabout — now famous as the monkey temple where hundreds of macaques swing from every ledge. Entrance is 50 THB for foreigners. Secure all belongings before entering, as the monkeys are expert thieves who target sunglasses, phones, and water bottles. Walk ten minutes south to King Narai Ratchaniwet Palace (150 THB), a sprawling 17th-century compound showcasing a remarkable fusion of Thai, Khmer, and European architecture — King Narai welcomed French, Persian, and Chinese ambassadors here. The Narai National Museum inside houses exquisite Khmer-era bronze Buddhas. Cross to San Phra Kan Shrine, another monkey-occupied Khmer ruin where locals make offerings despite the macaque audience. From mid-November to early January, hire a motorbike (300 THB/day) to ride out to the sunflower fields — the golden expanse stretching to the horizon makes for spectacular photographs.\n\n## Food & Dining\nLopburi's food scene is authentic central Thai without tourist markup. The night market near Narai Maharat Road serves excellent grilled chicken (gai yang, 40-60 THB), som tam (30-40 THB), and the local specialty khao man gai — deceptively simple chicken rice with a clarity of broth that puts Bangkok versions to shame (40-60 THB). For sit-down meals, the restaurants along Ratchadamnoen Road serve one-plate rice dishes from 35-50 THB. The morning market near the old town gate has freshly made patongko (fried dough sticks) with sweetened condensed milk for 10-20 THB — perfect pre-temple fuel. Coffee shops in the new town area serve proper espresso drinks from 45-80 THB.\n\n## Budget Guide\nLopburi is extremely affordable even by Thai standards. Day-trippers from Bangkok can do the entire visit for under 500 THB including train fare, entrance fees, lunch, and local transport. Overnight budget travelers spend 600-900 THB/day (7-25): guesthouse, meals, and sightseeing. Mid-range visitors budget 1,200-2,000 THB/day (3-55) for comfortable hotels and restaurant dining. The main attractions (Prang Sam Yot 50 THB, Narai Palace 150 THB) are inexpensive. Motorbike rental for sunflower field trips costs 300 THB/day.\n\n## Safety & Tips\nThe monkeys are the main safety concern. Never show food openly, keep bags zipped and close to your body, and remove shiny accessories like sunglasses and jewelry before approaching Prang Sam Yot or San Phra Kan. If a monkey grabs something, do not try to take it back — let it go. Monkey bites are rare but possible; carry antiseptic wipes and know the location of the nearest clinic on Narai Maharat Road. The macaque population has been partly relocated by authorities in recent years, reducing but not eliminating the chaos. Bring a hat and sunscreen — the stone ruins offer minimal shade. The old town is walkable but poorly lit at night; use a flashlight if walking after dark.",
+  "getting_there": {
+    "from_bangkok": {
+      "method": "Train (best) or bus from Mo Chit",
+      "duration": "2.5-3h train / 3h bus",
+      "cost": "56-350 THB train / 120-200 THB bus"
+    },
+    "airport": "N/A (Bangkok airports, 2.5-3h by train)"
+  },
+  "best_time": {
+    "peak": "Nov-Feb",
+    "shoulder": "Jun-Oct",
+    "low": "Mar-May",
+    "best_months": "Nov-Jan",
+    "why": "Cool weather, sunflower fields in bloom, and the famous Monkey Buffet Festival in late November."
+  },
+  "budget": {
+    "backpacker": "$17-25/day",
+    "mid_range": "$33-55/day",
+    "luxury": "$55+/day",
+    "typical_meal": "35-60 THB street food, 80-150 THB restaurant"
+  },
+  "neighborhoods": [
+    {
+      "name": "Old Town (West of Railway)",
+      "vibe": "Historic, monkey-filled, backpacker-friendly",
+      "best_for": "Sightseeing, budget stays near temples",
+      "price_range": "$8-14/night"
+    },
+    {
+      "name": "New Town (East of Railway)",
+      "vibe": "Modern, monkey-free, local Thai life",
+      "best_for": "Comfort seekers, longer stays",
+      "price_range": "$22-42/night"
+    }
+  ],
+  "must_try_food": [
+    "Khao man gai - simple chicken rice with outstanding broth, found at stalls on Ratchadamnoen Road (40-60 THB)",
+    "Som tam and gai yang combo - papaya salad and grilled chicken from the night market near Narai Maharat Road (70-100 THB)",
+    "Patongko - fried dough sticks with condensed milk from the morning market, perfect breakfast fuel (10-20 THB)"
+  ],
+  "local_tips": [
+    "Take the train, not the bus — the station drops you right in the old town and the third-class ride through the rice plains is a Thai travel experience itself",
+    "Secure ALL belongings before approaching Prang Sam Yot — monkeys specifically target sunglasses, phones, bottles, and anything shiny",
+    "Combine with Ayutthaya as a two-city day trip — the train between them is under 1 hour and costs 13-56 THB",
+    "Visit sunflower fields mid-November to early January — rent a motorbike (300 THB/day) to ride through the golden landscapes",
+    "The Monkey Buffet Festival (late November) is spectacular but crowded — arrive early for the best viewing spots"
+  ],
+  "day_trips": [
+    "Ayutthaya (1h south by train) - UNESCO World Heritage ancient capital with spectacular temple ruins",
+    "Sunflower Fields (15-20 km outside town) - golden landscapes stretching to the horizon, November-January only",
+    "Pasak Chonlasit Dam (30 km east) - largest earthen dam in Thailand, scenic reservoir with boat trips",
+    "Wat Phra Phutthabat (70 km south) - sacred Buddha footprint temple, major pilgrimage site"
+  ],
+  "enriched_at": "2026-03-22"
 }
