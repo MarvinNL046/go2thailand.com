@@ -6,12 +6,17 @@
     "nl": "Tom Yum Noedels",
     "thai": "ก๋วยเตี๋ยวต้มยำ"
   },
+  "thai_name": "ก๋วยเตี๋ยวต้มยำ (Kuay Teow Tom Yum)",
+  "origin_region": "central",
   "category": "soup",
   "region": "central",
   "spice_level": "hot",
   "description": {
-    "en": "Spicy and sour noodle soup with fish balls",
-    "nl": "Pittige en zure noedelsoep met visballen"
+    "en": "Spicy and sour noodle soup combining tom yum flavors with street food noodles",
+    "nl": "Pittige en zure noedelsoep die tom yum smaken combineert met street food noedels"
+  },
+  "extended_description": {
+    "en": "## What Are Tom Yum Noodles?\n\nTom Yum Noodles (ก๋วยเตี๋ยวต้มยำ) represent one of the most brilliant fusions in Thai street food: the explosive flavors of tom yum soup married with the satisfying slurp of Thai noodles. Unlike traditional tom yum goong, which is served as a shared soup alongside rice, tom yum noodles are a complete one-bowl meal designed for solo eating at street stalls and noodle shops. The broth carries all the hallmark tom yum aromatics, including lemongrass, galangal, kaffir lime leaves, and bird's eye chilies, but it is thickened and enriched to coat the noodles. Toppings typically include fish balls, ground pork, sliced pork, bean sprouts, and crushed peanuts. The dish comes in both soup (nam) and dry (haeng) versions, with the dry version tossing the noodles in a concentrated tom yum sauce that packs an even more intense punch.\n\n## History & Origins\n\nTom Yum Noodles emerged from Bangkok's vibrant street food culture, where noodle vendors constantly experiment with new flavor combinations to attract customers. The dish is a relatively modern creation compared to traditional tom yum soup, gaining popularity in the late 20th century as noodle shops began incorporating tom yum seasoning into their broth. The phenomenon exploded around 2015 when Jeh O Chula, a legendary late-night eatery near Chulalongkorn University, created its viral \"tom yum mama\" by using instant mama noodles in a from-scratch creamy tom yum broth loaded with seafood toppings. That dish became a social media sensation and helped elevate tom yum noodles from a simple street snack to a must-try Bangkok experience. Today, noodle shops across Thailand offer their own interpretations.\n\n## How It's Made\n\nThe broth starts similarly to tom yum soup: lemongrass, galangal, and kaffir lime leaves are simmered in pork or chicken stock. Nam prik pao (roasted chili jam) is stirred in for depth and color, along with fish sauce, lime juice, and sugar. For the soup version, noodles are blanched separately, placed in a bowl, and topped with fish balls, ground pork, sliced pork liver, bean sprouts, and crushed peanuts before the hot broth is ladled over. For the dry version (haeng), the concentrated tom yum paste coats the drained noodles directly, creating a sticky, intensely flavored dish. Noodle choices include sen lek (thin rice noodles), bami (egg noodles), or even instant mama noodles for the trendy version. Fresh chilies, lime, and dried chili flakes are added at the table.\n\n## Where to Eat It\n\nBangkok is the epicenter of tom yum noodles. Jeh O Chula near Chulalongkorn University is the most famous spot, with lines stretching down the street for their tom yum mama, though the restaurant only opens at 5 PM and often has a two-hour wait. P'Aor on Phetchaburi Soi 21 serves a legendary creamy tom yum goong noodle soup that rivals Jeh O. Kuay Teow Khae in Silom serves outstanding dry tom yum egg noodles with crispy pork belly at a fraction of the tourist-spot prices. In Chinatown, numerous noodle stalls along Yaowarat Road offer their own versions. Outside Bangkok, look for tom yum noodles at noodle shops in any major city.\n\n## How to Order\n\nAsk for \"kuay teow tom yum\" for the soup version or \"kuay teow tom yum haeng\" for the dry version. Choose your noodle type: sen lek (thin rice), sen yai (wide rice), bami (egg), or mama (instant). Specify toppings: \"look chin pla\" (fish balls), \"moo sap\" (ground pork), or \"goong\" (shrimp) for a premium version. Say \"phet nit noi\" for mild spice. At Jeh O Chula, simply order the \"tom yum mama piset\" (special) for the full experience.\n\n## Price Guide\n\nTom Yum Noodles are excellent street food value. Basic bowls at noodle stalls cost 50-80 THB with fish balls and ground pork. Mid-range noodle shops charge 80-120 THB for larger portions with more toppings. Premium versions with shrimp at restaurants like P'Aor cost 150-250 THB. At Jeh O Chula, the famous tom yum mama runs 250-350 THB depending on toppings. Dry versions (haeng) tend to cost the same as soup versions."
   },
   "ingredients": [
     "rice noodles",
@@ -19,24 +24,53 @@
     "lime juice",
     "chili",
     "lemongrass",
-    "mushrooms"
+    "mushrooms",
+    "ground pork",
+    "nam prik pao",
+    "bean sprouts",
+    "peanuts"
   ],
   "allergens": [
-    "seafood"
+    "seafood",
+    "peanuts"
   ],
   "dietary": [],
   "image": "/images/food/tom-yum-noodles.webp",
   "preparation_time": "15 minutes",
   "difficulty": "easy",
   "price_range": "budget",
+  "best_places": [
+    "Jeh O Chula, near Chulalongkorn University, Bangkok",
+    "P'Aor (Pee Aor), Phetchaburi Soi 21, Bangkok",
+    "Kuay Teow Khae, Silom, Bangkok",
+    "Yaowarat Road noodle stalls, Chinatown, Bangkok"
+  ],
+  "variations": [
+    "Tom Yum Noodles Nam (soup version)",
+    "Tom Yum Noodles Haeng (dry version)",
+    "Tom Yum Mama (with instant noodles)",
+    "Tom Yum Goong Noodles (shrimp version)",
+    "Tom Yum Bami (with egg noodles)"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'kuay teow tom yum' for soup or 'haeng' for dry. Choose sen lek for thin rice noodles or bami for egg noodles. Specify 'look chin pla' for fish balls or 'goong' for shrimp. At Jeh O Chula, order the 'tom yum mama piset' for the full experience.",
+    "nl": "Vraag om 'kuay teow tom yum' voor soep of 'haeng' voor droog. Kies sen lek voor dunne rijstnoedels of bami voor eiernoodels. Specificeer 'look chin pla' voor visballen of 'goong' voor garnalen."
+  },
+  "pairs_well_with": [
+    "Thai iced tea",
+    "Crispy pork belly",
+    "Fresh lime wedges",
+    "Pickled chilies"
+  ],
+  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
-      "en": "Tom Yum Noodles Recipe | Authentic Thai soup",
-      "nl": "Tom Yum Noedels Recept | Authentieke Thaise soup"
+      "en": "Tom Yum Noodles: Bangkok's Favorite Street Food Soup",
+      "nl": "Tom Yum Noedels: Bangkok's Favoriete Street Food Soep"
     },
     "metaDescription": {
-      "en": "Learn about Tom Yum Noodles (ก๋วยเตี๋ยวต้มยำ) - Spicy and sour noodle soup with fish balls...",
-      "nl": "Leer over Tom Yum Noedels (ก๋วยเตี๋ยวต้มยำ) - Pittige en zure noedelsoep met visballen..."
+      "en": "Discover Tom Yum Noodles (ก๋วยเตี๋ยวต้มยำ), Bangkok's beloved spicy noodle soup. From Jeh O Chula's viral mama noodles to classic street stall bowls, find the best spots and learn how to order.",
+      "nl": "Ontdek Tom Yum Noedels (ก๋วยเตี๋ยวต้มยำ), Bangkok's geliefde pittige noedelsoep. Van Jeh O Chula's virale mama-noedels tot klassieke straatkramen."
     }
   },
   "tags": [
@@ -49,19 +83,22 @@
     "budget",
     "rice-noodles",
     "fish-balls",
-    "lime-juice"
+    "street-food",
+    "noodles"
   ],
   "cooking": {
     "preparation_time": "15 minutes",
     "difficulty": "easy",
     "spice_level": "hot",
-    "serves": "2-4 people"
+    "serves": "1-2 people"
   },
   "nutrition": {
     "allergens": [
-      "seafood"
+      "seafood",
+      "peanuts"
     ],
     "dietary": [],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }

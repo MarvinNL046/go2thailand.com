@@ -6,21 +6,29 @@
     "nl": "Tom Yum Goong",
     "thai": "ต้มยำกุ้ง"
   },
+  "thai_name": "ต้มยำกุ้ง (Tom Yum Goong)",
+  "origin_region": "central",
   "category": "soup",
   "region": "central",
   "spice_level": "hot",
   "description": {
-    "en": "Spicy and sour Thai soup with shrimp lemongrass and lime leaves",
-    "nl": "Pittige en zure Thaise soep met garnalen citroengras en limoenbladeren"
+    "en": "Iconic spicy and sour Thai shrimp soup with lemongrass and lime leaves",
+    "nl": "Iconische pittige en zure Thaise garnalensoep met citroengras en limoenbladeren"
+  },
+  "extended_description": {
+    "en": "## What Is Tom Yum Goong?\n\nTom Yum Goong (ต้มยำกุ้ง) is the single most famous Thai dish in the world and a defining symbol of Thai cuisine. In December 2024, it became the first Thai food to be inscribed on UNESCO's Representative List of Intangible Cultural Heritage of Humanity, cementing its status as a culinary treasure of global significance. The name breaks down as \"tom\" (boiled), \"yum\" (mixed), and \"goong\" (shrimp). Every spoonful delivers an explosive combination of hot, sour, salty, and sweet flavors built from a fragrant broth infused with lemongrass, galangal, kaffir lime leaves, and bird's eye chilies. Plump river shrimp bob in the fiery broth alongside straw mushrooms, and the soup is finished with a generous squeeze of fresh lime juice and a handful of cilantro. It comes in two styles: tom yum nam sai (clear broth) and tom yum nam khon (creamy broth enriched with roasted chili paste and shrimp head fat).\n\n## History & Origins\n\nTom Yum Goong originated among the Buddhist riverside communities in the Central Plains of Thailand, where the Chao Phraya River and its tributaries provided an abundance of freshwater shrimp. These communities traditionally avoided killing large animals, preferring to eat the naturally plentiful river prawns. The soup has existed in some form since at least the 14th century, with legends describing Thai boatmen carrying hot pots of sour shrimp broth flavored with lemongrass and galangal during their river journeys. Over centuries, the recipe was refined in royal and home kitchens alike. The creamy version (nam khon) is a more recent innovation, popularized by Bangkok restaurants in the 20th century. The UNESCO inscription in 2024 recognized not just the dish itself but the entire cultural practice surrounding it: the knowledge of growing herbs, the communal sharing tradition, and the passing of recipes through generations.\n\n## How It's Made\n\nThe broth is built by simmering water with bruised lemongrass stalks, sliced galangal, torn kaffir lime leaves, and crushed shallots. These aromatics are not meant to be eaten but infuse the broth with their essential oils. Fresh shrimp, ideally large river prawns with heads on, are added and cooked just until pink. Fish sauce provides saltiness, and fresh lime juice adds the signature sourness. Bird's eye chilies are bruised and added whole for heat. For the creamy version (nam khon), nam prik pao (roasted chili jam) is stirred in along with the orange fat from the shrimp heads, creating a rich, slightly oily broth with a beautiful reddish hue. Straw mushrooms or oyster mushrooms add earthy depth. Fresh cilantro leaves are scattered on top just before serving.\n\n## Where to Eat It\n\nBangkok is the undisputed capital of Tom Yum Goong. Mit Ko Yuan on Dinso Road near Democracy Monument is legendary for its deeply flavored version made with fresh river prawn heads. Tom Yum Goong Banglamphu, a street stall near Khao San Road, draws crowds for its affordable and authentic bowls. P'Aor on Phetchaburi Road serves a famous creamy tom yum goong with noodles that has become a social media sensation. Raan Jay Fai, the Michelin-starred street food queen, prepares a spectacular version. Jeh O Chula near Chulalongkorn University is famous for its late-night tom yum mama noodle soup. Outside Bangkok, virtually every restaurant and food stall across Thailand serves their own version.\n\n## How to Order\n\nSpecify \"tom yum goong nam sai\" for clear broth or \"tom yum goong nam khon\" for the creamy version. If you want extra-large river prawns, ask for \"goong mae nam\" (river shrimp) or \"goong galah\" (giant freshwater prawns), though these cost significantly more. Say \"phet maak\" for Thai-level spicy or \"phet nit noi\" for a milder version. The soup is traditionally shared from a hot pot in the center of the table, eaten with steamed jasmine rice.\n\n## Price Guide\n\nTom Yum Goong prices vary widely based on the shrimp used. Street stalls and basic restaurants serve it for 80-150 THB with regular shrimp. Mid-range restaurants charge 150-300 THB for generous portions with larger prawns. Premium versions with giant river prawns at famous spots like Mit Ko Yuan or P'Aor run 250-500 THB. Fine dining and hotel restaurants charge 400-800 THB. At Raan Jay Fai, expect to pay 800-1,500 THB for the full experience."
   },
   "ingredients": [
     "shrimp",
     "lemongrass",
-    "lime leaves",
-    "chili",
+    "kaffir lime leaves",
+    "galangal",
+    "bird's eye chili",
     "lime juice",
     "fish sauce",
-    "mushrooms"
+    "straw mushrooms",
+    "cilantro",
+    "nam prik pao"
   ],
   "allergens": [
     "seafood"
@@ -30,14 +38,40 @@
   "preparation_time": "20 minutes",
   "difficulty": "medium",
   "price_range": "mid-range",
+  "best_places": [
+    "Mit Ko Yuan, Dinso Road, Bangkok",
+    "Tom Yum Goong Banglamphu, near Khao San Road, Bangkok",
+    "P'Aor (Pee Aor), Phetchaburi Road, Bangkok",
+    "Raan Jay Fai, Mahachai Road, Bangkok",
+    "Jeh O Chula, near Chulalongkorn University, Bangkok"
+  ],
+  "variations": [
+    "Tom Yum Goong Nam Sai (clear broth)",
+    "Tom Yum Goong Nam Khon (creamy broth)",
+    "Tom Yum Talay (mixed seafood version)",
+    "Tom Yum Gai (chicken version)",
+    "Tom Yum Pla (fish version)",
+    "Tom Yum Mama (with instant noodles)"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'nam sai' for clear broth or 'nam khon' for creamy. Specify 'goong mae nam' for premium river prawns. Say 'phet nit noi' for mild or 'phet maak' for Thai-level spicy. Shared from a central hot pot with jasmine rice.",
+    "nl": "Vraag 'nam sai' voor heldere bouillon of 'nam khon' voor romig. Specificeer 'goong mae nam' voor premium riviergarnalen. Zeg 'phet nit noi' voor mild of 'phet maak' voor Thais-pittig."
+  },
+  "pairs_well_with": [
+    "Steamed jasmine rice",
+    "Thai fried rice",
+    "Pad thai",
+    "Cold Singha or Chang beer"
+  ],
+  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
-      "en": "Tom Yum Goong Recipe | Authentic Thai soup",
-      "nl": "Tom Yum Goong Recept | Authentieke Thaise soup"
+      "en": "Tom Yum Goong: Thailand's Iconic UNESCO-Listed Soup",
+      "nl": "Tom Yum Goong: Thailand's Iconische UNESCO-Soep"
     },
     "metaDescription": {
-      "en": "Learn about Tom Yum Goong (ต้มยำกุ้ง) - Spicy and sour Thai soup with shrimp lemongrass and lime leaves...",
-      "nl": "Leer over Tom Yum Goong (ต้มยำกุ้ง) - Pittige en zure Thaise soep met garnalen citroengras en limoenbladeren..."
+      "en": "Discover Tom Yum Goong (ต้มยำกุ้ง), Thailand's world-famous spicy shrimp soup and UNESCO Intangible Heritage dish. Best restaurants in Bangkok, how to order, and the story behind the soup.",
+      "nl": "Ontdek Tom Yum Goong (ต้มยำกุ้ง), Thailand's wereldberoemde pittige garnalensoep en UNESCO Immaterieel Erfgoed. Beste restaurants in Bangkok en het verhaal achter de soep."
     }
   },
   "tags": [
@@ -50,7 +84,9 @@
     "mid-range",
     "shrimp",
     "lemongrass",
-    "lime-leaves"
+    "lime-leaves",
+    "unesco-heritage",
+    "iconic"
   ],
   "cooking": {
     "preparation_time": "20 minutes",
@@ -64,5 +100,6 @@
     ],
     "dietary": [],
     "price_range": "mid-range"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }
