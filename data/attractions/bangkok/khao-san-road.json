@@ -12,15 +12,23 @@
     "lat": 13.7589,
     "lng": 100.4978
   },
-  "opening_hours": "24/7",
+  "opening_hours": "24/7 (street stalls and bars peak 18:00-01:00)",
   "entrance_fee": {
     "thb": 0,
     "usd": 0
   },
+  "entry_fee": "Free",
+  "visit_duration": "2-3 hours",
+  "best_time_to_visit": "Evening between 18:00 and 23:00 when the street closes to traffic and the night market, bars, and street food stalls are in full swing",
   "description": {
-    "en": "Famous backpacker street with budget accommodations and vibrant nightlife",
+    "en": "## Overview\n\nKhao San Road is Bangkok's most iconic backpacker strip — a 410-meter stretch in the historic Banglamphu district that has drawn budget travelers, gap-year adventurers, and curious locals since the 1980s. By day it is a relatively quiet lane of guesthouses and travel agencies; after dark it transforms into a sensory overload of neon signs, thumping music, sizzling woks, and market stalls selling everything from handmade jewelry to scorpion-on-a-stick.\n\n## History\n\nThe road was originally a rice market — \"khao san\" literally means \"milled rice\" — serving the nearby royal district. After the publication of Alex Garland's novel *The Beach* in 1996 and the Leonardo DiCaprio film adaptation in 2000, the street cemented its reputation as Southeast Asia's ultimate backpacker hub. A major renovation in 2018 widened sidewalks, improved drainage, and added heritage-style lamp posts, giving the strip a cleaner look while keeping its chaotic charm.\n\n## What to See\n\nStreet food is the main draw. Pad Thai vendors charge around 70-100 THB per plate, mango sticky rice goes for 60-100 THB, and adventurous eaters can try deep-fried insects for 40-60 THB. Beyond food, the road is lined with bars offering cheap buckets and live music, tattoo studios, massage parlors, and stalls selling elephant-print pants and vintage band tees. The surrounding Banglamphu neighborhood rewards exploration: Wat Chana Songkhram sits just across the street, and the Grand Palace and Wat Phra Kaew are a 15-minute walk south.\n\n## Practical Info\n\nThere is no direct BTS or MRT station at Khao San Road. The easiest route is BTS to Saphan Taksin, then a Chao Phraya Express Boat to Phra Arthit Pier (a five-minute walk to the road). Taxis from Siam cost around 80-120 THB with the meter. Keep valuables close — pickpocketing peaks in the late-night crowds. Bring small-denomination cash as many vendors do not accept cards. Insect repellent is wise if you head toward the riverside after dark.",
     "nl": "Beroemde backpackersstraat met budgetaccommodaties en bruisend nachtleven"
   },
+  "tips": [
+    "Arrive after 18:00 when the road closes to traffic and the night market comes alive — daytime is unremarkable",
+    "Take the Chao Phraya Express Boat to Phra Arthit Pier instead of fighting traffic in a taxi",
+    "Keep small bills handy and leave valuables at your hotel — pickpocketing is common in late-night crowds"
+  ],
   "highlights": [
     "Backpacker hub",
     "Street food",
@@ -45,5 +53,6 @@
     "attraction",
     "travel",
     "tourism"
-  ]
+  ],
+  "enriched_at": "2026-03-23"
 }

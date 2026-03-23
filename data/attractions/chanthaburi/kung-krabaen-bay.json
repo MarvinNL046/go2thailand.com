@@ -2,13 +2,25 @@
   "id": 7, "slug": "kung-krabaen-bay",
   "name": { "en": "Kung Krabaen Bay", "nl": "Kung Krabaen Baai" },
   "type": "nature", "city_slug": "chanthaburi",
-  "address": "Kung Krabaen Bay, Tha Mai, Chanthaburi 22120",
+  "address": "Kung Krabaen Bay Royal Development Study Center, Tha Mai, Chanthaburi 22120",
   "location": { "lat": 12.5700, "lng": 101.8900 },
-  "opening_hours": "8:00 AM - 5:00 PM",
+  "opening_hours": "08:30-16:30",
   "entrance_fee": { "thb": 0, "usd": 0 },
-  "description": { "en": "A royal development study center focused on mangrove conservation, with elevated boardwalks through pristine mangrove forest. The area includes a small aquarium, nature trails, birdwatching spots, and information about coastal ecology and sustainable aquaculture. A peaceful and educational day trip from Chanthaburi town.", "nl": "Een koninklijk ontwikkelingscentrum gericht op mangrovebescherming, met verhoogde loopbruggen door ongerept mangrovebos. Het gebied heeft een klein aquarium, natuurpaden, vogelkijkplekken en informatie over kustecologie en duurzame aquacultuur. Een vredige en educatieve dagtrip vanuit de stad Chanthaburi." },
+  "entry_fee": "Free",
+  "visit_duration": "2-3 hours",
+  "best_time_to_visit": "Early morning or late afternoon for cooler temperatures and better birdwatching; low tide reveals more marine life along the boardwalks",
+  "description": {
+    "en": "## Overview\n\nKung Krabaen Bay Royal Development Study Center is a sprawling coastal conservation area about 30 km west of Chanthaburi town, covering approximately 4,000 rai (640 hectares) of mangrove forest, mudflats, and shallow bay. Established as a royal initiative, it serves as both a working research center for marine ecology and a peaceful nature destination with elevated boardwalks, kayaking routes, and a birdwatching tower rising above the canopy.\n\n## History\n\nThe center was founded in 1981 under royal patronage of King Rama IX as an experimental model for restoring degraded coastal ecosystems. Its mission focused on mangrove rehabilitation, sustainable aquaculture, and improving the livelihoods of local fishing communities. Over four decades, the mangrove forest has been successfully restored, and the bay now serves as a thriving nursery ground for fish, crabs, and shrimp — a model for coastal conservation projects across Southeast Asia.\n\n## What to See\n\nThe main attraction is the 1,600-meter elevated boardwalk that winds through dense mangrove forest, with informational pavilions at regular intervals explaining the ecosystem, local fauna, and conservation methods. A birdwatching tower in the center of the forest offers panoramic views over the bay and the chance to spot species from among the 120 bird varieties recorded here. Kayaking through the mangrove canals and out to the open bay is a highlight — single kayaks rent for 50 THB per hour and tandem kayaks for 100 THB. A small aquarium and educational exhibits near the entrance cover marine biodiversity in the Gulf of Thailand.\n\n## Practical Info\n\nAdmission is free. The center is open from 08:30 to 16:30. Located about 30 km from Chanthaburi town, private transport is needed as there is no regular public transit. Restrooms are available on-site. Food options are limited within the center but a nearby fishing village has small restaurants. Wear comfortable walking shoes, bring sunscreen and water, and consider insect repellent for the mangrove trails. Visit during low tide for the best boardwalk experience and marine-life viewing.",
+    "nl": "Een koninklijk ontwikkelingscentrum gericht op mangrovebescherming, met verhoogde loopbruggen door ongerept mangrovebos. Het gebied heeft een klein aquarium, natuurpaden, vogelkijkplekken en informatie over kustecologie en duurzame aquacultuur. Een vredige en educatieve dagtrip vanuit de stad Chanthaburi."
+  },
+  "tips": [
+    "Rent a kayak (50 THB/hour single, 100 THB tandem) to paddle through the mangrove canals and out to the open bay",
+    "Climb the birdwatching tower for panoramic views — bring binoculars to spot species from the 120 varieties recorded here",
+    "Time your visit with low tide to see the most marine life exposed along the boardwalk"
+  ],
   "highlights": ["Mangrove boardwalks", "Birdwatching", "Nature trails", "Educational center"],
   "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
   "seo": { "metaTitle": { "en": "Kung Krabaen Bay - Mangrove Nature Center | Go2Thailand", "nl": "Kung Krabaen Baai - Mangrove Natuurcentrum | Go2Thailand" }, "metaDescription": { "en": "Visit Kung Krabaen Bay in Chanthaburi. Mangrove boardwalks, birdwatching, and educational nature trails in a coastal conservation area.", "nl": "Bezoek Kung Krabaen Baai in Chanthaburi. Mangrove loopbruggen, vogels kijken en educatieve natuurpaden in een kustbeschermingsgebied." } },
-  "tags": ["nature", "chanthaburi", "thailand", "attraction", "travel", "tourism"]
+  "tags": ["nature", "chanthaburi", "thailand", "attraction", "travel", "tourism"],
+  "enriched_at": "2026-03-23"
 }

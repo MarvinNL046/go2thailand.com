@@ -4,11 +4,23 @@
   "type": "nature", "city_slug": "chanthaburi",
   "address": "Namtok Phlio National Park, Phliu, Chanthaburi 22110",
   "location": { "lat": 12.5300, "lng": 102.1700 },
-  "opening_hours": "8:00 AM - 4:30 PM",
+  "opening_hours": "08:00-16:30",
   "entrance_fee": { "thb": 200, "usd": 6 },
-  "description": { "en": "A beautiful waterfall just 15 km from Chanthaburi town, cascading into a crystal-clear pool filled with enormous carp that have been fed by visitors for decades. The pool is so clear you can see the fish swimming beneath the surface. The surrounding tropical forest park includes walking trails, picnic areas, and a royal memorial built by King Rama V.", "nl": "Een prachtige waterval op slechts 15 km van de stad Chanthaburi, die in een kristalhelder zwembad stroomt gevuld met enorme karpers die al tientallen jaren door bezoekers worden gevoerd. Het zwembad is zo helder dat je de vissen onder het oppervlak kunt zien zwemmen. Het omringende tropische bospark heeft wandelpaden, picknickplaatsen en een koninklijk gedenkteken gebouwd door Koning Rama V." },
+  "entry_fee": "200 THB adults / 100 THB children",
+  "visit_duration": "1.5-2.5 hours",
+  "best_time_to_visit": "Weekday mornings to avoid weekend crowds; the waterfall flows strongest during and just after the rainy season (June-October)",
+  "description": {
+    "en": "## Overview\n\nNamtok Phlio National Park is Chanthaburi's most popular natural attraction — a stunning waterfall cascading into a crystal-clear pool just 15 km from the city center. The pool is so transparent you can watch enormous carp — some over a meter long — swimming lazily beneath the surface, fed by visitors for decades until they have grown to remarkable size. Surrounded by lush tropical forest, the park combines easy accessibility with genuine natural beauty.\n\n## History\n\nThe national park was established in 1975, covering 135 square kilometers of tropical forest in the coastal hills south of Chanthaburi. The area holds deep royal significance: King Rama V (Chulalongkorn) visited the waterfall with Queen Sunanda Kumariratana, and after her tragic death in 1880 he built a memorial chedi near the falls in her honor. This royal memorial, set among ancient trees beside the water, remains one of the most poignant historical sites in eastern Thailand.\n\n## What to See\n\nThe main Phlio Waterfall is an easy 10-minute walk from the park entrance along a well-maintained path through shaded forest. The waterfall drops several meters into the famous pool where hundreds of giant carp congregate — you can watch them from the rocks above or walk right to the water's edge. The King Rama V memorial chedi sits on a raised platform nearby, surrounded by old-growth trees. Several walking trails branch deeper into the forest for those wanting more exercise, and picnic areas with tables and shelters are scattered throughout the grounds.\n\n## Practical Info\n\nAdmission is 200 THB for adult foreigners and 100 THB for children under 15. Parking costs 20 THB. The park is open from 08:00 to 16:30. Located just 15 km from Chanthaburi town, it is easily reached by songthaew, taxi, or private vehicle. The main waterfall path is flat and suitable for all fitness levels. Swimming is not permitted in the main pool to protect the fish. Bring water and snacks — there are small food vendors near the entrance but options are limited. Weekends draw large local crowds, so visit on a weekday morning for a more peaceful experience.",
+    "nl": "Een prachtige waterval op slechts 15 km van de stad Chanthaburi, die in een kristalhelder zwembad stroomt gevuld met enorme karpers die al tientallen jaren door bezoekers worden gevoerd. Het zwembad is zo helder dat je de vissen onder het oppervlak kunt zien zwemmen. Het omringende tropische bospark heeft wandelpaden, picknickplaatsen en een koninklijk gedenkteken gebouwd door Koning Rama V."
+  },
+  "tips": [
+    "Visit on a weekday morning to avoid the large weekend crowds of local families",
+    "Do not miss the King Rama V memorial chedi near the falls — one of the most historically significant sites in eastern Thailand",
+    "Swimming is not allowed in the main pool to protect the giant carp, but the viewing from the rocks is spectacular"
+  ],
   "highlights": ["Crystal-clear waterfall pool", "Giant carp swimming", "Easy 15 km from town", "King Rama V memorial"],
   "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "https://www.thainationalparks.com/namtok-phlio-national-park",
   "seo": { "metaTitle": { "en": "Namtok Phlio Waterfall - Chanthaburi Nature | Go2Thailand", "nl": "Namtok Phlio Waterval - Chanthaburi Natuur | Go2Thailand" }, "metaDescription": { "en": "Visit Namtok Phlio National Park in Chanthaburi. A stunning waterfall with crystal-clear pools and giant carp in a tropical forest setting.", "nl": "Bezoek Namtok Phlio Nationaal Park in Chanthaburi. Een prachtige waterval met kristalheldere zwembaden en reuzenkarpers in een tropische bosomgeving." } },
-  "tags": ["nature", "chanthaburi", "thailand", "attraction", "travel", "tourism"]
+  "tags": ["nature", "chanthaburi", "thailand", "attraction", "travel", "tourism"],
+  "enriched_at": "2026-03-23"
 }

@@ -14,13 +14,21 @@
   },
   "opening_hours": "08:00-18:30",
   "entrance_fee": {
-    "thb": 200,
-    "usd": 6
+    "thb": 300,
+    "usd": 9
   },
+  "entry_fee": "300 THB",
+  "visit_duration": "1.5-3 hours",
+  "best_time_to_visit": "Early morning right at 08:00 opening to see the Reclining Buddha hall before tour groups arrive, or late afternoon after 15:00 when crowds thin",
   "description": {
-    "en": "Home to the famous Reclining Buddha and traditional Thai massage school",
+    "en": "## Overview\n\nWat Pho — officially Wat Phra Chetuphon Wimon Mangkhalaram — is Bangkok's oldest and largest temple complex, sprawling across 32,000 square meters just south of the Grand Palace. It is best known for the colossal Reclining Buddha, one of the most photographed sights in Thailand, and as the birthplace of traditional Thai massage. With over 1,000 Buddha images — more than any other temple in the country — and 91 chedis (stupas) glinting in the sun, Wat Pho rewards slow exploration.\n\n## History\n\nThe temple was founded in the 16th century, but its current form dates to a massive expansion ordered by King Rama I in 1788. Rama III later transformed it into Thailand's first public university by inscribing medical texts, maps, and literature onto marble tablets set into the temple walls — earning Wat Pho a UNESCO Memory of the World designation in 2011. The Wat Pho Thai Traditional Massage School, established in 1955, remains the most prestigious in the country and still trains students on-site.\n\n## What to See\n\nThe star attraction is the Reclining Buddha housed in Viharn Phranorn — a gilded figure stretching 46 meters long and 15 meters high, depicting the Buddha entering nirvana. The soles of its feet are inlaid with 108 mother-of-pearl panels showing auspicious Buddhist symbols. Along one wall, a row of 108 bronze bowls lines the corridor; dropping a coin into each is believed to bring good fortune. Beyond the main hall, four grand chedis in vivid colors honor the first four Chakri kings, and the surrounding galleries contain 394 gilded Buddha statues. The beautifully detailed murals inside the main ordination hall are worth close inspection.\n\n## Practical Info\n\nAdmission is 300 THB for foreigners, which includes a complimentary bottle of water. The temple is open daily from 08:00 to 18:30. Dress code requires covered knees and shoulders. Shoes must be removed before entering temple buildings — you receive a plastic bag to carry them. Traditional Thai massage is available on-site from 08:00 to 17:00 for 260 THB (30 min) or 420 THB (60 min). Wat Pho is a 5-minute walk from Tha Tien Pier, making it easy to combine with Wat Arun across the river.",
     "nl": "Huis van de beroemde Liggende Boeddha en traditionele Thaise massageschool"
   },
+  "tips": [
+    "Arrive right at 08:00 to photograph the Reclining Buddha before the tour-bus crowds arrive around 10:00",
+    "Book a traditional Thai massage on-site (260 THB/30 min) at the school that invented the discipline",
+    "Combine with Wat Arun across the river — the Tha Tien Pier cross-river ferry departs every few minutes for 4 THB"
+  ],
   "highlights": [
     "Reclining Buddha",
     "Thai massage",
@@ -45,5 +53,6 @@
     "attraction",
     "travel",
     "tourism"
-  ]
+  ],
+  "enriched_at": "2026-03-23"
 }

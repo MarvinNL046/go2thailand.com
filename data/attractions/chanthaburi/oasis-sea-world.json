@@ -4,11 +4,23 @@
   "type": "nature", "city_slug": "chanthaburi",
   "address": "Oasis Sea World, Laem Sing, Chanthaburi 22130",
   "location": { "lat": 12.4600, "lng": 102.0800 },
-  "opening_hours": "9:00 AM - 5:00 PM",
-  "entrance_fee": { "thb": 200, "usd": 6 },
-  "description": { "en": "A marine conservation center and aquarium featuring a sea turtle breeding and rehabilitation program. The center educates visitors about Gulf of Thailand marine life, coral reef conservation, and sea turtle protection. Family-friendly with touch pools and educational exhibits about local ocean ecosystems.", "nl": "Een marien beschermingscentrum en aquarium met een zeeschildpadden kweek- en rehabilitatieprogramma. Het centrum informeert bezoekers over het zeeleven in de Golf van Thailand, koraalrif bescherming en zeeschildpadden bescherming. Gezinsvriendelijk met aanraakbaden en educatieve tentoonstellingen over lokale oceaan-ecosystemen." },
+  "opening_hours": "09:00-18:00",
+  "entrance_fee": { "thb": 130, "usd": 4 },
+  "entry_fee": "130 THB adults / 80 THB children",
+  "visit_duration": "2-3 hours",
+  "best_time_to_visit": "Weekday mornings for smaller crowds; check the daily dolphin show schedule upon arrival to plan your visit around it",
+  "description": {
+    "en": "## Overview\n\nOasis Sea World is a marine park and conservation center on the coast of Laem Sing district, about 45 minutes south of Chanthaburi town. The park combines entertainment with education, featuring a popular dolphin show, a marine aquarium, a sea turtle breeding and rehabilitation program, and interactive animal encounters. It is one of the most family-friendly attractions in the Chanthaburi province and a good rainy-day option when beach weather does not cooperate.\n\n## History\n\nOasis Sea World was established as a private marine park focused on both tourism and conservation in the Gulf of Thailand. Its sea turtle program has become a notable success, breeding and rehabilitating endangered green and hawksbill turtles before releasing them back into the wild. The park has expanded over the years to include more marine species and interactive educational programs about coral reef conservation and coastal ecology.\n\n## What to See\n\nThe dolphin show is the headline attraction — trained bottlenose dolphins perform acrobatic routines in a large outdoor pool, and the show is included in the standard admission price. Beyond the show, the marine aquarium houses fish and invertebrates native to the Gulf of Thailand, with touch pools where children can handle sea stars and sea cucumbers. The sea turtle nursery allows close-up viewing of turtle hatchlings and juveniles at various growth stages. Additional paid activities include swimming with dolphins, photo sessions with the animals, feeding giant grouper (30 THB/set), feeding rusa deer (30 THB/set), and feeding carp (20 THB/bottle).\n\n## Practical Info\n\nAdmission is 130 THB for adults and 80 THB for children, which includes the dolphin show. The park is open daily from 09:00 to 18:00. It is located in Laem Sing district, roughly 40 km from Chanthaburi town — private transport is necessary. Check the dolphin show schedule at the entrance to time your visit. The park has a small food court and gift shop. Bring sunscreen and a hat as much of the park is outdoors. Contact the park at 039-499-222 for current show times and group booking discounts.",
+    "nl": "Een marien beschermingscentrum en aquarium met een zeeschildpadden kweek- en rehabilitatieprogramma. Het centrum informeert bezoekers over het zeeleven in de Golf van Thailand, koraalrif bescherming en zeeschildpadden bescherming. Gezinsvriendelijk met aanraakbaden en educatieve tentoonstellingen over lokale oceaan-ecosystemen."
+  },
+  "tips": [
+    "The dolphin show is included in the 130 THB admission — check the schedule at the entrance and arrive 15 minutes early for good seats",
+    "Bring 30 THB in coins for the animal feeding stations (deer, grouper, carp) — kids love them",
+    "Call ahead at 039-499-222 to confirm show times, especially on weekdays when schedules may be reduced"
+  ],
   "highlights": ["Sea turtle breeding program", "Marine aquarium", "Educational exhibits", "Family-friendly"],
   "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
   "seo": { "metaTitle": { "en": "Oasis Sea World - Marine Conservation Chanthaburi | Go2Thailand", "nl": "Oasis Sea World - Marien Behoud Chanthaburi | Go2Thailand" }, "metaDescription": { "en": "Visit Oasis Sea World in Chanthaburi. Sea turtle conservation, marine aquarium, and educational exhibits about Gulf of Thailand marine life.", "nl": "Bezoek Oasis Sea World in Chanthaburi. Zeeschildpadden bescherming, marien aquarium en educatieve tentoonstellingen over het zeeleven in de Golf van Thailand." } },
-  "tags": ["nature", "chanthaburi", "thailand", "attraction", "travel", "tourism"]
+  "tags": ["nature", "chanthaburi", "thailand", "attraction", "travel", "tourism"],
+  "enriched_at": "2026-03-23"
 }

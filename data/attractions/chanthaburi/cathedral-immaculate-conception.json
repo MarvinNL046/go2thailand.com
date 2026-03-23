@@ -4,11 +4,23 @@
   "type": "cultural", "city_slug": "chanthaburi",
   "address": "Rim Nam Chanthaburi Road, Wat Mai, Mueang Chanthaburi, Chanthaburi 22000",
   "location": { "lat": 12.6100, "lng": 102.1070 },
-  "opening_hours": "6:00 AM - 5:00 PM",
+  "opening_hours": "06:00-17:00",
   "entrance_fee": { "thb": 0, "usd": 0 },
-  "description": { "en": "The largest Catholic cathedral in Thailand, built during the French occupation (1893-1905) with elegant French Gothic spires rising above the Chanthaburi River. The interior features beautiful stained glass windows, carved wood, and a cool, soaring nave. The cathedral reflects the long history of Vietnamese Catholic immigration to the area and is still an active place of worship.", "nl": "De grootste katholieke kathedraal van Thailand, gebouwd tijdens de Franse bezetting (1893-1905) met elegante Frans-Gotische spitsen die boven de Chanthaburi rivier uitstijgen. Het interieur heeft prachtige gebrandschilderde ramen, houtsnijwerk en een koel, hoog schip. De kathedraal weerspiegelt de lange geschiedenis van Vietnamese katholieke immigratie naar het gebied en is nog steeds een actieve plek van aanbidding." },
+  "entry_fee": "Free",
+  "visit_duration": "30-60 minutes",
+  "best_time_to_visit": "Weekday mornings for a quiet visit; avoid Sunday mornings when services are held",
+  "description": {
+    "en": "## Overview\n\nThe Cathedral of the Immaculate Conception is the largest Catholic church in Thailand and one of the most architecturally striking religious buildings in Southeast Asia. Its twin French Gothic spires rise dramatically above the Chanthaburi River, creating a silhouette more reminiscent of a European cathedral town than a Thai provincial city. The building is both a functioning parish church and a living monument to over three centuries of Vietnamese Catholic migration to the region.\n\n## History\n\nCatholic missionaries first established a church on this site in 1711 to serve Vietnamese Christians fleeing persecution. The current structure is actually the fifth version of the church, formally inaugurated in 1909 after a decade of construction during the French occupation of Chanthaburi (1893-1905). French engineers designed the neo-Gothic edifice with a central nave, two side aisles, a narthex, and the signature twin spires. The building was extensively restored in the 2000s, bringing the stonework and stained glass back to their original grandeur.\n\n## What to See\n\nThe exterior is impressive, but the interior is where the cathedral truly shines. Beautiful stained-glass windows depict scenes including the French king Saint Louis and Joan of Arc — direct echoes of the French colonial era. The star feature is the statue of the Virgin Mary at the front of the church, adorned with more than 200,000 sapphires donated by local gem traders, creating a dazzling link between Chanthaburi's religious heritage and its famous gemstone industry. The carved wooden ceiling and the cool, soaring nave provide welcome relief from the tropical heat outside. A footbridge from the cathedral grounds leads directly to the Chanthaboon Waterfront Community.\n\n## Practical Info\n\nAdmission is free, though donations are appreciated. The cathedral is open daily from roughly 06:00 to 17:00, but hours may vary around services. Dress modestly — cover shoulders and knees. Parking is available next to the cathedral for 20 THB. Photography is generally permitted but be respectful during worship. Combine your visit with a walk along the adjacent Old Town waterfront, which is connected by a footbridge.",
+    "nl": "De grootste katholieke kathedraal van Thailand, gebouwd tijdens de Franse bezetting (1893-1905) met elegante Frans-Gotische spitsen die boven de Chanthaburi rivier uitstijgen. Het interieur heeft prachtige gebrandschilderde ramen, houtsnijwerk en een koel, hoog schip. De kathedraal weerspiegelt de lange geschiedenis van Vietnamese katholieke immigratie naar het gebied en is nog steeds een actieve plek van aanbidding."
+  },
+  "tips": [
+    "Look for the Virgin Mary statue adorned with over 200,000 sapphires — a unique link to the city's gem trade",
+    "Cross the footbridge behind the cathedral to reach the Chanthaboon Waterfront Community for a combined visit",
+    "Visit on a weekday morning to avoid Sunday service crowds and explore the interior at your own pace"
+  ],
   "highlights": ["French Gothic architecture", "Stained glass windows", "Riverside location", "Largest church in Thailand"],
   "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
   "seo": { "metaTitle": { "en": "Cathedral of the Immaculate Conception - Chanthaburi | Go2Thailand", "nl": "Kathedraal van de Onbevlekte Ontvangenis - Chanthaburi | Go2Thailand" }, "metaDescription": { "en": "Visit the Cathedral of the Immaculate Conception in Chanthaburi. Thailand's largest Catholic church with French Gothic architecture on the riverfront.", "nl": "Bezoek de Kathedraal van de Onbevlekte Ontvangenis in Chanthaburi. Thailand's grootste katholieke kerk met Frans-Gotische architectuur aan de waterkant." } },
-  "tags": ["cultural", "chanthaburi", "thailand", "attraction", "travel", "tourism"]
+  "tags": ["cultural", "chanthaburi", "thailand", "attraction", "travel", "tourism"],
+  "enriched_at": "2026-03-23"
 }

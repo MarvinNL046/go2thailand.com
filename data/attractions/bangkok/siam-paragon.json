@@ -17,10 +17,18 @@
     "thb": 0,
     "usd": 0
   },
+  "entry_fee": "Free (SEA LIFE Aquarium: 590 THB adults / 490 THB children)",
+  "visit_duration": "2-4 hours",
+  "best_time_to_visit": "Weekday afternoons for fewer crowds; evenings for the fountain light show outside the main entrance",
   "description": {
-    "en": "Luxury shopping mall with high-end brands aquarium and cinema",
+    "en": "## Overview\n\nSiam Paragon is one of Southeast Asia's largest and most prestigious shopping malls, anchoring Bangkok's Siam Square shopping district. Spread across multiple floors, it houses over 250 stores ranging from luxury fashion houses like Chanel, Louis Vuitton, and Gucci to mainstream brands, a gourmet food hall, a 15-screen cinema, and — in its basement levels — SEA LIFE Bangkok Ocean World, the biggest aquarium in Southeast Asia.\n\n## History\n\nSiam Paragon opened in December 2005 on the site of the former Siam Intercontinental Hotel. The 500,000-square-meter complex was developed by The Mall Group at a cost of over 15 billion THB, instantly becoming Bangkok's retail flagship. It consistently ranks among the most Instagrammed locations in the world, largely thanks to its striking architecture and the aquarium below.\n\n## What to See\n\nSEA LIFE Bangkok Ocean World occupies floors B1 and B2 and is home to over 30,000 marine creatures across 400 species, displayed in 5 million liters of water. Highlights include a 270-degree glass tunnel, glass-bottom boat rides, a 4D cinema, and shark-diving experiences. Tickets cost 590 THB for adults and 490 THB for children at the door, though online booking often offers discounts. Above ground, the Gourmet Market on the ground floor is one of Bangkok's best food halls — imported cheeses, Japanese wagyu, fresh sushi counters, and a huge Thai street-food section. The Paragon Cineplex on the top floor includes IMAX and 4DX screens.\n\n## Practical Info\n\nSiam Paragon connects directly to BTS Siam station via exit 5 — no outdoor walking required. The mall is open daily from 10:00 to 22:00. Parking is available in the basement with validation from stores. Free WiFi is available throughout. The food court on the ground floor uses a cashless card system (refundable deposit), while restaurants on upper floors accept credit cards.",
     "nl": "Luxe winkelcentrum met high-end merken aquarium en bioscoop"
   },
+  "tips": [
+    "Book SEA LIFE Aquarium tickets online in advance for discounts of up to 30% off the 590 THB walk-in price",
+    "The Gourmet Market on the ground floor is worth visiting even if you do not plan to shop — the prepared food section rivals Bangkok's best restaurants",
+    "Connect directly from BTS Siam station exit 5 to stay air-conditioned the entire way"
+  ],
   "highlights": [
     "Luxury shopping",
     "SEA LIFE Aquarium",
@@ -45,5 +53,6 @@
     "attraction",
     "travel",
     "tourism"
-  ]
+  ],
+  "enriched_at": "2026-03-23"
 }

@@ -4,11 +4,23 @@
   "type": "market", "city_slug": "chanthaburi",
   "address": "Si Chan Road, Wat Mai, Mueang Chanthaburi, Chanthaburi 22000",
   "location": { "lat": 12.6080, "lng": 102.1050 },
-  "opening_hours": "Friday-Sunday 9:00 AM - 5:00 PM",
+  "opening_hours": "Friday-Sunday 09:00-17:00 (weekdays limited shops only)",
   "entrance_fee": { "thb": 0, "usd": 0 },
-  "description": { "en": "Thailand's largest gem trading center, where every weekend dealers from around the world gather on Si Chan Road to trade rubies, sapphires, and semi-precious stones. Gems are displayed on folding tables, examined under loupes, and negotiated in multiple languages. Behind the main trading area, gem cutting and polishing workshops demonstrate centuries-old techniques.", "nl": "Thailand's grootste edelsteenhandelscentrum, waar elke weekend handelaren van over de hele wereld samenkomen op Si Chan Road om robijnen, saffieren en halfedelstenen te verhandelen. Edelstenen worden uitgestald op klaptafels, onderzocht onder loepen en verhandeld in meerdere talen. Achter het hoofdhandelsgebied demonstreren edelsteen-slijp- en polijstwerkplaatsen eeuwenoude technieken." },
+  "entry_fee": "Free",
+  "visit_duration": "1-3 hours",
+  "best_time_to_visit": "Saturday midday when the trading floor is at peak activity with hundreds of international dealers",
+  "description": {
+    "en": "## Overview\n\nThe Chanthaburi Gem Market on Si Chan Road is Thailand's largest gemstone trading center and one of the most important colored-stone markets in the world. Every Friday through Sunday, hundreds of dealers from Thailand, Myanmar, Sri Lanka, Cambodia, and Africa converge on this unassuming street to trade rubies, sapphires, and semi-precious stones worth millions of baht. The atmosphere is fascinatingly low-tech — gems are examined under handheld loupes on folding tables, and deals are sealed with a handshake.\n\n## History\n\nChanthaburi's gem trade dates back centuries to the discovery of ruby and sapphire deposits in the nearby Khao Ploi Waen volcanic crater. While most local mines have been depleted, the trading infrastructure remained, and Chanthaburi evolved into a global hub for the cutting, polishing, and trading of colored gemstones imported from around the world. The city is often called Thailand's \"City of Gems\" — a title reflected in everything from local signage to the gem-studded Virgin Mary statue in the nearby cathedral.\n\n## What to See\n\nThe main action happens in a large indoor hall where around 100 dealers sit at desks, each with scales, calculators, and piles of loose stones. The surrounding streets spill over with additional vendors during peak weekend hours. Behind the main trading area, gem cutting and polishing workshops demonstrate centuries-old techniques — watching a skilled cutter facet a raw sapphire is mesmerizing. Several fixed shops along Si Chan Road display finished jewelry and loose stones with prices marked, making them a good starting point for first-time visitors to understand market pricing before venturing onto the trading floor.\n\n## Practical Info\n\nThe market is free to enter and runs Friday through Sunday from roughly 09:00 to 17:00. Saturday is the busiest and most exciting day. If you plan to buy, bring both cash and a credit card, and consider visiting the fixed-price shops first (Vinny Jewelry at 165 Benchamarachuthis Road is a good reference point). Be aware that bargaining is expected and opening prices can be dramatically inflated — up to 10x the actual value. Many blue sapphires sold here are actually kyanite, so basic gem knowledge or a trusted guide is essential for serious purchases.",
+    "nl": "Thailand's grootste edelsteenhandelscentrum, waar elke weekend handelaren van over de hele wereld samenkomen op Si Chan Road om robijnen, saffieren en halfedelstenen te verhandelen. Edelstenen worden uitgestald op klaptafels, onderzocht onder loepen en verhandeld in meerdere talen. Achter het hoofdhandelsgebied demonstreren edelsteen-slijp- en polijstwerkplaatsen eeuwenoude technieken."
+  },
+  "tips": [
+    "Visit the fixed-price shops along Si Chan Road first to understand baseline pricing before entering the trading floor",
+    "Opening prices from floor dealers can be 10x the actual value — bargain firmly or bring a knowledgeable guide",
+    "Come on Saturday midday for peak activity; weekdays are quiet with only a few permanent shops open"
+  ],
   "highlights": ["Weekend gem trading floor", "Rubies and sapphires", "Gem cutting workshops", "International dealers"],
   "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
   "seo": { "metaTitle": { "en": "Chanthaburi Gem Market - Thailand's Gem Capital | Go2Thailand", "nl": "Chanthaburi Edelsteenmarkt - Thailand's Edelsteen Hoofdstad | Go2Thailand" }, "metaDescription": { "en": "Visit the Chanthaburi Gem Market. Thailand's largest gem trading center with rubies, sapphires, and gem cutting workshops every weekend.", "nl": "Bezoek de Chanthaburi Edelsteenmarkt. Thailand's grootste edelsteenhandelscentrum met robijnen, saffieren en edelsteen-slijpwerkplaatsen elk weekend." } },
-  "tags": ["market", "chanthaburi", "thailand", "attraction", "travel", "tourism"]
+  "tags": ["market", "chanthaburi", "thailand", "attraction", "travel", "tourism"],
+  "enriched_at": "2026-03-23"
 }

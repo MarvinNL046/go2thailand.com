@@ -2,13 +2,25 @@
   "id": 8, "slug": "khitung-waterfall",
   "name": { "en": "Khitung Waterfall", "nl": "Khitung Waterval" },
   "type": "nature", "city_slug": "chanthaburi",
-  "address": "Khitung Waterfall, Makham, Chanthaburi 22150",
+  "address": "Khao Khitchakut National Park, Makham, Chanthaburi 22150",
   "location": { "lat": 12.6800, "lng": 102.2200 },
-  "opening_hours": "8:00 AM - 5:00 PM",
-  "entrance_fee": { "thb": 100, "usd": 3 },
-  "description": { "en": "A stunning jungle waterfall reached via a hiking trail through pristine forest in the hills east of Chanthaburi. Far less visited than the famous Phlio Waterfall, Khitung offers a more adventurous and solitary experience with a natural swimming pool at the base of the cascade surrounded by untouched forest.", "nl": "Een prachtige junglewaterval bereikbaar via een wandelpad door ongerept bos in de heuvels ten oosten van Chanthaburi. Veel minder bezocht dan de beroemde Phlio Waterval, Khitung biedt een avontuurlijkere en eenzamere ervaring met een natuurlijk zwembad aan de voet van de cascade omringd door ongeraakt bos." },
+  "opening_hours": "08:00-17:00",
+  "entrance_fee": { "thb": 200, "usd": 6 },
+  "entry_fee": "200 THB (Khao Khitchakut National Park fee)",
+  "visit_duration": "2-3 hours",
+  "best_time_to_visit": "November to March during the cool dry season when trails are less slippery and humidity is lower",
+  "description": {
+    "en": "## Overview\n\nKhitung Waterfall — also known as Krathing Waterfall — is the largest waterfall in Khao Khitchakut National Park, a 13-level cascade along the Chanthaburi River tumbling through pristine jungle canopy. Far less visited than the nearby Namtok Phlio, Khitung rewards hikers with a more adventurous and solitary experience: natural swimming pools at multiple levels, dense tropical forest, and excellent birdwatching opportunities along the trail.\n\n## History\n\nKhao Khitchakut National Park was established in 1977 to protect 59 square kilometers of tropical forest in the hills northeast of Chanthaburi city. The park is named after the sacred Khao Khitchakut peak, an important Buddhist pilgrimage site. Krathing Waterfall has long been the park's most accessible natural attraction, drawing local families for weekend picnics and increasingly attracting international visitors looking for off-the-beaten-path nature experiences.\n\n## What to See\n\nThe trail to the waterfall is a 1.7-mile (2.7 km) out-and-back route rated moderately challenging, taking roughly 1 hour and 20 minutes round trip. The path winds through dense jungle with rocky terrain, passing through multiple waterfall levels — you can access 8 of the 9 levels without special permission. Each level has its own character, from gentle cascading sheets to deeper plunge pools perfect for swimming. The surrounding forest is home to gibbons, hornbills, and dozens of butterfly species. At the base of the main cascade, a natural swimming pool surrounded by mossy boulders and untouched forest makes an ideal spot to cool off after the hike.\n\n## Practical Info\n\nThe entrance fee is 200 THB for foreigners (part of the Khao Khitchakut National Park admission). The park is open from 08:00 to 17:00. The waterfall is located 32 km northeast of Chanthaburi city — private transport is essential as there is no public transit. Wear sturdy shoes with good grip as the rocky trail and steps can be slippery, especially during or just after rain. Bring water and insect repellent. Swimming is possible at several levels — pack a quick-dry towel. Camping is available in the park with a permit.",
+    "nl": "Een prachtige junglewaterval bereikbaar via een wandelpad door ongerept bos in de heuvels ten oosten van Chanthaburi. Veel minder bezocht dan de beroemde Phlio Waterval, Khitung biedt een avontuurlijkere en eenzamere ervaring met een natuurlijk zwembad aan de voet van de cascade omringd door ongeraakt bos."
+  },
+  "tips": [
+    "Wear sturdy hiking shoes with grip — the rocky trail and waterfall steps are slippery, especially after rain",
+    "Bring a swimsuit and quick-dry towel to cool off in the natural pools at levels 3 and 5",
+    "Start early in the morning for cooler temperatures and the best chance of spotting hornbills and gibbons"
+  ],
   "highlights": ["Jungle hiking trail", "Natural swimming pool", "Less visited than Phlio", "Pristine forest setting"],
   "image": "/images/cities/bangkok/downtown-bangkok.webp", "official_website": "",
   "seo": { "metaTitle": { "en": "Khitung Waterfall - Hidden Jungle Waterfall | Go2Thailand", "nl": "Khitung Waterval - Verborgen Jungle Waterval | Go2Thailand" }, "metaDescription": { "en": "Hike to Khitung Waterfall in Chanthaburi. A hidden jungle waterfall with a natural swimming pool in pristine forest.", "nl": "Wandel naar de Khitung Waterval in Chanthaburi. Een verborgen junglewaterval met een natuurlijk zwembad in ongerept bos." } },
-  "tags": ["nature", "chanthaburi", "thailand", "attraction", "travel", "tourism"]
+  "tags": ["nature", "chanthaburi", "thailand", "attraction", "travel", "tourism"],
+  "enriched_at": "2026-03-23"
 }
