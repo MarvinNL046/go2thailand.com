@@ -7,8 +7,17 @@
   "address": "Hua Hin Beach Road, Hua Hin, Prachuap Khiri Khan",
   "location": { "lat": 12.5706, "lng": 99.9607 },
   "opening_hours": "Open 24 hours",
+  "entry_fee": "Free",
+  "visit_duration": "2–4 hours (or a full day)",
+  "best_time_to_visit": "Early morning for a peaceful walk and sunrise, or late afternoon for horse rides in golden light",
   "entrance_fee": { "thb": 0, "usd": 0 },
-  "description": { "en": "Hua Hin's main beach stretching several kilometers with white sand, horse rides, and beachfront dining", "nl": "Hua Hin's hoofdstrand dat zich kilometers uitstrekt met wit zand, paardritten en dineren aan het strand" },
+  "description": { "en": "## Hua Hin's Iconic 5-Kilometre Beach\n\nHua Hin Beach is the resort town's main attraction and the reason the Thai royal family first chose this coastline as their seaside retreat over a century ago. The wide, sandy beach stretches roughly 5 kilometres from the town centre south to Khao Takiap (Chopstick Mountain), offering a mix of relaxation, water sports, and beachfront dining along its length.\n\n## Horse Riding on the Sand\n\nHua Hin is one of the few places in Thailand where you can ride a horse along the beach. About 60 horses are available daily, with most gathered near the main beach entrance close to the Sofitel Hotel. A 20-minute ride costs around 400 THB, 30 minutes is 500 THB, and a full hour runs about 1,000 THB. It is a quintessential Hua Hin experience and makes for unforgettable photos, especially at sunset.\n\n## Beach Activities\n\nBeyond horse riding, the beach offers kitesurfing (particularly popular from March to May when winds pick up), kayaking, jet skiing, and swimming. Sun loungers with umbrellas can be rented from beachfront vendors for around 100–200 THB per set. The southern end near Khao Takiap is quieter and ideal for those seeking a more peaceful stretch of sand.\n\n## Beachfront Dining\n\nDozens of restaurants and bars line the shore, ranging from simple seafood shacks serving grilled prawns and cold beer to upscale hotel restaurants. Watching the sunset with fresh seafood and a coconut shake in hand is the classic Hua Hin evening experience.\n\n## Getting There\n\nThe beach runs parallel to the town centre and is accessible from multiple sois (side streets) off Phetkasem Road. Most hotels in Hua Hin are within walking distance.", "nl": "Hua Hin's hoofdstrand dat zich kilometers uitstrekt met wit zand, paardritten en dineren aan het strand" },
+  "tips": [
+    "Negotiate horse riding prices before mounting — agree on the duration and route in advance",
+    "The northern end near the Hilton is best for swimming with calmer water and lifeguards on duty",
+    "Bring sunscreen and reapply frequently — the sea breeze disguises how strong the sun actually is"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": ["Long sandy beach", "Horse riding on the sand", "Beachfront restaurants", "Sunrise views"],
   "image": "/images/cities/phuket/phuket-old-town.webp",
   "official_website": null,

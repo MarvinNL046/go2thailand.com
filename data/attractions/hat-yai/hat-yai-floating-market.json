@@ -12,15 +12,24 @@
     "lat": 6.9833,
     "lng": 100.4833
   },
-  "opening_hours": "16:00-21:00",
+  "opening_hours": "Fri 15:00–20:00, Sat–Sun 14:00–20:00 (closed Mon–Thu)",
+  "entry_fee": "Free admission (parking 30 THB)",
+  "visit_duration": "1.5–2 hours",
+  "best_time_to_visit": "Late afternoon on a Saturday for the liveliest atmosphere and golden-hour photos",
   "entrance_fee": {
     "thb": 0,
     "usd": 0
   },
   "description": {
-    "en": "Evening floating market with local food boat rides and cultural performances",
+    "en": "## Southern Thailand's Only Floating Market\n\nKhlong Hae Floating Market is the only authentic floating market in Southern Thailand, making it a unique cultural experience you will not find elsewhere south of Bangkok. Located along a peaceful canal in the Khlong Hae community about 6 kilometres northwest of Hat Yai city centre, the market comes alive every Friday, Saturday, and Sunday afternoon.\n\n## What to Expect\n\nVendors paddle traditional wooden boats along the canal, selling freshly prepared Southern Thai dishes served in eco-friendly coconut-shell bowls. Popular items include khao yam (Southern rice salad), roti with curry, grilled seafood skewers, and sweet treats like khanom krok. Prices are very affordable, with most dishes costing between 30 and 80 THB.\n\nBeyond the food boats, the canal banks are lined with additional stalls offering handicrafts, local snacks, and souvenirs. A small stage near the entrance hosts traditional cultural performances, including Manora dance shows and live Southern Thai music on weekend evenings.\n\n## Boat Rides\n\nFor 20 THB per person you can take a short boat ride along the canal, passing by the floating vendors and lush tropical vegetation. It is a relaxing way to see the market from the water and makes for excellent photos.\n\n## Getting There\n\nThe market is about a 15-minute drive from central Hat Yai. Songthaew (shared pickup trucks) run from the city centre, or you can grab a tuk-tuk for around 100–150 THB. Parking is available on-site for 30 THB.",
     "nl": "Avond drijvende markt met lokaal eten boottochten en culturele optredens"
   },
+  "tips": [
+    "Go on Friday for the same experience with smaller crowds than Saturday or Sunday",
+    "Bring cash in small denominations — most vendors do not accept cards or QR payments",
+    "Wear comfortable shoes as paths along the canal can be muddy after rain"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": [
     "Evening market",
     "Boat rides",

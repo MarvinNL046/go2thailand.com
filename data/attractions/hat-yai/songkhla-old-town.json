@@ -12,15 +12,24 @@
     "lat": 7.2,
     "lng": 100.6
   },
-  "opening_hours": "24/7",
+  "opening_hours": "Outdoor streets accessible 24/7; museums typically 09:00–16:30 (closed Mon)",
+  "entry_fee": "Free to explore streets; Songkhla National Museum 150 THB foreigners, 30 THB Thais",
+  "visit_duration": "3–4 hours",
+  "best_time_to_visit": "Early morning or late afternoon for cooler walking weather and better light for street art photos",
   "entrance_fee": {
     "thb": 0,
     "usd": 0
   },
   "description": {
-    "en": "Historic town with Sino-Portuguese architecture museums and cultural sites",
+    "en": "## A Living Museum of Southern Thai Heritage\n\nSongkhla Old Town is a beautifully preserved historic quarter about 30 kilometres east of Hat Yai, sitting on a narrow peninsula between the Gulf of Thailand and Songkhla Lake. Its narrow lanes are lined with Sino-Portuguese shophouses, Chinese shrines, and colonial-era merchants' warehouses that date back to the early 19th century.\n\n## Architecture and Street Art\n\nThe architectural highlight is the blend of Far Eastern and Western styles. Walking along Nakhon Nok, Nakhon Nai, and Nang Ngam Roads you will discover colourful Sino-Portuguese facades, ornate Chinese clan houses, and weathered wooden shopfronts. In recent years the neighbourhood has become famous for its vibrant street art — ceramic wall installations, large-scale murals depicting local fishing life, and quirky painted doorways transform the old walls into an open-air gallery.\n\n## Museums and Cultural Sites\n\nThe Songkhla National Museum occupies a grand Sino-Portuguese building and houses artefacts tracing the region's maritime trading history. Nearby, the Hub Ho Hin Red Rice Mill is a former rice factory converted into a cultural exhibition space. The Nakhon Nai Museum, set in a colonial-style house, showcases everyday life in old Songkhla. The Old Town Gate marks the historic entrance to the once-walled city and is a popular photo stop.\n\n## Cafes and Local Food\n\nNumerous charming cafes have opened inside restored shophouses, offering excellent coffee and air-conditioned respite. Try Cafe Der See for lakeside views, or stop at a street-side noodle shop for a bowl of kanom jeen (rice noodles with spicy fish curry), a Songkhla speciality.\n\n## Getting There\n\nFrom Hat Yai, take a minivan from the city centre (40 THB, 40 minutes) or hire a private car for about 400 THB one way.",
     "nl": "Historische stad met Sino-Portugese architectuur musea en culturele locaties"
   },
+  "tips": [
+    "Rent a bicycle to cover more ground — several guesthouses and cafes in the old town offer rentals for 50–100 THB per day",
+    "Combine with a visit to Samila Beach (5 minutes away) to see the famous golden mermaid statue",
+    "Wear comfortable walking shoes as the streets are paved with old cobblestones"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": [
     "Sino-Portuguese architecture",
     "Historic buildings",

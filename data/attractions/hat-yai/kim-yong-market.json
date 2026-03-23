@@ -12,15 +12,24 @@
     "lat": 7.0086,
     "lng": 100.4747
   },
-  "opening_hours": "06:00-18:00",
+  "opening_hours": "06:00–18:00 daily (most shops open by 09:00)",
+  "entry_fee": "Free",
+  "visit_duration": "1–2 hours",
+  "best_time_to_visit": "Morning between 09:00 and 11:00 when all stalls are open and the market is at its busiest",
   "entrance_fee": {
     "thb": 0,
     "usd": 0
   },
   "description": {
-    "en": "Historic covered market famous for local products dried seafood and traditional goods",
+    "en": "## Hat Yai's Largest and Oldest Market\n\nKim Yong Market has been the commercial heartbeat of Hat Yai for over 50 years. Covering an area roughly the size of a football field, this sprawling covered market is the biggest in the city and a must-visit for anyone who wants to experience local Southern Thai trading culture up close.\n\n## What to Buy\n\nThe ground floor is where most of the action happens. Stalls are packed with dried seafood including scallops, clams, and shrimp, along with bags of dried tropical fruits like mango, durian, and jackfruit. You will also find locally roasted coffee blends, cashew nuts, pistachios, and Thai snack packs — all at prices well below what you would pay in Bangkok or tourist areas.\n\nTextile lovers will enjoy browsing the traditional Thai silk and cotton fabrics, which are sold at a fraction of Bangkok prices. Handwoven baskets, wood carvings, and Southern Thai handicrafts make excellent souvenirs. The upper floor focuses on electronics, clothing, toys, and imported goods from neighbouring Malaysia and Singapore.\n\n## Food Stalls\n\nScattered throughout the market are food vendors serving classic Southern Thai dishes. Try a plate of khao mok gai (Thai chicken biryani, a Hat Yai speciality), fresh roti with curry, or a bowl of spicy fish-stomach soup. Most dishes cost between 40 and 80 THB.\n\n## Getting There\n\nKim Yong Market sits on Kim Yong Road in the heart of Hat Yai, within easy walking distance of the railway station and most downtown hotels.",
     "nl": "Historische overdekte markt beroemd om lokale producten gedroogde zeevruchten en traditionele goederen"
   },
+  "tips": [
+    "Bargaining is expected — start at about 70 percent of the asking price for non-food items",
+    "The dried seafood and fruit packs make great lightweight souvenirs to bring home",
+    "Arrive before 10:00 on a weekday to avoid the biggest crowds"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": [
     "Historic market",
     "Dried seafood",

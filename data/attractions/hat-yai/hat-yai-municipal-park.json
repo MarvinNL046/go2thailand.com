@@ -12,15 +12,24 @@
     "lat": 7.0167,
     "lng": 100.4833
   },
-  "opening_hours": "06:00-18:00",
+  "opening_hours": "09:00–20:00 daily",
+  "entry_fee": "Park entrance 20 THB, cable car 50 THB",
+  "visit_duration": "2–3 hours",
+  "best_time_to_visit": "Late afternoon for cooler temperatures and sunset views from the hilltop",
   "entrance_fee": {
-    "thb": 0,
-    "usd": 0
+    "thb": 20,
+    "usd": 1
   },
   "description": {
-    "en": "City park with cable car golden Buddha statue and panoramic city views",
+    "en": "## Hat Yai's Green Heart on Kho Hong Hill\n\nHat Yai Municipal Park is the largest public park in the city, built around the slopes of Kho Hong Mountain. It serves as a recreational hub for locals and a convenient half-day attraction for visitors, combining nature, culture, and panoramic city views in one location.\n\n## Cable Car Ride\n\nThe park's cable car carries you on a scenic 10-minute ride to the summit of Kho Hong Mountain. At just 50 THB per person it is one of the best value experiences in Hat Yai. Along the way you will pass over lush tropical canopy, and the ride ends near the Thao Maha Phrom shrine featuring a large Four-Faced Brahma statue.\n\n## Golden Standing Buddha\n\nThe park's centrepiece is Phra Phutthamongkol Maharat, a striking 25-metre-tall golden standing Buddha that can be seen from various points around the city. The viewing platform at the base of the statue offers sweeping panoramic views of Hat Yai's skyline and the surrounding countryside — a perfect spot for photos, especially during golden hour.\n\n## Park Grounds\n\nAt ground level the park has well-maintained walking and jogging paths, flower gardens, a small lake, and shaded picnic areas. Early mornings see Thai locals practising tai chi and aerobics, while evenings bring food vendors setting up along the pathways. The Ice Dome attraction is also located within the park grounds.\n\n## Getting There\n\nThe park is on Kanchanawanit Road, about 3 kilometres from the city centre. A tuk-tuk ride from downtown Hat Yai costs around 60–80 THB.",
     "nl": "Stadspark met kabelbaan gouden Boeddhabeeld en panoramisch uitzicht over de stad"
   },
+  "tips": [
+    "Take the cable car up and walk back down through the forest trail for the best of both experiences",
+    "Combine with the Ice Dome for a full half-day outing within the same park",
+    "Bring water and mosquito repellent — the hillside trails can be humid and buggy"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": [
     "Cable car",
     "Golden Buddha",

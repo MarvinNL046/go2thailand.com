@@ -12,15 +12,24 @@
     "lat": 7.0167,
     "lng": 100.4667
   },
-  "opening_hours": "06:00-18:00",
+  "opening_hours": "08:00–17:00 daily",
+  "entry_fee": "Free",
+  "visit_duration": "45 minutes – 1 hour",
+  "best_time_to_visit": "Morning for cooler temperatures and a quieter experience before tour groups arrive",
   "entrance_fee": {
     "thb": 0,
     "usd": 0
   },
   "description": {
-    "en": "Temple famous for massive 35-meter long reclining Buddha statue",
+    "en": "## Home of the Third-Largest Reclining Buddha in the World\n\nWat Hat Yai Nai, officially known as Wat Mahattamangkalaram, is the most important Buddhist temple in Hat Yai and home to Phra Phuttha Hattha Mongkhon — a 35-metre-long reclining Buddha that ranks as the third largest of its kind in the world. The sheer scale of the golden statue, housed beneath an enormous pavilion, makes it a truly awe-inspiring sight.\n\n## The Reclining Buddha\n\nThe statue depicts the Buddha in the reclining posture representing his entry into Nirvana. It stretches 35 metres from head to toe and rises about 15 metres high, filling nearly the entire length of the main hall. The surface is covered in gold leaf, and the serene facial expression is visible from almost any angle inside the building. You can walk around the full perimeter of the statue and even enter a small chamber inside the base.\n\n## Temple Grounds\n\nBeyond the main hall, the temple compound includes smaller shrines, a Chinese-style pagoda, and beautifully maintained tropical gardens. Monks and novices can often be seen going about their daily routines, giving you a genuine glimpse into Thai Buddhist monastic life. A small donation box at the entrance supports the temple's upkeep.\n\n## Cultural Significance\n\nThe temple is not just a tourist attraction — it is an active place of worship for Hat Yai's Thai and Chinese-Thai community. During Buddhist holidays and Songkran, the grounds fill with worshippers making offerings and merit. Visitors are welcome but should dress respectfully with covered shoulders and knees.\n\n## Getting There\n\nWat Hat Yai Nai is located on Phetkasem Road near Khlong U Taphao Bridge, about 2 kilometres from the city centre. A tuk-tuk from downtown costs 40–60 THB.",
     "nl": "Tempel beroemd om massaal 35 meter lang liggend Boeddhabeeld"
   },
+  "tips": [
+    "Dress modestly — cover shoulders and knees or borrow a sarong at the entrance",
+    "Remove your shoes before entering the main hall housing the reclining Buddha",
+    "Visit early morning to watch monks collecting alms outside the temple gates"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": [
     "35m reclining Buddha",
     "Massive statue",

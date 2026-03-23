@@ -12,15 +12,24 @@
     "lat": 7.0167,
     "lng": 100.4833
   },
-  "opening_hours": "10:00-21:00",
+  "opening_hours": "09:00–17:00 daily",
+  "entry_fee": "300 THB adults (foreigners), 200 THB Thai adults, 150/100 THB children, free for seniors 70+ and disabled visitors",
+  "visit_duration": "45 minutes – 1 hour",
+  "best_time_to_visit": "Early afternoon to escape the midday heat outside",
   "entrance_fee": {
-    "thb": 200,
-    "usd": 6
+    "thb": 300,
+    "usd": 9
   },
   "description": {
-    "en": "Indoor ice attraction with sculptures slides and sub-zero temperatures",
+    "en": "## A Frozen Escape in Tropical Thailand\n\nHat Yai Ice Dome is an indoor ice sculpture exhibition located inside Hat Yai Municipal Park, offering a surreal contrast to the tropical heat outside. The temperature inside the dome is maintained at roughly minus 15 degrees Celsius, making it one of the coolest spots — quite literally — in all of Southern Thailand.\n\n## What Is Inside\n\nThe attraction features a collection of intricately carved ice sculptures illuminated by colourful LED lighting. You will walk through themed corridors showcasing animals, Thai temples, and fantasy scenes, all chiselled from large blocks of clear ice. There are also ice slides that both children and adults can enjoy, adding a fun and playful element to the visit.\n\nWinter jackets and boots are provided with your ticket, so you do not need to bring your own cold-weather gear. The staff will fit you with a warm coat before you enter the freezing chamber.\n\n## Good to Know\n\nThe dome is compact enough to explore thoroughly within about 45 minutes. Photography is allowed and encouraged — the coloured lights reflecting through the ice sculptures make for impressive photos. Because of the extreme cold, visitors with respiratory conditions should take care.\n\n## Getting There\n\nThe Ice Dome sits within Hat Yai Municipal Park on Kanchanawanit Road, easily reachable by tuk-tuk or songthaew from anywhere in central Hat Yai. Combine your visit with the park's cable car and golden Buddha statue to make a full half-day outing.",
     "nl": "Indoor ijs attractie met sculpturen glijbanen en temperaturen onder nul"
   },
+  "tips": [
+    "Wear long trousers and closed shoes for comfort — the provided jackets cover your upper body only",
+    "Visit right after lunch to combine with the cable car and Buddha statue in the same park",
+    "Keep your phone warm in a pocket between shots as cold temperatures drain batteries fast"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": [
     "Ice sculptures",
     "Indoor attraction",

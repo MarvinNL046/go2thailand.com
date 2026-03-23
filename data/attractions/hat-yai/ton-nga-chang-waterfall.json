@@ -12,15 +12,24 @@
     "lat": 6.9167,
     "lng": 100.1667
   },
-  "opening_hours": "08:00-17:00",
+  "opening_hours": "09:00–16:00 daily",
+  "entry_fee": "200 THB foreigners, 100 THB children; Thai nationals 40 THB adults, 20 THB children",
+  "visit_duration": "3–5 hours (half-day trip from Hat Yai)",
+  "best_time_to_visit": "November to February during the cool dry season when water levels are good and trails are less slippery",
   "entrance_fee": {
     "thb": 200,
     "usd": 6
   },
   "description": {
-    "en": "Seven-tiered waterfall in wildlife sanctuary perfect for nature lovers",
+    "en": "## Seven Tiers Named After Elephant Tusks\n\nTon Nga Chang Waterfall is the crown jewel of the Ton Nga Chang Wildlife Sanctuary, located about 34 kilometres west of Hat Yai city centre. The name translates to 'Elephant Tusk Waterfall' because at the spectacular third tier the stream splits into two parallel cascades that resemble a pair of ivory tusks. It is the most famous waterfall in Songkhla Province and one of the top natural attractions in all of Southern Thailand.\n\n## The Seven Tiers\n\nEach of the seven tiers has its own character and name. Starting from the bottom: Ton Ba, Ton Pliew, Ton Nga Chang (the iconic split cascade and the most photographed level), Ton Dam, Ton Nam Ploi, Ton Rue Si Koi Bo, and Ton Med Chun at the top. The lower tiers are easily accessible and feature natural swimming pools where you can cool off. The upper tiers require progressively more challenging hiking through dense rainforest.\n\n## Hiking the Trail\n\nThe trail from the park entrance to the third tier takes roughly 30 to 45 minutes over a well-marked path. Continuing to the seventh tier adds another 2 to 3 hours of more strenuous climbing over rocks and tree roots. The surrounding wildlife sanctuary is home to over 200 bird species, gibbons, and various reptiles, so keep your eyes and ears open.\n\n## Practical Information\n\nThe park closes the gate at 16:00, so plan to arrive before 13:00 if you want time to explore the upper tiers. Changing facilities and basic food stalls are available near the entrance. The road from Hat Yai is well paved and the drive takes about 40 minutes by car or motorbike.",
     "nl": "Zeven-traps waterval in wildreservaat perfect voor natuurliefhebbers"
   },
+  "tips": [
+    "Wear sturdy shoes with grip — the limestone rocks between tiers are very slippery when wet",
+    "Bring a dry bag for your phone and camera if you plan to swim in the natural pools",
+    "Arrive before 13:00 to have enough time to reach the upper tiers before the park closes"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": [
     "Seven-tiered waterfall",
     "Wildlife sanctuary",

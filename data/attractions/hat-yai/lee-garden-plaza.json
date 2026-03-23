@@ -12,15 +12,24 @@
     "lat": 7.0086,
     "lng": 100.4747
   },
-  "opening_hours": "10:00-21:00",
+  "opening_hours": "10:00–21:00 daily",
+  "entry_fee": "Free",
+  "visit_duration": "1–2 hours",
+  "best_time_to_visit": "Late afternoon so you can combine indoor shopping with the evening night market outside",
   "entrance_fee": {
     "thb": 0,
     "usd": 0
   },
   "description": {
-    "en": "Popular shopping center with local and international brands and food court",
+    "en": "## A Hat Yai Landmark Since the 1990s\n\nLee Garden Plaza is one of Hat Yai's original landmark shopping destinations, located right in the heart of the city on Thamnoonvithi Road. Before the arrival of Central Festival in 2013, Lee Garden was the undisputed centre of retail and tourism in town. Today it remains a convenient and air-conditioned spot for shopping, dining, and people-watching.\n\n## Shopping\n\nThe mall spans several floors offering a mix of local and international brands. The ground level features fashion boutiques, cosmetics counters, and accessories shops, while upper floors carry electronics, homeware, and imported goods. Prices tend to be lower than in Bangkok malls, and you can find good deals on local textiles, handmade crafts, and trendy Thai fashion.\n\n## Dining and Coffee\n\nThe lower ground floor houses a food court serving affordable Thai dishes, with most meals costing between 40 and 80 THB. A Cafe Amazon on the first floor provides a comfortable spot for a coffee break after shopping. For more variety, head to the second floor where you will find small restaurants offering Southern Thai, Chinese, and Western food.\n\n## Night Market Outside\n\nAfter 17:00 a bustling night market sets up along the street outside the plaza. Vendors sell local street food, fresh fruit, grilled meats, and snacks at bargain prices. Live music sometimes plays in the open-air pavilion area, creating a festive evening atmosphere.\n\n## Getting There\n\nLee Garden Plaza is centrally located and walkable from most downtown hotels. It sits about 500 metres from the Hat Yai railway station, making it an easy stop between sightseeing trips.",
     "nl": "Populair winkelcentrum met lokale en internationale merken en food court"
   },
+  "tips": [
+    "Visit after 17:00 to enjoy both the air-conditioned mall and the night market outside in one trip",
+    "The food court uses a prepaid card system — buy one at the counter and refund unused credit when you leave",
+    "If you prefer modern malls with big-brand stores, head to Central Festival instead"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": [
     "Shopping center",
     "Local brands",
