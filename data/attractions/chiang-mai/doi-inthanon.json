@@ -12,15 +12,24 @@
     "lat": 18.5886,
     "lng": 98.4867
   },
-  "opening_hours": "06:00-18:00",
+  "opening_hours": "05:30-18:30",
   "entrance_fee": {
     "thb": 300,
     "usd": 9
   },
   "description": {
-    "en": "Thailand's highest peak with waterfalls twin pagodas and cool climate",
+    "en": "## Overview\n\nDoi Inthanon National Park is home to the highest peak in Thailand, standing at 2,565 meters above sea level. Located about 70 kilometers southwest of Chiang Mai, the park covers over 480 square kilometers of misty mountain forests, thundering waterfalls, and remote hill-tribe villages. Temperatures at the summit can drop to just 5 degrees Celsius, a striking contrast to the tropical heat of the lowlands and a welcome escape for visitors craving cooler weather.\n\n## History\n\nThe mountain was originally known as Doi Luang, meaning \"Great Mountain,\" and was renamed in honor of King Inthawichayanon, one of the last kings of the Lanna Kingdom, who championed the conservation of northern Thailand's forests. His remains are enshrined in a small stupa near the summit. The park was officially established as a national park in 1972 and has since become one of the most visited protected areas in the country.\n\n## What to See\n\nThe Twin Royal Pagodas, Naphamethinidon and Naphaphonphumisiri, were built to honor King Bhumibol and Queen Sirikit. They sit near the summit surrounded by manicured gardens with sweeping views of the valley below. The park boasts several impressive waterfalls, including Wachirathan Falls and Mae Klang Falls, both easily accessible from the main road. The Kew Mae Pan Nature Trail is a 2.5-kilometer loop through cloud forest and offers breathtaking panoramic views, though it closes from June to October for forest recovery. Birdwatchers will find Doi Inthanon a paradise, with over 380 recorded species including rare montane endemics.\n\n## Practical Info\n\nThe park is open daily from 5:30 AM to 6:30 PM. Admission is 300 THB for foreign adults and 150 THB for children. There is an additional vehicle fee of 30 THB for cars. Bring warm layers regardless of season, as summit temperatures are dramatically cooler than Chiang Mai city. The best time to visit is from November to February when skies are clearest and the cool-season flowers are in bloom. A full day trip allows time to cover the summit, pagodas, waterfalls, and a nature trail.",
     "nl": "Thailand's hoogste piek met watervallen twin pagoda's en koel klimaat"
   },
+  "entry_fee": "300 THB (adults), 150 THB (children), +30 THB for cars",
+  "visit_duration": "Full day (5-7 hours)",
+  "best_time_to_visit": "November to February for cool weather and clear skies",
+  "tips": [
+    "Bring warm clothing as summit temperatures can drop to 5 degrees Celsius",
+    "The Kew Mae Pan Trail closes June to October so plan accordingly",
+    "Start early to avoid afternoon clouds and catch sunrise at the summit"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": [
     "Highest peak",
     "Twin pagodas",

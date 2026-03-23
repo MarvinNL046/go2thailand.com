@@ -12,15 +12,24 @@
     "lat": 18.7825,
     "lng": 98.9889
   },
-  "opening_hours": "17:00-23:00",
+  "opening_hours": "16:00-24:00 (Saturdays only)",
   "entrance_fee": {
     "thb": 0,
     "usd": 0
   },
   "description": {
-    "en": "Local walking street market known for silver handicrafts and authentic atmosphere",
+    "en": "## Overview\n\nThe Saturday Night Market, also known as Wua Lai Walking Street, transforms a one-kilometer stretch of Wua Lai Road into a vibrant pedestrian market every Saturday evening. Located just south of the Old City walls near Chiang Mai Gate, it offers a more relaxed and authentically local alternative to the larger Sunday market. The street has deep roots in Chiang Mai's silver-crafting tradition, and that heritage is on full display in the stalls that line both sides of the road.\n\n## History\n\nWua Lai Road has been the center of Chiang Mai's silver-smithing community for generations. The Lanna Kingdom was renowned for its skilled silversmiths, and the artisans of Wua Lai carried that tradition forward through the centuries. The walking street market was established to showcase these local crafts and give the neighborhood's artisans a regular venue to sell directly to visitors. Over time it has grown into one of the most popular weekly markets in the city.\n\n## What to See\n\nThe market is best known for high-quality silver jewelry and lacquerware, but you will also find handwoven textiles, wooden carvings, handmade lanterns, traditional Thai artwork, and creative eco-friendly souvenirs. A special highlight along the route is Wat Sri Suphan, the Silver Temple, whose exterior is covered entirely in intricate silver carvings and is particularly stunning when illuminated at night. Street food is abundant, with local favorites including fried dumplings, banana roti, tornado chips, grilled sausages, and tropical fruit smoothies, most priced between 20 and 60 THB.\n\n## Practical Info\n\nThe market runs every Saturday from around 4:00 PM to midnight, though most stalls are fully set up by 5:00 PM. Entry is free. Since the road closes to traffic, the easiest approach is to get dropped off near Chiang Mai Gate and walk south along Wua Lai Road. Allow 1 to 2 hours to stroll the full length, more if you stop frequently to eat and shop. Bring cash as most vendors do not accept cards. Arriving between 5:00 and 6:00 PM lets you beat the peak crowds that build up from 7:00 PM onward.",
     "nl": "Lokale wandelmarkt bekend om zilveren handwerk en authentieke sfeer"
   },
+  "entry_fee": "Free",
+  "visit_duration": "1.5-2.5 hours",
+  "best_time_to_visit": "Arrive between 5-6 PM to beat the peak crowds",
+  "tips": [
+    "Visit Wat Sri Suphan (Silver Temple) along the route for a stunning illuminated experience",
+    "Bring cash in small bills as most vendors do not accept cards",
+    "This market is less crowded than the Sunday market and feels more authentically local"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": [
     "Silver handicrafts",
     "Local atmosphere",

@@ -12,15 +12,24 @@
     "lat": 18.7883,
     "lng": 98.9853
   },
-  "opening_hours": "17:00-23:00",
+  "opening_hours": "16:00-24:00 (Sundays only)",
   "entrance_fee": {
     "thb": 0,
     "usd": 0
   },
   "description": {
-    "en": "Famous walking street market with local handicrafts food and live music",
+    "en": "## Overview\n\nThe Sunday Night Market, or Ratchadamnoen Walking Street, is the largest and most famous weekly market in Chiang Mai. Every Sunday evening, Ratchadamnoen Road inside the Old City transforms into a pedestrian-only paradise stretching roughly one kilometer from Tha Phae Gate to Wat Phra Singh. Thousands of visitors fill the street to browse handmade crafts, feast on northern Thai street food, and enjoy live music echoing off the ancient temple walls.\n\n## History\n\nThe Sunday Walking Street was launched in the early 2000s as an initiative to support local artisans and preserve traditional Lanna crafts. Unlike many Thai night markets that stock mass-produced goods, this market has maintained a strong emphasis on handmade, locally produced items. The decision to hold it on Ratchadamnoen Road, the historic main avenue of the Old City, was deliberate, linking Chiang Mai's crafts heritage with its architectural heritage in one memorable experience.\n\n## What to See\n\nThe market stands out for the quality of its handmade goods. Expect creative eco-friendly souvenirs, hand-printed T-shirts, Thai silk scarves, straw bags, handmade jewelry, carved wooden figures, and traditional Lanna artwork. Street food is a major draw, with local specialties like Khao Soi, Sai Ua (Chiang Mai sausage), Som Tam, and mango sticky rice available from 20 to 50 THB per dish. Side streets branching off Ratchadamnoen open into temple courtyards that host additional food vendors and performance stages with traditional Thai music and dance.\n\n## Practical Info\n\nThe market runs every Sunday from around 4:00 PM until midnight and is free to enter. Peak crowds fill the street from 7:00 to 10:00 PM, so arrive by 4:30 or 5:00 PM for a more comfortable experience. Bring cash in small denominations as most vendors do not accept cards. Note that alcohol is not permitted on Ratchadamnoen Road during the market, with fines up to 10,000 THB for violations. Nearby restaurants and bars are the place to grab a drink instead. The closest landmark for taxi drop-off is Tha Phae Gate on the eastern end.",
     "nl": "Beroemde wandelmarkt met lokale handwerk eten en live muziek"
   },
+  "entry_fee": "Free",
+  "visit_duration": "2-3 hours",
+  "best_time_to_visit": "Arrive by 4:30-5:00 PM to avoid peak crowds from 7-10 PM",
+  "tips": [
+    "No alcohol is allowed on the street during the market with fines up to 10,000 THB",
+    "Enter from Tha Phae Gate and work your way toward Wat Phra Singh",
+    "Explore the side streets and temple courtyards for extra food stalls and live performances"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": [
     "Walking street",
     "Local handicrafts",

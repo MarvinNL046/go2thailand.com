@@ -12,15 +12,24 @@
     "lat": 20.3167,
     "lng": 99.8333
   },
-  "opening_hours": "08:30-17:30",
+  "opening_hours": "07:00-17:30",
   "entrance_fee": {
     "thb": 90,
     "usd": 3
   },
   "description": {
-    "en": "Former residence of Princess Mother with beautiful gardens and mountain views",
+    "en": "## Overview\n\nDoi Tung Royal Villa is the former mountain residence of the Princess Mother, Srinagarindra, grandmother of the current Thai king. Set at an elevation of around 1,200 meters on the slopes of Doi Tung in Chiang Rai's Mae Fa Luang district, the villa is surrounded by beautifully landscaped gardens, cool misty air, and panoramic mountain views. The site is part of the larger Doi Tung Development Project, a royally initiated program that transformed this once opium-growing region into a model of sustainable highland agriculture.\n\n## History\n\nThe Princess Mother chose this remote mountainside as her residence in 1987, after decades of traveling across Thailand to improve healthcare and education in the country's poorest communities. She lived at the villa until her passing in 1995. During her time on Doi Tung she spearheaded reforestation efforts, established coffee and macadamia plantations to replace opium poppy cultivation, and supported the hill-tribe communities with vocational training. Today the villa and its surrounding projects stand as a monument to her lifelong dedication to rural development.\n\n## What to See\n\nThe Royal Villa itself is a blend of Lanna and Swiss chalet architecture, with wooden interiors filled with the Princess Mother's personal belongings, photographs, and artwork. The adjacent Mae Fah Luang Garden is a stunning 32-acre landscape garden featuring seasonal flowers, slipper orchids, ferns, and large trees planted along the hillside. It is at its most beautiful in December and January when cool-season blooms are at their peak. For adventurous visitors, the Doi Tung Tree Top Walk offers a 150 THB skywalk above the forest canopy with sweeping views of the mountains and valleys below.\n\n## Practical Info\n\nThe villa is open daily from 7:00 AM to 5:30 PM and costs 90 THB for adults. The Mae Fah Luang Garden charges a separate 90 THB entrance. A combined ticket covering the villa, garden, Hall of Inspiration, and arboretum is available for 220 THB and offers the best value. Doi Tung is about 60 kilometers north of Chiang Rai city and requires your own transport or a tour, as there is no regular public bus service. The mountain roads are winding but well paved. Bring a light jacket as temperatures at this elevation are noticeably cooler than in the city below.",
     "nl": "Voormalige residentie van Prinses Moeder met prachtige tuinen en bergzicht"
   },
+  "entry_fee": "90 THB (villa), 90 THB (garden), 220 THB combined ticket",
+  "visit_duration": "2-3 hours",
+  "best_time_to_visit": "December to January for peak garden blooms; mornings for clear mountain views",
+  "tips": [
+    "Buy the 220 THB combined ticket for villa garden arboretum and Hall of Inspiration",
+    "Bring a light jacket as the elevation makes it noticeably cooler than Chiang Rai city",
+    "Try the Doi Tung coffee at the on-site cafe grown as part of the crop-substitution program"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": [
     "Royal residence",
     "Mountain views",
