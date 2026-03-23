@@ -7,9 +7,18 @@
   "opening_hours": "8:00 AM - 5:00 PM",
   "entrance_fee": { "thb": 200, "usd": 6 },
   "description": {
-    "en": "A marine national park encompassing several offshore islands with vibrant coral reefs, clear water, and diverse marine life. Popular for diving and snorkeling day trips from Thung Wua Laen Beach. The islands include Koh Ngam Yai, Koh Ngam Noi, and Koh Lak Raet, each with excellent underwater visibility.",
+    "en": "## Overview\n\nMu Ko Chumphon National Park is a marine national park encompassing over 40 islands scattered across the Gulf of Thailand off the coast of Chumphon province. Established in 1999, the park protects some of the healthiest coral reef systems in the Gulf, with crystal-clear waters that offer outstanding visibility for both snorkeling and scuba diving. Most visitors access the park on day trips departing from Thung Wua Laen Beach or from piers near Chumphon town.\n\n## Islands and Diving\n\nThe star attractions are the twin islands of Koh Ngam Yai and Koh Ngam Noi, which feature dramatic underwater rock formations draped in soft corals and teeming with tropical fish. Koh Lak Ngam hosts Thailand's first underwater scuba diving nature trail, while Koh Matra and Koh Ngam Yai each have designated snorkeling nature trails suitable for beginners. Other notable islands include Koh Thonglang, Koh Rangkajiu, and Koh Lawa, each offering distinct underwater landscapes. Whale sharks are occasionally spotted between March and May in deeper waters around the outer islands.\n\n## Tour Options and Costs\n\nSnorkeling day trips typically cost 1,000 to 2,500 THB per person including boat transport, equipment, lunch, and the national park entrance fee. Scuba diving excursions run from 2,500 to 4,500 THB depending on the number of dives and whether equipment is included. The national park entrance fee for foreigners is 200 THB for adults and 100 THB for children, while Thai visitors pay 40 THB and 20 THB respectively. Most tours depart between 8:00 and 9:00 AM and return by 3:00 to 4:00 PM.\n\n## Practical Information\n\nThe park office and visitor center are open daily from 8:00 AM to 5:00 PM. The best diving and snorkeling conditions occur from February through October when seas are calm and visibility can exceed 20 meters. The park may restrict access to certain islands during the monsoon season from November through January when rough seas make boat travel unsafe. Book tours at least a day in advance during peak season from December through March.",
     "nl": "Een marien nationaal park met meerdere eilanden met levendige koraalriffen, helder water en divers zeeleven. Populair voor duik- en snorkeldagtochten vanaf Thung Wua Laen Beach. De eilanden omvatten Koh Ngam Yai, Koh Ngam Noi en Koh Lak Raet, elk met uitstekend onderwater zicht."
   },
+  "entry_fee": "200 THB for foreign adults, 100 THB for foreign children; 40 THB / 20 THB for Thai visitors",
+  "visit_duration": "Full day (snorkeling/diving day trip)",
+  "best_time_to_visit": "February to October for calm seas and best underwater visibility",
+  "tips": [
+    "Book snorkeling or diving tours from Thung Wua Laen Beach at least one day in advance during peak season",
+    "Try the underwater snorkeling nature trail at Koh Matra which is suitable for beginners",
+    "Bring reef-safe sunscreen as the park actively protects its coral ecosystems"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": ["Vibrant coral reefs", "Diving and snorkeling", "Multiple islands", "Clear water visibility"],
   "image": "/images/cities/krabi/krabi-mountain-view.webp",
   "official_website": "https://www.thainationalparks.com/mu-ko-chumphon-national-park",

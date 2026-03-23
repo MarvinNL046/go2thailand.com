@@ -12,15 +12,24 @@
     "lat": 19.5833,
     "lng": 98.9667
   },
-  "opening_hours": "08:30-17:00",
+  "opening_hours": "08:00-16:30 (closed Mondays)",
   "entrance_fee": {
-    "thb": 90,
-    "usd": 3
+    "thb": 200,
+    "usd": 6
   },
   "description": {
-    "en": "Beautiful botanical garden with Lanna architecture and cultural exhibitions",
+    "en": "## Overview\n\nMae Fah Luang Art and Cultural Park is an elegant museum and garden complex about four kilometers west of Chiang Rai city center, established by the Mae Fah Luang Foundation under Royal Patronage. The park celebrates the cultural heritage of northern Thailand's Lanna kingdom through one of the finest collections of teak wood artifacts in Southeast Asia, set within beautifully landscaped tropical gardens. It is named after Princess Srinagarindra, the Princess Mother, who was affectionately known as Mae Fah Luang by the hill tribe communities she supported.\n\n## The Collection\n\nThe centerpiece of the park is the Haw Kham, a grand golden teak pavilion that houses an extraordinary collection of Lanna artifacts including carved wooden Buddha images, religious manuscripts, lacquerware, textiles, and household items dating back centuries. The building itself is a masterpiece of traditional Lanna architecture, constructed without nails using centuries-old joinery techniques. A separate exhibition hall displays rotating contemporary art exhibitions that explore the intersection of traditional northern Thai culture and modern artistic expression.\n\n## Gardens and Grounds\n\nThe park's 27 rai of landscaped grounds feature manicured flower beds, shade trees, water features, and winding pathways connecting the various exhibition buildings. Traditional Lanna wooden structures are scattered throughout the gardens, giving visitors a sense of how northern Thai architecture integrated with natural surroundings. The gardens are particularly photogenic in the morning light and during the cool season when tropical flowers are in full bloom.\n\n## Practical Information\n\nThe park is open Tuesday through Sunday from 8:00 AM to 4:30 PM and is closed on Mondays. Admission is 200 THB for foreign visitors and 100 THB for Thai nationals. Allow at least one and a half to two hours to explore both the museum collections and the gardens at a relaxed pace. The park is easily reached by songthaew or tuk-tuk from Chiang Rai city center. Guided tours are available and recommended for those wanting deeper insight into the Lanna artifacts on display.",
     "nl": "Prachtige botanische tuin met Lanna architectuur en culturele tentoonstellingen"
   },
+  "entry_fee": "200 THB for foreigners, 100 THB for Thai nationals",
+  "visit_duration": "1.5-2 hours",
+  "best_time_to_visit": "Morning for soft light in the gardens; November to February for cool weather and flowers in bloom",
+  "tips": [
+    "The park is closed on Mondays so plan accordingly",
+    "Request a guided tour at the entrance for deeper insight into the Lanna teak artifact collection",
+    "Combine with a visit to the nearby White Temple and Singha Park for a full day of Chiang Rai attractions"
+  ],
+  "enriched_at": "2026-03-23",
   "highlights": [
     "Botanical gardens",
     "Lanna architecture",
