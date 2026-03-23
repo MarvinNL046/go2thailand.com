@@ -59,5 +59,123 @@
     "allergens": [],
     "dietary": [],
     "price_range": "budget"
-  }
+  },
+  "enhanced_description": "Nam ngiao is northern Thailand's most distinctive noodle soup, a rich, deeply savory broth stained crimson by tomatoes and dried chilies that carries the culinary heritage of the Shan people across centuries. This is not a dish you will find in Bangkok tourist restaurants. It is the food of Chiang Mai, Chiang Rai, and the mountainous provinces of the far north, where it is eaten for breakfast, lunch, and everything in between. For adventurous eaters, nam ngiao is one of the most rewarding dishes in all of Thailand.\n\nThe soup traces its origins to the Tai Yai (Shan) people of northeastern Myanmar and southwestern Yunnan province in China. Forced migration and conflict during the 18th and 19th centuries brought large numbers of Shan people across the border into northern Thailand, and they carried their culinary traditions with them. The name itself has a debated etymology: it may come from 'ngio,' the Thai word for the Bombax ceiba tree whose dried flower cores are a traditional ingredient in the soup, or from 'ngiao,' a term historically used in the north for people of Shan descent.\n\nThe broth is the soul of nam ngiao. Pork ribs or pork bones are simmered to create a rich stock, then combined with a spice paste of dried chilies, shallots, garlic, shrimp paste, and fermented soybean cakes (tua nao), a key ingredient that gives the soup its distinctive funky depth. Chopped tomatoes dissolve into the broth, providing a natural acidity that balances the richness. The signature dark red color comes from a combination of the tomatoes and dried chilies fried until they release their oil and pigment.\n\nWhat makes nam ngiao truly unique, and potentially challenging for newcomers, are the traditional additions of cubed pork blood cake and the dried flower cores of the Bombax ceiba tree. The blood cake adds a silky texture and iron-rich depth, while the dried flowers contribute a subtle earthy note. However, many modern versions omit these ingredients, and the dish remains deeply satisfying without them.\n\nThe noodle of choice is khanom chin, the fermented rice vermicelli that is a staple across Thailand but reaches its apotheosis in northern dishes like nam ngiao. The slightly sour tang of the fermented noodles complements the rich, spicy broth perfectly. Some versions use kuaitiao (flat rice noodles) or even egg noodles instead.\n\nRegional variations add another layer of fascination. In Chiang Rai, the soup tends to be rich and oily, sometimes made with beef instead of pork. In Mae Hong Son near the Myanmar border, locals prefer a thinner, more tart broth with less meat. In Phrae and Nan provinces, the soup is clearer, more fragrant, and overtly porky. Each version reflects the specific Shan heritage and local ingredients of its province.\n\nNam ngiao is typically served in a bowl with the noodles topped with the red broth, garnished with crispy fried garlic, fried dried chilies, fresh bean sprouts, and a squeeze of lime. It is breakfast food in the north, and the best bowls are found at early-morning market stalls where the broth has been simmering since before dawn.",
+  "detailed_ingredients": [
+    {
+      "name": "Pork Ribs (Si Krong Moo)",
+      "purpose": "Provide the rich, meaty stock base and tender pieces of meat in the finished soup",
+      "substitutes": [
+        "Pork bones plus pork shoulder",
+        "Beef short ribs (Chiang Rai style)",
+        "Chicken carcass (lighter version)"
+      ]
+    },
+    {
+      "name": "Fermented Soybean Cakes (Tua Nao)",
+      "purpose": "The distinctive funky, umami-rich ingredient that gives nam ngiao its unique depth of flavor",
+      "substitutes": [
+        "Fermented soybean paste (tua nao khaep)",
+        "Japanese natto (similar fermentation)",
+        "Miso paste (approximate substitute)"
+      ]
+    },
+    {
+      "name": "Dried Bombax Ceiba Flowers (Dok Ngiao)",
+      "purpose": "Traditional ingredient that adds earthy notes and gives the dish part of its name",
+      "substitutes": [
+        "Can be omitted without major flavor loss",
+        "Dried lily buds (textural substitute)",
+        "Dried mushrooms for earthiness"
+      ]
+    },
+    {
+      "name": "Pork Blood Cake",
+      "purpose": "Adds silky texture and iron-rich depth to the soup - a traditional Northern Thai ingredient",
+      "substitutes": [
+        "Tofu (common modern substitute)",
+        "Can be omitted entirely",
+        "Chicken blood cake (regional variation)"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Long-simmered stock with fried chili paste",
+    "steps_overview": "Pork ribs are simmered for 30-40 minutes to create a rich stock. Separately, a paste of dried chilies, shallots, garlic, shrimp paste, and fermented soybeans is fried until fragrant and the oil turns red. The paste is combined with the stock, tomatoes are added and cooked until they break down. Blood cake is added near the end. Khanom chin noodles are placed in bowls and the hot broth is ladled over, finished with crispy garlic and fried chilies.",
+    "cooking_tips": [
+      "Fry the chili paste low and slow until the oil separates and turns red - this is the flavor base",
+      "Use ripe tomatoes for the best natural acidity and color",
+      "Fermented soybean cakes (tua nao) are essential - don't skip them",
+      "If using blood cake, add it in the last 5 minutes to prevent it from overcooking",
+      "The broth should be savory, slightly sour from tomatoes, and warming from chilies - not face-meltingly hot"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Nam ngiao came to northern Thailand with the Tai Yai (Shan) people who migrated from northeastern Myanmar and Yunnan during the 18th and 19th centuries. The dish represents the Shan culinary heritage that deeply influences northern Thai cuisine, from fermented soybean cakes to the use of dried Bombax ceiba flowers.",
+    "cultural_importance": "Nam ngiao is a cornerstone of Lanna cuisine and a proud symbol of northern Thai identity distinct from Bangkok's food culture. It showcases ingredients and techniques found nowhere else in Thailand, particularly the use of tua nao and dok ngiao. The dish represents the multicultural borderland heritage of Thailand's mountainous north.",
+    "traditional_occasions": [
+      "Everyday breakfast and lunch in northern Thailand",
+      "Morning market staple in Chiang Mai and Chiang Rai",
+      "Northern Thai food festivals",
+      "Shan cultural celebrations"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Nam Ngiao Neua (Beef Version)",
+      "description": "Chiang Rai style with beef instead of pork, richer and more full-bodied"
+    },
+    {
+      "name": "Nam Ngiao without Blood Cake",
+      "description": "Modern version that omits the pork blood for a more approachable dish, equally common"
+    },
+    {
+      "name": "Nam Ngiao Mae Hong Son Style",
+      "description": "A thinner, more tart broth from the Myanmar border region with less meat"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Khanom chin (fermented rice noodles)",
+      "Fresh bean sprouts",
+      "Crispy fried garlic",
+      "Fried dried chilies",
+      "Lime wedge",
+      "Fresh morning glory or pak choi"
+    ],
+    "presentation": "Noodles in a deep bowl with the crimson broth ladled over, topped with crispy garlic and fried chilies",
+    "eating_etiquette": "Squeeze lime into the soup and add fresh vegetables. Eat with chopsticks for the noodles and a spoon for the broth."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "350-500 calories",
+    "health_benefits": [
+      "Rich in protein from pork ribs",
+      "Tomatoes provide lycopene and vitamin C",
+      "Blood cake is high in iron (if included)",
+      "Fermented soybeans are probiotic-rich"
+    ],
+    "dietary_notes": [
+      "Contains shrimp paste",
+      "Traditional version includes pork blood",
+      "Gluten-free with rice noodles"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Khao Soi Khun Yai (Chiang Mai) - Also serves excellent nam ngiao",
+      "Morning markets throughout Chiang Rai - Authentic Shan-style versions",
+      "Warorot Market (Chiang Mai) - Multiple vendors with different regional styles"
+    ],
+    "street_food_areas": [
+      "Chiang Mai morning markets - Best before 9 AM",
+      "Chiang Rai night bazaar and morning markets",
+      "Mae Hong Son town center food stalls"
+    ],
+    "price_ranges": {
+      "street_food": "30-50 THB ($0.90-$1.50)",
+      "market_stall": "40-60 THB ($1.20-$1.80)",
+      "restaurant": "60-100 THB ($1.80-$3)"
+    }
+  },
+  "enhanced_at": "2026-03-23T00:00:00.000Z"
 }

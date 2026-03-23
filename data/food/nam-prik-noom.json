@@ -62,5 +62,123 @@
       "vegetarian"
     ],
     "price_range": "budget"
-  }
+  },
+  "enhanced_description": "Nam prik noom is the most iconic chili dip of northern Thailand, a smoky, herbaceous green chili relish that is so closely associated with Chiang Mai that it is sometimes simply called 'Chiang Mai chili dip.' Made from fire-roasted green chilies, garlic, and shallots pounded together into a coarse, chunky paste, this dip captures the essence of Lanna cuisine in every bite: rustic, aromatic, and deeply connected to the land. If you visit Chiang Mai and eat only one thing, it should involve sticky rice and nam prik noom.\n\nThe term 'prik noom' refers to a specific variety of long, slightly pale green chili that is prevalent throughout northern Thailand. These chilies are larger and milder than the incendiary bird's eye chilies used in central and southern Thai cooking, delivering a moderate heat that builds gradually rather than hitting like a freight train. The word 'noom' means 'young' in the northern Thai dialect, referring to the fact that these chilies are harvested while still green and young, before they ripen to red.\n\nThe magic of nam prik noom begins with fire. The green chilies, unpeeled garlic cloves, and whole shallots are placed directly on a charcoal grill and roasted until their skins are blistered and blackened. This grilling step is not optional; it is the soul of the dish. The charring creates a complex smokiness that permeates the flesh of each ingredient, while the high heat softens their texture and concentrates their sweetness. After grilling, the charred skins are peeled away and the soft, smoky flesh is transferred to a mortar.\n\nThe pounding is deliberately coarse. Unlike southern Thai dips that aim for a relatively smooth paste, nam prik noom should be chunky and rustic, with visible pieces of chili and garlic throughout. Fish sauce, lime juice, and sometimes a small amount of shrimp paste are added to season, creating a dip that is smoky, herbaceous, moderately spicy, and brightened by citrus.\n\nNam prik noom is traditionally served as part of a northern Thai khantoke dinner, an elaborate spread of dishes served on a raised wooden tray. The dip is paired with sticky rice (khao niao), which is eaten with the fingers in the northern style, pinched into small balls and used to scoop the dip. Common accompaniments include pork cracklings (kaep moo), blanched vegetables, and raw cabbage wedges. The combination of smoky chili dip, crispy pork skin, and warm sticky rice is one of the most satisfying flavor and texture combinations in all of Thai cuisine.\n\nBecause the base ingredients are simply grilled vegetables, nam prik noom is one of the rare Thai dips that is naturally vegetarian (when made without shrimp paste and with soy sauce replacing fish sauce). This has made it increasingly popular among health-conscious diners and vegetarian travelers, though the traditional version does include fish sauce for seasoning.\n\nEvery market in Chiang Mai sells nam prik noom, often in plastic bags alongside pork cracklings and sticky rice as a ready-to-eat meal. The best versions come from vendors who grill their chilies fresh over charcoal each morning, and you can often spot them by the delicious smoky aroma that draws a crowd.",
+  "detailed_ingredients": [
+    {
+      "name": "Green Chilies (Prik Noom)",
+      "purpose": "The star ingredient - these specific long green northern Thai chilies provide moderate heat and a grassy, vegetal flavor when grilled",
+      "substitutes": [
+        "Anaheim or Hatch green chilies (closest match)",
+        "Cubanelle peppers mixed with a few serranos",
+        "Long green Italian peppers"
+      ]
+    },
+    {
+      "name": "Garlic (Whole Cloves, Unpeeled)",
+      "purpose": "Grilled in their skins for sweet, smoky, mellow garlic flavor rather than raw sharpness",
+      "substitutes": [
+        "Roasted garlic",
+        "Fresh garlic (different flavor - not ideal)",
+        "Black garlic for extra depth"
+      ]
+    },
+    {
+      "name": "Shallots (Whole, Unpeeled)",
+      "purpose": "Grilled to develop sweetness and smokiness that forms the aromatic base of the dip",
+      "substitutes": [
+        "Small red onions",
+        "Spring onion bulbs",
+        "Pearl onions"
+      ]
+    },
+    {
+      "name": "Fish Sauce",
+      "purpose": "The primary seasoning that provides saltiness and umami depth",
+      "substitutes": [
+        "Light soy sauce (for vegetarian version)",
+        "Soy sauce with a dash of lime",
+        "Salt (least preferred)"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Charcoal grilling followed by mortar and pestle pounding",
+    "steps_overview": "Place whole green chilies, unpeeled garlic cloves, and whole shallots directly on a charcoal grill (or under a broiler). Grill the chilies for about 10 minutes, turning occasionally, until the skins are blistered and blackened. Garlic and shallots need about 5 minutes. Peel away the charred skins. Pound everything in a mortar to a coarse, chunky paste. Season with fish sauce and lime juice to taste.",
+    "cooking_tips": [
+      "Charcoal grilling gives the best smoky flavor - a gas flame or broiler works but is less authentic",
+      "Do not over-pound - nam prik noom should be chunky, not smooth",
+      "Adjust the chili quantity based on the heat of your specific chilies",
+      "The dip should taste smoky first, then sour, then spicy",
+      "Make it fresh daily - the smoky flavor fades after a day"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Nam prik noom is a cornerstone of Lanna cuisine, the traditional food culture of the ancient Lanna Kingdom in northern Thailand with Chiang Mai as its capital. The dish reflects the northern preference for grilled preparations and sticky rice, distinguishing it from the wok-heavy cooking of central Thailand.",
+    "cultural_importance": "This dip is so synonymous with Chiang Mai that it serves as a culinary symbol of northern Thai identity. It is a fixture of the traditional khantoke dinner, the formal northern Thai meal served on a raised tray. The simplicity of grilled vegetables pounded together represents the northern Thai philosophy of food that is rustic, honest, and connected to the land.",
+    "traditional_occasions": [
+      "Khantoke dinner (traditional northern Thai feast)",
+      "Everyday meals with sticky rice",
+      "Northern Thai festivals and celebrations",
+      "Market-ready meals across Chiang Mai"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Nam Prik Noom with Pork Cracklings",
+      "description": "The most classic pairing - the smoky dip with crispy kaep moo and sticky rice is the quintessential Chiang Mai snack"
+    },
+    {
+      "name": "Vegetarian Nam Prik Noom",
+      "description": "Made without fish sauce or shrimp paste, using soy sauce instead - naturally vegan"
+    },
+    {
+      "name": "Extra Smoky Version",
+      "description": "Grilled over wood charcoal for a more intense smoky character, common at rural markets"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Sticky rice (khao niao) - essential",
+      "Pork cracklings (kaep moo)",
+      "Blanched or raw vegetables",
+      "Cabbage wedges",
+      "Sai ua (northern Thai sausage)"
+    ],
+    "presentation": "Served in a small bowl on a khantoke tray or plate, accompanied by a basket of sticky rice, pork cracklings, and fresh vegetables",
+    "eating_etiquette": "Pinch off a small ball of sticky rice with your fingers, press it flat, and use it to scoop the dip. Alternate with bites of pork crackling and vegetables."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "80-150 calories (dip only)",
+    "health_benefits": [
+      "Low calorie and nutrient-dense",
+      "Green chilies are rich in vitamin C and vitamin A",
+      "Garlic has anti-inflammatory and immune-boosting properties",
+      "Naturally vegetarian-friendly base"
+    ],
+    "dietary_notes": [
+      "Vegetarian (without fish sauce)",
+      "Vegan (without fish sauce and shrimp paste)",
+      "Gluten-free",
+      "Low calorie"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Huen Phen (Chiang Mai) - Famous for traditional khantoke-style northern dishes including nam prik noom",
+      "SP Chicken (Chiang Mai) - Legendary grilled chicken spot that serves excellent nam prik noom",
+      "Tong Tem Toh (Chiang Mai) - Popular northern Thai restaurant with consistently great dips"
+    ],
+    "street_food_areas": [
+      "Chiang Mai Gate Market - Morning vendors with fresh-grilled nam prik noom",
+      "Warorot Market (Chiang Mai) - Ready-to-eat bags with pork cracklings",
+      "Chiang Mai Sunday Walking Street - Multiple vendors"
+    ],
+    "price_ranges": {
+      "street_food": "20-40 THB ($0.60-$1.20)",
+      "market_stall": "30-50 THB ($0.90-$1.50)",
+      "restaurant": "60-120 THB ($1.80-$3.50)"
+    }
+  },
+  "enhanced_at": "2026-03-23T00:00:00.000Z"
 }

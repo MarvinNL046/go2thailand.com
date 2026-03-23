@@ -7,7 +7,7 @@
     "thai": "น้ำพริกกะปิ"
   },
   "category": "main-dish",
-  "region": "southern",
+  "region": "central",
   "spice_level": "hot",
   "description": {
     "en": "Shrimp paste chili dip with fresh vegetables",
@@ -42,7 +42,7 @@
     "thai-food",
     "thailand",
     "main-dish",
-    "southern",
+    "central",
     "hot",
     "easy",
     "budget",
@@ -62,5 +62,125 @@
     ],
     "dietary": [],
     "price_range": "budget"
-  }
+  },
+  "enhanced_description": "Nam prik kapi is the most essential and widely eaten chili dip in all of Thailand, the one that appears on every lunch table from street-side stalls to home kitchens across the country. Built on a foundation of fermented shrimp paste, fresh chilies, garlic, and a generous squeeze of lime, this pungent, fiery condiment has been a cornerstone of Thai cuisine since the Ayutthaya era. Walk into any Bangkok lunch spot at noon and you will see it on virtually every table. It is Thailand's most everyday nam prik.\n\nThe star ingredient is kapi, fermented shrimp paste made from tiny shrimp or krill that are heavily salted, dried in the hot sun until dehydrated, packed into containers, and left to ferment for months or even years. The fermentation process transforms the shrimp into a dense, purple-brown paste with an intensely pungent aroma that mellows into deep, complex umami when cooked. Good kapi is to Thai cooking what Parmigiano-Reggiano is to Italian cuisine: a concentrated flavor bomb that elevates everything it touches.\n\nThe preparation is ritualistic in its simplicity. Traditionally, a stone mortar and pestle is used to pound the ingredients in a specific order. Garlic and chilies are crushed first to release their oils, then the shrimp paste is added and pounded until everything forms a coarse, slightly chunky dip. Fresh lime juice is squeezed in generously, providing the sharp acidity that cuts through the richness of the shrimp paste. A small amount of palm sugar balances the flavors, and dried shrimp are sometimes added for extra texture. Many cooks roast the shrimp paste first at around 180 degrees Celsius for 5-10 minutes, which brings out its aroma and reduces the raw pungency.\n\nWhat makes nam prik kapi more than just a condiment is the elaborate spread of accompaniments that surrounds it. The traditional serving includes a platter of both raw and blanched vegetables: Thai eggplant, long beans, cucumber, cabbage, wing beans, and morning glory. Fried or steamed Thai mackerel (pla tu) is the classic protein pairing, and squares of cha-om omelet (an omelet made with acacia leaves) add richness. Together with steamed jasmine rice, this spread constitutes a complete, nutritionally balanced meal that Thai families have eaten daily for generations.\n\nThe beauty of nam prik kapi lies in its customizability. Every household has its own recipe, adjusting the ratio of chili to lime to sugar according to family preference. Some versions are mouth-numbingly hot, others lean into the sour-salty spectrum. Southern versions tend to be more intense, while central Thai versions are more balanced. The dip also varies with the quality of the shrimp paste itself, which differs significantly by region and producer.\n\nNam prik kapi is the dish that Thai people mean when they talk about comfort food. It is cheap, quick to prepare, healthy when eaten with plenty of vegetables, and delivers an extraordinary depth of flavor from just a handful of ingredients. For visitors to Thailand, ordering a nam prik kapi set at a local restaurant is one of the most authentic and rewarding Thai food experiences you can have.",
+  "detailed_ingredients": [
+    {
+      "name": "Shrimp Paste (Kapi)",
+      "purpose": "The soul of the dish - fermented shrimp paste provides the deep umami foundation that defines this nam prik",
+      "substitutes": [
+        "High-quality Thai kapi (no real substitute)",
+        "Malaysian belacan (similar but different)",
+        "Cannot be replicated with other ingredients"
+      ]
+    },
+    {
+      "name": "Fresh Bird's Eye Chilies",
+      "purpose": "Deliver the sharp, direct heat that is essential to the dip's character",
+      "substitutes": [
+        "Thai spur chilies (prik chee fah) for less heat",
+        "Serrano peppers (milder)",
+        "Dried chilies soaked in water"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Adds pungency and sweetness when pounded, creating the aromatic base",
+      "substitutes": [
+        "Fresh Thai garlic (smaller, more pungent)",
+        "Regular garlic (use more)",
+        "Cannot be omitted"
+      ]
+    },
+    {
+      "name": "Lime Juice",
+      "purpose": "Essential acidity that balances the intensity of the shrimp paste and cuts through the richness",
+      "substitutes": [
+        "Only fresh lime juice works",
+        "Green mango (for extra sourness)",
+        "No adequate substitute for bottled"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Mortar and pestle pounding (traditional Thai method)",
+    "steps_overview": "Optionally roast the shrimp paste wrapped in foil at 180C for 5-10 minutes. Using a stone mortar and pestle, pound garlic and chilies together first until broken down. Add the shrimp paste and continue pounding until a coarse paste forms. Add palm sugar and mix, then squeeze in generous amounts of fresh lime juice. Taste and adjust: it should be salty, sour, spicy, and slightly sweet in harmony.",
+    "cooking_tips": [
+      "Roasting the shrimp paste before pounding reduces raw pungency and deepens flavor",
+      "A stone mortar and pestle gives the best texture - food processors make it too smooth",
+      "Pound the garlic and chilies first, then add the shrimp paste",
+      "Lime juice should be the dominant sour note - be generous",
+      "The dip should taste intense on its own because it is eaten with plain rice and mild vegetables"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Nam prik kapi has been a staple of Thai cuisine since the Ayutthaya era (1351-1767). Shrimp paste (kapi) production along the Thai coastline dates back centuries, and the combination of kapi with chili and lime became the foundational condiment of Thai home cooking. It predates most of the Thai dishes that are famous internationally.",
+    "cultural_importance": "This is arguably the most important single dish in Thai food culture. It represents the Thai philosophy of balanced flavors (salty, sour, spicy, sweet) in its purest form. The nam prik kapi set, with its array of vegetables and fish, is the template for the traditional Thai communal meal. UNESCO has recognized nam prik as part of Thailand's intangible cultural heritage.",
+    "traditional_occasions": [
+      "Daily lunch in homes and workplaces across Thailand",
+      "The quintessential Thai family meal",
+      "Temple merit-making food offerings",
+      "Thai cooking class staple for beginners"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Nam Prik Kapi with Pla Tu",
+      "description": "The classic complete set with fried or steamed Thai mackerel - the most traditional pairing"
+    },
+    {
+      "name": "Nam Prik Kapi Khlong",
+      "description": "A roasted version where the shrimp paste is heavily charred for extra smokiness"
+    },
+    {
+      "name": "Southern-Style Nam Prik Kapi",
+      "description": "A more intense, saltier version with extra shrimp paste and more chilies"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Steamed jasmine rice (essential)",
+      "Fried or steamed Thai mackerel (pla tu)",
+      "Cha-om omelet (acacia leaf omelet)",
+      "Thai eggplant (raw or blanched)",
+      "Long beans, cucumber, cabbage wedges",
+      "Morning glory (pak bung) blanched or stir-fried"
+    ],
+    "presentation": "The dip is placed in a small bowl at the center, surrounded by a platter of colorful vegetables, fish, and omelet, with rice served separately",
+    "eating_etiquette": "Spoon a small amount of dip onto rice, eat with vegetables and fish. This is a communal meal - everyone shares from the same plates."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "100-180 calories (dip only)",
+    "health_benefits": [
+      "Very low calorie when paired with vegetables",
+      "Shrimp paste is high in protein and minerals",
+      "Served with an abundance of fresh vegetables",
+      "Chilies and garlic have anti-inflammatory properties",
+      "Lime juice provides vitamin C"
+    ],
+    "dietary_notes": [
+      "Contains seafood (shrimp paste)",
+      "Gluten-free",
+      "Low carb (the dip itself)",
+      "Very spicy"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Any Bangkok lunch canteen or food court - the most authentic everyday experience",
+      "Krua Apsorn (Bangkok) - Michelin Bib Gourmand, famous nam prik kapi set",
+      "Je Fai (Bangkok) - Street food legend with excellent nam prik accompaniments"
+    ],
+    "street_food_areas": [
+      "Every Thai food court and canteen nationwide",
+      "Bangkok's Banglamphu area lunch stalls",
+      "Or Tor Kor Market - Premium ingredient versions"
+    ],
+    "price_ranges": {
+      "street_food": "30-50 THB ($0.90-$1.50)",
+      "food_court": "40-70 THB ($1.20-$2)",
+      "restaurant": "80-150 THB ($2.50-$4.50)"
+    }
+  },
+  "enhanced_at": "2026-03-23T00:00:00.000Z"
 }

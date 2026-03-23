@@ -61,5 +61,122 @@
       "vegetarian"
     ],
     "price_range": "budget"
-  }
+  },
+  "enhanced_description": "Khao niao mamuang is Thailand's national dessert and arguably the most beloved sweet treat in all of Southeast Asia. This deceptively simple combination of coconut-infused glutinous rice and perfectly ripe mango has been enchanting locals and visitors for over two centuries. The dessert's roots trace back to the royal court of King Rama II in the early 1800s, when sweetened sticky rice cooked with coconut milk became a palace favorite. By the reign of King Chulalongkorn (Rama V), the pairing with fresh mango had spread across all social classes and become a street food staple.\n\nThe magic of mango sticky rice lies in the quality of each component. The glutinous rice must be soaked overnight and steamed until tender yet slightly chewy, then immediately bathed in warm coconut milk sweetened with palm sugar and a pinch of salt. This soaking process allows each grain to absorb the rich, creamy coconut flavor while maintaining its distinct texture. The mango, ideally the prized Nam Dok Mai variety with its buttery flesh and floral aroma, must be perfectly ripe but still firm enough to slice cleanly.\n\nSeasonality is everything with this dessert. The peak mango season runs from April through May, coinciding with Songkran (Thai New Year), making mango sticky rice an essential part of the celebrations. During this window, vendors across Thailand pile their carts impossibly high with golden mangoes, and the sweet fragrance of coconut-steamed rice fills every market. While you can find it year-round in tourist areas, true connoisseurs wait for peak season when the mangoes are at their sweetest and most aromatic.\n\nThe finishing touch is a drizzle of thick coconut cream and a sprinkle of roasted mung beans or toasted sesame seeds for added crunch. Some vendors add a pinch of salt to the coconut cream topping, creating a sweet-salty contrast that elevates the entire experience. The dish is typically served at room temperature, allowing all the flavors to meld together harmoniously.\n\nBangkok is home to several legendary mango sticky rice specialists. Kor Panich, in business for over 80 years and the only mango sticky rice vendor to receive a Michelin Bib Gourmand recognition, uses a secret family recipe said to originate from the royal kitchen. Mae Varee, open 24 hours near Thong Lo BTS, is famous for its perfectly ripe mangoes paired with sticky rice from Chiang Rai. Boonsap Thai Desserts, with over eight decades of tradition, is beloved by locals for its exceptionally thick coconut milk.\n\nWhether enjoyed from a humble street cart for 60 baht or presented as an elegant finale at a Michelin-starred restaurant, mango sticky rice delivers pure joy in every bite. It is the taste of Thailand distilled into its most essential form: sweet, creamy, fragrant, and utterly unforgettable.",
+  "detailed_ingredients": [
+    {
+      "name": "Glutinous Rice (Khao Niao)",
+      "purpose": "The foundation - must be soaked overnight and steamed to achieve the perfect chewy-yet-tender texture",
+      "substitutes": [
+        "Thai glutinous rice (preferred)",
+        "Japanese mochi rice",
+        "Laotian sticky rice"
+      ]
+    },
+    {
+      "name": "Nam Dok Mai Mango",
+      "purpose": "The star of the dish - Thailand's premium mango variety with buttery flesh and floral sweetness",
+      "substitutes": [
+        "Ok Rong mango",
+        "Ataulfo (champagne) mango",
+        "Any ripe, sweet mango variety"
+      ]
+    },
+    {
+      "name": "Coconut Milk",
+      "purpose": "Infuses the rice with rich, creamy flavor and creates the sweet sauce and topping",
+      "substitutes": [
+        "Fresh coconut milk (best results)",
+        "Canned full-fat coconut milk",
+        "Coconut cream for richer flavor"
+      ]
+    },
+    {
+      "name": "Palm Sugar",
+      "purpose": "Provides a caramel-like sweetness that complements the coconut without overpowering the mango",
+      "substitutes": [
+        "Coconut sugar",
+        "White sugar",
+        "Brown sugar"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Steaming and soaking in coconut milk",
+    "steps_overview": "The rice is soaked overnight in water, then steamed in a traditional bamboo basket or cloth-lined steamer until soft and translucent. While still hot, it is folded into a warm mixture of coconut milk, palm sugar, and salt, then left to rest for 30 minutes to absorb all the liquid. The mango is sliced and arranged alongside, finished with a drizzle of thick coconut cream.",
+    "cooking_tips": [
+      "Soak the rice for at least 6 hours or overnight for best texture",
+      "Use warm (not hot) coconut milk to prevent the rice from becoming mushy",
+      "Let the rice absorb the coconut milk for 30 minutes before serving",
+      "Choose mangoes that yield slightly to pressure but are not overly soft",
+      "A pinch of salt in the coconut cream topping creates the perfect sweet-salty balance"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "The dessert evolved from khao niao moon (sweetened sticky rice with coconut milk), which became popular in royal court cuisine during the reign of King Rama II (1809-1824). The pairing with mango became established across all social classes by the reign of King Rama V and is now considered Thailand's national dessert.",
+    "cultural_importance": "Mango sticky rice is deeply tied to Thai seasonal traditions, especially Songkran (Thai New Year) in April when mango season peaks. It represents the Thai philosophy of eating seasonally and celebrating nature's bounty. The dessert gained global fame when rapper Milli ate it on stage at Coachella 2022, causing a surge in international demand.",
+    "traditional_occasions": [
+      "Songkran (Thai New Year) celebrations",
+      "Mango season (April-May)",
+      "Temple offerings and merit-making",
+      "Wedding dessert tables",
+      "Tourist must-try experience"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Khao Niao Durian",
+      "description": "Same concept but with durian instead of mango - popular during durian season (May-July)"
+    },
+    {
+      "name": "Khao Niao Moon Sangkhaya",
+      "description": "Sticky rice topped with coconut custard (sangkhaya) instead of fresh fruit"
+    },
+    {
+      "name": "Black Sticky Rice with Mango",
+      "description": "Uses purple-black glutinous rice for a nuttier flavor and dramatic presentation"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Roasted mung beans for crunch",
+      "Toasted sesame seeds",
+      "Extra coconut cream drizzle",
+      "A pinch of sea salt"
+    ],
+    "presentation": "Served at room temperature on a plate or in a banana leaf, with mango slices arranged alongside the mound of coconut rice",
+    "eating_etiquette": "Eat with a spoon, combining a bit of rice with each slice of mango. Best enjoyed within an hour of preparation."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "350-450 calories",
+    "health_benefits": [
+      "Mangoes are rich in vitamin C and vitamin A",
+      "Coconut milk provides healthy fats",
+      "Glutinous rice is naturally gluten-free"
+    ],
+    "dietary_notes": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Kor Panich (Bangkok) - Over 80 years old, Michelin Bib Gourmand, secret royal recipe",
+      "Mae Varee (Bangkok, Thong Lo) - Open 24 hours, famous for premium Chiang Rai sticky rice",
+      "Boonsap Thai Desserts (Bangkok) - Over 80 years of tradition, legendary thick coconut milk"
+    ],
+    "street_food_areas": [
+      "Or Tor Kor Market (Bangkok) - Premium quality mango sticky rice",
+      "Chatuchak Weekend Market - Multiple vendors during mango season",
+      "Chiang Mai Night Bazaar - Northern-style preparation"
+    ],
+    "price_ranges": {
+      "street_food": "50-80 THB ($1.50-$2.50)",
+      "restaurant": "100-180 THB ($3-$5.50)",
+      "upscale": "200-400 THB ($6-$12)"
+    }
+  },
+  "enhanced_at": "2026-03-23T00:00:00.000Z"
 }
