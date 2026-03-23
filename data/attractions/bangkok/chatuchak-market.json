@@ -12,13 +12,13 @@
     "lat": 13.7998,
     "lng": 100.5522
   },
-  "opening_hours": "09:00-18:00",
+  "opening_hours": "Saturday-Sunday 09:00-18:00 (Friday night market 18:00-00:00)",
   "entrance_fee": {
     "thb": 0,
     "usd": 0
   },
   "description": {
-    "en": "One of the world's largest weekend markets with over 15000 stalls",
+    "en": "## Overview\n\nChatuchak Weekend Market (also called JJ Market) is the largest outdoor market in Thailand and one of the biggest in the world. Spread across 35 acres with over 15,000 stalls organized into 27 numbered sections, it draws roughly 200,000 visitors every weekend. From vintage clothing and handmade ceramics to antique furniture, Thai handicrafts, street food, and live plants, the sheer variety is staggering. Chatuchak is where Bangkok locals shop alongside tourists, making it an authentic and endlessly entertaining experience.\n\n## History\n\nThe market originated in the 1940s when Prime Minister Plaek Phibunsongkhram established a weekend flea market in Sanam Luang. In 1982, the market was relocated to its current location next to Chatuchak Park in northern Bangkok, where it has grown steadily into the enormous bazaar it is today. The market's 27 sections were formalized to organize vendors by product type, though the boundaries between sections can feel wonderfully chaotic in practice.\n\n## What to See\n\nThe market is organized by category: **Sections 2-4** are the food zones, offering everything from pad thai and mango sticky rice to coconut ice cream and grilled seafood. **Sections 8-11** specialize in Thai handicrafts, handmade ceramics, and artisan products — the best area for unique souvenirs. **Sections 12-23** cover clothing, from affordable local fashion to vintage denim and designer Thai streetwear. **Section 1 and 26** house antiques, books, and collectibles. The **central clock tower** serves as the main navigation landmark. For respite from the heat, duck into the air-conditioned shops along the outer edges.\n\n## Practical Info\n\n- **Entry fee:** Free\n- **Opening hours:** Saturday-Sunday 09:00-18:00 (main market); Wednesday-Thursday plant section only; Friday night market 18:00-00:00\n- **How to get there:** BTS Mo Chit station (Exit 1, 5-minute walk) or MRT Chatuchak Park station (2-minute walk from entrance)\n- **Visit duration:** 2-4 hours",
     "nl": "Een van 's werelds grootste weekendmarkten met meer dan 15000 kraampjes"
   },
   "highlights": [
@@ -45,5 +45,14 @@
     "attraction",
     "travel",
     "tourism"
-  ]
+  ],
+  "entry_fee": "Free",
+  "visit_duration": "2-4 hours",
+  "best_time_to_visit": "Arrive by 9 AM on Saturday or Sunday to beat the midday heat and crowds — by noon it is packed",
+  "tips": [
+    "Bring cash — most vendors do not accept cards, and market ATMs charge high fees with poor exchange rates",
+    "Grab a free map at the entrance and use the central clock tower as your navigation anchor",
+    "Bargain politely — buying 3+ items from one vendor usually gets you an automatic 10-15% discount"
+  ],
+  "enriched_at": "2026-03-23"
 }

@@ -12,13 +12,13 @@
     "lat": 14.3532,
     "lng": 100.5689
   },
-  "opening_hours": "08:00-18:00",
+  "opening_hours": "08:00-17:00 (some temples until 18:00)",
   "entrance_fee": {
     "thb": 50,
     "usd": 1
   },
   "description": {
-    "en": "UNESCO World Heritage site with ancient temple ruins from former Siamese capital",
+    "en": "## Overview\n\nAyutthaya Historical Park is a UNESCO World Heritage Site encompassing the ruins of the ancient Siamese capital that thrived from 1350 to 1767. Spread across an island formed by three rivers — the Chao Phraya, Pa Sak, and Lopburi — the park contains dozens of temple ruins, monastery remains, and palace foundations that once made up one of the largest and most cosmopolitan cities in the world. At its peak, Ayutthaya was home to over one million people and served as a major trading hub connecting East and West.\n\n## History\n\nKing U-Thong founded Ayutthaya in 1350, establishing it as the capital of the Kingdom of Siam. Over the next 417 years, 33 kings from five dynasties ruled from this city, building over 400 temples, 29 fortresses, and a vast network of canals. European visitors in the 17th century described Ayutthaya as one of the largest cities in the world, rivaling London and Paris in size. The kingdom maintained diplomatic relations with France, Portugal, Japan, and China. In April 1767, after a 14-month siege, Burmese forces captured and systematically destroyed the city, burning temples, melting gold from Buddha images, and carrying off treasures. The ruins were designated a UNESCO World Heritage Site in 1991.\n\n## What to See\n\nThe park's must-see temples include **Wat Mahathat** (famous Buddha head in tree roots), **Wat Phra Si Sanphet** (three iconic chedis on the former palace grounds), **Wat Chaiwatthanaram** (Khmer-style riverside temple), and **Wat Ratchaburana** (with its underground crypt and 15th-century murals). Beyond the major temples, explore **Wihan Phra Mongkhon Bophit** (large bronze seated Buddha), the **Chao Sam Phraya National Museum**, and the atmospheric ruins scattered across the island. Renting a bicycle is the most popular way to explore.\n\n## Practical Info\n\n- **Entry fee:** The park itself is free to enter; individual temples charge 20-50 THB each. A combination ticket covering six major sites costs 220 THB\n- **Opening hours:** 08:00-17:00 daily (some temples until 18:00)\n- **How to get there:** 80 km north of Bangkok; trains from Hua Lamphong station take 1.5-2 hours (15-66 THB depending on class); minivans depart from Victory Monument\n- **Visit duration:** Half day minimum; full day recommended to see all major sites",
     "nl": "UNESCO Werelderfgoed met oude tempelruïnes van voormalige Siamese hoofdstad"
   },
   "highlights": [
@@ -46,5 +46,14 @@
     "attraction",
     "travel",
     "tourism"
-  ]
+  ],
+  "entry_fee": "Free (individual temples 20-50 THB each; combo ticket 220 THB for 6 sites)",
+  "visit_duration": "Half day to full day",
+  "best_time_to_visit": "November to February during cool season; arrive early morning to beat the heat and tour bus crowds",
+  "tips": [
+    "Rent a bicycle (50 THB/day) from shops near the train station — it is the best way to explore the spread-out ruins",
+    "Buy the 220 THB combination ticket if you plan to visit more than four temples",
+    "Bring plenty of water and sunscreen — shade is limited among the ruins"
+  ],
+  "enriched_at": "2026-03-23"
 }

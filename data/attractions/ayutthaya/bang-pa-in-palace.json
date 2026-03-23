@@ -12,13 +12,13 @@
     "lat": 14.2333,
     "lng": 100.5833
   },
-  "opening_hours": "08:00-17:00",
+  "opening_hours": "08:00-16:00",
   "entrance_fee": {
     "thb": 100,
     "usd": 3
   },
   "description": {
-    "en": "Beautiful royal summer palace with mix of Thai European and Chinese architecture",
+    "en": "## Overview\n\nBang Pa-In Royal Palace is a stunning royal summer residence located 20 kilometers south of Ayutthaya city, set within beautifully manicured gardens along the Chao Phraya River. What makes this palace unique is its eclectic mix of architectural styles — Thai, Chinese, Italian Renaissance, and Gothic — all within a single compound. Unlike the ancient ruins of Ayutthaya, Bang Pa-In's buildings are well-preserved and brightly painted, offering a vivid contrast to the weathered temples of the historical park. The Thai royal family still uses certain buildings for official functions.\n\n## History\n\nThe site was first used as a royal retreat by King Prasat Thong of Ayutthaya in the 17th century. After the fall of Ayutthaya in 1767, the palace was abandoned for nearly a century. King Mongkut (Rama IV) began restoring it in the mid-19th century, but it was his son King Chulalongkorn (Rama V) — Thailand's great modernizer and the first Siamese king to travel to Europe — who transformed Bang Pa-In into what visitors see today. Chulalongkorn's European travels directly influenced the palace's international architectural mix, and construction of most current buildings took place between the 1870s and 1890s.\n\n## What to See\n\nThe **Aisawan Thipphaya-At Pavilion** is the palace's most iconic structure — a golden Thai-style pavilion set in the middle of an ornamental lake, modeled after the Aphonphimok Throne Hall at the Grand Palace in Bangkok. The **Phra Thinang Wehart Chamrun** is a lavish two-story Chinese mansion presented as a gift to King Chulalongkorn by Thai-Chinese merchants in 1889, featuring intricate jade and porcelain decorations. Across the river, the **Wat Niwet Thamprawat** looks like a European Gothic cathedral complete with stained-glass windows, yet it is a fully functioning Buddhist temple. The landscaped gardens include topiary hedges, a memorial to Queen Sunanda Kumariratana, and several European-style buildings.\n\n## Practical Info\n\n- **Entry fee:** 100 THB for foreigners, 30 THB for Thai nationals\n- **Opening hours:** 08:00-16:00 daily (last admission 15:30)\n- **How to get there:** 20 km south of Ayutthaya; take a minivan from Ayutthaya center (30 THB) or combine with a river cruise along the Chao Phraya\n- **Visit duration:** 1.5-2 hours\n- **Dress code:** Strict — cover shoulders and knees; free loaner clothing available at the entrance",
     "nl": "Prachtig koninklijk zomerpaleis met mix van Thaise Europese en Chinese architectuur"
   },
   "highlights": [
@@ -46,5 +46,14 @@
     "attraction",
     "travel",
     "tourism"
-  ]
+  ],
+  "entry_fee": "100 THB",
+  "visit_duration": "1.5-2 hours",
+  "best_time_to_visit": "Morning to enjoy the gardens before the midday heat; November-February for most pleasant weather",
+  "tips": [
+    "Rent a golf cart (450 THB/hour) to cover the sprawling grounds comfortably",
+    "Take the cable car across the river to visit Wat Niwet Thamprawat, the Gothic-style Buddhist temple",
+    "Dress code is strictly enforced — long pants and covered shoulders required, or borrow free clothing at the gate"
+  ],
+  "enriched_at": "2026-03-23"
 }

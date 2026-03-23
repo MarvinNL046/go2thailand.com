@@ -12,13 +12,13 @@
     "lat": 13.7564,
     "lng": 100.493
   },
-  "opening_hours": "09:00-16:00",
+  "opening_hours": "08:30-16:00 (closed Monday and Tuesday)",
   "entrance_fee": {
     "thb": 30,
     "usd": 1
   },
   "description": {
-    "en": "Thailand's main museum showcasing rich history and cultural artifacts",
+    "en": "## Overview\n\nThe Bangkok National Museum is the largest museum in Southeast Asia and Thailand's premier institution for art and history. Housed in the former Wang Na Palace (the Palace of the Second King), the museum's collection spans thousands of years of Thai civilization, from prehistoric Ban Chiang pottery to Rattanakosin-period royal regalia. With its Dvaravati-era stone sculptures, Sukhothai bronzes, Ayutthaya gold, and an entire hall dedicated to royal funeral chariots, this museum provides the deepest dive into Thai cultural heritage available anywhere in the country.\n\n## History\n\nThe museum occupies the Wang Na Palace, originally built in 1782 as the residence of the Vice King (a position similar to a crown prince). King Rama V abolished the Vice King position in 1885 and converted the palace into a museum, making it one of the oldest public museums in Southeast Asia. The Buddhaisawan Chapel within the grounds predates the museum and houses the Phra Buddha Sihing, one of Thailand's most revered Buddha images, believed to have been cast in the 13th century in Chiang Mai.\n\n## What to See\n\nThe **Buddhaisawan Chapel** is the undisputed highlight, featuring the sacred Phra Buddha Sihing statue and some of the finest mural paintings in Bangkok, depicting scenes from the life of the Buddha. The **Thai History Gallery** in the Siwamokkhaphiman Hall walks visitors through Thai civilization from the Dvaravati period (6th century) to the present. The **Royal Funeral Chariot Gallery** displays massive gilded chariots used in royal cremation ceremonies, some weighing over 20 tons and requiring 300 people to pull. The **Red House** (Tamnak Daeng) is a traditional Thai teak dwelling showcasing period furniture and domestic life.\n\n## Practical Info\n\n- **Entry fee:** 200 THB for foreigners, 30 THB for Thai nationals\n- **Opening hours:** 08:30-16:00, Wednesday to Sunday (closed Monday and Tuesday)\n- **How to get there:** Na Phra That Road, a 5-minute walk from the Grand Palace; take the Chao Phraya Express Boat to Tha Phra Athit pier or MRT to Sanam Chai\n- **Visit duration:** 2-3 hours\n- **Free guided tours:** English tours on Thursdays; French and German tours also available on specific days",
     "nl": "Het hoofdmuseum van Thailand dat de rijke geschiedenis en culturele artefacten toont"
   },
   "highlights": [
@@ -45,5 +45,14 @@
     "attraction",
     "travel",
     "tourism"
-  ]
+  ],
+  "entry_fee": "200 THB",
+  "visit_duration": "2-3 hours",
+  "best_time_to_visit": "Thursday morning to join the free English-language guided tour",
+  "tips": [
+    "Join the free Thursday English-language guided tour for expert insights you will not get from labels alone",
+    "Combine with the Grand Palace and Wat Pho, both within walking distance",
+    "The Royal Funeral Chariot Gallery is in a separate building — do not miss it, as the gilded chariots are extraordinary"
+  ],
+  "enriched_at": "2026-03-23"
 }

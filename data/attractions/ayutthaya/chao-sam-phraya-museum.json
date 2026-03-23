@@ -12,13 +12,13 @@
     "lat": 14.3542,
     "lng": 100.5542
   },
-  "opening_hours": "09:00-16:00",
+  "opening_hours": "09:00-16:00 (closed Monday and Tuesday)",
   "entrance_fee": {
     "thb": 150,
     "usd": 4
   },
   "description": {
-    "en": "Museum showcasing Ayutthaya artifacts including golden Buddha images and royal treasures",
+    "en": "## Overview\n\nThe Chao Sam Phraya National Museum is the most important museum in Ayutthaya, housing a dazzling collection of golden royal treasures, Buddha images, and archaeological artifacts recovered from the ancient capital's temple ruins. Established in 1961 and named after King Borommarachathirat II (also known as Chao Sam Phraya), the museum provides essential historical context for the ruins scattered across the park. If you visit only one indoor attraction in Ayutthaya, this should be it — the golden artifacts alone are worth the trip.\n\n## History\n\nThe museum was built to house the extraordinary treasures discovered during archaeological excavations of Ayutthaya's temple crypts, most notably from Wat Ratchaburana and Wat Mahathat. The pivotal discovery came in 1957 when thieves broke into the crypt of Wat Ratchaburana's main prang, alerting the Fine Arts Department to a hidden chamber filled with priceless golden artifacts. The subsequent official excavation recovered thousands of items spanning several centuries of Ayutthaya art. The museum opened its doors in 1961 with these finds as the centerpiece of its collection.\n\n## What to See\n\nThe museum's crown jewels are in the **Golden Treasures Hall**: a stunning golden royal elephant studded with gems dating to 1424, the Sword of Victory (Phra Saeng Khan Chai Sri) measuring 115 centimeters with detailed gold plates and precious stones, golden royal regalia including a scepter, ceremonial fans, and ornate slippers. The **main exhibition hall** displays Buddha images spanning 1,400 years of Thai art, from the Dvaravati period through Lopburi, Sukhothai, and Ayutthaya styles — including an 800-year-old bronze Buddha head from Wat Thammikarat. A second building houses **ceramics and pottery** from Thailand, China, Vietnam, and Japan, illustrating Ayutthaya's far-reaching trade networks.\n\n## Practical Info\n\n- **Entry fee:** 150 THB for foreigners, 30 THB for Thai nationals (students free)\n- **Opening hours:** 09:00-16:00, Wednesday to Sunday (closed Monday and Tuesday)\n- **How to get there:** On Rochana Road in central Ayutthaya, a short walk from Wat Phra Si Sanphet\n- **Visit duration:** 1-1.5 hours\n- **Note:** Photography may be restricted in certain galleries",
     "nl": "Museum met Ayutthaya artefacten inclusief gouden Boeddhabeelden en koninklijke schatten"
   },
   "highlights": [
@@ -46,5 +46,14 @@
     "attraction",
     "travel",
     "tourism"
-  ]
+  ],
+  "entry_fee": "150 THB",
+  "visit_duration": "1-1.5 hours",
+  "best_time_to_visit": "Midday — the air-conditioned museum is a perfect escape from the afternoon heat between temple visits",
+  "tips": [
+    "Visit after Wat Ratchaburana to see the golden treasures excavated from its crypt — it adds much more meaning",
+    "Closed on Mondays and Tuesdays, so plan your Ayutthaya day trip accordingly",
+    "The Golden Treasures Hall is the must-see section — do not skip it"
+  ],
+  "enriched_at": "2026-03-23"
 }
