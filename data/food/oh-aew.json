@@ -6,12 +6,17 @@
     "nl": "Oh Aew",
     "thai": "โอ้เอ๋ว"
   },
+  "thai_name": "โอ้เอ๋ว (Oh Aew)",
+  "origin_region": "southern",
   "category": "dessert",
   "region": "southern",
   "spice_level": "none",
   "description": {
     "en": "Shaved ice dessert with jelly made from banana flour",
     "nl": "IJsdessert met gelei van bananenmeel"
+  },
+  "extended_description": {
+    "en": "## What Is Oh Aew?\n\nOh Aew (โอ้เอ๋ว) is Phuket's most beloved shaved ice dessert, a refreshing treat that has cooled down locals and visitors on the island for well over a century. The dessert features translucent jelly cubes made from the seeds of the oh aew plant (a variety of creeping fig, Ficus pumila var. awkeotsang), piled over a mountain of finely crushed ice and drenched in fragrant syrup. The jelly, which is also known as aiyu jelly in Taiwan, has a uniquely slippery, bouncy texture unlike anything else in Thai cuisine. Each bowl typically comes with three colorful components that locals order by color: white for the oh aew jelly, red for sweetened kidney beans, and black for chewy grass jelly. A generous pour of sugar syrup ties everything together.\n\n## History & Hokkien Roots\n\nOh Aew arrived in Phuket with Hokkien Chinese immigrants who settled on the island during the tin mining boom of the 19th century. The name itself comes from the Hokkien dialect, reflecting Phuket's deep Peranakan (Baba-Nyonya) heritage that blends Chinese, Malay, and Thai cultures. The original recipe called for seeds of the oh aew plant to be soaked and squeezed to extract a natural gel, which was then mixed with banana extract and set with calcium sulfate overnight. Several families in Phuket Old Town have been making oh aew as a family business for multiple generations, passing down the technique from parent to child.\n\n## How It Is Made\n\nThe preparation starts with soaking the tiny oh aew seeds in water and gently rubbing them to release their natural pectin. This gel is strained and mixed with juice from nam wa bananas, giving the jelly its subtle fruity flavor. Calcium sulfate acts as the setting agent, and the mixture is left to firm up overnight in the refrigerator. The next day, the set jelly is cut into small cubes. Red kidney beans are simmered in sugar syrup until tender, and grass jelly is sliced into strips. To serve, the three components are layered in a bowl, topped with a generous heap of finely shaved ice, and finished with a drizzle of sweet syrup. Some vendors add a splash of coconut milk for extra richness.\n\n## Where to Eat Oh Aew in Phuket\n\nThe best oh aew is found in Phuket Old Town along Thalang Road and the surrounding streets of the Sino-Portuguese quarter. Several longstanding vendors near the intersection of Thalang and Dibuk roads have been serving the dessert for decades. The Sunday Walking Street Market on Thalang Road is an excellent place to try multiple versions side by side. Some stalls near Ranong Road Market and the Phuket Indy Market also serve reliable bowls. Outside of Phuket, oh aew is rare, making it a must-try while visiting the island.\n\n## How to Order\n\nSimply ask for oh aew and you will get the standard combination of all three jellies with shaved ice and syrup. If you want extra of one component, point at it or say the color: khao (white) for oh aew jelly, daeng (red) for kidney beans, or dam (black) for grass jelly. Some vendors offer a larger size for a few baht more. The dessert is served in a cup or bowl and eaten with a spoon.\n\n## Price Guide\n\nOh Aew is one of the most affordable desserts in Phuket. Street vendors and market stalls charge 25-40 THB per cup. Sit-down dessert shops in Old Town typically charge 40-60 THB. Tourist-oriented cafes may charge up to 80 THB for a premium version with extra toppings."
   },
   "ingredients": [
     "banana flour jelly",
@@ -27,14 +32,36 @@
   "preparation_time": "15 minutes",
   "difficulty": "easy",
   "price_range": "budget",
+  "best_places": [
+    "Phuket Old Town vendors, Thalang Road, Phuket",
+    "Sunday Walking Street Market, Thalang Road, Phuket",
+    "Ranong Road Market, Phuket",
+    "Phuket Indy Market, Phuket"
+  ],
+  "variations": [
+    "Oh Aew classic (all three jellies with syrup)",
+    "Oh Aew with coconut milk",
+    "Oh Aew extra kidney beans",
+    "Oh Aew with extra grass jelly"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'oh aew' to get the standard three-jelly combo. Order by color: khao (white) for oh aew jelly, daeng (red) for kidney beans, dam (black) for grass jelly. Add coconut milk for extra richness.",
+    "nl": "Vraag om 'oh aew' voor de standaard drievoudige geleicombo. Bestel op kleur: khao (wit) voor oh aew gelei, daeng (rood) voor nierbonen, dam (zwart) voor grasgelei."
+  },
+  "pairs_well_with": [
+    "Phuket Old Town coffee",
+    "Mee Hokkien (Phuket noodles)",
+    "Other Phuket street food snacks"
+  ],
+  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
-      "en": "Oh Aew — Phuket's Famous Shaved Ice Dessert (From 15 THB)",
-      "nl": "Oh Aew — Phukets Beroemde IJsdessert (Vanaf 15 THB)"
+      "en": "Oh Aew Recipe | Authentic Thai dessert",
+      "nl": "Oh Aew Recept | Authentieke Thaise dessert"
     },
     "metaDescription": {
-      "en": "Oh Aew (โอ้เอ๋ว) is a refreshing shaved ice dessert found only in Phuket Old Town. Translucent jelly, red beans, grass jelly & palm sugar syrup from 15 THB. Where to find it + history.",
-      "nl": "Oh Aew (โอ้เอ๋ว) is een verfrissend ijsdessert dat alleen in Phuket Old Town te vinden is. Doorschijnende gelei, rode bonen & palmsuikersiroop vanaf 15 THB."
+      "en": "Learn about Oh Aew (โอ้เอ๋ว) - Shaved ice dessert with jelly made from banana flour...",
+      "nl": "Leer over Oh Aew (โอ้เอ๋ว) - IJsdessert met gelei van bananenmeel..."
     }
   },
   "tags": [
@@ -60,5 +87,6 @@
       "vegetarian"
     ],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }

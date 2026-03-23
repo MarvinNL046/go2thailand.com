@@ -6,12 +6,17 @@
     "nl": "Roti Canai",
     "thai": "โรตีกะหรี่"
   },
+  "thai_name": "โรตีกะหรี่ (Roti Karee)",
+  "origin_region": "southern",
   "category": "main-dish",
   "region": "southern",
   "spice_level": "mild",
   "description": {
     "en": "Malaysian-Thai flatbread served with curry",
     "nl": "Maleisisch-Thais platbrood geserveerd met curry"
+  },
+  "extended_description": {
+    "en": "## What Is Roti Canai?\n\nRoti Canai (โรตีกะหรี่) is a flaky, crispy-on-the-outside, soft-on-the-inside flatbread that is a staple of southern Thai Muslim cuisine. In Thailand it is commonly called roti karee (roti with curry), and it bridges the culinary traditions of India, Malaysia, and southern Thailand into one irresistible package. The bread is made from a simple dough of flour, ghee, egg, and water that is stretched paper-thin, folded into layers, and fried on a flat griddle until golden and puffed. It is traditionally served with a bowl of rich, aromatic curry for dipping, typically a yellow or massaman-style curry with chicken or beef. The contrast between the buttery, flaky bread and the warm, spiced curry is what makes this dish so addictive.\n\n## History & Cultural Roots\n\nRoti canai traces its origins to southern India, where flatbreads have been a dietary staple for centuries. The recipe traveled to Southeast Asia with Indian Muslim traders and immigrants, particularly the Mamak community (Indian Muslims of Malaysia), who adapted and popularized it throughout the Malay Peninsula. In Thailand, roti arrived via the southern provinces of Pattani, Yala, Narathiwat, and Songkhla, where the Thai Muslim population has deep cultural ties to Malaysia. Thai Muslim vendors adapted the Malaysian roti to local tastes, pairing it with Thai-style curries that incorporate coconut milk, lemongrass, and galangal. Today, roti vendors can be found throughout Thailand, but the most authentic versions remain in the southern provinces and cities like Hat Yai.\n\n## How It Is Made\n\nThe dough starts with wheat flour mixed with ghee or margarine, egg, water, sugar, and salt. After kneading until smooth and elastic, the dough rests for several hours to develop gluten. The magic happens during shaping: the vendor takes a ball of dough and slaps, stretches, and twirls it on an oiled surface until it becomes translucent, almost as thin as tissue paper. This stretched sheet is then folded over itself multiple times to create layers, similar to puff pastry. The folded dough is placed on a hot, greased flat griddle and fried until golden brown and crispy on both sides. Some vendors clap the finished roti between their hands using a cloth to fluff up the layers, creating what is called roti thitchu (tissue roti). The curry accompaniment is prepared separately, typically a slow-simmered yellow or massaman curry.\n\n## Where to Eat Roti Canai\n\nThe best roti canai is found in Thailand's deep south and in Hat Yai, the region's commercial hub. Along the streets near Hat Yai's Kim Yong Market and Lee Garden area, multiple Muslim roti vendors operate from early morning through late evening. In Bangkok, roti stalls can be found around Charoen Krung Road near the old Muslim quarter, along Sukhumvit Soi 3 (Soi Nana), and at Ramkhamhaeng Night Market. Southern Thai restaurants in Bangkok, especially around the Silom and Sathorn areas, also serve good roti with curry.\n\n## How to Order\n\nAsk for \"roti karee\" for the classic flatbread with curry dipping sauce. For a plain version, say \"roti thamada\" (normal roti). Sweet versions are also widely available: roti gluay (banana), roti khai (egg), roti nom khon (condensed milk), or roti Nutella. Specify the curry you want: karee gai (chicken curry) or karee neua (beef curry). In southern Thailand, vendors often ask \"gee chan\" meaning how many layers of roti you want.\n\n## Price Guide\n\nRoti canai is extremely affordable. Street vendors in southern Thailand charge 15-30 THB for plain roti and 40-70 THB for roti with curry. In Bangkok, expect to pay 30-50 THB for plain and 60-100 THB for roti with curry at street stalls. Restaurant versions run 80-150 THB. Sweet roti variations typically cost 30-60 THB depending on toppings."
   },
   "ingredients": [
     "flour",
@@ -28,6 +33,30 @@
   "preparation_time": "20 minutes",
   "difficulty": "medium",
   "price_range": "budget",
+  "best_places": [
+    "Kim Yong Market area, Hat Yai",
+    "Sukhumvit Soi 3 (Soi Nana), Bangkok",
+    "Charoen Krung Road Muslim quarter, Bangkok",
+    "Ramkhamhaeng Night Market, Bangkok"
+  ],
+  "variations": [
+    "Roti Karee (with curry, classic savory)",
+    "Roti Thitchu (tissue roti, extra flaky)",
+    "Roti Gluay (banana filling)",
+    "Roti Khai (egg roti)",
+    "Roti Nom Khon (condensed milk, sweet)"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'roti karee' for flatbread with curry. Say 'roti thamada' for plain. For sweet versions, try 'roti gluay' (banana) or 'roti nom khon' (condensed milk). In the south, vendors may ask how many layers you want.",
+    "nl": "Vraag om 'roti karee' voor platbrood met curry. Zeg 'roti thamada' voor zonder vulling. Voor zoete versies, probeer 'roti gluay' (banaan) of 'roti nom khon' (gecondenseerde melk)."
+  },
+  "pairs_well_with": [
+    "Massaman curry",
+    "Yellow chicken curry",
+    "Thai iced tea (cha yen)",
+    "Teh tarik (pulled tea)"
+  ],
+  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
       "en": "Roti Canai Recipe | Authentic Thai main dish",
@@ -62,5 +91,6 @@
       "vegetarian option"
     ],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }

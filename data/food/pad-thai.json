@@ -6,12 +6,17 @@
     "nl": "Pad Thai",
     "thai": "ผัดไทย"
   },
+  "thai_name": "ผัดไทย (Pad Thai)",
+  "origin_region": "central",
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Stir-fried rice noodles with tofu or shrimp bean sprouts and tamarind sauce",
     "nl": "Roergebakken rijstnoedels met tofu of garnalen taugé en tamarindesaus"
+  },
+  "extended_description": {
+    "en": "## What Is Pad Thai?\n\nPad Thai (ผัดไทย) is the most internationally recognized Thai dish and arguably the single meal most responsible for putting Thai cuisine on the global map. It is a stir-fry of thin rice noodles tossed with egg, tofu, dried shrimp or fresh prawns, bean sprouts, garlic chives, and a sweet-sour-salty sauce built on tamarind paste, fish sauce, and palm sugar. The finished dish is garnished with crushed roasted peanuts, a wedge of lime, and sometimes a sprinkle of dried chili flakes. Every element serves a purpose: the tamarind brings tartness, the fish sauce adds depth, the palm sugar rounds out the sweetness, and the lime at the table lets each diner fine-tune the balance.\n\n## History & Political Origins\n\nPad Thai has one of the most unusual origin stories of any national dish. During World War II, a severe flood damaged Thailand's rice paddies in 1942, creating food shortages. Prime Minister Plaek Phibunsongkhram, a fierce nationalist who was reshaping Thai identity, launched a campaign called \"Noodle Is Your Lunch\" to reduce rice consumption and promote noodles instead. The government's Public Welfare Department distributed free noodle carts and a standardized recipe for a new dish to street vendors across the country. This dish was pad Thai. The recipe was deliberately crafted to use Thai-grown ingredients and promote national pride. Within a few years, pad Thai had spread from government initiative to genuine street food staple. What started as political propaganda became one of the world's most beloved dishes.\n\n## How It Is Made\n\nThin, flat rice noodles (sen chan, named after the city of Chanthaburi) are soaked in water until pliable but still firm. The sauce is mixed ahead of time: tamarind paste, fish sauce, palm sugar, and sometimes a touch of vinegar. A hot wok gets oil, then firm tofu cubes are fried until golden. Dried shrimp and preserved radish (chai poh) go in next for umami. The noodles are added with the sauce and tossed quickly. An egg is cracked in, scrambled around the noodles, and bean sprouts and garlic chives follow at the very end. The dish is plated and finished with crushed peanuts, fresh bean sprouts, a lime wedge, and banana flower on the side. The best pad Thai is cooked over charcoal, which gives the noodles a subtle smokiness that gas burners cannot replicate.\n\n## Where to Eat Pad Thai\n\nPad Thai Thip Samai in Bangkok's old city near the Giant Red Swing is the most legendary pad Thai shop in Thailand, operating since 1966 and earning a Michelin Bib Gourmand nod. Their signature version wraps the noodles in a thin egg omelet and cooks everything over charcoal using shrimp oil. Prices run 60-200 THB depending on toppings. Expect long queues in the evening. Pad Thai Mae Am near Saphan Khwai is a local favorite with no tourist crowds. On Khao San Road, multiple vendors serve pad Thai from mobile carts for 50-80 THB, though quality varies. Outside Bangkok, every night market in Thailand will have at least one pad Thai vendor.\n\n## How to Order\n\nSay \"pad Thai\" followed by your protein: goong (shrimp), gai (chicken), moo (pork), or jay (vegetarian). At Thip Samai, order \"pad Thai hor khai\" for the signature egg-wrapped version. Condiments are served at the table: prik pon (chili flakes), sugar, fish sauce, and prik nam som (chili vinegar). Squeeze the lime over the top before eating. Many Thais add a spoonful of sugar, which may surprise visitors, but it is traditional.\n\n## Price Guide\n\nPad Thai is affordable everywhere. Street carts and night market vendors charge 40-80 THB. Food court versions cost 60-100 THB. Thip Samai's famous egg-wrapped pad Thai is 150 THB. Restaurant versions with large prawns run 120-250 THB. Tourist-area prices on Khao San Road or beach towns may reach 100-150 THB for a basic plate."
   },
   "ingredients": [
     "rice noodles",
@@ -32,6 +37,29 @@
   "preparation_time": "15 minutes",
   "difficulty": "medium",
   "price_range": "budget",
+  "best_places": [
+    "Pad Thai Thip Samai, Phra Nakorn, Bangkok",
+    "Pad Thai Mae Am, Saphan Khwai, Bangkok",
+    "Khao San Road street vendors, Bangkok",
+    "Night markets nationwide"
+  ],
+  "variations": [
+    "Pad Thai Hor Khai (wrapped in egg omelet)",
+    "Pad Thai Goong Sod (fresh shrimp)",
+    "Pad Thai Jay (vegetarian with tofu)",
+    "Pad Thai Woon Sen (glass noodles instead of rice noodles)",
+    "Pad Thai Goong Mae Nam (river prawn, premium)"
+  ],
+  "ordering_tips": {
+    "en": "Order 'pad Thai goong' for shrimp or 'jay' for vegetarian. At Thip Samai, get 'hor khai' for the egg-wrapped version. Squeeze lime on top before eating. Condiments at the table include sugar, chili flakes, fish sauce, and chili vinegar.",
+    "nl": "Bestel 'pad Thai goong' voor garnalen of 'jay' voor vegetarisch. Bij Thip Samai, neem 'hor khai' voor de in ei gewikkelde versie. Knijp limoen erover voor het eten."
+  },
+  "pairs_well_with": [
+    "Fresh banana flower",
+    "Thai iced tea",
+    "Lime wedge and chili flakes"
+  ],
+  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
       "en": "Pad Thai Recipe | Authentic Thai main dish",
@@ -68,5 +96,6 @@
       "vegetarian option"
     ],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }

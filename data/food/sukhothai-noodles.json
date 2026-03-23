@@ -6,12 +6,17 @@
     "nl": "Sukhothai Noedels",
     "thai": "ก๋วยเตี๋ยวสุโขทัย"
   },
+  "thai_name": "ก๋วยเตี๋ยวสุโขทัย (Kuay Teow Sukhothai)",
+  "origin_region": "northern",
   "category": "soup",
   "region": "northern",
   "spice_level": "mild",
   "description": {
     "en": "Sukhothai style noodles with ground peanuts",
     "nl": "Sukhothai stijl noedels met gemalen pinda's"
+  },
+  "extended_description": {
+    "en": "## What Are Sukhothai Noodles?\n\nSukhothai Noodles (ก๋วยเตี๋ยวสุโขทัย) are a distinctive noodle soup from the ancient capital of Sukhothai that stands apart from all other Thai noodle soups thanks to its unique sweet-sour-savory broth and signature toppings. The soup features thin rice noodles (sen lek) in a mellow pork broth seasoned with palm sugar, tamarind, and fish sauce, topped with sliced pork, ground pork, crunchy pork cracklings, green beans cut into short lengths, ground roasted peanuts, and a squeeze of fresh lime. The first thing you notice is the sweetness: palm sugar plays a starring role, with tamarind and lime providing a sour counterpoint and chili adding gentle heat. It is a noodle soup that manages to be comforting and complex at the same time.\n\n## History & The Ancient Capital\n\nSukhothai noodles are named after the ancient city of Sukhothai, the capital of the Sukhothai Kingdom from 1238 to 1438 CE, often called the cradle of Thai civilization. Under the visionary rule of King Ramkhamhaeng the Great, the kingdom saw advances in art, religion, irrigation, and the creation of the Thai alphabet. The noodle soup that bears the city's name reflects this heritage of refinement. While the exact origins of the recipe are debated, it is believed to have developed over centuries in the communities around the ancient capital, incorporating local ingredients like palm sugar from Sukhothai's sugar palms and peanuts from the surrounding agricultural land. The dish remained a local specialty until improved road connections brought travelers to the Sukhothai Historical Park, a UNESCO World Heritage Site, who then spread word of the unique noodles.\n\n## How It Is Made\n\nThe broth is the foundation: pork bones are simmered to create a light, clear stock. The seasoning is what makes it distinctly Sukhothai: generous amounts of palm sugar give it sweetness, while tamarind paste adds a fruity sourness and fish sauce provides the salty base. This sweet-sour balance sets Sukhothai noodles apart from the more savory broths of Bangkok-style noodle soups. Thin rice noodles (sen lek) are blanched and placed in the bowl. The toppings are layered on: sliced braised pork, crumbled ground pork, thin-sliced green beans, and a scattering of crispy pork cracklings for texture. Ground roasted peanuts go on top, adding richness and crunch. The hot broth is ladled over everything. At the table, diners squeeze lime juice over the soup, add dried chili flakes, and adjust with extra fish sauce or sugar to taste.\n\n## Where to Eat Sukhothai Noodles\n\nThe best place to eat Sukhothai noodles is, naturally, in Sukhothai itself. The shops near the Sukhothai Historical Park entrance serve bowls that have been perfected over decades. The old town area has several family-run noodle shops where the recipe has been passed down for generations. In Bangkok, several restaurants specialize in Sukhothai-style noodles: look for shops in the Ari neighborhood and along Phahonyothin Road. Some food courts in Bangkok also feature Sukhothai noodle vendors. In Phitsanulok, the neighboring province, you can also find excellent versions since the two cities share culinary traditions.\n\n## How to Order\n\nAsk for \"kuay teow sukhothai\" and you will get the standard pork version with all the traditional toppings. Specify your noodle type if offered a choice: sen lek (thin rice noodles) is traditional. You can order it \"nam\" (with broth) or \"haeng\" (dry, without broth), where the noodles are tossed in the sauce and served on a plate. The dry version concentrates the sweet-sour flavors and is equally popular. Add-ons like extra pork cracklings or a soft-boiled egg are usually available for a few extra baht.\n\n## Price Guide\n\nSukhothai noodles are a budget-friendly meal. In Sukhothai town, a bowl costs 40-60 THB at local shops. Shops near the Historical Park may charge 50-70 THB. In Bangkok, Sukhothai noodle specialty shops charge 60-100 THB. Food court versions run 50-80 THB. A large bowl with extra toppings rarely exceeds 100 THB. The dry (haeng) version is usually the same price as the soup version."
   },
   "ingredients": [
     "rice noodles",
@@ -29,6 +34,28 @@
   "preparation_time": "20 minutes",
   "difficulty": "easy",
   "price_range": "budget",
+  "best_places": [
+    "Noodle shops near Sukhothai Historical Park, Sukhothai",
+    "Old town family-run shops, Sukhothai",
+    "Ari neighborhood noodle shops, Bangkok",
+    "Phitsanulok local noodle stalls"
+  ],
+  "variations": [
+    "Kuay Teow Sukhothai Nam (with broth, classic)",
+    "Kuay Teow Sukhothai Haeng (dry, without broth)",
+    "Sukhothai noodles with extra pork cracklings",
+    "Sukhothai noodles with soft-boiled egg"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'kuay teow sukhothai' for the classic version. Choose 'nam' for soup or 'haeng' for dry. Sen lek (thin rice noodles) is the traditional choice. Squeeze lime and add chili flakes to taste at the table.",
+    "nl": "Vraag om 'kuay teow sukhothai' voor de klassieke versie. Kies 'nam' voor soep of 'haeng' voor droog. Sen lek (dunne rijstnoedels) is de traditionele keuze. Knijp limoen en voeg chilivlokken toe naar smaak."
+  },
+  "pairs_well_with": [
+    "Pork cracklings (khep moo)",
+    "Thai iced tea",
+    "Lime wedge and chili flakes"
+  ],
+  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Sukhothai Noodles Recipe | Authentic Thai soup",
@@ -63,5 +90,6 @@
     ],
     "dietary": [],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }

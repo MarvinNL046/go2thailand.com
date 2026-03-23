@@ -6,12 +6,17 @@
     "nl": "Pad Krapow",
     "thai": "ผัดกะเพรา"
   },
+  "thai_name": "ผัดกะเพรา (Pad Kra Pao)",
+  "origin_region": "central",
   "category": "main-dish",
   "region": "central",
   "spice_level": "hot",
   "description": {
     "en": "Stir-fried Thai basil with minced pork or chicken served over rice with a fried egg",
     "nl": "Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei"
+  },
+  "extended_description": {
+    "en": "## What Is Pad Krapow?\n\nPad Krapow (ผัดกะเพรา) is Thailand's undisputed king of lunchtime comfort food. The name literally translates to \"stir-fried holy basil,\" and it is exactly that: a fiery wok-tossed combination of minced meat, fresh holy basil leaves, garlic, chilies, and a savory sauce, served over steaming jasmine rice and crowned with a crispy-edged fried egg. It is to Thailand what a burger is to America or a sandwich to Britain: fast, satisfying, available on virtually every street corner, and loved by everyone from construction workers to office executives. On any given weekday, millions of plates of pad krapow are served across the country.\n\n## History & Origins\n\nPad krapow's roots trace back to Chinese immigrants who arrived in Thailand during the reign of King Rama VII around 1925-1935. The original version featured soybean paste, garlic, meat, and holy basil, a combination inspired by Chinese stir-fry techniques. Over time, the soybean paste was replaced by a pounded paste of fresh chilies and garlic, which became the aromatic heart of the dish. By the late 1950s, pad krapow had spread across the country and cemented itself as Thailand's go-to quick meal. The dish gained further fame through street food culture, where the speed of wok cooking made it perfect for feeding hungry workers during short lunch breaks.\n\n## How It Is Made\n\nAuthentic pad krapow starts with a searingly hot wok. Garlic and fresh Thai bird's eye chilies are pounded in a mortar just enough to bruise them, then thrown into smoking oil. Minced pork, chicken, or beef follows immediately, broken up and stir-fried over maximum heat. The seasoning is simple but precise: fish sauce for salt, oyster sauce for sweetness and body, a touch of dark soy sauce for color, and sometimes a pinch of sugar to balance. The holy basil goes in last, just long enough to wilt but not lose its peppery aroma. The entire cooking process takes under three minutes. It is served over a plate of jasmine rice with a fried egg on top, ideally with a runny yolk and crispy lacy edges achieved by frying in plenty of oil.\n\n## Where to Eat Pad Krapow\n\nPad krapow is everywhere in Thailand, but some places stand out. Phed Mark near Ekkamai BTS in Bangkok was co-founded by food vlogger Mark Wiens and offers nine protein options across five spice levels (119-269 THB). 55 Pochana near Thonglor BTS is a legendary late-night spot famous for its duck pad krapow with chili and basil (150 THB). For the classic street experience, look for any food court or street stall with a wok and a basket of holy basil, particularly around Silom, Saphan Khwai, and Pratunam.\n\n## How to Order\n\nSay \"pad krapow\" followed by your protein: moo (pork), gai (chicken), neua (beef), moo saap (minced pork), or talay (seafood). Add \"kai dao\" for a fried egg on top, which most people consider essential. For extra spice, say \"phet mak\" (very spicy). If you want it milder, say \"mai phet\" (not spicy). The standard order is \"pad krapow moo saap kai dao\" - minced pork holy basil stir-fry with fried egg.\n\n## Price Guide\n\nPad krapow is one of the cheapest meals in Thailand. Street vendors and food courts charge 40-60 THB for a basic plate with rice and fried egg. Local sit-down restaurants charge 60-100 THB. Specialty restaurants like Phed Mark charge 119-269 THB depending on the protein. Air-conditioned restaurants in malls typically charge 80-150 THB."
   },
   "ingredients": [
     "thai basil",
@@ -29,6 +34,29 @@
   "preparation_time": "15 minutes",
   "difficulty": "easy",
   "price_range": "budget",
+  "best_places": [
+    "Phed Mark, Ekkamai BTS, Bangkok",
+    "55 Pochana, near Thonglor BTS, Bangkok",
+    "Street food stalls around Silom, Bangkok",
+    "Pratunam food courts, Bangkok"
+  ],
+  "variations": [
+    "Pad Krapow Moo Saap (minced pork, most popular)",
+    "Pad Krapow Gai (chicken)",
+    "Pad Krapow Neua (beef)",
+    "Pad Krapow Talay (mixed seafood)",
+    "Pad Krapow Tao Hoo (tofu, vegetarian)"
+  ],
+  "ordering_tips": {
+    "en": "Order 'pad krapow moo saap kai dao' for the classic minced pork with fried egg. Say 'phet mak' for extra spicy or 'mai phet' for mild. Always add 'kai dao' for the essential fried egg on top.",
+    "nl": "Bestel 'pad krapow moo saap kai dao' voor de klassieke versie met gehakt varkensvlees en gebakken ei. Zeg 'phet mak' voor extra pittig of 'mai phet' voor mild."
+  },
+  "pairs_well_with": [
+    "Thai iced tea",
+    "Nam pla prik (fish sauce with chilies)",
+    "Prik nam pla (chili fish sauce)"
+  ],
+  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
       "en": "Pad Krapow Recipe | Authentic Thai main dish",
@@ -61,5 +89,6 @@
     "allergens": [],
     "dietary": [],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }

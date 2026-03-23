@@ -6,12 +6,17 @@
     "nl": "Roti Sai Mai",
     "thai": "โรตีสายไหม"
   },
+  "thai_name": "โรตีสายไหม (Roti Sai Mai)",
+  "origin_region": "central",
   "category": "dessert",
   "region": "central",
   "spice_level": "none",
   "description": {
     "en": "Thai cotton candy wrapped in thin roti from Ayutthaya",
     "nl": "Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya"
+  },
+  "extended_description": {
+    "en": "## What Is Roti Sai Mai?\n\nRoti Sai Mai (โรตีสายไหม) is Ayutthaya's signature dessert and one of Thailand's most charming sweet treats: delicate strands of hand-pulled cotton candy wrapped inside paper-thin, pandan-flavored crepes. The name translates to \"roti with silk threads,\" describing the wispy sugar floss that resembles colorful silk fibers. The candy comes in vibrant pastel colors: pink, green, yellow, orange, and white, each bundle looking like a nest of spun silk. To eat it, you lay a thin roti flat, place a bundle of cotton candy on top, and roll it up like a tiny burrito. The combination of the slightly salty, chewy crepe with the melt-in-your-mouth sweetness of the sugar floss is unlike any other dessert.\n\n## History & Ayutthaya Heritage\n\nRoti sai mai was introduced to the Ayutthaya region by Indian Muslim traders who brought flatbread-making traditions to the ancient Thai capital. According to local records, the dessert was perfected by a man named Bang Pia, also known as Salem Saeng-Arun, a Muslim born in Ayutthaya who spent years mastering the art of pulling long, fine candy floss by hand. He returned to his hometown and began selling roti sai mai, establishing a tradition that continues today. Over time, Chinese descendants in the community experimented with making the roti thinner and adding flavors like pandan and coconut milk, creating the version known today. The stall Roti Sai Mai Abeedeen-Pranom Sangaroon has been run by the same family since the 1950s, preserving the craft for over 70 years.\n\n## How It Is Made\n\nThe sugar floss requires remarkable skill. Palm sugar or white sugar is heated to a precise temperature, then the molten candy is repeatedly stretched and folded by hand on a large hook or nail, pulling it into increasingly fine threads. Food coloring is added during the pulling process to create the signature pastel hues. The entire process looks like a mesmerizing performance as the vendor stretches and loops the candy again and again until it becomes impossibly thin. The roti crepes are made separately from a batter of flour, water, sugar, salt, and sometimes pandan juice, cooked on a hot flat griddle until paper-thin and lightly golden. Both components are packaged separately to keep the cotton candy from absorbing moisture and melting. Customers assemble each bite at the table.\n\n## Where to Find Roti Sai Mai\n\nThe epicenter of roti sai mai is along the main highway running through Ayutthaya province, particularly along U-Thong Road and Rojana Road, where dozens of small kiosks line the street selling bags of the candy and stacks of crepes. No visit to Ayutthaya's ancient temples is complete without stopping at one of these stalls. The most famous vendors are near the Ayutthaya Historical Park entrance. In Bangkok, roti sai mai can occasionally be found at Chatuchak Weekend Market and some traditional Thai dessert shops, but the freshest and most authentic versions are always in Ayutthaya itself.\n\n## How to Order\n\nRoti sai mai is sold in sets: a stack of thin roti crepes paired with bags of cotton candy in assorted colors. A typical set comes with 10-20 roti sheets and several bags of candy. Some vendors sell individual portions for eating on the spot. Point at the colors you want or just ask for \"roti sai mai\" and the vendor will give you a mixed assortment. The candy and roti are packaged separately. To eat, lay one crepe flat, place a pinch of cotton candy in the center, roll it up, and eat immediately before the sugar melts.\n\n## Price Guide\n\nRoti sai mai is very affordable. A small set with 10 roti sheets and cotton candy costs 40-60 THB at roadside stalls in Ayutthaya. Larger gift sets with multiple colors and more roti sheets run 80-150 THB. Premium souvenir boxes designed for bringing home cost 100-200 THB. Individual portions for eating on the spot cost 20-30 THB. In Bangkok, prices are slightly higher at 50-80 THB for a basic set."
   },
   "ingredients": [
     "flour",
@@ -28,6 +33,28 @@
   "preparation_time": "30 minutes",
   "difficulty": "hard",
   "price_range": "budget",
+  "best_places": [
+    "U-Thong Road stalls, Ayutthaya",
+    "Rojana Road kiosks, Ayutthaya",
+    "Near Ayutthaya Historical Park entrance",
+    "Chatuchak Weekend Market, Bangkok (occasional)"
+  ],
+  "variations": [
+    "Classic multi-color cotton candy (pink, green, yellow)",
+    "Pandan-flavored roti crepes",
+    "Coconut milk roti crepes",
+    "Premium gift box sets for souvenirs"
+  ],
+  "ordering_tips": {
+    "en": "Buy a set with roti sheets and cotton candy bags. Assemble yourself: lay roti flat, add a pinch of candy, roll up, and eat immediately. Buy extra sets as gifts since they travel well within a day.",
+    "nl": "Koop een set met roti vellen en suikerspin zakjes. Zelf samenstellen: leg roti plat, voeg een snufje snoep toe, rol op en eet meteen op. Koop extra sets als cadeau."
+  },
+  "pairs_well_with": [
+    "Thai iced tea",
+    "Fresh coconut water",
+    "Other Ayutthaya snacks"
+  ],
+  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
       "en": "Roti Sai Mai Recipe | Authentic Thai dessert",
@@ -61,5 +88,6 @@
       "vegetarian"
     ],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }

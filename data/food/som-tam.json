@@ -6,12 +6,17 @@
     "nl": "Som Tam",
     "thai": "ส้มตำ"
   },
+  "thai_name": "ส้มตำ (Som Tam)",
+  "origin_region": "northeastern",
   "category": "salad",
   "region": "northeastern",
   "spice_level": "medium",
   "description": {
     "en": "Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts",
     "nl": "Pittige groene papajasalade met tomaten limoensap vissaus en pinda's"
+  },
+  "extended_description": {
+    "en": "## What Is Som Tam?\n\nSom Tam (ส้มตำ) is Thailand's most iconic salad and arguably the country's most consumed dish after rice itself. It is a bold, explosive combination of shredded green (unripe) papaya pounded in a clay mortar with garlic, chilies, green beans, tomatoes, dried shrimp, peanuts, lime juice, fish sauce, and palm sugar. The word \"som\" means sour and \"tam\" means to pound, describing both the flavor profile and preparation method perfectly. Each bowl is made to order, pounded fresh by the vendor who adjusts the balance of sour, spicy, salty, and sweet to the diner's preference. The crunch of the raw papaya, the burn of the chilies, and the tangy punch of lime and fish sauce create an addictive combination that keeps people coming back plate after plate.\n\n## History & Isaan Origins\n\nSom tam traces its roots to the Lao culinary tradition of pounding fruit salads called \"tam som\" (pounded sour). Thai historian Sujit Wongthes has traced the dish to the late 18th to early 19th century, when ethnic Lao settlers in central Thailand, originally war captives deported from the Lan Xang kingdom, began making pounded salads from papayas that Chinese immigrants had introduced to the region. The dish spread to northeastern Thailand (Isaan) following the construction of the Northeastern railway line in the early 1900s and became widely popular after Mittraphap Road opened in 1957, connecting Bangkok to the northeast. The real explosion came during Thailand's economic boom of the 1980s, when millions of Isaan workers migrated to Bangkok for jobs and brought their food culture with them. Within a generation, som tam went from a regional Isaan specialty to Thailand's national obsession.\n\n## How It Is Made\n\nEvery som tam is pounded fresh to order in a large clay mortar (khrok) using a wooden pestle (saak). The vendor starts by pounding garlic and chilies together to release their oils. Green beans cut into short lengths and cherry tomatoes go in next with a gentle bruising. Shredded green papaya follows, along with dried shrimp, roasted peanuts, lime juice, fish sauce, and palm sugar. The vendor pounds and tosses the ingredients rhythmically, mixing without crushing the papaya completely, maintaining its signature crunch. The key is balance: each vendor adjusts the ratio of sour (lime), salty (fish sauce), sweet (sugar), and spicy (chilies) with every bowl. Customers can request more or less of any element.\n\n## Variations You Must Try\n\nSom Tam Thai is the most tourist-friendly version with peanuts and dried shrimp in a sweeter dressing. Som Tam Lao (or Som Tam Pla Ra) uses pungent fermented fish sauce instead of regular fish sauce, delivering a deeper, funkier flavor beloved by Isaan locals. Som Tam Pu adds salted black rice field crabs for brininess. Som Tam Pu Pla Ra combines both fermented fish and crabs and is considered the most authentic Isaan style. Som Tam Korat from Nakhon Ratchasima uses fermented fish sauce and a slightly different seasoning profile. There are over 20 documented regional variations across Thailand and Laos.\n\n## Where to Eat Som Tam\n\nSom tam vendors are on virtually every street in Thailand. In Bangkok, Som Tam Jay So near Victory Monument serves fiery, authentic Isaan-style papaya salad alongside grilled pork neck. Somtum Der on Sala Daeng Road earned a Michelin Bib Gourmand nod for its elevated som tam. In Isaan itself, any roadside stall or market in Khon Kaen, Udon Thani, or Ubon Ratchathani will serve the real deal. The dish is almost always eaten with sticky rice and grilled chicken (gai yang) or grilled pork neck (kor moo yang) for a complete Isaan meal.\n\n## Price Guide\n\nSom tam remains one of Thailand's cheapest meals. Street vendors charge 30-50 THB per serving. Market stalls with seating charge 40-60 THB. A full Isaan meal of som tam, gai yang, and sticky rice costs 100-200 THB for two people. Michelin-recognized restaurants like Somtum Der charge 80-180 THB per dish. In tourist areas, prices may reach 80-120 THB but rarely more."
   },
   "ingredients": [
     "green papaya",
@@ -31,6 +36,30 @@
   "preparation_time": "10 minutes",
   "difficulty": "easy",
   "price_range": "budget",
+  "best_places": [
+    "Som Tam Jay So, near Victory Monument, Bangkok",
+    "Somtum Der, Sala Daeng Road, Bangkok (Michelin Bib Gourmand)",
+    "Roadside stalls in Khon Kaen and Udon Thani, Isaan",
+    "Any local market with a mortar and pestle"
+  ],
+  "variations": [
+    "Som Tam Thai (peanuts, dried shrimp, sweeter)",
+    "Som Tam Lao / Pla Ra (fermented fish sauce, funky)",
+    "Som Tam Pu (salted black rice field crabs)",
+    "Som Tam Pu Pla Ra (crabs and fermented fish, most authentic)",
+    "Som Tam Korat (Nakhon Ratchasima style)"
+  ],
+  "ordering_tips": {
+    "en": "Order 'som tam Thai' for the tourist-friendly version with peanuts. Say 'som tam pla ra' for the authentic Isaan version with fermented fish. Specify spice level: 'mai phet' (not spicy), 'phet nit noi' (a little spicy), or 'phet mak' (very spicy). Always pair with sticky rice and gai yang.",
+    "nl": "Bestel 'som tam Thai' voor de toeristenvriendelijke versie met pinda's. Zeg 'som tam pla ra' voor de authentieke Isaan versie met gefermenteerde vis. Specificeer pittigheid: 'mai phet' (niet pittig) of 'phet mak' (erg pittig)."
+  },
+  "pairs_well_with": [
+    "Sticky rice (khao niao)",
+    "Gai yang (grilled chicken)",
+    "Kor moo yang (grilled pork neck)",
+    "Larb or nam tok"
+  ],
+  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
       "en": "Som Tam Recipe | Authentic Thai salad",
@@ -67,5 +96,6 @@
       "vegetarian option"
     ],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }

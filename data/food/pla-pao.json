@@ -6,12 +6,17 @@
     "nl": "Pla Pao",
     "thai": "ปลาเผา"
   },
+  "thai_name": "ปลาเผา (Pla Pao)",
+  "origin_region": "central",
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Grilled fish in salt crust served with spicy seafood sauce",
     "nl": "Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus"
+  },
+  "extended_description": {
+    "en": "## What Is Pla Pao?\n\nPla Pao (ปลาเผา) is one of Thailand's most satisfying and visually striking street foods: a whole fish encased in a thick armor of coarse salt, slow-roasted over glowing charcoal until the flesh inside is perfectly steamed and impossibly moist. The salt crust seals in all the juices while the herbs stuffed inside the cavity, typically lemongrass and kaffir lime leaves, infuse the meat with a subtle citrusy fragrance. When the salt shell is cracked open at the table, a cloud of aromatic steam escapes, revealing pristine white flesh that flakes apart at the touch of a fork. The fish is always served with nam jim seafood, a fiery dipping sauce made from lime juice, garlic, chilies, and cilantro root that provides the spicy counterpoint to the clean, mild fish.\n\n## History & Tradition\n\nSalt-crusting fish for grilling is an ancient preservation and cooking technique found across Southeast Asia, but the Thai version has been refined into an art form by roadside vendors and beachside cooks over generations. The method likely originated as a practical way to cook whole fish evenly over open fire without the skin sticking or burning. Salt acts as an insulator, distributing heat gently and creating a miniature oven around the fish. In rural Thailand, pla pao was a common way to cook the day's catch from rivers and rice paddies. The dish gradually moved from countryside cooking to urban street food, and today it is equally at home at a Bangkok night market and a beachside restaurant in Hua Hin or Pattaya.\n\n## How It Is Made\n\nThe most common fish used is pla tubtim (red tilapia), prized for its firm white flesh and affordable price. The fish is gutted and cleaned, then the cavity is stuffed with stalks of lemongrass and kaffir lime leaves, and sometimes galangal and pandan leaves. The entire fish is then packed in a thick layer of coarse sea salt, often mixed with a small amount of water or egg white to help it adhere. The salt-crusted fish is placed on a wire rack over medium-hot charcoal and grilled slowly for 30-40 minutes, turned occasionally, until the salt crust hardens into a solid shell and the fish inside is cooked through. At serving, the salt crust is cracked off and discarded, and the fish is presented whole with the dipping sauce on the side.\n\n## Where to Eat Pla Pao\n\nPla pao vendors are found at night markets, roadside stalls, and seafood restaurants across Thailand. In Bangkok, the stalls along Rama IV Road near Khlong Toei Market are well-known for their charcoal-grilled pla pao. Koh Larn island off Pattaya is famous for beachside pla pao served with ocean views. Hua Hin's night market has several reliable vendors. In Isaan, Udon Miang Pla Pao in Udon Thani is celebrated for its extremely fresh grilled fish. Coastal towns like Cha-Am, Bang Saen, and Rayong all have excellent seaside pla pao stalls where the fish comes straight from the morning catch.\n\n## How to Order\n\nAsk for \"pla pao\" and you will typically get the standard red tilapia version. If available, you can specify the fish: pla tubtim (tilapia), pla krapong (sea bass), or pla nin (Nile tilapia). Larger fish cost more. The dipping sauce (nam jim seafood) comes automatically. Most vendors sell pla pao by the fish, not by weight. You can also ask for \"som tam\" or sticky rice on the side, as pla pao pairs perfectly with both.\n\n## Price Guide\n\nPla pao prices depend on fish size and type. Street vendors and night markets charge 80-150 THB for a standard tilapia. Roadside stalls with seating charge 100-200 THB. Beachside restaurants and tourist areas charge 150-300 THB. Premium fish like sea bass or large river fish can run 250-500 THB. A complete meal of pla pao with som tam and sticky rice costs around 200-350 THB for two people."
   },
   "ingredients": [
     "whole fish",
@@ -28,6 +33,30 @@
   "preparation_time": "40 minutes",
   "difficulty": "medium",
   "price_range": "mid-range",
+  "best_places": [
+    "Rama IV Road stalls near Khlong Toei, Bangkok",
+    "Beachside vendors, Koh Larn, Pattaya",
+    "Hua Hin Night Market, Hua Hin",
+    "Udon Miang Pla Pao, Udon Thani"
+  ],
+  "variations": [
+    "Pla Pao Tubtim (red tilapia, most common)",
+    "Pla Pao Krapong (sea bass, premium)",
+    "Pla Pao Nin (Nile tilapia)",
+    "Pla Pao Chon (snakehead fish, Isaan style)",
+    "Pla Pao with miang wraps (lettuce wraps with herbs)"
+  ],
+  "ordering_tips": {
+    "en": "Ask for 'pla pao' for the standard tilapia version. Specify 'pla krapong' for sea bass. Pair with som tam and sticky rice for a complete meal. The nam jim seafood dipping sauce comes automatically.",
+    "nl": "Vraag om 'pla pao' voor de standaard tilapia versie. Specificeer 'pla krapong' voor zeebaars. Combineer met som tam en sticky rice voor een complete maaltijd."
+  },
+  "pairs_well_with": [
+    "Som tam (green papaya salad)",
+    "Sticky rice",
+    "Nam jim seafood (spicy dipping sauce)",
+    "Cold beer or Singha"
+  ],
+  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Pla Pao Recipe | Authentic Thai main dish",
@@ -62,5 +91,6 @@
     ],
     "dietary": [],
     "price_range": "mid-range"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }

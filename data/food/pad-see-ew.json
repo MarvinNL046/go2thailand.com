@@ -6,12 +6,17 @@
     "nl": "Pad See Ew",
     "thai": "ผัดซีอิ๊ว"
   },
+  "thai_name": "ผัดซีอิ๊ว (Pad See Ew)",
+  "origin_region": "central",
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg",
     "nl": "Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei"
+  },
+  "extended_description": {
+    "en": "## What Is Pad See Ew?\n\nPad See Ew (ผัดซีอิ๊ว) is one of Thailand's most popular noodle dishes, a smoky stir-fry of wide, silky rice noodles coated in dark soy sauce alongside Chinese broccoli, egg, and your choice of protein. The name breaks down simply in Thai: pad means stir-fry, see ew means soy sauce, and the unspoken word is kuay tiew (noodles). The full name, kuay tiew pad see ew, tells you exactly what you are getting: noodles stir-fried with soy sauce. It is the Thai equivalent of a quick lunch sandwich, something nearly everyone eats regularly without thinking twice about it. The dish is mild and savory rather than spicy, which makes it one of the most approachable Thai dishes for newcomers.\n\n## History & Chinese Roots\n\nPad see ew arrived in Thailand with Chinese immigrants, specifically from the Teochew and Cantonese communities who brought their noodle stir-fry traditions. The wide rice noodles, called sen yai in Thai or ho fun in Cantonese, are the same broad, flat noodles used in classic Cantonese chow fun. Over generations, Thai cooks adapted the seasoning to local tastes, incorporating Thai soy sauces and adding Chinese broccoli (kana), which thrives in Thailand's climate. The dish became a fixture at Thai-Chinese noodle shops and food courts across the country, particularly in Bangkok where the Chinese-Thai culinary fusion runs deepest.\n\n## How It Is Made\n\nThe secret to great pad see ew is wok hei, the smoky charred flavor that only comes from extreme heat and fast cooking. Fresh sen yai noodles are essential: wide, flat, and slightly chewy rice sheets that are cut into broad ribbons. A screaming-hot wok gets a splash of oil, then thinly sliced pork, chicken, or shrimp goes in first and cooks in seconds. The noodles follow, tossed with a combination of light soy sauce for saltiness and dark soy sauce for its syrupy sweetness and deep brown color. An egg is cracked directly into the wok and scrambled into the noodles. Chinese broccoli (kana) stems go in first since they take longer, with the leaves added at the very end. The key technique is letting the noodles sit against the hot wok without stirring, creating patches of caramelized char that give the dish its signature smoky flavor. The entire process takes under five minutes.\n\n## Where to Eat Pad See Ew\n\nPad see ew is available at virtually every noodle shop, food court, and street stall in Thailand. In Bangkok, look for kuay tiew shops around Chinatown (Yaowarat) where the Chinese-Thai noodle tradition is strongest. The food courts at MBK Center, Siam Paragon, and Terminal 21 all serve reliable versions. Night markets like Rot Fai Ratchada and Jodd Fairs are also good spots. Outside Bangkok, any town's morning market or food court will have a pad see ew vendor.\n\n## How to Order\n\nSay \"pad see ew\" followed by your protein: moo (pork), gai (chicken), goong (shrimp), or talay (seafood). Specify \"sen yai\" if offered a noodle choice, though this is the default. If you want extra smoky char, you can say \"fai daeng\" (red fire), indicating you want it cooked over high flame. For added heat, ask for \"prik pon\" (chili flakes) on the side. Ground white pepper is the traditional table seasoning.\n\n## Price Guide\n\nPad see ew is a budget-friendly meal across Thailand. Street vendors charge 40-60 THB per plate. Food court and market stall versions run 50-70 THB. Sit-down noodle shops charge 60-100 THB. Restaurant versions with premium shrimp or seafood cost 100-180 THB. Air-conditioned mall food courts typically charge 70-120 THB."
   },
   "ingredients": [
     "wide rice noodles",
@@ -26,6 +31,29 @@
   "preparation_time": "15 minutes",
   "difficulty": "easy",
   "price_range": "budget",
+  "best_places": [
+    "Chinatown (Yaowarat) noodle shops, Bangkok",
+    "Food courts at MBK Center and Terminal 21, Bangkok",
+    "Rot Fai Ratchada Night Market, Bangkok",
+    "Local kuay tiew shops nationwide"
+  ],
+  "variations": [
+    "Pad See Ew Moo (pork, most common)",
+    "Pad See Ew Gai (chicken)",
+    "Pad See Ew Goong (shrimp)",
+    "Pad See Ew Talay (mixed seafood)",
+    "Pad See Ew Tao Hoo (tofu, vegetarian)"
+  ],
+  "ordering_tips": {
+    "en": "Order 'pad see ew moo' for pork or 'gai' for chicken. Ask for 'fai daeng' (high flame) for extra smoky char. White pepper is the traditional condiment, not chili. Say 'sai khai' to confirm you want egg included.",
+    "nl": "Bestel 'pad see ew moo' voor varkensvlees of 'gai' voor kip. Vraag om 'fai daeng' voor extra rokerige smaak. Witte peper is het traditionele kruidmiddel."
+  },
+  "pairs_well_with": [
+    "Prik nam som (chili vinegar)",
+    "Ground white pepper",
+    "Thai iced tea"
+  ],
+  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
       "en": "Pad See Ew Recipe | Authentic Thai main dish",
@@ -58,5 +86,6 @@
     "allergens": [],
     "dietary": [],
     "price_range": "budget"
-  }
+  },
+  "enriched_at": "2026-03-23"
 }
