@@ -28,6 +28,8 @@ interface BlogPageProps {
 export default function BlogPage({ posts, categories }: BlogPageProps) {
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [searchQuery, setSearchQuery] = useState('');
+  const [currentPage, setCurrentPage] = useState(1);
+  const POSTS_PER_PAGE = 12;
   const { locale } = useRouter();
   const lang = locale === 'nl' ? 'nl' : 'en';
 
@@ -42,6 +44,22 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                          post.description.toLowerCase().includes(searchQuery.toLowerCase());
     return matchesCategory && matchesSearch;
   });
+
+  const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE);
+  const paginatedPosts = filteredPosts.slice(
+    (currentPage - 1) * POSTS_PER_PAGE,
+    currentPage * POSTS_PER_PAGE
+  );
+
+  // Reset to page 1 when filters change
+  const handleCategoryChange = (cat: string) => {
+    setSelectedCategory(cat);
+    setCurrentPage(1);
+  };
+  const handleSearchChange = (q: string) => {
+    setSearchQuery(q);
+    setCurrentPage(1);
+  };
 
   const featuredPost = posts[0];
 
@@ -100,7 +118,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                   type="text"
                   placeholder="Search blog posts..."
                   value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
+                  onChange={(e) => handleSearchChange(e.target.value)}
                   className="w-full px-4 py-2 pr-10 border border-gray-200 rounded-xl focus:outline-none focus:border-thailand-blue"
                 />
                 <svg className="absolute right-3 top-3 w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -116,7 +134,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <div className="flex gap-2 overflow-x-auto scrollbar-hide">
               <button
-                onClick={() => setSelectedCategory('all')}
+                onClick={() => handleCategoryChange('all')}
                 className={`px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-colors ${
                   selectedCategory === 'all'
                     ? 'bg-thailand-blue text-white'
@@ -128,7 +146,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
               {categories.map(category => (
                 <button
                   key={category}
-                  onClick={() => setSelectedCategory(category)}
+                  onClick={() => handleCategoryChange(category)}
                   className={`px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-colors capitalize ${
                     selectedCategory === category
                       ? 'bg-thailand-blue text-white'
@@ -192,7 +210,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
 
                 {/* Regular Posts Grid */}
                 <div className="grid md:grid-cols-2 gap-6">
-                  {filteredPosts.map(post => (
+                  {paginatedPosts.map(post => (
                     <article key={post.slug} className="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                       <Link href={`/blog/${post.slug}/`}>
                         <div className="relative h-48">
@@ -228,6 +246,59 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                   <div className="text-center py-12 bg-white rounded-2xl">
                     <p className="text-gray-600 text-lg">No posts found matching your criteria.</p>
                   </div>
+                )}
+
+                {/* Pagination */}
+                {totalPages > 1 && (
+                  <nav aria-label="Blog pagination" className="flex items-center justify-center gap-2 mt-10">
+                    <button
+                      onClick={() => { setCurrentPage(p => Math.max(1, p - 1)); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                      disabled={currentPage === 1}
+                      className="px-4 py-2 rounded-lg bg-white shadow-sm border border-gray-200 text-gray-700 hover:bg-gray-50 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                    >
+                      ← Previous
+                    </button>
+
+                    {Array.from({ length: totalPages }, (_, i) => i + 1)
+                      .filter(page => page === 1 || page === totalPages || Math.abs(page - currentPage) <= 2)
+                      .reduce<(number | string)[]>((acc, page, idx, arr) => {
+                        if (idx > 0 && page - (arr[idx - 1] as number) > 1) acc.push('...');
+                        acc.push(page);
+                        return acc;
+                      }, [])
+                      .map((item, idx) =>
+                        item === '...' ? (
+                          <span key={`ellipsis-${idx}`} className="px-2 text-gray-400">...</span>
+                        ) : (
+                          <button
+                            key={item}
+                            onClick={() => { setCurrentPage(item as number); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                            className={`w-10 h-10 rounded-lg font-medium transition-colors ${
+                              currentPage === item
+                                ? 'bg-thailand-blue text-white shadow-md'
+                                : 'bg-white shadow-sm border border-gray-200 text-gray-700 hover:bg-gray-50'
+                            }`}
+                          >
+                            {item}
+                          </button>
+                        )
+                      )}
+
+                    <button
+                      onClick={() => { setCurrentPage(p => Math.min(totalPages, p + 1)); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                      disabled={currentPage === totalPages}
+                      className="px-4 py-2 rounded-lg bg-white shadow-sm border border-gray-200 text-gray-700 hover:bg-gray-50 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                    >
+                      Next →
+                    </button>
+                  </nav>
+                )}
+
+                {/* Post count indicator */}
+                {filteredPosts.length > 0 && (
+                  <p className="text-center text-sm text-gray-500 mt-4">
+                    Showing {(currentPage - 1) * POSTS_PER_PAGE + 1}–{Math.min(currentPage * POSTS_PER_PAGE, filteredPosts.length)} of {filteredPosts.length} posts
+                  </p>
                 )}
               </div>
 
