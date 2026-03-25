@@ -6,17 +6,12 @@
     "nl": "Tam Khanun",
     "thai": "ตำขนุน"
   },
-  "thai_name": "ตำขนุน (Tam Khanun)",
-  "origin_region": "northern",
   "category": "salad",
   "region": "northern",
   "spice_level": "hot",
   "description": {
-    "en": "Spicy young jackfruit salad from Northern Thailand",
-    "nl": "Pittige jonge jackfruit salade uit Noord-Thailand"
-  },
-  "extended_description": {
-    "en": "## What Is Tam Khanun?\n\nTam Khanun (ตำขนุน) is a beloved pounded salad from Northern Thailand that transforms young, unripe jackfruit into a deeply savory and spicy dish. The word \"tam\" means to pound, referring to the mortar-and-pestle technique used to bruise and blend the ingredients together. Unlike the sweet ripe jackfruit most visitors encounter, young jackfruit has a firm, meaty texture and a mildly bitter flavor that turns wonderfully savory when cooked. The boiled jackfruit is pounded with a fragrant curry paste, minced pork, crispy pork rinds, cherry tomatoes, dried chilies, and fresh kaffir lime leaves, then briefly stir-fried to bring all the flavors together. The result is a warm salad that hits every taste receptor: salty from fish sauce, sour from lime, sweet from palm sugar, and fiery from dried chilies.\n\n## History & Origins\n\nTam Khanun is a staple of Lanna cuisine, the culinary tradition of Thailand's northern provinces including Chiang Mai, Chiang Rai, and Lamphun. Jackfruit trees grow abundantly throughout the region, and northern Thai cooks have used unripe jackfruit in savory dishes for generations. The dish is traditionally associated with the Lanna New Year celebrations during Songkran in April, when it is considered a lucky food. Village cooks would prepare large batches of tam khanun using jackfruit from their own gardens, pounding the salad in oversized stone mortars to feed extended families. The dish reflects the Lanna philosophy of using locally available ingredients in creative ways, turning an unripe fruit into a complex, satisfying meal.\n\n## How It's Made\n\nThe preparation begins by boiling chunks of young jackfruit until tender, then shredding or roughly chopping them. A curry paste is made by pounding together dried red chilies, shallots, garlic, shrimp paste, and lemongrass. The cooked jackfruit goes into a large mortar and is pounded just enough to break it apart and allow it to absorb the seasonings. The pounded mixture is then stir-fried in a wok with the curry paste, minced pork, fish sauce, and a pinch of palm sugar. Sliced kaffir lime leaves, cherry tomatoes, and crispy pork rinds are tossed in at the end for aroma and texture. Some versions include roasted peanuts or deep-fried garlic for extra crunch.\n\n## Where to Eat It\n\nTam Khanun is best experienced in Thailand's northern provinces. In Chiang Mai, look for it at Huen Phen on Rachamankha Road, a classic northern Thai restaurant that serves traditional Lanna dishes. Khao Soi Khun Yai on Charoenrat Road also features excellent tam khanun alongside their famous khao soi. The Warorot Market food stalls offer affordable versions packed with flavor. In Chiang Rai, Phu Lae restaurant near the Clock Tower is known for authentic Lanna fare including tam khanun. Night markets across the north frequently feature this dish at ready-to-eat food stalls.\n\n## How to Order\n\nAsk for \"tam khanun\" and specify \"sai moo\" if you want it with pork, or \"mai sai moo\" for a vegetarian version without meat. If you prefer less heat, say \"mai phet\" (not spicy) or \"phet nit noi\" (a little spicy). The dish is typically served at room temperature or slightly warm as a side dish alongside sticky rice and other northern Thai dishes like sai oua (northern sausage) and nam prik ong (chili dip). It pairs beautifully with a cold Singha beer.\n\n## Price Guide\n\nTam Khanun is an affordable northern Thai specialty. At street stalls and local markets in Chiang Mai, expect to pay 40-60 THB per portion. Small local restaurants charge 60-100 THB. At established Lanna restaurants like Huen Phen, a plate costs around 80-120 THB. In Bangkok, where the dish is less common but available at northern Thai specialty restaurants, prices range from 100-180 THB."
+    "en": "Spicy young jackfruit salad",
+    "nl": "Pittige jonge jackfruit salade"
   },
   "ingredients": [
     "young jackfruit",
@@ -24,10 +19,7 @@
     "garlic",
     "lime juice",
     "fish sauce",
-    "tomatoes",
-    "minced pork",
-    "kaffir lime leaves",
-    "pork rinds"
+    "tomatoes"
   ],
   "allergens": [],
   "dietary": [
@@ -37,37 +29,14 @@
   "preparation_time": "20 minutes",
   "difficulty": "medium",
   "price_range": "budget",
-  "best_places": [
-    "Huen Phen, Rachamankha Road, Chiang Mai",
-    "Khao Soi Khun Yai, Charoenrat Road, Chiang Mai",
-    "Warorot Market food stalls, Chiang Mai",
-    "Phu Lae Restaurant, Chiang Rai"
-  ],
-  "variations": [
-    "Tam Khanun Sai Moo (with minced pork)",
-    "Tam Khanun Jay (vegetarian version)",
-    "Tam Khanun with roasted peanuts",
-    "Tam Khanun with deep-fried garlic and shallots"
-  ],
-  "ordering_tips": {
-    "en": "Ask for 'tam khanun sai moo' for the pork version or 'mai sai moo' without meat. Say 'phet nit noi' for mild spice. Best enjoyed with sticky rice and other northern dishes as part of a shared meal.",
-    "nl": "Vraag om 'tam khanun sai moo' voor de versie met varkensvlees of 'mai sai moo' zonder vlees. Zeg 'phet nit noi' voor milde pittigheid. Het beste te combineren met sticky rice en andere noordelijke gerechten."
-  },
-  "pairs_well_with": [
-    "Sticky rice",
-    "Sai Oua (northern sausage)",
-    "Nam Prik Ong (chili dip)",
-    "Singha beer"
-  ],
-  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
-      "en": "Tam Khanun: Northern Thai Jackfruit Salad Guide",
-      "nl": "Tam Khanun: Gids voor Noord-Thaise Jackfruit Salade"
+      "en": "Tam Khanun Recipe | Authentic Thai salad",
+      "nl": "Tam Khanun Recept | Authentieke Thaise salad"
     },
     "metaDescription": {
-      "en": "Discover Tam Khanun (ตำขนุน), Northern Thailand's beloved spicy young jackfruit salad. Learn where to eat it in Chiang Mai, how to order, and what makes this Lanna classic special.",
-      "nl": "Ontdek Tam Khanun (ตำขนุน), de geliefde pittige jonge jackfruit salade uit Noord-Thailand. Leer waar je het kunt eten in Chiang Mai en wat dit Lanna-gerecht zo bijzonder maakt."
+      "en": "Learn about Tam Khanun (ตำขนุน) - Spicy young jackfruit salad...",
+      "nl": "Leer over Tam Khanun (ตำขนุน) - Pittige jonge jackfruit salade..."
     }
   },
   "tags": [
@@ -80,8 +49,7 @@
     "budget",
     "young-jackfruit",
     "chili",
-    "garlic",
-    "lanna-cuisine"
+    "garlic"
   ],
   "cooking": {
     "preparation_time": "20 minutes",
@@ -95,6 +63,5 @@
       "vegetarian option"
     ],
     "price_range": "budget"
-  },
-  "enriched_at": "2026-03-23"
+  }
 }

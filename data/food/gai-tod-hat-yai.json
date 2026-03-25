@@ -6,17 +6,12 @@
     "nl": "Gai Tod Hat Yai",
     "thai": "ไก่ทอดหาดใหญ่"
   },
-  "thai_name": "ไก่ทอดหาดใหญ่ (Gai Tod Hat Yai)",
-  "origin_region": "southern",
   "category": "main-dish",
   "region": "southern",
   "spice_level": "mild",
   "description": {
     "en": "Hat Yai style fried chicken with crispy shallots",
     "nl": "Hat Yai stijl gefrituurde kip met krokante sjalotten"
-  },
-  "extended_description": {
-    "en": "## What Is Gai Tod Hat Yai?\n\nGai Tod Hat Yai (ไก่ทอดหาดใหญ่) is Southern Thailand's legendary fried chicken, a dish so beloved it put the border city of Hat Yai on the culinary map. Unlike Western fried chicken with its thick, craggy coating, Hat Yai chicken has a thin, golden crust that shatters at the first bite, revealing juicy, deeply seasoned meat underneath. What truly makes this dish iconic is the mountain of crispy fried shallots piled on top and alongside the chicken, adding a sweet crunch that elevates every mouthful. The chicken is marinated in a fragrant blend of garlic, coriander root, white pepper, cumin, and fish sauce, creating layers of flavor that penetrate all the way to the bone. It is traditionally served with sticky rice and a simple dipping sauce, making it the ultimate Thai street food meal.\n\n## History & Origins\n\nThe story of Hat Yai fried chicken begins about 30 years ago in a fresh market in Hat Yai, Songkhla Province. A couple known as Aunt Wan and Uncle Thongkham sold fresh chicken at the market. Uncle Thongkham began marinating the unsold chicken with a spice blend he had devised, initially eating it himself and sharing with friends. The breakthrough came when he noticed shallots starting to spoil at his stall; he sliced and fried them alongside the chicken. The combination was so irresistible that word spread quickly, and Hat Yai fried chicken became one of Thailand's OTOP (One Tambon One Product) success stories, eventually spreading to every corner of the country.\n\n## How It's Made\n\nThe marinade is key. Chicken pieces (typically drumsticks and thighs on the bone) are rubbed with pounded garlic, coriander roots and stems, white pepper, black pepper, cumin seed, fish sauce, and a touch of salt. The chicken marinates for at least two hours, ideally overnight. Before frying, the pieces are dusted lightly in rice flour, which creates that distinctive thin, crispy skin rather than a heavy batter. The chicken is deep-fried in hot oil until golden and cooked through, then drained. Separately, thinly sliced shallots are fried slowly in oil until golden brown and crispy. The fried chicken is served on a plate or banana leaf, topped generously with the crispy shallots. A sweet chili dipping sauce and sticky rice complete the meal.\n\n## Where to Eat It\n\nIn Hat Yai, the original vendors operate around the city's fresh markets and along Niphat Uthit Road. The Kim Yong Market area has several famous stalls. In Bangkok, gai tod hat yai has become ubiquitous: look for it at Soi Polo Fried Chicken near Lumphini Park, or the Southern Thai restaurants along Charoen Krung Road. Night markets across Thailand carry it. Convenient chain-style stalls branded as \"Hat Yai Fried Chicken\" now appear at most major bus stations and transport hubs throughout the south.\n\n## How to Order\n\nAsk for \"gai tod hat yai\" (ไก่ทอดหาดใหญ่). Most stalls sell by the piece or as a set with sticky rice. A common order is \"song chin khao niao\" (two pieces with sticky rice). Specify \"nang krob\" (crispy skin) if you want extra-crispy pieces. The chicken is not spicy by itself; the heat comes from the dipping sauce. You can ask for \"nam jim\" (dipping sauce) on the side. Some stalls also offer \"gai tod hat yai set\" which includes sticky rice, fried shallots, and dipping sauce.\n\n## Price Guide\n\nGai tod hat yai remains affordable street food. In Hat Yai itself, one piece costs 25-35 THB, with a set of two pieces plus sticky rice at 50-70 THB. In Bangkok, street stalls charge 35-50 THB per piece. A full set meal at a sit-down restaurant runs 80-150 THB. At night markets, expect 40-60 THB per piece."
   },
   "ingredients": [
     "chicken",
@@ -32,30 +27,6 @@
   "preparation_time": "40 minutes",
   "difficulty": "medium",
   "price_range": "budget",
-  "best_places": [
-    "Fresh market stalls in Hat Yai, Songkhla",
-    "Kim Yong Market area, Hat Yai",
-    "Soi Polo Fried Chicken, near Lumphini Park, Bangkok",
-    "Niphat Uthit Road, Hat Yai",
-    "Night markets across Southern Thailand"
-  ],
-  "variations": [
-    "Classic bone-in drumstick and thigh",
-    "Gai tod hat yai boneless (deboned version)",
-    "Gai tod hat yai peek (chicken wings version)",
-    "Extra-crispy shallot topping"
-  ],
-  "ordering_tips": {
-    "en": "Ask for 'gai tod hat yai' and order by the piece. Say 'song chin khao niao' for two pieces with sticky rice. The chicken itself is mild; heat comes from the dipping sauce. Ask for 'nam jim' on the side.",
-    "nl": "Vraag om 'gai tod hat yai' en bestel per stuk. Zeg 'song chin khao niao' voor twee stuks met kleverige rijst. De kip zelf is mild; de pittigheid komt van de dipsaus."
-  },
-  "pairs_well_with": [
-    "Sticky rice (khao niao)",
-    "Som tam (green papaya salad)",
-    "Sweet chili dipping sauce",
-    "Thai iced tea"
-  ],
-  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Gai Tod Hat Yai Recipe | Authentic Thai main dish",
@@ -88,6 +59,5 @@
     "allergens": [],
     "dietary": [],
     "price_range": "budget"
-  },
-  "enriched_at": "2026-03-22"
+  }
 }

@@ -1,136 +1,92 @@
 {
   "title": "Best Restaurants in Bangkok Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Bangkok, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Bangkok, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "A more useful Bangkok restaurant guide for 2026, with stronger picks for rooftop dining, riverside Thai meals, Cantonese splurges, and destination tasting menus.",
+  "intro": "This Bangkok restaurant guide is meant to be more useful than a generic ranking. Instead of pretending there is one universal best place to eat in a city as big as Bangkok, it focuses on strong picks for different types of meals: rooftop dinners, refined Cantonese cooking, riverside Thai restaurants, and destination tasting-menu addresses.",
   "items": [
     {
       "rank": 1,
-      "name": "Finch Bangkok - Indian Restaurant",
-      "description": "Finch Bangkok - Indian Restaurant is a 4.8-rated Indian, Bar restaurant in Bangkok. Known for Excellent Indian food.",
-      "location": "Bangkok",
-      "current_price": "$$ - $$$",
+      "name": "SEEN Restaurant & Bar Bangkok",
+      "description": "SEEN is one of Bangkok's stronger rooftop restaurant picks if you want a skyline-and-river setting as much as the meal itself. At Avani+ Riverside, it works best for sunset drinks, a polished dinner, or a more celebratory night out rather than a quiet classic Thai meal.",
+      "location": "Avani+ Riverside Bangkok, Charoen Nakhon",
+      "current_price": "Upscale rooftop dining",
       "highlights": [
-        "Excellent Indian food"
+        "Chao Phraya and skyline views",
+        "Cocktails and late-night atmosphere",
+        "Best for dinner or drinks rather than a budget meal"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Indian, Bar • Price: $$ - $$$ • Rating: 4.8/5 • 48 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Indian, Bar",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 48,
-        "highlights": [
-          "Excellent Indian food"
-        ],
-        "scraped_at": "2026-03-08T16:51:40.974Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DFinch%2520Bangkok%2520-%2520Indian%2520Restaurant%2520Bangkok"
+      "insider_tips": [
+        "Go close to sunset if the view matters as much as the food.",
+        "Treat it as a mood-and-view restaurant, not as the place for the city's most traditional Thai cooking."
+      ],
+      "current_info": "Cuisine: Rooftop, international • Best for: sunset drinks and a polished dinner • Good to know: reserve ahead if you care about seating"
     },
     {
       "rank": 2,
       "name": "Mott 32 Bangkok",
-      "description": "Mott 32 Bangkok is a 4.8-rated Chinese, Asian restaurant in Bangkok. Known for Super crispy pork belly, Dim sum.",
-      "location": "Bangkok",
-      "current_price": "$$ - $$$",
+      "description": "Mott 32 is one of Bangkok's most defensible upscale Chinese picks, especially if you want a polished special-occasion meal in the Mahanakhon building. The menu leans Cantonese, with signature dim sum, barbecue dishes, and Peking duck in a clearly high-end setting.",
+      "location": "The Standard, Bangkok Mahanakhon, Silom",
+      "current_price": "Upscale",
       "highlights": [
-        "Super crispy pork belly",
-        "Dim sum"
+        "Dim sum and barbecue specialties",
+        "Peking duck",
+        "Strong option for a splurge dinner"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Chinese, Asian • Price: $$ - $$$ • Rating: 4.8/5 • 246 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Chinese, Asian",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 246,
-        "highlights": [
-          "Super crispy pork belly",
-          "Dim sum"
-        ],
-        "scraped_at": "2026-03-08T16:51:40.974Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMott%252032%2520Bangkok%2520Bangkok"
+      "insider_tips": [
+        "This works better as a planned dinner than as a spontaneous cheap eat after sightseeing.",
+        "If you go with a group, order across dim sum and barbecue so the menu makes more sense."
+      ],
+      "current_info": "Cuisine: Chinese, contemporary Cantonese • Best for: upscale dinner • Good to know: this is one of the more polished splurge meals in central Bangkok"
     },
     {
       "rank": 3,
       "name": "Rongros Bangkok",
-      "description": "Rongros Bangkok is a 4.6-rated Asian, Thai restaurant in Bangkok. Known for Marinated steak, Spring rolls, Mango cashew salad.",
-      "location": "Bangkok",
-      "current_price": "$$ - $$$",
+      "description": "Rongros is one of the easiest Bangkok restaurant picks to recommend because it pairs recognizably Thai dishes with one of the city's most memorable Wat Arun views. It is visitor-friendly, but the riverside setting and the cooking together make it more than just a photo stop.",
+      "location": "Maha Rat Road, Tha Tien / riverside",
+      "current_price": "Mid-range to upscale",
       "highlights": [
-        "Marinated steak",
-        "Spring rolls",
-        "Mango cashew salad"
+        "Wat Arun river view",
+        "Thai classics in a polished setting",
+        "Best with a reservation around sunset"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4.6/5 • 284 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.6,
-        "review_count": 284,
-        "highlights": [
-          "Marinated steak",
-          "Spring rolls",
-          "Mango cashew salad",
-          "Green curry chicken"
-        ],
-        "scraped_at": "2026-03-08T16:51:40.974Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRongros%2520Bangkok%2520Bangkok"
+      "insider_tips": [
+        "Book ahead if you want the stronger view-facing tables near sunset.",
+        "This is better for a sit-down riverside meal than for a quick budget lunch."
+      ],
+      "current_info": "Cuisine: Thai • Best for: riverside lunch or sunset dinner • Good to know: location is a major part of the appeal"
     },
     {
       "rank": 4,
-      "name": "The Family",
-      "description": "The Family is a 4.8-rated Asian, Thai restaurant in Bangkok. Known for Yellow curry with tofu.",
-      "location": "Bangkok",
-      "current_price": "$",
+      "name": "Supanniga Eating Room Tha Tien",
+      "description": "Supanniga Eating Room Tha Tien is a better fit if you want homestyle Thai cooking with river views rather than a heavier tasting-menu format. The kitchen draws on family recipes and eastern Thai flavors, which gives the menu more identity than a generic tourist-facing Thai restaurant.",
+      "location": "Maha Rat Road, Tha Tien / riverside",
+      "current_price": "Mid-range to upscale",
       "highlights": [
-        "Yellow curry with tofu"
+        "Wat Arun view",
+        "Family-recipe Thai dishes",
+        "Strong lunch or sunset-dinner option"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $ • Rating: 4.8/5 • 747 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$",
-        "rating": 4.8,
-        "review_count": 747,
-        "highlights": [
-          "Yellow curry with tofu"
-        ],
-        "scraped_at": "2026-03-08T16:51:40.974Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Family%2520Bangkok"
+      "insider_tips": [
+        "This is a better recommendation for travelers who want Thai flavors with a clear point of view rather than a generic upscale menu.",
+        "Lunch can be the easier option if you want the area without prime-time dinner crowds."
+      ],
+      "current_info": "Cuisine: Thai, eastern Thai • Best for: river-view Thai meal • Good to know: more grounded and homestyle than many tourist-heavy riverside spots"
     },
     {
       "rank": 5,
-      "name": "SEEN Restaurant & Bar Bangkok",
-      "description": "SEEN Restaurant & Bar Bangkok is a 4.9-rated Bar, International restaurant in Bangkok. Known for Spectacular view, Delicious wagyu.",
-      "location": "Bangkok",
-      "current_price": "$$$$",
+      "name": "Gaa",
+      "description": "Gaa belongs on a serious Bangkok restaurant list because it is one of the city's clearest destination-dining addresses for travelers who want a planned tasting-menu meal. Chef Garima Arora's cooking draws on Indian roots and Thai produce in a way that feels personal and distinctly Bangkok rather than interchangeable luxury dining.",
+      "location": "Sukhumvit 53, Thonglor",
+      "current_price": "Fine dining tasting menu",
       "highlights": [
-        "Spectacular view",
-        "Delicious wagyu"
+        "Two Michelin stars",
+        "Creative tasting menu",
+        "Best for a planned splurge rather than a casual walk-in"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Bar, International • Price: $$$$ • Rating: 4.9/5 • 3.771 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Bar, International",
-        "price_range": "$$$$",
-        "rating": 4.9,
-        "review_count": 3771,
-        "highlights": [
-          "Spectacular view",
-          "Delicious wagyu"
-        ],
-        "scraped_at": "2026-03-08T16:51:40.974Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSEEN%2520Restaurant%2520%2526%2520Bar%2520Bangkok%2520Bangkok"
+      "insider_tips": [
+        "This is a destination meal that needs planning and reservation lead time.",
+        "Book it only if you actively want the tasting-menu format; it is not a casual neighborhood dinner."
+      ],
+      "current_info": "Cuisine: Indian, contemporary • Best for: destination tasting menu • Good to know: one of Bangkok's clearest splurge restaurants"
     },
     {
       "rank": 6,
@@ -275,11 +231,45 @@
   "city_name": "Bangkok",
   "category": "restaurants",
   "data_sources": [
-    "tripadvisor",
-    "scraped"
+    "editorial",
+    "official websites",
+    "michelin guide",
+    "review signals"
+  ],
+  "content_sources": [
+    {
+      "title": "SEEN Restaurant & Bar Bangkok",
+      "creator": "Avani+ Riverside Bangkok Hotel",
+      "url": "https://www.avanihotels.com/riverside-bangkok/restaurants/seen-bangkok",
+      "description": "Official venue page used for positioning, location context, and rooftop identity."
+    },
+    {
+      "title": "Mott 32 Bangkok",
+      "creator": "The Standard, Bangkok Mahanakhon",
+      "url": "https://www.standardhotels.com/bangkok/features/mott32-bkk",
+      "description": "Official venue page used for location and cuisine framing."
+    },
+    {
+      "title": "Rongros",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/bangkok-region/bangkok/restaurant/rongros",
+      "description": "Used as a high-trust reference for Bangkok relevance and category."
+    },
+    {
+      "title": "Supanniga Eating Room Tha Tien",
+      "creator": "Supanniga Group",
+      "url": "https://www.supannigaeatingroom.com/contact_riva.html",
+      "description": "Official Tha Tien page used for branch and riverside location details."
+    },
+    {
+      "title": "Gaa",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/gaa-1194845",
+      "description": "Used for destination-dining context and Michelin standing."
+    }
   ],
   "last_scraped": "2026-03-08T16:51:40.974Z",
   "generated_at": "2026-03-08T16:51:40.983Z",
-  "hybrid": false,
-  "scraped": true
+  "hybrid": true,
+  "scraped": false
 }

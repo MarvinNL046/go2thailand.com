@@ -1,0 +1,51 @@
+{
+  "id": 16,
+  "slug": "sea-life-bangkok-aquarium",
+  "name": {
+    "en": "SEA LIFE Bangkok Aquarium",
+    "nl": "SEA LIFE Bangkok Aquarium"
+  },
+  "type": "aquarium",
+  "city_slug": "bangkok",
+  "address": "B1-B2 Floors, Siam Paragon, 991 Rama 1 Road, Pathumwan, Bangkok 10330",
+  "location": {
+    "lat": 13.7466,
+    "lng": 100.5349
+  },
+  "opening_hours": "10:00-20:00 (last entry 19:00)",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A large central Bangkok aquarium inside Siam Paragon known for its ocean tunnel, family-friendly exhibits, and polished indoor experience.",
+    "nl": "Een groot aquarium in centraal Bangkok in Siam Paragon, bekend om zijn oceaantunnel, gezinsvriendelijke zones en verzorgde indoor ervaring."
+  },
+  "highlights": [
+    "Ocean tunnel",
+    "Penguin and shark zones",
+    "Indoor family attraction"
+  ],
+  "image": "/images/blog/sea-life-bangkok-aquarium.webp",
+  "official_website": "https://www.visitsealife.com/bangkok/en/",
+  "seo": {
+    "metaTitle": {
+      "en": "SEA LIFE Bangkok Aquarium Guide | Tickets, Hours & Tips",
+      "nl": "SEA LIFE Bangkok Aquarium gids | Tickets, openingstijden en tips"
+    },
+    "metaDescription": {
+      "en": "Plan a visit to SEA LIFE Bangkok Aquarium in Siam Paragon with practical advice on tickets, opening hours, family suitability, and whether it is worth your time in Bangkok.",
+      "nl": "Plan een bezoek aan SEA LIFE Bangkok Aquarium in Siam Paragon met praktische info over tickets, openingstijden, geschiktheid voor gezinnen en of het de moeite waard is in Bangkok."
+    }
+  },
+  "tags": [
+    "aquarium",
+    "bangkok",
+    "siam paragon",
+    "family travel",
+    "indoor attraction",
+    "rainy day activity",
+    "travel",
+    "thailand"
+  ]
+}

@@ -6,17 +6,12 @@
     "nl": "Lod Chong",
     "thai": "ลอดช่อง"
   },
-  "thai_name": "ลอดช่อง (Lod Chong)",
-  "origin_region": "central",
   "category": "dessert",
   "region": "southern",
   "spice_level": "none",
   "description": {
     "en": "Pandan jelly noodles in coconut milk",
     "nl": "Pandan gelei noedels in kokosmelk"
-  },
-  "extended_description": {
-    "en": "## What Is Lod Chong?\n\nLod chong (ลอดช่อง) is a beloved Thai dessert of bright green pandan-flavored jelly noodles swimming in a bowl of sweetened coconut milk over crushed ice. The soft, slippery noodles are made from rice flour tinted and perfumed with fresh pandan leaf juice, giving them a vivid emerald color and a sweet, floral aroma. The coconut milk is salted just enough to balance its richness, and the whole thing is sweetened with a dark, caramel-like palm sugar syrup. Served ice-cold, lod chong is the perfect refreshment on a sweltering Thai afternoon. The dessert is closely related to cendol, the popular Southeast Asian treat found in Malaysia, Indonesia, and Singapore.\n\n## History & Origins\n\nLod chong has been part of Thai dessert culture for generations and shares ancestry with the broader Southeast Asian cendol family of desserts. The Thai version is sometimes called lod chong nam kathi (with coconut milk) to distinguish it from lod chong Singapore, a variation popularized near a Bangkok cinema called Singapore Theatre in the mid-twentieth century that uses a sugar syrup instead of coconut milk. The name \"lod chong\" refers to the method of making the noodles: \"lod\" means to pass through and \"chong\" refers to a hole or mold, describing how the batter is pressed through a perforated mold into ice water to form the worm-like jelly strands. The dessert reflects Thailand's mastery of pandan, coconut, and palm sugar, the three pillars of Thai sweets.\n\n## How It's Made\n\nFresh pandan leaves are blended with water and strained to produce an intensely green, fragrant juice. This juice is mixed with rice flour and tapioca starch to form a smooth batter. The batter is cooked over medium heat, stirring constantly, until it thickens into a glossy, stretchy paste. This hot paste is then pressed through a perforated mold or colander directly into a bowl of ice water, where the strands firm up into soft, chewy jelly noodles. Separately, coconut milk is gently heated with a pinch of salt and sometimes a pandan leaf for extra fragrance. Palm sugar is melted into a dark syrup. To serve, the pandan noodles are placed in a bowl, covered with the salted coconut milk, drizzled with palm sugar syrup, and topped with crushed ice.\n\n## Where to Eat It\n\nLod chong is sold at street carts, market stalls, and dessert shops across Thailand. In Bangkok, the old-school dessert shops along Yaowarat Road in Chinatown serve excellent versions. Chatuchak Weekend Market has multiple dessert vendors offering lod chong. In the south, markets in Nakhon Si Thammarat and Songkhla often serve it alongside other coconut milk desserts. Night markets throughout the country feature lod chong carts, especially during the hot season from March to May. Any Thai market with a dessert section will likely have a vendor making fresh lod chong.\n\n## How to Order\n\nSimply ask for lod chong or lod chong nam kathi. Some vendors offer a choice between lod chong nam kathi (with coconut milk) and lod chong nam chuam (with sugar syrup). The coconut milk version is more traditional and popular. You can ask for \"wan noi\" (less sweet) if you prefer it less sugary. Some vendors will ask if you want extra ice. At dessert buffets at markets, lod chong is often sold alongside bua loy, tub tim krob, and other coconut milk desserts.\n\n## Price Guide\n\nLod chong is a cheap sweet treat. Street carts and market stalls charge 20-35 THB per cup or bowl. Dessert shops in Bangkok charge 30-50 THB. Night market vendors typically charge 25-40 THB. Mall food courts sell it for 35-55 THB. Even at tourist markets, the price rarely exceeds 50 THB, making it one of the most affordable and refreshing ways to cool down in the Thai heat."
   },
   "ingredients": [
     "rice flour",
@@ -33,29 +28,6 @@
   "preparation_time": "30 minutes",
   "difficulty": "medium",
   "price_range": "budget",
-  "best_places": [
-    "Dessert shops on Yaowarat Road, Chinatown, Bangkok",
-    "Chatuchak Weekend Market, Bangkok",
-    "Night markets across Thailand",
-    "Morning markets in Nakhon Si Thammarat"
-  ],
-  "variations": [
-    "Lod Chong Nam Kathi (with coconut milk, most popular)",
-    "Lod Chong Nam Chuam (with sugar syrup)",
-    "Lod Chong Singapore (Bangkok-style with shaved ice and syrup)",
-    "Lod Chong with extra toppings (red beans, corn, jackfruit)"
-  ],
-  "ordering_tips": {
-    "en": "Ask for 'lod chong nam kathi' for the coconut milk version. Say 'wan noi' for less sweet. Most vendors serve it ice-cold by default. It pairs well with other Thai coconut desserts if ordering a dessert platter.",
-    "nl": "Vraag om 'lod chong nam kathi' voor de kokosmelkversie. Zeg 'wan noi' voor minder zoet. De meeste verkopers serveren het standaard ijskoud. Combineert goed met andere Thaise kokosdesserts."
-  },
-  "pairs_well_with": [
-    "Bua loy (glutinous rice balls in coconut milk)",
-    "Tub tim krob (water chestnut in coconut milk)",
-    "Mango sticky rice",
-    "Thai iced tea"
-  ],
-  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
       "en": "Lod Chong Recipe | Authentic Thai dessert",
@@ -89,6 +61,5 @@
       "vegetarian"
     ],
     "price_range": "budget"
-  },
-  "enriched_at": "2026-03-23"
+  }
 }

@@ -8,6 +8,8 @@ interface SEOHeadProps {
   children?: ReactNode;
 }
 
+const DEFAULT_OG_IMAGE = 'https://go2-thailand.com/og-default.webp';
+
 /**
  * SEOHead - Wraps Next.js Head with automatic OG + Twitter meta tags.
  * Title and description are mirrored to og:title, og:description,
@@ -22,6 +24,8 @@ interface SEOHeadProps {
  * or by adding their own meta tags in children.
  */
 export default function SEOHead({ title, description, ogImage, children }: SEOHeadProps) {
+  const resolvedOgImage = ogImage || DEFAULT_OG_IMAGE;
+
   return (
     <Head>
       <title>{title}</title>
@@ -30,12 +34,8 @@ export default function SEOHead({ title, description, ogImage, children }: SEOHe
       <meta property="og:description" content={description} />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
-      {ogImage && (
-        <>
-          <meta property="og:image" content={ogImage} />
-          <meta name="twitter:image" content={ogImage} />
-        </>
-      )}
+      <meta property="og:image" content={resolvedOgImage} />
+      <meta name="twitter:image" content={resolvedOgImage} />
       <link rel="alternate" type="application/rss+xml" title="Go2 Thailand Blog RSS Feed" href="https://go2-thailand.com/feed.xml" />
       {children}
     </Head>

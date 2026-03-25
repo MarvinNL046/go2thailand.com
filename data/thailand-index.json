@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-20T15:29:10.872Z",
+    "generated_at": "2026-03-25T18:54:47.686Z",
     "city_count": 33,
     "data_version": "1.0.0",
     "source_hashes": {
@@ -9,39 +9,39 @@
       "regions": "2e23cfc4f090",
       "nomad_enrichment": "95daf32a040f",
       "safety_enrichment": "503f4c44942b",
-      "city:ayutthaya": "97cc5d33b826",
-      "city:bangkok": "6847ce40beef",
-      "city:bueng-kan": "ad705b9d3ac3",
-      "city:chanthaburi": "ae2c3f3660b1",
-      "city:chiang-khan": "83133cd32f2f",
-      "city:chiang-mai": "c512f8fb1ab5",
-      "city:chiang-rai": "fd5ab969070a",
-      "city:chumphon": "7f6ea9a8d41f",
-      "city:hat-yai": "18214d99f424",
-      "city:hua-hin": "74d830e1df59",
-      "city:kanchanaburi": "0971291d0769",
-      "city:khon-kaen": "e45388791930",
-      "city:koh-samui": "db55e642300d",
-      "city:krabi": "26723affce79",
-      "city:lampang": "2ac3dcf27a97",
-      "city:lopburi": "d28cfc093183",
-      "city:mae-hong-son": "d32174aa271c",
-      "city:mukdahan": "cc633a3ac359",
-      "city:nakhon-phanom": "a6a813f29c70",
-      "city:nakhon-ratchasima": "44db121df9b3",
-      "city:nakhon-si-thammarat": "f1a10a487285",
-      "city:nong-khai": "d9d3cd60003f",
-      "city:pai": "d68d435eb357",
-      "city:pattaya": "b8f25e790ef7",
-      "city:phitsanulok": "5aa42a2812c4",
-      "city:phuket": "4821a793808a",
-      "city:rayong": "4323723c46f4",
-      "city:sukhothai": "5d7ce7931432",
-      "city:surat-thani": "0d85eb43d481",
-      "city:trang": "7cd25ed2ba7f",
-      "city:trat": "56c380e1dc96",
-      "city:ubon-ratchathani": "0f8ba0240c8c",
-      "city:udon-thani": "85e3b965ee32"
+      "city:ayutthaya": "e3a592eeb2dc",
+      "city:bangkok": "665be3e39752",
+      "city:bueng-kan": "094bcfc01ec9",
+      "city:chanthaburi": "0983a6f5003f",
+      "city:chiang-khan": "63ca45bf658b",
+      "city:chiang-mai": "fcd687bdadc7",
+      "city:chiang-rai": "34a91b3d634b",
+      "city:chumphon": "a7b6010007e4",
+      "city:hat-yai": "0a866c8693ad",
+      "city:hua-hin": "7043505cf133",
+      "city:kanchanaburi": "e0c661c58b33",
+      "city:khon-kaen": "4a927a21718a",
+      "city:koh-samui": "c2be0c3b9a5c",
+      "city:krabi": "ebc16f9da61d",
+      "city:lampang": "fa8d07da7cfd",
+      "city:lopburi": "798dbe79f8d2",
+      "city:mae-hong-son": "561e483da019",
+      "city:mukdahan": "ac359eddc3b0",
+      "city:nakhon-phanom": "8352f5311d5f",
+      "city:nakhon-ratchasima": "7f427d3014b4",
+      "city:nakhon-si-thammarat": "27d6eab68aa1",
+      "city:nong-khai": "2aa3f8176b71",
+      "city:pai": "d33f75661288",
+      "city:pattaya": "fc6503104597",
+      "city:phitsanulok": "1f76fdfa0cf1",
+      "city:phuket": "9124d09da053",
+      "city:rayong": "8e81cd8dfa95",
+      "city:sukhothai": "1406d22c3ee5",
+      "city:surat-thani": "a52dbcdf5001",
+      "city:trang": "7da9d4bd0b25",
+      "city:trat": "d117b82ffa5d",
+      "city:ubon-ratchathani": "4a1e8f7f6c47",
+      "city:udon-thani": "31cc43dd299f"
     },
     "weather_coverage": 10,
     "transport_routes_count": 245,
@@ -471,7 +471,7 @@
         "ru": "Буэн Кан",
         "zh": "布恩干"
       },
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/bueng-kan.webp",
       "region": null,
       "location": {
         "lat": 18.3609,
@@ -585,7 +585,7 @@
         "ru": "Chanthaburi",
         "zh": "Chanthaburi"
       },
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/chanthaburi.webp",
       "region": {
         "slug": "central",
         "name": {
@@ -708,7 +708,7 @@
         "ru": "Chiang Khan",
         "zh": "Chiang Khan"
       },
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/chiang-khan.webp",
       "region": null,
       "location": {
         "lat": 17.8944,
@@ -1216,7 +1216,7 @@
         "ru": "Чумпхон",
         "zh": "春蓬"
       },
-      "image": "/images/cities/krabi/krabi-mountain-view.webp",
+      "image": "/images/cities/generated/chumphon.webp",
       "region": {
         "slug": "southern",
         "name": {
@@ -1487,7 +1487,7 @@
         "ru": "Хуа-Хин",
         "zh": "华欣"
       },
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/hua-hin.webp",
       "region": {
         "slug": "central",
         "name": {
@@ -1664,7 +1664,7 @@
         "ru": "Kanchanaburi",
         "zh": "Kanchanaburi"
       },
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "image": "/images/cities/generated/kanchanaburi.webp",
       "region": {
         "slug": "central",
         "name": {
@@ -1836,7 +1836,7 @@
         "ru": "Кхон Каен",
         "zh": "孔敬"
       },
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/khon-kaen.webp",
       "region": {
         "slug": "isaan",
         "name": {
@@ -1961,7 +1961,7 @@
         "ru": "Ко Самуи",
         "zh": "苏梅岛"
       },
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/koh-samui.webp",
       "region": {
         "slug": "southern",
         "name": {
@@ -2326,7 +2326,7 @@
         "ru": "Лампанг",
         "zh": "兰邦"
       },
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "image": "/images/cities/generated/lampang.webp",
       "region": {
         "slug": "northern",
         "name": {
@@ -2447,7 +2447,7 @@
         "ru": "Лопбури",
         "zh": "罗布里"
       },
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "image": "/images/cities/generated/lopburi.webp",
       "region": {
         "slug": "central",
         "name": {
@@ -2568,7 +2568,7 @@
         "ru": "Mae Hong Son",
         "zh": "Mae Hong Son"
       },
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "image": "/images/cities/generated/mae-hong-son.webp",
       "region": {
         "slug": "northern",
         "name": {
@@ -2689,7 +2689,7 @@
         "ru": "Mukdahan",
         "zh": "Mukdahan"
       },
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/mukdahan.webp",
       "region": null,
       "location": {
         "lat": 16.5425,
@@ -2803,7 +2803,7 @@
         "ru": "Nakhon Phanom",
         "zh": "Nakhon Phanom"
       },
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/nakhon-phanom.webp",
       "region": null,
       "location": {
         "lat": 17.3947,
@@ -2918,7 +2918,7 @@
         "ru": "Nakhon Ratchasima (Korat)",
         "zh": "Nakhon Ratchasima (Korat)"
       },
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/nakhon-ratchasima.webp",
       "region": {
         "slug": "isaan",
         "name": {
@@ -3045,7 +3045,7 @@
         "ru": "Nakhon Si Thammarat",
         "zh": "Nakhon Si Thammarat"
       },
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/nakhon-si-thammarat.webp",
       "region": {
         "slug": "southern",
         "name": {
@@ -3282,7 +3282,7 @@
         "ru": "Pai",
         "zh": "Pai"
       },
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "image": "/images/cities/generated/pai.webp",
       "region": {
         "slug": "northern",
         "name": {
@@ -3635,7 +3635,7 @@
         "ru": "Phitsanulok",
         "zh": "Phitsanulok"
       },
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "image": "/images/cities/generated/phitsanulok.webp",
       "region": {
         "slug": "central",
         "name": {
@@ -3956,7 +3956,7 @@
         "ru": "Rayong",
         "zh": "罗勇"
       },
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/rayong.webp",
       "region": {
         "slug": "central",
         "name": {
@@ -4083,7 +4083,7 @@
         "ru": "Sukhothai",
         "zh": "素可泰"
       },
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "image": "/images/cities/generated/sukhothai.webp",
       "region": {
         "slug": "northern",
         "name": {
@@ -4230,7 +4230,7 @@
         "ru": "Surat Thani",
         "zh": "Surat Thani"
       },
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/surat-thani.webp",
       "region": {
         "slug": "southern",
         "name": {
@@ -4380,7 +4380,7 @@
         "ru": "Trang",
         "zh": "Trang"
       },
-      "image": "/images/cities/krabi/krabi-mountain-view.webp",
+      "image": "/images/cities/generated/trang.webp",
       "region": {
         "slug": "southern",
         "name": {
@@ -4502,7 +4502,7 @@
         "ru": "Трат",
         "zh": "特拉特"
       },
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/trat.webp",
       "region": {
         "slug": "central",
         "name": {
@@ -4623,7 +4623,7 @@
         "ru": "Ubon Ratchathani",
         "zh": "Ubon Ratchathani"
       },
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/ubon-ratchathani.webp",
       "region": {
         "slug": "isaan",
         "name": {
@@ -4745,7 +4745,7 @@
         "ru": "Удон-Тхани",
         "zh": "乌登他尼"
       },
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/udon-thani.webp",
       "region": {
         "slug": "isaan",
         "name": {

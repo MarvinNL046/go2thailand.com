@@ -6,17 +6,12 @@
     "nl": "Laab Kua",
     "thai": "ลาบคั่ว"
   },
-  "thai_name": "ลาบคั่ว (Laab Kua)",
-  "origin_region": "northern",
   "category": "salad",
   "region": "northern",
   "spice_level": "hot",
   "description": {
     "en": "Northern style meat salad with spices and herbs",
     "nl": "Noordelijke stijl vleessalade met specerijen en kruiden"
-  },
-  "extended_description": {
-    "en": "## What Is Laab Kua?\n\nLaab kua (ลาบคั่ว) is northern Thailand's version of the famous Thai meat salad, and it is a completely different animal from the Isaan larb most foreigners know. Instead of a raw-tasting, lime-dressed salad, laab kua is a dry-fried dish where minced meat is stir-fried in a hot wok with a complex blend of dried spices called prik laab. The word \"kua\" means to dry-fry or toast, and that technique gives the dish its hallmark flavor: smoky, deeply aromatic, and warmly spiced with notes of cinnamon, star anise, and Sichuan pepper. The meat picks up a slightly caramelized crust from the high-heat wok, and the whole dish has an earthy, rustic character that is utterly addictive.\n\n## History & Origins\n\nLaab kua has its roots in the Lanna Kingdom of northern Thailand, the ancient realm centered on Chiang Mai that existed from the thirteenth to eighteenth centuries. Traditionally, laab was a communal dish made for large gatherings: villagers would butcher a whole animal specifically for the occasion, using every part including offal, blood, and skin. The complex spice blend prik laab shows clear Chinese and Burmese influence, reflecting the Lanna Kingdom's position as a cultural crossroads. The dish remains deeply tied to northern Thai identity and is quite rare outside of the region. Even in Bangkok, finding an authentic laab kua requires seeking out specialized northern Thai restaurants.\n\n## How It's Made\n\nThe secret weapon is prik laab, a roasted spice blend typically containing around ten dried spices: coriander seeds, cumin, Sichuan pepper, long pepper, star anise, cinnamon, white cardamom, cloves, dried chilies, and makhwaen (a local Sichuan pepper variety). These spices are dry-roasted in a wok until fragrant and then ground to a fine powder. Minced pork or beef is stir-fried in a very hot wok with no oil, using its own fat to cook. Once the meat develops color, fried garlic, fried shallots, and the prik laab spice blend are tossed in. Fish sauce provides saltiness. Unlike Isaan larb, there is no lime juice in the traditional recipe. The finished dish is served at room temperature with fresh vegetables.\n\n## Where to Eat It\n\nIn Chiang Mai, Laap Ton Yang on Wiang Kaew Road is legendary among food enthusiasts and serves a traditional laab kua with offal options. SP Chicken on Sam Lan Road, while famous for roast chicken, also serves a solid northern laab. Huen Phen on Ratchamanka Road offers it in a classic Lanna dining setting. In Bangkok, Khao Soi Mae Manee in the Ari neighborhood and Tong Tem Toh (multiple branches) serve authentic northern-style laab kua. Chiang Rai's morning markets also feature vendors selling laab kua with sticky rice.\n\n## How to Order\n\nAsk for laab kua moo (pork) or laab kua neua (beef). If you are adventurous, ask for \"laab moo kua sai kreuang nai\" to include offal, which is the traditional way. Specify \"mai sai kreuang nai\" if you want meat only. The dish always comes with a basket of sticky rice (khao neow), which you pinch off and use to scoop up the laab. Fresh vegetables like cabbage wedges, long beans, mint, and cucumber are served alongside.\n\n## Price Guide\n\nLaab kua is extremely affordable in northern Thailand. Local restaurants and market stalls in Chiang Mai charge 40-60 THB per plate. At well-known restaurants like Huen Phen, expect 60-90 THB. In Bangkok, northern Thai restaurants charge 80-130 THB. A full meal of laab kua, sticky rice, and a drink typically runs 60-100 THB in the north. The offal versions are usually the same price or slightly cheaper."
   },
   "ingredients": [
     "minced pork or beef",
@@ -31,29 +26,6 @@
   "preparation_time": "20 minutes",
   "difficulty": "medium",
   "price_range": "budget",
-  "best_places": [
-    "Laap Ton Yang, Wiang Kaew Road, Chiang Mai",
-    "Huen Phen, Ratchamanka Road, Chiang Mai",
-    "Tong Tem Toh, Bangkok (multiple branches)",
-    "Chiang Rai morning markets"
-  ],
-  "variations": [
-    "Laab Kua Moo (pork, most common)",
-    "Laab Kua Neua (beef version)",
-    "Laab Kua Sai Kreuang Nai (with offal, traditional)",
-    "Laab Kua Gai (chicken, less common)"
-  ],
-  "ordering_tips": {
-    "en": "Ask for 'laab kua moo' (pork) or 'laab kua neua' (beef). Say 'sai kreuang nai' for offal or 'mai sai kreuang nai' for meat only. Always order with sticky rice (khao neow). Eat with the fresh vegetables on the side.",
-    "nl": "Vraag om 'laab kua moo' (varkensvlees) of 'laab kua neua' (rundvlees). Zeg 'sai kreuang nai' voor orgaanvlees of 'mai sai kreuang nai' voor alleen vlees. Bestel altijd met kleefrijst (khao neow)."
-  },
-  "pairs_well_with": [
-    "Sticky rice (khao neow)",
-    "Fresh cabbage wedges",
-    "Northern Thai sausage (sai ua)",
-    "Chang or Singha beer"
-  ],
-  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Laab Kua Recipe | Authentic Thai salad",
@@ -86,6 +58,5 @@
     "allergens": [],
     "dietary": [],
     "price_range": "budget"
-  },
-  "enriched_at": "2026-03-23"
+  }
 }

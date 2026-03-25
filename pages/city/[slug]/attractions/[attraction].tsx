@@ -5,6 +5,7 @@ import { getCityBySlug, getAttractionBySlug, generateAttractionMetadata, generat
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import TripcomWidget from '../../../../components/TripcomWidget';
 import SEOHead from '../../../../components/SEOHead';
+import Sources from '../../../../components/blog/Sources';
 
 interface Attraction {
   id: number;
@@ -34,6 +35,9 @@ interface Attraction {
   enhanced_description?: string;
   detailed_history?: string;
   visitor_experience?: string;
+  hidden_gem_reason?: string;
+  who_should_visit?: string[];
+  who_can_skip?: string[];
   best_time_to_visit?: {
     time_of_day: string;
     duration: string;
@@ -49,9 +53,14 @@ interface Attraction {
   insider_tips?: string[];
   seasonal_considerations?: string;
   accessibility?: string;
+  verified_note?: string;
   cultural_significance?: string;
   fun_facts?: string[];
   googleMapsUrl?: string;
+  contentSources?: Array<{
+    name: string;
+    url: string;
+  }>;
 }
 
 interface City {
@@ -323,6 +332,76 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                   </div>
                 )}
 
+                {(attraction.hidden_gem_reason || attraction.verified_note) && (
+                  <div className="grid grid-cols-1 xl:grid-cols-3 gap-6">
+                    {attraction.hidden_gem_reason && (
+                      <div className="xl:col-span-2 bg-white rounded-2xl shadow-md p-8">
+                        <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-4">
+                          Why It Is a Hidden Gem in {city.name.en}
+                        </h3>
+                        <p className="text-gray-700 leading-relaxed">{attraction.hidden_gem_reason}</p>
+                      </div>
+                    )}
+
+                    {attraction.verified_note && (
+                      <div className="bg-surface-cream rounded-2xl p-8">
+                        <h3 className="text-xl font-bold font-heading text-thailand-blue-900 mb-4">
+                          Verified Planning Note
+                        </h3>
+                        <p className="text-thailand-blue-800 leading-relaxed text-sm">
+                          {attraction.verified_note}
+                        </p>
+                      </div>
+                    )}
+                  </div>
+                )}
+
+                {(attraction.who_should_visit?.length || attraction.who_can_skip?.length) && (
+                  <div className="bg-white rounded-2xl shadow-md p-8">
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                      {attraction.who_should_visit && attraction.who_should_visit.length > 0 && (
+                        <div>
+                          <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-5">
+                            Who Should Visit
+                          </h3>
+                          <div className="space-y-3">
+                            {attraction.who_should_visit.map((item, index) => (
+                              <div key={index} className="flex items-start">
+                                <div className="w-6 h-6 bg-thailand-gold rounded-xl flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
+                                  <svg className="w-3 h-3 text-thailand-blue-900" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                                  </svg>
+                                </div>
+                                <span className="text-gray-700">{item}</span>
+                              </div>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+
+                      {attraction.who_can_skip && attraction.who_can_skip.length > 0 && (
+                        <div>
+                          <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-5">
+                            You Can Skip It If
+                          </h3>
+                          <div className="space-y-3">
+                            {attraction.who_can_skip.map((item, index) => (
+                              <div key={index} className="flex items-start">
+                                <div className="w-6 h-6 bg-thailand-red rounded-xl flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
+                                  <svg className="w-3 h-3 text-white" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.536-10.95a1 1 0 00-1.414-1.414L10 8.757 7.879 6.636a1 1 0 10-1.414 1.414L8.586 10l-2.121 2.121a1 1 0 101.414 1.414L10 11.414l2.121 2.121a1 1 0 001.414-1.414L11.414 10l2.122-2.121z" clipRule="evenodd" />
+                                  </svg>
+                                </div>
+                                <span className="text-gray-700">{item}</span>
+                              </div>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                )}
+
                 {/* In-Content Ad */}
 
                 {/* Photography Tips */}
@@ -372,6 +451,10 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       ))}
                     </div>
                   </div>
+                )}
+
+                {attraction.contentSources && attraction.contentSources.length > 0 && (
+                  <Sources sources={attraction.contentSources} />
                 )}
 
                 {/* Fun Facts */}

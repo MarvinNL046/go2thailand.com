@@ -80,5 +80,15 @@
     "The SEA LIFE Aquarium is home to over 30,000 marine animals.",
     "The mall has hosted numerous celebrity events and product launches, making it a hotspot for high-profile visitors."
   ],
+  "contentSources": [
+    {
+      "name": "Siam Paragon official site",
+      "url": "https://www.siamparagon.co.th"
+    },
+    {
+      "name": "SEA LIFE Bangkok official site",
+      "url": "https://www.visitsealife.com/bangkok/en/"
+    }
+  ],
   "enhanced_at": "2025-05-25T20:46:54.163Z"
 }

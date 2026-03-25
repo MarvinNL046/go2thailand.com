@@ -6,17 +6,12 @@
     "nl": "Thaise Gebakken Rijst",
     "thai": "ข้าวผัด"
   },
-  "thai_name": "ข้าวผัด (Khao Pad)",
-  "origin_region": "central",
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
-    "en": "Fragrant fried rice with jasmine rice, fish sauce, and fresh vegetables",
-    "nl": "Geurige gebakken rijst met jasmijnrijst, vissaus en verse groenten"
-  },
-  "extended_description": {
-    "en": "## What Is Thai Fried Rice?\n\nKhao Pad (ข้าวผัด) is Thailand's quintessential fried rice and arguably the most eaten dish in the entire country. The name breaks down simply: \"khao\" means rice and \"pad\" means stir-fried. What separates Thai fried rice from its Chinese ancestor is the distinctly Thai seasoning: fish sauce provides the salty backbone instead of soy sauce alone, a squeeze of fresh lime adds brightness, and the mandatory side of prik nam pla (sliced chilies in fish sauce) lets each diner dial in their preferred heat level. Day-old jasmine rice is wok-fried over intense heat with garlic, egg, onion, and tomato until each grain is separate and lightly charred. The dish arrives on a plate garnished with cucumber slices, a lime wedge, and spring onion, often with a fried egg on top. It is the ultimate Thai comfort food: fast, cheap, satisfying, and available at virtually every food stall in the country.\n\n## History & Origins\n\nThai fried rice owes its existence to the Chinese immigrants who settled in Bangkok's Chinatown district during the late 19th and early 20th centuries. Chinese wok techniques including stir-frying at high heat became integral to Thai cooking during this period. However, Thai cooks adapted the dish to local tastes by swapping soy sauce for fish sauce and adding lime, creating something distinctly Thai. Bangkok's Chinatown is widely considered the birthplace of Thai street food, and khao pad was one of the first dishes to emerge from that cultural fusion. Street food culture in Thailand only became truly widespread in the 1960s and 1970s, and khao pad rode that wave to become one of the most universally available dishes in the country. Today it is a staple from the humblest pushcart to five-star hotel restaurants.\n\n## How It's Made\n\nThe secret to great khao pad starts with the rice. Day-old cooked jasmine rice works best because the grains have dried out slightly and will fry without clumping. A screaming hot wok is essential. Garlic goes in first, followed by the protein of choice: chicken, shrimp, pork, or crab. An egg is cracked directly into the wok and scrambled, then the rice is added and tossed aggressively to coat every grain in the wok's heat. Fish sauce, a pinch of sugar, and white soy sauce provide the seasoning. Diced tomato and sliced onion are folded in near the end so they retain some texture. The finished rice is pressed into a bowl, inverted onto a plate for a neat dome shape, and garnished with cucumber slices, a lime wedge, spring onion, and cilantro.\n\n## Where to Eat It\n\nKhao pad is everywhere in Thailand, but certain spots stand out. In Bangkok, Krua Apsorn near Democracy Monument is famous for its crab fried rice (khao pad pu), a favorite of the Thai royal family. Thip Samai on Mahachai Road, while known for pad thai, also serves exceptional fried rice. Street stalls along Yaowarat Road in Chinatown offer classic versions at unbeatable prices. In Chiang Mai, the stalls around the North Gate are reliable choices. On the islands, beachside restaurants in Koh Samui and Phuket serve fresh seafood fried rice with the day's catch.\n\n## How to Order\n\nSpecify your protein: khao pad gai (chicken), khao pad goong (shrimp), khao pad moo (pork), khao pad pu (crab), or khao pad jay (vegetarian). Ask for \"kai dao\" to add a fried egg on top, which most Thais consider essential. Say \"phet nit noi\" for a little spice or \"mai phet\" for no spice. The condiment tray at every table will have sugar, fish sauce, dried chili flakes, and prik nam pla so you can adjust the flavor to your liking.\n\n## Price Guide\n\nKhao Pad is one of Thailand's best food bargains. Street stalls and food courts charge 40-60 THB for a generous plate. Small local restaurants (raan ahaan tam sang) charge 50-80 THB. In tourist areas like Khao San Road or beach towns, expect 80-150 THB. Upscale versions like crab fried rice at Krua Apsorn run 150-250 THB. Hotel restaurants charge 200-400 THB for essentially the same dish."
+    "en": "Fragrant fried rice with jasmine rice fish sauce and fresh vegetables",
+    "nl": "Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten"
   },
   "ingredients": [
     "jasmine rice",
@@ -25,13 +20,9 @@
     "onion",
     "tomato",
     "cucumber",
-    "lime",
-    "egg",
-    "spring onion"
+    "lime"
   ],
-  "allergens": [
-    "egg"
-  ],
+  "allergens": [],
   "dietary": [
     "vegetarian option"
   ],
@@ -39,39 +30,14 @@
   "preparation_time": "12 minutes",
   "difficulty": "easy",
   "price_range": "budget",
-  "best_places": [
-    "Krua Apsorn, near Democracy Monument, Bangkok",
-    "Yaowarat Road street stalls, Chinatown, Bangkok",
-    "Thip Samai, Mahachai Road, Bangkok",
-    "North Gate food stalls, Chiang Mai"
-  ],
-  "variations": [
-    "Khao Pad Gai (chicken fried rice)",
-    "Khao Pad Goong (shrimp fried rice)",
-    "Khao Pad Pu (crab fried rice)",
-    "Khao Pad Sapparot (pineapple fried rice)",
-    "Khao Pad Kra Pao (basil fried rice)",
-    "Khao Pad Jay (vegetarian fried rice)"
-  ],
-  "ordering_tips": {
-    "en": "Order by protein: 'khao pad gai' for chicken, 'goong' for shrimp, 'moo' for pork, or 'pu' for crab. Ask for 'kai dao' to add a fried egg on top. Use the condiment tray to adjust seasoning to taste.",
-    "nl": "Bestel op eiwit: 'khao pad gai' voor kip, 'goong' voor garnalen, 'moo' voor varkensvlees, of 'pu' voor krab. Vraag om 'kai dao' voor een gebakken ei erbij. Gebruik de kruidenbak om op smaak te brengen."
-  },
-  "pairs_well_with": [
-    "Fried egg (kai dao)",
-    "Prik nam pla (chilies in fish sauce)",
-    "Tom yum soup",
-    "Fresh cucumber slices"
-  ],
-  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
-      "en": "Thai Fried Rice (Khao Pad): Complete Street Food Guide",
-      "nl": "Thaise Gebakken Rijst (Khao Pad): Complete Gids"
+      "en": "Thai Fried Rice Recipe | Authentic Thai main dish",
+      "nl": "Thaise Gebakken Rijst Recept | Authentieke Thaise main dish"
     },
     "metaDescription": {
-      "en": "Discover Khao Pad (ข้าวผัด), Thailand's beloved fried rice. Learn about its Chinese-Thai fusion origins, where to find the best versions in Bangkok, and how to order like a local.",
-      "nl": "Ontdek Khao Pad (ข้าวผัด), Thailand's geliefde gebakken rijst. Leer over de Chinese-Thaise fusie-oorsprong, waar je de beste versies vindt in Bangkok en hoe je bestelt als een local."
+      "en": "Learn about Thai Fried Rice (ข้าวผัด) - Fragrant fried rice with jasmine rice fish sauce and fresh vegetables...",
+      "nl": "Leer over Thaise Gebakken Rijst (ข้าวผัด) - Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten..."
     }
   },
   "tags": [
@@ -84,23 +50,19 @@
     "budget",
     "jasmine-rice",
     "fish-sauce",
-    "garlic",
-    "street-food"
+    "garlic"
   ],
   "cooking": {
     "preparation_time": "12 minutes",
     "difficulty": "easy",
     "spice_level": "mild",
-    "serves": "1-2 people"
+    "serves": "2-4 people"
   },
   "nutrition": {
-    "allergens": [
-      "egg"
-    ],
+    "allergens": [],
     "dietary": [
       "vegetarian option"
     ],
     "price_range": "budget"
-  },
-  "enriched_at": "2026-03-23"
+  }
 }

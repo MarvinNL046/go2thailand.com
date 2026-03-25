@@ -1,0 +1,49 @@
+{
+  "id": 17,
+  "slug": "pak-khlong-talat",
+  "name": {
+    "en": "Pak Khlong Talat",
+    "nl": "Pak Khlong Talat"
+  },
+  "type": "market",
+  "city_slug": "bangkok",
+  "address": "Chak Phet Road area, Wang Burapha Phirom, Phra Nakhon, Bangkok 10200",
+  "location": {
+    "lat": 13.7422,
+    "lng": 100.4966
+  },
+  "opening_hours": "Open daily; busiest before dawn and in cooler hours",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Bangkok's best-known flower market, valued for temple-offering culture, flower-garland trade, and a more everyday view of city life.",
+    "nl": "Bangkoks bekendste bloemenmarkt, gewaardeerd om tempeloffercultuur, bloemenkransenhandel en een alledaagsere blik op het stadsleven."
+  },
+  "highlights": [
+    "Flower market culture",
+    "Temple offerings and garlands",
+    "Best atmosphere before dawn"
+  ],
+  "image": "/images/blog/pak-khlong-talat.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Pak Khlong Talat, Bangkok | Flower Market Guide",
+      "nl": "Pak Khlong Talat, Bangkok | Bloemenmarkt gids"
+    },
+    "metaDescription": {
+      "en": "Visit Pak Khlong Talat in Bangkok for flower market culture, temple-offering traditions, and practical tips on when the market feels most alive.",
+      "nl": "Bezoek Pak Khlong Talat in Bangkok voor bloemenmarktcultuur, tradities rond tempeloffers en praktische tips over wanneer de markt het levendigst is."
+    }
+  },
+  "tags": [
+    "market",
+    "bangkok",
+    "flower market",
+    "pak khlong talat",
+    "thai culture",
+    "old bangkok",
+    "travel"
+  ]
+}

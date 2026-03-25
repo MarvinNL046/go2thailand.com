@@ -6,29 +6,21 @@
     "nl": "Yam Woon Sen",
     "thai": "ยำวุ้นเส้น"
   },
-  "thai_name": "ยำวุ้นเส้น (Yam Woon Sen)",
-  "origin_region": "central",
   "category": "salad",
   "region": "central",
   "spice_level": "medium",
   "description": {
-    "en": "Refreshing glass noodle salad with shrimp, ground pork, and zesty lime dressing",
-    "nl": "Verfrissende glasnoedelsalade met garnalen, varkensgehakt en pittige limoendressing"
-  },
-  "extended_description": {
-    "en": "## What Is Yam Woon Sen?\n\nYam Woon Sen (ยำวุ้นเส้น) is a beloved Thai glass noodle salad that perfectly captures the Thai philosophy of balancing flavors and textures in a single dish. The name translates simply: \"yam\" means to mix or toss (and refers to the entire category of Thai salads), while \"woon sen\" means glass noodles, the translucent mung bean vermicelli that gives the dish its distinctive look. Slippery, slightly chewy glass noodles are tossed with poached shrimp, crumbled ground pork, crunchy celery, halved cherry tomatoes, sliced shallots, and fresh cilantro, all dressed in a punchy sauce of lime juice, fish sauce, sugar, and pounded bird's eye chilies. The result is a salad that is simultaneously refreshing and fiery, light yet satisfying. It is one of Thailand's most popular home-cooked dishes and a staple at Thai restaurants worldwide.\n\n## History & Origins\n\nYam Woon Sen belongs to the \"yam\" family of Thai salads, a category that is central to Thai cuisine and dates back centuries. The yam tradition reflects the Thai approach of combining raw and cooked elements with a bright, acidic dressing. Glass noodles themselves arrived in Thailand through Chinese culinary influence, as mung bean vermicelli has been produced in China for over a thousand years. Thai cooks adopted the ingredient and gave it a distinctly Thai treatment by pairing it with the classic yam dressing of lime, fish sauce, chilies, and sugar. The dish became a household staple across central Thailand, where it is commonly prepared for family meals, temple festivals, and celebrations. In Thai culture, glass noodles are considered a lighter, lower-calorie alternative to rice noodles because they absorb more water during cooking, making yam woon sen a popular choice for those watching their weight.\n\n## How It's Made\n\nDried glass noodles are soaked in warm water until pliable, then briefly boiled until translucent and slightly chewy, about two minutes. They must not be overcooked or they become mushy. The noodles are drained and cut into manageable lengths with scissors. Shrimp are poached in the same water until just pink, and ground pork is separately blanched in simmering water seasoned with fish sauce until cooked through and crumbly. The dressing is made by pounding bird's eye chilies with garlic in a mortar, then mixing with fresh lime juice, fish sauce, and a touch of sugar until balanced. Everything is tossed together in a large bowl with sliced shallots, diced celery, halved cherry tomatoes, and fresh cilantro. Some versions add Chinese celery, dried shrimp, or a squeeze of roasted chili paste for extra depth.\n\n## Where to Eat It\n\nYam Woon Sen is ubiquitous across Thailand. In Bangkok, Som Tam Nua on Siam Square is known for excellent yam dishes including a standout yam woon sen. Baan Somtum on Convent Road in Silom serves a well-balanced version alongside their famous papaya salads. Street vendors at Chatuchak Weekend Market often prepare fresh yam woon sen to order. Most raan ahaan tam sang (made-to-order restaurants) throughout the country will have it on their menu. In Chiang Mai, look for it at the food courts of Kad Suan Kaew or the night bazaar food stalls. In tourist areas like Phuket and Koh Samui, beachside restaurants serve it as a refreshing appetizer.\n\n## How to Order\n\nSimply ask for \"yam woon sen.\" If you want to customize, specify \"mai sai moo\" to skip the pork or \"mai sai goong\" to skip the shrimp. For a seafood-heavy version, ask for \"yam woon sen talay\" (with mixed seafood). Adjust spice level with \"phet nit noi\" for mild or \"phet maak\" for extra heat. The dish is typically served at room temperature on a plate, meant to be eaten alongside steamed rice and other shared dishes. It also works perfectly as a standalone light meal or appetizer.\n\n## Price Guide\n\nYam Woon Sen is an affordable dish across Thailand. Street stalls and food courts charge 50-80 THB for a standard portion with shrimp and pork. Local restaurants charge 80-130 THB. In tourist areas and upscale restaurants, expect 120-200 THB. Seafood-heavy versions (yam woon sen talay) with squid, mussels, and extra shrimp cost 150-250 THB. Bangkok hotel restaurants charge 200-350 THB."
+    "en": "Glass noodle salad with shrimp and ground pork",
+    "nl": "Glasnoedelsalade met garnalen en varkensgehakt"
   },
   "ingredients": [
     "glass noodles",
     "shrimp",
     "ground pork",
     "tomatoes",
-    "shallots",
+    "onion",
     "cilantro",
-    "lime juice",
-    "fish sauce",
-    "bird's eye chili",
-    "celery"
+    "lime juice"
   ],
   "allergens": [
     "seafood"
@@ -38,38 +30,14 @@
   "preparation_time": "20 minutes",
   "difficulty": "easy",
   "price_range": "budget",
-  "best_places": [
-    "Som Tam Nua, Siam Square, Bangkok",
-    "Baan Somtum, Convent Road, Silom, Bangkok",
-    "Chatuchak Weekend Market food stalls, Bangkok",
-    "Night Bazaar food stalls, Chiang Mai"
-  ],
-  "variations": [
-    "Yam Woon Sen Talay (mixed seafood version)",
-    "Yam Woon Sen Goong (shrimp only)",
-    "Yam Woon Sen Moo Sap (pork only)",
-    "Yam Woon Sen Jay (vegetarian version)",
-    "Yam Woon Sen with dried shrimp"
-  ],
-  "ordering_tips": {
-    "en": "Ask for 'yam woon sen' and customize: 'mai sai moo' for no pork, 'talay' for mixed seafood. Say 'phet nit noi' for mild or 'phet maak' for extra spicy. Served at room temperature as a shared side dish or light meal.",
-    "nl": "Vraag om 'yam woon sen' en pas aan: 'mai sai moo' zonder varkensvlees, 'talay' voor gemengde zeevruchten. Zeg 'phet nit noi' voor mild of 'phet maak' voor extra pittig."
-  },
-  "pairs_well_with": [
-    "Steamed jasmine rice",
-    "Som tam (papaya salad)",
-    "Grilled chicken (gai yang)",
-    "Thai iced tea"
-  ],
-  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
-      "en": "Yam Woon Sen: Thai Glass Noodle Salad Guide",
-      "nl": "Yam Woon Sen: Gids voor Thaise Glasnoedelsalade"
+      "en": "Yam Woon Sen Recipe | Authentic Thai salad",
+      "nl": "Yam Woon Sen Recept | Authentieke Thaise salad"
     },
     "metaDescription": {
-      "en": "Discover Yam Woon Sen (ยำวุ้นเส้น), Thailand's refreshing glass noodle salad with shrimp and ground pork. Learn where to eat it, how to order, and what makes this Thai classic so popular.",
-      "nl": "Ontdek Yam Woon Sen (ยำวุ้นเส้น), Thailand's verfrissende glasnoedelsalade met garnalen en gehakt. Leer waar je het kunt eten en hoe je bestelt."
+      "en": "Learn about Yam Woon Sen (ยำวุ้นเส้น) - Glass noodle salad with shrimp and ground pork...",
+      "nl": "Leer over Yam Woon Sen (ยำวุ้นเส้น) - Glasnoedelsalade met garnalen en varkensgehakt..."
     }
   },
   "tags": [
@@ -82,8 +50,7 @@
     "budget",
     "glass-noodles",
     "shrimp",
-    "ground-pork",
-    "yam-salad"
+    "ground-pork"
   ],
   "cooking": {
     "preparation_time": "20 minutes",
@@ -97,6 +64,5 @@
     ],
     "dietary": [],
     "price_range": "budget"
-  },
-  "enriched_at": "2026-03-23"
+  }
 }

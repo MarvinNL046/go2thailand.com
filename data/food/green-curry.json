@@ -6,17 +6,12 @@
     "nl": "Groene Curry",
     "thai": "แกงเขียวหวาน"
   },
-  "thai_name": "แกงเขียวหวาน (Gaeng Khiao Wan)",
-  "origin_region": "central",
   "category": "curry",
   "region": "central",
   "spice_level": "hot",
   "description": {
     "en": "Spicy green curry with coconut milk Thai eggplant and basil",
     "nl": "Pittige groene curry met kokosmelk Thaise aubergine en basilicum"
-  },
-  "extended_description": {
-    "en": "## What Is Green Curry?\n\nGreen Curry, or Gaeng Khiao Wan (แกงเขียวหวาน), is arguably the most famous Thai curry in the world and one of the defining dishes of central Thai cuisine. The name translates to \"sweet green curry,\" though the word \"sweet\" (wan) refers to the soft green color rather than the taste. In reality, authentic Thai green curry is the spiciest of the three main Thai curries (red, green, and yellow), getting its vivid green hue and fierce heat from an abundance of fresh green chilies pounded into the curry paste. The curry features tender pieces of chicken, beef, or fish swimming in a rich, creamy coconut milk sauce alongside Thai eggplant, bamboo shoots, and fragrant Thai sweet basil. Each spoonful delivers a complex wave of flavors: coconut richness, chili heat, herbal freshness from the basil, and the salty-sweet depth of fish sauce and palm sugar.\n\n## History & Origins\n\nGreen curry originated in the royal kitchens of Bangkok during the early 20th century, most likely during the reign of King Rama VI or VII, between 1910 and 1925. It evolved as a variation of the older red curry, with Thai cooks substituting fresh green chilies for dried red ones. The curry paste itself is an adaptation of the traditional red curry paste, modified with green ingredients including green chilies, cilantro roots, kaffir lime zest, and green peppercorns. From the palace kitchens, the recipe spread to homes and street stalls across central Thailand and eventually became Thailand's most recognized dish internationally.\n\n## How It's Made\n\nThe curry paste is the soul of green curry. Fresh green bird's-eye chilies are pounded in a mortar with shallots, garlic, lemongrass, galangal, cilantro root, kaffir lime zest, green peppercorns, coriander seeds, cumin seeds, and shrimp paste. This paste is fried in the thick cream skimmed from the top of coconut milk until the oil separates and the fragrance blooms. More coconut milk is added to form the sauce. The protein (usually chicken thigh, sliced beef, or fish balls) goes in and simmers until cooked. Thai pea eggplant (makhuea phuang) and sliced Thai eggplant are added next, followed by kaffir lime leaves, fish sauce, and palm sugar. A generous handful of Thai sweet basil is stirred in just before serving. The curry should have a loose, soupy consistency, not thick like a stew.\n\n## Where to Eat It\n\nGreen curry is available at virtually every Thai restaurant and food stall in the country. For an outstanding version in Bangkok, visit Jay Fai on Mahachai Road (Michelin-starred street food), or try the khao kaeng shops around Bang Rak and Silom for home-style versions at 40-50 THB over rice. In Chiang Mai, The House by Ginger serves a refined take. The food courts at MBK Center and Terminal 21 offer solid, affordable green curry. For a cooking class experience where you make your own, Silom Thai Cooking School and Baipai Thai Cooking School in Bangkok are excellent choices.\n\n## How to Order\n\nAsk for \"gaeng khiao wan\" followed by your protein: gai (chicken), neua (beef), moo (pork), goong (prawns), or jay (vegetarian). At khao kaeng rice shops, just point at the green curry pot and say \"khao gaeng khiao wan\" for curry over rice. In restaurants, it comes as a shared bowl. If you find it too spicy, ask for \"mai pet\" (not spicy) or \"pet nit noi\" (a little spicy), though be aware that the paste itself contains chilies. Order extra rice, as you will want to soak up every drop of the sauce.\n\n## Price Guide\n\nGreen curry is one of the most affordable Thai dishes. At khao kaeng street stalls, a plate of rice with green curry costs 40-60 THB. Food court versions run 50-80 THB. Sit-down restaurants in Bangkok charge 80-180 THB. Tourist-area restaurants price it at 120-250 THB. High-end Thai restaurants charge 200-350 THB for premium versions with prawns or duck."
   },
   "ingredients": [
     "green curry paste",
@@ -34,31 +29,6 @@
   "preparation_time": "25 minutes",
   "difficulty": "medium",
   "price_range": "mid-range",
-  "best_places": [
-    "Jay Fai, Mahachai Road, Bangkok (Michelin star)",
-    "Khao kaeng shops around Bang Rak and Silom, Bangkok",
-    "Food courts at MBK Center and Terminal 21, Bangkok",
-    "The House by Ginger, Chiang Mai",
-    "Silom Thai Cooking School, Bangkok (cooking class)"
-  ],
-  "variations": [
-    "Gaeng Khiao Wan Gai (with chicken, most common)",
-    "Gaeng Khiao Wan Neua (with beef)",
-    "Gaeng Khiao Wan Goong (with prawns)",
-    "Gaeng Khiao Wan Ped (with roast duck)",
-    "Gaeng Khiao Wan Jay (vegetarian/vegan)"
-  ],
-  "ordering_tips": {
-    "en": "Ask for 'gaeng khiao wan gai' for chicken green curry. At khao kaeng shops, point at the curry pot. Say 'pet nit noi' for a little spicy or 'mai pet' for mild. Order extra rice to soak up the sauce. Vegetarian version available as 'jay.'",
-    "nl": "Vraag om 'gaeng khiao wan gai' voor groene curry met kip. Bij khao kaeng winkels, wijs naar de currypot. Zeg 'pet nit noi' voor een beetje pittig of 'mai pet' voor mild. Bestel extra rijst."
-  },
-  "pairs_well_with": [
-    "Steamed jasmine rice",
-    "Thai omelet (khai jiao)",
-    "Cucumber slices",
-    "Thai iced tea"
-  ],
-  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
       "en": "Green Curry Recipe | Authentic Thai curry",
@@ -93,6 +63,5 @@
       "vegetarian option"
     ],
     "price_range": "mid-range"
-  },
-  "enriched_at": "2026-03-22"
+  }
 }

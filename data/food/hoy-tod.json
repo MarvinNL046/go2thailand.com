@@ -6,17 +6,12 @@
     "nl": "Hoy Tod",
     "thai": "หอยทอด"
   },
-  "thai_name": "หอยทอด (Hoy Tod)",
-  "origin_region": "central",
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Crispy mussel or oyster pancake with bean sprouts",
     "nl": "Knapperige mossel- of oesterpannenkoek met taugé"
-  },
-  "extended_description": {
-    "en": "## What Is Hoy Tod?\n\nHoy Tod (หอยทอด) is a crispy shellfish pancake that ranks among Bangkok's most beloved street foods. The name translates simply to \"fried shellfish,\" and it delivers exactly that: plump mussels or oysters embedded in a batter that is fried until shatteringly crispy on the outside while remaining soft and chewy within. An egg is cracked into the center during cooking, adding richness and binding everything together. The pancake is served on a bed of fresh bean sprouts with a tangy, sweet chili sauce on the side. The textural contrast is what makes hoy tod addictive: the extreme crunch of the golden-fried batter against the tender shellfish and the cool, raw crunch of the sprouts. This dish came to Thailand via Chinese immigrants and has been embraced as an essential part of Bangkok's street food identity.\n\n## History & Origins\n\nHoy tod traces its roots to the oyster omelets of Fujian and Teochew Chinese cuisine, brought to Thailand by immigrants who settled in Bangkok's Chinatown (Yaowarat) over a century ago. The Thai version evolved into something distinct: where the Chinese original uses a softer, more omelet-like preparation, the Thai version emphasizes extreme crispiness, using a batter heavy in rice flour and tapioca starch. The dish became a Yaowarat Chinatown staple and spread from there to night markets, food courts, and street stalls across the country. Today it remains most strongly associated with Bangkok's Chinatown, where multi-generational vendors have perfected their recipes over decades.\n\n## How It's Made\n\nThe batter is a mixture of rice flour, tapioca starch, and water, sometimes with a splash of soy sauce. The ratio of tapioca starch is crucial: too much and the pancake becomes rubbery, too little and it will not get crispy enough. A large flat pan or griddle is heated with a generous amount of oil. The batter is poured on, followed by a handful of fresh mussels or shucked oysters. The mixture spreads into a thin pancake and fries until the edges turn golden and crispy. An egg is cracked into the middle and scrambled into the pancake. The whole thing is flipped and fried until both sides are deeply golden and crunchy. It is slid onto a plate lined with fresh bean sprouts and served immediately with a sweet chili dipping sauce (nam jim seafood) made from vinegar, sugar, garlic, and chilies.\n\n## Where to Eat It\n\nYaowarat Road in Bangkok's Chinatown is ground zero for hoy tod. Nai Mong Hoy Tod on Phlap Phla Chai Road is the most famous vendor, recognized with a Michelin Bib Gourmand distinction. The stall has been serving since the 1950s. Wang Lang Market near Siriraj Hospital has excellent, more affordable versions. At Sizzling oyster omelet stalls at Wang Lang Market, the cooking happens right in front of you. In Chiang Mai, the Night Bazaar food court has reliable vendors. The Chinatown areas of most Thai cities will have at least one hoy tod stall.\n\n## How to Order\n\nAsk for \"hoy tod\" (หอยทอด) for the crispy version. If you prefer a softer, more omelet-like texture, ask for \"hoy tod sot\" or \"oh-suan\" (the softer Chinese-style version). You can usually choose between hoy malaeng phu (mussels) or hoy nang rom (oysters). At Nai Mong, order by size: lek (small, 100 THB), klang (medium, 200 THB), or yai (large, 300 THB). The dipping sauce comes automatically. Some vendors also offer a \"special\" with extra egg or extra shellfish.\n\n## Price Guide\n\nHoy tod is affordable street food. At market stalls and food courts, a standard portion costs 50-80 THB. At Nai Mong Hoy Tod in Chinatown, portions range from 100 THB (small) to 300 THB (large). Sit-down restaurants charge 80-150 THB. Night market versions typically cost 60-100 THB. The oyster version is usually 20-30 THB more expensive than the mussel version."
   },
   "ingredients": [
     "mussels or oysters",
@@ -33,31 +28,6 @@
   "preparation_time": "15 minutes",
   "difficulty": "medium",
   "price_range": "budget",
-  "best_places": [
-    "Nai Mong Hoy Tod, Phlap Phla Chai Road, Yaowarat (Chinatown), Bangkok",
-    "Wang Lang Market, near Siriraj Hospital, Bangkok",
-    "Yaowarat Road street vendors, Bangkok",
-    "Night Bazaar food court, Chiang Mai",
-    "Chinatown areas in major Thai cities"
-  ],
-  "variations": [
-    "Hoy Tod (crispy fried version)",
-    "Oh-Suan (soft, starchy oyster omelet)",
-    "Hoy Tod Malaeng Phu (with mussels)",
-    "Hoy Tod Hoy Nang Rom (with oysters)",
-    "Hoy Tod Piset (special with extra egg and shellfish)"
-  ],
-  "ordering_tips": {
-    "en": "Ask for 'hoy tod' for the crispy version. Choose 'hoy malaeng phu' for mussels or 'hoy nang rom' for oysters. At Nai Mong, order by size: lek (small), klang (medium), or yai (large). Dipping sauce is included.",
-    "nl": "Vraag om 'hoy tod' voor de krokante versie. Kies 'hoy malaeng phu' voor mosselen of 'hoy nang rom' voor oesters. Bij Nai Mong, bestel op grootte: lek (klein), klang (middel), of yai (groot)."
-  },
-  "pairs_well_with": [
-    "Thai iced tea",
-    "Cold Singha or Chang beer",
-    "Other Chinatown street food",
-    "Fresh bean sprouts"
-  ],
-  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Hoy Tod Recipe | Authentic Thai main dish",
@@ -92,6 +62,5 @@
     ],
     "dietary": [],
     "price_range": "budget"
-  },
-  "enriched_at": "2026-03-22"
+  }
 }

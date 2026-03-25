@@ -6,17 +6,12 @@
     "nl": "Khao Man Gai",
     "thai": "ข้าวมันไก่"
   },
-  "thai_name": "ข้าวมันไก่ (Khao Man Gai)",
-  "origin_region": "central",
   "category": "main-dish",
   "region": "central",
   "spice_level": "mild",
   "description": {
     "en": "Steamed chicken with rice cooked in chicken broth and ginger-chili sauce",
     "nl": "Gestoomde kip met rijst gekookt in kippenbouillon en gember-chilisaus"
-  },
-  "extended_description": {
-    "en": "## What Is Khao Man Gai?\n\nKhao man gai (ข้าวมันไก่) is Thailand's beloved take on Hainanese chicken rice, and it ranks among the most eaten dishes in the entire country. A plate of glistening, chicken-fat-infused rice is topped with slices of silky poached chicken, served alongside a small bowl of clear chicken broth and a punchy dipping sauce made from fermented soybean paste, ginger, garlic, chilies, and vinegar. The name translates simply: khao means rice, man means fat or oily, and gai means chicken. Every grain of rice shimmers with rendered chicken fat, and the meat is impossibly tender from slow poaching. It is Thai comfort food in its purest form.\n\n## History & Origins\n\nKhao man gai traces its roots to Hainanese chicken rice from the Hainan province of southern China. Chinese immigrants, particularly from the Hainan and Teochew communities, brought the dish to Thailand during the early twentieth century. It took hold in Bangkok's Chinatown (Yaowarat) and spread rapidly across the city and eventually the whole country. The Thai version evolved its own identity through the distinctive dipping sauce, which swaps the Singaporean chili sauce and dark soy for a thicker, more complex blend built around tao jiao (fermented soybean paste), fresh ginger, garlic, Thai chilies, and vinegar. Today, khao man gai vendors are everywhere in Thailand, from gleaming food courts to tiny sidewalk carts.\n\n## How It's Made\n\nA whole chicken is gently poached in water seasoned with ginger, garlic, cilantro roots, and a pinch of salt. The key is low heat: the water should barely simmer so the chicken stays silky and moist. Once cooked, the chicken is plunged into ice water to tighten the skin and create a jelly-like layer of collagen underneath. The poaching liquid becomes a rich broth. Jasmine rice is rinsed and then cooked in a mixture of chicken broth and rendered chicken fat, often with a few cloves of garlic, producing rice where every grain glistens. The dipping sauce is made by pounding ginger, garlic, chilies, and vinegar into a paste and mixing it with tao jiao and a touch of dark soy sauce. The dish is assembled by mounding the rice on a plate, laying sliced chicken on top, and garnishing with cucumber slices and cilantro.\n\n## Where to Eat It\n\nIn Bangkok, the legendary Go-Ang Pratunam Chicken Rice on Petchaburi Road near Pratunam Market has been serving what many consider the city's best khao man gai since the 1960s, earning a Michelin Bib Gourmand. Mongkol Wattana on Phetchaburi Soi 30 is another local institution. Kuang Heng Pratunam, directly across from Go-Ang, offers a worthy rival version. Outside Bangkok, every Thai city, town, and village has at least one khao man gai specialist. In Chiang Mai, try Khao Man Gai Siri on Chang Klan Road.\n\n## How to Order\n\nAsk for khao man gai for the classic poached version. Many shops also offer khao man gai tod, a fried chicken variant served with the same rice and sauce. You can order \"ruam\" to get both poached and fried chicken on one plate. Specify \"pee-set\" for a larger portion. The broth comes automatically as a side. Add extra sauce freely from the table condiments. Some diners splash a little dark soy sauce over the rice for extra flavor.\n\n## Price Guide\n\nKhao man gai is one of Thailand's greatest cheap eats. Street stalls and local shops charge 40-50 THB for a regular plate. The famous Pratunam spots charge 40-60 THB. A larger pee-set portion runs 50-70 THB. Food court versions in malls cost 55-80 THB. Even upscale restaurants rarely charge more than 120-150 THB for a premium version with free-range chicken."
   },
   "ingredients": [
     "chicken",
@@ -33,29 +28,6 @@
   "preparation_time": "45 minutes",
   "difficulty": "medium",
   "price_range": "budget",
-  "best_places": [
-    "Go-Ang Pratunam Chicken Rice, Petchaburi Road, Bangkok",
-    "Kuang Heng Pratunam, Bangkok",
-    "Mongkol Wattana, Phetchaburi Soi 30, Bangkok",
-    "Khao Man Gai Siri, Chang Klan Road, Chiang Mai"
-  ],
-  "variations": [
-    "Khao Man Gai (classic poached chicken)",
-    "Khao Man Gai Tod (fried chicken version)",
-    "Khao Man Gai Ruam (mixed poached and fried)",
-    "Khao Man Gai Pee-Set (large portion)"
-  ],
-  "ordering_tips": {
-    "en": "Say 'khao man gai' for poached or 'khao man gai tod' for fried chicken. Order 'ruam' to get both on one plate. Say 'pee-set' for a larger portion. The broth and sauce come automatically. Add dark soy from the table if you like.",
-    "nl": "Zeg 'khao man gai' voor gepocheerd of 'khao man gai tod' voor gefrituurde kip. Bestel 'ruam' voor beide op een bord. Zeg 'pee-set' voor een grotere portie. De bouillon en saus worden automatisch geserveerd."
-  },
-  "pairs_well_with": [
-    "Clear chicken broth soup",
-    "Cucumber slices",
-    "Thai iced tea",
-    "Fried wontons"
-  ],
-  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Khao Man Gai Recipe | Authentic Thai main dish",
@@ -88,6 +60,5 @@
     "allergens": [],
     "dietary": [],
     "price_range": "budget"
-  },
-  "enriched_at": "2026-03-23"
+  }
 }

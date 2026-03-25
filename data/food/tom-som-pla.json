@@ -6,17 +6,12 @@
     "nl": "Tom Som Pla",
     "thai": "ต้มส้มปลา"
   },
-  "thai_name": "ต้มส้มปลา (Tom Som Pla)",
-  "origin_region": "southern",
   "category": "soup",
   "region": "southern",
   "spice_level": "medium",
   "description": {
-    "en": "Sour and spicy fish soup with turmeric and tamarind",
-    "nl": "Zure en pittige vissoep met kurkuma en tamarinde"
-  },
-  "extended_description": {
-    "en": "## What Is Tom Som Pla?\n\nTom Som Pla (ต้มส้มปลา) is a soul-warming sour fish soup that holds a special place in Thai home cooking. The name translates literally as \"boiled sour fish\": tom means boiled, som means sour, and pla means fish. While Tom Yum gets all the international fame, Tom Som is its quieter, equally delicious cousin that Thai families have been cooking at home for generations. The soup's defining character comes from tamarind paste, which provides a deep, fruity sourness that is rounder and more complex than the lime-based acidity of Tom Yum. Fresh turmeric root gives the broth a striking golden-yellow color and an earthy warmth. Combined with tender chunks of white-fleshed fish, shredded ginger, shallots, and a restrained amount of chili, Tom Som Pla delivers a harmonious balance of sour, savory, and gently spicy flavors that is both comforting and invigorating.\n\n## History & Origins\n\nTom Som Pla is deeply rooted in the cuisine of southern Thailand, where the proximity to both the Andaman Sea and the Gulf of Thailand provides an abundance of fresh fish. Southern Thai cooking is known for being bolder and spicier than other regional cuisines, heavily influenced by the flavors of neighboring Malaysia and Indonesia. Tom Som predates the now-famous Tom Yum by centuries and was originally a simple fisherman's soup, made with whatever catch was available, soured with tamarind that grows wild throughout the region. Unlike Tom Yum, traditional Tom Som typically does not use lemongrass or kaffir lime leaves, relying instead on tamarind and ginger for its aromatic profile. The soup has remained a home-cooking staple across Thailand, particularly in the south, where it is often served as a daily comfort food rather than a special occasion dish.\n\n## How It's Made\n\nThe broth starts with water brought to a boil with sliced shallots, crushed garlic, and chunks of fresh turmeric root or turmeric powder. Tamarind paste dissolved in warm water is added to achieve the signature sourness, and the cook adjusts with fish sauce for saltiness and a small amount of palm sugar to balance the acidity. Fresh fish, typically a firm white-fleshed variety like snakehead fish (pla chon), sea bass (pla kapong), or tilapia, is added in large chunks and simmered gently until just cooked through. Shredded ginger, sliced dried chilies, and sometimes a handful of fresh herbs go in at the end. The key is not to overcook the fish and to add any citrus or fresh herbs off the heat, since lime juice becomes bitter when boiled.\n\n## Where to Eat It\n\nTom Som Pla is more of a home-cooked comfort dish than a restaurant showpiece, but you can find excellent versions throughout southern Thailand. In Phuket, local raan khao (rice shops) in Phuket Town's old quarter serve it as part of their daily changing menu. Nakhon Si Thammarat, considered the culinary capital of southern Thailand, has numerous family-run restaurants along Ratchadamnoen Road that serve traditional tom som. In Surat Thani, the morning markets near the train station offer fresh fish soups including tom som. In Bangkok, southern Thai restaurants like Khua Kling Pak Sod on Thonglor and Baan Ice near Thonburi serve authentic southern-style tom som pla.\n\n## How to Order\n\nAsk for \"tom som pla\" at any southern Thai restaurant or rice shop. You can specify the fish type if available: \"pla kapong\" for sea bass or \"pla chon\" for snakehead fish. Say \"mai phet\" for a milder version or \"phet maak\" if you want it extra spicy. The soup is traditionally served in a shared bowl alongside steamed jasmine rice and other dishes as part of a communal Thai meal. It is considered a good dish to balance richer, heavier curries.\n\n## Price Guide\n\nTom Som Pla is an affordable everyday dish. At local raan khao (rice shops) in southern Thailand, a bowl costs 50-80 THB. Small restaurants and market stalls charge 60-100 THB depending on the fish used. In Bangkok at southern Thai specialty restaurants, expect to pay 120-200 THB. Sea bass versions tend to be at the higher end of the range. Tourist-area restaurants charge 150-250 THB."
+    "en": "Sour and spicy fish soup with turmeric",
+    "nl": "Zure en pittige vissoep met kurkuma"
   },
   "ingredients": [
     "fish",
@@ -24,10 +19,7 @@
     "tamarind",
     "chili",
     "shallots",
-    "lemongrass",
-    "ginger",
-    "fish sauce",
-    "palm sugar"
+    "lemongrass"
   ],
   "allergens": [
     "seafood"
@@ -37,38 +29,14 @@
   "preparation_time": "25 minutes",
   "difficulty": "medium",
   "price_range": "budget",
-  "best_places": [
-    "Raan khao in Phuket Town old quarter, Phuket",
-    "Family restaurants on Ratchadamnoen Road, Nakhon Si Thammarat",
-    "Khua Kling Pak Sod, Thonglor, Bangkok",
-    "Baan Ice, Thonburi, Bangkok"
-  ],
-  "variations": [
-    "Tom Som Pla Kapong (with sea bass)",
-    "Tom Som Pla Chon (with snakehead fish)",
-    "Tom Som Pla Krabok (extra sour version)",
-    "Tom Som Kung (shrimp version)",
-    "Tom Som with ginger-heavy broth"
-  ],
-  "ordering_tips": {
-    "en": "Ask for 'tom som pla' and specify fish type if available. Say 'mai phet' for mild or 'phet maak' for extra spicy. Best enjoyed as part of a shared meal with steamed rice and other dishes to balance rich curries.",
-    "nl": "Vraag om 'tom som pla' en specificeer het vistype indien beschikbaar. Zeg 'mai phet' voor mild of 'phet maak' voor extra pittig. Het beste als onderdeel van een gedeelde maaltijd met gestoomde rijst."
-  },
-  "pairs_well_with": [
-    "Steamed jasmine rice",
-    "Southern Thai curries",
-    "Stir-fried vegetables",
-    "Pla thod (fried fish)"
-  ],
-  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
-      "en": "Tom Som Pla: Thai Sour Fish Soup Guide",
-      "nl": "Tom Som Pla: Gids voor Thaise Zure Vissoep"
+      "en": "Tom Som Pla Recipe | Authentic Thai soup",
+      "nl": "Tom Som Pla Recept | Authentieke Thaise soup"
     },
     "metaDescription": {
-      "en": "Discover Tom Som Pla (ต้มส้มปลา), Thailand's comforting sour fish soup with turmeric and tamarind. Learn about its southern Thai roots, where to find it, and how to order.",
-      "nl": "Ontdek Tom Som Pla (ต้มส้มปลา), Thailand's troostende zure vissoep met kurkuma en tamarinde. Leer over de Zuid-Thaise wortels en waar je het kunt vinden."
+      "en": "Learn about Tom Som Pla (ต้มส้มปลา) - Sour and spicy fish soup with turmeric...",
+      "nl": "Leer over Tom Som Pla (ต้มส้มปลา) - Zure en pittige vissoep met kurkuma..."
     }
   },
   "tags": [
@@ -81,8 +49,7 @@
     "budget",
     "fish",
     "turmeric",
-    "tamarind",
-    "home-cooking"
+    "tamarind"
   ],
   "cooking": {
     "preparation_time": "25 minutes",
@@ -96,6 +63,5 @@
     ],
     "dietary": [],
     "price_range": "budget"
-  },
-  "enriched_at": "2026-03-23"
+  }
 }

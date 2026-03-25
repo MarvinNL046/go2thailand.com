@@ -6,17 +6,12 @@
     "nl": "Bua Loy",
     "thai": "บัวลอย"
   },
-  "thai_name": "บัวลอย (Bua Loy)",
-  "origin_region": "central",
   "category": "dessert",
   "region": "southern",
   "spice_level": "none",
   "description": {
     "en": "Rice flour balls in sweet coconut milk",
     "nl": "Rijstmeelballetjes in zoete kokosmelk"
-  },
-  "extended_description": {
-    "en": "## What Is Bua Loy?\n\nBua Loy (บัวลอย) is a beloved Thai dessert of soft, chewy glutinous rice balls floating in warm, sweetened coconut milk. The name translates to \"floating lotus,\" a poetic description of the colorful balls bobbing gently in the creamy white milk. Each ball is naturally colored using ingredients like pandan leaf (green), butterfly pea flower (blue), taro (purple), and pumpkin (orange), creating a visually stunning dessert that looks almost too pretty to eat. The texture is wonderfully satisfying: the rice balls have a soft, slightly chewy bite similar to mochi, while the coconut milk base is rich, fragrant, and gently sweetened with palm sugar. Unlike most Thai desserts that are served cold, bua loy is traditionally enjoyed warm, making it perfect comfort food during the cooler months or rainy season.\n\n## History & Origins\n\nBua loy was inspired by tangyuan, a Chinese glutinous rice ball dessert traditionally eaten during the Lantern Festival. Chinese immigrants brought the concept to Thailand, where it was adapted with distinctly Thai ingredients like coconut milk, pandan, and palm sugar. In Thailand, bua loy is also eaten during the Dongzhi Festival by Thai-Chinese families. Over time, the dessert evolved into a uniquely Thai creation, with the addition of colorful natural dyes and a coconut milk base replacing the Chinese sugar syrup.\n\n## How It's Made\n\nThe rice balls are made from glutinous rice flour mixed with a small amount of tapioca starch for extra chewiness. The dough is divided into portions and colored naturally: one batch gets mashed taro for purple, another gets pumpkin puree for orange, pandan juice for green, and butterfly pea extract for blue. Each colored dough is rolled into small balls about the size of a marble. They are cooked by dropping them into boiling water; when they float to the surface after about one minute, they are ready. The coconut milk sauce is prepared separately by heating coconut milk with palm sugar and a pinch of salt until warm and fragrant. The cooked rice balls are added to the coconut milk and simmered briefly so they absorb the sweet coconut flavor. In many traditional Thai preparations, a poached egg cooked in sugar syrup is placed on top as a finishing touch.\n\n## Where to Eat It\n\nBua loy is widely available at Thai dessert stalls, night markets, and food courts across the country. In Bangkok, look for it at Or Tor Kor Market (one of the world's best fresh markets) or the dessert section of any major night market like Jodd Fairs or Rot Fai Market. Chinatown's Yaowarat Road has vendors serving it during festival times. In Chiang Mai, the Sunday Walking Street market and Warorot Market both have excellent dessert vendors. Most Thai restaurants include bua loy on their dessert menu.\n\n## How to Order\n\nSimply ask for \"bua loy\" (บัวลอย). Some places offer variations like bua loy kai wan (with sweet poached egg on top) or bua loy puak (with taro). At dessert stalls, it comes pre-made in a bowl. At restaurants, you can sometimes choose between regular coconut milk or a pandan-infused version. The dessert is always served warm. If you see \"bua loy nam khing,\" that is a ginger-based version which is more Chinese-influenced.\n\n## Price Guide\n\nBua loy is one of the most affordable Thai desserts. Street stalls and market vendors charge 25-40 THB per bowl. Food courts in malls price it at 35-50 THB. Sit-down restaurants typically charge 50-80 THB. Upscale Thai restaurants may charge 80-120 THB for a premium version with extra toppings."
   },
   "ingredients": [
     "rice flour",
@@ -33,30 +28,6 @@
   "preparation_time": "30 minutes",
   "difficulty": "easy",
   "price_range": "budget",
-  "best_places": [
-    "Or Tor Kor Market, Bangkok",
-    "Jodd Fairs Night Market, Bangkok",
-    "Yaowarat Road (Chinatown), Bangkok",
-    "Warorot Market, Chiang Mai",
-    "Sunday Walking Street Market, Chiang Mai"
-  ],
-  "variations": [
-    "Bua Loy Kai Wan (with sweet poached egg)",
-    "Bua Loy Puak (with taro)",
-    "Bua Loy Nam Khing (in ginger syrup)",
-    "Bua Loy Fak Thong (with pumpkin)",
-    "Bua Loy Ngoh (with rambutan)"
-  ],
-  "ordering_tips": {
-    "en": "Ask for 'bua loy' at any dessert stall. Try 'bua loy kai wan' for the version with a sweet poached egg on top. Always served warm. Available at most night markets and food courts.",
-    "nl": "Vraag om 'bua loy' bij elke dessertkraam. Probeer 'bua loy kai wan' voor de versie met een zoet gepocheerd ei. Wordt altijd warm geserveerd."
-  },
-  "pairs_well_with": [
-    "Thai iced tea",
-    "Sweet sticky rice",
-    "Fresh fruit"
-  ],
-  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
       "en": "Bua Loy Recipe | Authentic Thai dessert",
@@ -90,6 +61,5 @@
       "vegetarian"
     ],
     "price_range": "budget"
-  },
-  "enriched_at": "2026-03-22"
+  }
 }

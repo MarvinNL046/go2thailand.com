@@ -128,7 +128,7 @@
     },
     "region": "Northern",
     "province": "Sukhothai",
-    "image": "/images/cities/generated/sukhothai.webp",
+    "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
     "highlights": [
       "Historical Park",
       "Wat Mahathat"
@@ -143,7 +143,7 @@
     },
     "region": "Southern",
     "province": "Surat Thani",
-    "image": "/images/cities/generated/surat-thani.webp",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
     "highlights": [
       "Koh Samui Pier",
       "Surat Thani City Pillar Shrine"
@@ -158,7 +158,7 @@
     },
     "region": "Northern",
     "province": "Mae Hong Son",
-    "image": "/images/cities/generated/pai.webp",
+    "image": "/images/cities/chiangmai/chiang-mai-park.webp",
     "highlights": [
       "Pai Canyon",
       "Pai Walking Street"
@@ -173,7 +173,7 @@
     },
     "region": "Northern",
     "province": "Mae Hong Son",
-    "image": "/images/cities/generated/mae-hong-son.webp",
+    "image": "/images/cities/chiangmai/chiang-mai-park.webp",
     "highlights": [
       "Pang Ung",
       "Tham Lod Cave"
@@ -188,7 +188,7 @@
     },
     "region": "Northern",
     "province": "Lampang",
-    "image": "/images/cities/generated/lampang.webp",
+    "image": "/images/cities/chiangmai/chiang-mai-park.webp",
     "highlights": [
       "Horse-Drawn Carriages",
       "Wat Phra That Lampang Luang"
@@ -203,7 +203,7 @@
     },
     "region": "Isaan",
     "province": "Khon Kaen",
-    "image": "/images/cities/generated/khon-kaen.webp",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
     "highlights": [
       "Dinosaur Museum",
       "Bueng Kaen Nakhon Lake"
@@ -218,7 +218,7 @@
     },
     "region": "Isaan",
     "province": "Udon Thani",
-    "image": "/images/cities/generated/udon-thani.webp",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
     "highlights": [
       "Ban Chiang Archaeological Site",
       "Red Lotus Sea"
@@ -233,7 +233,7 @@
     },
     "region": "Isaan",
     "province": "Nakhon Ratchasima",
-    "image": "/images/cities/generated/nakhon-ratchasima.webp",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
     "highlights": [
       "Khao Yai National Park",
       "Thao Suranaree Monument"
@@ -248,7 +248,7 @@
     },
     "region": "Isaan",
     "province": "Ubon Ratchathani",
-    "image": "/images/cities/generated/ubon-ratchathani.webp",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
     "highlights": [
       "Candle Festival",
       "Pha Taem National Park"
@@ -263,7 +263,7 @@
     },
     "region": "Central",
     "province": "Kanchanaburi",
-    "image": "/images/cities/generated/kanchanaburi.webp",
+    "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
     "highlights": [
       "Bridge over River Kwai",
       "Erawan National Park"
@@ -278,7 +278,7 @@
     },
     "region": "Central",
     "province": "Prachuap Khiri Khan",
-    "image": "/images/cities/generated/hua-hin.webp",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
     "highlights": [
       "Hua Hin Beach",
       "Cicada Market"
@@ -293,7 +293,7 @@
     },
     "region": "Central",
     "province": "Lopburi",
-    "image": "/images/cities/generated/lopburi.webp",
+    "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
     "highlights": [
       "Prang Sam Yot (Monkey Temple)",
       "Narai Ratchaniwet Palace"
@@ -308,7 +308,7 @@
     },
     "region": "Central",
     "province": "Phitsanulok",
-    "image": "/images/cities/generated/phitsanulok.webp",
+    "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
     "highlights": [
       "Wat Phra Si Rattana Mahathat",
       "Nan River"
@@ -323,7 +323,7 @@
     },
     "region": "Central",
     "province": "Trat",
-    "image": "/images/cities/generated/trat.webp",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
     "highlights": [
       "Koh Chang Island",
       "Koh Kood"
@@ -338,7 +338,7 @@
     },
     "region": "Central",
     "province": "Rayong",
-    "image": "/images/cities/generated/rayong.webp",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
     "highlights": [
       "Koh Samet",
       "Mae Ramphueng Beach"
@@ -353,7 +353,7 @@
     },
     "region": "Southern",
     "province": "Surat Thani",
-    "image": "/images/cities/generated/koh-samui.webp",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
     "highlights": [
       "Chaweng Beach",
       "Big Buddha Temple"
@@ -368,7 +368,7 @@
     },
     "region": "Southern",
     "province": "Nakhon Si Thammarat",
-    "image": "/images/cities/generated/nakhon-si-thammarat.webp",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
     "highlights": [
       "Wat Phra Mahathat",
       "Kiriwong Village"
@@ -383,7 +383,7 @@
     },
     "region": "Southern",
     "province": "Trang",
-    "image": "/images/cities/generated/trang.webp",
+    "image": "/images/cities/krabi/krabi-mountain-view.webp",
     "highlights": [
       "Emerald Cave (Tham Morakot)",
       "Koh Lanta nearby"
@@ -398,7 +398,7 @@
     },
     "region": "Southern",
     "province": "Chumphon",
-    "image": "/images/cities/generated/chumphon.webp",
+    "image": "/images/cities/krabi/krabi-mountain-view.webp",
     "highlights": [
       "Thung Wua Laen Beach",
       "Koh Tao Gateway"
@@ -413,7 +413,7 @@
     },
     "region": "Central",
     "province": "Chanthaburi",
-    "image": "/images/cities/generated/chanthaburi.webp",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
     "highlights": [
       "Gem Market",
       "Cathedral of the Immaculate Conception"
@@ -428,7 +428,7 @@
     },
     "region": "Isaan",
     "province": "Loei",
-    "image": "/images/cities/generated/chiang-khan.webp",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
     "highlights": [
       "Walking Street",
       "Chiang Khan Skywalk"
@@ -458,7 +458,7 @@
     },
     "region": "Isaan",
     "province": "Bueng Kan",
-    "image": "/images/cities/generated/bueng-kan.webp",
+    "image": "/images/cities/chiangmai/chiang-mai-park.webp",
     "highlights": [
       "Three Whale Rock",
       "Mekong Viewpoints"
@@ -473,7 +473,7 @@
     },
     "region": "Isaan",
     "province": "Nakhon Phanom",
-    "image": "/images/cities/generated/nakhon-phanom.webp",
+    "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
     "highlights": [
       "Ho Chi Minh House",
       "Golden Stupas"
@@ -488,7 +488,7 @@
     },
     "region": "Isaan",
     "province": "Mukdahan",
-    "image": "/images/cities/generated/mukdahan.webp",
+    "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
     "highlights": [
       "Naga Temple & Big Buddha",
       "Loy Krathong Festival"

@@ -6,17 +6,12 @@
     "nl": "Larb",
     "thai": "ลาบ"
   },
-  "thai_name": "ลาบ (Larb)",
-  "origin_region": "northeastern",
   "category": "salad",
   "region": "northeastern",
   "spice_level": "hot",
   "description": {
     "en": "Spicy meat salad with herbs lime juice and toasted rice powder",
     "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder"
-  },
-  "extended_description": {
-    "en": "## What Is Larb?\n\nLarb (ลาบ) is the unofficial national dish of Isaan, Thailand's vast northeastern region, and one of the most loved dishes in all of Thai cuisine. It is a salad of minced meat dressed with lime juice, fish sauce, dried chili flakes, and generous handfuls of fresh mint, cilantro, and green onions, finished with the ingredient that makes it unmistakably Isaan: khao khua, or toasted sticky rice powder. This ground rice adds a nutty crunch and a warm, popcorn-like aroma that is the soul of the dish. Larb is always eaten with sticky rice, pinched off in small balls and used to scoop up the spicy, tangy meat. It is bold, fresh, and electrifyingly flavorful.\n\n## History & Origins\n\nLarb originated in Laos, where it remains the national dish, and crossed into Thailand through the deep cultural ties between Laos and the Isaan region of northeastern Thailand. The two regions share language, traditions, and food culture, and larb sits at the heart of that shared identity. Historically, larb was a celebratory dish prepared when villagers butchered an animal for a festival, wedding, or community gathering. The word \"larb\" is believed to mean \"good fortune\" or \"luck\" in Lao, making it a dish associated with happiness and celebration. As Isaan workers migrated to Bangkok and other Thai cities for work, they brought larb with them, and it became one of Thailand's most universally popular dishes.\n\n## How It's Made\n\nMinced pork, chicken, beef, or even fish is quickly cooked in a hot wok or pan with just a splash of water or stock, broken into fine crumbles. The cooked meat is tossed while still warm with a dressing of fresh lime juice, fish sauce, dried chili flakes, and a pinch of sugar. The magic ingredient is khao khua: raw sticky rice grains are dry-roasted in a wok over medium heat until golden brown and fragrant, then pounded in a mortar to a coarse powder. This toasted rice powder is folded into the meat along with torn fresh mint leaves, chopped cilantro, sliced green onions, and finely sliced shallots. Everything is mixed by hand and served immediately at room temperature.\n\n## Where to Eat It\n\nLarb is everywhere in Thailand, but for the most authentic versions, head to Isaan. In Udon Thani, Khon Kaen, and Ubon Ratchathani, virtually every restaurant and market stall serves excellent larb. In Bangkok, the Isaan restaurants along Sukhumvit Soi 38 and the Khlong Toei area are popular spots. Sabx2 Wanton Noodles in Bangkok's Ari neighborhood serves a well-known version. Som Tam Nua on Siam Square is a tourist-friendly option with solid larb. For a raw version (larb dib), visit specialist Isaan restaurants in Khon Kaen or Udon Thani.\n\n## How to Order\n\nAsk for larb moo (pork), larb gai (chicken), larb neua (beef), or larb pla (fish). Specify your spice level: \"phet nit noi\" for mildly spicy or \"phet mak\" for Thai-level hot. Always order sticky rice (khao neow) on the side. Some restaurants offer larb dib (raw meat version), which is traditional but not for everyone. Fresh vegetables like cabbage, long beans, and morning glory are served alongside and eaten between bites to cool the palate.\n\n## Price Guide\n\nLarb is one of Thailand's cheapest dishes. In Isaan, a plate costs just 30-50 THB at market stalls and local restaurants. In Bangkok, Isaan restaurants charge 50-80 THB. Food courts serve it for 45-65 THB. Tourist-oriented restaurants may charge 80-120 THB. A full Isaan meal of larb, sticky rice, som tam, and a beer rarely exceeds 200 THB per person even in Bangkok."
   },
   "ingredients": [
     "minced pork",
@@ -33,30 +28,6 @@
   "preparation_time": "15 minutes",
   "difficulty": "easy",
   "price_range": "budget",
-  "best_places": [
-    "Isaan restaurants in Khon Kaen and Udon Thani",
-    "Som Tam Nua, Siam Square, Bangkok",
-    "Isaan stalls along Sukhumvit Soi 38, Bangkok",
-    "Night markets in Ubon Ratchathani"
-  ],
-  "variations": [
-    "Larb Moo (pork, most popular)",
-    "Larb Gai (chicken version)",
-    "Larb Neua (beef version)",
-    "Larb Pla (fish version)",
-    "Larb Dib (raw meat, traditional Isaan)"
-  ],
-  "ordering_tips": {
-    "en": "Ask for 'larb moo' (pork), 'larb gai' (chicken), or 'larb neua' (beef). Say 'phet nit noi' for mild or 'phet mak' for very spicy. Always order sticky rice (khao neow) to eat with it. Use cabbage leaves as scoops for extra crunch.",
-    "nl": "Vraag om 'larb moo' (varkensvlees), 'larb gai' (kip), of 'larb neua' (rundvlees). Zeg 'phet nit noi' voor mild of 'phet mak' voor zeer pittig. Bestel altijd kleefrijst (khao neow) erbij."
-  },
-  "pairs_well_with": [
-    "Sticky rice (khao neow)",
-    "Som tam (papaya salad)",
-    "Grilled chicken (gai yang)",
-    "Chang or Leo beer"
-  ],
-  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Larb Recipe | Authentic Thai salad",
@@ -89,6 +60,5 @@
     "allergens": [],
     "dietary": [],
     "price_range": "budget"
-  },
-  "enriched_at": "2026-03-23"
+  }
 }

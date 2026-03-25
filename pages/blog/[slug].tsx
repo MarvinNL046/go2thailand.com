@@ -60,6 +60,10 @@ const WIDGET_SCRIPTS: Record<string, string> = {
   nordpass: '',  // No script widget available, fallback CTA box only
 };
 
+function toAbsoluteImageUrl(image: string) {
+  return /^https?:\/\//i.test(image) ? image : `https://go2-thailand.com${image}`;
+}
+
 export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) {
   const { locale } = useRouter();
 
@@ -107,7 +111,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
     "@type": "Article",
     "headline": post.title,
     "description": post.description,
-    "image": `https://go2-thailand.com${post.image}`,
+    "image": toAbsoluteImageUrl(post.image),
     "datePublished": post.date,
     "dateModified": post.lastUpdated || post.date,
     "author": {
@@ -130,7 +134,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
   };
 
   const shareUrl = `https://go2-thailand.com/blog/${post.slug}/`;
-  const shareImage = `https://go2-thailand.com${post.image}`;
+  const shareImage = toAbsoluteImageUrl(post.image);
 
   const breadcrumbJsonLd = {
     "@context": "https://schema.org",
@@ -161,7 +165,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
       <SEOHead
         title={`${post.title} | Go2Thailand`}
         description={post.description}
-        ogImage={`https://go2-thailand.com${post.image}`}
+        ogImage={toAbsoluteImageUrl(post.image)}
       >
         <meta name="keywords" content={post.tags.join(', ')} />
         <meta property="og:type" content="article" />

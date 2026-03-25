@@ -74,16 +74,35 @@ interface City {
   top_attractions?: Array<{
     name: string;
     description: string;
+    rank?: number;
+    location?: string;
+    entrance_fee?: string;
+    highlights?: string[];
+    href?: string;
+    cta_label?: string;
   }>;
   top_restaurants?: Array<{
+    rank?: number;
     name: string;
     cuisine?: string;
+    cuisine_type?: string;
     description: string;
+    location?: string;
+    price_range?: string;
+    highlights?: string[];
+    href?: string;
+    cta_label?: string;
   }>;
   top_hotels?: Array<{
+    rank?: number;
     name: string;
     price_range?: string;
     description: string;
+    category?: string;
+    area?: string;
+    highlights?: string[];
+    href?: string;
+    cta_label?: string;
   }>;
   travel_tips?: string[];
   best_time_to_visit?: {
@@ -107,19 +126,25 @@ interface City {
     local_insights?: string[];
   }>;
   authentic_experiences?: Array<{
-    name: string;
+    name?: string;
+    activity?: string;
     story: string;
     cultural_significance?: string;
     how_to_participate?: string;
     insights?: string[];
+    href?: string;
+    cta_label?: string;
   }>;
   foodie_adventures?: Array<{
-    name: string;
+    name?: string;
     story: string;
     dish?: string;
+    location?: string;
     where_to_find?: string;
     price_range?: string;
     ordering_tips?: string[];
+    href?: string;
+    cta_label?: string;
   }>;
   local_insights?: (string | {
     observation?: string;
@@ -142,6 +167,7 @@ interface City {
     hidden_costs?: string[];
   };
   ai_generated?: boolean;
+  enhanced_at?: string;
   // Scraped / enhanced content fields
   faq?: Array<{
     question: string;
@@ -161,6 +187,9 @@ interface City {
     description: string;
   }>;
   overview?: string;
+  thingsToDo?: string;
+  whereToStay?: string;
+  safetyTips?: string;
   budgetGuide?: {
     budget: { min: number; max: number; description: string };
     midrange: { min: number; max: number; description: string };
@@ -199,7 +228,6 @@ interface CityPageProps {
 export default function CityPage({ city, relatedCities, comparisons, transportLinks, editorial }: CityPageProps) {
   const router = useRouter();
   const { locale = 'en' } = router;
-  const [showFullDescription, setShowFullDescription] = useState(false);
   const [showAllHiddenGems, setShowAllHiddenGems] = useState(false);
   const [showAllExperiences, setShowAllExperiences] = useState(false);
   const [showAllFoodAdventures, setShowAllFoodAdventures] = useState(false);
@@ -250,14 +278,27 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
   const breadcrumbs = generateBreadcrumbs(city);
   const baseMetadata = generateCityMetadata(city);
+  const introText = city.overview || city.description.en;
+  const introSnippet = introText.length > 200 ? `${introText.substring(0, 200)}...` : introText;
+  const aboutParagraphs = (city.overview || city.enhanced_description || city.description.en)
+    .split('\n\n')
+    .filter(Boolean);
+  const reviewedDate = city.enhanced_at
+    ? new Date(city.enhanced_at).toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric',
+      })
+    : null;
 
-  // SEO-optimized title & description targeting high-volume keywords
-  const attractionCount = city.top_attractions?.length || 0;
   const metadata = {
     ...baseMetadata,
-    title: `${cityName} Travel Guide 2026 — Things to Do, Hotels & Tips`,
-    description: `Plan your ${cityName} trip: ${attractionCount > 0 ? `${attractionCount}+ attractions, ` : ''}hotels from $10/night, top restaurants, and insider tips for 2026. Your complete Thailand travel guide.`,
+    title: `${cityName}, Thailand Travel Guide: Best Areas, Attractions, Food & Hotels`,
+    description: `Plan a smarter ${cityName} trip with curated attractions, neighborhood advice, food picks, hotel recommendations, and practical local tips.`,
   };
+  const featureCardClass = "group relative overflow-hidden rounded-[28px] border border-gray-100 bg-white p-6 shadow-[0_16px_48px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_54px_rgba(15,23,42,0.10)]";
+  const sidebarPanelClass = "rounded-[28px] border border-gray-100 bg-white p-6 shadow-[0_14px_38px_rgba(15,23,42,0.06)]";
+  const exploreCardClass = "group relative overflow-hidden rounded-[30px] border border-gray-100 bg-white p-6 shadow-[0_18px_44px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1.5 hover:shadow-[0_24px_56px_rgba(15,23,42,0.10)]";
   
   // Load Trip.com widget on client side
   useEffect(() => {
@@ -294,7 +335,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
               "@context": "https://schema.org",
               "@type": "TouristDestination",
               "name": city.name.en,
-              "description": city.overview || city.enhanced_description?.substring(0, 300) || city.description.en,
+              "description": city.overview || city.description.en,
               "image": city.image?.startsWith('http') ? city.image : `https://go2-thailand.com${city.image}`,
               "geo": {
                 "@type": "GeoCoordinates",
@@ -318,11 +359,11 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   "description": attraction.description
                 }))
               } : {}),
-              ...(city.topHotels && city.topHotels.length > 0 ? {
-                "amenityFeature": city.topHotels.map((hotel: { name: string; category: string; priceRange: string; area: string; description: string }) => ({
+              ...(city.top_hotels && city.top_hotels.length > 0 ? {
+                "amenityFeature": city.top_hotels.map((hotel: { name: string; category?: string; price_range?: string; area?: string }) => ({
                   "@type": "LocationFeatureSpecification",
                   "name": hotel.name,
-                  "value": `${hotel.category} hotel in ${hotel.area} - ${hotel.priceRange}`
+                  "value": `${hotel.category || 'hotel'} in ${hotel.area || city.name.en}${hotel.price_range ? ` - ${hotel.price_range}` : ''}`
                 }))
               } : {})
             })
@@ -354,7 +395,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
               "@context": "https://schema.org",
               "@type": "TravelGuide",
               "name": `${city.name.en} Travel Guide`,
-              "description": city.overview || city.enhanced_description?.substring(0, 300) || city.description.en,
+              "description": city.overview || city.description.en,
               "about": {
                 "@type": "City",
                 "name": city.name.en,
@@ -373,6 +414,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 "name": "Go2Thailand.com",
                 "url": "https://go2-thailand.com"
               },
+              ...(reviewedDate ? { "dateModified": city.enhanced_at } : {}),
               "inLanguage": locale || 'en',
               "image": city.image?.startsWith('http') ? city.image : `https://go2-thailand.com${city.image}`
             })
@@ -410,9 +452,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   {cityName}
                 </h1>
                 <p className="text-xl lg:text-2xl text-gray-200 max-w-3xl">
-                  {city.enhanced_description 
-                    ? city.enhanced_description.substring(0, 200) + '...'
-                    : cityDescription}
+                  {introSnippet}
                 </p>
               </div>
             </div>
@@ -441,73 +481,36 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
               <div className="lg:col-span-2 order-last lg:order-first">
                 {/* City Description */}
                 <div className="mb-12">
-                  <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                    About {city.name.en}
-                  </h2>
-                  <div className="prose prose-lg max-w-none">
-                    {city.enhanced_description ? (
-                      <div className="space-y-4">
-                        {(() => {
-                          const paragraphs = city.enhanced_description.split('\n\n');
-                          const firstParagraph = paragraphs[0];
-                          const hasMoreContent = paragraphs.length > 1;
-                          
-                          if (!showFullDescription) {
-                            return (
-                              <>
-                                <p className="text-gray-700 leading-relaxed">
-                                  {firstParagraph.length > 300 
-                                    ? firstParagraph.substring(0, 300) + '...' 
-                                    : firstParagraph}
-                                </p>
-                                {(hasMoreContent || firstParagraph.length > 300) && (
-                                  <button
-                                    onClick={() => setShowFullDescription(true)}
-                                    className="text-thailand-blue hover:text-thailand-red font-medium flex items-center gap-2 mt-4"
-                                  >
-                                    Read more about {city.name.en}
-                                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
-                                    </svg>
-                                  </button>
-                                )}
-                              </>
-                            );
-                          }
-                          
-                          return (
-                            <>
-                              {paragraphs.map((paragraph, index) => (
-                                <p key={index} className="text-gray-700 leading-relaxed">
-                                  {paragraph}
-                                </p>
-                              ))}
-                              <button
-                                onClick={() => setShowFullDescription(false)}
-                                className="text-thailand-blue hover:text-thailand-red font-medium flex items-center gap-2 mt-4"
-                              >
-                                Show less
-                                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 15l7-7 7 7" />
-                                </svg>
-                              </button>
-                            </>
-                          );
-                        })()}
+                  <div className="mb-6">
+                    <span className="inline-flex items-center rounded-full bg-slate-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-slate-700">
+                      Overview
+                    </span>
+                    <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                      About {city.name.en}
+                    </h2>
+                  </div>
+                  <div className="prose prose-lg max-w-none rounded-[30px] border border-gray-100 bg-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.06)]">
+                    {aboutParagraphs.length > 0 ? (
+                      <div className="space-y-5">
+                        {aboutParagraphs.map((paragraph, index) => (
+                          <p key={index} className="text-gray-700 leading-8">
+                            {paragraph}
+                          </p>
+                        ))}
                       </div>
                     ) : (
                       <p className="text-gray-700 leading-relaxed mb-6">
                         {city.description.en}
                       </p>
                     )}
-                    <div className="grid grid-cols-2 gap-6 my-8 p-6 bg-surface-cream rounded-2xl">
-                      <div>
+                    <div className="grid grid-cols-2 gap-4 my-8">
+                      <div className="rounded-[24px] bg-slate-50 px-5 py-5 border border-slate-100">
                         <h4 className="font-semibold text-gray-900 mb-2">Population</h4>
                         <p className="font-heading text-2xl font-bold text-thailand-blue">
                           {formatNumber(city.population)}
                         </p>
                       </div>
-                      <div>
+                      <div className="rounded-[24px] bg-slate-50 px-5 py-5 border border-slate-100">
                         <h4 className="font-semibold text-gray-900 mb-2">Region</h4>
                         <p className="font-heading text-2xl font-bold text-thailand-blue">
                           {city.region}
@@ -520,14 +523,24 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 {/* Hidden Gems */}
                 {city.hidden_gems && city.hidden_gems.length > 0 && (
                   <div className="mb-12">
-                    <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                      Hidden Gems
-                    </h2>
+                    <div className="mb-6">
+                      <span className="inline-flex items-center rounded-full bg-thailand-red/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-red">
+                        Beyond the obvious
+                      </span>
+                      <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                        Hidden Gems
+                      </h2>
+                      <p className="text-gray-600 mt-2 max-w-3xl">
+                        Places that make Bangkok feel more layered once you step outside the standard first-timer circuit.
+                      </p>
+                    </div>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                       {(showAllHiddenGems ? city.hidden_gems : city.hidden_gems.slice(0, 2)).map((gem, index) => (
-                        <div key={index} className="bg-white rounded-2xl shadow-sm border-0 hover:shadow-md p-6 transition-shadow">
+                        <div key={index} className={featureCardClass}>
+                          <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-red via-orange-400 to-thailand-gold" />
+                          <div className="relative">
                           <div className="flex items-start mb-4">
-                            <div className="flex-shrink-0 w-10 h-10 bg-thailand-red rounded-xl flex items-center justify-center mr-4">
+                            <div className="flex-shrink-0 w-10 h-10 bg-thailand-red rounded-2xl flex items-center justify-center mr-4 shadow-sm">
                               <svg className="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20">
                                 <path fillRule="evenodd" d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z" clipRule="evenodd" />
                               </svg>
@@ -538,10 +551,10 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                           </div>
                           
                           <div className="space-y-4">
-                            <p className="text-gray-700 italic leading-relaxed">"{gem.story}"</p>
+                            <p className="text-gray-700 leading-7">{gem.story}</p>
                             
                             {gem.how_to_find && (
-                              <div className="bg-surface-cream rounded-xl p-3">
+                              <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
                                 <p className="text-sm text-gray-600">
                                   <span className="font-medium">How to find:</span> {gem.how_to_find}
                                 </p>
@@ -549,7 +562,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                             )}
 
                             {gem.best_time && (
-                              <div className="bg-surface-cream rounded-xl p-3">
+                              <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
                                 <p className="text-sm text-gray-600">
                                   <span className="font-medium">Best time:</span> {gem.best_time}
                                 </p>
@@ -559,12 +572,69 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                             {gem.local_insights && gem.local_insights.length > 0 && (
                               <div className="flex flex-wrap gap-2">
                                 {gem.local_insights.map((insight, i) => (
-                                  <span key={i} className="bg-surface-cream text-gray-700 px-2 py-1 rounded text-xs font-medium">
+                                  <span key={i} className="rounded-full border border-gray-200 bg-white px-3 py-1 text-xs font-medium text-gray-700">
                                     {insight}
                                   </span>
                                 ))}
                               </div>
                             )}
+
+                            {city.slug === 'bangkok' && gem.name === 'Bangkokian Museum' && (
+                              <div className="pt-2">
+                                <Link
+                                  href="/city/bangkok/attractions/bangkokian-museum/"
+                                  className="inline-flex items-center text-thailand-red hover:text-thailand-red-600 font-medium text-sm"
+                                >
+                                  Read the full Bangkokian Museum guide
+                                </Link>
+                              </div>
+                            )}
+
+                            {city.slug === 'bangkok' && gem.name === 'Talad Rot Fai Srinakarin' && (
+                              <div className="pt-2">
+                                <Link
+                                  href="/city/bangkok/attractions/talad-rot-fai-srinakarin/"
+                                  className="inline-flex items-center text-thailand-red hover:text-thailand-red-600 font-medium text-sm"
+                                >
+                                  Read the full Talad Rot Fai Srinakarin guide
+                                </Link>
+                              </div>
+                            )}
+
+                            {city.slug === 'bangkok' && gem.name === 'Kudi Chin Community' && (
+                              <div className="pt-2">
+                                <Link
+                                  href="/city/bangkok/attractions/kudi-chin-community/"
+                                  className="inline-flex items-center text-thailand-red hover:text-thailand-red-600 font-medium text-sm"
+                                >
+                                  Read the full Kudi Chin Community guide
+                                </Link>
+                              </div>
+                            )}
+
+                            {city.slug === 'bangkok' && gem.name === 'Bang Kachao' && (
+                              <div className="pt-2">
+                                <Link
+                                  href="/city/bangkok/attractions/bang-kachao/"
+                                  className="inline-flex items-center text-thailand-red hover:text-thailand-red-600 font-medium text-sm"
+                                >
+                                  Read the full Bang Kachao guide
+                                </Link>
+                              </div>
+                            )}
+
+                            {city.slug === 'bangkok' && gem.name === 'Suan Pakkad Palace' && (
+                              <div className="pt-2">
+                                <Link
+                                  href="/city/bangkok/attractions/suan-pakkad-palace/"
+                                  className="inline-flex items-center gap-2 text-thailand-red hover:text-thailand-red-600 font-medium text-sm"
+                                >
+                                  Read the full Suan Pakkad Palace guide
+                                  <span aria-hidden="true">→</span>
+                                </Link>
+                              </div>
+                            )}
+                          </div>
                           </div>
                         </div>
                       ))}
@@ -588,32 +658,44 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 {/* Authentic Experiences */}
                 {city.authentic_experiences && city.authentic_experiences.length > 0 && (
                   <div className="mb-12">
-                    <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                      Authentic Experiences
-                    </h2>
+                    <div className="mb-6">
+                      <span className="inline-flex items-center rounded-full bg-thailand-blue/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue">
+                        Deeper experiences
+                      </span>
+                      <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                        Authentic Experiences
+                      </h2>
+                      <p className="text-gray-600 mt-2 max-w-3xl">
+                        Experiences that say more about how Bangkok actually lives than a standard attraction checklist does.
+                      </p>
+                    </div>
                     <div className="space-y-6">
                       {(showAllExperiences ? city.authentic_experiences : city.authentic_experiences.slice(0, 1)).map((experience, index) => (
-                        <div key={index} className="bg-white rounded-2xl shadow-sm border-0 hover:shadow-md p-6 transition-shadow">
+                        <div key={index} className={featureCardClass}>
+                          <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-blue to-cyan-400" />
+                          <div className="relative">
                           <div className="flex items-start mb-4">
-                            <div className="flex-shrink-0 w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mr-4">
+                            <div className="flex-shrink-0 w-12 h-12 bg-thailand-blue rounded-2xl flex items-center justify-center mr-4 shadow-sm">
                               <svg className="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
                                 <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                               </svg>
                             </div>
                             <div className="flex-1">
-                              <h3 className="font-heading text-2xl font-bold text-gray-900 mb-3">{experience.name}</h3>
-                              <p className="text-gray-700 text-lg leading-relaxed mb-4">"{experience.story}"</p>
+                              <h3 className="font-heading text-2xl font-bold text-gray-900 mb-3">
+                                {experience.name || experience.activity}
+                              </h3>
+                              <p className="text-gray-700 text-lg leading-8 mb-5">{experience.story}</p>
                               
                               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                                 {experience.cultural_significance && (
-                                  <div className="bg-surface-cream rounded-xl p-4">
+                                  <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
                                     <h4 className="font-semibold text-gray-900 mb-2">Cultural Significance</h4>
                                     <p className="text-sm text-gray-600">{experience.cultural_significance}</p>
                                   </div>
                                 )}
 
                                 {experience.how_to_participate && (
-                                  <div className="bg-surface-cream rounded-xl p-4">
+                                  <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
                                     <h4 className="font-semibold text-gray-900 mb-2">How to Participate</h4>
                                     <p className="text-sm text-gray-600">{experience.how_to_participate}</p>
                                   </div>
@@ -625,14 +707,27 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                                   <h4 className="font-semibold text-gray-900 mb-2">Insider Tips</h4>
                                   <div className="flex flex-wrap gap-2">
                                     {experience.insights.map((insight, i) => (
-                                      <span key={i} className="bg-surface-cream text-gray-700 px-3 py-1 rounded-full text-sm font-medium">
+                                      <span key={i} className="rounded-full border border-gray-200 bg-white px-3 py-1 text-sm font-medium text-gray-700">
                                         {insight}
                                       </span>
                                     ))}
                                   </div>
                                 </div>
                               )}
+
+                              {experience.href && experience.cta_label && (
+                                <div className="mt-4">
+                                  <Link
+                                    href={experience.href}
+                                    className="inline-flex items-center gap-2 text-thailand-red hover:text-thailand-red-600 font-medium text-sm"
+                                  >
+                                    {experience.cta_label}
+                                    <span aria-hidden="true">→</span>
+                                  </Link>
+                                </div>
+                              )}
                             </div>
+                          </div>
                           </div>
                         </div>
                       ))}
@@ -656,20 +751,69 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 {/* Top Attractions */}
                 {city.top_attractions && city.top_attractions.length > 0 && (
                   <div className="mb-12">
-                    <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                      Top Attractions
-                    </h2>
+                    <div className="mb-6">
+                      <span className="inline-flex items-center rounded-full bg-thailand-red/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-red">
+                        Must-sees
+                      </span>
+                      <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                        Top Attractions
+                      </h2>
+                      <p className="text-gray-600 mt-2 max-w-3xl">
+                        The headline Bangkok sights, framed in a way that is actually useful for planning.
+                      </p>
+                    </div>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                      {(showAllAttractions ? city.top_attractions.slice(0, 6) : city.top_attractions.slice(0, 3)).map((attraction, index) => (
-                        <div key={index} className="card hover:shadow-lg transition-shadow">
+                      {(showAllAttractions ? city.top_attractions : city.top_attractions.slice(0, 3)).map((attraction, index) => (
+                        <div key={index} className={featureCardClass}>
+                          <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-red via-orange-400 to-thailand-gold" />
+                          <div className="relative">
                           <div className="flex items-start">
-                            <div className="flex-shrink-0 w-8 h-8 bg-thailand-blue rounded-xl flex items-center justify-center mr-4 mt-1">
-                              <span className="text-white font-bold text-sm">{index + 1}</span>
+                            <div className="flex-shrink-0 w-10 h-10 bg-thailand-blue rounded-2xl flex items-center justify-center mr-4 mt-1 shadow-sm">
+                              <span className="text-white font-bold text-sm">{attraction.rank || index + 1}</span>
                             </div>
-                            <div>
-                              <h3 className="font-bold text-gray-900 mb-2">{attraction.name}</h3>
-                              <p className="text-gray-600 text-sm">{attraction.description}</p>
+                            <div className="flex-1">
+                              <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">{attraction.name}</h3>
+                              <p className="text-gray-700 leading-relaxed mb-4">{attraction.description}</p>
+
+                              {(attraction.location || attraction.entrance_fee) && (
+                                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-4">
+                                  {attraction.location && (
+                                    <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
+                                      <h4 className="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-1">Location</h4>
+                                      <p className="text-sm text-gray-700">{attraction.location}</p>
+                                    </div>
+                                  )}
+
+                                  {attraction.entrance_fee && (
+                                    <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
+                                      <h4 className="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-1">Typical Entry</h4>
+                                      <p className="text-sm text-gray-700">{attraction.entrance_fee}</p>
+                                    </div>
+                                  )}
+                                </div>
+                              )}
+
+                              {attraction.highlights && attraction.highlights.length > 0 && (
+                                <div className="flex flex-wrap gap-2 mb-4">
+                                  {attraction.highlights.map((highlight, i) => (
+                                    <span key={i} className="rounded-full border border-gray-200 bg-white px-3 py-1 text-sm font-medium text-gray-700">
+                                      {highlight}
+                                    </span>
+                                  ))}
+                                </div>
+                              )}
+
+                              {attraction.href && attraction.cta_label && (
+                                <Link
+                                  href={attraction.href}
+                                  className="inline-flex items-center gap-2 text-thailand-red hover:text-thailand-red-600 font-medium text-sm"
+                                >
+                                  {attraction.cta_label}
+                                  <span aria-hidden="true">→</span>
+                                </Link>
+                              )}
                             </div>
+                          </div>
                           </div>
                         </div>
                       ))}
@@ -680,7 +824,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                           onClick={() => setShowAllAttractions(!showAllAttractions)}
                           className="text-thailand-blue hover:text-thailand-red font-medium flex items-center gap-2 mx-auto"
                         >
-                          {showAllAttractions ? 'Show less' : `View ${showAllAttractions ? 0 : Math.min(3, city.top_attractions.length - 3)} more attractions`}
+                          {showAllAttractions ? 'Show less' : `View ${city.top_attractions.length - 3} more attractions`}
                           <svg className={`w-4 h-4 transition-transform ${showAllAttractions ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
                           </svg>
@@ -694,227 +838,183 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 <InlineAd />
 
                 {/* Top Guides Cross-Links */}
-                <div className="bg-white rounded-2xl shadow-md p-6 my-6">
-                  <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">
-                    Top Guides for {city.name.en}
-                  </h3>
-                  <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+                <div className="my-8 rounded-[30px] border border-gray-100 bg-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.06)]">
+                  <div className="mb-5">
+                    <span className="inline-flex items-center rounded-full bg-thailand-red/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-red">
+                      Deep Dives
+                    </span>
+                    <h3 className="mt-3 text-2xl font-heading font-bold text-gray-900">
+                      Top Guides for {city.name.en}
+                    </h3>
+                  </div>
+                  <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
                     <Link
                       href={`/city/${city.slug}/top-10-restaurants/`}
-                      className="flex items-center gap-3 p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all"
+                      className="group rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 transition-all hover:-translate-y-1 hover:bg-white hover:shadow-md"
                     >
-                      <div className="w-8 h-8 bg-thailand-red rounded-lg flex items-center justify-center flex-shrink-0">
-                        <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                        </svg>
+                      <div className="flex items-start gap-3">
+                        <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-thailand-red text-white shadow-sm flex-shrink-0">
+                          <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                          </svg>
+                        </div>
+                        <div>
+                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-thailand-red/70 mb-1">Food</div>
+                          <span className="font-medium text-gray-800 text-sm">Top 10 Restaurants</span>
+                        </div>
                       </div>
-                      <span className="font-medium text-gray-800 text-sm">Top 10 Restaurants</span>
                     </Link>
                     <Link
                       href={`/city/${city.slug}/top-10-hotels/`}
-                      className="flex items-center gap-3 p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all"
+                      className="group rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 transition-all hover:-translate-y-1 hover:bg-white hover:shadow-md"
                     >
-                      <div className="w-8 h-8 bg-thailand-blue rounded-lg flex items-center justify-center flex-shrink-0">
-                        <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
-                        </svg>
+                      <div className="flex items-start gap-3">
+                        <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-thailand-blue text-white shadow-sm flex-shrink-0">
+                          <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                          </svg>
+                        </div>
+                        <div>
+                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue/70 mb-1">Stay</div>
+                          <span className="font-medium text-gray-800 text-sm">Top 10 Hotels</span>
+                        </div>
                       </div>
-                      <span className="font-medium text-gray-800 text-sm">Top 10 Hotels</span>
                     </Link>
                     <Link
                       href={`/city/${city.slug}/top-10-attractions/`}
-                      className="flex items-center gap-3 p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all"
+                      className="group rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 transition-all hover:-translate-y-1 hover:bg-white hover:shadow-md"
                     >
-                      <div className="w-8 h-8 bg-thailand-gold rounded-lg flex items-center justify-center flex-shrink-0">
-                        <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
-                        </svg>
+                      <div className="flex items-start gap-3">
+                        <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-thailand-gold text-white shadow-sm flex-shrink-0">
+                          <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
+                          </svg>
+                        </div>
+                        <div>
+                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-amber-700/80 mb-1">See</div>
+                          <span className="font-medium text-gray-800 text-sm">Top 10 Attractions</span>
+                        </div>
                       </div>
-                      <span className="font-medium text-gray-800 text-sm">Top 10 Attractions</span>
                     </Link>
                   </div>
                 </div>
 
                 {/* Experiences Cross-Links */}
-                <div className="bg-white rounded-2xl shadow-md p-6 my-6">
-                  <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">
-                    Experiences in {city.name.en}
-                  </h3>
-                  <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+                <div className="my-8 rounded-[30px] border border-gray-100 bg-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.06)]">
+                  <div className="mb-5">
+                    <span className="inline-flex items-center rounded-full bg-thailand-blue/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue">
+                      Do More
+                    </span>
+                    <h3 className="mt-3 text-2xl font-heading font-bold text-gray-900">
+                      Experiences in {city.name.en}
+                    </h3>
+                  </div>
+                  <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
                     <Link
                       href={`/city/${city.slug}/cooking-classes/`}
-                      className="flex items-center gap-2 p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-sm font-medium text-gray-800"
+                      className="flex items-center gap-3 rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 hover:-translate-y-1 hover:bg-white hover:shadow-md transition-all text-sm font-medium text-gray-800"
                     >
-                      <span className="text-lg">👨‍🍳</span> Cooking Classes
+                      <span className="text-lg">👨‍🍳</span><span>Cooking Classes</span>
                     </Link>
                     <Link
                       href={`/city/${city.slug}/muay-thai/`}
-                      className="flex items-center gap-2 p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-sm font-medium text-gray-800"
+                      className="flex items-center gap-3 rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 hover:-translate-y-1 hover:bg-white hover:shadow-md transition-all text-sm font-medium text-gray-800"
                     >
-                      <span className="text-lg">🥊</span> Muay Thai
+                      <span className="text-lg">🥊</span><span>Muay Thai</span>
                     </Link>
                     <Link
                       href={`/city/${city.slug}/diving-snorkeling/`}
-                      className="flex items-center gap-2 p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-sm font-medium text-gray-800"
+                      className="flex items-center gap-3 rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 hover:-translate-y-1 hover:bg-white hover:shadow-md transition-all text-sm font-medium text-gray-800"
                     >
-                      <span className="text-lg">🤿</span> Diving
+                      <span className="text-lg">🤿</span><span>Diving</span>
                     </Link>
                     <Link
                       href={`/city/${city.slug}/elephant-sanctuaries/`}
-                      className="flex items-center gap-2 p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-sm font-medium text-gray-800"
+                      className="flex items-center gap-3 rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 hover:-translate-y-1 hover:bg-white hover:shadow-md transition-all text-sm font-medium text-gray-800"
                     >
-                      <span className="text-lg">🐘</span> Elephants
+                      <span className="text-lg">🐘</span><span>Elephants</span>
                     </Link>
-                  </div>
-                </div>
-
-                {/* Where to Stay Section */}
-                <div className="mb-12">
-                  <span className="section-label">Book your stay</span>
-                  <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                    Where to Stay in {city.name.en}
-                  </h2>
-                  <div className="bg-surface-cream rounded-2xl p-6 border-0">
-                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
-                      {/* Budget Hotels */}
-                      <div className="bg-white rounded-2xl p-4 shadow-sm">
-                        <h3 className="font-heading font-semibold text-lg mb-2 text-gray-900">Budget Hotels</h3>
-                        <p className="text-gray-600 text-sm mb-3">Great value accommodations from $10-30/night</p>
-                        <a 
-                          href={`https://trip.tpo.lv/TmObooZ5`}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="text-blue-600 hover:text-blue-800 font-medium text-sm"
-                        >
-                          View Budget Options →
-                        </a>
-                      </div>
-                      
-                      {/* Mid-Range Hotels */}
-                      <div className="bg-white rounded-2xl p-4 shadow-sm">
-                        <h3 className="font-heading font-semibold text-lg mb-2 text-gray-900">Mid-Range Hotels</h3>
-                        <p className="text-gray-600 text-sm mb-3">Comfortable stays from $30-80/night</p>
-                        <a 
-                          href={`https://trip.tpo.lv/TmObooZ5`}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="text-blue-600 hover:text-blue-800 font-medium text-sm"
-                        >
-                          View Mid-Range →
-                        </a>
-                      </div>
-                      
-                      {/* Luxury Hotels */}
-                      <div className="bg-white rounded-2xl p-4 shadow-sm">
-                        <h3 className="font-heading font-semibold text-lg mb-2 text-gray-900">Luxury Hotels</h3>
-                        <p className="text-gray-600 text-sm mb-3">Premium experiences from $80+/night</p>
-                        <a 
-                          href={`https://trip.tpo.lv/TmObooZ5`}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="text-blue-600 hover:text-blue-800 font-medium text-sm"
-                        >
-                          View Luxury Hotels →
-                        </a>
-                      </div>
-                    </div>
-                    
-                    {/* Hotel Booking CTAs */}
-                    <div className="flex flex-col sm:flex-row gap-3 justify-center">
-                      <a
-                        href="https://trip.tpo.lv/TmObooZ5"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center justify-center bg-blue-600 text-white px-6 py-3 rounded-xl font-semibold hover:bg-blue-700 transition-colors"
-                      >
-                        Search on Trip.com
-                      </a>
-                      <a
-                        href="https://booking.tpo.lv/2PT1kR82"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center justify-center bg-blue-800 text-white px-6 py-3 rounded-xl font-semibold hover:bg-blue-900 transition-colors"
-                      >
-                        Search on Booking.com
-                      </a>
-                    </div>
-                    <p className="text-xs text-gray-600 mt-2 text-center">
-                      We earn a commission when you book through our links at no extra cost to you
-                    </p>
                   </div>
                 </div>
 
                 {/* Travel Services Section */}
                 <div className="mb-12">
-                  <span className="section-label">Travel smarter</span>
-                  <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                    Complete Travel Services for {city.name.en}
-                  </h2>
-                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+                  <div className="mb-6">
+                    <span className="inline-flex items-center rounded-full bg-slate-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-slate-700">
+                      Travel Smarter
+                    </span>
+                    <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                      Complete Travel Services for {city.name.en}
+                    </h2>
+                    <p className="text-gray-600 mt-2 max-w-3xl">
+                      Planning tools and booking shortcuts for the practical parts of a Bangkok trip.
+                    </p>
+                  </div>
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
                     {/* Hotel + Flight Bundle */}
-                    <div className="bg-white rounded-2xl shadow-sm border-0 hover:shadow-md p-4 transition-shadow">
-                      <div className="text-center">
-                        <div className="text-3xl mb-2"></div>
+                    <div className={featureCardClass}>
+                      <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-red to-orange-400" />
+                      <div className="relative text-left">
                         <h3 className="font-semibold text-gray-900 mb-2">Flight + Hotel</h3>
-                        <p className="text-sm text-gray-600 mb-3">Save up to 20% with bundles</p>
+                        <p className="text-sm text-gray-600 leading-6 mb-4">Save time and often money by bundling the trip basics instead of booking each part separately.</p>
                         <a
                           href="https://trip.tpo.lv/iP1HSint"
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="inline-block bg-thailand-red text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors"
+                          className="inline-flex items-center gap-2 text-sm font-semibold text-thailand-red hover:text-thailand-red-600"
                         >
-                          Book Bundle →
+                          Book Bundle <span aria-hidden="true">→</span>
                         </a>
                       </div>
                     </div>
                     
                     {/* Airport Transfers */}
-                    <div className="bg-white rounded-2xl shadow-sm border-0 hover:shadow-md p-4 transition-shadow">
-                      <div className="text-center">
-                        <div className="text-3xl mb-2"></div>
+                    <div className={featureCardClass}>
+                      <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-blue to-cyan-400" />
+                      <div className="relative text-left">
                         <h3 className="font-semibold text-gray-900 mb-2">Airport Transfers</h3>
-                        <p className="text-sm text-gray-600 mb-3">Door-to-door convenience</p>
+                        <p className="text-sm text-gray-600 leading-6 mb-4">Useful if you want the easiest arrival flow instead of figuring out transport after a long flight.</p>
                         <a
                           href="https://trip.tpo.lv/iP1HSint"
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="inline-block bg-thailand-red text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors"
+                          className="inline-flex items-center gap-2 text-sm font-semibold text-thailand-blue hover:text-cyan-600"
                         >
-                          Book Transfer →
+                          Book Transfer <span aria-hidden="true">→</span>
                         </a>
                       </div>
                     </div>
                     
                     {/* Car Rental */}
-                    <div className="bg-white rounded-2xl shadow-sm border-0 hover:shadow-md p-4 transition-shadow">
-                      <div className="text-center">
-                        <div className="text-3xl mb-2"></div>
+                    <div className={featureCardClass}>
+                      <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-emerald-500 to-teal-400" />
+                      <div className="relative text-left">
                         <h3 className="font-semibold text-gray-900 mb-2">Car Rental</h3>
-                        <p className="text-sm text-gray-600 mb-3">Explore at your own pace</p>
+                        <p className="text-sm text-gray-600 leading-6 mb-4">Mostly useful for broader Thailand logistics, less for central Bangkok day-to-day city movement.</p>
                         <a
                           href="https://trip.tpo.lv/fzIWyBhW"
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="inline-block bg-thailand-red text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors"
+                          className="inline-flex items-center gap-2 text-sm font-semibold text-emerald-700 hover:text-teal-600"
                         >
-                          Rent a Car →
+                          Rent a Car <span aria-hidden="true">→</span>
                         </a>
                       </div>
                     </div>
                     
                     {/* 12Go Transport */}
-                    <div className="bg-white rounded-2xl shadow-sm border-0 hover:shadow-md p-4 transition-shadow">
-                      <div className="text-center">
-                        <div className="text-3xl mb-2"></div>
+                    <div className={featureCardClass}>
+                      <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-violet-500 to-indigo-400" />
+                      <div className="relative text-left">
                         <h3 className="font-semibold text-gray-900 mb-2">Bus, Train & Ferry</h3>
-                        <p className="text-sm text-gray-600 mb-3">Book transport on 12Go</p>
+                        <p className="text-sm text-gray-600 leading-6 mb-4">Best when Bangkok is your base and you are moving onward to other Thai cities or islands.</p>
                         <a
                           href="https://12go.tpo.lv/tNA80urD"
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="inline-block bg-thailand-red text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors"
+                          className="inline-flex items-center gap-2 text-sm font-semibold text-violet-700 hover:text-indigo-600"
                         >
-                          Book Transport →
+                          Book Transport <span aria-hidden="true">→</span>
                         </a>
                       </div>
                     </div>
@@ -929,10 +1029,15 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                 {/* 12Go Transport Widget */}
                 <div className="mb-12">
-                  <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                    Book Transport from {cityName}
-                  </h2>
-                  <div className="bg-white rounded-2xl shadow-md p-6 border-0">
+                  <div className="mb-6">
+                    <span className="inline-flex items-center rounded-full bg-violet-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-violet-700">
+                      Onward Travel
+                    </span>
+                    <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                      Book Transport from {cityName}
+                    </h2>
+                  </div>
+                  <div className="rounded-[30px] border border-gray-100 bg-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.06)]">
                     <AffiliateWidget
                       scriptContent={`<script async src="https://tpembd.com/content?currency=USD&trs=421888&shmarker=602467&powered_by=true&dafault_width=true&locale=en&header_color=%234b4b4b&text_color=%234b4b4b&background_color=%23ffffff&price_color=%234db84d&promo_id=8995&campaign_id=44" charset="utf-8"></script>`}
                       minHeight="300px"
@@ -942,9 +1047,9 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         href="https://12go.tpo.lv/tNA80urD"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-block bg-green-600 text-white px-6 py-3 rounded-xl font-semibold hover:bg-green-700 transition-colors"
+                        className="inline-flex items-center gap-2 rounded-full bg-violet-600 px-6 py-3 font-semibold text-white hover:bg-violet-700 transition-colors"
                       >
-                        View All Routes on 12Go →
+                        View All Routes on 12Go <span aria-hidden="true">→</span>
                       </a>
                       <p className="text-xs text-gray-500 mt-2">
                         Buses, trains, ferries & transfers — powered by 12Go
@@ -955,10 +1060,15 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                 {/* Activities & Tours Section */}
                 <div className="mb-12">
-                  <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                    Activities & Tours in {cityName}
-                  </h2>
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+                  <div className="mb-6">
+                    <span className="inline-flex items-center rounded-full bg-thailand-blue/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue">
+                      Bookable Experiences
+                    </span>
+                    <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                      Activities & Tours in {cityName}
+                    </h2>
+                  </div>
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
                     <a
                       href={(() => {
                         const klookLinks: Record<string, string> = {
@@ -972,18 +1082,21 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       })()}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="bg-white rounded-2xl shadow-sm border-0 hover:shadow-md p-6 transition-shadow block"
+                      className={featureCardClass + " block"}
                     >
-                      <div className="flex items-center mb-3">
-                        <div className="text-2xl mr-3"></div>
-                        <h3 className="font-bold text-gray-900">Klook Activities</h3>
+                      <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-red to-orange-400" />
+                      <div className="relative">
+                        <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-red/70">Marketplace</div>
+                        <h3 className="font-bold text-gray-900 mb-3">Klook Activities</h3>
                       </div>
-                      <p className="text-sm text-gray-600 mb-3">
-                        Book tours, experiences & attraction tickets in {cityName} with instant confirmation
-                      </p>
-                      <span className="inline-block bg-thailand-red text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors">
-                        Browse {cityName} on Klook →
-                      </span>
+                      <div>
+                        <p className="text-sm text-gray-600 leading-6 mb-4">
+                          Book tours, experiences & attraction tickets in {cityName} with instant confirmation
+                        </p>
+                        <span className="inline-flex items-center gap-2 text-sm font-semibold text-thailand-red hover:text-thailand-red-600 transition-colors">
+                          Browse {cityName} on Klook <span aria-hidden="true">→</span>
+                        </span>
+                      </div>
                     </a>
                     <a
                       href={(() => {
@@ -998,18 +1111,21 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       })()}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="bg-white rounded-2xl shadow-sm border-0 hover:shadow-md p-6 transition-shadow block"
+                      className={featureCardClass + " block"}
                     >
-                      <div className="flex items-center mb-3">
-                        <div className="text-2xl mr-3"></div>
-                        <h3 className="font-bold text-gray-900">GetYourGuide Tours</h3>
+                      <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-blue to-cyan-400" />
+                      <div className="relative">
+                        <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue/70">Marketplace</div>
+                        <h3 className="font-bold text-gray-900 mb-3">GetYourGuide Tours</h3>
                       </div>
-                      <p className="text-sm text-gray-600 mb-3">
-                        Expert-guided tours and curated experiences in {cityName} with free cancellation
-                      </p>
-                      <span className="inline-block bg-thailand-blue text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-blue-800 transition-colors">
-                        Browse {cityName} on GetYourGuide →
-                      </span>
+                      <div>
+                        <p className="text-sm text-gray-600 leading-6 mb-4">
+                          Expert-guided tours and curated experiences in {cityName} with free cancellation
+                        </p>
+                        <span className="inline-flex items-center gap-2 text-sm font-semibold text-thailand-blue hover:text-cyan-600 transition-colors">
+                          Browse {cityName} on GetYourGuide <span aria-hidden="true">→</span>
+                        </span>
+                      </div>
                     </a>
                   </div>
                   <div className="text-center">
@@ -1022,43 +1138,53 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 {/* Foodie Adventures */}
                 {city.foodie_adventures && city.foodie_adventures.length > 0 && (
                   <div className="mb-12">
-                    <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                      Foodie Adventures
-                    </h2>
+                    <div className="mb-6">
+                      <span className="inline-flex items-center rounded-full bg-thailand-gold/20 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-amber-700">
+                        Eat your way in
+                      </span>
+                      <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                        Foodie Adventures
+                      </h2>
+                      <p className="text-gray-600 mt-2 max-w-3xl">
+                        Dish-led stops that help visitors understand Bangkok through what they actually eat and where they try it.
+                      </p>
+                    </div>
                     <div className="space-y-8">
                       {(showAllFoodAdventures ? city.foodie_adventures : city.foodie_adventures.slice(0, 2)).map((food, index) => (
-                        <div key={index} className="bg-white rounded-2xl shadow-sm border-0 hover:shadow-md p-6 transition-shadow">
+                        <div key={index} className={featureCardClass}>
+                          <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-gold to-amber-400" />
+                          <div className="relative">
                           <div className="flex items-start">
-                            <div className="flex-shrink-0 w-12 h-12 bg-thailand-gold rounded-xl flex items-center justify-center mr-4">
+                            <div className="flex-shrink-0 w-12 h-12 bg-thailand-gold rounded-2xl flex items-center justify-center mr-4 shadow-sm">
                               <svg className="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
                                 <path fillRule="evenodd" d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />
                               </svg>
                             </div>
                             <div className="flex-1">
                               <div className="flex items-center justify-between mb-3">
-                                <h3 className="font-heading text-2xl font-bold text-gray-900">{food.name}</h3>
+                                <h3 className="font-heading text-2xl font-bold text-gray-900">{food.name || food.dish}</h3>
                                 {food.price_range && (
-                                  <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
+                                  <span className="rounded-full bg-emerald-100 px-3 py-1 text-sm font-medium text-emerald-800">
                                     {food.price_range}
                                   </span>
                                 )}
                               </div>
                               
-                              <p className="text-gray-700 text-lg leading-relaxed mb-4 italic">"{food.story}"</p>
+                              <p className="text-gray-700 text-lg leading-8 mb-5">{food.story}</p>
                               
                               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
                                 {food.dish && (
-                                  <div className="bg-surface-cream rounded-xl p-3">
+                                  <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
                                     <p className="text-sm text-gray-600">
                                       <span className="font-medium">Dish:</span> {food.dish}
                                     </p>
                                   </div>
                                 )}
 
-                                {food.where_to_find && (
-                                  <div className="bg-surface-cream rounded-xl p-3">
+                                {(food.where_to_find || food.location) && (
+                                  <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
                                     <p className="text-sm text-gray-600">
-                                      <span className="font-medium">Where to find:</span> {food.where_to_find}
+                                      <span className="font-medium">Where to find:</span> {food.where_to_find || food.location}
                                     </p>
                                   </div>
                                 )}
@@ -1069,14 +1195,27 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                                   <h4 className="font-semibold text-gray-900 mb-2">Ordering Tips</h4>
                                   <div className="flex flex-wrap gap-2">
                                     {food.ordering_tips.map((tip, i) => (
-                                      <span key={i} className="bg-surface-cream text-gray-700 px-3 py-1 rounded-full text-sm">
+                                      <span key={i} className="rounded-full border border-gray-200 bg-white px-3 py-1 text-sm text-gray-700">
                                         {tip}
                                       </span>
                                     ))}
                                   </div>
                                 </div>
                               )}
+
+                              {food.href && food.cta_label && (
+                                <div className="mt-4">
+                                  <Link
+                                    href={food.href}
+                                    className="inline-flex items-center gap-2 text-thailand-red hover:text-thailand-red-600 font-medium text-sm"
+                                  >
+                                    {food.cta_label}
+                                    <span aria-hidden="true">→</span>
+                                  </Link>
+                                </div>
+                              )}
                             </div>
+                          </div>
                           </div>
                         </div>
                       ))}
@@ -1097,25 +1236,202 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   </div>
                 )}
 
+                {city.thingsToDo && (
+                  <div className="mb-12">
+                    <div className="mb-6">
+                      <span className="inline-flex items-center rounded-full bg-thailand-red/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-red">
+                        Core Guide
+                      </span>
+                      <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                        Things to Do
+                      </h2>
+                      <p className="text-gray-600 mt-2 max-w-3xl">
+                        A broader Bangkok planning section that connects the major sights, market culture, and practical city experiences into one overview.
+                      </p>
+                    </div>
+                    <div className="rounded-[30px] border border-gray-100 bg-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.06)]">
+                      <div className="space-y-5">
+                        {city.thingsToDo.split('\n\n').filter(Boolean).map((paragraph, index) => (
+                          <p key={index} className="text-gray-700 leading-8">
+                            {paragraph}
+                          </p>
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                )}
+
                 {/* Top Restaurants */}
                 {city.top_restaurants && city.top_restaurants.length > 0 && (
                   <div className="mb-12">
-                    <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                      Best Restaurants
-                    </h2>
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                      {city.top_restaurants.slice(0, 6).map((restaurant, index) => (
-                        <div key={index} className="card hover:shadow-lg transition-shadow">
-                          <div>
-                            <div className="flex items-center justify-between mb-2">
-                              <h3 className="font-bold text-gray-900">{restaurant.name}</h3>
-                              {restaurant.cuisine && (
-                                <span className="bg-thailand-blue text-white px-2 py-1 rounded-full text-xs">
-                                  {restaurant.cuisine}
+                    <div className="mb-6">
+                      <span className="inline-flex items-center rounded-full bg-thailand-red/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-red">
+                        Food Picks
+                      </span>
+                      <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                        Best Restaurants
+                      </h2>
+                      <p className="text-gray-600 mt-2 max-w-3xl">
+                        A tighter shortlist for meals that actually feel distinct in Bangkok, from skyline rooftops to riverside Thai tables and destination tasting menus.
+                      </p>
+                    </div>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-7">
+                      {(showAllRestaurants ? city.top_restaurants : city.top_restaurants.slice(0, 4)).map((restaurant, index) => (
+                        <div key={index} className={featureCardClass}>
+                          <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-red via-orange-400 to-thailand-gold" />
+                          <div className="relative">
+                            <div className="flex items-start justify-between gap-4 mb-4">
+                              <div>
+                                <div className="mb-2 inline-flex h-9 w-9 items-center justify-center rounded-2xl bg-thailand-red text-sm font-bold text-white shadow-sm">
+                                  {restaurant.rank || index + 1}
+                                </div>
+                                <h3 className="font-heading text-xl font-bold text-gray-900 leading-tight">
+                                  {restaurant.name}
+                                </h3>
+                              </div>
+                              {(restaurant.cuisine || restaurant.cuisine_type) && (
+                                <span className="rounded-full bg-thailand-blue/10 px-3 py-1 text-xs font-semibold text-thailand-blue text-right">
+                                  {restaurant.cuisine || restaurant.cuisine_type}
                                 </span>
                               )}
                             </div>
-                            <p className="text-gray-600 text-sm">{restaurant.description}</p>
+
+                            <div className="mb-4 flex flex-wrap gap-2">
+                              {restaurant.location && (
+                                <span className="rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600">
+                                  {restaurant.location}
+                                </span>
+                              )}
+                              {restaurant.price_range && (
+                                <span className="rounded-full bg-surface-cream px-3 py-1 text-xs font-medium text-gray-700">
+                                  {restaurant.price_range}
+                                </span>
+                              )}
+                            </div>
+
+                            <p className="text-gray-600 text-sm leading-7">{restaurant.description}</p>
+
+                            {restaurant.highlights && restaurant.highlights.length > 0 && (
+                              <div className="mt-5 border-t border-gray-100 pt-4">
+                                <div className="mb-3 text-xs font-semibold uppercase tracking-[0.18em] text-gray-400">
+                                  Why It Stands Out
+                                </div>
+                                <div className="flex flex-wrap gap-2">
+                                {restaurant.highlights.map((highlight, highlightIndex) => (
+                                  <span key={highlightIndex} className="rounded-full border border-gray-200 bg-white px-3 py-1 text-xs font-medium text-gray-700">
+                                    {highlight}
+                                  </span>
+                                ))}
+                                </div>
+                              </div>
+                            )}
+
+                            {restaurant.href && (
+                              <div className="pt-5">
+                                <Link
+                                  href={restaurant.href}
+                                  className="inline-flex items-center gap-2 text-sm font-semibold text-thailand-red hover:text-thailand-red-600"
+                                >
+                                  {restaurant.cta_label || 'See more restaurant picks'}
+                                  <span aria-hidden="true">→</span>
+                                </Link>
+                              </div>
+                            )}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+
+                    {city.top_restaurants.length > 4 && (
+                      <div className="mt-6 text-center">
+                        <button
+                          onClick={() => setShowAllRestaurants(!showAllRestaurants)}
+                          className="inline-flex items-center gap-2 bg-surface-cream hover:bg-surface-gold px-6 py-3 rounded-full font-medium text-thailand-blue transition-colors"
+                        >
+                          {showAllRestaurants ? 'Show fewer restaurant picks' : `Show ${city.top_restaurants.length - 4} more restaurant picks`}
+                          <svg className={`w-4 h-4 transition-transform ${showAllRestaurants ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                          </svg>
+                        </button>
+                      </div>
+                    )}
+                  </div>
+                )}
+
+                {/* Top Hotels */}
+                {city.top_hotels && city.top_hotels.length > 0 && (
+                  <div className="mb-12">
+                    <div className="mb-6">
+                      <span className="inline-flex items-center rounded-full bg-emerald-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-emerald-700">
+                        Stay Picks
+                      </span>
+                      <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                        Recommended Hotels
+                      </h2>
+                      <p className="text-gray-600 mt-2 max-w-3xl">
+                        Hotels that make sense for different Bangkok stays, not just a pile of names with nightly prices.
+                      </p>
+                    </div>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-7">
+                      {city.top_hotels.slice(0, 4).map((hotel, index) => (
+                        <div key={index} className={featureCardClass}>
+                          <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-emerald-500 via-teal-400 to-cyan-400" />
+                          <div className="relative">
+                            <div className="flex items-start justify-between gap-4 mb-4">
+                              <div>
+                                <div className="mb-2 inline-flex h-9 w-9 items-center justify-center rounded-2xl bg-emerald-600 text-sm font-bold text-white shadow-sm">
+                                  {hotel.rank || index + 1}
+                                </div>
+                                <h3 className="font-heading text-xl font-bold text-gray-900 leading-tight">{hotel.name}</h3>
+                              </div>
+                              {hotel.price_range && (
+                                <span className="rounded-full bg-emerald-100 px-3 py-1 text-xs font-semibold text-emerald-800">
+                                  {hotel.price_range}
+                                </span>
+                              )}
+                            </div>
+
+                            <div className="mb-4 flex flex-wrap gap-2">
+                              {hotel.category && (
+                                <span className="rounded-full bg-slate-100 px-3 py-1 text-xs font-medium capitalize text-slate-700">
+                                  {hotel.category}
+                                </span>
+                              )}
+                              {hotel.area && (
+                                <span className="rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600">
+                                  {hotel.area}
+                                </span>
+                              )}
+                            </div>
+
+                            <p className="text-gray-600 text-sm leading-7">{hotel.description}</p>
+
+                            {hotel.highlights && hotel.highlights.length > 0 && (
+                              <div className="mt-5 border-t border-gray-100 pt-4">
+                                <div className="mb-3 text-xs font-semibold uppercase tracking-[0.18em] text-gray-400">
+                                  Good For
+                                </div>
+                                <div className="flex flex-wrap gap-2">
+                                  {hotel.highlights.map((highlight, highlightIndex) => (
+                                    <span key={highlightIndex} className="rounded-full border border-gray-200 bg-white px-3 py-1 text-xs font-medium text-gray-700">
+                                      {highlight}
+                                    </span>
+                                  ))}
+                                </div>
+                              </div>
+                            )}
+
+                            {hotel.href && (
+                              <div className="pt-5">
+                                <Link
+                                  href={hotel.href}
+                                  className="inline-flex items-center gap-2 text-sm font-semibold text-thailand-red hover:text-thailand-red-600"
+                                >
+                                  {hotel.cta_label || 'See more hotel picks'}
+                                  <span aria-hidden="true">→</span>
+                                </Link>
+                              </div>
+                            )}
                           </div>
                         </div>
                       ))}
@@ -1123,28 +1439,27 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   </div>
                 )}
 
-                {/* Top Hotels */}
-                {city.top_hotels && city.top_hotels.length > 0 && (
+                {city.whereToStay && (
                   <div className="mb-12">
-                    <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                      Recommended Hotels
-                    </h2>
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                      {city.top_hotels.slice(0, 4).map((hotel, index) => (
-                        <div key={index} className="card hover:shadow-lg transition-shadow">
-                          <div>
-                            <div className="flex items-center justify-between mb-2">
-                              <h3 className="font-bold text-gray-900">{hotel.name}</h3>
-                              {hotel.price_range && (
-                                <span className="bg-green-100 text-green-800 px-2 py-1 rounded text-xs font-medium">
-                                  {hotel.price_range}
-                                </span>
-                              )}
-                            </div>
-                            <p className="text-gray-600 text-sm">{hotel.description}</p>
-                          </div>
-                        </div>
-                      ))}
+                    <div className="mb-6">
+                      <span className="inline-flex items-center rounded-full bg-emerald-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-emerald-700">
+                        Stay Strategy
+                      </span>
+                      <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                        Where to Stay
+                      </h2>
+                      <p className="text-gray-600 mt-2 max-w-3xl">
+                        Neighborhood context that helps you choose the right Bangkok base instead of booking blind on price alone.
+                      </p>
+                    </div>
+                    <div className="rounded-[30px] border border-gray-100 bg-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.06)]">
+                      <div className="space-y-5">
+                        {city.whereToStay.split('\n\n').filter(Boolean).map((paragraph, index) => (
+                          <p key={index} className="text-gray-700 leading-8">
+                            {paragraph}
+                          </p>
+                        ))}
+                      </div>
                     </div>
                   </div>
                 )}
@@ -1152,23 +1467,34 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 {/* Local Insights */}
                 {city.local_insights && city.local_insights.length > 0 && (
                   <div className="mb-12">
-                    <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                      Local Insights
-                    </h2>
-                    <div className="bg-surface-cream rounded-2xl border-0 p-6">
-                      <div className="flex items-center mb-4">
-                        <div className="w-8 h-8 bg-thailand-blue rounded-xl flex items-center justify-center mr-3">
+                    <div className="mb-6">
+                      <span className="inline-flex items-center rounded-full bg-thailand-blue/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue">
+                        Local Rhythm
+                      </span>
+                      <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                        Local Insights
+                      </h2>
+                      <p className="text-gray-600 mt-2 max-w-3xl">
+                        Practical Bangkok patterns that matter once you move past the obvious sightseeing checklist.
+                      </p>
+                    </div>
+                    <div className="rounded-[30px] border border-gray-100 bg-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.06)]">
+                      <div className="flex items-center mb-5">
+                        <div className="w-10 h-10 bg-thailand-blue rounded-2xl flex items-center justify-center mr-3 shadow-sm">
                           <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
                             <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-6-3a2 2 0 11-4 0 2 2 0 014 0zm-2 4a5 5 0 00-4.546 2.916A5.986 5.986 0 0010 16a5.986 5.986 0 004.546-2.084A5 5 0 0010 11z" clipRule="evenodd" />
                           </svg>
                         </div>
-                        <h3 className="text-lg font-semibold text-gray-900">What Locals Want You to Know</h3>
+                        <div>
+                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue/70">Read the city better</div>
+                          <h3 className="text-lg font-semibold text-gray-900">What Locals Want You to Know</h3>
+                        </div>
                       </div>
-                      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                      <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
                         {(showAllLocalInsights ? city.local_insights : city.local_insights.slice(0, 4)).map((insight, index) => (
-                          <div key={index} className="bg-white rounded-xl shadow-sm border-0 p-4">
+                          <div key={index} className="rounded-[24px] border border-gray-100 bg-slate-50/60 p-5">
                             <div className="flex items-start">
-                              <div className="flex-shrink-0 w-6 h-6 bg-thailand-red rounded-xl flex items-center justify-center mr-3 mt-0.5">
+                              <div className="flex-shrink-0 w-8 h-8 bg-thailand-red rounded-2xl flex items-center justify-center mr-3 mt-0.5 shadow-sm">
                                 <svg className="w-3 h-3 text-white" fill="currentColor" viewBox="0 0 20 20">
                                   <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                                 </svg>
@@ -1177,15 +1503,17 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                                 {typeof insight === 'string' ? (
                                   <p className="text-gray-700 text-sm leading-relaxed">{insight}</p>
                                 ) : (
-                                  <div className="space-y-2">
+                                  <div className="space-y-3">
                                     {insight.observation && (
-                                      <h4 className="font-semibold text-gray-900 text-sm">{insight.observation}</h4>
+                                      <h4 className="font-semibold text-gray-900 text-sm leading-6">{insight.observation}</h4>
                                     )}
                                     {insight.tip && (
-                                      <p className="text-gray-700 text-sm leading-relaxed">{insight.tip}</p>
+                                      <p className="text-gray-700 text-sm leading-6">{insight.tip}</p>
                                     )}
                                     {insight.surprise && (
-                                      <p className="text-teal-600 text-xs italic mt-1">{insight.surprise}</p>
+                                      <div className="rounded-2xl bg-white px-3 py-2 text-xs leading-5 text-teal-700 border border-teal-100">
+                                        {insight.surprise}
+                                      </div>
                                     )}
                                   </div>
                                 )}
@@ -1214,19 +1542,29 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 {/* Travel Tips */}
                 {city.travel_tips && city.travel_tips.length > 0 && (
                   <div className="mb-12">
-                    <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                      Travel Tips
-                    </h2>
-                    <div className="bg-surface-cream rounded-2xl border-0 p-6">
-                      <ul className="space-y-3">
+                    <div className="mb-6">
+                      <span className="inline-flex items-center rounded-full bg-amber-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-amber-700">
+                        Smart Planning
+                      </span>
+                      <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                        Travel Tips
+                      </h2>
+                      <p className="text-gray-600 mt-2 max-w-3xl">
+                        Quick planning notes that make Bangkok easier to handle on the ground.
+                      </p>
+                    </div>
+                    <div className="rounded-[30px] border border-amber-100 bg-gradient-to-br from-amber-50 to-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.05)]">
+                      <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
                         {(showAllTravelTips ? city.travel_tips : city.travel_tips.slice(0, 3)).map((tip, index) => (
-                          <li key={index} className="flex items-start">
-                            <div className="flex-shrink-0 w-5 h-5 bg-thailand-red rounded-xl flex items-center justify-center mr-3 mt-0.5">
-                              <svg className="w-3 h-3 text-white" fill="currentColor" viewBox="0 0 20 20">
-                                <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                              </svg>
+                          <li key={index} className="rounded-[24px] border border-white/70 bg-white/80 px-4 py-4 shadow-sm">
+                            <div className="flex items-start">
+                              <div className="flex-shrink-0 mr-3">
+                                <div className="flex h-8 w-8 items-center justify-center rounded-2xl bg-amber-500 text-sm font-bold text-white shadow-sm">
+                                  {index + 1}
+                                </div>
+                              </div>
+                              <span className="text-gray-700 leading-6">{tip}</span>
                             </div>
-                            <span className="text-gray-700">{tip}</span>
                           </li>
                         ))}
                       </ul>
@@ -1247,27 +1585,62 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   </div>
                 )}
 
+                {city.safetyTips && (
+                  <div className="mb-12">
+                    <div className="mb-6">
+                      <span className="inline-flex items-center rounded-full bg-amber-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-amber-700">
+                        Practical
+                      </span>
+                      <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                        Safety Tips
+                      </h2>
+                      <p className="text-gray-600 mt-2 max-w-3xl">
+                        Real-world cautions for getting around Bangkok smoothly without turning the city into something more dangerous than it is.
+                      </p>
+                    </div>
+                    <div className="rounded-[30px] border border-amber-100 bg-gradient-to-br from-amber-50 to-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.05)]">
+                      <div className="space-y-5">
+                        {city.safetyTips.split('\n\n').filter(Boolean).map((paragraph, index) => (
+                          <p key={index} className="text-gray-700 leading-8">
+                            {paragraph}
+                          </p>
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                )}
+
                 {/* Categories */}
                 <div className="mb-12">
-                  <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                    Explore {city.name.en}
-                  </h2>
+                  <div className="mb-6">
+                    <span className="inline-flex items-center rounded-full bg-thailand-blue/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue">
+                      City Sections
+                    </span>
+                    <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                      Explore {city.name.en}
+                    </h2>
+                    <p className="text-gray-600 mt-2 max-w-3xl">
+                      Jump into the parts of the city guide that matter most for planning where to eat, stay, and what to prioritize first.
+                    </p>
+                  </div>
                   <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-6">
                     {/* Food */}
                     <Link href={`/city/${city.slug}/food/`}>
-                      <div className="card hover:shadow-xl transition-shadow duration-300 cursor-pointer">
-                        <div className="text-center">
-                          <div className="w-16 h-16 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-4">
+                      <div className={exploreCardClass}>
+                        <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-blue to-cyan-400" />
+                        <div className="relative text-left">
+                          <div className="mb-5 flex h-14 w-14 items-center justify-center rounded-[20px] bg-thailand-blue text-white shadow-sm">
                             <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                             </svg>
                           </div>
+                          <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue/70">Taste</div>
                           <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">Food & Dining</h3>
-                          <p className="text-gray-600 text-sm mb-4">
+                          <p className="text-gray-600 text-sm leading-6 mb-5 min-h-[72px]">
                             {city.categories.food.en}
                           </p>
-                          <span className="text-thailand-blue font-medium">
-                            Explore Food →
+                          <span className="inline-flex items-center gap-2 text-thailand-blue font-semibold">
+                            Explore Food <span aria-hidden="true">→</span>
                           </span>
                         </div>
                       </div>
@@ -1275,19 +1648,21 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                     {/* Hotels */}
                     <Link href={`/city/${city.slug}/hotels/`}>
-                      <div className="card hover:shadow-xl transition-shadow duration-300 cursor-pointer">
-                        <div className="text-center">
-                          <div className="w-16 h-16 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-4">
+                      <div className={exploreCardClass}>
+                        <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-emerald-500 to-teal-400" />
+                        <div className="relative text-left">
+                          <div className="mb-5 flex h-14 w-14 items-center justify-center rounded-[20px] bg-emerald-500 text-white shadow-sm">
                             <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                             </svg>
                           </div>
+                          <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-emerald-700/80">Stay</div>
                           <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">Hotels & Stay</h3>
-                          <p className="text-gray-600 text-sm mb-4">
+                          <p className="text-gray-600 text-sm leading-6 mb-5 min-h-[72px]">
                             {city.categories.hotels.en}
                           </p>
-                          <span className="text-thailand-blue font-medium">
-                            Find Hotels →
+                          <span className="inline-flex items-center gap-2 text-emerald-700 font-semibold">
+                            Find Hotels <span aria-hidden="true">→</span>
                           </span>
                         </div>
                       </div>
@@ -1295,20 +1670,22 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                     {/* Attractions */}
                     <Link href={`/city/${city.slug}/attractions/`}>
-                      <div className="card hover:shadow-xl transition-shadow duration-300 cursor-pointer">
-                        <div className="text-center">
-                          <div className="w-16 h-16 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-4">
+                      <div className={exploreCardClass}>
+                        <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-red to-orange-400" />
+                        <div className="relative text-left">
+                          <div className="mb-5 flex h-14 w-14 items-center justify-center rounded-[20px] bg-thailand-red text-white shadow-sm">
                             <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                             </svg>
                           </div>
+                          <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-red/80">See</div>
                           <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">Attractions</h3>
-                          <p className="text-gray-600 text-sm mb-4">
+                          <p className="text-gray-600 text-sm leading-6 mb-5 min-h-[72px]">
                             {city.categories.attractions.en}
                           </p>
-                          <span className="text-thailand-blue font-medium">
-                            See Attractions →
+                          <span className="inline-flex items-center gap-2 text-thailand-red font-semibold">
+                            See Attractions <span aria-hidden="true">→</span>
                           </span>
                         </div>
                       </div>
@@ -1316,19 +1693,21 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                     {/* Best Time to Visit */}
                     <Link href={`/city/${city.slug}/best-time-to-visit/`}>
-                      <div className="card hover:shadow-xl transition-shadow duration-300 cursor-pointer">
-                        <div className="text-center">
-                          <div className="w-16 h-16 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-4">
+                      <div className={exploreCardClass}>
+                        <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-violet-500 to-indigo-400" />
+                        <div className="relative text-left">
+                          <div className="mb-5 flex h-14 w-14 items-center justify-center rounded-[20px] bg-violet-500 text-white shadow-sm">
                             <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                             </svg>
                           </div>
+                          <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-violet-700/80">Timing</div>
                           <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">Best Time to Visit</h3>
-                          <p className="text-gray-600 text-sm mb-4">
+                          <p className="text-gray-600 text-sm leading-6 mb-5 min-h-[72px]">
                             Weather, seasons & festivals
                           </p>
-                          <span className="text-thailand-blue font-medium">
-                            View Guide →
+                          <span className="inline-flex items-center gap-2 text-violet-700 font-semibold">
+                            View Guide <span aria-hidden="true">→</span>
                           </span>
                         </div>
                       </div>
@@ -1336,19 +1715,21 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                     {/* Budget */}
                     <Link href={`/city/${city.slug}/budget/`}>
-                      <div className="card hover:shadow-xl transition-shadow duration-300 cursor-pointer">
-                        <div className="text-center">
-                          <div className="w-16 h-16 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-4">
+                      <div className={exploreCardClass}>
+                        <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-amber-500 to-yellow-400" />
+                        <div className="relative text-left">
+                          <div className="mb-5 flex h-14 w-14 items-center justify-center rounded-[20px] bg-amber-500 text-white shadow-sm">
                             <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                             </svg>
                           </div>
+                          <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-amber-700/80">Costs</div>
                           <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">Budget Guide</h3>
-                          <p className="text-gray-600 text-sm mb-4">
+                          <p className="text-gray-600 text-sm leading-6 mb-5 min-h-[72px]">
                             Daily costs & money tips
                           </p>
-                          <span className="text-thailand-blue font-medium">
-                            See Costs →
+                          <span className="inline-flex items-center gap-2 text-amber-700 font-semibold">
+                            See Costs <span aria-hidden="true">→</span>
                           </span>
                         </div>
                       </div>
@@ -1359,15 +1740,20 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 {/* Compare with Other Cities */}
                 {comparisons && comparisons.length > 0 && (
                   <div className="mb-12">
-                    <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                      Compare {city.name.en} with Other Cities
-                    </h2>
-                    <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
+                    <div className="mb-6">
+                      <span className="inline-flex items-center rounded-full bg-slate-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-slate-700">
+                        Compare
+                      </span>
+                      <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                        Compare {city.name.en} with Other Cities
+                      </h2>
+                    </div>
+                    <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
                       {comparisons.map((comp: CityComparisonLink) => (
                         <Link
                           key={comp.slug}
                           href={`/compare/${comp.slug}/`}
-                          className="bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-4 text-center"
+                          className="rounded-[24px] border border-gray-100 bg-white p-4 text-center shadow-[0_12px_30px_rgba(15,23,42,0.05)] transition-all hover:-translate-y-1 hover:shadow-[0_18px_40px_rgba(15,23,42,0.08)]"
                         >
                           <span className="text-sm font-medium text-gray-700">
                             {city.name.en} <span className="text-gray-400">vs</span> {comp.otherName.en}
@@ -1381,23 +1767,28 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 {/* Transport Routes */}
                 {transportLinks && transportLinks.length > 0 && (
                   <div className="mb-12">
-                    <h2 className="font-heading text-3xl font-bold text-gray-900 mb-6">
-                      Getting To & From {city.name.en}
-                    </h2>
-                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                    <div className="mb-6">
+                      <span className="inline-flex items-center rounded-full bg-violet-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-violet-700">
+                        Routes
+                      </span>
+                      <h2 className="font-heading text-3xl font-bold text-gray-900 mt-3">
+                        Getting To & From {city.name.en}
+                      </h2>
+                    </div>
+                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                       {transportLinks.slice(0, 12).map((route) => (
                         <Link
                           key={route.slug}
                           href={`/transport/${route.slug}/`}
-                          className="bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-4"
+                          className="rounded-[24px] border border-gray-100 bg-white p-5 shadow-[0_12px_30px_rgba(15,23,42,0.05)] transition-all hover:-translate-y-1 hover:shadow-[0_18px_40px_rgba(15,23,42,0.08)]"
                         >
-                          <div className="font-medium text-gray-900 mb-1">
+                          <div className="font-medium text-gray-900 mb-2">
                             {city.name.en} → {route.otherName}
                           </div>
-                          <div className="text-sm text-gray-500 mb-2">{route.distance}</div>
-                          <div className="flex flex-wrap gap-1">
+                          <div className="text-sm text-gray-500 mb-3">{route.distance}</div>
+                          <div className="flex flex-wrap gap-2">
                             {route.modes.map((mode) => (
-                              <span key={mode} className="text-xs bg-blue-50 text-blue-700 px-2 py-0.5 rounded-full">
+                              <span key={mode} className="text-xs bg-violet-50 text-violet-700 px-3 py-1 rounded-full font-medium">
                                 {mode}
                               </span>
                             ))}
@@ -1411,15 +1802,39 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 {/* Content Sources */}
                 {city.contentSources && city.contentSources.length > 0 && (
                   <div className="mb-12">
-                    <h3 className="text-lg font-semibold text-gray-700 mb-3">Sources & References</h3>
-                    <div className="space-y-2">
+                    <div className="mb-6">
+                      <span className="inline-flex items-center rounded-full bg-slate-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-slate-700">
+                        Transparency
+                      </span>
+                      <h3 className="mt-3 text-2xl font-heading font-bold text-gray-900">Sources & References</h3>
+                      <p className="mt-2 max-w-3xl text-sm leading-6 text-gray-600">
+                        This page is curated from official venue pages, museum and attraction sources, hotel and restaurant references, and direct planning resources. We use source-backed details for opening hours, entry notes, neighborhood fit, and practical trip planning.
+                      </p>
+                    </div>
+                    <div className="mb-5 rounded-[26px] border border-slate-100 bg-slate-50 px-5 py-5">
+                      <div className="grid gap-4 md:grid-cols-3">
+                        <div>
+                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Reviewed</div>
+                          <div className="mt-1 text-sm font-semibold text-gray-900">{reviewedDate || 'Editorial review in progress'}</div>
+                        </div>
+                        <div>
+                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Sources Used</div>
+                          <div className="mt-1 text-sm font-semibold text-gray-900">{city.contentSources.length} references on-page</div>
+                        </div>
+                        <div>
+                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Method</div>
+                          <div className="mt-1 text-sm font-semibold text-gray-900">Curated manually, then checked against linked sources</div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                       {city.contentSources.map((source, index) => (
                         <a
                           key={index}
                           href={source.url}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="flex items-center p-3 bg-white rounded-2xl border border-gray-100 hover:border-gray-300 transition-colors text-sm"
+                          className="flex items-start p-4 bg-white rounded-[24px] border border-gray-100 hover:border-gray-300 transition-all hover:-translate-y-0.5 hover:shadow-md text-sm"
                         >
                           {source.type === 'video' && (
                             <svg className="w-5 h-5 text-red-500 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 24 24">
@@ -1427,8 +1842,11 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                             </svg>
                           )}
                           <div>
-                            <span className="font-medium text-gray-900">{source.title}</span>
-                            <span className="text-gray-500"> by {source.creator}</span>
+                            <div className="font-medium text-gray-900">{source.title}</div>
+                            <div className="text-gray-500">by {source.creator}</div>
+                            {source.description && (
+                              <div className="text-gray-600 mt-1 leading-6">{source.description}</div>
+                            )}
                           </div>
                         </a>
                       ))}
@@ -1440,24 +1858,34 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
               {/* Sidebar */}
               <Sidebar mobilePosition="top">
                 {/* Quick Facts */}
-                <div className="card">
-                  <h3 className="font-heading text-xl font-bold text-gray-900 mb-4">Quick Facts</h3>
+                <div className={sidebarPanelClass}>
+                  <div className="flex items-center gap-3 mb-5">
+                    <div className="flex h-11 w-11 items-center justify-center rounded-2xl bg-thailand-blue text-white shadow-sm">
+                      <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 01.553-.894L9 2m0 18l6-2m-6 2V2m6 16l5.447-2.724A1 1 0 0021 14.382V3.618a1 1 0 00-.553-.894L15 0m0 18V0m-6 2l6-2" />
+                      </svg>
+                    </div>
+                    <div>
+                      <div className="text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue/70">Snapshot</div>
+                      <h3 className="font-heading text-xl font-bold text-gray-900">Quick Facts</h3>
+                    </div>
+                  </div>
                   <div className="space-y-3">
-                    <div className="flex justify-between">
-                      <span className="text-gray-600">Region:</span>
-                      <Link href={`/region/${city.region}/`} className="font-medium text-thailand-blue hover:underline capitalize">{city.region}</Link>
+                    <div className="flex items-start justify-between gap-4 rounded-2xl bg-slate-50 px-4 py-3">
+                      <span className="text-sm text-gray-500">Region</span>
+                      <Link href={`/region/${city.region}/`} className="text-right font-semibold text-thailand-blue hover:underline capitalize">{city.region}</Link>
                     </div>
-                    <div className="flex justify-between">
-                      <span className="text-gray-600">Province:</span>
-                      <span className="font-medium">{city.province}</span>
+                    <div className="flex items-start justify-between gap-4 rounded-2xl bg-slate-50 px-4 py-3">
+                      <span className="text-sm text-gray-500">Province</span>
+                      <span className="text-right font-semibold text-gray-900">{city.province}</span>
                     </div>
-                    <div className="flex justify-between">
-                      <span className="text-gray-600">Population:</span>
-                      <span className="font-medium">{formatNumber(city.population)}</span>
+                    <div className="flex items-start justify-between gap-4 rounded-2xl bg-slate-50 px-4 py-3">
+                      <span className="text-sm text-gray-500">Population</span>
+                      <span className="text-right font-semibold text-gray-900">{formatNumber(city.population)}</span>
                     </div>
-                    <div className="flex justify-between">
-                      <span className="text-gray-600">Coordinates:</span>
-                      <span className="font-medium text-sm">
+                    <div className="flex items-start justify-between gap-4 rounded-2xl bg-slate-50 px-4 py-3">
+                      <span className="text-sm text-gray-500">Coordinates</span>
+                      <span className="text-right font-semibold text-sm text-gray-900">
                         {city.location.lat.toFixed(4)}, {city.location.lng.toFixed(4)}
                       </span>
                     </div>
@@ -1473,29 +1901,32 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   />
                   
                   {/* Trip.com Features */}
-                  <div className="card mt-4">
-                    <h4 className="text-sm font-semibold text-gray-900 mb-3">Why Book with Trip.com?</h4>
-                    <div className="text-xs text-gray-600 space-y-2">
-                      <div className="flex items-center">
-                        <svg className="w-4 h-4 text-green-500 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                  <div className={`${sidebarPanelClass} mt-4`}>
+                    <div className="mb-4">
+                      <div className="text-xs font-semibold uppercase tracking-[0.18em] text-emerald-700">Booking</div>
+                      <h4 className="mt-1 text-base font-bold text-gray-900">Why Book with Trip.com?</h4>
+                    </div>
+                    <div className="space-y-3 text-sm text-gray-600">
+                      <div className="flex items-start rounded-2xl bg-emerald-50 px-3 py-2.5">
+                        <svg className="mt-0.5 w-4 h-4 text-emerald-500 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                         </svg>
                         <span>24/7 Customer Service</span>
                       </div>
-                      <div className="flex items-center">
-                        <svg className="w-4 h-4 text-green-500 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                      <div className="flex items-start rounded-2xl bg-emerald-50 px-3 py-2.5">
+                        <svg className="mt-0.5 w-4 h-4 text-emerald-500 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                         </svg>
                         <span>Best Price Guarantee</span>
                       </div>
-                      <div className="flex items-center">
-                        <svg className="w-4 h-4 text-green-500 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                      <div className="flex items-start rounded-2xl bg-emerald-50 px-3 py-2.5">
+                        <svg className="mt-0.5 w-4 h-4 text-emerald-500 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                         </svg>
                         <span>1.2M+ Hotels Worldwide</span>
                       </div>
-                      <div className="flex items-center">
-                        <svg className="w-4 h-4 text-green-500 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                      <div className="flex items-start rounded-2xl bg-emerald-50 px-3 py-2.5">
+                        <svg className="mt-0.5 w-4 h-4 text-emerald-500 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                         </svg>
                         <span>Secure Booking Process</span>
@@ -1508,33 +1939,36 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                 {/* Enhanced Seasonal Secrets */}
                 {city.seasonal_secrets ? (
-                  <div className="card mb-8">
+                  <div className={sidebarPanelClass + " mb-8"}>
                     <div className="flex items-center mb-4">
-                      <div className="w-8 h-8 bg-blue-500 rounded-xl flex items-center justify-center mr-3">
+                      <div className="w-10 h-10 bg-blue-500 rounded-2xl flex items-center justify-center mr-3 shadow-sm">
                         <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clipRule="evenodd" />
                         </svg>
                       </div>
-                      <h3 className="font-heading text-xl font-bold text-gray-900">Best Time to Visit</h3>
+                      <div>
+                        <div className="text-xs font-semibold uppercase tracking-[0.18em] text-blue-600">Seasonality</div>
+                        <h3 className="font-heading text-xl font-bold text-gray-900">Best Time to Visit</h3>
+                      </div>
                     </div>
                     
                     <div className="space-y-4">
-                      <div className="bg-surface-cream rounded-xl p-4">
+                      <div className="rounded-[22px] bg-gradient-to-br from-blue-50 to-slate-50 p-4 border border-blue-100">
                         <div className="flex items-center justify-between mb-2">
-                          <span className="font-bold text-blue-800">{city.seasonal_secrets.best_season || 'Cool Season'}</span>
-                          <span className="text-sm bg-blue-100 text-blue-700 px-2 py-1 rounded">Recommended</span>
+                          <span className="font-bold text-blue-900">{city.seasonal_secrets.best_season || 'Cool Season'}</span>
+                          <span className="text-xs bg-white text-blue-700 px-2.5 py-1 rounded-full font-semibold border border-blue-100">Recommended</span>
                         </div>
-                        <p className="text-sm text-blue-700 mb-2">{city.seasonal_secrets.why || 'Most comfortable weather'}</p>
+                        <p className="text-sm leading-6 text-blue-800">{city.seasonal_secrets.why || 'Most comfortable weather'}</p>
                       </div>
 
                       {city.seasonal_secrets.local_festivals && city.seasonal_secrets.local_festivals.length > 0 && (
                         <div>
-                          <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
+                          <h4 className="font-semibold text-gray-900 mb-3">
                             Local Festivals
                           </h4>
-                          <div className="space-y-1">
+                          <div className="flex flex-wrap gap-2">
                             {city.seasonal_secrets.local_festivals.map((festival, i) => (
-                              <span key={i} className="block text-sm text-gray-600 bg-surface-cream px-2 py-1 rounded">
+                              <span key={i} className="text-xs font-medium text-gray-700 bg-slate-100 px-3 py-1.5 rounded-full">
                                 {festival}
                               </span>
                             ))}
@@ -1544,12 +1978,12 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                       {city.seasonal_secrets.seasonal_foods && city.seasonal_secrets.seasonal_foods.length > 0 && (
                         <div>
-                          <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
+                          <h4 className="font-semibold text-gray-900 mb-3">
                             Seasonal Foods
                           </h4>
-                          <div className="flex flex-wrap gap-1">
+                          <div className="flex flex-wrap gap-2">
                             {city.seasonal_secrets.seasonal_foods.map((food, i) => (
-                              <span key={i} className="text-xs bg-orange-100 text-orange-700 px-2 py-1 rounded">
+                              <span key={i} className="text-xs bg-orange-50 text-orange-700 px-3 py-1.5 rounded-full font-medium">
                                 {food}
                               </span>
                             ))}
@@ -1559,14 +1993,14 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                       {city.seasonal_secrets.insider_tips && city.seasonal_secrets.insider_tips.length > 0 && (
                         <div>
-                          <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
+                          <h4 className="font-semibold text-gray-900 mb-3">
                             Insider Tips
                           </h4>
-                          <div className="space-y-1">
+                          <div className="space-y-2">
                             {city.seasonal_secrets.insider_tips.slice(0, 2).map((tip, i) => (
-                              <p key={i} className="text-xs text-gray-600 bg-yellow-50 p-2 rounded border-l-2 border-yellow-400">
+                              <div key={i} className="rounded-2xl border border-yellow-100 bg-yellow-50 px-3 py-2.5 text-xs leading-5 text-gray-700">
                                 {tip}
-                              </p>
+                              </div>
                             ))}
                           </div>
                         </div>
@@ -1574,7 +2008,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     </div>
                   </div>
                 ) : city.best_time_to_visit ? (
-                  <div className="card mb-8">
+                  <div className={sidebarPanelClass + " mb-8"}>
                     <h3 className="font-heading text-xl font-bold text-gray-900 mb-4">Best Time to Visit</h3>
                     <div className="space-y-3">
                       <div>
@@ -1588,40 +2022,43 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                 {/* Enhanced Budget Reality */}
                 {city.budget_reality ? (
-                  <div className="card mb-8">
+                  <div className={sidebarPanelClass + " mb-8"}>
                     <div className="flex items-center mb-4">
-                      <div className="w-8 h-8 bg-green-500 rounded-xl flex items-center justify-center mr-3">
+                      <div className="w-10 h-10 bg-green-500 rounded-2xl flex items-center justify-center mr-3 shadow-sm">
                         <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
                           <path d="M4 4a2 2 0 00-2 2v4a2 2 0 002 2V6h10a2 2 0 00-2-2H4zm2 6a2 2 0 012-2h8a2 2 0 012 2v4a2 2 0 01-2 2H8a2 2 0 01-2-2v-4zm6 4a2 2 0 100-4 2 2 0 000 4z" />
                         </svg>
                       </div>
-                      <h3 className="font-heading text-xl font-bold text-gray-900">Budget Reality</h3>
+                      <div>
+                        <div className="text-xs font-semibold uppercase tracking-[0.18em] text-green-600">Costs</div>
+                        <h3 className="font-heading text-xl font-bold text-gray-900">Budget Reality</h3>
+                      </div>
                     </div>
                     
                     <div className="space-y-4">
-                      <div className="grid grid-cols-1 gap-2">
-                        <div className="flex justify-between p-2 bg-green-50 rounded">
-                          <span className="text-sm text-gray-600">Budget:</span>
-                          <span className="font-bold text-green-700">{city.budget_reality.budget || '$25-40/day'}</span>
+                      <div className="grid grid-cols-1 gap-3">
+                        <div className="flex items-center justify-between rounded-2xl border border-emerald-100 bg-emerald-50 px-4 py-3">
+                          <span className="text-sm text-gray-600">Budget</span>
+                          <span className="font-bold text-emerald-700">{city.budget_reality.budget || '$25-40/day'}</span>
                         </div>
-                        <div className="flex justify-between p-2 bg-blue-50 rounded">
-                          <span className="text-sm text-gray-600">Mid-range:</span>
+                        <div className="flex items-center justify-between rounded-2xl border border-blue-100 bg-blue-50 px-4 py-3">
+                          <span className="text-sm text-gray-600">Mid-range</span>
                           <span className="font-bold text-blue-700">{city.budget_reality.mid_range || '$40-80/day'}</span>
                         </div>
-                        <div className="flex justify-between p-2 bg-purple-50 rounded">
-                          <span className="text-sm text-gray-600">Luxury:</span>
+                        <div className="flex items-center justify-between rounded-2xl border border-purple-100 bg-purple-50 px-4 py-3">
+                          <span className="text-sm text-gray-600">Luxury</span>
                           <span className="font-bold text-purple-700">{city.budget_reality.luxury || '$80+/day'}</span>
                         </div>
                       </div>
 
                       {city.budget_reality.examples && city.budget_reality.examples.length > 0 && (
                         <div>
-                          <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
+                          <h4 className="font-semibold text-gray-900 mb-3">
                             Real Prices
                           </h4>
-                          <div className="space-y-1">
+                          <div className="space-y-2">
                             {city.budget_reality.examples.slice(0, 3).map((example, i) => (
-                              <div key={i} className="text-xs text-gray-600 bg-surface-cream p-2 rounded flex justify-between">
+                              <div key={i} className="text-xs text-gray-600 bg-slate-50 px-3 py-2.5 rounded-2xl flex justify-between gap-3">
                                 <span>{example.split(':')[0]}:</span>
                                 <span className="font-medium">{example.split(':')[1]}</span>
                               </div>
@@ -1632,14 +2069,14 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                       {city.budget_reality.money_saving_tricks && city.budget_reality.money_saving_tricks.length > 0 && (
                         <div>
-                          <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
+                          <h4 className="font-semibold text-gray-900 mb-3">
                             Money-Saving Tricks
                           </h4>
-                          <div className="space-y-1">
+                          <div className="space-y-2">
                             {city.budget_reality.money_saving_tricks.slice(0, 2).map((trick, i) => (
-                              <p key={i} className="text-xs text-green-700 bg-green-50 p-2 rounded border-l-2 border-green-400">
+                              <div key={i} className="rounded-2xl border border-emerald-100 bg-emerald-50 px-3 py-2.5 text-xs leading-5 text-emerald-800">
                                 {trick}
-                              </p>
+                              </div>
                             ))}
                           </div>
                         </div>
@@ -1647,14 +2084,14 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                       {city.budget_reality.hidden_costs && city.budget_reality.hidden_costs.length > 0 && (
                         <div>
-                          <h4 className="font-semibold text-gray-900 mb-2 flex items-center">
+                          <h4 className="font-semibold text-gray-900 mb-3">
                             Hidden Costs
                           </h4>
-                          <div className="space-y-1">
+                          <div className="space-y-2">
                             {city.budget_reality.hidden_costs.slice(0, 2).map((cost, i) => (
-                              <p key={i} className="text-xs text-red-700 bg-red-50 p-2 rounded border-l-2 border-red-400">
+                              <div key={i} className="rounded-2xl border border-red-100 bg-red-50 px-3 py-2.5 text-xs leading-5 text-red-800">
                                 {cost}
-                              </p>
+                              </div>
                             ))}
                           </div>
                         </div>
@@ -1662,7 +2099,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     </div>
                   </div>
                 ) : city.budget_info?.daily_budget ? (
-                  <div className="card mb-8">
+                  <div className={sidebarPanelClass + " mb-8"}>
                     <h3 className="font-heading text-xl font-bold text-gray-900 mb-4">Daily Budget</h3>
                     <div className="space-y-3">
                       <div className="flex justify-between">
@@ -1683,13 +2120,13 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                 {/* Tags */}
                 {city.tags && city.tags.length > 0 && (
-                  <div className="card mb-8">
+                  <div className={sidebarPanelClass + " mb-8"}>
                     <h3 className="font-heading text-xl font-bold text-gray-900 mb-4">Tags</h3>
-                    <div className="flex flex-wrap gap-2">
+                    <div className="flex flex-wrap gap-2.5">
                       {city.tags.map((tag, index) => (
                         <span 
                           key={index}
-                          className="bg-surface-cream text-gray-700 px-3 py-1 rounded-full text-sm"
+                          className="rounded-full border border-gray-200 bg-slate-50 px-3 py-1.5 text-sm text-gray-700"
                         >
                           {tag}
                         </span>
@@ -1716,7 +2153,11 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
         {relatedCities && relatedCities.length > 0 && (
           <section className="section-padding bg-surface-cream">
             <div className="container-custom">
-              <span className="section-label">Keep exploring</span>
+              <div className="text-center mb-8">
+                <span className="inline-flex items-center rounded-full bg-thailand-blue/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue">
+                  Keep Exploring
+                </span>
+              </div>
               <h2 className="font-heading text-3xl font-bold text-gray-900 mb-8 text-center">
                 More Cities in {city.region} Thailand
               </h2>

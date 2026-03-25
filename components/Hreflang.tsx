@@ -75,16 +75,14 @@ export default function Hreflang() {
       <link rel="alternate" hrefLang="x-default" href={`${SITE_URL}${seoPath}`} />
       {/* Canonical always points to current locale version */}
       <link key="canonical" rel="canonical" href={canonicalUrl} />
-      {/* Open Graph defaults - pages can override these with their own Head tags */}
+      {/* Open Graph defaults - page components provide their own image tags via SEOHead */}
       <meta property="og:site_name" content="Go2Thailand" />
       <meta property="og:type" content="website" />
       <meta property="og:url" content={canonicalUrl} />
-      <meta property="og:image" content={`${SITE_URL}/og-default.webp`} />
       <meta property="og:locale" content={currentLocale === 'en' ? 'en_US' : currentLocale} />
       {/* Twitter Card */}
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@go2thailand" />
-      <meta name="twitter:image" content={`${SITE_URL}/og-default.webp`} />
     </Head>
   );
 }

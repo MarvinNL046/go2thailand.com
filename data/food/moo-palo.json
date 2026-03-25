@@ -7,7 +7,7 @@
     "thai": "หมูพะโล้"
   },
   "category": "main-dish",
-  "region": "central",
+  "region": "northern",
   "spice_level": "mild",
   "description": {
     "en": "Pork belly stewed in sweet soy sauce with eggs",
@@ -41,7 +41,7 @@
     "thai-food",
     "thailand",
     "main-dish",
-    "central",
+    "northern",
     "mild",
     "medium",
     "budget",
@@ -59,121 +59,5 @@
     "allergens": [],
     "dietary": [],
     "price_range": "budget"
-  },
-  "enhanced_description": "Moo palo is Thailand's ultimate comfort food, a fragrant five-spice braised pork stew with hard-boiled eggs that represents one of the most successful examples of Chinese culinary influence on Thai cooking. This warming, aromatic dish fills homes and food courts across the country with the unmistakable scent of star anise and cinnamon, delivering deep, complex flavors that belie its humble street food origins. If pad thai is Thailand's ambassador abroad, moo palo is what Thai people actually eat when they want something deeply satisfying.\n\nThe dish traces its origins to Teochew Chinese merchants who arrived in Siam at the end of the 19th century. They brought with them a technique called pa-lo: caramelizing sugar and simmering meat in a soy-and-spice broth flavored with Chinese five-spice powder. Over time, Thai cooks made the recipe their own in subtle but important ways. Palm sugar replaced Chinese brown sugar, introducing a smoky, caramel note unique to the tropics. Fish sauce joined the light and dark soy sauce, adding a maritime umami that is distinctly Thai. Coriander root and white peppercorns, pounded into the classic Thai sam kluea paste, became the aromatic foundation.\n\nThe cooking process begins with that sam kluea paste: coriander roots, garlic cloves, and white peppercorns pounded together in a mortar until fragrant. This paste is fried in a heavy pot until the kitchen fills with earthy, peppery aromas. Palm sugar is then melted to the edge of bitterness, creating a mahogany-tinted caramel that gives the broth its signature dark color and a subtle coffee-like note. Water or stock deglazes the pot, and in go the star anise, cinnamon sticks, dark and light soy sauce, and thick chunks of pork belly. The stew simmers gently for an hour or more until the pork is impossibly tender.\n\nHard-boiled eggs are the essential companion, added to the simmering broth where they absorb the dark, fragrant liquid and develop a beautiful marbled appearance when peeled. Many versions also include fried tofu puffs, which soak up the braising liquid like little sponges. The finished dish is ladled generously over steamed jasmine rice, the glossy brown sauce coating every grain.\n\nIn Thailand, moo palo (or kai palo when eggs are the star) is humble, everyday food. You won't find it on the menus of fancy restaurants. Instead, it lives in food courts, cafeterias, market stalls, and home kitchens, where enormous pots of the stew simmer all morning and are served over rice for lunch. It is the kind of dish that office workers queue for at their favorite canteen, the version at their local market always tasting slightly better than anywhere else.\n\nThe beauty of moo palo is that it improves with time. Leftovers taste even better the next day as the flavors continue to meld and deepen. This makes it the perfect make-ahead dish and a staple of Thai meal prep. Every Thai family has its own variation, some adding more star anise, others preferring extra palm sugar for sweetness, and some incorporating pork trotters or offal for a more rustic version.",
-  "detailed_ingredients": [
-    {
-      "name": "Pork Belly",
-      "purpose": "The primary protein - the layered fat and lean meat become impossibly tender during the long braise",
-      "substitutes": [
-        "Pork shoulder",
-        "Pork trotters (traditional addition)",
-        "Chicken drumsticks (kai palo version)"
-      ]
-    },
-    {
-      "name": "Chinese Five-Spice Powder (Pong Phalo)",
-      "purpose": "The defining spice blend of star anise, cinnamon, cloves, fennel, and Sichuan pepper that gives palo its signature aroma",
-      "substitutes": [
-        "Whole star anise plus cinnamon stick",
-        "Homemade five-spice blend",
-        "Individual spices toasted and ground"
-      ]
-    },
-    {
-      "name": "Sam Kluea Paste (Coriander Root, Garlic, White Pepper)",
-      "purpose": "The Thai aromatic base that transforms Chinese pa-lo into something distinctly Thai",
-      "substitutes": [
-        "Coriander stems plus extra garlic",
-        "Ground coriander plus fresh garlic and pepper",
-        "Thai cooking paste base"
-      ]
-    },
-    {
-      "name": "Hard-Boiled Eggs",
-      "purpose": "Absorb the dark braising liquid and develop beautiful marbled coloring, adding protein variety",
-      "substitutes": [
-        "Fried tofu puffs (common addition)",
-        "Quail eggs (bite-sized version)",
-        "Both eggs and tofu together (most common)"
-      ]
-    }
-  ],
-  "cooking_method": {
-    "technique": "Caramel braising with five-spice aromatics",
-    "steps_overview": "Pound coriander root, garlic, and white peppercorns into a paste. Fry the paste until fragrant, then melt palm sugar until it caramelizes to a deep mahogany. Deglaze with water or stock, add dark and light soy sauce, star anise, cinnamon sticks, and pork belly chunks. Simmer gently for 60-90 minutes. Add hard-boiled eggs and tofu puffs in the final 20 minutes. Serve over jasmine rice.",
-    "cooking_tips": [
-      "Caramelize the palm sugar carefully - dark but not burnt, like a dark coffee color",
-      "Use both dark soy (for color) and light soy (for saltiness) for balanced seasoning",
-      "The stew improves overnight - make it a day ahead for the best flavor",
-      "Add tofu puffs near the end so they absorb sauce without falling apart",
-      "Whole star anise and cinnamon sticks are better than pre-ground five-spice powder"
-    ]
-  },
-  "cultural_significance": {
-    "origin_story": "Moo palo evolved from the Teochew Chinese technique of pa-lo (caramel braising) brought to Thailand by Chinese merchants in the late 19th century. Thai cooks adapted it by substituting palm sugar for brown sugar, adding fish sauce alongside soy sauce, and incorporating the Thai aromatic paste of coriander root, garlic, and white pepper.",
-    "cultural_importance": "Moo palo represents the seamless integration of Chinese and Thai food traditions. It is one of Thailand's most popular everyday dishes, found in virtually every food court and cafeteria across the country. The dish embodies the concept of comfort food in Thai culture - simple, warming, and deeply satisfying.",
-    "traditional_occasions": [
-      "Everyday lunch at food courts and cafeterias",
-      "Home cooking staple across Thailand",
-      "Chinese-Thai community celebrations",
-      "Meal prep and make-ahead family cooking"
-    ]
-  },
-  "variations": [
-    {
-      "name": "Kai Palo (Egg Version)",
-      "description": "When eggs are the star rather than pork - a lighter, more common street food version"
-    },
-    {
-      "name": "Moo Palo with Pork Trotters",
-      "description": "Includes pig's feet for extra collagen richness and a more rustic texture"
-    },
-    {
-      "name": "Moo Palo with Tofu Puffs",
-      "description": "Fried tofu puffs added to the stew, absorbing the rich braising liquid like sponges"
-    }
-  ],
-  "serving_suggestions": {
-    "traditional_accompaniments": [
-      "Steamed jasmine rice (essential)",
-      "Pickled mustard greens",
-      "Fresh cucumber slices",
-      "Sliced fresh chilies in vinegar"
-    ],
-    "presentation": "Ladled generously over rice in a deep plate, with the dark glossy sauce coating the rice, topped with sliced pork, halved eggs, and tofu",
-    "eating_etiquette": "Eat with fork and spoon. The rich sauce should coat every spoonful of rice. Add chili vinegar for brightness if desired."
-  },
-  "nutritional_info": {
-    "calories_per_serving": "400-550 calories",
-    "health_benefits": [
-      "High in protein from pork and eggs",
-      "Star anise and cinnamon have antioxidant properties",
-      "Coriander root aids digestion"
-    ],
-    "dietary_notes": [
-      "High in fat from pork belly",
-      "Contains eggs",
-      "Contains soy",
-      "Gluten-free (with tamari)"
-    ]
-  },
-  "where_to_find": {
-    "best_restaurants": [
-      "Food courts in shopping malls across Bangkok - the everyday Thai lunch",
-      "Chinatown (Yaowarat) vendors - Teochew-style with extra five-spice",
-      "Local canteens and cafeterias throughout Thailand"
-    ],
-    "street_food_areas": [
-      "Any Thai food court or canteen - universally available",
-      "Bangkok's Chinatown (Yaowarat Road)",
-      "Morning markets across Thailand"
-    ],
-    "price_ranges": {
-      "street_food": "40-60 THB ($1.20-$1.80)",
-      "food_court": "50-80 THB ($1.50-$2.50)",
-      "restaurant": "80-150 THB ($2.50-$4.50)"
-    }
-  },
-  "enhanced_at": "2026-03-23T00:00:00.000Z"
+  }
 }

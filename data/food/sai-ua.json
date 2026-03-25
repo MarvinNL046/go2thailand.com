@@ -6,17 +6,12 @@
     "nl": "Sai Ua",
     "thai": "ไส้อั่ว"
   },
-  "thai_name": "ไส้อั่ว (Sai Ua)",
-  "origin_region": "northern",
   "category": "main-dish",
   "region": "northern",
   "spice_level": "hot",
   "description": {
     "en": "Spicy northern Thai sausage with herbs and spices",
     "nl": "Pittige noordelijke Thaise worst met kruiden en specerijen"
-  },
-  "extended_description": {
-    "en": "## What Is Sai Ua?\n\nSai Ua (ไส้อั่ว) is the legendary herb-packed sausage of northern Thailand, a coiled spiral of pork bursting with lemongrass, galangal, kaffir lime leaves, and red curry paste that delivers an explosion of aromatic flavor in every bite. Also known as Chiang Mai sausage, it is one of the defining dishes of Lanna cuisine, the culinary tradition of Thailand's northern region. Unlike Western sausages that rely on fat and salt for flavor, sai ua gets its character from an extraordinary amount of fresh Thai herbs and spices pounded directly into the pork filling. The result is a sausage that is simultaneously herbal, spicy, citrusy, and deeply savory, with a texture that ranges from juicy and snappy when freshly grilled to slightly chewy when served at room temperature.\n\n## History & Lanna Heritage\n\nSai ua has its roots in the Lanna Kingdom, the powerful northern Thai civilization centered on Chiang Mai that flourished from the 13th to 18th centuries. The dish also has strong connections to Lao and Shan (Myanmar) culinary traditions, reflecting the cultural crossroads of northern Thailand. Historically, making sai ua was a communal activity, with families and neighbors gathering to prepare large batches for festivals, temple fairs, and celebrations. The herbs used in sai ua, particularly lemongrass, galangal, and kaffir lime leaves, grew abundantly in the northern highlands, making the sausage a natural expression of the local terroir. The tradition of sai ua making has been passed down through generations in northern Thai families and remains a source of regional pride.\n\n## How It Is Made\n\nThe preparation begins with pounding a curry paste in a large mortar: dried red chilies, lemongrass, galangal, kaffir lime leaves, shallots, garlic, cilantro roots, turmeric, and shrimp paste are ground together into a fragrant, fiery paste. This paste is mixed thoroughly with coarsely chopped pork that includes a good proportion of fat for moisture and richness. Fish sauce and sometimes a bit of sticky rice are added to the mixture. The seasoned pork is then stuffed into natural pork casings and formed into the characteristic coiled spiral shape. The sausages are traditionally grilled slowly over low charcoal heat, which renders the fat, crisps the casing, and allows the herbs to perfume the meat. Some vendors also deep-fry sai ua for an extra crispy exterior.\n\n## Where to Eat Sai Ua\n\nChiang Mai is the undisputed capital of sai ua. The Saturday and Sunday Walking Street markets on Wua Lai Road and Ratchadamnoen Road have multiple vendors grilling sai ua fresh to order. Warorot Market (Kad Luang) in central Chiang Mai is another excellent source, where you can buy sai ua by weight from vendors who have been selling it for decades. SP Chicken on Samlan Road, famous for its rotisserie chicken, also serves excellent sai ua. In Bangkok, Huen Phen (which has a Chiang Mai original location as well) offers quality sai ua alongside other northern Thai specialties.\n\n## How to Order\n\nAsk for \"sai ua\" and specify the amount: vendors sell it by the coil or by weight (typically per 100 grams). It is commonly sliced into rounds for eating and served with sticky rice, raw cabbage, and fresh herbs. Some vendors offer it as part of a northern Thai sampler plate called \"khan tok\" alongside nam prik noom (roasted green chili dip), nam prik ong (tomato-pork dip), and sticky rice. Say \"mai phet\" if you want a milder version, though be aware that even mild sai ua has a noticeable kick.\n\n## Price Guide\n\nSai ua is moderately priced. At Chiang Mai walking street markets, a generous serving costs 40-80 THB. Warorot Market vendors sell it for around 200-300 THB per kilogram. Restaurant portions with sticky rice and accompaniments run 80-150 THB. In Bangkok, northern Thai restaurants charge 100-200 THB per serving. Vacuum-packed sai ua for bringing home as a souvenir costs 150-250 THB per pack at Chiang Mai airport shops."
   },
   "ingredients": [
     "pork",
@@ -33,30 +28,6 @@
   "preparation_time": "60 minutes",
   "difficulty": "hard",
   "price_range": "mid-range",
-  "best_places": [
-    "Sunday Walking Street, Ratchadamnoen Road, Chiang Mai",
-    "Warorot Market (Kad Luang), Chiang Mai",
-    "SP Chicken, Samlan Road, Chiang Mai",
-    "Huen Phen, Chiang Mai and Bangkok"
-  ],
-  "variations": [
-    "Sai Ua Chiang Mai (classic red curry paste version)",
-    "Sai Ua grilled (traditional charcoal grilled)",
-    "Sai Ua deep-fried (extra crispy casing)",
-    "Sai Ua Moo Saap (coarse-ground pork version)",
-    "Sai Ua served in khan tok sampler platter"
-  ],
-  "ordering_tips": {
-    "en": "Ask for 'sai ua' by the coil or by weight (per 100g). Eat with sticky rice, raw cabbage, and fresh herbs. For a full northern Thai experience, order a khan tok platter. Say 'mai phet' for milder, but expect some heat regardless.",
-    "nl": "Vraag om 'sai ua' per spiraal of per gewicht (per 100g). Eet met sticky rice, rauwe kool en verse kruiden. Zeg 'mai phet' voor milder, maar verwacht hoe dan ook enige pittigheid."
-  },
-  "pairs_well_with": [
-    "Sticky rice",
-    "Nam prik noom (green chili dip)",
-    "Nam prik ong (tomato-pork dip)",
-    "Raw cabbage and fresh herbs"
-  ],
-  "vegetarian_option": false,
   "seo": {
     "metaTitle": {
       "en": "Sai Ua Recipe | Authentic Thai main dish",
@@ -89,6 +60,5 @@
     "allergens": [],
     "dietary": [],
     "price_range": "mid-range"
-  },
-  "enriched_at": "2026-03-23"
+  }
 }

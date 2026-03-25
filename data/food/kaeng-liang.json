@@ -6,17 +6,12 @@
     "nl": "Kaeng Liang",
     "thai": "แกงเลียง"
   },
-  "thai_name": "แกงเลียง (Kaeng Liang)",
-  "origin_region": "central",
   "category": "soup",
   "region": "northern",
   "spice_level": "medium",
   "description": {
     "en": "Spicy vegetable soup with shrimp",
     "nl": "Pittige groentesoep met garnalen"
-  },
-  "extended_description": {
-    "en": "## What Is Kaeng Liang?\n\nKaeng Liang (แกงเลียง) is a traditional Thai vegetable soup that is considered one of the healthiest dishes in all of Thai cuisine. Unlike the rich, coconut milk-based curries that Thailand is famous for, kaeng liang is a clear, peppery broth packed with a colorful array of seasonal vegetables and small shrimp. The dominant flavor comes from crushed white peppercorns and shrimp paste, giving the soup a warm, savory kick without the burn of chilies. The vegetables provide natural sweetness and varied textures: soft pumpkin, tender zucchini, crunchy corn, leafy greens, and luffa gourd all feature depending on the season. Thai people often describe kaeng liang as \"food as medicine\" because every ingredient serves both a culinary and a nutritional purpose. It is light, nourishing, and deeply comforting.\n\n## History & Origins\n\nKaeng liang has roots in rural Thai communities across the central and northern regions, where families grew their own vegetables in backyard gardens and used whatever was in season. The soup embodies the traditional Thai concept of using food as medicine, with each ingredient selected for its health properties. For generations, Thai grandmothers have prepared kaeng liang for new mothers in the postpartum period, as the soup is believed to help boost breast milk production. The combination of peppery warmth, shrimp paste richness, and nutrient-dense vegetables made it the go-to nourishing meal for recovery. While modern science has not formally studied this specific claim, the tradition remains strong throughout Thailand.\n\n## How It's Made\n\nThe curry paste is simple but essential: shallots, dried shrimp or fresh shrimp, white peppercorns, and shrimp paste (kapi) are pounded together in a mortar. This paste is dissolved in water or light stock and brought to a boil. The vegetables are added in stages based on how long they take to cook: hard vegetables like pumpkin and corn go in first, followed by softer items like zucchini, luffa gourd, and ivy gourd. Fresh shrimp are added near the end so they stay tender. Thai basil leaves (horapha) are torn and added just before serving, providing a fragrant finishing note. The soup is seasoned with fish sauce. No coconut milk, no oil, and no sugar go into kaeng liang, making it remarkably light and clean-tasting despite its depth of flavor.\n\n## Where to Eat It\n\nKaeng liang is a home-cooking staple more than a restaurant dish, but it appears at khao kaeng (rice and curry) shops across Thailand. In Bangkok, the khao kaeng shops around Bangrak, Ari, and the old neighborhoods of Thonburi frequently serve it. Or Tor Kor Market has vendors with excellent versions. Food courts in department stores like Central and The Mall often include it. In the north, Chiang Mai's Warorot Market food stalls carry it. Because it is considered health food, hospitals and wellness retreats across Thailand also serve it. Look for it at any khao kaeng shop that has a large selection of dishes.\n\n## How to Order\n\nAsk for \"kaeng liang\" (แกงเลียง) at any khao kaeng shop. It is typically served as one of several curry options ladled over rice. Simply point at it if you see a clear, vegetable-heavy soup in the lineup. In restaurants, order it as a shared soup dish. If you want it without shrimp, ask for \"kaeng liang jay\" (vegetarian version), though not all shops offer this. The soup is naturally medium-spicy from white pepper, not from chilies, so it is a good option for those who want flavor without extreme heat.\n\n## Price Guide\n\nKaeng liang is everyday affordable food. At khao kaeng shops, a plate of rice with kaeng liang costs 40-55 THB. Food court versions run 50-70 THB. Sit-down restaurants in Bangkok charge 80-150 THB per bowl. At upscale Thai restaurants that specialize in traditional cuisine, expect 120-200 THB. At markets and street stalls, it is one of the cheapest options available."
   },
   "ingredients": [
     "mixed vegetables",
@@ -33,30 +28,6 @@
   "preparation_time": "25 minutes",
   "difficulty": "easy",
   "price_range": "budget",
-  "best_places": [
-    "Khao kaeng shops around Bangrak and Ari, Bangkok",
-    "Or Tor Kor Market, Bangkok",
-    "Warorot Market food stalls, Chiang Mai",
-    "Food courts at Central and The Mall department stores",
-    "Home-cooking and traditional Thai restaurants"
-  ],
-  "variations": [
-    "Kaeng Liang Goong Sod (with fresh prawns)",
-    "Kaeng Liang Jay (vegetarian version)",
-    "Kaeng Liang with pumpkin and corn",
-    "Kaeng Liang with luffa gourd and ivy gourd"
-  ],
-  "ordering_tips": {
-    "en": "Ask for 'kaeng liang' at khao kaeng shops. Point at the clear vegetable soup in the curry lineup. Medium-spicy from white pepper, not chilies, so good for those who want flavor without extreme heat. Ask for 'jay' for the vegetarian version.",
-    "nl": "Vraag om 'kaeng liang' bij khao kaeng winkels. Wijs naar de heldere groentesoep in de curry-opstelling. Gemiddeld pittig door witte peper, niet van chilipepers."
-  },
-  "pairs_well_with": [
-    "Steamed jasmine rice",
-    "Thai omelet (khai jiao)",
-    "Fried fish",
-    "Nam prik (chili dipping sauce)"
-  ],
-  "vegetarian_option": true,
   "seo": {
     "metaTitle": {
       "en": "Kaeng Liang Recipe | Authentic Thai soup",
@@ -91,6 +62,5 @@
     ],
     "dietary": [],
     "price_range": "budget"
-  },
-  "enriched_at": "2026-03-22"
+  }
 }

@@ -57,6 +57,12 @@ interface Top10RestaurantsData {
   city_name: string;
   category: string;
   data_sources?: string[];
+  content_sources?: Array<{
+    title: string;
+    creator: string;
+    url: string;
+    description?: string;
+  }>;
   last_perplexity_update?: string;
   last_scraped?: string;
   generated_at: string;
@@ -456,6 +462,31 @@ export default function Top10RestaurantsPage({ city, restaurantsData, affiliates
                       </Link>
                     </div>
                   </div>
+
+                  {restaurantsData.content_sources && restaurantsData.content_sources.length > 0 && (
+                    <div className="bg-white rounded-2xl shadow-md p-8">
+                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">
+                        Sources &amp; References
+                      </h3>
+                      <div className="space-y-3">
+                        {restaurantsData.content_sources.map((source, index) => (
+                          <a
+                            key={index}
+                            href={source.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="block rounded-xl border border-gray-100 p-4 hover:border-gray-300 transition-colors"
+                          >
+                            <div className="font-medium text-gray-900">{source.title}</div>
+                            <div className="text-sm text-gray-500">by {source.creator}</div>
+                            {source.description && (
+                              <div className="text-sm text-gray-600 mt-1">{source.description}</div>
+                            )}
+                          </a>
+                        ))}
+                      </div>
+                    </div>
+                  )}
                 </div>
               </main>
             </div>
