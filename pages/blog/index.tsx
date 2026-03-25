@@ -5,6 +5,7 @@ import { useState } from 'react';
 import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import TravelSecurityAffiliateBlock from '../../components/blog/TravelSecurityAffiliateBlock';
 import { getAllPosts, getAllCategories } from '../../lib/blog';
 
 interface BlogPost {
@@ -415,6 +416,8 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                     More eSIM options →
                   </Link>
                 </div>
+
+                <TravelSecurityAffiliateBlock />
 
                 {/* Travel Insurance */}
                 <div className="bg-surface-dark text-white rounded-2xl p-6">

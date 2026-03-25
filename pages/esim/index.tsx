@@ -1,127 +1,319 @@
 import { GetStaticProps } from 'next';
-import SEOHead from '../../components/SEOHead';
-import Link from 'next/link';
-import Image from 'next/image';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import SEOHead from '../../components/SEOHead';
+import Image from 'next/image';
+import Link from 'next/link';
+
+interface ESIMPlan {
+  label: string;
+  price: string;
+}
+
+interface SourceLink {
+  label: string;
+  href: string;
+}
 
 interface ESIMProvider {
   id: number;
   name: string;
   slug: string;
   logo: string;
+  badge: string;
+  bestFor: string;
   description: string;
-  features: string[];
-  plans: {
-    duration: string;
-    data: string;
-    price: string;
-    priceUSD: number;
-  }[];
-  coverage: string[];
-  pros: string[];
-  cons: string[];
+  highlights: string[];
+  tradeoffs: string[];
+  plans: ESIMPlan[];
+  planNote: string;
+  ctaLabel: string;
   affiliateLink: string;
-  mobileAppLink?: string;
-  qrCodeImage?: string;
-  rating: number;
-  dealText?: string;
+  sourceLinks: SourceLink[];
 }
 
 interface ESIMPageProps {
   providers: ESIMProvider[];
 }
 
+const REVIEWED_DATE = 'March 25, 2026';
+const AFFILIATE_REL = 'sponsored nofollow noopener noreferrer';
+
+const comparisonRows = [
+  {
+    feature: 'Best fit',
+    airalo: 'Short trips and travelers who want a widely used marketplace with several Thailand plan shapes.',
+    yesim: 'Heavier data use, unlimited-plan shoppers, or travelers who want the app and support layer to be a bigger part of the experience.',
+    saily: 'Travelers who want a straightforward data-only eSIM and value built-in privacy features in the app.',
+  },
+  {
+    feature: 'Sample entry plan',
+    airalo: '3 days / 1 GB / 4.00 EUR',
+    yesim: '1 day / 500 MB / 0.45 EUR',
+    saily: '7 days / 1 GB / US$2.99',
+  },
+  {
+    feature: 'Sample longer-stay plan',
+    airalo: '30 days / 5 GB / 7.50 EUR',
+    yesim: '30 days / 20 GB / 17 EUR',
+    saily: '30 days / 5 GB / US$7.99',
+  },
+  {
+    feature: 'Top-up / flexibility',
+    airalo: 'Top-ups are available for rechargeable eSIMs.',
+    yesim: 'Fixed plans, unlimited plans, and Pay & Fly options exist on the official site.',
+    saily: 'Top-ups and auto top-up are available in the app.',
+  },
+  {
+    feature: 'Notable extra',
+    airalo: 'Very mature eSIM marketplace with extensive help documentation.',
+    yesim: 'Unlimited options, Pay & Fly, and 24/7 support messaging on the official site.',
+    saily: 'Built-in privacy features and data-only simplicity.',
+  },
+];
+
+const methodologyPoints = [
+  'We checked official provider pages and help centers on March 25, 2026.',
+  'We treated the prices on this page as sample plan snapshots, not guaranteed future prices.',
+  'We avoided invented ratings and unverified network-speed claims.',
+  'We kept Saily in the comparison, but reduced brand-led NordVPN language to what is factually necessary.',
+];
+
+const faqData = [
+  {
+    question: 'Should I install my Thailand eSIM before I fly?',
+    answer:
+      'Usually yes. Apple recommends setting up your travel eSIM before you arrive when possible, and providers like Airalo and Yesim also structure their setup flows around pre-installation with Wi-Fi available.',
+  },
+  {
+    question: 'Do I need to remove my physical SIM card?',
+    answer:
+      'No. On supported phones, an eSIM can usually run alongside your existing SIM. That means you can use the eSIM for data in Thailand while keeping your regular number active for calls or account verification.',
+  },
+  {
+    question: 'Are the prices on this page fixed?',
+    answer:
+      'No. eSIM promotions and local pricing change often. The plan examples on this page are sample snapshots checked against official provider pages on March 25, 2026, so always verify the live plan before buying.',
+  },
+  {
+    question: 'Is Saily the same thing as NordVPN?',
+    answer:
+      'No. Saily is an eSIM product from Nord Security, the company behind NordVPN, but it is a separate travel-data product. We mention that relationship once for transparency rather than treating it as the main reason to choose the service.',
+  },
+];
+
+const globalSources: SourceLink[] = [
+  {
+    label: 'Apple Support: Use eSIM while traveling internationally with your iPhone',
+    href: 'https://support.apple.com/en-us/118227',
+  },
+  {
+    label: 'Airalo Thailand eSIM listing',
+    href: 'https://www.airalo.com/thailand-esim/maew-in-7days-1gb',
+  },
+  {
+    label: 'Airalo Help Center',
+    href: 'https://www.airalo.com/help',
+  },
+  {
+    label: 'Yesim Thailand eSIM plans',
+    href: 'https://yesim.app/country/thailand/',
+  },
+  {
+    label: 'Yesim Help Center',
+    href: 'https://help.yesim.tech/yesim-esim-setup/',
+  },
+  {
+    label: 'Saily Thailand eSIM page',
+    href: 'https://saily.com/esim-thailand/',
+  },
+];
+
 export default function ESIMPage({ providers }: ESIMPageProps) {
+  const pageSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: 'Best eSIM for Thailand',
+    description:
+      'A trust-first Thailand eSIM comparison covering Airalo, Yesim, and Saily with sample plan snapshots, installation guidance, affiliate disclosure, and source links.',
+    dateModified: '2026-03-25',
+    datePublished: '2026-03-25',
+    inLanguage: 'en',
+    author: {
+      '@type': 'Organization',
+      name: 'Go2Thailand Editorial Team',
+      url: 'https://go2-thailand.com/about/',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'Go2Thailand.com',
+      url: 'https://go2-thailand.com/',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://go2-thailand.com/go2thailand-faviocon.webp',
+      },
+    },
+    mainEntityOfPage: 'https://go2-thailand.com/esim/',
+  };
+
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqData.map((item) => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer,
+      },
+    })),
+  };
+
   return (
     <>
       <SEOHead
-        title={`Best eSIM for Thailand 2026 | Compare Prices & Data Plans`}
-        description="Compare Thailand eSIMs from $4/week. Airalo, Saily & Yesim on AIS, TrueMove & DTAC reviewed. Instant activation before landing — no SIM card needed."
+        title="Best eSIM for Thailand 2026 | Compare Data Plans, Setup & Travel Fit"
+        description="A trust-first Thailand eSIM comparison covering Airalo, Yesim, and Saily with sample plan snapshots, installation guidance, affiliate disclosure, and source links."
       >
-        <meta name="keywords" content="Thailand eSIM, best eSIM Thailand, Thailand travel SIM, mobile data Thailand, eSIM providers Thailand, Thailand internet" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(pageSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
       </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">
-        {/* Hero Section */}
         <section className="bg-surface-dark text-white">
           <div className="container-custom py-16">
-            <div className="text-center">
+            <div className="mx-auto max-w-4xl text-center">
               <p className="font-script text-thailand-gold mb-2">Stay Connected</p>
               <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
                 Best eSIM for Thailand
               </h1>
-              <p className="text-xl lg:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
-                Stay connected in Thailand with affordable data plans - no physical SIM needed!
+              <p className="text-xl lg:text-2xl mb-8 opacity-90">
+                A practical comparison of Thailand eSIM options, focused on plan shape, installation ease, and travel fit rather than hype.
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  Instant Activation
+                  Sample prices checked {REVIEWED_DATE}
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  Nationwide Coverage
+                  Data-only and unlimited options
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  From $5/week
+                  Source links on-page
                 </div>
               </div>
             </div>
           </div>
         </section>
 
-
-        {/* Breadcrumbs */}
         <section className="bg-white">
           <div className="container-custom py-6">
-            <Breadcrumbs items={[
-              { name: 'Home', href: '/' },
-              { name: 'Thailand eSIM', href: '/esim' }
-            ]} />
-            
-            {/* Affiliate Notice */}
-            <div className="bg-orange-50 border-0 rounded-2xl mt-4">
-              <div className="px-4 py-3">
-                <p className="text-sm text-center text-orange-800">
-                  This page contains affiliate links. We may earn a commission at no extra cost to you when you purchase through our links.
+            <Breadcrumbs
+              items={[
+                { name: 'Home', href: '/' },
+                { name: 'Thailand eSIM', href: '/esim' },
+              ]}
+            />
+            <div className="mt-4 grid grid-cols-1 lg:grid-cols-[1.6fr,1fr] gap-4">
+              <div className="rounded-2xl bg-orange-50 p-5">
+                <p className="text-sm font-semibold text-orange-900 mb-2">Affiliate disclosure</p>
+                <p className="text-sm text-orange-800">
+                  This page contains affiliate links. We may earn a commission at no extra cost to you if you buy through our links. Our comparison method is explained below and in our{' '}
+                  <Link href="/affiliate-disclosure/" className="font-semibold underline underline-offset-2">
+                    affiliate disclosure
+                  </Link>
+                  .
+                </p>
+              </div>
+              <div className="rounded-2xl bg-thailand-blue-50 p-5">
+                <p className="text-sm font-semibold text-thailand-blue-900 mb-2">Editorial review</p>
+                <p className="text-sm text-thailand-blue-900">
+                  Last reviewed: <strong>{REVIEWED_DATE}</strong>
+                </p>
+                <p className="mt-2 text-sm text-thailand-blue-800">
+                  Reviewed by <strong>Go2Thailand Editorial Team</strong>. Prices below are sample plan snapshots from official provider pages and may change.
                 </p>
               </div>
             </div>
           </div>
         </section>
 
-        {/* Quick Info Section */}
         <section className="bg-white section-padding">
           <div className="container-custom">
-            <div className="max-w-4xl mx-auto">
-              <p className="section-label text-center">Why eSIM?</p>
-              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6 text-center">
-                Why Use an eSIM in Thailand?
+            <div className="mx-auto max-w-4xl">
+              <p className="section-label text-center">Why eSIM</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4 text-center">
+                Why many Thailand travelers prefer eSIM now
               </h2>
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
-                <div className="text-center">
-                  <div className="w-16 h-16 bg-thailand-blue bg-opacity-10 rounded-xl flex items-center justify-center mx-auto mb-4">
-                    <span className="text-2xl"></span>
+              <p className="text-center text-gray-600 mb-8 max-w-3xl mx-auto">
+                eSIM is mainly about convenience: install ahead of time, keep your usual number, and land with data ready for Grab, maps, banking apps, and hotel messages. Apple also notes that an eSIM cannot be physically removed if the phone is lost or stolen.
+              </p>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                {[
+                  {
+                    title: 'Install before arrival',
+                    text: 'You can usually set up the travel eSIM while you still have stable Wi-Fi at home or at the airport.',
+                  },
+                  {
+                    title: 'Keep your main number',
+                    text: 'On supported phones, your home SIM and travel eSIM can often stay active together.',
+                  },
+                  {
+                    title: 'Avoid airport SIM friction',
+                    text: 'You skip kiosk queues, physical SIM swaps, and the risk of misplacing your home SIM card.',
+                  },
+                ].map((item) => (
+                  <div key={item.title} className="rounded-2xl bg-surface-cream p-6 shadow-md">
+                    <h3 className="font-semibold font-heading text-gray-900 mb-3">{item.title}</h3>
+                    <p className="text-sm text-gray-600 leading-6">{item.text}</p>
                   </div>
-                  <h3 className="font-semibold font-heading mb-2">Activate Before You Fly</h3>
-                  <p className="text-gray-600 text-sm">
-                    Set up your eSIM at home and land in Thailand with data ready to go
+                ))}
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section className="section-padding">
+          <div className="container-custom">
+            <div className="mx-auto max-w-4xl rounded-2xl bg-white p-8 shadow-md">
+              <p className="section-label">Methodology</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4">
+                How we compared Thailand eSIM providers
+              </h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                {methodologyPoints.map((item) => (
+                  <div key={item} className="rounded-xl bg-thailand-blue-50 p-4 text-sm text-thailand-blue-900">
+                    <span className="mr-2 text-green-600">✓</span>
+                    {item}
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section className="bg-white section-padding">
+          <div className="container-custom">
+            <div className="mx-auto max-w-4xl rounded-2xl bg-surface-cream p-8 shadow-md">
+              <p className="section-label">Context</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4">
+                When eSIM is not automatically the best choice
+              </h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
+                <div className="rounded-xl bg-white p-5">
+                  <p className="font-semibold text-gray-900 mb-2">Airport SIM can still be simpler if</p>
+                  <p className="text-gray-600">
+                    your phone is not eSIM-compatible, your device is carrier-locked, or you want in-person help the moment you land. This page compares eSIMs, but that does not make them the right answer for every traveler.
                   </p>
                 </div>
-                <div className="text-center">
-                  <div className="w-16 h-16 bg-thailand-gold bg-opacity-10 rounded-xl flex items-center justify-center mx-auto mb-4">
-                    <span className="text-2xl"></span>
-                  </div>
-                  <h3 className="font-semibold font-heading mb-2">Save on Roaming</h3>
-                  <p className="text-gray-600 text-sm">
-                    Avoid expensive roaming charges with affordable local data rates
-                  </p>
-                </div>
-                <div className="text-center">
-                  <div className="w-16 h-16 bg-thailand-red bg-opacity-10 rounded-xl flex items-center justify-center mx-auto mb-4">
-                    <span className="text-2xl"></span>
-                  </div>
-                  <h3 className="font-semibold font-heading mb-2">Keep Your Number</h3>
-                  <p className="text-gray-600 text-sm">
-                    Use data on eSIM while keeping your home number active for calls
+                <div className="rounded-xl bg-white p-5">
+                  <p className="font-semibold text-gray-900 mb-2">What we are not claiming</p>
+                  <p className="text-gray-600">
+                    We are not claiming one provider is always cheapest or fastest. We are showing current plan snapshots, tradeoffs, and setup context so you can verify the live offer that fits your trip.
                   </p>
                 </div>
               </div>
@@ -129,468 +321,286 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
           </div>
         </section>
 
-        {/* Providers Grid */}
         <section className="section-padding">
           <div className="container-custom">
             <p className="section-label text-center">Providers</p>
             <h2 className="text-3xl lg:text-4xl font-bold font-heading text-gray-900 mb-8 text-center">
-              Compare Thailand eSIM Providers
+              Compare Thailand eSIM providers
             </h2>
-            
-            {/* First batch of providers */}
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
-              {providers.slice(0, 4).map((provider) => (
-                <div key={provider.id} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all overflow-hidden">
+            <div className="grid grid-cols-1 xl:grid-cols-3 gap-8">
+              {providers.map((provider) => (
+                <div key={provider.id} className="rounded-2xl bg-white shadow-md overflow-hidden">
                   <div className="p-6">
-                    {/* Header */}
-                    <div className="flex items-start justify-between mb-6">
-                      <div>
-                        <h3 className="text-2xl font-bold font-heading text-gray-900 mb-2">
-                          {provider.name}
-                        </h3>
-                        <div className="flex items-center gap-2 mb-3">
-                          <div className="flex text-thailand-gold">
-                            {[...Array(5)].map((_, i) => (
-                              <span key={i}>{i < provider.rating ? '★' : '☆'}</span>
-                            ))}
-                          </div>
-                          <span className="text-sm text-gray-600">({provider.rating}/5)</span>
-                        </div>
-                        {provider.dealText && (
-                          <span className="inline-block bg-thailand-red text-white px-3 py-1 rounded-full text-sm font-medium">
-                            {provider.dealText}
-                          </span>
-                        )}
-                      </div>
+                    <div className="relative h-9 w-32 mb-5">
+                      <Image
+                        src={provider.logo}
+                        alt={`${provider.name} logo`}
+                        fill
+                        className="object-contain object-left"
+                      />
                     </div>
-
-                    {/* Description */}
-                    <p className="text-gray-600 mb-6">
-                      {provider.description}
-                    </p>
-
-                    {/* Features */}
-                    <div className="mb-6">
-                      <h4 className="font-semibold mb-3">Key Features:</h4>
-                      <div className="grid grid-cols-2 gap-2">
-                        {provider.features.map((feature, index) => (
-                          <div key={index} className="flex items-center text-sm text-gray-600">
-                            <span className="text-green-500 mr-2">✓</span>
-                            {feature}
-                          </div>
-                        ))}
-                      </div>
+                    <div className="inline-flex rounded-full bg-surface-cream px-3 py-1 text-sm font-medium text-gray-700 mb-4">
+                      {provider.badge}
                     </div>
+                    <h3 className="text-2xl font-bold font-heading text-gray-900 mb-3">{provider.name}</h3>
+                    <p className="text-sm font-semibold text-thailand-blue mb-2">{provider.bestFor}</p>
+                    <p className="text-gray-600 mb-5">{provider.description}</p>
 
-                    {/* Plans */}
-                    <div className="mb-6">
-                      <h4 className="font-semibold mb-3">Popular Plans:</h4>
+                    <div className="rounded-xl bg-surface-cream p-4 mb-5">
+                      <h4 className="font-semibold text-gray-900 mb-3">Sample plans checked {REVIEWED_DATE}</h4>
                       <div className="space-y-2">
-                        {provider.plans.slice(0, 3).map((plan, index) => (
-                          <div key={index} className="flex items-center justify-between bg-surface-cream p-3 rounded-xl">
-                            <div className="flex items-center gap-3">
-                              <span className="text-sm font-medium">{plan.duration}</span>
-                              <span className="text-sm text-gray-600">{plan.data}</span>
-                            </div>
-                            <span className="font-bold text-thailand-blue">{plan.price}</span>
+                        {provider.plans.map((plan) => (
+                          <div key={`${provider.slug}-${plan.label}`} className="flex items-center justify-between text-sm">
+                            <span className="text-gray-700">{plan.label}</span>
+                            <span className="font-semibold text-thailand-blue">{plan.price}</span>
                           </div>
                         ))}
                       </div>
+                      <p className="mt-3 text-xs text-gray-500">{provider.planNote}</p>
                     </div>
 
-                    {/* Pros & Cons */}
-                    <div className="grid grid-cols-2 gap-4 mb-6">
+                    <div className="grid grid-cols-1 gap-4 mb-6">
                       <div>
-                        <h4 className="font-semibold text-green-600 mb-2">Pros:</h4>
-                        <ul className="text-sm space-y-1">
-                          {provider.pros.map((pro, index) => (
-                            <li key={index} className="flex items-start">
-                              <span className="text-green-500 mr-2">+</span>
-                              <span className="text-gray-600">{pro}</span>
+                        <h4 className="font-semibold text-green-700 mb-2">What stands out</h4>
+                        <ul className="space-y-2 text-sm text-gray-600">
+                          {provider.highlights.map((item) => (
+                            <li key={item} className="flex items-start">
+                              <span className="mr-2 text-green-600">✓</span>
+                              <span>{item}</span>
                             </li>
                           ))}
                         </ul>
                       </div>
                       <div>
-                        <h4 className="font-semibold text-red-600 mb-2">Cons:</h4>
-                        <ul className="text-sm space-y-1">
-                          {provider.cons.map((con, index) => (
-                            <li key={index} className="flex items-start">
-                              <span className="text-red-500 mr-2">-</span>
-                              <span className="text-gray-600">{con}</span>
+                        <h4 className="font-semibold text-orange-700 mb-2">What to watch</h4>
+                        <ul className="space-y-2 text-sm text-gray-600">
+                          {provider.tradeoffs.map((item) => (
+                            <li key={item} className="flex items-start">
+                              <span className="mr-2 text-orange-700">•</span>
+                              <span>{item}</span>
                             </li>
                           ))}
                         </ul>
                       </div>
                     </div>
 
-                    {/* CTA Buttons */}
-                    <div className="flex gap-3">
-                      <a
-                        href={provider.affiliateLink}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="flex-1 bg-thailand-blue text-white text-center py-3 rounded-xl font-semibold hover:bg-thailand-blue-dark transition-colors"
-                      >
-                        Get {provider.name} eSIM →
-                      </a>
-                      {provider.mobileAppLink && (
-                        <a
-                          href={provider.mobileAppLink}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="px-4 py-3 bg-gray-800 text-white rounded-xl font-semibold hover:bg-gray-700 transition-colors flex items-center gap-2"
-                          title="Download Mobile App"
-                        >
-                          App
-                        </a>
-                      )}
-                    </div>
+                    <a
+                      href={provider.affiliateLink}
+                      target="_blank"
+                      rel={AFFILIATE_REL}
+                      className="block w-full rounded-xl bg-thailand-blue px-5 py-3 text-center font-semibold text-white transition-colors hover:bg-thailand-blue-dark"
+                    >
+                      {provider.ctaLabel} →
+                    </a>
 
-                    {/* QR Code for mobile scanning */}
-                    {provider.qrCodeImage && (
-                      <div className="mt-4 pt-4 border-t border-gray-200">
-                        <div className="flex items-center justify-between">
-                          <div className="text-sm text-gray-600">
-                            <p className="font-semibold mb-1">Scan with your phone</p>
-                            <p className="text-xs">Quick access to {provider.name}</p>
-                          </div>
-                          <div className="relative w-32 h-32 bg-white rounded-xl overflow-hidden shadow-md border-0">
-                            <Image
-                              src={provider.qrCodeImage}
-                              alt={`${provider.name} QR Code`}
-                              width={128}
-                              height={128}
-                              className="object-contain p-2"
-                            />
-                          </div>
-                        </div>
+                    <div className="mt-5 border-t border-gray-200 pt-4">
+                      <p className="text-sm font-semibold text-gray-900 mb-3">Official sources checked during review</p>
+                      <div className="flex flex-wrap gap-3">
+                        {provider.sourceLinks.map((source) => (
+                          <span
+                            key={source.href}
+                            className="rounded-full bg-surface-cream px-3 py-1 text-sm text-gray-700"
+                          >
+                            {source.label}
+                          </span>
+                        ))}
                       </div>
-                    )}
+                    </div>
                   </div>
                 </div>
               ))}
             </div>
-
-
-            {/* Remaining providers */}
-            {providers.length > 4 && (
-              <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-                {providers.slice(4).map((provider) => (
-                  <div key={provider.id} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all overflow-hidden">
-                    <div className="p-6">
-                      {/* Header */}
-                      <div className="flex items-start justify-between mb-6">
-                        <div>
-                          <h3 className="text-2xl font-bold font-heading text-gray-900 mb-2">
-                            {provider.name}
-                          </h3>
-                          <div className="flex items-center gap-2 mb-3">
-                            <div className="flex text-thailand-gold">
-                              {[...Array(5)].map((_, i) => (
-                                <span key={i}>{i < provider.rating ? '★' : '☆'}</span>
-                              ))}
-                            </div>
-                            <span className="text-sm text-gray-600">({provider.rating}/5)</span>
-                          </div>
-                          {provider.dealText && (
-                            <span className="inline-block bg-thailand-red text-white px-3 py-1 rounded-full text-sm font-medium">
-                              {provider.dealText}
-                            </span>
-                          )}
-                        </div>
-                      </div>
-
-                      {/* Description */}
-                      <p className="text-gray-600 mb-6">
-                        {provider.description}
-                      </p>
-
-                      {/* Features */}
-                      <div className="mb-6">
-                        <h4 className="font-semibold mb-3">Key Features:</h4>
-                        <div className="grid grid-cols-2 gap-2">
-                          {provider.features.map((feature, index) => (
-                            <div key={index} className="flex items-center text-sm text-gray-600">
-                              <span className="text-green-500 mr-2">✓</span>
-                              {feature}
-                            </div>
-                          ))}
-                        </div>
-                      </div>
-
-                      {/* Plans */}
-                      <div className="mb-6">
-                        <h4 className="font-semibold mb-3">Popular Plans:</h4>
-                        <div className="space-y-2">
-                          {provider.plans.slice(0, 3).map((plan, index) => (
-                            <div key={index} className="flex items-center justify-between bg-surface-cream p-3 rounded-xl">
-                              <div className="flex items-center gap-3">
-                                <span className="text-sm font-medium">{plan.duration}</span>
-                                <span className="text-sm text-gray-600">{plan.data}</span>
-                              </div>
-                              <span className="font-bold text-thailand-blue">{plan.price}</span>
-                            </div>
-                          ))}
-                        </div>
-                      </div>
-
-                      {/* Pros & Cons */}
-                      <div className="grid grid-cols-2 gap-4 mb-6">
-                        <div>
-                          <h4 className="font-semibold text-green-600 mb-2">Pros:</h4>
-                          <ul className="text-sm space-y-1">
-                            {provider.pros.map((pro, index) => (
-                              <li key={index} className="flex items-start">
-                                <span className="text-green-500 mr-2">+</span>
-                                <span className="text-gray-600">{pro}</span>
-                              </li>
-                            ))}
-                          </ul>
-                        </div>
-                        <div>
-                          <h4 className="font-semibold text-red-600 mb-2">Cons:</h4>
-                          <ul className="text-sm space-y-1">
-                            {provider.cons.map((con, index) => (
-                              <li key={index} className="flex items-start">
-                                <span className="text-red-500 mr-2">-</span>
-                                <span className="text-gray-600">{con}</span>
-                              </li>
-                            ))}
-                          </ul>
-                        </div>
-                      </div>
-
-                      {/* CTA Button */}
-                      <a
-                        href={provider.affiliateLink}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="block w-full bg-thailand-blue text-white text-center py-3 rounded-xl font-semibold hover:bg-thailand-blue-dark transition-colors"
-                      >
-                        Get {provider.name} eSIM →
-                      </a>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            )}
           </div>
         </section>
 
-        {/* Quick Comparison Table */}
-        <section className="bg-surface-cream section-padding">
+        <section className="bg-white section-padding">
           <div className="container-custom">
-            <div className="max-w-5xl mx-auto">
+            <div className="mx-auto max-w-6xl">
               <p className="section-label text-center">Comparison</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                Quick Comparison: Airalo vs Yesim vs Saily
+                Quick comparison: Airalo vs Yesim vs Saily
               </h2>
-              <div className="bg-white rounded-2xl shadow-md overflow-hidden">
+              <div className="overflow-hidden rounded-2xl bg-white shadow-md">
                 <div className="overflow-x-auto">
                   <table className="w-full">
                     <thead className="bg-thailand-blue text-white">
                       <tr>
                         <th className="px-6 py-4 text-left">Feature</th>
-                        <th className="px-6 py-4 text-center">Airalo</th>
-                        <th className="px-6 py-4 text-center">Yesim</th>
-                        <th className="px-6 py-4 text-center">Saily</th>
+                        <th className="px-6 py-4 text-left">Airalo</th>
+                        <th className="px-6 py-4 text-left">Yesim</th>
+                        <th className="px-6 py-4 text-left">Saily</th>
                       </tr>
                     </thead>
-                    <tbody className="divide-y divide-gray-200">
-                      <tr>
-                        <td className="px-6 py-4 font-medium">Best For</td>
-                        <td className="px-6 py-4 text-center">Short trips (1-2GB)</td>
-                        <td className="px-6 py-4 text-center">Heavy users (5GB+)</td>
-                        <td className="px-6 py-4 text-center">Security-minded travelers</td>
-                      </tr>
-                      <tr className="bg-gray-50">
-                        <td className="px-6 py-4 font-medium">Starting Price</td>
-                        <td className="px-6 py-4 text-center">$5 for 1GB/7 days</td>
-                        <td className="px-6 py-4 text-center">$25 for Unlimited/7 days</td>
-                        <td className="px-6 py-4 text-center">$4 for 1GB/7 days</td>
-                      </tr>
-                      <tr>
-                        <td className="px-6 py-4 font-medium">Networks</td>
-                        <td className="px-6 py-4 text-center">AIS, TrueMove, dtac</td>
-                        <td className="px-6 py-4 text-center">AIS, dtac</td>
-                        <td className="px-6 py-4 text-center">AIS, TrueMove</td>
-                      </tr>
-                      <tr className="bg-gray-50">
-                        <td className="px-6 py-4 font-medium">Unlimited Plans</td>
-                        <td className="px-6 py-4 text-center">No</td>
-                        <td className="px-6 py-4 text-center">Yes</td>
-                        <td className="px-6 py-4 text-center">No</td>
-                      </tr>
-                      <tr>
-                        <td className="px-6 py-4 font-medium">Security Brand</td>
-                        <td className="px-6 py-4 text-center">No</td>
-                        <td className="px-6 py-4 text-center">Yes (Free VPN iOS)</td>
-                        <td className="px-6 py-4 text-center">By NordVPN</td>
-                      </tr>
-                      <tr className="bg-gray-50">
-                        <td className="px-6 py-4 font-medium">Customer Rating</td>
-                        <td className="px-6 py-4 text-center">4.5/5</td>
-                        <td className="px-6 py-4 text-center">4.3/5</td>
-                        <td className="px-6 py-4 text-center">4.4/5</td>
-                      </tr>
-                      <tr>
-                        <td className="px-6 py-4 font-medium">Support Speed</td>
-                        <td className="px-6 py-4 text-center">~22 minutes</td>
-                        <td className="px-6 py-4 text-center">~2 minutes</td>
-                        <td className="px-6 py-4 text-center">24/7 support</td>
-                      </tr>
+                    <tbody className="divide-y divide-gray-200 text-sm">
+                      {comparisonRows.map((row, index) => (
+                        <tr key={row.feature} className={index % 2 === 1 ? 'bg-gray-50' : ''}>
+                          <td className="px-6 py-4 font-semibold text-gray-900">{row.feature}</td>
+                          <td className="px-6 py-4 text-gray-600 align-top">{row.airalo}</td>
+                          <td className="px-6 py-4 text-gray-600 align-top">{row.yesim}</td>
+                          <td className="px-6 py-4 text-gray-600 align-top">{row.saily}</td>
+                        </tr>
+                      ))}
                     </tbody>
                   </table>
                 </div>
-                <div className="p-6 bg-thailand-blue-50">
-                  <h3 className="font-semibold font-heading text-thailand-blue-900 mb-3">Our Recommendation:</h3>
-                  <div className="space-y-2 text-sm">
-                    <p className="flex items-start">
-                      <span className="text-green-600 mr-2">✓</span>
-                      <span><strong>Choose Airalo</strong> if you need just 1-2GB for a short trip or want the most network options.</span>
-                    </p>
-                    <p className="flex items-start">
-                      <span className="text-green-600 mr-2">✓</span>
-                      <span><strong>Choose Yesim</strong> if you want unlimited data, need 5GB+, or value the free VPN for security.</span>
-                    </p>
-                    <p className="flex items-start">
-                      <span className="text-green-600 mr-2">✓</span>
-                      <span><strong>Choose Saily</strong> if you value cybersecurity expertise (made by NordVPN) and want competitive pricing.</span>
-                    </p>
-                  </div>
+                <div className="bg-thailand-blue-50 p-6">
+                  <p className="font-semibold text-thailand-blue-900 mb-2">Important note on prices</p>
+                  <p className="text-sm text-thailand-blue-900">
+                    Official provider sites use different currencies, flash promotions, and package mixes. Treat these as sample plan snapshots checked on {REVIEWED_DATE}, then verify the live plan before purchase.
+                  </p>
                 </div>
               </div>
             </div>
           </div>
         </section>
 
-        {/* How to Install Guide */}
         <section className="bg-white section-padding">
           <div className="container-custom">
-            <div className="max-w-4xl mx-auto">
+            <div className="mx-auto max-w-4xl">
               <p className="section-label text-center">Installation</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                How to Install Your Thailand eSIM
+                How to install your Thailand eSIM
               </h2>
               <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
-                <div className="text-center">
-                  <div className="w-16 h-16 bg-thailand-blue text-white rounded-xl flex items-center justify-center mx-auto mb-4 font-bold text-xl">
-                    1
+                {[
+                  {
+                    step: '1',
+                    title: 'Check compatibility',
+                    text: 'Make sure your phone supports eSIM and is carrier-unlocked before buying.',
+                  },
+                  {
+                    step: '2',
+                    title: 'Buy with Wi-Fi available',
+                    text: 'Purchase and install while you still have stable internet, ideally before departure.',
+                  },
+                  {
+                    step: '3',
+                    title: 'Follow provider setup',
+                    text: 'Use the provider app, QR code, or manual setup steps exactly as documented.',
+                  },
+                  {
+                    step: '4',
+                    title: 'Enable the line in Thailand',
+                    text: 'Turn on the eSIM and data roaming for that line when you arrive and want to connect.',
+                  },
+                ].map((item) => (
+                  <div key={item.step} className="text-center rounded-2xl bg-surface-cream p-6 shadow-md">
+                    <div className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-xl bg-thailand-blue text-xl font-bold text-white">
+                      {item.step}
+                    </div>
+                    <h3 className="font-semibold font-heading text-gray-900 mb-2">{item.title}</h3>
+                    <p className="text-sm text-gray-600">{item.text}</p>
                   </div>
-                  <h3 className="font-semibold font-heading mb-2">Check Compatibility</h3>
-                  <p className="text-gray-600 text-sm">
-                    Ensure your phone supports eSIM (iPhone XS+, most new Android phones)
-                  </p>
-                </div>
-                <div className="text-center">
-                  <div className="w-16 h-16 bg-thailand-blue text-white rounded-xl flex items-center justify-center mx-auto mb-4 font-bold text-xl">
-                    2
-                  </div>
-                  <h3 className="font-semibold font-heading mb-2">Purchase Plan</h3>
-                  <p className="text-gray-600 text-sm">
-                    Choose your data plan and complete purchase online
-                  </p>
-                </div>
-                <div className="text-center">
-                  <div className="w-16 h-16 bg-thailand-blue text-white rounded-xl flex items-center justify-center mx-auto mb-4 font-bold text-xl">
-                    3
-                  </div>
-                  <h3 className="font-semibold font-heading mb-2">Scan QR Code</h3>
-                  <p className="text-gray-600 text-sm">
-                    Scan the QR code from your email to install the eSIM
-                  </p>
-                </div>
-                <div className="text-center">
-                  <div className="w-16 h-16 bg-thailand-blue text-white rounded-xl flex items-center justify-center mx-auto mb-4 font-bold text-xl">
-                    4
-                  </div>
-                  <h3 className="font-semibold font-heading mb-2">Activate in Thailand</h3>
-                  <p className="text-gray-600 text-sm">
-                    Turn on data roaming when you arrive and you're connected!
-                  </p>
-                </div>
+                ))}
               </div>
             </div>
           </div>
         </section>
 
-        {/* FAQ Section */}
         <section className="section-padding">
           <div className="container-custom">
-            <div className="max-w-3xl mx-auto">
+            <div className="mx-auto max-w-3xl">
               <p className="section-label text-center">FAQ</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                Frequently Asked Questions
+                Frequently asked questions
               </h2>
               <div className="space-y-6">
-                <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="font-semibold font-heading text-lg mb-2">Do I need to remove my physical SIM?</h3>
-                  <p className="text-gray-600">
-                    No! eSIM works alongside your physical SIM. You can use your eSIM for data in Thailand while keeping your home number active for calls and texts.
-                  </p>
-                </div>
-                <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="font-semibold font-heading text-lg mb-2">When should I install my eSIM?</h3>
-                  <p className="text-gray-600">
-                    Install your eSIM before you travel (at home with WiFi). You can install it days or even weeks before your trip, then activate it when you land in Thailand.
-                  </p>
-                </div>
-                <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="font-semibold font-heading text-lg mb-2">Can I top up my data if I run out?</h3>
-                  <p className="text-gray-600">
-                    Yes! Most providers allow you to top up your data through their app or website. Some eSIMs automatically renew, while others require manual top-up.
-                  </p>
-                </div>
-                <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="font-semibold font-heading text-lg mb-2">Which Thai networks do eSIMs use?</h3>
-                  <p className="text-gray-600">
-                    Most eSIMs connect to major Thai networks like AIS, TrueMove, or dtac. You'll get the same coverage and speeds as local SIM cards.
-                  </p>
-                </div>
+                {faqData.map((item) => (
+                  <div key={item.question} className="rounded-2xl bg-white p-6 shadow-md">
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">{item.question}</h3>
+                    <p className="text-gray-600">{item.answer}</p>
+                  </div>
+                ))}
               </div>
             </div>
           </div>
         </section>
 
-        {/* CTA Section */}
-        <section className="bg-surface-dark text-white section-padding">
-          <div className="container-custom text-center">
-            <p className="font-script text-thailand-gold mb-2">Explore More</p>
-            <h2 className="text-3xl lg:text-4xl font-bold font-heading mb-6">
-              Ready to Explore Thailand?
+        <section className="bg-white section-padding">
+          <div className="container-custom">
+            <div className="mx-auto max-w-4xl rounded-2xl bg-white p-8 shadow-md">
+              <p className="section-label">Sources</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4">
+                Sources, methodology, and transparency
+              </h2>
+              <p className="text-gray-600 mb-6">
+                This page was reviewed on <strong>{REVIEWED_DATE}</strong>. We used official provider pages, help centers, and Apple&apos;s own eSIM travel documentation for the general setup advice. We also disclose the affiliate relationship clearly because these links are commercial.
+              </p>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+                <div className="rounded-2xl bg-thailand-blue-50 p-5">
+                  <p className="font-semibold text-thailand-blue-900 mb-2">Editorial review</p>
+                  <p className="text-sm text-thailand-blue-900 mb-3">
+                    Reviewed by <strong>Go2Thailand Editorial Team</strong> on <strong>{REVIEWED_DATE}</strong>.
+                  </p>
+                  <p className="font-semibold text-thailand-blue-900 mb-2">Editorial standards</p>
+                  <p className="text-sm text-thailand-blue-900">
+                    We avoided invented ratings, unverified support-speed claims, and outdated price points. Where data changes often, we framed it as a checked snapshot rather than a fixed promise.
+                  </p>
+                </div>
+                <div className="rounded-2xl bg-orange-50 p-5">
+                  <p className="font-semibold text-orange-900 mb-2">Policy links</p>
+                  <div className="space-y-2 text-sm">
+                    <Link href="/editorial-policy/" className="block text-orange-900 underline underline-offset-2">
+                      Editorial Policy
+                    </Link>
+                    <Link href="/affiliate-disclosure/" className="block text-orange-900 underline underline-offset-2">
+                      Affiliate Disclosure
+                    </Link>
+                  </div>
+                </div>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+                {globalSources.map((source) => (
+                  <div
+                    key={source.href}
+                    className="rounded-xl border border-gray-200 px-4 py-3 text-sm text-gray-700"
+                  >
+                    {source.label}
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section className="section-padding">
+          <div className="container-custom">
+            <p className="section-label text-center">Related Guides</p>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
+              Related Thailand prep guides
             </h2>
-            <p className="text-xl mb-8 max-w-2xl mx-auto opacity-90">
-              Stay connected while discovering amazing destinations across the Kingdom
-            </p>
-            <div className="flex flex-wrap justify-center gap-4">
-              <Link href="/city/" className="bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-red-700 transition-colors">
-                Explore Cities
-              </Link>
-              <Link href="/islands/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
-                Thai Islands
-              </Link>
-              <Link href="/travel-insurance-thailand/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
-                Travel Insurance
-              </Link>
-              <Link href="/food/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
-                Thai Food Guide
-              </Link>
-              <Link href="/visa/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
-                Visa Guide
-              </Link>
-              <Link href="/weather/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
-                Weather Guide
-              </Link>
-              <Link href="/thailand-travel-guide/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
-                Thailand Travel Guide
-              </Link>
-              <Link href="/compare/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
-                Compare Destinations
-              </Link>
-              <Link href="/thailand-for-first-timers/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
-                First Timer's Guide
-              </Link>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+              {[
+                {
+                  href: '/travel-security/',
+                  title: 'Travel security guide',
+                  text: 'VPNs, password managers, and practical digital-safety habits for Thailand.',
+                },
+                {
+                  href: '/travel-insurance-thailand/',
+                  title: 'Travel insurance guide',
+                  text: 'Medical and cancellation cover explained in a separate guide.',
+                },
+                {
+                  href: '/thailand-for-first-timers/',
+                  title: 'First-timer guide',
+                  text: 'Plan transport, money, timing, and expectations before you land.',
+                },
+                {
+                  href: '/city/',
+                  title: 'Explore destinations',
+                  text: 'Choose Bangkok, Chiang Mai, islands, beach towns, and more.',
+                },
+              ].map((item) => (
+                <Link
+                  key={item.href}
+                  href={item.href}
+                  className="rounded-2xl bg-white p-6 shadow-md transition-all hover:-translate-y-1 hover:shadow-lg"
+                >
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">{item.title}</h3>
+                  <p className="text-sm text-gray-600">{item.text}</p>
+                </Link>
+              ))}
             </div>
           </div>
         </section>
@@ -600,209 +610,111 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-  // TODO: Replace with actual data from a data file or API
   const providers: ESIMProvider[] = [
     {
       id: 1,
-      name: "Airalo",
-      slug: "airalo",
-      logo: "/images/esim/airalo-logo.png",
-      description: "The world's first eSIM store with coverage in 190+ countries. Airalo offers reliable connectivity with competitive prices for Thailand.",
-      features: [
-        "Instant activation",
-        "24/7 customer support",
-        "Top-up available",
-        "Multiple plan options"
+      name: 'Airalo',
+      slug: 'airalo',
+      logo: '/images/esim/airalo-logo.png',
+      badge: 'Best for light-to-medium trips',
+      bestFor: 'Good fit if you want a familiar eSIM marketplace and several Thailand package sizes.',
+      description:
+        'Airalo is one of the most established travel-eSIM marketplaces. For Thailand, it offers several smaller fixed-data packages and clear help-center documentation, which makes it a safe default for many travelers.',
+      highlights: [
+        'Multiple Thailand package sizes on the official store.',
+        'Clear installation and troubleshooting documentation.',
+        'Top-ups are supported when the eSIM is rechargeable.',
+      ],
+      tradeoffs: [
+        'Not always the cheapest option once you move into bigger data needs.',
+        'You still need to check whether the exact eSIM you choose supports top-up.',
       ],
       plans: [
-        { duration: "7 days", data: "1GB", price: "$5", priceUSD: 5 },
-        { duration: "15 days", data: "3GB", price: "$13", priceUSD: 13 },
-        { duration: "30 days", data: "5GB", price: "$20", priceUSD: 20 }
+        { label: '3 days / 1 GB', price: '4.00 EUR' },
+        { label: '7 days / 3 GB', price: '5.50 EUR' },
+        { label: '30 days / 5 GB', price: '7.50 EUR' },
       ],
-      coverage: ["AIS", "TrueMove", "dtac"],
-      pros: [
-        "Easy to use app",
-        "Instant delivery",
-        "Good customer support",
-        "Referral program"
+      planNote:
+        'Sample plans pulled from official Airalo Thailand listings checked on March 25, 2026.',
+      ctaLabel: 'Check current Airalo plans',
+      affiliateLink: 'https://airalo.tp.st/r8TriO5V',
+      sourceLinks: [
+        { label: 'Airalo Thailand eSIM listing', href: 'https://www.airalo.com/thailand-esim/maew-in-7days-1gb' },
+        { label: 'Airalo Help Center', href: 'https://www.airalo.com/help' },
+        { label: 'Airalo top-up help', href: 'https://www.airalo.com/help/using-managing-esims/ZSEEHBT5HW6F/how-can-i-top-up-an-esim/2DMCF3341SYF' },
       ],
-      cons: [
-        "No unlimited plans",
-        "Can be pricey for long stays"
-      ],
-      affiliateLink: "https://airalo.tp.st/r8TriO5V",
-      mobileAppLink: "https://airalo.tp.st/vG2gKDGp",
-      qrCodeImage: "/affiliate-qrcodes/airalo/tp-airalo-qr-code.jpeg",
-      rating: 4.5,
-      dealText: "Get $3 off with code THAILAND"
     },
     {
       id: 2,
-      name: "Yesim",
-      slug: "yesim",
-      logo: "/images/esim/yesim-logo.png",
-      description: "Leading eSIM provider with 200+ destinations, offering flexible data plans and unlimited options for Thailand. Includes free VPN for iOS users.",
-      features: [
-        "Free VPN included",
-        "Unlimited data plans",
-        "5G/4G coverage",
-        "Pay As You Go option"
+      name: 'Yesim',
+      slug: 'yesim',
+      logo: '/images/esim/yesim-logo.png',
+      badge: 'Best for unlimited options',
+      bestFor: 'Worth a look if you want unlimited-plan choices or more app-led flexibility.',
+      description:
+        'Yesim positions itself around plan flexibility: small entry plans, larger fixed-data plans, unlimited options, and Pay & Fly. That makes it more interesting for travelers whose data needs are harder to predict.',
+      highlights: [
+        'Unlimited and fixed-data plans both exist on the official Thailand page.',
+        'Help-center documentation covers setup and offline activation guidance.',
+        'Official site also advertises 24/7 support and Pay & Fly.',
+      ],
+      tradeoffs: [
+        'The plan menu is broader, which can feel less simple than a basic fixed-data eSIM.',
+        'You should compare the exact unlimited plan terms before assuming it is the best value.',
       ],
       plans: [
-        { duration: "7 days", data: "Unlimited", price: "$25", priceUSD: 25 },
-        { duration: "15 days", data: "Unlimited", price: "$44", priceUSD: 44 },
-        { duration: "30 days", data: "20GB", price: "$34", priceUSD: 34 }
+        { label: '1 day / 500 MB', price: '0.45 EUR' },
+        { label: '7 days / Unlimited', price: '18 EUR' },
+        { label: '30 days / 20 GB', price: '17 EUR' },
       ],
-      coverage: ["AIS", "dtac"],
-      pros: [
-        "Free VPN for security",
-        "Unlimited data options",
-        "Better value for 5GB+",
-        "Fast customer support"
+      planNote:
+        'Sample plans pulled from the official Yesim Thailand page checked on March 25, 2026.',
+      ctaLabel: 'Check current Yesim plans',
+      affiliateLink: 'https://yesim.tp.st/i9QU4Xm6',
+      sourceLinks: [
+        { label: 'Yesim Thailand eSIM plans', href: 'https://yesim.app/country/thailand/' },
+        { label: 'Yesim setup help', href: 'https://help.yesim.tech/yesim-esim-setup/' },
+        { label: 'Yesim contacts / support', href: 'https://yesim.app/contacts/' },
       ],
-      cons: [
-        "No small data plans",
-        "Minimum 5GB packages"
-      ],
-      affiliateLink: "https://yesim.tp.st/i9QU4Xm6",
-      mobileAppLink: "https://yesim.tp.st/YXSla7MO",
-      qrCodeImage: "/affiliate-qrcodes/airalo/tp-yesim-qr-code.jpeg",
-      rating: 4.3,
-      dealText: "Best for unlimited data"
     },
     {
       id: 3,
-      name: "Saily",
-      slug: "saily",
-      logo: "/images/partners/saily.svg",
-      description: "Built by the makers of NordVPN, Saily offers reliable eSIM connectivity in 150+ countries. Affordable plans with easy app-based setup and trusted cybersecurity expertise.",
-      features: [
-        "Built by NordVPN team",
-        "150+ countries covered",
-        "Easy app-based setup",
-        "Trusted security brand"
+      name: 'Saily',
+      slug: 'saily',
+      logo: '/images/partners/saily.svg',
+      badge: 'Best for simple data-only setup',
+      bestFor: 'Useful if you want straightforward data-only travel eSIM plans plus built-in privacy features.',
+      description:
+        'Saily is a travel eSIM product from Nord Security, the company behind NordVPN. We keep it in the comparison because the official Thailand page is straightforward and the app includes extra privacy features, but we do not treat the Nord connection as the main reason to choose it.',
+      highlights: [
+        'Simple Thailand plan ladder from 1 GB to unlimited.',
+        'Top-ups and auto top-up are documented on the official page.',
+        'Official page highlights built-in privacy features and data-only simplicity.',
+      ],
+      tradeoffs: [
+        'Data-only is great for many travelers, but some people may prefer providers with broader plan variations.',
+        'You should compare it against Airalo or Yesim if your trip is long or your data needs are unusual.',
       ],
       plans: [
-        { duration: "7 days", data: "1GB", price: "$4", priceUSD: 4 },
-        { duration: "15 days", data: "3GB", price: "$10", priceUSD: 10 },
-        { duration: "30 days", data: "5GB", price: "$16", priceUSD: 16 }
+        { label: '7 days / 1 GB', price: 'US$2.99' },
+        { label: '30 days / 3 GB', price: 'US$5.99' },
+        { label: '30 days / 5 GB', price: 'US$7.99' },
       ],
-      coverage: ["AIS", "TrueMove"],
-      pros: [
-        "Backed by NordVPN security",
-        "Competitive pricing",
-        "Reliable connections",
-        "User-friendly app"
+      planNote:
+        'Sample plans pulled from the official Saily Thailand page checked on March 25, 2026.',
+      ctaLabel: 'Check current Saily plans',
+      affiliateLink: 'https://saily.tpo.lv/rf9lidnE',
+      sourceLinks: [
+        { label: 'Saily Thailand eSIM page', href: 'https://saily.com/esim-thailand/' },
+        { label: 'Saily app setup steps', href: 'https://saily.com/esim-thailand/' },
+        { label: 'Apple travel eSIM support', href: 'https://support.apple.com/en-us/118227' },
       ],
-      cons: [
-        "Newer provider",
-        "Fewer plan options than competitors"
-      ],
-      affiliateLink: "https://saily.tpo.lv/rf9lidnE",
-      rating: 4.4,
-      dealText: "By the makers of NordVPN"
     },
-    /* Temporarily disabled - waiting for affiliate approval
-    {
-      id: 2,
-      name: "Holafly",
-      slug: "holafly",
-      logo: "/images/esim/holafly-logo.png",
-      description: "Unlimited data eSIMs for worry-free travel. Perfect for heavy data users and long stays in Thailand.",
-      features: [
-        "Unlimited data",
-        "Keep your WhatsApp",
-        "Easy installation",
-        "No data limits"
-      ],
-      plans: [
-        { duration: "5 days", data: "Unlimited", price: "$19", priceUSD: 19 },
-        { duration: "10 days", data: "Unlimited", price: "$34", priceUSD: 34 },
-        { duration: "30 days", data: "Unlimited", price: "$64", priceUSD: 64 }
-      ],
-      coverage: ["dtac"],
-      pros: [
-        "Truly unlimited data",
-        "Great for streaming",
-        "Simple pricing",
-        "Good speeds"
-      ],
-      cons: [
-        "More expensive",
-        "Limited network choice"
-      ],
-      affiliateLink: "https://affiliate-link-holafly.com",
-      rating: 4.3
-    },
-    {
-      id: 3,
-      name: "Nomad",
-      slug: "nomad",
-      logo: "/images/esim/nomad-logo.png",
-      description: "Affordable eSIM plans with good coverage across Thailand. Great value for budget travelers.",
-      features: [
-        "Competitive prices",
-        "Multiple networks",
-        "Easy app",
-        "Data tracking"
-      ],
-      plans: [
-        { duration: "7 days", data: "1GB", price: "$4.50", priceUSD: 4.5 },
-        { duration: "14 days", data: "3GB", price: "$11", priceUSD: 11 },
-        { duration: "30 days", data: "5GB", price: "$16", priceUSD: 16 }
-      ],
-      coverage: ["TrueMove", "AIS"],
-      pros: [
-        "Very affordable",
-        "Good network selection",
-        "Fast activation",
-        "Regular promotions"
-      ],
-      cons: [
-        "Limited customer support hours",
-        "App can be buggy"
-      ],
-      affiliateLink: "https://affiliate-link-nomad.com",
-      rating: 4.2,
-      dealText: "20% off first purchase"
-    },
-    {
-      id: 4,
-      name: "SimOptions",
-      slug: "simoptions",
-      logo: "/images/esim/simoptions-logo.png",
-      description: "Wide range of eSIM plans for Thailand with flexible data options and durations.",
-      features: [
-        "Many plan choices",
-        "Good coverage",
-        "24/7 support",
-        "Auto-renewal option"
-      ],
-      plans: [
-        { duration: "8 days", data: "2GB", price: "$8", priceUSD: 8 },
-        { duration: "15 days", data: "5GB", price: "$18", priceUSD: 18 },
-        { duration: "30 days", data: "10GB", price: "$32", priceUSD: 32 }
-      ],
-      coverage: ["AIS", "TrueMove"],
-      pros: [
-        "Flexible plans",
-        "Good for families",
-        "Reliable service",
-        "Easy setup"
-      ],
-      cons: [
-        "Website can be confusing",
-        "Prices vary by season"
-      ],
-      affiliateLink: "https://affiliate-link-simoptions.com",
-      rating: 4.0
-    }
-    */ // End of temporarily disabled providers
   ];
 
   return {
     props: {
-      providers
-    }
+      providers,
+    },
   };
 };

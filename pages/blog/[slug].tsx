@@ -10,6 +10,7 @@ import AuthorBio from '../../components/blog/AuthorBio';
 import Sources from '../../components/blog/Sources';
 import LastUpdated from '../../components/blog/LastUpdated';
 import RelatedPosts from '../../components/blog/RelatedPosts';
+import TravelSecurityAffiliateBlock from '../../components/blog/TravelSecurityAffiliateBlock';
 import ShareButtons from '../../components/ShareButtons';
 import InlineAd from '../../components/ads/InlineAd';
 import { getAllPosts, getPostBySlug, getRelatedPosts } from '../../lib/blog';
@@ -340,6 +341,8 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                     </div>
                   </div>
                 )}
+
+                <TravelSecurityAffiliateBlock />
 
                 {/* Explore */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
