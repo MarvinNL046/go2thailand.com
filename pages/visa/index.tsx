@@ -3,6 +3,7 @@ import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
 import { getAllVisas } from '../../lib/visas';
 
 interface Visa {
@@ -262,53 +263,18 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
           </div>
         </section>
 
-        {/* Affiliate Banner */}
-        <section className="bg-surface-dark">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-            <div className="flex flex-col md:flex-row items-center justify-between gap-6">
-              <div className="text-white">
-                <h2 className="text-2xl font-bold font-heading mb-1">
-                  {lang === 'nl' ? 'Plan Je Thailand Reis' : 'Plan Your Thailand Trip'}
-                </h2>
-                <p className="opacity-90 text-sm">
-                  {lang === 'nl' ? 'Boek hotels, transport en meer' : 'Book hotels, transport and more'}
-                </p>
-              </div>
-              <div className="flex flex-wrap justify-center gap-3">
-                <a
-                  href="https://booking.tpo.lv/2PT1kR82"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                >
-                  Booking.com
-                </a>
-                <a
-                  href="https://trip.tpo.lv/TmObooZ5"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                >
-                  Trip.com
-                </a>
-                <Link href="/travel-insurance-thailand/" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">
-                  Travel Insurance
-                </Link>
-                <a
-                  href="https://saily.tpo.lv/rf9lidnE"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                >
-                  eSIM
-                </a>
-              </div>
-            </div>
-            <p className="text-white/70 text-xs text-center mt-4">
-              Some links are affiliate links. We may earn a commission at no extra cost to you.
-            </p>
-          </div>
-        </section>
+        <PreFooterAffiliateBanner
+          title={lang === 'nl' ? 'Plan Je Thailand Reis' : 'Plan Your Thailand Trip'}
+          description={lang === 'nl' ? 'Boek hotels, transport en meer' : 'Book hotels, transport and more'}
+          links={[
+            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
+            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
+            { label: 'Travel Insurance', href: '/travel-insurance-thailand/', internal: true },
+            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE' },
+            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
+            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },
+          ]}
+        />
       </div>
     </>
   );

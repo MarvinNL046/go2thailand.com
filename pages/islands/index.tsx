@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import IslandCard from '../../components/IslandCard';
+import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
 import { getAllIslands } from '../../lib/islands';
 
 interface Island {
@@ -233,63 +234,20 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
           </div>
         </section>
 
-        {/* Affiliate Banner */}
-        <section className="bg-surface-dark">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-            <div className="flex flex-col md:flex-row items-center justify-between gap-6">
-              <div className="text-white">
-                <p className="font-script text-thailand-gold mb-1">Plan Ahead</p>
-                <h2 className="text-2xl font-heading font-bold mb-1">Plan Your Island Trip</h2>
-                <p className="opacity-90 text-sm">Book ferries, hotels, tours & get connected with an eSIM</p>
-              </div>
-              <div className="flex flex-wrap justify-center gap-3">
-                <a
-                  href="https://12go.tpo.lv/tNA80urD"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-xl font-semibold text-sm hover:bg-gray-100 transition-colors"
-                >
-                  Book Ferries
-                </a>
-                <a
-                  href="https://booking.tpo.lv/2PT1kR82"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-xl font-semibold text-sm hover:bg-gray-100 transition-colors"
-                >
-                  Booking.com
-                </a>
-                <a
-                  href="https://trip.tpo.lv/TmObooZ5"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-xl font-semibold text-sm hover:bg-gray-100 transition-colors"
-                >
-                  Trip.com
-                </a>
-                <a
-                  href="https://klook.tpo.lv/7Dt6WApj"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-xl font-semibold text-sm hover:bg-gray-100 transition-colors"
-                >
-                  Tours
-                </a>
-                <a
-                  href="https://saily.tpo.lv/rf9lidnE"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-white text-thailand-blue px-5 py-2 rounded-xl font-semibold text-sm hover:bg-gray-100 transition-colors"
-                >
-                  eSIM
-                </a>
-              </div>
-            </div>
-            <p className="text-white/70 text-xs text-center mt-4">
-              Some links are affiliate links. We may earn a commission at no extra cost to you.
-            </p>
-          </div>
-        </section>
+        <PreFooterAffiliateBanner
+          eyebrow="Plan Ahead"
+          title="Plan Your Island Trip"
+          description="Book ferries, hotels, tours & get connected with an eSIM"
+          links={[
+            { label: 'Book Ferries', href: 'https://12go.tpo.lv/tNA80urD' },
+            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
+            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
+            { label: 'Tours', href: 'https://klook.tpo.lv/7Dt6WApj' },
+            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE' },
+            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
+            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },
+          ]}
+        />
       </div>
     </>
   );

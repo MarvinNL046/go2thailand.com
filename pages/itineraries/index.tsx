@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
 import { getAllItineraries, toAbsoluteImageUrl } from '../../lib/itineraries';
 
 interface Itinerary {
@@ -211,25 +212,20 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
           </div>
         </section>
 
-        {/* Plan Your Trip CTA */}
-        <section className="bg-surface-dark py-12">
-          <div className="container-custom">
-            <div className="flex flex-col md:flex-row items-center justify-between gap-6">
-              <div className="text-white">
-                <h2 className="text-2xl font-bold font-heading mb-1">Ready to Plan Your Thailand Trip?</h2>
-                <p className="opacity-90 text-sm">Book hotels, transport, activities, and get connected with an eSIM</p>
-              </div>
-              <div className="flex flex-wrap justify-center gap-3">
-                <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Booking.com</a>
-                <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Trip.com</a>
-                <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Activities</a>
-                <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Transport</a>
-                <Link href="/travel-insurance-thailand/" className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors">Insurance</Link>
-              </div>
-            </div>
-            <p className="text-white/70 text-xs text-center mt-4">Some links are affiliate links. We may earn a commission at no extra cost to you.</p>
-          </div>
-        </section>
+        <PreFooterAffiliateBanner
+          title="Ready to Plan Your Thailand Trip?"
+          description="Book hotels, transport, activities, and get connected with an eSIM"
+          sectionClassName="bg-surface-dark py-12"
+          links={[
+            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
+            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
+            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj' },
+            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD' },
+            { label: 'Insurance', href: '/travel-insurance-thailand/', internal: true },
+            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
+            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },
+          ]}
+        />
 
         {/* Explore More */}
         <section className="bg-surface-cream py-12">
