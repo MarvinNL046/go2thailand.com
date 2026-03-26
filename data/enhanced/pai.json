@@ -15,22 +15,24 @@
   "region": "Northern",
   "province": "Mae Hong Son",
   "description": {
-    "en": "A bohemian mountain town nestled in a valley surrounded by misty peaks, Pai is the ultimate backpacker paradise in northern Thailand. Known for its laid-back hippie culture, stunning canyon viewpoints, hot springs, and vibrant walking street night market.",
-    "nl": "Een bohemien bergstadje genesteld in een vallei omringd door mistige bergtoppen, Pai is het ultieme backpackersparadijs in Noord-Thailand. Bekend om zijn relaxte hippiecultuur, adembenemende canyonuitzichten, warmwaterbronnen en de levendige walking street nachtmarkt.",
-    "ja": "霧に包まれた山々に囲まれた谷間のボヘミアンな山間の街パーイは、バックパッカーの聖地であり、ヨガ、温泉、ナイトマーケット、壮大な自然が楽しめます。",
-    "ko": "안개 낀 산봉우리에 둘러싸인 골짜기에 자리한 보헤미안 산간 마을인 빠이는 태국 북부의 궁극적인 배낭여행자 천국입니다. 여유로운 히피 문화, 멋진 캐니언 전망대, 온천, 활기찬 워킹스트리트 야시장으로 유명합니다.",
-    "th": "เมืองเล็กในหุบเขา บรรยากาศโบฮีเมียน มีสะพานไม้ไผ่ น้ำพุร้อน และคาเฟ่น่ารัก",
-    "de": "Eine bohemische Bergstadt, eingebettet in ein Tal, umgeben von nebligen Gipfeln. Pai ist das ultimative Backpacker-Paradies im Norden Thailands. Bekannt für seine entspannte Hippie-Kultur, atemberaubende Canyon-Aussichten, heiße Quellen und den lebhaften Nachtmarkt in der Walking Street.",
-    "fr": "Une ville de montagne bohème, nichée dans une vallée entourée de pics brumeux, Pai est le paradis ultime des routards dans le nord de la Thaïlande. Connue pour sa culture hippie détendue, ses panoramas canyons à couper le souffle, ses sources chaudes et son marché nocturne animé sur la Walking Street.",
-    "ru": "Бохемский горный город, спрятанный в долине и окружённый туманными вершинами. Pai — настоящий рай для бэкпекеров на севере Таиланда. Известен своей расслабленной хиппи‑культурой, потрясающими видами на каньоны, горячими источниками и ярким ночным рынком Walking Street.",
-    "zh": "一个波西米亚风格的山城，坐落在被雾气环绕的山峰包围的山谷中，Pai 是泰国北部背包客的终极天堂。以其悠闲的嬉皮文化、令人惊叹的峡谷观景点、温泉，以及充满活力的步行街夜市而闻名。"
+    "en": "Pai works best as a small Mae Hong Son valley town with a compact walking-street core, a few strong viewpoints and hot-spring stops, and one or two deliberate rural extensions instead of a backpacker-myth checklist.",
+    "nl": "Pai werkt het best als klein valleidorp in Mae Hong Son met een compact walking-street-hart, een paar sterke uitzicht- en warmwaterbronstops en hooguit een of twee bewuste landelijke uitstappen.",
+    "ja": "パーイは、バックパッカー神話の寄せ集めではなく、歩きやすい町の中心、数か所の強い展望地と温泉、そして厳選した郊外寄りの寄り道で組み立てると理解しやすい谷あいの町です。",
+    "ko": "빠이는 막연한 배낭여행 신화보다, 워킹스트리트 중심지와 몇 개의 강한 전망 포인트, 온천, 그리고 소수의 신중한 외곽 코스로 짜는 편이 훨씬 낫습니다.",
+    "th": "ปายเหมาะกับการเที่ยวแบบเมืองเล็กในหุบเขาที่มีแกนกลางชัดเจนอย่างถนนคนเดิน จุดชมวิวเด่น น้ำพุร้อน และทริปรอบนอกที่คัดมาแล้ว มากกว่าการไล่เช็กลิสต์แบบหลวม ๆ",
+    "de": "Pai funktioniert am besten als kleines Talstädtchen in Mae Hong Son mit klarer Walking-Street-Mitte, einigen starken Aussichtspunkten und Thermalstopps sowie nur ein oder zwei gezielten Ausflügen ins Umland.",
+    "fr": "Pai se visite mieux comme une petite ville de vallee a Mae Hong Son, avec un centre lisible autour de la walking street, quelques bons points de vue et sources chaudes, puis une ou deux extensions rurales choisies.",
+    "ru": "Пай лучше воспринимать как небольшой город в долине провинции Мэхонгсон: компактный центр вокруг walking street, несколько сильных смотровых точек и горячих источников, плюс одна-две продуманные вылазки за город.",
+    "zh": "Pai 更适合按“小山谷城镇”的逻辑来安排：以步行街核心、少量强势观景点与温泉，再加一两条有选择的乡间延伸，而不是套用背包客神话式清单。"
   },
   "population": 2200,
   "highlights": [
-    "Pai Canyon",
     "Pai Walking Street",
-    "Pai Hot Springs",
-    "Bamboo Bridge"
+    "Pai Canyon",
+    "Tha Pai Hot Spring",
+    "Wat Phra That Mae Yen",
+    "Santichon and Yun Lai",
+    "Kho Ku So Merit Bridge"
   ],
   "location": {
     "lat": 19.3622,
@@ -39,7 +41,7 @@
   "image": "/images/cities/generated/pai.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Pai | What to do in Pai?",
+      "en": "Pai Thailand Guide 2026 | Canyon, Hot Springs, Hotels, Food",
       "nl": "Ontdek Pai | Wat te doen in Pai?",
       "ja": "パーイを満喫 | パーイの観光・見どころガイド",
       "ko": "빠이 태국 — 산간 마을 여행 가이드 2026",
@@ -50,7 +52,7 @@
       "zh": "发现 Pai | 在 Pai 能做什么？"
     },
     "metaDescription": {
-      "en": "Your guide to Pai, Thailand – tips, highlights, food, hotels and the best mountain scenery.",
+      "en": "Plan Pai around Walking Street, Pai Canyon, Tha Pai Hot Spring, Wat Phra That Mae Yen, and one deliberate Santichon or Kho Ku So side trip.",
       "nl": "Jouw gids voor Pai, Thailand – tips, highlights, eten, hotels en het mooiste berglandschap.",
       "ja": "タイ・パーイの旅行ガイド — おすすめスポット、グルメ、ホテル、山間の絶景情報をご紹介。",
       "ko": "빠이(태국) 완벽 여행 가이드: 캐니언, 온천, 야시장, 폭포. 가격, 팁, 치앙마이에서 가는 법.",
@@ -88,163 +90,286 @@
     "northern",
     "pai",
     "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "mae-hong-son",
+    "walking-street",
+    "pai-canyon",
+    "hot-springs"
   ],
-  "enhanced_description": "The 762 curves from Chiang Mai to Pai are not just a road - they are a rite of passage. When I finally stepped off the minivan after three nauseating hours of hairpin turns, the cool mountain air hit me like a reward. Pai sits at roughly 630 meters above sea level in a lush valley carved by the Pai River, and the moment you arrive, time seems to slow down. The main street, Chaisongkhram Road, is a single lane of guesthouses, reggae bars, tattoo parlors, and organic cafes that feels more like a Southeast Asian Woodstock than a Thai town. I checked into Pai Village Boutique Resort on the edge of town and spent my first evening wandering the Walking Street market, where Thai hippies in tie-dye sold handmade jewelry alongside grandmothers grilling satay skewers for 10 baht each.\n\nThe next morning I rented a motorbike for 150 baht per day from Aya Service on Chaisongkhram Road and headed to Pai Canyon - known locally as Kong Lan. The narrow ridgeline trail drops off sharply on both sides, and walking along the spine with the valley unfurling below is genuinely thrilling. I arrived at sunrise and had the place entirely to myself, the mist burning off the rice paddies below like steam from a kettle. From there I rode north to the Pai Hot Springs in Huai Nam Dang National Park, where a warm stream feeds into natural rock pools beneath towering trees. The water temperature hovers around 80 degrees Celsius at the source, but downstream pools settle into a perfect bath temperature. I brought eggs from the 7-Eleven and boiled them in the hot spring like the locals do.\n\nAfternoon called me to the famous Bamboo Bridge - Boon Ko Ku So Bridge - at Wat Su Tong Pae, a slender bamboo walkway stretching over 800 meters across emerald rice fields to a small meditation temple. The bridge sways gently underfoot and creaks with every step, and in the late afternoon light the paddies glow an almost electric green. A monk at the temple offered me a blessing and tied a white string bracelet around my wrist, a moment of quiet kindness I still carry with me. Nearby, the Chinese Village (Santichon) serves Yunnan-style tea and steamed buns, a reminder of the Kuomintang refugees who settled these mountains decades ago.\n\nPai's food scene punches far above its weight for a town of 2,200 people. At Na's Kitchen on Rungsiyanon Road, I had the best pad thai of my entire trip - wok-charred noodles tossed with fresh shrimp and a squeeze of tamarind. Charlie & Leks serves northern Thai sausage (sai oua) that bursts with lemongrass and kaffir lime, while The Om Garden Cafe on the river road does excellent smoothie bowls and vegan curries. For dinner, Witching Well on Chaisongkhram Road serves craft cocktails and wood-fired pizza on a lantern-lit terrace. The town empties out by 10 PM, and the silence that follows is remarkable - just crickets, frogs, and the distant rumble of the Pai River.\n\nWhat makes Pai special is not any single attraction but the cumulative effect of place. You come for a night and stay for a week. The rhythm of renting a scooter, discovering a hidden waterfall like Mo Paeng or Pam Bok, soaking in hot springs, eating mango sticky rice at the night market, and watching the sunset from Pai Canyon becomes addictive. The town attracts a delightful mix of Thai weekenders from Chiang Mai, long-stay digital nomads, gap-year backpackers, and aging hippies who came in the 1990s and never left. Everyone moves at the same unhurried pace, and that collective surrender to slowness is Pai's greatest gift.",
+  "enhanced_description": "Pai is still easier to plan when you strip away the backpacker mythology and treat it as a compact valley town with a strong center first. The clearest sequence starts in town: Walking Street and the surrounding lanes for food and evening rhythm, Wat Phra That Mae Yen for the valley view and temple layer, and Pai Canyon as the landscape stop that immediately explains the wider basin.\n\nAfter that, the trip gets stronger when you edit it. Tha Pai Hot Spring is the simplest nature-and-rest add-on close to town, while Santichon and Yun Lai work as one deliberate northern-side morning rather than as separate checklist items. Kho Ku So Merit Bridge gives you the rice-field and monastery edge of Pai, but it should be used as a single rural extension, not as part of an overloaded day built from waterfalls, bridges, cafés, and random road stops.\n\nThat same selectivity also improves the stay. Sleep near the center if the evening market matters, move out toward a quieter river or garden property if you want slower mornings, and keep the itinerary small enough that Pai still feels like Pai instead of a forced province sweep.",
+  "overview": "Pai is small enough that the quality of the trip depends more on sequencing than on volume. The town core still revolves around the bus-station side, Chaisongkhram and Rungsiyanon, and the nightly Walking Street layer that turns the center into the easiest place for food, short strolls, and casual evening planning. This is where first-time visitors should get their bearings before riding farther into the valley.\n\nThe best supporting attractions are the ones that read clearly from that center. Pai Canyon remains the strongest landscape stop because it explains the valley visually without needing much setup. Wat Phra That Mae Yen adds the essential temple-and-viewpoint layer, while Tha Pai Hot Spring gives Pai a slower restorative stop that still fits a short stay. These are the places that shape the trip, not vague claims about counterculture or endless digital-nomad lifestyle.\n\nThe outer ring needs restraint. Santichon and Yun Lai work best as one northern-side morning, and Kho Ku So Merit Bridge is useful when you want a rice-field monastery walk without turning the day into a scattershot countryside loop. The point is not to collect every Pai pin on the map; it is to keep the valley readable and worth staying in overnight.",
   "hidden_gems": [
     {
-      "name": {
-        "en": "Land Split (Pam Bok Waterfall area)",
-        "nl": "Land Split (Pam Bok Waterval gebied)",
-        "ja": "ランドスプリット（パムボック滝エリア）",
-        "ko": "랜드 스플릿 (팜복 폭포 지역)"
-      },
-      "description": {
-        "en": "A bizarre geological crack in the earth that split a farmer's land in two, now a quirky attraction with a small cafe serving fresh fruit shakes amid lush gardens.",
-        "nl": "Een bizarre geologische scheur in de aarde die het land van een boer in tweeen spleet, nu een bijzondere attractie met een klein cafe dat verse fruitsap serveert temidden van weelderige tuinen.",
-        "ja": "農家の土地が二つに割れた奇妙な地質現象の跡地で、今ではユニークな観光スポットになっています。割れ目の中を歩いて探検でき、無料で見学できます。",
-        "ko": "2008년 지진으로 땅이 갈라진 독특한 자연 현상으로, 현지 농부가 관리하는 소박한 관광 명소입니다."
-      },
-      "type": "nature"
+      "name": "Wat Nam Hu",
+      "why_special": "It adds a quieter sacred stop north of town without forcing a separate half-day plan.",
+      "local_tip": "Fold it into the Santichon and Yun Lai side of Pai rather than treating it as a standalone attraction.",
+      "best_time": "Morning",
+      "href": "/city/pai/top-10-attractions/",
+      "cta_label": "See the attractions guide"
     },
     {
-      "name": {
-        "en": "Lod Cave (Tham Lod near Pai)",
-        "nl": "Lod Grot (Tham Lod bij Pai)",
-        "ja": "ロート洞窟（パーイ近郊のタム・ロート）",
-        "ko": "롯 동굴 (탐롯)"
-      },
-      "description": {
-        "en": "A spectacular cave system about 70 km north of Pai with underground river, massive stalactites, and ancient coffin cave paintings. Best visited at dusk to see millions of swifts returning to roost.",
-        "nl": "Een spectaculair grottensysteem zo'n 70 km ten noorden van Pai met een ondergrondse rivier, enorme stalactieten en oude doodkistgrotschilderingen. Het beste te bezoeken bij schemering om miljoenen gierzwaluwen te zien terugkeren.",
-        "ja": "パーイの北約70kmにある壮大な洞窟群で、地下河川、巨大な鍾乳石、先史時代の木棺が見られます。ガイド付きの筏で洞窟内の川を渡る体験は圧巻です。",
-        "ko": "빠이 근교의 장대한 석회암 동굴로, 대나무 뗏목을 타고 동굴 속 강을 따라 탐험할 수 있습니다."
-      },
-      "type": "nature"
+      "name": "Land Split",
+      "why_special": "It is one of the few Pai-side rural stops that still works as a quick, curious detour without needing a full adventure script.",
+      "local_tip": "Use it only if you are already on the southern countryside side with Kho Ku So or the hot-spring road.",
+      "best_time": "Late morning",
+      "href": "/city/pai/top-10-attractions/",
+      "cta_label": "See the attractions guide"
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Use Walking Street as your evening anchor instead of as a throwaway night-market stop",
+      "story": "The Tourism Authority of Thailand still frames Pai Walking Street as the heart of local nightlife and evening street food, which is the right editorial center for the town after dark.",
+      "cultural_significance": "The market layer matters because Pai's center is read on foot in the evening far more than through big-ticket attractions.",
+      "how_to_participate": "Arrive before the late-evening peak, eat in stages, and let the market define the night instead of racing off to bars and outer-road stops.",
+      "insights": [
+        "This is the clearest first-night move in Pai.",
+        "A central hotel base improves the whole evening rhythm."
+      ],
+      "href": "/city/pai/attractions/pai-walking-street/",
+      "cta_label": "See the Walking Street guide"
     },
     {
-      "name": {
-        "en": "Pai Treehouse",
-        "nl": "Pai Boomhut",
-        "ja": "パーイ・ツリーハウス",
-        "ko": "빠이 트리하우스"
-      },
-      "description": {
-        "en": "A giant banyan tree turned into a viewpoint platform in the middle of rice paddies, offering stunning 360-degree views of the valley especially at sunset.",
-        "nl": "Een enorme banyan-boom omgebouwd tot een uitkijkplatform midden in de rijstvelden, met adembenemend 360-graden uitzicht over de vallei, vooral bij zonsondergang.",
-        "ja": "田園地帯の真ん中にある巨大な菩提樹を利用した展望台で、360度の水田と山々のパノラマビューが楽しめます。写真映えするスポットとして人気です。",
-        "ko": "나무 위에 지어진 독특한 숙소로, 논밭과 산 풍경을 내려다보는 특별한 경험을 제공합니다."
-      },
-      "type": "nature"
+      "activity": "Treat Pai Canyon as a real valley-reading stop, not just a sunset selfie point",
+      "story": "TAT still positions Pai Canyon as the province's best-known sunset stop, but the stronger read is its red sandstone ridge and full-basin view over the Pai valley.",
+      "cultural_significance": "It has become the landscape shorthand for Pai because it compresses the valley, mountains, and erosion-formed ridgeline into one short walk.",
+      "how_to_participate": "Go early or late, wear proper shoes, and treat the safer view areas as enough if the narrow ridge does not suit you.",
+      "insights": [
+        "Morning is stronger if you want fewer people.",
+        "You do not need a long visit for it to work."
+      ],
+      "href": "/city/pai/attractions/pai-canyon/",
+      "cta_label": "See the canyon guide"
     },
     {
-      "name": {
-        "en": "Cafe Amazon at Pai River",
-        "nl": "Cafe Amazon bij de Pai Rivier",
-        "ja": "パーイ川沿いのカフェ・アマゾン",
-        "ko": "카페 아마존 빠이강변"
-      },
-      "description": {
-        "en": "Hidden riverside cafe downstream from the main town where locals gather for cold coffee and river swimming on lazy afternoons.",
-        "nl": "Verborgen cafe aan de rivier stroomafwaarts van het centrum waar lokale bevolking samenkomt voor koude koffie en zwemmen in de rivier op luie middagen.",
-        "ja": "街の中心から川沿いに少し下った隠れ家的なリバーサイドカフェで、地元の人々がコールドドリンクを楽しみに集まります。静かで穏やかな雰囲気が魅力です。",
-        "ko": "빠이강변에 위치한 카페로, 한적한 강 풍경을 즐기며 커피를 마실 수 있는 숨겨진 휴식처입니다."
-      },
-      "type": "restaurant"
+      "activity": "Use Wat Phra That Mae Yen to give the trip a temple-and-viewpoint layer",
+      "story": "Mae Hee's official tourism map still marks Phra That Mae Yen as one of Pai's headline sights, and it remains the cleanest way to add a spiritual stop with a real valley panorama.",
+      "cultural_significance": "The temple prevents Pai from collapsing into pure market-and-nature branding.",
+      "how_to_participate": "Visit late in the day or in the morning, dress respectfully, and pair it with the town center rather than with a far outer-valley drive.",
+      "insights": [
+        "This is the best temple stop for a short Pai stay.",
+        "It works especially well on arrival day or departure morning."
+      ],
+      "href": "/city/pai/attractions/wat-phra-that-mae-yen/",
+      "cta_label": "See the Mae Yen guide"
     },
     {
-      "name": {
-        "en": "Yun Lai Viewpoint",
-        "nl": "Yun Lai Uitkijkpunt",
-        "ja": "ユンライ・ビューポイント",
-        "ko": "윤라이 전망대"
-      },
-      "description": {
-        "en": "A lesser-known sunrise viewpoint in the Chinese Village with panoramic views over the misty Pai valley, far less crowded than Pai Canyon. Serves Chinese tea at the top.",
-        "nl": "Een minder bekend zonsopgang-uitkijkpunt in het Chinese Dorp met panoramisch uitzicht over de mistige Pai-vallei, veel minder druk dan Pai Canyon. Serveert Chinese thee op de top.",
-        "ja": "チャイニーズビレッジにあるあまり知られていない日の出スポットで、パーイの谷を一望するパノラマビューが楽しめます。中国茶を飲みながら朝霧を眺められます。",
-        "ko": "중국계 산촌 마을에 있는 전망대로, 빠이 골짜기의 360도 파노라마를 감상할 수 있습니다."
-      },
-      "type": "nature"
+      "activity": "Keep Santichon and Yun Lai as one deliberate northern-side morning",
+      "story": "The official Mae Hee tourism map and Amazing Thailand's Pai culture layer both keep Yun Lai visible in the northern Pai cluster.",
+      "cultural_significance": "That side of Pai shows the town's Yunnan-linked settlement layer more clearly than generic café hopping ever will.",
+      "how_to_participate": "Go in the morning, keep the route short, and do not overbuild the same side of town with too many stops.",
+      "insights": [
+        "Treat Santichon and Yun Lai as one combined outing.",
+        "This works better than forcing both a hot spring and a long waterfall loop into the same day."
+      ],
+      "href": "/city/pai/attractions/santichon-and-yun-lai-viewpoint/",
+      "cta_label": "See the Santichon guide"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Street-food grazing and light evening eating",
+      "location": "Pai Walking Street",
+      "story": "TAT still presents Walking Street as the heart of Pai's food-and-craft evening rhythm, which makes it the strongest first-night eating plan.",
+      "where_to_find": "Town center, around the Walking Street and adjoining lanes.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Eat in smaller rounds instead of picking one full dinner immediately.",
+        "This is the easiest way to keep Pai's evening centered in town."
+      ],
+      "href": "/city/pai/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Garden café brunch with vegetarian-friendly range",
+      "location": "Om Garden Cafe",
+      "story": "Amazing Thailand's listing still positions Om Garden as a garden restaurant in the heart of Pai with Western, Mediterranean, Asian, vegetarian, and vegan options.",
+      "where_to_find": "Wiang Tai, central Pai.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Best used for a slower breakfast or lunch, not as a rushed stop between rides."
+      ],
+      "href": "/city/pai/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Thai and Myanmar plates with a rural-side setting",
+      "location": "Two Sisters Restaurant",
+      "story": "The restaurant's direct site positions it around Thai and Myanmar food with mountain views, which gives the Pai food page a stronger regional edge than another generic international café.",
+      "where_to_find": "Mae Hi side of Pai.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Use this when you want a meal that feels more rooted than the center's casual market snacking."
+      ],
+      "href": "/city/pai/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "A polished dinner near the center",
+      "location": "The Blue Ox Steak House",
+      "story": "Pai Village's direct dining page still presents The Blue Ox as an evening restaurant with steaks, pastas, Thai dishes, and a deeper drinks list.",
+      "where_to_find": "Pai Village Boutique Resort, Wiang Tai.",
+      "price_range": "Mid-range",
+      "ordering_tips": [
+        "Use this when you want a more structured sit-down dinner after market or canyon time."
+      ],
+      "href": "/city/pai/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    }
+  ],
+  "local_insights": [
+    "Pai is better when the center gets real time before you drive into the valley.",
+    "Walking Street is the evening backbone, not an optional add-on.",
+    "Pai Canyon and Mae Yen do more for a short stay than stacking multiple waterfalls.",
+    "Santichon and Yun Lai are strongest as one morning, not as separate headline attractions.",
+    "A central stay usually beats a far-out resort unless you specifically want quiet mornings over walkable evenings."
+  ],
+  "seasonal_secrets": "November to February is still the easiest season for Pai because canyon walks, temple climbs, hot-spring stops, and early valley viewpoints are all more comfortable. March and April can be much hazier because of northern smoke-season conditions, so visibility needs to be treated as changeable rather than guaranteed. The rainy season can make the valley greener and softer, but outer-road timing and muddy trails should be rechecked locally before you build a full day around them.",
+  "budget_reality": "Pai can still be done on a modest budget if you stay near the center, use the market and casual cafés well, and keep transport simple. Costs rise when you rent a vehicle for every movement, book an out-of-town resort and still shuttle into the center every night, or turn a short stay into a string of paid side trips. The better use of money is usually one well-located room, one good sit-down dinner, and a selective attraction plan.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Pai Walking Street",
+      "description": "The clearest first stop in Pai after dark, because it gives the town its food, craft, and evening pace all at once.",
+      "location": "Chaisongkhram and Rungsiyanon area, central Pai",
+      "entrance_fee": "Public street market access",
+      "highlights": [
+        "Evening market rhythm",
+        "Street food and crafts",
+        "Best first-night anchor"
+      ],
+      "href": "/city/pai/attractions/pai-walking-street/",
+      "cta_label": "See the Walking Street guide"
+    },
+    {
+      "rank": 2,
+      "name": "Pai Canyon",
+      "description": "The strongest landscape stop in Pai, with red sandstone ridges and a clean read over the valley.",
+      "location": "Southwest of central Pai",
+      "entrance_fee": "Typically straightforward public access; recheck current site setup locally",
+      "highlights": [
+        "Red sandstone ridge",
+        "Broad valley views",
+        "Strong sunrise or sunset logic"
+      ],
+      "href": "/city/pai/attractions/pai-canyon/",
+      "cta_label": "See the canyon guide"
+    },
+    {
+      "rank": 3,
+      "name": "Tha Pai Hot Spring",
+      "description": "The easiest restorative nature stop near town, with natural pools and a calmer pace than Pai's viewpoint circuit.",
+      "location": "Tha Pai side of the valley",
+      "entrance_fee": "Protected-area fees can change; verify locally before visiting",
+      "highlights": [
+        "Natural hot-spring pools",
+        "Close to town",
+        "Good half-day nature stop"
+      ],
+      "href": "/city/pai/attractions/pai-hot-springs/",
+      "cta_label": "See the hot-spring guide"
+    },
+    {
+      "rank": 4,
+      "name": "Wat Phra That Mae Yen",
+      "description": "Pai's strongest temple-and-viewpoint stop, giving the town a clear sacred layer and a strong valley overlook.",
+      "location": "Mae Hee side of Pai",
+      "entrance_fee": "Temple donations are customary",
+      "highlights": [
+        "White Buddha hillside view",
+        "Best temple stop in Pai",
+        "Useful late-day climb"
+      ],
+      "href": "/city/pai/attractions/wat-phra-that-mae-yen/",
+      "cta_label": "See the Mae Yen guide"
+    },
+    {
+      "rank": 5,
+      "name": "Santichon and Yun Lai Viewpoint",
+      "description": "The strongest northern-side extension if you want Yunnan-linked village context and an edited sunrise-viewpoint morning.",
+      "location": "North of central Pai",
+      "entrance_fee": "Small local fees may apply at some stops; verify on arrival",
+      "highlights": [
+        "Yunnan cultural layer",
+        "Sunrise-viewpoint pairing",
+        "Best done as one morning"
+      ],
+      "href": "/city/pai/attractions/santichon-and-yun-lai-viewpoint/",
+      "cta_label": "See the Santichon guide"
+    },
+    {
+      "rank": 6,
+      "name": "Kho Ku So Merit Bridge",
+      "description": "A quieter rice-field and monastery-side walk when you want one rural extension without turning Pai into a full countryside loop.",
+      "location": "Pam Bok side of Pai District",
+      "entrance_fee": "Local access conditions can change; recheck onsite",
+      "highlights": [
+        "Rice-field walkway",
+        "Monastery setting",
+        "Single strong rural add-on"
+      ],
+      "href": "/city/pai/attractions/kho-ku-so-merit-bridge/",
+      "cta_label": "See the bridge guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Two Sisters Restaurant",
-      "description": "Highly-rated Thai restaurant known for authentic Asian cuisine prepared fresh daily with quality ingredients.",
-      "cuisine_type": "Thai, Asian",
-      "price_range": "80-200 THB ($2.50-6.50)",
+      "name": "Pai Walking Street food stalls",
+      "description": "The most useful first-night eating plan in Pai because it matches the town's real evening rhythm.",
+      "cuisine_type": "Thai street food and snacks",
+      "price_range": "Budget",
       "highlights": [
-        "Authentic Thai",
-        "Fresh ingredients",
-        "4.8 TripAdvisor rating"
+        "Strongest first-night meal pattern",
+        "Street-food variety",
+        "Central evening setting"
       ]
     },
     {
       "rank": 2,
-      "name": "Charlie and Leks",
-      "description": "Cozy spot serving outstanding northern Thai dishes including sai oua sausage, khao soi, and larb with locally-sourced ingredients.",
-      "cuisine_type": "Thai, Northern Thai",
-      "price_range": "70-180 THB ($2-5.50)",
+      "name": "Om Garden Cafe",
+      "description": "A reliable breakfast or lunch stop with garden seating and a broader vegetarian-friendly menu than most Pai quick stops.",
+      "cuisine_type": "Cafe, vegetarian-friendly, mixed menu",
+      "price_range": "Budget to mid-range",
       "highlights": [
-        "Northern Thai specialty",
-        "Local farm ingredients",
-        "4.6 TripAdvisor rating"
+        "Amazing Thailand listing",
+        "Garden setting",
+        "Brunch-friendly"
       ]
     },
     {
       "rank": 3,
-      "name": "Om Garden Cafe",
-      "description": "Riverside organic cafe with smoothie bowls, vegan curries, and freshly baked sourdough in peaceful garden setting with river views.",
-      "cuisine_type": "International, Asian, Vegetarian",
-      "price_range": "120-280 THB ($3.50-8.50)",
+      "name": "Two Sisters Restaurant",
+      "description": "A stronger food-page inclusion than generic ranking copy because the restaurant's own site keeps the Thai and Myanmar angle visible.",
+      "cuisine_type": "Thai and Myanmar",
+      "price_range": "Budget to mid-range",
       "highlights": [
-        "Organic cafe",
-        "Vegan options",
-        "River views",
-        "4.7 TripAdvisor rating"
+        "Official restaurant site",
+        "Thai and Myanmar dishes",
+        "Mae Hi side setting"
       ]
     },
     {
       "rank": 4,
-      "name": "Na's Kitchen",
-      "description": "Beloved local restaurant famous for perfectly wok-charred pad thai and green curry, run by Na and family for over a decade.",
-      "cuisine_type": "Thai, Healthy",
-      "price_range": "60-150 THB ($1.80-4.50)",
+      "name": "The Blue Ox Steak House",
+      "description": "A polished sit-down dinner option near the center when you want a more structured evening meal than market grazing.",
+      "cuisine_type": "Steakhouse, Thai, pasta and grill",
+      "price_range": "Mid-range",
       "highlights": [
-        "Pad Thai specialty",
-        "Green curry",
-        "Local favorite",
-        "4.5 TripAdvisor rating"
+        "Official dining page",
+        "Good dinner option",
+        "Near Walking Street"
       ]
     },
     {
       "rank": 5,
-      "name": "Witching Well Restaurant and Wine Bar",
-      "description": "Atmospheric restaurant on Chaisongkhram Road featuring wood-fired pizza, Thai fusion dishes, and creative cocktails on lantern-lit garden terrace.",
-      "cuisine_type": "International, Thai Fusion",
-      "price_range": "150-350 THB ($4.50-10.50)",
+      "name": "Limoncello Pai",
+      "description": "A useful second polished dinner option if your Pai stay leans toward wine-bar and pasta evenings rather than only market food.",
+      "cuisine_type": "Italian and wine bar",
+      "price_range": "Mid-range",
       "highlights": [
-        "Wood-fired pizza",
-        "Thai fusion",
-        "Cocktails",
-        "4.5 TripAdvisor rating"
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "Pai Walking Street Food Stalls",
-      "description": "Nightly market featuring diverse street food including grilled satay, mango sticky rice, rotee banana pancakes, Thai sausages, and coconut ice cream.",
-      "cuisine_type": "Thai Street Food",
-      "price_range": "10-60 THB ($0.30-2)",
-      "highlights": [
-        "Budget street food",
-        "Authentic local fare",
-        "Nightly market",
-        "Variety of options"
+        "Official dining page",
+        "Italian menu",
+        "Central resort-side location"
       ]
     }
   ],
@@ -252,272 +377,190 @@
     {
       "rank": 1,
       "name": "Pai Village Boutique Resort",
-      "description": "Charming resort with traditional wooden bungalows, swimming pool, and mountain views. Walking distance to the night market.",
-      "price_range": "$45-67/night",
+      "description": "The clearest central stay if you want Walking Street access without giving up a quieter garden-style setting.",
+      "price_range": "Mid-range",
       "category": "midrange",
       "highlights": [
-        "Mountain views",
-        "Pool",
-        "Convenient location",
-        "4.5 rating"
+        "Official hotel website",
+        "Steps from Walking Street",
+        "Garden resort setting"
       ]
     },
     {
       "rank": 2,
-      "name": "Yoma Hotel Pai",
-      "description": "Budget-friendly hotel offering basic clean rooms with convenient town center access and friendly service.",
-      "price_range": "$20-31/night",
-      "category": "budget",
+      "name": "Rim Pai Cottage",
+      "description": "A stronger riverside base than generic list filler if you want the market close but not right on top of the busiest center.",
+      "price_range": "Mid-range",
+      "category": "midrange",
       "highlights": [
-        "Affordable",
-        "Central location",
-        "Clean rooms",
-        "3.5 rating"
+        "Official hotel website",
+        "Edge of Pai River",
+        "Walking Street close by"
       ]
     },
     {
       "rank": 3,
-      "name": "The Quarter Pai",
-      "description": "Mid-range hotel featuring modern rooms with comfortable amenities and central town location.",
-      "price_range": "$35-45/night",
+      "name": "Family House Zen Boutique Resort",
+      "description": "A small boutique option for travelers who want a peaceful garden base still near town and Wat Phra That Mae Yen.",
+      "price_range": "Mid-range",
       "category": "midrange",
       "highlights": [
-        "Modern rooms",
-        "Central location",
-        "Good value",
-        "3.6 rating"
+        "Official hotel website",
+        "Peaceful garden atmosphere",
+        "Close to town"
       ]
     },
     {
       "rank": 4,
-      "name": "Bura Lumpai Resort",
-      "description": "Budget resort with simple but clean bungalows offering peaceful atmosphere and basic amenities at very affordable rates.",
-      "price_range": "$10-14/night",
-      "category": "budget",
+      "name": "Ai Pai Hotel",
+      "description": "A practical central hotel when you want immediate access to the night-market and bus-station side of town.",
+      "price_range": "Mid-range",
+      "category": "midrange",
       "highlights": [
-        "Ultra-budget",
-        "Clean rooms",
-        "Peaceful",
-        "3.5 rating"
+        "Amazing Thailand listing",
+        "Near Pai Night Market",
+        "Near Pai bus station"
       ]
     },
     {
       "rank": 5,
       "name": "Pai Hotsprings Spa Resort",
-      "description": "Budget-friendly resort offering access to hot springs, spa services, and simple comfortable rooms with natural thermal features.",
-      "price_range": "$14-22/night",
-      "category": "budget",
+      "description": "A better pick if your priority is a quieter nature-leaning stay rather than being in the middle of the evening market loop.",
+      "price_range": "Budget to mid-range",
+      "category": "midrange",
       "highlights": [
-        "Hot springs access",
-        "Spa services",
-        "Natural setting",
-        "3.3 rating"
+        "Official hotel website",
+        "Riverbank setting",
+        "Hot-spring pools"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Montis Resort",
+      "description": "A resort-style option for travelers who care more about privacy, mountain framing, and a larger property feel than about walking everywhere.",
+      "price_range": "Mid-range to upper mid-range",
+      "category": "luxury",
+      "highlights": [
+        "Official hotel website",
+        "Mountain range setting",
+        "Larger resort footprint"
       ]
     }
   ],
   "travel_tips": [
-    {
-      "title": {
-        "en": "Surviving the 762 Curves",
-        "nl": "De 762 bochten overleven",
-        "ja": "762のカーブを乗り越える"
-      },
-      "content": {
-        "en": "The road from Chiang Mai to Pai has 762 curves and takes about 3 hours by minivan. Take motion sickness medicine 30 minutes before departure. Alternatively, fly from Chiang Mai with Kan Air (20 minutes) if your budget allows.",
-        "nl": "De weg van Chiang Mai naar Pai heeft 762 bochten en duurt ongeveer 3 uur per minibusje. Neem 30 minuten voor vertrek een reisziektepil. Als alternatief kun je vliegen vanuit Chiang Mai met Kan Air (20 minuten) als je budget het toelaat.",
-        "ja": "チェンマイからパーイへの道は762のカーブがあり、ミニバンで約3時間かかります。乗り物酔いしやすい方は酔い止め薬を用意し、前方の席に座りましょう。"
-      }
-    },
-    {
-      "title": {
-        "en": "Rent a Motorbike",
-        "nl": "Huur een scooter",
-        "ja": "バイクをレンタルしよう"
-      },
-      "content": {
-        "en": "A motorbike is essential in Pai as attractions are spread out. Rent from Aya Service on Chaisongkhram Road for 150-250 baht/day. Drive carefully on mountain roads, especially during rainy season when roads become slippery.",
-        "nl": "Een scooter is essentieel in Pai omdat de bezienswaardigheden verspreid liggen. Huur bij Aya Service op Chaisongkhram Road voor 150-250 baht/dag. Rij voorzichtig op bergwegen, vooral tijdens het regenseizoen wanneer wegen glad worden.",
-        "ja": "パーイではバイクが必須です。観光スポットが点在しているため、Ayaサービスなどで1日150〜250バーツで借りられます。国際免許証を忘れずに。"
-      }
-    },
-    {
-      "title": {
-        "en": "Best Time for Pai Canyon",
-        "nl": "Beste tijd voor Pai Canyon",
-        "ja": "パーイキャニオンのベストタイム"
-      },
-      "content": {
-        "en": "Visit Pai Canyon at sunrise or sunset for the most dramatic views and fewer crowds. The narrow ridgeline can be nerve-wracking in flip-flops, so wear proper shoes with grip.",
-        "nl": "Bezoek Pai Canyon bij zonsopgang of zonsondergang voor het meest dramatische uitzicht en minder drukte. De smalle bergkam kan zenuwslopend zijn op slippers, dus draag degelijke schoenen met grip.",
-        "ja": "パーイキャニオンは日の出か夕暮れ時が最もドラマチックな景色を楽しめ、混雑も少なくなります。狭い尾根道なので、サンダルではなく運動靴がおすすめです。"
-      }
-    },
-    {
-      "title": {
-        "en": "Pack Layers",
-        "nl": "Neem laagjes kleding mee",
-        "ja": "重ね着を用意しよう"
-      },
-      "content": {
-        "en": "Pai gets surprisingly cold from November to February, with temperatures dropping to 5-10 degrees Celsius at night. Bring a warm jacket and long pants. During the day it is pleasant at 20-25 degrees.",
-        "nl": "Pai wordt verrassend koud van november tot februari, met temperaturen die 's nachts dalen tot 5-10 graden Celsius. Neem een warme jas en lange broek mee. Overdag is het aangenaam met 20-25 graden.",
-        "ja": "パーイは11月〜2月にかなり冷え込み、夜間は10℃以下になることもあります。フリースやジャケットなど暖かい服を必ず持参しましょう。"
-      }
-    },
-    {
-      "title": {
-        "en": "Cash is King",
-        "nl": "Contant geld is koning",
-        "ja": "現金が主流"
-      },
-      "content": {
-        "en": "Many small shops, market stalls, and guesthouses in Pai only accept cash. There are ATMs on the main street but they charge 220 baht per withdrawal. Bring enough cash from Chiang Mai.",
-        "nl": "Veel kleine winkels, marktkraampjes en pensions in Pai accepteren alleen contant geld. Er zijn geldautomaten op de hoofdstraat maar die rekenen 220 baht per opname. Neem genoeg contant geld mee vanuit Chiang Mai.",
-        "ja": "パーイの多くの小さなお店、屋台、ゲストハウスは現金のみです。ATMは数カ所ありますが手数料がかかるため、十分な現金を持参しましょう。"
-      }
-    }
+    "Pai is compact in town, but the outer attractions are spread enough that you should decide up front whether you are walking, riding, or arranging a driver.",
+    "The Chiang Mai road still deserves motion-sickness planning if you are sensitive to mountain curves.",
+    "Do not overload one day with canyon, hot springs, Santichon, a rural bridge, and a sunset climb. Pai gets weaker when the route turns into a speed-run.",
+    "Stay near the center if Walking Street matters nightly. Stay farther out only if quiet mornings matter more than walkable evenings.",
+    "Use proper shoes for Pai Canyon and the Mae Yen climb, especially outside the driest months."
   ],
   "best_time_to_visit": {
-    "en": "November to February is the best time to visit Pai, when the weather is cool and dry with clear mountain views. December and January can get quite cold at night (5-10 degrees Celsius). The rainy season from June to October brings lush green landscapes but muddy roads.",
-    "nl": "November tot februari is de beste tijd om Pai te bezoeken, wanneer het weer koel en droog is met helder bergzicht. December en januari kunnen 's nachts behoorlijk koud worden (5-10 graden Celsius). Het regenseizoen van juni tot oktober brengt weelderig groen landschap maar modderige wegen.",
-    "ja": "11月〜2月がベストシーズンで、涼しく爽やかな天候が楽しめます。朝霧の風景が美しく、ナイトマーケットも活気づきます。3月〜5月は焼畑の煙害に注意が必要です。"
+    "season": "November to February",
+    "weather": "Cooler mornings, clearer valley views, and the easiest conditions for canyon walks, temple climbs, and hot-spring visits.",
+    "reasons": "This is the cleanest season for combining the town core with one or two outer-valley stops without building the whole day around heat or rain."
   },
   "budget_info": {
-    "budget_per_day": {
-      "en": "$15-25",
-      "nl": "$15-25",
-      "ja": "1日1,500〜2,500円"
-    },
-    "midrange_per_day": {
-      "en": "$40-70",
-      "nl": "$40-70",
-      "ja": "1日4,000〜7,000円"
-    },
-    "luxury_per_day": {
-      "en": "$120+",
-      "nl": "$120+",
-      "ja": "1日12,000円以上"
+    "daily_budget": {
+      "budget": "Pai can still be done affordably if you stay central, use Walking Street well, and keep transport choices simple.",
+      "mid": "Mid-range spend usually goes into a better hotel base, more sit-down meals, and easier transport for outer-valley stops.",
+      "luxury": "Higher spend in Pai mostly means resort comfort and private transport rather than big-city luxury inventory."
     }
   },
-  "enhanced_at": "2026-02-22T00:00:00.000Z",
-  "overview": "Nestled in a verdant valley surrounded by misty mountain peaks in Mae Hong Son Province, Pai is northern Thailand's ultimate bohemian escape and backpacker haven. This laid-back mountain town of just 2,200 residents has become famous for its counterculture vibe, stunning natural attractions, and thriving community of digital nomads, artists, and travelers seeking an alternative to Thailand's more touristy destinations. From the dramatic Pai Canyon with its narrow ridgeline trails and panoramic valley views to the therapeutic Pai Hot Springs where you can boil eggs in natural mineral pools, the town serves as the perfect base for exploring untouched waterfalls, meditation temples, and authentic hill tribe culture.",
-  "thingsToDo": "Pai's main attractions blend outdoor adventure with cultural experiences. Start at Pai Canyon (Kong Lan), a free natural wonder where sunrise hikers navigate narrow ridgeline trails for breathtaking valley panoramas. The Pai Walking Street night market (free entry) buzzes with street food stalls, handmade crafts, and live music, offering authentic local flavor without tourist markup. Nature enthusiasts should visit Pai Hot Springs (300 THB/$9 entrance) to soak in natural mineral pools set within forest scenery, or head to Mo Paeng Waterfall (free) for natural rock slides and jungle swimming. The iconic Bamboo Bridge (free) makes for perfect photography against rice paddy backdrops, while nearby Wat Nam Hoo temple (free) offers hilltop serenity. For cultural exploration, Chinese Village/Santichon (50 THB/$1.50) showcases Yunnan tea houses and mountain views, and Yun Lai Viewpoint (20 THB/$0.60) combines sunrise views with traditional Chinese tea experiences.",
-  "whereToStay": "Pai offers accommodation options across all budget levels, with the highest concentration near the Walking Street and town center. Budget travelers can find guesthouses for 250-500 THB ($7-15/night) offering basic but clean rooms and communal areas perfect for meeting other backpackers. Mid-range hotels and bungalows (600-1,500 THB/$18-45/night) provide more comfort with ensuite bathrooms, air-conditioning, and small amenities like cafes or gardens. Several eco-lodges and resort-style properties cater to those seeking more luxury (1,500-4,000+ THB/$45-120+/night) with modern facilities, pools, and mountain views. Many accommodations cluster near the main road leading to Pai Canyon or scatter throughout the valley for a more secluded experience. The town's small size means almost anywhere is walkable or a short motorbike ride from attractions and the walking street.",
+  "thingsToDo": "Start with Pai's town core and evening rhythm, then build outward carefully. Pai Walking Street is the obvious first-night anchor, Pai Canyon is the strongest landscape stop, Wat Phra That Mae Yen adds the necessary temple-and-view layer, and Tha Pai Hot Spring gives the itinerary a slower restorative half-day. If you want one more real extension, choose either the Santichon and Yun Lai side or Kho Ku So Merit Bridge instead of trying to sweep the whole valley in one trip.",
+  "whereToStay": "The strongest first base is still near central Pai, where Walking Street, the bus-station side, and the main evening food layer are within easy reach. Move farther out only if you specifically want a quieter resort morning and are comfortable trading away the ability to walk back from the market or restaurants at night.",
   "whereToEat": [
     {
-      "name": "Two Sisters Restaurant",
-      "cuisine": "Thai, Asian",
-      "priceRange": "$",
-      "description": "Highly-rated Thai restaurant with authentic cuisine prepared fresh daily, consistently highly reviewed on TripAdvisor."
-    },
-    {
-      "name": "Charlie and Leks",
-      "cuisine": "Northern Thai",
-      "priceRange": "$",
-      "description": "Cozy spot serving outstanding northern Thai dishes including sai oua sausage, khao soi, and larb with locally-sourced ingredients from partner farms."
+      "name": "Pai Walking Street food stalls",
+      "cuisine": "Street food and snacks",
+      "priceRange": "Budget",
+      "description": "Best for a first-night graze built around Pai's evening market rhythm."
     },
     {
       "name": "Om Garden Cafe",
-      "cuisine": "International, Asian, Vegetarian",
-      "priceRange": "$$",
-      "description": "Riverside organic cafe with smoothie bowls, vegan curries, and freshly baked sourdough in peaceful garden setting overlooking the Pai River."
+      "cuisine": "Cafe and vegetarian-friendly mixed menu",
+      "priceRange": "Budget to mid-range",
+      "description": "A useful breakfast or lunch stop in central Pai."
     },
     {
-      "name": "Na's Kitchen",
-      "cuisine": "Thai, Healthy",
-      "priceRange": "$",
-      "description": "Beloved local restaurant famous for perfectly wok-charred pad thai and green curry, run by Na and family for over a decade."
+      "name": "Two Sisters Restaurant",
+      "cuisine": "Thai and Myanmar",
+      "priceRange": "Budget to mid-range",
+      "description": "One of the stronger non-market meals when you want regional flavor with a clear point of view."
     },
     {
-      "name": "Witching Well Restaurant and Wine Bar",
-      "cuisine": "International, Thai Fusion",
-      "priceRange": "$$-$$$",
-      "description": "Atmospheric restaurant featuring wood-fired pizza, Thai fusion dishes, and creative cocktails on lantern-lit garden terrace with intimate ambiance."
-    },
-    {
-      "name": "Pai Walking Street Food Stalls",
-      "cuisine": "Thai Street Food",
-      "priceRange": "$",
-      "description": "Nightly market with grilled satay, mango sticky rice, rotee banana pancakes, Thai sausages, and fresh coconut ice cream at budget prices."
+      "name": "The Blue Ox Steak House",
+      "cuisine": "Steakhouse and broader dinner menu",
+      "priceRange": "Mid-range",
+      "description": "A polished evening option near the center."
     }
   ],
   "topHotels": [
     {
       "name": "Pai Village Boutique Resort",
       "category": "midrange",
-      "priceRange": "$45-67/night",
-      "area": "Town Center/Outskirts",
-      "description": "Charming resort with traditional wooden bungalows, swimming pool, and mountain views. Walking distance to the night market and restaurants."
+      "priceRange": "Mid-range",
+      "area": "Central Pai / Walking Street side",
+      "description": "The strongest all-round central stay for most first trips."
     },
     {
-      "name": "Yoma Hotel Pai",
-      "category": "budget",
-      "priceRange": "$20-31/night",
-      "area": "Town Center",
-      "description": "Budget-friendly hotel with basic but clean rooms, convenient town location, and friendly service."
-    },
-    {
-      "name": "The Quarter Pai",
+      "name": "Rim Pai Cottage",
       "category": "midrange",
-      "priceRange": "$35-45/night",
-      "area": "Town Center",
-      "description": "Modern mid-range hotel with comfortable rooms and central location, good value for the amenities offered."
+      "priceRange": "Mid-range",
+      "area": "Pai River edge near the center",
+      "description": "A good riverside base with strong access to Walking Street."
     },
     {
-      "name": "Bura Lumpai Resort",
-      "category": "budget",
-      "priceRange": "$10-14/night",
-      "area": "Outskirts",
-      "description": "Ultra-budget resort with simple but clean bungalows offering peaceful atmosphere and basic amenities."
+      "name": "Family House Zen Boutique Resort",
+      "category": "midrange",
+      "priceRange": "Mid-range",
+      "area": "Mae Hee side near town",
+      "description": "A quieter boutique option still close enough to central Pai."
+    },
+    {
+      "name": "Ai Pai Hotel",
+      "category": "midrange",
+      "priceRange": "Mid-range",
+      "area": "Near Pai bus station and night market",
+      "description": "A practical central hotel for shorter stays and easy arrivals."
     },
     {
       "name": "Pai Hotsprings Spa Resort",
-      "category": "budget",
-      "priceRange": "$14-22/night",
-      "area": "Hot Springs Area",
-      "description": "Budget resort with access to natural hot springs, spa services, and simple comfortable rooms."
+      "category": "midrange",
+      "priceRange": "Budget to mid-range",
+      "area": "Outside the center on the hot-spring side",
+      "description": "Better for quieter resort time than for nightly market walking."
+    },
+    {
+      "name": "Montis Resort",
+      "category": "luxury",
+      "priceRange": "Mid-range to upper mid-range",
+      "area": "Outer Pai valley",
+      "description": "A larger resort-style option with more privacy and mountain framing."
     }
   ],
-  "gettingAround": "Pai's compact size makes it highly walkable for the town center and main attractions, though some sites require transportation. Motorbike rental (150-250 THB/$4.50-7.50/day) is the most popular option for independent exploration, offering flexibility to reach waterfalls, viewpoints, and villages on your own schedule. Local songthaews (shared red trucks) provide inexpensive transport around town and to nearby villages, typically costing 10-20 THB ($0.30-0.60) per person for short rides. Tuk-tuks and taxi services are available for longer journeys or private transport, with negotiable rates based on destination. Grab, Thailand's ride-hailing app, operates in Pai and offers reliable transportation with fixed pricing. For longer-distance travel, buses connect Pai to Chiang Mai (3-4 hours, 100-150 THB/$3-5) and other northern cities, with service from the main bus station.",
-  "bestTimeToVisit": "Pai's ideal visiting season runs from November through February, when northern Thailand experiences cool and dry weather perfect for outdoor exploration. Daytime temperatures range from 20-25°C (68-77°F) with crisp mornings ideal for sunrise hikes to Pai Canyon, while cool evenings are perfect for wandering the Walking Street. March through May brings hot, dusty conditions with temperatures reaching 35°C+ (95°F+), making outdoor activities less comfortable despite clear skies. The monsoon season from June to October brings heavy rainfall that transforms the landscape into lush green but makes trekking and waterfall visits challenging. November marks the ideal arrival as mountain mists clear and temperatures drop, while December-January attracts the most visitors. February remains excellent with continued cool weather and fewer crowds than the peak holiday season. For avoiding crowds while enjoying good weather, early November or late January offer the sweet spot.",
-  "budgetGuide": {
-    "budget": {
-      "min": 20,
-      "max": 40,
-      "description": "Budget travelers can comfortably live on $20-40/day staying in guesthouses ($8-15), eating street food and casual restaurants (60-150 THB/$1.80-4.50), and using local transport (10-20 THB/$0.30-0.60). Entrance fees to attractions are minimal or free."
-    },
-    "midrange": {
-      "min": 50,
-      "max": 100,
-      "description": "Mid-range visitors spend $50-100/day on mid-range hotels ($25-50), sit-down restaurants (150-280 THB/$4.50-8.50), motorbike rental and activities (150-250 THB/$4.50-7.50), plus attraction fees and occasional massage or tour experiences."
-    },
-    "luxury": {
-      "min": 150,
-      "max": 400,
-      "description": "Luxury travelers budget $150-400+/day for upscale resorts ($80-160), fine dining (350+ THB/$10+), private tours and transportation, spa treatments (400-900 THB/$12-28/hour), and exclusive experiences."
-    }
-  },
-  "safetyTips": "Pai is generally very safe for travelers with normal precautions. The community is welcoming and crime against tourists is minimal, though standard travel safety applies—avoid displaying expensive items, secure valuables, and use registered taxis or Grab for late-night transport rather than walking alone in darkness. Motorbike rentals are common but require caution; ensure you have proper insurance, wear helmets (legally required), and be aware that road conditions can be rough in rainy season. The town's laid-back atmosphere sometimes masks the reality of Thailand's strict drug laws—possession of any controlled substances carries severe penalties including lengthy imprisonment, so avoid drugs entirely despite their availability. Watch for overly aggressive touts or scams at the walking street market; stick with established vendors and be cautious of unusually good deals. Tap water is generally safe to drink in Pai, but many travelers prefer bottled water. Healthcare is available at local clinics for minor issues, but serious medical care requires travel to Chiang Mai.",
+  "gettingAround": "Pai town itself is easy on foot once you stay near the center, but the outer valley requires more deliberate transport choices. Many visitors ride or arrange local drivers for canyon, hot-spring, bridge, and northern-side viewpoint trips. If your plan depends on current minivan timing from Chiang Mai or onward transport, recheck the operator directly before travel day rather than relying on older static guides.",
+  "bestTimeToVisit": "November to February is the easiest overall fit for Pai because canyon walks, temple climbs, hot-spring stops, and early valley viewpoints are more comfortable. March and April can be hazier in the north, so visibility should be treated as changeable rather than guaranteed. The rainy season can still work if you keep the itinerary more selective and recheck outer-road conditions locally.",
+  "safetyTips": "Pai is usually straightforward, but the real risks come from transport and terrain rather than from the town itself. Ride carefully on valley roads, avoid forcing narrow ridges or steep temple climbs in bad conditions, and do not treat protected-area or hot-spring access as fixed without a same-day local recheck. Respect active temples, keep valuables secure in the market at night, and give yourself margin on the Chiang Mai road if you are prone to motion sickness or travel delays.",
   "faq": [
     {
-      "question": "How do I get to Pai from Chiang Mai?",
-      "answer": "Buses depart regularly from Chiang Mai's bus stations, taking 3-4 hours and costing 100-150 THB ($3-5). Alternatively, rent a motorbike (150-250 THB/$4.50-7.50/day) or join a tour group. Many travelers fly into Chiang Mai first, as it's the closest major airport (160km/100 miles away)."
+      "question": "How many nights do you need in Pai?",
+      "answer": "Two nights is the minimum strong version because it gives you one real town evening plus one proper day for canyon, temple, hot spring, or a northern-side morning. Three nights works better if you want a slower pace."
     },
     {
-      "question": "What is the best time to visit Pai?",
-      "answer": "November through February offers the best weather with cool, dry conditions perfect for outdoor activities. December-January sees peak tourism with temperatures 20-25°C (68-77°F). March-May is hot and dusty with temperatures 35°C+ (95°F+), while June-October is wet monsoon season with heavy rainfall."
+      "question": "What is the best first thing to do in Pai?",
+      "answer": "For most travelers it is simply arriving, settling near the center, and using Pai Walking Street as the first-night anchor. That gives the town shape immediately."
     },
     {
-      "question": "How many days should I spend in Pai?",
-      "answer": "Most travelers stay 3-5 days to explore main attractions like Pai Canyon, Hot Springs, and Bamboo Bridge while enjoying the town's cafes and night market. Some digital nomads and travelers seeking digital detox stay weeks or months."
+      "question": "Do you need a scooter or car in Pai?",
+      "answer": "Not for the center itself, but you usually need a ride, rental, or driver once you add Pai Canyon, hot springs, Santichon, or outer-valley stops."
     },
     {
-      "question": "Is Pai safe for travelers?",
-      "answer": "Pai is generally very safe with normal precautions. The community is welcoming and crime against tourists is minimal. Avoid displaying expensive items, use registered taxis or Grab for late-night transport, and ensure motorbike rental includes insurance and helmets. Be aware that Thailand has strict drug laws with severe penalties."
+      "question": "What should you prioritize if you only have one full day?",
+      "answer": "Keep it edited: Pai Canyon, Wat Phra That Mae Yen, one food block in town, and either Tha Pai Hot Spring or one Santichon and Yun Lai morning."
     },
     {
-      "question": "What should I eat in Pai?",
-      "answer": "Try authentic northern Thai cuisine at Charlie and Leks or Na's Kitchen (60-180 THB/$1.80-5.50), street food at the Walking Street night market (10-60 THB/$0.30-2), or vegetarian options at Om Garden Cafe (120-280 THB/$3.50-8.50). Many restaurants source from local farms."
+      "question": "Is Pai mainly a backpacker town?",
+      "answer": "That reputation exists, but it is an incomplete way to plan the trip. Pai is stronger as a small valley town with a readable center, a few real viewpoints, and selective rural extensions."
     }
   ],
   "practicalInfo": {
@@ -527,290 +570,112 @@
       "Jan",
       "Feb"
     ],
-    "nearestAirport": "Chiang Mai International Airport (CNX) - 160km/100 miles away",
-    "travelTimeFromAirport": "3-4 hours by bus costing 100-150 THB ($3-5); alternative motorbike rental or private car available",
-    "localTransport": [
-      "Motorbike rental (150-250 THB/$4.50-7.50/day)",
-      "Songthaew (10-20 THB/$0.30-0.60/ride)",
-      "Tuk-tuk",
-      "Grab app",
-      "Walking"
-    ]
+    "arrival": "Most visitors reach Pai by road from Chiang Mai. If you depend on exact departure times, verify the current operator schedule before travel day.",
+    "transport": "Walk the center, then use a scooter, local driver, or arranged ride for canyon, hot-spring, and outer-valley stops.",
+    "planning": "Build Pai in layers: center first, one view or temple block second, and only one real outer-valley extension after that."
   },
-  "enrichedAt": "2026-02-22T12:40:12.977Z",
-  "seasonal_secrets": {
-    "best_times": {
-      "November-February (Best)": "Pai's ideal visiting season runs from November through February, when northern Thailand experiences cool and dry weather perfect for outdoor exploration. Daytime temperatures range from 20-25°C (68-77°F) with crisp mornings ideal for sunrise hikes to Pai Canyon, while cool evenings are perfect for wandering the Walking Street.",
-      "March-May (Hot Season)": "Hot and dry, 30-40°C. Valleys get hot but higher elevations remain comfortable. Burning season can cause haze in March.",
-      "June-October (Green Season)": "Warm with monsoon rains. Lush green landscapes and waterfalls at full flow — beautiful but trails can be muddy."
-    },
-    "local_festivals": [
-      "Pai Jazz & Blues Festival (cool season)",
-      "Walking Street live music every evening during peak season",
-      "Loy Krathong Festival",
-      "King's Birthday (Father's Day - Dec 5)",
-      "New Year celebrations",
-      "Makha Bucha Day",
-      "Chinese New Year (varies)",
-      "Songkran Water Festival (April 13-15) - celebrated nationwide"
-    ],
-    "seasonal_foods": {
-      "cool": "Khao Soi and warming northern curries are perfect for cool evenings. Local favorites include Na's Kitchen and Charlie & Leks.",
-      "hot": "Fresh mango sticky rice and tropical fruit smoothies to beat the heat. Local favorites include Na's Kitchen and Charlie & Leks.",
-      "rainy": "Warming soups like Gaeng Hanglay and steamed sticky rice on rainy days. Local favorites include Na's Kitchen and Charlie & Leks."
-    },
-    "insider_tips": {
-      "Mountain weather": "Temperatures drop significantly after dark (5-15°C in cool season). Pack warm layers for evenings even if days are warm.",
-      "Road conditions": "Mountain roads have many curves — take motion sickness medicine if needed. Rainy season can make some trails muddy.",
-      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
-      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Pai.",
-      "Pai Canyon": "Visit Pai Canyon during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
-    }
-  },
-  "top_attractions": [
+  "contentSources": [
     {
-      "rank": 1,
-      "name": "Pai Canyon (Kong Lan)",
-      "description": "Natural canyon formation with narrow ridgeline trails offering panoramic valley views, especially stunning at sunrise.",
-      "location": "East of town center",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Sunrise hikes",
-        "Ridge trails",
-        "Valley panoramas"
-      ]
+      "type": "tourism-office",
+      "title": "Mae Hong Son",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/mae-hong-son",
+      "description": "Used for Pai Canyon and Pai Walking Street framing, plus general Pai valley planning logic."
     },
     {
-      "rank": 2,
-      "name": "Pai Hot Springs",
-      "description": "Natural mineral hot springs set in forest scenery where visitors can soak in thermal pools and boil eggs in hot water.",
-      "location": "South of town",
-      "entrance_fee": "300 THB ($9)",
-      "highlights": [
-        "Natural mineral pools",
-        "Forest setting",
-        "Egg boiling"
-      ]
+      "type": "tourism-office",
+      "title": "Hot Springs in Pai, Mae Hong Son, Thailand",
+      "creator": "Amazing Thailand",
+      "url": "https://amazingthailand.com/hot-springs-in-pai-mae-hong-son-thailand",
+      "description": "Used for Tha Pai Hot Spring positioning and current durable hot-spring context."
     },
     {
-      "rank": 3,
-      "name": "Pai Walking Street Night Market",
-      "description": "Evening market featuring street food stalls, handmade crafts, and live music with authentic local atmosphere.",
-      "location": "Town center",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Street food",
-        "Local crafts",
-        "Live music"
-      ]
+      "type": "tourism-office",
+      "title": "Culture, Pai",
+      "creator": "Amazing Thailand",
+      "url": "https://amazingthailand.com/culture?source=axghzp",
+      "description": "Used for current Yun Lai viewpoint confirmation in Pai's culture layer."
     },
     {
-      "rank": 4,
-      "name": "Mo Paeng Waterfall",
-      "description": "Natural waterfall with rock slides and jungle swimming pools ideal for cooling off and nature exploration.",
-      "location": "West of town",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Rock slides",
-        "Swimming holes",
-        "Jungle setting"
-      ]
+      "type": "tourism-office",
+      "title": "Mae Hong Son and Pai Tourism Map",
+      "creator": "Mae Hee Subdistrict Municipality / TAT Mae Hong Son Office",
+      "url": "https://www.maeheepai.go.th/upload/catalogs_file/catalogs_file_257_17_8_524.pdf",
+      "description": "Used to confirm current Pai highlight names including Phra That Mae Yen, Kong Lan, Tha Pai Hot Spring, Mo Paeng, Wat Nam Hu, Santichon, Yun Lai, and Kho Ku So Merit Bridge."
     },
     {
-      "rank": 5,
-      "name": "Bamboo Bridge",
-      "description": "Scenic wooden bridge crossing over rice paddies, popular for photography and sunset views.",
-      "location": "North of town",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Rice paddy views",
-        "Photography spot",
-        "Sunset location"
-      ]
+      "type": "restaurant",
+      "title": "Om Garden Cafe",
+      "creator": "Amazing Thailand",
+      "url": "https://amazingthailand.com/om-garden-cafe",
+      "description": "Used for Om Garden's address, menu positioning, and central-garden setting."
     },
     {
-      "rank": 6,
-      "name": "Yun Lai Viewpoint",
-      "description": "Mountain viewpoint offering sunrise views and access to traditional Chinese tea houses with panoramic vistas.",
-      "location": "North of town",
-      "entrance_fee": "20 THB ($0.60)",
-      "highlights": [
-        "Sunrise views",
-        "Tea houses",
-        "Mountain vistas"
-      ]
+      "type": "restaurant",
+      "title": "Two Sisters Restaurant",
+      "creator": "Two Sisters Restaurant",
+      "url": "https://twosistersrestaurant.shop/",
+      "description": "Used for the restaurant's direct Thai and Myanmar positioning, address, and contact details."
     },
     {
-      "rank": 7,
-      "name": "Chinese Village (Santichon)",
-      "description": "Historic settlement showcasing Yunnan tea culture and architecture with mountain views and local tea plantations.",
-      "location": "North of town",
-      "entrance_fee": "50 THB ($1.50)",
-      "highlights": [
-        "Tea houses",
-        "Yunnan culture",
-        "Mountain views"
-      ]
+      "type": "restaurant",
+      "title": "The Blue Ox Steak House",
+      "creator": "Pai Village Boutique Resort",
+      "url": "https://www.paivillage.com/the-blue-ox-steak-house.php",
+      "description": "Used for Blue Ox's current dinner positioning and central Pai location."
     },
     {
-      "rank": 8,
-      "name": "Wat Nam Hoo Temple",
-      "description": "Hilltop temple providing peaceful spiritual atmosphere and panoramic views of surrounding countryside.",
-      "location": "East of town",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Hilltop location",
-        "Spiritual retreat",
-        "Valley views"
-      ]
+      "type": "restaurant",
+      "title": "Limoncello Pai",
+      "creator": "Pai Village Boutique Resort",
+      "url": "https://www.paivillage.com/limoncello-pai.php",
+      "description": "Used for current Italian dining and wine-bar positioning in central Pai."
+    },
+    {
+      "type": "hotel",
+      "title": "Pai Village Boutique Resort",
+      "creator": "Pai Village Boutique Resort",
+      "url": "https://www.paivillage.com/",
+      "description": "Used for direct hotel positioning near Walking Street and the resort's address."
+    },
+    {
+      "type": "hotel",
+      "title": "Rim Pai Cottage",
+      "creator": "Rim Pai Cottage",
+      "url": "https://www.rimpaicottage.com/",
+      "description": "Used for direct riverside positioning, Walking Street proximity, and hotel contact details."
+    },
+    {
+      "type": "hotel",
+      "title": "Family House Zen Boutique Resort",
+      "creator": "Family House Zen Boutique Resort",
+      "url": "https://familyhousezen.com/",
+      "description": "Used for direct boutique-resort positioning near town and Wat Phra That Mae Yen."
+    },
+    {
+      "type": "hotel",
+      "title": "Pai Hotsprings Spa Resort",
+      "creator": "Pai Hotsprings Spa Resort",
+      "url": "https://paihotspring.com/",
+      "description": "Used for direct hotel details, riverbank positioning, and hot-spring pool context."
+    },
+    {
+      "type": "hotel",
+      "title": "Montis Resort Pai",
+      "creator": "Montis Resort",
+      "url": "https://www.montisresort.com/",
+      "description": "Used for the resort's direct mountain-setting positioning and address."
+    },
+    {
+      "type": "hotel",
+      "title": "Ai Pai Hotel",
+      "creator": "Amazing Thailand",
+      "url": "https://amazingthailand.com/ai-pai-hotel",
+      "description": "Used for current central-location context near Pai Night Market, bus station, and Wat Phra That Mae Yen."
     }
   ],
-  "factchecked_at": "2026-03-08T18:30:23.375Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "De 762 bochten van Chiang Mai naar Pai zijn niet zomaar een weg — ze zijn een overgangsritueel. Toen ik eindelijk uit het minibusje stapte na drie misselijkmakende uren van haarspeldbochten, sloeg de koele berglucht me als een beloning in het gezicht. Pai ligt op ruwweg 630 meter boven zeeniveau in een weelderige vallei uitgesneden door de Pai-rivier, en op het moment dat je aankomt, lijkt de tijd te vertragen. De hoofdstraat, Chaisongkhram Road, is een enkele rijbaan van pensions, reggaebars, tattoo-studios en biologische cafeetjes die meer aanvoelt als een Zuidoost-Aziatisch Woodstock dan als een Thais stadje. Ik checkte in bij Pai Village Boutique Resort aan de rand van het stadje en bracht mijn eerste avond door al slenterend over de Walking Street-markt, waar Thaise hippies in tie-dye handgemaakte sieraden verkochten naast grootmoeders die satayspiesjes grillden voor 10 baht per stuk.\n\nDe volgende ochtend huurde ik een motor voor 150 baht per dag bij Aya Service op Chaisongkhram Road en reed naar Pai Canyon — lokaal bekend als Kong Lan. Het smalle bergkampad valt aan beide kanten steil af, en lopen langs de ruggengraat terwijl de vallei zich onder je ontvouwt, is oprecht opwindend. Ik arriveerde bij zonsopgang en had de plek helemaal voor mezelf, de mist brandde van de rijstvelden beneden als stoom uit een ketel. Vandaar reed ik noordwaarts naar de Pai Hot Springs in het Huai Nam Dang Nationaal Park, waar een warme stroom natuurlijke rotsbassins voedt onder torenhoge bomen. De watertemperatuur schommelt rond 80 graden Celsius bij de bron, maar stroomafwaarts bereiken de bassins een perfecte badtemperatuur. Ik had eieren meegenomen van de 7-Eleven en kookte ze in de warmwaterbron zoals de lokale bevolking doet.\n\nDe middag riep me naar de beroemde Bamboebrug — Boon Ko Ku So Bridge — bij Wat Su Tong Pae, een slanke bamboe loopbrug die zich meer dan 800 meter uitstrekt over smaragdgroene rijstvelden naar een klein meditatietempeltje. De brug zwaait zachtjes onder je voeten en kraakt bij elke stap, en in het late middaglicht gloeien de rijstvelden in een bijna elektrisch groen. Een monnik bij de tempel bood me een zegening aan en bond een witte draadarmband om mijn pols, een moment van stille vriendelijkheid dat ik nog steeds bij me draag. Vlakbij serveert het Chinese Dorp (Santichon) thee en gestoomde broodjes in Yunnan-stijl, een herinnering aan de Kuomintang-vluchtelingen die decennia geleden in deze bergen neerstreken.\n\nDe foodscene van Pai presteert ver boven zijn gewicht voor een stadje van 2.200 inwoners. Bij Na's Kitchen op Rungsiyanon Road at ik de beste pad thai van mijn hele reis — wok-geblakerde noedels opgegooid met verse garnalen en een scheut tamarinde. Charlie & Leks serveert Noord-Thaise worst (sai oua) die barst van de citroengras en kaffir-limoen, terwijl The Om Garden Cafe aan de rivierweg uitstekende smoothiebowls en veganistische curry's maakt. Voor het diner serveert Witching Well op Chaisongkhram Road ambachtelijke cocktails en pizza uit de houtoven op een lantaarnverlicht terras. Het stadje leegt tegen 22:00 uur, en de stilte die volgt is opmerkelijk — alleen krekels, kikkers en het verre geruis van de Pai-rivier.\n\nWat Pai bijzonder maakt is niet één enkele attractie maar het cumulatieve effect van de plek. Je komt voor een nacht en blijft een week. Het ritme van een scooter huren, een verborgen waterval ontdekken zoals Mo Paeng of Pam Bok, weken in warmwaterbronnen, mango sticky rice eten op de nachtmarkt en de zonsondergang bekijken vanaf Pai Canyon wordt verslavend. Het stadje trekt een heerlijke mix aan van Thaise weekendgangers uit Chiang Mai, langverblijvende digitale nomaden, gap-year backpackers en vergrijsde hippies die in de jaren '90 kwamen en nooit meer vertrokken. Iedereen beweegt in hetzelfde ongehaaste tempo, en die collectieve overgave aan traagheid is het grootste geschenk van Pai.",
-      "overview": "Genesteld in een groene vallei omringd door mistige bergtoppen in de provincie Mae Hong Son, is Pai de ultieme bohemien-ontsnapping en backpackershaven van Noord-Thailand. Dit relaxte bergstadje van slechts 2.200 inwoners is beroemd geworden om zijn tegencultuur-sfeer, adembenemende natuurlijke attracties en bloeiende gemeenschap van digitale nomaden, kunstenaars en reizigers die een alternatief zoeken voor Thailand's meer toeristische bestemmingen. Van de dramatische Pai Canyon met zijn smalle bergkampaden en panoramische vallei-uitzichten tot de therapeutische Pai Hot Springs waar je eieren kunt koken in natuurlijke mineraalbaden, het stadje dient als de perfecte uitvalsbasis voor het verkennen van ongerepte watervallen, meditatietempels en authentieke bergstamcultuur.",
-      "thingsToDo": "De belangrijkste attracties van Pai combineren buitenavontuur met culturele ervaringen. Begin bij Pai Canyon (Kong Lan), een gratis natuurwonder waar zonsopgangwandelaars smalle bergkampaden bewandelen voor adembenemende valleipanorama's. De Pai Walking Street nachtmarkt (gratis toegang) bruist van straatvoedselkraampjes, handgemaakte ambachten en livemuziek, en biedt authentieke lokale sfeer zonder toeristentoeslag. Natuurliefhebbers moeten de Pai Hot Springs bezoeken (300 THB/$9 entree) om te weken in natuurlijke mineraalbaden temidden van boslandschap, of naar Mo Paeng Waterval (gratis) gaan voor natuurlijke rotsglijbanen en zwemmen in de jungle. De iconische Bamboebrug (gratis) is perfect voor fotografie tegen een achtergrond van rijstvelden, terwijl het nabijgelegen Wat Nam Hoo tempel (gratis) rust op een heuveltop biedt. Voor culturele verkenning toont het Chinese Dorp/Santichon (50 THB/$1,50) Yunnan-theehuizen en bergzichten, en combineert het Yun Lai Uitkijkpunt (20 THB/$0,60) zonsopganguitzichten met traditionele Chinese thee-ervaringen.",
-      "whereToStay": "Pai biedt accommodatie voor alle budgetten, met de hoogste concentratie nabij de Walking Street en het stadscentrum. Budgetreizigers vinden pensions voor 250-500 THB ($7-15/nacht) met eenvoudige maar schone kamers en gemeenschappelijke ruimtes perfect om andere backpackers te ontmoeten. Middensegment hotels en bungalows (600-1.500 THB/$18-45/nacht) bieden meer comfort met eigen badkamer, airconditioning en kleine voorzieningen zoals cafeetjes of tuinen. Diverse eco-lodges en resort-achtige accommodaties bedienen wie meer luxe zoekt (1.500-4.000+ THB/$45-120+/nacht) met moderne faciliteiten, zwembaden en bergzicht. Veel accommodaties clusteren bij de hoofdweg richting Pai Canyon of liggen verspreid door de vallei voor een meer afgezonderde ervaring. De kleine omvang van het stadje betekent dat bijna overal te voet of met een korte motorrit bereikbaar is vanaf attracties en de walking street.",
-      "gettingAround": "Door de compacte omvang van Pai is het stadscentrum en de belangrijkste attracties goed te voet te bereiken, hoewel sommige locaties vervoer vereisen. Motorverhuur (150-250 THB/$4,50-7,50/dag) is de populairste optie voor onafhankelijke verkenning en biedt flexibiliteit om watervallen, uitkijkpunten en dorpen op eigen tempo te bereiken. Lokale songthaews (gedeelde rode trucks) bieden goedkoop vervoer door het stadje en naar nabijgelegen dorpen, doorgaans 10-20 THB ($0,30-0,60) per persoon voor korte ritten. Tuk-tuks en taxidiensten zijn beschikbaar voor langere ritten of privévervoer, met onderhandelbare tarieven op basis van bestemming. Grab, Thailand's ritdeelapp, werkt in Pai en biedt betrouwbaar vervoer met vaste prijzen. Voor langeafstandsreizen verbinden bussen Pai met Chiang Mai (3-4 uur, 100-150 THB/$3-5) en andere noordelijke steden, met vertrek vanaf het centrale busstation.",
-      "bestTimeToVisit": "Het ideale bezoekseizoen van Pai loopt van november tot en met februari, wanneer Noord-Thailand koel en droog weer beleeft dat perfect is voor buitenverkenning. Overdag liggen de temperaturen tussen 20-25°C met frisse ochtenden die ideaal zijn voor zonsopgangwandelingen naar Pai Canyon, terwijl koele avonden perfect zijn om over de Walking Street te slenteren. Maart tot mei brengt hete, stoffige omstandigheden met temperaturen tot 35°C+, wat buitenactiviteiten minder comfortabel maakt ondanks helder weer. Het moessonseizoen van juni tot oktober brengt zware regenval die het landschap transformeert in weelderig groen maar trekken en watervalbezoeken uitdagend maakt. November markeert de ideale aankomst wanneer bergmisten optrekken en temperaturen dalen, terwijl december-januari de meeste bezoekers trekt. Februari blijft uitstekend met aanhoudend koel weer en minder drukte dan het piekseizoen. Om drukte te vermijden en toch goed weer te hebben, bieden begin november of eind januari de ideale balans.",
-      "safetyTips": "Pai is over het algemeen zeer veilig voor reizigers met normale voorzorgsmaatregelen. De gemeenschap is gastvrij en misdaad tegen toeristen is minimaal, hoewel standaard reisveiligheid van toepassing is — vermijd het tonen van dure spullen, berg waardevolle bezittingen op en gebruik geregistreerde taxi's of Grab voor laat transport in plaats van alleen in het donker te lopen. Motorverhuur is gebruikelijk maar vereist voorzichtigheid; zorg voor adequate verzekering, draag helmen (wettelijk verplicht) en wees je ervan bewust dat de wegomstandigheden ruw kunnen zijn in het regenseizoen. De relaxte sfeer van het stadje maskeert soms de realiteit van Thailand's strenge drugswetten — bezit van elke gereguleerde stof kan zware straffen opleveren inclusief langdurige gevangenisstraf, dus vermijd drugs volledig ondanks hun beschikbaarheid. Pas op voor overagressieve verkopers of oplichterij op de walking street-markt; houd het bij gevestigde verkopers en wees voorzichtig met ongewoon goede aanbiedingen. Leidingwater is over het algemeen veilig om te drinken in Pai, maar veel reizigers geven de voorkeur aan flessenwater. Gezondheidszorg is beschikbaar bij lokale klinieken voor kleine problemen, maar ernstige medische zorg vereist een reis naar Chiang Mai.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "Les 762 virages de Chiang Mai à Pai ne sont pas qu'une simple route — c'est un rite de passage. Quand je suis enfin descendu du minibus après trois heures nauséeuses d'épingles à cheveux, l'air frais de la montagne m'a frappé le visage comme une récompense. Pai se trouve à environ 630 mètres d'altitude dans une vallée luxuriante creusée par la rivière Pai, et dès votre arrivée, le temps semble ralentir. La rue principale, Chaisongkhram Road, est une seule voie de pensions, de bars reggae, de studios de tatouage et de cafés bio qui ressemble davantage à un Woodstock sud-asiatique qu'à une petite ville thaïlandaise. Je me suis installé au Pai Village Boutique Resort en bordure de la ville et j'ai passé ma première soirée à flâner sur le marché de la Walking Street, où des hippies thaïlandais en tie-dye vendaient des bijoux artisanaux à côté de grands-mères grillant des brochettes de satay à 10 bahts pièce.\n\nLe lendemain matin, j'ai loué une moto pour 150 bahts par jour chez Aya Service sur Chaisongkhram Road et j'ai roulé jusqu'au Pai Canyon — localement connu sous le nom de Kong Lan. Le sentier étroit sur la crête tombe abruptement des deux côtés, et marcher le long de cette arête tandis que la vallée se déploie sous vos pieds est véritablement grisant. Je suis arrivé au lever du soleil et j'avais l'endroit entièrement pour moi, la brume se dissipant des rizières en contrebas comme la vapeur d'une bouilloire. De là, j'ai roulé vers le nord jusqu'aux sources chaudes de Pai dans le parc national de Huai Nam Dang, où un ruisseau chaud alimente des bassins naturels rocheux sous des arbres imposants. La température de l'eau avoisine 80 degrés Celsius à la source, mais en aval, les bassins atteignent une température de baignade parfaite. J'avais apporté des œufs du 7-Eleven et je les ai fait cuire dans la source chaude comme le font les locaux.\n\nL'après-midi m'a appelé vers le célèbre pont de bambou — Boon Ko Ku So Bridge — à Wat Su Tong Pae, une passerelle en bambou élancée qui s'étend sur plus de 800 mètres au-dessus de rizières d'un vert émeraude jusqu'à un petit temple de méditation. Le pont oscille doucement sous vos pieds et craque à chaque pas, et dans la lumière de fin d'après-midi, les rizières rayonnent d'un vert presque électrique. Un moine au temple m'a offert une bénédiction et a attaché un bracelet de fil blanc autour de mon poignet, un moment de bonté silencieuse que je porte encore en moi. À proximité, le village chinois (Santichon) sert du thé et des brioches vapeur de style Yunnan, un rappel des réfugiés du Kuomintang qui se sont installés dans ces montagnes il y a des décennies.\n\nLa scène gastronomique de Pai surpasse largement ce qu'on attendrait d'une ville de 2 200 habitants. Chez Na's Kitchen sur Rungsiyanon Road, j'ai mangé le meilleur pad thai de tout mon voyage — des nouilles saisies au wok avec des crevettes fraîches et une touche de tamarin. Charlie & Leks sert de la saucisse du nord de la Thaïlande (sai oua) éclatant de citronnelle et de feuilles de combava, tandis que The Om Garden Cafe au bord de la rivière prépare d'excellents smoothie bowls et des currys végétaliens. Pour le dîner, Witching Well sur Chaisongkhram Road sert des cocktails artisanaux et des pizzas au feu de bois sur une terrasse éclairée aux lanternes. La ville se vide vers 22h00, et le silence qui suit est remarquable — juste les grillons, les grenouilles et le murmure lointain de la rivière Pai.\n\nCe qui rend Pai spécial, ce n'est pas une seule attraction mais l'effet cumulatif de l'endroit. Vous venez pour une nuit et vous restez une semaine. Le rythme de louer un scooter, découvrir une cascade cachée comme Mo Paeng ou Pam Bok, tremper dans des sources chaudes, manger du mango sticky rice au marché de nuit et contempler le coucher de soleil depuis le Pai Canyon devient addictif. La ville attire un mélange délicieux de Thaïlandais venus de Chiang Mai pour le week-end, de nomades numériques au long séjour, de backpackers en année sabbatique et de hippies chevronnés qui sont venus dans les années 90 et ne sont jamais repartis. Tout le monde se déplace au même rythme tranquille, et cette capitulation collective face à la lenteur est le plus grand cadeau de Pai.",
-      "overview": "Niché dans une vallée verdoyante entourée de sommets montagneux brumeux dans la province de Mae Hong Son, Pai est l'échappée bohème ultime et le havre des backpackers du nord de la Thaïlande. Cette petite ville de montagne décontractée de seulement 2 200 habitants est devenue célèbre pour son atmosphère contre-culturelle, ses attractions naturelles à couper le souffle et sa communauté florissante de nomades numériques, d'artistes et de voyageurs cherchant une alternative aux destinations plus touristiques de Thaïlande. Du spectaculaire Pai Canyon avec ses sentiers étroits en crête et ses panoramas sur la vallée aux sources chaudes thérapeutiques de Pai où l'on peut cuire des œufs dans des bains minéraux naturels, la ville sert de base idéale pour explorer des cascades préservées, des temples de méditation et la culture authentique des tribus montagnardes.",
-      "thingsToDo": "Les principales attractions de Pai combinent aventure en plein air et expériences culturelles. Commencez par le Pai Canyon (Kong Lan), une merveille naturelle gratuite où les randonneurs matinaux parcourent des sentiers étroits en crête pour des panoramas époustouflants sur la vallée. Le marché de nuit de la Walking Street de Pai (accès gratuit) regorge de stands de cuisine de rue, d'artisanat fait main et de musique live, offrant une ambiance locale authentique sans supplément touristique. Les amoureux de la nature doivent visiter les sources chaudes de Pai (300 THB/9 $ d'entrée) pour se baigner dans des bassins minéraux naturels en pleine forêt, ou se rendre à la cascade de Mo Paeng (gratuite) pour des toboggans naturels sur roche et la baignade en jungle. L'emblématique pont de bambou (gratuit) est parfait pour la photographie sur fond de rizières, tandis que le temple Wat Nam Hoo voisin (gratuit) offre la tranquillité au sommet d'une colline. Pour l'exploration culturelle, le village chinois/Santichon (50 THB/1,50 $) présente des maisons de thé Yunnan et des vues sur les montagnes, et le belvédère de Yun Lai (20 THB/0,60 $) combine des vues au lever du soleil avec des expériences traditionnelles de thé chinois.",
-      "whereToStay": "Pai offre des hébergements pour tous les budgets, avec la plus forte concentration près de la Walking Street et du centre-ville. Les voyageurs à petit budget trouvent des pensions pour 250-500 THB (7-15 $/nuit) avec des chambres simples mais propres et des espaces communs parfaits pour rencontrer d'autres backpackers. Les hôtels et bungalows de milieu de gamme (600-1 500 THB/18-45 $/nuit) offrent plus de confort avec salle de bain privée, climatisation et petites commodités comme des cafés ou des jardins. Divers éco-lodges et hébergements de style resort desservent ceux qui recherchent plus de luxe (1 500-4 000+ THB/45-120+ $/nuit) avec des installations modernes, des piscines et des vues sur les montagnes. De nombreux hébergements sont regroupés le long de la route principale vers le Pai Canyon ou dispersés dans la vallée pour une expérience plus isolée. La petite taille de la ville signifie que presque tout est accessible à pied ou par un court trajet en moto depuis les attractions et la walking street.",
-      "gettingAround": "Grâce à la taille compacte de Pai, le centre-ville et les principales attractions sont facilement accessibles à pied, bien que certains sites nécessitent un transport. La location de moto (150-250 THB/4,50-7,50 $/jour) est l'option la plus populaire pour une exploration indépendante, offrant la flexibilité d'atteindre cascades, belvédères et villages à votre rythme. Les songthaews locaux (camionnettes rouges partagées) offrent un transport bon marché à travers la ville et vers les villages voisins, généralement 10-20 THB (0,30-0,60 $) par personne pour les courts trajets. Des tuk-tuks et services de taxi sont disponibles pour les trajets plus longs ou le transport privé, avec des tarifs négociables selon la destination. Grab, l'application de covoiturage thaïlandaise, fonctionne à Pai et offre un transport fiable à prix fixe. Pour les longs trajets, des bus relient Pai à Chiang Mai (3-4 heures, 100-150 THB/3-5 $) et d'autres villes du nord, au départ de la gare routière centrale.",
-      "bestTimeToVisit": "La saison idéale pour visiter Pai s'étend de novembre à février, lorsque le nord de la Thaïlande connaît un temps frais et sec parfait pour l'exploration en plein air. Les températures diurnes oscillent entre 20-25°C avec des matinées fraîches idéales pour les randonnées au lever du soleil vers le Pai Canyon, tandis que les soirées fraîches sont parfaites pour flâner sur la Walking Street. De mars à mai, des conditions chaudes et poussiéreuses avec des températures atteignant 35°C+ rendent les activités de plein air moins confortables malgré un temps clair. La saison des moussons de juin à octobre apporte de fortes pluies qui transforment le paysage en un vert luxuriant mais rendent les randonnées et les visites de cascades difficiles. Novembre marque l'arrivée idéale lorsque les brumes de montagne se dissipent et que les températures baissent, tandis que décembre-janvier attire le plus de visiteurs. Février reste excellent avec un temps frais persistant et moins d'affluence que la haute saison. Pour éviter la foule tout en profitant du beau temps, début novembre ou fin janvier offrent l'équilibre idéal.",
-      "safetyTips": "Pai est généralement très sûr pour les voyageurs avec les précautions habituelles. La communauté est accueillante et la criminalité envers les touristes est minimale, bien que les règles de sécurité standard s'appliquent — évitez d'exhiber des objets de valeur, rangez vos biens précieux et utilisez des taxis enregistrés ou Grab pour les transports tardifs plutôt que de marcher seul dans l'obscurité. La location de moto est courante mais requiert de la prudence ; assurez-vous d'avoir une assurance adéquate, portez un casque (obligatoire par la loi) et soyez conscient que les conditions routières peuvent être difficiles en saison des pluies. L'atmosphère décontractée de la ville masque parfois la réalité des lois strictes de la Thaïlande en matière de drogues — la possession de toute substance réglementée peut entraîner de lourdes peines incluant de longues peines de prison, évitez donc complètement les drogues malgré leur disponibilité. Méfiez-vous des vendeurs trop insistants ou des arnaques sur le marché de la walking street ; restez fidèle aux vendeurs établis et soyez prudent face aux offres anormalement avantageuses. L'eau du robinet est généralement potable à Pai, mais beaucoup de voyageurs préfèrent l'eau en bouteille. Les soins de santé sont disponibles dans les cliniques locales pour les problèmes mineurs, mais les soins médicaux sérieux nécessitent un déplacement à Chiang Mai.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Die 762 Kurven von Chiang Mai nach Pai sind nicht einfach eine Straße — sie sind ein Übergangsritual. Als ich endlich aus dem Minibus stieg nach drei übelkeitserregenden Stunden voller Haarnadelkurven, traf mich die kühle Bergluft wie eine Belohnung ins Gesicht. Pai liegt auf etwa 630 Metern über dem Meeresspiegel in einem üppigen Tal, das vom Pai-Fluss geformt wurde, und sobald man ankommt, scheint die Zeit langsamer zu laufen. Die Hauptstraße, Chaisongkhram Road, ist eine einspurige Reihe von Pensionen, Reggae-Bars, Tattoo-Studios und Bio-Cafés, die sich mehr wie ein südostasiatisches Woodstock anfühlt als wie eine thailändische Kleinstadt. Ich checkte im Pai Village Boutique Resort am Stadtrand ein und verbrachte meinen ersten Abend schlendernd über den Walking Street-Markt, wo thailändische Hippies in Batik handgefertigten Schmuck neben Großmüttern verkauften, die Satay-Spieße für 10 Baht das Stück grillten.\n\nAm nächsten Morgen mietete ich ein Motorrad für 150 Baht pro Tag bei Aya Service auf der Chaisongkhram Road und fuhr zum Pai Canyon — lokal als Kong Lan bekannt. Der schmale Gratpfad fällt zu beiden Seiten steil ab, und entlang des Bergrückens zu wandern, während sich das Tal unter einem ausbreitet, ist aufrichtig aufregend. Ich kam bei Sonnenaufgang an und hatte den Ort ganz für mich allein, der Nebel brannte von den Reisfeldern unten wie Dampf aus einem Kessel. Von dort fuhr ich nordwärts zu den Pai Hot Springs im Huai Nam Dang Nationalpark, wo ein warmer Bach natürliche Felsbecken unter turmhohen Bäumen speist. Die Wassertemperatur liegt an der Quelle bei etwa 80 Grad Celsius, aber flussabwärts erreichen die Becken eine perfekte Badetemperatur. Ich hatte Eier vom 7-Eleven mitgebracht und kochte sie in der heißen Quelle, wie es die Einheimischen tun.\n\nDer Nachmittag rief mich zur berühmten Bambusbrücke — Boon Ko Ku So Bridge — bei Wat Su Tong Pae, einem schlanken Bambus-Laufsteg, der sich über 800 Meter über smaragdgrüne Reisfelder zu einem kleinen Meditationstempel erstreckt. Die Brücke schwingt sanft unter den Füßen und knarrt bei jedem Schritt, und im späten Nachmittagslicht leuchten die Reisfelder in einem fast elektrischen Grün. Ein Mönch am Tempel bot mir einen Segen an und band ein weißes Fadenarmband um mein Handgelenk, ein Moment stiller Freundlichkeit, den ich noch immer bei mir trage. In der Nähe serviert das Chinesische Dorf (Santichon) Tee und gedämpfte Brötchen im Yunnan-Stil, eine Erinnerung an die Kuomintang-Flüchtlinge, die sich vor Jahrzehnten in diesen Bergen niederließen.\n\nDie Gastronomieszene von Pai übertrifft weit, was man von einer Stadt mit 2.200 Einwohnern erwarten würde. Bei Na's Kitchen auf der Rungsiyanon Road aß ich das beste Pad Thai meiner gesamten Reise — im Wok geschwenkte Nudeln mit frischen Garnelen und einem Spritzer Tamarinde. Charlie & Leks serviert nordthailändische Wurst (Sai Oua), die vor Zitronengras und Kaffir-Limette nur so platzt, während The Om Garden Cafe am Flussufer ausgezeichnete Smoothie-Bowls und vegane Currys zubereitet. Zum Abendessen serviert Witching Well auf der Chaisongkhram Road handwerkliche Cocktails und holzofengebackene Pizza auf einer laternenbeleuchteten Terrasse. Die Stadt leert sich gegen 22 Uhr, und die darauffolgende Stille ist bemerkenswert — nur Grillen, Frösche und das ferne Rauschen des Pai-Flusses.\n\nWas Pai besonders macht, ist nicht eine einzelne Attraktion, sondern der kumulative Effekt des Ortes. Man kommt für eine Nacht und bleibt eine Woche. Der Rhythmus aus Roller mieten, einen versteckten Wasserfall wie Mo Paeng oder Pam Bok entdecken, in heißen Quellen einweichen, Mango Sticky Rice auf dem Nachtmarkt essen und den Sonnenuntergang vom Pai Canyon beobachten wird süchtig machend. Die Stadt zieht eine wunderbare Mischung an aus thailändischen Wochenendausflüglern aus Chiang Mai, langzeitreisenden digitalen Nomaden, Gap-Year-Backpackern und ergrauten Hippies, die in den 90ern kamen und nie wieder gingen. Alle bewegen sich im gleichen gemächlichen Tempo, und diese kollektive Hingabe an die Langsamkeit ist Pais größtes Geschenk.",
-      "overview": "Eingebettet in ein grünes Tal umgeben von nebelverhangenen Berggipfeln in der Provinz Mae Hong Son ist Pai die ultimative Bohème-Flucht und das Backpacker-Paradies Nordthailands. Diese entspannte Bergstadt mit nur 2.200 Einwohnern wurde berühmt für ihre Gegenkultur-Atmosphäre, atemberaubende Naturattraktionen und eine blühende Gemeinschaft aus digitalen Nomaden, Künstlern und Reisenden, die eine Alternative zu Thailands touristischeren Destinationen suchen. Vom dramatischen Pai Canyon mit seinen schmalen Gratpfaden und Panorama-Talblicken bis zu den therapeutischen Pai Hot Springs, wo man Eier in natürlichen Mineralbädern kochen kann, dient die Stadt als perfekte Ausgangsbasis für die Erkundung unberührter Wasserfälle, Meditationstempel und authentischer Bergstammkultur.",
-      "thingsToDo": "Die Hauptattraktionen von Pai verbinden Outdoor-Abenteuer mit kulturellen Erlebnissen. Beginnen Sie am Pai Canyon (Kong Lan), einem kostenlosen Naturwunder, wo Sonnenaufgangswanderer schmale Gratpfade für atemberaubende Talpanoramen begehen. Der Pai Walking Street Nachtmarkt (freier Eintritt) ist voller Straßenimbisse, handgefertigtem Kunsthandwerk und Live-Musik und bietet authentische lokale Atmosphäre ohne Touristenaufschlag. Naturliebhaber sollten die Pai Hot Springs besuchen (300 THB/$9 Eintritt), um in natürlichen Mineralbecken inmitten von Waldlandschaft zu baden, oder zum Mo Paeng Wasserfall (kostenlos) für natürliche Felsrutschen und Dschungelschwimmen. Die ikonische Bambusbrücke (kostenlos) eignet sich perfekt für Fotografie vor der Kulisse von Reisfeldern, während der nahegelegene Wat Nam Hoo Tempel (kostenlos) Ruhe auf einem Hügel bietet. Für kulturelle Erkundung zeigt das Chinesische Dorf/Santichon (50 THB/$1,50) Yunnan-Teehäuser und Bergblicke, und der Yun Lai Aussichtspunkt (20 THB/$0,60) kombiniert Sonnenaufgangsblicke mit traditionellen chinesischen Tee-Erlebnissen.",
-      "whereToStay": "Pai bietet Unterkünfte für jedes Budget, mit der höchsten Konzentration nahe der Walking Street und dem Stadtzentrum. Budget-Reisende finden Pensionen für 250-500 THB ($7-15/Nacht) mit einfachen aber sauberen Zimmern und Gemeinschaftsbereichen, perfekt um andere Backpacker kennenzulernen. Mittelklasse-Hotels und Bungalows (600-1.500 THB/$18-45/Nacht) bieten mehr Komfort mit eigenem Bad, Klimaanlage und kleinen Annehmlichkeiten wie Cafés oder Gärten. Verschiedene Öko-Lodges und resortähnliche Unterkünfte bedienen Gäste, die mehr Luxus suchen (1.500-4.000+ THB/$45-120+/Nacht) mit modernen Einrichtungen, Pools und Bergblick. Viele Unterkünfte gruppieren sich entlang der Hauptstraße Richtung Pai Canyon oder verteilen sich über das Tal für ein abgeschiedeneres Erlebnis. Die geringe Größe der Stadt bedeutet, dass fast alles zu Fuß oder mit einer kurzen Motorradfahrt von Attraktionen und der Walking Street erreichbar ist.",
-      "gettingAround": "Durch die kompakte Größe von Pai sind das Stadtzentrum und die wichtigsten Attraktionen gut zu Fuß erreichbar, obwohl manche Orte Transport erfordern. Motorradverleih (150-250 THB/$4,50-7,50/Tag) ist die beliebteste Option für unabhängige Erkundung und bietet Flexibilität, um Wasserfälle, Aussichtspunkte und Dörfer im eigenen Tempo zu erreichen. Lokale Songthaews (geteilte rote Trucks) bieten günstigen Transport durch die Stadt und zu nahegelegenen Dörfern, üblicherweise 10-20 THB ($0,30-0,60) pro Person für kurze Fahrten. Tuk-Tuks und Taxidienste sind für längere Strecken oder Privattransport verfügbar, mit verhandelbaren Preisen je nach Ziel. Grab, Thailands Ride-Hailing-App, funktioniert in Pai und bietet zuverlässigen Transport mit Festpreisen. Für Fernreisen verbinden Busse Pai mit Chiang Mai (3-4 Stunden, 100-150 THB/$3-5) und anderen nördlichen Städten, mit Abfahrt vom zentralen Busbahnhof.",
-      "bestTimeToVisit": "Die ideale Besuchszeit für Pai erstreckt sich von November bis Februar, wenn Nordthailand kühles und trockenes Wetter erlebt, perfekt für Erkundungen im Freien. Tagestemperaturen liegen bei 20-25°C mit frischen Morgenstunden, ideal für Sonnenaufgangswanderungen zum Pai Canyon, während kühle Abende perfekt zum Schlendern über die Walking Street sind. März bis Mai bringt heiße, staubige Bedingungen mit Temperaturen über 35°C, was Outdoor-Aktivitäten trotz klarem Himmel weniger angenehm macht. Die Monsunzeit von Juni bis Oktober bringt starke Regenfälle, die die Landschaft in üppiges Grün verwandeln, aber Wanderungen und Wasserfallbesuche erschweren. November markiert die ideale Ankunft, wenn sich die Bergnebel lichten und die Temperaturen sinken, während Dezember-Januar die meisten Besucher anzieht. Februar bleibt ausgezeichnet mit anhaltendem kühlem Wetter und weniger Gedränge als in der Hochsaison. Um Menschenmengen zu vermeiden und dennoch gutes Wetter zu genießen, bieten Anfang November oder Ende Januar den idealen Kompromiss.",
-      "safetyTips": "Pai ist für Reisende mit normalen Vorsichtsmaßnahmen generell sehr sicher. Die Gemeinschaft ist gastfreundlich und Kriminalität gegen Touristen ist minimal, wobei die üblichen Reisesicherheitsregeln gelten — vermeiden Sie das Zeigen teurer Gegenstände, verwahren Sie Wertsachen sicher und nutzen Sie registrierte Taxis oder Grab für späte Fahrten, anstatt allein im Dunkeln zu laufen. Motorradverleih ist üblich, erfordert aber Vorsicht; stellen Sie eine angemessene Versicherung sicher, tragen Sie Helme (gesetzlich vorgeschrieben) und beachten Sie, dass die Straßenverhältnisse in der Regenzeit schwierig sein können. Die entspannte Atmosphäre der Stadt verdeckt manchmal die Realität von Thailands strengen Drogengesetzen — der Besitz jeglicher kontrollierter Substanzen kann schwere Strafen einschließlich langer Gefängnisstrafen nach sich ziehen, meiden Sie Drogen daher trotz ihrer Verfügbarkeit vollständig. Achten Sie auf übermäßig aufdringliche Verkäufer oder Betrug auf dem Walking Street-Markt; bleiben Sie bei etablierten Händlern und seien Sie vorsichtig bei ungewöhnlich guten Angeboten. Leitungswasser ist in Pai generell trinkbar, aber viele Reisende bevorzugen Flaschenwasser. Medizinische Versorgung ist in lokalen Kliniken für kleinere Probleme verfügbar, aber ernsthafte medizinische Behandlung erfordert eine Fahrt nach Chiang Mai.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "从清迈到拜县（Pai）的762个弯道不仅仅是一条路——它更像是一场成年礼。当我在经历了三个小时令人作呕的发夹弯后终于从小巴上走下来时，凉爽的山间空气像一份奖赏般扑面而来。拜县海拔约630米，坐落在拜河冲刷而成的翠绿山谷中，到达的那一刻，时间仿佛慢了下来。主街Chaisongkhram路是一条单车道，两旁排列着客栈、雷鬼酒吧、纹身工作室和有机咖啡馆，感觉更像是一个东南亚的伍德斯托克而非泰国小镇。我入住了镇边的Pai Village Boutique Resort，第一个晚上就去逛步行街夜市——穿着扎染的泰国嬉皮士在旁边卖手工首饰，隔壁的老奶奶在烤10泰铢一串的沙嗲。\n\n第二天早上，我在Chaisongkhram路的Aya Service租了一辆摩托车，150泰铢一天，骑到了拜县峡谷——当地叫Kong Lan。狭窄的山脊小路两侧都是陡坡，沿着脊线行走，脚下山谷徐徐展开，真正令人兴奋。我在日出时到达，整个地方只属于我一个人，晨雾从下方的稻田上升腾而起，像水壶冒出的蒸汽。从那里，我向北骑到了Huai Nam Dang国家公园的拜县温泉，温暖的溪流在参天大树下注入天然岩石水池。源头水温约80摄氏度，但顺流而下的水池达到了完美的泡澡温度。我从7-Eleven带了几个鸡蛋，像当地人一样在温泉里煮着吃。\n\n下午，我被召唤到了著名的竹桥——Boon Ko Ku So Bridge——位于Wat Su Tong Pae，这座纤细的竹制栈道延伸超过800米，横跨翠绿的稻田通向一座小型冥想寺庙。桥在你脚下轻轻摇晃，每走一步都嘎吱作响，午后的光线里稻田泛着几乎是电光绿。寺庙里的一位僧侣为我诵了一段祝福，在我手腕系上一条白线手环——这个静默的善意时刻我至今珍藏。附近的中国村（Santichon）供应云南风味的茶和蒸包子，让人想起数十年前在这些山间定居的国民党难民。\n\n拜县的美食场景远超一个2,200人小镇应有的水准。在Rungsiyanon路的Na's Kitchen，我吃到了整个旅程中最棒的泰式炒粉——大火炒出锅气的面条配新鲜虾和一缕罗望子酱。Charlie & Leks的北泰香肠（sai oua）充满了香茅和青柠叶的香气，而河边的The Om Garden Cafe做出了出色的思慕昔碗和素食咖喱。晚餐去Chaisongkhram路的Witching Well，在灯笼照亮的露台上享用手工鸡尾酒和柴火烤披萨。小镇在晚上10点左右就安静了下来，随之而来的寂静非常显著——只有蟋蟀、青蛙和远处拜河的潺潺声。\n\n拜县的特别之处不在于某一个景点，而在于这个地方的累积效应。你来待一晚，结果住了一周。租辆摩托车、发现像Mo Paeng或Pam Bok这样的隐秘瀑布、泡温泉、在夜市吃芒果糯米饭、在拜县峡谷看日落——这种节奏让人上瘾。小镇吸引了一种绝妙的混合人群：从清迈来度周末的泰国人、长住的数字游牧民、间隔年的背包客，以及90年代来了就再没走的老嬉皮。所有人都以同样不紧不慢的节奏移动，而这种集体对缓慢的臣服，就是拜县最大的礼物。",
-      "overview": "拜县坐落在夜丰颂府被薄雾笼罩的山峰环绕的翠绿山谷中，是泰国北部终极的波西米亚避世之地和背包客天堂。这座只有2,200人口的悠闲山城以其反主流文化氛围、令人叹为观止的自然景观和蓬勃发展的数字游牧民、艺术家和旅行者社区而闻名——他们都在寻找泰国那些更商业化目的地的替代选择。从壮观的拜县峡谷及其狭窄山脊小径和全景山谷风光，到可以在天然矿物浴池中煮鸡蛋的治愈性拜县温泉，这座小镇是探索原生态瀑布、冥想寺庙和正宗山地部落文化的完美大本营。",
-      "thingsToDo": "拜县的主要景点将户外冒险与文化体验完美结合。从拜县峡谷（Kong Lan）开始——这个免费的自然奇观让日出徒步者沿狭窄山脊步道欣赏令人屏息的山谷全景。拜县步行街夜市（免费入场）满是街头小吃摊、手工艺品和现场音乐，提供正宗的当地氛围而没有旅游溢价。自然爱好者应该去拜县温泉（门票300泰铢/9美元）在森林环绕的天然矿物池中浸泡，或前往Mo Paeng瀑布（免费）体验天然岩石滑梯和丛林游泳。标志性的竹桥（免费）以稻田为背景，是摄影的绝佳地点；附近的Wat Nam Hoo寺（免费）在山顶提供宁静。文化探索方面，中国村/Santichon（50泰铢/1.50美元）展示云南茶馆和山景，Yun Lai观景台（20泰铢/0.60美元）将日出美景与传统中国茶体验相结合。",
-      "whereToStay": "拜县提供适合各种预算的住宿，最集中在步行街和市中心附近。预算旅行者可以找到250-500泰铢（7-15美元/晚）的客栈，房间简单但干净，公共区域非常适合结识其他背包客。中档酒店和小木屋（600-1,500泰铢/18-45美元/晚）更加舒适，有独立浴室、空调和小型设施如咖啡馆或花园。多种生态小屋和度假村式住宿服务于追求更多舒适的旅客（1,500-4,000+泰铢/45-120+美元/晚），配备现代设施、泳池和山景。许多住宿聚集在通往拜县峡谷的主路沿线，或散布在山谷中提供更隐蔽的体验。小镇的袖珍尺寸意味着几乎所有地方都可以从景点和步行街步行或短途摩托车到达。",
-      "gettingAround": "得益于拜县的紧凑尺寸，市中心和主要景点步行即可到达，不过有些地方需要交通工具。摩托车租赁（150-250泰铢/4.50-7.50美元/天）是独立探索最受欢迎的选择，灵活自由地按自己的节奏到达瀑布、观景台和村庄。当地双条车（红色共享卡车）在镇内和周边村庄间提供廉价交通，通常短途每人10-20泰铢（0.30-0.60美元）。突突车和出租车服务适合较远距离或私人出行，价格可协商。泰国的打车应用Grab在拜县可用，提供可靠的固定价格交通。长途方面，巴士连接拜县与清迈（3-4小时，100-150泰铢/3-5美元）及其他北部城市，从中央巴士站出发。",
-      "bestTimeToVisit": "拜县的最佳旅游季节为11月至2月，泰国北部此时天气凉爽干燥，非常适合户外探索。白天温度在20-25°C之间，清晨凉爽适合日出时分徒步拜县峡谷，凉爽的夜晚则完美适合漫步步行街。3月至5月炎热干燥，气温超过35°C，尽管天气晴朗但户外活动不太舒适。6月至10月的季风季节带来强降雨，将景观变成郁郁葱葱的绿色，但使徒步和瀑布探访变得困难。11月是理想的到达时间，山雾消散、气温下降；12月至1月吸引最多游客。2月依然出色，凉爽天气持续且比旺季人少。要在避开人潮的同时享受好天气，11月初或1月末提供最佳平衡。",
-      "safetyTips": "拜县对旅行者来说总体非常安全，采取正常预防措施即可。社区热情友好，针对游客的犯罪很少，不过标准旅行安全须知仍然适用——避免炫耀贵重物品，妥善保管财物，深夜出行使用正规出租车或Grab而非独自在黑暗中行走。摩托车租赁很常见但需要谨慎；确保有足够的保险，佩戴头盔（法律要求），并注意雨季路况可能恶劣。小镇的悠闲氛围有时会掩盖泰国严格禁毒法律的现实——持有任何管制物质可能导致包括长期监禁在内的严厉处罚，因此尽管毒品可能容易获取，也要完全远离。在步行街夜市注意过于激进的推销者或骗局；选择信誉好的摊位，对异常划算的交易保持警惕。拜县的自来水一般可以饮用，但许多旅行者偏好瓶装水。当地诊所可处理小毛病，但严重的医疗问题需要前往清迈。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "762 поворота от Чиангмая до Пая — это не просто дорога, это обряд посвящения. Когда я наконец выбрался из минивэна после трёх тошнотворных часов шпилечных поворотов, прохладный горный воздух ударил мне в лицо как награда. Пай расположен примерно на 630 метрах над уровнем моря в пышной долине, прорезанной рекой Пай, и с момента приезда время словно замедляется. Главная улица, Чайсонгкхрам-роуд — это одна полоса гестхаусов, регги-баров, тату-салонов и органических кафе, больше напоминающая юго-восточноазиатский Вудсток, чем тайский городок. Я заселился в Pai Village Boutique Resort на окраине и первый вечер провёл, бродя по рынку Walking Street, где тайские хиппи в тай-дай продавали самодельные украшения рядом с бабушками, жарящими шашлычки-сатай по 10 бат за штуку.\n\nНа следующее утро я арендовал мотоцикл за 150 бат в день в Aya Service на Чайсонгкхрам-роуд и поехал к каньону Пай — местные называют его Конг Лан. Узкая тропа по гребню обрывается по обе стороны, и идти по хребту, пока внизу разворачивается долина — по-настоящему захватывающе. Я приехал на рассвете и был здесь совершенно один, туман поднимался с рисовых полей внизу, словно пар из чайника. Оттуда я поехал на север к горячим источникам Пая в Национальном парке Хуай Нам Данг, где тёплый ручей питает естественные каменные бассейны под высоченными деревьями. Температура воды у истока около 80 градусов, но ниже по течению бассейны остывают до идеальной для купания. Я привёз яйца из 7-Eleven и сварил их в горячем источнике, как это делают местные.\n\nПосле обеда меня позвал знаменитый бамбуковый мост — Бун Ко Ку Со — у Ват Су Тонг Пэ: тонкий бамбуковый настил, протянувшийся более чем на 800 метров через изумрудные рисовые поля к маленькому храму для медитации. Мост мягко покачивается под ногами и поскрипывает при каждом шаге, а в предзакатном свете рисовые поля светятся почти электрическим зелёным. Монах в храме предложил мне благословение и повязал белую нить на запястье — момент тихой доброты, который я храню до сих пор. Неподалёку Китайская деревня (Сантичон) подаёт чай и паровые булочки в юньнаньском стиле — напоминание о беженцах Гоминьдана, поселившихся в этих горах десятилетия назад.\n\nГастрономическая сцена Пая далеко превосходит ожидания от городка с 2 200 жителями. В Na's Kitchen на Рунгсиянон-роуд я съел лучший пад тай за всю поездку — обжаренная на воке лапша со свежими креветками и каплей тамаринда. Charlie & Leks подаёт северотайскую колбаску (сай уа), взрывающуюся вкусом лемонграсса и каффир-лайма, а The Om Garden Cafe у реки готовит отличные смузи-боулы и веганские карри. На ужин — Witching Well на Чайсонгкхрам-роуд с крафтовыми коктейлями и пиццей из дровяной печи на террасе при свете фонариков. Городок пустеет к 10 вечера, и наступающая тишина поразительна — только сверчки, лягушки и далёкий гул реки Пай.\n\nОсобенность Пая не в какой-то одной достопримечательности, а в кумулятивном эффекте места. Приезжаешь на ночь — остаёшься на неделю. Ритм аренды скутера, открытия скрытых водопадов вроде Мо Пэнг или Пам Бок, купания в горячих источниках, поедания манго с клейким рисом на ночном рынке и наблюдения за закатом с каньона Пай становится зависимостью. Городок притягивает чудесную смесь тайских уикендеров из Чиангмая, долгоживущих цифровых кочевников, бэкпекеров на gap year и постаревших хиппи, приехавших в 90-х и так и не уехавших. Все движутся в одном неторопливом темпе, и эта коллективная капитуляция перед медленностью — величайший дар Пая.",
-      "overview": "Пай, расположенный в зелёной долине среди окутанных туманом горных вершин провинции Мэхонгсон — это воплощение богемного уединения и рай для бэкпекеров в Северном Таиланде. Этот расслабленный горный городок с населением всего 2 200 человек прославился атмосферой контркультуры, потрясающими природными достопримечательностями и процветающим сообществом цифровых кочевников, художников и путешественников, ищущих альтернативу более туристическим направлениям Таиланда. От впечатляющего каньона Пай с его узкими тропами по гребню и панорамными видами на долину до целебных горячих источников Пай, где можно варить яйца в природных минеральных бассейнах — городок служит идеальной базой для исследования нетронутых водопадов, медитативных храмов и подлинной культуры горных племён.",
-      "thingsToDo": "Главные достопримечательности Пая сочетают приключения на природе с культурным опытом. Начните с каньона Пай (Конг Лан) — бесплатного природного чуда, где на рассвете можно пройти по узким горным тропам ради потрясающих панорам долины. Ночной рынок Walking Street (вход свободный) полон уличной еды, ручных ремёсел и живой музыки, предлагая аутентичную местную атмосферу без туристической наценки. Любителям природы стоит посетить горячие источники Пай (вход 300 бат / 9 $), чтобы искупаться в природных минеральных бассейнах среди леса, или водопад Мо Пэнг (бесплатно) ради естественных каменных горок и купания в джунглях. Знаменитый бамбуковый мост (бесплатно) идеален для фотографий на фоне рисовых полей, а расположенный неподалёку храм Ват Нам Ху (бесплатно) дарит покой на вершине холма. Для культурных исследований — Китайская деревня Сантичон (50 бат / 1,50 $) с юньнаньскими чайными домиками и горными видами, а смотровая площадка Юн Лай (20 бат / 0,60 $) сочетает рассветные панорамы с традиционным китайским чаем.",
-      "whereToStay": "Пай предлагает жильё на любой бюджет, с наибольшей концентрацией возле Walking Street и центра города. Бюджетные путешественники найдут гестхаусы за 250–500 бат (7–15 $ за ночь) с простыми, но чистыми комнатами и общими зонами — идеально для знакомства с другими бэкпекерами. Отели среднего класса и бунгало (600–1 500 бат / 18–45 $ за ночь) предлагают больший комфорт с собственной ванной, кондиционером и небольшими удобствами вроде кафе или садов. Различные эко-лоджи и курортные варианты для тех, кто ищет больше роскоши (1 500–4 000+ бат / 45–120+ $ за ночь), с современными удобствами, бассейнами и горными видами. Многие варианты размещения сгруппированы вдоль главной дороги к каньону Пай или разбросаны по долине для более уединённого опыта. Компактный размер городка означает, что почти всё находится в пешей доступности или на расстоянии короткой поездки на мотоцикле от достопримечательностей и Walking Street.",
-      "gettingAround": "Благодаря компактному размеру Пая центр города и основные достопримечательности легко обойти пешком, хотя до некоторых мест нужен транспорт. Аренда мотоцикла (150–250 бат / 4,50–7,50 $ в день) — самый популярный вариант для самостоятельного исследования, дающий свободу добраться до водопадов, смотровых площадок и деревень в своём темпе. Местные сонгтэо (красные маршрутные грузовички) обеспечивают дешёвый транспорт по городу и до ближайших деревень, обычно 10–20 бат (0,30–0,60 $) за человека. Тук-туки и такси доступны для более длинных маршрутов или частных поездок, цены договорные. Приложение Grab работает в Пае и предлагает надёжный транспорт по фиксированной цене. Для дальних поездок автобусы связывают Пай с Чиангмаем (3–4 часа, 100–150 бат / 3–5 $) и другими северными городами, отправляясь с центральной автостанции.",
-      "bestTimeToVisit": "Идеальное время для посещения Пая — с ноября по февраль, когда на севере Таиланда стоит прохладная сухая погода, прекрасно подходящая для прогулок на свежем воздухе. Дневная температура 20–25°C со свежими утрами, идеальными для рассветных походов к каньону Пай, а прохладные вечера — для прогулок по Walking Street. С марта по май жарко и пыльно, температура поднимается выше 35°C, что делает активный отдых менее комфортным, несмотря на ясное небо. Сезон муссонов с июня по октябрь приносит сильные дожди, превращающие пейзаж в пышную зелень, но затрудняющие треккинг и посещение водопадов. Ноябрь — идеальное время прибытия: горный туман рассеивается, температура падает. Декабрь–январь привлекает больше всего гостей. Февраль остаётся отличным с прохладной погодой и меньшей загруженностью. Для баланса хорошей погоды и отсутствия толп идеальны начало ноября или конец января.",
-      "safetyTips": "Пай в целом очень безопасен для путешественников при соблюдении обычных мер предосторожности. Сообщество приветливо, преступления против туристов минимальны, хотя стандартные правила безопасности действуют — не демонстрируйте ценные вещи, храните имущество в безопасности, для поздних поездок используйте зарегистрированные такси или Grab, а не ходите в одиночку в темноте. Аренда мотоциклов распространена, но требует осторожности: убедитесь в наличии адекватной страховки, носите шлем (требование закона), учитывайте, что дорожные условия могут быть сложными в сезон дождей. Расслабленная атмосфера городка иногда маскирует реальность строгих антинаркотических законов Таиланда — хранение любых контролируемых веществ грозит суровыми наказаниями, включая длительные сроки заключения, поэтому полностью избегайте наркотиков, несмотря на их доступность. Будьте осторожны с навязчивыми продавцами или мошенничеством на рынке Walking Street; выбирайте проверенных торговцев и относитесь с подозрением к слишком выгодным предложениям. Водопроводная вода в Пае в целом пригодна для питья, но многие путешественники предпочитают бутилированную. Местные клиники справляются с мелкими проблемами, но серьёзная медицинская помощь требует поездки в Чиангмай.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "빠이는 태국 북부 매홍손 지방의 푸른 골짜기에 자리한 보헤미안 산간 마을입니다. 치앙마이에서 762개의 커브를 따라 약 3시간을 달려야 도착하는 이 작은 마을은, 1990년대부터 배낭여행자들의 성지로 자리잡았습니다.\n\n빠이 캐니언은 마을의 가장 인기 있는 명소로, 좁은 능선을 따라 걸으며 아래로 펼쳐진 골짜기의 장관을 감상할 수 있습니다. 특히 일몰 시간의 풍경이 압도적입니다. 타이야이 온천에서는 자연 온천수에 몸을 담그며 정글 속에서 힐링할 수 있습니다.\n\n워킹스트리트 야시장은 매일 저녁 열리며, 수제 주얼리, 보헤미안 패션, 그리고 다양한 길거리 음식을 맛볼 수 있습니다. 빠이의 매력은 시간이 느리게 흐르는 듯한 여유로운 분위기에 있습니다. 카페에서 책을 읽고, 오토바이로 폭포를 탐험하고, 요가 수업에 참여하는 것이 빠이의 일상입니다.",
-      "hidden_gems": [
-        {
-          "name": "랜드 스플릿",
-          "description": "지진으로 땅이 갈라진 독특한 자연 현상으로, 현지 농부가 관리합니다."
-        },
-        {
-          "name": "롯 동굴",
-          "description": "대나무 뗏목으로 동굴 속 강을 탐험하는 장대한 석회암 동굴입니다."
-        },
-        {
-          "name": "빠이 트리하우스",
-          "description": "나무 위 숙소에서 논밭과 산 풍경을 내려다보는 독특한 경험입니다."
-        },
-        {
-          "name": "카페 아마존 빠이강변",
-          "description": "강변의 한적한 카페로, 여유로운 휴식처입니다."
-        },
-        {
-          "name": "윤라이 전망대",
-          "description": "빠이 골짜기의 360도 파노라마를 감상할 수 있는 전망대입니다."
-        }
-      ],
-      "authentic_experiences": [],
-      "foodie_adventures": [],
-      "overview": "빠이는 매홍손 지방의 푸른 골짜기에 자리한 보헤미안 산간 마을로, 태국 북부 배낭여행자들의 성지입니다. 캐니언, 온천, 폭포, 워킹스트리트 야시장이 주요 볼거리입니다.",
-      "thingsToDo": "빠이 캐니언에서 일몰을 감상하고, 타이야이 온천에서 정글 속 힐링을 즐기세요. 빠이 대나무 다리를 건너고, 모파엥 폭포에서 수영하세요. 매일 저녁 열리는 워킹스트리트 야시장에서 길거리 음식과 쇼핑을 즐기세요.",
-      "whereToStay": "빠이는 모든 예산에 맞는 숙소를 제공합니다. 시내 중심에 게스트하우스와 호스텔이 밀집해 있고, 외곽에는 논밭이 보이는 방갈로와 리조트가 있습니다. 성수기(11-2월)에는 예약을 추천합니다.",
-      "gettingAround": "빠이는 컴팩트하여 시내 중심은 도보로 충분합니다. 외곽 명소(캐니언, 온천, 폭포)는 오토바이 대여(150-250바트/일)가 가장 편리합니다. 762개 커브의 산악 도로이므로 운전에 자신 있는 분만 오토바이를 추천합니다.",
-      "bestTimeToVisit": "빠이의 최적 방문 시기는 11월부터 2월까지로, 서늘하고 건조한 날씨가 이어집니다. 12-1월 밤 기온은 10°C 이하로 떨어질 수 있으니 따뜻한 옷을 준비하세요. 3-4월은 연무 시즌입니다.",
-      "safetyTips": "빠이는 안전한 마을이지만, 오토바이 사고가 빈번합니다. 반드시 헬멧을 착용하고, 운전 경험이 적다면 대여를 피하세요. 762개 커브의 산악 도로는 특히 주의가 필요합니다. 밤에 비포장 도로 운전은 피하세요.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
-    }
-  },
-  "extended_description": "## Overview\nPai is a small mountain town of roughly 2,200 permanent residents tucked into a verdant valley in Mae Hong Son Province, about 135 kilometers northwest of Chiang Mai. Reached via a legendary road with 762 curves winding through misty mountain passes, Pai has evolved from a quiet farming village into northern Thailand's most beloved backpacker hub — a place where bamboo bridges cross rice paddies, hot springs steam beside jungle rivers, and the walking street night market transforms the main road into a carnival of food stalls and live music every evening. Despite its popularity, Pai retains a genuinely laid-back bohemian atmosphere that has drawn artists, yogis, digital nomads, and long-term travelers for decades. The surrounding countryside of waterfalls, canyons, hill-tribe villages, and terraced rice fields makes it one of Thailand's most scenically rewarding destinations.\n\n## Best Time to Visit\nNovember through February is peak season with cool temperatures (daytime 25-30°C, nighttime dropping to 10-15°C in December-January — bring warm layers). Skies are clear, rice fields golden, and the valley mist creates magical morning landscapes. This is also the busiest period, so book accommodation ahead on weekends and holidays. March through April brings the burning season when farmers clear fields, creating thick haze that ruins visibility — avoid these months. May through October is green season with lush landscapes and occasional afternoon rain showers, plus significantly fewer tourists and lower prices. The Pai Jazz Festival and Loy Krathong in November add festive energy.\n\n## How to Get There\nThe standard route is a minibus from Chiang Mai's Arcade Bus Station operated by Aya Service or Prempracha Transport, costing 150-200 THB per person and taking 3-3.5 hours over the famous 762 curves. Book in advance during peak season as seats sell out. Motion sickness pills are strongly recommended — the road is genuinely nauseous for many riders. Alternatively, rent a motorbike in Chiang Mai for a thrilling but demanding ride (one-way rentals available from Aya Service for 200-300 THB). There is no train or airport in Pai. From Bangkok, fly to Chiang Mai (1-2 hours, 1,000-3,000 THB) then catch the minibus. Some travelers arrive from Mae Hong Son (2-3 hours by minibus, 150 THB), completing the famous Mae Hong Son Loop.\n\n## Where to Stay\nPai's accommodation ranges from ultra-budget bamboo huts to boutique riverside resorts. The town center along Walking Street has hostels with dorm beds from 150-250 THB/night and private rooms from 300-500 THB. For more atmosphere, head to the guesthouses south of town along the Pai River where bungalows with river views start from 400-800 THB/night. The rice paddy area north of town features Instagram-famous bamboo bungalows and treehouse-style accommodation from 500-1,200 THB/night. Mid-range resorts with pools cluster along the road to Pai Hot Springs, with rooms from 1,000-2,500 THB/night. During cool-season weekends and Thai holidays, prices jump and availability tightens — book 1-2 weeks ahead.\n\n## What to Do\nPai Canyon (Kong Lan) is the most iconic viewpoint — a narrow ridge of eroded sandstone with dizzying drop-offs on both sides and panoramic valley views, especially stunning at sunset. Free entry, 8 km south of town. Pai Hot Springs in Huai Nam Dang National Park (entry 300 THB for foreigners) features natural mineral pools where you can soak among the trees — the lower pools are comfortably warm while the upper streams are genuinely hot. The bamboo bridge (Kho Ku So) stretching across rice paddies is best visited in the green season (July-October) when the fields are vivid emerald. Pai Walking Street transforms the main road nightly from 18:00 into a bustling market with handmade crafts, tie-dye clothes, and dozens of food vendors. Pam Bok Waterfall (free, 8 km south) has a natural swimming hole perfect on hot days. The Chinese village of Santichon offers Yunnan-style tea houses and viewpoints. Land Split (free entry) is a quirky geological fissure with a charming garden cafe where the elderly owner serves free herbal tea.\n\n## Food & Dining\nPai's food scene punches well above its size. The Walking Street night market is the main event, with vendors selling everything from pad thai (40-60 THB) and khao soi (northern curry noodles, 50-80 THB) to rotis with Nutella (30-40 THB) and fresh mango sticky rice (60-80 THB). For sit-down meals, the backpacker restaurants along Chaisongkhram Road serve Thai and Western dishes from 60-150 THB. Na's Kitchen and Charlie & Lek are long-standing favorites for authentic northern Thai food. The organic and vegetarian scene is strong — Pai has multiple health-food cafes serving smoothie bowls, vegan curries, and cold-pressed juices (80-150 THB). For coffee, Pai's dozens of quirky hillside cafes with mountain views charge 50-100 THB for espresso drinks. Morning markets near the bus station sell fresh khao soi and jok (rice porridge) from 30-40 THB.\n\n## Budget Guide\nPai is very backpacker-friendly. Shoestring travelers manage on 500-800 THB/day ($14-22) with a dorm bed, street food, and free attractions like Pai Canyon and Land Split. Comfortable budget travelers spending 1,000-1,600 THB/day ($28-45) get a private bungalow, restaurant meals, and motorbike rental. Mid-range visitors budget 2,000-3,500 THB/day ($55-97) for boutique resorts and activities. Motorbike rental costs 150-250 THB/day and is essential for reaching attractions outside town. Many natural sights (Pai Canyon, Pam Bok Waterfall, bamboo bridge, Land Split) are free.\n\n## Safety & Tips\nMotorbike accidents are by far the biggest risk in Pai — the combination of inexperienced riders, mountain roads, and loose gravel sends multiple tourists to the small local hospital daily. Always wear a helmet, check brakes before riding, and avoid night driving on unlit rural roads. The 762-curve road to Chiang Mai is not suitable for first-time riders. Take motion sickness medication before the minibus ride if you are prone to car sickness. December and January nights are genuinely cold (below 10°C) — most budget bungalows have thin walls and no heating, so bring warm clothing. The town has limited ATMs and some smaller establishments are cash-only. Pai is extremely safe in terms of crime — the biggest \"danger\" is staying longer than planned, as many travelers intended for a two-night visit and ended up spending weeks.",
-  "getting_there": {
-    "from_bangkok": {
-      "method": "Fly to Chiang Mai, then minibus (3-3.5h, 762 curves)",
-      "duration": "1-2h flight + 3-3.5h minibus",
-      "cost": "1,000-3,000 THB flight + 150-200 THB minibus"
-    },
-    "airport": "N/A — nearest airport is Chiang Mai (135 km, 3-3.5h by minibus)"
-  },
-  "best_time": {
-    "peak": "Nov-Feb",
-    "shoulder": "May-Oct",
-    "low": "Mar-Apr",
-    "best_months": "Nov-Jan",
-    "why": "Cool mountain weather with morning mist. March-April brings severe haze from burning season. December-January nights can drop below 10°C."
-  },
-  "budget": {
-    "backpacker": "$14-22/day",
-    "mid_range": "$28-45/day",
-    "luxury": "$55-97/day",
-    "typical_meal": "40-80 THB street food, 60-150 THB restaurant"
-  },
-  "neighborhoods": [
-    {
-      "name": "Town Center / Walking Street",
-      "vibe": "Lively, backpacker, night market hub",
-      "best_for": "Nightlife, food, budget hostels, socializing",
-      "price_range": "$4-14/night"
-    },
-    {
-      "name": "Pai River / South of Town",
-      "vibe": "Peaceful, riverside bungalows, nature",
-      "best_for": "Couples, relaxation, river views",
-      "price_range": "$11-22/night"
-    },
-    {
-      "name": "Rice Paddy Area / North",
-      "vibe": "Scenic, Instagram-worthy, rural charm",
-      "best_for": "Photography, boutique stays, sunrise views",
-      "price_range": "$14-33/night"
-    }
-  ],
-  "must_try_food": [
-    "Khao soi - northern Thai coconut curry noodles, the regional signature dish (50-80 THB)",
-    "Walking Street night market roti - crispy flatbread with banana and Nutella, the classic Pai street snack (30-40 THB)",
-    "Mango sticky rice - fresh mango with coconut cream and sticky rice, best from market vendors (60-80 THB)"
-  ],
-  "local_tips": [
-    "Rent a motorbike (150-250 THB/day) — it's essential for reaching Pai Canyon, hot springs, and waterfalls outside town",
-    "Take motion sickness pills before the 762-curve minibus ride from Chiang Mai — many people get sick without them",
-    "Visit Pai Canyon at sunset for the best light and avoid the midday heat on the exposed ridgeline",
-    "Bring warm clothes for December-January — nights drop below 10°C and budget bungalows have no heating",
-    "Land Split is a quirky free attraction where the elderly owner serves complimentary herbal tea in a garden cafe"
-  ],
-  "day_trips": [
-    "Tham Lod Cave (45 km north) - massive cave system with prehistoric coffins, explored by bamboo raft with a local guide (450 THB)",
-    "Mae Hong Son (3h west) - sleepy mountain town with Burmese-style temples reflected in Jong Kham Lake",
-    "Mor Paeng Waterfall (9 km south) - tiered waterfall with natural rock slides, free entry",
-    "Ban Santichon Chinese Village (5 km west) - Yunnan settlement with tea houses, clay shooting, and mountain viewpoints"
-  ],
-  "enriched_at": "2026-03-22"
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
 }

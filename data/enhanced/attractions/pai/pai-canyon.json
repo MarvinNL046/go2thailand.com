@@ -1,0 +1,79 @@
+{
+  "id": 2,
+  "slug": "pai-canyon",
+  "name": {
+    "en": "Pai Canyon",
+    "nl": "Pai Canyon"
+  },
+  "type": "nature",
+  "city_slug": "pai",
+  "address": "Kong Lan area, Pai District, Mae Hong Son, Thailand",
+  "location": null,
+  "opening_hours": "Open-air natural site; daylight visits are the practical fit and current access should be rechecked locally",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "Pai's strongest landscape stop, built around a red sandstone ridgeline and broad valley views.",
+    "nl": "Pai's sterkste landschapsstop, opgebouwd rond een rode zandstenen bergkam en brede vallei-uitzichten."
+  },
+  "highlights": [
+    "Red sandstone ridge",
+    "Broad valley views",
+    "Strong sunrise or sunset logic"
+  ],
+  "image": "/images/cities/generated/pai.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Pai Canyon | Go2Thailand",
+      "nl": "Pai Canyon | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Pai Canyon is still the strongest landscape stop in Pai and how to use it without turning the visit into brittle sunset-only copy.",
+      "nl": "Waarom Pai Canyon nog steeds de sterkste landschapsstop in Pai is en hoe je het gebruikt zonder in broze alleen-zonsondergang-copy te vervallen."
+    }
+  },
+  "tags": [
+    "pai",
+    "pai canyon",
+    "kong lan",
+    "viewpoint",
+    "mae hong son"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pai%20Canyon%20Pai",
+  "best_time": "sunrise or late afternoon",
+  "duration_hours": 1.5,
+  "enhanced_description": "Pai Canyon is still the simplest way to understand the valley as a landscape instead of as a loose collection of cafés and rural detours. The TAT framing remains useful here: the place works because of the dramatic red sandstone topography and the broad read it gives over Pai and the surrounding mountains.\n\nThat does not mean every visitor needs to commit to the narrowest ridge sections. The strongest version is to use the main viewpoints well, go when the light is softer, and let the canyon explain the valley without forcing the visit into adrenaline theater.",
+  "detailed_history": "TAT's Mae Hong Son article continues to present Pai Canyon, also known as Kong Lan, as the province's best-known sunset stop and highlights its erosion-shaped red sandstone ridge.",
+  "visitor_experience": "Expect a short approach and an open ridgeline landscape rather than a long formal trail system. The visit is strongest when you plan for footing and weather instead of treating it like a casual sandal stop.",
+  "best_time_to_visit": {
+    "time_of_day": "Sunrise or late afternoon",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Often busier around the best light windows"
+  },
+  "practical_info": {
+    "how_to_get_there": "Usually reached by short ride or drive from town, then a brief walk into the viewpoint area.",
+    "nearby_attractions": "Southern-side Pai stops such as Tha Pai Hot Spring or the memorial-bridge road can fit the same half-day.",
+    "food_options": "Use central Pai for meals before or after the visit.",
+    "shopping": "This is a landscape stop, not a shopping area."
+  },
+  "insider_tips": [
+    "Go in the morning if you want a calmer read of the ridge and valley.",
+    "Real shoes matter more here than extra itinerary volume.",
+    "You do not need to force the narrowest sections for the canyon to work."
+  ],
+  "verified_note": "Source-backed summary based on TAT's Mae Hong Son article. Conditions and local access should still be rechecked on the day.",
+  "cultural_significance": "Pai Canyon has become the valley's strongest landscape shorthand because it shows the basin, the ridge, and the western mountain line in one compact stop.",
+  "contentSources": [
+    {
+      "name": "Mae Hong Son",
+      "url": "https://www.tourismthailand.org/Articles/mae-hong-son"
+    },
+    {
+      "name": "Mae Hong Son and Pai Tourism Map",
+      "url": "https://www.maeheepai.go.th/upload/catalogs_file/catalogs_file_257_17_8_524.pdf"
+    }
+  ]
+}

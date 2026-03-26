@@ -1,0 +1,79 @@
+{
+  "id": 3,
+  "slug": "pai-hot-springs",
+  "name": {
+    "en": "Tha Pai Hot Spring",
+    "nl": "Tha Pai Hot Spring"
+  },
+  "type": "nature",
+  "city_slug": "pai",
+  "address": "Tha Pai area, Pai District, Mae Hong Son, Thailand",
+  "location": null,
+  "opening_hours": "Protected-area and onsite access conditions can change; verify current local hours before visiting",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The easiest restorative nature stop near town, with natural pools and a calmer pace than Pai's viewpoint loop.",
+    "nl": "De eenvoudigste rustgevende natuurstop dicht bij de stad, met natuurlijke baden en een rustiger tempo dan Pai's uitzichtpuntenlus."
+  },
+  "highlights": [
+    "Natural thermal pools",
+    "Near-town half-day fit",
+    "Good balance to canyon and temple stops"
+  ],
+  "image": "/images/cities/generated/pai.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Tha Pai Hot Spring | Go2Thailand",
+      "nl": "Tha Pai Hot Spring | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Tha Pai Hot Spring is one of the easiest restorative half-day stops near Pai and how to keep the visit durable and realistic.",
+      "nl": "Waarom Tha Pai Hot Spring een van de eenvoudigste rustgevende halfdaagse stops bij Pai is en hoe je het bezoek duurzaam en realistisch houdt."
+    }
+  },
+  "tags": [
+    "pai",
+    "tha pai hot spring",
+    "hot springs",
+    "mae hong son",
+    "nature"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tha%20Pai%20Hot%20Spring",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 2,
+  "enhanced_description": "Tha Pai Hot Spring is one of the few easy Pai nature stops that actually changes the pace of the trip. Instead of another viewpoint or another road detour, it gives the valley a slower restorative half-day that still stays close enough to town to be practical.\n\nAmazing Thailand's current hot-springs overview remains useful because it keeps Tha Pai visible as the main hot-spring stop in Pai rather than as an obscure side note. That is the right way to use it editorially: as one deliberate warm-water stop, not as part of a stacked checklist with multiple other nature sites in the same stretch.",
+  "detailed_history": "The official Mae Hee tourism map still marks Tha Pai Hot Spring among the key Pai District attractions, and Amazing Thailand's hot-springs feature continues to identify it as Pai's best-known hot spring.",
+  "visitor_experience": "Expect a slower stop than Pai Canyon or Mae Yen. The visit works best when you leave enough room for changing access conditions and do not rely on old fixed-price or fixed-hour assumptions.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "About 1.5 to 2 hours",
+    "crowd_level": "Can feel busier in the peak cool season"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reached by road from central Pai; verify current local access and any protected-area procedure before travel day.",
+    "nearby_attractions": "Southern Pai stops such as Pai Canyon or the memorial-bridge side can fit the same broader route.",
+    "food_options": "Plan main meals in town unless you have current on-site information.",
+    "shopping": "Not a shopping-focused stop."
+  },
+  "insider_tips": [
+    "Use this as the day's main nature-rest stop instead of overloading the same route.",
+    "Keep the wording durable because access rules and fees can change.",
+    "This is stronger as a half-day pause than as a rushed in-and-out stop."
+  ],
+  "verified_note": "Source-backed summary based on Amazing Thailand and the official Pai area tourism map. Current fees and hours should be confirmed locally.",
+  "cultural_significance": "Tha Pai Hot Spring helps balance the usual Pai mix of markets, viewpoints, and road trips by keeping the valley's thermal landscape visible in the itinerary.",
+  "contentSources": [
+    {
+      "name": "Hot Springs in Pai, Mae Hong Son, Thailand",
+      "url": "https://amazingthailand.com/hot-springs-in-pai-mae-hong-son-thailand"
+    },
+    {
+      "name": "Mae Hong Son and Pai Tourism Map",
+      "url": "https://www.maeheepai.go.th/upload/catalogs_file/catalogs_file_257_17_8_524.pdf"
+    }
+  ]
+}

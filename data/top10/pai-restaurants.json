@@ -1,261 +1,130 @@
 {
   "title": "Best Restaurants in Pai Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Pai, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Pai, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "The Pai food picks that still make sense: Walking Street, Om Garden, Two Sisters, and a small number of direct-source restaurants instead of review-site filler.",
+  "intro": "Pai's food scene is easy to pad with scraped ratings, but that does not help anyone plan the town well. The stronger shortlist keeps the center, the evening market, and a few direct-source restaurants visible, with a bias toward places that actually change how a Pai stay feels on the ground.",
   "items": [
     {
       "rank": 1,
-      "name": "Na's Kitchen",
-      "description": "Na's Kitchen is a 4.5-rated Thai, Healthy restaurant in Pai. Known for Massaman curry.",
-      "location": "Pai",
-      "current_price": "$",
+      "name": "Pai Walking Street food stalls",
+      "description": "The most useful first-night food plan in Pai because the market is still the town's clearest evening anchor.",
+      "location": "Walking Street, central Pai",
+      "current_price": "Budget",
       "highlights": [
-        "Massaman curry"
+        "TAT-backed evening food layer",
+        "Street-food variety",
+        "Best first-night meal logic"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai, Healthy • Price: $ • Rating: 4.5/5 • 752 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai, Healthy",
-        "price_range": "$",
-        "rating": 4.5,
-        "review_count": 752,
-        "highlights": [
-          "Massaman curry"
-        ],
-        "scraped_at": "2026-03-08T17:00:39.891Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DNa's%2520Kitchen%2520Pai"
+      "insider_tips": [
+        "Do this in stages and keep the night centered in town instead of rushing to a distant dinner booking."
+      ],
+      "current_info": "TAT's Mae Hong Son guide still frames Pai Walking Street as the heart of Pai nightlife, with varied street food and craft stalls across the downtown core."
     },
     {
       "rank": 2,
-      "name": "Two Sisters Restaurant",
-      "description": "Two Sisters Restaurant is a 4.8-rated Asian, Thai restaurant in Pai. Known for Delicious food.",
-      "location": "Pai",
-      "current_price": "$",
+      "name": "Om Garden Cafe",
+      "description": "A reliable breakfast or lunch pick with a calmer garden setup and a broader vegetarian-friendly range than most quick Pai stops.",
+      "location": "60/4 Wiang Tai, Pai, Mae Hong Son",
+      "current_price": "Budget to mid-range",
       "highlights": [
-        "Delicious food"
+        "Amazing Thailand listing",
+        "Garden setting",
+        "Vegetarian and vegan range"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $ • Rating: 4.8/5 • 189 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$",
-        "rating": 4.8,
-        "review_count": 189,
-        "highlights": [
-          "Delicious food"
-        ],
-        "scraped_at": "2026-03-08T17:00:39.891Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DTwo%2520Sisters%2520Restaurant%2520Pai"
+      "insider_tips": [
+        "Best used for a slower daytime meal rather than as a rushed gap between rides."
+      ],
+      "current_info": "Amazing Thailand's current listing describes Om Garden Cafe as a restaurant in the heart of Pai with Western, Mediterranean, and Asian food plus vegetarian and vegan options."
     },
     {
       "rank": 3,
-      "name": "Charlie and Leks",
-      "description": "Charlie and Leks is a 4.6-rated Asian, Thai restaurant in Pai. Known for khao soi.",
-      "location": "Pai",
-      "current_price": "$",
+      "name": "Two Sisters Restaurant",
+      "description": "A stronger regional-food inclusion than generic ranking filler because the restaurant's own site keeps the Thai and Myanmar angle visible.",
+      "location": "401 Mae Hi, Pai District, Mae Hong Son",
+      "current_price": "Budget to mid-range",
       "highlights": [
-        "khao soi"
+        "Official restaurant website",
+        "Thai and Myanmar menu",
+        "Mountain-view setting"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $ • Rating: 4.6/5 • 639 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$",
-        "rating": 4.6,
-        "review_count": 639,
-        "highlights": [
-          "khao soi"
-        ],
-        "scraped_at": "2026-03-08T17:00:39.891Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCharlie%2520and%2520Leks%2520Pai"
+      "insider_tips": [
+        "Use this when you want one meal with more regional character than the center's casual snack pattern."
+      ],
+      "current_info": "Two Sisters' direct site presents the restaurant as a Pai address serving Thai and Myanmar cuisine with mountain views."
     },
     {
       "rank": 4,
-      "name": "Witching Well Restaurant and Wine Bar",
-      "description": "Witching Well Restaurant and Wine Bar is a 4.5-rated $$ - $$$ restaurant in Pai. Known for Great location, Incredible food.",
-      "location": "Pai",
-      "current_price": "$$ - $$$",
+      "name": "The Blue Ox Steak House",
+      "description": "A polished dinner option near the center when you want a proper sit-down evening instead of only market grazing.",
+      "location": "Pai Village Boutique Resort, Wiang Tai",
+      "current_price": "Mid-range",
       "highlights": [
-        "Great location",
-        "Incredible food"
+        "Official dining page",
+        "Steaks, Thai dishes, and pasta",
+        "Close to Walking Street"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: $$ - $$$ • Price: $$ - $$$ • Rating: 4.5/5 • 823 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "$$ - $$$",
-        "price_range": "$$ - $$$",
-        "rating": 4.5,
-        "review_count": 823,
-        "highlights": [
-          "Great location",
-          "Incredible food"
-        ],
-        "scraped_at": "2026-03-08T17:00:39.891Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DWitching%2520Well%2520Restaurant%2520and%2520Wine%2520Bar%2520Pai"
+      "insider_tips": [
+        "Best kept for the evening after market or canyon time, not as a midday stop."
+      ],
+      "current_info": "Pai Village's direct dining page still presents The Blue Ox as an evening restaurant with American classics, local and imported steaks, pasta, salads, and Thai dishes."
     },
     {
       "rank": 5,
-      "name": "Om Garden Cafe",
-      "description": "Om Garden Cafe is a 4.7-rated International, Asian restaurant in Pai. Known for Avocado, mushroom, tomato and hummus, Amazing feta, beetroot and cashew nuts.",
-      "location": "Pai",
-      "current_price": "$$ - $$$",
+      "name": "Limoncello Pai",
+      "description": "A useful alternative if your Pai stay needs one wine-bar or pasta dinner in the center without falling back on scraped review sites.",
+      "location": "Pai Village Boutique Resort, Wiang Tai",
+      "current_price": "Mid-range",
       "highlights": [
-        "Avocado, mushroom, tomato and hummus",
-        "Amazing feta, beetroot and cashew nuts"
+        "Official dining page",
+        "Italian menu",
+        "Good polished second dinner"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: International, Asian • Price: $$ - $$$ • Rating: 4.7/5 • 866 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "International, Asian",
-        "price_range": "$$ - $$$",
-        "rating": 4.7,
-        "review_count": 866,
-        "highlights": [
-          "Avocado, mushroom, tomato and hummus",
-          "Amazing feta, beetroot and cashew nuts"
-        ],
-        "scraped_at": "2026-03-08T17:00:39.891Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DOm%2520Garden%2520Cafe%2520Pai"
-    },
-    {
-      "rank": 6,
-      "name": "Cafecito",
-      "description": "Cafecito is a 4.8-rated Mexican, Latin restaurant in Pai. Known for Best margaritas in Pai, Birria.",
-      "location": "Pai",
-      "current_price": "$$ - $$$",
-      "highlights": [
-        "Best margaritas in Pai",
-        "Birria"
+      "insider_tips": [
+        "This works best as the one non-market dinner on a slower two- or three-night stay."
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Mexican, Latin • Price: $$ - $$$ • Rating: 4.8/5 • 458 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Mexican, Latin",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 458,
-        "highlights": [
-          "Best margaritas in Pai",
-          "Birria"
-        ],
-        "scraped_at": "2026-03-08T17:00:39.891Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCafecito%2520Pai"
-    },
-    {
-      "rank": 7,
-      "name": "The Blue Ox",
-      "description": "The Blue Ox is a 4.3-rated Steakhouse, Bar restaurant in Pai. Known for Live music, Fine dining.",
-      "location": "Pai",
-      "current_price": "$$ - $$$",
-      "highlights": [
-        "Live music",
-        "Fine dining"
-      ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Steakhouse, Bar • Price: $$ - $$$ • Rating: 4.3/5 • 239 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Steakhouse, Bar",
-        "price_range": "$$ - $$$",
-        "rating": 4.3,
-        "review_count": 239,
-        "highlights": [
-          "Live music",
-          "Fine dining"
-        ],
-        "scraped_at": "2026-03-08T17:00:39.891Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Blue%2520Ox%2520Pai"
-    },
-    {
-      "rank": 8,
-      "name": "Maya Burger Queen",
-      "description": "Maya Burger Queen is a 4.3-rated American, Fast Food restaurant in Pai. Known for Beef burger.",
-      "location": "Pai",
-      "current_price": "$",
-      "highlights": [
-        "Beef burger"
-      ],
-      "insider_tips": [],
-      "current_info": "Cuisine: American, Fast Food • Price: $ • Rating: 4.3/5 • 1.034 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "American, Fast Food",
-        "price_range": "$",
-        "rating": 4.3,
-        "review_count": 1034,
-        "highlights": [
-          "Beef burger"
-        ],
-        "scraped_at": "2026-03-08T17:00:39.891Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMaya%2520Burger%2520Queen%2520Pai"
-    },
-    {
-      "rank": 9,
-      "name": "Silhouette Restaurant and Bar",
-      "description": "Silhouette Restaurant and Bar is a 4.6-rated Italian, Mediterranean restaurant in Pai.",
-      "location": "Pai",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian, Mediterranean • Price: $$ - $$$ • Rating: 4.6/5 • 308 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, Mediterranean",
-        "price_range": "$$ - $$$",
-        "rating": 4.6,
-        "review_count": 308,
-        "scraped_at": "2026-03-08T17:00:39.891Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSilhouette%2520Restaurant%2520and%2520Bar%2520Pai"
-    },
-    {
-      "rank": 10,
-      "name": "THAM MA DA Cafe' Coffee Bar's Restuarant",
-      "description": "THAM MA DA Cafe' Coffee Bar's Restuarant is a 5-rated Cafe, European restaurant in Pai. Known for Pad Thai sauce.",
-      "location": "Pai",
-      "current_price": "$$$$",
-      "highlights": [
-        "Pad Thai sauce"
-      ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Cafe, European • Price: $$$$ • Rating: 5/5 • 66 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Cafe, European",
-        "price_range": "$$$$",
-        "rating": 5,
-        "review_count": 66,
-        "highlights": [
-          "Pad Thai sauce"
-        ],
-        "scraped_at": "2026-03-08T17:00:39.891Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DTHAM%2520MA%2520DA%2520Cafe'%2520Coffee%2520Bar's%2520Restuarant%2520Pai"
+      "current_info": "Pai Village's current Limoncello page presents the restaurant around hand-tossed pizzas, fresh pasta, and wine-bar positioning in Pai."
     }
   ],
   "city_slug": "pai",
   "city_name": "Pai",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Mae Hong Son",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/mae-hong-son",
+      "description": "Used for Pai Walking Street food and market framing."
+    },
+    {
+      "title": "Om Garden Cafe",
+      "creator": "Amazing Thailand",
+      "url": "https://amazingthailand.com/om-garden-cafe",
+      "description": "Used for Om Garden's address, menu positioning, and opening-pattern context."
+    },
+    {
+      "title": "Two Sisters Restaurant",
+      "creator": "Two Sisters Restaurant",
+      "url": "https://twosistersrestaurant.shop/",
+      "description": "Used for direct cuisine positioning, address, and contact details."
+    },
+    {
+      "title": "The Blue Ox Steak House",
+      "creator": "Pai Village Boutique Resort",
+      "url": "https://www.paivillage.com/the-blue-ox-steak-house.php",
+      "description": "Used for current dinner positioning and menu description."
+    },
+    {
+      "title": "Limoncello Pai",
+      "creator": "Pai Village Boutique Resort",
+      "url": "https://www.paivillage.com/limoncello-pai.php",
+      "description": "Used for current Italian dining and wine-bar positioning."
+    }
   ],
-  "last_scraped": "2026-03-08T17:00:39.891Z",
-  "generated_at": "2026-03-08T17:00:39.892Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "Tourism Authority of Thailand",
+    "Amazing Thailand",
+    "Official restaurant websites"
+  ],
+  "generated_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "hybrid": false
 }

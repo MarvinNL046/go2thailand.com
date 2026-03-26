@@ -1,0 +1,75 @@
+{
+  "id": 1,
+  "slug": "pai-walking-street",
+  "name": {
+    "en": "Pai Walking Street",
+    "nl": "Pai Walking Street"
+  },
+  "type": "market",
+  "city_slug": "pai",
+  "address": "Chaisongkhram Road and Rungsiyanon Road area, Pai, Mae Hong Son, Thailand",
+  "location": null,
+  "opening_hours": "Evening market hours vary slightly by day and season; recheck current local setup when you arrive",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The evening market and food layer that still acts as the clearest first-night anchor in central Pai.",
+    "nl": "De avondmarkt en foodlaag die nog steeds de duidelijkste eerste avondanker van centraal Pai vormt."
+  },
+  "highlights": [
+    "Evening market rhythm",
+    "Street food and crafts",
+    "Best first-night anchor"
+  ],
+  "image": "/images/cities/generated/pai.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Pai Walking Street | Go2Thailand",
+      "nl": "Pai Walking Street | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Pai Walking Street is still the strongest first-night anchor in Pai and how to use the market without turning it into generic night-market filler.",
+      "nl": "Waarom Pai Walking Street nog steeds het sterkste eerste avondanker in Pai is en hoe je de markt gebruikt zonder in generieke night-market filler te vervallen."
+    }
+  },
+  "tags": [
+    "pai",
+    "walking street",
+    "night market",
+    "street food",
+    "mae hong son"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pai%20Walking%20Street",
+  "best_time": "evening",
+  "duration_hours": 2,
+  "enhanced_description": "Pai Walking Street matters because it is the simplest place to understand how the town works after dark. The market still forms Pai's clearest evening spine, which is why it should be treated as the first-night anchor instead of as a quick stroll between other plans.\n\nThat makes the location more useful than a generic night-market description suggests. Food, stalls, and casual walking all reinforce the center of Pai here, and a central hotel base makes the whole town easier to use.",
+  "detailed_history": "TAT's Mae Hong Son article still treats Pai Walking Street as the heart of Pai nightlife and places the market across the downtown core between Chaisongkran Road and Rungsiyanon Road.",
+  "visitor_experience": "Expect a walk-first evening zone rather than a single organized market hall. The stronger visit is unhurried: one round for orientation, another for food, and enough time to let the center of Pai settle into place.",
+  "best_time_to_visit": {
+    "time_of_day": "Evening",
+    "duration": "About 90 minutes to 2 hours",
+    "crowd_level": "Busier later in the evening and on stronger travel weekends"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached on foot from a central Pai hotel or from the bus-station side of town.",
+    "nearby_attractions": "Central Pai lanes, the bus-station side, and several of the town's strongest hotel bases.",
+    "food_options": "Walking Street itself is the main food draw, with easy snack-and-stall eating across the evening.",
+    "shopping": "Craft stalls and small market-style shopping are part of the experience."
+  },
+  "insider_tips": [
+    "Use this on arrival night before you decide how much outer-valley driving you really need.",
+    "Eat in smaller rounds instead of treating the market like one single dinner stop.",
+    "A central base changes the value of Walking Street more than another far-out attraction does."
+  ],
+  "verified_note": "Source-backed summary based on TAT's Mae Hong Son article. Exact nightly setup can still vary locally.",
+  "cultural_significance": "Pai Walking Street is still the town's clearest shared evening space, which is why it defines the center more than a loose café narrative ever could.",
+  "contentSources": [
+    {
+      "name": "Mae Hong Son",
+      "url": "https://www.tourismthailand.org/Articles/mae-hong-son"
+    }
+  ]
+}

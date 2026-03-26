@@ -1,223 +1,163 @@
 {
   "city_slug": "pai",
   "city_name": "Pai",
-  "total_attractions": 9,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
-      "slug": "pai-canyon",
-      "name": {
-        "en": "Pai Canyon (Kong Lan)",
-        "nl": "Pai Canyon (Kong Lan)"
-      },
-      "type": "nature",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
-      "description": {
-        "en": "Dramatic narrow ridgeline with steep drop-offs offering panoramic views over the Pai valley and surrounding mountains",
-        "nl": "Dramatische smalle bergkam met steile afgronden die panoramisch uitzicht bieden over de Pai-vallei en omliggende bergen"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Sunrise views",
-        "Narrow ridgeline trail",
-        "Valley panorama"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pai%20Canyon%20(Kong%20Lan)%20Pai%20Thailand"
-    },
-    {
-      "id": 2,
       "slug": "pai-walking-street",
       "name": {
         "en": "Pai Walking Street",
         "nl": "Pai Walking Street"
       },
       "type": "market",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "image": "/images/cities/generated/pai.webp",
       "description": {
-        "en": "Nightly market on Chaisongkhram Road with street food, handmade crafts, live music, and bohemian atmosphere",
-        "nl": "Avondmarkt op Chaisongkhram Road met streetfood, handgemaakte ambachten, live muziek en bohemien sfeer"
+        "en": "The evening market and food layer that still acts as the clearest first-night anchor in central Pai.",
+        "nl": "De avondmarkt en foodlaag die nog steeds de duidelijkste eerste avondanker van centraal Pai vormt."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pai%20Walking%20Street",
       "highlights": [
-        "Street food stalls",
-        "Handmade crafts",
-        "Live music"
+        "Evening market rhythm",
+        "Street food and crafts",
+        "Best first-night anchor"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pai%20Walking%20Street%20Pai%20Thailand"
+      "best_time": "evening",
+      "duration_hours": 2
+    },
+    {
+      "id": 2,
+      "slug": "pai-canyon",
+      "name": {
+        "en": "Pai Canyon",
+        "nl": "Pai Canyon"
+      },
+      "type": "nature",
+      "image": "/images/cities/generated/pai.webp",
+      "description": {
+        "en": "Pai's strongest landscape stop, built around a red sandstone ridgeline and broad valley views.",
+        "nl": "Pai's sterkste landschapsstop, opgebouwd rond een rode zandstenen bergkam en brede vallei-uitzichten."
+      },
+      "entrance_fee": {
+        "thb": null,
+        "usd": null
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pai%20Canyon%20Pai",
+      "highlights": [
+        "Red sandstone ridge",
+        "Broad valley views",
+        "Strong sunrise or sunset logic"
+      ],
+      "best_time": "sunrise or late afternoon",
+      "duration_hours": 1.5
     },
     {
       "id": 3,
       "slug": "pai-hot-springs",
       "name": {
-        "en": "Pai Hot Springs (Tha Pai Hot Spring)",
-        "nl": "Pai Warmwaterbronnen (Tha Pai Hot Spring)"
+        "en": "Tha Pai Hot Spring",
+        "nl": "Tha Pai Hot Spring"
       },
       "type": "nature",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "image": "/images/cities/generated/pai.webp",
       "description": {
-        "en": "Natural hot springs in Huai Nam Dang National Park with mineral pools surrounded by lush tropical forest",
-        "nl": "Natuurlijke warmwaterbronnen in Huai Nam Dang Nationaal Park met mineraalbaden omringd door weelderig tropisch bos"
+        "en": "The easiest restorative nature stop near town, with natural pools and a calmer pace than Pai's viewpoint loop.",
+        "nl": "De eenvoudigste rustgevende natuurstop dicht bij de stad, met natuurlijke baden en een rustiger tempo dan Pai's uitzichtpuntenlus."
       },
       "entrance_fee": {
-        "thb": 300,
-        "usd": 9
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tha%20Pai%20Hot%20Spring",
       "highlights": [
-        "Natural mineral pools",
-        "Forest setting",
-        "Egg boiling in hot spring"
+        "Natural thermal pools",
+        "Near-town half-day fit",
+        "Good balance to canyon and temple stops"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pai%20Hot%20Springs%20(Tha%20Pai%20Hot%20Spring)%20Pai%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 2
     },
     {
       "id": 4,
-      "slug": "boon-ko-ku-so-bamboo-bridge",
+      "slug": "wat-phra-that-mae-yen",
       "name": {
-        "en": "Bamboo Bridge (Boon Ko Ku So Bridge)",
-        "nl": "Bamboebrug (Boon Ko Ku So Brug)"
+        "en": "Wat Phra That Mae Yen",
+        "nl": "Wat Phra That Mae Yen"
       },
-      "type": "cultural",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "type": "temple",
+      "image": "/images/cities/generated/pai.webp",
       "description": {
-        "en": "An 800-meter bamboo walkway stretching across emerald rice paddies to Wat Su Tong Pae meditation temple",
-        "nl": "Een 800 meter lange bamboe loopbrug over smaragdgroene rijstvelden naar Wat Su Tong Pae meditatietempel"
+        "en": "Pai's strongest temple-and-viewpoint stop, with a hillside white Buddha and a wide read over the valley.",
+        "nl": "Pai's sterkste tempel- en uitzichtpuntstop, met een witte Boeddha op de heuvel en een breed zicht over de vallei."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20That%20Mae%20Yen%20Pai",
       "highlights": [
-        "Rice paddy views",
-        "Meditation temple",
-        "Photography spot"
+        "White Buddha hillside view",
+        "Best temple stop in Pai",
+        "Useful sunrise or late-day climb"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bamboo%20Bridge%20(Boon%20Ko%20Ku%20So%20Bridge)%20Pai%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1.5
     },
     {
       "id": 5,
-      "slug": "mo-paeng-waterfall",
+      "slug": "santichon-and-yun-lai-viewpoint",
       "name": {
-        "en": "Mo Paeng Waterfall",
-        "nl": "Mo Paeng Waterval"
+        "en": "Santichon and Yun Lai Viewpoint",
+        "nl": "Santichon en Yun Lai-uitzichtpunt"
       },
-      "type": "nature",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "type": "culture",
+      "image": "/images/cities/generated/pai.webp",
       "description": {
-        "en": "Popular multi-tiered waterfall with natural rock slides and swimming pools surrounded by jungle",
-        "nl": "Populaire waterval met meerdere niveaus met natuurlijke rotsblokglijbanen en zwempoelen omringd door jungle"
+        "en": "The strongest northern-side outing when you want Pai's Yunnan-linked village layer and one edited sunrise-viewpoint morning.",
+        "nl": "De sterkste noordelijke uitstap als je Pai's Yunnan-gekoppelde dorpslaag en een geredigeerde sunrise-ochtend wilt."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Santichon%20Village%20Pai",
       "highlights": [
-        "Natural rock slides",
-        "Swimming pools",
-        "Jungle setting"
+        "Yunnan cultural layer",
+        "Yun Lai sunrise logic",
+        "Best done as one combined outing"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mo%20Paeng%20Waterfall%20Pai%20Thailand"
+      "best_time": "sunrise or morning",
+      "duration_hours": 2.5
     },
     {
       "id": 6,
-      "slug": "chinese-village-santichon",
+      "slug": "kho-ku-so-merit-bridge",
       "name": {
-        "en": "Chinese Village (Santichon)",
-        "nl": "Chinees Dorp (Santichon)"
+        "en": "Kho Ku So Merit Bridge",
+        "nl": "Kho Ku So Merit Bridge"
       },
-      "type": "cultural",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "type": "culture",
+      "image": "/images/cities/generated/pai.webp",
       "description": {
-        "en": "Yunnan Chinese settlement village offering tea houses, steamed buns, clay shooting, and mountain viewpoints",
-        "nl": "Yunnan Chinees nederzettingsdorp met theehuizen, gestoomde broodjes, kleischieten en berg-uitkijkpunten"
+        "en": "A cleaner countryside add-on for rice-field scenery and a monastery-side walk.",
+        "nl": "Een nettere countryside-uitstap voor rijstveldlandschap en een wandeling langs een klooster."
       },
       "entrance_fee": {
-        "thb": 50,
-        "usd": 1
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kho%20Ku%20So%20Merit%20Bridge%20Pai",
       "highlights": [
-        "Yunnan tea houses",
-        "Chinese culture",
-        "Mountain views"
+        "Rice-field walkway",
+        "Monastery setting",
+        "Single strong rural extension"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chinese%20Village%20(Santichon)%20Pai%20Thailand"
-    },
-    {
-      "id": 7,
-      "slug": "pam-bok-waterfall",
-      "name": {
-        "en": "Pam Bok Waterfall",
-        "nl": "Pam Bok Waterval"
-      },
-      "type": "nature",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
-      "description": {
-        "en": "Small but charming waterfall with a deep plunge pool popular for swimming, just a short motorbike ride from town",
-        "nl": "Kleine maar charmante waterval met een diep zwemgat populair om te zwemmen, op slechts een korte scooterrit van het stadje"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Swimming hole",
-        "Easy access",
-        "Quiet atmosphere"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pam%20Bok%20Waterfall%20Pai%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "yun-lai-viewpoint",
-      "name": {
-        "en": "Yun Lai Viewpoint",
-        "nl": "Yun Lai Uitkijkpunt"
-      },
-      "type": "nature",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
-      "description": {
-        "en": "Panoramic sunrise viewpoint above the Chinese Village with sweeping views over the misty Pai valley and Chinese tea service",
-        "nl": "Panoramisch zonsopgang-uitkijkpunt boven het Chinese Dorp met wijds uitzicht over de mistige Pai-vallei en Chinese theeservice"
-      },
-      "entrance_fee": {
-        "thb": 20,
-        "usd": 1
-      },
-      "highlights": [
-        "Sunrise views",
-        "Chinese tea",
-        "Valley panorama"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yun%20Lai%20Viewpoint%20Pai%20Thailand"
-    },
-    {
-      "id": 9,
-      "slug": "wat-nam-hoo",
-      "name": {
-        "en": "Wat Nam Hoo",
-        "nl": "Wat Nam Hoo"
-      },
-      "type": "temple",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
-      "description": {
-        "en": "Ancient hilltop temple with a revered Buddha image said to have once oozed holy water, offering peaceful views over Pai town",
-        "nl": "Oude tempeltop met een vereerd Boeddhabeeld dat ooit heilig water zou hebben uitgescheiden, met vredig uitzicht over het stadje Pai"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Sacred Buddha image",
-        "Hilltop views",
-        "Peaceful atmosphere"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Nam%20Hoo%20Pai%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1.5
     }
   ]
 }

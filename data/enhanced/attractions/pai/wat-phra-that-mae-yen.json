@@ -1,0 +1,79 @@
+{
+  "id": 4,
+  "slug": "wat-phra-that-mae-yen",
+  "name": {
+    "en": "Wat Phra That Mae Yen",
+    "nl": "Wat Phra That Mae Yen"
+  },
+  "type": "temple",
+  "city_slug": "pai",
+  "address": "Mae Hee, Pai District, Mae Hong Son, Thailand",
+  "location": null,
+  "opening_hours": "Temple access is generally daytime-focused; recheck current local hours before visiting",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "Pai's strongest temple-and-viewpoint stop, with a hillside white Buddha and a wide read over the valley.",
+    "nl": "Pai's sterkste tempel- en uitzichtpuntstop, met een witte Boeddha op de heuvel en een breed zicht over de vallei."
+  },
+  "highlights": [
+    "White Buddha hillside view",
+    "Best temple stop in Pai",
+    "Useful sunrise or late-day climb"
+  ],
+  "image": "/images/cities/generated/pai.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Phra That Mae Yen | Go2Thailand",
+      "nl": "Wat Phra That Mae Yen | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Wat Phra That Mae Yen is still Pai's strongest temple-and-viewpoint stop and how to fit it into a short stay.",
+      "nl": "Waarom Wat Phra That Mae Yen nog steeds Pai's sterkste tempel- en uitzichtpuntstop is en hoe je het in een kort verblijf inpast."
+    }
+  },
+  "tags": [
+    "pai",
+    "wat phra that mae yen",
+    "temple",
+    "viewpoint",
+    "mae hong son"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20That%20Mae%20Yen%20Pai",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 1.5,
+  "enhanced_description": "Wat Phra That Mae Yen is the stop that keeps Pai from turning into a market-and-canyon loop with no sacred center. The temple adds the clearest hillside viewpoint in town and gives the valley a proper Buddhist layer that still fits a short itinerary.\n\nThe official Mae Hee tourism map keeps Mae Yen prominent for good reason. It is close enough to town to pair easily with the center, but distinct enough to shift the trip out of casual evening mode and into a quieter temple-view rhythm.",
+  "detailed_history": "The official Mae Hee and Mae Hong Son tourism map continues to list Phra That Mae Yen among Pai District's headline attractions. Amazing Thailand's Ai Pai Hotel listing also still places the temple close to central Pai.",
+  "visitor_experience": "Expect a temple visit with a climb and view rather than a quick roadside photo stop. It works best when you slow down, dress properly, and give the lookout time to register as part of Pai's overall valley layout.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Often easier outside the hottest midday period"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reached by short ride or drive from central Pai, then on-foot temple access.",
+    "nearby_attractions": "Central Pai, southern-side road routes, and central-market evenings all combine naturally with Mae Yen.",
+    "food_options": "Use central Pai for meals before or after the temple stop.",
+    "shopping": "The temple itself is not a shopping area."
+  },
+  "insider_tips": [
+    "Use this to add shape to the trip, not just a fast viewpoint photo.",
+    "Pair it with the center or canyon, not with an overloaded all-valley loop.",
+    "Respect the temple setting more than the social-media angle."
+  ],
+  "verified_note": "Source-backed summary based on the official Pai area tourism map and current Amazing Thailand location context.",
+  "cultural_significance": "Mae Yen gives Pai a necessary sacred and visual anchor, which is why it matters more editorially than another generic countryside stop.",
+  "contentSources": [
+    {
+      "name": "Mae Hong Son and Pai Tourism Map",
+      "url": "https://www.maeheepai.go.th/upload/catalogs_file/catalogs_file_257_17_8_524.pdf"
+    },
+    {
+      "name": "Ai Pai Hotel",
+      "url": "https://amazingthailand.com/ai-pai-hotel"
+    }
+  ]
+}
