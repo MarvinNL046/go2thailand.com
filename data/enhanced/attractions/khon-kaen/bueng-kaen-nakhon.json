@@ -1,0 +1,82 @@
+{
+  "id": 1,
+  "slug": "bueng-kaen-nakhon",
+  "name": {
+    "en": "Bueng Kaen Nakhon",
+    "nl": "Bueng Kaen Nakhon"
+  },
+  "type": "park",
+  "city_slug": "khon-kaen",
+  "address": "Mueang Kao, Mueang Khon Kaen, Khon Kaen 40000",
+  "location": {
+    "lat": 16.4128272,
+    "lng": 102.8383596
+  },
+  "opening_hours": "Open public lakefront",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Khon Kaen's defining lakefront and the easiest way to feel the city's public rhythm.",
+    "nl": "De bepalende lakefront van Khon Kaen en de makkelijkste manier om het publieke ritme van de stad te voelen."
+  },
+  "highlights": [
+    "Public lakefront loop",
+    "Best morning and evening atmosphere",
+    "Pairs naturally with Wat Nong Wang"
+  ],
+  "image": "/images/cities/generated/khon-kaen.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Bueng Kaen Nakhon | Go2Thailand",
+      "nl": "Bueng Kaen Nakhon | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Bueng Kaen Nakhon is the best first stop for understanding Khon Kaen's city rhythm.",
+      "nl": "Waarom Bueng Kaen Nakhon de beste eerste stop is om het ritme van Khon Kaen te begrijpen."
+    }
+  },
+  "tags": [
+    "park",
+    "lakefront",
+    "khon kaen",
+    "isaan",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bueng%20Kaen%20Nakhon%20Khon%20Kaen%20Thailand",
+  "best_time": "early morning or evening",
+  "duration_hours": 1.5,
+  "enhanced_description": "Bueng Kaen Nakhon matters because it gives Khon Kaen a visible public center that feels local before it feels touristic. This is where the city breathes in the cooler hours: walkers, exercise groups, temple visits, and the general rhythm that makes Khon Kaen feel like a real urban base rather than a transfer point.\n\nThe lake is strongest when you use it as orientation. Walk part of the loop, then pair it with Wat Nong Wang so the skyline landmark and the city atmosphere reinforce each other. Used that way, it becomes the cleanest opening move for a first Khon Kaen stay.",
+  "detailed_history": "Tourism Authority of Thailand destination material still uses the lake-and-temple core to frame Khon Kaen's city identity. That is useful because it reflects how the city is actually experienced on the ground: not through one isolated attraction, but through a public lakefront sequence.",
+  "visitor_experience": "Expect a public urban space rather than a manicured theme-park attraction. The value here is atmosphere, city rhythm, and pairing it with the nearby temple and food layer.",
+  "best_time_to_visit": {
+    "time_of_day": "Early morning or after sunset",
+    "duration": "1 to 2 hours",
+    "crowd_level": "Moderate to lively in the cooler hours"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reach it easily by short taxi or ride-hailing trip from most central Khon Kaen hotels.",
+    "nearby_attractions": "Wat Nong Wang, lakeside city walks, and central food areas.",
+    "food_options": "City restaurants and snacks are easy to combine before or after the walk.",
+    "shopping": "Limited; this is stronger for atmosphere and movement than for buying souvenirs."
+  },
+  "insider_tips": [
+    "Do not judge the lakefront in the middle of the day; it is strongest in cooler hours.",
+    "Pair it with Wat Nong Wang rather than treating both as separate taxi rides.",
+    "Use the lake to shape the day instead of looking for one single iconic photo spot."
+  ],
+  "verified_note": "Source-backed summary based on Tourism Authority of Thailand destination framing. Exact event activity around the lake can vary by day and season.",
+  "cultural_significance": "Bueng Kaen Nakhon is the clearest public-space expression of Khon Kaen's local urban rhythm and one of the easiest ways to understand the city beyond transport or business travel.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Khon Kaen",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-khon-kaen"
+    },
+    {
+      "name": "Khon Kaen E-Brochure",
+      "url": "https://tourismthailand.my/ebook/E-Brochure%20Khon%20kaen%20%28En%29.pdf"
+    }
+  ]
+}

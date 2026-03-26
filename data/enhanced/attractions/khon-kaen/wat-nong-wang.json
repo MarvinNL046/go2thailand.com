@@ -1,0 +1,82 @@
+{
+  "id": 2,
+  "slug": "wat-nong-wang",
+  "name": {
+    "en": "Wat Nong Wang",
+    "nl": "Wat Nong Wang"
+  },
+  "type": "temple",
+  "city_slug": "khon-kaen",
+  "address": "Mueang Kao, Mueang Khon Kaen, Khon Kaen 40000",
+  "location": {
+    "lat": 16.4100122,
+    "lng": 102.834374
+  },
+  "opening_hours": "Temple access generally available daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Khon Kaen's best-known temple, rising beside the lake and giving the clearest skyline stop in the city core.",
+    "nl": "De bekendste tempel van Khon Kaen, naast het meer, en de duidelijkste skyline-stop in de stadskern."
+  },
+  "highlights": [
+    "Nine-storey temple",
+    "Panoramic city context",
+    "Easy to pair with the lakefront"
+  ],
+  "image": "/images/cities/generated/khon-kaen.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Nong Wang | Go2Thailand",
+      "nl": "Wat Nong Wang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Wat Nong Wang is still the most useful temple stop in central Khon Kaen.",
+      "nl": "Waarom Wat Nong Wang nog steeds de nuttigste tempelstop is in centraal Khon Kaen."
+    }
+  },
+  "tags": [
+    "temple",
+    "khon kaen",
+    "isaan",
+    "lakefront",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Nong%20Wang%20Khon%20Kaen%20Thailand",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 1.5,
+  "enhanced_description": "Wat Nong Wang belongs near the top of any Khon Kaen itinerary because it gives the city both a visible religious landmark and a practical overview of the center. Its value is not only the temple itself, but how easily it connects to Bueng Kaen Nakhon and the surrounding urban core.\n\nThis is the temple to prioritize if you want one essential city-side religious stop. Instead of building a long temple checklist, use Wat Nong Wang as the main anchor and then decide whether the trip needs one more contrasting stop such as Wat Thung Setthi.",
+  "detailed_history": "Tourism Authority of Thailand destination material continues to frame Wat Nong Wang as one of Khon Kaen's core landmarks. That remains a sensible choice because it is the temple most closely tied to the city's lakefront image and public skyline.",
+  "visitor_experience": "Expect an active temple rather than a museum piece. The best visit is calm, respectful, and combined with time around the lake rather than rushed into a temple-hopping circuit.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "1 to 1.5 hours",
+    "crowd_level": "Moderate and busiest around key local visiting hours"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easily reached from the lakefront and central Khon Kaen by short local ride or on foot if you are already at Bueng Kaen Nakhon.",
+    "nearby_attractions": "Bueng Kaen Nakhon, city lakefront walks, and central food areas.",
+    "food_options": "Better to eat around the wider city core before or after the temple stop.",
+    "shopping": "Keep this visit focused on the temple rather than souvenir hunting."
+  },
+  "insider_tips": [
+    "Treat it as part of the lakefront sequence, not as a standalone long visit.",
+    "Dress respectfully and keep the visit calm even if the temple is busy.",
+    "One strong temple is enough for most first-time city itineraries."
+  ],
+  "verified_note": "Source-backed summary based on Tourism Authority of Thailand destination framing. Exact prayer activity and access to upper viewing levels can vary locally.",
+  "cultural_significance": "Wat Nong Wang remains Khon Kaen's clearest temple landmark and one of the easiest ways the city expresses its religious identity within the urban core.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Khon Kaen",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-khon-kaen"
+    },
+    {
+      "name": "Khon Kaen E-Brochure",
+      "url": "https://tourismthailand.my/ebook/E-Brochure%20Khon%20kaen%20%28En%29.pdf"
+    }
+  ]
+}

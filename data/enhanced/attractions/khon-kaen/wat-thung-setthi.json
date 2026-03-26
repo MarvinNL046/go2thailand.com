@@ -1,0 +1,82 @@
+{
+  "id": 4,
+  "slug": "wat-thung-setthi",
+  "name": {
+    "en": "Wat Thung Setthi",
+    "nl": "Wat Thung Setthi"
+  },
+  "type": "temple",
+  "city_slug": "khon-kaen",
+  "address": "Phra Lap, Mueang Khon Kaen, Khon Kaen",
+  "location": {
+    "lat": 16.4112827,
+    "lng": 102.8836728
+  },
+  "opening_hours": "Temple access generally available daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A visually distinct contemporary temple that adds modern symbolic architecture to the Khon Kaen mix.",
+    "nl": "Een visueel uitgesproken moderne tempel die moderne symbolische architectuur toevoegt aan de mix van Khon Kaen."
+  },
+  "highlights": [
+    "Modern temple design",
+    "Good short detour",
+    "Strong contrast with Wat Nong Wang"
+  ],
+  "image": "/images/cities/generated/khon-kaen.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Thung Setthi | Go2Thailand",
+      "nl": "Wat Thung Setthi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Wat Thung Setthi is the right second temple stop in Khon Kaen.",
+      "nl": "Waarom Wat Thung Setthi de juiste tweede tempelstop is in Khon Kaen."
+    }
+  },
+  "tags": [
+    "temple",
+    "khon kaen",
+    "architecture",
+    "isaan",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Thung%20Setthi%20Khon%20Kaen%20Thailand",
+  "best_time": "late afternoon",
+  "duration_hours": 1.5,
+  "enhanced_description": "Wat Thung Setthi is the temple stop to add only if you want Khon Kaen's religious layer to widen visually. It works because it does not feel like a duplicate of Wat Nong Wang. The design is more contemporary and symbolic, so the stop adds variety instead of just inflating the checklist.\n\nThat is the right way to use it: as one contrasting temple detour, not as part of a long, repetitive circuit. Khon Kaen is stronger when this stop stays selective.",
+  "detailed_history": "Tourism Authority of Thailand destination framing includes newer and more visually distinctive sites in the wider Khon Kaen mix, which is why Wat Thung Setthi remains useful for travelers who want one more temple without repeating the city's main landmark stop.",
+  "visitor_experience": "Expect a shorter, visually oriented temple visit. This stop is strongest when paired with another city activity rather than stretched into a standalone half-day.",
+  "best_time_to_visit": {
+    "time_of_day": "Late afternoon",
+    "duration": "1 to 1.5 hours",
+    "crowd_level": "Usually manageable outside local peak worship times"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reached best by short taxi or ride-hailing trip from central Khon Kaen.",
+    "nearby_attractions": "City-side temple and lakefront circuit rather than a separate distant zone.",
+    "food_options": "Better to return to the city core for stronger dining options.",
+    "shopping": "Not a shopping-led stop."
+  },
+  "insider_tips": [
+    "Use this as a contrast stop, not as a replacement for Wat Nong Wang.",
+    "Late afternoon gives the best balance of light and comfort.",
+    "This is one of the easiest ways to diversify the city day without overextending it."
+  ],
+  "verified_note": "Source-backed summary based on official destination framing. Exact worship activity and any temporary access restrictions can vary locally.",
+  "cultural_significance": "Wat Thung Setthi broadens Khon Kaen's temple layer by showing a more contemporary visual and symbolic expression within the province's religious landscape.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Khon Kaen",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-khon-kaen"
+    },
+    {
+      "name": "Khon Kaen E-Brochure",
+      "url": "https://tourismthailand.my/ebook/E-Brochure%20Khon%20kaen%20%28En%29.pdf"
+    }
+  ]
+}

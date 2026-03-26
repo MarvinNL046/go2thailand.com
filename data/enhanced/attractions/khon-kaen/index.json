@@ -1,223 +1,163 @@
 {
   "city_slug": "khon-kaen",
   "city_name": "Khon Kaen",
-  "total_attractions": 9,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
-      "slug": "phu-wiang-dinosaur-museum",
+      "slug": "bueng-kaen-nakhon",
       "name": {
-        "en": "Phu Wiang Dinosaur Museum",
-        "nl": "Phu Wiang Dinosaurusmuseum"
+        "en": "Bueng Kaen Nakhon",
+        "nl": "Bueng Kaen Nakhon"
       },
-      "type": "museum",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "type": "park",
+      "image": "/images/cities/generated/khon-kaen.webp",
       "description": {
-        "en": "World-class dinosaur museum featuring Siamotyrannus fossils and life-size replicas in a forested park setting",
-        "nl": "Wereldklasse dinosaurusmuseum met Siamotyrannus-fossielen en levensgroot replica's in een bosachtige parkomgeving"
+        "en": "Khon Kaen's defining lakefront loop and the best first stop for understanding the city's everyday rhythm.",
+        "nl": "De bepalende lakefront-loop van Khon Kaen en de beste eerste stop om het dagelijkse ritme van de stad te begrijpen."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": 0,
+        "usd": 0
       },
       "highlights": [
-        "Siamotyrannus fossils",
-        "Life-size replicas",
-        "Interactive exhibits"
+        "Best city loop",
+        "Morning and evening atmosphere",
+        "Pairs with Wat Nong Wang"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phu%20Wiang%20Dinosaur%20Museum%20Khon%20Kaen%20Thailand"
+      "best_time": "early morning or evening",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bueng%20Kaen%20Nakhon%20Khon%20Kaen%20Thailand"
     },
     {
       "id": 2,
-      "slug": "bueng-kaen-nakhon-lake",
+      "slug": "wat-nong-wang",
       "name": {
-        "en": "Bueng Kaen Nakhon Lake",
-        "nl": "Bueng Kaen Nakhon Meer"
+        "en": "Wat Nong Wang",
+        "nl": "Wat Nong Wang"
       },
-      "type": "park",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "type": "temple",
+      "image": "/images/cities/generated/khon-kaen.webp",
       "description": {
-        "en": "Beautiful lakeside park in the heart of the city with 8 km walking path, jogging trails, and lakeside food stalls",
-        "nl": "Prachtig park aan het meer in het hart van de stad met 8 km wandelpad, jogpaden en etensstalletjes aan het meer"
+        "en": "The city's best-known temple, rising beside the lake and giving the clearest skyline view in central Khon Kaen.",
+        "nl": "De bekendste tempel van de stad, naast het meer, met het duidelijkste skyline-uitzicht in centraal Khon Kaen."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "8 km walking path",
-        "Sunset views",
-        "Lakeside food stalls"
+        "Nine-storey temple",
+        "Panoramic city context",
+        "Easy first-time stop"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bueng%20Kaen%20Nakhon%20Lake%20Khon%20Kaen%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Nong%20Wang%20Khon%20Kaen%20Thailand"
     },
     {
       "id": 3,
-      "slug": "wat-nong-wang",
+      "slug": "phu-wiang-dinosaur-museum",
       "name": {
-        "en": "Wat Nong Wang (Phra Mahathat Kaen Nakhon)",
-        "nl": "Wat Nong Wang (Phra Mahathat Kaen Nakhon)"
+        "en": "Phu Wiang Dinosaur Museum",
+        "nl": "Phu Wiang Dinosaur Museum"
       },
-      "type": "temple",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "type": "museum",
+      "image": "/images/cities/generated/khon-kaen.webp",
       "description": {
-        "en": "Nine-story golden temple rising from Bueng Kaen Nakhon Lake with panoramic city views from the top floor",
-        "nl": "Negen verdiepingen hoge gouden tempel die oprijst uit Bueng Kaen Nakhon meer met panoramisch stadszicht vanaf de bovenste verdieping"
+        "en": "The strongest museum-led detour from Khon Kaen, anchored by official fossil and dinosaur research context.",
+        "nl": "De sterkste museumuitstap vanuit Khon Kaen, gebouwd rond officiëel fossiel- en dinosaurusonderzoek."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": 100,
+        "usd": 3
       },
       "highlights": [
-        "Nine-story structure",
-        "Panoramic city views",
-        "Lakeside location"
+        "Official fossil museum",
+        "Best science-led day trip",
+        "Worth a dedicated outing"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Nong%20Wang%20(Phra%20Mahathat%20Kaen%20Nakhon)%20Khon%20Kaen%20Thailand"
+      "best_time": "morning",
+      "duration_hours": 4,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phu%20Wiang%20Dinosaur%20Museum%20Khon%20Kaen%20Thailand"
     },
     {
       "id": 4,
-      "slug": "chonnabot-silk-village",
+      "slug": "wat-thung-setthi",
       "name": {
-        "en": "Chonnabot Silk Weaving Village",
-        "nl": "Chonnabot Zijdeweef-dorp"
+        "en": "Wat Thung Setthi",
+        "nl": "Wat Thung Setthi"
       },
-      "type": "cultural",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "type": "temple",
+      "image": "/images/cities/generated/khon-kaen.webp",
       "description": {
-        "en": "Traditional silk weaving village 50 km south of the city where artisans create intricate mudmee silk on wooden looms",
-        "nl": "Traditioneel zijdeweef-dorp 50 km ten zuiden van de stad waar ambachtslieden ingewikkelde mudmee-zijde weven op houten weefgetouwen"
+        "en": "A visually distinct contemporary temple that adds contrast to the more classic lakefront temple circuit.",
+        "nl": "Een visueel uitgesproken moderne tempel die contrast toevoegt aan de klassiekere tempelroute rond het meer."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Mudmee silk weaving",
-        "Buy direct from weavers",
-        "Traditional techniques"
+        "Modern symbolic design",
+        "Good short detour",
+        "Temple contrast stop"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chonnabot%20Silk%20Weaving%20Village%20Khon%20Kaen%20Thailand"
+      "best_time": "late afternoon",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Thung%20Setthi%20Khon%20Kaen%20Thailand"
     },
     {
       "id": 5,
-      "slug": "khon-kaen-night-market",
+      "slug": "sim-wat-chai-si",
       "name": {
-        "en": "Khon Kaen Night Market (Fairy Plaza)",
-        "nl": "Khon Kaen Nachtmarkt (Fairy Plaza)"
+        "en": "Sim Wat Chai Si",
+        "nl": "Sim Wat Chai Si"
       },
-      "type": "market",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "type": "cultural",
+      "image": "/images/cities/generated/khon-kaen.webp",
       "description": {
-        "en": "Massive night market behind Fairy Plaza on Klang Muang Road with authentic Isaan street food and local atmosphere",
-        "nl": "Enorme nachtmarkt achter Fairy Plaza op Klang Muang Road met authentieke Isaan-streetfood en lokale sfeer"
+        "en": "A stronger culture-led detour for Isaan mural art and temple storytelling than most generic provincial side trips.",
+        "nl": "Een sterkere cultureel-geleide detour voor Isaan-muurschilderingen en tempelverhalen dan de meeste generieke provinciale uitstapjes."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Authentic Isaan food",
-        "Local atmosphere",
-        "Nightly market"
+        "Historic mural hall",
+        "Regional cultural stop",
+        "Best with a half-day route"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khon%20Kaen%20Night%20Market%20(Fairy%20Plaza)%20Khon%20Kaen%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 2,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Chai%20Si%20Khon%20Kaen%20Thailand"
     },
     {
       "id": 6,
-      "slug": "ton-tann-green-market",
+      "slug": "natural-history-museum-khon-kaen-university",
       "name": {
-        "en": "Ton Tann Green Market",
-        "nl": "Ton Tann Green Market"
-      },
-      "type": "market",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Modern outdoor night bazaar popular with university students offering trendy street food, live music, and vintage clothing",
-        "nl": "Moderne openlucht nachtbazaar populair bij universiteitsstudenten met trendy streetfood, live muziek en vintage kleding"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Trendy food stalls",
-        "Live music",
-        "University atmosphere"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ton%20Tann%20Green%20Market%20Khon%20Kaen%20Thailand"
-    },
-    {
-      "id": 7,
-      "slug": "khon-kaen-national-museum",
-      "name": {
-        "en": "Khon Kaen National Museum",
-        "nl": "Khon Kaen Nationaal Museum"
+        "en": "Natural History Museum, Khon Kaen University",
+        "nl": "Natural History Museum, Khon Kaen University"
       },
       "type": "museum",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/khon-kaen.webp",
       "description": {
-        "en": "Regional museum showcasing Isaan history, Dvaravati art, Ban Chiang-era artifacts, and northeastern Thai cultural heritage",
-        "nl": "Regionaal museum dat Isaan-geschiedenis, Dvaravati-kunst, Ban Chiang-tijdperk artefacten en Noordoost-Thais cultureel erfgoed toont"
-      },
-      "entrance_fee": {
-        "thb": 100,
-        "usd": 3
-      },
-      "highlights": [
-        "Dvaravati art",
-        "Isaan history",
-        "Regional artifacts"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khon%20Kaen%20National%20Museum%20Khon%20Kaen%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "phra-that-kham-kaen",
-      "name": {
-        "en": "Phra That Kham Kaen",
-        "nl": "Phra That Kham Kaen"
-      },
-      "type": "temple",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Ancient Lao-style chedi believed to contain Buddha relics, an important pilgrimage site for the people of Isaan",
-        "nl": "Oude Laotiaanse-stijl chedi waarvan wordt geloofd dat deze Boeddha-relikwieen bevat, een belangrijke bedevaartplaats voor de bevolking van Isaan"
+        "en": "A practical in-city museum option if you want a shorter science stop without the longer Phu Wiang transfer.",
+        "nl": "Een praktische museumoptie in de stad als je een kortere wetenschappelijke stop wilt zonder de langere rit naar Phu Wiang."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Ancient chedi",
-        "Buddha relics",
-        "Pilgrimage site"
+        "University museum setting",
+        "Shorter science stop",
+        "Easy city pairing"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phra%20That%20Kham%20Kaen%20Khon%20Kaen%20Thailand"
-    },
-    {
-      "id": 9,
-      "slug": "nam-phong-national-park",
-      "name": {
-        "en": "Nam Phong National Park",
-        "nl": "Nam Phong Nationaal Park"
-      },
-      "type": "nature",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Quiet national park 50 km north with scenic reservoir views, hiking trails, and Tat Fa waterfall",
-        "nl": "Rustig nationaal park 50 km ten noorden met schilderachtig stuwmeeruitzicht, wandelpaden en Tat Fa-waterval"
-      },
-      "entrance_fee": {
-        "thb": 100,
-        "usd": 3
-      },
-      "highlights": [
-        "Reservoir views",
-        "Tat Fa waterfall",
-        "Hiking trails"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nam%20Phong%20National%20Park%20Khon%20Kaen%20Thailand"
+      "best_time": "daytime",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Natural%20History%20Museum%20Khon%20Kaen%20University%20Thailand"
     }
   ]
 }

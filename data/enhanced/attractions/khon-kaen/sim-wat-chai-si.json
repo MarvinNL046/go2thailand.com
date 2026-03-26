@@ -1,0 +1,82 @@
+{
+  "id": 5,
+  "slug": "sim-wat-chai-si",
+  "name": {
+    "en": "Sim Wat Chai Si",
+    "nl": "Sim Wat Chai Si"
+  },
+  "type": "cultural",
+  "city_slug": "khon-kaen",
+  "address": "Sawathi, Mueang Khon Kaen, Khon Kaen 40000",
+  "location": {
+    "lat": 16.5090808,
+    "lng": 102.6971509
+  },
+  "opening_hours": "Temple grounds generally open; local access can vary",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A stronger culture-led detour for Isaan mural art and temple storytelling than most generic provincial side trips.",
+    "nl": "Een sterkere cultureel-geleide omweg voor Isaan-muurschilderingen en tempelverhalen dan de meeste generieke provinciale uitstapjes."
+  },
+  "highlights": [
+    "Historic mural hall",
+    "Regional cultural stop",
+    "Best with a half-day route"
+  ],
+  "image": "/images/cities/generated/khon-kaen.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Sim Wat Chai Si | Go2Thailand",
+      "nl": "Sim Wat Chai Si | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Sim Wat Chai Si is one of Khon Kaen's best culture-led detours.",
+      "nl": "Waarom Sim Wat Chai Si een van de beste cultureel-geleide detours van Khon Kaen is."
+    }
+  },
+  "tags": [
+    "cultural",
+    "murals",
+    "khon kaen",
+    "isaan",
+    "temple"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Chai%20Si%20Khon%20Kaen%20Thailand",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 2,
+  "enhanced_description": "Sim Wat Chai Si is worth the detour when you want Khon Kaen to show something more regionally specific than lakefront views and city temples. The mural and storytelling tradition make it a better culture-led stop than most generic rural temple add-ons.\n\nThe key is to keep expectations precise. This is not a grand monumental site; it is a more rooted cultural visit that works best for travelers who care about Isaan visual tradition, local atmosphere, and letting one half-day route carry the province's older cultural layer.",
+  "detailed_history": "Tourism Authority of Thailand attraction framing and broader Khon Kaen cultural material continue to place mural and local temple traditions within the province's stronger heritage layer. Wat Chai Si remains one of the clearest representatives of that side of Khon Kaen.",
+  "visitor_experience": "Expect a quieter cultural detour rather than a big-ticket attraction. The payoff here is atmosphere and local artistic tradition, not crowds or entertainment value.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "1.5 to 2 hours",
+    "crowd_level": "Usually light outside local religious events"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached by car or driver from Khon Kaen city as part of one deliberate cultural outing.",
+    "nearby_attractions": "Culture-led provincial stops rather than the central lakefront circuit.",
+    "food_options": "Plan meals around the city or a broader half-day route rather than expecting major dining at the site.",
+    "shopping": "Keep the stop focused on heritage and local atmosphere."
+  },
+  "insider_tips": [
+    "Go only if culture and mural art genuinely interest you.",
+    "This works better as one clean cultural detour than as one more stop on a crowded day.",
+    "Respect that this is a local temple environment first."
+  ],
+  "verified_note": "Source-backed summary based on official tourism framing and location verification. Local access and community activity can vary by day.",
+  "cultural_significance": "Sim Wat Chai Si is one of the clearest ways Khon Kaen expresses an older Isaan mural and storytelling tradition beyond the city's better-known lakefront landmarks.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Khon Kaen",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-khon-kaen"
+    },
+    {
+      "name": "Khon Kaen E-Brochure",
+      "url": "https://tourismthailand.my/ebook/E-Brochure%20Khon%20kaen%20%28En%29.pdf"
+    }
+  ]
+}

@@ -15,22 +15,24 @@
   "region": "Isaan",
   "province": "Khon Kaen",
   "description": {
-    "en": "The unofficial capital of Isaan, Khon Kaen is a thriving university city that serves as the gateway to northeastern Thailand. Home to world-class dinosaur fossils, a beautiful lakeside park, renowned silk weaving villages, and some of the most authentic Isaan street food in the country.",
-    "nl": "De onofficiële hoofdstad van Isaan, Khon Kaen is een bruisende universiteitsstad die dient als poort naar Noordoost-Thailand. Thuisbasis van wereldklasse dinosaurusfossielen, een prachtig park aan het meer, beroemde zijdeweef-dorpen en de meest authentieke Isaan-streetfood van het land.",
-    "ja": "イサーン地方の非公式の首都。大学都市として栄え、東北タイへの玄関口。恐竜博物館とシルク村で有名。",
-    "ko": "이산 지방의 비공식 수도인 콘깬은 번영하는 대학 도시로 태국 동북부의 관문입니다. 세계적 수준의 공룡 화석, 아름다운 호수 공원, 유명한 실크 직조 마을, 태국에서 가장 정통 이산 길거리 음식이 있습니다.",
-    "th": "ศูนย์กลางอีสาน เมืองมหาวิทยาลัย มีอาหารอีสานแท้ ตลาดมืด และวัฒนธรรมท้องถิ่น",
-    "de": "Die inoffizielle Hauptstadt des Isan, Khon Kaen, ist eine florierende Universitätsstadt, die als Tor zum Nordosten Thailands dient. Sie beheimatet weltbekannte Dinosaurierfossilien, einen wunderschönen Park am Seeufer, renommierte Seidenwebdörfer und einige der authentischsten Isaan-Straßenküchen des Landes.",
-    "fr": "La capitale officieuse de l’Isan, Khon Kaen est une ville universitaire dynamique qui sert de porte d’entrée vers le nord-est de la Thaïlande. Elle abrite des fossiles de dinosaures de renommée mondiale, un beau parc au bord d’un lac, des villages de tissage de la soie réputés et certaines des street foods les plus authentiques de l’Isaan du pays.",
-    "ru": "Неформальная столица Исана, Кхон Каен — процветающий университетский город, открывающий ворота в северо-восточную часть Таиланда. Здесь можно увидеть всемирно известные ископаемые динозавров, прекрасный парк на берегу озера, знаменитые деревни шелковой вышивки и одну из самых аутентичных иссанских уличных кухонь в стране.",
-    "zh": "伊善省的非官方首府，孔敬是一个充满活力的大学城，作为泰国东北部的门户。这里有世界级的恐龙化石、湖畔美丽的公园、著名的丝绸编织村落，以及国内最地道的伊桑街头美食之一。"
+    "en": "An Isaan city that works best as a food-and-urban-culture base, with a lakefront core, strong temple layer, and a few selective day trips that actually justify leaving town.",
+    "nl": "Een Isaan-stad die het sterkst werkt als uitvalsbasis voor eten en stedelijke cultuur, met een kern rond het meer, een sterke tempellaag en een paar gerichte dagtrips die echt de moeite waard zijn.",
+    "ja": "イサーンを代表する都市のひとつで、湖畔の街並み、寺院、食文化、そして選んで行くべき郊外の見どころがバランスよくまとまっています。",
+    "ko": "호숫가 도심, 사원, 강한 이산 음식 문화, 그리고 선별해서 갈 만한 근교 명소가 잘 맞물리는 이산의 핵심 도시입니다.",
+    "th": "ขอนแก่นเป็นเมืองอีสานที่เหมาะกับการเที่ยวแบบเมืองจริงจัง มีทั้งย่านริมบึง วัดเด่น อาหารอีสาน และทริปนอกเมืองที่คัดมาแล้วว่าไปแล้วคุ้ม",
+    "de": "Khon Kaen funktioniert am besten als Isan-Stadtbasis mit Seeufer, Tempeln, starkem Essen und wenigen, gezielt ausgewählten Ausflügen.",
+    "fr": "Khon Kaen fonctionne surtout comme base urbaine de l'Isan, avec un front de lac, des temples solides, une vraie scène culinaire et quelques excursions choisies avec soin.",
+    "ru": "Кхон Каен лучше всего воспринимать как городскую базу Исана: озеро, храмы, сильная гастрономическая сцена и несколько действительно стоящих выездов за пределы центра.",
+    "zh": "孔敬更适合作为一座真正的伊森城市来规划：湖区、寺庙、美食，以及少数值得专程安排的周边行程。"
   },
   "population": 400000,
   "highlights": [
-    "Dinosaur Museum",
-    "Bueng Kaen Nakhon Lake",
-    "Night Markets",
-    "Silk Village"
+    "Bueng Kaen Nakhon",
+    "Wat Nong Wang",
+    "Phu Wiang Dinosaur Museum",
+    "Wat Thung Setthi",
+    "Sim Wat Chai Si",
+    "Isaan food and Michelin picks"
   ],
   "location": {
     "lat": 16.4322,
@@ -39,26 +41,26 @@
   "image": "/images/cities/generated/khon-kaen.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Khon Kaen | What to do in Khon Kaen?",
-      "nl": "Ontdek Khon Kaen | Wat te doen in Khon Kaen?",
-      "ja": "コーンケーン タイ — イサーンの大学都市ガイド 2026",
-      "ko": "콘깬 태국 — 이산 수도 여행 가이드 2026",
-      "th": "ขอนแก่น ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
-      "de": "Entdecken Sie Khon Kaen | Was gibt es in Khon Kaen zu tun?",
-      "fr": "Découvrez Khon Kaen | Que faire à Khon Kaen ?",
-      "ru": "Откройте для себя Кхон Каен | Чем заняться в Кхон Каене?",
-      "zh": "发现孔敬 | 在孔敬能做什么？"
+      "en": "Khon Kaen Thailand Guide 2026 | Isaan Food, Temples, Hotels",
+      "nl": "Khon Kaen Thailand Gids 2026 | Isaan food, tempels, hotels",
+      "ja": "コーンケーン旅行ガイド 2026 | イサーン料理、寺院、ホテル",
+      "ko": "콘깬 여행 가이드 2026 | 이산 음식, 사원, 호텔",
+      "th": "ขอนแก่น 2026 | อาหารอีสาน วัด และที่พัก",
+      "de": "Khon Kaen Thailand Guide 2026 | Isan-Food, Tempel, Hotels",
+      "fr": "Guide Khon Kaen 2026 | cuisine isan, temples et hotels",
+      "ru": "Кхон Каен 2026 | еда Исана, храмы и отели",
+      "zh": "孔敬旅行指南 2026 | 伊森美食、寺庙与酒店"
     },
     "metaDescription": {
-      "en": "Your guide to Khon Kaen, Thailand – tips, highlights, dinosaur museum, silk villages and Isaan food.",
-      "nl": "Jouw gids voor Khon Kaen, Thailand – tips, highlights, dinosaurusmuseum, zijdedorpen en Isaan-eten.",
-      "ja": "コーンケーン（タイ）旅行ガイド — 恐竜博物館、シルク村、イサーン料理情報。2026年更新。",
-      "ko": "콘깬(태국) 완벽 여행 가이드: 공룡 박물관, 실크 마을, 이산 음식. 가격, 팁, 교통편 정보.",
-      "th": "คู่มือท่องเที่ยวขอนแก่น ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
-      "de": "Ihr Reiseführer zu Khon Kaen, Thailand – Tipps, Highlights, Dinosauriermuseum, Seidenwebdörfer und Isaan-Essen.",
-      "fr": "Votre guide pour Khon Kaen, Thaïlande – conseils, points forts, musée des dinosaures, villages de soie et gastronomie Isaan.",
-      "ru": "Ваш гид по Кхон Каену, Таиланд — советы, достопримечательности, музей динозавров, шелковые деревни и иссанская еда.",
-      "zh": "您的泰国孔敬指南——提示、亮点、恐龙博物馆、丝绸村与伊桑美食。"
+      "en": "Plan Khon Kaen around the lakefront, Wat Nong Wang, curated Isaan food picks, and the day trips that actually suit a first stay in the city's orbit.",
+      "nl": "Plan Khon Kaen rond het meer, Wat Nong Wang, sterke Isaan food picks en de dagtrips die echt passen bij een eerste verblijf in en rond de stad.",
+      "ja": "湖畔エリア、ワット・ノーン・ワン、厳選したイサーン料理、そして初訪問に合う郊外スポットまで整理したコーンケーン実用ガイドです。",
+      "ko": "호숫가, 왓 농 왕, 선별한 이산 음식, 그리고 첫 방문에 맞는 근교 코스까지 정리한 콘깬 실전 가이드입니다.",
+      "th": "วางแผนเที่ยวขอนแก่นด้วยโซนริมบึง วัดหนองแวง ร้านอาหารอีสานที่คัดแล้ว และทริปนอกเมืองที่เหมาะกับการมาเที่ยวครั้งแรก",
+      "de": "Planen Sie Khon Kaen mit Seeufer, Wat Nong Wang, guten Isan-Restaurants und passenden Ausflugen fur den ersten Aufenthalt.",
+      "fr": "Planifiez Khon Kaen autour du lac, de Wat Nong Wang, d'adresses isan solides et d'excursions adaptees a un premier sejour.",
+      "ru": "Планируйте Кхон Каен вокруг набережной озера, Wat Nong Wang, сильных гастрономических адресов и тех выездов, которые действительно подходят первой поездке.",
+      "zh": "从湖区、龙旺寺、精选伊森餐厅到真正适合初访的周边行程，这份指南帮你更合理地规划孔敬。"
     }
   },
   "categories": {
@@ -88,750 +90,668 @@
     "isaan",
     "khon kaen",
     "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "food",
+    "temples",
+    "urban"
   ],
-  "enhanced_description": "Khon Kaen hit me with the full force of Isaan the moment I stepped off the overnight train from Bangkok. The air was thick and warm, the platform announcements crackled in the distinctive northeastern dialect, and a woman at a cart outside the station was pounding som tum with a mortar and pestle the size of a small cannon. This is Isaan's unofficial capital - a city of 400,000 that thrums with the energy of Khon Kaen University's 40,000 students, a booming tech sector, and a food culture so intense and unapologetically spicy that it makes Bangkok seem tame. I checked into the Pullman Khon Kaen Raja Orchid on Prachasamosorn Road and immediately headed out to eat.\n\nKhon Kaen's food scene alone justifies the trip. At the night market behind Khon Kaen Fairy Plaza on Klang Muang Road, I found the definitive version of som tum (papaya salad) - the vendor, a woman everyone called Mae Somtum, made it to order with pla ra (fermented fish sauce), the funky, pungent condiment that separates real Isaan food from the sanitized versions sold to tourists in Bangkok. I ate gai yang (grilled chicken) from a cart on Na Muang Road that had been marinating in garlic and coriander root for 24 hours, and sticky rice that came in little woven bamboo baskets. At the famous Ton Tann Green Market, a modern night bazaar popular with university students, I tried koi pla (raw fish salad) for the first time - it took courage, but the flavors were extraordinary.\n\nThe Phu Wiang Dinosaur Museum, about 80 kilometers west of the city, is world-class and genuinely surprising. Thailand was a major dinosaur habitat during the Jurassic and Cretaceous periods, and the fossils found in Khon Kaen province include Siamotyrannus isanensis - a relative of T-Rex that roamed these plains 120 million years ago. The museum is modern, well-curated, and interactive, with life-size dinosaur replicas scattered through a forested park. A paleontologist I met there told me that Khon Kaen province has produced more dinosaur fossils than any other region in Southeast Asia. For a city that few Western tourists visit, this felt like a remarkable secret.\n\nBack in the city, I spent a tranquil afternoon walking around Bueng Kaen Nakhon, the large lake in the center of town. An 8-kilometer path circles the water, and in the late afternoon it fills with joggers, cyclists, and families. I stopped at Wat Nong Wang, the nine-story temple that rises from the lake's shore like a wedding cake of golden spires. The top floor offers panoramic views over the city and the vast Khorat Plateau stretching endlessly to the horizon. From there, I hired a tuk-tuk to Chonnabot, a village about 50 kilometers south that is the heart of Isaan's silk weaving tradition. At the King Cobra Silk Village, I watched women weaving mudmee silk on wooden looms, creating intricate tie-dyed patterns that have been made the same way for hundreds of years. I bought a silk scarf directly from the weaver for 800 baht - the same quality would cost 3,000 baht in a Bangkok department store.\n\nKhon Kaen does not have the Instagram appeal of Chiang Mai or the beach allure of Krabi, and that is precisely its charm. This is a working Thai city where the culture is unselfconscious and the hospitality unforced. At a local bar called Living Room on Prachasamosorn Road, I fell into conversation with a group of university lecturers who insisted on buying me lao khao (rice whiskey) and teaching me Isaan drinking songs. By midnight I was attempting to dance mor lam, the hypnotic Isaan folk music that mixes traditional melodies with thumping electronic beats. I left Khon Kaen with a headache and a smile, convinced that Isaan is Thailand's most underrated region.",
+  "enhanced_description": "Khon Kaen is one of the easiest Thai cities to misread. Travelers often treat it as a transport stop with a lake, a temple, and one museum day trip. That leaves out the reason the city works: it is a lived-in Isaan urban center where food, university energy, local business travel, and evening routines around Bueng Kaen Nakhon matter more than chasing a long list of landmarks. Once you plan it that way, Khon Kaen becomes much clearer.\n\nThe city side is compact enough to structure around Bueng Kaen Nakhon and Wat Nong Wang. The lake is where Khon Kaen's day resets in the early morning and again after sunset, while the temple gives the most recognizable skyline stop in town. From there, the question is not how many extra temples you can stack into a day, but which outer-city detours actually add range. For most first visits, that means choosing between the fossil-and-dinosaur layer at Phu Wiang, the more contemporary visual drama of Wat Thung Setthi, or a culture-led stop such as Sim Wat Chai Si and the Chonnabot silk route.\n\nFood is what keeps Khon Kaen from feeling thin. The strongest meals here are not generic cafe-hopping or imported city trends, but Isaan-led restaurants and markets that still feel rooted in the region. MICHELIN's current Khon Kaen selection helps separate the real standouts from filler, and it matches the broader city rhythm: grilled chicken, herb-heavy Isaan plates, sharp heat, late-night market energy, and a few smarter hotel or design-stay restaurants when you want one polished meal without leaving the city core.",
+  "overview": "Khon Kaen works best as an urban Isaan base rather than a classic sightseeing city. Tourism Authority of Thailand material still frames it through Wat Nong Wang, Phu Wiang, Ton Tann Market, silk, and a handful of out-of-town cultural stops, which is useful because it keeps the city anchored in a practical mix of food, religion, local culture, and one or two selective day trips. That is the right lens for a first stay.\n\nThe city does not need a bloated attraction list. What it needs is a clean hierarchy. In town, prioritize Bueng Kaen Nakhon, Wat Nong Wang, and one evening market rhythm. Outside town, choose the fossil-and-museum side west of the city or a more culture-led stop such as Wat Chai Si or Chonnabot. The quality move is choosing one good outer-city track, not pretending every provincial stop belongs in the same rushed loop.",
   "hidden_gems": [
     {
-      "name": {
-        "en": "King Cobra Village (Ban Khok Sa-Nga)",
-        "nl": "Koningscobra Dorp (Ban Khok Sa-Nga)",
-        "ja": "キングコブラ村（バーンコックサンガー）",
-        "ko": "킹코브라 마을 (반콕사응아)"
-      },
-      "description": {
-        "en": "A unique village 50 km from Khon Kaen where residents have coexisted with king cobras for generations. Villagers demonstrate traditional snake handling and cobra shows. Fascinating and slightly terrifying.",
-        "nl": "Een uniek dorp op 50 km van Khon Kaen waar bewoners al generaties lang samenleven met koningscobra's. Dorpsbewoners demonstreren traditionele slangenbezwering en cobra-shows. Fascinerend en een beetje angstaanjagend.",
-        "ja": "コーンケーンから50kmの独特な村。住民が何世代にもわたりキングコブラと共存してきた場所。",
-        "ko": "킹코브라와 함께 살아가는 독특한 마을로, 뱀 쇼와 전통 문화를 체험할 수 있는 이색 명소입니다."
-      },
-      "type": "experience"
+      "name": "Wat Thung Setthi",
+      "story": "Wat Thung Setthi is the best answer when you want one temple in Khon Kaen that feels visually different from the standard city circuit. The architecture is more contemporary and symbolic than the lakefront classics, so it works as a deliberate contrast rather than a duplicate.",
+      "how_to_find": "Use it as a short detour outside the immediate lake-and-center loop.",
+      "best_time": "Late afternoon.",
+      "local_insights": [
+        "It adds visual variety without forcing a full temple marathon.",
+        "This is stronger as one planned stop than as a rushed add-on between meals."
+      ]
     },
     {
-      "name": {
-        "en": "Ton Tann Green Market",
-        "nl": "Ton Tann Green Market",
-        "ja": "トンタン・グリーンマーケット",
-        "ko": "톤탄 그린 마켓"
-      },
-      "description": {
-        "en": "A modern outdoor night market popular with Khon Kaen University students offering trendy street food, live music, craft beer, and vintage clothing in a hip park-like setting.",
-        "nl": "Een moderne openlucht nachtmarkt populair bij studenten van Khon Kaen University met trendy streetfood, live muziek, craft bier en vintage kleding in een hippe parkachtige omgeving.",
-        "ja": "コーンケーン大学の学生に人気のモダンな屋外ナイトマーケット。トレンディなストリートフードが楽しめます。",
-        "ko": "현지인들이 사랑하는 친환경 시장으로, 유기농 식품과 수공예품을 판매합니다."
-      },
-      "type": "market"
+      "name": "Sim Wat Chai Si",
+      "story": "Wat Chai Si matters because it gives Khon Kaen an older mural and storytelling layer that most quick city stays never reach. It is one of the better culture-led detours if you want something more regionally specific than another downtown temple.",
+      "how_to_find": "Best with a car or driver as part of a half-day cultural route.",
+      "best_time": "Morning or late afternoon.",
+      "local_insights": [
+        "Go for the murals and atmosphere, not for checklist tourism.",
+        "This is one of the cleanest ways to widen the trip beyond the lakefront."
+      ]
     },
     {
-      "name": {
-        "en": "Wat Pa Ban Kho (Glass Temple)",
-        "nl": "Wat Pa Ban Kho (Glazen Tempel)",
-        "ja": "ワット・パーバーンコー（ガラスの寺院）",
-        "ko": "왓파반코 (유리 사원)"
-      },
-      "description": {
-        "en": "A striking temple decorated entirely with recycled glass bottles, creating dazzling kaleidoscopic patterns when sunlight streams through. A quirky hidden gem about 40 km from the city.",
-        "nl": "Een opvallende tempel geheel versierd met gerecyclede glazen flessen, die verbluffende caleidoscopische patronen creeren wanneer zonlicht erdoorheen schijnt. Een eigenzinnige verborgen parel op ongeveer 40 km van de stad.",
-        "ja": "リサイクルガラスボトルで全面装飾された印象的な寺院。万華鏡のような美しい模様を生み出しています。",
-        "ko": "수백만 개의 유리병으로 장식된 독특한 사원으로, 재활용 예술의 걸작입니다."
-      },
-      "type": "temple"
+      "name": "Sri Muang Thong market run",
+      "story": "Sri Muang Thong is useful when you want to see Khon Kaen on local food terms rather than only through polished dinner picks. It is strongest as a produce-and-snack market rhythm, not as a neat tourist attraction.",
+      "how_to_find": "Use it in the morning if you want the market side of the city to feel real.",
+      "best_time": "Early morning.",
+      "local_insights": [
+        "It is better for atmosphere and product range than for one single famous stall.",
+        "This is the market counterweight to Ton Tann's evening scene."
+      ]
     },
     {
-      "name": {
-        "en": "Pratunam Market (Morning Market)",
-        "nl": "Pratunam Markt (Ochtendmarkt)",
-        "ja": "プラトゥーナム市場（朝市）",
-        "ko": "쁘라뚜남 시장 (아침 시장)"
-      },
-      "description": {
-        "en": "The city's oldest and most authentic wet market where locals shop for fresh produce, Isaan herbs, fermented fish, and prepared foods from 4 AM. The real heartbeat of Khon Kaen.",
-        "nl": "De oudste en meest authentieke versmarkt van de stad waar locals verse producten, Isaan-kruiden, gefermenteerde vis en bereide gerechten kopen vanaf 4 uur 's ochtends. Het echte kloppende hart van Khon Kaen.",
-        "ja": "市内最古の本格的な生鮮市場。地元の人々が新鮮な農産物、イサーンのハーブ、発酵食品を購入します。",
-        "ko": "현지인들의 아침 장보기 명소로, 신선한 식재료와 이산 전통 음식을 맛볼 수 있습니다."
-      },
-      "type": "market"
+      "name": "One western museum day only",
+      "story": "The underrated Khon Kaen move is restraint. If you choose the Phu Wiang side, give it enough time and do not overload the same day with every possible temple and market in town afterward.",
+      "how_to_find": "Treat the westbound museum route as the day's main commitment.",
+      "best_time": "Dry-season morning departure.",
+      "local_insights": [
+        "Khon Kaen gets better when you stop trying to squeeze the province into one flat itinerary.",
+        "One good half-day or day trip is usually enough for a short first stay."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Use Bueng Kaen Nakhon and Wat Nong Wang as the city core",
+      "story": "The lakefront and the nine-storey temple are the clearest way to understand Khon Kaen's everyday rhythm. They are not isolated landmarks; together they give the city its most legible public space and skyline.",
+      "cultural_significance": "This is where urban Khon Kaen feels most public, local, and recognizably itself.",
+      "how_to_participate": "Walk the lake in the cooler hours, then pair it with Wat Nong Wang rather than treating each as a separate mission.",
+      "insights": [
+        "This is the cleanest first move for any short Khon Kaen stay.",
+        "The city makes more sense when you start with atmosphere instead of only museum logic."
+      ],
+      "href": "/city/khon-kaen/attractions/bueng-kaen-nakhon/",
+      "cta_label": "See the lakefront guide"
     },
     {
-      "name": {
-        "en": "Nam Phong National Park",
-        "nl": "Nam Phong Nationaal Park",
-        "ja": "ナムポン国立公園",
-        "ko": "남퐁 국립공원"
-      },
-      "description": {
-        "en": "A quiet national park 50 km north of the city with scenic reservoir views, hiking trails, and the Tat Fa waterfall. Popular with locals for weekend picnics but virtually unknown to foreign visitors.",
-        "nl": "Een rustig nationaal park op 50 km ten noorden van de stad met schilderachtig stuwmeeruitzicht, wandelpaden en de Tat Fa-waterval. Populair bij locals voor weekendpicknicks maar vrijwel onbekend bij buitenlandse bezoekers.",
-        "ja": "市の北50kmにある静かな国立公園。貯水池の景色、ハイキングコース、滝が楽しめます。",
-        "ko": "콘깬 근교의 국립공원으로, 트레킹과 자연 관찰에 최적인 숨겨진 명소입니다."
-      },
-      "type": "nature"
+      "activity": "Choose one serious outer-city stop, not three weak ones",
+      "story": "Khon Kaen province has enough cultural and museum material to overload a short itinerary. The better move is to choose one real direction such as Phu Wiang, Wat Chai Si, or Chonnabot and let it shape the day.",
+      "cultural_significance": "That approach respects the scale of the province instead of flattening it into filler stops.",
+      "how_to_participate": "Pick one half-day or full-day route based on your interest: fossils, murals, silk, or temples.",
+      "insights": [
+        "The city is stronger when the day-trip logic stays selective.",
+        "This is the best correction for first-timers who overplan."
+      ],
+      "href": "/city/khon-kaen/top-10-attractions/",
+      "cta_label": "See the attraction guide"
+    },
+    {
+      "activity": "Treat food as part of the trip structure, not an afterthought",
+      "story": "Khon Kaen's strongest identity is culinary. MICHELIN's current city picks and TAT's market framing both point in the same direction: Isaan food and market rhythm are a core reason to be here, not just a convenient evening add-on.",
+      "cultural_significance": "Food is one of the clearest ways Khon Kaen expresses regional identity without performing for tourists.",
+      "how_to_participate": "Mix one or two targeted restaurant meals with Ton Tann or a produce-market run rather than eating every meal in malls or hotels.",
+      "insights": [
+        "The city improves quickly when you make room for both curated and informal meals.",
+        "Khon Kaen should feel like Isaan, not like a generic secondary city."
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "activity": "Stay central unless the hotel itself is part of the reason you booked",
+      "story": "Khon Kaen hotel geography is simpler than in resort cities. Most travelers do best with a central base near the lake, dining, and main roads, then use one more character-led stay only if the design or resort setting genuinely matters.",
+      "cultural_significance": "This reflects how the city is actually used: as a practical urban base, not a beach-style hotel destination.",
+      "how_to_participate": "Choose a central city hotel for a first stay, or switch to a design or riverside resort only if slower pacing is the point.",
+      "insights": [
+        "Hotel convenience matters more here than postcard views.",
+        "Khon Kaen rewards a good base more than an overcomplicated split stay."
+      ],
+      "href": "/city/khon-kaen/top-10-hotels/",
+      "cta_label": "See the hotel guide"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Modern Isaan cooking with current MICHELIN backing",
+      "location": "Kaen, See Na Nuan Cafe, Kaprao E Jae",
+      "story": "Khon Kaen's better restaurant layer is not generic fusion or imported chains. It is contemporary or tightly focused Isaan food that still keeps the region's seasoning, herb profile, and pace intact.",
+      "where_to_find": "Use the current MICHELIN-selected city restaurants for the strongest sit-down meals.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Order for the table and let one dish carry the heat while another balances it.",
+        "Khon Kaen is strongest when you lean into Isaan rather than avoiding it."
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "See the restaurant guide"
+    },
+    {
+      "dish": "Kai yang as a regional benchmark meal",
+      "location": "Kai Yang Wanna and grilled-chicken specialists around the province",
+      "story": "Grilled chicken is one of the easiest ways to feel the region's food identity quickly. In Khon Kaen, it belongs with sticky rice, tam-style salads, and a broader Isaan table rather than as a standalone snack.",
+      "where_to_find": "Use a MICHELIN-backed grilled-chicken stop or the market circuit for the most reliable version.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Add sticky rice and one sharp som tam or herb-heavy salad for balance.",
+        "This is a better lunch anchor than a late fancy dinner."
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "See more food picks"
+    },
+    {
+      "dish": "Ton Tann evening grazing instead of one more formal dinner",
+      "location": "Ton Tann Market",
+      "story": "Ton Tann is useful because it gives Khon Kaen an evening public-food rhythm. It is less about one famous stall and more about keeping the city social, casual, and easy to eat through in rounds.",
+      "where_to_find": "Best after dark as a flexible dinner or second-dinner move.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Walk first and eat in rounds rather than ordering immediately.",
+        "Use this to break up heavier sit-down meals."
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "See more food picks"
+    },
+    {
+      "dish": "One polished hotel meal when convenience matters",
+      "location": "Avani Khon Kaen or Ad Lib Khon Kaen",
+      "story": "Khon Kaen does not need every dinner to be hyper-local. One official hotel dining room can make sense when you arrive late, have business meetings, or want a cleaner transition between city work and travel.",
+      "where_to_find": "Use an official hotel dining venue near your base rather than building the whole trip around it.",
+      "price_range": "Mid-range to upscale",
+      "ordering_tips": [
+        "Keep hotel dining as a useful slot, not the whole culinary plan.",
+        "Mix it with market or MICHELIN-led meals so the trip keeps its regional identity."
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "See more food picks"
+    }
+  ],
+  "local_insights": [
+    "Khon Kaen is stronger as a city break with one selective day trip than as a province-wide checklist.",
+    "Bueng Kaen Nakhon matters most in the cooler hours, not in the middle of the day.",
+    "Wat Nong Wang is best treated as part of the lakefront sequence, not as an isolated stop.",
+    "Use MICHELIN and official hotel pages to filter food and hotel picks; older scraped ranking layers around this city were especially noisy.",
+    "For first-timers, the biggest mistake is overcommitting to out-of-town stops and underusing the city itself."
+  ],
+  "seasonal_secrets": "Khon Kaen is easiest from November to February, when the lakefront, temple visits, and any westbound museum or culture detour are much less punishing in the heat. March to May can still work, but the city's open-air market and lake routines shift harder toward early morning and after dark. Rainy season is still usable because Khon Kaen is an urban base, but it makes longer provincial loops less elegant and rewards a city-first itinerary.",
+  "budget_reality": "Khon Kaen is usually cheaper than Thailand's headline destinations, but that does not mean every cheap option is worth using. The city rewards selective spending: one stronger central hotel, several budget-to-mid-range Isaan meals, and one paid museum or day trip often produce a better trip than scattering the same budget across too many taxis and weak attractions. Hotel spend matters more than food spend here, and transport costs rise only when you start stacking multiple outer-city detours.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Bueng Kaen Nakhon",
+      "description": "The city's public lakefront and the simplest way to understand Khon Kaen's everyday rhythm before you leave town.",
+      "location": "Lakefront core",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Best city loop",
+        "Morning and evening atmosphere",
+        "Pairs naturally with Wat Nong Wang"
+      ],
+      "href": "/city/khon-kaen/attractions/bueng-kaen-nakhon/",
+      "cta_label": "See the lakefront guide"
+    },
+    {
+      "rank": 2,
+      "name": "Wat Nong Wang",
+      "description": "Khon Kaen's best-known temple and the strongest skyline stop around the lake.",
+      "location": "Bueng Kaen Nakhon edge",
+      "entrance_fee": "Usually free",
+      "highlights": [
+        "Nine-storey temple",
+        "Best panoramic city context",
+        "Easy first-time stop"
+      ],
+      "href": "/city/khon-kaen/attractions/wat-nong-wang/",
+      "cta_label": "See the Wat Nong Wang guide"
+    },
+    {
+      "rank": 3,
+      "name": "Phu Wiang Dinosaur Museum",
+      "description": "The province's most convincing museum day trip and the clearest reason to head west of the city.",
+      "location": "Phu Wiang side",
+      "entrance_fee": "Museum admission applies",
+      "highlights": [
+        "Strong fossil and dinosaur focus",
+        "Best science-led day trip",
+        "Official DMR museum"
+      ],
+      "href": "/city/khon-kaen/attractions/phu-wiang-dinosaur-museum/",
+      "cta_label": "See the Phu Wiang guide"
+    },
+    {
+      "rank": 4,
+      "name": "Wat Thung Setthi",
+      "description": "A modern, visually distinct temple stop that adds range to the city's religious layer.",
+      "location": "East of the center",
+      "entrance_fee": "Usually free",
+      "highlights": [
+        "Contemporary symbolic design",
+        "Good contrast to Wat Nong Wang",
+        "Short detour outside the core"
+      ],
+      "href": "/city/khon-kaen/attractions/wat-thung-setthi/",
+      "cta_label": "See the Wat Thung Setthi guide"
+    },
+    {
+      "rank": 5,
+      "name": "Sim Wat Chai Si",
+      "description": "One of the better culture-led detours for Isaan mural art and older local temple storytelling.",
+      "location": "Ban Sawathi side",
+      "entrance_fee": "Usually free",
+      "highlights": [
+        "Historic mural hall",
+        "Better for culture than crowds",
+        "Strong half-day detour"
+      ],
+      "href": "/city/khon-kaen/attractions/sim-wat-chai-si/",
+      "cta_label": "See the Wat Chai Si guide"
+    },
+    {
+      "rank": 6,
+      "name": "Natural History Museum, Khon Kaen University",
+      "description": "A smart in-city museum option if you want a shorter science-and-education stop without committing to Phu Wiang.",
+      "location": "Khon Kaen University",
+      "entrance_fee": "Check locally",
+      "highlights": [
+        "University museum setting",
+        "Good shorter museum option",
+        "Easy to pair with city time"
+      ],
+      "href": "/city/khon-kaen/attractions/natural-history-museum-khon-kaen-university/",
+      "cta_label": "See the museum guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Food by Fire",
-      "description": "Premium steakhouse and Asian cuisine restaurant with 4.9 TripAdvisor rating, offering quality grilled meats and international fare.",
-      "cuisine_type": "Steakhouse, Asian",
-      "price_range": "THB 300-500",
+      "name": "Kaen",
+      "cuisine_type": "Contemporary Thai and Isaan",
+      "description": "One of the strongest current Khon Kaen restaurant names if you want a more deliberate sit-down meal with a real regional point of view.",
+      "location": "Khon Kaen city",
+      "price_range": "Mid-range",
       "highlights": [
-        "Grilled meats",
-        "Asian dishes",
-        "Premium quality"
-      ]
+        "Current MICHELIN-recognized pick",
+        "Stronger than generic hotel dining",
+        "Good planned dinner"
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 2,
-      "name": "Seasons 27",
-      "description": "Italian and Mediterranean restaurant with 4.9 TripAdvisor rating, providing fine dining experience with European cuisine.",
-      "cuisine_type": "Italian, Mediterranean",
-      "price_range": "THB 350-600",
+      "name": "See Na Nuan Cafe",
+      "cuisine_type": "Thai and Isaan",
+      "description": "A useful Khon Kaen restaurant if you want a more relaxed city meal that still sits inside the current MICHELIN orbit.",
+      "location": "Khon Kaen city",
+      "price_range": "Budget to mid-range",
       "highlights": [
-        "Italian cuisine",
-        "Mediterranean dishes",
-        "Fine dining"
-      ]
+        "Current MICHELIN-recognized pick",
+        "Good casual sit-down option",
+        "Useful daytime or early-evening meal"
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 3,
-      "name": "Ju Fang",
-      "description": "Chinese and Asian cuisine specialist with 4.7 TripAdvisor rating, serving authentic regional dishes.",
-      "cuisine_type": "Chinese, Asian",
-      "price_range": "THB 200-400",
+      "name": "Kai Yang Wanna",
+      "cuisine_type": "Isaan grilled chicken",
+      "description": "A smart benchmark stop for the grilled-chicken side of the region if you want one classic Isaan meal built around a signature dish.",
+      "location": "Khon Kaen province",
+      "price_range": "Budget",
       "highlights": [
-        "Chinese cuisine",
-        "Asian specialties",
-        "Authentic flavors"
-      ]
+        "Current MICHELIN-recognized pick",
+        "Best for kai yang logic",
+        "Strong lunch stop"
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 4,
-      "name": "Gai Yang Rabeab",
-      "description": "Legendary grilled chicken specialist perfecting its recipe for over 30 years, marinating chicken 24 hours and charcoal-grilling to perfection.",
-      "cuisine_type": "Isaan",
-      "price_range": "THB 100-200",
+      "name": "Kaprao E Jae",
+      "cuisine_type": "Thai stir-fry and comfort dishes",
+      "description": "A focused local-style restaurant that works well when you want one reliable, current MICHELIN-backed everyday meal rather than a big occasion dinner.",
+      "location": "Khon Kaen city",
+      "price_range": "Budget",
       "highlights": [
-        "Gai yang",
-        "24-hour marinade",
-        "Charcoal-grilled"
-      ]
+        "Current MICHELIN-recognized pick",
+        "Good everyday-food slot",
+        "Better than generic mall meals"
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 5,
-      "name": "Khon Kaen Night Market (Fairy Plaza)",
-      "description": "Massive authentic Isaan street food market behind Fairy Plaza offering som tum, gai yang, sticky rice, larb, and fresh river fish from multiple competing stalls.",
-      "cuisine_type": "Isaan Street Food",
-      "price_range": "THB 40-100",
+      "name": "Sookjailand",
+      "cuisine_type": "Thai regional cooking",
+      "description": "A useful out-of-center restaurant for travelers who are willing to leave the core to get one more source-backed meal with stronger local character.",
+      "location": "Ban Fang side",
+      "price_range": "Budget to mid-range",
       "highlights": [
-        "Som tum",
-        "Gai yang",
-        "Fresh river fish"
-      ]
+        "Current MICHELIN-recognized pick",
+        "Good if food is the reason to detour",
+        "Not just a convenience stop"
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 6,
-      "name": "Smile @ Waterside",
-      "description": "Asian and Thai cuisine restaurant with 4.0 TripAdvisor rating, offering lakeside dining experience.",
-      "cuisine_type": "Asian, Thai",
-      "price_range": "THB 150-300",
+      "name": "Ton Tann Market",
+      "cuisine_type": "Street food and snacks",
+      "description": "The easiest flexible evening food zone in Khon Kaen when you want the city to feel social, local, and easy to eat through in rounds.",
+      "location": "Ton Tann area",
+      "price_range": "Budget",
       "highlights": [
-        "Lakeside location",
-        "Thai cuisine",
-        "Scenic views"
-      ]
+        "Best evening market rhythm",
+        "Easy casual dinner",
+        "Useful after dark"
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 7,
-      "name": "Blue's Sports Bar & Restaurant",
-      "description": "Mexican and International cuisine establishment with 4.4 TripAdvisor rating, casual dining environment.",
-      "cuisine_type": "Mexican, International",
-      "price_range": "THB 180-400",
+      "name": "Sri Muang Thong Market",
+      "cuisine_type": "Produce, snacks, and local market food",
+      "description": "More market run than polished restaurant, but one of the better ways to ground Khon Kaen's food identity in everyday local trade and produce.",
+      "location": "Khon Kaen city",
+      "price_range": "Budget",
       "highlights": [
-        "Mexican cuisine",
-        "Sports bar",
-        "International menu"
-      ]
-    },
-    {
-      "rank": 8,
-      "name": "Pla Chon Ton Khae",
-      "description": "Famous for outstanding pla chon (snakehead fish) dishes and classic Isaan cuisine, with locals queuing for grilled fish and som tum combo in simple authentic setting.",
-      "cuisine_type": "Isaan, Thai",
-      "price_range": "THB 80-150",
-      "highlights": [
-        "Pla chon (snakehead)",
-        "Som tum",
-        "Grilled fish"
-      ]
+        "Morning market energy",
+        "Strong local context",
+        "Best for produce and snack-led browsing"
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "See more food picks"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "Nadee 10 Resort & Hotel",
-      "description": "Top-rated resort with 4.9 TripAdvisor rating offering modern amenities and quality service.",
-      "price_range": "$50-80/night",
-      "category": "midrange",
+      "name": "Ad Lib Khon Kaen",
+      "description": "One of the cleanest current Khon Kaen picks if you want a design-led, central stay without losing practical access to the city's core.",
+      "price_range": "Upscale",
+      "category": "upscale",
+      "area": "Central Khon Kaen",
       "highlights": [
-        "4.9 rating",
-        "Resort amenities",
-        "Quality service"
-      ]
+        "Official hotel website",
+        "Design-led city stay",
+        "Strong central base"
+      ],
+      "href": "/city/khon-kaen/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 2,
-      "name": "Cheunjai Resort",
-      "description": "Well-regarded resort with 4.6 TripAdvisor rating providing comfortable accommodations.",
-      "price_range": "$40-70/night",
-      "category": "midrange",
+      "name": "Avani Khon Kaen Hotel & Convention Centre",
+      "description": "A practical full-service city hotel that suits travelers who want a strong central base, official facilities, and easy airport access.",
+      "price_range": "Mid-range to upscale",
+      "category": "mid-range",
+      "area": "Central Khon Kaen",
       "highlights": [
-        "4.6 rating",
-        "Comfortable rooms",
-        "Resort facilities"
-      ]
+        "Official hotel website",
+        "Large full-service property",
+        "Useful for business or longer stays"
+      ],
+      "href": "/city/khon-kaen/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 3,
-      "name": "Wishing Tree Khon Kaen Resort",
-      "description": "Resort with 4.4 TripAdvisor rating offering pleasant accommodations and amenities.",
-      "price_range": "$35-65/night",
-      "category": "midrange",
+      "name": "Nadee 10 Resort & Hotel",
+      "description": "A good fit if you want a more self-contained modern stay without defaulting to the city's bigger convention-hotel style.",
+      "price_range": "Mid-range",
+      "category": "mid-range",
+      "area": "City-side resort setting",
       "highlights": [
-        "4.4 rating",
-        "Resort facilities",
-        "Comfortable stay"
-      ]
+        "Official hotel website",
+        "Modern design-led rooms",
+        "Good balance of comfort and calm"
+      ],
+      "href": "/city/khon-kaen/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 4,
-      "name": "Rachawadee Khonkaen Airport Hotel",
-      "description": "Conveniently located airport hotel with 4.0 TripAdvisor rating, ideal for short stays and connections.",
-      "price_range": "$30-60/night",
-      "category": "budget",
+      "name": "Kosa Hotel",
+      "description": "A long-running central option that still makes sense if location and city practicality matter more than boutique styling.",
+      "price_range": "Mid-range",
+      "category": "mid-range",
+      "area": "Central Khon Kaen",
       "highlights": [
-        "Airport proximity",
-        "4.0 rating",
-        "Quick transfers"
-      ]
+        "Official hotel website",
+        "Established city-center base",
+        "Useful for short practical stays"
+      ],
+      "href": "/city/khon-kaen/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 5,
-      "name": "Jirawadee Resort",
-      "description": "Budget-friendly resort with 4.0 TripAdvisor rating providing basic comfort and amenities.",
-      "price_range": "$25-50/night",
-      "category": "budget",
+      "name": "Wishing Tree Resort",
+      "description": "The clearest slower-paced answer if you want greenery and a more resort-like mood without turning the trip into a full split stay.",
+      "price_range": "Mid-range to upscale",
+      "category": "special stay",
+      "area": "Outside the center",
       "highlights": [
-        "4.0 rating",
-        "Affordable",
-        "Basic amenities"
-      ]
+        "Official resort website",
+        "More secluded atmosphere",
+        "Best when a quieter stay matters"
+      ],
+      "href": "/city/khon-kaen/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     }
   ],
   "travel_tips": [
-    {
-      "title": {
-        "en": "Getting to Khon Kaen",
-        "nl": "Naar Khon Kaen reizen",
-        "ja": "コーンケーンへのアクセス"
-      },
-      "content": {
-        "en": "Khon Kaen has its own airport with direct flights from Bangkok (1 hour). Overnight trains from Bangkok Hua Lamphong take 8-9 hours. VIP buses from Mo Chit take 6 hours. The high-speed rail line from Bangkok is under construction.",
-        "nl": "Khon Kaen heeft een eigen luchthaven met directe vluchten vanuit Bangkok (1 uur). Nachttreinen vanuit Bangkok Hua Lamphong duren 8-9 uur. VIP-bussen vanuit Mo Chit duren 6 uur. De hogesnelheidslijn vanuit Bangkok is in aanbouw.",
-        "ja": "コーンケーンには空港があり、バンコクから直行便（1時間）。バンコクからの夜行列車も風情があります。"
-      }
-    },
-    {
-      "title": {
-        "en": "Embrace the Spice",
-        "nl": "Omarm de kruiden",
-        "ja": "辛さを楽しもう"
-      },
-      "content": {
-        "en": "Isaan food is genuinely spicy - much more so than central Thai cuisine. When ordering som tum, say 'mai phet' (not spicy) or 'phet nit noi' (a little spicy) if you are not accustomed. But try the real thing at least once.",
-        "nl": "Isaan-eten is oprecht pikant - veel meer dan centraal-Thaise keuken. Zeg bij het bestellen van som tum 'mai phet' (niet pikant) of 'phet nit noi' (een beetje pikant) als je het niet gewend bent. Maar probeer het echte werk minstens een keer.",
-        "ja": "イサーン料理は本当に辛い — 中央タイ料理よりずっと辛いです。ソムタムを注文する時は「辛さ控えめ」と伝えましょう。"
-      }
-    },
-    {
-      "title": {
-        "en": "Visit Chonnabot Silk Village",
-        "nl": "Bezoek Chonnabot Zijdedorp",
-        "ja": "チョンナボット・シルク村を訪問"
-      },
-      "content": {
-        "en": "The silk weaving village of Chonnabot is 50 km south of Khon Kaen. Take a bus from the main terminal (30 baht, 1 hour). Buy mudmee silk directly from weavers at 50-70% less than Bangkok prices. The King Cobra Silk Village has the best selection.",
-        "nl": "Het zijdeweef-dorp Chonnabot ligt 50 km ten zuiden van Khon Kaen. Neem een bus vanaf het hoofdterminal (30 baht, 1 uur). Koop mudmee-zijde rechtstreeks van wevers voor 50-70% minder dan Bangkokse prijzen. Het King Cobra Silk Village heeft de beste selectie.",
-        "ja": "シルク織りの村チョンナボットはコーンケーンの南50km。メインターミナルからバスで行けます。"
-      }
-    },
-    {
-      "title": {
-        "en": "Dinosaur Museum Day Trip",
-        "nl": "Dinosaurusmuseum dagtocht",
-        "ja": "恐竜博物館への日帰り旅行"
-      },
-      "content": {
-        "en": "The Phu Wiang Dinosaur Museum is 80 km west of the city. Hire a car or join a day tour as public transport is limited. The museum is open 9 AM - 5 PM, closed Mondays. Admission is 100 baht. Allow 3-4 hours for the full experience.",
-        "nl": "Het Phu Wiang Dinosaurusmuseum ligt 80 km ten westen van de stad. Huur een auto of neem deel aan een dagtour want openbaar vervoer is beperkt. Het museum is open van 9:00-17:00, gesloten op maandag. Toegang is 100 baht. Plan 3-4 uur voor de volledige ervaring.",
-        "ja": "プーウィアン恐竜博物館は市の西80km。公共交通が限られるためレンタカーまたはデイツアーがおすすめ。"
-      }
-    },
-    {
-      "title": {
-        "en": "Lake Walking and Cycling",
-        "nl": "Wandelen en fietsen rond het meer",
-        "ja": "湖畔のウォーキング＆サイクリング"
-      },
-      "content": {
-        "en": "Bueng Kaen Nakhon Lake has an 8 km walking/cycling path. Rent a bicycle from shops near the lake for 50 baht/hour. The best time is late afternoon when locals come out for exercise and the sunset reflects off Wat Nong Wang.",
-        "nl": "Bueng Kaen Nakhon meer heeft een 8 km wandel-/fietspad. Huur een fiets bij winkels bij het meer voor 50 baht/uur. De beste tijd is de late namiddag wanneer locals komen sporten en de zonsondergang weerkaatst op Wat Nong Wang.",
-        "ja": "ブンケーンナコン湖には8kmのウォーキング・サイクリングコースがあり。湖近くのショップで自転車レンタル可能。"
-      }
-    }
+    "Treat Khon Kaen as a city stay first and a province detour second; that keeps the itinerary coherent.",
+    "Use Bueng Kaen Nakhon and Wat Nong Wang in the cooler hours and leave heavy movement for the morning or evening.",
+    "Choose one serious out-of-town priority such as Phu Wiang, Wat Chai Si, or the silk route instead of stacking weak extras.",
+    "Keep one market meal and one planned sit-down Isaan meal in the itinerary so the food side does real work.",
+    "Book central unless the hotel itself is part of the reason for the trip."
   ],
   "best_time_to_visit": {
-    "en": "November to February offers cooler, drier weather ideal for sightseeing. Khon Kaen's Silk Festival in late November/early December is a spectacular event. The rainy season (May-October) brings lush green landscapes but occasional flooding. March-April is extremely hot (38-42 degrees Celsius).",
-    "nl": "November tot februari biedt koeler, droger weer ideaal voor bezichtigingen. Het Zijdefestival van Khon Kaen eind november/begin december is een spectaculair evenement. Het regenseizoen (mei-oktober) brengt weelderig groen landschap maar af en toe overstromingen. Maart-april is extreem heet (38-42 graden Celsius).",
-    "ja": "11月〜2月が涼しく乾燥した観光に最適な時期。コーンケーンのシルクフェスティバルも見どころ。"
+    "season": "Cool season",
+    "months": "November - February",
+    "weather": "Usually the easiest stretch for lakefront walking, temple visits, markets, and any museum or culture-led day trip outside the center.",
+    "reasons": "Best for first-time visitors who want the city core plus one selective provincial detour without heavy heat."
   },
   "budget_info": {
-    "budget_per_day": {
-      "en": "$20-30",
-      "nl": "$20-30",
-      "ja": "¥3,000〜4,500"
-    },
-    "midrange_per_day": {
-      "en": "$50-80",
-      "nl": "$50-80",
-      "ja": "¥7,400〜11,900"
-    },
-    "luxury_per_day": {
-      "en": "$150+",
-      "nl": "$150+",
-      "ja": "¥22,300〜"
-    }
+    "budget": "$20-40 per day",
+    "mid_range": "$45-110 per day",
+    "luxury": "$120-240 per day",
+    "notes": "Food stays affordable in Khon Kaen; hotel choice and car-based detours change the budget much faster than meals do."
   },
-  "enhanced_at": "2026-02-22T00:00:00.000Z",
-  "overview": "Khon Kaen stands as the unofficial capital of Isaan and the vibrant gateway to northeastern Thailand. This thriving university city of 400,000 residents seamlessly blends cultural heritage with modern energy, offering travelers an authentic glimpse into Thai regional life far from the typical tourist trail. From world-class dinosaur fossils at the Phu Wiang Dinosaur Museum to the serene Bueng Kaen Nakhon Lake with its 8-kilometer walking path, Khon Kaen delivers unforgettable experiences that showcase the best of Isaan's natural beauty, culinary traditions, and cultural treasures.",
-  "thingsToDo": "History enthusiasts should not miss the Phu Wiang Dinosaur Museum (THB 100/$3 entrance fee), home to remarkable Siamotyrannus fossils, life-size replicas, and interactive exhibits that bring prehistoric Thailand to life. The stunning Bueng Kaen Nakhon Lake offers free admission and serves as the city's recreational heart, featuring an 8-kilometer walking path perfect for sunrise or sunset strolls, with numerous lakeside food stalls offering authentic local cuisine. Cultural exploration continues at Chonnabot Silk Weaving Village (free admission), where visitors can watch artisans create traditional mudmee silk using centuries-old techniques and purchase directly from weavers, or visit Khon Kaen National Museum (THB 100/$3) to explore Dvaravati art and regional Isaan history. Spiritual seekers should ascend the nine-story Wat Nong Wang (Phra Mahathat Kaen Nakhon) for panoramic city views and lakeside serenity, while nature lovers can venture to Nam Phong National Park (THB 100/$3 entrance) to discover Tat Fa waterfall and scenic hiking trails through pristine landscapes.",
-  "whereToStay": "Khon Kaen offers diverse accommodation options across multiple price ranges and neighborhoods, making it accessible for all travel budgets. Budget-conscious travelers will find excellent value at 2-3 star hotels like Hop Inn Khon Kaen Srichan Road Building A (from $26/night) and Jamjuree Place (from $18/night), both conveniently located near the city center, Khon Kaen Train Station, and Khon Kaen University with amenities including air conditioning, free Wi-Fi, and private bathrooms. Mid-range options like Khonkaen Residence (around $31/night, located 1 mile from Kaen Nakorn Lake) provide comfortable rooms with additional amenities and better facilities for travelers seeking more comfort. Those seeking premium experiences can explore luxury properties that offer resort-style amenities, though Khon Kaen's strength lies in its exceptional value across all categories—even mid-range hotels deliver high-quality service at prices significantly lower than Western destinations.",
+  "thingsToDo": "Start Khon Kaen with the lakefront instead of treating the city as a transport hub you merely sleep in. Bueng Kaen Nakhon and Wat Nong Wang give the cleanest first structure: a public city loop, the temple skyline, and enough context to understand how Khon Kaen moves. After that, the smart decision is choosing one serious secondary layer. Phu Wiang is the strongest full museum-led detour. Wat Thung Setthi works as a short design-and-temple contrast. Sim Wat Chai Si or the Chonnabot silk route fit better if you want culture rather than fossils.\n\nThe city gets much better when food stays central to the plan. Build in one current MICHELIN-backed meal, one market-led evening, and one lighter city wandering block around the lake or university side. That produces a Khon Kaen trip with real shape: not only landmarks, but urban rhythm, regional food, and one out-of-town angle that actually suits your interests.",
+  "whereToStay": "Khon Kaen hotel strategy is simple compared with resort destinations. Most first-timers should stay central, where the lakefront, main roads, restaurant options, and practical city movement all stay easy. That is why Ad Lib, Avani, Nadee 10, and Kosa make more sense for many travelers than overthinking split stays.\n\nUse a quieter resort-style property such as Wishing Tree only if the atmosphere is part of the trip's purpose. Otherwise, central access is the better use of time. Khon Kaen is a city where convenience usually beats scenery.",
   "whereToEat": [
     {
-      "name": "Food by Fire",
-      "cuisine": "Steakhouse, Asian",
+      "name": "Kaen",
+      "cuisine": "Contemporary Thai and Isaan",
       "priceRange": "$$",
-      "description": "Premium steakhouse and Asian cuisine with 4.9 TripAdvisor rating, serving quality grilled meats and international fare."
+      "description": "A strong planned dinner if you want Khon Kaen's current higher-end regional-food layer."
     },
     {
-      "name": "Seasons 27",
-      "cuisine": "Italian, Mediterranean",
-      "priceRange": "$$",
-      "description": "Fine dining Italian and Mediterranean restaurant with 4.9 TripAdvisor rating."
+      "name": "See Na Nuan Cafe",
+      "cuisine": "Thai and Isaan",
+      "priceRange": "$-$$",
+      "description": "A useful casual sit-down option with current MICHELIN recognition."
     },
     {
-      "name": "Ju Fang",
-      "cuisine": "Chinese, Asian",
-      "priceRange": "$$",
-      "description": "Chinese and Asian cuisine specialist with 4.7 TripAdvisor rating serving authentic regional dishes."
-    },
-    {
-      "name": "Gai Yang Rabeab",
-      "cuisine": "Isaan",
+      "name": "Kai Yang Wanna",
+      "cuisine": "Isaan grilled chicken",
       "priceRange": "$",
-      "description": "Legendary grilled chicken restaurant perfecting its recipe for 30+ years with 24-hour marinated, charcoal-grilled chicken."
+      "description": "One of the best ways to anchor a meal around a regional staple."
     },
     {
-      "name": "Khon Kaen Night Market (Fairy Plaza)",
-      "cuisine": "Isaan Street Food",
+      "name": "Kaprao E Jae",
+      "cuisine": "Thai comfort dishes",
       "priceRange": "$",
-      "description": "Massive authentic Isaan street food market offering som tum, gai yang, sticky rice, larb, and fresh river fish from multiple stalls."
+      "description": "A good current everyday-food pick inside the city's MICHELIN layer."
     },
     {
-      "name": "Pla Chon Ton Khae",
-      "cuisine": "Isaan, Thai",
+      "name": "Ton Tann Market",
+      "cuisine": "Street food and snacks",
       "priceRange": "$",
-      "description": "Famous for outstanding pla chon (snakehead fish) dishes and classic Isaan cuisine where locals queue for grilled fish and som tum."
+      "description": "The easiest evening market dinner move in Khon Kaen."
     },
     {
-      "name": "Smile @ Waterside",
-      "cuisine": "Asian, Thai",
-      "priceRange": "$$",
-      "description": "Asian and Thai cuisine with 4.0 TripAdvisor rating offering lakeside dining experience."
-    },
-    {
-      "name": "Blue's Sports Bar & Restaurant",
-      "cuisine": "Mexican, International",
-      "priceRange": "$$",
-      "description": "Mexican and International cuisine establishment with 4.4 TripAdvisor rating in casual sports bar environment."
+      "name": "Sri Muang Thong Market",
+      "cuisine": "Market food and produce",
+      "priceRange": "$",
+      "description": "Best for an early market run rather than a formal meal."
     }
   ],
-  "topHotels": [
-    {
-      "name": "Nadee 10 Resort & Hotel",
-      "category": "midrange",
-      "priceRange": "$50-80/night",
-      "area": "City Center",
-      "description": "Top-rated resort with 4.9 TripAdvisor rating offering modern rooms, comfortable amenities, and quality service in a convenient city location."
-    },
-    {
-      "name": "Cheunjai Resort",
-      "category": "midrange",
-      "priceRange": "$40-70/night",
-      "area": "City Center",
-      "description": "Well-regarded resort with 4.6 TripAdvisor rating providing comfortable rooms and resort facilities."
-    },
-    {
-      "name": "Wishing Tree Khon Kaen Resort",
-      "category": "midrange",
-      "priceRange": "$35-65/night",
-      "area": "Lake Area",
-      "description": "Resort with 4.4 TripAdvisor rating offering pleasant accommodations near Bueng Kaen Nakhon Lake."
-    },
-    {
-      "name": "Rachawadee Khonkaen Airport Hotel",
-      "category": "budget",
-      "priceRange": "$30-60/night",
-      "area": "Airport Area",
-      "description": "Conveniently located airport hotel with 4.0 TripAdvisor rating, ideal for connections and short stays."
-    },
-    {
-      "name": "Jirawadee Resort",
-      "category": "budget",
-      "priceRange": "$25-50/night",
-      "area": "City Center",
-      "description": "Budget-friendly resort with 4.0 TripAdvisor rating providing basic comfort and amenities."
-    },
-    {
-      "name": "Pullman Khon Kaen Raja Orchid",
-      "category": "luxury",
-      "priceRange": "$100-150/night",
-      "area": "City Center - Prachasamosorn Road",
-      "description": "Khon Kaen's premier luxury hotel featuring luxurious rooms, rooftop pool, multiple restaurants, full-service spa, and lakeside location."
-    },
-    {
-      "name": "Avani Khon Kaen Hotel & Convention Centre",
-      "category": "luxury",
-      "priceRange": "$90-140/night",
-      "area": "City Center",
-      "description": "Modern luxury hotel with stylish rooms, excellent gym, pool, and one of the best hotel restaurants in the city."
-    },
-    {
-      "name": "Glacier Hotel Khon Kaen",
-      "category": "midrange",
-      "priceRange": "$35-55/night",
-      "area": "City Center",
-      "description": "Modern mid-range hotel with clean rooms, good breakfast, and friendly staff walking distance to Central Plaza and night market."
-    }
-  ],
-  "gettingAround": "Khon Kaen's city transport relies primarily on tuk-tuks and songthaews (shared minibuses), both inexpensive and readily available throughout the city. Tuk-tuks are ideal for short distances or when you prefer privacy, with negotiated fares typically ranging from THB 40-100 ($1.25-3) depending on distance, while songthaews follow fixed routes and cost only THB 10-20 ($0.30-0.60) per trip, making them perfect for budget travelers exploring the city systematically. Motorbike rental (THB 150-250/$5-8 per day) provides excellent flexibility for reaching outlying attractions like Chonnabot Silk Weaving Village or Nam Phong National Park, though Thai driving standards require caution and an international driving permit. The Grab app works reliably in Khon Kaen for app-based ride-hailing with transparent pricing (THB 50-150 per trip), and several car rental agencies operate near the city center for those preferring independent exploration. Khon Kaen Train Station offers connections to Bangkok and other Isaan cities, with trains providing a scenic and economical travel option.",
-  "bestTimeToVisit": "Khon Kaen's best travel months fall during the cool season from November through February, when temperatures range from pleasant 20-28°C (68-82°F), skies remain clear, and humidity drops significantly compared to other seasons. These months coincide with Thailand's dry season, ensuring comfortable conditions for exploring lakeside attractions, visiting cultural sites, and enjoying street food markets without the oppressive heat of March-May or the monsoon rains of June-October. December and January represent the absolute peak season with the most comfortable conditions, though slightly higher accommodation prices may apply. The months of March through May become increasingly hot and humid, with temperatures exceeding 35°C (95°F), making outdoor exploration challenging for most travelers. The monsoon season from June to October brings heavy rainfall, particularly August and September, which can limit activities and temple visiting, though prices drop and fewer tourists crowd the museums and markets during this period.",
+  "gettingAround": "Khon Kaen is easier than many provincial Thai cities once you separate the city core from the out-of-town layer. Around Bueng Kaen Nakhon, the temple, central hotels, and many restaurants, short taxi or ride-hailing hops are usually enough. Walking works best in short stretches around the lake rather than as an all-day city strategy.\n\nOut-of-town stops such as Phu Wiang, Wat Chai Si, or Chonnabot are a different question. Those are better handled by car, driver, or a clearly planned day rather than by improvising multiple point-to-point rides. The practical rule is simple: keep the city compact, and treat every outer-city stop as a deliberate transport commitment.",
+  "bestTimeToVisit": "Khon Kaen is easiest from November to February, when the lakefront, temple visits, and any museum or mural detour are more comfortable in the daytime. March to May can still work for a short city stay, but the best parts of the day shift toward early morning and after sunset. Rainy season is manageable because the destination is urban, yet it rewards shorter city-based plans and one selective detour rather than long scattered loops around the province.",
   "budgetGuide": {
     "budget": {
       "min": 20,
       "max": 40,
-      "description": "Budget travelers can live comfortably on $20-40 daily by staying in 2-star guesthouses ($15-25/night), eating exclusively at street food markets and casual restaurants ($3-8 daily), using songthaews for transport ($0.30-0.60 per trip), and visiting free attractions like Bueng Kaen Nakhon Lake. Museum and national park entrance fees add minimal costs at THB 100 ($3) each."
+      "description": "Budget Khon Kaen usually means a simple central hotel, market-heavy meals, and a city-first itinerary with only one paid museum or day trip."
     },
     "midrange": {
-      "min": 50,
-      "max": 100,
-      "description": "Mid-range travelers spending $50-100 daily can book 3-4 star hotels ($35-70/night), enjoy meals at established local restaurants and quality dining ($5-15 per meal), use occasional tuk-tuks or Grab rides ($1-5 per ride), and comfortably afford all attractions and activities including guided tours. This range allows significant comfort while maintaining authentic local experiences."
+      "min": 45,
+      "max": 110,
+      "description": "Mid-range budgets buy the best version of Khon Kaen for most travelers: a stronger central hotel, several targeted restaurant meals, and enough transport flexibility for one proper provincial detour."
     },
     "luxury": {
-      "min": 150,
-      "max": 400,
-      "description": "Luxury travelers with $150-400 daily budgets can stay at premium resorts like Pullman Khon Kaen Raja Orchid or Avani Khon Kaen ($100-150/night), dine at fine restaurants like Food by Fire or Seasons 27 ($20-40 per meal), arrange private transportation and guides, and enjoy spa treatments, wellness activities, and exclusive experiences."
+      "min": 120,
+      "max": 240,
+      "description": "Higher budgets in Khon Kaen are mostly about better hotels, smoother car-based movement, and one or two polished meals rather than about ultra-luxury sightseeing."
     }
   },
-  "safetyTips": "Khon Kaen is generally a safe city with low violent crime rates, though standard traveler precautions apply: avoid displaying expensive jewelry, cameras, or cash in crowded markets, keep valuables secure in hotel safes, and remain aware of surroundings during nighttime activities. The city's university population creates a young, vibrant atmosphere that typically ensures good security, and police presence is visible throughout main tourist areas. Traffic safety deserves attention—Thai roads feature aggressive driving patterns, so travelers should exercise extreme caution when crossing streets, riding motorbikes, or traveling by tuk-tuk, particularly after dark. Petty theft occasionally occurs in crowded night markets and on public transport, so keep backpacks in front and avoid carrying excessive cash. The tap water is generally not recommended for drinking; purchase bottled water cheaply throughout the city (THB 8-15 per bottle). Health facilities are adequate for routine care, though serious medical issues may require travel to Bangkok.",
+  "safetyTips": "Khon Kaen is generally straightforward for visitors, and the bigger travel risk is wasted time rather than personal safety. Plan outer-city transport before you leave, especially for museum or culture stops away from the center. Dress respectfully for temple visits, stay careful around roads when moving between the lake and nearby districts, and save the heaviest outdoor walking for cooler hours. If you use market areas after dark, keep the usual city awareness but do not overcomplicate the city as a high-risk destination.",
   "faq": [
     {
-      "question": "How many days should I spend in Khon Kaen?",
-      "answer": "Two to three days is ideal for experiencing Khon Kaen's main attractions: one day for Phu Wiang Dinosaur Museum (THB 100/$3) and Khon Kaen National Museum (THB 100/$3), one day exploring Bueng Kaen Nakhon Lake and Wat Nong Wang, and optionally a day trip to Chonnabot Silk Weaving Village (free) or Nam Phong National Park (THB 100/$3). Longer stays allow deeper engagement with local markets and regional culture."
+      "question": "Is Khon Kaen worth visiting if I am not using it only as a transit stop?",
+      "answer": "Yes. Khon Kaen is strongest as an urban Isaan base with a lakefront core, strong food identity, and one or two selective day trips."
     },
     {
-      "question": "What is the entrance fee for Phu Wiang Dinosaur Museum?",
-      "answer": "The entrance fee is THB 100 (approximately $3 USD), making it one of Thailand's most affordable major museums while offering world-class fossil displays and interactive exhibits about Thailand's prehistoric past."
+      "question": "How many nights do I need in Khon Kaen?",
+      "answer": "Two nights is a good first stay if you want the city plus one outer-city stop. One night works only if the trip stays mostly in town."
     },
     {
-      "question": "Can I visit Bueng Kaen Nakhon Lake for free?",
-      "answer": "Yes, Bueng Kaen Nakhon Lake is completely free to enter and explore. The park features an 8-kilometer walking path, sunset views, and numerous lakeside food stalls, making it perfect for budget-conscious travelers seeking recreation and authentic local atmosphere."
+      "question": "What are the most important attractions in Khon Kaen itself?",
+      "answer": "For most first visits, Bueng Kaen Nakhon and Wat Nong Wang are the essential city-core stops."
     },
     {
-      "question": "What is the average tuk-tuk fare in Khon Kaen?",
-      "answer": "Tuk-tuk fares typically range from THB 40-100 ($1.25-3) depending on distance and destination. Negotiate the price before boarding, as tuk-tuks do not use meters in Khon Kaen."
+      "question": "Is Phu Wiang worth the trip from Khon Kaen city?",
+      "answer": "Yes, if fossils and museum-quality interpretation interest you. It is the strongest science-led day trip from the city."
     },
     {
-      "question": "Is it safe to rent a motorbike in Khon Kaen?",
-      "answer": "Motorbike rental is available at THB 150-250 ($5-8) per day, but requires an international driving permit and caution due to Thai driving standards. Wear a helmet (mandatory by law), avoid nighttime riding, and exercise extreme care on roads."
+      "question": "What is the best food strategy in Khon Kaen?",
+      "answer": "Mix one or two current MICHELIN-backed restaurants with at least one market-led meal. That gives the city both structure and local texture."
+    },
+    {
+      "question": "Should I stay central or outside the city?",
+      "answer": "Central is usually better for a first stay. Choose a quieter out-of-center resort only if the hotel atmosphere is part of the trip's purpose."
     }
   ],
   "practicalInfo": {
     "bestMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
     ],
-    "nearestAirport": "Khon Kaen International Airport (KKC)",
-    "travelTimeFromAirport": "20-30 minutes by car to city center",
+    "nearestAirport": "Khon Kaen Airport",
+    "travelTimeFromAirport": "Usually around 15 to 25 minutes to central Khon Kaen depending on traffic and hotel location.",
     "localTransport": [
-      "Tuk-tuk (THB 40-100 per trip)",
-      "Songthaew (THB 10-20 per trip)",
-      "Motorbike rental (THB 150-250/day)",
-      "Grab app ride-hailing",
-      "Train (Khon Kaen Train Station)"
+      "Short taxi or ride-hailing trips within the city",
+      "Walking around the lakefront in short stretches",
+      "Private car or driver for Phu Wiang, Wat Chai Si, or Chonnabot",
+      "Hotel-arranged transport for out-of-town meals or stays when needed",
+      "Keeping outer-city stops to one main direction per day"
     ]
   },
-  "enrichedAt": "2026-02-22T12:45:52.226Z",
-  "seasonal_secrets": {
-    "best_times": {
-      "November-February (Best)": "Khon Kaen's best travel months fall during the cool season from November through February, when temperatures range from pleasant 20-28°C (68-82°F), skies remain clear, and humidity drops significantly compared to other seasons. These months coincide with Thailand's dry season, ensuring comfortable conditions for exploring lakeside attractions, visiting cultural sites, and enjoying street food markets without the oppressive heat of March-May or the monsoon rains of June-October.",
-      "March-May (Hot Season)": "Very hot, 30-40°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
-      "June-October (Green Season)": "Warm with regular rainfall. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
-    },
-    "local_festivals": [
-      "Loy Krathong Festival",
-      "King's Birthday (Father's Day - Dec 5)",
-      "New Year celebrations",
-      "Makha Bucha Day",
-      "Chinese New Year (varies)",
-      "Songkran Water Festival (April 13-15) - celebrated nationwide"
-    ],
-    "seasonal_foods": {
-      "cool": "Grilled chicken (Gai Yang), sticky rice, and spicy Som Tam enjoyed outdoors. Local favorites include Khon Kaen Night Market (Fairy Plaza) and Pla Chon Ton Khae.",
-      "hot": "Refreshing papaya salads and cold drinks along the riverside. Local favorites include Khon Kaen Night Market (Fairy Plaza) and Pla Chon Ton Khae.",
-      "rainy": "Isaan sausages (Sai Krok), larb, and seasonal river fish. Local favorites include Khon Kaen Night Market (Fairy Plaza) and Pla Chon Ton Khae."
-    },
-    "insider_tips": {
-      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
-      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Khon Kaen.",
-      "Dinosaur Museum": "Visit Dinosaur Museum during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
-    }
-  },
-  "top_attractions": [
+  "contentSources": [
     {
-      "rank": 1,
-      "name": "Phu Wiang Dinosaur Museum",
-      "description": "Thailand's premier dinosaur museum featuring Siamotyrannus fossils, life-size replicas, and interactive exhibits showcasing Thailand's prehistoric heritage.",
-      "location": "Phu Wiang District, Khon Kaen Province",
-      "entrance_fee": "THB 100 ($3 USD)",
-      "highlights": [
-        "Siamotyrannus fossils",
-        "Interactive exhibits",
-        "Life-size dinosaur models"
-      ]
+      "type": "tourism-office",
+      "title": "10 Things to Do in Khon Kaen",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-khon-kaen",
+      "description": "Used for official destination framing, core attractions, Ton Tann context, and the broader first-time Khon Kaen planning lens."
     },
     {
-      "rank": 2,
-      "name": "Bueng Kaen Nakhon Lake",
-      "description": "The city's recreational centerpiece offering free admission with an 8-kilometer walking path, lakeside dining, and scenic sunset views.",
-      "location": "City Center",
-      "entrance_fee": "Free",
-      "highlights": [
-        "8km walking path",
-        "Sunrise/sunset views",
-        "Lakeside food stalls"
-      ]
+      "type": "tourism-office",
+      "title": "Khon Kaen E-Brochure",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://tourismthailand.my/ebook/E-Brochure%20Khon%20kaen%20%28En%29.pdf",
+      "description": "Used for broad official city-and-province context and attraction hierarchy."
     },
     {
-      "rank": 3,
-      "name": "Wat Nong Wang (Phra Mahathat Kaen Nakhon)",
-      "description": "Nine-story temple providing panoramic city views and lakeside serenity, combining spiritual significance with scenic vistas.",
-      "location": "Bueng Kaen Nakhon Lake area",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Nine-story temple",
-        "Panoramic city views",
-        "Lake views"
-      ]
+      "type": "attraction",
+      "title": "Fossil Research Center and Dinosaur Museum, Khon Kaen",
+      "creator": "Department of Mineral Resources, Thailand",
+      "url": "https://uat-es.dmr.go.th/en/rcmk-en/",
+      "description": "Used for official Phu Wiang fossil-research and museum context."
     },
     {
-      "rank": 4,
-      "name": "Khon Kaen National Museum",
-      "description": "Regional museum showcasing Dvaravati art, prehistoric artifacts, and Isaan cultural heritage with well-curated exhibits.",
-      "location": "City Center",
-      "entrance_fee": "THB 100 ($3 USD)",
-      "highlights": [
-        "Dvaravati art",
-        "Regional history",
-        "Prehistoric artifacts"
-      ]
+      "type": "attraction",
+      "title": "Natural History Museum Khon Kaen University",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Tourism-Product/Attraction/natural-history-museum-khon-kaen-university",
+      "description": "Used for official museum context inside the city."
     },
     {
-      "rank": 5,
-      "name": "Nam Phong National Park",
-      "description": "Natural park featuring Tat Fa waterfall, scenic hiking trails, and pristine landscapes perfect for nature exploration.",
-      "location": "Nam Phong District",
-      "entrance_fee": "THB 100 ($3 USD)",
-      "highlights": [
-        "Tat Fa waterfall",
-        "Hiking trails",
-        "Scenic landscapes"
-      ]
+      "type": "attraction",
+      "title": "Khonkaen-Udonthani Silk",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/khonkaen-udonthani-silk",
+      "description": "Used for Chonnabot and regional silk context."
     },
     {
-      "rank": 6,
-      "name": "Chonnabot Silk Weaving Village",
-      "description": "Traditional mudmee silk weaving center where artisans demonstrate centuries-old techniques and sell directly to visitors.",
-      "location": "Chonnabot District",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Live weaving demonstrations",
-        "Mudmee silk",
-        "Direct artisan sales"
-      ]
-    }
-  ],
-  "factchecked_at": "2026-03-08T18:33:48.411Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "Khon Kaen trof me met de volle kracht van Isaan op het moment dat ik uit de nachttrein vanuit Bangkok stapte. De lucht was dik en warm, de perronaankondigingen knisperden in het kenmerkende noordoostelijke dialect, en een vrouw bij een karretje buiten het station stampte som tum met een vijzel zo groot als een klein kanon. Dit is de onofficiële hoofdstad van Isaan — een stad van 400.000 die bruist van de energie van de 40.000 studenten van Khon Kaen University, een bloeiende techsector, en een eetcultuur die zo intens en onverschaamd pittig is dat Bangkok er tam bij lijkt. Ik checkte in bij het Pullman Khon Kaen Raja Orchid aan Prachasamosorn Road en ging meteen naar buiten om te eten.\n\nDe eetscene van Khon Kaen alleen al rechtvaardigt de reis. Op de nachtmarkt achter Khon Kaen Fairy Plaza aan Klang Muang Road vond ik de definitieve versie van som tum (papajasalade) — de verkoopster, een vrouw die iedereen Mae Somtum noemde, maakte het op bestelling met pla ra (gefermenteerde vissaus), het funky, scherpe kruidenmengsel dat echt Isaan-eten scheidt van de opgepoetste versies die aan toeristen in Bangkok worden verkocht. Ik at gai yang (gegrilde kip) van een karretje aan Na Muang Road dat 24 uur had gemarineerd in knoflook en korianderwortel, en kleefrijst die in kleine geweven bamboemandjes kwam. Bij de beroemde Ton Tann Green Market, een moderne nachtbazaar populair bij universiteitsstudenten, probeerde ik voor het eerst koi pla (rauwe vissalade) — het kostte moed, maar de smaken waren buitengewoon.\n\nHet Phu Wiang Dinosaurusmuseum, ongeveer 80 kilometer ten westen van de stad, is van wereldklasse en oprecht verrassend. Thailand was een belangrijk dinosaurushabitat tijdens het Jura en Krijt, en de fossielen gevonden in de provincie Khon Kaen omvatten Siamotyrannus isanensis — een verwant van T-Rex die 120 miljoen jaar geleden over deze vlakten zwierf. Het museum is modern, goed samengesteld en interactief, met levensgrote dinosaurusreplica's verspreid door een bebost park. Een paleontoloog die ik daar ontmoette vertelde me dat de provincie Khon Kaen meer dinosaurusfossielen heeft opgeleverd dan enige andere regio in Zuidoost-Azië. Voor een stad die weinig Westerse toeristen bezoeken, voelde dit als een opmerkelijk geheim.\n\nTerug in de stad bracht ik een rustige middag door met wandelen rond Bueng Kaen Nakhon, het grote meer in het centrum. Een pad van 8 kilometer omcirkelt het water, en in de late namiddag vult het zich met joggers, fietsers en gezinnen. Ik stopte bij Wat Nong Wang, de negen verdiepingen tellende tempel die oprijst van de meeroever als een bruidstaart van gouden torenspitsen. De bovenste verdieping biedt panoramisch uitzicht over de stad en het uitgestrekte Khorat-plateau dat zich eindeloos uitstrekt tot aan de horizon. Van daaruit nam ik een tuk-tuk naar Chonnabot, een dorp ongeveer 50 kilometer naar het zuiden dat het hart is van de Isaan-zijdeweeftraditie. Bij het King Cobra Silk Village keek ik hoe vrouwen mudmee-zijde weefden op houten weefgetouwen, waarbij ze ingewikkelde tie-dye patronen creeerden die al honderden jaren op dezelfde manier worden gemaakt. Ik kocht een zijden sjaal rechtstreeks van de weefster voor 800 baht — dezelfde kwaliteit zou 3.000 baht kosten in een Bangkoks warenhuis.\n\nKhon Kaen heeft niet de Instagram-aantrekkingskracht van Chiang Mai of de strandlokroep van Krabi, en dat is precies zijn charme. Dit is een werkende Thaise stad waar de cultuur onzelfbewust is en de gastvrijheid ongedwongen. In een lokale bar genaamd Living Room aan Prachasamosorn Road raakte ik in gesprek met een groep universiteitsdocenten die erop stonden me lao khao (rijstwhisky) te kopen en me Isaan-drinkliedjes te leren. Tegen middernacht probeerde ik mor lam te dansen, de hypnotiserende Isaan-volksmuziek die traditionele melodieën mengt met stampende elektronische beats. Ik verliet Khon Kaen met hoofdpijn en een glimlach, overtuigd dat Isaan de meest onderschatte regio van Thailand is.",
-      "overview": "Khon Kaen is de onofficiële hoofdstad van Isaan en de bruisende poort naar Noordoost-Thailand. Deze bloeiende universiteitsstad van 400.000 inwoners combineert moeiteloos cultureel erfgoed met moderne energie en biedt reizigers een authentieke blik op het Thaise regionale leven, ver van het gebruikelijke toeristenpad. Van wereldklasse dinosaurusfossielen in het Phu Wiang Dinosaurusmuseum tot het serene Bueng Kaen Nakhon meer met zijn 8 kilometer lang wandelpad, Khon Kaen biedt onvergetelijke ervaringen die het beste van Isaan's natuurlijke schoonheid, culinaire tradities en culturele schatten laten zien.",
-      "thingsToDo": "Geschiedenisliefhebbers mogen het Phu Wiang Dinosaurusmuseum niet missen (THB 100/$3 entree), met opmerkelijke Siamotyrannus-fossielen, levensgrote replica's en interactieve tentoonstellingen die prehistorisch Thailand tot leven brengen. Het prachtige Bueng Kaen Nakhon meer biedt gratis toegang en dient als het recreatieve hart van de stad, met een 8 kilometer lang wandelpad perfect voor wandelingen bij zonsopgang of zonsondergang, en talrijke eetkraampjes aan het meer met authentieke lokale gerechten. Culturele verkenning gaat verder bij het Chonnabot Zijdeweef-dorp (gratis toegang), waar bezoekers ambachtslieden kunnen zien die traditionele mudmee-zijde creëren met eeuwenoude technieken en rechtstreeks bij de wevers kunnen kopen, of bezoek het Khon Kaen Nationaal Museum (THB 100/$3) om Dvaravati-kunst en regionale Isaan-geschiedenis te verkennen. Spirituele zoekers moeten de negen verdiepingen van Wat Nong Wang (Phra Mahathat Kaen Nakhon) beklimmen voor panoramisch stadsuitzicht en sereniteit aan het meer, terwijl natuurliefhebbers naar Nam Phong Nationaal Park kunnen gaan (THB 100/$3 entree) om de Tat Fa-waterval en schilderachtige wandelpaden door ongerepte landschappen te ontdekken.",
-      "whereToStay": "Khon Kaen biedt diverse accommodatieopties in meerdere prijsklassen en wijken, waardoor het toegankelijk is voor elk reisbudget. Budgetbewuste reizigers vinden uitstekende waarde bij 2-3 sterrenhotels zoals Hop Inn Khon Kaen Srichan Road Building A (vanaf $26/nacht) en Jamjuree Place (vanaf $18/nacht), beide gunstig gelegen nabij het stadscentrum, Khon Kaen Station en Khon Kaen University met voorzieningen als airco, gratis wifi en eigen badkamers. Middenklasseopties zoals Khonkaen Residence (rond $31/nacht, op 1,6 km van Kaen Nakorn meer) bieden comfortabele kamers met extra voorzieningen en betere faciliteiten voor reizigers die meer comfort zoeken. Wie premium ervaringen zoekt kan luxe accommodaties verkennen die resortachtige voorzieningen bieden, hoewel de kracht van Khon Kaen ligt in de uitzonderlijke prijs-kwaliteitverhouding in alle categorieën — zelfs middenklasse hotels leveren hoogwaardige service tegen prijzen die aanzienlijk lager zijn dan Westerse bestemmingen.",
-      "gettingAround": "Het stadsvervoer in Khon Kaen steunt voornamelijk op tuk-tuks en songthaews (gedeelde minibusjes), beide goedkoop en overal beschikbaar in de stad. Tuk-tuks zijn ideaal voor korte afstanden of wanneer je privacy verkiest, met onderhandelde tarieven doorgaans van THB 40-100 ($1,25-3) afhankelijk van de afstand, terwijl songthaews vaste routes volgen en slechts THB 10-20 ($0,30-0,60) per rit kosten, waardoor ze perfect zijn voor budgetreizigers die de stad systematisch verkennen. Motorverhuur (THB 150-250/$5-8 per dag) biedt uitstekende flexibiliteit om verder gelegen attracties als het Chonnabot Zijdeweef-dorp of Nam Phong Nationaal Park te bereiken, hoewel Thaise rijstandaarden voorzichtigheid vereisen en een internationaal rijbewijs. De Grab-app werkt betrouwbaar in Khon Kaen voor app-gebaseerde taxi's met transparante prijzen (THB 50-150 per rit), en verschillende autoverhuurbedrijven zijn actief nabij het stadscentrum voor wie liever zelfstandig verkent. Khon Kaen Station biedt verbindingen naar Bangkok en andere Isaan-steden, waarbij treinen een schilderachtige en voordelige reisoptie zijn.",
-      "bestTimeToVisit": "De beste reismaanden voor Khon Kaen vallen in het koele seizoen van november tot en met februari, wanneer de temperaturen variëren van aangenaam 20-28°C, de luchten helder blijven en de luchtvochtigheid aanzienlijk daalt vergeleken met andere seizoenen. Deze maanden vallen samen met het droge seizoen in Thailand, wat comfortabele omstandigheden garandeert voor het verkennen van attracties aan het meer, het bezoeken van culturele locaties en het genieten van streetfoodmarkten zonder de drukkende hitte van maart-mei of de moessonregens van juni-oktober. December en januari vertegenwoordigen het absolute piekseizoen met de comfortabelste omstandigheden, hoewel iets hogere accommodatieprijzen kunnen gelden. De maanden maart tot mei worden steeds heter en vochtiger, met temperaturen boven 35°C, waardoor buitenverkenning voor de meeste reizigers uitdagend wordt. Het moessonseizoen van juni tot oktober brengt zware regenval, met name augustus en september, wat activiteiten en tempelbezoeken kan beperken, hoewel de prijzen dalen en minder toeristen de musea en markten bevolken in deze periode.",
-      "safetyTips": "Khon Kaen is over het algemeen een veilige stad met lage geweldscriminaliteitscijfers, hoewel standaard reizigersvoorzorgsmaatregelen gelden: vermijd het tonen van dure sieraden, camera's of contant geld op drukke markten, bewaar waardevolle spullen veilig in hotelkluizen en blijf alert op je omgeving tijdens nachtelijke activiteiten. De universiteitspopulatie van de stad creëert een jonge, levendige sfeer die doorgaans goede veiligheid garandeert, en politieaanwezigheid is zichtbaar in de belangrijkste toeristische gebieden. Verkeersveiligheid verdient aandacht — Thaise wegen kennen agressieve rijpatronen, dus reizigers moeten uiterst voorzichtig zijn bij het oversteken van straten, motorrijden of reizen per tuk-tuk, met name na het donker. Kleine diefstal komt af en toe voor op drukke nachtmarkten en in het openbaar vervoer, dus houd rugzakken voor je en vermijd het dragen van overmatig contant geld. Kraanwater wordt over het algemeen niet aanbevolen om te drinken; koop flessenwater goedkoop in de hele stad (THB 8-15 per fles). Medische voorzieningen zijn toereikend voor routinezorg, hoewel ernstige medische kwesties mogelijk een reis naar Bangkok vereisen.",
-      "translated_at": "2026-03-09T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "Khon Kaen m'a frappé de plein fouet avec toute la puissance de l'Isaan dès l'instant où je suis descendu du train de nuit depuis Bangkok. L'air était épais et chaud, les annonces du quai crépitaient dans le dialecte caractéristique du nord-est, et une femme devant un chariot à l'extérieur de la gare pilait du som tum avec un mortier gros comme un petit canon. C'est ici la capitale officieuse de l'Isaan — une ville de 400 000 habitants qui vibre de l'énergie des 40 000 étudiants de l'Université de Khon Kaen, d'un secteur technologique florissant et d'une culture culinaire si intense et résolument épicée que Bangkok paraît fade en comparaison. Je me suis enregistré au Pullman Khon Kaen Raja Orchid sur Prachasamosorn Road et suis immédiatement sorti manger.\n\nLa scène gastronomique de Khon Kaen justifie à elle seule le voyage. Au marché de nuit derrière Khon Kaen Fairy Plaza sur Klang Muang Road, j'ai trouvé la version définitive du som tum (salade de papaye) — la vendeuse, une femme que tout le monde appelait Mae Somtum, le préparait à la commande avec du pla ra (sauce de poisson fermentée), ce mélange d'épices funky et piquant qui distingue la vraie cuisine Isaan des versions édulcorées vendues aux touristes à Bangkok. J'ai mangé du gai yang (poulet grillé) d'un chariot sur Na Muang Road qui avait mariné 24 heures dans l'ail et la racine de coriandre, accompagné de riz gluant servi dans de petits paniers tressés en bambou. Au célèbre Ton Tann Green Market, un bazar nocturne moderne populaire parmi les étudiants, j'ai goûté pour la première fois le koi pla (salade de poisson cru) — il a fallu du courage, mais les saveurs étaient extraordinaires.\n\nLe musée des Dinosaures de Phu Wiang, à environ 80 kilomètres à l'ouest de la ville, est de classe mondiale et véritablement surprenant. La Thaïlande était un habitat majeur de dinosaures au Jurassique et au Crétacé, et les fossiles découverts dans la province de Khon Kaen incluent le Siamotyrannus isanensis — un parent du T-Rex qui parcourait ces plaines il y a 120 millions d'années. Le musée est moderne, bien organisé et interactif, avec des répliques de dinosaures grandeur nature dispersées dans un parc boisé. Un paléontologue que j'y ai rencontré m'a confié que la province de Khon Kaen a produit plus de fossiles de dinosaures que toute autre région d'Asie du Sud-Est. Pour une ville que peu de touristes occidentaux visitent, cela m'a semblé un secret remarquable.\n\nDe retour en ville, j'ai passé un après-midi tranquille à me promener autour de Bueng Kaen Nakhon, le grand lac au centre-ville. Un sentier de 8 kilomètres fait le tour du plan d'eau, et en fin d'après-midi, il se remplit de joggeurs, de cyclistes et de familles. Je me suis arrêté à Wat Nong Wang, le temple de neuf étages qui s'élève de la rive du lac comme une pièce montée de flèches dorées. L'étage supérieur offre une vue panoramique sur la ville et le vaste plateau de Khorat qui s'étend à l'infini jusqu'à l'horizon. De là, j'ai pris un tuk-tuk pour Chonnabot, un village à environ 50 kilomètres au sud qui est le cœur de la tradition du tissage de soie Isaan. Au King Cobra Silk Village, j'ai observé des femmes tisser de la soie mudmee sur des métiers en bois, créant des motifs tie-dye complexes réalisés de la même manière depuis des centaines d'années. J'ai acheté un foulard en soie directement à la tisseuse pour 800 bahts — la même qualité coûterait 3 000 bahts dans un grand magasin de Bangkok.\n\nKhon Kaen n'a pas l'attrait Instagram de Chiang Mai ni l'appel balnéaire de Krabi, et c'est précisément son charme. C'est une ville thaïlandaise active où la culture est naturelle et l'hospitalité spontanée. Dans un bar local appelé Living Room sur Prachasamosorn Road, j'ai engagé la conversation avec un groupe de professeurs d'université qui ont insisté pour m'offrir du lao khao (whisky de riz) et m'apprendre des chansons à boire Isaan. Vers minuit, j'essayais de danser le mor lam, cette musique folk Isaan hypnotique qui mêle mélodies traditionnelles et beats électroniques martelants. J'ai quitté Khon Kaen avec un mal de tête et un sourire, convaincu que l'Isaan est la région la plus sous-estimée de Thaïlande.",
-      "overview": "Khon Kaen est la capitale officieuse de l'Isaan et la porte d'entrée animée du nord-est de la Thaïlande. Cette ville universitaire florissante de 400 000 habitants allie sans effort patrimoine culturel et énergie moderne, offrant aux voyageurs un aperçu authentique de la vie régionale thaïlandaise, loin des sentiers touristiques habituels. Des fossiles de dinosaures de classe mondiale au musée des Dinosaures de Phu Wiang au serein lac Bueng Kaen Nakhon avec son sentier de 8 kilomètres, Khon Kaen propose des expériences inoubliables mettant en valeur le meilleur de la beauté naturelle, des traditions culinaires et des trésors culturels de l'Isaan.",
-      "thingsToDo": "Les passionnés d'histoire ne doivent pas manquer le musée des Dinosaures de Phu Wiang (entrée 100 THB/3 $ USD), avec ses remarquables fossiles de Siamotyrannus, ses répliques grandeur nature et ses expositions interactives qui donnent vie à la Thaïlande préhistorique. Le magnifique lac Bueng Kaen Nakhon offre un accès gratuit et constitue le cœur récréatif de la ville, avec un sentier de 8 kilomètres parfait pour les promenades au lever ou au coucher du soleil, et de nombreux stands de nourriture au bord du lac proposant des plats locaux authentiques. L'exploration culturelle se poursuit au village de tissage de soie de Chonnabot (accès gratuit), où les visiteurs peuvent observer des artisans créant de la soie mudmee traditionnelle avec des techniques ancestrales et acheter directement auprès des tisserands, ou visiter le Musée national de Khon Kaen (100 THB/3 $) pour explorer l'art Dvaravati et l'histoire régionale de l'Isaan. Les amateurs de spiritualité doivent gravir les neuf étages de Wat Nong Wang (Phra Mahathat Kaen Nakhon) pour une vue panoramique sur la ville et la sérénité au bord du lac, tandis que les amoureux de la nature peuvent se rendre au parc national de Nam Phong (entrée 100 THB/3 $) pour découvrir la cascade de Tat Fa et des sentiers de randonnée pittoresques à travers des paysages préservés.",
-      "whereToStay": "Khon Kaen offre des options d'hébergement variées dans plusieurs gammes de prix et quartiers, le rendant accessible à tous les budgets. Les voyageurs soucieux de leur budget trouveront un excellent rapport qualité-prix dans les hôtels 2-3 étoiles comme le Hop Inn Khon Kaen Srichan Road Building A (à partir de 26 $/nuit) et le Jamjuree Place (à partir de 18 $/nuit), tous deux idéalement situés près du centre-ville, de la gare de Khon Kaen et de l'Université de Khon Kaen, avec climatisation, wifi gratuit et salles de bain privées. Les options de gamme moyenne comme le Khonkaen Residence (environ 31 $/nuit, à 1,6 km du lac Kaen Nakorn) proposent des chambres confortables avec des équipements supplémentaires et de meilleures installations pour les voyageurs recherchant plus de confort. Ceux qui cherchent des expériences premium peuvent explorer les hébergements de luxe offrant des prestations de type resort, bien que la force de Khon Kaen réside dans son rapport qualité-prix exceptionnel dans toutes les catégories — même les hôtels de gamme moyenne offrent un service de haute qualité à des prix nettement inférieurs à ceux des destinations occidentales.",
-      "gettingAround": "Le transport urbain à Khon Kaen repose principalement sur les tuk-tuks et les songthaews (minibus partagés), tous deux économiques et disponibles partout en ville. Les tuk-tuks sont idéaux pour les courtes distances ou lorsque vous préférez l'intimité, avec des tarifs négociés généralement de 40 à 100 THB (1,25-3 $) selon la distance, tandis que les songthaews suivent des itinéraires fixes et ne coûtent que 10-20 THB (0,30-0,60 $) par trajet, les rendant parfaits pour les voyageurs à petit budget explorant la ville systématiquement. La location de scooter (150-250 THB/5-8 $ par jour) offre une excellente flexibilité pour atteindre les attractions plus éloignées comme le village de tissage de soie de Chonnabot ou le parc national de Nam Phong, bien que les conditions de conduite thaïlandaises exigent de la prudence et un permis de conduire international. L'application Grab fonctionne de manière fiable à Khon Kaen pour les taxis avec tarification transparente (50-150 THB par trajet), et plusieurs agences de location de voitures sont actives près du centre-ville pour ceux qui préfèrent explorer de manière autonome. La gare de Khon Kaen offre des connexions vers Bangkok et d'autres villes de l'Isaan, les trains constituant une option de voyage pittoresque et économique.",
-      "bestTimeToVisit": "Les meilleurs mois pour visiter Khon Kaen correspondent à la saison fraîche de novembre à février, lorsque les températures varient entre 20 et 28°C, les ciels restent dégagés et l'humidité diminue considérablement par rapport aux autres saisons. Ces mois coïncident avec la saison sèche en Thaïlande, garantissant des conditions confortables pour explorer les attractions au bord du lac, visiter les sites culturels et profiter des marchés de street food sans la chaleur accablante de mars-mai ni les pluies de mousson de juin-octobre. Décembre et janvier représentent le pic absolu de la saison avec les conditions les plus confortables, bien que des tarifs d'hébergement légèrement plus élevés puissent s'appliquer. Les mois de mars à mai deviennent de plus en plus chauds et humides, avec des températures dépassant 35°C, rendant l'exploration en extérieur éprouvante pour la plupart des voyageurs. La saison de mousson de juin à octobre apporte des pluies abondantes, notamment en août et septembre, pouvant limiter les activités et les visites de temples, bien que les prix baissent et que moins de touristes fréquentent les musées et marchés durant cette période.",
-      "safetyTips": "Khon Kaen est généralement une ville sûre avec de faibles taux de criminalité violente, bien que les précautions standard de voyage s'appliquent : évitez d'exhiber des bijoux coûteux, des appareils photo ou de l'argent liquide dans les marchés bondés, gardez vos objets de valeur en sécurité dans les coffres-forts de l'hôtel et restez vigilant sur votre environnement lors des activités nocturnes. La population étudiante de la ville crée une atmosphère jeune et dynamique qui garantit généralement une bonne sécurité, et la présence policière est visible dans les principales zones touristiques. La sécurité routière mérite attention — les routes thaïlandaises connaissent des comportements de conduite agressifs, les voyageurs doivent donc être extrêmement prudents en traversant les rues, en conduisant un scooter ou en voyageant en tuk-tuk, particulièrement après la tombée de la nuit. Les petits vols surviennent occasionnellement dans les marchés de nuit bondés et les transports en commun, gardez donc votre sac à dos devant vous et évitez de transporter trop d'argent liquide. L'eau du robinet n'est généralement pas recommandée à la consommation ; achetez de l'eau en bouteille à bas prix dans toute la ville (8-15 THB par bouteille). Les installations médicales sont adéquates pour les soins de routine, bien que les problèmes médicaux graves puissent nécessiter un transfert vers Bangkok.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Khon Kaen traf mich mit der vollen Wucht Isaans in dem Moment, als ich aus dem Nachtzug aus Bangkok stieg. Die Luft war dick und warm, die Bahnsteigdurchsagen knisterten im unverwechselbaren nordöstlichen Dialekt, und eine Frau an einem Karren vor dem Bahnhof stampfte Som Tum mit einem Mörser so groß wie eine kleine Kanone. Dies ist die inoffizielle Hauptstadt Isaans — eine Stadt von 400.000 Einwohnern, die vor Energie der 40.000 Studenten der Khon Kaen University pulsiert, mit einem boomenden Techsektor und einer Esskultur, die so intensiv und unverschämt scharf ist, dass Bangkok dagegen zahm wirkt. Ich checkte im Pullman Khon Kaen Raja Orchid an der Prachasamosorn Road ein und ging sofort raus zum Essen.\n\nDie Gastronomieszene von Khon Kaen allein rechtfertigt die Reise. Auf dem Nachtmarkt hinter dem Khon Kaen Fairy Plaza an der Klang Muang Road fand ich die ultimative Version von Som Tum (Papayasalat) — die Verkäuferin, eine Frau, die jeder Mae Somtum nannte, bereitete es auf Bestellung mit Pla Ra (fermentierter Fischsauce) zu, dem funkigen, scharfen Gewürz, das echtes Isaan-Essen von den bereinigten Versionen unterscheidet, die Touristen in Bangkok serviert werden. Ich aß Gai Yang (gegrilltes Hähnchen) von einem Karren an der Na Muang Road, das 24 Stunden in Knoblauch und Korianderwurzel mariniert war, und Klebreis, der in kleinen geflochtenen Bambuskörbchen kam. Auf dem berühmten Ton Tann Green Market, einem modernen Nachtbasar, beliebt bei Universitätsstudenten, probierte ich zum ersten Mal Koi Pla (roher Fischsalat) — es brauchte Mut, aber die Aromen waren außergewöhnlich.\n\nDas Phu Wiang Dinosauriermuseum, etwa 80 Kilometer westlich der Stadt, ist Weltklasse und wirklich überraschend. Thailand war ein bedeutender Dinosaurier-Lebensraum während des Jura und der Kreidezeit, und die in der Provinz Khon Kaen gefundenen Fossilien umfassen Siamotyrannus isanensis — einen Verwandten des T-Rex, der vor 120 Millionen Jahren über diese Ebenen streifte. Das Museum ist modern, gut kuratiert und interaktiv, mit lebensgroßen Dinosaurier-Nachbildungen, die über einen bewaldeten Park verstreut sind. Ein Paläontologe, den ich dort traf, erzählte mir, dass die Provinz Khon Kaen mehr Dinosaurierfossilien hervorgebracht hat als jede andere Region in Südostasien. Für eine Stadt, die wenige westliche Touristen besuchen, fühlte sich dies wie ein bemerkenswertes Geheimnis an.\n\nZurück in der Stadt verbrachte ich einen ruhigen Nachmittag mit einem Spaziergang um Bueng Kaen Nakhon, den großen See im Stadtzentrum. Ein 8-Kilometer-Weg umrundet das Wasser, und am späten Nachmittag füllt er sich mit Joggern, Radfahrern und Familien. Ich hielt an Wat Nong Wang, dem neunstöckigen Tempel, der sich vom Seeufer erhebt wie eine Hochzeitstorte aus goldenen Turmspitzen. Das oberste Stockwerk bietet Panoramablicke über die Stadt und das weite Khorat-Plateau, das sich endlos bis zum Horizont erstreckt. Von dort nahm ich ein Tuk-Tuk nach Chonnabot, einem Dorf etwa 50 Kilometer südlich, das das Herz der Isaan-Seidenwebtradition ist. Im King Cobra Silk Village beobachtete ich Frauen, die Mudmee-Seide auf Holzwebstühlen webten und dabei kunstvolle Batik-Muster schufen, die seit Hunderten von Jahren auf dieselbe Weise hergestellt werden. Ich kaufte einen Seidenschal direkt von der Weberin für 800 Baht — dieselbe Qualität würde in einem Bangkoker Kaufhaus 3.000 Baht kosten.\n\nKhon Kaen hat nicht die Instagram-Anziehungskraft von Chiang Mai oder den Strandreiz von Krabi, und genau das ist sein Charme. Dies ist eine arbeitende thailändische Stadt, in der die Kultur unbefangen und die Gastfreundschaft ungezwungen ist. In einer lokalen Bar namens Living Room an der Prachasamosorn Road kam ich ins Gespräch mit einer Gruppe Universitätsdozenten, die darauf bestanden, mir Lao Khao (Reiswhisky) zu kaufen und mir Isaan-Trinklieder beizubringen. Um Mitternacht versuchte ich Mor Lam zu tanzen, die hypnotische Isaan-Volksmusik, die traditionelle Melodien mit stampfenden elektronischen Beats mischt. Ich verließ Khon Kaen mit Kopfschmerzen und einem Lächeln, überzeugt, dass Isaan die am meisten unterschätzte Region Thailands ist.",
-      "overview": "Khon Kaen ist die inoffizielle Hauptstadt Isaans und das pulsierende Tor zum Nordosten Thailands. Diese blühende Universitätsstadt mit 400.000 Einwohnern verbindet mühelos kulturelles Erbe mit moderner Energie und bietet Reisenden einen authentischen Einblick in das regionale thailändische Leben, fernab der üblichen Touristenpfade. Von Weltklasse-Dinosaurierfossilien im Phu Wiang Dinosauriermuseum bis zum ruhigen Bueng Kaen Nakhon-See mit seinem 8 Kilometer langen Wanderweg bietet Khon Kaen unvergessliche Erlebnisse, die das Beste von Isaans Naturschönheit, kulinarischen Traditionen und kulturellen Schätzen zeigen.",
-      "thingsToDo": "Geschichtsbegeisterte dürfen das Phu Wiang Dinosauriermuseum nicht verpassen (100 THB/$3 Eintritt), mit bemerkenswerten Siamotyrannus-Fossilien, lebensgroßen Nachbildungen und interaktiven Ausstellungen, die das prähistorische Thailand zum Leben erwecken. Der atemberaubende Bueng Kaen Nakhon-See bietet freien Eintritt und dient als Erholungszentrum der Stadt mit einem 8 Kilometer langen Wanderweg, perfekt für Spaziergänge bei Sonnenauf- oder Sonnenuntergang, und zahlreichen Essensständen am Seeufer mit authentischer lokaler Küche. Die kulturelle Erkundung geht weiter im Chonnabot Seidenweberdorf (Eintritt frei), wo Besucher Kunsthandwerkern beim Weben traditioneller Mudmee-Seide mit jahrhundertealten Techniken zusehen und direkt bei den Webern kaufen können, oder im Khon Kaen Nationalmuseum (100 THB/$3), um Dvaravati-Kunst und regionale Isaan-Geschichte zu erkunden. Spirituell Interessierte sollten die neun Stockwerke des Wat Nong Wang (Phra Mahathat Kaen Nakhon) erklimmen für Panorama-Stadtblicke und Ruhe am See, während Naturliebhaber den Nam Phong-Nationalpark (100 THB/$3 Eintritt) besuchen können, um den Tat Fa-Wasserfall und malerische Wanderwege durch unberührte Landschaften zu entdecken.",
-      "whereToStay": "Khon Kaen bietet vielfältige Unterkunftsmöglichkeiten in verschiedenen Preisklassen und Stadtvierteln, was es für jedes Reisebudget zugänglich macht. Budgetbewusste Reisende finden ausgezeichnetes Preis-Leistungs-Verhältnis in 2-3-Sterne-Hotels wie dem Hop Inn Khon Kaen Srichan Road Building A (ab $26/Nacht) und dem Jamjuree Place (ab $18/Nacht), beide günstig gelegen nahe dem Stadtzentrum, dem Bahnhof Khon Kaen und der Khon Kaen University mit Klimaanlage, kostenlosem WLAN und eigenem Bad. Mittelklasseoptionen wie die Khonkaen Residence (ca. $31/Nacht, 1,6 km vom Kaen Nakorn-See) bieten komfortable Zimmer mit zusätzlichen Annehmlichkeiten und besseren Einrichtungen für Reisende, die mehr Komfort suchen. Wer Premium-Erlebnisse sucht, kann Luxusunterkünfte mit Resortanlagen erkunden, wobei Khon Kaens Stärke im außergewöhnlichen Preis-Leistungs-Verhältnis über alle Kategorien hinweg liegt — selbst Mittelklassehotels liefern hochwertigen Service zu Preisen, die deutlich unter denen westlicher Reiseziele liegen.",
-      "gettingAround": "Der Stadtverkehr in Khon Kaen stützt sich hauptsächlich auf Tuk-Tuks und Songthaews (geteilte Kleinbusse), beide günstig und überall in der Stadt verfügbar. Tuk-Tuks sind ideal für kurze Strecken oder wenn Sie Privatsphäre bevorzugen, mit ausgehandelten Fahrpreisen typischerweise von 40-100 THB ($1,25-3) je nach Entfernung, während Songthaews festen Routen folgen und nur 10-20 THB ($0,30-0,60) pro Fahrt kosten, was sie perfekt für Budgetreisende macht, die die Stadt systematisch erkunden. Motorradverleih (150-250 THB/$5-8 pro Tag) bietet ausgezeichnete Flexibilität für weiter entfernte Attraktionen wie das Chonnabot Seidenweberdorf oder den Nam Phong-Nationalpark, wobei thailändische Fahrbedingungen Vorsicht und einen internationalen Führerschein erfordern. Die Grab-App funktioniert zuverlässig in Khon Kaen für app-basierte Fahrten mit transparenter Preisgestaltung (50-150 THB pro Fahrt), und mehrere Autovermietungen sind nahe dem Stadtzentrum für eigenständige Erkundungen verfügbar. Der Bahnhof Khon Kaen bietet Verbindungen nach Bangkok und andere Isaan-Städte, wobei Züge eine malerische und wirtschaftliche Reisemöglichkeit darstellen.",
-      "bestTimeToVisit": "Die besten Reisemonate für Khon Kaen fallen in die kühle Jahreszeit von November bis Februar, wenn die Temperaturen angenehme 20-28°C betragen, der Himmel klar bleibt und die Luftfeuchtigkeit im Vergleich zu anderen Jahreszeiten deutlich sinkt. Diese Monate fallen mit Thailands Trockenzeit zusammen, was komfortable Bedingungen für die Erkundung der Sehenswürdigkeiten am See, den Besuch kultureller Stätten und den Genuss von Streetfood-Märkten ohne die drückende Hitze von März-Mai oder die Monsunregen von Juni-Oktober gewährleistet. Dezember und Januar stellen die absolute Hochsaison mit den angenehmsten Bedingungen dar, wobei etwas höhere Unterkunftspreise gelten können. Die Monate März bis Mai werden zunehmend heiß und feucht, mit Temperaturen über 35°C, was die Erkundung im Freien für die meisten Reisenden herausfordernd macht. Die Monsunzeit von Juni bis Oktober bringt starke Regenfälle, besonders im August und September, was Aktivitäten und Tempelbesuche einschränken kann, obwohl die Preise sinken und weniger Touristen die Museen und Märkte besuchen.",
-      "safetyTips": "Khon Kaen ist generell eine sichere Stadt mit niedrigen Gewaltkriminalitätsraten, wobei Standard-Reisevorsichtsmaßnahmen gelten: Vermeiden Sie es, teuren Schmuck, Kameras oder Bargeld auf belebten Märkten zur Schau zu stellen, bewahren Sie Wertgegenstände sicher im Hotelsafe auf und bleiben Sie bei nächtlichen Aktivitäten aufmerksam. Die Studentenpopulation der Stadt schafft eine junge, lebhafte Atmosphäre, die typischerweise gute Sicherheit gewährleistet, und Polizeipräsenz ist in den wichtigsten Touristengebieten sichtbar. Verkehrssicherheit verdient Beachtung — thailändische Straßen weisen aggressive Fahrmuster auf, daher sollten Reisende beim Überqueren von Straßen, Motorradfahren oder Reisen per Tuk-Tuk äußerste Vorsicht walten lassen, besonders nach Einbruch der Dunkelheit. Taschendiebstahl kommt gelegentlich auf belebten Nachtmärkten und in öffentlichen Verkehrsmitteln vor, halten Sie Rucksäcke vor sich und vermeiden Sie es, übermäßig viel Bargeld mitzuführen. Leitungswasser wird generell nicht zum Trinken empfohlen; kaufen Sie Flaschenwasser günstig in der ganzen Stadt (8-15 THB pro Flasche). Medizinische Einrichtungen sind für Routineversorgung ausreichend, obwohl ernsthafte medizinische Probleme möglicherweise eine Reise nach Bangkok erfordern.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "当我从曼谷出发的夜车上走下来的那一刻，孔敬以伊桑地区的全部力量迎面而来。空气又闷又热，站台广播用独特的东北方言嘶嘶作响，车站外一位大姐正用一个小炮筒般大小的石臼捣着青木瓜沙拉。这里是伊桑的非官方首府——一座40万人口的城市，孔敬大学4万名学生带来的活力、蓬勃发展的科技产业，以及一种如此浓烈、毫不妥协地辛辣的饮食文化，让曼谷相形见绌。我在巴差三颂路的铂尔曼孔敬Raja Orchid酒店办理入住后，立刻出门觅食。\n\n仅凭孔敬的美食场景就足以让这趟旅程值回票价。在光芒路Khon Kaen Fairy Plaza后面的夜市，我找到了终极版本的青木瓜沙拉——摊主是一位人人叫她「木瓜妈「的女士，她按需现做，加入发酵鱼露（pla ra），那种浓烈刺激的调料正是真正伊桑菜与曼谷卖给游客的驯化版本之间的分水岭。我在那芒路的一辆推车上吃了用蒜和香菜根腌了24小时的烤鸡，配着装在小竹编篮子里的糯米饭。在著名的Ton Tann Green Market——一个深受大学生喜爱的现代夜市——我第一次鼓起勇气尝了生鱼沙拉（koi pla），味道非凡。\n\n距市区西边约80公里的普维恐龙博物馆堪称世界级，令人真正惊喜。泰国在侏罗纪和白垩纪时期是重要的恐龙栖息地，孔敬省发现的化石包括暹罗暴龙——一种1.2亿年前漫步于这片平原的霸王龙近亲。博物馆现代化、策展精良且互动性强，等比恐龙模型散布在一片森林公园中。我在那里遇到的一位古生物学家告诉我，孔敬省产出的恐龙化石比东南亚任何其他地区都多。对于一座很少有西方游客造访的城市来说，这感觉像是一个了不起的秘密。\n\n回到城里，我在矿肯纳空湖畔度过了一个宁静的下午。一条8公里的步道环绕湖面，傍晚时分满是慢跑者、骑行者和散步的家庭。我在Wat Nong Wang停了下来，这座九层宝塔从湖畔拔地而起，金色塔尖层叠如一座婚礼蛋糕。最高层可以俯瞰城市全景和一望无际的呵叻高原。从那里我坐突突车去了冲纳博——南边约50公里的一个村庄，是伊桑丝绸编织传统的核心。在King Cobra Silk Village，我看着妇女们在木织机上织造mudmee丝绸，创造出数百年来一直以同样方式制作的精美扎染图案。我直接从织工手中买了一条丝巾，800泰铢——同样品质在曼谷百货商店要3,000泰铢。\n\n孔敬没有清迈的Instagram魅力，也没有甲米的海滩诱惑，而这正是它的迷人之处。这是一座真实的泰国工作城市，文化毫不做作，好客发自内心。在巴差三颂路一家叫Living Room的小酒吧里，我和一群大学讲师聊了起来，他们坚持请我喝老挝高（米酒）并教我唱伊桑祝酒歌。到了午夜，我已经在尝试跳莫拉姆——那种将传统旋律与重低音电子节拍融合的催眠式伊桑民俗音乐。我带着头痛和微笑离开孔敬，深信伊桑是泰国最被低估的地区。",
-      "overview": "孔敬是伊桑的非官方首府，也是通往泰国东北部的活力门户。这座拥有40万居民的蓬勃大学城将文化遗产与现代活力完美融合，为旅行者提供远离常规旅游路线的正宗泰国区域生活体验。从普维恐龙博物馆的世界级恐龙化石到矿肯纳空湖畔8公里长步道的宁静景致，孔敬带来了伊桑自然之美、美食传统和文化瑰宝的最佳体验。",
-      "thingsToDo": "历史爱好者不可错过普维恐龙博物馆（门票100 THB/$3），馆内有珍贵的暹罗暴龙化石、等比模型和互动展览，让史前泰国栩栩如生。壮丽的矿肯纳空湖免费开放，是城市的休闲中心，8公里环湖步道非常适合日出或日落散步，湖畔众多小吃摊提供地道本地美食。文化探索可前往冲纳博丝绸织造村（免费），观看工匠用古老技艺创作传统mudmee丝绸并可直接向织工购买，或参观孔敬国家博物馆（100 THB/$3）了解陀罗钵地艺术和伊桑地区历史。灵性之旅可攀登Wat Nong Wang（帕玛哈塔Kaen Nakhon）的九层宝塔，享受城市全景和湖畔宁静；自然爱好者可前往南蓬国家公园（门票100 THB/$3），探索达发瀑布和原始风光中的优美步道。",
-      "whereToStay": "孔敬各价位、各区域住宿选择丰富，适合各种旅行预算。注重性价比的旅客可选择Hop Inn Khon Kaen Srichan Road Building A（$26/晚起）和Jamjuree Place（$18/晚起）等2-3星酒店，均位于市中心、孔敬火车站和孔敬大学附近，配备空调、免费WiFi和独立卫浴。中档选择如Khonkaen Residence（约$31/晚，距Kaen Nakorn湖1.6公里）提供更舒适的房间和更好的设施。追求高端体验的旅客可探索度假村级别的豪华住宿，不过孔敬的优势在于各档次均有出色的性价比——即便是中档酒店也能提供高品质服务，价格远低于西方旅游目的地。",
-      "gettingAround": "孔敬市内交通主要依靠突突车和双条车（共乘小巴），两者都价廉且遍布全城。突突车适合短途或需要私密空间时，议价通常40-100 THB（$1.25-3），视距离而定；双条车沿固定路线运行，每程仅10-20 THB（$0.30-0.60），非常适合系统性游览城市的预算旅客。摩托车租赁（150-250 THB/$5-8/天）为前往冲纳博丝绸村或南蓬国家公园等较远景点提供了极大灵活性，但泰国路况需谨慎驾驶且要持国际驾照。Grab打车软件在孔敬运行可靠，价格透明（每程50-150 THB），市中心附近也有多家汽车租赁公司供自驾游客选择。孔敬火车站提供前往曼谷和其他伊桑城市的班次，火车出行既有风景又经济实惠。",
-      "bestTimeToVisit": "孔敬的最佳旅行时间是11月至2月的凉季，气温在舒适的20-28°C之间，天空晴朗，湿度显著降低。这几个月恰好是泰国的旱季，确保了探索湖畔景点、参观文化遗址和享受街头美食市场的舒适条件，无需忍受3月至5月的酷热或6月至10月的季风暴雨。12月和1月是绝对的旺季，条件最为宜人，但住宿价格可能略高。3月至5月气温越来越高，湿度加大，超过35°C的高温使户外探索对大多数旅客来说颇具挑战。6月至10月的季风季节带来暴雨，尤其是8月和9月，可能影响户外活动和寺庙参观，但价格更低，博物馆和市场上的游客也更少。",
-      "safetyTips": "孔敬总体是一座安全的城市，暴力犯罪率低，但常规旅行注意事项仍然适用：避免在拥挤市场上展示昂贵首饰、相机或现金，贵重物品存入酒店保险箱，夜间活动时保持对周围环境的警觉。大学城的年轻活泼氛围通常保障了良好的安全环境，主要旅游区域有可见的警察巡逻。交通安全需特别注意——泰国道路上驾驶风格较为激进，过马路、骑摩托车或乘突突车时需格外小心，尤其在天黑之后。小偷小摸在繁忙的夜市和公共交通上偶有发生，背包背在前面、避免携带过多现金即可。自来水一般不建议直接饮用，全城可便宜购买瓶装水（8-15 THB/瓶）。常规医疗设施足够，但严重的医疗状况可能需要转往曼谷处理。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "Кхонкэн обрушил на меня всю мощь Исана в тот момент, когда я сошёл с ночного поезда из Бангкока. Воздух был густым и тёплым, объявления на платформе потрескивали на характерном северо-восточном диалекте, а женщина у тележки перед станцией толкла сом там в ступке размером с небольшую пушку. Это неофициальная столица Исана — город с населением 400 000 человек, пульсирующий энергией 40 000 студентов Университета Кхонкэн, бурно развивающейся технологической отраслью и настолько интенсивной и бесстыдно острой кулинарной культурой, что по сравнению с ней Бангкок кажется пресным. Я заселился в Pullman Khon Kaen Raja Orchid на Прачасамосорн Роуд и немедленно отправился есть.\n\nГастрономическая сцена Кхонкэна одна оправдывает поездку. На ночном рынке за Khon Kaen Fairy Plaza на Кланг Муанг Роуд я нашёл эталонную версию сом тама — продавщица, которую все звали Мэ Сомтам, готовила его на заказ с пла ра (ферментированным рыбным соусом) — тем самым едким, пряным приправой, которая отделяет настоящую исанскую еду от обезвреженных версий для туристов в Бангкоке. Я ел гай янг (курицу гриль) с тележки на На Муанг Роуд, мариновавшуюся в чесноке и кориандре 24 часа, и клейкий рис из маленьких плетёных бамбуковых корзинок. На знаменитом Ton Tann Green Market — современном ночном базаре, популярном среди студентов — я впервые попробовал кой пла (салат из сырой рыбы). Это требовало смелости, но вкусы были необыкновенными.\n\nМузей динозавров Пху Вианг, примерно в 80 километрах к западу от города, имеет мировой уровень и по-настоящему удивляет. Таиланд был крупным местом обитания динозавров в юрский и меловой периоды, и среди окаменелостей, найденных в провинции Кхонкэн — Сиамотираннус исаненсис, родственник Ти-Рекса, бродивший по этим равнинам 120 миллионов лет назад. Музей современный, превосходно курирован и интерактивен. Палеонтолог, которого я там встретил, сказал, что провинция Кхонкэн дала больше окаменелостей динозавров, чем любой другой регион Юго-Восточной Азии. Для города, который мало посещают западные туристы, это казалось замечательным секретом.\n\nВернувшись в город, я провёл спокойный день, гуляя вокруг Бынг Кэн Накхон — большого озера в центре. Восьмикилометровая дорожка огибает водоём, и во второй половине дня она заполняется бегунами, велосипедистами и семьями. Я остановился у Ват Нонг Ванг — девятиэтажного храма, возвышающегося с берега озера подобно свадебному торту из золотых шпилей. Верхний этаж открывает панорамный вид на город и бескрайнее плато Корат. Оттуда я нанял тук-тук до Чоннабот — деревни примерно в 50 км к югу, которая является сердцем исанской шёлковой традиции. В Деревне королевской кобры я наблюдал, как женщины ткут шёлк мудми на деревянных станках, создавая замысловатые узоры, которые делаются одним и тем же способом сотни лет. Я купил шёлковый шарф прямо у ткачихи за 800 бат — такое же качество стоило бы 3 000 бат в бангкокском универмаге.\n\nУ Кхонкэна нет инстаграмной привлекательности Чиангмая или пляжного очарования Краби, и именно в этом его прелесть. Это рабочий тайский город, где культура естественна, а гостеприимство ненаигранно. В местном баре Living Room на Прачасамосорн Роуд я разговорился с группой университетских преподавателей, которые настояли на угощении лао кхао (рисовым виски) и обучении исанским застольным песням. К полуночи я пытался танцевать мор лам — гипнотическую исанскую народную музыку, смешивающую традиционные мелодии с гулкими электронными битами. Я уехал из Кхонкэна с головной болью и улыбкой, убеждённый, что Исан — самый недооценённый регион Таиланда.",
-      "overview": "Кхонкэн — неофициальная столица Исана и крупнейший город Северо-Восточного Таиланда, пульсирующий энергией 40 000 студентов Университета Кхонкэн, развивающейся технологической индустрией и одной из самых аутентичных кулинарных культур страны. Расположенный в центре обширного плато Корат, город предлагает уникальное сочетание: музей динозавров мирового класса, древние шёлковые ткацкие деревни, живописное озеро Бынг Кэн Накхон и оживлённые ночные рынки с подлинной исанской уличной едой. Это место для путешественников, ищущих настоящий Таиланд вдали от туристических маршрутов.",
-      "thingsToDo": "Музей динозавров Пху Вианг (вход 100 THB/$3), расположенный в 80 км к западу от города, демонстрирует мировые палеонтологические находки, включая Сиамотираннуса — родственника Ти-Рекса. Озеро Бынг Кэн Накхон (бесплатно) с 8-километровой дорожкой — сердце городской жизни. Ват Нонг Ванг — девятиэтажный храм с панорамными видами. Национальный музей Кхонкэна (100 THB/$3) представляет исанскую культуру и историю. Ночной рынок за Fairy Plaza — пир подлинной исанской уличной еды: сом там, гай янг, клейкий рис, ларб. Ton Tann Green Market — современный ночной базар с крафтовым пивом и живой музыкой. Однодневная поездка в Чоннабот (50 км, бесплатно) — деревня шёлковых ткачей мудми. Национальный парк Нам Фонг (100 THB/$3) с водопадом и видами. Ват Па Бан Кхо (40 км) — уникальный храм из переработанных бутылок.",
-      "whereToStay": "Кхонкэн предлагает размещение на любой бюджет. Бюджетные гестхаусы — от $15-25 за ночь. Среднебюджетные отели вроде Nadee 10 Resort & Hotel ($50-80) и Glacier Hotel ($35-55) предлагают современные номера с завтраком в пешей доступности от рынков. Люксовые варианты — Pullman Khon Kaen Raja Orchid ($100-150) с бассейном на крыше, рестораном и спа у озера, и Avani Khon Kaen ($90-140) с современным дизайном и отличным фитнесом. Район у озера идеален для вечерних прогулок, центр — для близости к рынкам и ночной жизни.",
-      "gettingAround": "Городской транспорт Кхонкэна основан на тук-туках и сонгтэо (общих мини-автобусах). Тук-туки идеальны для коротких поездок: 40-100 THB ($1.25-3) в зависимости от расстояния, цену нужно оговаривать заранее. Сонгтэо курсируют по фиксированным маршрутам за 10-20 THB ($0.30-0.60) — идеально для бюджетных путешественников. Аренда мотоцикла (150-250 THB/$5-8 в день) обеспечивает отличную гибкость для поездок к шёлковой деревне Чоннабот или Национальному парку Нам Фонг. Grab работает надёжно с прозрачными ценами (50-150 THB за поездку). Вокзал Кхонкэна связывает город с Бангкоком и другими городами Исана.",
-      "bestTimeToVisit": "Лучшие месяцы для посещения Кхонкэна — прохладный сезон с ноября по февраль, когда температура 20-28°C, небо ясное и влажность значительно снижается. Декабрь и январь — абсолютный пик с наиболее комфортными условиями, хотя цены на жильё могут быть немного выше. С марта по май — жарко и влажно, температура превышает 35°C, что затрудняет прогулки. Сезон муссонов (июнь-октябрь) приносит сильные дожди, особенно в августе-сентябре, но цены падают и туристов меньше.",
-      "safetyTips": "Кхонкэн — в целом безопасный город с низким уровнем насильственных преступлений. Стандартные меры предосторожности: не демонстрируйте дорогие украшения и камеры на рынках, храните ценности в сейфе отеля. Университетская атмосфера обеспечивает хорошую безопасность. Дорожная безопасность заслуживает внимания — тайские дороги отличаются агрессивным вождением, будьте крайне осторожны при переходе улиц и езде на мотоцикле. Мелкие кражи изредка случаются на ночных рынках — держите рюкзак впереди. Водопроводную воду пить не рекомендуется — бутилированная вода стоит 8-15 THB. Медицинские учреждения достаточны для базовой помощи, серьёзные случаи могут потребовать поездки в Бангкок.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "콘깬은 이산(태국 동북부) 지방의 비공식 수도로, 방콕에서 비행기로 약 1시간 거리에 있습니다. 40만 명 이상의 인구와 대학이 밀집한 활기찬 도시로, 현대적 편의시설과 전통 이산 문화가 공존합니다.\n\n콘깬의 가장 큰 매력은 정통 이산 음식입니다. 쏨땀(파파야 샐러드), 가이양(구운 닭), 꼬이(생고기 샐러드) 등 이산 지방의 대표 음식을 가장 본격적으로 즐길 수 있는 곳입니다. 야시장과 아침 시장에서 현지인들과 어울리며 맛보는 음식은 방콕의 세련된 레스토랑과는 또 다른 매력이 있습니다.\n\n부위앙 공룡 박물관은 세계적으로 중요한 공룡 화석을 소장하고 있으며, 실크 직조 마을인 초나봇에서는 전통 무따미 실크 제작 과정을 직접 볼 수 있습니다. 분짱 호수 공원은 도시의 중심에 위치한 오아시스로, 조깅이나 자전거를 즐기며 현지 생활을 느낄 수 있습니다.",
-      "hidden_gems": [
-        {
-          "name": "킹코브라 마을",
-          "description": "킹코브라와 공존하는 독특한 마을로, 뱀 쇼와 전통 문화를 체험할 수 있습니다."
-        },
-        {
-          "name": "톤탄 그린 마켓",
-          "description": "현지인들이 사랑하는 친환경 시장입니다."
-        },
-        {
-          "name": "왓파반코 (유리 사원)",
-          "description": "수백만 개의 유리병으로 장식된 독특한 재활용 예술 사원입니다."
-        },
-        {
-          "name": "쁘라뚜남 시장",
-          "description": "현지인들의 아침 장보기 명소로, 이산 전통 음식을 맛볼 수 있습니다."
-        },
-        {
-          "name": "남퐁 국립공원",
-          "description": "콘깬 근교의 트레킹과 자연 관찰 명소입니다."
-        }
-      ],
-      "authentic_experiences": [],
-      "foodie_adventures": [],
-      "overview": "콘깬은 이산 지방의 비공식 수도이자 태국 동북부의 활기찬 관문입니다. 대학 도시로서의 젊은 에너지와 전통 이산 문화가 공존하며, 공룡 화석, 실크 마을, 호수 공원 등 다양한 볼거리가 있습니다.",
-      "thingsToDo": "역사 애호가라면 부위앙 공룡 박물관(입장료 100바트/$3)을 놓치지 마세요. 초나봇 실크 마을에서 전통 실크 제작을 관람하고, 분짱 호수 공원에서 여유로운 시간을 보내세요. 킹코브라 마을은 독특한 체험을 원하는 여행자에게 추천합니다.",
-      "whereToStay": "콘깬은 다양한 가격대의 숙소를 제공합니다. 시내 중심에는 비즈니스 호텔과 예산 숙소가 밀집해 있고, 분짱 호수 주변은 조용한 분위기를 원하는 여행자에게 적합합니다.",
-      "gettingAround": "콘깬의 시내 교통은 주로 툭툭과 송태우(합승 미니버스)에 의존합니다. Grab 앱도 사용 가능하며, 오토바이 대여는 외곽 명소 방문에 편리합니다.",
-      "bestTimeToVisit": "콘깬의 최적 방문 시기는 11월부터 2월까지의 건기입니다. 기온이 쾌적하고 비가 적습니다. 3월부터 5월은 매우 덥고(40°C 이상), 6월부터 10월은 우기입니다.",
-      "safetyTips": "콘깬은 대체로 안전한 도시입니다. 대학 도시답게 젊은 분위기가 있으며, 일반적인 소지품 관리에 주의하면 됩니다. 킹코브라 마을 방문 시 가이드의 안내를 따르세요.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
-    }
-  },
-  "extended_description": "## Overview\nKhon Kaen is the beating heart of Isaan — Thailand’s vast northeastern plateau that most tourists never see. With a population of around 400,000, it is the region’s unofficial capital, a buzzing university city powered by Khon Kaen University and its 40,000 students, which gives the place an energy and youthfulness that surprises first-time visitors. This is not a postcard destination with temples and beaches; instead, Khon Kaen rewards curious travelers with what may be Thailand’s most authentic food scene, a fascinating dinosaur heritage, centuries-old silk-weaving villages, and a window into everyday Thai life far from the tourist trail. If you want to eat like a local, practice your Thai with people genuinely excited to meet a foreigner, and discover a side of the country most visitors miss entirely, Khon Kaen is your city.\n\n## Best Time to Visit\nNovember to February brings cooler weather (18–30°C) and dry skies, making it the most comfortable period to explore. The Silk Festival in late November or early December is the city’s biggest annual event, with parades, traditional dancing, and silk markets worth timing your trip around. March to May is blisteringly hot (35–40°C), typical of the Isaan plateau. The monsoon runs June to October with heavy afternoon rains but everything stays green and lush. Songkran (Thai New Year) in April is celebrated with special intensity in Isaan — expect massive water fights. Unlike southern Thailand, Khon Kaen has no “tourist season” — you will rarely encounter crowds regardless of when you visit.\n\n## How to Get There\nKhon Kaen Airport (KKC) has multiple daily flights from Bangkok (1 hour, 1,000–2,500 THB on AirAsia, Nok Air, Thai Lion Air) and occasional flights from Chiang Mai and Phuket. Buses from Bangkok’s Mo Chit Terminal run throughout the day and night, with VIP buses costing 450–700 THB and taking 6–7 hours, or second-class air-con at 280–350 THB taking 7–8 hours. Nakhonchai Air operates some of the most comfortable buses on this route. The train from Bangkok’s Krung Thep Aphiwat Central Terminal takes 7–9 hours with fares from 200 THB (third class) to 1,500 THB (first-class sleeper). The overnight sleeper is a great option — you sleep on the train and wake up in Isaan.\n\n## Where to Stay\nThe area around Bueng Kaen Nakhon lake is the most pleasant for visitors, with mid-range hotels from 600–1,500 THB offering lake views and easy walking to the night markets. Budget guesthouses near the university run 250–500 THB and put you in the middle of the student nightlife scene. For comfort, the hotels along Prachasamosorn Road in the city center range from 800–2,500 THB and are close to Central Plaza mall and the bus station. There are no luxury resorts here — this is a working Thai city, and the top-end hotel (Pullman Khon Kaen) runs around 2,500–4,000 THB.\n\n## What to Do\nBueng Kaen Nakhon, the large lake in the center of the city, is ringed by a walking and cycling path and comes alive at sunset when locals exercise and eat at waterside food stalls. Wat Nong Wang (free entry) on the lake’s edge has a nine-story pagoda you can climb for panoramic city views. The Phu Wiang Dinosaur Museum (80 km northwest, 100 THB) showcases fossils of Siamotyrannus isanensis — a tyrannosaur relative discovered right here in Isaan — and is excellent for families. Chonnabot Silk Village (60 km south) is where you can watch women weave mudmee silk on traditional looms and buy scarves and fabrics directly from the weavers at fair prices (300–2,000 THB). The Khon Kaen Night Market (Ton Taan Market, open 4pm–11pm) is a sprawling food-and-shopping market with a relaxed atmosphere. On weekends, the Saturday Walking Street near the city gate has local crafts, live music, and more food than you can eat.\n\n## Food & Dining\nThis is arguably the best city in Thailand for Isaan food — the fiery, sour, fermented cuisine that defines the northeast. Start with som tam (papaya salad) — in Khon Kaen they make it with pla ra (fermented fish sauce), which is more pungent and authentic than the Bangkok version (30–50 THB). Larb moo (spicy minced pork salad, 40–60 THB) and nam tok moo (grilled pork salad, 40–60 THB) are everywhere and best eaten with sticky rice (khao niao, 10 THB). Gai yang (grilled chicken marinated in garlic and lemongrass, 40–80 THB for a half) is an Isaan staple — the stalls along the lake and at night markets do it best. For the adventurous, try jaew bong (roasted chili dip with buffalo skin) or mok (steamed fish curry in banana leaves). The Ton Taan Night Market is the best single spot to graze through Isaan’s greatest hits.\n\n## Budget Guide\nKhon Kaen is one of the cheapest cities in Thailand for travelers. Backpackers can live well on 500–800 THB/day ($14–22): budget guesthouse (250–400 THB), all meals from markets and street stalls (100–200 THB), songthaew rides (10–20 THB). Mid-range travelers spend 1,200–2,500 THB/day ($33–69): hotel with breakfast, mix of market and restaurant meals, day trip to the dinosaur museum or silk village. Songthaews cost a flat 10–15 THB around town. Motorbike taxis are 20–40 THB for short hops.\n\n## Safety & Tips\nKhon Kaen is a safe, friendly city with very low tourist-targeted crime. English is less widely spoken than in tourist hubs — download Google Translate or learn a few Thai phrases, which locals will deeply appreciate. Dress modestly when visiting temples. The university area has lively bars and clubs that stay open late. Grab works in Khon Kaen for reliable transport (50–100 THB for most rides). If visiting the dinosaur museum, rent a car or arrange a day tour as public transport to Phu Wiang is limited. The city is flat and spread out — renting a motorbike (150–250 THB/day) is the most flexible option. Tap water is not drinkable; bottled water is 10–15 THB.",
-  "getting_there": {
-    "from_bangkok": {
-      "flight": "1 hour, 1,000-2,500 THB (AirAsia, Nok Air, Thai Lion Air)",
-      "bus": "6-8 hours, 280-700 THB from Mo Chit Terminal (Nakhonchai Air VIP recommended)",
-      "train": "7-9 hours, 200-1,500 THB from Krung Thep Aphiwat Central Terminal"
-    },
-    "airport": "Khon Kaen Airport (KKC)"
-  },
-  "best_time": {
-    "peak": "Nov-Feb",
-    "shoulder": "Oct-Nov",
-    "low": "Jun-Sep",
-    "avoid": "Mar-May (extreme heat 35-40°C on the plateau)",
-    "best_months": "Nov-Jan",
-    "why": "Cool dry season with comfortable temperatures, and the Silk Festival in late November/December."
-  },
-  "budget": {
-    "backpacker": "$14-22/day",
-    "mid_range": "$33-69/day",
-    "luxury": "$80+/day",
-    "typical_meal": "30-60 THB street food, 80-200 THB restaurant"
-  },
-  "neighborhoods": [
-    {
-      "name": "Bueng Kaen Nakhon Lake area",
-      "vibe": "Scenic lakeside, walking paths, sunset food stalls, Wat Nong Wang nearby",
-      "best_for": "First-timers, couples, mid-range travelers",
-      "price_range": "600-1,500 THB/night"
+      "type": "restaurant",
+      "title": "Kaen",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/khon-kaen-region/khon-kaen/restaurant/kaen",
+      "description": "Used for current MICHELIN restaurant status and Khon Kaen's more deliberate regional dining layer."
     },
     {
-      "name": "University area (KKU)",
-      "vibe": "Student nightlife, cheap eats, youthful energy",
-      "best_for": "Backpackers, budget travelers, digital nomads",
-      "price_range": "250-500 THB/night"
+      "type": "restaurant",
+      "title": "Kai Yang Wanna",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/tr/en/khon-kaen-region/khon-kaen/restaurant/kai-yang-wanna",
+      "description": "Used for current MICHELIN restaurant status and official restaurant listing context."
     },
     {
-      "name": "City Center (Prachasamosorn Road)",
-      "vibe": "Central, near Central Plaza mall and bus station, practical",
-      "best_for": "Business travelers, transit stays",
-      "price_range": "800-2,500 THB/night"
+      "type": "restaurant",
+      "title": "See Na Nuan Cafe",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/khon-kaen-region/khon-kaen/restaurant/see-na-nuan-cafe-kangsadarn",
+      "description": "Used for current MICHELIN restaurant status and city food curation."
+    },
+    {
+      "type": "restaurant",
+      "title": "Kaprao E Jae",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/pt/pt_PT/khon-kaen-region/khon-kaen/restaurant/kaprao-e-jae",
+      "description": "Used for current MICHELIN restaurant status and casual local-food positioning."
+    },
+    {
+      "type": "restaurant",
+      "title": "Sookjailand",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/khon-kaen-region/khon-kaen/restaurant/sookjailand",
+      "description": "Used for current MICHELIN restaurant status and out-of-center dining context."
+    },
+    {
+      "type": "hotel",
+      "title": "Ad Lib Khon Kaen Hotel, Official Hotel Website",
+      "creator": "Ad Lib Hotels",
+      "url": "https://www.adlibhotels.co/khon-kaen/",
+      "description": "Used for official hotel positioning in central Khon Kaen."
+    },
+    {
+      "type": "hotel",
+      "title": "Avani Khon Kaen Hotel & Convention Centre Fact Sheet",
+      "creator": "Avani Hotels",
+      "url": "https://www.avanihotels.com/uploads/minor/avani/documents/vkkc/avani_khon_kaen_fact_sheet_for_-web_eng_2024.pdf",
+      "description": "Used for official room, dining, and airport-access context."
+    },
+    {
+      "type": "hotel",
+      "title": "Nadee 10 Hotel | Luxury hotel in Khon Kaen",
+      "creator": "Nadee 10 Resort & Hotel",
+      "url": "https://www.nadee10.com/",
+      "description": "Used for official hotel positioning and property context."
+    },
+    {
+      "type": "hotel",
+      "title": "Kosa Hotel Khon Kaen",
+      "creator": "Kosa Hotel",
+      "url": "https://www.kosahotel.com/",
+      "description": "Used for official city-center hotel reference."
+    },
+    {
+      "type": "hotel",
+      "title": "Wishing Tree Resort",
+      "creator": "Wishing Tree Resort",
+      "url": "https://www.wishingtreeresort.com/en/about.html",
+      "description": "Used for official resort context outside the city center."
     }
   ],
-  "must_try_food": [
-    "Som tam with pla ra (fermented fish papaya salad) — the authentic Isaan version, more pungent than Bangkok style (30-50 THB)",
-    "Gai yang (grilled lemongrass-garlic chicken) with sticky rice — the quintessential Isaan combo (40-80 THB)",
-    "Larb moo (spicy minced pork salad) at Ton Taan Night Market — best eaten with cold Singha beer (40-60 THB)"
-  ],
-  "local_tips": [
-    "Visit Chonnabot Silk Village (60 km south) to buy authentic mudmee silk directly from weavers — prices are 30-50% less than Bangkok",
-    "The overnight sleeper train from Bangkok is a great way to arrive — you sleep on the train and wake up in Isaan",
-    "Ton Taan Night Market (open 4pm-11pm) is the single best spot to graze through Isaan street food — come hungry",
-    "Learn to say 'aroy mak' (very delicious) — locals light up when foreigners appreciate their food",
-    "Grab works here and is the easiest way around if you do not rent a motorbike — most rides under 100 THB"
-  ],
-  "day_trips": [
-    "Phu Wiang Dinosaur Museum (80 km northwest) — Isaan’s tyrannosaur fossils, great for families, 100 THB entry",
-    "Chonnabot Silk Village (60 km south) — watch traditional mudmee silk weaving, buy scarves and fabrics direct",
-    "Phu Pha Man National Park (120 km west) — caves, waterfalls, and karst scenery off the beaten path",
-    "Udon Thani & Ban Chiang (110 km north) — UNESCO World Heritage archaeological site, prehistoric pottery"
-  ],
-  "enriched_at": "2026-03-22"
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
 }

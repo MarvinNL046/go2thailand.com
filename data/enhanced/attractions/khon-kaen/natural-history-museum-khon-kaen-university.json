@@ -1,0 +1,82 @@
+{
+  "id": 6,
+  "slug": "natural-history-museum-khon-kaen-university",
+  "name": {
+    "en": "Natural History Museum, Khon Kaen University",
+    "nl": "Natural History Museum, Khon Kaen University"
+  },
+  "type": "museum",
+  "city_slug": "khon-kaen",
+  "address": "Khon Kaen University, Nai Mueang, Mueang Khon Kaen, Khon Kaen 40002",
+  "location": {
+    "lat": 16.4458426,
+    "lng": 102.8109133
+  },
+  "opening_hours": "Check current museum hours locally",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A practical in-city museum option if you want a shorter science stop without the longer Phu Wiang transfer.",
+    "nl": "Een praktische museumoptie in de stad als je een kortere wetenschappelijke stop wilt zonder de langere rit naar Phu Wiang."
+  },
+  "highlights": [
+    "University museum setting",
+    "Shorter science stop",
+    "Easy city pairing"
+  ],
+  "image": "/images/cities/generated/khon-kaen.webp",
+  "official_website": "https://www.tourismthailand.org/Tourism-Product/Attraction/natural-history-museum-khon-kaen-university",
+  "seo": {
+    "metaTitle": {
+      "en": "Natural History Museum Khon Kaen University | Go2Thailand",
+      "nl": "Natural History Museum Khon Kaen University | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why the Natural History Museum at Khon Kaen University is the cleaner short museum stop in the city.",
+      "nl": "Waarom het Natural History Museum van Khon Kaen University de nettere korte museumstop in de stad is."
+    }
+  },
+  "tags": [
+    "museum",
+    "science",
+    "khon kaen",
+    "university",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Natural%20History%20Museum%20Khon%20Kaen%20University%20Thailand",
+  "best_time": "daytime",
+  "duration_hours": 1.5,
+  "enhanced_description": "This museum is useful because it gives Khon Kaen an in-city science option. Not every visitor needs the full Phu Wiang run, and the university museum makes it possible to keep the trip rooted in the city while still adding an educational stop.\n\nThat makes it a strong secondary attraction for shorter stays. Use it when you want one museum without turning the whole day into transport.",
+  "detailed_history": "Tourism Authority of Thailand attraction material positions the Natural History Museum at Khon Kaen University as one of the city's educational attractions, which fits its role as a shorter, city-based science stop.",
+  "visitor_experience": "Expect a straightforward university museum rather than a large destination complex. The value is efficiency and context, not scale.",
+  "best_time_to_visit": {
+    "time_of_day": "Daytime",
+    "duration": "1 to 1.5 hours",
+    "crowd_level": "Usually manageable outside group visits"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy by taxi or ride-hailing trip within Khon Kaen city.",
+    "nearby_attractions": "Khon Kaen University area and other city-based stops.",
+    "food_options": "Combine it with city meals rather than relying on museum-adjacent planning.",
+    "shopping": "Minimal; this is a short educational stop."
+  },
+  "insider_tips": [
+    "Use this if you want a shorter museum stop than Phu Wiang.",
+    "Keep expectations city-scale rather than blockbuster-scale.",
+    "Check current access because university-linked museums can change schedules."
+  ],
+  "verified_note": "Source-backed summary based on Tourism Authority of Thailand attraction material. Hours and admission conditions should be rechecked before visiting.",
+  "cultural_significance": "The museum reinforces Khon Kaen's role as a university city, not only a food or temple destination, by adding an educational layer within the city itself.",
+  "contentSources": [
+    {
+      "name": "Natural History Museum Khon Kaen University",
+      "url": "https://www.tourismthailand.org/Tourism-Product/Attraction/natural-history-museum-khon-kaen-university"
+    },
+    {
+      "name": "10 Things to Do in Khon Kaen",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-khon-kaen"
+    }
+  ]
+}

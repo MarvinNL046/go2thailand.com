@@ -1,0 +1,82 @@
+{
+  "id": 3,
+  "slug": "phu-wiang-dinosaur-museum",
+  "name": {
+    "en": "Phu Wiang Dinosaur Museum",
+    "nl": "Phu Wiang Dinosaur Museum"
+  },
+  "type": "museum",
+  "city_slug": "khon-kaen",
+  "address": "Na Chum Saeng, Wiang Kao, Khon Kaen 40150",
+  "location": {
+    "lat": 16.6781736,
+    "lng": 102.2670854
+  },
+  "opening_hours": "Check current museum hours before departure",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "The strongest museum-led day trip from Khon Kaen, built around official fossil and dinosaur research in the province.",
+    "nl": "De sterkste museum-uitstap vanuit Khon Kaen, gebouwd rond officieel fossiel- en dinosaurusonderzoek in de provincie."
+  },
+  "highlights": [
+    "Official fossil museum",
+    "Best science-led detour",
+    "Worth a dedicated outing"
+  ],
+  "image": "/images/cities/generated/khon-kaen.webp",
+  "official_website": "https://uat-es.dmr.go.th/en/rcmk-en/",
+  "seo": {
+    "metaTitle": {
+      "en": "Phu Wiang Dinosaur Museum | Go2Thailand",
+      "nl": "Phu Wiang Dinosaur Museum | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Phu Wiang is the strongest museum day trip from Khon Kaen.",
+      "nl": "Waarom Phu Wiang de sterkste museumdagtrip is vanuit Khon Kaen."
+    }
+  },
+  "tags": [
+    "museum",
+    "dinosaurs",
+    "fossils",
+    "khon kaen",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phu%20Wiang%20Dinosaur%20Museum%20Khon%20Kaen%20Thailand",
+  "best_time": "morning",
+  "duration_hours": 4,
+  "enhanced_description": "Phu Wiang is the one Khon Kaen detour that clearly earns a dedicated half-day or day. The official fossil research center and dinosaur museum give the province a distinctive science layer that goes beyond generic local-history displays, which is why this stop feels more substantial than many secondary provincial museums.\n\nThe best use of Phu Wiang is simple: let it be the main western outing. Do not force it into the same day as multiple city temples and markets. Khon Kaen gets stronger when you treat this museum as one clear direction rather than one more checkbox.",
+  "detailed_history": "The Department of Mineral Resources positions the Fossil Research Center and Dinosaur Museum as the official research and interpretation point for the province's fossil significance. That gives Phu Wiang unusual weight in Khon Kaen's wider attraction set.",
+  "visitor_experience": "Expect a purposeful museum detour rather than a casual city-side stop. This works best for travelers who are genuinely interested in fossils, science, or giving the trip one strong museum day outside the core.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning departure from Khon Kaen city",
+    "duration": "Half-day to full-day outing",
+    "crowd_level": "Moderate, often shaped by school and family visits"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached by car or driver from Khon Kaen city rather than by improvising multiple local transfers.",
+    "nearby_attractions": "Phu Wiang-side fossil and geology context rather than city attractions.",
+    "food_options": "Plan food around the day trip rather than assuming strong city-style dining on site.",
+    "shopping": "Keep this visit focused on the museum and research context."
+  },
+  "insider_tips": [
+    "Use Phu Wiang as the day's main direction.",
+    "Check the official source before departure because museum access details can change.",
+    "This is a better use of time than scattering multiple weaker provincial stops into one long day."
+  ],
+  "verified_note": "Source-backed summary based on the Department of Mineral Resources official museum page. Opening details and any site-specific fees should be rechecked locally.",
+  "cultural_significance": "Phu Wiang gives Khon Kaen province a scientific identity that sits alongside its better-known Isaan food and temple culture, which is why it remains one of the province's most distinctive detours.",
+  "contentSources": [
+    {
+      "name": "Fossil Research Center and Dinosaur Museum, Khon Kaen",
+      "url": "https://uat-es.dmr.go.th/en/rcmk-en/"
+    },
+    {
+      "name": "10 Things to Do in Khon Kaen",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-khon-kaen"
+    }
+  ]
+}
