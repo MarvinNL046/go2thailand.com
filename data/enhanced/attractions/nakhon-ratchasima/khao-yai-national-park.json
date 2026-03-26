@@ -1,0 +1,76 @@
+{
+  "id": 5,
+  "slug": "khao-yai-national-park",
+  "name": {
+    "en": "Khao Yai National Park",
+    "nl": "Khao Yai National Park"
+  },
+  "type": "nature",
+  "city_slug": "nakhon-ratchasima",
+  "address": "Pak Chong side, Nakhon Ratchasima and neighboring provinces",
+  "location": null,
+  "opening_hours": "Recheck current official park operations, fees, and access conditions before leaving Korat.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "Thailand's first national park and the province's major protected-landscape extension.",
+    "nl": "Thailand's eerste nationale park en de grote beschermde landschapsuitstap van de provincie."
+  },
+  "highlights": [
+    "Thailand's first national park",
+    "UNESCO World Heritage forest complex",
+    "Best nature extension from Korat"
+  ],
+  "image": "/images/cities/generated/nakhon-ratchasima.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Yai National Park | Go2Thailand",
+      "nl": "Khao Yai National Park | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Khao Yai should be treated as a full landscape day from Korat, not a quick add-on.",
+      "nl": "Waarom Khao Yai als volledige landschapsdag vanuit Korat moet worden gezien en niet als snelle add-on."
+    }
+  },
+  "tags": [
+    "korat",
+    "khao-yai",
+    "national-park"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Yai%20National%20Park",
+  "best_time": "morning",
+  "duration_hours": 6,
+  "enhanced_description": "Khao Yai should be treated as a full landscape decision, not as a minor add-on from Korat city. UNESCO continues to list the Dong Phayayen-Khao Yai Forest Complex as World Heritage, and TAT's Korat material still frames Khao Yai as one of the province's defining attractions. That is exactly why it deserves a dedicated day or a stay on the Pak Chong side.\n\nIf you choose Khao Yai, let it shape the day. Trying to force the park into the same rushed schedule as Ya Mo and Phimai usually leaves all three looking thinner than they should.",
+  "detailed_history": "UNESCO continues to recognize the Dong Phayayen-Khao Yai Forest Complex as a World Heritage property, while TAT's provincial Korat brochure still notes Khao Yai as Thailand's first national park and one of the province's headline landscape assets.",
+  "visitor_experience": "Expect a genuine landscape day rather than a city-side outing. The park is strongest when it is given time and treated as the main nature commitment of the itinerary.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning start",
+    "duration": "Half day to full day",
+    "crowd_level": "Variable"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best by car, driver, or a stay already positioned on the Pak Chong or Khao Yai side.",
+    "nearby_attractions": "Works with winery or resort meals only if the route is already Khao Yai-led.",
+    "food_options": "Plan food around the route or your Khao Yai-side stay.",
+    "shopping": "Not a retail-oriented outing."
+  },
+  "insider_tips": [
+    "Do not treat this as a quick side stop from central Korat.",
+    "Recheck current access and park details before departure.",
+    "Choose this instead of another long day trip, not in addition to all of them."
+  ],
+  "verified_note": "Source-backed summary based on UNESCO and current TAT provincial Korat material.",
+  "cultural_significance": "Khao Yai gives Nakhon Ratchasima its biggest protected-landscape dimension and one of Thailand's most recognized park names.",
+  "contentSources": [
+    {
+      "name": "Dong Phayayen-Khao Yai Forest Complex",
+      "url": "https://whc.unesco.org/en/list/590/"
+    },
+    {
+      "name": "Provincial Brochure: Nakhon Ratchasima",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/Provincial_Brochure_A5_Nakhon_Ratchasima_En.pdf"
+    }
+  ]
+}

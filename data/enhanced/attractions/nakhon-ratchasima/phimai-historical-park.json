@@ -1,0 +1,76 @@
+{
+  "id": 3,
+  "slug": "phimai-historical-park",
+  "name": {
+    "en": "Phimai Historical Park",
+    "nl": "Phimai Historical Park"
+  },
+  "type": "historical",
+  "city_slug": "nakhon-ratchasima",
+  "address": "Phimai District, Nakhon Ratchasima",
+  "location": null,
+  "opening_hours": "Check current official historical-park operations before leaving Korat, especially if your day depends on pairing the park with the museum.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The province's strongest Khmer heritage site and the best history-led extension from Korat.",
+    "nl": "De sterkste Khmer-erfgoedsite van de provincie en de beste geschiedenisgerichte uitstap vanuit Korat."
+  },
+  "highlights": [
+    "Largest Khmer stone temple in Thailand",
+    "Best heritage day trip from Korat",
+    "Strong when paired with the museum"
+  ],
+  "image": "/images/cities/generated/nakhon-ratchasima.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Phimai Historical Park | Go2Thailand",
+      "nl": "Phimai Historical Park | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Phimai Historical Park is the strongest heritage extension from Korat.",
+      "nl": "Waarom Phimai Historical Park de sterkste erfgoeduitstap vanuit Korat is."
+    }
+  },
+  "tags": [
+    "korat",
+    "phimai",
+    "khmer-heritage"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phimai%20Historical%20Park",
+  "best_time": "morning",
+  "duration_hours": 3,
+  "enhanced_description": "Phimai is the right heritage extension from Korat because it does not need inflated copy to justify the distance. Fine Arts Department material still frames it as the largest Khmer stone temple in Thailand, and the official site context makes clear that this is a serious historical stop rather than a decorative ruin on the side of the road.\n\nThe best move is to give it a proper block of time and, if possible, pair it with the museum. That keeps the trip historical instead of merely photogenic and prevents the common mistake of trying to force Phimai into the same rushed day as too many city stops.",
+  "detailed_history": "Fine Arts Department material continues to position Prasat Hin Phimai as the largest Khmer stone temple in Thailand and a key Khmer religious site. TAT's Korat brochure also emphasizes the sanctuary's scale, south-facing orientation, and central importance in the province's heritage layer.",
+  "visitor_experience": "Expect a serious heritage site with enough scale and detail to justify a focused visit. It is stronger when you arrive with time to slow down rather than after an already full city morning.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning",
+    "duration": "About 2.5 to 3 hours",
+    "crowd_level": "Moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best by car, driver, or a clearly planned bus route from Korat.",
+    "nearby_attractions": "Pair it with Phimai National Museum rather than adding too many weaker stops.",
+    "food_options": "Plan a simple town meal around the historical-park block.",
+    "shopping": "Keep the day focused on heritage rather than retail."
+  },
+  "insider_tips": [
+    "Let Phimai be the main event of the day.",
+    "Add the museum if you want the ruins to carry more interpretive weight.",
+    "Do not rush back to the city before you have finished the heritage layer properly."
+  ],
+  "verified_note": "Source-backed summary based on current Fine Arts Department and TAT Korat material.",
+  "cultural_significance": "Phimai gives Korat province its clearest Khmer heritage dimension and is the strongest history-led extension from the city.",
+  "contentSources": [
+    {
+      "name": "Phimai Historical Park",
+      "url": "https://virtualhistoricalpark.finearts.go.th/phimai/index.php/en/"
+    },
+    {
+      "name": "Provincial Brochure: Nakhon Ratchasima",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/Provincial_Brochure_A5_Nakhon_Ratchasima_En.pdf"
+    }
+  ]
+}

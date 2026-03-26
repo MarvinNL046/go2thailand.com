@@ -1,0 +1,72 @@
+{
+  "id": 1,
+  "slug": "thao-suranaree-monument",
+  "name": {
+    "en": "Thao Suranaree Monument",
+    "nl": "Thao Suranaree Monument"
+  },
+  "type": "cultural",
+  "city_slug": "nakhon-ratchasima",
+  "address": "Central Korat, Nakhon Ratchasima",
+  "location": null,
+  "opening_hours": "The monument area is generally easy to visit throughout the day, but the surrounding city-core rhythm is strongest in cooler hours.",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "The civic and spiritual anchor of Korat, and the best first stop for understanding the city.",
+    "nl": "Het burgerlijke en spirituele anker van Korat en de beste eerste stop om de stad te begrijpen."
+  },
+  "highlights": [
+    "Best first stop in Korat",
+    "Pairs with Chum Phon Gate",
+    "Still the city's defining monument"
+  ],
+  "image": "/images/cities/generated/nakhon-ratchasima.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Thao Suranaree Monument | Go2Thailand",
+      "nl": "Thao Suranaree Monument | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why the Thao Suranaree Monument is still the best first stop in Korat.",
+      "nl": "Waarom het Thao Suranaree Monument nog steeds de beste eerste stop in Korat is."
+    }
+  },
+  "tags": [
+    "korat",
+    "ya-mo",
+    "nakhon-ratchasima"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thao%20Suranaree%20Monument%20Korat",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 1,
+  "enhanced_description": "The Thao Suranaree Monument is where Korat stops being abstract. The TAT provincial brochure still places Ya Mo at the center of the city story, and that remains the clearest way to start. This is not only a statue stop; it is the point where local civic memory, daily city movement, and the old-gate area begin to line up.\n\nThe monument works best as the opening move for the central Korat sequence. Visit it with Chum Phon Gate and, if time allows, continue to Wat Sala Loi so the city core reads as one coherent layer instead of a loose list of nearby attractions.",
+  "detailed_history": "TAT's current Korat brochure continues to frame Thao Suranaree, or Ya Mo, as the heroine who defended the city during the 1826 conflict with Vientiane and whose monument remains the focus of public homage and annual commemoration.",
+  "visitor_experience": "Expect an active civic monument rather than a quiet museum-like stop. It is strongest when the surrounding streets still feel busy and when you treat it as part of a short city-core walk.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "About 45 minutes to 1 hour",
+    "crowd_level": "Light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy by short taxi or ride-hailing trip within central Korat.",
+    "nearby_attractions": "Best paired with Chum Phon Gate, the city pillar, and then Wat Sala Loi.",
+    "food_options": "Keep the bigger meal for later and use this as the orientation stop.",
+    "shopping": "This is more about city identity than retail."
+  },
+  "insider_tips": [
+    "Do this first if you want Korat to make sense quickly.",
+    "Keep the monument and old gate in the same walking block.",
+    "Use it to structure the city core, not as a standalone detour."
+  ],
+  "verified_note": "Source-backed summary based on current TAT provincial Korat material.",
+  "cultural_significance": "Ya Mo still anchors Korat's public memory and is the clearest civic symbol in the city.",
+  "contentSources": [
+    {
+      "name": "Provincial Brochure: Nakhon Ratchasima",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/Provincial_Brochure_A5_Nakhon_Ratchasima_En.pdf"
+    }
+  ]
+}

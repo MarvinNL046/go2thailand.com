@@ -122,7 +122,6 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
         description={hotelsData.meta_description}
       >
         <meta name="robots" content="noindex, follow" />
-        <meta name="keywords" content={`${city.name.en} hotels, Thailand accommodation, ${city.name.en} resorts, hotel booking, where to stay`} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -260,7 +259,7 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
                       <p>• Book 2-3 months ahead for best rates</p>
                       <p>• Check cancellation policies</p>
                       <p>• Compare prices across platforms</p>
-                      <p>• Read recent guest reviews</p>
+                      <p>• Recheck current hotel details on the official site</p>
                     </div>
                   </div>
 

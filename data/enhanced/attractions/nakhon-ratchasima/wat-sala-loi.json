@@ -1,0 +1,72 @@
+{
+  "id": 2,
+  "slug": "wat-sala-loi",
+  "name": {
+    "en": "Wat Sala Loi",
+    "nl": "Wat Sala Loi"
+  },
+  "type": "temple",
+  "city_slug": "nakhon-ratchasima",
+  "address": "Northeast of central Korat, Nakhon Ratchasima",
+  "location": null,
+  "opening_hours": "Temple access is generally straightforward, but exact local activity and worship timing should be respected on arrival.",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "The strongest temple stop in the Korat city core, tied directly to the Ya Mo story and known for its distinctive ordination hall.",
+    "nl": "De sterkste tempelstop in de Korat-stadskern, direct verbonden met het Ya Mo-verhaal en bekend om de opvallende wijdingshal."
+  },
+  "highlights": [
+    "Best city temple",
+    "Distinctive wave-like hall",
+    "Strong historical connection to Ya Mo"
+  ],
+  "image": "/images/cities/generated/nakhon-ratchasima.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Sala Loi | Go2Thailand",
+      "nl": "Wat Sala Loi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Wat Sala Loi is the strongest temple stop in central Korat.",
+      "nl": "Waarom Wat Sala Loi de sterkste tempelstop in centraal Korat is."
+    }
+  },
+  "tags": [
+    "korat",
+    "wat-sala-loi",
+    "temple"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Sala%20Loi%20Korat",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 1.5,
+  "enhanced_description": "Wat Sala Loi is the city temple that actually deepens the Korat story instead of duplicating it. The TAT provincial brochure still highlights its ordination hall, the Ya Mo connection, and its more distinctive architecture, which is exactly why it deserves priority over weaker temple filler.\n\nUse it as the second stop after the monument-and-gate area. That sequence lets Korat feel more complete: civic memory first, then a temple with direct historical weight rather than another generic religious stop.",
+  "detailed_history": "TAT's Korat brochure states that Thao Suranaree and her husband built the temple in 1827 and continues to highlight the award-winning hall shaped like a junk riding the waves, decorated with local Dan Kwian clay tiles.",
+  "visitor_experience": "Expect an active temple environment rather than a museum-like setting. The temple is most rewarding when you slow down enough to read the architecture and its relationship to the wider city story.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "About 1 to 1.5 hours",
+    "crowd_level": "Usually light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy by short taxi or ride-hailing trip from the monument area.",
+    "nearby_attractions": "Best paired with the Thao Suranaree Monument and Chum Phon Gate rather than with a rushed province loop.",
+    "food_options": "Return to the city core or a market route afterward.",
+    "shopping": "Not a shopping stop; keep the focus on the temple and architecture."
+  },
+  "insider_tips": [
+    "Do this after Ya Mo, not before.",
+    "Spend time on the hall details instead of treating it as a quick photo stop.",
+    "Dress respectfully and keep the visit quiet."
+  ],
+  "verified_note": "Source-backed summary based on current TAT provincial Korat material.",
+  "cultural_significance": "Wat Sala Loi is the clearest temple link between Korat's built heritage and the living Ya Mo city story.",
+  "contentSources": [
+    {
+      "name": "Provincial Brochure: Nakhon Ratchasima",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/Provincial_Brochure_A5_Nakhon_Ratchasima_En.pdf"
+    }
+  ]
+}

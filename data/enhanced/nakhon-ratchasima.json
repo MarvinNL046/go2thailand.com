@@ -9,28 +9,30 @@
     "th": "นครราชสีมา",
     "de": "Nakhon Ratchasima (Korat)",
     "fr": "Nakhon Ratchasima (Korat)",
-    "ru": "Nakhon Ratchasima (Korat)",
-    "zh": "Nakhon Ratchasima (Korat)"
+    "ru": "Накхонратчасима (Корат)",
+    "zh": "呵叻府府城那空叻差是玛（Korat）"
   },
   "region": "Isaan",
   "province": "Nakhon Ratchasima",
   "description": {
-    "en": "The largest city in Isaan and gateway to the northeast, Nakhon Ratchasima (locally known as Korat) offers the magnificent Khao Yai National Park, the ancient Khmer ruins of Phimai, and the beloved Thao Suranaree Monument. A bustling Thai city with deep historical roots and natural wonders.",
-    "nl": "De grootste stad van Isaan en de poort naar het noordoosten, Nakhon Ratchasima (lokaal bekend als Korat) biedt het prachtige Khao Yai Nationaal Park, de oude Khmer-ruïnes van Phimai en het geliefde Thao Suranaree Monument. Een bruisende Thaise stad met diepe historische wortels en natuurwonderen.",
-    "ja": "イサーン最大の都市でタイ東北部への玄関口、ナコーンラーチャシーマー（通称コラート）は、カオヤイ国立公園やピマーイ遺跡への拠点として人気です。",
-    "ko": "이산 최대 도시이자 동북부의 관문인 나콘랏차시마(현지에서 코랏으로 알려짐)는 웅장한 카오야이 국립공원, 고대 크메르 유적 피마이, 사랑받는 타오 수라나리 기념비가 있습니다. 깊은 역사적 뿌리와 자연의 경이로움을 지닌 활기찬 태국 도시입니다.",
-    "th": "โคราช ประตูสู่อีสาน มีอุทยานแห่งชาติเขาใหญ่ ปราสาทหินพิมาย และหมี่โคราช",
-    "de": "Die größte Stadt in Isaan und Tor zum Nordosten, Nakhon Ratchasima (im lokalen Sprachgebrauch Korat genannt) bietet den prachtvollen Khao Yai Nationalpark, die antiken Khmer-Ruinen von Phimai und das geliebte Thao Suranaree-Denkmal. Eine pulsierende thailändische Stadt mit tiefen historischen Wurzeln und natürlichen Wundern.",
-    "fr": "Plus grande ville de l'Isaan et porte d'entrée du nord-est, Nakhon Ratchasima (nom local Korat) offre le magnifique parc national de Khao Yai, les anciennes ruines khmères de Phimai et le bien-aimé monument Thao Suranaree. Une ville thaïlandaise animée avec de profondes racines historiques et des merveilles naturelles.",
-    "ru": "Крупнейший город Иссана и ворота к северо-востоку, Накхон Ратчасима (локально известный как Коррат) предлагает великолепный национальный парк Као Яй, древние хмерские руины Пхимай и любимый памятник Тао Сураране.",
-    "zh": "伊桑地区最大的城市和东北门户，Nakhon Ratchasima（本地称为 Korat）提供壮丽的考艾国家公园、帕迈遗址的古老高棉遗迹，以及备受喜爱的 Thao Suranaree 纪念碑。这是一座具有深厚历史渊源和自然奇观的泰国繁华城市。"
+    "en": "An Isaan city that works best as a practical urban base with a strong Ya Mo city core, one serious Khmer heritage extension, and selective Khao Yai or geopark detours.",
+    "nl": "Een Isaan-stad die het sterkst werkt als praktische stedelijke basis met een duidelijke Ya Mo-kern, een serieuze Khmer-erfgoeduitstap en gerichte Khao Yai- of geoparkdetours.",
+    "ja": "ヤーモー周辺の都市核を軸に、ピマーイのクメール遺跡やカオヤイ方面を選んで組み立てると最もわかりやすいイサーンの実用都市です。",
+    "ko": "야모 기념비 중심의 도심, 하나의 강한 크메르 유적 확장 코스, 그리고 선별된 카오야이 또는 지질공원 루트로 짜는 것이 가장 좋은 이산 도시입니다.",
+    "th": "โคราชเหมาะที่สุดเมื่อวางแผนแบบเมืองจริง มีแกนกลางรอบย่าโมและประตูเมือง แล้วค่อยเลือกทริปเสริมอย่างพิมาย เขาใหญ่ หรือจีโอพาร์คอย่างมีเหตุผล",
+    "de": "Korat funktioniert am besten als praktische Isan-Stadtbasis mit Ya-Mo-Kern, einem starken Khmer-Ausflug und gezielten Khao-Yai- oder Geopark-Erweiterungen.",
+    "fr": "Korat fonctionne surtout comme base urbaine pratique avec un vrai noyau autour de Ya Mo, une extension khmere solide et quelques detours choisis vers Khao Yai ou le geoparc.",
+    "ru": "Корат лучше всего планировать как практичную городскую базу: центр вокруг Я Мо, один сильный кхмерский выезд и выборочный выезд в Кхао Яй или геопарк.",
+    "zh": "如果把行程先围绕亚莫纪念碑一带的城市核心，再择一安排披迈、高艾或地质公园延伸，呵叻会清晰得多。"
   },
   "population": 461000,
   "highlights": [
-    "Khao Yai National Park",
     "Thao Suranaree Monument",
+    "Wat Sala Loi",
     "Phimai Historical Park",
-    "Night Markets"
+    "Phimai National Museum",
+    "Khao Yai National Park",
+    "Save One Market"
   ],
   "location": {
     "lat": 14.9799,
@@ -39,567 +41,573 @@
   "image": "/images/cities/generated/nakhon-ratchasima.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Nakhon Ratchasima (Korat) | What to do in Korat?",
-      "nl": "Ontdek Nakhon Ratchasima (Korat) | Wat te doen in Korat?",
-      "ja": "ナコーンラーチャシーマー（コラート）を満喫 | 観光ガイド",
-      "ko": "나콘랏차시마(코랏) 태국 — 카오야이 & 피마이 여행 가이드 2026",
-      "th": "นครราชสีมา ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
-      "de": "Entdecken Sie Nakhon Ratchasima (Korat) | Was tun in Korat?",
-      "fr": "Découvrez Nakhon Ratchasima (Korat) | Que faire à Korat ?",
-      "ru": "Откройте для себя Накхон Ратчасима (Корат) | Что сделать в Korat?",
-      "zh": "发现 Nakhon Ratchasima (Korat) | Korat 有什么好玩？"
+      "en": "Nakhon Ratchasima (Korat) Thailand Guide 2026 | Ya Mo, Phimai, Khao Yai",
+      "nl": "Nakhon Ratchasima (Korat) Thailand Gids 2026 | Ya Mo, Phimai, Khao Yai",
+      "ja": "コラート旅行ガイド 2026 | ヤーモー、ピマーイ、カオヤイ",
+      "ko": "코랏 여행 가이드 2026 | 야모, 피마이, 카오야이",
+      "th": "โคราช 2026 | ย่าโม พิมาย เขาใหญ่ และที่พัก",
+      "de": "Korat Guide 2026 | Ya Mo, Phimai und Khao Yai",
+      "fr": "Guide Korat 2026 | Ya Mo, Phimai et Khao Yai",
+      "ru": "Корат 2026 | Я Мо, Пхимай и Кхао Яй",
+      "zh": "呵叻旅行指南 2026 | 亚莫、披迈与高艾"
     },
     "metaDescription": {
-      "en": "Your guide to Nakhon Ratchasima (Korat), Thailand – tips, highlights, Khao Yai, Phimai ruins and Isaan culture.",
-      "nl": "Jouw gids voor Nakhon Ratchasima (Korat), Thailand – tips, highlights, Khao Yai, Phimai-ruïnes en Isaan-cultuur.",
-      "ja": "タイ・ナコーンラーチャシーマー（コラート）の旅行ガイド — カオヤイ、ピマーイ遺跡、グルメ情報をご紹介。",
-      "ko": "나콘랏차시마(태국) 완벽 여행 가이드: 카오야이 국립공원, 피마이 크메르 유적, 짐 톰슨 농장. 가격, 팁, 가는 법.",
-      "th": "คู่มือท่องเที่ยวนครราชสีมา ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
-      "de": "Ihr Reiseführer zu Nakhon Ratchasima (Korat), Thailand – Tipps, Highlights, Khao Yai, Phimai-Ruinen und Isaan-Kultur.",
-      "fr": "Votre guide de Nakhon Ratchasima (Korat), Thaïlande – conseils, points forts, Khao Yai, ruines de Phimai et culture Isaan.",
-      "ru": "Ваш путеводитель по Накхон Ратчасима (Корат), Таиланд — советы, достопримечательности, Као Яй, руины Пхимой и культура Иссана.",
-      "zh": "您的 Nakhon Ratchasima（Korat）指南，泰国——贴士、亮点、考艾国家公园、帕迈遗址和伊桑文化。"
+      "en": "Plan Korat around the Ya Mo city core, Wat Sala Loi, one proper Phimai heritage day, and selective Khao Yai or geopark extensions that actually fit a first stay.",
+      "nl": "Plan Korat rond de Ya Mo-stadskern, Wat Sala Loi, een echte Phimai-erfgoeddag en gerichte Khao Yai- of geoparkuitstappen die echt passen bij een eerste verblijf.",
+      "ja": "ヤーモー周辺の街歩き、ワット・サラーロイ、しっかり時間を取るピマーイ、そして必要に応じてカオヤイや地質公園を組み合わせる実用ガイドです。",
+      "ko": "야모 중심 도심, 왓 살라로이, 제대로 보는 피마이, 그리고 필요할 때만 더하는 카오야이·지질공원 루트를 정리한 실전 가이드입니다.",
+      "th": "วางแผนเที่ยวโคราชด้วยแกนกลางรอบย่าโม วัดศาลาลอย ทริปพิมายแบบจริงจัง และทริปเสริมเขาใหญ่หรือจีโอพาร์คที่เหมาะกับการมาเที่ยวครั้งแรก",
+      "de": "Planen Sie Korat mit Ya-Mo-Kern, Wat Sala Loi, einem guten Phimai-Tag und gezielten Khao-Yai- oder Geopark-Ausflugen.",
+      "fr": "Planifiez Korat autour du noyau Ya Mo, de Wat Sala Loi, d'une vraie journee a Phimai et d'extensions choisies vers Khao Yai ou le geoparc.",
+      "ru": "Планируйте Корат вокруг центра Я Мо, Wat Sala Loi, полноценного дня в Пхимае и выборочных выездов в Кхао Яй или геопарк.",
+      "zh": "从亚莫核心区、萨拉洛伊寺、完整的披迈行程，到真正适合首访的高艾或地质公园延伸，这份指南帮你更合理地规划呵叻。"
     }
   },
   "categories": {
     "food": {
-      "en": "Best restaurants and street food in Nakhon Ratchasima",
-      "nl": "Beste restaurants en streetfood in Nakhon Ratchasima",
-      "ja": "ナコーンラーチャシーマーのおすすめレストラン＆ストリートフード",
-      "ko": "나콘랏차시마 추천 레스토랑과 길거리 음식",
-      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในนครราชสีมา"
+      "en": "Best restaurants and food markets in Korat",
+      "nl": "Beste restaurants en food markets in Korat",
+      "ja": "コラートのおすすめレストランとフードマーケット",
+      "ko": "코랏 추천 레스토랑과 시장 음식",
+      "th": "ร้านอาหารและตลาดกินดื่มที่ดีที่สุดในโคราช"
     },
     "hotels": {
-      "en": "Top hotels in Nakhon Ratchasima | Tips & deals",
-      "nl": "Beste hotels in Nakhon Ratchasima | Tips & aanbiedingen",
-      "ja": "ナコーンラーチャシーマーのおすすめホテル｜お得な情報＆アドバイス",
-      "ko": "나콘랏차시마 추천 호텔 | 팁 & 특가",
-      "th": "โรงแรมแนะนำในนครราชสีมา | เคล็ดลับและดีล"
+      "en": "Top hotels in Korat | Practical city and Khao Yai stays",
+      "nl": "Beste hotels in Korat | Praktische city- en Khao Yai-verblijven",
+      "ja": "コラートのおすすめホテル | 街泊とカオヤイ滞在",
+      "ko": "코랏 추천 호텔 | 도심과 카오야이 숙소",
+      "th": "โรงแรมแนะนำในโคราช | พักในเมืองและฝั่งเขาใหญ่"
     },
     "attractions": {
-      "en": "Top attractions in Nakhon Ratchasima",
-      "nl": "Top bezienswaardigheden in Nakhon Ratchasima",
-      "ja": "ナコーンラーチャシーマーの人気観光スポット",
-      "ko": "나콘랏차시마 인기 관광 명소",
-      "th": "สถานที่ท่องเที่ยวยอดนิยมในนครราชสีมา"
+      "en": "Top attractions in Korat",
+      "nl": "Top bezienswaardigheden in Korat",
+      "ja": "コラートの人気観光スポット",
+      "ko": "코랏 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในโคราช"
     }
   },
   "tags": [
     "isaan",
+    "korat",
     "nakhon ratchasima",
-    "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "ya mo",
+    "phimai",
+    "khao yai"
   ],
-  "enhanced_description": "The first thing every visitor to Nakhon Ratchasima encounters is the statue of Thao Suranaree - Ya Mo, as the locals call her - standing defiant at the city gate on Chumphon Road. This 19th-century heroine who rallied the women of Korat to defeat a Laotian invasion is the soul of the city, and locals place flowers, incense, and offerings at her feet around the clock. I arrived on a Friday evening and found the area around the monument transformed into an impromptu festival: vendors selling roasted pork, som tum, and muay Thai themed souvenirs, families posing for photos, and a group of university students performing a traditional Isaan dance. This was my introduction to Korat - Thailand's largest northeastern city and the place where the central plains meet the Khorat Plateau, where Thai culture begins its transformation into something distinctly Isaan.\n\nKhao Yai National Park is the crown jewel of any visit to Nakhon Ratchasima, and I would argue it is one of the finest national parks in all of Southeast Asia. Just 80 kilometers south of the city, this UNESCO World Heritage Site covers 2,168 square kilometers of dense monsoon forest, grasslands, and mountains reaching 1,351 meters. I hired a guide named Khun Surachet through the park visitor center and spent two days trekking through the jungle, spotting wild elephants, gibbons, hornbills, and an astonishing variety of orchids. At Haew Narok waterfall - a thundering 150-meter cascade that is the park's most dramatic sight - we sat eating packed lunches of sticky rice and grilled pork while watching great hornbills soar across the canyon. On the second evening, Surachet drove me to the Bat Cave observation point where, at exactly 5:47 PM, three million wrinkle-lipped bats spiraled out of a cave entrance in a column so dense it appeared on weather radar.\n\nPhimai Historical Park, about 60 kilometers northeast of the city, is a revelation for anyone interested in Khmer history. This 11th-century temple complex predates Angkor Wat and was once the most important Khmer sanctuary on the ancient road from Angkor to the north. The main sanctuary, Prasat Hin Phimai, stands in the center of a rectangular compound oriented toward Angkor rather than east (a deliberate statement of allegiance), and its sandstone lintels depict scenes from the Ramayana with a delicacy that rivals anything at Angkor itself. I visited on a quiet Wednesday morning and had the entire complex almost to myself - a stark contrast to the crowds at Angkor. The adjacent Phimai National Museum houses an outstanding collection of Khmer sculpture, including the most famous sandstone statue of King Jayavarman VII found outside Cambodia.\n\nKorat's food scene revolves around pad mee Korat - the city's signature stir-fried noodle dish that is as beloved locally as pad thai is nationally. Unlike pad thai's sweet-sour profile, pad mee Korat uses a dark, savory soy-based sauce with thin rice noodles, tofu, egg, and bean sprouts. I tried it at multiple locations and the best was at a family-run stall on Chomsurangyat Road near the old market, where a grandmother named Ya Noi has been making the dish for 40 years. Her version had a smoky, caramelized quality from the wok that was addictive. The night market around Ya Mo monument is excellent for cheap Isaan food - I particularly loved the moo yor (Korat-style pork sausage) which is finer-textured and more subtly spiced than other regional versions.\n\nWhat makes Korat compelling is the combination of accessibility and authenticity. It is only 2.5 hours from Bangkok by expressway, yet it feels worlds away. The old city quarter, bounded by sections of the ancient laterite wall, has a thriving cafe and gallery scene that caters to local university students. On Yommarat Road I discovered a row of converted shophouses turned into independent coffee roasters and vintage bookshops that could rival anything in Chiang Mai. And yet step around the corner and you are in a traditional Isaan market where women weave silk on wooden looms and vendors sell freshwater fish paste from clay pots. Korat does not try to be anything other than what it is: a proud, prosperous Thai city that happens to sit at the crossroads of ancient Khmer civilization, wild jungle, and the vast Isaan heartland.",
+  "enhanced_description": "Korat works better once you stop describing it only as the gateway to Isaan. That label is true, but it is not enough. The city itself still has a real civic center around the Thao Suranaree Monument, Chum Phon Gate, the city pillar, and Wat Sala Loi. Tourism Authority of Thailand material still places Ya Mo at the center of the Korat story, and the city remains easiest to understand when you start there instead of leaving immediately for the province edges.\n\nThat city-first move matters because the province has too many possible detours. Phimai, Khao Yai, Dan Kwian, and the Khorat Geopark all pull in different directions, and not all of them belong in the same short stay. For most first visits, the strongest plan is simple: use the city core properly, add one serious heritage day to Phimai if history is the priority, or choose Khao Yai if protected landscape is the main reason you came. The geopark layer is strong, but it is more specialized and should stay selective.\n\nFood and hotel decisions should follow that same logic. Korat is not a destination where ranking noise or vague review-count thinking helps. Market meals such as Save One still matter because they keep the trip tied to local city life, while better hotel and resort dining only make sense in a few deliberate slots. On the stay side, most travelers should stay practical and central in the city unless a Khao Yai resort is explicitly part of the reason for coming.",
+  "overview": "Nakhon Ratchasima is strongest as an urban base with a clear internal hierarchy, not as a bloated province checklist. The TAT provincial brochure still frames the city through Ya Mo, Wat Sala Loi, Phimai, Dan Kwian, and Khao Yai, and that remains the right broad map. The key is choosing which of those layers actually belong in the same stay.\n\nIn the city itself, the monument-and-old-gate sequence does the real orientation work. Outside the city, Phimai is the best history-led extension, while Khao Yai is the major nature-led extension. Khorat Geopark is a worthwhile third direction only if fossils, geology, and paleontology are genuine interests. The quality move is picking one extension that suits the trip, not pretending the whole province can be covered well in a rushed circuit.",
   "hidden_gems": [
     {
-      "name": {
-        "en": "Jim Thompson Farm",
-        "nl": "Jim Thompson Boerderij",
-        "ja": "ジム・トンプソン・ファーム",
-        "ko": "짐 톰슨 농장"
-      },
-      "description": {
-        "en": "The sprawling organic farm of the legendary Thai silk company in Pak Thong Chai district, open to visitors during the annual Jim Thompson Farm Tour in December. Fields of flowers, silk demonstrations, and artisan markets.",
-        "nl": "De uitgestrekte biologische boerderij van het legendarische Thaise zijdebedrijf in het Pak Thong Chai-district, open voor bezoekers tijdens de jaarlijkse Jim Thompson Farm Tour in december. Bloemenvelden, zijdedemonstraties en ambachtsmarkten.",
-        "ja": "伝説的なタイシルク企業のパクトンチャイにある広大なオーガニック農場で、12月〜1月の期間限定で一般公開されます。美しい花畑やショップが楽しめます。",
-        "ko": "태국 실크왕 짐 톰슨의 이름을 딴 농장으로, 12월에 열리는 연례 축제가 특히 인기입니다. 넓은 꽃밭과 유기농 농산물 직판이 매력적입니다."
-      },
-      "type": "experience"
+      "name": "Pratu Chum Phon and the old wall context",
+      "story": "Pratu Chum Phon works because it sharpens the Ya Mo area into a proper historical city-core sequence instead of a single-monument photo stop.",
+      "how_to_find": "Walk it immediately after the monument rather than saving it for later.",
+      "best_time": "Morning or late afternoon.",
+      "local_insights": [
+        "This is one of the cleanest ways to make central Korat feel coherent.",
+        "It is better as part of a short walk than as a destination on its own."
+      ]
     },
     {
-      "name": {
-        "en": "Wat Ban Rai (Elephant Temple)",
-        "nl": "Wat Ban Rai (Olifantentempel)",
-        "ja": "ワット・バーンライ（象の寺院）",
-        "ko": "왓 반라이 (코끼리 사원)"
-      },
-      "description": {
-        "en": "A surreal temple 80 km south of Korat built in the shape of a giant elephant, covered in intricate ceramic mosaics. The interior is a masterpiece of Thai folk art. One of Thailand's most unusual temples.",
-        "nl": "Een surrealistische tempel op 80 km ten zuiden van Korat gebouwd in de vorm van een reusachtige olifant, bedekt met ingewikkelde keramische mozaieken. Het interieur is een meesterwerk van Thaise volkskunst. Een van Thailand's meest ongewone tempels.",
-        "ja": "コラートから南へ80kmにある巨大な象の形をしたシュールな寺院で、色鮮やかなモザイクアートで覆われています。タイで最もユニークな寺院の一つです。",
-        "ko": "코끼리 모양으로 지어진 독특한 사원으로, 내부의 정교한 세라믹 모자이크 장식이 인상적인 숨겨진 명소입니다."
-      },
-      "type": "temple"
+      "name": "Dan Kwian Pottery Village",
+      "story": "Dan Kwian is one of the more useful culture-and-craft add-ons if you want something tactile and region-specific without committing to a full Khao Yai day.",
+      "how_to_find": "Best with a car or driver as a short half-day extension south of the city.",
+      "best_time": "Daytime.",
+      "local_insights": [
+        "Go for the craft identity, not because you need another compulsory attraction.",
+        "This is stronger for visitors who actually care about ceramics and design."
+      ]
     },
     {
-      "name": {
-        "en": "Chokchai Farm",
-        "nl": "Chokchai Boerderij",
-        "ja": "チョークチャイ・ファーム",
-        "ko": "초크차이 농장"
-      },
-      "description": {
-        "en": "Thailand's largest dairy farm near Pak Chong offering tours, ice cream workshops, and a steakhouse. A surprisingly fun family outing and a taste of Thailand's agricultural industry.",
-        "nl": "Thailand's grootste melkveebedrijf bij Pak Chong met rondleidingen, ijsworkshops en een steakhouse. Een verrassend leuk familieuitje en een voorproefje van Thailand's landbouwindustrie.",
-        "ja": "パクチョン近くにあるタイ最大の酪農場で、ツアー、アイスクリーム作り体験、乗馬などが楽しめます。家族連れに人気のスポットです。",
-        "ko": "태국 최대 규모의 낙농 농장으로, 카우보이 쇼, 승마, 아이스크림 만들기 등 가족 친화적 액티비티를 즐길 수 있습니다."
-      },
-      "type": "experience"
+      "name": "Save One as a real city evening",
+      "story": "Save One is more useful than many polished dinner picks because it lets Korat feel social and lived-in after dark.",
+      "how_to_find": "Use it after the city-core day or as the dinner anchor before an early departure.",
+      "best_time": "Evening.",
+      "local_insights": [
+        "Walk first and eat in rounds instead of choosing one fixed stall too quickly.",
+        "This is the easiest way to keep the trip tied to local city life."
+      ]
     },
     {
-      "name": {
-        "en": "Yommarat Road Heritage Quarter",
-        "nl": "Yommarat Road Erfgoedwijk",
-        "ja": "ヨムマラート通りヘリテージ地区",
-        "ko": "욤마랏 도로 헤리티지 지구"
-      },
-      "description": {
-        "en": "The old city's emerging creative district with independent coffee roasters, vintage bookshops, art galleries, and craft beer bars in restored shophouses. The Chiang Mai of Isaan.",
-        "nl": "De opkomende creatieve wijk in de oude stad met onafhankelijke koffiebranders, vintage boekwinkels, kunstgalerijen en craft bier bars in gerestaureerde winkelpanden. Het Chiang Mai van Isaan.",
-        "ja": "旧市街に生まれつつあるクリエイティブ地区で、自家焙煎コーヒー店、ヴィンテージショップ、ギャラリーが点在しています。散策に最適なおしゃれエリアです。",
-        "ko": "코랏의 역사적인 거리로, 식민지 시대 건축물과 현지 카페가 매력적인 산책 명소입니다."
-      },
-      "type": "market"
+      "name": "Khorat Geopark only if it is truly your thing",
+      "story": "The geopark is a strong specialist detour, but it improves the trip only when geology or fossils are a real interest rather than a random add-on.",
+      "how_to_find": "Treat it as its own theme, not as a filler stop on the way back from somewhere else.",
+      "best_time": "Dry-season morning or daytime.",
+      "local_insights": [
+        "This is one of the easiest places in Korat to overpromise if the interest is not genuine.",
+        "Choose it deliberately and it becomes much stronger."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Start Korat with Ya Mo, the old gate, and Wat Sala Loi",
+      "story": "This is the cleanest way to let the city speak for itself before the province starts pulling you outward.",
+      "cultural_significance": "Ya Mo still anchors Korat's public memory, and Wat Sala Loi keeps that civic story tied to a real temple layer.",
+      "how_to_participate": "Walk the monument area first, add Chum Phon Gate, then use Wat Sala Loi as the city's main temple stop.",
+      "insights": [
+        "This makes Korat feel like a city, not just a transport node.",
+        "It is the right first-day move for most travelers."
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/thao-suranaree-monument/",
+      "cta_label": "See the Ya Mo guide"
     },
     {
-      "name": {
-        "en": "Sai Ngam Banyan Tree",
-        "nl": "Sai Ngam Banyan Boom",
-        "ja": "サイ・ンガーム菩提樹",
-        "ko": "싸이응암 반얀 트리"
-      },
-      "description": {
-        "en": "An enormous 350-year-old banyan tree near Phimai that has grown into an entire forest, with aerial roots creating dozens of 'trunk' pillars spread over 1,400 square meters. A local spirit shrine sits at the heart.",
-        "nl": "Een enorme 350 jaar oude banyanboom bij Phimai die is uitgegroeid tot een heel bos, met luchtwortels die tientallen 'stam'-pilaren creeren verspreid over 1.400 vierkante meter. Een lokaal geestenheiligdom bevindt zich in het hart.",
-        "ja": "ピマーイ近くにある樹齢350年の巨大な菩提樹で、一本の木が森のように広がっています。木陰の中を散歩でき、自然の驚異を感じられるスポットです。",
-        "ko": "거대한 반얀나무 군락이 작은 숲을 이루고 있는 자연 명소로, 현지인들의 신성한 장소입니다."
-      },
-      "type": "nature"
+      "activity": "Choose Phimai if heritage is the reason for leaving town",
+      "story": "Phimai is the strongest history-led extension and does not need padding with multiple weaker stops to justify the trip.",
+      "cultural_significance": "It gives Korat province a serious Khmer layer with real architectural and museum depth.",
+      "how_to_participate": "Pair the historical park with the museum and let the day stay focused.",
+      "insights": [
+        "Phimai deserves time, not checklist speed.",
+        "This is the best heritage direction from Korat."
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/phimai-historical-park/",
+      "cta_label": "See the Phimai guide"
+    },
+    {
+      "activity": "Treat Khao Yai as a full landscape decision",
+      "story": "Khao Yai works when it is the main nature day, not when it gets squeezed into an itinerary already overloaded with city and heritage stops.",
+      "cultural_significance": "It is the province's biggest protected-landscape asset and one of Thailand's defining park names.",
+      "how_to_participate": "Go only if you can give the park real time or if you are staying on the Pak Chong side.",
+      "insights": [
+        "This is a separate day for most travelers.",
+        "Do not pretend it is a small stop from the city center."
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/khao-yai-national-park/",
+      "cta_label": "See the Khao Yai guide"
+    },
+    {
+      "activity": "Keep one market evening in the plan",
+      "story": "Save One and similar city food-market rhythms do more for Korat than chasing only polished dining rooms.",
+      "cultural_significance": "Markets keep the city connected to everyday trade, snacks, and evening social life.",
+      "how_to_participate": "Use one evening for Save One or another market-led dinner instead of defaulting to the hotel every night.",
+      "insights": [
+        "This is one of the easiest upgrades for a short Korat stay.",
+        "Food works better here when it stays tied to the city."
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Pad Mee Korat and city-market eating",
+      "location": "Save One and city food zones",
+      "story": "Korat food should not be reduced to generic Isaan clichés. The point is to mix at least one local noodle identity with a market-led dinner that still feels grounded in the city.",
+      "where_to_find": "Use Save One for variety and a targeted city meal for the rest of the food structure.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Use markets for breadth and sit-down restaurants for one clearer meal focus.",
+        "Do not make every meal hotel-based unless the hotel itself is the point."
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "See the restaurant guide"
+    },
+    {
+      "dish": "One polished city dinner inside a real hotel base",
+      "location": "Kantary or another stronger Korat hotel dining room",
+      "story": "A polished Korat dinner works best when it serves convenience or a rooftop-city mood, not when it replaces the city's local food layer entirely.",
+      "where_to_find": "Use a stronger official hotel restaurant for one deliberate dinner slot.",
+      "price_range": "Mid-range to upscale",
+      "ordering_tips": [
+        "Keep this to one meal if you still want the trip to feel like Korat.",
+        "This is more useful on arrival night than as the whole plan."
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "See more food picks"
+    },
+    {
+      "dish": "Khao Yai winery and resort dining",
+      "location": "PB Valley and resort dining on the Pak Chong side",
+      "story": "This dining layer belongs to the Khao Yai extension, not to the city core. It works when the route is already nature- or resort-led, not as a replacement for Korat's city food identity.",
+      "where_to_find": "Use it only if you are already on the Pak Chong or Khao Yai side.",
+      "price_range": "Mid-range to upscale",
+      "ordering_tips": [
+        "Treat this as a route-specific meal, not the default Korat answer.",
+        "It makes more sense on a Khao Yai day or resort stay."
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "See more food picks"
+    },
+    {
+      "dish": "One special Khao Yai dinner if the resort is part of the trip",
+      "location": "InterContinental Khao Yai dining",
+      "story": "Resort dining at Khao Yai can be excellent, but it only belongs in the plan if the hotel or landscape setting already matters to the stay.",
+      "where_to_find": "Use Somying's Kitchen or Poirot as part of a Khao Yai hotel night, not as a forced detour from central Korat.",
+      "price_range": "Upscale",
+      "ordering_tips": [
+        "Book this as part of the stay logic, not as an isolated chase for a name.",
+        "It is strongest when the resort atmosphere is the point."
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "See more food picks"
+    }
+  ],
+  "local_insights": [
+    "Korat makes far more sense once Ya Mo and the old gate get real time before any province detour.",
+    "Phimai and Khao Yai do not belong in the same rushed one-night plan.",
+    "The city side is better for practical first stays; the Khao Yai side is better when the resort or park is the reason you came.",
+    "Save One is more useful than another generic cafe if you want the trip to feel local after dark.",
+    "Khorat Geopark is a quality specialist detour, not an obligatory first-timer stop."
+  ],
+  "seasonal_secrets": "Korat is easiest from November to February, when city walking, temple visits, and longer day trips stay more comfortable. March to May still works if you shift the city core toward early and late hours, but it makes exposed sites and all-day drives feel heavier. Rainy season can still suit a city-first stay, yet it makes Khao Yai and longer road-based provincial loops more variable and rewards a tighter itinerary.",
+  "budget_reality": "Korat is usually good value, but the trip gets expensive fastest when you start stacking long drives, resort-style stays, and too many split directions. Food can stay moderate if you use markets and one or two targeted sit-down meals. The real budget lever is the transport-and-hotel decision: a central Korat stay is usually more efficient, while Khao Yai shifts the trip upward quickly.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Thao Suranaree Monument",
+      "description": "The strongest first stop in Korat and the anchor for the old-gate city sequence.",
+      "location": "Central Korat",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Best first stop",
+        "Ya Mo civic core",
+        "Pairs with Chum Phon Gate"
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/thao-suranaree-monument/",
+      "cta_label": "See the Ya Mo guide"
+    },
+    {
+      "rank": 2,
+      "name": "Wat Sala Loi",
+      "description": "The city's most meaningful temple stop after Ya Mo, with stronger architecture and historical context than a generic temple add-on.",
+      "location": "Near the center",
+      "entrance_fee": "Usually free",
+      "highlights": [
+        "Best city temple",
+        "Distinctive wave-like hall",
+        "Strong Ya Mo link"
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/wat-sala-loi/",
+      "cta_label": "See the Wat Sala Loi guide"
+    },
+    {
+      "rank": 3,
+      "name": "Phimai Historical Park",
+      "description": "The province's best heritage extension and the clearest history-led reason to leave the city.",
+      "location": "Phimai district",
+      "entrance_fee": "Check current official ticketing",
+      "highlights": [
+        "Largest Khmer stone temple in Thailand",
+        "Best heritage day trip",
+        "Works with the museum"
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/phimai-historical-park/",
+      "cta_label": "See the Phimai guide"
+    },
+    {
+      "rank": 4,
+      "name": "Phimai National Museum",
+      "description": "The supporting museum that turns the Phimai trip into a stronger historical day instead of only a temple photo stop.",
+      "location": "Phimai town",
+      "entrance_fee": "Check current official ticketing",
+      "highlights": [
+        "Best companion to Phimai",
+        "Archaeology and sculpture context",
+        "Museum with real interpretive value"
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/phimai-national-museum/",
+      "cta_label": "See the museum guide"
+    },
+    {
+      "rank": 5,
+      "name": "Khao Yai National Park",
+      "description": "The province's flagship nature destination and a separate landscape day from the city core.",
+      "location": "Pak Chong side",
+      "entrance_fee": "Current park fees apply",
+      "highlights": [
+        "Thailand's first national park",
+        "UNESCO World Heritage forest complex",
+        "Best nature extension"
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/khao-yai-national-park/",
+      "cta_label": "See the Khao Yai guide"
+    },
+    {
+      "rank": 6,
+      "name": "Khorat UNESCO Global Geopark",
+      "description": "A specialist fossil-and-geology direction that adds range if you want more than temples and scenery.",
+      "location": "Greater Korat area",
+      "entrance_fee": "Varies by venue",
+      "highlights": [
+        "UNESCO Global Geopark framing",
+        "Strong paleontology angle",
+        "Best specialist detour"
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/khorat-geopark/",
+      "cta_label": "See the geopark guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "The Grill Room Restaurant",
-      "description": "Fine dining establishment specializing in French cuisine and premium steakhouse offerings with high-quality preparations.",
-      "cuisine_type": "French, Steakhouse",
-      "price_range": "600-1200 THB",
+      "name": "Save One Market",
+      "cuisine_type": "Street food and market eating",
+      "description": "The strongest easy food anchor in Korat if you want one evening that still feels rooted in the city rather than in a hotel orbit.",
+      "location": "Korat city",
+      "price_range": "Budget",
       "highlights": [
-        "Premium steaks",
-        "French cuisine",
-        "Fine dining experience"
+        "Best market dinner rhythm",
+        "Large night bazaar",
+        "Strong local city atmosphere"
       ],
-      "rating": 4.9
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 2,
-      "name": "Kuni Kuni",
-      "description": "Upscale Italian and European restaurant offering authentic cuisine in a refined dining atmosphere.",
-      "cuisine_type": "Italian, European",
-      "price_range": "500-1000 THB",
+      "name": "The Grill Room Korat",
+      "cuisine_type": "Steakhouse and rooftop dining",
+      "description": "A polished city dinner choice when you want one more formal meal without leaving the practical Korat hotel layer.",
+      "location": "Kantary Hotel Korat",
+      "price_range": "Mid-range to upscale",
       "highlights": [
-        "Italian dishes",
-        "European menu",
-        "Quality ingredients"
+        "Official hotel dining page",
+        "Rooftop setting",
+        "Best polished city dinner"
       ],
-      "rating": 4.8
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 3,
-      "name": "The Castle Restaurant and Tea room",
-      "description": "Charming restaurant serving Italian and European cuisine with a heritage setting and tea service.",
-      "cuisine_type": "Italian, European",
-      "price_range": "400-900 THB",
+      "name": "The Orchard Restaurant",
+      "cuisine_type": "International hotel dining",
+      "description": "A practical Korat hotel restaurant when convenience matters more than hunting for one more market meal.",
+      "location": "Kantary Hotel Korat",
+      "price_range": "Mid-range",
       "highlights": [
-        "Italian menu",
-        "Tea service",
-        "Atmospheric setting"
+        "Official hotel dining page",
+        "Useful all-day dining slot",
+        "Good for arrival or business stays"
       ],
-      "rating": 4.3
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 4,
-      "name": "Midwinter Khao Yai",
-      "description": "European cuisine restaurant located near Khao Yai National Park, offering quality dining for national park visitors.",
-      "cuisine_type": "European",
-      "price_range": "350-800 THB",
+      "name": "Tapestry Chinese Restaurant",
+      "cuisine_type": "Chinese restaurant",
+      "description": "A stronger alternative when you want one focused dining room inside the Korat city-hotel layer rather than another vague generalist pick.",
+      "location": "Kantary Hotel Korat",
+      "price_range": "Mid-range to upscale",
       "highlights": [
-        "European menu",
-        "National park location",
-        "Quality service"
+        "Official hotel dining page",
+        "Focused cuisine",
+        "Useful group-dinner option"
       ],
-      "rating": 4
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 5,
-      "name": "Ban Mai Chay Nam Resort and Restaurant",
-      "description": "Casual dining resort restaurant offering international and fast food options in a relaxed setting.",
-      "cuisine_type": "International, Fast Food",
-      "price_range": "200-600 THB",
+      "name": "Great Hornbill Grill",
+      "cuisine_type": "Winery and grill dining",
+      "description": "A sensible Khao Yai-side meal if winery context is part of the route and you are already on the Pak Chong side.",
+      "location": "PB Valley, Khao Yai",
+      "price_range": "Mid-range to upscale",
       "highlights": [
-        "International options",
-        "Resort setting",
-        "Casual atmosphere"
+        "Official winery restaurant context",
+        "Best used on a Khao Yai route",
+        "Good landscape-led meal"
       ],
-      "rating": 4
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 6,
-      "name": "Ya Noi Pad Mee Korat",
-      "description": "Legendary street food stall on Chomsurangyat Road serving authentic pad mee Korat with smoky, wok-charred noodles perfected over 40+ years.",
-      "cuisine_type": "Korat/Isaan",
-      "price_range": "50-100 THB",
+      "name": "Somying's Kitchen",
+      "cuisine_type": "Thai and resort dining",
+      "description": "A good Khao Yai resort-dining pick if you are already staying at InterContinental and want one stronger in-house meal.",
+      "location": "InterContinental Khao Yai Resort",
+      "price_range": "Upscale",
       "highlights": [
-        "Authentic local specialty",
-        "40+ year tradition",
-        "Must-try Korat dish"
-      ]
+        "Official resort dining page",
+        "Works best with an overnight stay",
+        "Useful resort-led dinner"
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 7,
-      "name": "Rabiang Pa Korat",
-      "description": "Large open-air restaurant in garden setting with extensive menu of Thai and Isaan dishes, grilled meats, and fresh salads. Popular with local families.",
-      "cuisine_type": "Thai, Isaan",
-      "price_range": "150-400 THB",
+      "name": "Poirot",
+      "cuisine_type": "European fine dining",
+      "description": "The right splurge only if the Khao Yai resort atmosphere is already part of the trip and you want one deliberate fine-dining slot.",
+      "location": "InterContinental Khao Yai Resort",
+      "price_range": "Upscale",
       "highlights": [
-        "Garden setting",
-        "Grilled meats",
-        "Local favorite"
-      ]
-    },
-    {
-      "rank": 8,
-      "name": "Ming Ter Restaurant",
-      "description": "Historic Chinese-Thai restaurant on Manat Road serving the local Sino-Thai community for 50+ years. Famous for dim sum, roast duck, and congee.",
-      "cuisine_type": "Chinese-Thai",
-      "price_range": "200-500 THB",
-      "highlights": [
-        "Dim sum",
-        "Roast duck",
-        "50+ year heritage"
-      ]
+        "Official resort dining page",
+        "European fine-dining positioning",
+        "Best as a destination dinner with a stay"
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "See more food picks"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "339 Hotels & Resort",
-      "description": "Highly-rated 4-star hotel offering comfortable accommodation with good amenities and service quality.",
-      "price_range": "1200-1800 THB per night",
-      "category": "midrange",
+      "name": "Centre Point Hotel Terminal21 Korat",
+      "description": "One of the strongest first-stay Korat hotels because it keeps the city center, mall access, and practical movement simple.",
+      "price_range": "Mid-range to upscale",
+      "category": "mid-range",
+      "area": "Central Korat",
       "highlights": [
-        "4-star rating",
-        "Quality service",
-        "Good value"
+        "Official hotel website",
+        "Connected to Terminal21 Korat",
+        "Strong practical city base"
       ],
-      "rating": 4
+      "href": "/city/nakhon-ratchasima/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 2,
-      "name": "Sata House Boutique Resort",
-      "description": "4-star boutique resort providing personalized service and stylish accommodation for discerning travelers.",
-      "price_range": "1300-2000 THB per night",
-      "category": "midrange",
+      "name": "Kantary Hotel Korat",
+      "description": "A strong city hotel choice if you want a more conventional full-service stay with several in-house dining options.",
+      "price_range": "Mid-range to upscale",
+      "category": "mid-range",
+      "area": "Korat city",
       "highlights": [
-        "Boutique style",
-        "4-star rating",
-        "Personalized service"
+        "Official hotel website",
+        "Multiple dining venues",
+        "Good practical city stay"
       ],
-      "rating": 4
+      "href": "/city/nakhon-ratchasima/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 3,
-      "name": "Korapura Resort",
-      "description": "Well-regarded 3.8-star resort offering comfortable rooms and resort amenities in pleasant surroundings.",
-      "price_range": "1100-1600 THB per night",
-      "category": "midrange",
+      "name": "Centara Korat",
+      "description": "A newer city hotel if you want a more contemporary full-service base attached to a major retail complex.",
+      "price_range": "Upscale",
+      "category": "upscale",
+      "area": "Central Korat",
       "highlights": [
-        "Resort amenities",
-        "3.8-star rating",
-        "Comfortable rooms"
+        "Official hotel website",
+        "Connected to Central Korat",
+        "Good facilities-led stay"
       ],
-      "rating": 3.8
+      "href": "/city/nakhon-ratchasima/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 4,
-      "name": "The Resort Angel Hill",
-      "description": "3-star resort providing basic but comfortable accommodation with standard resort facilities.",
-      "price_range": "900-1400 THB per night",
-      "category": "budget",
+      "name": "InterContinental Khao Yai Resort",
+      "description": "A destination stay for travelers whose Korat trip is intentionally weighted toward the Khao Yai side rather than the city center.",
+      "price_range": "Luxury",
+      "category": "special stay",
+      "area": "Khao Yai side",
       "highlights": [
-        "Resort setting",
-        "Comfortable rooms",
-        "Standard amenities"
+        "Official resort website",
+        "Destination resort atmosphere",
+        "Best with a Khao Yai-focused itinerary"
       ],
-      "rating": 3
+      "href": "/city/nakhon-ratchasima/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 5,
-      "name": "Thanya Pura Boutique Hotel",
-      "description": "3.3-star boutique hotel offering personal touches and stylish design in a budget-conscious package.",
-      "price_range": "800-1200 THB per night",
-      "category": "budget",
+      "name": "Mövenpick Resort Khao Yai",
+      "description": "A good Khao Yai-side resort choice if landscape mood and resort time matter more than being near the Korat city core.",
+      "price_range": "Upscale",
+      "category": "special stay",
+      "area": "Khao Yai side",
       "highlights": [
-        "Boutique style",
-        "Budget-friendly",
-        "Personalized service"
+        "Official resort website",
+        "Landscape-led resort setting",
+        "Best for a resort-weighted stay"
       ],
-      "rating": 3.3
-    },
-    {
-      "rank": 6,
-      "name": "Dusit Princess Korat",
-      "description": "Korat's premier luxury city hotel with elegant rooms, excellent pool, fitness center, refined Empress restaurant, and direct connection to The Mall shopping center.",
-      "price_range": "4000-6500 THB per night",
-      "category": "luxury",
-      "highlights": [
-        "Fine dining",
-        "Pool and fitness",
-        "Shopping access"
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "Kantary Hotel Korat",
-      "description": "Modern serviced apartment-hotel with spacious rooms, kitchenettes, pool, and gym. Ideal for longer stays with excellent value.",
-      "price_range": "1500-2500 THB per night",
-      "category": "midrange",
-      "highlights": [
-        "Kitchenettes",
-        "Home-like feel",
-        "Long-stay value"
-      ]
-    },
-    {
-      "rank": 8,
-      "name": "Sima Thani Hotel",
-      "description": "Well-established mid-range hotel near city center with comfortable rooms, traditional Thai decor, pool, and multiple dining options.",
-      "price_range": "1400-2200 THB per night",
-      "category": "midrange",
-      "highlights": [
-        "Thai design",
-        "Multiple restaurants",
-        "Central location"
-      ]
+      "href": "/city/nakhon-ratchasima/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     }
   ],
   "travel_tips": [
-    {
-      "title": {
-        "en": "Getting to Khao Yai",
-        "nl": "Naar Khao Yai reizen",
-        "ja": "カオヤイへの行き方"
-      },
-      "content": {
-        "en": "Khao Yai National Park is 80 km south of Korat. There is no public transport to the park entrance. Hire a car, join a guided tour, or arrange transport through your hotel. Park admission is 400 baht for foreigners. Hire a local guide (1,500-2,000 baht/day) for wildlife spotting.",
-        "nl": "Khao Yai Nationaal Park ligt 80 km ten zuiden van Korat. Er is geen openbaar vervoer naar de parkingang. Huur een auto, neem deel aan een begeleide tour of regel vervoer via je hotel. Parktoegang is 400 baht voor buitenlanders. Huur een lokale gids (1.500-2.000 baht/dag) voor wildlife spotting.",
-        "ja": "カオヤイ国立公園はコラートから南へ80kmです。公園内への公共交通機関はないため、レンタカーかツアーの利用がおすすめです。パクチョンが最寄りの町です。"
-      }
-    },
-    {
-      "title": {
-        "en": "Phimai Festival",
-        "nl": "Phimai Festival",
-        "ja": "ピマーイ・フェスティバル"
-      },
-      "content": {
-        "en": "The Phimai Festival in November features sound and light shows at the historical park, traditional boat races, and cultural performances. It is the best time to visit Phimai and a spectacular way to experience Khmer heritage.",
-        "nl": "Het Phimai Festival in november heeft geluid- en lichtshows in het historisch park, traditionele bootraces en culturele optredens. Het is de beste tijd om Phimai te bezoeken en een spectaculaire manier om Khmer-erfgoed te ervaren.",
-        "ja": "11月のピマーイ・フェスティバルでは、歴史公園でのサウンド＆ライトショーが開催されます。クメール遺跡がライトアップされる幻想的な光景は必見です。"
-      }
-    },
-    {
-      "title": {
-        "en": "Bangkok to Korat is Easy",
-        "nl": "Bangkok naar Korat is makkelijk",
-        "ja": "バンコクからコラートは簡単"
-      },
-      "content": {
-        "en": "Korat is only 2.5 hours from Bangkok by car via Motorway 6. Frequent buses leave from Mo Chit terminal (150-250 baht). Trains take 4-5 hours. A high-speed rail link is under construction. Korat also has a small airport with some domestic flights.",
-        "nl": "Korat is slechts 2,5 uur van Bangkok met de auto via Motorway 6. Frequente bussen vertrekken vanaf Mo Chit terminal (150-250 baht). Treinen duren 4-5 uur. Een hogesnelheidsrailverbinding is in aanbouw. Korat heeft ook een klein vliegveld met enkele binnenlandse vluchten.",
-        "ja": "コラートはバンコクから高速道路6号線で約2.5時間です。モーチット・バスターミナルから頻繁にバスが出ており、料金は200〜300バーツ程度です。"
-      }
-    },
-    {
-      "title": {
-        "en": "Try Pad Mee Korat",
-        "nl": "Probeer Pad Mee Korat",
-        "ja": "パッ・ミー・コラートを試そう"
-      },
-      "content": {
-        "en": "Pad mee Korat is the city's signature dish - stir-fried noodles in a dark savory sauce that is distinctly different from pad thai. Ask locals for their favorite stall. The dish is best eaten fresh from the wok at a street stall rather than in a restaurant.",
-        "nl": "Pad mee Korat is het kenmerkende gerecht van de stad - roergebakken noedels in een donkere hartige saus die duidelijk verschilt van pad thai. Vraag locals naar hun favoriete stalletje. Het gerecht is het lekkerst vers uit de wok bij een straatstalletje in plaats van in een restaurant.",
-        "ja": "パッ・ミー・コラートはこの街の名物料理で、濃い味のソースで炒めた麺料理です。パッタイとは全く異なる味わいで、コラートでしか食べられない一品です。"
-      }
-    },
-    {
-      "title": {
-        "en": "Respect at Ya Mo Monument",
-        "nl": "Respect bij Ya Mo Monument",
-        "ja": "ヤーモー記念碑での敬意"
-      },
-      "content": {
-        "en": "The Thao Suranaree (Ya Mo) Monument is deeply sacred to locals. Show respect when visiting - do not sit on the monument or point your feet toward it. Many locals make offerings, and the evening atmosphere is festive. The night market around the monument is excellent.",
-        "nl": "Het Thao Suranaree (Ya Mo) Monument is diep heilig voor de lokale bevolking. Toon respect bij een bezoek - ga niet op het monument zitten en wijs je voeten er niet naartoe. Veel locals brengen offers en de avondsfeer is feestelijk. De nachtmarkt rond het monument is uitstekend.",
-        "ja": "ターオ・スラナリー（ヤーモー）記念碑は地元の人々にとって深く神聖な場所です。訪問時は敬意を持って行動し、花やお供え物をしている参拝者の邪魔をしないようにしましょう。"
-      }
-    }
+    "Start with Ya Mo and the old gate before committing to any province detour.",
+    "Choose Phimai or Khao Yai on a short first stay; trying to do both weakens both.",
+    "Stay central unless a Khao Yai resort is explicitly part of the point of the trip.",
+    "Use one market-led evening to keep the food side grounded in Korat city life.",
+    "Recheck current park, museum, and ticketing details directly before any long drive.",
+    "Treat the geopark as a specialist interest route, not as mandatory filler."
   ],
   "best_time_to_visit": {
-    "en": "November to February is ideal with cool, dry weather perfect for Khao Yai trekking and temple exploration. The Phimai Festival in November adds a cultural dimension. March-May is very hot (38-42 degrees). The rainy season (June-October) makes Khao Yai waterfalls spectacular but trails can be muddy.",
-    "nl": "November tot februari is ideaal met koel, droog weer perfect voor Khao Yai-trekking en tempelverkenning. Het Phimai Festival in november voegt een culturele dimensie toe. Maart-mei is erg heet (38-42 graden). Het regenseizoen (juni-oktober) maakt Khao Yai-watervallen spectaculair maar paden kunnen modderig zijn.",
-    "ja": "11月〜2月がベストシーズンで、涼しく乾燥した天候がカオヤイでのトレッキングやピマーイ遺跡の観光に最適です。ひまわり畑も12月〜1月が見頃です。"
+    "season": "November to February is the easiest overall window because city walking, temple visits, and longer Phimai or Khao Yai days are more comfortable.",
+    "weather": "Hot months still work if you shift the city core toward early and late hours, but they make exposed heritage and landscape stops more tiring. Rainy months can still suit a city-first trip, though longer drives become less elegant.",
+    "reasons": "Korat rewards clean sequencing and time outdoors, so comfort in the city core and on day trips matters more here than in a purely indoor business city."
   },
   "budget_info": {
-    "budget_per_day": {
-      "en": "$20-30",
-      "nl": "$20-30",
-      "ja": "1日2,000〜3,000円"
-    },
-    "midrange_per_day": {
-      "en": "$50-80",
-      "nl": "$50-80",
-      "ja": "1日5,000〜8,000円"
-    },
-    "luxury_per_day": {
-      "en": "$150+",
-      "nl": "$150+",
-      "ja": "1日15,000円以上"
+    "daily_budget": {
+      "budget": "A budget Korat trip is realistic with a simple central room, market-heavy eating, and a city-first itinerary that limits long paid transfers.",
+      "mid": "Mid-range spending usually means a stronger central hotel, a mix of market and sit-down meals, and one real out-of-town day such as Phimai or Khao Yai.",
+      "luxury": "Higher spending in Korat comes mostly from resort choice, private transfers, and Khao Yai-side hotels rather than from attraction tickets alone."
     }
   },
-  "enhanced_at": "2026-02-22T00:00:00.000Z",
-  "overview": "Nakhon Ratchasima, affectionately known as Korat, is the largest city in Thailand's Isaan region and the essential gateway to the northeast. With a population of 460,000 in the city proper and nearly 2.6 million across the province, Korat blends modern urban energy with deep historical significance and access to some of Thailand's most extraordinary natural wonders. The city serves as a cultural and economic hub, where visitors encounter the revered Thao Suranaree Monument, the vibrant Save One Night Market, and easy access to UNESCO-listed Khao Yai National Park and ancient Khmer temples.\n\nWhat makes Korat distinctive is its perfect positioning as both a destination and a base for exploration. The city itself pulses with authentic Thai life—evening markets overflow with locals enjoying street food and shopping, temples dot the landscape with their golden spires, and cafes ranging from European-style establishments to humble shophouse cafes offer perfect retreats. For travelers seeking to venture beyond Bangkok's tourist circuits, Korat offers genuine cultural immersion combined with world-class natural attractions within an hour's drive.",
-  "thingsToDo": "The crown jewel of the region is Khao Yai National Park, a UNESCO World Heritage Site located 60 kilometers away and easily reached by car. This pristine jungle reserve (entrance fee: 400 THB/$11 USD) is famous for wild elephant populations, the spectacular 150-meter Haew Narok Waterfall with three tiers, and the remarkable bat cave spectacle where thousands of bats emerge at dusk.\n\nWithin the city itself, the Thao Suranaree Monument stands as the spiritual heart of Korat—a free, must-visit landmark honoring the local heroine, surrounded by the enormous Save One Night Market where visitors experience authentic Thai street food and local atmosphere.\n\nHistory enthusiasts should venture to Phimai Historical Park (entrance fee: 100 THB/$3 USD), home to remarkable pre-Angkor Khmer temple ruins featuring intricate Ramayana stone carvings and distinctive sandstone architecture. The nearby Phimai National Museum (100 THB/$3 USD) houses fascinating artifacts including a Jayavarman VII statue and regional Khmer sculptures.\n\nFor unique experiences, visit Wat Ban Rai (the Elephant Temple) with its giant elephant-shaped structure adorned with ceramic mosaic art, or experience the awe of Sai Ngam, a 350-year-old giant banyan tree covering 1,400 square meters with a spirit shrine.\n\nDecember brings the Jim Thompson Farm Tour, showcasing beautiful flower fields and traditional silk demonstrations (entrance fee: 200 THB/$6 USD), while Chokchai Farm (300 THB/$9 USD) offers interactive farm tours and ice cream workshops alongside a premium steakhouse serving locally raised Wagyu and Angus beef.",
-  "whereToStay": "Nakhon Ratchasima offers accommodation options across all budget levels, with most hotels concentrated in the downtown area near the Save One Night Market and around the modern Terminal 21 shopping center. Budget travelers can find clean guesthouses and basic hotels starting from $15-25 per night, often within walking distance of the night market's endless food and entertainment options. The midrange segment (3-4 stars) offers excellent value between $40-100 per night, with hotels featuring swimming pools, gyms, and convenient locations for exploring both the city and nearby attractions like Khao Yai National Park.\n\nFor those seeking more comfort, upscale hotels provide premium amenities while remaining remarkably affordable compared to Western destinations. Many visitors choose to base themselves in the city and make day trips to Khao Yai National Park (1 hour drive), Phimai Historical Park (1.5 hours), or the cafes scattered throughout the Khao Yai area. The Khao Yai region itself has developed into a cafe and resort destination with forest-surrounded accommodations like Assana Cafe Khaoyai, perfect for nature lovers seeking mountain and forest views.",
+  "thingsToDo": "Korat does not need an oversized checklist. Start with the Thao Suranaree Monument, Chum Phon Gate, and Wat Sala Loi so the city itself feels coherent. After that, choose one strong extension. Phimai is the best history-led day. Khao Yai is the best landscape-led day. Khorat Geopark is a specialist angle if fossils and geology matter more than another temple. Save One belongs in the evening because it keeps the trip attached to local city life instead of turning every night into hotel downtime.",
+  "whereToStay": "Most first-time visitors should stay in central Korat, where city movement, old-core access, mall convenience, and restaurant options all stay straightforward. That is why Centre Point, Kantary, and Centara make more sense for many short stays than jumping straight to a resort. Use the Khao Yai side only if the park or resort atmosphere is part of the trip's purpose, because once you sleep there the city and heritage days become different logistics.",
   "whereToEat": [
     {
-      "name": "The Grill Room Restaurant",
-      "cuisine": "French, Steakhouse",
-      "priceRange": "$$$",
-      "description": "Fine dining restaurant specializing in French cuisine and premium steaks with high-quality preparations."
-    },
-    {
-      "name": "Kuni Kuni",
-      "cuisine": "Italian, European",
-      "priceRange": "$$$",
-      "description": "Upscale Italian and European restaurant offering authentic cuisine in refined dining atmosphere."
-    },
-    {
-      "name": "The Castle Restaurant and Tea room",
-      "cuisine": "Italian, European",
-      "priceRange": "$$",
-      "description": "Charming restaurant serving Italian and European cuisine with heritage setting and tea service."
-    },
-    {
-      "name": "Ya Noi Pad Mee Korat",
-      "cuisine": "Thai/Korat",
+      "name": "Save One Market",
+      "cuisine": "Street food and local market meals",
       "priceRange": "$",
-      "description": "Legendary street stall on Chomsurangyat Road serving authentic pad mee Korat with smoky wok-charred noodles perfected over 40 years."
+      "description": "The strongest evening food anchor in the city if you want Korat to feel local after dark."
     },
     {
-      "name": "Rabiang Pa Korat",
-      "cuisine": "Thai, Isaan",
-      "priceRange": "$$",
-      "description": "Large open-air garden restaurant with extensive Thai and Isaan menu. Excellent grilled meats and salads, popular with local families."
+      "name": "The Grill Room Korat",
+      "cuisine": "Steakhouse and rooftop dining",
+      "priceRange": "$$-$$$",
+      "description": "A polished city dinner when you want one more formal meal in a practical hotel setting."
     },
     {
-      "name": "Ming Ter Restaurant",
-      "cuisine": "Chinese-Thai",
+      "name": "The Orchard Restaurant",
+      "cuisine": "International hotel dining",
       "priceRange": "$$",
-      "description": "Historic Chinese-Thai restaurant serving the local Sino-Thai community for 50+ years. Famous for dim sum, roast duck, and congee."
+      "description": "Useful for arrival night or business-style convenience without overselling it as the whole Korat food story."
+    },
+    {
+      "name": "Great Hornbill Grill",
+      "cuisine": "Winery and grill dining",
+      "priceRange": "$$-$$$",
+      "description": "A Khao Yai-side meal that only makes sense when you are already on that route."
+    },
+    {
+      "name": "Somying's Kitchen",
+      "cuisine": "Thai and resort dining",
+      "priceRange": "$$$",
+      "description": "A sensible in-resort dinner if InterContinental is part of your stay."
+    },
+    {
+      "name": "Poirot",
+      "cuisine": "European fine dining",
+      "priceRange": "$$$",
+      "description": "A destination dinner only when the Khao Yai resort layer is already the point."
     }
   ],
-  "topHotels": [
-    {
-      "name": "339 Hotels & Resort",
-      "category": "midrange",
-      "priceRange": "$35-55/night",
-      "area": "Downtown Korat",
-      "description": "4-star hotel with quality rooms, good service, and convenient location for exploring the city."
-    },
-    {
-      "name": "Sata House Boutique Resort",
-      "category": "midrange",
-      "priceRange": "$40-60/night",
-      "area": "Korat area",
-      "description": "Stylish 4-star boutique resort offering personalized service and well-appointed accommodation."
-    },
-    {
-      "name": "Korapura Resort",
-      "category": "midrange",
-      "priceRange": "$33-48/night",
-      "area": "Korat area",
-      "description": "3.8-star resort with comfortable rooms and standard resort facilities at good value."
-    },
-    {
-      "name": "The Resort Angel Hill",
-      "category": "budget",
-      "priceRange": "$27-42/night",
-      "area": "Korat area",
-      "description": "3-star resort offering basic but comfortable accommodation with resort amenities."
-    },
-    {
-      "name": "Thanya Pura Boutique Hotel",
-      "category": "budget",
-      "priceRange": "$24-36/night",
-      "area": "Downtown Korat",
-      "description": "Stylish 3.3-star boutique hotel with personal touches at budget-friendly prices."
-    },
-    {
-      "name": "Dusit Princess Korat",
-      "category": "luxury",
-      "priceRange": "$120-195/night",
-      "area": "Downtown Korat",
-      "description": "Premier luxury city hotel with elegant rooms, pool, fine dining, and direct shopping mall access."
-    },
-    {
-      "name": "Kantary Hotel Korat",
-      "category": "midrange",
-      "priceRange": "$45-75/night",
-      "area": "Downtown Korat",
-      "description": "Modern serviced apartment-hotel with kitchenettes, pool, and gym. Excellent for longer stays."
-    },
-    {
-      "name": "Sima Thani Hotel",
-      "category": "midrange",
-      "priceRange": "$42-66/night",
-      "area": "City Center",
-      "description": "Established hotel with traditional Thai decor, multiple restaurants, pool, and central location."
-    }
-  ],
-  "gettingAround": "Nakhon Ratchasima is well-served by local transportation options accessible to travelers of all budgets. Tuk-tuks remain the most iconic and affordable way to navigate short distances within the city, typically costing 40-60 THB ($1-2 USD) for local trips. Songthaews (shared minivans) operate on fixed routes throughout the city and to nearby towns like Phimai, offering even cheaper transportation at 10-20 THB per journey. For flexibility and convenience, the Grab app (motorcycle taxis and car services) operates throughout Korat and to surrounding areas, allowing tourists to book rides with transparent pricing via smartphone.\n\nFor trips to attractions outside the city—particularly Khao Yai National Park, Phimai Historical Park, and the Khao Yai cafe zone—motorcycle rental (200-300 THB/$6-9 per day) or car rental (1000-2000 THB/$28-57 per day) provides the most freedom. Most hotels can arrange car rentals or provide driver services. Songthaews also depart regularly from the city center to Phimai (1.5 hours, approximately 50-80 THB) and other provincial destinations. Bicycling is increasingly popular for exploring the downtown area, with bike rentals available at many guesthouses (100-150 THB per day).",
-  "bestTimeToVisit": "Nakhon Ratchasima experiences a tropical savanna climate typical of Thailand's Isaan region. The ideal visiting season is November through February when temperatures range from 15-28°C (59-82°F), humidity is lower, and rainfall is minimal. December and January are peak months with the most pleasant weather—cool mornings and evenings, sunny days perfect for visiting Khao Yai National Park and exploring historical sites without the discomfort of intense heat.\n\nAvoid September and October when the southwest monsoon brings heavy rainfall that can make jungle activities like wildlife spotting and waterfall visits less enjoyable. March through May brings pre-monsoon heat with temperatures exceeding 35°C (95°F), making outdoor activities uncomfortable during midday hours. However, this period sees the Jim Thompson Farm Tour in December, making late November through early January the sweetest spot for combining perfect weather with seasonal attractions and events.",
-  "budgetGuide": {
-    "budget": {
-      "min": 20,
-      "max": 40,
-      "description": "Budget traveler daily costs in USD: guesthouse (15-25/night), street food and night market meals (3-8), local tuk-tuk or Grab transport (2-4), free or low-cost attractions (0-3). Example: stay at budget boutique hotel for $16, eat at street stalls and night markets for $6, transport $3 = $25 total."
-    },
-    "midrange": {
-      "min": 50,
-      "max": 100,
-      "description": "Mid-range daily costs in USD: 3-4 star hotel (33-75/night), restaurants and cafes (8-15), activities with entrance fees (3-11), transport (3-5). Example: 3.8-star resort $40 + Khao Yai entrance $11 + meals $15 + transport $4 = $70 total."
-    },
-    "luxury": {
-      "min": 150,
-      "max": 400,
-      "description": "Luxury daily costs in USD: 5-star resort (120-195/night), fine dining and upscale restaurants (25-60), premium tours and activities (40-100), private transport (20-40). Example: Dusit Princess Korat $150 + Khao Yai private guide tour $80 + fine dining $45 + private car $30 = $305 total."
-    }
-  },
-  "safetyTips": "Nakhon Ratchasima is generally a safe city for tourists with low violent crime rates. Standard urban precautions apply: avoid displaying expensive jewelry, cameras, or large amounts of cash; use hotel safes for valuables; and be cautious with personal belongings in crowded night markets where pickpocketing occasionally occurs. The night market areas are well-lit and heavily populated by locals and tourists, making them safe in the evenings, though travelers should avoid isolated side streets after dark.\n\nWhen visiting Khao Yai National Park or hiking in natural areas, stay on marked trails and respect wildlife—maintain safe distances from elephants and other animals, never feed them, and avoid visiting solo in remote areas. Road safety is important; if renting motorcycles, wear helmets (legally required) and drive defensively as Thai roads can be chaotic. Drinking water from taps is generally unsafe; stick to bottled water available everywhere. Healthcare is good in the city with modern hospitals available, though travel insurance is recommended. Thai people are generally welcoming and patient with tourists; learning basic Thai phrases enhances safety and cultural respect.",
+  "gettingAround": "Korat is practical once you separate the city core from the province extensions. Around Ya Mo, the old gate, central hotels, and many food stops, short taxi or ride-hailing trips are usually enough, and parts of the core can be walked in short blocks. Phimai, Khao Yai, Dan Kwian, and the geopark layer are different questions and work better with a car, driver, or clearly planned bus-and-return logic. The practical rule is simple: keep the city compact, and treat every outer-city stop as a real transport commitment.",
+  "bestTimeToVisit": "Korat is strongest from November to February, when the city core, temple stops, and longer Phimai or Khao Yai routes are all more comfortable. Hot-season travel is still possible, but it rewards early starts and shorter midday exposure. Rainy months can still work for a city-first plan, though they make longer nature-led days more variable.",
+  "safetyTips": "Korat is generally straightforward for visitors, and the bigger risk is wasting time on overbuilt itineraries rather than running into unusual safety issues. Use normal city awareness at markets after dark, agree on longer transport plans before leaving town, dress respectfully at temples, and recheck current park or museum operations before any long drive. If you are heading toward Khao Yai, plan conservatively and treat park conditions as something to verify locally rather than assume.",
   "faq": [
     {
-      "question": "How long should I spend in Nakhon Ratchasima (Korat)?",
-      "answer": "2-3 days is ideal: one full day for city exploration (Thao Suranaree Monument, night market, cafes), one day for Khao Yai National Park (400 THB entrance fee, $11 USD), and one optional day for Phimai Historical Park (100 THB, $3 USD) or additional Khao Yai activities. Many travelers use Korat as a 1-night base before heading elsewhere in Isaan."
+      "question": "Is Korat worth visiting if I am not only using it as a gateway?",
+      "answer": "Yes. Korat is strongest when you treat the city itself as part of the trip, especially around Ya Mo, the old gate, Wat Sala Loi, and one good market evening."
     },
     {
-      "question": "What is the distance from Bangkok to Nakhon Ratchasima?",
-      "answer": "Approximately 250 kilometers (155 miles) northeast of Bangkok, taking 2.5-3.5 hours by car depending on traffic. Buses operate regularly from Bangkok's Northern Bus Terminal (journey time 3-4 hours). Train service is available but less convenient for tourists."
+      "question": "How many nights do I need in Korat?",
+      "answer": "Two nights is a good first stay if you want the city core plus one serious extension such as Phimai or Khao Yai. One night works only if the trip stays mostly in town."
     },
     {
-      "question": "Can I do a day trip to Khao Yai National Park from Korat city?",
-      "answer": "Yes, Khao Yai National Park is only 60 kilometers away (1-1.5 hours by car). Hotels can arrange car rentals (1000-2000 THB/$28-57 per day) or guide services. Entrance fee is 400 THB ($11 USD) and plan 6-8 hours for a meaningful visit including wildlife spotting, waterfall viewing, and guided tours."
+      "question": "Should I choose Phimai or Khao Yai first?",
+      "answer": "Choose Phimai if heritage is the priority and Khao Yai if landscape and park time are the priority. On a short stay, doing both usually weakens the trip."
     },
     {
-      "question": "What is the best time to visit Nakhon Ratchasima?",
-      "answer": "November through February offers ideal weather with temperatures 15-28°C (59-82°F), lower humidity, and minimal rainfall. December and January are peak months with perfect conditions for Khao Yai National Park exploration. Avoid September-October during southwest monsoon when heavy rainfall impacts outdoor activities."
+      "question": "What are the most important attractions inside Korat city itself?",
+      "answer": "For most first visits, the essential city sequence is the Thao Suranaree Monument, Chum Phon Gate, and Wat Sala Loi."
     },
     {
-      "question": "How much does it cost to visit Khao Yai National Park?",
-      "answer": "Entrance fee is 400 THB ($11 USD) per person. If arranging a private guide or tour, prices vary but typically range from 1500-3000 THB ($43-86 USD) for a half-day guided tour including vehicle."
+      "question": "Is Save One worth adding if I already have restaurant plans?",
+      "answer": "Usually yes. One market evening helps Korat feel much more local and less like a hotel-and-day-trip itinerary."
+    },
+    {
+      "question": "Where should I stay on a first visit?",
+      "answer": "Central Korat is usually the best first base. Stay on the Khao Yai side only if the park or resort atmosphere is part of the main reason for the trip."
     }
   ],
   "practicalInfo": {
@@ -609,290 +617,104 @@
       "Jan",
       "Feb"
     ],
-    "nearestAirport": "Nakhon Ratchasima Airport (ACH) has limited commercial service; Bangkok's Suvarnabhumi Airport (BKK) and Don Mueang Airport (DMK) are the primary options for most international travelers.",
-    "travelTimeFromAirport": "From Bangkok Suvarnabhumi Airport: 2.5-3.5 hours by car or bus ($15-25 USD); from Don Mueang: 2.5-3 hours by car. Most visitors arrive via Bangkok as direct flights to Korat are rare. Airport shuttle services and rental cars available at both Bangkok airports.",
+    "nearestAirport": "Most travelers reach Korat overland from Bangkok rather than through a regularly used local commercial airport.",
+    "travelTimeFromAirport": "Plan road or rail arrival from Bangkok as the default access pattern for most international and domestic visitors.",
     "localTransport": [
-      "Tuk-tuk (40-60 THB for local trips)",
-      "Songthaew/shared minivan (10-20 THB)",
-      "Grab app (motorcycle and car service)",
-      "Motorcycle rental (200-300 THB per day)",
-      "Car rental (1000-2000 THB per day)",
-      "Bicycle rental (100-150 THB per day)"
+      "Short taxi or ride-hailing hops within central Korat",
+      "Walking the Ya Mo and old-gate core in short blocks",
+      "Car or driver for Phimai, Dan Kwian, Khao Yai, or geopark routes",
+      "Train or bus access from Bangkok for the main intercity leg",
+      "Keeping outer-city directions to one main route per day"
     ]
   },
-  "enrichedAt": "2026-02-22T12:49:48.453Z",
-  "seasonal_secrets": {
-    "best_times": {
-      "November-February (Best)": "Nakhon Ratchasima experiences a tropical savanna climate typical of Thailand's Isaan region. The ideal visiting season is November through February when temperatures range from 15-28°C (59-82°F), humidity is lower, and rainfall is minimal.",
-      "March-May (Hot Season)": "Very hot, 30-40°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
-      "June-October (Green Season)": "Warm with regular rainfall. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
-    },
-    "local_festivals": [
-      "Loy Krathong Festival",
-      "King's Birthday (Father's Day - Dec 5)",
-      "New Year celebrations",
-      "Makha Bucha Day",
-      "Chinese New Year (varies)",
-      "Songkran Water Festival (April 13-15) - celebrated nationwide"
-    ],
-    "seasonal_foods": {
-      "cool": "Grilled chicken (Gai Yang), sticky rice, and spicy Som Tam enjoyed outdoors. Local favorites include Ya Noi Pad Mee Korat and Rabiang Pa Korat.",
-      "hot": "Refreshing papaya salads and cold drinks along the riverside. Local favorites include Ya Noi Pad Mee Korat and Rabiang Pa Korat.",
-      "rainy": "Isaan sausages (Sai Krok), larb, and seasonal river fish. Local favorites include Ya Noi Pad Mee Korat and Rabiang Pa Korat."
-    },
-    "insider_tips": {
-      "Temple visits": "Visit ruins early morning (opening time) for the best light and fewer crowds. Bring water — shade is limited.",
-      "Guided tours": "Local guides offer context that transforms the experience — well worth the small fee, especially at UNESCO sites.",
-      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
-      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Nakhon Ratchasima (Korat).",
-      "Khao Yai National Park": "Visit Khao Yai National Park during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
-    }
-  },
-  "top_attractions": [
+  "contentSources": [
     {
-      "rank": 1,
-      "name": "Khao Yai National Park",
-      "description": "UNESCO World Heritage Site featuring pristine jungle, wild elephant populations, the 150-meter Haew Narok Waterfall with three tiers, and bat cave spectacles at dusk.",
-      "location": "60 km southeast of Korat",
-      "entrance_fee": "400 THB ($11 USD)",
-      "highlights": [
-        "Wild elephants",
-        "Waterfall hiking",
-        "Bat cave emergence at dusk"
-      ]
+      "type": "tourism-office",
+      "title": "Provincial Brochure: Nakhon Ratchasima",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/Provincial_Brochure_A5_Nakhon_Ratchasima_En.pdf",
+      "description": "Used for official Korat city framing, Ya Mo, Wat Sala Loi, Dan Kwian, Khao Yai, and general transport context."
     },
     {
-      "rank": 2,
-      "name": "Thao Suranaree Monument",
-      "description": "Iconic landmark honoring the local heroine of Korat, surrounded by the vibrant Save One Night Market. Free to visit and spiritually significant to locals.",
-      "location": "City center",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Cultural significance",
-        "Night market access",
-        "Local gathering point"
-      ]
+      "type": "heritage-site",
+      "title": "Phimai Historical Park",
+      "creator": "Fine Arts Department, Thailand",
+      "url": "https://virtualhistoricalpark.finearts.go.th/phimai/index.php/en/",
+      "description": "Used for official historical framing around Prasat Hin Phimai."
     },
     {
-      "rank": 3,
-      "name": "Phimai Historical Park",
-      "description": "Remarkable pre-Angkor Khmer temple ruins with intricate Ramayana stone carvings and distinctive sandstone architecture dating to the 11th-12th centuries.",
-      "location": "50 km north of Korat",
-      "entrance_fee": "100 THB ($3 USD)",
-      "highlights": [
-        "Khmer temple ruins",
-        "Stone carvings",
-        "Historical significance"
-      ]
+      "type": "museum",
+      "title": "Phimai National Museum",
+      "creator": "Fine Arts Department, Thailand",
+      "url": "https://www.finearts.go.th/phimaimuseum",
+      "description": "Used for official museum reference and current institutional status."
     },
     {
-      "rank": 4,
-      "name": "Phimai National Museum",
-      "description": "Houses fascinating artifacts including a Jayavarman VII statue, regional Khmer sculptures, and pre-Angkorian art collections.",
-      "location": "Phimai town",
-      "entrance_fee": "100 THB ($3 USD)",
-      "highlights": [
-        "Khmer artifacts",
-        "Jayavarman VII statue",
-        "Sculpture collections"
-      ]
+      "type": "world-heritage",
+      "title": "Dong Phayayen-Khao Yai Forest Complex",
+      "creator": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/590/",
+      "description": "Used for official UNESCO context around Khao Yai's World Heritage status."
     },
     {
-      "rank": 5,
-      "name": "Wat Ban Rai (Elephant Temple)",
-      "description": "Unique temple featuring a giant elephant-shaped structure adorned with intricate ceramic mosaic art, easily recognized by its distinctive elephant form.",
-      "location": "Korat area",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Elephant-shaped architecture",
-        "Ceramic mosaics",
-        "Photo opportunities"
-      ]
+      "type": "geopark",
+      "title": "Khorat UNESCO Global Geopark",
+      "creator": "Khorat UNESCO Global Geopark",
+      "url": "https://www.khoratgeopark.com/en/",
+      "description": "Used for official geopark positioning and paleontology framing."
     },
     {
-      "rank": 6,
-      "name": "Sai Ngam (Giant Banyan Tree)",
-      "description": "Spectacular 350-year-old giant banyan tree covering 1,400 square meters with a spirit shrine. Peaceful natural attraction with historical significance.",
-      "location": "30 km from Korat city center",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Ancient tree",
-        "Spiritual site",
-        "Natural monument"
-      ]
+      "type": "hotel",
+      "title": "Centre Point Hotel Terminal21 Korat",
+      "creator": "Centre Point",
+      "url": "https://www.centrepoint.com/korat",
+      "description": "Used for official city-hotel positioning, address, and practical central-stay logic."
     },
     {
-      "rank": 7,
-      "name": "Chokchai Farm",
-      "description": "Interactive farm offering tours, ice cream workshops, and premium steakhouse restaurant serving locally raised Wagyu and Angus beef.",
-      "location": "Near Khao Yai",
-      "entrance_fee": "300 THB ($9 USD)",
-      "highlights": [
-        "Farm tours",
-        "Ice cream workshop",
-        "Premium steakhouse"
-      ]
+      "type": "food-market",
+      "title": "Save One Market",
+      "creator": "Centre Point",
+      "url": "https://www.centrepoint.com/korat/dontmiss/save-one-market",
+      "description": "Used for current source-backed market framing and Korat evening-food context."
     },
     {
-      "rank": 8,
-      "name": "Jim Thompson Farm Tour",
-      "description": "Seasonal attraction showcasing beautiful flower fields and traditional Thai silk demonstrations, particularly popular in December.",
-      "location": "Near Korat",
-      "entrance_fee": "200 THB ($6 USD)",
-      "highlights": [
-        "Flower fields",
-        "Silk demonstrations",
-        "Seasonal attraction"
-      ]
+      "type": "hotel",
+      "title": "Kantary Hotel, Korat",
+      "creator": "Cape and Kantary Hotels",
+      "url": "https://www.kantaryhotel-korat.com/",
+      "description": "Used for official city-hotel positioning and in-house dining references."
+    },
+    {
+      "type": "hotel",
+      "title": "Centara Korat",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centara/cko",
+      "description": "Used for official city-hotel positioning and Central Korat connection."
+    },
+    {
+      "type": "resort",
+      "title": "InterContinental Khao Yai Resort",
+      "creator": "InterContinental Hotels & Resorts",
+      "url": "https://khaoyai.intercontinental.com/",
+      "description": "Used for official Khao Yai resort positioning and resort-dining context."
+    },
+    {
+      "type": "resort",
+      "title": "InterContinental Dining, Cafes & Khao Yai Restaurants",
+      "creator": "InterContinental Khao Yai Resort",
+      "url": "https://khaoyai.intercontinental.com/dining/",
+      "description": "Used for official current dining lineup including Poirot and Somying's Kitchen."
+    },
+    {
+      "type": "resort",
+      "title": "Mövenpick Resort Khao Yai Location & Contact",
+      "creator": "Mövenpick Hotels & Resorts",
+      "url": "https://movenpick.accor.com/en/asia/thailand/khao-yai/resort-khao-yai/location.html",
+      "description": "Used for official Khao Yai resort location context relative to the national park."
     }
   ],
-  "factchecked_at": "2026-03-08T18:35:55.684Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "Het eerste wat elke bezoeker van Nakhon Ratchasima tegenkomt is het standbeeld van Thao Suranaree - Ya Mo, zoals de locals haar noemen - vastberaden staand bij de stadspoort op Chumphon Road. Deze 19e-eeuwse heldin die de vrouwen van Korat mobiliseerde om een Laotiaanse invasie te verslaan is de ziel van de stad, en locals plaatsen dag en nacht bloemen, wierook en offers aan haar voeten. Ik arriveerde op een vrijdagavond en trof het gebied rond het monument getransformeerd aan tot een spontaan festival: verkopers die geroosterd varkensvlees, som tum en muay Thai-souvenirs verkochten, families die voor foto's poseerden, en een groep studenten die een traditionele Isaan-dans uitvoerden. Dit was mijn kennismaking met Korat - de grootste stad van Noordoost-Thailand en de plek waar de centrale vlakten de Khorat Plateau ontmoeten, waar de Thaise cultuur begint te veranderen in iets dat uitgesproken Isaan is.\n\nKhao Yai National Park is het pronkstuk van elk bezoek aan Nakhon Ratchasima, en ik zou beweren dat het een van de mooiste nationale parken van heel Zuidoost-Azië is. Op slechts 80 kilometer ten zuiden van de stad bestrijkt dit UNESCO-Werelderfgoed 2.168 vierkante kilometer dicht moessonbos, graslanden en bergen die 1.351 meter bereiken. Ik huurde een gids genaamd Khun Surachet via het bezoekerscentrum en bracht twee dagen door met trekken door de jungle, waarbij we wilde olifanten, gibbons, neushoornvogels en een verbazingwekkende verscheidenheid aan orchideeën spotten. Bij de Haew Narok-waterval - een donderende cascade van 150 meter die het meest dramatische gezicht van het park is - zaten we ingepakte lunches van kleefrijst en gegrild varkensvlees te eten terwijl we grote neushoornvogels over de kloof zagen zweven. Op de tweede avond reed Surachet me naar het vleermuisgrot-observatiepunt waar, om precies 17:47 uur, drie miljoen rimpellippige vleermuizen uit een grotingang spiraalden in een kolom zo dicht dat het op weerradar verscheen.\n\nPhimai Historical Park, ongeveer 60 kilometer ten noordoosten van de stad, is een openbaring voor iedereen die geïnteresseerd is in Khmer-geschiedenis. Dit 11e-eeuwse tempelcomplex dateert van vóór Angkor Wat en was ooit het belangrijkste Khmer-heiligdom op de oude weg van Angkor naar het noorden. Het hoofdheiligdom, Prasat Hin Phimai, staat in het midden van een rechthoekig terrein georiënteerd op Angkor in plaats van het oosten (een bewuste verklaring van trouw), en de zandstenen lateien beelden scènes uit de Ramayana af met een fijnheid die wedijvert met alles in Angkor zelf. Ik bezocht het op een rustige woensdagochtend en had het hele complex bijna voor mezelf - een schril contrast met de drukte bij Angkor. Het aangrenzende Phimai Nationaal Museum herbergt een uitstekende collectie Khmer-beeldhouwwerk, waaronder het beroemdste zandstenen beeld van Koning Jayavarman VII dat buiten Cambodja is gevonden.\n\nDe eetcultuur van Korat draait om pad mee Korat - het kenmerkende roergebakken noedelgerecht van de stad dat lokaal net zo geliefd is als pad thai nationaal. In tegenstelling tot het zoet-zure profiel van pad thai, gebruikt pad mee Korat een donkere, hartige sojasaus met dunne rijstnoedels, tofu, ei en taugé. Ik probeerde het op meerdere locaties en de beste was bij een familiestalletje op Chomsurangyat Road bij de oude markt, waar een grootmoeder genaamd Ya Noi het gerecht al 40 jaar maakt. Haar versie had een rokerige, gekarameliseerde kwaliteit van de wok die verslavend was. De nachtmarkt rond het Ya Mo-monument is uitstekend voor goedkoop Isaan-eten - ik was vooral dol op de moo yor (Korat-stijl varkensworst) die fijner van textuur is en subtieler gekruid dan andere regionale versies.\n\nWat Korat aantrekkelijk maakt is de combinatie van bereikbaarheid en authenticiteit. Het is slechts 2,5 uur van Bangkok via de snelweg, maar het voelt als een andere wereld. De oude stadswijk, begrensd door delen van de oude laterietmuur, heeft een bloeiende café- en galeriescène die bedient aan lokale studenten. Op Yommarat Road ontdekte ik een rij omgebouwde winkelpanden die onafhankelijke koffiebranders en vintage boekwinkels zijn geworden die kunnen wedijveren met alles in Chiang Mai. En toch loop je de hoek om en sta je op een traditionele Isaan-markt waar vrouwen zijde weven op houten weefgetouwen en verkopers zoetwatersvisjespasta verkopen uit klei potten. Korat probeert niet iets anders te zijn dan wat het is: een trotse, welvarende Thaise stad die toevallig op het kruispunt ligt van oude Khmer-beschaving, wilde jungle en het uitgestrekte Isaan-hartland.",
-      "overview": "Nakhon Ratchasima, liefkozend Korat genoemd, is de grootste stad in Thailand's Isaan-regio en de essentiële poort naar het noordoosten. Met een bevolking van 460.000 in de stad zelf en bijna 2,6 miljoen in de hele provincie, combineert Korat moderne stedelijke energie met diepe historische betekenis en toegang tot enkele van Thailand's meest buitengewone natuurwonderen. De stad dient als cultureel en economisch knooppunt, waar bezoekers het vereerde Thao Suranaree Monument, de levendige Save One Night Market en gemakkelijke toegang tot het UNESCO-erkende Khao Yai National Park en oude Khmer-tempels tegenkomen.\n\nWat Korat bijzonder maakt is de perfecte positionering als zowel bestemming als uitvalsbasis voor verkenning. De stad zelf bruist van authentiek Thais leven — avondmarkten stromen over met locals die genieten van straatvoedsel en winkelen, tempels sieren het landschap met hun gouden torenspitsen, en cafés variërend van Europese stijl tot bescheiden winkelpandcafés bieden perfecte rustpunten. Voor reizigers die verder willen gaan dan de toeristische circuits van Bangkok, biedt Korat echte culturele onderdompeling gecombineerd met natuurattracties van wereldklasse op een uur rijden.",
-      "thingsToDo": "Het pronkstuk van de regio is Khao Yai National Park, een UNESCO-Werelderfgoed op 60 kilometer afstand en gemakkelijk bereikbaar per auto. Dit ongerepte junglereservaat (entreeprijs: 400 THB/$11) is beroemd om wilde olifantenpopulaties, de spectaculaire 150 meter hoge Haew Narok-waterval met drie niveaus, en het opmerkelijke vleermuisgrotspektakel waar duizenden vleermuizen bij schemering tevoorschijn komen.\n\nBinnen de stad zelf staat het Thao Suranaree Monument als het spirituele hart van Korat — een gratis must-visit herkenningspunt ter ere van de lokale heldin, omringd door de enorme Save One Night Market waar bezoekers authentiek Thais straatvoedsel en lokale sfeer ervaren.\n\nGeschiedenisliefhebbers moeten een bezoek brengen aan Phimai Historical Park (entree: 100 THB/$3), met opmerkelijke pre-Angkor Khmer-tempelruïnes met ingewikkelde Ramayana-stenen reliëfs en kenmerkende zandsteenarchitectuur. Het nabijgelegen Phimai Nationaal Museum (100 THB/$3) herbergt fascinerende artefacten waaronder een Jayavarman VII-beeld en regionale Khmer-sculpturen.\n\nVoor unieke ervaringen bezoek je Wat Ban Rai (de Olifantentempel) met zijn reusachtige olifantvormige structuur versierd met keramische mozaïekkunst, of ervaar je de verwondering van Sai Ngam, een 350 jaar oude reusachtige banyanboom die 1.400 vierkante meter bedekt met een geestenheiligdom.\n\nDecember brengt de Jim Thompson Farm Tour, met prachtige bloemenvelden en traditionele zijdedemonstraties (entree: 200 THB/$6), terwijl Chokchai Farm (300 THB/$9) interactieve boerderijtours en ijsworkshops biedt naast een premium steakhouse dat lokaal gekweekt Wagyu- en Angusrundvlees serveert.",
-      "whereToStay": "Nakhon Ratchasima biedt accommodatiemogelijkheden in alle prijsklassen, met de meeste hotels geconcentreerd in het stadscentrum bij de Save One Night Market en rond het moderne Terminal 21 winkelcentrum. Budgetreizigers kunnen schone guesthouses en eenvoudige hotels vinden vanaf $15-25 per nacht, vaak op loopafstand van het eindeloze eten en vermaak van de nachtmarkt. Het middenklasse segment (3-4 sterren) biedt uitstekende waar voor je geld tussen $40-100 per nacht, met hotels met zwembaden, sportscholen en handige locaties voor het verkennen van zowel de stad als nabijgelegen attracties zoals Khao Yai National Park.\n\nVoor wie meer comfort zoekt, bieden luxe hotels premium voorzieningen terwijl ze opmerkelijk betaalbaar blijven vergeleken met westerse bestemmingen. Veel bezoekers kiezen ervoor om zich in de stad te vestigen en dagtochten te maken naar Khao Yai National Park (1 uur rijden), Phimai Historical Park (1,5 uur), of de cafés verspreid over het Khao Yai-gebied.",
-      "gettingAround": "Nakhon Ratchasima wordt goed bediend door lokale vervoersopties die toegankelijk zijn voor reizigers met elk budget. Tuktuks blijven de meest iconische en betaalbare manier om korte afstanden binnen de stad af te leggen, meestal voor 40-60 THB ($1-2) per rit. Songthaews (gedeelde minibusjes) rijden op vaste routes door de stad en naar nabijgelegen steden zoals Phimai, en bieden nog goedkoper vervoer voor 10-20 THB per rit. Voor flexibiliteit en gemak werkt de Grab-app (motortaxi's en autsdiensten) door heel Korat en naar de omgeving, waarmee toeristen ritten kunnen boeken met transparante prijzen via smartphone.\n\nVoor uitstapjes naar attracties buiten de stad — met name Khao Yai National Park, Phimai Historical Park en de Khao Yai-cafézone — biedt motorverhuur (200-300 THB/$6-9 per dag) of autoverhuur (1.000-2.000 THB/$28-57 per dag) de meeste vrijheid. De meeste hotels kunnen autoverhuur regelen of chauffeursdiensten aanbieden. Songthaews vertrekken ook regelmatig vanuit het stadscentrum naar Phimai (1,5 uur, ongeveer 50-80 THB) en andere provinciale bestemmingen. Fietsen wordt steeds populairder voor het verkennen van het stadscentrum, met fietsverhuur beschikbaar bij veel guesthouses (100-150 THB per dag).",
-      "bestTimeToVisit": "Nakhon Ratchasima heeft een tropisch savanneklimaat typisch voor Thailand's Isaan-regio. Het ideale bezoekseizoen is november tot en met februari wanneer temperaturen variëren van 15-28°C, de luchtvochtigheid lager is en regenval minimaal. December en januari zijn piekmaanden met het aangenaamste weer — koele ochtenden en avonden, zonnige dagen perfect voor een bezoek aan Khao Yai National Park en het verkennen van historische plekken zonder het ongemak van intense hitte.\n\nVermijd september en oktober wanneer de zuidwestmoesson zware regenval brengt die jungle-activiteiten zoals wildlife spotten en watervalbezoeken minder aangenaam maakt. Maart tot en met mei brengt pre-moessonhitte met temperaturen boven 35°C, waardoor buitenactiviteiten overdag oncomfortabel zijn. Echter, deze periode brengt de Jim Thompson Farm Tour in december, waardoor eind november tot begin januari het mooiste moment is om perfect weer te combineren met seizoensgebonden attracties en evenementen.",
-      "safetyTips": "Nakhon Ratchasima is over het algemeen een veilige stad voor toeristen met lage geweldscriminaliteitscijfers. Standaard stedelijke voorzorgsmaatregelen gelden: vermijd het tonen van dure sieraden, camera's of grote hoeveelheden contant geld; gebruik hotelkluizen voor waardevolle spullen; en wees voorzichtig met persoonlijke bezittingen op drukke nachtmarkten waar zakkenrollerij soms voorkomt. De nachtmarktgebieden zijn goed verlicht en druk bezocht door locals en toeristen, waardoor ze 's avonds veilig zijn, hoewel reizigers afgezonderde zijstraten na het donker moeten vermijden.\n\nBij een bezoek aan Khao Yai National Park of bij wandelingen in natuurgebieden, blijf op gemarkeerde paden en respecteer de wildlife — houd veilige afstand tot olifanten en andere dieren, voer ze nooit, en vermijd alleen bezoek aan afgelegen gebieden. Verkeersveiligheid is belangrijk; als je een motorfiets huurt, draag dan een helm (wettelijk verplicht) en rijd defensief aangezien Thaise wegen chaotisch kunnen zijn. Kraanwater drinken is over het algemeen onveilig; blijf bij fleswater dat overal verkrijgbaar is. De gezondheidszorg in de stad is goed met moderne ziekenhuizen beschikbaar, hoewel een reisverzekering wordt aanbevolen. Thai mensen zijn over het algemeen gastvrij en geduldig met toeristen; het leren van basis Thaise zinnen vergroot zowel de veiligheid als het culturele respect.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "La première chose que chaque visiteur de Nakhon Ratchasima rencontre est la statue de Thao Suranaree — Ya Mo, comme les locaux l'appellent — se tenant résolument à la porte de la ville sur Chumphon Road. Cette héroïne du XIXe siècle qui a mobilisé les femmes de Korat pour repousser une invasion laotienne est l'âme de la ville, et les habitants déposent jour et nuit des fleurs, de l'encens et des offrandes à ses pieds. Je suis arrivé un vendredi soir et j'ai trouvé la zone autour du monument transformée en un festival spontané : des vendeurs proposant du porc grillé, du som tum et des souvenirs de muay Thai, des familles posant pour des photos, et un groupe d'étudiants exécutant une danse traditionnelle Isaan. C'était mon introduction à Korat — la plus grande ville du nord-est de la Thaïlande et l'endroit où les plaines centrales rencontrent le plateau de Khorat, où la culture thaïlandaise commence à se transformer en quelque chose de résolument Isaan.\n\nLe parc national de Khao Yai est le joyau de toute visite à Nakhon Ratchasima, et j'irais jusqu'à dire que c'est l'un des plus beaux parcs nationaux de toute l'Asie du Sud-Est. À seulement 80 kilomètres au sud de la ville, ce site du patrimoine mondial de l'UNESCO couvre 2 168 kilomètres carrés de forêt de mousson dense, de prairies et de montagnes culminant à 1 351 mètres. J'ai engagé un guide nommé Khun Surachet au centre d'accueil et j'ai passé deux jours à randonner dans la jungle, repérant des éléphants sauvages, des gibbons, des calaos et une diversité étonnante d'orchidées. À la cascade de Haew Narok — une chute tonitruante de 150 mètres qui est le spectacle le plus dramatique du parc — nous avons mangé des déjeuners emballés de riz gluant et de porc grillé en regardant de grands calaos planer au-dessus du ravin. Le deuxième soir, Surachet m'a conduit au point d'observation de la grotte aux chauves-souris où, à exactement 17h47, trois millions de chauves-souris à lèvres plissées ont spiralé hors d'une entrée de grotte en une colonne si dense qu'elle apparaissait sur les radars météorologiques.\n\nLe parc historique de Phimai, à environ 60 kilomètres au nord-est de la ville, est une révélation pour quiconque s'intéresse à l'histoire khmère. Ce complexe de temples du XIe siècle est antérieur à Angkor Wat et était autrefois le sanctuaire khmer le plus important sur l'ancienne route d'Angkor vers le nord. Le sanctuaire principal, Prasat Hin Phimai, se dresse au centre d'une enceinte rectangulaire orientée vers Angkor plutôt que vers l'est (une déclaration délibérée d'allégeance), et les linteaux en grès représentent des scènes du Ramayana avec une finesse qui rivalise avec tout ce qu'on trouve à Angkor même. Je l'ai visité un mercredi matin tranquille et j'avais le complexe entier pratiquement pour moi seul — un contraste saisissant avec la foule à Angkor. Le musée national de Phimai adjacent abrite une excellente collection de sculptures khmères, dont la plus célèbre statue en grès du roi Jayavarman VII trouvée en dehors du Cambodge.\n\nLa culture culinaire de Korat tourne autour du pad mee Korat — le plat de nouilles sautées emblématique de la ville qui est localement aussi apprécié que le pad thai l'est nationalement. Contrairement au profil aigre-doux du pad thai, le pad mee Korat utilise une sauce soja foncée et savoureuse avec des nouilles de riz fines, du tofu, des œufs et des germes de soja. Je l'ai essayé à plusieurs endroits et le meilleur était un étal familial sur Chomsurangyat Road près du vieux marché, où une grand-mère nommée Ya Noi prépare ce plat depuis 40 ans. Sa version avait une qualité fumée et caramélisée du wok qui était addictive. Le marché de nuit autour du monument Ya Mo est excellent pour la cuisine Isaan bon marché — j'ai particulièrement apprécié le moo yor (saucisse de porc style Korat) qui est plus fine en texture et plus subtilement épicée que les autres versions régionales.\n\nCe qui rend Korat attrayant, c'est la combinaison d'accessibilité et d'authenticité. C'est à seulement 2,5 heures de Bangkok par l'autoroute, mais on se sent dans un autre monde. Le vieux quartier de la ville, délimité par des portions de l'ancien mur de latérite, abrite une scène florissante de cafés et de galeries qui dessert les étudiants locaux. Sur Yommarat Road, j'ai découvert une rangée de boutiques reconverties devenues des torréfacteurs de café indépendants et des librairies vintage qui rivalisent avec tout ce qu'on trouve à Chiang Mai. Et pourtant, vous tournez le coin et vous vous retrouvez sur un marché Isaan traditionnel où des femmes tissent de la soie sur des métiers en bois et des vendeurs vendent de la pâte de poisson d'eau douce dans des pots en argile. Korat n'essaie pas d'être autre chose que ce qu'elle est : une ville thaïlandaise fière et prospère qui se trouve au carrefour de l'ancienne civilisation khmère, de la jungle sauvage et du vaste cœur de l'Isaan.",
-      "overview": "Nakhon Ratchasima, affectueusement surnommée Korat, est la plus grande ville de la région Isaan de Thaïlande et la porte d'entrée essentielle vers le nord-est. Avec une population de 460 000 habitants dans la ville même et près de 2,6 millions dans toute la province, Korat combine une énergie urbaine moderne avec une profonde signification historique et un accès à certaines des merveilles naturelles les plus extraordinaires de Thaïlande. La ville sert de carrefour culturel et économique, où les visiteurs découvrent le vénéré monument de Thao Suranaree, l'animé Save One Night Market et un accès facile au parc national de Khao Yai, classé au patrimoine mondial de l'UNESCO, ainsi qu'aux anciens temples khmers.\n\nCe qui rend Korat particulier, c'est son positionnement parfait à la fois comme destination et comme base d'exploration. La ville elle-même bouillonne de vie thaïlandaise authentique — les marchés de nuit regorgent de locaux savourant la cuisine de rue et faisant du shopping, les temples ornent le paysage de leurs flèches dorées, et les cafés allant du style européen aux modestes échoppes offrent des haltes parfaites. Pour les voyageurs souhaitant aller au-delà des circuits touristiques de Bangkok, Korat offre une véritable immersion culturelle combinée à des attractions naturelles de classe mondiale à une heure de route.",
-      "thingsToDo": "Le joyau de la région est le parc national de Khao Yai, site du patrimoine mondial de l'UNESCO situé à 60 kilomètres et facilement accessible en voiture. Cette réserve de jungle préservée (entrée : 400 THB/11 $) est célèbre pour ses populations d'éléphants sauvages, la spectaculaire cascade Haew Narok de 150 mètres sur trois niveaux, et le remarquable spectacle de la grotte aux chauves-souris où des milliers de chauves-souris émergent au crépuscule.\n\nDans la ville même, le monument de Thao Suranaree est le cœur spirituel de Korat — un point de repère incontournable et gratuit honorant l'héroïne locale, entouré de l'immense Save One Night Market où les visiteurs découvrent la cuisine de rue thaïlandaise authentique et l'ambiance locale.\n\nLes passionnés d'histoire doivent visiter le parc historique de Phimai (entrée : 100 THB/3 $), avec ses remarquables ruines de temples khmers pré-angkoriens ornées de reliefs en pierre élaborés du Ramayana et d'une architecture caractéristique en grès. Le musée national de Phimai voisin (100 THB/3 $) abrite des artefacts fascinants dont une statue de Jayavarman VII et des sculptures khmères régionales.\n\nPour des expériences uniques, visitez le Wat Ban Rai (le temple de l'Éléphant) avec son énorme structure en forme d'éléphant décorée d'art en mosaïque de céramique, ou émerveillez-vous devant Sai Ngam, un banian géant de 350 ans couvrant 1 400 mètres carrés avec un sanctuaire des esprits.\n\nDécembre apporte la Jim Thompson Farm Tour, avec de magnifiques champs de fleurs et des démonstrations traditionnelles de tissage de soie (entrée : 200 THB/6 $), tandis que Chokchai Farm (300 THB/9 $) propose des visites interactives de la ferme et des ateliers de fabrication de glaces ainsi qu'un steakhouse premium servant du bœuf Wagyu et Angus élevé localement.",
-      "whereToStay": "Nakhon Ratchasima offre des options d'hébergement pour tous les budgets, la plupart des hôtels étant concentrés dans le centre-ville près du Save One Night Market et autour du moderne centre commercial Terminal 21. Les voyageurs à petit budget peuvent trouver des guesthouses propres et des hôtels simples à partir de 15-25 $ par nuit, souvent à distance de marche de la nourriture et des divertissements sans fin du marché de nuit. Le segment milieu de gamme (3-4 étoiles) offre un excellent rapport qualité-prix entre 40-100 $ par nuit, avec des hôtels disposant de piscines, salles de sport et emplacements pratiques pour explorer la ville et les attractions voisines comme le parc national de Khao Yai.\n\nPour ceux qui recherchent plus de confort, les hôtels de luxe offrent des prestations premium tout en restant remarquablement abordables par rapport aux destinations occidentales. Beaucoup de visiteurs choisissent de s'installer en ville et de faire des excursions d'une journée vers le parc national de Khao Yai (1 heure de route), le parc historique de Phimai (1,5 heure), ou les cafés disséminés dans la zone de Khao Yai.",
-      "gettingAround": "Nakhon Ratchasima est bien desservie par des options de transport local accessibles aux voyageurs de tous budgets. Les tuk-tuks restent le moyen le plus emblématique et abordable de parcourir de courtes distances en ville, généralement pour 40-60 THB (1-2 $) par trajet. Les songthaews (minibus partagés) circulent sur des itinéraires fixes à travers la ville et vers les villes voisines comme Phimai, offrant un transport encore moins cher pour 10-20 THB par trajet. Pour la flexibilité et la commodité, l'application Grab (moto-taxis et services de voiture) fonctionne dans tout Korat et ses environs, permettant aux touristes de réserver des trajets avec des tarifs transparents via smartphone.\n\nPour les excursions vers les attractions en dehors de la ville — notamment le parc national de Khao Yai, le parc historique de Phimai et la zone des cafés de Khao Yai — la location de moto (200-300 THB/6-9 $ par jour) ou de voiture (1 000-2 000 THB/28-57 $ par jour) offre le plus de liberté. La plupart des hôtels peuvent organiser la location de voiture ou proposer des services de chauffeur. Les songthaews partent aussi régulièrement du centre-ville vers Phimai (1,5 heure, environ 50-80 THB) et d'autres destinations provinciales. Le vélo devient de plus en plus populaire pour explorer le centre-ville, avec des locations de vélo disponibles dans de nombreuses guesthouses (100-150 THB par jour).",
-      "bestTimeToVisit": "Nakhon Ratchasima a un climat de savane tropicale typique de la région Isaan de Thaïlande. La saison idéale de visite est de novembre à février, lorsque les températures varient de 15 à 28°C, l'humidité est plus basse et les précipitations minimales. Décembre et janvier sont les mois de pointe avec le temps le plus agréable — des matinées et soirées fraîches, des journées ensoleillées parfaites pour visiter le parc national de Khao Yai et explorer les sites historiques sans l'inconfort de la chaleur intense.\n\nÉvitez septembre et octobre lorsque la mousson du sud-ouest apporte de fortes pluies qui rendent les activités en jungle comme l'observation de la faune et les visites de cascades moins agréables. De mars à mai, la chaleur pré-mousson fait monter les températures au-dessus de 35°C, rendant les activités de plein air en journée inconfortables. Cependant, cette période inclut la Jim Thompson Farm Tour en décembre, faisant de fin novembre à début janvier le moment idéal pour combiner un temps parfait avec des attractions et événements saisonniers.",
-      "safetyTips": "Nakhon Ratchasima est généralement une ville sûre pour les touristes avec de faibles taux de criminalité violente. Les précautions urbaines standard s'appliquent : évitez d'exhiber des bijoux coûteux, des appareils photo ou de grandes sommes d'argent liquide ; utilisez les coffres-forts de l'hôtel pour les objets de valeur ; et soyez vigilant avec vos effets personnels sur les marchés de nuit animés où le vol à la tire peut parfois survenir. Les zones de marché de nuit sont bien éclairées et fréquentées par des locaux et des touristes, les rendant sûres le soir, bien que les voyageurs doivent éviter les ruelles isolées après la tombée de la nuit.\n\nLors de la visite du parc national de Khao Yai ou de randonnées dans les zones naturelles, restez sur les sentiers balisés et respectez la faune — gardez une distance de sécurité avec les éléphants et autres animaux, ne les nourrissez jamais, et évitez de visiter seul les zones reculées. La sécurité routière est importante ; si vous louez une moto, portez un casque (obligatoire par la loi) et conduisez défensivement car les routes thaïlandaises peuvent être chaotiques. L'eau du robinet n'est généralement pas potable ; restez à l'eau en bouteille disponible partout. Les soins de santé en ville sont bons avec des hôpitaux modernes disponibles, bien qu'une assurance voyage soit recommandée. Les Thaïlandais sont généralement accueillants et patients avec les touristes ; apprendre des phrases de base en thaï renforce à la fois la sécurité et le respect culturel.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Das Erste, dem jeder Besucher von Nakhon Ratchasima begegnet, ist die Statue von Thao Suranaree — Ya Mo, wie die Einheimischen sie nennen —, die trotzig am Stadttor an der Chumphon Road steht. Diese Heldin des 19. Jahrhunderts, die die Frauen von Korat mobilisierte, um eine laotische Invasion abzuwehren, ist die Seele der Stadt, und Einheimische legen rund um die Uhr Blumen, Räucherstäbchen und Opfergaben zu ihren Füßen nieder. Ich kam an einem Freitagabend an und fand das Gebiet rund um das Denkmal in ein spontanes Fest verwandelt: Händler, die gebratenes Schweinefleisch, Som Tum und Muay-Thai-Souvenirs verkauften, Familien, die für Fotos posierten, und eine Gruppe Studenten, die einen traditionellen Isaan-Tanz aufführten. Das war meine Einführung in Korat — Thailands größte nordöstliche Stadt und der Ort, an dem die zentralen Ebenen auf das Khorat-Plateau treffen, wo sich die thailändische Kultur in etwas deutlich Isaan-Typisches zu verwandeln beginnt.\n\nDer Khao Yai Nationalpark ist das Kronjuwel jedes Besuchs in Nakhon Ratchasima, und ich würde behaupten, er ist einer der schönsten Nationalparks ganz Südostasiens. Nur 80 Kilometer südlich der Stadt erstreckt sich dieses UNESCO-Welterbe über 2.168 Quadratkilometer dichten Monsunwald, Grasland und Berge bis 1.351 Meter Höhe. Ich engagierte einen Führer namens Khun Surachet über das Besucherzentrum und verbrachte zwei Tage beim Trekking durch den Dschungel, wobei wir wilde Elefanten, Gibbons, Nashornvögel und eine erstaunliche Vielfalt an Orchideen entdeckten. Am Haew Narok Wasserfall — einer donnernden 150-Meter-Kaskade, die der dramatischste Anblick des Parks ist — saßen wir und aßen Lunchpakete aus Klebreis und gegrilltem Schweinefleisch, während wir große Nashornvögel über die Schlucht gleiten sahen. Am zweiten Abend fuhr Surachet mich zum Beobachtungspunkt der Fledermaushöhle, wo um genau 17:47 Uhr drei Millionen Runzellippen-Fledermäuse aus einem Höhleneingang spiralten in einer Säule so dicht, dass sie auf dem Wetterradar erschien.\n\nDer Phimai Historical Park, etwa 60 Kilometer nordöstlich der Stadt, ist eine Offenbarung für jeden, der sich für Khmer-Geschichte interessiert. Dieser Tempelkomplex aus dem 11. Jahrhundert ist älter als Angkor Wat und war einst das wichtigste Khmer-Heiligtum auf der alten Straße von Angkor nach Norden. Das Hauptheiligtum, Prasat Hin Phimai, steht im Zentrum einer rechteckigen Anlage, die auf Angkor statt nach Osten ausgerichtet ist (eine bewusste Erklärung der Loyalität), und seine Sandsteinstürze zeigen Szenen aus dem Ramayana mit einer Feinheit, die mit allem in Angkor selbst mithalten kann. Ich besuchte ihn an einem ruhigen Mittwochmorgen und hatte den gesamten Komplex fast für mich allein — ein krasser Gegensatz zu den Menschenmassen in Angkor. Das angrenzende Phimai-Nationalmuseum beherbergt eine herausragende Sammlung von Khmer-Skulpturen, darunter die berühmteste Sandsteinstatue von König Jayavarman VII., die außerhalb Kambodschas gefunden wurde.\n\nKorats Essensszene dreht sich um Pad Mee Korat — das Signaturgerecht der Stadt aus gebratenen Nudeln, das vor Ort genauso beliebt ist wie Pad Thai landesweit. Anders als Pad Thais süß-saures Profil verwendet Pad Mee Korat eine dunkle, herzhafte Sojasauce mit dünnen Reisnudeln, Tofu, Ei und Sojasprossen. Ich probierte es an mehreren Orten, und das beste war an einem Familienstand an der Chomsurangyat Road nahe dem alten Markt, wo eine Großmutter namens Ya Noi das Gericht seit 40 Jahren zubereitet. Ihre Version hatte eine rauchige, karamellisierte Qualität aus dem Wok, die süchtig machte. Der Nachtmarkt rund um das Ya-Mo-Denkmal ist ausgezeichnet für günstiges Isaan-Essen — besonders begeistert hat mich Moo Yor (Korat-Art Schweinewurst), die feiner in der Textur und subtiler gewürzt ist als andere regionale Versionen.\n\nWas Korat fesselnd macht, ist die Kombination aus Erreichbarkeit und Authentizität. Es ist nur 2,5 Stunden von Bangkok über die Schnellstraße entfernt, fühlt sich aber wie eine andere Welt an. Das alte Stadtviertel, begrenzt von Abschnitten der alten Lateritmauer, hat eine blühende Café- und Galerieszene, die lokale Universitätsstudenten bedient. An der Yommarat Road entdeckte ich eine Reihe umgebauter Ladenhäuser, die zu unabhängigen Kaffeeröstereien und Vintage-Buchhandlungen geworden sind und mit allem in Chiang Mai mithalten können. Und doch geht man um die Ecke und steht auf einem traditionellen Isaan-Markt, wo Frauen Seide auf Holzwebstühlen weben und Händler Süßwasserfischpaste aus Tontöpfen verkaufen. Korat versucht nicht, etwas anderes zu sein als das, was es ist: eine stolze, wohlhabende thailändische Stadt, die zufällig am Kreuzungspunkt alter Khmer-Zivilisation, wilder Dschungel und des weiten Isaan-Herzlandes liegt.",
-      "overview": "Nakhon Ratchasima, liebevoll Korat genannt, ist die größte Stadt in Thailands Isaan-Region und das wesentliche Tor zum Nordosten. Mit 460.000 Einwohnern in der Stadt selbst und fast 2,6 Millionen in der gesamten Provinz verbindet Korat moderne urbane Energie mit tiefer historischer Bedeutung und Zugang zu einigen der außergewöhnlichsten Naturwunder Thailands. Die Stadt dient als kulturelles und wirtschaftliches Zentrum, wo Besucher auf das verehrte Thao Suranaree-Denkmal, den lebhaften Save One Night Market und einfachen Zugang zum UNESCO-gelisteten Khao Yai Nationalpark und alten Khmer-Tempeln treffen.\n\nWas Korat besonders macht, ist seine perfekte Positionierung sowohl als Reiseziel als auch als Basis für Erkundungen. Die Stadt selbst pulsiert mit authentischem thailändischem Leben — Abendmärkte quellen über mit Einheimischen, die Straßenessen und Einkaufen genießen, Tempel schmücken die Landschaft mit ihren goldenen Turmspitzen, und Cafés von europäischem Stil bis zu bescheidenen Ladenhauscafés bieten perfekte Rückzugsorte. Für Reisende, die über Bangkoks Touristenrouten hinausgehen möchten, bietet Korat echtes kulturelles Eintauchen kombiniert mit erstklassigen Naturattraktionen innerhalb einer Autostunde.",
-      "thingsToDo": "Das Kronjuwel der Region ist der Khao Yai Nationalpark, ein UNESCO-Welterbe 60 Kilometer entfernt und leicht per Auto erreichbar. Dieses unberührte Dschungelreservat (Eintritt: 400 THB/11 $) ist berühmt für wilde Elefantenpopulationen, den spektakulären 150 Meter hohen Haew Narok Wasserfall mit drei Stufen und das bemerkenswerte Fledermaushöhlen-Spektakel, bei dem Tausende Fledermäuse in der Abenddämmerung hervorströmen.\n\nInnerhalb der Stadt selbst steht das Thao Suranaree-Denkmal als das spirituelle Herz Korats — ein kostenloses Must-See-Wahrzeichen zu Ehren der lokalen Heldin, umgeben vom riesigen Save One Night Market, wo Besucher authentisches thailändisches Straßenessen und lokale Atmosphäre erleben.\n\nGeschichtsbegeisterte sollten den Phimai Historical Park besuchen (Eintritt: 100 THB/3 $), mit bemerkenswerten prä-angkorianischen Khmer-Tempelruinen mit kunstvollen Ramayana-Steinreliefs und charakteristischer Sandsteinarchitektur. Das nahegelegene Phimai-Nationalmuseum (100 THB/3 $) beherbergt faszinierende Artefakte einschließlich einer Jayavarman VII.-Statue und regionaler Khmer-Skulpturen.\n\nFür einzigartige Erlebnisse besuchen Sie Wat Ban Rai (den Elefantentempel) mit seiner riesigen elefantenförmigen Struktur, geschmückt mit Keramikmosaikkunst, oder erleben Sie das Staunen über Sai Ngam, einen 350 Jahre alten Riesenbanyanbaum, der 1.400 Quadratmeter mit einem Geisterschrein bedeckt.\n\nIm Dezember lockt die Jim Thompson Farm Tour mit schönen Blumenfeldern und traditionellen Seidenvorführungen (Eintritt: 200 THB/6 $), während die Chokchai Farm (300 THB/9 $) interaktive Farmtouren und Eiscreme-Workshops neben einem Premium-Steakhouse mit lokal gezüchtetem Wagyu- und Angusrind bietet.",
-      "whereToStay": "Nakhon Ratchasima bietet Unterkünfte in allen Preisklassen, wobei die meisten Hotels im Stadtzentrum nahe dem Save One Night Market und rund um das moderne Terminal 21 Einkaufszentrum konzentriert sind. Budget-Reisende finden saubere Gästehäuser und einfache Hotels ab 15-25 $ pro Nacht, oft in Gehweite des endlosen Essens- und Unterhaltungsangebots des Nachtmarkts. Das Mittelklasse-Segment (3-4 Sterne) bietet ausgezeichnetes Preis-Leistungs-Verhältnis zwischen 40-100 $ pro Nacht, mit Hotels mit Swimmingpools, Fitnessstudios und praktischen Lagen zum Erkunden sowohl der Stadt als auch nahegelegener Attraktionen wie dem Khao Yai Nationalpark.\n\nFür mehr Komfort bieten gehobene Hotels Premium-Annehmlichkeiten, die im Vergleich zu westlichen Reisezielen bemerkenswert erschwinglich bleiben. Viele Besucher entscheiden sich, in der Stadt zu übernachten und Tagesausflüge zum Khao Yai Nationalpark (1 Stunde Fahrt), zum Phimai Historical Park (1,5 Stunden) oder zu den über das Khao Yai-Gebiet verteilten Cafés zu unternehmen.",
-      "gettingAround": "Nakhon Ratchasima ist mit lokalen Transportmöglichkeiten gut versorgt, die für Reisende aller Budgets zugänglich sind. Tuk-Tuks bleiben die ikonischste und günstigste Art, kurze Strecken innerhalb der Stadt zurückzulegen, typischerweise für 40-60 THB (1-2 $) pro Fahrt. Songthaews (geteilte Kleinbusse) verkehren auf festen Routen durch die Stadt und zu nahen Städten wie Phimai und bieten noch günstigeren Transport für 10-20 THB pro Fahrt. Für Flexibilität und Bequemlichkeit funktioniert die Grab-App (Motorradtaxis und Fahrdienste) in ganz Korat und Umgebung, sodass Touristen Fahrten mit transparenten Preisen per Smartphone buchen können.\n\nFür Ausflüge zu Attraktionen außerhalb der Stadt — insbesondere Khao Yai Nationalpark, Phimai Historical Park und die Khao Yai-Cafézone — bietet Motorradverleih (200-300 THB/6-9 $ pro Tag) oder Autoverleih (1.000-2.000 THB/28-57 $ pro Tag) die meiste Freiheit. Die meisten Hotels können Autovermietung arrangieren oder Fahrdienste anbieten. Songthaews fahren auch regelmäßig vom Stadtzentrum nach Phimai (1,5 Stunden, etwa 50-80 THB) und zu anderen Provinzzielen. Radfahren wird für die Erkundung der Innenstadt immer beliebter, mit Fahrradverleih in vielen Gästehäusern (100-150 THB pro Tag).",
-      "bestTimeToVisit": "Nakhon Ratchasima hat ein tropisches Savannenklima, typisch für Thailands Isaan-Region. Die ideale Besuchszeit ist November bis Februar, wenn die Temperaturen zwischen 15-28°C liegen, die Luftfeuchtigkeit niedriger ist und Niederschläge minimal sind. Dezember und Januar sind die Spitzenmonate mit dem angenehmsten Wetter — kühle Morgen und Abende, sonnige Tage perfekt für den Besuch des Khao Yai Nationalparks und die Erkundung historischer Stätten ohne die Unannehmlichkeit intensiver Hitze.\n\nMeiden Sie September und Oktober, wenn der Südwestmonsun starke Regenfälle bringt, die Dschungelaktivitäten wie Wildtierbeobachtung und Wasserfallbesuche weniger angenehm machen. März bis Mai bringt Vor-Monsun-Hitze mit Temperaturen über 35°C, was Outdoor-Aktivitäten tagsüber unangenehm macht. Allerdings fällt in diese Zeit die Jim Thompson Farm Tour im Dezember, sodass Ende November bis Anfang Januar der ideale Zeitpunkt ist, um perfektes Wetter mit saisonalen Attraktionen und Veranstaltungen zu verbinden.",
-      "safetyTips": "Nakhon Ratchasima ist im Allgemeinen eine sichere Stadt für Touristen mit niedrigen Gewaltkriminalitätsraten. Standard-Stadtvorsichtsmaßnahmen gelten: Vermeiden Sie das Zeigen von teurem Schmuck, Kameras oder großen Bargeldmengen; nutzen Sie Hotelsafes für Wertsachen; und seien Sie vorsichtig mit persönlichen Gegenständen auf belebten Nachtmärkten, wo Taschendiebstahl gelegentlich vorkommt. Die Nachtmarktbereiche sind gut beleuchtet und stark von Einheimischen und Touristen frequentiert, was sie abends sicher macht, obwohl Reisende isolierte Seitenstraßen nach Einbruch der Dunkelheit meiden sollten.\n\nBeim Besuch des Khao Yai Nationalparks oder beim Wandern in Naturgebieten bleiben Sie auf markierten Wegen und respektieren Sie die Tierwelt — halten Sie sichere Abstände zu Elefanten und anderen Tieren, füttern Sie sie nie und meiden Sie Solo-Besuche in abgelegenen Gebieten. Verkehrssicherheit ist wichtig; wenn Sie Motorräder mieten, tragen Sie Helme (gesetzlich vorgeschrieben) und fahren Sie defensiv, da thailändische Straßen chaotisch sein können. Leitungswasser trinken ist generell unsicher; bleiben Sie bei Flaschenwasser, das überall erhältlich ist. Die Gesundheitsversorgung in der Stadt ist gut mit modernen Krankenhäusern, obwohl eine Reiseversicherung empfohlen wird. Thailänder sind generell gastfreundlich und geduldig mit Touristen; das Erlernen grundlegender Thai-Phrasen erhöht sowohl die Sicherheit als auch den kulturellen Respekt.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "每位来到呵叻（Nakhon Ratchasima）的游客首先遇到的，是巍然矗立在Chumphon路城门旁的Thao Suranaree雕像——当地人亲切地称她Ya Mo。这位19世纪的女英雄动员呵叻的妇女击退了老挝入侵，是这座城市的灵魂，居民们日夜在她脚下摆放鲜花、焚香和供品。我在一个周五傍晚抵达，发现纪念碑周围已经变成了一场自发的节日：摊贩售卖烤猪肉、青木瓜沙拉和泰拳纪念品，家庭在拍照留念，一群学生正在表演传统伊桑舞蹈。这是我对呵叻的第一印象——泰国东北部最大的城市，中部平原与呵叻高原交汇之处，泰国文化在这里开始转变为明显的伊桑风格。\n\n考艾国家公园（Khao Yai National Park）是呵叻之行的皇冠明珠，我认为它是整个东南亚最美的国家公园之一。这处联合国教科文组织世界遗产地距市区仅80公里，涵盖2,168平方公里的茂密季风林、草原和海拔高达1,351米的山脉。我通过游客中心聘请了一位名叫Khun Surachet的向导，花了两天徒步穿越丛林，看到了野象、长臂猿、犀鸟和种类繁多的兰花。在Haew Narok瀑布——一道150米高的雷鸣般瀑布，堪称公园最壮观的景观——我们坐着吃糯米饭和烤猪肉便当，看大犀鸟在峡谷上空滑翔。第二天傍晚，Surachet开车带我去蝙蝠洞观景台，在下午5:47分整，三百万只褶唇蝠从洞口旋转飞出，形成一道如此密集的柱状队列，甚至出现在了气象雷达上。\n\n披迈历史公园（Phimai Historical Park）位于城市东北约60公里处，对任何对高棉历史感兴趣的人来说都是一次启示。这座11世纪的寺庙建筑群比吴哥窟还要古老，曾是从吴哥通往北方的古道上最重要的高棉圣殿。主殿Prasat Hin Phimai矗立在一个面朝吴哥而非东方的矩形庭院中央（这是一种刻意的效忠宣示），砂岩门楣上雕刻着罗摩衍那的场景，其精美程度可与吴哥本身的任何作品媲美。我在一个安静的周三上午参观，几乎独享了整个建筑群——与吴哥的人山人海形成了鲜明的对比。毗邻的披迈国家博物馆收藏了出色的高棉雕塑，包括在柬埔寨境外发现的最著名的阇耶跋摩七世砂岩雕像。\n\n呵叻的美食文化围绕pad mee Korat展开——这是本城招牌炒面，在当地的受欢迎程度堪比泰式炒粉在全国的地位。与泰式炒粉的酸甜口味不同，pad mee Korat使用深色咸味酱油搭配细米粉、豆腐、鸡蛋和豆芽。我在多处品尝过，最好吃的是Chomsurangyat路老市场旁的一个家庭摊位，一位叫Ya Noi的奶奶已经做了40年。她的版本有一种锅气十足的烟熏焦糖质感，让人欲罢不能。Ya Mo纪念碑周围的夜市是享用便宜伊桑美食的好去处——我特别喜欢moo yor（呵叻风味猪肉香肠），质地比其他地区版本更细腻，调味也更精妙。\n\n呵叻的迷人之处在于便利性与真实性的完美结合。从曼谷走高速公路只需2.5小时，却仿佛进入了另一个世界。以部分古老红土墙为界的老城区，有一个蓬勃发展的咖啡馆和画廊圈，服务于当地大学生。在Yommarat路上，我发现一排改造过的老店铺已经变成了独立咖啡烘焙坊和复古书店，丝毫不逊于清迈的任何一家。但你转个弯，就来到了一个传统伊桑集市——妇女在木织机上织丝绸，摊贩从陶罐里卖淡水鱼酱。呵叻不试图假装自己是什么——它就是一座骄傲而繁荣的泰国城市，恰好坐落在古老高棉文明、原始丛林和广袤伊桑腹地的十字路口。",
-      "overview": "呵叻（Nakhon Ratchasima），人们亲切地称之为Korat，是泰国伊桑地区最大的城市，也是通往东北部的重要门户。市区人口460,000，全省近260万，呵叻将现代都市活力与深厚的历史底蕴以及泰国最非凡的自然奇观融为一体。这座城市是文化和经济中心，游客在这里可以看到备受崇敬的Thao Suranaree纪念碑、热闹的Save One夜市，以及通往联合国教科文组织世界遗产考艾国家公园和古高棉寺庙的便捷通道。\n\n呵叻的独特之处在于它既是旅游目的地又是探索基地的完美定位。城市本身充满真实的泰国生活气息——夜市上挤满了品尝街头美食和购物的本地人，金色塔尖的寺庙点缀着城市景观，从欧式风格到朴素店铺的各类咖啡馆提供完美的休憩站。对于想要超越曼谷旅游线路的旅行者来说，呵叻提供了真正的文化沉浸体验，加上一小时车程内的世界级自然景观。",
-      "thingsToDo": "该地区的皇冠明珠是考艾国家公园（Khao Yai National Park），这处联合国教科文组织世界遗产距市区60公里，驾车方便到达。这片原始丛林保护区（门票400泰铢/11美元）以野生象群、壮观的150米三级Haew Narok瀑布，以及黄昏时分数千只蝙蝠涌出洞穴的奇观而闻名。\n\n城内，Thao Suranaree纪念碑是呵叻的精神中心——免费参观，纪念本地女英雄的必看地标，周围环绕着巨大的Save One夜市，游客可以在这里体验正宗的泰国街头美食和当地氛围。\n\n历史爱好者应参观披迈历史公园（门票100泰铢/3美元），这里有精美的前吴哥时期高棉寺庙遗址，雕刻着精细的罗摩衍那石刻浮雕和独特的砂岩建筑。旁边的披迈国家博物馆（100泰铢/3美元）收藏有阇耶跋摩七世雕像和地区高棉雕塑等珍贵文物。\n\n独特体验方面，可以参观Wat Ban Rai（大象寺）及其巨大的象形建筑和陶瓷马赛克艺术；或惊叹于Sai Ngam——一棵350年树龄的巨型菩提树覆盖了1,400平方米，树下有一座灵祠。\n\n12月有Jim Thompson农场之旅，欣赏美丽的花田和传统丝绸织造展示（门票200泰铢/6美元）；Chokchai Farm（300泰铢/9美元）提供互动农场游览和冰淇淋制作工作坊，还有一家供应本地饲养的和牛和安格斯牛排的高级牛排馆。",
-      "whereToStay": "呵叻提供各价位的住宿选择，大部分酒店集中在市中心Save One夜市和现代化的Terminal 21购物中心附近。预算旅行者可以找到干净的客栈和简单酒店，每晚15-25美元起，通常步行即可到达夜市的无尽美食和娱乐。中档（3-4星）酒店性价比极高，每晚40-100美元，配有泳池、健身房和便利位置，方便探索城市和考艾国家公园等周边景点。\n\n追求更高舒适度的游客会发现高端酒店提供优质设施，价格相比西方目的地依然非常实惠。许多游客选择以市区为据点，进行考艾国家公园（1小时车程）、披迈历史公园（1.5小时）或散布在考艾地区的咖啡馆一日游。",
-      "gettingAround": "呵叻拥有完善的本地交通选择，适合各种预算的旅行者。突突车是市内短途出行最具标志性和最实惠的方式，通常每程40-60泰铢（1-2美元）。双条车（共享小巴）按固定路线在城内及前往披迈等附近城镇运行，更加经济，每程10-20泰铢。Grab应用（摩托出租和叫车服务）覆盖整个呵叻及周边地区，游客可通过手机以透明价格叫车，灵活方便。\n\n前往城外景点——尤其是考艾国家公园、披迈历史公园和考艾咖啡区——租摩托车（200-300泰铢/6-9美元/天）或租车（1,000-2,000泰铢/28-57美元/天）最为自由。大部分酒店可代为安排租车或提供司机服务。双条车也定期从市中心发车前往披迈（1.5小时，约50-80泰铢）和其他省内目的地。骑自行车探索市中心越来越受欢迎，许多客栈提供自行车出租（100-150泰铢/天）。",
-      "bestTimeToVisit": "呵叻属热带稀树草原气候，是泰国伊桑地区的典型天气。最佳旅游时间为11月至2月，气温在15-28°C之间，湿度较低，降雨量最少。12月和1月是旺季，天气最宜人——早晚凉爽，白天晴朗，非常适合游览考艾国家公园和探索历史古迹，免受酷热之苦。\n\n应避开9月和10月，西南季风带来强降雨，使丛林活动如野生动物观察和瀑布参观变得不太舒适。3月至5月为季风前的炎热期，气温超过35°C，白天户外活动较为不适。不过，12月有Jim Thompson农场之旅，因此11月底至1月初是将完美天气与季节性景点和活动相结合的最佳时机。",
-      "safetyTips": "呵叻总体上对游客来说是一座安全的城市，暴力犯罪率较低。标准的城市安全注意事项适用：避免炫耀昂贵珠宝、相机或大量现金；使用酒店保险箱存放贵重物品；在繁忙的夜市注意随身物品，偶尔会有扒窃发生。夜市区域灯火通明，本地人和游客众多，晚间安全，但旅行者应避免天黑后走偏僻的小巷。\n\n参观考艾国家公园或在自然区域徒步时，请走标记好的步道并尊重野生动物——与大象和其他动物保持安全距离，绝不喂食，避免独自前往偏远地区。交通安全很重要；如果租摩托车，请佩戴头盔（法律要求）并谨慎驾驶，因为泰国的道路可能比较混乱。自来水一般不宜直接饮用，请喝随处可买到的瓶装水。城内医疗条件良好，有现代化医院，但建议购买旅行保险。泰国人通常对游客热情友好且有耐心；学几句基本的泰语既能提高安全性，也是对当地文化的尊重。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "Первое, что встречает каждого посетителя Накхонратчасимы — это статуя Тхао Суранари, или Я Мо, как называют её местные жители, гордо стоящая у городских ворот на улице Чумпхон. Эта героиня XIX века, поднявшая женщин Кората на борьбу с лаосским вторжением, является душой города, и местные жители круглосуточно возлагают к её ногам цветы, благовония и подношения. Я приехал в пятницу вечером и обнаружил, что территория вокруг монумента превратилась в стихийный праздник: торговцы продавали жареную свинину, сом тум и сувениры на тему муай-тай, семьи позировали для фотографий, а группа студентов исполняла традиционный исанский танец. Таким было моё знакомство с Коратом — крупнейшим городом северо-востока Таиланда, где центральные равнины встречаются с плато Корат и тайская культура начинает преображаться во что-то отчётливо исанское.\n\nНациональный парк Кхао Яй — жемчужина любого визита в Накхонратчасиму, и я бы назвал его одним из лучших национальных парков во всей Юго-Восточной Азии. Всего в 80 километрах к югу от города этот объект Всемирного наследия ЮНЕСКО охватывает 2 168 квадратных километров густого муссонного леса, лугов и гор высотой до 1 351 метра. Я нанял гида по имени Кхун Сурачет через визит-центр парка и провёл два дня в треккинге по джунглям, наблюдая диких слонов, гиббонов, птиц-носорогов и поразительное разнообразие орхидей. У водопада Хэо Нарок — громоподобного 150-метрового каскада, самого впечатляющего зрелища парка — мы сидели с ланч-боксами из клейкого риса и жареной свинины, наблюдая, как большие птицы-носороги парят над каньоном. На второй вечер Сурачет отвёз меня к смотровой площадке Пещеры летучих мышей, где ровно в 17:47 три миллиона складчатогубых летучих мышей вылетели из пещеры столь плотной колонной, что она отразилась на метеорадаре.\n\nИсторический парк Пхимай, примерно в 60 километрах к северо-востоку от города — настоящее откровение для всех, кто интересуется кхмерской историей. Этот храмовый комплекс XI века старше Ангкор-Вата и когда-то был важнейшим кхмерским святилищем на древней дороге из Ангкора на север. Главное святилище, Прасат Хин Пхимай, стоит в центре прямоугольного комплекса, ориентированного на Ангкор, а не на восток (сознательное выражение верности), а его песчаниковые перемычки изображают сцены из Рамаяны с изысканностью, не уступающей самому Ангкору. Я приехал тихим средним утром и имел весь комплекс почти в полном распоряжении — разительный контраст с толпами Ангкора. Соседний Национальный музей Пхимай хранит выдающуюся коллекцию кхмерской скульптуры, включая самую знаменитую песчаниковую статую короля Джаявармана VII, найденную за пределами Камбоджи.\n\nГастрономическая жизнь Кората вращается вокруг пад ми Корат — фирменного блюда города из жареной лапши, которое здесь любят так же, как пад тай по всей стране. В отличие от кисло-сладкого профиля пад тай, пад ми Корат использует тёмный, насыщенный соевый соус с тонкой рисовой лапшой, тофу, яйцом и ростками бобов. Я попробовал его в нескольких местах, и лучшим оказался семейный лоток на улице Чомсурангьят возле старого рынка, где бабушка по имени Я Ной готовит это блюдо уже 40 лет. Её версия обладала дымной, карамелизированной текстурой от вока, вызывающей привыкание. Ночной рынок вокруг монумента Я Мо превосходен для дешёвой исанской еды — мне особенно понравился му йор (коратская свиная колбаса), более нежная по текстуре и утончённее приправленная, чем другие региональные версии.\n\nКорат привлекает сочетанием доступности и аутентичности. Он всего в 2,5 часах от Бангкока по скоростной автостраде, но ощущается как другой мир. Старый городской квартал, ограниченный участками древней латеритовой стены, предлагает процветающую сцену кафе и галерей для местных студентов. На улице Йоммарат я обнаружил ряд переоборудованных шопхаусов, ставших независимыми кофейными обжарочными и винтажными книжными магазинами, способными соперничать с чем угодно в Чиангмае. И всё же за углом — традиционный исанский рынок, где женщины ткут шёлк на деревянных станках, а торговцы продают пасту из пресноводной рыбы из глиняных горшков. Корат не пытается быть чем-то иным: это гордый, процветающий тайский город на перекрёстке древней кхмерской цивилизации, диких джунглей и необъятного исанского сердца.",
-      "overview": "Накхонратчасима, ласково называемый Коратом — крупнейший город исанского региона Таиланда и главные ворота на северо-восток. С населением 460 000 человек в самом городе и почти 2,6 миллиона во всей провинции Корат сочетает современную городскую энергию с глубоким историческим значением и доступом к одним из самых выдающихся природных чудес Таиланда. Город служит культурным и экономическим центром, где посетители найдут почитаемый монумент Тхао Суранари, оживлённый ночной рынок Save One и удобный доступ к Национальному парку Кхао Яй (объект ЮНЕСКО) и древним кхмерским храмам.\n\nУникальность Кората — в его идеальном положении как самостоятельного направления и базы для исследований. Сам город пульсирует подлинной тайской жизнью — вечерние рынки переполнены местными жителями, наслаждающимися уличной едой и шопингом, храмы с золотыми шпилями украшают городской пейзаж, а кафе от европейского стиля до скромных шопхаусов предлагают идеальные места для отдыха. Для путешественников, желающих выйти за рамки бангкокских туристических маршрутов, Корат предлагает настоящее культурное погружение в сочетании с природными достопримечательностями мирового класса в часе езды.",
-      "thingsToDo": "Жемчужина региона — Национальный парк Кхао Яй, объект Всемирного наследия ЮНЕСКО в 60 километрах, легко доступный на автомобиле. Этот нетронутый заповедник (вход 400 бат / 11 $) славится популяциями диких слонов, впечатляющим трёхступенчатым 150-метровым водопадом Хэо Нарок и удивительным зрелищем вылета тысяч летучих мышей из пещеры в сумерках.\n\nВ самом городе монумент Тхао Суранари — духовное сердце Кората, бесплатная достопримечательность в честь местной героини, окружённая огромным ночным рынком Save One, где посетители могут насладиться аутентичной тайской уличной едой и местной атмосферой.\n\nЛюбителям истории стоит посетить Исторический парк Пхимай (вход 100 бат / 3 $) с великолепными доангкорскими кхмерскими храмовыми руинами, украшенными изысканными каменными рельефами Рамаяны и характерной песчаниковой архитектурой. Соседний Национальный музей Пхимай (100 бат / 3 $) хранит увлекательные артефакты, включая статую Джаявармана VII и региональные кхмерские скульптуры.\n\nДля уникальных впечатлений посетите Ват Бан Рай (храм Слона) с его огромной слонообразной структурой, украшенной керамической мозаикой, или полюбуйтесь Сай Нгам — 350-летним гигантским баньяном, покрывающим 1 400 квадратных метров с духовным святилищем.\n\nВ декабре ферма Джима Томпсона предлагает экскурсии с прекрасными цветочными полями и традиционными демонстрациями шелкоткачества (вход 200 бат / 6 $), а ферма Чокчай (300 бат / 9 $) — интерактивные фермерские туры и мастер-классы по мороженому рядом с премиальным стейкхаусом с местным вагю и ангусом.",
-      "whereToStay": "Накхонратчасима предлагает размещение на любой бюджет, большинство отелей сосредоточено в центре города возле ночного рынка Save One и современного торгового центра Terminal 21. Бюджетные путешественники найдут чистые гестхаусы и простые отели от 15–25 $ за ночь, часто в шаговой доступности от бесконечного выбора еды и развлечений ночного рынка. Средний сегмент (3–4 звезды) предлагает отличное соотношение цены и качества по 40–100 $ за ночь, с бассейнами, фитнес-залами и удобным расположением для исследования как города, так и близлежащих достопримечательностей вроде Национального парка Кхао Яй.\n\nДля большего комфорта отели высокого класса предоставляют премиальные удобства, которые остаются удивительно доступными по сравнению с западными направлениями. Многие посетители предпочитают останавливаться в городе и совершать однодневные поездки в Национальный парк Кхао Яй (1 час езды), Исторический парк Пхимай (1,5 часа) или в кафе, разбросанные по району Кхао Яй.",
-      "gettingAround": "Накхонратчасима хорошо обеспечена местным транспортом для путешественников любого бюджета. Тук-туки остаются самым колоритным и доступным способом передвижения на короткие расстояния по городу — обычно 40–60 бат (1–2 $) за поездку. Сонгтэо (маршрутные микроавтобусы) курсируют по фиксированным маршрутам по городу и до ближайших городков вроде Пхимая, предлагая ещё более дешёвый транспорт за 10–20 бат за поездку. Для гибкости и удобства приложение Grab (мото-такси и такси) работает по всему Корату и окрестностям, позволяя туристам заказывать поездки с прозрачными ценами через смартфон.\n\nДля поездок к достопримечательностям за городом — особенно Национальному парку Кхао Яй, Историческому парку Пхимай и кафе-зоне Кхао Яй — аренда мотоцикла (200–300 бат / 6–9 $ в день) или автомобиля (1 000–2 000 бат / 28–57 $ в день) даёт наибольшую свободу. Большинство отелей могут организовать аренду автомобиля или услуги водителя. Сонгтэо также регулярно ходят из центра города в Пхимай (1,5 часа, около 50–80 бат) и другие провинциальные направления. Велосипедные прогулки по центру набирают популярность, многие гестхаусы предлагают аренду велосипедов (100–150 бат в день).",
-      "bestTimeToVisit": "Накхонратчасима имеет тропический саванный климат, типичный для исанского региона Таиланда. Идеальное время для посещения — с ноября по февраль, когда температура составляет 15–28°C, влажность ниже, а осадки минимальны. Декабрь и январь — пиковые месяцы с самой приятной погодой: прохладные утра и вечера, солнечные дни, идеальные для посещения Национального парка Кхао Яй и осмотра исторических достопримечательностей без изнуряющей жары.\n\nИзбегайте сентября и октября, когда юго-западный муссон приносит сильные дожди, делая активности в джунглях — наблюдение за дикой природой и посещение водопадов — менее комфортными. С марта по май стоит предмуссонная жара с температурой выше 35°C, что затрудняет дневные занятия на открытом воздухе. Однако в декабре проходит экскурсия на ферму Джима Томпсона, поэтому конец ноября — начало января — идеальное время, чтобы совместить прекрасную погоду с сезонными достопримечательностями и событиями.",
-      "safetyTips": "Накхонратчасима в целом безопасный город для туристов с низким уровнем насильственной преступности. Действуют стандартные городские меры предосторожности: не демонстрируйте дорогие украшения, камеры или крупные суммы наличных; пользуйтесь сейфами в отелях для ценных вещей; следите за личными вещами на оживлённых ночных рынках, где изредка случаются карманные кражи. Территории ночных рынков хорошо освещены и многолюдны, что делает их безопасными вечером, хотя путешественникам стоит избегать безлюдных переулков после наступления темноты.\n\nПри посещении Национального парка Кхао Яй или пеших прогулок в природных зонах оставайтесь на отмеченных тропах и уважайте дикую природу — соблюдайте безопасную дистанцию со слонами и другими животными, никогда не кормите их и избегайте одиночных походов в отдалённые районы. Безопасность дорожного движения важна: при аренде мотоцикла носите шлем (это требование закона) и ведите себя на дороге осмотрительно, поскольку тайские дороги бывают хаотичными. Водопроводную воду пить не рекомендуется — пейте бутилированную воду, которая продаётся повсюду. Медицинское обслуживание в городе хорошее, с современными больницами, хотя рекомендуется оформить туристическую страховку. Тайцы обычно гостеприимны и терпеливы с туристами; знание нескольких базовых тайских фраз повышает и безопасность, и культурное уважение.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "나콘랏차시마(코랏)는 이산 지방 최대 도시이자 태국 동북부로의 관문입니다. 방콕에서 차로 약 3시간, 기차로 약 4시간 거리에 위치하며, 도시와 자연이 완벽하게 어우러진 여행지입니다.\n\n카오야이 국립공원은 유네스코 세계유산으로, 태국에서 가장 인기 있는 국립공원 중 하나입니다. 코끼리, 긴팔원숭이, 코뿔새 등 다양한 야생동물을 만날 수 있으며, 하사나이 폭포(영화 '더 비치'의 촬영지)가 유명합니다.\n\n피마이 역사공원은 11-12세기 크메르 제국의 유적으로, 앙코르와트보다 먼저 건설된 것으로 알려져 있습니다. 코랏 시내의 타오 수라나리 기념비는 19세기 라오스 침략으로부터 도시를 구한 여성 영웅을 기리는 곳으로, 현지인들에게 깊은 존경을 받고 있습니다.",
-      "hidden_gems": [
-        {
-          "name": "짐 톰슨 농장",
-          "description": "12월 연례 축제로 유명한 농장으로, 꽃밭과 유기농 직판이 매력적입니다."
-        },
-        {
-          "name": "왓 반라이 (코끼리 사원)",
-          "description": "코끼리 모양의 독특한 사원으로, 정교한 세라믹 모자이크가 인상적입니다."
-        },
-        {
-          "name": "초크차이 농장",
-          "description": "태국 최대 낙농 농장으로, 가족 친화적 액티비티가 풍부합니다."
-        },
-        {
-          "name": "욤마랏 도로 헤리티지 지구",
-          "description": "식민지 시대 건축물과 카페가 있는 역사적 거리입니다."
-        },
-        {
-          "name": "싸이응암 반얀 트리",
-          "description": "거대한 반얀나무 군락이 작은 숲을 이루는 신성한 자연 명소입니다."
-        }
-      ],
-      "authentic_experiences": [],
-      "foodie_adventures": [],
-      "overview": "나콘랏차시마(코랏)는 이산 최대 도시이자 태국 동북부의 관문으로, 카오야이 국립공원, 피마이 크메르 유적, 타오 수라나리 기념비가 주요 볼거리입니다.",
-      "thingsToDo": "카오야이 국립공원은 유네스코 세계유산으로, 트레킹과 야생동물 관찰의 최적지입니다. 피마이 역사공원에서 크메르 유적을 탐험하고, 짐 톰슨 농장과 왓 반라이(코끼리 사원)를 방문하세요. 코랏 야시장에서 이산 음식도 즐기세요.",
-      "whereToStay": "나콘랏차시마는 모든 예산에 맞는 숙소를 제공합니다. 시내 중심에 호텔이 밀집해 있고, 카오야이 국립공원 입구 주변에는 리조트와 부티크 호텔이 있습니다.",
-      "gettingAround": "나콘랏차시마는 현지 교통이 잘 발달되어 있습니다. 시내에서는 송태우와 툭툭을 이용하고, 카오야이와 피마이 등 외곽 명소는 렌터카나 투어가 편리합니다. Grab 앱도 사용 가능합니다.",
-      "bestTimeToVisit": "나콘랏차시마의 최적 방문 시기는 11월부터 2월까지입니다. 서늘하고 건조하며 카오야이 국립공원 트레킹에 이상적입니다. 3-5월은 매우 덥고(40°C 이상), 6-10월은 우기입니다.",
-      "safetyTips": "나콘랏차시마는 대체로 안전한 도시입니다. 카오야이 국립공원에서 야생동물(특히 코끼리)과 안전 거리를 유지하고, 밤에 공원 도로 운전 시 야생동물 출몰에 주의하세요.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
-    }
-  },
-  "extended_description": "## Overview\nNakhon Ratchasima — universally known as Korat — is the largest city in Isaan and the gateway to Thailand's vast northeastern plateau. With a population of over 460,000, it is a proper Thai metropolis with shopping malls, universities, and a thriving cafe scene, yet it sits at the crossroads of ancient Khmer civilization, wild monsoon jungle, and authentic Isaan culture. The two headline attractions are world-class: Khao Yai National Park, a UNESCO World Heritage Site just 80 km south with wild elephants, gibbons, hornbills, and thundering waterfalls; and Phimai Historical Park, an 11th-century Khmer temple complex that predates Angkor Wat and rivals it in artistic quality. Add the beloved Thao Suranaree (Ya Mo) monument that is the spiritual heart of the city, a food scene anchored by the legendary pad mee Korat noodles, and easy access from Bangkok at just 2.5 hours by car, and you have one of Thailand's most rewarding destinations.\n\n## Best Time to Visit\nNovember through February is optimal — cool and dry weather (18-30°C) makes for perfect conditions at Khao Yai National Park, where wildlife viewing is best during the cooler months. December and January mornings at Khao Yai can drop to 10-15°C — bring layers for early jungle treks. The Thao Suranaree Festival in late March or early April celebrates Ya Mo with weeks of performances and festivities. Jim Thompson Farm in Pak Thong Chai opens its spectacular flower fields to visitors from December through January. March through May is extremely hot (38-42°C), especially on the exposed Khorat Plateau. The rainy season (June-October) brings Khao Yai's waterfalls to full thundering power but makes some trails slippery.\n\n## How to Get There\nKorat is one of the most accessible cities in Isaan. Air-conditioned buses depart Bangkok's Mo Chit Terminal every 30 minutes (3 hours, 200-280 THB) — this is the most popular option. Trains run from Bangkok's Krung Thep Aphiwat Central Terminal roughly hourly (4-5 hours, 50-350 THB depending on class). Driving from Bangkok takes 2.5 hours via Motorway 6, making Korat a popular weekend road trip. Minivans from Bangkok's Victory Monument area offer faster 2.5-hour trips for 200-250 THB. The city has two bus terminals: the modern Bus Terminal 2 on the outskirts, and the older Bus Terminal 1 within walking distance of the old city. Korat has no commercial airport — the nearest is Bangkok.\n\n## Where to Stay\nFor exploring Khao Yai, stay near the park entrance in Pak Chong where resorts and boutique hotels range from 1,000-5,000 THB/night ($28-140), surrounded by green hills and Italian-Thai fusion restaurants that cater to Bangkok weekenders. In Korat city, the old town near Ya Mo monument has budget guesthouses from 400-800 THB ($11-22). Mid-range chains like Sima Thani Hotel and Korat Hotel offer reliable rooms from 1,000-2,500 THB ($28-70). The area around The Mall and Terminal 21 shopping centers has modern hotel options. Yommarat Road in the old quarter has a hipster cafe and gallery scene with converted shophouses. For Phimai, simple guesthouses in the small town near the ruins cost 300-600 THB ($8-17).\n\n## What to Do\nKhao Yai National Park (400 THB entrance for foreigners) is the crown jewel — hire a guide through the visitor center for jungle treks spotting wild elephants, gibbons, and hornbills. Haew Narok waterfall is a thundering 150-meter cascade; Haew Suwat waterfall featured in the film The Beach. At dusk, drive to the bat cave observation point to watch three million wrinkle-lipped bats spiral from the cave in a column visible on weather radar. Phimai Historical Park (100 THB foreigners, 60 km northeast) features an 11th-century Khmer sanctuary with sandstone lintels depicting Ramayana scenes that rival Angkor — visit on a weekday for near-solitude. The Phimai National Museum houses superb Khmer sculpture including the famous Jayavarman VII statue. In Korat city, pay respects at the Thao Suranaree Monument, explore the old quarter's cafe scene on Yommarat Road, and hit the night market near Ya Mo for incredible Isaan street food.\n\n## Food & Dining\nKorat's food identity centers on pad mee Korat — a dark, savory stir-fried noodle dish with thin rice noodles, soy-based sauce, tofu, egg, and bean sprouts that differs completely from pad thai's sweet-sour profile. The best versions come from family stalls near the old market on Chomsurangyat Road (40-60 THB). Moo yor Korat (local pork sausage) has a finer texture than other regional versions and is sold at the night market near Ya Mo (30-60 THB). Standard Isaan fare — som tam, laab, gai yang with sticky rice — is excellent and cheap (30-80 THB per dish). Around Khao Yai, a strip of Italian-Thai fusion restaurants on Thanarat Road serves surprisingly good pizza and pasta from 150-300 THB, catering to the Bangkok weekend crowd. The night market around Ya Mo monument fires up every evening with dozens of food stalls.\n\n## Budget Guide\nKorat offers excellent value for the quality of experiences. Budget travelers spend 600-1,000 THB/day ($17-28): guesthouse, street food, local transport. Mid-range travelers budget 1,500-3,500 THB/day ($42-97) including Khao Yai park entrance (400 THB), guide hire (1,000-2,000 THB for a half-day), car rental for the park (1,000-1,500 THB/day), and comfortable hotel. Phimai entrance is just 100 THB. Khao Yai is the biggest expense — a guided day trip from Korat costs 1,500-3,000 THB per person through local tour operators, or self-driving is significantly cheaper. Food is remarkably affordable — a pad mee Korat and drink at the night market costs under 80 THB.\n\n## Safety & Tips\nKhao Yai is genuine wilderness — follow park rules strictly. Wild elephants are present on roads, especially at dusk and dawn; drive slowly and never approach them. Leeches are common on jungle trails during rainy season — wear long socks and bring salt or a lighter. At Phimai, the site is exposed to sun with little shade — visit early morning. In Korat city, traffic is heavy and chaotic by Thai standards — use Grab for in-city transport rather than walking along busy roads. The tuk-tuk fare from either bus terminal to the old town should be 40-60 THB; agree on the price before getting in. The old city is safe for walking day and night. If driving to Khao Yai, note that the park road has sharp curves and wildlife crossing — drive slowly after dark.",
-  "getting_there": {
-    "from_bangkok": {
-      "method": "Bus (most popular), train, or drive",
-      "duration": "2.5-3h bus / 4-5h train / 2.5h drive",
-      "cost": "200-280 THB bus / 50-350 THB train"
-    },
-    "airport": "N/A (Bangkok airports, 2.5h by road)"
-  },
-  "best_time": {
-    "peak": "Nov-Feb",
-    "shoulder": "Jun-Oct",
-    "low": "Mar-May",
-    "best_months": "Nov-Feb",
-    "why": "Cool dry weather ideal for Khao Yai trekking and Phimai temple visits. Jim Thompson Farm flower fields open Dec-Jan."
-  },
-  "budget": {
-    "backpacker": "$17-28/day",
-    "mid_range": "$42-97/day",
-    "luxury": "$97+/day",
-    "typical_meal": "40-80 THB street food, 150-300 THB restaurant near Khao Yai"
-  },
-  "neighborhoods": [
-    {
-      "name": "Old City / Ya Mo Area",
-      "vibe": "Historic, night markets, cafe culture",
-      "best_for": "Budget travelers, food lovers, city exploration",
-      "price_range": "$11-22/night"
-    },
-    {
-      "name": "Pak Chong / Khao Yai Entrance",
-      "vibe": "Green hills, resorts, weekend getaway vibes",
-      "best_for": "Nature lovers, Khao Yai access, couples",
-      "price_range": "$28-140/night"
-    },
-    {
-      "name": "Phimai Town",
-      "vibe": "Quiet small town near Khmer ruins",
-      "best_for": "History buffs, tranquility",
-      "price_range": "$8-17/night"
-    }
-  ],
-  "must_try_food": [
-    "Pad mee Korat - dark savory stir-fried noodles unique to Korat, completely different from pad thai, best at old market stalls on Chomsurangyat Road (40-60 THB)",
-    "Moo yor Korat - local pork sausage with finer texture than other regional versions, sold at the Ya Mo night market (30-60 THB)",
-    "Som tam and gai yang with sticky rice - classic Isaan combo, fiery papaya salad with charcoal-grilled chicken, available everywhere (60-100 THB for the set)"
-  ],
-  "local_tips": [
-    "Hire a guide at Khao Yai visitor center (1,000-2,000 THB half-day) — they know exactly where to find elephants, gibbons, and hornbills",
-    "Visit Phimai on a weekday to have the entire complex nearly to yourself — a stark contrast to crowded Angkor",
-    "The bat cave spectacle at Khao Yai happens at precisely 5:30-6pm — ask your guide to time the visit",
-    "Take the bus to Korat (3h, 200 THB) rather than the slower train — it is faster, more frequent, and drops you closer to the action",
-    "The cafe scene on Yommarat Road in the old quarter rivals Chiang Mai — converted shophouses with specialty coffee roasters and vintage bookshops"
-  ],
-  "day_trips": [
-    "Khao Yai National Park (80 km south) - UNESCO World Heritage jungle with elephants, waterfalls, and the bat cave spectacle",
-    "Phimai Historical Park (60 km northeast) - 11th-century Khmer temple complex predating Angkor Wat",
-    "Jim Thompson Farm, Pak Thong Chai (32 km south) - spectacular flower fields open Dec-Jan, silk weaving demonstrations",
-    "Wat Ban Rai (60 km south) - extraordinary elephant-shaped temple covered in ceramic mosaics",
-    "Wang Nam Khiao (90 km south) - cool plateau town nicknamed Thailand's Tuscany, with wine estates and mountain views"
-  ],
-  "enriched_at": "2026-03-22"
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z"
 }

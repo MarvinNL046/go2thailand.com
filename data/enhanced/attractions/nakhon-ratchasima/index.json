@@ -1,247 +1,163 @@
 {
   "city_slug": "nakhon-ratchasima",
   "city_name": "Nakhon Ratchasima (Korat)",
-  "total_attractions": 10,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
-      "slug": "khao-yai-national-park",
-      "name": {
-        "en": "Khao Yai National Park (UNESCO)",
-        "nl": "Khao Yai Nationaal Park (UNESCO)"
-      },
-      "type": "nature",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "UNESCO World Heritage national park covering 2,168 sq km of monsoon forest with wild elephants, gibbons, hornbills, and spectacular waterfalls",
-        "nl": "UNESCO Werelderfgoed nationaal park van 2.168 km2 moessonbos met wilde olifanten, gibbons, neushoornvogels en spectaculaire watervallen"
-      },
-      "entrance_fee": {
-        "thb": 400,
-        "usd": 11
-      },
-      "highlights": [
-        "Wild elephants",
-        "Haew Narok waterfall",
-        "Bat cave spectacle"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Yai%20National%20Park%20(UNESCO)%20Nakhon%20Ratchasima%20(Korat)%20Thailand"
-    },
-    {
-      "id": 2,
-      "slug": "phimai-historical-park",
-      "name": {
-        "en": "Phimai Historical Park",
-        "nl": "Phimai Historisch Park"
-      },
-      "type": "cultural",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "11th-century Khmer temple complex that predates Angkor Wat, once the most important sanctuary on the road from Angkor to the north",
-        "nl": "11e-eeuws Khmer-tempelcomplex dat ouder is dan Angkor Wat, ooit het belangrijkste heiligdom op de weg van Angkor naar het noorden"
-      },
-      "entrance_fee": {
-        "thb": 100,
-        "usd": 3
-      },
-      "highlights": [
-        "Pre-Angkor Khmer temple",
-        "Ramayana stone carvings",
-        "Sandstone architecture"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phimai%20Historical%20Park%20Nakhon%20Ratchasima%20(Korat)%20Thailand"
-    },
-    {
-      "id": 3,
       "slug": "thao-suranaree-monument",
       "name": {
-        "en": "Thao Suranaree Monument (Ya Mo)",
-        "nl": "Thao Suranaree Monument (Ya Mo)"
+        "en": "Thao Suranaree Monument",
+        "nl": "Thao Suranaree Monument"
       },
       "type": "cultural",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/nakhon-ratchasima.webp",
       "description": {
-        "en": "Beloved monument honoring the heroine who defended Korat from Laotian invasion in 1826, the spiritual heart of the city",
-        "nl": "Geliefd monument ter ere van de heldin die Korat verdedigde tegen de Laotiaanse invasie in 1826, het spirituele hart van de stad"
+        "en": "The civic and spiritual anchor of Korat, and the best first stop in the city core.",
+        "nl": "Het burgerlijke en spirituele anker van Korat en de beste eerste stop in de stadskern."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "City's spiritual heart",
-        "Night market surrounds",
-        "Local offerings"
+        "Best first stop",
+        "Pairs with Chum Phon Gate",
+        "Ya Mo city core"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thao%20Suranaree%20Monument%20(Ya%20Mo)%20Nakhon%20Ratchasima%20(Korat)%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thao%20Suranaree%20Monument%20Korat"
+    },
+    {
+      "id": 2,
+      "slug": "wat-sala-loi",
+      "name": {
+        "en": "Wat Sala Loi",
+        "nl": "Wat Sala Loi"
+      },
+      "type": "temple",
+      "image": "/images/cities/generated/nakhon-ratchasima.webp",
+      "description": {
+        "en": "The strongest temple stop in the city core, tied directly to the Ya Mo story and known for its distinctive hall.",
+        "nl": "De sterkste tempelstop in de stadskern, direct verbonden met het verhaal van Ya Mo en bekend om de opvallende hal."
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Best city temple",
+        "Distinctive architecture",
+        "Strong historical link to Ya Mo"
+      ],
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Sala%20Loi%20Korat"
+    },
+    {
+      "id": 3,
+      "slug": "phimai-historical-park",
+      "name": {
+        "en": "Phimai Historical Park",
+        "nl": "Phimai Historical Park"
+      },
+      "type": "historical",
+      "image": "/images/cities/generated/nakhon-ratchasima.webp",
+      "description": {
+        "en": "The province's strongest Khmer heritage site and the best history-led extension from Korat.",
+        "nl": "De sterkste Khmer-erfgoedsite van de provincie en de beste geschiedenisgerichte uitstap vanuit Korat."
+      },
+      "entrance_fee": {
+        "thb": null,
+        "usd": null
+      },
+      "highlights": [
+        "Largest Khmer stone temple in Thailand",
+        "Best heritage detour",
+        "Pairs with the museum"
+      ],
+      "best_time": "morning",
+      "duration_hours": 3,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phimai%20Historical%20Park"
     },
     {
       "id": 4,
       "slug": "phimai-national-museum",
       "name": {
         "en": "Phimai National Museum",
-        "nl": "Phimai Nationaal Museum"
+        "nl": "Phimai National Museum"
       },
       "type": "museum",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/nakhon-ratchasima.webp",
       "description": {
-        "en": "Outstanding collection of Khmer sculpture including the famous sandstone statue of King Jayavarman VII, the finest found outside Cambodia",
-        "nl": "Uitstekende collectie Khmer-beeldhouwkunst waaronder het beroemde zandstenen standbeeld van Koning Jayavarman VII, het mooiste gevonden buiten Cambodja"
+        "en": "The museum stop that adds archaeological and sculpture context to a Phimai day.",
+        "nl": "De museumstop die archeologische en sculpturale context toevoegt aan een dag in Phimai."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Jayavarman VII statue",
-        "Khmer sculpture",
-        "Regional artifacts"
+        "Best Phimai companion stop",
+        "Archaeology and sculpture context",
+        "Worth pairing with the ruins"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phimai%20National%20Museum%20Nakhon%20Ratchasima%20(Korat)%20Thailand"
+      "best_time": "morning or early afternoon",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phimai%20National%20Museum"
     },
     {
       "id": 5,
-      "slug": "haew-narok-waterfall",
+      "slug": "khao-yai-national-park",
       "name": {
-        "en": "Haew Narok Waterfall",
-        "nl": "Haew Narok Waterval"
+        "en": "Khao Yai National Park",
+        "nl": "Khao Yai National Park"
       },
       "type": "nature",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/nakhon-ratchasima.webp",
       "description": {
-        "en": "Khao Yai's most dramatic waterfall with a thundering 150-meter cascade through three tiers of jungle-clad cliffs",
-        "nl": "De meest dramatische waterval van Khao Yai met een donderende 150 meter cascade door drie niveaus van met jungle begroeide kliffen"
+        "en": "Thailand's first national park and the province's major protected-landscape extension.",
+        "nl": "Thailand's eerste nationale park en de grote beschermde landschapsuitstap van de provincie."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "150-meter cascade",
-        "Three tiers",
-        "Wildlife spotting"
+        "Thailand's first national park",
+        "UNESCO World Heritage forest complex",
+        "Best nature extension"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Haew%20Narok%20Waterfall%20Nakhon%20Ratchasima%20(Korat)%20Thailand"
+      "best_time": "morning",
+      "duration_hours": 6,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Yai%20National%20Park"
     },
     {
       "id": 6,
-      "slug": "wat-ban-rai",
+      "slug": "khorat-geopark",
       "name": {
-        "en": "Wat Ban Rai (Elephant Temple)",
-        "nl": "Wat Ban Rai (Olifantentempel)"
-      },
-      "type": "temple",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Surreal temple built in the shape of a giant elephant, covered in intricate ceramic mosaics depicting Buddhist stories",
-        "nl": "Surrealistisch tempel gebouwd in de vorm van een reusachtige olifant, bedekt met ingewikkelde keramische mozaieken die boeddhistische verhalen uitbeelden"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Giant elephant shape",
-        "Ceramic mosaic art",
-        "Buddhist murals"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Ban%20Rai%20(Elephant%20Temple)%20Nakhon%20Ratchasima%20(Korat)%20Thailand"
-    },
-    {
-      "id": 7,
-      "slug": "sai-ngam-banyan-tree",
-      "name": {
-        "en": "Sai Ngam (Giant Banyan Tree)",
-        "nl": "Sai Ngam (Reusachtige Banyanboom)"
+        "en": "Khorat UNESCO Global Geopark",
+        "nl": "Khorat UNESCO Global Geopark"
       },
       "type": "nature",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/nakhon-ratchasima.webp",
       "description": {
-        "en": "Enormous 350-year-old banyan tree near Phimai that has grown into an entire forest spanning 1,400 square meters",
-        "nl": "Enorme 350 jaar oude banyanboom bij Phimai die is uitgegroeid tot een heel bos van 1.400 vierkante meter"
+        "en": "A specialist geology-and-fossil route that gives Korat a distinct second identity beyond Khmer heritage and Khao Yai.",
+        "nl": "Een specialistische geologie- en fossielenroute die Korat een duidelijke tweede identiteit geeft naast Khmer-erfgoed en Khao Yai."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "350-year-old tree",
-        "1,400 square meters",
-        "Spirit shrine"
+        "UNESCO Global Geopark framing",
+        "Fossil and paleontology angle",
+        "Best specialist detour"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sai%20Ngam%20(Giant%20Banyan%20Tree)%20Nakhon%20Ratchasima%20(Korat)%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "jim-thompson-farm",
-      "name": {
-        "en": "Jim Thompson Farm",
-        "nl": "Jim Thompson Boerderij"
-      },
-      "type": "cultural",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Sprawling organic farm of the legendary Thai silk company in Pak Thong Chai, open during the annual Farm Tour in December",
-        "nl": "Uitgestrekte biologische boerderij van het legendarische Thaise zijdebedrijf in Pak Thong Chai, open tijdens de jaarlijkse Farm Tour in december"
-      },
-      "entrance_fee": {
-        "thb": 200,
-        "usd": 6
-      },
-      "highlights": [
-        "Annual Farm Tour (December)",
-        "Flower fields",
-        "Silk demonstrations"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jim%20Thompson%20Farm%20Nakhon%20Ratchasima%20(Korat)%20Thailand"
-    },
-    {
-      "id": 9,
-      "slug": "korat-night-market",
-      "name": {
-        "en": "Korat Night Market (Ya Mo Area)",
-        "nl": "Korat Nachtmarkt (Ya Mo Gebied)"
-      },
-      "type": "market",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Bustling evening market around the Thao Suranaree Monument with Isaan street food, moo yor sausage, and local specialties",
-        "nl": "Bruisende avondmarkt rondom het Thao Suranaree Monument met Isaan-streetfood, moo yor worst en lokale specialiteiten"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Pad mee Korat",
-        "Moo yor sausage",
-        "Local atmosphere"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Korat%20Night%20Market%20(Ya%20Mo%20Area)%20Nakhon%20Ratchasima%20(Korat)%20Thailand"
-    },
-    {
-      "id": 10,
-      "slug": "chokchai-farm",
-      "name": {
-        "en": "Chokchai Farm",
-        "nl": "Chokchai Boerderij"
-      },
-      "type": "cultural",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Thailand's largest dairy farm near Pak Chong offering tours, ice cream workshops, horseback riding, and a premium steakhouse",
-        "nl": "Thailand's grootste melkveebedrijf bij Pak Chong met rondleidingen, ijsworkshops, paardrijden en een premium steakhouse"
-      },
-      "entrance_fee": {
-        "thb": 300,
-        "usd": 9
-      },
-      "highlights": [
-        "Farm tours",
-        "Ice cream workshops",
-        "Premium steakhouse"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chokchai%20Farm%20Nakhon%20Ratchasima%20(Korat)%20Thailand"
+      "best_time": "daytime",
+      "duration_hours": 4,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khorat%20UNESCO%20Global%20Geopark"
     }
   ]
 }

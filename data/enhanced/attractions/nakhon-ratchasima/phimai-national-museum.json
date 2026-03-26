@@ -1,0 +1,76 @@
+{
+  "id": 4,
+  "slug": "phimai-national-museum",
+  "name": {
+    "en": "Phimai National Museum",
+    "nl": "Phimai National Museum"
+  },
+  "type": "museum",
+  "city_slug": "nakhon-ratchasima",
+  "address": "Phimai District, Nakhon Ratchasima",
+  "location": null,
+  "opening_hours": "Check current museum operations directly before going.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The museum stop that adds archaeological and sculpture context to a Phimai day.",
+    "nl": "De museumstop die archeologische en sculpturale context toevoegt aan een dag in Phimai."
+  },
+  "highlights": [
+    "Best Phimai companion stop",
+    "Archaeology and sculpture context",
+    "Worth pairing with the ruins"
+  ],
+  "image": "/images/cities/generated/nakhon-ratchasima.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Phimai National Museum | Go2Thailand",
+      "nl": "Phimai National Museum | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Phimai National Museum makes the Phimai heritage day much stronger.",
+      "nl": "Waarom Phimai National Museum de erfgoeddag in Phimai veel sterker maakt."
+    }
+  },
+  "tags": [
+    "korat",
+    "phimai",
+    "museum"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phimai%20National%20Museum",
+  "best_time": "morning or early afternoon",
+  "duration_hours": 1.5,
+  "enhanced_description": "Phimai National Museum matters because it prevents the Phimai outing from becoming a ruins-only stop. The TAT Korat brochure still describes the museum as the place for archaeological objects and regional Khmer-influence context, which is exactly the kind of interpretive support the day needs.\n\nIf heritage is the reason you are in Phimai, the museum is not filler. It is the piece that makes the architecture, sculpture, and regional history read more clearly.",
+  "detailed_history": "TAT's Korat brochure continues to position the museum as the home for archaeological artefacts and Khmer-influence objects from the lower Northeast, including sculpture and architectural fragments connected to the Phimai heritage zone.",
+  "visitor_experience": "Expect a supporting museum rather than a blockbuster independent attraction. Its real value is in what it adds to the historical park visit.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or early afternoon",
+    "duration": "About 1 to 1.5 hours",
+    "crowd_level": "Usually light"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best paired with the historical park in the same Phimai outing.",
+    "nearby_attractions": "Phimai Historical Park is the natural companion stop.",
+    "food_options": "Keep lunch simple in town and let the heritage stops drive the day.",
+    "shopping": "Not a shopping stop."
+  },
+  "insider_tips": [
+    "Do not skip this if the reason for the trip is history.",
+    "Pair it with the historical park, not with a scattered province loop.",
+    "Recheck current operations before the drive."
+  ],
+  "verified_note": "Source-backed summary based on current TAT Korat material and Fine Arts Department institutional reference.",
+  "cultural_significance": "The museum adds the interpretive layer that turns the Phimai outing from a visual stop into a stronger heritage day.",
+  "contentSources": [
+    {
+      "name": "Phimai National Museum",
+      "url": "https://www.finearts.go.th/phimaimuseum"
+    },
+    {
+      "name": "Provincial Brochure: Nakhon Ratchasima",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/Provincial_Brochure_A5_Nakhon_Ratchasima_En.pdf"
+    }
+  ]
+}
